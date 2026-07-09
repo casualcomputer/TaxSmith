@@ -1,0 +1,270 @@
+Title: Gleig v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110968/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-191-110968-gleig-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-07-29
+
+# Gleig v. The Queen
+
+- Citation: 2015 TCC 191
+- Decision date: 2015-07-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2618, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gleig v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-07-29
+Neutral citation
+2015 TCC 191
+File numbers
+2013-1335(IT)I, 2013-1336(IT)I, 2013-1337(IT)I
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-1335(IT)I
+BETWEEN:
+THOMAS GLEIG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of Joana Barbulescu – 2013-1336(IT)I and Andrew Nick – 2013-1337(IT)I on September 25, 2014, at Vancouver, British Columbia,
+with written argument concluded on January 15, 2015
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellants:
+John Drove
+Counsel for the Respondent:
+Shankar Kamath
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2002 taxation year is dismissed. One set of party and party costs is awarded to the respondent.
+Signed at Nanaimo, British Columbia, this 29th day of July 2015.
+“K. Lyons”
+Lyons J.
+Docket: 2013-1336(IT)I
+BETWEEN:
+JOANA BARBULESCU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of
+Thomas Gleig – 2013-1335(IT)I and Andrew Nick – 2013-1337(IT)I
+on September 25, 2014, at Vancouver, British Columbia,
+with written argument concluded on January 15, 2015
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellants:
+John Drove
+Counsel for the Respondent:
+Shankar Kamath
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2002 taxation year is dismissed. One set of party and party costs is awarded to the respondent.
+Signed at Nanaimo, British Columbia, this 29th day of July 2015.
+“K. Lyons”
+Lyons J.
+Docket: 2013-1337(IT)I
+BETWEEN:
+ANDREW NICK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of
+Thomas Gleig – 2013-1335(IT)I and Joana Barbulescu – 2013-1336(IT)I on September 25, 2014, at Vancouver, British Columbia,
+with written argument concluded on January 15, 2015
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellants:
+John Drove
+Counsel for the Respondent:
+Shankar Kamath
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2002 taxation year is dismissed. One set of party and party costs is awarded to the respondent.
+Signed at Nanaimo, British Columbia, this 29th day of July 2015.
+“K. Lyons”
+Lyons J.
+Citation: 2015 TCC 191
+Date: 20150729
+Docket: 2013-1335(IT)I
+BETWEEN:
+THOMAS GLEIG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2013-1336(IT)I
+AND BETWEEN:
+JOANA BARBULESCU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2013-1337(IT)I
+AND BETWEEN:
+ANDREW NICK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lyons J.
+[1] Thomas Gleig, Joana Barbulescu and Andrew Nick, the appellants, each appeal the Minister of National Revenue’s reassessments of the 2002 taxation year in which the Minister of National Revenue (the “Minister”) disallowed Canadian Resource Expenditures (“CREs”) claimed by each appellant. The Minister alleges that Blue Hill Bay Management Inc. (“Blue Hill”) was the promoter of an unregistered tax shelter in connection with the sale to prospective purchasers of an interest in Mineral Claims (“Claims”) owned by Blue Hill.
+[2] In 2002, Blue Hill and each of the appellants, plus other investors, entered into a separate Option Agreement and a separate Consulting Services Agreement (the “Agreements”). Under the Option Agreements, the appellants would each acquire a 0.2% interest in the Claims if they paid $2 upon signing the Agreements, undertook a work program (hiring Blue Hill on their behalf) to incur and pay CREs by certain dates payable by a Promissory Note (the “Note(s)”) in an agreed amount referenced in the Option Agreement. Although not referred to in the Agreements, each appellant paid an out-of-pocket payment equal to 25% of their respective agreed amount. In filing their respective 2002 income tax returns, each appellant claimed the entire agreed amount as CREs.
+[3] The three appeals were heard on common evidence. Each appellant testified on their own behalf. Walter Barnscher and Ann Chong, a Canada Revenue Agency (“CRA”) auditor, testified on behalf of the respondent. Generally, I accept the more detailed evidence of Mr. Barnscher as preferable and more reliable than that of the appellants.
+I. Issues
+[4] The issues are:
+a) Whether the appellants acquired a “tax shelter” as defined in section 237.1 of the Income Tax Act (the “Act”).
+b) Alternatively, whether the transactions between Blue Hill and the appellants were shams, and if so, whether the appellants made misrepresentations attributable to neglect, carelessness or wilful default in their 2002 income tax returns.
+II. Background Facts [5] Blue Hill was incorporated in British Columbia on April 8, 1998. In 2002, it held a beneficial interest in the Claims located in Anyox and Kitsault, British Columbia, as set out in Schedule “A” of the Option Agreements.
+[6] Walter Barnscher was the directing mind, sole employee and acted on behalf of Blue Hill.[1]
+[7] In late 2001 or early 2002, each appellant met individually on one occasion with Walter Barnscher to discuss the potential purchase of an option to acquire an interest in the Claims plus the steps in the arrangement, including the ability to deduct the agreed amount on their 2002 income tax return.
+[8] The appellants – as well as other investors – were to enter, and did enter, into the following arrangements with Blue Hill to obtain an option to acquire an interest in the Claims.
+Option Agreement
+[9] Under their respective Option Agreement (the “Option Agreements”), each appellant was granted and exercised their option to acquire an interest (0.2%) in the Claims (“Interest”) by:
+i) paying $2 upon execution of the Option Agreement;
+ii) undertaking a work program and incurring qualifying CREs in their respective agreed amount on or before December 31, 2002; and
+iii) paying their respective agreed amount to Blue Hill on or before December 31, 2003.
+[10] The agreed amounts were $40,000, $28,000 and $32,000 allocable to Thomas Gleig, Joana Barbulescu and Andrew Nick, respectively, (the “Amount(s)”).
+Consulting Services Agreement
+[11] Under their respective Consulting Services Agreement (the “Consulting Agreement”), each appellant engaged Blue Hill to undertake the work, as operator and project manager, for the work program. Blue Hill purchased exploration credits from Tenton Resources and other entities and contracted out exploration work to a related company, Hidden Rock Drilling Inc., and other entities.
+[12] Each of the appellants testified that they assumed that Blue Hill had undertaken the work program and incurred qualifying CREs.
+Promissory Note
+[13] The work performed by Blue Hill would be payable by each appellant pursuant to a Note, with a promise to pay Blue Hill or on demand for the respective Amount, specified in the Option Agreement, plus interest, at the rate of 6% per annum.
+[14] The Agreements and the Notes were effective January 1, 2002.
+Out-of-pocket payment
+[15] Mr. Barnscher testified that to participate in the arrangement each appellant was expected to make an out-of-pocket payment (i.e., deposit) equal to 25% of the Amount and did so by cheque between October to December 2002. The out-of-pocket payment was not referred to in the Agreements.
+Invoice
+[16] An invoice dated December 31, 2002, was provided by Blue Hill to each appellant relating to the work program. Each invoice shows the Amount, less the “deposit” received, with a balance due.
+[17] Each appellant claimed their respective entire Amount as CREs (comprised of Canadian Development Expenses (“CDEs”) and Canadian Exploration Expenses (“CEEs”)) pursuant to section 66.3 of the Act in the 2002 taxation year.
+[18] Walter Barnscher admitted that Blue Hill did not directly perform any CDEs or CEEs and purchased mineral claim credits from Tenton Resources and consulted with Hidden Rock Drilling Inc. to fulfil its obligations under the Consulting Agreement. Blue Hill was not a flow-through entity.
+[19] The reassessments of the appellants arose as a result of the audit of Blue Hill by the CRA and were issued on March 8, 2009, three years after each of the appellants’ normal reassessment period in subsections 152(3.1) and 152(4) of the Act.
+[20] Blue Hill did not register the property as a tax shelter, was assessed a penalty pursuant to subsection 237.1 (7.4) of the Act and failed to pay the penalty.
+[21] Before incorporating Blue Hill, Mr. Barnscher had promoted a similar arrangement on behalf of Hidden Rock Drilling Ltd. in which investors would contract and pay Hidden Rock Drilling Ltd. to either assign or incur CEEs on their behalf.
+III. Legislation [22] All statutory references in these reasons are to the provisions of the Act and for the 2002 taxation year unless otherwise indicated.
+[23] Subsections 237.1(1), (2), (6.1), (6.2) and (7.4) are the relevant provisions which state:
+237.1 (1) Definitions - In this section,
+“promoter” in respect of a tax shelter means a person who in the course of a business
+(a) sells or issues, or promotes the sale, issuance or acquisition of, the tax shelter,
+(b) acts as an agent or adviser in respect of the sale or issuance, or the promotion of the sale, issuance or acquisition, of the tax shelter, or
+(c) accepts, whether as a principal or agent, consideration in respect of the tax shelter,
+and more than one person may be a tax shelter promoter in respect of the same tax shelter;
+“tax shelter” means any property (including, for greater certainty, any right to income) in respect of which it can reasonably be considered, having regard to statements or representations made or proposed to be made in connection with the property, that, if a person were to acquire an interest in the property, at the end of a particular taxation year that ends within 4 years after the day on which the interest is acquired,
+(a) the total of all amounts each of which is
+(i) an amount, or a loss in the case of a partnership interest, represented to be deductible in computing income in respect of the interest in the property (including, where the property is a right to income, an amount or loss in respect of that right that is represented to be deductible) and expected to be incurred by or allocated to the person for the particular year or any preceding taxation year, or
+(ii) any other amount represented to be deductible in computing income or taxable income in respect of the interest in the property and expected to be incurred by or allocated to the person for the particular year or any preceding taxation year, other than any amount included in computing a loss described in subparagraph (i),
+would equal or exceed
+(b) the amount, if any, by which
+(i) the cost to the person of the interest in the property at the end of the particular year, determined without reference to section 143.2,
+would exceed
+(ii) the total of all amounts each of which is the amount of any prescribed benefit that is expected to be received or enjoyed, directly or indirectly, in respect of the interest in the property by the person or another person with whom the person does not deal at arm’s length,
+but does not include property that is a flow-through share or a prescribed property.
+(2) Application – A promoter in respect of a tax shelter shall apply to the Minister in prescribed form for an identification number for the tax shelter unless an identification number therefor has previously been applied for.
+…
+(6.1) Deductions and claims disallowed – No amount may be deducted or claimed by any person for any taxation year in respect of a tax shelter of the person where any person is liable to a penalty under subsection (7.4) or 162(9) in respect of the tax shelter or interest on the penalty and
+(a) the penalty or interest has not been paid; or
+(b) the penalty and interest have been paid, but an amount on account of the penalty or interest has been repaid under subsection 164(1.1) or applied under subsection 164(2).
+(6.2) Assessments – Nothwithstanding subsections 152(4) to (5), such assessments, determinations and redeterminations may be made as are necessary to give effect to subsection (6.1).
+…
+(7.4) Penalty – Every person who files false or misleading information with the Minister in respect of an application under subsection (2) or, whether as a principal or as an agent, sells, issues or accepts consideration in respect of a tax shelter before the Minister has issued an identification number for the tax shelter is liable to a penalty equal to the greater of
+(a) $500, and
+(b) 25% of the total of all amounts each of which is the consideration received or receivable from a person in respect of the tax shelter before the correct information is filed with the Minister or the identification number is issued, as the case may be …
+[Emphasis added]
+IV. Position
+[24] The appellants’ position is that they each entered into the Agreements for the option to acquire their respective Interests which they believed would be a profitable and viable business. They paid 25% of the face value of the Notes and intended to pay the balance on receipt of demand from Blue Hill, therefore are entitled to the CREs claimed. Undertaking the work program was incidental to their decisions to acquire the respective interests in the Claims.
+[25] Furthermore, the transactions are not a sham and they have not made any representations that are attributable to neglect, carelessness, or willful default or have committed any fraud in filing their respective income tax returns or in supplying any information to the Minister under the Act.
+[26] The respondent’s position is that Blue Hill promoted, with Walter Barnscher as its directing mind, the sale of the Interests to prospective purchasers, the appellants included. All the constituent elements are present to satisfy the definition of “tax shelter” in subsection 237.1(1). Since this was an unregistered tax shelter and subject to an unpaid penalty, the appellants are precluded from deducting any amount pursuant to subsection 237.1(6.1) and are not statute-barred under subsection (6.2).
+[27] Alternatively, the purported Notes and invoices perpetrated a sham as the appellants were never required, nor made any effort, to pay the Amounts.
+V. Analysis Tax Shelter
+[28] A tax shelter contained in section 237.1 refers to “any property” with the requisite condition that statements or representations must be made in connection with the assumed acquisition of the property in advance of the actual purchase by a prospective purchaser to constitute a tax shelter. The elements of the definition of tax shelter consist of “any property” offered for sale where statements or representations in connection with the property:
+a) are made or propose to be made in advance of the sale of the property;
+b) by a prospective seller, or agent, to a prospective purchaser to encourage or induce the acquisition of the property;
+c) communicating or announcing a deductible amount, in respect of the property, to be incurred by and available to the prospective purchaser in computing income and as a consequence of the acquisition of the property; and
+d) it can be objectively determined within a certain timeframe (as detailed more fully in paragraph 40 of these reasons) that the amount that has been communicated to be deductible equals or exceeds the cost to the prospective purchaser of the property, determined at the end of the particular taxation year, less the amount of all “prescribed benefits” expected to be received or enjoyed.[2]
+[29] The definition of tax shelter presupposes that statements or representations must be made by or on behalf of a seller (Blue Hill and Walter Barnscher, respectively) to a prospective purchaser.
+Property
+[30] The appellants argued that the Agreements and the Notes constitute the “property” for the purpose of the definition of tax shelter. In my view, this is a mischaracterization. It is the potential interests in the Claims that were being marketed by Blue Hill to prospective investors that constitute the property, not the Agreements or the Notes.
+Statements and representations of a deductible amount
+[31] In Baxter, Ryer J.A. states, at paragraph 11, that there must be a communication, irrespective of form, to prospective purchasers informing them that a deductible amount would become available to each of them as a consequence of an acquisition by any of them of the property that is offered for sale.
+[32] The appellants argued that the respondent did not plead that Blue Hill or Mr. Barnscher represented to the appellants:
+i) the amount of the expenses that the appellants would be entitled to deduct on making the investments (nor whether such expenses would be losses deductible in computing income);
+ii) the expected revenue of Blue Hill; nor
+iii) the amount of the anticipated losses and if those would be deductible for 2002.
+[33] According to the appellants, there was no evidence that prior to their respective acquisitions of their interests in the Claims that Blue Hill or Mr. Barnscher had made any such representations nor that the Amount was deductible. Rather, he “had one meeting with each of the Appellants at which he represented to each of the Appellants that they had an opportunity to acquire an option to and purchase an interest in the Mineral Claims” and “… explained to each of the Appellants that if they made the investment and acquired the option to purchase the Mineral Claims they would be able to deduct the expenses incurred by each of them qualifying Canadian Resource Expenditures pursuant to the Consulting Services Agreement to be entered into between Blue Hill and each of the Appellants.”
+[34] I have concluded that the appellants’ argument cannot succeed because it incorrectly focuses on the actual acquisitions rather than assumed acquisitions relating to prospective purchasers. In Baxter, the Court, at paragraphs 36 and 52, concluded that the wording in the provision “if a person were to acquire an interest in the property” demonstrates that the definition of tax shelter is “forward-looking” and contemplates an assumed acquisition of the Interests by prospective purchasers.
+[35] Walter Barnscher testified that he had stated to prospective investors that if they participated in the arrangement that their cost for tax purposes would be four times their out-of-pocket amount. He also informed prospective investors that they would be able to claim a $40,000 expense on their income tax return if they made an out-of-pocket payment of $10,000. That arrangement called for investors, including each appellant, to:
+a) enter into the Agreements with Blue Hill;
+b) pay $2 upon the execution of the Option Agreement, undertake a work program to incur qualifying CREs in the agreed amount on or before December 31, 2002, and pay the agreed amount, referenced in the Option Agreement, to Blue Hill on or before December 31, 2003;
+c) sign a Note in the agreed amount payable to Blue Hill which investors were not required to pay;
+d) pay an out-of-pocket payment equal to 25% of the agreed amount; and
+e) deduct the agreed amount in their income tax returns.
+[36] After meeting with the appellants, including other investors, Mr. Barnscher sent the Agreements (accompanied by a request that they sign and return these to Blue Hill) and the Notes, pre-dated with the effective date of January 1, 2002. He also sent an invoice dated December 31, 2002 for the agreed amount payable for work to be performed and a sample Statement of Business Activities form in one package with a Memo, tendered as Exhibit R-4, describing to the appellants how to expense the entire Amount on their income tax returns.
+[37] Whilst the appellants testified that they received an invoice for the work program towards the end of 2002, this conflicts with Mr. Barnscher’s testimony that after he met with the appellants in late 2001 or early 2002 he sent the invoice as part of the package.
+[38] Mr. Barnscher’s representation that an amount - four times of their out-of‑pocket payment - would be deductible for tax purposes in computing income, was made in the context of an assumed acquisition of the property to prospective investors in advance of the acquisition of, and connection with, the property. It also addresses the proposed income tax consequences that would arise on the assumed acquisition. Confirmation of this was provided in the package of documents sent after the meeting. I find that this fulfills the requirement of “represented to be deductible in computing income” under subparagraph 237.1(1) (a)(i) of the definition of a tax shelter.[3]
+Amount expected to be incurred
+[39] As to the second part of subparagraph 237.1(1)(a)(i), an amount that is “expected to be incurred by … the person” would be satisfied as a consequence of the assumed acquisition of an interest in the property as an amount that can be incurred by a prospective purchaser (that is, the appellants).
+[40] The Court in Baxter, at paragraph 14, notes that the question posed is whether in light of statements or representations communicated, it may reasonably be considered that at the end of any particular taxation year of the prospective purchaser ending within the four-year period, the amount that has been announced or communicated to be deductible to the prospective purchaser as a consequence of the prospective acquisition of the property equals or exceeds the cost to the prospective purchaser of the property, determined at the end of the particular taxation year in question, less the amount of all “prescribed benefits” expected to be received or enjoyed, directly or indirectly, in respect of that property by the prospective purchaser.
+Prescribed benefit
+[41] As an illustration, the invoice issued to Mr. Gleig reflects the $40,000 (Amount) incurred, the $10,000 (out-of-pocket payment or deposit) received and the $30,000 balance due. The appellants testified that although they did not pay the balance due under the Notes, they believed that they had to pay, and would pay, if they received a demand from Blue Hill, failing which they would lose their respective Interest.
+[42] Mr. Barnscher confirmed that neither the balance due, nor interest, under the Notes were paid by any of the appellants or other investors nor did they inquire as to the status of the balance due. He indicated that the appellants were not required to pay the balance due under the invoices or the Notes and confirmed that Blue Hill made no attempts to contact the appellants to demand payment of the Notes. I accept Mr. Barnscher’s explanation and reject the appellants’ assertions that they believed they had to pay. I find that the balance due under the Notes constitutes a prescribed benefit, as defined in subsection 231(6) of the Income Tax Regulations, CRC, c. 945, for the purposes of the definition of a tax shelter in subsection 237.1(1).[4]
+[43] In Mr. Gleig’s circumstances, under subparagraph 237.1(1)(a)(i), the amount represented to be deductible in computing income in the 2002 taxation year and expected to be incurred was $40,000.
+[44] Since that amount exceeds the amount of $10,000 arrived at under paragraph 237.1(1)(b), it can reasonably be considered that the calculation component of the definition of a tax shelter in subsection 237.1(1) is satisfied.[5]
+[45] Blue Hill meets the definition of a “promoter” in paragraph 237.1(1)(a).[6] The provisions in subsections 237.1(2) and (4) require that a promoter in respect of the tax shelter must obtain an identification number from the Minister before there can be any sale of a property constituting a tax shelter.[7] Clearly, Blue Hill did not apply to the Minister for an identification number with respect to the Interests marketed and a penalty was levied, which remains unpaid.[8]
+VI. Conclusion [46] In the circumstances, Blue Hill as a promoter, through Mr. Barnscher, marketed the sale of the Interests to investors. The income tax deduction expected to be available to purchasers of the Interests was a favourable marketing feature. The representation was made to prospective investors on behalf of Blue Hill, communicating or announcing to them that if they were to purchase an Interest, the acquisition cost of the Interest would be fully deductible in computing income notwithstanding that only 25% had been paid. The package of information was used in the sales campaign. In my opinion, the Interests marketed, including the Interests acquired by the appellants, meet the constituent elements of the definition to constitute tax shelters and a tax shelter identification number should have been obtained before any of the Interests were sold. Since it was unregistered and a penalty remains unpaid, the appellants are precluded from deducting any amount. Therefore, the Minister correctly disallowed the CREs in 2002 claimed by each appellant which resulted in a net business loss.
+[47] The consequence of my finding that the Interests marketed were tax shelters is that, by virtue of subsection 237.1(6.1), the appellants are precluded from claiming any deduction in respect of the acquisition cost of their respective Interest acquired because no amount may be deducted by a person (the appellants) in respect of a tax shelter where any person (Blue Hill) is liable to such a penalty which remains unpaid.
+[48] Notwithstanding the general time limitation periods in subsection 152(4) relating to assessments and reassessments, subsection 237.1(6.2) provides the Minister with the authority to reassess beyond those time limits to give effect to subsection 237.1(6.1).
+[49] Since this suffices to dispose of the appeals, it is unnecessary to deal with the alternative issue and arguments.
+VII. Relief [50] The appeals are dismissed.
+[51] One set of party and party costs is awarded to the respondent.
+Signed at Nanaimo, British Columbia, this 29th day of July 2015.
+“K. Lyons”
+Lyons J.
+CITATION:
+2015 TCC 191
+COURT FILE NOS.:
+2013-1335(IT)I, 2013-1336(IT)I and 2013‑1337(IT)I
+STYLE OF CAUSE:
+THOMAS GLEIG and HER MAJESTY THE QUEEN
+JOANA BARBULESCU and HER MAJESTY THE QUEEN
+ANDREW NICK and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+September 25, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice K. Lyons
+DATE OF JUDGMENT:
+July 29, 2015
+APPEARANCES:
+Counsel for the Appellants:
+John Drove
+Counsel for the Respondent:
+Shankar Kamath
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+John Drove
+Firm:
+John Drove Law Corporation
+Vancouver, British Columbia
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] On October 23, 2001, the sole director and officer of Blue Hill was changed from Walter Barnscher to his spouse, Joan Barnscher. As at that date, each of the following shareholders held 200 common shares: Walter Barnscher, Joan Barnscher, Matthew Barnscher (son), Shawna Barnscher (daughter), Carson Barnscher and Austin Barnscher were the shareholders. Walter Barnscher was the sole employee.
+[2] Baxter v Canada, 2007 FCA 172, 2007 DTC 5199 (FCA) [Baxter], at paras. 9 to 13. More recently in Canada v. O’Dwyer, 2013 FCA 200, 2013 DTC 5156 (FCA), the Court said that actual losses are irrelevant.
+[3] Under the legislation, the amount deductible could be the acquisition cost, a cost incurred to obtain the property or an amount allocated to the holder of the property.
+[4] Subsection 231(6) of the Income Tax Regulations refers to a prescribed benefit as any amount that may reasonably be expected to have the effect of reducing the impact of any loss that the purchaser may sustain in respect of their interest in the property.
+[5] The $10,000 is the difference between subparagraphs (b)(i) and (ii) comprising of the $40,000 for the cost of participation to acquire the interest and the $30,000 as a prescribed benefit for the balance due, respectively.
+[6] The promoter must also file an information return for the year containing the name and address of every investor, the amount paid and must provide investors with two copies of the return specific to them.
+[7] If there is a failure to comply with these provisions, a promoter who sells or issues tax shelters before the Minister has issued an identification number is liable to a penalty of 25% of all the consideration received or receivable in respect of the tax shelters.
+[8] Subsection 237.1(6) would also require the appellants to provide the Minister with the prescribed form and identification number for the tax shelter.

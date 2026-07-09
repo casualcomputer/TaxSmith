@@ -1,0 +1,188 @@
+---
+title: "Bourget v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28975/index.do"
+last_modified: "2008-11-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 634"
+citation2: ""
+neutral_citation: "2008 TCC 634"
+decision_date: "2008-11-20"
+language: "en"
+item_id: "28975"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6785
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:37:36.265000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "da1bb6421b650d9974427341939fca99ac864c9bb2923d064fc7803ad3efe276"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bourget v. The Queen
+
+- Citation: 2008 TCC 634
+- Decision date: 2008-11-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6785, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bourget v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-20
+Neutral citation
+2008 TCC 634
+File numbers
+2005-2277(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2277(IT)G
+BETWEEN:
+KATHERINE ROSE BOURGET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 28 and 29, 2008 at London, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Ennio Micacchi
+Counsel for the Respondent:
+Jenny P. Mboutsiadis
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of an assessment made under section 160 of the Income Tax Act and dated April 27, 2007 is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that (1) the fair market value of the property transferred was $170,000, and (2) the consideration given on the transfer includes $54,000 on account of an assumed debt to Jansje Oosterman. The appellant is entitled to her costs.
+Signed at Toronto, Ontario this 20th day of November 2008.
+“J. Woods”
+Woods J.
+Citation: 2008TCC634
+Date: 20081120
+Docket: 2005-2277(IT)G
+BETWEEN:
+KATHERINE ROSE BOURGET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This is an appeal by Katherine Bourget in respect of an assessment made under section 160 of the Income Tax Act. The amount of tax that has been assessed is $68,252.
+[2] On December 3, 2003, Ed Oosterman, the appellant’s husband, transferred his interest in their principal residence to her. At the time of the transfer, the husband was in financial difficulty and the admitted purpose of the transfer was to keep the property out of the reach of creditors.
+[3] There is no debate about whether section 160 applies in this case. The question is simply how much should be assessed. The appellant submits that the assessment should take into account an amount contributed to the property by her mother-in-law.
+Factual background
+[4] In the fall of 2000, Mr. Oosterman purchased a vacant lot near Woodstock, Ontario on which he built a family home. At some point, Mr. Oosterman transferred a one-half undivided interest in the property to the appellant in order to facilitate bank financing. This transfer is not at issue in this appeal.
+[5] In 2003, after the construction of their home was virtually complete, the couple decided to have Mr. Oosterman’s mother live with them on the property in a self-contained apartment.
+[6] The apartment was built as a stand alone building with a double garage on the lower floor. The construction was financed entirely by the appellant’s mother‑in‑law, Jansje Oosterman. Originally, the apartment was not connected to the couple’s home, but later Mrs. Oosterman paid for the construction of a breezeway between the two residences.
+[7] During the construction of the mother-in-law’s apartment, Mr. Oosterman’s trucking business fell on hard times and it went out of business. With the advice of a lawyer, Mr. Oosterman transferred his remaining interest in the property to the appellant on December 3, 2003 so that it would not be available for creditors. It is this transfer that led to the assessment under s. 160.
+[8] Approximately three months after the transfer, a charge in favour of the mother-in-law was registered on the property. The registration document reflects an obligation of the appellant to repay $135,000 to the mother-in-law on demand and without interest. The document further states that the charge is collateral security for promissory notes.
+Relevant legislative provision
+[9] Section 160 of the Act provides a mechanism for the government to collect tax, not from the tax debtor, but from non-arm’s length persons who acquire property from the tax debtor for less than full consideration. Recently, Sexton J.A. of the Federal Court of Appeal stated that the provision is to be interpreted in light of its intended purpose: The Queen v. Livingston, 2008 DTC 6233, 2008 FCA 89, at para. 1.
+[10] The relevant part of section 160 for purposes of this appeal is the underlined portion of subsection 160(1) below. It has the effect of imposing joint and several liability for a tax debt on a non-arm’s length transferee to the extent that the fair market value of the property transferred exceeds the consideration given.
+(1) Tax liability re property transferred not at arm’s length. Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse or common-law partner or a person who has since become the person’s spouse or common-law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm’s length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferor’s tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of
+the property at the time it was transferred exceeds the
+fair market value at that time of the consideration given
+for the property, and
+(ii) the total of all amounts each of which is an amount that
+the transferor is liable to pay under this Act in or in
+respect of the taxation year in which the property was
+transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+Procedural history
+[11] It may be useful in this case to set out some of the procedural history, which is quite lengthy.
+[12] An assessment was first issued to the appellant under section 160 on May 26, 2005.
+[13] An objection to the assessment was filed in due course which argued that: (1) the fair market value of the property as determined by the Minister of National Revenue was too high, and (2) the Minister failed to take into account the contribution by the mother-in-law.
+[14] After considering the objection, the Minister issued a new assessment which did not adjust the valuation but it did make a reduction for the mother‑in‑law’s contribution. The reassessment was issued on May 26, 2005 and the amount of the reduction was $54,000.
+[15] The appellant then appealed this assessment directly to this Court on the valuation issue.
+[16] After pleadings had been exchanged, the Minister apparently changed his mind about taking into account the mother-in-law’s contribution. And so, the respondent sought to amend the reply to add this as an issue. The proposed amendment was opposed and Miller J. of this Court refused to allow it.
+[17] That was not the end of the matter, however, because the Minister then proceeded to replace the assessment with a new one. It is this assessment, which was issued on April 27, 2007, that is now at issue.
+[18] By some twist of fate, the effect of the mother‑in‑law’s contribution now becomes the only issue to be decided. As a result of a pre-trial settlement conference, the parties have settled the valuation issue by agreeing to a fair market value of the property at the relevant time of $340,000.
+[19] The remaining issue has two aspects: should the mother-in-law’s contribution reduce the assessment, and, if so, should it be reduced by $54,000 or some lesser amount?
+[20] If the appellant is successful on both these issues, there will be a small amount of tax remaining. Counsel for the appellant suggested that the tax would be $2,252.20 but I have not checked this calculation.
+[21] I now turn to the first issue which is whether the mother-in-law’s contribution should be taken into account at all.
+Should assessment be reduced by mother-in-law’s contribution?
+[22] It is the position of the appellant that the doctrine of constructive trust applies to the financial contribution that the mother-in-law made to the new building, and as a result the mother-in-law had a beneficial ownership interest in the property at the time of the transfer on December 3, 2003. The effect of this would be to reduce the value of the husband’s interest that was transferred to the appellant.
+[23] Although the appellant originally argued that there was a resulting trust as well, the resulting trust argument was subsequently abandoned. For the doctrine of resulting trust to apply, the appellant and Mr. Oosterman would have had to intend that the mother‑in‑law have an ownership interest in the property, and it was acknowledged that the parties did not give this any consideration.
+[24] This Court has had the opportunity on many occasions to consider whether the doctrines of constructive trust and resulting trust should be applied in the context of a section 160 assessment. It is a difficult issue and the matter is not yet settled.
+[25] Much of the argument before me related to this issue, but I have concluded that it is not necessary to wade into this debate because the elements of a constructive trust are not present in this case.
+[26] In Savoie v. The Queen, 93 DTC 552 (TCC), former Chief Justice Bowman reviewed the elements of constructive trust as follows:
+a) an enrichment,
+b) a corresponding deprivation, and
+c) an absence of any juristic reason for the enrichment.
+[27] The circumstances in which the doctrine of constructive trust are often applied concern a spouse who makes a contribution to the family home without consideration being given. The foundation of the principle is in the notion that there has been an unjust enrichment.
+[28] In this case, the evidence rather clearly points to a loan having been made by the mother-in-law. In circumstances such as this, there is no constructive trust because there is no deprivation, no unjust enrichment.
+[29] Two factors strongly suggest that the mother-in-law’s contribution was in the nature of a loan. First, the mother-in-law, the appellant and her husband all testified that the funds were to be repaid to the mother-in-law at some point. This is entirely understandable because Mrs. Oosterman has several other children and it is unlikely that she would intend to make a gift of this size to one of them.
+[30] Second, the charge that was registered on title three months after the transfer states that the mother-in-law’s contribution is collateral security for promissory notes.
+[31] The appellant testified that there never were any promissory notes. I accept this testimony, but it does not mean that the charge is not security for a loan that had not been reduced to writing.
+[32] In light of the conclusion that the financing by the mother-in-law was a loan, I cannot accept the appellant’s position that the doctrine of constructive trust applied to give the mother-in-law an ownership interest in the property.
+[33] That does not mean that the assessment is correct, however. If the debt to the mother‑in‑law was assumed by the appellant on the transfer of the property, that assumption would constitute consideration that reduces the appellant’s liability under section 160.
+[34] Unfortunately, the pleadings were not framed with this issue in mind and it only came up when I raised it during argument. Counsel for the respondent strenuously objected to my considering it at this late stage. After much discussion, the parties settled the procedural point by agreeing that the issue of whether consideration was given would be considered by me but that the evidence would not be reopened.
+[35] Where does that leave us? The debt to the mother‑in‑law was either assumed on the transfer or it was not. The question is: which of these two possibilities is more likely?
+[36] In circumstances such as this, it could be argued that the appellant did not assume the husband’s debt because she did not specifically agree to do so. The evidence as a whole, though, suggests that she did assume the debt.
+[37] First, given the husband’s financial situation at the time of the transfer, the appellant likely acquired the only asset that her husband had to satisfy the debt to the mother‑in‑law.
+[38] In addition, the mother-in-law’s contribution was so linked to the property that it is unlikely that the appellant would agree to acquire the property from her husband without assuming the debt which financed one of the buildings on the property.
+[39] I conclude that it is more likely than not that the appellant did give consideration on the transfer by assuming her husband’s share of the loan from the mother‑in‑law. It is not clear from the evidence whether the mother-in-law was aware of the transfer when it occurred in December of 2003 but I do not think that this makes a difference.
+What was amount of the debt on December 3, 2003?
+[40] The remaining issue is the amount of the consideration.
+[41] It is the position of the appellant that the contribution that had been made by the mother-in-law by December 3, 2003 was $108,000. The theory behind this is that the charge that was registered three months later was for a debt of $135,000, and at December 3, 2003 the new building was 80 percent complete. The $108,000 figure represents 80 percent of this amount.
+[42] The respondent does not dispute the 80 percent figure and she does not dispute that more than $135,000 was spent in total by the mother‑in‑law. Nevertheless, the respondent does not agree that the mother-in-law spent $108,000 by December 3, 2003. The main reason for this is the dates on the invoices for the work done.
+[43] I have decided to accept the appellant’s position on this issue. Once the Minister has accepted that 80 percent of the work was done before December 3, 2003, it is a little late for the Minister to then take the position that less than 80 percent of the total cost had been incurred by that date. If work had been completed by December 3, 2003 for which invoices had not yet been issued, then there was an obligation to pay for that work.
+[44] I am troubled somewhat by the dates of the invoices but I think that the Minister for all intents and purposes gave up this issue when he made the assumption that the building was 80 percent complete on December 3, 2003.
+[45] I conclude, then, that the consideration given by the appellant on the transfer on December 3, 2003 includes one-half of $108,000, or $54,000.
+Conclusion
+[46] The appeal will be allowed, and the assessment will be referred back to the Minister to reassess on the basis that (1) the fair market value of the property transferred was $170,000; and (2) the consideration given on the transfer includes $54,000 in respect of the assumption of the liability to the mother‑in‑law. The appellant is also entitled to costs.
+Signed at Toronto, Ontario this 20th day of November 2008.
+“J. Woods”
+Woods J.
+CITATION: 2008TCC634
+COURT FILE NO.: 2005-2277(IT)G
+STYLE OF CAUSE: KATHERINE ROSE BOURGET AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATES OF HEARING: October 28 and 29, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice J. Woods
+DATE OF JUDGMENT: November 20, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Ennio Micacchi
+Counsel for the Respondent:
+Jenny P. Mboutsiadis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Ennio Micacchi
+Firm: Nesbitt Coulter LLP
+Woodstock, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

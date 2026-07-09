@@ -1,0 +1,172 @@
+Title: Ilijoic c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/143108/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-74-143108-ilijoic-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2016-03-22
+
+# Ilijoic c. M.R.N.
+
+- Citation: 2016 CCI 74
+- Decision date: 2016-03-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3106, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ilijoic c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-03-22
+Référence neutre
+2016 CCI 74
+Numéro de dossier
+2015-90(EI)
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2015-90(EI)
+ENTRE :
+HELEN MARTHA ILIJOIC,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé
+[TRADUCTION FRANÇAISE]
+Appel entendu le 19 février 2016, à Edmonton (Alberta)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelante :
+Bradley Angove - Étudiant en droit
+Avocats de l’intimé :
+Me Ian Wiebe
+Adam Pasichnyk, stagiaire en droit
+JUGEMENT
+L’appel concernant la décision du ministre du Revenu national datée du 14 octobre 2014 et prise en vertu de la Loi sur l’assurance-emploi est rejeté et la décision du ministre du Revenu national est confirmée.
+Signé à Ottawa, Canada, ce 22e jour de mars 2016.
+« V.A. Miller »
+Juge V.A. Miller
+Référence : 2016 CCI 74
+Date : 20160322
+Dossier : 2015-90(EI)
+ENTRE :
+HELEN MARTHA ILIJOIC,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Le présent appel vise à déterminer si les paiements reçus par l’appelante dans le cadre d’un régime d’assurance-salaire (RAS) durant la période du 1er janvier 2013 au 31 décembre 2013 constituent une rémunération assurable au titre de l’article 2 de la Loi sur l’assurance-emploi (la Loi) et de l’article 2 du Règlement sur la rémunération assurable et la perception des cotisations (le Règlement).
+FAITS [2] Les témoins présents à l’audience étaient l’appelante et Sherwyn Wharton, un agent d’appel de la Division des décisions RPC/AE de l’Agence du revenu du Canada (l’ARC).
+A. Preuve de l’appelante [3] L’appelante est une employée de Dow Chemical Canada ULC (Dow). Elle a commencé à travailler pour cette entreprise en 1990 en tant que technologue en chimie, puis est devenue technologue de recherche en 1993. En septembre 2003, l’appelante est tombée malade. Durant la période de septembre 2004 au 21 mars 2005, elle a été incapable de travailler et a reçu des prestations en vertu d’un régime d’assurance-invalidité de courte durée. En 2005, la compagnie d’assurance Sun Life (la Sun Life) a approuvé sa demande de prestations du régime d’assurance-invalidité de longue durée (ILD) rétroactivement au 22 mars 2005. La Sun Life était l’administrateur du régime.
+[4] L’appelante ne travaille pas depuis 2004. Cependant, elle est toujours une employée de Dow et participe au régime d’assurance, d’assurance-dentaire et d’assurance-médicale.
+[5] L’appelante a soumis les documents suivants à titre de preuve :
+• Lettres de Dow datées du 31 janvier 2005 et du 29 juin 2005 concernant les prestations d’ILD;
+• Un courriel de Dow daté du 28 mars 2008 concernant le protocole de réadaptation;
+• Une page du Guide de prestations portant la date de 2002;
+• Un document intitulé « CLAIM FILE » daté du 23 février 2005 pour l’appelante;
+• Sept avis de paiement de la Sun Life datés du 22 juin 2005 au 8 janvier 2007;
+• Entente de modification de la police de groupe 83140 (police 83140) envoyée par la Sun Life à Dow le 1er juillet 2004.
+[6] L’appelante a indiqué qu’en 2005, la Sun Life avait jugé qu’elle était admissible à des prestations d’ILD. Elle a mentionné que lorsque sa demande de prestations d’ILF a été approuvée, le numéro de police de l’entente conclue entre la Sun Life et Dow était le 83140. L’appelante a déposé en preuve une copie du document intitulé « Entente de modification No 7, Modification de la police de groupe 83140 » (la police 83140 ou la police). La police a été envoyée à Dow par la Sun Life. Le numéro de police était indiqué sur divers autres documents présentés en preuve par l’appelante. Plus particulièrement, il était inscrit sur les avis de paiement qui ont été envoyés à l’appelante par la Sun Life lorsque cette dernière a déposé de l’argent dans le compte bancaire de l’appelante (les avis de paiement). Les avis de paiement indiquent le montant brut, les taxes fédérales déduites et la somme déposée dans son compte bancaire. Les avis de paiement présentés en preuve étaient datés du 22 juin 2005 au 8 janvier 2007.
+[7] La police 83140 était une police d’assurance conclue entre la Sun Life et Dow dont la date d’entrée en vigueur était le 1er juillet 2004. La police comprenait une assurance-vie et une assurance-invalidité de longue durée. Selon la police, Dow payait des cotisations à la Sun Life et était responsable de l’administration de la police en conformité aux instructions fournies par la Sun Life. La disposition sur l’assurance-invalidité de longue durée contenait une clause subrogatoire. Elle stipulait que si la Sun Life avait payé ou était tenue de payer une prestation pour une blessure ou une maladie pour laquelle un tiers était ou pouvait être responsable, la Sun Life revendiquerait son droit de remboursement.
+[8] Je note que Dow pouvait résilier la police en donnant un avis écrit et que la date de résiliation serait alors la date à laquelle la Sun Life a reçu l’avis, ou la date de résiliation indiquée dans l’avis. La Sun Life pouvait aussi résilier la police au premier anniversaire de celle-ci ou à la date d’échéance de la cotisation suivant cette date en donnant un avis écrit de 60 jours à Dow.
+B. Preuve de l’intimé [9] M. Wharton a expliqué que ce dossier a été ouvert à la Division des appels par une vérificatrice nommée Laurie Vallette. Lorsqu’elle a ouvert le dossier, Laurie Vallette a envoyé une lettre à l’appelante et à Dow. La lettre adressée à Dow était datée du 7 mai 2014 (pièce R-3) et demandait à cette dernière de fournir tous les renseignements pertinents à l’appui de sa position concernant l’appelante. Le dossier a ensuite été attribué à M. Wharton.
+[10] La lettre de Dow en réponse à la demande de l’ARC était datée du 16 juillet 2014 (pièce R-4). Voici un extrait de cette lettre :
+[traduction]
+Votre lettre ne décrit pas le problème exact de Mme Ilijoic. Cependant, lorsqu’elle a téléphoné à notre centre de services, elle a exprimé des préoccupations selon lesquelles des cotisations d’assurance-emploi (AE) avaient été déduites de ses prestations d’ILD de 2013 et a indiqué qu’elle prévoyait interjeter appel. Vous trouverez ci-dessous un résumé des renseignements et des faits à l’appui de notre position que la financière Sun Life a correctement déduit les cotisations d’AE des prestations d’ILD de 2013 de Mme Ilijoic au nom de Dow.
+[...]
+Mme Ilijoic était activement à l’emploi de Dow du 18 septembre 1990 au 21 mars 2005. Le 22 mars 2005, elle a commencé à recevoir des prestations dans le cadre du programme d’invalidité de longue durée (ILD) de Dow, qui est administré par la financière Sun Life selon une entente de services de gestion seulement (SGS).
+Durant la période du 1er janvier 2013 au 31 décembre 2013, Mme Ilijoic a continué à toucher des prestations d’ILD en vertu de cette entente de SGS. Comme la financière Sun Life paye des prestations à Mme Ilijoic au nom de Dow par l’intermédiaire d’un régime d’assurance-salaire (ILD), elle a déduit des cotisations d’AE de ses prestations de 2013. D’après le libellé du Guide de l’employeur ci-dessus, nous croyons que cette mesure était correcte.
+[11] M. Wharton a ensuite demandé et reçu une copie du contrat de services de gestion seulement (contrat de SGS) entre la Sun Life et Dow. Ce contrat portait le numéro 25506 et était en vigueur depuis le 1er janvier 2008. J’examinerai les dispositions de ce contrat dans la section Analyse de ma décision.
+C. Position de l’appelante [12] L’appelante était représentée par Bradley Angove, un étudiant en droit. Il a cité les dispositions législatives pertinentes. M. Angove a indiqué que lorsque l’appelante a présenté sa demande de prestations d’ILD, l’entente entre Dow et la Sun Life était la police 83140. Son admissibilité à des prestations d’ILD a été déterminée conformément à la politique 83140; il s’agissait d’un contrat d’assurance et non d’un contrat de services de gestion seulement (SGS). Dow a payé les cotisations à la Sun Life pour la police d’assurance, mais la Sun Life, l’assureur, a déterminé l’admissibilité de l’appelante à des prestations conformément à la police 83140. La Sun Life a versé des paiements à l’appelante et a assumé le risque conformément à cette police. Le contrat contenait une clause subrogatoire. Le contrat de services de gestion seulement (pièce R-1) n’est pas pertinent, car il n’était pas en vigueur lorsque l’appelante a été jugée admissible à des prestations dans le cadre d’un RAS.
+D. Position de l’intimé [13] M. Pasichnyk, stagiaire en droit, représentait l’intimé. Il a mentionné que la question dans cet appel était de déterminer si les paiements faits au titre du RAS et reçus par l’appelante en 2013 constituaient une rémunération assurable. Il a cité les dispositions législatives pertinentes, puis a affirmé que les paiements reçus par l’appelante en 2013 étaient entièrement financés par Dow.
+[14] Selon la position de l’intimé, la période en cause dans cet appel est l’année 2013. L’appelante a peut-être reçu ses paiements du RAS en vertu du contrat d’assurance (police 83140), mais le contrat n’était pas en vigueur en 2013. Le contrat de SGS était en vigueur à compter du 1er janvier 2008 et l’est demeuré en 2013. Par conséquent, les paiements du RAS reçus par l’appelante en 2013 étaient versés en vertu du contrat de SGS. Les montants payés à l’appelante en 2013 par la Sun Life étaient en réalité des paiements faits par Dow à l’endroit de l’appelante, car la Sun Life était un mandataire de Dow.
+II. DISPOSITIONS LÉGISLATIVES [15] Les dispositions pertinentes de la Loi sur l’assurance-emploi et du Règlement sur la rémunération assurable et la perception des cotisations sont les suivantes :
+Loi sur l’assurance-emploi
+2 (1) Définitions—Les définitions qui suivent s’appliquent à la présente loi.
+[…]
+rémunération assurable Le total de la rémunération d’un assuré, déterminé conformément à la partie IV, provenant de tout emploi assurable. (insurable earnings)
+5 (1) Sens de emploi assurable—Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+Règlement sur la rémunération assurable et la perception des cotisations, DORS/97-33
+2(1) Pour l’application de la définition de rémunération assurable au paragraphe 2(1) de la Loi et pour l’application du présent règlement, le total de la rémunération d’un assuré provenant de tout emploi assurable correspond à l’ensemble des montants suivants :
+(a) le montant total, entièrement ou partiellement en espèces, que l’assuré reçoit ou dont il bénéficie et qui lui est versé par l’employeur à l’égard de cet emploi;
+III. ANALYSE ET DÉCISION [16] La première question à trancher dans cet appel est celle de savoir si les paiements du RAS reçus par l’appelante en 2013 ont été versés en vertu de la police 83140 ou du contrat de SGS. J’ai conclu qu’ils ont été versés en vertu du contrat de SGS.
+[17] Je suis d’avis que bon nombre des documents soumis par l’appelante n’étaient pas pertinents en ce qui concerne la question dont je suis saisie. Tous les documents soumis portaient une date antérieure à 2013. Les avis de paiement qui indiquaient le montant déposé dans son compte bancaire par la Sun Life portaient le numéro de contrat 83140. Cependant, tous ces avis étaient datés d’avant 2008. Le dernier était daté du 8 janvier 2007.
+[18] En contre-interrogatoire, l’appelante a avoué avoir reçu des avis de paiement de la Sun Life au moins une fois par année, et elle en avait reçu en 2013. Elle ne les a pas inclus dans son cahier de documents et ne les a pas apportés en Cour. J’ai tiré une conclusion défavorable de son omission de soumettre les avis de paiement de 2013. J’en déduis que l’appelante n’a pas soumis d’avis de paiement de 2013 parce qu’ils n’auraient pas appuyé sa position dans cet appel. Je remarque que chaque avis de paiement de 2005 à 2007 contenait le numéro de contrat en vertu duquel les paiements ont été faits. J’en déduis également que les avis de paiement de 2013 contenaient probablement le numéro de contrat en vigueur pour 2013, qui était le contrat de SGS – 25506.
+[19] L’appelante a peut-être reçu des paiements du RAS en vertu de la police 83140 de 2005 à 2007, mais il semble que cette police n’était pas en vigueur en 2013. Le contrat de SGS, lui, était en vigueur à compter du 1er janvier 2008 et l’est demeuré en 2013. Lors du contre-interrogatoire, l’appelante a avoué que ses paiements du RAS de 2013 ont [traduction] « probablement » été versés conformément au contrat de SGS.
+[20] La lettre de Dow adressée à l’ARC indique clairement qu’en 2013, l’appelante a touché des prestations de la Sun Life en vertu d’un contrat de service de gestion seulement. Lorsque M. Wharton a demandé à Dow de lui remettre le contrat pertinent, le contrat de SGS lui a été envoyé.
+[21] La deuxième question à trancher est celle de savoir si le fait que l’admissibilité de l’appelante à des prestations d’ILD ait été déterminée en vertu de la police 83140 est important. Je ne crois pas ce que ça le soit. La question n’est pas de savoir en vertu de quelle police elle a été jugée admissible à des prestations d’ILD pour la première fois, mais en vertu de quelle police elle a été jugée admissible à des prestations en 2013. Cette police est celle qui est pertinente en l’espèce.
+[22] Selon le contrat de SGS, pour être admissible à des prestations, [traduction] « un employé doit être membre d’une catégorie d’employés admissibles tel que convenu entre le promoteur du régime (Dow) et l’administrateur du régime » (Sun Life). Il est clair d’après le contrat de SGS que Dow avait le pouvoir de décision final concernant l’admissibilité d’un employé à une couverture du régime rattaché au contrat de SGS.
+[23] Les documents de l’appelante comprenaient un courriel daté du 27 mars 2008 de la part de Paula Westaway, spécialiste du régime de prestations chez Dow. D’après ce courriel, en 2008, l’appelante a été tenue de subir d’autres examens médicaux indépendants. Il me semble que son admissibilité à des prestations du RAS a de nouveau été déterminée en 2008. Je remarque que le contrat de SGS était en vigueur le 1er janvier 2008.
+[24] La prochaine question est de déterminer si les paiements faits au titre du RAS et reçus par l’appelante en 2013 constituaient une rémunération assurable.
+[25] Au paragraphe 2(1) de la Loi, une « rémunération assurable » est définie comme « le total de la rémunération » d’un assuré provenant de tout emploi assurable, déterminé conformément à la partie IV. En l’espèce, il n’est pas contesté que l’appelante avait un « emploi assurable » durant la période visée. Les deux parties ont convenu que l’appelante était une employée de Dow en 2013 et qu’elle était donc employée aux termes d’un contrat de louage de services conformément à l’alinéa 5(1)a) de la Loi.
+[26] L’alinéa 2(1)a) du Règlement prévoit que le « total de la rémunération » est « le montant total, entièrement ou partiellement en espèces, que l’assuré reçoit ou dont il bénéficie et qui lui est versé par l’employeur à l’égard de cet emploi ». [Non en gras dans l’original.]
+[27] Dans Canada (Procureur Général) c. Banque Nationale du Canada, 2003 CAF 242, le juge Letourneau a résumé les principes juridiques énoncés par la Cour d’appel fédérale dans la décision antérieure Université Laval c. Canada (Ministre du revenu national), 2002 CAF 171. Cette décision portait sur les principes juridiques à prendre en considération lorsqu’il faut déterminer si des prestations d’un RAS sont versées par un employeur à l’égard de l’emploi. Il écrit :
+1) l’expression « à l’égard de » cet emploi qui qualifie la rémunération versée par l’employeur et que l’on retrouve au paragraphe 2(1) du Règlement revêt une acception particulièrement large;
+2) une rémunération assurable au sens du Règlement peut exister même en l’absence de prestations de services par l’employé;
+3) les indemnités d’assurance-salaire versées par l’employeur constituent de la rémunération assurable au sens de la Loi et du Règlement alors que celles versées par un tiers-assureur sont exclues de la définition de cette rémunération;
+[...]
+5) une indemnité est versée par un employeur dans le cadre du contrat de travail lorsqu’apparaissent les indices suivants qui ne sont pas nécessairement exhaustifs : le régime d’assurance-salaire est entièrement payé par l’employeur, le lien d’emploi subsiste pendant l’invalidité, l’indemnité payable est augmentée si le salaire est augmenté durant la période d’invalidité, le versement est effectué par l’employeur lors des périodes normales de paie pendant les 52 premières semaines d’invalidité et par l’assureur par la suite, et enfin l’employeur décide de l’admissibilité aux prestations et signe les chèques. [Non en gras dans l’original.]
+[28] Selon la Cour d’appel fédérale, la présence de tous et de chacun des indices énumérés au principe (5) n’est pas requise pour justifier une conclusion que l’indemnité est versée par l’employeur.
+[29] Le RSA est un régime collectif et est désigné dans le contrat de SGS comme « le régime ». Le contrat de SGS contient les dispositions suivantes :
+a) [traduction] Clause 2 : La Sun Life a respecté ses obligations découlant du contrat de SGS en tant que mandataire de Dow et non en tant qu’assureur;
+b) Clause 7 : La Sun Life n’a pas assuré le régime. Dow a conservé la responsabilité juridique et financière de payer les prestations dans le cadre du régime et toutes les dépenses engagées pour l’administration du régime, sauf les dépenses assumées par la Sun Life. La Sun Life n’avait aucune obligation de défendre le régime ni Dow dans le cadre de toute action. Dow a indemnisé la Sun Life pour les dommages, obligations et dépenses découlant de réclamations ou de poursuites intentées contre la Sun Life en lien avec le régime ou le contrat de SGS;
+c) Clause 10 : La Sun Life a ouvert un compte bancaire à son nom, qui a été utilisé uniquement pour le régime et le contrat de SGS. Le compte bancaire était financé par Dow;
+d) Annexe B : La Sun Life a offert des services de gestion et de réclamation pour le compte de Dow. Ces services comprenaient ce qui suit :
+Services de gestion
+i. Tenir les dossiers nécessaires à l’analyse de l’expérience, au calcul de la réserve, au paiement des prestations, à la prévision des coûts futurs et à l’estimation des coûts pour les modifications au régime;
+ii. Fournir un relevé mensuel des paiements comportant suffisamment de détails pour permettre le contrôle et la vérification des fonds du régime;
+iii. Préparer un rapport financier annuel indiquant les activités du régime durant l’année;
+iv. Aider à préparer des documents de communication pour les employés concernant les prestations versées dans le cadre du régime;
+v. Préparer et imprimer des formulaires de réclamation;
+vi. Préparer les documents du régime et toute modification proposée aux fins d’examen et d’approbation par Dow.
+Services de réclamation
+i. Fournir des conseils concernant l’admissibilité des personnes couvertes à des prestations aux termes des documents du régime;
+ii. Mener une enquête sur les réclamations qui en nécessitent une et obtenir l’opinion d’experts, notamment d’experts médicaux au besoin;
+iii. Communiquer avec Dow aux fins d’examen et de décision finale pour :
+a) tout conflit concernant l’admissibilité d’une personne ou la couverture prévue par le régime ou le droit à des prestations;
+b) toute situation où une personne conteste le montant dû;
+c) de manière générale, toute question controversée ou inhabituelle découlant de l’administration du régime lorsqu’une telle question ne peut être réglée de manière satisfaisante dans le cadre des procédures et des pratiques de gestion des réclamations établies.
+[30] Il est clair que la Sun Life a simplement agi comme mandataire de Dow, qui finançait entièrement le RAS et assumait tous les risques financiers du régime. La Sun Life n’était pas un assureur, mais l’administrateur du régime. Dow avait le pouvoir de décision final en ce qui concerne l’admissibilité d’une personne ou la couverture fournie dans le cadre du régime.
+[31] Je conclus donc que les prestations du RAS reçues par l’appelante en 2013 étaient versées par Dow à l’égard de son emploi et que ces prestations constituaient une rémunération assurable. L’appel est rejeté.
+Signé à Ottawa, Canada, ce 22e jour de mars 2016.
+« V.A. Miller »
+Juge V.A. Miller
+RÉFÉRENCE :
+2016 CCI 74
+Nº DU DOSSIER DE LA COUR :
+2015-90(EI)
+INTITULÉ :
+HELEN MARTHA ILIJOIC ET M.R.N.
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 19 février 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 22 mars 2016
+COMPARUTIONS :
+Avocat de l’appelante :
+Bradley Angove - Étudiant en droit
+Avocats de l’intimé :
+Me Ian Wiebe
+Adam Pasichnyk, stagiaire en droit
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Bradley Angove - Étudiant en droit
+Cabinet :
+13004 205 Street NW
+Edmonton (Alberta)
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

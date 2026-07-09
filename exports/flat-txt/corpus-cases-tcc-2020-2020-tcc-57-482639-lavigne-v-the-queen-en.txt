@@ -1,0 +1,185 @@
+Title: Lavigne v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/482639/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-57-482639-lavigne-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-07-16
+
+# Lavigne v. The Queen
+
+- Citation: 2020 TCC 57
+- Decision date: 2020-07-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4589, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lavigne v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-07-16
+Neutral citation
+2020 TCC 57
+File numbers
+2015-3870(IT)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-3870(IT)G
+BETWEEN:
+RIKA LAVIGNE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 6, 2019, at Windsor, Ontario.
+Before: The Honourable Justice Gaston Jorré, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Alexander R. Menzies
+Counsel for the Respondent:
+Dustin Kenall
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal is dismissed.
+With respect to the question of costs, the Registry of the Court will be writing to the parties to arrange for brief written submissions with respect to costs given the procedural history of this matter. [1]
+Signed at Ottawa, Canada, this 16th day of July 2020.
+“Gaston Jorré”
+Jorré J.
+Citation: 2020TCC57
+Date: 20200716
+Docket: 2015-3870(IT)G
+BETWEEN:
+RIKA LAVIGNE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+[1] This is a business expense case and a penalty case. A majority of the business expenses claimed by the Appellant were disallowed and gross negligence penalties were assessed.
+[2] The Appellant describes herself as a mortgage agent. In the 2010 and 2011 taxation years she reported gross revenues of approximately $148,000 and $146,000 per year, respectively; she also reported expenses of approximately $138,000 and $145,000 resulting in net income of about $10,700 and $1,200. [2]
+[3] The Canada Revenue Agency (CRA) reassessed both of the years and disallowed very substantial amounts of the claimed expenses. [3]
+[4] The Appellant filed a notice of objection and the CRA subsequently increased modestly the amount of expenses allowed; the net result of the changes made was to disallow approximately $76,000 and $74,000 of the expenses claimed in the 2010 and 2011 years respectively. These disallowed amounts represent somewhat more than half the claimed expenses in each year.
+Facts and Analysis - Expenses
+[5] At the hearing, the Appellant did not substantively challenge many of the disallowed expenses.
+[6] For example, in both years the Appellant claimed wage expenses of $38,500; the CRA disallowed $26,000 of those expenses. The balance of $12,500 in each year was paid to the Appellant’s husband and accepted by the CRA. The $26,000 in expenses disallowed in each of 2010 and 2011 represent more than one third of the expenses at issue.
+[7] Given that these disallowed wage expenses are part of the amounts subject to the gross negligence penalty, I will make a few other comments with regard to them.
+[8] At the hearing, these expenses came up only in cross-examination when the Appellant agreed that she had claimed the $26,000 in 2010 in relation to cleaning and computer services but stated that she paid cash and had no documents to support the claim. [4] She did not name the individuals or provide any other detail.
+[9] I simply do not believe that someone who kept hundreds of restaurant receipts, a few of which are below $10, would obtain no documentation when paying the $52,000 in wages in issue over the course of two years. This amounts to $500 a week. [5] It is also unlikely that she would have paid exactly $26,000 for cleaning and computer consultant services two years in a row.
+[10] The only reasonable inference that can be made is that $26,000 in salary expenses in each of the years were fictitious. The Appellant would have to have known they were fictitious.
+[11] Another example where the CRA’s change was not challenged is with respect to an amount of $2,851 in meal and entertainment expenses that were disallowed in respect of the 2010 taxation year. The change with respect to meal and entertainment expenses in 2011 was contested and I shall come back to that below.
+[12] I also note that the Appellant explicitly stated that she was not challenging the change made by the CRA with respect to automobile expenses.
+[13] The Appellant testified as did Mr. D. Kupin, an auditor employed by the CRA. Numerous documents were filed.
+[14] Turning to the contested parts of the assessment, I will begin with the 2011 meal and entertainment expenses. This is also an opportune point at which to deal with credibility generally.
+[15] With respect to the 2010 expenses claimed under the heading meals and entertainment, the CRA eventually allowed 58% of those expenses after reviewing the information provided. With respect to 2011, rather than reviewing each individual expenses, the CRA simply allowed 58% of the amount claimed without reviewing individual expenses.
+[16] In 2011 the Appellant claimed $8,648 under the heading meals and entertainment. Given the 50% rule in section 67.1 of the Income Tax Act the amount claimed presupposes that the Appellant spent twice that amount on business meals.
+[17] Exhibit A-2 contains two lists of claimed meal expenses plus photocopies of receipts, all in relation to the 2011 year. The two lists are similar. The first list of seven pages shows expenses grouped by restaurant and totals $16,284.84. The second list of eight pages, formatted differently, is grouped by date and indicates certain duplicate receipts to be excluded from the total. Although the second list does not have a total amount, its total is somewhat less than the first list given that the duplicates add up to about $400 to $500. [6]
+[18] The original claim for expenses included the double counting of meals where there were duplicate receipts.
+[19] The Appellant explained that in order to obtain business she engages in a certain number of entertainment expenses. The CRA does not dispute this. The CRA does dispute the quantum.
+[20] Much of the Appellant’s evidence was lacking in detail. When taken as a whole, her evidence is not credible. Some of the considerations leading to my conclusion on credibility are:
+a) The Appellant claimed non-existent wage payments in her tax returns.
+b) Even after eliminating the duplicates meals, the Appellant made claims for some 360 meals totaling about $16,000 in the 2011 year. When one goes through the second list, given the sheer number and timing of the meals it is implausible for all these meals to be business meals. A fair number are on Saturdays or Sundays; there are days where the timing seems quite remarkable, for example: On 30 April 2011 there are restaurant receipts showing a time of 2:02 PM, 5:41 PM and 9:35 PM; similarly on 26 November 2011, a Saturday, there are restaurant receipts showing the time of 11:36 AM, 11:58 AM and 6:37 PM.
+c) In addition to the fact that they were duplicates I am satisfied that some receipts relied on by the Appellant were altered to increase the amount of the receipt. Indeed, in one case the Appellant admitted that she altered a date on a receipt so it would be in 2010 instead of 2009. [7]
+d) Among the meals claimed by the Appellant in 2011, there are a total of 36 meals at the Palette Dining Lounge and Breeze Restaurant. Both restaurants are at the MGM Grand, a casino in Michigan. [8] After examining the receipts, I am satisfied that they were all or mostly personal meals of the Appellant and her husband. [9]
+e) She also claimed expenses for items that are prima facie personal expenses and which she did not relate to her business; for example, one Costco bill in evidence includes pork tenderloin, Montreal steak, Pam, Special K, red peppers and peppers. [10]
+[21] There is simply nothing in the evidence that would lead me to conclude that the Appellant is entitled to any additional business meal expenses.
+[22] The Appellant also made an argument that the CRA should have examined each individual meal claim for 2011 as it did for 2010 and not simply allowed the same percentage of the 2011 claims as for the 2010 claims. I know of no legal principle preventing the CRA from taking the approach that it did in determining the permissible meal expenses. The approach taken was not unreasonable.
+[23] The CRA having made that determination it then became incumbent upon the Appellant to demonstrate to this Court that a greater amount of the meal expenses should be allowed. As already stated the Appellant has failed to do so.
+[24] In 2010 the Appellant claimed an amount of $4,932.30 paid to a law firm on or around 28 January 2010. This expense was denied by the CRA.
+[25] There is in evidence the duplicate copy of a cheque made out to Hogarth Hemiston in Trust in that amount. [11] The Appellant testified that she sometimes makes mistakes and that she sometimes has to reimburse the lawyer if the lawyer has already started the work. However, she was unsure what this specific cheque was for and stated that the handwriting on the cheque appeared to be her husband’s.
+[26] I am not persuaded that this cheque was in payment of a business expenditure. The Appellant is best placed to provide information about her financial affairs and one would expect her to be able to explain what the amount was for, as well as provide further supporting documentation. [12]
+[27] The Appellant also claimed $5,798 in 2010 and $4,032 in 2011 in expenses for business use of her home respectively. These expenses amount to 25% of the cost of heat, electricity, insurance, maintenance, mortgage interest and property taxes for her family’s home. These amounts were entirely disallowed by the CRA.
+[28] Among other conditions, before a taxpayer can claim business expense for use of their home, they must meet either the condition contained in subparagraph 18(12)(a)(i) or the condition contained in subparagraph 18(12)(a)(ii) of the Income Tax Act. Specifically, the part of the home claimed must be either:
+(i) the individual’s principal place of business, or
+(ii) used exclusively for the purpose of earning income from business and used on a regular and continuous basis for meeting clients, customers or patients of the individual in respect of the business;
+(Emphasis added.)
+[29] The Appellant paid some $9,132 in rent in each of the two years in question for an office outside her home. I also note that while her claim was reduced, the Appellant was allowed over $10,000 in automobile expenses in each year representing a significant amount of driving to conduct her business.
+[30] While I accept that the Appellant may, on occasion, have met clients at her home, her testimony did not suggest that her home was her principal place of business nor did it suggest that there was any portion of the home that was used exclusively for her business. [13] Accordingly the CRA made no error in disallowing the business use of home expenses. [14]
+[31] There remains other assorted items that the Appellant disputed at the hearing, many of which could be described as gifts. I note that some business gifts were accepted by the CRA.
+[32] I am not persuaded that the Appellant is entitled to these additional items given my general conclusion as to the weight to be given to the Appellant’s evidence. In view of that conclusion, it would have required clear independent evidence to demonstrate that a particular disputed expenditure that appears to be of a personal nature was in fact a valid business expense. Here there was no such evidence. Such evidence might have been the testimony of a third party or a clear third party record. [15]
+[33] There is no reason to increase the expenses allowed.
+[34] At some points in the hearing, the Appellant seemed to be taking the position that she was an employee although she filed her tax return on the basis that she was self-employed and was assessed on that basis. Indeed, she also testified that she was self-employed. [16] In any event, the evidence presented did not demonstrate that the Appellant was an employee. [17]
+The Section 163(2) Penalty
+[35] The key portions of subsection 163(2) of the Income Tax Act relevant to this appeal are:
+i. First, the existence of a false statement and
+ii. Secondly, that the statement was made, assented to or acquiesced in
+1. knowingly or
+2. under circumstances amounting to gross negligence.
+[36] It is clear that the first requirement is met. That there are false statements is beyond doubt. Numerous non-existent expenses or personal expenses were claimed as business expenses.
+[37] Turning to the second requirement, the Appellant testified that, in essence, she had no specialized training in tax or accounting and she did her best with respect to her expense claims.
+[38] She hired an individual [18] to do her tax returns and provided him with her total expenses in each category but did not provide him with the receipts.
+[39] The Appellant did not testify as to what efforts she made to review the accuracy of the information in the returns before signing them. She did not testify as to what efforts she made to determine that she was choosing an appropriate person to do her returns or what discussions, if any, she had with him about what could and could not be deducted. Since Mr. Bauer was not called we do not have the benefit of his testimony on what information he asked for and what information he was provided with.
+[40] One needs no special training or expertise to know that one can not claim an expense that was never made. Nor does one need such knowledge to know that having dinner with one’s spouse is not normally a business expense.
+[41] With respect to the second requirement, it is clear that many of the false statements were done knowingly, thereby meeting the second requirement. This is true of the $26,000 in each year for the non-existent wage claims and for other claims such as those with altered receipts or meals with her husband. More generally, I have no doubt that the Appellant, who worked hard, knew that she was not doing all that work for a net income of only around $10,700 and $1,022 in 2010 and 2011 respectively. The Appellant had to know that her expenses were inflated.
+[42] Even apart from specific expenses where the Appellant could not have been unaware of the fact that they were invalid, given the sheer magnitude of the invalid expense claims, I infer that the Appellant was indifferent to whether her expense claims were valid or not. [19]
+[43] Such indifference constitutes wilful blindness and meets the requirement of “knowingly” making a false statement. [20]
+[44] There is no reason to vary the penalty.
+Conclusion
+[45] For the reasons set out above the appeal is dismissed. The Registry will be contacting the parties with respect to submissions on costs.
+Signed at Ottawa, Canada, this 16th day of July 2020.
+“Gaston Jorré”
+Jorré J.
+CITATION:
+2020 TCC 57
+COURT FILE NO.:
+2015-3870(IT)G
+STYLE OF CAUSE:
+RIKA LAVIGNE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Windsor, Ontario
+DATE OF HEARING:
+DATE TRANSCRIPT BECAME AVAILABLE TO THE COURT:
+March 6, 2019
+March 20, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré, Deputy Judge
+DATE OF JUDGMENT:
+July 16, 2020
+APPEARANCES:
+Agent for the Appellant:
+Alexander R. Menzies
+Counsel for the Respondent:
+Dustin Kenall
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This matter has proceeded in part under the General Procedure and in part under the Informal Procedure. Up until the morning when the hearing began, the appeal had proceeded under the General Procedure Rules. At the opening of the hearing the Appellant sought and the Respondent consented to the appeal being moved from the general procedure to the informal procedure; the Respondent did however state that it did so reserving its rights to seek costs if successful. In the circumstances, a few minutes into the hearing, I allowed the Appellant to make the late election - see subsection 18(1) of the Income Tax Act and Rule 16(1) of the Tax Court of Canada Rules (Informal Procedure).
+[2] In the years 2004 to 2009 the Appellant reported on lines 162 and 135 of her tax returns gross and net business income of approximately: $185,000 and $74,000 in 2004; $140,000 and $41,000 in 2005, $115,000 and $24,000 in 2006, $124,000 and $11,000 in 2007, $180,000 and $17,000 in 2008 and $122,000 and $5,000 in 2009 – see pages 11 to 17 at Tab 41 of Exhibit R-2.
+[3] The Income Tax Act empowers the Minister of National Revenue to carry out her functions through her agents. However, as a result of the Canada Revenue Agency Act and the implementation of that Act, from a practical point of view citizens perceived that they are dealing with the Agency and not the Minister; as a result I shall refer to the Canada Revenue Agency rather than the Minister of National Revenue in these reasons.
+[4] In Exhibit R-1B, her answers to written examination for discovery; there are also answers to the same effect at answer 46 (at the top of the fifth page) and at answer 47 (in the top half of the sixth page). In those two answers, she adds that she was unable to locate the janitor and the computer consultant that she paid.
+[5] The claims for meals as an entertainment expense are discussed below. Examples of meal receipts below $10 are Subway $8.44, McDonad's $5.98 and Yogen Fruz $6.67 - see the first list in Exhibit A-2 that is seven pages long and grouped alphabetically by restaurant.
+[6] To get totals close to that necessary to support the amounts claimed, the Appellant had to be double counting the $400 to $500 at the time the return was filed.
+[7] See for example pages 102 and 103 of the transcript relating to a restaurant receipt for $34 that became a receipt for $134 or pages 129 to 130 of the transcript where a gift receipt was altered from $3.50 to $33.50. For the receipt with the altered date see page 123 of the transcript.
+There are also instances where the Appellant submitted both the restaurant bill and the credit card slip for a particular meal and the names of the persons entertained written on the back of the bill and back of the credit card slip were different. For example, the Appellant included in her documents photocopies of the front of both a bill and a credit card slip for a January 28, 2010 meal at Mezzo restaurant. We do not have copies of the back; however, one can see on the photocopy that names were written on the back; when looking at the pages with light behind them the names on the back appear to be different - see pages 46 and 47 of Exhibit R-4 and pages 108 to 110 of the transcript where the Appellant agrees that these are for the same meal but said she was unable to say whether different people are listed.
+Another example: on the left hand side of page 5 of Tab 4 of Exhibit R-3 there are both a bill and a credit card slip for the same meal on April 16, 2010 at the Pit for Pasta. While the copies are hard to read, it is clear that they are for the same meal and that the guest name shown on the back of each is clearly different.
+[8] The receipts are in A-2.
+[9] While parts of many of these receipts are not legible, one can often read enough to infer that some kind of rewards or points cards belonging to the Appellant and to her husband Andrew are being used to pay for dinner. For example, the Palette receipt for September 19, 2011 at 20:17 shows two buffet dinners for a total of $56; of that total $18.24 appears to be paid from the Appellant's card and $33.76 from her husband's card. The balance was paid in cash. There are also meals where the meal was paid by her husband's credit card; see for example the Palette credit card receipt of 04/03/11 for $56 paid on the credit card of the Appellant's husband. At Breeze Restaurant there are examples where both the Appellant's and her husband's rewards cards are being used or where only the husband's card is used - an example of the husband's card only being used is the 4/8/2011 Breeze receipt for $17.
+[10] See page 15 of Exhibit R-4.
+[11] Exhibit R-4, page 18.
+[12] One would expect her to have received a bill giving some indication as to what was being paid for. Given all the meal receipts kept by the Appellant one would expect the Appellant to have also retained a bill for almost $5,000. Also, had the bill been lost, one might expect the Appellant to have tried to obtain a copy from her lawyer; in this respect I note that her 2010 return was dated the 15th day of June 2011 (see Exhibit R‑1B) and the audit began with an initial contact letter dated 16 October 2012 (see page 2 at Tab 7 of Exhibit R-2).
+[13] Based on the evidence, this was not a situation where one could say there was a serious argument to be made that the condition of either subparagraph 18(12)(a)(i) or subparagraph (ii) were met.
+[14] Given that conclusion, it is not necessary for me to deal with the quantum of the home use expenses. However, had it been necessary, I would note the following: the Appellant claimed $5,798 and $4,032 for business use of the home in 2010 and 2011 respectively. This was based on business use of the home being 25% in both years. The detail of the claimed amount is in the two T1 tax returns at the back of Exhibit R-1B.
+At the audit stage, the CRA first examined total home expenses and concluded that they were lower than indicated in the tax returns. In particular, while the 2010 and 2011 returns claimed total mortgage interest of $10,998 and $4,455 respectively, the auditor received no information on the mortgage interest claim and assumed that no mortgage interest was paid. See page 28 at Tab 8 and page 19 at Tab 11 of Exhibit R-2. At the hearing, the Appellant led no evidence to support the greater amount claimed in the returns.
+The CRA also concluded that the percentage of business use of the home was 16% in both years. Taking these findings together, the CRA concluded that the amount potentially deductible was $1,237 and $1,176.
+However, given that the CRA determined that neither of the two alternative preconditions had been met, it did not allow any business use of the home expenses. At the hearing, the Appellant led no evidence as to the quantum of home office expenses or the percentage business use of the home.
+Consequently, even if the preconditions of subparagraphs 18(12)(a)(i) or (ii) had been met the allowable amounts would have been $1,237 and $1,176 rather than $5,798 and $4,032.
+[15] I am not unmindful of the difficulties involved especially for a series of small amounts but the Appellant has put herself in this position. One example is $600 claimed to send business relations to a Detroit Lions game at the time of the US Thanksgiving. The Appellant testified that she was seeking tickets at the last minute and the only way to do so was to buy tickets from Armando's, a restaurant in Windsor. Armando's also provided transportation by bus. In support of this is a largely unreadable receipt from Armando's that gives no indication what the amount received was for - the receipt is found at page 7, at Tab 6 of Exhibit R-3. Had there been a valid entertainment expense, subsection 67.1(1) would have reduced the deductible amount by 50% because the cost of attending a sports event is an entertainment expense.
+Other examples of expenses in this category are purchases from the LCBO, Elton John tickets, materials to make a costume, ...
+There is also a $200 claim for a political contribution to an individual running for mayor. In that particular case the amount is not deductible because it is prohibited by subsection 8(1)(n) of the Income Tax Act. Given that the candidate was running for municipal office, the federal political contribution tax credit in subsection 127(3) has no application.
+[16] Of course that is ultimately a question of law.
+[17] Apart from a letter (Exhibit A-1) which contains a bare assertion, by someone who did not testify, that the Appellant was an employee, there is nothing in the evidence to support such a conclusion. There is no evidence of anyone controlling the Appellant or providing tools or equipment and the Appellant certainly had the chance of making a profit and the risk of incurring losses. It is also not apparent to me how being an employee would have assisted the Appellant's appeal.
+[18] A Mr. Bauer, he is identified on the tax returns as Matthew Bauer Tax Services.
+[19] Nothing in the evidence persuades me, or even suggests, that the magnitude of the invalid claims occurred in spite of genuine efforts to insure that only valid expenses were claimed.
+[20] See, for example, the discussion of the law by Justice Owen in Peck v. The Queen, 2018 TCC 52 at paragraphs 43 to 56. See also paragraphs 4 to 45 of the decision of Justice D'Auray in Bradshaw v. The Queen, 2019 TCC 1 (Tax Court of Canada Rules General Procedure).

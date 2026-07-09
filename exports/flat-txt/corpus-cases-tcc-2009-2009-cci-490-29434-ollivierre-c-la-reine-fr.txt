@@ -1,0 +1,163 @@
+Title: Ollivierre c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29434/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-490-29434-ollivierre-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-10-01
+
+# Ollivierre c. La Reine
+
+- Citation: 2009 CCI 490
+- Decision date: 2009-10-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6938, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ollivierre c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-10-01
+Référence neutre
+2009 CCI 490
+Numéro de dossier
+2008-1946(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1946(IT)I
+ENTRE :
+MARVA A. OLLIVIERRE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 15 juillet et
+25 août 2009, à Toronto (Ontario).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocats de l’intimée :
+Me Brandon Siegal
+Me Darren Prevost
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 1996 est accueilli, avec dépens le cas échéant, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que l’appelante a le droit de déduire les pertes qu’elle a subies cette année‑là dans le cadre de l’exploitation d’une entreprise.
+Il est en outre ordonné de rembourser à l’appelante les droits de dépôt de 100 $ qu’elle a versés.
+Signé à Ottawa, Canada, ce 1er jour d’octobre 2009.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 12e jour de novembre 2009.
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2009 CCI 490
+Date : 20091001
+Dossier : 2008-1946(IT)I
+ENTRE :
+MARVA A. OLLIVIERRE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Rip
+[1] Dans le présent appel (interjeté sous le régime de la procédure informelle), des ententes mal rédigées ont contribué à compliquer le problème fiscal d’une contribuable dont le revenu est modeste. L’appelante, Mme Ollivierre, a voulu déduire, dans le calcul de son revenu pour l’année 1996, certaines sommes qu’elle avait déboursées au profit de son soi‑disant employeur et à l’égard desquelles elle avait droit à un remboursement, mais qui ne lui ont pas été remboursées. Le ministre du Revenu national (le « ministre ») a refusé la déduction des dépenses pour le motif que, bien qu’elle ait été une employée, l’appelante n’avait pas le droit de déduire des dépenses d’emploi conformément à l’alinéa 8(1)f) de la Loi de l’impôt sur le revenu (la « Loi ») et, subsidiairement, que toute supposée entreprise exploitée par l’appelante n’était pas exploitée d’une manière suffisamment commerciale pour produire un revenu et qu’elle ne constituait pas une source de revenus : articles 3, 4 et 9 de la Loi.
+[2] Mme Marva Ollivierre croyait avoir conclu, en 1995, deux ententes avec le Canadian Artists Network : Black Artists in Action (« CAN : BAIA »), à savoir une [traduction] « lettre d’entente » selon laquelle elle devait agir comme directrice générale lors d’une conférence ou d’un festival connu sous le nom de CELAFI 1997 (« CELAFI »), qui était un événement appelé : Celebrating African Identity : Entering the Millennium (la « lettre d’entente »), et un contrat conclu avec CAN : BAIA, aux termes duquel elle devait agir comme entrepreneuse indépendante en vue de coordonner et de promouvoir une publication appelée Revue Noire (l’« entente concernant la Revue Noire »).
+[3] CAN : BAIA était une organisation à but non lucratif non constituée en personne morale qui assurait la promotion des arts dans la collectivité noire. Lors de l’instruction, elle avait cessé ses activités.
+[4] Selon la lettre d’entente, la directrice générale, entre autres choses, était responsable des activités suivantes :
+i) la logistique, l’administration, la mise en œuvre, le remboursement des capitaux investis et les ressources humaines pour le compte de CELAFI;
+ii) la coordination, la facilitation et la présentation d’ateliers et de cours de perfectionnement pour artistes;
+iii) l’embauche et la gestion du personnel administratif de CELAFI;
+iv) le contrôle du budget de CELAFI, à tous les égards;
+v) la surveillance de la commercialisation et de la publicité.
+[5] La directrice générale relevait directement du conseil d’administration. Elle devait surveiller les demandes de financement et assurer la liaison avec les comités de CELAFI. Elle devait partager les renseignements avec le directeur exécutif de CAN : BAIA.
+[6] CAN : BAIA devait rembourser la directrice générale des frais de déplacement, de promotion, de représentation et d’autres frais [traduction] « du même genre ».
+[7] La clause 16 de la lettre d’entente était libellée comme suit :
+[traduction]
+La directrice générale indemnisera CAN : BAIA et son conseil d’administration, ses employés et ses mandataires des frais, pertes, demandes, réclamations, poursuites, actions, jugements et procédures attribuables à la présente entente auxquels CAN : BAIA pourrait être assujettie. La présente clause continuera à s’appliquer après la résiliation ou l’expiration de la présente entente.
+[8] La lettre d’entente est datée du 13 octobre 1995; le 28 octobre, elle a été modifiée par un [traduction] « Addenda ». L’addenda modifiait ou annulait les dispositions de diverses clauses de la lettre d’entente. L’une des clauses supprimait en fait la clause 14, selon laquelle Mme Ollivierre devait toucher [traduction] « un salaire mensuel au montant de 3 750 $ basé sur un montant annuel de 45 000 $, à facturer à l’employeur le 15e jour de chaque mois ».
+[9] La modification apportée à la clause 14 est libellée comme suit :
+[traduction]
+Modifications apportées à la clause 14
+CAN : BAIA s’engage à verser à Marva Ollivierre un montant annuel de 50 000 $ à facturer à CAN : BAIA en 24 versements de 2 083,33 $ chacun. CAN : BAIA s’engage également à verser à Marva Ollivierre une prime représentant 20 p. 100 du montant contractuel brut si CELAFI atteint sa cible budgétaire.
+La D.G. doit soumettre les demandes de subvention au président du comité exécutif avant de les soumettre à l’association des bailleurs de fonds.
+Clause à ajouter
+CAN : BAIA effectuera les versements prévus par le contrat les 15e et 30e jours de chaque mois au cours de la durée de l’entente. CAN : BAIA versera une prime à la fin de la période de production de CELAFI.
+[10] L’entente concernant la Revue Noire est datée du 16 novembre 1995. Mme Ollivierre y est désignée comme étant la responsable de la programmation. La dernière ligne de l’énoncé de l’objet de la lettre est libellée comme suit : [traduction] « DÉPENSES ET FRAIS DE PROGRAMMATION », suivie des mots : [traduction] « À rembourser et à payer à l’aide du reliquat de la vente de la publication Revue Noire, conformément aux conditions énoncées ci‑dessous ».
+[11] Les [traduction] « Conditions » prévoient, entre autres choses, que CAN : BAIA gère tous les fonds provenant des ventes de Revue Noire. Mme Ollivierre devait être [traduction] « responsable de la logistique associée à la mise en œuvre des programmes dont elle [était] responsable ».
+[12] Les paragraphes 4, 5 et 6 de l’entente concernant la Revue Noire sont libellés comme suit :
+[traduction]
+4. La RESPONSABLE DE LA PROGRAMMATION veille à ce que des documents adéquats soient établis pour toutes les dépenses associées aux programmes et à fournir sur demande les pièces justificatives y afférentes.
+5. CAN : BAIA rembourse la RESPONSABLE DE LA PROGRAMMATION des frais engagés dans le cadre de la mise en œuvre des programmes.
+6. La RESPONSABLE DE LA PROGRAMMATION convient que les dépenses et frais sont remboursés uniquement à l’aide des fonds générés par les ventes de la publication Revue Noire.
+[13] Le paragraphe 7 de l’entente concernant la Revue Noire prévoit l’indemnisation de CAN : BAIA par Mme Ollivierre, en des termes semblables à ceux de la clause 16 de la lettre d’entente.
+[14] Ni la lettre d’entente ni l’entente concernant la Revue Noire ne font mention de l’autre entente. Le mot [traduction] « frais » figure dans l’entente concernant la Revue Noire, mais l’entente ne prévoit pas le paiement de frais de la part de CAN : BAIA en faveur de Mme Ollivierre à l’égard des services fournis par celle‑ci, ce qui semble être le principal problème qui se pose en l’espèce.
+[15] Les mots [traduction] « cible budgétaire » figurant dans la clause 14 de la lettre d’entente et les mots [traduction] « reliquat de la vente » et [traduction] « fonds générés » figurant dans l’entente concernant la Revue Noire ne sont pas définis. Je n’ai pas la moindre idée de ce qu’ils veulent dire.
+[16] Quant à l’entente concernant la Revue Noire, Mme Ollivierre estimait agir comme entrepreneuse indépendante. Elle croyait qu’elle devait toucher 20 p. 100 du produit de la vente de la publication Revue Noire. Cette prétendue contrepartie n’est pas précisée dans l’entente concernant la Revue Noire, et elle n’y est même pas mentionnée. Mme Ollivierre a déclaré que c’étaient les 20 p. 100 mentionnés dans la clause 14 du contrat de travail qui devaient constituer la rémunération du travail qu’elle effectuait aux termes de l’entente concernant la Revue Noire.
+[17] Ni l’une ni l’autre entente n’a été examinée par un avocat avant d’être signée par Mme Ollivierre. Je note que les deux parties au présent litige ainsi que Mme Ollivierre dans une déclaration qu’elle a déposée contre CAN : BAIA qualifient la lettre d’entente de contrat de travail, un contrat de louage de services. Toutefois, certaines clauses de la lettre d’entente, comme la clause 16, donnent à entendre qu’il ne s’agit peut‑être pas d’un contrat de louage de services. Toutefois, aucune partie n’a initialement soutenu qu’il ne s’agissait pas d’un contrat de louage de services; or, dans leurs observations, les parties supposaient que la lettre d’entente était un contrat de louage de services. Cela peut constituer une erreur de droit.
+[18] Apparemment, il y avait un certain temps que Mme Ollivierre n’était pas rémunérée par CAN : BAIA pour les services qu’elle fournissait à titre de directrice générale en vertu de la lettre d’entente; le 23 octobre 1997, Mme Ollivierre a déposé une déclaration devant la Cour de l’Ontario (Division générale) contre CAN : BAIA en vue d’obtenir [traduction] « un jugement déclaratoire portant qu’elle avait fait l’objet d’un congédiement déguisé, ou subsidiairement d’un congédiement injuste, le ou vers le 16 juillet 1997 » ainsi que des dommages‑intérêts, d’une somme de 16 706,64 $, par suite du congédiement déguisé ou du congédiement injuste. Mme Ollivierre invoquait également la détresse mentale et réclamait des dommages‑intérêts punitifs et le remboursement des [traduction] « dépenses engagées conformément au contrat de travail ». Elle a obtenu un montant de 26 485 $ à la suite d’un jugement rendu par défaut.
+[19] À ce moment‑là, Mme Ollivierre n’a pris aucune mesure contre CAN : BAIA à l’égard de quelque manquement aux obligations prévues dans l’entente concernant la Revue Noire ou à l’égard de la prime de 20 p. 100 prévue dans la nouvelle clause 14 de la lettre d’entente. Son avocat lui avait dit qu’une telle mesure était prématurée.
+[20] Mme Ollivierre a été la seule personne à témoigner dans le présent appel. Elle m’a informé que le seul autre témoin possible qui avait peut‑être directement connaissance des dispositions qu’elle avait prises avec CAN : BAIA et qui travaillait pour CAN : BAIA habite maintenant en Jamaïque.
+[21] Dans l’exercice des fonctions qu’elle assumait aux termes de l’entente concernant la Revue Noire, Mme Ollivierre payait de sa poche les dépenses et frais [traduction] « se rattachant à la mise en œuvre des programmes ». CAN : BAIA ne la remboursait jamais de ces frais. Mme Ollivierre cherche à déduire, dans le calcul de son revenu pour l’année 1996, les dépenses et frais qu’elle a engagés.
+[22] L’intimée a fait valoir que Mme Ollivierre n’avait pas prouvé qu’elle déboursait en fait son propre argent. Mme Ollivierre a témoigné qu’elle avait préparé des reçus à soumettre à CAN : BAI en vue de se faire rembourser conformément à l’entente, mais qu’une personne qui l’aidait dans l’exécution de ses fonctions contractuelles avait emporté un certain nombre de ses documents personnels lorsqu’elle s’était installée à Vancouver, et notamment ses documents commerciaux. Cette personne avait également préparé certains documents financiers se rapportant à l’entente concernant la Revue Noire. Mme Ollivierre a affirmé s’être en vain efforcée par le passé de communiquer avec cette personne, mais que cette personne s’était suicidée au mois de février 2001. La famille a écrit à Mme Ollivierre au mois de mai 2001 et lui a fait savoir que le service de police de Vancouver avait informé la famille environ une semaine après le décès, qu’un homme et une femme possédant des pièces d’identité [traduction] « du propriétaire et du curateur public » avaient enlevé tout le contenu de l’appartement de la personne en question.
+[23] J’ai conclu que Mme Ollivierre était un témoin digne de foi. Même si elle n’a pas pu fournir à l’Agence du revenu du Canada (l’« ARC ») de preuves documentaires de ses débours, il existe suffisamment d’éléments de preuve – des documents préparés par la personne décédée qui avait préparé un compte par exemple – en vue de corroborer l’allégation selon laquelle elle avait engagé des dépenses. Je retiens la preuve soumise par Mme Ollivierre sur ce point.
+[24] Plusieurs semaines après l’instruction, j’ai demandé aux parties de présenter des observations supplémentaires au sujet de la question de savoir si la lettre d’entente constituait un contrat de travail. Je m’étais fondamentalement demandé si les deux ententes se rattachaient à une entreprise, de sorte qu’elles pouvaient toutes deux constituer des sources de revenu d’entreprise. Les parties sont revenues devant la Cour afin de présenter des observations sur ce point.
+[25] L’avocat de l’intimée a semblé reconnaître que la lettre d’entente ne constituait pas un contrat de travail, mais il y avait malgré tout deux ententes distinctes et deux tentatives distinctes de générer des sources de revenus au sens de la Loi. L’article 9 de la Loi prévoit que la perte subie par un contribuable au cours d’une année d’imposition relativement à une entreprise est le montant de sa perte subie au cours de l’année relativement à cette entreprise. Toutefois, l’avocat a affirmé que l’entente concernant la Revue Noire ne constitue pas une tentative distincte de générer une source de revenus, et ce, en raison de l’absence de commercialité. De l’avis de l’avocat, aucune possibilité de faire un bénéfice n’était révélée dans l’entente concernant la Revue noire; il n’existait dans cette entente aucune disposition prévoyant la rémunération que l’appelante devait recevoir pour ses services. Par conséquent, l’entente concernant la Revue Noire ne pouvait pas constituer une source permettant à Mme Ollivierre de gagner un revenu d’entreprise.
+[26] L’avocat de l’intimée a soutenu que la prime de 20 p. 100 mentionnée dans la lettre d’entente se rapporte aux tâches de Mme Ollivierre en sa qualité de directrice générale, et non à ses fonctions de responsable de la programmation aux termes de l’entente concernant la Revue Noire. La prime est fondée sur le succès obtenu en établissant le budget du festival.
+[27] Selon l’intimée, les deux fonctions prévues dans les deux ententes sont distinctes; le rôle de l’appelante en sa qualité de directrice générale découlait d’une relation unique en son genre avec CAN : BAIA, et ce rôle était d’une nature différente des activités de programmation visées par l’entente concernant la revue Noire. L’avocat en a déduit qu’il s’agissait de deux notions entièrement distinctes ou de « compartiments étanches ».
+[28] En présentant son témoignage, Mme Ollivierre a expliqué qu’elle était une responsable de la programmation parmi d’autres, chacun étant responsable d’un programme particulier dans le cadre du festival, et dont la rémunération dépendait du programme. L’avocat de l’intimée a conclu [traduction] qu’« il est possible qu’il y ait un grand nombre de responsables de programmes dans le cadre du festival, mais il n’y a qu’une seule directrice générale de l’organisation à but non lucratif, ce qui démontre qu’il s’agit de deux activités distinctes tout à fait différentes ».
+[29] L’avocat de l’intimée a également fait une distinction entre le type de dépenses visées par chacune des deux ententes. En sa qualité de directrice générale, l’appelante avait droit au remboursement des frais de déplacement, de promotion, de représentation et autres frais du même genre. En sa qualité de responsable de la programmation, Mme Ollivierre avait droit au remboursement des frais et dépenses se rattachant à la mise en œuvre du programme. L’avocat a conclu que la nature différente des dépenses visées par les ententes indique la nature différente de l’activité envisagée par chaque entente.
+[30] L’avocat de l’intimée a affirmé que Mme Ollivierre était une personne avertie qui était en mesure d’agir à titre de [traduction] « personne responsable » dans le cadre d’un gros festival. Il a également fait mention de Doe Eye Productions Canada Ltd., une société que Mme Ollivierre avait constituée en personne morale et pour laquelle des dépenses avaient été engagées en 1995. En 1996, le montant des dépenses de l’entreprise individuelle de Mme Ollivierre était à peu près le même que celui de la société en 1995. Étant donné que Mme Ollivierre [traduction] « était capable de faire passer les dépenses d’une société » à elle‑même, l’avocat a soutenu qu’elle était une contribuable avertie et qu’elle possédait suffisamment d’expertise dans les affaires et lorsqu’il s’était agi de négocier les deux ententes avec CAN : BAIA. Cela est plutôt exagéré.
+[31] Quoi qu’il en soit, le principal argument de l’intimée est que l’entente concernant la Revue Noire ne révèle aucune possibilité de profit et ne peut donc pas constituer une source de revenus.
+[32] Mme Ollivierre a expliqué que CAN : BAIA avait également conclu des ententes avec d’autres responsables de programmes. Elle a décrit les activités d’un responsable de programme qui avait organisé une équipe en vue de préparer le programme musical du festival.
+[33] Selon Mme Ollivierre, ce groupe était responsable d’un programme musical, rue Queen, à Toronto. Des billets étaient vendus et le produit de la vente des billets servait à payer les frais des musiciens, à différents endroits. La différence entre le produit tiré de la vente des billets et les coûts se rattachant aux musiciens constituait un profit pour le responsable du programme, de la même façon que Mme Ollivierre affirme qu’elle devait toucher 20 p. 100 du chiffre d’affaires brut associé à la Revue Noire. Voici les explications que Mme Ollivierre a données :
+[traduction]
+[...] Ce que j’ai négocié avec Canbia se rapportait non seulement au remboursement des frais se rattachant aux tâches accomplies aux fins de l’organisation de la programmation, mais je devais aussi obtenir 20 p. 100 du produit de la vente de Revue Noire. Quant à moi, j’avais dans l’idée, lorsque je négociais avec eux, qu’il s’agissait du profit. C’était la façon dont les dispositions ont été prises sur le plan des affaires. [...]
+[34] Mme Ollivierre a déclaré avoir accepté d’agir comme responsable de la programmation aux termes de l’entente concernant la Revue Noire en vue de faire de l’argent; elle ne l’avait pas fait gratuitement. En ce qui concerne les ententes relatives aux programmes, Mme Ollivierre a témoigné que le conseil de CAN : BAIA avait préparé les ententes et qu’il les avait mises à la disposition des responsables de programmes.
+[35] L’avocat de l’intimée a reconnu que si Mme Ollivierre avait droit à 20 p. 100 du produit brut tiré de la vente de Revue Noire, [traduction] « en sus du simple recouvrement des frais comme il en est fait mention dans l’entente relative à la programmation, cela constituerait une source de revenus ». Toutefois, l’avocat a affirmé avec insistance que le document ne prévoyait rien au sujet du profit.
+[36] J’ai ci‑dessus parlé de la crédibilité de l’appelante. De toute évidence, l’entente concernant la Revue Noire en tant que telle ne prévoit pas de rémunération. Selon Mme Ollivierre, la mention des 20 p. 100 dont il est question dans la lettre d’entente se rapporte aux services fournis aux termes de l’entente concernant la Revue Noire. Il est également clair que, même si Mme Ollivierre n’était pas une contribuable aussi avertie que ce que l’avocat de l’intimée a laissé entendre, elle n’est certes pas quelqu’un qui offrirait ses services gratuitement.
+[37] La règle d’exclusion de la preuve extrinsèque, c’est‑à‑dire le poids à accorder à la preuve orale, peut être utilisée en vue de clarifier une ambiguïté figurant dans un contrat. Cependant, il doit y avoir une ambiguïté et la preuve doit se rapporter aux circonstances environnantes qui existaient au moment où le contrat a été conclu.
+[38] En vertu de la règle d’exclusion de la preuve extrinsèque, une preuve extrinsèque ou un document extrinsèque antérieur ne peuvent pas apporter de modifications ou d’ajouts au contrat ni supprimer quoi que ce soit du contrat, s’il est consigné par écrit. Toutefois, une exception à la règle d’exclusion de la preuve extrinsèque permet aux parties de présenter une preuve démontrant que l’entente écrite ne constitue pas l’entente complète et, plus précisément, qu’elle se rapporte à une communication orale ou écrite antérieure[1]. Dans l’arrêt Fraternité unie des charpentiers et menuisiers d’Amérique, section locale 579 c. Bradco Construction Ltd.[2], le juge Sopinka a dit que les éléments de preuve extrinsèques peuvent être admis lorsque le contrat comporte une ambiguïté, mais il a fait remarquer qu’il est « loin d’être facile » de déterminer si une disposition est ambiguë.
+[39] L’entente concernant la Revue Noire est ambiguë; elle ne comporte aucune disposition concernant la rémunération, et ce, bien que des frais soient envisagés dans l’énoncé de l’objet de la lettre. De plus, comme je l’ai dit, Mme Ollivierre n’a pas offert ses services gratuitement. Je suis prêt à reconnaître la preuve extrinsèque de Mme Ollivierre pour décrire les circonstances environnantes qui ont abouti à la lettre d’entente, à sa modification et à l’entente concernant la Revue Noire. Je conclus également qu’en sa qualité de responsable de la programmation, Mme Ollivierre exploitait une entreprise à son compte. La mention des 20 p. 100 dans la lettre d’entreprise se rapporte à son travail de responsable de la programmation aux termes de l’entente concernant la Revue Noire. Cette entente, dans la lettre d’entente, génère une source de revenus pour Mme Ollivierre et cette dernière a le droit de déduire les pertes qu’elle a subies en s’acquittant des obligations qui lui incombaient aux termes de l’entente concernant la Revue Noire.
+[40] L’appel est accueilli avec dépens, le cas échéant.
+Signé à Ottawa, Canada, ce 1er jour d’octobre 2009.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 12e jour de novembre 2009.
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE : 2009 CCI 490
+No DU DOSSIER DE LA COUR : 2008-1946(IT)I
+INTITULÉ : MARVA A. OLLIVIERRE
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Les 15 juillet 2009 et 24 août 2009
+MOTIFS DU JUGEMENT : L’honorable juge en chef Gerald J. Rip
+DATE DU JUGEMENT : Le 1er octobre 2009
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocats de l’intimée :
+Me Brandon Siegal
+Me Darren Prevost
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] H.G. Beale et al., Chitty on Contracts, 13e éd. (Londres: Sweet & Maxwell, 2008) vol. 1, par. 12‑096, 12‑105. Voir également General Motors du Canada Ltée c. R., 2008 CAF 142, 2008 DTC 6381 (C.A.F.), par. 27.
+[2] [1993] 2 R.C.S. 316.

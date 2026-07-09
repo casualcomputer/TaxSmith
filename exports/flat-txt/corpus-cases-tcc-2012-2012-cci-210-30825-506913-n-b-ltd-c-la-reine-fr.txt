@@ -1,0 +1,297 @@
+Title: 506913 N.B. Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30825/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-210-30825-506913-n-b-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-06-08
+
+# 506913 N.B. Ltd. c. La Reine
+
+- Citation: 2012 CCI 210
+- Decision date: 2012-06-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7384, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+506913 N.B. Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-06-08
+Référence neutre
+2012 CCI 210
+Numéro de dossier
+2003-3382(GST)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-3382(GST)G
+ENTRE :
+506913 N.B. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2003-3383(GST)G
+ET ENTRE :
+CAMBRIDGE LEASING LTD.
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Devant : L’honorable juge Steven K. D’Arcy
+Avocats des appelantes :
+Me Eugene J. Mockler
+Me Kevin Toner
+Avocats de l’intimée :
+Me John P. Bodurtha
+Me Jan Jensen
+Me Deavon Peavoy
+____________________________________________________________________
+VERSION RÉVISÉE DE LA TRANSCRIPTION
+DES MOTIFS DE L’ORDONNANCE RENDUS ORALEMENT
+Que la transcription révisée ci-jointe des motifs de l’ordonnance que j’ai prononcés à l’audience, tenue le 16 avril 2012, à Fredericton (Nouveau-Brunswick), soient déposés. J’ai révisé la transcription (certifiée par le sténographe judiciaire) par souci de stylistique, de clarté et d’exactitude. Je n’y ai apporté aucune modification de fond.
+Signé à Ottawa, Canada, ce 8e jour de juin 2012.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 4e jour de décembre 2012.
+François Brunet, réviseur
+Référence : 2012 CCI 210
+Date : 20120608
+Dossier : 2003-3382(GST)G
+ENTRE :
+506913 N.B. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2003-3383(GST)G
+ET ENTRE :
+CAMBRIDGE LEASING LTD.
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+(Requête instruite les 2, 3 et 5 avril 2012, et
+motifs de l’ordonnance prononcés à l’audience
+le 16 avril 2012, à Fredericton (Nouveau-Brunswick).)
+Le juge D’Arcy
+[1] L’intimée a présenté une requête en radiation de certaines déclarations faites sous serment qui avaient été déposées par les appelantes au soutien de leur requête datée du 31 janvier 2012 ou, subsidiairement, en radiation de certains paragraphes précisés, ainsi que les pièces y afférentes.
+[2] J’expose ci-après les motifs de mon ordonnance rendus oralement se rapportant à la requête de l’intimée.
+[3] L’appelante, 506913 N.B. Ltd., fait appel d’un avis de nouvelle cotisation délivré par le ministre pour ses périodes de déclaration de taxe sur les produits et services (la « TPS ») se terminant entre le 1er mai 1998 et le 31 octobre 2000. Les nouvelles cotisations augmentaient de 5 627 882 $ la taxe nette de 506913 N.B. Ltd. Le ministre a aussi établi des pénalités et des intérêts se chiffrant à 1 253 746 $, ainsi que des pénalités pour faute lourde se chiffrant à 1 374 854 $.
+[4] L’appelante, Cambridge Leasing Ltd., fait appel d’un avis de nouvelle cotisation délivré par le ministre pour ses périodes de déclaration de TPS se terminant entre le 1er novembre 2000 et le 31 décembre 2000. Les nouvelles cotisations augmentaient de 498 031 $ la taxe nette de Cambridge Leasing Ltd. Le ministre a aussi établi des pénalités et des intérêts se chiffrant à 51 934 $, ainsi que des pénalités pour faute lourde se chiffrant à 124 508 $.
+[5] Une conférence préparatoire a eu lieu devant moi le 28 janvier 2011. Le 7 février 2011, j’ai rendu une ordonnance de dépôt, par les appelantes, d’une requête en irrecevabilité de certains documents.
+[6] Les appelantes ont déposé une requête le 28 février 2011. Cette requête n’était pas conforme à mon ordonnance du 7 février 2011.
+[7] Le 23 mars 2011, j’ai rendu une deuxième ordonnance enjoignant aux appelantes de retirer la requête qu’elles avaient déposée le 28 février 2011 et de déposer une nouvelle requête conforme à mon ordonnance du 7 février 2011. La Cour donnait aussi des directives détaillées se rapportant au contenu de la nouvelle requête.
+[8] Les appelantes ont déposé la nouvelle requête auprès de la Cour le 3 février 2012 (la « requête principale »).
+[9] L’intimée a alors déposé sa requête le 15 mars 2012.
+[10] Il ne s’agit pas ici des seules instances judiciaires se rapportant aux opérations pour lesquelles les appelantes ont fait l’objet d’avis de cotisation.
+[11] Une poursuite criminelle a été engagée contre les appelantes, ainsi que contre M. Mark Daley, devant la Cour provinciale du Nouveau-Brunswick (la « procédure criminelle »).
+[12] Par ailleurs, les appelantes et leurs dirigeants ont engagé une action civile contre des employés de l’Agence du revenu du Canada (l’« ARC ») et contre le procureur général du Canada devant la Cour du Banc de la Reine du Nouveau‑Brunswick (l’« action civile »).
+[13] La requête dont je suis saisi soulève trois questions :
+(i) L’intimée demande à la Cour de rendre une ordonnance interdisant aux appelantes d’utiliser ou de tenter d’utiliser des documents contenant des avis juridiques donnés par le ministère de la Justice à l’ARC ou à ses employés (la « question du secret professionnel de l’avocat »).
+(ii) L’intimée demande à la Cour de rendre une ordonnance interdisant aux appelantes d’utiliser la transcription de l’interrogatoire préalable de M. Ron MacIntyre qui s’est déroulé au cours de l’action civile (la « question de l’engagement implicite »).
+(iii) L’intimée demande à la Cour de radier certaines portions de diverses déclarations sous serment déposées au soutien de la requête principale, compte tenu du fait que lesdites portions sont répréhensibles pour l’une ou plusieurs des raisons suivantes :
+a. elles contiennent des éléments que le déposant tient pour véridiques sur la foi de renseignements alors que la source de ces renseignements et le fait qu’ils sont tenus pour véridiques ne sont pas indiqués dans la déclaration sous serment;
+b. elles constituent des paragraphes qui n’exposent pas de faits;
+c. elles contiennent des déclarations qui sont sans pertinence;
+d. elles contiennent des déclarations qui constituent des conjectures ou des arguments;
+e. elles contiennent des déclarations qui constituent des conclusions de droit (la « question du contenu des déclarations sous serment »).
+J’examinerai d’abord la question du secret professionnel de l’avocat
+[14] L’intimée prie la Cour de rendre une ordonnance interdisant aux appelantes d’utiliser ou de tenter d’utiliser des documents renfermant des avis juridiques donnés par le ministère de la Justice à l’ARC ou à ses employés.
+[15] L’intimée a déposé, avec sa requête, la déclaration sous serment de Mme Barb Toole, qui est actuellement la directrice adjointe de la vérification au bureau de l’ARC situé à Saint‑Jean (Nouveau‑Brunswick).
+[16] Mme Toole a désigné, et annexé à sa déclaration sous serment, les six documents suivants à l’égard desquels l’intimée revendique explicitement un privilège en dépit de leur communication aux appelantes :
+i) une note de service datée du 12 septembre 2001 adressée par un avocat du ministère de la Justice, M. John Ashley, à un fonctionnaire de l’ARC, M. François LePalme;
+ii) une lettre datée du 10 mai 2004 adressée par un avocat du ministère de la Justice, M. Peter Leslie, à M. François LePalme;
+iii) une lettre datée du 11 avril 2004 adressée par M. Leslie à un fonctionnaire de l’ARC, M. Brian McGiven;
+iv) une série de courriels échangés entre Mme Toole et un fonctionnaire de l’ARC, M. Gilles Meloche. Les courriels ont été envoyés en mars et en avril 2001;
+v) une page couverture de télécopie datée du 15 novembre 2000. La télécopie était envoyée par M. Leslie à un fonctionnaire de l’ARC, M. Yvon Boudreau;
+vi) une lettre du 14 avril 1999 envoyée par M. Leslie à des fonctionnaires de l’ARC, M. Leonard Doncaster et M. Tim MacLean.
+[17] Au cours de l’audience, les avocats de l’intimée ont désigné deux autres documents qui font partie des pièces annexées à la requête principale des appelantes (les pièces U et V du volume 4A de 4) :
+i) une lettre datée du 24 juin 2004, adressée par M. Leslie à un fonctionnaire de l’ARC, M. Ron MacIntyre;
+ii) une lettre datée du 2 juillet 2003, adressée par M. Ashley à un fonctionnaire de l’ARC, M. Steven Lunney.
+[18] L’intimée soutient que les documents énumérés dans la déclaration sous serment de Mme Toole, les deux lettres indiquées pendant l’audience et les autres documents semblables communiqués aux appelantes sont protégés par le privilège du secret professionnel de l’avocat et qu’ils ont malencontreusement été communiqués aux appelantes pendant la phase de communication de la preuve au cours de la procédure pénale.
+[19] L’intimée fait valoir qu’il n’y a eu aucune renonciation implicite au privilège, malgré la communication malencontreuse des documents.
+[20] Les appelants soutiennent, en tout premier lieu, que les documents ne sont pas protégés par le secret professionnel de l’avocat. S’ils le sont, alors les appelantes soutiennent qu’il y a eu renonciation de la part de l’intimée.
+[21] J’examinerai d’abord le point de savoir si les documents sont protégés par le secret professionnel de l’avocat.
+[22] Comme l’observait la Cour suprême du Canada dans l’arrêt R. c. Couture, 2007 CSC 28, [2007] A.C.S. n° 28, au paragraphe 62, le secret professionnel a pour effet d’exclure la preuve en raison d’intérêts sociaux généraux, et non pas de faciliter la fonction judiciaire de la manifestation de la vérité.
+[23] La raison d’être du secret professionnel est expliquée dans Law of Evidence in Canada[1] ainsi[2] : il est de l’intérêt de la société de préserver et d’encourager les relations particulières qui se nouent au sein de la communauté et dont la viabilité dépend de la confidentialité entre les parties. Ces communications confidentielles ne sont pas généralement révélées à quiconque est extérieur à la relation. La relation avocat-client a toujours été considérée comme l’une de ces relations spéciales.
+[24] Le juge Dickson a expliqué le fonctionnement du privilège du secret professionnel de l’avocat dans l’arrêt Solosky c. R., [1980] 1 R.C.S. 821, au paragraphe 28 :
+[…] le privilège ne peut être invoqué que pour chaque document pris individuellement, et chacun doit répondre aux critères du privilège : (i) une communication entre un avocat et son client; (ii) qui comporte une consultation ou un avis juridiques; et (iii) que les parties considèrent de nature confidentielle. Le juge doit lire les lettres afin de décider si le privilège s’y rattache, ce qui exige, à tout le moins, qu’elles relèvent de la juridiction d’un tribunal. Enfin, le privilège vise à empêcher leur utilisation ou divulgation injustifiée et non simplement leur ouverture.
+[25] Le traité Law of Evidence relève les éléments suivants à propos de la portée du privilège :
+i) La communication doit non seulement s’inscrire dans le « cadre habituel et ordinaire de la relation professionnelle »[3] qu’il y a entre l’avocat et son client, mais aussi être faite à titre confidentiel.
+ii) Tant que les circonstances montrent que les parties entendent préserver le secret de la communication, la communication est protégée[4].
+iii) Les communications doivent être faites à l’occasion de la demande d’un avis juridique[5], et être faites dans le but d’obtenir de l’avocat un avis professionnel fondé sur l’expertise de celui-ci en matière de droit[6].
+[26] La Cour suprême du Canada enseigne par l’arrêt R. c. Campbell, [1999] 1 R.C.S. 565, au paragraphe 50, que l’existence ou le caractère du privilège n’est pas modifié par le fait que l’avocat consulté fait partie du service juridique gouvernemental interne.
+[27] La Cour suprême signale que les services rendus par un avocat œuvrant au service de l’État ne sont pas tous visés par le secret professionnel de l’avocat. Ainsi, les conseils portant sur de pures questions d’affaires n’en bénéficient pas, même s’ils sont donnés par un avocat.
+[28] La Cour suprême a ajouté que la question de savoir si le secret professionnel de l’avocat peut être invoqué dans les cas faisant intervenir des employés salariés, par exemple les avocats du gouvernement ou ceux d’une entreprise, dépend de la nature de la relation, de l’objet de l’avis et des circonstances dans lesquels cet avis est demandé et fourni.
+[29] La Cour de l’impôt a décidé que l’avis juridique donné à titre confidentiel à un fonctionnaire de l’ARC par un avocat travaillant pour le ministère de la Justice est une communication privilégiée (voir la décision Global Cash Access (Canada) Inc. c. La Reine, 2010 CCI 493, [2010] G.S.T.C. 145) (la décision Global Cash Access).
+[30] J’ai examiné les six documents annexés à la déclaration sous serment de Mme Toole et les deux lettres indiquées au cours de l’audience. J’examinerai d’abord la note de service adressée par l’avocat du ministère de la Justice, M. John Ashley, au fonctionnaire de l’ARC, les quatre lettres adressées par l’avocat du ministère de la Justice, M. Peter Leslie, à divers fonctionnaires de l’ARC, la page couverture de télécopie et la lettre adressée par M. Ashley à un fonctionnaire de l’ARC.
+[31] Après lecture de chacun des documents, je conclus que la note de service et la lettre de M. Ashley, chacune des lettres de M. Leslie ainsi que la page couverture de télécopie étaient, à la date où ces documents ont été établis, couverts par le secret professionnel de l’avocat. Chacun des documents fait état d’une communication entre un avocat et son client, chacun d’eux comporte la fourniture d’un avis juridique et chacun d’eux était réputé confidentiel.
+[32] Les courriels annexés comme pièce 4 à la déclaration sous serment de Mme Toole ne constituent pas des communications entre un avocat et son client. Cependant, le courriel qui a été envoyé à 7 h 32 le 17 avril 2001 par Mme Toole à un autre employé de l’ARC, M. Gilles Meloche, ainsi que le courriel qui a été envoyé à 16 h 55 le 18 avril 2001 par Gilles Meloche à Mme Toole, portent sur des avis juridiques donnés à l’ARC par des avocats du ministère de la Justice. Il est clair que ces avis juridiques ont été donnés à titre confidentiel et qu’ils bénéficiaient donc du privilège du secret professionnel de l’avocat lorsqu’ils ont été fournis au fonctionnaire de l’ARC par l’avocat du ministère de la Justice.
+[33] Le secret professionnel tient toujours lorsque l’avis est échangé avec d’autres fonctionnaires de l’ARC. Comme l’a observé le juge Bowie dans la décision Global Cash Access, précitée, au paragraphe 5 :
+[TRADUCTION] […] L’avis a été donné à l’Agence sous le manteau protecteur du secret professionnel de l’avocat, et il ne perd pas cette protection lorsqu’il est transmis par un représentant de l’Agence à un autre. Si cette affirmation doit être justifiée autrement que par le bon sens, alors on peut se référer à un jugement du juge Halvorson, de la Cour du Banc de la Reine de la Saskatchewan, International Minerals & Chemical Corp. (Canada) v. Commonwealth Insurance Co., [1990] S.J. 615; 89 Sask R.1 (B.R. Sask.).
+[34] L’intimée me demande de rendre une ordonnance interdisant aux appelantes de produire devant la Cour d’autres documents renfermant des avis juridiques donnés par le ministère de la Justice à l’ARC ou aux employés de celle-ci. Il m’est impossible de rendre une telle ordonnance sans que le document concerné soit précisé au préalable.
+[35] La question de savoir si le secret professionnel s’applique doit être décidée en fonction de chaque document. Par ailleurs, comme le juge Dickson l’a signalé dans l’arrêt Solosky, précité, le juge doit lire les documents concernés avant de se prononcer. Je dois lire la correspondance en cause avant de pouvoir dire si elle est ou non couverte.
+[36] En résumé, je suis d’avis que la note de service et la lettre de M. Ashley, chacune des lettres de M. Leslie, la page couverture de télécopie et les deux courriels indiqués étaient, à la date où ils ont été établis, couverts par le secret professionnel de l’avocat.
+[37] Je rechercherai maintenant si le secret professionnel a cessé quand l’intimée a communiqué les documents aux appelantes au cours de la procédure pénale.
+[38] Law of Evidence contient plusieurs observations portant sur la durée du secret professionnel. On peut y lire que le privilège est [TRADUCTION] « jalousement gardé » : il n’est écarté que dans des circonstances exceptionnelles. Le secret professionnel de l’avocat est permanent; il subsiste, même à l’égard d’autres litiges pouvant surgir ultérieurement. Néanmoins, le secret portant sur une communication peut disparaître, ou il peut y avoir « renonciation ».
+[39] Par ailleurs, le droit est clair. Le secret professionnel profite au client : l’avocat ne peut pas y renoncer. Seul son client peut le faire.
+[40] En ce qui concerne la requête dont je suis saisi, l’intimée reconnaît qu’elle a par inadvertance communiqué les documents couverts.
+[41] À l’origine, en common law, la communication malencontreuse de renseignements protégés constituait une renonciation complète au secret professionnel. La règle a été établie dans l’arrêt Calcraft v. Guest, [1898] 1 Q.B. 759 (C.A.). Cependant, la jurisprudence contemporaine n’est pas aussi rigide. La communication malencontreuse ou fautive de documents couverts ne constitue plus automatiquement une renonciation.
+[42] L’arrêt de la Cour d’appel du Nouveau-Brunswick, Chapelstone Developments Inc. c. R., 2004 CANB 96, [2004] G.S.T.C. 162 est une décision de principe portant sur la communication malencontreuse de documents couverts.
+[43] Au paragraphe 54 de l’arrêt Chapelstone, le juge Robertson cite l’extrait suivant de la deuxième édition du texte Law of Evidence :
+[TRADUCTION] Lorsqu’on a conclu que la divulgation de renseignements couverts a été faite par inadvertance, la jurisprudence canadienne récente a choisi de ne pas retenir le principe énoncé dans l’arrêt Calcraft c. Guest, statuant plutôt que la simple perte de possession matérielle d’un document protégé n’éteint pas automatiquement le privilège. Du fait que les règles de procédure actuelles prévoient la communication étendue de documents, l’échange de fortes quantités de documents entre les avocats est monnaie courante, et il arrive forcément que des documents couverts soient divulgués accidentellement. Le juge doit avoir le pouvoir discrétionnaire de décider s’il y a eu renonciation au secret professionnel dans les circonstances. Les facteurs dont il faut tenir compte devraient être de savoir, notamment, si l’erreur est excusable, si une tentative immédiate a été faite pour récupérer la documentation, et si le maintien du secret professionnel dans les circonstances serait préjudiciel pour la partie adverse.
+[Omission de la note de bas de page.]
+[44] Puis le juge Robertson a résumé ainsi l’état du droit[7] :
+Pour résumer, la règle générale veut qu’il soit possible de renoncer au secret de façon soit expresse, soit implicite. Toutefois, la divulgation par inadvertance de renseignements couverts n’entraîne pas automatiquement la perte du droit au secret. Il faut davantage pour que la communication protégée soit admissible pour motif de renonciation tacite. Par exemple, la connaissance de la personne qui revendique le secret, son silence et la confiance de la personne en possession des renseignements protégés qui ont été divulgués par inadvertance peuvent amener la Cour à conclure en droit à une renonciation tacite. Finalement, il faut juger cas par cas si la divulgation par inadvertance entraîne la perte du privilège.
+[45] Il semble que les documents couverts annexés comme pièces 1 à 5 de la déclaration sous serment de Mme Toole, ainsi que les deux lettres protégées indiquées au cours de l’audience, ont été communiqués en juin 2005 pendant la procédure criminelle.
+[46] Je ne vois pas très bien comment les appelantes ont pu obtenir une copie de la lettre protégée annexée comme pièce 6 à la déclaration sous serment de Mme Toole. La lettre ne semble pas se rapporter à l’une ou l’autre des appelantes, ni à leurs employés ou à leurs actionnaires. Elle était adressée par M. Leslie aux fonctionnaires de l’ARC, à Sydney et à Halifax, en Nouvelle‑Écosse.
+[47] Pour ce qui est des pièces 1 à 5 de la déclaration sous serment de Mme Toole et des deux lettres indiquées au cours de l’audience, je retiens le témoignage de Mme Toole selon lequel ces documents ont été communiqués par inadvertance.
+[48] L’ARC a communiqué environ 70 000 documents aux appelantes. Il n’est pas surprenant qu’il y ait eu communication par inadvertance d’au moins sept d’entre eux.
+[49] Pour ce qui est de la pièce 6 de la déclaration sous serment de Mme Toole, je m’étonne que la Cour provinciale du Nouveau-Brunswick n’ait pas été informée de la manière dont le document s’était trouvé en la possession des appelantes. Cependant, le document a manifestement été communiqué aux appelantes par l’ARC à un certain moment.
+[50] Je relève qu’un passage de ce document est caviardé. Cette suppression valide l’argument des appelantes selon lequel le document n’a pas été communiqué par inadvertance.
+[51] Mme Toole a déclaré que l’ARC, dans le cours normal de ses activités, ne communique pas de documents renfermant des communications entre les avocats du ministère de la Justice et les fonctionnaires de l’ARC.
+[52] Après examen de l’ensemble des éléments de preuve qui m’ont été produits, je retiens le témoignage de Mme Toole. La pièce 6 de sa déclaration sous serment a été communiquée par inadvertance.
+[53] Comme je viens de le dire, la communication de sept des documents a eu lieu en juin 2005.
+[54] La Couronne savait dès septembre 2006 qu’ils avaient été communiqués par inadvertance.
+[55] Le 1er septembre 2006, une déclaration sous serment faite par M. David Daley a été déposée dans la procédure pénale. Les documents couverts constituant les pièces 1, 3 et 6 de la déclaration sous serment de Mme Toole étaient annexés à la déclaration sous serment.
+[56] Le 11 septembre 2006, M. Daley a fait une autre déclaration sous serment qui a été elle aussi déposée dans la procédure pénale. Le document protégé annexé comme pièce 2 à la déclaration sous serment de Mme Toole, ainsi que les deux lettres protégées indiquées au cours de l’audience, étaient joints à la déclaration sous serment de M. Daley.
+[57] Chacune des deux pièces restantes de la déclaration sous serment de Mme Toole, à savoir les pièces 4 et 5, a été déposée comme pièce des défenderesses lors de la procédure pénale.
+[58] La Couronne ne s’est pas opposée, devant la Cour provinciale du Nouveau‑Brunswick, à ce que les documents couverts soient déposés pendant la procédure introduite devant la Cour provinciale.
+[59] En fait, le document annexé comme pièce 3 à la déclaration sous serment de Mme Toole est mentionné au paragraphe 14 de la décision rendue le 30 juillet 2008 par le juge Arseneault à l’issue de la procédure pénale.
+[60] Par ailleurs, les courriels annexés comme pièce 4 à la déclaration sous serment de Mme Toole qui avaient été envoyés, l’un à 7 h 32 le 17 avril 2001, par Mme Toole à M. Meloche, et l’autre à 16 h 55 le 18 avril 2001 par M. Meloche à Mme Toole, ont été présentés à un fonctionnaire de l’ARC en 2009 pendant l’interrogatoire préalable se rapportant à la présente procédure.
+[61] Encore une fois, l’intimée n’a pas élevé d’objection fondée sur le fait que les documents étaient des documents couverts qui avaient été communiqués par inadvertance.
+[62] En résumé, la communication par inadvertance a eu lieu il y a près de sept ans. À au moins trois reprises, la première il y a cinq ans et demi, la communication par inadvertance des documents a été portée à l’attention de l’intimée. Toutefois, ce n’est qu’en octobre 2011 que l’intimée a élevé des objections à propos de leur communication.
+[63] À mon avis, la connaissance et le silence de l’intimée constituaient une renonciation implicite au secret professionnel de l’avocat en ce qui concerne les documents annexés à la déclaration sous serment de Mme Toole et les deux lettres protégées indiquées pendant l’instruction de la requête de l’intimée.
+La question suivante concerne la transcription de l’interrogatoire préalable se rapportant à l’action civile
+[64] M. Ron MacIntyre, un fonctionnaire de l’ARC, a fait l’objet d’un interrogatoire préalable pendant l’action civile. Il est l’un des défendeurs à l’action.
+[65] Les appelantes ont déposé, au soutien de leur requête principale, une déclaration sous serment de M. Allen Skaling, faite le 27 janvier 2012 (la « déclaration sous serment de M. Skaling de 2012 »).
+[66] Les paragraphes 14 et 15 de la déclaration sous serment de M. Skaling de 2012 contiennent de longs extraits de la transcription de l’interrogatoire préalable de M. Skaling dans l’action civile. L’alinéa 5d) et le paragraphe 16 s’appuient sur la transcription de l’interrogatoire préalable.
+[67] La transcription tout entière de l’interrogatoire préalable de M. Skaling dans l’action civile est annexée comme pièce 6 à la déclaration sous serment de M. Skaling de 2012.
+[68] L’intimée fait valoir que l’utilisation, par les appelantes, de la transcription de l’interrogatoire préalable administré dans l’action civile contrevient à la règle de l’engagement implicite.
+[69] La règle de l’engagement implicite a été exposée en détail dans un arrêt récent de la Cour suprême du Canada, Juman c. Doucette, 2008 CSC 8, [2008] 1 R.C.S. 157 (« Juman »). Le juge Binnie a énoncé la règle ainsi, au paragraphe 27 :
+À juste titre donc, la loi impose aux parties à un litige civil un engagement envers la cour de ne pas utiliser les documents ou les réponses pour toute autre fin que la recherche de la justice dans l’instance civile au cours de laquelle ils ont été obtenus (que ces documents ou réponses aient été ou non à l’origine confidentiels ou incriminants). […]
+[70] Il a écrit que la règle avait deux raisons d’être[8] :
+Premièrement, l’enquête préalable est une atteinte au droit de garder pour soi ses pensées et ses documents, aussi embarrassants, diffamatoires ou scandaleux soient‑ils. Dans chaque poursuite, au moins une partie est réticente. Or, l’étape de l’enquête préalable est essentielle pour éviter les surprises ou les « litiges par guet‑apens », pour encourager les règlements une fois les faits connus et pour circonscrire les questions en litige même lorsqu’un règlement s’avère impossible. […]
+[…] deuxième raison […] La partie qui a une certaine assurance que les documents et les réponses qu’elle fournit ne seront pas utilisés à des fins connexes ou ultérieures à l’instance où ils sont exigés sera incitée à donner des renseignements plus exhaustifs et honnêtes. Cela est particulièrement intéressant à une époque où la production de documents est d’une envergure telle (« litige par avalanche ») qu’elle empêche, bien souvent, les particuliers ou les entreprises devant produire les documents de procéder à une présélection approfondie. […]
+[71] La règle de l’engagement implicite a été entérinée par la Cour du Banc de la Reine du Nouveau-Brunswick en 1989 dans l’arrêt Rocca Enterprises Ltd. v. University Press of New Brunswick Ltd., 103 N.B.R. (2nd) 224 (la décision « Rocca Enterprises Ltd. »), au paragraphe 24, où la Cour a fait les observations suivantes :
+[TRADUCTION]
+[…] J’admets cependant que le droit en vigueur au Nouveau-Brunswick est énoncé ainsi par le juge Anderson dans la décision Reichmann […] :
+La partie qui mène l’interrogatoire préalable s’engage implicitement à ne pas détourner de leur finalité les renseignements ainsi obtenus. […]
+[72] L’avocat des appelantes admet que la règle de l’engagement implicite est en vigueur au Nouveau-Brunswick. Cela n’est pas surprenant étant donné qu’il représentait la demanderesse dans l’affaire Rocca Enterprises Ltd.
+[73] L’avocat des appelantes soutient que la règle de l’engagement implicite ne s’applique pas à la requête principale compte tenu du fait qu’il n’y a aucun droit au respect de la vie privée.
+[74] Je ne peux retenir cette thèse. Il y a engagement implicite dès lors qu’il y a interrogatoire préalable.
+[75] Une partie peut soulever la question du respect de la vie privée lorsqu’elle sollicite une dérogation à l’engagement; cependant, le respect de la vie privée n’est pas au départ une condition de l’imposition de l’engagement.
+[76] Les appelantes ont manifestement contrevenu à l’engagement implicite en déposant l’interrogatoire préalable oral de M. MacIntyre sans le consentement de celui-ci ou sans l’autorisation de la Cour du Banc de la Reine du Nouveau‑Brunswick.
+[77] Les appelantes soutiennent que je dois autoriser le dépôt de l’interrogatoire préalable, et elles invoquent sur ce point l’une des exceptions énoncées par la Cour suprême dans l’arrêt Juman. Cependant, elles n’ont pas présenté de requête sollicitant l’autorisation de déposer l’interrogatoire préalable de M. MacIntyre.
+[78] Quoi qu’il en soit, la Cour de l’impôt n’a pas selon moi compétence pour accorder l’autorisation de déposer l’interrogatoire préalable.
+[79] Il ressort clairement de la jurisprudence de la Cour suprême du Canada que l’engagement implicite est dû à la juridiction devant laquelle s’est déroulée la procédure, en l’occurrence la Cour du Banc de la Reine du Nouveau-Brunswick.
+[80] En conséquence, c’est la Cour du Banc de la Reine du Nouveau-Brunswick qui a compétence pour accorder l’autorisation, et non la Cour canadienne de l’impôt.
+[81] Comme l’a signalé mon collègue le juge Angers dans la décision Welford c. La Reine, 2006 CCI 31, 2006 D.T.C. 2353, au paragraphe 19 :
+Il me semble que, si l’instance déclenchant l’application de la règle de la présomption d’engagement était engagée devant la Cour supérieure de justice de l’Ontario et que l’une des parties à cette instance voulait utiliser devant la Cour de l’impôt un interrogatoire préalable subi dans le cadre de cette instance, c’est la Cour supérieure de justice de l’Ontario qui serait autorisée à permettre la production du document protégé par la règle de la présomption d’engagement et à libérer la partie en cause de cet engagement.
+[82] Pour les raisons susmentionnées, la requête de l’intimée portant sur l’interrogatoire préalable subi par M. Macintyre devant la Cour du Banc de la Reine du Nouveau‑Brunswick est accordée. L’alinéa 5d) et les paragraphes 14, 15 et 16 de la déclaration sous serment d’Allen Skaling, faite le 27 janvier 2012, seront radiés, tout comme la pièce 6 de la déclaration sous serment.
+La dernière question que j’examinerai concerne la question du contenu des déclarations sous serment
+[83] L’intimée demande à la Cour de radier certaines portions de diverses déclarations sous serment déposées au soutien de la requête principale, compte tenu du fait que les portions concernées sont répréhensibles pour l’une ou plusieurs des raisons suivantes :
+(i) elles font état d’éléments que le déposant tient pour véridiques sur la foi de renseignements alors que la source de ces renseignements et le fait qu’ils sont tenus pour véridiques ne sont pas indiqués dans la déclaration sous serment;
+(ii) elles constituent des paragraphes qui n’exposent pas de faits;
+(iii) elles contiennent des déclarations qui sont hors de propos;
+(iv) elles contiennent des déclarations qui constituent des conjectures ou des arguments;
+(v) elles contiennent des déclarations qui constituent des conclusions de droit.
+[84] L’article 72 des Règles de la Cour canadienne de l’impôt (procédure générale) (le « Règles ») dispose :
+Une déclaration sous serment à l’appui d’une requête peut faire état des éléments que le déposant tient pour véridiques sur la foi de renseignements, pourvu que la source de ces renseignements et le fait qu’ils sont tenus pour véridiques y soient indiqués.
+[85] L’article 72 constitue une exception au paragraphe 19(2) des Règles, lequel dispose :
+Sauf disposition contraire des présentes règles, une déclaration sous serment se limite à l’exposé des faits dont le déposant a une connaissance directe ou à la teneur du témoignage qu’il pourrait rendre devant la Cour.
+[86] Comme l’a dit le juge Trudel dans l’arrêt Canada (Procureur général) c. Quadrini, 2010 CAF 47, au paragraphe 18 :
+[…] l’affidavit a pour but de présenter les faits pertinents quant au litige sans commentaires ni explications. La Cour peut radier des affidavits ou des parties de ceux‑ci lorsqu’ils sont abusifs ou n’ont clairement aucune pertinence, lorsqu’ils renferment une opinion, des arguments ou des conclusions de droit ou encore lorsque la Cour est convaincue qu’il est préférable de régler la question de l’admissibilité au stade préliminaire de façon à permettre le déroulement ordonné de l’audience […].
+[87] Je conviens avec l’intimée que les déclarations sous serment en question sont remplies de conjectures, d’opinions, d’arguments et de conclusions de droit.
+[88] Je conviens aussi avec l’intimée que les déclarations sous serment contiennent des ouï‑dires alors que la source de ces renseignements et le fait qu’ils sont tenus pour véridiques n’y sont pas indiqués.
+[89] En outre, la pertinence de certains passages des déclarations sous serment ne m’apparaît pas évidente à ce stade.
+[90] Le premier point que je dois décider concerne la manière de composer avec ces lacunes des déclarations sous serment.
+[91] J’examinerai d’abord les éléments que le déposant tient pour véridiques sur la foi de renseignements alors que la source de ces renseignements et le fait qu’ils sont tenus pour véridiques ne sont pas indiqués dans les déclarations sous serment.
+[92] Je crois que ces lacunes des déclarations sous serment soulèvent la question du poids que je dois accorder aux déclarations qu’ils contiennent, ma décision à ce chapitre devant être prise après que j’aurai entendu les appelantes sur la requête principale. Ce n’est que lorsque j’aurai entendu les appelantes que je serai en mesure de dire si la preuve par ouï‑dire doit être jugée recevable selon la méthode d’analyse raisonnée exposée par la Cour suprême du Canada dans l’arrêt R c. Khelawon, 2006 CSC 57, ou en vertu de l’une des exceptions à la règle du ouï-dire.
+[93] J’examinerai ensuite la question de la pertinence.
+[94] L’avocat de l’intimée me demande de radier de nombreux paragraphes et phrases qui, selon lui, sont hors de propos.
+[95] L’avocat des appelantes soutient que je ne dois pas me prononcer sur la question de la pertinence avant qu’il ne m’ait exposé sa thèse et qu’il ait tenté de me convaincre du lien entre les éléments notés dans les déclarations sous serment et ses arguments.
+[96] Je partage l’avis de l’avocat des appelantes. Ce n’est qu’après avoir entendu les appelantes que je pourrai me prononcer sur la question de la pertinence.
+[97] L’intimée sollicite aussi la radiation de nombreux paragraphes qui n’exposent pas de faits. Le déposant s’est servi de chacun des paragraphes indiqués pour annexer des documents.
+[98] Il n’y a aucune raison de radier les paragraphes. La question est de savoir quel poids je dois accorder aux documents annexés. Je rendrai cette décision après avoir entendu les deux parties sur la requête principale.
+[99] Pour ce qui est des conjectures, opinions, arguments et conclusions de droit contenus dans les déclarations sous serment, le redressement habituel consiste à radier les passages répréhensibles de la déclaration sous serment. Cependant, si les passages concernés sont indissociables, alors l’intégralité de la déclaration sous serment est radiée.
+[100] Après examen de chacune des déclarations sous serment, je conclus que plusieurs des déclarations constituent des conjectures, des opinions, des arguments et/ou des conclusions de droit.
+[101] Les déclarations qui sont dissociables seront radiées.
+[102] En conséquence, pour ce qui est de la déclaration sous serment de M. Skaling de 2012 :
+a) est radiée la première phrase du paragraphe 9, qui commence par les mots suivants : [TRADUCTION] « Bien que l’ARC soutienne qu’elle a exercé ses pouvoirs de vérification dans le respect de son pouvoir réglementaire […] »;
+b) est radiée la première phrase du paragraphe 11, qui commence par les mots suivants : [TRADUCTION] « Lors de cette réunion, ni M. Crossman ni M. MacIntyre ne disposaient d’une preuve concrète […] »;
+c) sont radiés les mots suivants de la cinquième phrase du paragraphe 13 : [TRADUCTION] « et il était accompagné de plusieurs de ses confrères et ils ont saisi de nombreux documents qui étaient sans rapport avec la cotisation ou avec d’éventuelles accusations criminelles »;
+d) est radiée la dernière phrase du paragraphe 13, qui commence par les mots suivants : [TRADUCTION] « J’ai trouvé cette attitude tout à fait inacceptable […] »;
+e) est radiée la première phrase du paragraphe 14, qui commence par les mots suivants : [TRADUCTION] « Le produit des mandats de perquisition a également été […] » Cette phrase est également radiée au titre de ma décision concernant l’engagement implicite;
+f) est radiée la première phrase du paragraphe 15, qui commence par les mots suivants : [TRADUCTION] « À titre de preuve additionnelle ou complémentaire de la conduite abusive de l’ARC […] » Cette phrase est également radiée au titre de ma décision concernant l’engagement implicite;
+g) sont radiés les mots suivants de la première phrase du paragraphe 19 : [TRADUCTION] « et ayant conclu qu’ils étaient dès lors certainement impliqués dans une enquête criminelle ».
+[103] En ce qui concerne la déclaration sous serment de David Daley faite le 24 février 2011 :
+a) sont radiés les mots suivants de la première phrase du paragraphe 12 : [TRADUCTION] « le tout en vue d’utiliser cette preuve pour établir la validité des cotisations dont il s’agit ici »;
+b) est radiée la deuxième phrase du paragraphe 14, qui commence par les mots suivants : [TRADUCTION] « En bref, je déclare qu’il semble que toute prétendue […] »;
+c) est radié le paragraphe 16;
+d) sont radiés les mots suivants de la deuxième phrase du paragraphe 18 : [TRADUCTION] « et la preuve montre que M. McIntyre, de l’ARC, et les agents de la GRC ainsi que les avocats du ministère de la Justice étaient pleinement au fait des possibles violations de la loi qu’entraînait l’amalgame des fonctions touchant à la vérification et à l’enquête »;
+e) est radiée la cinquième phrase du paragraphe 20, qui commence par les mots suivants : [TRADUCTION] « Il ne m’est pas possible de prouver […] »;
+f) est radiée la deuxième phrase du paragraphe 23, qui commence par les mots suivants : [TRADUCTION] « Un procès concernant la validité des cotisations dont il s’agit ici […] ».
+[104] Pour ce qui est de la déclaration sous serment de David Daley faite le 1er septembre 2006, qui a été confirmée par M. Daley dans sa déclaration sous serment du 24 février 2011 :
+a) est radié le paragraphe 29;
+b) est radiée la dernière phrase du paragraphe 33, qui commence par les mots suivants : [TRADUCTION] « Je prie la Cour d’examiner […] »;
+c) est radiée la dernière phrase du paragraphe 40, qui commence par les mots suivants : [TRADUCTION] « Le ministre n’a aucune preuve de ces allégations […] »;
+d) sont radiées la deuxième phrase du paragraphe 42, qui commence par les mots [TRADUCTION] « Le ministre n’a pas la preuve que Nautica Motors Inc. », de même que les deux phrases qui suivent;
+e) est radiée la première phrase du paragraphe 54, qui commence par les mots suivants : [TRADUCTION] « Je relève que, dans la dénonciation en vue d’obtenir un mandat de perquisition […] »;
+f) sont radiés les paragraphes 107, 115 et 118.
+[105] Pour ce qui est de la déclaration sous serment de David Daley faite le 13 février 2007, qui a été confirmée par M. Daley dans sa déclaration sous serment du 24 février 2011 :
+a) est radié le paragraphe 20.
+[106] Certaines déclarations contenues dans les déclarations sous serment, qui constituent des conjectures, des opinions, des arguments et/ou des conclusions de droit sont indissociables. Ces déclarations ont été indiquées par l’avocat de l’intimée et sont contenues aux paragraphes 7 et 8 de la déclaration sous serment de M. Skaling de 2012 et au paragraphe 9 de la déclaration sous serment de M. Daley de 2011. Ces déclarations ne seront pas radiées, mais la Cour n’en tiendra pas compte.
+[107] Comme la requête n’est accueillie qu’en partie, il n’y aura pas d’adjudication de dépens.
+S. D’Arcy
+Juge D’Arcy
+Traduction certifiée conforme
+ce 4e jour de décembre 2012.
+François Brunet, réviseur
+RÉFÉRENCE : 2012 CCI 210
+Nos DES DOSSIERS DE LA COUR : 2003-3382(GST)G, 2003-3383(GST)G
+INTITULÉS : 506913 NB LTD. c. LA REINE et CAMBRIDGE LEASING LTD. c. LA REINE
+LIEU DE L’AUDIENCE : Fredericton (Nouveau-Brunswick)
+DATES DE L’INSTRUCTION
+DE LA REQUÊTE : Les 2, 3 et 5 avril 2012
+MOTIFS DE L’ORDONNANCE : L’honorable juge Steven K. D’Arcy
+DATE DE L’ORDONNANCE : Le 16 avril 2012
+DATE DES MOTIFS DE
+L’ORDONNANCE
+RENDUS ORALEMENT : Le 16 avril 2012
+COMPARUTIONS:
+Avocats des appelantes :
+Me Eugene J. Mockler
+Me Kevin Toner
+Avocats de l’intimée :
+Me John P. Bodurtha
+Me Jan Jensen
+Me Deavon Peavoy
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom : Eugene J. Mockler
+Cabinet : E.J. Mockler Professional Corporation
+Fredericton (Nouveau-Brunswick)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 3e édition, par Bryant, Lederman et Fuerst, (Markham, Ontario, LexisNexis, 2009) (le texte Law of Evidence).
+[2] Précité, page 909, au paragraphe 14.2.
+[3] Précité, page 931, au paragraphe 14.55.
+[4] Précité, page 927, au paragraphe 14.48.
+[5] Précité, page 935, au paragraphe 14.71.
+[6] Précité, page 935, au paragraphe 14.72.
+[7] Arrêt Chapelstone, précité, au paragraphe 55.
+[8] Précité, aux paragraphes 24 et 26.

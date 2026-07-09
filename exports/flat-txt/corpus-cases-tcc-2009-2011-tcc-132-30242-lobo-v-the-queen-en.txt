@@ -1,0 +1,273 @@
+Title: Lobo v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30242/index.do
+Corpus path: corpus/cases/tcc/2009/2011-tcc-132-30242-lobo-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-03-02
+
+# Lobo v. The Queen
+
+- Citation: 2011 TCC 132
+- Decision date: 2009-03-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8011, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lobo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-03-02
+Neutral citation
+2011 TCC 132
+File numbers
+2005-3203(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3203(IT)G
+BETWEEN:
+JOSEPH A. LOBO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on November 19 and 20, 2009, at Hamilton, Ontario
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Joseph W. Irving and Lou Ciotoli
+Counsel for the Respondent:
+Carol Calabrese
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 1999, 2000 and 2001 taxation years are dismissed, with costs.
+Signed at Ottawa, Canada, this 2nd day of March, 2011.
+“E.A. Bowie”
+Bowie J.
+Citation: 2011 TCC 132
+Date: 20110302
+Docket: 2005-3203(IT)G
+BETWEEN:
+JOSEPH A. LOBO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] Mr. Lobo appeals from reassessments of income tax for the 1999, 2000, and 2001 taxation years. In filing his returns under the Income Tax Act (the Act) for those years he claimed to be entitled to deduct allowable business investment losses in the amounts of $44,672.10, $46,851 and $28,984.50 respectively. These amounts are based upon his claim to have lost $59,562.80, $62,469, and $57,969 on the purchase from Harold Coombs and subsequent resale to Oleg Volochkov of 160 shares of Select Travel Inc., a private Canadian controlled corporation. The Minister of National Revenue denied the claimed deductions on the basis that he did not believe that these transactions took place.
+[2] The appellant’s evidence was that he had been in the travel industry in Africa before immigrating to Canada. In Canada, he went to work in the travel department at Eaton’s department store, where he met Harold Coombs. In 1981 he left Eaton’s and became a travel consultant and a teacher at George Brown College in Toronto. He did some work for Mr. Coombs as a travel consultant, and he became a director of Imperial Travel, a company that he said was owned by Mr. Coombs.
+[3] The appellant testified that at that time Dominion Stores owned two travel businesses that it wished to sell – Select Travel and Travelsphere. These two businesses, he said, operated out of the same premises and shared a number of employees, to the financial advantage of both of them. At some point, and his evidence was not clear as to the timing of these transactions, Mr. Coombs acquired these two businesses, and then sold a majority share in Travelsphere to Mr. Lobo.
+[4] According to the evidence of the appellant, his acquisition of 160 shares of Select Travel Inc. resulted from the fact that by March 31, 1990, Mr. Coombs owed him $217,500, and in July of that year he could see no prospect of being repaid that amount, and so he entered into an agreement with Mr. Coombs whereby he purchased 75 common shares of Select Travel Inc. from Mr. Coombs at $1,200 per share, a total of $90,000, with payment taking the form of a reduction of the outstanding debt.
+[5] The debt of $217,500, according to Mr. Lobo’s testimony, was evidenced by a promissory note dated March 31, 1990, non-interest bearing, and falling due on March 31, 1991. He went on to testify that when the note fell due Mr. Coombs was still unable to pay the outstanding balance of $127,500, and so they entered into a second agreement whereby Mr. Coombs sold to Mr. Lobo a further 85 common shares of Select Travel Inc. at $1,500 per share, a total of $127,500. Mr. Lobo testified that one reason motivating this purchase was to avoid the possibility that Coombs would move The Select Travel Inc. business from the premises it shared with Travelsphere to the location of his other business in Scarborough, which would be detrimental to Travelsphere’s business.
+[6] The appellant testified that on November 15, 1999 he agreed to sell these 160 common shares of Select Travel Inc. to Oleg Volochkov, who was at that time the manager of the company. He identified an agreement for the sale of these shares that provided for the transfer of the shares and the payment for them to take place over two years as follows:
+November 15, 1999
+60 shares
+for a total value of $22,000
+November 15, 2000
+50 shares
+for a total value of $ 5,500
+November 15. 2001
+50 shares
+for a total value of $10,000
+In answer to a question from his counsel, Mr. Lobo explained his reason for selling these shares this way:[1]
+A. When I originally bought those, my objective was to go in for an early retirement at Humber and really take over the reins of the company, Select Travel. Of course I owned the majority in Travel Sphere. By the time we got to 1999, there were so many changes in the travel industry at the time I first got them. The airlines gave perks. The internet was getting to be more prolific. People were going to the internet for a lot of their stuff and my expertise in travel which is still very contemporary and very useful, had a smaller market, albeit a good market. Special interest travel groups and I figured I could do that just with the travel part but by selling all the shares, I could do the work that I am comfortable doing and I’m good at. I could do it out of a computer and have them handle a lot of the work at the office and that way I got Oleg managing the whole operation. It was a smaller, tighter operation.
+[7] Mr. Lobo’s evidence was that on both the purchase and the sale by him of the shares Mr. Coombs fixed the price, because he was the financial expert and knew what the shares were worth. The basis for fixing the price, he said, was 70% to 80% of one year’s gross commissions.
+[8] The appellant explained how he came to be holding a promissory note from Mr. Coombs in the amount of $217,500. He said that he had made a series of loans to Mr. Coombs between September 1982 and July 1984, and he produced a bank draft and a series of cancelled cheques, as follows:
+Instrument
+Payable to
+Amount
+Draft September 30, 1982
+Harold Coombs
+$20,000
+Cheque December 31, 1982
+Anthony Byron
+10,000
+Cheque February 28, 1983
+Anthony Byron
+10,000
+Cheque March 30, 1983
+Imperial Travel
+4,500
+Cheque March 30, 1983
+Imperial Travel
+3,500
+Cheque September 12, 1983
+Imperial Travel
+1,500
+Cheque November 17, 1983
+Select Travel
+3,000
+Cheque November 30, 1983
+Select Travel
+4,000
+Cheque December 12, 1983
+Imperial Travel
+1,000
+Cheque December 15, 1983
+H. Coombs and A. Lobo
+1,000
+Cheque December 15, 1983
+Select Travel
+9,000
+Cheque February 24, 1984
+TD Bank re: loan
+800
+Cheque March 1, 1984
+Imperial Travel
+1,500
+Cheque April 3, 1984
+Select Travel
+10,000
+Cheque May 1, 1984
+Select Travel
+9,500
+Cheque May 10, 1984
+Select Travel
+5,500
+Cheque June 30, 1984
+Quintana Inc.
+10,000
+Cheque July 14, 1984
+Imperial Travel
+2,000
+[9] These 18 instruments total $106,800, and only one of them is payable to Mr. Coombs alone. Mr. Lobo’s explanation for this was that the cheques payable to Imperial Travel, Select Travel and Quintana Inc. were for amounts that he advanced to Mr. Coombs as loans, but that he made them payable to these entities at Mr. Coombs request because they were funds that Mr. Coombs was going to advance to these businesses. The amounts made payable to Mr. Byron were paid on Mr. Coombs account, he said, as Mr. Coombs was using the funds to repay debts owing to Mr. Byron. The cheque payable jointly to Mr. Coombs and Mr. Lobo, he said, was used to open a joint bank account in both their names.
+[10] According to Mr. Lobo’s evidence, the difference between the aggregate of these payments on Mr. Coombs’s account and the amount of the promissory note was made up of three items. The first two were amounts that he said were owing to him for work that he did “for Harold’s company”. His evidence was not at all specific as to the first of these, which he referred to as the Tandem Corporation account. The second was an amount of $29,450, being 70% of the profit on a job called The Sperry Group file, which he said was his fee for consulting on that account. This was supported by a hand written calculation made on Mr. Lobo’s letterhead, and apparently agreed to by Mr. Coombs. The third item was interest on the various advances, and again the evidence does not reveal any specific amount of interest that was payable. Mr. Lobo simply testified that he and Mr. Coombs agreed that, taking all these items into account, including an unspecified amount of interest, Mr. Coombs owed Mr. Lobo $217,500. Mr. Coombs then gave Mr. Lobo the promissory note for that amount, payable in one year, without interest.
+[11] Mr. Lobo introduced a number of documents in support of this evidence.
+(a) An agreement dated July 31, 1991 between Harold J. Coombs and Joseph A. Lobo for the sale of 75 common shares of Select Travel Inc. for $90,000;
+(b) An agreement dated May 31, 1993 between Harold J. Coombs and Joseph A. Lobo for the sale of 85 common shares of Select Travel Inc. for $127,500;
+(c) The promissory note dated March 31, 1990 made by Harold J. Coombs in favour of Joseph A. Lobo for $217,500, payable, without interest, on or before March 31, 1991;
+(d) An agreement dated November 15, 1999 between and Joseph A. Lobo and Oleg Volochkov for the sale of 160 common shares of Select Travel Inc. for a total price of $37,500, to be transferred and paid as follows:
+November 15, 1999
+60 shares
+$22,000
+November 15, 2000
+50 shares
+$ 5,500
+November 15. 2001
+50 shares
+$ 10,000
+(e) Share Transfer Forms dated July 31, 1991 and May 31, 1993 in respect of the sales from Harold Coombs to Joseph A. Lobo, apparently signed by Mr. Coombs and witnessed by Joan Coombs;
+(f) Share Transfer Forms dated November 15, 1999, November 10, 2000 and November 10, 2001 in respect of the sales from the appellant to Mr. Volochkov, apparently signed by Mr. Lobo and witnessed by Mr. Coombs;
+(g) Three resolutions of the board of directors of Select Travel Inc., approving the three transfers of shares from Joseph Lobo to Oleg Volochkov, signed by Harold Coombs, Joseph Lobo and Oleg Volochkov as the directors; and
+(h) A typed document with certain names redacted which I reproduce here in full:
+select travel inc. shareholders’ register
+common
+November 1982
+From Treasury to Coombs
+240
+November 1982
+From Treasury to Volochkov
+60
+March 1989
+From Volochkov to [redacted]
+28
+March 1989
+To [redacted] from Volochkov
+-28
+July 1991
+From Coombs to Lobo
+75
+July 1991
+To Lobo from Coombs
+-75
+July 1991
+To [redacted] from Coombs
+80
+July 1991
+From Coombs to [redacted]
+-80
+May 1993
+To Lobo from Coombs
+85
+May 1993
+From Coombs to Lobo
+-85
+November 1999
+To Volochkov from [redacted]
+30
+November 1999
+From [redacted] to Volochkov
+-30
+November 1999
+To Volochkov from Lobo
+60
+Novembe4r 1999
+From Lobo to Volochkov
+-60
+November 2000
+To Volochkov from Lobo
+50
+November 2000
+From Lobo to Volochkov
+-50
+November 2000
+To Volochkov from [redacted]
+50
+November 2000
+From [redacted] to Volochkov
+-50
+November 2001
+To Volochkov from Lobo
+50
+November 2001
+From Lobo to Volochkov
+-50
+300
+[12] The appellant’s book of documents also contained a written statement purporting to be signed by Harold Coombs. Mr. Lobo’s counsel stated that this and the supposed share register would be proved through Mr. Coombs. Mr. Coombs was never called however, and these two documents were neither proved nor admitted by counsel for the respondent to be authentic.
+[13] An articled student from the law firm Lang Michener appeared in response to a subpoena served by the respondent and identified the minute book and share register of Select Travel Inc. It shows that the appellant has been the president and a director of the company since its inception in December 1982, and that Harold Coombs has been the corporate secretary and a director during the same period.
+[14] The shareholders register shows that on December 10, 1982 each of Joseph Lobo and Harold Coombs subscribed for 100 common shares from treasury at an issue price of $1.00 per share, and on February 3, 1983 Anthony Byron subscribed for 100 common shares at $1.00 per share. On June 27, 1983 Mr. Byron transferred 50 common shares to each of Harold Coombs and Joseph Lobo. On September 1, 1983 Mr. Coombs and Mr. Lobo each transferred 15 common shares to CUMBA, and on October 26, 1983 Mr. Coombs and Mr. Lobo each transferred 15 common shares to Oleg Volochkov. On August 15, 1984 CUMBA transferred its 30 common shares to Oleg Volochkov. On the same date Charles De Souza subscribed for 30 common shares at $1.00 each. No further subscriptions for or transfers of common shares are recorded, leaving this distribution of common shares as at mid 1984 as the last recorded:
+Harold Coombs 120 common shares
+Joseph Lobo 120 common shares
+Oleg Volochkov 60 common shares
+Charles De Souza 30 common shares
+[15] There are also certain transactions in Class B shares recorded, which are not relevant to the issues before me, and also certain incomplete penciled entries for which there are no corresponding resolutions of the board of directors.
+[16] Clearly, there are many significant discrepancies between the evidence of Mr. Lobo and the story told by the shareholders directory and the minutes of the board of directors. It is true that these latter do not appear to have been updated since 1990. However, Mr. Lobo acknowledged his signature on his subscription for 100 common shares on December 10, 1982, and on various resolutions of the directors that are inconsistent with the supposed shareholders’ register that he proffered in his evidence as having been given to him by Mr. Coombs, and which he said he believed to be accurate. The agreements to purchase the shares from Mr. Coombs and to sell them to Mr. Volochkov that he produced all included the words
+The common shares referred to above, shall be transferred and recorded in the Minute Book of Select Travel Inc. on the dates stipulated above.
+The Notice of Appeal, which the appellant testified was prepared by himself and Mr. Coombs jointly, alleges in paragraph 14 that
+The minute book of Select Travel Inc. recorded all transactions relating to the purchase and sale of shares referred to by agreements.
+yet the alleged purchases and sales that the appellant relies on as giving rise to the allowable business investment losses that he claims were not so recorded. These inconsistencies certainly called for some explanation from the appellant, but he gave none, other than to say that Mr. Coombs was in charge of all the financial matters and that he relied on Mr. Coombs for all his information about the corporation. This hardly seems an adequate explanation when one considers that Mr. Lobo acknowledged that he has been the president and a director of the corporation since its incorporation in 1982.
+[17] There are a number of other reasons to disbelieve the appellant’s evidence.
+[18] Much of the appellant’s evidence was contradictory, and much of it simply does not accord with common sense. Mr. Lobo’s position initially was that he owned no shares in Select Travel Inc. until the alleged purchases from Mr. Coombs in 1991 and 1993. On cross-examination, however, he acknowledged his purchases of 100 treasury shares, and 50 shares from Mr. Byron when shown his signature on the subscription and the resolution approving the transfer from Mr. Byron. His explanation was that it was a long time ago, and that he did not know what he had signed in 1982 and 1983. During his examination for discovery, he had given an undertaking to use his best efforts to produce the minute book, which recorded these transactions, but he failed to do so, although he was the president of the corporation and a director. His explanation of this was that he asked Mr. Coombs for the minute book but never received it.
+[19] It seems highly unlikely that the appellant would advance more than $100,000 to Mr. Coombs in the form of personal loans over a period of almost two years without any evidence of the indebtedness or any security, and most of it by cheques payable not to Mr. Coombs but to Mr. Byron, Select Travel, Imperial Travel and Quintana Inc. Mr. Coombs, he said, was someone he had met when they worked together, but they were not close friends.
+[20] The prices at which the appellant claimed to have purchased the shares, and the prices at which he claimed to have sold them to Mr. Volochkov, also strain credulity. He testified that Mr. Coombs was the financial person and so he fixed the price for all these transactions. He did not get an independent evaluation, either when he was buying from Mr. Coombs or when he was selling to Mr. Volochkov. He testified that, according to Mr. Coombs’ advice, the prices “were based on industry norms of seventy to eighty percent of the annual revenue.”[2] The evidence before me includes the income tax returns of Select Travel Inc. for the years 1989, 1991, 1993 and 1999. From these it appears that the gross commissions in the relevant years were:
+1990 $52,755
+1992 $60,400
+1998 $98,647
+[21] It is difficult to understand why, on Mr. Coombs’s advice, the appellant would be willing to sell the shares in 1999 at an average price of $234 per share when he had paid five times that price in 1991 and more than six times that price in 1993, when gross commissions had nearly doubled during the period. Surprisingly, Mr. Lobo’s evidence did not include any account of bargaining on his part with either Mr. Coombs or Mr. Volochkov.
+[22] Given the many unusual features of the alleged transactions, one would expect that the appellant would call both Mr. Coombs and Mr. Volochkov to give evidence, but that did not happen. Nor did the appellant offer any explanation for not doing so. Mr. Coombs was in court at the beginning of the trial and I permitted him to argue, unsuccessfully, that the Select Travel Inc. minute book was subject to solicitor-client privilege. There is no reason to believe that Mr. Volochkov was not also available had the appellant wished to call him. In these circumstances I infer that their evidence would not have assisted the appellant’s case.
+[23] In the face of all these inconsistencies and improbabilities, there appear to be only two possible explanations. One is that the agreements to purchase and to sell the shares are a fabrication by the appellant, with the assistance of Mr. Coombs and Mr. Volochkov. The other, but less likely, possibility is that Mr. Coombs and Mr. Volochkov together have perpetrated a swindle upon the appellant, pretending to sell shares to him that did not exist, and then pretending to buy them back from him at a lower price. In either case the appellant did not either acquire or sell the shares, and so did not incur an allowable business investment loss: see Hamill v. Canada.[3]
+[24] The appeals are dismissed, with costs.
+Signed at Ottawa, Canada, this 2nd day of March, 2011.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2011 TCC 132
+COURT FILE NO.: 2005-3203(IT)G
+STYLE OF CAUSE: JOSEPH A. LOBO and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: November 19 and 20, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: March 2, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Joseph W. Irving and Lou Ciotoli
+Counsel for the Respondent:
+Carol Calabrese
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Joseph W. Irving
+Firm: J.W. Irving & Company
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcript, p. 87 line 5 to line 24.
+[2] Transcript, p. 144, lines 10-12.
+[3] 2005 FCA 252; 59 DTC 5397.

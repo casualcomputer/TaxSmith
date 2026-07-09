@@ -1,0 +1,193 @@
+---
+title: "1391288 Ontario Limited c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28056/index.do"
+last_modified: "2003-07-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 492"
+citation2: ""
+neutral_citation: "2003 CCI 492"
+decision_date: "2003-07-22"
+language: "fr"
+item_id: "28056"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1576
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:56:54.084000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ae3ec169e1b9b2a8b65024fcbf58cc451cb65e5ad9dbf86f0d431bfe10c0bcd3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1391288 Ontario Limited c. M.R.N.
+
+- Citation: 2003 CCI 492
+- Decision date: 2003-07-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1576, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1391288 Ontario Limited c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-22
+Référence neutre
+2003 CCI 492
+Numéro de dossier
+2002-3102(EI)
+Juges et Officiers taxateurs
+William E. MacLatchy
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002‑3102(EI)
+ENTRE :
+1391288 ONTARIO LIMITED,
+appelante,
+Et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de 1391288 Ontario Limited (dossier numéro 2002‑3104(CPP)) le 18 juin 2003 à Toronto (Ontario)
+Devant : L’honorable juge suppléant W. E. MacLatchy
+Comparutions
+Avocat de l’appelante :
+Mme John Kutkevicius
+Avocate de l’intimé :
+Me Lorraine Edinboro
+____________________________________________________________________
+JUGEMENT
+L’appel est admis et la décision du ministre est infirmée conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 22e jour de juillet 2003.
+« W. E. MacLatchy »
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 27e jour de janvier 2004.
+Nancy Bouchard, traductrice
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002‑3104(CPP)
+ENTRE :
+1391288 ONTARIO LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de 1391288 Ontario Limited (2002‑3102(EI)) le 18 juin 2003 à Toronto (Ontario)
+Devant : L’honorable juge suppléant W. E. MacLatchy
+Comparutions
+Avocat de l’appelante :
+Me John Kutkevicius
+Avocate de l’intimé :
+Me Lorraine Edinboro
+____________________________________________________________________
+JUGEMENT
+L’appel est admis et la décision du ministre est infirmée conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 22e jour de juillet 2003.
+« W. E. MacLatchy »
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 27e jour de janvier 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI492
+Date : 20030722
+Dossiers : 2002‑3102(EI)
+2002‑3104(CPP)
+ENTRE :
+1391288 ONTARIO LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant MacLatchy
+[1] Les présents appels ont été entendus sur preuve commune par consentement des parties à Toronto, en Ontario, le 18 juin 2003.
+[2] L’appelante a interjeté appel à l’encontre d’une décision du ministre du Revenu national (le « ministre ») visant à déterminer si Cynthia McPhee (la « travailleuse ») exerçait un emploi assurable et ouvrant droit à pension lorsqu’elle était employée par l’appelante pendant la période du 1er avril au 1er juin 2001 aux termes de la Loi sur l’assurance‑emploi (la « Loi ») et du Régime de pensions du Canada (le « Régime ») respectivement.
+[3] Par voie d’une lettre datée du 20 février 2002, le ministre a informé la travailleuse et l’appelante qu’il avait été décidé que la travailleuse avait exercé un emploi assurable et ouvrant droit à pension pendant la période en question, en vertu de l’alinéa 5(1)a) de la Loi et de l’alinéa 6(1)a) du Régime respectivement.
+[4] Pour rendre sa décision, le ministre s’est appuyé sur les hypothèses de fait suivantes que l’appelante n’a pas niées :
+a) les activités commerciales de l’appelante consistent en la publication d’une revue hebdomadaire qui offre des espaces publicitaires à des concessionnaires et à des particuliers pour la mise en vente de voitures usagées dans la région de Peterborough;
+b) les tâches de la travailleuse consistaient à mettre en forme des pages d’annonces publicitaires en fonction de photographies d’automobiles et de descriptions écrites que lui fournissaient les vendeurs de l’appelante chaque semaine;
+c) la travailleuse accomplissait ses tâches dans un bureau situé à côté du lieu d’affaires de l’appelante et que cette dernière lui avait fourni;
+d) la travailleuse percevait un taux de 10 $ la page ainsi qu’un salaire minimum de 250 $; la revue en question comportait entre 24 et 32 pages, selon le volume d’activités hebdomadaires de l’appelante;
+e) le taux de traitement que percevait la travailleuse avait été établi par l’appelante, selon la norme en vigueur dans cette industrie très concurrentielle; la travailleuse considérait que ce taux de traitement était acceptable;
+f) la travailleuse était rémunérée par chèque toutes les semaines;
+g) la travailleuse pouvait établir son propre horaire de travail chaque semaine pour accomplir ses tâches à condition qu’elle respecte l’échéancier du jeudi soir, conformément aux exigences de l’imprimeur.
+[5] La travailleuse et l’appelante ont admis que le rendement de la travailleuse ne faisait l’objet que de peu de supervision, voire aucune. Un vendeur transmettait à la travailleuse les renseignements nécessaires ainsi qu’une photographie du véhicule mis en vente à partir desquels elle préparait la conception graphique pour le client. Le vendeur examinait ensuite la publicité telle que la travailleuse l’avait conçue puis l’expédiait au client par télécopieur en vue d’obtenir son approbation finale. Par la suite, la travailleuse imprimait au laser la version finale qu’elle expédiait à l’imprimeur aux fins d’impression. La travailleuse utilisait un programme logiciel et d’autres petits articles que l’appelante avait mis à sa disposition dans un bureau situé à côté de son lieu d’affaires. Elle aurait pu fournir ses services ailleurs, mais ce bureau lui était plus commode lorsqu’elle devait communiquer avec les vendeurs et d’autres personnes avec qui elle devait traiter pendant ses heures de travail. En général, elle ne commençait à travailler que le mardi de chaque semaine parce que les vendeurs n’avaient pas suffisamment de travail à lui fournir avant cela. On avait remis à la travailleuse une clé lui permettant d’accéder à son lieu de travail en tout temps, mais l’édifice n’ouvrait habituellement qu’à 7 h tous les matins.
+[6] La question que la présente Cour est appelée à trancher consiste à savoir si la travailleuse a été engagée en tant qu’entrepreneuse indépendante en vertu d’un contrat d’entreprise ou en tant qu’employée en vertu d’un contrat de louage de services.
+[7] Tout d’abord, il est nécessaire d’appliquer le critère composé de quatre parties intégrantes, tel que l’a énoncé la Cour d’appel fédérale dans l’affaire Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553 (87 DTC 5025), aux faits présentés et de tenir compte de façon appropriée de chacune des parties qui le compose pour tenter de déterminer quel était l’ensemble de la relation qui existait entre l’appelante et la travailleuse.
+[8] Contrôle – En général, ce critère vise à déterminer le degré de contrôle qu’exerce un employeur sur son employé. Il s’agit d’un critère très utile, si l’on peut établir clairement qu’un tel contrôle était exercé.
+[9] Si l’on tient compte des circonstances de l’affaire en l’espèce, il semble que l’appelante n’exerçait que peu de contrôle sur la travailleuse, sinon aucun. Celle‑ci pouvait établir ses propres horaires de travail à condition qu’elle respecte l’échéancier fixé au jeudi soir. C’est l’imprimeur externe et non l’appelante qui fixait cet échéancier puisque telle était la réalité dans cette industrie. De plus, la travailleuse était libre d’aller et de venir comme bon lui semblait.
+[10] L’appelante ne supervisait pas la travailleuse. Ce sont les vendeurs qui approuvaient son travail au nom de l’appelante, mais c’est le client qui, en bout de ligne, donnait son approbation finale. S’il était nécessaire d’apporter des modifications, c’est le client et non l’appelante qui exigeait ces changements.
+[11] Le taux de traitement versé à la travailleuse correspondait à ceux en vigueur dans cette industrie. L’entreprise de l’appelante a été décrite comme une entreprise très concurrentielle, et le taux de traitement équivalait aux autres taux accordés dans cette industrie.
+[12] L’appelante n’a fourni aucune formation à la travailleuse puisqu’elle avait suivi, au collège, un programme d’études dans le domaine de la conception graphique. La travailleuse a peut‑être suivi une séance de formation d’environ une heure visant à lui expliquer comment extraire les photos de l’équipement de photographie des vendeurs, séance qui était nécessaire pour que toute personne engagée puisse connaître les exigences relatives à l’équipement qu’utilisait l’appelante. Cet équipement varie selon chaque fabricant. Toutefois, la travailleuse n’était pas tenue de suivre une formation pour apprendre comment accomplir son travail dans le cadre des activités générales de cette entreprise.
+[13] Bien que cette question n’ait jamais été soulevée, il semble que les parties ont convenu que la travailleuse pouvait engager un remplaçant pour fournir ses services à condition que cette personne possède les compétences et l’expertise nécessaires pour accomplir ce travail. La travailleuse a témoigné qu’elle avait pris une semaine de congé pendant la période en question, mais qu’elle s’était assurée que l’un des directeurs de l’entreprise accomplirait ses tâches en son absence.
+[14] Selon la preuve qui m’a été présentée, l’appelante n’exerçait que peu de contrôle et, qui plus est, elle n’avait guère la possibilité d’exercer un contrôle. Ce critère tend donc à démontrer que la travailleuse a été engagée en tant qu’entrepreneuse indépendante.
+[15] Instruments de travail – Avec tout l’équipement électronique sophistiqué dont nous disposons aujourd’hui, il ne semble pas être très utile d’appliquer ce critère. La travailleuse utilisait un bureau dans un immeuble situé à côté du lieu d’affaires de l’appelante parce qu’il s’agissait d’un endroit commode qui permettait à la travailleuse d’interagir avec les vendeurs qui lui fournissaient les renseignements et le matériel photographique qui lui étaient nécessaires pour accomplir son travail. L’appelante fournissait l’ordinateur et le programme logiciel qu’utilisait la travailleuse pour produire ses conceptions graphiques. Elle a déclaré qu’elle aurait pu se servir de son propre ordinateur et qu’en installant le logiciel requis, elle aurait pu travailler de son propre établissement. Cependant, c’est l’aspect de la commodité qui a prévalu. Il était plus facile de communiquer avec les clients de l’entreprise à partir de son bureau. Par conséquent, je ne peux accorder que peu de certain poids à ce critère.
+[16] Chances de bénéfice – La travailleuse a déclaré qu’elle exploitait sa propre entreprise. Ses heures de travail flexibles lui permettaient d’aller et de venir comme bon lui semblait. Elle a également déclaré qu’elle aurait pu fournir ses services à d’autres clients si elle avait voulu accroître ses revenus. Les dépenses qu’elle engageait, peu importe ce qu’elles ont pu être, ne lui étaient pas remboursées. Il s’agissait de son entreprise, et elle l’exploitait comme elle le voulait. La seule exigence qu’elle devait satisfaire concerne l’échéancier dont il a été fait mention précédemment.
+[17] Risques de perte – Il est difficile d’appliquer ce critère du point de vue de la travailleuse. Elle a engagé certaines dépenses et si de telles dépenses n’avaient pas été réduites, elle aurait risqué de subir une perte. Elle n’a perçu aucune prestation de maladie ou d’assurance‑vie et elle était responsable de souscrire à une assurance, ce qui aurait pu entraîner une perte de revenu importante si elle avait eu des problèmes de santé. De même, elle n’avait droit à aucune indemnité de congé annuel, comme cela aurait été le cas si elle avait été une employée.
+[18] Aucune retenue quelconque n’était prélevée sur son revenu et elle était responsable de produire ses déclarations de revenus ainsi que ses relevés de dépenses. Outre ses responsabilités à l’égard de son entreprise, cela lui demandait du temps et des efforts.
+[19] Tous ces critères semblent appuyer l’existence d’un contrat d’entreprise conclu entre l’appelante et la travailleuse.
+[20] Les parties elles-mêmes ont établi les modalités de leur relation. Elles ont conclu un contrat au moment d’établir leur relation dont une copie a été déposée en preuve sous la cote A‑1. Le contrat en question stipulait clairement que l’entente avait établi la travailleuse comme une entrepreneuse indépendante. Toutes les modalités énoncées au contrat appuyaient l’intention des parties d’établir une relation entre un mandant et un entrepreneur indépendant.
+[21] La jurisprudence à laquelle l’avocate a renvoyé la Cour appuie clairement l’assertion selon laquelle en l’absence d’une preuve évidente qu’il s’agit d’une tentative « trompe-l’œil », il n’appartient ni à la Cour ni au ministre de « récrire le contrat conclu entre les parties ».
+[22] Dans l’affaire Saskatchewan Deaf & Hard of Hearing Services Inc. c. Ministre du Revenu national, [2001] A.C.I. no 38, la Cour, au paragraphe 29 de cette décision, a déclaré ceci :
+Il ressort du droit applicable en la matière que la Cour doit examiner le fond de l’entente conclue entre les parties, et non pas simplement l’appellation donnée à l’entente. Si le fond et l’appellation ne concordent pas, le fond doit prévaloir. Toutefois, lorsque les parties se sont clairement précisé l’une à l’autre la nature du contrat qu’elles souhaitaient conclure et qu’il n’y a aucune preuve convaincante du contraire, j’estime que la Cour doit prendre acte de l’intention initiale des parties. Il n’appartient ni à la Cour ni au ministre de récrire le contrat conclu entre les parties en l’absence de preuve convaincante d’une divergence entre son contenu et l’intention déclarée.
+[23] J’estime que la Cour doit prendre acte de l’intention initiale des parties. Il n’appartient ni à la Cour ni au ministre de récrire le contrat conclu entre les parties en l’absence de preuve convaincante d’une divergence entre son contenu et l’intention déclarée.
+[24] On a renvoyé la Cour à des décisions pour montrer l’« approche moderne » des lois fiscales. Dans l’affaire Sara Consulting & Promotions Inc. c. Ministre du Revenu national, [2001] A.C.I. no 773, les paragraphes 57 à 61 s’avèrent très utiles et, par conséquent, je me dois de les citer. Ainsi :
+L’avocat a ensuite consacré un certain temps à l’« approche moderne » des lois fiscales, citant l’extrait suivant de l’arrêt Canada c. Antosko, [1994] 2 R.C.S. 312, à la page 328 (94 D.T.C. 6314, à la page 6320) :
+[...] En l’absence d’une preuve que l’opération est un trompe‑l’oeil ou qu’elle représente un abus des dispositions de la Loi, il n’appartient pas à un tribunal de déterminer si elle rend le contribuable admissible à une déduction. Si les conditions de l’article sont remplies, le contribuable peut l’invoquer et il est loisible au législateur de lui interdire expressément de les invoquer à l'avenir dans de telles situations.
+Il a ensuite cité un extrait de la décision rendue par la Cour suprême du Canada dans l’affaire Continental Bank Leasing Corp c. Canada, [1998] 2 R.C.S. 298 (98 D.T.C. 6505), soit une affaire dans laquelle il s’agissait de savoir si une société de personnes par ailleurs valablement constituée devrait se voir refuser un avantage fiscal parce qu’elle avait été expressément créée pour obtenir cet avantage. La Cour a majoritairement statué à la page 328 (D.T.C. : à la page 6518) :
+[...] Ce raisonnement suppose également qu'une opération visant l’obtention d’un avantage fiscal n’est pas une opération valide. Ce raisonnement ne saurait tenir.
+Le contribuable qui se conforme à tous égards aux dispositions de la Loi de l’impôt sur le revenu ne devrait pas se voir refuser le bénéfice de ces dispositions simplement parce que l’opération en cause était motivée par des considérations de planification fiscale. Dans Stubart Investments, […], notre Cour a rejeté à l’unanimité le « critère de l’objet commercial » et confirmé qu’un contribuable peut se prévaloir des dispositions de la Loi de l’impôt sur le revenu pour monter une opération dont l’unique objet est de réduire l’impôt à payer.
+L’avocat a ensuite dit que cette approche moderne a été appuyée dans l’affaire Duha Printers (Western) Ltd. c. Canada, [1998] 1 R.C.S. 794 (98 D.T.C. 6334), et dans l’affaire Neuman c. M.R.N., [1998] 1 R.C.S. 770 (98 D.T.C. 6297).
+Il a ensuite fait valoir que l’on a récemment traité de cette question avec force dans l’affaire Shell Canada Ltée c. Canada, [1999] 3 R.C.S. 622 (99 D.T.C. 5669), affaire dans laquelle la juge McLachlin (titre qu’elle portait alors) a dit aux pages 641 et 644 (D.T.C. : à la page 5676) :
+[...] Premièrement, notre Cour n’a jamais statué que la réalité économique d’une situation pouvait justifier une nouvelle qualification des rapports juridiques véritables établis par le contribuable. Au contraire, nous avons décidé qu’en l’absence d’une disposition expresse contraire de la Loi ou d’une conclusion selon laquelle l’opération en cause est un trompe‑l’oeil, les rapports juridiques établis par le contribuable doivent être respectés en matière fiscale. Une nouvelle qualification n’est possible que lorsque la désignation de l’opération par le contribuable ne reflète pas convenablement ses effets juridiques véritables : [...]
+Examiner la « réalité économique » d’une situation donnée, au lieu d’appliquer simplement une disposition claire et non équivoque de la Loi aux opérations juridiques effectuées par le contribuable a des répercussions regrettables en pratique. Cette démarche favorise à tort l’application d'une règle voulant que, s’il existe deux manières de structurer une opération pour produire le même effet économique, le tribunal doive ne tenir compte que de l’option qui ne confère aucun avantage fiscal. Avec égards, cette démarche n’accorde pas l’importance voulue à la jurisprudence de notre Cour selon laquelle, en l’absence de dispositions législatives expresses contraires, le contribuable peut diriger ses affaires de façon à réduire son obligation fiscale :
+L’avocat a fait valoir que dans le contexte particulier du présent appel l’Agence ne peut, en l’absence d’une opération trompe‑l’oeil ou d’une disposition législative expresse, considérer qu’une véritable relation qu’établissent des entrepreneurs entre eux n’en est pas une – même s’il s'agit d’un arrangement conclu délibérément pour obtenir un avantage fiscal. Il a ensuite dit que, si les parties entendaient créer une relation qu’établissent entre eux des entrepreneurs, qu’elles ont entrepris leur relation en croyant que c’était une relation qu’établissent entre eux des entrepreneurs et qu’elles se sont comportées en conséquence, l’Agence n’a pas à considérer qu’il ne s’agissait pas d’une telle relation.
+[25] Les paragraphes 77 et 92 de ce jugement sont également utiles :
+Cette cause s’écarte un peu de la simple énonciation rituelle des quatre critères de l’arrêt Wiebe Door comme éléments d’une formule juridique inaltérable servant à déterminer si un emploi est assurable [...]. Ces seuls critères peuvent ne pas englober un certain nombre de facteurs influant sur une telle détermination. Un contrôle existe non seulement dans le cas de contrats de louage de services, mais aussi dans le cas de contrats d’entreprise. Le critère de la propriété des instruments de travail est un critère de base indûment vénéré, qui traite d’objets, d’équipement et d’espace. Le critère relatif aux chances de bénéfice et aux risques de perte, tel qu’il est appliqué, ne dénote souvent qu’une approche étroite, dans le cadre de laquelle on examine simplement la question de savoir si un fournisseur de services reçoit une somme selon une formule fixe et dans le cadre de laquelle il arrive que l’on ne prête guère attention à des éléments potentiels de risque. En toute déférence, j’estime que ce qui est décrit comme étant le critère d’intégration ne semble que peu utile […]
+[...] Je souscris à l’orientation donnée dans l’arrêt Shell, à savoir qu’une nouvelle qualification des rapports juridiques n’est possible que lorsque la désignation de l’opération par le contribuable ne reflète pas convenablement ses effets juridiques véritables. Il faut reconnaître que cet énoncé de la Cour suprême du Canada se rapportait à des causes fiscales. Toutefois, en l’absence d’une preuve claire et digne de foi selon laquelle la description d’une relation est autre que la description dont avaient convenu des parties sans lien de dépendance, la description dont ces parties avaient convenu doit être acceptée. Il y a absence d’une telle preuve claire et digne de foi en l’espèce.
+[26] L’affaire Wolf c. Sa Majesté la Reine, [2002] C.A.F. 96 (2002 D.T.C. 6853), fournit également des lignes directrices utiles, notamment aux paragraphes 113, 117, 120, 122 et 124 :
+Ma collègue a expliqué par le biais de la jurisprudence comment un contrat de travail devait être distingué d’un contrat de service. Que l’on adopte ou non les termes que j’ai utilisés dans l’affaire Charbonneau [...]
+En d’autres termes, il ne faut pas, et l’image est particulièrement appropriée en l’espèce, examiner les arbres de si près qu’on perde de vue la forêt. Les parties doivent s’effacer devant le tout. (À la p. 301)
+ceux utilisés par le juge MacGuigan dans l’affaire Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F, 553 (C.A. féd.), à la page 563 :
+Il est toujours important de déterminer quelle relation globale les parties entretiennent entre elles.
+ou ceux utilisés par le juge Major dans l’affaire 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, au paragraphe 47 :
+La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte.
+en fin de compte, on finit par faire, en droit civil comme en common law, un examen des termes des conventions pertinentes et des circonstances pour découvrir la véritable réalité contractuelle des parties.
+[...]
+Le critère consiste donc à se demander, en examinant l’ensemble de la relation entre les parties, s’il y a contrôle d’un côté et subordination de l’autre. Je déclare, avec le plus grand respect, que les tribunaux, dans leur propension à créer des catégories juridiques artificielles, ont parfois tendance à ne pas tenir compte du facteur même qui est l’essence d’une relation contractuelle, à savoir l’intention des parties. L’article 1425 du Code civil du Québec établit le principe selon lequel « on doit rechercher quelle a été la commune intention des parties plutôt que de s’arrêter au sens littéral des termes utilisés ». L’article 1426 du Code civil du Québec poursuit en disant : « [on] tient compte, dans l’interprétation du contrat, de sa nature, des circonstances dans lesquelles il a été conclu, de l’interprétation que les parties lui ont déjà donnée ou qu’il peut avoir reçue, ainsi que des usages ».
+[...]
+De nos jours, quand un travailleur décide de garder sa liberté pour pouvoir signer un contrat et en sortir pratiquement quand il le veut, lorsque la personne qui l’embauche ne veut pas avoir de responsabilités envers un travailleur si ce n’est le prix de son travail et lorsque les conditions du contrat et son exécution reflètent cette intention, le contrat devrait en général être qualifié de contrat de service. Si l’on devait mentionner des facteurs particuliers, je nommerais le manque de sécurité d’emploi, le peu d’égard pour les prestations salariales, la liberté de choix et les questions de mobilité.
+[...]
+Le juge Noël, J.C.A. (souscrivant au résultat seulement) :
+J’accueillerais aussi l’appel. À mon avis, il s’agit d’un cas où la qualification que les parties ont donnée à leur relation devrait se voir accorder un grand poids. Je reconnais que la façon dont les parties décident de décrire leur relation n’est pas habituellement déterminante, en particulier lorsque les critères juridiques applicables pointent dans l’autre direction. Mais, dans une issue serrée comme en l’espèce, si les facteurs pertinents pointent dans les deux directions avec autant de force, l’intention contractuelle des parties et en particulier leur compréhension mutuelle de la relation ne peuvent pas être laissées de côté.
+[...]
+Ce n’est pas un cas où les parties qualifiaient leur relation d’une façon telle que cela leur procure un avantage fiscal. Aucune manœuvre frauduleuse ou aucun maquillage de quelque sorte n’est allégué. Il s’ensuit que la manière dont les parties ont pu voir leur entente doit l’emporter à moins qu’elles ne se soient pas trompées sur la véritable nature de leur relation. À cet égard, la preuve, lorsqu’elle est évaluée à la lumière des critères juridiques pertinents, est pour le moins neutre. Comme les parties ont estimé qu’elles se trouvaient dans une relation d’entrepreneur indépendant et qu’elles ont agi d’une façon conforme à cette relation, je n’estime pas que la juge de la Cour de l’impôt avait le loisir de ne pas tenir compte de cette entente (à comparer avec l’affaire Montreal (City) v. Montreal Locomotive Works Ltd., (1946) [1947] 1 D.L.R. 161 (C.P.), à la page 170).
+[27] La Cour a examiné l’ensemble de la relation qui existait entre les parties, selon la preuve qui lui a été présentée, et à la lumière des lignes directrices de la jurisprudence, précitée, elle conclut que les présents appels doivent être admis et les décisions du ministre infirmées.
+Signé à Toronto (Ontario), ce 22e jour de juillet 2003.
+« W. E. MacLatchy »
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 27e jour de janvier 2004.
+Nancy Bouchard, traductrice

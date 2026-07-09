@@ -1,0 +1,142 @@
+---
+title: "Chomatas v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/63242/index.do"
+last_modified: "2013-10-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 319"
+citation2: ""
+neutral_citation: "2013 TCC 319"
+decision_date: "2013-10-03"
+language: "en"
+item_id: "63242"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6094
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:49:57.614000+00:00"
+cases_cited_count: 2
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8a000ee6f9f3be33b42571abbbd55a6753488a7a667e5739552aeecb2a97808e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chomatas v. The Queen
+
+- Citation: 2013 TCC 319
+- Decision date: 2013-10-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6094, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chomatas v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-10-03
+Neutral citation
+2013 TCC 319
+File numbers
+2013-2562(GST)APP
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2013 TCC 319
+Date: 20131018
+Docket: 2013-2562(GST)APP
+BETWEEN:
+IOANNIS CHOMATAS,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR ORDER
+(Reasons amended to correct date of assessment in paragraph 1)
+Woods J.
+[1] The applicant, Ioannis Chomatas, seeks an order extending the time for serving a notice of objection in respect of a directors’ liability assessment that was issued on September 26, 2008 under the Excise Tax Act. The amount of the assessment is $27,903.11.
+[2] The Crown submits that the order should not be granted because two required deadlines were not met: (1) Mr. Chomatas did not apply for an extension with the Minister of National Revenue within one year of the deadline for objecting; and (2) Mr. Chomatas did not make the application to this Court within 30 days after the Minister’s refusal of the extension.
+[3] The relevant provisions are set out below.
+304. (1) Extension of time [to object] by Tax Court - A person who has made an application under section 303 may apply to the Tax Court to have the application granted after either
+(a) the Minister has refused the application, or
+(b) ninety days have elapsed after service of the application under subsection 303(1) and the Minister has not notified the person of the Minister’s decision,
+but no application under this section may be made after the expiration of thirty days after the day the decision has been mailed to the person under subsection 303(5).
+[…]
+(5) When application to be granted - No application shall be granted under this section unless
+(a) the application was made under subsection 303(1) within one year after the expiration of the time otherwise limited by this Part for objecting or making a request under subsection 274(6), as the case may be; and
+(b) the person demonstrates that
+(i) within the time otherwise limited by this Act for objecting,
+(A) the person was unable to act or to give a mandate to act in the person’s name, or
+(B) the person had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made under subsection 303(1) as soon as circumstances permitted it to be made.
+301. (1.1) Objection to assessment - Any person who has been assessed and who objects to the assessment may, within ninety days after the day notice of the assessment is sent to the person, file with the Minister a notice of objection in the prescribed form and manner setting out the reasons for the objection and all relevant facts.
+Chronology of events
+[4] A chronology of some of the relevant events is set out below.
+(a) July 11 and August 12, 2008 – The Canada Revenue Agency (CRA) informs Mr. Chomatas in two letters that he may be liable for unpaid GST/HST of 1243174 Ontario Inc. pursuant to the directors’ liability provisions in section 323 of the Act. Each letter provides that Mr. Chomatas has 30 days to respond in writing. Mr. Chomatas acknowledges receiving the second letter but not the first.
+(b) Date unknown – Mr. Chomatas telephones the CRA in response to the second letter and states that he is not liable because he was not a director of the corporation.
+(c) September 26, 2008 – A notice of assessment is sent by registered mail to Mr. Chomatas. Mr. Chomatas states that he does not recall receiving this document.
+(d) April 21, 2010 – The CRA informs Mr. Chomatas that a certificate for the tax debt was registered in the Federal Court and that a lien was registered on property that he had an interest in.
+(e) January 28, 2013 – Mr. Chomatas applies for an extension of time to serve a notice of objection.
+(f) May 28, 2013 – The CRA informs Mr. Chomatas that the extension will not be granted because the application was not made by the deadline on December 25, 2009.
+(g) June 24, 2013 – Mr. Chomatas applies for an extension of time to this Court.
+Discussion
+[5] The Crown’s primary argument is that Mr. Chomatas failed to apply to the Minister for an extension of time by the statutory deadline, which in this case is December 25, 2009. I would agree with this argument, and therefore it is not necessary to consider the Crown’s alternative argument.
+[6] The relevant provisions of the Act impose a strict deadline for applications to extend time to serve a notice of objection. The period runs for one year and ninety days from the notice of assessment.
+[7] The time period starts to run from the time that the notice of assessment is sent. As strange as it may seem, receipt of the notice is not necessary and it is possible that the right to object could expire without a taxpayer even knowing about the assessment. The leading case on this point is The Queen v Schafer, 2000 DTC 6542 (FCA), in which Sharlow J.A. states:
+[24] The statutory provisions for assessments, objections and appeals are intended to provide clear rules for determining when the Minister's obligation to make an assessment is fulfilled, and to provide procedures by which taxpayers may challenge assessments that may be mistaken. Parliament has chosen to adopt a rule that makes no allowance for the possibility, however remote, that the taxpayer may miss the deadline for objecting or appealing because of a failure of the postal system. I do not understand why Parliament has chosen to deprive taxpayers of the chance to challenge an assessment of which they are unaware, but that is a choice that Parliament is entitled to make.
+[8] In this case, Mr. Chomatas sent an application to the Minister on January 28, 2013. This is several years after the time period expired on December 25, 2009.
+[9] Mr. Chomatas submits that he had good reasons for not making the application until January 28, 2013. He states that he does not remember receiving the notice of assessment, that the CRA did not inform him of his rights to object, and that he was not aware of the debt until the deadline had passed. Further, the agent for Mr. Chomatas submits that the actions of the CRA led him to believe that the CRA decided not to issue the assessment.
+[10] Even if this is true, it does not assist Mr. Chomatas. As confirmed by the Federal Court of Appeal in Schafer, Parliament has provided for a strict deadline which Courts cannot ignore even if the result is unfair. In addition, it is well established that incorrect information provided by the CRA is not grounds for overlooking clear statutory provisions. Errors on the part of the CRA may lead to other types of relief, but it does not enable this Court to overlook the requirement in s. 304(5)(a) of the Act.
+[11] Accordingly, an order extending the time cannot be granted even if Mr. Chomatas did not receive the notice of assessment and did not receive other information regarding the debt within the deadline.
+[12] A second argument was raised by the agent for Mr. Chomatas at the hearing. He submits that the notice of assessment is deficient because it refers to the account number of the corporation rather than an account for Mr. Chomatas.
+[13] This issue should have been raised in the application so that the Crown could have had an opportunity to fully consider a response.
+[14] In any event, I do not accept that the reference to the corporation’s account number is a deficiency in a director’s liability assessment. Even if it is considered to be an error, the error in this case is not misleading and it is not material. It does not invalidate the notice of assessment.
+[15] The agent for Mr. Chomatas also suggested at the hearing that the Court consider other types of relief in addition to an extension of time (Written argument, “The Submission”). I am not aware of any other type of relief that this Court could give and none was suggested.
+[16] The circumstances of this case appear to be sympathetic. No doubt Mr. Chomatas was in unfamiliar territory dealing with GST legislation and he found himself caught by an unforgiving deadline. However, for the reasons above the application must be dismissed.
+[17] Before concluding, I wish to comment on a point that was discussed at the hearing. Although the Crown led evidence to establish that the notice of assessment was sent by registered mail, counsel submitted that this evidence was not necessary because Mr. Chomatas had not raised it as an issue. I note that the material submitted by Mr. Chomatas appears to accept that the notice of assessment was sent and so this issue does not arise in this case.
+[18] Accordingly, it is not necessary for me to wade into this issue in this case. I would note, however, that the only authority that the Crown relied on was one of my own decisions: Austin v The Queen, 2010 TCC 452. It may be useful to also refer to the decision of Hugessen J.A. in Aztec Industries Inc v The Queen, 95 DTC 5235 (FCA), at 5237:
+Where as in the present case, a taxpayer alleges not only that he has not received the notice of assessment but that no such notice was ever issued, the burden of proving the existence of the notice and the date of its mailing must necessarily fall on the Minister; the facts are peculiarly within his knowledge and he alone controls the means of adducing evidence of them. A number of statutory provisions recognize the Minister's burden in this respect and are clearly designed to alleviate it. (Emphasis added.)
+[19] As mentioned above, the application will be dismissed. Each party shall bear their own costs.
+These Amended Reasons for Order are issued in substitution of the Reasons for Order dated October 7, 2013.
+Signed at Toronto, Ontario this 18th day of October 2013.
+“J. M. Woods”
+Woods J.
+CITATION: 2013 TCC 319
+COURT FILE NO.: 2013-2562(GST)APP
+STYLE OF CAUSE: IOANNIS CHOMATAS and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 3, 2013
+AMENDED REASONS FOR
+ORDER BY: The Honourable Justice J.M. Woods
+DATE OF ORDER: October 7, 2013
+APPEARANCES:
+Agent for the Applicant:
+Maudood Sheikh
+Counsel for the Respondent:
+Darren Prevost
+COUNSEL OF RECORD:
+For the Applicant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

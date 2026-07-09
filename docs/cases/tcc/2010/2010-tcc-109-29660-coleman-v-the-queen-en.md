@@ -1,0 +1,450 @@
+---
+title: "Coleman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29660/index.do"
+last_modified: "2010-02-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 109"
+citation2: ""
+neutral_citation: "2010 TCC 109"
+decision_date: "2010-02-24"
+language: "en"
+item_id: "29660"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6228
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:37:20.164000+00:00"
+cases_cited_count: 0
+cases_citing_count: 7
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cd4345a24932009824a674e972ee0603523bb846c42360c686528b1c1390f1a3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Coleman v. The Queen
+
+- Citation: 2010 TCC 109
+- Decision date: 2010-02-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6228, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Coleman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-02-24
+Neutral citation
+2010 TCC 109
+File numbers
+2007-4657(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4657(IT)G, 2007-4659(IT)G
+2007-4673(IT)G, 2007-4684(IT)G
+2007-4672(IT)G, 2007-4677(IT)G
+BETWEEN:
+RICHARD WAYNE COLEMAN,
+TITAN CONSTRUCTION CONTRACTORS LTD.,
+GERALD BALLARD, DAVID W. HARDER,
+IRIS HIEBERT, MONICA NEVILLE
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence on
+January 25, 26, 27 and 28, 2010, at Vancouver, British Columbia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellants:
+Blake Bromley, Kim Hansen
+Counsel for the Respondent:
+Lynn M. Burch, Christa Akey
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2002 and 2003 taxation years are dismissed with one set of costs.
+Signed at Ottawa, Canada, this 24th day of February, 2010.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2010 TCC 109
+Date:20100224
+Docket: 2007-4657(IT)G, 2007-4659(IT)G
+2007-4673(IT)G, 2007-4684(IT)G
+2007-4672(IT)G, 2007-4677(IT)G
+BETWEEN:
+RICHARD WAYNE COLEMAN,
+TITAN CONSTRUCTION CONTRACTORS LTD.,
+GERALD BALLARD, DAVID W. HARDER,
+IRIS HIEBERT, MONICA NEVILLE
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] According to the Appellants’ counsel, the future of charitable giving in this country rests upon my shoulders. The Respondent’s counsel attempted to alleviate that weighty burden by suggesting this case was no different from any other: I apply well established law to the particular facts and out will pop the answer. Nothing is that simple. This case explores the very nature of charitable giving.
+[2] These appeals were heard on common evidence as they all involve the question of the nature of monies provided to the National Foundation for Christian Leadership ("NFCL"). The Appellants’ position is that monies were donated to this registered charity, which should result in a successful claim for a charitable donation deduction pursuant to section 118.1 of the Income Tax Act (the "Act"). The Minister of National Revenue’s (the "Minister") position is that the monies were not a gift to the charity, as they were paid with an expectation of return.
+Facts
+[3] I will first describe the program offered by NFCL before looking into each of the Appellant’s particular circumstances. The parties agreed to a number of facts regarding NFCL and the nature of the program – Christian Higher Education Assistance Fund ("CHEAF") – offered by it. While somewhat lengthy, these agreed facts do set the stage for reviewing the testimony of Mr. Forrester, a former director of NFCL, as well as of the Appellants themselves. I have done some editing of the agreed facts by deleting what I consider redundant or irrelevant statements.
+1. At all times material to these appeals, the National Foundation for Christian Leadership ("NFCL") was registered with the Canada Revenue Agency (the "CRA") as it is now, as a charitable organization.
+2. In the 2002 year NFCL provided financial assistance in the form of bursaries, scholarships and Foundation Awards to qualified students at certain Canadian Christian colleges and universities, to help them advance their education in Christian academic environment.
+3. TWU West University ("TWU") was one such university. Other such schools (the "Other Schools") were ACTS Seminaries, Briercrest Bible College, Briercrest Biblical Seminary, and Columbia Bible College.
+4. During 2002, NFCL solicited donations, encouraged students to solicit donations to NFCL[1] and provided bursaries, scholarships and Foundation Awards to students at TWU pursuant to a program referred to as the Christian Higher Education Assistance Fund ("CHEAF").
+5. During 2002, NFCL solicited donations, encouraged students to solicit donations to NFCL, and provided bursaries, scholarships and foundation awards to students at the Other Schools pursuant to a program referred to as the Partners in Education ("PIE"). The PIE program and the CHEAF Program appear to be substantially the same.
+6. NFCL designated 80% of funds received through donations to be awarded as bursaries with the remaining 20% going to scholarships, Foundation Awards and NFCL's program and administrative costs.
+7. In order to then be eligible to apply for a bursary and scholarship under the CHEAF Program students at TWU had to:
+a) apply to NFCL using the application form attached to the CHEAF pamphlet;
+b) pay a fee to NFCL of $25 for each semester;
+c) be pre-registered at TWU to take at least 9 semester hours of courses;
+d) have a cumulative grade point average (GPA) of at least 2.0 (65%); and
+e) according to one of the CHEAF application pamphlets, be in need of or be currently receiving financial assistance.
+8. NFCL, calculated each student's eligible amount (the "Maximum Eligible Amount") as the total of a student's tuition and other miscellaneous fees, book costs, and allowable housing costs less any scholarships, bursaries or grants received by the student from other sources.
+9. Once accepted in the CHEAF Program by meeting the criteria outlined above, in order to qualify to receive a bursary or scholarship from NFCL under the CHEAF Program students were required to raise donations for NFCL. Donations were to be collected by the soliciting student and then sent to the NFCL office.
+10. These donations were pooled by NFCL and used to fund individual bursaries, scholarships and foundation awards to qualifying students accepted into the CHEAF Program at TWU and the PIE program at other Christian colleges and universities.
+11. NFCL stipulated in writing to both students and prospective donors that donations were not to be designated to any specific individual. Their literature represented that no particular donation could be directly tied or designated to any particular student, but instead that all donations went into a common pool of funds out of which awards were made to all qualifying students.
+12. Students applying to the CHEAF Program were encouraged to solicit donations to NFCL from anyone, including their families, friends, relatives, churches, organizations and businesses or any other supportive person. Individuals, corporations, foundations, institutions and churches could all donate to NFCL.
+13. According to the CHEAF Program, students who met the requirements set out above were eligible to receive a bursary calculated by reference to 80% of the lesser of the amount of donations raised by that student and the student's Maximum Eligible Amount.
+14. Although a student had to have a GPA over 2.0 or 63% to qualify for a bursary their GPA did not factor into the amount of the bursary they received.
+15. Students who met the requirements of the CHEAF Program set out above were also eligible to receive a scholarship calculated by reference to 10‑20% of the lesser of the amount of donations raised by that student and the student's Maximum Eligible Amount, if that student:
+a) maintained a cumulative GPA of at least 2.5% (69%); and
+b) raised a minimum of at least $1,000 in donations to NFCL from at least 5 different donors.
+16. The formula utilized by NFCL to calculate a student's entitlement for a scholarship takes into account both the student's GPA and the value of donations solicited by that student.
+17. Mr. John Martens was the principal of NHII, a company that administered the CHEAF Program for NFCL under contract. In representations made to the Minister while NFCL was under audit with respect to the CHEAF Program, Mr. Martens stated that NFCL regarded itself as having the discretion to award whatever amounts they saw fit to any individual they deemed worthy.
+18. NFCL represented to the Minister that it used the following factors in the determination of the bursaries:
+a) the number of semester hours a student was taking;
+b) the amount of funds a student raised;
+c) the amount of tuition fees the student would he paying;
+d) the living costs incurred by the student;
+e) the amount of miscellaneous fees associated with the various courses the student was taking;
+f) the amount of bursaries, scholarships and grants the student was receiving from other sources;
+g) the accumulative GPA of the student;
+h) funds that NFCL may hold back from previous semesters and assign to that semester;
+i) any other adjustments that NFCL deems as applicable; and
+j) the cost of books associated with the courses the student was taking.
+19. NFCL represented to the Minister that it used the following factors in the determination of the scholarships in addition to the ten factors for the bursaries listed above:
+a) that no student exceed the maximum scholarship allowed by the program;
+b) the GPAQ — is a Grade point average quotient and is an arbitrary number inserted into the formula that reflects to some degree the average GPA of all participating students as well providing a variable that allows the program to generate sufficient funds to maintain the Foundation Award Program;
+c) the FRQ (Funds Raised Quotient) is a variable that is put into the formula that reflects to some degree the average funds raised by all the participating students. Like the GPAQ the FRQ provides a variable that is also used to insure the Foundation Award Program has sufficient funds;
+d) another variable that has been put into the program is determined by the program (PIE or CHEAF) that the student is participating in; and
+e) the number of donors that a student raises funds from.
+20. Students must apply for Foundation Awards in a separate application form and are not subject to the same requirements as participants in the CHEAF Program.
+21. Students were eligible to apply for Foundation Awards if they:
+a) were registered with the CHEAF Program;
+b) made some effort to raise funds for NFCL;
+c) had shown some leadership ability; and,
+d) had financial need;
+e) were approved by the TWU financial awards office; and
+f) had missionary or parachurch parents or who were new Christians whose background did not lend itself to raising donations for Christian education.
+22. The maximum bursary and scholarship an applicant student could receive was based on his or her Maximum Eligible Amount.
+23. Students and donors were advised that funds raised in excess of the students Maximum Eligible Amount would be available for distribution to other TWU students with financial need.
+24. NFCL represented in its pamphlets that if a student raised 125% of their Maximum Eligible Amount there would likely be enough funds available in the CHEAF Program for the student to receive bursaries and scholarships equal to the full amount of their financial needs.
+25. NFCL informed students by letter, also copied to the student's parents, unless the student requested otherwise, how much funding they would need to cover the tuition and living costs of each semester. This letter also informed students and parents how much they would need to raise in donations to NFCL in order to be eligible to receive the maximum bursary and scholarship which would never exceed 100% of their Maximum Eligible Amount.
+26. This letter also stated that:
+a) if they dropped below 9 semester hours, their bursary and scholarship would be returned to NFCL;
+b) they needed to report any bursaries, scholarships or grants the student would be getting from other sources because it would affect his or her eligibility and that if these awards were not reported that bursaries and scholarships in excess of the student's eligibility had to be returned to the NFCL office; and
+c) if credit hours were changed, the funds raised for the dropped credit hours would be carried forward to a subsequent semester, but could not be carried forward into the next school year.
+27. Some NFCL material described the CHEAF Program to students planning to attend TWU as making a significant difference to persons financially supporting them as donors because they would receive tax deductible charitable donation receipts and tax credits of up to 40 to 45% of the amounts donated to NFCL.
+28. To qualify a student for bursaries or scholarships in a particular semester, donations he or she had solicited pursuant to the CHEAF Program were required to be received by NFCL according to strict deadlines which dates correspond to the deadlines for the payments of tuition and other school fees. Generally, those deadlines were sometime in the first week of August for the fall semester, the first week of December for the spring semester and the first week of April for the summer semester. Any donations received after the specified deadlines for the fall semester could be applied to the spring semester, but could not be carried forward to a subsequent school year.
+29. NFCL provided students with helpful hints to use in sending letters to prospective donors. Students were prompted to stress their own "need" or if they had difficulty in asking for money for themselves, to emphasize they were raising money for others in need. They are also prompted to thank donors and to send them a note or phone them to let them know "how you are doing throughout the year."
+30. A fundraising ideas sheet provided to students by NFCL also advised student canvassers:
+a) that God does not want to see students graduate with huge burdensome student loans;
+b) to personalize their letters and reflect their relationship with the person they are writing to;
+c) one of the main reasons that people give to any cause is because they believe in the person who is asking for the donation;
+d) their solicitation letter should answer the question "why should I give to NFCL";
+e) to not change the message that "ALL GIFTS BY LAW MUST BE UNDESIGNATED";
+f) their own name "MUST NOT" be anywhere on the cheque or it would be returned;
+g) to put their name, school and school I.D. number on the donor form ahead of time; and
+h) if the student had a key supporter to consider asking them to send the student's canvassing letter to others who might he interested in helping to support this project, or alternatively to ask them if they know of someone who believes in the school and would not mind getting a similar letter.
+31. In the fundraising letter template for the CHEAF Program, students were presented with some guidance on what to say in their letters to prospective donors. One of the suggested paragraphs states: "In order to be eligible for a charitable donation receipt, gifts to NFCL cannot be designated to any one individual. All donations go into a general fund and are distributed to students such as myself based on my acceptance into the program, my accumulative grade point average, my needs and also the amount of donations I raise for NFCL".
+32. Payments to NFCL in respect of the CHEAF Program had to be accompanied by the forms completed by the donor, which forms indicated the name of the soliciting student, his or her student number and the name of the school.
+33. Prospective donors and students were specifically and repeatedly advised in NFCL literature:
+a) not to designate their donation cheques to any particular student and further, that any cheques referencing a specific student would be sent back to them;
+b) that NFCL would only accept donations that were completely unrestricted and undesignated;
+c) that once deposited all donations were non refundable;
+d) any changes the student made to information relevant to their Maximum Eligible Amount would affect the amount of the award he or she might receive;
+e) if the student dropped below 9 semester hours her or she would not be eligible for any NFCL award and would be required to return all funds received;
+f) if he or she maintained full time status but dropped credit hours or made changes to living accommodation, any excess funds received must be returned to NFCL; and
+g) students would receive a T4A slip for the amount of their bursary and scholarship paid to them under the CHEAF Program.
+34. Students were advised to collect all their donation cheques and accompanying forms and submit them to NFCL.
+35. NFCL literature contained a warning that the CRA may not consider donations to NFCL as deductible and states that NFCL does not represent or warrant that any donation to it is tax deductible.
+[4] The timing of the steps in the CHEAF program is critical in understanding how it functioned. Students and parents received materials from NFCL which set out the eligibility requirements (see # 7 of the above agreed facts) and also indicated that each student accepted into the program will receive a bursary of 80% of monies raised by the student, and a further 10 to 20% for those with a Grade point average ("GPA") of 2.5, who raised a minimum of $1,000.00 and had at least five donors. Students who meet those eligibility requirements apply to NFCL for funding. They and their parents then receive an acceptance letter from NFCL confirming acceptance in the CHEAF program, and also setting out the maximum amount the student will be eligible for, indicating the amount the student needs to raise to cover his or her full eligibility. At this point, (August for the fall semester and December for the winter semester) "donors" write a cheque and submit it, along with the donor form identifying the student, to NFCL. NFCL then writes a cheque to the student and Trinity West University ("TWU"), jointly, which the student signs over to TWU for deposit in a student account at TWU.
+[5] Much was made of the funding of the Foundation Awards. I find, however, this was a very small element of the NFCL work: the vast majority went to bursaries and scholarships. The $500 to $1,000 foundation awards for the more needy were very limited. The funding for those awards came mainly from funds earmarked for administration costs (five percent), but not needed, unsolicited donations (which were a few) and any excess funding raised by students but not used.
+[6] Three times a year, corresponding with the University semester start dates, the NFCL Board would meet to review the recommendations of Mr. Martens’, the administrator of the CHEAF program, regarding bursary, scholarship and Foundation Awards and consider any special cases or appeals brought forward by Mr. Martens or NFCL student applicants. The Board reviewed the list of recipients though were not made aware of the names of the donors connected to the recipients. There were a few adjustments by the NFCL Board to amounts paid to students. Mr. Martens handled all but some special cases himself. There were though some adjustments that were brought to my attention:
+i) if a student subsequently received another scholarship, bursary or loan, that would result in the reduction of the amount of NFCL funding for which the student was eligible;
+ii) if the student’s eligible expenses changed, for example, because the student moved home from residence or he or she had reduced the course load resulting in a reduction to course fees, again there would be an adjustment; and
+iii) if the student, for health reasons, had to withdraw, NFCL would be refunded funds, without any corresponding refund to the student.
+[7] If a student ended the fall semester with a GPA below 2.5 for the purpose of the scholarship or below 2.0 for the purposes of the bursary, the student would not have to pay back amounts they had already received for the fall semester through the program. However, they may not be eligible for their scholarship in the spring semester in the first case or for their bursary in the second case. The NFCL Board was relatively strict in the application of its policies. Mr. Forrester cited the example of a student with a 1.99 GPA not being successful on his application to the program.
+[8] All of the students receiving NFCL awards received T4A forms from NFCL requiring them to include the bursaries and scholarships they received in income. The Minister has not reassessed any of the student recipients of NFCL awards named in these appeals to remove the amounts of the awards from their income.
+Richard Coleman
+[9] With respect to Mr. Coleman and Titan Construction Contractors Ltd. ("Titan"), the parties agreed as follows:
+43. Richard Wayne Coleman ("Mr. Coleman") is the father of Josh Coleman ("Josh").
+44. Josh was born on April 16, 1983. Josh became 19 years old on April 16, 2002.
+45. Mr. Coleman is the owner of 51% of the shares of Titan Holdings Ltd.
+46. Titan Holdings Ltd. is the sole shareholder of Titan Construction Co. Ltd. ("Titan").
+47. Mr. Coleman is a director of Titan and Titan Holdings Ltd.
+48. Carla Ohman is the daughter of Mr. Coleman's cousin.
+49. In 2002 Josh and Carla Ohman were students at TWU and applied to participate in the CHEAF Program.
+50. In 2002 Josh and Carla Ohman solicited donations to NFCL in accordance with the CHEAF Program.
+51. In 2002 Mr. Coleman caused Titan to donate the following amounts to NFCL:
+a) a $2,500 donation on July 29, 2002 solicited by Carla Ohman;
+b) a $7,000 donation on July 30, 2002 solicited by Josh; and
+c) a $7,000 donation on November 28, 2002 solicited by Josh.
+52. Titan received a donation receipt from NFCL dated January 15, 2003 for the total of the above three payments in the amount of S16,500. This total was included in Titan's 2002 claim for charitable donations.
+53. The Minister disallowed Titan's claim of $7,000 of the $16,500 claimed. The remaining $9,500 was not reassessed as it pertained to Titan's 2002 taxation year ended July 31, 2002, which year was statute-barred at the time of the reassessment.
+54. The Minister included the $16,500 in Mr. Coleman's income.
+55. From June to October 2002, Josh successfully canvassed $7,250 in donations to NFCL and from November to December 2002, Josh successfully canvassed $7,000 in donations to NFCL for total donations of $14,250.
+[10] I did not find Mr. Coleman to be particularly forthcoming; for example, when asked if his son Josh, who was a student enrolled at TWU in 2002, was financially dependent on him, he said no, though later in his evidence described how he not only helped with Josh’s rent, but paid him a regular $600 a month allowance. Mr. Coleman was adamant that the money paid by Titan was a donation to NFCL, yet in cross-examination he denied even having reviewed any materials from NFCL: how did he know what the money was for, other than for Josh attending TWU? No, I do not put much stock in Mr. Coleman’s answers. I am guided more by his actions.
+[11] While Mr. Coleman indicated he felt no obligation to support Josh, it was evident that he did support him by providing the allowance, making occasional payments to TWU and also making payments for registration fees, books, rent for the "Soccer House" where Josh lived. He acknowledged Josh needed assistance and he could not leave Josh destitute. It was Josh’s decision to go to TWU where he played for the Varsity soccer team. Mr. Coleman was clearly pleased with Josh’s choice of TWU as it was both a Christian based institution and had a good soccer team.
+[12] Mr. Coleman, while suggesting he had not reviewed NFCL’s materials, testified that he was aware it was a charity supporting Christian education. He knew nothing about the CHEAF program, though admitted that by making a donation, there was a possibility Josh could qualify for a bursary: he hoped Josh would qualify, but there was no guarantee. He said he was never told what happened to Titan’s donation. He further understood that he was not to put Josh’s name on the cheque from Titan, as he understood this was to be a general donation, not a specific student directed donation. He could not recall why Titan wrote separate cheques, rather than one donation cheque. He also could not recall why Titan, and not he personally, made the donation.
+[13] Mr. Coleman was reassessed by the Minister pursuant to subsection 246(1) of the Act to include in his income for 2002 the amounts of the donations from Titan to NFCL as benefits conferred on him by Titan. By letter dated April 1, 2009, pages 9 and 10, counsel for the Respondent advised that:
+Mr. Coleman was not assessed a shareholder’s benefit under Section 15. He is not a (direct) shareholder of Titan.
+Accordingly, subsection 246(1) which deals with any benefit conferred upon a taxpayer by any person was applied to assess the benefit received by Mr. Coleman from Titan.
+It is the view of the Canada Revenue Agency (the "CRA") that subsection 15(1) of the Act is not the appropriate provision to assess Mr. Coleman for the benefit he received for the payment (Titan) made to NFCL. Subsection 15(1) requires that the person assessed be a shareholder of the corporation. Mr. Coleman does not own any shares of Titan.
+David Harder
+[14] The parties agreed as follows:
+69. David W. Harder ("Mr. Harder") is the father of Breanne Harder ("Breanne") and Jaclyn Widenmaier, nee Harder ("Jaclyn")
+70. Breanne was born on February 5. 1983 and Jaclyn was born on June 4, 1984. Breanne became 19 years old on February 5, 2002 and Jaclyn became 18 years old on June 4, 2002.
+71. In 2002 Breanne and Jaclyn were both students at TWU and applied to participate in the CHEAF Program.
+72. By letter dated May 6, 2002, Breanne was accepted into CHEAF for the fall semester and was advised that she needed to raise approximately $10,900 in donations if she wished to cover her full eligibility of $10,175.
+73. By letter dated September 1, 2002, Breanne was advised that she had qualified for a CHEAF award of $10,175 which was deposited into her account at TWU.
+74. By letter dated September 1, 2002 Jaclyn was advised that she had qualified for a CHEAF award of $9,795 which was deposited into her account at TWU.
+75. By letter dated October 23, 2002, Breanne was advised that she was accepted into the CHEAF for the Spring 2003 semester and that she needed to raise approximately $11,300 if she wished to cover her full eligibility of $10,450.
+76. By letter dated November 6, 2002, Jaclyn was advised that she was accepted into the CHEAF for the Spring 2003 semester and that she needed to raise approximately $10,700 if she wished to cover her full eligibility of $10,078.
+77. By letter dated January 4, 2003 (misdated January 4, 2002), Jaclyn was advised that she qualified for a CHEAF bursary/scholarship in the amount of $10,038 which amount was deposited into her student account at TWU.
+78. By letter dated January 4, 2003 (misdated January 4, 2002), Breanne was advised that she qualified for a CHEAF bursary/scholarship in the amount of $10,077 which amount was deposited into her student account at TWU.
+79. In 2002 Breanne and Jaclyn solicited donations to NFCL in accordance with the CHEAF Program.
+80. In 2002 Mr. Harder donated the following amounts to NFCL which were solicited by Breanne:
+a) a $10,600 donation on August 1, 2002; and
+b) a $10,650 donation on December 1, 2002.
+81. In 2002 Mr. Harder donated the following amounts to NFCL which were solicited by Jaclyn:
+a) a $10,000 donation on August 1, 2002; and
+b) a $10,550 donation on December 1, 2002.
+82. Mr. Harder also donated the following amounts to NFCL:
+a) $100 on July 17, 2002 which was solicited by James Wegenast, who was also a TWU student;
+b) $100 on July 17, 2002 which was solicited by Daniel Wagner, who was also a TWU student;
+c) $50 each on July 17, 2002 which was solicited by Jeff Thiessen, who was also a TWU student;
+d) $50 on July 17, 2002 which was solicited by Greg Thiessen who was a student at Columbia Bible College,
+e) $100 on July 17, 2002 which was solicited by Alyssa Froese who was a student at Briercrest Bible School; and
+f) a general donation of $200 on March 4, 2002 to NFCL.
+83. These donations from Mr. Harder referenced James Wegenast, Daniel Wagner, Jeff Thiessen, Greg Thiessen and Alyssa Froese to assist them to obtain donations from at least 5 donors in order to qualify for a scholarship in accordance with the terms of the CHEAF Program and the PIE program.
+84. On various dates between July 15 and 23, 2002:
+a) a parent of each of James Wegenast, Daniel Wagner, Alyssa Froese and Jeff Thiessen each severally donated $50 to NFLC which was solicited by Breanne and another $50 each which was solicited by Jaclyn.
+85. These donations from the parents of James Wegenast, Daniel Wagner, Jeff Thiessen, Greg Thiessen and Alyssa Froese referenced Breanne and Jaclyn to assist them to obtain donations from at least 5 donors in order to qualify for a scholarship in accordance with the terms of the CHEAF Program.
+86. Mr. Harder received donation receipts from NFCL dated January 15, 2003 for the total of all the above payments in the amount of $42,400. This total was included in Mr. Harder's 2002 claim for charitable donations.
+87. Of the $42,400 claimed in respect of donations to NFCL, the Minister allowed only $200 respecting the $200 general donation to NFCL.
+88. From June to October 2002, Breanne solicited $10,900 in donations to NFCL and from November to December 2002, she solicited $10,700 in donations to NFCL for total donations of $21,600.
+89. From June to October 2002, Jaclyn solicited $10,300 in donations to NFCL and from November to December 2002, she solicited $10,600 in payments to NFCL for total donations of $20,900.
+90. In his tax return for 2002, Mr. Harder reported total income of $364,534. Mr. Harder reported that his spouse Marianne earned net income of $28,387 in that year.
+[15] Both Mr. Harder and his wife went to TWU and encouraged their daughters to do likewise. Indeed, Mr. Harder has endowed a scholarship to TWU, the Missionary Kids Scholarship. He testified that he attempted to donate generally 10% of his income each year to charities.
+[16] Mr. Harder felt no obligation to pay for his daughters’ secondary education and expected them to contribute what they could, but did want them to come out of their degree without debt, so was prepared to help if needed. Mr. Harder believes TWU was more expensive to attend as it did not receive similar funding as the University of British Columbia or Simon Fraser for example. He was aware of the NFCL program, either directly or from his daughters, and appreciated that students needed to fundraise. He presumed the funds raised went to scholarships for eligible students, and felt that by supporting NFCL he was supporting students at TWU. He had not reviewed NFCL’s brochures, as he was not familiar with CHEAF or the statement in NFCL’s brochure that students would get 80% of the funds raised, up to the eligible amount. He did know of his first daughter’s successful NFCL funding in 2001, however, prior to making the 2002 donations for both daughters. He was also aware of the five-donor requirement for eligibility for scholarships and acknowledged the parents would make cross-contributions to assist each others’ children meet that requirement. Indeed, he made five donations in smaller amounts for others.
+[17] What was most telling from Mr. Harder’s evidence, was his reliance on the acceptance letter his daughter received from NFCL, which indicated how much he needed to raise to meet her financial requirements. He acknowledged that he wrote a cheque for $10,000 after considering the amount suggested in that acceptance letter. The letter of May 6, 2002, from NFCL to Breanne Harder read in part as follows:
+This letter confirms that you have been accepted into the CHEAF program for the fall semester. TWU has confirmed that you will be taking 17 credit hours. Based on the following information, the maximum amount you will be eligible to receive for the fall 2002 semester is $10,175.
+P.S. If you wish to cover your full eligibility, you will need to raise $10,900.
+[18] Mr. Harder claimed he donated a greater amount on the request of his daughter than the five others, as he is inclined to support fundraising of those closest to him, and that he knew the level of fundraising was a factor in the level of scholarship. I should note that Mr. Harder seemed to draw a distinction between scholarship and bursary. Mr. Harder stated he did not pay much attention to the details of the program, though likely saw the brochure which stated qualifying students will receive 80% of funds raised. He was certainly aware in 2002 of his daughter’s receipt of the bursary the previous year. As he said, he hoped the program would continue to work well.
+[19] Mr. Harder explained he could have donated directly to TWU, but that may have gone to bricks and mortar, and he was more interested in donating to help students, which is what a donation to NFCL accomplished. According to Mr. Harder, his wife was not as enthusiastic about the donation, as they may still have to come up with more money for their daughter’s education.
+Gerald Ballard
+[20] The parties agreed as follows:
+59. Gerald Ballard ("Mr. Ballard") is the grandfather of Paul Ballard ("Paul").
+60. Paul was born on August 20, 1982. Paul became 20 years old on August 20, 2002.
+61. In 2002 Paul was a student at TWU and applied to participate in the CHEAF Program.
+62. In 2002 Paul solicited donations to NFCL in accordance with the CHEAF Program.
+63. In 2002 Mr. Ballard donated the following amounts to NFCL:
+a) a general donation of $50.00 on May 9, 2002, to which the accompanying donation form stated was to “help students in need”;
+b) a $500 donation on July 13, 2002 solicited by Kristin Ball ("Kristin"), the daughter of a family friend; and
+c) a $3,400 donation on July 20, 2002 solicited by Paul.
+64. By cheque dated July 20, 2002 Kristin Ball's grandfather William Ball made a $500 donation to NFCL solicited by Paul.
+65. Mr. Ballard's $500 donation to NFCL referenced Kristin and William Ball's $500 donation to NFCL referenced Paul to assist Paul and Kristin to obtain donations from at least 5 donors in order to qualify for a scholarship in accordance with the terms of the CHEAF Program.
+66. Mr. Ballard received a donation receipt from NFCL dated January 14, 2003 for the total of the above three donations in the amount of $3,950. This total was included in Mr. Ballard's 2002 claim for charitable donations.
+67. Of the $3,950 claimed in respect of donations to NFCL, the Minister allowed only $50 respecting the general donation to NFCL on May 9, 2002.
+68. From June to October 2002, Paul solicited $4,000 in payments to NFCL and from November to December 2002, Paul solicited $4,500 in payments to NFCL for total payments of $8,500
+[21] Mr. Ballard came into Court like a breath of fresh of air. Mr. Ballard had been giving to Christian Education for many years and tried to give about 30% of his income annually to charities. He was clearly delighted that his grandson had chosen to go to TWU, as had Paul’s father, Mr. Ballard’s son.
+[22] After being approached by Paul, Mr. Ballard contacted NFCL for more information. From a review of their brochures and from conversation with Ms. Martens at NFCL, he determined a donation to NFCL would not be to any individual student, who would only receive funds at NFCL’s discretion, if the requirements were met. He acknowledged that he knew Paul would get something in 2002 – likely around 80% of his financial needs as that is how the program worked, though he never knew for certain that Paul actually got the bursary. He was aware though that Paul did get funding in his first year and believed he had the necessary grades to qualify in 2002. He determined the amount of $3,400 based on advice by Ms. Martens as to what Paul needed. He understood that NFCL needed to keep track of each student’s fundraising as it would impact on their level of bursary. He felt no obligation to support Paul.
+[23] Mr. Ballard testified it was crystal clear to him that once he wrote the cheque to NFCL it was out of his hands: he was not giving the money to Paul at all, though he wanted Paul to benefit. If Paul did not get the bursary, Mr. Ballard was still happy to support TWU, though he acknowledged he did want Paul to benefit.
+[24] Mr. Ballard relied on NFCL to properly implement the program, which would result in a tax receipt. Due to the connection with TWU, in whom Mr. Ballard had a great deal of trust, he felt no need to investigate the program further. He likened the NFCL program to something with which he had more familiarity – Christian Camps. Kids are asked to raise money for the camp and if enough is raised, the child’s camp costs may be covered.
+Iris Hiebert
+[25] The parties agreed as follows:
+91. Iris Hiebert ("Ms. Hiebert") is the mother of Angela Hiebert ("Angela").
+92. Angela was born on March 13, 1984. Angela became 18 years old on March 13, 2002.
+93. In 2002 Angela was a student at TWU and applied to participate in the CHEAF Program.
+94. Ms. Hiebert was provided with NFCL pamphlets and other materials.
+95. In 2002 Angela solicited donations to NFCL in accordance with the CHEAF Program.
+96. Angela graduated from secondary school with an average of 77.8% (total marks of 142 divided by number of courses (18) = 77.888).
+97. In 2002 Ms. Hiebert and her spouse, Gerald, donated the following amounts to NFCL which were solicited by Angela:
+a) a $6,100 donation on July 22, 2002; and
+b) an $8,700 donation on December 1, 2002.
+98. Ms. Hiebert and her spouse also donated the following amounts to NFCL:
+a) $100 on July 8, 2002 which was solicited by Janelle Baerg, who was also a TWU student; and
+b) $25 on July 29, 2002 which was solicited by Cheryl Doerksen, who was also a TWU student.
+99. This donation from Ms. Hiebert and her spouse referenced Janelle Berg and Cheryl Doerksen to assist them to obtain donations from at least 5 donors in order to qualify for a scholarship in accordance with the terms of the CHEAF Program
+100. On July 19, 2002 Albert and Marilyn Baerg, relatives of Janelle, donated $100 to NFCL which was solicited by Angela.
+101. This donation from Albert and Marilyn Baerg referenced Angela to assist her to obtain donations from at least 5 donors in order to qualify for a scholarship in accordance with the terms of the CHEAF Program.
+102. Ms. Hiebert and her spouse Gerald received a donation receipt from NFCL dated January 15, 2003 for the total of the above four donations in the amount of $14,925. This total was included in Ms. Hiebert's 2002 claim for charitable donations.
+103. The Minister disallowed the $14,925 claimed in respect of all of the donations to NFCL.
+104. From June to October 2002, Angela solicited $10,800 in donations to NFCL and from November to December 2002, she solicited $8,700 in donations to NFCL for total donations of $19,500.
+105. In 2002 Ms. Hiebert declared total income of approximately $96,000 and showed Gerard's net income as approximately $105,000.
+[26] Ms. Hiebert testified that she and her husband would give approximately $30,000 a year to charity, citing her church and World Vision as a couple of the types of charities to whom they gave. She acknowledged that she and her husband funded Angela’s education, but with the expectation that she was to repay them: she described this as a loosey-goosey arrangement and she admitted that she eventually forgave that debt.
+[27] Ms. Hiebert gave more to her daughter than the others who solicited funds, as she wanted to ensure Angela would receive the maximum amount of the bursary. The amount was determined from a letter she received from NFCL. She was aware Angela had the qualifying grades for her NFCL eligibility, but was not confident she would maintain her grades for the full academic year. At the time of the donation, she knew Angela met the criteria. It was her hope that Angela would benefit though she acknowledged that Angela would get 80% of the fundraising and an additional 20% if she met the criteria.
+[28] While she could not specifically recall discussions with parents of other students regarding cross-donations in order to meet the five donor criteria, she did recall having spoken to at least one of the other parents.
+[29] Ms. Hiebert went over Angela’s student account from TWU, a statement which looks very much like a bank statement. It showed NFCL payments into the account of $10,122 in August and $8,195 in early January 2003. Ms. Hiebert acknowledged paying the enrolment deposit of $150 and dormitory deposit of $200.
+Monica Neville
+[30] The parties agreed as follows:
+106. Monica Neville ("Ms. Neville") is the mother of Lavonne Neville ( Lavonne").
+107. Lavonne was born on July 16, 1984. Lavonne became 18 years old on July 16. 2002.
+108. In 2002 Lavonne was a student at TWU and applied to participate in the CHEAF Program.
+109. In 2002 Lavonne solicited donations to NFCL in accordance with the CHEAF Program.
+110. In 2002 Ms. Neville and her spouse, Ken, donated the following amounts to NFCL which were solicited by Lavonne:
+a) a $4,000 donation on July 9, 2002; and
+b) a $2,250 donation on December 1, 2002.
+111. Ms. Neville and Ken received a donation receipt from NFCL dated January 15, 2003 for the total of the above payments in the amount of $6,250. This total was included in Ms. Neville's 2002 claim for charitable donations.
+112. The Minister disallowed the $6,250 claimed in respect of all of the payments to NFCL.
+113. In 2002 Ms. Neville declared total income of $56,984 and Ken reported net income of $45,891.
+114. From June to October 2002 Lavonne solicited $4,200 in donations to NFCL and from November to December 2002 she solicited $2,250 in donations to NFCL for total donations of $6,450. NFCL issued Lavonne a T4A in the amount of $4,200 in 2002 and in respect of the $2,250 in 2003.
+[31] Similar to the other Appellants, Ms. Neville suggested that her daughter, upon graduating high school, was an independent young adult free to make her own decisions, but with parental guidance. It was Lavonne’s decision to go to TWU. While she was to be fully responsible for herself, it was clear in the family that Mom and Dad would help out where needed and when able. Lavonne did receive income from helping her mother in her mother’s business, as well as receiving scholarship funding from TWU directly and from the Boilermakers. Lavonne lived at home while attending TWU as it costs less to do so.
+[32] The Nevilles learned about NFCL from its materials, received through TWU, and also from friends who had children familiar with the program. Ms. Neville testified that she made the donation as she believed Lavonne would continue in school and would have a good opportunity for funding. She stated that she hoped, anticipated and expected Lavonne would do all that was necessary to get the scholarship. She also stated that she felt the money to NFCL was a donation, and, once given, there was no claim on it by her.
+Issue
+[33] The issue is whether the payments to NFCL made by the Appellants in 2002 were gifts to a charity such that they qualify for deduction as charitable gifts in accordance with section 118.1 of the Act. There is an additional issue in connection with the Coleman appeal and that is whether the donations from Titan are taxable benefits to Mr. Coleman, pursuant to subsection 246(1) of the Act.
+Analysis
+[34] In Canadian Taxation of Charities and Donations, Arthur Drache succinctly identified the conundrum presented by a case such as this:
+The fact of the matter is that most, if not all, donors to charities get some benefits or advantages from making a contribution. Also, linked to that factor is the undeniable truth that people are more likely to make a contribution to a charity which is doing something they approve of or which may eventually be of benefit to them or to their friends or family, even if the benefit simply is to make their locality a better place to live.
+One distinction, of course, is that the benefit is not direct enough to disqualify the gift, but this in turn is a subjective test.
+While there will be some obvious cases where there is clearly a quid quo pro between a donor and a charity and no receipt can be issued, there remain many grey areas where individual decisions will have to be made.
+[35] I would like to commence the analysis by stating how impressed I was with the Appellants’ pattern of charitable giving. These people are generous and clearly understood what it meant to make charitable donations. Apart from some concerns with Mr. Coleman’s testimony, which was not at times as forthcoming as it might have been, I find the Appellants and Mr. Forrester to be open, direct and thoughtful in their testimony. I listened intently for any evidence of a nudge nudge, wink wink – we really know what the tax receipt is all about – attitude. There was none. These people believed that they had gifted funds to NFCL. Their subjective evidence could not have been clearer. What is disturbing is that the objective evidence points so very clearly to an understanding, indeed a knowledge, at the time of donation, that 80 to 100% of monies they donated would go to cover the education cost of those students who solicited the funds – primarily their offspring. The Appellants used words such as hope, anticipation, expectation. I find the truth is that they knew, they had to have known. The program was set up so that they would know. Once I reached that inescapable conclusion and accepted the objective over the subjective, the link becomes stronger and the answer becomes easier.
+[36] The application of section 118.1 of the Act centers on the finding that there is a gift. The parties are agreed that for the purposes of the Act the definition of "gift" found in Friedberg v. R.[2] is the appropriate starting point. It calls for three elements:
+I. Property owned by the donor;
+II. A voluntary transfer of that property; and
+III. With no benefit or consideration flowing to the donor.
+There is no dispute with respect to the first two elements. The issue is the third. In the case of The Queen v. Burns.[3] that issue was described as follows:
+The donor must be aware that he will not receive any compensation other than the pure moral benefit; he must be willing to grow poorer for the benefit of the donee without receiving any such compensation.
+[37] The parties referred to many cases addressing this issue, but I would like to focus on four: The Queen v. Zandstra,[4] McBurney v. Canada,[5] Woolner v. the Queen,[6] and The Queen v. Burns.[7]
+[38] In Zandstra, the appellants paid monies to the Jarvis School, organized by the Jarvis Society to establish and maintain a separate Christian school. The appellants all indicated that they felt they had a moral obligation to children other than their own. Justice Heald concluded that they therefore received consideration from the Jarvis School in the form of a Christian education for their children "in discharge of their duties as parents as they conceived them to be".
+[39] The Federal Court of Appeal in McBurney, another case of parents considering it a duty to educate their children in the Christian environment, found that payments were made in pursuance of that duty. The Court of Appeal stated:
+…
+I cannot accept the argument that because the Respondent may have been under no legal obligation to contribute, the payments are to be regarded as "gifts".
+…payments made by the Respondent in 1976 and 1977 were directly related to the presence of his children at this school where they received the Christian education he felt in conscience bound to secure for them.
+…
+[40] In the more recent Federal Court of Appeal decision of Woolner, a case of contributions to the First Mennonite Church towards their student aid program (a program provided a bursary to every child of a member who applied), the Court could not distinguish the case from Zandstra:
+…
+In the present case, it is clear that the contributions were voluntary. The main issue for determination is whether or not the contributions were made with the anticipation of a benefit or advantage of a material nature. In our view, the circumstances of this case are very similar to those in the The Queen v. Zandstra 74 DTC 16 (TD), which Stone J.A. followed in McBurney. In Zandstra, the taxpayer made contributions to a school called the Canadian Christian School. …
+In our view, the Zandstra case cannot be distinguished from the circumstances of this case. The taxpayers in this case made their contributions to the church with the anticipation that their children would be provided with a bursary. ... The taxpayers have argued there is no link between the contributions made and the bursaries awarded. There is clear evidence that such a link existed. When bursaries were being applied for, a request was made that a pledge form also be filled out at the same. Further, in a report made by the student aid committee it is stated "it is assumed that student and/or parents will contribute as much as they are able to fund". In addition, after pledges were made donors were reminded of their pledge when it had not been fully fulfilled. … These taxpayers desired to have their children schooled in a particular way. Their contributions guaranteed that result. This constituted a material benefit to the taxpayers.
+…
+[41] Finally, in the Burns case, the Federal Court Trial Division, in dealing with payments made by Dr. Burns to the Canadian Ski Association, found that such payments were not gifts, as they were made for the purpose of securing a material advantage for the defendant. The Court adopted the language of the McBurney case suggesting that there must be a link between the benefit and the payments:
+…
+The securing of the kind of development and training the defendant desired for his daughter and the making of the payments to the operating organization according to its expectations "went hand-in-hand ".
+…
+[42] I make the following observations from a review of these cases:
+I. The benefit to the donor need not arise as a result of meeting a legal obligation.
+II. Anticipation of the benefit may be sufficient to deny a gift.
+III. There must be a connection or link between the donor’s payment and the benefit. The cases actually refer to a "link" or "hand-in-hand" or "directly related".
+[43] The Appellants argue that the education cases stand for the proposition that a person cannot claim a charitable deduction for a donation to a school that their minor child is attending when such donation reduces the tuition fees or costs which the parents would otherwise be obligated to incur. I do not read those cases nearly as restrictively.
+[44] What is key is the connection. In other areas of the law (for example see the application of the Indian Act[8] and paragraph 81(1)(a) of the Act) the Courts have developed a connecting factors test to assist in determining a taxpayer’s liability to tax. Here, in determining whether a payment constitutes a "gift" for purposes of the application of the charitable donation credits (subsection 118.1(3)) it appears the case law is likewise suggesting a review of connecting factors.
+[45] This is a two-stage inquiry. First, was there a benefit to the donor? Second, was there a sufficiently strong link between that benefit and the donation that it fails to meet the third element of the Friedberg definition of gift?
+Identify the benefit
+[46] When a taxpayer, whose spouse is suffering from Alzheimers, makes a donation to the Canadian Alzheimers Society, and, as a result of the Society funding research into the disease, the taxpayer’s spouse is prescribed new medication which slows down the rate of deterioration for the disease, there has clearly been a benefit to the taxpayer. It may be difficult to put a value on that benefit; indeed, the taxpayer might suggest it is priceless, but no one would deny there is a benefit. In the education cases (Zandstra, McBurney and Woolner) the Courts state the benefit is the Christian education of the children. I see no reason why that same benefit would not be applicable in the cases before me. The Appellants all saw real benefit to a Christian education. That was clear. It is also clear the children benefited. The benefit could be put in monetary terms – by providing funds to NFCL, the Appellants significantly reduced the responsibility of paying tuition and other University related expenses directly to their children or to the University, a responsibility the Appellants took seriously.
+[47] The first step of identifying a personal benefit will not be an onerous one: it must be distinguished from pure moral benefit. In the case of Curlett v. Minister of National Revenue[9], the donor of funds to the Salvation Army (to be used specifically for two people in need of help,) received no personal benefit but did receive a moral benefit. As intimated in Burns, pure moral benefit will not be sufficient to vitiate a gift. Where the only benefit from a donation is for pure moral benefit, it is unnecessary to proceed to the second stage of inquiry, as by its nature there is no substantive personal link between a donation and the resulting pure moral benefit. We give to the Haitian Relief Fund to benefit those in need: there is no personal element to the benefit.
+Strength of link
+[48] It is at the second stage of the inquiry into the connection between the donation and the benefit that the true character of the payment as a gift will more often be determined. So, what are the factors I should consider? I am not suggesting any one factor is conclusive, nor that my list is exhaustive. This is a matter of looking at the factors objectively, weighing them and applying a good dose of common sense.
+I. Is there a relationship between the donor and ultimate beneficiary?
+II. Is there any correlation between the amount of the donation and the amount received by the beneficiary?
+III. What are the circumstances surrounding the donation:
+a) what did the donor know or expect would happen to the donation?
+b) what did the beneficiary know or expect would happen to the donation?
+c) what did the charity know or expect would happen to the donation?
+d) what was the donor’s intention?
+e) how was the amount of the donation determined?
+f) how was the money donated?
+g) was the donor under any moral or legal obligation to the beneficiary?
+IV. Did the donor have any control over the charity’s use of the money?
+I Is there a relationship between the donor and ultimate beneficiary?
+[49] If the Appellant donors are considered the ultimate beneficiaries by virtue of being relieved by NFCL of having to pay education costs of family members, then naturally there is a relationship – they are one and the same. If the students are the recipients of the benefit, then again there is clearly a non-arm’s length relationship with the donor. There is a personal link. The Appellants argue that by considering the non-arm’s length relationship a factor, we are demotivating the very people who would otherwise be motivated to make charitable donations. At first blush this response may sound valid, but on reflection it does not hold up to scrutiny, as it ignores the very essence of the inquiry: how close is the connection? It is akin to saying that because the Appellants would not get a charitable donation credit, they would not pay for their children’s education. The only ones to be demotivated from making a charitable donation, would be those who adhere to the philosophy that charity begins at home and seek to turn a personal gift into a charitable gift, which is exactly the point of this case and the point in this stage of the analysis. Those who give to the Cancer Society because a loved one has cancer, run no risk of being denied the credit. Those who designate their loved one to directly receive the benefit of a "donation" do run that risk. I see nothing demotivating in this. It goes to the core of what is charitable giving for tax purposes.
+II Is there a correlation between the amount of the donation and the amount of benefit?
+[50] Yes, there is a direct correlation between what the Appellants gave and what the students to whom they are related received. The CHEAF program was designed that way: the students would get a minimum 80% and a maximum 100% of what they could raise. Although the Appellants and Mr. Forrester testified the donations all went into a pool, and bursaries, scholarships, awards and administrative expenses would come out of that pool, the fact was, for example, that of Mr. Harder’s $10,600 donation on August 1, $10,175 was deposited to his daughter’s account at TWU by NFCL on September 1. The correlation could not be any more apparent: it is a significant link.
+III What are the circumstances surrounding the donation?
+a) what did the donor know or expect would happen to the donation?
+[51] There is more than one element to this issue of expectation or knowledge. I find that the Appellants knew, upon making the donation to NFCL, they would not personally ever be entitled to a refund of that payment. They uniformly acknowledged they had no entitlement to any return of the money. But they also knew their donation would go to their children (or grandchildren). I found there was something of a disconnect between reality and the nature of the Appellants’ testimony. The Appellants talked in terms of anticipating or expecting their children would get funding: none would acknowledge that, in fact, they knew their children would get funding. These were intelligent, honest folk, who clung steadfastly to the notion that the eligibility requirements cast some doubt on the availability of funding. As one put it, nothing in life is certain. But how uncertain was the likelihood of the students getting the funding? There was, I find, no uncertainty with respect to the 80% bursary, and very little uncertainty with respect to the scholarship. The GPA requirement and course load requirement were the only real stumbling blocks. But at the time the Appellants made the donations, they knew these requirements were met. It was only if, after the money had been credited to the student’s account, the student then, for example, dropped out, would there be a credit back to NFCL. There were examples of adjustments made to other students’ accounts. But I do not have those circumstances in these appeals. In these appeals, the Appellants knew the students would get the money, the students did get the money and in no cases were monies returned to NFCL.
+[52] Knowing one’s child would get the benefit is a strong link: anticipating the child will get the benefit is also a connecting factor, though not as determinative. However, if I accept that there was an element of uncertainty in the granting of a scholarship for the winter term, as the first term marks would not yet have been available at the time of the donation, and that the donors could say there was only an anticipation or expectation, that still creates a link, albeit not as strong, but a connection nonetheless that will be required to be put in the context of the other factors. I do not accept the argument that some element of risk or uncertainty renders the anticipation or expectation a non-factor. It is a matter of degree, a matter of balancing the factors.
+b) what did the beneficiaries, presuming the students are beneficiaries, know or expect would happen to the donation?
+[53] None of the students were called to testify. The students solicited major donations from families and nominal donations from four others to qualify for the scholarship. They would have known that by doing so they would be funded to the tune of 80 to 100% of such donations. Unlike the needy in Curlett, who knew nothing of the donation, the knowledge by the students is a significant connecting factor. Even without their testimony, I have no hesitation in concluding the students sought funding solely for their own benefit. That is how the program was designed to work. There was no evidence to support the notion that students sought funding to help others get NFCL funding. I find this is a strong connecting factor.
+c) what did NFCL know or expect?
+[54] First, what NFCL did not know. According to Mr. Forrester, the Board did not know who gave what. The Board simply received a list showing the student’s name, qualifications and amount raised. Yet, Mr. Martens would have known, as NFCL received the donor forms along with the cheques. The information was within the possession of NFCL notwithstanding the Board may not have tapped into it.
+NFCL implemented the CHEAF program and knew, as did the participants, as it was all part of NFCL’s materials, that once accepted the students would receive 80 to 100% of donations solicited by them. NFCL knew exactly what it was going to do with the money raised by the student. Minor adjustments and special circumstances do not alter this overarching element of the CHEAF program. This is a significant connecting factor.
+d) what was the donor’s intention?
+[55] The parties agree that determination of intention must be an objective exercise. The Appellants argued "it should not be based on a subjective inquiry into the taxpayer’s motivation". In Friedberg, the Federal Court of Appeal emphasized that evidence of a subjective intention should not be used to determine the "true" intent behind a purported gift transaction.
+In tax law, form matters. A mere subjective intention, here as elsewhere in the tax field, is not by itself sufficient to alter the characterization of a transaction for tax purposes. If a taxpayer arranges his affairs in certain formal ways, enormous tax advantages can be obtained, even though the main reason for these arrangements may be to save tax (see The Queen v. Irving Oil 91 DTC 5106, per Mahoney, J.A.). If a taxpayer fails to take the correct formal steps, however, tax may have to be paid. If this were not so, Revenue Canada and the courts would be engaged in endless exercises to determine the true intentions behind certain transactions. Taxpayers and the Crown would seek to restructure dealings after the fact so as to take advantage of the tax law or to make taxpayers pay tax that they might otherwise not have to pay. While evidence of intention may be used by the Courts on occasion to clarify dealings, it is rarely determinative. In sum, evidence of subjective intention cannot be used to 'correct' documents which clearly point in a particular direction.
+[56] While I heard the Appellants profess an interest in assisting the provision of Christian education, and a stated intention to assist others, an objective view of the facts and documents suggest the overriding intent was to fund family members’ Christian education. This conclusion is inescapable; the nature of the public NFCL materials, the timing of the students acceptance into the CHEAF program, the knowledge of all concerned at the time of the donation, the identification by NFCL of funds required, the matching of that number by the donation, a desire of the donor for their offspring to get a Christian education, and a family understanding that the family would help financially, all point to one intention by the participants to fund their childrens’ education through NFCL.
+[57] The Appellants argue that motivation is irrelevant in making gifts to NFCL, providing they did not receive a benefit in return. I have two comments: first, I have concluded they did receive a benefit; second, I draw a distinction between a donor’s motivation and a donor’s intention. The donor may be motivated by a loved one with cancer, but intend to benefit all those touched by the disease. Intention, I suggest, remains an important factor and here it is a strong connecting factor.
+e) How was the amount of donation determined?
+[58] Upon acceptance into the CHEAF program, NFCL would advise a successful applicant what that student’s financial needs would be, and further would advise how much they needed to raise to meet those needs. This acceptance letter was copied to the student’s parents. Effectively, we have a charity advising Mom and Dad how much their child needs to raise to get the Christian education everyone wants them to get. Again, in isolation perhaps, this could be equated to a World Vision request for $500 as that amount could be used specifically to purchase a goat for a family in Papua that could drastically improve that family’s life. Identifying the needs of the charity in and of itself is not determinative, but when considered in light of the addressee being the parent of the recipient, the link becomes stronger. A directed letter to Mom and Dad telling them their child needs a certain amount for University education is a far cry from a general request to the public for a certain amount to assist strangers in need. Further, the public may fund enough for goats for two or three Papuan families. The Appellants, though generally generous in their charitable giving, did not fund the several thousand dollar needs of other students: they were not even advised of others’ needs. I find this is, in the overall scheme of the program, an important connecting factor.
+f) How was the money donated?
+[59] The Appellants were united in stressing that they did not put the name of the student on the cheque. Indeed, materials from NFCL strongly advised against this practice and would return any cheques that made this unfortunate error. Yet, to keep track of the amount of donations raised by a student, the cheque was always accompanied by the donor form, which provided the student’s details. So, although the program was structured so that there could not be a specific designation, all the information was certainly available to NFCL with the receipt of the cheque and the donor form. The Appellants argued that because the donor could not direct NFCL to make a gift to the student, this falls within the same league as in Curlett where a donor approached the Salvation Army and identified two people in need of help. The Salvation Army agreed that helping the two was within its general charitable welfare work. The donor made a donation, which the Minister challenged on the basis the money was really going to private individuals. The Court held the taxpayer had a bona fide charitable gift because the Salvation Army was "under no compulsion or no direction from the Appellant". These cases are significantly different. As mentioned previously, it would be difficult to find any personal benefit in Curlett, but even assuming we should take Curlett to this second level of inquiry to see if there is any connection, the connection in Curlett is minimal. Bear in mind what this stage of the analysis is addressing – connecting factors. It is a matter of weighing this factor. In Curlett, little, if any, weight would have been attached to this factor. In this case, I put some weight on it, though in isolation it is not as significant as some of the other factors.
+[60] I also consider the timing of the donation. There is no evidence of these Appellants donating to NFCL other than when family members would be attending TWU. Donations were made to coincide with the requirement for their family members to meet their financial obligations to TWU.
+g) Was the donor under any moral or legal obligation to the beneficiary?
+[61] The Appellants drew a distinction between a legal obligation of parents to pay for their children’s post-secondary education and a moral obligation. The Appellants argued that because the Appellants had no legal obligation to pay for the post‑secondary education, the Appellants were not enriched by the NFCL bursaries and scholarships. The Appellants went on to distinguish situations between students over and under 19 years of age, as well as students who were children of donors versus those who were not; for example, Mr. Ballard donated on the solicitation of his grandson. Again, these distinctions all go to the strength of the connection between the donation and the benefit. No doubt, if there is a legal obligation for Mom and Dad to fund their offspring’s post-secondary education, and they meet that obligation by "donating" to NFCL, there is a very strong nexus. There is no such legal obligation in British Columbia under the Family Relations Act[10]. What I am dealing with are:
+a) parents admitting the understanding in the family was that Mom and Dad would financially help the children with post‑secondary education. I find relieving that responsibility by making the donation is a link between the two, though not as strong as fulfilling a legal obligation.
+b) a parent directing a company under his control, "Titan", to donate on the solicitation of the parent’s child. This may be a step removed from a direct donation by Dad, but it is a small step and I still find some connection.
+c) a grandfather, Mr. Ballard, looking to help his grandson. The Appellant argues there is no support obligation when not in a parental relationship with a student. I agree there is no obligation, that is too strong a word. But there is something there. The question perhaps is – would Mr. Ballard have contributed to his grandson’s education in any event?
+[62] To summarize on this point, simply because there is no legal obligation on the donors does not mean there is no relief of payment the Appellants would otherwise have paid. The evidence indicates otherwise. The connection is not as strong as relieving a legal obligation but there is an important link still. Certainly, with respect to Mr. Ballard the connection is relatively weak, but he knew Paul was dependent on family and knew that at the time of donation, Paul had been accepted in the CHEAF program.
+IV Did the donor have any control over the charity’s use of the donation?
+[63] No, the donors were unanimous in their understanding that once a donation was made, it was absolute and they had no say in what the Board decided to do with money. That is correct. But both they and the Board knew what the Board would do.
+[64] I conclude, on balance, that taken together these connecting factors create a sufficiently strong link between the donation and the benefit, such that I find the Appellants have not met the Friedberg test that there can be no benefit flowing to the donor.
+[65] The connecting factors in Mr. Ballard’s case are not as strong as in the other cases as there was no parental relationship although he did acknowledge that he determined the amount based on what NFCL advised him was needed. His is the only situation that might be called borderline, but I find there are too many other significant connecting factors; I conclude there was no charitable gift.
+[66] With respect to Titan and Mr. Coleman, the Appellants conceded that if I found there was no charitable gift, that Mr. Coleman would be caught by subsection 246(1) of the Act as having received a taxable benefit.
+[67] The Respondent made an argument that the CHEAF program flew in the face of the scheme of the Act, regarding the tax treatment of the post-secondary education expenses, suggesting this was an attempt by this program to circumvent such rules. I need not decide on that basis. It smacks to be more of a General Anti‑Avoidance Rule type argument, though I was assured it was not. I feel no compulsion to comment further.
+[68] In writing these reasons, I have tried to imagine a variety of borderline situations to which I could apply the framework I have relied upon. That has been a helpful exercise, but it highlighted for me that there will always remain an element of subjectivity. It is unavoidable. This is an area of human interaction where a formulaic approach can only take the law so far.
+[69] The appeals are dismissed with one set of costs to the Respondent.
+Signed at Ottawa, Canada, this 24th day of February, 2010.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2010 TCC 109
+COURT FILE NO.: 2007-4657(IT)G, 2007-4659(IT)G,
+2007-4673(IT)G, 2007-4684(IT)G,
+2007-4672(IT)G, 2007-4677(IT)G
+STYLE OF CAUSE: RICHARD WAYNE COLEMAN,
+TITAN CONSTRUCTION CONTRACTORS LTD.,
+GERALD BALLARD,
+DAVID W. HARDER, IRIS HIEBERT, MONICA NEVILLE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: January 25, 26 , 27 and 28, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: February 24, 2010
+APPEARANCES:
+Counsel for the Appellants:
+Blake Bromley, Kim Hansen
+Counsel for the Respondent:
+Lynn M. Burch, Christa Akey
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Blake Bromley, Kim Hansen
+Firm: Benefic Law Corporation
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The issue in these appeals is whether or not payments made by the Appellants to NFCL were charitable gifts. All references to "donations" or "donors" herein should he read as "purported donations" and "purported donors" and are not meant to be an admission or characterization of the amounts as charitable donations.
+[2] 92 DTC 6031.
+[3] 88 DTC 6101.
+[4] 74 DTC 6416.
+[5] [1985] FCJ No. 821.
+[6] 53 DTC 5722.
+[7] ibid 3.
+[8] R.S.C. 1985, c. I-5.
+[9] [1966] CTC 243.
+[10] R.S.B.C. 1996, c. 128.

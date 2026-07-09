@@ -1,0 +1,118 @@
+Title: Plant Hope Adjusters Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26276/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-71-26276-plant-hope-adjusters-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-02-25
+
+# Plant Hope Adjusters Ltd. v. The Queen
+
+- Citation: 2003 TCC 71
+- Decision date: 2003-02-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4007, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Plant Hope Adjusters Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-02-25
+Neutral citation
+2003 TCC 71
+File numbers
+2001-3127(GST)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2001-3127(GST)I
+BETWEEN:
+PLANT HOPE ADJUSTERS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Appeal heard on January 20, 2003 at Moncton, New Brunswick
+Before: The Honourable Judge François Angers
+Appearances:
+Agent for the Appellant:
+Fred R. Plant
+Counsel for the Respondent:
+Christa MacKinnon
+_______________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act for the period January 1, 1998 to March 31, 2000, by Notice of Assessment Number 11744502 dated June 14, 2001 is dismissed.
+Signed at Edmundston, New Brunswick, this 25th day of February 2003.
+"François Angers"
+J.T.C.C.
+Citation: 2003TCC71
+Date: 20030225
+Docket: 2001-3127(GST)I
+BETWEEN:
+PLANT HOPE ADJUSTERS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers, J.T.C.C.
+[1] This is an appeal from an assessment dated June 14, 2001, under Part IX of the Excise Tax Act (the "Act") in which the Appellant was assessed for the Goods and Services Tax ("GST") and Harmonized Sales Tax ("HST") returns in the amounts of $66,364.10 in tax and $5,135.96 in interest for the period from January 1st, 1998 to March 31st, 2000. Input Tax Credits have been allowed and credited and the quantums are not in issue. The assessment is in respect of services provided by the Appellant company to various insurance companies and law firms in which the Appellant acted on their behalf for the period in question. The services were not deemed to fall within the definition of "financial services" in subsection 123(1) of the Act. If it is determined that the services do fall within the definition, they are exempt from the charging provisions by reason of the exclusion of "financial services" in Schedule V, Part VII. If they do not qualify as "financial services", they are subject to tax.
+[2] At the trial, the Appellant company was represented by its President Frederic Plant. Mr. Plant testified that his company has been an independent adjusting firm in New Brunswick since 1930. It merged with another similar business in 1997 and in the process acquired a brand name known as Atlantic Investigations. The brand name was used on letterheads and other documents. In some cases, the brand name was identified as a wholly owned subsidiary of the Appellant while in other cases, as a division. In any event, the evidence disclosed that the brand name was not registered with Corporate Affairs for New Brunswick, and the Appellant was using it simply to improve business and have an advantage over its competitors.
+[3] The Appellant employs approximately 48 persons to provide its services to its clients but not all employees are licensed adjusters under the Insurance Act of New Brunswick. The Appellant offers a broad range of services from the simple process of interviewing people to conducting more intricate investigations. The employees make assessments of claims, providing regular reports, which include recommendations and, at times, conduct negotiations of the claims. Occasionally, they also advise on whether a particular claim was made under an insurance policy.
+[4] In the early 1980s, the Appellant began to carry out more detailed investigations which consisted in surveilling claimants in order to determine the validity of their claims. It is that part of its services that is at issue in this appeal.
+[5] Mr. Plant outlined his company's involvement when the GST legislation was introduced and how because of the company's services, it was eventually exempt from collecting the tax. Employees/staff did not consider the specific wording of the legislation but understood it to mean that the services they provided to insurance companies were exempt and that their work had always included the investigative and surveillance elements.
+[6] On cross examination, Mr. Plant acknowledged that 25 to 30% of the Appellant's work consists of the entire process in the investigation of a claim and the remainder consists of more specific requests or piece meal work, including conducting surveillance work alone.
+[7] In order to be an adjuster in New Brunswick, one must be licensed under the Insurance Act of New Brunswick. Mr. Plant testified that the two employees who performed strictly the investigative and surveillance elements were not licensed adjusters. They merely reported on what they saw and observed; despite this, their services were billed by the Appellant and in most cases cheques were made out to the Appellant. An example of the invoicing using Atlantic Investigations letterhead was produced by the Respondent. One of the investigators employed by the Appellant is not licensed under the Private Investigators and Security Services Act of New Brunswick since, according to Mr. Plant, there was no need for him to be.
+[8] Mrs. Maria Large testified for the Respondent. Her report was produced in evidence and confirms that the assessment dealt solely with the supply of investigative services alone and did not include services recommending the compensation in satisfaction of a claim. In these situations, the Appellant provided surveillance of claimants' activities to insurance companies or lawyers representing them and reported on those activities. The investigator provided nothing more than a report and therefore the services do not fall within the definition of "financial services" under paragraph (j) of the Act.
+[9] The Appellant's position is that although the reports by investigators conducting surveillance do not include recommendations per se, the content of the report in itself indicates a course of conduct to follow. Mr. Plant further adds that the wording of the definition of an adjuster under the New Brunswick Act would not be broad enough for the work performed by the Appellant's employees to fall within the definition of the Act in terms of its exemption. That definition limits the work of an adjuster to a right to negotiate the settlement of a loss under a contract of insurance and as such it would not comply with the definition under the Act in which the service provided must consist in investigating and recommending the compensation in satisfaction of a claim. Mr. Plant submits that despite this contradiction in the nature of the service provided, his company has been exempt from collecting the tax. Since the government's intent was to exempt these services notwithstanding the contradiction in the definitions, the position favourable to the Appellant that the services assessed in this appeal be exempt should be taken.
+[10] The Respondent's position is that the services the Appellant provided were not performed by adjusters. Although the Appellant operated an adjusting firm, part of the services it supplied did not fall under that heading. The Act refers to investigating and recommending the compensation in satisfaction of a claim. In this appeal, the activity that was solely investigative was not carried out by an insurance adjuster. The supply is important and therefore the entire scope of the business is not exempt. Since the investigators are not insurance adjusters, they cannot make recommendations.
+[11] The Insurance Act of New Brunswick defines "adjuster" as follows:
+"Adjuster means a person who, for compensation, not being a barrister or solicitor acting in the usual course of his profession or a trustee or an agent of the property insured, directly or indirectly solicits the right to negotiate the settlement of a loss under a contract of insurance on behalf of the insured or the insurer, or holds himself out as an adjuster of losses under such contracts:
+[12] The exemption referred to is found under the definition of "financial service" in Section 123(1)(j) of the Act. It reads:
+... the service of investigating and recommending the compensation in satisfaction of a claim where
+(i) ...
+(ii) the claim is made under an insurance policy that is not in the nature of accident and sickness or life insurance and
+(A) the service is supplied by an insurer or by a person who is licensed under the laws of a province to provide such a service, or ....
+[13] In this particular situation, the service for which an assessment was issued relates to the investigative and surveillance element of the Appellant's business. Those services were not performed by its staff's licensed adjusters but by trained employees who were not required by the Appellant to be licensed under the Private Investigators and Security Services Act. In Mitchell Verification Services Group Inc. v. R., [2001] G.S.T.C. 45, the Federal Court of Appeal stated that to qualify as a "financial service" within the definition, the supplier of such service must both investigate and recommend the compensation in settlement of an insurance claim and be licensed under the law of a province to provide both the investigatory and recommendatory functions. In addition, the Appellant must be licensed to provide such service.
+[14] In the Mitchell case the Appellant was an investigation company and not an adjuster. While in this matter the Appellant is an adjusting firm, it is providing services that are investigative in nature and, based on the evidence heard, do not include the recommendations an insurance company would be expected to receive regarding the compensation in the settlement of a claim. I agree with the Appellant that, under the definition of an adjuster in the New Brunswick Act, it would not qualify for exemption from collecting the HST under the Act; however, services it has provided from the outset have included those that are exempt under the Act and therefore it has not been required to remit the tax.
+[15] The surveillance report found in tab 3 of Exhibit R-1 does not include any recommendations by the Appellant and is purely a report on what the investigator observed. The Appellant therefore did not exercise any judgment but merely provided information, whereas an adjuster is expected to make recommendations, which involves the exercise of judgment, to its clients. The fact that the employees are not licensed investigators does not make them adjusters. Judge Bowie, who wrote the decision that was upheld by the Federal Court in the Mitchell case, said at paragraphs 18 and 19:
+18. It is not by chance that Parliament used the form of words that it did to define the function that is described in paragraph (j) of the definition. The roles of the private investigator and the insurance adjuster are distinct ones, notwithstanding that there may be some degree of overlap in what they do in practice. What separates one from the other is the element of negotiating and recommending the settlement of claims, which is part of the function of the adjuster, but not of the private investigator. This is made clear by the evidence of Mr. Riddles to which I referred earlier. See also Atlas Assurance Company v. Brownell.
+19. The provincial legislation does not use the verb "recommend". It does, however, recognize the different functions of the private investigator and the insurance adjuster, and provide for two separate licencing systems for them. This is so not only in Ontario, where the present case arises, but in all ten provinces. [See Note 6 below] Parliament chose its words carefully, to ensure that the services of provincially licenced insurance adjusters, and not those of provincially licenced private investigators, would be exempt from the charging provisions of the Act.
+[16] In my opinion, the services qualifying as "financial services" that were provided by the Appellant as an adjuster are exempt. The investigative element carried out by Atlantic Investigation, which consists of a report outlining its observations, would not constitute services qualifying for exemption. Since the assessment involves these services in particular, they are not exempt. The appeal is therefore dismissed.
+Signed at Edmundston, New Brunswick, this 25th day of February 2003.
+"François Angers"
+J.T.C.C.
+CITATION:
+2003TCC71
+COURT FILE NO.:
+2001-3127(GST)I
+STYLE OF CAUSE:
+PLANT HOPE ADJUSTERS LTD.
+and Her Majesty The Queen
+PLACE OF HEARING
+Moncton, New Brunswick
+DATE OF HEARING
+January 20, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge François Angers
+DATE OF JUDGMENT
+February 25, 2003
+APPEARANCES:
+Agent for the Appellant:
+Fred R. Plant
+Counsel for the Respondent:
+Christa MacKinnon
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

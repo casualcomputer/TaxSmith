@@ -1,0 +1,194 @@
+---
+title: "Laplante c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26721/index.do"
+last_modified: "2005-12-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 315"
+citation2: ""
+neutral_citation: "2005 TCC 315"
+decision_date: "2005-12-01"
+language: "en"
+item_id: "26721"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3402
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:04:04.359000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c3d30cd4185f61bdd01a1209765445543195177223df5264fea051fb90c83dc7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Laplante c. La Reine
+
+- Citation: 2005 TCC 315
+- Decision date: 2005-12-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3402, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laplante c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-12-01
+Neutral citation
+2005 TCC 315
+File numbers
+2004-3217(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3217(IT)I
+BETWEEN:
+BRUNO LAPLANTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on April 27, 2005 at Québec, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2000, 2001 and 2002 taxation years are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 1st day of December 2005.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 30th day of April 2008.
+Brian McCordick, Translator
+Citation: 2005TCC315
+Date: 20051201
+Docket: 2004-3217(IT)I
+BETWEEN:
+BRUNO LAPLANTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The issue here is relatively simple, namely whether the Appellant, in computing his income, could deduct his losses from the disposition of publicly traded shares as business losses. Were they business losses or capital losses?
+[2] Under subsection 9(3) of the Income Tax Act ("the Act"), the Minister of National Revenue ("the Minister") denied the Appellant the right to deduct $16,393, $24,703 and $2,435 as net businesses losses for the 2000, 2001 and 2002 taxation years, respectively. For the same taxation years, the Minister found that the Appellant was entitled to deduct $5,117, $3,523 and $2,235, respectively, as net capital losses.
+[3] The facts on which the Respondent relied in making her decision are set out as follows in paragraph 18 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+Net business losses disallowed
+(a) During the taxation years in issue, the Appellant had a full‑time job.
+(b) During the taxation years in issue, the Appellant reported the following net business losses:
+Description
+2000
+2001
+2002
+Gross income
+$144,558
+$268,297
+$7,495
+(Expenses)
+($160,951)
+($293,000)
+($9,930)
+(NET LOSSES)
+($16,393)
+($24,703)
+($2,435)
+(c) The amounts set out in the previous subparagraph were claimed by the Appellant in connection with activities involving the purchase and sale of shares on the stock market.
+(d) During her audit, the Minister's auditor found the following about the Appellant's activities:
+(i) The transactions were not of the same kind as those of a trader or dealer in securities;
+(ii) The Appellant simply managed his personal portfolio in a way that involved greater risk than would have existed with mutual funds;
+(iii) The Appellant's portfolio was small (transactions worth $300 to $5,000);
+(iv) There was no extensive buying and selling of securities;
+(v) Given the type of work the Appellant did (selling sports equipment), he could not have been very knowledgeable about the securities market;
+(vi) He could not have had special knowledge that he could use to realize quick gains on certain transactions;
+(vii) Security transactions did not form a part of the Appellant's ordinary business;
+(viii) His security purchases were not financed primarily on margin or by some other form of debt;
+(ix) The Appellant was not licensed as a dealer in securities and had not studied in that field;
+(x) The Appellant had no clients and never advertised in search of clients;
+(xi) The shares purchased by the Appellant did not involve any call options, so they were regular shares, not highly speculative ones;
+(xii) Since the portfolio was small (transactions worth $300 to $5,000), the Appellant did not have to devote a lot of time to these transactions.
+(e) Moreover, the Appellant told the Minister's auditor during their initial meeting that he purchased and sold shares only in his personal capacity.
+(f) Based on her analysis, the Minister's auditor determined that the transactions for which the Appellant had claimed net business losses were instead capital transactions.
+(g) The Minister therefore disallowed the $16,393, $24,703 and $2,435 claimed by the Appellant as net business losses for the 2000, 2001 and 2002 taxation years, respectively.
+Net capital losses
+(h) The Minister allowed $5,117, $3,523 and $2,235 as net capital losses for the 2000, 2001 and 2002 taxation years, respectively.
+[4] It should be noted that the Appellant admitted all the facts set out in paragraph 18 of the Reply to the Notice of Appeal with the exception of those set out in subparagraphs (d)(i), (ii), (iv), (vii), (xi) and (xii).
+Appellant's testimony
+[5] The Appellant was a mechanic during the period in issue. His academic training was limited to a certificate in administrative technology. The Appellant testified that, in the spring of 2000, he decided to redeem a mutual fund (worth about $38,000) whose performance was sluggish and to take charge of his investments. In April 2001, he transferred the proceeds of disposition of his investments ($38,000) and his personal savings ($12,000) to a dealer at the CIBC. He stated that his investment strategy was to purchase publicly traded shares that generally cost less than $1.00. He explained that this type of investment was highly speculative. He stressed that the turnover of his investments was very quick, noting that he often sold shares the same day he bought them. To show that he was very active in the stock market during the relevant period, the Appellant testified that he carried out 170 transactions, 250 transactions and 14 transactions during the 2000, 2001 and 2002 taxation years, respectively, and he filed Exhibit A‑3 in evidence to support his testimony on this point.
+[6] The Appellant stated that he spent a substantial part of his time, about 20 hours a week (evenings and weekends), studying the securities markets and investigating potential purchases. He spent an hour a day taking part in specialized discussion forums on the Internet. He also frequently consulted his father‑in‑law, who was very active in the stock market, and occasionally consulted one of his friends who was a dealer in securities at the time. He also read the financial pages of local newspapers and the financial information provided by his dealer. However, the Appellant admitted that he did not spend any time studying the prospectuses or financial statements of the corporations whose shares he planned to buy. The reasons behind his purchase of shares boiled down to the following: he purchased a corporation's securities if the corporation announced that it had obtained a major contract or if he thought the stock price was at the beginning of an up cycle.
+Analysis
+[7] Generally speaking, the result of a transaction is a capital gain (or loss) if the transaction is consistent with the concept of investment, which involves the disposition of property purchased with a view to financial return (that is, to earn income from property or a business) or for personal purposes. On the other hand, the result of a transaction is considered business income (or loss) where the transaction fits within the concept of business, trade, speculation or a commercial matter or project.
+[8] Since there are no definitions in the legislation, the courts have had to develop several criteria in an effort to characterize a gain or loss resulting from specific work. However, it must be recalled that no criterion taken in isolation is necessarily sufficient or determinative and that all the circumstances in which a transaction occurs must be examined in each case. The criteria or factors most often used include the following:
+(i) the taxpayer's true intention as shown by the taxpayer's conduct and the circumstances in which the transactions occurred;
+(ii) the time between the purchase and the sale;
+(iii) the frequency of transactions (history of extensive buying and selling of securities);
+(iv) the nature of the securities (whether are they speculative);
+(v) whether the transactions are of the same kind or carried out in the same way as those of a dealer in securities. In this sense, does the taxpayer spend a substantial part of his or her time studying the securities markets and investigating potential purchases? Are security purchases financed primarily on margin or by some other form of debt?
+Appellant's intention
+[9] What was the Appellant's intention? In light of the Appellant's testimony, particularly concerning the speculative nature of the securities he bought and sold, the number of transactions carried out during the relevant period and the short time he owned the securities, it is clear that the Appellant's only intention was to sell the securities he had purchased as quickly as possible at a gain.
+Nature of the securities
+[10] Exhibit A‑3 shows that the Appellant purchased the vast majority of the shares for purely speculative purposes. Many of the shares he purchased were from corporations working in natural resources. Most of the purchased shares cost less than $1.00 (commonly referred to as "penny stocks"). It seems clear to me that such shares are almost always of a non‑dividend type.
+Time between purchase and sale
+[11] The evidence showed that the Appellant generally owned the shares for a very short period of time. In several cases, he sold shares the same day he bought them.
+Transaction history
+[12] It should be noted that, although the Appellant's nest egg was small ($50,000), he carried out 170 transactions in 2000, 250 in 2001 and 140 in 2002 (the year he stopped his investment activities).
+Transactions of the same kind as those of a trader in securities
+[13] Counsel for the Respondent argued that the Appellant's transactions were not of the same kind or carried out in the same way as those of a trader or dealer in securities, for the following reasons:
+(i) the share purchases were not financed on margin or by some other form of debt;
+(ii) the Appellant had very little knowledge of or experience in the securities field;
+(iii) the Appellant did not spend a substantial part of his time studying the securities markets and investigating potential purchases;
+(iv) his research tools (financial pages in local newspapers, discussions with his father‑in‑law and a dealer friend) were very rudimentary;
+(v) his investment strategy was simplistic.
+[14] Although the Appellant was not very experienced or sophisticated with regard to investing, the fact remains that, in my opinion, he devoted a substantial part of his time to this activity. I do not think that his lack of experience and sophistication are reasons to deny him the right to deduct a business loss. His intention was clearly to sell the securities he purchased as quickly as possible at a gain. The speculative nature of the shares purchased, the number of transactions carried out during the relevant period and the short period of time he owned the securities are all indications of his true intention, on the basis of which I find that he was entitled to deduct net business losses of $16,393, $24,703 and $2,435 in computing his income for the 2000, 2001 and 2002 taxation years, respectively.
+[15] For these reasons, the appeals are allowed.
+Signed at Ottawa, Canada, this 1st day of December 2005.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 30th day of April 2008.
+Brian McCordick, Translator
+CITATION: 2005TCC315
+COURT FILE NO.: 2004-3217(IT)I
+STYLE OF CAUSE: Bruno Laplante and Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: April 27, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: December 1, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne Poirier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

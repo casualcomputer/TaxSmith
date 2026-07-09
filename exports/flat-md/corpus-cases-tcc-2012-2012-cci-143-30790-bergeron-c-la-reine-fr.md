@@ -1,0 +1,141 @@
+---
+title: "Bergeron c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30790/index.do"
+last_modified: "2012-04-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 143"
+citation2: ""
+neutral_citation: "2012 CCI 143"
+decision_date: "2012-04-30"
+language: "fr"
+item_id: "30790"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7565
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:39:45.542000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f22f341029f7a5ac15e7c70f543a69d64613b05927dc1968ccf7d019396c3a29"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bergeron c. La Reine
+
+- Citation: 2012 CCI 143
+- Decision date: 2012-04-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7565, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bergeron c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-04-30
+Référence neutre
+2012 CCI 143
+Numéro de dossier
+2011-1191(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-1191(IT)I
+ENTRE :
+PIERRE BERGERON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 16 avril 2012, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Représentante de l'intimée :
+Mme Nancy Azzi, stagiaire en droit
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l’année d'imposition 2009 est rejeté, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 30e jour d’avril 2012.
+« Paul Bédard »
+Juge Bédard
+Référence : 2012 CCI 143
+Date : 20120430
+Dossier : 2011-1191(IT)I
+ENTRE :
+PIERRE BERGERON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] En l’espèce, la question en litige est de savoir si l’appelant, dans le calcul de son revenu, peut déduire une somme de 19 200 $ (déclarée à titre de pension alimentaire) qu’il a versée à sa conjointe en 2009.
+[2] L’appelant et madame Linda Dufour vivent séparés depuis le 1er décembre 2008 et sont aujourd’hui divorcés.
+[3] Selon le consentement à jugement sur les mesures accessoires déposé à la Cour supérieure du Québec et signé par l’appelant et madame Dufour en date du 25 septembre 2009 et du 2 octobre 2009 (voir pièce I‑1), il fut notamment convenu de ce qui suit :
+· à titre de somme globale, l’appelant paiera à son ex‑conjointe la somme de 19 200 $ que cette dernière reconnaît avoir déjà reçu;
+· à titre de frais, l’appelant paiera à son ex‑conjointe la moitié des honoraires qu’elle aura à assumer, jusqu’à concurrence de 1 500 $;
+· l’appelant s’engage à transférer à son ex‑conjointe, dans les trente jours du prononcé du jugement à intervenir, la somme de 64 879,52 $ représentant la moitié de la valeur du REER accumulé par l’appelant et son ex‑conjointe;
+· l’ex‑conjointe reconnaît avoir reçu la somme de 87 500 $, soit la moitié de la valeur de la résidence familiale établie par les parties;
+· le consentement indique que l’exécution complète du transfert de la somme de 64 879,52 $ constitue une quittance complète et finale de tous droits et recours en réclamation, entre autres, au titre d’une prestation compensatoire, d’une somme globale, du partage des biens, du partage du patrimoine familial et d’une pension alimentaire pour l’ex‑conjointe.
+[4] L’appelant s’est acquitté du paiement de la somme de 19 200 $ en effectuant trois paiements, soit 5 000 $, 10 000 $ et 4 200 $, lesquels ont été encaissés par l’ex‑conjointe entre le 13 juillet et le 6 août 2009.
+[5] En l’espèce, pour que l’appelant puisse déduire la somme de 19 200 $, celle‑ci doit constituer une pension alimentaire au sens donné à cette expression au paragraphe 56.1(4) de la Loi de l’impôt sur le revenu (la « Loi »). La définition de cette expression est ainsi rédigée :
+«pension alimentaire» Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est légalement le père ou la mère d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+[6] L’intimée soutient que l’appelant ne peut déduire les trois paiements totalisant 19 200 $ parce qu’ils ne répondent pas à la définition de « pension alimentaire » au sens de la Loi, en ce sens que les paiements dont la déduction est demandée n’étaient pas payables à titre d’allocations périodiques. L’intimée soutient, en s’appuyant sur les critères suivants, élaborés par la Cour d’appel fédérale dans l’arrêt McKimmon c. Le ministre du Revenu national, [1990] 1 C.F. 600, que les trois paiements forfaitaires constituent plutôt des sommes payées à titre de capital :
+[10] Voici certaines considérations dont on peut légitimement tenir compte, me semble-t-il, pour en arriver à une telle décision. Il ne s'agit évidemment pas d'une liste exhaustive.
+[11] 1. L'intervalle auquel les paiements sont effectués. Les sommes qui sont versées une fois par semaine ou une fois par mois peuvent facilement être qualifiées d'allocations d'entretien. Lorsque les paiements sont effectués à des intervalles plus longs, la question devient moins claire. Même si ce n'est pas impossible, il me paraîtrait difficile de considérer comme des allocations d'entretien des paiements faits à des intervalles plus longs qu'une année.
+[12] 2. Le montant des paiements par rapport au revenu et au niveau de vie du débiteur et du bénéficiaire. Lorsqu'un paiement représente une partie très importante du revenu d'un contribuable ou même l'excède, il est difficile de considérer un tel paiement comme une allocation d'entretien. Par ailleurs, lorsqu'un paiement ne dépasse pas ce qui serait censé être nécessaire au maintien du niveau de vie du bénéficiaire, il sera plus probablement admissible à titre d'allocation.
+[13] 3. Les paiements portent-ils intérêt avant leur date d'échéance? On associe plus souvent l'obligation de payer des intérêts à une somme forfaitaire payable par versements qu'à une véritable allocation d'entretien.
+[14] 4. Les sommes en question peuvent-elles être payées par anticipation au gré du débiteur ou peuvent-elles être exigibles immédiatement à titre de pénalité au gré du bénéficiaire en cas de défaut de paiement? Les dispositions en matière de paiements anticipés et d'exigibilité immédiate sont d'habitude associés à l'obligation de payer des sommes à titre de capital et non à une allocation d'entretien.
+[15] 5. Les paiements permettent-ils au bénéficiaire d'accumuler un capital important? Ce ne sont manifestement pas tous les paiements à titre de capital qui sont exclus d'une allocation d'entretien: l'expérience indique qu'à titre d'exemples des primes d'assurance-vie et des paiements hypothécaires mensuels réunis, même s'ils permettent une accumulation de capital au cours des années, constituent des frais normaux de subsistance qui sont payés sur le revenu et peuvent faire partie d'une allocation d'entretien. D'autre part, une telle allocation ne devrait pas permettre l'accumulation, sur une brève période, d'un capital important.
+[16] 6. Les paiements sont-ils censés continuer pendant une période indéfinie ou être d'une durée fixe? Une allocation d'entretien fera habituellement en sorte que ces paiements seront effectués pendant une période indéfinie ou jusqu'à l'arrivée d'un événement (par exemple la majorité d'un enfant) qui modifiera de façon importante les besoins du bénéficiaire. Les sommes payables pendant une durée fixe peuvent au contraire être plus facilement considérées comme un capital.
+[17] 7. Les paiements convenus peuvent-ils être cédés et l'obligation de payer subsiste-t-elle pendant toute la vie du débiteur ou du bénéficiaire? Une allocation d'entretien est habituellement versée à la personne même du bénéficiaire; elle est par conséquent incessible et prend fin à son décès. Une somme forfaitaire ou un capital, au contraire, fera normalement partie de la succession du bénéficiaire, elle peut donc être cédée et subsistera après son décès.
+[18] 8. Les paiements sont-ils censés libérer le débiteur de toute obligation future de verser une pension alimentaire? Dans l'affirmative, il est plus facile de considérer les paiements comme l'échange ou l'achat du coût en capital d'une allocation d'entretien.
+[7] L’appelant allègue essentiellement que le montant de 19 200 $ représente une pension alimentaire de 800 $ par mois étalée sur une période de 24 mois.
+[8] En l’espèce, la somme de 19 200 $ a été versée en trois paiements, soit 5 000 $, 10 000 $ et 4 200 $, encaissés par l’ex‑conjointe entre le 13 juillet et le 6 août 2009. Une fois les 19 200 $ versés, l’appelant a été libéré de toute réclamation future au titre d’une pension alimentaire pour conjoint. Par conséquent, je conclus que la somme de 19 200 $ ne constituait pas une « allocation périodique » au sens du paragraphe 56.1(4) de la Loi. Il ne s’agissait pas d’une pension alimentaire, mais plutôt d’une somme payée à titre de capital qui n’est pas déductible par l’appelant. Un montant forfaitaire versé dans une année d’imposition est admissible à titre d’allocation périodique lorsque l’on peut démontrer que le paiement forfaitaire représente des montants payables périodiquement qui n’étaient dus qu’après la date de l’ordonnance ou de l’accord écrit et qui étaient en souffrance. En l’espèce, l’appelant n’a pas fait une preuve satisfaisante que la somme de 19 200 $ représentait des montants payables périodiquement qui n’étaient dus qu’après la date d’une ordonnance ou d’un accord écrit et qui étaient en souffrance.
+[9] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 30e jour d’avril 2012.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2012 CCI 143
+Nº DU DOSSIER DE LA COUR : 2011-1191(IT)I
+INTITULÉ DE LA CAUSE : PIERRE BERGERON ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 16 avril 2012
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 30 avril 2012
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Représentante de l'intimée :
+Mme Nancy Azzi, stagiaire en droit
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

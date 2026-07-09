@@ -1,0 +1,210 @@
+---
+title: "Vachon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27391/index.do"
+last_modified: "2006-12-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 669"
+citation2: ""
+neutral_citation: "2006 CCI 669"
+decision_date: "2006-12-06"
+language: "fr"
+item_id: "27391"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 148
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:30:17.543000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5d9f727730aa8d47ff9620693f670977ace0a3e414b4d19eaaaf8b2e8c88b44c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vachon c. La Reine
+
+- Citation: 2006 CCI 669
+- Decision date: 2006-12-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 148, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vachon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-06
+Référence neutre
+2006 CCI 669
+Numéro de dossier
+2005-1380(IT)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1380(IT)G
+ENTRE :
+LUCIE VACHON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 31 mai 2006, à Trois-Rivières (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Benoit Mandeville
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté avec dépens en faveur de l'intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2006.
+« Alain Tardif »
+Juge Tardif
+Référence : 2006CCI669
+Date : 20061206
+Dossier : 2005-1380(IT)G
+ENTRE :
+LUCIE VACHON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de l'appel d'une cotisation établie par le ministre du Revenu national (le « ministre » ) en vertu de la Loi de l'impôt sur le revenu (la « Loi » )pour l'année d'imposition 2000.
+[2] Les principales questions en litige sont les suivantes :
+a) L'appelante a-t-elle réellement effectué un roulement en vertu du paragraphe 85(1) de la Loi en ce qui concerne les 45 actions de catégorie « A » qu'elle détenait dans la société 2743-0156 Québec inc. en faveur de la société de portefeuille 9084-3772 Québec inc.?
+b) Dans l'affirmative, le retard dans la présentation du formulaire T2057 est-il fatal à son acceptation par l'Agence des douanes et du revenu du Canada (l' « Agence » )? En outre, la Cour canadienne de l'impôt a-t-elle le pouvoir de réviser la décision relevant de l'exercice du pouvoir discrétionnaire du ministre d'accepter ou non ce formulaire?
+c) Dans la négative, le montant reçu par l'appelante lors de la vente de ses actions peut-il être considéré comme un dividende réputé au sens du paragraphe 84(3) de la Loi?
+LES FAITS
+[3] L'appelante était propriétaire de 45 actions de catégorie « A » de la société par actions 2743-0156 Québec inc. et le capital versé de l'ensemble de ces actions était de 45 $ au sens du paragraphe 89(1) de la Loi.
+[4] L'appelante a été mariée à monsieur Claude Martineau jusqu'au prononcé du jugement de divorce le 30 novembre 1999.
+[5] Conformément au jugement de divorce, les parties ont convenu que les 45 actions de catégorie « A » que l'appelante détenait dans la société 2743-0156 Québec inc. seraient rachetées par cette dernière dans un délai de 30 jours du jugement pour 150 000 $.
+[6] Toutefois, à la suite d'une entente intervenue entre les parties le même jour, les parties ont convenu que les actions de l'appelante seraient tout d'abord transférées, par un roulement en vertu du paragraphe 85(1) de la Loi, à une société de portefeuille nouvellement constituée par l'ex-conjoint de l'appelante et que ces actions seraient ensuite rachetées par la société 2743-0156 Québec inc. pour être finalement annulées.
+[7] Une société de portefeuille, 9084-3772 Québec inc., a donc été constituée le 19 novembre 1999.
+[8] Le formulaire de roulement T2057 n'est jamais parvenu à l'Agence et donc n'apparaît pas avec la déclaration de revenus de l'appelante pour l'année 2000.
+[9] Aucune preuve n'apparaît au dossier que les actions de catégorie « A » ont bel et bien été transférées par l'appelante à sa société de portefeuille 9084-3772 Québec inc.
+[10] La société de portefeuille 9084-3772 Québec inc. n'a procédé à aucune émission d'actions à l'appelante.
+[11] Au cours du mois de janvier 2000, 2743-0156 Québec inc. a effectué un achat de gré à gré des 45 actions de catégorie « A » de son capital-actions pour 150 000 $.
+[12] L'appelante a donc reçu du ministre un avis de cotisation daté du 31 décembre 2003 pour lequel il lui imposait de l'impôt sur un dividende réputé de 149 955 $ en vertu du paragraphe 84(3) de la Loi et, en conséquence, sur un dividende imposable de 187 444 $ selon les alinéas 82(1)a) et 12(1)j) de la Loi.
+LES PRÉTENTIONS DE L'APPELANTE
+[13] L'appelante soutient essentiellement que la forme ne devant pas l'emporter sur le fond, le retard dans la présentation du formulaire de roulement T2057 ne devrait pas être fatal à son acceptation par le ministre. Une telle sanction pour le retard constituerait une grave injustice.
+[14] Elle soutient que la Cour canadienne de l'impôt possède la compétence pour corriger l'injustice qu'a causée le ministre en n'acceptant pas le formulaire comme il pourrait le faire en vertu du paragraphe 85(7.1) de la Loi.
+[15] Elle affirme à la Cour qu'elle a véritablement transféré les actions de catégorie « A » qu'elle détenait dans la société 2743-0156 Québec inc. à la société de portefeuille 9084-3772 Québec inc.
+[16] Finalement, elle indique à la Cour que puisqu'elle n'était plus propriétaire des actions de catégorie « A » de la société 2743-0156 Québec inc. lors de leur achat de gré à gré, elle ne doit pas subir les conséquences du paragraphe 84(3) de la Loi et ne doit pas faire l'objet d'une cotisation pour un dividende réputé en vertu de cet article.
+LES PRÉTENTIONS DE L'INTIMÉE
+[17] Elle prétend qu'elle ne peut pas accepter le roulement selon le paragraphe 85(1) de la Loi, et cela, pour les raisons suivantes :
+a) Il n'y a eu aucun transfert des actions de catégorie « A » de l'appelante à la société de portefeuille 9084-3772 Québec inc.
+b) La société de portefeuille 9084-3772 Québec inc. n'a jamais procédé à l'émission d'actions de son capital-actions à l'appelante.
+c) L'appelante a fait défaut de présenter le formulaire prescrit par le paragraphe 85(6) de la Loi pour effectuer le roulement.
+d) L'appelante n'a pas envoyé le formulaire T2057 dans le délai prescrit par les paragraphes 85(6) et 85(7) de la Loi.
+[18] Elle soutient que la Cour canadienne de l'impôt n'a pas compétence pour entendre la contestation de l'appelante quant à l'exercice du pouvoir discrétionnaire du ministre de refuser le choix fait par l'appelante en vertu du paragraphe 85(1) de la Loi. Elle indique que seule la Cour fédérale est compétente pour réviser une telle décision, et ce, en vertu de l'article 18 de la Loi sur les Cours fédérales, L.R. 1985, ch. F-7.
+[19] Elle affirme que la raison pour laquelle le ministre n'a pas accepté le formulaire T2057, comme le paragraphe 85(7.1) de la Loi le lui permet, est que les conditions du roulement n'étaient pas satisfaites.
+[20] Elle soutient ensuite que l'appelante était toujours propriétaire des actions de catégorie « A » de la société 2743-0156 Québec inc. au moment de leur achat par cette dernière.
+[21] Enfin, elle dit que l'appelante est assujettie au paragraphe 84(3) de laLoi et qu'on doit donc lui imposer de l'impôt sur un dividende réputé de 149 955 $ pour son année d'imposition 2000.
+[22] Malgré la complexité de son dossier, l'appelante n'avait pas de représentant; manifestement bien préparée et s'exprimant très bien, elle a voulu déposer en preuve plusieurs documents.
+[23] Pour éviter les longueurs inutiles, j'ai conseillé aux parties de se rencontrer pour qu'elles puissent prendre connaissance des divers documents devant être éventuellement déposés au soutien de la preuve. Les parties se sont effectivement rencontrées pour discuter du contenu de divers documents. Au retour de la pause, le procureur de l'intimée a fait la déclaration suivante :
+[...]
+Me Benoit Mandeville : Oui. Donc, Monsieur le Juge, l'intimée va consentir au dépôt des documents de l'appelante. Ceci étant dit, lors de discussions qu'on a eues, l'appelante admettait qu'elle n'avait aucun élément de preuve au niveau du transfert de ses actions qu'elle détenait dans une compagnie, 2743-0156 Québec inc., en faveur de sa compagnie de gestion, là, nouvellement créée en 99, 9084-3772 Québec inc. Elle dit que dans tous ces documents-là ou d'autres choses qu'elle aurait pu apporter aujourd'hui, il n'y a rien qui démontre qu'elle a transféré ses actions à sa compagnie de gestion. La raison pour laquelle, puis l'appelante pourra le confirmer, qu'elle se présentait à la cour aujourd'hui, c'était pour contester la décision de l'intimée de refuser un choix tardif en vertu du paragraphe 85(1), tel que le permet, là, le pouvoir discrétionnaire du ministre en vertu du paragraphe 85(7.1). Donc ça semble être plus la décision du ministre de ne pas accepter le choix qui fait l'objet d'une contestation. Je ne sais pas si j'ai résumé, là?
+[24] L'appelante a répliqué :
+R. Tout à fait bien résumé. C'est que moi, en fait . . .
+MONSIEUR LE JUGE :
+Q. Écoutez bien, vous avez parfaitement compris ce qui vient d'être affirmé par le procureur de l'intimée.
+R. Exact.
+Q. Tout ce qu'il a dit, vous êtes en accord avec ça?
+R. Oui, Monsieur le Juge.
+Q. Ça va.
+R. C'est vraiment de faire la lumière sur le fait que si cette formule de roulement-là avait été produite, je n'aurais pas eu d'avis de cotisation, qui découle, oui, effectivement, d'une espèce de partage mais suite à un divorce. C'est une espèce aussi, oui, de transfert d'actions, où est-ce que moi je n'ai pas eu à - puis on a des documents qui corroborent aussi dans ce qu'on vous a remis, qui en fait, ça a été laissé à la libre discrétion de l'ex-conjoint de faire les démarches nécessaires pour monter la compagnie avec monsieur Gilles Ducharme, à l'époque, où est-ce que, oui, il y a peut-être eu des anomalies qui se sont produites mais je ne crois pas que si la formule de roulement avait été faite, que j'aurais eu un avis de cotisation. Car en fait, ce n'est pas un dividende réputé. Je n'ai pas utilisé cet argent-là, je n'ai pas joui de cet argent-là. Donc je crois injuste que ce soit appliqué comme un dividende puis que l'avis de cotisation qui en découle soit de cette nature-là. Donc je crois toujours que le Ministère n'a perdu aucune somme d'argent et n'en aurait perdu aucune si ce formulaire-là aurait été fait en bonne et due forme au début, et c'est ce que je demande, moi, en fait, la possibilité de déposer ce formulaire-là de roulement, avec la pénalité. Je suis prête à l'absorber mais pas l'avis de cotisation, parce que pour moi ce n'est pas un dividende réputé. Donc c'est vraiment là-dessus, dans ce sens-là que ce matin moi je suis ici.
+[...]
+[25] L'appelante semble penser que les fondements de la cotisation qu'elle conteste sont essentiellement liés à la question du formulaire et de son acceptation après le délai.
+[26] En d'autres termes, elle soutient que le seul fondement de l'avis de cotisation est la non-production du formulaire approprié visant le roulement prévu au paragraphe 85(6) de la Loi. Le formulaire relatif au roulement n'est pas aussi déterminant qu'elle le croit, et contrairement à ce que croit l'appelante, il ne s'agit pas essentiellement d'une question de forme, le fond étant au contraire prédominant.
+[27] En effet, il faut d'abord se demander si les conditions au paragraphe 85(1) de laLoi ont été satisfaites. Dans un deuxième temps, et seulement s'il s'avérait que les conditions du roulement sont respectées, il faut se demander si cette Cour a le pouvoir de réviser la décision discrétionnaire du ministre d'accepter ou non le formulaire de roulement en retard.
+A) Les conditions du paragraphe 85(1) de la Loi sont-elles satisfaites?
+[28] Voici l'extrait pertinent du paragraphe 85(1) de laLoi qui énonce les conditions fondamentales d'un roulement :
+85. (1) Lorsqu'un contribuable a disposé, au cours d'une année d'imposition, d'un bien admissible en faveur d'une société canadienne imposable et pour une contrepartie comprenant des actions du capital-actions de la société, et que le contribuable et la société en ont fait le choix sur le formulaire prescrit et conformément au paragraphe (6), [...]
+[Je souligne.]
+[29] Il importe aussi de savoir que les actions d'une société sont des « biens admissibles » aux fins de cet article :
+85. (1.1) Pour l'application du paragraphe (1), « bien admissible » s'entend :
+a) d'une immobilisation -- à l'exception d'un bien immeuble, d'un droit sur un tel bien, ou d'une option s'y rapportant, dont une personne non-résidente est propriétaire;
+[...]
+[30] Les conditions d'un roulement en vertu du paragraphe 85(1) de la Loi, exprimées d'une façon simplifiée, sont les suivantes :
+i) Avoir transféré des actions en faveur d'une société canadienne imposable :
+En l'espèce, aucune preuve de ce transfert n'a été fournie. L'appelante, lors de son témoignage, a admis être tout à fait d'accord avec les propos de l'avocat de l'intimée lorsqu'il a affirmé qu'il n'y avait rien, dans les documents qu'elle avait présentés à la Cour, qui démontre qu'elle avait transféré ses actions à sa société. La preuve ne permet donc pas de conclure qu'un transfert d'actions a eu lieu en faveur de la société de portefeuille de l'appelante.
+ii) Des actions du capital-actions de la société canadienne imposable doivent avoir été émises en échange :
+Dans les faits, encore là, la preuve ne permet pas de conclure qu'une émission d'actions en faveur de l'appelante par la société de portefeuille 9084-3772 Québec inc. ait eu lieu.
+[31] En conséquence, les critères essentiels au roulement n'ont pas été satisfaits, et je dois conclure qu'il n'y a pas eu de roulement en vertu du paragraphe 85(1) de laLoi des actions de catégorie « A » détenues par l'appelante.
+[32] Même si les précédents constats sont suffisants pour disposer de l'appel en faveur de l'intimée, je traiterai brièvement de la question secondaire de savoir si la Cour canadienne de l'impôt est compétente pour réviser la décision discrétionnaire du ministre quant à la recevabilité du formulaire après le délai prévu par le paragraphe 85(7.1) étant donné qu'il s'agit là du principal fondement de l'appelante quant au bien-fondé de son appel.
+[33] En l'espèce, le ministre disposait d'un pouvoir discrétionnaire en vertu de la Loi. Lorsqu'un pouvoir discrétionnaire est attribué au ministre, dont celui prévu au paragraphe 85(7.1) de la Loi, les tribunaux ne peuvent pas intervenir dans l'exercice du pouvoir. L'honorable juge Abbott, dans l'affaire Commission des relations de travail du Québec c. L'Association unie des compagnons et apprentis de l'industrie de la plomberie et tuyauterie des États-Unis et du Canada, [1969] R.C.S. 466, à la page 470, indiquait ce qui suit :
+L'article 33 confère à la Commission un pouvoir discrétionnaire et, règle générale, les tribunaux ne doivent pas intervenir dans l'exercice d'un pouvoir comme celui-là. [...]
+[34] Cette règle n'est toutefois pas absolue et ce pouvoir discrétionnaire n'est pas sans limite. En effet, les tribunaux se sont vus attribuer le droit de réviser certaines décisions par le biais du pouvoir de contrôle et de surveillance.
+[35] Il s'agit d'un pouvoir dont l'étendue est toutefois limitée à des situations très précises, notamment lorsqu'on a agi pour des fins illicites ou contraires à l'esprit de la Loi, si la décision administrative est fondée sur des considérations non pertinentes, si on a agi sans motif qui puisse justifier l'acte ou si on a agi de mauvaise foi ou de façon discriminatoire ou déraisonnable.
+[36] La Cour canadienne de l'impôt n'a cependant pas ce pouvoir de contrôle et de surveillance en matière fiscale; en effet, ce pouvoir a été expressément accordé à la Cour fédérale selon l'article 18.1 de la Loi sur les Cours fédérales, précitée :
+18.1 (1) Une demande de contrôle judiciaire peut être présentée par le procureur général du Canada ou par quiconque est directement touché par l'objet de la demande.
+(2) Les demandes de contrôle judiciaire sont à présenter dans les trente jours qui suivent la première communication, par l'office fédéral, de sa décision ou de son ordonnance au bureau du sous-procureur général du Canada ou à la partie concernée, ou dans le délai supplémentaire qu'un juge de la Cour fédérale peut, avant ou après l'expiration de ces trente jours, fixer ou accorder.
+(3) Sur présentation d'une demande de contrôle judiciaire, la Cour fédérale peut :
+a) ordonner à l'office fédéral en cause d'accomplir tout acte qu'il a illégalement omis ou refusé d'accomplir ou dont il a retardé l'exécution de manière déraisonnable;
+b) déclarer nul ou illégal, ou annuler, ou infirmer et renvoyer pour jugement conformément aux instructions qu'elle estime appropriées, ou prohiber ou encore restreindre toute décision, ordonnance, procédure ou tout autre acte de l'office fédéral.
+(4) Les mesures prévues au paragraphe (3) sont prises si la Cour fédérale est convaincue que l'office fédéral, selon le cas :
+a) a agi sans compétence, outrepassé celle-ci ou refusé de l'exercer;
+b) n'a pas observé un principe de justice naturelle ou d'équité procédurale ou toute autre procédure qu'il était légalement tenu de respecter;
+c) a rendu une décision ou une ordonnance entachée d'une erreur de droit, que celle-ci soit manifeste ou non au vu du dossier;
+d) a rendu une décision ou une ordonnance fondée sur une conclusion de fait erronée, tirée de façon abusive ou arbitraire ou sans tenir compte des éléments dont il dispose;
+e) a agi ou omis d'agir en raison d'une fraude ou de faux témoignages;
+f) a agi de toute autre façon contraire à la loi.
+(5) La Cour fédérale peut rejeter toute demande de contrôle judiciaire fondée uniquement sur un vice de forme si elle estime qu'en l'occurrence le vice n'entraîne aucun dommage important ni déni de justice et, le cas échéant, valider la décision ou l'ordonnance entachée du vice et donner effet à celle-ci selon les modalités de temps et autres qu'elle estime indiquées.
+[Je souligne.]
+[37] La Cour canadienne de l'impôt n'est pas compétente pour entendre une demande de contrôle judiciaire d'une décision discrétionnaire du ministre portant sur l'acceptation ou le refus du formulaire de roulement prévu au paragraphe 85(7.1) de la Loi. Cette compétence relève exclusivement de la Cour fédérale.
+[38] Bien que l'appelante ait particulièrement insisté sur la question du formulaire et sur sa recevabilité, son dossier soulevait une autre question fort importante.
+B) Le montant qu'elle a reçu lors de la vente de ses actions doit-il être considéré comme un dividende réputé au sens du paragraphe 84(3) de la Loi?
+[39] Le paragraphe 84(3) de la Loi se lit comme suit :
+84. (3) Lorsque, à un moment donné après le 31 décembre 1977, une société résidant au Canada a racheté, acquis ou annulé de quelque façon que ce soit (autrement que par une opération visée au paragraphe (2)) toute action d'une catégorie quelconque de son capital-actions :
+a) la société est réputée avoir versé au moment donné un dividende sur une catégorie distincte d'actions constituée des actions ainsi rachetées, acquises ou annulées, égal à l'excédent éventuel de la somme payée par la société lors du rachat, de l'acquisition ou de l'annulation, selon le cas, de ces actions sur le capital versé relatif à ces actions, existant immédiatement avant ce moment;
+b) chacune des personnes qui détenaient au moment donné une ou plusieurs actions de cette catégorie distincte est réputée avoir reçu à ce moment un dividende égal à la fraction de l'excédent déterminé en vertu de l'alinéa a) représentée par le rapport existant entre le nombre de ces actions que détenait cette personne immédiatement avant ce moment et le nombre total des actions de cette catégorie distincte que la société a rachetées, acquises ou annulées, à ce moment.
+[Je souligne.]
+[40] À la suite de la lecture de ce qui précède, les dispositions très claires font en sorte que dès qu'une société acquiert des actions de son propre capital-actions, cela a pour effet de créer un dividende réputé.
+[41] Étant donné que la société 2743-0156 Québec inc. a procédé à l'achat de gré à gré des 45 actions de catégorie « A » de son capital-actions, le paragraphe 84(3) doit s'appliquer, et, en conséquence, un dividende est réputé avoir été reçu par l'appelante à la suite du rachat des actions en question.
+[42] Cela étant, l'appelante était-elle propriétaire des actions de catégorie « A » de la société 2743-0156 Québec inc. au moment où cette dernière a procédé à leur achat de gré à gré?
+[43] Étant donné l'absence de transfert des actions de catégorie « A » de l'appelante à sa société de portefeuille 9084-3772 Québec inc., l'appelante détenait toujours les actions de catégorie « A » de la société au moment de leur achat. L'application du dividende réputé est donc justifiée.
+[44] Pour toutes ces raisons, l'appel est rejeté avec dépens en faveur de l'intimée.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2006.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2006CCI669
+N º DU DOSSIER DE LA COUR : 2005-1380(IT)G
+INTITULÉ DE LA CAUSE : Lucie Vachon et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Trois-Rivières (Québec)
+DATE DE L'AUDIENCE : le 31 mai 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 6 décembre 2006
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Benoit Mandeville
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

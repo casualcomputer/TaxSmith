@@ -1,0 +1,206 @@
+Title: Yazdani c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30996/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-371-30996-yazdani-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-10-19
+
+# Yazdani c. La Reine
+
+- Citation: 2012 CCI 371
+- Decision date: 2012-10-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4849, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yazdani c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-10-19
+Référence neutre
+2012 CCI 371
+Numéro de dossier
+2011-3871(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3871(IT)I
+ENTRE :
+HASSAN YAZDANI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 4 juillet 2012, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Jonathan Wittig
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 sont rejetés, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 19e jour d’octobre 2012.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 3e jour de décembre 2012.
+Alya Kaddour, traductrice
+Référence : 2012CCI371
+Date : 20121019
+Dossier : 2011-3871(IT)I
+ENTRE:
+HASSAN YAZDANI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’appels interjetés sous le régime de la procédure informelle à l’égard de nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1. (5e suppl.), dans sa forme modifiée (la « Loi »), par le ministre du Revenu national (le « ministre ») à l’égard de l’appelant pour les années d’imposition 2002 et 2003.
+[2] Les questions en litige sont les suivantes :
+a) savoir si l’appelant a le droit de déduire de son revenu des montants de 27 510 $ et de 8 873 $ pour les années d’imposition 2002 et 2003 respectivement au titre d’un investissement appelé l’investissement dans Regions Training Institute (« RTI ») (l’« investissement »);
+b) savoir si l’appelant, quand il a déclaré son revenu et ses dépenses et quand il a produit ses déclarations de revenus pour les années d’imposition 2002 et 2003, a effectué une présentation erronée des faits par négligence, inattention ou omission volontaire en ce qui a trait aux années en cause.
+Le contexte
+[3] Quand il a produit ses déclarations de revenus pour 2002 et 2003, dans l’état des résultats qu’il a présenté, l’appelant a demandé la déduction de montants de 27 510 $ et de 8 873 $ respectivement au titre de l’investissement. Plus précisément :
+a) le 14 avril 2003, l’appelant a produit une déclaration de revenus des particuliers non signée pour 2002 dans laquelle il demandait le remboursement d’une somme de 13 480,45 $;
+b) le 9 mars 2004, l’appelant a produit une déclaration de revenus des particuliers signée pour 2003 dans laquelle il demandait le remboursement d’une somme de 12 525,97 $.
+[4] À l’origine, le ministre a établi des cotisations à l’égard de l’appelant pour les années d’imposition 2002 et 2003 en se fondant sur les déclarations de l’appelant telles qu’elles avaient été produites, et il a autorisé les déductions demandées relativement à l’investissement par des avis datés du 5 mai 2003 et du 14 avril 2004, respectivement.
+[5] Le 7 octobre 2010, l’appelant a fait l’objet de nouvelles cotisations (les « nouvelles cotisations d’octobre 2010 ») relativement aux années d’imposition 2002 et 2003. Par ces nouvelles cotisations, l’appelant s’est vu refuser les déductions qu’il avait demandées au titre de l’investissement.
+[6] Les nouvelles cotisations à l’égard de l’appelant pour les années d’imposition 2002 et 2003 ont été établies après la période normale de nouvelle cotisation.
+[7] L’appelant s’est opposé aux nouvelles cotisations d’octobre 2010 en signifiant un avis d’opposition qu’il a posté le 8 décembre 2010, le cachet de la poste faisant foi, et que le ministre a reçu le 9 décembre 2010.
+[8] Le ministre a négocié une entente de règlement avec l’appelant, et, le 22 septembre 2011 :
+a) avec l’accord de l’appelant, le ministre a modifié la nouvelle cotisation pour l’année d’imposition 2003, autorisant l’appelant à déduire de son revenu une perte en capital de 25 250 $ ainsi qu’une perte en capital nette déductible de 12 625 $;
+b) le ministre a délivré un avis de ratification pour l’année d’imposition 2002.
+Les hypothèses de fait du ministre
+[9] Pour calculer l’impôt dû par l’appelant pour les années d’imposition 2002 et 2003, le ministre s’est fondé sur les hypothèses de fait suivantes, énoncées au paragraphe 8 de la réponse à l’avis d’appel :
+[traduction]
+Quand il a calculé le montant de l’impôt dû par l’appelant pour les années d’imposition 2002 et 2003, le ministre a énoncé les hypothèses de fait suivantes :
+a) les faits tels qu’ils ont été énoncés et admis ci‑dessus;
+L’appelant
+b) l’appelant est machiniste de profession;
+c) pendant les années 2002 et 2003, l’appelant a reçu respectivement 62 518 $ et 58 135 $ d’un employeur appelé Richmond Machine Works Ltd. (« Machine Works »);
+Le travail autonome
+d) pendant les années 2002 et 2003, l’appelant exploitait une entreprise individuelle sous le nom commercial de Yazdani Enterprises (« Enterprises »), et il fournissait des services à des clients dans la grande région de Vancouver, dans le Lower Mainland de la Colombie‑Britannique;
+e) l’activité déclarée d’Enterprises était l’usinage;
+f) Enterprises était exploitée :
+i) après que l’appelant avait terminé son travail auprès de Machine Works;
+ii) depuis la résidence principale de l’appelant, située à Coquitlam (Colombie‑Britannique);
+g) Enterprises a été exploitée du 1er janvier au 31 décembre, en 2002 et en 2003;
+Le revenu d’entreprise brut
+h) l’appelant a tiré d’Enterprises un revenu d’entreprise brut de 12 692 $ et de 10 481 $ en 2002 et en 2003 respectivement;
+Les dépenses d’Enterprises
+i) l’appelant a supporté le coût des marchandises vendues et les dépenses d’entreprise, qui s’élevaient respectivement à 24 704 $ et à 42 224 $ en 2002 et en 2003, comme cela est décrit en détail dans les annexes « A » et « B » ci‑jointes;
+j) l’appelant n’a pas fait les dépenses qu’il a déduites de son revenu en sus de celles que le ministre a autorisées pour 2002 et 2003 relativement à Enterprises, comme le décrivent en détail les annexes « A » et « B », respectivement, ou, si ces dépenses ont bel et bien été faites, il s’agissait de dépenses qui n’avaient pas été faites pour gagner un revenu d’entreprise ou il s’agissait de dépenses en capital;
+Le véritable investissement dans RTI
+k) dans le courant de l’année 2001, l’appelant a versé à son ancien comptable, Samir Fawaz (« M. Fawaz ») un montant total de 31 000 $ au titre de l’investissement;
+l) le montant investi a été envoyé à M. Sawaz [sic] à titre de participation dans l’une ou l’autre des entreprises suivantes :
+i) une entreprise de location de taxis;
+ii) une école de formation;
+m) l’investissement était désigné sous les noms suivants :
+i) Regions Co of Shipping;
+ii) Regions Company of Shipping Transport & Clearing;
+iii) Regions Training Institute;
+iv) RTI;
+n) pendant les années d’imposition 2001, 2002 et 2003, l’appelant n’est pas intervenu directement dans les activités de Regions;
+o) pendant l’année d’imposition 2002, l’appelant a reçu de Regions les paiements suivants aux dates suivantes :
+i) 1 750 $ le 7 janvier 2002;
+ii) 2 000 $ le 7 juin 2002;
+iii) 2 000 $ le 30 septembre 2002;
+iv) 1 200 $ le 19 décembre 2002;
+p) en tout, l’appelant a récupéré 6 950 $ des sommes investies dans Regions;
+q) le montant résiduel que l’appelant n’avait récupéré ni de Regions ni de M. Sawaz [sic] pendant les années d’imposition 2002 ou 2003 s’élevait à 24 050 $;
+r) le ministre a commis une erreur lorsqu’il a calculé que le montant résiduel que l’appelant n’avait pas récupéré s’élevait à 25 250 $ (la « perte »);
+s) l’appelant n’avait pas précédemment inclus la perte à titre de source de revenu d’entreprise dans le calcul de son revenu, que ce soit pour l’année d’imposition 2002 ou 2003, ou pour d’autres années;
+t) la perte n’était pas une créance irrécouvrable;
+u) la perte était une perte en capital.
+[10] Pour établir que l’appelant a effectué une présentation erronée des faits attribuable à la négligence, à l’inattention ou à une omission volontaire, ou encore à une fraude, dans les déclarations de revenus qu’il a produites pour les années d’imposition 2002 et 2003, le ministre s’est fondé sur les faits suivants, énoncés au paragraphe 9 de la réponse à l’avis d’appel :
+[traduction]
+a) les faits déjà énoncés et admis dans la présente réponse;
+b) quand il a rencontré en entrevue Mme Yang et un second enquêteur le 4 janvier 2010, l’appelant ne se rappelait pas avoir fait l’investissement;
+c) l’appelant a témoigné en détail au sujet de Regions dans le contexte des appels interjetés par sa femme devant la Cour canadienne de l’impôt, appels portant les numéros de dossier de la Cour 2007-2655(EI) et 2007‑2656(CPP);
+d) l’appelant savait que Regions connaissait un problème de liquidités;
+e) l’appelant a demandé à déduire de son revenu des pertes s’élevant à respectivement à 27 510 $ en 2002 et à 8 873 $ [en 2003] relativement à l’investissement, ce qui correspondait respectivement à 44 % et à 18 % de son revenu avant impôts pour ces années d’imposition, et il s’agissait par conséquent de pertes considérables.
+[11] L’appelant a témoigné à l’audience et a confirmé que c’était son ancien comptable, M. Fawaz, qui avait préparé ses déclarations de revenus pour les années d’imposition 2002 et 2003, et que celui‑ci avait eu recours à des pratiques frauduleuses pour obtenir des investissements de la part de ses clients. L’appelant a dit à la Cour que M. Fawaz s’était servi de son numéro d’entreprise pour permettre à une autre personne de recevoir de l’assurance-emploi.
+[12] L’appelant a été contacté pour la première fois le 29 avril 2009 par Jane Yang de l’Agence du revenu du Canada (l’« ARC »), qui menait une enquête sur les agissements criminels de M. Fawaz en matière d’impôt, et, dans une lettre datée du 1er mai 2009, Mme Yang a demandé à l’appelant de participer à une entrevue, sur une base volontaire, parce qu’elle avait des raisons de croire qu’il pouvait détenir des informations qui l’aideraient dans son enquête. Bien que Mme Yang ait clairement affirmé dans cette lettre que l’appelant et son entreprise ne faisaient pas l’objet d’une vérification ou d’une enquête, les points de discussion auxquels il a été précisément fait référence étaient les suivants : (i) l’investissement, tel que l’appelant l’a déduit déclaré dans ses déclarations de revenus pour 2002 et 2003; (ii) les paiements effectués à M. Fawaz ou de ses entreprises, ou reçus de ceux‑ci; et (iii) les relations d’affaires de l’appelant avec M. Fawaz ou ses entreprises. Lors de l’entrevue, qui a eu lieu le 4 janvier 2010, l’appelant a informé les enquêteurs de l’ARC (i) qu’il faisait confiance à son comptable et qu’il n’avait pas lu ses déclarations de revenus, (ii) qu’il ne se rappelait pas avoir fait l’investissement, (iii) qu’il n’a jamais acheté de pertes de M. Fawaz ou de ses entreprises, et (iv) qu’il n’avait jamais été impliqué dans les activités de M. Fawaz. En outre, l’appelant s’est engagé à vérifier ses dossiers afin de fournir des explications au sujet des pertes qu’il avait déduites de son revenu.
+[13] Dans son témoignage, l’appelant a affirmé avoir été dupé par l’ARC et par son ancien comptable. Il n’a jamais donné son accord à l’entente du 22 septembre 2011 avec l’ARC, selon laquelle on lui refusait la déduction de ses pertes d’entreprise pour 2002 et 2003 et on l’autorisait à déduire un montant de 25 250 $ à titre de perte en capital pour 2003, sans lui imposer de pénalités pour faute lourde. Il a ajouté qu’il n’avait pas effectué de présentation erronée des faits dans ses déclarations de revenus pour les années d’imposition 2002 et 2003.
+[14] Mme Yang a également témoigné à l’audience. Elle a expliqué qu’elle avait donné à l’appelant un délai de huit mois pour fournir des documents susceptibles de justifier l’investissement. L’appelant ne lui a jamais envoyé pareils documents, et, en septembre 2010, une dernière lettre a été envoyée à l’appelant pour lui signifier qu’on lui refusait la déduction de ses pertes. Par la suite, l’appelant a téléphoné à Mme Yang et lui a dit qu’il ne pouvait pas fournir les documents en question parce que l’ARC avait saisi tous ses dossiers pour mener son enquête au sujet de M. Fawaz. Mme Yang a informé l’appelant que les documents saisis n’avaient pas de rapport avec les années d’imposition 2002 et 2003 et qu’ils ne contenaient aucune preuve du fait qu’il avait effectué des paiements à RTI.
+[15] Lorsqu’elle a témoigné, Mme Yang a informé la Cour que la femme de l’appelant, Sherry Pai, avait travaillé pour Regions du 6 mai au 18 octobre 2002 et que l’appelant avait donné beaucoup de détails au sujet de Regions dans le contexte des appels interjetés par sa femme devant la Cour (2008 CCI 456). Il ressort des déclarations de l’appelant dans ces appels qu’il savait que Regions connaissait des problèmes de liquidités, et il a été incapable d’expliquer pourquoi il avait investi davantage d’argent dans RTI dans de telles circonstances.
+[16] Les documents concernant l’investissement ont été présentés à l’ARC le 2 juin 2011 à l’occasion de l’examen des avis d’opposition de l’appelant. Les deux ententes suivantes figuraient au nombre de ces documents :
+a) un [traduction] « contrat de location de quatre taxis d’aéroport » daté du 23 mars 2001 conclu entre Regions Company for Shipping Transport & Clearing d’une part et l’appelant et sa femme d’autre part, lequel contrat était assorti d’un investissement de 11 391,10 $;
+b) une entente de prêt datée du 12 octobre 2001 conclue entre l’appelant et M. Fawaz au sujet d’un investissement de 35 000 $ dans RTI, ce qui représentait 9 % de la société. Ce prêt devait être remboursé au moyen de versements mensuels de 1 750 $ à compter de décembre 2001, et les deux parties pouvaient annuler l’entente en donnant un préavis écrit de 60 jours. Il n’était pas question de taux d’intérêt dans cette entente.
+[17] L’entente de prêt correspondait en fait à la consolidation de tous les investissements faits par l’appelant, étant donné que l’entreprise de location de taxis d’aéroport ne marchait pas bien, mais le montant total des investissements effectués était limité à 31 000 $.
+Analyse
+[18] En l’espèce, les dispositions pertinentes de la Loi sont les alinéas 3a) et b), le sous‑alinéa 20(1)p)(i), les alinéas 38a) et b), l’alinéa 50(1)a) et les sous‑alinéas 152(4)a)(i) et 152(4.01)a)(i). Ces dispositions sont ainsi rédigées :
+3. Revenu pour l’année d’imposition – Pour déterminer le revenu d’un contribuable pour une année d’imposition, pour l’application de la présente partie, les calculs suivants sont à effectuer :
+a) le calcul du total des sommes qui constituent chacune le revenu du contribuable pour l’année (autre qu’un gain en capital imposable résultant de la disposition d’un bien) dont la source se situe au Canada ou à l’étranger, y compris, sans que soit limitée la portée générale de ce qui précède, le revenu tiré de chaque charge, emploi, entreprise et bien;
+b) le calcul de l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii):
+(i) le total des montants suivants :
+(A) ses gains en capital imposables pour l’année tirés de la disposition de biens, autres que des biens meubles déterminés,
+(B) son gain net imposable pour l’année tiré de la disposition de biens meubles déterminés,
+(ii) l’excédent éventuel de ses pertes en capital déductibles pour l’année, résultant de la disposition de biens autres que des biens meubles déterminés sur les pertes déductibles au titre d’un placement d’entreprise pour l’année, subies par le contribuable;
+20(1) Déductions admises dans le calcul du revenu tiré d’une entreprise ou d’un bien – Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+p) Créances irrécouvrables – le total des montants suivants :
+(i) les créances du contribuable qu’il a établies comme étant devenues irrécouvrables au cours de l’année et qui sont incluses dans le calcul de son revenu pour l’année ou pour une année d’imposition antérieure,
+[…]
+38. Sens de gain en capital imposable et de perte en capital déductible – Pour l’application de la présente loi :
+a) [gain en capital imposable – général] – sous réserve des alinéas a.1) et a.2), le gain en capital imposable d’un contribuable pour une année d’imposition, tiré de la disposition d’un bien, est égal à la moitié du gain en capital qu’il a réalisé pour l’année à la disposition du bien;
+[…]
+b) [perte en capital déductible] – la perte en capital déductible d’un contribuable, pour une année d’imposition, résultant de la disposition d’un bien est égale à la moitié de la perte en capital que le contribuable a subie, pour l’année, à la disposition du bien;
+[…]
+50(1) Créances reconnues comme irrécouvrables et actions d’une société en faillite – Pour l’application de la présente sous-section, lorsque, selon le cas :
+a) un contribuable établit qu’une créance qui lui est due à la fin d’une année d’imposition (autre qu’une créance qui lui serait due du fait de la disposition d’un bien à usage personnel) s’est révélée être au cours de l’année une créance irrécouvrable;
+152(4) Cotisation et nouvelle cotisation [délai de prescription] – Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[…]
+(4.01) Cotisation à laquelle s’appliquent les alinéas 152(4)a) ou b) – Malgré les paragraphes (4) et (5), la cotisation, la nouvelle cotisation ou la cotisation supplémentaire à laquelle s’appliquent les alinéas (4)a) ou b) relativement à un contribuable pour une année d’imposition ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans la mesure où il est raisonnable de considérer qu’elle se rapporte à l’un des éléments suivants :
+a) en cas d’application de l’alinéa (4)a) :
+(i) une présentation erronée des faits par le contribuable ou par la personne ayant produit la déclaration de revenu de celui-ci pour l’année, effectuée par négligence, inattention ou omission volontaire ou attribuable à quelque fraude commise par le contribuable ou cette personne lors de la production de la déclaration ou de la communication de quelque renseignement sous le régime de la présente loi,
+[…]
+[19] La preuve montre que l’appelant n’a récupéré que 6 950 $ sur son investissement de 31 000 $, et rien ne nous permet de savoir si ce montant de 6 950 $ correspondait à des intérêts ou à du capital ou à une combinaison d’intérêts et de capital. Les documents que l’appelant a présentés pour prouver son investissement ne paraissent pas authentiques; ils contiennent de nombreuses incohérences et contradictions. M. Fawaz a été accusé d’évasion fiscale et de fraude criminelle parce qu’on présume qu’il a vendu des pertes d’entreprise à des contribuables.
+[20] Par ailleurs, l’appelant a convaincu l’ARC qu’il n’avait pas vraiment investi 31 000 $ dans l’entreprise de M. Fawaz, ce qui explique que l’ARC ait autorisé l’appelant à déduire de son revenu une perte en capital de 25 250 $ pour l’année d’imposition 2003, en application de l’alinéa 50(1)a) de la Loi. L’appelant n’a pas été en mesure de récupérer le reste de son investissement parce que M. Fawaz a déclaré faillite.
+[21] L’appelant n’avait pas le droit, dans le calcul de son revenu tiré d’une entreprise pour l’année d’imposition, de déduire de son revenu le montant de sa perte en application du sous‑alinéa 20(1)p)(i) de la Loi parce qu’il n’exploitait pas une entreprise de prêt d’argent. Par conséquent, la perte était une perte en capital. En outre, la perte subie par l’appelant n’était pas une créance irrécouvrable qui avait été incluse dans le calcul du revenu de l’appelant pour l’année ou pour une année d’imposition antérieure, comme l’exige le sous‑alinéa 20(1)p)(i) de la Loi.
+[22] En ce qui a trait au pouvoir du ministre d’établir une nouvelle cotisation à l’égard de l’appelant pour les années d’imposition 2002 et 2003, j’ai conclu que l’appelant a, lorsqu’il a rempli ses déclarations de revenus pour les années d’imposition 2002 et 2003 et lorsqu’il a fourni les renseignements exigés par la Loi, effectué une présentation erronée des faits par négligence, inattention ou omission volontaire, et que le ministre pouvait établir de nouvelles cotisations à l’égard de l’appelant pour ces années d’imposition.
+[23] Au cours de l’entrevue menée par les enquêteurs de l’ARC le 4 janvier 2010, l’appelant a affirmé ne pas se rappeler avoir fait des investissements dans les présumées entreprises de M. Fawaz. Au vu des documents que l’avocat de l’appelant a fournis par la suite et des déclarations de l’appelant dans le contexte des appels interjetés par sa femme devant la Cour, il s’agissait clairement d’une fausse déclaration.
+[24] Lors de son témoignage en l’espèce, l’appelant a clairement déclaré qu’il avait signé des documents sans les lire; il a donc nécessairement signé ces papiers sans vérifier les informations qu’ils contenaient. L’appelant n’a pas signé sa déclaration de revenus pour 2002, mais il a bien signé sa déclaration pour 2003.
+[25] La perte de 27 510 $ que l’appelant a demandé à déduire de son revenu relativement à l’investissement dans sa déclaration de revenus pour 2002 représente 44 % de son revenu avant impôt pour cette année‑là, et la perte de 8 873 $ qu’il a demandé à déduire relativement à l’investissement dans sa déclaration de revenus pour 2003 représente 18 % de son revenu avant impôt pour cette année‑là. En l’espèce, les pertes que l’appelant a demandé à déduire de son revenu étaient considérables.
+[26] À la lumière de la preuve, je suis convaincu que l’appelant a fait preuve de négligence lorsqu’il a produit ses déclarations de revenus pour les années d’imposition 2002 et 2003 et lorsqu’il a fourni aux vérificateurs de l’ARC les informations pertinentes exigées par la Loi. Pour parvenir à cette conclusion, je me suis appuyé sur les commentaires suivants, que le juge Strayer a formulés dans la décision Venne c. Canada, 84 DTC 6247, à la page 6251 :
+Je suis convaincu qu'il suffit au Ministre, pour invoquer son pouvoir en vertu de l'alinéa 152(4)a)(i) de la Loi, de démontrer la négligence du contribuable, à l'égard d'un ou plusieurs éléments de sa déclaration de revenus au titre d'une année donnée. Cette négligence est établie s'il est démontré que le contribuable n'a pas fait preuve de diligence raisonnable. C'est sûrement là le sens des termes « présentation erronée des faits, par négligence », en particulier avec d'autres motifs comme l'inattention ou l'omission volontaire qui font référence à un degré de négligence plus élevé ou à une mauvaise conduite délibérée. […]
+[27] Pour l’ensemble des présents motifs, les appels interjetés par l’appelant à l’égard des cotisations établies à son endroit en vertu de la Loi pour les années d’imposition 2002 et 2003 seront rejetés.
+Signé à Ottawa, Canada, ce 19e jour d’octobre 2012.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 3e jour de décembre 2012.
+Alya Kaddour, traductrice
+RÉFÉRENCE : 2012 CCI 371
+NO DU DOSSIER DE LA COUR : 2011-3871(IT)I
+INTITULÉ : Hassan Yazdani c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 4 juillet 2012
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 19 octobre 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Jonathan Wittig
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

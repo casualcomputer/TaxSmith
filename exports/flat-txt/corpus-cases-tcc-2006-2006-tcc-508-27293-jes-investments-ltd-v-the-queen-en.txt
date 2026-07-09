@@ -1,0 +1,203 @@
+Title: JES Investments Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27293/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-508-27293-jes-investments-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-09-27
+
+# JES Investments Ltd. v. The Queen
+
+- Citation: 2006 TCC 508
+- Decision date: 2006-09-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 900, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+JES Investments Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-27
+Neutral citation
+2006 TCC 508
+File numbers
+2004-3016(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3016(IT)G
+BETWEEN:
+JES INVESTMENTS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 8, 2006, at Regina, Saskatchewan
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Counsel for the Appellant:
+Hal B. Wellsch
+Counsel for the Respondent:
+Jon Gilbert
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1998 taxation year is allowed, with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached Reasons for Judgment, on the basis that the Appellant is entitled to claim a capital loss in respect of the shares acquired from Deena Energy Inc.
+Signed at Ottawa, Canada, this 27th day of September, 2006.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2006TCC508
+Date: 20060927
+Docket: 2004-3016(IT)G
+BETWEEN:
+JES INVESTMENTS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, JES Investments Ltd., is appealing the reassessment of the Minister of National Revenue disallowing eligible Canadian exploration expenses ("CEE") of $100,000 claimed pursuant to section 66 of the Income Tax Act.
+Facts
+[2] No evidence was called at the hearing. The parties filed a Partial Statement of Agreed Facts[1] which included a copy of the Subscription and Renunciation Agreement[2]:
+PARTIAL AGREEMENT OF AGREED FACTS
+The parties agree that the following are, for the purposes of this proceeding only, facts upon which the Court may base its decision. The parties shall be free to introduce additional facts in evidence at trial, provided that any facts sought to be introduced in evidence at trial do not contradict in any way the facts agreed to herein. All statutory references are to the Income Tax Act (the "Act").
+1. Prior to 1998, Deena Energy Inc. ("Deena") was a corporation whose business was oil and gas exploration and development.
+2. In November or December 1997, the Appellant subscribed for and received 90,090 common shares of Deena (the "Shares"), for an aggregate consideration of $100,000 (the "Subscription Amount"), on terms ... in the Subscription and Renunciation Agreement attached as Schedule "A" to this partial statement of agreed facts.
+3. Pursuant to the subscription agreement for the Shares (the "Agreement"), Deena agreed to incur CEE or eligible Canadian development expenses in an amount equal to the Subscription Amount on or before December 31, 1998, and to renounce such expenses to the Appellant in accordance with the Act.
+4. The Appellant entered into the Agreement with the intention of purchasing Shares that would qualify as flow-through shares under the Act.
+5. On January 28, 1998 Deena purported to renounce CEE of $100,000 to the Appellant, effective as of November 1, 1997.
+6. On filing its tax return for its 1998 taxation year, the Appellant claimed a $100,000 CEE deduction.
+7. Deena did not incur any expenditure eligible for renunciation to the Appellant.
+8. The Minister of National Revenue (the "Minister") initially assessed the Appellant for its 1998 taxation year by notice dated December 10, 1998.
+9. In computing its income for its 1998 taxation year, the Appellant deducted $100,000 of Canadian exploration expenses ("CEE") that Deena Energy Inc. ("Deena") purported to have incurred and renounced to the Appellant under subsection 66(12.6).
+10. By Notice of Reassessment dated February 24, 2003 (the "Reassessment"), the Minister reassessed the Appellant's 1998 taxation year. In so doing, the Minister disallowed the Appellant's $100,000 CEE deduction and imposed a penalty under subsection 163(2).
+11. On May 22, 2003 the Appellant filed a Notice of Objection to the Reassessment.
+12. On June 1, 2004 and in response to the Notice of Objection, the Minister issued a reassessment vacating the subsection 163(2) penalty, but in all other respects confirmed the February 24, 2003 reassessment.
+[3] Paragraphs 3 and 4 of the Partial Statement of Agreed Facts set out what was supposed to occur. As shown in paragraphs 5 and 7, Deena failed to fulfill its obligations under the Subscription and Renunciation Agreement. Contrary to what had been agreed, Deena did not incur any CEE in respect of the $100,000 received from the Appellant, thus rendering the Appellant ineligible for a CEE deduction. To make matters worse, Deena also provided the Appellant with what was, on its face, the renunciation required under the Act and as contemplated by their agreement.
+[4] On the basis of Deena's representations, the Appellant claimed a CEE of $100,000 in its 1998 return. It was not until the end of that year, after Deena had gone into receivership, that the reality of the situation began to appear. Upon his initial review of the company's books and records, the receiver concluded that Deena had incurred only $29,277 of CEE and issued an amended T101 Supplementary form to the Appellant. After further review and a ministerial audit, it was ultimately determined that none of the $100,000 advanced had been put to this purpose.
+[5] By the time the true state of affairs became known, Deena was without assets and out of business, leaving the Appellant without any effective remedy to the situation in which it found itself.
+[6] The Minister reassessed the Appellant's 1998 and, quite rightly, disallowed the CEE deduction on the basis that no CEE had been incurred by Deena as required by subsection 66(12.6)[3] of the Act. The Minister further concluded, however, that because the Deena shares had been issued to the Appellant under the Subscription and Renunciation Agreement, they were "flow-through shares"[4]; as such, pursuant to subsection 66.3(3)[5], their adjusted cost base was deemed to be nil. Notwithstanding that the Appellant had, in fact, legitimately invested $100,000 in what had become worthless shares in a corporation that had not used the consideration received for those shares in exploration, according to the Minister the Appellant was precluded by the effect of the deeming provision from experiencing a capital loss in respect of them.
+Issue
+[7] The issue in whether the Appellant is entitled to a capital loss in respect of $100,000 paid for the Deena shares.
+Analysis
+[8] Counsel were agreed that the purpose of the CEE was to provide an incentive for taxpayers to invest in Canadian companies engaged in exploration. The CEE regime achieved at least three objectives: first, it relieved the government from funding exploration directly from its own coffers. Meanwhile, it provided exploration companies with a source of working capital, often in short supply for such risky ventures. And for investing taxpayers, it ensured (at the very least) a tax deductible loss, with the possibility of a gain upon the disposition of the acquired shares.
+[9] It is common ground that the parties intended to structure their affairs in accordance with the CEE regime requirements. It is equally clear that the Appellant fulfilled all of its obligations under the Subscription and Renunciation Agreement. There is no suggestion that the agreement or the transaction was any sort of sham. The only fly in the ointment was Deena, upon whose proper performance of the Subscription and Renunciation Agreement the Appellant was entirely reliant for its CEE deduction eligibility.
+[10] It is the Respondent's contention that subsection 66.3(3) precludes the Appellant from claiming a capital loss because:
+"... a flow-through share is defined by the terms of the agreement under which it's issued. Subsection 66(15) clearly states that once it's issued, it's a flow-through share, and failure to incur and renounce the expenses that are provided for under the contract doesn't change it's characterizations of a flow-through share."[6]
+In support of this proposition, counsel for the Respondent cited various publications[7] positing, among other things, that a share would not cease to be a flow-through share merely because of a corporation's failure to make all of the required expenditures. I appreciate counsel's frankness in acknowledging that the portions of the opinions cited were made in anticipation of proposed changes to the regime and were focused on preventative measures geared to ensuring a successful outcome. As such, however, they are of little assistance in considering what is to be done after the fact, especially given the egregious conduct of the issuing corporation.
+[11] Unlike the hypothetical scenarios considered in the literature, the present case is not concerned with a simple shortfall in the total amount of expenses incurred in an otherwise properly performed flow-through share agreement. Central to this appeal is the issuing corporation's utter failure to fulfill its core obligations[8] under the Subscription and Renunciation Agreement; in particular, Deena's having failed to incur any CEE in respect of the consideration advanced for its shares by the Appellant, having neglected entirely its records keeping duties and further, having taken positive action to prevent the Appellant and, for that matter, the Minister from discovering until well after the fact, that it had conducted itself other than in accordance with their agreement and the Act.
+[12] While counsel for the Respondent is quite right that on paper, there was a written agreement that provided for the issuance of flow-through shares, that agreement was never, in fact, performed as intended. In these circumstances, the events fundamental to the imbuing of what would be ordinary shares with the specialized characteristics necessary under subsection 66(12.6) simply did not occur. In my view, Deena's breach of the Subscription and Renunciation Agreement together with its subsequent conduct deprived the shares issued under that agreement from ever acquiring their intended status as "flow-through shares". This state of affairs was a fact in existence from the outset; it continued in existence until, and was known to the Minister at the time of the assessment disallowing the CEE deduction.
+[13] In these circumstances, I am satisfied that the same deficiency that negated the Appellant's right to the benefits of the CEE regime served equally to liberate it from the restrictions under subsection 66(15). To conclude otherwise on the present facts flies in the face of reality and does a disservice to the cause of justice.
+[14] In acquiring the Deena shares, the Appellant had the dual intention of being eligible to claim a CEE deduction and of seeing a return on the $100,000 invested. As it turned out, neither goal was realized. On the quite unusual facts of this case, I am satisfied that the Deena shares never acquired the status of "flow-through shares" and accordingly, subsection 66.3(3) does not operate to deem the adjusted cost base of the Deena shares to be "nil". Accordingly, the Appellant is entitled to claim a capital loss in respect of its investment in the Deena shares.
+[15] In view of these findings, it is not necessary for me to consider the effect, if any, of Clause 10 of the Subscription and Renunciation Agreement on the status of the Deena shares.
+[16] The appeal is allowed, with costs, and the matter is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to claim a capital loss in respect of the shares acquired from Deena.
+Signed at Ottawa, Canada, this 27th day of September, 2006.
+"G. Sheridan"
+Sheridan, J.
+Schedule "A"
+Flow-Through
+SUBSCRIPTION AND RENUNCIATION AGREEMENT
+TO: DEENA ENERGY INC. (the "Corporation")
+1. The undersigned (sometimes hereinafter referred to as the "Subscriber") hereby irrevocably subscribes for 90,090 common shares (the "Common Shares") of the Corporation, at a price of $1.11 per Common Share, to be issued as "flow-through shares" (as defined in the Act), for an aggregate consideration of $ 100,000.00 (the "Subscription Amount"), upon the terms and conditions set forth in the agreement constituted by the acceptance hereof ("this Subscription Agreement").
+2. In this Subscription Agreement:
+(a) "Act" means the Income Tax Act (Canada), as amended from time to time;
+(b) "CEE" means Canadian exploration expense as that term is defined in the Act (excluding amounts which are prescribed to constitute "Canadian exploration and development overhead expense");
+(c) "CDE" means Canadian development expense as that term is defined in the Act (excluding amounts which are prescribed to constitute "Canadian exploration and development overhead expense");
+(d) "Eligible CDE" means CDE incurred hereunder and renounced under Section 66(12.601) of the Act so as to be considered CEE;
+(e) "Expenditure Period" means the period commencing on the date of acceptance of this Subscription Agreement and ending on the earlier of:
+(i) the date on which the Subscription Amount has been fully expended in accordance with the terms hereof; and
+(ii) December 31, 1998;
+(f) "Qualifying Expenditures" means CEE or Eligible CDE at the date they are incurred; and
+(g) "Regulations" means any and all regulations promulgated from time to time under the Act.
+3. The Subscriber acknowledges that the subscription for Common Shares is subject to the acceptance of this Agreement in whole or in part by the Corporation and the compliance with all relevant securities law requirements.
+4. The Subscriber acknowledges that the offering of the Common Shares by the Corporation is not subject to any minimum subscription level, and that upon acceptance hereof by the Corporation, the Subscription Amount will be immediately available to the Corporation.
+5. The Funds representing the Subscription Amount will be deposited and expended by the Corporation pursuant to the terms and conditions hereof.
+6. If the Closing Date (as defined hereafter), which is scheduled for November 7, 1997, subject to the postponement of subsequent closing until not later than November 30, 1997, does not occur on or before November 30, 1997, the Subscription Amount will be returned to the Subscriber, without interest or further deduction.
+7. By executing this Subscription Agreement, the undersigned represents, warrants and covenants to the Corporation (and acknowledges that the Corporation is relying thereon) that:
+(a) the undersigned has been independently advised as to restrictions with respect to trading in the Common Shares imposed by applicable securities legislation in the jurisdiction in which the undersigned resides, confirms that no representation has been made to the undersigned by or on behalf of the Corporation with respect thereto, and acknowledges that the undersigned is aware of the characteristics of the Common Shares, the risks relating to an investment therein and of the fact that it may not be able to resell the Common Shares, except in accordance with limited exemptions under applicable securities legislation and regulatory policy, and that the Common Shares will be deemed under the Act to be acquired by the undersigned at a nil cost;
+(b) the undersigned has not received, nor has the undersigned requested, nor does the undersigned have any need to receive, any offering memorandum, or any other document (other than financial statements, interim financial statements or any other document, the content of which is prescribed by statute or regulation) describing the business and affairs of the Corporation which has been prepared for delivery to, and review by, prospective purchasers in order to assist them in making an investment decision in respect of the Common Shares and the undersigned has not become aware of any advertisement in printed media of general and regular paid circulation, radio or television with respect to the distribution of the Common Shares;
+(c) the undersigned is resident in the Province of Alberta and is purchasing the Common Shares for the undersigned's own account, not for the benefit of any other person, and not with a view to the resale or distribution of all or any of the Common Shares;
+(d) unless exempted by an order of the securities commission or similar regulatory authority of the province in which it resides:
+(i) (A) if the undersigned is an individual or corporation, the undersigned would have an aggregate acquisition cost of purchasing the Commons Shares of not less than $97,000;
+and
+(B) if the undersigned is a corporation, syndicate, partnership or other form of unincorporated organization, it pre-existed the offering of the Common Shares and has a bona fide purpose other than investment in the Common Shares or, if created to permit such investment, the individual share of the aggregate acquisition cost for each participant is not less than $97,000; or
+(ii) if the undersigned is an individual or corporation, the undersigned is:
+(A) a senior officer or director of the Corporation; or
+(B) a senior officer or director of an affiliate of the Corporation;
+or
+(C) a spouse, parent, brother, sister or child of any person referred to in subclause (A) or (B) above; or
+(D) a company all of whose voting securities are beneficially owned by one or more of the persons referred to in subclause (A), (B) or (C); or
+(E) a close friend or business associate of a promoter of the Corporation, or a corporation all of whose voting securities are beneficially owned by a single close friend or single business associate of a promoter of the Corporation
+(e) if an individual, the undersigned is of the full age of majority and is legally competent to execute this Subscription Agreement and take all action pursuant hereto;
+(f) this Subscription Agreement has been duly and validly authorized, executed and delivered by and constitutes a legal, valid, binding and enforceable obligation of the Subscriber;
+(g) if required by applicable securities legislation, policy or order or securities commission, stock exchange or other regulatory authority, the undersigned will execute, deliver, file and otherwise assist the Corporation in filing, such reports, undertakings, and other documents with respect to this issue of the Common Shares as may be required;
+(h) the undersigned is not a non-resident of Canada for the purposes of the Act;
+(i) the undersigned has had the opportunity to consult his or her own independent professional advisors with respect to the income tax consequences of purchasing the Common Shares;
+(j) the undersigned has such knowledge in financial and business affairs as to be capable of evaluating the merits and risks of its investment and it, or, where it is not purchasing as principal, each beneficial purchaser, is able to bear the economic risk of loss of its investment;
+(k) the undersigned will not resell the Common Shares except in accordance with the provisions of applicable securities legislation and stock exchange policies;
+(l) the Subscriber deals with and will at all relevant times continue to deal at arms length with the Corporation for the purpose of the Act; and the undersigned agrees that the above representations, warranties and covenants will be correct both as of the execution of this Subscription Agreement and as of the Closing Time (as hereinafter defined) and will survive the completion of the issuance of the Common Shares.
+8. The Corporation hereby represents and warrants to and for the benefit of the Subscriber, and acknowledges that the Subscriber is relying thereon, that:
+(a) the Corporation has been duly incorporated and organized, and is a valid and subsisting corporation, under the laws of the Dominion of Canada, and is or will be qualified to carry on business in the Province of Alberta and in each other jurisdiction, if any, wherein the carrying out of the activities contemplated hereby make such qualification necessary;
+(b) the Corporation has the full corporate right, power and authority to execute and deliver this Subscription Agreement and to issue the Common Shares to the Subscriber and to incur and renounce to the Subscriber, Qualifying Expenditures in an amount equal to the Subscription Amount;
+(c) this Subscription Agreement constitutes a binding obligation of the Corporation enforceable in accordance with its terms;
+(d) the execution and delivery of, and the performance of the terms of, this Subscription Agreement by the Corporation, including the issue of the Common Shares, the incurring of Qualifying Expenditures and the renunciation of Qualifying Expenditures to the Subscriber pursuant hereto does not and will not constitute a breach of, or default under, the constating documents of the Corporation or any law, regulation, order or ruling applicable to the Corporation or any agreement, contract or indenture to which the Corporation is a party or by which it is bound;
+(e) the Corporation is a "principal business corporation" for the purposes of the Act;
+(f) the Common Shares do not constitute "prescribed shares" for the purpose of Sections 6202 and 6202.1 of the Regulations and will be "flow-through shares" for the purposes of paragraph 66(15)(d.1) of the Act; and
+(g) none of the "Qualifying Expenditures" will be renounced to a trust corporation or partnership with whom the Corporation has prohibited relationship as defined in subsection 66(12.671) of the Act.
+9. The Corporation covenants and agrees with the Subscriber:
+(a) to keep proper books, records and accounts of all Qualifying Expenditures and all transactions affecting the Subscription Amount and the Qualifying Expenditures, and upon reasonable notice, to make such books, records and accounts available for inspection and audit by or on behalf of the Subscriber;
+(b) to incur, during the Expenditure Period, Qualifying Expenditures in such amount as enables the Corporation to renounce to the Subscriber in accordance with the Act and this Subscription Agreement, Qualifying Expenditures equal to the Subscription Amount with effect on or before December 31, 1997;
+(c) to renounce (in accordance with the Act and this Subscription Agreement) to the Subscriber, effective on or before December 31, 1997, Qualifying Expenditures incurred during the Expenditure Period equal to the Subscription Amount;
+(d) to make in a timely fashion all filings required in connection with this Subscription Agreement including, without limitation, the filings required by subsections 66(12.68) and 66(12.7) of the Act;
+(e) to mail to the subscriber, not later than March 31, 1998 a statement setting forth the aggregate amounts of Qualifying Expenditures renounced to the Subscriber pursuant hereto;
+(f) that all Qualifying Expenditures renounced to the Subscriber pursuant to this Subscription Agreement will be Qualifying Expenditures incurred by the Corporation that, but for the renunciation to the Subscriber, the Corporation would be entitled to deduct in computing its income for the purposes of Part I of the Act;
+(g) that the Corporation will not reduce the amount renounced to the Subscriber pursuant to subsection 66(12.6) of the Act or subsection 66(12.601) of the Act and, in the event the Minister reduces the amount renounced to the Subscriber pursuant to subsection 66(12.73) of the Act, the Corporation will indemnify the Subscriber for an amount not exceeding the amount of any increased tax payable under the Act, or the laws of a province, by the Subscriber as a consequence of such reduction;
+(h) that the Corporation will maintain its status as a "principal business corporation" (as defined in the Act) until at least January 1, 1999;
+(i) that the Corporation shall indemnify the Subscriber for an amount not exceeding the amount of any increased tax payable under the Act or the laws of Alberta by the Subscriber as a consequence of the failure of the Corporation to incur and renounce to the Subscriber Qualifying Expenditures equal to the Subscription Amount with effect on or before December 31, 1997; and
+(j) the Corporation shall, within ten days after the Closing Date, file a report with the Alberta Securities Commission in accordance with the provisions of subsection 108(1) of the Securities Act (Alberta).
+10. The Corporation hereby agrees to indemnify and save harmless the Subscriber from and against any liability, loss, damage, cost or expense which the Subscriber may sustain or incur arising out of or in any way connected with the expenditure of the Subscription Amount.
+11. The sale of the Common Shares will be completed at the offices of Deena Energy Inc. on November 7, 1997 or such other date or dates as the Corporation may determine (collectively the "Closing Date"), but in no event later than November 30, 1997.
+12. The undersigned agrees to deliver to the Corporation with this duly completed and executed Subscription Agreement:
+(a) a cheque or such other form of payment as is acceptable to the Corporation, payable to the Corporation, for the Subscription Amount; and
+(b) such other documents as may be requested as contemplated by subsection 7(g) hereof.
+13. The Subscriber hereby waives any right that the undersigned may have to any potential incentive grants, credits and similar or like payments or benefits which accrue as a result of the operations relating to the Qualifying Expenditures as contemplated hereunder and acknowledges that all such grants, credits, payments or benefits accrue to the benefit of the Corporation.
+14. Nothing herein shall constitute or be construed to constitute a partnership of any kind whatsoever the Subscriber and the Corporation.
+15. The Corporation shall be entitled to rely on delivery of a facsimile copy of executed subscriptions, and acceptance by the Corporation of such facsimile subscriptions shall be legally effective to create a valid and binding agreement between the undersigned and the Corporation in accordance with the terms hereof.
+16. The contract arising out of this Subscription Agreement shall be governed by and construed in accordance with the laws of the Province of Alberta and the laws of Canada applicable therein. Time shall be of the essence hereof.
+17. The covenants, representations and warrants contained herein shall survive the closing of the transactions contemplated hereby.
+DATED this 18th day of Nov., 1997.
+...
+CITATION: 2006TCC508
+COURT FILE NO.: 2004-3016(IT)G
+STYLE OF CAUSE: JES INVESTMENTS LTD., AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Regina, Saskatchewan
+DATE OF HEARING: May 8, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice G. Sheridan
+DATE OF JUDGMENT: September 27, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Hal B. Wellsch
+Counsel for the Respondent:
+Jon Gilbert
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Hal B. Wellsch
+Firm: McCrank and Stewart Johnson
+Regina, Saskatchewan
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1.
+[2] Schedule "A" to Exhibit "A-1"; see Appendix "A" to these Reasons for Judgment.
+[3] Canadian exploration expenses to flow-through shareholder. Where a person gave consideration under an agreement to a corporation for the issue of a flow-through share of the corporation and, in the period that begins on the day the agreement was made and ends 24 months after the end of the month that includes that day, the corporation incurred Canadian exploration expenses, the corporation may, after it complies with subsection (12.68) in respect of the share and before March of the first calendar year that begins after the period, renounce, effective on the day on which the renunciation is made or on an earlier day set out in the form prescribed for the purposes of subsection (12.7), to the person in respect of the share the amount, if any, by which the part of those expenses that was incurred on or before the effective date of the renunciation (which part is in this subsection referred to as the "specified expenses") exceeds the total of ...
+[4] "flow-through share" means a share (other than a prescribed share) of the capital stock of principal-business corporation that is issued to a person under an agreement in writing entered into between the person and the corporation after February 1986, under which the corporation agrees for consideration that does not include property to be exchanged or transferred by the person under the agreement in circumstances in which section 51, 85, 85.1 or 87 applies.
+[5] Cost of flow-through shares. Any flow-through share (within the meaning assigned by subsection 66(15)) of a corporation acquired by a person who was a party to the agreement pursuant to which it was issued shall be deemed to have been acquired by the person at a cost to the person of nil.
+[6] Transcript p. 29, lines 10-17.
+[7] Michael A. Carten, "Flow-Through Share Financing" (1986) Corporate Management Tax Conference (Toronto: Canadian Tax Foundation, 1986) 385 at 397; "Revenue Canada Round Table," in Report of Proceedings of the Thirty-sixth Tax Conference, 1984 Conference Report (Toronto: Canadian Tax Foundation, 1985) 783-847, Question 65, at 829-30; Leslie E. Skingle, "Carve-Outs and Flow-Through Shares," in Report of Proceedings of the Thirty-eighth Tax Conference, 1986 Conference Report (Toronto: Canadian Tax Foundation, 1987), 50:1 at 50:33; Brian R. Carr, ed., Canadian Resource Taxation, (Toronto: Carswell, 1999, 2005), at 8-7 to 8-8, and 8-31 to 8-32.
+[8] Paragraphs 8 and 9 of the Subscription and Renunciation Agreement; Schedule "A" to the Partial Statement of Agreed Facts.

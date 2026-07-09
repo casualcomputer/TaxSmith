@@ -1,0 +1,172 @@
+Title: Suzanne Sterling-Ross v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29476/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-525-29476-suzanne-sterling-ross-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-10-16
+
+# Suzanne Sterling-Ross v. The Queen
+
+- Citation: 2009 TCC 525
+- Decision date: 2009-10-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6294, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Suzanne Sterling-Ross v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-16
+Neutral citation
+2009 TCC 525
+File numbers
+2008-1421(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1421(IT)I
+BETWEEN:
+SUSANNE STERLING-ROSS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 8, 2009 at London, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Julian Malone
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments and determinations made under the Income Tax Act for the 1998, 1999, 2000, 2001, 2002 and 2003 taxation years is allowed, and the assessments and determinations are referred back to the Minister of National Revenue for reconsideration, reassessment and redetermination on the basis that the business losses claimed by the appellant are deductible in computing income, and the gross negligence penalties should be vacated.
+Each party shall bear their own costs.
+Signed at Toronto, Ontario this 16th day of October 2009.
+“J. M. Woods”
+Woods J.
+Docket: 2008-3792(GST)I
+BETWEEN:
+SUSANNE STERLING-ROSS and PAUL FAUBERT,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 8, 2009 at London, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellants:
+Susanne Sterling-Ross
+Counsel for the Respondent:
+Julian Malone
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Excise Tax Act for the period from October 1, 1996 to December 31, 2002 is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that: (a) the amount of $4,239.26, referred to as “GST assessed” in the schedule to the reply, should be excluded from the assessment, and (b) adjustments consequential to the exclusion in (a) should be made to interest and penalties.
+The appeal with respect to an assessment made under the Excise Tax Act for the period from October 1, 2002 to June 30, 2003 is dismissed.
+Each party shall bear their own costs.
+Signed at Toronto, Ontario this 16th day of October 2009.
+“J. M. Woods”
+Woods J.
+Citation: 2009 TCC 525
+Date: 20091016
+Dockets: 2008-1421(IT)I
+2008-3792(GST)I
+BETWEEN:
+SUSANNE STERLING-ROSS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+SUSANNE STERLING-ROSS and PAUL FAUBERT,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] These are appeals with respect to assessments made under the Income Tax Act and the Excise Tax Act.
+Income tax appeal
+[2] Susanne Sterling-Ross appeals in respect of assessments made under the Income Tax Act for the 1998, 1999, 2000, 2001, 2002 and 2003 taxation years.
+[3] According to the Minister’s reply, Ms. Ross was reassessed for these years to disallow net business losses claimed in respect of a partnership between her and Paul Faubert, her former common-law partner. The annual amounts disallowed to Ms. Ross vary from $1,480 to $8,880. Gross negligence penalties were also levied for all years. The reply also references a potential statute bar issue for the 1998, 1999 and 2000 taxation years.
+[4] At the opening of the hearing, I asked counsel for the respondent to clarify how business losses had been allocated between Ms. Ross and Mr. Faubert.
+[5] In response, after conferring with a witness from the Canada Revenue Agency (CRA), counsel informed me that the income tax appeal would be conceded in its entirety. He stated that there was no tax assessed for any of the relevant taxation years except 2002. The business losses claimed for all years except 2002 only affected loss carryforwards, I was informed.
+[6] The response was a surprise because it was not mentioned in the reply.
+[7] The hearing then proceeded to deal with the GST appeal, with Ms. Ross being informed that the income tax matter was conceded in its entirety.
+[8] After the hearing, I was left to figure out how the concession should be implemented.
+[9] The concession clearly applies to the gross negligence penalties for all years. According to the notice of confirmation attached to the notice of appeal, a gross negligence penalty in the amount of $200 was assessed for each year except for 2002, when the penalty was $1,653.
+[10] It is not as clear how the concession applies to business losses. It clearly applies to the business loss claimed for 2002 in the amount of $2,431, but it is not clear whether it applies to business losses for years in which penalties have been assessed but for which no tax has been assessed.
+[11] I am not aware of any judicial precedent that is exactly on point, but the relevant principles were recently discussed by Noel J. in The Queen v. Interior Savings Credit Union, 2007 FCA 151, 2007 DTC 5342.
+[12] Based on this jurisprudence, I am inclined to the view that the Court has no jurisdiction to determine losses unless the determination could affect an amount of tax assessed. There was no argument before me on this issue, however, and it is a point of law that would be best considered after arguments from counsel.
+[13] If this appeal had been under the general procedure, it may have been appropriate to reopen the case to hear argument on the issue. As it was under the informal procedure, however, I have decided to deal with it as best I can.
+[14] In the circumstances of this case, there clearly would be an injustice if the Court declined to determine losses for lack of jurisdiction. It appears that the respondent has consistently maintained throughout the objection and appeal stages that the issue to be determined is whether the business losses should be allowed. Further, after the respondent’s concession, the appellant was informed that her income tax appeal had been conceded in its entirety.
+[15] In these circumstances, the appellant has every right to expect that the business losses will be allowed.
+[16] Allowing the losses is only possible, however, if the Court has jurisdiction. In light of the uncertainty as to this issue, I have decided to provide the relief sought by the appellant by considering that the Minister has made a determination of loss under subsection 152(1.1) of the Income Tax Act. This brings the issue within the jurisdiction of the Court.
+[17] In the result, the appeal with respect to assessments and determinations of loss made under the Income Tax Act will be allowed, and the assessments and determinations will be referred back to the Minister of National Revenue for reconsideration, reassessment and redetermination on the basis that the business losses claimed by the appellant are deductible and the gross negligence penalties should be vacated.
+GST appeal
+Introduction
+[18] Ms. Ross also appeals with respect to two GST assessments issued under the Excise Tax Act. According to the reply, the periods at issue are from October 1, 1996 to December 31, 2002, and from October 1, 2002 to June 30, 2003. There is a three month overlap in the assessment periods that was not mentioned at the hearing.
+[19] Ms. Ross appeals on behalf of herself and Mr. Faubert, since they registered for GST purposes as a partnership.
+[20] Mr. Faubert is now a discharged bankrupt, following bankruptcy proceedings in which the Minister filed a proof of claim in respect of these assessments.
+[21] Ms. Ross submits that she operates a land development business that has been operated in partnership since around 1993. From 1993 to 1995, her partner was her father. Beginning in 1995, Mr. Faubert was the purported partner.
+[22] The plan was to subdivide and sell a five acre parcel of vacant land in Port Lambton, Ontario that Ms. Ross had inherited. From 1993 until now, 11 lots have been disposed of and 12 remain unsold.
+[23] Ms. Ross made substantial ITC claims during the assessment periods relating to this business and received refunds in the aggregate of $69,763.16.
+[24] The Minister in the assessments disallowed all but about one percent of the claims. The aggregate amount of ITCs at issue is $72,089.83. One of the assessments also includes an amount of $4,239.26 for GST collected or collectible.
+[25] The total amounts assessed are summarized in a schedule attached to the reply. The relevant items are stated as follows: (1) net tax in the amount of $76,329.09, (2) interest in the amount of $17,689.43, (3) a section 280 penalty in the amount of $31,289.28, and (4) a section 285 penalty in the amount of $19,082.17.
+[26] At the commencement of the hearing, counsel for the Minister conceded that the “net tax” assessed should be reduced by $4,239.26. This amount does not relate to ITCs but to an item relating to GST collectible. The facts assumed by the Minister in assessing this item were not stated in the reply.
+Factual background
+[27] The background to this matter was provided in testimony from two officials of the Canada Revenue Agency: Scott Arner, who performed the GST audit, and John Possmayer, who subsequently performed an investigation that led to criminal charges being laid against the appellants in connection with the ITC claims.
+[28] Mr. Arner explained that during the audit Ms. Ross had provided two boxes of accounting records and related documentation to support the ITC claims. His reproduction of the ledgers prepared by Ms. Ross, with his comments added, was introduced into evidence as Exhibit R-13.
+[29] Mr. Arner testified that, after a fairly lengthy review of the material presented, he had concluded that the vast majority of the claims were for personal items that were unconnected with a land development business and that some of the claims appear to have been fabricated or inflated. He stated that in total he allowed only a very small portion of the ITCs claimed, approximately $750. In this regard, he stated that he gave the appellants the benefit of the doubt with respect to items such as telephone bills. Essentially, though, there was little if any indication that an active business was being carried on during the assessment periods.
+[30] Because of the large amounts involved, an investigator was brought in who reviewed Mr. Arner’s findings and agreed with them.
+[31] Criminal charges under s. 327(1) of the Excise Tax Act were levied and came before a judge of the Ontario Court of Justice in 2006. In a plea bargain negotiated by Ms. Ross’ lawyer, Ms. Ross pleaded guilty with respect to a smaller assessment period.
+[32] In the plea bargain, Ms. Ross admitted through her lawyer that she had wrongly claimed, in circumstances amounting to willful blindness, ITCs of approximately $30,000. A penalty in the amount of 125 percent was agreed to, which seems to be the mid-point between the minimum and maximum penalty. The charges against Mr. Faubert were withdrawn.
+[33] At the criminal hearing, it was acknowledged that civil proceedings were underway in connection with the assessments as well.
+[34] It is useful to reproduce some of the facts that were stated by Crown counsel at the criminal hearing and which were agreed to by Ms. Ross’ counsel at that hearing (except for the reference below to U.S. purchases and any culpability beyond willful blindness) (Exhibit R-12, p. 4):
+[…] As a consequence of the audit and subsequent investigation it was determined that Ms. Sterling-Ross had knowingly in circumstances amounting to willful blindness claimed such personal items as payments made to her fitness club, payments for stereo equipment, docking fees for a boat, veterinary services, a fireplace installation in her home, carpet cleaning for her home, liquor purchases, fast food take-out and numerous other personal expenditures as being items for G.S.T. refund purposes applicable to the vacant land in Port Lambton. And in circumstances amounting to willful blindness, Sterling-Ross often intentionally inflated the amount of many of her claim [sic] G.S.T. payments for I.T.C. purposes by using the gross amount paid out on an invoice rather than the actual G.S.T. amount paid. Consequently, the amount of the refund claimed for G.S.T. was also inflated. Again, in circumstances amounting to willful blindness, Sterling-Ross also claimed G.S.T. paid on gross invoice amounts for I.T.C. purposes that resulted in G.S.T. refunds on personal items that were purchased outside of Canada in the State of Michigan. There’s obviously no G.S.T. in the U.S.A. Those are the essential facts the Crown’s relying on.
+[35] The Minister also called as witnesses two accountants who had prepared income tax returns for Ms. Ross. They testified that they had no involvement with the GST returns.
+[36] The main focus of Ms. Ross’ testimony was in showing that she had actively engaged in subdividing and selling lots on a parcel of vacant land in Port Lambton, Ontario. She also introduced many documents going back to 1993 which corroborate that testimony.
+[37] I accept that Ms. Ross had an intent to sell serviced lots on the inherited property, but this does not assist in this case. I am not satisfied that any substantial amount of work was done or relevant expenses incurred during the relevant assessment periods. Most of the development work appears to have been done prior to that time.
+[38] Ms. Ross introduced evidence that supports that expenses were incurred prior to the assessment periods at issue. I do not think that this assists Ms. Ross in this appeal. For one thing, I have no way of knowing whether these expenses were claimed in prior GST returns. One of the CRA officials testified that GST returns had been filed by Ms. Ross for earlier years. There is no reasonable basis to allow ITCs on the prior period expenses in this appeal.
+[39] Turning to the expenses that were the subject of the audit, Ms. Ross tried to provide a rationale for her ITC claims but her explanations were not at all convincing. She stated that she believed that the GST would “equal out” when all the lots were sold. That might be the case if the ITC claims related to proper business expenses but there is no reliable evidence that they did.
+[40] My impression of Ms. Ross from the evidence as a whole is that she is an intelligent, if inexperienced, businesswoman. In my view, Ms. Ross knew that she was filing for substantial ITC claims for which she and Mr. Faubert were not entitled. Any other conclusion defies total common sense on the evidence before me. The appeal should be dismissed, except for the item conceded by the Minister.
+[41] Before concluding, I would mention that Ms. Ross brought into court four boxes of documents that I declined to enter into evidence.
+[42] Ms. Ross stated that her lawyer in the criminal proceeding had given the boxes to her and that she had kept them in her garage. She had not looked at the contents of the boxes in preparation for this hearing and could not tell me what documents would be relevant for the appeal.
+[43] Over the lunch break, counsel for the Minister reviewed the material in the boxes. He informed me that based on his review some of the documents could be relevant to the appeal but he thought that they would be immaterial.
+[44] In this particular case, I do not think that it would be an appropriate use of court resources to sort through boxes of documents that had not even been reviewed by Ms. Ross in preparation for this appeal.
+[45] Unless a self-represented taxpayer makes a reasonable attempt to provide the Court with relevant documents, it would be an inappropriate use of court resources to enter into evidence a large number of unsorted documents.
+[46] As a result of the foregoing, the following orders will be made with respect to the GST appeal:
+(1) the appeal with respect to the assessment for the period from October 1, 1996 to December 31, 2002 will be allowed, and the assessment will be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that: (a) the item identified in Schedule A of the reply as “GST assessed” in the amount of $4,239.26 should be excluded from the amount assessed; and (b) adjustments that are consequential as a result of the exclusion in (a) should be made to interest and penalties; and
+(2) the appeal with respect to the assessment for the period from October 1, 2002 to June 30, 2003 will be dismissed.
+[47] Each party shall bear their own costs in respect of the appeals under both statutes.
+Signed at Toronto, Ontario this 16th day of October 2009.
+“J. M. Woods”
+Woods J.
+CITATION: 2009 TCC 525
+COURT FILE NOS.: 2008-1421(IT)I
+2008-3792(GST)I
+STYLES OF CAUSE: SUSANNE STERLING-ROSS v. HER MAJESTY THE QUEEN and SUSANNE STERLING-ROSS and PAUL FAUBERT v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: October 8, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENTS: October 16, 2009
+APPEARANCES:
+Agent for the Appellants:
+Susanne Sterling-Ross
+Counsel for the Respondent:
+Julian Malone
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

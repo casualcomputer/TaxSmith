@@ -1,0 +1,208 @@
+---
+title: "Hall v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/180929/index.do"
+last_modified: "2016-10-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 221"
+citation2: ""
+neutral_citation: "2016 TCC 221"
+decision_date: "2016-10-05"
+language: "en"
+item_id: "180929"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2936
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:40:39.267000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "23f239fc793ff8a568c97d2acb8115547f0969efadac341a30f28109d18ccb2e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hall v. The Queen
+
+- Citation: 2016 TCC 221
+- Decision date: 2016-10-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2936, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hall v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-10-05
+Neutral citation
+2016 TCC 221
+File numbers
+2016-815(IT)I
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-815(IT)I
+BETWEEN:
+MURRAY E. HALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on August 26, 2016, at London, Ontario
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alexander Nguyen
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 2008, 2009, 2010, 2011, 2012 and 2013 taxation years, is allowed with respect to the penalties only and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment. The appellant is not entitled to any further relief.
+Signed at Ottawa, Canada, this 5th day of October 2016.
+“Johanne D’Auray”
+D’Auray J.
+Citation: 2016 TCC 221
+Date:20161005
+Docket: 2016-815(IT)I
+BETWEEN:
+MURRAY E. HALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D’Auray J.
+[1] Mr. Hall is appealing from assessments of tax, penalties and interest in relation to excess contributions to his RRSP for the 2008, 2009, 2010, 2011, 2012 and 2013 taxation years.
+[2] At the beginning of the hearing, the respondent waived the penalties for all of the taxation years. Therefore, the penalties are no longer in issue in this appeal.
+[3] Mr. Hall’s RRSP contributions amounted to $69,056 from his 1996 taxation year through to his 2008 taxation year. In his income tax returns from 1996 through to his 2007 taxation year, Mr. Hall deducted RRSP contributions in the amount of $57,477.
+[4] Mr. Hall had an amount of $12,029 of excess contributions in his RRSP since the end of the calendar year in 2008 (composed of a balance of $4,879 of undeducted contributions from prior years + a contribution of $7,150 made by Mr. Hall into his RRSP in 2008).
+[5] Mr. Hall’s unused RRSP deduction room was:
+NIL in 2008
+NIL in 2009
+NIL in 2010
+$271 in 2011
+$271 in 2012
+$271 in 2013
+[6] Mr. Hall did not claim and was not allowed a deduction for RRSP premiums for any of his unused RRSP contributions for the 2008, 2009, 2010, 2011, 2012 and 2013 taxation years.
+[7] Since Mr. Hall had an amount of $12,029 as an excess contribution in his RRSP since 2008, he had to file an Individual Tax Return For RRSP Excess Contributions (“Return”) on form T1-OVP, for the 2008, 2009, 2010, 2011, 2012 and 2013 taxation years as and when required by subsection 204.3(1) of the Income Tax Act (the “Act”). Subsection 204.3(1) reads as follows:
+204.3(1) Within 90 days after the end of each year after 1975, a taxpayer to whom this Part applies shall
+(a) file with the Minister a return for the year under this Part in prescribed form and containing prescribed information, without notice or demand therefor;
+(b) estimate in the return the amount of tax, if any, payable by the taxpayer under this Part in respect of each month in the year; and
+(c) pay to the Receiver General the amount of tax, if any, payable by the taxpayer under this Part in respect of each month in the year.
+[8] Due to Mr. Hall’s failure to file a Return, the Minister of National Revenue (the “Minister”) assessed Mr. Hall pursuant to subsection 152(7) for his 2008, 2009, 2010, 2011, 2012 and 2013 taxation years as follows:
+Year
+Federal Tax
+Late-Filing Penalty
+Arrears Interest
+2008
+$515.00
+$87.55
+$220.84
+2009
+618.00
+105.06
+216.75
+2010
+618.00
+105.06
+170.93
+2011
+585.48
+99.53
+120.67
+2012
+585.48
+99.53
+81.38
+2013
+585.48
+99.53
+42.15
+[9] Mr. Hall does not contest that he over contributed to his RRSP. Instead, Mr. Hall argues that he was not reassessed within the three year time limit prescribed in subsection 152(3.1) and subsection 152(4) of the Act. He argued that since he was reassessed on June 10, 2015 for the 2008, 2009, 2010 and 2011 taxation years, these years were statute barred at the time of the reassessment.
+[10] Mr. Hall submits that the respondent has not proven that during the 2008, 2009, 2010 and 2011 taxation years, that he made any misrepresentation attributable to neglect, carelessness or wilful default or committed any fraud in filing his income tax returns. Accordingly, Mr. Hall’s submission is that the Minister could only reassess him for his 2012 and 2013 taxations years, since all the other taxation years are statute barred.
+[11] In addition, Mr. Hall argues that in his view, he should have not been assessed for having over contributed to his RRSP because the excess amount on which he was taxed is based on or arose as a consequence of reasonable error. He also submits that he took reasonable steps to eliminate the cumulative excess in his RRSP.
+[12] The respondent’s position is that the time period to assess Mr. Hall had not commenced until the Minister assessed him pursuant to subsection 152(7) of the Act, on June 10, 2015, since he had not filed a Return, as required by subsection 204.3(1) of the Act.
+[13] In other words, the respondent is arguing that there is no time limit to assess a taxpayer when a Return has not been filed with the Minister. In this appeal, it is the Minister under the authority of subsection 152(7) that prepared the Returns for RRSP Excess Contributions on behalf of Mr. Hall and assessed him accordingly on June 10, 2015. The respondent argued that pursuant to the provisions of section 152, the three year “normal reassessment period” to reassess in this appeal runs until June 10, 2018, namely three years after the issuance of the initial assessment on June 10, 2015. Therefore, the Minister assessed Mr. Hall within the time limit prescribed under the Act.
+[14] With respect to the second argument of Mr. Hall, the respondent submits that this Court does not have the jurisdiction to cancel the amount of taxes owed by the appellant pursuant to subsection 204.1(4) of the Act. Additionally, the respondent submits that this Court does not have the jurisdiction to waive the interest.
+Analysis [15] Mr. Hall’s first argument is that he was reassessed outside of the limitation period for the 2008, 2009, 2010 and 2011 taxation years. As a result, Mr. Hall submits that these years are statute barred and cannot be reassessed as the respondent has failed to prove that he made any misrepresentation attributable to neglect, carelessness, wilful default or committed any fraud in filing his income tax returns.
+[16] However, Mr. Hall was required to file a Return under subsection 204.3(1), which is in Part X.1 of the Act. Part X.1 applies when a taxpayer has over contributed to his or her RRSP.
+[17] Subsection 204.3(1) of the Act, requires a separate return, which is different from the returns filed under Part I. Additionally, the tax payable under Part X.1 is a separate tax from the tax payable under Part I. Subsection 204.3(1) requires a taxpayer to pay the tax payable under this Part (X.1), within 90 days of year end.
+[18] Since Part X.1 outlines a separate tax, requiring a separate return from Part I, a return filed under Part I is not applicable to the timing requirements set out in subsection 204.3(1). This approach applies in the same manner to several other parts of the Act.
+[19] This Court in Gretillat v Canada, [1998] TCJ No. 143, 98 DTC 1483, dealt with a similar issue to this appeal, involving Part X.4 of the Act, which applies to excess contributions to an RESP. The Court held that:
+[14] The tax payable under Part X.4 of the Act by a subscriber to an RESP on an excess amount as defined in Part X.4 is a separate tax from the tax payable under Part I of the Act.
+[20] Further, the Court in Gretillat, found that the assessment period applicable to Part X.4 did not begin with the filing of a return under Part I, but rather started when the taxpayer was assessed by the Minister for tax payable under Part X.4.
+[21] The respondent cited Cable Mines & Oils Ltd v Minister of National Revenue, 61 DTC 641, in support of their position that a return filed under Part I would not begin the assessment period for the tax payable under Part X.1. The Court in Cable Mines & Oils Ltd held that:
+[20] …an assessment issued under the provisions of section 123(10) is an original assessment in respect of withholding tax and is a quite different assessment from any original assessment issued under section 46 in respect of a taxpayer’s own income….
+[22] Although Gretillat and Cable Mines & Oils Ltd do not deal with Part X.1 of the Act, the same principles outlined in those two cases would apply to this appeal. Since Mr. Hall did not file the required Return for excess RRSP contributions under Part X.1, the initial assessment in relation to this part occurred when the Minister assessed Mr. Hall pursuant to subsection 152(7). As a result, the initial assessment for tax payable under Part X.1 occurred on June 10, 2015.
+[23] Subsection 204.3(2) states that section 152 of the Act applies to Part X.1 of the Act, “with such modifications as the circumstances require”. As a result of subsection 204.3(2), the limitation periods in subsection 152(3.1) apply to Part X.1, with modification. The three year assessment period begins on the sending of a notice of an original assessment.
+[24] In this case, the original assessment occurred on June 10, 2015, when the Minister first assessed Mr. Hall for Part X.1 tax. Therefore, the assessment period would run from June 10, 2015 until June 10, 2018.
+[25] Mr. Hall submits that it was unreasonable for the Minister to assess the 2008 taxation year, seven years later, in 2015. Although, in this case the Minister assessed Mr. Hall after a long period had passed, subsection 152(7) of the Act does not provide any time limit for the Minister to conduct an original assessment.
+[26] Further, Mr. Hall argued that the Minister never provided notice or demand that he pay the tax under subsection 204.3(1). However, the Act in paragraph 204.3(1)(a) specifically states that:
+204.3(1) Within 90 days after the end of each year after 1975, a taxpayer to whom this Part applies shall
+(a) file with the Minister a return for the year under this Part in prescribed form and containing prescribed information, without notice or demand therefor; …
+[Emphasis added]
+[27] Since the Act does not require the Minister to provide notice or demand that a taxpayer file a return under subsection 204.3(1), the Minister’s assessment on June 10, 2015 was a valid original assessment.
+[28] The resulting unfairness that can be caused by the operation of these provisions is not the basis for overriding a valid assessment. The Federal Court of Appeal in Lans v Canada, [2011] FCJ No. 1457, 2011 FCA 290, stated that:
+[9] The fact that the application of the law in particular circumstances may seem harsh, or that CRA officials may not always have been very helpful, is not a ground on which the Tax Court can grant relief from a lawful assessment….
+[29] To conclude on this issue, the assessment on June 10, 2015 was the original assessment for the tax owing pursuant to Part X.1, and therefore the three year limitation period began on that date.
+[30] Although the Minister’s assessment is lawful in this case, it is still within the Minister’s discretion to completely waive the tax owed under Part X.1.
+[31] Mr. Hall’s second argument is based on subsection 204.1(4) of the Act, which states:
+204.1(4) Where an individual would, but for this subsection, be required to pay a tax under subsection (1) or (2.1) in respect of a month and the individual establishes to the satisfaction of the Minister that
+(a) the excess amount or cumulative excess amount on which the tax is based arose as a consequence of reasonable error, and
+(b) reasonable steps are being taken to eliminate the excess,
+the Minister may waive the tax.
+[32] During the years in litigation, Mr. Hall was suffering from mental illness. Mr. Hall filed letters with the Court, from different psychiatrists stating that Mr. Hall was experiencing recurring depression throughout the years in issue. Later on, during the period under litigation he was diagnosed with Bipolar and Anxiety Disorder. He stated that he could not explain why he over contributed to his RRSP in 2008 and was not capable of making rational decisions during this time. He further stated that it was a very difficult time for him and his spouse. Due to his illness, he lost his employment in 1999 and he and his spouse almost lost everything during the period under litigation. His excess contribution in 2008 was the product of a reasonable error based on his mental condition at the time.
+[33] In 2008, he had nothing to gain by contributing $7,150 to his RRSP, since during that year he only received income disability insurance of $35,802.48. Mr. Hall was not working at the time of the hearing and was still receiving disability insurance payments. He is still very fragile. He also stated that he took reasonable steps to eliminate the excess as soon as he was told by the Canada Revenue Agency that he had over contributed to his RRSP.
+[34] During the hearing, I explained to Mr. Hall that this Court does not have the authority to cancel the amount of taxes and interest. The Minister alone has the authority to make such a decision. That said, I advised him to apply for a cancellation of taxes under subsection 204.1(4) of the Act.
+[35] I also advised Mr. Hall that he could also apply to the Minister under subsection 220(3.1) of the Act to request that the Minister waive the interest for the years under litigation.
+[36] Only the Minister has the authority to waive the amount of tax under subsection 204.1(4) of the Act. If the Minister were to refuse to waive the tax, then the appellant could ask the Minister to exercise his discretion under subsection 220(3.1) of the Act and waive the interest.
+[37] In light of the facts of this appeal, I recommend that the Minister exercise his discretion for the taxation years in issue.
+[38] As conceded by the respondent the penalties for the taxations years are cancelled.
+[39] Therefore, the appeal is allowed with respect to the penalties only, the appellant is not entitled to any further relief.
+Signed at Ottawa, Canada, this 5th day of October 2016.
+“Johanne D’Auray”
+D’Auray J.
+CITATION:
+2016 TCC 221
+COURT FILE NO.:
+2016-815(IT)I
+STYLE OF CAUSE:
+MURRAY E. HALL v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+August 26, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT:
+October 5, 2016
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alexander Nguyen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

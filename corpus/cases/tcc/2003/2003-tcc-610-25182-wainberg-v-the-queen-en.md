@@ -1,0 +1,133 @@
+---
+title: "Wainberg v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25182/index.do"
+last_modified: "2003-09-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 610"
+citation2: ""
+neutral_citation: "2003 TCC 610"
+decision_date: "2003-09-02"
+language: "en"
+item_id: "25182"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2562
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:48:52.902000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0d69dcaf56b75306d260c7011806b4dbaf3969cce422ff9172b5156f979e3be5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wainberg v. The Queen
+
+- Citation: 2003 TCC 610
+- Decision date: 2003-09-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2562, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wainberg v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-02
+Neutral citation
+2003 TCC 610
+File numbers
+2003-1312(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1312(IT)I
+BETWEEN:
+ARNOLD BEN WAINBERG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 21, 2003, at Montreal, Quebec,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Annick Provencher
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 1998 taxation year is dismissed.
+Signed at Ottawa, Canada, this 2nd day of September, 2003.
+"E.A. Bowie"
+Bowie J.
+Citation: 2003TCC610
+Date: 20030902
+Docket: 2003-1312(IT)I
+BETWEEN:
+ARNOLD BEN WAINBERG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] Mr. Wainberg appeals from a reassessment for income tax for the 1998 taxation year by which the Minister of National Revenue (the Minister) added to his income interest of $15,207 that was paid to him by a bank in the United States of America. Mr. Wainberg says that this interest belongs to "his corporation", 158961 Canada Inc. (158), and not to him. The appeal was heard at Montreal, under the Court's informal procedure.
+[2] The Appellant was the owner of a 50% interest in a slaughterhouse known as Reliable Poultry Packers. In 1987 he and his partner sold that business. The Appellant's share of the proceeds was $513,000. He testified that he consulted a tax lawyer who told him that he was free to invest these funds in the United States, where interest rates were higher than in Canada, if he wished, and that he could have the funds held by a corporation. He said that 158 was then incorporated, and the funds were transferred to it. He was unable, however, to say by what type of transaction this took place. He went on to say that when he sought to deposit the funds in a bank in Plattsburgh, New York, the bank manager there told him that he would not accept a deposit from a corporation resident in Canada, but that he would accept a deposit from an individual resident in Canada. He therefore deposited the funds belonging to 158 in the U.S. bank in his own name. Each year, he said, when the interest on the deposit was paid to him he turned it over to 158. The Appellant filed the income tax return each year for 158, as well as his personal return, and he included the interest in the income of 158. The Appellant also testified that 158 paid a substantial amount of capital tax to the province of Quebec each year. I have no doubt that this is true, but it does not prove, or tend to prove, that the source of the capital of 158 was the proceeds of the sale of Reliable Poultry Packers.
+[3] Counsel for the Respondent referred me to the decision of the Federal Court of Appeal in Njenga v. The Queen.[1] That case held that a taxpayer who ignores the requirement under the Act to maintain and have available detailed information and documentation to support the claims that they make should expect to have considerable difficulty discharging the burden of proving those claims. The need to support oral testimony with documents is certainly not absolute, however. If the taxpayer is a credible witness, the case may be made simply on oral evidence, if it is sufficiently convincing. In the present case, the Appellant did not produce at the trial the kind of documentary evidence tending to establish that 158 was the true owner of the funds on deposit that one would expect should exist. Nor did he give a satisfactory explanation for its absence. In fact, two of the documents that he produced tend to prove quite the opposite.
+[4] Much of the Appellant's documentary evidence is correspondence passing between himself and the Canada Customs and Revenue Agency, and has little or no probative value. He also tendered unaudited financial statements of 158 for 1998, and earnings statements for 1994, 1995 and 1997. However, these are not helpful to his case either. The balance sheet as at December 31, 1998 shows the shareholder's equity to be made up of $11 paid-up capital and retained earnings of $467,611; the corresponding numbers as at December 31, 1997 are $11 and $473,140. There is no documentary evidence that corroborates the Appellant's evidence that he somehow put the proceeds of the sale of his business into 158 some ten years earlier. Nor was he able to say in his oral evidence what form that transaction took. In these circumstances, it would be reasonable to expect that the accountant for the company would testify, and would bring the necessary journal extracts to show the transaction by which 158 became the beneficial owner of the $513,000 proceeds of the sale of Reliable Poultry Packers. I note, however, that Schedule 7 to the T2 return of 158 for the 1998 taxation year shows in the line for income from property that it had no foreign investment income, and that it had aggregate investment income of $21,264. It is noteworthy too that the company had a loss from operations of almost $27,000 in 1998, more than sufficient to offset the declared interest income.
+[5] The other significant document entered into evidence by the Appellant is a letter from the HSBC Bank USA to the Appellant and his wife. This letter was apparently written at their request to show the amounts of interest paid by the bank on their deposits in 1998. In total they had twelve accounts. According to the Notification of Confirmation that is part of Exhibit A-1, the amounts of interest that were included in the Appellant's income by the reassessment were US$5,965, US$3,143 and US$1,146, a total of US$10,254. This was converted at the rate of $1.4831 to a total of CAN$ 15,207. The second and third of those amounts were interest paid by the U.S. bank on accounts in the Appellant's name alone. The first of them was paid on an account held in the name of "Ben Wainberg ITF Michael Wainberg". This, the Appellant said, meant that the account was in his name, but in trust for his son Michael. The Appellant's explanation of this was that he had no will, and that if he were to die intestate then he wanted the funds in that account to go to his son. This, of course, is totally inconsistent with his stated position that the funds were beneficially owned by 158, and that he was simply acting as its agent to circumvent the U.S. bank's refusal to accept deposits from a Canadian resident corporation.
+[6] With no evidence to establish the transfer of the funds from the Appellant to 158, no evidence to establish that the interest was paid over by the Appellant to 158 after he received it from the bank, and with evidence tending to show that 158 declared in its T2 return that it had no foreign source income from property, and evidence showing that the Appellant was apparently treating at least one of the three accounts that are relevant to this appeal as his own, I find that the Appellant has failed to discharge the onus on him to show that those accounts, and the interest that they earned, belonged to 158 and not to him. The appeal is therefore dismissed.
+Signed at Ottawa, Canada, this 2nd day of September, 2003.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2003TCC610
+COURT FILE NO.:
+2003-1312(IT)I
+STYLE OF CAUSE:
+Arnold Ben Wainberg and
+Her Majesty the Queen
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+August 21, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT:
+September 2, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Annick Provencher
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1997] 2 C.T.C. 8.

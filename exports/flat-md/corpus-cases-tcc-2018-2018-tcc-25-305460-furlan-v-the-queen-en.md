@@ -1,0 +1,192 @@
+---
+title: "Furlan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/305460/index.do"
+last_modified: "2018-01-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 25"
+citation2: ""
+neutral_citation: "2018 TCC 25"
+decision_date: "2018-01-25"
+language: "en"
+item_id: "305460"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7348
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:54:53.632000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "467e0c51567cb540668ceee32530ea5be6000ddc6cdabe63488b2515150c08ee"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Furlan v. The Queen
+
+- Citation: 2018 TCC 25
+- Decision date: 2018-01-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7348, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Furlan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-01-25
+Neutral citation
+2018 TCC 25
+File numbers
+2016-1818(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-1818(IT)I
+BETWEEN:
+MICHAEL FURLAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on August 23, 2017, at Toronto, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+Agent for the Appellant:
+Smadar Furlan
+Counsel for the Respondent:
+John Chapman
+AMENDED JUDGMENT
+Upon hearing on common evidence the four below appeals instituted under the federal Income Tax Act with respect to the Canada Child Tax Benefit and the Goods and Services Tax/Harmonized Sales Tax Credit for the Appellant’s 2011 and 2012 base taxation years:
+the appeal of the July 18, 2014 redetermination as to the Canada Child Tax Benefit (CCTB) in respect of the period November 2012 to June 2013 monthly (particularized at paragraph 3 of the Respondent’s Reply) is allowed, without costs, and that redetermination is referred back to the Minister of National Revenue (Minister) for reconsideration and redetermination on the basis that the Appellant is entitled to the CCTB that per that redetermination the Appellant had been required to repay;
+the appeal of the August 5, 2014 redetermination as to the Goods and Services Tax/Harmonized Sales Tax Credit (GST/HSTC) in respect of the period January 2013 to April 2013 quarterly (particularized at paragraph 5 of the Respondent’s Reply) is allowed, without costs, and that redetermination is referred back to the Minister for reconsideration and redetermination on the basis that the Appellant is entitled to the GST/HSTC that per that redetermination he had been required to repay;
+the appeal of the July 18, 2014 redetermination as to the CCTB in respect of the period July 2013 to June 2014 monthly (particularized at paragraph 7 of the Respondent’s Reply) is denied, without costs; and
+the appeal of the August 5, 2014 redetermination as to the GST/HSTC in respect of the period July 2013 to April 2014 quarterly (particularized at paragraph 9 of the Respondent’s Reply) is denied, without costs.
+This Amended Judgment is issued in substitution for the Judgment
+dated January 25th, 2018
+Signed at Ottawa, Canada, this 8th day of February 2018.
+“B. Russell”
+Russell J.
+Citation: 2018TCC25
+Date: 20180208
+Docket: 2016-1818(IT)I
+BETWEEN:
+MICHAEL FURLAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Russell J.
+[1] The Appellant Michael Furlan (Michael) has appealed, electing the informal procedure, four redeterminations made by the Minister of National Revenue (Minister) under the federal Income Tax Act (Act). Two of these redeterminations, both made July 18, 2014, denied him the Canada Child Tax Benefit (CCTB) for the respective periods November 2012 to June 2013 monthly, and July 2013 to June 2014 monthly. The two other redeterminations, both made August 5, 2014, denied him the Goods and Services Tax/Harmonized Sales Tax Credit (GST/HSTC) for the respective periods January 2013 to April 2013 quarterly and July 2013 to April 2014 quarterly. Michael objected to these four redeterminations. On February 18, 2016 the Minister confirmed them, hence this appeal.
+[2] In its Reply, the Respondent Crown pleaded assumptions of fact the Minister had made in raising these redeterminations. The main assumptions were that Michael and his former common-law partner Brittany together had a son, born August 2010, whose initials are DF; the parents Michael and Brittany separated in October 2012; since October 2012 DF has resided with Brittany and DF merely visits Michael; and since October 2012 Michael had not been the primary caregiver or shared-custody parent of DF.
+[3] At the hearing Michael’s representative, his mother Mrs. Furlan, testified on his behalf. Michael was diagnosed in 2010 with multiple sclerosis (MS) and since then his condition has worsened. He was present in court throughout the hearing.
+[4] Mrs. Furlan testified that DF was born in 2010 to parents Michael and Brittany, the same year Michael was diagnosed with MS. Michael and Brittany separated in November 2012 and resided separately, in Kingston, Ontario. Their agreement then was that DF would live with Michael Monday to Wednesday and alternate weekends, and he would live with Brittany Wednesday to Friday and alternate weekends. Relations between the two parents were strained. Michael engaged a housekeeper to assist with local driving of himself and DF, as well as with housekeeping and assisting Michael in caring for DF. In early 2013 the housekeeper returned to her home abroad, and Michael’s mother temporarily relocated from her home in Thornhill, Ontario to Michael’s Kingston residence and helped Michael care for DF during the days and nights each week when DF lived with Michael.
+[5] In June 2013, with his MS worsening, Michael moved from Kingston to his parents’ home in Thornhill. Likewise at that time Brittany moved from Kingston to her parents’ home in Aurora, Ontario. Michael and Brittany then agreed that Michael would have custody of DF for each Friday (drop-off after school), Saturday and Sunday (drop-off Sunday evening, after dinner, earlier if bad weather), and Brittany would have DF the remainder of each week, with her parents’ assistance, recognizing that for certain of the daytime week-day hours DF was in attendance at school and thus during those times not requiring Brittany’s direct supervision. In February 2014 when Michael’s MS was continuing to worsen, Brittany unilaterally changed this weekly schedule to Michael merely visiting with DF in a municipal park for one hour each week.
+[6] In cross-examination Mrs. Furlan testified that from November 2012 to February 2014 Michael and Brittany had shared custody of DF but major responsibilities were handled by Brittany, due to Michael’s MS condition. She said that commencing later in June 2013, DF weekly had 40% of time with Michael and with Brittany 60%. Brittany drove DF to and from school in Aurora. Brittany did not share with Michael problems or issues concerning DF. Michael, at his residence with his parents, had a separate set of clothes for DF from what Brittany had (they did not share one set of clothes for DF), a separate room for DF and a separate bed for DF. Ever since Michael had called police in Kingston about Brittany in the winter of 2013 and she was escorted from Michael’s premises (had been invited, argument ensued, see Exhibit A-7, police report) these parents’ ability to communicate constructively with each other had deteriorated. Michael has completed or almost completed a PhD in Engineering at Queen’s University. No other persons (such as Brittany) testified.
+[7] Documentary evidence included (Exhibit A-5) a letter dated July 30, 2014 to Michael per his request from Family and Children’s Services in Kingston advising that due to that agency having had no involvement since early 2013 with DF and parents, the agency could not comment about who had maintained primary care of DF. Exhibit A-6 is a legal brief filed on Brittany’s behalf in Ontario Superior Court of Justice (Family Court) for an April 2013 case conference. The brief understandably is partial to Brittany but does state that the two parents then had “approximately equal time” with DF.
+[8] Exhibit A-8 consists of six letters, one written by the site director of DF’s Kingston nursery school advising that Michael and a housekeeper usually would drop-off and pick-up DF by car daily during the Wednesday to Friday period. The other letters in this exhibit similarly and generally affirmed Michael’s care for DF on weekends within the period September 2013 to February 2014.
+[9] In argument on Michael’s behalf it was submitted that he had had care of DF 50% of the time while living in Kingston and 40% of the time after June 2013 while living in the Toronto area, until February 2014.
+Analysis:
+[10] I have considered the following jurisprudence submitted by the Respondent – Van Boekel v. R., 2013 TCC 132; Brady v. R., 2012 TCC 240 and D’Elia v. R., 2012 TCC 180.
+[11] The first issue is whether Michael is entitled to the CCTB during the relevant periods (monthly from July 2012 to June 2013 and monthly from July 2013 to June 2014). The Respondent argues that during these periods Michael was not the primary caregiver of DF nor a shared-custody parent of DF, and also that Michael was not residing with DF. The Respondent raised no other objections regarding Michael.
+[12] In respect of the CCTB the terms “eligible individual” and “shared-custody parent” are defined at section 122.6 of the Act. The following is partial text of the definition of “eligible individual” and the full text of the definition of “shared-custody parent.”
+“eligible individual” in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is a parent of the qualified dependant who
+(i) is the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant and who is not a shared-custody parent in respect of the qualified dependant, or
+(ii) is a shared-custody parent in respect of the qualified dependant,
+(c) is resident in Canada or, where the person is the cohabiting spouse or common-law partner of a person who is deemed under subsection 250(1) to be resident in Canada throughout the taxation year that includes that time, was resident in Canada in any preceding taxation year,
+(d) is not described in paragraph 149(1)(a) or 149(1)(b), and
+(e) is, or whose cohabiting spouse or common-law partner is, a Canadian citizen or a person who
+(i) is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act,
+(ii) is a temporary resident within the meaning of the Immigration and Refugee Protection Act, who was resident in Canada throughout the 18 month period preceding that time, or
+(iii) is a protected person within the meaning of the Immigration and Refugee Protection Act,
+(iv) was determined before that time to be a member of a class defined in the Humanitarian Designated Classes Regulations made under the Immigration Act,
+and for the purposes of this definition,
+(f) where the qualified dependant resides with the dependant’s female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+- and -
+“shared-custody parent” in respect of a qualified dependent [sic] at a particular time means, where the presumption referred to in paragraph (f) of the definition “eligible individual” does not apply in respect of the qualified dependant, an individual who is one of the two parents of the qualified dependant who
+(a) are not at that time cohabitating spouses or common-law partners of each other,
+(b) reside with the qualified dependant on an equal or near equal basis, and
+(c) primarily fulfil the responsibility for the care and upbringing of the qualified dependant when residing with the qualified dependant, as determined in consideration of prescribed factors.
+[13] I find on the evidence, summarized above, that for the earlier of the two pertinent periods - July 2012 to June 2013 - Michael was a “shared-custody parent” and hence an “eligible individual”. That is, within that period Michael was not cohabiting with DF’s mother Brittany, he did reside with the qualified dependant DF on an equal or near equal basis relative to Brittany and he did primarily fulfil responsibility for the care and upbringing of DF when residing with DF Monday to Wednesday and every second weekend. In finding Michael was residing with DF, I have concluded this was occurring on a “settled and usual basis” as referred to in D’Elia, supra, para. 16.
+[14] For the finding that Michael had primary responsibility for the care and upbringing of DF when residing with him, I refer to the Income Tax Regulations, section 6302 (ITR 6302) which lists factors as to “care and upbringing” per paragraph (h) of the above section 122.6 definition of “eligible individual.” ITR 6302 provides:
+6302 For the purposes of paragraph (h) of the definition “eligible individual” in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[15] Regarding ITR 6302(a), I find on the totality of the evidence that Michael did have supervision of the daily activities and needs of DF when Michael was residing with DF. Likewise at such times Michael, per ITR 6302(b), “maintain[ed] a secure environment” in which DF resided, including providing a complete set of clothing for him, providing him his own room and his own bed. Regarding ITR 6302(c), being “arrangement of, participation in, and transportation to, medical care at regular intervals and as required for [DF]”, there was evidence that in Kingston Michael had initiated a hearing test medical appointment for DF, attended by both Michael and Brittany.
+[16] There was little evidence relating specifically to the remaining ITR 6302 factors. However I perceive, again based on totality of the evidence (and noting the Respondent’s non-pleading of any assumptions made by the Minister specific to these factors, thus putting an onus on the Respondent to establish which if any of these factors did not apply in Michael’s favour), that in general a balance of these factors was met by Michael during the portion of each week that he resided with DF.
+[17] However, for the subsequent period of July 2013 to June 2014 - commencing when Michael moved to his parents’ Thornhill home, and the weekly schedule then shifting to Michael having DF only from Friday late afternoon to Sunday early evening - in my view Michael no longer lived with DF on an equal or near equal basis. Thus he was no longer a shared-custody parent. Nor was he DF’s primary caregiver. This weekly arrangement involved only one full day (Saturday) of DF being with Michael versus four full days (Monday, Tuesday, Wednesday, Thursday) each week during which DF was with his mother, Brittany. Michael’s mother acknowledged that Brittany held primary responsibility for DF during this period, in terms of school contact, etc., noting also that Brittany did not “share” with Michael relevant information re DF. Subsequently as of February 14, 2014 Brittany abruptly relegated Michael to a weekly share of time with DF of only a single hour in a municipal park. Again, throughout this time Michael’s MS had continued to worsen.
+[18] Thus, in this appeal Michael is entitled to the CCTB, but only for the period July 2012 to June 2013 monthly.
+[19] Turning to the GST/HSTC entitlement issue, the Minister denied Michael this tax credit on the assumption that DF did not reside with Michael during the relevant period, thus DF was not a “qualified dependent” of Michael within the meaning of subsection 122.5(1) of the Act, as follows:
+“qualified dependant” of an individual, in relation to a month specified for a taxation year, means a person who at the beginning of the specified month
+(a) is the individual’s child or is dependent for support on the individual or on the individual’s cohabiting spouse or common-law partner;
+(b) resides with the individual;
+(c) is under the age of 19 years;
+(d) is not an eligible individual in relation to the specified month; and
+(e) is not a qualified relation of any individual in relation to the specified month.
+[20] However, in respect of a qualified dependent of two or more individuals, as here, paragraph 122.5(6)(b) provides that the clause (b) requirement of the term “qualified dependent”, i.e., that the child “resides with the individual”, is met if the particular individual is an “eligible individual” per section 122.6 except with the term “qualified dependent” in that section having its subsection 122.5(1) meaning. Already I have found that for the period July 2012 to June 2013 monthly, Michael was a section 122.6 “eligible individual” by reason of being a “shared-custody parent.” Thus, per paragraph 122.5(6)(b) and as required substituting the subsection 122.5(1) meaning of “qualified dependent”, in my view Michael is entitled to the GST/HSTC for the period January 2013 to April 2013 quarterly, although not for the period July 2013 to May 2014 quarterly.
+[21] Accordingly, success is divided in these four appeals. Specifically:
+i. the appeal of the July 18, 2014 redetermination as to the CCTB in respect of the period November 2012 to June 2013 monthly (particularized at paragraph 3 of the Respondent’s Reply) is allowed, without costs, and that redetermination is referred back to the Minister for reconsideration and redetermination on the basis that Michael is entitled to the CCTB that per that redetermination he had been required to repay;
+ii. the appeal of the August 5, 2014 redetermination as to the GST/HSTC in respect of the period January 2013 to April 2013 quarterly (particularized at paragraph 5 of the Respondent’s Reply) is allowed, without costs, and that redetermination is referred back to the Minister for reconsideration and redetermination on the basis that Michael is entitled to the GST/HSTC that per that redetermination he had been required to repay;
+iii. the appeal of the July 18, 2014 redetermination as to the CCTB in respect of the period July 2013 to June 2014 monthly (particularized at paragraph 7 of the Respondent’s Reply) is denied, without costs; and
+iv. the appeal of the August 5, 2014 redetermination as to the GST/HSTC in respect of the period July 2013 to April 2014 quarterly (particularized at paragraph 9 of the Respondent’s Reply) is denied, without costs.
+This Amended Reasons for Judgment is issued in substitution for the Reasons for Judgment dated January 25th, 2018.
+Signed at Ottawa, Canada, this 8th day of February 2018.
+“B. Russell”
+Russell J.
+CITATION:
+2018TCC25
+COURT FILE NO.:
+2016-1818(IT)I
+STYLE OF CAUSE:
+MICHAEL FURLAN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 23, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+January 25, 2018
+DATE OF AMENDED JUDGMENT
+AND REASONS FOR JUDGMENT: February 8, 2018
+APPEARANCES:
+Agent for the Appellant:
+Smadar Furlan
+Counsel for the Respondent:
+John Chapman
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

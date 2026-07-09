@@ -1,0 +1,190 @@
+---
+title: "James c. Canada (Ressources humaines et Développement des compétence)"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30861/index.do"
+last_modified: "2012-06-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 229"
+citation2: ""
+neutral_citation: "2012 CCI 229"
+decision_date: "2012-06-26"
+language: "fr"
+item_id: "30861"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7358
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:32:32.722000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fe3199f88f61b2f79284909cbf71fb188d96012424c3b6419be6bf53b424ccac"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# James c. Canada (Ressources humaines et Développement des compétence)
+
+- Citation: 2012 CCI 229
+- Decision date: 2012-06-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7358, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+James c. Canada (Ressources humaines et Développement des compétence)
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-06-26
+Référence neutre
+2012 CCI 229
+Numéro de dossier
+2011-2921(OAS)
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2011-2921(OAS)
+ENTRE :
+FRANCISCA JAMES,
+appelante,
+et
+LE MINISTRE DES RESSOURCES HUMAINES
+ET DU DÉVELOPPEMENT DES COMPÉTENCES,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 14 mai 2012, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Randall Bocock
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimé :
+Me Adam Gotfried
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à la Cour au moyen d’un renvoi fondé sur le paragraphe 28(2) de la Loi sur la sécurité de la vieillesse concernant la détermination, par le ministre des Ressources humaines et du Développement des compétences (le « ministre »), en date du 10 septembre 2010, du revenu ou des sources de revenu de l’appelante est rejeté. Par conséquent, l’affaire est renvoyée au tribunal de révision, avec les conclusions suivantes :
+1. la détermination du revenu par le ministre était bien‑fondée;
+2. le revenu mensuel de base de l’appelante pour les années de référence 2005 à 2008 inclusivement excédait le maximum permis en vertu de la Loi sur la sécurité de la vieillesse pour le paiement du Supplément de revenu garanti.
+Signé à Toronto (Ontario), ce 26e jour de juin 2012.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 6e jour d’août 2012.
+Marie-Christine Gervais
+Référence : 2012 CCI 229
+Date : 20120626
+Dossier : 2011-2921(OAS)
+ENTRE :
+FRANCISCA JAMES,
+appelante,
+et
+LE MINISTRE DES RESSOURCES HUMAINES
+ET DU DÉVELOPPEMENT DES COMPÉTENCES,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+Renvoi à la Cour
+[1] Il s’agit d’un renvoi adressé à la Cour par le Bureau du Commissaire des tribunaux de révision (le « renvoi ») en vertu du paragraphe 28(2) la Loi sur la sécurité de la vieillesse (la « Loi »).
+Sommaire du régime du Supplément de revenu garanti
+[2] La disposition d’ordre procédural de la Loi qui est pertinente en l’espèce, à savoir le paragraphe 28(2), prévoit ce qui suit :
+28(2) Lorsque l’appelant prétend que la décision du ministre touchant son revenu ou celui de son époux ou conjoint de fait, ou le revenu tiré d’une ou de plusieurs sources particulières, est mal fondée, l’appel est, conformément aux règlements, renvoyé pour décision devant la Cour canadienne de l’impôt. La décision de la Cour est, sous la seule réserve des modifications que celle-ci pourrait y apporter pour l’harmoniser avec une autre décision rendue aux termes de la Loi sur la Cour canadienne de l’impôt sur un appel pertinent à celui interjeté aux termes de la présente loi devant un tribunal de révision, définitive et obligatoire et ne peut faire l’objet que d’un recours prévu par la Loi sur les Cours fédérales.
+[3] En vertu des articles 38 à 47 du Règlement sur la sécurité de la vieillesse, la Cour a tenu une audience concernant le renvoi afin de déterminer le revenu de la l’appelante, Francisca James, ou le revenu qu’elle a tiré d’une source particulière.
+[4] L’article 12 de la Loi prévoit le paiement à un pensionné d’un supplément (le Supplément de revenu garanti ou le « SRG »). Le montant du SRG, qui est fixé en vertu de la Loi, a été augmenté et indexé selon l’indice des prix à la consommation au fil des ans.
+[5] Le paragraphe 12(1) de la Loi fixait le supplément à 562,93 $ par mois, sous réserve des augmentations mentionnées ci‑dessus.
+[6] Plus précisément, le montant pouvant être payé était limité selon le calcul suivant (non souligné dans l’original) :
+[…]
+12(5) Malgré le paragraphe (2), le montant du supplément qui peut être payé à un pensionné pour un mois commençant après décembre 1997 correspond au résultat du calcul suivant :
+[(A-B) x C] - D/2
+où :
+[…]
+D [représente] le revenu mensuel de base du pensionné, arrondi au multiple de deux inférieur.
+[…]
+12(6) Au présent article, « revenu mensuel de base » s’entend : […]
+b) dans le cas du demandeur qui, la veille du premier jour de la période de paiement en cours, était l’époux ou conjoint de fait d’une personne qui ne peut recevoir de pension pour cette période de paiement, du résultat du calcul suivant :
+A/24 - B/2
+où :
+A représente le total des revenus des époux ou conjoints de fait pour l’année de référence,
+[…]
+[7] Sous le régime de la Loi, si le revenu combiné de toutes provenances d’un demandeur et de son époux excède la moyenne de leurs pensions combinées qui sont payables par ailleurs en vertu de la Loi, le SRG n’est généralement pas payable pendant la période de 12 mois allant du 1er avril au 31 mars (l’« année de référence ») qui commence au cours de toute année civile suivant l’année de référence. En l’espèce, les années de référence en question sont 2005, 2006, 2007 et 2008.
+[8] Par conséquent, si la Cour juge que, dans l’une ou l’autre de ces années de référence, la demanderesse et son époux avaient un revenu combiné de toutes les sources de revenu de toutes provenances supérieur à leurs pensions, aucun supplément de revenu garanti ou SRG n’est payable en vertu de la Loi.
+Les hypothèses du ministre
+[9] Le ministre s’est fondé sur les hypothèses suivantes pour déterminer le revenu mensuel de base de l’appelante selon la Loi et pour rendre la décision correspondante de refuser le SRG :
+a) l’appelante était aussi connue sous les noms de Francisca C.B. Low, Low Cha Boh et Cha Boh Low;
+b) l’appelante a quitté la Malaisie pour s’installer au Canada en août 1988;
+c) l’appelante réside au Canada depuis 1988;
+d) l’appelante est une citoyenne canadienne;
+e) l’appelante a épousé Stephen James (l’« époux ») le 29 janvier 1986;
+f) l’appelante a commencé à recevoir des prestations de la Sécurité de la vieillesse (la « SV ») et le SRG en octobre 2006, le mois suivant son 65e anniversaire de naissance;
+g) l’appelante a été jugée admissible au SRG sur la foi des déclarations qu’elle a faites dans ses demandes selon lesquelles son époux et elle n’avaient aucun revenu ou avaient un revenu modeste;
+h) l’époux réside en Malaisie;
+i) l’appelante et l’époux possèdent un compte bancaire conjoint à la TD Canada Trust au Canada;
+j) l’époux a fait de nombreux retraits en Malaisie dans le compte bancaire conjoint à la TD Canada Trust presque tous les mois entre septembre 2002 et septembre 2008;
+k) l’époux a un autre compte bancaire en Malaisie;
+l) l’époux travaille comme comptable en Malaisie;
+m) l’époux gagne 10 000 $ par mois en tant que comptable;
+n) entre septembre 2002 et septembre 2008, l’époux a transféré la somme de 186 918 $ de son compte bancaire en Malaisie au compte bancaire conjoint à la TD Canada Trust au Canada;
+o) les versements hypothécaires mensuels de l’appelante étaient de 1 232,19 $ de septembre 2002 à août 2006;
+p) l’appelante et l’époux ont fait une demande de renouvellement de prêt hypothécaire en septembre 2006;
+q) le versement hypothécaire mensuel est passé à 2 422,36 $ en septembre 2006;
+r) à cette époque, l’appelante recevait seulement 1 180,43 $ par mois au titre de la SV, du SRG et du Régime de pensions du Canada;
+s) le revenu combiné de toutes provenances de l’appelante et de l’époux dépassait le seuil de revenu maximal auquel le SRG était payable pour les périodes de paiement englobant les années civiles 2006, 2007, 2008, 2009 et 2010.
+Les allégations de l’appelante
+[10] L’appelante, Francisca James, a déclaré dans son témoignage que son époux est sans le sou. La richesse apparente de celui‑ci, qui ressort des dépôts bancaires, des virements télégraphiques et des autres actifs admis en preuve, provient de l’argent emprunté à des amis et à des membres de sa famille. À titre d’explication, l’appelante a écrit, dans une demande de prêt bancaire, que, dans les faits, le revenu de 10 000 $ par mois que son époux avait déclaré était une estimation de son revenu futur, mais que, dans les faits, ce montant ne représentait pas de façon exacte le revenu qu’il gagnait actuellement. L’appelante a dit également que cette inexactitude n’avait pas été éclaircie à l’intention de la banque parce que celle‑ci n’avait pas posé cette question précise. Elle a déclaré également qu’elle est sans ressource et qu’elle est totalement à la charge de sa fille et des membres de sa famille au Canada.
+[11] Mme James n’a pas été en mesure de produire une preuve documentaire ou un témoignage de vive voix direct concernant les prêts que ses amis et des membres de sa famille leur avaient faits, à elle et à son époux, parce qu’elle n’en voyait pas la nécessité. Je mentionne cependant qu’elle a produit des billets de réclamation d’un prêteur sur gages afin d’établir à première vue qu’elle est pauvre.
+[12] Elle a expliqué à la Cour qu’il lui était resté seulement 24 000 $ pour ses propres besoins après que son époux eut retiré une somme d’environ 160 000 $ de leur compte bancaire conjoint pendant les années de référence en question et a répété que ces sommes provenaient de prêts et ne constituaient pas un revenu.
+[13] Par ailleurs, l’appelante a laissé entendre que les autorités du revenu de l’intérieur de la Malaisie pouvaient éclaircir tous ces malentendus concernant le revenu de son époux, mais elle a mentionné à la Cour que l’Agence du revenu du Canada n’avait pas communiqué avec elles, malgré ses demandes pressantes. Elle n’a pas expliqué pourquoi son époux ou elle, à qui il appartenait de réfuter les hypothèses du ministre, n’avait pas fourni cette information.
+[14] Bien qu’il soit peut‑être vrai que l’appelante se trouve actuellement dans une situation financière très difficile, notamment sur le plan fiscal, les conclusions qui suivent et les hypothèses de fait du ministre énoncées ci‑dessus qui l’ont amené à rendre sa décision concernant le revenu mensuel de base de l’appelante ont été confirmées par le témoignage d’une ancienne consultante en expertise opérationnelle de Service Canada. Celle‑ci a confirmé les faits suivants, qui n’ont pas été contestés par l’appelante :
+1. l’appelante n’a pas répondu aux demandes de renseignements de Service Canada concernant les prêts et transferts d’argent allégués faites pendant l’enquête et n’a produit aucune preuve de ces prêts et transferts devant la Cour;
+2. des relevés bancaires indiquant des soldes créditeurs très élevés dans des comptes bancaires canadiens au nom de l’appelante démontrent l’existence d’actifs;
+3. l’époux de l’appelante a retiré des sommes élevées de comptes bancaires canadiens en faisant des retraits directs en Malaisie;
+4. la consultante de Service Canada disposait d’une preuve provenant d’un tiers désintéressé – le chiropraticien de l’appelante – qui indiquait que l’époux de l’appelante avait vécu au Canada pendant certaines parties des années en question.
+[15] Pour conclure, l’appelante ne comprend peut‑être pas que la loi exige que le revenu de toutes provenances qu’elle et son époux ont tiré de toutes les sources soit mis en commun aux fins de la détermination de son admissibilité au SRG.
+[16] Pour expliquer son revenu ou bien les conclusions et les hypothèses du ministre concernant son revenu et celui de son époux, l’appelante n’a produit aucune preuve que ce soit sous la forme :
+a) d’une preuve documentaire des prêts allégués faits par des membres de la famille et des amis en Malaisie;
+b) du témoignage de son dentiste (qui, selon elle, avait une meilleure connaissance des faits que les autres personnes), de son époux ou d’un autre tiers qui aurait étayé ses prétentions selon lesquelles son époux ou elle n’avaient aucun revenu ou avaient un revenu minime;
+c) de tout renseignement des autorités du revenu de l’intérieur de la Malaisie concernant le revenu déclaré par son époux;
+d) de tout témoignage ou preuve concernant les ressources utilisées par l’appelante pour faire l’acquisition de biens immeubles canadiens au fil des ans.
+[17] Bien qu’il ne soit pas possible de déterminer avec précision le revenu de toutes provenances conjoint de l’appelante et de son époux pour les années en question, la Cour conclut que, selon la prépondérance des probabilités, le revenu établi pour l’appelante pour les années de référence 2005 à 2008 inclusivement était de fait beaucoup plus élevé que le total de ses prestations de pension mensuelles provenant de sources de toutes provenances, soit 1 180,43 $.
+[18] Par conséquent, la Cour peut répondre au présent renvoi en concluant que la détermination, par le ministre, du revenu mensuel de base de l’appelante était bien‑fondée. La Cour conclut également que le revenu mensuel de base de l’appelante, déterminé conformément à la Loi, excédait le maximum permis par la Loi pour le paiement du SRG.
+Signé à Toronto (Ontario), ce 26e jour de juin 2012.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 6e jour d’août 2012.
+Marie-Christine Gervais
+RÉFÉRENCE : 2012 CCI 229
+NO DU DOSSIER DE LA COUR : 2011-2921(OAS)
+INTITULÉ : Francisca James c. Le ministre des Ressources humaines et du Développement des compétences
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 14 mai 2012
+MOTIFS DU JUGEMENT : L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT : Le 26 juin 2012
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Adam Gotfried
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,215 @@
+---
+title: "Bergeron v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28598/index.do"
+last_modified: "2008-04-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 165"
+citation2: ""
+neutral_citation: "2008 TCC 165"
+decision_date: "2008-04-14"
+language: "en"
+item_id: "28598"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1065
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:20:32.788000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a1e31fa5a4bd8c57acbd3967cf8e9e45fb3513d4f111df7cf6d9d14cb748c762"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bergeron v. The Queen
+
+- Citation: 2008 TCC 165
+- Decision date: 2008-04-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1065, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bergeron v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-14
+Neutral citation
+2008 TCC 165
+File numbers
+2007-3100(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3100(IT)I
+BETWEEN:
+LUC BERGERON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 11, 2008, at Montréal, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent of the Appellant:
+Ronald Gagnon
+Counsel for the Respondent:
+Susan Shaughnessy
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2004 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of April 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 26th day of May 2008.
+Brian McCordick, Translator
+Citation: 2008TCC165
+Date: 20080414
+Docket: 2007-3100(IT)I
+BETWEEN:
+LUC BERGERON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Appellant is appealing, under the Informal Procedure, a reassessment made under the Income Tax Act ("the Act") for the 2004 taxation year. In this reassessment, the Minister of National Revenue ("the Minister") disallowed the Appellant's claim of maintenance expenses that he incurred in 2004 with respect to a rental building that he owned.
+[2] In making and confirming the reassessment in respect of the 2004 taxation year, the Minister relied on the same assumptions of fact, namely:
+(a) The Appellant is the owner of a building located at 4716‑4720 Marquette Street in Montréal.
+(b) The building has two businesses, on the ground floor and in the basement, and two apartments upstairs.
+(c) The Appellant occupies one of the two apartments.
+(d) That apartment takes up 20% of the area of the building.
+(e) The gross revenues from the building total $36,097.
+(f) The Appellant claimed the following rental expenses in his income tax return:
+Expense
+Total outlay
+Personal portion
+Qualifying expenses according to Appellant
+Qualifying expenses according to audit
+Insurance
+$2,243
+$449
+$1,795
+$1,795
+Interest
+$7,769
+$1,554
+$6,216
+$6,216
+Maintenance and repairs
+$43,588
+$8,718
+$34,870
+$1,560
+Accounting fees
+$345
+0
+$345
+$345
+Taxes
+$4,800
+$960
+$3,840
+$3,840
+Utilities
+$100
+$20
+$80
+$80
+Bank fees
+$56
+$11
+$45
+$45
+Total
+$58,902
+$11,711
+$47,191
+$13,881
+(g) After filing his return, the Appellant amended his expenses and reduced the personal portion of the maintenance and repairs item to $355.
+(h) The expenses associated with the maintenance and repairs item that were disallowed as a result of the audit are as follows:
+(i) $16,229 paid to Entreprise Pierre Charest, because the work performed was done to the structure of the apartment, though the expense nonetheless qualified as a capital expenditure;
+(ii) similarly, the sums of $699, $2,895, $139 and $140 spent at Réno-Dépôt for a new kitchen in maple were also capitalized; and
+(iii) the amounts of $8,123 paid to Entreprise Pierre Charest, $9,612 to Doraco Noiseux, $50 to Groupe HPDG and $3,945 to F.S.C. Consultant were disallowed because they were personal expenses for the Appellant.
+[3] In addition, the evidence disclosed as follows:
+(i) The building was erected in 1915 and acquired by the Appellant in 1998.
+(ii) From 2000 to 2005, the Appellant lived in the apartment situated at 4716 Marquette Street ("the apartment at 4716");
+(iii) The apartment situated at 4718 Marquette Street ("the apartment at 4718") was rented by people at arm's length until December 31, 2003. It was vacant in 2004 and 2005, and underwent major and structural renovations during this period. In fact, the sum of $33,309 claimed as rental expenses by the Appellant for the 2004 taxation year and disallowed by the Minister was related to the work done on this apartment.
+(iv) Since January 1, 2006, the date on which the renovations to the apartment at 4718 were completed, the apartment has been the Appellant's principal residence.
+(v) In 2003, thus before the renovations began, the Appellant rented out the apartment at 4718 for roughly $550 a month. The Appellant testified that the nature and the scope of the renovations to the apartment at 4718 would allow him to charge roughly $1,500 a month today. The Appellant also testified that his intention was always to rent this renovated apartment to a person at arm's length for about $1,500 a month. The Appellant explained that he was living in the renovated apartment while waiting to acquire a building similar to the one on Marquette Street, renovate it, and then live in one of the apartments. The Appellant added that he had been particularly active during the last eight months in his quest to acquire a building that required major renovations.
+[4] It should be noted that the agent of the Appellant acknowledged that the 2004 renovation expenditures for the apartment at 4718 were not current expenses incurred by the Appellant to earn income from property, but rather, capital expenditures, since the purpose of the renovations was to permanently improve the building. The agent nevertheless argued that the cost of all the work done at the apartment at 4718 in 2004 should be added to the capital cost of the building and that paragraph 20(1)(a) of the Act allowed a taxpayer to deduct, in computing his income from property, such part of the capital cost to him of property, or such amount in respect of the capital cost to him of property, if any, as was allowed by regulation. In other words, the Appellant's agent claimed that, even though his client could not deduct the cost of the renovations from his 2004 rental income as a current expense, he could nevertheless claim a depreciation expense, to the extent permitted by regulation, for the cost of the renovations, though in his submission, this depreciation expense should be reduced by 20% because his client personally occupied 20% of the area of the building on Marquette Street.
+[5] Counsel for the Respondent, on the other hand, submitted as follows:
+(i) All amounts paid in 1994 to Les Entreprises Pierre Charest Enr., Réno‑Dépôt, Doraco Noiseux, Groupe HPDH and F.S.L. Consultant Inc. (Exhibits A-1, A-2 and A-3) were personal expenses for the Appellant, because the evidence adduced at the hearing showed that they were all related to the apartment at 4718, which has been the Appellant's principal residence since the end of the renovation work.
+(ii) The Respondent would never have found that the amount of $16,229 paid to Les Entreprises Pierre Charest Inc. (Exhibit A-2) and the amounts of $699, $28,959, $139 and $140 paid to Réno-Dépôt in 2004 (Exhibit A-3) qualified as capital expenditures if the Respondent had known that the Appellant had been living in the apartment at 4718, not the apartment at 4716, since the completion of the renovations.
+[6] The relevant provisions of the Act are as follows:
+18(1)(a)
+(a) General limitation -- an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+18(1)(b)
+(b) Capital outlay or loss -- an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part;
+20(1)(a)
+(a) Capital cost of property [CCA] -- such part of the capital cost to the taxpayer of property, or such amount in respect of the capital cost to the taxpayer of property, if any, as is allowed by regulation;
+18(1)(h)
+(h) Personal and living expenses -- personal or living expenses of the taxpayer, other than travel expenses incurred by the taxpayer while away from home in the course of carrying on the taxpayer's business;
+248(1)
+"personal or living expenses" includes
+(a) the expenses of properties maintained by any person for the use or benefit of the taxpayer or any person connected with the taxpayer by blood relationship, marriage or common-law partnership or adoption, and not maintained in connection with a business carried on for profit or with a reasonable expectation of profit,
+(b) the expenses, premiums or other costs of a policy of insurance, annuity contract or other like contract if the proceeds of the policy or contract are payable to or for the benefit of the taxpayer or a person connected with the taxpayer by blood relationship, marriage or common-law partnership or adoption, and
+(c) expenses of properties maintained by an estate or trust for the benefit of the taxpayer as one of the beneficiaries;
+[7] Paragraph 18(1)(a) of the Act sets out the general rule that expenses are not deductible in the calculation of the taxpayer's income from a business or property, except to the extent that they were made or incurred by the taxpayer for the purpose of gaining or producing income from that business or property.
+[8] Paragraph 18(1)(h) of the Act states, inter alia, that personal and living expenses are not deductible in computing the taxpayer's income from a business. The term "personal or living expenses" is defined in subsection 248(1) of the Act as "the expenses of properties maintained . . . for the use . . . of the taxpayer . . . and not maintained in connection with a business carried on for profit or with a reasonable expectation of profit.
+[9] Paragraph 18(1)(b) of the Act stipulates that a capital outlay is not deductible, except as expressly permitted by Part I of the Act. Paragraph 20(1)(a) of the Act permits a taxpayer to deduct, in computing income from a business or property, such part of the capital cost to the taxpayer of property, or such amount in respect of the capital cost to the taxpayer of property, if any, as is allowed by regulation.
+[10] Finally, section 67 of the Act provides that, even if it is otherwise deductible under the Act, an expense is only deductible if it is reasonable. However, it must be noted that this provision was not raised in the Reply to the Notice of Appeal. Consequently, I shall express no opinion as to whether the expenses were reasonable.
+[11] Consequently, in light of the evidence adduced, I must determine if the deduction of the expenses was prohibited under paragraphs 18(1)(a) and 18(1)(b) of the Act, which have essentially the same effect. In other words, I must answer the following question: Are these expenses personal expenses that were not incurred for the purpose of gaining or producing income from a business?
+Analysis and conclusion
+[12] In the case at bar, the Appellant's agent admits that all the expenditures in question were of a capital nature. And paragraph 18(1)(b) of the Act states that, in computing the income of a taxpayer from property, no deduction shall be made in respect of a capital outlay. However, it must be noted that, based on the relationship between sections 18 and 20 of the Act, paragraph 20(1)(a) permits, within specific limits, that which paragraph 18(1)(b) of the Act prohibits. Indeed, notwithstanding the general prohibition found in paragraph 18(1)(b) of the Act, paragraph 20(1)(a) of the Act allows the taxpayer to deduct, in computing his income from property for a taxation year, a portion of the capital outlay made for the purpose of earning this income. This deduction permitted by paragraph 20(1)(a) is what the Act calls a "capital cost allowance" (CCA), that is, a deduction permitted each year in respect of the cost of acquiring a depreciable asset. In other words, in computing the income derived from the rental property on Marquette Street for the 2004 taxation year, the Appellant had, in principle, the right to claim a CCA, computed based on the undepreciated capital cost (UCC) of the building at the end of that taxation year. The UCC had to include, in principle, those capital expenses in issue that were incurred (and paid) during that year, provided, however, that such capital expenses were incurred (and paid) for the purpose of gaining or producing income from that property. It is understood that if the capital expenses were not incurred (and paid) for the purpose of gaining or producing income from the building, or if they were of a personal nature, the Appellant would not be entitled to claim a CCA for such capital expenses because they could not be included in the UCC of the building at the end of the taxation year. In the instant case, the evidence demonstrates that the capital expenses were related to the apartment at 4718, which has been the Appellant's principal residence since the completion of the work. In my view, these capital expenses were, quite simply, personal expenses for the Appellant, not capital expenses incurred (and paid) by the Appellant for the purpose of gaining or producing income from the building during the taxation year in question.
+[13] In my opinion, the reasoning of the Appellant's agent, that the capital expenses in question should be added to the UCC of the building at the end of the 2004 taxation year, but actually reduced by 20%, the percentage of the building reserved for personal use, does not apply unless the capital expenses were incurred (and paid) both for personal use and for gaining or producing income from property. Therefore, if the Appellant had, for example, replaced the roof of the building in 2004, he would then have been entitled to add the cost of replacing the roof to the calculation of the building's UCC at the end of the 2004 taxation year and claim 80% (the percentage of the area of the building used in 2004 to gain or produce income from property) of the CCA permitted by the regulations. The reasoning of the Appellant's agent cannot succeed in the case at bar because the capital expenses in question were related to a portion of the building, the apartment at 4718, which served as the Appellant's principal residence once the renovations were completed, and which remains the Appellant's principal residence.
+[14] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 14th day of April 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 26th day of May 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC165
+COURT FILE NO.: 2007-3100(IT)I
+STYLE OF CAUSE: Luc Bergeron v.
+Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: February 11, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: April 14, 2008
+APPEARANCES:
+Agent of the Appellant:
+Ronald Gagnon
+Counsel for the Respondent:
+Susan Shaughnessy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

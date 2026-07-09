@@ -1,0 +1,177 @@
+Title: Perron c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30691/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-40-30691-perron-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2012-01-31
+
+# Perron c. M.R.N.
+
+- Citation: 2012 CCI 40
+- Decision date: 2012-01-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7190, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perron c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-01-31
+Référence neutre
+2012 CCI 40
+Numéro de dossier
+2011-1540(EI)
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2011-1540(EI)
+ENTRE :
+HÉLÈNE L. PERRON,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LES PLACEMENTS BASQUE INC.,
+intervenante.
+____________________________________________________________________
+Appel entendu le 22 août 2011, à Québec (Québec).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Représentant de l’appelante :
+Ulysse Duchesne
+Avocate de l’intimé :
+Me Marie-France Dompierre
+____________________________________________________________________
+JUGEMENT
+Selon les motifs du jugement ci-joints, l’appel est rejeté et la décision que le ministre du Revenu national a rendue le 3 mai 2011 en vertu de la Loi sur l’assurance‑emploi est confirmée.
+Signé à Ottawa (Ontario), ce 31e jour de janvier 2012.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2012 CCI 40
+Date : 20120131
+Dossier : 2011-1540(EI)
+ENTRE :
+HÉLÈNE L. PERRON,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LES PLACEMENTS BASQUE INC.,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+[1] L’intimé a déterminé que l’appelante n’occupait pas un emploi assurable pendant la période du 23 mai au 25 septembre 2010 lorsqu’elle était au service de Les Placements Basque inc. (payeur).
+[2] L’appelante conteste cette décision.
+[3] L’intimé ne conteste pas que l’appelante soit une employée du payeur.
+[4] Par contre, l’intimé a conclu que l’appelante occupait un emploi exclu, parce qu’un contrat de travail semblable n’aurait pas été conclu s’il n’y avait pas eu de lien de dépendance entre le payeur et l’appelante.
+[5] Les dispositions pertinentes de la Loi sur l’assurance-emploi sont les alinéas suivants de l’article 5 :
+(2) N’est pas un emploi assurable :
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+(3) Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[6] Pendant la période en litige les actionnaires du payeur étaient Jean-Marc Carré, Claude Poulin, Gilles Perron, André Perron et l’appelante.
+[7] À part l’appelante, chaque actionnaire détenait 23 % des actions avec droit de vote. L’appelante détenait 8 % des actions avec droit de vote.
+[8] L’appelante est l’épouse de Gilles Perron.
+[9] L’appelante et Gilles Perron sont les parents d’André Perron. Jean-Marc Carré et Claude Poulin sont les beaux-frères de Gilles Perron et de l’appelante.
+[10] L’appelante n’a pas contesté qu’elle est liée au payeur au sens de la Loi de l’impôt sur le revenu.
+[11] Quant à l’application de l’alinéa 5(3)b), les principes sont bien établis.
+[12] Dans la décision Lavoie c. M.R.N.[1], le juge Bédard résume le rôle de la Cour aux paragraphes 7 à 9 :
+7 La Cour d'appel fédérale a défini à plusieurs reprises le rôle confié par la Loi à un juge de la Cour canadienne de l’impôt. Ce rôle ne permet pas au juge de substituer sa discrétion à celle du ministre, mais il emporte l’obligation de « vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, [. . .] décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable » (voir Légaré c. Canada (Ministre du Revenu national - M.R.N.), [1979] A.C.F. no 878 (QL), au par. 4).
+8 En d’autres termes, avant de décider si la conclusion du ministre me paraît toujours raisonnable, je dois, à la lumière de la preuve dont je dispose, vérifier si les allégations du ministre s'avèrent bien fondées, compte tenu des facteurs mentionnés à l'alinéa 5(3)b) de la Loi. Il y a donc lieu de se demander si l’appelant et le payeur auraient conclu un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+9 L’appelant avait le fardeau de la preuve de démontrer que le ministre n’avait pas exercé son pouvoir discrétionnaire selon les principes applicables en la matière, c’est-à-dire essentiellement de démontrer que le ministre n’a pas examiné tous les faits pertinents ou qu’il n’a pas tenu compte de faits qui étaient pertinents.
+[13] En conséquence, ayant entendu toute la preuve, je dois décider si la conclusion du ministre selon laquelle le payeur et une personne sans lien de dépendance n’auraient pas conclu un contrat de travail à peu près pareil me semble toujours raisonnable.
+[14] Pour rendre sa décision, le ministre s’est fondé sur les hypothèses de fait suivantes[2] :
+a) le payeur a été constitué en société le 15 octobre 1987;
+b) le payeur exploitait une pourvoirie de chasse à l’orignal et de pêche à la truite mouchetée à Baie Sainte-Catherine;
+c) le payeur a 8 chalets pouvant recevoir jusqu’à 30 personnes lorsque complets;
+d) le payeur opère du 20 mai au 25 septembre et pendant la saison de la chasse à l’orignal;
+e) le payeur ne participe pas aux différents salons de plein air puisque 75 % de sa clientèle revient chaque année;
+f) le payeur est membre de la fédération des pourvoyeurs qui l’oblige à avoir un gardien sur place;
+g) le numéro de téléphone du payeur inscrit sur les dépliants publicitaires correspond à celui de l’appelante;
+h) Gilles Perron travaille à l’extérieur de la région et donne un coup de main à la pourvoirie en faisant des réparations lorsqu’il est là;
+i) Jean-Marc Carré et Claude Poulin aident à l’occasion;
+j) André Perron est le gardien du payeur, il s’occupe des clients pêcheurs et fait des réparations pendant la période d’activités du payeur;
+k) les signataires des chèques du payeur sont Gilles Perron et l’appelante;
+l) l’appelante est au service du payeur depuis 23 ans;
+m) les tâches de l’appelante sont de recevoir et d’enregistrer les clients, de faire le ménage, avec André Perron, des chalets lors de chaque départ, de faire la tenue de livres, de payer les comptes et d’envoyer les déductions à la source;
+n) le journal des salaires est fait par la conjointe d’André Perron, mais tous les chèques du payeur sont faits par l’appelante;
+o) l’horaire de travail de l’appelante est variable suivant les besoins opérationnels du payeur pour totaliser 45 heures par semaine;
+p) les heures travaillées par l’appelante ne sont pas comptabilisées;
+q) l’appelante était payée un salaire fixe par semaine;
+r) pendant la période en litige, les 18 paies de l’appelante lui ont été payées en 3 versements;
+s) en 2008 le salaire de l’appelante a été diminué de 65 $ par semaine passant de 425 $ à 360 $ sans que les conditions d’emploi ne changent;
+t) cette diminution du salaire de l’appelante est soi-disant due à un manque d’argent du payeur, alors que les relevés d’emploi émis par le payeur à l’appelante révèlent que les semaines travaillées sont passées en 2008 à 18 semaines au lieu de 15 et que la rémunération totale versée n’a pas changé;
+u) selon les différentes versions de l’appelante, elle travaillait soit 50 heures, soit 40 heures alors que l’actionnaire du payeur affirme qu’elle travaillait 35 heures;
+v) en février 2009, l’appelante a ouvert une marge de crédit de 25 000 $ sous son nom personnel mais pour le bénéfice du payeur parce que le taux d’intérêt personnel était inférieur au taux commercial;
+w) en octobre 2010 le solde de cette marge de crédit était de 20 400 $;
+x) les paiements mensuels de cette marge de crédit sont de 200 $ et l’appelante en a assumé la somme de 1 400 $ entre mars 2009 et septembre 2010;
+y) pendant la période en litige, l’appelante a préparé 74 chèques alors que d’octobre 2009 à mai 2010 elle en a préparé 81 sans aucune rémunération;
+z) un travailleur non lié n’accepterait pas de travailler sans rémunération ou avec une diminution de salaire et une augmentation des semaines de travail pour une tâche identique;
+aa) un travailleur non lié n’aurait pas accepté une diminution hebdomadaire de salaire sans que les conditions d’emploi n’aient changé.
+[15] Gilles Perron, Lily Leblond, la soeur de l’appelante, l’appelante et Lucie Asselin, agente des décisions pour le Régime de pensions du Canada et l’assurance‑emploi, ont témoigné.
+[16] Depuis 1990 Mme Leblond faisait la tenue de livres ainsi que la préparation du journal des salaires gratuitement pour aider sa sœur.
+[17] Parmi les pièces déposées, il y a le formulaire CPT110, « rapport sur un appel »[3].
+[18] Bien qu’il y ait de petites divergences, il n’a pas vraiment été question de crédibilité[4].
+[19] L’appelante et son fils étaient les deux employés de l’entreprise. Les autres actionnaires avaient des emplois ailleurs qu’à la pourvoirie, mais y travaillaient occasionnellement quand ils n’étaient pas à leurs autres emplois; ils n’étaient pas engagés comme employés quand ils faisaient du travail pour la pourvoirie.
+[20] Au départ, la division du travail entre les deux était que l’appelante faisait tout le travail à l’intérieur et son fils faisait le travail à l’extérieur. Le travail de l’appelante comprenait tout le travail de bureau ― accueillir les clients, répondre au téléphone, signer les chèques, etc. ― et le nettoyage des chalets. Elle était payée 425 $ par semaine.
+[21] En 2008 l’appelante a eu une chirurgie et, au cours de cette année-là, elle ne pouvait pas faire tout le travail qu’elle faisait avant, notamment le ménage des chalets.
+[22] En conséquence, en 2008, le salaire de l’appelante a été diminué à 360 $ par semaine et Céline Bouchard a été engagée à 360 $ par semaine pour nettoyer les chalets. Mme Bouchard n’avait aucun lien de parenté avec la famille.
+[23] Après 2008, l’appelante avait terminé sa convalescence et a repris ses fonctions, mais son salaire n’a pas été augmenté. Toutefois, son fils a commencé à l’aider en faisant une partie de ses tâches et le salaire de son fils a été augmenté.
+[24] La rémunération totale de l’appelante en 2009 et en 2010 a légèrement dépassé sa rémunération en 2007, car elle a travaillé 18 semaines en 2009 et en 2010, tandis qu’elle a travaillé 15 semaines en 2007 et en 2008[5].
+[25] Je n’ai aucun doute que l’appelante travaillait fort et qu’elle faisait une contribution importante à l’entreprise.
+[26] Bien que l’appelante a réussi à démontrer que certains faits tenus pour acquis par le ministre étaient faux[6], il reste un certain nombre d’éléments qui, pris dans leur ensemble, ne sont pas compatibles avec un contrat que l’entreprise aurait fait avec un employé non lié.
+[27] Ces éléments sont les suivants :
+a) Le fait qu’au cours de toute la période du 23 mai au 25 septembre 2010 l’appelante n’a reçu sa paie que trois fois. Normalement on s’attend à ce qu’un employé soit payé toutes les semaines, toutes les deux semaines ou tous les mois[7].
+b) Le fait que personne ne tenait compte des heures[8].
+c) Le fait que l’appelante gagnait moins que le salaire minimum[9]. Pendant la période elle gagnait 8 $ l’heure tandis que le salaire minimum était de 9 $ l’heure[10].
+d) Même à part le fait que le salaire est en dessous du salaire minimum, il est clair que le salaire de 360 $ par semaine n’est pas établi de la même façon que le salaire qui serait négocié avec un tiers non lié ayant des conditions de travail à peu près semblables. Il est également clair que ce salaire n’est pas à peu près semblable au montant du salaire qui serait payé à un tiers non lié[11].
+[28] Je souligne le fait que certains de ces éléments pris individuellement ne sont pas forcément incompatibles avec un contrat entre personnes non liées, mais pris dans leur ensemble, ils sont incompatibles avec un contrat entre personnes non liées et c’est pour cette raison que je ne peux conclure que la décision du ministre n’était pas raisonnable[12].
+[29] Je regrette, mais je dois rejeter l’appel.
+Signé à Ottawa (Ontario), ce 31e jour de janvier 2012.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE : 2012 CCI 40
+Nº DU DOSSIER DE LA COUR : 2011-1540(EI)
+INTITULÉ DE LA CAUSE : HÉLÈNE L. PERRON c. M.R.N. et
+LES PLACEMENTS BASQUE INC.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : Le 22 août 2011
+MOTIFS DU JUGEMENT PAR : L’honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 31 janvier 2012
+COMPARUTIONS :
+Représentant de l’appelante :
+Ulysse Duchesne
+Avocate de l’intimé :
+Me Marie-France Dompierre
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] 2010 CCI 580.
+[2] Réponse à l’avis d’appel, paragraphe 6.
+[3] Pièce I-1.
+[4] Par exemple, bien qu’il y a eu des déclarations antérieures avec des variations dans le nombre d’heures travaillées par l’appelante, il est clair que l’appelante ne comptait pas ses heures et que l’entreprise ne tenait aucun registre de ses heures. Je suis d’accord avec son témoignage selon lequel le nombre approximatif de 45 heures de travail par semaine représentait une moyenne et il pouvait avoir des variations importantes de jour en jour; le total de 45 heures correspond au nombre indiqué dans les relevés d’emploi. Voir la pièce I-1, à la page 6 du rapport sur un appel, onglet K.
+[5] La rémunération totale de l’appelante était de 6 375 $ en 2007, de 5 400 $ en 2008, de 6 480 $ en 2009 et de 6 480 $ en 2010. Voir la pièce I-1, à la page 6 du rapport sur un appel, onglet K.
+[6] Par exemple, la preuve a révélé que l’appelante a été remboursée pour les paiements qu’elle a faits relativement à la marge de crédit personnelle bien que ces remboursements ont été faits avec un retard.
+[7] Le fils de l’appelante a été payé toutes les deux semaines. Voir la transcription, à la page 32, question 91.
+[8] Cet élément, en soi, a peu de poids.
+[9] Et ce, malgré le fait que ses heures étaient très variables. Cette variabilité était en grande partie pour accommoder les besoins opérationnels de l’entreprise.
+[10] Règlement sur les normes du travail du Québec, c. N-1.1, r. 3, a. 3., tel qu’il s’appliquait pendant la période en question.
+[11] En 2007 l’appelante faisait le travail de bureau et nettoyait les chalets; elle était payée 425 $ par semaine pour ces fonctions. En 2008 les tâches de l’appelante ont été divisées entre elle-même et Mme Bouchard qui ont toutes deux été payées 360 $ par semaine, un total de 720 $ par semaine ― 295 $ de plus par semaine pour faire les mêmes fonctions que l’appelante l’année précédente.
+Vu que Mme Bouchard n’était pas liée au payeur, le salaire de 360 $ par semaine qu’elle recevait pour nettoyer les chalets est représentatif du salaire qui serait payé à un tiers non lié pour un tel travail. En conséquence, étant donné qu’auparavant un salaire de 425 $ par semaine était payé pour le tout, la différence de 65 $ par semaine ne peut être représentative du salaire qui serait négocié avec un tiers pour le travail de bureau pendant 45 heures.
+De même, si le salaire de 360 $ payé en 2008 juste pour le travail de bureau représentait ce qui serait payé à un tiers non lié pour ce travail, un salaire de 360 $ en 2010 pour le travail de bureau et le nettoyage des chalets, même en tenant compte du fait que le fils aidait à ces tâches, ne peut être représentatif de ce qui serait payé à un tiers.
+[12] Je voudrais juste noter ceci. L’appelante pouvait emprunter à un taux d’intérêt plus bas que l’entreprise en utilisant une marge de crédit personnelle. Bien que l’entreprise ait remboursé les paiements faits par l’appelante sur la marge de crédit, ces remboursements ont été faits avec un retard important (typiquement tous les quatre mois : voir la transcription, à la page 92, question 346). En ce qui concerne l’utilisation de la marge de crédit personnelle, la question est de savoir si l’appelante agissait comme employée ou comme actionnaire. Si l’appelante agissait comme actionnaire, cela n’appuierait pas la conclusion du ministre; par contre, si l’appelante agissait comme employée, cela aurait tendance à appuyer la conclusion du ministre puisque normalement un employé ne prête pas de l’argent à son employeur, même temporairement.
+Vu les autres éléments, il n’est pas nécessaire pour moi de tirer une conclusion sur la question de savoir si le prêt était fait en tant qu’actionnaire. Je n’ai pas tenu compte de cet élément pour arriver à ma conclusion.

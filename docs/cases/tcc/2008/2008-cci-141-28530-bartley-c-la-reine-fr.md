@@ -1,0 +1,155 @@
+---
+title: "Bartley c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28530/index.do"
+last_modified: "2008-03-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 141"
+citation2: ""
+neutral_citation: "2008 CCI 141"
+decision_date: "2008-03-07"
+language: "fr"
+item_id: "28530"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1259
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:04:23.919000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "daa8c713e3168b6d91e25bb36ab48b54b4a2c2f90f8eab6ddcb1bed489918eea"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bartley c. La Reine
+
+- Citation: 2008 CCI 141
+- Decision date: 2008-03-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1259, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bartley c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-03-07
+Référence neutre
+2008 CCI 141
+Numéro de dossier
+2006-3303(IT)I
+Juges et Officiers taxateurs
+Eugene P. Rossiter
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3303(IT)I
+ENTRE :
+BRIAN BARTLEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 6 juin 2007, à London (Ontario).
+Devant : L’honorable juge E. P. Rossiter
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Roger Leclaire
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie sous le régime de la Loi de l’impôt sur le revenu relativement à l’année d’imposition 2004 est accueilli et la cotisation est renvoyée au ministre du Revenu national pour qu’il l’examine à nouveau et établisse une nouvelle cotisation conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 7e jour de mars 2008.
+« E. P. Rossiter »
+Juge Rossiter
+Traduction certifiée conforme
+ce 28e jour d’avril 2008.
+Aleksandra Koziorowska
+Référence : 2008CCI141
+Date : 20080307
+Dossier : 2006-3303(IT)I
+ENTRE :
+BRIAN BARTLEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Rossiter
+Introduction/Contexte
+[1] L’appelant est employé de Dow Chemical Canada Inc. (« Dow ») et père de huit enfants. En 2004, trois de ses enfants étudiaient à l’université et ils ont chacun obtenu, dans le cadre du [TRADUCTION] « Programme de bourses d’études supérieures » (le « PBES ») [Higher Education Award Program] de Dow, une bourse d’études supérieures de 3 000 $ à titre de remboursement partiel de leurs frais de scolarité. L’Agence du revenu du Canada (l’« ARC ») a inclus les 9 000 $ dans le calcul du revenu de l’appelant au motif que les bourses constituaient un avantage imposable au sens de l’alinéa 6(1)a) de la Loi de l’impôt sur le revenu (la « Loi »). Le contribuable a interjeté appel et il soutient que les bourses du PBES constituent un revenu provenant de bourses d’études entre les mains de ses filles.
+Question en litige
+[2] La question en litige dans le présent appel consiste à savoir si la somme de 9 000 $ que Dow a versée aux enfants de l’appelant constituait, pour l’appelant, des prestations d’emploi devant être incluses dans le calcul de son revenu en application de l’alinéa 6(1)a) de la Loi.
+Les faits
+[3] En 2004, l’appelant travaillait comme ingénieur chez Dow. Il est marié et père de huit enfants, dont trois fréquentaient l’université en 2004. Chacun des étudiants universitaires a reçu directement de Dow, sous forme de chèque, une somme de 3 000 $ dans le cadre du PBES. Alysia Bartley (Alysia), âgée de 23 ans, étudiait à l’Université Lakehead tandis que Carolyn Bartley (Carolyn), âgée de 21 ans, et Johanna Bartley (Johanna), âgée de 19 ans, fréquentaient l’Université Wilfrid Laurier (collectivement, les « enfants »).
+[4] Les modalités du PBES sont énoncées en détail dans le [TRADUCTION] « Guide à l’intention des employés de Dow Chemical Canada Inc. concernant les avantages offerts dans le cadre du Programme de bourses d’études supérieures (PBES) » [Benefits Guide Higher Education Award Program (HEAP) for Employees of Dow Chemical Canada Inc.] (le « guide »). Certains points saillants du PBES sont ainsi décrits :
+[TRADUCTION]
+1. Le PBES vise à reconnaître le rendement scolaire des enfants d’employés admissibles, ainsi que d’employés à la retraite, établis à l’étranger ou décédés, et à leur offrir une aide financière qui les incite à entreprendre des études postsecondaires.
+2. Le PBES est un programme de remboursement annuel des frais de scolarité de base exigés pour les études universitaires qui s’adresse à un nombre maximal de 100 étudiants chaque année. Le programme défraie l’étudiant de la totalité des frais de scolarité, jusqu’à concurrence d’une somme de 3 000 $ par année scolaire.
+3. Pour être admissible à une bourse, l’étudiant doit être l’enfant d’un employé actuel, handicapé, à la retraite ou décédé de Dow et il doit fréquenter une université, un collège ou un institut reconnu. L’étudiant doit avoir une moyenne de 70 pour 100 au cours de la dernière année d’études secondaires. Si plus de 100 étudiants admissibles présentent leur candidature pendant une année donnée, les bourses seront attribuées aux étudiants ayant les moyennes les plus élevées.
+4. Dans la mesure où l’étudiant conserve un bon niveau scolaire, la bourse peut être renouvelée annuellement, mais pas plus de quatre fois.
+5. L’employeur, Dow, peut modifier ou annuler tout ou partie du programme sans avis préalable aux employés ou aux bénéficiaires.
+[5] Par suite d’une vérification effectuée par l’ARC en 2004, les paiements versés aux étudiants sont traités comme un revenu imposable entre les mains des employés.
+[6] Outre les bourses du PBES, les enfants ont chacun obtenu d’autres bourses d’études. Chacun d’eux a également obtenu un prêt dans le cadre du Programme de prêts d’études intégrés Canada‑Ontario (« PPEICO »). Les enfants ont utilisé les sommes reçues au titre des bourses et du prêt ainsi que leurs économies personnelles pour payer leurs frais de scolarité et leurs autres dépenses. L’appelant a à l’occasion aidé financièrement ses enfants à poursuivre leurs études et, en 2004, il a probablement aidé chacun des trois enfants.
+Thèse de l’appelant
+[7] L’appelant fait valoir ce qui suit au sujet des bourses d’études :
+1. Elles ne peuvent être assimilées à un avantage qu’il a reçu ou dont il a joui et elles ne constituent donc pas un revenu au sens de l’alinéa 6(1)a) de la Loi;
+2. Elles ne constituaient pas des paiements versés par un employeur à un employé au sens du paragraphe 6(3) de la Loi;
+3. Elles ne constituaient pas un avantage conféré à un contribuable au sens du paragraphe 246(1) de la Loi;
+4. Elles ont été reçues à titre de bourse d’études, de bourse de perfectionnement (fellowship) ou de récompense couronnant une œuvre remarquable réalisée dans le domaine d’activité habituel de chacun des enfants suivant l’alinéa 56(1)n) de la Loi;
+5. Si les fonds versés au titre des bourses d’études constituaient un revenu pour l’appelant, ils doivent alors être exclus de son revenu puisqu’ils satisfont aux exigences prévues au sous‑alinéa 6(1)b)(ix) de la Loi.
+[8] Enfin, selon l’appelant, si aucun autre argument n’est retenu, il me faudra alors prendre en compte la décision Detchon c. Canada, [1995] A.C.I. no 1342, dans laquelle M. le juge Rip (maintenant juge en chef adjoint) tient les propos suivants :
+[60] [...] Si la pratique, à Revenu Canada, consistait à ne pas appliquer la politique publiée et, par conséquent, à accorder un allégement à des contribuables comme les appelants, le ministre devrait recommander, conformément à la Loi sur la gestion des finances publiques, la remise de l’impôt et des intérêts établis à l’égard des avantages.
+Thèse de l’intimée
+[9] L’intimée fait valoir que les bourses d’études constituaient des avantages pour l’appelant aux termes de l’alinéa 6(1)a) ou du paragraphe 56(2) de la Loi car, n’eût été la situation d’employé de l’appelant, les personnes à charge n’auraient pas pu présenter des demandes de bourses d’études et n’auraient pas été admissibles à celles‑ci. L’intimée soutient que ces avantages ne différaient en rien des autres avantages auxquels l’appelant a eu droit pendant son emploi, qu’il s’agisse d’une assurance des soins médicaux, d’une assurance des soins dentaires, d’une assurance des médicaments délivrés sur ordonnance ou de crédits au titre d’un fonds de pension.
+[10] L’intimée avance en outre que, quoi qu’il en soit, ces bourses ne sont pas des bourses d’études au sens de l’alinéa 56(1)n) pour une ou plusieurs des raisons suivantes : il n’y avait pas un nombre fixe de bourses offertes; les bourses ne se fondent pas véritablement sur les résultats scolaires des demandeurs puisque le seuil d’admissibilité a été fixé à la note de 70 pour 100 seulement; il n’y avait pas de processus d’évaluation ou de sélection véritable et, enfin, il n’y avait pas de véritable comité chargé de procéder à l’évaluation ou à la sélection des demandeurs de bourses.
+Droit et analyse
+[11] Dans la décision John DiMaria c. Sa Majesté La Reine (2006‑1400(IT)G), que j’ai également rendue aujourd’hui, j’ai déjà eu l’occasion de me demander si les bourses octroyées dans le cadre du PBES constituent un avantage imposable. Dans cette affaire, j’ai conclu que les bourses ne constituaient pas un avantage que l’appelant avait reçu ou dont il avait joui. Je me suis en outre prononcé sur le point de savoir si la bourse constituait une bourse d’études au sens de l’alinéa 56(1)n) et s’il y avait lieu de l’inclure dans le calcul du revenu de l’appelant en application du paragraphe 6(3) ou 246(1) de la Loi. Comme la présente affaire intéresse le même programme de bourses que celui en cause dans la décision DiMaria, je renvoie aux observations que j’ai formulées dans cette décision et que je ne reproduirai pas ici.
+[12] J’arrive à la conclusion que l’appelant n’a rien reçu et n’a joui d’aucun avantage par suite des bourses octroyées à ses enfants dans le cadre du PBES et, par conséquent, que les sommes en cause ne sont pas imposables entre ses mains. Je conclus également que les sommes sont assimilables à des bourses d’études octroyées aux enfants au sens de l’alinéa 56(1)n) de la Loi, et que les paragraphes 6(3) et 256(1) de la Loi ne s’appliquent pas aux faits en l’espèce.
+[13] J’estime que, comparativement à la décision DiMaria, la présente affaire illustre de façon plus marquante les arguments fondés sur l’intérêt public qui militent en faveur de la conclusion selon laquelle les sommes doivent être imposables entre les mains des enfants. Il s’agit en l’espèce d’un père de huit enfants, dont trois fréquentent l’université en même temps. Les enfants ont tous, à un moment ou à un autre, été admissibles à des prêts gouvernementaux dans le cadre du PPEICO. Chacun des enfants a écrit une lettre confirmant son admissibilité à un prêt. Ces documents ont été produits comme pièces. Carolyn précise dans sa lettre que, selon les administrateurs du PPEICO, les bourses octroyées dans le cadre du PBES constituent un revenu au titre d’une bourse d’études pour l’étudiant, et que son admissibilité au prêt a en conséquence été réduite de 3 000 $. Je fais mention de ces lettres uniquement pour ajouter à mes motifs prononcés dans la décision DiMaria, où j’ai écrit que si le législateur, dans sa sagesse, décide que les bourses octroyées par les employeurs doivent être imposées entre les mains du parent, il faudra alors tenir compte de divers facteurs, comme le revenu du parent et le nombre de personnes à charge, ainsi que de la façon dont ces facteurs influent sur les programmes de prêts et bourses fédéraux et provinciaux pour faire en sorte que le législateur atteigne ses objectifs – qu’il s’agisse d’augmenter le fardeau fiscal de certains parents ou d’offrir un allègement financier aux contribuables de l’avenir, à savoir les étudiants.
+[14] L’appel est accueilli. L’appelant a droit à ses dépens, lesquels sont fixés à la somme de 500 $. Comme j’ai tranché la présente affaire en faveur de l’appelant, il est inutile que je me penche sur les moyens subsidiaires qu’il a invoqués concernant le sous‑alinéa 6(1)b)(ix) et les observations formulées par le juge Rip dans la décision Detchon. Je renvoie l’affaire au ministre pour qu’il l’examine à nouveau et établisse une nouvelle cotisation sur le fondement de ce qui précède.
+Signé à Ottawa, Canada, ce 7e jour de mars 2008.
+« E. P. Rossiter »
+Juge Rossiter
+Traduction certifiée conforme
+ce 28e jour d’avril 2008.
+Aleksandra Koziorowska
+RÉFÉRENCE : 2008CCI141
+NO DU DOSSIER DE LA COUR : 2006-3303(IT)I
+INTITULÉ DE LA CAUSE : Brian Bartley et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 6 juin 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge E. P. Rossiter
+DATE DU JUGEMENT : Le 7 mars 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Roger Leclaire
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,209 @@
+Title: Said Joaillier Ltée v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27381/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-3-27381-said-joaillier-lt-e-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-01-05
+
+# Said Joaillier Ltée v. The Queen
+
+- Citation: 2006 TCC 3
+- Decision date: 2006-01-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 138, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Said Joaillier Ltée v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-05
+Neutral citation
+2006 TCC 3
+File numbers
+2003-2557(GST)G
+Judges and Taxing Officers
+Pierre R. Dussault
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-2557(GST)G
+BETWEEN:
+SAID JOAILLIER LTÉE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+_____________________________________________________________
+Appeal heard on November 18, 2005, at Montreal, Quebec.
+Before: The Honourable Justice Pierre R. Dussault
+Appearances:
+Counsel for the Appellant:
+Geneviève Bergeron
+Counsel for the Respondent:
+Benoît Denis
+_____________________________________________________________
+JUDGMENT
+The appeal from the assessment for the period from January 1, 1998, to December 31, 2001, made under Part IX of the Excise Tax Act (GST), the notice of which is dated May 1, 2003, and bears the number 0311669, is allowed. The assessment is referred back to the Minister for reconsideration and reassessment on the basis that the assessed GST of $1,643.47 will be reduced by $1,900.26, the excess input tax credits claimed of $29,150.73 will be reduced by $1,677.20 to $27,473.53 and the penalties and interest will be adjusted accordingly, the whole with costs to the respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of January 2006.
+"P. R. Dussault"
+Dussault J.
+Translation certified true
+on this 22nd day of December 2006.
+Erich Klein, Revisor
+Citation: 2006TCC3
+Date: 20060105
+Docket: 2003-2557(GST)G
+BETWEEN:
+SAID JOAILLIER LTÉE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Dussault J.
+[1] On April 22, 2002, the appellant was assessed under Part IX of the Excise Tax Act (GST) (the "Act") for the period from January 1, 1998, to December 31, 2001. Following submission of a notice of objection within the prescribed time, the appellant was reassessed on May 1, 2003, for the same period (notice no. 0311669).
+[2] Paragraphs 18 to 22 of the Reply to the Notice of Appeal (the "Reply") provide the details of this reassessment. Those paragraphs read as follows:
+[TRANSLATION]
+18. As shown on the notice of reassessment sent to the appellant, the amounts assessed on May 1, 2003, are the following:
+Adjustments to the calculation of reported net tax
+$30,794.20
+Penalties
+$14,051.23
+Net interest
+$5,064.23
+Total [amount owing]
+$49,909.66
+and the net tax which should have been declared by the appellant for the period in question is $62,356.80 [The amount should read $30,633.43.];
+19. More specifically, the revised adjustments of $30,794.20 to the calculation of the appellant's reported net tax, that is, the adjustments mentioned in the preceding paragraph, break down as follows:
+GST collected or collectible(unchanged)
+$1,643.47
+ITCs claimed, and obtained, in excess, by mistake or without entitlement
+$29,150.73
+Total
+$30,794.20
+20. More specifically, the ITCs amounting to $29,150.73, claimed in excess, by mistake or without entitlement, mentioned in the previous paragraph break down as follows:
+ITCs claimed, and obtained, without supporting documentation, in excess or by mistake in the calculation of the net tax reported during the period in question (read not recorded) (unchanged)
+$43,965.43
+ITCs not claimed but granted during the audit in the calculation of the reported net tax for the period in question
+$14,814.70
+Total
+$29,150.73
+or, presented another way, as follows:
+Reconciliation of ITCs claimed and obtained and ITCs entered in the books and accounting records for the quarterly period from 1-1-1998 to 31-3-1998 (unchanged)
+$3,336.06
+Reconciliation of ITCs claimed and obtained and ITCs entered in the books and accounting records for the fiscal year from 1-4-1998 to 31-3-1999 (unchanged)
+$5,650.74
+Reconciliation of ITCs claimed and obtained and ITCs entered in the books and accounting records for the fiscal year from 1-4-1999 to 31-3-2000 (unchanged)
+$10,993.36
+Reconciliation of ITCs claimed and obtained and ITCs entered in the books and accounting records for the fiscal year from 1-4-2000 to 31-3-2001 (unchanged)
+$8,175.38
+Reconciliation of ITCs claimed and obtained and ITCs entered in the books and accounting records for the quarterly periods from 1-4-2001 to 31-12-2001
+$995.19
+Total
+$29,150.73
+21. The notice of reassessment reduces by $2,484.65 ($33,278.85 - $30,794.20) the adjustments made to the calculation of the net tax reported by the appellant; more specifically it reduces the amount of assessed ITCs from $31,635.38 to $29,150.73;
+22. With respect to the penalties assessed in the amount of $14,051.23 mentioned in paragraph 18 above, these break down as follows:
+Penalty under section 280 of the ETA
+$6,352.68
+Penalty under section 285 of the ETA
+$7,698.55
+Total
+$14,051.23
+and the respondent takes note that the appellant does not expressly dispute in his notice of appeal the assessed amount of the penalties.
+[3] Subparagraphs (a) through (u) of paragraph 25 of the Reply set out the assumptions and findings of fact on which the assessment was based. These subparagraphs read as follows:
+[TRANSLATION]
+(a) the facts admitted above;
+(b) the appellant is a registrant for the purposes of Part IX of the ETA;
+(c) the appellant operates a jewellery store;
+(d) the appellant filed its net tax returns quarterly during the period at issue;
+(e) the quarterly periods of the appellant correspond to calendar quarters;
+(f) the appellant did not keep any accounting records in an appropriate form and with relevant information so that its obligations and responsibilities under the provisions of Part IX of the ETA during the period at issue could be determined;
+(g) accounting documents explaining or justifying the GST and ITC amounts used in calculating net tax and entered on the quarterly net tax returns were not retained by the appellant;
+(h) all the supplies made by the appellant in the context of the commercial activities of the business which the appellant operated during the period at issue constituted taxable supplies for which tax at the rate of 7% on the value of the consideration for the supply was payable by the recipients to the appellant, which was required to collect that tax;
+(i) the appellant recorded in its books for the period at issue an amount of $128,770.57 as GST that it collected or that was collectible;
+(j) the appellant, in the calculation of its net tax for the period at issue, reported to the Minister an amount of $124,582.89 as GST collected or collectible;
+(k) the difference, namely $4,187.68 ($128,770.57 - $124,582.89), constitutes GST collected or collectible by the appellant which it did not include in the calculation of its net tax which it reported to the Minister for the period at issue;
+(l) with regard to the amount of $4,187.68 mentioned in the previous sub-paragraph, the Minister made a number of adjustments to it, namely a first group of adjustments resulting in a total reduction of $4,444.47 granted by the Minister to correct errors committed by the appellant in entering the GST collected or collectible, and a second group of adjustments totalling a net increase of $1,900.26 ($1,906.61 - $6.35) to take into account the excess GST included by the appellant in calculating its net reported tax during various reporting periods included in the period in question, despite the fact that it had indeed duly entered the tax, and the Minister had taken note of it but failed to take it into account in making the assessment and so assessed only an amount of $1,643.47 ($4,187.68 - $4,444.47 + $1,900.26);
+(m) the appellant acquired taxable supplies in the form of goods and services for consumption, use or supply in the context of its business activities during the period at issue, for which supplies the GST was paid or payable by the appellant to the suppliers;
+(n) the appellant entered as ITCs in its accounting records for the period at issue an amount of $76,958.63 in GST which it thus had apparently paid or which would thus have been payable;
+(o) the appellant claimed, and subsequently obtained, an ITC of $122,379.36 in calculating its net tax which it reported to the Minister for the period at issue;
+(p) the difference, namely $45,420.73 ($122,379.36 - $76,958.63), was claimed and obtained in excess or by mistake, according to the information available in the accounting records of the appellant;
+(q) in respect of the amount of $45,420.73 mentioned in the previous subparagraph, the Minister made an initial adjustment to it, namely, a reduction of $1,718.50 representing an additional ITC amount granted by the Minister, and a second adjustment, namely, an increase of $263.20 representing ITCs which the appellant had forgotten to claim, despite the fact that it had indeed duly entered them, and the Minister had taken note from them but failed to take them into account in making the assessment and so assessed only an amount of $43,965.43 ($45,420.73 - $1,718.50 + $263.20);
+(r) in addition to the foregoing, the Minister granted the appellant additional ITCs which had not been entered in its accounting records and which accordingly could not have been claimed in full knowledge of the facts in calculating its net tax that it reported to the Minister, which amounted to $12,330.05 at the time the initial assessment was made (reference to paragraphs 10 and 14 above), to which was added an amount of $2,484.65 when the reassessment was made, namely the one at issue (reference to paragraphs 17, 20 and 21 above);
+(s) the ITCs claimed and obtained by the appellant in excess, or as a result of an error in the calculation of its net tax for the period at issue, and which were assessed, total $29,159.73 ($43,965.43 - $12,330.05 - $2,484.65) since the appellant did not provide the Minister, when required to do so, with sufficient information, including prescribed information, to establish the said amount;
+(t) the appellant knowingly, or under circumstances amounting to gross negligence in the carrying out of a duty or obligation imposed by or under Part IX of the ETA, made a false statement or omission in his net tax returns for the period at issue in that:
+i. it collected or was required to collect GST on supplies that it made and which it knew to be taxable, but it included none of that GST in calculating its net tax for the period at issue;
+ii. in calculating its net tax for the period at issue it claimed ITCs to which it knew it was not entitled;
+(u) the appellant is thus liable to the Minister for the amount of the adjustments made to its reported net tax for the period at issue, plus the net interest and penalties.
+[4] At the start of the hearing, counsel for the respondent presented a number of concessions by the respondent totalling $3,577.46. This amount is made up of three additional amounts that will need to be subtracted from the assessed total with corresponding adjustments to penalties and interest. First of all there is an amount of $1,900.26, mentioned at subparagraph 25(l) of the Reply, which was overpaid by the appellant in the course of various quarters during the period at issue, but which was not taken into account in the assessment. Exhibit I-7 shows the breakdown of this amount. As the assessed GST was $1,643.47, an amount of $256.79 was overassessed in this regard.
+[5] A second amount, of $263.20, mentioned in subparagraph 25(q) of the Reply represents input tax credits ("ITCs") that were overlooked at the time of the assessment.
+[6] Finally, an amount of $1,414 represents an additional ITC which the respondent has agreed to grant because the appellant submitted supporting documentation.
+[7] Claude Beaupré testified for the respondent and Mohammed Amiri testified for the appellant.
+[8] It was Mr. Beaupré, now retired, who conducted the audit of the appellant. Mr. Beaupré, who has been an auditor since the GST was introduced, is himself a former owner of a jewellery store.
+[9] Mr. Beaupré had initially observed that the appellant had an abnormally high credit balance because of ITCs that were in excess of the declared tax. He established initial contact with a sales lady in charge of the Montreal store, Jocelyne Régimbald, with a view to meeting Mr. Amiri, visiting the premises and obtaining the relevant documents.
+[10] Mr. Beaupré stated that, after having met Mr. Amiri, he had, on several occasions, requested the rough documents normally used in preparing GST returns, but had never managed to obtain them. Moreover, since he had identified substantial discrepancies between the amounts declared and the information in the accounting records obtained, specifically with regard to the ITCs claimed, Mr. Beaupré decided to extend his audit from the end of the year 1997 to the end of the year 2001. Having found discrepancies for the entire period, he subsequently submitted them to the appellant's outside accountant, one Mr. Obadia, in order to validate his findings. The results of Mr. Beaupré's audit have been recorded on various tables submitted in evidence (Exhibits I-8, I-9, I-10, I-12 and I-14).
+[11] In his testimony, Mr. Beaupré, with the aid of these tables, demonstrated for all the fiscal years or portions of fiscal years covered by his audit, the discrepancies identified between the amounts declared (GST and ITCs) and the amounts recorded in the appellant's ledger, and he provided details for each quarterly reporting period of the appellant (Exhibits I-8 to I-14). He also did a reconciliation with the amounts initially assessed (Exhibit I-1), the corrections made following the appellant's objection (Exhibits I-2 to I-6) and the concessions totalling $3,577.46 made by the respondent at the start of the hearing (Exhibit I-7). It would serve no purpose to go into the details of the calculations that appear in the documents used by Mr. Beaupré, in order to explain those calculations. His testimony was clear, detailed and comprehensive.
+[12] The final result is that the GST not included in the calculation of net tax for the period at issue and assessed at $1,643.47 must be reduced by $1,900.26, resulting in a difference of $256.79 in favour of the Appellant. With regard to the ITCs claimed in excess, by mistake or without entitlement, in the amount of $29,150.73, they must be reduced by $1,677.20, leaving a total of $27,473.53.
+[13] On cross-examination, Mr. Beaupré stated that he had taken into account in his audit all the documents that had been given to him. That was when he first noticed that no accounting documents had been provided to him documenting merchandise returned by customers. He explained that such documents are necessary, since reimbursements have an impact on GST reported or payable. In addition, according to him, this issue was not raised with the accountant.
+[14] Counsel for the appellant referred to a number of specific operations involving credit cards which apparently had not been honoured by the issuing banks (Exhibit A-1). In respect of each of these operations, counsel asked Mr. Beaupré to show where the invoice had been taken into consideration in his calculations relating to the ITCs.
+[15] The first invoice is in the name of L.M. and is for an amount of $525. Mr. Beaupré pointed out firstly that there was no cash register receipt, secondly, that no tax was shown on the invoice itself and, thirdly, that there was no indication that the GST was included. With regard to a second operation, involving an amount of $625, it turns out that it took place on February 22, 1995, well before the audit period. The same applied to another operation, which occurred on February 23, 1995, and involved an amount of $624.96. Lastly, counsel for the appellant referred to another invoice bearing the number 09440. Counsel for the respondent rightly objected to any question concerning this invoice, as it also represents an operation outside the audit period, since that operation took place on June 29, 2002. These are the only operations to which counsel for the appellant referred specifically.
+[16] Counsel for the appellant also questioned Mr. Beaupré on the state of the appellant's accounting at the time of his audit. Mr. Beaupré explained that the accountant's documents were computerized, that the accountant had the documents required for preparing the financial statements and also had certain invoices, but that the rough documents used for the detailed calculations of the GST and ITCs (see Exhibit I-16) had been destroyed, despite Mr. Beaupré's request that they be retained. Mr. Beaupré further stated that he had never received any explanations or documents justifying the discrepancies identified in his audit and which appeared in the appellant's books.
+[17] Mr. Mohammed Amiri is a jeweller and runs the family business operated by the appellant since 1979. The appellant has a store on Ontario Street in Montreal and a sales counter in Longueuil. During the period at issue, the appellant employed six to eight people. Its annual turnover for this period fluctuated between $400,000 and $600,000.
+[18] Mr. Amiri explained that the business's accounting system was computerized, that converting to such a system had been expensive, that the equipment had proved to be defective and that corrections had had to be made. He stated that the salesladies submitted daily, weekly and monthly reports. The entries in the books were made once or twice a month by Jocelyne Régimbald and Robert Blanchette, the in-house accountant. The outside accountant, Mr. Obadia, produced statements every three months and annual financial statements. Mr. Blanchette was the one responsible for producing the GST returns and balancing the accounts. Mr. Blanchette and Mr. Obadia have been providing accounting services to the business since it was established.
+[19] With regard to Mr. Beaupré's audit, Mr. Amiri explained that Mr. Beaupré had met with him and had handed him a list of the documents required, and that Ms. Régimbald, as well as Messrs. Blanchette and Obadia, had given him all the documents requested.
+[20] When called upon to comment on the allegations set out in subparagraphs 25(i) and (j) of the Reply to the Notice of Appeal, Mr. Amiri stated that there was no difference between the amount of GST entered in the appellant's books and the amount of GST reported, and that Mr. Blanchette had done his accounting in accordance with applicable standards.
+[21] Mr. Amiri explained that, as part of its activities, the appellant sold gold dust and gold scrap material to a company named Kitco, which operated a business melting down and selling gold. Although it was the appellant that sold the gold scrap and gold dust to Kitco, it was Kitco that prepared invoices (Exhibit A-2). Mr. Amiri explained that an agent hired by the appellant was responsible for delivering to Kitco the gold scrap and gold dust, the quantities of which varied. Kitco paid either in cash or by cheque. The appellant did not invoice the GST and, according to Mr. Amiri, the sale was recorded like any other sale and was included in the daily report, which was used by Mr. Blanchette to do his accounting. According to Mr. Amiri, the Kitco invoices were not given to Mr. Beaupré at the time of the audit, since the sales to Kitco were automatically shown in the daily reports. Furthermore, counsel for the respondent objected to Mr. Amiri's answering the question whether Mr. Blanchette had actually taken into consideration the amounts received from Kitco, since Mr. Blanchette was not present to testify personally concerning the way he had handled these sales.
+[22] With regard to the invoices prepared up by Kitco, it may be noted that each one states that this is a [TRANSLATION] "counter transaction" and that the seller is [TRANSLATION] "not registered for the GST". No tax is shown and the name of the appellant appears on virtually none of the invoices.
+[23] In his testimony, Mr. Amiri also explained, with regard to returned merchandise, that the customer was given a credit and that this was deducted from sales in the daily report. However, since the taxes, namely, the GST and QST, had to be recovered, an amount equal to 5% of the taxes payable was subtracted each month. According to him, experience had shown this to be an easier and more logical procedure.
+[24] According to Mr. Amiri, the amounts received from Kitco and the returned merchandise were recorded in the ledger and accounted for in the sales figure. He maintained, however, that the discrepancies noted were due to accounting errors and to the fact that Mr. Beaupré did not take the daily reports into account. According to Mr. Amiri, the appellant had thus collected more tax than it should have collected because of the merchandise returned by customers and because of the fact that Mr. Beaupré had not reduced by 5% the taxes payable, in order to take the returned merchandise into account.
+[25] With regard to the question of the rough documents for calculating the taxes payable, a form for which was filed as Exhibit I-16, Mr. Amiri stated that this was the first time he had seen this document, that the accountants Blanchette and Obadia had stated that they did not have any rough copies to give to Mr. Beaupré because the entire accounting system was computerized and that he had been given everything.
+[26] Mr. Beaupré testified again after Mr. Amiri. A copy of the computerized sales journal for the year ending on March 31, 1999, taken from the ledger, was presented in evidence (Exhibit I-19). The monthly sales are recorded in it for the Montreal store (p. 138) and the Longueuil counter (p. 143). For June 1998, the Montreal store sales were $22,312.41 and those of the Longueuil counter were $19,374.74, for a total of $41,687.15. The sales to Kitco alone in June 1998 totalled $46,298.98, which is more than the total sales for the two stores for the same month (Exhibit I-18).
+[27] In response, Mr. Amiri stated that the sales journal did not take into account the entries for sales to Kitco, which were not included in the monthly sales figures.
+[28] Yet, according to Mr. Beaupré, the sales journal for the fiscal year ending on March 31, 1999, showed sales of $324,766.34 for the Montreal store (Exhibit I-19, page 138) and $252,624.40 for the Longueuil store (Exhibit I-19, page 143), making a total of $577,390.74. However, the appellant's income statement for that fiscal year (Exhibit I-20) shows sales of $569,946, an amount that is itself less than the total sales figure for the year according to the sales journal. So according to Mr. Beaupré, the sales to Kitco were not accounted for.
+[29] Counsel for the respondent maintained that the sales of gold scrap and gold dust by the appellant to Kitco are not exempt supplies, but taxable supplies, and that the appellant should have collected GST on such sales, which it did not do. According to counsel for the respondent, there is also the issue of whether, for accounting purposes, these sales were actually included in the appellant's total sales.
+[30] I agree with counsel for the respondent that the sales of gold by the appellant to Kitco were taxable supplies. Part VII of Schedule V shows those financial services that constitute exempt supplies. We must refer to the definitions in subsection 123(1) of the Actto establish what supplies of gold are exempt. Paragraph (d) of the definition of "financial service" states that this term includes the transfer of ownership of a "financial instrument". Paragraph (e) of the definition of a "financial instrument" states that such an instrument includes "precious metal". Paragraph (a) of the definition of "precious metal" states that it means a "bar, ingot, coin or wafer that is composed of gold, silver or platinum and that is refined to a purity level of at least 99.5% in the case of gold and platinum". Counsel for the respondent, referring to the invoices prepared by Kitco (Exhibit A-2), submitted that the gold sold by the appellant did not have the required degree of purity. I agree. Furthermore, the gold sold by the appellant was not in the form required, namely a bar, ingot, coin or wafer.
+[31] In this connection, I have not the slightest idea how the appellant can claim to have collected too much GST, since the documents produced in evidence (Exhibit A-2) show that none was collected on its sales to Kitco, although it should have been.
+[32] If, as Mr. Amiri claims, the sales to Kitco were included in the daily reports in the same way as any other sale, it is surprising to find that they were not accounted for monthly in the sales journal (Exhibit I-19). It is even more surprising to find that the total sales and repair amount entered in the financial statements for the fiscal year ending on March 31, 1999 (Exhibit I-20) is lower than the total of the monthly sales entered for the same period (Exhibit I-19).
+[33] According to Mr. Beaupré's calculations and after the adjustments previously mentioned, the GST to be collected was lower by $256.79 than the amount assessed for the entire period from January 1, 1998, to December 31, 2001. Since the sales to Kitco for the month of June 1998 alone were $46,298.98, it seems to me that these sales, on which no tax was collected, were not entered and were not included for the purposes of the assessment.
+[34] What now of the matter of the merchandise returned by customers, of the reimbursement of the price paid and the GST collected on the purchase? In this regard, counsel for the respondent stressed that subsection 232(3) of the Act requires that the purchaser be given a credit note. He observed as well that the credit notes issued must be accounted for in such a way as to make the necessary adjustments to the tax to be reported. In addition, he pointed to the general obligation set out in subsection 286(1) of the Act to maintain appropriate records. In the instant case, no credit notes for the assessment period were produced as evidence. Furthermore, from Mr. Amiri's testimony it does not seem that the credit notes were even recorded, since the accountants, following Mr. Amiri's own instructions, merely reduced the amount of tax reported by 5% to take into account the returned goods.
+[35] On this point, in the absence of any appropriate documentary evidence and as it has not been demonstrated that rigorous accounting records were kept, I am of the opinion that there are no grounds for changing the assessment in any way whatsoever.
+[36] According to counsel for the respondent, the ITCs claimed in excess by the appellant after the adjustments mentioned earlier still amount to $27,473.53 for the entire assessment period, and no relevant documentary evidence has been submitted to justify them. Counsel pointed out that ITCs were recurrently claimed in excess for each fiscal year or part of a fiscal year during the assessment period, and those claims were substantial, which in his view proves that the appellant's accounting was inadequate. Counsel for the respondent argued that one can also draw a negative inference from the fact that neither Mr. Blanchette nor Mr. Obadia, the appellant's accountants, were called to testify.
+[37] Counsel for the respondent thus contends that, in the circumstances, both the penalty assessed under section 280 and that assessed under section 285 of the Act are justified.
+[38] With regard to the penalty provided for in section 280 of the Act, he refers to the decision of the Federal Court of Appeal in Corporation de l'École Polytechnique v. Canada, 2004 FCA 127, on the matter of what constitutes a defence of due diligence that may be invoked to avoid the assessment of this penalty.
+[39] As for the penalty provided for in section 285 of the Act, counsel for the respondent noted that the Appellant had systematically and without any justification claimed ITCs that were too high for all the fiscal years or parts of fiscal years included in the assessment period, and that these amounts claimed in excess are significant.
+[40] Counsel for the appellant claimed that the Minister did not take into account the sales to Kitco and the 5% reduction in taxes to reflect returned merchandise, and thus submitted that the amounts claimed from the appellant have no basis. She emphasized that the appellant is a small business and that the accounting was done to the best of Mr. Amiri's knowledge.
+[41] I have already dealt with the sales of gold to Kitco and the question of reimbursements to clients for returned merchandise, and I must admit that I do not understand the arguments counsel for the appellant attempted to put forward.
+[42] As far as the ITCs are concerned, Mr. Beaupré has shown that the appellant claimed excessive ITC amounts for each fiscal year or part of a fiscal year in the assessment period. The total of these ITCs claimed in excess is $27,473.53. In reality, these are ITCs applicable to inputs that would total $392,479, which is enormous in relation to sales of between $2,000,000 and $2,400,000 for the entire period from January 1, 1998, to December 31, 2001. The proportion could be as high as 19.62% and is at minimum 16.35%.
+[43] The fact that such substantial ITC amounts were claimed in excess and that there were repeated claims, that is, a claim for each fiscal year or part of a fiscal year included in the assessment period, cannot be the result of mere accounting errors or computer problems. The fact that Mr. Amiri was unable to justify the ITCs claimed in excess by clear, coherent and credible explanations supported by relevant documentary evidence shows, in my opinion, that the appellant filed inaccurate returns with full knowledge of what it was doing, or at least, under circumstances amounting to gross negligence.
+[44] In light of the foregoing, the appeal from the assessment for the period from January 1, 1998, to December 31, 2001, made under Part IX of the Excise Tax Act (GST), the notice of which is dated May 1, 2003, and bears the number 0311669, is allowed. The assessment is referred back to the Minister for reconsideration and reassessment on the basis that the assessed GST of $1,643.47 will be reduced by $1,900.26, the excess input tax credits claimed of $29,150.73 will be reduced by $1,677.20 to $27,473.53 and the penalties and interest will be adjusted accordingly, the whole with costs to the respondent.
+Signed at Ottawa, Canada, this 5th day of January 2006.
+"P. R. Dussault"
+Dussault J.
+Translation certified true
+on this 22nd day of December 2006.
+Erich Klein, Revisor
+CITATION: 2006TCC3
+COURT FILE NO.: 2003-2557(GST)G
+STYLE OF CAUSE: Said Joaillier Ltée v. Her Majesty the Queen
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: November 18, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre R. Dussault
+DATE OF JUDGMENT: January 5, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Geneviève Bergeron
+Counsel for the Respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Geneviève Bergeron
+Firm: Brouillette Charpentier Fortin
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

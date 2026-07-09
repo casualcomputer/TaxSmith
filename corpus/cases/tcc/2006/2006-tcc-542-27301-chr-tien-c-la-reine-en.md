@@ -1,0 +1,151 @@
+---
+title: "Chrétien c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27301/index.do"
+last_modified: "2006-10-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 542"
+citation2: ""
+neutral_citation: "2006 TCC 542"
+decision_date: "2006-10-18"
+language: "en"
+item_id: "27301"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 908
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:40:31.384000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "819ca15d6ca3f4e43b4a295a1022eeb4284124f232264b60408781d7ffd14914"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chrétien c. La Reine
+
+- Citation: 2006 TCC 542
+- Decision date: 2006-10-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 908, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chrétien c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-18
+Neutral citation
+2006 TCC 542
+File numbers
+2005-2555(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2555(IT)I
+BETWEEN:
+CLAUDE CHRÉTIEN,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on September 25, 2006, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Marcel Turgeon
+Counsel for the Respondent:
+Alain Gareau
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2000, 2001 and 2002 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of October 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 18th day of July 2007.
+Brian McCordick, Translator
+Citation: 2006TCC542
+Date: 20061018
+Docket: 2005-2555(IT)I
+BETWEEN:
+CLAUDE CHRÉTIEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] These appeals pertain to the 2000, 2001 and 2002 taxation years.
+[2] In making and confirming the assessments under appeal, the Respondent relied on the following assumptions of fact:
+[TRANSLATION]
+(a) During the years in issue, the Appellant was employed by CN as a trackman.
+(b) The Appellant must travel in his own vehicle as part of his employment.
+(c) In accordance with the collective agreement, the Appellant received a reasonable non-taxable allowance from his employer for each of the taxation years in issue in order to cover his employment-related travel expenses.
+(d) On October 17, 2003, the Minister asked the Appellant, in writing, to submit the documents supporting his claim.
+(e) This request was made again on March 22, 2005, during a telephone conversation between the Appellant's representative and the objections officer.
+(f) Despite the Minister's repeated requests, the Appellant provided no travel log or other supporting documents pertaining to the expenses incurred for his employment-related travel.
+[3] The issue to be determined is whether the Minister of National Revenue properly disallowed the employment-related expenses claimed by the Appellant for the taxation years in issue.
+[4] The burden of proof in this regard was on the Appellant. In other words, the Appellant had to show, on a balance of probabilities, that his allegations were well‑founded. One cannot meet this evidentiary burden merely by expressing disagreement with the assessment and making vague and general assertions regarding one's claims.
+[5] It is essential to submit thorough and detailed evidence justifying one's assertions. In addition, such evidence must be validated or confirmed by reliable and persuasive documents or evidence. Circumstantial evidence that is essentially oral is certainly not sufficient to discharge such an evidentiary burden.
+[6] The evidence in the case at bar essentially consisted of the testimony of the Appellant and his spouse. His spouse, who managed the family finances, made general and vague statements to the effect that the employer's expense reimbursements were unsatisfactory and did not cover all the actual costs.
+[7] No supporting documents were provided, and the explanations were essentially general and interspersed with comments or expressions like "I don't recall, but I think it was in that ballpark." Such evidence certainly does not meet the minimal criteria to be taken into consideration.
+[8] Where lodging, fuel and meal expenses are concerned, relevant receipts, records or documents attesting to the expenses are the only evidence that possesses reliability worthy of consideration.
+[9] It would simply be unacceptable, in a system based on self-assessment, to accept explanations that are essentially oral, confused and general.
+[10] Expenses can only be established through unambiguous evidence, and in order for evidence to be persuasive and determinative, it must be supported by appropriate documents that allow reliable findings to be made.
+[11] In the case at bar, it is clear that the Appellant has not adduced evidence that possesses the minimal characteristics to be considered. Consequently, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 18th day of October 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 18th day of July 2007.
+Brian McCordick, Translator
+CITATION:
+2006TCC542
+COURT FILE NO.:
+2005-2555(IT)I
+STYLE OF CAUSE:
+Claude Chrétien v. Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+September 25, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+October 18, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Marcel Turgeon
+Counsel for the Respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+City:
+Marcel Turgeon
+Québec, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

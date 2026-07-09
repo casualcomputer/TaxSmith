@@ -1,0 +1,224 @@
+---
+title: "2870258 Canada Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27819/index.do"
+last_modified: "2007-05-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 407"
+citation2: ""
+neutral_citation: "2007 CCI 407"
+decision_date: "2007-05-01"
+language: "fr"
+item_id: "27819"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 359
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:43:00.245000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3c65348fa691671f3de070e7fcdc9f0fa5a3d6a84ef21bf62f3b638b11a7b175"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 2870258 Canada Inc. c. La Reine
+
+- Citation: 2007 CCI 407
+- Decision date: 2007-05-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 359, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2870258 Canada Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-01
+Référence neutre
+2007 CCI 407
+Numéro de dossier
+2003-2120(GST)G
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2007CCI407
+Date : 20070803
+Dossier : 2003-2120(GST)G
+ENTRE :
+2870258 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(Prononcés oralement à l'audience le 1er mai 2007 à Montréal (Québec)
+et modifiés pour plus de clarté et de précision.)
+Le juge Archambault
+[1] 2870258 Canada Inc. (Manco) interjette appel d’une cotisation établie par le ministère du Revenu du Québec (ministère), agissant comme mandataire du ministre du Revenu national (ministre), en vertu de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E‑15 (Loi ou LTA). Le ministre a refusé un crédit de taxe sur intrant (CTI) de 70 000 $ que Manco a demandé à l’égard de la période du 1er juin 1998 au 31 août 1998 pour des biens ayant appartenu à une certaine époque à l’une ou l’autre des deux sociétés suivantes : Placage Solma Ltée (Solma) et Placage Empire Ltée (Empire). En plus, le ministre a imposé une pénalité de 17 500 $ en vertu de l’article 285 LTA.
+[2] Pour établir la cotisation, le ministre a tenu pour acquis les faits suivants :
+a) les faits admis ci-dessus;
+b) l’appelante est un inscrit aux fins de la Partie IX de la L.T.A.; (admis)
+c) l’appelante exploite une entreprise de placage de métaux; (admis)
+d) monsieur Ron Di Pasquale était, en tout temps pertinent au litige, président de l’appelante; (admis)
+e) monsieur Michele Mangione était, en tout temps pertinent au litige, directeur de la production de l’appelante; (admis)
+f) monsieur Michele Mangione était aussi, en tout temps pertinent au litige, président de la société 9044-2435 Québec inc.; (admis)
+g) monsieur Maurice Faille, père de monsieur Michel Faille, était, en tout temps pertinent au litige, un administrateur de la société 9044-2435 Québec inc.; (admis)
+h) monsieur Michel Faille était, en tout temps pertinent au litige, un officier de la société Seahawk Financial Services Ltd. ainsi que de la société Seahawk Investments Ltd.; (admis)
+i) l’appelante a acquis la fourniture par vente des actifs de la faillite de la société Placage Solma Ltée (« SOLMA ELECTROPLATING LTD. ») le ou vers le 8 janvier 1997 du syndic de faillite FRIEDMAN & FRIEDMAN INC. pour une contrepartie d’un montant de 15 000,00 $, à laquelle contrepartie s’est ajoutée la TPS, soit un montant de 1 050,00 $ (7% de 15 000,00 $), et la taxe de vente du Québec, soit un montant de 1 043,25 $ (15 000,00 x 1,07 x 6,5%); (nié)
+j) monsieur Ron Di Pasquale, à titre de président de l’appelante, a signé, au nom de l’appelante, le contrat reflétant la fourniture qu’elle a acquise desdits actifs de la faillite de la société Placage Solma Ltée.; (admis)
+k) depuis l’acquisition de cette fourniture du syndic de faillite, le ou vers le 8 janvier 1997, et jusqu’à la période visée inclusivement, l’appelante a toujours été la propriétaire desdits actifs; (nié)
+l) la société 9044-2435 Québec Inc. a acquis la fourniture par vente des actifs de la faillite de la société Placage Empire Ltée (« EMPIRE ELECTROPLATING WORKS LTD. ») le 7 mars 1997 du syndic de faillite SCHWARTZ LEVITSKY FELDMAN INC. pour une contrepartie d’un montant de 35 000,00 $, à laquelle contrepartie s’est ajoutée la TPS, soit un montant de 2 450,00 $ (7% de 35 000,00 $), et la taxe de vente du Québec, soit un montant de 2 434,25 $ (35 000,00 $ x 1,07 x 6,5%); (admis)
+m) cette fourniture fait suite à une offre d’achat présentée le 31 janvier 1997 au syndic de faillite par la société 9044-2435 Québec Inc. pour lesdits actifs pour un montant de 35 000,00 $ plus la TPS et la taxe de vente du Québec, offre à laquelle était accompagné un dépôt de 20% du montant total, soit 7 976,85 $ (20% de 35 000,00 $ x 1,07 x 1,065); (admis)
+n) monsieur Michele Mangione, à titre de président de la société 9044‑2435 Québec Inc., a signé, au nom de ladite société, l’offre d’achat et le contrat reflétant la fourniture que ladite société a acquise desdits actifs de la faillite de la société Placage Empire Ltée; (admis)
+o) le paiement dudit dépôt a été effectué par l’appelante à l’aide d’un chèque, chèque dont monsieur Michele Mangione a été cosignataire à titre de tireur;[1]
+p) l’appelante a considéré, dans ses registres comptables, avoir acquis les actifs de la faillite de la société Placage Empire Ltée pour un montant de 7 976,85 $; (admis)
+q) depuis la fourniture desdits actifs par le syndic de faillite et jusqu’à la période visée inclusivement, l’appelante a, dans ses registres comptables, toujours été la propriétaire desdits actifs; (nié)
+r) du montant total de CTI demandé dans le calcul de sa taxe nette pour la période visée, l’appelante a demandé un montant de 70 000,00 $ relativement à la fourniture qu’elle aurait acquise des actifs des deux faillites en cause mentionnés précédemment pour une contrepartie de 1 000 000,00 $ d’un fournisseur dénommé Seahawk Financial Services Ltd.; (admis)
+s) le Ministre a refusé d’accorder ce montant de CTI demandé par l’appelante dans le calcul de sa taxe nette pour la période visée; (admis)
+t) la pièce justificative au soutien de la demande de CTI au montant de 70 000,00 $ présentée par l’appelante au Ministre lors de l’analyse de sa déclaration de taxe nette émane de la société Seahawk Investments Ltd. et non du prétendu fournisseur invoqué dans l’avis d’appel, soit la société Seahawk Financial Services Ltd.; (nié)
+u) la société Seahawk Investments Ltd. n’a pas acquis des syndics de faillite, directement ou indirectement, la fourniture par vente des actifs de la faillite de la société Placage Solma Ltée et de la faillite de la société Placage Empire Ltée; (nié)
+v) la société Seahawk Investments Ltd. n’a pas effectué la fourniture par vente des actifs des deux faillites en cause pour une contrepartie d’un montant de 1 000 000,00 $ à l’appelante; (nié)
+w) la société Seahawk Investments Ltd. n’a plus d’activités commerciales depuis 1995; (ignoré)
+x) le 17 juillet 1997, l’immatriculation de la société Seahawk Investments Ltd., aux fins de la Loi sur la publicité légale des entreprises individuelles, des sociétés et des personnes morales, L.R.Q., c. P-45, a été radiée d’office par l’Inspecteur général des institutions financières en vertu de l’article 50 de ladite loi, laquelle radiation emporte la dissolution de la société en vertu dudit article; (admis)
+y) quant à la société Seahawk Financial Services Ltd., elle n’a pas acquis des syndics de faillite, directement ou indirectement, la fourniture par vente des actifs de la faillite de la société Placage Solma Ltée et de la faillite de la société Placage Empire Ltée; (nié)
+z) la société Seahawk Financial Services Ltd. n’a [pas] effectué la fourniture par vente des actifs de ces deux faillites en cause pour une contrepartie d’un montant de 1 000 000,00 $ à l’appelante; (nié)
+aa) aucune pièce justificative au soutien de la demande de CTI au montant de 70 000,00 $ n’émane de la société Seahawk Financial Services Ltd. de qui l’appelante aurait, selon les prétentions qu’elle invoque dans son avis d’appel, acquis la fourniture des actifs en cause pour une contrepartie d’un montant de 1 000 000,00 $; (nié)
+bb) la pièce justificative au soutien de la demande de CTI au montant de 70 000,00 $ présentée par l’appelante au Ministre lors de l’analyse de sa déclaration de taxe nette, laquelle émane de la société Seahawk Investments Ltd., constitue un faux document ou document frauduleux; (nié)
+cc) tous les documents relatifs à cette « fourniture acquise » par l’appelante, qu’elle ait été effectuée par la société Seahawk Financial Services Ltd. ou par la société Seahawk Investments Ltd., des actifs en cause constituent de faux documents ou des documents frauduleux ou des documents obtenus suite à une fraude de la part de l’une ou l’autre desdites sociétés ou de la part de l’appelante; (nié)
+dd) l’appelante a participé à un stratège [sic] dont l’un des buts consistait à ajouter indûment un CTI au montant de 70 000,00 $ dans le calcul de sa taxe nette pour la période visée; (nié)
+ee) la pièce justificative au soutien de la demande de CTI au montant de 70 000,00 $ constitue une facture d’accommodation et avait pour but, entre autres, de créer artificiellement une taxe nette négative et d’en demander le remboursement, pour la période visée, taxe nette qui aurait été autrement positive et dont le montant aurait dû être versé au receveur général (lire au Ministre); (nié)
+ff) l’appelante est donc redevable au Ministre du montant de l’ajustement apporté à sa taxe nette qu’elle a déclarée pour la période visée, plus l’intérêt net et les pénalités. (nié)
+Contexte factuel
+[3] Manco a été constituée en société en novembre 1992 et exploite son entreprise de placage depuis décembre 1992. Elle avait acquis ses actifs à la suite de la faillite d’une société de monsieur Mangione, Manco TGV, formée en 1988. Monsieur Mangione était durant toute la période en cause le directeur de la production de Manco. Comme monsieur Mangione avait 18 années d’expérience dans le domaine du placage de métaux, monsieur Ron Di Pasquale, semble‑t‑il, a voulu intéresser la famille de monsieur Mangione dans Manco. Trois enfants de monsieur Mangione détiennent en parts égales 2961‑9525 Québec inc., qui détient 50% de Manco, alors que monsieur Di Pasquale, par l’intermédiaire de 3178331 Canada inc., détient l’autre 50% de Manco (pièce A‑1, onglet 15, page 11). Avant de fonder Manco TGV, monsieur Mangione avait déjà détenu 50% des actions d’une autre société de placage de métaux, soit Solma, de 1974 à 1988.
+[4] Solma a éprouvé des difficultés financières en 1996, comme le révèle la requête pour proroger le délai pour le dépôt d’une proposition auprès du séquestre officiel, présentée en vertu de la Loi sur la faillite et l’insolvabilité (pièce A‑1, onglet 5, p. 1). On y mentionne que Solma désirait obtenir cette prorogation en raison de pourparlers avec un investisseur potentiel qui injecterait de nouveaux fonds dans Solma; il s’agissait de la société Les Services Financiers Seahawk Ltée (Seahawk). Seahawk a été constituée en société le 19 juillet 1993 (pièce A‑1, onglet 23). Ses statuts de constitution indiquent Seahawk Investments Ltd. (Seahawk Investments) comme la fondatrice de Seahawk et monsieur Michel Faille y apparaît comme le président de Seahawk Investments. Cette dernière a été constituée en société le 14 août 1992. Selon l’avis relatif à la composition du conseil d’administration reçu par l’Inspecteur général des institutions financières le 14 août 1992, monsieur Michel Faille en était l’administrateur. Selon le témoignage de l’enquêteur du ministère, monsieur Sylvain Vinet, Seahawk Investments a été radiée par l’Inspecteur général des institutions financières en juillet 1997 et son numéro de TPS est révoqué depuis le 31 juillet 1995. Quant à Seahawk, aucun numéro de TPS ne lui a jamais été assigné. De plus, on ne trouve pas de trace de cette société dans le fichier Cidreq.
+[5] Un frère de monsieur Di Pasquale, Frank Di Pasquale, était en 1997 le président d’une autre entreprise de placage de métaux, Empire, qui elle aussi éprouvait des difficultés financières. Avant de faire faillite, Empire avait eu des problèmes de relations de travail avec ses employés, comme le révèle la grève survenue en 1996. Monsieur Ron Di Pasquale serait même intervenu pour donner un coup de main à Empire dans certaines démarches auprès du ministère.
+[6] Selon le témoignage de monsieur Ron Di Pasquale, monsieur Faille, pour le compte de Seahawk, a communiqué avec monsieur Mangione dans le but de l’intéresser à l’exploitation de Solma. Il a lui-même rencontré monsieur Faille par l’intermédiaire de monsieur Mangione. Monsieur Di Pasquale craignait que monsieur Faille devienne un compétiteur de Manco[2]. Pour ne pas perdre les services de monsieur Mangione, a dit monsieur Di Pasquale, Manco désirait faire l’acquisition des actifs (actifs des faillites) des deux sociétés en faillite, Solma et Empire, mais, sa santé financière étant précaire, elle n’était pas en mesure d’en financer l’acquisition. Manco se serait donc tournée vers Seahawk, qui devait servir d’intermédiaire dans l’acquisition de ces actifs. Une entente serait intervenue le 6 janvier 1997 entre Manco, Seahawk et la société 9044-2435 Québec inc. (2435), représentée par son président, monsieur Mangione. 2435 était une société appartenant au père de monsieur Faille, Maurice Faille, qui agissait, selon toute vraisemblance, comme prête‑nom de son fils. Monsieur Maurice Faille était également administrateur de 2435. Dans l’entente, Seahawk consentait à Manco une option d’achat et de location à l’égard des actifs ayant appartenu à Solma. Selon monsieur Di Pasquale, cette entente avait été rédigée par monsieur Faille ou un de ses représentants. Voici ce qu’elle stipule (pièce A‑1, onglet 6) :
+ENTENTE INTERVENUE LE 6 JANVIER 1997
+Entre : 2870258 Canada INC., opérant sous le nom de Manco Domplex, 8895 Crescent 3, Anjou, Qc, dûment représentée par son président, M. Ron Di Pasquale, ci‑après nommée (MANCO).
+Et : 9044‑2435 QUÉBEC INC., dûment représentée par son président, M. Michele Mangione, ci‑après nommée (QUÉBEC INC.).
+Et : SEAHAWK FINANCIAL SERVICES LTD., 505 de Maisonneuve ouest, suite 904, Montréal, Qc., ci‑après nommée (SEAHAWK).
+Préambule :
+Attendu que MANCO oeuvre dans le placage de métaux de toutes sortes.
+Attendu que QUÉBEC INC. désire racheter la position de la Caisse Populaire St‑Albert‑Le‑Grand dans le dossier de la faillite de SOLMA ELECTROPLATING LTD.
+Attendu que SEAHAWK désire se faire rétrocéder la cession de créances entre la Caisse Populaire St‑Albert‑Le‑Grand et QUÉBEC INC.
+Attendu que SEAHAWK désire octroyer une option d’achat et/ou de location à MANCO sur les équipements ayant déjà appartenu [sic] à SOLMA.
+Il est entendu que :
+1. Le préambule fait partie intégrale [sic] de la présente.
+2. Dans le but de régler les honoraires professionnels étant dus à FRIEDMAN & FRIEDMAN dans le cadre de la faillite de SOLMA, MANCO s’engage à procéder à l’acquisition des actifs de SOLMA, directement de FRIEDMAN & FRIEDMAN pour une somme d’environ 15 000 $.
+3. MANCO, n’ayant pas le fonds de roulement nécessaire, ni les capacités d’emprunt pour procéder à l’acquisition des actifs de SOLMA tout en rachetant la position de la Caisse Populaire, s’engage à signer une entente avec SEAHAWK, en vertu de laquelle elle s’engagera à acheter et/ou louer les équipements de SOLMA directement de SEAHAWK.
+4. QUÉBEC INC., procédera au rachat de la position de la Caisse Populaire (+ ou – 500 000 $), afin de se voir rétrocéder les droits sur les équipements de SOLMA et s’engage à donner quittance à MANCO, lorsqu’elle se portera acquéreur des équipements auprès de FRIEDMAN & FRIEDMAN.
+5. QUÉBEC INC. s’engage à rétrocéder ses droits sur les actifs de SOLMA en vertu de la cession de créances qui lui sera consentie par la Caisse Populaire St‑Albert‑Le‑Grand À SEAHAWK.
+6. SEAHAWK s’engage à octroyer une option d’achat sur les équipements de SOLMA à MANCO pour une somme totale de 750 000 $. MANCO aura jusqu’au 31 décembre 1997 pour exercer son option. Advenant la non exécution de l’option, MANCO s’engagera à payer un loyer de 10 000 $ par mois à SEAHAWK pour la location des équipements et ce, rétroactif au 1er janvier 1997.
+À la date de l’expiration de l’option, SEAHAWK se réservera le droit exclusif de vendre tous les actifs de SOLMA au plus offrant, si MANCO n’exerce pas son option. De plus, MANCO s’engagera à défrayer tous les coûts nécessaires pour remettre les équipements de SOLMA en parfait état, à effectuer les réparations nécessaires et à défrayer tous les coûts reliés à la transaction.
+[...]
+[7] Deux jours plus tard, soit le 8 janvier 1997, le syndic de la faillite de Solma transférait à Manco les actifs de Solma, y compris les stocks et l’équipement, pour un montant de 15 000 $, auquel devait être ajoutées les taxes, ce qui donnait un total de 17 093,25 $. Ce montant de 17 093,25 $ a été comptabilisé entièrement sous la rubrique « Machinerie, équipement » dans les registres comptables de Manco.
+[8] Le 31 janvier 1997, 2435 présente au syndic de la faillite d’Empire une offre d’achat de son équipement pour 35 000 $, plus les taxes, ce qui représente un total de 39 884,25 $. Joint à cette offre se trouve un chèque de 7 976,85 $, représentant 20% du montant offert et le solde devait être versé le 7 février 1997. Ce chèque a été émis par Manco le 31 janvier 1997 et un autre de 31 907,40 $ l’a été par monsieur Michel Faille, vraisemblablement pour le compte d’une de ses sociétés, le 13 février 1997 (pièce A‑1, onglet 11, deuxième feuille). Trois jours après avoir présenté cette offre, soit le 3 février 1997, Manco et Seahawk convenaient de ce qui suit :
+[...]
+PRÉAMBULE :
+Attendu que Manco Domplex oeuvre dans le placage de métaux de toutes sortes.
+Attendu que Seahawk s’est portée acquéreure [sic] de tous les actifs immobilisés des compagnies Solma et Empire, ces dernières ayant oeuvré dans le placage de métaux de toutes sortes.
+Attendu que Manco désire obtenir une option d’acquérir les immobilisations ayant appartenues [sic] à Solma et Empire et maintenant propriété de Seahawk.
+Attendu que Seahawk désire octroyer une option à Manco Domplex.
+IL EST ENTENDU QUE :
+1. Le préambule fait partie intégrale [sic] de la présente.
+2. Seahawk octroie une option à Manco Domplex afin d’acquérir toutes les immobilisations de Solma, excluant la bâtisse, pour un prix fixe de sept cent cinquante mille dollars (750 000 $).
+Manco Domplex aura jusqu’au 31 décembre 1997 pour exercer son option. Advenant la non‑exécution de l’option, Manco Domplex s’engage à payer un loyer de dix mille dollars (10 000 $) par mois à Seahawk pour lesdits équipements et ce, rétroactif au 1er janvier 1997.
+À la date d’expiration de l’option, Seahawk se réserve le droit exclusif de vendre tous les équipements au plus offrant, si Manco n’exerce pas son option.
+Manco Domplex s’engage à défrayer tous les coûts nécessaires pour remettre les équipements de Solma dans un parfait état, à effectuer les réparations nécessaires et à défrayer tous les coûts reliés à la transaction.
+3. Seahawk octroie une option à Manco Domplex afin d’acquérir toutes les immobilisations de la compagnie Empire, excluant la bâtisse, pour un prix fixe de deux cent cinquante mille dollars (250 000 $).
+Manco Domplex aura jusqu’au 31 décembre 1997 pour exercer son option. Advenant la non‑exécution de l’option, Manco Domplex s’engage à payer un loyer de quatre mille dollars (4 000 $) par mois à Seahawk, pour lesdits équipements et ce, rétroactif au 1er février 1997.
+À la date d’expiration de l’option, Seahawk se réserve le droit exclusif de vendre tous les équipements au plus offrant, si Manco n’exerce pas son option.
+Manco Domplex s’engage à défrayer tous les coûts nécessaires afin de rendre les locaux d’Empire louables et remettre les équipements d’Empire dans un parfait état. Manco s’engage de plus à effectuer toutes les réparations nécessaires et défrayer tous les coûts reliés à la transaction.
+[...]
+[9] Le contrat de vente donnant effet à l’offre du 31 janvier 1997 est intervenu le 7 mars 1997 entre le syndic de la faillite d’Empire et 2435 (pièce A‑1, onglet 14).
+[10] Le 21 mai 1997, Manco retenait les services de monsieur Ronald Schiller, un comptable agréé, que monsieur Faille avait présenté à monsieur Di Pasquale. Le mandat de monsieur Schiller était d’aider Manco à obtenir le financement nécessaire pour lever les options que lui avait consenties Seahawk pour l’acquisition des actifs des faillites. Monsieur Schiller a préparé un plan d’affaires qu’il a remis en novembre 1997 (pièce A‑1, onglet 15). À la page 15 de ce document, monsieur Schiller écrit :
+Les dirigeants ont misé gros lorsqu’ils ont convenu des ententes avec SEAHAWK. Cependant, comme le démontrent les résultats actuels au 30 septembre 1997, ils ont gagné le pari. Les ventes et les profits ont connu des hausses dramatiques.
+Ils doivent maintenant passer au rachat des options détenues par SEAHAWK et se porter définitivement acquéreurs de tous les équipements.
+Comme le démontrent les prévisions financières pour les années 1998 et 1999, le projet, dans son ensemble, permettra à MANCO d’accroître ses ventes et ses bénéfices nets, tout en lui assurant les fonds nécessaires pour faire face au service de la dette.
+Auparavant, à la page 13, il avait écrit :
+MANCO a connu les taux de croissance suivants au niveau de ses ventes : 66 % de 1994 à 1995 et 33 % de 1995 à 1996. Les dirigeants auraient pu se contenter de taux de croissance aussi importants. La conjoncture économique a fait qu’elle a connu un taux de croissance phénoménal de 77 % pour l’année 1996‑1997 (basé sur les résultats actuels après 10 mois d’opération et les prévisions de ventes pour les deux derniers mois de son année financière).
+[11] Selon monsieur Di Pasquale, Manco a pris possession des actifs de Solma à compter de janvier 1997 et de ceux d’Empire au milieu du mois de février 1997 parce que le propriétaire de l’édifice dans lequel se trouvaient les actifs d’Empire était dans un état de panique. C’est également la description qu’en fait monsieur Schiller dans son plan d’affaires à la page 14. Les démarches de monsieur Schiller ont permis d’obtenir un financement de la Banque TD. À cette fin, Manco a obtenu de la Société de développement industriel du Québec (SDI) une garantie de prêt de 1 200 000 $, comme le confirme un lettre du 29 juin 1998 (pièce A‑1, onglet 19). Un avis sectoriel avait été demandé auparavant, soit le 9 décembre 1997, par la SDI au ministère de l’Industrie, du Commerce, de la Science et de la Technologie (MICST). Dans son avis du 28 janvier 1998, la Direction des industries chimiques et des matériaux du MICST se montrait favorable au projet de Manco et recommandait à la SDI de répondre affirmativement à la demande de garantie de prêt (pièce A‑1, onglet 16). Cet avis décrit le montage financier comme comprenant 750 000 $ pour l’acquisition de Solma et 250 000 $ pour l’acquisition d’Empire. On y mentionne que « Manco veut faire l’acquisition d’équipements de placage des compagnies Solma et Empire qui ont fait faillite l’an dernier et ce, afin d’augmenter sa capacité de production lui permettant ainsi d’être plus compétitif [sic] » (pièce A‑1, onglet 16, page 2, sous la rubrique « L’entreprise »). À la page 3, sous la rubrique « Capacité de l’entreprise », il est dit : « [...] on constate que l’entreprise a une santé financière plutôt fragile; ce qui pourrait les mettre en difficulté si les prévisions de ventes ne sont pas atteints [sic]. » Finalement, on mentionne à la page 4, parmi les considérations motivant la recommandation : « [...] l’acquisition d’équipements de placage encore en bonne condition à un prix relativement bon marché [...] » et le fait que « Manco‑Domplex est devenu [sic], au cours des dernières années, une des sociétés les plus importantes au Québec dans la sous‑traitance pour le placage industriel ».
+[12] Monsieur Alejandro Morales de la SDI, qui a témoigné lors de l’audience, a confirmé qu’il est normal de visiter l’entreprise pour laquelle les cautions sont fournies. Selon monsieur Ron Di Pasquale, monsieur Morales ainsi qu’un représentant du MICST ont effectivement visité les installations de Manco. Dans l’offre de garantie de prêt jointe à la lettre de monsieur Morales en date du 29 juin 1998, il est spécifié que le prêt de 1 200 000 $ doit servir exclusivement au financement du projet, à savoir l’acquisition de machinerie et d’équipement (1 000 000 $), la réalisation d’améliorations locatives (200 000 $), et l’établissement d’un fonds de roulement de 400 000 $, pour un total de 1 600 000 $. La SDI fournissait la caution pour le prêt de 1 200 000 $ et une société de placements dans l’entreprise québécoise (SPEQ) devait faire une mise de fonds de 400 000 $. L’engagement de la SDI était conditionnel à l’obtention d’une marge de crédit de 350 000 $ et à une confirmation écrite du vérificateur externe de Manco d’une mise de fonds de 400 000 $ par le biais d’une SPEQ. Monsieur Frank Bruzzese a confirmé à la SDI, dans une lettre en date du 9 avril 1999, que Manco avait émis 1 500 actions de catégorie A en faveur de SPEQ Placage Montréal Inc. pour une contrepartie totale de 400 000 $ (pièce A‑1, onglet 21). Selon monsieur Di Pasquale, la SPEQ a été créée le 30 novembre 1998.
+[13] Au mois de juillet 1998, monsieur Di Pasquale a appelé monsieur Faille pour l’informer qu’il était prêt à finaliser l’acquisition des actifs des faillites et qu’il fallait obtenir une facture pour que la Banque TD remette l’argent. Cette facture a été établie le 9 juillet 1998 et elle est adressée à Manco par Seahawk Investments (pièce A-1, onglet 20). On y trouve cette description des actifs : « Machinerie, équipements et installations tel [sic] qu’indiqués dans les annexes ci‑jointes qui font partie intégrante de cette facture », ainsi que l’indication du prix, soit un million de dollars, auquel s’ajoutent un montant de TPS de 70 000 $ et un montant de TVQ de 80 250 $, pour un total de 1 150 250 $. En plus, des numéros de TPS et de TVQ y apparaissent. Monsieur Di Pasquale a affirmé qu’il n’y avait pas eu de nouvelle entente entre Manco et Seahawk Investments. Selon lui, le transfert des actifs des faillites s’est effectué conformément à l’entente du 3 février 1998, selon laquelle Seahawk avait consenti à Manco une option pour un million de dollars. Lorsque son avocat lui a fait remarquer à l’audience qu’il ne s’agissait pas de la même entité, monsieur Di Pasquale a affirmé que monsieur Faille lui avait dit que c’était « la même chose ».
+[14] Par la suite, le 5 août 1998, la Banque TD a émis deux traites bancaires de 575 125 $, totalisant 1 150 250 $, payables à Seahawk Investments. L’endossement qu’on y trouve est celui de monsieur Michel Faille pour « Seahawk » (sans préciser s’il s’agit de Seahawk Investments ou de Seahawk) et la Banque Royale du Canada a garanti cet endossement. Madame Jacqueline Bastien, directrice des comptes à la Banque TD, a témoigné pour déposer les deux traites bancaires et la résolution que lui avait fournie la Banque Royale relativement à sa garantie de l’endossement. Toutefois, cette résolution avait été faite au nom de Seahawk et non de Seahawk Investments (pièce A‑2).
+[15] Lorsque monsieur Bruzzese a inscrit dans les registres comptables de Manco le coût de 1 000 000 $ pour les actifs des faillites, il s’est fié à la facture de Seahawk Investments ainsi qu’aux vérifications qu’il a présumé que la Banque TD avait faites avant de financer cette acquisition. Il s’était fait dire que les 17 093 $ pour l’acquisition des actifs de Solma ne constituaient qu’un acompte.
+[16] Manco a demandé le CTI de 70 000 $ dans sa déclaration de TPS en date du 28 septembre 1998 (pièce I‑1). Monsieur Normand O’Reilly, le vérificateur du ministre, a contacté Manco le mois suivant pour obtenir les documents pertinents relativement à cette demande. Le 25 novembre 1998, il s’est présenté à l’établissement de Manco pour visiter ses installations. Il a obtenu les numéros de série de quatre biens choisis au hasard et, selon monsieur Di Pasquale, ces numéros de série n’étaient pas conformes à ceux apparaissant dans les annexes jointes à la facture du 9 juillet 1998. Monsieur O’Reilly a refusé le CTI parce qu’il n’était pas certain de l’identité du vendeur des actifs des faillites[3]. Il faut ajouter que monsieur O’Reilly n’a pas demandé à vérifier les numéros de série d’équipement plus important qui se trouvait dans l’usine. Monsieur Di Pasquale a déclaré que ces numéros de série se trouvaient sur des filtres et d’autres biens de même nature. Apparemment, il n’y avait pas de numéro de série sur l’équipement plus important.
+[17] Le ministère ne s’est pas contenté de refuser le CTI à Manco, mais il a aussi décidé d’enquêter pour déterminer s’il y avait matière à une poursuite criminelle. Il a confié cette tâche à monsieur Vinet en mai 1999. Après vérification auprès des syndics des faillites de Solma et d’Empire, il a constaté que les acquéreurs des actifs des faillites étaient, en ce qui concerne ceux de Solma, Manco pour 15 000 $, et en ce qui concerne ceux d’Empire, 2435, que les actifs de Solma avaient été comptabilisés entièrement sous la rubrique « Machinerie, équipement » dans le compte 1560 de Manco, que la facture d’un million de dollars avait été établie par Seahawk Investments et non Seahawk, que Seahawk Investments avait été radiée en juillet 1997, que son numéro de TPS était radié depuis le 31 juillet 1995, que Seahawk n’avait jamais obtenu de numéro de TPS et qu’il manquait de preuve quant au titre de propriété relatif aux actifs. Il a alors conclu que Manco avait fait une fausse déclaration dans le but d’obtenir indûment un CTI et des poursuites `criminelles ont été engagées contre Manco et ses deux dirigeants, messieurs Michele Mangione et Renaldo Di Pasquale.
+[18] Madame la juge Céline Lacerte‑Lamontagne a rendu sa décision le 4 décembre 2003 après un procès de trois jours, au cours duquel seulement la Couronne a présenté des témoins, à savoir, principalement, le vérificateur O’Reilly et l’enquêteur Vinet. Elle a conclu que la Couronne ne s’était pas acquittée de son fardeau de prouver hors de tout doute raisonnable tous les éléments essentiels des infractions. Par conséquent, Manco ainsi que messieurs Di Pasquale et Mangione ont été acquittés. La Couronne a interjeté appel devant l’honorable juge Jean‑Guy Boilard de la Cour supérieure, qui a rejeté cet appel.
+[19] Lors de son témoignage devant moi, monsieur Vinet a confirmé qu’il avait obtenu tous les documents qu’il avait demandés à Manco et qu’il avait eu, selon son souvenir, une bonne collaboration de la part de ses représentants.
+[20] En dernier lieu, il faut mentionner que monsieur Faille a plaidé coupable, le 13 octobre 2004, d’avoir participé à la production par Manco de déclarations fausses ou trompeuse pour la période du 1er juin 1998 au 30 septembre 1998 et d’avoir permis à Manco d’obtenir indûment un CTI s’élevant à 70 000 $, commettant ainsi des infractions aux paragraphes 327(1) et 329(1) de la Loi (pièce I‑13). Lors de son témoignage devant cette Cour, monsieur Faille a expliqué qu’il avait plaidé coupable sans prendre connaissance des sommations et uniquement dans le but de limiter ses frais juridiques. Il a reconnu, par contre, qu’il n’avait pas remis au ministère les 70 000 $ de TPS et les 80 250$ de TVQ parce qu’il avait été, selon lui, harcelé par les autorités fiscales pendant de nombreuses années.
+Analyse
+[21] La thèse défendue par le ministre est que la facture sur laquelle apparaît le montant d’un million de dollars est fausse, qu’il n’y a pas eu de véritable acquisition des actifs des faillites par Manco de Seahawk pour un million de dollars. La véritable acquisition s’était effectuée auparavant lorsque Manco avait acquis directement de la faillite de Solma les actifs de Solma pour 15 000 $, et je présume que, selon le ministre, les actifs d’Empire avaient été acquis d’une manière similaire pour 35 000 $.
+[22] À mon avis, l’ensemble de la preuve est favorable à la thèse défendue par Manco, à savoir qu’elle a acquis les actifs des faillites pour un million de dollars. Il y a d’abord eu les témoignages de messieurs Di Pasquale et Faille qui ont établi que le plan de match était essentiellement de faire l’acquisition de ces actifs par l’intermédiaire de Seahawk, une fois le financement d’un million de dollars mis en place.
+[23] Quoique cette façon de faire laisse beaucoup à désirer, le contrat d’achat entre la faillite de Solma et Manco ne visait qu’à remettre à la faillite l’argent nécessaire pour acquitter les honoraires du syndic. La personne qui semble avoir été le maître d’oeuvre de tout ce montage, monsieur Faille, a beaucoup manqué de rigueur dans la rédaction des contrats, dont certains, comme celui pour l’achat des actifs de Solma, ne reflètent pas adéquatement la réalité. Je crois que l’entente véritable intervenue entre Manco et Seahawk était celle selon laquelle les biens des faillites devaient être acquis par Manco par l’intermédiaire de monsieur Faille et/ou de l’une de ses nombreuses sociétés prête‑noms et que la contrepartie véritable qui devait être versée pour ces actifs était bien un million de dollars.
+[24] Les faits à l’appui de cette conclusion sont les suivants. Dès le départ, avant même la vente des actifs de Solma par le syndic à Manco, il y avait eu l’entente du 6 janvier 1997 par laquelle « Seahawk s’engage[ait] à octroyer une option d’achat sur les équipements de Solma à Manco pour [...] 750 000 $. » Quelques jours plus tard, soit le 3 février 1997, Seahawk consentait une option semblable pour les actifs d’Empire « excluant la bâtisse, pour [...] 250 000 $ ». Je crois que ces ententes révèlent de façon plus vraisemblable la réalité des opérations que les parties envisageaient. Il y a également l’étude de faisabilité réalisée par monsieur Schiller, qui a favorisé l’obtention d’un prêt de 1,2 M$ de la Banque TD. Il y a en outre la preuve du paiement de la facture de Seahawk Investments effectué par la remise, le 5 août 1998, des deux traites bancaires de 575 125 $ chacune, totalisant 1 150 250 $. En plus de ces éléments de preuve, il faut ajouter la caution fournie par la SDI avec l’approbation du MICST. Ainsi, l’ensemble de la preuve m’amène à conclure qu’il y a eu véritablement acquisition, par l’intermédiaire de monsieur Faille, des actifs des faillites par Manco pour un million de dollars.
+[25] Par contre, pour avoir droit au CTI à l’égard de ces actifs, certaines conditions doivent être réunies, dont celles qui sont énoncées à l’alinéa 169(4)a) de la Loi. Cet alinéa édicte ce qui suit :
+169(4) L’inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+[...]
+[26] Le Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH) (Règlement) prévoit au sous‑alinéa 3b)(i) que :
+Les renseignements visés à l’alinéa 169(4)a) de la Loi, sont les suivants :
+b) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 30 $ ou plus [...] :
+(i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire et le numéro d’inscription attribué, conformément au paragraphe 241(1) de la Loi, au fournisseur ou à l’intermédiaire, selon le cas,
+[Je souligne.]
+[27] La preuve a révélé ici que la facture qui a été fournie pour justifier la demande de CTI contenait un numéro d’inscription de TPS, mais que le numéro avait été révoqué un an avant le transfert des actifs des faillites par Seahawk Investments. Dans l’affaire Systematix Technology Consultants Inc. v. Her Majesty the Queen, 2006 TCC 277, j’ai eu à statuer sur un cas semblable à celui‑ci. Au paragraphe 5 de cette décision, j’écris :
+In the second category, the invoices do provide a registration number but the number was not valid at the relevant time. This category can be divided into three subcategories. In the first of these, a valid registration number appears but only for a period prior to the relevant period [...]
+[28] Après avoir fait, au paragraphe 15 de ma décision, une analyse de la portée des mots que l’on trouve au sous‑alinéa 3b)(i) du Règlement, c’est‑à‑dire une analyse de la question de savoir s’il était requis que la facture fournisse un numéro d’inscription attribué conformément au paragraphe 241(1) de la Loi, j’ai conclu que l’absence d’un numéro d’inscription valide au moment pertinent empêchait une entreprise d’avoir droit au CTI.
+[29] Je sais qu’un appel a été interjeté devant la Cour d’appel fédérale, mais, malheureusement, au moment où j’ai rendu ma décision en l’espèce, la Cour d’appel fédérale ne s’était pas encore prononcée sur le bien-fondé de l’appel de Systematix. Pour le moment, j’adopte donc la même interprétation que celle que j’avais adoptée dans cette affaire‑là[4].
+[30] Évidemment, l’autre motif qui pouvait justifier le refus du CTI était le fait qu’au moment pertinent Seahawk Investments avait été dissoute et n’avait aucune existence juridique. J’ai suspendu, après l’argumentation des parties, l’audition de cet appel, qui s’était déroulée du 16 au 20 octobre 2006, pour permettre aux parties de régler non seulement ce litige, mais ceux dans des dossiers fiscaux connexes; malheureusement, elles n’ont pas réussi. En revanche, cette suspension a permis à Manco d’obtenir un arrêté de révocation de la radiation de Seahawk Investments. Comme j’ai également permis la réouverture de la preuve, un fac‑similé de cet arrêté a été produit par l’avocat de Manco lors de l’audience tenue le 1er mai 2007 (pièce A‑8). L’avocat de l’intimée a soutenu, par contre, que cet arrêté avait un effet rétroactif et ne pouvait lui être opposé en raison de l’article 57 de la Loi sur la publicité légale des entreprises individuelles, des sociétés et des personnes morales :
+57. Sous réserve des droits acquis par une personne ou par un groupement, l’immatriculation d’un assujetti est réputée n’avoir jamais été radiée et la personne morale constituée au Québec est réputée n’avoir jamais été dissoute.
+[Je souligne.]
+[31] En effet, il a soutenu que le ministre jouissait de droits acquis puisque plus de quatre ans s’étaient écoulés depuis l’acquisition des actifs des faillites et le ministre bénéficiait de la prescription ainsi acquise. Au moment pertinent, à savoir lors de la production de la déclaration de TPS, le fournisseur (Seahawk Investments) n’existait plus. Dans ces circonstances, Manco ne pouvait obtenir le CTI. À mon avis, il n’est pas nécessaire de trancher cette question, compte tenu de la conclusion à laquelle j’en suis venu quant à l’exigence d’un numéro d’inscription du TPS pour avoir droit au CTI.
+[32] Le ministre a imposé une pénalité en vertu du paragraphe 285 de la Loi, qui édicte ce qui suit :
+285. Faux énoncés ou omissions − Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, une demande, un formulaire, un certificat, un état, une facture ou une réponse − appelés « déclaration » au présent article − établi pour une période de déclaration ou une opération, ou y participe, y consent ou y acquiesce, est passible d'une pénalité de 250 $ ou, s'il est plus élevé, d'un montant égal à 25 % de la somme des montants suivants :
+[...]
+[Je souligne.]
+[33] La tâche d’établir que Manco avait sciemment ou dans des circonstances équivalant à faute lourde fait un faux énoncé dans sa déclaration de taxe nette pour la période pertinente revenait au ministre. Évidemment, si j’avais été convaincu que l’acquisition des actifs des faillites pour 1 M$ n’était qu’un simulacre et n’avait aucune substance économique, la tâche du ministre aurait été facilitée. Ayant conclu, par contre, selon l’ensemble de la preuve, qu’une acquisition réelle de l’équipement pour un million de dollars avait eu lieu, quoiqu’on ne puisse être certain qui était le véritable vendeur de cet équipement, et n’ayant pas de raison de croire que Manco savait que Seahawk n’avait pas un numéro de TPS valide, j’estime qu’il est tout à fait injustifié de pénaliser Manco dans ces circonstances.
+[34] En outre, monsieur Faille a déclaré lors de son témoignage qu’il avait pris la décision de ne pas remettre la TPS de 70 000 $ au ministère sans consulter ou informer personne. Par conséquent, il n’existe aucune preuve que Manco et ses représentants avaient été impliqués dans l’omission de remettre. Il a également confirmé qu’il n’avait aucune raison de croire que Manco pouvait être au courant de son projet d’éluder la remise au ministère de la TPS que Manco avait versée lors de l’acquisition des actifs des faillites.
+[35] Pour tous ces motifs, l’appel de Manco est accueilli et la cotisation est renvoyée au ministre pour nouvel examen et nouvelle cotisation en tenant pour acquis que la pénalité imposée en vertu de l’article 285 de la Loi doit être annulée, le tout sans frais, compte tenu des circonstances.
+Signé à Vancouver, Colombie-Britannique, ce 3e jour d’août 2007.
+« Pierre Archambault »
+Juge Archambault
+RÉFÉRENCE : 2007CCI407
+Nº DU DOSSIER DE LA COUR : 2003-2120(GST)G
+INTITULÉ DE LA CAUSE : 2870258 CANADA INC. c. LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Du 16 au 20 octobre 2006 et le 1er mai 2007
+MOTIFS DE JUGEMENT PAR : L'honorable juge Pierre Archambault
+DATE DU JUGEMENT : Le 3 août 2007
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Franco Iezzoni
+Avocats de l'intimée :
+Me Benoît Denis
+Me Jean-Philippe Dumas
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom : Me Franco Iezzoni
+Cabinet : Pateras & Iezzoni
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’appelante a admis cet alinéa, sauf que c’est Mme Assunta Mangione qui aurait été la cosignataire.
+[2] Lors de son témoignage, après réouverture de la preuve, monsieur Faille a déclaré qu’il désirait participer au regroupement d’entreprises de placage au Québec et qu’il avait décidé de s’associer avec messieurs Mangione et Di Pasquale pour regrouper les actifs des faillites de Solma et d’Empire dans Manco.
+[3] Voir le rapport de monsieur O’Reilly, pièce I‑16, à la troisième page.
+[4] Après le prononcé de ma décision dans cet appel, la Cour d'appel fédérale a confirmé ma décision dans Systematix, 2007 FCA 226.

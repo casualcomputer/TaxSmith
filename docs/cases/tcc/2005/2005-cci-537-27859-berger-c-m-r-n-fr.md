@@ -1,0 +1,220 @@
+---
+title: "Berger c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27859/index.do"
+last_modified: "2005-08-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 537"
+citation2: ""
+neutral_citation: "2005 CCI 537"
+decision_date: "2005-08-26"
+language: "fr"
+item_id: "27859"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 334
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:35:57.660000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bcb60b9db1405f474d79278db4b9accefdb4e527abf68f38fb92b38b724e1396"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Berger c. M.R.N.
+
+- Citation: 2005 CCI 537
+- Decision date: 2005-08-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 334, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Berger c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-26
+Référence neutre
+2005 CCI 537
+Numéro de dossier
+2004-574(CPP)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2004-574(CPP)
+ENTRE :
+DONALD BERGER s/n BUSY 'B' CONSTRUCTION & CONCRETE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l'appel de
+Donald Berger s/n Busy 'B' Construction & Concrete (2004-575(EI))
+les 9 et 11 août 2005 à Prince Albert et à Saskatoon (Saskatchewan).
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Représentant de l’appelant :
+Donald Berger
+Avocat de l’intimé :
+Me Julien Bedard
+JUGEMENT
+L'appel est rejeté, et la décision du ministre est confirmée selon les motifs de jugement ci-joints.
+Signé à Regina (Saskatchewan), ce 26e jour d’août 2005.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 25e jour de mai 2006.
+Jean David Robert, traducteur
+Dossier : 2004-575(EI)
+ENTRE :
+DONALD BERGER s/n BUSY 'B' CONSTRUCTION & CONCRETE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l'appel de
+Donald Berger s/n Busy 'B' Construction & Concrete (2004-574(CPP))
+les 9 et 11 août 2005 à Prince Albert et à Saskatoon (Saskatchewan).
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Représentant de l’appelant :
+Donald Berger
+Avocat de l’intimé :
+Me Julien Bedard
+JUGEMENT
+L'appel est rejeté, et la décision du ministre est confirmée selon les motifs de jugement ci-joints.
+Signé à Regina (Saskatchewan), ce 26e jour d’août 2005.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 25e jour de mai 2006.
+Jean David Robert, traducteur
+Référence : 2005CCI537
+Date : 20050826
+Dossiers : 2004-574(CPP)
+2004-575(EI)
+ENTRE :
+DONALD BERGER s/n BUSY 'B' CONSTRUCTION & CONCRETE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Les présents appels ont été entendus sur preuve commune à Prince Albert et à Saskatoon (Saskatchewan) respectivement les 9 et 11 août 2005. L’appelant a témoigné.
+[2] Les appels visent la période du 1er mars 2002 au 31 décembre 2002, tel qu’il est indiqué à l’annexe B de la réponse à l’avis d’appel. M. Berger a de la difficulté à lire et à écrire et soutient qu’il a interjeté appel à l’égard des années 1999 à 2003. (Son avis d’appel ne précise pas de noms ni de dates.) Par conséquent, l’intimé n’a pas été autorisé à modifier ses actes de procédure, qui font souvent référence à l’année 2000, et non pas 2002. Le 9 août 2005, M. Berger n’a pu faire de distinction entre les diverses années civiles et a soutenu qu’il n’avait pas embauché diverses personnes ni recouru à leurs services en 2002. Pour ce motif, l'affaire a été ajournée jusqu'au 11 août 2005 pour permettre à l’appelant de vérifier ce qu’il pouvait dans les dossiers dont il disposait.
+[3] Les précisions contenues dans les réponses sont presque identiques. Les paragraphes 5 à 10 inclusivement de la réponse à l’avis d’appel dans le dossier 2004 575(EI) font référence à l’année 2000, et non pas 2002. Ils sont ainsi rédigés :
+[traduction]
+5. Conformément à l’avis d’évaluation en date du 15 mai 2003, l’appelant a fait l’objet d’une évaluation selon laquelle, entre autres, il devait payer 1 541,02 $ au titre de cotisations d'assurance-emploi pour l’année 2000 pour les travailleurs suivants mentionnés à l’annexe A, jointe à la réponse à l’avis d’appel et en faisant partie (ci-après « annexe A ») :
+Travailleurs
+Llewyll Tremblay
+Ivan Pomalow
+Ed Berger
+Art Ashdown
+Dave Cambell
+Ashley Ashdown
+Ashley Desrosiers
+Donny Berger Jr.
+Grant Kriger
+6. Le 12 mai 2003, l’appelant a interjeté appel de l’évaluation devant le ministre.
+7. En réponse à l’appel interjeté devant lui à l’encontre de l’évaluation, le ministre a réduit de 19,01 $ le montant fixé dans l’évaluation pour l’année 2000 parce que Ed Berger n'exerçait pas un emploi aux termes d'un contrat de louage de services auprès de l’appelant, et il a confirmé le reste de l’évaluation étant donné que les autres travailleurs (ci-après les « travailleurs ») étaient employés en vertu d'un contrat de louage de services par l’appelant.
+8. Pour arriver à sa conclusion, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelant est l’unique propriétaire de Busy 'B' Construction and Concrete;
+b) les activités de l’entreprise de construction de l’appelant comprennent la construction de maisons et la coulée de béton;
+c) l’appelant dirigeait l’exploitation quotidienne de l’entreprise;
+d) l’appelant prenait les décisions importantes concernant l’entreprise,
+e) Aucun des travailleurs n’avait :
+(i) des mises de fonds dans l’entreprise de l’appelant;
+(ii) le pouvoir de signature;
+(iii) un contrat écrit avec l’appelant;
+Arthur Ashdown et Ashley Desrosiers
+f) Arthur Ashdown (ci-après « M. Ashdown ») et Ashley Desrosiers (ci-après « M. Desrosiers ») étaient tenus de fournir personnellement leurs services;
+g) M. Ashdown travaillait comme ouvrier;
+h) M. Desrosiers a construit un bâti de construction sur lequel il a installé des plaques de métal;
+i) M. Ashdown et M. Desrosiers recevaient des instructions sur la façon dont ils devaient accomplir leurs fonctions;
+j) l’appelant exerçait un contrôle important sur les activités de M. Ashdown et de M. Desrosiers;
+k) M. Ashdown fournissait uniquement de petits outils à main, dont un marteau, un mètre à ruban et un tablier, dans l’exercice de ses fonctions;
+l) M. Desrosiers ne fournissait pas son propre outillage dans l’exercice de ses fonctions;
+m) M. Ashdown et M. Desrosiers n’avaient pas la permission d’engager eux-même leurs assistants;
+n) M. Ashdown était payé 15,00 $ l’heure;
+o) M. Desrosiers était payé entre 9,00 $ et 10,00 $ l’heure;
+p) l’appelant décidait s’il fallait refaire des travaux;
+q) M. Ashdown et M. Desrosiers étaient payés s’ils devaient refaire des travaux;
+r) M. Ashdown et M. Desrosiers n’avaient pas leur propre assurance;
+s) M. Ashdown et M. Desrosiers ne facturaient pas la TPS à l’appelant;
+t) l’appelant décidait de l’horaire de travail et des tâches de M. Ashdown et de M. Desrosiers;
+u) l’appelant donnait des instructions à M. Ashdown et à M. Desrosiers concernant les tâches à accomplir;
+v) M. Ashdown et M. Desrosiers fournissaient leurs services en compagnie de l’appelant;
+Llewyll Tremblay, David Cambell, Grant Kriger, Ivan Pomalaw, Ashley Ashdown et Donny Berger Jr. (ci-après le « groupe de travailleurs »)
+w) Grant Kriger est décédé en mars 2003;
+x) l’appelant a obtenu les contrats de son entreprise;
+y) le groupe de travailleurs fournissait des services à l’appelant sous forme de main-d’œuvre;
+z) les travailleurs membres du groupe étaient payés entre 8,00 $ et 10,00 $ l’heure;
+aa) les fonctions du groupe de travailleurs comprenaient le clouage, la pose de cloisons sèches et l’excavation;
+bb) le groupe de travailleurs fournissait son propre outillage.
+B. POINTS EN LITIGE
+9. Les points en litige sont de savoir :
+a) si les travailleurs ont été embauchés par l’appelant aux termes d'un contrat de louage de services;
+b) si le montant de l’évaluation de l’appelant à l’égard des travailleurs pour l’année 2000 a été correctement établi.
+C. DISPOSITIONS LÉGISLATIVES ET MOYENS INVOQUÉS, ET CONCLUSIONS RECHERCHÉES
+10. Il se fonde sur le paragraphe 2(1) et l’alinéa 5(1)a) de la Loi sur l'assurance-emploi (la « Loi »).
+[4] La confirmation des sommes à payer à titre de cotisations d'assurance‑emploi et de cotisations au Régime de pensions du Canada qui fait l’objet des appels est datée du 18 mars 2003 et a été produite sous la cote R-2. Ce document indique que les appels visent la période du 1er janvier au 31 décembre 2002. L’appelant a convenu qu’il a reçu la confirmation, qu’il l’a portée en appel et qu’elle est en litige dans la présente audience. Cependant, aucune confirmation en bonne et due forme ne semble avoir été donnée en temps opportun pour les autres années qu’il conteste, lesquelles pourraient faire l’objet du présent appel.
+[5] Lors d'un contre-interrogatoire tenu le 9 août 2005, l’appelant n’a pas contesté quant au fond les précisions relatives à chacune des hypothèses, sauf pour affirmer que M. Ashdown fournissait ses propres petits outils. Le 11 août 2005, il a confirmé que les prétendus employés ont travaillé pour lui en 2002 et qu’il leur a versé les salaires allégués.
+[6] L’ensemble de la preuve révèle que l’appelant exerçait un contrôle sur les activités des travailleurs, qu’il a fourni ou obtenu les principaux outils, qu’il pouvait réaliser des profits ou enregistrer des pertes, et que les activités des travailleurs faisaient partie intégrante du projet de construction de l’appelant. Ils étaient des employés de l’appelant.
+[7] Par conséquent, les appels sont rejetés. L’appelant a essentiellement obtenu le contrat en cause en ajoutant 2,00 $ au salaire horaire qu’il payait. L’entrepreneur original payait ce même salaire horaire pour tout travail à refaire et à l’appelant lui-même. Compte tenu de la preuve présentée devant la Cour, il est possible que l’appelant ne soit qu’une personne interposée dans cet arrangement. Néanmoins, selon la preuve limitée dont dispose la Cour, il est l’employeur responsable.
+Signé à Regina (Saskatchewan), ce 26e jour d’août 2005.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 25e jour de mai 2006.
+Jean David Robert, traducteur
+RÉFÉRENCE :
+2005CCI537
+Nº DES DOSSIERS DE LA COUR :
+2004-574(CPP) et 2004-575(EI)
+INTITULÉ :
+Donald Berger s/n Busy 'B' Construction & Concrete et
+le ministre du Revenu national
+LIEUX DE L’AUDIENCE :
+Prince Albert et
+Saskatoon (Saskatchewan)
+DATES DE L’AUDIENCE :
+Les 9 et 11 août 2005
+MOTIFS DU JUGEMENT :
+L’honorable juge Beaubier
+DATE DU JUGEMENT :
+Le 26 août 2005
+COMPARUTIONS :
+Représentant de l’appelant :
+Donald Berger
+Avocat de l’intimé :
+Me Julien Bedard
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,189 @@
+Title: 9081-2769 Québec inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/361425/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-14-361425-9081-2769-qu-bec-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-01-17
+
+# 9081-2769 Québec inc. v. The Queen
+
+- Citation: 2019 TCC 14
+- Decision date: 2019-01-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4335, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9081-2769 Québec inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-01-17
+Neutral citation
+2019 TCC 14
+File numbers
+2016-3142(IT)I
+Judges and Taxing Officers
+Dominique Lafleur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016­3142(IT)I
+BETWEEN:
+9081­2769 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on December 5, 2018, at Quebec City, Quebec.
+Before: The Honourable Justice Dominique Lafleur
+Appearances:
+Representative of the Appellant:
+Claude Dubé
+Counsel for the Respondent:
+Mr. Julien Dubé­Senécal
+JUDGMENT
+The appeal from reassessments made pursuant to the Income Tax Act for the taxation years ending February 28, 2010 (fiscal year from March 1, 2009 to February 28, 2010) and February 28, 2011 (fiscal year from March 1, 2010 to February 28, 2011) is dismissed, without costs.
+Signed at Ottawa, Canada, this 17th day of January 2019.
+“Dominique Lafleur”
+Lafleur J.
+Citation: 2019 TCC 14
+Date: 20190117
+Docket: 2016­3142(IT)I
+BETWEEN:
+9081­2769 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lafleur J.
+I. BACKGROUND
+[1] 9081­2769 Québec inc. is appealing reassessments for the taxation years ending February 28, 2010 (fiscal year from March 1, 2009 to February 28, 2010) and February 28, 2011 (fiscal year from March 1, 2010 to February 28, 2011) made by the Minister of National Revenue (the “Minister”) after the normal reassessment period under the Income Tax Act (the “Act”).
+[2] Under those reassessments, amounts of $15,227 and $18,115 (the “disputed amounts”) were added to the income from the Appellant’s business in keeping with subsection 9(1) of the Act, and penalties were imposed on it under subsection 163(2) of the Act.
+[3] For more than 20 years, until 2015, the Appellant operated a tanning salon in the basement of the personal residence of its shareholder and director in Saint­Étienne­de­Lauzon, Quebec. In addition to tanning, other aesthetic services were offered and some products were sold, such as tanning products and inexpensive jewellery.
+[4] According to the Minister, the disputed amounts, equalling the total of unexplained deposits into Ms. Lise Sanschagrin’s bank account during the period from March 1, 2009 to February 28, 2011, represent sales by the Appellant that it failed to report. Ms. Sanschagrin is the spouse of Mr. Claude Dubé, the Appellant’s sole shareholder and director.
+[5] According to the Appellant, represented at the hearing by Claude Dubé, the amounts so deposited into Ms. Sanschagrin’s account came from Mr. Dubé and were allegedly loaned by Mr. Dubé to Ms. Sanschagrin. According to the Appellant, the disputed amounts are not the proceeds from sales by the Appellant and should not be added into the calculation of its income. In addition, no penalty should be imposed on it.
+[6] At the hearing, held using the informal procedure, Mr. Dubé and Ms. Sanschagrin testified, as did Mr. Éric Aubin, the Canada Revenue Agency (“CRA”) auditor who performed the audit. The Appellant did not file any documents in evidence; the Respondent filed Exhibit I­1 containing several documents.
+[7] In these reasons, any reference to a statutory provision is a reference to a provision of the Act.
+II. ISSUES
+a) Was the Minister justified in adding to the Appellant’s income the amounts disputed under subsection 9(1) for the years in question?
+b) Was the Minister authorized to make reassessments after the normal reassessment period?
+c) Was the Minister justified in applying the penalty provided for in subsection 163(2) to the disputed amounts?
+III. STATUTORY PROVISIONS
+[8] The statutory provisions that apply in this case are as follows:
+9(1) Income — Subject to this Part, a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from that business or property for the year.
+. . .
+152(4) Assessment and reassessment [limitation period] — The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+. . .
+152(7) Assessment not dependent on return or information — The Minister is not bound by a return or information supplied by or on behalf of a taxpayer and, in making an assessment, may, notwithstanding a return or information so supplied or if no return has been filed, assess the tax payable under this Part.
+152(8) Assessment deemed valid and binding — An assessment shall, subject to being varied or vacated on an objection or appeal under this Part and subject to a reassessment, be deemed to be valid and binding notwithstanding any error, defect or omission in the assessment or in any proceeding under this Act relating thereto.
+. . .
+163(2) False statements or omissions — Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+. . .
+9(1) Revenu — Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+[…]
+152(4) Cotisation et nouvelle cotisation [délai de prescription] — Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[…]
+152(7) Cotisation indépendante de la déclaration ou des renseignements fournis — Le ministre n’est pas lié par les déclarations ou renseignements fournis par un contribuable ou de sa part et, lors de l’établissement d’une cotisation, il peut, indépendamment de la déclaration ou des renseignements ainsi fournis ou de l’absence de déclaration, fixer l’impôt à payer en vertu de la présente partie.
+152(8) Présomption de validité de la cotisation — Sous réserve des modifications qui peuvent y être apportées ou de son annulation lors d’une opposition ou d’un appel fait en vertu de la présente partie et sous réserve d’une nouvelle cotisation, une cotisation est réputée être valide et exécutoire malgré toute erreur, tout vice de forme ou toute omission dans cette cotisation ou dans toute procédure s’y rattachant en vertu de la présente loi.
+[…]
+163(2) Faux énoncés ou omissions — Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+[…]
+[Emphasis added]
+IV. TESTIMONIES AND EVIDENCE
+A. Ms. Sanschagrin
+[9] According to the evidence, Ms. Sanschagrin handled the day­to­day management of the tanning salon, made bank deposits, answered the phone, kept the appointment book and received customers. That was the only employment she had during the years in question.
+[10] Ms. Sanschagrin testified that the Appellant did not draw up invoices for services rendered or product sales because it generated revenue less than $30,000 annually and therefore did not have to be registered for taxes. According to Ms. Sanschagrin, her accountant told her that invoices did not have to drawn up in this case.
+[11] Ms. Sanschagrin testified that the cash deposits into her bank account came from her mother and from Mr. Dubé and that they enabled her to pay her bills given that the salary paid by the Appellant was insufficient for that.
+B. Mr. Dubé
+[12] Mr. Dubé testified that he ran a business for more than 35 years. According to his testimony, the disputed amounts are amounts that he had loaned to Ms. Sanschagrin during the years in question because the Appellant was not generating any revenue.
+[13] The evidence showed that Mr. Dubé was also a shareholder in six other companies (some of which were not very active), including one company that ran a garage (9047­5922 Québec Inc.: hereinafter the “garage”).
+C. The audit
+[14] The audit of the Appellant took place following the audit of the garage and of Mr. Dubé. Mr. Dubé and his companies were audited, given the low net incomes they had reported. According to the income tax returns filed, the family income was $15,000 in 2009, $23,750 in 2010 and $23,183 in 2011, and all the companies were operating at a loss.
+[15] Mr. Aubin testified that he had first tried to use the net worth method. However, given the lack of cooperation from Mr. Dubé, who did not provide him with documents and a balance sheet, and given that some companies had varying amounts of activity, Mr. Aubin was unable to use the net worth method. Therefore, Mr. Aubin instead proceeded by analyzing bank deposits in order to conduct his audit. He identified unexplained deposits into the bank account of the garage, of Mr. Dubé and of Ms. Sanschagrin.
+[16] The audit of the garage resulted in a reassessment under which an amount of approximately $1.5 million was added to the incomes of Mr. Dubé and the garage for the years 2008 (Mr. Dubé only), 2009, 2010 and 2011. Specifically, amounts of $467,438, $256,897 and $95,893 were added to Mr. Dubé’s income in 2009, 2010 and 2011 (January and February 2011 only) as unexplained deposits. This Court dismissed the appeals by Mr. Dubé and the garage further to a status hearing, during which the respondent brought a motion to dismiss the appeal, which the appellants did not challenge.
+[17] With respect to the Appellant, from 2006 to 2011 it was reporting either a minimal income or a net loss. For the taxation years ending February 28, 2010 and February 28, 2011, the Appellant reported sales of $35,305 and $29,825 respectively. However, the Appellant did not retain the appointment books, which would have made it possible to trace the sales.
+[18] Mr. Aubin therefore analyzed the deposits appearing in Ms. Sanschagrin’s bank account, which included unexplained deposits, and also analyzed the Appellant’s bank account.
+[19] The analysis of the Appellant’s bank account for the period from March 1, 2008 to December 31, 2011 merely shows deposits by debit card or by credit card, except i) a $200 deposit in July 2009 for the fiscal year ending February 28, 2010; ii) a $150 deposit in April 2010 for the fiscal year ending February 28, 2011, which had apparently been made in cash or by cheque; iii) a $2,130 deposit in March 2009, considered an advance from the director; and iv) a $3,151 deposit in April 2009, also considered an advance.
+[20] The analysis of Ms. Sanschagrin’s bank account identified a number of deposits the source of which could not be specified by Ms. Sanschagrin or by Mr. Szabo, the accountant. For the period from March 1, 2009 to February 28, 2010, unexplained deposits totalling $15,227, and for the period from March 1, 2010 to February 28, 2011, unexplained deposits totalling $18,115 were noted. The financial institution confirmed that stacks of bills had been deposited into the Appellant’s bank account.
+[21] In addition, according to Mr. Aubin, Ms. Sanschagrin had initially stated that the unexplained deposits came from Mr. Dubé and from the garage, and then she apparently told him that the money was from her mother. In this regard, Mr. Aubin was able to trace some funds from Ms. Sanschagrin’s mother, but those funds had been paid by cheque and, therefore, those deposits were not added to the unexplained deposits. Also, Mr. Szabo indicated in a letter to Mr. Aubin that the funds did not come from Ms. Sanschagrin’s mother, but rather from Mr. Dubé, who was giving the cash to Ms. Sanschagrin so that she could support herself; thus, no substantiating documentation was able to be provided to Mr. Aubin.
+[22] Mr. Aubin also tried to find a connection between the unexplained deposits into Ms. Sanschagrin’s account and the withdrawals from the garage’s bank account, but was unsuccessful.
+[23] During the audit, Mr. Szabo indicated to Mr. Aubin that the sales had been entered on the basis of deposits into the Appellant’s bank account and that he never saw any invoices.
+V. ANALYSIS
+A. The disputed amounts
+[24] The Act allows the Minister to use an alternative audit method (subsection 152(7)). In addition, subsection 230(1) provides that every person carrying on a business in Canada “shall keep records and books of accounts [...] in such form and containing such information as may be necessary to establish the amount of taxes payable under this Act [...]”.
+[25] In this case, I am of the opinion that the Minister was justified in using an alternative audit method to make the Appellant’s reassessments, given the lack of records and appointment books and given the abbreviated accounting done by the accountant, which cannot be relied upon. In fact, the accountant told the auditor that the accounting was done on the basis of bank statements, without consulting invoices or other relevant items.
+[26] Yet the method used, namely bank deposit analysis, is less reliable than the net worth method. However, in the context of this appeal, given the lack of cooperation from Mr. Dubé during the audit, I am of the opinion that the auditor had no choice but to proceed in that manner and that, under the circumstances, that method was properly used and yielded a reliable result.
+[27] Mr. Dubé, though, argued that the Minister had relied instead on assumptions and that the assessments should not stand. However, I am of the opinion that the evidence submitted at the hearing indicates, on a balance of probabilities, that the auditor did a thorough job and that the disputed amounts represent sales by the Appellant that must be added into the calculation of the Appellant’s income in accordance with subsection 9(1) for the years in question.
+[28] In Nichols v. The Queen, 2009 TCC 334, Miller J. summarized the factors that can be considered for assessing the evidence submitted in an appeal to this Court:
+[22] […] In considering the evidence adduced, I may believe all, some or none of the evidence of a witness or accept parts of a witness’ evidence and reject other parts.
+[23] In assessing credibility, I can consider inconsistencies or weaknesses in the evidence of witnesses, including internal inconsistencies (that is, whether the testimony changed while on the stand or from that given at discovery), prior inconsistent statements, and external inconsistencies (that is, whether the evidence of the witness is inconsistent with independent evidence which has been accepted by me). Second, I can assess the attitude and demeanour of the witness. Third, I can assess whether the witness has a motive to fabricate evidence or to mislead the court. Finally, I can consider the overall sense of the evidence That is, when common sense is applied to the testimony, does it suggest that the evidence is impossible or highly improbable.
+[29] During the hearing, Ms. Sanschagrin’s testimony was evasive. In cross­examination, Ms. Sanschagrin was unable to answer the question of how many transactions the Appellant made per week or per month; Ms. Sanschagrin testified that she could not remember. Also, she was unable to answer the question of how many transactions the Appellant made per week or per month in cash; Ms. Sanschagrin testified that she could not remember. However, during the audit, she had told the auditor that 100% of the sales were by debit card or credit card and that no one paid by cash. She did not remember the two cash transactions appearing in the Appellant’s bank account and made during the years in question, namely a $200 deposit in July 2009 and a $150 deposit in April 2010 (aside from the two deposits considered advances from the director). Since she was the person who made the deposits and looked after the day­to­day management of the company, it is highly unlikely that she would be unable to answer those questions. Those questions are essential to resolving the dispute, and the fact that Ms. Sanschagrin cannot remember such material facts and that her version of the facts given presented at the hearing differs from the one given to the auditor, leads me to conclude that Ms. Sanschagrin’s testimony is not reliable and not credible.
+[30] In addition, Ms. Sanschagrin testified that, in front of the door to the tanning salon, there was a sign stating that the company accepted payments by credit card or debit card only. In my opinion, this in no way demonstrates that no cash sales were made. Ms. Sanschagrin testified that the Appellant also sold inexpensive jewellery and tanning creaMs. I am of the opinion that it is highly unlikely that a service company, such as a tanning and aesthetics salon, would make only two sales where payment was by cash (or cheque) over such a period (aside from the two deposits considered to be advances from the director).
+[31] Ms. Sanschagrin’s testimony was also evasive with respect to the cash deposits into her bank account. During the audit, she said that the money came from the garage, from Mr. Dubé or from her mother; during her testimony before this Court, she said that the money came from her mother or from Mr. Dubé, who had loaned money to her. She also testified that she did not remember where the stacks of bills deposited into her bank account had come from because it was too long ago (for example, one deposit of three $100 bills, 57 $20 bills, one $50 bill, and one $10 bill, or one deposit of two $50 bills and 46 $20 bills: exhibit I­1, tab 35, pages 4 and 3).
+[32] The auditor also checked the explanations given by Ms. Sanschagrin regarding the cash transfer that had allegedly been made to her by the garage or Mr. Dubé, but he was unable to match the disbursements from the garage’s account with the unexplained deposits into Ms. Sanschagrin’s account. I also am of the opinion that it is highly unlikely that Mr. Dubé, with a reported net income of $14,431, $10,000 and $23,183 in 2009, 2010 and 2011 respectively, would have been able to lend Ms. Sanschagrin $15,227 and $18,115 in 2009, 2010 and 2011. Mr. Dubé’s testimony along the same lines as the one by Ms. Sanschagrin cannot be accepted either, for the same reasons.
+[33] In addition, the lack of substantiating documentation is also a factor that led me to conclude that the testimonies provided to the Court by Mr. Dubé and Ms. Sanschagrin regarding the source of the unexplained deposits cannot be accepted.
+B. Subsection 152(4)
+[34] Since the reassessments were made after the end of the normal reassessment period, the Respondent must prove that the Appellant made a misrepresentation attributable to neglect, carelessness or wilful default, or committed fraud, in filing its returns for the taxation years ending February 28, 2010 and February 28, 2011 (Minister of National Revenue v. Taylor, [1961] Ex. C.R. 318 at page 320, 1961 CarswellNat 299 at paragraph 4).
+[35] The Respondent discharges that burden if it is shown that income was not reported by the taxpayer and if no credible explanation is provided by the latter (Lacroix v. The Queen, 2008 FCA 241 at paragraph 32 [Lacroix]).
+[36] I am of the opinion that, on a balance of probabilities, the Respondent discharged its burden of demonstrating that the Appellant made a misrepresentation attributable to negligent or wilful default in filing its tax returns for the years in question. Examination of the evidence shows that not all of the Appellant’s sales were reported.
+[37] In this case, as indicated above, I found neither reliable nor credible the testimonies of Mr. Dubé and Ms. Sanschagrin that the unexplained deposits were amounts loaned by Mr. Dubé.
+[38] To reach that conclusion, I also considered the following factors: i) the disputed amounts represent 43% and 60%, respectively, of the income reported by the Appellant for the years in question, which is considerable; ii) the bookkeeping was flawed and the accounting was unreliable; and iii) Mr. Dubé is an experienced business man and should have known that the Appellant’s income was underestimated.
+C. Penalties provided for in subsection 163(2)
+[39] Subsection 163(2) imposes a penalty on any person who knowingly, or under circumstances amounting to gross negligence, makes or acquiesces in the making of a false statement or omission in a return, form, certificate, statement or answer.
+[40] The burden of establishing the facts justifying the assessment of the penalty is on the Minister, not the Appellant (subsection 163(3)).
+[41] According to the wording of subsection 163(2), there are two aspects that must be met in order for the penalty under that subsection to apply: (1) a mental aspect: "knowingly, or under circumstances amounting to gross negligence"; (2) a material aspect: “makes a false statement or omission”.
+[42] It was determined that the Appellant filed its income tax returns for the taxation years ending February 28, 2010 and February 28, 2011; thus, the material aspect exists in this case (D’Andrea v. The Queen, 2011 TCC 298, [2011] TCJ No. 243 (QL), at paragraph 35). But what about the mental aspect? Did the Appellant knowingly make a false statement or omission, or did it make a false statement or omission under circumstances amounting to gross negligence?
+[43] The concept of “gross negligence” was defined by Strayer J. in Venne v. The Queen, [1984] FCJ No. 314 (QL) (F.C.T.D. ) [Venne]:
+[… ] “Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. […]
+[Emphasis added]
+[44] In DeCosta v. The Queen, 2005 TCC 545, [2005] TCJ No. 396 (QL) (informal procedure), Chief Justice Bowman stated:
+[TRANSLATION]
+[11] To distinguish between “slight” neglect or negligence and “gross” negligence, a number of factors must be considered. One of those factors is, of course, the significance of the omission pertaining to reported income. There is also the taxpayer’s ability to discover the error, as well as the taxpayer’s education level and apparent intelligence. No factor predominates. Each must be assigned its proper weight in the context of all the evidence.
+[45] I am of the opinion that Mr. Dubé and Ms. Sanschagrin, in terms of compliance with the Act, exhibited carelessness equivalent to gross negligence, as described in Venne, supra. They exhibited a significant degree of negligence by not reporting all the income generated by the Appellant’s company.
+[46] Since the Court had determined that the argument that the disputed amounts are monies lent by Mr. Dubé to Ms. Sanschagrin cannot be accepted because their testimonies were unreliable and not credible, the only reasonable conclusion to be drawn is that the Appellant made a false statement or an omission under circumstances amounting to gross negligence (Lacroix, supra, at paragraphs 29 and 30).
+[47] In fact, the evidence shows that Ms. Sanschagrin looked after all the day­to­day tasks involved in running the Appellant’s company, made the bank deposits and kept the appointment book. As well, Mr. Dubé looked after signing the tax returns. The information given to the accountant, either by Ms. Sanschagrin or by Mr. Dubé, for preparing the accounting entries and tax returns was rather superficial because the accountant looked only at the bank statements, without ever checking the invoices. Mr. Dubé is a businessman with over 35 years of experience; Ms. Sanschagrin had been operating the tanning salon for over 20 years. Thus, even though Mr. Dubé and Ms. Sanschagrin do not appear to be familiar with the provisions in the tax legislation, I am of the opinion that they should have known that all income generated by the Appellant in the course of running its company was to be reported.
+[48] Lastly, as indicated above, the disputed amounts represent 43% and 60% respectively of the income reported by the Appellant for the years in question, which is significant.
+[49] Therefore, the penalties set out in subsection 163(2) are justified under the circumstances.
+VI. CONCLUSION
+[50] For all these reasons, the appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 17th day of January 2019.
+“Dominique Lafleur”
+Lafleur J.
+CITATION:
+2019 TCC 14
+COURT FILE NO.:
+2016­3142(IT)I
+STYLE OF CAUSE:
+9081­2769 QUÉBEC INC. V. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Quebec City, Quebec
+DATE OF HEARING:
+December 5, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Dominique Lafleur
+DATE OF JUDGMENT:
+January 17, 2019
+APPEARANCES:
+Appellant’s representative:
+Claude Dubé
+Counsel for the Respondent:
+Mr. Julien Dubé­Senécal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+[BLANK]
+Firm:
+[BLANK]
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

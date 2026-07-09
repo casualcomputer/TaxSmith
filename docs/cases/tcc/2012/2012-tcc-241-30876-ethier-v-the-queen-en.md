@@ -1,0 +1,182 @@
+---
+title: "Ethier v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30876/index.do"
+last_modified: "2012-07-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 241"
+citation2: ""
+neutral_citation: "2012 TCC 241"
+decision_date: "2012-07-11"
+language: "en"
+item_id: "30876"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7375
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:17:27.107000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "27d18873feff775c932eddc362ebbdff9729fd2836c3db8d2d3db5320ea24207"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ethier v. The Queen
+
+- Citation: 2012 TCC 241
+- Decision date: 2012-07-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7375, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ethier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-07-11
+Neutral citation
+2012 TCC 241
+File numbers
+2011-2547(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-2547(IT)I
+BETWEEN:
+DONNA ETHIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 29, 2012, at London, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Tamara Watters
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeals from the redeterminations dated April 20, 2011 for base taxation years 2007, 2008 and 2009 are allowed and the matter is referred back to the Minister of National Revenue for reconsideration and redeterminations on the basis that the appellant was an eligible individual for the child at the beginning of each month of each of the six-month period ending June 30, 2009, and of the twelve-month period ending June 30, 2010, for the purpose of determining the Canada Child Tax Benefit and that the child was a qualified dependant of the appellant in relation to the months mentioned above.
+Signed at Ottawa, Canada, this 11th day of July 2012.
+"Réal Favreau"
+Favreau J.
+Citation: 2012 TCC 241
+Date: 20120711
+Docket: 2011-2547(IT)I
+BETWEEN:
+DONNA ETHIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The appellant is appealing the redeterminations for the 2007, 2008 and 2009 base taxation years denying her the Canada Child Tax Benefit ("CCTB") she received for those periods.
+[2] By notices of redetermination dated April 20, 2011, the Minister of National Revenue (the "Minister") informed the appellant that she had been overpaid the CCTB in the amounts of $810.15 for the 2007 base taxation year (for the period from July 2008 to June 2009), $919.10 for the 2008 base taxation year (for the period from July 2009 to June 2010), and $256.86 for the 2009 base taxation year (for the period from July 2010 to June 2011). The CCTB had been paid to the appellant in respect of her son (the "child") who was born on October 1, 1995.
+[3] The appellant and the child's father divorced on October 10, 2005. Pursuant to the divorce judgment, the appellant was granted legal custody of the child and the child resided with the appellant. The child's father had access rights.
+[4] Sometime in 2009, the child began staying with his father in St-Thomas, Ontario, while continuing to live with his mother. The issue to be decided is the date on which the child began living with both his father and the appellant. The father of the child claimed that the child began living with him on a full-time basis from January 1, 2009, while the appellant claimed that the child lived with her on a full-time basis until at least October 15, 2009, and then began living with both his father and her after that date until June 2010.
+[5] The determination that the appellant was not entitled to the CCTB was made on the basis that the appellant was not the eligible individual to receive it under the Income Tax Act (the "Act") as she did not reside with the child and did not primarily fulfill the responsibility for the child's care and upbringing from January 2009 to March 2011 within the meaning of section 6302 of the Income Tax Regulations (the "Regulations").
+The Statutory Provisions
+[6] The term "eligible individual" is defined in section 122.6 of the Act as follows:
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+[. . . ]
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+[7] Paragraph (b) of section 122.6 was replaced by S.C. 2010, c. 25, subsection 24(2) applicable to overpayments that are deemed to arise after June 2011. The purpose of this amendment is to allow the CCTB payable in respect of a dependant to be shared on an equal basis between two eligible individuals where the two eligible individuals live separately, share custody of the dependant on an equal or near equal basis and both individuals are primarily responsible for the care of the dependant. This amendment has no application in this case.
+[8] The prescribed factors referred to in paragraph (h), to be considered in determining which parent meets the qualification in paragraph (b) are set out in Regulation 6302 as follows:
+For the purposes of paragraph (h) of the definition "eligible individual" in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[9] The facts set out in paragraph 3 above are not in dispute and it has been assumed by the Minister that the appellant primarily fulfilled the responsibilities for the child's care and upbringing until December 2008.
+The Appellant's Testimony
+[10] The appellant was, at the time of the hearing, the Chief Administrative Officer, Clerk of the Township of Southwold. She moved from Timmins to St‑Thomas in February 2008. Her two children moved with her. At the beginning, she rented a five bedroom duplex and, on September 27, 2008, she moved into her own house. It had three bedrooms upstairs with a finished bedroom in the basement.
+[11] The appellant's former spouse also moved to St-Thomas and found a part-time job at the St-Thomas Hospital. At the beginning, he stayed in the appellant's house and lived there for approximately four and half months from May to September 2008. In the meantime, he sold his house in Timmins and bought a house in St. Thomas, two kilometres away from the appellant’s house. He moved in his house in September 2008. It was an old two-storey house consisting of two bedrooms.
+[12] During a visit to the appellant's former spouse house, the appellant saw that her son did not have a bed there. To remediate the problem, in 2009, she bought a new bedroom set for her son and gave the old bedroom set to her former spouse in the spring of 2009 for her son’s use.
+[13] The appellant pointed out that, from January to October 2009, her son spent the majority of nights at her house and spent at least 85% of his time at her house. She explained that her former spouse was working nights and evenings and that she did not like the fact that her son was alone at his father’s house.
+[14] Up to October 15, 2009, everyday the appellant prepared her son's lunch and was responsible for the maintenance of a secure environment for him. She was driving him to school every morning until her son and daughter got their bus passes for 2009 and 2010.
+[15] The appellant declared her son as a dependant for insurance purposes and she was responsible for making transportation arrangements for her son's medical appointments at regular intervals (doctor, dentist, optometrist, etc.) even when her son was spending time at both parents' houses. Her former spouse did not have medical insurance and he was not licensed to drive a car in 2008 and 2009.
+[16] The appellant’s son played hockey four times a week during the 2009 season and he participated in three tournaments. The appellant alleged to have brought her son to his hockey games 90% of the time in 2009 but she recognized that the arena was within walking distance of her former spouse's house and that her son could occasionally get rides from other players’ parents and from her former spouse’s girlfriend, Lisa Sambell.
+[17] The appellant also referred to the fact that her son's Grade 9 Registration Form at Parkside Collegiate Institute for the 2009/2010 school year (Exhibit A-1, Tab 29) and the letter of October 27, 2011 from the school confirmed that her son resided at her place on October 1, 2009 (Exhibit A-1, Tab 22).
+[18] The appellant also produced as evidence a calendar for the months of March and April of 2010, showing the number of days her son stayed with her (14 days in March and 10 days in April) (Exhibit A-1, Tab 25). In June 2010, the appellant’s son moved with his father on a full-time basis. According to the appellant, this coincides with the time when the appellant and her former spouse made a verbal agreement by virtue of which the appellant would assume full responsibility for her daughter and the appellant’s former spouse would assume alone full responsibility for his son.
+[19] Before June 2010, the appellant’s former spouse made small contributions to his son's needs. Pursuant to the divorce arrangements, the appellant’s former spouse was to pay $610 per month for the support of their two children ($500 was paid to the appellant and $110 was put in an education fund). In May 2008, the appellant’s former spouse ceased to make the $500 monthly support payment and he ceased to make the contributions to the educational fund for his daughter when she reached 15 years old in June 2008
+[20] In support of her appeal, the appellant filed copies of the following documents:
+(a) two receipts: one from Sport Mart dated March 17, 2009 for the purchase of a jock short for her son, and another one dated July 26, 2009 for her son's swimming lessons from July 27 to August 7, 2009; (Exhibit A-1, Tab 23);
+(b) personal notes from March 7, 2009 to February 22, 2010 showing certain amounts of money spent by the appellant for her son and her daughter; (Exhibit A-1, Tab 24); and
+(c) two invoices from Dr. Candice Wakulich Family Dentistry dated January 25, 2011 and October 27, 2011 paid by her for her son’s dental treatment. (Exhibit A-1, Tab 26).
+The Testimony of the Appellant’s Former Spouse
+[21] Mr. Albert Ethier, the former spouse of the appellant also testified at the hearing and he reiterated the fact that his son moved into his house on January 4, 2009 and the house was empty. At the beginning, his son had no personal belongings. He gradually brought his clothes over time and he kept his hockey equipment at both places.
+[22] According to him, starting in January 2009, his son stayed the majority of each month with him. He estimated that his son stayed between 18 to 20 days in each of the months of January, February and March 2009 and about 25 to 26 days in April 2009 and after.
+[23] Mr. Ethier referred to the fact that he paid for his son's hockey registration for the 2009/2010 season. The $460 payment was made on May 27, 2009.
+[24] Mr. Ethier recognized that his son went to his sister and mother when he needed assistance with his homework and that he was fully responsible for his son’s expenses from October 2009.
+[25] To support his findings, Mr. Ethier filed:
+(a) a letter dated February 23, 2011 signed by Mr. Paul Sydor, Principal of the Parkside Collegiate Institute, who stated that, since January of 2009, the appellant’s son has spent the majority of his time living with his custodial father, Albert Ethier;
+(b) an undated handwritten note from the appellant’s son stating that he has been living with his father since January 2009; and
+(c) a letter dated February 23, 2011 signed by Wade W. Sarasin, a partner at the firm Siskinds LLP, where Mr. Ethier’s girlfriend worked, in which Mr. Sarasin said that he was advised, and verily believed it to be true, that the appellant’s son born on October 1, 1995, has resided with his father, Albert Ethier, since January 1, 2009 on a full time basis, at his residence, at 77 First Avenue, St. Thomas. He relied on the testimony of Ms. Lisa Sambell.
+The Testimony of Lisa Sambell
+[26] Ms. Lisa Sambell testified at the hearing. She is a law clerk at the firm Siskinds LLP. She became a friend of Mr. Ethier in July 2008 but she never lived with him. In 2009, they were seeing each other three to four times a week during evenings and weekends. She said that his son was always there when she was meeting his father at his house. She also said that Mr. Ethier had been taking good care of his son since January 2009 by preparing his meals for him and doing his laundry. Mr. Ethier was renting a lot of movies and went on camping trips with her and his son. She also mentioned that she drove Mr. Ethier’s son to his hockey games and that she attended most of the games. During cross-examination, she said that in 2009, her 16-year old son and her 12-year daughter were living in London, Ontario.
+Analysis
+[27] The issue in this case is to determine with which parent the child resided during the period from January 2009 to March 2011 and which parent primarily fulfilled the responsibility for the child’s care and upbringing from January 2009 to March 2011.
+[28] The appellant originally indicated in her reply to a letter dated February 10, 2011 from C. Moir, Benefit Programs, Individual and Benefit Services Division of the Canada Revenue Agency, that her son has lived with her all his life until approximately October 15, 2009, and that thereafter he stayed with his father most of the time.
+[29] The appellant filed a notice of objection on May 5, 2011 in which she stated that her son lived with her until October 15, 2009 and not until January 1, 2009, as alleged by the appellant’s former spouse.
+[30] The appellant submitted additional information on June 27, 2011 to further substantiate her claim that her son lived with her until at least October 15, 2009 and then began living with both his father and her after that date. The appellant maintained that position in her notice of appeal.
+[31] Considering the evidence submitted by both parties and the factors to be considered under Regulation 6302, I came to the conclusion that the appellant never gave up her responsibility as the primary caregiver to her son even when he lived under his father’s roof on a part-time basis.
+[32] The appellant had legal custody of her son and, up to June 2010, she continued to be responsible for his care and upbringing, including his medical care, education and recreational activities (hockey and swimming lessons).
+[33] The appellant provided the following documentary evidence to support her allegations:
+- the exchange of correspondence with the Thames Valley Transportation Services from October 2008 to October 2009 to obtain the bus passes for her two children;
+- the Grade 9 Registration Form for her son at the Parkside Collegiate Institute;
+- the letter from Ms. A. Morrison, Vice-Principal of the Parkside Collegiate Institute confirming that their school records showed that her son resided at her address on October 1, 2009;
+- the receipt from Sport Mart and the receipt for her son's swimming lessons, both dated in 2009;
+- her personal notes from March 7, 2009 to February 22, 2010 showing that she was still paying for the purchases of goods and services for her son and her calendar for the months of March and April 2010 showing the days her son stayed at her house; and
+- the two invoices for her son’s dental treatment dated in 2011.
+[34] On the other hand, the appellant’s former spouse provided very little evidence showing that he was the primary caregiver to his son when he lived under his roof. Only the receipt for hockey registration for the 2009/2010 season was submitted. The letter from Mr. Paul Sydor, Principal at the Parkside Collegiate Institute, has no value because he became Principal of the school only in September 2009 and he had no personal knowledge that the appellant's son has resided with his father from January 1, 2009. The letter from Mr. Sarasin has to be disregarded as he had no personal knowledge that the appellant’s son has, in fact, resided with his father since January 1, 2009. The undated handwritten note of the appellant’s son is also without value as he did not testify at the hearing and cannot be cross-examined by the appellant.
+[35] The testimony of Ms. Lisa Sambell also has little value as she was not permanently living with the appellant’s former spouse and could not confirm with certainty the number of days the appellant’s son stayed with his father in each month.
+[36] Accordingly, for the reasons set out above, the appeals are allowed on the basis that the appellant was the eligible individual for the child at the beginning of each month of each of the six-month period ending June 30, 2009, and of the twelve-month period ending June 30, 2010 for the purpose of determining the Canada Child Tax Benefit and that the child was a qualified dependant of the appellant in relation to the months mentioned above.
+Signed at Ottawa, Canada, this 11th day of July 2012.
+"Réal Favreau"
+Favreau J.
+CITATION: 2012 CCI 241
+COURT FILE NO.: 2011-2547(IT)I
+STYLE OF CAUSE: Donna Ethier and Her Majesty the Queen
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: February 29, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: July 11, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the:
+Tamara Watters
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,167 @@
+---
+title: "Abrahams c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/65103/index.do"
+last_modified: "2013-12-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 391"
+citation2: ""
+neutral_citation: "2013 CCI 391"
+decision_date: "2013-12-06"
+language: "fr"
+item_id: "65103"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5909
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:53:57.979000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4b50545c30c7c11ec80d7e2bb5375a246706b34550286c9abb1466c97ea94dfc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Abrahams c. La Reine
+
+- Citation: 2013 CCI 391
+- Decision date: 2013-12-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5909, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abrahams c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-12-06
+Référence neutre
+2013 CCI 391
+Numéro de dossier
+2012-3500(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-3500(IT)I
+ENTRE :
+KEITH ABRAHAMS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 13 novembre 2013 à
+Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Holly Popenia
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 de l’appelant est accueilli, sans frais, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que l’appelant a le droit de déclarer la somme de 17 891 $ à titre de déduction pour la résidence d’un membre du clergé; cependant, il n’a pas le droit de déduire des dépenses d’emploi d’un montant de 10 972,16 $.
+Le prétendu appel à l’encontre des cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2009 et 2011 de l’appelant est annulé.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 7e jour de janvier 2014.
+C. Laroche
+Référence : 2013 CCI 391
+Date : 20131206
+Dossier : 2012-3500(IT)I
+ENTRE :
+KEITH ABRAHAMS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] La question en litige dans le présent appel consiste à savoir si l’appelant a le droit de se prévaloir d’une déduction pour la résidence d’un membre du clergé dans son année d’imposition 2010.
+La question préliminaire
+[2] Dans son avis d’appel modifié, l’appelant a demandé que la Cour, si elle faisait droit à son appel relatif à son année d’imposition 2010, applique le même résultat à ses années d’imposition 2009 et 2011.
+[3] L’appel relatif aux années d’imposition 2009 et 2011 n’a pas été soumis en bonne et due forme à la Cour. D’après l’affidavit de May Yu, agente auprès de l’Agence du revenu du Canada, l’appelant n’a pas déposé un avis d’opposition à l’encontre de la nouvelle cotisation relative à son année d’imposition 2009 ou de la cotisation relative à son année d’imposition 2011. Il est une condition préalable qu’un contribuable doit déposer un avis d’opposition à l’encontre d’une cotisation avant de pouvoir interjeter appel à la Cour.
+[4] L’appel relatif aux années d’imposition 2009 et 2011 est annulé.
+L’historique de l’appel
+[5] L’appelant a été ordonné pasteur. En 2010, il avait la charge de la congrégation Harvest Church International (l’« Église »), à Abbotsford, en Colombie‑Britannique. Selon son témoignage, en 2008, l’Église se trouvait dans une situation financière difficile à cause de la récession, et il a proposé aux administrateurs de l’Église d’être employé contractuel auprès de cette dernière.
+[6] Quand l’appelant a produit sa déclaration de revenus pour 2010, il a indiqué qu’il avait gagné un revenu d’entreprise et il a réclamé une déduction pour résidence d’un membre du clergé d’un montant de 17 891 $ ainsi que de dépenses d’emploi d’un montant de 10 972,16 $. L’appelant a déposé son avis d’appel auprès de la Cour, en faisant valoir que, peu importe qu’il soit employé par un [traduction] « employeur externe ou par lui-même, la fonction admissible demeure la même ».
+[7] L’instruction de l’appel a été fixée au mois de mars 2013. À l’audience, l’appelant a fait savoir qu’il avait l’intention de déposer une déclaration de revenus modifiée pour 2010, dans laquelle il indiquerait que le revenu qu’il avait gagné était un revenu d’emploi, et non un revenu d’entreprise. On lui a suggéré de déposer un avis d’appel modifié plutôt que de modifier sa déclaration de revenus. L’appelant a suivi cette suggestion et a déposé un avis d’appel modifié.
+[8] Dans l’avis d’appel modifié, l’appelant a déclaré :
+a) que le revenu gagné en 2010 aurait dû être déclaré comme un revenu d’emploi;
+b) qu’en 2010, il existait un contrat d’emploi entre lui et l’Église et qu’il était employé comme ministre auprès de la congrégation de cette Église;
+c) qu’il satisfaisait aux critères de fonction et de statut qui sont énoncés à l’alinéa 8(1)c) de la Loi de l’impôt sur le revenu;
+d) que l’Église avait fort peu d’argent en 2010 et que sa rémunération lui avait été payée sans déduction; le fait d’avoir déclaré son revenu comme ayant été tiré d’une entreprise plutôt que d’un emploi était une erreur;
+e) il demande que son revenu soit considéré comme un revenu d’emploi;
+f) il demande de plus que la Cour fasse droit à la déduction au titre du RPC, d’un montant de 1 940,44 $, qu’il a indiquée à la ligne 222;
+g) il demande en outre que ses dépenses d’un montant de 10 972,16 $ soient déclarées à titre de dépenses d’emploi plutôt que de dépenses d’entreprise; il écrit qu’il a joint une copie du formulaire T2200, qui a été signé par l’administrateur de l’Église;
+h) il demande que l’on fasse droit à sa demande initiale de déduction pour résidence d’un membre du clergé, d’un montant de 17 891 $; il joint des photocopies de chèques oblitérés, qui prouvent le revenu qu’il a reçu de l’Église.
+L’appel
+[9] Le texte de l’alinéa 8(1)c) de la Loi de l’impôt sur le revenu (la « LIR ») est le suivant :
+(1) Éléments déductibles -- Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+c) lorsque le contribuable, au cours de l’année :
+(i) d’une part, est membre du clergé ou d’un ordre religieux ou est ministre régulier d’une confession religieuse,
+(ii) d’autre part :
+(A) soit dessert un diocèse, une paroisse ou une congrégation,
+(B) soit a la charge d’un diocèse, d’une paroisse ou d’une congrégation,
+(C) soit s’occupe exclusivement et à plein temps du service administratif, du fait de sa nomination par un ordre religieux ou une confession religieuse,
+le montant, n’excédant pas sa rémunération pour l’année provenant de sa charge ou de son emploi, égal :
+(iii) soit au total des montants, y compris les montants relatifs aux services publics, inclus dans le calcul de son revenu pour l’année en vertu de l’article 6 relativement à la résidence ou autre logement qu’il a occupé dans le cadre ou en raison de l’exercice de sa charge ou de son emploi, à titre de membre ou ministre qui ainsi dessert un diocèse, une paroisse ou une congrégation, a ainsi la charge d’un diocèse, d’une paroisse ou d’une congrégation ou est ainsi occupé à un service administratif,
+(iv) soit au loyer et aux services publics qu’il a payés pour son lieu principal de résidence (ou autre logement principal) qu’il a occupé habituellement au cours de l’année, ou à la juste valeur locative d’une telle résidence (ou autre logement) lui appartenant, ou appartenant à son époux ou conjoint de fait, jusqu’à concurrence du moins élevé des montants suivants :
+(A) le plus élevé des montants suivants :
+(I) le produit de la multiplication de 1 000 $ par le nombre de mois de l’année (jusqu’à concurrence de dix) au cours desquels il est une personne visée aux sous-alinéas (i) et (ii),
+(II) le tiers de sa rémunération pour l’année provenant de sa charge ou de son emploi,
+(B) l’excédent éventuel du montant visé à la subdivision (I) sur le montant visé à la subdivision (II) :
+(I) le loyer payé ou la juste valeur locative de la résidence ou du logement, y compris les services publics,
+(II) le total des montants représentant chacun un montant déduit, au titre de la même résidence ou du même logement, dans le calcul du revenu d’un particulier pour l’année provenant d’une charge, d’un emploi ou d’une entreprise (sauf un montant déduit par le contribuable en application du présent alinéa), dans la mesure où il est raisonnable de considérer que le montant se rapporte à tout ou partie de la période pour laquelle le contribuable a déduit un montant en application du présent alinéa;
+[10] À l’audience, l’appelant a déclaré qu’il répondait aux conditions énoncées à l’alinéa 8(1)c) de la LIR. Il a été ordonné pasteur; il a eu la charge d’une congrégation et il a occupé sa charge au cours de l’année 2010. Il satisfaisait donc à toutes les conditions énoncées à l’alinéa 8(1)c).
+[11] Il est incontesté que l’appelant satisfaisait aux conditions de statut et de fonction que spécifie l’alinéa 8(1)c). La seule question en litige dans le présent appel consiste à savoir si, en 2010, l’appelant a travaillé à son propre compte ou s’il a tiré son revenu « de sa charge ou de son emploi ». Il n’a le droit de réclamer la déduction prévue à l’alinéa 8(1)c) que s’il était un employé de l’Église en 2010.
+[12] L’appelant a présenté suffisamment d’éléments de preuve pour que je puisse conclure qu’il satisfaisait aux conditions énoncées à l’alinéa8(1)c) et il a droit à la déduction pour résidence d’un membre du clergé d’un montant de 17 891 $.
+[13] Bien que l’appelant ait affirmé qu’il ne déclarait plus la somme de 10 972,16 $ à titre de dépense d’emploi, son témoin, Gary Steeds, comptable, a insisté pour dire que l’appelant avait droit à la fois aux dépenses d’emploi et à la déduction pour résidence d’un membre du clergé.
+[14] L’appelant n’a produit aucun document montrant qu’il avait engagé des dépenses d’emploi ou qu’il était tenu par son employeur de payer des dépenses liées à son emploi. Je signale que, bien qu’il ait fait référence dans son avis d’appel modifié à un formulaire T2200 signé, ce document n’a été ni joint à son avis d’appel modifié ni produit en tant que pièce à l’audience. Je conclus que l’appelant n’a pas le droit de déduire des dépenses liées à son emploi, à part celles qui se rapportent à sa résidence.
+[15] Dans son avis d’appel modifié, l’appelant a demandé que la Cour fasse droit à la déduction au titre du RPC d’un montant de 1 940,44 $. Cette question n’a pas été soulevée à l’audition de l’appel.
+[16] L’appel est accueilli, et l’appelant a le droit de déclarer la somme de 17 891 $ à titre de déduction pour résidence d’un membre du clergé.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 7e jour de janvier 2014.
+C. Laroche
+RÉFÉRENCE : 2013 CCI 391
+No DU DOSSIER DE LA COUR : 2012-3500(IT)I
+INTITULÉ : KEITH ABRAHAMS ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 13 novembre 2013
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 6 décembre 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Holly Popenia
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

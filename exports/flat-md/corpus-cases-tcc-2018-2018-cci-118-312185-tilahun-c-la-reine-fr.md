@@ -1,0 +1,149 @@
+---
+title: "Tilahun c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/312185/index.do"
+last_modified: "2018-06-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 118"
+citation2: ""
+neutral_citation: "2018 CCI 118"
+decision_date: "2018-06-29"
+language: "fr"
+item_id: "312185"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5093
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:51:39.787000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9cab07eb4df2c04685851bc6d38e98d0ecd66e5c7927e95167b188b3018c7419"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tilahun c. La Reine
+
+- Citation: 2018 CCI 118
+- Decision date: 2018-06-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5093, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tilahun c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-06-29
+Référence neutre
+2018 CCI 118
+Numéro de dossier
+2016-3242(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-3242(IT)I
+ENTRE :
+NEBIYOU TILAHUN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 13 avril 2018, à Toronto (Ontario)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Représentant de l’appelant :
+Jagama Gobena
+Avocat de l’intimée :
+Me Derek Edwards
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie le 6 mars 2014 aux termes de la Loi de l’impôt sur le revenu (Canada) pour les années d’imposition 2010, 2011 et 2012 est accueilli sans dépens, et l’affaire est déférée au ministre du Revenu national aux fins de réexamen et de nouvelle cotisation pour le motif que les frais de téléphone cellulaire convenus ont été engagés dans le cadre de son emploi pour chacune des trois années d’imposition.
+Signé à Ottawa, Canada, ce 29e jour de juin 2018.
+« B. Russell »
+Le juge Russell
+Référence : 2018 CCI 118
+Date : 20180629
+Dossier : 2016-3242(IT)I
+ENTRE :
+NEBIYOU TILAHUN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+Introduction :
+[1] L’appelant, M. Tilahun, interjette appel (procédure informelle) des nouvelles cotisations du 6 mars 2014 établies aux termes de la Loi de l’impôt sur le revenu (Canada) (la « Loi ») à l’égard de ses années d’imposition 2010, 2011 et 2012. Plus précisément, il conteste les refus des dépenses de 15 132 $, 16 141 $ et 15 615 $ respectivement; afférents à son emploi pour ces trois années. Peu de temps après une pause suivant le début de l’audition, les parties ont informé la Cour que les questions en litige avaient été réduites comme suit :
+- Année d’imposition 2010 : des frais afférents à un véhicule à moteur de 11 000 $ et des frais afférents à un téléphone cellulaire de 1 160 $;
+- Année d’imposition 2011 : des frais afférents à un véhicule à moteur de 12 470,05 $ et des frais afférents à un téléphone cellulaire de 806,35 $;
+- Année d’imposition 2012 : des frais afférents à un véhicule à moteur de 12 002 $ et des frais afférents à un téléphone cellulaire de 1 177 $.
+[2] L’appelant était le seul témoin. Il a témoigné par l’entremise d’un interprète. La preuve présentée était qu’à tous les moments importants il avait travaillé pour une entreprise de construction faisant affaire sous le nom de Forma Con Construction, travaillant à Toronto et aux environs et se concentrant sur des travaux de construction comprenant du béton. On s’attendait à ce qu’il se rende sur les chantiers quotidiennement. Il habite à Toronto. Ses déplacements quotidiens au moyen d’un véhicule à moteur personnel au cours de cette période de trois ans, d’après les entrées quotidiennes figurant à ses trois registres annuels, comprenaient des déplacements fréquents pour aller à Hamilton et en revenir (consignés comme étant 167 km par jour), et pour aller à Aurora et en revenir (consignés comme étant 92 km par jour) et rarement pour aller à Whitby et en revenir (consignés comme étant 94 km par jour). Il y avait aussi, fort probablement, des destinations d’emploi moins fréquentes auxquelles il conduisait quotidiennement de Toronto et pour en revenir. En ce qui a trait à l’utilisation du téléphone cellulaire, l’appelant a estimé que 50 % de son utilisation totale était liée au travail; plus précisément pour son patron qui l’appelait pour l’informer des chantiers auxquels il devait se présenter et pour des questions liées au travail.
+[3] L’employeur de l’appelant a signé le formulaire 2200 de l’Agence du revenu du Canada (Agence) intitulé « Déclaration des conditions de travail » pour chacune des trois années en litige, déposé auprès de l’Agence. Chacun des formulaires déclarait qu’une « allocation fixe » pour véhicule à moteur (annotée par l’employeur comme étant « non imposable ») avait été versée à l’appelant pour 2010 (1 385 $), 2011 (3 550 $) et 2012 (3 810 $). Les différents montants avaient été calculés en fonction de la destination (faisant la distinction entre les destinations plus ou moins éloignées) plutôt que directement selon le kilométrage exact des déplacements. Chaque formulaire indiquait également que l’employé était tenu de payer les autres frais pour lesquels il n’avait pas reçu d’allocation ou de remboursement. Ces frais étaient énumérés dans les formulaires T2200 de 2010 et 2012 sous [traduction] « déplacement, repas, téléphone et fournitures », et dans le formulaire T2200 de 2011 uniquement sous [traduction] « déplacement ».
+[4] L’employeur, également dans chacun de ces trois formulaires, a indiqué que selon son contrat de travail, l’employé devait payer les dépenses qu’il avait engagées pour accomplir les tâches liées à son travail, même si l’employeur avait fourni une allocation ou un remboursement relativement à certaines ou à toutes ces dépenses. Enfin, la question de savoir si l’employé devait habituellement, dans l’exercice de ses fonctions, se rendre à des endroits qui n’étaient pas le lieu d’affaires de l’employeur ou se déplacer entre les différents sites de ses lieux d’affaires était cochée par l’employeur comme étant « oui ».
+[5] L’appelant a interjeté appel des nouvelles cotisations aux motifs qu’il devrait avoir la permission de déduire toutes les dépenses liées à son emploi, et ce, aux différents lieux de travail, et que le montant que son employeur lui verse comme allocation pour véhicule à moteur n’est pas raisonnablement suffisant. L’intimée s’y oppose.
+Analyse et décision :
+[6] Relativement à la demande de l’appelant du paiement des frais afférents à un véhicule à moteur liés à son travail en application de l’alinéa 8(1)h.1) de la Loi, il me semble que le déplacement en question ne soit pas un déplacement personnel, contrairement à ce que l’intimée prétend. Le déplacement n’est pas à destination d’un lieu d’affaires habituel, mais il est plutôt à destination de divers chantiers de l’entreprise de construction de l’employeur, situés dans un rayon assez large de Toronto. Il s’agit du même type de déplacement, c.-à-d. que l’employé est « habituellement tenu d’accomplir les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits », tel que le prévoient les sous-alinéas 8(1)h.1)(i) et (ii). L’alinéa 8(1)h.1) se lit comme suit :
+Frais afférents à un véhicule à moteur
+h.1) dans le cas où le contribuable, au cours de l’année
+i) a été habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits, et
+ii) a été tenu, aux termes de son contrat d’emploi, d’acquitter les frais afférents à un véhicule à moteur qu’il a engagés dans l’accomplissement des fonctions de sa charge ou de son emploi,
+les sommes qu’il a dépensées au cours de l’année au titre des frais afférents à un véhicule à moteur pour se déplacer dans l’exercice des fonctions de son emploi, sauf s’il a, selon le cas :
+(iii) reçu une allocation pour frais afférents à un véhicule à moteur qui, par l’effet de l’alinéa 6(1)b), n’est pas incluse dans le calcul de son revenu pour l’année,
+(iv) demandé une déduction pour l’année en application de l’alinéa f);
+[7] Ainsi, une allocation est-elle permise aux termes de l’alinéa 8(1)h.1)? La réponse est oui, à moins que les sous-alinéas (i) et (ii) ne s’appliquent. Le sous-alinéa (ii) ne s’appliquerait pas, d’après les faits. Est-ce que le sous-alinéa (i) s’applique? L’appelant a effectivement reçu une allocation (une « allocation fixe ») pour frais afférents à un véhicule à moteur (essence et entretien). Cette allocation, « par l’effet de l’alinéa 6(1)b), [n’était-elle] pas incluse dans le calcul d[u] revenu [de l’appelant] pour l’année »? L’alinéa 6(1)b) inclut dans le revenu les allocations personnelles et de subsistance, sauf celles énumérées à l’alinéa. Le sous-alinéa 6(1)b)(vii.1) fait partie de cette liste. Il englobe les « allocations raisonnables pour l’usage d’un véhicule à moteur qu’un employé [...] a reçues de son employeur pour voyager dans l’accomplissement des fonctions [...] de son emploi ». Toutefois, en l’espèce, l’allocation reçue était soi-disant une « allocation fixe », et non une allocation « raisonnable » conformément au sous-alinéa 6(1)b)(x) qui requiert que le calcul de l’allocation ne soit utilisé qu’en fonction du nombre de kilomètres parcourus dans l’accomplissement des fonctions de la charge ou de l’emploi. Par conséquent, l’allocation de l’appelant n’est pas une allocation relevant du sous-alinéa 6(1)b)(vii.1) et elle n’est pas exclue, selon l’alinéa 6(1)b), d’être incluse dans le calcul du revenu de l’appelant. Et par conséquent, le sous-alinéa 8(1)h.1)(i) ne s’applique pas, menant à la conclusion que l’appelant n’est pas en droit de recevoir toute déduction en application de l’alinéa 8(1)h.1) pour des frais afférents à un véhicule à moteur.
+[8] L’intimée a cité l’arrêt Hogg c. Canada, 2002 CAF 177 et Colavecchia c. La Reine, 2010 CCI 194 pour la proposition voulant que le déplacement en l’espèce ait été un déplacement personnel. À mon avis, cependant, lorsque l’appelant conduit de la maison à divers chantiers de construction et qu’il revient à la maison sans suggestions voulant que ces sites soient le lieu d’affaires de l’employeur ou un bureau local m’amène à préférer la décision de la Cour d’appel fédérale dans Dionne c. Canada, 2006 CAF 79, acceptant la décision Champaigne c. Canada, 2006 CCI 7 qui semble reconnaître certains déplacements semblables comme n’étant pas personnels. Aussi et dans tous les cas, le déplacement de l’appelant est conforme à la description notée ci-dessus à l’alinéa 8(1)h.1), c.-à-d., un déplacement où l’employé est « habituellement tenu d’accomplir les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits. » De cette formulation, on pourrait conclure que le législateur ne considère pas ce genre de déplacement comme un déplacement à des fins personnelles.
+[9] Par conséquent, les frais afférents à un véhicule à moteur demandés doivent être refusés. Ils seraient refusés de toute façon si et dans la mesure où ces déplacements entre la maison et les chantiers de construction étaient à des fins d’emploi.
+[10] En ce qui a trait aux frais de téléphone cellulaire, d’après la reconnaissance assez juste de l’avocat de l’intimée, en fonction du témoignage de l’appelant à l’audition, je suis prêt à permettre la moitié du montant convenu de la demande visant les frais de téléphone cellulaire pour les années 2010 et 2012. J’inclurai également l’année 2011 à cet égard. En tenant compte de l’intégralité des éléments de preuve, j’accepte que le manque de référence aux frais de téléphone cellulaire dans le formulaire T2200 de 2011, tout en étant inclus dans chacun des formulaires T2200 des années 2010 et 2012 de part et d’autre, n’était pas intentionnel. Lors de son témoignage, l’appelant n’a pas fait exception de 2011 dans sa description de l’utilisation du téléphone cellulaire à des fins d’emploi.
+[11] La concession de l’avocat de l’intimée n’incluait pas d’indication d’un fondement statutaire quelconque pour accueillir la demande. J’estime qu’elle pourrait répondre à l’alinéa 8(1)h) qui traite des frais de déplacement non afférents aux véhicules à moteur. Ces derniers comprennent principalement les frais d’hébergement et de repas, mais je ne vois pas qu’ils ne pourraient pas également comprendre l’usage d’un téléphone cellulaire dans le cadre d’un emploi. Le téléphone cellulaire est nécessaire pour communiquer lorsqu’un employé est en déplacement, c.-à-d. lorsqu’il est ailleurs qu’au lieu d’affaires de son employeur. En l’espèce, des appels téléphoniques à l’employeur et de sa part ont été effectués ou pris par l’appelant presque quotidiennement afin de l’informer du chantier où il devait se rendre ensuite dans le cadre des travaux de son emploi, et pour d’autres communications liées au travail.
+[12] Par conséquent, l’appel est accueilli, sans dépens, pour le réexamen et l’établissement d’une nouvelle cotisation par le ministre au motif que la moitié du total annuel des frais de téléphone cellulaire convenus et demandés par l’appelant pour chacune des trois années en litige a été engagée à des fins afférentes à son emploi.
+Signé à Ottawa, Canada, ce 29e jour de juin 2018.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2018CCI118
+NO DU DOSSIER DE LA COUR :
+2016-3242(IT)I
+INTITULÉ :
+NEBIYOU TILAHUN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 13 avril 2018
+MOTIFS DU JUGEMENT :
+L’honorable Juge B. Russel
+DATE DU JUGEMENT :
+Le 29 juin 2018
+COMPARUTIONS :
+Représentant de l’appelant :
+Jagama Gobena
+Avocat de l’intimée :
+Me Derek Edwards
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada

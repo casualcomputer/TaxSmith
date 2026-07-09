@@ -1,0 +1,234 @@
+Title: Myrdan Investments Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31075/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-35-31075-myrdan-investments-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-01-31
+
+# Myrdan Investments Inc. v. The Queen
+
+- Citation: 2013 TCC 35
+- Decision date: 2013-01-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4716, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Myrdan Investments Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-01-31
+Neutral citation
+2013 TCC 35
+File numbers
+2011-940(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-940(IT)G
+BETWEEN:
+MYRDAN INVESTMENTS INC.,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Daniel Halyk (2011-943(IT)G), on October 11, 2012, at Calgary, Alberta.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the appellant:
+Curtis R. Stewart
+Lisa Handfield
+Counsel for the respondent:
+Robert Neilson
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the taxation years ending October 31, 2006 and October 31, 2007 are allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+The parties will have until February 14, 2013 to arrive at an agreement on costs, failing which they are directed to file their submissions on costs no later than February 28, 2013. The respondent will have until March 29, 2013 to file reply submissions on costs. Such submissions are not to exceed five pages.
+The amended judgment and amended reasons for judgment are issued in substitution for the judgment and reasons for judgment dated January 31, 2013.
+Signed at Ottawa, Canada, this 13th day of February 2013.
+“Robert J. Hogan”
+Hogan J.
+Docket: 2011-943(IT)G
+BETWEEN:
+DANIEL HALYK,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Myrdan Investments Inc. (2011-940(IT)G), on October 11, 2012, at Calgary, Alberta.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the appellant:
+Curtis R. Stewart
+Lisa Handfield
+Counsel for the respondent:
+Robert Neilson
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the taxation years ending October 31, 2006 and October 31, 2007 are allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+The parties will have until February 14, 2013 to arrive at an agreement on costs, failing which they are directed to file their submissions on costs no later than February 28, 2013. The respondent will have until March 29, 2013 to file reply submissions on costs. Such submissions are not to exceed five pages.
+The amended judgment and amended reasons for judgment are issued in substitution for the judgment and reasons for judgment dated January 31, 2013.
+Signed at Ottawa, Canada, this 13th day of February 2013.
+“Robert J. Hogan”
+Hogan
+Citation: 2013 TCC 35
+Date: 20130131
+Docket: 2011-940(IT)G
+BETWEEN:
+MYRDAN INVESTMENTS INC.,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent,
+AND BETWEEN:
+Docket: 2011-943(IT)G
+DANIEL HALYK,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] These appeals from reassessments for the taxation years of Myrdan Investments Inc. (“Myrdan” or the “corporate appellant”) ending October 31, 2006 and October 31, 2007 and for the 2007 taxation year of Daniel Halyk (the “appellant” or “Mr. Halyk”) involve the question of whether a pickup truck is an “automobile” within the meaning of that term as defined in subsection 248(1) of the Canada Income Tax Act (the “ITA”) or whether the vehicle falls within the exceptions in subparagraphs (ii) and (iii) of paragraph (e) of that definition.
+1. Background
+[2] Mr. Halyk is the founder of the corporate appellant, Myrdan.
+[3] Mr. Halyk is also the founder of a public energy service company called Total Energy Services Inc. (“Total Energy”). During the taxation years under appeal, Mr. Halyk was the CEO of Total Energy.
+[4] Total Energy operates 30 to 35 branch locations throughout western Canada and the northwest U.S. Total Energy has three divisions: Chinook Drilling owns and operates approximately 15 drilling rigs; Bidell Compression operates a gas compression business; the third division is involved in rentals and transportation.
+[5] Myrdan is a Canadian-controlled private corporation incorporated under the laws of the province of Alberta. At all relevant times, Mr. Halyk was the 100% shareholder of Myrdan. Myrdan provides business consulting services, notably to Total Energy, and invests in a number of other businesses. For example, it has 100% ownership of Theo Halyk Company Limited (“Theo Halyk Company”), a corporation founded by the Halyk family. Myrdan is also a direct investor in a bio diesel operation, then called Milligan Bio-Tech Inc., in Foam Lake, Saskatchewan.
+[6] Trident Capital Partner (“Trident”) was formed with Myrdan as one of the limited partners. Trident is an investment business, investing mainly in energy businesses such as Synoil Energy Services and Phoenix Technology Services. It also owns a company called GBM Trailer Services, which repairs crude oil tanker trailers. Through Mr. Halyk’s introduction, Trident also became an investor in the bio diesel Milligan Bio-Tech Inc., operation in Foam Lake in which Myrdan held an interest.
+[7] Trident typically has four to six core portfolio investments at any time. Myrdan participates in the profits of Trident as a 50% limited partner in Trident, but also holds investments independently.
+[8] In order to fulfil his duties as CEO of Total Energy, Mr. Halyk was required to travel to a number of locations to perform business operations necessary for Total Energy. Total Energy entered into an agreement with Myrdan whereby Myrdan would receive management consulting fees and a monthly allowance for the operating expenses with respect to a vehicle that was suitable for Mr. Halyk’s purposes as CEO of Total Energy. The capital cost of the vehicle would be covered by Myrdan, and the expense involved in operating it for the purposes of Total Energy’s business would be covered by Total Energy.
+[9] In December of 2006, Myrdan purchased a 2007 GMC Sierra truck (the “truck”) for $69,055, including GST. The truck has seating for five people and a short bed. Upon purchasing the truck, the appellant traded in a vehicle of the same model as the truck for $31,395. The truck and the old truck were used by Mr. Halyk for the same purposes. It is the use of the truck that is in issue for both of the appellants in these appeals.
+[10] Myrdan’s original filing classified the truck as class 10 capital property. Myrdan had one other item of property in class 10, namely, the old truck, which was disposed of in 2007 as a trade-in for the truck. If the truck was also in class 10, the disposition of the old truck would not have given rise to recapture. However, since the Minister of National Revenue (the “Minister”) reassessed on the basis that the truck was class 10.1 capital property because it was an automobile and as a result, a passenger vehicle, the trade-in of the old truck gave rise to a reassessment of $13,048 in respect of recapture. Other consequences of the Minister’s reclassification of the truck were that a class 10 capital cost allowance (“CCA”) deduction of $10,834 was denied, and a class 10.1 CCA deduction of $4,500 was allowed instead.
+[11] The evidence shows that throughout the relevant period, Mr. Halyk used the truck to make a number of trips to business locations in his capacity as CEO of Total Energy. He also made a number of trips to businesses in which Myrdan and/or Trident had invested. Mr. Halyk estimates that he spent about 60% of his time on Total Energy business and 40% on Trident/Myrdan business.
+[12] The truck was also used for travel, including passenger transportation, related to the Alberta government’s Financial Investment and Planning Advisory Commission (“FIPAC”) during the relevant period. Mr. Halyk testified that his expense reimbursements and other payments (including an honorarium of approximately $2,000 for two years) received from the government in respect of his FIPAC work flowed through to Myrdan: Mr. Halyk was paid personally by the government, but he then turned over to Myrdan the amounts he received, including those for expenses for travel related to FIPAC.
+[13] The Minister assumed that Mr. Halyk did not own a vehicle for personal use. Mr. Halyk’s testimony was that he and his wife shared a vehicle for personal use, though the car was in his wife’s name. Mr. Halyk testified as well that there were a few times when he would use the truck for personal purposes, for example, dropping his children off at school on his way to work.
+[14] Mr. Halyk also said he drove directly from home, where all of Myrdan’s files were located, to the Total Energy office about three times a week. He agreed that the distance from his home to the Total Energy office was about 16 km, which represented a round trip of 32 km. The evidence shows that the appellant was in Calgary 45 weeks out of 52 to make the trips from his home to the Total Energy office, so that those trips total approximately 4,320 km in one year. Of the total of 28,456 km travelled in the truck in Myrdan’s 2007 taxation year, the 4,320 km of kilometres travelled between Mr. Halyk’s home and the Total Energy office would represent approximately 15%.
+[15] At all times, Mr. Halyk carried equipment, including personal protection equipment, in the truck for use on site visits and visits to remote northern locations. In addition to personal protection equipment such as steel-toed boots, fireproof coveralls, a hard hat, glasses and ear protection, he carried basic tools, extra winter clothing and an emergency kit. He also sometimes carried extra fuel on northern trips. He would also carry files and a laptop. Often he would transport passengers with him in the truck.
+[16] When travelling out of town for Myrdan, Trident or Total, Mr. Halyk attended managers’ meetings, performed due diligence, made acquisitions, held safety stand-down meetings, or dealt with business and financial matters relating to companies in which Myrdan and Trident were significant investors.
+[17] Using the vehicle log entered as Exhibit A-8, Mr. Halyk produced a summary of the remote locations he travelled to in Myrdan’s 2007 taxation year. He started with the trip log and confirmed travel to remote locations using his daytimer from the Total Energy office and his Microsoft Outlook calendar, and by speaking to people who had been his passengers on trips to remote locations. He had not been aware of the concept of remote locations for tax purposes prior to these proceedings. On the basis of the summary he constructed from existing records, he estimates that 55% to 65% of his kilometres travelled fall within the definition of travel to remote locations provided in subparagraph (e)(iii) of the definition of “automobile” in subsection 248(1) of the ITA. Mr. Halyk had a core group of passengers that would travel with him all the way from one location to a remote location, though some passengers might get on and off at intermediate stops.
+[18] The evidence shows that portfolio companies paid management fees to Trident which would cover the cost of having Mr. Halyk travel to perform business services for the portfolio companies. Indirectly, those management fees would flow through to Myrdan as a 50% limited partner of Trident.
+[19] The services provided by Mr. Halyk on any given trip were often performed for more than one entity. For example, Total Energy branches and portfolio companies of Myrdan and Trident might be visited on the same trip. Typically, Mr. Halyk would allocate the cost of a trip according to its primary purpose, but he would try on the way to do as much as possible for all the businesses he was involved in.
+[20] The appellants, on the issue of costs, introduced evidence that the Canada Revenue Agency (“CRA”) auditor did not review a box of documents prepared by the appellants and left at the office of Mr. Halyk and Myrdan’s accountant. The auditor issued a proposed reassessment and then the appellants were subsequently reassessed, all without the documents prepared by the appellants having been reviewed. The fact that the auditor did not review the documents made available by the appellants, including the agreement between Total Energy and Myrdan, is not relevant for the purpose of making a determination on the central issue in these appeals, namely, the use of the truck.
+2. Issues
+[21] The majority of issues identified in the pleadings have been resolved by Minutes of Settlement. The central issue remaining in these appeals is the use of the truck owned by Myrdan and operated by Mr. Halyk. An inquiry into the use of the truck will determine whether it is an “automobile” pursuant to the definition in subsection 248(1) of the ITA what method should be used to calculate the shareholder benefit to Mr. Halyk. If the truck was not an automobile, it was properly classified by the taxpayer as class 10 capital property. If the truck was an automobile, the Minister’s assessment on the basis that the truck was a “passenger vehicle” included in class 10.1 is correct. The definition of “passenger vehicle” includes an automobile. The appellant’s position is that the truck is not an automobile, since it falls within either or both of the following exclusions in subparagraphs (ii) and (iii) of paragraph (e) of the definition of “automobile”:
+(ii) . . . a . . . truck . . . the use of which . . . is all or substantially all for the transportation of goods, equipment or passengers in the course of gaining or producing income, or
+(iii) . . . a . . . truck . . . used . . . primarily used for the transportation of goods, equipment or passengers in the course of earning or producing income at one or more locations in Canada that are
+(B) at least 30 kilometres outside the nearest point on the boundary of the nearest urban area, as defined by the last census dictionary published by Statistics Canada before the year, that has a population of at least 40,000 individuals as determined in the last census published by Statistics Canada before the year.
+[22] The respondent’s position is that the truck meets the requirements for neither of the above exclusions.
+[23] In respect of Mr. Halyk’s appeal, the issue is whether he received a benefit taxable under subsection 15(1) of the ITA and, if so, what the value of that benefit was. If the truck was an automobile, the value of the shareholder benefit is calculated under subsection 6(2) of the ITA. If the truck was not an automobile, the value of the shareholder benefit must be determined by other means. In the reassessment for Mr. Halyk’s 2007 taxation year, the Minister assessed a shareholder benefit of $13,811 in respect of a passenger vehicle stand by charge and $3,872 in respect of passenger vehicle operating costs.
+[24] An ancillary issue was raised by the respondent as to the admissibility of a summary document prepared by Mr. Halyk. The objection was based on the fact that the summary document was not shown on the appellants’ list of documents.
+3. Law and Analysis
+3.1 Preliminary matter: admissibility of summary document
+[25] The document prepared by Mr. Halyk purports to be a summary of trips to remote locations already recorded in the trip log entered as Exhibit A-8. The respondent objects to its introduction on the basis that it was not mentioned in the list of documents and that it contains new information that was not recorded contemporaneously with the events in question. The information added pertains to the passengers carried on Mr. Halyk’s trips to remote locations.
+[26] The respondent relies on Walsh v. The Queen as authority for excluding the summary document, since in Walsh Justice Sheridan decided “[t]here was no justification to deviate from the general rule [section 89 of the Tax Court of Canada Rules (General Procedure)] of excluding from evidence documents not referred to in a party’s pleadings or list of documents.”[1] What that case indicates, however, is that there should be some reason provided for the Court’s exercising its discretion to allow a document in evidence where it has not been referred to in the pleadings or a list of documents. The appellant’s position is that there are reasons to exercise the discretion under section 89 of the Rules, since the Minister had access to the document long before the hearing. The contents of the summary document can also be verified by referring to the original trip log, which was made contemporaneously with the travel in question. The appellant relies on BG Excel Plumbing & Heating v. The Queen,[2] in which a similar after-the-fact reconstruction was admitted by the Court, since the reconstruction could be substantiated from pre-existing records and by third parties.
+[27] The Court has discretion under section 89 of the Rules to allow a document into evidence even if it does not meet the requirements set out in that section. Subsection 4(1) of the Rules, provides that the Rules are to be liberally construed to secure the just, most expeditious and least expensive determination of every proceeding on its merits. I note that the appellants provided their summary document to the Crown in December of 2011, 10 months before the hearing took place. The Crown was not taken by surprise with respect to this matter.
+3.2 Was the truck an automobile?
+3.2.1 Was the appellant transporting “goods” or “equipment” in the course of gaining, earning or producing income?
+[28] The respondent argues that Mr. Halyk’s transport of equipment in the truck does not meet either of the tests in subparagraphs (ii) and (iii) of paragraph (e) of the definition of “automobile” because the truck was not being used to transport equipment for the purpose of gaining, earning or producing income. The respondent relies on two informal procedure cases in which a taxpayer carried at all times in a pickup truck tools and other equipment in one instance,[3] and spare oil in the other.[4] In both of those cases, the Court held that the items in question were not transported for some purpose related to the production of income.
+[29] The evidence shows that Mr. Halyk did use the equipment in question here on safety stand-down tours, for example and was required to wear the safety equipment in order to have access to work sites, besides which he had to set an example for the staff in the various businesses Myrdan and Total had invested in. These instances of the use of safety equipment had a clear income-producing purpose. My finding on this point is consistent with the Court’s finding in Pronovost v. The Queen[5] (also an informal procedure case), where equipment such as tools and first aid kits was kept in a truck at all times but was still “transported” for the purposes of the exclusion in the definition of “automobile”.
+3.2.2. Can work for all the businesses visited by Mr. Halyk be counted as use in gaining, earning or producing income for Myrdan?
+[30] The appellant argues that, on account of the agreement between Myrdan and Total Energy that Myrdan provide a vehicle for Mr. Halyk to use in his role for Total Energy, use of the truck for both Myrdan’s purposes and Total Energy’s should be counted as use for income-earning purposes in the tests for determining whether to exclude the truck from the definition of automobile.
+[31] The respondent submits that the tests for determining use of a vehicle in producing income can only apply to income earned for the owner of the vehicle, i.e., Myrdan. Therefore, Mr. Halyk’s use of the truck in the other businesses owned by Myrdan and Total Energy should not count in applying the use tests in subparagraphs (ii) and (iii) where the connection to income earned by Myrdan is too remote.
+[32] With respect to visits to branches of Total Energy, the appellant referred to the service agreement between Myrdan and Total Energy to show that Myrdan gained income by charging Total Energy a fee for providing Mr. Halyk’s management services, including an amount for his use of the truck. Thus, work done at branches of Total Energy had a clear income-producing purpose for Myrdan. Furthermore, portfolio companies of Trident paid management fees to the partnership, which would flow back to Myrdan as 50% owner of Trident.
+[33] The respondent also contended that all the kilometres travelled for FIPAC should be excluded on the basis that such use of the truck was not for the purpose of gaining, earning or producing income. I agree that this travel does not meet the “primarily” test applicable with respect to remote locations, since it was travel between Calgary and Edmonton. However, the travel for FIPAC did include transporting passengers, and there was an income-earning purpose in the sense that work on a government committee could boost the profile of Mr. Halyk and, by extension Myrdan. Further, Myrdan itself was compensated (through Mr. Halyk) for the use of the truck on FIPAC trips.
+[34] The respondent relies on Lyncorp International Ltd. v. The Queen,[6] to exclude the kilometres travelled by Mr. Halyk to visit the Theo Halyk Company, a wholly owned subsidiary of Myrdan. In that case, Lyncorp, the appellant corporation was denied the deduction of expenses incurred by its owner for travel to businesses in which it had invested. Lyncorp paid the expenses for that individual’s travel to provide support services gratuitously to the businesses. The Court in Lyncorp held that the connection to Lyncorp’s income from business or property was too tenuous, since Lyncorp would only profit from these expenses by receiving future dividends from its investments in the business venture if they were profitable.
+[35] The position adopted by the respondent with respect to travel to and from the Theo Halyk Company, is at odds with the CRA’s position concerning the application of paragraph 20(1)(c), which set out the requirement to be satisfied with respect, to the deduction of interest on borrowed money. The provision provides that the borrowed money must be used for the purpose of earning income from a business or property in order for interest to be deductible. The CRA accepts that interest on borrowed money used to make an interest-free loan is nonetheless deductible in the following context:
+25. Interest expense on borrowed money used to make an interest-free loan is not generally deductible since the direct use is to acquire a property that cannot generate any income. However, where it can be shown that this direct use can nonetheless have an effect on the taxpayer’s income-earning capacity, the interest may be deductible. Such was the case in Canadian Helicopters where in the court found that there was a reasonable expectation on the part of the taxpayer of an income-earning capacity from the indirect use of the borrowed money directly used to make an interest-free loan. Generally, a deduction for interest would be allowed where borrowed money is used to make an interest-free loan to a wholly-owned corporation (or in cases of multiple shareholders, where shareholders make an interest-free loan in proportion to their shareholdings) and the proceeds have an effect on the corporation’s income-earning capacity, thereby increasing the potential dividends to be received. These comments are equally applicable to interest on borrowed money used to make a contribution of capital to a corporation of which the borrower is a shareholder (or to a partnership of which the borrower is a partner). A deduction for interest in other situations involving interest-free loans may also be warranted depending upon the particular facts of a given situation.[7]
+[Emphasis added.]
+It is reasonable to infer that the service provided by Mr. Halyk to the Theo Halyk Company enhanced that corporation’s ability to pay dividends to Myrdan. Moreover, Lyncorp is distinguishable on the basis that none of Lyncorp’s subsidiaries were wholly owned by it.
+[36] Mr. Halyk also testified that, on his December 29, 2006 trip to Theo Halyk Company’s business locations in Foam Lake, he also stopped in at Milligan Bio‑Tech.[8] Milligan was a portfolio company of both Myrdan and Trident. The evidence shows that Milligan paid management fees. Thus, the kilometres driven to Foam Lake, which may have included visits to the Theo Halyk Company, can reasonably be included in the “all or substantially all” and “used . . . primarily” tests in the exclusions from the definition of “automobile” in subsection 248(1).
+3.2.2. How many of the kilometres travelled by Mr. Halyk were personal?
+[37] The Minister is reassessing Mr. Halyk relied on the assumption that, in the 2007 calendar year, 17,599 km were driven in the course of Mr. Halyk’s personal use of the truck. No such assumed figure was provided with respect to the reassessment of Myrdan’s taxation year ending October 31, 2007.
+[38] On the basis of Mr. Halyk’s testimony, I conclude that personal use of the truck amounted to approximately 4,320 km in Myrdan’s taxation year ending October 31, 2007. This estimate is based on three trips from Mr. Halyk’s home to the Total Energy office, the distance involved being 16 km one way, which means three round trips of 32 km each, or 96 km per week. The evidence shows that Mr. Halyk was in Calgary 45 weeks out of 52 to make these trips from his home to the Total Energy office, so that the trips total approximately 4,320 km in one year. Out of the total of 28,456 km travelled in the truck in Myrdan’s 2007 taxation year, 4,320 km represents approximately 15% of the kilometres travelled between Mr. Halyk’s home and the Total Energy office.
+3.2.2 The “all or substantially all” test: use to transport goods, equipment or passengers in the course of gaining or producing income
+[39] In Pronovost, Associate Chief Judge Bowman (as he then was) pointed out:
+The 90% rule used by the CCRA has no statutory basis although it may be necessary that some sort of rigid criterion be applied administratively. That does not mean that the court must follow it . . . [9]
+[40] In 547931 Alberta, Judge Bowie adopted a similar view:
+. . . [i]f Parliament had intended that 90%, or any other fixed percentage, should govern, then it would have expressed that in the statute, rather than using what is obviously, as Judge Bowman put it in Ruhl v. Canada, an expression of some elasticity. . . [10]
+[41] In Ruhl v. Canada, Judge Bowman (as he then was) discussed the flexibility that the courts are entitled to show in interpreting terms such as “primarily” and “substantially all”:
+The terms “substantial” or “substantially all” are expressions of some elasticity. It has been said that they are an unsatisfactory medium for carrying the idea of some ascertainable proportion of the whole. They do not require a strictly proportional or quantitative determination.[11]
+[42] In light of the above, the appellants have demonstrated that they have satisfied the “all or substantially all” test in subparagraph (e)(ii) of the definition of “automobile” in subsection 248(1) of the ITA.
+3.2.5 The “used . . . primarily” test: use to transport goods, equipment or passengers in the course of earning or producing income in remote locations
+[43] The appellants have also demonstrated that the use of the truck brings it within subparagraph 248(1)(e)(iii) of the definition, which requires use primarily for income-earning or -producing purposes in remote locations. The respondent has argued that “primarily” represents a standard of at least 50%; however, this standard, like the “all or substantially all” standard, is flexible.
+[44] The appellant’s estimate, based on Mr. Halyk’s summary chart, is that 15,407 of the 28,456 km travelled in the truck were for trips to remote locations that meet the description in subparagraph (iii). Furthermore, Mr. Halyk’s oral testimony was that 55% to 65% of the kilometres travelled in the truck were to remote locations. Counsel for the respondent has pointed out that the trip log is not in itself sufficient to prove that the required standard has been met. While it is true that the contemporaneous log only records the number of kilometres on the truck’s odometer at any given fill-up point, it does specify remote destinations such as Foam Lake, Lloydminster and Estevan. This corroborates Mr. Halyk’s oral testimony.
+[45] The respondent says the 50% test is not met for remote locations if the metric is days spent travelling to remote locations, as opposed to kilometres driven. This observation is based on a comment in Pronovost pointing out that the Minister’s own 90% rule (for the “all or substantially all” test) does not specify a metric (e.g., kilometres or time) and that the application of such a “rigid criterion” has no statutory basis and is not binding on the Court.[12] The type of vehicle purchased (one that could travel off-road) and the equipment and materials transported in the truck (emergency equipment and spare fuel) suggest that it was intended for use, and actually used, for the chief purpose of travel to remote locations.
+[46] The respondent argues that the time spent or kilometres driven in travelling to Nisku should not count for the purpose of the remote location calculation, since Edmonton and Nisku are practically contiguous. Nisku is not 30 km away from Edmonton, which has a substantial population. Nisku does not meet the 30‑kilometre requirement in subparagraph (iii). However, I note that Mr. Halyk did not count travel to Nisku as a destination in his summary chart of travel to remote locations. It is only mentioned as a stopping point on the way to Foam Lake, so travel through Nisku should not reduce the number of kilometres travelled on trips to Foam Lake itself.
+[47] The respondent argues that, if an “urban area” (with a population of at least 40,000) is driven through on the way to a remote location, the kilometres between that urban location and another should be excluded in applying the test under subparagraph (iii). For example, there was a trip from March 16 to 21, 2007 that included Foam Lake, Weyburn, Lampman, and Regina. The respondent submits that any travel between Regina and another urban location (this could refer to any of Edmonton, Calgary or Saskatoon) should be eliminated from the “primarily” calculation.
+[48] Counsel for the appellants correctly pointed out that this interpretation is not supported by the wording of subparagraph (iii). If Mr. Halyk was travelling from Edmonton to Estevan on business, and he picked up or dropped off passengers in Regina along the way, that does not disqualify the kilometres travelled between Edmonton and Regina. Travel to the ultimate destination, Estevan, meets the definition in subparagraph (iii). Edmonton and Regina were merely stop overs on the way to remote locations where business was conducted.
+[49] The respondent has argues that two other trips in Mr. Halyk’s summary chart should be excluded from the subparagraph (iii) calculation, on the basis that no passengers or equipment were transported. Specifically, they are the trips to Rocky Mountain House from January 22 to 26, 2007 (410 km) and to Lloydminster and Estevan on September 5 to 10, 2007 (2,630 km). Indeed, no passengers are recorded on the summary chart. However, as discussed above, the evidence shows that Mr. Halyk was at all times transporting equipment for use in earning or producing income.
+4.1 Mr. Halyk’s benefit
+[50] Because the truck is not an automobile, the automobile benefit provisions in subsection 15(5), paragraph 6(1)(e), subsection 6(2) and paragraph 6(1)(k) of the ITA do not apply.
+[51] The respondent did not make any proposal with respect to how Mr. Halyk’s shareholder benefit should be calculated if, as I have concluded, the truck is not an automobile. The appellants’ position is that this Court should rely on the method described in McHugh (B.J.) v. Canada.[13] Where the personal use of property is incidental to the business purpose for which the property was acquired, McHugh suggests a valuation approach based on the “fair rental value” of the shareholder’s actual use of such property owned by the corporation.
+[52] McHugh does not mandate a method for determining the fair rental value of a vehicle that is based on actual use. In the absence of market information about the fair rental value of a truck such as the one used by the appellant, it appears reasonable to apply the statutory rate that is used to calculate the employee benefit for personal use of a passenger vehicle. Applying the 22-cent rate to 4,320 personal use kilometres, the shareholder benefit works out to $950.40.
+5. Conclusion
+[53] For the reasons noted above and taking into account the Minutes of Settlement entered into by the parties and filed at the hearing, the appeals are allowed and the reassessments are referred back to the Minister for reconsideration and reassessment on the basis that:
+Myrdan’s taxation year ending October 31, 2006
+a. Myrdan did not carry on a personal services business.
+b. The income earned by Myrdan in the course of providing services to Total Energy Services Inc. was income from an active business.
+c. Myrdan is entitled to additional advertising expenses of $4,097.
+d. Myrdan is entitled to additional insurance expenses of $746.
+e. Myrdan is entitled to additional repairs and maintenance expenses of $1,147.
+f. Myrdan is entitled to additional travel expenses of $3,217.
+g. Myrdan is not entitled to any additional expenses other than those noted above.
+Myrdan’s taxation year ending October 31, 2007
+1. Myrdan did not carry on a personal services business.
+2. The income earned by Myrdan in the course of providing services to Total Energy Services Inc. was income from an active business.
+3. Myrdan is entitled to additional advertising expenses of $4,676.
+4. Myrdan is entitled to additional insurance expenses of $1,044.
+5. Myrdan is entitled to additional repair and maintenance expenses of $1,406.
+6. Myrdan is entitled to additional travel expenses of $3,978.
+7. The assessed capital cost allowance (“CCA”) with respect of the Motor Home of $12,000 shall remain as assessed;
+8. Myrdan’s pickup truck is automotive equipment within class 10 of Schedule II to the Income Tax Regulations and is not a passenger vehicle within class 10.1.
+Mr. Halyk’s 2007 taxation year
+1. The assessed personal use benefit with respect to the Motor Home of $6,544 shall be removed from income.
+2. The assessed operating costs with respect to the Motor Home of $1,785 shall be removed from income.
+3. Mr. Halyk’s personal use of Myrdan’s (pickup truck) resulted in an aggregate taxable benefit of $950.54.
+Signed at Ottawa, Canada, this 31st day of January 2013.
+“Robert J. Hogan”
+Hogan J.
+CITATION: 2013 TCC 35
+COURT FILE NOS.: 2011-940(IT)G
+2011-943(IT)G
+STYLE OF CAUSE: MYRDAN INVESTMENTS INC. v. HER MAJESTY THE QUEEN and DANIEL HALYK v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: October 11, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: January 31, 2013
+DATE OF AMENDED February 13, 2013
+JUDGMENT:
+APPEARANCES:
+Counsel for the appellants:
+Curtis R. Stewart
+Lisa Handfield
+Counsel for the respondent:
+Robert Neilson
+COUNSEL OF RECORD:
+For the appellants:
+Name: Curtis R. Stewart
+Lisa Handfield
+Firm: Heddema & Partners LLP
+Calgary, Alberta
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Walsh v. The Queen, 2009 TCC 557, 2009 DTC 1372, at para. 25.
+[2] BG Excel Plumbing & Heating v. The Queen, 2006 TCC 252, [2006] G.S.T.C. 65 at para. 6.
+[3] Myshak v. Canada, [1997] G.S.T.C. 59, 5 G.T.C. 1147, in particular at paras. 13, 17 and 18.
+[4] 547931 Alberta Ltd. v. The Queen , 2003 TCC 170, [2003] G.S.T.C. 68, in particular at paras. 7, 13, and 15.
+[5] Pronovost v .The Queen., 2003 TCC 139, 2003 DTC 720 at paras. 6 and 21.
+[6] Lyncorp International Ltd. v. The Queen, 2010 TCC 532, 2010 DTC 1351; afd’ 2011 FCA 352, 2012 DTC 5032.
+[7] Interpretation Bulletin IT-533, Interest Deductibility and Related Issues.
+[8] Transcript page 81.
+[9] Pronovost, Supra (note 5) at para. 20.
+[10] 547931 Alberta Ltd., Supra (note 4) para. 7.
+[11] Ruhl v. Canada., [1998] G.S.T.C. 4 at p. 4-3.
+[12] Pronovost, Supra (note 5) at para. 20.
+[13] McHugh (B.J.) v. Canada, [1995] 1 C.T.C. 2652 at pp. 2665-66

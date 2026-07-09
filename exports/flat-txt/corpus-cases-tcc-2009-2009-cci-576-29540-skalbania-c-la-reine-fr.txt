@@ -1,0 +1,161 @@
+Title: Skalbania c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29540/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-576-29540-skalbania-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-11-05
+
+# Skalbania c. La Reine
+
+- Citation: 2009 CCI 576
+- Decision date: 2009-11-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6358, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Skalbania c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-11-05
+Référence neutre
+2009 CCI 576
+Numéro de dossier
+2002-557(IT)G
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-557(IT)G
+ENTRE :
+ELENI SKALBANIA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Détermination d’une question de droit, en application de l’alinéa 58(1)a)
+des Règles de la Cour canadienne de l’impôt (procédure générale),
+entendue le 26 octobre 2009 et motifs rendus à l’audience
+le 30 octobre 2009, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocat de l’appelante :
+Me David A.G. Birnie
+Avocat de l’intimée :
+Me Robert Carvalho
+____________________________________________________________________
+ORDONNANCE ET DÉTERMINATION D’UNE QUESTION DE DROIT
+Après avoir entendu les parties et examiné la jurisprudence fournie, la Cour se prononce de la façon suivante sur la question de droit qui lui a été soumise :
+1. Pour les motifs ci‑joints, la Cour estime que la nouvelle cotisation visée par le présent appel a été établie le 28 mai 2001, soit au cours de la période normale de nouvelle cotisation.
+EN CONSÉQUENCE, LA COUR ORDONNE CE QUI SUIT :
+2. L’appelante est tenue de poursuivre l’appel selon le processus habituel et en conformité avec les Règles de la Cour canadienne de l’impôt (procédure générale).
+3. Les parties doivent, dans les 60 jours suivant la date à laquelle je signerai la présente détermination et ordonnance, rendre compte par écrit à la Cour de l’état de l’appel et notamment des délais qu’elles auront fixés d’un commun accord, le cas échéant, et dans lesquels elles devront avoir terminé les interrogatoires préalables à l’audience et avoir exécuté leurs engagements.
+4. Les dépens suivront l’issue de l’instance.
+Signé à Ottawa, Canada, ce 5e jour de novembre 2009.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 3e jour de mars 2010.
+Christian Laroche, LL.B.
+Juriste-traducteur
+Référence : 2009 CCI 576
+Date : 20091105
+Dossier : 2002-557(IT)G
+ENTRE :
+ELENI SKALBANIA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE LA DÉTERMINATION D’UNE QUESTION DE DROIT
+Le juge Hershfield
+Le point en litige
+[1] L’appelante demande à la Cour de se prononcer sur une question de droit en application de l’alinéa 58(1)a) des Règles de la Cour canadienne de l’impôt (procédure générale).
+[2] La détermination demandée touche au fait que la nouvelle cotisation frappée d’appel a été établie après l’expiration de la période normale de nouvelle cotisation, parce que le ministre du Revenu national (le « ministre ») a omis de l’envoyer dans le délai applicable. Si la détermination demandée est prononcée, l’appel sera accueilli et jugement pourra être rendu en conséquence. Si la détermination demandée n’est pas prononcée, l’appel suivra son cours.
+[3] Comme un exposé conjoint des faits a été produit, on a rempli l’exigence voulant qu’aucun fait ne soit en litige pour que la disposition pertinente puisse s’appliquer[1]. En effet, les deux parties ont reconnu que toutes les exigences auxquelles est assujettie la détermination demandée ont été respectées. Je suis également convaincu de ce fait.
+[4] Pour pouvoir se prononcer sur la question de droit qui lui est soumise, la Cour doit, en définitive, se demander si le ministre a envoyé l’avis de nouvelle cotisation à la date alléguée par l’intimée. Ce jour‑là, soit le 28 mai 2001, était le dernier jour de la période normale de nouvelle cotisation prévue à l’alinéa 152(3.1)b) de la Loi de l’impôt sur le revenu (la « Loi »). Il s’agissait du dernier jour du délai de trois ans suivant le jour où l’avis de cotisation initial avait été mis à la poste, soit le 28 mai 1998.
+[5] Le pouvoir du ministre d’établir une nouvelle cotisation au cours de la période normale de nouvelle cotisation est prévu au paragraphe 152(4) de la Loi. Cette disposition permet au ministre d’« établir » une nouvelle cotisation dans le délai susmentionné. Comme il est signalé plus haut, la Cour, pour pouvoir trancher la question de savoir si le ministre a « établi » la nouvelle cotisation en cause le 28 mai 2001, doit, en définitive, se demander si l’avis de nouvelle cotisation en cause a été « envoyé » ce jour‑là comme l’affirme l’intimée.
+Les faits
+[6] Les parties s’entendent sur les faits suivants :
+- Le ministre a rédigé l’avis de nouvelle cotisation en cause (l’« avis »), lequel est daté du 28 mai 2001.
+- Le même jour, l’avis a été inséré dans une enveloppe adressée à l’appelante à la bonne adresse postale à Vancouver.
+- Le même jour, l’enveloppe renfermant l’avis a été confiée à la Société canadienne des postes à Winnipeg pour être envoyée sous pli recommandé à l’appelante à son adresse postale.
+- Un fonctionnaire de l’Agence du revenu du Canada a reconnu comme pièce jointe à l’affidavit, le récépissé de recommandation postale de l’enveloppe daté du 28 mai 2001.
+- L’enveloppe portait à titre d’adresse de l’expéditeur celle du ministre à Winnipeg.
+- L’enveloppe n’a jamais été livrée à l’appelante et la Société canadienne des postes n’a jamais obtenu la signature de l’appelante ou celle de son représentant relativement à l’enveloppe, à son contenu ou à sa livraison.
+- En date du 21 juin 2001, la Société canadienne des postes avait retourné l’enveloppe et son contenu au ministre à Winnipeg, comme en fait foi le terme [TRADUCTION] « Annulé » estampillé sur le récépissé de recommandation postale susmentionné. L’enveloppe a été retournée à son expéditeur conformément au Règlement sur les envois tombés en rebut et les envois réexpédiés.
+- Le 6 septembre 2001, le ministre a posté l’avis à l’entreprise de l’appelante. Il a été reçu par l’adjoint de l’appelante et livré à l’avocat de cette dernière.
+Le droit
+[7] Les parties acceptent que, selon les règles de droit établies en ce qui touche le processus de nouvelle cotisation, une nouvelle cotisation ne soit pas « établie » tant que le ministre n’a pas terminé le processus de nouvelle cotisation par l’envoi d’un avis de nouvelle cotisation au contribuable. Cet énoncé de droit se trouve dans la décision Jozo (Joe) Kovacevic v. The Queen, 2002 DTC 1986, au paragraphe 5. Il s’agit d’un énoncé de droit qui est en outre étayé par la loi. Le paragraphe 244(15) de la Loi prévoit que « [l]orsqu’un avis de cotisation ou de détermination a été envoyé par le ministre comme le prévoit la présente loi, la cotisation est réputée avoir été établie et le montant, déterminé à la date de mise à la poste de l’avis de cotisation ou de détermination ». [Non souligné dans l’original.] Suivant la définition du terme « cotisation » donnée à l’article 248 de la Loi, ce mot englobe une nouvelle cotisation, ce qui signifie que le processus de nouvelle cotisation comprend, à titre d’étape finale, l’envoi de la nouvelle cotisation. C’est à ce moment que la nouvelle cotisation est « établie » pour déterminer si une nouvelle cotisation est établie au cours de la période normale de nouvelle cotisation.
+[8] Cela n’est nullement contesté. La Cour, pour trancher la question qui lui a été soumise et qui consiste à savoir à quelle date la nouvelle cotisation a été « établie » en l’espèce, doit donc se demander si l’avis a été « envoyé » le 28 mai 2001, soit le dernier jour de la période normale de nouvelle cotisation.
+[9] Bref, l’appelante avance l’argument selon lequel le courrier recommandé est un processus distinct des autres méthodes d’envoi de courrier et qui n’est pas terminé lorsque l’envoi est retourné à l’expéditeur conformément au règlement de la Société canadienne des postes.
+[10] L’intimée s’appuie sur la présomption de preuve de « l’envoi par la poste » qui est énoncée en matière de courrier recommandé au paragraphe 244(5) de la Loi, de même que sur la jurisprudence étayant le point de vue selon lequel l’envoi d’un avis à un tiers, comme la Société canadienne des postes, met fin au processus d’« envoi » pour les besoins de la détermination de la question de savoir si la nouvelle cotisation a été établie ou non au cours de la période normale de nouvelle cotisation.
+[11] Je suis d’accord avec la thèse de l’intimée. Cependant, avant de terminer mes motifs à l’appui de cette conclusion, il est nécessaire d’examiner plus en détail les arguments de l’appelante, puisqu’ils ont été soigneusement élaborés et méritent d’être analysés. De plus, ils ne sont pas tout à fait dépourvus de fondement, comme le donne à penser au moins un des précédents invoqués par l’appelante, à savoir l’arrêt Grunwald c. Canada, 2005 CAF 421.
+La thèse de l’appelante
+[12] L’appelante soutient qu’un thème récurrent dans une grande partie de la jurisprudence relative à l’obligation du ministre de terminer le processus de nouvelle cotisation tient au fait que ce processus doit comporter comme étape finale l’envoi d’une communication réelle de la nouvelle cotisation.
+[13] La première décision invoquée est l’affaire Scott v. Canada (Minister of National Revenue - M.N.R.), 60 DTC 1273. Dans cette décision, le juge Thurlow signale à la page 11 qu’on ne peut présumer qu’il était de l’intention du législateur d’exiger qu’un avis requis puisse être donné par un envoi postal s’il ne pouvait être ainsi réellement donné, comme dans les cas où l’envoi postal est fait à une mauvaise adresse ou à une adresse fictive. Une telle mise à la poste ne pourrait être considérée comme un envoi.
+[14] En invoquant l’arrêt Herbert Flanagan v. The Queen and The Minister of National Revenue, 87 DTC 5390, on a fait valoir que la Cour d’appel fédérale devait avoir eu à l’esprit la livraison effective lorsqu’elle a conclu qu’une tentative avortée de remise en mains propres d’un avis par un employé du ministre signifiait que l’avis n’avait pas été envoyé ou expédié tel qu’il est exigé. Envoi et rétention n’étaient pas compatibles.
+[15] Dans l’arrêt Grunwald, le juge Rothstein, au nom de la Cour d’appel fédérale, a calculé la date d’expiration d’un délai de prescription en le faisant commencer à une date de signification à personne qui avait pris effet, par opposition à une date antérieure d’envoi par courrier recommandé, alors que la lettre recommandée n’avait pas été réclamée. L’inférence était qu’une lettre recommandée non réclamée, non livrée ou annulée ne constituait pas un « envoi » de l’avis.
+[16] L’avocat de l’appelante m’a également référé aux parties du jugement du juge Rothstein qui faisaient ressortir, par exemple au paragraphe 47, que la Loi était inconséquente quant à la procédure par laquelle le ministre devait communiquer avec un contribuable. Une telle obligation fondamentale devrait être claire et il était nécessaire que le législateur se penche sur la question. L’avocat de l’appelante laissait entendre que les incohérences devraient m’amener à conclure qu’il fallait favoriser une interprétation avantageant le contribuable.
+[17] Subsidiairement, l’avocat de l’appelante a fait valoir que, si je concluais que le libellé de la Loi est clair, il faudrait que je tienne compte d’une autre partie du jugement du juge Rothstein dans l’affaire Grunwald, au paragraphe 16, qui soulignait que, même une disposition avec un libellé clair ne devrait pas être appliquée lorsque cela aurait un résultat absurde. À la vue de l’objet des dispositions relatives aux avis qui exige une communication effective de la part du ministre à l’égard des contribuables, l’argument semble être que je devrais saisir l’occasion, en ce qui concerne le courrier recommandé, de reconnaître qu’une lettre recommandée annulée, étant une communication non effective, devrait être considérée comme n’ayant pas été envoyée. Cela éviterait l’application d’une interprétation draconienne qui impose une obligation pour un contribuable de répondre dans les délais prescrits, que celui‑ci ait ou non eu connaissance de la nouvelle cotisation.
+[18] L’avocat de l’appelante a aussi invoqué les dispositions de la Loi sur la Société canadienne des postes, lesquelles font référence au Règlement sur les droits postaux de services spéciaux, qui régit la livraison du courrier recommandé. Le paragraphe 6(1) de ce règlement prévoit la recommandation d’une lettre sur paiement du droit applicable et le paragraphe 6(8) prévoit que la signature du destinataire ou de son représentant doit être obtenue avant de livrer un envoi postal recommandé. Ces dispositions donnent à entendre que le fait de passer l’avis à la Société canadienne des postes, lequel avis peut être rendu au ministre, ne constituait pas une livraison parfaite de l’avis. Dans ces conditions, l’avis ne pourrait pas être considéré comme expédié dans un sens réel ou définitif.
+[19] Je ne crois pas qu’il soit nécessaire d’énumérer les arguments de l’avocat de l’appelante, puisque ma propre analyse examinera un grand nombre des mêmes points, mais je ferai référence à trois de ces arguments qui ont été abordés dans le cadre de la réplique de l’avocat de l’appelante.
+[20] Premièrement, comme je l’ai mentionné précédemment, l’intimée s’est appuyée sur la présomption contenue au paragraphe 244(5) de la Loi selon laquelle le certificat de recommandation d’une lettre recommandée doit être reçu comme preuve de l’« envoi ». Selon la réplique, il fallait remarquer que le paragraphe prévoit en réalité que le certificat de recommandation doit être reçu comme preuve, « sauf preuve contraire », de l’« envoi ». L’argument en réplique était que l’exposé conjoint des faits constitue une preuve contraire.
+[21] Deuxièmement, l’intimée s’est appuyée sur le paragraphe 244(15) de la Loi qui, comme je l’ai déjà mentionné, prévoit que, lorsqu’un avis de cotisation ou de nouvelle cotisation a été envoyé par le ministre comme le prévoit la Loi, la cotisation ou nouvelle cotisation est réputée avoir été établie à la date de mise à la poste de l’avis.[2] L’appelante fait remarquer que sa position est fondée sur l’argument que l’avis en question n’a pas été envoyé. Il s’agit de la détermination demandée; à savoir, si l’avis en question avait été envoyé le jour qu’il avait été recommandé au bureau de poste et laissé là en vue de sa livraison. Je conviens que le fait de se demander si le paragraphe 244(15) s’applique élude la question dont je suis saisi.
+[22] Troisièmement, l’intimée a invoqué la décision VIH Logging Ltd. c. Canada, 2004 DTC 2090; 2003 CCI 732, pour appuyer la proposition selon laquelle « envoyé » signifiait « expédié », comme l’a laissé entendre la Cour d’appel fédérale dans l’arrêt Flanagan. Dans la décision VIH Logging Ltd., la juge Woods a conclu que la remise par le ministre à un messager était une expédition suffisante de l’avis, en ce qu’il s’agissait d’une renonciation à la possession de l’avis. Le fait que le ministre ait eu le pouvoir de rappeler l’avis n’était pas pertinent. La renonciation à la possession en faveur d’un tiers suffisait. La juge Woods a observé que les précédents n’appuyaient pas l’idée selon laquelle la renonciation à la possession devait être accompagnée avec une renonciation à la possibilité de rappel. En réplique, l’appelante a fait remarquer que ces observations constituaient des remarques incidentes et qu’elles n’étaient pas convaincantes.
+Analyse
+[23] Pour commencer l’analyse, il faut revoir l’interprétation de l’objet de l’exigence incombant au ministre d’envoyer des avis du genre dont il est question dans la présente détermination.
+[24] Cet objet était bien décrit dans la décision Kovacevic. Au paragraphe 5, le juge Bonner a déclaré ce qui suit :
+Il est depuis longtemps reconnu en droit qu’une cotisation n’est établie que lorsque le ministre du Revenu national (le « ministre ») a complété le processus de cotisation en envoyant l’avis de cotisation au contribuable. […]
+[Renvoi omis.]
+[25] À mon avis, l’idée inhérente à cet énoncé, c’est que l’« envoi » d’avis par le ministre n’a pas grand‑chose à voir avec la communication de quelque chose à un contribuable. Il s’agit de déterminer à quel moment le ministre a terminé le processus de nouvelle cotisation. La date d’achèvement est la mesure quant à savoir si le ministre a pris trop de temps pour établir une nouvelle cotisation à l’égard d’un contribuable. Le ministre ne peut examiner, enquêter, proposer et réfléchir sur sa position relative à une nouvelle cotisation éternellement. Ce processus doit prendre fin à une certaine date limite et la façon de satisfaire cette exigence est de mettre la nouvelle cotisation par écrit et de la communiquer, à cette date au plus tard, compte tenu des limites et des remaniements de l’Agence. Selon moi, il est tout à fait clair que cette interprétation de l’exigence d’« envoyer » des avis est correcte.
+[26] Bien qu’ils aient été formulés avec beaucoup de soin, rien dans les arguments de l’appelante ne donne à penser qu’une conclusion différente soit justifiée, eu égard aux faits de la présente affaire concernant un avis envoyé par courrier recommandé. En effet, laisser entendre autre chose signifierait qu’un contribuable pourrait altérer la capacité du ministre d’établir de nouvelles cotisations au cours de la période normale de nouvelle cotisation en évitant de recevoir du courrier recommandé.
+[27] La position de l’appelante peut être mieux examinée en faisant référence séparément à chacun des aspects de l’argument avancé.
+[28] L’appelante ne peut invoquer la décision Scott pour appuyer la proposition selon laquelle un avis doit être communiqué à un contribuable pour qu’il s’agisse d’un envoi effectif. Des précédents plus récents sont tout à fait clairs à ce sujet. Par exemple, dans l’arrêt Schafer v. Canada, 2000 DTC 6542, la Cour d’appel fédérale a confirmé que la preuve de la défaillance du système postal qui a occasionné la non‑réception ne change pas la date de début d’un délai de prescription.
+[29] L’appelante ne peut pas invoquer l’arrêt Flanagan pour appuyer la proposition selon laquelle un avis doit être communiqué à un contribuable pour qu’il s’agisse d’un envoi effectif. Dans cette affaire, le défaut d’« envoyer » un avis découlait du fait que le ministre n’avait jamais fait en sorte que l’avis ne soit plus en possession des employés de l’Agence du revenu du Canada (l’« ARC »). Il ne s’agissait pas de la question de savoir si le contribuable avait reçu l’avis. Il s’agissait d’une conclusion selon laquelle un avis qui demeure en la possession de l’ARC ne peut être considéré comme ayant été envoyé. L’affaire renforce le point de vue selon lequel on estimera que le ministre a terminé le processus d’établissement d’une nouvelle cotisation que si l’avis est remis entre les mains d’un tiers dans le cadre d’un véritable processus de livraison. Il n’importe pas que ce processus puisse défaillir pour quelque raison que ce soit. Le fait que le ministre puisse reprendre possession de l’avis, que ce soit par effet de la loi (comme le courrier qui est retourné par Postes Canada, recommandé ou non) ou par application d’un contrat, tel que celui avec un messager tiers, n’est pas pertinent. Le processus est présumé être transparent. La reprise de possession ne peut vicier l’envoi initial.
+[30] Ce point ressort très clairement dans la décision VIH Logging Ltd. Les commentaires de la juge Woods, comme il a déjà été mentionné, peuvent très bien constituer des remarques incidentes, mais ils sont convaincants. Elle a conclu que, bien que le ministre ait eu un certain pouvoir de rappeler un messager, de façon à annuler la livraison d’un avis, il faut néanmoins considérer l’avis comme ayant été envoyé. Cette approche peut fort bien comporter des limites, mais en l’absence d’une preuve de mauvaise foi ou d’un autre motif semblable permettant de conclure que le ministre a conservé la possession et le contrôle de l’avis, cette approche tient compte, à mon avis, de la loi telle que le législateur souhaitait qu’elle soit appliquée.
+[31] Au paragraphe 13 de l’arrêt Grunwald, le juge Rothstein a mentionné sans équivoque qu’on ne devrait pas déduire de ses commentaires qu’il a tiré une conclusion sur l’efficacité de l’envoi d’un avis (par courrier recommandé dans cette affaire) qui avait par la suite été retourné en tant que non réclamé. Il a choisi d’éviter cette question en s’en remettant à un envoi ultérieur de l’avis. En l’espèce, considérer la date ultérieure prolongeait le délai pour présenter une opposition. Toutefois, même cette approche généreuse ne donne pas un résultat favorable à l’appelante. Ceci pare à la nécessité d’examiner la question de l’envoi antérieur de l’avis par courrier recommandé – la contribuable était hors délai, même en ne tenant pas compte de l’envoi antérieur, de sorte qu’il a été laissé de côté. On ne peut tirer l’inférence souhaitée par l’avocat de l’appelante.
+[32] De même, je ne peux pas souscrire à la proposition avancée par l’avocat de l’appelante, selon laquelle les incohérences dans le libellé de la Loi au sujet de la notification, comme cela a été souligné dans l’arrêt Grunwald, devraient m’amener à une interprétation moins draconienne des dispositions en cause, de façon à éviter l’absurdité consistant à exiger d’un contribuable qu’il agisse à partir d’une communication complètement inefficace d’une nouvelle cotisation de l’ARC.
+[33] En gardant à l’esprit que l’objectif de l’exigence de l’envoi n’a pas été jugé comme étant une communication au contribuable, on doit se demander comment l’absurdité relevée peut autrement être évitée. La réponse se trouve, du moins peut‑on le soutenir, dans le délai alloué à un contribuable pour répondre à l’avis. Ce délai (90 jours suivants l’envoi d’une cotisation, d’une nouvelle cotisation ou d’une confirmation) peut être prorogé d’une année complète sur demande au ministre, et ensuite à la Cour si le ministre n’accorde pas la prorogation. Voir les articles 166.1, 166.2 et 167 de la Loi. Le fondement permettant d’accorder des prorogations comprend l’examen de motifs justes et équitables. On peut soutenir que de telles prorogations résoudraient la plupart des cas de non-communication initiale. En réalité, cela résoudrait probablement tous les cas de non-communication initiale où l’ARC a connaissance d’un défaut de livraison et a, comme en l’espèce, procédé avec diligence, en faisant le suivi, avec une méthode de communication plus efficace. De fait, ce suivi, en l’espèce, a permis à l’appelante de se faire entendre par la Cour.
+[34] Ce modèle adopté par le législateur pour faire face aux communications inefficaces peut sembler draconien et susceptible d’avoir des conséquences sérieuses et injustes, mais c’est le choix du législateur de limiter la durée des litiges en matière de perception d’impôt.
+[35] À ce moment‑ci, je souligne aussi qu’il ne devrait pas faire de doute que, bien que la méthode d’envoi des avis ne soit pas prévue par la Loi, le courrier recommandé est un moyen acceptable pour l’« envoi » de courrier. En fait, on peut imaginer que cela pourrait être jugé préférable du point de vue de la preuve et plus éprouvé du point de vue de la livraison. Le paragraphe 244(5) prévoit quand même clairement qu’une lettre recommandée répondra à l’exigence d’envoi.
+[36] Il est vrai, cependant, que le certificat de recommandation dont il est question dans ce paragraphe ne constituera qu’une preuve de l’envoi en l’absence de preuve contraire. Bien que cela puisse très bien être interprété comme signifiant que la preuve d’un défaut de livraison de la lettre recommandée impose une conclusion selon laquelle il n’y a pas eu d’envoi, je n’interprète pas cela de cette façon. En l’espèce, on ne conteste pas la livraison à la contribuable, mais plutôt la livraison et la recommandation de l’avis à Postes Canada. Une preuve comme quoi l’enveloppe était vide ou contenait autre chose que l’avis réfuterait, par exemple, la preuve de l’envoi de l’avis.
+[37] Enfin, je souligne que les dispositions de la Loi sur la Société canadienne des postes et du Règlement sur les droits postaux de services spéciaux, qui régit la manutention du courrier recommandé, ne m’impressionnent pas comme ayant quelque incidence sur la question dont je suis saisi. Le mandat d’un tiers détenteur d’un avis dont il a été mis en possession par le ministre dans le véritable but de le livrer n’est pas pertinent quant à la question de savoir quand l’avis a été expédié. La seule expédition ou remise de l’avis est l’acte qui fait en sorte que la nouvelle cotisation soit établie.
+[38] Sur ce fondement, et pour tous les motifs susmentionnés, je conclus que la nouvelle cotisation en cause a été établie le 28 mai 2001 et l’a donc été pendant la période normale de nouvelle cotisation.
+[39] Aucune observation n’a été formulée à l’égard des dépens.
+[40] Par conséquent, l’appel de la nouvelle cotisation se poursuivra selon le processus habituel et les dépens suivront l’issue de l’instance.
+Signé à Ottawa, Canada, ce 5e jour de novembre 2009.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 3e jour de mars 2010.
+Christian Laroche, LL.B.
+Juriste-traducteur
+INTITULÉ : 2009 CCI 576
+No DU DOSSIER DE LA COUR : 2002-557(IT)G
+INTITULÉ : Eleni Skalbania et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Les 26 et 30 octobre 2009
+MOTIFS DU JUGEMENT : L’honorable juge J.E. Hershfield
+DATE DU JUGEMENT : Le 5 novembre 2009
+COMPARUTIONS :
+Avocat de l’appelante :
+Me David A.G. Birnie
+Avocat de l’intimée :
+Me Robert Carvalho
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : David A.G. Birnie
+Cabinet : Birnie & Company
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] McLarty c. Canada (Ministre de la Citoyenneté et de l’Immigration), 2002 CAF 206.
+[2] Voir le paragraphe 7 des présents motifs.

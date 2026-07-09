@@ -1,0 +1,165 @@
+---
+title: "Sheck c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/315544/index.do"
+last_modified: "2018-06-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 125"
+citation2: ""
+neutral_citation: "2018 CCI 125"
+decision_date: "2018-06-29"
+language: "fr"
+item_id: "315544"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4947
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:51:33.776000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3376aa273b12137b67ebd2bd1df298ccaa5ca6e4806003fb17536b5a855f8be5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sheck c. La Reine
+
+- Citation: 2018 CCI 125
+- Decision date: 2018-06-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4947, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sheck c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-06-29
+Référence neutre
+2018 CCI 125
+Numéro de dossier
+2017-3105(GST)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2017-3105(GST)I
+ENTRE :
+DAWN CHRISTINE SHECK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 15 février 2018, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Représentant de l’appelante :
+Ray Barnes
+Avocats de l’intimée :
+Me Jamie Hansen
+Me Patrick Cashman
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie le 9 septembre 2016 en application de la Loi sur la taxe d’accise (Canada) est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 29e jour de juin 2018.
+« B. Russell »
+Le juge Russell
+Référence : 2018 CCI 125
+Date : 20180629
+Dossier : 2017-3105(GST)I
+ENTRE :
+DAWN CHRISTINE SHECK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+[1] Sous le régime de la procédure informelle, l’appelante interjette appel de la cotisation du 9 septembre 2016 effectuée conformément au paragraphe 325(2) de la Loi sur la taxe d’accise (Canada) (la « Loi »). Cette cotisation de 17 500 $ vise un transfert de bien avec lien de dépendance (des fonds totalisant 17 500 $) effectué à son endroit par son mari, M. Sheck. Le ministre du Revenu national (le « ministre ») est d’avis qu’au moment du transfert, le mari de l’appelante était un débiteur fiscal au sens de la Loi pour une somme supérieure à 17 500 $ et que ledit transfert a eu lieu sans contrepartie.
+[2] Les paragraphes 325(1) et 325(2) de la Loi, qui traitent de ce type de transfert, prévoient ce qui suit :
+Transfert entre personnes ayant un lien de dépendance
+325(1) La personne qui transfère un bien, directement ou indirectement, par le biais d’une fiducie ou par tout autre moyen, à son époux ou conjoint de fait, ou à un particulier qui l’est devenu depuis, à un particulier de moins de 18 ans ou à une personne avec laquelle elle a un lien de dépendance, est solidairement tenue, avec le cessionnaire, de payer en application de la présente partie le moins élevé des montants suivants :
+a) le résultat du calcul suivant :
+A - B
+où :
+A représente l’excédent éventuel de la juste valeur marchande du bien au moment du transfert sur la juste valeur marchande, à ce moment, de la contrepartie payée par le cessionnaire pour le transfert du bien,
+B l’excédent éventuel du montant de la cotisation établie à l’égard du cessionnaire en application du paragraphe 160(2) de la Loi de l’impôt sur le revenu relativement au bien sur la somme payée par le cédant relativement à ce montant;
+b) le total des montants représentant chacun :
+(i) le montant dont le cédant est redevable en vertu de la présente partie pour sa période de déclaration qui comprend le moment du transfert ou pour ses périodes de déclaration antérieures,
+(ii) les intérêts ou les pénalités dont le cédant est redevable à ce moment.
+Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédant découlant d’une autre disposition de la présente partie.
+[3] Il n’est pas contesté que le transfert de fonds de 17 500 $ que l’appelante a reçu de son mari a eu lieu le 18 août 2008.
+[4] Les hypothèses non contestées soulevées dans la réponse et la preuve présentée lors de l’audience démontrent qu’en tout temps pertinent, M. Sheck était le seul administrateur et actionnaire d’une société faisant affaire sous le nom d’Absolutely Best Cleaning Services Ltd. (la « société »). En date du 22 janvier 2015, la société était endettée de 113 288 $ en taxes nettes non versées aux termes de la Loi, dont 24 019 $ en taxes nettes non versées, plus les pénalités et les intérêts, pour la période s’échelonnant du 31 octobre 2005 au 31 juillet 2008, tout juste avant le transfert susmentionné du 18 août 2008.
+[5] Le 6 février 2015, un certificat a été enregistré à la Cour fédérale pour la somme de 113 318 $ plus les pénalités et intérêts. Ce même jour, la Cour a rendu un bref de saisie-exécution des biens de la société afin de réaliser la somme certifiée. Le 13 janvier 2016, le bref a été renvoyé sans avoir été exécuté.
+[6] Le 25 février 2016, une cotisation a été établie à l’égard de M. Sheck (17 500 $), mari cédant de l’appelante, conformément au paragraphe 323(4) de la Loi (qui traite de la responsabilité des administrateurs) pour la dette encourue par la société aux termes de la partie IX de la Loi, qui s’élevait alors à 117 426 $.
+[7] L’appelante fait principalement valoir qu’elle n’est pas responsable de la cotisation pour le transfert du bien avec lien de dépendance puisqu’au moment du transfert (le 18 août 2008), son mari n’était pas responsable de la dette au sens de la partie IX de la Loi. Cet argument se fonde sur l’alinéa 323(2)a) et fait partie de l’article 323 traitant de la responsabilité des administrateurs. J’ai ici souligné les parties des paragraphes 323(1) et 323(2) de la Loi invoquées par l’appelante :
+Responsabilité des administrateurs
+323 (1) Les administrateurs d’une personne morale au moment où elle était tenue de verser, comme l’exigent les paragraphes 228(2) ou (2.3), un montant de taxe nette ou, comme l’exige l’article 230.1, un montant au titre d’un remboursement de taxe nette qui lui a été payé ou qui a été déduit d’une somme dont elle est redevable, sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférents.
+Restrictions
+(2) L’administrateur n’encourt de responsabilité selon le paragraphe (1) que si :
+a) un certificat précisant la somme pour laquelle la personne morale est responsable a été enregistré à la Cour fédérale en application de l’article 316 et il y a eu défaut d’exécution totale ou partielle à l’égard de cette somme;
+b) la personne morale a entrepris des procédures de liquidation ou de dissolution, ou elle a fait l’objet d’une dissolution, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant le premier en date du début des procédures et de la dissolution;
+c) la personne morale a fait une cession, ou une ordonnance de faillite a été rendue contre elle en application de la Loi sur la faillite et l’insolvabilité, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant la cession ou l’ordonnance.
+[8] Selon l’appelante, au moment du transfert le 18 août 2008, son mari le cédant n’était pas tenu de verser quelque somme que ce soit aux termes de la partie IX de la Loi. Elle allègue que, bien que le paragraphe 323(1) dispose qu’à titre d’administrateur de la société, son mari était solidairement responsable des taxes nettes non versées de la société, le paragraphe 323(2) prévoit que cette responsabilité ne naît qu’au moment où les alinéas a), b) ou c) s’appliquent. Selon l’appelante, le paragraphe 323(2) énonce clairement qu’un administrateur « n’encourt de responsabilité selon le paragraphe (1) que si » l’un des trois alinéas prévus par la Loi s’applique.
+[9] Toutefois, le seul alinéa qui s’est depuis réalisé est l’alinéa a), qui prévoit qu’un certificat précisant le montant dû doit être enregistré à la Cour fédérale, et l’émission et le défaut d’exécution d’un bref de saisie à l’égard de la société. La dernière de ces étapes a été effectuée le 13 janvier 2016, soit plus de sept ans après le transfert du 18 août 2008 en question. Selon l’appelante, c’est seulement après cette dernière étape que son mari cédant est devenu solidairement responsable de la dette de la société en application de l’alinéa 323(2)a) de la Loi, soit plus de sept ans après le transfert du 18 août 2008.
+[10] En l’espèce, le libellé de l’alinéa 323(2)a) dispose que l’administrateur « n’encourt de responsabilité selon le paragraphe (1) que si [...] ». Toutefois, lorsque ces conditions sont remplies, l’administrateur « encourt [une] responsabilité selon le paragraphe (1) ».
+[11] Mais quelle est cette responsabilité prévue par le paragraphe (1)? Selon le libellé de cet article, il s’agit de la responsabilité solidaire avec la société de « payer le montant ainsi que les intérêts et pénalités afférents ». Ce « montant » est constitué de tout montant de taxe nette dont la société est redevable aux termes de la Loi. Ainsi, selon le paragraphe (1), l’administrateur devient solidairement responsable de la dette au moment où la société fait défaut de verser le montant dû.
+[12] Par conséquent, dès que la condition prévue à l’alinéa 323(2)a) est remplie, le paragraphe (1) prévoit que l’administrateur devient solidairement responsable du défaut de la société de verser le montant dû. Comme il a été mentionné, en l’espèce, cette responsabilité est née avant le 18 août 2008.
+[13] Si le législateur avait souhaité qu’un administrateur soit tenu responsable seulement à partir de la date à laquelle le bref de saisie est renvoyé sans avoir été exécuté comme le soutient l’appelante, la Loi aurait simplement disposé qu’un administrateur devient solidairement responsable du défaut de payer de la société lorsqu’un bref de saisie est renvoyé sans avoir été exécuté et n’aurait pas commencé en disposant au paragraphe (1) que l’administrateur devient solidairement responsable de la dette de la société lorsque celle-ci fait défaut de la payer.
+[14] Je suis d’avis que cette interprétation est conforme à la jurisprudence de notre Cour, notamment les décisions Filippazzo c. La Reine, 2000 CarswellNat 1260, 2000 DTC 2326 (procédure générale) et Pliskow c. La Reine, 2013 CCI 283 (procédure informelle).
+[15] L’appelante affirme qu’une longue période s’est écoulée entre le transfert du 18 août 2008 en question et la cotisation du 9 septembre 2016. Cela a été un coup dur pour l’appelante. Toutefois, par l’application du paragraphe 325(2), la Loi permet au ministre d’établir « en tout temps » une cotisation à l’égard d’un débiteur fiscal ayant effectué un transfert sans contrepartie ou dont la contrepartie est insuffisante à une personne ayant un lien de dépendance. Le législateur considère qu’il s’agit d’une disposition appropriée qui facilite le recouvrement des taxes et qui bénéficie à l’ensemble des contribuables canadiens.
+[16] Je renvoie ici brièvement au sous-alinéa 325(1)b)(i) (ci-dessus), qui dispose que « le montant dont le cédant est redevable en vertu de la présente partie pour sa période de déclaration qui comprend le moment du transfert ou pour ses périodes de déclaration antérieures ». Cette disposition prévoit le total des montants dus par l’administrateur en calculant la somme découlant de la responsabilité soulevée par le paragraphe 325(1). Je souligne qu’en l’espèce, il n’y a pas eu de présomption ministérielle ou de preuve soutenant que M. Sheck, mari cédant de l’appelante, était une personne inscrite au sens de la Loi et qu’il aurait eu une « période de déclaration » particulière. Cette situation est résolue par le paragraphe 245(1) de la Loi, qui dispose que « la période de déclaration d’une personne qui n’est pas un inscrit correspond au mois civil ». J’ajouterais que si le mari cédant était un inscrit en date du 18 août 2008, date du transfert, le renvoi au paragraphe 245(1) ne serait pas nécessaire puisque son compte prévoirait déjà une « période de déclaration ».
+[17] L’appelante plaide également qu’une certaine somme a été payée en contrepartie du transfert de 17 500 $ en question sous la forme d’un prêt de 12 000 $ consenti par l’appelante à son mari afin de régler certaines dettes de son autre société, Nu-Energy Window Cleaning Co. Ltd. Toutefois, comme aucune entente de prêt écrite n’a été rédigée relativement à ce présumé prêt, il n’y a aucun élément de preuve documentaire étayant des obligations légales de remboursement. Les époux ont témoigné qu’ils s’attendaient à ce que ce prêt soit remboursé une fois que M. Sheck aurait reçu de l’argent provenant de la succession de son père.
+[18] Toutefois, en contre-interrogatoire, l’appelante a admis qu’elle n’a jamais déclaré dans sa correspondance avec les agents de l’Agence du revenu du Canada (ARC) concernant ce prêt qu’un contrat avait été conclu entre elle et son mari prévoyant les modalités de remboursement du 12 000 $. Elle a écrit à l’ARC il y a environ trois ans, ce qui est bien après le transfert de 17 500 $ qui lui a été fait le 18 août 2008, et a affirmé que [traduction] « [ce 12 000 $ ne lui a] jamais été remboursé ». L’appelante a également témoigné que, le 6 février 2018, son comptable a écrit à l’ARC pour les aviser que, en ce qui a trait au transfert du 18 août 2008, sa cliente [traduction] « ne savait pas pourquoi [son mari] lui avait transféré plus que ce qui était énoncé dans le testament [qui ne léguait rien à l’appelante] ». L’intimée fait valoir qu’il s’agit d’un indice démontrant que le transfert n’a pas été effectué dans le cadre d’un contrat légal puisque l’appelante admet ne pas en connaître la raison. Dans sa réponse, l’appelante admet que sa lettre était [traduction] « difficile à comprendre ».
+[19] À la lumière de ce qui précède, je ne peux conclure qu’il existait une obligation légale de rembourser la somme de 12 000 $, même s’il est tout à fait possible que le mari ait eu l’intention extrajudiciaire de rembourser cette somme dans la mesure du possible.
+[20] Je rejette donc les prétentions de l’appelante pour chacune des questions qu’elle a soulevées et débattues, et conclus que la cotisation pour laquelle elle a interjeté appel est valide. Par conséquent, l’appel est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 29e jour de juin 2018.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2018 CCI 125
+Nº DU DOSSIER DE LA COUR :
+2017-3105(GST)I
+INTITULÉ :
+DAWN CHRISTINE SHECK c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 15 février 2018
+MOTIFS DU JUGEMENT :
+L’honorable Juge B. Russel
+DATE DU JUGEMENT :
+Le 29 juin 2018
+COMPARUTIONS :
+Représentant de l’appelante :
+Ray Barnes
+Avocats de l’intimée :
+Me Jamie Hansen
+Me Patrick Cashman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

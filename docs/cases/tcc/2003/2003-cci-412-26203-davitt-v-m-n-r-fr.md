@@ -1,0 +1,163 @@
+---
+title: "Davitt v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26203/index.do"
+last_modified: "2003-06-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 412"
+citation2: ""
+neutral_citation: "2003 CCI 412"
+decision_date: "2003-06-18"
+language: "fr"
+item_id: "26203"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3934
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:03:49.571000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a07e61c60682ea0a1903292c2ffc3dbdd7b071d1f2382a2c2efbe67293888852"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Davitt v. M.N.R.
+
+- Citation: 2003 CCI 412
+- Decision date: 2003-06-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3934, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Davitt v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-18
+Référence neutre
+2003 CCI 412
+Numéro de dossier
+2002-2807(CPP)
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2002-2807(CPP)
+ENTRE :
+WILLIAM SHAWN DAVITT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 24 avril 2003 à Toronto (Ontario)
+Devant : L'honorable juge C. H. McArthur
+Comparutions
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Lesley King
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l'intimée visant à obtenir une ordonnance radiant l'Avis d'appel de l'appelant ou, subsidiairement, radiant les paragraphes 1 à 115 de l'Avis d'appel ou toute combinaison de ces paragraphes;
+ET APRÈS avoir lu les actes de procédure et autres documents déposés;
+APRÈS avoir entendu l'appelant et l'avocate de l'intimée;
+IL EST ORDONNÉ que l'appel de l'appelant soit radié dans son intégralité, les dépens étant adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 18e jour de juin 2003.
+« C. H. McArthur »
+J.C.C.I.
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Liette Girard, traductrice
+Référence : 2003CCI412
+Date : 20030618
+Dossier : 2002-2807(CPP)
+ENTRE :
+WILLIAM SHAWN DAVITT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Il s'agit d'une requête présentée par l'intimée visant à obtenir une ordonnance radiant l'Avis d'appel de l'appelant ou, subsidiairement, radiant les paragraphes 1 à 115 de l'Avis d'appel ou toute combinaison de ces paragraphes. La requête s'appuie sur les motifs suivants :
+[traduction]
+1. L'Avis d'appel ou des parties de l'Avis d'appel sont scandaleux, frivoles ou vexatoires ou constituent un recours abusif à la Cour, comme l'indiquent les alinéas 53b) et c) des Règles de la Cour canadienne de l'impôt (procédure générale);
+2. l'Avis d'appel ne révèle aucun moyen raisonnable d'appel, comme l'indique l'alinéa 58(1)b) des Règles de la Cour canadienne de l'impôt (procédure générale);
+3. la Cour canadienne de l'impôt n'a pas la compétence pour accorder le redressement demandé par l'appelant;
+4. l'article 12 des Règles de la Cour canadienne de l'impôt (procédure générale);
+5. l'article 12 de la Loi sur la Cour canadienne de l'impôt, L.R.C. 1985, ch. T-2, dans sa version modifiée, et le paragraphe 171(1) de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.);
+[2] L'article 58 des Règles de la Cour canadienne de l'impôt (procédure générale) établit les circonstances dans lesquelles les actes de procédure peuvent être radiés. Il est ainsi rédigé :
+58. (1) Une partie peut demander à la Cour,
+a) soit de se prononcer, avant l'audience, sur une question de droit soulevée dans une instance si la décision pourrait régler l'instance en totalité ou en partie, abréger substantiellement l'audience ou résulter en une économie substantielle des frais;
+b) soit de radier un acte de procédure au motif qu'il ne révèle aucun moyen raisonnable d'appel ou de contestation de l'appel,
+et la Cour peut rendre jugement en conséquence.
+[3] La requête en l'espèce est très semblable à celle entendue par le juge Bowman dans l'affaire William Shawn Davitt c. La Reine, C.C.I., no 2001-893(IT)G 31 mai 2004 (2001 DTC 702). Le premier appel portait sur la Loi de l'impôt sur le revenu et d'autres lois, alors que le présent appel vise le Régime de pensions du Canada (RPC) uniquement. La requête en radiation du premier Avis d'appel comprend, en grande partie, les mêmes observations que la présente requête. Le juge Bowman a accueilli la requête de l'intimée en radiant l'appel de l'appelant dans son intégralité. Les principaux arguments du premier Avis d'appel sont répétés dans l'Avis d'appel en l'espèce. Ils comprennent les suivants.
+Contestation fondée sur la Charte
+[4] L'appelant a invoqué certains faits au sujet du RPC dans les paragraphes 11 à 16 de l'Avis d'appel. Ces mêmes faits ont également été invoqués dans le premier Avis d'appel aux paragraphes 116 à 121. L'appelant fait une analyse fondée sur l'article 15 de la Charte des faits plaidés aux paragraphes 24 à 30 de l'Avis d'appel. L'analyse est la même que dans le premier Avis d'appel aux paragraphes 124 à 134, avec certaines précisions. L'argument plaidé portait essentiellement sur le point suivant :
+[traduction]
+24. L'appelant soutient que les taux de cotisation au RPC établis à l'article 11.1 de la Loi sur le RPC établissent une discrimination fondée sur l'âge en contravention du paragraphe 15(1) de la Charte en obligeant les jeunes Canadiens à effectuer des cotisations au RPC à des taux considérablement plus élevés que les Canadiens plus âgés, même si les jeunes Canadiens n'ont pas le droit de recevoir des prestations du RPC plus élevées. La politique de sous-financement éhontée du gouvernement à l'égard du RPC, conjointement aux taux de cotisation établis en vertu de l'article 11.1, font en sorte de transférer la richesse des jeunes Canadiens aux Canadiens plus âgés, ce qui entraîne un enrichissement injuste des Canadiens plus âgés au détriment des jeunes Canadiens.
+Les contrats conclus avec des mineurs sont nuls
+[5] L'appelant soutient aux paragraphes 35 à 38 de l'Avis d'appel que sa responsabilité à l'égard du RPC est nulle en raison de la règle voulant que les engagements de paiements avec les enfants sont nuls en common law. Le même argument a été présenté dans le premier Avis d'appel aux paragraphes 33 à 37, mais il portait sur les impôts à payer. L'argument plaidé portait essentiellement sur le point suivant :
+[traduction]
+38. Une partie importante de la responsabilité non financée à l'égard du RPC a augmenté avant que l'appelant ait atteint la majorité.
+Violation de l'obligation fiduciaire
+[6] L'appelant soutient aux paragraphes 39 à 42 de l'Avis d'appel que le gouvernement du Canada a violé son obligation fiduciaire à l'égard des enfants canadiens en les obligeant à financer des programmes d'aide pour leurs aînés. Le même argument a été présenté dans le premier Avis d'appel aux paragraphes 38 à 42, mais il portait sur les impôts à payer. L'argument plaidé portait essentiellement sur le point suivant :
+[traduction]
+42. La politique de sous-financement éhontée du gouvernement du Canada à l'égard du RPC et sa tentative subséquente de transférer cette responsabilité non capitalisée aux enfants canadiens constituent une violation de son obligation fiduciaire. Cette politique contrevient aux intérêts des enfants canadiens. Elle a pour effet de transférer le fardeau du financement du RPC des Canadiens plus âgés aux jeunes Canadiens, ce qui entraîne un enrichissement injuste des Canadiens plus âgés au détriment des jeunes Canadiens.
+Dettes odieuses
+[7] L'appelant soutient aux paragraphes 58 à 106 de l'Avis d'appel que les pratiques de déclaration du gouvernement du Canada sont insatisfaisantes et que pour cette raison il n'est pas responsable à l'égard du RPC. Le même argument a été présenté dans le premier Avis d'appel aux paragraphes 55 à 58, mais il portait sur les impôts à payer. L'argument plaidé portait essentiellement sur le point suivant :
+[traduction]
+58. Le paragraphe 15(1) de la Charte devrait être interprété conformément aux lois régissant les relations de mandataire et la doctrine des dettes odieuses. Ces règles visent à protéger les Canadiens, en particulier les jeunes Canadiens, de la responsabilité des dettes qui ne sont pas liées aux dépenses gouvernementales légitimes et qui ont été engagées par des gouvernements corrompus et oppressifs.
+Droits de l'enfant reconnus par l'ONU
+[8] L'appelant soutient aux paragraphes 107 à 110 de l'Avis d'appel que le RPC exploite les enfants en contravention de la Déclaration des droits de l'enfant de l'Organisation des Nations Unies. Le même argument a été présenté dans le premier Avis d'appel aux paragraphes 59 et 60, mais il portait sur les impôts à payer. L'argument plaidé portait essentiellement sur le point suivant :
+[traduction]
+107. La politique de sous-financement éhontée du gouvernement du Canada à l'égard du RPC et sa tentative subséquente de transférer le fardeau financier du RPC aux générations futures au moyen de l'article 11.1 de la Loi sur le RPC constitue une forme d'exploitation des enfants, en contravention de la Déclaration des droits de l'enfant de l'Organisation des Nations Unies. Les mesures de protection visées au paragraphe 15(1) de la Charte devraient être interprétés conformément à cette norme internationale.
+Nouvel argument - l'opération pyramidale du RPC
+[9] L'appelant a invoqué un argument dans le cadre de son appel qui n'était pas présent lors du premier appel. Les paragraphes 43 à 57 de l'Avis d'appel compare le RPC à l'alinéa 206(1)e) du Code criminel, opérations pyramidales. L'argument plaidé portait essentiellement sur le point suivant :
+[traduction]
+44. Le moyen de financement du RPC ressemble à une combine à la Ponzi ou à un système de ventes pyramidal. Le dictionnaire Webster's définit une combine à la Ponzi comme un système d'investissement frauduleux dans lequel les fonds versés par des investisseurs ultérieurs sont utilisés pour payer des sommes artificiellement élevées aux investisseurs originaux, attirant ainsi plus de fonds.
+[10] En plus de montants mineurs, l'appelant réclame des « dommages-intérêts punitifs de 11 000 000 $ » en vertu de l'article 24 de la Charte.
+Analyse
+[11] J'ai eu l'avantage de lire la décision du juge Bowman portant sur un appel interjeté par le même appelant qui avait employé les mêmes arguments. Je souscris à son analyse et à sa conclusion dans leur intégralité. L'appelant recourt abusivement à la Cour en présentant un appel semblable dans l'espoir qu'un autre juge acceptera ses arguments.
+[12] Dans sa réponse à la requête de l'intimée, l'appelant a déposé cinq recueils de jurisprudence et doctrine contenant plus de 1 000 pages. Je ne prétends pas avoir examiné à la loupe tous les arguments. La Cour ne possède pas la toute-puissance pour accomplir ce que l'appelant demande. Je ne saurais mieux exprimer mes pensées qu'en citant les passages suivants de la décision du juge Bowman portant sur la première requête dans l'affaire Davitt :
+[24] Cette cour n'est pas habilitée à accomplir ce que l'appelant lui demande. Notre rôle est d'entendre les appels interjetés à l'encontre de cotisations établies en vertu de certaines lois fédérales. En général, nous pouvons accueillir ou rejeter des appels, annuler ou modifier des cotisations ou déférer l'affaire au ministre du Revenu national pour nouvel examen et nouvelle cotisation. Comme tous les autres tribunaux, cette cour possède certains pouvoirs aux termes de la Charte canadienne des droits et libertés quand les droits et les libertés d'une personne prévus par la Charte sont enfreints, mais ces pouvoirs doivent être exercés à l'intérieur de la compétence que le législateur a conférée à la Cour, comme le précise l'affaire O'Neill Motors Limited c. La Reine, C.C.I., no 94-820(IT)G, 9 novembre 1995 (96 DTC 1486), confirmée par [1998] 4 C.F. 180 (98 DTC 6424) (C.A.F.).
+[25] Le résultat visé par l'appelant en l'espèce outrepasse les pouvoirs ou la compétence de la Cour. L'organe législatif du gouvernement est investi du pouvoir de modifier une loi du Parlement et non l'organe judiciaire.
+[...]
+[29] Il existe des procédures d'appel devant cette cour visant des décisions rendues ou des cotisations établies en vertu du RPC. Elles n'ont pas été suivies. Il y a des limites au genre de mesure de redressement que cette cour peut accorder dans le cadre de ces appels. La mesure de redressement demandée en l'espèce n'est pas du type que la Cour peut accorder. En outre, la modification des lois n'est pas une mesure de redressement que les tribunaux peuvent accorder en vertu de la Charte.
+[...]
+[37] Les positions avancées en ce qui concerne les prétendues prestations de la sécurité de la vieillesse « récupérées » ne sont pas moins dénuées de fondement que celles concernant l'assurance-emploi et le RPC. L'article 15 de la Charte ne peut pas être invoqué chaque fois qu'une personne n'aime pas une disposition de la Loi de l'impôt sur le revenu. Le fait que les prestations de programmes sociaux soient réparties de manière inégale ne justifie pas en soi l'octroi d'une mesure de redressement en vertu de la Charte. La modification d'une loi fiscale ou de toute autre loi afin de corriger une inégalité perçue ou imaginée n'est pas une action que la Charte habilite la Cour à accomplir. En fait, les arguments en l'espèce sont encore plus dénués de fondement que ceux concernant la Loi sur l'assurance-emploi et le RPC. L'appelant n'est pas à un âge où il peut recevoir des prestations de la sécurité de la vieillesse. Le fait qu'elles pourraient être « récupérées » d'ici 30 ans (en supposant que la loi demeure inchangée, ce qui constitue une hypothèse plutôt extravagante) ne constitue pas un fondement sur lequel une action de cette cour pourrait s'appuyer. La décision rendue par le juge Dickson dans l'arrêt Operation Dismantle (précité) aux pages 456 à 457 le démontre clairement.
+[...]
+[43] Il ne s'agit pas de quelque chose que cette cour peut accomplir. L'appelant pourrait envisager de parler avec son député.
+[...]
+[52] Les paragraphes 245 à 248 font valoir que la Cour ne devrait pas tenir compte des erreurs de procédure ou des omissions puisque le fait de radier un appel pour ces motifs contreviendrait à la Charte. L'affirmation que le respect d'exigences procédurales constitue une violation des droits d'une partie en vertu de la Charte est une proposition qui est à ce point dénuée de sens qu'il suffira de simplement l'énoncer pour que sa propre absurdité manifeste en entraîne le rejet.
+[53] En tout état de cause, je ne radie par [sic] le présent appel pour des motifs procéduraux. Je le fais parce qu'il est frivole, vexatoire et scandaleux et qu'il ne révèle aucune cause raisonnable d'action. Je n'avais pas vu depuis longtemps une telle quantité de propositions aussi singulièrement dénuées de fondement. On ne peut pas s'objecter au fait que des étudiants en droit débattent de notions imaginatives et vraiment exagérées dans une salle commune d'un collège. Il s'agit sans aucun doute d'une partie salutaire et nécessaire de leur formation. Toutefois, le fait de présenter ces questions devant les tribunaux constitue un gaspillage des fonds publics et du temps de la Cour.
+Ces commentaires s'appliquent également à la présente requête.
+[13] L'opération pyramidale (Ponzi) que l'appelant mentionne est nouvelle, mais elle n'est invoquée qu'afin de fournir un contexte permettant d'analyser l'article 15 de la Charte. Cela n'aide pas la position de l'appelant.
+[14] L'appelant semble avoir une fixation pour le RPC et d'autres lois fiscales canadiennes. Le redressement qu'il demande coûterait probablement des milliards de dollars au Trésor. La Cour n'est pas le lieu où traiter de ces bouleversements sociaux colossaux. Je crois que l'appelant ne peut obtenir une forme de redressement qu'auprès du Parlement fédéral.
+[15] Je presse l'appelant de cesser de débattre de ses réformes sociales devant la Cour canadienne de l'impôt. Ses efforts extraordinaires seraient mieux consacrés dans d'autres forums. Les ressources de la Cour seront dépensées à meilleur escient pour des appels bien fondés. La requête est accueillie et l'appel est radié dans son intégralité, les dépens étant adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 18e jour de juin 2003.
+« C. H. McArthur »
+J.C.C.I.
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Liette Girard, traductrice

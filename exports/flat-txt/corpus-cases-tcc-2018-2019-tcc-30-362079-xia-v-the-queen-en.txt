@@ -1,0 +1,103 @@
+Title: Xia v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/362079/index.do
+Corpus path: corpus/cases/tcc/2018/2019-tcc-30-362079-xia-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-11-23
+
+# Xia v. The Queen
+
+- Citation: 2019 TCC 30
+- Decision date: 2018-11-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4346, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Xia v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-11-23
+Neutral citation
+2019 TCC 30
+File numbers
+2017-3448(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2019 TCC 30
+Date: 20190126
+Docket: 2017-3448(IT)I
+BETWEEN:
+CHENG XIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Edited from the transcript of Reasons for Judgment delivered orally from the bench on November 23, 2018, in Vancouver, British Columbia.)
+Campbell J.
+[1] Thank you to both counsel and Mr. Xia for coming back in this morning. Let the transcript show that I am delivering reasons in the appeals of Mr. Xia, which I heard yesterday.
+[2] The Appellant, Mr. Xia, was employed as a slot attendant at the Gateway Casino, also known as the Grand Villa Casino, during the two taxation years under appeal, being 2011 and 2012. He has worked at this casino since 1999, first as a dealer and later transferring to the position of slot attendant in 2003.
+[3] Prior to his employment with the casino, Mr. Xia was a financial and an insurance advisor at Clarica, now Sun Life Financial, on a full-time basis between 1996 and 1999. He testified that he provided advice to clients on mutual and security funds and sold life insurance and health products. He stated in cross-examination that he had knowledge of the associated tax benefits and consequences of these products and how, for example, tax impacted life insurance proceeds differently than mutual funds. When he obtained employment with the casino, he continued to work as a financial advisor and insurance agent on a part-time basis until 2008.
+[4] Prior to coming to Canada in 1996, he studied at Emory University where he obtained a Master's degree in public health. He also has a Bachelor of Medicine from China.
+[5] As a slot attendant, Mr. Xia testified that his duties included servicing the machines, contacting the appropriate cash individuals when a patron won, showing people how to use the machines when necessary and generally maintaining a friendly, positive attitude in interacting with casino patrons.
+[6] Mr. Xia received wages from the casino in 2011 and 2012 of $27,011 and $29,327, respectively. These were the amounts that he reported as income in his returns for these taxation years. However, the Minister of National Revenue (the “Minister”) reassessed him to add unreported tip income of $23,937 and $39,219, respectively, in these taxation years, pursuant to subsection 5(1) of the Income Tax Act (the “Act”), on the assumption that these amounts were received from patrons by virtue of his employment as a slot attendant at the casino.
+[7] On some occasions, when patrons win a jackpot, they will give some of the winnings to a slot attendant, such as Mr. Xia. These amounts are pooled and distributed to the attendants by a “Slot Tip Committee” on the basis of certain criteria, such as the number of hours worked in a period. Two volunteers collected and tracked these amounts, as well as the eventual payouts to each of the 30 to 40 attendants employed at the casino. Mr. Xia has acted occasionally as one of those volunteers in the past.
+[8] On cross-examination, Respondent counsel introduced Exhibit R-1, a series of tip spreadsheets for the two taxation years under appeal. Mr. Xia testified that he had no reason and no evidence to dispute the correctness of those amounts recorded in these tip spreadsheets and stated that they were “Probably correct.” Respondent counsel took Mr. Xia through the tip amounts recorded in the weeks of October 2012, where they ranged between $977 and $798 weekly. Mr. Xia did not deny any of the calculations contained in these October amounts or the payments in the spreadsheets for other periods.
+[9] Mr. Xia attended himself to the completion and filing of his returns for these taxation years using a software program. He did not include the tip amounts in his income in either year because he theorized that the amounts he received were part of the source or category of jackpot winnings that casino patrons had won, which were tax free by law. He concluded that it would be incorrect to reclassify the amounts he received in his capacity as a slot attendant to be included as part of income in his returns. Basically, his argument is that these amounts remain part of the source, that is, the jackpot winnings, that are non-taxable gambling proceeds and are, therefore, not received by virtue of his employment.
+[10] So the issues in these appeals are twofold: (1) must Mr. Xia include these amounts in his income in the 2011 and 2012 taxation years because they are taxable amounts; and (2) whether the Minister was correct in assessing gross negligence penalties pursuant to subsection 163(2) of the Act.
+[11] In respect to the tip amounts which the Minister assessed, Mr. Xia, in cross-examination, did not dispute those amounts contained in the tip spreadsheets of Exhibit R-1. He produced eight receipts for amounts paid in 2012 for a total of $1,332 paid over 12 months or an average monthly payment of $166.50 and stated that these amounts represented 10 percent of his tip amounts in 2012. However, there was no other documentation to suggest that the spreadsheet amounts or the Minister's tip amounts included in the Appellant's income were incorrect and Mr. Xia, on several occasions, testified that he had no reason and no evidence to support alternate, more accurate amounts than those amounts calculated according to the spreadsheets contained in Exhibit R-1.
+[12] So are these amounts taxable or not? Subsection 5(1) of the Act provides the scope of what types of income are to be included in a taxpayer's yearly return. That provision states that a taxpayer's income from an office or employment is the salary, and the wages and “other remuneration, including gratuities.”
+[13] In addition, the opening words of paragraph 6(1)(a) state that “benefits of any kind whatsoever received or enjoyed by the taxpayer … in respect of, in the course of or by virtue of the taxpayer’s office or employment” are to be included in computing a taxpayer's income in a taxation year [Emphasis added]. The wording in those provisions is straightforward, but it is also very wide in its scope as to what constitutes income. In other words, it casts a very wide net and specifically includes gratuities received by a taxpayer.
+[14] The Appellant's argument is simply not tenable, not only in light of those provisions, but also with respect to existing jurisprudence. Although the Appellant argued that some of the case law could be distinguished because it dealt with casino dealers as opposed to slot attendants, the facts are analogous. It is the patrons of the casino who pay the amounts for various services provided either by a dealer or a slot attendant when winnings are involved. The fact that the tip amount is paid to a committee and pooled with other amounts paid to the attendants before distribution does not change the nature of the payment. It remains a gratuity for services provided by the slot attendant by virtue of his employment. Although Mr. Xia suggested that he never really provided services to patrons like a dealer might, the evidence suggests otherwise. He serviced the slot machines, assisted patrons in using them, assisted winners in collection of their winnings and provided these services in a friendly, helpful manner. These services are rendered in the course of his employment and the gratuities are received by virtue of that employment at the casino. To the casino patron who wins a jackpot, his or her winnings will not be taxable. However, when part of those winnings are paid over to an employee of a casino as a thank you or in appreciation of the services the patron receives, the nature of that amount changes from being non-taxable to a taxable amount in the hands of the employee. It is much the same as the server in a restaurant. If the casino winner uses some of the winnings to pay a gratuity to a server, then it will become a taxable gratuity in the hands of the restaurant server.
+[15] The Appellant's argument that the tip amount is similar to the payment of life insurance proceeds that might be gifted or shared with a friend or family member is simply incorrect and without any basis. It is not a gift. The amount is a tip or gratuity for the services rendered by a slot attendant employed at the casino.
+[16] Respondent counsel referred me to the case of The Queen v J.E. Cranswick, 82 DTC 6073, a 1982 Federal Court of Appeal decision which was later referred to and affirmed by the Federal Court of Appeal in Bellingham v The Queen, 50 DTC 6075. At page 6075 of Cranswick, the Court accepted the indicia applied by the lower court in the characterization of payments when computing income:
+(a) the Respondent had no enforceable claim to the payment;
+(b) There was no organized effort on the part of the Respondent to receive the payment;
+(c) The payment was not sought after or solicited by the Respondent in any manner;
+(d) The payment was not expected by the Respondent, either specifically or customarily;
+(e) The payment had no foreseeable element of recurrence;
+(f) The payor was not a customary source of income to the Respondent;
+(g) The payment was not in consideration for or in recognition of property, services or anything else provided or to be provided by the Respondent; it was not earned by the Respondent, either as a result of any activity or pursuit of gain carried on by the Respondent or otherwise.
+[17] In applying those indicia to the amounts that Mr. Xia received as a slot attendant, it is clear that the payments were not one-time windfalls, but were received as a result of services he provided in carrying out his duties as an employee at Gateway Casino. Although he had no enforceable right vis-à-vis the patron who could choose freely to either leave a gratuity to a slot attendant or to not leave one, the Appellant did have an enforceable right to distribution of his share of the pooled tip amount held by the Slot Tip Committee. There was also an organized effort to collect, track and properly distribute these tip amounts to the slot attendants based on certain criteria. Although the tip amount depended on whether the patron won the jackpot and then decided to pay a gratuity, the evidence suggested that attendants could customarily expect to receive gratuities and these amounts constituted a large portion of their income in each year. Consequently, there was an expectation of recurring tip amounts from the class of winning patrons as a whole in consideration of the services provided to those casino patrons by the slot attendants.
+[18] The Appellant has not adduced evidence that could demolish the Minister's assumptions of fact in this regard. The gratuity amounts that he received as a slot attendant will be included, therefore, in income in each of the 2011 and 2012 taxation years.
+[19] I will turn now to the issue of imposition of gross negligence penalties in the amounts of $3,059.38 and $5,351.70 in the 2011 and 2012 taxation years respectively. The Minister has the onus of establishing the facts that support the imposition of gross negligence penalties in these appeals.
+[20] Respondent counsel referred me to the case of DeCosta v The Queen, 2005 TCC 545, 59 DTC 1436, where the then Chief Justice Bowman set out the factors that need to be considered when deciding whether evidence points to “ordinary negligence” of a taxpayer as opposed to “gross negligence.” These factors include the magnitude of the omission in relation to the income declared, the opportunity for detecting the error and the taxpayer's education and intellect. Depending on the circumstances in each appeal, different weight may be assigned to each of these factors.
+[21] Mr. Xia came across as a highly intelligent and well educated individual. He has several degrees from well-recognized educational institutions. He has a varied work experience, which included providing investment, tax and financial advice as an insurance agent and mutual funds agent. On cross-examination, he recognized that the status of payments had the potential of changing from non-taxable to taxable. He demonstrated basic information and knowledge respecting life insurance payouts to beneficiaries and that, going forward, the treatment of such amounts could potentially change. However, he made no effort to ascertain if his theory on the amounts received from the Slot Tip Committee had any basis for excluding those amounts from his income. He did not make inquiries from a CRA official, an accountant, a bookkeeper, or a lawyer. He simply adopted an interpretation that was most favourable to his circumstances. The unreported tips were very significant and material when compared to the income that he reported in these taxation years. Even if he was not completely convinced that he had to report these amounts in his returns, with his background and based on all the facts presented, at the very least he should have been alerted to that possibility and made some effort to ascertain the proper tax treatment of such large gratuity amounts. Instead, he displayed a dismissive and indifferent attitude toward the reporting of these tip amounts without regard to the potential consequences. Such behaviour goes beyond ordinary neglect or carelessness and lands the Appellant into the realm of gross negligence which justifies the imposition of these penalties.
+[22] For these reasons, the appeals for the 2011 and 2012 taxation years are dismissed without costs.
+Signed at Ottawa, Canada, this 26th day of January 2019.
+“Diane Campbell”
+Campbell J.
+CITATION:
+2019 TCC XXX
+COURT FILE NO.:
+2017-3448(IT)I
+STYLE OF CAUSE:
+CHENG XIA AND THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+November 22, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF ORAL JUDGMENT:
+November 23, 2018
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+K. Shortreed / S. Fenrich
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

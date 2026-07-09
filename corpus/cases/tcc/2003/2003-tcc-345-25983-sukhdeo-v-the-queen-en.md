@@ -1,0 +1,258 @@
+---
+title: "Sukhdeo v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25983/index.do"
+last_modified: "2003-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 345"
+citation2: ""
+neutral_citation: "2003 TCC 345"
+decision_date: "2003-05-20"
+language: "en"
+item_id: "25983"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3781
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:09:10.793000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "15a2e8ef2db04b482ecd93adc381b635b67d348a1738eae295e4ff6185eb3bf0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sukhdeo v. The Queen
+
+- Citation: 2003 TCC 345
+- Decision date: 2003-05-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3781, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sukhdeo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-20
+Neutral citation
+2003 TCC 345
+File numbers
+2002-2532(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2532(IT)I
+BETWEEN:
+LEKH C. SUKHDEO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 9, 2003, at Kelowna, British Columbia.
+Before: The Honourable Judge D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nadine Taylor Pickering
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1997, 1998 and 1999 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 20th day of May 2003.
+"D.W. Beaubier"
+J.T.C.C.
+Citation: 2003TCC345
+Date: 20030520
+Docket: 2002-2532(IT)I
+BETWEEN:
+LEKH C. SUKHDEO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+Beaubier, J.T.C.C.
+[1] These appeals pursuant to the Informal Procedure were heard at Kelowna, British Columbia, on May 9, 2003. The Appellant testified and called Gerda Kamarauskas to testify.
+[2] At the outset, counsel for the Appellant requested, and it was ordered that the Appellant's address for service be changed to:
+Pushor Mitchell
+3rd Floor
+1665 Ellis Street
+Kelowna, British Columbia
+V1Y 2B3
+Tel: (250) 869-1140
+Fax: (250) 762-9115
+Att: Jennifer R. Fairbrother
+[3] Paragraphs 4 to 12 of the Reply to the Notice of Appeal outline the matters in dispute. They read:
+4. In computing income for the 1997, 1998 and 1999 taxation years the Appellant:
+a) reported rental losses as follows:
+Gross
+Expenses
+Net loss
+1997
+$3,730
+$18,393
+$14,663
+1998
+$11,610
+$22,165
+$10,555
+1999
+$12,000
+$30,263
+$18,263
+the detailed calculations are shown in Schedules "A", "B", and "C", to this Reply;
+b) claimed employment expenses as follows
+1997
+$7,309
+1998
+$1,417; and
+c) in 1998 failed to report employment income of $27,720.
+5. The Minister of National Revenue (the "Minister") initially assessed the Appellant for the 1997, 1998 and 1999 years by Notices dated 17th June 1998, 10th June 1999, and 8th June 2000 respectively.
+6. In initially assessing the Appellant's 1999 taxation year the Minister disallowed the deduction of capital cost allowance of $12,608.20 reducing the rental loss to $5,665.25.
+7. By Notices dated 22nd May 2001 the Minister reassessed the Appellant to:
+a) reduce the rental losses to
+1997
+$3,653
+1998
+$nil
+1999
+$nil;
+b) disallow employment expenses of:
+1997
+$7,309
+1998
+$1,417; and
+c) include the unreported employment income of $27,720 in 1998.
+8. On 5th June 2001 the Appellant filed a Notice of Objection to the reassessments described in paragraph 7.
+9. By Notice dated 3rd April 2002 the Minister further reassessed the Appellant's 1997 and 1998 taxation years to allow tax credits for foreign taxes paid on employment income earned in the United States of America thus resolving the issue of the unreported income. By Notice dated 4th April 2002 the Minister confirmed the reassessment dated 22nd May 2001 for the 1999 taxation year.
+10. In so reassessing the Appellant, the Minister relied on the following assumptions:
+Rental losses
+Ontario
+a) in 1997 the Appellant owned real estate in Mallorytown, Ontario, ("Mallorytown");
+b) Mallorytown was rented for January 1997 at a rent of $650;
+c) the Appellant incurred expenses of $4,303.03 for Mallorytown;
+d) the Appellant's rental loss in 1997 from Mallorytown was $3,653.03;
+e) the Appellant sold Mallorytown in July 1997;
+British Columbia
+f) in July 1997 the Appellant purchased the Vernon Property;
+g) the Appellant purchased the Vernon Property to provide a home for himself and the Kamarauskas;
+h) in September 1997 the Appellant transferred life interests in the Vernon Property to the Kamarauskas;
+i) the life interests gave the Kamarauskas full right of beneficial ownership with the sole and exclusive right to occupy and enjoy the Vernon Property;
+j) the agreement granted the Kamarauskas life tenancy for and during the life of the survivor of the Kamarauskas;
+k) the Appellant's relationship with the Kamarauskas was not that of a landlord;
+l) the Kamarauskas were the Appellant's foster parents;
+m) the Appellant does not have a rental agreement with the Kamarauskas;
+n) the Appellant does not deal with the Kamarauskas at arm's length;
+o) the Vernon Property is the Appellant's home and the appellant maintains a room there for his use;
+p) the appellant returns to the Vernon Property for holidays;
+q) expenses paid for the Vernon Property were personal or living expenses of the Appellant;
+r) expenses paid for the Vernon Property were not incurred in order to earn income from a property;
+Employment expenses
+s) the Appellant was not required by the terms of his employment to work away from his employer's place of business; and
+t) the Appellant was not required by the terms of his employment to work in different places.
+B. ISSUES TO BE DECIDED
+11. The issues are whether:
+a) the Appellant is entitled to deduct expenditures related to the Vernon Property; and
+b) the Appellant incurred expenses in the course of earning employment income.
+C. STATUTORY PROVISIONS RELIED ON
+12. He relies on sections 3, 9 and 248, subsection 8(10), and paragraphs 18(1)(a) and 18(I)(h), of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the "Act"), Land title Act RSBC 1996, c250 and Property Law Act, RSBC 1996, c 377.
+[4] The evidence is that in these years, the Appellant worked in the following location on union assignments as a journeyman electrician.
+1997 -
+Jan 1 - Aug 22 Sault Ste. Marie, Ontario
+Remainder 1997 Butte, Montana
+1998 -
+Jan - April Lorrel, Quebec
+April - June
+Pembroke, Ontario
+Later Perth and Windsor, Ontario
+1999 -
+Not stated
+Presently Bruce Power Plant. He resides at Southhampton, Ontario.
+[5] The Appellant's claim for employment expenses is denied for the following reasons:
+1. He did not submit any acceptable form T2200.
+2. From his testimony the amounts claimed relate to his living expenses incurred at various locations where he worked as a journeyman electrician during these years.
+3. He did not produce any bills or receipts.
+4. They are not moving expenses.
+No evidence was lead by the Appellant respecting reply item 4 c), 1998 unreported income of $27,720. If that is appealed, the appeal is dismissed.
+[6] The remainder of these reasons deals with the Appellant's claim for rental losses. Respecting those assumptions, assumption 10 a) to f) were not refuted by the evidence. Respecting the remainder of the rental loss assumptions, the Court finds:
+g) The Appellant purchased the Vernon Property to rent a home to the Kamarauskas, to whom he had rented before and who he knew were good and caring tenants.
+h) i) j) In September 1997 both the Appellant and the Kamarauskas signed a life tenancy agreement respecting the property which granted the Kamarauskas a life tenancy to the property. This agreement constitutes a mistake in common in equity. Both witnesses testified that they thought that they were signing a lease for the life of the survivor of the Kamarauskas and the Kamarauskas were therefore tenants of the property for a rent of $880 per month and the cost of the utilities. The Court believes them.
+k) Their relationship was that of landlord and tenants.
+l) Is false.
+m) The parties do have a rental agreement.
+n) The Appellant purchased the property with a view to renting it, and paying the mortgage off, whereupon it could be rented profitability. He rented it to the Kamarauskas whom he knew would take care of the property. There is no evidence that the rent was not at market value at any time. The Kamarauskas have a son and a daughter and they are raising two granddaughters in Vernon. The Appellant likes Vernon and bought there in part because it has a warm climate.
+o) In the first years Vernon was not the Appellant's home. When he visited to inspect the property in 1997 he states that he was itinerant and had no home. He stays in the Kamarauskas' computer room in the basement when he visits Vernon. He is often without work. He stayed at the property for 2 or 3 months in 1998 and for 6 weeks in 1999. The Appellant now owns two vehicles in Vernon. One is a van which the Kamarauskas use. When it was purchased in 1998, the rent went up $100 per month. In 1999 the Appellant installed a hot tub and the rent went up to $1,050 per month.
+o) The Appellant does use the same computer room in the basement when he stays at the property, but it is not kept for his exclusive use.
+p) At present, it appears that the Appellant returns to Vernon for holidays and at those times he maintains and repairs the property.
+q) The Court finds that the expenses were not personal or living expenses of the Appellant.
+r) The expenses paid for the Vernon property were incurred to earn income from the property.
+[7] Where there is a mistake in common and particularly as here, where both parties honestly agree that the written document does not contain the true meaning of the contract which they entered into, then equity finds the agreement to be that which the parties intended.
+[8] In these circumstances, the Court finds that the Appellant and the Kamarauskas' agreement is not that of life tenancy. Rather, it is a mere lease, on the terms which they described in Court.
+[9] Therefore, the appeals are allowed respecting the rental losses as follows:
+For 1997, loss
+$11,010.24
+For 1998, loss
+Revenue
+$11,610.00
+- $10,953.16
+$656.84
+Less allowed depreciation
+NIL
+For 1999
+Revenue
+$12,000.00
+- $17,655.25
+Loss
+$5,655.25
+$5,655.25
+[10] The appeal is allowed and this matter is referred back to the Minister of National Revenue for reconsideration and reassessment to allow rental losses to the Appellant as described in paragraph 9 hereof.
+Signed at Ottawa, Canada this 20th day of May 2003.
+"D.W. Beaubier"
+J.T.C.C.
+CITATION:
+2003TCC345
+COURT FILE NOS.:
+2002-2532(IT)I
+STYLE OF CAUSE:
+Lekh C. Sukhdeo v. The Queen
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+May 9, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge D.W. Beaubier
+DATE OF JUDGMENT:
+May 20, 2003
+APPEARANCES:
+For the Appellants
+The Appellant himself
+Counsel for the Respondent:
+Nadine Taylor Pickering
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

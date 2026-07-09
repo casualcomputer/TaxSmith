@@ -1,0 +1,122 @@
+---
+title: "Pelletier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26731/index.do"
+last_modified: "2003-08-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 420"
+citation2: ""
+neutral_citation: "2003 TCC 420"
+decision_date: "2003-08-06"
+language: "en"
+item_id: "26731"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3412
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:52:45.610000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "12206f0df4bba99c949a9e4bd00f6ebe27b79e851468756e0948164d6fb24f2c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pelletier c. La Reine
+
+- Citation: 2003 TCC 420
+- Decision date: 2003-08-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3412, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pelletier c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-08-06
+Neutral citation
+2003 TCC 420
+File numbers
+2002-647(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2002-647(IT)I
+BETWEEN:
+RÉNALDO PELLETIER
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 27, 2003, at Québec, Quebec
+Before: The Honourable Judge B. Paris
+Appearances:
+Counsel for the Appellant:
+Daniel Cantin
+Counsel for the Respondent:
+Nancy Dagenais
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 1998 and 1999 taxation years is allowed, without costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of August 2003.
+« B. Paris »
+Paris, J.
+Translation certified true
+on this 9th day of October 2003.
+Sophie Debbané, Revisor
+[OFFICIAL ENGLISH TRANSLATION]
+Citation: 2003CCI420
+Date: 20030806
+Docket: 2002-647(IT)I
+BETWEEN:
+RÉNALDO PELLETIER
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.T.C.C.
+[1] The appellant has appealed reassessments of his 1998 and 1999 taxation years, dated January 21, 2002, by which the Minister of National Revenue (the "Minister") included the amounts of $21,727 and $13,149 respectively as unreported income. In reassessing the appellant, the Minister calculated his income on the basis of a net worth audit.
+[2] The evidence disclosed that at all material times, the appellant operated a sawmill in Rivière-du-Loup and employed two labourers in that operation. The appellant handled all cash from the operation. The appellant testified that he had receipts and bank records for his business and that he gave these records to his accountant at each year-end to calculate his taxes. No ledgers or books of account were kept for the business. The appellant indicated that he felt the method he used to show his income was adequate, and he insisted on the fact that he gave all his customers receipts for the amounts of revenue he received.
+[3] The appellant reported gross revenue from his business of $38,200 in 1998 and of $35,488 in 1999. When shown his income tax returns for those years, he admitted to signing them but when asked if he had read them first, he said that he had "trusted his accountant". When shown that he had claimed the full spousal amount in each year, even though his spouse had operated a business in those years, he said that he had missed this item and that this was done by his accountant.
+[4] The appellant said that during the years in issue, he received proceeds from two life insurance policies that he cashed in late 1997. He produced a photocopy of an excerpt from a bankbook showing that a deposit of $2,421.43 was made on October 28, 1997, and a deposit of $3,132.04 was made on December 12, 1997. He was unable to produce any other document relating to this account or to the insurance policies in question because he said he had thrown them out. He also stated that he had not made the auditor aware of this account because she had not asked for it. He stated as well that his and his spouse's personal expenditures were low because they lived rent-free at his mother-in-law's house.
+[5] Overall, the appellant was less than forthcoming in his testimony and his explanations of events and transactions were incomplete and at times confused.
+[6] The appellant's spouse, Claire Ouellete, gave evidence that during 1998 and 1999 she had a company in the retail clothing business that she ran from the basement of her home and that she had operated this business for 35 years. In 1997, there had been a fire that caused the business to close for a number of months and sales never recovered. She closed the business at the end of 1999. She produced financial statements for her company that showed a net income of $7,746 for the year ending June 30, 1997, of $5,379 for the year ending June 30, 1998, and a loss of $888 for the year ending June 30, 1999. By Ms. Ouellete's own account, the income of her company was only sufficient to repay loans it had taken out. She admitted that her income from her clothing business was insufficient to pay household expenses. The appellant confirmed that his spouse paid very few of the household expenses.
+[7] Ms. Ouellete did however provide a handwritten list of cheques she claims she wrote on her personal bank account in 1998 and 1999. The auditor had assumed that the appellant funded this account and that Ms. Ouellete had no income of her own. The auditor therefore believed that the amounts paid from this account came from income that the appellant failed to report. Ms. Ouellete gave evidence that many of the cheques she wrote on this account (and the funds that were deposited into it) related to her work selling Avon products. The list of cheques (Exhibit A-5) showed amounts payable to Avon totalling $4,895.47 in 1998 and $4,687.71 in 1999. She did not produce the cancelled cheques or any other documentation to corroborate her evidence, but she said she had taken the information from her cheque stubs (also not produced). She admitted that she and her spouse had not disclosed her Avon business to the CCRA auditor in the course of the audit, and in fact they had not told their accountant about it until after the appellant's Notice of Objection had been dealt with.
+[8] Anne Morin, an accountant from the accounting firm used by the appellant, gave evidence in respect of her review of the net worth statement and her efforts to find any errors in the calculations made by the auditor. She said that it was as a result of her efforts that Ms. Ouellete's Avon purchases and sales were discovered. Ms. Morin did not appear to have any first-hand knowledge of the events and transactions that were described by the appellant and his spouse and I give her testimony very little weight for this reason.
+[9] The CCRA Appeals Officer who dealt with the appellant's Notice of Objection also testified but, he too had no first-hand knowledge of the audit that was made and I also do not give much weight to his testimony.
+[10] It is trite law that the appellant bears the onus of proving that the facts underlying an assessment of tax are incorrect. The appellant stated that he had received certain amounts as insurance proceeds in 1997 and argued that the assessments should be reduced accordingly. However, as noted earlier, the appellant had not presented this information to the auditor for verification and was unable to provide the Court with any supporting documentation at all. I also note that the bankbook extract does not show the appellant's name or anything else that indicates that the bankbook belonged to the appellant and, without such corroboration, I do not accept that he had a non-taxable source of income from which to pay some of the personal expenses that are shown in the net worth calculation.
+[11] With respect to the evidence given by Ms. Ouellete, however, I am prepared to accept that many of the cheques that were written on her personal account in 1998 and 1999 were for Avon products as she stated, not for household expenses as the auditor had assumed. I found her evidence clearer, more forthright and more credible than that given by the appellant. I accept that the funds in Ms. Ouellete's personal account did not come from her spouse and therefore that the amounts that were assumed to be personal expenditures paid by him from that account should be deleted; the appellant's income should be reduced by $6,700.78 in 1998 and by $6,932.03 in 1999.
+[12] I am not satisfied that the evidence discloses any other error on the part of the auditor in determining the appellant's income for 1998 and 1999.
+[13] Penalties under subsection 163(2) of the Income Tax Act (the "Act") were assessed in this case on the amounts included in income as a result of the net worth audit. The appellant contends that they should be deleted because the appellant made a reasonable effort to fulfill his obligations under the Act, and he has not been audited in the past. He referred to Venne v. Canada(Minister of National Revenue - M.N.R.) (F.C.T.D.) [1984] F.C.J. No. 314, a decision of the Federal Court of Canada, Trial Division, where Strayer, J. (as he then was) said:
+... "Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not....
+[14] The evidence is not clear as to the state of the appellant's books and records. The auditor did not give evidence. The amounts of income that were unreported are relatively substantial compared to what was reported, although that in itself is not sufficient to qualify the behaviour of the appellant as gross negligence. The test is in part subjective in this case. The appellant is unsophisticated and does not appear to have any formal business training. In the case of penalties, the onus is on the respondent to show that the penalty should be assessed and, in this case, the Court finds that the onus has not been discharged.
+[15] The appeal is therefore allowed, without costs, on the basis that:
+- the appellant's income for the 1998 and 1999 taxation years must be reduced by $6,700.78 and by $6,932.03 respectively;
+- the penalties assessed under subsection 163(2) of the Act must be deleted.
+Signed at Ottawa, Canada, this 6th day of August 2003.
+« B. Paris »
+Paris, J.
+Translation certified true
+on this 9th day of October 2003.
+Sophie Debbané, Revisor

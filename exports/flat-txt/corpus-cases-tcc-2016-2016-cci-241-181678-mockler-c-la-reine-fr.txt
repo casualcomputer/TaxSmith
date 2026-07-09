@@ -1,0 +1,106 @@
+Title: Mockler c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/181678/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-241-181678-mockler-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-10-18
+
+# Mockler c. La Reine
+
+- Citation: 2016 CCI 241
+- Decision date: 2016-10-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2988, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mockler c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-10-18
+Référence neutre
+2016 CCI 241
+Numéro de dossier
+2016-3588(IT)APP
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-3588(IT)APP
+ENTRE :
+BONITA C. MOCKLER,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Demande entendue le 18 octobre 2016, à Fredericton (Nouveau-Brunswick)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour la requérante :
+Me Allison J. Mockler
+Avocat de l’intimée :
+Me Stan McDonald
+JUGEMENT
+ATTENDU QUE la requérante a déposé une demande de prorogation de délai pour déposer un avis d’opposition concernant les années d’imposition de 1997 à 2008;
+ATTENDU QUE le 16 avril 2008, le ministre a émis un avis de détermination informant la requérante qu’elle était admissible au crédit d’impôt pour personnes handicapées pour l’année 2007 et pour les années d’imposition subséquentes, de sorte qu’un appel pour ces années est inutile;
+ATTENDU QUE la requérante a reçu une notification indiquant qu’elle n’avait aucun impôt à payer pour les années 1997 à 2006;
+ATTENDU QUE la requérante ne peut pas s’opposer à une notification indiquant qu’elle n’a aucun impôt à payer;
+PAR CONSÉQUENT, la demande de prorogation de délai pour déposer un avis d’opposition concernant les années d’imposition de 1997 à 2006 est rejetée.
+Signé à Ottawa, Canada, ce 26e jour d’octobre 2016.
+« V.A. Miller »
+La juge V.A. Miller
+Référence : 2016 CCI 241
+Date : 20161026
+Dossier : 2016-3588(IT)APP
+ENTRE :
+BONITA C. MOCKLER,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Mme Mockler sollicite une ordonnance lui accordant une prorogation de délai pour déposer un avis d’opposition concernant les années d’imposition de 1997 à 2008. Sa demande a été déposée le 2 septembre 2016.
+[2] Mme Mockler était représentée par son conjoint, M. Allison Mocker, lequel a également demandé une prolongation de délai pour déposer un avis d’opposition concernant les années d’imposition de 1997 à 2008.
+[3] Le ministre du Revenu national (le « ministre ») conteste la demande compte tenu du fait qu’elle a été déposée auprès de la Cour après l’expiration du délai imparti suivant la Loi de l’impôt sur le revenu (la « LIR ») pour accorder une prorogation du délai pour s’opposer à une cotisation ou à une nouvelle cotisation, selon le cas. Pour appuyer sa position, le ministre a déposé l’affidavit de Bruno Kambwa, agent des litiges au bureau des services fiscaux de l’Agence du revenu du Canada, à Montréal.
+[4] Le litige entre Mme Mockler et le ministre porte sur le crédit d’impôt pour personnes handicapées (« CIPH »). Selon l’affidavit de M. Kambwa et les documents produits au nom de Mme Mockler, cette dernière a obtenu un CIPH pour l’année d’imposition 2007 et les années subséquentes. Par conséquent, sa demande ne devrait concerner que les années de 1997 à 2006.
+[5] D’après les imprimés joints à l’affidavit de M. Kambwa, Mme Mockler a reçu une cotisation à solde nul pour chacune des années d’imposition de 1997 à 2006. Elle souhaite déposer un avis d’opposition afin que son admissibilité au CIPH soit correctement établie pour les années en question. Même si Mme Mockler ne peut pas bénéficier du crédit pour les années de 1997 à 2006, son conjoint peut, lui, les utiliser.
+[6] L’expression « cotisation à solde nul » décrit une situation où une personne n’a aucun impôt à payer. Il ne s’agit pas d’une cotisation, mais plutôt d’une notification selon laquelle il n’y a pas d’impôt à payer. Une cotisation à solde nul ne peut pas faire l’objet d’un appel ni d’un avis d’opposition. Voir les affaires Canada c. Interior Savings Credit Union, 2007 CAF 151 et Terek c. La Reine, 2008 CCI 865. Par conséquent, je dois rejeter la présente demande de prorogation de délai pour déposer un avis d’opposition concernant les années de 1997 à 2006.
+[7] De plus, même si le solde des cotisations pour les années de 1997 à 2006 n’avait pas été nul, j’aurais tout de même dû rejeter la demande, car elle n’a pas été déposée dans le délai imparti, à savoir un an.
+[8] La demande de prorogation de délai pour déposer des avis d’opposition concernant les années d’imposition 1997 à 2006 est rejetée.
+Signé à Ottawa, Canada, ce 26e jour d’octobre 2016.
+« V.A. Miller »
+La juge V.A. Miller
+RÉFÉRENCE :
+2016CCI241
+NO DU DOSSIER DE LA COUR :
+2016-3588(IT)APP
+INTITULÉ :
+BONITA C. MOCKLER c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Fredericton (Nouveau-Brunswick)
+DATE DE L’AUDIENCE :
+Le 18 octobre 2016
+MOTIFS DU JUGEMEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 26 octobre 2016
+COMPARUTIONS :
+Pour la requérante :
+Me Allison J. Mockler
+Avocat de l’intimée :
+Me Stan McDonald
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)

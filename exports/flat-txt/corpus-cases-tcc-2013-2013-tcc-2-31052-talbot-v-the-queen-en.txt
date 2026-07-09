@@ -1,0 +1,248 @@
+Title: Talbot v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31052/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-2-31052-talbot-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-01-09
+
+# Talbot v. The Queen
+
+- Citation: 2013 TCC 2
+- Decision date: 2013-01-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4875, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Talbot v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-01-09
+Neutral citation
+2013 TCC 2
+File numbers
+2011-2576(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-2576(IT)I
+BETWEEN:
+PAUL TALBOT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Lucie Normandin (2011-2601(IT)I), on October 30, 2012,
+at Montréal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Simon Olivier de Launière
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2009 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of January 2013.
+"Francois Angers"
+Angers J.
+Translation certified true
+on this 21st day of February 2013.
+Daniela Guglietta, Translator
+Docket: 2011-2601(IT)I
+BETWEEN:
+LUCIE NORMANDIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Paul Talbot (2011-2576(IT)I), on October 30, 2012,
+at Montréal, Quebec.
+Before: The Honourable Justice François Angers
+Appearance:
+Agent for the appellant:
+Paul Talbot
+Counsel for the respondent:
+Simon Olivier de Launière
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2009 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of January 2013.
+"Francois Angers"
+Angers J.
+Translation certified true
+on this 21st day of February 2013.
+Daniela Guglietta, Translator
+Citation: 2013 TCC 2
+Date: 20130109
+Dockets: 2011-2576(IT)I,
+2011-2601(IT)I
+BETWEEN:
+PAUL TALBOT,
+LUCIE NORMANDIN,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] These two appeals were heard on common evidence and they both pertain to the appellants’ 2009 taxation year.
+[2] The appellant, Paul Talbot, was an employee of Hydro‑Québec in 2009. Seeing as, at the time, he was under age 65 but over age 55, he asked his employer for a progressive retirement under Bylaw No. 734 Hydro-Québec Pension Plan and section 69.1 of Quebec’s Supplemental Pension Plan Act (hereinafter the Act).
+[3] The Hydro-Québec Pension Committee accepted the appellant’s request on February 4, 2009, and informed the appellant by letter on February 10, 2009. He was notified that he would therefore be receiving, under section 5.6 of said By-law, a lump sum payment of $13,691.82 on February 13, 2009. The letter also indicated that the payment of that amount would reduce future pensions when he fully retired. The start date of the progressive retirement was December 22, 2008. The appellant’s progressive retirement schedule was four days of work per week and one day without pay per week.
+[4] The appellant subsequently received from the Hydro-Québec Pension Fund a T4A slip indicating that a lump sum payment of $13,691 was paid to him in 2009. The appellant and his spouse jointly elected to split the pension income in question and each claimed the pension income tax credit of $2,000. The issue, therefore, is whether the lump sum payment of $13,691 paid to the appellant in 2009 is pension income eligible to be split and, therefore, eligible for the pension income credit.
+[5] The applicable provisions, that is, clause 5.6 of the By-law and section 69.1 of the Act, read as follows:
+By-law No. 734
+5.6 Progressive retirement – Lump sum payment
+A member whose earnings are reduced due to a reduction in the workweek, in application of an agreement entered into with the employer, and who is 10 years or less younger than the normal retirement age or who has attained or exceeded this age, is entitled to request payment of a lump sum benefit, in each year covered by the agreement, the amount of which is limited by the applicable legislation. The member may not receive, in the same year, the lump sum payment provided for herein and the benefit defined in 5.5b and in 5.7. The member’s residual rights resulting from the payment of such benefit are established pursuant to applicable legislation.
+Supplemental Pension Plans Act:
+69.1. Any active member whose working time is reduced pursuant to an agreement with his employer and who is 10 years or less under normal retirement age or who has attained or exceeded that age is entitled, on request, for each year covered by the agreement, to the payment, in a lump sum, of a benefit equal to the lowest of the following amounts:
+(1) 70% of the reduction in his remuneration resulting from the reduction in his working time during the year;
+(2) 40% of the Maximum Pensionable Earnings for the year concerned established pursuant to the Act respecting the Québec Pension Plan (chapter R-9);
+(3) the value of his benefits under the plan, established on the assumption that he ceases to be an active member on the date on which he applies for the payment of the benefit.
+Notwithstanding the second paragraph of section 5, the plan may not contain provisions that are more advantageous than those contained in the first paragraph. Moreover, an active member may not receive, in the same year, the benefit provided for in this section and that provided for in section 67.5 or a pension payable under section 77 or replacing that pension.
+The reduction in the member's pension resulting from the payment of the benefit provided for in this section may not exceed the amount of the benefit. Moreover, the remuneration paid during the period in which the member is entitled to the benefit shall not be taken into consideration for the computation of the benefits relating to credited service that does not relate to that period, unless it is to the advantage of the member.
+The employer shall, within 60 days of the date on which he becomes party to an agreement referred to in the first paragraph, transmit to the pension committee the name of every member to whom that paragraph applies.
+[6] It should be noted that By-law 734 provides that it is possible to enter into an agreement for more than year. According to the testimony of Ms. Lockhead, head of the administration of Hydro-Québec’s pension plan, Hydro‑Québec, however, never signs such an agreement thereunder for more than one year at a time. The appellant therefore received the payment for three years after making three separate requests under 5.6. Ms. Lockhead agreed that it could be said to be an annual periodic payment.
+[7] Clause 5.6 of the By-law is the only provision that mentions a lump sum payment. The clause provides that it is “payment of a lump sum benefit, in each year covered by the agreement.” Section 69.1 of the Act makes reference to the “payment, in a lump sum, of a benefit.”
+[8] The appellant submits that the amount he received is a benefit within the meaning of subsection 69.1 of the Act and that it constitutes a pension. The respondent submits that it is not a pension, as a lump sum payment is separate and distinct from a pension.
+[9] According to Ms. Lockhead, clause 5.6 of the By-law does not allow for the payment of a lump sum in the form of pension. For this, it is necessary to apply the provisions of clause 5.7 of the By-law, which was added on January 1, 2009, and which, to date, has not yet been applied. Mr. Talbot retired on May 31, 2010, and it was from that moment that Hydro‑Québec began to pay him a pension, twice per month. Ms. Lockhead also agreed that it is a benefit in accordance with subsection 69.1 of the Act; the term “benefit” distinguishes it from a pension and the term “lump sum payment” is used in clause 5.6 of the By-law for the same reason. The difference is in the terms and conditions of payment, but the payment could also be said to be an annual periodic payment.
+[10] To decide whether a taxpayer who receives pension income in a year may allocate a portion to his or her spouse, it is necessary to look at sections 56, 60, 60.03 and 118 of the Income Tax Act (the ITA).
+[11] Section 60.03 sets out the rules that determine the pension amount that may be attributed to a spouse for pension income splitting purposes. Said amount is then included in the income of the pension transferee spouse under paragraph 56(1)(a.2), and is deducted from the income of the pensioner spouse under paragraph 60(c). Finally, subsection 118(3) provides that the pension transferee spouse may benefit from a pension credit determined in accordance with the established formula.
+[12] It is appropriate to reproduce the following relevant statutory provisions:
+60.03
+(1) The following definitions apply in this section.
+“eligible pension income”, of an individual for a taxation year, means the total of
+(a) the eligible pension income (as defined in subsection 118(7)) of the individual for the year, and
+(b) if the individual has attained the age of 65 years before the end of the year, the lesser of
+(i) the total of all amounts each of which is a payment made in the year to the individual
+(A) out of or under a retirement compensation arrangement that provides benefits that supplement the benefits provided under a registered pension plan (other than an individual pension plan for the purposes of Part LXXXIII of the Income Tax Regulations), and
+(B) in respect of a life annuity that is attributable to periods of employment for which benefits are also provided to the individual under the registered pension plan, and
+(ii) the amount, if any, by which the defined benefit limit (as defined in subsection 8500(1) of the Income Tax Regulations) for the year multiplied by 35 exceeds the amount determined under paragraph (a).
+“joint election” in respect of a pensioner and a pension transferee for a taxation year means an election made jointly in prescribed form by the pensioner and the pension transferee and filed with the Minister with both the pensioner’s and the pension transferee’s returns of income for the taxation year in respect of which the election is made, on or before their respective filing-due dates for the taxation year.
+“pensioner” for a taxation year means an individual who
+(a) receives eligible pension income in the taxation year; and
+(b) is resident in Canada,
+(i) if the individual dies in the taxation year, at the time that is immediately before the individual’s death, or
+(ii) in any other case, at the end of the calendar year in which the taxation year ends.
+“pension income” has the meaning assigned by section 118.
+“pension transferee” for a taxation year means an individual who
+(a) is resident in Canada,
+(i) if the individual dies in the taxation year, at the time that is immediately before the individual’s death, or
+(ii) in any other case, at the end of the calendar year in which the taxation year ends; and
+(b) at any time in the taxation year is married to, or in a common-law partnership with, a pensioner and is not, by reason of the breakdown of their marriage or common-law partnership, living separate and apart from the pensioner at the end of the taxation year and for a period of at least 90 days commencing in the taxation year.
+“qualified pension income” has the meaning assigned by section 118.
+“split-pension amount” for a taxation year is the amount elected by a pensioner and a pension transferee in a joint election for the taxation year not exceeding the amount determined by the formula
+0.5A × B/C
+where
+A is the eligible pension income of the pensioner for the taxation year;
+Bis the number of months in the pensioner’s taxation year at any time during which the pensioner was married to, or was in a common-law partnership with, the pension transferee; and
+C is the number of months in the pensioner’s taxation year.
+(2) For the purpose of subsection 118(3), if a pensioner and a pension transferee have made a joint election in a taxation year,
+(a) the pensioner is deemed not to have received the portion of the pensioner’s pension income or qualified pension income, as the case may be, for the taxation year that is equal to the amount of the pensioner’s split-pension amount for that taxation year; and
+(b) the pension transferee is deemed to have received the split-pension amount
+(i) as pension income, to the extent that the split-pension amount was pension income to the pensioner, and
+(ii) as qualified pension income, to the extent that the split-pension amount was qualified pension income to the pensioner.
+(3) A pensioner may file only one joint election for a particular taxation year.
+(4) A joint election is invalid if the Minister establishes that a pensioner or a pension transferee has knowingly or under circumstances amounting to gross negligence made a false declaration in the joint election.
+118(3) Pension credit
+For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted an amount determined by the formula
+A × B
+where
+A is the appropriate percentage for the year; and
+B is the lesser of $2,000 and the eligible pension income of the individual for the taxation year.
+[13] The following statutory provisions are also relevant:
+118(7)
+(7) Subject to subsections (8) and (8.1), for the purposes of this subsection and subsection (3),
+“eligible pension income” of an individual for a taxation year means
+(a) if the individual has attained the age of 65 years before the end of the taxation year, the pension income received by the individual in the taxation year, and
+(b) if the individual has not attained the age of 65 years before the end of the taxation year, the qualified pension income received by the individual in the taxation year;
+“pension income” received by an individual in a taxation year means the total of
+(a) the total of all amounts each of which is an amount included in computing the individual’s income for the year that is
+(i) a payment in respect of a life annuity out of or under a superannuation plan, a pension plan or a specified pension plan,
+(ii) an annuity payment under a registered retirement savings plan, under an “amended plan” as referred to in subsection 146(12) or under an annuity in respect of which an amount is included in computing the individual’s income by reason of paragraph 56(1)(d.2),
+(iii) a payment out of or under a registered retirement income fund or under an “amended fund” as referred to in subsection 146.3(11),
+(iv) an annuity payment under a deferred profit sharing plan or under a “revoked plan” as referred to in subsection 147(15),
+(v) a payment described in subparagraph 147(2)(k)(v), or
+(vi) the amount by which an annuity payment included in computing the individual’s income for the year by reason of paragraph 56(1)(d) exceeds the capital element of that payment as determined or established under paragraph 60(a), and
+(b) the total of all amounts each of which is an amount included in computing the individual’s income for the year by reason of section 12.2 of this Act or paragraph 56(1)(d.1) of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952;
+“qualified pension income” received by an individual in a taxation year means the total of all amounts each of which is an amount included in computing the individual’s income for the year and described in
+(a) subparagraph (a)(i) of the definition “pension income” in this subsection, or
+(b) any of subparagraphs 118(7) qualified pension income (a)(ii) to 118(7) qualified pension income (a)(vi) or paragraph (b) of the definition “pension income” in this subsection received by the individual as a consequence of the death of a spouse or common-law partner of the individual.
+118(8)
+For the purposes of subsection (7), “pension income” and “qualified pension income” received by an individual in a taxation year do not include any amount that is
+(a) the amount of a pension or supplement under the Old Age Security Act or of any similar payment under a law of a province;
+(b) the amount of a benefit under the Canada Pension Plan or under a provincial pension plan as defined in section 3 of that Act;
+(c) a death benefit;
+(d) the amount, if any, by which
+(i) an amount required to be included in computing the individual’s income for the year
+exceeds
+(ii) the amount, if any, by which the amount referred to in subparagraph (i) exceeds the total of all amounts deducted (other than under paragraph 60(c)) by the individual for the year in respect of that amount;
+(e) a payment received out of or under a salary deferral arrangement, a retirement compensation arrangement, an employee benefit plan or an employee trust; or
+(f) a payment (other than a payment under the Judges Act or the Lieutenant Governors Superannuation Act) received out of or under an unfunded supplemental plan or arrangement, being a plan or arrangement where
+(i) the payment was in respect of services rendered to an employer by the individual or the individual’s spouse or common-law partner or former spouse or common-law partner as an employee, and
+(ii) the plan or arrangement would have been a retirement compensation arrangement or an employee benefit plan had the employer made a contribution in respect of the payment to a trust governed by the plan or arrangement.
+118(8.1)
+For the purposes of subsection (7), a payment in respect of a life annuity under a superannuation or pension plan is deemed to include a payment in respect of bridging benefits, being benefits payable under a registered pension plan on a periodic basis and not less frequently than annually to an individual where
+(a) the individual or the individual’s spouse or common-law partner or former spouse or common-law partner was a member (as defined in subsection 147.1(1)) of the registered pension plan;
+(b) the benefits are payable for a period ending no later than the end of the month following the month in which the member attains 65 years of age or would have attained that age if the member had survived to that day; and
+(c) the amount (expressed on an annualized basis) of the benefits payable to the individual for a calendar year does not exceed the total of the maximum amount of benefits payable for that year under Part I of the Old Age Security Act and the maximum amount of benefits (other than disability, death or survivor benefits) payable for that year under either the Canada Pension Plan or a provincial pension plan as defined in section 3 of that Act.
+[14] The term “annuity” is defined as follows in subsection 248(1) of the ITA:
+“annuity” includes an amount payable on a periodic basis whether payable at intervals longer or shorter than a year and whether payable under a contract, will or trust or otherwise.
+[15] The amount of pension eligible to be split is established in subsection 60.03(1) of the ITA. Under this subsection, the “split-pension amount” is dependent on a formula that takes into account the pensioner’s “eligible pension income.” According to subsection 60.03(1), “eligible pension income” has the same meaning as in subsection 118(7) of the ITA.
+[16] According to subsection 118(7) of the ITA, the “eligible pension income” of an individual who has not attained the age of 65 consists of “qualified pension income” received by the individual in the taxation year.
+[17] According to subsection 118(7) of the ITA, the “qualified pension income” received by an individual in a taxation year means the total of all amounts each of which is an amount described in subparagraph (a)(i) of the definition “pension income” or any of subparagraphs 118(7) qualified pension income (a)(ii) to 118(7) qualified pension income (a)(vi) or paragraph (b); however, these amounts under qualified pension income are only included if they are received as a consequence of the death of a spouse. Therefore, in this case, the only income of the appellant eligible to be split under subsection 60.03(1) of the ITA is that described in subparagraph (a)(i) of the definition “pension income,” a payment in respect of a life annuity out of or under a superannuation or pension plan.
+[18] Subsection 118(8) of the ITA excludes certain amounts from the pension income defined in subsection 118(7). Paragraph (e) excludes the following:
+a payment received out of or under a salary deferral arrangement, a retirement compensation arrangement, an employee benefit plan, an employee trust or a prescribed provincial pension plan;
+[19] In my opinion, any payment received out of or under a retirement compensation arrangement is specifically excluded from the application of the pension income splitting program.
+[20] Clause 5.6 of the By-law and section 69.1 of the Act specifically refer to the lump sum payment of a benefit. The benefit must, therefore, be paid in one lump sum. According to the appellant, the By-law provides that more than one year may be “covered by the agreement;” his benefit could be qualified as periodic and be eligible to be split. The fact remains that Hydro-Québec’s policy was to sign only annual agreements and renew them every year. It is, therefore, a lump sum payment.
+[21] In any event, it is necessary to rely on the fact that only life annuity income out of or under a superannuation or pension plan is eligible to be split. It is interesting to note that the Civil Code of Québec, at articles 2367 and 2371, defines a contract for the constitution of an annuity and a life annuity.
+2367. A contract for the constitution of an annuity is a contract by which a person, the debtor, undertakes, gratuitously or in exchange for the alienation of capital for his benefit, to make periodical payments to another person, the annuitant, for a certain time.
+The capital may consist of immovable or movable property; if it is a sum of money, it may be paid in cash or by instalments.
+2371. An annuity may be constituted for life or for a fixed term.
+A life annuity is an annuity payable for a duration limited to the lifetime of one or several persons.
+A fixed term annuity is an annuity payable for a duration determined otherwise.
+[22] In the case at bar, the annual benefit received by the appellant is not a life annuity such that the lump sum payment of $13,691 paid for the 2009 taxation year cannot be split between spouses.
+[23] Furthermore, subsection 118(8) of the ITA specifically excludes the $13,691 payment from the application of the income splitting program.
+[24] In my view, the annual payment received by the appellant under the agreement between the appellant and his employer cannot be pension income eligible to be split between spouses and is not eligible for the pension income credit.
+[25] Accordingly, the appeals are dismissed.
+Signed at Ottawa, Canada, this 9th day of January 2013.
+"Francois Angers"
+Angers J.
+Translation certified true
+on this 21st day of February 2013.
+Daniela Guglietta, Translator
+CITATION: 2013 TCC 2
+COURT FILE NOS.: 2011-2576(IT)I
+2011-2601(IT)I
+STYLES OF CAUSE: Paul Talbot v. Her Majesty The Queen
+Lucie Normandin v. Her Majesty The Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: October 30, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: January , 2013
+APPEARANCES:
+For the appellant Paul Talbot:
+Agent for the appellant Lucie Normandin
+The appellant himself
+Paul Talbot
+Counsel for the respondent:
+Simon Olivier de Launière
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

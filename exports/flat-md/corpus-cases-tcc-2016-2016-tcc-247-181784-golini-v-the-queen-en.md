@@ -1,0 +1,195 @@
+---
+title: "Golini v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/181784/index.do"
+last_modified: "2016-11-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 247"
+citation2: ""
+neutral_citation: "2016 TCC 247"
+decision_date: "2016-11-16"
+language: "en"
+item_id: "181784"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2992
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:36:25.183000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e5d9694c21a991e9fb82ee6c4ddc44ca34e04549b427b149f267e2a219ccb82d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Golini v. The Queen
+
+- Citation: 2016 TCC 247
+- Decision date: 2016-11-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2992, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Golini v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-11-16
+Neutral citation
+2016 TCC 247
+File numbers
+2013-705(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-705(IT)G
+BETWEEN:
+PAUL A. GOLINI JR. REPRESENTING
+PAUL C. GOLINI BY POWER OF ATTORNEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+The Honourable Justice Campbell J. Miller
+ORDER
+The Respondent is awarded costs in accordance with the attached Reasons in the amount of $531,317.78.
+Signed at Ottawa, Canada, this 1st day of November 2016.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2016 TCC 247
+Date: 20161116
+Docket: 2013-705(IT)G
+BETWEEN:
+PAUL A. GOLINI JR. REPRESENTING
+PAUL C. GOLINI BY POWER OF ATTORNEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS RESPECTING SUBMISSIONS ON COSTS
+C. Miller J.
+[1] On July 19, 2016, I dismissed Mr. Golini’s Appeal and allowed the Parties time to make written submissions with respect to costs. It is useful to set out the Tax Court of Canada Rules (General Procedure) (the “Rules”) regarding costs:
+147(1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+(2) Costs may be awarded to or against the Crown.
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(i.1) whether the expense required to have an expert witness give evidence was justified given
+(i) the nature of the proceeding, its public significance and any need to clarify the law,
+(ii) the number, complexity or technical nature of the issues in dispute, or
+(iii) the amount in dispute; and
+(j) any other matter relevant to the question of costs.
+(3.1) Unless otherwise ordered by the Court, if an appellant makes an offer of settlement and obtains a judgment as favourable as or more favourable than the terms of the offer of settlement, the appellant is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+(3.2) Unless otherwise ordered by the Court, if a respondent makes an offer of settlement and the appellant obtains a judgment as favourable as or less favourable than the terms of the offer of settlement or fails to obtain judgment, the respondent is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+(3.3) Subsections (3.1) and (3.2) do not apply unless the offer of settlement
+(a) is in writing;
+(b) is served no earlier than 30 days after the close of pleadings and at least 90 days before the commencement of the hearing;
+(c) is not withdrawn; and
+(d) does not expire earlier than 30 days before the commencement of the hearing.
+(3.4) A party who is relying on subsection (3.1) or (3.2) has the burden of proving that
+(a) there is a relationship between the terms of the offer of settlement and the judgment; and
+(b) the judgment is as favourable as or more favourable than the terms of the offer of settlement, or as favourable or less favourable, as the case may be.
+(3.5) For the purposes of this section, substantial indemnity costs means 80% of solicitor and client costs.
+(3.6) In ascertaining whether the judgment granted is as favourable as or more favourable than the offer of settlement for the purposes of applying subsection (3.1) or as favourable as or less favourable than the offer of settlement for the purposes of applying subsection (3.2), the Court shall not have regard to costs awarded in the judgment or that would otherwise be awarded, if an offer of settlement does not provide for the settlement of the issue of costs.
+(3.7) For greater certainty, if an offer of settlement that does not provide for the settlement of the issue of costs is accepted, a party to the offer may apply to the Court for an order determining the amount of costs.
+(3.8) No communication respecting an offer of settlement shall be made to the Court, other than to a judge in a litigation process conference who is not the judge at the hearing, until all of the issues, other than costs, have been determined.
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+(5) Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) to award or refuse costs in respect of a particular issue or part of a proceeding,
+(b) to award a percentage of taxed costs or award taxed costs up to and for a particular stage of a proceeding, or
+(c) to award all or part of the costs on a solicitor and client basis.
+(6) The Court may give directions to the taxing officer and, without limiting the generality of the foregoing, the Court in any particular proceeding may give directions,
+(a) respecting increases over the amounts specified for the items in Schedule II, Tariff B,
+(b) respecting services rendered or disbursements incurred that are not included in Schedule II, Tariff B, and
+(c) to permit the taxing officer to consider factors other than those specified in section 154 when the costs are taxed.
+(7) Any party may,
+(a) within thirty days after the party has knowledge of the judgment, or
+(b) after the Court has reached a conclusion as to the judgment to be pronounced, at the time of the return of the motion for judgment,
+whether or not the judgment included any direction concerning costs, apply to the Court to request that directions be given to the taxing officer respecting any matter referred to in this section or in sections 148 to 152 or that the Court reconsider its award of costs.
+[2] Relying on Rule 147(3.2), the Respondent seeks a lump sum of not less than $700,000 based on substantial indemnity costs from the date of the settlement offer made June 11, 2015 (the “Settlement Offer”) and party and party costs before that date, plus disbursements, calculated as follows:
+(a) 80% of the respondent’s solicitor and client costs from June 11, 2015, the date of a settlement offer, totalling $587,440.20;
+(b) party and party costs for the respondent based on the Tariff before that date totalling $5,800; and
+(c) all reasonable disbursements, totalling $104,937.63.
+[3] The Appellant argues that each Party should bear their respective costs except, for $17,339 that should be awarded to the Appellant, representing costs of a motion filed in 2015 seeking a copy of the internal Canada Revenue Agency GAAR referral, and an order to set down for hearing. The Respondent provided the GAAR referral before the motion, and the motion proceeded on April 29 simply to have the matter set down. Justice Owen so ordered, also ordering costs in the cause for the motion.
+[4] While the Appellant acknowledges that the Settlement Offer satisfies the conditions in Rule 147(3.3), he rejects the application of this Rule and Rule 147(3.2) on the basis my Judgment is more favourable to the Appellant than the Settlement Offer. Given the magnitude of the substantial indemnity costs arising from the application of Rule 147(3.2), this is the major issue to address. It is important to bear in mind that even under Rule 147(3.2), I still retain discretion in setting a costs award.
+[5] So, first, is my decision to dismiss the Appellant’s case more favourable to the Appellant than the Settlement Offer? With respect to the very able counsel for the Appellant, they are attempting to make a silk purse out of a cow’s ear in painting the dismissal of their client’s Appeal as being more favourable. Neither side in their submissions provided a detailed calculation of the dollars and cents differential between the Settlement Offer and the assessment left standing. But it belies logic that the Appellant would reject an offer so he can proceed to trial to have his case dismissed.
+[6] The Appellant made the following argument:
+15. The Qualifying Offer proposed to settle the appeal on the basis that: (1) the dividend in the amount of $7,500,000 added in computing the appellant’s income for the 2008 taxation year would be vacated; (2) the paid-up capital (“PUC”) and the adjusted cost base (“ACB”) of the 6,000,000 Class D Preferred shares (the “Shares”) of 1066167 Ontario Inc. owned by the appellant would be ground to $1; and (3) the disallowance of the interest expenses and the guarantee fee would be maintained.
+16. In the Judgment, the Court determined that (1) the appellant was to be assessed a shareholder benefit in the amount of $5,400,000; and (2) he was entitled to an annual interest deduction of $80,000. The appeal was ultimately dismissed considering that this Court’s finding would have increased the appellant’s tax liability beyond the amount assessed by the Minister of National Revenue (the “Minister”) due to the dividend tax credit mechanism.
+17. We recognize that the economic benefits of this Court’s finding is offset in the 2008 taxation year by the inclusion of a shareholder benefit in the amount of $5,400,000 in the appellant’s income. However, the appellant will get the benefit of an $80,000 interest deduction for each subsequent taxation years. He is also preserving the tax attributes (PUC and ACB) of the Shares, the present value of which is approximately $1,800,000.
+18. For these reasons, we are of the view that the Judgment is more favourable than the Qualifying Offer and that the respondent is thus not entitled to “substantial indemnity costs” pursuant to subsection 147(3.2) of the Rules.
+[7] Addressing first whether retaining the taxable dividend in 2008 (the decision) versus vacating the dividend (the Settlement Offer) is more favourable to the Appellant is self-evident – it is not. Does grinding the paid up capital of the 6,000,000 Class D preferred shares of 1066167 Ontario Inc. to $1 (Settlement Offer) counter balance this result? If 1066167 Ontario Inc. would have immediately redeemed the shares, the two impacts would be similar, but obviously that is not possible. Monies could remain in the company for many years without triggering the tax on redemption or repurchase.
+[8] The Appellant argues the present value of preserving the PUC and ACB of the shares (assuming redemption in 10 years at a discount rate of 3%) would be $1,800,000. I presume that tweaking both the time to redemption and the discount rate could significantly vary this result. The Appellant acknowledged the amount of tax in issue was approximately $2,000,000 so, even accepting the Appellant’s numbers, the decision provided a less favourable result.
+[9] With respect to the disallowance of the interest expense and guarantee fee in 2008, that was the same under the Settlement Offer and the decision.
+[10] What then is the effect of my Reasons which suggests an expense deduction in future years? Future years were not in front of me. Whether the Canada Revenue Agency assesses in future based on my Reasons remains to be seen. But even if they did, does the tax saving derived from an annual $80,000 deduction combined with the tax arising from an immediate deemed dividend in 2008 create a more favourable result than no taxable income in 2008? I find it does not.
+[11] Taking all these factors into account, I conclude the decision dismissing the Appeal is still a less favourable result than the Settlement Offer and thus does trigger Rules 147(3.2) and 147(3.3).
+[12] As the Rules stipulate, substantial indemnity costs means 80% of solicitor/client costs. I accept the Minister of National Revenue’s (the “Minister”) calculation in this regard that substantial indemnity costs are $587,440. The Appellant urged me to consider reducing the inclusion of 167 hours claimed by the Respondent for “post-trial” matters. I am not prepared to do that. Only in clear cases of questionable time reporting will I tinker with the reported hours. In this matter, I had asked for additional representations on certain elements of the case, provoking settlement discussions. The hours do not seem unwarranted.
+[13] Both Parties recognize the Rules leave me with discretion even in applying them in connection with substantial indemnity costs arising due to a settlement offer. Both Parties therefore addressed the factors in Rule 147(3) to support, reject or tweak substantial indemnity costs.
+[14] First, with respect to the result of the proceeding, yes the Appeal was dismissed, but not on the basis of the Respondent’s primary argument being one of sham. While I did find, in the alternative, some elements of sham in connection with the Metropac loan, I did not accept the broad reach of sham argued for by the Respondent. The Appellant places considerable emphasis on this point, suggesting the ardour with which the sham argument was pursued was damaging to both Mr. Golini and his advisers. As the Appellant put it: “it takes 20 years to build a reputation and 5 minutes to ruin it”.
+[15] As was intended to be clear in my Reasons, I viewed the Optimizer Plan very much a child of the planners and not of Mr. Golini, so I am not convinced that it was his reputation that would have greatly suffered. It is not unheard of that the winning litigant does not receive costs due to this type of behaviour. See for example, Lewis v Inter Provincial Parts and Equipment Inc.[1]
+[16] There may be a fine line, but a line there is nevertheless between a clever tax plan that might successfully push the envelope and a deliberately misleading plan. Following the Appellant’s maxim, advisers might make their reputation on the former and lose it on the latter. Neither the planners nor the enforcers should treat this lightly. The enforcers should not see a sham behind every tax plan, but nor should they shy away from legitimate investigations for fear of tarnishing reputations. It is a serious and difficult business. The Respondent’s attempt to perhaps broaden the sham concept to sweep into its net transactions to which a taxpayer was neither a party nor of which the taxpayer was aware, was not accepted by me.
+[17] On balance, I find the lack of success on the primary argument is a factor I am prepared to weigh to affect some downward adjustment on the substantial indemnity costs award.
+[18] The amounts in issue, the importance of the issue, the volume of work and the complexity of the issue, while may have held some sway if simply considering costs generally, I find they do not influence me in tinkering with the substantial indemnity award arising from the application of Rules 147(3.1) – (3.8).
+[19] What does have some influence, however, is the consideration of the conduct of the Parties, as contemplated in factors (g), (h) and (i) of Rule 147(2). Reviewing how counsel conduct litigation cannot be a matter of second guessing nor be analyzed with a view that counsel could have done better or should have done more or, perhaps, should have done less. That is something of a mug’s game. My experience is that lawyers in the tax community, from both the private bar and from the Department of Justice, do their utmost to protect their clients’ interest within the rules of the game and with respect, civility and candor. Yet, it is not uncommon that what might be considered enthusiastic representation by one side is viewed as “inexplicable”, a lack of “professional decency”, “shocking”, “lack of good faith”, here by the Appellant in describing the Respondent’s behaviour in his written submissions on costs.
+[20] The Appellant raises these concerns pointing specifically to four actions by the Respondent:
+a. The respondent’s refusal to examine for discovery Andrew Guizzetti (“A. Guizzetti”) in place of Paul Jr.;
+b. The respondent’s refusal to provide the GAAR Referral and to fix the time and place of the hearing within the timeline provided for by an Order of this Court;
+c. The numerous issues and requests made by the respondent in respect of the Thorsteinssons Opinion; and
+d. The respondent’s refusal to clarify her sham argument.
+[21] Yet, at the same time, the Respondent points to several actions of the Appellant that either caused delay or lengthened the proceeding unnecessarily: the Appellant’s refusal to admit certain facts, the Appellant’s refusal to produce the Thorsteinssons’ legal opinion, the Appellant’s insistence on raising a protective assessment argument in the pleadings requiring a motion by the Respondent to strike (which was successful), the Appellant’s refusal to settle a motion to produce, the Appellant’s refusal to answer certain discovery questions and, according to the Respondent, failing to work cooperatively to assemble a partial agreed statement of facts”.
+[22] Looking at these concerns flying both ways, I would categorize most of it as procedural wrangling and litigation tactics that are not uncommon, and that I have seen before. I would not describe any of it as improper, vexatious or egregious.
+[23] Some actions may well have lengthened the duration of the proceedings and, in hindsight, perhaps, could be viewed as unnecessary, but the actions must be viewed through counsels’ eyes at the time of the actions. The only action that I find causes me to consider adjusting costs, in the context of conduct of the Parties, is the lack of clarity from the Respondent prior to trial as to the full nature of the sham argument. An Appellant facing a sham argument from the Government is entitled to fully appreciate the nature and substance of that argument.
+[24] The Appellant raises some additional concerns regarding the Respondent’s submissions on disbursements. First, the Appellant submits the Respondent’s claim for $40,297.16 for the expert, Mr. Johnson, is unwarranted given the limitation I put on his testimony. It is always a strategic call for counsel to identify the scope and breadth demanded of an expert. Each side is expected by the Court to put forward impartial experts, whose role is to assist the Court on technical matters, not in the Judge’s area of expertise. I did not allow some of Mr. Johnson’s expert report to be introduced as parts were unnecessary to assist me. The Appellant should not be responsible for all of Mr. Johnson’s costs. I reduce it by half.
+[25] The Appellant also queries the approximate $20,000 charge for photocopy. The Respondent provided a schedule indicating dates and amounts of copying. I see no basis upon which to change this calculation.
+[26] In conclusion, I am not prepared to award substantial costs at the rate of 80%, but will reduce that to 60%. Regarding disbursements, I reduce the fee charged by Mr. Johnson by $20,000. With respect to the Appellant’s request for costs of the motion, I am not prepared to tinker with the motions’ judge’s decision. In summary, I award the Respondent $531,317.78, made up of 60% of solicitor-client costs of $440,580.15, party and party costs before settlement of $5,800 plus disbursements of $84,937.63.
+These Amended Reasons for Judgment are issued in substitution of the Reasons for Judgment dated November 1st, 2015.
+Signed at Ottawa, Canada, this 16th day of November 2016.
+“Campbell J. Miller”
+C. Miller J.
+CITATION:
+2016 TCC 247
+COURT FILE NO.:
+2013-705(IT)G
+STYLE OF CAUSE:
+PAUL A. GOLINI JR. REPRESENTING PAUL C. GOLINI BY POWER OF ATTORNEY AND HER MAJESTY THE QUEEN
+REASONS FOR ORDER BY:
+The Honourable Justice Campbell J. Miller
+DATE OF ORDER:
+November 1, 2016
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Nathalie Goyette, Geneviève Léveillé, Laurie Beausoleil
+Firm:
+PwC Cabinet d’avocats, s.e.n.c.r.l./s.r.l.
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1996] A.J. No. 977 (Alberta Court of Queen's Bench), see paras 4 to 6.

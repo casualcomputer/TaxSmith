@@ -1,0 +1,124 @@
+Title: Wowk v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26169/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-213-26169-wowk-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-04-04
+
+# Wowk v. The Queen
+
+- Citation: 2003 CCI 213
+- Decision date: 2003-04-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3967, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wowk v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-04
+Référence neutre
+2003 CCI 213
+Numéro de dossier
+2002-98(IT)I
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-98(IT)I
+ENTRE :
+GEORGE ANDREW WOWK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+___________________________________________________________________
+Appel entendu le 28 mai 2002, à Calgary (Alberta)
+Devant : l'honorable juge M. A. Mogan
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Gwen Mah
+__________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1999 est rejeté.
+Signé à Ottawa, Canada, ce 4e jour d'avril 2003.
+« M. A. Mogan »
+J.C.C.I.
+Traduction certifiée conforme
+ce 22e jour de février 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI213
+Date: 20030404
+Dossier: 2002-98(IT)I
+ENTRE :
+GEORGE ANDREW WOWK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Mogan
+[1] Le présent appel a été interjeté à l'encontre d'une cotisation imposant des intérêts et une pénalité à l'appelant pour l'année d'imposition 1999. L'imposition de la pénalité repose principalement sur le fait qu'un certain nombre de déclarations de revenus des années précédant 1999 ont été déposées en retard. Certains faits pertinents ont été mentionnés par l'appelant au cours de son bref témoignage. D'autres hypothèses de faits pertinents du ministre du Revenu national figurant dans la réponse à l'avis d'appel n'ont pas été contestées par l'appelant. Des copies des déclarations de revenus de 1998 et 1999 de l'appelant font partie de la pièce A-1. La copie d'une lettre datée du 11 septembre 2001 (une date désormais célèbre dans l'histoire de l'Amérique du Nord!) que l'Agence des douanes et du revenu du Canada ( « ADRC » ) a envoyée à l'appelant, et qui comporte des annexes, constitue la pièce A-2. Sur la foi de ces documents et du témoignage oral de l'appelant, je vais tenter de résumer les faits pertinents dans un ordre chronologique.
+[2] En ce qui concerne l'année d'imposition 1994, le ministre a envoyé une demande de produire une déclaration le 27 février 1996. Le 12 avril 1996, le ministre a envoyé une mise en demeure de produire une déclaration. L'appelant a produit sa déclaration de revenus de 1994 le 6 mai 1996, soit environ un an en retard.
+[3] En ce qui concerne l'année d'imposition 1995, le ministre a envoyé une demande de produire une déclaration le 23 janvier 1997. Le 20 mars 1997, le ministre a envoyé une mise en demeure de produire une déclaration. L'appelant a produit sa déclaration de revenus de 1995 le 9 octobre 1997, soit environ dix-sept mois en retard.
+[4] En ce qui concerne l'année d'imposition 1996, l'appelant exploitait une entreprise et avait donc jusqu'au 15 juin 1997 pour produire une déclaration de revenu. L'appelant a produit sa déclaration de 1996 le 26 février 1998, soit environ huit mois en retard. Lors de l'établissement de la cotisation à l'égard de l'appelant pour l'année d'imposition 1996, le ministre a imposé une pénalité de 84,79 $ pour production tardive de la déclaration.
+[5] En ce qui concerne l'année d'imposition 1999 (l'année visée par l'appel), l'appelant exploitait une entreprise et avait donc jusqu'au 15 juin 2000 pour produire une déclaration de revenus. Le 7 septembre 2000, le ministre lui a envoyé une demande de produire une déclaration pour l'année d'imposition 1999. L'appelant a produit sa déclaration de 1999 le 15 janvier 2001, soit plus de six mois civils entiers suivant la date d'échéance. Lors de l'établissement de la cotisation à l'égard de l'appelant pour l'année d'imposition 1999, le ministre a imposé une pénalité de 1 499,70 $ pour production tardive de la déclaration.
+[6] Le montant de l'impôt que l'appelant devait payer pour l'année d'imposition 1999 n'était pas entièrement payé lorsqu'on lui a demandé de produire la déclaration le 15 juin 2000. Le montant impayé au 15 juin 2000 était de 6 816,83 $ et avait été calculé de la façon suivante :
+Impôt provincial
+5 977,05 $
+Impôt fédéral
+12 684,86
+Impôt total
+18 661,91
+Moins : retenues à la source
+11 845,08
+Impôt de 1999 à payer
+6 816,83 $
+[7] Le ministre a imposé unepénalité de 1 499,70 $ pour production tardive de la déclaration en ce qui concerne l'année 1999 qui avait été calculé comme suit :
+Impôt payable x 10 % = 6 816,83 $ x 10 %
+681,68 $
+Plus :
+Impôt payable x (2 % x nombre de mois entiers, ne dépassant pas 20, entre la date à laquelle on a demandé à l'appelant de produire sa déclaration et la date à laquelle la déclaration a été produite) = 6 816,83 $ x 12 %
+818,02
+Pénalité pour production tardive de la déclaration
+1 499,70 $
+[8] L'appelant a fait appel de la pénalité pour production tardive de la déclaration en ce qui concerne l'année 1999 et de certains intérêts imposés pour paiement tardif des impôts. Il s'oppose en particulier à la double pénalité de 10 % plus 2 % pour chaque mois entier suivant la date d'échéance. La pénalité pour production tardive de la déclaration a été imposée en vertu du paragraphe 162(2) de la Loi de l'impôt sur le revenu qui prévoit ce qui suit :
+162(2) La personne qui ne produit pas de déclaration de revenu pour une année d'imposition selon les modalités et dans le délai prévus au paragraphe 150(1) après avoir été mise en demeure de le faire conformément au paragraphe 150(2) et qui, avant le moment du défaut, devait payer une pénalité en application du présent paragraphe ou du paragraphe (1) pour défaut de production d'une déclaration de revenu pour une des trois années d'imposition précédentes est passible d'une pénalité égale au total des montants suivants :
+a) 10 % de l'impôt payable pour l'année en vertu de la présente partie qui était impayé à la date où, au plus tard, la déclaration devait être produite;
+b) le produit de 2 % de cet impôt impayé par le nombre de mois entiers, jusqu'à concurrence de 20, compris dans la période commençant à la date où, au plus tard, la déclaration devait être produite et se terminant le jour où la déclaration est effectivement produite.
+[9] Le paragraphe 162(2) compte parmi les dispositions relativement peu nombreuses de la Loi de l'impôt sur le revenu qui sont claires quant à leur sens et leur application. L'appelant a répondu aux trois premières conditions car a) il n'a pas produit sa déclaration de 1999 selon les modalités et dans le délai prévus; b) le ministre lui a envoyé une mise en demeure le 7 septembre 2000 pour produire une déclaration pour l'année 1999; c) avant la date d'échéance (le 15 juin 2000), il devait payer une pénalité en vertu du paragraphe 162(1) pour l'année d'imposition 1996 (l'une des trois années précédentes). La pénalité pour production tardive de la déclaration qui est décrite au paragraphe 7 ci-dessus découle de l'application exacte des alinéas a) et b) du paragraphe 162(2) puisque les 10 % sont prescrits; les 2 % qui s'y ajoutent pour chaque mois entier de « retard » s'élèvent à 12 % pour six mois entiers. L'appel de l'appelant est rejeté relativement à la pénalité pour production tardive de la déclaration.
+[10] Les intérêts qui peuvent être imposés pour un paiement tardif des impôts sont énoncés à l'article 161 de la Loi qui prévoit ce qui suit au paragraphe (1) :
+161(1) Dans le cas où le total visé à l'alinéa a) excède le total visé à l'alinéa b) à un moment postérieur à la date d'exigibilité du solde qui est applicable à un contribuable pour une année d'imposition, le contribuable est tenu de verser au receveur général des intérêts sur l'excédent, calculés au taux prescrit pour la période au cours de laquelle cet excédent est impayé :
+a) le total des impôts payables par le contribuable pour l'année en vertu de la présente partie et des parties I.3, VI et VI.1;
+b) le total des montants représentant chacun un montant payé au plus tard à ce moment au titre de l'impôt payable par le contribuable et imputé par le ministre, à compter de ce moment, sur le montant dont le contribuable est redevable pour l'année en vertu de la présente partie ou des parties I.3, VI ou VI.1.
+La « date d'exigibilité du solde » est définie comme suit au paragraphe 248(1) :
+248(1) Les définitions qui suivent s'appliquent à la présente loi.
+« date d'exigibilité du solde » L'une des dates suivantes applicable à un contribuable pour une année d'imposition :
+a) [...]
+b) si le contribuable est un particulier décédé après le 31 octobre de l'année et avant le 1er mai de l'année d'imposition suivante, le jour qui suit son décès de six mois;
+c) dans les autres cas où le contribuable est un particulier, le 30 avril de l'année d'imposition suivante;
+d) [...]
+[11] Étant donné que l'appelant est un particulier vivant, la date d'exigibilité de son solde pour 1999 est le 30 avril 2000, peu importe que sa déclaration de revenus de 1999 devait être produite le 30 avril ou le 15 juin 2000. La pièce A-1 comprend une copie de la déclaration de revenus de l'appelant de 1998 qui devait être produite soit le 30 avril ou le 15 juin 1999. L'appelant a en fait produit sa déclaration de 1998 le ou vers le 3 octobre 2000, plus de 15 mois en retard. Dans sa déclaration de 1998, il a demandé un remboursement de 3 510,50 $ et y a noté ce qui suit à la main à la page 4 : [TRADUCTION] « je dois peut-être un arriéré d'impôt pour 1999, donc ne me remboursez pas les 3 510,50 $ » .
+[12] L'avis de cotisation de 1998 (qui fait également partie de la pièce A-1) indique que le ministre a déterminé que l'appelant avait droit à un remboursement de 3 586,78 $ pour 1998. L'appelant a fait observer que, lors du calcul des intérêts qu'il devait payer pour 1999, on aurait dû porter à son crédit le remboursement de 3 586,78 $ de 1998 à compter du 30 avril 2000 (la « date d'exigibilité » de son solde pour 1999). Selon les calculs qui figurent à l'annexe « B » de la réponse de l'intimée, le ministre n'a porté le remboursement de 3 586,78 $ de 1998 au crédit de l'appelant qu'à compter du 30 octobre 2000.
+[13] L'avocate de l'intimée a fait observer que le ministre n'était pas autorisé à imputer le remboursement de 3 586,78 $ de 1998 à la cotisation de l'appelant de l'année d'imposition 1999 jusqu'à ce qu'il ait reçu la déclaration de ce dernier pour l'année 1998 au début du mois d'octobre 2000 (produite en retard) qui comportait la note écrite à la main et figurant au paragraphe 11 ci-dessus. En d'autres termes, le ministre n'a reçu l'autorisation d'imputer le remboursement de 1998 à l'impôt de 1999 qu'en octobre 2000; ainsi, le ministre a porté le remboursement de 1998 au crédit de l'appelant le 30 octobre 2000. Je retiens l'argument de l'avocate de l'intimée.
+[14] L'annexe « B » de la réponse de l'intimée comprend une explication détaillée de la façon dont le ministre a déterminé que l'appelant devait 536,41 $ à titre d'intérêts relativement à l'année d'imposition 1999 et ce, à la date de l'avis de cotisation (le 1er mars 2001). Il y a, en particulier, une note de bas de page qui explique pourquoi 121,73 $ ont été déduits des intérêts (658,14 $) qui avaient été réellement imposés le 1er mars 2001. La note de bas de page mentionne ce qui suit :
+[TRADUCTION]
+Les intérêts sur arriérés d'un montant de 658,14 $ tel que calculé à l'annexe A ont été imposés conformément à l'avis de cotisation daté du 1er mars 2001.
+À la suite de l'avis de cotisation, un versement de 3 586,78 $ a été porté au crédit de l'appelant alors que des intérêts entraient en vigueur le 30 octobre 2000.
+Par conséquent, les intérêts sur arriérés qui avaient été imposés entre le 30 avril 2000 et la date de l'avis de cotisation du 1er mars 2001 ont été réduits de 121,73 $ pour passer de 658,14 $ à 536,41 $, tel que calculés ci-dessus.
+[15] Je suis convaincu que l'appelant a obtenu le meilleur crédit possible pour son remboursement de 1998, tel qu'il a été appliqué à l'impôt payable pour l'année 1999. L'appelant n'a présenté aucune autre preuve ou argument qui puisse me convaincre de réajuster les intérêts dus entre le 30 avril 2000 et le 1er mars 2001 relativement au montant (536,41 $) indiqué à l'annexe « B » de la réponse. L'appel portant sur l'année d'imposition 1999 est rejeté.
+Signé à Ottawa, Canada, ce 4e jour d'avril 2003.
+« M. A. Mogan »
+J.C.C.I.
+Traduction certifiée conforme
+ce 22e jour de février 2005.
+Sophie Debbané, réviseure

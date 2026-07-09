@@ -1,0 +1,159 @@
+---
+title: "Gruia c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25068/index.do"
+last_modified: "2005-06-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 406"
+citation2: ""
+neutral_citation: "2005 CCI 406"
+decision_date: "2005-06-28"
+language: "fr"
+item_id: "25068"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2511
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:47:09.938000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "29bf31b41c77ffcceb5f339f9a8b939328d2ce0eda6ed89c869984c1a6848d07"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gruia c. La Reine
+
+- Citation: 2005 CCI 406
+- Decision date: 2005-06-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2511, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gruia c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-06-28
+Référence neutre
+2005 CCI 406
+Numéro de dossier
+2004-4212(GST)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-4212(GST)I
+ENTRE :
+GERARD PHILIP GRUIA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+__________________________________________________________________
+Appel entendu le 7 juin 2005, à Montréal (Québec).
+Devant : L’honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l’appelant :
+Me Christopher R. Mostovac
+Avocat de l’intimée :
+Me Pierre Zemaitis
+__________________________________________________________________
+JUGEMENT
+L’appel de la cotisation de taxe sur les produits et services établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 21 juillet 2004 et porte le numéro PM‑11528, est accueilli, avec dépens, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 28e jour de juin 2005.
+« Louise Lamarre Proulx »
+La juge Lamarre Proulx
+Référence : 2005CCI406
+Date : 20050628
+Dossier : 2004-4212(GST)I
+ENTRE :
+GERARD PHILIP GRUIA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s’agit d’un appel interjeté sous le régime de la procédure informelle qui porte sur une cotisation établie en vertu de l’article 323 de la Loi sur la taxe d’accise (la « Loi »). L’avis de cotisation porte le numéro PM‑11528 et est daté du 21 juillet 2004.
+[2] Un énoncé des faits admis a été déposé au début de l’audience. Il est rédigé en français et est libellé comme suit :
+1. Le présent appel concerne une cotisation de l'article 323 de la Loi sur la taxe d'accise (ci‑après « la LTA »), dont l'avis porte la date du 21 juillet 2004 et le numéro PM‑11528;
+2. Que cette cotisation a été établie à l'égard de Gérard Philip Gruia en regard d'un montant de taxe nette (en matière de TPS) de 9 759,04 $ qui n'a pas été versé par la compagnie Peng Peng Inc. au receveur général, et ce, pour la période de janvier 2000;
+3. Que Peng Peng Inc. avait jusqu'au mardi 29 février 2000 inclusivement pour verser le montant de 9 759,04 $, ce qui n'a pas été fait;
+4. Que l'Appelant était un administrateur de Peng Peng Inc. depuis 1984 et l'était durant les mois de janvier à mars 2000;
+5. Que l'Intimée reconnaît que l'Appelant ne contrôlait plus la compagnie Peng Peng Inc. depuis le 22 mars 2000;
+6. Que l'Intimée reconnaît que de février 1991 à décembre 2000, la seule pénalité (33,98 $) et le seul intérêt (26,96 $) imposés à l'égard de Peng Peng Inc. pour remise tardive sont relatifs à la période de septembre 1998;
+7. Que l'Appelant reconnaît que la cotisation en litige n'est pas prescrite et que la réclamation prévue à l'article 323(2)c) a été établie dans le délai de six mois prévu audit article;
+8. Que le présent litige a trait au non-versement par Peng Peng Inc. pour la seule période de janvier 2000; le versement devait se faire au plus tard le 29 février 2000 inclusivement;
+9. Que, donc, la seule question en litige dans la présente affaire est de déterminer si, au sens de l'article 323(3) de la LTA, l'Appelant a agi avec soin, diligence et compétence pour prévenir le manquement de Peng Peng Inc. en regard de la période de janvier 2000 mentionnée ci‑haut.
+[3] La question à trancher est de savoir si, pendant le mois de janvier 2000, l’appelant a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[4] La société qui a omis de verser un montant de taxe nette est Peng Peng Inc. (ci-après la « compagnie »). L’appelant était administrateur de la compagnie quand celle-ci était tenue de verser le montant de taxe nette en question.
+[5] Les témoins de l’appelant ont été l’appelant lui-même, alors le président de la compagnie, M. Barry Filger, le contrôleur de la compagnie, et M. Jeff Gruia, le fils du président et un employé de la compagnie. La seule personne à témoigner pour l’intimée a été le consultant de la banque, M. Herbert Davis.
+[6] Dans son témoignage, l’appelant a dit que pendant toute la période où il exploitait la compagnie, soit de 1984 à 2000, il n’avait jamais omis de verser les montants dus au gouvernement. En ce qui concerne la Loi, la période d’exploitation pertinente allait du mois de février 1991 au mois de janvier 2000. Pendant toutes ces années, la compagnie a respecté les exigences en matière de versement de la taxe nette imposées par la Loi. La seule erreur est survenue en septembre 1998, et le montant de l’erreur était minime.
+[7] La méthode adoptée par la compagnie pour verser les montants dus au gouvernement était de faire le chèque pour le montant nécessaire la semaine précédant le dernier jour du mois au cours duquel le versement était dû et d’envoyer le chèque au gouvernement le dernier jour du mois. Pour les besoins de cet appel, ce jour était le 29 février 2000.
+[8] L’appelant a expliqué qu’à l’automne 1999, la compagnie a subi des pertes sur ses ventes. Elle a essayé d’améliorer la situation, mais ce fut en vain. En janvier 2000, la compagnie n’avait pas atteint les projections présentées à la banque. En février 2000, l’appelant et son associé, M. Stein, ont injecté 200 000 $ dans la compagnie pour satisfaire aux exigences de la banque. Cela ne semble pas avoir été suffisant, car, l’avant‑dernière semaine de février, un représentant de la banque a communiqué avec le président de la compagnie et lui a dit qu’il allait envoyer un consultant financier pour que celui-ci fasse une évaluation et un rapport concernant la position de la banque en matière de garantie relative à la dette de la compagnie envers la banque. Le consultant financier en question était M. Herbert H. Davis. Une ébauche d’un engagement unilatéral avait déjà été envoyée à la compagnie.
+[9] Le consultant s’est rendu sur les lieux de la compagnie pour rencontrer ses dirigeants le 28 février 2000. L’appelant, à titre de président de la compagnie, et M. Steve P. Stein, à titre d’administrateur principal, ont signé l’entente unilatérale d’acceptation du mandat du consultant, qui a été produite comme pièce A-1.
+[10] L’appelant a dit que la compagnie avait demandé à son avocat et à son conseiller financier d’assister à la rencontre avec le consultant de la banque. L’appelant, M. Stein et M. Filger, le contrôleur de la compagnie, étaient aussi présents. L’appelant a dit qu’au début, M. Davis était réservé, mais poli. Il a appelé la banque deux fois pendant la rencontre. Chaque fois qu’il rejoignait le groupe, il était plus agité et brusque. Selon l’appelant, M. Davis a dit clairement à la fin de la rencontre qu’aucun chèque ne devait être émis sans son approbation.
+[11] Le lendemain, soit le 29 février, le jour où le chèque à l’ordre du gouvernement aurait dû être émis, M. Davis s’est présenté aux locaux de la compagnie avec un adjoint. Bien que l’appelant ait signé le chèque en question et insisté pour que le chèque soit envoyé, M. Davis a refusé de donner son approbation. Après cela, M. Davis est demeuré sur les lieux de la compagnie et, petit à petit, il a commencé à intervenir de plus en plus dans les activités quotidiennes de la compagnie.
+[12] En réponse à une question posée par l’avocat de l’intimée, l’appelant a avoué qu’il aurait pu émettre le chèque sans l’approbation de M. Davis, mais que, comme sanction, la banque aurait immédiatement exigé que la compagnie rembourse ses emprunts.
+[13] Dans son témoignage, M. Davis a confirmé que la Banque HSBC Canada avait organisé la rencontre du 28 février 2000. Son mandat était exposé dans un document signé par la compagnie et consistait principalement en l’évaluation de la valeur des éléments d’actif de la compagnie. Au tout début de la rencontre, M. Davis a été étonné de la situation financière de la compagnie, qui ne correspondait pas ce à quoi la banque s’attendait. La situation était extrêmement grave, voire terrible. La compagnie n’était pas en mode d’exploitation, mais plutôt en mode de liquidation.
+[14] Il a dit n’avoir exercé aucun contrôle de gestion sur la compagnie. Il était là seulement pour évaluer la situation et en aviser la banque.
+[15] En réponse à une question posée par l’avocat de l’appelant, M. Davis a dit qu’à compter du 7 mars 2000, son mandat a été élargi pour comprendre un rôle plus actif dans la gestion de la compagnie. Toutefois, aucun nouveau document n’a été signé. Il a dit que la compagnie était en mode de liquidation mais que, malgré cela, elle continuait de verser des salaires élevés aux dépens de la garantie de la banque. La compagnie comptait liquider et ensuite faire acheter ses éléments d’actif par une autre société appartenant à des membres de la même famille.
+[16] M. Barry Filger, alors contrôleur de la compagnie, a confirmé que le consultant de la banque, M. Davis, n’était pas simplement observateur et conseiller. Tous les paiements devaient être approuvés par lui au préalable. M. Jeff Gruia a confirmé cela et a ajouté que, dans un cas en particulier, M. Davis s’est emporté contre son père, le président de la compagnie.
+Arguments
+[17] L’avocat de l’appelant a mis l’accent sur le fait que la conduite de l’appelant par le passé relativement au versement des montants dus au gouvernement était irréprochable. À cet égard, il s’est référé à l’arrêt de la Cour d’appel fédérale dans l’affaire Soper c. Canada, [1997] A.C.F. no 881 (Q.L.), plus particulièrement le paragraphe 29 de cet arrêt, dont voici le libellé :
+Le moment convient bien pour résumer mes conclusions au sujet du paragraphe 227.1(3) de la Loi de l'impôt sur le revenu. La norme de prudence énoncée au paragraphe 227.1(3) de la Loi est fondamentalement souple. Au lieu de traiter les administrateurs comme un groupe homogène de professionnels dont la conduite est régie par une seule norme immuable, cette disposition comporte un élément subjectif qui tient compte des connaissances personnelles et de l'expérience de l'administrateur, ainsi que du contexte de la société visée, notamment son organisation, ses ressources, ses usages et sa conduite. Ainsi, on attend plus des personnes qui possèdent des compétences supérieures à la moyenne (p. ex. les gens d'affaires chevronnés).
+[18] L’avocat a aussi fait observé que l’appelant voulait payer ce qui était dû pour janvier 2000, mais que le consultant envoyé par la banque l’en a empêché. L’appelant éprouvait une certaine crainte que la banque exige immédiatement le remboursement des emprunts de la compagnie si celle-ci ne tenait pas compte de l’avis du consultant ou ne se conformait pas à ses directives.
+[19] L’avocat de l’intimée a soutenu qu’aucune preuve n’a été présentée selon laquelle la banque a refusé de faire honneur aux chèques de la compagnie ou que le consultant a pris le contrôle de la compagnie dès le 29 février 2000. Il a aussi soutenu que des fonds ont été injectés dans la compagnie en février, que la compagnie a été prorogée par l’entremise d’une autre compagnie, ce qui laisse entendre que d’importantes sommes étaient à la disposition de la compagnie, et que rien n’indique que des chèques ont réellement été émis par la compagnie pour payer la taxe nette ou que ces chèques n’ont pas été approuvés par le consultant de la banque.
+Analyse et conclusion
+[20] Dans sa réponse à l’avis d’appel modifié, l’intimée s’est référée à un paragraphe tiré de l’engagement unilatéral que voici :
+[TRADUCTION]
+Nous comprenons et acceptons que, dans cette affaire, le consultant n’agit qu’à titre de consultant auprès de la banque et, à ce titre, n’a aucune responsabilité décisionnelle et n’a aucun pouvoir de gestion. Nous comprenons également que le consultant ne prend possession ni contrôle d’aucun des éléments d’actif assujettis à la garantie de la banque.
+[21] À mon avis, on peut convenir que les administrateurs de la société ont conservé le contrôle de droit de la compagnie.
+[22] Toutefois, je conclus que les deux derniers paragraphes de l’engagement en question sont très informatifs étant donné qu’ils expliquent bien la relation délicate et périlleuse entre un débiteur et son créancier lorsque les affaires de l’entreprise vont mal et qu’il faut de l’argent. Les paragraphes en question sont libellés comme suit :
+[TRADUCTION]
+Nous confirmons notre accord selon lequel le consultant ne se trouvera pas en conflit d’intérêts lorsqu’il agira pour le compte de la banque s’il faut que soit exigé le paiement de notre dette envers elle et que sa garantie soit réalisée.
+Nous reconnaissons que la banque ne s’est engagée à rien et que celle-ci réserve tous ses droits et recours, y compris, entre autres, le droit d’exiger le paiement de notre dette et de réaliser sa garantie, et ce, entièrement à sa guise.
+[23] Il est ressorti de la preuve qu’à la rencontre du 28 février, le consultant de la banque, M. Davis, s’est immédiatement rendu compte que le niveau des ventes de la compagnie était très faible et que les dépenses de celle-ci n’avaient pas été suffisamment réduites. Il n’est donc pas surprenant que, pour des raisons financières, le consultant ait suivi de près les activités de la compagnie. J’imagine que la compagnie devait adopter une attitude respectueuse envers le consultant de la banque pour pouvoir continuer à exister, ne serait-ce que pour une courte période. M. Davis ne prenait pas les décisions de la compagnie, mais si la compagnie ne s’était pas conformée à ses exigences, le paiement de la dette aurait pu être exigé à des moments inopportuns, ce qui aurait donné lieu à de pires résultats que si une attitude souple avait été adoptée.
+[24] La preuve a montré que la compagnie n’avait pas décidé de continuer à exercer ses activités et de financer une partie de ses activités avec des fonds publics. Il avait été décidé de liquider la compagnie. Les activités n’ont pas continué pendant des mois par après. Le mois de janvier est le premier mois où la compagnie a manqué à ses obligations.
+[25] Il a souvent été dit dans la jurisprudence que la responsabilité des administrateurs n’est pas absolue. Le paragraphe 323(3) de la Loi soustrait un administrateur à sa responsabilité s’il peut prouver qu’il a agi avec autant de soin, de diligence et de compétence pour prévenir l’omission de la compagnie de verser la taxe nette perçue pour le compte de la Couronne. Le comportement de l’appelant par le passé montre que celui-ci avait un système opportun et efficace pour verser les sommes dues au gouvernement, qu’il connaissait ses obligations en vertu de la Loi, qu’il savait que les fonds publics ne devaient pas être utilisés pour financer les activités courantes de la compagnie et qu’il a toujours agi en conséquence.
+[26] Pour ces motifs, l’appel doit être accueilli, avec dépens.
+Signé à Ottawa, Canada, ce 28e jour de juin 2005.
+« Louise Lamarre Proulx »
+La juge Lamarre Proulx
+RÉFÉRENCE : 2005CCI406
+NO DU DOSSIER DE LA COUR : 2004-4212(GST)G
+INTITULÉ DE LA CAUSE : Gerard Philip Gruia c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 7 juin 2005
+MOTIFS DU JUGEMENT PAR : L’honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Christopher R. Mostovac
+Avocat de l’intimée :
+Me Pierre Zemaitis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Christopher R. Mostovac
+Étude : Starnino Mostovac
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

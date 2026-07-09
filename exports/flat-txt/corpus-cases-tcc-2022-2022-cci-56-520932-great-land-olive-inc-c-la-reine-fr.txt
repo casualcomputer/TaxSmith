@@ -1,0 +1,251 @@
+Title: Great Land (Olive) Inc. c. La Reine
+Source: https://norma.lexum.com/tcc-cci/decisions/fr/item/520932/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-56-520932-great-land-olive-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2022-06-02
+
+# Great Land (Olive) Inc. c. La Reine
+
+- Citation: 2022 CCI 56
+- Decision date: 2022-06-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5482, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Great Land (Olive) Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-06-02
+Référence neutre
+2022 CCI 56
+Numéro de dossier
+2017-2035(GST)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2017-2035(GST)G
+ENTRE :
+GREAT LAND (OLIVE) INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 29 et 30 novembre 2021, à Toronto (Ontario).
+Devant : l’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocats de l’appelante :
+Me Leigh S. Taylor
+Me Boris Stanislav
+Avocat de l’intimée :
+Me Frédéric Morand
+JUGEMENT
+Conformément aux motifs du jugement ci-joints :
+1. l’appel visant les cotisations établies en vertu de la partie IX de la Loi sur la taxe d’accise pour les périodes de déclaration ayant pris fin entre le 1er juillet 2010 et le 31 mai 2011 est rejeté;
+2. les dépens sont adjugés à l’intimée.
+Signé à Antigonish (Nouvelle-Écosse), ce 2e jour de juin 2022.
+« S. D’Arcy »
+Le juge D’Arcy
+Traduction certifiée conforme
+ce 29e jour de mai 2025.
+Karyne St-Onge, jurilinguiste principale
+Référence : 2022 CCI 56
+Date : 20220602
+Dossier : 2017-2035(GST)G
+ENTRE :
+GREAT LAND (OLIVE) INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+I. Introduction [1] L’appelante a conçu et réalisé un grand projet de condominiums appelé Mona Lisa dans le secteur de North York, à Toronto (le « projet Mona Lisa »). Le prix de vente des appartements en copropriété du projet Mona Lisa comprenait la taxe sur les produits et services (la « TPS »). L’appelante a conclu, avant novembre 2007, des contrats de vente à l’égard de plusieurs de ces appartements en copropriété. (J’utilise ci‑après le terme « appartements-condos » pour désigner ces appartements en copropriété, et le terme « contrats de vente antérieurs à novembre » pour désigner ces contrats de vente.)
+[2] Le présent appel concerne la détermination du montant de la TPS qui était payable en application de la section II de la partie IX de la Loi sur la taxe d’accise (la « Loi sur la TPS ») à la suite de la vente des appartements-condos.
+[3] La taxe prévue à la section II est celle prélevée sur les transactions intérieures. Le paragraphe 165(1) prévoit le prélèvement de la taxe prévue à la section II auprès de tout acquéreur d’une fourniture taxable effectuée au Canada. Normalement, il convient de répondre aux questions suivantes afin de déterminer le montant de la taxe payable en application du paragraphe 165(1), s’il y a lieu :
+- Le fournisseur a-t-il effectué une fourniture taxable?
+- La fourniture taxable a-t-elle été effectuée au Canada?
+- Quel était le montant de la contrepartie de la fourniture?
+- La fourniture taxable a-t-elle été effectuée dans une province participante?
+- Si la taxe est payable, qui est l’acquéreur de la fourniture?
+[4] Dans le présent appel, les parties conviennent que la taxe prévue à la section II était payable sur la vente des appartements-condos, laquelle vente constituait une fourniture taxable effectuée au Canada. Elles s’entendent également sur l’identité des acquéreurs des fournitures et sur le fait que les fournitures ont été effectuées en Ontario qui, à l’époque, n’était pas une province participante.
+[5] La question que les parties ont soulevée porte sur le montant de la TPS compris dans le prix de vente des appartements-condos et que l’appelante devait remettre.
+[6] L’appelante soutient que la TPS sur la vente des appartements-condos était payable au taux de 5 % qui était en vigueur à compter du 1er janvier 2008. Pour sa part, l’intimée soutient que la TPS était payable au taux de 6 % qui était en vigueur avant le 1er janvier 2008.
+[7] La réponse à cette question dépend de l’application de la règle transitoire pertinente, de la détermination des fournitures particulières effectuées par l’appelante et du moment où elle les a effectuées. En outre, pour répondre à cette question, la Cour doit tenir compte de l’application de l’article 133, une règle déterminative qui s’applique si une convention sur la livraison d’un bien ou la prestation d’un service a été conclue.
+[8] L’intimée soutient également que, dans les faits, l’appelante a perçu la taxe au taux de 6 %. Si l’appelante a effectivement perçu la taxe au taux de 6 %, elle devait alors remettre la taxe qu’elle avait perçue à ce taux, peu importe le taux applicable.
+[9] L’appelante a soulevé une deuxième question, celle‑ci sur la détermination du montant de la contrepartie payée par les acheteurs des appartements-condos en application du paragraphe 165(1). En particulier, la détermination de l’incidence, le cas échéant, des remboursements pour habitation résidentielle sur le calcul de la contrepartie de la fourniture des appartements-condos qui ont été vendus sur la base de la taxe comprise.
+[10] À l’audience, j’ai entendu quatre témoins.
+[11] L’appelante a fait témoigner M. Ronald Stein, M. Harvey Hirsh et M. Jose Mathew. M. Stein et M. Hirsh sont des employés de l’appelante et de sociétés connexes. M. Stein est un gestionnaire de l’aménagement de terrains pour l’appelante et des sociétés connexes. Il était responsable de guider la conception du projet Mona Lisa, de l’acquisition du terrain à l’obtention de l’approbation de la municipalité. M. Hirsh est un comptable et était responsable de la préparation des déclarations de revenus des sociétés et des annexes connexes pour l’appelante.
+[12] M. Mathew est un vérificateur de l’Agence du revenu du Canada (l’« ARC ») qui a effectué une vérification de l’appelante en mars 2008.
+[13] L’intimée a fait témoigner une personne : M. Terrance Subryon, un vérificateur de l’ARC qui, pendant la période visée, a effectué des vérifications visant des projets d’aménagement immobilier. La vérification qu’il a effectuée au sujet de l’appelante a mené à l’établissement de la cotisation en litige devant notre Cour.
+[14] J’estime que les quatre témoins étaient crédibles.
+II. Résumé des faits [15] L’appelante a été mise sur pied aux fins de la conception et de la réalisation du projet Mona Lisa. Il s’agit d’un projet comprenant un immeuble résidentiel de 28 étages et 308 appartements, ainsi que 2 maisons en rangée de 2 étages et 2 maisons en rangée superposées de 4 étages comportant 74 appartements.
+[16] M. Stein a décrit ainsi le processus de conception d’un projet comme le projet Mona Lisa :
+-l’appelante embauche un architecte;
+-l’appelante fait l’acquisition des terrains nécessaires, ce qui peut se dérouler sur plusieurs années;
+-un plan conceptuel est conçu en collaboration avec l’architecte en tenant compte du plan officiel de la municipalité concernée;
+-l’appelante organise avec la municipalité une réunion préalable à la soumission dans le but d’obtenir une rétroaction sur son plan conceptuel et de comprendre les réserves que la Ville pourrait avoir au sujet du plan de l’appelante;
+-si l’appelante est d’avis que le projet est réalisable, elle retient les services de consultants, d’architectes paysagistes, d’ingénieurs en mécanique, d’ingénieurs de structures, d’ingénieurs électriciens, de consultants en transport, de consultants en énergie éolienne, de consultants en acoustique, d’arboriculteurs, de concepteurs d’urbanisme et d’avocats, entre autres;
+-l’appelante prépare et soumet une demande pour le projet, laquelle peut comprendre des demandes de modifications du plan officiel, des modifications au règlement de zonage et un plan de site approuvé;
+-l’appelante peut entreprendre la construction après avoir reçu l’approbation de la municipalité.
+[17] M. Stein a fait remarquer qu’un projet de mise en valeur typique s’échelonne sur une période de cinq à neuf ans.
+[18] En date de 2007, l’appelante avait acquis environ 10 terrains dans le secteur de North York, à Toronto, en vue de la construction du projet Mona Lisa. Le zonage de chacun des terrains prévoyait la construction d’une maison individuelle isolée. L’appelante a donc demandé un changement de zonage pour lui permettre de construire le projet Mona Lisa.
+[19] Le 20 avril 2007, l’appelante a déposé sa demande concernant le projet Mona Lisa auprès de la Ville de Toronto[1]. Le projet n’a exigé aucune modification importante au plan officiel de Toronto, mais une modification au règlement de zonage et une approbation du plan du site étaient requises. Dans la demande, l’appelante a proposé d’acheter un terrain situé à côté d’un parc dans le secteur pour que la Ville puisse agrandir le parc. L’appelante a également indiqué, dans la demande, qu’elle achèterait la densité nécessaire pour s’assurer que le projet est conforme au plan officiel de la Ville.
+[20] L’appelante a également tenu une réunion publique avec les résidents du secteur pour recueillir leurs commentaires.
+[21] Selon M. Stein, les événements suivants se sont produits entre la date de présentation de la demande, le 20 avril 2007, et la date à laquelle l’appelante a reçu l’approbation du plan du site de la Ville de Toronto, le 28 juin 2008 :
+-Le 28 mai 2007, Toronto a accusé réception de la demande de l’appelante.
+-Le 23 octobre 2007, Toronto a accepté de vendre un petit lot à l’appelante. L’achat de ce terrain par l’appelante était une condition de la conception du projet Mona Lisa.
+-Le 18 mars 2008, le personnel compétent de la Ville de Toronto a publié un rapport recommandant l’approbation de la demande de l’appelante visant la modification du plan officiel et du règlement de zonage, ainsi que l’approbation, en principe, de la demande relative au plan du site. M. Stein a déclaré que la modification du plan officiel concernait l’espace de rangement pour les vélos.
+-Entre le dépôt de la demande et la présentation du rapport du personnel, le 18 mars 2008, l’appelante a eu de nombreuses discussions avec le personnel de la Ville concernant diverses questions, notamment au sujet de l’aménagement urbain, des égouts et de la circulation.
+-Le 29 avril 2008, la Ville a adopté le règlement de zonage requis. Le règlement énonce les critères généraux du projet, comme la surface hors œuvre des édifices, les marges de recul de la cour, la hauteur des édifices et le nombre de places de stationnement par appartement. M. Stein a indiqué qu’il s’agissait d’une ligne directrice générale pour le projet Mona Lisa.
+-Le 28 juin 2008, la Ville de Toronto a envoyé une lettre annonçant l’approbation de la demande relative au plan du site. Y étaient également énoncées des conditions relatives à des éléments comme les trottoirs, les dépôts pour les coûts d’aménagement paysager, la collecte des ordures et la propreté du chantier.
+[22] M. Stein a fait remarquer que l’appelante avait pu commencer la construction du projet Mona Lisa après avoir obtenu l’approbation du plan du site. Il semble que, pendant le processus d’approbation, la seule modification importante apportée au projet Mona Lisa, tel que proposé par l’appelante, concernait l’emplacement des escaliers de certaines maisons en rangée.
+[23] L’appelante a commencé à vendre les appartements-condos en mai 2007. L’appelante a déposé auprès de la Cour deux des contrats de vente antérieurs à novembre. Ces deux contrats portent la date du 24 mai 2007. Selon la preuve dont je dispose, les deux contrats sont identiques à tous les autres contrats de vente antérieurs à novembre que l’appelante a conclus avec les acheteurs des appartements-condos (les « acheteurs »).
+[24] Le contrat déposé en tant que pièce A-4 concerne l’appartement-condo numéro 915. Les modalités pertinentes suivantes y sont énoncées :
+-Un prix d’achat de 212 000 $ qui, conformément à l’article 18.08(b) du contrat, comprend la TPS. De plus, l’acheteur accepte de céder à l’appelante tout remboursement de la TPS lié à l’appartement-condo.
+-L’acheteur s’engage à fournir un dépôt correspondant à 25 % du prix d’achat, dont 5 500 $ payable à la signature du contrat, et 4 autres dépôts de 6 000 $, chacun payable à des intervalles de 60 jours, commençant 60 jours après la signature du contrat. Les dépôts devaient être crédités, à la conclusion de la vente, en règlement du prix d’achat de l’appartement-condo. Les dépôts pouvaient également faire l’objet d’une renonciation si l’acheteur contrevenait à certaines dispositions du contrat, et être remis à l’acheteur dans certaines situations particulières.
+-La date d’occupation provisoire est le 30 novembre 2009 et la date de conclusion de la vente est la date d’occupation, si le projet Mona Lisa est enregistré en tant que condominium à cette date, ou 10 jours suivant l’enregistrement, selon la plus tardive de ces dates.
+-L’article 7, qui prévoit que le contrat de vente est conditionnel au respect de certaines conditions. L’article 7.01, qui prévoit que le contrat et la transaction qui en découle sont conditionnels à l’obtention de ce qui suit par le vendeur :
+i) avant la date d’occupation, l’approbation de zonage et du plan du site du condominium par la municipalité,
+ii) avant la date de conclusion de la vente, le respect des dispositions relatives au lotissement de terrains de la Loi sur l’aménagement du territoire,
+iii) avant la date de conclusion de la vente, l’enregistrement par l’appelante d’un plan, d’une déclaration et d’une description de condominium,
+iv) avant la date d’occupation, un permis de construire pour la construction du condominium[2].
+-L’article 14.01(d), qui prévoit que, si les conditions énoncées à l’article 7.01 ne sont pas remplies avant les dates indiquées, l’appelante peut reporter la date de conclusion de la vente d’un maximum de 18 mois. Subsidiairement, l’appelante peut résilier le contrat de vente et retourner les dépôts.
+-L’article 7.01(b), qui prévoit que le contrat est conditionnel à ce que l’appelante, au plus tard le 7 décembre 2007, se dise satisfaite de la faisabilité et de la viabilité économiques du projet Mona Lisa ou du nombre de ventes d’appartements-condos ou de l’acceptation générale et de la qualité marchande du type d’appartement choisi par l’acheteur.
+[25] Entre le 19 octobre 2010 et le 12 novembre 2010, l’appelante a conclu des contrats de vente à l’égard d’un certain nombre d’appartements-condos conformément aux modalités des contrats de vente antérieurs à novembre. Pour ces ventes, l’appelante a ajouté la TPS percevable au taux de 5 % à son montant de taxe nette.
+[26] Le ministre ne souscrit pas à l’hypothèse de l’appelante selon laquelle la TPS devait être perçue au taux de 5 % sur les ventes conclues conformément aux contrats de vente antérieurs à novembre. Il a établi une cotisation à l’égard de l’appelante selon la prémisse que, pour ces ventes, l’appelante aurait dû ajouter la TPS percevable au taux de 6 % à son montant de taxe nette. Il a également établi que l’appelante n’avait pas droit au crédit qu’elle avait demandé à l’égard de certains remboursements pour habitation neuve que les acheteurs lui avaient cédés.
+[27] La seule question dont est saisie la Cour concerne le taux que l’appelante aurait dû appliquer lors du calcul de sa taxe nette : le taux de 5 % ou celui de 6 %. Les parties conviennent qu’aux fins du présent litige, la différence entre la taxe au taux de 5 % et celle au taux de 6 % s’élève à 894 256,06 $.
+III. La question des droits acquis [28] Le taux de TPS a été réduit de 6 % à 5 % par application de l’article 184 de la Loi d’exécution du budget et de l’énoncé économique de 2007 (le « projet de loi »)[3]. Les alinéas 184(2)a) et c) du projet de loi s’appliquent aux immeubles et prévoient que le taux de TPS de 5 % (par opposition au taux de TPS de 6 %) s’applique :
+a) à toute fourniture (sauf celle qui est réputée en vertu de l’article 191 de la même loi avoir été effectuée) effectuée après décembre 2007;
+[…]
+c) au calcul de la taxe relative à toute fourniture (sauf celle qui est réputée avoir été effectuée en vertu de la partie IX de la même loi) d’un immeuble par vente effectuée avant janvier 2008, si la propriété et la possession de l’immeuble sont transférées à l’acquéreur après décembre 2007 aux termes de la convention portant sur la fourniture, sauf s’il s’agit d’une fourniture d’immeuble d’habitation effectuée conformément à un contrat de vente, constaté par écrit, conclu avant le 31 octobre 2007;
+[…]
+[29] L’alinéa 184(2)a) prévoit que le taux de TPS de 5 % s’applique à toute fourniture effectuée après décembre 2007.
+[30] L’alinéa 184(2)c) prévoit que le taux de TPS de 5 % s’applique également à toute fourniture d’un immeuble par vente effectuée avant janvier 2008[4] si la propriété et la possession de l’immeuble sont transférées à l’acquéreur après décembre 2007 aux termes de la convention portant sur la fourniture. Cependant, le taux de TPS de 6 % s’applique s’il s’agit d’une fourniture d’immeuble d’habitation effectuée conformément à un contrat de vente, constaté par écrit, conclu avant le 31 octobre 2007.
+[31] Un immeuble d’habitation est défini, en partie, au paragraphe 123(1) de la Loi sur la TPS comme la partie constitutive d’un bâtiment qui comporte au moins une habitation, y compris les parties communes. Selon le paragraphe 123(1), le terme habitation englobe l’unité en copropriété.
+[32] Le terme immeuble d’habitation est également défini, en partie, au paragraphe 123(1) comme la partie d’un bâtiment, y compris les parties communes, qui constitue tout ou partie d’un logement en copropriété qui est, ou est destinée à être, une parcelle séparée ou une autre division d’immeuble sur lequel il y a, ou il est prévu qu’il y ait, un droit de propriété distinct des droits de propriété des autres parties du bâtiment.
+[33] Le terme logement en copropriété est défini comme suit au paragraphe 123(1) :
+Immeuble d’habitation qui est, ou est destiné à être, un espace délimité dans un bâtiment et désigné ou décrit comme étant une unité distincte sur le plan ou la description enregistrés afférents, ou sur un plan ou une description analogues enregistrés en conformité avec les lois d’une province, ainsi que tous droits et intérêts fonciers afférents à la propriété de l’unité.
+[34] Il n’est pas contesté que les appartements-condos sont des immeubles d’habitation.
+[35] Il n’est pas non plus contesté que l’appelante a transféré la propriété et la possession des appartements-condos aux acheteurs après décembre 2007 aux termes des contrats de vente écrits.
+[36] Cependant, l’appelante soutient que les fournitures en question ont été effectuées après décembre 2007. L’appelante estime que [traduction] « les contrats n’ont pas été conclus à la date de leur signature. Rien ne pouvait faire l’objet d’une vente. Aucune demande de vente n’avait encore été présentée[5] ». L’avocat de l’appelante soutient que le projet Mona Lisa n’existait pas en mai 2007 puisque la Ville de Toronto n’avait pas encore approuvé la demande relative au plan du site, ni adopté le règlement de zonage requis, ni approuvé la modification du plan officiel concernant l’espace de rangement pour les vélos.
+[37] L’intimée soutient que les fournitures en question ont été effectuées avant janvier 2008 conformément aux contrats de vente écrits conclus avant le 31 octobre 2007.
+A. L’appelante a-t-elle effectué une fourniture en mai 2007 lorsqu’elle a conclu les contrats de vente? [38] La question clé consiste à déterminer si l’appelante a effectué la fourniture des appartements-condos par vente avant janvier 2008.
+[39] Selon le paragraphe 123(1), la fourniture est, sous réserve des articles 133 et 134, la livraison de biens ou la prestation de services, notamment par vente, transfert, troc, échange, louage, licence, donation ou aliénation. Je m’attarde à l’article 133 ci‑dessous. L’article 134 n’est pas pertinent aux fins du présent appel.
+[40] La Loi sur la TPS définit également les termes bien et service.
+[41] Le terme bien est défini de manière générale au paragraphe 123(1) comme étant, à l’exclusion d’argent, tous biens – meubles et immeubles – tant corporels qu’incorporels, y compris un droit quelconque, une action ou une part.
+[42] Selon le paragraphe 123(1), un service est tout ce qui n’est ni un bien, ni de l’argent, ni fourni à un employeur par une personne qui est un salarié de l’employeur, un fonctionnaire ou certaines autres personnes. La définition du terme service est très large. Si une chose n’est pas un bien, de l’argent ou ce qu’on pourrait appeler un « service fourni par un employé », alors on considère qu’il s’agit d’un service.
+[43] Compte tenu du sens large que peuvent avoir les termes fourniture, bien et service, la fourniture de quoi que ce soit de quelque manière que ce soit constituera une fourniture au sens de la Loi sur la TPS.
+[44] L’appelante a fourni quelque chose lors de la conclusion des contrats de vente antérieurs à novembre avec chacun des acheteurs. Ce quelque chose était le droit accordé à chaque acheteur d’acquérir, au prix indiqué dans le contrat, l’appartement-condo désigné dans le même contrat. L’acquisition par l’acheteur de l’appartement-condo désigné peut avoir été conditionnelle au respect des conditions énoncées dans le contrat de vente antérieur à novembre, mais, sous réserve des conditions, l’appelante a accepté de construire l’appartement‑condo et de le vendre à l’acheteur, et l’acheteur a accepté d’acheter l’appartement-condo. Autrement dit, l’acheteur a acquis le droit d’acheter, une fois les conditions remplies, l’appartement-condo désigné dans le contrat de vente antérieur à novembre.
+[45] À mon avis, il s’agit d’une fourniture ayant été effectuée lorsque l’appelante a conclu le contrat de vente antérieur à novembre avec l’acheteur. L’appelante a accordé à l’acheteur le droit exclusif d’acquérir l’appartement-condo désigné dans la mesure où les conditions étaient remplies et que le projet Mona Lisa était construit et enregistré en tant que condominium. Il s’agit d’une fourniture puisque quelque chose a été fourni.
+[46] Aux fins de la Loi sur la TPS, ce quelque chose est la fourniture d’un bien par vente. Comme je le mentionne ci-dessus, le bien est défini comme étant, notamment, un droit quelconque. En signant le contrat de vente, l’acheteur a acquis le droit dont il est question précédemment à l’égard de l’appartement-condo désigné dans le contrat de vente antérieur à novembre.
+[47] L’article 18.03 du contrat de vente antérieur à novembre est une autre preuve qu’une fourniture a été effectuée à la signature du contrat par les parties. Selon cet article, le contrat, une fois accepté par les deux parties, constitue un contrat de vente exécutoire. Autrement dit, l’acheteur a acquis un droit au moment où les parties ont signé le contrat de vente visant l’appartement-condo désigné.
+[48] Toujours selon le contrat de vente, l’acheteur peut céder son droit à l’égard de l’appartement-condo désigné à un membre de sa famille sans le consentement de l’appelante, ou à un tiers avec le consentement de l’appelante. Les éléments de preuve dont je dispose révèlent que, pour certains acheteurs, l’appelante a consenti à la cession du droit à un tiers. Le contrat prévoit la cession du droit en question, ce qui démontre une fois de plus qu’un droit a été accordé lors de la conclusion du contrat.
+[49] En outre, aux fins de l’application de la Loi sur la TPS, la fourniture en question est la fourniture d’un immeuble. Selon la définition du terme « immeuble », prévue au paragraphe 123(1) de cette loi, les immeubles comprennent, ailleurs qu’au Québec, tous droits afférents aux immeubles. L’appelante ayant fourni un droit afférent à l’appartement-condo désigné, elle a effectué la fourniture d’un immeuble. En fait, cette fourniture a été effectuée au moment où l’appelante et l’acheteur ont conclu le contrat de vente antérieur à novembre.
+[50] Que la TPS fut payable ou non à la conclusion des contrats de vente n’est d’aucune utilité pour déterminer si une fourniture a été effectuée au moment où les parties ont conclu le contrat. Des règles quant au moment où la TPS est payable sont énoncées dans la Loi sur la TPS, mais ces règles ne sont pas pertinentes pour déterminer si une fourniture a effectivement été effectuée. Ce n’est que lorsqu’il est établi qu’une fourniture a été effectuée que ces règles s’appliquent pour déterminer le moment où la taxe applicable à la fourniture est effectivement payable par l’acquéreur de la fourniture.
+[51] Par exemple, le paragraphe 168(9) prévoit, en effet, que la TPS n’est payable relativement à un dépôt que si ce dépôt est appliqué au prix d’achat ou fait l’objet d’une renonciation. De même, le paragraphe 168(5) précise le moment où la taxe est payable à l’égard de la fourniture taxable d’un immeuble. Ces paragraphes ne sont pertinents que s’il est d’abord déterminé qu’une fourniture taxable a été effectuée.
+[52] Même si la conclusion des contrats de vente antérieurs à novembre n’a pas mené à une fourniture par vente au sens de la définition de « fourniture », la conclusion d’un tel contrat est réputée constituer une fourniture par vente aux fins de l’article 133. Comme je le mentionne plus haut, la définition de « fourniture » énoncée au paragraphe 123(1) est assujettie à l’application de l’article 133.
+[53] L’article 133 se veut une règle anti-évitement précisant que la conclusion d’une convention portant sur la livraison du bien ou la prestation du service constitue une fourniture. Les paiements anticipés effectués avant le transfert du bien ou la prestation du service sont ainsi assujettis à la TPS[6]. Son application est cependant très large.
+[54] L’article se lit ainsi :
+Convention portant sur une fourniture
+Pour l’application de la présente partie, la fourniture objet d’une convention est réputée effectuée à la date de conclusion de la convention. La livraison du bien ou la prestation du service aux termes de la convention est réputée faire partie de la fourniture et ne pas constituer une fourniture distincte.
+[55] L’article s’applique lorsqu’une convention portant sur la livraison d’un bien ou la prestation d’un service est conclue. La condition d’application de l’article 133 ne renvoie pas à la réalisation d’une fourniture. Elle renvoie à la conclusion d’une convention portant sur la livraison d’un bien ou la prestation d’un service. La conclusion de la convention constitue une fourniture aux termes de cet article.
+[56] De plus, rien dans l’article ne permet de conclure à l’exigence d’une convention non conditionnelle portant sur la livraison du bien ou la prestation du service. Il suffit que les parties aient conclu une convention portant sur la livraison du bien ou la prestation du service. Comme je l’indique plus haut, l’appelante et les acheteurs reconnaissent, à l’article 18.03, que les contrats de vente antérieurs à novembre constituaient des contrats de vente exécutoires.
+[57] De plus, l’utilisation des mots « if any » à l’alinéa 133b) de la version anglaise de la Loi sur la TPS appuie la conclusion selon laquelle, aux fins de l’application de l’article 133, une convention conditionnelle demeure une convention. L’utilisation des mots « if any » dans la version anglaise couvre la situation où les parties ont conclu une convention, mais où aucun bien n’a été effectivement livré ou aucun service n’a été effectivement fourni au titre de cette convention.
+[58] Également, l’application de l’article 133 n’est pas conditionnelle à l’existence des appartements-condos au moment où les parties ont conclu les contrats de vente antérieurs à novembre. Ainsi que le juge Stratas l’a déclaré au paragraphe 101 de l’arrêt Canada c. Cheema, 2018 CAF 45 :
+Le fait que l’habitation de M. Cheema n’existait pas au moment où il a signé le contrat de vente ne rend pas l’article 133 inopérant […] L’article 133 constitue une disposition déterminative. Or, les dispositions déterminatives sont source de fictions juridiques : elles présument de l’existence de choses irréelles, comme la fourniture d’une habitation à construire. Le fait de laisser entendre que le législateur n’avait pas l’intention de faire appliquer la règle sur la fourniture réputée, au motif que la fourniture ne pourrait pas, dans les faits, se produire, équivaudrait à saper l’objet sous[-]tendant l’adoption, initialement, d’une disposition déterminative.
+[59] Une fois l’application de l’article 133 reconnue, deux choses sont réputées se produire. Premièrement, la fourniture objet de la convention est réputée effectuée à la date de conclusion de la convention. Deuxièmement, la livraison du bien ou la prestation du service aux termes de la convention est réputée faire partie de la fourniture et ne pas constituer une fourniture distincte.
+[60] Dans le présent appel, il n’est pas contesté que la question de savoir si la convention porte sur la livraison d’un bien ou la prestation d’un service en est une de fait. Il y a eu, entre l’appelante et chacun des acheteurs, conclusion de conventions (les contrats de vente antérieurs à novembre) sur la livraison d’un bien (les appartements-condos). Que ces conventions aient été assujetties à certaines conditions ne change rien au fait que les conventions portaient sur la livraison d’un bien.
+[61] En outre, chacun des acheteurs a finalement acheté son appartement-condo conformément aux modalités des contrats de vente antérieurs à novembre.
+[62] Aux termes de l’article 133, une fourniture est réputée avoir été effectuée au moment où l’appelante et l’acheteur ont conclu le contrat de vente antérieur à novembre, en vertu duquel l’appelante a accordé à l’acheteur le droit d’acheter un appartement-condo. En outre, le transfert réel de la propriété de l’appartement‑condo de l’appelante à l’acheteur en vertu du contrat de vente antérieur à novembre est réputé, aux termes de l’article 133, faire partie de la fourniture de l’appartement-condo effectuée au moment de la signature du contrat de vente antérieur à novembre, et ne pas constituer une fourniture distincte.
+[63] En conséquence, en application de l’article 133, chacune des ventes d’appartement-condo de l’appelante aux acheteurs conformément aux contrats de vente antérieurs à novembre est réputée être une fourniture d’un immeuble par vente effectuée avant janvier 2008. Chacune de ces fournitures ayant été effectuée aux termes d’un contrat de vente constaté par écrit pour un immeuble d’habitation conclu avant le 31 octobre 2007, la fourniture des appartements-condos a été taxée au taux de 6 %, conformément à l’alinéa 184(2)c) du projet de loi.
+[64] Ma conclusion est conforme au contenu des notes explicatives du ministère des Finances concernant la règle transitoire, dans lesquelles est fourni l’exemple suivant :
+L’acheteur d’un immeuble d’habitation qui conclut, avant le 31 octobre 2007 mais après le 2 mai 2006, un contrat de vente de l’immeuble constaté par écrit, mais qui n’acquiert la propriété et la possession de l’immeuble qu’après décembre 2007, est tenu de payer la taxe prévue au paragraphe 165(1) au taux de 6 % sur la valeur de la contrepartie de la fourniture. Il peut toutefois avoir droit à un remboursement transitoire au titre de l’achat en vertu du nouvel article 256.74 de la loi […][7]
+[65] La situation en l’espèce est exactement la même. À la fin de 2007, le gouvernement a décidé de réduire le taux de TPS de 6 % à 5 %. Cette modification, que le ministre des Finances a annoncée le 30 octobre 2007, est entrée en vigueur le 1er janvier 2008. De toute évidence, le législateur a décidé que, si les parties concluaient un contrat de vente après la date de l’annonce, mais avant janvier 2008, elles bénéficieraient du taux réduit de 5 % dans la mesure où la conclusion de la transaction avait lieu après décembre 2007. Cependant, l’intention n’a jamais été d’appliquer cette modification aux parties qui avaient conclu un contrat de vente avant la date de l’annonce du gouvernement au sujet de la réduction du taux de TPS à 5 %.
+B. La taxe a-t-elle été perçue au taux de 6 %? [66] En plus d’affirmer que la taxe à l’égard de la fourniture a été perçue au taux de 6 %, l’intimée soutient que, indépendamment de l’application de la règle transitoire, l’appelante devait verser le montant de la taxe visé par la cotisation, puisqu’elle avait perçu la TPS au taux de 6 %. Je souscris à l’avis de l’intimée sur cette question.
+[67] Tout inscrit au registre de la TPS, comme l’appelante, est tenu, en application de l’article 228, de calculer sa taxe nette pour chacune des périodes de déclaration de la TPS visées et de verser cette taxe.
+[68] Conformément au paragraphe 225(2), la taxe nette pour une période de déclaration donnée correspond à la somme obtenue par la formule « A – B », où « A » représente le total de tous les montants devenus percevables et les autres montants perçus par la personne au cours de la période donnée au titre de la taxe prévue à la section II, et de tous les montants à ajouter aux termes de la partie IX dans le calcul de la taxe nette de la personne pour la période donnée; et où « B » représente, de façon générale, la déduction des crédits de taxe sur les intrants.
+[69] L’élément clé est qu’une personne doit ajouter des montants à sa taxe nette et verser tous les montants qu’elle perçoit au titre de la taxe. Il est bien établi que les montants perçus au titre de la taxe comprennent ceux perçus par erreur.
+[70] Par conséquent, même si la taxe était percevable au taux de 5 %, l’appelante devait verser les montants qu’elle avait perçus au taux de 6 %, puisqu’il s’agit de montants perçus au titre de la taxe.
+[71] Selon l’article 18.08 des contrats de vente antérieurs à novembre, le prix d’achat comprend la TPS. Toujours selon cet article, l’appelante s’engage à verser la TPS payée après la date de conclusion de la vente, conformément aux dispositions de la Loi sur la TPS[8].
+[72] La position de l’appelante est que la TPS comprise dans le prix d’achat et payée par les acheteurs était percevable au taux de 5 %, et non au taux de 6 %. Ce n’est pas ce qui ressort des éléments de preuve dont je dispose.
+[73] En particulier, les pièces AR-7 et AR-8 montrent que l’appelante a perçu la TPS au taux de 6 %. Chacune de ces pièces contient un état des redressements préparé par l’avocat de l’appelante en vue de la conclusion de la vente de deux appartements-condos. Selon les éléments de preuve dont je dispose, la méthode utilisée par l’avocat de l’appelante et illustrée dans les pièces AR-7 et AR‑8 pour calculer la TPS payable a été utilisée pour la conclusion de la vente de tous les appartements-condos.
+[74] Chacun des états des redressements comprend une section intitulée [traduction] « TPS sur la contrepartie totale ». Selon ce qui est indiqué dans cette section, la TPS est calculée au taux de 6 % de la contrepartie totale. Cette somme est ensuite qualifiée de TPS payable par l’acheteur.
+[75] M. Hirsh a affirmé que le cabinet d’avocats de l’appelante, Owens Wright, a avisé l’appelante que le logiciel commercial utilisé par le cabinet indiquait un taux de 6 %. M. Hirsh a fait remarquer que le cabinet d’avocats a ensuite avisé l’appelante qu’il s’agissait d’une erreur.
+[76] Qu’il s’agisse ou non d’une erreur, l’appelante a perçu la taxe au taux de 6 %. Qui plus est, selon les éléments de preuve dont je dispose, les acheteurs croyaient que la taxe était calculée au taux de 6 %. À la page 361 de la pièce R-45 se trouve un formulaire de demande de remboursement de la TPS/TVH pour habitation neuve signé par l’un des acheteurs. Selon ce formulaire, l’acheteur a calculé le montant du remboursement en tenant compte de la taxe qu’il avait payée à l’appelante, laquelle taxe équivalait à 6 % du prix d’achat. En fait, l’acheteur certifie qu’il a payé la taxe au taux de 6 %.
+[77] M. Subryon a déclaré que tous les acheteurs qui ont demandé un remboursement pour habitation neuve en 2010 relativement à l’achat d’appartements-condos conformément aux contrats de vente antérieurs à novembre se sont fondés sur le taux de TPS de 6 %. Cette information correspond à ce qui est indiqué dans les états des redressements figurant dans les pièces AR-7 et AR-8 et selon lesquels le montant du remboursement pour habitation neuve a été calculé en tenant compte de la TPS payable au taux de 6 %.
+[78] Au vu de cette preuve, j’estime qu’en fait, la TPS payée par les acheteurs et perçue par l’appelante correspond à 6 % du prix d’achat indiqué dans les états des redressements.
+C. La TPS a-t-elle été calculée correctement? [79] Le dernier élément à examiner porte sur le calcul du montant de la taxe payable au taux de TPS de 6 %. L’appelante soutient que, peu importe le taux de taxe applicable, son avocat et l’ARC ont tous deux calculé incorrectement le montant de la TPS payable par chaque acheteur.
+[80] Je suis d’accord avec l’avocat de l’appelante.
+[81] Comme je le mentionne plus haut, chacun des contrats de vente antérieurs à novembre prévoit un prix d’achat particulier. Par exemple, selon l’article 1.02 du contrat de vente pour l’appartement 915, le prix d’achat est de 212 000 $[9]. Selon l’article 18.08 du contrat, la TPS est comprise dans le prix d’achat. Par ailleurs, selon la pièce AR‑8, qui est l’état des redressements pour la vente réelle de l’appartement 915, l’acheteur de l’appartement 915 a accepté de payer une contrepartie supplémentaire de 1 104,34 $. Les éléments de preuve dont je dispose montrent que cette contrepartie supplémentaire était associée à des « extras » et comprenait la TPS. Ainsi, l’appelante et l’acheteur ont convenu que l’acheteur paierait une contrepartie totale de 213 104,34 $ pour l’appartement 915, et les parties ont convenu que cette contrepartie comprenait la TPS.
+[82] Le paragraphe 223(1) de la Loi sur la TPS prévoit notamment que, lorsque le fournisseur d’une fourniture taxable effectue cette fourniture taxable conformément à une convention écrite, il doit indiquer dans le contrat de vente la contrepartie payée ou payable par l’acquéreur pour la fourniture et la taxe payable relativement à celle-ci, de sorte que le montant de la taxe apparaisse clairement. Autrement, le fournisseur peut indiquer que le montant payé ou payable par l’acquéreur pour la fourniture comprend la taxe payable relativement à la fourniture.
+[83] L’appelante a choisi de recourir à la deuxième option, donc d’indiquer que le montant payable par les acheteurs comprend la taxe payable relativement à la fourniture.
+[84] Conformément au paragraphe 165(1), la taxe payable relativement à la fourniture d’un appartement-condo correspondait à 6 % de la valeur de la contrepartie de la fourniture. Lorsqu’une personne vend des biens et des services sur la base de la taxe comprise, la contrepartie de la fourniture est calculée en multipliant la contrepartie comprenant la taxe par la fraction de cette contrepartie. Par exemple, si le taux de TPS applicable est de 6 %, la fraction de la contrepartie est de 100/106e, et si le taux applicable est de 13 %, alors la fraction de la contrepartie est de 100/113e.
+[85] Ainsi, l’on s’attendrait à ce que l’appelante et l’ARC calculent la contrepartie comme correspondant au 100/106e du prix d’achat convenu de 213 104,34 $ pour l’appartement 915, soit 201 041,83 $. L’acheteur aurait ainsi à payer une taxe correspondant à 6 % de 201 041,83 $ (12 062,51 $), pour un total payé de 213 104,34 $ (soit le prix d’achat de 212 000 $, taxe comprise, indiqué dans le contrat de vente, plus la contrepartie supplémentaire convenue de 1 104,34 $, taxe comprise).
+[86] Cependant, ce n’est pas ainsi que l’appelante et l’ARC ont calculé la contrepartie et la TPS payable. C’est ce qui ressort de l’état des redressements figurant à la pièce AR-8. L’état des redressements décrit d’abord le calcul de ce que l’appelante appelle le prix de vente net :
+-Prix de vente convenu conformément au contrat de vente, soit 212 000 $, TPS comprise.
+-Plus la contrepartie supplémentaire de 1 104,34 $, TPS comprise.
+-Total de 213 104,34 $, TPS comprise, pour la contrepartie totale convenue.
+-Cependant, au lieu d’appliquer la fraction de taxe de 100/106e à la contrepartie convenue sur la base de la taxe comprise, l’appelante a calculé la TPS sur une contrepartie de 205 223,75 $. La TPS payable s’élevait donc à 12 313,42 $ (6 % de 205 223,75 $). Ensemble, la contrepartie de 205 223,75 $, utilisée par l’avocat de l’appelante et l’ARC, et la TPS de 12 313,42 $ représentent un total de 217 537,17 $. Autrement dit, l’appelante et l’ARC ont calculé la TPS payable en tenant compte de la contrepartie totale de 217 537,17 $, taxe comprise, et non de la somme de 213 104,34 $ convenue par les parties.
+[87] Dans son calcul de la TPS payable, l’appelante surévalue de 4 432,83 $ la contrepartie convenue (217 537,17 $ − 213 104,34 $) et donc de 250,91 $ la TPS payable (12 313,42 $ − 12 062,50 $, ou 6/106e de 4 432,83 $). Les éléments de preuve dont je dispose montrent que cette erreur concerne tous les acheteurs des appartements-condos.
+[88] M. Subryon a expliqué que la différence entre la contrepartie calculée sur la base de la taxe comprise au sujet de laquelle l’appelante et les acheteurs s’étaient entendus et la contrepartie utilisée par l’avocat de l’appelante et l’ARC pour calculer la TPS payable correspond au remboursement de la TPS pour habitation neuve. M. Subryon a affirmé que l’ARC et l’avocat de l’appelante ont considéré le remboursement pour habitation neuve comme faisant partie du prix de vente convenu.
+[89] L’avocat de l’appelante et l’ARC ont tous deux déterminé que la contrepartie aux fins du calcul de la TPS correspondait à la somme de la contrepartie convenue par les parties, soit 213 104,34 $, et du remboursement de la TPS pour habitation neuve de 4 432,83 $ demandé par l’acheteur et cédé à l’appelante[10]. L’avocat de l’appelante et l’ARC ont ensuite appliqué la fraction de taxe de 100/106e à cette somme de 217 537,17 $ pour obtenir la contrepartie de 205 223,75 $. La TPS a ensuite été calculée au taux de 6 % sur la somme de 205 223,75 $, soit 12 313,42 $.
+[90] Je souscris à l’observation de l’avocat de l’appelante selon laquelle ce calcul est tout simplement incorrect. Le total de la contrepartie de la fourniture aux termes du contrat de vente et de la contrepartie supplémentaire est de 213 104,34 $. La TPS est calculée en tenant compte de la contrepartie réelle de la fourniture ayant été convenue par les parties. Elle n’est pas calculée en tenant compte de la contrepartie convenue et du remboursement de la TPS que l’acheteur peut obtenir s’il est en mesure de satisfaire aux conditions de remboursement pertinentes au moment de la conclusion de la vente.
+[91] M. Hirsh a déclaré que l’avocat de l’appelante avait avisé cette dernière que les contrats de vente antérieurs à novembre ne contiennent aucun article permettant un redressement de la contrepartie convenue à l’article 1.02 des contrats. C’est ce qui ressort de l’interprétation que je fais du contrat.
+[92] Selon un article des contrats de vente antérieurs à novembre, si l’acheteur ne satisfait pas aux conditions pour l’obtention du remboursement de la TPS, il doit payer le montant du remboursement à l’appelante. Si l’acheteur effectue un tel paiement, ce paiement peut constituer une contrepartie. À défaut, cela pourrait constituer un remboursement du remboursement de la TPS crédité à l’acheteur à la conclusion de la vente. Quoi qu’il en soit, rien n’indique, dans les éléments de preuve dont je dispose, que l’un ou l’autre des acheteurs a payé à l’appelante une somme relativement au remboursement de la TPS.
+[93] En résumé, le taux de la TPS payable est surévalué à 6 % dans l’état des redressements. Cependant, puisque l’appelante a perçu cette TPS supplémentaire, elle était tenue de l’ajouter à sa taxe nette pour la période de déclaration visée.
+[94] Pour les motifs qui précèdent, l’appel est rejeté avec dépens en faveur de l’intimée.
+Signé à Antigonish (Nouvelle-Écosse), ce 2e jour de juin 2022.
+« S. D’Arcy »
+Le juge D’Arcy
+Traduction certifiée conforme
+ce 29e jour de mai 2025.
+Karyne St-Onge, jurilinguiste principale
+RÉFÉRENCE :
+2022 CCI 56
+NO DU DOSSIER DE LA COUR :
+2017-2035(GST)G
+INTITULÉ :
+GREAT LAND (OLIVE) INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto
+DATE DE L’AUDIENCE :
+Les 29 et 30 novembre 2021
+MOTIFS DU JUGEMENT :
+L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT :
+Le 2 juin 2022
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Leigh S. Taylor
+Me Boris Stanislav
+Avocat de l’intimée :
+Me Frédéric Morand
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Leigh S. Taylor
+Cabinet :
+Leigh Somerville Taylor Professional Corporation
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-3.
+[2] Pièce A-4.
+[3] L.C. 2007, ch. 35.
+[4] Autre que la fourniture réputée.
+[5] Transcription de l’audience du 29 novembre 2021, p. 8.
+[6] Voir les notes explicatives du ministère des Finances, mai 1990.
+[7] Voir les notes explicatives du ministère des Finances, novembre 2007.
+[8] Voir la pièce A-4, onglets A et B.
+[9] Voir la pièce A-4, onglet A.
+[10] Voir la pièce AR-8.

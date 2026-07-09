@@ -1,0 +1,182 @@
+---
+title: "Ghumman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/407147/index.do"
+last_modified: "2019-05-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 125"
+citation2: ""
+neutral_citation: "2019 TCC 125"
+decision_date: "2019-05-29"
+language: "en"
+item_id: "407147"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4367
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:10:56.263000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6c28cf628a0aa778cbfb02cc2322700fff787cfb944e152dd2b9a2bd6366541b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ghumman v. The Queen
+
+- Citation: 2019 TCC 125
+- Decision date: 2019-05-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4367, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ghumman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-05-29
+Neutral citation
+2019 TCC 125
+File numbers
+2017-3930(IT)I
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-3930(IT)I
+BETWEEN:
+SUKHJIT S. GHUMMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 28, 2019, at Toronto, Ontario
+By: The Honourable Justice Don R. Sommerfeldt
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Priya Bains
+JUDGMENT
+The Appeal from the reassessment made under the Income Tax Act with respect to the 2014 taxation year is dismissed, without costs.
+Signed at Ottawa, Canada, this 29th day of May 2019.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+Citation: 2019 TCC 125
+Date: 20190529
+Docket: 2017-3930(IT)I
+BETWEEN:
+SUKHJIT S. GHUMMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sommerfeldt J.
+I. INTRODUCTION
+[1] These Reasons pertain to the Appeal instituted by Sukhjit S. Ghumman in respect of a reassessment (the “Reassessment”) issued by the Canada Revenue Agency (the “CRA”), on behalf of the Minister of National Revenue (the “Minister”), for Mr. Ghumman’s 2014 taxation year.
+II. FACTS
+[2] In 2014, Mr. Ghumman was a life insurance broker, employed by a corporation, Ghumman Financial Planning Inc. (“GFP”). Very little evidence concerning GFP was presented, but it appears that Mr. Ghumman was the majority, if not only, shareholder of GFP and was a director and officer of GFP. Mr. Ghumman provided life insurance brokerage services on behalf of, and as an employee of, GFP. The commissions in respect of any life insurance policies placed through the services of Mr. Ghumman were paid to, and received by, GFP. GFP paid a salary to Mr. Ghumman for the services that he provided on its behalf.
+[3] In 2014, Mr. Ghumman purchased a life insurance policy (the “Policy”), with a benefit amount of $1,000,000, on his own life. The insurer, and the issuer of the Policy, was The Canada Life Assurance Company (“Canada Life”), which paid a first-year commission in the amount of $20,822.41 to GFP. As well, a bonus commission in the amount of $36,439.22 was paid in respect of the Policy by Canada Loyal Insurance Agency Limited (“Canada Loyal”) to GFP. Thus, the total of the commissions (the “Commissions”) paid to GFP in 2014 in respect of the Policy was $57,261.63. [1]
+[4] Mr. Ghumman produced copies of seven Statements of Pension, Retirement, Annuity, and Other Income (Form T4A) (the “T4A Slips”) for the 2014 taxation year. [2] Six of the T4A Slips showed GFP as the recipient of commissions, and one of the T4A Slips showed Mr. Ghumman as the recipient of the commission noted thereon. The T4A slip addressed to Mr. Ghumman personally was issued by Canada Life, but its amount was only $1,066.84; therefore, it did not pertain to the Commissions in respect of the Policy. The T4A Slip issued by Canada Life to GFP showed that in 2014 Canada Life paid to GFP aggregate commissions in the amount $36,600.60, which presumably included the first-year commission in the amount of $20,822.41 in respect of the Policy. The T4A Slip issued by Canada Loyal to GFP showed commissions in the amount of $101,863.09, which presumably included the bonus commission in the amount of $36,439.22 paid by Canada Loyal to GFP in respect of the Policy.
+[5] In 2014, GFP paid a salary of $111,617 to Mr. Ghumman. Relying on a CRA administrative policy, which will be discussed below, in computing his income for 2014, Mr. Ghumman deducted from his salary the amount of $57,261.53 (i.e., $20,822.41 + $36,439.22), representing the total of the Commissions in respect of the Policy. The CRA issued the Reassessment to disallow the deduction of the Commissions, whereupon Mr. Ghumman commenced this Appeal.
+III. ADMINISTRATIVE POLICY
+[6] In computing his income for 2014, Mr. Ghumman relied on the administrative policy of the CRA set out in paragraph 27 of Interpretation Bulletin IT-470R, as follows:
+… A commission received by a sales employee on merchandise acquired for that employee’s personal use is not taxable. Similarly, where a life insurance salesperson acquires a life insurance policy, a commission received by that salesperson on that policy is not taxable provided the salesperson owns that policy and is obligated to make the required premium payments thereon. [3]
+[7] The CRA referred to, and qualified, the above administrative policy, in a Technical Interpretation issued on January 9, 2012:
+We are writing in response to your letter of March 24, 2011, concerning the taxation of commissions received by you on the purchase of personal insurance policies owned by you. You have also enquired whether the commissions you received on the purchase of personal insurance policies for your spouse and your dependants are taxable as income to you. You have stated that you are personally obligated to pay the premiums for all the policies.
+Generally, commissions received by a salesperson is [sic] taxable, either under section 5 or section 9 of the Income Tax Act (the "Act"), depending on whether the particular salesperson is an employee or self-employed.
+However, Interpretation Bulletin IT-470R, Employees' Fringe Benefits Consolidated, outlines the administrative position of the Canada Revenue Agency (CRA) concerning non-taxable commissions received on personal sales. In particular, paragraph 27 of IT-470R, states, in part:
+...where a life insurance salesperson acquires a life insurance policy, a commission received by that salesperson on that policy is not taxable provided the salesperson owns that policy and is obligated to make the required premium payments thereon.
+It has been the view of the CRA that the above-noted administrative position does not apply where the amount of the commission received is significant and/or the particular life insurance policy has an investment component or a business use.
+In Jacques Bilodeau v. Her Majesty the Queen, … 2009 DTC 1757, the Tax Court of Canada (TCC) addressed the issue of whether the commissions received by a life insurance agent on a personal life insurance policy was [sic] taxable. The TCC found that the commission income was fully taxable as business income in the hands of the agent, who was an independent agent. The commission income received by the taxpayer was significant and the insurance policies appeared to have an investment component.
+Although the final TCC decision in Bilodeau is consistent with the CRA's administrative policy on commissions received by a salesperson on the purchase of life insurance policies for themselves, the comments of the TCC regarding the CRA's statements in paragraph 27 of IT-470R was [sic] of concern to the CRA and it is currently reviewing its administrative policy. Any changes in the policy will be applied on a prospective basis and will be publicly announced. [4]
+[8] Interpretation Bulletin IT-470R was replaced by Income Tax Folio S2-F3-C2, Benefits and Allowances Received from Employment (dated July 7, 2016, which was after the taxation year that is the subject of this Appeal). It is my understanding that Folio S2-F3-C2 is currently under review. Paragraph 2.28 of the Folio states that employee discounts (such as those described in paragraph 27 of Interpretation Bulletin IT-470R) are generally to be included in income by reason of paragraph 6(1)(a) of the Income Tax Act (the “ITA”). [5] Paragraph 2.68 of the Folio indicates that the CRA’s administrative policy concerning life insurance commissions may be found in Employers’ Guide T4130, the relevant portion of which states:
+Commissions that sales employees receive on merchandise they buy for personal use are not a taxable benefit. Similarly, when life insurance salespeople acquire life insurance policies, the commissions they receive are not taxable as long as they own the policies and have to make the required premium payments. This only applies where the income received is not significant and the insurance policy has no investment component or business use. [6]
+[9] In the Notice of Confirmation, which was issued on July 11, 2017, the CRA advised Mr. Ghumman that its administrative policy did not apply to Mr. Ghumman because the CRA was of the view that the amount of the Commissions (i.e., $57,261.63) was significant. [7]
+IV. ISSUE
+[10] The issue in this Appeal is whether, in computing his income from employment in 2014, Mr. Ghumman may deduct the amount of $57,261.63 (being the amount of the Commissions in respect of the Policy) from his salary in the amount of $111,617.
+V. ANALYSIS
+A. Legislation
+[11] In 2014, Mr. Ghumman was an employee of GFP, and, as such, earned employment income. He was not carrying on business as a sole proprietor, and thus, did not earn business income. However, GFP was carrying on a business and earned business income in 2014.
+[12] Subsection 5(1) of the ITA states that “a taxpayer’s income for a taxation year from … employment is the salary, wages and remuneration … received by the taxpayer in the year.” For the most part, the deductions that an employee may claim, in computing his or her income from employment, are set out in section 8 of the ITA. [8] There is nothing in section 8 that permits Mr. Ghumman, in computing his income from employment in 2014, to deduct the commissions received by GFP in respect of the Policy. Although section 60 of the ITA sets out a number of items that may be deducted in computing a taxpayer’s income, there is nothing in that section which would permit Mr. Ghumman, in computing his income for 2014, to deduct the Commissions received by GFP in respect of the Policy.
+B. Jurisprudence
+[13] Counsel for the Crown referred me to the Bilodeau case, [9] which was also referred to in the above-mentioned Technical Interpretation. Although Mr. Bilodeau was a life insurance broker, it appears that the payment of his compensation was structured differently from that of Mr. Ghumman. The arrangement concerning the payment of Mr. Bilodeau’s commissions was described by Justice Lamarre (as she then was) as follows:
+I will now come back to the issue in this case, that is, the amount of $43,115 in commissions received by the Appellant in 2003. The Appellant is a life insurance broker and he earns his income from commissions from companies for which he sells life insurance policies. He is a consultant for Force Financière Excel (“Excel”), which plays the role of intermediary between the insurance company and the consultant. The Appellant is entitled to a base salary of 65 per cent of client premiums over the course of the first year on an insurance policy. To that is added an additional commission of 135 per cent of the base salary which the Appellant receives because he is on the list of best salespersons. The additional commission was negotiated between the Appellant and Excel. It is the insurance company for which the insurance policy is sold that pays the Appellant’s full salary, upon the instruction of Excel. [10]
+As I read the above description of Mr. Bilodeau’s compensation arrangement, it is my understanding that he was carrying on business as a consultant, rather than being employed by either Excel or the insurance companies for which he sold policies. [11] As well, the commissions were paid by the insurers to Mr. Bilodeau (which is different from Mr. Ghumman’s situation, where the commissions were paid to GFP).
+[14] Mr. Bilodeau acquired two universal life insurance policies, one in which he was the insured and his wife was the beneficiary, and another in which his wife was the insured and he was the beneficiary. In computing his income, Mr. Bilodeau deducted the commissions that related to those two policies, relying on Interpretation Bulletin IT-470R and the administrative policy summarized above. The CRA disallowed the deduction of the commissions on the basis that the policies had an investment component, such that they did not come within the administrative policy. Justice Lamarre held that the CRA’s administrative policy was not binding on either the CRA or the Court:
+15. As for Interpretation Bulletin IT-470R, it is not a substitute for the ITA. The bulletin only reflects the opinion of the Minister, and does not bind either the Minister, the taxpayer or the courts….
+16. In the present case, there is no doubt in my mind that the commission received by the Appellant was income earned from his profession, and taxable within the meaning of subsection 9(1) of the ITA.
+17. Interpretation Bulletin IT-470R extends the treatment reserved in some cases by the CRA to a certain category of taxpayers under certain circumstances. Despite the fact that a commission received on a sale is by its very nature taxable, the CRA views some of these commissions as a privilege for the seller who receives it. Thus, just as an employer may sell merchandise to employees at a discount, so can an insurance company offer a discount to its sellers if they acquire a personal life insurance policy from it, according to the CRA. In such cases, the CRA views the discount as a privilege related to employment or profession, and agrees to treat the benefits as non-taxable. However, this only reflects the administrative policy of the CRA that, to my knowledge, cannot be in any way derived from the ITA. Indeed, there is nothing in the provisions of the ITA exempting from taxation this type of privilege.
+18. Thus, in my view, unless the CRA changes its administrative policy, or considers that a particular case does not meet the conditions required to appeal to the generous nature of taxation authorities, the taxpayer cannot invite this Court to compel the CRA to comply with its Interpretation Bulletin, especially if the bulletin grants a tax break that is inconsistent with tax legislation. [12]
+[15] According to the principle enunciated in Bilodeau, if the CRA decides, for whatever reason, not to extend the administrative policy (whether found in Interpretation Bulletin IT-470R, Income Tax Folio S2-F3-C2 or Employers’ Guide T4130) to a particular taxpayer, the taxpayer cannot expect this Court to require the CRA to comply with its administrative policy in a situation where that policy is not consistent with the ITA. [13]
+[16] Insofar as the non-binding nature of an Interpretation Bulletin is concerned, Bilodeau applied the principle enunciated in Vaillancourt:
+It is well settled that Interpretation Bulletins only represent the opinion of the Department of National Revenue, do not bind either the Minister, the taxpayer or the courts and are only an important factor in interpreting the Act in the event of doubt as to the meaning of the legislation. [14]
+C. Application of the Above Principles to this Appeal
+[17] As explained by Justice Lamarre in Bilodeau, commission income earned by a life insurance broker is taxable. If the CRA determines that a particular taxpayer does not qualify for the favourable treatment set out in the CRA’s administrative policy, this Court cannot decide the taxpayer’s appeal in a manner that is inconsistent with the ITA.
+[18] Even if the CRA’s administrative policy could be applied by this Court (which it cannot), it is my view that Mr. Ghumman does not come within that policy. The administrative policy applies where the individual who acquires a life insurance policy and who pays the premiums in respect of that policy is the person who receives the commissions. That was not the situation here, as it was Mr. Ghumman who acquired the Policy, but it was GFP that received the Commissions. In 2014, Mr. Ghumman received a salary from GFP, not commissions from the various insurers.
+[19] I understand the frustration experienced by Mr. Ghumman, as the CRA did not take the position that he was ineligible for the administrative policy because he had interposed GFP between himself and the insurers. Rather, the CRA said that he did not qualify for the administrative policy because the Commissions were significant. The circumstance that was particularly disturbing to Mr. Ghumman was that the CRA could not explain to him the difference between a significant commission and an insignificant commission. When he asked to know where the dividing line was, the CRA could not provide him with any specific indication.
+VI. CONCLUSION
+[20] While the CRA’s denial of its administrative policy to Mr. Ghumman, without a satisfactory explanation, was unfortunate, this Court cannot provide the relief that Mr. Ghumman is seeking. [15] Therefore, this Appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 29th day of May 2019.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+CITATION:
+2019 TCC 125
+COURT FILE NO.:
+2017-3930(IT)I
+STYLE OF CAUSE:
+SUKHJIT S. GHUMMAN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 28, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Don R. Sommerfeldt
+DATE OF JUDGMENT:
+May 29, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Priya Bains
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-3, being a letter dated January 19, 2015 from Canada Loyal to the Sudbury Tax Services Office of the CRA.
+[2] All seven T4A slips were collectively marked as Exhibit A-2.
+[3] Interpretation Bulletin IT-470R, Employees Fringe Benefits, October 8, 1999, ¶27.
+[4] Technical Interpretation 2011-0407121E5, Commission income on personal insurance policies, January 9, 2012.
+[5] Income Tax Act, RSC 1985, c. 1 (5th supplement), as amended.
+[6] Employers’ Guide T4130, Taxable Benefits and Allowances, 2018.
+[7] Exhibit R-1.
+[8] See subsection 8(2) of the ITA.
+[9] Bilodeau v The Queen, 2009 TCC 315.
+[10] Ibid., ¶3.
+[11] Although Justice Lamarre, in paragraph 3 of her Reasons, used the terms “base salary” and “full salary,” which might suggest employment income, in paragraphs 14 and 16 of her Reasons, she indicated that Mr. Bilodeau was carrying on a business and that his income was determined pursuant to subsection 9(1) of the ITA.
+[12] Bilodeau, supra note 9, ¶15-18.
+[13] In paragraph 18 of her Reasons in Bilodeau, Justice Lamarre referred to “the generous nature of taxation authorities.” Nothing in my Reasons should be construed as an attempt to limit or curtail that generous nature. Rather, the CRA is to be commended for flexible administrative policies, as well as for compassionate understanding in cases of hardship (recognizing that such flexibility and compassion may not exceed the confines set by the applicable fiscal legislation).
+[14] Vaillancourt v The Queen et al., [1991] 2 CTC 42 at 48, 91 DTC 5408 at 5412 (FCAD), ¶14.
+[15] This is not a case that comes within the situation discussed in Vestey v Inland Revenue Commissioners, [1979] 3 All ER 976, [1980] AC 1148 (HL).

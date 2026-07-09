@@ -1,0 +1,174 @@
+Title: Cleveland v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25621/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-34-25621-cleveland-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-01-13
+
+# Cleveland v. The Queen
+
+- Citation: 2004 TCC 34
+- Decision date: 2004-01-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2427, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cleveland v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-13
+Neutral citation
+2004 TCC 34
+File numbers
+2003-2319(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2319(IT)I
+BETWEEN:
+RONALD V. CLEVELAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 24, 2003, at Hamilton, Ontario
+By: The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Craig Maw
+____________________________________________________________________
+JUDGMENT
+The appeal from assessment of tax made under the Income Tax Act for the 2001 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment only to the extent that the Appellant is entitled to claim an education amount of $1,440 with respect of his enrollment at Capella University pursuant to subsection 118.6(2) of the Act.
+Signed at Ottawa, Canada. this 13th day of January, 2004.
+"C.H. McArthur"
+McArthur J.
+Citation:2004TCC34
+Date: 20040113
+Docket: 2003-2319(IT)I
+BETWEEN:
+RONALD V. CLEVELAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] The issues in this appeal are whether Ronald V. Cleveland is entitled to (i) a tuition fee credit of $6,283; and (ii) an education tax credit in the 2001 taxation year for courses taken by Internet only, from a university in the United States.
+[2] The Appellant was enrolled at Capella University[1] in a Masters of Science Organizational Psychology program from January 1, 2000 to March 30, 2002. He graduated in November 2002. Capella is an "online" university. It is recognized by Canada Customs and Revenue Agency (CCRA) as a "university" outside Canada for the purposes of paragraphs 118.5(1)(b) and 118.6(1)(b) of the Income Tax Act. The Appellant took courses over the entire year. During 2001, he had full-time employment with RLG International Inc. (RLG) earning $101,355 annually while living in Saskatchewan.
+Position of the Appellant
+[3] His courses were conducted online using course rooms, e-mails, telephone and virtual libraries. It was clearly distinguishable from correspondence courses. He states, in effect, that he attended Capella in Minnesota through modern technology without leaving his home in Saskatchewan.
+[4] He claims that the wording of sections 118.5 and 118.6 entitled him to tuition and education tax credits and they should be interpreted with reference to the wording of subsections 6(2) and 15(1) of the Charter of Rights and Freedoms (Charter) and provisions of the North American Free Trade Agreement (NAFTA).
+Position of the Respondent
+[5] With respect to the tuition tax credit claimed, while the Minister of National Revenue admits that Capella is an online university, the Appellant was not in full-time "attendance" at Capella which is mandatory in paragraph 118.5(1)(b). The key word is "attendance". The Minister adds that the Appellant was not entitled to an "education tax credit" because he does not meet the requirement in the definition of "designated educational institution" in subsection 118.6(1).
+[6] The relevant legislation reads as follows:
+118.5(1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted,
+(a) where the individual was during the year a student enrolled at an educational institution in Canada, that is
+...
+(b) where the individual was during the year a student in full-time attendance at a university outside Canada in a course leading to a degree, an amount equal to the product obtained when the appropriate percentage for the year is multiplied by the amount of any fees for the individual's tuition paid in respect of the year to the university, except any such fees
+(i) paid in respect of a course of less than 13 consecutive weeks duration,
+...
+118.6(1) For the purposes of sections 63 and 64 and this subdivision,
+"designated educational institution" means
+...
+(b) a university outside Canada at which the individual referred to in subsection (2) was enrolled in a course, of not less than 13 consecutive weeks duration, leading to a degree, or
+"qualifying educational program" means a program of not less than 3 consecutive weeks duration that provides that each student taking the program spend not less than 10 hours per week on courses or work in the program and, in respect of a program at an institution described in the definition "designated educational institution" ...
+French Version
+118.5(1) Les montants suivants sont déductibles dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition:
+a) si le particulier est inscrit au cours de l'année à l'un des établissements d'enseignement suivants stués au Canada :
+...
+b) si, au cours de l'année, le particulier fréquente comme étudiant à temps plein une université située à l'étranger, où il suit des cours conduisant à un diplôme, ...
+118.6(1) Les définitions qui suivent s'appliquent aux articles 63 et 64 et à la présente sous-section.
+"établissement d'enseignement agréé"
+b) université située à l'étranger, où le particulier mentionné au paragraphe (2) est inscrit à des cours d'une durée minimale de 13 semaines consécutives qui conduisent à un diplôme;
+Charter of Rights and Freedoms ("Charter")
+6(2) Every citizen of Canada and every person who has the status of a permanent resident of Canada has the right
+(a) to move to and take up residence in any province, and
+(b) to pursue the gaining of a livelihood in any province
+...
+15(1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+North American Free Trade Agreement ("NAFTA")
+2020(1) If an issue of interpretation or application of this Agreement arises in any domestic judicial or administrative proceeding of a Party that any Party considers would merit its intervention, or if a court or administrative body solicits the views of a Party, that Party shall notify the other Parties and its Section of the Secretariat. The Commission shall endeavor to agree on an appropriate response as expeditiously as possible.
+[7] Paragraph 118.5(1)(a) provides for a tuition credit for a student "enrolled" at an educational institution in Canada. In contrast, a university student outside of Canada must be in "full-time attendance" under paragraph 118.5(1)(b) as opposed to simply "enrolled" (paragraph 118.5(1)(a)).
+[8] The issue narrows down to whether the Appellant was in "full-time attendance" at Capella situated outside of Canada (Minneapolis, Minnesota). The Appellant referred to his being discriminated against contrary to the Charter of Rights and additionally submits that Articles 1201 to 1205 of NAFTA be taken into consideration as an influence in interpreting sections 118.5 and 118.6 of the Act.
+[9] Before venturing to the Charter and NAFTA arguments, the relevant sections of the Act must be interpreted on their own. If the wording of the Act on its own is clear and unambiguous then no reference need be made to external legislation or documentation.
+[10] The crucial word is "attendance" as in "full-time attendance" in paragraph 118.5(1)(b). Does this mean full-time physical attendance? The word "attendance" may be ambiguous. Both parties referred to the common dictionary definition of "attendance".
+[11] The Canadian Oxford Dictionary (1998) defines "attendance" as "the act of attending or being present". It is difficult to conclude that the Appellant was present at Capella, having never set foot on the physical or geographical location in Minneapolis. The Appellant argues, in effect, that the law must evolve with the times and interpret attendance to include being at Capella electronically.
+[12] I believe this is stretching the plain meaning of attendance too far. This conclusion is strongly supported by reference to the French version of paragraph 118.5(1)(b) which reads: "le particulier fréquente comme étudiant à plein temps une université". Robert & Collins French-English, English French Dictionary Second Edition defines "fréquenter" and "fréquente" at page 317 as:
+lieu to frequent; voisins to see frequently ouoften; jeune fille to go around with; to keep company with ... il fréquente plus les cafés que la faculté: he's in cafésmore often than at lectures; il les fréquente peu: he seldom sees them; nous nous fréquentons beaucoup: we see quite a lot of each other, we see each other quite often ou frequently;
+The Canadian Oxford Dictionary definition of "frequent" (the English translation of "fréquente") includes "attend or go to habitually". The Respondent filed the following translation provided by the Ministry of Education for Ontario:
+A translation of section 118.5(1)(b) of the Income Tax Act
+French Version
+b) si, au cours de l'année, le particulier fréquente comme étudiant à plein temps une université située à l'étranger, où il suit des cours conduisant à un diplôme,
+English translation
+(b) if, during the year, the individual goes frequently to an out of the country university as a full-time student, where he is studying towards a diploma.
+[13] I find that there must have been a physical presence by the Appellant at Capella to benefit from section 118.5. If the legislature wanted to have an "online" university included in paragraph 118.5(1)(b), it would state so explicitly and not leave the taxpayer to twist and turn and speculate to find an extended meaning of "attend". I cannot rewrite the legislation.
+[14] Bowie J. in Hlopina v. R.[2] reviewed the jurisprudence with respect to the same question and concluded at paragraph 12:
+12 The ambiguity in the English text is resolved by reference to the French version of the Act. The expression "... le particulier fréquente comme étudiant à plein temps une université ..." used in paragraph 118.5(1)(b) is in contrast to the expression "... université située à l'étranger, où le particulier ... est inscrit ..." used in paragraph 118.6(1)(b). Clearly, the former requires physical presence at the university, while the latter does not. Where, as here, one version of the statute is clear and unambiguous, while the other might bear the same or a different meaning, I am bound to apply the meaning which is common to both versions. While the verb "to attend" in English might connote something other than physical presence, the same cannot be said of the French verb "fréquenter". I must, therefore, reluctantly conclude that the tuition credit under section 118.5 of the Act is not available to a taxpayer who studies by way of correspondence courses taken at a university outside Canada. I share the sentiment expressed by Heald J. in Ritchie, where he said:
+I said at the trial that I was sympathetic to the respondent's position. He and others like him are to be commended for their industry, their perseverance and their dedication to self-improvement. It may well be that the respondent and other taxpayers in a similar position should be able to deduct tuition fees in these circumstances. However, it is not the Court's function to legislate - I can only interpret the statute as it presently exists,
+The facts in Hlopina resemble the present ones. In Hlopina the taxpayer held a full-time job. He was also a registered student at a college in the United States taking its courses solely through correspondence.
+[15] Mr. Hlopina could only claim the education credit if he was in "full-time attendance" at the college. Bowie J. found:
+The English version of the Act was ambiguous regarding what was considered attendance. However, the French version unequivocally required physical attendance. When one version of the statute was clear and unambiguous, the court was bound to apply the meaning which was common to both versions. Thus, as the Appellant was not in full-time attendance at the school, he was not eligible for the tuition credit under section 118.5 of the Act.
+This decision is helpful to me in deciding the present one.
+[16] In Gilbert v. Canada,[3] Judge Mogan's look at the legislature's policy with respect to section 118.5 offers insight for the present case as well. At paragraphs 20 and 21 he stated:
+20 ... It is interesting to note the contrast between paragraphs (a) and (b) on the basis that if the person is attending an educational institution in Canada, that institution may be a university or a college or another educational institution providing courses at a post-secondary school level. In other words, if a person wants to deduct a tuition tax credit in Canada, the person paying the tuition does not have to be attending a university. It can be an educational institution other than a university. But if a person wants to deduct a tuition tax credit by going to an educational institution outside of Canada, it is very clear to me that that institution must be a university because of the words in the opening lines of paragraph (b) which state: "where the individual was during the year a student in full-time attendance at a university outside Canada in a course leading to a degree".
+21 Parliament has created a broader spectrum of institutions which a person can attend at the post-secondary level within Canada and still get the tuition credit, but Parliament has restricted the number of institutions outside Canada for which a tuition credit can be achieved. I have already given what I regard as the generally accepted definition of a university being one to grant a degree. I speculate that the distinction is to place some control on the kind of post-secondary institutions which may exist in countries outside of Canada where it would be impossible to determine whether they were truly of an educational nature in that they grant a degree. I think the legislation is more confining in paragraph (b) to give some measure of control as to the kinds of tuition paid to institutions outside Canada which will give the payer or parent a tax credit. For these two reasons, the interpretation of the word "university" on a stand-alone basis and the comparison of paragraphs 118.5(1)(a) and (b) lead me to the conclusion that this appeal must be dismissed.
+I agree that the legislation in paragraph 118.5(1)(b) which deals with "a university outside of Canada" is more confining to give greater control than the legislation in subsection 118.5(1) dealing with educational institutions in Canada.
+[17] The next issue is whether the Appellant is entitled to the education credit under paragraph 118.6(2)(b) of the Act. To comply with the Act, a taxpayer must be enrolled in a designated educational institution. The relevant provisions of paragraph 118.6(1) which is a definition section reads:
+118.6(1) For the purposes of sections 63 and 64 and this subdivision,
+"designated educational institution" means
+(a) an educational institution in Canada that is ...
+(b) a university outside Canada at which the individual referred to in subsection (2) was enrolled in a course, of not less than 13 consecutive weeks duration, leading to a degree, or
+"qualifying educational program" means a program of ... does not include any such program
+...
+(b) if the program is taken by the student
+(i) during a period in respect of which the student receives income from an office or employment, and
+Designated Educational Institution and Computation of Education Credit
+[18] In order to benefit from the education credit under paragraph 118.6(2)(b) of the Act, a taxpayer must be enrolled at a "designated educational institution" which is defined notably as a university outside Canada at which the taxpayer is enrolled in a course, of not less than 13 consecutive weeks' duration, leading to a degree.
+[19] The Minister accepts that Capella is a university outside Canada for the purpose of paragraph 118.6(1)(b) of the Act, but concluded that Capella does not qualify because its courses last 12 consecutive weeks and not 13, as required in the Act. The answer is inconclusive. The Appellant stated his online courses with Capella in 2001 lasted 13 consecutive weeks. I believe the Minister relies on a pro forma issued by Capella for 2002 stating its courses lasted 12 consecutive weeks and assumes the same for 2001. The Appellant is to be commended for his dedication to self-improvement and deserves the benefit of the doubt. He has successfully rebutted the Minister's assumptions.
+[20] I find he was enrolled at a "designated educational institution" in a "specified educational program" which are both defined in section 118.6. I accept his evidence that he spent 12 hours or more per month on courses in the Capella program.
+[21] Having found, with reference to the French version of paragraph 118.5(1)(b), that the word "attendance" means physical attendance, there is no need to refer to NAFTA and the Charter.
+[22] In conclusion, the appeal is allowed, but only to the extent that the Appellant is entitled to claim an education amount of $1,440 with respect of his enrollment at Capella for the 2001 taxation year in accordance with subsection 118.6(2) of the Act. The Appellant is not entitled to deduct tuition fees claimed in the amount of $6,283 in respect of his enrollment at Capella for the 2001 taxation year.
+Signed at Ottawa, Canada, this 13th day of January, 2004.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2004TCC34
+COURT FILE NO.:
+2003-2319(IT)I
+STYLE OF CAUSE:
+Ronald V. Cleveland and Her Majesty the Queen
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+October 24, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT:
+January 13, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Craig Maw
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The head office of Capella is in Minneapolis, Minnesota.
+[2] [1998] 2 C.T.C. 2669.
+[3] [1998] T.C.J. No. 1091.

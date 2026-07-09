@@ -1,0 +1,280 @@
+Title: SWS Communication Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31002/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-377-31002-sws-communication-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-10-25
+
+# SWS Communication Inc. v. The Queen
+
+- Citation: 2012 TCC 377
+- Decision date: 2012-10-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4884, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+SWS Communication Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-10-25
+Neutral citation
+2012 TCC 377
+File numbers
+2009-3624(GST)G, 2009-3625(GST)G, 2010-1733(GST)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2009-3624(GST)G
+2010-1733(GST)G
+BETWEEN:
+SWS COMMUNICATION INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the appellant:
+Caroline Desrosiers
+Nicolas Simard
+Counsel for the respondent:
+Benoît Denis
+____________________________________________________________________
+ORDER
+UPON having signed reasons for judgment on April 4, 2012;
+AND UPON hearing submissions from the parties with respect to costs;
+Costs of $37,282.56 are awarded to the appellant and to Centre les Voyages Miracle Inc., in accordance with the attached Reasons for Order;
+Disbursements will be taxed in the usual way.
+Signed at Ottawa, Canada, this 25th day of October 2012.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+On this 8th day of March 2016
+Margarita Gorbounova, Translator
+Docket: 2009-3625(GST)G
+BETWEEN:
+CENTRE LES VOYAGES MIRACLE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the appellant:
+Caroline Desrosiers
+Nicolas Simard
+Counsel for the respondent:
+Benoît Denis
+____________________________________________________________________
+ORDER
+UPON having signed reasons for judgment on April 4, 2012;
+AND UPON hearing submissions from the parties with respect to costs;
+Costs of $37,282.56 were awarded to the appellant and to SWS Communication Inc., in accordance with the attached Reasons for Order;
+Disbursements will be taxed in the usual way.
+Signed at Ottawa, Canada, this 25th day of October 2012.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+On this 8th day of March 2016
+Margarita Gorbounova, Translator
+Citation: 2012 TCC 377
+Date: 20121025
+Dockets: 2009-3624(GST)G
+2010-1733(GST)G
+BETWEEN:
+SWS COMMUNICATION INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2009-3625(GST)G
+BETWEEN:
+CENTRE LES VOYAGES MIRACLE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Hogan J.
+I. INTRODUCTION
+[1] At the end of my Reasons for Judgment in these appeals, I gave the parties 30 days to agree on costs. If they could not, they had to make written submissions to the Court.
+[2] On April 27, 2012, SWS Communication Inc. (SWS) and Centre les Voyages Miracle Inc. (CVM) presented a settlement offer regarding the amount of costs to the respondent. Having received no response from the respondent, SWS and CVM filed their written submissions on May 18, 2012.[1] Counsel for the respondent did not file any submissions. The parties also had the opportunity to argue their cases during a teleconference on June 13, 2012.
+II. APPELLANTS’ SUBMISSIONS
+[3] SWS and CVM seek solicitor-client costs of $124,865.12, that is, billed costs of $45,100.37 and costs to be billed of $29,464.75, plus a premium of $50,000. The costs to be billed are fees calculated on an hourly basis that have not yet been billed, but will be billed because the appellants were successful on the merits. The appellants claim that it is appropriate for the Court to award them costs in excess of the amounts set out in Schedule II, Tariff B of the Rules (the Tariff) because of (1) the complexity of the appeals; (2) the respondent’s rejection of written settlement offers that were more favourable to her than the judgment; and (3) the respondent’s conduct during the litigation.
+[4] SWS and CVM claim that their appeals were very complex mainly because of the technology at issue, namely, the Voice over Internet Protocol (VoIP) technology, which makes it possible to send information over the Internet instead of through traditional telephone lines. Thus, the appellants are of the view that, to prepare for the hearing, they had to have thorough knowledge of this technology in order to be able to understand the application of the ETA rules to it.
+[5] SWS and CVM therefore ask the Court to depart from the Tariff, like it did in Taylor v. The Queen,[2] because the issues are highly complex.
+[6] Basing themselves on Practice Note No. 17,[3] as well as on IPAX Canada,[4] Barrington Lane Developments[5] and Imperial Oil Resources Ltd.,[6] the appellants also state that the existence of written settlement offers is one of the main and most important factors to be considered when a court awards costs.
+[7] SWS and CVM stated that they had presented several offers in order to settle the appeals, which dealt with tax that was apparently neither collected nor remitted when certain services were provided by CVM to Convergia and by SWS to Convergia and to BMT.
+[8] In the first offer made to the respondent on December 8, 2010, that is, more than a year before the hearing, the appellants were prepared to accept that the assessments were confirmed with respect to the supplies to Convergia, given that Convergia had a subsidiary company, Convergia Networks Inc., which was a GST and QST registrant. However, the appellants sought to have the GST claimed for the supplies to BMT cancelled.
+[9] That offer was made again on January 26, December 1 and December 23, 2011. In addition, several verbal proposals were allegedly made to the respondent in 2011. Finally, on February 1, 2012, the appellants offered in writing to accept the assessment with respect to services supplied to Convergia and also that 30% of the assessments’ amount be confirmed with regard to GST for the supplies to BMT.
+[10] SWS and CVM claim that the respondent stated her position with regard to the settlement offers only the day before the trial, when counsel for the respondent rejected the last offer presented to him.
+[11] SWS and CVM put forward that, under paragraph 147(3)(g) of the Tax Court of Canada Rules (General Procedure) (the Rules), the respondent’s lack of cooperation should be discouraged by awarding costs in excess of the Tariff. More specifically, the appellants allege that the respondent did not make the assumptions of fact needed to justify the reassessments, did not respond to the settlement offers made many times, failed to call back their counsel and to answer their e‑mails and made her position on the last settlement offer known only on the day before the hearing. The appellants stated that such conduct on the part of the respondent should be discouraged.
+III. RESPONDENT’S SUBMISSIONS
+[12] The respondent concedes that SWS and CVM are entitled to costs. The respondent seeks, however, that costs be awarded to the appellants in accordance with the Tariff.
+[13] The respondent acknowledged the deficiency of her Replies to the Notices of Appeal of SWS and CVM, but alleges that they stemmed mainly from the shortness of the Notices of Appeal of SWS and CVM.
+[14] The respondent admitted that she did not adequately respond to the settlement offers presented to her. Counsel for the respondent stated that he had responded verbally to the appellants’ first offer. After that, he could not respond to the settlement offers because he had no mandate from his client regarding this. He could refuse the final offer only the day before the hearing.
+[15] The respondent alleges that, in any case, these settlement offers should not be taken into consideration when costs are awarded since it was legally impossible for her to accept them because the proposed settlements had no factual basis. According to the respondent, it was impossible to claim that some supplies were taxable while others were not. The respondent compares the settlement offers of SWS and CVM to those that were at issue in the Federal Court of Appeal decision in CIBC World Markets.[7]
+[16] Counsel for the respondent stated that he had not engaged in inappropriate, incorrect, reprehensible, outrageous or scandalous conduct. His failure to file written submissions in accordance with the order dated April 4, 2012, resulted from not understanding the order.
+[17] Counsel for the respondent stated that the awarding of costs in excess of the Tariff is therefore not justified in this case.
+IV. ANALYSIS
+A. Possibility of overriding the amounts set out in the Tariff
+[18] It is well established that a judge has absolute and unfettered discretion to award or withhold costs, provided that power is not exercised in an arbitrary manner but in compliance with the established principles and applicable rules.[8] Sections 147 to 152.1 of the Rules provide a framework for the exercise of this discretion under the general procedure.
+[19] Under subsection 147(1) of the Rules, the Court may determine the amount of the costs, the allocation of those costs and the persons required to pay them. Subsection 147(3) of the Rules sets out that, in exercising its discretion, the Court may consider the following:
+(a) the result of the proceeding;
+(b) the amounts in issue;
+(c) the importance of the issues;
+(d) any offer of settlement made in writing;
+(e) the volume of work;
+(f) the complexity of the issues;
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding;
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted;
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(j) any other matter relevant to the question of costs.
+[20] Subsection 147(4) sets out that the Court may fix the costs with or without reference to the Tariff and may award a lump sum in lieu of or in addition to any taxed costs. Paragraph 147(5)(c) of the Rules grants the Court the power to award costs on a solicitor and client basis.
+[21] These provisions of the Rules show the broad discretion granted to the Court as acknowledged by the Federal Court of Appeal in Canada v. Lau.[9]
+[22] Although SWS and CVM did not expressly use the words “costs on a solicitor‑client basis” to describe the costs they were claiming, that is, in fact, what they are claiming. Indeed, the appellants are claiming 100% of the fees and expenses incurred for preparing for the litigation.
+[23] It is well established that the awarding of costs on a solicitor-client basis is the exception, not the rule. Such costs can be awarded only when the conduct of one of the parties is reprehensible, scandalous or outrageous.[10] Yet, the conduct of counsel for the respondent does not meet that criterion. It is true that he neglected to respond to the settlement offers presented to him until the day before the hearing and that he did not comply with the Court’s order. Although this conduct is far from exemplary, it cannot be characterized as reprehensible, scandalous or outrageous. Thus, awarding solicitor-client costs is not justified in this case.
+[24] However, this finding does not necessarily mean that the costs awarded to the appellants must fall within the amounts set out in the Tariff. Indeed, in several recent judgments, the Court awarded costs that were lower than solicitor-client costs, but higher than the Tariff amounts.[11]
+[25] The respondent argues that there must be malfeasance or misconduct for the judge to be able to depart from the Tariff.
+[26] The respondent’s reasoning is the result of not understanding the distinction between solicitor‑client costs and party and party costs. There are two distinct types of costs to which different rules apply.[12] Thus, the refusal to award solicitor‑client costs in Young[13] and Alemu[14] because there was no reprehensible conduct by the respondent could not be directly transposed to the analysis of party‑and‑party costs, which are a different type of costs to which different rules apply.[15]
+[27] In Continental Bank of Canada v. The Queen,[16] Chief Justice Bowman (as he then was) made the following comments with respect to the possibility of awarding costs in excess of the Tariff:
+9. It is obvious that the amounts provided in the tariff were never intended to compensate a litigant fully for the legal expenses incurred in prosecuting an appeal. The fact that the amounts set out in the tariff appear to be inordinately low in relation to a party’s actual costs is not a reason for increasing the costs awarded beyond those provided in the tariff. I do not think it is appropriate that every time a large and complex tax case comes before this court we should exercise our discretion to increase the costs awarded to an amount that is more commensurate with what the taxpayers’ lawyers are likely to charge. It must have been obvious to the members of the Rules Committee who prepared the tariff that the party and party costs recoverable are small in relation to a litigant’s actual costs. Many cases that come before this court are large and complex. Tax litigation is a complex and specialized area of the law and the drafters of our Rules must be taken to have known that.
+10. In the normal course the tariff is to be respected unless exceptional circumstances dictate a departure from it. Such circumstances could be misconduct by one of the parties, undue delay, inappropriate prolongation of the proceedings, unnecessary procedural wrangling, to mention only a few. None of these elements exists here.
+[28] At first glance, this excerpt seems to militate heavily against deviating from the Tariff, unless there are exceptional circumstances with respect to the parties’ conduct justifying the awarding of solicitor‑client costs. However, nothing indicates that only outrageous conduct by one of the parties enables the judge to depart from the Tariff. In addition, the examples of exceptional circumstances cited by the former Chief Justice are, indeed, some of the factors listed in subsection 147(3) of the Rules, which must be taken into consideration when determining costs.[17] Thus, that decision supports the statement that analyzing the factors set out in subsection 147(3) makes it possible to determine the appropriate amount of costs.
+[29] Among the nine factors listed in subsection 147(3) of the Rules, only three concern the parties’ conduct; the other six are the result of the proceeding, amounts in issue, importance of the issues, volume of work, complexity of the issues and any other matter relevant to the question of costs.
+[30] In Velcro,[18] recently rendered by the Court, Associate Chief Justice Rossiter awarded costs in excess of the Tariff despite the absence of any reprehensible conduct by the respondent. In his analysis, the Associate Chief Justice treated the Tariff as “a reference point only should the Court wish to rely upon it”.[19] According to him, it does not take exceptional circumstances to justify a deviation from the Tariff – far from it.[20] Thus, the Associate Chief Justice proposed the following approach to awarding costs:
+17. It is my view that in every case the Judge should consider costs in light of the factors in Rule 147(3) and only after he or she considers those factors on a principled basis should the Court look to Tariff B of Schedule II if the Court chooses to do so.
+[31] It is important now to apply this reasoning to the facts of these appeals and to analyze the factors listed in subsection 147(3) of the Rules in order to determine whether awarding costs in excess of the Tariff is justified in this case.
+B. Factors governing the awarding of costs
+[32] Among the criteria listed in subsection 147(3) of the Rules, six should be weighed in this case, namely, the result of the proceeding, amounts in issue, importance of the issues, volume of work, complexity of the issues, settlement offers presented in writing and the respondent’s conduct.
+Amounts in issue and the result of the proceeding
+[33] The amount of the assessments made against SWS and CVM totalled close to $110,000.[21] Both SWS and CVM obtained all that they sought, namely, the finding that all of the supplies at issue were zero-rated.
+[34] As indicated in General Electric Capital, there is a strong tendency in the case law to accept the principle that costs awards should not be distributive, with the amounts being based on the outcome of particular arguments of the parties.[22] Thus, the appellants’ arguments should not be analyzed individually in order to establish the amount of costs to be awarded. Only the overall result of the appeals, that is, the complete vacation of the assessments made against the appellants, is relevant.
+Importance and complexity of the issues
+[35] These appeals have given the Court the opportunity to consider, for the first time, the interpretation to be given to subsection 132(2) of the ETA. However, that provision is not very complex. The respondent’s interpretation of it was simply erroneous because it contradicted the meaning that was clear from the wording of the provision.[23]
+[36] The appellants allege that the complexity of the appeals stemmed primarily from the technology involved, namely, VoIP. It is true that the expert testimony about the technology for transmitting oral communication over the Internet was relevant and that the respondent must pay its cost, which she does not object to. However, the appeals cannot be described as complex based solely on that technological aspect, which was only incidental to the dispute between the parties.
+Settlement offers
+[37] The presentation of settlement offers in writing plays a central role in awarding costs.
+[38] The respondent admitted that she did not adequately respond to the settlement offers, which were presented to her several times by counsel for the appellants. She stated, however, that those settlement offers should not be taken into consideration when costs are awarded since it was legally impossible for her to accept them because the proposed settlement had no factual basis.
+[39] The respondent based her allegations on CIBC World Markets,[24] where the Federal Court of Appeal acknowledged that, for a rejection of a settlement offer that is more favourable than the decision rendered to trigger adverse cost consequences, it must be legally possible to accept the offer.[25] In that matter, the taxpayer had offered the respondent to settle the appeal by issuing an assessment allowing the taxpayer to receive 90% of the input tax credits it had claimed in its GST return.[26] The respondent, who stated that she could issue only an assessment that is justified by the facts and the law, said that she was unable to accept that offer, which could not be justified either by the facts or the law. The Federal Court of Appeal stated the following, per Justice Stratas:
+[19] Due to the precise circumstances of this case, I agree with the Minister that under no factual or legal scenario could CIBC World Markets have been granted 90% of the input tax credits it claimed. The situation might have been different if, for example, the quantum of input tax credits were in issue and, theoretically, the Minister could defend the 90% figure on the facts and the law. But here, the issue was an all-or-nothing question of statutory interpretation.
+[40] Thus, since the Minister cannot issue an assessment on the basis of compromise, regardless of the facts and the law before him,[27] he cannot be reproached for not accepting a settlement offer that cannot be justified by the facts and the law.
+[41] In this appeal, SWS and CVM first offered to have the assessments confirmed with respect to the supplies made to one of the recipients, given that Convergia owns a subsidiary corporation in Quebec, which is a GST and QST registrant, but to have the assessments vacated with respect to the other recipient, namely, BMT (the first offer). Then, SWS and CVM offered to accept the assessment with respect to the services provided to Convergia and also to have the assessments confirmed for 30% of the GST amounts related to the transactions with BMT (the second offer).
+[42] The respondent maintains that it was impossible to claim that some supplies were taxable while others were not. According to her, this was only a yes-or-no question. Thus, the respondent claims that she could not accept the offers on the basis of compromise, regardless of the facts and the law before her.
+[43] The first offer clearly has a factual basis, which was clearly shown by the appellants when the offer was presented to counsel for the respondent. Indeed, nothing prevented the respondent from supposing that one of the two recipients was a resident of Quebec and that the supplies made to it were taxable, unlike the supplies made to the second recipient because of its non-resident status in Quebec.
+[44] In Potash,[28] the respondent alleged that she could not legally accept the settlement offer presented by the taxpayer because this implied that she agreed to several assumptions of fact, which the respondent said she was unable to do. However, Justice Hershfield rejected the respondent’s claims and stated the following:
+[58] . . . There is nothing in the Federal Court of Appeal decision in CIBC World Markets that suggests that the Crown is not at liberty to accept factual resolves on the basis of probability which should afford the Crown considerable leeway. As well, a concession might reflect appropriate recognition of proportionality. Even the Crown might, in some circumstances, properly consider the need to concede a fact that only has a marginal chance of being proven to the satisfaction of a judge, where the cost of such concession is small relative to the cost of having the question litigated.
+[59] If this were not the case, the Crown could justify never settling anything. . . .
+[45] Thus, nothing prevented the respondent from accepting the assumption that Convergia was a resident of Quebec and that BMT was not. The respondent had no legal reason to not be able to accept the first offer from SWS and CVM dated December 8, 2010, which was more favourable to it than the judgment.
+[46] The second offer is also justifiable by the facts and the law. The offer, which proposed to confirm 30% of the GST amounts related to transactions with BMT, was also based on an assumption of fact that the respondent could accept. Indeed, subsection 132(2) of the ETA sets out that, if a non-resident person has a permanent establishment in Canada, the person shall be deemed to be resident in Canada in respect of, but only in respect of the services that are used there. Thus, it was entirely possible for the respondent to accept the assumption of fact that 30% of the services supplied by SWS to BMT were used in Canada, and 70% were used outside Canada.
+[47] Accordingly, the first and the second offer presented may justify awarding costs in excess of the Tariff.
+Conduct of the respondent
+[48] SWS and CVM claim that the respondent’s uncooperative conduct argues in favour of awarding costs in excess of the Tariff. As stated above, it is true that the lack of response from the respondent to the settlement offers made is regrettable. The respondent’s failure to comply with the Court’s order to file written submissions regarding the awarding of costs is equally regrettable. However, nothing in the file makes it possible to attribute any kind of bad faith to counsel for the respondent.
+C. Other considerations
+Premium
+[49] The appellants are also seeking an award of a $50,000 premium because of the exceptional result they have obtained.[29]
+[50] Orkin stated the following with respect to the possibility of including a premium in calculating the costs:
+In appropriate circumstances, a premium can be a proper component of a party‑and‑party bill assessable on a solicitor-and-client basis, but . . . a premium is incompatible with the party-and-party scale of costs. [30]
+[51] The appellants are relying on Debora v. Debora,[31] in stating that a premium may be validly awarded in the circumstances of this case.[32] However, it is essential to note that, in that decision, the Ontario Superior Court of Justice awarded costs on a substantial indemnity basis. In addition, a premium was included in calculating costs in Roberts v. Morana,[33] where part of the costs was calculated on a solicitor‑client basis. As stated above, the lack of outrageous conduct by the respondent prevents a costs award on the solicitor‑client basis, which also prevents the inclusion of a premium in the costs calculations.
+[52] However, it is important to note that Chief Justice Bowman (as he then was) seems to have attached importance to the premium claimed by the appellants in Scavuzzo,[34] despite the fact that the Crown’s conduct was not deemed sufficiently reprehensible, scandalous or outrageous to award solicitor‑client costs.[35] In that case, the costs sought by the appellants totalled $549,738.45 including a premium of $107,000 (set out in the contingency fee agreement, if the appellants succeeded in their appeal).[36] After determining that costs in excess of the Tariff should have been awarded, the Court thoroughly analyzed many factors including the existence of a $107,000 premium, which had been billed to the appellants.[37] Thus, the costs were fixed at $275,000, and Chief Justice Bowman specified that that amount represented about 50% of the total amount billed (including the $107,000 premium).[38]
+[53] In this case, counsel for the appellants acknowledged that the premium sought had not yet been billed to the appellants, and unlike in Scavuzzo, nothing indicates that a contingency fee agreement exists between the appellants and their counsel.
+[54] In any case, even if a premium could be awarded in the case of party and party costs, the circumstances of this case would not justify it. SWS and CVM claim that the $50,000 premium was warranted because of the complexity of the appeals, the exceptional results obtained[39] and the lack of response from the respondent to the settlement offers presented to her. As stated above, the appeals cannot be described as very complex, and the results as exceptional. Although the fact that the respondent did not respond to the settlement offers until the day before the hearing supports awarding costs in excess of the Tariff, it cannot also justify the award of a premium equivalent to almost half of the costs sought.
+Allocation of costs between the two levels of government
+[55] The Agreement with Respect to the Administration by Québec of Part IX of the Excise Tax Act relating to the Goods and Services Tax concluded between the governments of Canada and of Quebec (the Agreement), signed on August 11, 1992, governs the relationship between the two levels of government with respect to the administration of GST in Quebec. Under this agreement, Quebec is responsible for the administration and collection of GST in Quebec.[40] In addition, Quebec counsel assume the conduct of litigation in GST matters in Quebec, unless otherwise instructed.[41]
+[56] Since a GST assessment in Quebec flows from a QST assessment, two practically identical appeals proceed concurrently: one before the Tax Court of Canada, the other before the Court of Québec. It is standard practice that both parties’ counsel agree to move the file forward before one of the courts and to hold the appeal in abeyance before the other court. In almost all cases, the second appeal is settled based on the decision rendered by the court in the first appeal. Thus, the work done by counsel in one of the two appeals is used for both appeals.
+[57] Counsel for the appellants claims that most of the costs sought are for preparing for trial before this Court. However, it is worth noting that SWS and CVM indicated that the premium sought was justified “because of the settlement offer and the exceptional result of the GST and QST appeals”. In addition, counsel for the appellants acknowledged that he intended to ask Revenu Québec to apply the result of this appeal to the QST appeal. In this context, I believe it would not be appropriate that the respondent assume all of the costs in this matter. SWS and CVM should be awarded 50% of the costs claimed after the premium sought is subtracted.
+V. CONCLUSION
+[58] The amount of $124,865.12 sought by the appellants is excessive. As stated above, that amount represents solicitor‑client costs. The conduct of counsel for the respondent cannot justify awarding this type of costs. Because of this, adding a $50,000 premium is unjustified.
+[59] Having analyzed in detail the factors listed above, it seems to me that awarding costs in excess of the Tariff is completely justified. Subsection 147(4) of the Rules expressly sets out that the Court may award a lump sum. In addition, the Court has awarded a lump sum in several decisions.[42]
+[60] As the Federal Court of Appeal stated in Consorzio del Prosciutto di Parma v. Maple Leaf Meats Inc.:[43]
+8. An award of party-party costs is not an exercise in exact science. It is only an estimate of the amount the Court considers appropriate as a contribution towards the successful party’s solicitor-client costs (or, in unusual circumstances, the unsuccessful party’s solicitor-client costs). . . .
+[61] In this case, the amount of $37,282.56[44] seems appropriate, given the amounts in issue, the result of the proceeding, the low importance and moderate complexity of the issues, the offers of settlement unanswered until the day before the hearing, and the respondent’s failure to comply with the Court’s instructions.
+[62] The disbursements should be taxed in the usual way.
+Signed at Ottawa, Canada, this 25th day of October 2012.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+On this 8th day of March 2016
+Margarita Gorbounova, Translator
+CITATION: 2012 TCC 377
+COURT FILE NOS: 2009-3624(GST)G, 2009-1733(GST)G,
+2009-3625(GST)G
+STYLES OF CAUSE: SWS COMMUNICATION INC. v. HER MAJESTY THE QUEEN and
+CENTRE LES VOYAGES MIRACLE INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: June 13, 2012
+REASONS FOR ORDER
+BY: The Honourable Justice Robert J. Hogan
+DATE OF ORDER: October 25, 2012
+APPEARANCES:
+Counsel for the appellants:
+Caroline Desrosiers
+Nicolas Simard
+Counsel for the respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the appellants:
+Name: Caroline Desrosiers
+Nicolas Simard
+Firm: Spiegel Sohmer Inc.
+Montréal, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Written submissions of SWS and CVM, May 18, 2012.
+[2] [2000] T.C.J. No. 854 (TCC).
+[3] Practice Note No. 17, January 13, 2010. It should be noted that Practice Note No. 18, amended on February 10, 2011, amended Practice Note No. 17.
+[4] IPAX Canada Ltd. v. The Queen, 2011 TCC 50 [IPAX].
+[5] Barrington Lane Developments Ltd. v. The Queen, 2010 TCC 476 [Barrington Lane].
+[6] Imperial Oil Resources Ltd. v. Canada, 2011 FC 652.
+[7] CIBC World Markets Inc. v. The Queen, 2012 FCA 3 [CIBC World Markets].
+[8] Mark M. Orkin, The Law of Costs, 2nd edition, loose-leaf (Aurora: Canada Law Book Inc., 1987) at para. 11A02.1 (consulted in August 2012) [Orkin]; General Electric Capital Canada Inc. v. The Queen, 2010 TCC 490, at para. 13 [General Electric Capital]; Canada v. Landry, 2010 FCA 135, at para. 54; LeRiche v. The Queen, 2012 TCC 19, at para. 4 [LeRiche].
+[9] 2004 FCA 10, at para. 5 [Lau].
+[10] Young v. Young, [1993] 4 S.C.R. 3, p. 137 [Young]; General Electric Capital, supra, at paras 20-24; LeRiche, supra, at para. 10; Alemu v. The Queen, 99 D.T.C. 591 [1999] T.C.J. No. 219 (QL) (TCC), at paras 13-16 [Alemu].
+[11] See, for example, General Electric Capital, supra, Scavuzzo, 2006 TCC 90 [Scavuzzo]; Lau, supra, Alemu, supra; Potash Corporation of Saskatchewan Inc. v. The Queen, 2012 TCC 235 [Potash]; Velcro Canada Inc. v. The Queen, 2012 TCC 273 [Velcro]; Hunter v The Queen, 2003 D.T.C. 51, [2002] T.C.J. No. 625 (QL); Zeller Estate v. The Queen, 2009 TCC 135; Canada v. Donato, 2010 FCA 312 [Donato].
+[12] General Electric Capital, supra.
+[13] Young, supra.
+[14] Alemu, supra.
+[15] Velcro, supra, at para. 6; General Electric Capital, supra, at para. 27.
+[16] [1994] T.C.J. No. 863 (QL).
+[17] Sommerer v. The Queen, No. 2007-2583(IT)G, awarding of costs, July 14, 2011, p. 3 of the transcript.
+[18] Velcro, supra.
+[19] Ibid., at para. 8.
+[20] Ibid., at para. 6.
+[21] SWS Communication Inc. v. The Queen, 2012 TCC 114 [SWS Communication], at paras 2-3.
+[22] General Electric Capital, supra, at para. 31.
+[23] SWS Communication, supra, at para. 19.
+[24] CIBC World Markets, supra.
+[25] Ibid., at paras 14-15.
+[26] Ibid., at para. 2.
+[27] Ibid., at paras 20-21.
+[28] Potash, supra.
+[29] Appellants' written submissions, supra, at para. 15.
+[30] Orkin, supra, at para. 602.3(13). See also Ontex Resources Ltd. v. Metalore Resources Ltd., [1996] O.J. No. 3336 (QL), where the premium award was refused because costs were taxed on a party and party basis, not solicitor‑client basis.
+[31] 14 R.F.L. (6th) 245, [2005] O.J. No. 1055 (QL) (Ont. Sup. Ct.).
+[32] Appellants' written submissions, supra, at para. 15.
+[33] 37 O.R. (3d) 342, aff. by 49 O.R. (3d) 157 (Ont. C.A.).
+[34] Scavuzzo, supra.
+[35] Ibid. at para. 4.
+[36] Ibid. at para. 8.
+[37] Ibid., at par. 9(g).
+[38] Ibid. at para. 10.
+[39] Appellants' submissions, supra, at para. 15.
+[40] Article 6.
+[41] Part V, “Litigation and Legal Advice”, art. 71, and Annex D, “Litigation and Legal Advice”, art. 3.
+[42] See, for example, Lau, supra, General Electric Capital, supra; Velcro, supra; Potash, supra.
+[43] 2002 FCA 417, [2003] 2 F.C. 451.
+[44] This amount was obtained by adding the fees billed and the fees to be billed, and dividing the total by two, that is, ($45,100.37 + $29,464.75) / 2.

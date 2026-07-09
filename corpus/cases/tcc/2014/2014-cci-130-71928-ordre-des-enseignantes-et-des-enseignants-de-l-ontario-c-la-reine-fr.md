@@ -1,0 +1,228 @@
+---
+title: "Ordre des enseignantes et des enseignants de l’Ontario c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71928/index.do"
+last_modified: "2014-04-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 130"
+citation2: ""
+neutral_citation: "2014 CCI 130"
+decision_date: "2014-04-29"
+language: "fr"
+item_id: "71928"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5394
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:59:35.099000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f224b1b83044bcce9796f1c1cb528fa58713091d94153dead6726798d12503a1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ordre des enseignantes et des enseignants de l’Ontario c. La Reine
+
+- Citation: 2014 CCI 130
+- Decision date: 2014-04-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5394, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ordre des enseignantes et des enseignants de l’Ontario c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-04-29
+Référence neutre
+2014 CCI 130
+Numéro de dossier
+2010-619(GST)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+2014 CCI 130
+No du dossier de la Cour 2010-619(GST)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+L’ORDRE DES ENSEIGNANTES ET DES ENSEIGNANTS DE L’ONTARIO
+appelant
+- et -
+SA MAJESTÉ LA REINE
+intimée
+TRANSCRIPTION DES MOTIFS DU JUGEMENT
+RENDUS PAR L’HONORABLE JUGE JORRÉ
+Centre judiciaire fédéral
+180, rue Queen ouest, Toronto (Ontario),
+le vendredi 28 mars 2014, à 15 h.
+COMPARUTIONS :
+Me John C. Yuan pour l’appelant
+Me Brandon Siegal
+Me John Grant pour l’intimée
+Était également présente :
+Mme Sandy Kelloway greffière de la cour
+A.S.A.P. Reporting Services Inc. © 2014
+200, rue Elgin, salle 1105 333 rue Bay, salle 900
+Ottawa (Ontario) K2P 1L5 Toronto (Ontario) M5H 2T4
+613-564-2727 416-861-8720
+INDEX
+PAGE
+MOTIFS DU JUGEMENT : 4
+Toronto (Ontario)
+--- L’audience a commencé le vendredi 28 mars 2014, à 15 h.
+MOTIFS DU JUGEMENT :
+[Le juge a révisé la version anglaise des présents motifs par souci de style et de clarté.]
+[1] LE JUGE JORRÉ : Bonjour.
+[2] Je prononcerai maintenant les motifs du jugement dans l’appel interjeté par l’Ordre des enseignantes et des enseignants de l’Ontario.
+[3] L’Ordre des enseignantes et des enseignants de l’Ontario a interjeté appel à l’égard d’une cotisation de TPS qui a été établie à son endroit pour le mois d’août 2005.
+[4] La question en litige repose sur la signification de l’alinéa 20d) de la partie VI de l’annexe V de la Loi sur la taxe d’accise. Cette disposition est ainsi libellée :
+d) [L]es services de renseignements sur les statistiques démographiques, la résidence, la citoyenneté ou le droit de vote des personnes, leur inscription à un service offert par le gouvernement ou toutes autres données les concernant, ou les certificats ou autres documents attestant ces données.
+[5] Dans la version anglaise de la Loi sur la taxe d’accise, cette disposition est ainsi libellée :
+(d) [A] supply of a service of providing information in respect of, or any certificate or other document evidencing, the vital statistics, residency, citizenship or right to vote of any person, the registration of any person for any service provided by the government or any other status of any person.
+[6] Je souligne que la Loi sur la taxe d’accise a été modifiée après la période en cause en l’espèce.
+[7] Les parties ont restreint les questions en litige aux questions suivantes :
+a) Les fournitures sont‑elles effectuées en contrepartie de ce qu’on appelle des fournitures de « droits d’inscription », lesquelles tombent sous le coup de la disposition que je viens de lire?
+b) Les fournitures sont‑elles effectuées en contrepartie de ce qu’on appelle des fournitures de « droits d’évaluation », lesquelles tombent sous le coup de cette même disposition?
+[8] Le cas échéant, les fournitures sont des fournitures exonérées, et le ministre aura gain de cause. Dans le cas contraire, c’est l’appelant qui aura gain de cause.
+[9] Une grande partie de la preuve a été produite avec le consentement des deux parties. Aucune question de crédibilité n’a été soulevée; aucune somme n’est en litige.
+[10] Les parties ont déposé un exposé conjoint des faits. J’en paraphraserai la majeure partie.
+[11] Les parties se sont entendues sur ce qui suit :
+1. Au Canada, l’enseignement est essentiellement une activité professionnelle réglementée qui relève de la compétence de chaque gouvernement provincial. Dans la plupart des provinces, le gouvernement provincial est l’autorité compétente. Dans certaines provinces, comme l’Ontario, le gouvernement provincial met en place un organisme distinct.
+2. L’Ordre des enseignantes et des enseignants de l’Ontario est un organisme à but non lucratif qui a été créé par l’Assemblée législative de l’Ontario, conformément à la loi.
+3. L’Ordre est un inscrit au sens du paragraphe 123(1) de la Loi sur la taxe d’accise.
+4. L’Ordre des enseignantes et des enseignants de l’Ontario a des objets qui lui sont expressément imposés sous le régime de la Loi de 1996 sur l’Ordre des enseignantes et des enseignants de l’Ontario; ces objets sont notamment les suivants : réglementer la profession enseignante et régir l’activité de ses membres; établir et maintenir des normes d’admissibilité à l’Ordre; agréer les programmes de formation professionnelle des enseignants offerts par les établissements d’enseignement postsecondaire; agréer les programmes de formation continue offerts aux enseignants; délivrer, modifier, suspendre, révoquer et remettre en vigueur des certificats de qualification et d’inscription; prévoir la formation continue des membres; établir et faire respecter les normes professionnelles et les normes de déontologie applicables aux membres; recevoir les plaintes déposées contre ses membres, faire enquête sur ces plaintes et traiter des questions de discipline et d’aptitude professionnelle; communiquer avec le public au nom des membres.
+5. La Loi sur l’éducation de l’Ontario établit une exigence générale selon laquelle il faut être membre de l’Ordre pour être employé comme enseignant auprès d’une école publique élémentaire ou secondaire.
+6. La Loi de 1996 sur l’Ordre des enseignantes et des enseignants de l’Ontario prévoit que le titulaire d’un certificat de qualification et d’inscription est membre de l’Ordre.
+7. Pour la période allant de 2001 à 2005, les règles en vigueur prévoyaient que les catégories de certificats de qualification et d’inscription comprenaient un certificat d’inscription et un certificat de qualification. Les règles prévoyaient aussi les exigences relatives à la délivrance de tels certificats.
+8. Le certificat d’inscription était un document confirmant que la personne avait satisfait aux exigences pour être admise comme membre de l’Ordre et que le nom de cette personne avait été inscrit au registre des membres de l’Ordre.
+9. Le certificat de qualification était un document confirmant les titres de compétence dans le domaine de l’enseignement, y compris les spécialisations, ainsi que le statut de membre en règle de l’Ordre pour l’année civile couverte par le certificat de qualification en question.
+10. Le certificat d’inscription était un document qui n’était délivré qu’une seule fois, quand la personne était admise comme membre de l’Ordre, alors que le certificat de qualification était délivré au moment de l’inscription auprès de l’Ordre et sur une base annuelle par la suite.
+11. Les certificats annuels étaient mis à jour de manière à ce qu’y apparaisse toute spécialisation additionnelle qui aurait été obtenue au cours de l’année précédente. Le certificat annuel de qualification est délivré aussi longtemps qu’on demeure un membre en règle de l’Ordre.
+12. Dans l’optique de demander ou de conserver un poste d’enseignant en Ontario, le certificat de qualification constituait une preuve documentaire du fait que la personne concernée était un membre en règle de l’Ordre et que cette personne détenait les divers titres de compétence en enseignement dont il était fait état en détail dans le certificat.
+13. La Loi de 1996 sur l’Ordre des enseignantes et des enseignants de l’Ontario autorise le conseil de l’Ordre à établir des règlements administratifs traitant des affaires administratives et internes de l’Ordre.
+14. On peut établir par règlement administratif, entre autres choses, le montant des droits pour les diverses fournitures effectuées par l’Ordre.
+15. Une personne souhaitant devenir membre de l’Ordre doit remplir une demande d’inscription à l’Ordre.
+16. La procédure de demande relève d’unités spécialisées de la Division des services aux membres de l’Ordre. Le personnel de l’Ordre reçoit divers documents qui lui sont soumis par les candidats ainsi que par des établissements d’enseignement pour le compte des candidats, apprécie l’authenticité et l’exhaustivité des documents, évalue les titres de compétence du candidat et communique avec ce dernier pour l’informer que sa candidature a été acceptée ou rejetée.
+17. À l’occasion, il arrive à l’Ordre de fournir de la rétroaction continue aux candidats et aux établissements d’enseignement au sujet du contenu et de l’état des documents soumis.
+18. L’étude des renseignements donne généralement lieu à la délivrance d’un certificat ou à la communication d’une lettre explicative.
+19. Au cours de la procédure de demande, le candidat soumet certains documents à l’Ordre, parmi lesquels sa candidature, une preuve d’identité, une preuve de changement de nom et une vérification du casier judiciaire. D’autres documents, comme les bulletins de notes ou les lettres de vérification, sont directement soumis à l’Ordre par l’institution qui les a produits.
+20. Au cours du traitement de la demande, il se peut aussi que le personnel de l’Ordre communique avec un établissement d’enseignement qui délivre un diplôme au candidat si les titres de compétence que le candidat a acquis auprès de l’institution soulèvent des questions.
+21. Par règlement, toute personne qui dépose une demande d’inscription auprès de l’Ordre paie des droits d’inscription pour l’examen de sa candidature à l’Ordre. Pour les candidats qui ont étudié ailleurs qu’en Ontario, les règlements administratifs exigent que le candidat paie un montant additionnel à titre de droits d’évaluation.
+22. L’Ordre impose des droits d’évaluation pour établir si le programme d’études en enseignement que la personne a suivi en dehors de l’Ontario satisfait aux mêmes exigences scolaires, professionnelles ou de maîtrise de la langue auxquelles les programmes d’études en enseignement de l’Ontario doivent satisfaire.
+23. Si l’Ordre refuse la candidature d’une personne ou que le candidat est incapable de franchir les étapes requises dans la procédure de demande, ou ne franchit pas ces étapes, l’Ordre ne rembourse généralement pas les droits d’inscription, ou le cas échéant, les droits d’évaluation qui ont été payés lors du dépôt de la demande. En pareilles circonstances, l’Ordre enverra une lettre au candidat l’informant du rejet de sa candidature.
+24. Les règlements exigent des membres qu’ils paient une cotisation annuelle à l’Ordre.
+25. L’Ordre a traité les cotisations annuelles comme s’il s’agissait de fournitures exonérées au sens de la Loi sur la taxe d’accise. L’Ordre n’a pas choisi de traiter les cotisations annuelles comme si elles étaient assujetties à la taxe sur les produits et services au titre de cette disposition.
+[12] Avant la période en cause, l’Ordre percevait et versait la TPS à l’égard des deux fournitures en cause en l’espèce : les fournitures en contrepartie (i) des droits d’inscription et (ii) des droits d’évaluation. Toutefois, l’Ordre n’a demandé aucun crédit de taxe sur les intrants à l’égard de ces fournitures.
+[13] Dans la déclaration qu’il a produite pour la période en cause, l’appelant a demandé des crédits de taxe sur les intrants à l’égard, entre autres choses, des fournitures en cause. Le ministre les lui a refusés, et c’est de ce refus que découle le présent appel.
+[14] Mme Iona Mitchell a témoigné. Elle est la gestionnaire de la Division des registres d’adhésion de l’Ordre des enseignantes et des enseignants de l’Ontario. Certaines autres pièces ont également été produites en preuve.
+[15] Mme Mitchell a confirmé la plus grande partie des éléments contenus dans l’exposé conjoint.
+[16] Elle a affirmé, et son témoignage recouvre en large partie l’exposé conjoint, que toute personne qui souhaitait enseigner dans une école publique en Ontario devait être membre de l’Ordre.
+[17] Le certificat d’inscription atteste le statut de membre auprès de l’Ordre, alors que le certificat de qualification confirme les titres de compétence en enseignement et toute autre formation spécialisée ainsi que le statut de membre en règle de l’Ordre pour la période qu’il couvre.
+[18] Pour devenir membre de l’Ordre et obtenir son certificat d’inscription, ainsi que son premier certificat de qualification, il faut passer par une procédure exigeant qu’on présente une demande à l’Ordre.
+[19] L’Ordre examine la candidature en vue d’établir si le candidat a les qualifications requises.
+[20] À la fin de la procédure, le candidat reçu obtient son certificat d’inscription ainsi que son premier certificat de qualification, uniquement sous réserve du fait qu’il paie sa cotisation annuelle s’il ne l’a pas déjà fait au moment où il a payé ses droits d’inscription.
+[21] Pendant la période en cause, les personnes qui présentaient leur candidature de l’Ontario payaient la cotisation annuelle en même temps que les droits d’inscription, pour des raisons de commodité administrative.
+[22] Ce n’était pas le cas des personnes qui présentaient leur candidature de l’extérieur de l’Ontario, lesquelles payaient normalement la cotisation annuelle après l’acceptation de leur candidature, le cas échéant.
+[23] Bien que la procédure soit quelque peu différente pour les candidats ayant fait leurs études en enseignement en Ontario et pour les candidats ayant fait leurs études ailleurs, l’objectif de l’Ordre est le même : établir si un candidat satisfait aux exigences pour devenir membre.
+[24] La différence vient du fait que, en Ontario, en ce qui a trait à l’aspect des exigences relatif à la formation d’enseignant, l’Ordre agrée les programmes d’études en enseignement en Ontario, et, par conséquent, il ne lui est pas nécessaire d’évaluer précisément le programme d’études en enseignement d’un candidat qui a fait ses études en enseignement en Ontario.
+[25] Par ailleurs, pour ce qui est des candidats ayant fait leurs études ailleurs qu’en Ontario, l’Ordre doit évaluer de manière individuelle les études particulières que les candidats ont suivies pour voir si elles satisfont aux exigences de l’Ordre. En outre, dans le cas des candidats de l’extérieur de l’Ontario, en fonction du lieu où ils ont suivi leurs études en enseignement, il se peut que l’Ordre doive évaluer leur maîtrise de la langue anglaise ou française.
+[26] Tous les candidats, où qu’ils aient fait leurs études en enseignement, doivent satisfaire à certaines exigences d’ordre scolaire, que l’Ordre vérifie.
+[27] Tous les candidats doivent fournir divers documents, lesquels sont passés en revue. Ces documents comprennent une preuve d’identité, une preuve de changement de nom, le cas échéant, une vérification du casier judiciaire et, pour ceux qui ne sont pas citoyens canadiens, une preuve du fait qu’ils ont le droit de travailler au Canada. Les candidats doivent également présenter des bulletins de notes.
+[28] Certains documents sont envoyés à l’Ordre par les candidats, mais d’autres documents, comme les bulletins de notes, sont envoyés à l’Ordre par l’institution qui les a délivrés.
+[29] Les documents soumis sont appréciés en vue d’établir s’ils sont authentiques et admissibles, et les candidats sont évalués pour établir s’ils satisfont aux exigences.
+[30] C’est la Division des services aux membres, qui compte entre 50 et 60 employés et trois sous‑divisions, qui s’en charge.
+[31] Premièrement, il y a l’Unité du service à la clientèle, qui répond aux questions des candidats ou des candidats potentiels, quelle que soit la méthode employée pour poser des questions. Cette unité compte environ 15 employés.
+[32] Deuxièmement, il y a l’Unité des registres d’adhésion, qui évalue les candidats qui, selon ce que je le comprends, ont reçu une formation en enseignement en Ontario. Cette unité compte plus d’une vingtaine d’employés.
+[33] Troisièmement, il y a l’Unité des services d’évaluation, dont le personnel est chargé d’évaluer les personnes qui ont fait leurs études en enseignement à l’extérieur de l’Ontario. Cette troisième unité compte quelque 15 employés.
+[34] Pendant la période en cause, tous les candidats payaient 125 $, TPS incluse, pour ce qu’on appelle les « droits d’inscription ». Ces droits sont prévus au paragraphe 22.01 des règlements administratifs de l’Ordre.
+[35] Les candidats qui ont suivi leurs études en enseignement à l’extérieur de l’Ontario payaient des droits additionnels de 225 $. Ces 225 $ incluaient la TPS, et c’est ce qu’on a appelé les « droits d’évaluation ». Ces droits sont prévus au paragraphe 22.03 des règlements administratifs de l’Ordre.
+[36] Une fois que les candidats étaient acceptés, s’ils avaient fait leurs études en enseignement en Ontario, ils avaient normalement payé leur cotisation annuelle en même temps que les droits d’inscription en cause. Par conséquent, dès qu’ils étaient acceptés, ils recevaient une trousse de bienvenue contenant tout à la fois leur certificat d’inscription et leur certificat de qualification.
+[37] Les candidats reçus qui se trouvaient à l’extérieur de l’Ontario devaient d’abord envoyer leur cotisation annuelle, s’ils ne l’avaient pas déjà fait, et ils recevaient ensuite leur certificat d’inscription et leur certificat de qualification.
+[38] Les candidats dont la candidature était rejetée recevaient une lettre les avisant du rejet de leur candidature, lettre qui faisait état des motifs de cette décision.
+[39] Au vu de la preuve dont je suis saisi, il ne fait aucun doute qu’il existe une procédure sérieuse visant à évaluer les candidats pour s’assurer qu’ils satisfont aux exigences établies en Ontario. Je note que le nombre de personnes qui voient leur candidature rejetée chaque année n’est pas négligeable. Aux pages 1 et 2 de la pièce A-4, on peut voir qu’en 2005, quelque 660 personnes se sont vu refuser le statut de membre. Cela représente environ 5 % du nombre de personnes qui ont été admises comme membres de l’Ordre cette année‑là.
+[40] Il s’agit d’une question d’interprétation des lois.
+[41] Je conclus qu’il est utile d’analyser la disposition en cause en la disposant visuellement d’une manière légèrement différente, comme je l’ai fait ci‑dessous :
+les services de
+a) renseignements […]
+ou
+b) les certificats ou autres documents attestant
+[les données suivantes :]
+(i) les statistiques démographiques,
+(ii) la résidence,
+(iii) la citoyenneté ou le droit de vote des personnes,
+(iv) leur inscription à un service offert par le gouvernement ou
+(v) toutes autres données les concernant.
+[42] J’ai ajouté « les données suivantes » entre crochets.
+[43] L’appelant a formulé un certain nombre d’arguments, lesquels mènent tous essentiellement à deux points.
+[44] Premièrement, l’appelant soutient que la fourniture en cause :
+1. n’est ni une fourniture de services de renseignements, comme il est décrit à mon alinéa a),
+2. ni une fourniture d’un certificat ou de tout autre document attestant un élément énoncé à mon alinéa b).
+[45] Je me pencherai d’abord sur l’argument selon lequel il ne s’agit pas de la fourniture de renseignements tombant sous le coup de l’alinéa a). Je reviendrai plus tard sur l’argument selon lequel il ne s’agit pas d’un certificat ou de tout autre document tombant sous le coup de l’alinéa b).
+[46] Deuxièmement, l’appelant affirme que les renseignements dont il est fait état dans le certificat ne sont pas des renseignements tombant sous le coup des types de renseignements que j’ai numérotés de (i) à (iv). Il est clair que les renseignements en question ne relèvent d’aucune de ces quatre catégories.
+[47] En outre, l’appelant soutient qu’il ne s’agit pas de toutes autres données concernant les personnes, comme il est prévu à mon sous‑alinéa (v), ci-dessus.
+[48] Comme il deviendra apparent plus tard, il ne m’est pas nécessaire de me pencher sur la question de savoir si les données relatives au fait d’être ou non un membre de l’Ordre renvoient à « toutes autres données », au sens du sous‑alinéa (v) ci‑dessus, et je n’examinerai donc pas cette question.
+[49] Toutefois, je voudrais souligner que le choix des mots dans la version française ferait en sorte que, si je devais trancher la question, il serait important d’examiner le libellé dans les deux langues conjointement. Je voudrais juste souligner que, en anglais, on utilise l’expression « any other status », ce qui signifie littéralement « tout autre statut ». Toutefois, comme je l’ai dit, je n’ai pas besoin de me pencher sur ce point.
+[50] Je reviendrai sur le premier argument de l’appelant et qualifierai ce qui, au vu de la preuve, est la nature des fournitures effectuées par l’Ordre.
+[51] L’Ordre obtient des renseignements, les étudie, si nécessaire, demande des renseignements additionnels s’il conclut que ce qu’il a reçu ne répond pas à ses attentes et procède à une évaluation pour établir si le candidat satisfait aux critères requis pour être admis comme membre de l’Ordre.
+[52] Il s’agit essentiellement d’évaluer les candidatures et d’établir si elles sont admissibles.
+[53] Il est vrai que, soit dit en passant, si une personne est admise, l’Ordre délivrera deux certificats, le certificat d’inscription et le premier certificat de qualification; les certificats de qualification délivrés par la suite ne font pas partie de cette procédure. D’ailleurs, si l’Ordre établit que quelqu’un n’est pas qualifié, il envoie à cette personne une lettre pour l’informer du rejet de sa candidature.
+[54] Afin d’examiner cette question, je vais tenir pour acquis, sans pour autant me prononcer, que la question de savoir si une personne est un membre et a des qualifications est une donnée au sens de la disposition en cause.
+[55] J’ai beaucoup de mal à concevoir que la procédure servant à évaluer une personne afin de décider si elle peut être membre de l’Ordre et à créer un document faisant état du résultat de cette évaluation relève d’une fourniture consistant à offrir des services de renseignements ou des certificats ou autres documents.
+[56] On procède à l’évaluation d’une candidature, et, bien sûr, on va garder une preuve documentaire de cette évaluation sous une forme ou sous une autre, mais il ne s’agit pas des fournitures exonérées visées par le paragraphe en cause.
+[57] À première vue, tomberait sous le coup de la disposition une personne qui demanderait, par exemple, un exemplaire de son acte de naissance et qui payerait des droits à cette fin.
+[58] Un des gestes posés par l’Ordre qui tomberait sous le coup de l’alinéa 20d) est le type de fourniture prévue par le paragraphe 23.06 des règlements administratifs de l’Ordre. Comme le prévoit cette disposition, si on perd son certificat d’inscription ou son certificat de qualification et qu’on souhaite en obtenir un duplicata, on doit pour cela payer des droits.
+[59] Il s’agit du genre de fourniture dont il est question ici, le duplicata est un renseignement relatif au fait d’être membre de l’Ordre. Il s’agit aussi d’un certificat ou autre document attestant le fait qu’on est membre.
+[60] Il s’agit de quelque chose de très différent de la procédure consistant à admettre quelqu’un au sein de l’Ordre.
+[61] Tout cela pour dire que je ne vois pas comment les fournitures effectuées en contrepartie des droits en cause tombent sous le coup de l’alinéa 20d) de la partie VI de l’annexe V de la Loi sur la taxe d’accise.
+[62] Avant de conclure, je voudrais souligner que j’accepte le point soulevé par l’intimée selon lequel l’expression utilisée dans la version anglaise de la Loi sur la taxe d’accise « in respect of » a un sens très large. Toutefois, cela revient à la question de savoir quels types de renseignements tombent sous le coup de la disposition et des éléments que j’ai numérotés de (i) à (v).
+[63] Je conviens également du fait que le terme « document » fait l’objet d’une définition large, parce que la Loi sur la taxe d’accise le définit comme incluant les registres, et que les registres sont à leur tour définis de manière extrêmement large comme comprenant toute chose renfermant des renseignements, que ceux‑ci soient par écrit ou sous toute autre forme, constituant le registre.
+[64] Toutefois, le fait que la définition vise une très large variété de formes de renseignements n’a pas pour effet de convertir une fourniture consistant en une procédure d’appréciation des titres de compétence de quelqu’un en une fourniture de preuve de données concernant cette personne ou de renseignements relatifs à ces données.
+[65] Pour ces motifs, je suis convaincu que les fournitures en cause, effectuées en contrepartie des droits d’inscription et d’évaluation, ne sont pas des fournitures qui tombent sous le coup de l’alinéa 20d), et, par conséquent, l’appel sera accueilli.
+Traduction certifiée conforme
+ce 11e jour de septembre 2014.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2014 CCI 130
+NO DU DOSSIER DE LA COUR : 2010-619(GST)G
+INTITULÉ : L’Ordre des enseignantes et des enseignants de l’Ontario
+c. La Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Les 27 et 28 mars 2014
+MOTIFS DU JUGEMENT : L’honorable juge
+Gaston Jorré
+DATE DES MOTIFS DU
+JUGEMENT RENDU ORALEMENT : Le 28 mars 2014
+DATE DU JUGEMENT : Le 2 avril 2014
+DATE DU JUGEMENT MODIFIÉ : Le 3 avril 2014
+DATE DE LA TRANSCRIPTION
+RÉVISÉE DES MOTIFS DU JUGEMENT : Le 29 avril 2014
+COMPARUTIONS :
+Avocats de l’appelant : Me John C. Yuan
+Me Brandon Siegal
+Avocat de l’intimée : Me John Grant
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant : John C. Yuan
+Brandon Siegal
+Cabinet : McCarthy Tétrault
+Toronto (Ontario)
+Pour l’intimée : William F. Pentney
+Sous‑procureur général
+du Canada
+Ottawa (Ontario)

@@ -1,0 +1,445 @@
+---
+title: "Lehigh Cement Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29208/index.do"
+last_modified: "2009-04-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 237"
+citation2: ""
+neutral_citation: "2009 TCC 237"
+decision_date: "2009-04-29"
+language: "en"
+item_id: "29208"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6704
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:19:01.185000+00:00"
+cases_cited_count: 0
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4f9b36d183e04c495f8766174d272734dc6e5fc56a2cac0b078aee8aa5ea8cbe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lehigh Cement Limited v. The Queen
+
+- Citation: 2009 TCC 237
+- Decision date: 2009-04-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6704, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lehigh Cement Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-29
+Neutral citation
+2009 TCC 237
+File numbers
+2007-2107(IT)G
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2107(IT)G
+BETWEEN:
+LEHIGH CEMENT LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 16 and 17, 2008,
+at Vancouver, British Columbia
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Counsel for the Appellant:
+Warren J.A. Mitchell, Q.C. and
+Mathew Williams
+Counsel for the Respondent:
+Daniel Bourgeois and Ronald MacPhee
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 1998, 1999, 2000, 2001 and 2002 taxation years, notices of which are dated May 3, 2005, are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that, in computing income, the Appellant is entitled to deduct as interest all quarterly amounts paid to Bank Brussels Lambert from March 1998 to September 2002 inclusive.
+The appeals from reassessments made under the Act for the 1998, 1999, 2000, 2001 and 2002 taxation years, notices of which are dated April 28, 2005, are allowed and the reassessments are referred back to the Minister for reconsideration and reassessment, but only for the purpose of cancelling the penalties assessed under subsection 227(8) of the Act.
+Signed at Ottawa, Canada, this 29th day of April, 2009.
+“M.A. Mogan”
+Mogan D.J.
+Citation: 2009 TCC 237
+Date: 20090429
+Docket: 2007-2107(IT)G
+BETWEEN:
+LEHIGH CEMENT LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan D.J.
+[1] The Appellant was incorporated in Canada in 1986 and has been resident in Canada at all relevant times. The Appellant is part of a group of construction entities which are all controlled, directly or indirectly, by Heidelburger Zement (“HZ”) a German publicly traded company. The taxation years under appeal are 1998, 1999, 2000, 2001 and 2002. In each of those years, the Appellant was indebted to a related Belgian corporation (a member of the HZ group) in the amount of $140,000,000 (herein sometimes referred to as the “Loan Amount”). The Loan Amount is always expressed in Canadian dollars.
+[2] Upon the direction of the related Belgian corporation, the Appellant paid the interest ($9,800,000 per year) on the Loan Amount to an arm’s length Belgian bank. The Appellant deducted such interest payments when computing income for Canadian income tax purposes. By Notices of Reassessment dated May 3, 2005, the Minister of National Revenue (the “Minister”) reassessed the Appellant under Part I of the Income Tax Act (the “Act”) to disallow as a deduction a portion of the amounts paid each year as interest on the Loan Amount. The portion of the amounts paid as interest which the Minister disallowed as a deduction was in the range of 71% to 90% of those total annual amounts ($9,800,000) for the five years under appeal.
+[3] By Notices of Reassessment dated April 28, 2005, the Minister reassessed the Appellant under Part XIII of the Act for failure to withhold tax in respect of amounts paid as interest on the Loan Amount. The Minister also imposed a penalty of 10% under section 227 of the Act. In each year under appeal, the Part XIII tax was $1,470,000 and the penalty was $147,000. (In 2002, those two amounts of tax and penalty were about 24% smaller).
+[4] When making the reassessments described in paragraphs 2 and 3 above, the Minister relied on section 16 of the Act, Part XIII of the Act, and the general anti-avoidance rule (“GAAR”) in section 245 of the Act. The Appellant has appealed from those reassessments. At the commencement of the hearing of these appeals, the parties filed as Exhibit 1 a Statement of Agreed Facts (“SAF”) comprising 48 paragraphs. There are seven different corporations within the HZ group referred to in the SAF. The relationships and transactions among members of the HZ group are somewhat complicated, and so I shall set out the complete terms of the SAF.
+Statement of Agreed Facts
+The Appellant
+1. The Appellant was incorporated on September 26, 1986 as “CBR Cement Canada Limited” and is a resident in Canada.
+2. On October 1, 1998 the Appellant changed its name to “Lehigh Portland Cement Limited”. The Appellant changed to its current name, “Lehigh Cement Limited”, on February 1, 2002.
+3. The Appellant was in the business of manufacturing cement as well as aggregates, ready-mix and other building materials.
+The organization during the period in question
+4. Heidelburger Zemeni(“HZ”) was a German publicly traded company and served as the parent company for the CBR group of construction entities.
+5. The direct shareholder of the Appellant was Sodexcar SA, a Belgian company, Sodexcar SA was a wholly owned subsidiary of another Belgian company, Cimenterics CBR SA (“CBR SA”).
+6. CBR Materials Corporation of Canada Limited (“Materials”) was incorporated on September 26, 1986. It was a resident of Canada and was affiliated with the Appellant.
+7. CBR International Services SA (“CBR IS”) was a company located in Belgium and was ultimately owned by HZ. CBE IS was a Belgian Coordination Centre and was acting as the treasury centre for the corporations within the HZ group.
+The 1986 borrowing
+8. On October 23, 1986, the Appellant entered into a credit agreement with a consortium of banks led by the Royal Bank of Canada, pursuant to which it was provided a credit facility for a sum not to exceed $330,000,000 (the “1986 Credit Agreement”)
+9. The borrowing was made for the purpose of acquiring certain cement, aggregate and construction business assets of Genstar Corporation located in Canada.
+10. Included in that credit facility was a “Term Credit Facility” under which the Appellant received a loan of $140,000,000 bearing a fluctuating rate of interest (the “Loan”).
+11. Pursuant to an agreement called the “Participation Agreement”, dated December 11, 1986, the right to reserve principal and interest on the Loan was assigned to Materials in consideration of the payment of $140,000,000. the principal owing under the Loan at that time was $140,000,000.
+12. The sum of $140,000,000 was acquired by Materials by issuing 140,000 preferred shares of Materials to CBR SA on December 12, 1986. The source of the funds for that purchase was a loan from CBR IS the CBR group’s treasury centre. The preferred shares were subsequently transferred to Industriele Deelneming Maatschappij (Idema) B.V. (“Idema B.V.”), a direct subsidiary of CBR SA, on September 27, 1993.
+13. By letter agreement dated September 29, 1987, between Materials and the Appellant, the maturity date under the Loan was extended, such that it would only mature upon demand.
+14. After 1987, the only amounts owing under the 1986 Credit Agreement was the amount of $140,000,000 owed to Materials.
+The 1994 assignment
+15. Pursuant to an “Assignment”, dated September 15, 1994, and in consideration of the payment of $140,000,000, Materials sold, transferred and assigned to CBR IS the right to receive principal and interest under the Loan.
+16. No additional funds were acquired by the CBR group of companies to complete this transaction. The flow of funds with the CBR group in relation to this transaction was as follows:
+a) Materials assigned the Loan to CBR IS in exchange for $140,000,000;
+b) Materials used the $140,000,000 to redeem the preferred shares held by Idema B.V.;
+c) Idema B.V. was liquidated by CBR SA.
+d) CBR SA used the $140,000,000 received on the liquidation to repay the loan it received from CBR IS in 1986.
+17. Following these transactions, Materials and the Appellant amalgamated to form a new corporation which continued to be called CBR Cement Canada Limited (now the Appellant).
+18. Pursuant to the same Assignment, the repayment provisions relating to the Loan were amended such that the loan was to be repaid in full on September 15, 2009, subject to an option given to the Appellant to extend the term for successive periods of five years.
+19. The $140,000,000 owed by the Appellant to CBR IS remained outstanding in it entirety as of August 27, 1997.
+The 1997 restructuring
+20. Prior to August 1997, the Appellant withheld and remitted 15% tax on interest paid to CBR IS pursuant to s. 212(1)(b) of the Income Tax Act (the “Act”). By as early as January 1997, the Appellant began reviewing the Loan to determine if it could be restructured in order to avoid such tax. To do so would be an efficient way of repatriating funds to CBR IS because the interest would then be deductible in Canada and not subject to withholding tax.
+21. At the time of implementation of the new structure, the interest rates were at some of their lowest in history in Canada but were expected to increase in the future.
+22. Prior to the Amendment and Restatement of Credit Agreement, the interest rate under the Loan was at the Canadian Prime rate which, at the time was 4.75%. The Canadian Prime rate was expected to increase to 5%.
+23. By an agreement title “Amendment and restatement of Credit Agreement in the Form of a Subordinated Note Due September 15, 2009”, the 1986 Credit Agreement which included the Loan, was restated in the form of a subordinated note (the “Note”).
+24. Pursuant to the terms of the Note, the Appellant was not obligated under any circumstances (other than an event of default) to pay more than 25% of the principal amount of the Note within five years from the date of the issue of the Note.
+25. The terms of the Note entitled the holder of the Note (in this case, CBR IS) to sell all or any portion of the rights to receive interest payments under it (sic) to a third party (individually, an “Interest Payment”). The ownership interest in an Interest Payment was evidenced by an “Interest Payment Receipt”.
+26. The terms of the Loan were also amended as follows:
+a) The interest rate changed from the Canadian Prime Rate to a fixed rate of 7% for the first five years.
+b) The Appellant assumed liability for any Part XIII tax by agreeing
+to add any withholding tax payable to the interest payments such that the net interest payment to the holder of the Note would be unaffected.
+27. In terms of the existing loan structure, the low interest rate was seen by the CBR group as a factor which diminished the benefits to the group. This was because there was a smaller interest deduction in Canada and less funds being repatriated to Belgium.
+28. A new loan structure that would provide for a higher interest rate charged to the Appellant and eliminate the Canadian withholding tax interest payments was seen by the CBR group as an efficient method of repatriating Canadian profits to Belgium.
+29. The CBR group assumed that the arm’s length interest rate in Canada for a five-year period for such a note was 7%. This was confirmed as being reasonable through discussions with the group’s bankers in the United States.
+30. In issuing the reassessments, the Canada Revenue Agency assumed that 7% was the market rate of interest for a debt of this nature.
+31. Based on an analysis in the spring of 1997, the savings that would be generated by the new loan structure over the life of the Loan were estimated to be approximately $11 million. Depending on the interest rate used, the net present value of the savings was estimated at $13.1 to $19.7 million for the CBR group of companies. Those savings were to be accomplished chiefly by avoiding the Part XIII tax in Canada.
+The sale of the Interest Payment Receipts
+32. On August 28, 1997, CBR IS sold to Bank Brussels Lambert (“BBL”), a Belgium corporation, the right to receive all interest payments on the Loan due prior to September 16, 2002 for $42,673,913.67 (the “Purchase Agreement”).
+33. BBL was a Belgium bank which dealt at arm’s length with the Appellant.
+34. At the time, the face value of the Interest Payment Receipts totalled $49,456,438.30, payable as follows:
+Date
+Amount
+December 15, 1997
+$2,906,438.30
+March 16, 1998
+2,450,000.00
+June 15, 1998
+2,450,000.00
+September 15, 1998
+2,450,000.00
+December 15, 1998
+2,450,000.00
+March 15, 1999
+2,450,000.00
+June 15, 1999
+2,450,000.00
+September 15, 1999
+2,450,000.00
+December 15, 1999
+2,450,000.00
+March 15, 2000
+2,450,000.00
+June 15, 2000
+2,450,000.00
+September 15, 2000
+2,450,000.00
+December 15, 2000
+2,450,000.00
+March 15, 2001
+2,450,000.00
+June 15, 2001
+2,450,000.00
+September 17, 2001
+2,450,000.00
+December 17, 2001
+2,450,000.00
+March 15, 2002
+2,450,000.00
+June 17, 2002
+2,450,000.00
+September 16, 2002
+2,450,000.00
+$49,456,438.30
+35. After the completion of the above transactions, CBR IS continued to hold the “principal residue receipts” on the $140 million loan to the Appellant, while the Appellant made interest payments to BBL.
+36. A determining factor in the decision by the BBL to become involved in this transaction was the necessity of a parent company of the Appellant to provide a Put Agreement to BBL.
+37. Pursuant to a “Put Agreement” entered into on August 28, 1997, CBR SA agreed that in the event of a default under the Note, CBR SA may be required to purchases the “Interest Payments Receipts” from BBL for a defined purchase price.
+38. As a further condition for acquiring the Interest payment Receipts, BBL required that CBR IS enter into a “Funding Indemnity” in favour of BBL that protected BBL from any hedging losses that could arise in the event of an early payout of interest.
+39. On each interest payment date, the Appellant paid interest directly to BBL as stipulated in the Interest Payment Receipt and the Appellant deducted such interest payments in computing its income. The Appellant did not withhold Part XIII tax in respect of any of the interest payments to BBL.
+40. As a result of the above described transactions, the Appellant did not access international capital markets but instead restructured an existing loan with a related corporation. No new accounts were borrowed by the Appellant.
+The reassessments
+41. By Notices of Reassessment dated May 3, 2005, the Minister of National Revenue (the “Minister”) reassessed the Appellant for the 1998 to 2000 taxation years under Part I of the Act to treat a portion of the interest payments as other than interest and to disallow a portion of the deduction claimed by the Appellant in respect of the interest payments as follows:
+Year
+Disallowed interest expenses
+1998
+$7,641,188
+1999
+8,024,849
+2000
+8,427,774
+2001
+8,850,929
+2002
+6,929,598
+42. By Notices of Reassessment dated April 28, 2005, the Minister also reassessed the Appellant under Part XIII of the Act to impose withholding tax in respect of the interest payment and to impose a penalty under s. 227(8) of the Act in the following amounts:
+Year
+Part XIII Tax
+S.227(8 ) Penalty
+1998
+$1,470,000
+$147,000
+1999
+1,470,000
+147,000
+2000
+1,470,000
+147,000
+2001
+1,470,000
+147,000
+2002
+1,102,500
+110,250
+The GAAR
+43. From 1998 to 2002, as a result of a series of transactions, CBR IS avoided Part XIII withholding tax on the interest payments made by the Appellant on the Loan.
+44. The series of transactions was comprised of the following transactions (the “Series of Transactions”):
+a) The Amendment and Restatement of Credit Agreement between CBR IS and the Appellant;
+b) the Purchase Agreement between CBR IS and BBL;
+c) the payments made by the Appellant to BBL from 1998 to 2002.
+45. Neither the Amendment and Restatement of Credit Agreement nor the Purchase Agreement were undertaken or arranged primarily for bona fide purposes other than to avoid Part XIII tax.
+46. The principal purpose of the Appellant in entering into the above-described transactions was to cause the interest payments on the Loan to comply with the exempting provisions of s. 212(1)(b)(vii) of the Act.
+47. The Series of Transactions resulted in a “tax benefit” as that term in defined in subsection 245(1) of the Act.
+48. As a result of the facts specified in paragraph 42 of this Statement of Agreed Facts, the Series of Transactions resulted in there being an “avoidance transaction” as that term is defined in subsection 245(3) of the Act.
+[5] There were no witnesses called to give oral testimony at the hearing of these appeals. Exhibit 2 is a Joint Book of Documents comprising 30 documents under separate numbered tabs. Exhibit 3 is a binder of the Appellant’s Key Documents comprising five documents each of which is contained in Exhibit 2. Exhibits 4, 5, 6 and 7 are read-ins from portions of the Examinations for Discovery of both parties, plus a letter from the Appellant’s counsel with respect to certain undertakings.
+[6] In argument, counsel for the Appellant stated that the first 19 paragraphs of the SAF were simply background. That statement may very well be true but background facts are relevant. Those first 19 paragraphs describe certain transactions from September 1986 to August 1997 involving about six corporate members of the HZ group. At the risk of error in summarizing facts to which the Parties have agreed, I propose to condense the most relevant transactions described in those first 19 paragraphs using the abbreviated corporate names already identified in the SAF.
+A. In October 1986, the Appellant borrowed $140,000,000 (the “Loan Amount”) from a group of Canadian banks. The Loan Amount was used by the Appellant to acquire business assets. The borrowing/lending transaction between the Appellant and the group of banks is herein referred to as the “Loan”.
+B. In December 1986, Materials (within the HZ group) purchased the Loan receivable from the group of Canadian banks upon the payment of an amount equal to the Loan Amount.
+C. Within the HZ group, CBR IS is the treasury centre. Materials acquired the funds to purchase the Loan receivable by issuing preferred shares for $140,000,000 to CBR SA (within the HZ group) which, in turn, had borrowed that amount from CBR IS.
+D. In September 1987, Materials and the Appellant agreed to change the maturity date under the loan so that it would mature only on demand.
+E. In September 1994, Materials sold the Loan receivable to CBR IS for $140,000,000.
+F. No fresh money was required within the HZ group to do the transaction in E above. The basic amount of $140,000,000 simply went around in a circle as follows:
+(i) CBR IS paid the basic amount of $140 million to Materials in order to purchase the Loan receivable.
+(ii) Materials used the basic amount to redeem the preferred shares referred to in C above.
+(iii) CBR SA used the basic amount received upon the redemption of the preferred shares to repay the amount borrowed from CBR IS in December 1986 referred to in B and C above.
+G. After the transactions in E and F above, Materials and the Appellant amalgamated; and the new amalgamated corporation continued as the Appellant.
+H. When the Loan receivable was sold by Materials to CBR IS in September 1994 (see E above), the repayment provisions were amended so that the Loan Amount was to be repaid in full on September 15, 2009 subject to the Appellant’s option to extend the term for successive periods of five years.
+I. On August 27, 1997, the Appellant owed the full Loan Amount to CBR IS.
+[7] Paragraph 6 above contains my summary of the first 19 paragraphs of the SAF. The remaining paragraphs of the SAF contain the more relevant facts on which the reassessments were based. It is not necessary to summarize those remaining paragraphs but I will refer to them later in these reasons.
+[8] There are only two issues to be decided in these appeals:
+(i) For the taxation years 1998 to 2002, do the facts and the law support the reassessments (May 3, 2005) which disallow, as a deduction in computing income, a portion of the amounts paid by the Appellant as interest with respect to the Loan Amount? These reassessments rely on paragraph 16(1)(a) of the Act. See paragraph 41 of the SAF.
+(ii) For the taxation years 1998 to 2002, do the facts and the law support the reassessments (April 28, 2005) which deny to the Appellant the exemption from withholding tax otherwise permitted by subparagraph 212(1)(b)(vii) of the Act? These reassessments rely on the GAAR in section 245 of the Act. See paragraph 42 of the SAF.
+The Issue Concerning Paragraph 16(1)(a)
+[9] In the five taxation years under appeal, the Appellant paid quarterly amounts to Bank Brussels Lambert (“BBL”) as interest with respect to the Loan Amount ($140,000,000). Those quarterly amounts are consolidated into annual payments and shown in the table below. The annual payment for 2002 is less than the prior years because there were only three quarterly amounts paid to BBL in that year. Also, in the table below are the amounts disallowed to the Appellant as deductions in computing income by the reassessments issued on May 3, 2005. And finally, in the same table is a statement of the percentage that the portion disallowed is of the total annual payment by the Appellant to BBL.
+Tax Year
+Annual Payments
+to BBL
+Portion Disallowed
+as a Deduction
+Portion Disallowed as Percent of Total
+1998
+$9,800,000
+$7,641,188
+78%
+1999
+9,800,000
+8,024,849
+82%
+2000
+9,800,000
+8,427,774
+86%
+2001
+9,800,000
+8,850,929
+90%
+2002
+7,350,000
+6,929,598
+94%
+[10] The portion of the Appellant’s annual payments to BBL disallowed as a deduction each year as shown in paragraph 9 above was determined by the Canada Revenue Agency (“CRA”) based upon the transaction between CBR IS and BBL described in paragraphs 32, 33 and 34 of the SAF. In that transaction, CBR IS sold to BBL the right to receive all 20 interest amounts (payable by the Appellant) on the Loan Amount due in quarterly instalments from December 15, 1997 to September 16, 2002 inclusive. The total of those 20 quarterly instalments was $49,456,438.30. BBL paid to CBR IS in August 1997 a lump sum amount of $42,673,913.67 for the right to receive those 20 quarterly instalments.
+[11] In a letter dated April 22, 2005 from the CRA to the Appellant, the CRA rounded up the two relevant amounts: $49,456,438.30 became $50 million, and $42,673,913.67 became $43 million. That letter states in part:
+Although the payments BBL received had the legal form of being $50 million of interest, in economic terms its true compensation is only $7 million because it had a cost of $43 million to purchase the interest coupons.
+Exhibit 2, Tab 15, page 7
+[12] Using those rounded amounts, the CRA reassessment theory may be expressed as follows:
+(i) BBL made a capital outlay of $43 million for the right to receive a stream of 20 quarterly payments over a five-year period.
+(ii) The total of all 20 quarterly payments over that five-year period was $50 million.
+(iii) Because the quarterly payments were all equal in amount, each payment contained part of the original capital outlay ($43 million) plus some interest earned on that capital outlay.
+(iv) As in all amortized debt, the interest element in each successive equal payment decreased and the capital element in each successive equal payment increased.
+(v) In the table in paragraph 9 above, this reassessment theory explains why the portion disallowed each year as “capital” increased from 78% in 1998 to 94% in 2002.
+The letter from the CRA to the Appellant quoted above (Exhibit 2, Tab 15) contains an amortization schedule at page 18 showing how the “capital portion” of each quarterly payment was calculated. The total of the “capital portions” in the four quarterly payments in any particular year became the “portion disallowed” in the table in paragraph 9 above. Also, the total of the “capital portions” in all 20 quarterly payments was the $43 million capital outlay.
+[13] As the table in paragraph 9 illustrates, the reassessments issued on May 3, 2005 disallowed as deductions in computing income a significant portion of the amounts paid as interest by the Appellant to BBL. Those reassessments are based on paragraph 16(1)(a) of the Act.
+(16)(1) Where, under a contract or other arrangement, an amount can reasonably be regarded as being in part an interest or other amount of an income nature and in part an amount of a capital nature, the following rules apply:
+(a) the part of the amount that can reasonably be regarded as interest shall, irrespective of when the contract or arrangement was made or the form or legal effect thereof, be deemed to be interest on a debt obligation held by the person to whom the amount is paid or payable; and
+(b) …
+Certain words used in the SAF (see in particular paragraphs 35 and 39) indicate that the parties have agreed that the whole amount of each payment made by the Appellant to BBL had the character of “interest” and not “capital”. In a letter to the Court, after the hearing, counsel for the Appellant conceded that any such words should not be construed as an admission by the Respondent. Such words were used in the SAF only to reflect the form of the relevant documents.
+[14] The Amendment and Restatement of the Credit Agreement dated August 28, 1997 is Exhibit 2, Tab 1. Schedule “I” to that Agreement is the Subordinated Note due September 15, 2009. In paragraph 1(a) of the Subordinated Note, the annual interest payable on the Loan Amount is set at 7% for the period from August 28, 1997 to September 15, 2002. It is the 7% rate of interest on the Loan Amount ($140 million) which required annual interest payments of $9,800,000 and quarterly installments of $2,450,000 as seen in paragraph 34 of the SAF, and in the table in paragraph 9 above.
+[15] With reference to the Subordinated Note dated August 28, 1997 and the interest rate of 7% per annum running from that date to September 15, 2002, the SAF states:
+29. The CBR group assumed that the arm’s length interest rate in Canada for a five-year period for such a note was 7%. This was confirmed as being reasonable through discussions with the group’s bankers in the United States.
+30. In issuing the reassessments, the Canada Revenue Agency assumed that 7% was the market rate of interest for a debt of this nature.
+From those statements, I conclude that 7% was the “arm’s length interest rate” and the “market rate of interest” for the principal amount and the first five years of the Subordinated Note when it was signed in August 1997.
+[16] The most important words in the opening clause of subsection 16(1) are:
+Where, under a contract …, an amount can reasonably be regarded as being in part interest … and in part … capital …
+What I am required to determine is whether each quarterly amount paid by the Appellant to BBL from December 1997 to September 2002 can reasonably be regarded as being in part interest and in part capital. This is primarily a question of fact. For the reasons that follow, I have concluded that no part of any quarterly amount paid by the Appellant to BBL can reasonably be regarded as being capital.
+[17] Paragraph 34 of the SAF shows that the 19 quarterly amounts paid by the Appellant as borrower in the five taxation years under appeal were all equal at $2,450,000. The Subordinated Note (Exhibit 2, Tab 1, Schedule “I”) states in paragraph 1(a) that interest at the rate of 7% per annum shall be paid on the Loan Amount ($140 million) for the period when those 19 quarterly amounts were paid. 7% of $140 million produces annual interest of $9,800,000 and quarterly interest of $2,450,000. Under the terms of the Subordinated Note, the Appellant as borrower was required to pay interest at the rate of 7% per annum on the Loan Amount. In the corporate mind of the Appellant, the whole of each quarterly amount ($2,450,000) was interest because it was the only way that the Appellant could discharge its obligation to pay 7% annual interest on the Loan Amount.
+[18] Also, after September 2002 when the 20th quarterly amount had been paid by the Appellant to BBL, the Appellant still owed the whole Loan Amount ($140 million) to CBR IS as holder of the Subordinated Note. In other words, if any part of a quarterly amount could reasonably be regarded as being capital, then the Loan Amount ($140 million) would have been reduced by such capital part.
+[19] A close look at the amortization schedule attached to the CRA letter (Exhibit 2, Tab 15, page 18) shows that the CRA was able to amortize BBL’s recovery of its capital outlay ($42,673,914) only by imputing an interest rate of 4.929105% per annum to the 20 quarterly installment payments. In the corporate mind of the Appellant, an interest rate of 4.929105% was unknown. The only interest rate that the Appellant recognized was the 7% per annum which it was obliged to pay under the terms of the Subordinated Note.
+[20] The CRA was able to impute a “capital” element to each of the 20 quarterly amounts because it looked at only the transaction between BBL and CBR IS in which BBL paid $43 million (rounded) in August 1997 for the right to receive $50 million (rounded) in quarterly installments ending in September 2002. Although the Appellant was a party to that transaction, the Appellant did not receive any part of the $43 million, and the Appellant remained obligated to pay the whole Loan Amount ($140 million) to CBR IS after September 2002.
+[21] When the Appellant looks at the 20 quarterly amounts, it sees only 7% interest per annum because of (i) the terms of the Subordinated Note; and (ii) the whole Loan Amount ($140 million) still owing after September 2002. When BBL looks at the 20 quarterly amounts, it sees (in simplistic terms) 43/50 of each amount as a recovery of capital and 7/50 of each amount as interest. When the Minister issued the reassessments of May 3, 2005, the Minister was looking at the 20 quarterly amounts through the eyes of BBL. The Minister chose the wrong point of view because BBL is not before the Court. Only the Appellant is challenging the reassessments and it views the quarterly amounts as exclusively interest.
+[22] The CRA has published Interpretation Bulletin IT-265R3 dated October 7, 1991 with respect to section 16; and the Bulletin states at paragraph 2:
+2. A blended payment can be described as an amount, the make-up of which is not definitely ascertainable. In other words there must be some uncertainty as to the portion of the payment that is capital and the portion that can reasonably be regarded as interest or some other type of income such as the profit on a sale transaction. However, if all the constituent elements of a payment are provided for in a contract or arrangement, and are reasonable, the payment is not a blended payment and subsection 16(1) does not apply.
+Section 16 will sometimes apply in a contract of purchase and sale. If property having a fair market value of $100,000 is sold for a stated price of $120,000 payable by installments over a period of years with no provision for interest in the agreement of purchase and sale, a part of each installment payment may be regarded as consideration for the fair market value of the property (capital); and the remaining part may be regarded as interest to the vendor for the delayed payment of the fair market value.
+[23] In the circumstances of this case, the original debt was restated to separate the principal amount from the agreed interest payments; and the right to receive the interest payments was sold in an arm’s length transduction to BBL. I would have to ignore both the legal form and the economic substance of the relevant transactions in order to determine that the quarterly amounts paid by the Appellant to BBL are blended payments. I will not make that determination. The CRA created blended payments only by the use of a totally artificial interest rate of 4.929105% per annum.
+[24] Paragraph 16(1)(a) does not apply to the quarterly amounts paid by the Appellant to BBL. The appeals from the reassessments issued on May 3, 2005 are allowed.
+The Issue Concerning the GAAR
+[25] Part XIII of the Act (sections 212 to 218) imposes a 25% tax on every non‑resident person who receives passive income (interest, dividend, rent, royalty, etc.) from a person resident in Canada. Under section 215, every person resident in Canada who pays passive income to a non-resident person is obliged to withhold and remit the tax payable by the non-resident. Section 215 is a necessary collection device. The Part XIII tax is thus commonly known as a withholding tax. In the tax treaties which Canada negotiates with many other countries, the 25% tax rate under Part XIII is almost always reduced to 15% or some lower rate.
+[26] Paragraph 20 of the SAF states:
+20. Prior to August 1997, the Appellant withheld and remitted 15% tax on interest paid to CBR IS pursuant to s. 212(1)(b) of the Income Tax Act (the “Act”). By as early as January 1997, the Appellant began reviewing the Loan to determine if it could be restructured in order to avoid such tax. To do so would be an efficient way of repatriating funds to CBR IS because the interest would then be deductible in Canada and not subject to withholding tax.
+There are a number of exempting provisions in paragraph 212(1)(b) which permit interest on a loan to be paid to a non-resident person free of withholding tax. In particular, subparagraph 212(1)(b)(vii) grants an exemption upon the following conditions (and I will quote only the relevant parts):
+212(1) Every non-resident person shall pay an income tax of 25% on every amount that a person resident in Canada pays or credits, or is deemed by Part I to pay or credit, to the non-resident person as, on account or in lieu of payment of, or in satisfaction of,
+(a) …
+(b) interest except
+(i) …
+(vii) interest payable by a corporation resident in Canada to a person with whom that corporation is dealing at arm’s length on any obligation where the evidence of indebtedness was issued by that corporation after June 23, 1975 if under the terms of the obligation or any agreement relating thereto the corporation may not under any circumstances be obliged to pay more than 25% of
+(A) …
+(B) in any other case, the principal amount of the obligation,
+within 5 years from the date of issue of that single debt issue or that obligation, as the case may be, except
+(C) …
+[27] In the pleadings, the parties raised an issue as to whether the amounts paid by the Appellant as interest to BBL qualified for the exemption in subparagraph 212(1)(b)(vii). At the hearing, however, the parties were in agreement that the necessary conditions had been satisfied, and that such amounts paid to BBL did qualify for the exemption. I refer to paragraphs 24 and 39 of the SAF. In other words, if the GAAR does not apply, the amounts paid by the Appellant as interest to BBL would be free of withholding tax.
+[28] Set out below are the relevant provisions of the GAAR:
+245(1) In this section, "tax benefit" means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act, and includes a reduction, avoidance or deferral of tax or other amount that would be payable under this Act but for a tax treaty or an increase in a refund of tax or other amount under this Act as a result of a tax treaty;
+…
+"transaction" includes an arrangement or event.
+245(2) Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that includes that transaction.
+245(3) An avoidance transaction means any transaction
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+245(4) Subsection (2) applies to a transaction only if it may reasonably be considered that the transaction
+(a) would, if this Act were read without reference to this section, result directly or indirectly in a misuse of the provisions of any one or more of
+(i) this Act,
+(ii) … or
+(b) would result directly or indirectly in an abuse having regard to those provisions, other than this section, read as a whole.
+245(5) Without restricting the generality of subsection (2), and notwithstanding any other enactment,
+(a) any deduction, exemption or exclusion in computing income, taxable income, taxable income earned in Canada or tax payable or any part thereof may be allowed or disallowed in whole or in part,
+(b) …
+in determining the tax consequences to a person as is reasonable in the circumstances in order to deny a tax benefit that would, but for this section, result, directly or indirectly, from an avoidance transaction.
+[29] Counsel for both parties cited and relied on the unanimous decision of the Supreme Court of Canada in The Queen v. Canada Trustco Mortgage Company, [2005] 2 S.C.R. 601. In that decision, the Supreme Court stated in paragraph 17:
+17 The application of the GAAR involves three steps. The first step is to determine whether there is a “tax benefit” arising from a “transaction” under s. 245(1) and (2). The second step is to determine whether the transaction is an avoidance transaction under s. 245(3), in the sense of not being “arranged primarily for bona fide purposes other than to obtain the tax benefit”. The third step is to determine whether the avoidance transaction is abusive under s 245(4). All three requirements must be fulfilled before the GAAR can be applied to deny a tax benefit.
+The burden of proof is on the taxpayer to refute steps one and two, but the burden is on the Minister to establish step three. In this appeal, the Appellant concedes that it has received a “tax benefit” and that the relevant transactions meet the definition of “avoidance transactions” within the meaning of section 245. Therefore, the only question remaining on the GAAR issue is to determine whether the avoidance transaction was abusive under subsection 254(4).
+[30] With respect to the words “misuse” and “abuse” in subsection 245(4), the Supreme Court of Canada stated in Canada Trustco at paragraphs 43, 49 and 55:
+43 For these reasons we conclude, as did the Tax Court judge, that the determinations of “misuse” and “abuse” under s. 245(4) are not separate inquiries. Section 245(4) requires a single, unified approach to the textual, contextual and purposive interpretation of the specific provisions of the Income Tax Act that are relied upon by the taxpayer in order to determine whether there was abusive tax avoidance.
+49 In all cases where the applicability of s. 245(4) is at issue, the central question is, having regard to the text, context and purpose of the provisions on which the taxpayer relies, whether the transaction frustrates or defeats the object, spirit or purpose of those provisions. The following points are noteworthy:
+(1) While the Explanatory Notes use the phrase “exploit, misuse or frustrate”, we understand these three terms to be synonymous, with their sense most adequately captured by the word “frustrate”.
+(2) The Explanatory Notes elaborate that the GAAR is intended to apply where under a literal interpretation of the provisions of the Income Tax Act, the object and purpose of those provisions would be defeated.
+(3) The Explanatory Notes specify that the application of the GAAR must be determined by reference to the facts of a particular case in the context of the scheme of the Income Tax Act.
+(4) The Explanatory Notes also elaborate that the provisions of the Income Tax Act are intended to apply to transactions with real economic substance.
+55 In summary, s. 245(4) imposes a two-part inquiry. The first step is to determine the object, spirit or purpose of the provisions of the Income Tax Act that are relied on for the tax benefit, having regard to the scheme of the Act, the relevant provisions and permissible extrinsic aids. The second step is to examine the factual context of a case in order to determine whether the avoidance transaction defeated or frustrated the object, spirit or purpose of the provisions in issue.
+In paragraph 49 quoted above, the “Explanatory Notes” are described in paragraph 15 of the Supreme Court reasons as notes issued by the Minister of Finance in June 1988 when introducing the legislation which became the GAAR.
+[31] Because counsel for both parties relied heavily on the decision of the Supreme Court in Canada Trustco, I will quote those additional passages from the Supreme Court reasons which I find helpful.
+57 … The central inquiry is focussed on whether the transaction was consistent with the purpose of the provisions of the Income Tax Act that are relied upon by the taxpayer, when those provisions are properly interpreted in light of their context. Abusive tax avoidance will be established if the transactions frustrate or defeat those purposes.
+58 … When properly interpreted, the statutory provisions at issue in a given case may dictate that a particular tax benefit may apply only to transactions with a certain economic, commercial, family or other non-tax purpose. The absence of such considerations may then become a relevant factor towards the inference that the transactions abused the provisions at issue, but there is no golden rule in this respect.
+59 … The analysis under s. 245(4) requires a close examination of the facts in order to determine whether allowing a tax benefit would be within the object, spirit or purpose of the provisions relied upon by the taxpayer, when those provisions are interpreted textually, contextually and purposively. …
+60 However, abusive tax avoidance may be found where the relationships and transactions as expressed in the relevant documentation lack a proper basis relative to the object, spirit or purpose of the provisions that are purported to confer the tax benefit, or where they are wholly dissimilar to the relationships or transactions that are contemplated by the provisions.
+[32] The decision of the Supreme Court of Canada in Mathew v. The Queen, [2005] 2 S.C.R. 643 was issued on the same day (October 19, 2005) as its companion case, Canada Trustco. In paragraph 2 of Mathew, the Supreme Court stated:
+2 As discussed more fully in Canada Trustco, a tax benefit may be denied under the GAAR if allowing the tax benefit would frustrate or defeat the object, spirit or purpose of the provisions that are relied upon for the tax benefit. …
+In both Canada Trustco and Mathew, the taxpayers conceded that there was a “tax benefit” and an “avoidance transaction” within the meaning of section 245. Both cases proceeded to the Supreme Court on the single question of whether there had been abusive tax avoidance. In Canada Trustco, the taxpayer succeeded. In Mathew, the Minister succeeded.
+[33] In paragraph 66 of the Supreme Court reasons in Canada Trustco, there is a useful summary of the Court’s approach to the interpretation and application of section 245 of the Act. I have, however, already quoted in paragraphs 30 and 31 above the passages from those same reasons which I find most helpful in this appeal. In particular, because I am concerned only with subsection 245(4), I will take the following direction from paragraph 49 of the reasons in Canada Trustco:
+The central question is, having regard to the text, context and purpose of the provisions on which the taxpayer relies, whether the transaction frustrates or defeats the object, spirit or purpose of those provisions.
+[34] What is the text, context and purpose of subparagraph 212(1)(b)(vii) of the Act? Part XIII of the Act (sections 212 to 218) imposes a withholding tax on passive income (not derived from business or employment) paid by a person resident in Canada to a non-resident person. Section 212 is the charging section identifying the particular kinds of income to be taxed (e.g. management fee, interest, rent, royalty, dividend, trust income, etc.). Interest is taxed under paragraph 212(1)(b) but there are 12 exceptions in subparagraphs (i) to (xii) inclusive.
+[35] The relevant parts of subparagraph 212(1)(b)(vii) are set out in paragraph 26 above, and the important qualifying conditions are:
+- interest is payable by a corporation resident in Canada;
+- payable to an arm’s length non-resident person;
+- evidence of the debt was issued by the corporation after 1975;
+- the corporation is not obliged to pay more than 25% of the principal amount within 5 years from the date when the debt instrument was issued.
+Counsel for the Appellant argued that the 12 subparagraphs are discrete in that each stands alone; and none of the subparagraphs informs the meaning of another. I am inclined to agree. Each subparagraph seems to provide for a particular set of circumstances.
+[36] The text of subparagraph (vii) is clear. The parties agree that the qualifying conditions have been met, and that all amounts of interest paid by the Appellant to BBL from December 1997 to September 2002 qualify for the exemption in subparagraph (vii). The context is to tax passive income flowing from persons resident in Canada to non-resident persons. This kind of income would not be taxed under Part I of the Act; and so Part XIII creates a new tax and contains its own charging provision. I turn now to the purpose of subparagraph (vii).
+[37] In argument, counsel for the Respondent referred to a paper delivered by Robert Kopstein (a lawyer) and Janette Pantry (a chartered accountant) at the Fifty-Seventh Tax Conference of the Canadian Tax Foundation in 2005. In the introduction to the paper, the authors set out the policy underlying subparagraph (vii):
+The policy rationale behind the withholding tax exemption in subparagraph 212(1)(b)(vii) is to provide Canadian businesses with access to foreign capital markets for medium- and long-term debt. The withholding tax exemption is a key factor in enabling foreign lenders to make loans to Canadian businesses because, for a variety of reasons, the foreign lenders are often unable to mitigate the cost of withholding tax. Because of the long-term nature of the loans that are eligible for the subparagraph 212(1)(b)(vii) withholding tax exemption, foreign lenders often require a high level of certainty that the exemption will apply to a particular loan.
+Later in the paper, the authors consider whether back-to-back loans could be used to avoid the arm’s length condition.
+Some of the older CRA documents also consider whether a back-to-back loan structure could be used to avoid the arm’s length requirement in subparagraph 212(1)(b)(vii). In the situation described in these documents, a non-resident person deposited funds with a non-resident financial institution, which in turn loaned the funds to a Canadians corporation that did not deal at arm’s length with the non-resident. The CRA indicated that the transaction could be an avoidance transaction and could be considered a misuse of subparagraph 212(1)(b)(vii). The CRA’s comments seem reasonable in that the purpose of the subparagraph is to allow Canadian businesses to gain access to funds in international capital markets from arm’s length lenders, and this type of back-to-back structure is designed to circumvent the arm’s length requirement in subparagraph 212(1)(b)(vii),
+[38] The Respondent relied on two other sources to describe the purpose of subparagraph (vii). First, in the Canadian Tax Journal, January/February 1987 (published by the Canadian Tax Foundation), J. Scott Wilkie (a lawyer) wrote an article under the title “Structuring International Debt Issues: A Canadian Perspective. At page 13, Mr. Wilkie stated:
+The exception has been scrutinized with almost scientific rigour, but often without a sufficient appreciation of its fiscal policy basis. The announced purpose of subparagraph 212(1)(b)(vii) was functional to enhance the accessibility to Canadian corporate borrowers of foreign debt markets. Its enactment specifically recognized the almost contemporaneous withdrawal of foreign borrowing guidelines that in effect required Canadian corporate borrowers to exhaust available domestic capital sources before they turned to foreign markets.
+And second, in the Report of the Technical Committee on Business Taxation, December 1997, chapter six had the title “International Taxation”. At pages 6.25 and 6.26, the following statements appear concerning subparagraph (vii):
+This exemption was introduced as a temporary measure in 1975, to allow Canadians corporate borrowers increased access to international markets. The exemption was extended on several occasions, until it became a permanent feature of the Canadian tax system in the 1988 federal budget.
+As noted earlier, withholding taxes on interest payments tend to be shifted to the borrower, thereby increasing the cost of capital. The exemption for interest payable on arm’s length indebtedness provides Canadian businesses with increased access to global financial markets at competitive interest rates. The Committee supports the exemption, but has two recommended changes.
+The Committee recommends that the withholding tax exemption for interest payments to arm’s length non-resident lenders be extended to all indebtedness, regardless of its term.
+We also recommend that the exemption be denied in circumstances involving back-to-back transactions and similar financial support arrangements in the same manner as discussed below under the thin capitalization provisions.
+[39] Subparagraph (vii) is relatively straightforward. It is not drafted in the arcane hieroglyphics that so often decorate other parts of the Act. Left to myself, I might well have concluded that this exemption was intended to help Canadian corporations borrow from foreign arm’s length lenders who would receive interest free from withholding tax. Having reviewed the articles quoted in paragraphs 37 and 38 above, I find that the purpose of subparagraph (vii) is to help Canadian corporations needing to borrow money by increasing their access to international capital markets. The cost of the withholding tax on interest paid to foreign lenders is often shifted to the Canadian borrower, thereby increasing the cost of capital. The exemption from withholding tax on arm’s length borrowing from foreign lenders makes such borrowing more competitive with domestic borrowing in Canada.
+[40] Referring to paragraph 33 above and the passage therein quoted from paragraph 49 in Canada Trustco, I ask whether the transaction between CBR IS (the holder of the subordinated note) and BBL frustrated or defeated the object, spirit or purpose of subparagraph (vii).
+[41] The Appellant participated in only one borrowing transaction. I am referring to the loan of $140 million in October 1986 from a consortium of banks led by the Royal Bank of Canada. See paragraphs 8, 9 and 10 of the SAF. The text and context of the SAF indicate that the borrowing by the Appellant in 1986 was an arm’s length transaction with the consortium of Canadian banks. That particular debtor/creditor relationship was short-lived because, in December 1986, Materials (a Canadian corporation related to the Appellant) purchased for $140 million the loan receivable held by the group of banks. Materials received indirectly from CBR IS the funds needed to purchase the loan receivable.
+[42] Materials held the loan receivable from December 1986 to September 1994 when it was sold to CBR IS. No additional funds were needed or acquired within the HZ group to facilitate the sale of the loan receivable in September 1994 because the sale proceeds went around a corporate circle as described in paragraph 16 of the SAF and as summarized in paragraph 6 of these reasons.
+[43] The significant restructuring of the loan and the sale of the interest receipts happened in August 1997. I will repeat selected paragraphs from the SAF.
+20. Prior to August 1997, the Appellant withheld and remitted 15% tax on interest paid to CBR IS pursuant to s. 212(1)(b) of the Income Tax Act (the “Act”). By as early as January 1997, the Appellant began reviewing the Loan to determine if it could be restructured in order to avoid such tax. To do so would be an efficient way of repatriating funds to CBR IS because the interest would then be deductible in Canada and not subject to withholding tax.
+22. Prior to the Amendment and Restatement of Credit Agreement, the interest rate under the Loan was at the Canadian Prime rate which, at the time was 4.75%. The Canadian Prime rate was expected to increase to 5%.
+23. By an agreement title “Amendment and restatement of Credit Agreement in the Form of a Subordinated Note Due September 15, 2009”, the 1986 Credit Agreement which included the Loan, was restated in the form of a subordinated note (the “Note”).
+24. Pursuant to the terms of the Note, the Appellant was not obligated under any circumstances (other than an event of default) to pay more than 25% of the principal amount of the Note within five years from the date of the issue of the Note.
+25. The terms of the Note entitled the holder of the Note (in this case, CBR IS) to sell all or any portion of the rights to receive interest payments under it (sic) to a third party (individually, an “Interest Payment”). The ownership interest in an Interest Payment was evidenced by an “Interest Payment Receipt”.
+26. The terms of the Loan were also amended as follows:
+a) The interest rate changed from the Canadian Prime Rate to a fixed rate of 7% for the first five years.
+b) The Appellant assumed liability for any Part XIII tax by agreeing
+to add any withholding tax payable to the interest payments such that the net interest payment to the holder of the Note would be unaffected.
+32. On August 28, 1997, CBR IS sold to Bank Brussels Lambert (“BBL”), a Belgium corporation, the right to receive all interest payments on the Loan due prior to September 16, 2002 for $42,673,913.67 (the “Purchase Agreement”).
+33. BBL was a Belgium bank which dealt at arm’s length with the Appellant.
+[44] The Appellant never borrowed money from BBL. The Appellant was required to pay interest to BBL from December 1997 to September 2002 only because of the sale transaction between CBR IS and BBL in August 1997. Within the context of this appeal, CBR IS never borrowed money from BBL. The only money advanced by BBL was the purchase price ($42 million) paid by BBL to CBR IS for the right to receive quarterly interest payments from December 1997 to September 2002. At all relevant times from and after September 1994, CBR IS was the Appellant’s creditor with respect to the $140 million principal amount.
+[45] I rely on the directions of the Supreme Court in paragraphs 58 and 60 of the Court’s reasons in Canada Trustco. The following passage from paragraph 58 is already quoted in paragraph 31 above:
+58 … When properly interpreted, the statutory provisions at issue in a given case may dictate that a particular tax benefit may apply only to transactions with a certain economic, commercial, family or other non-tax purpose. The absence of such considerations may then become a relevant factor towards the inference that the transactions abused the provisions at issue, but there is no golden rule in this respect.
+In my opinion, the tax benefit in subparagraph (vii) of paying interest to a non‑resident person free from withholding tax applies only to the arm’s length borrowing of capital from a non‑resident lender. That is the transaction “with a certain commercial purpose”. In this appeal, the Appellant did not borrow any money from BBL or any other non-resident lender. The absence of a non-resident lender causes me to infer that the sale transaction between CBR IS and BBL abused subparagraph (vii).
+[46] The following passage from paragraph 60 in Canada Trustco is already quoted in paragraph 31 above:
+60 However, abusive tax avoidance may be found where the relationships and transactions as expressed in the relevant documentation lack a proper basis relative to the object, spirit or purpose of the provisions that are purported to confer the tax benefit, or where they are wholly dissimilar to the relationships or transactions that are contemplated by the provisions.
+I find that the relationship between CBR IS and BBL with respect to the sale of 20 quarterly interest amounts for $42 million; and the relationship between the Appellant and BBL with respect to the payment of those 20 quarterly interest amounts are wholly dissimilar to the arm’s length borrower/lender relationship contemplated by subparagraph (vii). The sale transaction between CBR IS and BBL frustrated the object, spirit and purpose of subparagraph (vii).
+[47] In my opinion, the Minister was justified in using the GAAR to ignore the exemption under subparagraph (vii), and to assess withholding tax under paragraph 212(1)(b).
+[48] In argument, counsel for the Respondent abandoned the penalty assessed under subsection 227(8) of the Act for failure to withhold the Part XIII tax. Accordingly, the appeal from the reassessments based on the GAAR will have to be allowed but only for the purpose of canceling the penalty under subsection 227(8).
+[49] After this case was heard in October 2008, the Supreme Court of Canada issued its decision in Lipson v. The Queen on January 8, 2009. Lipson is a case concerning the GAAR. The Supreme Court was divided in Lipson; one set of reasons from the majority of four judges, and two sets of reasons from the three dissenting judges. The facts in Lispon are very different from the facts in these appeals. In my opinion, the various reasons for judgment in Lipson do not qualify what the Supreme Court stated in its unanimous decision in Canada Trustco. Therefore, I did not invite further submissions from counsel on the more recent decision in Lipson. Also, counsel did not seek the opportunity to make such submissions.
+[50] I do not recall any discussion of costs at the hearing. The Minister issued two inconsistent sets of reassessments. The reassessments of May 3, 2005 assumed that the greater part of each payment made by the Appellant to BBL was capital and not interest. The reassessments of April 28, 2005 assumed that all payments made by the Appellant to BBL were 100% interest. At the hearing, counsel for the Respondent made it clear that the reassessments were issued in the alternative, and that he could not succeed in defending both sets of reassessments.
+[51] In the above reasons, the Appellant is successful in defeating the reassessments based on paragraph 16(1)(a); and the Minister is successful in defending the reassessments based on the GAAR, subject to the concession with respect to the penalty under subsection 227(8). I am inclined to allow no costs to either party in the judgment which is issued concurrent with these reasons. If either party wants to make submissions with respect to costs, I am willing to hear counsel in a teleconference if written notice is sent to the Court within 30 days of the decision herein.
+Signed at Ottawa, Canada, this 29th day of April, 2009.
+“M.A. Mogan”
+Mogan D.J.
+CITATION: 2009 TCC 237
+COURT FILE NO.: 2007-2107(IT)G
+STYLE OF CAUSE: LEHIGH CEMENT LIMITED and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: October 16 and 17, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT: April 29, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Warren J.A. Mitchell, Q.C. and
+Mathew Williams
+Counsel for the Respondent:
+Daniel Bourgeois and Ronald MacPhee
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Warren J.A. Mitchell, Q.C.
+Firm: Thorsteinssons LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

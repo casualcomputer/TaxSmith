@@ -1,0 +1,136 @@
+Title: Bonev c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/23052/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-98-23052-bonev-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-02-01
+
+# Bonev c. La Reine
+
+- Citation: 2005 CCI 98
+- Decision date: 2005-02-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2307, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bonev c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-01
+Référence neutre
+2005 CCI 98
+Numéro de dossier
+2004-2999(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2999(IT)I
+ENTRE :
+ROUMÈNE BONEV,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 13 janvier 2005 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Soleil Tremblay
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2001 et 2002 sont rejetés, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 1er jour de février 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2005CCI98
+Date : 20050201
+Dossier : 2004-2999(IT)I
+ENTRE :
+ROUMÈNE BONEV,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Ces appels concernent les années d'imposition 2001 et 2002.
+[2] Il s'agit de savoir si l'appelant peut déduire les sommes qu'il a payées directement à son fils, soit 2 626 $ en 2001 et 9 537 $ en 2002, en vertu de l'alinéa 60b) ou de l'article 60.1 de la Loi de l'impôt sur le revenu (la « Loi » ).
+[3] Le 20 septembre 2002, l'appelant a reçu une lettre de l'Agence des douanes et du revenu Canada ( « ADRC » ) concernant la demande de déduction pour pension alimentaire au montant de 2 626 $ pour l'année 2001. Cette lettre a été produite comme pièce A-1. Elle se lit comme suit :
+Nous mettons régulièrement en oeuvres des programmes d'examen qui jouent un rôle important dans le cadre du régime fiscal d'autocotisation. La présente vise à vous informer que nous avons choisi votre déclaration pour examen. Cependant, pour vérifier l'exactitude de votre cotisation, nous avons besoin de plus de renseignements.
+Montant faisant l'objet de la revue
+Pension alimentaire payée
+2 626,00 $
+PENSION ALIMENTAIRE PAYÉE
+Pour appuyer votre demande, veuillez nous fournir les renseignements suivants :
+- Une copie complète et signée de l'ordonnance, du décret ou du jugement du tribunal ou encore une copie signée de l'accord écrit qui précise le montant de pension alimentaire que vous étiez tenu de payer pour l'année.
+Si le document original a été amendé, veuillez également fournir une copie des dernières corrections qui y ont été apportées. Un accord de séparation écrit est un document par lequel une personne consent à faire des paiements réguliers pour subvenir aux besoins de son conjoint, de son ex-conjoint, des enfants issus du mariage, ou à la fois de son conjoint, de son ex-conjoint et des enfants issus du mariage. L'accord doit être dûment signé et daté par les deux parties. Il devrait aussi énoncer des ententes de garde et les noms des enfants pour lesquels les paiements sont faits, ainsi que la date du début des paiements.
+[4] Le 26 septembre 2003, le même genre de lettre a été envoyé pour l'année 2002 pour une déduction demandée à titre de pension alimentaire au montant de 9 537 $.
+[5] Le 11 novembre 2002, l'appelant a répondu à la demande de l'ADRC en disant qu'il n'avait pas son jugement en sa possession. Il dit notamment :
+...
+En 2001, mon fils a terminé ses études secondaires (au lycée de langue Française à Sofia) et après avoir excellé aux examens il était admis comme étudiant à l'Université de Bordeaux (Spécialité-MIAS-MATHS et Application aux sciences). Il fait ses études à temps plein et il est entièrement (100%) à mes charges. Pour chaque année de scolarité je me suis engagé devant le gouvernement français de lui verser une pension alimentaire minimale de 6 000 EUROS (45 000 FF). ...
+[6] Les documents prouvant les montants en question ont été produits comme pièce I-2 et I-3.
+[7] L'appelant a produit comme pièce A-2 un document intitulé « Accord » , signé entre lui et son fils en date 16/12/2002 et 21/01/03. Ce document dit notamment à la clause 3 :
+M. Roumène Bonev s'est engagé à verser une pension alimentaire d'un montant minimal de 5600 EUROS par année de scolarité pour le 1-er cycle universitaire (les 2 premières années de scolarité) et une pension alimentaire de 6600 EUROS par année de scolarité pour le 2-ème cycle universitaire (les 3 dernières années de scolarité). Le montant minimal de la pension alimentaire est prescrit par les autorités françaises.
+[8] L'appelant a produit comme pièce A-3 une déclaration signée par son ex-épouse. Cette déclaration dit que : « Roumen Boyanov Bonev a pris en charge l'entretien de notre fils Boyan Roumenov Bonev et pendant la période du mois de janvier 2002 au mois de décembre 2002, il avait payé comme frais d'éducation en France la somme de 450 (quatre cent cinquante) dollars américains chaque mois ou en total 5400 (cinq mille et quatre cents) dollars américains. »
+[9] La traduction du jugement de divorce rendu à Sofia, Bulgarie, le 17 octobre 1988, a été déposée comme pièce A-5. Le jugement stipule que la garde de l'enfant né le 8 septembre 1982 est confiée à la mère. Il dit également :
+Condamne Roumen Boyanov Bonev de payer à son enfant mineur Boyan des frais d'entretien mensuels au montant de 45 leva à partir de l'entrée en vigueur de la décision et jusqu'à l'apparition d'une cause légale pour son changement ou annulation, et à l'État - une taxe d'État sur le montant des frais d'entretien - la somme de 64.80 leva et pour le SUB - 0.65 leva.
+Analyse et conclusion
+[10] L'alinéa 60b) de la Loi permet la déduction d'une pension alimentaire, payée à l'ex-épouse d'un contribuable en vertu d'un jugement ou d'un accord écrit entre les parties. Or, dans la présente affaire, il n'y a aucune preuve d'un montant périodique payé à l'ex-épouse de l'appelant.
+[11] Les paiements ont été faits directement au fils de l'appelant. Les dispositions qui pourraient être d'application sont les paragraphes 60.1(1) et (2) de la Loi, qui se lisent comme suit :
+60.1(1) Pension alimentaire - Pour l'application de l'alinéa 60(1)b) et du paragraphe 118(5), dans le cas où une ordonnance ou un accord, ou une modification s'y rapportant, prévoit le paiement d'un montant à un contribuable ou à son profit, au profit d'enfants confiés à sa garde ou à la fois au profit du contribuable et de ces enfants, le montant ou une partie de celui-ci est réputé :
+a) une fois payable, être payable à la personne et à recevoir par elle;
+b) une fois payé, avoir été payé à la personne et reçu par elle.
+60.1(2) Entente - Pour l'application de l'article 60, du présent article et du paragraphe 118(5), le résultat du calcul suivant :
+A - B
+où :
+A représente le total des montants représentant chacun un montant (sauf celui qui constitue par ailleurs une pension alimentaire) qui est devenu payable par un contribuable au cours d'une année d'imposition, aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit, au titre d'une dépense (sauf la dépense relative à un établissement domestique autonome que le contribuable habite ou une dépense pour l'acquisition de biens corporels qui n'est pas une dépense au titre de frais médicaux ou d'études ni une dépense en vue de l'acquisition, de l'amélioration ou de l'entretien d'un établissement domestique autonome que la personne visée aux alinéas a) ou b) habite) engagée au cours de l'année ou de l'année d'imposition précédente pour subvenir aux besoins d'une personne, d'enfants confiés à sa garde ou à la fois de la personne et de ces enfants, dans le cas où la personne est :
+a) l'époux ou conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du contribuable,
+b) si le montant est devenu payable en vertu de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province, un particulier qui est le père ou la mère d'un enfant dont le contribuable est le père naturel ou la mère naturelle;
+B l'excédent éventuel du total visé à l'alinéa a) sur le total visé à l'alinéa b) :
+a) le total des montants représentant chacun un montant inclus dans le total calculé selon l'élément A relativement à l'acquisition ou à l'amélioration d'un établissement domestique autonome dans lequel la personne habite, y compris un paiement de principal ou d'intérêts sur un emprunt ou une dette contracté en vue de financer, de quelque manière que ce soit, l'acquisition ou l'amélioration,
+b) le total des montants correspondant chacun à 1/5 du principal initial d'un emprunt ou d'une dette visés à l'alinéa a),
+est réputé, lorsque l'ordonnance ou l'accord écrit prévoit que le présent paragraphe et le paragraphe 56.1(2) s'appliquent à un montant payé ou payable à leur titre, être un montant payable par le contribuable à cette personne et à recevoir par celle-ci à titre d'allocation périodique, que cette personne peut utiliser à sa discrétion.
+[12] Le paragraphe 60.1(1) de la Loi ne peut pas s'appliquer car les sommes payées au fils ne sont pas celles mentionnées au jugement. L'appelant a admis que les sommes mentionnées au jugement ne signifient plus rien. Le jugement mentionne un fils mineur. Or, au moment du paiement, le fils était majeur. De plus, l'application de ce paragraphe demande une certaine discrétion de la part de l'ex-époux relativement à l'usage des sommes payées. La preuve n'en n'a révélé aucune.
+[13] En ce qui concerne l'application du paragraphe 60.1(2) de la Loi, les paiements faits aux tiers au profit de l'ex-épouse ou au profit d'enfants confiés à la garde de l'autre parent peuvent être déductibles si l'ordonnance ou l'accord écrit prévoit que le paragraphe 60.1(2) et le paragraphe 56.1(2) s'appliquent à un montant payé à leur titre. Dans ce cas, le montant ainsi payé sera réputé être de la nature d'une pension alimentaire et pourra être déduit conformément au paragraphe 60b) de la Loi.
+[14] D'une part, le fils de l'appelant était un enfant majeur en 2001. Il ne s'agissait plus d'un enfant confié à la garde d'un parent. Voir à cet égard Curzi c. Canada, [1994] A.C.F. no 154 (Q.L.), Miguelez c. Canada, [1998] A.C.I. no 375 (Q.L.) et Joncas c. Canada, [2002] A.C.I. no 411 (Q.L.).
+[15] D'autre part, il n'y a aucun jugement ou accord écrit entre les parties qui prévoit le montant des paiements en cause et que les paiements faits au fils seront considérés comme une pension alimentaire reçue par la mère.
+[16] Pour ces raisons, les appels doivent être rejetés.
+Signé à Ottawa, Canada, ce 1er jour de février 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2005CCI98
+No DU DOSSIER DE LA COUR :
+2004-2999(IT)I
+INTITULÉ DE LA CAUSE :
+Roumène Bonev et La Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+13 janvier 2005
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 1er février 2005
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Pour l'intimée :
+Me Soleil Tremblay
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

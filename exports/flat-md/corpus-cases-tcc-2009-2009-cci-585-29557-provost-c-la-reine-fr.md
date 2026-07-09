@@ -1,0 +1,180 @@
+---
+title: "Provost c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29557/index.do"
+last_modified: "2009-09-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 585"
+citation2: ""
+neutral_citation: "2009 CCI 585"
+decision_date: "2009-09-21"
+language: "fr"
+item_id: "29557"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6343
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:32:45.311000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cb934f907e003a3055f84d141077d9b65e425d6e8ddca1da6da574e55a378f8b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Provost c. La Reine
+
+- Citation: 2009 CCI 585
+- Decision date: 2009-09-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6343, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Provost c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-21
+Référence neutre
+2009 CCI 585
+Numéro de dossier
+2008-880(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-880(IT)G
+ENTRE :
+LINDA JEAN PROVOST,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_________________________________________________________________
+Appels entendus le 21 septembre 2009 et jugement rendu oralement le 25 septembre 2009, à Kingston (Ontario).
+Devant : L'honorable juge C. H. McArthur
+Comparutions :
+Avocat de l'appelante :
+Me Kenneth Coull
+Avocat de l'intimée :
+Me Jack Warren
+________________________________________________________________
+JUGEMENT MODIFIÉ
+Les appels interjetés à l'encontre des cotisations établies en vertu du paragraphe 160(1) de la Loi de l'impôt sur le revenu (la LIR), dont les avis sont datés du 27 octobre 2006 et portent les numéros 41369 et 41370, sont accueillis, et les cotisations sont déférées au ministre pour nouvelles cotisations en tenant uniquement compte des faits que la cotisation no 41369 doit être réduite à 115 000 $ et que la cotisation no 41370 doit être réduite à 32 726 $ (soit 50 % de 65 452 $, le montant initial). En outre, les intérêts exigés à partir de la date de
+chaque cotisation doivent être supprimés, conformément au sous‑alinéa 160(1)e)(ii) de la LIR.
+Signé à Ottawa, Canada, ce 29e jour de janvier 2010.
+« C. H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 3e jour de mai 2010.
+Yves Bellefeuille, réviseur
+Référence : 2009 CCI 585
+Date : 20100129
+Dossier : 2008-880(IT)G
+ENTRE :
+LINDA JEAN PROVOST,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_________________________________________________________________
+Avocat de l'appelante : Me Kenneth J. M. Coull
+Avocat de l'intimée : Me Jack Warren
+________________________________________________________________
+MOTIFS DU JUGEMENT MODIFIÉS
+(Les modifications suivantes ont été apportées au jugement initial :
+Le paragraphe 8 a été supprimé et remplacé.
+Les paragraphes 21 et 22 ont été supprimés au motif qu'ils étaient superflus.
+Le paragraphe 23 a été modifié et a été remplacé par le paragraphe 21 des présents motifs modifiés.)
+(Rendus oralement à l'audience à Kingston (Ontario), le 25 septembre 2009.)
+Le juge McArthur
+[1] Les présents appels ont été interjetés à l'encontre de cotisations totalisant 196 451 $ que le ministre du Revenu national a établies à l'égard de l'appelante en vertu du paragraphe 160(1) de la Loi de l'impôt sur le revenu, à la suite de transferts faits à l'appelante par son époux, Gary, pendant les années d'imposition 1987 et 1988, époque à laquelle celui‑ci avait une dette fiscale.
+[2] La cotisation portant le numéro 41369 a trait au transfert ou à la cession d'une créance hypothécaire dont l'époux était le propriétaire bénéficiaire et que celui‑ci a cédée à l'appelante moyennant une contrepartie symbolique. L'appelante a reçu des intérêts de 6 % sur l'hypothèque pendant environ 17 mois avant de vendre cette créance hypothécaire pour un montant de 115 000 $, selon les instructions de son époux. D'après la preuve non contestée, l'appelante est allée à la banque encaisser le produit de la vente et a remis à son époux la somme de 115 000 $ en argent comptant.
+[3] La cotisation portant le numéro 41370 concerne le foyer conjugal de l'appelante et de son époux, situé au 263, chemin Meadowcrest, à Kingston, en Ontario. L'appelante y réside depuis 1974, année où ses beaux‑parents ont transféré le bien à elle et à son époux, à titre de tenants conjoints. En décembre 1980, l'appelante et son époux ont transféré le bien à l'appelante seule. En juillet 1981, l'appelante a transféré le bien au père de son époux, son époux consentant à la vente. Par la suite, en décembre 1984, le beau‑père de l'appelante a de nouveau transféré le bien à son fils moyennant une contrepartie symbolique. Enfin, en février 1987, l'époux a encore une fois transféré le bien à l'appelante moyennant une contrepartie symbolique.
+[4] En mars 1992, l'appelante a consenti une hypothèque à Canada Trustco (ce qui n'a aucune conséquence). Elle détient le titre de propriété du bien et continue d'y vivre à ce jour, en compagnie d'une de ses filles et de ses petits‑enfants.
+[5] L'appelante et Gary se sont épousés en 1971 et, en 1981, ils avaient quatre enfants. L'appelante exerce la profession d'infirmière auxiliaire autorisée. Elle a cessé de travailler afin d'élever ses enfants et est ensuite retournée travailler, il me semble en 1990. Elle travaille toujours dans un hôpital psychiatrique. Sa vie n'a pas été facile. Son époux et elle se sont séparés puis réconciliés de nombreuses fois; ils vivent actuellement séparés et il est peu probable qu'ils se remettent ensemble. Ils vivaient séparés pendant les années en cause, soit 1987 et 1988, et c'est l'appelante qui avait la garde des enfants.
+[6] L'époux n'a pas comparu et je n'en tire aucune conclusion. L'appelante a affirmé qu'il était plombier et qu'il avait une entreprise de motocyclettes. Il s'est également porté acquéreur de plusieurs biens réels, seul ou en association, notamment d'un hôtel‑bar, d'un terrain de 100 acres le long de la route 38 et d'un bien situé sur le chemin Bath. Il vit actuellement dans une maison située le long de la route 38. Je pense qu'il a omis de déclarer le revenu qu'il a en partie tiré de la vente de ses biens réels, ce qui a probablement mené aux cotisations en cause. Aucun éclaircissement ne m'a été donné à cet égard. L'appelante a reçu le produit de la vente de la maison du chemin Bath et a acheté deux maisons qu'elle a données à deux de ses enfants.
+[7] L'époux a été incarcéré en 1988 pour complot en vue de faire le trafic de drogues. Il a de nouveau été emprisonné en 2006 pour trafic de marijuana; je crois qu'il a été remis en liberté en février 2009. L'appelante a déclaré qu'il la terrorisait, qu'il l'avait menacée et agressée dans le passé. Il était très autoritaire et elle faisait ce qu'il lui disait de faire. Il gardait le secret au sujet de ses opérations immobilières et elle ne sait pas pourquoi il a effectué autant de transferts. J'accepte le témoignage de l'appelante à cet égard. J'en conclus que ces transferts ont été effectués du moins en partie afin d'échapper aux percepteurs d'impôt. Du temps où l'appelante vivait avec son époux, ce dernier quittait la maison et y revenait comme bon lui semblait.
+[8] Dans l'avis d'appel et au cours des observations orales, l'appelante et son avocat ont fait valoir, à juste titre, que la cotisation ne devrait pas porter intérêt. Le sous‑alinéa 160(1)e)(ii) dispose notamment ce qui suit :
+160(1) Lorsqu'une personne a [...] transféré des biens [...] à l'une des personnes suivantes :
+a) son époux [...]
+[...]
+e) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d'un montant égal au moins élevé des montants suivants :
+[...]
+(ii) le total des montants dont chacun représente un montant que l'auteur du transfert doit payer en vertu de la présente loi au cours de l'année d'imposition dans laquelle les biens ont été transférés ou d'une année d'imposition antérieure ou pour une de ces années;
+L'appelante n'est responsable que des montants à payer « au cours de l'année d'imposition dans laquelle les biens ont été transférés [...] ou pour une de ces années ». Je renvoie aux décisions Algoa Trust c. La Reine, no 96‑1186(IT)G, 10 février 1998 (C.C.I.), et Currie c. La Reine, 2008 CCI 338, avec lesquelles je suis d'accord[1].
+[9] L'avocat de l'appelante a ajouté que sa cliente était, sinon la propriétaire juridique, du moins la propriétaire bénéficiaire du prêt hypothécaire et de la maison, s'appuyant sur l'arrêt de la Cour suprême Pettkus c. Becker[2] et sur le principe de la fiducie judiciaire. En ce qui a trait à l'hypothèque, il a déclaré que l'appelante était une nue‑fiduciaire et a renvoyé à la décision Delisle c. La Reine[3].
+[10] L'avocat de l'intimée a fait valoir que les quatre conditions énoncées à l'article 160 avaient été remplies et a renvoyé à la jurisprudence, y compris à l'arrêt R. c. Rose[4]. Selon l'avocat, il incombe à l'appelante de prouver qu'à défaut d'être la propriétaire juridique de la maison, elle en était la propriétaire bénéficiaire avant que son époux ait une dette fiscale, et que celui‑ci ne s'est pas départi de son bien en sa faveur afin d'échapper au fisc ou à d'autres créanciers.
+[11] L'appelante et son époux sont devenus copropriétaires en 1974 et une charge hypothécaire a été levée en 1976. En 1980, l'époux a transféré à l'appelante son droit sur la moitié du bien. En 1981, l'appelante a transféré ce bien au père de son époux, John, son époux y consentant. En 1984, son beau‑père a de nouveau transféré le bien à son fils, et en 1987, l'époux l'a encore une fois transféré à l'appelante. Cette dernière a déclaré avoir fait ce qu'on lui disait de faire, sans savoir pourquoi, ajoutant qu'elle n'avait posé aucune question au sujet des transferts. L'appelante m'est apparue comme un témoin crédible et j'accepte son témoignage. Il en reste que l'appelante a reçu le titre juridique en 1987. Les déclarations de l'appelante selon lesquelles elle n'était pas au courant de la dette fiscale de son époux ne portent pas à conséquence.
+[12] Il a été convenu que la valeur nette de la maison en 1987 s'élevait à environ 65 000 $, somme que l'intimée réclame dans son intégralité. L'appelante ne bénéficie ni d'intérêt conjoint ni d'intérêt bénéficiaire dans le bien au titre des contributions qu'elle a apportées pendant des années, alors qu'elle exerçait les fonctions d'infirmière, et aussi de mère. Il est extrêmement dur d'être en position de saisir sa maison, particulièrement 20 ans après les faits. Il s'agit d'une dette énorme, particulièrement pour une épouse et une mère innocente, et à présent une grand‑mère.
+[13] Il ne fait aucun doute que quand l'appelante et son époux se sont vu accorder le titre pour la somme de 32 000 $ en 1974, l'appelante est devenue propriétaire de 50 % du bien, et l'est restée, tant d'un point de vue juridique que bénéficiaire, après que la charge a été payée en 1976. L'appelante a conservé son intérêt conjoint d'une demie dans le bien d'un transfert à l'autre, lesquels transferts ont été effectués moyennant contrepartie symbolique, à la demande d'un époux autoritaire et à des fins douteuses. J'accepte l'argument de l'appelante voulant qu'elle ait la possession du bien depuis 35 ans.
+[14] Dans l'arrêt Rose, précité, M. et Mme Rose étaient copropriétaires quand M. Rose a transféré son droit en vue d'échapper à un créancier potentiel, à une époque où il devait de l'argent à l'Agence du revenu du Canada. La Cour d'appel fédérale a conclu qu'il s'était départi de son droit. En l'espèce, l'appelante avait déjà un droit de 50 % sur la maison, et son époux lui a transféré son propre droit de 50 %. Par conséquent, le ministre n'a le droit de saisir que 50 % de la valeur nette réelle de 65 400 $. En 1974, l'appelante avait un intérêt acquis dont elle ne s'est jamais départie, et je fais appel à la justice naturelle et au bon sens. Le ministre ne peut tirer parti des agissements d'une tierce partie retorse et peut‑être criminelle.
+[15] Je me penche maintenant sur la question de la créance hypothécaire. Ce prêt a été transféré à l'appelante, sur les ordres de son époux. Monsieur J. Fillion était le créancier hypothécaire enregistré d'un prêt hypothécaire de 131 000 $ et il a convenu de céder l'hypothèque à l'époux à titre de garantie pour la somme de 65 000 $ qu'il devait à ce dernier. L'époux l'a transférée à l'appelante le jour même, moyennant une contrepartie symbolique. Par conséquent, l'appelante a reçu un paiement mensuel de 650 $ au titre des intérêts, soit un total d'environ 9 000 $, qu'elle a déclaré dans son revenu pour 1988 et 1989. Toutefois, ces paiements ont cessé à la fin du mois de novembre 1989, quand elle a cédé l'hypothèque à un acheteur avec lequel elle n'avait aucun lien de dépendance pour la somme de 115 000 $, ce qui établit la valeur de cette créance à 115 000 $, et non à 131 000 $ comme le ministre l'a calculé dans la cotisation en cause.
+[16] Peu de temps après que l'appelante a cédé l'hypothèque, et sur les ordres de son époux, elle a versé à celui‑ci la somme de 115 000 $ en argent comptant. J'accepte le témoignage de l'appelante selon lequel son époux la terrorisait. Elle a fait ce qu'il lui disait de faire. Considérant qu'elle a reçu environ 9 000 $ d'intérêts, qu'elle a utilisés afin de payer les dépenses du ménage, la question demeure : qui était propriétaire du prêt hypothécaire?
+[17] L'avocat de l'appelante a fait valoir que, dans les faits, le prêt hypothécaire avait toujours appartenu à l'époux, ou qu'il était sous le contrôle de celui‑ci. L'appelante n'était pas en mesure d'agir sans les directives de son époux. Elle était nue‑fiduciaire quand l'hypothèque a été vendue à une tierce partie, touchant 9 000 $ alors que son époux a reçu 115 000 $.
+[18] L'avocat de l'intimée a fait valoir que la dette envers la Couronne s'était cristallisée ou était devenue saisissable au moment du transfert et que les évènements survenus ensuite ne pouvaient rien y changer. Il a laissé entendre que l'appelante avait participé aux stratagèmes de son époux. Toutefois, aucune preuve ne le démontre. Il a également renvoyé à l'arrêt Yates c. La Reine[5], et en particulier au passage où le juge Nadon, s'exprimant au nom de la Cour d'appel fédérale, a déclaré :
+36. [...] En réalité, la Cour, en l'espèce, doit décider s'il est possible d'interpréter le paragraphe 160(1) de manière à y constater une exception relative au droit de la famille.
+[...]
+39. Par conséquent, je ne vois absolument aucun fondement à l'argument de l'appelante selon lequel la nature des dépenses acquittées avec l'argent transféré par son époux est un facteur pertinent pour décider si elle est assujettie au paragraphe 160(1) de la Loi.
+[19] L'avocat de l'intimée a ensuite renvoyé à l'arrêt R. c. Livingston[6] dont sont extraits les paragraphes suivants, rédigés par le juge Sexton, lesquels m'ont guidé dans ma décision :
+[22] [...] il y a transfert de biens pour l'application de l'article 160 même si la propriété bénéficiaire ou effective n'a pas été transférée. Le paragraphe 160(1) s'applique à tout transfert de biens — « au moyen d'une fiducie ou de toute autre façon ». Par conséquent, ce paragraphe définit le transfert à une fiducie comme un transfert de biens. Il est certain que, même si l'auteur du transfert est le bénéficiaire de la fiducie, le titre juridique a été transféré au fiduciaire. Il s'agit donc là d'un transfert de biens pour l'application du paragraphe 160(1), qui, après tout, a entre autres pour objet d'empêcher l'auteur du transfert de cacher ses biens, y compris derrière une fiducie, pour éviter que l'ARC ne les saisisse. Par conséquent, il n'est pas nécessaire d'examiner l'argument de l'intimée selon lequel Mme Davies a conservé le titre de bénéficiaire des sommes déposées.
+La Cour d'appel fédérale a ici donné une directive claire dont je dois tenir compte. Au paragraphe 24 du même arrêt, la Cour d'appel a ajouté :
+[24] Le juge de première instance a insisté dans son exposé des motifs sur le fait que l'intimée n'avait en fin de compte reçu aucun avantage pécuniaire. [...]
+C'est également le cas en l'espèce. La suite du paragraphe 24 est ainsi rédigée :
+[...] L'intimée soutient que c'est là un facteur crucial pour l'examen du point de savoir s'il y a eu transfert de biens. La question de savoir si l'intimée a en fin de compte reçu un « avantage » me paraît dénuée de pertinence. Peu importe que Mme Davies ait repris possession des sommes déposées. L'intimée a certainement reçu les biens au moment du transfert, qui est le moment pertinent pour l'application du paragraphe 160(1). Le fait que Mme Davies ait en fin de compte repris possession de cet argent ne suffit pas à annuler le déclenchement de l'application du paragraphe 160(1). Je reprends ici à mon compte les observations formulées par notre Cour au paragraphe 9 de Heavyside, précité :
+[...] Cette responsabilité prend naissance au moment du transfert [...] et elle est solidaire avec celle de l'auteur du transfert. [...]
+[20] À la lumière de cette directive claire et récente, j'accepte les arguments de l'intimée voulant que le fait que M. J. Fillion a cédé l'hypothèque à l'appelante constitue un transfert de bien indirect de l'époux à l'appelante, comme le prévoit le paragraphe 160(1) de la Loi.
+[21] L'appel est accueilli afin de réduire la valeur du prêt hypothécaire de 131 000 $ à 115 000 $, de réduire la cotisation no 41370 à 32 726 $ (soit 50 % de 65 452 $, le montant initial), et de supprimer les intérêts liés aux deux cotisations.
+Signé à Ottawa, Canada, ce 29e jour de janvier 2010.
+« C. H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 3e jour de mai 2010.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2009 CCI 585
+NO DU DOSSIER DE LA COUR : 2008-880(IT)G
+INTITULÉ : Linda Jean Provost et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Kingston (Ontario)
+DATE DE L'AUDIENCE : Le 25 septembre 2009
+MOTIFS DU JUGEMENT : L'honorable juge C. H. McArthur
+DATE DU JUGEMENT : Le 8 octobre 2009
+DATE DU JUGEMENT MODIFIÉ : Le 29 janvier 2010
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Kenneth J. M. Coull
+Avocat de l'intimée :
+Me Jack Warren
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Kenneth J. M. Coull Cabinet : Kenneth J. M. Coull Kingston (Ontario)
+Pour l'intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Je remercie le compilateur et l'auteur David M. Sherman de ses commentaires dans l'ouvrage Practitioner's Income Tax Act 2004, 26th edition, qui se lisent comme suit :
+[TRADUCTION]
+Une cotisation établie en vertu de l'article 160 ne peut comprendre d'intérêt (voir Algoa Trust, [1998] 4 C.T.C. 2001 (C.C.I.)), mais les modifications prévues précitées changeront cette situation dans le cas des cotisations établies après le 20 décembre 2002. (Un recours collectif portant sur cette question a mené à un règlement en vertu duquel l'ARC a remboursé les intérêts : voir Ho‑A‑Shoo c. Canada (Procureur général), 2001 CarswellOnt 2114 (C.S.J. Ont.).)
+Dans l'affaire Carrie c. La Reine, 2006 CarswellNat 6130 (C.C.I.), l'ARC a établi une cotisation à l'égard des sommes que C avait reçues de son défunt père, y compris les intérêts, en vertu du paragraphe 160(1). C a remboursé la dette, et l'ARC a imputé les versements à la dette du défunt. C a demandé le remboursement des intérêts liés à la période postérieure à la cotisation; l'ARC a réduit la cotisation à néant, mais a refusé de rembourser les intérêts. La Cour a rejeté la requête de la Couronne demandant que l'appel de C soit radié au motif qu'il ne pouvait interjeter appel à l'égard des intérêts, et a ensuite (voir [2009] 1 C.T.C. 2139 (C.C.I.)) accueilli son appel et annulé les intérêts.
+En 2002, on a proposé la modification du paragraphe 160(1), mais cette modification n'a pas été adoptée.
+[2] [1980] 2 R.C.S. 834.
+[3] no 94‑5051(IT)I, 4 août 1994 (C.C.I.).
+[4] 2009 CAF 93.
+[5] 2009 CAF 50.
+[6] 2008 CAF 89.

@@ -1,0 +1,170 @@
+Title: Willis v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25563/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-575-25563-willis-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-08-13
+
+# Willis v. The Queen
+
+- Citation: 2003 TCC 575
+- Decision date: 2003-08-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2462, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Willis v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-08-13
+Neutral citation
+2003 TCC 575
+File numbers
+2002-1848(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-1848(IT)I
+BETWEEN:
+CLARA JOAN WILLIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Barrie A. Willis (2002-1847(IT)I) on August 6, 2003 at North Bay, Ontario.
+Before: The Honourable D.G.H. Bowman, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Gregory J. DuCharme
+Counsel for the Respondent:
+Joanna Hill
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeal from the assessment made under the Income Tax Act for the 1999 taxation year is allowed with costs and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Lot 36 on Plan 36M-561 was capital property in the hands of the appellant until January 1, 1992 and was deemed by paragraph 45(1)(a) of the Income Tax Act to have been disposed of for proceeds equal to its fair market value at that time and immediately thereafter reacquired at a cost equal to that fair market value.
+There should be only one counsel fee for both parties.
+Signed at Victoria, British Columbia, this 13th day of August 2003.
+"D.G.H. Bowman"
+A.C.J.
+Docket: 2002-1847(IT)I
+BETWEEN:
+BARRIE A. WILLIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Clara Joan Willis (2002-1848(IT)I) on August 6, 2003 at North Bay, Ontario.
+Before: The Honourable D.G.H. Bowman, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Gregory J. DuCharme
+Counsel for the Respondent:
+Joanna Hill
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeal from the assessment made under the Income Tax Act for the 1999 taxation year is allowed with costs and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Lot 36 on Plan 36M-561 was capital property in the hands of the appellant until January 1, 1992 and was deemed by paragraph 45(1)(a) of the Income Tax Act to have been disposed of for proceeds equal to its fair market value at that time and immediately thereafter reacquired at a cost equal to that fair market value.
+There should be only one counsel fee for both parties.
+Signed at Victoria, British Columbia, this 13th day of August 2003.
+"D.G.H. Bowman"
+A.C.J.
+Citation: 2003TCC575
+Date: 20030813
+Docket: 2002-1848(IT)I
+BETWEEN:
+CLARA JOAN WILLIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Docket: 2002-1847(IT)I
+BETWEEN :
+BARRIE A. WILLIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] These appeals were heard together and are from assessments for the 1999 taxation year. The appellants are husband and wife. In 1999 they sold a lot that formed part of a parcel of land originally acquired by them in 1986. They treated the sale as being on capital account. The Minister treated it as an adventure in the nature of trade and therefore on income account.
+[2] In 1986 the appellants jointly purchased from the United Church a 3.63 acre parcel of land (Parcel 7076) immediately behind their principal residence on Greenhill Avenue in North Bay. Mrs. Willis had some historical connection with the property as her grandfather had given it to the United Church. The appellants heard that a real estate development was going to be going in behind them and this property was intended as a form of buffer zone to ensure their privacy or, as Mr. Willis put it, as a "greenbelt". I see no reason to question the veracity of the appellants' stated purpose in acquiring the land. They were both truthful witnesses. They bought the land in or about June 1986 for $45,000. The Crown does not dispute that the land was capital property in their hands when originally purchased. Indeed, for many years after the transaction which I am about to describe they used it for their own personal use and enjoyment for skiing, hiking and tapping maple trees for making syrup.
+[3] Within a few months after their purchase of this property they were approached by the developer who was putting in the subdivision in the area, Mayco Homes North Bay Limited ("Mayco"). He was concerned that the appellants' property cut off his access from Greenhill Avenue by way of a road allowance that would be a continuation of Bryan Road leading to Nottingham Drive in the proposed subdivision. However, the developer could not simply purchase enough land from the appellants to get the access it needed as this would have required a severance, something that is difficult if not impossible to get. Therefore the following plan was devised.
+[4] On September 2, 1986 the appellants and Mayco entered into an agreement whereby the appellants sold to Mayco the entire Parcel 7076 in consideration of Mayco conveying to them Lots 34 to 40 in the subdivision after completion of the registration of the plan or subdivision on the entire property being developed (including Parcel 7076) as well as the installation of all services required under the subdivision agreement.
+[5] The agreement also provided that if the plan of subdivision was not registered within two years from the obtaining of the draft plan approval on December 21, 1988, whatever first occurred, Mayco was obliged to reconvey the lands to the appellants. Presumably this was to ensure that the appellants would get their land back in a timely fashion.
+[6] The appellants also agreed that none of their lots would be sold before December 30, 1991. We have no evidence from Mayco but one might surmise that it did not want any competition in selling the lots until it had had an opportunity of selling its own lots. As it happens the appellants had no intention of selling their lots in any event.
+[7] The sale of Parcel 7076 to Mayco was completed on March 19, 1987. The reporting letter from the appellants' solicitors to them describes the transaction as follows:
+The sale price was $45,002.00 with a deposit of $2.00 paid upon completion of the Agreement of Purchase and Sale. The balance of the purchase price in the sum of $45,000.00 was secured by a First Mortgage on the subject lands given by the purchasers to you. This mortgage was to be repaid by the conveyance to you of seven lots in the proposed land of subdivision which incorporates the land in Parcel 7076 Widdifield and Ferris.
+[8] The seven lots were conveyed to the appellants on May 27, 1987. The restriction on the sale of lots by the appellants before December 30, 1991 was incorporated into the registered transfer of the property to them.
+[9] Lot 38 on the plan of subdivision was completely behind the appellants' principal residence on Greenhill Avenue. Parts of Lots 37 and 39 touch their residence. Lots 34, 35, 36 and 40 do not touch their property at all. All of the lots that were conveyed to the appellants are within the boundaries of the original Parcel 7076 except for Lot 34.
+[10] From 1987 to 1992 the appellants continued to use the property as before for biking, cross-country skiing and the production of maple syrup for their own use.
+[11] In 1989 and 1990 a couple of events occurred that caused the appellants to reconsider some of the long-term objectives that they had planned. Their original plan was to keep the land, both as initially acquired and in the subdivided state in which they received the lots back from Mayco, indefinitely as a form of "greenbelt". In 1986 and 1987 when they acquired it or reacquired it, they did not have a primary or secondary intention of selling it.
+[12] In 1989 Mrs. Willis developed cancer and underwent a lengthy series of treatments, which I understand to have been successful. In 1990 Mr. Willis was involved in a serious accident and sustained multiple fractures. In 1991 they closed two gift stores which they owned and operated. Mr. Willis was in his late fifties and Mrs. Willis was in her mid-fifties.
+[13] The personal events involving their health brought into sharper and more immediate focus their own mortality. Nonetheless it did not impel them to make any efforts to sell the lots. The lots were not listed and they told no one they were for sale.
+[14] However, in 1992 Mr. Leo Finnigan found out from his bank manager that they owned some lots and approached them asking if they would sell him one. They refused. However, he persevered and in 1993 they relented and sold a lot to him. They wanted him to take Lot 34 but he wanted Lot 40 and that is the lot that was sold to him.
+[15] In the late fall of 1994 Mr. Willis put up a sign on the property showing the lots for sale except Lot 40 which had been sold to Mr. Finnigan and Lots 38 and 39 which abutted the Willis' property.
+[16] In April, 1995 they sold Lot 35 and in September 1997 they sold Lot 34. Lot 36 was sold in 1999 and it is this sale that is the subject of the appeals. In 2001, Lot 37 was sold.
+[17] The appellants treated the gain on Lot 36 as being on capital account. The Crown's position is set in paragraphs 9(h), (i), (j) and (k) as follows:
+(h) on September 2, 1986 the intent of the original purchase changed from capital in nature to that of an adventure in the nature of trade for the purpose of making a profit;
+(i) the seven serviced lots, referred to in subparagraph 9(f) herein, were received by the Appellant and the 'Spouse' as inventory for the purpose of gaining and producing income from a business;
+(j) on September 2, 1986 the adjusted cost base of 'Lot 36' was $6,663.42;
+(k) on September 2, 1986 the fair market value of 'Lot 36' was $6,663.42;
+[18] Counsel for the appellants has retreated somewhat from the original position taken when the returns were filed. He says that there was a change of intent on January 1, 1992 and at that time, the lots were converted to inventory and that there was a deemed disposition on that date at the then fair market value. He asks that the appeals be allowed and the assessments be referred back to the Minister for reconsideration and reassessment on the basis of a deemed disposition on January 1, 1992 and that the Minister determine the fair market value at that time which would give rise to a capital gain in 1992 (which cannot be taxed now because 1992 is statute-barred) and which would also form the basis of the cost of the land for the purpose of determining the taxable profit in 1999 when Lot 36 was sold.
+[19] This is what was done in Roos et al. v. The Queen, 94 DTC 1094 where a change of use at a date subsequent to the date of acquisition was found to give rise to a deemed disposition under paragraph 45(1)(a) of the Income Tax Act. The Court stated:
+No evidence of fair market value was adduced, and quite properly so. It would have been premature to call evidence of fair market value until it was determined whether the land was originally capital in the appellants' hands and, if so, whether a change of use took place, and when it did so. This is in accordance with the decision of the Tax Review Board in Dawd v. M.N.R. (supra).
+[20] I shall deal first with the Crown's position that there was a change of use on September 2, 1986 and a conversion to inventory on that date.
+[21] Paragraph 45(1)(a) creates a deemed disposition at fair market value where there is a change of use followed by an immediate reacquisition at fair market value.
+[22] Here we have an actual disposition which started with the agreement between the appellants on September 2, 1986 which was completed on March 19, 1987, followed by an actual reacquisition on May 27, 1987.
+[23] I do not think there was any change of use when the agreement of September 2, 1986 was signed and in my view the property remained capital from the date of its original acquisition through to its sale to Mayco and it did not lose that quality when the seven lots were conveyed to the appellants on May 27, 1987.
+[24] They were simply holding their property in a different form but it remained capital property throughout. Even in the 1990s they were selling a lot every two years. This sedate and leisurely pace is hardly commensurate with the commercial activities associated with a business or an adventure in the nature of trade. They did not advertise (except for the solitary sign that stayed on the property for years) and they took no other steps to sell the property.
+[25] After the agreement with Mayco in September 1986 and the conveyance of the property to it they did not participate in the subdivision or the installation of services.
+[26] Even if it had been their intention at some point to sell the lots this would not in itself have turned what was patently capital property into inventory.
+[27] I need not refer at length to the myriad of cases in this area of the law. Counsel referred to the two classic statements of the law in Happy Valley Farms Ltd. v. The Queen, 86 DTC 6421 in which Rouleau J. summarized the usual tests and Racine, Demers and Nolin v. M.N.R., 65 DTC 5098 in which the doctrine of secondary intent was expounded. Rouleau J. in Happy Valley Farms referred to M.N.R. v. Taylor, [1956] CTC 189 in which Thorson P. of the Exchequer Court discussed authoritatively the concept of an adventure in the nature of trade. His analysis was approved by the Supreme Court of Canada in Irrigation Industries Ltd. v. M.N.R., 62 DTC 1131.
+[28] The tests of an adventure in the nature of trade need not be repeated. They are well known and they have certainly not been met. The appellants acquired 3.6 acres adjacent to their principal residence as a protective greenbelt. They were approached by a builder who offered to acquire the land in return for his reconveying a good portion back to them as lots in a subdivision. The appellants were entirely passive. Seven lots came back to them in 1987 and, on an unsolicited offer, they sold one in 1993 after experiencing traumatic health problems. Some time after 1991 but more likely in 1993 or 1994 they concluded that life is altogether too vicissitudinous to warrant sitting forever on a valuable capital asset and decided that they should realize it and enjoy their remaining years. They kept two lots and sold five, one every two years.
+[29] If this is an adventure in the nature of trade it is unlike any that I have seen in 40 years.
+[30] Had counsel argued that the property never lost its quality of capital I would have been hard put to it to refuse to give effect to the argument. However, I do not think that it is appropriate for me to reject the admission made by counsel for the appellants that there was a change of use on January 1, 1992 giving rise to a deemed disposition at fair market value. The Court is of course not bound by admission of law (L.I.U.N.A. Local 527 Members' Training Trust Fund v. The Queen, 92 DTC 2365) but this is a pure admission of fact. Since however the Crown's assumption of a change of use in 1986 has been thoroughly demolished, and the alternative that the property remained capital throughout has not been advanced by either party I must accept the admission that a change of use took place on January 1, 1992. I am aware that this may be more advantageous to the appellants than a capital gain on the sale of Lot 36.
+[31] The appeals are allowed with costs and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Lot 36 on Plan 36M-561 was capital property in the hands of the appellants until January 1, 1992 and was deemed by paragraph 45(1)(a) of the Income Tax Act to have been disposed of for proceeds equal to its fair market value at that time and immediately thereafter reacquired at a cost equal to that fair market value.
+[32] There should be only one counsel fee for both parties.
+Signed at Victoria, British Columbia, this 13th day of August 2003.
+"D.G.H. Bowman"
+A.C.J.
+CITATION:
+2003TCC575
+COURT FILE NOS.:
+2002-1848(IT)I
+2002-1847(IT)I
+STYLE OF CAUSE:
+Clara Joan Willis and Barrie A. Willis
+and Her Majesty The Queen
+PLACE OF HEARING:
+North Bay, Ontario
+DATE OF HEARING:
+August 6, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman
+Associate Chief Justice
+DATE OF JUDGMENT:
+August 13, 2003
+APPEARANCES:
+Counsel for the Appellants:
+Gregory J. DuCharme
+Counsel for the Respondent:
+Joanna Hill
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Wallace Klein Partners in Law LLP
+Firm:
+--
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

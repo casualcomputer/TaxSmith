@@ -1,0 +1,391 @@
+---
+title: "Meilleur c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/214322/index.do"
+last_modified: "2016-12-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 287"
+citation2: ""
+neutral_citation: "2016 CCI 287"
+decision_date: "2016-12-19"
+language: "fr"
+item_id: "214322"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2954
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:45:47.884000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e8acbd645895c01cf586da45a8a1b594c56efffaef7730811e745f8202e1738c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Meilleur c. La Reine
+
+- Citation: 2016 CCI 287
+- Decision date: 2016-12-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2954, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Meilleur c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-12-19
+Référence neutre
+2016 CCI 287
+Numéro de dossier
+2013-4787(IT)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-4787(IT)G
+ENTRE :
+SUSAN MEILLEUR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 6 septembre 2016, à
+Edmonton (Alberta)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocat de l’appelante :
+Me Neil T. Mather
+Avocate de l’intimée :
+Me Margaret McCabe
+JUGEMENT
+CONFORMÉMENT aux motifs communs ci-annexés, l’appel formé contre les nouvelles cotisations applicables aux années d’imposition 2007, 2009 et 2010 est rejeté, avec dépens en faveur de l’intimée, fixés à 1 500 $, sous réserve du droit de l’une ou l’autre des parties de présenter d’autres observations sur les dépens dans un délai de 30 jours.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2016.
+« R. S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 25e jour de mai 2018.
+Mario Lagacé, jurilinguiste
+Dossier : 2015-2214(IT)I
+ENTRE :
+BARRY MEILLEUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 6 septembre 2016, à
+Edmonton (Alberta)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocat de l’appelant :
+Me Neil T. Mather
+Avocate de l’intimée :
+Me Margaret McCabe
+JUGEMENT
+CONFORMÉMENT aux motifs communs ci-annexés, l’appel formé contre la nouvelle cotisation applicable à l’année d’imposition 2012 est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2016.
+« R. S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 25e jour de mai 2018.
+Mario Lagacé, jurilinguiste
+Référence : 2016 CCI 287
+Date : 20161219
+Dossier : 2013-4787(IT)G
+ENTRE :
+SUSAN MEILLEUR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2015-2214(IT)I
+ET ENTRE :
+BARRY MEILLEUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS COMMUNS DU JUGEMENT
+Le juge Bocock
+[1] Les appelants affirment exploiter une entreprise de prêt d’argent. Ils soutiennent avoir subi des pertes comme il en arrive ordinairement dans ce genre de négoce. Le ministre du Revenu national (le ministre) affirme qu’ils étaient des investisseurs qui ont subi des pertes de placement. Le point principal soulevé dans les présents appels est de savoir si l’on a affaire en l’espèce à des prêteurs d’argent ou à des investisseurs.
+I. Introduction
+a) la déduction au sens général
+[2] Plus précisément, Susan Meilleur (Susan) et Barry Meilleur (Barry) font tous deux appel de nouvelles cotisations désavouant des sommes déduites d’un revenu qui découlait, selon les termes du texte de loi :
+(i) d’un prêt ou d’un titre de crédit;
+(ii) consenti par une entreprise;
+(iii) se rapportant aux activités de prêt d’argent; et
+(iv) acquis dans le cours normal de telles activités de prêt d’argent;
+lorsqu’il est établi au cours de l’année par le contribuable que telles avances sont devenues irrécouvrables, ou constituent une perte sur prêt ou, si déjà comptabilisées à titre de revenu et vraisemblablement devenues irrécouvrables, qu’elles donnent lieu à provision pour créance douteuse ou, subsidiairement, si elles ne sont pas comptabilisées à titre de revenu, qu’elles constituent un prêt douteux ou un titre de crédit douteux. Dans les présents motifs, la Cour emploie le terme neutre « avances » puisque la question de savoir si telles avances constituaient des prêts, des titres de crédit ou des investissements est un aspect essentiel du litige.
+b) déduction spécifique pour une créance irrécouvrable
+[3] Cette déduction pour créances irrécouvrables (la déduction pour créance irrécouvrable) apparaît dans la division 20(1)p)(ii)(A) de la Loi de l’impôt sur le revenu, L.R.C. 1985 (5e suppl.), ch. 1 (la LIR), où l’on peut lire ce qui suit :
+« Créances irrécouvrables »
+20(1) [...] sont déductibles dans le calcul du revenu tiré par un contribuable […]
+[...]
+(A) si le contribuable est un assureur ou si son activité d’entreprise habituelle consiste en tout ou en partie à prêter de l’argent, [et qu’un prêt ou titre de crédit] a été consenti ou acquis dans le cours normal des activités de son entreprise d’assurance ou de prêt d’argent,
+[…]
+c) déduction spécifique pour une créance douteuse
+[4] Une disposition correspondante de la Loi, à savoir l’alinéa 20(1)l), prévoit une réserve ou provision raisonnable similaire applicable au revenu. S’agissant d’une créance douteuse, le sous-alinéa 20(1)l)(i) pourra s’appliquer dans la mesure où la réception, la créance ou l’avance a déjà été déclarée ou comptabilisée comme revenu, mais non reçue, et où le recouvrement probable de l’avance devient douteux. Subsidiairement, la division 20(1)l)(ii)(B) permet une réserve ou provision pour les prêts ou les titres de crédit douteux d’une entreprise de prêt d’argent qui ont été consentis dans le cours normal de telles activités.
+[5] Pour commencer, la Cour peut d’emblée rejeter la créance douteuse comme fondement de l’appel au titre du sous-alinéa 20(1)l)(i). L’enregistrement antérieur de la réception du prêt comme revenu d’entreprise au cours de l’année ou d’une année antérieure est une condition à remplir pour que la créance soit ultérieurement considérée comme douteuse aux termes du sous‑alinéa 20(1)l)(i). En dépit des arguments avancés par Susan et Barry dans leurs avis d’appel, aucune preuve n’a été produite contestant le postulat du ministre selon lequel de telles créances avaient déjà été déclarées ou reconnues par l’un ou l’autre des appelants comme revenu pour l’année d’imposition applicable ou une année antérieure. Par conséquent, Susan et Barry ne peuvent invoquer la règle autorisant une telle provision à l’égard du revenu au titre d’une créance douteuse, par opposition à un prêt ou à un titre de crédit douteux selon la disposition 20(1)l)(ii)(B) : Heron Bay Investment Ltd. c. R., 2009 CCI 337, au paragraphe 26. Les appels ne sont donc pas recevables dans la mesure où ils s’appuient sur cette disposition explicite.
+d) perte déductible au titre d’un placement d’entreprise
+[6] Un autre moyen d’appel peut lui aussi être rejeté d’emblée. Barry a fait valoir que ses portions imputables des avances étaient déductibles comme perte déductible au titre d’un placement d’entreprise (PDTPE). Une déduction admissible de cette nature est généralement applicable à toutes les sources de revenu. Cependant, il n’a pas été prouvé que le bénéficiaire des sommes avancées était un bénéficiaire admissible, à savoir une société exploitant une petite entreprise, expression définie au paragraphe 248(1) et mentionnée au sous‑alinéa 39(1)c)(iv), qui intéresse précisément les PDTPE. Le ministre a postulé que le bénéficiaire n’était pas un bénéficiaire admissible. La qualité de bénéficiaire admissible est une condition indispensable pour pouvoir obtenir une déduction PDTPE : Rich c. R., [2003] 3 CF 493, aux paragraphes 4 et 5. Par conséquent, puisqu’il n’a pas été prouvé que l’emprunteur était une telle entité admissible, le postulat du ministre subsiste, et Barry ne peut obtenir la déduction PDTPE dans son appel.
+[7] Puisque la provision pour créance douteuse et la déduction PDTPE ne sont pas accessibles, les moyens d’appel restants reposent sur le sous-alinéa 20(1)p)(ii) (créances irrécouvrables) ou le sous-alinéa 20(1)l)(ii) (prêts ou titres de crédit douteux) (la déduction).
+II. Les faits
+a) nouvelles orientations pour Susan et Barry à partir de 2006
+[8] Susan et Barry sont conjoints. Susan est comptable publique accréditée (l’ancienne désignation était « comptable agréée »). Elle avait travaillé dans la comptabilité depuis le début des années 1980, puis, à partir de 1991 et jusqu’à ce qu’elle cesse ses activités en 2006 et prenne sa retraite en 2007, elle avait exercé des fonctions au Bureau du vérificateur général du Canada. Dans cette institution, elle avait procédé à des vérifications comptables de diverses entreprises et établissements dans maintes localités du nord du pays. À sa retraite, Susan a reçu des sommes à titre d’indemnité de départ, de gratification aux cadres et de prestations de pension rachetée. En outre, elle et Barry ont contracté certains emprunts. Ils ont avancé l’investissement combiné de la manière décrite ci-après. La question est de savoir si les avances en question étaient des prêts consentis dans le cadre d’une entreprise existante de prêt d’argent et si les avances, dans le cas où elles relevaient de cette entreprise, ont été consenties dans le cours normal d’une telle entreprise de prêt d’argent. Rappelons que Susan considère les avances comme relevant d’activités de prêt d’argent liées principalement à des projets spéculatifs d’aménagement immobilier. Le ministre affirme qu’il n’existait aucune entreprise de prêt d’argent et que les avances de capital étaient des placements.
+[9] Barry, qui est titulaire de diplômes universitaires en commerce, est expert‑comptable. En 2006, lorsque Susan a pris un congé de travail, il occupait un poste de responsabilité au sein de la Direction générale des services financiers du gouvernement de l’Alberta. Son travail consistait à vérifier la conformité avec les politiques de passation de marchés, ainsi qu’à formuler et à intégrer les protocoles et conventions comptables pour ce ministère. S’agissant des avances, comme indiqué ci-après, Barry s’occupait de financer les placements en s’adressant à une banque ou en puisant dans les épargnes de Susan.
+[10] Se remémorant ses années passées dans la comptabilité, Susan a témoigné qu’elle s’était rendu compte du mérite et de la pertinence que présentait le fait de consentir des avances pour des projets d’aménagement immobilier. Barry, lui aussi, a indiqué qu’il avait toujours eu un « penchant » pour l’immobilier. C’est pourquoi, d’affirmer l’un et l’autre, lorsque Susan a quitté son travail en 2006 et pris sa retraite en 2007, le lancement d’une entreprise de prêt d’argent leur avait paru tout à fait logique.
+[11] S’agissant des avances, la différence entre le rôle exercé par Susan et le rôle exercé par Barry peut se résumer ainsi : Susan évaluait le placement des avances, et il revenait à Barry de trouver et d’organiser les sources des fonds nécessaires pour les avances.
+b) avances de fonds pour gagner un revenu ou rentabiliser le capital investi
+[12] Afin de gagner un revenu, Susan et Barry ont consenti les avances pour deux projets d’aménagement immobilier; il s’agissait dans les deux cas de deux aménagements séparés consistant en lieux de villégiature (les projets). Les projets ont débuté par l’acquisition de terrains vierges, après quoi il fallait les viabiliser, obtenir les agréments requis, procéder à la construction et organiser la vente. Au début, Susan et Barry recevaient des versements d’intérêts aux taux prescrits, ainsi que le remboursement de tranches du capital se rapportant aux avances. Susan et Barry en sont donc arrivés à croire que leur entreprise naissante allait être un succès.
+[13] Susan et Barry ont qualifié et comptabilisé ainsi les avances de fonds (les avances) :
+Numéro de l’avance
+(mois)
+Contribuable chargé du projet et de l’avance
+Taux d’intérêt annuel
+Durée
+Rang de l’hypo­thèque
+Prêt consenti par les appelants
+Valeur estimative
+Besoins totaux de trésorerie
+No 1 Mars 2006
+YK Projects Ltd.
+(« YK no 1 ») Barry
+24 %
+1 an
+2e rang
+150 000 $
+86,8 millions $
+10 millions $
+No 2 Avril 2007
+YK Projects Ltd.
+(« YK no 2 ») Barry
+24 %
+1 an
+2e rang
+50 000 $
+86,8 millions $
+10 millions $
+No 3 Juin 2007
+YK Projects Ltd.
+(« YK no 3 ») Susan
+15 %
+1 an
+1er rang
+150 000 $
+86,8 millions $
+20 millions $
+No 4 Août 2007
+1256390 Alberta Ltd.
+(« Strathmore no 1 ») Susan
+16 %
+1 an
+1er rang
+150 000 $
+29,7 millions $
+17 millions $
+No 5 Août 2007
+1256390 Alberta Ltd.
+(« Strathmore no 2 ») Susan
+24 %
+1 an
+2e rang
+150 000 $
+29,7 millions $
+7 millions $ (enregistrés)
+5 millions $ (autorisés)
+Avances totales de Susan et Barry
+[EN BLANC]
+[EN BLANC]
+[EN BLANC]
+[EN BLANC]
+650 000 $
+[EN BLANC]
+[EN BLANC]
+[14] La durée de chaque avance était relativement courte (un an), mais elle pouvait être renouvelée si les avances demeuraient viables. Comme l’a indiqué Barry, les taux d’intérêt étaient d’environ 10 à 19 % plus élevés que les taux d’emprunt en vigueur. Selon Barry, cet écart correspondait au risque commercial intrinsèque ou à la prime de « risque de perte » propre à l’entreprise. Barry a aussi affirmé avec force que les écarts lucratifs de taux d’intérêt s’inscrivaient dans le modèle d’affaires appliqué pour les prêts : sur quatre ou cinq avances consenties, l’une pouvait se révéler une perte totale, mais les rendements considérables tirés des « bonnes » avances annuleraient largement lesdites pertes et produiraient un joli profit.
+[15] Les autres frais rattachés à l’entreprise ci-dessus décrite de prêt d’argent étaient négligeables. Il n’y avait pas de frais de publicité et peu de frais généraux, si ce n’est un bureau à la maison. Barry et Susan ont affirmé qu’ils fournissaient eux-mêmes les services respectifs de comptabilité, d’enquête et d’affaires nécessités par les avances.
+c) recours à un « courtier en hypothèques »
+(i) Arres Capital Inc.
+[16] Pour placer les avances, Susan et Barry se sont adressés à la société Arres Capital Inc. (ACI). C’est par l’intermédiaire de l’un de ses anciens collègues de travail que Susan avait découvert ACI. Nulle autre source susceptible de dénicher de telles possibilités d’affaires n’a été mise à contribution. ACI représentait cette unique source de recommandations pour le placement des avances, elle recevait les avances et elle les plaçait directement pour Susan et Barry.
+(ii) nature et sources des sommes avancées
+[17] S’agissant des avances évoquées plus haut, Susan et Barry empruntaient souvent de l’argent comme il suit, pour constituer des avances de fonds.
+Source des avances empruntées et écarts
+Poste
+Prêt
+Date de l’accord
+Financement sur ligne de crédit
+Taux d’intérêt initial de la ligne de crédit
+Écart approximatif des taux d’intérêt
+No 1
+YK no 1
+20 mars 2006
+20 mars 2006
+5,50 %
+18,5 %
+No 2
+YK no 2
+11 avril 2007
+7 avril 2007
+5,49 %
+18,5 %
+No 3
+YK no 3
+4 juin 2007
+Pas de financement
+Pas de financement
+16 %
+No 4
+Strathmore no 1
+27 août 2007
+15 août 2007
+5,74 %
+10,3 %
+No 5
+Strathmore no 2
+27 août 2007
+15 août 2007
+5,74 %
+18,3 %
+[18] Les documents montraient que 4 des 5 placements furent avancés à partir d’emprunts sur une ligne de crédit personnelle garantie établie par Susan et Barry. Les sommes étaient alors avancées à ACI qui, y adjoignant les fonds reçus d’autres parties, transmettait à son tour aux promoteurs des projets l’ensemble des avances reçues.
+(iii) structure et documentation
+Convention de fiducie
+[19] Pour chaque avance, ou du moins pour chacun des deux projets, Susan et Barry ont conclu avec ACI une convention de fiducie. Le document était en tout point identique pour chaque aménagement immobilier. ACI se déclarait simple fiduciaire. Barry ou bien Susan étaient désignés comme l’investisseur. Le « prêt » décrit dans la convention de fiducie s’entendait du montant total de toutes les avances faites par tous les investisseurs, l’avance de Susan et de Barry représentant un pourcentage de l’ensemble. Outre les dispositions usuelles de garantie en faveur d’ACI, en sa qualité de fiduciaire, la convention de fiducie conférait à ACI le droit d’acheter l’avance de l’investisseur.
+Lettre d’engagement du prêteur
+[20] En marge de l’avance, Susan et Barry ont signé un engagement irrévocable d’avancer des fonds pour les fins des « placements hypothécaires » décrits.
+Sommaire du prêt
+[21] Pour chaque projet, Susan et Barry ont reçu un feuillet de modalités décrivant le capital total requis de la part de toutes les parties. Susan et Barry ont consenti des avances et acquis une part proportionnelle de la totalité de ce placement.
+(iv) qui a fait quoi?
+[22] Du milieu des années 1990 jusqu’en 2007, Susan a fourni gracieusement à ACI des « conseils professionnels en matière d’affaires et de comptabilité ». En 2007 et 2008, lorsqu’ACI n’avait pas à sa disposition un expert-comptable ou un contrôleur, Susan lui fournissait des services de comptabilité moyennant rémunération. Cet élément figurait dans une lettre d’ACI découlant d’un conflit avec l’ARC qui portait sur la possibilité ou non pour Susan de déduire ses frais professionnels rattachés à la facturation de tels honoraires professionnels.
+[23] Pour le reste, ACI fournissait tous les services d’établissement de rapports, services juridiques et services de comptabilité se rapportant aux avances consenties par Susan et Barry pour les deux projets.
+d) Recouvrement et défaillance
+[24] Malheureusement pour Barry et Susan, la crise financière mondiale et l’effondrement qui en a résulté pour les marchés des capitaux à haut risque furent pour eux catastrophiques. De 2007 à 2009, et au-delà, chacune des avances s’est trouvée en défaut, entraînant des pertes. Les faits ne sont pas contestés pour ce qui concerne le montant des pertes ou des frais, si ce n’est la possibilité ou non de les déduire de toutes leurs sources de revenu en tant que créances irrécouvrables ou prêts douteux survenus dans le cadre d’activités de prêt d’argent.
+[25] Certaines des avances furent irrémédiablement perdues. Ce qu’il restait des autres fut converti en des intérêts dans des hypothèques de rangs divers qui demeurent impayées. Dans un cas, des actions converties du capital social d’un propriétaire de projet semblent avoir été émises, mais, sur ce point, la preuve et le témoignage de Susan n’ont pas été très clairs. Ce qui est sûr, c’est que, de 2007 à 2010, toutes les avances étaient en péril, conduisant à une perte quasi totale.
+e) Exécution, réalisation et perte
+[26] Comme indiqué ci-dessus, diverses avances ont connu des issues légèrement différentes. Elles sont évoquées ci-après.
+YK no 1 et no 2
+[27] Il est difficile de savoir laquelle des tranches relatives aux avances YK no 1 et YK no 2 a été effectivement remboursée, mais il n’est pas contesté que, sur le total dû de 200 000 $, une somme de 150 000 $ a été remboursée en septembre 2008. Le sort des 50 000 $ restants, pour l’avance YK no 2, n’est pas clair. Pour simplifier, presque immédiatement après le remboursement de l’avance YK no 1, l’emprunteur a manqué à ses obligations, à la suite de quoi un tribunal a ordonné l’administration des actifs de la compagnie aux termes de la Loi sur les arrangements avec les créanciers des compagnies, L.R.C. 1985, ch. C-36 (la LACC). Finalement, en 2010, alors que les biens de la compagnie étaient administrés en vertu de la LACC, l’emprunteur et les créanciers se sont entendus pour céder certains intérêts restants dans les actifs du projet aux créanciers hypothécaires, en fonction du rang de leur sûreté. Le « conseil » chargé d’administrer les actifs au profit des créanciers a exigé en 2012 un apport en espèces de la part des créanciers hypothécaires participants restants. Barry, à qui avait été au départ attribué l’avantage de cette avance, n’a pas été en mesure de répondre à l’appel d’apport de capital. Il a donc conclu que l’avance était sans valeur en 2012.
+YK no 3
+[28] Le projet se rapportant à l’avance YK no 3 concernait le même projet que l’avance YK no 2, si ce n’est que l’avance YK no 3 était garantie par une hypothèque de premier rang plutôt que de second rang. C’était d’ailleurs Susan, et non Barry, qui était à l’origine le titulaire de l’avance.
+[29] Il n’a pas été établi que Susan a versé des sommes additionnelles à la suite de l’appel d’apport de capital en 2012.
+Strathmore no 1 et no 2
+[30] Les avances Strathmore no 1 et Strathmore no 2 sont devenues en souffrance en août et juillet 2008, respectivement. Les créanciers hypothécaires de premier rang (Strathmore no 1) ont procédé à la saisie immobilière des biens fonciers garantissant ce projet. Il en a résulté que toute perspective de récupération pour les titulaires de l’avance Strathmore no 2 avait disparu en 2009. En 2011, après des tentatives répétées de renflouement du projet, le fiduciaire du créancier hypothécaire de premier rang a finalement vendu le bien pour un prix qui ne permettait pas de désintéresser les titulaires de la première hypothèque.
+f) Déclarations de revenus et nouvelle cotisation de Susan et de Barry
+Susan
+[31] Susan avait au départ déclaré des intérêts créditeurs uniquement en 2007 sur la foi de feuillets T5 que lui avait remis ACI. Ses déclarations de revenus de 2008 produites à l’origine n’ont pas été soumises à la Cour. En 2009, Susan a entrepris de qualifier son revenu tiré des avances comme des revenus/pertes d’entreprise résultant d’activités de prêt d’argent. Au moment de produire sa déclaration de revenu de 2009, Susan a présenté une demande de report rétrospectif d’une perte (le formulaire T‑1A) à l’année d’imposition 2007, relativement à la somme de 43 150 $. Les pertes d’entreprise qu’elle voulait déduire pour 2009 et 2010 ayant été désavouées, et sa demande de report rétrospectif d’une perte ayant été refusée, Susan a déposé des formulaires additionnels T-1A pour des reports rétrospectifs de pertes d’entreprise à l’égard de toutes les avances, dès lors prétendument irrécouvrables, qui se rapportaient aux avances YK no 3, Strathmore no 1 et Strathmore no 2. Dans son avis d’appel, Susan affirmait que lesdites pertes et les déductions afférentes étaient soit des « créances irrécouvrables » aux termes du sous-alinéa 20(1)p)(ii), soit des prêts douteux aux termes du sous-alinéa 20(1)l)(ii). En résumé, Susan demande, pour ses années d’imposition 2007, 2009 et 2010, la provision pour créances irrécouvrables ou la provision pour prêts douteux.
+Barry
+[32] La déclaration de revenu et la nouvelle cotisation de Barry ne concernent qu’une seule année, 2012. Pour cette année-là, Barry déclarait une « réduction de valeur » de 50 000 $ à l’égard du revenu total se rapportant à l’avance YK no 2, ligne 130 de sa déclaration, en y adjoignant une explication. Selon lui, la réduction de valeur de 50 000 $ représentait soit une « prime pour réalisation d’un risque de perte », déjà déclarée comme revenu aux termes du sous-alinéa 20(1)p)(i), soit une « radiation d’une hypothèque garantie par un aménagement foncier », aux termes du sous-alinéa 20(1)p)(ii). Le ministre a établi une nouvelle cotisation et désavoué les déductions pour « réduction de valeur » de 50 000 $.
+III. Questions reformulées
+[33] Les avocats reconnaissent qu’il y a plusieurs points ou critères à examiner au regard de la déduction pour créance irrécouvrable ou titre de crédit douteux se rapportant aux avances en défaut. Le non-respect de l’un quelconque des critères conditionnant la déduction sera fatal. Par conséquent, si la Cour estime que l’un des critères n’est pas respecté, alors les déductions ne sont pas admissibles et les appels seront rejetés. Pour rappel, les critères communs à l’une ou l’autre des déductions sont les suivants :
+(i) Existe-t-il un prêt ou un titre de crédit?
+(ii) Existe-t-il une entreprise?
+(iii) S’agit-il d’une entreprise de prêt d’argent?
+(iv) Les prêts ont-ils été consentis dans le cours normal de telles activités de prêt d’argent?
+(v) Le contribuable a-t-il prouvé que la créance est devenue irrécouvrable ou que le titre de crédit est devenu douteux, selon le cas, au cours de l’année où la déduction a été demandée?
+[34] En fait et en droit, les critères (i) à (iv) sont communs à Susan et à Barry. Le cinquième critère (v) est distinct en raison des divers prêts attribués et des années d’imposition auxquelles chacun d’eux s’applique.
+IV. Conclusions, droit et analyse
+a) Existe-t-il un prêt ou un titre de crédit?
+[35] Selon l’intimée, les avances n’étaient pas des prêts, mais des placements. Le simple fait d’être propriétaire d’un intérêt indivis dans une avance en bloc pour un projet d’aménagement de plaisance ne transforme pas les avances en prêts. En bref, les avances constituaient des placements dans des projets d’immobilisations spécifiques, tous très semblables, assortis de taux de rendement négociés au préalable, à l’initiative d’une tierce partie, et le titre étant détenu par cette tierce partie, laquelle contrôlait et gérait les placements, atténuait le risque qu’ils présentaient et participait à ce risque.
+[36] L’appelante affirme qu’il y a trois prêts hypothécaires distincts, puisque des sûretés hypothécaires directement enregistrées dans des biens ont été obtenues. Cette sûreté hypothécaire, la cession du titre en cas de défaut et les postulats énoncés par l’intimée concernant les avances, tout cela s’accorde avec l’idée qu’il s’agissait de prêts et non de simples placements.
+[37] Quant aux précédents portant sur la question de savoir si une avance constitue un prêt, les deux avocats se sont référés à la décision Loman Warehousing Ltd. c. Sa Majesté la Reine, 1999 CanLII 376 (CCI), 1999 CarswellNat 1092, [1999] 4 CTC 2049. Plus précisément, aux paragraphes 21 et 22, le juge Bowman s’exprime ainsi :
+21. L’avance de 2 306 163 $ était-elle un prêt? L’avocate de l’intimée soutient que l’avance n’était pas un prêt, mais une avance entre sociétés. Elle souligne le fait qu’il n’y avait aucune entente de prêt ni résolution, billet à ordre ou autre document de garantie jugé nécessaire pour établir l’existence en droit d’un prêt par opposition à un arrangement conclu entre des entités liées.
+22. Je conviens qu’un prêt et une avance ne sont pas toujours synonymes, mais lorsqu’une avance est faite et que les deux parties s’entendent sur l’existence d’une obligation de rembourser cette avance sur demande ou à une date prédéterminée, l’avance devient un prêt. L’absence de documents officiels n’est pas fatale, ni l’absence d’une obligation de payer de l’intérêt. En l’espèce, cependant, le paiement d’intérêt vient étayer l’existence d’une obligation implicite de rembourser les montants, et la pratique, parmi les compagnies faisant partie du groupe, consistant à rembourser les avances, confirme que les montants avancés entre les parties à l’ACP étaient des prêts.
+[38] La présence d’un intérêt récurrent, de dates précises d’exigibilité du solde, d’une sûreté hypothécaire, sans compter les droits détaillés d’exécution détenus par Susan et/ou Barry ou par leur mandataire désigné, de même que les obligations des bénéficiaires de l’avance, tout cela l’emporte sur certaines descriptions incompatibles contenues dans les documents : avances décrites comme « placements », droits coexistants du fiduciaire, étapes du projet et droits assez peu affirmés d’exiger directement un remboursement. À ce titre, tout bien considéré, les avances pourraient être qualifiées de prêts ou de titres de crédit.
+b) Existe-t-il une entreprise en tant que telle, et s’agissait-il d’une entreprise de prêt d’argent?
+[39] La question plus importante est de savoir si ces cinq avances se rapportant à deux projets étaient des opérations de nature commerciale ou des opérations visant simplement à obtenir de meilleurs rendements à partir d’instruments financiers garantis, mais risqués.
+[40] Logiquement, des prêts peuvent exister dans le contexte d’un portefeuille de placements tout comme dans une entreprise de nature commerciale. La qualification d’une avance comme prêt procède de la nature du placement et de ses modalités propres plutôt que de la nature de l’activité du bénéficiaire du rendement, ou du niveau et de l’étendue de l’activité exercée pour produire ce rendement. La question demeure : l’activité consistant à placer ces prêts, outre le fait pour les deux appelants de recevoir des intérêts, dans la présente affaire et compte tenu des circonstances ci-dessus décrites, constitue-t-elle une entreprise?
+[41] Susan et Barry font valoir que les prêts totalisant 650 000 $ et consistant en cinq prêts garantis distincts, outre la source des fonds, leur ardeur et leur dynamisme dans l’entreprise, de même que le contrôle systématique qu’ils exerçaient sur elle, tout cela devrait conduire à la conclusion qu’il s’agissait bel et bien d’une entreprise.
+[42] L’intimée affirme que le fait d’être propriétaire d’un intérêt indivis dans les avances garanties ne fait pas de cet intérêt une entreprise. Le niveau d’intervention directe, la passivité dans le contrôle et la négociation des titres de crédit, le caractère spéculatif des projets d’immobilisations, les descriptions et modalités figurant dans les documents, le nombre modeste des avances, la fusion des avances des appelants avec celles d’autres participants, enfin le recours à une source unique de possibilités d’affaires, c’est-à-dire un fiduciaire/intermédiaire/courtier, tout cela donne à penser qu’il s’agissait de placements par voie d’un simple prêt, plutôt que d’une entreprise commerciale active sur les marchés financiers.
+[43] Dans les derniers paragraphes de la décision Stewart c. Sa Majesté la Reine, 2004 CCI 202, à savoir les paragraphes 5 et 6, le juge Bowie écrivait ce qui suit :
+5. … Le présent appel intéresse le simple cas d’une contribuable qui, parce qu’elle a mal compris la différence entre ce qui est imputable au compte de capital et ce qui est imputable au compte de revenus, tente de déduire de son revenu en intérêts la perte qu’elle a subie au titre d’un prêt hypothécaire. Cette perte, peu importe son montant, n’est pas imputable au compte de revenus, mais bien au compte de capital.
+6. Le fait qu’une personne effectue de nombreux placements n’a pas pour effet de transformer cette activité en entreprise. La preuve ne permet nullement de penser que la contribuable en l’espèce achetait des titres pour les céder avec bénéfice, ce qui aurait constitué un projet comportant un risque de caractère commercial. Dans la présente affaire, la Cour est saisie de placements purs et simples dans des titres en vue de produire un revenu. L’un de ces placements s’est révélé mauvais et a été perdu, et il s’agit manifestement d’une perte en capital. L’appel est donc rejeté.
+[44] Par ailleurs, l’intention du contribuable durant la période où il détient l’actif (en l’occurrence un prêt) est très utile pour savoir s’il était engagé dans une opération commerciale : Happy Valley Farms Ltd. c. Ministre du Revenu national, CF 1re inst., no du greffe T-6632-82, 16 juillet 1986, [1986] CTC 259, au paragraphe 15.
+[45] Il serait utile d’examiner certains facteurs survenus durant la période où le contribuable a été propriétaire du bien. Ce point est mentionné non seulement au paragraphe 14 de la décision Happy Valley, mais également dans l’arrêt Canadian Marconi Co. c. La Reine, [1986] 2 RCS 522, aux pages 6529-6530, un arrêt qui lui-même cite l’arrêt Cragg v. Minister of National Revenue, [1952] R.C. de l’É. 40, au paragraphe 46. Ces deux précédents sont cités par le juge Rip, de la Cour de l’impôt, dans la décision Langhammer c. La Reine, 2000 CanLII 473 (CCI), 2000 CarswellNat 2833, au paragraphe 34.
+[46] Se référant ainsi à ces deux précédents dans la décision Langhammer, l’ancien juge en chef de la Cour de l’impôt entreprenait, aux paragraphes 35 et 36, de résumer les indices favorables ou défavorables – d’ailleurs présents les uns comme les autres dans ladite décision – qui le conduiraient à dire si une entreprise existait ou non.
+[47] Les critères suivants qui militent en faveur de l’existence d’une entreprise sont énumérés dans la décision Langhammer : ardeur déployée dans la recherche de fonds à prêter; existence d’une sûreté garantissant les prêts; niveau global et complexité générale des prêts. Les critères militant contre l’existence d’une entreprise seront les suivants : absence de publicité et de promotion, absence d’un système comptable, et absence d’enquête directe sur les nouveaux emprunteurs. En bref, les indices d’activité par opposition aux indices de passivité durant la période où l’actif est détenu doivent être évalués d’après les faits. La présence ou l’absence de tel ou tel facteur ne sera pas en soi déterminante, mais c’est plutôt l’effet cumulatif de tous les facteurs concernés qui permettra de répondre à la question.
+[48] Pour savoir si l’on a affaire à une entreprise, il convient de se référer à la définition apparaissant à l’article 248 de la Loi : « [s]ont compris parmi les entreprises les professions, métiers, commerces, industries ou activités de quelque genre que ce soit » [Non souligné dans l’original.] Les éléments de cette définition qui intéressent la décision de la Cour dans la présente affaire sont les suivants : le mot « commerces » et l’expression « activités de quelque genre que ce soit ». Il n’existe pas de critère absolu, mais il existe une ligne de démarcation dans la Loi entre le mot « entreprise » et le mot « biens ». Plus précisément, il existe une différence entre le fait d’investir dans des actifs (qui par nécessité englobent fréquemment des hypothèques) en vue d’acquérir un revenu de tels biens, et le fait de se lancer dans des « projets comportant un risque ou [des] affaires de caractère commercial » faisant intervenir des activités de prêt d’argent. Ce point a été souligné par la Cour d’appel fédérale dans l’arrêt R. c. Rockmore Investments Ltd. c. R., no de greffe A-371-75, [1976] DTC 6156, à la page 6157.
+[49] C’est là une situation qu’il faut considérer « par rapport à la pratique commerciale » : Morflot Freightliners Limited c. La Reine, [1989] A.C.F. no 251, (1989), 43 DTC 5182 (CF 1re inst.), à la page 5185. Dans ce précédent, le juge Strayer, se fondant sur les faits, concluait ainsi :
+[L]es fonds ont été avancés par la demanderesse dans un objectif à long terme, à savoir conserver indéfiniment sa filiale américaine en tant que cocontractante durable […]
+Puis il ajoutait ce qui suit :
+[L]e point critique en l’espèce est la distinction à faire entre la [conservation] d’un actif durable d’une part, et, d’autre part, l’engagement de dépenses dans le but de tirer un profit direct et plus immédiat de ventes […]
+[50] Comme indiqué, s’agissant d’analyser et d’apprécier les faits, pour éventuellement conclure à la présence, d’abord, d’une entreprise et, ensuite, à celle d’une entreprise de prêt d’argent, la Cour doit examiner les faits dans leur contexte pour en connaître l’effet cumulatif. C’est pourquoi la distinction entre les faits qui caractérisent une entreprise et ceux qui révèlent un plan général de placement permettra une comparaison utile.
+[51] En l’espèce, l’existence d’une entreprise est attestée par les faits suivants issus de la preuve :
+1. Un important pourcentage des sommes représentant les avances a été emprunté à une institution financière par Barry et Susan. Cette partie des sommes a ensuite été placée auprès d’ACI pour que cette dernière les avance à des emprunteurs.
+2. Les intérêts élevés étaient générés par l’« écart » important entre les fonds souvent empruntés à titre personnel et les rendements à haut risque générés par les avances portant sur des projets plus risqués.
+3. Les avances étaient attestées par des contrats de prêts détaillés et spécifiques, encore que pro forma, par des lettres d’engagement et par des conventions de fiducie. Cette preuve documentaire, bien que courante dans le monde des prêts hypothécaires, serait redondante et absente dans de simples placements hypothécaires.
+[52] Pour dire qu’il n’existait pas d’entreprise et qu’il s’agissait plutôt d’un placement, il convient de s’arrêter aux faits suivants :
+1. Il n’y avait aucune propriété directe des avances parmi les prêteurs appelants et les emprunteurs. Les documents eux-mêmes désignaient souvent Barry et Susan comme des « investisseurs ». C’était là juridiquement vrai s’agissant d’autres personnes qui avançaient des fonds selon des modalités identiques à celles de Susan et Barry.
+2. Il n’y avait pas de négoce, de cession ou de vente des hypothèques. Les sommes étaient investies pour des durées explicites d’un an, mais, dans les faits, elles permettaient de financer, par des renouvellements anticipés, une durée plus longue, à savoir la phase d’aménagement et de construction de chaque projet. Cet horizon temporel plausible, nonobstant la durée indiquée d’un an, fut à l’évidence confirmé par les faits ultimes se rapportant à chaque avance.
+3. L’unique rendement obtenu des avances était un revenu d’intérêts, encore qu’à des taux beaucoup plus élevés que ceux des placements en général. Fait à noter, il n’y avait pas de droits de conversion, de primes en actions ni d’intérêts de report prospectifs, privilèges dont bénéficient ordinairement et fréquemment ceux qui investissent du capital-risque dans des entreprises. Pareillement, Barry et Susan n’avaient aucun droit contractuel d’agir comme membre, conseiller ou observateur, soit directement, soit par l’entremise d’un mandataire, au conseil d’administration de l’emprunteur ou du fiduciaire.
+4. Ce n’est qu’en 2012, environ cinq ans après que les avances furent consenties, que Susan fut en mesure de s’enquérir des conclusions et observations de l’ARC sur l’existence d’une entreprise. Ce point est révélé par la preuve, lorsqu’elle affirme en juin 2012 [traduction] « j’ai pu finalement indiquer dans les documents ce que je voulais vous montrer ». Cette entreprise créée a posteriori n’est compatible avec aucun plan d’affaires rédigé préalablement ou à la même époque, fût-il superficiel, et elle n’est pas non plus attestée par un diagramme organisationnel, ni par des critères écrits applicables à une entreprise de prêts, par une dénomination commerciale, par des cartes de visite, par un compte bancaire pour l’entreprise, ni par quoi que ce soit pour la faire connaître.
+5. Le recours exclusif à ACI faisait d’ACI un fournisseur unique, qui imposait des conditions, des obligations et des contraintes à Susan et Barry pour toute mise en demeure, tout remboursement et toute mesure d’exécution se rapportant aux avances consenties.
+6. L’absence d’un plan d’affaires écrit, de critères ou d’un objet commercial le moindrement défini allait de pair avec l’absence d’exigences précises de contrôle préalable, l’absence d’une évaluation directe et d’un contact direct avec les emprunteurs, enfin l’absence de négociations portant sur les modalités des avances, sinon directement avec ces emprunteurs, mais pas même avec l’intermédiaire, ACI.
+7. Toutes les « hypothèques immobilières » financées étaient amalgamées et représentaient des intérêts indivis et fractionnaires dans un prêt en bloc avancé en même temps que d’autres sommes elles aussi avancées à un emprunteur généralement mal connu, par l’entremise d’un fiduciaire gestionnaire très bien informé, connu, actif et coparticipant.
+[53] L’idée de comparer ces éléments factuels militant ou non en faveur de l’existence d’une entreprise ne consiste pas à cocher séparément et un par un les éléments d’une liste de contrôle ou à faire des calculs numériques; l’exercice vise simplement à décrire l’effet cumulatif produit par l’ensemble des activités. En bref, existe-t-il globalement un niveau suffisant d’activités commerciales susceptibles de faire de la détention d’hypothèques immobilières en vue de gagner un revenu d’intérêts une entreprise ou une activité de nature commerciale lucrative, celle qui consiste à prêter de l’argent?
+[54] Après examen de tous les faits, la Cour estime, comme dans la décision Stewart, que les placements répétés faits au moyen d’avances amalgamées et non différenciées en faveur des projets ne constituaient pas un commerce ou une entreprise. Les constats suivants appellent sans ambiguïté une telle conclusion :
+a) le fait que Susan a adopté au départ l’attitude illogique consistant, durant les premières années de l’activité, à considérer les avances comme des investissements immobiliers productifs de revenu. Cette attitude se distingue de l’approche plus méthodique adoptée dès le départ par les contribuables, dans l’affaire Langhammer et dans l’affaire Singh (2000 CarswellNat 472). Dans ces précédents, le contribuable considérait systématiquement telles avances comme les éléments d’une entreprise de prêt d’argent, ce qu’attestaient ses déclarations de revenu. Dans les présents appels, la demande formulée pour que soient apportés des ajustements aux déclarations de revenu après les années d’imposition 2007 et 2008 est particulièrement révélatrice. Bien que non déterminant à lui seul, un tel changement sollicité par les appelants (tous deux étaient experts-comptables) alors que l’entreprise suivait son cours laisse entrevoir de leur part un état d’esprit différent entre les premières périodes des prêts, lorsque les intérêts étaient payés et que les pertes ne s’étaient pas encore matérialisées, et les périodes ultérieures quand ce n’était plus le cas. Ce changement de cap est également révélé par la nécessité, avec quelque difficulté de la part de Susan, d’analyser ultérieurement la situation en vue de faire naître l’idée qu’il s’agissait d’une entreprise;
+b) la retraite de Susan et le versement concomitant de ses prestations de pension rachetée rendaient nécessaire un rendement assorti de taux d’intérêts élevés. Les débuts du plan d’investissement ont été rendus possibles par les sommes dont elle disposait, complétées, de son propre aveu, par des emprunts à mesure qu’étaient placées des avances additionnelles de même nature;
+c) les activités habituelles d’une entreprise de prêt d’argent de cette nature ne se manifestaient pas systématiquement. Il n’y avait aucune négociation des modalités financières avec les emprunteurs, aucun examen non plus des documents juridiques rendant compte des directives et du discernement des appelants, sans compter que les possibilités de consentir des prêts étaient offertes par une source unique, et, qui plus est, uniquement selon la formule « à prendre ou à laisser »;
+d) il existait une préférence générale pour ces genres de projets, mais rien ne montre que cette préférence découlait d’un véritable plan d’affaires plutôt que d’une simple sélection de ces placements dans des projets de villégiature opportunément offerts par ACI. Cet intermédiaire n’était pas un simple courtier, mais le fiduciaire à long terme chargé d’obtenir et de rassembler les fonds d’immobilisations, de contrôler les documents se rapportant à l’emprunteur et aux prêts et de réaliser la sûreté en cas de défaut. Pour rappel, ACI était l’unique intermédiaire pour les cinq prêts se rapportant aux deux projets. À ce titre, ACI faisait office de partie principale engagée dans le commerce ou l’entreprise concernée, et ce n’était pas un simple mandataire ni un simple fiduciaire facilitant le fonctionnement de l’entreprise de prêt d’argent de Susan et Barry.
+e) S’il n’y avait pas finalement eu défaillance sur les prêts, l’appelante était disposée, et a effectivement continué, à avancer des fonds à seule fin de gagner des intérêts, plutôt que de transférer les prêts en empochant un bénéfice de nature commerciale. Nonobstant leurs durées normales et habituelles d’un an, les avances devaient, de par les documents, demeurer en vigueur depuis le début des travaux d’aménagement jusqu’à réception par le propriétaire du projet d’un financement permanent postérieur à la réalisation du projet. Il est tout aussi probable que le taux d’intérêt élevé représentait le risque de l’avance et non le profit exigible d’une entreprise au titre de l’effort, de l’habileté, des connaissances et des services des appelants en tant que prêteurs d’argent particulièrement habiles ou renseignés.
+f) Barry a affirmé que le « profit » de l’entreprise doit être considéré en gardant à l’esprit qu’un petit pourcentage, 20 ou 25 % des prêts, échouerait, mais que 80 à 75 % réussirait. Selon lui, la théorie critique de ce modèle d’affaires fonctionnerait parce que le solde du principal remboursé, combiné à des intérêts élevés sur les prêts productifs, générerait un profit « de nature commerciale ». L’idée est originale, mais elle peut tout aussi aisément être assimilée à la stratégie de placement d’un retraité, utilisant à la fois ses prestations de retraite et son avoir-propre foncier pour obtenir un taux de rendement bien supérieur à la moyenne. L’existence d’un modèle d’affaires prépondérant exposé par Barry durant son témoignage en 2016 aurait été beaucoup plus convaincante si elle avait pris la forme d’une description précise d’entreprise, ou s’il s’était agi d’un plan portant sur les premières années d’opération en 2006, 2007 ou 2008, voire si l’existence d’un tel modèle était d’emblée apparue dans la bonne soixantaine de pages présentée par Susan en réponse aux questions de l’ARC en 2012 ou 2013. L’explication contenue dans la déclaration de revenu de 2012 de Barry était elle aussi avare d’éléments clairs et précis susceptibles de conduire à la conclusion qu’il existait une entreprise.
+V. Dispositif
+[55] Pour la période pertinente, un examen de la séquence des faits, considérés d’après les critères applicables, ne révèle pas, en fin de compte, un niveau systématique, délibéré et général d’activités commerciales pouvant constituer un commerce ou une entreprise, par opposition à des stratégies ou des plans d’investissement personnel d’envergure portant sur un créneau précis.
+[56] Compte tenu des faits, la Cour ne peut discerner chez les appelants une intention ou un niveau d’activité qui les aurait conduits à vendre ou à négocier ces avances ou prêts pour en tirer un bénéfice en tant qu’entreprise. Leur idée était de récupérer leur capital, dans la mesure du possible, outre des intérêts à taux élevé, en vue de gagner un revenu d’investissement à rendement élevé pour subvenir à leurs besoins. À ce titre, les faits et la conclusion dans la présente espèce doivent être distinguées de la décision Happy Valley, au paragraphe 23. Pareillement, compte tenu des rapports contradictoires et des déclarations de revenu se rapportant aux deux premières années des avances consenties, Susan ne considérait pas les avances comme une preuve de l’existence d’une entreprise, mais plutôt comme une stratégie d’investissement pouvant générer un revenu élevé. La présente affaire doit donc être distinguée des faits décrits dans la décision Langhammer, aux paragraphes 49 et 50, où l’existence des prêts dans le cadre d’une entreprise était attestée à la fois au moment de l’avance initiale et au moment de la survenance de la perte.
+[57] Finalement, aucune des décisions Singh, Langhammer et Loman ne peut être assimilée au cas dont il s’agit dans les présents appels, où les prêts étaient placés, gérés, contrôlés et administrés par un coprêteur rémunéré qui amalgamait les avances reçues d’autres « investisseurs ». En bref, dans tous ces autres précédents, il existait une relation directe, singulière, une relation débiteur-créancier, entre le contribuable et l’emprunteur. Dans le cas qui nous occupe, une telle relation directe n’apparaît pas clairement, ce qui autorise la conclusion selon laquelle les appelants ont recouru à l’intermédiaire afin que, comme « investisseurs », les choses leur soient plus simples, plus faciles et plus commodes au moment de consentir les avances.
+[58] Pour ces motifs, les appels sont rejetés, et la question de savoir à quel moment les avances sont devenues irrécouvrables est une question théorique puisque Susan et Barry n’exploitaient aucunement une entreprise de prêt d’argent.
+VI. Dépens
+[59] Des dépens sont fixés dans l’appel de Susan Meilleur, pour la somme de 1 500 $, sous réserve du droit de l’une ou l’autre des parties de présenter des observations écrites à ce sujet dans un délai de 30 jours après la date du jugement. Comme l’appel de Barry Meilleur a été interjeté selon la procédure informelle, il n’y aura pas de dépens en ce qui le concerne.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2016.
+« R. S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 25e jour de mai 2018
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2016 CCI 287
+Nos DES DOSSIERS DE LA COUR :
+2013-4787(IT)G, 2015-2214(IT)I
+INTITULÉS :
+SUSAN MEILLEUR c. SA MAJESTÉ LA REINE et
+BARRY MEILLEUR c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 6 septembre 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 19 décembre 2016
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Neil T. Mather
+Avocate de l’intimée :
+Me Margaret McCabe
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Neil T. Mather
+Cabinet :
+Neil T. Mather Professional Corporation
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

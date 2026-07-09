@@ -1,0 +1,174 @@
+Title: Marceau c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27358/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-543-27358-marceau-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-11-21
+
+# Marceau c. La Reine
+
+- Citation: 2006 CCI 543
+- Decision date: 2006-11-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 180, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marceau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-21
+Référence neutre
+2006 CCI 543
+Numéro de dossier
+2005-4475(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-4475(IT)I
+ENTRE :
+SYLVAIN MARCEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 25 septembre 2006, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Alain Gareau
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2004 est accueilli sans frais et l'affaire est déférée au ministre du Revenu national pour qu'il effectue un nouvel examen et établisse de nouvelles cotisations se fondant sur le fait que l'appelant a droit, dans le calcul de son impôt fédéral pour l'année en question, au transfert du crédit d'impôt non utilisé de 1 643 $ (10 270 $ x 16 %) pour déficience mentale ou physique grave et prolongée à l'égard de sa fille, alors âgée de 7 ans, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2006.
+« Alain Tardif »
+Juge Tardif
+Référence : 2006CCI543
+Date : 20061116
+Dossier : 2005-4475(IT)I
+ENTRE :
+SYLVAIN MARCEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel interjeté en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) relatif à un avis de nouvelle cotisation pour l'année d'imposition 2004.
+[2] La question en litige est de déterminer si l'appelant avait droit, dans le calcul de son impôt fédéral pour l'année en question, au transfert du crédit d'impôt non utilisé de 1 643 $ (10 270 $ x 16 %) pour déficience mentale ou physique grave et prolongée à l'égard de sa fille, alors âgée de 7 ans.
+[3] L'appelant demande le crédit d'impôt pour personne handicapée. La personne ayant une incapacité physique est l'enfant mineur de l'appelant. L'appelant demande le crédit d'impôt pour personne handicapée à l'égard de sa fille qui a un très grave problème d'allergies alimentaires, soit plus de 60 différentes allergies selon l'appelant et sa conjointe.
+[4] L'appelant et sa conjointe ont expliqué les nombreux problèmes que leur causait l'état de santé de leur fille. L'appelant a notamment fait état que la préparation des repas prenait plusieurs heures. Il a aussi indiqué que lui et sa conjointe devaient consacrer de très nombreuses heures pour bien encadrer la vie de leur enfant et pour lui fournir le soutien moral et psychologique dont elle avait besoin étant donné son état de santé.
+[5] Âgée de sept ans, elle était astreinte à des conditions de vie très particulières au point où elle n'avait pas ou très peu d'ami(e)s. Ses problèmes de santé l'isolaient. L'appelant et sa conjointe sont parents d'un autre enfant atteint d'une autre déficience.
+[6] Je crois qu'il n'est pas exagéré de reconnaître, à la lumière de la preuve, que les parents de cet enfant consacraient la majeure partie de leurs heures disponibles au bien-être de leurs deux enfants.
+[7] La conjointe de l'appelant a d'ailleurs indiqué qu'elle ne travaillait pas à l'extérieur; elle se consacrait presque entièrement à l'éducation et aux soins de ses enfants, le tout ayant des effets sur sa propre santé au point où elle a fait ce qu'elle a appelé des « burn outs » .
+[8] La mère a très bien décrit la gravité du problème de santé de leur jeune fille dans sa lettre du 11 juillet 2005, où elle s'exprimait comme suit : (pièce A-1)
+[...]
+Je vais tenter de vous prouver par écrit que je dois vraiment prendre énormément de temps pour faire la nourriture à ma fille...
+D'abord, je dois être très créative, alors je prends des livres de recettes spéciaux et je les regarde, les lis, je scrute les ingrédients et je pars de ça pour préparer sa nourriture. Les recettes me servent de base, car [...] est toujours allergique à 1 ou plusieurs ingrédients de la recette. Ainsi, je dois constamment inventer, ce qui me prends [sic] énormément de temps et d'énergie. Souvent même je dois inventer carrément une recette dans ma tête. Des fois, je dois jeter le tout, d'autres fois par chance ça marche.
+Par la suite, je dois m'assurer que tout est propre; ustensiles et surfaces de travail et autres. À chaque ingrédients [sic] (ex. pot de moutarde) je dois prendre un ustensile unique et propre. S'il y a un ingrédient qui touche à un autre qu'elle ne peut pas manger, je dois recommencer à zéro. (ex. dans le frigidaire, il y a plusieurs aliments auxquels [...] est allergique, mais qu'on ne peut pas enlever, car Alexandre ou nous en mangeons). Dans le frigidaire, on essaie d'être très vigilants pour ne pas qu'un ingrédient contamine la nourriture à [...]. On essaie de lui faire une place plus précisément, mais c'est difficile de ne pas toucher à autre chose. Les armoires sont étiquettées [sic] pour les aliments que ma fille peut ou ne pas manger. Je dois aussi m'assurer que tous prennent le pot de moutarde (par ex.) et ne le contamine pas avec un ustensile. De plus, je dois surveiller qu'il n'y ait pas d'éclaboussure d'un chaudron ou poêle à un autre, sinon je dois jeter la nourriture à la poubelle à cause de la contamination d'un ingrédient auquel [...] serait allergique.
+Et là, je ne parle pas de faire à manger ailleurs, car je dois apporter complètement tous les ingrédients et je dois laver chaque ustensile et bols avant de faire à manger. D'ailleurs, elle ne peut pas manger dans un restaurant quelconque, sauf si elle apporte son propre lunch, et la surface de la table et autres doivent être très propres. Elle doit s'asseoir un peu en retrait ou carrément au bout de la table. À la maison, elle a sa propre place à la table.
+Enfin, je dois constamment m'assurer que [...] ne mette pas les doigts dans sa bouche pour sa propre protection. Aussi, vérifier et demander aux gens des [sic] de se laver les mains lorsqu'ils rentrent chez nous et avant et après avoir mangé ou touché à quelque chose de dangereux pour elle (ex. cornet de crème glacée). Tout ça est dur pour le moral et ça me prends beaucoup d'énergie vous savez.
+[Omission volontaire du nom de l'enfant]
+[...]
+[9] L'enfant n'a pas témoigné; ce n'était pas nécessaire puisqu'il m'apparaît évident qu'un enfant de cet âge n'a pas la maturité lui permettant de prendre les décisions appropriées quant à ce qu'elle peut et ne peut pas manger.
+[10] Même s'il était tenu pour acquis que cette jeune fille est plus raisonnable et plus sage que les enfants de son âge, il reste qu'à 7 ans, il serait déraisonnable de croire qu'elle puisse toujours prendre toutes les bonnes décisions en ce qui concerne son alimentation.
+[11] Même adulte, il n'est pas facile de s'y retrouver dans le jargon alimentaire quel l'on trouve sur les listes d'ingrédients d'ailleurs souvent incomplètes sur l'étiquetage des produits de consommation.
+[12] Lorsqu'un enfant n'est allergique qu'à un ou deux aliments, on peut penser que l'enfant sera en mesure de surveiller son alimentation. Par contre, s'il est question d'une soixantaine d'allergies, il m'apparaît tout à fait invraisemblable qu'un enfant de 7 ans puisse se nourrir seul sans devoir compter sur l'aide essentielle et constante d'un adulte, en l'espèce ses parents.
+[13] L'intimée soutient que les personnes ayant des restrictions alimentaires sévères ne sont plus admissibles au crédit pour personnes handicapées et que l'action de se nourrir ne comprend pas les activités liées aux choix, à la recherche, à la préparation et à la cuisson des aliments.
+[14] Ce qui m'apparaît important dans ce dossier, ce n'est pas tellement le temps que sa mère doit consacrer au choix et à la préparation des aliments et des repas, mais l'impossibilité de la personne handicapée de s'en charger.
+[15] Les articles 118.3 et 118.4 de la Loi de l'impôt sur le revenu se lisent comme suit :
+(1)
+Un montant est déductible dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition, si les conditions suivantes sont réunies :
+a)
+le particulier a une déficience mentale ou physique grave et prolongée;
+a.1)
+les effets de la déficience sont tels que la capacité du particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l'absence de soins thérapeutiques qui, à la fois :
+(i) sont essentiels au maintien d'une fonction vitale du particulier,
+(ii) doivent être administrés au moins trois fois par semaine pendant une durée totale moyenne d'au moins 14 heures par semaine,
+(iii) selon ce à quoi il est raisonnable de s'attendre, n'ont pas d'effet bénéfique sur des personnes n'ayant pas une telle déficience;
+a.2)
+l'une des personnes suivantes atteste, sur le formulaire prescrit, qu'il s'agit d'une déficience mentale ou physique grave prolongée dont les effets sont tels que la capacité du particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l'absence des soins thérapeutiques mentionnés à l'alinéa a.1) :
+i) un médecin en titre,
+(i.1) s'il s'agit d'un trouble de la parole, un médecin en titre ou un orthophoniste,
+(ii) s'il s'agit d'une déficience visuelle, un médecin en titre ou un optométriste,
+(iii) s'il s'agit d'une déficience auditive, un médecin en titre ou un audiologiste;
+(iv) s'il s'agit d'une déficience quant à la capacité de marcher de s'alimenter ou de s'habiller, un médecin en titre ou un ergothérapeute,
+(v) s'il s'agit d'une déficience sur le plan de la perception, de la réflexion et de la mémoire, un médecin en titre ou un psychologue;
+b)
+le particulier présente au ministre l'attestation visée à l'alinéa a.2) pour une année d'imposition;
+c)
+aucun montant représentant soit une rémunération versée à un préposé aux soins du particulier, soit des frais de séjour du particulier dans une maison de santé ou de repos, n'est inclus par le particulier ou par une autre personne dans le calcul d'une déduction en application de l'article 118.2 pour l'année (autrement que par application de l'alinéa 118.2(2)b.1).
+[...]
+118.4(1) Pour l'application du paragraphe 6(16), des articles 118.2 et 118.3 et du présent paragraphe :
+a)
+une déficience est prolongée si elle dure au moins 12 mois d'affilée ou s'il est raisonnable de s'attendre à ce qu'elle dure au moins 12 mois d'affilée;
+b)
+la capacité d'un particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement si, même avec des soins thérapeutiques et l'aide des appareils et des médicaments indiqués, il est toujours ou presque toujours aveugle ou incapable d'accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif;
+c)
+sont des activités courantes de la vie quotidienne pour un particulier;
+(i)
+la perception, la réflexion et la mémoire,
+(ii)
+le fait de s'alimenter ou de s'habiller,
+(iii)
+le fait de parler de façon à se faire comprendre, dans un endroit calme, par une personne de sa connaissance,
+(iv)
+le fait d'entendre de façon à comprendre, dans un endroit calme, une personne de sa connaissance,
+(v)
+les fonctions d'évacuation intestinale ou vésicale,
+(vi)
+le fait de marcher,
+d)
+il est entendu qu'aucune autre activité, y compris le travail, les travaux ménagers et les activités sociales ou récréatives, n'est considérée comme une activité courante de la vie quotidienne.
+[16] Les décisions en cette matière sont très nombreuses. J'ai accordé une attention particulière à la décision de la juge Lamarre Proux dans l'affaire Nantel c. R., [2000] C.C.I. no 345, où elle a fait référence à un passage de la décision de la Cour d'appel fédérale dans l'arrêt Johnston c. R., [1998] 2 C.T.C. 262 (C.A.F.), aux paragraphes 17, 18, 21, 32 et 33 où il était question de cette notion :
+[17] Il a déjà été défini que l'expression « limitée de façon marquée » renvoyait à l'incapacité d'une personne, en tout temps ou presque, même avec des soins thérapeutiques et l'aide des appareils et des médicaments indiqués, d'accomplir une activité courante de la vie quotidienne. En outre, on considère que la capacité d'une personne est limitée de façon marquée si cette dernière doit consacrer un temps excessif pour accomplir une telle activité.
+[18] On n'a pas défini ce qui constitue un temps excessif pour accomplir les activités courantes de la vie quotidienne. À mon avis, l'expression « temps excessif » renvoie à un temps beaucoup plus long que celui que doivent normalement consacrer à ces activités des personnes en santé. Il implique une différence marquée d'avec ce que l'on considère normal.
+[...]
+[31] L'avocate de l'intimée nous a présenté un point de vue auquel le juge de la Cour de l'impôt a souscrit selon lequel la notion de « s'alimenter » renvoyait à la capacité d'une personne de prendre des aliments d'une assiette et de les porter à sa bouche. Je suis fortement en désaccord. Il ne fait aucun doute qu'un enfant de deux ans peut prendre des aliments d'une assiette et les porter à sa bouche, mais il ne fait aucun doute non plus que personne n'affirmerait que cet enfant est capable de s'alimenter. Je souscris à l'opinion exprimée par le juge Bonner dans la décision M.R. Hodgin v. The Queen, [1995] T.C.J. No. 1183, ([1995] E.T.C. 515) :
+[TRADUCTION]
+J'aborde maintenant le fait de s'alimenter. Cela signifie, à mon avis, davantage que le simple fait de prendre un repas apprêté par une autre personne. On ne peut pas dire que la personne est capable de s'alimenter si elle ne peut se servir d'ingrédients de base, tels ceux que l'on trouve habituellement dans une épicerie, pour faire la cuisine ou autrement apprêter un repas. Pour satisfaire au critère, la personne doit pouvoir s'alimenter et non seulement prendre un repas. La loi est claire à cet égard. La capacité requise de s'alimenter comprend la capacité d'apprêter un nombre raisonnable de repas variés, et non seulement celle de préparer des collations, des friandises ou des plats congelés. En l'espèce, l'appelante, en raison des difficultés qu'elle éprouvait à se servir de ses mains, avait tellement besoin de l'aide de son époux pour apprêter les repas que l'on pouvait conclure, à bon droit, qu'elle était incapable de s'alimenter. [Non souligné dans l'original.]
+[32] La notion de s'alimenter implique également, à mon avis, la capacité d'apprêter un repas conforme à un régime alimentaire imposé à des fins médicales, régime qui, de concert avec des médicaments, vise à maintenir l'état de santé d'une personne ou, du moins, à en empêcher la détérioration.
+[33] En limitant la notion de s'alimenter à la capacité de prendre un repas, on néglige le fait que la Loi a pour objectif, faut-il le répéter, d'apporter une aide financière aux personnes qui, parce qu'elles sont atteintes d'une déficience, ont besoin de cette aide pour accomplir une activité courante de la vie quotidienne comme celle-là. Le fait d'inclure la préparation d'un repas acceptable dans la notion de s'alimenter est, au contraire, entièrement compatible avec un tel objectif et l'esprit dans lequel le législateur a établi le crédit pour déficience
+[17] Pour sa part, la juge Lamarre Proulx écrivait ce qui suit aux paragraphes 16, 17 et 18 de sa décision :
+16 Selon cette décision la capacité d'une personne est limitée de façon marquée si cette dernière doit consacrer un temps excessif pour accomplir une activité essentielle de la vie. La notion de temps excessif renvoie à un temps beaucoup plus long que la norme. La notion de s'alimenter implique la capacité d'apprêter un repas conforme au régime alimentaire exigé par l'état de la personne. La préparation du repas est comprise dans l'activité de se nourrir.
+17 On ne doit pas relativement à l'activité de se nourrir ne voir que le fait de porter la nourriture à sa bouche mais on doit aussi considérer la recherche et la préparation des aliments. Si cette recherche et préparation doivent être faites par une personne autre que la personne souffrant de la déficience, le temps de cette personne doit être pris en compte dans l'évaluation du temps excessif pris pour accomplir une activité essentielle de la vie. En ce qui concerne l'allergie coeliaque, je n'avais pas trouvé qu'une personne devait y consacrer un temps tellement plus grand que les personnes normales mais dans ce cas-ci, je considère que le temps consacré à la recherche des aliments et à la préparation de la nourriture dépasse nettement ce qui est normalement consacré par les personnes normales.
+18 Il n'est pas possible de ne pas considérer, les allergies alimentaires de nature rare dont souffrent les filles de l'appelant, une déficience grave et prolongée et que pour la surmonter et demeurer autonome il faille y consacrer un temps nettement hors de l'ordinaire. La description qui a été faite par madame Gareau démontre qu'elle doit consacrer présentement un temps excessif dans la préparation de l'alimentation requise par ses filles par rapport à ce qui est la norme. Ses filles aussi. Si dans le futur ces difficultés s'estompent grâce aux découvertes médicales souhaitables, tant mieux. Mais dans la situation actuelle de ce que ces personnes doivent faire à l'égard de leur alimentation, il n'y a pas de doute qu'elles doivent consacrer un temps hors norme pour la recherche et la préparation de leur alimentation.
+[18] Bien que les conditions prévues par la Loi soient précises et, surtout très contraignantes, je conclus qu'il s'agissait d'une déficience physique grave qui limitait l'enfant de façon marquée, continue et prolongée dans ses activités courantes de la vie quotidienne en 2004.
+[19] Une fois que l'enfant aura la maturité, la sagesse et surtout une raisonnable capacité de dire non pour s'auto discipliner et se nourrir elle-même en respectant les innombrables contraintes alimentaires, il pourra en être autrement quant au crédit dont le présent litige fait l'objet.
+[20] Pour toutes ces raisons, j'accueille l'appel.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2006.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2006CCI543
+No DU DOSSIER DE LA COUR :
+2005-4475(IT)I
+INTITULÉ DE LA CAUSE :
+Sylvain Marceau c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 25 septembre 2006
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 16 novembre 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Alain Gareau
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

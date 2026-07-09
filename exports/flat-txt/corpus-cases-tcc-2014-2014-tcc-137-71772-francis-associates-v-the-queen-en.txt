@@ -1,0 +1,266 @@
+Title: Francis & Associates v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/71772/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-137-71772-francis-associates-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-05-09
+
+# Francis & Associates v. The Queen
+
+- Citation: 2014 TCC 137
+- Decision date: 2014-05-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5370, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Francis & Associates v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-05-09
+Neutral citation
+2014 TCC 137
+File numbers
+2012-2058(GST)I, 2012-2061(IT)I, 2012-2062(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-2058(GST)I
+BETWEEN:
+FRANCIS & ASSOCIATES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-2061(IT)I
+AND BETWEEN:
+J. PAUL FRANCIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-2062(IT)I
+AND BETWEEN:
+MARIE L. FRANCIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+First day of hearing commenced on September 11th, 2013;
+Continuation of hearing held on December 9, 2013, at Ottawa, Ontario;
+Completed written submissions of counsel received February 13, 2014.
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Rod A. Vanier
+Counsel for the Respondent:
+Christopher Kitchen
+JUDGMENT
+1. The Appeals in respect of the Income Tax Act (court file number 2012-2061(IT)I and court file number 2012-2062(IT)I) are allowed on the basis that:
+a. J. Paul Francis is entitled to additional expenses deductible from professional income of $49,700.40, $15,406.20 and $31,764.60 for each of the taxation years 2002, 2003 and 2004, respectively;
+b. Marie L. Francis is entitled to an additional expenses deductible from professional income of $33,133.60, $10,270.80 and $21,176.40 for each of the taxation years 2002, 2003 and 2004, respectively; and,
+c. the appeals mentioned in this paragraph 1 are referred back to the Minister of National Revenue for reconsideration and reassessment.
+2. The appeal of Francis and Associates court file number 2012-2058(GST)I is dismissed; and,
+3. The Appellants, J. Paul Francis and Marie L. Francis, are awarded costs in accordance with the Tariff applicable for their appeals brought under the Tax Court of Canada Rules (Informal Procedure).
+Signed at Ottawa, Ontario, this 9th day May of 2014.
+“R.S. Bocock”
+Bocock J.
+Citation:2014 TCC 137
+Date:20140509
+Docket: 2012-2058(GST)I
+BETWEEN:
+FRANCIS & ASSOCIATES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-2061(IT)I
+AND BETWEEN:
+J. PAUL FRANCIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-2062(IT)I
+AND BETWEEN:
+MARIE L. FRANCIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+I. Introduction and Background [1] These appeals are brought in respect of disallowed expenses for Paul Francis and Marie Francis (the “Appellants”) relating to the 2002, 2003, and 2004 taxation years (the “Relevant Period”). The hearing consisted of three appeals heard together on common evidence: the first two are appeals of disallowed expenses under the Income Tax Act (the “Act”); and the third is an appeal of concordantly disallowed input tax credits (“ITCs”) claimed under the Excise Tax Act (the “ETA”) during the Relevant Period.
+[2] The Appellants are partners in the law firm, Francis and Associates (the “Partnership”). Mr. Francis’ interest in the Partnership is 60%. Mrs. Francis’ interest in the Partnership is 40%.
+[3] Specifically, the Minister disallowed deductions which the Appellants contend relate to:
+a. the annual allocation of bad debt expense on account of uncollectible accounts receivable (the “Bad Debt Allocations”),
+b. an initial internal accounting error resulting in the non-recovery of otherwise billable, but unbilled amounts (the “Stranded Disbursements”) expended for the purposes of procuring ancillary services on behalf of clients in respect of which a business expense deduction is now sought; and,
+c. certain advertisement and promotional expenses (“Promotional Expenses”).
+[4] These above-noted disputed expenses forming this appeal are calculated as follows:
+Bad Debt Allocations
+2002
+2003
+2004
+Minister’s Allocation in reassessment
+$44,604
+$36,541
+$19,142
+Appellants’ Allocations
+in appeals
+$18,929
+$77,641
+$3,889
+(This is no material dispute regarding the aggregate of the bad debt expense, but merely the re-allocations among each year within the Relevant Period.)
+Stranded Disbursements
+2002
+2003
+2004
+Total Disallowed
+$82,834
+$25,677
+$52,941
+Promotional Expenses
+2002
+2003
+2004
+Total Disallowed
+$6,000
+$5,901
+$6,000
+Re: s.67.1 50% rule
+$3,000
+$2,901
+$3,000
+Cash Expenditures
+$3,000
+$3,000
+$3,000
+[5] The Minister also denied the Partnership’s input tax credits under the ETA in the amount of $10,194 for the Relevant Period (the “Disallowed ITCs”).
+[6] For the Relevant Period, the tax returns (the “Original Returns”) for both the Partnership and the Appellants were prepared by Karl Von Bloedau. Mr. Von Bloedau was allegedly the Partnership’s accountant/bookkeeper (Mr. Von Bloedau denied this to CRA and did not testify at the hearing). His alleged duties included overseeing the Partnership’s day-to-day accounting and management of accounting staff. He is related to the Appellants, but now estranged. Mr. Von Bloedau’s employment was terminated prior to the audit described below.
+[7] During the Relevant Period, Mr. Francis co-supervised the Partnership’s accounting staff. He co-chaired the Partnership’s budget meeting. He reviewed the Partnership’s finances monthly. Mr. Francis testified that he held monthly meetings to review the Partnership’s trust account and accounts receivables. If an account receivable was not collected an increasingly aggressive letter campaign ensued and, at 6 months, Mr. Francis would decide whether to pursue the debt. If he decided not to pursue the account receivable, then normally such amount was irrevocably written off as bad debt.
+[8] In August of 2005, the CRA commenced an audit of the Partnership. After the audit, the Appellants employed the services of a firm of Chartered Accountants, and specifically Mr. K.E. Koshy, in the late summer of 2005. During his review of the Partnership’s books and records, it is asserted that Mr. Koshy discovered two substantial errors that had allegedly been overlooked or committed by Mr. Von Bloedau: certain uncollectible account receivables were never appropriately deducted as bad debts and amounts expended on behalf of clients had languished unbilled in certain disbursement clearing accounts.
+[9] In 2007, the Appellants filed revised tax returns prepared by Mr. Koshy in respect of the Relevant Period (the “Revised Returns”). The Minister reassessed the Appellants’ Revised Returns and increased the Partnership’s income by well over $500,000. The Appellants objected to that reassessment and the Minister ultimately varied the reassessments in February of 2012, disallowing the deductions outlined above, which are the subject of these appeals. It is agreed that the first two taxation years were reassessed beyond the normal reassessment period.
+II. Some Additional Observations and Facts
+[10] At the two days of hearing, there were 3 witnesses for the Appellant: Mr. Francis; Mr. Matthew Atkinson, an accounting employee of the Partnership and Mr. Koshy, CA, the Appellants’ accountant.
+[11] Mr. Denis Delores, a CRA GST litigation officer and Ms. Cathy Narvasa, the CRA auditor in respect of the Relevant Period were called as witnesses by the Respondent.
+[12] The history of relations between the Appellants (and their advisors) and the CRA auditor and appeal officers has been contentious. Testimony also reflected these less than cooperative dealings. In written submissions, the Appellants complained that the CRA’s audit, first resulting in a revenue/expense income analysis and reassessment, was erroneous, overstated and failed to detect the Appellants’ own errors in the Original Returns. It is longstanding and settled law that the method or conduct of the CRA, by which the ultimate re-assessment is concluded, is not relevant before this Court. It is whether the ultimate reassessment and underlying assumptions used are valid, relevant and correct. Moreover in this case, the Appellants must accept some responsibility for CRA’s initial assessing overstatement in light of the original state of their own records and the Original Returns. Finally, CRA bears no responsibility for failing to undercover the Appellants’ own hidden errors in the Original Returns, source records or other information submitted to the CRA. Additionally, what became clear before the Court was the frequency with which both parties spoke at cross purposes and utilized vague terminology when trying to distinguish between the Bad Debt Allocations and the Stranded Disbursements. This mutual communication disconnect will become apparent in the body of these reasons.
+[13] The Appellant’s evidence in support of the Bad Debt Allocations request may best be summarized as follows (utilizing the Court’s consistency of terminology not entirely present during testimony or submissions):
+a) accounts receivable listings produced in 2005 revealed uncollectible accounts rendered in 2002, 2003 and 2004;
+b) Mr. Francis’s direct testimony that he would, normally, at the end of each fiscal year assess client account receivables in order to determine whether same were uncollectible;
+c) testimony of Mr. Francis and Mr. Koshy that none of the re-allocated bad debts were previously written off or double counted by an entry into an unreconciled allowance for doubtful accounts; and,
+d) Mr. Koshy’s testimony that certain professional fees comprising the Bad Debt Allocations were originally billed to clients, but were never expensed as an allowance for doubtful accounts and instead were directly allocated to bad debt expense in the Revised Returns.
+[14] Critical evidence in support of the Stranded Disbursements was a form of continuity schedule prepared and attested to by Mr. Koshy. Such information was also pleaded in the Notice of Appeal. The continuity schedule and testimony analyzed the annual discrepancy between recorded current account receivables and the 3 annual cumulative totals of unbilled disbursement accounts which allegedly remained unbilled or unexpensed. Evidence for this unbilled status was the very discrepancy between the growing cumulative unbilled disbursements and the recorded accounts receivable from the general ledger on one hand and the aggregate current assets on the balance sheet on the other. This discrepancy was consistent in terms of its growth and correlation. The source amounts were taken from the various ledger accounts as reproduced on the year end trial balance sheet of the Partnership. According to Mr. Koshy, by calculating the continuity of the difference between billed receivables and the inadvertently unbilled or un-expensed outlays on behalf of clients, a sum could be ascertained which represents unposted expenses incurred by the Partnership in its earning of Professional fees.
+[15] The bulk of the testimony for the Appellants regarding the GST appeal suggested that amounts relating to the ITCs were incurred when tendered to procure the services comprising the disbursements (Stranded Disbursements) or charged to clients when billed for professional fees (the Bad Debt Allocations). It was asserted that an ITC should be allowed since GST was paid on such services, in the case of the Stranded Disbursements, or charged to clients and remitted to the Respondent in the original instance, but never recouped from clients in the case of the Bad Debt Allocations.
+III. Analysis and Decision
+a) Reassessment of years beyond the normal period.
+[16] The Respondent asserts an entitlement to reassess the 2002 and 2003 taxation years beyond the normal reassessment period because the Appellants made misrepresentations attributable to carelessness, neglect, wilful default in filing the Original Returns.
+[17] The Appellants submit that any errors in their Original Returns, while material, were honest and generally contrary to this Appellants’ best interests and were committed by the Appellants’ professional advisors. It was submitted that subsection 152(4) does not apply to such types of errors and, therefore, the 2002 and 2003 taxation years are statute barred.
+[18] Paragraph 152(4)(a) permits the Minister to assess a taxpayer “at any time” after that taxpayer's normal reassessment period if that person made a misrepresentation attributable to carelessness, neglect or wilful default, or committed fraud. Fraud is not alleged here. Two elements are required to afford the Minister’s application of subparagraph 152(4)(a)(i): (1) a misrepresentation; that is (2) attributable to neglect, carelessness or wilful default. The Minister bears the onus of establishing both on a balance of probabilities basis.
+[19] In Nesbitt v. R., [1996] D.T.C. 6588, the Federal Court of Appeal held at page 6589 paragraph 4, that a misrepresentation is determined at the time of filing a return:
+[…] Whether or not there is misrepresentation through neglect or carelessness in the completion of a return is determinable at the time the return is filed. A misrepresentation has occurred if there is an incorrect statement on the return form, at least one that is material to the purposes of the return and to any future reassessment. [...]
+[20] A misrepresentation is any statement that is “incorrect.”: MNR v. Foot, [1964] C.T.C. 317(SCC). Also, several cases have indicated that “any” error made in a return filed is tantamount to a misrepresentation, MNR v. Taylor, [1961] C.T.C. 211 (Exch)., Nesbitt v. The Queen, 1996 (FCA) and Ridge Run Developments Inc. v. R, [2007] 3 C.T.C. 2605 (TCC). Therefore, the threshold to establish a misrepresentation is low. The Minister has satisfied that element in demonstrating that the Appellants filed the Original Returns, discovered errors, and filed the Revised Return. Obviously, the Original Returns had errors, evidenced by the later revisions initiated by the Appellant.
+[21] The more pressing question is whether there was misrepresentation attributable to carelessness, neglect or wilful default. The Minister only needs to establish the minimum standard of failure to exercise reasonable care: Venne v. R., 1984 CarswellNat 210, [1984] C.T.C. 223 at paragraph 16, which case differentiates the burden under subsection 152(4) from the higher standard required under the penalty provisions of subsection 163(2).
+[22] In Regina Shoppers Mall Ltd. v. R., [1991] 1 C.T.C. 29, the Federal Court of Appeal quoted approvingly the formulation of the standard of care required of the reasonable taxpayer at paragraph 7:
+[…] It has also been established that the care exercised must be that of a wise and prudent person and that the report must be made in a manner that the taxpayer truly believes to be correct. […]
+[23] In tax law, as in tort law, the reasonable person is prudent, not perfect. Justice Muldoon stated in Reilly v. R., [1984] C.T.C. 21 at paragraph 51:
+So, when it is now said that the standard of care is that of a wise and prudent person, it must be understood that wisdom is not infallibility and prudence is not perfection.
+[24] In the present case, the Appellants attributed the errors in the Original Returns to their bookkeeper, Mr. Von Bloedau. As Justice Bowman (as he then was) of this Court held in Snowball v. R., [1996] 2 C.T.C. 25, reliance on a negligent accountant, or in this case, a bookkeeper, is no defence to the claim of neglect or carelessness. The taxpayer is vicariously negligent, careless or in wilful default through the actions of his agent in the preparation and submission of tax returns.
+[25] Even aside from the appropriation of the conduct of an agent to a taxpayer, the Appellants’ conduct was not consistent with that of a wise and prudent law partner. Mr. Francis had many years experience operating the Partnership. He co-chaired the Partnership’s monthly budget meeting. He supervised internal accounting staff. In doing so, he failed to ensure that the amounts reported by the Partnership were correct through carelessness, neglect or wilful default, whether or not he initially committed the errors. Therefore, the Minister has satisfied the burden and may reassess outside the normal period.
+b) Entitlement to deduct the Bad Debt Allocations and Stranded Disbursements?
+i) Bad Debt Allocations
+[26] As referenced above, the Respondent and Appellants differ greatly on their characterization of these two expense items. The Respondent asserts that the accounts receivable comprising the Bad Debt Allocations could not have been ascertainable as uncollectible in the taxation year in which they were deducted and therefore, they are not bad debts. As well, the Respondent asserts that the Appellants failed to include the Stranded Disbursements in income in the first instance. Therefore, neither the Bad Debt Allocations nor the Stranded Disbursements meet the requirements of paragraph 20(1)(p) of the Act and, therefore, are not deductible as bed debts.
+[27] As for the Bad Debt Allocations, the Appellants submit that the amounts were validly deducted in accordance with paragraph 20(1)(p). Mr. Francis reviewed the accounts receivable and determined them to be uncollectible. As referenced above, the issue of the Stranded Disbursements is characterized entirely differently by the Appellants and will be dealt with separately under (ii) below.
+[28] The Appellants submitted that paragraph 20(1)(p) provides for the deduction of losses incurred through uncollected accounts receivable, arising in the ordinary course of business. Paragraph 20(1)(p) must be read together with paragraph 20(1)(l) which relates to the deduction of a reserve for doubtful accounts. The reserve is a possibly tentative one, applicable when collection is uncertain, and a taxpayer adds the reserve back into income in the following year to the extent any portion is collected. Moreover, if the debt is irrevocably uncollectible in a single year, no interim allowance for doubtful account expense is required and same may otherwise directly qualify as a bad debt, in final year end adjustments.
+[29] The relevant portions of paragraph 20(1)(l) and 20(1)(p) read as follows.
+(1) Deductions permitted in computing income from business or property -- Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts […]:
+(l) Doubtful or impaired debts - a reserve determined as the total of
+(i) a reasonable amount in respect of doubtful debts (other than a debt to which subparagraph 20(1)(l)(ii) applies) that have been included in computing the taxpayer’s income for the year or a preceding taxation year, and […]
+(p) bad debts -- the total of
+(i) all debts owing to the taxpayer that are established by the taxpayer to have become bad debts in the year and that have been included in computing the taxpayer's income for the year or a preceding taxation year, and […]
+[30] The Respondent’s position is that the Appellants did not establish factually that the Bad Debt Allocations, and as submitted by the Respondent the Stranded Disbursements, had become uncollectible in the taxation year of the claimed deduction. Furthermore, those amounts were not included in income for the years in which the deduction was claimed.
+[31] The Respondent’s conflation of the Bad Debt Allocations with the Stranded Disbursements is incorrect; the position taken is correct with respect to the Bad Debt Allocations which, as stated above, is only an allocation issue as among and within the Relevant Period. A taxpayer must take steps to establish that the debt is bad in the taxation year in which the bad debt deduction is claimed. In Clackett v. R., [2008] 2 C.T.C. 2215, Justice McCarthur held at paragraph 6:
+The onus is on the taxpayer to establish, on the balance of probabilities, before he can deduct a debt, that it became bad in the taxation year (1997); and that it was included in computing his income for the year in question or a previous year. The Appellant has fallen far short of establishing either one of these requirements. He did not establish a bad debt in 1997, nor did he include it in income in a previous year or any year.
+[32] By Mr. Francis’ own testimony, the Partnership did not retain Mr. Koshy until 2005. The Appellants only then became aware of the Bad Debt and Unbilled Disbursements. The Bad Debt Allocations were calculated by reviewing the accounts receivables list and reallocating among the Relevant Period. This occurred sometime after August of 2005. The list of receivables by client provided to the CRA and produced at the hearing was dated as of Aug 15, 2007.
+[33] Therefore, the Bad Debt Allocations could not have been “established by the taxpayer to have become bad debts in the year” of deduction as the Act requires. The Appellants’ Bad Debt Allocations relates to the 2002 through 2004 taxation years. This mis-match of the creation of the accounts receivable and the much delayed application of the decision regarding their related uncollectible status and re-allocation, if permitted, would represent retroactive tax planning. This is precluded under the authorities. Where a positive act is required to be timely, it cannot be lately applied to alter tax liability in the absence of demonstrable error: Irmen v. Her Majesty the Queen, 2006 TCC 475, at paragraph 9.
+[34] The Appellants are not entitled to the Bad Debt Allocations because prima facie no determination of the uncollectible nature or any adjustment to the allocation of same was possible until late in 2005 well beyond the Relevant Priod. The assumption of the Minister in relation to the Relevant Period remains relevant and the Appellants’ appeals fail on this point.
+ii) Stranded Disbursements
+[35] The Stranded Disbursements must be understood as a different sub-issue in these Appeals. Considerable contrary testimony was delivered at trial by Mr. Koshy and the CRA auditor, Ms. Narvasa, regarding the evidence and characterization of the Stranded Disbursements. Some analysis of the source and genesis of this confusion is required.
+[36] The Notices of Appeal and the testimony of Mr. Koshy confused certain accounting terms, but collectively ultimately isolated for the Court that;
+a. the Partnership had three ledger accounts in its PC Law accounting system: Client Disbursements-Recoverable (#1210), Disbursement Clearing (#2005) and Clearing – Disbursement (#2006) (the “Disbursement Clearing Accounts”);
+b. although intended to be billed to clients, this never happened with the sums contained in the Disbursement Clearing Accounts;
+c. although not billed, the amounts accrued in the Disbursement Clearing Accounts nonetheless represent a cost of business for the purposes of generating professional fees; and,
+d. these amounts in the Disbursement Clearing Accounts are “assets … (which) … should be written off as expenses” (underlining is added to illustrate Mr. Koshy’s confusion).
+[37] During testimony, the CRA auditor demonstrated she was confused by this regular use of the term “the writing off of assets”. The auditor and appeals officer’s primary reason for rejecting the “write off” of the Stranded Disbursements was that the amounts, although initially intended to be, never became accounts receivable in order to be deemed uncollectible and thereafter established as an allowance for doubtful accounts (paragraph 20(1)(l)) or as a bad debt (paragraph 20(1)(p). The Respondent’s misunderstanding on this point, admittedly aided by Mr. Koshy’s description, permeated the original audit report in 2007, the Report on Objection in 2011, the Reply and Respondent Counsel’s written submissions, (the latter itself evidenced by Appellant Counsel’s own identification in reply submissions that the Respondent in closing submissions failed to address this separate “expense” argument of the appeals).
+[38] For that matter, Mr. Koshy’s testimony at the hearing would frequently reference the Partnership’s desire and entitlement to “write off” the Stranded Disbursements. Apart from the confusion over the terminology, the question remains: Is there sufficient evidence of the existence of the Stranded Disbursements for the Court to accept same as an expense deduction (i.e. an outlay made for the purpose of gaining Partnership income)?
+[39] Mr. Francis and Mr. Atkinson testified and confirmed that well established practice of law firms to outlay sums by way of cheque or petty cash to purchase services from title searchers, filing clerks, the sheriff’s office, court registries, courier services, post offices and the like for the purposes of completing the Partnership’s legal services. By contrast, other businesses, after utilizing moneys to procure such services would complete a double entry against both the bank ledger account and a general or specific expense ledger account. In accounting, this would result in a reduction in bank cash, but an addition to the expense (an addition to an expense is a deduction from income). The second step would be reflected on the income statement, by reducing net income.
+[40] However, as with most law firms and some other professional service providers, certain costs for procuring services may be billed directly to and recovered from clients separate from and in addition to, legal fees; the challenge is that double entry bookkeeping requires an offsetting entry each time a cash outlay is made, even if prior to billing. In the present case, an asset account (one of the Disbursement Clearing Accounts) served that purpose by creating an interim repository to ensure the general ledger balanced until the account receivable was created. It also allows month end to be closed prior to allocating the disbursement to a specific client for billing since that act should, in time, logically match the generation of the account receivable. Both witnesses state, this allocation to clients never happened. This failure to allocate and bill and thereby convert the assets in the Disbursement Clearing Accounts to revenue (Partnership accounts receivable) gave rise to the creation of isolated assets on the balance sheet, namely, the Stranded Disbursements.
+[41] Had the Partnership not intended to “bill” the disbursements, such outlays represented an expense of doing business. The CRA auditor, Ms. Narvasa, said so when she admitted that the Stranded Disbursements (the Respondent calls them the “GL Errors”) were never disallowed on the basis of whether they qualified as an expense, but were rejected on the basis they could not meet the paragraph 20(1)(p) test as a bad debt: the “never billed” argument.
+[42] The Partnership had two options: to bill the disbursements and recover same or expense same and deduct from aggregate professional fees. Undertaking the first option required extra steps and determinations to be made on a timely basis in order to be deductible as an expense under paragraph 20(1)(l) or 20(1)(p). Aside from the first option, provided there is sufficient evidence of such expenses, the deduction of the expense requires no further discretionary or time sensitive act, short of amending the income statement and tax returns such as was done in the Revised Returns.
+[43] The presentation by the Appellants’ witnesses at the hearing of the trial balance sheet, the Stranded Disbursements continuity schedule and the accounting analysis testimony (if a bit muddled), required the Respondent to adduce some evidence or advance an argument in reply to challenge these prima facie facts established by such direct, documentary and explanatory evidence. The Appellants established that the Respondent never considered the deductibility of the Stranded Disbursements when disallowing the expense; it became clear at the hearing that the Respondent’s assumption in disallowing the Stranded Disbursements related to the inability of such amounts to qualify as bad debts.
+[44] The testimony regarding the Partnership’s accounting system and practices, the composition, analysis and nature of the Stranded Disbursements and the logical reasons why these were otherwise deductible business expenses (not previously deducted), satisfy the Court that such expenses existed and that deductions are permitted in accordance with 18(1)(a) of the Act, which provides:
+In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+General limitation
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+[45] In short, because the Partnership had the option of deducting the expenses, the Minister’s assumption regarding the extra step (applicable to accounts receivable) does not apply where the Partnership merely elects to absorb the “outlays” as non-recoverable costs and deduct same from aggregate professional income. When doing so, no timely determination of uncollectible status is required since such expenses never existed as accounts receivable. Such outlays were simply not deducted through error or omission. Factually, based upon the evidence, the Court accepts that such outlays were incurred for the purpose of gaining professional income and were not otherwise previously deducted as an expense or billed as revenue and written off. Therefore, an expense deduction from professional fees should be allowed to the extent of the Stranded Disbursements.
+c) Entitlement to deduct the Promotional Expenses.
+[46] As to the Promotional Expenses, the Respondent submits that the Partnership did not incur the estimated $3000 in cash expenditures for each taxation year in dispute (the “Cash Expenditures”). Further, where the Appellants incurred certain of the Promotional Expenses, these were on account of either food or entertainment and, thus, the Appellants are only entitled to a 50% deduction of those expenses incurred. As well, the Appellants did not hold any special events (the “Special Events”) in accordance with paragraph 67.1(2)(f) of the Act. Mr. Francis estimated he spent $6000 per year on the staff events listed above. He budgeted $600 per staff member, of which there are usually ten.
+i) Cash Expenditures
+[47] As to the Cash Expenditures, the Appellants offered no receipts or supporting documentation evidencing they actually incurred the expenses. It is trite law that a taxpayer has the onus of proving unvouchered expenses. In Muller's Meats Ltd. v. M.N.R., 69 DTC 172), Board Member Davis writes at paragraph 24:
+[…] it is well-settled law that, if a taxpayer fails to support with appropriate receipts his claims with regard to the deduction of specific items of expense, he has no one but himself to blame if the Minister of National Revenue declines to permit him to deduct such items from his income. In the Holmes case (supra), I had occasion to deal with this question at some length, and I referred to the Exchequer Court judgment of Cameron, J., in Murray v. Minister of National Revenue, (1950) Ex. C.R. 110 at 112 [50 DTC 723 at 725], where the learned judge held that there is an onus on a taxpayer to come forward with acceptable evidence to show that he did so expend the sums which he claims as deductions.
+[48] In the more recent example of 1345805 Ontario Ltd. v. R., [2005] 5 C.T.C. 2334 at paragraph 15, Justice Bonner held “there is a very heavy burden on a business proprietor, who seeks income tax deductions for expenses said to have been paid in cash, particularly where the nature of the payment is such that the payee would be obliged to include the payment in the computation of his income.”
+[49] The Appellants have not discharged this burden of proving they incurred the Cash Expenditures. No receipts, bank statements, or testimony from persons alleged to have received those amounts were offered at the hearing. The Appellants have not demolished the Minister’s assumption that they did not incur the Cash Expenditures and their appeals in that regard must fail.
+ii) Special Events
+[50] The Appellants submit that, in each year, $6000 of their promotional expenses were subject to paragraph 67.1(2)(f), which provides for a “special event” exception to the application of the 50% rule in subsection 67.1(1). The Appellants claim they held several Special Events to which all their staff was invited. Specifically, Mr. Francis provided direct, but self-serving testimony that these Special Events included:
+a. A lobster night fundraiser for the local Kiwanis Club, of which the Appellants are members where staff were invited and the Partnership purchased their ticket at a cost of roughly $45-50 per person. Around 125 people attended the event (staff included);
+b. An annual garden party where roughly 125 people (staff included) were invited; Mr. Francis testified this was an important event for clients to meet his staff; and,
+c. An annual Christmas party and a Secretaries Day event.
+[51] The “special events” exception to the deeming rule in 67.1(1) reads as follows:
+(2) Exceptions – Subsection (1) does not apply to an amount paid or payable by a person in respect of the consumption of food or beverages or the enjoyment of entertainment where the amount […]
+(f) is in respect of one of six or fewer special events held in a calendar year at which the food, beverages or entertainment is generally available to all individuals employed by the person at a particular place of business of the person and consumed or enjoyed by those individuals.
+[52] The Appellants have failed to demolish the Minister’s assumption that these promotional expenses were generally taken in respect of meals and entertainment for clients, and not specifically and exclusively expended on Special Events for staff. For that reason, the Special Events expenditures are not deductible in full pursuant to paragraph 67.1(2)(f), but merely as to the fifty per cent allowed by the Minister.
+IV. Disallowed ITCs
+[53] As a consequence of the findings relating to the appeals under the Act, the appeals for Disallowed ITCs under the ETA should be dismissed in the first instance since a goodly portion are ITCs claimed in relation to the deductions otherwise disallowed by the Minister and in respect of which the appeals are dismissed by this Court. However, a percentage, but not all of the Disallowed ITCs may have related to the Stranded Disbursements. There is no evidence as to which Stranded Disbursements did or did not include GST or whether such related ITCs were not previously recovered separately. The reason for three Disbursement Clearing Accounts may have related to an attempt to separate exempt, zero-rated or taxable supplies in the Disbursement Clearing Accounts; however, there was no evidence or submissions whatsoever pleaded or led on this point by the Appellants. In the absence of such evidence, the ITCs cannot be claimed and the appeal is accordingly dismissed.
+V. Costs
+[54] These appeals are brought under the Tax Court of Canada Rules (Informal Procedure). While the Appellants shall have their costs, same are awarded on the basis of the Tariff. The Court will not exercise its discretion to depart from the Tariff. Such a determination is advisedly made for two reasons: the Appellants were only partially successful and the state of the Partnership’s records at the end of the Relevant Period (which stretched over three taxation years) contributed to these appeals and ought to have been detected and cured prior to any audit.
+Signed at Ottawa, Ontario, this 9th day May of 2014.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2014 CC 137
+COURT FILE NO.:
+2012-2058(GST)I
+2012-2061(IT)I
+2012-2062(IT)I
+STYLE OF CAUSE:
+FRANCIS & ASSOCIATES
+J. PAUL FRANCIS
+MARIE L. FRANCIS
+AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+December 9, 2013
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+May 9, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Rod A. Vanier
+Counsel for the Respondent:
+Christopher Kitchen
+COUNSEL OF RECORD:
+For the:
+Name:
+Rod A. Vanier
+Firm:
+Landry, Vanier
+Nepean, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

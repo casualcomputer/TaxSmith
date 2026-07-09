@@ -1,0 +1,201 @@
+---
+title: "Tacto Neuro Sensory Devices Inc./Appareils Neurosensoriels Tacto Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25883/index.do"
+last_modified: "2004-05-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 341"
+citation2: ""
+neutral_citation: "2004 TCC 341"
+decision_date: "2004-05-27"
+language: "en"
+item_id: "25883"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3877
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:24:37.957000+00:00"
+cases_cited_count: 0
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1ac30336fa2497b4b7dc5748643e020606161dca82159f6fb7d1e6147d5fd6e5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tacto Neuro Sensory Devices Inc./Appareils Neurosensoriels Tacto Inc. v. The Queen
+
+- Citation: 2004 TCC 341
+- Decision date: 2004-05-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3877, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tacto Neuro Sensory Devices Inc./Appareils Neurosensoriels Tacto Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-27
+Neutral citation
+2004 TCC 341
+File numbers
+2000-3532(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+File: 2000-3532(IT)G
+BETWEEN:
+TACTO NEURO SENSORY DEVICES INC./APPAREILS
+NEUROSENSORIELS TACTO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 23, 2004, at Montreal, Quebec
+Before: The Honourable Judge Paul Bédard
+Appearances:
+Agent for the appellant:
+Robert A. Bertrand
+Counsel for the respondent:
+Janie Payette
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the taxation year ended on July 31, 1998, is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 27th day of May 2004.
+“Paul Bédard”
+Bédard J.
+Certified true translation
+Colette Beaulne
+Reference: 2004TCC341
+Date: 20040527
+File: 2000-3532(IT)G
+BETWEEN:
+TACTO NEURO SENSORY DEVICES INC./APPAREILS
+NEUROSENSORIELS TACTO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] During the taxation year ending on July 31, 1998, the appellant incurred expenditures of $37,379 in order to change and improve a tactometer, a device that enables precise studying of the hand-arm vibration syndrome and repetitive movements. In its income tax return for the 1998 taxation year, the appellant declared that it had spent $37,379 as scientific research and experimental development expenditures and had claimed an income tax credit refund of $15,046.
+[2] Via a notice of assessment dated May 6, 1999, stating that no income tax was payable, the Minister of National Revenue (the “Minister”) denied the amount of $37,379 as scientific research and experimental development expenditures, and did not refund the amount of $15,046 claimed by the appellant for the 1998 taxation year.
+[3] Therefore, it needs to be determined whether the work undertaken by the appellant during the 1998 taxation year constituted scientific research and experimental development within the meaning of section 37 of the Income Tax Act (the “Act”) as well as subsection 248(1) of the Act.
+Preliminary comments
+[4] It is appropriate to highlight that the respondent filed, as Exhibit I-2, an expert report prepared by André Okoniewski, a research and technology advisor for the Canada Customs and Revenue Agency (the “CCRA”). This report analyzed the work carried out by the appellant during the 1998 taxation year and concluded that the work did not constitute scientific research and experimental development. Also, the appellant did not challenge Mr. Okoniewski’s capacity as an expert. Lastly, the appellant did not file any expert reports and did not have any of the people who had carried out the work at issue testify.
+Analyse
+[5] Pursuant to the Act, “scientific research and experimental development” is defined in subsection 248(1) of the Act as follows:
+(1) "scientific research and experimental development" means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and in applying this definition in respect of a taxpayer, includes
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph 248 (1) "scientific research and experimental development" (a), 248 (1) "scientific research and experimental development" (b), or 248 (1) "scientific research and experimental development" (c) that is undertaken in Canada by or on behalf of the taxpayer,
+but does not include work with respect to
+(e) market research or sales promotion,
+(f) quality control or routine testing of materials, devices, products or processes,
+(g) research in the social sciences or the humanities,
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+(j) style changes, or
+(k) routine data collection.
+[6] In Northwest Hydraulic Consultants Ltd. v. Canada, [1998] T.C.J. No. 340, 98 D.T.C. 1839, Bowman J., as he then was, set out in paragraph 16 the criteria that establish whether the work undertaken constitutes scientific research and experimental development. According to him, the approach to be taken is the following:
+1. Is there a technical risk or uncertainty?
+a) Implicit in the term "technical risk or uncertainty" in this context is the requirement that it be a type of uncertainty that cannot be removed by routine engineering or standard procedures. I am not talking about the fact that whenever a problem is identified there may be some doubt concerning the way in which it will be solved. If the resolution of the problem is reasonably predictable using standard procedure or routine engineering there is no technological uncertainty as used in this context.
+b) What is "routine engineering"? It is this question, (as well as that relating to technological advancement) that appears to have divided the experts more than any other. Briefly it describes techniques, procedures and data that are generally accessible to competent professionals in the field.
+2. Did the person claiming to be doing SRED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty? This involves a five stage process:
+a) the observation of the subject matter of the problem;
+b) the formulation of a clear objective;
+c) the identification and articulation of the technological uncertainty;
+d) the formulation of an hypothesis or hypotheses designed to reduce or eliminate the uncertainty;
+e) the methodical and systematic testing of the hypotheses.
+It is important to recognize that although a technological uncertainty must be identified at the outset an integral part of SRED is the identification of new technological uncertainties as the research progresses and the use of the scientific method, including intuition, creativity and sometimes genius in uncovering, recognizing and resolving the new uncertainties.
+3. Did the procedures adopted accord with established and objective principles of scientific method, characterized by trained and systematic observation, measurement and experiment, and the formulation, testing and modification of hypotheses?
+a) It is important to recognize that although the above methodology describes the essential aspects of SRED, intuitive creativity and even genius may play a crucial role in the process for the purposes of the definition of SRED. These elements must however operate within the total discipline of the scientific method.
+b) What may appear routine and obvious after the event may not have been before the work was undertaken. What distinguishes routine activity from the methods required by the definition of SRED in section 2900 of the Regulations is not solely the adherence to systematic routines, but the adoption of the entire scientific method described above, with a view to removing a technological uncertainty through the formulation and testing of innovative and untested hypotheses.
+4. Did the process result in a technological advance, that is to say an advancement in the general understanding?
+a) By general I mean something that is known to, or, at all events, available to persons knowledgeable in the field. I am not referring to a piece of knowledge that may be known to someone somewhere. The scientific community is large, and publishes in many languages. A technological advance in Canada does not cease to be one merely because there is a theoretical possibility that a researcher in, say, China, may have made the same advance but his or her work is not generally known.
+b) The rejection after testing of an hypothesis is nonetheless an advance in that it eliminates one hitherto untested hypothesis. Much scientific research involves doing just that. The fact that the initial objective is not achieved invalidates neither the hypothesis formed nor the methods used. On the contrary it is possible that the very failure reinforces the measure of the technological uncertainty.
+5. Although the Income Tax Act and the Regulations do not say so explicitly, it seems self-evident that a detailed record of the hypotheses, tests and results be kept, and that it be kept as the work progresses.
+[7] In C.W. Agencies Inc. v. Canada, [2001] F.C.J. No. 1886, 2002 D.T.C. 6740, the Federal Court of Appeal confirmed the comments made by Bowman J. by maintaining, in paragraph 17:
+Both sides in front of us relied on the test outlined in Northwest Hydraulic Consultants Limited v. Her Majesty the Queen, [1998] D.T.C. 1839. In that case, Judge Bowman of the Tax Court outlined five criteria which are useful in determining whether a particular activity constitutes SRED. Those criteria have been approved by this Court in RIS-Christie v. Her Majesty the Queen, [1999] D.T.C. 5087 at page 5089. The criteria are as follows:
+1. Was there a technological risk or uncertainty which could not be removed by routine engineering or standard procedures?
+2. Did the person claiming to be doing SRED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty?
+3. Did the procedure adopted accord with the total discipline of the scientific method including the formulation testing and modification of hypotheses?
+4. Did the process result in a technological advancement?
+5. Was a detailed record of the hypotheses tested, and results kept as the work progressed?
+Facts
+[8] In a letter dated September 26, 1997, (Exhibit I-1, Tab 14) from the appellant to Dr. Martin Cherniack, M.D., of the University of Connecticut, Dr. Robert A. Bertrand confirmed that the appellant had been able to sell a model 200 tactometer to the University of Connecticut.
+[9] In a letter dated September 16, 2000 (Exhibit I-1, Tab 15), Dr. Cherniack confirmed to the appellant that he had had the device for three years and he used it as a clinical and research tool. However, he pointed out that the device had been “buggy;” it had some defects and still needed some research and development work for it to be reliable.
+[10] The claim for scientific research and experimental development expenditures submitted by the appellant (Exhibit I-1, Tab 5) for the 1998 taxation year showed three types of expenditures.
+a) expenditures of a current nature for SR&ED undertaken in Canada for the appellant’s employees: $23,131
+It should be noted that these expenditures arose from work undertaken by Mr. Xingwen Hao. To support its claim, the appellant did not file Mr. Hao’s timesheets; instead, it filed a statement of the work done for the appellant by Infomedic BR Inc., which used Mr. Hao’s services to do the work. Essentially, the timesheets showed that the work involved mainly debugging the tactometer and making some changes to the software.
+b) cost of materials consumed in the prosecution of SR&ED: $13,388
+The evidence showed that this amount represented expenditures related to the acquisition of equipment used to build a second prototype.
+c) cost of SR&ED undertaken by independent contractors for the appellant: $860
+The evidence revealed that the $860 had been paid to Mr. Jean‑Pierre Chassé, an independent contractor, who basically made changes to the electronic circuit to eliminate electronic noise at low frequencies.
+Conclusion
+[11] The appellant had the burden of showing, based on the balance of probabilities, that the expenditures it had incurred corresponded to scientific research and experimental development, and to do so, it had to show that there was a technological risk or uncertainty that could not be removed by routine engineering or standard procedures. If the resolution of the problem is reasonably predictable using standard procedure or routine engineering, there is no technological uncertainty. Thus all of the work done to resolve a problem using techniques, procedures, and data that are generally accessible to competent professionals in the field cannot, in my opinion, be scientific research and experimental development since there is no technological risk or uncertainty.
+[12] Mr. Okoniewski testified that the work conducted by Mr. Hao and Mr. Chassé was essentially related to the problem he called background noise monitoring and the reprogramming of the software for the Windows 95 system. It would be appropriate to point out that, in his testimony, Mr. Okoniewski basically resumed the analysis he had provided of these two problems in Tab 2 of his expert report (Exhibit I-2, Tab 2), which is worth citing:
+Re: background noise monitoring
+[TRANSLATION]
+In my opinion, electronic instruments measuring low frequency signals should always assess vibrations from the environment. I think that, when working with this type of equipment, it is current practice in this industry to gauge background noise. This analysis can be done automatically and continually or semi‑automatically for each location and measurement.
+As the taxpayer stated in the section of its documents concerning R&D on July 31, 1997, it did not intend to develop the new electronic card to analyze continuous noise during the medical examination. The taxpayer opted for the second approach of adapting the known technology.
+This adaptation required that new functions be added to the software. According to information circulars 97-1 and 86-4R3, adaptations and additions of new functions do not constitute work that advances already developed technology.
+Re: reprogramming the software in Windows 95
+In general, I would like to make the same comments as above. Reprogramming, by adding new functions, is not an eligible activity according to the Regulations.
+All of the changes were made to meet ISO standards or improve the software’s performance (e.g, graphical display).
+These activities improve the product as such, but they do not advance the technology of the field, which was already developed in previous years.
+[13] The expert report, Mr. Okoniewski’s testimony, and the evidence submitted show that the work done by Mr. Hao and Mr. Chassé does not constitute scientific research and experimental development because there was no technological risk or uncertainty in this case. Indeed, the appellant showed that the purpose of the work carried out by Mr. Hao and Mr. Chassé was to improve the tactometer’s performance, but it failed to show that there was a technological risk in this case that could not be removed by routine engineering or standard procedures. In fact, I conclude that the techniques and procedures used by Mr. Hao and Mr. Chassé to resolve the tactometer problem were routine techniques and standard procedures generally accessible to competent professionals in the field.
+[14] Regarding the expenditure of $13,388, the evidence showed beyond a doubt that it represented the purchase of equipment to build a second prototype of the tactometer. In my opinion, this type of expenditure could not constitute expenditures incurred in the prosecution of scientific research and experimental development.
+[15] Therefore, the appeal is dismissed without costs.
+Signed at Ottawa, Canada, this 27th day of May 2004.
+“Paul Bédard”
+Bédard J.
+Certified true translation
+Colette Beaulne
+REFERENCE:
+2004TCC341
+COURT FILE NO.:
+2000-3532(IT)G
+STYLE OF CAUSE:
+Tacto Neuro Sensory Devices Inc./
+Appareils Neurosensoriels Tacto Inc. and Her Majesty the Queen
+PLACE OF HEARING:
+Sherbrooke, Quebec
+DATE OF HEARING:
+April 23, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Judge Paul Bédard
+DATE OF JUDGMENT:
+May 27, 2004
+APPEARANCES:
+For the Appellant:
+Robert A. Bertrand (agent)
+For the Respondent:
+Janie Payette
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

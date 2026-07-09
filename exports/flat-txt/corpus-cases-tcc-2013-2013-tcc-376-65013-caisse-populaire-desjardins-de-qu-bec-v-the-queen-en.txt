@@ -1,0 +1,253 @@
+Title: Caisse populaire Desjardins de Québec v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/65013/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-376-65013-caisse-populaire-desjardins-de-qu-bec-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-12-02
+
+# Caisse populaire Desjardins de Québec v. The Queen
+
+- Citation: 2013 TCC 376
+- Decision date: 2013-12-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5898, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Caisse populaire Desjardins de Québec v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-12-02
+Neutral citation
+2013 TCC 376
+File numbers
+2012-3130(GST)I
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-3130(GST)I
+BETWEEN:
+Caisse populaire Desjardins de Québec,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on September 9, 2013, at Québec, Quebec.
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+Counsel for the appellant:
+Reynald Auger
+Counsel for the respondent:
+Christian Boutin
+Olivier Julien
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act is allowed and the assessment of February 22, 2011, is vacated, with costs, in accordance with the attached Reasons for Judgment.
+Signed this 2nd day of December 2013.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 17th day of January 2014
+Catherine Jones, Translator
+Citation: 2013 TCC 376
+Date: 20131202
+Docket: 2012-3130(GST)I
+BETWEEN:
+Caisse populaire Desjardins de Québec,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Archambault J.
+[1] The Caisse populaire Desjardins de Québec (Caisse populaire) is appealing from the assessment dated February 22, 2011[1] and made under section 317 of the Excise Tax Act (the Act). This assessment arises from the fact that the Caisse populaire did not comply with a garnishment, or to be more specific, to a requirement to pay (requirement) relating to the goods and services tax owing by the tax debtor, Café de la paix (1980) inc. (Café).
+[2] The Caisse Populaire submits that the assessment is unfounded because, at the time of the seizure, it did not owe any money to Café. Even if the amount of $10,197.66 (amount seized) appeared in the savings account of Café at the time of the receipt of the Requirement, it was not payable to Café since there was legal compensation under section 1673 of the Civil Code of Québec (C.C.Q.) and section 69 of the Act respecting financial services cooperatives, S.Q., c. C-67.3. Section 69 states:
+A financial services cooperative may, to obtain payment of any specific, liquid and exigible claim it has against a member or depositor, withhold any sum of money it owes to the member or depositor and use it to compensate its claim, except in the case of the redemption of qualifying shares issued by it.
+[Emphasis added.]
+[3] Article 1673 C.C.Q. provides as follows:
+1673. Compensation is effected by operation of law upon the coexistence of debts that are certain, liquid and exigible and the object of both of which is a sum of money or a certain quantity of fungible property identical in kind.
+A person may apply for judicial liquidation of a debt in order to set it up for compensation.
+[Emphasis added.]
+[4] According to the Caisse populaire, there was compensation of the amount seized in the savings account since, before the seizure, it had an exigible debt of a similar amount on Café. Counsel for the respondent defined the issue as follows: was there compensation for the seized amount before the communication of seizure on January 24, 2011? According to him, the amounts advanced by the Caisse populaire under a variable credit contract (credit contract) were not exigible at that time and, therefore, no compensation could be effected to make $10,197.66 disappear from Café’s patrimony. This amount was still owing to Café by the Caisse populaire.
+Factual background
+[5] On November 28, 1994, a credit contract between the Caisse populaire (known at the time under the name Caisse populaire Desjardins du Vieux-Québec) and Café stipulating that the Caisse populaire consented to a line of credit of $100,000 to Café and that it could receive it in increments of $10,000 in accordance with the terms and conditions set out in the contract. Here are some of its provisions:
+[translation]
+VARIABLE CREDIT CONTRACT
+…
+1. line of credit
+The Caisse extends to the borrower, who accepts, a line of credit of ----------------- one hundred thousand ------------ xx dollars ($100,000.00).
+The member will receive it in increments of ----- ten thousand ------ xx dollars ($10,000.00) (credit units) or multiples of this amount, in accordance with the following terms and conditions:
+(1) These cash advances will be paid so as to cover, when the balance of its transaction savings account (TSA) is insufficient, cheques drawn and withdrawals made from it and any other debit authorized on this account by the borrower; the borrower’s debt will increase in an amount equal to the number of credit units required to cover the amount missing from its account.
+(2) Simultaneously, the borrower will acquire the right to make withdrawals, authorise debits and draw cheques for the surplus, from its TSA, and the Caisse will have to make the necessary entries to account for it.
+(3) The terms and conditions provided here will not apply if a withdrawal, debit or the payment of a cheque would result in exceeding the total line of credit.
+It is agreed that the Caisse may, at any time, inform the borrower that no advance can be given him in the future under this agreement.
+2. repayment of the principal and credit variation
+Daily, as repayment of amounts owed in principal, the Caisse will debit the borrower’s TSA account by an amount corresponding to a multiple of the credit unit noted above, if the account has a credit balance. The borrower could then receive the line of credit in the same way as though he had not once received the principal that it is repaying. However, the borrower may repay, in part or in full, the amounts due under this agreement at any time.
+3. Interest
+The borrower will make monthly payments on all amounts owing, until they are repaid:
+T interest at prime from the Caisse centrale Desjardins du Québec, plus additional interest of ------------------- one and one half ---------- per cent (1½%) per year, which will vary as a result of each change in this rate.
+…
+4. request for repayment
+The Caisse reserves the right to demand at any time the immediate repayment of any balance owed in principal, interest, costs and accessories.
+5. …
+6. default
+If the Borrower draws a cheque that brings the line of credit balance to an amount higher than the amount authorized hereunder, if it goes bankrupt, if it transfers its property or becomes insolvent or fails to meet any of the conditions and obligations stipulated herein, any balance then owing in principal, interest, costs and accessories shall become immediately exigible.
+[Emphasis added.]
+[6] On January 20, 2011, the respondent, through the intermediary Revenu Québec, sent to the Caisse populaire under subsection 317(3) of the Act a requirement to pay of $53,577.60. A similar requirement was also made under sections 15 et seq. of the Act respecting the ministère du Revenu (R.S.Q., c. M-31). The total of both requests amounted to $157,682.92. (See Exhibit A-1, tab 3.)
+[7] The first request was communicated to the Caisse populaire on January 24, 2011. (See Exhibit I-1, tab 3 (last page) and tab 4, and Exhibit A-1, tab 4.) At the time of her testimony, a representative of the Caisse populaire indicated that, on the same day at 3:34 p.m., the receptionist at the Caisse populaire had sent, by a fax to the Centre financier aux entreprises Desjardins, the said request. It seems that the seizure was entered into Café’s account. The internal statements of the Caisse populaire indicate that, on January 25, 2011, at 9 a.m., it had debited the savings account of Café in the amount of $10,197.66. After this repayment, the balance of the line of credit amounted to $95,464.42. During her examination, the representative of the Caisse populaire stated that an amount greater than $100,000 was advanced under this line of credit. She was not able to specify whether the fact that there was an increase of $5,000 was due to administrative tolerance or if the line of credit had been increased to $105,000. Because of the allocation of payment noted above, the balance of Café’s savings account was zero at 9 a.m. on January 25, 2011. (See Exhibit A-1, tab 5.)
+[8] On January 25, 2011, the same day as the allocation of payment, Café filed with the trustee in bankruptcy Lemieux Nolet inc. a notice of intention to make a proposal in bankruptcy. On January 26, 2011, at 2:21 pm.., the trustee sent by fax to the Ministère du Revenu du Québec and to the Caisse populaire a notice of stay. (See Exhibit A-1, tab 6, and Exhibit I-1, tab 8.) On March 25, 2011, Café went bankrupt. (See Exhibit I-1, tab 9.)
+[9] It is of note that, subsequent to these operations, other advances were made by the Caisse populaire to Café. In particular, on February 1, 2011, an amount of $10,000 was advanced.
+The parties’ positions
+[10] The Caisse populaire argues that the assessment is unfounded. It claims that it did not owe $10,197.66 to Café since Café paid it this amount through legal compensation. All the conditions were met, in particular the condition of the exigibility of the debt of Café (the line of credit balance) and that of the Caisse populaire (the savings account credit balance). According to counsel for the Caisse populaire, the internal statements indicating a balance of $10,197.66 on January 24 only represented accounting entries that did not reflect the legal compensation provided by the C.C.Q. and the Act respecting financial services cooperatives of Quebec.
+[11] Counsel for the respondent submits that there was no payment through legal compensation, as the Caisse populaire submits, because the amount advanced on the line of credit was not exigible at the time of the seizure. He also relies on an interpretation of the credit contract according to which the Caisse populaire had to make a request under clause 4 of the contract so that the balance would become exigible. According to this clause, the Caisse populaire reserves the right to demand, at any time, the immediate payment of any balance owed, including in principal or interest. To understand the scope of clause 4, consideration must be given to the wording of clause 6, which provides that in the event of default, resulting from drawing a cheque that brings the line of credit balance to an amount higher than the amount authorized by the contract, if Café goes bankrupt or becomes insolvent, [translation] “any balance ... shall become immediately exigible”.
+[12] During the hearing, I considered what distinguished the terms and conditions of the line of credit at issue from those of a demand loan and how case law had defined what constitutes amounts exigible. I asked the parties to provide me with written submissions to clarify this question. Here are some substantial excerpts from the submissions from counsel for the respondent and that of counsel for the appellant :
+[translation]
+Additional arguments relating to the concept of exigibility
+…
+3.- At the hearing, the court asked what our position was regarding the exigibility of a demand note or promissory note;
+4.- Section 176 of the Bills of Exchange Act (R.S.C. (1985), c. B-4.), defined the note as follows: “A promissory note is an unconditional promise in writing made by one person to another person, signed by the maker, engaging to pay, on demand or at a fixed or determinable future time, a sum certain in money to, or to the order of, a specified person or to bearer”;
+5.- If there is a term, the debt is not payable so long as the term has not arrived unless there was a forfeiture of the term. If it is a demand note, it befits such an instrument that it may be required right away and its signatory, i.e. the promisor, expects it as of the first day,[2]
+6.- Similarly to the demand note, there is no doubt that a loan made on demand, with no details from the parties relating to its exigibility, is exigible and the creditor is then entitled to require payment without the debtor being able to object (Le syndicat d’épargne des épiciers du Québec c. Mercure, 500-09-000518-72, on May 8, 1975, at p. 4): as it is exigible, his debt may not yet be required;
+7.- However, the situation differs when the contract entered into includes one or more indications that exigibility of the debt was ‘included’ by the parties: this matter is an example of it;
+8.- In fact, it is by the standard of the contract signed by the parties that exigibility is assessed (Les placements L.E.O. Inc. c. Banque Nationale du Canada, 500-05-022551-822, on July 18, 1984, at p. 9 in fine; Banque de Montréal c. Charles Garneau et al., 200-17-004021-036, on November 25, 2005, at para. 77; Le sous-ministre du revenu du Québec c. Les Produits Fraco Ltée. 500-09-016736-068, at para. 26.);
+9.- After citing the terms and conditions of repayment agreed upon between the parties at section 2 (in essence, it stipulates that as soon as the client’s current account is supplied with funds over $10,000, the appellant will debit the account by this amount in payment of the balance of the client’s variable line of credit), the contract in this case includes the following two clauses:
+4. REQUEST FOR REPAYMENT
+The Caisse reserves the right to demand at any time the immediate repayment of any balance owed in principal, interest, costs and accessories. The Caisse shall then be entitled to no longer carry out this agreement, subject to all its other rights and recourses.
+…
+6. DEFAULT
+If the Borrower draws a cheque that brings the line of credit balance to an amount higher than the amount authorized hereunder, if it goes bankrupt, if it transfers its property or becomes insolvent or fails to meet any of the conditions and obligations stipulated herein, any balance then owing in principal, interest, costs and accessories shall become immediately exigible.
+10.- A review of some principles of the interpretation of contracts is in order;
+11.- First and, similar to the interpretation of an act, it is well established that all the clauses of a contract are interpreted in light of the others so that each is given the meaning derived from the result of the entirety of the act;
+12.- As stated by author François Gendron (GENDRON, François, L’interprétation des contrats, Wilson & Lafleur, 2002, p. 84), commenting on section 1427 C.C.Q.:
+The rule of global examination requires that the contract be considered in its entire structure. This rule postulates that each of the clauses of the contract only really reveals its scope on a reading of the other clauses and that, by their reconciliation, each one gains a more complete reading.
+…
+In short, the rule of global examination prescribes that a contract should be interpreted as a coherent whole, ‘each element contributing to the meaning of the whole, and the whole to the meaning of each element’, according to the apt description of P.-A. Côté. (CÔTÉ, P.-A., Interprétation des lois, 3rd ed., Montréal, Les Éditions Thémis, 1999, p. 388. This passage was reiterated in the fourth edition of the book, with the same editor, 2009, at p. 352, number 1153. Dubois v. The Queen, [1985] 2 S.C.R. 350, at p. 365.) The text must therefore be contemplated from two points of view, both as a whole and in detail and, as article 1426 C.C.Q. prescribes, retain in all things an interpretation that is consistent with the nature of the contract and that helps consider it for what it is: a coherent system of statements.
+13.- In the same vein, Justice Marchand in Baillard c. Les Immeubles Dynamiques Inc. (455-32-001863-041, April 4, 2006, at paras. 17-18) wrote the following reasons:
+Thus, as confused or poorly structured it may be, the contract is always a whole of several elements, each one depending on the others, as to the definition of what it is.
+The court has the obligation to interpret the contract in such a way that it brings out the unity of design and that from a reading, the clauses explain, link and consolidate each other, instead of contradicting, excluding or cancelling each other. To determine the meaning of a clause, they must all be combined, because the contract is an organized whole, of which each element reacts to the others and performs a role necessary to the general consistency.
+14.- In this case, the premise “shall become immediately exigible”, which is found at clause 6, first shows, a contrario, that in situations not provided in this clause, the debt of the Caisse is not exigible;
+15.- Second, this is consistent with the words “The Caisse reserves the right to demand” used in clause 4, which suggests that any notice whatsoever is necessary here;
+16.- Indeed, no one could demand in silence or in a vacuum. The appellant, by claiming to rely on clause 4, should have advised its client in any way (which is different from a case of a grace period, which would not defeat the effect of compensation). The evidence is totally silent on this topic and nothing happened on January 24, 2011, the date on which the Crown’s requirement to pay was received. Therefore, the debt of the Caisse was not payable since it became, under the terms of clause 6, the next day.[3] Thus, it was only on January 25, 2011, that the debt of the Caisse became likely to be repaid, in the meantime, the Crown’s demand had its effect;
+17.- Another principle of the interpretation of contracts, provided in article 1428 C.C.Q., supports the respondent since her position gives meaning to clause 6 while that of the Caisse renders it useless and without effect;
+18.- Indeed, the Caisse claims that clause 4, regardless of the circumstances, allows it not only to require the repayment of the loan as it sees fit, but also that there be exigibility of its debt in any situation. For example, why provide in clause 6 that in the event of bankruptcy the balance is exigible if in any case clause 4 already had the same effect?;
+19.- Such an interpretation completely negates clause 6 of the contract, leaving it without any practical effect. Moreover, it must have a meaning and produce an effect, otherwise it would not have been written in the contract;
+20.- In their classic treatise Les Obligations, the authors Baudoin, Jobin and Vézina address the question of the practical effect of any contractual clause in the following manner (BAUDOUIN, J.L. et al., Les Obligations, 6th ed., Editions Yvon Blais, 2005, para. 443):
+443 – Practical effect of any clause – Logically, if the parties have drawn up a contract or written a stipulation, it is that they intended to create obligations or to transfer, modify or extinguish rights, thus to make it produce effects. When the judge is faced with two possible interpretations of a term or a clause, one of which would lead to giving it no legal effect and the other to give it some effect, the judge must prefer the second interpretation over the first (article 1428 of the Civil Code). This rule is the equivalent of the rule of interpreting laws of useful effect; according to the popular expression, the legislator does not speak in vain, i.e. any provision of the Act must—in principle—produce a certain legal effect. It is the same for the writers of contracts.
+21.- That being so, the following reasons of Justice Piché of the Superior Court in Belcourt Construction Company Ltd. c. Automobile et Touring Club de Montréal et al. (500-05-008816-868, on March 13, 1987, at p. 13), appear to have been written, only changing the numbers of the clauses, for this matter:
+If, indeed, we take clause number 7, and we give it full effect, this means that clause number 6 no longer means anything and was added to the contract for no reason. Conversely, if we give priority to clause number 6, we see that it, in fact, mitigated clause 7, which may coexist with clause 6.
+22.- Further, a third rule of interpretation, residual and provided this time in article 1432 C.C.Q., is that, when there is doubt, the contract is interpreted in favour of the person who contracted the obligation and against the person who stipulated it. In this case, the contract must be interpreted in favour of the client of the Caisse, i.e. the one who contracted the obligation, and contrary to the Caisse, which likely stipulated the clauses, specifically the clauses in question;
+23.- Still as an alternative, some could surmise that the document in question is of the nature of a contract of adhesion and, therefore, dictates that it be interpreted accordingly, since “essential stipulations were imposed or drawn up by one of the parties, on his behalf or upon his instructions, and were not negotiable” (art. 1379 C.C.Q.). Indeed, apart from the different quanta of the amount granted, rates and repayment provided in the contract (at clauses 1, 2 and 3), everything appears, in the very face of the document, to have been imposed on the tax debtor;
+Reply to the additional argument produced by the respondent relating to the concept of exigibility
+…
+4. First, article 1673 C.C.Q., which allows compensation by operation of law, reads as follows:
+Art. 1673. Compensation is effected by operation of law upon the coexistence of debts that are certain, liquid and exigible and the object of both of which is a sum of money or a certain quantity of fungible property identical in kind.
+A person may apply for judicial liquidation of a debt in order to set it up for compensation. [Emphasis added.]
+5. By its argument, the respondent erroneously attempted to show that the word “exigible” should be read as “having been the subject of a prior demand”;
+6. In this regard, it is appropriate to remind this Court that in the dictionary, the word “exigible” in no way implies that debt due was previously the subject of any demand for payment whatsoever;
+7. Indeed, the word “exigible” is defined as follows in the dictionary Le petit Larousse illustré (Le petit Larousse illustré, 2013, p. 436),:
+Exigible adj. L. That which can be required: Exigible debt. [Emphasis added]
+8. Similarly, in the Dictionnaire de droit québécois et canadien (REID, Hubert, 1933. Dictionnaire de droit québécois et canadien. 3rd ed. Wilson & Lafleur Ltée, 2004, p. 237), the word “exigible” is also defined as follows:
+Exigible adj
+1. That which may be legally required.
+Ant. inexigible
+Comp. exigibility
+Engl. exigible
+2. Said of a debt that the creditor may immediately
+claim payment for, without waiting for the end of a
+term or the fulfilment of a condition.
+Comp. certain, exigibility, liquid, payable
+Engl. exigible [Emphasis added.]
+9. In light of these two definitions, it should be concluded that the word “exigible” in no way implies that a demand for payment was made beforehand;
+10. To be exigible in the sense of the dictionary and article 1673 C.C.Q., the debt does not simply result in no term to be “legally required”;
+11. Moreover, the wording of clause 4, appearing in the variable credit contract A‑2, is essentially a way of expressing that the amounts loaned are “exigible” at all times and that they are not subject to any constraints in the term or the condition of exigibility;
+12. Nowhere does clause 4 of the variable credit contract A‑2 provide for sending any prior notice to render this debt exigible;
+13. In short, under the terms of clause 4 of the variable credit contract A‑2, the lender simply reminds the borrower that it may, at any time, require the repayment of the amounts due and, notwithstanding, for example, the intervals that may have been set in clause 2 of this credit contract;
+14. In the second stage of her argument, the respondent clearly attempted, through the use of the rules of interpretation of contracts provided in the C.C.Q., to infer that there would be a contradiction between articles 4 and 6 of the variable credit contract A‑2, such that, in the end, the amounts due would allegedly not be exigible unless there were a default within the meaning of clause 6 of this contract or, at the very least, that after a previous demand for payment has been sent;
+15. Clearly, and with respect, the respondent has forgotten a basic rule in the interpretation of contracts to make this finding;
+16. Case law reminds us that when two contractual clauses seem inconsistent, first they must be given an interpretation allowing them to complement each other, rather than to negate each other (Syndicat de copropriétaires de Le Lionnaise c. Sylvestre, [2003] RDI 676 (CQ). KARIM, Vincent. Les obligations. Volume I, 3rd ed. 2009. Wilson & Lafleur ltée, p. 587.);
+17. As submitted to this Court during the hearing into this case, the appellant respectfully reiterates that there is no inconsistency between clause 4 and clause 6 of the variable credit contract A‑2;
+18. Clause 6 of this credit contract is simply a usual default clause in case, for example, of insolvency, while clause 4 of this contract is a reminder of the fact that, in any situation, the repayment of the amounts is subject to no terms or conditions of exigibility;
+19. Finally, the appellant finds it appropriate to refer the Court to Société canadienne des postes c. Morel, [2004] RJQ 2405, rendered by the Court of Appeal of Québec on August 30, 2008;
+20. In this matter, the applicant had, under article 2125 C.C.Q., the right to unilaterally resiliate, at all times, the service contract;
+21. The Court found that the fact that the applicant added contractually some cases of resiliation did not prevent it, moreover, from using the right to unilateral resiliation granted under article 2125 C.C.Q.;
+22. The Court of Appeal stated:
+[46] The rule given under article 2125 C.C.Q. is not of public order. It is possible to derogate from it but it must be done unequivocally. The simple fact of mentioning in a contract, as in this case, that the client may resiliate the contract if certain situations occur is not sufficient, in my view, to find that the client waived the right under article 2125 C.C.Q. [Emphasis added]
+[47] Under the rules applicable to all contracts, the creditor of an obligation has the right, in the case of the debtor’s failure, to resolve or resiliate the contract (articles 1590 and 1604 C.C.Q.). To this right is added, because of the nature of the contract of enterprise or for services, the client’s ability to end it at any time, unilaterally, without reason (article 2125 C.C.Q.).
+23. In short, and by analogy, the appellant respectfully submits that the terms and conditions of clause 6 of the variable credit contract A‑2 were never for the purpose of preventing its debt from being considered exigible at all times and consequently being payable on demand;
+24. In conclusion, the appellant reiterates that, in this case, the respondent’s request must be rejected and that, essentially for the reasons expressed by the Court of Appeal in Hil-A-Don (In Re Hil-A-Don Ltd: Bank of Montreal c. Kwiat, [1975] CA 157 to 160) that
+In Hil-A-Don, the Court of Appeal pointed out that for the time when debts coexist and that the credit balance of a current account is lower than the loan balance, following legal compensation effected by operation of law, a company does not effectively have a claim against the bank; that the balance appearing in the current account is nothing more than one of the accounting entries noting the various items that must enter in the computation of the residual claim of the bank against the company. Professor L’Heureux points out the same principle.” (Comments by l’Honorable Michael Sheenan, J.C.Q., taken from the judgment rendered in Caisse populaire St-Bernard de Beauce c. Québec (Revenu), AZ-96038062.) [Emphasis added]
+[Emphasis mine unless there is the note “Emphasis added”]
+Analysis
+[13] First, I would like to point out the excellence of the arguments presented by each counsel both in the hearing and in their written submissions. It is very useful for a judge who must make decisions in legal debates to have the assistance of two excellent counsel who, through their knowledge and their expertise, are able to inform the Court. Here, the Court is faced with a difficult problem: it must decide the issue of whether there was legal compensation in the circumstances of this case. In his written submissions, counsel for the respondent made excellent arguments, proposing a solution based on the application of certain principles of interpretation to determine the scope of the credit contract and, in particular, to determine whether it was an obligation with a term or a debt exigible on demand.
+[14] The difficulty that presents itself here, in my humble opinion, results from a contract written in a confusing and contradictory manner. According to the usual principles of interpretation with respect to contracts, the Court should normally attempt to find a solution that helps interpret the contract in such a way that brings out the unity in its design instead of adopting an interpretation that focuses on the existence of conflicting provisions. Although the submission of counsel for the respondent complied with standard practices, I am not persuaded here that the result that he proposed was satisfactory or that this result respected the intention that the Caisse populaire and Café truly had.
+[15] The conclusion that clause 4 must be interpreted as creating an obligation of making a demand for payment does not make the debt owed to the Caisse populaire less exigible. Indeed, if, to obtain the payment of the balance of the line of credit, it is necessary for the Caisse populaire to make the demand, this places it in the same situation that it would have found itself in if it had had a demand note. To obtain the payment of a demand note, the demand must clearly be made. Further, according to case law, a demand note is considered to be an [translation] “exigible note”. (See Hil-A-Don, supra.)
+[16] Moreover, the rules of interpretation raised by the two parties suppose that the contract was well written, i.e. without any mistakes by the writer. In my view, it is also possible to believe that, in [translation] “real life”, to use a popular expression, a contract writer may commit errors in his writing. Here, I am satisfied that the Caisse populaire truly intended to make the debt of Café repayable on demand and that the purpose sought by the Caisse populaire was to ensure that its debt would be fully exigible. I am also satisfied that clause 6 is an awkward addition by the writer of this contract. Indeed, it seems to me that this writer introduced a clause that is generally included in loan contracts with a term to provide the forfeiture of this term when certain events took place. Consequently, it seems to me that there is an inconsistency between the wording of clause 4 and that of clause 6, particularly because of the addition in it of the words “shall become immediately exigible”. I believe that, by this addition to clause 6, it was rather intended to list the specific examples of cases where the Caisse populaire would exercise its [translation] “privilege of requiring … repayment”, while not impairing the exigibility of the debt of Café.
+[17] Counsel for the respondent also raised the principle of interpretation stated in article 1432 C.C.Q. according to which a contract is interpreted in favour of the person who has contracted the obligation against the person who stipulated it. It is the same for the principle of interpretation based on the existence of a contract of adhesion. In this case, I believe that the contracting party Café was acquiescing to the purpose sought by the Caisse populaire, which was to stipulate a loan repayable on demand and not a loan with a term. On reading clause 4 of the credit contract, it is clear that Café could not expect to receive the line of credit for a fixed duration. On the contrary, it understood that the Caisse populaire could require the repayment of the advance at any time. To use the popular expression, the Caisse populaire could [translation] “call in its line of credit”.
+[18] For his part, counsel for the appellant attempted, in applying the same usual principles of interpretation of contracts, to propose a distinction that does not appear to be well-founded. Indeed, when, at paragraph 18 of his written submissions, he argues that clause 6 is simply a usual default clause, particularly in cases of insolvency, and that he cites in support of his argument the decision of the Court of Appeal of Québec in Morel at paragraph 19 of his written submissions, I do not find it persuasive. Indeed, as suggested by paragraphs 46 and 47 of Morel cited at paragraph 22 of his written submissions, the issue in that case was to determine whether the fact of having described in a contract the circumstances granting the resolution or resiliation of the contract could be interpreted as an implicit renunciation of the right conferred by article 2125 C.C.Q. In this context, the Court of Appeal reiterates that one may derogate from the law, but it has to be done unequivocally.
+[19] The issue here is not to determine whether clause 6 had the effect of renouncing the exigibility, provided by a provision of the Civil Code, of the debt. On the contrary, the issue is to determine the scope of clause 4 of the credit contract. Therefore, it is strictly a matter here of the interpretation of a contract that seems to contain two inconsistent provisions. The principle of unequivocal derogation from a law is not applicable in this case.
+[20] In summary, I believe that the addition of the words “shall become immediately exigible” at clause 6 is an error in the writing that does not reflect the intention of the parties.
+[21] Even if I had been mistaken in interpreting the credit contract and I should have found that clause 4 of the credit contract did not create an exigible debt, especially because of the existence of a precondition, I would conclude that the issue must be decided in favour of the appellant anyway. Indeed, Café’s debt was, because of the application of clause 6 of the contract, exigible by the Caisse populaire before the seizure. According to an inference that seems serious, precise and concordant, Café was insolvent[4] before the service of the respondent’s request on January 24, 2011. This insolvency resulted in rendering immediately exigible any debt of Café to the Caisse populaire under the terms of clause 6 of the credit contract. It seems to me appropriate to adopt such a factual presumption although the appellant had not, in its notice of appeal or during its argument, relied on such a reason to argue that Café’s debt was exigible.
+[22] Before adopting this position, I shared it with the parties during a teleconference where they were both represented. The approach that I adopt here is similar to that of the Federal Court of Appeal in 9101-2310 Québec inc., 2013 FCA 241, rendered on October 18, 2013, in which the Court inferred that there was a simulation, although no allegation of simulation had appeared in the pleadings of the parties, in particular in the reply to the notice of appeal and, if my memory serves, the simulation was not relied on by counsel for the Canada Revenue Agency during the hearing before the Tax Court of Canada. (See paragraphs 40 et seq. of the Federal Court of Appeal decision.)
+[23] The facts that allow me to adopt this factual presumption are the following. They stem mainly from two documents found in the respondent’s Book of Exhibits (filed as Exhibit I-1), at tabs 8 and 9. At tab 8, we find a certificate of deposit of a notice of intention to make a proposal under subsection 50.4(1) of the Bankruptcy and Insolvency Act (BIA), dated January 25, 2011, the day after the service of the request. In this document, the official receiver certified that Café, an [translation] “insolvent person”,[5] submitted this notice of intention. Therefore, all the proceedings instituted against the insolvent person were suspended as of the date of the deposit of the notice of intention. Further, the next day, on January 26, 2011, the receiver sent a notice of stay to the Ministère du Revenu du Québec and the Centre financier aux entreprises Desjardins and the Caisse populaire. If this insolvency existed on January 25, 2011, it is completely reasonable to believe that, on the balance of probabilities, it existed at the beginning of the day on January 24, 2011.
+[24] Counsel for the respondent submitted that, since there was no direct evidence of this matter of insolvency, including in the form of a balance sheet for Café, it is possible that Café was not insolvent on January 25, 2011.[6] He raised examples of cases where courts had cancelled notices of stay such as the one in this case. He also recalled that the Caisse populaire had continued to make advances after January 26, 2011. According to him, this may suggest that there was no insolvency. However, as counsel for the Caisse populaire submitted, it had, under section 65.1 BIA the obligation to respect its contractual commitments:[7]
+65.1 (1) If a notice of intention or a proposal has been filed in respect of an insolvent person, no person may terminate or amend any agreement, including a security agreement, with the insolvent person, or claim an accelerated payment, or a forfeiture of the term, under any agreement, including a security agreement, with the insolvent person, by reason only that
+(a) the insolvent person is insolvent; or
+(b) a notice of intention or a proposal has been filed in respect of the insolvent person.
+[Emphasis added.]
+Therefore, the Caisse populaire could not refuse to continue to respect his commitments under the line of credit.
+[25] Another element makes the existence of insolvency of Café on January 24, 2011, highly likely and supports the validity of the notice of stay. It is the document produced at tab 9 of Exhibit I-1 by the respondent, who notes that there was an assignment on March 25, 2011, two months later. This event suggests that the proposal in bankruptcy was accepted by creditors and indicated that Café went bankrupt. This bankruptcy, which occurred exactly two months after the notice of intention to file a proposal in bankruptcy, was sufficient to support the presumption that insolvency existed before the service of the request.
+[26] It must also be remembered that, on January 24, 2011, the Ministère du Revenu du Québec served on the Caisse populaire a requirement to pay and also served, under the Act respecting the ministère du Revenu, a notice to a garnishee, the total amount claimed being $157,682.92.
+[27] In summary, as there was a situation of insolvency on January 24, 2011, before the Caisse populaire received the requirement and that, at that time, if there was a term, there was forfeiture of the term and Café’s debt to the Caisse populaire under the terms of the credit contract became exigible. Therefore, there was legal compensation of the amount seized, the amount that the Caisse populaire owed to Café on January 24, 2011, and this compensation was in partial payment of the balance due on the line of credit. The amount of $10,197.66, which is the amount seized, was not due by the Caisse populaire to Café. Thus, there was nothing to be seized at this date.
+[28] For these reasons, the appeal of the Caisse populaire is allowed and the assessment of February 22, 2011, is vacated, with costs.
+Signed, this 2nd day of December 2013.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 17th day of January 2014
+Catherine Jones, Translator
+CITATION: 2013 TCC 376
+COURT FILE NO.: 2012-3130(GST)I
+STYLE OF CAUSE: CAISSE POPULAIRE DESJARDINS DE QUÉBEC v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: September 9, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: December 2, 2013
+APPEARANCES:
+Counsel for the appellant:
+Reynald Auger
+Counsel for the respondent:
+Christian Boutin
+Olivier Julien
+COUNSEL OF RECORD:
+For the appellant:
+Name: Reynald Auger
+Firm: Langlois Kronström Desjardins, LLP
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See Exhibit A-1, Tab 1.
+[2] In support of this position of counsel for the respondent, there is the Court of Appeal of Québec decision In Re Hil-A-Don Ltd: Bank of Montreal c. Kwiat, 1975 C.A. 157 at page 160. At page 158, Justice Bernier wrote as follows:
+[translation]
+On the other hand, there coexisted in favour of the bank a reciprocal debt resulting from a loan, an essentially liquid debt and, faced with the note stating so, which was also exigible: the note was on demand. [Emphasis added.]
+[3] The lawyer did not specify what default situation provided in clause 6 of the contract is in question. Is this insolvency? Failure to comply with one of the provisions of the credit contract?
+For my part, I do not see that the default was created by the insolvency. If I am correct, counsel for the respondent implicitly recognized that there was insolvency on January 25, 2011!
+[4] The Petit Robert defines [translation] "insolvency" in the following manner:
+[translation] A person who is no longer able to pay his or her debts. Insolvent debtor.
+[Emphasis added.]
+[5] The term “insolvent person” is defined as follows at section 2 BIA:
+2. In this Act,
+“insolvent person” means a person who is not bankrupt and who resides, carries on business or has property in Canada, whose liabilities to creditors provable as claims under this Act amount to one thousand dollars, and
+(a) who is for any reason unable to meet his obligations as they generally become due,
+(b) who has ceased paying his current obligations in the ordinary course of business as they generally become due, or
+(c) the aggregate of whose property is not, at a fair valuation, sufficient, or, if disposed of at a fairly conducted sale under legal process, would not be sufficient to enable payment of all his obligations, due and accruing due.
+[Emphasis added.]
+[6] For an opposite point of view, see footnote 3 above.
+[7] As the legal compensation occurred prior to the submission of the notice of intention, section 65.1 BIA does not have as effect, in my opinion, to prohibit this legal compensation. See Toronto-Dominion Bank v Canada, 2012 SCC 1, 2012 1 S.C.R. 3 where the Supreme Court of Canada adopted the reasons of Justice Noël of the Federal Court of Appeal in the same matter (2010 FCA 174), in particular paragraph 53.

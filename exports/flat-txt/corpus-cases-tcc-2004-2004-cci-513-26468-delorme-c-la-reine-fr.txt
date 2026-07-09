@@ -1,0 +1,107 @@
+Title: Delorme c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26468/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-513-26468-delorme-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-09-22
+
+# Delorme c. La Reine
+
+- Citation: 2004 CCI 513
+- Decision date: 2004-09-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3152, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Delorme c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-22
+Référence neutre
+2004 CCI 513
+Numéro de dossier
+2003-3080(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3080(IT)I
+ENTRE :
+ROGER DELORME,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appels entendus les 12 et 14 juillet 2004 à Sherbrooke (Québec)
+Devant : L'honorable juge Brent Paris
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Marie-Claude Landry
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999, 2000 et 2001 sont rejetés
+Signé à Ottawa, Canada, ce 22e jour de septembre 2004.
+« B. Paris »
+Juge Paris
+Référence : 2004CCI513
+Date : 20040922
+Dossier : 2003-3080(IT)I
+ENTRE :
+ROGER DELORME,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] L'appelant interjette appel à l'encontre d'une décision rejetant la déduction des pertes locatives relatives à une propriété qu'il a louée d'abord à son fils et à sa belle-fille, et ensuite à son fils, pendant les années 1999, 2000 et 2001. Les pertes dont la déduction a été refusée se chiffraient à 11 338 $ pour 1999, à 1 351 $ pour 2000 et à 4 984 $ pour 2001. La question que la Cour doit trancher en l'espèce est de savoir si les dépenses déduites par l'appelant relativement à la propriété ont été effectuées en vue de tirer un revenu d'un bien, ainsi que de savoir s'il s'agissait de frais personnels ou de subsistance de l'appelant au sens de la Loi de l'impôt sur le revenu (la « Loi » ).
+[2] L'appelant a acheté la propriété, qui se trouve à North Hatley (Québec), en mai 1999 pour la somme de 58 000 $, et il en a pris possession en juillet de la même année. La propriété consistait en une petite maison bâtie sur un terrain situé au bord de la rivière Massawippi. La maison était en très mauvais était et nécessitait beaucoup de réparations et de rénovations.
+[3] Selon l'appelant, son fils a exprimé le désir de louer la propriété tout de suite après qu'il l'a achetée, et ils ont convenu qu'il allait le faire pour 375 $ par mois. L'appelant a dit que son fils n'a pas pu emménager immédiatement mais qu'il a tout de même payé le loyer « parce que c'était ce qui avait été convenu » .
+[4] Après que quelques réparations initiales ont été effectuées, le fils et la belle-fille de l'appelant ont emménagé dans la maison même si, selon l'appelant, celle-ci était toujours inhabitable à ce moment-là. L'appelant a répété qu'il n'aurait pas pu trouver un autre locataire compte tenu de l'état de la propriété. La maison n'étant pas bien isolée et les fenêtres et les portes n'étant pas étanches à l'air, le fils et la belle-fille de l'appelant ont dû payer des frais de chauffage très élevés au cours des mois d'hiver. L'appelant a dit qu'il s'agissait là d'une autre raison pour laquelle il ne pouvait pas demander un loyer supérieur au loyer que payaient son fils et sa belle-fille.
+[5] Au cours de l'année 2000, le fils et la belle-fille de l'appelant se sont séparés, et seul son fils est demeuré dans la maison. Après le mois de mars 2001, il a cessé de payer le loyer, même s'il a continué à habiter la maison jusqu'en avril 2002. M. Delorme a dit n'avoir fait aucune démarche en vue de recouvrer le loyer impayé ou d'évincer son fils parce qu'il savait que celui-ci n'avait pas d'argent et qu'il aurait été illégal de l'évincer pendant l'hiver. Il a ajouté que pendant les dix-sept années au cours desquelles il a loué deux autres propriétés, il ne lui était arrivé qu'une seule fois de faire des démarches pour évincer un locataire pour non-paiement de loyer. M. Delorme a également affirmé que son fils continuait à payer les frais de chauffage de la propriété, ce qu'il considérait comme un avantage pour lui.
+[6] Il semble que M. Delorme ait effectué des réparations et des rénovations dans la maison au cours de la période en cause. Il a dit avoir fait la plupart des travaux lui-même pour économiser de l'argent. Il a déclaré que le fait que la maison était constamment en rénovation était une autre raison pour laquelle il n'avait pas essayé de trouver un autre locataire.
+[7] La maison a été vendue peu de temps après que le fils de M. Delorme l'a quittée pour 120 000 $.
+[8] Le ministre a refusé la déduction des pertes locatives pour le motif que les dépenses correspondant aux pertes n'avaient pas été engagées en vue de tirer un revenu et étaient des frais personnels ou de subsistance, et que les alinéas 18(1)a) et 18(1)h) de la Loi de l'impôt sur le revenu interdisaient la déduction de tels montants.
+[9] Je suis d'avis que l'appelant n'a pas démontré, selon la prépondérance des probabilités, qu'il a acheté et détenu la propriété avec l'intention d'en tirer un revenu de location, et qu'il n'a pas établi que les dépenses ne constituaient pas des frais personnels ou de subsistance au sens de l'article 248 de la Loi, qui est rédigé en partie comme suit :
+« frais personnels ou de subsistance » Sont compris parmi les frais personnels ou de subsistance :
+a) les dépenses inhérentes aux biens entretenus par toute personne pour l'usage ou l'avantage du contribuable ou de toute personne unie à ce dernier par les liens du sang, du mariage, de l'union de fait ou de l'adoption, et non entretenus dans le but ou avec l'espoir raisonnable de tirer un profit de l'exploitation d'une entreprise;
+[10] Même si l'appelant a affirmé que la propriété pouvait lui permettre de gagner 10 000 $ par année en loyer s'il la louait pendant les périodes de vacances, il était clair que pour que cela soit possible des travaux importants devaient être effectués dans la maison. Ceci était étayé par le fait que l'appelant n'a pas essayé de louer la propriété pendant les vacances avant 2002, et qu'il a plutôt permis à son fils de l'habiter en contrepartie d'un loyer modique ou gratuitement. La preuve révèle donc que l'état de la propriété faisait en sorte que le revenu de location qui aurait pu en être tiré avant la fin des travaux n'aurait pas été suffisant pour couvrir les dépenses. Entre-temps, l'appelant s'était contenté de laisser son fils, qui n'avait pas d'emploi et qui n'a pas été en mesure de payer quelque loyer que ce soit pendant près d'un an, habiter la propriété.
+[11] J'admets également que la raison pour laquelle l'appelant n'a pas essayé de recouvrer le loyer dû par son fils était que celui-ci était un membre de sa famille. La preuve présentée par l'intimée a révélé que l'appelant a intenté des poursuites en vue de recouvrer le loyer impayé par deux autres locataires relativement aux autres propriétés qu'il louait en 2000. Même si l'appelant a soutenu que les circonstances entourant ces poursuites étaient très différentes de la situation de son fils, à mes yeux, seul le fait que les locataires contre lesquels il a intenté des poursuites n'avaient pas de lien de dépendance avec lui distingue les deux cas.
+[12] Compte tenu de cette preuve, je suis convaincu que l'appelant a loué la propriété à son fils dans un but autre que pour en tirer un bénéfice, et que les dépenses liées à la propriété n'ont pas été effectuées dans le but de gagner un revenu.
+[13] Par conséquent, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 22e jour de septembre 2004.
+« B. Paris »
+Juge Paris
+RÉFÉRENCE :
+2004CCI513
+No DU DOSSIER DE LA COUR :
+23003-3080(IT)I
+INTITULÉ DE LA CAUSE :
+Roger Delorme c. SMR
+LIEU DE L'AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L'AUDIENCE :
+les 12 et 14 juillet 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge B. Paris
+DATE DU JUGEMENT :
+Le 22 septembre 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimée :
+Me Marie-Claude Landry
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

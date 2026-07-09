@@ -1,0 +1,148 @@
+---
+title: "Qu v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521344/index.do"
+last_modified: "2024-10-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 138"
+citation2: ""
+neutral_citation: "2024 TCC 138"
+decision_date: "2024-10-23"
+language: "en"
+item_id: "521344"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6050
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:32:48.397000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4100e5506d9ed1ab25dd0eee5af04af6b277848197b637a5aab5a3b5c2502ee9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Qu v. The King
+
+- Citation: 2024 TCC 138
+- Decision date: 2024-10-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6050, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Qu v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-10-23
+Neutral citation
+2024 TCC 138
+File numbers
+2023-812(IT)I
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2023-812(IT)I
+BETWEEN:
+BAODONG QU,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on March 13, 2024, at Toronto, Ontario with written submissions received from the parties on June 24, 2024, July 19, 2024 and July 25, 2024
+Before: The Honourable Justice David E. Spiro
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mélia Muboyayi and Christian Cheong
+JUDGMENT
+The appeal of the assessment made by the Minister of National Revenue under the Income Tax Act for the Appellant’s 2021 taxation year is dismissed without costs.
+Signed at Toronto, Ontario, this 23rd day of October 2024.
+“David E. Spiro”
+Spiro J.
+Citation: 2024 TCC 138
+Date: 20241023
+Docket: 2023-812(IT)I
+BETWEEN:
+BAODONG QU,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Spiro J.
+[1] The Appellant, Mr. Baodong Qu, appeals an assessment by the Minister of National Revenue (the “Minister”) disallowing the deduction of $25,362 that he contributed to his registered retirement savings plan (“RRSP”) for the 2021 taxation year. The Minister allowed a deduction of $12,175.
+[2] The Crown contends that Mr. Qu was entitled to deduct $12,175 as a contribution to his RRSP for 2021. Mr. Qu argues that he was entitled to deduct $25,362.
+[3] Throughout his 2020 taxation year, Mr. Qu worked for TSX Inc. (“TSX”). He had been employed there since 2001 and was a member of its registered pension plan (the “TSX RPP”). The TSX RPP was a money purchase plan, also known as a defined contribution plan.
+[4] On March 12, 2021 Mr. Qu concluded his employment with the TSX. He terminated his membership in the TSX RPP on that date.
+RPPs and RRSPs
+[5] The Income Tax Act (the “Act”) encourages Canadians to save for retirement by participating in one or more tax-assisted retirement savings plans. In general, deductible contributions are subject to an overall limit of 18% of an individual’s earned income, to a specified dollar amount. That overall limit applies to total retirement savings whether under RRSPs or RPPs, or a combination of the two.
+[6] Justice Bowie described the purpose of the RRSP in Braun v The Queen, 2011 TCC 536:
+[25] Considering the context of the legislation, it is trite that the purpose of the RRSP provisions of the Act is to encourage Canadians to save for retirement. To that end, they are permitted to accumulate savings on a tax deductible basis. Neither the amounts contributed to the fund nor the earnings accumulated within it are subjected to tax until they are withdrawn in one way or another.
+[7] The purpose of the RPP is for an employer to provide periodic payments to individuals after retirement for their service as employees. In simple terms, a money purchase pension plan, such as the TSX RPP, is one in which contributions made by the employer are credited to each member.
+Pension Adjustment (PA)
+[8] Individuals who are members of an RPP have a pension credit reported each year. The pension credit is the benefit the member earned under the RPP during the calendar year. A member’s pension adjustment (“PA”) is the total of their pension credits from an RPP of which they were a member during the year.[1] The PA reduces the member’s contribution limit to their RRSP in the following year.[2]
+[9] The pension credits that Mr. Qu earned for 2020 under the TSX RPP were $16,692. That amount was reflected on Mr. Qu’s T4 for the 2020 taxation year as his PA for that year.
+[10] The pension credits that Mr. Qu earned for 2021 under the TSX RPP were $3,505. That amount was reflected on Mr. Qu’s T4 for the 2021 taxation year as his PA for that year.
+Pension Adjustment Reversal (PAR)
+[11] Under certain circumstances, an individual’s RRSP deduction limit is restored after having been diminished by an earlier PA that had reduced their deduction limit by pension credits that were later forfeited.
+[12] In the context of a defined contribution RPP, such as the TSX RPP, the pension adjustment reversal (“PAR”) is an amount added to an individual’s RRSP contribution room when they cease to be a member of an RPP.[3] In the context of this type of RPP, the PAR is limited to the amount of employer contributions to which the individual is not entitled when their membership in the RPP ends. In other words, the PAR is the amount of employer contributions that are unvested at the time membership in the RPP is terminated.[4]
+[13] No amounts were included in Mr. Qu’s pension credits up to the date he terminated his membership in the TSX RPP to which he was not entitled at the time of termination. When Mr. Qu terminated his membership in the TSX RPP on March 12, 2021, he was fully vested.[5]
+Mr. Qu’s Position
+[14] In argument, Mr. Qu relied on a novel concept which he called a “previsioned” or anticipated PA. That is a concept that does not exist under the Act or the Regulations.
+[15] Under his theory, the amount Mr. Qu was entitled to deduct as an RRSP contribution for 2021 begins with his 2021 RRSP deduction limit of $12,175 but is supplemented by the difference between his “previsioned” or anticipated 2021 PA of $16,692 and his actual 2021 PA of $3,505.
+Analysis and Conclusion
+[16] Mr. Qu’s theory is remarkably creative but has no basis in the Act or the Regulations. The closest idea would be the PAR, but Mr. Qu was fully vested when he terminated his membership in the TSX RPP on March 12, 2021. Because Mr. Qu was fully vested at that time, he was not entitled to any PAR when he terminated his membership in the TSX RPP.
+[17] Mr. Qu was entitled to deduct $12,175 as a contribution to his RRSP for 2021 as the Minister assessed. His appeal will, therefore, be dismissed without costs.
+Signed at Toronto, Ontario, this 23rd day of October 2024.
+“David E. Spiro”
+Spiro J.
+CITATION:
+2024 TCC 138
+COURT FILE NO.:
+2023-812(IT)I
+STYLE OF CAUSE:
+BAODONG QU AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 13, 2024 with written submissions received from the parties on June 24, 2024, July 19, 2024 and July 25, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+October 23, 2024
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mélia Muboyayi and Christian Cheong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Subsection 8301(1) of the Income Tax Regulations, CRC, c 945 (the “Regulations”).
+[2] Subsection 146(1) of the Act.
+[3] Subsection 8304.1(14) of the Regulations.
+[4] Subsection 8304.1(4) of the Regulations.
+[5] Transcript at page 25, lines 24-28.

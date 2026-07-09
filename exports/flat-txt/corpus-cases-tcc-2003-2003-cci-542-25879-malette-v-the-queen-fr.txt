@@ -1,0 +1,143 @@
+Title: Malette v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25879/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-542-25879-malette-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-08-13
+
+# Malette v. The Queen
+
+- Citation: 2003 CCI 542
+- Decision date: 2003-08-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3873, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Malette v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-08-13
+Référence neutre
+2003 CCI 542
+Numéro de dossier
+2000-135(EXP)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi sur l'exportation et l'importation de biens culturels
+Contenu de la décision
+Dossier : 2000-135(EXP)G
+ENTRE :
+CHARLES MALETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 23 juillet 2003 à Vancouver (Colombie-Britannique)
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Avocats de l'appelant :
+Me Werner H. G. Heinrich
+Me David Graham
+Avocat de l'intimée :
+Me Robert Carvalho
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle détermination établie en vertu de l'article 32 de la Loi sur l'exportation et l'importation de biens culturels, daté du 27 septembre 1999, est modifié conformément aux motifs du jugement ci-joints.
+L'appelant a droit aux dépens entre parties.
+Signé à Regina (Saskatchewan) ce 13e jour d'août 2003.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 28e jour de mai 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2003CCI542
+Date : 20030813
+Dossier : 2000-135(EXP)G
+ENTRE :
+CHARLES MALETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel sous le régime de la procédure générale a été entendu à Vancouver, en Colombie-Britannique, le 23 juillet 2003. L'intimée a appelé Victor Miner, directeur exécutif de la Appraisers Association of America et Kathryn C. Minard, en capacité de témoin expert, pour rendre un témoignage d'opinion au sujet de la valeur des 981 oeuvres faisant l'objet du présent litige et au sujet de la méthodologie devant être employée pour effectuer cette évaluation.
+[2] Un exposé conjoint des faits a été déposé sous la cote A-3; en voici un extrait :
+[traduction]
+1. Les parties conviennent que la juste valeur marchande totale des 981 oeuvres de l'artiste Harold Feist, sans tenir compte d'aucune ristourne ou réduction globale, s'élève à 828 000 $.
+[3] L'intimée a déposé la pièce R-1 qui dit :
+[traduction]
+L'appelant reconnaît que si, selon les principes de droit, des réductions globales sont applicables aux dons de biens culturels, alors :
+(i) il s'agit là d'une situation où la réduction pour vente en bloc est applicable;
+(ii) la réduction globale appliquée par Mme Minard dans son rapport d'expertise, est appropriée;
+(iii) l'appel doit être rejeté.
+[4] L'appelant a interjeté appel pour qu'une nouvelle détermination de la décision de la Commission d'examen prise en application de la Loi sur l'exportation et l'importation de biens culturels, selon laquelle la juste valeur marchande des biens donnés, c'est-à-dire 981 peintures créées par l'artiste Harold Feist, que l'appelant, Ronaye Malette et Lance Morginn ont aliénées irrévocablement en faveur de la galerie d'art Art Gallery of Algoma le 22 juillet 1998, s'élève à 293 246 $.
+[5] L'appelant a prétendu originellement que leur valeur était de 879 714 $ le jour de la donation.
+[6] Voici les versions anglaise et française du paragraphe 32(1) de la Loi sur l'exportation et l'importation de biens culturels :
+Saisine de la Commission
+32. (1) Pour l'application du sous-alinéa 39(1)a)(i.1), de l'alinéa 110.1(1)c), de la définition de « total des dons de biens culturels » au paragraphe 118.1(1) et du paragraphe 118.1(10) de la Loi de l'impôt sur le revenu, lorsqu'une personne aliène ou se propose d'aliéner un objet au profit d'un établissement, ou d'une administration, désigné conformément au paragraphe (2), la personne, l'établissement ou l'administration peuvent demander par écrit à la Commission d'apprécier la conformité de l'objet aux critères d'intérêt et d'importance énoncés au paragraphe 29(3) et de fixer la juste valeur marchande de l'objet.
+32.(1) For the purposes of subparagraph 39(1)(a)(i.1), paragraph 110.1(1)(c), the definition "total cultural gifts" in subsection 118.1(1) and subsection 118.1(10) of the Income Tax Act, where a person disposes of or proposes to dispose of an object to an institution or a public authority designated under subsection (2), the person, institution or public authority may request, by notice in writing given to the Review Board, a determination by the Review Board as to whether the object meets the criteria set out in paragraph 29(3)(b) and (c) and a determination by the Review Board of the fair market value of the object.
+Request for determination by Review Board
+Et voici l'article 33.1 :
+Appel en ce qui concerne la valeur marchande
+Décision de la Cour
+Appel devant la Cour canadienne de l'impôt
+33.1 (1) La personne qui a aliéné de façon irrévocable en faveur d'un établissement ou d'une administration désignés un objet dont la valeur marchande1 a été fixée de nouveau dans le cadre du paragraphe 32(5) peut interjeter appel devant la Cour canadienne de l'impôt dans les quatre-vingt-dix jours suivant la date de délivrance du certificat visé au paragraphe 33(1).
+1 Note de l'éditeur : Il y a défaut de conformité des versions française et anglaise.
+(2) Sur un appel interjeté en vertu du présent article, la Cour canadienne de l'impôt peut confirmer ou modifier la valeur marchande fixée par la Commission et, pour l'application de la Loi de l'impôt sur le revenu, la valeur fixée par la Cour est réputée avoir été fixée par la Commission.
+L.C. 1995, ch. 38, art. 2.
+Appeals Before the Tax Court of Canada
+33.1 (1) Any person who has irrevocably disposed of an object, the fair market value1 of which has been redetermined under subsection 32(5), to a designated institution or public authority may, within ninety days after the day on which a certificate referred to in subsection 33(1) is issued in relation to that object, appeal the redetermination to the Tax Court of Canada.
+1 Publisher's note: There is a discrepancy between the English and French versions.
+(2) On an appeal under subsection (1), the Tax Court of Canada may confirm or vary the fair market value and, for the purposes of the Income Tax Act, the value fixed by the Court is deemed to be the fair market value of the object determined by the Review Board in respect of its disposition.
+S.C. 1995, c. 38, s. 2.
+Appeal of Redeter-mination of fair market value
+Decision of Court
+[7] Les dispositions de la Loi de l'impôt sur le revenu sont formulées en termes semblables; sauf qu'elles font référence à l' « objet » au singulier. (Voir paragraphes 118.1(1), (3) et (10)).
+[8] Il y a défaut de conformité des versions anglaise et française de l'article 33.1 de la Loi sur l'exportation et l'importation de biens culturels (ci-après la « Loi sur les biens culturels » ). Les paragraphes 33.1(1) et (2) de la version anglaise de la Loi sur les biens culturels, habilitent la Cour canadienne de l'impôt à confirmer ou à modifier la « juste valeur marchande » déterminée de nouveau en vertu du paragraphe 32(5) de la Loi sur biens culturels, alors que la version française des mêmes dispositions habilite la Cour à confirmer ou à modifier la « valeur marchande » ( « market value » ), au lieu de la « juste valeur marchande » ( « fair market value » ). Cependant, il n'y a de défaut de conformité des versions anglaise et française du paragraphe 32(5) de la Loi sur les biens culturels. Les deux versions prévoient que la Commission canadienne d'examen des exportations de biens culturels doit fixer la « juste valeur marchande » (the « fair market value » ) de tout objet qualifié de don de bien culturel, aux fins de l'article 118.1 de la Loi de l'impôt sur le revenu (ci-après la « LIR » ). Les dispositions pertinentes de la LIR et le bulletin d'interprétation de celles-ci emploient aussi l'expression « juste valeur marchande » dans les deux langues officielles. En conséquence, la Cour conclut que le sens ordinaire des dispositions en question l'oblige à confirmer ou à modifier la juste valeur marchande de l'objet.
+[9] Le différend entre les parties porte sur la nécessité de fixer la juste valeur marchande des oeuvres d'art, soit individuellement pour chaque objet, soit pour toutes les oeuvres considérées dans leur ensemble, quand elles sont vendues ensemble, de manière à ce que la valeur de l'ensemble diffère de celle de la somme de ses parties.
+[10] La troisième définition d' « objet » dans l'édition compacte du Oxford English Dictionary est ainsi rédigée :
+[traduction]
+« Une chose placée devant les yeux, ou présentée au sens de la vue ou à un autre sens; une chose particulière ou pouvant être vue ou perçue; une chose matérielle
+[...]
+Tout cela pour dire qu'il s'agit d'un singulier et non pas d'un pluriel.
+[11] Tout en gardant à l'esprit la question posée au paragraphe [12], il faut remarquer que tout objet singulier ayant fait l'objet d'un don, comme l'une des 981 peintures en question, peut constituer la totalité du don en soi. Le paragraphe 118.1(1) décrit le total des dons de biens culturels d'un particulier comme :
+« [...] le total des montants dont chacun représente la juste valeur marchande d'un don [...] »
+Voici la définition dans son intégralité :
+« total des dons de biens culturels » S'agissant du total des dons de biens culturels d'un particulier pour une année d'imposition, le total des montants dont chacun représente la juste valeur marchande d'un don qui répond aux conditions suivantes, dans la mesure où ces montants n'ont été ni déduits dans le calcul du revenu imposable du particulier pour une année d'imposition se terminant avant 1988, ni inclus dans le calcul d'un montant déduit en application du présent article dans le calcul de l'impôt payable par le particulier en vertu de la présente partie pour une année d'imposition antérieure :
+a) il s'agit du don d'un objet qui, selon la Commission canadienne d'examen des exportations de biens culturels, est conforme aux critères d'intérêt et d'importance énoncés au paragraphe 29(3) de la Loi sur l'exportation et l'importation de biens culturels;
+b) il s'agit d'un don que le particulier a fait au cours de l'année ou au cours d'une des cinq années d'imposition précédentes à un établissement ou une administration au Canada qui était, au moment du don, désigné, en application du paragraphe 32(2) de la Loi sur l'exportation et l'importation de biens culturels, à des fins générales ou à une fin particulière liée à cet objet.
+[...]
+[12] En fin de compte, la question est de savoir si la juste valeur marchande de chaque oeuvre doit être calculée individuellement ou, plutôt, si elle doit être calculée individuellement, mais dans le cadre d'une aliénation de 981 oeuvres, soit, de la manière dont chacune de ces oeuvres a été aliénée, au profit d'un établissement ou d'une administration publique, aux termes de l'article 32 de la Loi sur l'exportation et l'importation de biens culturels. Chaque disposition de cette Loi se réfère à un objet particulier. Par conséquent, même si l'objet peut être aliéné conjointement avec d'autres, la Loi le considère comme un objet particulier. La question de la valeur gît dans le cadre de cette disposition et non pas au niveau de la transaction entre l'appelant et Feist. Finalement, il s'agit de la disposition qui est visée par les termes de la Loi.
+[13] Mme Minard a évalué chaque objet individuellement, puis appliqué une réduction globale de 90 p. 100 sur chaque objet, en se fondant sur la prémisse que l'aliénation avait eu lieu dans le cadre du « marché des abris fiscaux » , dans lequel la valeur variait de 8 à 15 p. 100 de la juste valeur marchande de chaque objet à titre particulier. Elle a témoigné que, pour l'ensemble des 981 objets, elle a obtenu une valeur de 141 402,34 $ en décembre 1995, contrairement à la page 4 de son rapport. (Pièce R-2).
+[14] Le peintre, M. Feist, et son agente Mme Laverty, ont cédé les 981 objets à M. Malette et à son groupe pour le montant proposé initialement de 250 000 $, le 31 janvier 1997 au plus tôt. Après un certain marchandage basé sur une entente sur ce qu'ils considéraient comme la valeur nette de 25 p. 100 de la juste valeur marchande des oeuvres, ils sont finalement arrivés au prix final de 25 p. 100 du montant que la Commission inscrirait sur le certificat. Il s'agissait d'une « transaction à objectif fiscal » . Le vendeur a reçu 50 000 $ en espèces au moment de la vente. (Pièce R-5, Interrogatoire préalable de Charles Malette, 18 septembre 2002). Le solde n'avait pas encore été payé au moment de l'audience.
+[15] Le rapport de Mme Minard fixe la valeur des 981 oeuvres à 141 402,34 $, au mois de décembre 1995. L'aliénation au profit de la galerie d'Algoma a eu lieu le 22 juillet 1998. La Commission a décidé que la valeur du don à ce moment-là était de 293 246 $.
+[16] Mme Minard a déclaré dans son rapport que les oeuvres se divisent en cinq catégories différentes, chacune visant un marché différent. Quelques-unes étaient en mauvaise condition quand elle les a inspectées. Elle était d'avis que le montant payé par M. Malette à M. Feist [traduction] « pourrait être la meilleure indication de la juste valeur marchande » . M. Feist ne vendait en moyenne que deux oeuvres sur papier par an. La vente de ses toiles était meilleure. Des 981 oeuvres en question :
+Catégorie 1 - 610 oeuvres sur papier
+Catégorie 2 - 47 oeuvres sur papier
+Catégorie 3 - 70 estampes originales
+Catégorie 4 - 231 études, esquisses et concepts d'essai
+Catégorie 5 - 23 peintures sur de la mousse de polystyrène.
+[17] Compte tenu de l'exposé conjoint des faits, la véritable question qui se pose à la Cour est de savoir s'il faut, en l'espèce, appliquer une ristourne pour calculer la juste valeur marchande. Sans cette réduction, l'évaluation de Mme Minard serait environ dix fois supérieure au chiffre qu'elle a finalement proposé. La réduction globale escomptée par Mme Minard était fondé, certes, sur le « marché des abris fiscaux » . Le juge Mogan a abordé ainsi la question de la réduction globale, dans l'affaire Pustina, Whent et Zelinski c. La Reine, C.C.I., nos 92-423(IT)G, 92-424(IT)G, 92-425(IT)G, 12 juillet 1996 (96 DTC 1594), aux pages 1610 et 1611 :
+Je n'accepte pas la réduction globale de 50 p. 100 de M. Lake. Le marché ouvert hypothétique dans lequel la juste valeur marchande est déterminée suppose des acheteurs et des vendeurs agissant sans qu'aucune pression ne soit exercée sur eux pour que les oeuvres soient achetées ou vendues. Rien ne prouve que les appelants subissaient des pressions favorisant la disposition des oeuvres de Morrisseau. En fait, la preuve présentée par les appelants allait dans le sens contraire, et je crois ce qu'ils ont dit. Le fait qu'ils ont décidé de donner toutes les oeuvres de Morrisseau [96 DTC 1594 à la page 1611] dans une période de 24 mois ne signifie pas qu'ils auraient cherché à les vendre dans la même période s'ils avaient opté pour la solution de la vente. Enfin, M. Robinson était d'avis que les 216 oeuvres auraient pu être vendues au détail en deux ans si elles avaient été soigneusement regroupées et distribuées dans des galeries détaillantes choisies, depuis Montréal et Toronto jusqu'à Calgary et Vancouver. Je ne suis pas sûr de la manière dont M. Robinson a pu parvenir à cette conclusion alors qu'il y a si peu d'éléments de preuve quant à l'existence de galeries détaillantes vendant des tableaux de Morrisseau dans les années 1984, 1985 et 1986, mais l'idée me semble représenter une stratégie de commercialisation sensée pour un propriétaire décidant de vendre sans aucune pression.
+[...]
+En se fondant sur la preuve dont il était saisi selon laquelle la valeur des peintures de Morrisseau a atteint une valeur maximale de 3 $ par pouce carré, pour ensuite diminuer parallèlement à la dégradation de la vie personnelle de M. Morrisseau et de la galerie qui en faisait la promotion, et sur la base d'autres évaluations présentées en preuve, le juge Mogan a conclu à une valeur de 2 $ par pouce carré, qui a été confirmée en appel. Ce qui compte le plus en l'espèce, c'est le fait qu'il a rejeté la réduction globale. Il n'a pas fait référence au fait que le terme « objet » est toujours mentionné au singulier partout dans la loi. Mais, en abordant le concept de juste valeur marchande, il a fait référence à la possibilité de commercialiser les peintures au marché de détail d'une façon régulière, quoique sujette, jusqu'à une certaine mesure, aux circonstances concernant M. Morrisseau et la galerie.
+[18] En se fondant sur l'analyse du juge Mogan, admise par la Cour d'appel fédérale, ainsi que sur la permanence de la mention du terme « objet » au singulier dans la loi applicable, la Cour rejette le concept de regroupement en bloc dans le cadre d'un don à une galerie publique, comme c'est le cas en l'espèce. Les dons d'oeuvres à des galeries publiques sont souvent constitués de nombreuses oeuvres d'art. Il faut encourager les gens à effectuer ces dons, afin que les oeuvres soient présentées au public. Il est difficile d'imaginer que le don d'au moins dix peintures d'un peintre de grande renommée comme Renoir soit assujetti à une réduction. Un tel don serait plutôt applaudi. Il est également difficile d'imaginer que la juste valeur marchande de telles peintures doive subir une réduction globale. Au contraire, la valeur de la galerie serait multipliée aux yeux de la critique et du public.
+[19] Il n'y a aucun doute que c'est pour ces raisons que la loi fait référence à chaque objet à titre particulier.
+[20] Parce qu'elle conclut qu'il n'y a pas lieu d'appliquer de réduction globale, la Cour décide que la juste valeur marchande des 981 oeuvres d'art en question est de 828 000 $, comme l'ont convenu les parties dans la pièce A-3. L'évaluation de la Commission d'examen est modifiée en conséquence.
+[21] L'appelant a droit aux dépens entre parties.
+Signé à Regina (Saskatchewan) ce 13e jour d'août 2003.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 28e jour de mai 2004.
+Ingrid B. Miranda, traductrice

@@ -1,0 +1,348 @@
+Title: H.B. Barton Trucking Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29326/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-376-29326-h-b-barton-trucking-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-07-22
+
+# H.B. Barton Trucking Ltd. c. La Reine
+
+- Citation: 2009 CCI 376
+- Decision date: 2009-07-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7065, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+H.B. Barton Trucking Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-07-22
+Référence neutre
+2009 CCI 376
+Numéro de dossier
+2007-4015(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4015(IT)G
+ENTRE :
+H.B. BARTON TRUCKING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 26 février 2009, à Fredericton (Nouveau-Brunswick)
+Devant : La juge Valerie Miller
+Comparutions :
+Avocat de l’appelante :
+Me D. Andrew Rouse
+Avocats de l’intimée :
+Me John P. Bodurtha
+Me Devon Peavoy
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli avec dépens et les cotisations sont renvoyées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations au motif que l’appelante a droit à des crédits d’impôt à l’investissement pour les années d’imposition 2004 et 2005 relativement à l’équipement qu’elle a utilisé pour transporter des copeaux de bois à partir du site d’exploitation.
+Signé à Halifax (Nouvelle-Écosse), ce 22e jour de juillet 2009.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 13e jour d’octobre 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2009CCI376
+Date : 20090722
+Dossier : 2007-4015(IT)G
+ENTRE :
+H.B. BARTON TRUCKING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] À l’audience du présent appel, l’appelante a retiré son appel pour toutes les questions en litige soulevées dans l’avis d’appel, sauf une. La seule question qui reste à trancher est celle à savoir si l’appelante a le droit de demander un crédit d’impôt à l’investissement (CII) pour de l’équipement qu’elle a acheté durant les années d’imposition 2004 et 2005 pour transporter des copeaux de bois du site d’exploitation en forêt jusqu’à l’usine de pâtes et papiers. L’équipement en question est énuméré aux annexes A et B des présents motifs et l’information était jointe à l’exposé conjoint partiel des faits soumis par les parties.
+[2] L’exposé conjoint partiel des faits se lit comme suit :
+[traduction]
+1. L’appelante est une société constituée sous le régime des lois de la province du Nouveau-Brunswick.
+2. L’appelante a acheté des camions et de l’équipement au cours des années d’imposition 2004 et 2005.
+3. L’appelante a demandé des crédits d’impôt à l’investissement (CII) relativement à l’achat de camions et d’équipement durant les années d’imposition 2004 et 2005.
+4. Par avis de nouvelle cotisation datés du 10 août 2006, le ministre du Revenu national (le ministre) a établi à l’égard de l’appelante de nouvelles cotisations pour les années d’imposition 2004 et 2005 au motif que les biens en question (voir les annexes « A » et « B » jointes aux présents motifs) ne répondaient pas à la définition de bien admissible au crédit d’impôt à l’investissement (CII), au paragraphe 127(9) et à l’alinéa 127(11)b) de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), telle que modifiée ( la Loi).
+5. Un avis d’opposition valide a été déposé le 26 septembre 2006.
+6. Par avis de ratification daté du 16 juillet 2007, l’intimée a ratifié l’avis de nouvelle cotisation pour l’année d’imposition 2004.
+7. Par avis de nouvelle cotisation daté du 16 juillet 2007, l’intimée a modifié l’avis de nouvelle cotisation de l’année d’imposition 2005 afin de permettre des CII additionnels totalisant 13 279 $ basés sur des biens admissibles à ces crédits utilisés dans le cadre d’activités admissibles totalisant 132 787 $. Les montants suivants de CII ont donc été admis, permettant ainsi de réduire le montant total de CII refusés à 79 755 $ [93 034 $ - 13 279 $] :
+Montant d’investissement admissible
+132 787 $
+Pourcentage prescrit
+10 %
+Crédit pour l’année en cours
+13 279 $
+Réduction d’impôt pour l’année en cours (montant maximal)
+2 443 $
+Remboursement de CII ((13 279 $ - 2 443 $) x 40 %)
+4 334 $
+Report de CII
+6 501 $
+Total
+13 279 $
+8. Harold Barton était un actionnaire de l’appelante.
+9. L’appelante exploitait une entreprise de transport de copeaux de bois.
+10. L’appelante était un sous-entrepreneur indépendant engagé par J.D. Irving pour déchiqueter des billes de bois et transporter les copeaux directement à l’usine.
+11. Le processus de fabrication des copeaux de bois nécessite l’utilisation d’une pièce d’équipement appelée « abatteuse-empileuse » qui coupe l’arbre feuillu en entier avec les branches et le feuillage.
+12. Un « débardeur à pince » saisit ensuite l’arbre entier à son extrémité coupée et le transporte jusqu’à un chemin forestier où est installée une « déchiqueteuse portative ».
+13. La « déchiqueteuse portative » saisit l’arbre feuillu entier, le dépouille de son écorce et de ses branches, puis le déchiquette en copeaux de bois qui sont ensuite soufflés directement dans une « remorque à copeaux ».
+14. La « remorque à copeaux » est attachée au tracteur Volvo pendant ce processus.
+15. Une fois le chargement terminé, le tracteur Volvo et la « remorque à copeaux » quittent la forêt pour se rendre directement à l’usine.
+16. L’appelante n’était ni propriétaire de la concession forestière ni détentrice de droits de coupe.
+Année d’imposition 2004
+17. La date de fin de l’exercice financier de l’appelante était le 30 mars.
+18. Les biens mentionnés dans l’annexe « A » ont servi à transporter les copeaux de bois à l’usine.
+Année d’imposition 2005
+19. La date de fin de l’exercice financier de l’appelante était le 31 mars.
+20. Les biens énumérés à l’annexe « B » ont servi à transporter des copeaux de bois du lieu de coupe jusqu’à l’usine.
+21. Les biens énumérés à l’annexe « B », à l’exception du bien indiqué en caractères gras, ont été refusés par le ministre au titre de CII.
+22. Le bien faisant exception, soit le tracteur Volvo VNL64 d’un montant de 132 787 $, a été acheté de Lounsbury Leasing le 31 mars 2005 et financé selon les modalités d’un contrat de vente conditionnel conclu avec Wells Fargo.
+23. Les montants de CII admis pour l’année 2005 sont énumérés à l’annexe « C ».
+[3] À l’audience du présent appel, M. Daniel Murphy et M. Harold Barton ont témoigné au nom de l’appelante. M. William Eldridge, chef d’équipe à la Vérification pour l’Agence du revenu du Canada (ARC) à Saint John (Nouveau-Brunswick), a témoigné au nom de l’intimée.
+[4] M. Daniel Murphy travaille pour le ministère des Ressources naturelles (le ministère) de la province du Nouveau-Brunswick en qualité de directeur à la Direction de la gestion des forêts. À ce titre, l’une de ses responsabilités consiste à surveiller les activités forestières se déroulant sur les terres de la Couronne de la province.
+[5] Lors de son témoignage, M. Murphy a expliqué la procédure dans le cadre des opérations forestières effectuées sur les terres de la Couronne. Il a déclaré que les détenteurs de permis de coupe sur les terres de la Couronne étaient responsables de la planification des activités dans leur ensemble. Ces détenteurs de permis et les détenteurs de sous‑permis abattaient des arbres pour produire différents produits, selon la qualité du bois et l’utilisateur désigné. Parmi les produits provenant du site d’exploitation, mentionnons le bois de placage, les billes de sciage, la pulpe et les copeaux de bois. Tous ces produits sont considérés par l’industrie comme des produits forestiers de base ou des matières premières. Il a fait renvoi à la définition du « bois transformé » figurant à l’art. 1 de la Loi sur les terres et forêts de la Couronne, L. N.-B. 1980, ch. C-38.1, qui s’énonce comme suit :
+« bois transformé » désigne les produits secondaires dérivés du bois et manufacturés dans un établissement de transformation du bois;
+« établissement de transformation du bois » désigne une scierie dans laquelle le bois est transformé en produits secondaires dérivés du bois.
+[6] Lors de son témoignage, M. Murphy a indiqué que le ministère considérait le déchiquetage en copeaux des arbres abattus au site d’exploitation comme faisant partie de l’exploitation forestière vu qu’il s’agissait de la cueillette d’un produit forestier de base.
+[7] Conformément au témoignage de M. Murphy, la Loi sur les produits forestiers, L.R.N.-B. 1973, ch. F-21, étend la définition de « produits forestiers de base » aux copeaux de bois :
+1. Dans la présente loi
+[...]
+« produits forestiers de base » désigne
+a) tout produit non transformé des arbres forestiers et des espèces à bois dur ou tendre,
+b) les copeaux de bois et la biomasse fabriqués au site d’exploitation ou sur le site d’exploitation,
+mais ne comprend pas
+c) les arbres-conifères coupés pour être vendus comme arbres de Noël,
+d) les produits tirés de la sève des érables;
+[8] M. Murphy a déclaré qu’avant que soient utilisées les déchiqueteuses portatives, les arbres abattus devaient être dépouillés de leurs branches, coupés en billes, transportés jusqu’au chemin forestier, chargés sur un camion, transportés à l’usine de pâtes et papiers, retirés du camion, dépouillés de leur écorce, pour ensuite être passés à la déchiqueteuse. La nouvelle méthode est simplifiée, très efficace et rentable. Selon son témoignage, la méthode consistant à utiliser des déchiqueteuses portatives sur le site d’exploitation s’est répandue dans l’industrie forestière au cours des huit dernières années.
+[9] M. Harold Barton, président et unique actionnaire de l’intimée, a témoigné relativement aux méthodes actuelles d’exploitation forestière. Comme il l’a expliqué, lorsqu’il a commencé à travailler dans l’industrie forestière, il transportait du [traduction] « bois rond » parce que c’était la seule chose qu’il y avait à l’époque. Au fil du temps, J.D. Irving Limited a commencé à éliminer progressivement les salles de préparation du bois dans les usines de pâtes, préférant plutôt que des copeaux de bois soient livrés directement à partir des sites d’exploitation.
+[10] La méthode d’exploitation forestière actuelle fait appel à de nombreuses pièces d’équipement. L’une de ces pièces, appelée « abatteuse-empileuse », coupe l’arbre feuillu en entier avec les branches et le feuillage. Une autre pièce d’équipement connue sous le nom de « débardeur à pince » regroupe les arbres abattus, les saisit ensuite à leur extrémité coupée et les transporte jusqu’à un chemin forestier où est installée une déchiqueteuse portative. À l’aide de « fléaux », la déchiqueteuse portative dépouille l’arbre de son écorce, le déchiquette en copeaux et souffle les copeaux directement dans une remorque exploitée par l’appelante. La remorque, qui est attachée à l’un des tracteurs Volvo, est ensuite transportée jusqu’à l’usine de pâtes et papiers.
+[11] Comme l’a expliqué M. Barton, en déchiquetant les arbres entiers sur le site d’exploitation, on obtient un volume plus élevé du produit. Par ailleurs, en 2004 et 2005, à part servir de couverture forestière, l’écorce avait peu de valeur; en évitant d’avoir à transporter l’écorce jusqu’à l’usine, des économies additionnelles ont donc été réalisées.
+[12] Selon le témoignage de M. Eldridge, l’équipement utilisé pour transporter les billes du site d’exploitation jusqu’aux usines était admissible au CII. Il pouvait s’agir d’arbres entiers ou coupés en longueurs plus courtes, et l’équipement utilisé pour les transporter serait toujours admissible au CII.
+[13] M. Eldridge a déclaré que la livraison des billes à l’usine constituait la dernière étape de l’opération forestière. Autrefois, les copeaux de bois étaient produits dans la « salle de préparation du bois » à l’usine; il s’agissait là de l’étape initiale de la transformation du bois et non de l’exploitation forestière. À son avis, l’utilisation de déchiqueteuses sur le site d’exploitation a permis à l’industrie forestière de déplacer la « salle de préparation du bois » de la scierie au site d’exploitation.
+[14] Le paragraphe 127(5) de la Loi prévoit qu’un contribuable peut déduire un CII de son impôt qui, dans d’autres circonstances, serait payable en vertu de la partie I. Le paragraphe 127(9) de la Loi définit les termes CII et « bien admissible », en partie, comme suit :
+« crédit d’impôt à l’investissement » Le crédit d’impôt à l’investissement d’un contribuable à la fin d’une année d’imposition correspond à l’excédent éventuel du total des montants suivants :
+a) l’ensemble des montants représentant chacun le pourcentage déterminé du coût en capital, pour le contribuable, d’un bien admissible ou d’un bien certifié qu’il a acquis au cours de l’année,
+[…]
+« bien admissible » Relativement à un contribuable, bien (à l’exclusion d’un bien ou d’un ouvrage approuvé et d’un bien certifié) qui est :
+a) soit un bâtiment visé par règlement, dans la mesure où le contribuable l’a acquis après le 23 juin 1975,
+b) soit une machine ou du matériel visés par règlement et que le contribuable a acquis après le 23 juin 1975,
+qui avant l’acquisition, n’a été utilisé à aucune fin ni acquis pour être utilisé ou loué à quelque fin que ce soit, et :
+c) soit qu’il compte utiliser au Canada principalement à l’une des fins suivantes :
+(i) la fabrication ou la transformation de marchandises à vendre ou à louer,
+(ii) l’exploitation agricole ou la pêche,
+(iii) l’exploitation forestière [...]
+[15] Le paragraphe 4600(2) du Règlement prévoit ce qui suit :
+4600 Biens admissibles […]
+(2) Sont des machines prescrites ou constituent du matériel prescrit pour l’application de la définition de « bien admissible », au paragraphe 127(9) de la Loi, les biens amortissables suivants du contribuable qui ne sont pas déjà visés au paragraphe (1) : […]
+f) nonobstant l’alinéa e), un camion de débardage acquis après le 31 mars 1977, qui est utilisé dans le cadre d’une activité d’exploitation forestière et dont le poids, y compris le poids des biens dont le coût en capital est compris dans le coût en capital du camion à la date de l’acquisition (mais pour plus de certitude, ne comprend pas le poids du carburant), dépasse 16 000 livres;
+Cependant, pour l’application de la définition de « bien admissible » au paragraphe 127(9) de la Loi, le sous-alinéa 127(11)b)(i) énonce ce qui suit :
+127 (11) Précisions quant à la définition de « bien admissible » -- Pour l’application de la définition de « bien admissible » au paragraphe (9) :
+[...]
+b) il est entendu que les fins visées à l’alinéa c) de la définition de « bien admissible » au paragraphe (9), ne comprennent pas :
+(i) l’entreposage (sauf l’entreposage du grain), l’expédition, la vente ou la location de produits finis [...]
+[16] Selon le témoignage fourni par M. Eldridge, l’intimée considère que l’exploitation forestière a cessé lorsque les arbres ont été mis dans la déchiqueteuse et que le processus de fabrication et de traitement des arbres a alors commencé.
+[17] L’avocat de l’intimée a fait valoir que les copeaux de bois sont un produit fini et que le sous-alinéa 127(11)b)(i) prévoit expressément que les fins visées à l’alinéa 127(9)c) ne comprennent pas l’expédition de produits finis.
+[18] Je ne partage pas la position adoptée par l’intimée. Selon moi, il faut se rappeler les faits et les circonstances qui ont été considérés lorsque le CII a été introduit dans la Loi.
+[19] Dans l’arrêt Lor-Wes Contracting Ltd. c. La Reine[1], le juge MacGuigan a fait renvoi au Hansard afin de confirmer les conditions dont a tenu compte le législateur en vue de mettre en vigueur le crédit d’impôt à l’investissement. Voici ce qu’il a dit aux paragraphes 20 et 21 :
+20. En l'espèce, l'exposé budgétaire du 23 juin 1975 du ministre des Finances de l'époque décrit le besoin auquel répondait cette modification apportée à la Loi (Débats des Communes, le 23 juin 1975, page 7028) :
+Mesures de soutien des investissements
+Si nous voulons que notre économie demeure productive et concurrentielle tout en étant capable de fournir des emplois, nous devons disposer d'installations modernes de production. Il faut donc prévenir tout ralentissement des investissements. J'ai constaté avec un vif plaisir que les investissements productifs ont continué de s'accroître dans la conjoncture actuelle et je veux prendre toutes les mesures à ma disposition afin que cette progression persiste.
+Il est notoire que notre politique vise à favoriser un secteur de la transformation vigoureux. Nous avons accordé des encouragements fiscaux à long terme aux entreprises de fabrication et de transformation pour les aider à soutenir la concurrence sur les marchés intérieur et étranger. Les données présentées dans le Rapport définitif sur ces mesures fiscales témoignent de leur efficacité. Mais la situation économique actuelle appelle des initiatives nouvelles et plus larges.
+Je propose donc d'établir, à titre de stimulant supplémentaire et temporaire, un dégrèvement pour les investissements dans une gamme étendue de nouvelles installations de production. Ce dégrèvement s'élèvera à 5 p. cent des sommes investies dans des bâtiments, des machines et des équipements nouveaux destinés à servir principalement au Canada dans des entreprises de fabrication ou de transformation, d'exploitation pétrolière, gazière, minière ou forestière, d'agriculture ou de pêche. Le crédit s'appliquera au coût des machines et des équipements neufs acquis d'ici juillet 1977 [c'est moi qui souligne].
+21. Le malaise visé est clairement désigné comme étant "tout ralentissement des investissements". Un tel malaise pourrait être éliminé grâce à une activité appropriée quelle que soit son origine et il serait plus facile d'y parvenir en encourageant l'industrie forestière dans son ensemble. En fait, étant donné que la sous-traitance est une pratique généralisée dans l'industrie forestière, toute autre interprétation du texte aurait pour effet de réduire considérablement l'encouragement potentiel qu'il peut constituer pour les investisseurs dans cette industrie et d'assurer ainsi une réponse moins efficace au danger de ralentissement de l'économie qui a été identifié.
+[20] Le CII a été annoncé dans le cadre du budget de 1975 à titre de mesure incitative temporaire à l’investissement. Ce crédit a été prolongé et augmenté au fil des ans. À l’aide des CII, le législateur a créé un stimulus économique pour encourager l’investissement et le développement dans différents secteurs[2]. Il ne fait aucun doute que cette mesure incitative ne doit pas être réduite parce que l’industrie de l’exploitation forestière a évolué et amélioré son rendement.
+[21] Dans l’arrêt Lor-Wes Contracting Ltd. c. La Reine[3], le juge Dubé a défini l’exploitation forestière comme suit :
+[…] Par définition, "l'exploitation forestière" est l'ensemble des opérations qui consistent à abattre du bois et à transporter les billes hors de la forêt.
+[22] L’ARC a aussi adopté cette définition. Bien que l’exploitation forestière puisse être généralement considérée comme une exploitation incluant la coupe des arbres, le sciage de ces arbres en pièces et leur transport à destination d’une scierie, d’une usine de papier ou d’une autre installation similaire, il faut également reconnaître que les différentes étapes de ce processus varieront selon les conditions locales et la technologie.
+[23] M. Barton a décrit les méthodes actuelles d’exploitation forestière, consistant à utiliser une déchiqueteuse portative sur le site d’exploitation, comme étant une [traduction] « évolution » pour l’industrie de l’exploitation forestière. La déchiqueteuse portative permet à l’industrie d’être efficace et rentable. À mon avis, la définition de [traduction] « l’exploitation forestière » doit évoluer de concert avec l’industrie et inclure le transport des copeaux de bois à partir du site d’exploitation.
+[24] Dans l’arrêt Markevich c. Canada[4], la Cour suprême du Canada a déclaré que la méthode moderne d’interprétation des lois exige qu’on interprète les termes d’une loi [traduction] « dans leur contexte global, en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur »[5].
+[25] Pour assurer une interprétation téléologique et contextuelle de la loi en question, la définition de [traduction] « l’exploitation forestière » doit inclure le transport des copeaux de bois du site d’exploitation à l’usine de pâtes et papiers. Cette définition est en harmonie avec l’objet de la loi.
+[26] L’avocat de l’intimée a fait valoir que la production des copeaux de bois est un processus de transformation et, dès que la transformation a débuté, toute activité ultérieure ne fait pas partie du cadre de [traduction] « l’exploitation forestière».
+[27] Dans l’arrêt Nova Scotia Sand and Gravel Limited c. Sa Majesté la Reine[6], la Cour d’appel fédérale a dû interpréter l’expression [traduction] « production de minéraux industriels », une activité qui, comme l’exploitation forestière, est exclue de la « fabrication ou transformation » à l’article 125.1 de la Loi. Pour établir la portée de cette expression, le juge en chef Thurlow a examiné son contexte et a déclaré ce qui suit au paragraphe 12 :
+À propos de ce contexte, il convient de noter que l'article en question est le septième d'une liste de types d'opérations à exclure de l'expression "fabrication ou transformation", qui autrement engloberait sans doute, puisqu'on sent le besoin de les exclure, toutes les opérations prévues dans la liste. Il convient en outre de souligner que les opérations exclues en (i), l'exploitation agricole ou la pêche, en (ii), l'exploitation forestière, en (iv), l'exploitation d'un puits de pétrole ou de gaz, en (v), l'extraction de minéraux d'une ressource minérale, si tant est qu'on doive les considérer comme des opérations de fabrication ou de transformation, sont essentiellement des opérations de production de produits bruts de matières premières.
+[28] Bien que des opérations telles que l’exploitation forestière visent essentiellement à assurer la production d’une matière première ou forestière, il est reconnu, dans ces observations, qu’un certain degré de transformation est inévitable. Avant l’utilisation des déchiqueteuses portatives, les arbres entiers ne pouvaient pas simplement être coupés et transportés à l’usine. Il fallait enlever les branches et les feuilles, et les couper en longueurs maniables. Cette activité de transformation constituait une étape normale du processus de l’exploitation forestière.
+[29] Dans le cadre du présent appel, bien que la technologie utilisée dans les opérations d’exploitation forestière ait pu évoluer, le produit peut toujours être qualifié de matière première ou forestière. Les témoignages présentés par M. Murphy et M. Barton appuient cette conclusion.
+[30] Ils ont décrit les copeaux de bois provenant des déchiqueteuses portatives comme étant d’une qualité inférieure aux copeaux de bois produits dans une usine. M. Barton a déclaré que [traduction] « les copeaux produits par une déchiqueteuse portative ont des caractéristiques différentes de ceux provenant d’une scierie parce qu’ils (l’usine de pâtes et papiers) acceptent plus d’écorce dans les copeaux provenant d’une déchiqueteuse portative; ils acceptent plus de fines (fragments de matière de très petite dimension) ».
+[31] M. Murphy a décrit les copeaux de bois produits au site d’exploitation comme étant la matière brute destinée aux usines de pâtes et papiers.
+[32] Je conclus que les copeaux de bois transportés par l’appelante ne sont pas plus des produits finis que les billes qui étaient transportées avant que n’évolue l’industrie de l’exploitation forestière.
+[33] Voir l’affaire autrement pénaliserait indûment l’appelante pour des progrès qui ont permis à l’industrie de l’exploitation forestière de devenir plus rentable. Comme l’a fait remarquer le juge MacGuigan au paragraphe 21 de l’arrêt Lor-Wes Contracting Ltd., la meilleure façon d’atteindre l’objectif prévu du crédit d’impôt à l’investissement est en « encourageant l'industrie forestière dans son ensemble ». Le transport des copeaux de bois du site d’exploitation jusqu’à l’usine fait partie de l’industrie de l’exploitation forestière actuelle [traduction] « dans son ensemble ».
+[34] Pour ces motifs, l’appel est accueilli avec dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 22e jour de juillet 2009.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 13e jour d’octobre 2009.
+Mario Lagacé, jurilinguiste
+Annexe
+Annexe « A »
+Les biens suivants étaient non admissibles au CII :
+Catégorie (DPA)
+Description
+Date de disponibilité
+Montant de l’investissement
+10
+Remorque à copeaux BWS
+18-06-2003
+61 700 $
+10
+Remorque à copeaux BWS
+17-12-2003
+54 890 $
+10
+Remorque à copeaux BWS
+24-03-2004
+53 981 $
+16
+Tracteur Volvo VNL64T
+30-06-2003
+137 200 $
+16
+Tracteur Volvo VNL64T
+30-09-2003
+139 625 $
+16
+Tracteur Volvo VNL64T
+30-09-2003
+139 625 $
+Total
+587 021 $
+La réduction des biens admissibles ci-dessus a donné lieu à une réduction du CII de 587 021 $ x 10 %, ou 58 702 $ durant l’année en cours. En conséquence, les montants suivants de CII ont été refusés :
+Réduction d’impôt pour l’année en cours
+7 699 $
+Remboursement de CII
+20 401 $
+Report de CII
+30 602 $
+Total
+58 702 $
+Annexe « B »
+Les biens suivants, à l’exception d’un bien indiqué en caractères gras qui a été admis par l’agent d’appels, étaient non admissibles au CII :
+Catégorie (DPA)
+Description
+Date de disponibilité
+Montant de l’investissement
+16
+Tracteur Volvo VHD
+30-06-2004
+10 937 $
+16
+Tracteur Volvo VHD
+07-05-2004
+133 979 $
+16
+Tracteur Volvo VNL64
+07-05-2004
+129 111 $
+16
+Tracteur Volvo VNL64
+09-07-2004
+136 000 $
+16
+Tracteur Volvo VNL64
+04-05-2005
+131 287 $
+16
+Tracteur Volvo VNL64
+31-05-2005
+132 787 $
+16
+Remorque à copeaux BWS
+30-09-2004
+31 790 $
+16
+Remorque à copeaux BWS
+30-09-2004
+7 449 $
+16
+Remorque à copeaux BWS
+30-09-2004
+3 160 $
+16
+Remorque à copeaux BWS
+30-09-2004
+10 906 $
+16
+Remorque à copeaux BWS
+30-09-2004
+3 160 $
+16
+Remorque à copeaux Manac
+16-07-2004
+62 000 $
+16
+Remorque à copeaux Manac
+16-09-2004
+62 000 $
+16
+Remorque à copeaux Manac
+03-03-2005
+60 990 $
+16
+Remorque à copeaux BWS
+30-09-2004
+14 790 $
+Total
+930 346 $
+La réduction des biens admissibles ci-dessus a donné lieu à une réduction du CII de 930 346 $ x 10 %, ou 93 034 $, durant l’année en cours. En conséquence, les montants suivants de CII ont été refusés par le vérificateur :
+Réduction d’impôt pour l’année en cours
+9 852 $
+Remboursement de CII
+37 214 $
+Report de CII
+45 968 $
+Total
+93 034 $
+Annexe « C »
+Les montants suivants de CII ont été admis par l’agent d’appels pour l’année 2005 :
+Montant d’investissement admissible
+132 787 $
+Pourcentage prescrit
+10 %
+Crédit pour l’année en cours
+13 279 $
+Réduction d’impôt pour l’année en cours (montant maximal)
+2 443 $
+Remboursement de CII ((13 279 $ - 2 443 $) x 40 %)
+4 334 $
+Report de CII
+6 501 $
+Total
+13 279 $
+RÉFÉRENCE : 2009CCI376
+NO DU DOSSIER DE LA COUR : 2007-4015(IT)G
+INTITULÉ : H.B. BARTON TRUCKING LTD. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Fredericton (Nouveau-Brunswick)
+DATE DE L’AUDIENCE : Le 26 février 2009
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 22 juillet 2009
+COMPARUTIONS :
+Avocat de l’appelante :
+Me D. Andrew Rouse
+Avocats de l’intimée :
+Me John P. Bodurtha
+Me Devon Peavoy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me D. Andrew Rouse
+Cabinet : Mockler, Peters, Oley, Rouse
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] [1985] 2 C.T.C. 79 (C.A.F.), au paragraphe 20
+[2] Gaston Cellard Inc. c. La Reine, 2005 DTC 699 (CCI)
+[3] [1983] 2 C.F. 11, au paragraphe 16 (infirmé pour d’autres motifs, [1985] 2 C.T.C. 79 (C.A.F.)
+[4] 2003 CSC 9
+[5] Précité, au paragraphe 12
+[6] [1980] C.T.C. 378 (C.A.F.)

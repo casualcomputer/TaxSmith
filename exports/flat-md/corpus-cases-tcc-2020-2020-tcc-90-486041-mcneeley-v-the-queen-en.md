@@ -1,0 +1,292 @@
+---
+title: "McNeeley v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/486041/index.do"
+last_modified: "2020-09-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 90"
+citation2: ""
+neutral_citation: "2020 TCC 90"
+decision_date: "2020-09-29"
+language: "en"
+item_id: "486041"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4567
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:02:58.472000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "57a5d319569bd9e1ced1630be6c84d2acb44fe9a64ee8dbf1b53bca1157a9dd3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McNeeley v. The Queen
+
+- Citation: 2020 TCC 90
+- Decision date: 2020-09-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4567, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McNeeley v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-09-29
+Neutral citation
+2020 TCC 90
+File numbers
+2016-5407(IT)G, 2017-4712(IT)G, 2018-1458(IT)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-5407(IT)G
+BETWEEN:
+MATHEW MCNEELEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of
+Kenneth Chapman (2017-4712(IT)G) and John A. Baker (2018‑1458(IT)G) on November 20 and 21, 2019, at Hamilton, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+Counsel for the Appellant:
+Salvatore Mirandola
+Counsel for the Respondent:
+Lindsay Tohn
+JUDGMENT
+The appeal of the Appellant’s 2012 taxation year reassessment raised April 11, 2016 under the federal Income Tax Act is dismissed, with costs to the Respondent fixed at $5,000, payable by the Appellant within 30 days of the issuance date of this Judgment.
+Signed at Ottawa, Canada, this 29th day of September 2020.
+“B.Russell”
+Russell J.
+Docket: 2017-4712(IT)G
+BETWEEN:
+KENNETH CHAPMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of
+Mathew McNeeley (2016-5407(IT)G) and John A. Baker (2018‑1458(IT)G) on November 20 and 21, 2019, at Hamilton, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+Counsel for the Appellant:
+Salvatore Mirandola
+Counsel for the Respondent:
+Lindsay Tohn
+JUDGMENT
+The appeal of the Appellant’s 2012 taxation year reassessment raised May 5, 2016 under the federal Income Tax Act is dismissed, with costs to the Respondent fixed at $5,000 payable by the Appellant within 30 days of the issuance date of this Judgment.
+Signed at Ottawa, Canada, this 29th day of September 2020.
+“B.Russell”
+Russell J.
+Docket: 2018-1458(IT)G
+BETWEEN:
+JOHN A. BAKER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of
+Mathew McNeeley (2016-5407(IT)G) and Kenneth Chapman (2017‑4712(IT)G) on November 20 and 21, 2019, at Hamilton, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+Counsel for the Appellant:
+Salvatore Mirandola
+Counsel for the Respondent:
+Lindsay Tohn
+JUDGMENT
+The appeal of the Appellant’s 2012 taxation year reassessment raised May 6, 2016 under the federal Income Tax Act is dismissed, with costs to the Respondent fixed at $8,000 payable by the Appellant within 30 days of the issuance date of this Judgment.
+Signed at Ottawa, Canada, this 29th day of September 2020.
+“B.Russell”
+Russell J.
+Citation: 2020 TCC 90
+Date: 20201002
+Docket: 2016-5407(IT)G
+BETWEEN:
+MATHEW MCNEELEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2017-4712(IT)G
+AND BETWEEN:
+KENNETH CHAPMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2018-1458(IT)G
+AND BETWEEN:
+JOHN A. BAKER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Russell J.
+[1] These reasons for judgment in part address the statutory device of “employee benefit plan” provided for in the federal Income Tax Act (Act), of which there is limited jurisprudence. Except as otherwise stated, statutory references herein are to provisions of the Act.
+I. Reassessments/Issues:
+[2] The three appellants - Messrs. McNeeley, Chapman and Baker - appeal their 2012 taxation year reassessments respectively raised under the Act by the Minister of National Revenue (Minister) on April 11, 2016, May 5, 2016 and May 6, 2016. Each of the three reassessments reflects the Minister’s conclusion that the particular appellant had received corporate shares from a trust that constituted an employee benefit plan (EBP) as provided for in the Act. Thus according to the Minister, each appellant per paragraph 6(1)(g) should have reported the fair market value of his received shares as income from an office or employment. The appellants had instead reported the aggregate fair market values of their received shares as trust capital distributions, per section 107.
+[3] The appellants submit that the appealed reassessments are wrong, on the basis that the trust distributing the shares was a “prescribed trust” pursuant to section 4800.1 of the Income Tax Regulations (regulation 4800.1). They say that rules of statutory construction require that provisions in the Act pertaining to prescribed trusts supersede those pertaining to trust EBPs.
+[4] The parties identified and addressed the following issues:
+a) is the particular trust an EBP?
+b) is the particular trust a prescribed trust?
+c) if the particular trust is both an EBP and a prescribed trust, do prescribed trust rules in the Act supersede EBP rules in the Act applicable to trusts?
+d) alternatively, do EBP trust rules in the Act not apply to the two share distributions that Mr. Baker received, on the asserted basis that in his circumstances paragraph 6(1)(a) would not apply?
+II. Evidence:
+[5] These three appeals were heard on common evidence, consisting of a “partial agreed statement of facts”, various documentary exhibits and testimony of Mr. Baker.
+[6] The evidence established certain key facts, as follow (derived largely from the partial agreed statement of facts):
+in 1999 Mr. Baker founded a learning software business. In 2000 that business was incorporated and currently is named D2L Corporation (D2L). At all relevant times each appellant was a D2L employee. Also at all relevant times Mr. Baker was the president and chief executive officer of D2L, and until 2006 its sole shareholder;
+in late 2005 Mr. Baker’s mother, Mrs. Baker, contributed $210 in the settlement of a trust named Desire2Learn Employee Stock Trust (Trust), in accordance with the terms of a written agreement (Trust Agreement) signed by her as settlor and by the Trust’s then three trustees, one of whom at all relevant times was the appellant Mr. Baker;
+the Trust Agreement’s preamble provides that the Trust was established, “...for the benefit of certain employees of [D2L] and its affiliates...”. Beneficiaries of the Trust had to be full-time employees of D2L named on a list annexed to the Trust Agreement and such other employees as the D2L directors might designate in separate addenda to the Trust Agreement (article 1.1).
+the Trust’s objects were to acquire D2L securities to be held for the benefit of the beneficiaries (article 3.1). The Trust’s trustees were to allocate and distribute any number of the Trust’s shares to any one or more of the beneficiaries, “in such manner and proportion as the Trustee [sic] in their absolute discretion may determine” (articles 2.6, 4.1, 4.2, 4.3, 4.6). No shares held by the Trust were to be allocated to anyone not a D2L employee as of a defined date (article 4.3). All decisions of the trustees were to be made “in their sole discretion”;
+on January 1, 2006, the Trust subscribed for 2,950 Class B common shares of D2L at their aggregate fair market value of $10. Also, Mr. Baker sold his D2L shares to his wholly owned corporation, 2089785 Ontario Inc. (208Co);
+on January 2, 2011, D2L Holdings Inc. (D2L Parent) was incorporated, and D2L became D2L Parent’s wholly-owned subsidiary. The Trust exchanged its 2,950 D2L Class B common shares for an equal number of D2L Parent Class B common shares;
+on August 13, 2012, the Trust Agreement was amended to provide that the Trust was established for the benefit of certain employees of “[D2L Parent] and its affiliates”;
+on August 20, 2012, Mr. Baker caused 2339351 Ontario Inc. (233Co) to be incorporated. On August 23, 2012 he sold a portion of his 208Co shareholdings to 233Co for 1,000 233Co common shares and elected under subsection 85(1) re that sale;
+on August 24, 2012, D2L Parent amalgamated with 208Co and the amalgamated company retained the name D2L Holdings Inc. (amalgamated D2L Holdings). On amalgamation the 2,950 D2L Parent Class B common shares held by the Trust were exchanged for inter alia 3,705,344 non-voting amalgamated D2L Holdings Class B common shares (B Share(s));
+on August 24, 2012, with each B Share having a fair market value of $8.415, the Trust distributed 3,356,415 B Shares to various beneficiaries, including 2,317,109 to Mr. Baker and 71,772.18 to Mr. Chapman;
+the Trust elected per subsection 107(2.001) to apply subsection 107(2.1) in respect of the August 24, 2012 distribution of B Shares to beneficiaries other than Mr. Baker. The Trust reported a taxable capital gain of 50% of the fair market value of the B Shares distributed to the beneficiaries other than Mr. Baker, as the B Shares’ adjusted cost base was nominal;
+the Trust filed on the basis that subsection 107(2) applied to deem Mr. Baker to have received his August 24, 2012 distribution of 2,317,209 B Shares at their nominal adjusted cost base;
+on August 24, 2012, the Trust beneficiaries who received B Shares on that date (other than Mr. Baker) sold their 1,039,306 B Shares to 233Co for the aggregate sum of $8,745,760. On that same day Mr. Baker sold his 2,317,109 B Shares to 233Co in exchange for shares of 233Co having in aggregate a fair market value equal to that of the transferred B Shares. He did not report a gain on this sale as a subsection 85(1) election had been filed;
+on October 15, 2012, with each B Share having a fair market value of $8.415, the Trust distributed its remaining 348,929 B Shares to 227 beneficiaries, including 707.66 to Mr. McNeeley and 50,384.96 to Mr. Baker;
+the Trust elected per subsection 107(2.001) to apply subsection 107(2.1) to the October 15, 2012 distribution of B Shares. The Trust accordingly reported a taxable capital gain equal to 50% of the fair market value of the B Shares then distributed, on the basis that the B Shares’ adjusted cost base was nominal;
+on October 15, 2012, Mr. Baker sold his 50,384.96 B Shares to 233Co for $423,991. On the same day, the 226 Beneficiaries other than Mr. Baker, including Mr. McNeeley and excluding Mr. Chapman, sold their 298.544.04 B Shares to 233Co for $2,512,248.
+III. Analysis:
+A. Is the Trust an “employee benefit plan”?
+[7] The respondent asserts that the Trust is an EBP. At the hearing, appellants’ counsel did not explicitly concede this. The definition of “employee benefit plan” (EBP, as above designated) at subsection 248(1) provides in relevant part:
+“employee benefit plan” means an arrangement under which contributions are made by an employer or by any person with whom the employer does not deal at arm’s length to another person (in this Act referred to as the “custodian” of an employee benefit plan) and under which one or more payments are to be made to or for the benefit of employees or former employees of the employer or persons who do not deal at arm’s length with any such employer or former employer (other than a payment that, if section 6 were read without reference to subparagraph 6(1)(a)(ii) and paragraph 6(1)(g), would not be required to be included in computing the income of the recipient or of an employee or former employee), but does not include any portion of the arrangement that is...[(a)...(b)...(c)...(c.1)...(c.2)...(d)...(e).
+[8] The parties concur that none of clauses (a) through (e) of this definition is relevant to these three appeals.
+[9] Referenced in the EBP definition are paragraphs 6(1)(a) and 6(1)(g), which provide in relevant part:
+6 (1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+(a) (value of benefits) the value of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer, or by a person who does not deal at arm’s length with the taxpayer, in the year in respect of, in the course of, or by virtue of the taxpayer’s office or employment, except any benefit…
+(ii) under a retirement compensation arrangement, an employee benefit plan or an employee trust […]
+(g) (employee benefit plan payments) the total of all amounts each of which is an amount received by the taxpayer in the year out of or under an employee benefit plan or from the disposition of any interest in any such plan, other than the portion thereof that is…
+[10] The genesis of the EBP concept is explained in Canada Revenue Agency Interpretation Bulletin IT-502, issued March 28, 1985 (archived 1995), para. 1:
+Prior to 1980 certain plans existed [commonly referred to as deferred compensation plans] in which an employee and employer would arrange to defer payment of part or all of the employee’s compensation by placing the compensation in the custody of a third party. Provided the employee had no immediate right to the compensation the tax on the compensation would be deferred until it was eventually paid to the employee by the third party, whereas the employer would receive an income deduction in the year it was paid to the third party. These plans...were not subject to the provisions of Division G of the [Act] which regulates deferred and other special income arrangements. [The EBP was] ...introduced...for taxation years after 1979 to match the timing of the [employer’s income deduction] with the inclusion of the deferred compensation in the employee’s income.
+[11] Thus, in the context of various types of employer/employee deferred compensation plans in existence, Parliament introduced the EBP statutory device for temporally matching employer income deductions and employee income inclusions. Accordingly subparagraph 6(1)(a)(ii) releases employees from having to, per paragraph 6(1)(a), include any amount in income when their employer makes a contribution to an EBP. Paragraph 6(1)(b) then requires the fair market values of all property employees receive from an EBP or disposition of interest therein to be reported as income from office or employment (subject to stated exceptions).
+[12] In like vein, paragraph 18(1)(o) denies employers a deduction at the time a contribution is made, but per section 32.1 they may within limits claim such deduction upon the EBP having made payments/distributed property to employee beneficiaries. The deduction is conditional upon contribution to the EBP being included in the income of employees. Section 32.1 provides specific rules to achieve this result and to ensure that the deduction available to an employer is limited to contributions in respect of the employer’s own employees or former employees. Paragraph 12(1)(n.1) requires the employer to include in income for a taxation year any amounts that the employer may have received in that year from an EBP.
+[13] Further, briefly, there is limited jurisprudence regarding EBPs. In Crighton v. MNR, 91 DTC 511 (TCC), Watson, DTCJ considered whether an amount paid by the taxpayer appellant’s former employer into a trust established for the appellant was taxable as a retiring allowance in the year of payment into the trust, or, were the trust an EBP, taxable in a subsequent year when the sum would be distributed from the trust. The Court described the EBP definition (para. 13) as “very broad”. Noting that the quantum of the employer’s payment into the trust had been extensively negotiated with the estranged employee (in the context of a potential wrongful dismissal claim) and that the settled amount would not be payable to the former employee until a future time, the Court found that the trust fit the broad EBP definition. Hence, the subject amount would not be taxable until the year of pay-out. Had an EBP not been found, the amount to be paid would have been considered taxable in the hands of the employee in the year of payment into the trust - as a retiring allowance, a paragraph 6(1)(a) benefit or a subsection 56(2) indirect payment.
+[14] Lastly as to general context of EBPs, in MNR v. Chrysler Canada Ltd., 91 DTC 5526 (FCTD), Strayer, J. as he then was found that an employee stock ownership plan developed by Chrysler for employees fit the subsection 248(1) EBP definition, but also the requirements of subsection 7(1) for being an agreement to issue stock options. Subsequently in MNR v. Chrysler Canada Ltd., 92 DTC 6346 (FCTD), Strayer, J. concluded that the subsection 7(1) stock option agreement was more specific than the relatively broad definitional parameters governing an EBP. Thus, the Court found the employee stock ownership plan to be an agreement to issue stock options and not an EBP, with differing tax attributes accordingly.
+[15] In the appeals at bar the respondent expresses as follows (brief, para. 65) how the first part of the EBP definition - extending to but not including the parenthesized portion commencing with the words, “other than a payment...” - applies in respect of the Trust:
+[65] [T]here is an arrangement (the Trust) under which contributions are made (the $210 initial contribution) by a person (Mrs. Baker) with whom the employer (D2L) does not deal at arm’s length (Mrs. Baker was a blood relative of D2’s sole shareholder) to another person (the Trustees) and under which one or more payments are to be made (payments of Trust income or property) to or for the benefit of employees or former employees (the Beneficiaries) of the employer (D2L).
+[16] The appellants take no issue with that analysis, so far as it goes, up to the parenthetical portion commencing, “other than a payment…”. Alone of the three appellants, Mr. Baker submits that that parenthetical language serves to exclude his two Trust share distributions as being EBP payments. That is the final issue herein addressed.
+[17] However, as it is part of the EBP definition, I here consider the interpretation of that parenthetical portion. It reads in full, “... (other than a payment that, if section 6 were read without reference to subparagraph 6(1)(a)(ii) and paragraph 6(1)(g), would not be required to be included in computing the income of the recipient or of an employee or former employee) ...”.
+[18] Both subparagraph 6(1)(a)(ii) and paragraph 6(1)(g), set out above, are referenced in this parenthesized passage. Subparagraph 6(1)(a)(ii) excepts an EBP payment from being an employment or office benefit that as such would be taxable per subparagraph 6(1)(a) for being included in computing income from office or employment. Paragraph 6(1)(g) provides that amounts received from EBPs (other than any portions of amounts identified in subparagraphs (i) through (iv) thereof, none of which applies in these appeals), constitute income from an office or employment (and thus are taxable per paragraph 6(1)(g)).
+[19] The appellants submit (brief, para. 15) that this parenthetical language, “means that the EBP rules are intended to apply only to those payments that would otherwise be taxable under section 6 as benefits from an office or employment.” This interpretation is broadly consistent with the Minister’s statement in CRA Views, 5-8438 (Sept. 13, 1989) that, “[b]ased on our review of our files, we have concluded that this parenthetical clause is a ‘fail-safe’ provision designed to ensure that, should some payment that would not be taxable be found to be taxable under the definition of EBPs, this clause will restore the payment to a non-taxable status.”
+[20] The respondent, however, submits regarding this parenthesized segment (brief, para. 89):
+The parenthetical, when it applies, functions to exclude an entire arrangement from the definition of an EBP. The parenthetical is part of the definition of an employee benefit plan; whether the payments are excluded goes to determining whether an arrangement is an employee benefit plan. The parenthetical does not provide for the bifurcation of an arrangement or for the bifurcation of payments received out of or under an arrangement.
+[21] I do not accept this latter interpretation. My view is that this parenthetical language is a carve-out of payments, not entire arrangements. This language is to ensure that the ambit of an EBP does not include payments that, absent EBP provisions subparagraph 6(1)(a)(ii) and paragraph 6(1)(g), would not be required to be included in computing the recipient’s taxable income.
+[22] Had Parliament intended an “all or nothing” mechanism I anticipate it would have commenced the parenthetical language with such words as, “other than an arrangement” - not, “other than a payment”. I conclude that the EBP definition provides a carve-out from an EBP that excludes any payment that would have not been taxable were section 6 read without subparagraph 6(1)(a)(ii) and paragraph 6(1)(g).
+[23] Notably, the appellants do not contest that the respective Trust B Shares transfers to Messrs. McNeeley and Chapman constituted, per the EBP definition, “one or more payments…made to or for the benefit of employees of the employer…”.
+[24] I conclude that the Trust in these three appeals is an EBP.
+B. Is the Trust a prescribed trust?
+[25] The appellants submit that the Trust is a “prescribed trust”, as defined at regulation 4800.1. Paragraphs (a), (b) and (c) of that definition identify three types of prescribed trusts – respectively, trusts established to hold shares of an employer, trusts established to secure debts and voting trusts. The only type of prescribed trust relevant in these appeals is the type per paragraph (a), i.e., trusts established to hold shares of an employer. Regulation 4800.1 and paragraph (a) thereof provide as follows:
+4800.1 [Prescribed trusts] - For the purposes of paragraph 107(1)(a) and subsections 107(1.1), (2) and (4.1) of the Act, the following are prescribed trusts:
+(a) a trust maintained primarily for the benefit of employees of a corporation or two or more corporations which do not deal at arm’s length with each other, where one of the main purposes of the trust is to hold interests in shares of the capital stock of the corporation or corporations, as the case may be, or any corporation not dealing at arm’s length therewith;
+[26] This wording specifies at its outset that the “prescribed trusts” term is defined, “[f]or the purposes of paragraph 107(1)(a) and subsections 107(1.1), (2) and (4.1) of the Act…”. Each of these four specified provisions is part of the above referenced section 107.
+[27] The appellants say that the Trust is a prescribed trust, referencing paragraph (a) of the regulation 4800.1 definition set out above. First, is the Trust, in the words of paragraph (a), “a trust maintained primarily for the benefit of employees of a corporation or two or more corporations which do not deal at arm’s eight with each other”? The answer would be yes (although one might quibble that the Trust was not set up “primarily”, but rather entirely, for the benefit of employees of one or more related corporations). Second, again per paragraph (a), was “one of the main purposes” of the Trust, “…to hold interests in shares of the capital stock of the [employer] corporation[s]…”? The answer to this would as well be in the affirmative.
+[28] That seems from the appellants’ brief to be the extent of the appellants’ analysis that the Trust is a prescribed trust. However, paragraph (a) by itself does not wholly encompass the “prescribed trusts” definition. As noted the wording of that regulation 4800.1 definition leads with a clear statement that the “prescribed trusts” term is defined for the purposes of four specified provisions of section 107.
+[29] I move now to paragraphs (a) and (a.1) of the subsection 108(1) definition of “trust”. They read in relevant part:
+108(1) In this subdivision [subdivision k, encompassing sections 104 - 108 of the Act] … “trust” includes an inter vivos trust and a testamentary trust but in…sections 105 to 107 does not include
+(a)…an employee benefit plan…,
+(a.1) a trust (other than a trust described in paragraph (a) or (d), a trust to which subsection 7(2) or (6) applies or a trust prescribed for the purpose of subsection 107(2)) all or substantially all of the property of which is held for the purpose of providing benefits to individuals each of whom is provided with benefits in respect of, or because of, an office or employment or former office or employment of any individual,
+[30] Paragraph (a) of the subsection 108(1) “trust” definition specifies that any reference to “trust” in section 107 does not include an EBP. References to “trust” appear in subsections 107(2) and 107(2.1), set out below, which reflect the rules followed by the appellants for distributions of property (shares) from the Trust. Subsections 107(2) and 107(2.1) read in part as follows:
+107(2) Distribution [rollout] by personal trust - Subject to subsections (2.001), (2.002) and (4) to (5), if at any time the property of a personal trust or a prescribed trust is distributed (other than as a SIFT trust wind-up event) by the trust to a taxpayer who was a beneficiary under the trust and there is a resulting disposition of all or any part of the taxpayer’s capital interest in the trust…
+107(2.1) Other distributions - Where at any time a property of a trust is distributed by the trust to a beneficiary under the trust, thee would if this Act were read without reference to paragraphs (h) and (i) of the definition “disposition” in subsection 248(1), be a resulting disposition of all or any part of the beneficiary’s capital interest in the trust…
+[31] As paragraph (a) of the subsection 108(1) “trust” definition excludes EBP trusts from any and all references to “trust” in section 107, while at the same time certain provisions of section 107 constitute the statutory basis for prescribed trusts, it would seem no EBP could concurrently be a prescribed trust. In particular, the Trust, being an EBP, cannot as well be a prescribed trust.
+[32] However, the appellants contend that paragraph (a.1) of the “trust” definition, set out above, introduces ambiguity that unseats the conclusion that an EBP trust cannot be a prescribed trust. Their argument starts with the assumption that the Trust is both an EBP and a prescribed trust (brief, para. 38). They say, “[i]f we assume that the Trust is both an employee benefit plan and a prescribed trust…”.
+[33] That premise I have rejected, above. As there noted, the appellants submitted that the Trust is a prescribed trust, solely on the basis of the wording of paragraph (a) of the regulation 4800.1 definition of “prescribed trusts”. They omitted addressing the introductory words of that definition - that the “prescribed trusts” term is defined, “[f]or the purposes of paragraph 107(1)(a) and subsections 107(1.1), (2) and (4.1) of the Act…”.
+[34] The appellants say that there is ambiguity because (brief, para. 38) while paragraph (a) of the subsection 108(1) “trust” definition appears to exclude the Trust from “trust” status for purposes of section 107, paragraph (a.1) appears to not exclude subsection 107(2) purposed prescribed trusts from that same definition. (Note there is no reference in this context to subsection 107(2.1)).
+[35] The appellants conclude stating, “[i]n other words, if the trust in question is a prescribed trust [which as noted they already have assumed, in the same para. 38 of their brief], “trust” status for application of section 107 is restored in paragraph (a.1).” Their submission is that the two paragraphs (a) and (a.1) are inconsistent inter se, resulting in ambiguity requiring resort to canons of statutory interpretation that would indicate that the section 107 prescribed trust rules prevail over the conflicting section 6 EBP rules.
+[36] I see no ambiguity. As noted, paragraph (a) of the subsection 108(1) “trust” definition provides that the term “trust” in, inter alia, section 107 does not include EBP trusts, i.e. trusts governed by an EBP. Paragraph (a.1) provides that the term “trust”, in section 107, does not include a trust of which most or all of its property is held for the purpose of providing benefits to individuals in respect of their present or former office or employment. But carved out of this generally expressed paragraph (a.1) exclusion is, inter alia, “a trust prescribed for the purpose of subsection 107(2)”. In my view that clearly means, noting the opening words of the “trust” definition, that the term “trust” appearing in, inter alia section 107 does indeed include, “a trust prescribed for the purpose of subsection 107(2)”.
+[37] That paragraph (a.1) phrase is part of an exclusion from an exclusion. Certainly, a trust prescribed for the purpose of subsection 107(2) can exist simpliciter. However, it remains that should a trust be an EBP it cannot also be a prescribed trust. That is by virtue of the above-referenced paragraph 108(1)(a) exclusion of EBP trusts from section 107 “trust” references, and as well from the fact that per regulation 4800.1 the concept of “prescribed trusts” exists only for purposes of one or other of four specified section 107 provisions.
+[38] I add regarding the subsection 108(1) “trust” definition, superfluously perhaps, that inclusion of the paragraph (a) exclusion of inter alia EBPs in paragraph (a.1)’s exclusion from its own generally phrased exclusion does not raise an inconsistency. But for the exclusion from this generally phrased exclusion, the generally phrased exclusion could be thought to include EBPs, raising the question why the paragraph (a) EBP exclusion was not, on its own, sufficient.
+[39] Lastly, the appellants submit (brief, paras. 41-46) that the respondent’s argument “presumes that the [EBP] rules prevail over the prescribed trust rules”. I do not perceive that from the respondent’s submissions, and regardless, I neither make nor otherwise rely upon any such presumption in my analysis herein.
+[40] On the basis of the foregoing, I find that neither paragraph (a.1) of the subsection 108(1) “trust” definition, nor any presumed presumption favouring EBP rules over prescribed trust rules, affects my conclusion that the Trust is an EBP trust; and as such cannot also be, and is not, a prescribed trust.
+[41] This result would not have differed had I approached this analysis in reverse order, considering first whether the Trust was a prescribed trust and secondly was it an EBP. I followed the order of issues as treated by the parties.
+C. If the Trust is a prescribed trust, do prescribed trust rules supersede EBP trust rules?
+[42] As I have concluded that the Trust is an EBP but not also a prescribed trust, the premise of the issue expressed immediately above is not established. Therefore, in these appeals the prescribed trust rules of the Act do not at all apply, let alone supersede the EBP rules of the Act.
+D. Alternatively, do EBP rules in the Act not apply to the two share distributions that Mr. Baker received, on the asserted basis that paragraph 6(1)(a) of the Act would not apply in his circumstances?
+[43] Solely in Mr. Baker’s appeal, it is submitted that his two share distributions from the Trust were not EBP payments, because of the above discussed parenthetical carve-out in the subsection 248(1) EBP definition. In the language of the carve-out, the submission is that, were section 6 of the Act read excluding subparagraph 6(1)(a)(ii) and paragraph 6(1)(g), the two Baker distributions would not be taxable, and thus would be carved out from being EBP payments.
+[44] Counsel identifies that in reading section 6 excluding the two stated section 6 provisions, the only remaining provision that potentially could have rendered those distributions taxable is paragraph 6(1)(a). Neither party identified any other provision of the Act as potentially applicable. Paragraph 6(1)(a) is broadly drafted, reading in relevant part:
+[to be] ...included in computing the income of a taxpayer for a taxation year as income from an office or employment...[is]...the value of...benefits of any kind whatever received or enjoyed by the taxpayer...in the year in respect of, in the course of, or by virtue of the taxpayer’s office or employment... [Underlining added for emphasis]
+[45] As stated, at all material times Mr. Baker was the ranking employee of the operating company, D2L, being president and CEO (and likewise of D2L Parent). He also at all material times was one of the Trust’s three trustees. There was no evidence that the trustees’ two decisions (August and October, 2012) as to quantum of B Shares to be distributed to Mr. Baker were less than unanimous.
+[46] In 2012, the Trust’s trustees made their decisions respecting the number of B Shares the Trust would distribute to individual employees. Mr. Baker testified that for each such employee other than himself the trustees’ decision was made on the basis of employment criteria including length of employment, salary and contributions the employee had made. Mr. Baker introduced in evidence a spread-sheet he personally had prepared to aid the trustees’ decision-making. It showed the names of employees, including his own, who qualified for consideration as to receipt of B Shares. Each such employee - excepting him - was shown as being evaluated as to the said three employment-related criteria.
+[47] He testified that in his case the trustees’ two 2012 decisions as to his numbers of B Shares were based entirely on ensuring he would end up with approximately 70% of the total B Shares distributed by the Trust. He argues that this criterion was not employment-related, and so paragraph 6(1)(a) would not apply. That is, his B Shares benefits were not received, in the language of paragraph 6(1)(a), “...in respect of, in the course of or by virtue of...”, his D2L employment. No notes or minutes of the trustees’ deliberations in deciding distributions of B Shares by the Trust were said to exist.
+[48] There is no documentation or viva voce evidence corroborating this intention that Mr. Baker was to end up with approximately 70% of the B Shares after distribution by the Trust (apart from the 20% held by outside investors). In any event, that general percentage of B Shares being distributed to him was the end result.
+[49] Be that as it may, there is no evidence corroborating Mr. Baker’s own testimony that in deciding the number of B Shares to allocate to him the trustees’ sole consideration was that he was the founder of the business. Mr. Baker’s position is that none of the trustees also or alternatively considered any aspect of his twelve years (2000 to 2012) of service as D2L’s head employee (president and CEO). It was during those same twelve years that D2L’s business had greatly grown, accruing the multi-million dollars of value underpinning the very B Shares the trustees in 2012 were deciding how to distribute amongst qualifying D2L employees including the three appellants.
+[50] Of note, neither of the Trust’s other two trustees was called to testify, to confirm or otherwise Mr. Baker’s testimony as to the trustees’ decision-making regarding his own circumstances, and to be available for cross-examination. At the hearing, I inquired whether the other trustees would be called to testify and was answered in the negative, without elaboration.
+[51] I am unable to accept Mr. Baker’s submission. His evidence was, with respect, self-interested. I am left to infer, absent testimony from either of the other two trustees who participated in the decision-making regarding Mr. Baker, that I may have heard testimony not consistent with Mr. Baker’s evidence as to his own recollection or knowledge. As is, the evidence before me fails to establish that in unanimously making the 2012 decisions regarding distribution of B Shares to Mr. Baker, none of the three trustees took into consideration - whether spoken or unspoken and whether generally or specifically - any aspect of Mr. Baker’s work contributions over the twelve immediately preceding years qua D2L’s ranking employee.
+[52] Accordingly, I find there is inadequate evidence to support Mr. Baker’s proposition that per the parenthetical carve-out in the EBP definition, paragraph 6(1)(a) would not have applied to his two distributions, and that accordingly his two share distributions would not have been taxable on income account.
+[53] This conclusion is sufficient to conclude my consideration of the issue. However, I wish also to briefly note the following observations.
+[54] The terms of the Trust Agreement providing for the settling of the Trust, as noted above, make abundantly (to the point of redundancy) clear that the Trust is for the benefit of employees of D2L Parent and affiliates. Indeed, employees are referenced in the name of the Trust – “Desire2Learn Employee Stock Trust”. Additionally, the Trust Agreement gives trustees of the Trust “absolute discretion” in determining the number of B Shares the Trust will distribute to each employee/beneficiary. The phrase “absolute discretion” indicates there are no boundaries, such as restriction to factors that are employment related, in making these determinations.
+[55] In Blanchard v. Canada, [1995] FCJ No. 1045 (FCA), para. 4, the Federal Court of Appeal per Linden J. addressed the paragraph 6(1)(a) phrase, “... received...in respect of, in the course of or by virtue of an office or employment ...” He noted that in Nowegijick v. The Queen, [1983] 1 SCR 29 at 39, the Supreme Court of Canada (SCC) per Dickson J. as he then was, had explained the paragraph 6(1)(a) words “in respect of” as being “words of the widest possible scope” and “probably the widest of any expression intended to convey some connection between two related subject matters”. Linden J. then observed that these SCC comments “are relevant in interpreting paragraph 6(1)(a)”. Notably he added, “Parliament has added the phrases ‘in the course of’ and ‘by virtue of’ to the phrase ‘in respect of’ in order to emphasize that only the smallest connection to employment is required to trigger the operation of the section.” [underlining added for emphasis]
+[56] From a logical and common sense perspective it seems unassailable that simply by being a D2L employee, Mr. Baker (and no less Messrs. McNeeley and Chapman) received his benefit of B Shares from the Trust which was expressly established to benefit employees. Thus, in the words of paragraph 6(1)(a), he received the benefit “by virtue of” that employment. The Trust could not have benefitted him with any of its B Shares had he not been a D2L employee - regardless that also he was the founder of D2L’s business.
+[57] Mr. Baker submits that merely being a member of an employee pool eligible to receive a benefit is insufficient for paragraph 6(1)(a) purposes, citing Phaneuf v. Her Majesty, 78 DTC 6001 (FCTD). In Phaneuf, the last will and testament of the deceased principal shareholder of the corporate employer permitted employees to purchase from his estate shares of the corporate employer, at par value (the benefit being the discount from fair market value of the shares). It was found that the fact that only these employees could be beneficiaries of the resulting benefit did not trigger paragraph 6(1)(a), the benefit to employees being simply a testamentary gift.
+[58] Phaneuf is distinguished from the appeals at bar on the basis that in it the corporate employer was not the source of the benefit; rather, the benefit source was a testamentary bequest of the corporate employer’s principal shareholder. That is why the benefit was found to be a gift rather than a paragraph 6(1)(a) benefit. By contrast, in the appeals at bar the employer is a central player. The Trust was the benefit source. It was settled specifically as a vehicle for the corporate employer, to hold for and ultimately distribute to the Trust’s beneficiaries, equity shares issued by that corporate employer.
+[59] Also, Mr. Baker cites The Queen v. Savage, [1983] 2 SCR 428 at 441, for the proposition that “considerations extraneous to [the taxpayer’s] employment” would take a benefit outside paragraph 6(1)(a). Upon close reading, it seems the SCC used this phrase at the end of a paragraph setting out the Crown’s position, including how the Crown distinguished the Phaneuf decision. The SCC does specifically speak to this and proceeds to decide Savage on the basis that the benefit therein was a tax exempt “prize” per paragraph 56(1)(n).
+[60] In any event as to Savage, the broad wording of paragraph 6(1)(a) requires only the slightest connection between the benefit and employment. That does not preclude benefits received where, in addition to the required connection between benefit and employment, there also may have been considerations extraneous to employment.
+[61] In these appeals, the Trust Agreement is stridently clear that the beneficiaries of the Trust can only be employees of the particular employer, while at the same time stipulating that the trustees may exercise “absolute discretion” respecting each employee the quantum of B Shares to be distributed. That phrasing makes clear the trustees herein were not limited to employment - related factors. They were enabled to consider, for example, whether a particular employee also was an active member of his/her community, or was the founder of the particular business, without sacrificing the core requirement per paragraph 6(1)(a) that there be at least a slight connection between employment and benefit. And, at risk of undue repetition, that connection was readily met for Mr. Baker as well as the two other appellants, simply by virtue of the B Shares benefit being available solely to qualifying employees of D2L Parent and affiliates.
+IV. Conclusion:
+[62] Accordingly, these three appeals of the respective appellants’ 2012 taxation year reassessments are each dismissed, with costs awarded to the respondent fixed at $18,000, of which, severally, $5,000 is to be paid by each of Messrs. McNeeley and Chapman, and $8,000 (in view of his additional issue) is to be paid by Mr. Baker, all within 30 days of the issuance date of the respective judgments.
+This Amended Reasons for Judgment is issued in substitution for the Reasons for Judgment dated September 29, 2020.
+Signed at Ottawa, Canada, this 2nd day of October 2020.
+“B. Russell”
+Russell J.
+CITATION:
+2020 TCC 90
+COURT FILE NOs.:
+2016-5407(IT)G
+2017-4712(IT)G
+2018-1458(IT)G
+STYLES OF CAUSE:
+MATHEW MCNEELEY AND HER MAJESTY THE QUEEN;
+KENNETH CHAPMAN AND HER MAJESTY THE QUEEN; AND
+JOHN A. BAKER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATES OF HEARING:
+November 20 and 21, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+September 29, 2020
+DATE OF AMENDED REASONS FOR JUDGMENT:
+October 2, 2020
+APPEARANCES:
+Counsel for the Appellants:
+Salvatore Mirandola
+Counsel for the Respondent:
+Lindsay Tohn
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Salvatore Mirandola
+Firm:
+McCarthy Tétrault LLP
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

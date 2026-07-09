@@ -1,0 +1,200 @@
+Title: Stellwaag c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31140/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-111-31140-stellwaag-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-04-16
+
+# Stellwaag c. La Reine
+
+- Citation: 2013 CCI 111
+- Decision date: 2013-04-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4756, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stellwaag c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-04-16
+Référence neutre
+2013 CCI 111
+Numéro de dossier
+2011-912(IT)G, 2011-913(IT)G, 2011-914(IT)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-912(IT)G
+ENTRE :
+SIGRID STELLWAAG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Reiner Kunzi, 2011‑913(IT)G, et de Hugo Kunzi, 2011‑914(IT)G, le 25 mars 2013, à Montréal (Québec).
+Devant : L'honorable juge Johanne D'Auray
+Comparutions :
+Avocat de l'appelante :
+Me Aaron Rodgers
+Avocate de l'intimée :
+Me Marielle Thériault
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2007 est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 16e jour d'avril 2013.
+« Johanne D'Auray »
+Le juge D'Auray
+Traduction certifiée conforme
+ce 28e jour de juin 2013.
+Yves Bellefeuille, réviseur
+Dossier : 2011-913(IT)G
+ENTRE :
+REINER KUNZI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Sigrid Stellwaag, 2011‑912(IT)G, et de Hugo Kunzi, 2011‑914(IT)G, le 25 mars 2013, à Montréal (Québec).
+Devant : L'honorable juge Johanne D'Auray
+Comparutions :
+Avocat de l'appelant :
+Me Aaron Rodgers
+Avocate de l'intimée :
+Me Marielle Thériault
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2007 est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 16e jour d'avril 2013.
+« Johanne D'Auray »
+Le juge D'Auray
+Traduction certifiée conforme
+ce 28e jour de juin 2013.
+Yves Bellefeuille, réviseur
+Dossier : 2011-914(IT)G
+ENTRE :
+HUGO KUNZI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Sigrid Stellwaag, 2011‑912(IT)G, et de Reiner Kunzi, 2011‑913(IT)G, le 25 mars 2013, à Montréal (Québec).
+Devant : L'honorable juge Johanne D'Auray
+Comparutions :
+Avocat de l'appelant :
+Me Aaron Rodgers
+Avocate de l'intimée :
+Me Marielle Thériault
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2007 est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 16e jour d'avril 2013.
+« Johanne D'Auray »
+Le juge D'Auray
+Traduction certifiée conforme
+ce 28e jour de juin 2013.
+Yves Bellefeuille, réviseur
+Référence : 2013 CCI 111
+Date : 20130416
+Dossier : 2011-912(IT)G
+ENTRE :
+SIGRID STELLWAAG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2011-913(IT)G
+ENTRE :
+REINER KUNZI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2011-914(IT)G
+ENTRE :
+HUGO KUNZI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D'Auray
+[1] Les appels de M. Hugo Kunzi, de M. Reiner Kunzi et de Mme Sigrid Stellwaag ont été entendus sur preuve commune.
+[2] La question en litige en l'espèce est de savoir si les appelants sont tenus de payer l'impôt prévu à la partie XIII sur le revenu de location brut qui leur a été versé ou qui a été porté à leur crédit par leur agent canadien pour l'année d'imposition 2007.
+[3] Les appelants sont des non‑résidents.
+[4] Les appelants possèdent chacun le tiers d'un bien de location situé au 2100, rue Saint‑Marc, à Montréal, au Québec.
+[5] Au cours de l'année d'imposition 2007, M. Uri Peretz était l'agent canadien des appelants.
+[6] Vers le 21 décembre 2006, les appelants ont présenté l'engagement visé au paragraphe 216(4) de la Loi de l'impôt sur le revenu (la « Loi ») (le formulaire NR6), selon lequel ils produiraient une déclaration de revenus selon la partie I de la Loi dans les six mois suivant la fin de leur année d'imposition 2007.
+[7] L'année d'imposition 2007 des appelants a pris fin le 31 décembre 2007. La période de six mois s'est donc terminée le 30 juin 2008.
+[8] Les déclarations de revenus des appelants pour l'année 2007 n'ont pas été produites dans la période prescrite de six mois suivant la fin de leur année d'imposition 2007.
+[9] Les déclarations de revenus des appelants pour l'année 2007 ont été envoyées avec une lettre d'accompagnement datée du 21 juillet 2008 au comptable canadien des appelants, M. Noftall, pour être produites auprès de l'Agence du revenu du Canada (l'« ARC »).
+[10] Selon le témoignage de M. Hugo Kunzi, le retard découlait du fait que sa soeur, Mme Stellwaag, était malade.
+[11] La preuve ne démontre pas clairement quand M. Noftall a produit les déclarations de revenus des appelants selon la partie I à l'ARC. Selon l'avocat des appelants, les déclarations de revenus auraient été produites à la fin du mois de juillet 2008 ou en août 2008.
+[12] Les déclarations de revenus des appelants pour l'année 2007 ont été produites dans les deux ans suivant la fin de l'année d'imposition 2007. Ce point n'a pas été contesté par l'intimée.
+[13] Les loyers bruts que M. Peretz a versés à chacun des appelants ou qu'il a portés à leur crédit en 2007 se sont élevés à 321 668 $, soit le tiers du revenu de location brut tiré du bien.
+[14] Monsieur Peretz a retenu une somme de 32 000 $ au titre de l'impôt de la partie I pour le compte de chacun des appelants.
+[15] Quelque temps après le 30 juin 2008, le ministre du Revenu national a avisé les appelants qu'il ne pouvait pas traiter leurs déclarations de revenus selon la partie I, étant donné qu'elles avaient été produites en retard.
+Le régime légal
+[16] Les dispositions applicables sont les paragraphes 212(1), 216(1) et 216(4) ainsi que l'alinéa 212(1)d) de la Loi.
+[17] Le paragraphe 212(1) de la partie XIII est la disposition d'imposition. Elle précise que tout non‑résident doit payer un impôt sur le revenu de 25 p. 100 sur toute somme qu'une personne résidant au Canada lui paie ou porte à son crédit.
+[18] L'alinéa 212(1)d) traite des sommes reçues par un non‑résident à titre de revenu de location. Par conséquent, en l'espèce, si les appelants n'avaient pas choisi l'autre mode de paiement visé au paragraphe 216(4), l'agent canadien aurait dû retenir 25 p. 100 du revenu de location brut reçu au cours de l'année, suivant l'alinéa 212(1)d).
+[19] Le paragraphe 216(4) permet au non‑résident de choisir un autre mode de paiement s'il s'engage à produire, dans les six mois suivant la fin de son année d'imposition, une déclaration de revenus au titre de la partie I au lieu de la partie XIII. Selon le paragraphe 216(4), l'agent canadien pourra retenir les sommes en fonction du revenu de location net au lieu de les retenir en fonction du revenu de location brut.
+[20] Un autre choix est offert au non‑résident au paragraphe 216(1). Selon ce paragraphe, dans le cas où une somme a été versée à un non‑résident au titre de loyers de biens immeubles situés au Canada, celui‑ci peut, dans les deux ans suivant la fin de l'année, produire une déclaration de revenus selon la partie I. Ce faisant, le non‑résident paiera l'impôt sur le revenu net au titre de la partie I au lieu de payer l'impôt sur le revenu de location brut au titre de la partie XIII au taux de 25 p. 100, comme l'exige l'alinéa 212(1)d).
+[21] L'avocat des appelants a fait valoir qu'on ne devrait pas empêcher ses clients de produire leurs déclarations de revenus selon la partie I en vertu du paragraphe 216(1), même s'ils s'étaient engagés à produire des déclarations de revenus en vertu du paragraphe 216(4). Il a soutenu que les appelants tombent sous le coup du paragraphe 216(1), étant donné qu'ils ont produit leurs déclarations de revenus dans les deux ans suivant la fin de leur année d'imposition 2007.
+[22] Le paragraphe 216(1) prévoit ce qui suit :
+216(1) Dans le cas où une somme a été versée au cours d'une année d'imposition à une personne non-résidente ou à une société de personnes dont elle était un associé, au titre ou en paiement intégral ou partiel de loyers de biens immeubles situés au Canada ou de redevances forestières, cette personne peut, dans les deux ans suivant la fin de l'année ou, si elle a fait parvenir au ministre l'engagement visé au paragraphe (4) pour l'année, dans les six mois suivant la fin de l'année, produire sur formulaire prescrit une déclaration de revenu en vertu de la partie I pour une personne résidant au Canada pour l'année. Indépendamment de son obligation de payer l'impôt payable par ailleurs en vertu de la partie I, la personne non‑résidente est dès lors tenue, au lieu de payer l'impôt en vertu de la présente partie sur ce montant, de payer l'impôt en vertu de la partie I pour l'année comme si :
+a) elle était une personne résidant au Canada et non exonérée de l'impôt en vertu de l'article 149;
+b) son revenu tiré de ses droits sur des biens immeubles, des avoirs forestiers et des concessions forestières situés au Canada ainsi que sa part du revenu tiré par une société de personnes dont elle était un associé de droits sur des biens immeubles, des avoirs forestiers et des concessions forestières situés au Canada constituaient sa seule source de revenu;
+c) elle n'avait droit à aucune déduction sur son revenu pour le calcul de son revenu imposable;
+d) elle n'avait droit à aucune déduction en application des articles 118 à 118.9 dans le calcul de son impôt payable pour l'année en vertu de la partie I.
+[23] La différence entre les paragraphes 216(4) et 216(1) tient au fait que, suivant le paragraphe 216(4), l'agent canadien retiendra et remettra les sommes au receveur général en fonction du revenu net gagné au cours de l'année. Suivant le paragraphe 216(1), l'agent canadien retiendra et remettra les sommes au receveur général en fonction du revenu brut gagné au cours de l'année. Dans la plupart des cas, l'obligation fiscale au titre de la partie I selon le paragraphe 216(1) se traduira par un remboursement ultérieur au non‑résident.
+[24] L'avocat des appelants a fait valoir que je devrais interpréter le paragraphe 216(1) de la Loi de façon libérale.
+[25] Je ne souscris pas aux arguments présentés par l'avocat des appelants. Le libellé du paragraphe 216(1) est clair. Lorsqu'une personne a présenté un engagement en vertu du paragraphe 216(4), cette personne doit produire sa déclaration de revenus dans les six mois suivant la fin de son année.
+[26] Dans l'arrêt Hypothèques Trustco Canada c. Canada, [2005] 2 R.C.S. 601, la Cour suprême du Canada a mentionné que, lorsque le libellé d'une disposition est clair et non ambigu, le sens ordinaire des mots doit jouer un rôle primordial dans le processus d'interprétation. S'exprimant pour la Cour suprême dans un jugement unanime, la juge en chef McLachlin et le juge Major ont affirmé ce qui suit, au paragraphe 10, sur les principes d'interprétation des lois fiscales :
+10 Il est depuis longtemps établi en matière d'interprétation des lois qu'« il faut lire les termes d'une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s'harmonise avec l'esprit de la loi, l'objet de la loi et l'intention du législateur » : voir 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, par. 50. L'interprétation d'une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s'harmonise avec la Loi dans son ensemble. Lorsque le libellé d'une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d'interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d'un sens raisonnable, leur sens ordinaire joue un rôle moins important. L'incidence relative du sens ordinaire, du contexte et de l'objet sur le processus d'interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d'une loi comme formant un tout harmonieux.
+[27] L'année d'imposition des appelants prenait fin le 31 décembre 2007. Les déclarations de revenus des appelants devaient être produites au plus tard le 30 juin 2008. Comme les déclarations de revenus n'ont pas été produites dans les six mois suivant la fin de l'année d'imposition, les appelants ne peuvent plus se prévaloir du paragraphe 216(4). L'alinéa 216(4)b) prévoit que, si une personne non‑résidente ne produit pas de déclaration conformément à l'engagement qu'elle a présenté, dès l'expiration du délai prévu pour la production, cette personne devra remettre au receveur général l'impôt de la partie XIII.
+[28] L'intimée a fourni l'historique législatif des paragraphes 216(1) et 216(4) pour les années applicables aux années d'imposition 1952 à 2007. Fait intéressant à signaler, pendant un certain temps, nulle mention n'était faite du paragraphe 216(4) dans le paragraphe 216(1). On aurait alors pu faire valoir que le paragraphe 216(1) pouvait s'appliquer même si un engagement avait été présenté en vertu du paragraphe 216(4). Cela n'est toutefois pas le cas pour l'année visée par l'appel : le libellé des paragraphes 216(1) et 216(4) est clair.
+[29] Comme l'intimée l'a souligné à l'audience, les appelants peuvent demander au ministre du Revenu national, en vertu du paragraphe 220(3), de proroger le délai accordé pour la production d'une déclaration de revenus.
+[30] Les appels sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 16e jour d'avril 2013.
+« Johanne D'Auray »
+Le juge D'Auray
+Traduction certifiée conforme
+ce 28e jour de juin 2013.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2013 CCI 111
+NOS DES DOSSIERS DE LA COUR : 2011-912(IT)G
+2011-913(IT)G
+2011-914(IT)G
+INTITULÉS : Sigrid Stellwaag c. Sa Majesté la Reine
+Reiner Kunzi c. Sa Majesté la Reine
+Hugo Kunzi c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : Le 25 mars 2013
+MOTIFS DU JUGEMENT : L'honorable juge Johanne D'Auray
+DATE DU JUGEMENT : Le 16 avril 2013
+COMPARUTIONS :
+Avocat des appelants :
+Me Aaron Rodgers
+Avocate de l'intimée :
+Me Marielle Thériault
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Aaron Rodgers
+Cabinet : Garfinkle Nelson‑Wiseman Bilmes Rodgers
+Montréal (Québec)
+Pour l'intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

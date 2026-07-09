@@ -1,0 +1,217 @@
+Title: James Burns Support Society v. M.N.R.
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521472/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-102-521472-james-burns-support-society-v-m-n-r.md
+Document type: case_law
+Last modified: 2025-07-28
+
+# James Burns Support Society v. M.N.R.
+
+- Citation: 2025 TCC 102
+- Decision date: 2025-07-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5404, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+James Burns Support Society v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-07-28
+Neutral citation
+2025 TCC 102
+File numbers
+2024-1784(EI), 2024-1785(CPP)
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2024-1784(EI)
+BETWEEN:
+JAMES BURNS SUPPORT SOCIETY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on May 21, 2025, at Vancouver, British Columbia, with written submissions completed on July 10, 2025
+Before: The Honourable Justice David E. Spiro
+Appearances:
+Counsel for the Appellant:
+Fayme K. Hodal
+Counsel for the Respondent:
+Crystal Choi
+Charlie Nefulda (student-at-law)
+JUDGMENT
+As Mr. Dennis De Ramos was in insurable employment with the Appellant under the Employment Insurance Act (the “EI Act”) from July 1, 2020, to May 31, 2023, in respect of all work performed by him for the Appellant during that period, the Appellant’s appeal of the Respondent’s decision dated July 9, 2024 made under the EI Act is dismissed without costs.
+Signed this 28th day of July 2025.
+“David E. Spiro”
+Spiro J.
+Docket: 2024-1785(CPP)
+BETWEEN:
+JAMES BURNS SUPPORT SOCIETY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on May 21, 2025, at Vancouver, British Columbia, with written submissions completed on July 10, 2025
+Before: The Honourable Justice David E. Spiro
+Appearances:
+Counsel for the Appellant:
+Fayme K. Hodal
+Counsel for the Respondent:
+Crystal Choi
+Charlie Nefulda (student-at-law)
+JUDGMENT
+As Mr. Dennis De Ramos was in pensionable employment with the Appellant under the Canada Pension Plan (the “CPP”) from July 1, 2020, to May 31, 2023, in respect of all work performed by him for the Appellant during that period, the Appellant’s appeal of the Respondent’s decision dated July 9, 2024 made under the CPP is dismissed without costs.
+Signed this 28th day of July 2025.
+“David E. Spiro”
+Spiro J.
+Citation: 2025 TCC 102
+Date: 20250728
+Dockets: 2024-1784(EI)
+2024-1785(CPP)
+BETWEEN:
+JAMES BURNS SUPPORT SOCIETY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Spiro J.
+[1] The Appellant appeals two decisions of the Respondent confirming earlier rulings that a caregiver, Mr. Dennis De Ramos, was in insurable employment under the Employment Insurance Act (the “EI Act”) and in pensionable employment under the Canada Pension Plan (the “CPP”) from July 1, 2020, to May 31, 2023, in respect of all work performed by him for the Appellant during that period.
+[2] It is important to bear in mind several time periods. The first overarching period began on November 1, 2011 when Mr. De Ramos was hired by the Appellant as an employee and ended on May 31, 2023 when he ceased employment with the Appellant.
+[3] The second period began in 2017 when the Appellant began treating Mr. De Ramos as an independent contractor, but only with respect to his night shifts. In June of 2022 Mr. De Ramos’ wife took over the night shifts.
+[4] Although the decisions at issue cover the period from July 1, 2020 to May 31, 2023, the real period at issue is July 1, 2020, to June of 2022 in respect of the night shifts that Mr. De Ramos worked during that period. The question to be answered is whether he was an employee or an independent contractor when he worked those night shifts. I have concluded that he was, on a balance of probabilities, an employee when he worked his night shifts for the Appellant.
+The Facts [5] Mr. James Burns is an individual with a wide range of special needs. He has schizophrenia and attention deficit hyperactivity disorder. He is autistic and deaf/mute. He communicates using a communication device.[1] He also communicates through sign language. Although he is now 35 years old, he is more like a 12-year-old.[2] He requires 24/7 care.
+[6] Ms. Susan Burns, the mother of Mr. Burns, was the main witness for the Appellant. She is the Appellant’s directing mind and was responsible for all human resource matters. Part of that responsibility was “making sure that the shifts are covered”.[3]
+[7] The Appellant was established in 2011 with a view to obtaining funding from the government of British Columbia to assist with the cost of providing 24/7 care for Mr. Burns. With that funding, Ms. Burns “hired all these people. And Dennis [De Ramos] was one of the first.”[4]
+[8] Mr. De Ramos was hired by the Appellant as an employee on November 1, 2011. In Ms. Burns’ words, Mr. De Ramos was “totally an employee” until 2017.[5] From 2017 until June of 2022, Mr. De Ramos worked night shifts. In addition, he took the first of the three weekday shifts from 9:00 a.m. to 1:00 p.m.[6]
+[9] Day shifts were divided into three shifts of four hours each starting at 9:00 a.m. and ending at 9:00 p.m. The night shift was a single shift from 9:00 p.m. to 9:00 a.m. The weekend shift was a single 48-hour shift.
+[10] During the day, Mr. Burns learned to read, worked in the kitchen at the Salvation Army, and participated in sports. The caregivers on the day shift transported him to his activities and supervised him there. If the caregivers working the day shift wanted to do anything else with Mr. Burns, they had to ask Ms. Burns for permission.[7]
+[11] According to Ms. Burns, the caregiver on the night shift needed to keep Mr. Burns “safe and comfortable.”[8] Mr. Rene Devos, another caregiver who worked the night shift, testified about what was involved. He testified that Mr. Burns:
+… goes to bed at a certain time, that’s the way he’s used to it, and then gets up in the morning [at a] certain time. I’ll make sure that nothing happens to him while he’s in there by himself sleeping.[9]
+[12] Ms. Burns testified that caregivers were allowed to subcontract, but could not subcontract to “just anybody.”[10]
+[13] Starting in 2019, Mr. Burns slept over at the De Ramos residence on a regular basis. This was particularly convenient for Mr. De Ramos as he and his wife had just had a new baby.
+[14] Starting in June of 2022, Mr. De Ramos’ wife took over his night shifts. The Appellant paid Mr. De Ramos’ wife directly for her night shifts (which started at $120 and eventually increased to $150 per night). Everyone agrees that Mr. De Ramos continued as an employee with respect to his day shift from 9:00 a.m. to 1:00 p.m.[11]
+[15] A serious financial issue arose in early 2017. Ms. Burns’ father had to contribute $2,000 every month to help pay the caregivers as the Appellant did not have enough funding from Community Living BC to cover the entire payroll. Ms. Burns discussed this problem with Community Living BC at their annual meeting in 2017. She testified that:
+… the government said you’re crazy. You shouldn’t be paying by the hour on the respite. And they gave us some figures. And we –
+JUSTICE: When you say the respite, what do you mean?
+A The weekends, and then we figured the nights were respite too, because they [the caregivers] didn’t have to do anything.[12]
+[16] Community Living BC offered her this advice:
+… the funding agent, which is Community Living BC, told us that the only way we’d have enough money is if we paid the nights and weekends on a per diem, which we started doing.[13]
+[17] Starting in 2017, the Appellant adopted this “new model”.[14] Ms. Burns testified that the new model was “just put out there.”[15] The per diem rate for night shifts was non-negotiable.[16] Negotiation was not an option.[17]
+[18] Following a disagreement with Ms. Burns in the spring of 2023, Mr. De Ramos stopped working his 9:00 a.m. to 1:00 p.m. day shift. As his wife had already taken over his night shifts, he no longer worked for the Appellant at all.
+The Law [19] Both parties agree on the legal test distinguishing employees from independent contractors. The test is conveniently summarized in AFB Janitorial Services Inc. v. MNR, 2023 TCC 94 (footnotes omitted):
+[5] As the Federal Court of Appeal explained in 1392644 Ontario Inc. (Connor Homes) v MNR, the subjective intent of each party to the relationship is the first factor to be determined. After that has been done, the objective factors are considered. In Wiebe Door Services Ltd. v MNR, the Federal Court of Appeal set out the following objective factors that help distinguish between independent contractors and employees:
+(1) control;
+(2) ownership of the tools;
+(3) chance of profit; and
+(4) risk of loss.
+[6] No single factor predominates and no mechanical formula is to be applied. In his recent decision in 0808498 BC Ltd. v MNR, Justice Sommerfeldt offered a useful summary of the factors to be considered in making this determination:
+a) Does the hirer control the worker’s activities?
+b) Does the hirer provide the tools and equipment required by the worker, or is the worker required to provide his or her own tools and equipment?
+c) Does the worker hire his or her own helpers?
+d) What is the degree of financial risk taken by the worker? In other words, does the worker have a risk of loss?
+e) What is the degree of responsibility for investment and management held by the worker?
+f) Does the worker have an opportunity for profit in the performance of his or her tasks?
+Appellant’s Argument [20] In her submissions, counsel for the Appellant advanced two propositions.
+[21] First, she argued that Mr. De Ramos had “full autonomy” to control the conduct of his provision of services during his night shift, including transporting Mr. Burns to an alternate location, including the De Ramos home, and providing his services at that alternative location.[18]
+[22] Second, counsel argued that starting in June of 2022, Mr. De Ramos had effectively “subcontracted” the care of Mr. Burns to his wife.[19]
+[23] The evidence does not support either proposition.
+[24] First, Mr. Burns slept only at his own place or at the De Ramos residence. If a caregiver thought that Mr. Burns should sleep elsewhere, that would require prior authorization from Ms. Burns. That is a far cry from “full autonomy”.
+[25] Second, Mr. De Ramos never “subcontracted” his night shift to his wife. His wife took over his night shifts starting in June of 2022, and was paid for those night shifts by the Appellant directly.
+[26] In oral argument, counsel for the Appellant argued that Ms. Burns did not control “how” Mr. De Ramos ensured that Mr. Burns was safe and comfortable between the hours of 9:00 p.m. and 9:00 a.m. But, as Mr. Devos testified (see paragraph 11 above), there is only one way of doing it – Mr. Burns goes to bed at a certain time and gets up in the morning at a certain time. The caregiver must ensure that nothing happens to him while he’s sleeping. That’s it.
+[27] But with a view to characterizing Mr. De Ramos as an independent contractor, counsel for the Appellant prompted Ms. Burns with this question:
+Q Okay, now, Susan, if I can ask, for the overnight hours, are you looking out for the results or are you looking out for how the work is carried out? Are you –
+A The result. The result. Just that my son is comfortable.[20]
+[28] On a similar note, counsel asked her other witness – Mr. Devos, another night shift worker for the Appellant – a blatantly leading question:
+Q And while James is under your care, is the way you look after James, within reason, of course, reasonably, within your discretion?
+A Yeah.[21]
+Respondent’s Argument [29] In written argument, Respondent’s counsel reviewed five cases involving caregivers in similar circumstances.[22] Counsel summarized her argument in three persuasive paragraphs:
+33. The Respondent submits that these caregiving cases, as requested by the Court, demonstrate that Mr. de Ramos was an employee of the Appellant. The Connor Homes test begins with intention, which was not shared in this case. The cases discussed above demonstrate the centrality of intention to the Court’s determination. In each case where the workers were found to be independent contractors, the parties had a mutual intention for that to be the case. In contrast, where there was a clash of intention—as there is in the instant case—the Court found that the caregivers were employees.
+34. The caregiving cases also support the Respondent’s position that the objective reality of the Appellant’s relationship with Mr. de Ramos was that of an employer-employee relationship. It is clear from the cases that the nature of caregiving—discretionary, trusting, personal, and inherently lacking in supervision—allows an individual to be hired as either an employee or an independent contractor.
+35. Nonetheless, the Respondent submits that the facts of this case tip the scale in favour of a finding that Mr. de Ramos was an employee. It is clear that the parties did not deal as equals: the Appellant set Mr. de Ramos’ hours, rate of pay, location of work, and employment status. He had no opportunity to negotiate and, to the extent that he attempted to raise objections, these were not heeded. Any discretion he had could only be exercised with the Appellant’s approval. In short, while caregiving may be done by independent contractors (when parties agree to that status), the caregiving in this case was done by an employee.
+[30] As will become clear from the analysis below, I generally agree with those submissions.
+Analysis A. Subjective Intent [31] From the time the Appellant hired Mr. De Ramos in 2011 until 2017, the Appellant and Mr. De Ramos had a common intent that Mr. De Ramos was an employee for all his shifts. In the words of Ms. Burns, Mr. De Ramos “was totally an employee until 2017.”[23]
+[32] In 2017, the Appellant changed its intent with respect to the night shifts worked by Mr. De Ramos. But Mr. De Ramos’ intent never changed. This was confirmed by Ms. Burns who remarked during examination-in-chief “… the only problem is having contractors who say they’re not contractors.”[24] She was undoubtedly referring to Mr. De Ramos.
+[33] The Appellant failed to adduce sufficient evidence to rebut the central assumption of fact in respect of the night shifts that (a) the Appellant’s intention was for Mr. De Ramos to be a contractor and (b) Mr. De Ramos’ intention was to be an employee of the Appellant.[25] There was no shared intention.
+B. Objective Factors [34] We now proceed to the objective factors:
+Does the hirer control the worker’s activities?
+oMs. Burns set the hours for each shift. There was no evidence that Mr. De Ramos was able to modify them on his own. The first day shift was from 9:00 a.m. to 1:00 p.m. The second day shift was from 1:00 p.m. to 5:00 p.m. The third day shift was from 5:00 p.m. to 9:00 p.m. The night shift was from 9:00 p.m. to 9:00 a.m. There was no evidence that Mr. De Ramos had any ability to modify the start time or end time of any of his shifts.
+oOn the day shifts, the caregivers took Mr. Burns to work at the Salvation Army kitchen and to participate in sports. They also helped him learn to read. On the night shifts, the caregiver kept Mr. Burns safe and comfortable. Nothing outside those prescribed activities could be undertaken by any caregiver – day or night – without the express approval of Ms. Burns.
+oMr. Burns was allowed to sleep in one of two locations – at his own place or at the De Ramos residence. A caregiver who wanted to take Mr. Burns elsewhere would need the express approval of Ms.Burns.
+oAs a caring and protective mother, and as the Appellant’s directing mind, Ms. Burns was able to call the shots. The fact that she was able to determine everyone’s remuneration is an example of the extent of her control.
+Does the hirer provide the tools and equipment required by the worker, or is the worker required to provide his or her own tools and equipment?
+oNo tools or equipment were required to be provided by any of the caregivers. The communication device used by Mr. Burns was provided by the Appellant. Mr. Burns did sleep at the De Ramos residence, but their residence is neither a tool nor a piece of equipment.
+Does the worker hire his or her own helpers?
+oMr. De Ramos never hired any helpers.
+What is the degree of financial risk taken by the worker? In other words, does the worker have a risk of loss?
+oMr. De Ramos took no financial risk and had no risk of loss.
+· What is the degree of responsibility for investment and management held by the worker?
+o None.
+Does the worker have an opportunity for profit in the performance of his or her tasks?
+o Mr. De Ramos’ remuneration was non-negotiable. It was fixed by Ms. Burns.
+oMr. De Ramos could have subcontracted his night shifts to someone else, but that person would have to be approved by Ms. Burns.
+Conclusion [35] Mr. De Ramos was in insurable employment and pensionable employment with the Appellant under the EI Act and the CPP, respectively, from July 1, 2020, to May 31, 2023, in respect of all work performed by him for the Appellant during that period. He remained, in the words of Ms. Burns “totally an employee.”
+[36] The Appellant’s appeal of the Respondent’s decisions dated July 9, 2024 under the EI Act and the CPP will be dismissed without costs.
+Signed this 28th day of July 2025.
+“David E. Spiro”
+Spiro J.
+CITATION:
+2025 TCC 102
+COURT FILE NO.:
+2024-1784(EI)
+2024-1785(CPP)
+STYLE OF CAUSE:
+JAMES BURNS SUPPORT SOCIETY AND THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+May 21, 2025, with written submissions completed on July 10, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+July 28, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Fayme K. Hodal
+Counsel for the Respondent:
+Crystal Choi
+Charlie Nefulda (student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Fayme K. Hodal
+Firm:
+KSW Lawyers
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Transcript, page 65, lines 13-14 and page 93, lines 12-13.
+[2] Transcript, page 65, line 5.
+[3] Transcript, page 39, lines 27-28.
+[4] Transcript, page 63, line 27 to page 64, line 4.
+[5] Transcript, page 42, lines 14-21.
+[6] Transcript, page 46, line 22 to page 47, line 19. See also the evidence of Mr. De Ramos at page 94, lines 20-25.
+[7] Transcript, page 57, lines 2-9. Mr. De Ramos provided examples of other activities that required the permission of Ms. Burns at page 93 of the transcript, lines 2-13.
+[8] Transcript, page 22, lines 12-14.
+[9] Transcript, page 74, lines 12-16.
+[10] Transcript, page 42, lines 5-10.
+[11] Transcript, page 99, line 1 to page 100, line 19.
+[12] Transcript, page 66, lines 14-21.
+[13] Transcript, page 20, lines 17-21.
+[14] Transcript, page 25, line 24.
+[15] Transcript, page 25, lines 26-27. This is consistent with assumption 10(n) in both Replies which states that in 2017, the Appellant “informed” Mr. De Ramos that he would now be considered a contractor in respect of the night shift.
+[16] Transcript, page 48, line 5 to page 49, line 17.
+[17] Transcript, page 59, line 22 to page 60, line 5.
+[18] Appellant’s Closing Submissions, paras 15 and 32.
+[19] Ibid., paras 16 and 32.
+[20] Transcript, page 30, lines 19-24.
+[21] Transcript, page 74, lines 18-21. It is worth noting that there is no reference to any such “discretion” in the Appellant’s Notice of Appeal.
+[22] The caregiver cases canvassed by Respondent’s counsel were: Cloutier v MNR, 2012 TCC 164, Graham v MNR, 2011 TCC 565, Unison Treatment Homes for Youth v MNR, 2007 TCC 447, Poulin v Canada (Minister of National Revenue), 2003 FCA 50, and Robert v MNR, 2015 TCC 84.
+[23] Transcript, page 42, lines 20-21.
+[24] Transcript, page 44, lines 4-5.
+[25] Paragraph 10(p) of each Reply.

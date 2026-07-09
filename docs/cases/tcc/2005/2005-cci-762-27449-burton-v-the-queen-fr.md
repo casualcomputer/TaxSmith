@@ -1,0 +1,150 @@
+---
+title: "Burton v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27449/index.do"
+last_modified: "2005-12-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 762"
+citation2: ""
+neutral_citation: "2005 CCI 762"
+decision_date: "2005-12-05"
+language: "fr"
+item_id: "27449"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 205
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:15:01.354000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "97a606de39052ea6658199255461398c9bffacd4196f414c1b4eec1ed28538fc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Burton v. The Queen
+
+- Citation: 2005 CCI 762
+- Decision date: 2005-12-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 205, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burton v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-12-05
+Référence neutre
+2005 CCI 762
+Numéro de dossier
+2005-967(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-967(IT)I
+ENTRE :
+PHILIP BURTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu à Ottawa (Ontario) le 20 octobre 2005.
+Devant : L'honorable juge C.H. McArthur
+Comparutions
+Représentant de l'appelant :
+Kenneth J. Durand
+Avocate de l'intimée
+Me Marie-Ève Aubry
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté contre la cotisation établie en vertu du paragraphe 227.1(1) de la Loi de l'impôt sur le revenu, dont l'avis est daté du 26 avril 2004 et qui porte le numéro 12608, est admis, avec dépens de 500 $, et la cotisation est annulée.
+Signé à Ottawa, Canada, ce 5e jour de décembre 2005.
+« C.H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 12e jour de juin 2006.
+Virginie Loranger, traductrice
+Référence : 2005CCI762 Date : 20051205
+Dossier : 2005-967(IT)I
+ENTRE :
+PHILIP BURTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Le présent appel est interjeté contre une cotisation établie en vertu de l'article 227.1 de la Loi de l'impôt sur le revenu, qui date du 26 avril 2004 et qui s'élève à 7 137,71 $, au motif que l'appelant était, en tant qu'administrateur, responsable des retenues à la source non remises que, prétend-on, la société Eastern Tilapia Inc. (ci-après « Tilapia » ) aurait dû verser au receveur général.
+[2] La position de l'appelant est qu'il n'est pas responsable des retenues à la source puisqu'il avait démissionné de son poste d'administrateur de la société Tilapia en décembre 2001, et que le ministre du Revenu national a intenté une poursuite contre lui plus de deux ans après qu'il a cessé d'être administrateur, ce qui contrevient au paragraphe 227.1(4) de la Loi. De plus, l'appelant dit que l'Agence du revenu du Canada cherche à recouvrer auprès de lui des cotisations au Régime de pensions du Canada et des cotisations d'assurance-emploi, ainsi que les intérêts et les pénalités s'y rapportant, qui ensemble s'élèvent à 7 137,71 $. Cependant, après que Tilapia a déclaré faillite le 17 octobre 2003, l'ARC a examiné ses livres et registres et lors de la vente des actifs de la compagnie, elle a récupéré 21 071,35 $. L'ARC a également recouvré la somme supplémentaire de 18 777,50 $ auprès de la société IROS International Services Inc., représentante de la Banque Toronto-Dominion. Par conséquent, l'ARC a reçu des sommes qui dépassent le montant de la cotisation établie à l'égard de Tilapia. L'appelant a abandonné cette position pendant l'audience.
+Faits
+[3] Après avoir travaillé pendant 15 ans chez Bell Telephone, l'appelant a suivi un cours d'horticulture puis il est allé travailler chez Tilapia. Il est maintenant camionneur dans une entreprise de camionnage. Les faits suivants, qui sont à l'origine du litige et qui sont contenus dans la réponse à l'avis d'appel, sont admis :
+[TRADUCTION]
+7b) Eastern Tilapia Inc. (la « société » ) a été constituée en société le 2 février 2000;
+[...]
+d) la société a omis de remettre au receveur général du Canada les retenues effectuées sur le salaire de ses employés, lesquelles totalisent 28 209,06 $;
+e) la société a fait une cession de faillite le 14 octobre 2003;
+f) le 30 octobre 2003, le ministre a déposé une preuve de réclamation pour un montant de 24 604,94 $;
+g) le 27 novembre 2003, le montant visé par la preuve de réclamation a été haussé à 28 209,06 $;
+h) la responsabilité de la société se divisait ainsi :
+Fiducie réputée (garantie) 21 071,35 $
+Responsabilité non garantie 7 173,71 $
+Total de la responsabilité 28 209,06 $
+i) le 19 décembre 2003, le ministre a reçu la somme de 21 071,35 $ lorsque la société a été liquidée.
+8. Le 22 septembre 2004, le ministre a reçu de la société IROS Institutional Services Inc. (ci-après « IROS » ) la somme de 18 777,50 $.
+9. La Banque Toronto-Dominion a nommé IROS séquestre/administrateur de la société.
+10. Parce qu'il était un créancier ordinaire, le ministre ne pouvait recevoir d'IROS la somme de 18 777,50 $.
+[4] Tilapia a été constituée en société le 2 février 2000. L'entreprise faisait notamment l'élevage du tilapia dans un centre de pisciculture situé dans la région de Prescott, dans l'Est de l'Ontario. Kenneth Durand Jr. était l'initiateur et l'âme de l'entreprise, et il avait recueilli l'appui de son père, Kenneth Durand Sr., et celui de son oncle, Phillip Burton. Tous les trois ont joué un rôle actif au cours des mois qui ont suivi la création de la compagnie. Kenneth Durand Sr. est comptable agréé. Il a représenté l'appelant, son beau-frère, dans cet appel. Il n'était pas administrateur pendant la période visée.
+[5] Tilapia s'est butée à de nombreux problèmes au cours des mois qui ont suivi sa création, et les problèmes financiers n'étaient pas les moindres. L'appelant a trouvé la situation très stressante et il a été incapable de venir à bout des problèmes quotidiens de l'entreprise. De fait, il a craint la dépression nerveuse. Le 5 décembre 2001, il a rencontré Kenneth Durand Sr. et Kenneth Durand Jr. pour leur expliquer ce qu'il vivait et pour les informer qu'il démissionnait du poste d'administrateur. En janvier 2002, Kenneth Durand Sr. demandait à sa secrétaire, Deborah Hayes, de rédiger une lettre de démission en date du 31 décembre 2001, et la faisait signer par l'appelant. Mme Hayes a témoigné qu'elle a effectivement rédigé la lettre de démission au début de 2002, et qu'elle a vu l'appelant la signer alors qu'elle quittait le bureau. La lettre de démission ne portait pas de signature de témoin. Le seul exemplaire de la lettre a été égaré dans le bureau de Kenneth Durand Sr. au cours de la période où il a emménagé dans un nouveau bureau. Quelques années plus tard, Kenneth Durand Sr. et Mme Hayes ont retrouvé la lettre, et celle-ci a été déposée comme Pièce A-1. J'accepte cette explication. Pour en arriver à une conclusion différente, il faudrait que je mette en doute la crédibilité de Kenneth Durand Sr. et celle de Mme Hayes, qui ont tous deux vu l'appelant signer la lettre, et celle de Kenneth Durand Jr., qui a accepté verbalement la démission de l'appelant en décembre 2001 et qui a été informé de la démission écrite et signée au début de l'année 2002. Aussi, M. Gordon Johnson, un ami de longue date de l'appelant, a témoigné qu'il était au courant du trouble qui agitait l'appelant et du soulagement qu'il a éprouvé après avoir démissionné. M. Burton a quitté Tilapia quelques mois plus tard, en mai 2002, alors qu'on lui avait trouvé un remplaçant. À ce moment-là, M. Johnson l'a aidé à obtenir un emploi de camionneur, qu'il occupe encore aujourd'hui.
+[6] Au cours de la période où l'appelant jouait un rôle actif dans Tilapia[1], celle-ci n'a jamais eu d'arrérages de versements au ministre. Les arrérages qui font l'objet du présent appel se rapportent à une période débutant en 2002, soit presque une année après que l'appelant eut démissionné et qu'il eut rompu ses liens avec Tilapia, n'en restant qu'un actionnaire passif.
+[7] Aucun avis n'a été déposé auprès de la Direction des compagnies et des sûretés mobilières de l'Ontario concernant la démission de l'appelant. De là vient le problème. Un agent de l'ARC a témoigné qu'il n'avait pas accepté la version de l'appelant selon laquelle il avait signé une lettre de démission en décembre 2001, croyant que la lettre avait probablement été signée après que l'appelant eut fait l'objet d'une cotisation en 2004. Son scepticisme est compréhensible. La lettre n'a été envoyée à personne et elle n'a pas été versée dans le registre des procès-verbaux. Lorsqu'il a recommandé que l'appelant fasse l'objet d'une cotisation, il ne disposait pas des faits exposés par les quatre témoins.
+[8] Le témoignage de M. Barry Laushway, avocat, a été direct. Il a constitué Tilapia en société et, par commodité, il s'est lui-même nommé unique administrateur. Il a démissionné en faveur des administrateurs en service et, comme l'appelant, a négligé d'en informer la Direction des compagnies et des sûretés mobilières de l'Ontario. En 2003, le ministre lui a envoyé une lettre dans laquelle il le tenait responsable à titre d'administrateur, en vertu de l'article 227.1. Contrairement à l'appelant, M. Laushway a réussi à convaincre le ministre qu'il n'était pas responsable.
+Conclusion
+[9] La compagnie a reçu la démission écrite de l'appelant du poste d'administrateur au plus tard en février 2002. Lorsque l'appelant a démissionné, il n'y avait pas d'arrérages de versements dus à l'ARC. Le ministre a établi une cotisation à l'égard de l'appelant plus de deux ans après qu'il eut démissionné, soit après la prescription dont il est question au paragraphe 227.1(4) de la Loi.
+[10] En décembre 2001, l'appelant frôlait la dépression nerveuse en raison du stress. Il n'avait pas ce qu'il fallait sur le plan émotif pour composer avec les difficultés de Tilapia. Il a démissionné verbalement au cours d'une réunion le 5 décembre 2001, et Kenneth Durand Jr. et Kenneth Durand Sr. ont tous deux accepté sa démission. Il a signé une lettre de démission aux alentours de janvier 2002, qui a ensuite été remise à l'autre administrateur de la compagnie, Kenneth Durand Jr., à peu près en février 2002. Il a continué de travailler pour Tilapia jusqu'en mai 2002, lorsqu'un remplaçant a été trouvé. Tilapia était alors en règle auprès du ministre. L'appelant n'a plus eu rien à voir avec Tilapia outre quelques contacts sociaux très occasionnels avec son neveu, Kenneth Durand Jr.
+[11] L'appel est admis, avec dépens de 500 $ en faveur de l'appelant.
+Signé à Ottawa, Canada, ce 5e jour de décembre 2005.
+« C.H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 12e jour de juin 2006.
+Virginie Loranger, traductrice
+RÉFÉRENCE : 2005CCI762
+NO DU DOSSIER DE LA COUR : 2005-967(IT)I
+INTITULÉ DE LA CAUSE : Philip Burton c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Ottawa (Ontario)
+DATE DE L'AUDIENCE : Le 20 octobre 2005
+MOTIFS DU JUGEMENT PAR : L'honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 5 décembre 2005
+COMPARUTIONS :
+Représentant de l'appelante :
+Kenneth J. Durand
+Avocate de l'intimée :
+Me Marie-Ève Aubry
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelant :
+Nom : s.o.
+Étude : s.o.
+Pour l'intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Je crois que l'appelant est resté actionnaire après qu'il eut démissionné et qu'il eut cessé de travailler chez Tilapia.

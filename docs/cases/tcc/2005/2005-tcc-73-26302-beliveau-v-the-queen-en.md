@@ -1,0 +1,335 @@
+---
+title: "Beliveau v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26302/index.do"
+last_modified: "2005-01-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 73"
+citation2: ""
+neutral_citation: "2005 TCC 73"
+decision_date: "2005-01-27"
+language: "en"
+item_id: "26302"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3314
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:06:36.342000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6ca9131c5ea685234468071de916f90d3c65ed84dd7bc0a3c28541c628e25a58"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Beliveau v. The Queen
+
+- Citation: 2005 TCC 73
+- Decision date: 2005-01-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3314, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beliveau v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-27
+Neutral citation
+2005 TCC 73
+File numbers
+2003-3653(GST)I
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2005TCC73
+Date: 20050127
+Docket: 2003-3653(GST)I
+BETWEEN:
+JEAN-MARC BÉLIVEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on October 29, 2004,
+at Montréal, Quebec and amended for clarification and precision.)
+Archambault J.
+[1] Jean‑Marc Béliveau is appealing the assessment made by the Minister of National Revenue (Minister) under the Excise Tax Act (Act) for the period from January 1, 1996, to December 31, 2000 (relevant period). The Minister determined that Mister Béliveau had not collected and remitted to the Minister, for that period, the GST amounts indicated below with regard to the taxable supply amounts indicated below:
+YEARS
+GST
+TAXABLE
+SUPPLIES
+1996
+$3,216
+$45,947
+1997
+$3,347
+$47,818
+1998
+$3,401
+$48,583
+1999
+$3,194
+$45,632
+2000
+$3,029
+$43,273
+Facts
+[2] At the beginning of the hearing, Mr. Béliveau's counsel admitted the following paragraphs of the Reply to Notice of Appeal:
+18. . . .
+(b) the Appellant made, in the course of commercial activities, a taxable supply of services in Quebec, notably during the period in question;
+(c) the sole proprietorship operated by the Appellant provides advisory and representation services notably in the field of workplace health and safety compensation;
+(d) the Appellant has been operating the company since at least January 1, 1996;
+(g) the Appellant did not keep a record in such form and containing information as would enable the determination of his liabilities and obligations under Part IX of the ETA during the period in question;
+(i) the Appellant did not produce or present the Minister with a net tax return for the reporting periods contained in the period in question nor did he remit to the Receiver General the positive amount of his net tax or request the refund of his net tax, where the amount of his net tax is negative;
+(l) it is the Appellant who provided the Minister with the amounts in regard to his cost of living.
+[3] The evidence also revealed the following facts. Mr. Béliveau was president of the Commission des normes du travail du Québec [Quebec labour standards board] from June 2, 1977, to August 1981. He was also one of the last leaders, if not the last, of the Union Nationale. He was a lawyer for 27 years, first in Victoriaville and then, from 1984, in Montréal. According to Mr. Béliveau's testimony, some describe his as a good litigator. However, Mr. Béliveau was struck from the Roll of the Order of the Barreau on December 4, 1989, for failing to uphold the honour of the profession; the specific reasons for the striking out were not revealed at the hearing.
+[4] The years from 1989 to 1995 were difficult for Mr. Béliveau. During that time, he experienced moments of depression. During that period, he spent part of his time on personal legal proceedings, particularly regarding a matter of unpaid business taxes and the recognition of an interest in a corporation (real estate company) holding a vacant lot of about nine million square feet in Victoriaville. During the same period, he also contested a bankruptcy petition; at the time he owed up to about $2 million dollars. That petition was settled through a proposal in bankruptcy, the details of which are not clear. The shares of the real estate company – representing a one-third interest in that corporation – contributed to breaking the financial impasse. To what extent? The evidence does not provide the answer.
+[5] During that same period, from 1989 to 1995, Mr. Béliveau kept an office outside of his residence that he used for directing his former clients to other lawyers and handling his own legal proceedings. However, there is no trace of the professional income that he would have earned during that period.
+[6] In 1994-1995, Mr. Béliveau began operating his advisory and representation business under the corporate name "Indemniteck." On his business card, (Exhibit I‑5) produced at the hearing, he describes himself as a specialist representing individuals who have had a workplace accident, traffic accident or were unlawfully dismissed and individuals who were the victims of crime. According to Mr. Béliveau, he could defend the interests of those clients without being a member of the Barreau. Also, his remuneration depended on the success of his efforts and more specifically the amounts recovered by his clients. That would explain the non-existence, on the table (income table) that he gave to the tax authorities, of professional income for 1995 and 1996. Below is the data that appears on the table:
+INCOME
+YEAR
+1995
+1996
+1997
+1998
+1999
+2000
+ALL FILES
+$5,000*
+$10,000*
+$5,000*
+$10,000*
+RÉGIE DES RENTES
+DU QUÉBEC
+$5,400
+$5,400
+$5,400
+$5,400
+$5,400
+$5,400
+OLD AGE PENSION
+0
+0
+0
+0
+0
+$5,400
+TOTAL
+$5,400
+$5,400
+$10,400
+$15,400
+$10,400
+$20,800
+* these amounts represent part of the expenses advanced by certain clients.
+[7] During the relevant period, Mr. Béliveau was living in Pointe‑Claire and conducted his professional activities in an office located on Rosemont Boulevard in Montréal. However, Mr. Béliveau did not file an income tax return or a GST return. He did not keep any accounting records or vouchers to allow the tax authorities and the Court to determine the amount of income he earned during that period. At his audit, the auditor had no other choice but to proceed by using the net worth method. However, due to the lack of cooperation from Mr. Béliveau, the auditor was not even able to appropriately apply this last resort method, since Mr. Béliveau did not produce all the documents and information necessary for the use of that method.
+[8] Mr. Béliveau provided the Minister with a table (expense table) that merely contains an estimation of certain living expenses and office expenses, and those office expenses were limited to rent and telephone costs.
+Part of that table is reproduced below:[1]
+LIFESTYLE
+YEAR
+1996
+RENT
+HOME
+$12,000
+ELECTRICITY
+$3,600
+CABLE
+$840
+FOOD
+$7,200
+TELEPHONE
+$600
+RENT
+OFFICE
+RENT
+$10,800
+TELEPHONE
+$6,000
+GASOLINE
+$4,800
+CLOTHING
+(Me, Mathieu and Aimée)
+$1,000
+RECREATION
+I do not drink alcohol
+I do not take drugs
+I have not taken a vacation since 1989
+I do not gamble
+POCKET MONEY
+$1,200
+SUPPORT
+$6,000
+TOTAL
+$54,040
+[9] Clearly, the list of living expenses appears quite incomplete. There are no expense items for restaurants, entertainment, gifts, education costs or for life, automobile or home insurance premiums. With respect to Mr. Béliveau's car, there are only expenses for gasoline. There is no expense item for health care or personal care for him, his wife, his children or his mother, who lived with him for some time. Mr. Béliveau indicated on the expense table that he did not drink alcohol or take drugs. However, there was no mention of whether his wife drank alcohol. Furthermore, it was not indicated whether he or his wife used tobacco.
+[10] The Minister repeatedly asked him to provide a balance sheet for each of the years from 1995 to 2000. Even a requirement dated May 3, 2001, went unanswered, just like the one dated April 4, 2002. It is true that Mr. Béliveau provided a list of assets and liabilities (rough balance sheet). However, not only is that list undated, it does not specify on what date those assets and liabilities would have existed. The only assets that Mr. Béliveau acknowledged having owned was the office furniture for $1,500 and the household furniture for $1,000. There is all sorts of inconsistent information under the liabilities column, namely, information concerning gifts, loans, a judgment and a "cash surrender value of insurance." Thus, the document has no value. It is reproduced below:
+ASSETS
+DEBENTURE
+$0
+INVESTMENT
+$0
+CASH
+$0
+LOAN
+$0
+OFFICE FURNITURE
+$1,500 (APPROXIMATELY IN FURNITURE)
+HOUSEHOLD FURNITURE
+$1,000 (APPROXIMATELY IN FURNITURE. I RENTED FURNISHED)
+OTHER VALUES
+$0
+TOTAL
+$2,500
+LIABILITIES
+MORTGAGE LOAN
+$407,000
+PERSONAL LOAN (MR. BOISVERT)
+$20,000
+CASH SURRENDER VALUE OF INSURANCE
+$20,000
+ANDRÉ DESLISLE JUDGMENT
+$30,000
+GIVEN TO ME BY MY MOTHER
+$100,000
+CARMEN LORANGER
+$50,000
+LOAN
+$80,000
+TOTAL
+$757,000
+[11] As he was unable to obtain a balance sheet from Mr. Béliveau for each of the relevant years, the auditor had no other choice but to assess his unreported gross income based on the rather incomplete data provided by Mr. Béliveau, namely, data related to his cost of living and some office expenses. It should also be noted that the auditor simply accepted the Mr. Béliveau's numbers without adding other expenses that could have been assessed by using statistics like those from Statistics Canada. It is therefore not surprising that Mr. Béliveau did not offer any observations to the auditor when the auditor gave him the draft assessment.
+[12] It should be mentioned that Mr. Béliveau requested a postponement during the week before the hearing of this appeal to allow him to prepare income tax returns. Counsel for the Respondent objected to that request. It is important to recognize that it was a very late request from Mr. Béliveau. Perhaps it was an attempt to show his good faith. However, I drew an altogether negative conclusion from it. If Mr. Béliveau had been sincere, he would have prepared his returns at the audit stage or the objection stage. He could have even done it during the four and a half month period between the date of the notice of hearing that the Court sent him on June 8, 2004, and the date of the hearing on October 26, 2004. Yet, no serious evidence was provided to the Court on the income earned by Mr. Béliveau during the relevant period. His strategy was limited to trying to show that the total of his annual fees did not exceed $30,000 for each of the years referred to in the assessment and that he was a "small supplier" within the meaning of section 148 of the Act during the relevant period. Consequently, in his view, he was not required to collect and remit the GST relating to the supply of his services. To show that the income in question did not exceed $30,000, he simply attacked the net worth calculations made by the auditor, calculations that, as has already been seen and will be seen later on, are rather incomplete.
+[13] In particular, Mr. Béliveau tried to demonstrate that his cost of living, which he himself calculated, was covered by sources other than unreported income. He mentioned gifts from his mother, Ms. Boisvert, and in particular a gift of $100,000 that she gave in two cash payments, one of $20,000 and the other of $80,000. The date of those payments was not specified. He apparently received another gift, of $400,000, from his mother, which was financed in the following manner: a friend of the family, Louis Leblanc, gave advances directly to Mr. Béliveau totalling $400,000 that his mother guaranteed by two mortgages on the property that she owned in Victoriaville and that Mr. Béliveau described in his testimony as an "estate."
+[14] The first mortgage taken by Ms. Boisvert, for $15,000, is dated December 14, 1989. The loan bore interest at a rate of 14.5% and the interest was payable twice a year. According to Mr. Béliveau, that $150,000 mortgage covered the $90,000 in advances already made by Mr. Leblanc since 1984 to finance his office's operations. In addition to that $90,000, Mr. Leblanc made other advances, totalling $60,000 from December 1989.
+[15] The second mortgage was taken by Ms. Boisvert on November 24, 1993, to guarantee other advances to Mr. Béliveau totalling $250,000. The interest, at a rate of 8%, was also payable twice a year. According to the evidence submitted at the hearing, that $250,000 was advanced by cheques of small amounts of, in 1996, $2,000, $4,000, $5,000 and $10,000. Those cheques were sometimes payable to Mr. Béliveau, but most often they were payable directly to his creditors. Mr. Leblanc brought, on the day of the hearing, a number of those cheques,[2] that totalled about $139,530 and covered a five-year period from 1996 to 2000; that represents an average of about $27,900 per year. According to Mr. Leblanc, those cheques were only a fraction of the cheques issued to Mr. Béliveau during that period. He even added that more than $20,000 was loaned to Mr. Béliveau after 2000.
+[16] Still according to Mr. Leblanc, his $400,000 loan was repaid on August 17, 1998, by means of the giving in payment of Ms. Boivert's mortgaged property. Furthermore, in the deed dated August 17, 1998, it is indicated that the amount of the consideration to be $400,000 and that, under section 18 of the Act respecting duties on transfers of immovables, the transfer was not subject to the $4,500 transfer duties.
+[17] Mr. Leblanc acknowledged that he had resold that property one or two years later for a consideration of $125,000 and an immovable. When I asked him what was the value indicated on the transfer deed for the immovable, he responded $40,000. Based on those responses, Mr. Leblanc actually only received $165,000 for the $400,000 advanced to Mr. Béliveau, therefore incurring a loss of $235,000. That number does not take into account the interest that he did not receive.
+[18] On the rough balance sheet, reference is made to other loans granted by other people. In his testimony, Mr. Béliveau referred in particular to a $50,000 loan from Ms. Loranger and a $25,000 loan from Mr. Boisvert. However, according to the rough balance sheet, the loan from Mr. Boisvert was actually $20,000. In addition, Mr. Béliveau stated that it was not a true loan. In fact, he told Mr. Boisvert that he did not want to borrow money. Instead, he persuaded him to treat the $25,000 like an investment in a sort of joint venture. Mr. Boisvert then became his associate. When I asked him to clarify the nature of that association, Mr. Béliveau indicated that he had given Mr. Boisvert an interest in the fees that he expected to receive from three of his clients. Clearly, the evidence does not show that Mr. Boisvert benefited from that association.
+Analysis
+[19] To determine whether the Minister's assessments are valid, it is relevant to consider some principles established by the courts. First, there are those set out in the decision that I rendered in Léger v. The Queen, 2001 DTC 471. At paragraph 13 et seq., I wrote the following:
+[13] First of all, the burden of proof resting on Mr. Léger in his appeals must be dealt with. My colleague Judge Tardif had an opportunity to discuss the burden of proof in a case that, like this one, raised the issue of the use of the net worth method.
+[14] In Bastille v. R., [1999] 4 C.T.C. 2155 (99 D.T.C. 431), he wrote the following at paragraphs 5 et seq:
+[5] I think it is important to point out that the burden of proof rests on the appellants, except with respect to the question of the penalties, where the burden of proof is on the respondent.
+[6] A NET WORTH assessment can never reflect the kind of mathematical accuracy that is both desired and desirable in tax assessment matters. Generally, there is a certain degree of arbitrariness in the determination of the value of the various elements assessed. The Court must decide whether that arbitrariness is reasonable.
+[7] Moreover, use of this method of assessment is not the rule. It is, in a way, an exception for situations where the taxpayer is not in possession of all the information, documents and vouchers needed in order to carry out an audit that would be more in accordance with good auditing practice, and most importantly, that would produce a more accurate result.
+[8] The bases or foundations of the calculations done in a net worth assessment depend largely on information provided by the taxpayer who is the subject of the audit.
+[9] The quality, plausibility and reasonableness of that information therefore take on absolutely fundamental importance.
+[15] Another of my colleagues, Judge Bowman, stated the following in Ramey v. Canada, [1993] T.C.J. No. 142 (QL) ([1993] 2 C.T.C. 2119, 93 D.T.C. 791), at paragraph 6:
+I am not unappreciative of the enormous, indeed virtually insuperable, difficulties facing the appellant and his counsel in seeking to challenge net worth assessments of a deceased taxpayer. The net worth method of estimating income is an unsatisfactory and imprecise way of determining a taxpayer's income for the year. It is a blunt instrument of which the Minister must avail himself as a last resort. A net worth assessment involves a comparison of a taxpayer's net worth, i.e. the cost of his assets less his liabilities, at the beginning of a year, with his net worth at the end of the year. To the difference so determined there are added his expenditures in the year. The resulting figure is assumed to be his income unless the taxpayer establishes the contrary. Such assessments may be inaccurate within a range of indeterminate magnitude but unless they are shown to be wrong they stand. It is almost impossible to challenge such assessments piecemeal. The only truly effective way of disputing them is by means of a complete reconstruction of a taxpayer's income for a year. A taxpayer whose business records and method of reporting income are in such a state of disarray that a net worth assessment is required is frequently the author of his or her own misfortunes.
+[Emphasis added.]
+[20] There are also the principles set out in the following paragraphs of the July 24, 2001, decision rendered by the Federal Court of Appeal in Hsu v. The Queen, [2001] F.C.J. No. 1174 (QL), cited by counsel for the Respondent. Here is what Desjardins J.A. wrote:
+25 In his examination for discovery, the auditor admitted that he did not apply the precise methodology set out in the Taxpayers Operations Manual. He explained that an ordinary net worth assessment was impossible because the appellant refused to disclose any information regarding his actual net worth in 1993 and 1994. Consequently, he did not have a closing balance to use as a benchmark for ascertaining any increase in the appellant's worth during the periods in question[3].
+. . .
+29 Net worth assessments are a method of last resort, commonly utilized in cases where the taxpayer refuses to file a tax return, has filed a return which is grossly inaccurate or refuses to furnish documentation which would enable Revenue Canada to verify the return (V. Krishna, The Fundamentals of Canadian Income Tax Law, 5th ed. (Toronto: Carswell, 1995) at 1089).
+. . .
+33 I would add that it was open to the Tax Court judge to conclude that the Minister's method for determining the appellant's income was reasonable and logical in the circumstances of this case. Although the Minister's reassessments were clearly arbitrary, it cannot be forgotten that this approach was the direct result of the appellant's refusal to disclose any financial information or documentation. In Dezura, supra at 1103-1104, the President of the Exchequer Court of Canada explained:
+. . . If his failure to satisfy the Court is due to his own fault or neglect such as his failure to keep proper account or records with which to support his own statements, he has no one to blame but himself.
+34 As the Tax Court judge observed, the appellant has done nothing to ensure a full, complete and correct audit. The appellant has consistently failed to provide any evidence which would prove his actual income during the period in question. Accordingly, he cannot complain that the Minister has proceeded on the basis of speculative assumptions.
+[Emphasis added.]
+• Mr. Béliveau's less than credible evidence
+[21] Now, let us analyze the evidence presented by Mr. Béliveau. First, I would like to comment on the quality of that evidence. I did not find the testimonies of Mr. Béliveau and Mr. Leblanc credible. Mr. Béliveau's testimony was too often vague, elusive, contradictory, not very plausible or probable, and confusing. Furthermore, Mr. Béliveau had a selective memory. I would like to illustrate that observation with some examples.
+[22] Cross-examined on the expense table that he provided to the auditor,[4] Mr. Béliveau was unable to recognize that he himself had prepared it. Yet, the follow statements were found on the table: "I do not drink alcohol," "I do not take drugs." "I have not taken a vacation since 1989," "I do not gamble."
+[23] In his income table, Mr. Béliveau did not indicate any business income for 1996, while in his testimony he stated that his business income during that year may have been up to $10,000. In his testimony, he stated that he did not know if he had earned business income in 1997, while in his table he indicates income of $5,000 in that regard.
+[24] In responding to the questions that I asked him about the income that he may have earned from his professional activities during the relevant period, he was unable to specify what that income was, except to state that it certainly had not exceeded $20,000. However, the highest amount indicated in his income table is $10,000.
+[25] Mr. Béliveau was elusive in his responses to a number of questions that I asked him. I had to repeat myself four times to get a response from him. In general, Mr. Béliveau's testimony was confusing, such that it was difficult for me to form a precise opinion on his professional activities. For example, in the case of the alleged loan of $20,000 or $25,000, his explanations concerning his association with Mr. Boisvert and concerning the sharing of the fees resulting from three claims made for his clients are far from being clear.
+[26] There are a number of contradictory elements in his testimony or in relation to statements previously mad. At the beginning of his testimony, he indicated that Idemniteck began operations during the period from 1996 to 2000. Then, he situated the start of those operations at around 1994 or 1995. There is also a contradiction between the testimony of Mr. Béliveau, who claims that the proposal in bankruptcy was made in or around 1994 or 1995, and the testimony of Mr. Leblanc, who situated it in or around 1992 or 1993.
+[27] Certain facts related by Mr. Béliveau do not seem very probable. He stated that he kept an office during the period from 1990 to 1994, namely the period after he was struck from the Roll of the Order of the Barreau, whereas he did not acknowledge having had any source of business income. Although he stated that he worked 50 hours a week and that his monthly cell phone bills were between $500 and $700, his business income for the relevant period only represented an annual average of $6,000.
+[28] Mr. Béliveau also showed a selective memory when he accurately recalled the date he was struck from the Roll of the Order of the Barreau and the date of his appointment as president of the Commission des normes du travail, but did not recall the date when his mother was placed in a home or the date when she died. He was also vague in his responses on how long his mother stayed with him and on how long she stayed in a senior's residence.
+[29] Mr. Leblanc's testimony also did not seem very credible. He stated that he held promissory notes against Mr. Béliveau, but he did not bring any of the notes to the hearing. According to him, he was not asked to do so. That is very surprising when proof of the existence of those loans is a major element of Mr. Béliveau's defence.
+[30] Another element that makes me doubt the truth of Mr. Leblanc's testimony is the fact that the cheques that he produced in Court — as was also the case with the mortgage deeds[5] — were not shown to the Minister's agent during the audit or during the steps taken at the objection stage. The Minister therefore never had the opportunity to verify the source of Mr. Leblanc's funds, the information provided by the mortgage deeds and the source of the sums of money given by cheque to Mr. Béliveau by Mr. Leblanc. Also, Mr. Leblanc was rather vague when explaining, at the hearing, the source of the colossal sum of $400,000 that he claims to have loaned to Mr. Béliveau.
+[31] However, the most serious reason why I doubt the truth of Mr. Leblanc's version is the circumstances surrounding the alleged $400,000 loan. In fact, that loan was apparently made through a mortgage on the "estate" (to use Mr. Béliveau's expression), a property whose value was shown to not be higher than $165,000 when it was resold one or two years after the transfer. To try to counter the negative effect of his response — that the immovable given in exchange only had a value of $40,000, which, added to the sum of money of $125,000, resulted in a total consideration of $165,000, Mr. Leblanc spoke of the existence of a purchase offer of around $700,000 that was allegedly made for the estate. However, not only was that offer not submitted before the Court to support that testimony, but Mr. Leblanc acknowledged that he had not even seen it himself. Another very intriguing fact in this whole affair of the alleged $400,000 loan is that the interest was never paid by Mr. Béliveau to Mr. Leblanc. Lastly, even after having realized that he had only made $165,000 on the guarantee that he had been given for the alleged $400,000 loan, Mr. Leblanc continued to loan money to Mr. Béliveau after 2000, namely at least $20,000!
+[32] It seems more plausible that the $400,000 given to Mr. Béliveau originated, directly or indirectly, from Mr. Béliveau himself, either through his consultant business or other disguised sources of income. One of those sources could likely be Mr. Béliveau's interest in a landfill site that Mr. Leblanc apparently acquired from clients of Mr. Béliveau and that he operated with his son. That acquisition apparently proved to be an excellent business for Mr. Leblanc. I would not be surprised that the Leblancs operated the landfill site, in whole or in part, as front men for Mr. Béliveau. In fact, Mr. Leblanc and Mr. Béliveau's counsel explained Mr. Leblanc's generosity by the fact that he had acquired the landfill site from one of Mr. Béliveau's clients.
+[33] Support for that theory may also be found in the fact that it was in Mr. Béliveau's interest to use front men to escape his creditors.[6] That would not be the first time that Mr. Béliveau was involved in such an arrangement. In fact, he stated that he was associated with Mr. Boisvert, with whom he was to share his fees in exchange for an amount of $20,000 or $25,000.[7] Such an arrangement could therefore have also been adopted with Mr. Leblanc for the operation of the landfill site. When I asked Mr. Leblanc how he was compensated with respect to that landfill business, he acknowledged that the clients of the site were truck drivers and not businesses or municipalities. It is therefore unimaginable that those truck drivers were able to pay in cash for the burial of waste.
+[34] I am not saying that Mr. Béliveau was one of the owners of that landfill business; the evidence, obviously, is not clear enough to arrive at that conclusion. However, that theory seems as plausible, if not more so, than the version of the facts provided by Mr. Leblanc, according to which he paid considerable sums without sufficient guarantee and without collecting interest on those amounts and continued to advance Mr. Béliveau additional sums, even after having lost about 60% of his loan ($235,000/$400,000).
+• Incomplete calculation of the change in net worth
+[35] However, it is important to note the incomplete nature of the calculation of the change in net worth made by the auditor. First, he did not have any of the numbers necessary to establish the change in net worth resulting from the fluctuation of the assets and liabilities. Mr. Béliveau did not provide a balance sheet for any of the relevant years, namely from 1995 to 2000. The inexistence of that data is not the fault of the auditor, who repeatedly tried to obtain it. Mr. Béliveau is the one who refused to disclose it.
+[36] It would have been very interesting to know to what extent the debts that Mr. Béliveau may have accumulated before and during the relevant period could have been settled during the relevant period and to what extent Mr. Béliveau could have financed the acquisition of assets, in particular his car.[8]
+[37] Not only were the auditor's calculations incomplete because he was missing the entire change in net worth component, but the data concerning the cost of living was erroneous. As previously mentioned, that data was erroneous primarily because it was incomplete: many expense items were not found in the expense table. They are also erroneous because some data on the expense table had been underestimated. Evidence of that is provided in part by the cheques that Mr. Leblanc produced in Court. Those cheques, drawn on Mr. Leblanc's account and made out to Mr. Béliveau's suppliers or creditors, reveal in particular the additional significant expenses of Mr. Béliveau.
+[38] First, for the year 2000, there were ten cheques – one for $795 and nine for $548 – totalling around $5,728 issued to pay the life insurance premiums. Calculated on an annual basis, the annual premium comes to around $6,824. I also noted that there were a number of cheques issued to pay similar life insurance premiums for the period from 1997 to 1999.[9] Since most of the cheques for that period are for $548, except for in 1997 where the cheques were for $560, it seems that Mr. Béliveau paid a total of $27,296 (4 x $6,824) in life insurance premiums during that period. Such a personal expense item appears nowhere on the expense table: nothing to lend credibility to Mr. Béliveau's testimony.
+[39] Another type of expense not found on the expense table is Mr. Béliveau's expenses relating to his mother during the period that she lived with him as well as during the period beginning when he had to place her in a senior's residence. According to Mr. Béliveau, the old age pension that his mother received was not enough to pay the monthly amount required by that residence. It was necessary to add from $800 to $900 to the pension. Assuming that Ms. Boisvert only lived in that residence for one year, the difference comes to $10,800 (900 x 12) for one year.
+[40] In his testimony, Mr. Béliveau indicated that he travelled to Quebec to defend the interests of his clients, and yet there were no restaurant expenses indicated among his expenses. Furthermore, the only expenses indicated in relation to his car were gasoline expenses. What about car insurance, registration fees and maintenance costs?
+[41] There are no expenses for recreation or entertainment, no expenses for health care or personal care, no expenses for home maintenance and insurance for him and for his family. The only office expenses indicated are those for office space and for telecommunications. What about the expenses for office supplies? Did he not use the services of a secretary throughout the entire relevant period?
+[42] Another fact revealed by the analysis of the cheques provided by Mr. Leblanc is that Mr. Béliveau paid $1,000 in support per month rather than the $500 he indicated in his expense table. In fact, I was able to find four consecutive cheques for $1,000 for the months of March to June 1998. Thus, it is plausible that the support was actually $12,000 per year and not $6,000. Therefore, there would be a difference of $6,000 per year over five years for a total of $30,000 during the relevant period.
+[43] The amounts that Mr. Béliveau indicated as being related to "food" are $600 per month for each of the years from 1996 to 2000. That represents around $140 in groceries per week for a family of five or six persons. Mr. Béliveau was married; he had three children who, in 1997, were between the ages of one and 11 years. Also, the evidence showed that Mr. Béliveau's mother had also lived with him for a certain time. Therefore, $140 does not seem to be enough.
+[44] In summary, it must be determined that the amount of the unreported income established using the net worth method is not reliable. It was calculated using data that was rather incomplete both due to the absence of numbers showing the change in net worth and the fact that the cost of living expenses were underestimated. If the net worth method had been applied rigorously and according to generally accepted practices, higher amounts would have been established as unreported income. Mr. Béliveau is primarily at fault for the inaccuracy of the evaluation made by the auditor.[10] As the amounts of the unreported gross income established through the auditors calculations cannot be relied on because that income was in fact clearly higher than the amounts so calculated, it becomes impossible, as stated Bowman J. (as he was then) in Ramey, to challenge isolated elements of the Minister's assessment. Even if I agreed that part of the costs of living was covered by genuine loans granted by certain lenders previously mentioned, there is no way to be certain that the amount of the fees did not exceed, for each of the relevant years, the magic number of $30,000, the threshold beyond which the status of small supplier cannot be claimed. Only a complete and credible reconstruction of the income earned by Mr. Béliveau would be able to refute the facts on which the Minister's assessment was made.
+[45] Even if I believed that Mr. Béliveau received a genuine loan of $400,000, which is not the case, that loan would not have been enough to cover Mr. Béliveau's cost of living during the relevant period. In fact, the first part of that loan, namely $150,000 was allegedly advanced before 1993. Of that $150,000, $90,000 was spent from 1984 to 1989 to cover the activities of Mr. Béliveau's law firm. The balance, $60,000, was advanced from December 1989. For the period from 1990 to 1993, Mr. Béliveau does not acknowledge having had any source of income whatsoever. If the underestimated amount of $54,000 that Mr. Béliveau himself indicated on the expense table is used as the annual cost of living during that period, the $60,000 paid in 1989 proves to be insufficient to cover his needs for the period from 1990 to 1993. There would be a deficit of $156,000 since an annual cost of living of $54,000 during four years represents a total of $216,000.[11]
+[46] As to the $250 000 guaranteed by the second mortgage of November 1993, presumably part of that amount would have been required before that date and, as that had been the case for the money obtained through the first mortgage, part of that $250,000, namely $56,000, would have been advanced before the date of the mortgage. Therefore, there would then only have been $94,000 remaining to advance at the end of 1993.[12] However, he would have needed $108,000 to cover his cost of living for 1994 and 1995, which would create a deficit of $14,000.
+[47] For the relevant period, it would still be necessary to cover an amount of $30,000 for the additional support that Mr. Béliveau would have had to pay to his former spouse,[13] an amount of $27,300 for the life insurance premiums and an amount of $10,800 for the cost of his mother's stay in a senior's residence. That would give an overall deficit of $82,100. And I have not yet considered the higher cost of groceries; in fact, in my view, the grocery expense was underestimated just like the expenses related to the car, office, health care, and the list goes on.
+[48] Clearly, it is possible that the other gift of $100,000 from his mother should be added to the gift of $400,000.[14] In that case, at the end of 1995 there would still be a positive balance of $17,900 to cover the annual cost of living of $54,040 reported by Mr. Béliveau, which represents a total of $270,200 for the relevant period. That falls fall way short, even if the $67,800 indicated as income on his income table for the relevant period is subtracted from that amount.
+[49] The same comments apply to the other alleged loans granted to Mr. Béliveau, namely those from Mr. Boisvert and Ms. Loranger. There was no serious and credible evidence produced at the hearing to establish that those loans existed and to what extent and during what period they were reimbursed. Also, it should be noted that Mr. Béliveau at some point had debts of $2 million and apparently made a proposal in bankruptcy whose payment terms are, as I have already mentioned, unclear. Furthermore, it is possible that the gifts and loans made before the relevant period had been used entirely to settle the $2 million debt.
+[50] In the end, it is not possible for me to determine on a balance of probabilities that Mr. Béliveau's unreported income is less than the income revealed by the changes calculated by the auditor using his method. Mr. Béliveau failed miserably in his task of demonstrating that the taxable supply amounts calculated are erroneous. If there is a case where the comments of Bowman J. in Ramey should be applied literally, it is indeed this appeal. In this case, not only was a quite arbitrary method used by an auditor, but that arbitrary method is itself seriously deficient because important elements are missing, namely, the calculations of net worth, as well as cost of living expenses.
+[51] For all of these reasons, Mr. Béliveau's appeal is dismissed.
+Signed at Ottawa, Canada, this 27th day of January 2005.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 19th day of August 2005.
+Aveta Graham, Translator
+CITATION:
+2004TCC73
+COURT FILE NO.:
+2003-3653(GST)I
+STYLE OF CAUSE:
+Jean-Marc Béliveau v. Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+October 26, 2004
+REASONS FOR JUDGMENT BY:
+The Hon. Justice Pierre Archambault
+DATE OF JUDGMENT:
+November 3, 2004
+DECISION RENDERED ORALLY:
+October 29, 2004
+REASONS FOR JUDGMENT:
+January 27, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Rachel Laferrière
+Counsel for the Respondent:
+Mario Laprise
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Rachel Laferrière
+Firm:
+de Grandpré Chait, lawyers
+Montréal, Quebec
+For the Respondent:
+John H. Sims, QC
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] I only reproduced the column for 1996 since the same numbers were repeated for the years 1997 to 2000.
+[2] They were copied before the commencement of the hearing, which delayed its start.
+[3] These facts strangely resemble the facts in our appeal.
+[4] The auditor confirmed that Mr. Béliveau had given him that table.
+[5] Mr. Béliveau states that he did not give them to the appeals officer because of a smile from that officer. That is rather surprising from a former "good litigator."
+[6] Another explanation, more awkward for Mr. Béliveau, would be that he did not want to appear to have purchased property belonging to his clients.
+[7] I must also mention the problems that Mr. Béliveau had in trying to have the courts recognize his interest in the real estate company. Is that another front man arrangement?
+[8] Mr. Béliveau did not include any payments under his cost of living for the use of a car. It can therefore be concluded that he owned his car (and/or his wife's car).
+[9] Since I could not find such cheques for 1996, I assumed that the life insurance premiums were only paid for the period from 1997 to 2000. However, it is far from being certain that Mr. Béliveau did not pay such premiums before 1997.
+[10] The auditor could also have shown more rigour in adding the expenses evaluated based on data from Statistics Canada for the expense items omitted by Mr. Béliveau.
+[11] ($60,000 – $216,000 = – $156,000).
+[12] ($250,000 – $156,000 = $94,000).
+[13] The deficit of $14,000 could be significantly higher if Mr. Béliveau paid more than $6,000 in annual support before the relevant period, for example, between 1989 and 1996.
+[14] However, it is far from being certain that his mother gave him such a gift: it seems rather surprising that she had $80,000 "in cash" to make a gift. Furthermore, the date of this alleged gift has not been specified.

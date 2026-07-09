@@ -1,0 +1,195 @@
+---
+title: "Yourkin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/66838/index.do"
+last_modified: "2014-02-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 48"
+citation2: ""
+neutral_citation: "2014 TCC 48"
+decision_date: "2014-02-13"
+language: "en"
+item_id: "66838"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5952
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:57:12.154000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "86af77c17fc9e584cec833b5eea89b4ce586ab9f6c1d0d768ddfb3f03493364d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Yourkin v. The Queen
+
+- Citation: 2014 TCC 48
+- Decision date: 2014-02-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5952, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yourkin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-02-13
+Neutral citation
+2014 TCC 48
+File numbers
+2013-1430(IT)I
+Judges and Taxing Officers
+Rommel G. Masse
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-1430(IT)I
+BETWEEN:
+WALTER YOURKIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 10, 2014, at Toronto, Ontario
+By: The Honourable Rommel G. Masse, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Lindsay Beelen
+____________________________________________________________________
+AMENDED JUDGMENT
+The Appeal from the assessment made under the Income Tax Act for the 2011 taxation year is dismissed.
+The Appellant must pay the Respondent’s costs fixed at $625.
+This Amended Judgment is issued in substitution of the Judgment dated February 13, 2014.
+Signed at Montréal, Québec, this 4th day of March 2014.
+"Rommel G. Masse"
+Masse D.J.
+Citation: 2014 TCC 48
+Date: 20140213
+Docket: 2013-1430(IT)I
+BETWEEN:
+WALTER YOURKIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Masse D.J.
+[1] This is an Appeal from the Minister of National Revenue’s (the "Minister") assessment of the Appellant’s 2011 taxation year. The issue is whether the Appellant is entitled to deduct the sum of $13,587 as spousal support payments purportedly made to his former spouse, Phyllis Yourkin. These payments were made directly to the Appellant’s former spouse from the Appellant’s pension plan.
+Factual Context
+[2] The Appellant and his former spouse, Phyllis Yourkin, were married in 1959. The marriage broke down and the couple finally separated in August 1994.
+[3] On April 18, 1995 the Honourable Mr. Justice O’Connell of the then Ontario Court (General Division) ordered the Appellant to make interim spousal support payments in the amount of $1,500 per month. By operation of this Order, this sum of money was deducted from the Appellant’s pay by his employer, Lever Brothers Limited, and remitted to the Family Support Plan.
+[4] The litigation between the spouses pursued its course and on January 13, 1997 the Honourable Mr. Justice Walsh of the Ontario Court (General Division) rendered a Judgment (see Ex. R-1, Tab 4) whereby he effected an equalization of the net family property. According to paragraph 4 of this Judgment, the Appellant’s interest in the Unilever Canada Pension Plan (the "Pension Plan") was split with the Appellant’s former spouse receiving 42.5% of all retirement benefits payable to the Appellant. It was ordered that the Appellant was to sever the pension into two parts, one for himself and the other for his former spouse. The administrator of the Pension Plan was then to pay to the former spouse her share of the retirement benefits in monthly payments. The former spouse was to indemnify and save harmless the Appellant from any tax liability attributable to her share of the Pension Plan. The effect of this Judgment was that Phyllis Yourkin was to receive her share of the pension in periodic payments directly from the Pension Plan and both she and the Appellant would be taxed on their respective amounts. The Judgment also put an end to the Appellant’s obligation to pay spousal support effective January 1, 1997. In rendering his Judgment, Justice Walsh relied on Minutes of Settlement purportedly executed by the Parties (see Ex. R-1, Tab 5). Phyllis Yourkin signed these Minutes of Settlement on her own behalf and counsel for the Appellant at the time, Lang Michener LLP., signed on behalf of the Appellant.
+[5] In the 2011 taxation year, the Appellant received pension income from the Pension Plan in the amount of $19,786. In computing his income for that taxation year, the Appellant claimed a deduction of $13,587 for spousal support payments. It is undisputed that the Appellant did not receive any monies from the Pension Plan on behalf of his former spouse, he did not pay her any monies during the taxation year, and he also did not pay any taxes at all on the amount of $13,587 which he is claiming as a deduction for spousal support. In fact, his former spouse was responsible for paying any taxes attributable to any monies she received from the Pension Plan.
+[6] In refusing the deduction the Minister was of the view that the $13,587 claimed as a deduction was not for spousal support pursuant to a decree, order, judgment of a competent tribunal, or a written agreement. The monies represented the equalization of net family assets, specifically the Appellant’s Pension Plan. Therefore the Appellant was not entitled to a deduction for support under paragraph 60(b) of the Income Tax Act, R.S.C., 1995, c. 1 (5th Supp.) (the "Act"). Hence, the Appeal to this Court.
+Theory of the Appellant
+[7] The Appellant takes the position that the Judgment of Walsh, J., dated January 13, 1997 is not binding on him because he did not sign the underlying Minutes of Settlement which is the foundation of the Judgment; nor did he authorize his counsel at the time to sign the Minutes on his behalf. He is of the view that the Order of O’Connell J., dated April 18, 1995 governs in the circumstances and any monies that were paid to his former spouse during the taxation year represents spousal support payments for which he is entitled to claim a deduction from income.
+Theory of the Respondent
+[8] The Respondent submits that the monies paid out to Phyllis Yourkin by the Pension Plan were on account of the equalization of net family assets. They were not paid to her under the guise of spousal support pursuant to a decree, order, judgment of a competent tribunal, or a written agreement. The Judgment of Walsh J. is a valid and binding Order that has not been appealed, set aside or otherwise varied. The Judgment of Walsh J. expressly terminated the Appellant’s obligation to pay spousal support and it partitioned the net family assets including the Appellant’s Pension Plan. The Appellant has not paid any monies to his former spouse during the taxation year and he has not paid any taxes on the money which she has received from the Pension Plan. The Appellant was not entitled to claim the monies received by his former spouse from the Pension Plan as a deduction for spousal support.
+Legislative Provisions
+[9] The relevant provisions of the Act are as follows:
+56.1(4) The definitions in this subsection apply in this section and section 56.
+“child support amount” means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common-law partner of the payer or who is a parent of a child of whom the payer is a legal parent.
+“commencement day” at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+60. There may be deducted in computing a taxpayer’s income for a taxation year such of the following amounts as are applicable
+…
+(b) the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A
+is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B
+is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C
+is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer’s income for a preceding taxation year;
+60.1(4) The definitions in subsection 56.1(4) apply in this section and section 60.
+Analysis
+a) The validity of the Walsh Judgment
+[10] I am of the view that the Judgment of Walsh J. dated January 13, 1997 is valid and binding on the Appellant. It is clear that Phyllis Yourkin, the ex-spouse, did sign the Minutes of Settlement and the Appellant’s solicitors, Lang Michener LLP, who were acting on his behalf at the time, signed the Minutes for him. Even though the Appellant claims that he did not authorize his counsel to sign the Minutes of Settlement on his behalf, he has not bothered to appeal the Judgment nor has he brought an application to a court of competent jurisdiction to have it set aside or varied.
+[11] It is trite law that a court order is valid and binding so long as it has not been reversed or set aside. As observed by the Supreme Court of Canada in R. v. Wilson, [1983] 2 S.C.R. 594 (S.C.C.):
+It has long been a fundamental rule that a court order, made by a court having jurisdiction to make it, stands and is binding and conclusive unless it is set aside on appeal or lawfully quashed.
+And again in Wilson, supra:
+It is also well established in the authorities that such an order may not be attacked collaterally and a collateral attack may be described as an attack in proceedings other than those whose specific object is the reversal, variation, or nullification of the order or judgment.
+That is exactly what the Appellant has sought to do in the present proceedings; he is trying to mount a collateral attack on the validity of the Judgment of Walsh J. This he cannot do.
+[12] Consequently, the Judgment of Walsh J. is a valid and subsisting one and it is binding. I have no jurisdiction to treat it otherwise than as binding.
+[13] The Appellant argues that at no time did he authorize his solicitors at the time, Lang Michener LLP, to sign the Minutes of Settlement or to otherwise negotiate a settlement of the litigation between himself and his former spouse. He argues, therefore, that he cannot be bound by the Minutes of Settlement or the Judgment of Walsh J. That argument must also fail.
+[14] It is trite law that a solicitor, as agent for his/her client, has the authority to negotiate and settle litigation in which the client is involved and such a negotiated settlement is binding on the client. In Scherer v. Paletta [1966] 2 O.R. 524-527, Justice Evans of the Ontario Court of Appeal stated:
+The authority of a solicitor arises from his retainer and as far as his client is concerned it is confined to transacting the business to which the retainer extends and is subject to the restrictions set out in the retainer. The same situation, however, does not exist with respect to others with whom the solicitor may deal. The authority of a solicitor to compromise may be implied from a retainer to conduct litigation unless a limitation of authority is communicated to the opposite party. A client having retained a solicitor in a particular matter, holds that solicitor out as his agent to conduct the matter in which the solicitor is retained. In general, the solicitor is the client’s authorized agent in all matters that may reasonably be expected to arise for decision in the particular proceedings for which he has been retained. Where a principal gives an agent general authority to conduct any business on his behalf, he is bound as regards third persons by every act done by the agent which is incidental to the ordinary course of such business or which falls within the apparent scope of the agent’s authority. As between principal and agent, the authority may be limited by agreement or special instructions but as regards third parties the authority which the agent has is that which is reasonable to be gathered from the nature of his employment and duties. …
+A solicitor whose retainer is established in the particular proceedings may bind his client by a compromise of these proceedings unless his client has limited his authority and the opposing side has knowledge of the limitation, subject always to the discretionary power of the Court, if its intervention by the making of an order is required, to enquire into the circumstances and grant or withhold its intervention if it sees fit; and, subject also to the disability of the client. …. If, however, the parties are of full age and capacity, the Court, in practice, where there is no dispute as to the fact that a retainer exists, and no dispute as to the terms agreed upon between the solicitors, does not embark upon any inquiry as to the limitation of authority imposed by the client upon the solicitor.
+[15] In Sourani v. Canada, [2001] F.C.J. No. 904, Justice Malone of the Federal Court of Appeal observed at paragraph 4:
+… A lawyer is a client’s authorized agent in all matters that may reasonably be expected to arise for decision in the particular proceeding for which he has been retained. Mr. Sourani authorized the filling of a Notice of Appeal and the lawyer that did so must be taken to have had the authority to make agreements and compromises in the litigation that followed from the filing of the Notice of Appeal. As between Mr. Sourani and his lawyer, there may have been a limitation on the lawyer’s authority, but that was not binding on the Tax Court Judge or counsel for the Minister who had no knowledge of any such limitation (Scherer v. Paletta, [1966] 2 O.R. 524, at 526-527(C.A.)).
+And at paragraph 6:
+Mr. Sourani’s counsel had the ostensible authority to sign the agreements dated April 28, 1995 and May 25, 1995. Mr. Sourani is accordingly bound by those agreements and the authority of his lawyer to enter them is not an issue for redetermination by the Tax Court. I make no comment on whether Mr. Sourani may have recourse against his counsel in any other forum.
+[16] Therefore, even though the Appellant did not sign the Minutes of Settlement and even though he claims that he did not authorize his solicitors to sign the Minutes of Settlement on his behalf, the Judgment of Walsh J. is binding against him vis-à-vis all third parties such as his former spouse.
+(b) Res judicata and issue estoppel
+[17] The Respondent invokes the principles of res judicata and argues that the Appellant is estopped from relitigating the same issue again. This is not the first time Mr. Yourkin has been before this Court on this very same issue. He unsuccessfully challenged his assessments for his 2001, 2002, 2003, 2005, 2006 and 2009 taxation years. In all of these prior appeals, the parties were the same, the issue was exactly the same, and the facts relied upon were the same except for the taxation years and perhaps the amount in dispute. The Appellant advanced the same argument in all of these appeals. In all of these appeals, the Appellant argued that the Judgment of Justice Walsh was not binding on him for the reasons already discussed. This issue has been decided adversely to the Appellant by Justice McArthur in Yourkin v. R., [2004] 2 C.T.C. 2166 (T.C.C.); by Justice Paris in Yourkin v. R., [2006] 3 C.T.C. 2559 (T.C.C.); by Justice Margeson in Yourkin v. R., (2008) TCC 686; and by Justice Sheridan in Yourkin v. H.M.Q., (2011) TCC 557.
+[18] Whether one looks at this situation through the lens of res judicata or issue estoppel, the result is the same. The parties were the same, the facts in issue were the same, the legal issue was the same and so the result must necessarily be the same. The matter has been finally decided. The prior decisions have not been appealed and so these prior judgments are final and are binding on me. Even if I were of the view that I am not bound by the decisions of Justices McArthur, Paris Margeson and Sheridan, then I would simply say that I agree with them.
+(c) Costs
+[19] Counsel for the Respondent is seeking an order for costs. It is very unusual for costs to be awarded by the Tax Court of Canada where an Appellant proceeds by way of the Informal Procedure. Yet the Tax Court of Canada Rules (Informal Procedure), SOR/90-688 as amended, do provide for an award of costs in the discretion of the Court (see Rule 10 and Rule 11).
+[20] Rule 10 provides:
+10.(1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+(2) The Court may award costs to the respondent, in an amount not exceeding the amounts listed in section 11, only if the actions of the appellant unduly delayed the prompt and effective resolutions of the appeal.
+(3) The Court may direct the payment of costs in a fixed sum, in lieu of any taxed costs.
+[21] Rule 11 provides:
+11. On the taxation of party and party costs the following fees may be allowed for the services of counsel
+…
+(b) for preparing for a hearing $250:
+(c) for the conduct of a hearing, $375 for each half day or part of a half day;
+(d) …
+[22] The Federal Court of Appeal provides some guidance regarding the use that can be made of a costs award in its decision of Fournier c. R., 2005 G.T.C. 1398 where Justice Létourneau stated clearly that the Tax Court of Canada has the inherent jurisdiction to prevent and control an abuse of its process: see also Yacyshyn v. R., F.C.J. No. 196 (Fed. C.A.). The awarding of costs is one mechanism for preventing or remedying abusive delays or procedures: see Blencoe v. British Columbia (Human Rights Commission), [2001] 2 S.C.R. 307 (S.C.C.). Costs can certainly be used to deter litigants from bringing proceedings that are patently unmeritorious and have no hope of succeeding.
+[23] In Graham v. H.M.Q., 2013 TCC 294, Justice Boyle of this Court, in dismissing an appeal assessed costs against the unsuccessful Appellant. In doing so, Justice Boyle held that the Appellant had advanced arguments that he knew were vacuous and devoid of merit and this constituted an entirely unnecessary proceeding thus delaying the prompt and effective resolution of his tax appeal by way of dismissal. Justice Boyle assessed Rule 10 costs in the amount of $375 which is the amount set by Rule 11(c) for the conduct of a hearing of a half-day or less in length.
+[24] In R. v. Yourkin (June 2 2010; 2010-382(IT)I), Justice Hogan in very brief oral reasons dismissed Mr. Yourkin’s appeal but refused to order any costs on the grounds that he was not satisfied that he had the ability to pay. It is clear, however, that Mr. Yourkin has not in the slightest been deterred in bringing unmeritorious appeals. He knows that his arguments are “vacuous and devoid of merit”, to borrow the words of Justice Boyle in Graham. The present Appeal is an entirely unnecessary proceeding that was doomed to fail. For Mr. Yourkin to bring an Appeal before this Court arguing an issue that has been decided against him many times in the past and that he knows will be decided against him again, constitutes an abuse of the process of this Court. Pursuant to Rule 10 and Rule 11(b) and (c), I award costs against him in the amount of $250 for preparing for a hearing and costs of $375 for a half-day hearing, for a total of $625.
+Conclusion
+[25] It is clear from the terms of the Minutes of Settlement and the Judgment rendered by Walsh J., that the issue of spousal support and the division of pension benefits were treated separately; the pension benefits formed part of the equalization of property settlement, not part of a spousal support regime. In fact, according to the Minutes of Settlement and the Judgment, the Appellant was no longer required to pay any spousal support. The effect of the Walsh J. Judgment was to sever the pension so that when payable, the proportionate share of each spouse would be paid directly to the Appellant and his former spouse respectively. Each received it as income in his or her own hands. Each was responsible for paying the taxes on the amount he or she received. In 2011, Phyllis Yourkin did not receive any spousal support from the Appellant since he was not obligated to pay her any. All she received was monthly payments representing her share of the Pension Plan, which was a family asset. Furthermore, the Appellant has not paid any taxes on the amount which was paid to Phyllis Yourkin from his Pension Plan. He never paid any amount to Phyllis Yourkin at all so it is illogical that he should claim a deduction for any amount that he never paid. The payment by the Pension Plan of a portion of the pension cannot be found to be a payment by the Appellant to his former spouse.
+[26] In conclusion, the Appellant did not pay any support to his former spouse during the taxation year pursuant to an Order of a competent tribunal and thus he cannot claim any deduction from income as spousal support.
+[27] The Appeal is therefore dismissed.
+[28] The Appellant must pay the Respondent’s costs fixed at $625.
+Signed at Toronto, Ontario, this 13th day of February 2014.
+"Rommel G. Masse"
+Masse D.J.
+CITATION: 2014 TCC 48
+COURT FILE NO.: 2013-1430(IT)I
+STYLE OF CAUSE: WALTER YOURKIN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 10, 2014
+REASONS FOR JUDGMENT BY: The Honourable Rommel G. Masse, Deputy Judge
+DATE OF JUDGMENT: February 13, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Lindsay Beelen
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

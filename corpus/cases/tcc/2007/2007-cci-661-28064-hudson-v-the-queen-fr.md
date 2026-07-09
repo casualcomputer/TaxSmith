@@ -1,0 +1,158 @@
+---
+title: "Hudson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28064/index.do"
+last_modified: "2007-08-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 661"
+citation2: ""
+neutral_citation: "2007 CCI 661"
+decision_date: "2007-08-10"
+language: "fr"
+item_id: "28064"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1584
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:24:38.400000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "76c9f014963495f9d17292210da766816d452e9365d46168ac9956f4b56753ca"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hudson v. The Queen
+
+- Citation: 2007 CCI 661
+- Decision date: 2007-08-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1584, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hudson v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-08-10
+Référence neutre
+2007 CCI 661
+Numéro de dossier
+2006-3339(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3339(IT)I
+ENTRE :
+TOLSON A. HUDSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 10 août 2007,
+à St. John’s (Terre-Neuve-et-Labrador).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Selena Sit
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs de jugement ci‑joints, l’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 est accueilli, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que les frais afférents à un véhicule à moteur de 3 598,82 $ et de 3 230,88 $, que l’appelant a engagés en 2002 et en 2003 respectivement, sont des sommes que l’appelant a dépensées à ce titre pour se déplacer dans l’exercice des fonctions de son emploi, au sens de l’alinéa 8(1)h.1) de la Loi.
+Signé à Ottawa, Canada, ce 30e jour d’octobre 2007.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 16e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI661
+Date : 20071030
+Dossier : 2006-3339(IT)I
+ENTRE :
+TOLSON A. HUDSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, Tolson Hudson, interjette appel des cotisations établies par le ministre du Revenu national, dans lesquelles des dépenses d’emploi ont été refusées pour 2002 et 2003.
+[2] Pendant ces années, M. Hudson travaillait pour le gouvernement de Terre‑Neuve‑et‑Labrador, à St. John’s, à titre d’agent de développement économique. M. Hudson devait se déplacer dans le cadre de son emploi et payer les dépenses afférentes à ses déplacements. Il a dûment joint le formulaire T2200, Déclaration des conditions de travail, signé au nom de son employeur, à ses déclarations de revenus[1]. Il recevait de son employeur deux indemnités pour l’utilisation de son véhicule, soit une indemnité de 0,315 $ le kilomètre et une indemnité fixe. L’appelant a inclus ces indemnités dans son revenu pour les années 2002 et 2003, conformément aux sous‑alinéas 6(1)b)(vii.1) et (x) de la Loi de l’impôt sur le revenu.
+[3] Au total, M. Hudson a engagé des frais de 7 486,12 $ en 2002 et de 4 901,20 $ en 2003 pour l’utilisation de son véhicule à des fins personnelles et professionnelles. Il a déduit respectivement 3 598,82 $ et 3 230,88 $ pour l’utilisation de son véhicule dans le cadre de son emploi. Il a calculé ces sommes en fonction du nombre de kilomètres pour lesquels il avait reçu une indemnité de kilométrage et des 30 kilomètres qu’il parcourait chaque jour pour se déplacer entre sa résidence et son bureau (le « trajet »). Afin de justifier l’inclusion des kilomètres du trajet, l’appelant a soutenu qu’il utilisait son véhicule pour aller travailler uniquement parce que son employeur l’exigeait. L’appelant avait d’autres moyens de transport moins coûteux, mais il ne pouvait les utiliser parce qu’il était tenu de fournir son véhicule dans le cadre de son travail.
+[4] Le ministre n’a pas été convaincu par cet argument, et il a refusé la partie des frais déduits qui se rattachait au trajet parce que l’utilisation d’un véhicule pour aller au travail et en revenir constitue une utilisation personnelle du véhicule. Le ministre a calculé la déduction permise pour frais afférents à un véhicule à moteur uniquement en fonction du nombre de kilomètres pour lesquels M. Hudson avait reçu une indemnité de kilométrage. Par conséquent, le calcul pour 2002 a été fait ainsi :
+Total des frais afférents à un véhicule à moteur :
+7 486,12 $
+Indemnité de kilométrage reçue :
+182,70 $
+Taux par kilomètre :
+0,315 $/km
+Nombre de kilomètres liés à l’emploi =
+580 km (182,70 $/0,315 $/km)
+Nombre total de kilomètres :
+13 560 km
+Pourcentage de l’utilisation du véhicule à des fins professionnelles :
+4,28 % (580 km/13 560 km)
+Déduction permise pour frais afférents à un véhicule à moteur =
+320,41 $ (4,28 % x 7 486,12 $)[2]
+[5] En 2003, même s’il y avait droit, M. Hudson n’a pas demandé d’indemnité de kilométrage à son employeur. Par conséquent, le ministre a tenu pour acquis que le nombre de kilomètres liés à l’emploi était nul, et a donc refusé la totalité des frais afférents à un véhicule à moteur pour 2003.
+[6] La seule question en litige est celle de savoir si M. Hudson utilisait son véhicule à des fins personnelles ou professionnelles lorsqu’il utilisait son véhicule pour aller au travail et en revenir. Compte tenu des circonstances quelque peu inhabituelles de l’espèce, je suis convaincue que les kilomètres du trajet doivent être inclus dans le calcul de la somme que M. Hudson peut déduire au titre des frais afférents à un véhicule à moteur, conformément à l’alinéa 8(1)h.1) :
+ARTICLE 8 : Éléments déductibles
+(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+h.1) Frais afférents à un véhicule à moteur – dans le cas où le contribuable, au cours de l’année, a été habituellement tenu d’accomplir les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits et a été tenu, aux termes de son contrat d’emploi, d’acquitter les frais afférents à un véhicule à moteur qu’il a engagés dans l’accomplissement des fonctions de sa charge ou de son emploi, les sommes qu’il a dépensées au cours de l’année au titre des frais afférents à un véhicule à moteur pour se déplacer dans l’exercice des fonctions de son emploi, sauf s’il a, selon le cas :
+(i) reçu une indemnité pour frais afférents à un véhicule à moteur qui, par l’effet de l’alinéa 6(1)b), n’est pas incluse dans le calcul de son revenu pour l’année,
+(ii) demandé une déduction pour l’année en application de l’alinéa f);
+[7] En règle générale, rien n’est déductible dans le calcul du revenu tiré d’un emploi[3]. Toutefois, le préambule du paragraphe 8(1) prévoit la déduction de divers éléments qu’il « est raisonnable de considérer comme [se] rapportant » à la source de revenus. Un de ces éléments figure à l’alinéa 8(1)h.1), qui énonce en détail les critères que le contribuable doit respecter relativement aux frais afférents à un véhicule à moteur. La question de savoir s’il est « raisonnable » de considérer que des frais particuliers se rapportent à la source de revenus est une question de fait.
+[8] À l’audience, l’avocate de l’intimée a avisé la Cour que l’intimée ne contestait plus le caractère adéquat des livres et des dossiers de M. Hudson[4]. Il n’est pas contesté que M. Hudson a droit, en principe, à une déduction au titre des frais afférents à un véhicule à moteur en vertu de l’alinéa 8(1)h.1); la seule question en litige porte sur le montant de cette déduction. Pour décider de ce montant, il faut d’abord établir si M. Hudson utilisait son véhicule à des fins personnelles ou professionnelles lorsqu’il l’utilisait pour aller au travail et en revenir.
+[9] M. Hudson était tenu d’avoir son véhicule à sa disposition au bureau. Pour l’appelant, la seule façon de répondre à cette exigence consistait à se rendre au travail dans son véhicule chaque jour. Si M. Hudson avait laissé son véhicule stationné en permanence au bureau, comme l’avocate de l’intimée l’a suggéré plutôt hardiment dans son argumentation, il aurait été complètement privé de l’utilisation de son propre véhicule à des fins personnelles, une attente qu’il n’est pas raisonnable de nourrir à l’égard d’un employé. (Et si l’employeur avait fourni la place de stationnement, l’appelant aurait pu en outre être imposé pour sa peine.) Je retiens le témoignage de l’appelant selon lequel, n’eût été de l’obligation d’avoir son véhicule au bureau, il aurait utilisé un des moyens de transport plus économiques qui s’offraient à lui : il aurait voyagé avec son fils qui vivait à la maison, fait du covoiturage ou pris l’autobus. M. Hudson devait plutôt prendre son véhicule pour aller au travail et en revenir, et payer les frais qui découlaient de ces déplacements.
+[10] Finalement, si la Cour rend une décision en faveur de l’appelant et que cette décision déclenche un raz‑de‑marée d’affaires semblables, je reconnais, comme l’appelant l’a respectueusement soutenu, qu’il ne s’agit pas de [traduction] « son problème ». Le ministre a la responsabilité d’établir avec précision l’obligation fiscale d’un contribuable particulier conformément aux dispositions législatives et en fonction des circonstances propres à ce contribuable.
+[11] À la lumière des faits particuliers de cet appel, je suis convaincue que les frais afférents à un véhicule à moteur que M. Hudson a engagés en 2002 et en 2003 pour se rendre au travail et en revenir étaient liés à son emploi et ne constituaient pas une dépense personnelle. En ce qui concerne l’année d’imposition 2003, le fait que M. Hudson n’a pas demandé d’indemnité de kilométrage ne change rien à la nature professionnelle des frais afférents à un véhicule à moteur déduits pour le trajet effectué cette année‑là. Qu’il ait ou non demandé une indemnité de kilométrage, le fait demeure que M. Hudson était tenu par son employeur d’avoir son véhicule à sa disposition au bureau chaque jour.
+[12] L’appel est accueilli, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que les frais afférents à un véhicule à moteur de 3 598,82 $ et de 3 230,88 $, que l’appelant a engagés en 2002 et en 2003 respectivement, sont des sommes que l’appelant a dépensées à ce titre pour se déplacer dans l’exercice des fonctions de son emploi, au sens de l’alinéa 8(1)h.1) de la Loi.
+Signé à Ottawa, Canada, ce 30e jour d’octobre 2007.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 16e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI661
+NO DU DOSSIER DE LA COUR : 2006-3339(IT)I
+INTITULÉ : Tolson A. Hudson c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : St. John’s, Terre‑Neuve‑et‑Labrador
+DATE DE L’AUDIENCE : Le 10 août 2007
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 30 octobre 2007
+COMPARUTIONS :
+Pour l’appelant : L’appelant lui‑même
+Avocate de l’intimée : Me Selena Sit
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Conformément au paragraphe 8(10) de la Loi de l’impôt sur le revenu.
+[2] Chiffres tirés des hypothèses figurant au paragraphe 16 de la réponse à l’avis d’appel.
+[3] Paragraphe 8(2) de la Loi de l’impôt sur le revenu.
+[4] Paragraphe 20 de la réponse à l’avis d’appel.

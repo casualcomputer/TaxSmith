@@ -1,0 +1,220 @@
+---
+title: "Lesnick c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28880/index.do"
+last_modified: "2008-09-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 522"
+citation2: ""
+neutral_citation: "2008 CCI 522"
+decision_date: "2008-09-16"
+language: "fr"
+item_id: "28880"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1323
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:24:04.596000+00:00"
+cases_cited_count: 0
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ad2a08279d83d455b394ac5a5a59d15154aced4992c3c76157784db7b64a23ea"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lesnick c. La Reine
+
+- Citation: 2008 CCI 522
+- Decision date: 2008-09-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1323, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lesnick c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-16
+Référence neutre
+2008 CCI 522
+Numéro de dossier
+2008-125(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-125(IT)I
+ENTRE :
+DARRELL G. LESNICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 27 août 2008, à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Rickey Tang
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 de l’appelant est accueilli avec dépens, le montant y afférent étant fixé à 600 $, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant a le droit de demander la déduction d’une perte déductible au titre d’un placement d’entreprise de 19 005 $ pour l’année 2000.
+Signé à Ottawa (Ontario), ce 16e jour de septembre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 14e jour de novembre 2008.
+S. Tasset
+Référence : 2008CCI522
+Date : 20080916
+Dossier : 2008-125(IT)I
+ENTRE :
+DARRELL G. LESNICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] L’appelant a interjeté appel à l’égard du montant de la perte déductible au titre d’un placement d’entreprise qu’il a subie en l’an 2000, pour l’application de la Loi de l’impôt sur le revenu. L’intimée ne conteste pas que l’appelant a subi une perte déductible au titre d’un placement d’entreprise en l’an 2000, mais elle conteste le montant y afférent.
+[2] L’appelant affirme que le montant de la perte au titre d’un placement d’entreprise s’élevait à 38 011 $, alors que l’intimée soutient que le montant de cette perte s’élevait à 1 861 $. La perte au titre d’un placement d’entreprise subie par l’appelant s’élèvera au montant qui correspond au montant que Lescom Investments Limited devait à l’appelant lorsqu’elle a mis fin à ses activités, au mois de juin 2000. L’appelant était actionnaire de Lescom Investments Limited; l’intimée ne conteste pas que le montant qui était dû à l’appelant est devenu une créance irrécouvrable en l’an 2000 et qu’il s’agissait d’une perte au titre d’un placement d’entreprise, mais, comme il en a ci‑dessus été fait mention, elle affirme que ce montant ne s’élevait qu’à 1 861 $.
+[3] En produisant sa déclaration de revenus pour l’année 2000, l’appelant a demandé la déduction d’une perte déductible au titre d’un placement d’entreprise de 25 340 $, soit les deux tiers du montant de la perte au titre d’un placement d’entreprise alléguée, qui était de 38 011 $. Selon l’intimée, le montant de toute perte déductible au titre d’un placement d’entreprise attribuable au montant dû à l’appelant par Lescom Investments Limited qui est devenu une créance irrécouvrable en l’an 2000 devrait correspondre à seulement la moitié du montant de la perte au titre d’un placement d’entreprise.
+[4] Avant l’année 1996, l’appelant travaillait comme gérant d’un restaurant Tim Hortons, à l’Île‑du‑Prince‑Édouard. L’appelant a décidé de communiquer avec TDL Group Ltd. au sujet de l’ouverture d’une franchise, à Cheticamp (Nouvelle‑Écosse). L’appelant a indiqué que le coût initial d’une franchise était d’environ 350 000 $. L’appelant n’avait pas de fonds à investir dans ce projet, mais il avait l’expertise nécessaire à titre de gérant d’un autre restaurant Tim Hortons. L’appelant a pris des dispositions avec trois membres de sa famille pour qu’ils fournissent presque tout le capital initial nécessaire. L’appelant a affirmé avoir initialement emprunté 5 800 $ de la Banque Royale et avoir avancé ces fonds à la société.
+[5] Seuls l’appelant et son frère Kim étaient actionnaires de Lescom Investments Limited, qui était la société constituée pour acheter les droits de franchisage. L’appelant a déclaré que TDL Group Ltd. ne voulait pas approuver l’octroi de la franchise si les quatre particuliers en cause étaient actionnaires.
+[6] L’appelant a indiqué que la franchise avait au départ fait face à certains problèmes. Il a indiqué qu’il voulait que le commerce ouvre ses portes et soit prêt à être exploité au printemps 1996, mais qu’il avait ouvert ses portes le 3 juillet 1996 seulement. La société a au départ fait face à des problèmes de flux de trésorerie et il fallait plus d’argent. Un gros montant d’argent était nécessaire en 1997 et les trois autres particuliers en cause n’ont pas pu ou ne voulaient pas financer tout le montant supplémentaire nécessaire.
+[7] La mère de l’appelant a témoigné à l’audience; je retiens son témoignage. Elle a indiqué que lorsque l’appelant lui avait dit qu’il aurait besoin de plus d’argent pour leur société en 1997, elle avait accepté de refinancer sa maison et de prêter 24 000 $ à l’appelant. La mère de l’appelant a changé d’institution financière afin de prendre des dispositions à ce sujet. Elle faisait affaire avec la Banque Toronto‑Dominion et elle est passée au Canada Trust (cela s’est produit avant la fusion de ces deux institutions). L’appelant a soumis une copie de la lettre d’engagement PowerLine du Canada Trust en date du 3 avril 1997. Ce document montre que le principal de 52 500 $ était emprunté par la mère de l’appelant et qu’il était divisé en deux parties – un montant fixe de 24 000 $ et un montant variable de 28 500 $. La mère de l’appelant a confirmé que le montant fixe de 24 000 $ était le montant qu’elle avait prêté à l’appelant. Le montant du prêt était divisé en deux parties, de façon qu’ils puissent identifier la partie qui était avancée à l’appelant et qu’ils puissent faire le suivi des montants que l’appelant remboursait sur le prêt. La mère de l’appelant a témoigné que l’appelant lui avait remboursé ce prêt au complet.
+[8] Certains frais avaient été engagés aux fins de l’organisation du financement et le montant que l’appelant a avancé à Lescom Investments Limited, à l’aide des 24 000 $ que sa mère avait emprunté du Canada Trust, s’élevait à 22 850 $.
+[9] La société a continué à éprouver des difficultés financières et il fallait des fonds additionnels. L’appelant a déclaré avoir avancé un montant additionnel de 12 500 $ à la société avant que cette dernière sombre au mois de juin 2000 lorsque la franchise a été acquise par TDL Group Ltd. Après l’acquisition de la franchise par TDL Group Ltd., la société ne possédait plus d’actifs.
+[10] Selon l’intimée, l’appelant n’a pas produit suffisamment d’éléments de preuve pour établir que Lescom Investments Limited lui devait 38 011 $ lorsque cette société a perdu sa franchise Tim Horton en faveur de TDL Group Ltd. et qu’elle ne possédait plus d’actifs.
+[11] Dans l’arrêt The Continental Insurance Company c. Dalton Cartage Company Limited, [1982] 1 R.C.S. 164, le juge en chef Laskin a dit ce qui suit :
+Chaque fois qu'il y a une allégation de conduite moralement blâmable ou qui peut revêtir un aspect criminel ou pénal et que l'allégation se présente dans le cadre d'un litige civil, le fardeau de la preuve qui s'applique est toujours celui de la preuve suivant la prépondérance des probabilités. C'est ce que cette Cour a décidé dans l'arrêt Hanes c. Wawanesa Mutual Insurance Co., [1963] R.C.S. 154. Dans cet arrêt, le juge Ritchie a étudié la jurisprudence qui existait à l'époque et qui comprenait notamment l'arrêt de lord Denning Bater v. Bater, [1950] 2 All E.R. 458, à la p. 459, et celui du juge Cartwright, alors juge puîné, Smith c. Smith et Smedman, [1952] 2 R.C.S. 312, à la p. 331, et il a conclu (à la p. 164 :
+[traduction] Compte tenu de la jurisprudence susmentionnée, je suis d'avis que le savant juge de première instance a appliqué la mauvaise norme de preuve en l'espèce et que la question de savoir si l'appelant était dans un état d'ébriété au moment de l'accident aurait dû être tranchée suivant la «prépondérance des probabilités».
+Il est vrai que, mis à part sa mention des arrêts Bater v. Bater et Smith et Smedman, le juge Ritchie n'a pas lui‑même précisé ce qu'il faut entendre par preuve suivant la prépondérance des probabilités lorsqu'il s'agit de conduite comme celle visée par les deux polices en l'espèce. À mon avis, le juge Keith, sur la question du fardeau de la preuve, pouvait à bon droit tenir compte du caractère convaincant des éléments de preuve offerts en vue d'établir une preuve selon la prépondérance des probabilités, et c'est ce qu'il a fait en faisant mention de preuves correspondant à la gravité des allégations ou de l'accusation de vol contre le chauffeur employé à titre temporaire. L'appréciation des éléments de preuve se rapportant au fardeau de la preuve implique nécessairement une question de jugement, et un juge de première instance est fondé à examiner la preuve plus attentivement si la preuve offerte doit établir des allégations sérieuses. Je reprends les propos de lord Denning à cet égard dans l'arrêt Bater v. Bater, précité, à la p. 459 :
+[traduction] Il est vrai que notre droit impose une norme de preuve plus élevée dans les affaires criminelles que dans les affaires civiles sous une réserve toutefois, à savoir que dans l'un et l'autre cas il n'y a pas de norme absolue. Dans les affaires criminelles, on doit prouver l'accusation hors de tout doute raisonnable, mais à l'intérieur de cette norme, il peut y avoir des degrés de preuve. Nombre de grands juges ont dit que plus le crime est grave, plus la preuve doit être claire. Il en va de même pour les affaires civiles. On peut établir le bien‑fondé de la demande suivant la prépondérance des probabilités, mais cette norme peut comporter des degrés de probabilité. Le degré est fonction de l'objet du litige. Il est naturel qu'une cour de juridiction civile, lorsqu'elle est saisie d'une accusation de fraude, exige un degré plus élevé de probabilité qu'elle n'exigerait s'il s'agissait de décider si l'on a prouvé la négligence. Le degré de probabilité qu'elle exige n'est pas aussi élevé que celui qu'exigerait une cour de juridiction criminelle, même lorsqu'elle est saisie d'une accusation de nature criminelle, mais il reste qu'elle exige un degré de probabilité qui correspond à la gravité de la situation.
+Je n'estime pas que ce point de vue s'écarte du principe d'une norme de preuve fondée sur la prépondérance des probabilités ni qu'il appuie une norme variable. La question dans toutes les affaires civiles est de savoir quelle preuve il faut apporter et quel poids lui accorder pour que la cour conclue qu'on a fait la preuve suivant la prépondérance des probabilités.
+[Je souligne.]
+[12] Dans l’arrêt Hickman Motors Limited c. la Reine, [1997] 2 R.C.S. 336, la juge L’Heureux‑Dubé a dit ce qui suit :
+92 Il est bien établi en droit que, dans le domaine de la fiscalité, la norme de preuve est la prépondérance des probabilités: Dobieco Ltd. c. Minister of National Revenue, [1966] R.C.S. 95, et que, à l’intérieur de cette norme, différents degrés de preuve peuvent être exigés, selon le sujet en cause, pour que soit acquittée la charge de la preuve: Continental Insurance Co. c. Dalton Cartage Co., [1982] 1 R.C.S. 164; Pallan c. M.R.N., 90 D.T.C. 1102 (C.C.I.), à la p. 1106. En établissant des cotisations, le ministre se fonde sur des présomptions: (Bayridge Estates Ltd. c. M.N.R., 59 D.T.C. 1098 (C. de l’É.), à la p. 1101), et la charge initiale de «démolir» les présomptions formulées par le ministre dans sa cotisation est imposée au contribuable (Johnston c. Minister of National Revenue, [1948] R.C.S. 486; Kennedy c. M.R.N., 73 D.T.C. 5359 (C.A.F.), à la p. 5361). Le fardeau initial consiste seulement à «démolir» les présomptions exactes qu’a utilisées le ministre, mais rien de plus: First Fund Genesis Corp. c. La Reine, 90 D.T.C. 6337 (C.F. 1re inst.), à la p. 6340.
+93 L’appelant s’acquitte de cette charge initiale de «démolir» l’exactitude des présomptions du ministre lorsqu’il présente au moins une preuve prima facie: Kamin c. M.R.N., 93 D.T.C. 62 (C.C.I.); Goodwin c. M.R.N., 82 D.T.C. 1679 (C.R.I.). En l’espèce, l’appelante a produit une preuve qui respecte non seulement la norme prima facie, mais, selon moi, une norme encore plus sévère. À mon avis, l’appelante a «démoli» les présomptions suivantes: a) la présomption de l’existence de «deux entreprises», en produisant une preuve claire de l’existence d’une seule entreprise; b) la présomption qu’il n’y a «aucun revenu», en produisant une preuve claire de l’existence d’un revenu. Il est établi en droit qu’une preuve non contestée ni contredite «démolit» les présomptions du ministre: voir par exemple MacIsaac c. M.R.N., 74 D.T.C. 6380 (C.A.F.), à la p. 6381; Zink c. M.R.N., 87 D.T.C. 652 (C.C.I.). Comme je l’ai déjà dit, aucune partie de la preuve produite par l’appelante en l’espèce n’a été contestée ni contredite. Par conséquent, à mon avis, l’appelante a «démoli» les présomptions sur l’existence de «deux entreprises» et sur le fait qu’il n’y a «aucun revenu».
+94 Lorsque l’appelant a «démoli» les présomptions du ministre, le «fardeau de la preuve [. . .] passe [. . .] au ministre qui doit réfuter la preuve prima facie» faite par l’appelant et prouver les présomptions: Magilb Development Corp. c. La Reine, 87 D.T.C. 5012 (C.F. 1re inst.), à la p. 5018. Ainsi, dans la présente affaire, la charge est passée au ministre, qui doit prouver ses présomptions suivant lesquelles il existe «deux entreprises» et il n’y a «aucun revenu».
+95 Lorsque le fardeau est passé au ministre et que celui-ci ne produit absolument aucune preuve, le contribuable est fondé à obtenir gain de cause: voir par exemple MacIsaac, précité, où la Cour d’appel fédérale a infirmé le jugement de la Division de première instance (à la p. 6381) pour le motif que le «témoignage n’a été ni contesté ni contredit, et aucune objection ne lui a été opposée». Voir aussi Waxstein c. M.R.N., 80 D.T.C. 1348 (C.R.I.); Roselawn Investments Ltd. c. M.R.N., 80 D.T.C. 1271 (C.R.I.). Se reporter également à Zink, précité, à la p. 653, où, même si la preuve «échappait à la logique et présentait de graves lacunes de fond et de chronologie», l’appel du contribuable a été accueilli parce que le ministre n’a présenté aucune preuve quant à la source de revenu. Dans la présente affaire, je remarque que la preuve ne contient aucune «lacune» de ce genre. Par conséquent, puisque le ministre n’a produit absolument aucune preuve et que personne n’a soulevé le moindre doute quant à la crédibilité, l’appelante est fondée à obtenir gain de cause.
+[Je souligne.]
+[13] Dans la décision que la Chambre des lords vient de rendre dans l’affaire In re Doherty, [2008] UKHL 33, lord Carswell a dit ce qui suit :
+[traduction]
+L’expression « degré de probabilité » a été relevée et reprise dans un certain nombre de décisions subséquentes – voir par exemple, In re Dellow’s Will Trusts [1964] 1 WLR 451, 455, Blyth v Blyth [1966] AC 643, 669 et R v Secretary of State for the Home Department, Ex p Khawaja [1984] AC 74, 113-4 – et peut avoir amené certains tribunaux judiciaires à conclure qu’une norme de preuve autre que celle de la prépondérance des probabilités ou qu’une norme de preuve plus rigoureuse était nécessaire dans certains cas. Dans la mesure où ce malentendu est survenu, il aurait dû y être mis fin par les remarques souvent citées de lord Nicholls of Birkenhead dans l’arrêt In re H (Minors). Immédiatement après le passage de ses motifs que j’ai cité, lord Nicholls of Birkenhead a ajouté ce qui suit aux pages 586 et 587 :
+En appréciant les probabilités, le tribunal aura à l’esprit comme facteur, dans la mesure où la chose est appropriée dans une affaire particulière, que plus l’allégation est sérieuse, moins il sera probable que l’événement se soit produit, de sorte que la preuve devrait être d’autant plus forte pour que le tribunal puisse conclure que l’allégation est établie selon la prépondérance des probabilités. La fraude est habituellement moins probable que la négligence. Un dommage corporel délibéré est habituellement moins probable qu’un dommage corporel accidentel. Habituellement, il est moins probable qu’un beau‑père ait à maintes reprises violé et ait eu des relations sexuelles orales non consensuelles avec sa belle‑fille mineure plutôt que d’avoir à un moment donné perdu patience et de l’avoir giflée. La norme de la prépondérance des probabilités comporte un degré élevé de souplesse pour ce qui est de la gravité de l’allégation.
+Le résultat est à peu près le même, mais cela ne veut pas pour autant dire que lorsqu’une allégation sérieuse est en cause, la norme de preuve nécessaire est plus rigoureuse. Cela veut uniquement dire que la probabilité ou l’absence de probabilité intrinsèque d’un événement est en soi une question dont il faut tenir compte en appréciant les probabilités et en décidant si, somme toute, l’événement s’est produit. Plus l’événement est improbable, plus la preuve indiquant que cet événement s’est produit doit être forte pour que, selon la prépondérance des probabilités, il soit établi qu’il s’est produit [...] C’est sans aucun doute ce sentiment qui amène de temps en temps les juges à faire remarquer que des questions graves doivent être prouvées selon une norme plus rigoureuse que celle de la prépondérance des probabilités.
+[...]
+27. Le lord juge Richards a exprimé cette thèse d’une façon adroite dans l’arrêt R (N) v. Mental Health Review Tribunal (Northern Region) [2005] EWCA Civ 1605, [2006] QB 468, 497-8, paragraphe 62, où il a dit ce qui suit :
+Il existe une seule norme civile de preuve selon la prépondérance des probabilités, mais elle s’applique d’une façon souple. En particulier, plus l’allégation est sérieuse ou plus les conséquences sont sérieuses si l’allégation est établie, plus la preuve devra être forte pour que le tribunal puisse conclure que l’allégation est prouvée selon la prépondérance des probabilités. Par conséquent, la souplesse de la norme ne dépend pas de quelque ajustement du degré de probabilité nécessaire pour qu’une allégation soit établie (de sorte qu’une allégation particulièrement sérieuse doive être prouvée selon un degré plus élevé de probabilité), mais elle dépend plutôt de la force ou de la qualité de la preuve qui sera en pratique nécessaire pour établir l’allégation selon la prépondérance des probabilités.
+À mon avis, ce paragraphe énonce effectivement en des termes concis l’état du droit sur ce point. Toutefois, j’aimerais faire une réserve, qui ne fait peut‑être qu’expliquer ce que le lord juge Richards voulait dire en parlant de la gravité des conséquences. Ce facteur est pertinent pour ce qui est de la probabilité ou de l’absence de probabilité que l’allégation soit non fondée, comme je l’expliquerai ci‑dessous.
+28. Il est reconnu au moyen de ces énoncés qu’une source possible de confusion découle de ce qu’il n’est pas tenu compte d’une façon suffisamment claire du fait que, dans certains contextes, une cour de justice ou un tribunal doit examiner les faits d’un œil plus critique et avec plus de circonspection que dans d’autres cas pour qu’il puisse être convaincu qu’il est satisfait à la norme requise. Toutefois, la norme elle‑même est précise et immuable. Les cas dans lesquels un tel examen plus approfondi est nécessaire peuvent découler de ce qu’il est intrinsèquement peu probable que l’événement se soit produit (come l’exemple que lord Hoffmann a donné de l’animal qui a été vu dans Regent’s Park), de la gravité de l’allégation à établir ou, dans certains cas, des conséquences susceptibles de découler de l’acceptation de la preuve du fait pertinent. La gravité de l’allégation n’a pas à être précisée; le tribunal chargé d’examiner les faits examinera de plus près les faits sur lesquels est fondée l’allégation de fraude avant de reconnaître que cette allégation a été établie. La gravité des conséquences est un autre aspect de la même thèse; l’allégation selon laquelle un directeur de banque s’est livré à un détournement de fonds mineur peut entraîner des conséquences fort sérieuses pour la carrière de celui‑ci, de sorte qu’il est peu probable qu’il risque de s’y livrer. Il s’agit dans tous les cas de s’en remettre à l’expérience ordinaire, les personnes qui ont à trancher de telles questions devant faire preuve de bon sens. La norme de preuve n’a pas à être différente ou à être particulièrement convaincante; il suffit que le tribunal prenne la chose en considération d’une façon minutieuse appropriée pour arriver à sa conviction au sujet de la question à établir.
+[Je souligne.]
+[14] Dans la décision que la Chambre des lords vient de rendre dans l’affaire In Re B (Children), [2008] UKHL 35, lord Hoffmann a dit ce qui suit :
+[traduction]
+14. Enfin, je dois faire certaines remarques au sujet de la notion de probabilité intrinsèque. Lord Nicholls a dit ce qui suit dans le passage que j’ai déjà cité :
+[...] le tribunal aura à l’esprit comme facteur, dans la mesure où la chose est appropriée dans une affaire particulière, que plus l’allégation est sérieuse, moins il sera probable que l’événement se soit produit, de sorte que la preuve devrait être d’autant plus forte pour que le tribunal puisse conclure que l’allégation est établie selon la prépondérance des probabilités.
+15. J’insiste sur les mots que j’ai mis en italiques. Lord Nicholls n’a pas énoncé une règle de droit. Il n’existe qu’une seule règle de droit : il faut prouver qu’il est plus probable que le fait a eu lieu que le contraire. Le sens commun – et non le droit – exige, pour trancher à cet égard, qu’on tienne compte, dans la mesure où cela est indiqué, de la probabilité intrinsèque.
+[Je souligne.]
+[15] Dans le même arrêt, la baronne Hale of Richmond a dit ce qui suit :
+[traduction]
+70. [...] Ni la gravité de l’allégation, ni celle des conséquences ne devraient modifier la norme de preuve appliquée pour établir les faits. La probabilité intrinsèque ne doit être prise en compte, s’il y a lieu, que pour découvrir la vérité.
+[Je souligne.]
+[16] Il me semble que ces décisions sont compatibles les unes avec les autres et que la question, dans une affaire civile (ce qui comprend le présent appel), sera de savoir si la preuve présentée est suffisante pour convaincre le juge des faits, selon la prépondérance des probabilités, que la personne qui a la charge de la preuve a établi ce qu’elle était obligée d’établir. En analysant la preuve qui a été présentée, la probabilité ou l’absence de probabilité de l’événement qui est en cause est un facteur pouvant être pris en considération. Plus l’événement est improbable, plus la preuve devra être forte. À l’inverse, il me semble également qu’une personne peut être en mesure d’établir, selon la prépondérance des probabilités, qu’un événement fort probable s’est produit en se fondant sur une preuve plus faible que celle qui est nécessaire pour établir qu’un événement improbable s’est produit.
+[17] En l’espèce, l’intimée n’a pas contesté que Lescom Investments Ltd. faisait face à des difficultés financières, ou qu’elle a mis fin à ses activités en l’an 2000 après le rachat de la franchise et des autres actifs d’exploitation par TDL Group Ltd. Le fait qu’un actionnaire est tenu de fournir le capital initial à une nouvelle société qui acquiert une franchise au montant d’environ 350 000 $ ainsi que des capitaux additionnels si cette société fait face à des difficultés financières est un événement fort probable. Il semble donc logique que le degré de preuve exigé de l’appelant pour établir que Lescom Investments Limited lui devait 38 011 $ (soit un peu moins que 11 p. 100 du coût de la franchise compte non tenu des besoins de la société quant au fonds de roulement) serait moindre qu’il ne le serait si l’événement était improbable.
+[18] En l’espèce, l’appelant et sa mère (qui a prêté 24 000 $ à celui‑ci) ont témoigné; de plus, certains documents additionnels étayaient l’allégation de l’appelant. Selon les documents de demande de prêt se rapportant au refinancement organisé par la mère de l’appelant, le montant que cette dernière avait emprunté du Canada Trust était constitué de deux parties distinctes.
+[19] L’avocat de l’intimée a soutenu que l’appelant n’avait pas produit de documents montrant que le montant net que sa mère avait emprunté (22 850 $) du Canada Trust lui avait été prêté par celle‑ci et qu’il avait ensuite avancé ce montant à la société. L’avance de fonds en faveur de la société a été organisée par l’entremise du cabinet de l’avocat qui s’était occupé du financement. Or, un incendie a ravagé le cabinet de l’avocat et les documents ont été détruits. Il n’existait aucun contrat de prêt écrit entre l’appelant et sa mère, mais je retiens les témoignages que ceux‑ci ont présentés oralement, à savoir que la mère avait emprunté ce montant du Canada Trust afin de le prêter à l’appelant, de façon que celui‑ci puisse prêter cet argent à la société. Le fait qu’une mère prête de l’argent à son fils, s’il en a besoin, sans documenter le prêt au moyen d’un contrat de prêt écrit n’est pas un événement improbable.
+[20] Le grand livre de la société confirmait également qu’en 1997, l’appelant avait avancé 22 850 $ à la société. À mon avis, en l’absence d’une preuve contradictoire et puisque le fait pour un actionnaire d’avancer des fonds à une société qui éprouve des difficultés financières est un événement fort probable et qu’il est également fort probable que la mère de l’appelant ait aidé son fils, l’appelant devrait avoir gain de cause en l’espèce compte tenu de son témoignage et de celui de sa mère ainsi que de ce qui est consigné dans le grand livre. À mon avis, cela suffit pour établir, selon la prépondérance des probabilités, que la mère de l’appelant a emprunté 24 000 $ du Canada Trust, qu’elle a prêté ce montant à l’appelant et que, sur ce montant, l’appelant a avancé un montant de 22 580 $ à la société en 1997.
+[21] Il y avait également certains montants supplémentaires que l’appelant affirmait avoir avancés à la société. Il y avait un montant initial de 5 800 $ que l’appelant affirme avoir emprunté de la Banque Royale. Il y avait également une somme de 12 500 $ (composée de deux montants de 5 000 $ chacun et d’une avance distincte de 2 500 $) que l’appelant affirme avoir empruntée de la coopérative de crédit après qu’il eut avancé l’argent reçu de sa mère et avant que la société mette fin à ses activités.
+[22] Selon le bilan de la société, les prêts d’actionnaire impayés s’élevaient à 152 818 $ après la cessation des activités. Le grand livre, en ce qui concerne le prêt d’actionnaire de l’appelant (compte tenu du redressement de 139,08 $ effectué à la main), indiquait qu’à la fin du mois de septembre 1997, la société devait 28 510,92 $ à l’appelant, montant établi comme suit :
+[traduction]
+EJ 163 03/03/97 5 800 $
+EJ 172 23/03/97 22 850 $
+Redressement effectué à la main : (139,08 $)
+Montant net : 28 510,92 $
+[23] Le relevé de compte du prêt d’actionnaire pour l’exercice de Lescom Investments Limited qui a pris fin le 30 septembre 1998 indiquait que la société devait alors 25 510,92 $ à l’appelant, après avoir remboursé à l’appelant un montant de 3 000 $. Les écritures de journal effectuées en l’an 2000 ont également été produites; ces écritures indiquaient que l’appelant avait avancé un montant additionnel de 12 500 $ qui ne figurait pas dans le solde indiqué au 30 septembre 1998. Les dates des écritures de journal ne correspondent pas aux dates auxquelles l’appelant affirme avoir avancé les fonds à la société, mais ces écritures confirment de fait les montants avancés, et il est vraisemblable qu’une société qui éprouve des difficultés financières ne soit pas aussi diligente qu’elle devrait l’être lorsqu’il s’agit de documenter les avances consenties par un actionnaire.
+[24] L’appelant avait également en sa possession des copies des demandes de prêt pour les montants qu’il avait reçus de la coopérative de crédit, mais il ne possédait pas de documents concernant le montant qu’il avait emprunté de la Banque Royale afin de financer l’avance qu’il avait initialement consentie à la société. Dans la documentation se rapportant aux prêts consentis par la coopérative de crédit, les montants désignés comme étant les montants empruntés ne correspondaient pas aux montants que l’appelant affirme avoir avancés à la société et l’objet des prêts ne révélait pas que l’appelant devait prêter l’argent à Lescom Investments Limited. L’appelant empruntait l’argent de la coopérative de crédit à d’autres fins, ce qui expliquerait pourquoi le montant figurant dans le formulaire de prêt ne correspondait pas au montant que l’appelant a prêté à la société. L’appelant a également déclaré qu’il croyait comprendre que la coopérative de crédit ne lui aurait pas prêté d’argent s’il avait déclaré qu’il voulait prêter l’argent à Lescom Investments Limited. Par conséquent, dans certains formulaires de demande de prêt de la coopérative de crédit, le terme générique [traduction] « divers » est employé pour décrire l’objet du prêt. L’appelant ne sait pas trop non plus si tous les formulaires de demande de prêt ont été produits en preuve.
+[25] À mon avis, l’appelant a produit suffisamment d’éléments de preuve pour établir, selon la prépondérance des probabilités, qu’il avait avancé à la société les 5 800 $ et les 12 500 $ (en plus du montant de 22 850 $ susmentionné). Comme il en a été fait mention, la probabilité intrinsèque qu’un actionnaire soit tenu de fournir le capital initial à une nouvelle société ainsi que des capitaux supplémentaires si la société éprouve des difficultés financières est fort élevée. De plus, ces montants sont relativement peu élevés comparativement au coût initial d’une franchise, d’environ 350 000 $, compte non tenu des besoins pour ce qui est du fonds de roulement.
+[26] Par conséquent, je conclus qu’avant le 30 juin 2000, l’appelant avait avancé les montants suivants à Lescom Investments Limited :
+Source des fonds
+Montant
+Empruntés de la Banque Royale
+5 800 $
+Empruntés de la mère de l’appelant
+22 850 $
+Empruntés de la coopérative de crédit
+5 000 $
+Empruntés de la coopérative de crédit
+5 000 $
+Empruntés de la coopérative de crédit
+2 500 $
+Total :
+41 150 $
+[27] Le grand livre indique également qu’un redressement de 139,08 $, en 1997, a eu pour effet de réduire le montant dû à l’appelant et qu’un montant de 3 000 $ a été remboursé à l’appelant en 1998. L’appelant n’a pas pu expliquer ces redressements et ils demeureront donc à titre de redressements apportés au montant impayé. Par conséquent, le montant que la société devait payer à l’appelant au 30 juin 2000 serait le suivant :
+Élément
+Montant
+Montant global avancé par l’appelant
+41 150 $
+Moins : redressement en 1997
+(139 $)
+Moins : montant remboursé en 1998
+(3 000 $)
+Montant net dû à l’appelant
+38 011 $
+[28] Je conclus donc que le montant que Lescom Investments Limited devait à l’appelant au 30 juin 2000 s’élevait à 38 011 $. Comme il en a ci‑dessus été fait mention, l’intimée ne conteste pas que tout montant que Lescom Investments Limited devait à l’appelant constituait une perte au titre d’un placement d’entreprise puisque l’appelant était actionnaire de Lescom Investments Limited (et qu’il aurait donc avancé les montants en question à cette société en vue de gagner un revenu) et puisque la créance était devenue irrécouvrable après la cessation des activités de la société, en l’an 2000. Toutefois, l’intimée a soutenu que la perte déductible au titre d’un placement d’entreprise ne devrait représenter que la moitié du montant de la créance plutôt que les deux tiers.
+[29] Le paragraphe 50(1) de la Loi de l’impôt sur le revenu prévoit notamment ce qui suit :
+50 (1) Pour l’application de la présente sous‑section, lorsque, selon le cas :
+a) un contribuable établit qu’une créance qui lui est due à la fin d’une année d’imposition (autre qu’une créance qui lui serait due du fait de la disposition d’un bien à usage personnel) s’est révélée être au cours de l’année une créance irrécouvrable;
+[...]
+le contribuable est réputé avoir disposé de la créance ou de l’action à la fin de l’année pour un produit nul et l’avoir acquise de nouveau immédiatement après la fin de l’année à un coût nul, à condition qu’il fasse un choix, dans sa déclaration de revenu pour l’année, pour que le présent paragraphe s’applique à la créance ou à l’action.
+[Je souligne.]
+[30] Cette disposition s’applique lorsque le contribuable établit qu’une créance qui lui est due à la fin de l’année d’imposition est une créance irrécouvrable. En l’espèce, étant donné que l’appelant demande la déduction de la perte déductible au titre d’un placement d’entreprise, c’est l’appelant qui a établi que le montant que lui devait Lescom Investments Limited à la fin de son année d’imposition 2000 était devenu une créance irrécouvrable en l’an 2000.
+[31] Par conséquent, l’appelant est réputé avoir disposé, le 31 décembre 2000, de la créance qui lui était due à la fin de son année d’imposition 2000 aux fins de la détermination du montant de sa perte au titre d’un placement d’entreprise pour l’application de la Loi de l’impôt sur le revenu. Or, au cours de l’année 2000, le taux qui s’appliquait à une perte au titre d’un placement d’entreprise aux fins de la détermination de la perte déductible au titre d’un placement d’entreprise est passé des trois quarts aux deux tiers de la perte au titre d’un placement d’entreprise, puis des deux tiers à la moitié de la perte au titre d’un placement d’entreprise. Le 31 décembre 2000, une perte déductible au titre d’un placement d’entreprise représentait la moitié de la perte au titre d’un placement d’entreprise. Étant donné que la disposition réputée de la créance due à l’appelant par Lescom Investments Limited n’a eu lieu que le 31 décembre 2000, la perte déductible au titre d’un placement d’entreprise correspond à la moitié de la perte au titre d’un placement d’entreprise, et les dispositions relatives aux droits acquis figurant au paragraphe 22(5) de L.C. 2001, ch. 17 n’y changent rien. La perte déductible au titre d’un placement d’entreprise pour l’année 2000 correspond à la moitié du montant de 38 011 $, soit à 19 005 $.
+[32] Par conséquent, l’appel est accueilli avec dépens, le montant y afférent étant fixé à 600 $, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant a le droit de demander la déduction d’une perte déductible au titre d’un placement d’entreprise de 19 005 $ pour l’année 2000.
+Signé à Ottawa (Ontario), ce 16e jour de septembre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 14e jour de novembre 2008.
+S. Tasset
+RÉFÉRENCE : 2008CCI522
+No DU DOSSIER DE LA COUR : 2008-125(IT)I
+INTITULÉ : DARRELL G. LESNICK
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 27 août 2008
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 16 septembre 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Rickey Tang
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

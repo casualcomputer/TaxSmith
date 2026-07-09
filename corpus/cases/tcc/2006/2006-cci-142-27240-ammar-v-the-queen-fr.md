@@ -1,0 +1,151 @@
+---
+title: "Ammar v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27240/index.do"
+last_modified: "2006-03-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 142"
+citation2: ""
+neutral_citation: "2006 CCI 142"
+decision_date: "2006-03-14"
+language: "fr"
+item_id: "27240"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 795
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:48:23.950000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "43c38be91524c8255f1eaeb35ae8b637fbf937b57acc72004a1f0c0cf1fa54ab"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ammar v. The Queen
+
+- Citation: 2006 CCI 142
+- Decision date: 2006-03-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 795, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ammar v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-14
+Référence neutre
+2006 CCI 142
+Numéro de dossier
+2005-2516(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2516(IT)I
+ENTRE :
+AHMAD S. AMMAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 2 mars 2006, à Ottawa (Ontario).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Amy Kendell
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1997, 1998, 1999 et 2000 sont accueillis sans dépens, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que l’appelant a le droit de déduire les frais de location suivants :
+1997 25 000 $
+1998 24 360 $
+1999 24 405 $
+2000 25 000 $
+Signé à Ottawa, Canada, ce 14e jour de mars 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 6e jour de février 2008.
+Maurice Audet, réviseur
+Référence : 2006CCI142
+Date : 20060314
+Dossier : 2005-2516(IT)I
+ENTRE :
+AHMAD S. AMMAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelant a déduit les frais de location suivants dans le calcul de son revenu pour les années d’imposition 1997, 1998, 1999 et 2000 :
+Années d’imposition
+Frais de location
+1997
+43 054 $
+1998
+24 360 $
+1999
+24 405 $
+2000
+43 219 $
+[2] Lorsqu’il a établi une nouvelle cotisation à l’égard de l’appelant pour ces années d’imposition, le ministre du Revenu national (le « ministre ») a refusé les frais visés en application de l’article 67 de la Loi de l’impôt sur le revenu (la « Loi ») parce qu’ils n’étaient pas raisonnables. L’article 67 est libellé ainsi :
+ARTICLE 67 : Restriction générale relative aux dépenses.
+Dans le calcul du revenu, aucune déduction ne peut être faite relativement à une dépense à l’égard de laquelle une somme est déductible par ailleurs en vertu de la présente loi, sauf dans la mesure où cette dépense était raisonnable dans les circonstances.
+[3] Lors de l’audience, l’intimée a concédé les frais de location pour 1998 et 1999 et a allégué que le même montant de frais de location devrait être admis pour 1997 et 2000. L’appelant a fait valoir que les montants déduits pour 1997 et 2000 étaient raisonnables dans les circonstances.
+[4] Les frais de location ont été engagés pour la location d’un appartement de 230 m2 en Égypte dans le cadre de l’exploitation d’une entreprise de consultation en immigration pour les étudiants d’Égypte et d’autres pays du Moyen‑Orient voulant étudier au Canada. L’appelant a commencé à exploiter l’entreprise en 1997 et a mis fin à ses opérations en 2001. L’entreprise de l’appelant a eu quatre clients en 1997, sept en 1998, sept en 1999 et quatre en 2000. L’appelant a admis qu’il existait des entreprises semblables en Égypte et que les concurrents y louaient généralement des chambres d’hôtel pour rencontrer leurs clients. Il voulait procéder de façon plus subtile et a loué un appartement pour 44 300 $ en 1997, première année d’exploitation de l’entreprise. L’appelant et les membres de sa famille travaillant dans l’entreprise avaient de grandes attentes qui n’ont jamais été comblées. L’entreprise a subi des pertes pendant ses quatre années d’exploitation, et il a été décidé de mettre fin à ses activités en 2001. En 1998 et en 1999, l’appelant et son frère, qui séjournait en Égypte environ sept mois par année, ont pu négocier une réduction du prix de location et louer l’appartement pour la moitié du prix payé en 1997. En 2000, le propriétaire a haussé le prix de location, qui est passé à 43 219 $, et, comme l’appelant ne voulait pas déménager, lui et son frère ont accepté de payer le prix demandé.
+[5] Mme Adrienne Diorio, agente des appels à l’Agence des douanes et du revenu du Canada (l’« ADRC »), a effectué des recherches et découvert que le prix de location moyen d’appartements comparables au Caire, en Égypte, où l’appartement en question était situé, était de 20 000 $ au cours de la période allant de 2004 à 2006 (pièces R‑3 à R‑7). Elle a comparé le prix de location de cinq appartements dont la superficie variait entre 200 m2 et 300 m2. L’intimée a également calculé le coût moyen de location d’une chambre pour deux semaines tous les trois mois dans un hôtel de luxe. Le prix de location s’est élevé à environ 15 000 $ par année.
+[6] L’appelant n’a donné comme exemple que le coût de location d’un seul appartement (260 m2), et ce, pour 2004. L’appartement avait été loué pour 62 160 $ pour l’année. L’appelant a également dit que les concurrents louaient des chambres d’hôtel à raison de deux ou trois semaines tous les deux ou trois mois. Il a en outre admis que la partie la plus importante du processus de demande relatif à l’immigration et aux études avait lieu au Canada (voir la pièce R‑1 : lettre envoyée à Mme Adrienne Diorio et datée du 15 juillet 2004, page 2, paragraphe 3).
+[7] Dans l’arrêt Mohammad c. Canada, [1998] 1 C.F. 165, [1997] A.C.F. 1020 (QL), la Cour d’appel fédérale a mentionné ce qui suit aux paragraphes 28 et 29 :
+[28] Quand on évalue le caractère raisonnable d’une dépense, on mesure ce caractère raisonnable en termes de grandeur ou de quantum. Bien qu’une telle décision puisse faire intervenir un élément d’appréciation suggestive de la part du juge des faits, il faut toujours rechercher un élément objectif. [...]
+[29] Je concède qu’il y aura des cas où l’élément objectif sera difficile à isoler et, par conséquent, où l’expérience pratique doublée d’un bon sens commun devra prévaloir. Cela est vrai des dépenses réputées déraisonnables parce que l’on croit qu’elles sont excessives ou extravagantes : voir Cipollone, précité [...]
+[8] Selon moi, l’intimée a fourni suffisamment d’éléments de preuve objectifs pour démontrer que les coûts de location étaient excessifs en 1997 et en 2000. Même s’il n’appartient pas à l’ADRC d’intervenir quant à la décision de l’appelant de louer un appartement cher pour ses activités commerciales, et même si les prix de location d’appartements comparables, fournis à la Cour par l’intimée, concernent des années postérieures aux années d’imposition en litige, on peut déduire de la preuve qu’une chambre d’hôtel ou un appartement comparable aurait coûté moins de la moitié des montants déduits par l’appelant. En fait, celui-ci a pu négocier le prix de l’appartement et, en 1998 et en 1999, le louer pour la moitié du prix demandé. Selon moi, ces facteurs correspondent au genre d’éléments objectifs mentionnés dans l’arrêt Mohammad précité. J’ajouterais également que l’appelant n’a pas fourni à la Cour de prix à l’égard d’appartements comparables pour les années en litige.
+[9] Je conclus que, pour ce qui est d’évaluer l’importance des frais déduits, l’intimée s’est fondée sur les meilleurs éléments objectifs disponibles dans les circonstances, et ces éléments n’étaient pas liés au revenu généré par l’entreprise. Je conclus donc que les frais de location déduits pour 1997 et 2000 ne sont pas raisonnables. Je suis d’accord avec l’intimée pour ce qui est du fait que les frais déduits pour 1998 et 1999 sont plus raisonnables.
+[10] Les appels sont accueillis, et les cotisations sont déférées au ministre pour nouvel examen et nouvelle cotisation au motif que les frais de location raisonnables que l’appelant peut déduire dans le calcul de son revenu pour les années en litige, en vertu de l’article 67 de la Loi, sont de 25 000 $ (au lieu de 43 054 $) pour l’année d’imposition 1997, de 24 360 $ (comme ce qui a été déduit) pour l’année d’imposition 1998, de 24 405 $ (comme ce qui a été déduit) pour l’année d’imposition 1999 et de 25 000 $ (au lieu de 43 219 $) pour l’année d’imposition 2000.
+Signé à Ottawa, Canada, ce 14e jour de mars 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 6e jour de février 2008.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2006CCI142
+NO DU DOSSIER DE LA COUR : 2005-2516(IT)I
+INTITULÉ DE LA CAUSE : AHMAD S. AMMAR c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 2 mars 2006
+MOTIFS DU JUGEMENT PAR : L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 14 mars 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Amy Kendell
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Étude :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

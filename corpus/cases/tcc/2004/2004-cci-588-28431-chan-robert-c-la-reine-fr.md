@@ -1,0 +1,268 @@
+---
+title: "Chan & Robert c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28431/index.do"
+last_modified: "2004-09-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 588"
+citation2: ""
+neutral_citation: "2004 CCI 588"
+decision_date: "2004-09-10"
+language: "fr"
+item_id: "28431"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1229
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:04:11.013000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2654e728bf299eaf020290182372b2cb4b1fb16613f592efa6fccf839c2c3d64"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chan & Robert c. La Reine
+
+- Citation: 2004 CCI 588
+- Decision date: 2004-09-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1229, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chan & Robert c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-10
+Référence neutre
+2004 CCI588
+Numéro de dossier
+2004-1986(GST)APP
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-1986(GST)APP
+ENTRE :
+PATRICK CHAN,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue sur preuve commune avec les demandes de Patrick Chan (2004‑1231(IT)APP), Ian Charles Roberts (2004-1232(IT)APP) et Ian Charles Roberts (2004-1988(GST)APP) le 19 août 2004, et décision rendue oralement le 23 août 2004, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocate du requérant :
+Me Kerri D. Duncan
+Représentante de l’intimée :
+Mme Katey Grist (stagiaire)
+ORDONNANCE
+Sur requête présentée en vertu de l’article 304 de la Loi sur la taxe d’accise en vue d’obtenir une ordonnance prorogeant le délai dans lequel peut être signifié un avis d’opposition à une cotisation portant le numéro 76048 et datée du 17 octobre 2000;
+Et après avoir entendu les allégations des parties;
+La demande est rejetée pour les raisons exposées dans les motifs d’ordonnance ci‑joints.
+Signé à Ottawa, Canada, ce 10e jour de septembre 2004.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 19e jour de mars 2009.
+Julie Boulanger , LL.M.
+Dossier : 2004-1231(IT)APP
+ENTRE :
+PATRICK CHAN,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue sur preuve commune avec les demandes de Ian Charles Roberts (2004-1232(IT)APP), Patrick Chan (2004‑1986(GST)APP) et Ian Charles Roberts (2004-1988(GST)APP) le 19 août 2004, et décision rendue oralement le 23 août 2004, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocate du requérant :
+Me Kerri D. Duncan
+Représentante de l’intimée :
+Mme Katey Grist (stagiaire)
+ORDONNANCE
+Sur requête présentée en vertu de l’article 166.2 de la Loi de l’impôt sur le revenu en vue d’obtenir une ordonnance prorogeant le délai dans lequel peut être signifié un avis d’opposition à une cotisation portant le numéro 17391 et datée du 17 octobre 2000;
+Et après avoir entendu les allégations des parties;
+La demande est rejetée pour les raisons exposées dans les motifs d’ordonnance ci‑joints.
+Signé à Ottawa, Canada, ce 10e jour de septembre 2004.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 19e jour de mars 2009.
+Julie Boulanger , LL.M.
+Dossier : 2004-1988(GST)APP
+ENTRE :
+IAN CHARLES ROBERTS,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue sur preuve commune avec les demandes de Patrick Chan (2004‑1231(IT)APP), Patrick Chan (2004-1986(GST)APP) et Ian Charles Roberts (2004-1232(IT)APP) le 19 août 2004, et décision rendue oralement le 23 août 2004, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocate du requérant :
+Me Kerri D. Duncan
+Représentante de l’intimée :
+Mme Katey Grist (stagiaire)
+ORDONNANCE
+Sur requête présentée en vertu de l’article 304 de la Loi sur la taxe d’accise en vue d’obtenir une ordonnance prorogeant le délai dans lequel peut être signifié un avis d’opposition à une cotisation portant le numéro 76057 et datée du 17 octobre 2000;
+Et après avoir entendu les allégations des parties;
+La demande est rejetée pour les raisons exposées dans les motifs d’ordonnance ci‑joints.
+Signé à Ottawa, Canada, ce 10e jour de septembre 2004.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 19e jour de mars 2009.
+Julie Boulanger , LL.M.
+Dossier : 2004-1232(IT)APP
+ENTRE :
+IAN CHARLES ROBERTS,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue sur preuve commune avec les demandes de Patrick Chan (2004‑1231(IT)APP), Patrick Chan (2004-1986(GST)APP) et Ian Charles Roberts (2004-1988(GST)APP) le 19 août 2004, et décision rendue oralement le 23 août 2004, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocate du requérant :
+Me Kerri D. Duncan
+Représentante de l’intimée :
+Mme Katey Grist (stagiaire)
+ORDONNANCE
+Sur requête présentée en vertu de l’article 166.2 de la Loi de l’impôt sur le revenu en vue d’obtenir une ordonnance prorogeant le délai dans lequel peut être signifié un avis d’opposition à une cotisation portant le numéro 17392 et datée du 17 octobre 2000;
+Et après avoir entendu les allégations des parties;
+La demande est rejetée pour les raisons exposées dans les motifs d’ordonnance ci‑joints.
+Signé à Ottawa, Canada, ce 10e jour de septembre 2004.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 19e jour de mars 2009.
+Julie Boulanger , LL.M.
+Référence : 2004CCI588
+Date : 20040910
+Dossiers : 2004-1986(GST)APP, 2004-1231(IT)APP,
+2004-1988(GST)APP, 2004-1232(IT)APP
+ENTRE :
+PATRICK CHAN,
+IAN CHARLES ROBERT,
+requérants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+(Version révisée de la transcription des motifs d’ordonnance rendus oralement à l’audience le 23 août 2004, à Vancouver (Colombie-Britannique).)
+Le juge Hershfield
+[1] Cette affaire m’a causé quelques difficultés, mais j’ai néanmoins conclu qu’il convient de rejeter les demandes – si c’est ainsi qu’on peut les appeler, et je m’étendrai plus tard sur cette observation, – pour les motifs suivants. Les requérants sollicitent une prorogation du délai prescrit pour déposer un avis d’opposition concernant des avis de cotisation établis en vertu du paragraphe 323(1) de la Loi sur la taxe d’accise pour des montants de TPS non versés, ainsi que les intérêts et les pénalité connexes, de même qu’en vertu du paragraphe 227.1(1) de la Loi de l’impôt sur le revenu, pour des retenues à la source non versées, ainsi que les intérêts et les pénalités connexes.
+[2] Il n’est pas contesté que les requérants étaient les administrateurs de 524428 B.C. Ltd., qui avait omis d’effectuer les versements requis ou d’acquitter la créance en découlant, et que c’est cette omission qui a donné lieu aux cotisations établies à leur encontre à titre d’administrateurs de cette entreprise.
+[3] Il n’est pas contesté que des avis d’opposition ont été déposés dans tous les dossiers le 15 décembre 2003. L’intimée soutient que les avis de cotisation ont été mis à la poste le 17 octobre 2000 et que les délais prescrits pour produire les oppositions ont expiré, tout comme les délais prescrits pour déposer la demande de prorogation de délai dont il est question en l’espèce. Les requérants contestent la date de la mise à la poste des avis et nient avoir reçu ces derniers avant le 31 octobre 2003, date à laquelle ils ont été envoyés à leur avocate accompagnés d’une lettre datée du 29 octobre 2003. Ils sont d’avis qu’il incombe au ministre de prouver l’envoi par la poste.
+[4] Je signale à ce stade‑ci que si l’intimée n’établit pas que les cotisations ont été mises à la poste un an et 90 jours avant le 15 décembre 2003, soit la date du dépôt des oppositions, cela signifie que les oppositions déposées ne sont pas hors délai. Aucune prorogation de délai n’est requise dans un tel cas car les oppositions auraient été déposées dans les 90 jours suivant la date de mise à la poste du 29 octobre 2003 que les requérants ont établie.
+[5] La Cour est compétente pour entendre les demandes de prorogation de délai. C’est ce qui est indiqué à l’article 304 de la Loi sur la taxe d’accise et à l’article 166.2 de la Loi de l’impôt sur le revenu. Il s’agit donc de se demander si la Cour est compétente pour rendre la décision demandée, c’est‑à‑dire fixer une date de mise à la poste qui déterminera si les oppositions ont été déposées en temps opportun.
+[6] L’affaire qui m’est soumise n’est ni un appel relatif à une dette fiscale ni, à vrai dire, une demande de prorogation de délai et, cela étant, c’est la raison pour laquelle se pose la question de ma compétence à entendre la demande.
+[7] Aucune des parties n’a mis en doute ma compétence à entendre cette affaire. Je signale également que les causes citées par les avocats de toutes les parties ne traitaient pas de la question de la compétence, et cela inclut l’arrêt que la Cour d’appel fédérale a rendu dans Schafer [1] . D’aucuns pourraient en conclure que la Cour jouit d’une compétence implicite.
+[8] Quoi qu’il en soit, les parties ont toutes déposé auprès de la Cour des actes de procédure signés. Dans ce contexte, je crois qu’il convient de procéder en tenant pour acquis que l’article 173 de la Loi de l’impôt sur le revenu et l’article 310 de la Loi sur la taxe d’accise s’appliquent. Ces deux dispositions permettent aux parties de demander à la Cour de statuer sur une question relative à une cotisation, et c’est ce qui m’a essentiellement été demandé de faire dans les actes de procédure signés.
+[9] Je signale que la seule preuve produite en l’instance l’a été par voie d’affidavits, et ce, même si les auteurs de ces derniers étaient présents devant le tribunal et pouvaient être soumis à un interrogatoire principal et à un contre‑interrogatoire. L’intimée s’est fondée sur l’affidavit de deux agents de l’ADRC, et les requérants se sont fondés sur leurs affidavits respectifs et sur celui d’une adjointe juridique du cabinet de leur avocate.
+[10] La preuve par affidavit de l’intimée est la suivante : Mme Light a affirmé que, le 17 octobre 2000, elle a produit les cotisations et que, en ce qui concerne celles de M. Roberts, elle les a amenées en personne à la salle du courrier le même jour, c’est‑à‑dire le 17 octobre 2000, et qu’elle les a envoyées par courrier recommandé au 3071 Glen Drive, bureau 1606, à Coquitlam, une adresse relevée dans des documents de l’ADRC datés de septembre 2000 et d’août 1999. En ce qui concerne les cotisations de M. Chan, elle les a amenées en personne à la salle du courrier le même jour, soit le 17 octobre 2000, et elle les a ensuite envoyées par courrier recommandé au 2307 Lorraine Avenue, à Coquitlam, dans le cas des cotisations de TPS, mais au 2037 Lorraine Avenue, à Coquitlam, dans le cas des cotisations d’impôt sur le revenu.
+[11] Comme il s’agit d’un jugement oral, je vais répéter ce que je viens de dire. L’adresse à laquelle a été envoyée la cotisation de TPS était le « 2307 » mais, pour la cotisation d’impôt sur le revenu, il s’agissait du « 2037 ».
+[12] Mme Light a également affirmé qu’elle tenait un journal où il est noté que, le 26 janvier 2001, tout le courrier a été retourné.
+[13] La seconde personne qui a produit un affidavit pour le compte de l’intimée, M. Desai, a affirmé que le journal de Mme Light confirmait les inscriptions faites au sujet de la date de mise à la poste et du retour du courrier recommandé. Il a affirmé en outre ce qui suit au sujet des cotisations de M. Roberts : il a envoyé ces dernières par courrier ordinaire le 20 mars 2001, à une adresse située sur Princess Crescent à Coquitlam, et elles n’ont pas été retournées; en outre, le 29 mars 2001, il a parlé avec M. Roberts, qui a confirmé avoir reçu les cotisations; de plus, le 22 août 2001, il a transmis une demande péremptoire de paiement à l’employeur de M. Roberts en vue de procéder à une saisie‑arrêt de salaire. Quant à la cotisation de M. Chan, il a affirmé ce qui suit : il a envoyé les cotisations par courrier ordinaire le 20 mars 2001 au 2037 Lorraine Avenue, à Coquitlam, et elles n’ont pas été retournées; le 22 août 2001, il a transmis une demande péremptoire de paiement à l’employeur de M. Chan en vue de procéder à une saisie‑arrêt de salaire.
+[14] La preuve par affidavit des requérants est la suivante : M. Roberts a affirmé n’avoir jamais reçu les cotisations, ce qui nie implicitement la déclaration faite sous serment de M. Desai selon laquelle M. Roberts en a accusé réception lors d’une conversation téléphonique le 29 mars 2001. Il a confirmé qu’entre mars 1999 et mai 2002, son adresse était bien celle de Princess Street qui est mentionnée dans l’affidavit de M. Desai, mais, a‑t‑il ajouté, il a pris connaissance de l’existence d’un problème quand une saisie‑arrêt a été exécutée en septembre 2001, date à laquelle il a retenu les services d’une avocate.
+[15] M. Chan a affirmé n’avoir jamais reçu les cotisations et que son adresse était le 2037 Lorraine Avenue (et non le 2307 Lorraine Avenue, à Coquitlam); il a pris connaissance de l’existence d’un problème lorsqu’une saisie‑arrêt a été exécutée en septembre 2001, date à laquelle il a retenu les services d’une avocate.
+[16] Mme Armstrong, adjointe juridique au service de l’avocate représentant les requérants, a confirmé l’existence de lettres prouvant que l’avocate des requérants avait écrit à l’ADRC le 10 septembre 2003 pour demander des copies des cotisations et exiger une comptabilité. À la suite d’une autre lettre et d’une demande de l’ADRC en vue d’obtenir une autorisation de l’entreprise en plus des autorisations personnelles fournies, l’ADRC a finalement transmis trois des quatre cotisations le 29 octobre 2003. Il semble que la quatrième cotisation ait été transmise ou découverte avant le dépôt des quatre oppositions le 15 décembre 2003.
+[17] Je signale que la demande de l’ADRC concernant une autorisation d’entreprise est inusitée dans le cas d’une cotisation visant des administrateurs qui ont pris leur retraite en tant que tels plusieurs années plus tôt. Je signale également que, dans son affidavit, M. Desai reconnaît avoir reçu des autorisations du cabinet de l’avocate des requérants le 22 octobre 2001, soit deux mois environ après la transmission et l’exécution des saisies‑arrêts (c.‑à‑d. environ deux ans avant la lettre de 2003 mentionnée dans l’affidavit de Mme Armstrong). Les requérants n’ont fait référence à ces autorisations dans aucun des trois affidavits produits à l’audience. Toutefois, à l’audience, l’avocate des requérants a déposé des lettres additionnelles de son cabinet, dont la plus ancienne date du 6 septembre 2001. Ces lettres comportaient les autorisations personnelles des requérants, mais faisaient référence au numéro de compte de 524428 B.C. Ltd. N’ayant reçu aucune réponse, le cabinet a envoyé une deuxième lettre le 20 septembre 2001, une troisième le 16 octobre 2001 et une quatrième le 18 décembre 2001.
+[18] La dernière lettre accuse réception de la demande d’autorisation d’entreprise de l’ADRC et précise que le numéro de compte mentionné dans les lettres envoyées à l’ADRC est peut‑être le numéro de compte de l’entreprise, mais – pertinemment, selon moi – elle confirme qu’ils répondaient aux saisies‑arrêts personnelles découlant vraisemblablement de cotisations personnelles, ce qui dénote que les autorisations personnelles étaient suffisantes. Aucune réponse à cette dernière lettre de l’avocate des requérants à l’ADRC n’a été transmise, et aucune explication n’a été donnée quant à la raison pour laquelle il était nécessaire d’obtenir d’autres autorisations. Il n’y a pas eu d’autres communications d’un côté ou de l’autre avant le mois de septembre 2003, moment où a recommencé un échange de lettres semblable, ainsi qu’il est indiqué dans l’affidavit de Mme Armstrong.
+[19] Si l’ADRC s’était conformée à la demande de copies des cotisations entre les mois de septembre et de décembre 2001, comme cela a été le cas dans l’échange de lettres survenu en 2003 et mentionné dans l’affidavit de Mme Armstrong, il n’y a pas, semble‑t‑il, de raison pour laquelle les oppositions n’auraient pas été déposées en décembre 2001, comme elles l’ont été en décembre 2003. Si elles avaient été déposées en décembre 2001, cela aurait été fait dans le délai d’un an et 90 jours, même à compter de la première mise à la poste prétendue des cotisations, soit le 17 octobre 2000. C’est‑à‑dire qu’une réponse appropriée de l’ADRC, après la saisie‑arrêt, aux lettres de l’avocate, envoyées en temps opportun à ce moment‑là, aurait permis de présenter à temps une demande de prorogation de délai en vue de déposer tardivement les avis d’opposition qui ont été déposés deux ans plus tard.
+[20] On ne peut pas fermer les yeux sur cette omission de l’ADRC. L’affidavit de M. Desai confirme la réception des lettres de l’avocate des requérants, mais aucun détail n’est fourni. Aucune explication n’est donnée à propos du motif des autorisations additionnelles.
+[21] Il est regrettable pour l’administration, pour la justice naturelle ainsi que pour les tribunaux que j’aie les mains liées par une législation draconienne qui se fie à des dates d’envoi, indépendamment d’un avis concret selon lequel l’ADRC a omis de répondre à des demandes de détails concernant des cotisations. Une telle omission de l’ADRC déconsidère le système tout entier. En revanche, chose qui compense quelque peu cette attitude inexcusable de l’ADRC, il est pertinent de noter qu’il a fallu deux ans à l’avocate des requérants pour reprendre les efforts de ses clients. Rien n’a été fait pour faire valoir les droits juridiques des requérants d’obtenir les renseignements demandés. Il aurait dû être clair que les délais étaient de rigueur à l’égard de n’importe quelle instance liée à des saisies‑arrêts exécutées soit en vertu de la Loi de l’impôt sur le revenu soit en vertu de la Loi sur la taxe d’accise.
+[22] Je signale à ce sujet, comme je le ferai de nouveau vers la fin des présents motifs, que dans l’arrêt Schafer de la Cour d’appel fédérale la juge Sharlow a reconnu le caractère inéquitable de la législation au sujet des délais prescrits qui courent à partir de dates d’envoi sans tenir compte de la réception des documents en question, mais qu’elle a signalé que, indépendamment de cette inéquité et indépendamment du fait qu’elle souscrive en principe à la décision de la Cour canadienne de l’impôt dans Schafer, le législateur avait décidé, pour des raisons inexpliquées, d’assujettir les contribuables à des délais précis même si ces derniers n’étaient pas au courant de l’existence des cotisations dont le délai allait expirer.
+[23] Pour ce qui est de la date de mise à la poste des cotisations, je signale que même si la réception des cotisations ou la connaissance de leur existence ne sont pas pertinentes sous le régime de l’une ou l’autre des deux lois, le ministère public doit établir au vu de la preuve, suivant la prépondérance des probabilités, que les cotisations ont été envoyées. Si elles ne l’ont pas été, aucun délai n’a commencé à courir car les délais courent à partir de la date de mise à la poste des cotisations dans le cas de la Loi de l’impôt sur le revenu ou de l’envoi des cotisations dans le cas de la Loi sur la taxe d’accise. Aux termes de la Loi de l’impôt sur le revenu, la date à laquelle commence le délai est prévue au paragraphe 165(1) et, dans le cas de la Loi sur la taxe d’accise, le début du délai prescrit est indiqué au paragraphe 301(1.1). Là encore, cela présuppose que des cotisations sont mises à la poste ou envoyées.
+[24] Il est utile à ce stade‑ci de se demander si les lois en question prescrivent une méthode quelconque pour l’envoi des cotisations. D’après la Loi de l’impôt sur le revenu, les cotisations visées à l’article 227.1 et, d’après la Loi sur la taxe d’accise, les cotisations visées au paragraphe 323(1) sont régies par les paragraphes 227(10) et 323(4), respectivement, lesquels disposent que les sections I et J de la partie I de la Loi de l’impôt sur le revenu et les articles 296 à 311 de la Loi sur la taxe d’accise s’appliquent, avec les modifications nécessaires. Le paragraphe 152(2), à la section I de la partie I de la Loi de l’impôt sur le revenu, et l’article 300, à la partie IX de la Loi sur la taxe d’accise, prescrivent que les cotisations doivent être envoyées. Aucun mode d’envoi n’est indiqué.
+[25] En l’occurrence, l’intimée soutient que les cotisations ont été mises à la poste, d’abord par courrier recommandé et ensuite par courrier ordinaire. Les avocats des deux parties ont cité l’article 244 de la Loi de l’impôt sur le revenu et l’article 335 de la Loi sur la taxe d’accise comme étant utiles pour déterminer les règles de preuve qui s’appliquent à cette façon d’envoyer des cotisations. Ces règles, figurant aux paragraphes (5), (14) et (15) de l’article 244 de la Loi de l’impôt sur le revenu et aux paragraphes (1), (10) et (11) de l’article 335 de la Loi sur la taxe d’accise, s’appliquent à la Loi de l’impôt sur le revenu ou à la partie IX de la Loi sur la taxe d’accise, selon le cas, et donc aux cotisations fondées sur la responsabilité d’un administrateur.
+[26] Je signale que, dans le cas de la Loi sur la taxe d’accise, on m’a orienté vers une disposition additionnelle qui ne semble pas figurer dans la Loi de l’impôt sur le revenu. Il s’agit du paragraphe 334(1) de la Loi sur la taxe d’accise, où il est dit que tout envoi par la poste en première classe est réputé reçu par le destinataire (à la date de sa mise à la poste). J’ajoute qu’aucune des personnes ayant déposé un affidavit pour le compte de l’intimée ne fait état d’un envoi par la poste en première classe. Dans ce contexte, d’un point de vue technique du moins, cette disposition ne s’applique pas. Je signale aussi que l’intimée, en fin de compte, ne se fie pas à la réception et maintient que les délais prescrits courent à partir de la date de la mise à la poste ou de l’envoi.
+[27] En ce qui a trait au paragraphe (5) de l’article 244 de la Loi de l’impôt sur le revenu et au paragraphe (1) de l’article 335 de la Loi sur la taxe d’accise, je signale que ces dispositions ne s’appliquent que dans les cas où les lois respectives prévoient un envoi par
+la poste. Lorsqu ’un affidavit de l’ADRC indique qu’un envoi a été transmis par courrier recommandé et qu’il est accompagné d’un récépissé de recommandation postale, en l’absence d’une preuve contraire, cet affidavit sera admis comme preuve que l’avis a été envoyé.
+[28] En faisant abstraction du fait de savoir si les lois en question prévoient bel et bien un envoi par la poste, mesure qui n’est qu’implicite dans le cas de la Loi de l’impôt sur le revenu dans la disposition relative au délai prescrit, laquelle indique que ce délai court à partir de la date de la mise à la poste, je signale que des récépissés de recommandation postale n’ont pas été joints à l’affidavit de Mme Light.
+[29] L’article 244 n’aide donc pas la cause du ministère public et m’amène à me demander si les efforts faits par Mme Light pour envoyer les cotisations par courrier recommandé ont bel et bien eu lieu. L’avocat de l’intimée soutient que si les cotisations ont été retournées, c’est qu’elles ont forcément été envoyées. L’affidavit de Mme Light est insuffisant sur ce point. Si elle avait dit ou témoigné qu’elle était au courant de leur arrivée à un bureau de poste pour y être recommandées et qu’elles avaient été recommandées et ensuite retournées, alors je dirais que ces dires, non contestés, suffiraient à la place d’un récépissé; cependant, dans l’état actuel des choses, j’ignore tout à fait d’où les cotisations ont été retournées, ou si elles ont été effectivement recommandées, ou non, à un bureau de poste. Par ailleurs, son affidavit concernant les cotisations de M. Chan comporte des adresses différentes. Tout bien considéré, je ne suis donc pas convaincu que les cotisations ont été envoyées le 17 octobre 2000.
+[30] Je signale en outre que les paragraphes 244(14) et (15) de la Loi de l’impôt sur le revenu, qui s’appliquent à cette loi, et les paragraphes (10) et (11) de l’article 335 de la Loi sur la taxe d’accise, qui s’appliquent à la partie IX de cette loi, exigent qu’il soit conclu qu’une cotisation a été mise à
+la poste . Je ne tire aucune conclusion de cette nature à l’égard du courrier recommandé, de sorte que ces dispositions, en fait, ne s’appliquent aucunement aux envois par la poste dont Mme Light fait état dans son affidavit.
+[31] Cela m’amène aux dates de mise à la poste indiquées dans l’affidavit de M. Desai. Je ne vois pas pourquoi je n’accepterais pas ce qu’il dit au sujet de ces dates. Il semble peu vraisemblable, selon la prépondérance des probabilités, que les deux requérants n’aient pas reçu les cotisations. M. Roberts n’a jamais contesté expressément dans son affidavit ce que M. Desai déclare dans le sien, à savoir que M. Roberts avait accusé réception des cotisations. M. Roberts n’a jamais témoigné à l’audience; M. Desai n’a pas été contre‑interrogé sur
+la déclaration. Aucune des cotisations que M. Desai a envoyées n’ont été retournées. Elles ont été expédiées à de bonnes adresses.
+[32] J’ai plus parlé de M. Roberts que de M. Chan, mais je signalerais que si M. Roberts était au courant des cotisations, il est peu probable que M. Chan les ignorait. C’est le genre d’informations que s’échangeraient d’ancien coadministrateurs d’une entreprise fermée pour des raisons financières. Lorsqu’ils ont reçu les saisies‑arrêts, les deux ont retenu les services de la même avocate, ce qui dénote là encore qu’ils ont probablement échangé des renseignements.
+[33] Pourtant, les requérants se fondent sur la décision rendue par le juge en chef adjoint Bowman, de la Cour canadienne de l’impôt, dans Schafer [2] pour étayer l’opinion selon laquelle, pour les besoins des délais, la date à laquelle un avis est envoyé ne devrait pas être déterminante si les documents censément envoyés n’ont pas été reçus. Dans Schafer, il semble que le juge en chef adjoint Bowman a dit croire que la requérante, sans que celle‑ci ait commis une faute quelconque, comme ne pas informer le ministre d’un changement d’adresse, n’avait pas reçu les cotisations et n’avait pas été informée de leur existence. Il s’est dit convaincu qu’elle n’en avait été avisée qu’au moment de subir un interrogatoire préalable concernant une autre affaire. Mme Schafer a été soumise à un vigoureux contre‑interrogatoire et a témoigné au sujet des problèmes qu’elle avait à recevoir du courrier. C’est pour cette raison que le juge en chef adjoint Bowman a jugé qu’il pouvait, selon la prépondérance des probabilités, conclure que les cotisations n’avaient pas été envoyées [3] .
+[34] En l’espèce, aucun témoignage de vive voix ne me permet de tirer les conclusions relatives à la crédibilité auxquelles est arrivé le juge en chef adjoint Bowman. Je ne dispose d’aucun contre‑interrogatoire, et encore moins d’un contre‑interrogatoire vigoureux des personnes qui ont déposé les affidavits. Rien ne conteste la déclaration sous serment de M. Desai selon laquelle celui‑ci a envoyé les cotisations et qu’à l’occasion d’une conversation téléphonique avec M. Roberts ce dernier a confirmé les avoir reçues. Outre les procédures de mise à la poste, j’ai la déclaration que M. Desai a faite dans son affidavit, à savoir que les cotisations ont été envoyées; cette déclaration n’est pas contestée, sauf par l’idée que les cotisations n’ont pas été reçues.
+[35] En bref, même si j’applique le raisonnement du juge en chef adjoint Bowman dans
+la décision Schafer , je n’ai pas affaire à la même situation de fait et je n’arriverais pas à la même conclusion sur les faits que celle qu’il a tirée relativement avec Mme Schafer.
+[36] De plus, Mme Schafer a agi quand elle a été informée de
+la situation. En l’espèce, les requérants ont retenu les services d’une avocate et présenté des demandes de renseignements après avoir été informés la première fois de
+la situation. Mais encore, malgré le défaut manifeste et répréhensible de l’ADRC, il y a un hiatus de deux ans entre les fois où des demandes de renseignements ont été faites.
+[37] Je signale également que l’avocate des requérants s’est reportée à la décision du juge Hamlyn dans l’affaire Adler [4] . Dans cette dernière, le juge Hamlyn a conclu que le témoignage de la requérante, fait par affidavit établi sous serment, ne suscitait pas la controverse; ce n’est pas le cas en l’espèce. La déclaration que M. Desai a faite sous serment contredit les déclarations de M. Roberts
+[38] Bien sûr, la raison principale pour laquelle je pourrais ne pas me conformer à des décisions telles que Adler et la décision de la Cour canadienne de l’impôt dans Schafer est l’arrêt Schafer [5] de la Cour d’appel fédérale, où la juge Sharlow a loué l’approche suivie par la Cour canadienne de l’impôt dans Schafer et Adler et laissé entendre que cette approche ne contrevenait pas au régime de la Loi, mais qu’elle a ensuite souscrit au jugement de la majorité (qui a infirmé la décision de la Cour canadienne de l’impôt) et ajouté ceci :
+Le législateur fédéral a choisi d’adopter une règle qui ne tient pas compte de la possibilité, même lointaine, que le contribuable puisse omettre de respecter le délai dans lequel il pouvait s’opposer ou former un appel en raison d’un manquement de la part du système postal. Je ne comprends pas pourquoi le législateur fédéral a choisi de priver des contribuables de l’occasion de contester une cotisation dont ils ignorent l’existence, mais il s’agit d’un choix que le législateur pouvait valablement faire.
+[39] Compte tenu de ce que j’ai déclaré au sujet de la conduite de l’ADRC, c’est avec grand regret que je me dois de souscrire en fin de compte aux propos de la juge Sharlow. C’est ce que le législateur a fait, aussi injuste que cela puisse paraître aux yeux des requérants.
+[40] C’est donc pour ces motifs qu’ayant décidé que les avis envoyés par M. Desai l’ont été par la poste, je conclus que les requérants ont dépassé le délai prescrit. Les demandes sont donc rejetées pour ces motifs.
+[41] Sous réserve du fait que l’avocate des requérants puisse expliquer le délai de deux ans dans ses réponses et ses questions concernant le bien‑fondé de l’appel, je suggérerais que la Loi sur la gestion des finances publiques offre peut‑être un recours possible. L’avocate des requérants pourrait envisager cette option, ou d’autres solutions possibles. Comme je l’ai dit, il est inexcusable que l’ADRC n’ait pas répondu aux lettres à un moment qui aurait permis aux requérants de déposer en temps opportun une demande de prorogation de délai.
+Signé à Ottawa, Canada, ce 10e jour de septembre 2004.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 19e jour de mars 2009.
+Julie Boulanger , LL.M.
+RÉFÉRENCE :
+2004CCI588
+Nos DE DOSSIER DE LA COUR :
+2004-1986(GST)APP, 2004-1231(IT)APP,
+2004-1988(GST)APP, 2004-1232(IT)APP
+INTITULÉ :
+Patrick Chan et Ian Charles Robert
+c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 19 août 2004
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge J.E. Hershfield
+DATE DE L’ORDONNANCE :
+Le 10 septembre 2004
+COMPARUTIONS :
+Avocate des requérants :
+Me Kerri D. Duncan
+Représentante de l’intimée :
+Mme Katey Grist, stagiaire
+AVOCATS INSCRITS AU DOSSIER :
+Pour les requérants :
+Nom :
+Me Kerri D. Duncan
+Cabinet :
+Burke Tomchenko & Fraser
+Port Moody (Colombie-Britannique)
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2000 DTC 6542; 2000 CarswellNat. 1948; [2000] G.S.T.C. 82; [2000] A.C.F. no 1480 (C.A.F.)
+[2] Schafer c. Canada, [1998] A.C.I. no 459.
+[3] La Cour d’appel fédérale n’a pas souscrit à cette conclusion de fait. À l’évidence, si l’intimée n’a pas envoyé les cotisations, les délais ne courent pas. La Cour d’appel fédérale dans Schafer et la Cour canadienne de l’impôt, dans des affaires telles que Nasha Properties, 98 DTC 1493, ont admis que le fardeau qu’a l’intimé de prouver l’envoi des cotisations est habituellement satisfait si, comme en fait foi un affidavit, les procédures d’envoi par la poste ont été respectées. Cependant, on ne peut pas dire qu’un tel affidavit est absolument déterminant, de sorte qu’il demeure loisible à un juge de première instance de tirer la conclusion de fait qu’une cotisation n’a pas été envoyée ou mise à
+la poste. Cela semble être bien établi en droit et je m’y fie pour conclure que les cotisations n’ont pas été envoyées ou mises à la poste le 17 octobre 2000 par Mme Light, comme celle-ci l’atteste.
+[4] [1998] A.C.I. no 66.
+[5] Schafer c. Canada, [2000] A.C.F. no 1480

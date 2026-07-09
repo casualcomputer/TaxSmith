@@ -1,0 +1,168 @@
+---
+title: "Fitzgerald v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26152/index.do"
+last_modified: "2005-02-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 123"
+citation2: ""
+neutral_citation: "2005 TCC 123"
+decision_date: "2005-02-18"
+language: "en"
+item_id: "26152"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3950
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:00:23.567000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9d2cd8caf0df690468c978a442be53d63280c270ac60052303d3303e081f7c08"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fitzgerald v. M.N.R.
+
+- Citation: 2005 TCC 123
+- Decision date: 2005-02-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3950, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fitzgerald v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-18
+Neutral citation
+2005 TCC 123
+File numbers
+2003-3789(EI)
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Employment Insurance Act
+Decision Content
+Citation No. 2005TCC123
+Date: 20050218
+Dockets: 2003-3789(EI)
+2003-4162(EI)
+2004-493(EI)
+2003-4520(EI)
+BETWEEN:
+ROBERT FITZGERALD, WALTER PRESHYON,
+RAYMOND FRICKER AND ELDON SAMPSON,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Sydney, Nova Scotia on December 9, 2004)
+Margeson J.
+[1] The matters before the Court at this time for decision are Robert Fitzgerald v. Minister of National Revenue, 2003-3789(EI), Walter Preshyon, 2003-4162(EI), and Raymond Fricker, 2004-493(EI).
+[2] The periods during which they were alleged to have been engaged in insurable employment are set out in the Replies, and those are the periods with which the Court is dealing.
+[3] The Court has come to the conclusion, not reluctantly so, either, because it is quite obvious what the facts in this case dictate, that these appeals must be dismissed.
+[4] There are two basis for dismissing these appeals. One, there were no contracts of service in existence between the parties. If there were contracts of service then they were contracts of convenience, which were entered into for the sole purpose of taking advantage of the provisions of the Employment Insurance Act and such contracts of service are not envisaged by the Employment Insurance Act.
+[5] First of all, the factual situation as disclosed by the evidence, was the classic case as set out in Wiebe Door Services Ltd. v. M.N.R.[1] That was the classic case of independent contractor versus contract of service.
+[6] This type of work did not lend itself to a contract of service. For there to be a contract of service there has to be supervision. There has to be control. In this particular case and in cases where the issue is between contract for and contract of services, supervision or control is oftentimes the dominating or determining factor.
+[7] As Wiebe Door supra says, one should not look at the factors in a mathematical way and add them up and say three of the factors are present and one is not and therefore there is a contract of service. One has to look at all of the factors as a four-in-one test. The weight given to one factor may be greater than the weight given to another factor in any one case. I use that approach here rather than the fourfold test.
+[8] As counsel for the Respondent suggested, there was little or no supervision of these workers. They made it quite clear that they received little or no supervision. They never intended to be supervised. Even the last witness, Mr. Fricker, who was not even an experienced woodcutter (except that he cut his own wood) said that he received little or no supervision and was subject to little or no control by the purported employer.
+[9] In his case he rented the saw from the payor and also bought the gas and oil from her. Basically the payor said, here's a plot of land upon which are located or situate some trees. You go and cut them down and pile them up neatly and clear away the brush. Later on we'll come and pick them up and sell them and we'll pay you so much a cord. That's all that it was. There was no other supervision for him or the others who were experienced woodcutters and who obviously needed even less supervision than he did.
+[10] The Appellants indicated that the payor visited the site on a number of occasions to insure that they were not leaving pieces of wood, branches and limbs all over the place so as to insure that the site was neat, that the wood was piled up and that they could identify it. Apart from that, the Court is satisfied that the payor never showed up at the sites. It was impossible to determine from the evidence how many times she showed up at the worksite, but they were few and far between.
+[11] The Court asked Walter Preshyon in particular about the matter of supervision and he indicated that he was an experienced woodcutter and that he didn't need any supervision. He didn't need control. Further, the payor was not an experienced woodcutter. She was a business person and knew very little about woodcutting or piling of the wood. She was basically a buyer of wood.
+[12] The Court is satisfied that there was no supervision and no one intended there to be any. That is very important in this case. It is the most important factor here. Any semblance of supervision that there might have been was not supervision as envisaged by Wiebe Door, supra.
+[13] It is quite clear that the Appellants worked when they wanted to. It is impossible to determine with certainty when they worked because the records are quite unbelievable and inconsistent. There is no evidence whatsoever to corroborate the accuracy of the Appellants' testimony. Each one testified before the Court that the records of employment were complete and accurate insofar as they were concerned but those statements were not corroborated or explained by any records of their own or any other records that might justify their testifying as they did.
+[14] After hearing the evidence of Beverley Campbell, the Court is satisfied that the records are not accurate or complete. In spite of the evidence of the Appellants as to when they cut the wood, as to when they started it and when they finished, the Court is unable to determine when they worked.
+[15] Further, there is no doubt that they chose their own hours of work. They chose what days they worked and they chose when they worked during those days when they chose to work. The payor had no input into those matters.
+[16] From any reasonable interpretation of the direct evidence, and any reasonable presumptions that the Court is entitled to draw from the evidence, the Court must conclude that sometimes they would stop in the middle of the day and they would stop when they felt like it.
+[17] Some of them said that they worked right through the rain at times and sometimes almost from daylight to dark. However, the Court finds that to have been rather unlikely.
+[18] In any event the work that they decided to do was work of convenience. They worked when they wanted to but the Court is unable to determine just how long they actually worked.
+[19] With respect to tools of the trade, in every case except in the case of Mr. Fricker, everybody owned their own tools. They owned their own saws. They owned theirs own chains. They owned their own files. They supplied their own gas. They supplied every other piece of equipment that they needed.
+[20] In Mr. Fricker's case, the payor took the cost off of his pay before he received the balance. All of the other workers had to supply their own, even though they might have bought them from the payor.
+[21] In essence, all of the Appellants were working for themselves. They were working on their own. They were working under contracts for services like the tradesmen in Wiebe Door, supra.
+[22] Further, they were paid not by the hour or week but by the cord. This is also consistent with a contract for services (although not determinative of one).
+[23] In their evidence, the Appellants always referred to the hours that they worked but it was obvious to them that the hours didn't make any difference whatsoever. The only significance of that factor was with respect to the Employment Insurance Regulations, which calculate their benefits on the basis of hours rather than on the basis of how much money they earned. That did not affect the situation here because no one kept track of the hours.
+[24] One witness said that he did have a record, but unfortunately, he didn't have it with him and, consequently, he was unable to corroborate the information contained in the Record of Employment.
+[25] The factors of risk of loss and chance of profit speak in favour of a contract for services rather than a contract of service because the Appellants made it quite clear that they could work as long as they wanted to, they could stop when they wanted to, they were paid twenty-five to thirty dollars ($25 - $30) per cord, so if they cut 50 cords they would make a certain amount of money and if they cut 60 cords a day, they would make more. The decision was theirs and the hours were obviously determined by the number of hours they decided to work and not by the payor. If they worked less they were paid less and that was a risk of loss.
+[26] It is obvious that the amount of money that was earned by each worker was not determined by the hours that they worked but by the skill of the cutters and the conditions of work, such as the stand of timber and the presence or absence of underbrush or other impediments in the work place.
+[27] With respect to risk of loss, the Appellants shared a real risk of loss because if they didn't handle their saws properly, did not keep them sharp, used too much oil, too many files or too much gasoline, then the amount of money they earned would be severely reduced. This factor favours a contract for services.
+[28] The Court is satisfied that when you ask the question, whose business was this, the answer has to be, that of the workers. The business was all about cutting wood and piling it. The work of the payor was buying wood and selling it. The workers had nothing to do with that. The work of the Appellants was not integrated into the work of the payor.
+[29] The terms and conditions are of some importance. Here, the workers came and went as they pleased. There were no set hours for them. They could have worked from daylight to dark. There was no supervision or control. All of these factors favour the finding of a contract for services.
+[30] Further, if the Court had been able to conclude that there was a contract of service, the Appellants' duty was to establish how many hours they worked. On the basis of the evidence before the Court, which can be believed, this cannot be done. The number of hours of work cannot be ascertained and the period of work cannot be ascertained.
+[31] When the Appellants were asked pungent, searching questions about their hours of work, their answers were evasive, inconclusive, inconsistent and were inconsistent with other evidence given.
+[32] When Ms. Campbell went on the stand and gave the evidence that she did, the Court was satisfied beyond any doubt that these records that had been presented by the workers were completely incapable of belief and the Court is satisfied that they are not factual.
+[33] On the contract of service argument, the Court is more than satisfied that there were no contracts of service. These were obviously contracts for services.
+[34] On the second argument, the Court is satisfied on that as well that if there was employment, it this was employment of convenience.
+[35] This is the type of employment that Justice Tardif was talking about in Laverdiere v. Canada(Minister of National Revenue), [1999] T.C.J. No. 124.
+[36] The facts in the case at bar are similar to the factual situation in this case. At page 7, Tardif J. said:
+"Instead, it was brought out at the hearing that the records of employment issued on the basis of the payroll records were shaped by a variety of considerations such as unemployment insurance benefits, compensation for the remoteness and isolation of the driving school in St-Pamphile and also incentive bonuses taking into account responsibility for the office. The payroll record did not reflect the mathematical precision that ought to result from basically adding up the hours actually worked at the agreed hourly wage."
+[37] The same can be said of the situation in the case at bar.
+[38] The Records of Employment were created so as to enable the workers to obtain "the best possible stamp".
+[39] Tardif J. said at paragraph 50:
+"This is the case with any agreement or arrangement whose purpose and object is to spread out or accumulate the remuneration owed or that will be owed so as to take advantage of the Act'sprovisions. There can be no contract of service where there is any planning or agreement that disguises or distorts the facts concerning remuneration in order to derive the greatest possible benefit from the Act."
+[40] Further, at paragraph 51 he said:
+"The Act insures only genuine contracts of service; a contract of employment in which remuneration is not based on the period during which work was performed cannot be defined as a genuine contract of service. ..."
+[41] That is the problem in the case at bar. When was the work performed? For how long? The ROEs say one thing, but the evidence clearly indicated something else.
+[42] That is not a genuine contract of service. It is an agreement or arrangement that is inconsistent with the existence of a genuine contract of service such that it includes elements foreign to contractual reality required by the Act.
+[43] It has been pointed out that the payor was not here. However, the Court is satisfied that the payor is not here because she was sick. The Court will not draw any unfavourable inference against the parties because the payor was not here.
+[44] Had the payor been here she might have been able to shed some light on the records, but in light of what Ms. Campbell said, the Court does not think that her evidence would have changed the result.
+[45] With respect to credibility, the Court finds that the evidence of the workers was inconsistent. It was incomplete. They didn't seem to know anything about the factual situation, when they started working or when they stopped working.
+[46] They merely looked at the Records of Employment and said that they were correct. In most cases their evidence was not forthright and the Court and counsel for the Respondent had to pull every answer out of them or there would have been very little to go on.
+[47] That is not the type of evidence which lends itself to a finding of credibility. When there is any issue about credibility, the Court certainly accepts the evidence of the other witnesses where their evidence contracted the evidence of the Appellants or brought their evidence into conflict or into disrepute.
+[48] There was no correlation between the information set out in the ROEs and the other records which were available to the investigator. Based upon the evidence she gave in Court and the evidence which came out in the statement, the Court is not satisfied that the Appellants have proven that the information contained in the ROEs was correct.
+[49] It is true that Mr. Preshyon did not sign the statement. He said that he did not want to sign it but he did initial it. After hearing the evidence this morning that was given by Dino Sophocleous, the Court is satisfied that he gave Mr. Preshyon every opportunity to read the statement. The Court is satisfied that what was said in the statement was what the witness said and what he said in Court was not correct.
+[50] Contrary to what Mr. Preshyon said in court, the Court is satisfied that Mr. Sophocleous did not try to change around what the Appellant had to say and the Court is satisfied that the statement makes it quite clear that what was going on was work of convenience.
+[51] What the workers were doing was piling up wood over a longer period of time in order to claim that they cut the wood over a shorter period of time so that when you took the total number of days over which they were working they would have received a higher stamp. That was the whole purpose of it. It's quite obvious what it was.
+[52] This is similar to what Tardif J. was talking about in Laverdiere, supra. This is what is called "banking of hours." In this particular case, it was banking of wood in order to release it at the most convenient time so as to obtain the higher stamp since the amount of wood was used to calculate the insurable time.
+[53] Ms. Campbell had the opportunity of examining not only the ROEs but also the records of Stora (the buyer), the records of the payor and income tax records.
+[54] A further problem with respect to Mr. Preshyon was that he was not in perfect health. As a matter of fact, he was drawing Canada Pension Plan benefits. How could he draw Canada Pension Plan benefits if he wasn't disabled? He was feigning his illness so he could obtain CPP benefits or he was drawing CPP benefits and working under a great deal of pain. One finds that difficult to accept. Otherwise he didn't do the cutting at all. Somebody else did the cutting and merely put the information down on his Record of Employment. Those are the only alternatives.
+[55] He tried to say on the witness stand that he didn't draw CPP for 12 months, but it's quite obvious that he did. The records make it quite clear. There's no way a person would forget that. The only reason you would forget would be because you don't want to remember it.
+[56] And so, again, that raises into question the credibility of Mr. Preshyon, apart from the unfavourable conclusion the Court has already drawn about the nature of his testimony.
+[57] At the end of the day, then, for all of these reasons, the Court is satisfied that the Appellants have not met the burden upon them of establishing that this was insurable employment. The appeals are dismissed and the Minister's decisions are confirmed.
+"T. E. Margeson"
+Margeson J.
+CITATION:
+2005TCC123
+COURT FILES NO.:
+2003-3789(EI), 2003-4162(EI), 2004-493(EI) and 2003-4520(EI)
+STYLE OF CAUSE:
+Robert Fitzgerald, Walter Preshyon, Raymond Fricker and Eldon Sampson v. The Minister of National Revenue
+PLACE OF HEARING:
+Sydney, Nova Scotia
+DATE OF HEARING:
+December 9, 2004
+ORAL REASONS FOR JUDGMENT BY:
+The Honourable Justice T. E. Margeson
+DATE OF REASONS FOR JUDGMENT:
+February 18, 2005
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Christa MacKinnon
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 87 DTC 5025.

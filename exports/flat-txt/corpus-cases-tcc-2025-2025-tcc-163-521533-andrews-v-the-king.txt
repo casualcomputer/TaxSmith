@@ -1,0 +1,135 @@
+Title: Andrews v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521533/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-163-521533-andrews-v-the-king.md
+Document type: case_law
+Last modified: 2025-11-03
+
+# Andrews v. The King
+
+- Citation: 2025 TCC 163
+- Decision date: 2025-11-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5604, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Andrews v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-11-03
+Neutral citation
+2025 TCC 163
+File numbers
+2024-942(IT)I
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2024-942(IT)I
+BETWEEN:
+JAZMIN ANDREWS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on October 21, 2025, at St. John's, Newfoundland and Labrador
+Before: The Honourable Justice David E. Spiro
+Appearances:
+Agent for the Appellant:
+Cheryl Andrews
+Counsel for the Respondent:
+Chelsea Barkhouse
+JUDGMENT
+The appeal of a determination made by the Minister of National Revenue on June 27, 2023, denying the Appellant’s application for a disability tax credit under the Income Tax Act for her 2023 taxation year, is dismissed without costs.
+Signed this 3rd day of November 2025.
+“David E. Spiro”
+Spiro J.
+Citation: 2025 TCC 163
+Date: 20251103
+Docket: 2024-942(IT)I
+BETWEEN:
+JAZMIN ANDREWS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Spiro J.
+[1] The Appellant, Jazmin Andrews, is a young woman in her early 20’s. She resides in Clarke’s Beach, on Conception Bay, Newfoundland and Labrador. She is hard of hearing.
+[2] By 2023, she had already graduated from university and was working as a food service supervisor in a kitchen at a school cafeteria.
+[3] The Appellant applied to the Minister of National Revenue (the “Minister”) for the disability tax credit (the “DTC”) under the Income Tax Act (the “Act”) for her 2023 taxation year. The Minister determined that her application for the DTC with respect to that year should be denied. Ms. Andrews appealed the Minister’s determination. Her mother, Ms. Cheryl Andrews, acted as her agent in this appeal.
+[4] The only issue in this appeal is whether the ability of the Appellant to hear so as to understand another person familiar with her in a quiet setting, while using her hearing aids, was markedly restricted in 2013.
+The Facts [5] The relevant portions of the Disability Tax Credit Certificate (Form T2201) were completed by the Appellant’s audiologist, Mr. Blair Stockley. Those portions were marked as Exhibit A-1 at trial. The observations offered by the audiologist on Form T2201 were adopted by the Appellant in cross-examination. Those observations were:
+· The Appellant has mild to moderately-severe sensorineural congenital hearing loss in both ears.[1]
+· The Appellant uses bilateral behind-the-ear hearing aids.
+· Without hearing aids, the Appellant will miss approximately 86% of the average speech spectrum.
+· With optimized hearing aids, the Appellant will miss 27% of the average speech spectrum.
+· The Appellant’s overall word discrimination score in both ears was 98% (average of left and right ears).
+· The Appellant will occasionally require repetition, context, and non-auditory cues to follow conversation.
+· Hearing speech in noise likely will be difficult.
+[6] Form T2201 also asked about the Appellant’s ability – while using hearing aids – to hear so as to understand a familiar person in a quiet setting. With respect to that question, the audiologist observed that the Appellant:
+… has difficulty, but does not take an inordinate amount of time to hear so as to understand a familiar person in a quiet setting.[2]
+[7] The Appellant testified that she had to forego certain activities due to her hearing loss. For example, she missed out on playground games when she was a child. It is impossible for her to go swimming with her hearing aids as the batteries will be damaged if exposed to moisture. In the gym, sweating would have the same effect.
+[8] At work, the Appellant misses out on conversations if the level of background noise is too high. Sometimes, she needs to ask others to repeat what they have just said. Participating in conversations over the phone can be a challenge. During a telephone conversation, she may need to ask the other person to send an email to ensure that she has received the information accurately and completely.
+[9] The Appellant can read lips. She uses that skill to supplement her hearing aids. But that is only useful when the other person is within her line of sight. In a zoom environment, for example, it is impossible for her to read the speaker’s lips if the speaker has turned off their camera. This causes the Appellant to feel less included in the conversation. The Appellant also testified that closed captioning is not always available and when it is, it is not always accurate.
+[10] The Appellant’s mother testified that during the COVID-19 pandemic, the Appellant’s education was conducted over zoom. The challenges that the Appellant discussed with respect to zoom, and closed captioning, were real ones.
+[11] Finally, I had the opportunity to observe the Appellant in the courtroom as she gave her evidence. It appeared to me that she had no difficulty following the proceedings and answering questions during cross-examination.
+The Law [12] The conditions for DTC eligibility are set out in sections 118.3 and 118.4 of the Act. I have reproduced the relevant words of those provisions:
+118.3(1) Where
+(a) an individual has one or more severe and prolonged impairments in physical … functions,
+…
+(a.2) in the case of an impairment in physical … functions the effects of which are such that the individual’s ability to perform a single basic activity of daily living is markedly restricted or would be so restricted but for therapy …, a medical practitioner has certified in prescribed form that the impairment is a severe and prolonged impairment in physical … functions the effects of which are such that the individual’s ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted, but for therapy …
+118.4(1) For the purposes of … sections … 118.3 and this subsection,
+…
+(b) an individual’s ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with … the use of appropriate devices …, the individual is … unable (or requires an inordinate amount of time) to perform a basic activity of daily living;
+…
+(c) a basic activity of daily living in relation to an individual means
+…
+(iv) hearing so as to understand, in a quiet setting, another person familiar with the individual,
+…
+[13] The Appellant will not be eligible for the DTC for 2023 if – while using her hearing aids – she was not markedly restricted in her ability to hear so as to understand, in a quiet setting, another person who was familiar with her.[3]
+The Appellant’s Argument [14] In argument, the Appellant’s mother advocated for changes to the Act. She expressed the view that most people hard of hearing do not spend most of their time in quiet settings. In her view, the test for those hard of hearing should be amended.[4]
+[15] The Appellant’s mother took no issue with the observations of the audiologist on Form T2201. She did note, however, that the Minister did not challenge her daughter’s application for the DTC for the 2018-2022 taxation years. On that basis, she expected her daughter’s DTC application for 2023 to have been accepted by the Minister, particularly as her condition remained unchanged.[5]
+Analysis [16] I am sympathetic to the challenges faced by the Appellant while at work or in social or recreational settings.[6] But having carefully reviewed the observations of the audiologist on Form T2201 (which the Appellant adopted) and having carefully considered the evidence of the Appellant and her mother, as well as my own observations in the courtroom, I find as a fact that in 2023 the Appellant – while using her hearing aids – was not markedly restricted in her ability to hear so as to understand, in a quiet setting, another person who was familiar with her.
+Conclusion [17] For the reasons set out above, I conclude that the Minister was correct in determining that the Appellant’s application for the DTC for 2023 should be denied. The Appellant’s appeal from the Minister’s determination will, therefore, be dismissed.
+Signed this 3rd day of November 2025.
+“David E. Spiro”
+Spiro J.
+CITATION:
+2025 TCC 163
+COURT FILE NO.:
+2024-942(IT)I
+STYLE OF CAUSE:
+JAZMIN ANDREWS AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+St. John's, Newfoundland and Labrador
+DATE OF HEARING:
+October 21, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+November 3rd, 2025
+APPEARANCES:
+Agent for the Appellant:
+Cheryl Andrews
+Counsel for the Respondent:
+Chelsea Barkhouse
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] There was no issue with respect to the duration of the Appellant’s condition. She has been hard of hearing since birth and will need hearing aids for the rest of her life. Crown counsel stipulated that the Appellant does have a “severe and prolonged impairment” in one of her physical functions. The only issue arises under the “markedly restricted” requirement in respect of her ability – while using her hearing aids – to hear so as to understand a familiar person in a quiet setting.
+[2] The inappropriateness of applying the “inordinate amount of time” test in the hearing context will be discussed in the next footnote.
+[3] I have refrained from considering the possibility raised by the bracketed words of paragraph 118.4(1)(b) that the Appellant might, in the alternative, have required an “inordinate amount of time” to hear. Taking an “inordinate amount of time” to do something makes sense in other contexts such as “how long does it take you to get dressed?” or “how long does it take you to go to the bathroom?”. But it makes no sense to ask “how long does it take you to hear?”. The audiologist did note that the Appellant “has difficulty, but does not take an inordinate amount of time to hear so as to understand a familiar person in a quiet setting.” My reading of that observation is that the Appellant is able, when using hearing aids, to understand a familiar person in a quiet setting.
+[4] I explained to the Appellant’s mother that I have no ability to amend the Act.
+[5] I explained to the Appellant’s mother that there is no estoppel against the Crown or, in other words, even if the Minister had allowed the Appellant’s application for earlier years, that does not require the Minister to allow the Appellant’s application for any subsequent years.
+[6] Working and participating in social or recreational activities are specifically excluded from consideration as basic activities of daily living by paragraph 118.4(1)(d) of the Act.

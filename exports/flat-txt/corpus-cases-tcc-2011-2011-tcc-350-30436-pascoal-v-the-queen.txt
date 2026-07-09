@@ -1,0 +1,145 @@
+Title: Pascoal v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30436/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-350-30436-pascoal-v-the-queen.md
+Document type: case_law
+Last modified: 2011-07-12
+
+# Pascoal v. The Queen
+
+- Citation: 2011 TCC 350
+- Decision date: 2011-07-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7907, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pascoal v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-07-12
+Neutral citation
+2011 TCC 350
+File numbers
+2006-3621(GST)G, 2006-3622(IT)G, 2006-3638(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3621(GST)G
+2006-3638(IT)G
+2006-3622(IT)G
+BETWEEN:
+ANTONIO PASCOAL
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard by teleconference on
+June 20, 2011, at Ottawa, Ontario
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+Frank E. Van Dyke
+Counsel for the Respondent:
+Frederic Morand
+____________________________________________________________________
+AMENDED ORDER FOR COSTS
+UPON motion by counsel for the Appellant for an Order for Substantial Indemnity Costs;
+AND UPON reading the material filed in support of the motion;
+AND UPON hearing counsel for the parties;
+IT IS ORDERED THAT:
+The motion is allowed in part. Costs in the amount of $16,000 (all inclusive) are awarded to the Appellant plus costs of $500.00 in respect of this motion.
+Signed at Ottawa, Canada, this 9th day of September 2011.
+“C.H. McArthur”
+McArthur J.
+Citation: 2011 TCC 350
+Date: 20110909
+Docket: 2006-3621(GST)G
+2006-3622(IT)G
+2006-3622(IT)G
+BETWEEN:
+ANTONIO PASCOAL
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR ORDER
+McArthur J.
+[1] The Appellant’s motion is for Partial or Substantial Indemnity Costs following an Order of December 2, 2009 allowing these appeals “with costs.”
+[2] In his written submissions the Appellant’s counsel submitted the following facts:
+1. A trial was held in this matter before The Honourable Justice C.H. McArthur on September 22, 2009 in Kingston, Ontario based on income tax assessments for tax under Section 227.1(1) of the Income Tax Act and Section 323 of the Excise Tax Act, for tax years 2000, 2004 and 2005 in relation to two companies, AJV and ANVIC, in relation to which Mr. Pascoal was a director.
+2. A Judgment was rendered by The Honourable Justice C.H. McArthur on December 2, 2009 in favour of the Appellant. Shown to me now and attached as Exhibit “B” is a copy of the Judgment dated December 2, 2009.
+3. The Trial pertained to assessment of $446,115.00 in respect of unpaid income tax deductions, interest and penalties payable by AJV and $205,245.00 in respect of unpaid income tax deductions, interest and penalties payable by ANVIC and $191,379.00 for unremitted GST, penalties and interest payable by AJV. Mr. Pascoal was successful at Trial.
+[3] Counsel further referred me to Langeville v. Her Majesty the Queen [1] a decision of Boyle J. In exercising my discretion pursuant to subsection 147(3) of this Courts Rules (General Procedure), I may consider the following:
+In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding ,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceeding was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(j) any other matter relevant to the question of costs.
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+(5) Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) to award or refuse costs in respect of a particular issue or part of a proceeding,
+(b) to award a percentage of taxed costs or award taxed costs up to and for a particular stage of a proceeding, or
+(c) to award all or part of the costs on a solicitor and client basis.
+Briefly applying the subsection 147(3) considerations, in order, I find:
+a) the Appellant was 100% successful;
+b) the amount in issue of over $600,000 was more than the average for “director liability cases”.
+c) the issues were somewhat routine
+d) in effect, there were no offers to settle of significance
+e) the volume of work submitted by Counsel appears high. Possibly some of Counsel’s hours were devoted to Natalie, who is not privy to this motion
+f) similar issues have been decided many times by this Court with varying outcomes, justifying the Minister’s assessment
+g) the duration of the proceeding was average
+h) there was no evidence of neglect to admit on either side
+i) this does not apply
+j) primary, if not total, liability appears to rest with the Appellant’s son Tony. I was not aware of the Minister dealing with Tony, although he did testify during the Appellant’s hearing.
+[4] Antonio Pascoal was a de jure (at law) director of the two corporations AJV and ANVIC. The Minister assessed him $446,115 in respect of unpaid income tax deductions, interest and penalties payable by AJV, and $205,254 in respect of unpaid income tax deductions, interest and penalties payable by ANVIC. He was further assessed $191,379 for unremitted GST, penalties and interest payable by AJV. He was a 70 plus year old illiterate construction worker and specialized in the erection of scaffolding. He became a director in the two corporations to assist his son Tony, a graduate engineer from Queen University, in the formation of two construction corporations that failed. The Appellant had no input in the administration of Tony’s companies. He did whatever his on asked him to do, in complete confidence.
+[5] My conclusion in the Reasons for Judgment is found at paragraph 28 which states the following:
+[28] To conclude, Antonio with his limited abilities and business knowledge, acted reasonably to rely on his son to apprise him of his duties and obligations as a director when they arose. Natalie who had nothing to do with ANVIC other than being a director on paper.
+[6] The Respondent provided a Proposed Bill of Costs pursuant to Schedule II, Tariff B(1) concluding that the appropriate award of costs in the circumstances would be $8,612.14 (9,312.14 after taxation).
+[7] An affidavit filed on behalf of the Appellant states in paragraph 6:
+The matter involved litigation which began in 2005 and ended in 2009 which involved numerous meetings with the Appellant, review of minute books, preparation of notice of objection, preparation of notice of appeal, preparation of list of documents, preparation of notices discontinuance, preparation of affidavit of documents, preparation for and attendance at discovery, preparation of notice of motions, preparation for meetings with Revenue Canada, preparation for status hearing, preparation for trial and numerous correspondence between counsel.
+[8] Paragraph 9 of the same affidavit indicates disbursements totalling $4,029.00 which include $1,500 filing fee and $1,200 for Notice of Appeal.
+[9] Paragraph 11 contains the following:
+The Appellant is requesting substantial indemnity costs in relation to this matter in the amount of $35,791.50 which includes fees for 112.60 hours. (at $250.00 per hour)
+[10] This Court has probably heard hundreds of director liability cases since its inception. The complexity of the present issue was moderately above average. The volume of work was in the high average range in that the Appellant was a director of the two corporations involved (AJV and ANVIC) and he was further assessed for default of the corporations’ failure to remit GST. The amounts involved were more than the average. In addition, Appellant’s counsel prior to the hearing, acted for the Appellant’s daughter, Natalie, who was assessed together with her father with respect to the default of ANVIC. I don’t believe she should have been assessed, although this is said in hind sight. Just prior to trial she had a falling out with her father and retained separate counsel. In any event, her appeal costs are not in issue before me.
+[11] It was my original intent to award Tariff costs as set out in our General Procedure Rules. Upon hearing Mr. Van Dyke’s submissions and considering the
+legitimate disbursements, I conclude that the amount of $16,000, all inclusive, is more reasonable, given the circumstances. The Appellant is further awarded $500.00 in respect of the costs of his submissions.
+Signed at Ottawa, Canada, this 9th day of September 2011.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2011 TCC 350
+COURT FILE NO.: 2006-3621(GST)
+2006-3628(IT)G
+2006-3622(IT)G
+STYLE OF CAUSE: ANTONIO PASCOAL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: June 20, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF AMENDED ORDER: September 9, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Frank E. Van Dyke
+Counsel for the Respondent:
+Frederic Morand
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Frank E. Van Dyke
+Firm: Kingston, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2009 TCC 540.

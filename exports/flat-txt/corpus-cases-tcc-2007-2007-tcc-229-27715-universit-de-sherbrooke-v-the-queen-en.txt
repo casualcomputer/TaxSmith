@@ -1,0 +1,168 @@
+Title: Université de Sherbrooke v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27715/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-229-27715-universit-de-sherbrooke-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-06-14
+
+# Université de Sherbrooke v. The Queen
+
+- Citation: 2007 TCC 229
+- Decision date: 2007-06-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 467, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Université de Sherbrooke v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-14
+Neutral citation
+2007 TCC 229
+File numbers
+2004-4671(GST)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-4671(GST)G
+BETWEEN:
+UNIVERSITÉ DE SHERBROOKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard October 30, 2006, at Sherbrooke, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Luc R. Borduas
+Counsel for the Respondent:
+Michel Morel
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, for which the notice is dated September 23, 2003, regarding the goods and services tax for the period of August 1, 1999, to May 31, 2003, is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of June 2007.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 29th day of January 2008
+François Brunet, Revisor
+Citation: 2007TCC229
+Date: 20070614
+Docket: 2004-4671(GST)G
+BETWEEN:
+UNIVERSITÉ DE SHERBROOKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal pursuant to the general procedure from an assessment for $234,560.75 made for the Appellant by the Minister of National Revenue through the Minister of revenue of Quebec (the "Minister") under the Excise Tax Act (the "Act"), for the period of August 1, 1999, to May 31, 2003 (the "relevant period"). In determining its net tax for the relevant period, the Appellant declared, as input tax credits ("ITC"), all of the goods and services tax ("GST") related to property and services acquired and used to construct an athletics stadium (the "Stadium") on an idle lot already in its possession (the "Lot") and to expenses related to the Stadium's operations. Under the terms of this assessment, the Minister essentially determined that the Appellant could only claim, as ITC, 67% of the GST paid in this way during the relevant period.
+The facts
+[2] The Appellant is registered for GST purposes. It is a corporation legally constituted under the Loi relative à l'Université de Sherbrooke, S.Q. 19154, Chapter 136, the object of which is university teaching. The Appellant's main campus is located at the base of Mont Bellevue in the city of Sherbrooke; it includes many buildings in the west and pavilions where most faculties are located. Because of its object, the Appellant provides, almost exclusively, exempt supplies. During the relevant period, the Appellant also carried out commercial activities. Although its main campus was not primarily used for its commercial activities, its cultural centre, sports centre and parking lot were used for commercial purposes. The Appellant, as a public service organization, asked for partial repayment (67%) of the GST on supply acquisitions. Nonetheless, it also asked for ITC related to the commercial use of its sports centre, cultural centre and parking lot.
+[3] Starting in 2000, discussions were held between representatives for the Appellant and the City of Sherbrooke (the "City") for the purpose of getting the World Youth Championships in Athletics 2003 (the "Championships"). During these discussions and to meet the requirements related to holding the Championships, the idea of setting up a new outdoor stadium on the Appellant's main campus was proposed.
+[4] In 2001, the International Amateur Athletic Federation (the "IAAF") awarded the Championships to the City of Sherbrooke. The Appellant and the City set up the 3rd IAAF World Youth Championships in Athletics Organizing Committee—Sherbrooke 2003 by incorporating a non-profit organization with the name Committee (the "Organizing Committee"). The Organizing Committee received the mandate to organize the Championships. On February 14, 2002, the Appellant entered into an agreement with the Organizing Committee under which it took responsibility for constructing the infrastructures required for the Championships.
+[5] The Stadium was built by the Appellant, in accordance with the IAAF requirements, behind the university pavilion on its main campus. Construction on the Stadium began in the spring of 2002 and was completed in the spring of 2003. Construction of the Stadium cost around $10 million and was funded mainly through government grants. The Stadium was constructed on lot number 2132202 of the Cadastre of Quebec, Registration Division of Sherbrooke (the "Lot"). Before construction of the Stadium, the lot was raw land, and when the Appellant proceeded with construction of the Stadium, its main campus was not primarily used for its commercial activities.
+[6] The Appellant and the Organizing Committee entered into a lease (the "Lease") under which the Appellant allowed the Organizing Committee to use all the Stadium's installations free of charge, for the sole purpose of organizing the Championships, and did so for a period of three months, starting May 15, 2003, and ending August 15, 2003.
+[7] From the end of its construction in May 2003 to the date of the hearing of this appeal, the Stadium was used almost exclusively for non-commercial purposes.
+[8] On June 7, 2004, the Appellant and the City entered into a partnership agreement to encourage optimal use of the sporting installations, for the Sherbrooke community, the university community and for the Quebecois, Canadian and international communities during wide-scale events. Under the terms of this agreement, the parties also agreed to jointly manage the use and maintenance of some of the Appellant's sporting installations, including the Stadium, and to create a partnership under the Civil Code of Quebec to give effect to their partnership agreement for operating and managing the sporting installations. As seen at paragraph 2.1 of this agreement, the parties mutually agree to make all reasonable efforts and, where required, to carry out the necessary additions for the benefit of the Partnership to:
+[translation]
+2.1.1 ... manage the use of the sporting installations in a cost-effective way and to avoid, or limit when necessary, Associates' financial support or contributions to the operations of the Partnership and achievement of the goals and objectives of this Convention;
+[9] For the cost-effectiveness goal, the partners agreed to establish a fee structure for the use of the sporting installations. As stated at paragraph 6.2 of the agreement, the Appellant and the City share all operating income. To reach the goals set out by the City and the Appellant, a management committee was set up for the purpose of making all decisions and taking necessary measures to achieve the objectives and goals set out in the agreement.
+Respondent's position
+[10] The Respondent refused to grant all of the ITC the Appellant claimed when determining its net tax for the relevant period for the following reasons:
+(i) she submits that the Stadium was not used primarily by the Appellant for its commercial activities;
+(ii) she also submits that the Stadium was an improvement, within the meaning of subsection 123(1) of the Act, of the Appellant's capital property, its lot. She submits that in accordance with the formula at paragraph 169(1)(b) of the Act, the Appellant could not claim the ITC related to the goods and services used (construction of the Stadium) to improve its capital property (the "Lot") because the Lot was never used by the Appellant in the course of its commercial activities before construction of the Stadium;
+(ii) lastly, she submits that the Appellant did not use a reasonable method for claiming its ITC.
+[11] First, I will determine whether the Minister was wrong to refuse part of the Appellant's ITC as requested on the ground that the Stadium was not used primarily for its commercial activities.
+The law
+[12] The general rule governing the calculation of ITC is found at subsection 169(1) of the Act, which provides:
+Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+[13] Thus, when a registrant only provides taxable services, it has the right to all the ITC because the percentage at "B" is equal to 100%. However, if the registrant only provides exempt supplies, it does not have the right to any ITC because the percentage established at "B" is zero. The calculation at "B" in subsection 169(1) applies in cases where the registrant's business produces both taxable and exempt supplies.
+[14] Taxable supply means a supply carried out during commercial activity, under subsection 123(1) of the Act. The same provision gives the following definition of commercial activity:
+"commercial activity" of a person means:
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply.
+[15] An exempt supply means a supply found in Schedule V of the Act, according to the provisions of subsection 123(1).
+[16] Sections 10 and 11 Part VI, Schedule V of the Act describe exempt supplies as follows:
+10. A supply made by a public sector body of any property or service where all or substantially all of the supplies of the property or service by the body are made for no consideration, but not including a supply of blood or blood derivatives.
+11. A supply of a right to be a spectator at a performance, athletic event or competitive event, where all or substantially all of the performers, athletes or competitors taking part in the performance or event do not receive, directly or indirectly, remuneration for doing so (other than a reasonable amount as prizes, gifts or compensation for travel or other expenses incidental to the performers’, athletes’ or competitors’ participation in the performance or event, or grants paid by a government or a municipality to the performers, athletes or competitors), and no advertisement or representation in respect of the performance or event features participants who are so remunerated, but does not include a supply of a right to be a spectator at a competitive event in which cash prizes are awarded and in which any competitor is a professional participant in any competitive event.
+[17] It must be noted that the Appellant is a public service organization under subsection 259(1) of the Act and that subsection 209(1) of the Act provides that when a registrant is a public service organization, subsections 199(2) and (4), and 200(2) and (3) apply, with the necessary modifications, to real property acquired for use as capital property and, in the case of subsection 199(4), to improvements made to the real property that is part of the capital property, as if it were personal property.
+[18] Also, for determining the percentage of use of the Stadium in the Appellant's commercial activities, subsection 199(2) of the Act states:
+Acquisition of capital personal property – Where a registrant acquires or imports personal property or brings it into a participating province for use as capital property,
+(a) the tax payable by the registrant in respect of the acquisition, importation or bringing in of the property shall not be included in determining an input tax credit of the registrant for any reporting period unless the property was acquired, imported or brought in, as the case may be, for use primarily in commercial activities of the registrant; and
+(b) where the registrant acquires, imports or brings in the property for use primarily in commercial activities of the registrant, the registrant is deemed, for the purposes of this Part, to have acquired, imported or brought in the property, as the case may be, for use exclusively in commercial activities of the registrant.
+Analysis and conclusion
+[19] These relevant provisions of the Act indicate that if the Appellant shows it used the Stadium primarily, meaning more than 50%, in the course of its commercial activities, it could claim the ITC in question. However, the evidence offered did now show this. On the contrary, the evidence showed that since the Stadium's construction, the Appellant delivered exempt supplies almost exclusively. However, the Appellant claims that even if it did not use the Stadium primarily in the course of its commercial activities, it still has the right to claim all the ITC because its intent, even before construction of the Stadium, was to use it primarily in the course of its commercial activities. In support of its claims to this effect, the Appellant relied on the phrase "for use primarily" [en vue d'être utilisée] found in paragraph 199(2)(a) of the Act. Essentially, the Appellant submitted that this phrase requires a determination of the purpose of the acquisition of the Stadium and not its actual use. In light of Associate Chief Justice Bowman's principles (as was his title at the time) in 510628 Ontario Ltd. (Rosset Landscaping) v. Canada, [2000] T.C.J. No. 451, I must accept the Appellant's opinion in this respect.
+[20] However, the Appellant's intent to use the Stadium primarily in the course of its commercial activities should, per Kempo J. in Beau Rivage Appartements v. Canada, [1994] T.C.J. No. 1137, be a formal and firm intention (as opposed to vague intentions). Also, there must have been a reasonable chance of a follow-up on the stated intention, within a reasonable time; this is an objective criterion. Lastly, the Appellant must have made a decision that was not merely considered, and that was not dependent on future events.
+[21] At this stage, the relevant question is: Did the Appellant show, on a balance of probabilities, that its intention was to use the Stadium primarily in the course of its commercial activities?
+[22] The evidence essentially shows that:
+(i) as early as the fall of 2001, the Appellant and the City had set up a working group comprised of representatives from both parties, with the goal of obtaining the Championships;
+(ii) the Appellant and the City's main concerns during the project design were:
+(1) to obtain sufficient grants from the various levels of government for the construction of the Stadium;
+(2) to build an athletics stadium that would meet not only IAFF requirements but that would also be versatile enough to host other national and international athletics competitions, professional and amateur soccer matches, university and professional football matches, and cultural events of a commercial nature (fireworks, rock concerts, drum and bugle competitions, etc.);
+(3) to make the Stadium cost-effective by holding cultural and sporting events of a commercial nature. The Parties did not want the Stadium to be a "white elephant" what would require them to absorb an annual operational deficit;
+(4) to make the Appellant the owner of the Stadium after the Championships were held and for the Stadium to be run by a management corporation, the partners of which would be the City and the Appellant; this corporation was created in June 2004 after long negotiations between the parties.
+[23] The testimony in support of the Appellant's position and the documentary evidence showed, however:
+(i) at the stage of conception of the project to construct the Stadium, the parties had agreed that after the Championships were held, the Stadium would primarily be used as a place for athletics training and competitions and that it could host other types of events (for example: drum line and bugle competitions, open-air shows, etc.);[1]
+(ii) although the goal to make the Stadium cost-effective was always in the minds of the City's and the Appellant's representatives, there was never any real planning related to holding cultural events of a commercial nature for the purpose of making the Stadium's operations cost-effective.[2] Jean-Guy Ouellette's testimony on this is worth quoting:
+[translation]
+Q. Do you agree with me that there was no planning of activities or events to ensure that the operations were self-financing? When I say no planning, I mean at the time the Stadium was being planned.
+A. I must say that yes, there was some planning. Meaning there were some ideas presented.
+(iii) that the planning and hosting of sporting or cultural events of a commercial nature could not occur as quickly as the parties wished, because as soon as the project was being conceived, the parties had foreseen that this task would be given to a management corporation that the parties would co-own; this corporation was not created until June 2004 because of lengthy negotiations between the parties;
+(iv) the lack of cultural or sporting events of a commercial nature before and after the creation of the management corporation could also have been caused by concerns in the sporting community that holding such events would damage the grassy area of the Stadium. Luce Samoisette's testimony on this is worth quoting:[3]
+[translation]
+As I said earlier, it was people from the sporting community and they tried to make it cost-effective with sporting activities, which was not the case in 2005 and 2006. They were always asked: "Why don't you hold other types of activities?" and they always answered: "Because of the natural field that will be damaged and it will be impossible to bring it back to an acceptable or ideal condition" in their opinion, with the…without great costs.
+(v) the Appellant is still seeking donations and grants in order to solve the problem related to the grassy surface being damaged, which might be caused by holding cultural events of a commercial nature.
+[24] In this case, the Appellant showed, at most, that it had a vague intention (as opposed to a definitive and formal intention) during the project planning to make the Stadium cost-effective and occasionally holding cultural or sporting events of a commercial nature without necessarily showing, on a balance of probabilities, that at the time the Stadium was acquired it had a firm intent to use it primarily for commercial purposes, meaning more than 50%, in terms of use and surface area used. The Appellant must understand that the objective, even if definitive when the property is acquired, to make it cost-effective and the objective at this time to use it primarily for commercial purposes are two very distinct and different objectives. Indeed, it is highly possible that a registrant could have a firm intent when the property is acquired to make it cost-effective while at the same time have a firm intent of not using it primarily for commercial purposes. For example, the Appellant could very well have achieved its objective of cost-effectiveness by taking the majority of its income from the occasional sporting or cultural event of a commercial nature while using the Stadium for these purposes for only 10% in terms of time or surface area used. In this case, the evidence very clearly showed that, at the stage of conception of the project, the Appellant's intention was for the Stadium to be used primarily as an athletic training and competition site after the Championships were held, and thus, the Appellant did not have the intention of using it primarily, in terms of time or surface area used, for commercial purposes.
+[25] Moreover, I am of the view that the Appellant did not even succeed in showing that it had a firm intention at the stage of conception of the project to make the Stadium cost-effective by holding cultural or sporting events of a commercial nature there. I am also of the view that the Appellant did not have a reasonable chance to follow-up with its vague intentions then shown, within a reasonable time. At best, the Appellant showed that it had a vague intention at that time to make the Stadium cost-effective by holding such events and it wanted to hand over the achievement of that objective to a management corporation that it would co-own with the City.
+[26] A person such as the Appellant who claims to have had, at the stage of conception the project, a definitive and formal intention to make the Stadium cost-effective should have, in my opinion, taken concrete action to achieve this objective while waiting for the management corporation to be created. At that time, it should already have planned such commercial events by formally mandating its employees or an independent company to organize such events. For the period between the conception of the project and the training of the management corporation, the Appellant took no concrete action in this direction. Even after the management corporation was formed, the Appellant did not insist that its representatives on the management corporation's management committee reach this cost-effectiveness objective. Indeed, the Stadium had still not held any such events (except for two soccer matches) as of the date of the hearing of this appeal and its operations were still in deficit on that date. In my opinion, the Appellant's delay in following up on the vague intention it showed at the stage of conception of the project can be explained first by the problems, for which there are still no solutions, related to the grassy surface of the Stadium during such events. The evidence showed that, from that time, the Appellant's sporting organizations resisted the idea of holding such events on the Stadium's grassy surface. The evidence also showed that the Appellant's representatives on the management committee of the management corporation also resisted the idea of holding such events in 2005 and 2006, for the same reasons. This clearly shows, in my opinion, that the Appellant was not, objectively, likely to follow up on the intention it showed at the stage of conception of the project, within a reasonable time.
+[27] For these reasons, I find that the Appellant did not use the Stadium primarily in the course of its commercial activities. Although other issues raised by the Respondent and related to the concept of improving capital property and the reasonable method for claiming ITC are very interesting, I do not feel that it is necessary to address them in this case, considering my decision on the first issue.
+[28] Finally, although it is not necessarily relevant to the determination of this dispute, I would like to note that the Appellant could still claim the ITC related to the acquisition of the Stadium once it has attained a commercial operating level of more than 50% in terms of operations and surface area used, in accordance with the change of use rules set out in the Act. It seems that this option made available by Parliament is more in keeping with its intention regarding the use of the phrase "for use primarily" at paragraph 199(2)(a) of the Act to not grant ITC to persons with only vague intentions, during the acquisition of property, to use it primarily for commercial purposes.
+[29] For these reasons, the appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 14th day of June 2007.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 29th day of January 2008
+François Brunet, Revisor
+CITATION: 2007TCC229
+COURT FILE No.: 2004-4671(GST)G
+STYLE OF CAUSE: UNIVERSITÉ DE SHERBROOKE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: October 30, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: June 14, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Luc R. Borduas
+Counsel for the Respondent:
+Michel Morel
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Luc R. Borduas
+Firm: Heenan Blaikie
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See Exhibit A‑4, page 2 and Marc Bernier's testimony at pages 58 and 59.
+[2] See shorthand notes, Jean-Guy Ouellette's testimony at pages 78, 79 and 80.
+[3] See shorthand notes, page 110.

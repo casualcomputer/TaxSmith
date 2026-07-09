@@ -1,0 +1,204 @@
+---
+title: "Melinte c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28606/index.do"
+last_modified: "2008-04-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 185"
+citation2: ""
+neutral_citation: "2008 CCI 185"
+decision_date: "2008-04-16"
+language: "fr"
+item_id: "28606"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1107
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:53:41.380000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "48f3eb2e6dce2b9dd5116af9772a753e2ac7d72ab74431d39bbbadb9040ed2e8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Melinte c. La Reine
+
+- Citation: 2008 CCI 185
+- Decision date: 2008-04-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1107, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Melinte c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-16
+Référence neutre
+2008 CCI 185
+Numéro de dossier
+2007-2705(GST)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007-2705(GST)I
+ENTRE :
+JOHN MELINTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle] ____________________________________________________________________
+Appel entendu à Toronto (Ontario), le 7 mars 2008.
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Laurent Bartleman
+__________________________________________________________________
+JUGEMENT
+L’appel à l’égard de la cotisation datée du 13 juin 2006 et établie en vertu de la Partie IX de la Loi sur la taxe d’accise (la « Loi ») est accueilli, avec dépens, et la question est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que l’appelant a droit au remboursement prévu par l’article 256.2 de la Loi relativement à l’achat et à la location d’un appartement d’immeuble en copropriété qu’il a acquis en 2005.
+Signé à Toronto (Ontario) ce 16e jour d’avril 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 3e jour de juin 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2008CCI185
+Date : 20080416
+Dossier : 2007-2705(GST)I
+ENTRE :
+JOHN MELINTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] En l’espèce, la question est de savoir si l’appelant a droit au remboursement prévu par l’article 256.2 de la Loi sur la taxe d’accise (la « Loi ») relativement à l’achat et à la location d’un appartement d’immeuble en copropriété situé à Toronto.
+[2] L’appelant a conclu une convention d’achat, datée du 9 février 2002, qui avait pour objet l’acquisition d’un nouvel appartement d’immeuble en copropriété (l’« appartement ») au prix de 228 400 $. L’appartement a ensuite été construit et l’appelant en a pris possession vers la fin du mois de décembre 2004. La conclusion de l’achat de l’appartement a eu lieu le 1er mars 2005.
+[3] Après avoir signé la convention d’achat de l’appartement en 2002, l’appelant a rencontré la femme qui est aujourd’hui son épouse. Ils ont décidé qu’ils ne voulaient pas habiter dans l’appartement. Ainsi, en novembre 2004, l’appelant a cherché un locataire potentiel par voie d’annonce. J’accepte son témoignage selon lequel il recherchait exclusivement un locataire à long terme.
+[4] L’appelant a trouvé le locataire idéal en la personne de Marie-Josée Turmel. Celle‑ci était une employée de Marchés mondiaux CIBC et elle avait été mutée de Montréal à Toronto. Selon ce que l’appelant avait compris, elle devait rester à Toronto pour au moins deux ans. Suivant l’entente que Marchés mondiaux CIBC et Marie‑Josée Turmel avaient conclue, Marchés mondiaux CIBC devait assumer les frais de logement de Marie‑Josée Turmel. Donc, l’appelant a conclu un bail de location de l’appartement avec Marchés mondiaux CIBC. Ce bail, daté du 24 décembre 2004, visait la période allant du 28 janvier 2005 au 28 décembre 2005. D’après ce que l’appelant avait compris, Marchés mondiaux CIBC ne pouvait pas conclure un bail de plus longue durée en raison de restrictions budgétaires. Entre le moment où le bail a été conclu et le mois de décembre 2005, rien n’a permis à l’appelant de croire que le bail n’allait pas être renouvelé et que Marie‑Josée Turmel n’occuperait pas l’appartement en 2006.
+[5] Cependant, en décembre 2005, l’appelant a été avisé que le bail n’allait pas être renouvelé. Selon ce qu’en sait l’appelant, Marchés mondiaux CIBC devait offrir un logement plus petit à Marie‑Josée Turmel en raison de restrictions budgétaires. L’appelant a ensuite conclu une entente de gestion immobilière avec Suite Toronto, Inc. par laquelle cette dernière acceptait d’agir à titre de mandataire de l’appelant pour louer l’appartement. Suite Toronto, Inc. a trouvé un locataire qui a occupé l’appartement du 3 janvier 2006 au 24 juin 2007.
+[6] Dans la présente affaire, l’unique question en litige porte sur l’interprétation du sous‑alinéa a)(iii) de la définition d’« habitation admissible » se trouvant au paragraphe 256.2(1) de la Loi, à savoir si l’appelant a satisfait aux exigences de cet alinéa. L’« habitation admissible » est définie de la façon suivante :
+« habitation admissible » S’agissant de l’habitation admissible d’une personne à un moment donné :
+a) l’habitation dont la personne est propriétaire, copropriétaire, locataire ou sous-locataire au moment donné ou immédiatement avant ce moment ou dont elle a la possession, au moment donné ou immédiatement avant ce moment, en tant qu’acheteur dans le cadre d’un contrat de vente, ou l’habitation qui est située dans un immeuble d’habitation dont elle est locataire ou sous-locataire au moment donné ou immédiatement avant ce moment, dans le cas où, à la fois :
+(i) au moment donné, l’habitation est une résidence autonome,
+(ii) la personne détient l’habitation :
+(A) soit en vue d’en effectuer des fournitures exonérées incluses aux articles 5.1, 6, 6.1 ou 7 de la partie I de l’annexe V,
+(B) soit à titre de lieu de résidence habituelle pour elle-même, si l’immeuble dans lequel l’habitation est située comprend une ou plusieurs autres habitations qui seraient des habitations admissibles de la personne compte non tenu de la présente division,
+(iii) la première utilisation de l’habitation est ou sera, ou la personne peut raisonnablement s’attendre au moment donné à ce que cette première utilisation soit, selon le cas :
+(A) de servir de lieu de résidence habituelle à la personne ou à l’un de ses proches, ou à un bailleur de l’immeuble ou à l’un de ses proches, pendant une période d’au moins un an, ou pendant une période plus courte au terme de laquelle l’habitation sera utilisée tel qu’il est prévu à la division (B),
+(B) de servir de lieu de résidence à des particuliers qui peuvent chacun occuper l’habitation de façon continue, en vertu d’un ou de plusieurs baux, pendant une période d’au moins un an tout au long de laquelle l’habitation leur sert de lieu de résidence habituelle, ou pendant une période plus courte se terminant au moment où l’habitation, selon le cas :
+(I) est vendue à un acquéreur qui l’acquiert pour qu’elle lui serve de lieu de résidence habituelle ou serve ainsi à l’un de ses proches,
+(II) sert de lieu de résidence habituelle à la personne ou à l’un de ses proches, ou à un bailleur de l’immeuble ou à l’un de ses proches,
+(iv) sauf en cas d’application de la subdivision (iii)(B)(II), si, au moment donné, l’intention de la personne à l’égard de l’habitation, après qu’elle a été utilisée tel qu’il est prévu au sous-alinéa (iii), est de l’occuper pour son propre usage ou de la fournir par bail pour qu’elle soit utilisée à titre résidentiel ou d’hébergement par un particulier qui est l’un de ses proches, de ses actionnaires, de ses associés ou de ses membres ou avec lequel elle a un lien de dépendance, la personne peut raisonnablement s’attendre à ce que l’habitation soit son lieu de résidence habituelle ou celui de ce particulier;
+b) l’habitation de la personne, visée par règlement.
+[7] Le sous‑alinéa (iii) de la définition ci‑dessus exige que la première utilisation de l’habitation soit, ou que la personne (l’appelant) puisse raisonnablement s’attendre au moment donné à ce que cette première utilisation soit l’une de celles qui sont décrites aux divisions (A) et (B). En l’espèce, c’est la division (B) qui s’applique. Elle exige que la première utilisation de l’habitation soit :
+de servir de lieu de résidence à des particuliers qui peuvent chacun occuper l’habitation de façon continue, en vertu d’un ou de plusieurs baux, pendant une période d’au moins un an tout au long de laquelle l’habitation leur sert de lieu de résidence habituelle […]
+[8] La définition d’« habitation admissible » s’applique aux habitations uniques. Il n’est pas clair pourquoi la division (B) parle de « particuliers », et pourquoi elle envisage ainsi qu’une habitation puisse être utilisée comme résidence habituelle par plus d’un particulier. L’emploi du pluriel peut renvoyer soit à l’utilisation de l’habitation par plus d’un particulier à la fois, soit à l’occupation consécutive par différents particuliers.
+[9] L’avocat de l’intimée a reconnu qu’une habitation satisferait à ces exigences si elle était utilisée, tout en respectant les exigences, par une seule personne parce que, selon le paragraphe 33(2) de la Loi d’interprétation, le pluriel s’applique à l’unité.
+[10] Dans La Reine c. Hypothèques Trustco Canada, 2005 CSC 54, 2005 DTC 5523 (Eng.), [2005] 5 C.T.C. 215, 340 N.R. 1, 259 D.L.R. (4th) 193, [2005] 2 R.C.S. 601, la Cour suprême du Canada a affirmé ce qui suit :
+[10] Il est depuis longtemps établi en matière d’interprétation des lois qu’« il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur » : voir 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, par. 50. L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux.
+[11] Il est donc nécessaire d’interpréter cette disposition en se fondant sur une analyse textuelle, contextuelle et téléologique. Il n’est pas raisonnable de croire que l’intention du Parlement était de ne viser que les habitations utilisées par plus d’une personne en même temps; par conséquent, il n’y a pas de raison de ne pas appliquer la Loi d’interprétation de façon à viser un seul particulier. Pourquoi une habitation utilisée comme résidence habituelle par un seul particulier ne satisferait‑elle pas aux exigences parce qu’elle est occupée par une seule personne? Lorsque la disposition est interprétée de façon à s’appliquer à un seul particulier, il est difficile d’imaginer une situation où les exigences seraient respectées dans le cas de l’utilisation simultanée de l’habitation par plus d’un particulier, mais où elles ne le seraient pas dans le cas de l’utilisation de l’habitation par l’un d’eux. Dès lors, il est difficile de comprendre pourquoi les rédacteurs de la disposition ont choisi le pluriel « particuliers » si ce terme devait renvoyer à l’occupation simultanée de l’habitation par plus d’un particulier.
+[12] Si plus d’un particulier occupe simultanément l’habitation, la disposition semble exiger que chacun d’entre eux le fasse durant un an, ou durant la période plus courte envisagée par la division (B). Cela laisse croire que si deux particuliers occupaient l’habitation, l’un pour un an et l’autre pour six mois, les exigences ne seraient pas respectées. Cependant, puisque le pluriel s’applique à l’unité, l’habitation satisferait aux exigences grâce à l’application de la Loi d’interprétation et à l’application du critère au particulier qui occupe l’habitation durant toute une année. Il ne serait pas raisonnable qu’une habitation utilisée par deux particuliers, durant un an par l’un et durant six mois par l’autre, ne satisfasse pas aux exigences alors que ce serait le cas d’une habitation utilisée par un seul particulier durant un an.
+[13] Dans Silicon Graphics Ltd. c. La Reine, 2002 CAF 260, 2002 DTC 7112, [2002] 3 C.T.C. 527, la Cour d’appel fédérale a présenté le commentaire suivant quant au recours aux notes techniques :
+[50] Bien entendu, les notes techniques ne lient pas les tribunaux, mais elles peuvent être examinées. Voir Canada c. Succession Ast (C.A.), [1997] A.C.F. no 267 (C.A.), par. 27 :
+Les interprétations administratives, comme les notes techniques, ne lient pas les tribunaux, mais elles peuvent avoir un certain poids et même constituer un facteur important dans l'interprétation des lois. Les notes techniques sont très largement acceptées par les tribunaux pour aider à l'interprétation des lois. L'importance accordée aux notes techniques au niveau de l'interprétation est particulièrement grande lorsque, au moment où une modification était à l'étude, le législateur était conscient que cette modification pouvait donner lieu à une interprétation administrative particulière, et qu'il a néanmoins décidé de l'adopter.
+[14] Les notes techniques relatives à la disposition en cause prévoient notamment ce qui suit :
+Afin de s’assurer que le remboursement soit accordé aux personnes qui louent des habitations à long terme, une condition prévoit que ces personnes doivent raisonnablement s’attendre à ce que la première utilisation des habitations soit de servir de lieu de résidence habituelle de particuliers, y compris éventuellement le bailleur ou l’un de ses proches (au sens du paragraphe 256(1)). De plus, chacun de ces particuliers doit utiliser l’habitation à titre de lieu de résidence habituelle pendant une période d’au moins un an visée par un ou plusieurs baux (à titre d’exemple, le particulier pourrait occuper l’habitation pendant un an en vertu de douze baux mensuels consécutifs).
+[15] Les notes techniques ne traitent pas de la question de savoir si l’usage du pluriel « particuliers » a pour but de viser l’occupation simultanée ou des occupations successives. Elles ne traitent pas non plus du fait que la définition envisage aussi l’utilisation effective, et la façon dont elle se conforme à la définition parce que, comme je l’explique ci-dessous, le moment qui permet de décider si l’habitation est une « habitation admissible » est celui où la taxe relative à l’habitation est payable.
+[16] Puisque les exigences du sous-alinéa (iii) de la définition d’« habitation admissible » seront remplies autant par la première utilisation effective que par l’attente raisonnable d’une première utilisation prévue aux divisions (A) et (B), il faut d’abord décider de la première utilisation qui satisfera aux critères. L’attente raisonnable d’une première utilisation consiste simplement en une attente raisonnable que l’utilisation satisfasse aux critères de la première utilisation effective.
+[17] Les exigences de la division (B) sont les suivantes :
+a) servir de lieu de résidence à des particuliers;
+b) qui peuvent chacun occuper l’habitation de façon continue;
+c) en vertu d’un ou de plusieurs baux;
+d) pendant une période d’au moins un an;
+e) tout au long de laquelle l’habitation leur sert de lieu de résidence habituelle;
+f) ou pendant une période plus courte (comme l’envisage la division).
+[18] Lorsqu’il s’agit d’appliquer ces exigences à un seul particulier, il faut déterminer la période durant laquelle il faut « occuper l’habitation de façon continue » puisque la disposition renvoie au fait d’« occuper l’habitation de façon continue ». La seule période qui est mentionnée est celle d’« au moins un an » (ou la période plus courte envisagée par la division); il faut donc conclure qu’il s’agit là de la période qui satisfait aux exigences. De plus, l’habitation doit servir de résidence habituelle au particulier en question tout au long de cette période d’au moins un an.
+[19] Par conséquent, je suis d’avis que les exigences de la division (B) sont respectées si, tout au long de la période d’un an (ou de la période plus courte envisagée par cette division), un particulier utilise l’habitation comme résidence habituelle. L’exigence supplémentaire voulant que l’utilisation ait lieu « en vertu d’un ou de plusieurs baux » est respectée dès que le particulier utilise l’habitation en vertu d’un bail, peu importe si ce particulier est une partie à ce bail. Il n’est pas exigé que le particulier soit lui-même partie à ce bail, mais simplement que l’utilisation soit faite en vertu d’un bail. En l’espèce, le fait que le bail ait été conclu avec Marchés mondiaux CIBC n’exclut pas l’utilisation faite par Marie‑Josée Turmel, puisqu’elle utilisait l’habitation en vertu de ce bail même si elle n’y était pas partie.
+[20] Donc, s’il y a un seul occupant, l’habitation doit être occupée par le même particulier durant une période complète d’un an (ou la période plus courte envisagée par la division) pour satisfaire aux exigences du critère de l’utilisation effective.
+[21] Si l’emploi du pluriel « particuliers » était interprété de façon à signifier l’occupation consécutive par différents particuliers, une période indéterminée serait nécessaire pour savoir si l’habitation était utilisée de façon à satisfaire aux exigences. Cette interprétation donnerait aussi lieu à des anomalies. Si le critère de l’utilisation effective ne pouvait être rempli que par l’occupation de l’habitation par un deuxième particulier, des années pourraient s’écouler avant que cela se produise. Si un premier particulier utilisait l’habitation durant vingt ans, il faudrait attendre vingt et un ans après la première occupation de l’habitation pour que le deuxième particulier l’ait à son tour utilisée durant au moins un an. Je ne crois pas qu’il s’agisse là de l’intention du législateur.
+[22] La mention de la « première utilisation » dans la définition doit vouloir dire qu’il pourrait y avoir une deuxième et une troisième utilisation de l’habitation, mais que seule la première est pertinente. Il est donc nécessaire de déterminer la période de cette première utilisation, qui doit être d’une durée inférieure à la durée de vie utile de l’habitation. Comme la définition ne mentionne aucune autre période que celle d’un an, la période de la première utilisation doit être d’un an.
+[23] De plus, selon l’interprétation de l’emploi du pluriel « particuliers » qui exigerait des occupations consécutives, si une habitation était occupée par le premier locataire durant cinq ans, et ensuite par un deuxième locataire, l’habitation ne serait admissible qu’après six ans. Si une autre habitation était occupée par un premier locataire durant un an, puis par un deuxième locataire, elle serait admissible après deux ans. Il ne semble pas raisonnable que ces deux habitations soient admissibles après des périodes différentes.
+[24] Le paragraphe 256.2(3) de la Loi ajoute à la confusion en prévoyant que le moment permettant de décider si l’habitation est une « habitation admissible » est celui où la taxe devient payable en application de la Loi. Il serait donc impossible de savoir, au moment de l’achat de l’habitation (et donc de celui où la taxe est payable), comment l’habitation serait utilisée dans l’année suivante. Au moment donné, aucune habitation ne pourrait être utilisée pendant un an comme résidence habituelle par un particulier, puisque ce moment donné serait celui de l’achat de l’habitation et celui où la taxe est payable, soit longtemps avant l’expiration de la première année d’occupation. Par conséquent, aucune habitation ne pourrait satisfaire au critère de l’utilisation effective au moment pertinent à l’application du remboursement prévu par le paragraphe 256.2(3) de la Loi, à moins que la période d’utilisation effective ne soit très courte, ce qui, à mon avis, n’est pas le résultat voulu. Pour ces raisons, le critère de l’utilisation effective doit seulement servir à déterminer la période nécessaire pour satisfaire au critère de l’utilisation attendue.
+[25] Il est intéressant de noter que l’Agence du revenu du Canada, dans le bulletin RC4231 — Remboursement de la TPS/TVH pour immeubles d’habitation locatifs neufs, s’exprime ainsi :
+Habitation admissible — L'habitation admissible d'une personne est selon le cas :
+[…]
+• la première utilisation de l'habitation est ou peut raisonnablement être l'une des suivantes :
+[…]
+• le lieu de résidence habituelle d'un particulier qui occupera l'habitation de façon continue pendant au moins un an (ou une période plus courte si l'habitation est vendue à un particulier qui l'occupera comme lieu de résidence habituelle ou elle est occupée comme telle par la personne, le locateur ou l'un de leurs proches);
+[Non souligné dans l’original.]
+Ce résumé produit par l’Agence du revenu du Canada porte uniquement sur l’occupation de l’habitation par un seul particulier et non pas par plusieurs particuliers. De plus, l’Agence y mentionne simplement la nécessité d’une occupation d’un an pour satisfaire aux exigences.
+[26] À mon avis, comme je l’ai mentionné précédemment, les exigences de la division (B) seraient respectées si un particulier utilisait l’habitation comme résidence habituelle tout au long de la période d’un an (ou de la période plus courte envisagée par la division). À mon avis, cette interprétation s’harmonise bien avec la Loi dans son ensemble. Il est raisonnable de restreindre la période de référence à un an. Si l’on ne limite pas la période de référence à un an d’utilisation effective, quelle durée serait suffisante? Aucune autre période n’est mentionnée dans la définition, et la période d’un an est aussi mentionnée au paragraphe 256.2(10). De plus, le paragraphe 256.2(7) de la Loi exige qu’une personne fasse la demande du remboursement dans les deux ans suivant la fin du mois où la taxe est devenue payable pour cette personne. Cela laisse croire qu’il faut satisfaire aux exigences d’obtention du remboursement dans les deux ans suivant l’acquisition de l’habitation.
+[27] En l’espèce, c’est l’utilisation prévue de l’habitation qui détermine si l’appelant a droit au remboursement. Le critère est rempli si « la personne peut raisonnablement s’attendre au moment donné à ce que cette première utilisation soit, selon le cas […] » (non souligné dans l’original). Le critère serait donc rempli si l’appelant pouvait raisonnablement s’attendre, au moment donné, à ce que la première utilisation soit conforme à ce qu’envisage la division (B). Dans le cas du remboursement, le moment donné est celui qui est prévu par le paragraphe 256.2(3) de la Loi. Ce paragraphe est en partie rédigé de la façon suivante.
+256.2(3) […] le ministre rembourse une personne (sauf une coopérative d’habitation) dans le cas où, à la fois :
+a) la personne, selon le cas :
+(i) est l’acquéreur de la fourniture taxable par vente (appelée « achat auprès du fournisseur » au présent paragraphe), effectuée par une autre personne, d’un immeuble d’habitation ou d’un droit dans un tel immeuble, mais n’est pas le constructeur de l’immeuble,
+[…]
+b) à un moment donné, la taxe devient payable pour la première fois relativement à l’achat auprès du fournisseur ou la taxe relative à l’achat présumé est réputée avoir été payée par la personne;
+c) au moment donné, l’immeuble ou l’adjonction, selon le cas, est une habitation admissible de la personne ou comprend une ou plusieurs telles habitations;
+[…]
+[28] Donc, le moment donné mentionné dans la définition d’« habitation admissible » est celui où la taxe prévue par la Loi relativement à l’achat de l’appartement d’immeuble en copropriété est devenue payable. Le paragraphe 168(5) de la Loi prévoit ce qui suit :
+(5) Par dérogation aux paragraphes (1) et (2), la taxe prévue à la présente section relativement à la fourniture taxable d’un immeuble par vente est payable :
+a) s’il s’agit de la fourniture d’un logement en copropriété dont la possession est transférée à l’acquéreur, après 1990 et avant l’enregistrement de l’immeuble d’habitation en copropriété dans lequel le logement est situé, aux termes de la convention relative à la fourniture, au premier en date du jour où la propriété du logement est transférée à l’acquéreur et du soixantième jour après le jour d’enregistrement;
+b) dans les autres cas, au premier en date du jour du transfert à l’acquéreur de la propriété du bien et du jour du transfert à celui-ci de la possession du bien aux termes de la convention portant sur la fourniture.
+[29] En l’espèce, l’appelant a déclaré que l’immeuble d’habitation en copropriété a été enregistré comme tel aux environs du 1er mars 2005. Comme la date de conclusion de l’achat était le 1er mars 2005, je présume que l’habitation a été transférée à l’appelant à ce moment. Par conséquent, la TPS était payable le 1er mars 2005, ce qui fait de cette date le moment donné pour l’application de la définition d’« habitation admissible ». Ce sont donc les attentes que l’appelant avait le 1er mars 2005 qui sont pertinentes.
+[30] L’avocat de l’intimée a soutenu que l’appelant ne pouvait pas raisonnablement s’attendre à ce que Marie‑Josée Turmel continue d’occuper l’habitation après le 28 décembre 2005, parce que le bail entre l’appelant et Marchés mondiaux CIBC comportait des clauses qui auraient pénalisé Marchés mondiaux CIBC si Marie‑Josée Turmel n’avait pas quitté les lieux à cette date. Cependant, comme l’expliquent les notes techniques, il n’est pas nécessaire que le bail dure aussi longtemps que la période d’admissibilité, puisque les notes donnent l’exemple d’une série de baux durant chacun un mois. Ce sont les attentes de l’appelant quant au renouvellement du bail qui importent, et non pas ses attentes quant à l’exercice de clauses pénalisant un locataire qui reste sur les lieux après l’expiration du bail. À mon avis, il serait erroné de conclure que la simple existence de clauses qui auraient pénalisé Marchés mondiaux CIBC si Marie‑Josée Turmel avait continué d’occuper l’habitation après l’expiration du bail signifie que l’appelant ne pouvait pas raisonnablement s’attendre à ce que le bail soit renouvelé. Si le bail avait été renouvelé, ou si un nouveau bail avait été conclu, les clauses qui auraient pénalisé Marchés mondiaux CIBC si Marie‑Josée Turmel n’avait pas quitté les lieux le 28 décembre 2005 n’auraient eu aucun effet.
+[31] L’appelant pensait que Marie-Josée Turmel devait rester à Toronto pour au moins deux ans. Il est difficile de croire que l’appelant aurait pu savoir, le 1er mars 2005, que Marchés mondiaux CIBC allait subir des restrictions budgétaires en décembre 2005 et n’allait pas renouveler le bail. L’intimée n’a pas contesté le fait que Marie‑Josée Turmel utilisait l’habitation en tant que résidence habituelle. Puisque l’appelant, le 1er mars 2005, pouvait raisonnablement s’attendre à ce que Marie‑Josée Turmel continue à occuper l’habitation durant au moins un an à compter de ce moment, les exigences du sous‑alinéa a)(iii) de la définition d’« habitation admissible » sont remplies.
+[32] Comme je l’ai mentionné précédemment, l’habitation ne pouvait pas satisfaire au critère de l’utilisation effective à compter du 1er mars 2005 – sauf si ce critère ne visait qu’une très courte période d’occupation –, car, en vertu du paragraphe 256.2(3) de la Loi, cette date constitue le moment donné permettant de savoir si l’habitation était une « habitation admissible ». Cela illustre une fois de plus les difficultés présentées par l’interprétation de l’article 256.2 de la Loi. Selon moi, cela confirme que le critère de l’utilisation effective doit servir à la détermination de la période d’occupation applicable au critère de l’utilisation attendue.
+[33] L’appel est accueilli, avec dépens, et la question est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que l’appelant a droit au remboursement prévu par l’article 256.2 de la Loi relativement à l’achat et à la location d’un appartement d’immeuble en copropriété qu’il a acquis en 2005.
+Signé à Toronto (Canada) ce 16e jour d’avril 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 3e jour de juin 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2008CCI185
+Nº DU DOSSIER DE LA COUR :
+2007-2705(GST)I
+INTITULÉ :
+John Melinte et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 7 mars 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT :
+Le 16 avril 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Laurent Bartleman
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)

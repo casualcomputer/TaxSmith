@@ -1,0 +1,163 @@
+Title: Guerrero v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64466/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-342-64466-guerrero-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-10-28
+
+# Guerrero v. The Queen
+
+- Citation: 2013 TCC 342
+- Decision date: 2013-10-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5932, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guerrero v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-10-28
+Neutral citation
+2013 TCC 342
+File numbers
+2012-4535(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-4535(IT)I
+BETWEEN:
+PETER GUERRERO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on July 10, 2013, at Sherbrooke, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Simon-Nicolas Crépin
+____________________________________________________________________
+JUDGMENT
+The appeal from the redeterminations made by the Minister of National Revenue with regard to the Canada Child Tax Benefit for the 2009 (period from November 2010 to June 2011) and 2010 (period from July 2011 to April 2012) base taxation years, respectively, dated May 18 and October 18, 2012, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of October 2013.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 4th day of December 2013
+Mary Jo Egan, Translator
+Citation: 2013 TCC 342
+Date: 20131028
+Docket: 2012-4535(IT)I
+BETWEEN:
+PETER GUERRERO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal under the informal procedure from the redeterminations made by the Minister of National Revenue (the Minister) with regard to the Canada Child Tax Benefit (the CCTB) for the 2009 (period from November 2010 to June 2011) and 2010 (period from July 2011 to April 2012) base taxation years in respect of the appellant's son.
+[2] The issue is whether the appellant is the eligible individual who has the right to receive the CCTB for the periods covered by the redeterminations on the basis that he was the parent who primarily fulfilled the responsibility for the care and upbringing of his child, in accordance with section 122.6 of the Income Tax Act, R.S.C. 1985 c. 1 (5th Supp.) as amended (the Act).
+[3] By notices of redeterminations with regard to the CCTB dated May 18, 2012, the Minister determined that the appellant was not the eligible individual in respect of his son for the 2009 and 2010 base taxation years.
+[4] By notice of redetermination regarding the CCTB dated October 18, 2012, the Minister determined, with respect to the 2010 base year (period from August 2011 to March 2012), that the appellant had shared custody of his son and that he was eligible to receive half of the applicable monthly benefit for the period in question. The appellant does not challenge this redetermination regarding the CCTB with respect to the 2010 base year, except for the month of July 2011.
+[5] The Court also held that it did not have jurisdiction over the appeal regarding the Universal Child Care Benefit paid pursuant to section 4 of the Universal Child Care Benefit Act.
+[6] To establish and support the redetermination for the 2009 base year and the redetermination for the 2010 base year, the Minister made the following assumptions of fact, set out at paragraph 6 of the Reply to the Notice of Appeal:
+[translation]
+a. the appellant and Jessica Romero Rico are the parents of the child D.A. born in 2007; (admitted)
+b. the parties have been living separate and apart since September 2010 and obtained their divorce on May 18, 2011; (admitted for the separation date but denied for the divorce date)
+c. from September 2010 to November 2010, the ex‑wife had full custody of the child; (denied because the ex‑wife did not have full custody of the child)
+d. from December 16, 2010, to July 2011, the parties shared custody of the child, who lived four days with his mother and three days with his father; (admitted)
+e. from July 2011 to March 2012, the child resided on a more or less equal basis between the parties, hence each of them was entitled to half of the monthly payment applicable to the CCTB for the period in question; (admitted)
+f. the ex‑wife has had full custody of the child since April 2012; (admitted)
+g. the appellant has been married to a non‑resident of Canada since August 30, 2011; (admitted)
+h. the appellant did not submit his new spouse's income for the year 2010 to the Minister. (denied)
+[7] The appellant testified at the hearing and noted the following important dates:
+• date of the marriage in Colombia: August 8, 2006
+• date of son's birth: August 24, 2007
+• date of immigration to Canada: February 28, 2010
+• date the son began going to daycare: July 19, 2010
+• date of the couple's separation: September 2010
+• date of the couple's divorce: March 22, 2013
+[8] According to the appellant, Jessica Romero Rico left the family home when they separated, and their son continued to live with his father at 610 McGregor Street, Apt. 43 in Sherbrooke from September to November 2010. Throughout this period, the appellant worked for IBM in Bromont. He was in manufacturing, and his work schedule was from midnight Friday to noon Saturday, midnight Saturday to noon Sunday and midnight Sunday to 8:00 a.m. Monday. During this period, the appellant had custody of his son from Monday afternoon to Friday morning, and his ex‑wife had custody of him from Friday afternoon to Monday morning. The exchange of the child usually took place at the daycare. The child's home address on the daycare registration form was that of the appellant, but the child care expenses were paid by his mother. According to the appellant, the daycare called him if the child was ill.
+[9] For the period from December 16, 2010, to July 2011, the rights of the appellant and his ex-wife were governed by an agreement dated December 16, 2010, which was homologated by the Superior Court (Family Division) the same day. Under the terms of this agreement, the parents had joint custody of their child; the appellant's ex‑wife had custody of the child from Friday evening to Tuesday morning, and the exchange took place at the daycare or at the Pharmaprix located at the Carrefour de l’Estrie when the child was not going to the daycare. Beginning December 16, 2010, the appellant was required to pay child support to his ex‑wife in the amount of $149.58 per month payable in advance, on the 15th and last day of each month, at the rate of $74.79 each time.
+[10] Jessica Romero Rico also testified at the hearing. Inter alia, she stated that, when she separated from the appellant, she took her son with her and that it was not until 21 days after their separation that the appellant become concerned about the child. After the separation, she had to find a new apartment. She had problems finding one because she was unemployed. In the meantime, she lived at her new boyfriend's apartment.
+[11] Ms. Rico submitted to the Superior Court (Family Division) a detailed affidavit dated December 14, 2010, in support of her motion for joint custody of her son. Paragraphs 9 of 15 of this affidavit are pertinent for the purposes of this dispute:
+[translation]
+9. After cohabitation ended, our child D.A. lived with me during the week and with the applicant on the weekends;
+10. This custodial arrangement continued until the end of October 2010;
+11. As of October 2010, the applicant and I agreed that our child would live with the applicant from Monday to Friday and with me from Friday to Monday morning;
+12. This agreement was only temporary because I did not have a car at that time to transport our child to the daycare;
+13. The applicant and I agreed that when I had car or a means of transporting our child to the daycare, we would share custody;
+14. The applicant refuses to comply with this agreement now that I have a new partner in my life;
+15. When the applicant and I lived together, I was the one who primarily looked after our child D.A.; the applicant went out on a regular basis and was rarely at home;
+[12] Ms. Rico explained that the agreement referred to in paragraph 11 of the affidavit was temporary because she did not have a car to transport her son to the daycare. This agreement lasted only one month, from mid‑October to mid‑November 2010. According to her, she was the eligible parent who primarily looked after her child even during that period. She ensured that her son was fed and that his clothes were clean. She always dealt with her child's medical appointments.
+Analysis and conclusion
+[13] To receive the CCTB, a person must be an eligible individual. This expression is defined in section 122.6 of the Act whose relevant passages for the purposes of this dispute are as follows:
+"eligible individual" - "eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant;
+(b) is a parent of the qualified dependant who
+(i) is the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant
+. . .
+and for the purposes of this definition:
+(f) where the qualified dependant resides with the dependant’s female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in 122.6 eligible individual (f) does not apply to prescribed circumstances and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+[14] The factors that determine what constitutes care and upbringing of a qualified dependant are set out in section 6302 of the Income Tax Regulations as follows:
+Section 6302
+For the purposes of paragraph (h) of the definition "eligible individual" in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant;
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[15] For the period from September to November 2010, it is difficult to determine with certainty whom the child was residing with and which of the two parents was primarily fulfilling the responsibility for the care and upbringing of their child given the inconsistencies in the testimony of both parents.
+[16] According to Ms. Rico's detailed affidavit, following the couple’s separation, the child was residing with her during the week and with the appellant on weekends. This custodial arrangement continued until the end of October 2010. As of October 2010, the appellant and his ex‑wife agreed that the child would live with the appellant from Monday to Friday and with his mother from Friday to Monday morning.
+[17] In a letter dated May 31, 2012, to the Canada Revenue Agency (the CRA), the appellant stated that his son had lived with him full‑time from October 12, 2010, to December 16, 2010.
+[18] The ex‑wife’s version seems to me to be closer to reality considering that the appellant was working in Bromont and had a weekend work schedule. In any event, I find that the child resided with both of his parents in a given week with the result that both parents met the requirement in paragraph (a) of the definition of eligible individual.
+[19] It is important now to determine which of the parents primarily fulfilled the responsibility for the child's care and upbringing.
+[20] Based on the evidence, it appears that during September and October 2010 the appellant's ex-wife had custody of the child during the week (5 days) while the appellant had custody of him on the weekends (2 days). In November and December 2010, the custody days were changed; the appellant had custody of the child during the week (5 days) and his ex‑wife had custody on the weekends (2 days).
+[21] The child was registered in the daycare in July 2010 before the couple had separated. The address on the child's daycare registration form was the appellant's, but the child care expenses were paid by the child's mother.
+[22] Ms. Rico testified that she primarily looked after the child. She ensured that her son was fed and that his clothes were clean at the daycare. She dealt with medical appointments. However, the appellant stated that he had brought his son to the hospital once and that the daycare called either parent when the child was sick.
+[23] On the basis of the facts described below, I find that, for the months of September to November 2010, Ms. Rico was the individual eligible to receive the CCTB. Ms. Rico fulfilled a greater share of the responsibility for the care and upbringing of her child than the appellant.
+[24] For the period from December 2010 to July 2011, a Superior Court order gave custody of the child to the mother from Friday evening to Tuesday morning (4 days) and to the father for the rest of the week (3 days). Through the same order, the appellant became responsible for paying child support to his ex‑wife in the amount of $149.58 per month effective December 16, 2010.
+[25] The fact that the appellant's ex‑wife had custody of the child for more days and the fact that the appellant had to pay child support to her clearly tend to demonstrate that the child's mother was primarily fulfilling the responsibility for the care and upbringing of the child and that the mother is the individual eligible to receive the CCTB for this period.
+[26] In conclusion, the appellant has discharged his burden of rebutting the Minister's assumption that his ex‑wife had sole custody of the child during the months of September to November 2010, but the appellant has not discharged his burden of proving that he was the parent who primarily fulfilled the responsibility for the care and upbringing of his son during the periods in question. Therefore, the Minister's redeterminations are confirmed, and this appeal is dismissed.
+Signed at Ottawa, Canada, this 28th day of October 2013.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 10th day of December 2013
+Mary Jo Egan, Translator
+CITATION: 2013 TCC 342
+COURT FILE NO.: 2012-4535(IT)I
+STYLE OF CAUSE: PETER GUERRERO AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: July 10, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: October 28, 2013
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Simon-Nicolas Crépin
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

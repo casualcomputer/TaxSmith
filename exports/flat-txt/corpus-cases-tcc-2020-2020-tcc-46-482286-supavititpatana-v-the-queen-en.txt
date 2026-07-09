@@ -1,0 +1,327 @@
+Title: Supavititpatana v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/482286/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-46-482286-supavititpatana-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-07-07
+
+# Supavititpatana v. The Queen
+
+- Citation: 2020 TCC 46
+- Decision date: 2020-07-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4583, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Supavititpatana v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-07-07
+Neutral citation
+2020 TCC 46
+File numbers
+2018-2009(IT)I, 2018-2010(IT)I, 2018-2011(GST)I, 2018-2014(IT)I, 2018-2449(IT)I
+Judges and Taxing Officers
+Siobhan Monaghan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-2009(IT)I
+BETWEEN:
+SUPHAKORN SUPAVITITPATANA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2018-2010(IT)I
+AND BETWEEN:
+SYED (SAM) KAMAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Dockets: 2018-2011(GST)I
+2018-2449(IT)I
+AND BETWEEN:
+6818935 CANADA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2018-2014(IT)I
+AND BETWEEN:
+CHANCHAI SUPAVITITPATANA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motions, on common evidence, to set aside Judgments and Notices of Discontinuance disposed of without appearance of counsel, in accordance with section 69 of theTax Court
+of Canada Rules (General Procedure)
+Before: The Honourable Justice K.A. Siobhan Monaghan
+Appearances:
+Counsel for the Appellants:
+Jeff Kirshen
+Counsel for the Respondent:
+Andrew Stuart
+ORDER
+UPON motions by the Appellants requesting that Notices of Discontinuance and Judgments of this Court be set aside;
+AND UPON reading the motion record filed by the Appellants;
+AND UPON reading the Respondent’s written submissions opposing the Appellants’ motions;
+AND in accordance with the attached Reasons for Order:
+The Appellants’ motions to set aside the Notices of Discontinuance and Judgments issued by this Court are dismissed; and
+Costs are awarded to the Respondent with the amount to be fixed following submissions of the Respondent received within 15 days of the date of this Order, and the Appellants within 30 days of the date of this Order, which submissions shall not exceed 10 pages.
+Signed at Ottawa, Canada, this 7th day of July 2020.
+“K.A. Siobhan Monaghan”
+Monaghan J.
+Citation: 2020 TCC 46
+Date: 20200707
+Docket: 2018-2009(IT)I
+BETWEEN:
+SUPHAKORN SUPAVITITPATANA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2018-2010(IT)I
+AND BETWEEN:
+SYED (SAM) KAMAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Dockets: 2018-2011(GST)I
+2018-2449(IT)I
+AND BETWEEN:
+6818935 CANADA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2018-2014(IT)I
+AND BETWEEN:
+CHANCHAI SUPAVITITPATANA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Monaghan J.
+[1] 6818935 Canada Ltd. and Chanchai Supavititpatana (the “discontinuing Appellants”) seek to set aside the Notices of Discontinuance filed in respect of their appeals. Syed (Sam) Kamal and Suphakorn Supavititpatana (the “settling Appellants”) seek to set aside the Judgments issued by this Court in their appeals following the filing of Consents to Judgment. An agent representing the Appellants in their appeals filed the discontinuances and consents to judgment on their behalf. However, the four Appellants contend that their agent was not authorized to settle their appeals on the terms he did. Consequently, they seek to have the Judgments of this Court and Notices of Discontinuance set aside, relying on section 172(2)(a) of the Tax Court of Canada Rules (General Procedure) [1] (the “Rules”).
+[2] The Appellants asked that their motions be disposed of on the basis of written material only. Given the seriousness of the allegations, I convened a conference call with all counsel and suggested the motion might be worthy of an in-person hearing. Counsel for the Appellants stated his preference to proceed based on the written materials filed with the Court. Although not evident from material filed by the Respondent in response to the Appellants’ Notice of Motion, during our call Respondent’s counsel indicated his consent to proceeding in the same manner.
+[3] For the reasons that follow, the motions to set aside the Judgments and the Notices of Discontinuance are dismissed.
+I. BACKGROUND
+[4] Each of the Appellants appealed assessments under the Income Tax Act (Canada) for their 2013 and 2014 taxation years. 6818935 Canada Ltd. also appealed assessments for its reporting periods ending December 31, 2013 and December 31, 2014 under the Excise Tax Act (Canada). The Appellants were represented by an agent and the appeals were instituted under the Court’s informal procedure.
+[5] In May 2019, the agent signed the Notices of Discontinuance on behalf of the discontinuing Appellants. The Notices of Discontinuance were sent to the Respondent who filed them with the Court. The Notices of Discontinuance presumably reflect an acceptance of the assessments that were the subject of the discontinued appeals. [2]
+[6] Also, in May 2019, the agent signed Consents to Judgment [3] on behalf of the settling Appellants. The Consents to Judgment were also signed on behalf of the Respondent, by counsel for the Respondent, and the Respondent’s counsel then filed them with the Court. Each Consent to Judgment allowed the relevant appeal, without costs, but how much of the assessed income and penalties were eliminated on consent is not evident from the Motion Record. On or before May 16, 2019, the Court issued orders accepting and reflecting the Consents to Judgment.
+[7] In December 2019, the Appellants filed motions to have the Notices of Discontinuance and Judgments set aside pursuant to Rule 172. The Respondent opposes the motions.
+[8] The Appellants do not allege that their agent was not an authorized representative or that he was not authorized to consent to judgment on their behalf. Rather, the Appellants allege that the Consents to Judgment and Notices of Discontinuance signed by the agent reflected different terms from those the agent had described to the Appellants and to which the Appellants had consented. In particular, the Appellants allege they consented to judgments that would waive all penalties and impose liability for tax only on 6818935 Canada Ltd. Under the filed Consents to Judgment and Notices of Discontinuance, all of the Appellants are liable for tax and penalties although, because the appeals by Syed (Sam) Kamal and Suphakorn Supavititpatana were allowed, their income and penalties were presumably reduced from the amounts assessed under their assessments under appeal.
+[9] The Appellants assert that they discovered that the agent had filed the Consents to Judgment and Notices of Discontinuance on terms they had not agreed to only after the Judgments were issued. [4]
+II. RULE 172
+[10] Rule 172(2)(a) provides that a party may make a motion to have a judgment set aside on the ground of fraud or facts arising or discovered after the judgment was made. The discontinuance of an appeal is a dismissal of the appeal. [5] A statutory dismissal has the same effect as a judgment of dismissal by the Court and is treated as a judgment of dismissal rendered by the Court to which Rule 172 applies. [6]
+[11] Thus, the Court has the authority to set aside a judgment (including a notice of discontinuance) where the conditions described in Rule 172 are met. However, regardless of how sympathetic a taxpayer’s circumstances might be, this Court should not exercise this power lightly. As the Federal Court of Appeal has said, “there is more at stake here on this issue than sympathy: finality of decisions and efficiency of the administration of justice. I believe these fundamental concerns relating to a proper administration of justice are reflected in section 16.2 of the Act” [7] – and, I would add, are reflected in Rule 172. In other words, setting aside a judgment is an exceptional measure [8] because the finality of litigation is desirable and fundamental to the efficient and proper administration of justice. There is a:
+. . . need, in the public interest, to put an end to litigation. A party is certainly entitled to assume as a general rule that litigation has been brought to an end when an appeal is deemed to be dismissed. It is entitled to assume that the dead proceeding will not be resurrected. . . [9]
+[12] Thus, Rule 172 represents an exception to the principle of finality of judgments. The Appellants have the onus of establishing that the conditions for setting aside the judgments are satisfied (i.e., fraud or newly discovered facts).
+[13] The Appellants contend that their agent was negligent and reckless in consenting to the judgments and discontinuing the appeals so that the resulting Judgments were obtained by fraud. [10] Further, they contend that only after the Judgments were issued did they learn that the agent had acted contrary to their instructions. [11] This, they say, is a fact they discovered after the Judgments were issued.
+[14] The Appellants are not required to establish both fraud and facts arising or discovered after the judgments were issued, because either is sufficient grounds for the Court to exercise its discretion to set aside judgments under Rule 172. But, what is required to establish that these conditions are met?
+(a) Fraud
+[15] In Nicholls v R, [12] Justice Woods considered what is necessary to establish fraud for purposes of Rule 172(2)(a). In doing so she referred to Robson (Trustee of) v. Robson, [13] a decision concerning a similar rule in Ontario, stating as follows:
+[16] Robson summarizes the relevant principles at paragraphs 23 and 24, and these are reproduced below:
+[23] The factors which must be established to set aside a judgment for fraud under Rule 59.06(2) were set out by Osbourne J. (as he then was) in International Corona Resources Ltd. v. LAC Minerals Ltd. (1988), 66 O.R. (2d) 610 (H.C.). They are:
+1. the fraud alleged must be proven on a reasonable balance of probabilities.
+2. the fraud must be material, that is, it must go to the foundation of the case.
+3. the evidence of fraud must not have been known to the moving party at the time of trial.
+4. the moving party must have exercised reasonable or due diligence at the trial.
+5. if the fraud alleged is that of a non-party, the determination of fraud is subject to greater scrutiny.
+6. the test for due diligence is objective.
+7. delay will defeat a motion under Rule 59.06.
+8. relief under Rule 59.06 is discretionary and the conduct of the moving party is relevant.
+9. at the end of the day, the moving party must show that a judgment was procured by fraud, that there has been a new discovery of something material, in that fresh facts have been found which, by themselves or in combination with previously known facts, would provide a reason for setting aside the judgment.
+[24] Fraud in the context of Rule 59.06 is a fraud on the court. The cases which have considered Rule 59.06 have adopted the definition of fraud set out by the House of Lords in Derry v. Peek (1889), 14 App. Case. 337 (H.L.): “fraud is proved when it is shewn that a false representation has been made (1) knowingly, or (2) without belief in its truth, or (3) recklessly, careless whether it be true or false.” See: Vale v. Sunlife Assurance of Canada Ltd. (1998), 39 O.R. (3d) 444 (Gen. Div.); Gregory v. Jolley, [2001] O.J. No. 2313 (C.A.); Calabrese v. Weeks, [2003] O.J. No. 4176 (S.C.J.); Granitile Inc. v. Canada, [2008] O.J. No. 4934 (S.C.J.).
+[16] Justice Woods concluded that when considering Rule 172(2) it makes sense to follow the same principles as were outlined in Robson. I agree and these principles have been applied by this Court in Larson v. The Queen [14] and Davies v. The Queen. [15] In each of Nicholls, Larson and Davies, the Court determined that the evidence did not establish fraud.
+(b) Facts Arising or Discovered After the Judgment
+[17] With the exception of Larson, I am not aware of any case that addresses what must be established before the Court can decide whether to exercise its discretion under Rule 172(2)(a) on the basis of facts arising or discovered after the judgments were issued. [16] However, jurisprudence that has considered analogous rules applicable in other Canadian courts provides helpful insight. Those cases have concluded that the applicant must establish three things: (i) new facts arose or are discovered after the judgment; (ii) the new facts could not with reasonable diligence have been discovered before the judgment; and (iii) the new facts would probably have resulted in a different judgment had they initially been brought forward. [17] This approach makes sense. Obviously, the new facts must be ones that would have affected the judgment. Moreover, as in the case of fraud, the applicant has some responsibility to exercise due diligence to discover the relevant facts before the judgment is issued.
+[18] Now let me turn to the evidence in this case in the context of the relevant principles.
+III. EVIDENCE
+[19] The only evidence adduced by the Appellants was an affidavit sworn by an associate lawyer with the firm representing the Appellants on the motions (the “Affidavit”). Neither the agent nor any of the Appellants provided evidence, by affidavit or otherwise.
+[20] The matters deposed to in the Affidavit are based almost entirely on the affiant’s information and belief. This type of evidence is acceptable on an interlocutory motion. Rule 72 provides:
+72. An affidavit for use on a motion may contain statements of the deponent’s information and belief, if the source of the information and the fact of the belief are specified in the affidavit.
+[21] But does the fact that Rule 72 permits such affidavit evidence mean that the evidence is admissible or only presumptively admissible?
+[22] Secondly, in this case, the Respondent has suggested that the Affidavit does not comply with Rule 72.
+IV. SCOPE OF RULE 72
+[23] Evidence provided by the Affidavit consists entirely of hearsay – statements made outside of Court by the affiant. In this case, there is significant double hearsay since most of the statements in the Affidavit are themselves based on the affiant’s information and belief, not statements within the affiant’s personal knowledge. Evidence based on information and belief is equivalent to hearsay. [18]
+[24] Rule 72 is an acknowledgement that hearsay evidence is admissible. [19] What is less clear is whether that evidence is (i) only presumptively admissible but, as hearsay, must be assessed for admissibility under the two-pronged test of reliability and necessity, [20] or (ii) admissible by virtue of Rule 72, with any concerns regarding reliability or necessity going to the weight to be given to the affidavit evidence. The jurisprudence in Canada, including in this Court, has taken both views.
+[25] The first approach was taken in 506913 N. B. Ltd. v. The Queen [21] and CBS Holdings Co. v. The Queen. [22] In CBS Holdings, Justice Lyons stated:
+[29] Section 72 permits an affidavit that contains hearsay statements based on information and belief. In 506913 N.B. Ltd. v. Canada, 2012 TCC 210, [2012] TCJ No. 144 (QL) [506913 N.B. Ltd.], the Court notes that section 72 is an exception to the general rule in subsection 19(2) of the Rules. Whilst permissible, evidence will only be admissible if the hearsay is reliable and necessary. Section 72 states:
+Contents of Affidavit
+72. An affidavit for use on a motion may contain statements of the deponent’s information and belief, if the source of the information and the fact of the belief are specified in the affidavit.
+[30] This is consistent with the principled approach, under which hearsay statements remain presumptively inadmissible but may be admissible where the twin criterion of reliability and necessity are sufficiently demonstrated as set out in R v. Khelawon, 2006 SCC 57, [2006] 2 SCR 787, otherwise the general exclusionary rule prevails.
+[Emphasis added.]
+[26] A similar approach was taken in Jans v. Jans [23] which considered a comparable rule in Saskatchewan. In that case, Justice Barrington-Foote agreed that the Saskatchewan rule was sufficiently broad to allow the court to permit even controversial evidence by affidavit. However, Justice Barrington-Foote was not prepared to go so far as to say all affidavits from deceased witnesses (the issue before him) should be admitted as a matter of course in reliance on the Saskatchewan rule, leaving reliability to be dealt with as a matter of weight. Rather he stated:
+That is, affidavit evidence from a deceased witness should not be read in at trial unless it is both necessary and clears the hurdle of threshold reliability.
+That approach recognizes that affidavit evidence is hearsay, and as such, suffers from the shortcoming that presumptively excludes hearsay: that is, the inability to test its reliability. Rule 9-19 says the court “may” admit such evidence. It [The Saskatchewan rule] does not say it “shall” do so. The court should perform its gatekeeper function to decide whether it should do so.
+[Emphasis added.]
+[27] Thus, in Jans, the affidavit in question was treated as hearsay. And, on assessment of that hearsay evidence under the principled approach, the bulk (but not all) of the affidavit was determined not to meet the reliability test and so not admissible, notwithstanding the breadth of the Saskatchewan rule. [24]
+[28] A somewhat similar approach was adopted in Belchetz v. The Queen [25] which considered Rule 72. Justice Hamlyn observed that Rule 72 was very similar to Rule 322 [26] under the Federal Courts Rules, before stating:
+[45] In dealing with the interpretation of Rule 332(1), Thurlow A.C.J. in The Queen v. A. & A. Jewellers Ltd., [1978] 1 F.C. 479 (F.C.T.D.), stated at 480 regarding the plaintiff’s affidavit evidence:
+Moreover, in my view, it is not admissible under Rule 332(1) . . . It says nothing as to why, if the named person had knowledge, he did not make the affidavit himself.
+. . .
+It seems to have become a common practice in preparing material for use in interlocutory applications to ignore the first clause of this Rule and to use the second clause as a device to avoid the swearing of an affidavit by a person who knows the facts in favour of putting what he knows before the Court in the form of hearsay sworn by someone who knows nothing of them. This is not the object of the Rule. The Court is entitled to the sworn statement of the person who has personal knowledge of the facts when he is available. The second part of the Rule is merely permissive and is for use only when the best evidence, that is to say the oath of the person who knows, is for some acceptable or obvious reason not readily obtainable.
+[46] The affidavit evidence of the Appellant goes beyond information and belief. It further appears there was better evidence available than the hearsay statements Mr. Belchetz relied on. . . .
+[Emphasis added.]
+[29] In other words, because Rule 72 is permissive, the Court may choose not to admit the affidavit evidence. Although the Belchetz case predates Kahn and Khelawon, two of the Supreme Court of Canada cases that explain the principled exception to the hearsay rule, Belchetz nonetheless might be said to reflect that exception. In both Belchetz and A. & A. Jewellers [27] , the concerns were around the reliability and necessity of the affidavit in the particular circumstances.
+[30] In contrast, the Federal Court of Appeal, with reference to the rule under the Federal Courts Rules, now rule 81(1), has applied a different principle. In particular, it suggests the affidavit evidence is admissible without having to clear the necessity and reliability hurdles for hearsay:
+The prohibition of hearsay does not apply on “motions, other than motions for summary judgment or summary trial”. Therefore, under Rule 81(1), affidavits with hearsay are presumptively admissible on interlocutory motions (John Doe v. R, 2015 FC 236 at paras 21-22, 256 ACWS (3d) 782), which would include motions for production of documents. This evidence does not need to meet the necessity and reliability requirements in order to be admissible. Applying such requirements to hearsay in affidavits on motions would fail to give effect to the words of Rule 81(1). [28]
+[Emphasis added.]
+[31] In applying Rule 72, this Court also has adopted this approach in some cases, with any concerns regarding reliability and necessity going to the weight the Court should give that affidavit evidence. [29] I too have decided to adopt this approach, and accordingly the Affidavit is presumptively admitted under Rule 72. However, I must now address whether parts of the Affidavit should be excluded on some other principle and what weight should be given to those parts of the Affidavit that are not excluded.
+V. THE AFFIDAVIT IN THIS CASE
+[32] As noted above, the only evidence in this case is the Affidavit. The affiant is a lawyer in the firm that represents the Appellants on these motions. Many cases have expressed concerns about affidavits of this nature from lawyers, and I generally endorse those concerns. [30] However, affidavits are not excluded merely because the affiant is a lawyer and in this case that factor is largely irrelevant because the Affidavit has many other deficiencies.
+(a) Opinions and Legal Arguments
+[33] The purpose of an affidavit is to adduce relevant facts without gloss or explanation. [31] That is not to say there can never be some explanation. Sometimes a good, admissible summary of what took place may contain explanations. But, caution must be exercised so that controversial arguments that step over the line of permissibility are avoided. [32] And, in my view, where the affidavit is based on information and belief, it is even more important that gloss be avoided.
+[34] The Affidavit contains several expressions of opinion or legal conclusions. For example, the affiant states the agent “recklessly filed the subject actions under the Tax Court’s Informal Procedure, though each action ought to have been filed under the General Procedure.” [33] The assertion that the appeals ought to have been filed under the general procedure is an expression of opinion. The assertion that that action constituted reckless behaviour is an opinion or a legal conclusion (I am going to use the term “opinion” to refer to both opinions and legal conclusions). The proper approach is not to express opinions but to describe the facts that establish or underlie them. The Affidavit says nothing more than that these opinions are “informed by file review.”
+[35] Let me explain this with some specificity. The Court’s informal procedure rules permit a taxpayer to proceed with an appeal under those rules notwithstanding that the amount in dispute exceeds the monetary limits for such procedure. Many taxpayers make that election. Admittedly, where a taxpayer does so, the relief available is limited. Moreover, the Attorney General may apply to the Court for an order that the appeal be subject to the general procedure rules. [34] The affiant expresses the opinion that the appeals ought to have been filed under the General Procedure. Yet the Affidavit provides no facts relevant to that opinion – nothing about amounts in dispute, nothing about what the Appellants knew, if anything, about the two procedures, nothing about whether the agent discussed the choice with them, and nothing about whether the Appellants instructed the agent to proceed under the general procedure or informal procedure. Those would be facts, not opinion.
+[36] Similarly, whether the agent’s actions were reckless in filing the appeals under the informal procedure is an opinion. It is not clear in what sense the affiant has used the term“reckless” (i.e., the layperson’s sense or the legal standard of recklessness). But, whichever sense is used, that conclusion can be arrived at only after an analysis of relevant facts. It is those facts that need to be in the Affidavit. Clearly, facts underlying the assertion that the appeals should have been filed under the general procedure would be relevant to this opinion, but other facts also might be relevant. For example, had the agent been found reckless by a court or other fact-finding body, [35] those facts might be in the Affidavit. But, the Affidavit contains neither type of fact.
+[37] More opinions are expressed in paragraphs 11, [36] 13 [37] and 18 [38] of the Affidavit. These opinions were formed by the affiant on file review or expressed to the affiant by the Appellants. Nothing in the Affidavit suggests these opinions were reached by a court or other relevant fact-finding body. As with the opinion regarding the correct procedure for the appeals, no underlying facts are in the Affidavit.
+[38] Paragraphs 16 to 18 of the Affidavit contain legal arguments, framed as facts. Legal arguments do not belong in an Affidavit. [39]
+[39] Those parts of the Affidavit that express opinions or legal arguments are not admissible.
+(b) Compliance with Rule 72
+[40] The key facts in the Affidavit are contained in paragraphs 3 to 15 inclusive. None of the facts contained in these paragraphs is based on personal knowledge. Rule 72 permits statements based on information and belief as long as the source of the information and the belief is specified in the Affidavit.
+[41] The Respondent has asserted that the Affidavit does not comply with Rule 72 because the source of the information and belief is not identified with sufficient specificity. To the extent a source is identified, it is “file review” or the affiant being “informed by the Appellants.” This is, in my view, not specific enough.
+[42] First, it is not clear whose file the affiant reviewed – the law firm’s file, a file supplied by the Appellants, the agent’s file, or someone else’s file. There is no statement that he reviewed the entire file or that the file was complete. There is no description of what documents were in the file he reviewed. Was it correspondence from the agent? Was it correspondence between the agent and one or more of the Appellants, or between the Appellants? Was it correspondence from the Appellants asserting that the agent had or had not done particular things? Was it correspondence with the agent’s insurer or the agent’s professional regulatory body? Identifying the source of the information as “file review” with nothing more is simply too vague. In my view, what Rule 72 requires is reference to or a description of the specific document or documents reviewed that constitute the source of the information in the relevant affidavit.
+[43] As to information in the Affidavit the source of which is the affiant being “informed by the Appellants”, again it is not clear which of the Appellants provided the information. In this respect, I agree with Respondent’s submission that referring to the Appellants as a group as a source of the information is not specific enough. One Appellant [40] is a corporation. It can only provide information through an individual, but the individual who informed the affiant on behalf of the corporate Appellant is not identified. [41] Secondly, in my view, the Affidavit must specify which of the Appellants provided which information or, if each of the individuals provided the same information, the Affidavit should expressly specify that.
+[44] Moreover, in some cases, the source of the information is not specified at all. [42] Rule 72 is clear. The source of the information must be specified.
+[45] Thus, I agree that substantially all of the Affidavit does not comply with Rule 72 and therefore is not admissible.
+[46] That is sufficient to dismiss the motions because there is no other evidence to support them. However, in the event that my conclusion regarding compliance with Rule 72 is incorrect, and the Affidavit complies with Rule 72, I have considered whether the Affidavit evidence satisfies the conditions in Rule 172(2)(a), with regard to the facts that must be established and the weight that I would give that evidence.
+VI. THE RULE 172 CONDITIONS
+(a) Fraud
+[47] The allegation that the agent’s actions constituted fraud is a very serious one. The factors that must be established to set aside a judgment for fraud are outlined above. Where the fraud alleged is that of a non-party, as is the case here, the determination of fraud is subject to greater scrutiny. Allegations of fraud should not be made lightly and, where they are the basis of an application to set aside a judgment of the Court, the evidence must be persuasive. In this case, the evidence is far from persuasive.
+[48] The Affidavit at best might be said to touch on some of the factors outlined in Nicholls. The key alleged facts, if true, [43] can be said to go to the foundation of the outcomes of the appeals, [44] and suggest that the Appellants did not know the terms on which the agent resolved the appeals. [45] However, other factors are not addressed adequately or at all.
+[49] For example, the Affidavit says nothing about any due diligence the Appellants might have exercised before the Notices of Discontinuance were filed and judgments issued. [46] The Affidavit describes the agent signing several drafts of the consents to judgment before a final draft was signed and filed. Yet, the Affidavit does not address whether any of those (or other drafts) were shared with the Appellants in advance of their acceptance. It does not describe the terms of the retainer agreement between the Appellants and the agent, except to assert the Appellants provided consent and provided “clear instructions” [47] to resolve their appeals on different terms than those on which they were resolved. [48] How and when they communicated consent or instructions to the agent is not described.
+[50] Similarly, the Affidavit does not adequately address potential delay between discovery of the new facts and the motions [49] except to state the appeals were resolved by mid-May, counsel was retained September 27 and the motion material was filed in December, of 2019. Without suggesting that a six-month period is too long, each case must be considered in light of its facts. In my view, the Affidavit should have additional details relevant to this factor. For example, did the agent provide the Appellants with copies of the Notices of Discontinuances, Consents to Judgment or Judgments and if so, when? If not, how and when did each of the Appellants learn about the terms on which the judgments were issued?
+(b) Discovery of New Facts
+[51] A second basis for the motion is facts discovered after the Judgments were issued and the Notices of Discontinuance filed. In each case, the fact discovered is said to be that the agent consented to the judgments and discontinued the appeals contrary to the Appellants’ instructions. In particular, the Affidavit states that the Appellants informed the affiant that:
+(i) The Appellants would not have consented to the orders and did not consent; and
+(ii) The Appellants discovered that the agent had done so only after the judgments were rendered and the notices of discontinuance were acknowledged.
+[52] But, more than the existence of new facts needs to be established under this ground. Notably whether the facts could have been discovered with due diligence and whether the new facts would have affected the judgment must be addressed. My comments on these factors in the fraud context apply here as well. The Affidavit does not adequately address them.
+(c) Weight to be Given to the Evidence
+[53] One concern with hearsay evidence is that the reliability of the evidence is difficult to assess. Hearsay evidence should not be given more weight than it deserves. As noted above, the Affidavit itself is a hearsay statement and, in turn, relies on the hearsay statements of others, most notably the Appellants and the contents of a file. Thus, it is “double hearsay.”
+[54] Assuming those parts of the Affidavit that do not constitute opinions or legal arguments are admissible under Rule 72, I must determine the weight that should be given that evidence. In doing so, I must examine the evidence in light of its necessity and reliability.
+[55] Necessity is founded on the need to get at the truth; in substance it is a form of the “best evidence” rule. Hearsay evidence may be necessary so that all relevant and reliable information is before the court, so justice is achieved. The concept of necessity is flexible to accommodate a variety of circumstances. But, the necessity of particular hearsay affidavit evidence must be established in the context of the particular case with reference to the facts and circumstances of that case. [50]
+[56] In assessing the necessity of the Affidavit in this case, I note that the affiant was not a direct participant in the relevant events, while the Appellants and the agent were. Yet neither the agent nor any of the Appellants provided affidavit evidence. The Court is entitled to the best evidence, the evidence of the person who knows what occurred, unless that person is unable to provide that evidence.
+[57] Counsel for the Respondent has asked that an adverse inference be drawn from the failure to provide evidence of any of the Appellants or the agent. I observe that the Federal Court of Canada Rule that is comparable to Rule 72 expressly states that where an affidavit is made on belief, an adverse inference may be drawn from the failure of a party to provide evidence of persons having personal knowledge of the facts. [51] While the Rules do not expressly permit an adverse inference to be drawn, on occasion this Court has drawn an adverse inference from the failure to call witnesses, [52] although not required to do so. [53] The party against whom the adverse inference is sought may provide a satisfactory explanation for the failure to call the witness. [54] The principle permitting adverse inferences to be drawn should be applied with a measure of common sense. [55]
+[58] In my view, the concerns expressed by Respondent’s counsel clearly go to the weight to be given to the Affidavit evidence in this case. Not only is the affiant not the best person to provide this evidence, but there is no documentary evidence that corroborates the facts asserted in the Affidavit.
+[59] No explanation has been offered as to why the agent or none of the Appellants has provided evidence. Given the assertions, one can infer why the agent might be unwilling to provide affidavit evidence. However, those reasons would not apply to the Appellants. There is no suggestion that none of the Appellants could swear an affidavit. [56] Why would the direct evidence of the Appellants, persons with the best direct personal knowledge, not be provided (by affidavit if not through oral testimony)? [57]
+[60] In the circumstances, the Affidavit does not satisfy the necessity criterion.
+[61] The assessment of reliability is not completely separable from an assessment of necessity and again all relevant circumstances should be taken into account. In this case, I have significant concerns about the reliability of the evidence. As previously noted, the Affidavit contains almost no direct evidence. None of the key evidence in the Affidavit can be viewed as objective. Rather, it has significant subjective content – all of evidence addressing the conditions in Rule 172 is based on the affiant’s assessment of file contents or on the Appellants’ assessment of their actions and the agent’s actions as reported to the affiant. And, none of that content is supported or corroborated by any other evidence. To put it bluntly, given the facts asserted in the Affidavit, it is astonishing that the Affidavit contains no exhibits.
+[62] The Affidavit does not attach any documents from the file that were reviewed, any documents that might have been provided by the Appellants to the affiant, or even a description of the documents reviewed. Let me provide some examples.
+[63] Paragraph 3 of the Affidavit states the affiant was informed by file review that the agent represented each of the Appellants. What documents were in the file? Retainer letters? Why were they not exhibits or at least the nature of the document reviewed described in the Affidavit? Paragraph 8 of the Affidavit states the affiant is informed by file review that the Respondent consented to withdrawal of the appeal in 2018-2014(IT)I. Again, no document from the file is attached or specifically identified.
+[64] Paragraph 15 of the Affidavit states the affiant was informed by file review that the agent has “self-reported to his professional liability insurer, acknowledging his negligence in consenting to judgments and withdrawing appeals contrary to his clients’ instructions”. I would expect that a copy of the document or documents from the file that formed the basis of this information to be attached to the Affidavit as an exhibit, or an explanation for why it is not. In the absence of that, I have no way of assessing the strength of that evidence. Correspondence from the agent to the insurer, or the insurer to an Appellant, or even from the agent to an Appellant addressing that assertion, for example, would be more persuasive than an email from one Appellant to another asserting or speculating that that had occurred. But, the Affidavit has nothing beyond the affiant’s information and belief based on file review.
+[65] I acknowledge that the motion record includes copies of the Notices of Discontinuance and Consents to Judgment (in some cases, drafts as well as versions identified as final). Each is referred to in the Affidavit. In each case the Affidavit states “Attached hereto at Tab [relevant number] of the Motion Record in which this Affidavit is contained is a copy of [relevant document]”. It is unclear what is intended by this language.
+[66] On the one hand, each of these documents is described as attached to the Affidavit, suggesting it is intended to be an exhibit. On the other hand, none of them is described in the Affidavit as an exhibit as required by Rule 19(3). Moreover, Rule 19(4) is clear that where there is a reference in an affidavit to an exhibit, a certificate identifying it, and signed by the person before whom the affidavit is sworn or affirmed, must be attached. None of these documents referred to in the Affidavit has a certificate attached identifying it or signed by the person before whom the Affidavit was sworn. Accordingly, if the documents are intended to be exhibits, the Affidavit does not comply with Rules 19(3) or 19(4). If they are not, then how are they evidence adduced to the Court?
+[67] While given the nature of the documents I might be inclined to rely on Rule 7, treat the absence of the certification as an irregularity, and waive compliance with the certification requirement for the Notices of Discontinuance and Consents to Judgment that were filed with the Court, as I have outlined above, several other deficiencies in the Affidavit go far beyond irregularities.
+VII. CONCLUSION
+[68] The failure of the Appellants themselves to provide direct evidence, coupled with the significant deficiencies in the Affidavit and the weaknesses of the Affidavit evidence, have left the Appellants in the position where the evidence tendered in support of their application falls far short of establishing that the conditions required by Rule 172 are met.
+[69] Accordingly, the Appellants’ motions to set aside the Judgments and Notices of Discontinuance are dismissed.
+VIII. COSTS
+[70] The Respondent seeks costs on the motions but did not specify an amount.
+[71] The appeals were brought under the informal procedure rules, which permit costs to be awarded to the Respondent only where the Appellants’ actions unduly delayed the prompt and effective resolution of the appeal. However, these motions are brought under Rule 172. Accordingly, the informal procedure rules do not apply.
+[72] Costs are awarded to the Respondent. The Respondent shall have 15 days from the date of this Order, and the Appellants shall have 15 additional days, to make written submissions on the amount for costs. Any such submissions are not to exceed 10 pages.
+Signed at Ottawa, Canada, this 7th day of July 2020.
+“K.A. Siobhan Monaghan”
+Monaghan J.
+CITATION:
+2020 TCC 46
+COURT FILE NOS.:
+2018-2009(IT)I
+2018-2010(IT)I
+2018-2011(GST)I/2018-2449(IT)I
+2018-2014(IT)I
+STYLES OF CAUSE:
+SUPHAKORN SUPAVITITPATANA v. HER MAJESTY THE QUEEN
+SYED (SAM) KAMAL v. HER MAJESTY THE QUEEN
+6818935 CANADA LTD. v. HER MAJESTY THE QUEEN
+CHANCHAI SUPAVITITPATANA v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Motion made in writing.
+DATE OF HEARING:
+Motion made in writing.
+REASONS FOR ORDER BY:
+The Honourable Justice K.A. Siobhan Monaghan
+DATE OF ORDER:
+July 7, 2020
+APPEARANCES:
+Counsel for the Appellants:
+Jeff Kirshen
+Counsel for the Respondent:
+Andrew Stuart
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Jeff Kirshen
+Firm:
+Rosen Kirshen Tax Law
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In these reasons, a section of the Rules will be referred to as a Rule, e.g., Rule 172(2)(a).
+[2] While it is possible the Notices of Discontinuance reflect reassessments made under subsection 169(3) of the Income Tax Act (Canada) and paragraph 298(3)(b) of the Excise Tax Act (Canada), there is no suggestion that occurred in these appeals.
+[3] The Consents to Judgment are each labelled Further Amended Consent to Judgment but are the signed forms of Consent to Judgment filed with the Court upon which the Courts’ orders were issued.
+[4] Notice of Motion, paragraph 3 e.
+[5] See section 16.2 of the Tax Court of Canada Act.
+[6] See Attorney General of Canada v. Scarola 2003 FCA 157 [Scarola] at para 25 and Rutledge v. The Queen 2004 FCA 88.
+[7] Scarola at para 13. See also Grenier v. Canada 2008 FCA 63 at para 6.
+[8] Sixgraph Informatique Ltée. v. The Queen 97-440-IT-G and 97-462-IT-I. (October 27, 2000, TCC).
+[9] Scarola at para 17.
+[10] Notice of Motion, paragraph 3 d.
+[11] Appellants’ written submission, paras 19-22.
+[12] 2011 TCC 279.
+[13] Tressis v. Robson 2010 ONSC 4391 (S.C.J.).
+[14] 2018 TCC 242.
+[15] 2016 TCC 104.
+[16] Stover v. The Queen 2016 CCI 235 (TCC) was decided on the basis the error was one of law not fact. Olumide v. The Queen 2016 FCA 10 does not address the relevant facts in detail.
+[17] See Annacis Auto Terminals (1997) Ltd. v. Cali (The), [1999] F.C.J. No. 1579 (T.D.); Saywack v. Canada (Minister of Employment and Immigration) [1986] 3 F.C. 189. (C.A.); Procter & Gamble Pharmaceuticals Canada Inc. v. Canada (Minister of Health) 2003 FC 911; and Ayangma v. Canada 2003 FCA 382.
+[18] Cabral v Canada (Citizenship and Immigration) 2018 FCA 4 at para 32.
+[19] While to be admissible all evidence must be both material and relevant, the Affidavit on its face appears to meet that basic threshold.
+[20] R v Khan (1990), 79 C.R. (3d) 1 (S.C.C) and R v. Khelawon 2006 SCC 57.
+[21] 2012 TCC 210, at para 92.
+[22] 2016 TCC 85, appeal allowed on other grounds, 2017 FCA 65.
+[23] 2015 SKQB 226.
+[24] Part of the affidavit was also excluded as irrelevant to the facts in issue. But, those parts of the affidavit that were relevant and determined not to suffer from reliability concerns were admitted.
+[25] Belchetz v. The Queen 98 DTC 1230 (TCC), appeal dismissed 99 DTC 1230 (FCA).
+[26] At that time, that rule then stated: “Affidavits shall be confined to such facts as the witness is able of his own knowledge to prove, except on interlocutory motions on which statements as to his belief with the grounds thereof may be admitted.”
+[27] The Queen v. A. & A. Jewellers Ltd. [1978] 1 F.C. 479 (FCTD).
+[28] Gray v. Canada (Attorney General) 2019 FC 301, at para 128.
+[29] See Williamson v. The Queen 2009 TCC 222 at para 15; Mpamugo v. The Queen 2016 TCC 215 at para 28; Boroumend v. The Queen 2016 TCC 256 at para 15; and DaSilva v. The Queen 2018 TCC 74 at para 10. Buhler Versatile Inc. v. The Queen 2016 FCA 68 might be added to this list, although there is no discussion in that case of the hearsay aspect of admissibility.
+[30] See, for example, Williamson, ibid; Clive Tregaskiss Investment Inc. v. The Queen 2003 TCC 398; Pluri Vox Media Corp. v. The Queen 2012 FCA 18; and Huppe v. The Queen 2010 TCC 644. In saying this I also recognize that the affiant did not appear on the motion which is a mitigating factor. See Woessner v. The Queen 2017 TCC 124 and CBS Holdings (FCA), supra note 22.
+[31] Quadrini v. Canada Revenue Agency 2010 FCA 37; Pietrovito v. The Queen 2017 TCC 119; 506913 N.B. Ltd., supra note 21; and Belchetz, supra note 25.
+[32] Tsleil-Waututh Nation v. Canada (Attorney General) 2017 FCA 116 at para 37.
+[33] Paragraph 4 of the Affidavit.
+[34] See sections 18.11 and 18.3002 of the Tax Court of Canada Act (Canada).
+[35] One example might be the regulatory body that regulates the agent’s profession.
+[36] The agent “was negligent and reckless in consenting to judgments and withdrawing appeals contrary to the Appellants’ instructions.” [Emphasis added to indicate opinion.]
+[37] The Appellants “did not provide informed consent with respect to the Consents to Judgment and Notices of Withdrawal.” [Emphasis added to indicate opinion.]
+[38] The agent’s actions were fraud and that fraud is an exceptional circumstance. [Emphasis added to indicate opinion.]
+[39] CBC Canada Holdings, supra note 22; Quadrini, supra note 31; and 506913 N.B. Ltd., supra note 21.
+[40] In respect of one income tax appeal and the appeal under the Excise Tax Act (Canada).
+[41] While one of the individual Appellants may have represented the corporate Appellant, the corporate Appellant may have been represented by another person. There is no way of knowing from the Affidavit.
+[42] Although the source of the information in the first sentence of paragraph 11 of the Affidavit is said to be the Appellants, the source of the other information in that paragraph (the second sentence and subparagraphs 11 a. and b.) is not specified. Similar concerns arise about factual statements in paragraphs 5, 6, 7 and 8 of the Affidavit regarding the agent signing various drafts of and the filed versions of the Notices of Continuances and Consents to Judgment; no source of that information is specified.
+[43] In stating this I am not suggesting the affiant is attempting to mislead the Court. Statements honestly made nonetheless may be mistaken.
+[44] Nicholls Factor 2.
+[45] Nicholls Factor 3.
+[46] Nicholls Factor 4.
+[47] Again, this appears to be an opinion.
+[48] Paragraph 12 of the Affidavit.
+[49] Nicholls Factor 7.
+[50] See R. v. Smith [1992] 2 SCR 915 at paras 35-37.
+[51] See Federal Court Rule 81(2).
+[52] See for example, Chaplin 2017 TCC 194; Downey v. The Queen 2006 FCA 353, affirming 2005 TCC 810; Wagner v. The Queen 2013 FCA, affirming 2012 TCC 8; Pieces Automobiles Lecavalier Inc. v. The Queen 2013 TCC 310; and Fietx v. The Queen 2011 TCC 493.
+[53] See Chaplin, ibid, at paragraph 53: “An adverse inference need not be drawn in every case where a party fails to call a witness. It may well be that the party has a satisfactory explanation for not calling the witness.”
+[54] Ibid. See also Pieces Automobiles, supra note 52, at para 52, citing R. v. Jolivet 2000 SCC 29.
+[55] O’Keefe v. The Queen 2006 TCC 250.
+[56] For example, on the basis of death, illness, mental incapacity, or otherwise.
+[57] A&A Jewellers, supra note 27; Harper v. Canada (M. E. I.) 993 62 F.T.R. 96 (FCTD) and Belchetz, supra note 25.

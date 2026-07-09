@@ -1,0 +1,266 @@
+---
+title: "Les Placages Roy inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28902/index.do"
+last_modified: "2008-10-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 520"
+citation2: ""
+neutral_citation: "2008 TCC 520"
+decision_date: "2008-10-02"
+language: "en"
+item_id: "28902"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1410
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:46:30.821000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3d811b0d4dbc771ba22a878b53315e9815a914459b310839846effb8efc3fba0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Les Placages Roy inc. v. M.N.R.
+
+- Citation: 2008 TCC 520
+- Decision date: 2008-10-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1410, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Placages Roy inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-02
+Neutral citation
+2008 TCC 520
+File numbers
+2007-4471(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-4471(EI)
+BETWEEN:
+LES PLACAGES ROY INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on September 3, 2008, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Nancy Dagenais
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act (the “Act”) is allowed, and the decision of the Minister of National Revenue is set aside on the basis that the work performed by Annie Roy and Carol Roy for the appellant “Les Placages Roy inc.” from January 1 to December 18, 2006, is excluded from insurable employment under paragraph 5(2)(i) of the Act, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of October 2008.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 20th day of July 2010
+Mary Jo Egan, Translator
+Citation: 2008 TCC 520
+Date: 20080925
+Docket: 2007-4471(EI)
+BETWEEN:
+LES PLACAGES ROY INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal concerning the insurability of the work performed by Ms. Annie Roy and Mr. Carol Roy for the appellant “Les Placages Roy inc.” from January 1 to December 18, 2006.
+[2] After exercising the discretion conferred on him by the Employment Insurance Act (the Act), the respondent reached the conclusion that the work in question had been performed in a manner that is similar or comparable to a situation or context where the parties to the contract of employment are dealing with each other at arm’s length.
+[3] The provisions of the Act to this effect read as follows:
+5(2) Insurable employment does not include . . .
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+[4] There is extensive jurisprudence on this issue. It teaches us, in particular, that each case turns on its own facts and that if the respondent reaches a reasonable conclusion after considering all the relevant evidence, the Tax Court of Canada cannot change it.
+[5] In this case, at the outset, the appellant admitted a large number of assumptions of fact that led to the decision under appeal.
+[translation]
+5. (a) the appellant was incorporated on February 7, 1968;
+(b) the appellant operated a business that glued wood veneer onto furniture, cupboards, musical instruments;
+(c) the appellant operated year-round;
+(d) in 2006, the appellant generated revenues of approximately $4.4 million;
+(e) in addition to the female worker and the male worker, the appellant employed approximately 46 employees;
+(f) the appellant had three work spaces that did the gluing in different ways with different machines;
+(g) each space had a team leader and ten or so employees;
+(h) the female worker had worked for the appellant for about twenty years;
+(i) the female worker was the appellant’s chief executive officer;
+(j) the female worker’s tasks consisted of operations management, accounting, and the purchase and sale of wood;
+(k) the female worker directly supervised two employees who did the accounting and the ordering;
+(l) the female worker worked in the appellant’s offices;
+(m) the female worker did not have an exact schedule;
+(n) the female worker worked 45 to 50 hours a week for the appellant;
+. . .
+(p) the female worker was paid by direct deposit each week;
+(q) the female worker, like all the appellant’s employees, was covered by group medical and wage-loss insurance;
+(r) the male worker had worked for the appellant for about twenty years;
+(s) the male worker was the vice-president of production;
+(t) the male worker’s tasks consisted of managing and supervising the workshop that glued the wood, i.e. the employees’ work and the operation of the machines;
+(u) the male worker worked in the appellant’s offices and workshops;
+(v) the male worker did not have an exact schedule;
+(w) the male worker worked up to 70 hours a week for the appellant;
+. . .
+(y) the male worker was paid by direct deposit each week;
+(z) the male worker, like all the appellant’s employees, was covered by group medical and wage-loss insurance;
+. . .
+6. (a) the appellant’s sole shareholder with voting shares was
+Les placements J.L. Roy Inc.
+100 % of the shares
+(b) the shareholders of Les placements J.L. Roy Inc. with voting shares were
+Blanche Yvette Giguère
+the female worker
+the male worker
+Gérald Roy
+9.09 % of the shares
+30.3 % of the shares
+30.3 % of the shares
+30.3 % of the shares
+(c) Blanche Yvette Giguère is the mother of the female worker, the male worker and Gérald Roy;
+(d) the female worker and the male worker are related by blood to a group of persons who control the appellant through Les placements J.L. Roy Inc.
+. . .
+7. (b) in 2006, the female worker and the male worker did not receive bonuses from the appellant;
+(c) the female worker and the male worker had not given security or a personal guarantee in favour of the appellant;
+. . .
+(f) the workers had been working for the appellant year-round for over 20 years;
+. . .
+(h) the workers’ work was essential and important for the operation of the appellant’s business;
+. . .
+(l) the appellant did not provide a car to the female worker or the male worker;
+[6] The other assumptions of fact were denied. They are as follows:
+[translation]
+5. (o) the appellant had determined the female worker’s remuneration, which was based on a salary of $1,390 gross per week;
+. . .
+(x) the appellant had determined the male worker’s remuneration, which was identical to the female worker’s, i.e. $1,390 gross per week;
+. . .
+(aa) the female worker and the male worker had paid vacation when production shut down, i.e. 3 weeks in the summer and 2 weeks in the winter;
+(bb) the appellant had an active corporate life;
+(cc) the appellant’s shareholders met on a regular basis;
+(dd) the female worker and the male worker were accountable to the appellant’s other shareholders;
+(ee) decisions that were important for the appellant were made by the shareholders;
+(ff) a relationship of subordination existed between the appellant and the female worker and the male worker;
+(gg)the appellant had a right of control over the female worker and the male worker;
+. . .
+7. (a) the salary for the female worker and the male worker had been determined by agreement of the appellant’s directors;
+. . .
+(d) the female worker and the male worker were responsible for their respective areas of activity;
+(e) the female worker and the male worker held executive positions; considering their functions and responsibilities at the appellant, their remuneration was reasonable;
+. . .
+(g) the workers’ working hours were reasonable;
+. . .
+(i) neither the female worker nor the male worker was absent for a prolonged period of time;
+(j) the nature and importance of the workers’ work was reasonable;
+(k) the terms of employment reflected the requirements of the workers’ executive positions;
+. . .
+(m) the appellant reimbursed the female worker’s and the male worker’s travel expenses;
+(n) the conditions of employment for the female worker and the male worker were within the norm for business executives’ conditions of employment;
+(o) the workers’ terms of employment were reasonable.
+[7] The evidence was limited essentially to the testimony of Carol Roy and Annie Roy, who are brother and sister. They set out the history of the business and clearly described the manufacturing of the product, which is plywood with a real wood surface. They provided details about the variations in the sales figures and the number of employees, all of which emerged quite well from the admitted facts that are reproduced above. However, the witnesses provided a number of clarifications and certain nuances.
+Remuneration
+[8] Annie Roy testified that the shareholders paid themselves generous bonuses when the business was flourishing, which ended with the significant downturn in business caused by the depreciation of the American dollar since the American market accounted for more than 70% of their sales.
+[9] For the year 2006, she was paid $75,433 while her brother Carol received $74,049. The remuneration was essentially established based on their financial needs.
+[10] Ms. Roy also explained that two of her other brothers had worked for the business. One decided to pursue a career elsewhere and sold his shares in 2003. The other stopped working there full-time at first, then totally stopped to focus all his energy on the business he established in the appellant’s immediate environment; his business, which operated on the appellant’s site, became a purchaser of the manufactured products, accounting for 7% of total sales.
+[11] First, the transition took place by a decrease in the hours of work; during a certain period, Gérald Roy worked four to five days a week but only in the afternoon. During the period in question, i.e. in 2006, he did not work for the business but nonetheless received a salary of approximately $200 per week.
+[12] On occasion, he was called upon or consulted because he had worked in the business for many years, which made him someone with valuable expertise.
+[13] Based on the analysis or review, it appears that Gérald Roy’s work was excluded from insurable employment.
+[14] Why? The evidence does not show that. However, there is reason to believe that the person who made that finding concluded that since there was no prestation of work, there could not be an employment contract because the prestation of work is one of the essential elements of an employment contract.
+[15] If that is the basis of the respondent’s conclusion, it is not consistent with the evidence since Annie Roy stated that Gérald’s expertise, experience and knowledge were required in certain situations. However, it is possible that the analyst found that he made this contribution as a shareholder, not a worker, and thus dismissed the evidence of a salary. The evidence indicated that it was not a dividend or a bonus, but a salary.
+Prestation of work
+[16] Annie Roy explained that she primarily dealt with administrative management, which involves personnel, purchases, sales, customer service and accounting, while her brother was mainly responsible for production and everything that it entails, from special orders to equipment purchases, from maintenance-repair to all the activities related to productivity.
+Relationship of subordination
+[17] Both Annie Roy and her brother Carol stated that they had a great deal of autonomy and freedom in carrying out their tasks. They both assumed their responsibilities, knowing very well that they did not need to obtain any approval.
+[18] Their work involved tasks, functions and routine or day-to-day decisions. However, they both recognized that policy decisions or significant purchases and decisions with serious consequences were made following discussions and/or consultations.
+[19] They did not hold formal, structured meetings; however, during dinners at their mother’s home or on other occasions, they went over the financial results on an ad hoc basis. Everything was done harmoniously.
+[20] The workers in the company, about 40 in all, had been members of a union for a number of years and the working relations, according to Mr. Roy, were evidently always very harmonious. Since the union arrived a number of years ago, there had never been a grievance; in his words, [translation] “0 grievances”. After he indicated that he had two sons working there, I asked him whether they benefited from any advantages or special work conditions, and the response was negative. He said that they were treated exactly the same as the other employees.
+[21] Since each case turns on its own facts, many situations are possible. Consequently, the parameters that the Court must consider in determining whether the respondent’s decision was reasonable are very broad with the result that it is possible to imagine a huge number of comparable hypotheses or scenarios.
+[22] When assessing whether a finding is reasonable after all the relevant factors have been considered, I must first determine whether all the relevant evidence has really been taken into consideration and, second, whether these facts were assessed appropriately, i.e. whether undue importance was given to some evidence and whether the importance of other facts was undervalued.
+[23] If the Minister exercised his discretion impeccably, it becomes relatively difficult to demonstrate, on a balance of probabilities, that the conclusion is patently unreasonable. In this case, the appellant denied a number of facts relied on by the Minister. They are reproduced in paragraph 6 of this judgment.
+[24] Although denied, the contents of paragraphs 5(o), 5(x), 5(aa) to 5(bb), 5(ee), 7(a), 7(i) and 7(m) are for the most part accurate in light of Ms. and Mr. Roy’s explanations. The other paragraphs that were denied essentially involve questions of interpretation.
+[25] The complete report, the CPT 110, was filed as Exhibit A1. Since it is a more complete and detailed document than the statements in the Reply to the Notice of Appeal, I believe it is relevant to refer to it to verify the quality of the appeal officer’s work.
+[26] First, it is obvious that most of this document is based on the explanations provided by the persons concerned. I will therefore limit my assessment of this document to the parts that do not entirely agree or do not agree at all with the evidence adduced by Mr. and Ms. Roy whose employment was insurable. It appears from a review of this document that all the facts stated therein are completely consistent with the testimony. However, at first glance, it appears that the analysis excluded some elements.
+[27] Did the familial aspect of the business have a marked influence on its operations to the point that it is easy to imagine situations where one or more important decisions were made based more on the familial connection than on the economic reality of the business?
+[28] Business and family are not necessarily incompatible; the reality is, however, that family can just as easily be the source of the business’ success as the reason for its failure, the ideal being, obviously, harmony and balance.
+[29] To make a determination, it seems essential to me to consider the facts, of course, but also certain hypotheses, especially since the jurisprudence has often pointed out that the power of control, which underlies the relationship of subordination, does not need to be established based on concrete examples but, essentially, based on its existence and/or the fact that it has not been relinquished.
+[30] Thus, the question is whether it is probable, in the event of a very important decision that could have significant impact on the business, that the familial criterion would be given priority even at the possible expense of purely economic considerations.
+[31] In this case, there is no doubt about the answer to this question, i.e. that the familial dimension would take precedence over the business.
+[32] The analysis was based on the vast majority of the relevant facts. However, it is clear that the emphasis was put first on the issue of the employment contract. In that regard, the approach and analysis are impeccable because the analyst identified the three essential components: REMUNERATION – PRESTATION OF WORK – RELATIONSHIP OF SUBORDINATION.
+[33] However, having regard to the legal provisions relevant to this case, it was also important to conduct the analysis in terms of one or more comparisons in order to determine whether the employment contract was similar or comparable to one that would have been entered into if the parties were at arm’s length.
+[34] In this regard, it is my view that some very important evidence is missing from the analysis. I am particularly referring to the following facts, disclosed by the evidence, but also confirmed by the facts collected during the investigation: (Exhibit A-1)
+[translation]
+Facts obtained in the teleconference interview with Annie Roy, the female worker, and Nathalie Poirier, the payor’s representative, on October 3, 2007:
+. . .
+12. The female worker did not personally invest in the company.
+. . .
+19. However, she could get involved and go against her children if two shareholders tried to remove a third. Mrs. Roy, as the mother, would bring the dissenters back to order and they would listen to her out of respect.
+. . .
+22. Her compensation was based on a salary of $35 an hour for 40 hours of work, based on her tasks. She earned approximately $77,000 to $80,000 in 2006. The female worker is paid by direct deposit.
+23. The female worker receives the same salary as Carol. Gérald receives less because he has worked only half-days for a number of years.
+. . .
+25. The payor does not provide the female worker with a vehicle, and she does not have the use of the payor’s credit card. Only Carol has one since he would forget otherwise to ask the payor for reimbursement.
+. . .
+38. Regarding the sales figures, he remembers a revenue of $10 million in 2000 since it was a very good year. He does not know what it was for 2006.
+43. He can sign cheques alone; he confirmed that the signatures of two shareholders are required for the loans and line of credit. However, the male worker was unable to tell me the amounts of the loans. Annie could give them to me; she’s the one who works with numbers.
+44. Like Annie, the male worker confirmed that Blanche Yvette G. Roy could get involved in the company if she noticed a disagreement between the two brothers and the sister. She would serve as a referee to bring them back to order.
+. . .
+49. The male worker does not have a schedule; he works a lot of hours, at least 70 hours a week. He may start at 5:00 in the morning and finish at 8:30 or 9:00 in the evening.
+. . .
+52. The male worker does not know how much he earns; his wife takes care of that. He knows that his salary is the same as Annie’s and that Gérald earns less because he works less.
+. . .
+[Emphasis added.]
+[35] The reasons behind setting the remuneration may vary considerably; it is possible that the primary criterion, as in this case, is the financial needs of the persons concerned. However, I do not believe that people who are at arm’s length would accept such conditions. Certainly, the importance of the tasks was also an important criterion in determining the remuneration. In this case, there may be other factors, but certainly nothing comparable in terms of importance noted here where Carol Roy worked almost twice as many hours as Annie Roy.
+[36] Annie and Carol received the same salary for a prestation that was certainly different but not comparable in terms of hours worked. Carol is a person who is passionate about his work; it would be possible for a person at arm’s length to be this passionate but certainly not to the point of accepting such disproportion. Annie was absent for a long time while adopting a child but nonetheless received her full salary.
+[37] The mother’s influence was clearly not proportional to the percentage of shares she held. Although she did not participate in the day-to-day operations, she had the power to make decisions that were not necessarily in the commercial interest of the business but that promoted familial harmony. The fact that Gérald earned a salary without having to work is a good illustration of this type of decision. It is very difficult, if not completely impossible, to imagine a person at arm’s length accepting working conditions roughly similar or comparable to those that are described in great detail in this case.
+[38] Thus, there are enough facts to justify the Court’s conclusion that the decision was unreasonable to the point where the preponderance of evidence that emerges from considering all the relevant facts requires a finding that Annie and Carol Roy’s employment contract was strongly shaped by familial concerns. Hence the Court’s decision to exclude the work in question from insurable employment under paragraph 5(2)(i) of the Act.
+Signed at Ottawa, Canada, this 2nd day of October 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 20th day of July 2010
+Mary Jo Egan, Translator
+CITATION: 2008 TCC 520
+COURT FILE NO.: 2007-4471(EI)
+STYLE OF CAUSE: LES PLACAGES ROY INC. and M.N.R.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: September 3, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: October 2, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Nancy Dagenais
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jérôme Carrier
+City: Lévis, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,109 @@
+Title: McDowell v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30874/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-244-30874-mcdowell-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-07-10
+
+# McDowell v. The Queen
+
+- Citation: 2012 TCC 244
+- Decision date: 2012-07-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7373, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McDowell v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-07-10
+Neutral citation
+2012 TCC 244
+File numbers
+2010-1728(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-1728(IT)G
+BETWEEN:
+JANET McDOWELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 3, 2012 at Hamilton, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Annie Paré
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2007 taxation year is dismissed. The respondent is entitled to costs.
+Signed at Ottawa, Ontario this 10th day of July 2012.
+“J. M. Woods”
+Woods J.
+Citation: 2012 TCC 244
+Date: 20120710
+Docket: 2010-1728(IT)G
+BETWEEN:
+JANET McDOWELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] In 2002, Janet McDowell loaned $1,150,000 to a corporation that was wholly-owned by her spouse, Bruce Henderson. The loan became worthless and in 2007 Ms. McDowell claimed the loss on her income tax return as an allowable business investment loss (ABIL). This appeal concerns the assessment for the 2007 taxation year which disallowed the ABIL.
+[2] The respondent submits that the ABIL was properly disallowed because the corporation had not carried on an active business at any time in the 12 months prior to the loan becoming uncollectible in 2007. It is also submitted that the ABIL should be disallowed for the 2007 taxation year because the loan became uncollectible in an earlier year.
+Background facts
+[3] In 2002, Ms. McDowell lent a sum of money with interest to HMS Equipment Inc. (“HMS”) pursuant to a request by Laurentian Bank, which had outstanding loans with the corporation. The amount advanced was $1,150,000.
+[4] HMS had previously been wholly-owned by Ms. McDowell. In 2002, however, the corporation was wholly-owned by her common law spouse, Bruce Henderson. He also controlled the business operations which involved the manufacture, refurbishing, sale and lease of equipment. Ms. McDowell was not involved in the business at this time due to health issues and she had little knowledge of the state of the business.
+[5] Within a few months after the loan was made, a receiver was appointed for the business by John Deere Credit Inc., which had provided equipment financing for the business. In short order, the receiver disposed of almost all of the corporation’s assets.
+[6] Meanwhile, Ms. McDowell and her spouse commenced a new equipment business in another corporate entity. She testified that this likely occurred in 2003 or 2004.
+[7] Litigation with John Deere ensued. The parties agreed to a settlement on November 30, 2006 which provided that HMS and another corporation were liable to John Deere in the amount of $6,295,697. The settlement was reflected in a judgment of the Superior Court of Justice dated January 9, 2007.
+[8] The financial statements for HMS show some inventory as at the year ended April 30, 2003. As at April 20, 2004, however, the only item on the balance sheet is cash of $499. No liabilities are recorded. No financial statements were prepared for later years.
+Analysis
+[9] An ABIL is a special category of capital loss which may be deducted from any income source (s. 3(d) of the Act). In certain circumstances, a loan that becomes worthless as a bad debt may be claimed as an ABIL in the year in which the debt becomes uncollectible (s. 50(1) and 40(1)(b)).
+[10] One of the conditions of an ABIL is that the loan be to a corporation that carried on an active business within 12 months prior to the time that the loss was incurred. The relevant provision is the definition of “small business corporation” in s. 248(1) of the Act, which reads:
+“small business corporation”, at any particular time, means, subject to subsection 110.6(15), a particular corporation that is a Canadian-controlled private corporation all or substantially all of the fair market value of the assets of which at that time is attributable to assets that are
+(a) used principally in an active business carried on primarily in Canada by the particular corporation or by a corporation related to it,
+(b) shares of the capital stock or indebtedness of one or more small business corporations that are at that time connected with the particular corporation (within the meaning of subsection 186(4) on the assumption that the small business corporation is at that time a “payer corporation” within the meaning of that subsection), or
+(c) assets described in paragraphs (a) and (b),
+including, for the purpose of paragraph 39(1)(c), a corporation that was at any time in the 12 months preceding that time a small business corporation, and, for the purpose of this definition, the fair market value of a net income stabilization account shall be deemed to be nil;
+[11] In this case, the Minister made an assumption that HMS ceased to carry on an active business in 2004. Ms. McDowell acknowledged in her testimony that this assumption is accurate.
+[12] This is fatal to the appeal. The loss must be incurred within 12 months after the business ceases in order for the ABIL to be claimed.
+[13] In argument, Ms. McDowell cited authority that a company that is temporarily dormant may still be carrying on an active business. This argument would assist Ms. McDowell only if the cessation of HMS’s business was considered to be temporary sometime after December 31, 2006. The significance of this date is that it is 12 months prior to the time that the loss was deemed to have been incurred in accordance with s. 50(1). The evidence was insufficient to establish that the business cessation was temporary in 2004 let alone after December 31, 2006. Accordingly, the judicial authorities dealing with a temporary cessation of business do not apply to the facts of this case.
+[14] In light of my conclusion concerning active business, it is not necessary that I consider the respondent’s second argument which is that the debt became uncollectible in 2006 when the settlement was reached with John Deere.
+[15] In light of my conclusion on the active business issue, the appeal will be dismissed. The respondent is entitled to its costs.
+Signed at Ottawa, Ontario this 10th day of July 2012.
+“J. M. Woods”
+Woods J.
+CITATION: 2012 TCC 244
+COURT FILE NO.: 2010-1728(IT)G
+STYLE OF CAUSE: JANET McDOWELL v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: July 3, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: July 10, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Annie Paré
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

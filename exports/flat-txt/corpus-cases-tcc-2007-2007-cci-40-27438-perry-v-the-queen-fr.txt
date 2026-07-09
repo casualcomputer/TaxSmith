@@ -1,0 +1,165 @@
+Title: Perry v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27438/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-40-27438-perry-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-01-22
+
+# Perry v. The Queen
+
+- Citation: 2007 CCI 40
+- Decision date: 2007-01-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 194, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perry v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-01-22
+Référence neutre
+2007 CCI 40
+Numéro de dossier
+2005-3791(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-3791(IT)I
+ENTRE :
+TRUDY PERRY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 11 janvier 2007, à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Max Matas
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années de base 2002 et 2003 sont rejetés sans dépens conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 22e jour de janvier 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 29e jour de mai 2007.
+Marie-Christine Gervais, traductrice
+Référence : 2007CCI40
+Date : 20070122
+Dossier : 2005-3791(IT)I
+ENTRE :
+TRUDY PERRY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] L’appelante et James Walker sont les parents de Carly Walker (ci‑après « Carly »). Carly est née le 30 juillet 1988.
+[2] L’appelante et James Walker se sont séparés peu après la naissance de Carly.
+[3] Les ordonnances de la cour concernant Carly ont été établies le 18 mai 1989 et le 2 août 1990.
+[4] Dans une ordonnance modificative datée du 19 novembre 1996, la cour a ordonné ce qui suit :
+[traduction]
+LA COUR ORDONNE QUE LES ORDONNANCES DE LA COUR DATÉES DU 18 MAI 1989 ET DU 2 AOÛT 1990 SOIENT ANNULÉES ET MODIFIÉES AINSI :
+QUE Trudy Maarhuis et James Walker aient la garde et la tutelle conjointes de l’enfant, soit :
+Carly Lynn Maarhuis-Walker née le 30 juillet 1988;
+QUE la résidence principale de l’enfant soit chez Trudy Maarhuis;
+QUE les parties maintiennent une résidence principale dans le Lower Mainland.
+QUE James Walker verse à Trudy Maarhuis la somme de 200 $ par mois pour subvenir aux besoins de l’enfant susmentionné, et ce, sous la forme de deux paiements de 100 $ qui seront effectués pour la première fois le 1er et le 15e jours de novembre 1996, puis le 1er et le 15e jours de chacun des mois suivants, ce qui correspond à un total de 200 $ par mois;
+QUE James Walker ait un droit d’accès généreux, qui comprend toutes les fins de semaine, du vendredi après‑midi au lundi matin. (pièce A‑1)
+[5] Dans une ordonnance modificative par consentement datée du 9 décembre 2004, la cour a ordonné ce qui suit :
+[traduction]
+LA COUR ORDONNE :
+1. QUE l’ordonnance rendue le 19 novembre 1996 soit annulée et modifiée ainsi :
+2. QUE Trudy Maarhuis (alias Trudy Perry) et James Walker aient la garde et la tutelle conjointes de l’enfant :
+Carly Lynn Maarhuis-Walker née le 30 juillet 1988;
+3. QUE l’enfant soit avec Trudy Maarhuis (alias Trudy Perry) pendant les périodes de temps suivantes :
+· du dimanche après‑midi au mercredi matin,
+· tout autre période de temps dont les parties conviennent;
+4. QUE James Walker supporte les coûts engagés pour les fournitures scolaires, les vêtements et les activités parascolaires de l’enfant;
+5. QUE Trudy Maarhuis (alias Trudy Perry) supporte les frais médicaux engagés pour l’enfant tant qu’elle sera couverte par le régime d’assurance‑maladie de son employeur. (pièce A‑2)
+[6] Avant mai 2004, l’appelante recevait les versements de Prestation fiscale canadienne pour enfants (la « PFCE ») à l’égard de ses trois enfants : Carly, Nicole (née en septembre 1992) et Eric (né en août 2001).
+[7] M. Walker a déclaré dans son témoignage qu’en 2004, des fonctionnaires du gouvernement l’avaient informé que, comme il semblait être la personne qui assumait principalement la responsabilité pour le soin de Carly, il devrait présenter une demande pour recevoir la PFCE à l’égard de Carly.
+[8] M. Walker a présenté une demande de PFCE aux fonctionnaires du gouvernement et a commencé à recevoir des versements de PFCE en mai 2004.
+[9] Le ministre a envoyé un avis de PFCE à l’appelante le 18 mars 2005. Dans l’avis, le ministre a indiqué que l’appelante avait reçu des paiements en trop de 208,50 $ pour la période de mai à juin 2004 (pour l’année de base 2002) et de 753,67 $ pour la période de juillet 2004 à janvier 2005 (pour l’année de base 2003).
+[10] L’appelante a déposé un avis de PFCE. Elle soutient qu’elle était la personne qui assumait principalement la responsabilité pour le soin de Carly de mai 2004 au 31 décembre 2004. L’appelante admet que M. Walker est la personne qui assume principalement la responsabilité pour le soin de l’enfant depuis le 1er janvier 2005.
+B. POINT EN LITIGE
+[11] Il s’agit de savoir si l’appelante était le particulier admissible à l’égard de Carly pour la période allant de mai 2004 à janvier 2005 (la « période ») et si elle a donc le droit de recevoir la PFCE à l’égard de Carly pour la période.
+C. ANALYSE ET DÉCISION
+[12] La Loi de l’impôt sur le revenu (la « Loi ») ne permet pas à la Cour d’imposer la répartition de la PFCE entre les parents. Comme la loi ne permet pas une telle répartition, un seul des deux parents peut être le « particulier admissible » « à un moment donné ».
+[13] Pour décider si une personne peut être considérée comme un « particulier admissible », les deux questions clés auxquelles il faut répondre sont les suivantes : l’enfant réside‑t‑il avec la personne? et lequel des deux parents assume le rôle, à un moment donné, de la personne qui assume principalement la responsabilité pour le soin de l’enfant? (Je souligne.)
+Pour évaluer si la dernière condition est satisfaite, la Cour doit tenir compte, entre autres choses, des critères énoncés à l’article 6302 du Règlement de l’impôt sur le revenu (le « Règlement ») :
+Pour l'application de l'alinéa h) de la définition de « particulier admissible » à l'article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l'éducation d'une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d'un milieu sécuritaire là où elle réside;
+c) l'obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l'organisation pour elle d'activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu'elle est malade ou a besoin de l'assistance d'une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d'être présent auprès d'elle et de la guider;
+h) l'existence d'une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[14] En l’espèce, l’appelante et M. Walker soutiennent tous les deux qu’ils satisfont aux exigences mentionnées aux alinéas a) à h) de l’article 6302 du Règlement et qu’ils sont considérés comme la personne qui assume principalement la responsabilité pour le soin de Carly pendant la période.
+[15] Comme le montre la pièce A‑2, Carly était avec son père du mercredi matin au dimanche après‑midi (c.‑à‑d. quatre nuits par semaine) et elle était avec sa mère pendant le reste de la semaine. De plus, James Walker supportait les coûts engagés pour les fournitures scolaires, les vêtements et les activités parascolaires de sa fille.
+[16] L’avocat de l’intimée a déposé une série de chèques pour la période (pièce R‑2). Cette pièce indique que M. Walker a émis 16 chèques pour défrayer le coût de plusieurs activités parascolaires ainsi que d’autres dépenses pour Carly. M. Walker a également indiqué dans son témoignage qu’il assistait à presque toutes les autres activités sportives de Carly. M. Walker a dit qu’il assistait à toutes les activités sportives et scolaires auxquelles Carly participait quand il le pouvait. M. Walker a dit qu’il assistait aux activités suivantes auxquelles Carly participait :
+− rencontres entre les parents et les professeurs
+− club d’art dramatique
+− volley‑ball
+− basket‑ball
+− rugby
+− jiu‑jitsu
+Il a dit qu’il s’investissait à fond dans les diverses activités auxquelles Carly participait.
+[17] Après avoir soigneusement analysé les témoignages des parties et les documents qui ont été déposés, j’ai conclu que James Walker était la personne qui assumait principalement la responsabilité pour le soin et l’éducation de Carly aux fins de la PFCE pour la période.
+[18] Pour en arriver à cette conclusion, j’ai également tenu compte des affaires suivantes :
+Dans l’arrêt Canada c. Marshall, [1996] A.C.F. no 431, le juge Stone de la Cour d’appel fédérale a mentionné ce qui suit :
+[…] la Loi prévoit qu'un seul des deux parents est un « particulier admissible » aux fins d'admissibilité aux avantages. L'article ne prévoit aucun partage proportionnel entre deux parents qui prétendent être des parents admissibles. Seul le Parlement peut prévoir le partage proportionnel des avantages, mais il ne l'a pas fait.
+Les commentaires suivants ont été formulés par le juge Strayer de la Cour d’appel fédérale dans l’arrêt Matte c. Canada, [2003] A.C.F. no 43 :
+Il importe de noter que cette définition envisage clairement que le « particulier admissible » peut de temps en temps changer, dans la mesure où, au moment pertinent, il est le principal responsable en sa qualité de fournisseur de soins. C’est ce qu’indiquent les mots « à un moment donné, […] personne qui […] à ce moment […] » figurant au début de la définition.
+[19] Je renvois également à la décision de la juge Lamarre Proulx dans Robitaille c. Canada, [1997] A.C.I. no 6 :
+Pour obtenir une décision contraire à cette détermination, selon les règles de la preuve en litige fiscal depuis longtemps établies, il appartenait à l'appelante de faire la preuve que c'était elle qui s'occupait principalement des enfants à charge admissibles. Or, son témoignage était à l'effet que le partage était égal. Devant cette absence de preuve et le tribunal étant lié par la décision de la Cour d'appel fédérale ci‑avant citée qui a affirmé qu'un seul des deux parents peut être un particulier admissible, la détermination du ministre doit être maintenue.
+Je suis d’accord avec ma collègue la juge Lamarre Proulx.
+[20] Les appels sont rejetés sans dépens.
+Signé à Vancouver (Colombie‑Britannique), ce 22e jour de janvier 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 29e jour de mai 2007.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2007CCI40
+NO DU DOSSIER :
+2005-3791(IT)I
+INTITULÉ :
+Trudy Perry c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 11 janvier 2007
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 22 janvier 2007
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Max Matas
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

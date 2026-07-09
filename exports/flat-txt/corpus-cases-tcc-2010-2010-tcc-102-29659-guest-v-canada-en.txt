@@ -1,0 +1,119 @@
+Title: Guest v. Canada
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29659/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-102-29659-guest-v-canada-en.md
+Document type: case_law
+Last modified: 2010-02-23
+
+# Guest v. Canada
+
+- Citation: 2010 TCC 102
+- Decision date: 2010-02-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6227, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guest v. Canada
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-02-23
+Neutral citation
+2010 TCC 102
+File numbers
+2009-1026(IT)I
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2010 TCC 102
+Date: 20100223
+Docket: 2009-1026(IT)I
+BETWEEN:
+GERALD V. GUEST,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+____________________________________________________________________
+Counsel for the Appellant:
+Mr. Sean M. Sinclair
+Counsel for the Respondent:
+Mr. Ken Hawkins
+____________________________________________________________________
+ORAL REASONS FOR JUDGMENT
+(Delivered orally by conference call on
+February 11, 2010, at Ottawa, Ontario,
+modified for clarity and accuracy)
+[1] The Appellant, Gerald Guest, has appealed an income tax assessment in respect of his 2007 taxation year. The sole issue before the Court is whether the Appellant was entitled to deduct $1,000 as a support payment pursuant to paragraph 60(b) of the Income Tax Act.
+[2] The relevant facts are not in dispute. During the summer of 1986, the Appellant had a relationship with a woman whom I will call F. After the relationship ended, F gave birth to a child. The child was born on March 9, 1987.
+[3] The Appellant and F have never lived together and have never married. A default judgement was issued by the District Court of the State of Maine on June 9, 1989 in which the Appellant was declared the legal and biological father of the child and ordered to pay for certain expenses including child support payments of $25 per week.
+[4] This will be referred to as the Maine Order.
+[5] The Appellant first became aware of the Maine Order in June 2006. At the time he became aware of the Maine Order, the Appellant owed approximately $29,000.
+[6] On June 24, 2007, a letter was issued by the Justice Department of the Saskatchewan Government notifying the Appellant that the Maine Order had been registered for enforcement in the Saskatchewan Court of Queen’s Bench.
+[7] This will be referred to as the Saskatchewan registration.
+[8] The Appellant, since August 2007, has paid $200 per month in satisfaction of the amounts owing under the Maine Order. One thousand dollars was paid in 2007. The Appellant claimed a deduction of $1,000 under paragraph 60(b) of the Income Tax Act when computing his income for the 2007 taxation year.
+[9] When assessing the Appellant for the 2007 taxation year, the Minister disallowed the $1,000 deduction.
+[10] I will first review the relevant law. Paragraph 60(b) of the Income Tax Act sets out the deductions for support amounts. This subsection was amended by Parliament after the Supreme Court of Canada’s decision in Thibaudeau v. Canada, [1995] S.C.R. 627. The amendment eliminated the inclusion/deduction regime for all child support payments made after April 30, 1997.
+[11] This was accomplished by using the formula A–(B+C) to determine the amount of the deduction under paragraph 60(b) where A is defined in paragraph 60(b) to mean certain support payments paid after 1996; B is defined as certain child support payments; and C is defined as certain support amounts previously deducted by the taxpayer.
+[12] Both parties accepted that the amounts paid by the Appellant in 2007 were included in the A portion of the formula. In particular, the parties agreed that the Appellant was the legal parent of the child and that payments were received in 2007 under an order made by a competent tribunal in accordance with the laws of a province.
+[13] The parties, however, disagree with respect to the inclusion of the $1,000 in the B portion of the formula.
+[14] B is defined in paragraph 60(b) as the total of all amounts, each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement date, and before the end of the year in respect of a period that began on or after its commencement date.
+[15] The Appellant argues that there was no commencement date as that term is defined, and as a result no amount is included in B.
+[16] The Respondent argues that the commencement date was June 24, 2007, the day the Maine Order was registered by the Saskatchewan Court of Queen’s Bench, and thus the $1,000 should have been included in B.
+[17] Commencement date is defined in subsection 56.1(4) to mean, in part – where the agreement or order is made before May 1997 – the day, if any, that is after April 1997 and is the earliest of a number of days, including the day specified in the agreement or order or any variation thereof as the commencement date of the agreement or order for the purposes of the Act, and – where the agreement or order is made after April 1997 – the day it is made.
+[18] The issue before the court is whether the order referred to in the definition of commencement date is the Maine Order or the Saskatchewan registration.
+[19] Counsel for the Appellant argued that the relevant order is the Maine Order. He argued that the registration by the Saskatchewan court did not constitute an order. In his view, the only order issued was the judgment of the Maine court. He provided the Court with numerous cases to support his position.
+[20] Counsel for the Respondent argued that the registration by the Saskatchewan court did constitute an order. He relied on the wording of subsection 18(1) of the Saskatchewan Inter-jurisdictional Support Order Act, which reads as follows:
+From the date of registration, the extra-provincial order or foreign order has the same effect as if it were a support order made by a court in Saskatchewan.
+[21] He argued that as a result of the wording in subsection 18(1), the Maine Order did not become an order of a competent tribunal in accordance with the laws of a province until it was accepted for registration in Saskatchewan. He did not provide the Court with any jurisprudence to support his position.
+[22] When discussing the Saskatchewan Inter-jurisdictional Support Order Act, which I will refer to as the Registration Act, both parties only referred to subsection 18(1) of the Registration Act.
+[23] This section cannot, however, be considered in isolation. One must consider the whole Act.
+[24] Under the Registration Act a person can register and enforce in the province of Saskatchewan a support order or agreement from another jurisdiction.
+[25] Section 18 sets out the effect of the registration. Subsection 18(1) states the following:
+From the date of registration, the extra-provincial order or foreign order has the same effect as if it were a support order made by a court in Saskatchewan.
+[26] Subsection 18(2) states that:
+(2) The registered order may:
+(a) both with respect to arrears accrued before registration and with respect to obligations accruing after registration, be enforced in the same manner as a support order made by a court in Saskatchewan; or
+(b) be varied as provided in this Act.
+[27] Section 16 of the Registration Act defines foreign order to mean:
+a support order, an interim support order or an order that varies a support order made in a reciprocating jurisdiction outside of Canada before, on or after the date on which this Act comes into force, but does not include a provincial order or a provisional order of variation.
+[28] Section 2 of the Registration Act defines reciprocating jurisdiction to mean a jurisdiction declared in the regulations to be a reciprocating jurisdiction. The United States is declared in Section 3 of the Regulations to the Registration Act to be a reciprocating jurisdiction.
+[29] Paragraph 42(1)(a) of the Registration Act is also relevant. It states:
+In a proceeding pursuant to this Act:
+(a) the court shall take judicial notice of the laws of a reciprocating jurisdiction and, when required, apply it;
+[30] As a result of Section 2 and paragraph 42(1)(a) of the Registration Act and the relevant regulations, the Maine court is a competent tribunal in accordance with the laws of a province.
+[31] The issue before the Court is whether the support payments were made pursuant to an order made on or after April 1997.
+[32] As Justice Sexton noted in Kennedy v. The Queen, 2004 FCA 437 at paragraph 13:
+It seems to me that, although the statutory definition of "commencement day" in subsection 56.1(4) might be more clearly drafted, the intention of the legislation is that orders or agreements made after April 1997 which actually create new obligations will be subject to the new regime. Obligations created under the old regime will remain subject to the old provisions. This intention is borne out by subparagraph (b)(ii) which specifies that agreements or orders which are varied after April 1997 so as to change child support amounts payable, will qualify as creating a commencement day. In such a case, a new obligation will have been created by the variance after April 1997. The same can be said of subparagraph (b)(iii) which provides that a subsequent agreement or order made after April 1997 which changes the total amount of child support payments creates a commencement day.
+[33] After reviewing the provisions of the Registration Act, it appears to me that the purpose of the Act is twofold: first, to allow for the enforcement of an order issued in another jurisdiction; and second, to allow for the variation of that order.
+[34] With respect to the Maine Order, the Saskatchewan court only availed itself of the provisions relating to the enforcement of an existing order. It merely allowed for the enforcement of the order issued by the Maine court. It did not issue a new order and did not vary the previous order.
+[35] The Saskatchewan court registered the Maine Order under paragraph 18(2)(a) of the Registration Act. It ordered that the arrears that had accrued before registration be enforced in the same manner as a support order made by a court in Saskatchewan.
+[36] In other words, it allowed for the enforcement of amounts owing under the Maine judgment, amounts owing pursuant to an order issued prior to May 1997. If the Saskatchewan court had wished to vary the order, then it could have done so under the provisions of paragraph 18(2)(b) of the Registration Act, in which case amounts payable by the Appellant would have been payable pursuant an order issued after April 1997.
+[37] In summary, the support payments made by the Appellant in 2007 were made pursuant to an order that commenced on June 9, 1989 and was issued prior to May 1997. As a result, there was no commencement date as that term is defined in subsection 56.1(4) of the Income Tax Act.
+[38] The support payments were therefore subject to the old regime and were fully deductible by the Appellant.
+[39] For the foregoing reasons, the appeal is allowed with costs to the Appellant and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that when determining the Appellant’s income for the 2007 taxation years, $1,000 is to be deducted pursuant to paragraph 60(b) of the Income Tax Act.
+“S. D’Arcy”
+D'Arcy, J.
+CITATION: 2010 TCC 102
+COURT FILE NO.: 2009-1026(IT)I
+STYLE OF CAUSE: GERALD V. GUEST AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: February 11, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT: FEBRUARY 23, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Sean M. Sinclair
+Counsel for the Respondent:
+Ken Hawkins
+COUNSEL OF RECORD:
+For the Appellant: Sean M. Sinclair
+Robertson Stromberg Pedersen LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,300 @@
+Title: Maintenance Euréka Ltée v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30404/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-307-30404-maintenance-eur-ka-lt-e-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-06-20
+
+# Maintenance Euréka Ltée v. The Queen
+
+- Citation: 2011 TCC 307
+- Decision date: 2011-06-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7865, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maintenance Euréka Ltée v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-06-20
+Neutral citation
+2011 TCC 307
+File numbers
+2009-2550(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2550(IT)G
+BETWEEN:
+MAINTENANCE EURÉKA LTÉE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Service sanitaire Frontenac Ltée (2009-2551(IT)G)
+on March 28, 29 and 31, at Montréal, Quebec
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the appellant:
+Philip Nolan
+Philip Hazeltine
+Counsel for the respondent
+Anne-Marie Boutin
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2004 and 2005 taxation years is dismissed, with costs to the respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of June 2011.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+On this 15th day of September 2011
+François Brunet, Revisor
+Docket: 2009-2551(IT)G
+BETWEEN:
+SERVICE SANITAIRE FRONTENAC LTÉE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Maintenance Euréka Ltée (2009-2550(IT)G)
+on March 28, 29 and 31, 2011, at Montréal, Quebec
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the appellant:
+Philip Nolan
+Philip Hazeltine
+Counsel for the respondent
+Anne-Marie Boutin
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2004 and 2005 taxation years is dismissed, with costs to the respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of June 2011.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+On this 15th day of September 2011
+François Brunet, Revisor
+Citation: 2011 TCC 307
+Date: 20110620
+Dockets: 2009-2550(IT)G
+2009-2551(IT)G
+BETWEEN:
+MAINTENANCE EURÉKA LTÉE,
+SERVICE SANITAIRE FRONTENAC LTÉE,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+[1] Challenging the Minister’s submission that they were associated corporations, the appellants Service sanitaire Frontenac Ltée (“Frontenac”) and Maintenance Euréka Ltée (“Euréka”) are appealing from the reassessments made by the Minister of National Revenue (“the Minister”) in respect of their 2004 and 2005 taxation years.
+Factual background
+[2] In determining the income tax payable by Frontenac and Euréka (“the corporate appellants”) the Minister relied on the following assumptions of fact:
+[TRANSLATION]
+(a) Gratien Veilleux and Lauréanne Pomerleau were spouses in 2004. He was 71 years old at the time, and she was 73.
+(b) Gratien Veilleux and Lauréanne Pomerleau have two children: Bruno and Simon.
+(c) The [corporate] appellant [Euréka] was incorporated in 1969 by Gratien Veilleux.
+(d) [The corporate appellant] Frontenac was incorporated in 1977 by Lauréanne Pomerleau.
+(e) Bruno Veilleux became a shareholder of the [corporate] appellant [Euréka] in 1989 and [the corporate appellant] Frontenac in 1990. He acquired 24% of the shares of both corporations on the advice of his parents’ tax consultants.
+(f) During the years in issue, the share capital of the [corporate] appellant [Euréka] and [the corporate appellant] Frontenac was held by the following persons and investment companies:
+[Euréka]
+(% common shares)
+Frontenac
+(% common shares)
+Gratien Veilleux
+65%
+Placement Gratien Veilleux
+11%
+Lauréanne Pomerleau
+65%
+Placement Lauréanne Veilleux
+11%
+Bruno Veilleux (son)
+24%
+24%
+100 %
+100 %
+(g) Until 1994, the [corporate] appellant [Euréka] and [the corporate appellant] Frontenac operated a business that provided housekeeping services for public, institutional and commercial buildings.
+(h) In addition, the [corporate] appellant [Euréka] began offering security guard services for the same kinds of buildings in 1987, and Frontenac did the same starting in 1994.
+(i) [Euréka] and [the corporate appellant] Frontenac each provide their services in the same Quebec regions.
+(j) On several occasions, [the corporate] appellant [Euréka] and [the corporate appellant] Frontenac provided the same services to the same customer on an alternating basis.
+(k) On those occasions, the person responsible for the contract, and the employees who did the work, usually remained the same, even though the corporate entity changed.
+(l) The contractual documents of the [corporate] appellant [Euréka] and [the corporate appellant] Frontenac list the same telephone number, fax number and e-mail address.
+(m) The [corporate] appellant [Euréka] and [the corporate appellant] Frontenac do not bid on the same calls for tenders.
+(n) Gratien Veilleux is the only designated representative of both the [corporate] appellant [Euréka] and [the corporate appellant] Frontenac for the purposes of obtaining the permit issued by the Ministère de la Sécurité publique.
+(o) Bruno Veilleux works primarily for [the corporate appellant] Frontenac, but is also involved in the [corporate] appellant’s [Euréka] affairs. He is paid by both corporations, but his vehicle is supplied solely by the [corporate] appellant [Euréka].
+(p) Simon Veilleux works primarily for the [corporate] appellant [Euréka], but is also involved in [the corporate appellant] Frontenac’s affairs. He is paid by both corporations, but his vehicle is supplied solely by [the corporate appellant] Frontenac.
+(q) Both corporations’ office work is done on the same premises and by the same people, who are paid on an alternating basis by the [corporate] appellant [Euréka] and [the corporate appellant] Frontenac.
+(r) The employees of the [corporate] appellant [Euréka] work for both the [corporate] appellant [Euréka] and [the corporate appellant] Frontenac, regardless of which corporation pays their salary.
+(s) Motor vehicle and other expenses incurred by the [corporate] appellant [Euréka] were paid by [the corporate appellant] Frontenac, and conversely.
+[3] Gratien Veilleux and Bruno Veilleux were the corporate appellants’ only witnesses. Lauréanne Pomerleau, the majority shareholder of Frontenac, did not testify because she was recovering from a second heart attack, which required a coronary angioplasty and stent. The evidence shows that throughout the audit process, Ms. Pomerleau had no discussions with the Canada Revenue Agency (CRA) auditors because she was recovering from her first heart attack. Moreover, Ms. Pomerleau was not questioned during the respondent’s examinations for discovery. Thus, Gratien Veilleux and Frontenac’s accountants were the only persons able to answer the CRA’s questions about the creation of Frontenac and the reasons for its existence.
+[4] Gratien Veilleux is approximately 78 years of age. He testified that he founded Euréka in 1969. At the time, he was roughly 36 and had five children: Marie‑Claude, 1; Simon, 6; Charlotte, 10; Bruno, 13; and Sylvie, 14.
+[5] According to the witness Gratien Veilleux, his wife Ms. Pomerleau did administrative work for Euréka. Around 1974‑1975, his business was expanding, and Ms. Pomerleau asked him for a stake in Euréka. He refused her request because he wanted to control his own business. This refusal caused marital problems, and Ms. Pomerleau decided to found her own business in order to create a separate patrimony of her own. To corroborate his testimony, Gratien Veilleux noted that the couple married separate as to property, and renounced the application of articles 462.1 to 462.13 of the Civil Code of Quebec in relation to the spouses’ family patrimony. In addition, he testified that the couple’s principal residence was under his name only.
+[6] Diane Moore, the CRA auditor assigned to both corporate appellants, testified that, at the first meeting regarding the issue, Gratien Veilleux refused to answer questions about the reasons for creating Frontenac and for its continued existence. Gratien Veilleux retained the two corporate appellants’ external accountants, François Gagnon and Josée Larochelle (“the external accountants”), chartered accountants and tax specialists with the firm of Raymond Chabot Grant Thornton (“RCGT”), to answer Ms. Moore’s questions. At the first meeting they attended, the external accountants said it was possible that Ms. Pomerleau founded Frontenac on the advice of Gilles Rémillard, a chartered accountant with RCGT who, at the time, was also the accountant of Euréka, a corporation controlled by Gratien Veilleux. The corporate appellants adduced Ms. Moore’s notes as Exhibit A-8. Ms. Moore’s testimony is consistent with the notes she took concerning the relationship between the two corporate appellants. The external accountants wrote several letters in which they made representations. None of these letters, which were adduced in evidence by the corporate appellants, refer to marital conflicts leading to the creation of Frontenac by Ms. Pomerleau.
+[7] Gratien Veilleux’s testimony did not detail Ms. Pomerleau’s involvement in Frontenac’s creation. He said that he did not help her found her own business. In his view, founding her own business was not a difficult task for her, since she had provided both him and Euréka with administrative services before.
+[8] Ms. Moore emphasized that Gratien Veilleux’s testimony on this point is not consistent with the comments made by the external accountants and by Gratien Veilleux himself during the meetings between the parties. According to Ms. Moore, at these meetings, Gratien Veilleux specifically stated that Ms. Pomerleau accompanied him in his work simply as an observer, and did not hold an administrative position with Euréka. The notes taken by Ms. Moore at these meetings are consistent with her testimony on this point.
+[9] Gratien and Bruno Veilleux claim there were commercial reasons for Euréka and Frontenac to be separate corporations. They said that each corporation sometimes has to abandon a service contract if its profitability declines too much. This generally happens after the customer has renewed the contract a few times. In such instances, the costs of the employees’ benefits ― that is to say, vacations and unused sick days ― increases, thereby reducing the profit margin on the contract. After its sister corporation abandons the contract, the other corporation can be a bidder, because the employees who will perform the contract for the new service provider will be entitled to lesser benefits, which will ensure a positive profit margin. The employees of the company that are short of work following a contract non-renewal might be called upon to work for the sister company, but since those employees are starting from square one, their benefits are reduced.
+[10] The evidence quantifying the financial costs was rather vague. The Court heard several imprecise explanations about the value of the supposed advantage discussed above. At the examination for discovery, Gratien Veilleux stated that the advantage could be $12,000 to $15,000 a year. In the letter to the CRA containing their representations, the external accountants tried to downplay the significance of the alternating contract performance, noting that one corporate appellant was the other’s successor for only six contracts out of a total of 100 during the years in issue. Gratien Veilleux also explained that not all the employees were transferred from one corporation to the other after the loss of a contract. First of all, employees with more seniority can bump other employees from the same corporation; in other words, they can cause those employees to be assigned to other contracts. Secondly, after a contract is abandoned, all the competitors can respond to the call for tenders. Only about 5% of the contracts abandoned by one of the corporate appellants end up being awarded to the other.
+[11] On re-examination, Bruno Veilleux, who did not provide any precise information about the value of the savings obtained by one corporate appellant after it abandons a contract that is then taken up by the other, asserted that, under government decrees applicable to the cleaning and housekeeping industry, the employer paid the value of all unused sick days in excess of eight days. The evidence reveals that roughly 100 employees worked on an alternating basis for the two corporate appellants. However, the Court has no way of estimating the savings purportedly generated by the employee transfers. There is no evidence regarding each employee’s seniority or the number of unused sick days. The Court has no idea how many employees, if any, accumulated at least eight unused sick days. The corporate appellants could have provided information about each employee’s salary and benefits before and after the transfer. The fact that they did not provide such evidence causes me to doubt the veracity of the allegation regarding the savings. Counsel for the corporate appellants adduced the government decrees that apparently impose an obligation to pay for the unused sick days. However, he did not explain to the Court how these decrees apply to the contracts in issue, and, more importantly, he did not determine the amount of the possible savings. The onus was on the corporate appellants to submit credible and substantial evidence of this allegation, and they have failed to do so.
+[12] Ms. Moore also doubts that there is a genuine commercial advantage for the two corporate appellants. There was no reference to such an advantage at the meetings between the parties or in the corporate appellants’ written representations. Ms. Moore took care to specify that, during a telephone conference, she had invited the corporate appellants’ representatives to state any commercial reason that might justify the separate existence of the two corporate appellants. This was done in connection with a request for opinion submitted to the CRA’s advance income tax rulings directorate. The parties agreed that they would refer the matter to the advance rulings directorate for an opinion on the issue in this case. Surprisingly, there was no mention of the alleged commercial advantage in the written representations prepared by the corporate appellants’ external accountants.
+[13] Gratien Veilleux and Bruno Veilleux explained why the corporate appellants Euréka and Frontenac do not compete for the same calls for tenders. Ms. Moore stressed that in support of her finding that the two corporate appellants were associated corporations within the meaning of subsection 256(2.1) of the Income Tax Act (ITA). The evidence reveals that the two corporations only responded to the same call for tenders once. According to the witnesses, Euréka specializes in cleaning and housekeeping services for school boards. Apparently, Euréka tries to keep its activities concentrated in the Montréal, Drummondville and Trois‑Rivières area. Frontenac specializes in the cleaning and housekeeping of public and para-public buildings in the Québec and Beauce areas, while Euréka provides this type of services to school board properties. Nonetheless, both witnesses admitted that there is no water-tight division between the two corporations’ activities, or between the territories in which they do business. Both Euréka and Frontenac have contracts in the same sectors and do business in the same territory. According to the witnesses, the distinction is that Frontenac has more contracts in the public and para-public sectors, while Euréka has more school contracts in the Montréal, Drummondville and Montérégie areas.
+[14] Ms. Moore pointed out that Frontenac gets 25 to 30% of its revenues from contracts performed for school boards, and that the two corporate appellants perform contracts throughout Quebec.
+[15] The evidence shows that the two corporate appellants use the same staff to meet their administrative service needs. Each bears half the expenses, salaries and other administrative costs. They share the premises where they are each headquartered, though each signed a lease under which they paid a separate rent for the premises in question. In addition, both had the same phone and fax number during the period in issue.
+[16] Bruno Veilleux testified that he works mainly for Frontenac. After the illness of his mother, Ms. Pomerleau, he took on a greater role within the business. However, he specifies that he also provided services to Euréka. He says that, in 2005, he became more involved in the operations of Euréka, because his father had an accident that required four months of convalescence. On cross-examination, he admitted that his spouse Anne Laflamme helped him carry out his duties, but said that she was only paid by Frontenac. He said this was because Ms. Laflamme worked only for Frontenac, even though he himself worked for both Euréka and Frontenac.
+[17] Bruno Veilleux and his father testified that Simon Veilleux, Bruno’s brother, worked mainly for Euréka, but provided services to Frontenac too. The evidence discloses that Sandra Poulin, Simon Veilleux’s spouse, helped him in the performance of his duties. However, Ms. Poulin was paid entirely by Frontenac, even though, according to Bruno Veilleux’s testimony, his brother Simon performed services for both corporate appellants.
+[18] Ms. Moore testified that Bruno and Simon Veilleux received a salary from both corporate appellants during the years covered by the audit. She found that Simon Veilleux’s remuneration did not reflect the fact that he mainly worked for Euréka, since he received more pay from Frontenac than from Euréka. As for Bruno Veilleux, the corporate appellants claim that he mainly looked after the management of Frontenac, while the evidence shows that in 2005, the salary that he drew from Euréka was higher.
+[19] Based on the audit, Ms. Moore found that in 2004 and 2005, Frontenac and Euréka (i) provided the same services to their customers, (ii) operated in the same territory; (iii) had staff in common for housekeeping, security guard services and administration, (iv) used Gratien Veilleux as the designated representative in dealings with the Ministère de la Sécurité publique regarding the security agency, and (v) consulted each other to decide which of the two would bid on calls for tenders. In the light of those facts, and in the absence of evidence regarding Ms. Pomerleau’s duties with Frontenac, Ms. Moore concluded that it was reasonable to believe that one of the main reasons for the separate existence of the corporate appellants during the 2004 and 2005 taxation years was to reduce the income tax otherwise payable, by enabling both entities to claim the small business deduction. Ms. Moore found that, in reality, both corporations functioned as a single business for the benefit of the Veilleux-Pomerleau families. Her finding was confirmed by the advance rulings directorate after it considered the parties’ representations.
+The respondent’s position
+[20] The respondent submits as follows. The assumptions of fact on which the Replies are based, and Ms. Moore’s testimony, show that the two corporate appellants are very similar to each other. On the basis of the facts established by Ms. Moore’s audit, it can be concluded that both corporate appellants are operated as a single family business for the benefit of the Veilleux family, notably Gratien Veilleux, Ms. Pomerleau, the Veilleux couple’s two sons, and their spouses. The facts show that, overall, the businesses are managed as one whole, and there are no indications that they are independent from each other. Thus, in view of the facts, one of the main reasons for the existence of the corporate appellants Euréka and Frontenac in 2004 and 2005 was to reduce the tax payable by enabling both corporations to take full advantage of the small business deduction, contrary to subsection 256(2.1) of the ITA. In view of the circumstances, the two corporations are associated for the purposes of the ITA and are therefore required to share the business limit and the small business deduction.
+The corporate appellants’ position
+[21] The corporate appellants, Euréka and Frontenac, submit that the relevant facts do not support the respondent’s conclusion regarding the application of subsection 256(2.1) of the ITA. Their counsel argues that Gratien and Bruno Veilleux provided a credible explanation for the existence of the two corporations. Firstly, according to the corporate appellants, Ms. Pomerleau incorporated Frontenac to create a patrimony distinct from her husband’s. The marital problems during that period made Ms. Pomerleau financially anxious. This unease prompted her to pursue measures to secure financial independence. This original motivation never changed over time, and she was always trying to preserve her financial independence. Secondly, according to the corporate appellants, the evidence reveals a secondary commercial reason for their continued separate corporate existence: when a contract becomes unprofitable for one of them, the other can become a bidder.
+[22] The corporate appellants’ counsel, Mr. Nolan, concedes that the outcome of these appeals largely depends on the credibility of Gratien and Bruno Veilleux’s testimony.
+Analysis
+[23] Subsection 256(2.1) of the ITA provides as follows:
+(2.1) Anti-avoidance ― For the purposes of this Act, where, in the case of two or more corporations, it may reasonably be considered that one of the main reasons for the separate existence of those corporations in a taxation year is to reduce the amount of taxes that would otherwise be payable under this Act or to increase the amount of refundable investment tax credit under section 127.1, the two or more corporations shall be deemed to be associated with each other in the year.
+[24] It should be pointed out that the reasons for the separate existence of two or more corporations during the taxation year, not the reasons for which the corporations were initially created, are what determine whether or not the corporations are associated during the year.[1]
+[25] The parties have cited a great number of cases pertaining to the issues in this appeal.[2] Based on a reading of those decisions, I note that the taxpayers’ appeals tend to succeed when they provide evidence that, on a balance of probabilities, the reason for the existence of the two corporations is asset protection, activity diversification, decentralization for greater profit, a spouse’s intent to operate his or her own business, or estate planning, to cite some examples. The outcome depends first and foremost on the credibility of the taxpayers’ witnesses.
+[26] According to the relevant case law, the Minister may infer, from the facts disclosed by the audit, that one of the main reasons for the separate existence of two corporations is to reduce tax, and that the corporations are therefore deemed associated under subsection 256(1.2). It is then up to the taxpayers to refute the factual assumptions relied on by the Minister in support of the assessments, or to show that those assumptions do not support the Minister’s conclusions. It is also open to taxpayers to prove other facts that contradict the Minister’s conclusions regarding the main reasons for the corporations’ existence. The foregoing principles were endorsed by Justice Marceau in Canada v. Covertite Ltd.:[3]
+4 . . . The onus on the taxpayer appellant is complete and the role of the Court is clear. All that may appear simple but it is so only in theory and not in practice. The difficulty stems from the very nature of the conclusion of the Minister that is put into question and must be verified. It is indeed a conclusion of fact as opposed to a conclusion of law, but one of a purely psychological content, since it refers to the state of mind and the intention of those responsible for the creation and the continued separate existence of the two entities. It is obviously a conclusion that cannot be the object of direct evidence, at least in the absence of a clear prior statement of the parties concerned or an admission made by them afterwards. It must necessarily be based on inferences drawn from a series of material facts directly ascertainable. The Minister has inferred from a certain number of facts that the saving of taxes, which was actually realized, was not a mere side effect but rather one of the main goals contemplated by the individuals acting behind the corporations. In verifying the conclusion, the Court cannot but adopt an approach similar to that followed by the Minister. The mere denial of the taxpayer, whether or not accompanied by a simple indication of the other causes that could have prevailed, can be given no weight. Being a mere assertion of a negative fact, and a fact which has to do with the state of mind of the witness, it can have no convincing probative force; it cannot constitute the proof required to annihilate the conclusion of the Minister. To succeed, the taxpayer must: (a) disprove the facts assumed by the Minister in reaching his conclusion; or (b) convince the Court that the inferences drawn by the Minister from the facts assumed were un-reasonable and unwarranted; or (c) add further facts capable of changing the whole picture and leading to different inferences pointing to the conclusion that the other reasons alleged have actually been prevalent.
+[Emphasis added.]
+[27] That case involved subsection 247(2) of the ITA, which has been replaced by subsection 256(2.1). There have been no substantial changes to the wording of the provision; hence the prior case law remains relevant.
+[28] The corporate appellants’ witnesses have not satisfied me that subsection 256(2.1) is inapplicable. Gratien Veilleux sought to give the impression that the incorporation of Frontenac was exclusively his wife Ms. Pomerleau’s idea, and that tax considerations were not behind the creation of that second corporation. He claims that he never offered Ms. Pomerleau any help, and that she started up the business solely in order to establish a separate patrimony for herself. In addition, he stated that the accountants did not play an important role in the decision to incorporate a business that would carry out activities in the same industry as the corporate appellant Euréka. I find that there are several contradictions between these explanations and the explanations given earlier by Gratien Veilleux and by the external accountants during the audit. This causes me to doubt the veracity of Gratien Veilleux’s allegations.
+[29] Ms. Moore testified that the initial answer to the question the accountants were asked concerning the creation of Frontenac was that Ms. Pomerleau might have gotten advice from Gratien Veilleux’s tax accountant. There was no mention of marital problems that allegedly led Ms. Pomerleau to want to establish her own patrimony. Neither Ms. Moore’s testimony nor her notes on this point were disputed by counsel for the corporate appellants. As a follow-up to the questions the accountants were asked at the first meeting, Gratien Veilleux claimed that Ms. Pomerleau accompanied him as a mere observer while he carried out his duties on Euréka’s contracts. At the trial, he said the opposite: Ms. Pomerleau provided him with administrative services that enabled her to acquire the experience necessary to go into business herself.
+[30] There was no independent evidence of Ms. Pomerleau’s supposed role in Frontenac. Counsel for the corporate appellants asked me not to draw any unfavorable conclusions from the fact that Ms. Pomerleau’s health prevented her from attending the audit or trial. Euréka and Frontenac could have called independent witnesses who are members of the Veilleux‑Pomerleau families in order to explain Ms. Pomerleau’s role within the business. France Lehoux, an internal accountant for Euréka and Frontenac, answered the first questions asked by the auditor, Ms. Moore. The corporate appellants did not see fit to call Ms. Lehoux to the witness stand, preferring to rely exclusively on the testimony of the interested persons. Unfortunately, Gratien Veilleux and Bruno Veilleux have not succeeded in convincing me of the merits of their positions.
+[31] I have noted two other statements made by Gratien Veilleux that seem implausible to me given the circumstances. He claims that he had no role within Frontenac, despite his undeniable experience in the cleaning and housekeeping service industry. He knew the suppliers, the customers, the market, and how to recruit qualified personnel to perform the obligations set out in the contracts. How can it be claimed that he did not give Frontenac the benefit of his experience when Frontenac is located on the same premises as Euréka? What husband would not assist his wife who is starting up a business in a field that he knows well? Gratien Veilleux’s explanations are simply not credible.
+[32] There is no doubt in my mind that the corporate appellants’ shareholders knew the implications of the rules regarding associated corporations and took advantage of tax consultants’ advice at the time that corporate appellant Frontenac was created and shares were issued to Bruno Veilleux. How can one explain the fact that Bruno Veilleux received shares representing 24% of Frontenac’s share capital as opposed to 25%? Gratien Veilleux claims that he was the one who decided on the percentage that would go to corporate appellant Euréka. I did not find his testimony on this point to be credible. No witness explained why Ms. Pomerleau, who, according to the corporate appellants, was the directing mind of Frontenac, chose the same percentage of share capital as Gratien Veilleux. I find that this is because the Veilleux-Pomerleau couple took advantage of the technical advice of tax consultants. Moreover, in 2004 and 2005, the corporate appellants’ management was in all likelihood fully cognizant of the effect of the rules governing associated entities, because they had taken part in the settlement of the prior assessments, as settlement that was based on the fact that the two corporate appellants were under the same de facto control. For all these reasons, the Court does not accept Gratien Veilleux’s evidence that tax considerations were not a factor in the decision as to the separate existence of the two corporate appellants.
+[33] The Court also gave little credibility to Bruno Veilleux’s testimony. On cross-examination, counsel for the respondent asked Bruno Veilleux to confirm that Ms. Pomerleau’s signature was frequently affixed to documents by administrative personnel using a stamp. He tried to dodge the question, ultimately answering that he was unaware of whether such a stamp existed. Given Bruno Veilleux’s involvement in the business, the Court is of the view that only two answers were possible: either the stamp exists and is used to affix Ms. Pomerleau’s signature to documents, or the stamp does not exist. Bruno Veilleux’s answer was that of a person who does not want to admit any fact that might undermine the corporate appellants’ appeals.
+[34] As one can see from the following excerpt from his testimony, Bruno Veilleux adopted the same attitude when he tried to explain his spouse’s and his sister-in-law’s role within the two corporate appellants:[4]
+[TRANSLATION]
+[693] Q. You, you work primarily with Service sanitaire Frontenac.
+A. Yes, madam.
+[694] Q. Is that correct?
+A. Yes.
+[695] Q. And occasionally you work for Maintenance Euréka.
+A. Yes.
+[696] Q. Your spouse, Anne Laflamme...
+A. Yes?
+[697] Q. ... is your assistant.
+A. Uh-huh.
+[698] Q. O.K. During the years 2004 and 2005, she worked at your home, I believe.
+A. Yes.
+[699] Q. O.K. The salary of your spouse Anne Laflamme is paid by Service sanitaire Frontenac.
+A. Yes.
+[700] Q. Regardless of whether she assists you in your duties for Maintenance Euréka or Service sanitaire Frontenac.
+A. She does not assist me in the duties of Maintenance Euréka, she assists me in the duties of Frontenac.
+[701] Q. Frontenac only.
+A. Yes.
+[702] Q. Who assists you in your duties with Maintenance Euréka?
+A. In Quebec City, it’s me.
+[703] Q. Just you.
+A. Yes.
+[704] Q. Your spouse does no work for that corporation.
+A. No.
+[705] Q. That’s what you’re saying to us today?
+A. For me, she ... no, I would say no.
+[706] Q. Well, I will re-read an excerpt from your examination for discovery at page 24. At page 24 I asked you:
+Your spouse worked with you, I believe?
+And you answered:
+Yes.
+PHILIP NOLAN: On what line are you?
+ANNE-MARIE BOUTIN: 24, line... sorry, line 10.
+Q. Your spouse worked with you, I believe?
+A. Yes.
+Q. What were her duties?
+A. Those of an assistant, I would say. Staffing assistant, contract liaison assistant, commencement, contract commencement; she does a little bit… she provided me with support in what I did. What she did was…
+Then, I asked:
+Q. She was your assistant?
+And you added:
+A. The similarity.
+Q. All right. Essentially, she followed you?
+To which you answered:
+A. Exactly.
+I asked you:
+Q. Who pays her salary?
+A. The salary is paid by Frontenac.
+Q. Yes. During those years, your salary was sometimes paid by Frontenac but was also sometimes paid by Maintenance Euréka.
+And I asked you:
+Q. I understand that regardless of whether you personally worked for Maintenance or for Maintenance... ― correction: for Service sanitaire Frontenac … for Maintenance Euréka or for Frontenac ― you spouse’s salary was paid by Frontenac at all times?
+You said:
+A. Yes.
+At that time, you told us that your spouse was your assistant and that she helped you in your duties; so that is indeed her work?
+A. I said that yes, she assisted me in my duties. You didn’t ask me if she assisted me in my duties with Euréka and Frontenac.
+[707] Q. No. Generally.
+A. I answered, because she was paid by Frontenac, I concluded that it was for Frontenac.
+[708] Q. Your brother Simon’s spouse...
+A. Yes?
+[709] Q. ... Sandra Poulin. She’s your brother Simon’s assistant?
+A. Yes.
+[710] Q. O.K. Your brother Simon mainly works for Maintenance Euréka?
+A. Yes.
+[711] Q. Maintenance...
+A. Yes.
+[712] Q. Maintenance Euréka, sorry.
+A. Yes.
+[713] Q. Maintenance Euréka, sorry. For Maintenance Euréka, O.K.
+A. Yes.
+[714] Q. She is paid by Service sanitaire Frontenac, correct?
+A. Ms. Poulin?
+[715] Q. Sandra Poulin.
+A. Yes.
+[716] Q. How do you explain the fact that...
+HIS HONOUR: Sandra Poulin is paid by whom?
+ANNE-MARIE BOUTIN: By Service sanitaire Frontenac.
+[717] Q. How do you explain the fact that Service sanitaire Frontenac pays...
+PHILIP NOLAN: Can we just specify that we are talking about the years at issue in this case?
+ANNE-MARIE BOUTIN: Always about the years at issue, naturally.
+PHILIP NOLAN: In the case at bar. O.K.
+ANNE-MARIE BOUTIN: All the questions are about the years at issue in the case at bar.
+[718] Q. I would like to know how it’s possible for Service sanitaire Frontenac to pay the salary of a woman who works mainly for Maintenance Euréka.
+A. If some of her salaries were paid by Service sanitaire Frontenac, it’s necessarily, or, it means that she rendered services to Service sanitaire Frontenac.
+[35] I strongly suspect that Bruno Veilleux did not want to admit that Sandra Poulin and Anne Laflamme worked for both corporate appellants, fearing that it would help the respondent’s case that the two corporations are managed like a single corporation for family benefit. For all these reasons, the Court accords no credibility to Bruno Veilleux’s testimony.
+[36] The Court has determined that Ms. Moore is very credible witness. In cross‑examining her, counsel for Euréka and Frontenac did not try to show that her notes were inaccurate. More specifically, I note that he did not succeed in contradicting her on the following facts to which the external accountants admitted: Ms. Pomerleau may have obtained advice from her husband regarding the incorporation of the corporate appellant Frontenac; and both corporate appellants operated in the same territory, shared the same administrative staff, and consulted each other to decide which of the two would bid on new calls for tenders and what Simon Veilleux and Bruno Veilleux’s salaries and bonuses would be, regardless of the hours they spent working for each of the two corporations. In the Court’s opinion, these facts are sufficient to enable the Minister to infer that it is reasonable to believe that one of the main reasons for the separate existence of the two corporations during the 2004 and 2005 taxation years was to reduce the income tax otherwise payable. Given my findings on the credibility of the corporate appellants’ two witnesses, there is, at the very least, an absence of evidence to the contrary.
+[37] The evidence also reveals that the corporate appellants are not managed as businesses that are independent from one another. They do not bid on the same calls for tenders even though they essentially have the same expertise which enables one of them to succeed the other when it does not renew a contract because it is not profitable enough. The corporate appellants are not competitors. The decisions to bid or to replace each other after a contract is abandoned appear to be taken jointly, on the basis of the common interest of the two corporations and of the Veilleux‑Pomerleau family members.
+[38] For all these reasons, the Court dismisses the corporate appellants’ appeals, with costs to the respondent.
+Signed at Ottawa, Canada, this 20th day of June 2011.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+On this 15th day of September 2011
+François Brunet, Revisor
+CITATION: 2011 TCC 307
+COURT FILE NOS.: 2009-2550(IT)G
+2009-2551(IT)G
+STYLE OF CAUSE: MAINTENANCE EURÉKA LTÉE and
+SERVICE SANITAIRE FRONTENAC LTÉE
+v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATES OF HEARING: March 28, 29 and 31, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: June 20, 2011
+APPEARANCES:
+Counsel for the appellants:
+Philip Nolan
+Philip Hazeltine
+Counsel for the respondent:
+Anne-Marie Boutin
+COUNSEL OF RECORD:
+For the appellants:
+Name: Philip Nolan
+Firm: Lavery, de Billy
+Montréal, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See Classic’s Little Books Inc. v. Canada, [1973] F.C.J. No. 101 (QL); Continental Stores Ltd. v. Canada, [1981] F.C.J. No. 241 (QL); Holt Metal Sales of Manitoba Ltd. et al. v. M.N.R., 70 DTC 6108 (Ex. Ct.).
+[2] Canada v. Covertite Ltd., [1981] F.C.J. No. 928 (QL); Lenco Fibre Canada Corp. v. Canada, [1979] F.C.J. No. 605 (QL); Hughes Homes Inc. v. Canada, [1997] T.C.J. No. 1003 (QL); Duha Printers (Western) Ltd. v. Canada, [1998] 1 S.C.R. 795; Transport M.L. Couture Inc. v. Canada, [2003] F.C.J. No. 24 (QL), aff’d 2004 FCA 23 (sub nom. 9044‑2807 Québec Inc .v. Canada); Silicon Graphics Ltd. v. Canada, 2002 FCA 260; Rosario Poirier Inc. v. The Queen, [2002] 4 CTC 2346 (T.C.C.); Taber Solids Control (1998) Ltd. v. The Queen, 2009 TCC 527; Canada v. Bowens, [1996] F.C.J. No. 214 (QL); Collins v. Canada, [1992] T.C.J. No. 581 (QL); M.N.R. v. Pillsbury Holdings Ltd., 64 DTC 5184 (Ex. Ct.); Pollock v. Canada, [1993] F.C.J. No. 1055 (QL); Capital Garment Co. Inc. v. M.N.R., 74 DTC 1164 (T.A.B.); Grimshaw Planing Mills Ltd. v. M.N.R., 69 DTC 207 (T.A.B.); Honeywood Limited et al. v. The Queen, 81 DTC 5066 (F.C.T.D.); Installations de l’Est Inc.v. Canada, [1990] F.C.J. No. 72 (QL); Jabs Construction Ltd. et al. v. M.N.R., 83 DTC 633 (T.C.C.); LJP Sales Agency Inc. v. The Queen, 2003 TCC 851; Dominion Pile & Equipment Co. Ltd. v. M.N.R., 69 DTC 276 (T.A.B.); Taber Solids Control (1998) Ltd. v. The Queen, 2009 TCC 527; McLaren v. The Queen, 2009 TCC 514; The Queen v. Bobbie Brooks (Canada) Ltd., 73 DTC 5357 (F.C.T.D.); Saratoga Building Corp. v. Canada, [1993] F.C.J. No. 195 (QL); Lenester Sales Ltd. v. The Queen, 2003 TCC 531, aff’d 2004 FCA 217; Timco Holdings Ltd. v. The Queen, 2005 TCC 701; Imperial Greenhouses Ltd. v. Canada, 2011 FCA 79; Imperial Pacific Greenhouses Ltd. v. Canada, 2011 FCA 79; Central Interior Incorporated v. The Queen, 2004 TCC 725; 126873 Ontario Limited o/a Autopark Superstore v. M.N.R.., 2007 TCC 442; Murray v. Saskatoon, [1951] S.J. No. 59 (QL); Stewart v. Canada, [2000] T.C.J. No. 53 (QL); Tobin v. M.N.R., 2003 TCC 503; Pembina Finance (Alta.) Ltd. v. Canada, [1998] T.C.J. No. 1017 (QL); Ultra‑Max Construction v. M.N.R., 2007 TCC 541; Quinney v. Orr, 2010 SKQB 228; Walsh v. The Queen, 2009 TCC 557; Scavuzzo v. The Queen, 2004 TCC 806.
+[3] Supra, note 2.
+[4] Transcript, March 28, 2011.

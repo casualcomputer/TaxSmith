@@ -1,0 +1,263 @@
+Title: Le Syndicat des producteurs de bois de la Gaspésie v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28574/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-99-28574-le-syndicat-des-producteurs-de-bois-de-la-gasp-sie-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-04-04
+
+# Le Syndicat des producteurs de bois de la Gaspésie v. The Queen
+
+- Citation: 2008 TCC 99
+- Decision date: 2008-04-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1073, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Le Syndicat des producteurs de bois de la Gaspésie v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-04
+Neutral citation
+2008 TCC 99
+File numbers
+2006-1214(GST)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-1214(GST)G
+BETWEEN:
+LE SYNDICAT DES PRODUCTEURS DE BOIS
+DE LA GASPÉSIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 5, 2007, at New Carlisle, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+André A. Lévesque
+Counsel for the Respondent:
+Michel Morel
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made on August 10, 2005, under the Excise Tax Act, for the period from May 1, 2005, to May 31, 2005, is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of April 2008.
+"François Angers"
+Angers J.
+Translation certified true
+on this 12th day of May 2009.
+François Brunet, Reviser
+Citation: 2008TCC99
+Date: 20080404
+Docket: 2006-1214(GST)G
+BETWEEN:
+LE SYNDICAT DES PRODUCTEURS DE BOIS
+DE LA GASPÉSIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal from a notice of assessment of Goods and Services Tax (GST) dated August 10, 2005, concerning the period from May 1 to May 31, 2005, and made under the Excise Tax Act ("the Act"). The Minister of National Revenue ("the Minister") assessed the Appellant, Le Syndicat des producteurs de bois de la Gaspésie ("the SPBG"), disallowing its GST rebate claims in the amount of $92,421.94 for the period in question. The SPBG is a GST registrant and was an agent of the Minister for the purpose of collecting and remitting GST during the period in question.
+[2] The SPBG is a non-profit corporation, incorporated under the Act respecting the marketing of agricultural, food and fish products, R.S.Q., c. M‑35.1 ("ARMAFFP"). Under ARMAFFP, as few as ten producers can join and submit a draft joint plan setting out modalities of production and marketing of an agricultural product (in this case, forest products) originating from a designated territory (the Gaspé Peninsula); and, with a view to the implementation thereof, the plan can provide for the creation of a producer marketing board or, as in the case at bar, a professional syndicate composed exclusively of producers of the agricultural product to be marketed under the draft plan whose sole object is the marketing of such product (see sections 45 and 50 of ARMAFFP).
+[3] The region designated by the SPBG contains roughly 7,000 wood producers or woodlot owners that are covered by the joint plan contemplated by ARMAFFP. Some of these producers can join the SPBG as members, and roughly 3,000 have availed themselves of that privilege, which entitles them to vote at the meetings, and eventually, to be administrators, or delegates at the annual general meeting.
+[4] The activities of 900 of these producers are sufficiently limited (less than $30,000 per year) for them not to be registrants under the Act. Those are the producers this appeal relates to.
+[5] The 900 producers in issue paid for the services that the SPBG rendered to them. The terms and conditions of those payments were established by the SPBG and the producers, and came into force following their approval by the Régie des marchés agricoles, alimentaires et de la pêche. In general terms, the Appellant's marketing activities include, among other things, the purchase and sale of wood on behalf of Gaspé Peninsula wood producers; the SPBG collects the selling prices from the buyers and then remits them to the producers.
+[6] The SPBG takes a share of those sales proceeds to cover transportation costs, the agency's administration costs, and amounts called "prélevés" (levies) which are provided for in section 2 of the Règlement sur la contribution des producteurs de bois de la Gaspésie pour l’administration du plan conjoint and section 2 of the Règlement sur le fonds forestier des producteurs de bois de la Gaspésie (R.Q. c. M‑35, r. 28.9 and R.Q., c. M-35.1, r. 110). Those are the services in issue in the case at bar.
+[7] The SPBG thus collected and remitted the GST on the services that it rendered to the 900 Gaspé Peninsula wood producers, and it now seeks to get back $92,421.94. Thus, the issue is whether the SPBG must collect GST on the services that it renders to the 900 non-registrant producers.
+[8] The SPBG's main function is to market wood in accordance with the Joint Plan of Gaspésie Region Wood Producers, referred to in section 2 of the Règlement sur le plan conjoint des producteurs de bois de la Gaspésie ("the Joint Plan Regulation, or JPR").
+[TRANSLATION]
+2. In this Plan, "marketing" means the sale, grading, processing, purchasing, storage, and shipping for purposes of sale, offering for sale and transportation of any farm product, and the advertising and financing of operations related to the selling of such product on the market.
+[9] Section 5 of the JPR defines the product in question, and section 6 provides that the SPBG is responsible for the implementation and the administration of the plan. Section 11 defines the SPBG's role as follows:
+[TRANSLATION]
+11. The Syndicate is the negotiating and selling agent for the products covered; as such and as administrator of the Plan, it has the powers, prerogatives and duties prescribed in the Act for such a body.
+[10] The powers, duties and prerogatives of the SPBG are set out in sections 14 through 18 of the JPR, which are reproduced in an appendix to these Reasons for Judgment.
+[11] The producers subject to a joint plan are required to make contributions so that the plan can be carried out. Section 122 of ARMAFFP, and the regulations thereunder, provide for the payment of those contributions. I shall reproduce sections122, 123 and 124 of ARMAFFP:
+122. The producers subject to a joint plan shall pay the expenses incurred for the purposes of the plan and by-laws by means of contributions prescribed in the plan or in a by-law made under section 123 or 124.
+1990, c. 13, s. 122.
+By-laws
+123. A general meeting of the producers, called for that purpose, may make by-laws
+1) to vary the amount of the contribution prescribed in the plan;
+2) to classify the producers into groups and fix for each group the level of contribution required from each producer who is a member of it for the purposes of the plan, the by-laws and this Act;
+3) to impose a special contribution to pay the expenses related to the carrying out of a provision of a plan, a by-law or this Act;
+4) to impose a special contribution to cover losses resulting from the marketing of the product marketed under the plan, whether or not such product is produced by the producer required to pay the contribution;
+5) to impose a special contribution to permit the equalization or adjustment among producers of sums of money received from the sale of the product marketed under the plan, during such period as the board may determine;
+6) to impose a special contribution to permit the board to pay its share of the activities and operating costs of a coordination and development chamber;
+7) to impose, on all the producers or on those who meet certain criteria, a special contribution for the purposes of a by-law made under section 100.1 and to satisfy the obligations incurred in respect of the special fund established for the purposes of the by-law.
+1990, c. 13, s. 123; 1992, c. 28, s. 16.
+By-laws
+124. The producer marketing board, if authorized to do so by a general meeting of the producers called for that purpose, may, by by-law, establish
+1) a reserve fund or working capital to pay expenses relating to the administration of a plan or the carrying out of a by-law;
+1.1) a special fund for the purposes of a by-law made under section 100.1;
+2) a contribution, which may vary, to permit it to fulfil obligations contracted under Chapter VIII;
+3) methods to be used for the collection or calculation of a contribution imposed under this chapter.
+1990, c. 13, s. 124; 1992, c. 28, s. 17.
+[12] Thus, the two regulations provide for the amounts to be paid to the SPBG. In the case of the Règlement sur la contribution des producteurs de bois de la Gaspésie pour l’administration du plan conjoint, section 2 provides that a producer must pay a contribution of $0.85 per cubic metre of the product. Section 3 provides that the contributions received defray the expenses incurred by the SPBG. According to the evidence, the SPBG uses these amounts to negotiate contracts and to plan the marketing. The amounts that the purchasers pay to the SPBG are subject to a direct withholding.
+[13] As for the Règlement sur le fonds forestier des producteurs de bois de la Gaspésie, section 2 provides that a producer must make a $0.15 contribution to the SPBG for each unit of volume of the marketed product. Subsection 5(e) provides that this amount is to fund a newsletter for wood producers.
+[14] According to SPBG executive director Jean-Pierre Rivière, the two contributions, which total $1.00, serve mainly to defray the costs of negotiations with carriers; the costs of ensuring that the work, such as the scaling of timber, is done properly; and the costs of performance, supervision, verification and human resource administration.
+[15] The SPBG also collects a contribution of $0.41 per stacked cubic metre on all wood sold. This amount defrays costs related to management as such. (see Exhibit A-7, a resolution). Lastly, in addition to the costs related to the regulations and the resolution, there are transportation costs.
+[16] The situation common to the 900 producers in issue is that they are not GST registrants. Two typical transactions covered by the rebate claim were explained. The payment records issued to the producers show that no GST was charged to the recipients of the sales, and the records clearly set out the levies or contributions that the producers paid to the SPBG. Those contributions are in issue here, and the question to be decided is whether the SPBG must collect the GST on the contributions that it receives from the producers.
+[17] On cross-examination, Jean-Pierre Rivière, the SPBG's executive director, confirmed that the contributions used for the administration of the SPBG are deducted off the invoices paid by the purchasers, and are set by regulation. The SPBG does not collect commissions from the producers. Its mission is to ensure that wood is marketed correctly and in compliance with ARMAFFP on the Gaspé Peninsula.
+[18] Section 45 of ARMAFFP provides that the SPBG has the status of producer marketing board for the purpose of carrying out a plan. Section 66 specifies that the SPBG has the powers and prerogatives of a producer marketing board. It reads as follows:
+66. A body designated under section 50 to administer a plan is vested with the powers, duties and prerogatives of a producer marketing board; it shall exercise such powers, duties and prerogatives through its board of directors except those reserved for the general meeting of producers. It shall keep separate accounting records for the management of the plan. The body may apply to the Régie to be exempted from the requirement of keeping separate accounting records if it carries on no activity other than the administration of the plan.
+[19] The powers that ARMAFFP confers on a marketing board are set out, inter alia, in sections 92 to 99, which I shall reproduce here:
+Regulatory powers
+92. A marketing board may, by by-law,
+1) determine conditions governing the production, storage, preparation, handling and transport of the product marketed under the plan it administers, as well as standards respecting the quality, form and composition, container or packaging and the inscription which must appear on the product, its container or packaging;
+2) prescribe the classification and identification of the product marketed under the plan it administers, determine for that purpose particular grades, categories and appellation and determine the conditions on which such classification and identification must be made.
+1990, c. 13, s. 92.
+Regulatory powers
+93. A marketing board may, by by-law, fix production and marketing quotas for the product marketed under the plan it administers and, for that purpose, subject production and marketing to the conditions, restrictions and prohibitions it determines.
+Quotas
+Without restricting the scope of the first paragraph, a board may, by by-law,
+1) determine the times and places a product marketed under the plan it administers may be produced and marketed;
+2) require that every producer be the holder of an individual quota allocated by the board and authorizing him to produce or market the product marketed under the plan it administers, fix the minimum and maximum quotas the producer may hold, individually or in association with other persons, and determine the proportion of the quota each producer must produce himself within his operation;
+3) determine the conditions governing the allocation, maintenance or renewal of an individual quota, and the manner in which it is issued;
+4) establish equivalences based on the area under cultivation or operation or the number of animals reared or marketed, for the purpose of fixing the quota of a producer;
+5) determine the manner and conditions applicable to the temporary or permanent reduction of the quota of a producer who produces or markets a larger or smaller quantity of the product marketed under the plan than is permitted by his quota;
+6) impose on any producer who contravenes a by-law made under this section, a penalty based on the volume or value of the product marketed or the area under cultivation or operation, and prescribe the use of this penalty for particular purposes;
+7) provide for the cancellation or use by another person of any part of a quota not produced or marketed during a specified period;
+8) determine the circumstances, the extent and the conditions on which a producer holding a quota may produce or market a product otherwise than according to his quota or a standard determined by the marketing board;
+9) establish an overall limit of individual quotas which may be allocated to producers by the marketing board, and prescribe standards for proportional reduction of the quotas when the limit has been or is about to be reached;
+10) determine standards for periodical adjustment of individual quotas according to market needs;
+11) determine the manner and conditions according to which the board may reallocate quotas which have been suspended, reduced or cancelled;
+12) determine any part of the overall quota and of individual quotas which have been suspended or permanently reduced that it may keep in reserve;
+13) establish the manner and conditions governing the allocation or reallocation of the reserve referred to in paragraph 12, and limit the allocation of quotas from the reserve to one or more classes of producers;
+14) determine the cases of and the conditions applicable to the transfer of a quota from one producer to another, set aside a part of that quota for the reserve mentioned in paragraph 12, determine the terms, conditions and modalities of such a transfer, and make any such transfer subject to its approval;
+15) determine the terms and conditions according to which a quota or part of a quota may be leased from a producer to another;
+16) determine the conditions subject to which an operation may be leased by a producer who wishes to produce all or part of his quota elsewhere than within his own operation, and make such lease subject to the approval of the marketing board;
+17) suspend any transfer of individual quotas for a specified period or for a period which may be determined according to the standards established by the marketing board;
+18) divide the territory covered by the plan into zones and restrict or prohibit the transfer of quotas from one zone to another;
+19) determine the length of time allowed to a new holder of a quota or the holder of a new quota to produce or market the product subject to the quota.
+1990, c. 13, s. 93.
+Quota required
+94. Where a marketing board makes a by-law under section 93, no person may produce or market the product concerned unless he holds a quota, except in the circumstances and on the conditions determined in the by-law.
+1990, c. 13, s. 94.
+Holder of quota
+95. Only the person or partnership producing the product marketed under a plan may hold and exploit a quota allocated by a marketing board.
+New producer
+However, this provision shall not prevent a new producer from becoming the holder of a quota.
+Exception
+The first paragraph does not apply to a creditor who temporarily holds a quota in execution of a guarantee, provided he disposes or takes measures to dispose of the quota within a reasonable time.
+1990, c. 13, s. 95.
+Price
+96. A marketing board may, by by-law, establish methods for fixing the price of the product marketed under the plan it administers, or of a class or variety thereof. The price may vary from one region to another.
+1990, c. 13, s. 96.
+Obligations of producers
+97. A marketing board may, by by-law,
+1) require any producer of the product marketed under the plan it administers to register his operation in the manner and in accordance with the terms and conditions it prescribes;
+2) determine the information and documents that the producers of the product marketed under the plan it administers must keep and furnish for the purposes of the plan and the by-laws made under this chapter.
+1990, c. 13, s. 97.
+Joint offer of sale
+98. A marketing board may, with regard to the product subject to the plan it implements, make by-laws to
+1) establish a procedure of joint offer for sale permitting producers to receive, after deduction of all or part of the marketing costs determined by the board, the same price for an identical product of equal quality and in the same quantity marketed during a particular period on a particular market, independently of the variation in the sales price due to reasons unconnected with the actual value of the product;
+2) determine the method and conditions according to which a product may be marketed and offered for sale jointly;
+3) determine the standards for the fixing and payment of the sales price; these standards may provide for the fixing of a provisional price before sale and a final price after sale;
+4) determine the terms and conditions of payment of the sales price applicable to all buyers; these standards may provide for the payment of an initial instalment on delivery and subsequent instalments at intervals determined by the marketing board;
+5) determine the terms and conditions of apportionment among the producers of the net profit from the sale of the product or a particular class of it;
+6) require every buyer to pay the price of the product to the marketing board or to the sales agent designated for its apportionment among the producers;
+7) require every producer to sell the product to or through the board or designated sales agent;
+8) retain, out of the sales price, the amounts necessary for marketing the product, together with any other contribution imposed under this Title;
+9) determine what constitutes the net profit on sales for the purposes of this section.
+1990, c. 13, s. 98.
+Transport costs
+99. A board may, by by-law, establish a procedure to apportion and pool the transport costs of the product so each producer, or each producer in a group determined in the by-law, pays the same price for the transport of his product, in equal quantity, independently of the distance between the production site and the place of delivery.
+1990, c. 13, s. 99.
+[20] The cross-examination of Mr. Rivière also revealed that, therefore, the purpose of these contributions is to help fund the SPBG's activities through the marketing of wood. Thus, they constitute a financing method, not remuneration. The payment is mandatory for all producers, and the SPBG can sue any producer that does not pay.
+[21] The SPBG's financial statements were tendered in evidence. They contain no item for "fees" or "commissions".
+[22] The issue, then, is whether the SPBG must collect GST on the services that it renders to Gaspé Peninsula wood producers, under section 177 of the Act.
+[23] Counsel for the Appellant submits that all the conditions that must be fulfilled in order for subsection 177(1) of the Act to apply have been met, and that, accordingly, the Appellant is not required to collect GST on the levies that it makes for the services offered to the 900 non-registrant wood producers. Subsection 177(1) reads as follows:
+AGENTS
+Supply on behalf of person not required to collect tax
+177. (1) Where
+(a) a person (in this subsection referred to as the "principal") makes a supply (other than an exempt or zero-rated supply) of tangible personal property to a recipient (otherwise than by auction),
+(b) the principal is not required to collect tax in respect of the supply except as provided in this subsection, and
+(c) a registrant (in this subsection referred to as the “agent”), in the course of a commercial activity of the agent, acts as agent in making the supply on behalf of the principal,
+the following rules apply:
+(d) where the principal is a registrant and the property was last used, or acquired for consumption or use, by the principal in an endeavour of the principal, within the meaning of subsection 141.01(1), and the principal and agent jointly elect in writing, the supply of the property to the recipient is deemed to be a taxable supply for the following purposes:
+(i) all purposes of this Part, other than determining whether the principal may claim an input tax credit in respect of property or services acquired or imported by the principal for consumption or use in making the supply to the recipient, and
+(ii) the purpose of determining whether the principal may claim an input tax credit in respect of services supplied by the agent relating to the supply of the property to the recipient, and
+(e) in any other case, the supply of the property to the recipient is deemed, for the purposes of this Part, to be a taxable supply made by the agent and not by the principal and the agent is deemed, for the purposes of this Part other than section 180, not to have made a supply to the principal of services relating to the supply of the property to the recipient.
+[Emphasis added.]
+[24] Thus, counsel for the Appellant submits that it is the producers' agent (mandatary) for the purpose of marketing. He submits that, regardless of whether the contributions that the SPBG takes from the amounts payable to producers are described as commissions or remuneration, the Act requires only that services be involved. Consequently, he asserts that the SPBG provides services to the producers, and that those services are associated with the supply of wood. And since the statutory conditions have been met, he submits that the presumption provided for in paragraph 177(1)(b) applies, with the result that the services rendered to the producers are not taxable and the SPBG does not have to collect the tax from the 900 wood producers because they are not registrants.
+[25] In support of these submissions, counsel for the Appellant asserts that the conditions specified in articles 2130 et seq. of the Civil Code of Québec have been met. He argues that a mandate is clearly established because section 65 of ARMAFFP provides that the SPBG is the producers' negotiating agent as well as the sales agent. As to whether services are being provided, counsel for the Appellant submits that the SPBG's mission is to market wood, and that this includes a multitude of services offered by the SPBG to wood producers. Those services are not free, and are tied to the supply of wood; if it were not for these considerations, there would be no services.
+[26] Lastly, counsel for the Appellant submits that Parliament cannot have intended to claim GST payments from these 900 producers because they do not have to collect GST themselves. In his submission, Parliament intended to make small suppliers' transactions tax-free, and it is implausible that Parliament would want to tax such suppliers because they are doing business with an agent (mandatary).
+[27] For his part, counsel for the Respondent submits that the SPBG is not a seller of wood, but, rather, an economic regulator, in the form of a board, responsible for the marketing of agricultural products. Moreover, he submits that the SPBG also offers an integrated marketing service, not simply a wood selling service, which it would have to be offering for subsection 177(1) of the Act to apply.
+[28] The Respondent further submits that the SPBG is not an agent (mandatary). Sections 92 et seq. of ARMAFFP grant the SPBG powers far more extensive than those of a mere mandatary. The SPBG even has more rights than the principal (mandator) because it can, among other things, require the principal to sell specific quantities of wood. The Respondent submits that Parliament intended subsection 177(1) of the Act to apply to cases where a principal, or mandator, pays commissions to an agent, or mandatary, to supply goods. In the case at bar, the amounts paid are not commissions, because the SPBG is a non‑profit organization that reports no commission income, and whose financial statements show no item for commissions or remuneration. In denying that an agency (mandate) relationship exists, counsel for the Respondent adds that the marketing service is not a service performed by a mandatary, because the service is rendered even when the SPBG is not acting as a mandatary.
+[29] Lastly, the Respondent notes that the levies and contributions are not made for services provided by the SPBG. They are statutory, and are used to fund the SPBG's activities, since, under section 125 of ARMAFFP, they can be calculated not only on the basis of production volume, but several other criteria as well. As to the question of transportation costs, counsel for the Respondent submits that they are not supply services, because they are provided for by section 8 of ARMAFFP and are made compulsory by regulation.
+[30] Thus, the intent of subsection 177(1) of the Act is to make services rendered under a mandate (agency) relationship tax-free. The most recent technical notes published by the Minister of Finance read as follows:
+[July 10, 1997]: Section 177 deals with supplies made by agents, including auctioneers, on behalf of principals. The existing rules provide for different treatment depending on whether the principal is disclosed or undisclosed and is a registrant or non-registrant. They also set out special rules for auctioneers.
+Amended subsection 177(1) sets out the new rules that apply where an agent, acting in the course of a commercial activity, makes a supply of tangible personal property (other than an exempt or zero-rated supply) otherwise than by auction on behalf of a principal who, but for this subsection, would not be required to collect tax on the supply (i.e., the principal is an unregistered person or did not last acquire or use the property in the course of a commercial activity.)
+Amended subsection 177(1) deems these supplies to be taxable. Tax applies on the full selling price of the property.
+The general case is that the agent is deemed to have made the supply of the property to the recipient and is therefore the one responsible for accounting for the tax. Under this general rule, the agent is deemed not to have made a supply to the principal. As a result, the agent's service supplied to the principal (i.e., the agent's commission) will not be taxable. The supply made by the agent is deemed not to be a supply for the purposes of Part IX of the Act other than section 180, which deals with the situation where a non-resident unregistered person is the legal importer of a good to be sold by an agent on the non-resident's behalf and the non-resident is required to pay tax on the importation. The intention of section 180 is to treat the agent in these cases as having paid the tax the non-resident (i.e., the principal) was required to pay. This would allow the agent to claim an input tax credit for the tax paid by the principal.
+[Emphasis added.]
+[31] Five conditions must be met for subsection 177(1) to apply. The first one, which is in issue here, is that there must be an agency (mandate) relationship. The second is that the principal (mandator) must be a person who is not required to collect the tax. Here, this condition is met because the 900 producers are not registrants within the meaning of the Act. The third condition is that the supply made by the principal (mandator) must be the supply of tangible personal property (corporeal movable property) and must not be an exempt or zero-rated supply. In the case at bar, the 900 producers produce wood, corporeal movable property that is neither exempt nor zero‑rated. The fourth condition is that the agent (mandatary) must be a registrant acting in the course of its commercial activities. Here, the SPBG is a registrant within the meaning of the Act and its commercial activity is the marketing of wood on the Gaspé Peninsula. The last condition is that the agent (mandatary) must make the supply on behalf of the principal (mandator). Thus, in the case at bar, we must determine whether the SPBG makes supplies of wood to recipients on behalf of the 900 non-registrant wood producers.
+[32] Have the first and last conditions been met? Is there a mandator-mandatary relationship between the SPBG and the 900 wood producers, and, in the affirmative, does the SPBG make supplies of wood on behalf of the 900 producers?
+[33] The Act does not define the concept of agency (mandate). However, the Civil Code of Québec provides a definition at article 2130, which reads as follows:
+NATURE AND SCOPE OF MANDATE
+2130. Mandate is a contract by which a person, the mandator, empowers another person, the mandatary, to represent him in the performance of a juridical act with a third person, and the mandatary, by his acceptance, binds himself to exercise the power.
+The power and, where applicable, the writing evidencing it are called the power of attorney.
+[34] The terms of the relationship between the 900 wood producers and the SPBG are set out in ARMAFFP. The Appellant places particular emphasis on section 65 of that statute in support of his position that the wording is very consistent with the mandator-mandatary concept since it identifies the board (the SPBG) as the producers' negotiating agent and as the sales agent for the product marketed under the plan. That provision enables the board to carry out any function pertaining to the production and marketing of the product in order to promote, defend and develop the interests of the producers that are covered by the plan.
+[35] As for the Respondent, she relies on sections 92 et seq. of ARMAFFP with a view to showing that the SPBG's regulatory powers are much more extensive than the powers that a mere mandatary would have. In view of the facts, does the mandatary actually have more power than the mandator?
+[36] In Glengarry Bingo Association v. Canada, [1999] F.C.J. No. 316, the Federal Court of Appeal referred to CRA Policy Statement P-182 as a helpful tool in determining whether an agency relationship exists. Paragraph 32 of the decision reads as follows:
+32 P-182 identifies three essential qualities of agency. These are the consent of both the Principal and Agent, the authority of the Agent to Affect the Principal's Legal Position and the Principal's Control of the Agent's Action. Since I find that GBA did not have the capacity to affect the legal position of its Members, I find it unnecessary to address the other factors which Revenue Canada has indicated are required for a finding of agency.
+[37] With respect to the last essential quality, the policy statement in question adds:
+In a relationship of agency, it should be clear that the principal has a degree of power over the actions of the agent; the agent would be acting as an extension of the principal and, therefore, would be under the principal's general direction and control.
+[38] In light of the foregoing comment, it would, in my opinion, be very difficult for the Appellant to show, on a balance of probabilities, that the mandators (the producers in the instant case) have the kind of power that can be characterized as direction and control over the mandatary (the SPBG).
+[39] Section 1 of the Règlement des producteurs de bois de la Gaspésie sur la mise en marché provides that all the wood covered by the joint plan, i.e. the wood produced by the 900 producers in question, must be marketed under the direction and supervision of the SPBG. That provision reads as follows:
+[TRANSLATION]
+1. With the exception of firewood and lumber or peeler quality hardwood, the wood to which the Plan conjoint des producteurs de bois de la Gaspésie (O.C. 73-88, 88-01-20) [the joint plan] applies shall be marketed under the direction and supervision of [the SPBG].
+[40] Indeed, I must approve to the arguments of counsel for the Respondent, to the effect that the provisions of ARMAFFP, and sections 92 to 98 in particular, grant the SPBG powers that go beyond those that the mandator has, not to mention powers more extensive than those of a mere mandatary.
+[41] Along the same lines, one must ask whether it is the producers that grant the SPBG the power to represent them in selling their wood, or whether, in fact, it is ARMAFFP and the regulations that empower the SPBG to act.
+[42] The Quebec Court of Appeal decided a similar question in Maltais v. Corporation du Parc régional du Mont Grand-Fonds Inc., REJB 2002‑30662 (CA). The question was whether the Commission des normes du travail [Quebec's labour standards commission] was acting as the employee's mandatary. The Court ruled on the issue in the following terms:
+[TRANSLATION]
+16 Based on this definition, I find it hard to characterize the relationship between the Appellant and the Commission as a mandate. Indeed, the Commission does not derive its authority to sue Grand-Fonds from the Appellant's intent, but, rather, from the provisions of the Act respecting labour standards . . . . This provision grants the Commission the power to "institute in its own name and on behalf of an employee, where such is the case, proceedings to recover amounts due by the employer . . . notwithstanding any . . . opposition or any express or implied waiver by the employee."
+17 In the case at bar, it is not from the Appellant, but indeed from the Act, that the Commission derives its authority to act on behalf of the Appellant.
+[Emphasis added.]
+[43] Here, the SPBG is a lot more than a mere seller of wood on behalf of a producer. The statutory provisions combine to create a much broader context, which includes "marketing" as defined by section 2 of the regulation.
+[44] In my view, the SPBG cannot be considered a mandatary of the producers because it is not subject to their direction and control, but, rather, must act in compliance with ARMAFFP and the regulations thereunder.
+[45] Although my ruling disposes of the instant appeal, I must add that the fifth condition precedent to the application of subsection 177(1), namely that the Appellant is required to make the supply on behalf of the wood producers, is not met in the case at bar.
+[46] Contrary to the argument made by counsel for the Appellant, subsection 177(1) only encompasses cases where a person makes a supply of tangible personal property (corporeal movable property). In my view, it does not provide that these terms also include everything related to the production of the supply. In view of the evidence as a whole, and the legislative provisions, the SPBG makes no supplies; rather, it acts as a regulatory board.
+[47] The amounts deducted from the proceeds of sale of wood for the producers are deducted in accordance with the statutes, regulations and by-laws governing forestry activities in the region. The following amounts are deducted:
+· The transportation costs withheld from the gross selling price of the wood are considered marketing costs under section 3 of ARMAFFP.
+· The amounts called "prélevés" (levies) are statutory, and are set out in section 2 of the Règlement sur la contribution des producteurs de bois de la Gaspésie pour l’administration du plan conjoint and section 2 of the Règlement sur le fonds forestier des producteurs de bois de la Gaspésie.
+· The costs related to the agency's administration and the exclusive agent are set out in section 12 et seq. of the Règlement sur la mise en marché des produits agricoles, alimentaires et de la pêche.
+[48] In my view, these costs result from services that cannot be considered the supply of tangible personal property, because all the services are prescribed by regulations aimed at regularizing and facilitating the coordination of the production and sale of wood on the Gaspé Peninsula. The services offered by the SPBG have already been itemized. In view of the foregoing, they cannot be included in subsection 177(1), and are therefore subject to the GST.
+[49] For these reasons, the appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 4th day of April 2008.
+"François Angers"
+Angers J.
+Translation certified true
+on this 12th day of May 2009.
+François Brunet, Reviser
+CITATION: 2008TCC99
+COURT FILE NO.: 2006-1214(GST)G
+STYLE OF CAUSE: Le Syndicat des Producteurs de Bois de la Gaspésie and Her Majesty the Queen
+PLACE OF HEARING: New Carlisle, Quebec
+DATE OF HEARING: May 5, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: April 4, 2008
+APPEARANCES:
+Counsel for the Appellant:
+André A. Lévesque
+Counsel for the Respondent:
+Michel Morel
+COUNSEL OF RECORD:
+For the Appellant:
+Name: André A. Lévesque
+Firm: St-Onge, Assels
+New Carlisle, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

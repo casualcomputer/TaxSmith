@@ -1,0 +1,147 @@
+---
+title: "Kotylak v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26143/index.do"
+last_modified: "2004-09-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 600"
+citation2: ""
+neutral_citation: "2004 TCC 600"
+decision_date: "2004-09-10"
+language: "en"
+item_id: "26143"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4138
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:03:38.665000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3521c01a2bf1b55b0d3bfcb69151cca6967c03b94860078edb10455beb74dfac"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kotylak v. The Queen
+
+- Citation: 2004 TCC 600
+- Decision date: 2004-09-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4138, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kotylak v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-10
+Neutral citation
+2004 TCC 600
+File numbers
+2004-578(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-578(IT)I
+BETWEEN:
+DONALD KOTYLAK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 23, 2004 at Whitehorse, Yukon Territory
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Raj Grewal
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2002 taxation year is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 10th day of September 2004.
+"L.M. Little"
+Little J.
+Citation: 2004TCC600
+Date: 20040910
+Docket: 2004-578(IT)I
+BETWEEN:
+DONALD KOTYLAK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS:
+[1] The Appellant was employed by Northwestern Utilities from January 28, 1992 until August 7, 1998.
+[2] The Appellant maintains that he resigned his position at Northwestern Utilities because of safety reasons.
+[3] On September 17, 1998 the Appellant applied for employment insurance benefits ("EI Benefits"). However, the Appellant's claim for EI Benefits was denied.
+[4] The Appellant appealed the Commission's decision to the Board of Referees which, in a majority decision, dismissed the Appellant's appeal.
+[5] The Appellant appealed the decision of the Board of Referees to Umpire Guy Goulard.
+[6] By a decision dated June 29, 2001 Umpire Goulard held that the majority of the Board of Referees erred in their decision based on the facts. The Umpire found that there was ample evidence to support a finding that the claimant (i.e. the Appellant) had demonstrated just cause for leaving his employment.
+[7] In the 2002 taxation year the Appellant received EI Benefits in the amount of $15,129.00 relating to the claim made for the years prior to the 2002 taxation year.
+[8] When the Appellant filed his income tax return for the 2002 taxation year he allocated the EI Benefits that he received in the 2002 year between the 2002 year and the amounts that were paid to him for earlier years.
+[9] By Notice of Reassessment dated April 7, 2003 the Minister of National Revenue (the "Minister") initially assessed the Appellant's 2002 taxation year to include EI Benefits of $23,550.00 in the computation of his income for the year and to allow $15,129.00 of that amount to be allocated to prior years in the computation of the Appellant's taxable income. The Notice of Assessment also imposed an amount owing in the amount of $1,885.00 re the repayment of social benefits related to the EI Benefits received by the Appellant.
+[10] The Appellant filed a Notice of Objection to the Assessment.
+[11] By Notice of Reassessment dated September 9, 2003 the Minister reassessed the Appellant's 2002 taxation year. The Reassessment had the effect of reallocating the amount of the EI Benefits that were attributable to prior years from $15,129.00 to $14,455.00. As a result of the Reassessment the taxes payable by the Appellant were reduced but the social benefits repayable of $1,885.00 remained unchanged.
+B. ISSUES TO BE DECIDED:
+[12] The issues are:
+(a) Whether the Minister properly included EI Benefits in computing the Appellant's income for the 2002 taxation year;
+(b) Whether the Minister properly allocated the retroactive portion of EI Benefits received by the Appellant in 2002 to the prior years in computing taxable income; and
+(c) Whether the Minister correctly calculated and assessed a repayment of social benefits of $1,885.00 in respect of the EI Benefits received by the Appellant in 2002.
+[13] In this situation the Minister included the amount of $14,455.00 in computing the Appellant's income for the 2002 taxation year by virtue of paragraph 56(1)(v) of the Income Tax Act (the "Act").
+[14] The Minister also deducted the amount of $14,455.00 in computing the Appellant's taxable income pursuant to subsections 110.2(1), 110.2(2) and 120.31(2) of the Act.
+[15] I have concluded that the Minister properly included EI Benefits of $23,550.00 in computing the Appellant's income for the 2002 taxation year under subparagraph 56(1)(a)(iv) of the Act.
+[16] I have concluded that the Minister properly allocated $14,455.00 of retroactive EI Benefits that the Appellant received in 2002 to the 1998 and 1999 taxation years in computing the Appellant's taxable income and taxes payable for the 2002 taxation year, pursuant to subsections 110.2(1), 110.2(2) and 120.31(2) of the Act.
+[17] I have also concluded that pursuant to the provisions of sections 144, 145, 148, 149 and 150 of the Employment Insurance Act the Minister correctly calculated social benefits of $1,885.00 respecting the EI Benefits that he received in 2002.
+[18] The appeal is dismissed, without costs.
+Signed at Vancouver, British Columbia, this 10th day of September 2004.
+"L.M. Little"
+Little J.
+CITATION:
+2004TCC600
+COURT FILE NO.:
+2004-578(IT)I
+STYLE OF CAUSE:
+Donald Kotylak and
+Her Majesty the Queen
+PLACE OF HEARING:
+Whitehorse, Yukon Territory
+DATE OF HEARING:
+August 23, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+September 10, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Raj Grewal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,218 @@
+Title: Eagle Canyon Adventures c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28911/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-563-28911-eagle-canyon-adventures-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-10-06
+
+# Eagle Canyon Adventures c. M.R.N.
+
+- Citation: 2008 CCI 563
+- Decision date: 2008-10-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1419, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Eagle Canyon Adventures c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-10-06
+Référence neutre
+2008 CCI 563
+Numéro de dossier
+2006-2688(EI)
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2006-2688(EI)
+2007-2939(EI)
+ENTRE :
+EAGLE CANYON ADVENTURES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Cindy Hamel, 2006-2689(EI) et 2007-3712(EI),
+le 1er mai 2008, à Thunder Bay (Ontario).
+Devant : L’honorable juge M.A. Mogan
+Comparutions :
+Avocat de l’appelante :
+Me John G. Illingworth
+Avocate de l’intimé :
+Me Melissa Danish
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés conformément au paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») sont accueillis et les décisions que le ministre du Revenu national a prises par suite des appels interjetés devant lui en vertu de l’article 91 de la Loi sont annulées pour le motif que Cindy Hamel exerçait auprès de l’appelante un emploi assurable au sens de l’alinéa 5(1)a) de la Loi pour les périodes allant du 11 juillet au 31 décembre 2005 et du 3 juillet au 29 décembre 2006.
+Signé à Ottawa, Canada, ce 6e jour d’octobre 2008.
+« M.A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+ce 18e jour de novembre 2008.
+S. Tasset
+Dossiers : 2006-2689(EI)
+2007-3712(EI)
+ENTRE :
+CINDY HAMEL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels
+d’Eagle Canyon Adventures Inc., 2006-2688(EI) et 2007-2939(EI),
+le 1er mai 2008, à Thunder Bay (Ontario).
+Devant : L’honorable juge M.A. Mogan
+Comparutions :
+Avocat de l’appelante :
+Me John G. Illingworth
+Avocate de l’intimé :
+Me Melissa Danish
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés conformément au paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») sont accueillis et les décisions que le ministre du Revenu national a prises par suite des appels interjetés devant lui en vertu de l’article 91 de la Loi sont annulées pour le motif que l’appelante exerçait auprès d’Eagle Canyon Adventures Inc. un emploi assurable au sens de l’alinéa 5(1)a) de la Loi pour les périodes allant du 11 juillet au 31 décembre 2005 et du 3 juillet au 29 décembre 2006.
+Signé à Ottawa, Canada, ce 6e jour d’octobre 2008.
+« M.A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+ce 18e jour de novembre 2008.
+S. Tasset
+Référence : 2008 CCI 563
+Date : 20081006
+Dossiers : 2006-2688(EI), 2007-2939(EI)
+2006-2689(EI), 2007-3712(EI)
+ENTRE :
+EAGLE CANYON ADVENTURES INC.
+et CINDY HAMEL,
+appelantes,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Mogan
+[1] Les appels intitulés Eagle Canyon Adventures Inc. c. Ministre du Revenu national (dossiers du greffe 2006‑2688(EI) et 2007‑2939(EI)) et Cindy Hamel c. Ministre du Revenu national (dossiers du greffe 2006‑2689(EI) et 2007‑3712(EI)) ont été entendus ensemble sur preuve commune. Au cours de chacune des années 2004, 2005 et 2006, Cindy Hamel (« Cindy ») a exercé un emploi, pendant environ six mois, auprès d’Eagle Canyon Adventures Inc. (« ECA »). Lorsqu’elle a été licenciée à la fin du mois de décembre 2005, Cindy a demandé des prestations d’assurance‑emploi (« AE ») en vertu de la Loi sur l’assurance‑emploi (la « Loi »). Ces prestations lui ont été refusées parce qu’elle avait un lien de dépendance avec ECA.
+[2] Il en a été de même lorsque Cindy a été licenciée à la fin du mois de décembre 2006. Les prestations d’AE lui ont encore une fois été refusées pour la même raison. Le ministre du Revenu national (le « ministre ») a conclu que Cindy n’avait pas droit aux prestations d’AE pour l’emploi exercé en 2005 et en 2006 parce que le contrat de travail qu’elle avait conclu avec ECA au cours des périodes pertinentes aurait été différent si elle n’avait pas eu de lien de dépendance avec l’employeur. Cindy a interjeté appel des décisions prises par le ministre. ECA a également interjeté appel de ces décisions; ECA sollicite une ordonnance portant que l’emploi de Cindy est considéré comme un emploi assurable au sens du paragraphe 5(1) de la Loi. Les périodes d’emploi pertinentes vont du 11 juillet au 31 décembre 2005 et du 3 juillet au 29 décembre 2006.
+[3] Les dispositions pertinentes de la Loi sont les suivantes :
+5(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+5(2) N’est pas un emploi assurable :
+a) [...]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+5(3) Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[4] En l’espèce, les appelantes admettent que, pendant les périodes pertinentes, Cindy et ECA avaient entre elles un lien de dépendance. Toutefois, elles affirment qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, que Cindy et ECA auraient conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance. En particulier, les appelantes invoquent les quatre critères énoncés à l’alinéa 5(3)b) de la Loi :
+— la rétribution versée;
+— les modalités d’emploi;
+— la durée du travail accompli;
+— la nature et l’importance du travail accompli.
+[5] En ce qui concerne l’alinéa 5(3)b) de la Loi, si le ministre décide qu’il n’est pas raisonnable de conclure, compte tenu de toutes les circonstances, que les parties auraient conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance, un appel interjeté d’une telle décision devant la présente cour est assimilable à une demande de contrôle judiciaire. Au cours des 15 dernières années, la Cour d’appel fédérale a tranché un certain nombre d’affaires dans lesquelles elle a interprété et appliqué l’alinéa 5(3)b) de la Loi et la disposition qui s’appliquait antérieurement (sous‑alinéa 3(2)c)(ii)). Voir, par exemple, Tignish Auto Parts Inc. v. M.N.R. (1994), 185 N.R. 73, Ferme Emile Richard & Fils Inc. v. M.N.R. (1994), 178 N.R. 361, et M.R.N. c. Jencan Ltd., [1998] 1 C.F. 187. Dans ces arrêts, l’existence d’un certain pouvoir discrétionnaire, aux fins de la décision du ministre, a été reconnue.
+[6] Selon les trois arrêts précités, un appel de la décision du ministre interjeté devant la présente cour en vertu de l’alinéa 5(3)b) comporte un processus à deux étapes. Si la Cour décide que le ministre a correctement exercé son pouvoir discrétionnaire, aucun autre examen n’est nécessaire et l’appel est rejeté. Toutefois, si la Cour décide que le ministre n’a pas correctement exercé son pouvoir discrétionnaire, l’audience devient un nouveau procès visant à permettre de décider si le contrat de travail en question aurait été conclu en l’absence d’un lien de dépendance entre l’employeur et l’employé. Dans bien des cas, la preuve qui permettait à la Cour de conclure que le ministre n’avait pas correctement exercé son pouvoir discrétionnaire était la même que celle qui justifiait l’annulation de la décision du ministre et l’octroi de l’appel.
+[7] Dans deux arrêts subséquents, la Cour d’appel fédérale semble avoir modifié la position qu’elle avait adoptée au sujet de l’alinéa 5(3)b). Dans l’arrêt Légaré c. M.R.N., 1999 CanLII 8105, le juge Marceau, au nom de la cour, a dit ce qui suit au paragraphe 4 :
+4 La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L’expression utilisée introduit une sorte d’élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu’il s’agit sans doute d’un pouvoir dont l’exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n’est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l’impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n’est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c’est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était ‘convaincu’ paraît toujours raisonnable.
+[Je souligne.]
+Et en outre au paragraphe 12 :
+12 […] L’exclusion des emplois entre personnes liées au niveau de la Loi sur l’assurance-chômage repose évidemment sur l’idée qu’on peut difficilement se fier aux affirmations des intéressés et que la possibilité d’emplois fictifs, aux conditions farfelues, est trop présente entre personnes pouvant si facilement agir de connivence. Et l’exception de 1990 a simplement voulu diminuer la portée de la présomption de fait en acceptant d’exclure de la sanction (ce qui n’était que justice) les cas où la crainte d’abus n’avait plus raison d’être. [...] Ce sont sur les éléments essentiels du contrat de louage de services qu’il faut s’attarder pour se convaincre que l’existence du lien de dépendance entre les contractants n’a pas eu sur la détermination des conditions de l’emploi une influence abusive. […]
+[8] Dans l’arrêt Pérusse c. M.R.N., 2000 CanLII 15136, le juge Marceau était encore une fois l’un des trois juges entendant l’appel. Au paragraphe 13 de ses motifs, il a décrit la façon dont le juge de première instance avait examiné la question dont il était saisi, à savoir si le ministre avait d’une façon appropriée exercé le pouvoir discrétionnaire que la Loi lui conférait. Au paragraphe 14 de ses motifs, le juge Marceau a dit ce qui suit :
+14 En fait, le juge agissait dans le sens que plusieurs décisions antérieures pouvaient paraître prescrire. Mais cette Cour, dans une décision récente, s’est employée à rejeter cette approche, et je me permets de citer ce que j’écrivais alors à cet égard dans les motifs soumis au nom de la Cour. [...]
+Le juge Marceau a alors cité le paragraphe 4 précité des motifs qu’il avait rendus dans l’arrêt Légaré. Cet énoncé, au paragraphe 14 de l’arrêt Pérusse, m’amène à penser que, dans l’arrêt Légaré, la cour a rejeté l’approche antérieurement adoptée à l’égard du pouvoir discrétionnaire ministériel conféré à l’alinéa 5(3)b). Je conclus à l’existence d’une nouvelle approche, en ce qui concerne l’application de l’alinéa 5(3)b) devant la présente cour. Ma conclusion est renforcée par ce que le juge Marceau a dit au paragraphe 15 de l’arrêt Pérusse :
+15 Le rôle du juge d’appel n’est donc pas simplement de se demander si le ministre était fondé de conclure comme il l’a fait face aux données factuelles que les inspecteurs de la commission avaient pu recueillir et à l’interprétation que lui ou ses officiers pouvaient leur donner. Le rôle du juge est de s’enquérir de tous les faits auprès des parties et des témoins appelés pour la première fois à s’expliquer sous serment et de se demander si la conclusion du ministre, sous l’éclairage nouveau, paraît toujours "raisonnable" (le mot du législateur). La Loi prescrit au juge une certaine déférence à l’égard de l’appréciation initiale du ministre et lui prescrit, comme je disais, de ne pas purement et simplement substituer sa propre opinion à celle du ministre lorsqu’il n’y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus. Mais parler de discrétion du ministre sans plus porte à faux.
+[Je souligne.]
+Le juge Décary souscrivait à l’avis du juge Marceau dans l’arrêt Pérusse. La juge Desjardins était dissidente sur un point se rapportant à la Charte des droits et libertés.
+[9] La conclusion que j’ai tirée, à savoir qu’il existe une nouvelle approche à l’application de l’alinéa 5(3)b), est en outre renforcée par la décision que mon collègue le juge Bowie a rendue dans l’affaire Birkland c. M.R.N., [2005] A.C.I. no 195. Voir le paragraphe 4 des motifs rendus dans l’affaire Birkland. Selon mon interprétation de la nouvelle approche, le juge du procès est tenu de se prononcer, compte tenu de la preuve, sur le caractère raisonnable de la conclusion tirée par le ministre si celui‑ci avait eu à sa disposition tous les éléments de preuve soumis à la Cour.
+[10] En me fondant sur les décisions rendues dans les affaires Légaré et Pérusse, j’examinerai la preuve qui a été soumise dans les présents appels. Cindy affirme avoir exercé un emploi auprès d’ECA du 11 juillet au 31 décembre 2005 et du 3 juillet au 29 décembre 2006. Cindy et ECA admettent toutes deux qu’il existe entre elles un lien de dépendance. L’intimé admet que Cindy exerçait de fait un emploi auprès d’ECA au cours des périodes en question. La seule question à trancher est donc de savoir si l’emploi que Cindy exerçait auprès d’ECA en 2005 et en 2006 était un « emploi exclu » par suite de la décision rendue par le ministre en vertu de l’alinéa 5(3)b) de la Loi.
+[11] Eagle Canyon Adventures exploite une attraction touristique et un terrain de camping dans le nord‑ouest de l’Ontario, à environ 70 kilomètres à l’est de Thunder Bay, sur la Transcanadienne, à environ six kilomètres au nord de cette route. L’entreprise a été lancée sur une base saisonnière par Harvey Hamel, qui réside depuis longtemps dans le nord de l’Ontario. M. Hamel est né en 1939. En 1980, il s’occupait d’exploitation forestière. En 1985, il a constitué son entreprise forestière en personne morale et il a retenu les services de Terrence Jewett, expert‑comptable, afin d’organiser ses documents financiers et sa tenue de livres. M. Hamel est un client du cabinet de M. Jewett depuis 25 ans.
+[12] Vers 1980, M. Hamel a acheté, en tant que terre à bois, le bien‑fonds sur lequel l’entreprise d’Eagle Canyon Adventures est maintenant installée. Il a récolté les grumes, mais il est demeuré propriétaire du bien‑fonds parce qu’il se rendait compte qu’un canyon spectaculaire y était situé. M. Hamel a poursuivi son entreprise forestière jusqu’en l’an 2000, et il l’a alors vendue parce que les terres à bois coûtaient trop cher. De plus, il voulait consacrer son temps à la mise en valeur d’une attraction touristique, à Eagle Canyon. En 2001, il a construit une passerelle suspendue (de 300 pieds de long) au‑dessus du canyon et, en 2004, il a construit une seconde passerelle suspendue (de 600 pieds de long) au‑dessus d’un secteur du canyon qui était plus large. La passerelle la plus longue surplombe le lac à une hauteur de 155 pieds, et il s’agit de la passerelle suspendue la plus longue au Canada.
+[13] Eagle Canyon Adventures Inc. (« ECA ») a été constituée en personne morale le 24 octobre 2002 et l’attraction touristique a commencé à être exploitée en 2003. ECA exploite un dépanneur sur les lieux; elle entretient plus de cinq kilomètres de sentiers forestiers en gravier; il y a 30 emplacements pour V.R. munis de tous les services. Il y a également des emplacements pour les tentes et des toilettes complètement aménagées, avec douches à eau chaude et installations de lavage. Une brochure décrivant l’entreprise d’ECA, avec des photographies en couleur, a été produite sous la cote A‑11. Il ressort de la brochure que les deux passerelles suspendues constituent un élément de l’attraction touristique. Selon la brochure, le centre de villégiature [traduction] « est ouvert à l’année, tous les jours, de 9 à 21 h », mais en hiver il n’est ouvert que pour l’escalade sur glace.
+[14] M. Hamel a présenté un long témoignage lors de l’audition des appels. Il a déclaré que, pour une année donnée, les dates d’ouverture et de fermeture du centre de villégiature d’ECA dépendaient principalement du temps qu’il faisait. Lorsque les conditions étaient favorables, le centre pouvait être exploité de la mi‑mars à la mi‑novembre. Lorsque les présents appels ont été entendus à Thunder Bay, le 1er mai 2008, le centre n’était pas encore ouvert pour l’année 2008 parce que l’hiver avait duré longtemps et que le printemps avait tardé à se manifester. M. Hamel a parlé d’une année au cours de laquelle plusieurs journées chaudes, au mois de mars, avaient permis d’ouvrir le centre le 15 mars. Les mois de juillet et d’août, lorsque les familles peuvent voyager ensemble, sont les deux mois de grande activité pour l’entreprise d’ECA.
+[15] Au cours de la première année d’exploitation de l’entreprise d’ECA, en 2003, M. Hamel n’avait pas d’aide‑comptable à son emploi; il préparait lui‑même la paie et s’occupait de ses propres documents financiers. Son fils, Jimmy Hamel, était son employé le plus important. En fait, Jimmy Hamel est un neveu de Harvey Hamel, le fondateur d’ECA. Harvey ne s’est jamais marié, mais il a adopté son neveu, Jimmy, lorsque celui‑ci était adolescent. Depuis lors, Harvey et Jimmy ont une véritable relation père‑fils.
+[16] En 2001 et en 2002, Jimmy travaillait (sans être rémunéré) pour Harvey à préparer les terrains de camping pour l’ouverture du centre de villégiature d’ECA. Afin de mener le projet à bonne fin, Harvey a emprunté, en 2002, un montant de 160 000 $ de la Banque de développement. De plus, Jimmy avait hérité d’un montant de 40 000 $ de son grand‑père en 2002, montant qu’il a prêté à Harvey afin de l’aider dans son projet concernant ECA. Étant donné que Jimmy a travaillé sans être rémunéré en 2001 et en 2002, Harvey estime devoir 50 000 $ à celui‑ci (25 000 $ par année) en arrérages de salaire. Harvey a déclaré que, selon lui, l’entreprise d’ECA doit 90 000 $ à Jimmy, représentant le prêt de 40 000 $ consenti par Jimmy et le salaire de 50 000 $ impayé.
+[17] Lorsqu’ECA a été constituée en personne morale en 2002, les actions ont été réparties, dans une proportion de 85 et de 15 p. 100 respectivement, entre Harvey et Jimmy, qui avait alors 28 ans. Jimmy avait travaillé pour Harvey dans son entreprise forestière avant l’an 2000. Harvey et Jimmy sont les seuls administrateurs d’ECA et chacun est signataire autorisé auprès de la banque. En ce qui concerne la répartition générale du travail, Harvey s’occupe du travail à l’extérieur, alors que Jimmy travaille à la réception pour accueillir les clients et décrire les installations. Toutefois, le travail n’est pas réparti d’une façon fixe. Harvey s’occupe de la paie et acquitte la plupart des factures, alors que Jimmy travaille à l’intérieur ou à l’extérieur, selon les besoins.
+[18] En 2001, Harvey et Jimmy se sont rendus à Smooth Rock Falls (Ontario) pour visiter le frère de Harvey. Pendant qu’ils étaient à Smooth Rock Falls, Jimmy a rencontré Cindy Miller. Ils se donnaient rendez‑vous et sont tombés amoureux l’un de l’autre. Jimmy et Cindy ont commencé à vivre ensemble au mois d’août 2001. Ils ont un fils qui est né au mois de décembre 2002. Étant donné que Harvey et Jimmy déménageaient à Dorion (une petite ville située près d’Eagle Canyon) à l’automne 2001, Jimmy voulait que Cindy s’installe à cet endroit avec lui. Harvey se sentait mal à l’aise devant cette nouvelle relation entre Jimmy et Cindy, de sorte qu’il a insisté pour qu’ils concluent un contrat familial avant que Cindy s’installe dans la maison, à Dorion.
+[19] Un contrat familial entre Jimmy Hamel et Cindy Miller, daté du 16 novembre 2001, mais signé le 18 décembre 2001, a été produit sous la cote A‑3. Jimmy et Cindy se sont par la suite mariés le 24 août 2005. Une photocopie du certificat de mariage a été produite sous la cote A‑4. Harvey a déclaré avoir toujours eu de bonnes relations père‑fils avec Jimmy – de meilleures relations que celles qu’entretenaient certains pères « naturels » – mais les relations qu’il entretenait avec Cindy ont d’abord été peu chaleureuses parce qu’il avait insisté pour que le contrat familial soit conclu.
+[20] À la fin de présent paragraphe figure un tableau indiquant les recettes, dépenses et bénéfices (pertes) d’ECA au cours des cinq premières années d’activité, de 2003 à 2007. En 2003, ECA a subi une perte de 49 000 $, les recettes s’élevant à 89 000 $. En 2004, ECA a subi une perte similaire de 47 000 $, les recettes s’élevant à 195 500 $. Lorsque l’entreprise a été lancée, Harvey s’occupait de tous les documents financiers : il préparait la paie, il enregistrait toutes les recettes et il payait toutes les dépenses. Il émettait les chèques en se fondant sur les factures qu’il rassemblait dans une boîte. Lorsque les recettes et dépenses ont doublé au cours de la deuxième année d’activité, il n’était plus pratique pour Harvey de faire ou de superviser le travail effectué à l’extérieur et de tenir également les livres.
+Eagle Canyon Adventures Inc.
+2003
+2004
+2005
+2006
+2007
+Recettes
+89 874
+195 164
+235 677
+265 607
+292 151
+Dépenses
+139 710
+242 612
+216 795
+227 641
+238 959
+Bénéfices (pertes)
+avant amortissement
+(49 836)
+(47 448)
+18 882
+37 966
+53 192
+[21] Après la première année, M. Jewett a informé Harvey que l’émission de chèques à partir d’une liasse de documents rassemblés dans une boîte n’était pas une façon adéquate d’enregistrer les dépenses d’une entreprise dont le chiffre d’affaires brut annuel s’élevait à plus de 100 000 $. L’entreprise avait besoin d’une personne qui avait de l’expérience en matière de tenue de livres. Or, Cindy Hamel possédait ce genre d’expérience. Le curriculum vitae de Cindy, en 2001, a été produit sous la cote A‑5, et son curriculum vitae, en 2006, a été produit sous la cote A‑6. En 1992, Cindy avait obtenu son diplôme d’études secondaires de l’Ontario de l’école secondaire de Kapuskasing; elle avait notamment obtenu des crédits de 13e année en comptabilité, en calcul différentiel et intégral et en mathématiques des grandeurs finies. En 1995, elle avait terminé ses études au Northern College of Applied Arts and Technology (à Timmins (Ontario)) et obtenu un diplôme bilingue de trois ans avec spécialisation en administration des affaires et comptabilité.
+[22] Du mois de mai 1995 au mois de juin 2000, Cindy avait travaillé pour une société, à Timmins; elle s’occupait des comptes créditeurs, des comptes débiteurs, du recouvrement, des opérations bancaires, de la tenue de livres informatisée et des rapports mensuels. Il s’agissait d’une expérience pratique interne en matière de comptabilité et de tenue de livres. Du mois d’avril au mois d’août 2001, Cindy a travaillé pour les Services correctionnels de l’Ontario; au cours des trois derniers mois, elle gagnait 18,36 $ l’heure. Après s’être installée à Dorion, au mois de décembre 2001, pour vivre avec Jimmy, Cindy a obtenu un emploi à Thunder Bay, du mois d’avril au mois de novembre 2002, à titre de commis de bureau général, au taux de 20,81 $ l’heure. Son premier enfant est né au mois de décembre 2002.
+[23] Lorsque son fils a eu un an, Cindy a laissé, en 2003, son curriculum vitae dans des bureaux, à Thunder Bay, où elle aurait pu trouver un emploi. Elle a laissé un curriculum vitae au bureau de M. Jewett, qu’elle avait rencontré en sa qualité de comptable de Harvey. Au début de la deuxième saison d’exploitation de l’entreprise d’ECA, au printemps 2004, M. Jewett a recommandé à Harvey d’embaucher Cindy comme aide‑comptable parce qu’il y avait trop de travail à rattraper étant donné que les documents financiers de l’année 2003 étaient éparpillés. Harvey a accepté la recommandation de M. Jewett et a embauché Cindy comme employée d’ECA au mois de mars 2004.
+[24] Lorsque Cindy a commencé à travailler pour ECA, M. Jewett a conseillé à Harvey de lui verser 18 $ l’heure, plus 75 cents pour la paie de vacances. C’est ainsi que le taux a été fixé à 18,75 $ l’heure. M. Jewett a témoigné lors de l’audition des présents appels; il a déclaré que les compétences de Cindy en matière de tenue de livres étaient précieuses pour l’entreprise d’ECA. Il y avait peu d’autres personnes possédant les mêmes compétences que Cindy à l’endroit où ECA exploitait son entreprise et dans les environs. M. Jewett a en outre déclaré que si Cindy quittait son emploi auprès d’ECA, il recommanderait à Harvey de trouver une autre personne possédant les mêmes compétences que Cindy en matière de tenue de livres et de l’embaucher.
+[25] M. Jewett a travaillé avec Cindy au printemps 2004 en vue de constituer une série de livres et de registres financiers de base pour l’entreprise d’ECA. Le premier défi à relever consistait à rassembler des documents adéquats pour l’année 2003, de façon que des états financiers et des déclarations de revenus puissent être produits en 2004. C’est pourquoi Cindy a commencé à travailler au mois de mars 2004, même si l’entreprise saisonnière n’avait pas encore commencé ses activités pour l’année 2004. M. Jewett se rendait au bureau d’ECA et travaillait avec Cindy afin de mettre sur pied le système informatique pour le codage et l’enregistrement de toutes les opérations commerciales. Une fois le nouveau système mis sur pied et en exploitation, Cindy rencontrait Harvey plusieurs fois par jour.
+[26] L’entreprise saisonnière d’ECA est en pleine activité pendant les vacances scolaires (en juillet et en août) lorsque les familles peuvent voyager ensemble. En 2004, Cindy a travaillé du 1er mars à la mi‑septembre seulement parce qu’on avait besoin d’elle afin de mettre sur pied le nouveau système de comptabilité; d’enregistrer toutes les opérations de 2003 dans le nouveau système; de préparer les déclarations de revenus de 2003 pour Harvey et Jimmy; et de tenir les livres pour les deux mois de grande activité, en 2004. De plus, l’entreprise d’ECA n’avait pas les moyens de s’offrir les services de Cindy toute l’année durant. Cindy était rémunérée aux deux semaines.
+[27] En 2005 et en 2006, Cindy a travaillé du début du mois de juillet jusqu’à la fin du mois de décembre. Elle a expliqué que les affaires d’ECA roulaient au ralenti avant le 1er juillet, et qu’en juillet et en août, elle pouvait facilement enregistrer toutes les opérations antérieures au 1er juillet ainsi que toutes les opérations conclues au cours de ces deux mois de grande activité. Cindy a été contre‑interrogée à fond au sujet de la raison pour laquelle elle travaillait jusqu’à la fin du mois de décembre, alors que les activités saisonnières d’ECA prenaient habituellement fin le 31 octobre. Plus précisément, on a donné à entendre que Cindy accumulait des heures d’« emploi assurable », de façon à pouvoir demander les prestations maximales d’AE lorsqu’elle serait licenciée.
+[28] Cindy a décrit les services qu’elle fournissait aux mois de novembre et de décembre. Elle recevait les factures se rapportant aux marchandises et services fournis à ECA aux mois de septembre et d’octobre; elle prenait des dispositions pour que Harvey acquitte ces factures. Elle préparait les états mensuels pour les mois de septembre, d’octobre et de novembre, et elle effectuait un rapprochement entre les livres d’ECA et les relevés bancaires mensuels. Elle préparait le budget de l’année suivante en se fondant sur les opérations enregistrées pour l’année qui prenait alors fin. Elle rencontrait Harvey afin d’étudier les possibilités de l’année suivante sur le plan de la publicité et elle traitait avec les fournisseurs qui cherchaient à obtenir des commandes pour l’année à venir.
+[29] Les réponses aux avis d’appel révèlent les faits sur lesquels le ministre s’est fondé. L’avocat des appelantes a examiné un grand nombre de ces faits en procédant à l’interrogatoire principal de ses trois témoins : Harvey, Cindy et M. Jewett. J’ai conclu que les trois témoins étaient crédibles, et ce, sans aucune réserve. Un certain nombre de faits sur lesquels le ministre s’était fondé se sont avérés inexacts ou trompeurs lorsque les témoins ont décrit les circonstances en cause.
+[30] Le ministre a supposé que Cindy avait été embauchée [traduction] « afin d’accomplir du travail de bureau » et que ses tâches étaient notamment les suivantes :
+· travail de comptabilité (dépôts, rapprochements bancaires, versements)
+· commande des fournitures, établissement des prix des marchandises
+· correspondance
+· fixation des horaires du personnel
+Lorsqu’elle a témoigné, Cindy a expliqué qu’elle n’avait pas été embauchée à titre de commis de bureau ou de secrétaire afin de s’occuper de la correspondance et d’effectuer les dépôts à la banque. Elle avait été embauchée à cause de son expérience et de ses compétences en matière de comptabilité et de tenue de livres. Ses principales tâches exigeaient les compétences d’une aide‑comptable ayant reçu la formation voulue. Le témoignage de Cindy sur ce point a été corroboré par Harvey, par M. Jewett et par ses propres curriculum vitae (pièces A‑5 et A‑6). Cindy a affirmé avec insistance qu’elle n’établissait pas les horaires du personnel.
+[31] Le ministre s’est fondé sur le fait que [traduction] « la période d’emploi [de Cindy] ne coïncidait pas » avec la période de grande activité d’ECA. Harvey et Cindy ont tous deux déclaré que cela n’était pas vrai. Harvey et Jimmy essayaient d’ouvrir le centre de villégiature dès que le temps le permettait, au printemps, mais la période d’activité réelle ne commençait qu’au cours de la première semaine du mois de juillet. Lorsque Cindy commençait à travailler au début du mois de juillet (le 11 juillet 2005 et le 3 juillet 2006), la période de grande activité venait à peine de commencer et elle pouvait facilement rassembler et enregistrer toutes les opérations pertinentes de la période d’activité antérieure au 1er juillet.
+[32] Le ministre s’est également fondé sur le fait que, lorsque Cindy avait été inscrite dans le livre de paie d’ECA, [traduction] « son mari (Jimmy) avait cessé de toucher sa rémunération, même s’il travaillait encore » pour ECA. Cela n’est pas vrai. Jimmy, en sa qualité d’actionnaire et de copropriétaire de l’entreprise, n’était pas rémunéré régulièrement; il était rémunéré au fur et à mesure qu’il y avait de l’argent. Il n’existait aucun lien délibéré entre les chèques de paie réguliers remis à Cindy aux deux semaines et la rémunération irrégulière de Jimmy, qui dépendait de la disponibilité des fonds d’ECA.
+[33] Je reviens aux quatre critères énoncés à l’alinéa 5(3)b) de la Loi. Premièrement, la rétribution versée à Cindy (18,75 $ l’heure) a été fixée sur la recommandation de M. Jewett, que Harvey a acceptée. Cela était conforme à ce que Cindy avait gagné en 2001 et en 2002 auprès de deux employeurs sans lien de dépendance. Voir les pièces A‑5 et A‑6. Rien ne montrait que cette rémunération ait été artificiellement élevée par rapport à celle de quelque autre employé ou compte tenu des compétences de Cindy. De fait, M. Jewett a déclaré qu’il y avait peu de personnes dans les environs qui possédaient les mêmes compétences que Cindy en matière de tenue de livres.
+[34] Deuxièmement, les modalités d’emploi de Cindy ont été fixées par Harvey et par Cindy en fonction des besoins de l’entreprise d’ECA. Cindy avait commencé à travailler pour ECA au mois de mars 2004, mais cela était attribuable au fait qu’il y avait beaucoup de travail à rattraper pour l’année 2003 (la première année d’exploitation de l’entreprise d’ECA). En 2005 et en 2006, Cindy a pu commencer à travailler au début du mois de juillet parce que le système de tenue de livres était en place et qu’elle pouvait facilement rassembler et enregistrer toutes les opérations pertinentes conclues au début de la saison. Il s’agissait d’une période d’activité peu intense.
+[35] Troisièmement, la durée du travail accompli et, quatrièmement, la nature et l’importance du travail sont les deux derniers critères énoncés à l’alinéa 5(3)b). Sans aucun doute, en 2005 et en 2006, l’entreprise d’ECA avait besoin d’une personne possédant les mêmes compétences que Cindy. Le témoignage indépendant de M. Jewett confirmait la chose. De plus, le sommaire des résultats financiers (pièce A‑10) montrait que les recettes, en 2005 et en 2006, avaient augmenté de plus de 150 p. 100 par rapport aux recettes de 2003 (89 000 $). Voir le tableau figurant ci‑dessus au paragraphe 20. On ne saurait exploiter une entreprise de cette taille d’une façon efficace en rassemblant les factures dans une boîte et en enregistrant les dépenses à l’aide des chèques qui ont été émis. L’entreprise d’ECA étant de nature saisonnière, on n’avait pas les moyens d’avoir recours à un aide‑comptable à plein temps et on n’avait probablement pas besoin d’un aide‑comptable à plein temps. La durée du travail de Cindy (du mois de juillet au mois de décembre) était le temps maximal dont ECA avait besoin pour enregistrer avec exactitude les résultats financiers d’exploitation au cours d’une saison particulière.
+[36] Comme il en a été fait mention ci‑dessus dans les présents motifs, la crédibilité absolue des trois témoins : Harvey Hamel, Cindy Hamel et Terrence Jewett, m’a favorablement impressionné. J’accepte leur témoignage collectif. À mon avis, le ministre, s’il avait eu à sa disposition les éléments de preuve dont j’ai été saisi, n’aurait pas pu raisonnablement tirer la conclusion à laquelle il est arrivé. Eu égard à la preuve, je conclus qu’il est raisonnable de conclure que Cindy Hamel et ECA auraient conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance. Les quatre appels sont accueillis.
+Signé à Ottawa, Canada, ce 6e jour d’octobre 2008.
+« M.A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+ce 18e jour de novembre 2008.
+S. Tasset
+RÉFÉRENCE : 2008 CCI 563
+Nos DES DOSSIERS DE LA COUR : 2006-2688(EI), 2007-2939(EI),
+2006-2689(EI), 2007-3712(EI)
+INTITULÉ : EAGLE CANYON ADVENTURES et
+CINDY HAMEL
+c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Thunder Bay (Ontario)
+DATE DE L’AUDIENCE : Le 1er mai 2008
+MOTIFS DU JUGEMENT : L’honorable juge M.A. Mogan
+DATE DU JUGEMENT : Le 6 octobre 2008
+COMPARUTIONS :
+Avocat des appelantes :
+Me John G. Illingworth
+Avocate de l’intimé :
+Me Melissa Danish
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom : John G. Illingworth
+Cabinet : Illingworth & Illingworth
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

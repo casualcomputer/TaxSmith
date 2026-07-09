@@ -1,0 +1,178 @@
+Title: Shultis v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27261/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-499-27261-shultis-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-09-11
+
+# Shultis v. The Queen
+
+- Citation: 2006 TCC 499
+- Decision date: 2006-09-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 802, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shultis v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-11
+Neutral citation
+2006 TCC 499
+File numbers
+2004-2695(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2695(IT)I
+BETWEEN:
+KENNETH SHULTIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 1, 2006, at Calgary, Alberta
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Matthew Clark
+Counsel for the Respondent:
+Tyler Lord
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2002 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 11th day of September, 2006.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2006TCC499
+Date: 20060911
+Docket: 2004-2695(IT)I
+BETWEEN:
+KENNETH SHULTIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Calgary, Alberta, on September 1, 2006. The Appellant's step-daughter, Barbara Brignall and general practitioner Dr. Fred Moriarty testified for the Appellant. Christopher Waldmann, an officer of the corporation which owns "Renoir", testified for the Respondent.
+[2] The particulars in appeal are described in paragraphs 11 to 13 of the Reply to the Notice of Appeal. They read:
+11. In so reassessing the Appellant for the 2002 taxation year and in so confirming that reassessment, the Minister assumed the same facts as follows:
+(a) the Appellant claimed medical expenses of $65,837.88 consisting of the following amounts:
+Dental costs
+$ 1,783.35
+Prescription Drugs
+1,205.88
+Airgas Canada (Oxygen)
+338.80
+Remington Laser
+673.85
+Renoir
+61,836.00
+Total Medical Expenses
+$65,837.88
+(b) the Appellant was allowed medical expenses as follows:
+Dental costs
+$ 1,783.35
+Prescription Drugs
+1,205.88
+Airgas Canada (Oxygen)
+338.80
+Remington Laser
+673.85
+Renoir
+10,000.00
+Total Medical Expenses
+$14,001.88
+(c) in the Disability Tax Credit Certificate signed on September 3, 2003 by Dr. Moriarty (hereinafter the "T2201"), the doctor has indicated that:
+(i) the Appellant, all or almost all of the time, even with a device cannot walk 50 metres on level ground or takes an inordinate amount of time to do so;
+(ii) the Appellant walks with difficulty even with a cane; and
+(iii) the Appellant has been diagnosed with Coronary Artery Disease with fatigue and Arthritis;
+(d) the Appellant is entitled to claim the disability tax credit (hereinafter the "DTC") in respect of the basic activity of daily living of walking;
+(e) the Appellant is not receiving life-sustaining therapy;
+(f) during the 2002 taxation year, the Appellant and Jean Shultis (the "Spouse") were 87 and 85 years of age;
+(g) the Appellant and the Spouse have been residents of Renoir since December 1, 2001;
+(h) the Appellant and the Spouse reside in unit #313;
+(i) the Appellant and the Spouse's monthly rent in the 2003 year is $4,993.00;
+(j) included in the monthly rent were the following care components:
+Meal preparation & service (does not include the cost of food)
+$445.00
+Meal time monitoring, special diets, supervision
+75.00
+Housekeeping services
+70.00
+Towel and linen services
+70.00
+Transportation to doctor's appointments, Treatments, physiotherapy, etc.
+50.00
+24-hour emergency nursing supervision, blood pressure-monitoring, ongoing resident assessment, etc.
+185.00
+Total care components
+$895.00
+(k) for the 2002 taxation year the Appellant's and the Spouse's total accommodation charges at Renoir were $61,836.00 (hereinafter the "Amount");
+(l) the Appellant was not residing in a nursing home providing full-time care;
+(m) Renoir is a retirement home which provides residential facilities, care services and meals;
+(n) the Appellant receives general nursing care at Renoir;
+(o) the Appellant does not have a mental or physical handicap that requires specialized equipment, facilities or personnel;
+(p) Renoir does not provide specialized equipment, facilities or personnel to meet the needs of a mental or physical handicap;
+(q) care services paid for by the Appellant include the following:
+(i) personal and portable emergency response services;
+(ii) medication and administration;
+(iii) on-site Resident Care Coordinator; and
+(iv) minimum of one R.N. or R.P.N. on duty at all times for emergency response; and
+(r) the following attendant care expenses are deductible as medical expenses, up to a maximum of $10,000.00 for the year:
+(i) health care;
+(ii) meal preparation;
+(iii) housekeeping for the resident's personal living space;
+(iv) laundry services for the resident's personal items;
+(v) transportation driver; and
+(vi) security in secure units.
+B. ISSUES TO BE DECIDED
+12. The issue is whether the Appellant was:
+(a) entitled to claim the Amount paid to Renoir as medical expenses under section 118.2 of the Act; or
+(b) limited to claiming only $10,000.00 of the Amount under section 118.2 of the Act and the DTC of $6,180.00 under section 118.3 of the Act;
+in the computation of his non-refundable tax credits for the 2002 taxation year.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+13. He relies on sections 118.2 and 118.3 of the Act, as amended for the 2002 taxation year.
+[3] None of the assumptions were refuted by the evidence.
+[4] The question is whether the Appellant incurred a medical expense for his care at an institution or other place who required facilities or personnel specially provided by the Renoir for the care of the handicap suffered by the Appellant within the provisions of paragraph 118.2(2)(e) of the Income Tax Act, which reads:
+...
+118.2.(2) Medical expenses
+(2) For the purposes of subsection 118.2(1), a medical expense of an individual is an amount paid
+...
+(e) for the care, or the care and training, at a school, institution or other place of the patient, who has been certified by an appropriately qualified person to be a person who, by reason of a physical or mental handicap, requires the equipment, facilities or personnel specially provided by that school, institution or other place for the care, or the care and training, of individuals suffering from the handicap suffered by the patient;
+...
+[5] All of the witnesses testified that the Renoir is a retirement home. Two Calgaryhomes are operated by Mr. Waldmann's corporation "Registered Retirement Group" with a "safe unit" for dementia patients consisting of an area of rooms within which patients are locked, so that they are constantly supervised by staff and from which they cannot wander. The Renoir does not have this and Mr. Shultis is not so confined.
+[6] Part of the reason that this was possible in 2002 is that Mr. and Mrs. Shultis were each handicapped but were able to help each other while being provided with meals and the minimal medical services available in the Renoir where a R.P.N. is on duty for the residents.
+[7] In the Court's view, the Appellant does not require or receive special facilities or personnel for the care of his handicaps, nor were they provided by the Renoir to him in 2002. None were designed for a particular purpose for him or for his class of resident. In part this is because his wife was still of assistance, and in part this is because his medications had become "bubble" packaged.
+[8] Had the Appellant required the "safe unit" care described in paragraph [5], this decision might have been different. But that was not the case in 2002.
+[9] For this reason, the appeal is dismissed.
+Signed at Toronto, Ontario, this 11th day of September, 2006.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2006TCC499
+COURT FILE NO.: 2004-2695(IT)I
+STYLE OF CAUSE: Kenneth Shultis v. The Queen
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: September 1, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: September 11, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Matthew Clark
+Counsel for the Respondent:
+Tyler Lord
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Matthew Clark
+Firm: Shea Nerland Calnan
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,208 @@
+Title: Rafique v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521508/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-139-521508-rafique-v-the-king.md
+Document type: case_law
+Last modified: 2025-10-06
+
+# Rafique v. The King
+
+- Citation: 2025 TCC 139
+- Decision date: 2025-10-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5436, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rafique v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-10-06
+Neutral citation
+2025 TCC 139
+File numbers
+2021-1537(IT)G
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2021-1537(IT)G
+BETWEEN:
+EHTESHAM A. RAFIQUE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard on September 11, 2025, at Toronto, Ontario
+Before: The Honourable Justice David E. Spiro
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Allan Mason
+ORDER
+WHEREAS the Appellant has made a motion to the Court for directions under paragraph 117(a) of the Tax Court of Canada Rules (General Procedure):
+“… limiting the scope of examination for discovery by reducing 84 broadly relevant, mostly open-ended questions that relate to 11 sections of the Income Tax Act, into 25, narrowly focused, closed-ended questions that relate to two sections of the Income Tax Act requiring true/false, yes/no responses as answers.”
+AND WHEREAS the Court received written submissions from the parties on the motion and oral submissions on the motion and on costs of the motion;
+IT IS ORDERED THAT the Appellant’s motion is dismissed with costs fixed at $750, in any event of the cause, payable forthwith, and that:
+(a)the Appellant shall answer each of the 84 questions on or before November 28, 2025;
+(b)the Respondent shall serve any follow-up questions arising from the Appellant’s answers on or before December 31, 2025; and
+(c)the Appellant shall serve answers to the Respondent’s follow-up questions, if any, on or before January 30, 2026.
+Signed this 6th day of October 2025.
+“David E. Spiro”
+Spiro J.
+Citation: 2025 TCC 139
+Date: 20251006
+Docket: 2021-1537(IT)G
+BETWEEN:
+EHTESHAM A. RAFIQUE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Spiro J.
+[1] This is an expense case scheduled to be heard under the Court’s General Procedure in June 2026. The principal issue is the deductibility of expenses claimed by the Appellant, Mr. Rafique, in computing income from business for his 1994 and 1995 taxation years.
+[2] Mr. Rafique filed his returns for his 1994 and 1995 taxation years on the basis that he incurred business expenses of $6,797 in 1994 and $12,140 in 1995.
+[3] In 2020, the Minister of National Revenue (the “Minister”) assessed each of those taxation years and disallowed the deduction of those expenses. In its Reply, the Crown seeks to support those assessments on the basis that the claimed expenses were not incurred in 1994 or 1995 for the purpose of gaining or producing income from a business.
+[4] The Minister assessed each those taxation years in 2020 because Mr. Rafique did not file his returns for 1994 and 1995 until that year. The filing date of those returns gives rise to the secondary issue in the appeal, namely, late‑filing penalties.[1]
+[5] Mr. Rafique examined an official of the Canada Revenue Agency for discovery. He believes that he obtained valuable admissions at that examination with respect to the thought process of the Minister in assessing his 1994 and 1995 taxation years.
+[6] On December 9, 2024, the Crown served 84 written questions on examination for discovery on Mr. Rafique. Rather than answering those questions, Mr. Rafique made the present motion for directions under paragraph 117(a) of the Tax Court of Canada Rules (General Procedure) (the “Rules”) to limit the scope of the Crown’s written examination because, he contends, the Crown has abused its right to examine him for discovery “by an excess of improper questions”. Section 117 of the Rules reads in its entirety:
+117 On motion by the person being examined, or by any party, the Court may terminate the written examination or limit its scope where,
+(a) the right to examine is being abused by an excess of improper questions, or
+(b) the examination is being conducted in bad faith, or in an unreasonable manner so as to annoy, embarrass or oppress the person being examined.
+The Scope of Examination for Discovery
+[7] The opening words of subsection 95(1) of the Rules provide:
+95(1) A person examined for discovery shall answer, to the best of that person’s knowledge, information and belief, any proper question relevant to any matter in issue in the proceeding …
+[8] In Canada v Lehigh Cement Limited, 2011 FCA 120, the Federal Court of Appeal offered guidance on the scope of relevance at examination for discovery:
+[34] The jurisprudence establishes that a question is relevant when there is a reasonable likelihood that it might elicit information which may directly or indirectly enable the party seeking the answer to advance its case or to damage the case of its adversary, or which fairly might lead to a train of inquiry that may either advance the questioning party’s case or damage the case of its adversary. Whether this test is met will depend on the allegations the questioning party seeks to establish or refute. See Eurocopter at paragraph 10, Eli Lilly Canada Inc. v. Novopharm Ltd., 2008 FCA 287, 381 N.R. 93 at paragraphs 61 to 64; Bristol-Myers Squibb Co. v. Apotex Inc. at paragraphs 30 to 33.
+[35] Where relevance is established the Court retains discretion to disallow a question. The exercise of this discretion requires a weighing of the potential value of the answer against the risk that a party is abusing the discovery process. See Bristol-Myers Squibb Co. v. Apotex Inc. at paragraph 34. The Court might disallow a relevant question where responding to it would place undue hardship on the answering party, where there are other means of obtaining the information sought, or where “the question forms part of a ‘fishing expedition’ of vague and far-reaching scope”: Merck & Co. v. Apotex Inc., 2003 FCA 438, 312 N.R. 273 at paragraph 10; Apotex Inc. v. Wellcome Foundation Ltd., 2008 FCA 131, 166 A.C.W.S. (3d) 850 at paragraph 3.
+[9] In Stack v The King, 2024 TCC 164, this Court discussed the question of relevance and reviewed the meaning of an “improper” question (citations omitted):
+[30] The scope of discovery should be wide. Relevancy should be construed liberally, without allowing it to enter the realm of a fishing expedition. The purpose of discovery is to enable parties to know the case they have to meet at trial, know the facts that the opposing party relies on, narrow or eliminate issues, obtain admissions, and avoid surprises at trial.
+[31] On a motion, the threshold for relevance is low and, when in doubt, the motions judge should err on the side of allowing the question. Nonetheless, the exercise cannot amount to a “fishing expedition.” The examining party is entitled to “any information, and production of any documents, that may fairly lead to a train of inquiry that may directly or indirectly advance his case, or damage that of the opposing party.”
+[32] A question is relevant when there is a reasonable likelihood that it might elicit information that may directly or indirectly enable the party seeking the information to advance its case or damage the case of the opposing party, or which fairly may lead to a train of inquiry that may advance the party’s care or damage the opposing party’s case.
+…
+[34] In Baxter, Chief Justice Bowman summarized the concept of relevance in the context of discoveries:
+a) Relevancy on discovery must be broadly and liberally construed and wide latitude should be given;
+b) A motions judge should not second guess the discretion of counsel by examining minutely each question or asking counsel for the party being examined to justify each question or explain its relevancy;
+c) The motions judge should not seek to impose his or her views of relevancy on the judge who hears the case by excluding questions that he or she may consider irrelevant but which, in the context of the evidence as a whole, the trial judge may consider relevant;
+d) Patently irrelevant or abusive questions or questions designed to embarrass or harass the witness or delay the case should not be permitted.
+…
+[36] Restating those principles, in Contractor v. R, Justice Owen went further and added that this discretion also extends to questions that are relevant but not proper, for example if the question is “materially ambiguous, vague, imprecise, misleading, scandalous (e.g., defamatory) or vexatious (e.g., harassing); or seeks privileged information, seeks the work product of counsel, seeks the disclosure of evidence rather than fact or seeks an opinion (i.e., inference from facts) rather than fact.”
+…
+[39] Furthermore, examination for discovery cannot amount to a fishing expedition even if the basis is relevant. A fishing expedition has been defined as “an indiscriminate request for production, in the hope of uncovering helpful information.” In other words:
+the plaintiff wishes to maintain his questions, and to insist upon answers to them, in order that he may find out something of which he knows … nothing now, which might enable him to make a case of which he has not knowledge at the present. If that is the effect of the interrogatories, it seems to me that they come within the description of “fishing” interrogatories and on that ground cannot be allowed.
+…
+[41] …. Thus, a party cannot ask for facts that would lead to the creation of a new argument, they can only discover information that sustains an already pleaded argument.
+[42] Fundamentally and logically however, the motions judge must be both diligent and wary to ensure, in the context of the appeal contested, that each party receives full measure of the discovery process to prepare for trial: discerning the issues; preparing full answers to the opposing case theory; promoting settlement through informed risk assessment of the unhidden viewscape of the matter. To that end, the more complex the pleadings and legal concepts afoot – sham and GAAR are certainly counted – the greater the breadth for both parties to trawl deeper and longer.
+The Crown’s 84 Written Questions
+[10] The 84 questions served on Mr. Rafique on December 9, 2024, may be divided into five categories (excluding the standard introductory, background, and concluding questions). I have reproduced one or two sample questions under each category.
+Category #1 – Filing of Returns for 1994 and 1995
+[11] Mr. Rafique was asked questions about the filing of his tax returns for the 1994 and 1995 taxation years:
+Question 8: Who prepared your returns for the 1994 and 1995 taxation years?
+Question 10: Why did you decide to file these returns approximately 25 years after they were required to be filed?
+Category #2 – The Source of Mr. Rafique’s Income in 1994 and 1995
+[12] Mr. Rafique was asked questions relating to whether his source of income was employment in 1994 and 1995. Crown counsel asked how he received his income for those taxation years and whether could produce any T4 slips:
+Question 16: Did you receive a T4 for the 1994 and 1995 taxation years?
+Question 18: Was there an employment contract or contract for services?
+Category #3 – Mr. Rafique’s List of Documents
+[13] These questions relate to the expenses that Mr. Rafique claimed in computing income for his 1994 and 1995 taxation years. Some of them refer to statements made in documents in Mr. Rafique’s list of documents:
+Question 20: What factors did you consider, if any, beyond earning income solely from commissions, when you determined you were an independent contractor rather than an employee at paragraph 5 [of a particular document]?
+Question 22: At paragraph 8 [of a particular document], how did you determine the cost of $15 per meal in 1994 and 1995?
+Category #4 – Mr. Rafique’s Notice of Appeal
+[14] Mr. Rafique was asked several questions using his own Notice of Appeal as a starting point:
+Question 36: Do you agree that your returns of income for the 1994 and 1995 taxation [years] were never filed until the 2020 taxation year?
+Question 39: Do you admit that you do not have any receipts or invoices for the years at issue?
+Category #5 – The Reply
+[15] Mr. Rafique was asked several questions relating to the Reply:
+Question 46: Please review all of the assumptions of fact stated in paragraph 21 of the Reply to the Notice of Appeal. Provide details if you dispute any of the stated assumptions of fact and provide the factual basis upon which you dispute the stated assumption of fact. If you have documents which support your dispute of the facts, provide the documents in support of your position.
+Mr. Rafique’s Submissions
+[16] Mr. Rafique made two main submissions in support of his motion for directions under paragraph 117(a) of the Rules.
+60 of the 84 Questions are Not Relevant Because the Scope of Relevance at the Crown’s Examination for Discovery is Limited by What Was in the Minister’s Mind During the Assessing Process
+[17] Mr. Rafique submits that 60 of the 84 questions asked are simply not relevant. In support of this submission, Mr. Rafique advances the proposition that, as a matter of law, the scope of relevance at the Crown’s examination for discovery is limited by what was in the mind of the Minister during the assessing process. He cited no case authority in support of this proposition.
+[18] He also contends, as a matter of fact, that what the Minister had in mind in assessing was the failure to timely file his 1994 and 1995 returns, including the prescribed form for each year entitled “Statement of Business or Professional Activities”.[2] Mr. Rafique argues that the assessments were driven by the Minister’s failure to process the prescribed forms or what he calls the Minister’s “misadministration of the form”:
+I have a right … according to the Income Tax Act, for the declared expenses … on the prescribed forms, to be assessed. But those expenses were not assessed because … the forms did not get to her [the Minister] in time.[3]
+…
+JUSTICE: You say you’re entitled to deduct those expenses, and the Minister and the Crown say that you’re not entitled.
+MR. RAFIQUE: Well, not entitled, because you did not file the forms, and she [the Minister] did not, she could not read the information on the forms, because the forms didn’t get to her in time.[4]
+…
+… the right is associated, directly linked, with the form. When the form is filed, the right is there. If the form is not processed, then the right has been denied based upon the administration or misadministration of the form.[5]
+[19] This submission lacks any foundation in fact or law.
+[20] The principal issue in this appeal is whether the expenses claimed by Mr. Rafique in 1994 and 1995 were incurred for the purpose of gaining or producing income. The secondary issue is Mr. Rafique’s liability for late filing penalties in respect of the returns that he filed for those taxation years. When the proper legal test is applied to the questions asked, those questions clearly pass the test of relevance at examination for discovery.
+[21] Mr. Rafique also argued that Crown counsel is “attempting to conduct an investigative reassessment of the Appellant’s returns of income from 30 years past”.[6] He submitted that the Crown’s examination for discovery should be limited to the year 2020 as that was the year (a) he filed his returns for 1994 and 1995 and (b) the Minister issued the assessments for his 1994 and 1995 taxation years. Referring to the year 2020, he argued that:
+… the assessments happened during that time. Let’s focus on that. Let’s not go to 30 years before because, according to the law, that is not within the jurisdiction of the Tax Court of Canada.[7]
+[22] Contrary to Mr. Rafique’s submission, what happened in 1994 and 1995 is most certainly within the jurisdiction of this Court. After all, those are the taxation years that Mr. Rafique himself has put in issue in his appeal. Any suggestion that the Crown’s examination for discovery should be limited to 2020 is nonsense.
+The Crown’s Examination for Discovery is Abusive Because it Covers 13 Subjects Associated with 11 Sections of the Income Tax Act
+[23] Mr. Rafique submits that the Crown’s examination for discovery is abusive because it relates to 13 subjects associated with 11 sections of the Income Tax Act. In his words, such an examination is “too varying a scope of examination for discovery”. Mr. Rafique explains his point this way:
+… raising too many issues against a taxpayer’s appeal during discovery that relate to 13 subjects and 11 sections of the Income Tax Act obfuscates the reconcilability of the facts, those issues, with conditions of laws causing confusion about which issue to resolve, which in turn has the effect of perpetuating the litigation process and increasing the costs of the appeal.[8]
+…
+Almost all 84 questions asked are open-ended and not closed-ended. Open-ended questions are likely to reduce objectivity and increase complexity which will effectively add time delays to costs.[9]
+[24] This submission is without any merit. The questions asked by the Crown do not relate to 13 different subjects nor do they relate to 11 different sections of the Income Tax Act. The questions asked by the Crown are relevant to the two issues raised by Mr. Rafique’s appeal, namely, whether the expenses he claimed for 1994 and 1995 were incurred for the purpose of gaining or producing income and whether he is liable to late filing penalties.
+Relief Requested by Mr. Rafique
+[25] On the second page of his Notice of Motion, Mr. Rafique requests the following relief:
+Pursuant to Rule 117(a) of the Tax Court of Canada Rules (General Procedure), the motion applicant is filing this motion in pursuit of a direction to the Respondent for limiting the scope of examination for discovery by reducing 84 broadly relevant, mostly open-ended questions that relate to 11 sections of the Income Tax Act, into 25, narrowly focused, closed-ended questions that relate to two sections of the Income Tax Act requiring true/false, yes/no responses as answers.
+[26] Mr. Rafique may very well not care for open-ended questions, and he may very well prefer questions calling for true/false or yes/no answers. But there is no legal basis on which the Crown can be compelled to reframe a set of relevant and proper questions – and reduce their number from 84 to 25 – simply to accommodate Mr. Rafique’s personal preferences.
+The Nature of an Appeal of an Assessment to this Court
+[27] Mr. Rafique’s submissions reflect a fundamental misunderstanding about the nature of an appeal of an assessment to this Court. For example, he made the following points during his argument:
+… you basically have to consider what the Minister was contemplating when the assessment was being performed at the time. So what specifically was cognitively … in his or her mind.[10]
+…
+It is what the Minister was contemplating when the Minister made the assessment. That is what is at issue in the Tax Court of Canada.[11]
+[28] Mr. Rafique is entirely misinformed about what is at issue before this Court. As stated by the Supreme Court of Canada in Dow Chemical Canada ULC v Canada, 2024 SCC 23, an assessment under appeal in this Court is a “product” rather than a “process”.[12] In the Court’s words in Dow Chemical “an assessment is the amount of tax at issue, not the process that resulted in the determination of that amount”.[13] The Court held that:
+[t]he question on an appeal of an assessment to the Tax Court is not about the conduct of the Minister in preparing the assessment, but rather about the correctness of the Minister’s determination of the amount of tax owing, applying the rules in the ITA to the facts as she finds them.[14]
+[29] Mr. Rafique will be wasting his time – and the Court’s time – if he thinks that the trial judge hearing his appeal in June 2026 is going to conduct a review of the Minister’s thought process in assessing. As the Court observed in Dow Chemical:
+… the jurisprudence establishes that the Minister’s conduct is not at issue in an assessment and that taxpayers cannot object to the underlying process or motivations for the issuing of an assessment before the Tax Court (see Okalta Oils; Canada v. Consumers’ Gas Co., [1987] 2 F.C. 60 (C.A.); Main Rehabilitation, at paras. 6-8; Roitman v. Canada, 2006 FCA 266, 353 N.R. 75, at para. 21; Ereiser; Johnson v. Minister of National Revenue, 2015 FCA 52, 470 N.R. 183, at para. 4; 9162-4676 Québec Inc. v. Canada, 2016 FCA 112, 2017 DTC 5074, at para. 2). Before the Tax Court, if the final result of the assessment is correct, the assessment will be upheld even if the process that led to the assessment was flawed or abusive (see Webster v. Canada (Attorney General), 2003 FCA 388, 312 N.R. 235, at para. 21; Ghazi v. Canada (National Revenue), 2019 FC 860, 70 Admin. L.R. (6th) 216, at para. 30; Newave Consulting Inc. v. Canada (National Revenue), 2021 FC 1203, at para. 139 (CanLII); Chad v. Canada (National Revenue), 2023 FC 1481, [2024] 1 C.T.C. 63, at para. 28).[15]
+Conclusion
+[30] The 84 questions posed by the Crown on examination for discovery of the Appellant do not constitute “an excess of improper questions” within the meaning of paragraph 117(a) of the Rules. Far from it. Mr. Rafique’s motion for directions will, therefore, be dismissed with costs. He will be ordered to answer all 84 questions by the end of next month.
+Costs
+[31] The Crown seeks $350 as costs of the motion under paragraph 1(1)(c) of Tariff B of Schedule II to the Rules, along with disbursements of nearly $150. The Crown seeks an additional award of costs of $250 as a deterrent against unnecessary motions such as this one.[16] In exercising our discretion over costs, paragraph 147(3)(i) of the Rules allows us to consider whether any stage in the proceeding was, among other things, unnecessary. As Mr. Rafique’s motion was clearly unnecessary, an additional cost award in the amount of $250 is in order.
+[32] Costs on the motion will be fixed at $750, in any event of the cause, payable forthwith.
+Signed this 6th day of October 2025.
+“David E. Spiro”
+Spiro J.
+CITATION:
+2025 TCC 139
+COURT FILE NO.:
+2021-1537(IT)G
+STYLE OF CAUSE:
+EHTESHAM A. RAFIQUE AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 11, 2025
+REASONS FOR ORDER BY:
+The Honourable Justice David E. Spiro
+DATE OF ORDER:
+October 6, 2025
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Allan Mason
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+BLANK
+Firm:
+BLANK
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Although late filing penalties were not specifically identified as an issue in the Reply, they were identified as an issue by this Court and by the Federal Court of Appeal in their reasons on an earlier motion by Mr. Rafique (see Rafique v Canada (National Revenue), 2024 FCA 37 at para 8). At the hearing of this motion, Mr. Rafique acknowledged (transcript, page 40, lines 10-26) that “there is no disagreement that expense deductions and the imposition of late filing penalties are at issue in this appeal.”
+[2] Transcript, page 89, lines 5-26.
+[3] Transcript, page 84, lines 14-19.
+[4] Transcript, page 85, lines 21-27.
+[5] Transcript, page 92, lines 13-17.
+[6] Transcript, page 21, lines 10-16.
+[7] Transcript, page 131, lines 1-5.
+[8] Transcript, page 111, lines 8-15.
+[9] Transcript, page 114, lines 21-24.
+[10] Transcript, page 120, lines 20-23.
+[11] Transcript, page 120, lines 5-7.
+[12] Dow Chemical, at para 6.
+[13] Dow Chemical, at para 44 citing Okalta Oils Ltd. v Minister of National Revenue, [1955] S.C.R. 824. Trials held in this Court as appeals of assessments issued under the Income Tax Act typically involve appeals of assessments of tax, interest, or penalties or some combination.
+[14] Dow Chemical, at para 47.
+[15] Dow Chemical, at para 57.
+[16] As noted in footnote 1, this is not the first time a motion made by Mr. Rafique in this appeal has been heard and dismissed by this Court. He made an earlier motion to strike the Reply and to have the assessments for his 1994 and 1995 taxation years vacated. His appeal to the Federal Court of Appeal was dismissed with costs (Rafique v Canada (National Revenue), 2024 FCA 37). His leave application to the Supreme Court of Canada was also dismissed with costs (Bulletin of Proceedings, September 6, 2024, at page 20).

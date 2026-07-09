@@ -1,0 +1,77 @@
+Title: Wilson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29437/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-475-29437-wilson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-07-08
+
+# Wilson v. The Queen
+
+- Citation: 2009 TCC 475
+- Decision date: 2009-07-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6928, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wilson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-07-08
+Neutral citation
+2009 TCC 475
+File numbers
+2008-3344(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2009 TCC 475
+Date: 20090930
+Docket: 2008-3344(IT)I
+BETWEEN:
+ALEX WILSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench
+on July 8, 2009, at Toronto, Ontario.)
+Bowie J.
+[1] This is an unfortunate case in the sense that I quite accept what you say, Mr. Wilson, about not wanting in any way to beat the system or not comply with the system, and it is reasonably certain that it is only inadvertently that you have fallen into non-compliance with what are some very complicated provisions of the Income Tax Act.
+[2] Part X.1 of the Act, which deals with overpayments to registered retirement savings plans, is not easy to understand, and in most cases there is probably little reason for most people to be trying to understand it. However, its consequences are such that if you do make an over-contribution, there are very limited ways in which it can be remedied. There is provision made in part X.1 whereby an application can be made to the Minister of National Revenue for permission to withdraw the over-contribution free of tax, so that there is a remedy for people who mistakenly make an over-contribution and deal with it right away. But if it is not dealt with within a three-month period following the year end, then you find yourself in the situation whereby not only is there tax imposed on the over-contribution, but there is a requirement under section 204.3 to file what amounts to a second return with the Minister.
+[3] In addition to the usual return that everybody files every year, there is a need to file a T1-OVP, which reports the overpayment. Failure to file the T1‑OVP within three months following the end of the calendar year makes one liable for a penalty under section 204.3, and all the usual provisions in Part I, specifically section 162 in respect of assessing that penalty, come into play.
+[4] Here, it is quite clear that the T1-OVP should have been filed by March 30, 2004 and was not filed until 2007, with the result that a penalty that accumulates at the rate of 5%, plus 1% per month for the first 12 months until it reaches a ceiling of 17%, becomes applicable.
+[5] As I said at the outset, there is a defense of due diligence that can be raised, but as former Chief Justice Bowman pointed out in 1993 in a case called Pillar Oilfield Projects Ltd. v. Canada,[1] due diligence requires that the appellant show that not only positive steps but all reasonable positive steps have been taken to remedy the situation. I heard no evidence in this case of anything having been done to remedy the matter for three full years, and then it was remedied only because the Minister caught up with it and pointed the error out to you.
+[6] You referred earlier to a letter that you received from Canada Revenue Agency dealing with potential leniency or something of the kind. That is not a power that is within the jurisdiction of this court. The Court has power only to look at, as I said at the outset, whether the tax and the penalty have been properly applied, and they have.
+[7] The Minister does have some discretion under the Act to waive penalties, and I do not know whether that letter you referred to was an invitation to you to apply to the Minister for waiver of the penalty. It may have been, but certainly that is where the power to grant some relief lies in this case, with the Minister of National Revenue. All I can say on that score is it costs less than a dollar to send them a letter, so it is probably worth doing so. It is purely a matter within the Minister's discretion whether or not penalties or interest are waived in situations like this. So far as the Court is concerned, it simply has no power to do so. I do not have any alternative, I am afraid, but to dismiss the appeal.
+[8] I think you paid a filing fee on filing this appeal. Since the recent amendments to the Act, we are ordering when disposing of these appeals that the filing fee be returned. That is a matter I can look into. It may be that it is only done in more recently filed appeals. This one was filed in 2008. I will look into that, and if there is a possibility of returning the filing fee, we will include that in the Order. If not, then we will not. Unfortunately, there is nothing more I can do.
+Signed at Ottawa, Canada, this 30th day of September, 2009.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2009 TCC 475
+COURT FILE NO.: 2008-3344(IT)I
+STYLE OF CAUSE: ALEX WILSON and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: July 8, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: July 13, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Darren Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1993] T.C.J. No. 764.

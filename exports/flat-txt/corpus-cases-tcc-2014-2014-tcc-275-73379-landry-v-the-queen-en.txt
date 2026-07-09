@@ -1,0 +1,133 @@
+Title: Landry  v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/73379/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-275-73379-landry-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-09-16
+
+# Landry  v. The Queen
+
+- Citation: 2014 TCC 275
+- Decision date: 2014-09-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5158, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landry v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-09-16
+Neutral citation
+2014 TCC 275
+File numbers
+2012-2530(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2530(IT)I
+BETWEEN:
+Robert Landry,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on August 26, 2014, at Montréal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the appellant:
+The appellant himself
+Agent for the respondent:
+Laurianne Dusablon-Rajotte
+(student-at-law)
+JUDGMENT
+The appeal from the reassessment made by the Minister of National Revenue under the Income Tax Act for the 2010 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of September 2014.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 4th day of November 2014
+Margarita Gorbounova, Translator
+Citation: 2014 TCC 275
+Date: 20140916
+Docket: 2012-2530(IT)I
+BETWEEN:
+Robert Landry,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The appellant is disputing a reassessment made by the Minister of National Revenue (Minister), disallowing the deduction of legal fees ($17,600) that he claimed in computing his income for the 2010 taxation year.
+[2] The appellant was obliged to pay child support, which was deducted from his income by the Percepteur des pensions alimentaires in the Province of Quebec.
+[3] He maintains that, in 2010, his two children reached the age of majority and became financially independent and that he was no longer obliged to pay support to his former spouse for his children.
+[4] He retired on June 1, 2010, and began receiving his retirement benefits starting on that date.
+[5] However, in order to receive the entire amount of his retirement income, he had to apply to the Superior Court of Québec (Family Division) to obtain a judgment permanently cancelling the support for the two children.
+[6] He claimed the deduction of the legal fees that he had incurred during this process, and the Minister disallowed it.
+[7] The Minister argues that the fees were incurred to terminate the support and that, as such, they are personal or living expenses, which are not deductible under paragraph 18(1)(h) of the Income Tax Act.
+[8] The respondent relies on paragraph 21 of Interpretation Bulletin IT-99R5, which was approved by this Court in Loewig v. Canada, 2006 TCC 476, [2006] T.C.J. No. 373 (QL).
+[9] In that case, Mr. Loewig had stated that the purpose of his action was to establish a pre-existing right and to recover amounts that had wrongly been deducted from his salary. This Court decided that the costs incurred by Mr. Loewig to recover amounts paid in excess of his obligations under the separation agreement cannot be said to be the cost of gaining or producing income.
+[10] Indeed, in Nadeau v. M.N.R., 2003 FCA 400, [2004] 1 F.C.R. 587, [2003] F.C.J. No. 1611 (QL), the Federal Court of Appeal clearly established, at paragraph 18, that expenses “incurred” by the payer of support (including in order to terminate it) cannot be considered to have been “incurred” for the purpose of earning income and stated that the courts have never recognized any right to the deduction of these expenses.
+[11] In the case at bar, in his Notice of Appeal, the appellant referred to the fact that his children, who reached the age of majority and became financially independent, were no longer entitled, under the Divorce Act, to support payable to the mother for the benefit of the children.
+[12] At the hearing, he asked counsel Ginette Bélisle, who had represented him at the Superior Court (Family Division) and who invoiced him for the legal fees at issue in this case, to explain the situation.
+[13] Ms. Bélisle filed transcripts of the various hearings that had taken place starting on April 29, 2010, before the Superior Court of Québec (Family Division), at which she had represented the appellant (Exhibit A-1). From those I gather that the appellant’s former spouse and one of his children were asked to produce their income tax returns in order to obtain a detailed statement of the child’s income.
+[14] According to Ms. Bélisle, those documents were not provided and the former spouse refused to co-operate, which unduly delayed the process. According to her, the children’s mother was not disputing that her right to child support had expired when they appeared in court on May 27, 2010.
+[15] I note, however, that on May 27, 2010, the Superior Court of Québec ordered the appellant to pay [Translation] “interim” support and set the support amount for one of the children.
+[16] In addition, on June 17, 2010, the Superior Court of Québec, after considering the interests of both children, denied the request filed by Ms. Bélisle to [Translation] “convert the interim order into a final order”. However, the court granted the appellant the right to make an advance costs application given the mother’s lack of co-operation.
+[17] It was not until November 3, 2011, that the Superior Court of Québec approved the consent to judgment signed by the parties on October 8, 2011. That agreement stipulates that the support provided for the elder child is cancelled as of June 1, 2010, and for the younger child as of January 1, 2011 (Exhibit A-1).
+[18] According to the appellant, the amounts collected in excess by the mother have been repaid.
+[19] The invoices at issue in this dispute relate to an [Translation] “Application to vary support for the [two] children” for the periods from March 13 to May 31, 2010, and from June 1 to June 30, 2010 (Exhibit I-1).
+[20] In her testimony, Ms. Bélisle maintained that the support had expired as of June 1, 2010. She explained that her mandate was to institute the necessary proceedings to obtain a judgment cancelling the support so that the appellant could receive his full pension starting on June 1, 2010. She explained that the Percepteur des pensions alimentaires cannot, on his own initiative, stop deducting support. He must first obtain a court judgment to do so.
+[21] In my view, the procedure to obtain a judgment cancelling support is not simply a rubber stamp like Ms. Bélisle implied.
+[22] The transcripts indicate that a case must be made to establish the financial independence of the adult children and, thus, to cancel the support.
+[23] Since such a case was not made, the various judges involved in the file did not terminate support by a judgment.
+[24] Therefore, I do not agree that the support had expired on its own before the judgment was signed.
+[25] Even though the consent to judgment signed on October 8, 2011, indicated that the support was cancelled starting on June 1, 2010, for the elder child and on January 1, 2011, for the other child, the appellant could not have been freed of his obligation to pay support since the judgment approving the consent to judgment had not been signed. Thus, he had to continue paying it, subject to being repaid the overpayment. I am of the view that the proceedings instituted by Ms. Bélisle were instituted in order to terminate the support.
+[26] In addition, I note that the first invoice for $10,514.08 is dated May 31, 2010, and is for a period prior to June 1, 2010, when support was still payable for both children.
+[27] With regard to the second invoice for $7,075.13 dated July 20, 2010, it is related to the services rendered for the month of June 2010, when the appellant still had to pay support for one of the children (in accordance with the consent to judgment).
+[28] This Court’s decision in MacKinnon v. Canada, 2007 TCC 658, [2007] T.C.J. No. 500 (QL), to which the appellant referred, cannot be of assistance to him. In that case, legal fees were incurred by the taxpayer in order to confirm her right as the named beneficiary of a registered retirement savings plan to amounts that had been remitted to her son’s estate by mistake. The legal fees incurred in order to recover the amounts were deductible because they had been incurred for the purpose of earning income to which she had been entitled as the named beneficiary and which, by mistake, had not been paid to her.
+[29] The situation is different here in that, since the court had not been satisfied that the support for the children had to be cancelled, no judgment had been signed to that effect.
+[30] The Percepteur des pensions alimentaires had to collect the support until a judgment was obtained. Even though amounts were paid in excess by the appellant, the fact remains that he had incurred the expenses at issue here in order to terminate the payment of support. The case law is clear in this regard: these legal fees are personal expenses and therefore are not deductible.
+[31] The appeal is dismissed.
+Signed at Ottawa, Canada, this 16th day of September 2014.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 4th day of November 2014
+Margarita Gorbounova, Translator
+CITATION:
+2014 TCC 275
+COURT FILE NO.:
+2012-2530(IT)I
+STYLE OF CAUSE:
+ROBERT LANDRY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+August 26, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT:
+September 16, 2014
+APPEARANCES:
+For the appellant:
+The appellant himself
+Agent for the respondent:
+Laurianne Dusablon-Rajotte
+(student-at-law)
+COUNSEL OF RECORD:
+For:
+Name:
+Firm:
+For the respondent
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

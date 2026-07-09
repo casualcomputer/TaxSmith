@@ -1,0 +1,185 @@
+Title: Woods v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29619/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-48-29619-woods-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-01-27
+
+# Woods v. The Queen
+
+- Citation: 2010 TCC 48
+- Decision date: 2010-01-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6188, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Woods v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-01-27
+Neutral citation
+2010 TCC 48
+File numbers
+2009-1534(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1534(IT)I
+BETWEEN:
+ELIZABETH A. WOODS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 16, 2009, at Ottawa, Canada
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Anne-Marie Boutin
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that in 2007, the Appellant received child support of $7,200 pursuant to the 1994 Separation Agreement.
+Signed at Ottawa, Canada this 27th day of January, 2010.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2010TCC48
+Date: 20100127
+Docket: 2009-1534(IT)I
+BETWEEN:
+ELIZABETH A. WOODS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+Issue
+[1] The issue in this appeal is whether a 1994 separation agreement between the Appellant and her former spouse was varied after 1997 thus triggering a “commencement day” as defined in subsection 56.1(4) of the Income Tax Act (the “Act”) and relieving the Appellant from including in her 2007 income a payment of $9,036 received from her former spouse in that year.
+Background
+[2] The Appellant and Mr. Reckenberg were married in 1987 and had two children. Following the breakdown of their marriage, they entered into a separation agreement dated December 22, 1994 (“1994 Separation Agreement”) pursuant to which Mr. Reckenberg paid $600 per month in child support. Clause 6 of the 1994 Separation Agreement provided for an annual Cost of Living Adjustment to that amount but that term was never given effect. In July 2006, after an exchange of correspondence between the Appellant and Mr. Reckenberg, he began making payments of $753 per month. He continued to do so until 2009.
+[3] The only taxation year under appeal is 2007. During that year, the Appellant received from Mr. Reckenberg a total of $9,036 ($753 per month x 12 months), none of which was reported as income. The Minister reassessed to include the $9,036 payment in her 2007 income as a child support amount under subsection 56.1(1) of the Act.
+Appellant’s Position
+[4] The Appellant’s position is that the $9,036 received from Mr. Reckenberg ought not to be included in her 2007 income firstly, because it was paid pursuant to a new agreement which varied the child support payable under the 1994 Separation Agreement. According to the Appellant, the agreement to vary was embodied in an exchange of correspondence in 2006 between the Appellant and counsel for Mr. Reckenberg. Its effect was to trigger a “commencement day” under subparagraph (b)(ii) of the definition in subsection 56.1(4); accordingly, the child support payments were no longer subject to the pre-1997 regime of inclusion and deductibility.
+[5] The Appellant argues alternatively, that even if there was no agreement to vary the 1994 Separation Agreement and it continued to be in effect in 2007, it cannot be said that the $9,036 payment was paid pursuant to the terms of that document. The 1994 Separation Agreement provided for payments of $600 per month; in 2007, Mr. Reckenberg was paying $753 per month. As shown by the 2006 exchange of correspondence, that amount was based on the application of the Child Support Guidelines to his income for 2005. Thus, the $9,036 was, at best, an ad hoc payment not caught by the definition of “support amount”; for that reason, she was not required to include it in her 2007 income.
+Respondent’s Position
+[6] The Minister contends that because there was no written agreement to vary the 1994 Separation Agreement, it remained in force in 2007 and the $9,036 payment the Appellant received from Mr. Reckenberg was properly included in her income.
+Facts
+[7] The Appellant represented herself and testified at the hearing. Mr. Reckenberg was not a party to the proceedings; rather, he was called as the Crown’s only witness. Both were credible in their evidence.
+[8] Clauses 5 and 6 of the 1994 Separation Agreement read as follows:
+5. CHILD SUPPORT
+(a) Effective July 15, 1994, and on the fifteenth day of each and every month thereafter, the Husband shall pay to the Wife the sum of THREE HUNDRED DOLLAR ($300.00) per month, per child, (for a total of $600.00 per month) for child support.
+(b) Such payments for child support shall continue until one of the following events occurs:
+(i) the child ceases to reside primarily with the Wife (The child shall be deemed to “reside primarily with the Wife” if the child lives away from the Wife’s residence for the purpose of attending an education institution, working in the summer or taking a vacation, but otherwise resides with the Wife);
+(ii) the child becomes 18 years of age and ceases to be in full time attendance at an educational institution;
+(iii) the child becomes 22 years of age;
+(iv) the child marries;
+(v) the Wife dies;
+(vi) the Husband dies, provided that the life insurance to be maintained by the Husband at paragraph 11 herein remains in effect;
+(c) The spouses acknowledge and agree that all child support payments made by the Husband pursuant to this Agreement shall be deemed deductible by him or includable by the Wife in the calculation of their income for tax purpose. Such payments shall be considered as having been paid and received pursuant to the provisions of sub-section 56.1(3) and 60.1(3) of the Income Tax Act, including any payments referred to above made prior to the date of this Agreement.
+(d) The Wife specifically acknowledges receipt of $600.00 per month in child support payments for the months of July, August, September, October, November, and December, 1994, for a total of $3600.00.
+(e) The parties specifically acknowledge that the quantum of child support determined under this Agreement is made on the assumption that the Husband will be entitled to deduct the child support payments made by him and the Wife will be required to include such payments in the calculation of her taxable income. In the event that the decision in Thibaudau vs. M.N.R. is sustained by the Supreme Court of Canada (ie. that the Wife is not required to include the amount of child support so paid to her in the calculation of her taxable income), such an event may constitute a material change in circumstances warranting a downward variation in the quantum of support paid. In such event, the parties agree to follow the procedures as outlined under the heading “MATERIAL CHANGE IN CIRCUMSTANCES”.
+6. ANNUAL COST OF LIVING ADJUSTMENT IN SUPPORT
+Payment of child support pursuant to paragraph 5 herein shall be adjusted annually, each July 15th, commencing July 15, 1995, in accordance with the lessor of:
+(a) The annual percentage increase, if any, in the Consumer Price Index of Canada for prices of all items for the previous calendar year; or
+(b) The percentage increase (if any) in the husband’s gross income from all sources for the previous calendar year, as determined by the Husband’s income tax returns;[1]
+…
+[9] As it is pivotal to the issue of the existence of an agreement to vary the 1994 Separation Agreement, the relevant portions of the 2006 correspondence between the Appellant and Mr. Reckenberg are set out below.
+[10] On March 20, 2006, the Appellant wrote to Mr. Reckenberg regarding, among other things, the Cost of Living Adjustment clause:
+… the primary issue is that [the 1994 Separation Agreement’s] provision for the child support payments to be adjusted annually to reflect the ‘Cost of Living Adjustment’ has not been realized since the agreement was signed in December 1994. This has created a deficit in what [the children] received in the years since then, compared to what they have been entitled to. This inequity is further exacerbated by the fact that the payments are still governed by the pre- May 1997 tax law that decrees them as taxable income for me. I pay a substantial amount of tax on the support payments over and above the appropriate amount of employment income tax that is already deducted from my pay. The support amount is therefore significantly diminished causing direct financial punishment for the children.[2]
+[11] Mr. Reckenberg responded through his lawyer on April 18, 2006 as follows:
+Mr. Reckenberg has provided me with a copy of your correspondence dated March 20, 2006, for reply. Mr. Reckenberg is prepared to negotiate any outstanding issues, as is noted below.
+Mr. Reckenberg acknowledges that you are entitled to financial documentation to determine whether a change in support arrangements is appropriate. Mr. Reckenberg would like to obtain the same from you as well.[3]
+[12] The Appellant (who told the Court that while she had chosen to represent herself in her discussions with Mr. Reckenberg, she had been, during that time, consulting with a lawyer friend on an informal basis) responded to Mr. Reckenberg’s lawyer on June 13, 2006:
+I am writing in response to the above-noted letter that was accompanied by Randy Reckenberg’s employment income information following my request for variation in the amount of child support paid.
+I have been further advised by [J.B.] that I need to receive financial disclosure as to Randy’s current salary as it appears that his income increases fairly substantially every year. As previously requested of Randy in my March 20, 2006 letter to him, I am again requesting his three most recent pay stubs.
+At the very least, child support should be based on his 2005 employment income of $61,165.03 and will be subject to further adjustment when I learn of his 2006 income. As outlined in the newest child support tables, for two children, the base table amount is $919 per month. As Randy’s support obligation is at least $919 per month, his payments should reflect this amount right away. However, I am comfortable with him beginning the new payment amounts effective July 15, 2006.[4]
+[13] By letter dated June 22, 2006, Mr. Reckenberg’s lawyer replied as follows:
+Further to your correspondence of June 13, 2006, please note that since forwarding Mr. Reckenberg’s financial documentation, he has received his 2005 Notice of Assessment, which I enclose for your review.
+Please note that in accordance with an annual income of $50,002.02 per annum, pursuant to line 150 of the Notice of Assessment, Mr. Reckenberg’s child support payment would be $753.00 per month, in accordance with the Child Support Guidelines.
+I would propose that in order to move this matter forward in a timely manner, that we schedule a meeting for all parties to discuss the outstanding issues in this matter. However, this would only be a viable option if you were represented by counsel at the meeting. Kindly advise if you intend to retain counsel in this matter and further, if you are agreeable to scheduling a meeting at this time.
+I look forward to hearing from you.[5]
+[14] The Appellant replied by letter dated July 10, 2006 in which she began by setting out the basis for doubting the accuracy of Mr. Reckenberg’s disclosed income for 2005 and citing the advice she had received from her lawyer friend. She then went on to say:
+…
+Therefore, please be advised that at this time, in light of the above as well as by failing to receive copies of Mr. Reckenberg’s last three pay stubs as has been requested twice, I am not in agreement as to what Mr. Reckenberg’s actual income is nor am I confident that this matter is being handled in transparency and in good faith.
+As I am yet to receive child support cheques for July 15, 2006 through to December 15, 2006 (as has been general practice, I receive child support cheques from Mr. Reckenberg in six-month increments and I anticipate that he will deliver these cheques to me this coming Friday), I will accept payment of $753.00 monthly (the amount based on $50,002.00) which may be subject to retroactive change upon final agreement of Mr. Reckenberg’s actual income. Please note that I am hopeful that we will resolve this issue through this latest correspondence, however, if not, I am prepared to take legal proceedings next.[6]
+The Appellant concluded by rejecting the invitation of counsel for Mr. Reckenberg to meet on the basis that “… it does not appear that such a meeting is warranted.”[7]
+[15] On July 12, 2006, Mr. Reckenberg’s lawyer responded with what was to be the last word on this matter until sometime in 2009 when the Appellant instituted family court proceedings in respect of child support:
+We are in receipt of your letter dated July 10, 2006 and we have reviewed the contents therein with Mr. Reckenberg.
+Please find enclosed six child support cheques for July to December, each made payable to you in the amount of $753.00. As you will note, the support amount has been adjusted to reflect the child support due in accordance with line 150 of Mr. Reckenberg’s 2005 Notice of Assessment. It is not our position that child support would be determined on any other basis.
+Should you wish to further pursue this issue, please be advised that we are prepared to defend this position vigorously.
+Also enclosed herein are the pay stubs you requested for your records.[8]
+[16] The Appellant did not respond to this letter and no meeting between the parties, with or without counsel, occurred. However, Mr. Reckenberg made and the Appellant accepted payments of $753 per month from July 2006 to sometime in 2009.
+[17] On December 8, 2008 the Minister reassessed the Appellant’s 2007 taxation year and included the $9,036 received from Mr. Reckenberg in her income as child support. The reassessment motivated the Appellant to commence proceedings in family court to clarify any ambiguity surrounding what she believed had been their agreement in 2006 to increase the child support. To their credit, the Appellant and Mr. Reckenberg were able to settle all outstanding child support matters without litigation; indeed, their actions throughout seem to have been guided by their concerns for their children’s best interest.
+[18] In preparation for the family court matter, a blank standard form court document entitled “Conference Brief”[9] was completed, apparently by the Appellant or perhaps, upon her instruction to a court official. It was signed by Mr. Reckenberg’s counsel upon his instruction. The Appellant put this document in evidence in further support of her contention that she and Mr. Reckenberg had agreed in 2006 to vary the amount of child support payable under the 1994 Separation Agreement. She relied, in particular, on the first sentence in the response to the questions in paragraph 11 of that document:
+11. What are the issues for this case conference? What are the important facts for this case conference?
+[Response:] The parties entered into an amended agreement in 2006 with adjusted child support to the guideline amount. Child support was payable for 2 children at that time. Since that time one of the children finished full-time education and did not return. The Respondent Father continued to pay child support for 2 children for an extra year, until Dec 2008. Child support is now payable for 1 child. Respondent has earned income from employment as well as running a home based business. The Home base business has continued to run in a deficit and for 2009 is being wound down. Income for the Respondent will be based on Employment income only for 2009 which is currently estimated to be $56,000.00. [Emphasis added.]
+Analysis
+1. Was there an agreement to vary the 1994 Separation Agreement which triggered a “commencement day”?
+[19] The relevant portion of the definition of that term appears in subparagraph (b)(ii) of the definition of “commencement day” in subsection 56.1(4) of the Act:
+(b) where the agreement … is made before May 1997, the day, if any, that is after April 1997 and
+…
+(ii) where the agreement … is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+[20] The “agreement” referred to in subparagraph (b)(ii) is the “written agreement” referred to in the definition of “support amount”, also set out in subsection 56.1(4):
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or [Emphasis added.]
+…
+[21] The Appellant’s position is that the letters between her and Mr. Reckenberg constituted an “agreement” capable of varying the 1994 Separation Agreement. In support of her contention, she cited Paul M. MacDonald v. Her Majesty the Queen[10]. In that case, Sarchuk, J. applied Foley v. R.[11], a decision in which former Chief Justice Bowman held that, depending on the facts, an exchange of correspondence might be a “written agreement” but concluded that the “… word ‘agreement’ denotes at least a binding obligation.”[12]
+[22] Justice Sarchuk took the same approach in Paul M. MacDonald, ultimately holding that, on the facts of that case, there was “… no evidence to support a conclusion that the letters in issue were written with the intent and effect of binding the respective clients.”[13]
+[23] In the present case, I am not persuaded that the 2006 correspondence between the Appellant and Mr. Reckenberg constituted an agreement to vary the 1994 Separation Agreement. It comes close: the Appellant and Mr. Reckenberg got as far as acknowledging that the Cost of Living Adjustment clause in the 1994 Separation Agreement had not been respected and that the Child Support Guidelines (which had come into effect in 1997, after the 1994 Separation Agreement had been executed) should be used as the basis for the determination of an increased amount. After that point, however, their negotiations hit a snag. The Appellant was not convinced that Mr. Reckenberg’s 2005 income, as disclosed, was accurate. After raising the issue in some detail and being unsatisfied with Mr. Reckenberg’s response, the Appellant agreed to accept monthly payments of $753 per month commencing July 15, 2006 but expressly reserved her right to challenge the basis for that payment and to collect additional amounts retroactively if her suspicions proved to be true. The Appellant threatened legal action to enforce her position. For his part, Mr. Reckenberg was reluctant to conclude negotiations unless the Appellant was represented by counsel. He also maintained his 2005 income was correct, as reported, and invited the Appellant to challenge it at her peril. There things stood.
+[24] In these circumstances, I am unable to conclude that the 2006 correspondence reveals a meeting of the minds capable of converting their letters into a binding agreement to vary the 1994 Separation Agreement by increasing the child support from $600 to $753 per month.
+[25] The Appellant also argued that the cheques Mr. Reckenberg gave her constituted a binding written agreement citing, in support, my decision in Thomson v. Her Majesty the Queen[14]. The Thomson case does not assist the Appellant’s argument. First, it involved quite unusual facts that are not present here. Further, my finding of a written agreement was not based solely on the cheques the father had paid to the mother for child support; their effect was considered as a whole along with the oral evidence and handwritten entries in the standard form agreement that had been provided to the parties for their completion.
+[26] A further weakness of the Appellant’s argument is that if the parties had truly agreed that as of July 2006 the quantum of child support would be calculated in accordance with the Child Support Guidelines, then presumably it would have had to be redetermined each year depending on their respective incomes. There is no evidence that this was, in fact, done for 2007.
+[27] Turning, finally, to paragraph 11 of the Conference Brief, the bare statement that the “parties entered into an amended agreement in 2006 with adjusted child support to the guideline amount” falls far short of proving the existence of a binding agreement to vary according to precise terms. This sentence appears in a document prepared in the context of laying the foundation for what was to become an agreement to change child support provisions under the 1994 Separation Agreement. In these circumstances, I am unable to read it as an admission by Mr. Reckenberg of the existence of a binding agreement to vary dating back to 2006.
+[28] For these reasons, I find that there was no “agreement” to vary the 1994 Separation Agreement as contemplated by subparagraph (b)(ii) of the definition of “commencement day” in subsection 56.1(4).
+2. Was the $9,036 paid pursuant to the 1994 Separation Agreement?
+[29] The Appellant’s position is that even if there was no agreement to vary the 1994 Separation Agreement, the $9,036 amount was not paid pursuant to that document and accordingly, was merely an ad hoc payment not caught by the definition of “support amount”. Again, the Appellant relied on Paul M. MacDonald, cited above. In that case, Sarchuk, J. found that the provisions of the original written agreement pertaining to child support were no longer operative at the time the former spouse made the payments under appeal and concluded as follows:
+The relevant provisions of the Income Tax Act, i.e. section 56.1 and paragraph 60(b), clearly establish that there must be a written agreement. This requirement is also set out in the definition of support amount. If there is no written agreement, the amounts are not includable in the recipient’s income, and are not deductible in computing the taxpayer’s income. I have concluded that the payments made by Carol are not support payments as defined by the Act, as they are not amounts payable pursuant to a court order or agreement. Rather, they can best be described as ad hoc payments made by Carol to the Appellant.[15]
+[30] In the present case, having found that the 1994 Separation Agreement was not amended by the correspondence in 2006, the question is whether it was still in force in 2007. The events of termination are set out in Clause 5(b); there being no evidence adduced to show that any of these had occurred, I am satisfied that the 1994 Separation Agreement remained in effect in 2007. That being the case, the only amount which Mr. Reckenberg was obliged to pay under Clause 5(a) was $600 per month. In these circumstances, the additional amount of $153 per month was not paid “under a written agreement” as contemplated by the definition of “support amount” in subsection 56.1(4) but rather, on a voluntary or ad hoc basis. For that reason, the additional $1,836 ($153 x 12 months) was not properly included in the Appellant’s 2007 income.
+[31] The appeal is allowed and referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that in 2007, the Appellant received child support of $7,200 pursuant to the 1994 Separation Agreement.
+Signed at Ottawa, Canada this 27th day of January, 2010.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2010TCC48
+COURT FILE NO.: 2009-1534(IT)I
+STYLE OF CAUSE: ELIZABETH A. WOODS AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: November 16, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: January 27, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Anne-Maria Boutin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1.
+[2] Exhibit A-2.
+[3] Exhibit A-3.
+[4] Exhibit A-4.
+[5] Exhibit A-5.
+[6] Exhibit A-6.
+[7] Exhibit A-6.
+[8] Exhibit A-7.
+[9] Exhibit A-8.
+[10] [2006] 1 C.T.C. 2188. (T.C.C.).
+[11] [2000] 4 C.T.C. 2016. (T.C.C.).
+[12] Above, at paragraph 26. See also James v. Her Majesty the Queen, 2008 TCC 340, 2008 DTC 4380.
+[13] Above, at paragraph 11.
+[14] 2004 TCC 772, 2005 DTC 30.
+[15] Above, at paragraph 13.

@@ -1,0 +1,157 @@
+Title: Blanchette c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29238/index.do
+Corpus path: corpus/cases/tcc/2007/2009-cci-263-29238-blanchette-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-12-14
+
+# Blanchette c. La Reine
+
+- Citation: 2009 CCI 263
+- Decision date: 2007-12-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7039, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blanchette c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-12-14
+Référence neutre
+2009 CCI 263
+Numéro de dossier
+2007-2344(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-2344(IT)I
+ENTRE :
+ANDRÉ BLANCHETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 14 décembre 2007, à Montréal (Québec).
+Devant : L'honorable juge Gaston Jorré
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Mounes Ayadi
+____________________________________________________________________
+JUGEMENT
+L'appel des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2002 et 2003 est rejeté, sans frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 22e jour de mai 2009.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2009 CCI 263
+Date : 20090522
+Dossier : 2007-2344(IT)I
+ENTRE :
+ANDRÉ BLANCHETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+La question en litige
+[1] Le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations à l’endroit de l’appelant pour ajouter des revenus de 33 625 $ en 2002 et de 11 856 $ en 2003, montants que le ministre a déterminés en utilisant une analyse des dépôts bancaires de l’appelant et de sa conjointe. Le ministre a également imposé des pénalités en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « LIR »).
+[2] Il y a eu deux témoins, l’appelant et la vérificatrice. Huit pièces ont été déposées.
+Les faits
+[3] L’appelant était salarié. Il avait également un restaurant qu’il exploitait le soir et les fins de semaine à un aréna à L’Assomption. Il était également l’actionnaire majoritaire de la compagnie 9074-7502 Québec inc., qui exploitait une pourvoirie au Saguenay. Il a créé cette compagnie et était le seul actionnaire. Plus tard, sa conjointe, Mme Pierrette Lemire, est devenue actionnaire.
+[4] Le revenu familial net déclaré par l’appelant était de 33 018 $ en 2002 et de 31 171 $ en 2003. L’appelant a reçu un salaire de 44 600 $ en 2002 et de 49 774 $ en 2003[1].
+[5] La vérificatrice, Isabelle Vermette, a constaté des faiblesses importantes dans la comptabilité et a procédé à une évaluation des revenus en analysant les dépôts faits aux comptes bancaires de l’appelant et de Mme Lemire.
+[6] La vérificatrice a décrit sa méthode de travail et a produit les pièces I-1 et I‑2. En résumé, la vérificatrice a fait l’addition de tous les dépôts et a déduit les revenus déclarés et d’autres montants qui étaient expliqués. Elle s’est également assurée d’enlever tout montant qui pouvait être un dépôt provenant de la pourvoirie (9074-7502 Québec inc.)[2].
+[7] De façon générale, l’appelant n’a pas mis en doute la méthode utilisée par la vérificatrice. Sa prétention était qu’il a reçu de Mme Lemire certains montants qui auraient dû être pris en compte. Ces montants expliqueraient les dépôts et auraient pour conséquence de démontrer qu’il n’y avait pas de revenu non déclaré.
+[8] Il n’était pas toujours facile de suivre l’explication de l’appelant.
+[9] Son avis d’appel dit : « […] ma conjointe m’avait transféré $38,500.00, en argent liquide, que j’ai utilisé pour suppléer à des déficits d’opération suite à la venue de diverses chaînes de restaurants rapides. » L’avis dit également qu’« […] en contrepartie de d’autres sommes d’argent […] », il a cédé 49 % de 9074-7502 Québec inc. à sa conjointe.
+[10] Avant le contre-interrogatoire, l’appelant n’a pas témoigné relativement au montant de 38 500 $ utilisé pour combler les pertes d’exploitation du restaurant.
+[11] L’appelant a témoigné que Mme Lemire lui a donné 79 000 $ en 2001 et en 2002. Cette somme a servi à acheter 49 % des actions de la pourvoirie de l’appelant. Il n’y a pas de contrat d’achat écrit relativement à l’achat des actions.
+[12] L’appelant a déposé les pièces A-1 à A-6.
+[13] La pièce A-4 est le relevé des opérations bancaires de Mme Lemire en date du 31 décembre 2001. L’appelant a surligné en jaune les retraits des montants que, selon lui, Mme Lemire lui a donnés. Ces montants totalisent 52 350 $ et le dernier retrait surligné a été effectué le 7 juin 2001[3]. Ces montants provenaient d’un héritage que Mme Lemire a reçu et servaient à l’exploitation de la pourvoirie.
+[14] L’appelant a déposé, sous la cote A-6, des copies de trois certificats d’actions de la pourvoirie. Le premier, en date du 4 mars 1999, pour 100 actions, est au nom de l’appelant. Le deuxième, en date du 31 décembre 2002, pour 410 actions, est au nom de l’appelant. Le troisième, en date du 31 décembre 2002, pour 490 actions, est au nom de Mme Lemire.
+[15] L’appelant a également déposé le procès-verbal d’une assemblée spéciale de la compagnie tenue le 23 septembre 2003[4] où il est proposé et accepté de transférer 490 actions de l’appelant à Mme Lemire. Cette réunion a eu lieu presque neuf mois après la date d’émission des actions de Mme Lemire.
+[16] L’appelant a témoigné que le montant de 52 350 $ représentait une partie du montant total de 79 000 $ que Mme Lemire avait payé pour l’achat des actions. Bien que Mme Lemire ait fait des paiements pour les actions en 2001, l’appelant a dit qu’il n’a émis de certificats d’actions que lorsque les actions étaient complètement payées.
+[17] En contre-interrogatoire, on a demandé à l’appelant pourquoi ces retraits faits par Mme Lemire étaient pertinents aux années 2002 et 2003. L’appelant a répondu qu’il a gardé ces montants et les a utilisés, du moins en partie, en 2002 et en 2003 pour combler un manque de recettes à la pourvoirie. Plus tard durant le contre-interrogatoire, il a expliqué qu’il gardait des sommes importantes d’argent à la maison pour payer des achats par la pourvoirie. Parfois, ces achats étaient urgents. Par exemple, il y a eu une occasion où il a été obligé d’acheter un camion en une heure. Il ne craignait pas de garder beaucoup d’argent à la maison, car il a trois chiens et un endroit sûr.
+[18] L’argent reçu de Mme Lemire a aussi servi à éponger les pertes du restaurant.
+[19] En plus du montant de 52 350 $, l’appelant a reçu le reste du montant de 79 000 $, c’est-à-dire 26 650 $, de Mme Lemire en 2002.
+[20] Quand l’appelant a été interrogé au sujet du montant de 38 500 $ dont il est question dans l’avis d’appel, l’appelant a dit qu’il s’agissait d’une partie du montant de 79 000 $ payé pour les actions[5].
+[21] Normalement, le restaurant est ouvert de septembre à mars ou à la mi-mars. La pourvoirie était exploitée quatre mois par année, de juin à octobre.
+[22] Selon les états financiers déposés, la pourvoirie a perdu 8 201 $ en 2001, 10 578 $ en 2002 et 13 140 $ en 2003[6]. Le restaurant a perdu 25 486 $ en 2002 et 29 336 $ en 2003[7].
+[23] Les recettes des entreprises de l’appelant n’étaient pas toujours déposées en banque. Il arrivait que les recettes servent directement à payer des dépenses[8].
+[24] En contre-interrogatoire, l’avocat de l’intimée a suggéré à l’appelant ce qui suit :
+a) Lorsque la vérificatrice a présenté la première fois un projet de cotisation pour le revenu additionnel, l’appelant a seulement fourni comme explication qu’il s’agissait de dépôts provenant de la pourvoirie.
+b) Lorsque l’appelant a parlé la première fois de montants provenant de Mme Lemire, c’était plus tard, lors d’un appel le 30 novembre 2004, après que la vérificatrice a refait le projet de cotisation pour s’assurer qu’il n’inclue aucun dépôt pouvant provenir des revenus de la pourvoirie.
+c) Le montant provenant de Mme Lemire dont il était question le 30 novembre était de 30 000 $, et non de 79 000 $ ou de 38 500 $.
+[25] L’appelant était en désaccord avec les deux premières suggestions et a répondu que la vérificatrice était au courant des montants provenant de Mme Lemire avant le 30 novembre 2004. Quant à la troisième suggestion, il a dit qu’il avait demandé à la vérificatrice si elle avait pris en compte le montant de 38 000 $ provenant de Mme Lemire[9].
+[26] La vérificatrice a témoigné que c’est le 22 novembre, quand elle a présenté un projet de cotisation, que l’appelant lui a dit qu’une partie de l’écart provenait de revenus de la pourvoirie. L’appelant n’a fourni aucune autre explication à ce moment.
+[27] C’est lorsqu’elle a téléphoné à l’appelant le 30 novembre pour lui dire que les dépôts de la pourvoirie n’expliquaient pas tous les écarts que l’appelant lui a dit que Mme Lemire lui avait donné 30 000 $ pour vivre. L’appelant n’a pas dit que ce montant de 30 000 $ avait été utilisé pour la pourvoirie ou le restaurant[10].
+[28] Mme Lemire n’a pas témoigné et l’appelant n’a pas produit le relevé du compte en banque de Mme Lemire pour les périodes après 2001.
+Analyse
+[29] Il s’agit d’une question de fait.
+[30] L’appelant prétend que les dépôts non expliqués de 45 481 $[11] proviennent de paiements de 79 000 $ de Mme Lemire pour les actions; 52 350 $ aurait été payé en 2001 et 26 650 $ en 2002. Cela suppose qu’à la fin 2001, l’appelant gardait à la maison au moins 18 831 $ au comptant, montant qui serait disponible après 2001[12]. À la fin 2002, il aurait gardé un montant d’au moins 11 856 $ qui serait disponible en 2003[13].
+[31] Pourquoi? Selon l’appelant, c’était pour payer des dépenses de la pourvoirie, des dépenses parfois urgentes, malgré le fait que la pourvoirie n’est pas exploitée après octobre et avant juin. En fait, il n’était pourtant pas nécessaire de garder ces montants importants à la maison pour payer des dépenses au comptant, car, toujours selon l’appelant, ces montants furent déposés par la suite à la banque par une série de dépôts[14].
+[32] Mme Lemire n’a pas témoigné et, bien que l’appelant ait produit le relevé des opérations bancaires de Mme Lemire pour 2001, il ne l’a pas fait pour 2002. Il n’y a pas de corroboration du témoignage de l’appelant.
+[33] J’accepte le témoignage de la vérificatrice selon lequel ce n’est que le 30 novembre qu’il a été question de montants provenant de Mme Lemire et que l’appelant a parlé d’un montant de 30 000 $ et non de 79 000 $.
+[34] Les explications de l’appelant étaient difficiles à suivre et semblaient avoir évolué avec le temps.
+[35] Je n’accepte pas la preuve de l’appelant.
+[36] En conséquence, les changements que le ministre a faits au revenu de l’appelant seront maintenus.
+Pénalités
+[37] Il reste la question des pénalités. Le paragraphe 163(2) de la LIR s’applique à :
+[…] toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration. […]
+[38] Le fardeau de la preuve, en ce qui concerne la pénalité, incombe au ministre et :
+[l]a « faute lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi[15].
+[39] Je dois également considérer ce que le juge Nadon a dit en rendant la décision de la Cour d’appel fédérale dans Panini c. Canada[16] :
+[…] le droit imputera une connaissance au contribuable qui, dans des circonstances qui lui commanderaient ou lui imposeraient de s'enquérir de sa situation fiscale, refuse ou néglige de le faire sans raison valable.
+[40] Dans la présente cause, nous sommes dans une situation où le revenu d’entreprise brut déclaré par l’appelant était de 26 744 $ en 2002 et de 25 385 $ en 2003. Les montants ajoutés par le ministre sont de 33 625 $ en 2002 et de 11 856 $ en 2003, soit environ 125 % et 45 %, respectivement, du revenu d’entreprise brut déclaré.
+[41] Si on compare les montants non déclarés au total des salaires, des montants tirés d’un REÉR[17] et des revenus d’entreprise bruts déclarés[18], les montants non déclarés représentent 47 % et 15 % des revenus totaux en 2002 et en 2003, respectivement.
+[42] Ces montants sont trop importants dans l’absolu et relativement pour ne pas conclure qu’il y a eu, au moins, une indifférence au respect de la LIR. Il y a donc faute lourde et l’application de la pénalité est justifiée.
+[43] L’appel est rejeté sans frais.
+Signé à Ottawa, Canada, ce 22e jour de mai 2009.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE : 2009 CCI 263
+Nº DU DOSSIER DE LA COUR : 2007-2344(IT)I
+INTITULÉ DE LA CAUSE : ANDRÉ BLANCHETTE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 14 décembre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 22 mai 2009
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Mounes Ayadi
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce I-2, ligne 101, pages 1 et 4.
+[2] En 2003, directement, car elle a pu identifier les dépôts provenant de la pourvoirie au compte à la Banque de Montréal et, en 2002, indirectement, en déduisant tous les revenus bruts de 9074-7502 Québec inc., moins les montants déposés au compte de la compagnie.
+[3] La pièce A-4 n'est pas toujours facile à lire. La dernière page porte sur le compte de la pourvoirie en 2001. Le haut de la colonne de gauche de la première page et le bas de la colonne de droite de l'avant-dernière page portent en partie sur un autre client de la banque.
+[4] Pièce A-5, page 1.
+[5] Transcription, questions 130 à 136.
+[6] Pièces A-1 à A-3. Au début de 2001, la pourvoirie avait des pertes accumulées de 40 335 $ (pièce A-1, page 3).
+[7] Pièce I-2, page 3, ligne 135, colonne du milieu, et page 6, ligne 135, colonne du milieu.
+[8] Transcription, questions 149, 150, 166, 182 et 183.
+[9] Transcription, questions 152 à 170.
+[10] Transcription, questions 234 et 260 à 269.
+[11] En 2002, 33 625 $ et, en 2003, 11 856 $.
+[12] Le montant de 18 831 $ était à la maison depuis juin, quand Mme Lemire a fait le dernier retrait en question en 2001.
+[13] Puisque l’appelant affirme que Mme Lemire lui avait donné 26 650 $ en 2002 et puisqu’il y a des dépôts non expliqués de 33 625 $ en 2002 et de 11 856 $ en 2003 (33 625 $ + 11 856 $ = 45 481 $), il aurait fallu que l’appelant ait 18 831 $ (45 481 $ - 26 650 $) à la maison le 31 décembre 2001. Puisqu’il n’y a pas de paiements de Mme Lemire en 2003, il aurait fallu que l’appelant ait à la maison, le 31 décembre 2002, le montant total des dépôts non expliqués en 2003, c’est‑à‑dire 11 856 $.
+[14] Pièce I-1, page 1.
+[15] Selon le juge Strayer dans Venne c. La Reine, [1984] A.C.F. no 314 (QL).
+[16] 2006 CAF 224, paragraphe 43.
+[17] En 2003 seulement.
+[18] Ces montants se trouvent à la pièce I-2.

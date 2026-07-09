@@ -1,0 +1,175 @@
+Title: Luscher v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30795/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-151-30795-luscher-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-05-09
+
+# Luscher v. The Queen
+
+- Citation: 2012 TCC 151
+- Decision date: 2012-05-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7536, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Luscher v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-05-09
+Neutral citation
+2012 TCC 151
+File numbers
+2011-3079(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-3079(IT)I
+BETWEEN:
+BRIAN A. LUSCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on the basis of an
+Agreed Statement of Facts (filed March 14, 2012)
+and
+Written Submissions (filed March 29, 30 and April 5, 2012)
+Before: The Honourable Justice Wyman W. Webb
+Participants:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Caroline Ebata
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 9th day of May 2012.
+“Wyman W. Webb”
+Webb J.
+Citation: 2012TCC151
+Date: 20120509
+Docket: 2011-3079(IT)I
+BETWEEN:
+BRIAN A. LUSCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in this appeal is how “income for the year” is to be determined for the purposes of section 118.94 of the Income Tax Act (the “Act”) and in particular how capital gains realized in Canada and capital losses realized in another country (in the United States in this case) are to be taken into account in determining a person’s income for the purposes of this section. This section provides as follows:
+118.94 Sections 118 to 118.06 and 118.2, subsections 118.3(2) and (3) and sections 118.6, 118.8 and 118.9 do not apply for the purpose of computing the tax payable under this Part for a taxation year by an individual who at no time in the year is resident in Canada unless all or substantially all the individual's income for the year is included in computing the individual's taxable income earned in Canada for the year.
+[2] The Appellant was not a resident of Canada at any time in 2008. During that year he disposed of a taxable Canadian property and reported the taxable capital gain realized as a result of this disposition in a tax return that he filed in Canada for that year. He also included a claim for a tax credit based on medical expenses of $8,865, although he did cross out the non-refundable tax credit of $2,514 in determining the amount of taxes payable (which as a result of the amount withheld and remitted following the sale of his property, resulted in a refund). In assessing his return the Canada Revenue Agency did take the tax credit based on the medical expenses into account and increased his refund. He was subsequently reassessed to deny any claim for medical expenses and the Appellant has appealed this reassessment.
+[3] The issue of whether the Appellant is entitled to the tax credit based on medical expenses will depend on the amount of the Appellant’s income for 2008 that was included in computing his taxable income earned in Canada in 2008.
+[4] It is the Appellant’s position that in determining the total amount of his income for 2008 the amount of the capital gain realized in Canada ($113,692) should be treated as his income in Canada. It is also his position that he did not have any income in the United States since he had realized a capital loss in the United States and the full amount of this capital loss ($169,767 US) exceeded his other income earned in the United States ($61,000 US[1]), even though only $3,000 US of the capital loss was deducted in determining his total income for U.S. tax purposes (to reduce his total income to $58,000 US). Therefore it is his position that all or substantially all of his total income was included in computing his taxable income earned in Canada.
+[5] It is the position of the Respondent that the Appellant’s taxable income earned in Canada in 2008 is his taxable capital gain ($56,846) (which is one-half of his capital gain of $113,692) and that his other income was the amount that the Appellant reported as his “adjusted gross income” of $57,231 US ($61,008 Cdn) in his US tax return for 2008[2]. The “adjusted gross income” included the deduction of $3,000 US that the Appellant claimed in relation to a capital loss of $169,767 US that the Appellant had incurred in 2008 and a deduction of $769 US as a “domestic production activities deduction”[3]. Based on this determination of income, it is the Respondent’s position that the Appellant’s taxable income earned in Canada ($56,846) was less than one-half of all of his income for 2008 ($56,846 + $61,008 = $117,854) and therefore not all or substantially all of the Appellant’s income for 2008 was included in computing his taxable income earned in Canada.
+[6] In my opinion neither position is correct in relation to the determination of the Appellant’s income for 2008. The Act is divided into several Parts. In this case Part I is the relevant Part. This Part is divided into various Divisions including:
+Division A – Liability for Tax (section 2)
+Division B – Computation of Income (sections 3 to 108)
+Division C – Computation of Taxable Income (sections 109 to 114.2)
+Division D – Taxable Income Earned in Canada by Non-Residents (sections 115 to116)
+Division E – Computation of Tax (sections 117 to 127.41)
+[7] Section 118.94 of the Act requires two calculations – one is the person’s income for the year and the second is the person’s taxable income earned in Canada for the year. Once these two amounts are known, it is then necessary to determine whether all or substantially all of the Appellant’s income for 2008 was included in computing his taxable income earned in Canada for 2008. To determine this it will be necessary to determine what amounts are included in the Appellant’s income for 2008 and also included in computing the Appellant’s taxable income earned in Canada for 2008.
+[8] The first question is, therefore, what is the Appellant’s income for 2008? Since Division B of the Act addresses the computation of income it would seem to me that this is the Division that should be reviewed to determine the Appellant’s income for 2008.
+Appellant’s Income for 2008
+[9] Section 3 of the Act (which is within Division B) provides, in part, as follows:
+3. The income of a taxpayer for a taxation year for the purposes of this Part is the taxpayer's income for the year determined by the following rules:
+(a) determine the total of all amounts each of which is the taxpayer's income for the year (other than a taxable capital gain from the disposition of a property) from a source inside or outside Canada, including, without restricting the generality of the foregoing, the taxpayer's income for the year from each office, employment, business and property,
+(b) determine the amount, if any, by which
+(i) the total of
+(A) all of the taxpayer's taxable capital gains for the year from dispositions of property other than listed personal property, and
+(B) the taxpayer's taxable net gain for the year from dispositions of listed personal property,
+exceeds
+(ii) the amount, if any, by which the taxpayer's allowable capital losses for the year from dispositions of property other than listed personal property exceed the taxpayer's allowable business investment losses for the year,
+(c) determine the amount, if any, by which the total determined under paragraph (a) plus the amount determined under paragraph (b) exceeds the total of the deductions permitted by subdivision e in computing the taxpayer's income for the year (except to the extent that those deductions, if any, have been taken into account in determining the total referred to in paragraph (a)), and
+(d) determine the amount, if any, by which the amount determined under paragraph (c) exceeds the total of all amounts each of which is the taxpayer's loss for the year from an office, employment, business or property or the taxpayer's allowable business investment loss for the year,
+(e) where an amount is determined under paragraph (d) for the year in respect of the taxpayer, the taxpayer's income for the year is the amount so determined, and
+(f) in any other case, the taxpayer shall be deemed to have income for the year in an amount equal to zero.
+[10] Section 3 provides the general rules for the determination of income from various sources, and in particular the general rules related to the amount that is to be included in income for taxable capital gains and allowable capital losses. The opening part of section 3 of the Act provides that a person’s income for the purposes of Part I of the Act is to be determined in accordance with the rules as set out in this section. Since section 118.94 of the Act is within Part I of the Act, the rules for determining income, as set out in section 3 of the Act, apply in determining income for the purposes of section 118.94 of the Act.
+[11] The determination of income for the purposes of Part I of the Act is not based on whether the income is earned inside Canada or outside Canada. Income is to be determined for the purposes of Part I of the Act in accordance with the rules as set out in section 3 and Division B of Part I of the Act regardless of where it is earned. It should be noted that a person who is a resident of Canada will pay tax based on that person’s taxable income[4] which is determined under Division C of Part I of the Act and a person who is not a resident of Canada but who was employed in Canada, carried on a business in Canada or disposed of a taxable Canadian property will, subject to any applicable tax treaty, pay tax in Canada based on that person’s taxable income earned in Canada as determined in accordance with the provisions of Division D of Part I[5].
+[12] Therefore, for the first calculation that is required for the purposes of section 118.94 of the Act, it is necessary to determine the Appellant’s income for 2008, as it would be determined for the purposes of Part I of the Act, regardless of where the income was earned. It is clear in paragraph 3(b) of the Act that, with respect to the dispositions of capital properties, the amount to be included in income (in relation to the taxable capital gains or allowable capital losses realized on the dispositions of such capital properties) is the amount, if any, by which the Appellant’s taxable capital gains realized during the year exceed his allowable capital losses for the year.
+[13] Section 38 of the Act provides, in part, as follows:
+38. For the purposes of this Act,
+(a) subject to paragraphs (a.1) to (a.3), a taxpayer's taxable capital gain for a taxation year from the disposition of any property is ½ of the taxpayer's capital gain for the year from the disposition of the property;
+…
+(b) a taxpayer's allowable capital loss for a taxation year from the disposition of any property is ½ of the taxpayer's capital loss for the year from the disposition of that property; and
+[14] Taxable capital gains are therefore one-half of capital gains and allowable capital losses are one-half of capital losses. In 2008 the Appellant incurred a capital gain in relation to the disposition of property in Canada and a capital loss[6] in relation to the disposition of property in the United States. As provided in section 3 of the Act, the Appellant’s income for 2008 is to be determined, in part, by determining the amount by which his taxable capital gains exceed his allowable capital losses. This would include taxable capital gains and allowable capital losses related to the dispositions of any capital property, not just taxable Canadian properties (which are relevant in determining taxable income earned in Canada under a separate Division of the Act).
+[15] Therefore, based on the rules for determining income as set out in paragraph 3(b) of the Act, the amount of the Appellant’s income for 2008 related to his dispositions of capital properties[7] is:
+Capital Gain (property in Canada)
+$113,692
+Taxable capital gain (1/2 of the capital gain)
+$56,846
+Capital Losses (property in the U.S.)
+$180,972[8]
+Allowable capital losses (1/2 of the capital losses)
+($90,486)
+Amount included in income:
+0
+[16] Since paragraph 3(b) of the Act provides that a taxpayer’s income is determined based on the amount, if any, by which that person’s taxable capital gains exceed that person’s allowable capital losses, no amount would be included in income under paragraph 3(b) of the Act as the Appellant’s taxable capital gains in 2008 did not exceed his allowable capital losses. It must be remembered that this calculation is being done to determine the Appellant’s total income for 2008 not his taxable income earned in Canada (which is used to determine his liability for taxes in Canada).
+[17] The Appellant’s other income for 2008 was earned in the United States and was derived from interest, dividends, pensions and IRA distributions. The amount identified on his US tax return as his total income was $58,000 US. It seems to me that this is the starting point to determine his income earned in the United States as this amount is before any deduction is taken for the “domestic production activities deduction” which appears to be a deduction that is allowed in computing his adjusted gross income for the purposes of the Internal Revenue Code but would not be a deduction that would be permitted in determining his income for the purposes of the Act.
+[18] The total income amount of $58,000 US included a deduction of $3,000 US for the capital loss which, for the purposes of section 3 of the Act, would only be relevant in relation to taxable capital gains. His income earned in the United States, excluding this deduction for $3,000 US, was $61,000 US ($65,026 Cdn)[9]. It is not clear whether any other adjustments would have to be made to the total income to determine what the income amount would be for the purposes of Part I of the Act.
+[19] As a result it appears that his total income for 2008, as determined for the purposes of Part I of the Act, would be $65,026. No amount would be included in relation to the taxable capital gain as it would be offset by the allowable capital losses.
+Appellant’s Taxable Income Earned in Canada for 2008
+[20] The second amount that is required for the purposes of section 118.94 of the Act is the amount of the Appellant’s taxable income earned in Canada. Subsection 115(1) of the Act provides in part as follows:
+115.(1) For the purposes of this Act, the taxable income earned in Canada for a taxation year of a person who at no time in the year is resident in Canada is the amount, if any, by which the amount that would be the non-resident person's income for the year under section 3 if
+(a) the non-resident person had no income other than
+…
+(iii) taxable capital gains from dispositions described in paragraph (b),
+…
+(b) the only taxable capital gains and allowable capital losses referred to in paragraph 3(b) were taxable capital gains and allowable capital losses from dispositions, other than dispositions deemed under subsection 218.3(2), of taxable Canadian properties (other than treaty-protected properties), and …
+[21] “Taxable Canadian properties” is defined in subsection 248(1) of the Act. There is no dispute in this case that the real property that was located in Canada (which the Appellant sold in 2008 and, as a result of such disposition, realized a capital gain) was a taxable Canadian property and that the properties, the disposition of which gave rise to capital losses in the United States, were not taxable Canadian properties. Therefore in determining the Appellant’s taxable income earned in Canada, only the taxable capital gain realized as a result of the disposition of the real property located in Canada is to be included. The allowable capital losses arising as a result of the dispositions of the properties in the United States (which were not taxable Canadian properties) are not taken into account in determining the Appellant’s taxable income earned in Canada.
+[22] There was no dispute that the other income amounts earned by the Appellant in the United States are not to be included in determining the Appellant’s taxable income earned in Canada. Therefore the Appellant’s taxable income earned in Canada (which is used to determine his tax liability under the Act) is $56,846, which is the amount of his taxable capital gain realized as a result of the disposition of his taxable Canadian property.
+Comparison of Income to Taxable Income Earned in Canada
+[23] The next step is to determine whether all or substantially all of the Appellant’s income for 2008 is included in computing the Appellant’s taxable income earned in Canada for 2008. In order to determine what part of the Appellant’s income is included in computing his taxable income in Canada, it is necessary, in this case, to examine how his income is determined and what amounts are included in his income. It is then necessary to determine what components of his income are also used in computing his taxable income earned in Canada.
+[24] As noted above the Appellant’s income for 2008 (as determined in accordance with the rules as set out in section 3 of the Act) was $65,026, which consisted of his dividend income, interest income, pension income and IRA withdrawals. No part of this income of $65,026 was included in the Appellant’s taxable income earned in Canada (which is $56,846). His taxable income earned in Canada only included his taxable capital gain which would not be included in determining his income for 2008 as the allowable capital losses exceeded his taxable capital gains. Therefore all or substantially all of the Appellant’s income for 2008 was not included in computing his taxable income earned in Canada and the Appellant is not entitled to any claim for a tax credit in relation to the medical expenses that he incurred.
+[25] While this is an unusual case as the Appellant’s income (from all sources) is less than his taxable income earned in Canada, it seems to me that this is the result of the application of the rules for determining income and the provisions related to the determination of his taxable income earned in Canada. The allowable capital losses realized by the Appellant in the United States are deductible (to the extent they do not exceed his taxable capital gains) in determining his income for the purposes of Part I of the Act. These allowable capital losses, however, are not deductible in determining his taxable income earned in Canada as the properties, the disposition of which gave rise to the allowable capital losses, were not taxable Canadian properties.
+Canada – US Tax Convention
+[26] The Appellant referred to Article XXV of the Canada - United States Tax Convention. Paragraph 1 of this Article, as it read in relation to the 2008 taxation year[10], provided that:
+1. Citizens of a Contracting State, who are residents of the other Contracting State, shall not be subjected in that other State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which citizens of that other State in the same circumstances are or may be subjected.
+[27] While the Appellant was a citizen of the United States he was not a resident of Canada in 2008 and therefore this paragraph is not applicable.
+[28] Paragraph 2 of this Article, as it read in relation to the 2008 taxation year[11], provided that:
+2. Citizens of a Contracting State, who are not residents of the other Contracting State, shall not be subjected in that other State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which citizens of any third State in the same circumstances (including State of residence) are or may be subjected.
+[29] Since the income of a person who is a citizen of the United States and not a resident of Canada would be determined for the purposes of section 118.94 of the Act in the same manner as the income of a person who is a citizen of any other country and not a resident of Canada, the Appellant is not being subjected to any different taxation or requirement than any citizen of any other country in the same circumstances. A citizen of any other country (who is not a resident of Canada) with the same sources and amounts of income as the Appellant had in this case would also not be entitled to claim a tax credit under the Act based on medical expenses. Each non-resident person, regardless of their citizenship, would calculate their income for the purposes of section 118.94 of the Act in accordance with the same rules as set out in section 3 and Division B of the Act. Therefore this provision of the Canada - United States Tax Convention, as it read for 2008, is not applicable.
+[30] As a result the Appellant’s appeal is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 9th day of May 2012.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2012TCC151
+COURT FILE NO.: 2011-3079(IT)I
+STYLE OF CAUSE: BRIAN A. LUSCHER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+DATE OF HEARING: By written submissions concluded on
+April 5, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: May 9, 2012
+PARTICIPANTS:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Caroline Ebata
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In his US tax return for 2008, the amount identified as “total income” was $58,000 US. This was determined by deducting $3,000 US of capital losses and therefore his income earned in the United States (excluding any deduction for capital losses) was $61,000 US.
+[2] $57,231 US x 1.066 (average exchange rate for 2008) = $61,008 Cdn. As an alternate argument, the Respondent submitted that the Appellant’s other income was the amount of his total income as reported on his US Tax Return.
+[3] The only difference between the “total income” and the “adjusted gross income” was the deduction of $769 US claimed for the “domestic production activities deduction”. No explanation for this deduction was provided.
+[4] Subsection 2(1) of the Act.
+[5] Subsection 2(3) of the Act. A tax is also imposed on non-residents on certain types of payments made by a resident of Canada to a non-resident of Canada as provided in Part XIII of the Act.
+[6] In the Appellant’s US tax return, $159,964 US of the capital loss was identified as short term capital losses. No issue was raised with respect to whether this would be an income loss or a capital loss for the purposes of the Act. Although it may be recognized as a capital loss for the purposes of the Internal Revenue Code, it would not necessarily follow that it would also be a capital loss for the purposes of the Act. There was no evidence or argument related to whether the short term capital losses for the purposes of the Internal Revenue Code would be capital losses for the purposes of the Act and therefore the short term capital losses will be treated as capital losses for the purposes of this appeal.
+[7] The Appellant’s capital properties were not depreciable properties. Therefore the only amount that would be relevant in determining the Appellant’s income as a result of the disposition of any of the Appellant’s capital properties would be either a taxable capital gain or an allowable capital loss.
+[8] $169,767 US x 1.066 (average exchange rate for 2008) = $180,972 (Cdn).
+[9] $61,000 US x 1.066 (average exchange rate for 2008) = $65,026 (Cdn).
+[10] This paragraph was replaced by the Fifth Protocol effective for 2009.
+[11] This paragraph was repealed by the Fifth Protocol effective for 2009.

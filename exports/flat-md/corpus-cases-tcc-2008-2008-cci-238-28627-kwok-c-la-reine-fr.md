@@ -1,0 +1,156 @@
+---
+title: "Kwok c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28627/index.do"
+last_modified: "2008-04-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 238"
+citation2: ""
+neutral_citation: "2008 CCI 238"
+decision_date: "2008-04-25"
+language: "fr"
+item_id: "28627"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1159
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:51:38.859000+00:00"
+cases_cited_count: 1
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e9dda069404fe0e4b5ae9130a4287cadaeea78ee37b255b775efcd66b079af17"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kwok c. La Reine
+
+- Citation: 2008 CCI 238
+- Decision date: 2008-04-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1159, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kwok c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-25
+Référence neutre
+2008 CCI 238
+Numéro de dossier
+2005-3718(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2008CCI238
+Date : 20080425
+Dossier : 2005‑3718(IT)G
+ENTRE :
+YUI CHEUNG KWOK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005‑3714(IT)G
+ET ENTRE :
+CHI WO LO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ORDONNANCE ET MOTIFS DE L’ORDONNANCE
+La juge V.A. Miller
+[1] Les appelants ont déposé un avis de requête en vertu de la règle 58 des Règles de la Cour canadienne de l’impôt (procédure générale) (la « règle » ou les « Règles ») pour demander à la Cour de se prononcer, avant l’audience, sur une question de droit soulevée dans les actes de procédure. L’intimée a consenti à la présente requête.
+[2] La démarche prévue dans la règle 58 comporte deux étapes. La Cour doit d’abord décider si la question peut être tranchée d’une façon appropriée en vertu de la règle 58. Dans l’affirmative, la Cour fixe ensuite la date de l’audition de la question de droit. (Spencer v. Canada, [2001] 4 C.T.C. 2640; Canada c. Webster, 2002 CAF 205.) Les présents motifs visent à répondre à la question du caractère approprié.
+[3] Les paragraphes (1) et (2) de la règle 58 prévoient ce qui suit :
+(1) Une partie peut demander à la Cour,
+a) soit de se prononcer, avant l’audience, sur une question de droit, une question de fait ou une question de droit et de fait soulevée dans une instance si la décision pourrait régler l’instance en totalité ou en partie, abréger substantiellement l’audience ou résulter en une économie substantielle des frais;
+b) soit de radier un acte de procédure au motif qu’il ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel,
+et la Cour peut rendre jugement en conséquence.
+(2) Aucune preuve n’est admissible à l’égard d’une demande,
+a) présentée en vertu de l’alinéa (1)a), sauf avec l’autorisation de la Cour ou le consentement des parties;
+b) présenté en vertu de l’alinéa (1)b).
+[4] L’avis de requête est daté du 3 avril 2008. Il est libellé en ces termes :
+[traduction]
+LA REQUÊTE VISE l’obtention d’une décision, conformément au paragraphe 58(1) des Règles de la Cour canadienne de l’impôt, au sujet de la question de droit ci‑après énoncée qui est soulevée dans les actes de procédure :
+La quatrième condition préalable à l’application du paragraphe 56(2) de la Loi de l’impôt sur le revenu (Canada) (la « Loi ») peut‑elle être remplie lorsque le transfert intersociétés effectué suivant les instructions ou avec l’accord de l’actionnaire appelant se rapporte à la vente de marchandises à un prix inférieur à la juste valeur marchande en faveur d’une société non‑résidente avec laquelle il avait un lien de dépendance?
+LES MOYENS INVOQUÉS À L’APPUI DE LA PRÉSENTE REQUÊTE sont les suivants :
+a) dans l’arrêt Neuman, la Cour suprême du Canada a énoncé les conditions préalables suivantes à l’application du paragraphe 56(2), chacune de ces conditions figurant, comme l’a fait remarquer la cour, dans le texte du paragraphe 56(2) lui‑même :
+i. le paiement doit être fait à une autre personne que le contribuable à l’égard duquel une nouvelle cotisation est établie;
+ii. la répartition doit être faite suivant les instructions ou avec l’accord du contribuable à l’égard duquel une nouvelle cotisation est établie;
+iii. le paiement doit être fait au profit du contribuable à l’égard duquel une nouvelle cotisation est établie ou à une autre personne à titre d’avantage que ce contribuable souhaitait voir accorder à cette autre personne;
+iv. le paiement aurait été inclus dans le revenu du contribuable à l’égard duquel une cotisation est établie si ce dernier l’avait reçu lui‑même.
+b) si l’une de ces conditions préalables n’est pas remplie, le paragraphe 56(2) de la Loi ne s’applique pas. La présente requête ne porte pas sur les trois premières conditions préalables;
+c) la question de droit susmentionnée est uniquement de savoir si la quatrième condition préalable a été remplie, étant donné que, selon l’appelant, il est uniquement possible de répondre à cette question en se reportant aux hypothèses de fait émises par le ministre du Revenu national (le « ministre ») ainsi qu’aux faits que l’intimée a admis dans ses actes de procédure;
+d) l’appelant estime que les deux faits ci‑après énoncés, qui ne sont pas mentionnés dans les actes de procédure de l’intimée, ne sont pas pertinents lorsqu’il s’agit de trancher la question de droit, mais sur les instances de l’intimée, il les admet uniquement pour les besoins de la présente requête :
+i. Casual Time Garment Factory (Canada) Ltd. (la « société canadienne ») n’exerçait pas ses activités au Canada et ne possédait pas d’actifs au Canada après l’année 2003;
+ii. l’ARC n’a pas pu recouvrer de la société canadienne le montant payable par la société par suite de la cotisation relative à l’établissement du prix du transfert;
+e) à supposer, pour les besoins de la requête, que tous les faits mentionnés aux alinéas c) et d) soient exacts, le paragraphe 56(2) de la Loi ne s’applique pas en vue d’assujettir l’appelant à l’impôt, étant donné que la quatrième condition préalable n’a pas été remplie;
+f) lorsqu’un contribuable peut démontrer que, même si les hypothèses sont exactes, elles n’étayent pas la cotisation, il faut annuler cette cotisation (voir MNR v. Pillsbury Holdings Ltd., 64 DTC 5184 (C. de l’É.));
+g) si la Cour se prononce sur la question qui est soulevée en faveur de l’appelant, la décision réglera la présente instance sans qu’il soit nécessaire de procéder à une instruction, de sorte qu’il en résultera une énorme économie de temps et d’argent pour les deux parties.
+[5] Pour les besoins de la requête, aucun fait n’est contesté. Les parties ont convenu, pour les besoins de la présente requête seulement, que toutes les hypothèses émises par le ministre du Revenu national (le « ministre ») sont exactes. Si la réponse donnée à la question est favorable à l’appelant, la présente requête mettra fin au litige faisant l’objet des appels, et il ne sera pas nécessaire de tenir une instruction. S’il est répondu par l’affirmative à la question qui est soulevée dans la requête, l’appelant a l’intention de contester toutes les hypothèses que le ministre a émises.
+[6] La question qui se pose dans la présente requête est hypothétique, et la requête ne satisfera aux exigences de la règle 58 que s’il y est répondu par la négative. S’il est répondu à la question par la négative, la présente requête réglera l’instance en totalité ou en partie. S’il est répondu à la question par l’affirmative, une instruction complète devra avoir lieu pour que les appelants présentent une preuve en vue d’essayer de réfuter les hypothèses de fait émises par le ministre. En pareil cas, la présente requête n’abrégerait pas l’audience et ne résulterait pas en une économie de frais.
+[7] Dans l’arrêt Perera c. Canada, [1998] 3 C.F. 381 (C.A.F.), le juge Létourneau examinait les principes à prendre en considération dans une demande comme celle qui nous occupe :
+[13] Il peut être utile de rappeler que la Règle 474 ne confère pas, à qui que ce soit, le droit d’obtenir une décision sur les questions de droit avant l’instruction; elle attribue simplement à la Cour le pouvoir discrétionnaire d’ordonner, sur présentation d’une requête, qu’une telle décision soit rendue. Pour que la Cour soit en mesure d’exercer ce pouvoir discrétionnaire, elle doit être convaincue, comme l’a précisé l’arrêt Berneche, que les questions proposées sont de pures questions de droit, c’est‑à‑dire des questions auxquelles il est possible de répondre sans tirer quelque conclusion de fait que ce soit. En fait, l’objet de cette règle est de répondre aux questions avant l’instruction; elle ne vise pas à morceler l’instruction ni à remplacer une partie de l’instruction par une autre instruction tenue au moyen d’affidavits. Cela ne signifie toutefois pas que les parties doivent s’entendre sur les faits à l’origine des questions de droit; une question de droit peut se fonder sur une présomption de véracité des allégations énoncées dans les actes de procédure, à condition que les faits invoqués suffisent pour permettre à la Cour de répondre à la question.
+[14] Avant d’exercer le pouvoir discrétionnaire que lui confère la Règle 474, la Cour doit également être convaincue que les questions en cause ne sont pas purement théoriques et qu’elles seront « péremptoires aux fins d’un point en litige ». À cet égard, il est important de souligner que, contrairement à ce qu’a prétendu l’avocat de l’intimée, la Règle 474 n’exige pas qu’il soit absolument certain que la réponse donnée à la question réglera le litige, en tout ou en partie. Comme l’a dit le juge en chef Jackett dans l’arrêt R. c. Achorner, le juge qui préside l’audition de la question doit simplement être convaincu que la question proposée est suffisamment bien définie « pour que la décision prise à son sujet règle l’action ou une partie notable de l’action ». Il n’est donc pas nécessaire que la question de droit en soit une qui, peu importe la façon dont on y répond, règle définitivement le litige.
+[15] Une fois ces conditions réunies, la Cour n’a pas d’obligation d’accueillir la requête fondée sur la Règle 474. Elle doit, à cette étape, exercer son pouvoir discrétionnaire en se rappelant que la procédure prévue par la Règle 474 est exceptionnelle et que la Cour ne doit y recourir que lorsqu’elle est d’avis que l’adoption de cette mesure extraordinaire entraînera des économies de temps et d’argent. C’est dans cet esprit que la Cour doit examiner tous les faits de l’espèce qui, à son avis, sont favorables ou défavorables à la décision d’accueillir la requête. Il n’est pas possible de les énumérer tous. Le fait que les parties s’entendent en est manifestement un. Moins évident est peut‑être le fait que le juge puisse tenir compte de sa propre opinion quant à la probabilité que la question soit tranchée d’une façon qui ne réglera pas le litige. Il peut également prendre en compte la complexité des faits qui devront être établis au procès et de l’opportunité de tenter d’éviter pareille instruction pour cette raison. Il doit en outre prendre en considération la difficulté et l’importance des questions de droit proposées, la mesure dans laquelle il est souhaitable qu’il n’y soit pas répondu hors de tout contexte et la possibilité que la décision rendue à leur égard avant l’instruction n’entraîne pas, en bout de ligne, d’économie de temps ni d’argent.
+[8] La question, telle qu’elle est formulée par les parties, touche un principe de droit important qui n’est pas propre aux faits de la présente espèce, mais qui influera sur d’autres affaires d’établissement du prix de transfert. Eu égard aux circonstances, je ne crois pas qu’il convienne d’énoncer, dans le contexte d’une question préliminaire, un principe de droit qui risque d’avoir de graves incidences. Voir Tilling v. Whiteman, [1980] A.C. 1 (C.L.), dans lequel lord Wilberforce a dit ce qui suit, aux pages 17 et 18 :
+[traduction]
+Ainsi, l’affaire nous a été soumise à partir de faits hypothétiques dont l’exactitude n’a pas encore été vérifiée dans le cadre d’une instruction. À l’instar de certains, j’ai souvent protesté contre la pratique qui consiste à permettre le débat sur des questions préliminaires, car cette démarche complique souvent la tâche des tribunaux d’appel et tend à accroître le coût et la durée des poursuites judiciaires. Si cette pratique ne peut se limiter aux causes dans lesquelles les faits sont complexes et où il est possible de trancher les questions juridiques facilement et rapidement, les situations dans lesquelles on l’adopte par dérogation à ce principe directeur devraient à tout le moins être exceptionnelles.
+De plus, les remarques du vicomte Haldane, lord chancelier, figurant à la page 162 de l’arrêt Attorney General for British Columbia v. Attorney General for Canada, [1914] A.C. 153 (P.C.) s’appliquent à la présente requête :
+[traduction]
+Non seulement la cause des plaideurs futurs serait‑elle compromise si la Cour posait des principes dans l’abstrait sans rapport ni lien avec des faits réels, mais encore pourrait‑il se révéler pratiquement impossible de définir un principe convenablement et de façon sûre sans établir au préalable les faits précis auxquels il doit s’appliquer.
+[9] La requête est rejetée.
+Signé à Ottawa, Canada, ce 25e jour d’avril 2008.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 11e jour de juillet 2008.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2008CCI238
+Nos DES DOSSIERS DE LA COUR : 2005-3718(IT)G et
+2005-3714(IT)G
+INTITULÉ : Yui Cheung Kwok
+et
+La Reine
+et
+Chi Wo Lo
+et
+La Reine
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 18 avril 2008
+ORDONNANCE ET MOTIFS
+DE L’ORDONNANCE : L’honorable juge Valerie A. Miller
+DATE DE L’ORDONNANCE
+ET DES MOTIFS DE
+L’ORDONNANCE : Le 25 avril 2008
+COMPARUTIONS :
+Avocat des appelants :
+Me Thomas M. Boddez
+Avocat de l’intimée :
+Me David Jacyk
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Thomas M. Boddez
+Cabinet : Thorsteinssons LLP
+Pour l’intimée : John H. Sims, Q.C.
+Sous-procureur général du Canada
+Ottawa, Canada

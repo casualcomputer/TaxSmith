@@ -1,0 +1,587 @@
+---
+title: "Canadian Imperial Bank of Commerce v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520951/index.do"
+last_modified: "2022-07-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 83"
+citation2: ""
+neutral_citation: "2022 TCC 83"
+decision_date: "2022-07-19"
+language: "en"
+item_id: "520951"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4540
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:32:09.121000+00:00"
+cases_cited_count: 9
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7097b5a14e9f47d6fbfbb52433c4a201dbd97d3c43d1d641c900c38432744d0c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Canadian Imperial Bank of Commerce v. The Queen
+
+- Citation: 2022 TCC 83
+- Decision date: 2022-07-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4540, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Canadian Imperial Bank of Commerce v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-07-19
+Neutral citation
+2022 TCC 83
+File numbers
+2019-3197(GST)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2019-3197(GST)G
+BETWEEN:
+CANADIAN IMPERIAL BANK OF COMMERCE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard virtually on common evidence with the appeals of President’s Choice Bank (2017-3925(GST)G and 2017-3931(GST)G)
+on January 24, 25, 26, and 27, 2022 and February 11, 2022
+at Ottawa, Canada
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Al Meghji
+Alexander Cobb
+Al-Nawaz Nanji
+Counsel for the Respondent:
+Justine Malone
+Lindsay Tohn
+JUDGMENT
+The appeal from the assessments made under the Excise Tax Act, notices of which are dated January 30, 2017, November 22, 2016, January 23, 2017, and January 27, 2017, is dismissed with costs in favour of the Respondent in accordance with the attached reasons for judgment.
+The parties will have until September 19, 2022 to agree on costs, failing which they are directed to file their written submissions on costs no later than September 19, 2022. Such submissions should not exceed 10 pages.
+Signed at Magog, Québec, this 19th day of July 2022.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2022 TCC 83
+Date: 20220719
+Docket: 2019-3197(GST)G
+BETWEEN:
+CANADIAN IMPERIAL BANK OF COMMERCE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. INTRODUCTION
+[1] Canadian Imperial Bank of Commerce (“CIBC” or the “Appellant”) and Loblaw Companies Limited (“LCL”) entered into two agreements, the Financial Services Agreement (the “FSA”) and the Loyalty Services Agreement (the “LSA”). The FSA and the LSA (collectively, the “PCF Agreements”) were assigned by LCL to its indirectly wholly‑owned subsidiary President’s Choice Bank (“PC Bank”). Initially, PC Bank did not charge CIBC Goods and Services Tax (“GST”) on the consideration that it received for the supply it made under the PCF Agreements. PC Bank believed that the supply was exempt from GST on the basis that it was the supply of a financial service under subsection 123(1) of Part IX of the Excise Tax Act (the “ETA”). [1]
+[2] PC Bank was subsequently reassessed GST by the Minister of National Revenue (the “Minister”) for failure to collect and remit GST on the basis that the supply was taxable in nature. While PC Bank appealed the Minister’s reassessments to this Court, it began to collect and remit GST on behalf of CIBC. Following PC Bank’s success in President’s Choice Bank v The Queen [2] (the “2009 Decision”), the definition of “financial service” in subsection 123(1) of the ETA was amended to add, among other things, paragraphs (r.4) and (r.5). These paragraphs were enacted in 2010 with retroactive effect to December 17, 1990 and expanded the types of supplies that are excluded from the “financial service” definition in subsection 123(1).
+[3] CIBC filed six rebate claims for GST paid in error on the basis that the supply it received from PC Bank remained a supply of an exempt financial service notwithstanding the expansion of the exclusions in the “financial service” definition. CIBC’s rebate claims were denied by the Minister. In addition, the Minister assessed PC Bank in respect of certain periods on the basis that PC Bank failed to collect and remit some of the GST on the consideration that it received from CIBC. [3] PC Bank appealed the Minister’s reassessments.
+[4] PC Bank has two separate appeals regarding the Minister’s reassessments (the “PC Bank Appeals”). CIBC’s appeal and the PC Bank Appeals were heard together, in part, because the appeals raise a common issue: the characterization of a supply made by PC Bank to CIBC (the “PCF Supply Issue”). The parties have agreed that I can dispose of CIBC’s and PC Bank’s appeals as they pertain to the PCF Supply Issue based on the present reasons for judgment.
+[5] While I have dismissed the Appellant’s earlier motion to have the matter determined based on the outcome of the 2009 Decision (“Reasons for Order”) [4] , the Appellant insists that I must give weight to the earlier factual findings in the 2009 Decision because the retroactive amendments to the “financial service” definition which added significant exclusions do not change the essence or substance of the supply made by PC Bank to CIBC (the “PC Bank Supply”).
+[6] A careful read of the 2009 Decision reveals that my former colleague, Lamarre J., was tasked with examining the evidence presented at that trial through an entirely different legal prism. In short, I am of the opinion that the factual findings made by Lamarre J. were influenced by the old version of the definition of a “financial service”, which was narrowed by virtue of the addition of new exclusions. At best, we are left to speculate about what factual findings Lamarre J. would have made had she been tasked, like me, with determining whether either paragraph (r.4) or paragraph (r.5) of the “financial service” definition applies to exclude the PC Bank Supply as an exempt supply.
+[7] For the reasons that follow, I am of the opinion that the essence of the single compound supply made by PC Bank to CIBC in the relevant periods falls within the exclusion provided for under paragraph 123(1)(r.5) of the “financial service” definition in the ETA.
+II. MATERIAL FACTS
+A. Partial Agreed Statement of Facts
+[8] The parties filed a partial agreed statement of facts (“PASF”). [5] I have reproduced it in its entirety below for ease of reference:
+PARTIES
+1. Canadian Imperial Bank of Commerce (CIBC) is a Canadian chartered bank with its head office in Toronto, Ontario.
+2. Loblaw Companies Limited (LCL) is a diversified retailer of groceries and other merchandise operating across Canada.
+3. President’s Choice Bank (PC Bank) is a subsidiary of LCL and is a Canadian chartered bank.
+AGREEMENTS
+Financial Services Agreement
+4. LCL decided to provide financial products to its customers. LCL requested that CIBC provide financial products to its customers.
+5. On November 1, 1997, CIBC and LCL entered into a Financial Services Agreement (FSA).
+6. The parties to the FSA established, inter alia, a steering committee (Steering Committee) that met to discuss and make certain decisions about the financial products (PCF Products).
+7. Other than as set out in the FSA and its amending agreements, CIBC would be the exclusive provider of financial services under the name “President’s Choice Financial” and other trademarks identified in the FSA. These financial services included: (i) mutual funds sales, (ii) credit products, (iii) securities brokerage, (iv) financial planning, (v) debit cards, (vi) check cards, (vii) bill payment services, (viii) person to person payment services, (ix) ABM services, (x) insurance products relating only to credit products and home warranties, and (xi) credit cards.
+8. Until April 1, 2005, CIBC was obliged to pay to LCL (and then PC Bank), fees calculated by reference to each new account, or other financial products opened, as well as a fee calculated by reference to the average funds and assets under management by CIBC under the PCF program (FSA Fees).
+9. Effective April 1, 2005, the FSA Fees were replaced with a revenue share payment, calculated in accordance with the terms of an amending agreement dated April 1, 2005.
+Loyalty Services Agreement
+10. Contemporaneously with the execution of the FSA, CIBC and LCL also entered into a Loyalty Services Agreement (LSA), which, in part, provided for a loyalty program to be offered to PCF customers (Loyalty Program).
+11. The Loyalty Program provided for the award of “Loyalty Points” (PC Points). The PC Points were issued to the customers as a reward for making eligible LCL purchases and eligible PCF purchases and as part of any other offer made available through the Loyalty Program.
+12. The redemption of the PC Points was available at any participating LCL location as well as any other location as agreed to by the parties. The PC Points could be redeemed, subject to certain terms and conditions, against the purchase of any eligible products.
+13. CIBC initially administered the Loyalty Program until 2001, after which LCL (subsequently PC Bank or an affiliate) became the administrator of the Loyalty Program. CIBC was obligated to pay LCL (then PC Bank or an affiliate), on a monthly basis, consideration in respect of the PC Points awards and administration costs.
+14. On April 17, 2006, CIBC and PC Bank agreed that the administration costs payable by CIBC would be a flat amount of $20,000 per month effective January 2006.
+Trademark Agreements
+15. On November 1, 1997, CIBC and Loblaws Inc., a subsidiary of LCL, entered into two trademark license agreements.
+Assignment to PC Bank
+16. On October 1, 2000, LCL assigned its rights and obligations under both the LSA and the FSA to the President’s Choice Financial Trust Company, the predecessor to PC Bank. The LSA provided [that] either party could assign the rights and obligations to an affiliate.
+Amendments of Agreements and Letter Agreements
+17. The FSA and LSA were amended by the following agreements:
+(a) a letter agreement dated January 17, 2001;
+(b) a letter agreement dated March 14, 2003;
+(c) a letter agreement dated May 25, 2004;
+(d) a letter agreement dated October 27, 2004;
+(e) a letter agreement dated October 27, 2004;
+(f) an amending agreement dated April 1, 2005;
+(g) a letter agreement dated March 8, 2006;
+(h) an agreement dated April 17, 2006;
+(i) an amending agreement dated March 2, 2010;
+(j) amended and restated letter agreement dated May 1, 2011;
+(k) an amended and restated letter agreement dated November 1, 2012;
+(l) an amending agreement dated January 7, 2013;
+(m) an amending agreement dated August 30, 2013; and
+(n) an amending agreement dated October 8, 2014.
+PCF FINANCIAL OFFERINGS
+18. Customers obtained PCF Products mainly through kiosks/pavilions at certain LCL stores.
+19. A pamphlet entitled “Legal Stuff” was provided to PCF customers of personal banking financial products.
+REVENUE SHARE PAYMENTS
+20. Monthly calculations computing the revenue share payments were prepared.
+21. Summaries of the calculations of the 2009, 2010, 2011 and 2012 revenue share payments show the breakdown payable to PC Bank for those periods.
+CIBC’S REBATE CLAIMS
+First Rebate Claim
+22. The Minister of National Revenue (Minister) assessed PC Bank for GST for the period January 2003 to September 2007 in the amount of $10,195,817, which PC Bank invoiced to CIBC.
+23. For the period October 2007 to November 2008, PC Bank invoiced CIBC for GST in the amount of $2,108,754.
+24. CIBC filed a rebate claim for GST paid in error dated January 16, 2009 (First Rebate Claim) in the amount of $12,304,571.
+25. The parties agree that the correct amount of the First Rebate Claim is $12,302,079 and that CIBC paid the amount of $12,302,079. The correct amount removes an error of $2,492.
+Second Rebate Claim
+26. For the period December 2008 to March 2009, PC Bank invoiced CIBC for GST in the amount of $490,001.
+27. CIBC filed a rebate claim for GST paid in error dated May 11, 2010 (Second Rebate Claim) in the amount of $490,001.
+28. The parties agree that the correct amount of the Second Rebate Claim is $490,001 and that CIBC paid the amount of $490,001.
+Third Rebate Claim
+29. For the period July 2010 to July 2012, PC Bank invoiced CIBC for fees under the FSA, as amended, and an affiliate of PC Bank invoiced CIBC for fees under the LSA, as amended. The invoices included the federal portion of HST in the amount of $2,798,787.
+30. CIBC filed a rebate claim for HST paid in error dated October 31, 2012 (Third Rebate Claim) in the amount of $17,018,959.
+31. The parties agree that the correct amount of the Third Rebate Claim is $2,798,787 in respect of the federal portion of HST, subject to an adjustment for ITCs, and that CIBC paid the amount of $2,798,787. The correct amount of the federal portion of HST claimed in the Third Rebate Claim removes: (a) an amount of $192,479 relating to errors, (b) an amount of $8,785,355 that was already included in the First Rebate Claim, and (c) an amount of $764,278 that was self‑assessed by CIBC; and (d) an amount of $4,478,060 of provincial value‑added tax.
+Fourth Rebate Claim
+32. For the period August 2012 to May 2014, PC Bank invoiced CIBC for fees under the FSA, as amended, and an affiliate of PC Bank invoiced CIBC for fees under the LSA, as amended. The invoices included the federal portion of HST in the aggregate amount of $2,513,226.
+33. CIBC filed a rebate claim for the federal portion of HST paid in error dated June 24, 2014 (Fourth Rebate Claim) in the amount of $2,518,146.
+34. The parties agree that the correct amount of the Fourth Rebate Claim is $2,513,226 and that CIBC paid the amount of $2,513,226. The correct amount removes an error of $4,920.
+Fifth Rebate Claim
+35. For the period June 2014 to June 2015, PC Bank invoiced CIBC for fees under the FSA, as amended, and an affiliate of PC Bank invoiced CIBC for fees under the LSA, as amended. The invoices included the federal portion of HST in the aggregate amount of $1,600,795.
+36. CIBC filed a rebate claim for the federal portion of HST paid in error dated September 4, 2015 (Fifth Rebate Claim) in the amount of $1,600,795.
+37. The parties agree that the correct amount of the Fifth Rebate Claim is $1,600,795 and that CIBC paid the amount of $1,600,795.
+Sixth Rebate Claim
+38. For the period December 2008 to February 2016, PC Bank invoiced CIBC for fees under the FSA, as amended, and an affiliate of PC Bank invoiced CIBC for fees under the LSA, as amended. The invoices included the federal portion of HST in the aggregate amount of $2,657,990.
+39. CIBC filed a rebate claim for the federal portion of HST paid in error dated May 16, 2016 (Sixth Rebate Claim) in the amount of $2,657,990.
+40. The parties agree that the correct amount of the Sixth Rebate Claim is $2,657,990 and that CIBC paid the amount of $2,657,990.
+Other Adjustments
+41. The correct amount of the above rebate claims must be further reduced by the amount of any input tax credits that CIBC was allowed by the Minister in respect of GST claimed in the rebate claims.
+42. The Minister takes the position that CIBC is entitled to the provincial portion of HST of $4,478,059.84 claimed in the Third Rebate Claim. The amount of the allowable provincial portion of HST must be adjusted to remove erroneously claimed amounts as well as the provincial portion of HST in respect of input tax credits allowed by the Minister and to otherwise account for the adjustments to CIBC’s net tax made under subsection 225.2(2) in respect of the amounts to which the Rebate Claims relate.
+Summary of Fees and Rebate Claims
+43. The following is a summary of the fees invoiced to and paid by CIBC:
+FEES PAID
+Revenue Share
+Points
+Admin
+Total
+First Rebate Claim
+139,343,482
+50,158,645
+2,056,971
+191,559,098
+Second Rebate Claim
+7,234,153
+2,485,878
+80,000
+9,800,031
+Third Rebate Claim
+49,028,265
+6,447,484
+500,000
+55,975,749
+Fourth Rebate Claim
+46,850,118
+2,974,395
+440,000
+50,264,513
+Fifth Rebate Claim
+28,512,253
+3,343,651
+160,000
+32,015,904
+Sixth Rebate Claim
+43,458,075
+9,241,740
+460,000
+53,159,815
+44. The following is a summary of the GST/federal portion of HST invoiced to and paid by CIBC:
+GST PAID
+Revenue Share
+Points
+Admin
+Total
+First Rebate Claim
+8,872,744
+3,292,947
+136,388
+12,302,079
+Second Rebate Claim
+361,708
+124,294
+4,000
+490,001
+Third Rebate Claim
+2,451,413
+322,374
+25,000
+2,798,787
+Fourth Rebate Claim
+2,342,506
+148,720
+22,000
+2,513,226
+Fifth Rebate Claim
+1,425,613
+167,183
+8,000
+1,600,795
+Sixth Rebate Claim
+2,172,904
+462,087
+23,000
+2,657,990
+MINISTER’S DENIAL OF CIBC’S REBATE CLAIMS
+45. The Minister denied each of the rebate claims by way of notices of assessment.
+46. The Minister’s reasons for the denials are set out in proposals letters dated August 25, 2016 and decision letters denying each rebate claim.
+NOTICES OF OBJECTION
+47. CIBC filed notices of objection on February 16, 2017 in respect of the denial of the First Rebate Claim, Second Rebate Claim, Third Rebate Claim, Fourth Rebate Claim, Fifth Rebate Claim and Sixth Rebate Claim.
+OTHER MATTERS
+48. The parties agree that the supply in issue in this appeal is a single compound supply.
+[Emphasis added and footnotes omitted.]
+[9] It should be noted that hereinafter, LCL and its affiliates are defined as the “LCL Group” and that all the defined terms have the meaning given to them in the PASF unless otherwise indicated.
+[10] The parties submitted a joint book of documents [6] that includes, inter alia, PC Bank’s Financial Statements, the relevant agreements between PC Bank and CIBC, President’s Choice Financial documents, CIBC’s rebate claims, the notices of assessment, letters from the Minister, and LCL documents.
+[11] In addition, CIBC called two witnesses to testify: Mr. Rob Ward and Mr. Kevin Lengyell.
+[12] The Respondent intended to call Ms. Sarah Davis, as the former president of Loblaw. However, the Respondent attempted to serve Ms. Davis and was unsuccessful. An adverse inference should not be drawn from this fact. [7]
+III. THE PCF SUPPLY ISSUE
+A. Position of the Parties
+[13] The Appellant submits that the issue is whether the supply in issue made by PC Bank to CIBC pursuant to the FSA and the LSA was a taxable supply or an exempt financial service. [8] The Appellant argues that “CIBC was paying PC Bank for acting as an intermediary to bring the financial products to customers and PC Bank’s major role in the process of providing financial services by CIBC to customers.” [9] The Appellant relies on the 2009 Decision and Lamarre J.’s conclusion that “the substance of the PC Bank Supply was PC Bank’s major role in selling attractive financial products to customers and by acting as an intermediary to bring financial products to customers” of the LCL Group. [10] The Appellant submits that the amendments to the PCF Agreements do not alter the substance of the PC Bank Supply, nor do the legislative amendments to the “financial service” definition under subsection 123(1). [11]
+[14] The Respondent submits that the “bundle of rights and services supplied [by PC Bank] to CIBC does not fall within the statutory definition of “financial service.” [12] While the Respondent has put forth alternative arguments, the Respondent acknowledged during oral arguments that the Respondent’s main argument is that the PC Bank Supply is excluded under paragraph (r.5). [13] One of the Respondent’s alternative argument is that the PC Bank Supply is excluded by virtue of paragraph (r.4). [14]
+[15] I begin with an analysis of the exclusionary paragraphs relied on by the Respondent because if one of them applies, that would bring an end to this matter. This, in my opinion, is the most efficient way to deal with this matter. For now I will assume that the supply at issue is included in paragraph (1) of the definition of “financial service” under subsection 123(1) of the ETA. If I determine that none of the exclusionary paragraphs apply, I will return to this matter and decide whether the supply is captured by the inclusionary paragraphs relied on by the Appellant.
+B. Legislation
+[16] The language used in the definition of a “financial service” in subsection 123(1) before and after the 2010 amendments is key to understanding the purpose of the amendments. Before the amendments, the relevant parts of the definition of “financial service” read as follows:
+(a) the exchange, payment, issue, receipt or transfer of money, whether effected by the exchange of currency, by crediting or debiting accounts or otherwise,
+(b) the operation or maintenance of a savings, chequing, deposit, loan charge or other account,
+(d) the issue, granting, allotment, acceptance, endorsement, renewal, processing, variation, transfer of ownership or repayment of a financial instrument,
+...
+(f) the payment or receipt of money as dividends (other than patronage dividends), interest, principal, benefits or any similar payment or receipt of money in respect of a financial instrument,
+...
+(g) the making of any advance, the granting of any credit or the lending of money,
+...
+(l) the agreeing to provide, or the arranging for, a service referred to in any of paragraphs (a) to (i), ...
+but does not include
+...
+(t) a prescribed service.
+[Emphasis added.]
+[17] After the 2010 amendments, the relevant parts of the “financial service” definition read as follows:
+...
+(a) the exchange, payment, issue, receipt or transfer of money, whether effected by the exchange of currency, by crediting or debiting accounts or otherwise,
+...
+(d) the issue, granting, allotment, acceptance, endorsement, renewal, processing, variation, transfer of ownership or repayment of a financial instrument,
+...
+(i) any service provided pursuant to the terms and conditions of any agreement relating to payments of amounts for which a credit card voucher or charge card voucher has been issued,
+...
+(l) the agreeing to provide, or the arranging for, a service that is
+(i) referred to in any of paragraphs (a) to (i), and
+(ii) not referred to in any of paragraphs (n) to (t) …
+but does not include
+...
+(r.3) a service (other than a prescribed service) of managing credit that is in respect of credit cards, charge cards, credit accounts, charge accounts, loan accounts or accounts in respect of any advance and is provided to a person granting, or potentially granting, credit in respect of those cards or accounts, including a service provided to the person of
+(i) checking, evaluating or authorizing credit,
+(ii) making decisions on behalf of the person in relation to a grant, or an application for a grant, of credit,
+(iii) creating or maintaining records for the person in relation to a grant, or an application for a grant, of credit or in relation to the cards or accounts, or
+(iv) monitoring another person’s payment record or dealing with payments made, or to be made, by the other person,
+(r.4) a service (other than a prescribed service) that is preparatory to the provision or the potential provision of a service referred to in any of paragraphs (a) to (i) and (l), or that is provided in conjunction with a service referred to in any of those paragraphs, and that is
+...
+(ii) a market research, product design, document preparation, document processing, customer assistance, promotional or advertising service or a similar service,
+(r.5) property (other than a financial instrument or prescribed property) that is delivered or made available to a person in conjunction with the rendering by the person of service referred to in any o paragraphs (a) to (i) and (l),
+...
+(t) a prescribed service; (service financier)
+[Emphasis added.]
+[18] The definition of “financial service” in subsection 123(1) lists activities that are included in that definition—paragraphs (a) to (m) (the “Inclusionary Paragraphs”)—and activities that are excluded from that definition—paragraphs (n) to (t) (the “Exclusionary Paragraphs”). It is clear that the addition of the Exclusionary Paragraphs (r.4) and (r.5) intend to limit the scope of Inclusionary Paragraphs, such as paragraph (l).
+[19] Prior to the 2010 amendments, the term “arranging for” as used in Inclusionary Paragraph (l) was construed expansively in a number of court decisions. [15] In some cases, a supplier to a financial services provider could be considered as arranging for a “financial service” without playing a direct intermediary role in the delivery of a financial service to a client of a financial institution. [16] For example, a supplier to a financial institution that performs a credit check or promotes the sale of a financial service or participates in its design might fall within the ambit of that language. [17]
+[20] Parliament addressed the courts’ expansive interpretation of Inclusionary Paragraph (l) of the “financial service” definition with legislative proposals intended to clarify that definition. [18] These proposals resulted in the additions of the new Exclusionary Paragraphs, including paragraphs (r.4) and (r.5). Those Exclusionary Paragraphs are relevant to the PCF Supply Issue and read as follows:
+(r.4) a service (other than a prescribed service) that is preparatory to the provision or the potential provision of a service referred to in any of paragraphs (a) to (i) and (l), or that is provided in conjunction with a service referred to in any of those paragraphs, and that is
+...
+(ii) a market research, product design, document preparation, document processing, customer assistance, promotional or advertising service or a similar service,
+(r.5) property (other than a financial instrument or prescribed property) that is delivered or made available to a person in conjunction with the rendering by the person of a service referred to in any of paragraphs (a) to (i) and (l).
+[21] Exclusionary Paragraph (r.5) is broad. For example, it could exclude from the “financial service” definition “property … that is delivered or made available to” CIBC “in conjunction with” CIBC selling PCF Products to new clients whom it recruited pursuant to the PCF Agreements (if we assume that such contractual rights are the predominant elements of the PC Bank Supply). The exclusion is also broad enough to cover a single compound supply consisting of a predominant element, which is the provision of property, and a secondary element, which consists of, for example, services excluded under paragraph (r.4). It is well established by the case law that in applying the Inclusionary Paragraphs and the Exclusionary Paragraphs, only the predominant elements of the supply are taken into account. [19]
+[22] I explained to counsel for the Appellant during oral argument that I do not favour the approach that he urges me to follow. [20] He argued that I should determine first whether the PC Bank Supply is described in Inclusionary Paragraph (l) and then determine whether the PC Bank Supply can be excluded by virtue of being captured by Exclusionary Paragraphs (r.4) and (r.5). [21] I should do so first by determining the “substance of the supply” using the two‑step approach discussed later. [22] Respectfully, this approach seems to me to be placing the proverbial cart before the proverbial horse. I believe that I should start by defining the ambits of Exclusionary Paragraphs (r.4) and (r.5), provisions that were not in force when the 2009 Decision was rendered. This is typically how a judge goes about disposing of an issue. First, one determines the scope of application of a relevant provision, and then one determines the facts that allow one to conclude whether or not a provision applies. In short, factual determinations should not be made in a vacuum; fact‑finding should take place after the law has been properly interpreted. This places the proverbial cart properly behind the proverbial horse.
+[23] The approach that I have chosen to follow is supported by the preamble to the exclusions in the “financial service” definition, which provides that a financial service “does not include” the supply of a service or property described in the Exclusionary Paragraphs.
+[24] If an Exclusionary Paragraph applies, it becomes somewhat of a futile exercise for me to determine whether the supply would otherwise be described in an Inclusionary Paragraph. For the reasons that follow, it is unnecessary for me to answer the latter question because I believe that the predominant elements of the supply fall within Exclusionary Paragraph (r.5). Therefore, I will not address this issue despite the Appellant urging me to do so.
+[25] At this point, I would like to acknowledge that I made a mistake in my reasons dismissing the Appellant’s preliminary motion. I stated that subparagraph (l)(ii) of the “financial service” definition under subsection 123(1) narrowed the types of supplies that constitute “the arranging for” a financial service. [23] I was wrong. It is the preamble to the Exclusionary Paragraphs that narrows the scope of application of all of the Inclusionary Paragraphs listed before the preamble. This is clearly expressed by the words “but does not include”. Stated differently, if the predominant elements of the PC Bank Supply are described in Exclusionary Paragraph (r.5), that supply is excluded despite the fact that it might otherwise fall within Inclusionary Paragraph (l) before consideration of paragraph (r.5). Nonetheless, the result of the preliminary motion remains the same.
+[26] Before addressing the question of the predominant elements of the PC Bank Supply, I would like to make a few general observations on the scheme of the ETA.
+[27] Under a value‑added tax system, like the GST, a guiding principle is that the tax should be paid by the final consumer of a supply. To ensure that this occurs, GST is collected and remitted throughout the process by which value is added to the final supply of goods or services. At each stage, GST is collected and remitted by the registrant supplier. The purchaser of the goods or services is entitled to claim an input tax credit (“ITC”) for the GST it paid provided that the purchaser used the goods or services in the course of a commercial activity. The GST is collected at each stage for a number of reasons. For example, the final goods or services may be exported; exported goods or services are exempted from the GST.
+[28] There are only two major exceptions. The first exception concerns zero‑rated supplies, which are food and other necessities. These goods are not subject to GST throughout the value‑added phase and on the final sale because these goods are viewed as essential products. Zero‑rated goods are excluded to counter the regressive effect of a value‑added tax; lower‑income individuals spend a larger portion of their income on food and other essentials than upper‑income earners.
+[29] The other exception is financial services. This exception exists because it is difficult to properly price all of the individual inputs that go into a financial service and, therefore, apply tax on a value‑added basis. As a result, the GST system treats the provider of a financial service as the consumer. This treatment has an impact on the behaviour of providers of financial services. If such a provider uses internal staff to provide services, those internal inputs are not subject to GST (payroll, etc.). This creates a dilemma for financial institutions. From a cost standpoint, financial service providers often outsource part of their operations to benefit from economies of scale and, as a result, to save on costs. For example, marketing services are typically outsourced by financial institutions to marketing agencies. Call centre services are also frequently outsourced. If these services are outsourced, GST is due on the consideration paid for the supply because these supplies are often not a “financial service” as defined in subsection 123(1). If the impact of GST was the driving factor in the decision to outsource or not, economies of scale would be difficult to achieve. In most cases, services will be outsourced if the services can be outsourced efficiently at a lower cost (taking into account the impact of GST on the supply) or if the supply qualifies, in its own right, as an exempt financial service.
+[30] With this context in mind, the ideal situation for a financial service supplier would be for the input from a third‑party supplier to be included under the “financial service” definition. If the supply qualifies as a financial service, there is no non‑recoverable GST due on the consideration paid for the supply. As the Respondent explained, the new exclusions (discussed above) were introduced because Parliament felt that the GST tax base was being eroded by services that were being found to be financial services but that in Parliament’s mind should have been taxable supplies in the first place. [24]
+[31] During the Respondent’s oral submissions, counsel’s principal argument was that the predominant element of the supply made available by PC Bank to CIBC was the provision of what I refer to as a “bundle of rights” consisting of the right to solicit LCL’s clients in LCL’s stores, the right to use trademarks, the right to issue points under the Loyalty Program, and other rights acquired for the purpose of expanding CIBC’s nascent fintech banking operations (collectively the “Bundle of Rights”). [25] According to the Respondent, the secondary element of the compound supply consisted, inter alia, of marketing, product design, and promotional services provided by a small number of LCL/PC Bank employees (the “PC Bank employees”). [26]
+[32] Counsel for the Appellant acknowledged that the arguments he put forward were substantially the same as those that he presented in the 2009 Decision that were favourably received at that time. [27] It is noteworthy that counsel spent little time addressing the scope of application of Exclusionary Paragraphs (r.4) and (r.5), which were not in force when the 2009 Decision was rendered. [28]
+[33] Counsel for the Appellant argued that the relationship between LCL and then PC Bank and CIBC was more than a passive relationship of the provision of rights that allowed CIBC to sell financial products to LCL’s customers. He emphasized that the relationship of the parties was like a joint venture or partnership. [29]
+[34] Counsel for the Respondent astutely pointed out that a “joint venture” or “a partnership‑type relationship” is not a supply. [30] These are labels used to define a legal relationship, but they cannot be applied here because the PCF Agreements expressly provide that the relationship between the parties was not a “joint venture” or “a partnership”. [31]
+[35] Counsel for the Appellant emphasized that the relationship between the parties was based on “collaboration and working together to fulfill the multiple daily tasks undertaken in the course of selling PCF Products to LCL’s existing or future clients”. [32] Once again, the Respondent’s counsel noted that “collaboration, working together or as a joint venture” is not a description of a supply. [33] Rather, these terms define how the parties approach the exercise of their rights and the fulfillment of their obligations under the PCF Agreements, which govern commercial relationships. In other words, these terms are simply hallmarks of all types of successful commercial relationships and not a description of a supply of a “financial service”.
+C. 2009 Decision
+[36] In his oral submissions, counsel for the Appellant urged me to apply the factual findings of the Court in the 2009 Decision because, according to counsel, the essence or nature of the supply has not changed and the factual findings of the Court in that decision are reasonable. [34]
+[37] In my opinion, this argument misses an important point. In the 2009 Decision, the Court analyzed and established the factual matrix relevant to the disposition of the matter in reference to a broader definition of a financial service. The Court emphasized the following:
+…I find that PC Bank was not a passive associate concerned only with promotion and doing no more than allowing access to its list of members. [35]
+[Emphasis added.]
+[38] On the basis of the previous text, the dividing line appeared to be active versus passive behaviour. If there was active involvement, the courts were more likely than not to view the supply as the “arranging for” an eligible “financial service”. In contrast, if the arrangement was passive and consisted of the rental of space for an ATM, for example, then the rent paid for the supply would likely be held to be an excluded “financial service”.
+[39] One prong of the Appellant’s litigation strategy appears to me to be squarely aimed at convincing me to first examine and adopt the factual findings made by Lamarre J. in the 2009 Decision. I am reluctant to do so. First, I am not an appellate court judge who has access to the full record of the hearing. My role does not require me to determine whether or not Lamarre J. made a palpable and overriding error of fact in rendering her decision. Rather, I am a trial judge who has heard evidence directly on a supply that has been affected by retroactive amendments. As noted in my Reasons for Order, I am not bound to apply the factual findings of Lamarre J. because the doctrines of res judicata and/or abuse of process do not apply here. Accordingly, I believe that the best course of action is to limit my analysis of the 2009 Decision to commenting on clarifications of relevant principles identified in the case law subsequent to the 2009 Decision.
+[40] In determining the essence or nature of the supply, the parties agree that the law requires one to take into account the perspective of the recipient of the supply. [36] This principle was specifically acknowledged by the Federal Court of Appeal in Canadian Imperial Bank of Commerce v Canada. [37]
+[41] The relevant question is: What did CIBC receive under the key agreements? I observe that this clarification was made by the Federal Court of Appeal after the Tax Court rendered the 2009 Decision. In re‑reading the latter decision, it appears to me that the Court focused a great deal on why LCL entered into the key agreements. The case law subsequent to the 2009 Decision establishes that the determination of the predominant elements of the supply must be made while taking into account CIBC’s perspective of the matter. [38]
+[42] Counsel for the Appellant argues that the supply provided by PC Bank was broader than so‑called rental arrangements. [39] In making this argument, I believe that counsel is mischaracterizing and/or ignoring the Respondent’s position. The Respondent’s position is that the predominant elements of the supply are captured by Exclusionary Paragraph (r.5) and that the secondary element of the supply constitutes services that are excluded under (r.4). [40] Services by definition require activity. The Respondent’s position is more nuanced than that described by the Appellant.
+[43] I will now proceed to examine the evidentiary record relevant to the determination of the predominant elements of the single compound supply at issue in the present case.
+D. Determination of the Elements of the Supply
+[44] The parties agree, in large part, on how one goes about determining the predominant elements of a single compound supply.
+[45] Briefly, in Global Cash Access (Canada) Inc v R, the Federal Court of Appeal mused as follows on how the definition of a financial service should be applied:
+[26] To determine whether that single supply falls within the statutory definition of “financial service”, the questions to be asked are these: (1) Based on an interpretation of the contracts between the Casinos and Global, what did the Casinos provide to Global to earn the commissions payable by Global? (2) Does that service fall within the statutory definition of “financial service”? [41]
+[46] In Great‑West Life Assurance Co v R, the Federal Court of Appeal noted that, following Global Cash, the first question is “simply to determine what services [are] provided for the consideration received.” [42] This first step identifies services that are also not the predominant elements, while the second step of the analysis requires:
+[48] … a determination as to whether the supply is included in the definition of “financial service.” As part of this exercise, it is necessary to determine the predominant elements of the supply if it is a single compound supply. It is only the predominant elements that are taken into account in applying the inclusions and exclusions in the “financial service” definition.
+[Emphasis added.]
+[47] Therefore, what is clear from the case law is that the identification of the predominant elements of a single compound supply is based on a two‑step test. First, I am required to identify all of the components of the supplies that were received by CIBC for the consideration that it paid. At the second stage, I must then determine the predominant elements of the PC Bank Supply because it is a single compound supply. [43]
+[48] For the purposes of the “financial service” definition in subsection 123(1), the agreements between the parties play a dominant role in determining what was supplied for the consideration paid. In CIBC (Aeroplan), the Federal Court of Appeal stated that:
+[57] To suggest that the agreement between the parties under which the consideration for the supply is payable should not play a domina[nt] role in the determination of the tax implications arising under the Act is not consistent with the Act. As noted, tax is imposed on a recipient of a taxable supply (section 165 of the Act) and the recipient is the person who is liable to pay the consideration for that supply under the applicable agreement (definition of “recipient” in section 123 of the Act). Therefore, it is logical that the agreement under which such consideration is payable will play a dominant role in determining the tax implications arising under the Act.
+[58] In particular, in determining what was supplied in Global Cash, the agreement under which the consideration was paid played a domina[nt] role. In Global Cash, the first question that was addressed was “[b]ased on an interpretation of the contracts between the Casinos and Global, what did the Casinos provide to Global to earn the commissions payable by Global?” Just as in Global Cash, the agreement under which the consideration for the supply was paid by CIBC should play a dominant role in determining what was acquired for the amounts that were paid.
+E. Viva Voce Evidence
+[49] The case law reveals that the interpretation of the contracts is key to establishing the predominant elements of a single compound supply. That said, I prefer to begin my analysis by examining the viva voce evidence of the Appellant’s two witnesses, Mr. Ward and Mr. Lengyell.
+Testimony of Mr. Ward
+[50] The Appellant’s first witness was Mr. Ward. He was employed by CIBC through the relevant period and participated in, among other things, the Steering Committee composed of both PC Bank and CIBC personnel. [44] Mr. Ward’s salary was paid by CIBC as was the salary paid to employees assigned to work on this project by CIBC. [45] Similarly, PC Bank bore the costs of the four employees assigned to work on this activity. [46]
+[51] Mr. Ward’s testimony came off as being rehearsed. I do not fault him for this. I attribute this to his enthusiasm for the venture that he was involved with for many years. He was a key witness in the 2009 Decision. His testimony reveals that he was very informed of what would be helpful for CIBC’s case. Undoubtedly he read the 2009 Decision and was familiar with the parts of his testimony that were relied upon by the Court in the earlier matter. Mr. Ward’s testimony was peppered with the terms that described how closely PC Bank and CIBC worked together, and he frequently referred to “the team that brings you President’s Choice Financial.” For example, during examination‑in‑chief, counsel for the Appellant referred to section 2(d)(i) of the FSA, which essentially states that CIBC will, in its sole discretion, determine all attributes of PCF Products provided that CIBC first consults with Loblaw. [47] Counsel for the Appellant then asked Mr. Ward why, given what section 2(d)(i) states, the Steering Committee—and not CIBC on its own—had decided to get rid of the anniversary bonus that was paid to PC Bank customers who had held money in their savings accounts for at least a year. [48] Mr. Ward replied as follows:
+Because we were a partner with the same objectives. The, the — you’re correct, the anniversary grid change — or removal, that’s a pricing change. But that’s not how we operated here. It was, it was the team, it was the team that brought you President’s Choice Financial. We all had the same objective. And I can’t think of a single incident where this ever would have been applied. [49]
+[52] Mr. Ward testified on a number of important points that indicate what CIBC obtained as a supply under the key agreements.
+[53] Mr. Ward testified that around the time PCF was established, the major Canadian banks were taking a “defensive stance” with respect to new players entering the Canadian banking market that were offering internet‑based banking services. [50] These enterprises could afford to earn lower margins on their financial products because they operated without physical branches and other retail outlets. Everything would be done online. [51] In this context, the Canadian banks anticipated that pure electronic banking could erode their traditional higher‑margin retail banking businesses. [52]
+[54] Mr. Ward acknowledged that the Canadian banks employed the tools of electronic banking to supplement their traditional retail banking operations. [53] For example, ATMs were deployed to reduce real estate and personnel costs. In short, Canadian banks use electronic platforms to facilitate banking, to make it more convenient, and to reduce the costs of their physical footprint. [54]
+[55] With the above context in mind, CIBC was interested in launching a new electronic banking service that would be competitive with the nimble electronic banking institutions that were entering the Canadian market. CIBC was cognizant of the fact that fintech could be extremely disruptive to its traditional retail banking operations. [55]
+[56] CIBC embarked on the venture with Loblaw (and later PC Bank), according to Mr. Ward, for both offensive and defensive purposes. [56] CIBC was interested in attracting the retail clients of its competitors that were using traditional higher‑margin retail banking services. At the same time, CIBC took steps to avoid cannibalizing its own higher‑margin retail banking operations. To protect its traditional operation, CIBC decided that the new operations must be presented as independent from CIBC. A different corporate name would be used eventually and the products would be marketed under trademarks not identified with CIBC. In short, steps were taken to distance the identification of this new business as an activity undertaken by CIBC. [57]
+[57] According to Mr. Ward, because margins are much lower for pure electronic banking, new entrants in this market must quickly achieve economies of scale to become profitable. Acquiring new clients organically from scratch is an expensive way to grow such a business. [58]
+[58] The evidence shows that CIBC’s main motivation in entering into the PCF Agreements was to gain access to the LCL Group’s large customer base in order to quickly ramp up its transaction volume. [59]
+[59] LCL had other things that CIBC valued. The evidence shows that LCL and other entities in the corporate group owned various trademarks that enjoyed significant brand value and recognition. The evidence also shows that the LCL Group had spent a good deal of time and money building up these trademarks. If the new banking services were launched using a “PC” trademark, CIBC felt this would help recruit customers to its new banking operations. [60] In addition, the benefit of using the “PC” trademark was that it was distinct from that of the CIBC. A different trademark would mitigate the risk of CIBC clients switching to a lower‑margin banking service. [61]
+[60] Mr. Ward explained that CIBC deployed a hybrid fintech strategy. The agreements allowed CIBC personnel to quickly recruit Loblaw clients in store while attempting to attract clients through the internet and other electronic media. Needless to say, this was attractive as the expense of retail store space was borne by the LCL Group’s retail grocery operations. Mr. Ward explained that the physical aspect of the hybrid model proved to be the most successful for customer recruitment for CIBC. [62] These customers, for the most part, were enrolled by CIBC personnel or CIBC third‑party service providers using kiosks that were branded PC Financial and that were located in grocery stores or supermarkets owned or controlled directly or indirectly by the LCL Group.
+[61] The evidence shows that the other arrangement of interest to CIBC was the Loyalty Program that was set up pursuant to the terms of the LSA. CIBC negotiated the right to issue points to the LCL Group’s customers when they acquired PCF Products. These points could be redeemed for products sold by LCL in its stores. It is common knowledge that banks and other large retailers often use loyalty rewards to attract customers.
+[62] In my opinion, Mr. Ward’s evidence confirms that the predominant element of the single compound supply received by CIBC from PC Bank was the Bundle of Rights that enabled CIBC to sell financial products and services to the LCL Group’s customers. As noted later, my interpretation of the key agreements bolsters this conclusion.
+Testimony of Mr. Lengyell
+[63] Mr. Lengyell was called to testify by the Appellant. He had also testified in the hearing of the 2009 Decision. [63] He was assigned by PC Bank to work on the arrangements with CIBC and played an active role in PC Financial. Mr. Lengyell joined LCL in 1996 as Vice President, Internal Audits. From 1999 to 2006, Mr. Lengyell was Chief Financial Officer of what would become PC Bank in November 2000. Afterwards, Mr. Lengyell was in charge of PCF Product Management and later he was Senior Vice President, Banking and Insurance at PC Bank. In 2008, Mr. Lengyell became Senior Vice President, Securitization and Treasury at PC Bank. He left PC Bank in the summer of 2009. [64] He is an alumnus of LCL and PC Bank.
+[64] Mr. Lengyell’s testimony appeared to be less rehearsed than that of Mr. Ward.
+[65] He acknowledged that the LCL Group was at all material times the premier grocery retailer in Canada. [65] The evidence shows that the LCL Group is and was at all material times the largest commercial retailer in Canada; 10 to 13 million customers per week shop at Loblaw stores. Grocery retailing is a competitive low‑margin business. The LCL Group has a large, loyal base of customers who shop regularly in its stores. [66] Mr. Lengyell testified that LCL and CIBC decided to use the PCF brand because it had strong and favourable brand recognition. [67] They believed that the PCF trademark would help entice the LCL Group’s existing and future customers to buy PCF Products from CIBC. [68]
+[66] LCL was also interested in launching a loyalty program, which, by granting rewards, would entice customers to shop in its stores. [69] The creation of a loyalty program also was of interest to CIBC because points could be used to reward clients when they opened accounts or purchased other PCF Products from CIBC. [70]
+[67] Mr. Lengyell testified that 10 to 15 PC Bank employees were dedicated to PC Financial and that together, they earned approximately $1.5 million per year. [71] I have no doubt that these were competent and hard‑working employees, but I believe that the salaries that they earned (approximately $100,000 each) are representative of the value that they brought to the operation. The amount that these employees were paid pales in comparison to the over $300 million in total revenue that PC Bank earned during the relevant periods. [72] Therefore, in contrast to Mr. Ward’s testimony, which I discussed earlier, I have a great deal of difficulty accepting that the daily activities of the “team that brought you PC Financial” constituted the predominant elements of the PC Bank Supply.
+F. Analysis of the Key Agreements
+Review of the FSA
+Preamble/Recitals of the FSA
+[68] On November 1, 1997, CIBC and LCL entered into the FSA. In my opinion, the recitals in the preamble of the FSA summarize the key elements of that agreement as follows:
+- Loblaw “owns and operates or franchises to independent third parties a retail grocery and supermarket business through a network of retail locations in Canada”.
+- Loblaws Inc., “a subsidiary of Loblaw, is the sole owner of the trademark ‘President’s Choice™’, ‘PC™’ and other related trademarks for specified wares and distributes and promotes a range of food and general merchandise products under such trademarks”.
+- Loblaw has “requested that CIBC provide or arrange to provide certain financial services under the name “President’s Choice Financial™” and CIBC has agreed to do so in accordance with [the FSA]”.
+- Loblaw will “offer a loyalty program to President’s Choice Financial customers who may be Loblaw Customers whereby such customers may earn Loyalty Points, under specified circumstances”.
+- CIBC “is the administrator of the Loyalty Program pursuant to the terms and conditions of the Loyalty Services Agreement”. [73]
+[69] In summary, the preamble to the FSA itemized what LCL and then PC Bank, by virtue of the assignment, was offering to CIBC:
+Access to a large network of retail stores where customers could be recruited in store by CIBC;
+Use of a highly regarded brand to entice Loblaw’s customers to acquire financial services and products from CIBC;
+Access to a loyalty program where points could be issued by CIBC to customers who acquire PCF Products; and
+Acknowledgement that CIBC would be the party that sold PCF Products.
+[70] The Bundle of Rights allowed CIBC to tap into LCL’s loyal and extensive customer base.
+[71] This is what CIBC had to say about the commercial efficacy of the PC Bank Supply in its annual report for 2001:
+Within Canada, our model of establishing pavilions within the best retail grocery stores in the country is proving successful. Under our strategic alliance with Loblaw Companies Limited, we now have more than 200 pavilions operating under the President’s Choice Financial brand across Canada. Our customer base grew 76% during the year and funds under management increased by 115%. A much higher than expected number of Loblaw customers have become President’s Choice Financial customers. And, customer satisfaction ratings continue to be far above industry benchmarks, in excess of 75%. [74]
+PCF Offer
+[72] Article 2 of the FSA sets out the terms and conditions of the PCF Products and how they will be sold by CIBC. [75] I have summarized the relevant parts of article 2 as follows:
+- Article 2(a) sets out the establishment of the Steering Committee by the parties and its general purposes. An equal number of senior representatives from CIBC and Loblaw make up that committee. The Steering Committee’s purpose is “determining launch times and geographic scope, marketing strategies and overall strategic direction of the PCF Offer.” The Steering Committee’s guiding principle is to “provide direct to the public through electronic means a full range of financial products and services under the President’s Choice Financial trademark, with discount pricing but quality consistent with non‑discounted financial products and services offered by CIBC.”
+- Article 2(b) sets out CIBC’s right to offer any PCF Product. If CIBC no longer wishes to provide a PCF Product, the Steering Committee will seek to arrange for the provision of the PCF Product through a third‑party supplier for delivery through the PCF delivery channels. If the parties do not agree on a third‑party supplier, Loblaw may offer the product or service directly or through a third party. However, Loblaw cannot use the PCF trademark in relation to such a product, but it may use other trademarks such as the President’s Choice trademark.
+- Article 2(d) sets out information related to the PCF Products, including prices and rates.
+- Subparagraph 2(d)(i) states that CIBC has sole discretion, after consulting with Loblaw, to determine all attributes of PCF Products that are provided by any member of the CIBC Group, including contractual terms, fees, services charges, prices and interest rates. Each PCF Product will be priced at the most beneficial (to customer).
+- Subparagraph 2(d)(i)(a) specifies that the price must be equal to or better than the best retail price posted by a member of the CIBC Group for the same or substantially similar product or services offered on an average product portfolio basis.
+- Subparagraph 2(d)(i)(b) sets out specific pricing for PCF Products constituting a deposit or credit products and mortgages on an average portfolio basis. These products must be at a minimum 45 basis points better than traditional national … CIBC branch posted rates. CIBC may, in its discretion, attribute the 45 basis points to the product or service by reducing fees, changing interest rates or awarding Loyalty Points, or any combination thereof. The 45 basis points do not include marketing funds CIBC may allocate to purchase Loyalty Points to award to PCF Customers upon purchase or use of PCF Products. If it would be reasonable for CIBC to consider, ceasing to offer a PCF Product based on a narrowing of interest rate spreads/decline in profitability, the Steering Committee must meet to consider a reduction in the 45 basis points.
+- Subparagraphs 2(e)(i) to (ii) set out the requirements for the disclosure of the PCF Product supplier per the standards required by law.
+CIBC’s rights are not limited and it may produce, offer, deliver, promote or advertise any product or services it is entitled to under its own trademarks and delivery channels. CIBC agreed to pursue the launch of the PCF Visa card expeditiously.
+- Subparagraph (2)(f)(i) sets out the PCF delivery channels, including:
+· PCF telephone banking, PCF‑ and CIBC‑branded automated banking machines (“ABMs”), PCF internet site, PCF kiosk, and other channels as approved by the Steering Committee.
+- Subparagraph 2(f)(ii) provides that CIBC must operate a PCF telephone banking facility seven days a week.
+- Subparagraph 2(f)(iii) sets out CIBC’s obligations in respect of the ABMs. Subject to the terms and conditions of the ABM Agreement, CIBC agrees to supply and install at least one full‑function ABM in each corporate store participating in the pilot.
+- Subparagraph 2(f)(iv) sets out CIBC’s obligations in respect of PCF customers’ Interac access. CIBC will not charge fees to PCF customers for transactions through CIBC‑ or PCF‑branded ABMs or point‑of‑sale debit terminals. However, CIBC may charge its customary fees on transactions that are non‑CIBC and non‑PCF branded ABM or debit transactions.
+- Subparagraph 2(f)(v) sets out CIBC’s obligations to supply and maintain the PCF internet site. Loblaw must supply the domain name and permit CIBC to use it under licence.
+- Subparagraph 2(f)(vi) sets out Loblaw’s obligations in respect of the PCF kiosks including the design, installation and maintenance thereof. CIBC in turn provides at its own expenses the necessary hardware, software and communication links to allow the transactional capability for PCF customers.
+- Subparagraph 2(f)(vii) sets out CIBC’s in‑store presence. Specifically, from time to time CIBC will place CIBC personnel on site in participating locations as determined by the Steering Committee. Loblaw staff may provide certain services at various locations including signature verification and emergency cash advances. Staff at participating locations will be instructed and trained by CIBC.
+- Subparagraph 2(f)(viii) provides that CIBC waives its exclusivity rights to the extent required to allow the installation and operation of a PCF kiosk in a location where CIBC’s rights of exclusivity with third parties would otherwise prevent this.
+- Subparagraph 2(f)(x) states that each PCF customer is automatically eligible to be a member of the Loyalty Program.
+- Subparagraph 2(f)(xi) states that CIBC may designate a subsidiary to handle PCF customer relations, including the collection, use and retention of information from PCF customers.
+[73] LCL and PC Bank were granted a role in the design, marketing and promotion of PCF products, inter alia, in order to protect the value of its “PC” trademark and the goodwill of LCL Group’s large customer base. In this regard, the Respondent points out that the FSA speaks to the following: [76]
+(d) design by Loblaw of the PCF kiosks, in consultation with CIBC, and at its own expense, install and maintain the physical structure of the PCF kiosks; [77]
+(e) test the viability of the PCF Offer by launching a pilot program. [78] Its obligations under that pilot [are] to designate 9 corporate stores for the pilot and to have manufactured and installed one PCF kiosk in each of the 9 stores; [79]
+(f) pay the expenses of promoting the PCF Offer through its in‑store signage, Loblaw flyers, Insider’s Report and similar means; [80]
+(g) participate in a Joint Marketing Committee; [81]
+(h) provide marketing services; [82]
+(i) submit to CIBC all promotion and advertising material for the PCF Offer for prior review and approval in order to maintain the quality and integrity of the PCF Offer and indicate its approval or rejection of the other party’s materials; [83] and
+(j) provide CIBC exclusivity for the placement of ABMs in corporate or franchised stores except to allow for the expiry of existing agreements and CIBC’s right of first refusal. [84]
+[74] In contrast with the Respondent’s careful point‑by‑point analysis of the FSA, I note that the Appellant’s counsel spent little time in his written and oral submissions identifying the elements of the supply made by PC Bank under the FSA. I believe that counsel side‑stepped this key analysis because the key agreements are not at all helpful to his client’s case. I surmise that this is why counsel focused most of his efforts on trying to persuade me that I should adopt the factual findings made by Lamarre J. in the 2009 Decision.
+[75] As noted earlier, the Appellant’s counsel spent most of his time arguing that the supply made by PC Bank to CIBC was much broader than the passive provision of the Bundle of Rights under the key agreements. The Respondent does not dispute this. In fact, the Respondent accepts that marketing and product design services were provided by PC Bank as a secondary supply to the predominant element of the supply which was the exercise of the Bundle of Rights that allowed CIBC to gain access to LCL’s large customer base. [85] At this juncture, I observe that if I am wrong and the promotional and marketing services represent the predominant elements of the PC Bank Supply, this supply would be a taxable supply by virtue of Exclusionary Paragraph (r.4).
+Review of the LSA
+[76] The LSA sets out rights and obligations that have become somewhat standard when third parties are granted the right to issue and pay for the redemption of points that are used by members to acquire rewards. This agreement appeared to be a win‑win for both parties. In general, CIBC was given the right to issue points to entice customers to acquire PCF Products from it. Loblaw would benefit from greater customer loyalty from clients who would redeem the points for rewards in its stores.
+Amending Agreements
+[77] The parties entered into a series of amending agreements.
+[78] The Letter Agreement, dated January 17, 2001 allowed Loblaw and PC Bank to expand the type of financial products and services that it could offer to its clients without the participation of CIBC. [86]
+[79] The Amending Agreement, dated April 1, 2005, altered the fee structure. Both of the Appellant’s witnesses provided insight as to why PC Bank and CIBC agreed in that agreement to alter the fee structure under the FSA. [87] Under the original FSA, LCL and PC Bank, following the assignment of the agreements were entitled to receive revenue that did not take into account CIBC’s costs in generating the revenue. For example, under the original terms of the FSA, LCL, and then PC Bank, was entitled to receive a fixed amount for each account opened by a customer. Often these accounts could be inactive or generate little revenue, the same was true for other banking products. Because of this, CIBC was not properly incentivized to grow the business. To provide for better alignment of the parties’ financial interests, the fee payable to PC Bank was modified. Under the new compensation arrangement 10.85% of net income would be paid, which would include all expenses normally attributable to that source. [88]
+[80] Considering the oral evidence as a whole, I believe that this change was brought about because CIBC failed to properly estimate the value of the Bundle of Rights that allowed it to tap into the LCL Group’s customer base. The value of intangible assets is often difficult to ascertain. That is why, when intangible assets are transferred or licensed, various compensation formulas are used to tie payments (i.e. purchase price of goodwill, royalty earned with respect to the granting of rights) to a percentage of future income generated from such assets. It appears that the new fee arrangement was implemented to address the shortcoming of the initial compensation method which, over time, had proven to over value the Bundle of Rights enjoyed by CIBC.
+[81] The 2005 Amending Agreement created a better alignment with the true value of the Bundle of Rights that CIBC received.
+[82] The Amending Agreement dated March 2, 2010 allowed PC Bank to issue guaranteed investment certificates (“Broker GICs”) through a broker market. [89] I understand that PC Bank needed to find other channels to finance its expanding credit card financing business other than by securitizing credit card receivables.
+[83] The other amending agreements are of far lesser importance and are of little relevance in determining the predominant elements of the supply. I summarize them briefly below:
+a) The Amending Agreement dated January 7, 2013: Agreement between PC Bank and CIBC, pursuant to which, inter alia, CIBC agreed to promote and solicit certain PC Bank products to prospective clients at branded PC Bank kiosks and to provide other related support services; PC Bank agreed to pay CIBC tiered fees based on the number of completed credit card applications. [90]
+b) The Amending Agreement dated August 30, 2013: Agreement between PC Bank and CIBC, which superseded the January 7, 2013 agreement and amends the FSA with respect to, inter alia, CIBC promoting and soliciting certain PCF Products and providing related support services; as well as PC Bank promoting and soliciting certain products at agreed‑upon locations and providing related support services. It also sets out various fees payable by CIBC to PC Bank and vice versa, including revisions to the tiered fee structure based on completed credit card applications. [91]
+c) The Amending Agreement dated October 8, 2014: Agreement between PC Bank and CIBC, which superseded the amendments made in 2013 (see exhibits J and K) and amends the FSA with respect to, inter alia, CIBC promoting and soliciting certain PCF Products at kiosks and via the call centre operated by CIBC, and CIBC providing related support services; as well as PC Bank promoting and soliciting certain PCF Products at agreed‑upon locations and via a call centre operated by PC Bank, and PC Bank providing related support services. It also sets out various fees payable by CIBC to PC Bank and vice versa, including further revisions to the tiered fee structure based on completed credit card applications. [92]
+The Determination of the Predominant Elements of the Supply
+[84] As noted earlier, the case law instructs that I must determine the predominant elements of the supply if it is a single compound supply.
+[85] In determining the predominant elements of a supply, the terms of an agreement may be examined by taking into account the relevant factual matrix and the commercial efficacy of the arrangements under which the supply is made.
+[86] I now return full circle to the parts of Mr. Ward’s testimony that the Appellant suggests or more often suppressed that the predominant element of the supply was the services of a team composed of CIBC and PC Bank personnel who worked together day to day to ensure that the arrangement was profitable for both parties.
+[87] As noted earlier, the Respondent was quite successful in peeling away at Mr. Ward’s, testimony which was embellished by repeated references to the close collaboration of “the team that brought you President’s Choice Financial”. As noted earlier, the team consisted of 10 to 15 employees of PC Bank assigned to give effect to the rights and obligations of the parties under the key agreements. [93]
+[88] Mr. Ward emphasized that the “team” worked on a multitude of mundane tasks, such as dealing with the complaints of frustrated customers whose debit cards did not work properly. [94] On cross-examination, he admitted that the principal function of PC Bank was to assist with marketing initiatives to entice LCL’s customers to purchase PCF Products from CIBC. [95] The team would identify, for example, in which stores new kiosks should be placed. They would prepare budgets and statements showing quarterly performance versus budget. It is no surprise that the PC Bank personnel were involved in market research, product design and marketing; the LCL Group valued its large customer base. Its “PC” trademarks had strong brand value. The LCL Group wanted to protect the value of both assets while allowing CIBC to benefit from the Bundle of Rights to sell PCF Products.
+[89] The Appellant would have me believe that CIBC was paying for the services of the “team” made up of a small number of PC Bank employees who were assigned to work on the successful implementation of the FSA and the LSA and subsequent amending agreements. I have extreme difficulty believing this to be the case. I surmise that this small team of individuals would have been paid well in excess of approximately $1.5 million per year in total, if they were responsible for creating the value that counsel for the Appellant would like me to believe that they created. The services of the PC Bank employees would have been of no importance to CIBC if it were not for the Bundle of Rights described above.
+[90] I agree with the Respondent that the participation of each of the parties’ personnel on the Steering Committee and other committees established under the auspices of the key agreements was both an obligation and a right of PC Bank and CIBC. Both parties benefited from being members of these committees. The creation of the committees and the participation of a very limited number of PC Bank employees on the committees fall well short of being the predominant element of the PC Bank Supply. CIBC was not paying the consideration to PC Bank for the services of these individuals. Without the Bundle of Rights, these services would have been worthless to CIBC.
+[91] I believe that the main contribution of the PC Bank employees was assisting in marketing research, promotional activities and, to a limited extent, product design, for the most part to ensure that LCL’s goodwill was not negatively affected because of this initiative and overall to ensure that the arrangement was profitable for both parties. This constitutes, at best, a secondary element of the PC Bank Supply.
+[92] As noted by the Respondent, the above services are also excluded under the definition of “financial services” by reason of the application of Exclusionary Paragraph (r.4).
+[93] Considering all of the above, I agree with the Respondent that CIBC was granted a Bundle of Rights that allowed it to solicit the LCL Group’s existing and future clients for the purchase of PCF Products. The evidence shows that most of the PCF Products were purchased in Loblaw stores. These rights were extremely valuable to CIBC and allowed it to rapidly increase the volumes of sales of PCF Products. I agree with the Respondent that without these rights, CIBC would have no reason to enter into the FSA, the LSA and subsequent amending agreements and pay PC Bank the fees thereunder.
+[94] For all of these reasons, I conclude that the predominant element of the PC Bank Supply was, at all material times, a taxable supply by virtue of the application of Exclusionary Paragraph (r.5). Therefore, both CIBC’s appeal and the PC Bank Appeals as they relate to the “PCF Supply Issue” are dismissed.
+Signed at Magog, Québec, this 19th day of July 2022.
+“Robert J. Hogan”
+Hogan J.
+Appendix 1
+CITATION:
+2022 TCC 83
+COURT FILE NO.:
+2019-3197(GST)G
+STYLE OF CAUSE:
+CANADIAN IMPERIAL BANK OF COMMERCE v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Canada
+DATE OF HEARING:
+January 24, 25, 26, and 27, 2022 and February 11, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+July 19, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Al Meghji
+Alexander Cobb
+Al-Nawaz Nanji
+Counsel for the Respondent:
+Justine Malone
+Lindsay Tohn
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Al Meghji
+Al-Nawaz Nanji
+Firm:
+Osler, Hoskin & Harcourt LLP
+100 King Street West
+1 First Canadian Place
+Suite 6200, P.O. Box 50
+Toronto, Ontario M5X 1B8
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Excise Tax Act, RSC 1985, c E-15.
+[2] 2009 TCC 170.
+[3] PC Bank also appealed other issues in respect of which it was reassessed (the “Other Issues”). The PC Bank Appeals as they pertain to the Other Issues, were heard and disposed of separately.
+[4] Canadian Imperial Bank of Commerce v R, 2022 TCC 26; my reasons are attached as Appendix “I” for ease of reference.
+[5] Exhibit R8: Partial Agreed Statement of Facts (dated January 17, 2022) [Exhibit R8 (PASF)].
+[6] Exhibit A1: Joint Book of Documents [JBOD], vols 1‑2.
+[7] January 27, 2022 Transcript, pp 465‑466.
+[8] Written Submissions of the Appellant at para 1.
+[9] Written Submissions of the Appellant at paras 8, 14, 58.
+[10] Written Submissions of the Appellant at para 14.
+[11] Written Submissions of the Appellant at paras 17, 63, 71.
+[12] Written Submissions of the Respondent at para 2.
+[13] February 11, 2022 Transcript, p 515, lines 4 to p 518, line 25; Written Submissions of the Respondent at para 161.
+[14] Written Submissions of the Respondent at para 166.
+[15] See Canadian Medical Protective Association v R, 2009 FCA 115 at paras 56, 63‑64 (The Federal Court of Appeal found that the services performed by investment managers were to “cause to occur a transfer of ownership … of a financial instrument” and fell within paragraphs 123(1)(d) and (l) of the Act. The Federal Court of Appeal noted: “The skill shown in the pick, i.e., the research necessary for the preparation of the buying or selling order, is the core of the investment managers’ activity and the raison d’être of their being hired. The quality of the pick is the trademark of their profession.”)
+[16] See Skylink Voyages Inc v Canada, 1999 CarswellNat 2983, 1999 CarswellNat 1256, [1999] GSTC 119 (Eng), [1999] GSTC 43 (Fr), [1999] TCJ No 159, 2000 GTC 732 (Eng), 99 GTC 3096 (Fr): The taxpayer operated a wholesale travel agency, essentially acting as an intermediary between airlines and retail travel agencies. The Court found that the collection services provided to the retail agencies by the taxpayer constituted financial services, which were exempt supplies.
+[17] See Les Promotions DND Inc v R, 2006 TCC 63 at paras 12‑13, 36‑37: The Court found that the taxpayer was an intermediary between the financial institution and the purchaser in the supply of a financial service. The taxpayer’s business was promoting credit cards in public spaces such as shopping centres, fairs and exhibition sites. The taxpayer’s employees would revise the applications and send them to the credit card company.
+[18] Department of Finance News Release 2009‑115—Government of Canada Responds to Recent Court Decisions on the GST and Financial Services (December 14, 2009), Respondent’s Book of Authorities, Tab 31 at p 262; Written Submissions of the Respondent at paras 53‑61.
+[19] Great‑West Life Assurance Co v R, 2016 FCA 316 at para 48 [Great‑West]; Global Cash Access (Canada) v R, 2013 FCA 269 at paras 25‑26, 37‑38 [Global Cash]; Canadian Imperial Bank of Commerce v. The Queen, 2021 FCA 10 [CIBC (Visa)] at para 32.
+[20] February 11, 2022 Transcript, p 473, line 24 to p 478, lines 2‑23.
+[21] Ibid, p 478, lines 4‑17; Written Submissions of the Appellant at para 54.
+[22] Ibid.
+[23] Reasons for Order, supra note 4 at paras 37‑48.
+[24] Written Submissions of the Respondent at paras 53‑61.
+[25] February 11, 2022 Transcript, p 517, lines 5‑16.
+[26] Ibid, p 517, line 17 to p 518, line 25.
+[27] Ibid, p 490, line 16 to p 494, line 15; p 505, line 28.
+[28] Ibid, p 477, lines 2‑11.
+[29] Ibid, p 501, line 23 to p 502, line 6.
+[30] Ibid, p 508, lines 4‑7.
+[31] Ibid, p 509, lines 28 to p 509, line 11. See also Financial Services Agreement (dated November 1, 1997), JBOD, vol 1, Tab 3 at p 84; Loyalty Services Agreement (dated November 1, 1997), JBOD vol 1, Tab 4 at p 116; Trademark License Agreement (Financial) (dated November 1, 1997), JBOD, vol 1, Tab 5 at p 136; Trademark License Agreement (Loyalty) (dated November 1, 1997), JBOD, vol 1, Tab 6 at p 153.
+[32] February 11, 2022 Transcript p 503, lines 1‑19.
+[33] Ibid, p 522, line 27 to p 523, line 12.
+[34] Ibid, p 492, line 19 to p 493, line 20; p 505, line 5 to p 506, line 3.
+[35] 2009 Decision, supra note 2 at para 38.
+[36] Written Submissions of the Appellant at para 12; Written Submissions of the Respondent at para 64.
+[37] Canadian Imperial Bank of Commerce v Canada, 2021 FCA 96 [CIBC (Aeroplan)] at para 30.
+[38] See for example: CIBC (Aeroplan), supra note 37 at paras 22‑24; Great‑West, supra note 19 at para 47; Global Cash, supra note 19 at para 26.
+[39] February 11, 2022 Transcript, p 499, line 3 to p 500, line 12.
+[40] Ibid, p 517, lines 5 to 24.
+[41] Global Cash, supra note 19 at para 41.
+[42] Great‑West, supra note 19 at para 47.
+[43] Global Cash, supra note 19 at para 26; Great‑West, supra note 19 at paras 46‑47.
+[44] January 25, 2022 Transcript, p 127, line 28 to p 130, line 21; p 142, lines 2‑8.
+[45] January 25, 2022 Transcript, p 156, lines 20‑23.
+[46] Ibid, p 143, lines 4‑14.
+[47] January 25, 2022 Transcript, p 177, lines 5‑11.
+[48] Ibid, p 174, lines 1‑14; p 177, lines 12‑13.
+[49] Ibid, p 177, lines 14‑21.
+[50] Ibid, p 131, line 15 to p 132, line 3.
+[51] Ibid, p 134, lines 12‑18.
+[52] Ibid.
+[53] Ibid, p 131, line 23 to p 133, line 8.
+[54] Ibid, p 168, line 11 to p 169, line 2.
+[55] Ibid, p 131, line 23 to p 133, line 8.
+[56] Ibid, p 131, lines 23‑28; p 133, lines 4‑8.
+[57] Ibid, p 245, lines 2‑18.
+[58] Ibid, p 138, line 22 to p 139, line 11.
+[59] Ibid, p 132, lines 4‑10; p 138, line 22 to p. 139, line 11.
+[60] Ibid, p 138, line 22 to p 139, line 11.
+[61] Ibid, p 134, lines 23‑27.
+[62] Ibid, p 269, line 19 to p 272, line 17.
+[63] January 26, 2022 Transcript, p 307, lines 12‑15.
+[64] Ibid, p 303, line 13 to p 306, line 10.
+[65] Ibid, p 398, line 27 to p 399, line 4.
+[66] Ibid, p 398, line 27 to p 399, line 14.
+[67] Ibid, p 398, line 27 to p 401, line 16.
+[68] Ibid, p 400, line 16 to p 401, line 16.
+[69] Ibid, p 382, line 22 to p 383, line 23.
+[70] Ibid, p 315, lines 2‑14.
+[71] Ibid, p 306, lines 11‑15; p 307, lines 1‑8.
+[72] Exhibit R8 (PASF), supra note 5 at para 43. I calculated the total revenue by adding up the figures in the “Revenue Share” column for the periods at issue.
+[73] Exhibit A1: Financial Services Agreement (dated November 1, 1997), JBOD vol 1, Tab 3 at pp 44‑45.
+[74] Respondent’s Book of Documents (Cross‑examination of Rob Ward), Tab 4 at p 27.
+[75] Exhibit A1: Financial Services Agreement (dated November 1, 1997), JBOD, vol 1, Tab 3 at pp. 49‑60.
+[76] Written Submissions of the Respondent at para 76.
+[77] Exhibit A1: Financial Services Agreement (dated November 1, 1997), JBOD vol 1, Tab 3 at p 59.
+[78] Ibid, pp 60‑61.
+[79] Ibid, p 61.
+[80] Ibid, p 65.
+[81] Ibid, pp 65‑66.
+[82] Ibid, p 66.
+[83] Ibid.
+[84] Ibid, pp 79‑80.
+[85] Written Submissions of the Respondent paras 6, 166‑172.
+[86] Exhibit A1: Letter Agreement (dated January 17, 2011), JBOD, vol 1, Tab 8 at p 164‑185.
+[87] January 25, 2022 Transcript, p 194, line 14 to p 195, line 9; January 26, 2022 Transcript, p 342, line 25 to p 344, line 6.
+[88] Exhibit A1: 2005 Amending Agreement , JBOD, vol 1, Tab 13 at p 202; January 26, 2022 Transcript, p 342, line 25 to p 344, line 1.
+[89] Exhibit A1: 2010 Amending Agreement, JBOD, vol 1, Tab 16 at pp 246‑253.
+[90] Exhibit A1: Amending Agreement, JBOD, vol 1, Tab 19 at pp. 267‑290.
+[91] Exhibit A1: Amending Agreement, JBOD, vol 1, Tab 20 at pp 291‑365.
+[92] Exhibit A1: Amending Agreement, JBOD, vol 1, Tab 21 at pp 366‑441.
+[93] January 26, 2022 Transcript, p 358, line 24 to p 359, line 3.
+[94] January 25, 2022 Transcript, p 179, line 20 to p 180, line 13.
+[95] Ibid, p 218, line 23 to p 231, line 7.

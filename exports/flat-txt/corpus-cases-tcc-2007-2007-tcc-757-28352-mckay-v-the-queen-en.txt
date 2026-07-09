@@ -1,0 +1,226 @@
+Title: McKay v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28352/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-757-28352-mckay-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-08-02
+
+# McKay v. The Queen
+
+- Citation: 2007 TCC 757
+- Decision date: 2007-08-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1937, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McKay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-02
+Neutral citation
+2007 TCC 757
+File numbers
+98-1003(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 98-1003(IT)I
+BETWEEN:
+MARGARET MCKAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 2, 2007 at Fort Smith, Northwest Territories
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Darcie Charlton
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act in respect of the 1995 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 18th day of December 2007.
+“L.M. Little”
+Little J.
+Citation: 2007TCC757
+Date: 20071218
+Docket: 98-1003(IT)I
+BETWEEN:
+MARGARET MCKAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellant is an Indian as defined by the Indian Act and is a member of Salt River First Nation #195 of Fort Smith, Northwest Territories.
+[2] In 1995, the Appellant was employed by the Salt River First Nation #195 in the Town of Fort Smith. In 1995, the Appellant was also employed by the Government of the Northwest Territories.
+[3] The Appellant received income from office or employment in the amount of $15,912.21 from the Salt River First Nation #195 and income of $1,715.56 from the Government of the Northwest Territories (hereinafter the “Employers”).
+[4] During the 1995 taxation year, the Appellant resided in the Town of Fort Smith, Northwest Territories.
+[5] The Appellant performed her duties of office or employment with both of the Employers in the Town of Fort Smith.
+[6] When the Appellant filed her income tax return for the 1995 taxation year she adopted the position that the employment income received by her was exempt from taxation by virtue of section 87 of the Indian Act.
+[7] By Assessment dated August 13, 1996, the Minister of National Revenue (the “Minister”) assessed the Appellant to include the amounts of $15,912.21 plus $1,715.56 in her income for the 1995 taxation year.
+B. ISSUE
+[8] Is the Appellant exempt from tax by virtue of section 87 of the Indian Act on the employment income that she received in the 1995 taxation year?
+C. ANALYSIS AND DECISION
+[9] When the Minister assessed the Appellant he determined that the situs of both of the Employers was located in the Town of Fort Smith.
+[10] The Minister also determined that no portion of the Town of Fort Smith was located on a reserve.
+[11] In determining whether an Indian is entitled to an exemption from taxation, we must review the “connecting factors”. One of the main connecting factors is the situs of the Employers.
+[12] As noted above the Minister took the position that the Appellant’s Employers were not located on a reserve.
+[13] Counsel for the Respondent called Mr. Brian Kenneth Herbert as a witness.
+[14] Mr. Herbert was employed by the land services section of the Indian & Inuit Services Directorate of the Northwest Territory Region. Through his twenty-five years of employment with the land services section Mr. Herbert had access to documentation and personal historical knowledge of the lands occupied by the Salt River First Nation #195 band office (“Band Office”)[1].
+[15] Mr. Herbert testified that in 1995 the land on which the Band Office was situated was incorrectly treated by his Directorate as a temporary fishing reserve until the year 2000, at which time it was realized that the land should have been treated as a reserve as identified under the Indian Act. Mr. Herbert specifically stated the following:
+Q: Now, I note on this it says under the bold Salt Plains Indian Reserve #195 it says “Salt River Indian Fishing Reserve”.
+A: Yes, it does.
+Q: Can you tell me about that?
+A: This has probably led to the greatest amount of confusion about this reserve itself. For the longest time the department thought it was a fishing reserve, which is a notated parcel of land held for the use for a specific purpose. In this case it would have been held as a seasonal fishing area for the First Nations people to go to at the various fishing times.
+So it was never treated as an Indian Act reserve until probably closer to 2000 when we did some more research on it and we found out that according to the surveyor general and the way the Order in Council was written, it was deemed by everybody else to be a reserve as under the Indian Act.[2] [Emphasis added]
+[16] The Supreme Court of Canada in the Ross River Dena Council Band[3] decision determined what legal requirements had to be met for the establishment of a reserve as defined under the Indian Act. The decision explicitly stated that there must be an intention to create a reserve by a person given the authority to bind the Crown. LeBel J. stated the following:
+Under the Indian Act, the setting apart of a tract of land as a reserve implies both an action and an intention. In other words, the Crown must do certain things to set apart the land, but it must also have an intention in doing those acts to accomplish the end of creating a reserve. It may be that, in some cases, certain political or legal acts performed by the Crown are so definitive or conclusive that it is unnecessary to prove a subjective intent on the part of the Crown to effect a setting apart to create a reserve. For example, the signing of a treaty or the issuing of an Order-in-Council are of such an authoritative nature that the mental requirement or intention would be implicit or presumptive.[4]
+[17] In Mr. Herbert’s testimony he stated that there was an Order-in-Council which declared the land on which the Band Office resided was a reserve as required under the Indian Act, thus the legal documentation evidencing the intention of the Crown was in place, it was simply misinterpreted. (Emphasis added)
+[18] Although as of the year 2000 negotiations have been held to include the Salt River First Nation #195 under a new treaty entitlement,[5] based on the information presented at trial and the criteria established by Ross River Dena Council Band[6], I have concluded that the land on which the Band Office is located and the place in which the Appellant performed her services were situated on a reserve, during the 1995 taxation year.
+Situs of Employment Income
+[19] In the Shilling v. Canada[7] decision the Federal Court of Appeal set out the analytical framework evolving from the jurisprudence in determining whether an Aboriginal’s employment income is situated on a reserve. The framework is as follows:
+1. The statutory exemption in section 87 extends to the taxation of an Indian’s employment income if it is located on a reserve.[8]
+2. Whether intangible property is located on a reserve is dependent on an examination of factors connecting the property to a reserve. There are three important considerations when determining the weight of connecting factors: the purpose of the exemption[9]; the character of the property in question; and the incidence of taxation upon that property.[10]
+3. Section 87 should be understood as part of the provisions contained in section 87-90 of the Indian Act which were designed to protect Indians in various ways from the erosion of their economic bases, namely reserve lands and personal property there belonging to an Indian.[11]
+4. Section 87-90 do not serve the purpose of generally ameliorating the economic disadvantages suffered by many Indians, thus no application will be permitted where an Indian chooses to acquire and hold personal property “in the commercial mainstream” as oppose to on a reserve.[12]
+[20] As section 87 of the Indian Act extends to employment income, an examination of the connecting factors will be analysed below.
+[21] The Williams v Canada[13] decision established what is referred to as the “connecting factors test”. This test has been used by many courts in assessing whether employment income can be said to be situated on a reserve.
+[22] The Williams[14] case dealt with the situs of unemployment insurance benefits received by Mr. Williams, a member of the Penticton Indian Band residing on Reserve No. 1. The Court established that connecting factors may have varying degrees of relevancy, depending on the type of benefit or income being received.[15]
+[23] In the Folster[16] decision the Federal Court of Appeal established how the analysis should proceed in determining whether employment income was situated on a reserve and which connecting factors should be considered and given significant weight in this analysis. Linden J. stated the following:
+The inquiry must, therefore, be expanded in order to consider other connecting factors. In my view having regard for the legislative purpose of the tax exemption and the type of personal property in question, the analysis must focus on the nature of the appellant’s employment and circumstances surrounding it. The type of personal property at issue, employment income, is such that its character cannot be appreciated without reference to the circumstances in which it was earned. Just as the situs of unemployment insurance benefits must be determined with reference to its qualifying employment, an inquiry into the location of employment income is equally dependent upon an examination of all the circumstances giving rise to that employment. Assessing these factors in the context of this case, I am of the view that the tax exemption must be accorded to the appellant’s income in order to avoid the erosion of an Indian entitlement. The personal property at issue is income earned by an Indian who is resident on a Reserve, and who works for a Hospital which attends to the needs of the Reserve community; a Hospital that was once located on, and is now adjacent to, the Reserve it services.[17]
+***
+On the facts of this case, the residence of the taxpayer, the nature of the service performed, the history of the institution in question, and the circumstances surrounding the employment all received great weight in the purposive interpretation of section 87. On the contrary, the residence of the employer, even if that could be determined, and the metes and bounds location where the duties performed, although certainly relevant, were granted less weight than other cases.[18] [Emphasis added]
+[24] In the Federal Court of Appeal decision of Amos[19], Justice Strayer permitted the tax exemption of employment income derived from a pulp mill situated off‑reserve. The Court inferred that since the reserve lands were leased to the pulp mill company on the condition that members of the Band be employed, the members of the Band benefited from the employment opportunities made available through the aforementioned arrangement. It was also inferred that the use of the reserve land was an integral component of the operation of the pulp mill or the company would not have leased the lands prior to production. Based on this analysis the Court held that employment was directly related to the Band members’ entitlement to the reserve land.
+[25] In Amos[20] the Court referred to the Recalma[21] decision which dealt with the tax exemption of investment income. This case effectively summarizes what requirement must be met to permit the tax exemption of employment income earned off-reserve. Linden J. stated the following at paragraphs 9 and 10:
+In evaluating the various factors the Court must decide where it ‘makes the most sense’ to locate the personal property in issue in order to avoid the ‘erosion of property held by Indians qua Indians’ so as to protect the traditional Native way of life. It is also important in assessing the different factors to consider whether the activity generating the income was ‘intimately connected to’ the Reserve, that is, an ‘integral part’ of Reserve life, or whether it was more appropriate to consider it as part of ‘commercial mainstream’ activity. We should indicate that the concept of ‘commercial mainstream’ is not a test for determining whether property is situated on a reserve; it is merely an aid to be used in evaluating the various factors being considered. It is by no means determinative. The primary reasoning exercise is to decide, looking at all the connecting factors and keeping in mind the purpose of the section, where the property is situated, that is, whether the income earned was ‘integral to the life of the Reserve’, whether it was ‘intimately connected’ to that life, and whether it should be protected to prevent the erosion of the property held by Natives qua Natives.
+It is plain that different factors may be given different weights in each case. Extremely important, particularly in this case, is the type of income being considered as attracting taxation. Where the income is employment or salary income, the residence of the taxpayer, the type of work being performed, the place where the work was done and the nature of the benefit to the Reserve are given great weight. [Emphasis added]
+[26] Based on the Recalma[22] decision the following are four connecting factors to be given greater weight in determining whether the Appellant’s employment income is situated on a reserve:
+1. the residence of the taxpayer;
+2. the type of work being performed;
+3. the place where the work was done; and
+4. the nature of the benefit to the reserve.
+Another significant consideration is whether the income earned was integral to the life on the reserve and should be protected to prevent the erosion of the property held by Natives qua Natives.
+Residence of the Taxpayer
+[27] The Appellant lived in Fort Smith, Northwest Territories during 1995 and not on the Salt River Plains Reserve. Her cheques were received in Fort Smith and kept in a bank in town.
+[28] Although the Appellant did not live on the reserve, unlike the Monias[23] case she had definite connections to the reserve, through her work and through the Band members with whom she visited regularly.
+Type of Work Being Performed
+[29] Evidence was given at trial that the Appellant was employed at the Salt River First Nations #195 Band Office located in Fort Smith, Northwest Territories as a Communications Officer[24]. In the Appellant’s written arguments she described her role as a Communications Officer trainee, her duties entailing the following:
+· Attend/record/transcribe/file all band council meetings;
+· Record via video/tape-recorder/notes with elders/youths and leaders of historical information. i.e. trapping/traditional hunting grounds/voice for youth interests;
+· Training provided: radio broadcasting (CKLB Radio broadcast show in Yellowknife, NT), Aurora College (Communications skills);
+· Produce/distribute/mail/file a monthly newsletter for band membership.
+[30] The duties performed by the Appellant were corroborated by the testimony from Henry Beaver[25], who was a council member in 1995 and Francois Frederick Paulette who was a Chief negotiator also in 1995.
+[31] In his testimony Mr. Paulette referred to the importance of the role of the Communications Officer, he stated:
+A: But I just want to make the point that yes, she was the communications officer for the -- for the band. The evolving information, I had a – as I was going through the file I came across a newsletter that was way back, and I should have picked that up but I didn’t. Anyway, nonetheless – because at the end of the day, we have to – people have to ratify the process. If the people are not informed about what the treaty process or the negotiations at the table, they will not negotiate or they would oppose it. And our ---
+Justice Little: So your point is the communications officer is very important?
+A: Yes. And that at the end, my First Nations, Smith Landing, the referendum had to take 70 percent; 70 percent had to say yes to the settlement.[26]
+[32] Based on the foregoing it is evident that the work performed by the Appellant was integral to the advancement of the land claims process and ensured that all members of the Band were informed of the various activities engaged by the Band on their behalf.
+Place the Work is being Done
+[33] The Appellant testified that she was on the Salt River Plains Reserve approximately ten times per month and would be required to attend weekly Council Meetings.[27] Mr. Henry testified that there were crude roads leading into the Salt River Plains Reserve and there were approximately twenty buildings on reserve[28].
+[34] As stated in Shilling[29] the performance of work off-reserve is an indication that employment income is not situated on a reserve, but is not in and of itself determinative.
+[35] Additionally in Amos[30] the Court stated that it would be “too arbitrary” to withhold the benefit of section 87 from those employees who worked in the part of the business located on leased reserve land when those who worked on contiguous reserve land were entitled to it.
+[36] The Appellant worked in both the Band Office located in Fort Smith but she was also required to visit the reserve on a regular basis to gather information from Band members and provided them with copies of the newsletter keeping them informed of Band activities.
+Nature of the Benefit to the Reserve
+[37] The Appellant was required to provide Band members with up‑to‑date information relating to treaty negotiations, the re‑creation of elders’ stories and connecting the Band members with the appointed Chief and Council members.[31]
+[38] Although the Appellant did not live on the reserve the other connecting factors suggest that the income received by the Appellant should be exempt from tax. The purpose of her position was to connect all members of the Band, both on and off-reserve, providing information on the status of treaty negotiations and capturing and recording significant historical events. The monies earned by the Appellant were intimately connected to the Native way of life by maintaining historical accounts and publicizing the negotiations and status of land claims engaged in by the Band, and there was a discernible nexus between the Appellant’s employment income and the reserve as her duties were in the furtherance of establishing reserve status.
+[39] Additionally, the activities of the Appellant were not connected to the “commercial mainstream”. As set out in the Appellant’s written arguments the purpose of the Band Office was to govern its own peoples and provide leadership in dealing with political issues and ensuring that treaty obligations were fulfilled by the Canadian Government.
+Source of Funding
+[40] Although the Respondent tried to establish that the monies received by the Salt River First Nation #195 Band were not solely related to treaty negotiations, based on the Desnomie[32] decision this factor is of little relevance as the agreement need only be ancillary to a treaty, as such there need only be some link to a treaty. [33]
+[41] The Appellant asserted that the funding for her position was from a government loan for Treaty Land Entitlement Negotiations (“TLE”), which has a significant link to establishment of treaties and land claim entitlements. During his testimony Mr. Herbert suggested that the funding could have also been received from the Indian and Northern Affairs Canada (“INAC”), but neither could adduce evidence to establish what amounts were provided under which program.
+[42] Considering that the Appellant’s position was temporary, being for one year, and her title was Communications Office Trainee it is likely that the monies received to pay her wages were not from general administrative funding and would have been specified under a specific program such as the TLE.
+Distinguishing the Adams Decision
+[43] The Adams[34] decision at first glance would appear to be similar to the fact pattern of the case under appeal. In that case the Court did not allow for the exemption of tax. Despite the similarities there are distinct differences that result in this case having no application to the present appeal.
+[44] Firstly, the Appellant in the Adams[35] decision was a secretary for a Band Office, thus dealing with the daily administrative functions of the Band. In the present case the Appellant’s work had nothing to do with the daily administrative functions of the Band, rather her position was created to provide Band members information relating to the Band activities.
+[45] Secondly, the money provided to pay wages to the Appellant in the Adams[36] decision was not based on an agreement between the Band and “Her Majesty”. The TLE funding is provided by “Her Majesty”. Funding provided under the INAC would be considered provided by “Her Majesty” as it is funding from the Federal Government. As stated in the Adams decision “Her Majesty” refers to the Federal Crown.[37]
+[46] Thirdly, the Court stated that the facts of the Adams case were unusual since in that case there was no evidence that any of the members of the Band actually lived on the reserve. Such is not the case in the present appeal. There are individuals who live both on and off the reserve, all of whom the Appellant was responsible for. It therefore follows that the people benefiting from the Appellant’s services were living both on and off-reserve.
+D. CONCLUSION
+[47] Based on Mr. Herbert’s testimony there was an Order‑in‑Council which declared that the land on which the Band Office resided was a reserve under the Indian Act, thus the legal documentation evidencing the intention of the Crown was in place and the exclusion from reserve status was due to a misinterpretation of this document.
+[48] A combination of Mr. Herbert’s testimony along with the criteria established by the Ross River Dena Council Band[38] case suggests that the lands in which the Band Office is located and the place in which the Appellant performed her employment duties were situated on a reserve in 1995.
+[49] Although the Appellant did not live on the reserve, the other connecting factors suggest that the income received by the Appellant should be exempt from tax. The purpose of her position was to connect all members of the Band both on and off-reserve, providing information on the status of treaty negotiations and the capturing and recording of significant historical events. The monies earned by the Appellant were intimately connected to the Native way of life by maintaining historical accounts and publicizing the negotiations and status of land claims engaged in by the Band, there was a discernible nexus between the Appellant’s employment income and the reserve as her duties were in the furtherance of establishing reserve status.
+[50] Additionally, the activities of the Appellant were not connected to the “commercial mainstream”. As set out in the Appellant’s written arguments the purpose of the Band Office was to govern its own peoples and provide leadership in dealing with political issues affecting and ensuring that treaty obligations were fulfilled by the Canadian Government.
+[51] A key theme in all of the jurisprudence surrounding the situs of employment income on a reserve is that an assessment under section 87 of the Indian Act is fact specific, the result of which will be driven by each particular case’s unique facts. As stated by Archambault, T.C.J. in the Adams decision:
+I do not think that the wording of section 87 of the Act with respect to personal property which constitutes intangible property is clear and readily comprehensible. It is, in my view, objectionable that an income tax exemption should be worded in such vague terms. The interpretation of that section requires such a subjective balancing of connecting factors to determine the situs of income – first by civil servants and then by the courts – that it is bound to give rise to uneven application.[39]
+[52] Based on the foregoing, I have concluded on the unique facts of this case that the employment income received by the Appellant from the Salt River First Nation #195 and the employment income received from the Government of the Northwest Territories would be exempt from taxation by virtue of section 87 of the Indian Act.
+[53] The appeal is allowed without costs.
+Signed at Vancouver, British Columbia this 18th day of December 2007.
+“L.M. Little”
+Little J.
+CITATION:
+2007TCC757
+COURT FILE NO.:
+98-1003(IT)I
+STYLE OF CAUSE:
+Margaret McKay and
+Her Majesty the Queen
+PLACE OF HEARING:
+Fort Smith, Northwest Territories
+DATE OF HEARING:
+August 2, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+December 18, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Darcie Charlton
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcript of Proceedings Vol. 2, August 2, 2007 at pages 145 to 146.
+[2] Ibid at page 157 to 158.
+[3] Ross River Dena Council Band v. Canada, [2002] S.C.J. No. 54.
+[4] Supra note 3 at paragraph 50.
+[5] Supra note 1 at pages 188 to 189.
+[6] Supra note 3.
+[7] [2001] F.C.J. No. 951 at paragraph 24.
+[8] Nowegijick v. The Queen, [1983] 1 S.C.R. 29.
+[9] Specifically to what extent each factor is relevant in determining whether the taxation of a particular kind of property in a certain manner would erode the entitlement of an Indian qua Indian to personal property of the reserve.
+[10] Williams v. Canada, [1992] 1 S.C.R. 877.
+[11] Mitchell v. Peguis Indian Band, [1990] 2 S.C.R. 85.
+[12] Ibid.
+[13] Supra note 10.
+[14] Ibid.
+[15] Supra note 10 at paragraph 37.
+[16] Folster v. M.N.R. (sub-nom Clarke v. M.N.R., [1997] F.C.J. No. 664.
+[17] Supra note 16 at paragraph 27.
+[18] Ibid at paragraph 32.
+[19] Amos v. Canada, [1999] F.C.J. No. 873.
+[20] Supra note 19.
+[21] Recalma et al. v. The Queen, 98 DTC 6238.
+[22] Ibid.
+[23] Monias v. Canada, [2001] F.C.J. No. 1168.
+[24] Transcript of Proceedings Vol. 1, October 6, 2006 at page 11.
+[25] Supra note 1 at page 120.
+[26] Supra note 1 at page 96 to 97.
+[27] Supra note 24 at page 24 and 25.
+[28] Supra note 1 at page 160.
+[29] Supra note 7.
+[30] Amos v. Canada, [1999] F.C.J. No. 873 (C.A.).
+[31] Supra note 1 page 57 to 59.
+[32] Desnomie v. Canada, [2000] F.C.J. No. 528.
+[33] Ibid at paragraph 36 and 38.
+[34] Adams v. Canada, [1999] T.C.J. No. 793.
+[35] Ibid.
+[36] Supra note 34.
+[37] Ibid at paragraph 34.
+[38] Supra note 3
+[39] Supra note 34 at paragraph 80.

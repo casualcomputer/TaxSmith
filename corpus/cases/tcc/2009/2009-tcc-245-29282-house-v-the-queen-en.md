@@ -1,0 +1,167 @@
+---
+title: "House v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29282/index.do"
+last_modified: "2009-04-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 245"
+citation2: ""
+neutral_citation: "2009 TCC 245"
+decision_date: "2009-04-21"
+language: "en"
+item_id: "29282"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7083
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:21:51.289000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9ad25c3a9c7a2e240dd7c69dbfe39cb96a4aa2cfd43f909bfc6bfab0a5f2a114"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# House v. The Queen
+
+- Citation: 2009 TCC 245
+- Decision date: 2009-04-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7083, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+House v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-21
+Neutral citation
+2009 TCC 245
+File numbers
+2007-1803(IT)G
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1803(IT)G
+BETWEEN:
+CLYDE HOUSE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard by written submissions
+By: The Honourable Associate Chief Justice E. P. Rossiter
+Counsel for the Appellant:
+Ronald Cole
+Counsel for the Respondent:
+Martin Hickey
+____________________________________________________________________
+ORDER
+Upon motion by the Appellant for an Order setting aside the Judgment rendered orally on April 22, 2009 in St. John’s, Newfoundland;
+And upon consideration of the written submissions of the parties;
+The motion is dismissed in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 19th day of June, 2009.
+“E.P. Rossiter”
+Rossiter, A.C.J.
+Citation: 2009TCC245
+Date: 20090619
+Docket: 2007-1803(IT)G
+BETWEEN:
+CLYDE HOUSE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion made by written representations determined by
+The Honourable E. P. Rossiter, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Ronald Cole
+Counsel for the Respondent:
+Martin Hickey
+____________________________________________________________________
+REASONS FOR ORDER
+[1] On April 21 and 22, 2009 I heard an appeal of the Appellant in St. John’s, Newfoundland, which was dismissed orally on April 22, 2009, for the reasons more particularly shown in the record.
+[2] The Appellant has filed a Notice of Motion for relief pursuant to Rule 168 and 172 of the Tax Court of Canada Rules (General Procedure). In support of his motion, the Appellant provides his own Affidavit and an Affidavit of his Chartered Accountant who gave evidence at trial, Fred Cole. The grounds for the motion per the Notice of Motion are:
+The Appellant’s case was orally dismissed in whole or in part because source documents were not tendered, through error or omission, and the written reasons are not yet filed, and the Appellant wishes an opportunity to locate and to file the source documents to correct the error so a correct decision will be filed.
+Rule 172
+[3] Tax Court of Canada General Procedure Rule 172 states:
+172. (1) A judgment that,
+(a) contains an error arising from an accidental slip or omission, or
+(b) requires amendment in any matter on which the Court did not adjudicate,
+may be amended by the Court on application or of its own motion.
+(2) A party who seeks to,
+(a) have a judgment set aside or varied on the ground of fraud or of facts arising or discovered after it was made,
+(b) suspend the operation of a judgment, or
+(c) obtain other relief than that originally directed,
+may make a motion for the relief claimed.
+[4] Oral judgment was rendered on April 22, 2009, but written Judgment/Order had not been signed by the time the Notice of Motion was received by the Court. General Procedure Rule 2 defines Judgment as to include an Order. I do not believe that this is an appropriate case for the application of General Procedure Rule 172(1) for several reasons:
+1. Rule 172(1) relates to slips or omissions by the Court. The Judgment does not contain an error arising from an accidental slip or omission by the Court. There is no evidence that there was an accidental slip or omission by the Court. Only part of the reasons on which the Judgment was rendered was that there were no source documentation introduced to support the position taken by the Appellant at trial, notwithstanding that the Appellant had two opportunities to do so. In the course of discussions with the Respondent during the assessment and reassessment process, the Appellant specifically refused to produce source documentation requested and refused the Respondent access to sources for source information. Also, at trial source documents were not introduced which could have substantiated the position of the Appellant. The Appellant was represented by legal counsel, and had received advice from a chartered accountant, both of whom ought to have known that source documentation was important in assessing the issues which came before the Court in this particular appeal.
+2. It is my view that an amendment to the Judgment is not required on any matter in which the Court did not adjudicate as the Court did adjudicate on all issues presented to it at the hearing of the appeal.
+3. The oral decision was rendered on April 22, 2009 but by the time I traveled back to my office in Ottawa, and before I even signed the Judgment, that is the written Order to reflect my oral decision, I was in receipt of the Appellant’s Notice of Motion. I am not going to deal with whether or not the Appellant’s Notice of Motion is premature as I believe that even if it is premature, for the reasons given, I do not believe that this is an appropriate case for the application of General Procedure Rule 172(1).
+Rule 168
+[5] As to a request under General Procedure Rule 168 for reconsideration of a Judgment in the appeal, Rule 168 states:
+168. Where the Court has pronounced a judgment disposing of an appeal any party may within ten days after that party has knowledge of the judgment, move the Court to reconsider the terms of the judgment on the grounds only,
+(a) that the judgment does not accord with the reasons for judgment, if any, or
+(b) that some matter that should have been dealt with in the judgment has been
+overlooked or accidentally omitted.
+It is my view that the Judgment does accord with Reasons for Judgment. The Judgment is executed on even date, and reflects the fact that the appeal was dismissed orally on April 22, 2009 as the record would more full disclose. There is no matter that should have been dealt with in the Judgment which has been overlooked or accidentally omitted. All issues before the Court were disposed of by the Court. There was a failure of the Appellant to produce source documentation to substantiate his position. As stated, the Appellant had two opportunities to present documentation to support his position, one to Canada Revenue Agency upon request, and another opportunity at trial. None of the supporting source documentation were presented.
+[6] In support of this motion, the Affidavit of Clyde House was presented. In it he states in part:
+5. That I believe still may have in my possession, or be able to obtain the source documents or a copy thereof. I
+No documents were attached to his Affidavit.
+[7] The Affidavit of Fred Cole, the Chartered Accountant, was also adduced to support the motion. Attached to the Affidavit of Fred Cole were copies of three cheques, one dated May 29, 2000 for $200,000 payable to the Labrador Savings & Credit Union, another for $5,000 to the LSCU dated November 16, 2000 and a third of $100,000 payable to Investors Group dated January 18, 1999. These cheques total $305,000 but do not correspond with the viva voce evidence given at trial that $305,000 was taken from Air Northland and transferred to the LSCU, in the name of the Appellant’s spouse, and the timelines. As stated, the Judgment does accord with the Reasons for Judgment and all matters before the Court were dealt with. Nothing was overlooked or accidentally omitted by the Court.
+Rule 138
+[8] General Procedure Rule 138 provides for reopening a hearing. Rule 138 states:
+138. (1) The judge may reopen a hearing before judgment has been pronounced for such purposes and upon such terms as are just.
+(2) The judge may, at any time before judgment, draw the attention of the parties to any failure to prove some fact or document material to a party's case, or to any defect in the proceeding, and permit a party to remedy the failure or defect for such purposes and upon such terms as are just.
+[9] The Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59 (SCC) sets forth the test to be applied in consideration of reopening a trial.
+1. Would the new evidence, if presented at trial, probably have changed the result?
+2. Could the evidence have been obtained before trial through the exercise of reasonable diligence?
+[10] In consider the first question, would the new evidence, if presented at trial, probably have changed the result, we have no particulars as to what the evidence might be. We have the affidavit of the Appellant that he believes he may have in his possession or be able to obtain source documents or copies thereof but we have no particulars as to which source documents he is talking about. Also, I agree with the submission of the Respondent that there is no suggestion as to how such documents, the identity of which have not been provided, would change the result of the hearing.
+[11] The application of Rule 138 to this appeal can be dealt with by the answer to the question, could the evidence have been obtained before trial through the exercise of reasonable diligence? The documents which could have helped the Appellant in the trial certainly could have been available. The documents were within the Appellant’s own records or failing that, within the records of the financial institutions he was dealing with. The fact that his accountant was able to produce three cheques dated in 1999 and 2000, the time frame of the actions before the Court, all within five days of the oral decision of this Court, certainly indicates to me that this documentation could have been and should have been available for the trial. The Appellant was represented by legal counsel and a Chartered Accountant, both of whom represented the Appellant well before the appeal was heard and also dealt with the Respondent before the trial even started.
+[12] In oral reasons, I informed the parties that this was a case where there should have been discovery and where documents should have been produced by the Appellant. I advised the parties that the trial date was only set after they made the joint application for the trial date – it was not imposed on them by the court. A joint application by both parties for a trial date is a statement that they are ready to proceed to trial. The Appellant was not ready to proceed for trial. They proceeded to trial without discovery and without having their documents in order in a case where they knew, or should have known, that documents would be an important part of proving the facts which the Appellant has to establish in the appeal.
+[13] In my view, this is not an appropriate case for re-opening the hearing, as the Appellant has not met the conditions required under Rule 138.
+[14] The Appellant’s motion is dismissed with costs of the motion in favour of the Respondent.
+Signed at Ottawa, Canada, this 19th day of June, 2009.
+“E.P. Rossiter”
+Rossiter, A.C.J.
+CITATION: 2009TCC245
+COURT FILE NO.: 2007-1803(IT)G
+STYLE OF CAUSE: CLYDE HOUSE v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: St. John’s, Newfoundland
+DATE OF HEARING: Motion by written submissions
+REASONS FOR ORDER BY: The Honourable Associate
+Chief Justice E. P. Rossiter
+DATE OF ORDER: June 19, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Ronald A. Cole
+Counsel for the Respondent:
+Martin Hickey
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Ronald A. Cole
+Firm: Cole Law Offices
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

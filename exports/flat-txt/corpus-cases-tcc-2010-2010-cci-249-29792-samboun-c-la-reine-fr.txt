@@ -1,0 +1,138 @@
+Title: Samboun c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29792/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-249-29792-samboun-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-05-06
+
+# Samboun c. La Reine
+
+- Citation: 2010 CCI 249
+- Decision date: 2010-05-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6598, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Samboun c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-05-06
+Référence neutre
+2010 CCI 249
+Numéro de dossier
+2008-1292(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1292(IT)I
+ENTRE :
+VICHIT SAMBOUN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 9 février 2010, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu concernant les années d’imposition 2000 et 2001 sont rejetés, selon les motifs du jugement ci‑joints.
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l’année d'imposition 2002 est admis en partie et la nouvelle cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation afin de soustraire du revenu non déclaré un montant de 13 726,85 $ avec ajustements pour les intérêts et les pénalités, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 6e jour de mai 2010.
+« Réal Favreau »
+Juge Favreau
+Référence : 2010 CCI 249
+Date : 20100506
+Dossier : 2008-1292(IT)I
+ENTRE :
+VICHIT SAMBOUN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d'appels par voie de la procédure informelle, à l’encontre de nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985) ch. 1 (5e Suppl.), telle que modifiée (la « Loi ») relativement aux années d’imposition 2000, 2001 et 2002.
+[2] En vertu des nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») en date du 18 mars 2005, les sommes suivantes ont été ajoutées au revenu de l’appelant suite à une vérification par la méthode de l’avoir net :
+2000 = 24 389 $
+2001 = 12 652 $
+2002 = 32 406 $
+Une pénalité pour négligence en vertu du paragraphe 163(2) de la Loi a été ajoutée sur les montants de revenus non déclarés pour les années d’imposition 2000, 2001 et 2002, soit respectivement 3 962 $, 2 887 $ et 3 653 $.
+[3] La nouvelle cotisation pour l’année 2000 qui était en dehors de la période normale de nouvelle cotisation applicable au contribuable, a fait l’objet d'une modification le 5 février 2008 en vertu de laquelle le revenu additionnel non déclaré, antérieurement établi à 24 389 $, a été diminué de 3 230 $, soit à un montant de 21 159. Par conséquent, le revenu net familial pour l’année 2000, antérieurement établi à 41 537 $, a été révisé à un montant de 38 307 $ et la pénalité du paragraphe 163(2) de la Loi a été recalculée pour tenir compte de la diminution du revenu non déclaré pour l’année en question.
+[4] Pour fixer l’impôt payable par l’appelant pour les années d’imposition 2000, 2001 et 2002, le ministre a tenu pour acquis les faits suivants décrits au paragraphe 28 de la Réponse à l’avis d’appel :
+a) Durant les années en litige, l’appelant exploitait une entreprise dans le domaine de la couture;
+b) L’appelant effectuait des travaux de couture pour la société S & F Clothing (Canada) Ltée;
+c) L’appelant n’a pas déclaré les revenus provenant de la société S & F Clothing (Canada) Ltée pour les années d’imposition 2000, 2001 et 2002;
+d) L’appelant a quatre enfants;
+e) La conjointe de l’appelant est Buntha Horng;
+f) Dans ses déclarations de revenu pour les années d’imposition 2000, 2001 et 2002, Buntha Horng a déclaré les revenus suivants :
+2000 : 8 640 $
+2001 : 9 073 $
+2002 : 23 438 $
+g) Dans ses déclarations de revenu pour les années d’imposition 2000, 2001 et 2002, l’appelant a déclaré les revenus totaux suivants :
+2000
+2001
+2002
+- Revenus d’entreprise nets :
+9 326 $
+— $
+— $
+- Revenus d’emploi :
+— $
+17 274 $
+29 910 $
+- Pertes de location nettes :
+(686) $
+(462) $
+0 $
+- Revenus totaux :
+8 640 $
+16 812 $
+29 910 $
+[5] Selon la vérificatrice de l’Agence du revenu du Canada (l’« ARC »), la vérification des affaires de l’appelant a fait suite à une vérification de la société S & F Clothing (Canada) Ltée dans le cadre de laquelle des factures de l’appelant du mois de mai au mois de septembre 2002 ont été découvertes. Il s’agissait de factures faites pour du travail de confection à la pièce. Après avoir constaté que les montants représentés par ces factures n’avaient pas été déclarés par l’appelant dans sa déclaration de revenu pour l’année 2002, l’ARC a entrepris une vérification de l’appelant par la méthode de l’avoir net pour les années d’imposition 2000, 2001 et 2002.
+[6] L’appelant a témoigné à l’audience et il a expliqué que ces factures étaient pour du travail de couture effectué par sa conjointe à la maison. Sa conjointe était à l’emploi de S & F Clothing (Canada) Ltée au cours des années 2000, 2001 et 2002 et elle était même directrice de la production en 2002. Lors de l’entrevue initiale avec la vérificatrice, l’appelant a mentionné que l’entente avec la société S & F Clothing (Canada) Ltée était que les montants versés pour les services rendus ne devaient pas être déclarés au fisc et qu’aucun relevé T‑4 ne serait émis. À l’audience, l’appelant a expliqué que lesdites factures étaient payées par chèques faits à son nom. Selon la vérificatrice, le paiement desdites factures n’a pu être retracé dans les comptes de banque de l’appelant.
+[7] La vérificatrice de l’ARC a également noté qu’aucun revenu de location n’avait été déclaré par l’appelant en 2002 alors que de tels revenus avaient été déclarés pour les années d’imposition 2000 et 2001. Lors de son témoignage, l’appelant a reconnu avoir fait l’acquisition en 2002 d'un immeuble locatif sis au 4154 – 4156, rue Cléroux à Laval (Québec), en partenariat avec sa conjointe sur une base de 50‑50. Il a, de plus, déclaré s’en être départi en 2008 et avoir remis à son ex‑conjointe d’alors la part qui lui revenait (le couple s’étant séparé en 2007). L’appelant n’a pas expliqué pourquoi il avait omis de déclarer le revenu de location dans sa déclaration de revenu de 2002.
+[8] Dans le cadre des représentations que l’appelant a présentées suite à la réception des projets de cotisation, il a, entre autres choses, attaqué la validité des hypothèses retenues par l’ARC pour estimer le coût de vie. Exception faite des ajustements apportés concernant l’année d’imposition 2000, les représentations de l’appelant n’ont pas été retenues par l’ARC parce que les hypothèses retenues sont basées sur les informations fournies par l’appelant lui‑même et sans que des pièces justificatives ne soient produites. Ces hypothèses ont, par ailleurs, été corroborées par les relevés des cartes de crédit et les états bancaires de l’appelant. Suite aux représentations de l’appelant, l’ARC lui a présenté une offre de règlement fort alléchante mais ce dernier l'a refusé parce qu’il ne voulait pas payer de pénalités ni d’intérêts et qu’il ne voulait pas renoncer à son droit d’appel.
+[9] À l’audience, l’appelant a respectueusement soumis que deux montants devaient être soustraits des revenus additionnels pour l’année 2002 en rapport avec l’acquisition par l’appelant et sa conjointe d’une résidence sise au 812, 7e Avenue à Laval, appartenant au frère de la conjointe de l’appelant. L’état des déboursements du notaire instrumentant fait référence au fait qu’une somme de 23 750 $ a préalablement été payée au vendeur sur un prix de vente total de 95 000 $. Tel qu’indiqué par le notaire dans une note datée du 28 mai 2007, la mise de fonds de 23 750 $ n’a pas fait l’objet de quelque preuve spécifique si ce n’est que de la signature de l’état des déboursés qui en fait état. Aucune preuve documentaire (chèque, reçu ou relevé bancaire), ni aucune preuve testimoniale de la part du vendeur ou de la conjointe de l’appelant, ou d’un représentant de l’institution financière de l’appelant, n’a été soumise pour corroborer le paiement par l’appelant et sa conjointe de ladite somme de 23 750 $. Par conséquent, ce montant de 23 750 $ ne peut être soustrait des revenus non déclarés.
+[10] L’autre point soulevé par l’appelant concerne un montant de 13 726,85 $ représentant le solde du prix de vente de la résidence à l’égard duquel le frère de la conjointe de l’appelant a donné instruction au notaire instrumentant de le remettre directement à sa sœur. Un chèque daté du 16 avril 2002 au montant de 13 726,85 $ fait à l’ordre de Buntha Horng a donc été tiré du compte en fidéicommis du notaire. Le chèque en question a été endossé par la conjointe de l’appelant et déposé dans un compte de banque inconnu de l'ARC et qui n’a pas fait l’objet d’une vérification par l’ARC. L’intimée refuse de soustraire le montant de 13 726,85 $ des revenus additionnels non déclarés par l’appelant parce qu’aucune autre preuve documentaire n’a corroboré le ou la propriétaire du compte de banque dans lequel le chèque a été déposé. Même si les informations relatives au compte de banque en question n’ont pas été fournies, la Cour considère qu’il y a suffisamment d’éléments de preuve pour que ce montant de 13 726,85 $ soit soustrait des revenus additionnels non déclarés par l’appelant pour son année d’imposition 2002.
+[11] Exception faite du montant de 13 726,85 $ considéré au paragraphe précédent, l’appelant n’a pas expliqué l’écart substantiel entre ses actifs et ses dépenses, tel qu’établi par l’avoir net de l’ARC. Même si certaines faiblesses ou erreurs concernant certaines composantes de l’avoir net ont été notées à l’audience, ces faiblesses ou erreurs ne permettent pas de discréditer le bien‑fondé de l’exercice. Les faiblesses ou erreurs notées concernent principalement deux cartes de crédit de l’appelant dont l’ARC n’a pas tenu compte malgré le fait que les relevés de compte de ces cartes de crédit ont été obtenus par l’ARC, de même que certains comptes bancaires, dont celui dans lequel le chèque de 13 726,85 $ a été déposé, à l’égard desquels l’ARC n’a obtenu aucune information.
+[12] Il m’apparaît important de rappeler que la méthode de l’avoir net repose essentiellement sur un ensemble de composantes fournies en partie par le contribuable lui‑même, par l’examen des documents et des pièces justificatives, par des données statistiques et par des déductions mathématiques. Pour discréditer totalement le bien‑fondé d’un avoir net, le contribuable doit fournir des éléments de preuve permettant d’identifier la source et d’établir la nature non imposable des revenus non déclarés.
+[13] La justification des écarts constatés par l’application de la méthode de l’avoir net repose entièrement sur l’appelant qui doit, au moyen d’une preuve prépondérante, établir la vraisemblance, la raisonnabilité, la justesse et la cohérence de ses prétentions. Dans le cas présent, l'appelant n’a pas rencontré son fardeau de la preuve.
+[14] L’appelant n’a pas déclaré les revenus provenant de S & F Clothing (Canada) Ltée pour les années d’imposition 2000, 2001 et 2002 et n’a pas déclaré les revenus de location pour l’année d’imposition 2002.
+[15] Par conséquent, le ministre était justifié d’établir, en conformité avec le paragraphe 152(4) de la Loi, de nouvelles cotisations pour l’année d’imposition 2000 après la période normale de nouvelle cotisation puisque l’appelant a fait une présentation erronée des faits par inattention, négligence ou omission volontaire (ou a commis une fraude) en produisant sa déclaration de revenu ou en fournissant des renseignements pour cette année d’imposition.
+[16] La ministre a de plus correctement établi le crédit pour la taxe sur les produits et services à l’égard de l’appelant pour l’année d’imposition 2000 en vertu de l’article 122.5 de la Loi, lequel est calculé en fonction du revenu net familial.
+[17] Compte tenu des faits ci-dessus, la Cour est d’avis que les pénalités imposées à l’appelant pour les années d'imposition 2000, 2001 et 2002 étaient appropriées et en conformité avec le paragraphe 163(2) de la Loi puisque l’appelant a sciemment fait ou dans des circonstances équivalant à faute lourde, un faux énoncé ou une omission lors de la production de ses déclarations de revenus en n’ajoutant pas à ses revenus des montants substantiels pour chacune des années d’imposition 2000, 2001 et 2002.
+[18] Pour ces motifs, les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu concernant les années d’imposition 2000 et 2001 sont rejetés et l’appel de la nouvelle cotisation établie pour l’année d'imposition 2002 est admis en partie et la nouvelle cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation afin de soustraire du revenu non déclaré un montant de 13 726,85 $ avec ajustements pour les intérêts et les pénalités.
+Signé à Ottawa, Canada, ce 6e jour de mai 2010.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2010 CCI 249
+Nº DU DOSSIER DE LA COUR : 2008-1292(IT)I
+INTITULÉ DE LA CAUSE : Vichit Samboun et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 9 février 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 6 mai 2010
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

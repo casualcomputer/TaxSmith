@@ -1,0 +1,130 @@
+Title: Desbiens c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26775/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-575-26775-desbiens-c-m-r-n-en.md
+Document type: case_law
+Last modified: 2005-09-06
+
+# Desbiens c. M.R.N.
+
+- Citation: 2005 TCC 575
+- Decision date: 2005-09-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3520, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desbiens c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-06
+Neutral citation
+2005 TCC 575
+File numbers
+2005-1239(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-1239(EI)
+BETWEEN:
+JEAN-NOËL DESBIENS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 19, 2005, at Chicoutimi, Quebec.
+Before: The Honourable Judge Alain Tardif
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Me Martin Gentile
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is allowed in that the work performed during the periods from July 9 to November 30, 2001, and from June 10 to June 29, 2002, is considered insurable, and the decision of the Minister of National Revenue is vacated, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of September 2005.
+"Alain Tardif" »
+Judge Tardif
+Translation certified true
+on this 14th day of October 2005.
+Leslie Harrar, Translator
+Citation: 2005CCI575
+Date: 20050906
+Docket: 2005-1239(EI)
+BETWEEN:
+JEAN-NOËL DESBIENS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Judge Tardif
+[1] This is an appeal from a decision by the Minister of National Revenue (the "Minister") dated March 3, 2005. According to the Minister, the work performed by the appellant from July 9 to November 30, 2001, and from June 10 to June 28, 2002, was done under a contract for services and not under a contract of service.
+[2] The respondent relied on the following assumptions of fact in making his decision:
+(a) the payor, incorporated in 1945, operates a forestry company; [disregarded]
+(b) the payor's activities essentially involve timber harvesting and forestry operations; [admitted]
+(c) the payor does not own any forestry machinery; he leases the machinery and hires about a hundred workers; [admitted]
+(d) in 2001, the payor was looking for a worker with his own skidder to work in mountainous terrain; [admitted]
+(e) contrary to his usual custom, the payor could not pay the worker on the basis of the volume of wood cut or on a flat rate because of the rugged nature of the terrain to be covered; [admitted]
+(f) the payor hired the appellant, the appellant's son and the skidder under a verbal agreement; [admitted]
+(g) the main condition under which the appellant was hired was that he had to provide his own skidder; [admitted]
+(h) during the periods at issue, the appellant provided his skidder, which was worth about $15,000, and had to pay all the operating expenses; [admitted]
+(i) the appellant had liability insurance for his skidder; [admitted]
+(j) the appellant did the cutting with his power saw while his son, Alexandre, removed the wood with the help of the skidder; [admitted]
+(k) the appellant's worksite was about 2½ or 3 hours from his residence and during the work week he and his son stayed at the Boisaco camp in Sacré-Coeur where he paid room and board; [admitted]
+(l) during the periods at issue, the appellant generally worked 45 hours a week (five consecutive nine-hour days); [admitted]
+(m) the payor had a foreman at the site to tell the appellant where to cut the wood and to ensure that the safety standards applicable to all forestry work were met; [admitted]
+(n) during the periods at issue and in accordance with the parties' verbal agreement, the appellant received a fixed remuneration of $780 per week and the payor paid him an amount of $1,200 per week for the lease of his skidder; [admitted]
+(o) the remuneration paid to the appellant was directly related to the hours of operation of his skidder; [admitted]
+(p) if the appellant's skidder broke down, the appellant was unable to provide any services and did not receive any remuneration from the payor; [admitted]
+(q) in 2002, the appellant ceased to offer his services and the use of the skidder to the payer so that he could accept another contract somewhere else; [denied]
+(r) during the periods at issue, the appellant provided services to the payor under a contract for services and not under a contract of employment. [denied]
+[3] Only the appellant testified. The respondent did not ask those responsible for analysing the case to testify.
+[4] Asked to express his reaction to the assumptions of fact relied upon to explain and justify the decision that gave rise to this appeal, the appellant did not take paragraph (a) into account, admitted paragraphs (b) to (p) and denied paragraphs (q) and (r).
+[5] After admitting certain facts that were clearly prejudicial to his case involving the nature of the contract of employment, the appellant explained that he did perform the work in question as an employee. He also acknowledged that the cooperative had hired him because he owned a skidder, a rather surprising admission in view of his claims.
+[6] He explained that the work was very specialized. It consisted of using his chain saw to cut trees that were hard to get to because they were located on mountainous or swampy terrain. These trees could not be felled by a mechanical feller because of the nature of the terrain.
+[7] In view of the working conditions, it had been agreed that he would be paid by the week since the usual method of remuneration, i.e., based on the volume of wood cut, could not be used since it would not have allowed him to receive a reasonable or appropriate remuneration.
+[8] A foreman representing the cooperative visited the site two or three times a day where the appellant was working with his son to tell them which trees had to be cut down.
+[9] Apart from this work, the appellant had to perform all kinds of jobs where he did not have to use his skidder. They involved repairing some roads and culverts and doing other work as part of the general activities of the forestry cooperative.
+[10] Contrary to the respondent's allegations, the appellant did not end his employment on his own initiative but was laid off when the site closed.
+[11] The facts related by the appellant show that this work differed from the work usually performed on this type of job, for the following reasons:
+· The quantity of wood cut and transported had absolutely nothing to do with the way the remuneration was calculated;
+· The work performed by the appellant was not exclusively related to the use of the skidder that he owned and had leased to the cooperative; and
+· A portion of the trees that were moved by the skidder driven by his son had been cut down by other teams whose remuneration was probably consistent with the usual standards, i.e., it was based on the volume of wood cut.
+[12] The appellant provided numerous, concrete examples of the work he had done in accordance with the directives of the coop representative, without using his skidder. The appellant's case is sui generis and thus the classic precedents in this area do not apply.
+[13] In the case before us, the work that was performed with the skidder cannot reasonably be separated from the work that the appellant accomplished under the orders of the forestry cooperative representative.
+[14] On the other hand, the value of the skidder ($15,000) was not very great and was even comparable to the value of the tools used by a well-equipped woodcutter. Since the facts of this case occurred in a crisis area, I find in the appellant's favour.
+[15] For all these reasons, it is reasonable to conclude that the appellant has discharged his burden of proof by showing that he had performed the work in question under a genuine contract of service. Consequently, the Minister's decision is vacated. I therefore find that the work performed by the appellant during the periods from July 9 to November 30, 2001, and from June 10 to June 28, 2002, constituted a genuine contract of service.
+Signed at Ottawa, Canada, this 6th day of September 2005.
+"Alain Tardif"
+Judge Tardif
+Translation certified true
+on this 14th day of October 2005.
+Leslie Harrar, Translator
+CITATION: 2005CCI575
+COURT FILE NO.: 2005-1239(EI)
+STYLE OF CAUSE: JEAN-NOËL DESBIENS and M.N.R.
+PLACE OF HEARING: Chicoutimi, Quebec
+DATE OF HEARING: August 19, 2005
+REASONS FOR JUDGMENT BY: The Honourable Judge Alain Tardif
+DATE OF JUDGMENT: September 6, 2005
+APPEARANCES:
+For the Appellant
+The Appellant himself
+Counsel for the Respondent:
+Me Martin Gentile
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+City:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

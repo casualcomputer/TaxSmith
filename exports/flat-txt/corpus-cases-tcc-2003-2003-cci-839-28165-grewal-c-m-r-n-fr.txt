@@ -1,0 +1,33 @@
+Title: Grewal c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28165/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-839-28165-grewal-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-11-12
+
+# Grewal c. M.R.N.
+
+- Citation: 2003 CCI 839
+- Decision date: 2003-11-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2011, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grewal c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-12
+Référence neutre
+2003 CCI 839
+Numéro de dossier
+2002-4307(EI)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Le JavaScript de votre fureteur est désactivé. Veuillez télécharger le PDF via l'icône PDF.

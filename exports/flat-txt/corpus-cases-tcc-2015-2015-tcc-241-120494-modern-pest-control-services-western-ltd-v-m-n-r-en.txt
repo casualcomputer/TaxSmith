@@ -1,0 +1,288 @@
+Title: Modern Pest Control Services Western Ltd. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/120494/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-241-120494-modern-pest-control-services-western-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2015-10-13
+
+# Modern Pest Control Services Western Ltd. v. M.N.R.
+
+- Citation: 2015 TCC 241
+- Decision date: 2015-10-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2721, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Modern Pest Control Services Western Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-10-13
+Neutral citation
+2015 TCC 241
+File numbers
+2014-3973(EI)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2014-3973(EI)
+BETWEEN:
+MODERN PEST CONTROL SERVICES WESTERN LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on September 18, 2015, at Edmonton, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Chad J. Brown
+Counsel for the Respondent:
+E. Ian Wiebe
+JUDGMENT
+The Appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the assessment is referred back to the Minister of National Revenue on the basis the worker, Mr. Jonathan Flynn, was in insurable employment.
+Signed at Ottawa, Canada, this 13th day of October 2015.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2015 TCC 241
+Date: 20151013
+Docket: 2014-3973(EI)
+BETWEEN:
+MODERN PEST CONTROL SERVICES WESTERN LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] As its name implies, Modern Pest Control Services Western Ltd. (“Modern Pest Control”) was in the pest control business, operating in the western part of Newfoundland. It was a small company operated, but not owned, by Mr. Todd Flynn. The company was owned by Mr. Flynn’s uncle, Mr. Don Carter and Mr. Carter’s wife. Modern Pest Control hired Mr. Jonathan Flynn, Todd Flynn’s brother, who worked during the period in question from November 2012 to December 2013. The issue is whether Mr. Jonathan Flynn was in insurable or excluded employment for that period under the provisions of the Employment Insurance Act (the “Act”).
+[2] It is helpful at the outset to set out the legislative provisions before going through the facts:
+Employment Insurance Act 5.(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+(b) employment in Canada as described in paragraph (a) by Her Majesty in right of Canada;
+(c) service in the Canadian Forces or in a police force;
+(d) employment included by regulations made under subsection (4) or (5); and
+(e) employment in Canada of an individual as the sponsor or co‑ordinator of an employment benefits project.
+(2) Insurable employment does not include
+…
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm’s length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+Income Tax Act 251.(1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm’s length;
+(b) a taxpayer and a personal trust (other than a trust described in any of paragraphs (a) to (e.1) of the definition “trust” in subsection 108(1)) are deemed not to deal with each other at arm’s length if the taxpayer, or any person not dealing at arm’s length with the taxpayer, would be beneficially interested in the trust if subsection 248(25) were read without reference to subclauses 248(25)(b)(iii)(A)(II) to (IV); and
+(c) in any other case, it is a question of fact whether persons not related to each other are, at a particular time, dealing with each other at arm’s length.
+(2) For the purpose of this Act, “related persons”, or persons related to each other, are
+(a) individuals connected by blood relationship, marriage or common-law partnership or adoption;
+(b) a corporation and
+(i) a person who controls the corporation, if it is controlled by one person,
+(ii) a person who is a member of a related group that controls the corporation, or
+(iii) any person related to a person described in subparagraph 251(2)(b)(i) or 251(2)(b)(ii); and
+…
+(6) For the purposes of this Act, persons are connected by
+(a) blood relationship if one is the child or other descendant of the other or one is the brother or sister of the other;
+(b) marriage if one is married to the other or to a person who is so connected by blood relationship to the other;
+(b.1) common-law partnership if one is in a common-law partnership with the other or with a person who is connected by blood relationship to the other; and
+(c) adoption if one has been adopted, either legally or in fact, as the child of the other or as the child of a person who is so connected by blood relationship (otherwise than as a brother or sister) to the other.
+[3] It appears that if the employer/employee are “related” they can avail themselves of subparagraph 5(3)(b) of the Act to escape the exclusions in subsection 5(2) of the Act, and consequently qualify for insurable employment by meeting, what I will call, the substantially similar contract test. Yet, if the employer and employee are found factually not to be dealing at arm’s length, then subparagraph 5(3)(b) of the Act does not come into play and such an excluded employee cannot benefit from showing he or she can meet the substantially similar contract test. As Justice Hershfield stated in Quigley Electric Ltd. v Minister of National Revenue:[1]
+29. That is, where parties are not related but do not deal at arm's length as a matter of fact, their relationship as employee/employer is not insurable. The Act seems to assume that if the parties are not dealing at arm's length under the ITA at the time the employment arrangement is being examined, then the terms of the employment cannot be arm's length terms which obviates the need to require the Minister's consideration. This leads to the unfair result that related persons stand to be re-instated to the employment insurance scheme where unrelated persons may not. 12 That is the case at least if it is the relationship between the parties that is subject to examination rather than the contract of employment.
+30. This anomaly which results from focusing on the relationship of the parties as a whole as opposed to focusing on the employment relationship as a whole is further compounded when it is recognized that the non-arm's length relationship test under paragraph 251(1)( b ) of the ITA is likely more stringent than the relieving test in paragraph 5(3)(b) of the Act . …
+[4] The Parties agree that Mr. Jonathan Flynn and Modern Pest Control are not related as Modern Pest Control is owned by Mr. Jonathan Flynn’s uncle, but the Respondent maintains that Mr. Jonathan Flynn and Modern Pest Control are factually not dealing at arm’s length. That is the issue: if I find Modern Pest Control and Mr. Jonathan Flynn do not deal at arm’s length then Mr. Jonathan Flynn is excluded from insurable employment by subsection 5(2) of the Act.
+[5] I will now turn to the facts and follow the approach of Modern Pest Control’s counsel by going through the Minister of National Revenue’s (the “Minister”) assumptions in her Reply indicating where Mr. Todd Flynn, the sole witness, disagrees with an assumption or has an explanation for it.
+a) the Appellant’s business activity was the provision of pest control services to residential and commercial customers;
+b) the Appellant incorporated on April 12, 1994; In fact, Modern Pest Control was incorporated in 1984.
+c) the Appellant operated its business in Newfoundland and Labrador;
+d) Don Carter (“Don”) operated the Appellant’s business until 2011, then he transferred the business to Todd Flynn (“Todd”); In fact, Don Carter and his wife remained 100% owners of Modern Pest Control and Mr. Todd Flynn simply operated the day-to-day running, albeit from afar.
+e) during the Period:
+i. Todd was the sole shareholder of the Appellant’s voting shares; and
+ii. Todd was the sole director of the Appellant;
+Todd Flynn was not a shareholder of Modern Pest Control.
+f) Todd resided in the province of Nova Scotia;
+g) Todd and the Worker were brothers;
+h) Don was the uncle of Todd and the Worker;
+i) the Appellant’s hours of operation varied and depended on contracts obtained and the clients’ needs;
+j) the Appellant’s business operated year round;
+k) the Appellant’s busy season was from May to October;
+l) the Appellant’s quarterly sales during the Period, as reported on its HST returns, were as follows:
+Quarter ending
+Sales
+December 2012
+$36,041
+March 2013
+$38,129
+June 2013
+$67,815
+September 2013
+$72,637
+December 2013
+$46,944
+March 2014
+$33,868
+m) the Appellant hired the Worker as a Sales and Services Technician and Operations Manager; Mr. Todd Flynn testified that Modern Pest Control was a very small company and the Worker, Mr. Jonathan Flynn, had several roles. There were only two employees, Mr. Jonathan Flynn and Mr. Dwayne Lilly, both hired under verbal agreements. Mr. Jonathan Flynn trained Mr. Lilly on the technical side of pest control.
+n) the Worker resided in the province of Newfoundland and Labrador;
+o) the Appellant hired the Worker in 2011;
+p) the Worker performed his duties throughout Newfoundland and Labrador;
+q) the Worker performed his duties under a verbal agreement;
+r) the Worker and the Appellant intended for the relationship to be one of employer and employee, and agreed that the Worker was an employee of the Appellant;
+s) the Worker collected Employment Insurance benefits in the years 2012 and 2013;
+t) the Worker had seven years’ experience in the pest control industry;
+u) the Worker had certification in pest control;
+v) the Worker’s duties were as follows:
+i. handled day to day operations of the Appellant’s business;
+ii. arranged service calls;
+iii. assigned work orders and service tickets;
+iv. ordered chemicals and supplies;
+v. performed repairs and maintenance on the Appellant’s service vehicles;
+vi. picked up mail;
+vii. made bank deposits;
+viii. provided service to the Appellant’s clients; and
+ix. collected overdue accounts;
+w) Don assisted with pest control services during the Period, when needed by the Worker;
+x) Dwayne was hired on April 30, 2012 as a Pest Control Service Technician;
+y) Dwayne was not related to the Appellant;
+z) Dwayne did not have prior experience in pest control;
+aa) Dwayne’s duties involved pest control services;
+bb) Dwayne occasionally performed maintenance on the service vehicles;
+cc) the Appellant provided any required training to the Worker and Dwayne; No, the Worker was already trained and he trained Dwayne.
+dd) the Worker supervised Dwayne;
+ee) the Appellant provided all tools and equipment required by the Worker and Dwayne to perform their duties, such as the service vehicles and the chemicals;
+ff) the Appellant advertised its business phone number as (709) 632‑9554, which is the same as the Worker’s phone number; Mr. Todd Flynn testified that Modern Pest Control’s business phone number was not Mr. Jonathan Flynn’s number.
+gg) the Worker could not hire a substitute or helper;
+hh) the Worker and Dwayne each worked 40 hours or more per week during the busy season;
+ii) during the winter season:
+i. the Appellant laid off the Worker and Dwayne;
+ii. the Worker was on call during the winter season;
+iii. the Worker worked about ten days per month during the winter, to handle ongoing contracts; and
+iv. Dwayne only worked during the winter if the Worker needed assistance;
+jj) the Worker did not require permission from the Appellant to take time off, unless it was for an extended period; This only pertained to the non-busy or winter season.
+kk) the Worker and Dwayne recorded their own hours of work;
+ll) both the Worker and Dwayne separately informed the Appellant by text message of their own hours of work; Mr. Todd Flynn testified that Mr. Jonathan Flynn would record both his and Mr. Lilly’s hours throughout the year as Mr. Lilly was not computer savvy.
+mm) Dwayne informed the Appellant of his hours of work on a timely basis;
+nn) the Worker did not inform the Appellant of his hours of work on a timely basis; According to Mr. Todd Flynn this only pertained to the non-busy season when hours were erratic and Mr. Jonathan Flynn would let them accumulate.
+oo) the Worker’s pay rate was $15 per hour from January 1, 2013 to June 9, 2013, as outlined in Appendix B;
+pp) the Worker’s pay rate was generally $21 per hour from June 15, 2013 to December 2013, as outlined in Appendix B;
+qq) Dwayne’s pay rate was $21 per hour as outlined in Appendix C;
+rr) the Appellant determined the pay rates of the Worker and Dwayne;
+ss) the Worker offered to be paid the lesser rate of pay during the winter season; As Mr. Todd Flynn explained, his brother received sales bonuses as part of his compensation and the lower winter rate was to reflect an overall compensation equivalent to what Mr. Jonathan Flynn received from a previous unrelated employer.
+tt) the Appellant gave the Worker and Dwayne a pay raise of $1 per hour during the Period;
+uu) the Appellant paid both the Worker and Dwayne for overtime hours, at their regular pay rates;
+vv) according to the Government of Canada’s job bank survey:
+i. the hourly wages of pest controllers in Canada in 2011 ranged from $12.00 to $29.76 per hour (an average of $19.75 per hour); and
+ii. the hourly wages of service managers in Canada in 2012 ranged from $13.13 to $43.27 per hour (an average of $21.94 per hour);
+ww) the Appellant paid the Worker by electronic transfer or by cheque;
+xx) the Appellant generally paid Dwayne by cheque;
+yy) the Appellant paid the Worker on an irregular basis from January 2013 to June 2013, as noted in Appendix A; Mr. Todd Flynn testified this was due to the low season requiring less hours so that Mr. Jonathan Flynn would accumulate hours before making it worthwhile to seek compensation.
+zz) the Appellant paid the Worker generally on a biweekly basis from July 2013 to December 2013, as noted in Appendix A;
+aaa) the Appellant paid Dwayne on a biweekly basis as noted in Appendix A;
+bbb) the Worker and Dwayne received vacation pay at a rate of 4%;
+ccc) the Appellant paid the Worker two commission bonuses of $2,600 each, on June 20, 2013 and July 15, 2013, based on sales levels;
+ddd) the Appellant paid the Worker’s spouse a bonus of $2,000 on December 16, 2013, for completing weekly deposits and miscellaneous tasks during 2013; Mr. Todd Flynn explained that because he was not in Newfoundland and attempting to operate from afar, and given Mr. Jonathan Flynn’s strength was not organizing paper, Mr. Jonathan Flynn’s wife attended to these matters and was paid accordingly.
+eee) the Appellant paid Dwayne a Christmas bonus of $1,000 on December 23, 2013;
+fff) the Appellant paid the Worker total wages of $32,479.70 in 2013;
+ggg) the Appellant paid Dwayne total wages of $35,934.05 in 2013;
+hhh) the Appellant did not offer medical or dental benefits to any worker;
+iii) the Worker and Dwayne used the Appellant’s service vehicles for personal use;
+jjj) the service vehicles were marked with the Appellant’s business logo;
+kkk) the Appellant considered the workers’ use of the vehicles as advertising;
+lll) during the winter season, the Worker stored the service vehicles at his home, at Don’s home or at the Worker’s parents’ home; Mr. Todd Flynn’s view was it was more likely the vehicles were at Mr. Don Carter’s home as that is where the product involved in the business was kept.
+mmm) the Worker did not charge the Appellant a fee to store the vehicles;
+nnn) the Worker did not make any investments in the Appellant’s business;
+ooo) the Worker did not sign any loans on behalf of the Appellant;
+ppp) the Worker had signing authority on the Appellant’s business bank account; Mr. Todd Flynn explained that he required an employee in Newfoundland to have signing authority as he, Todd Flynn, was out of the province and needed someone local to sign for the business.
+qqq) the Worker signed cheques issued by the Appellant during the Period;
+rrr) the Worker paid for chemical supplies for the business using his personal credit card, in order to accumulate travel points; Mr. Todd Flynn acknowledged that Mr. Jonathan Flynn used his credit card for company purchases, again, as Mr. Todd Flynn was not on site. It was something Mr. Jonathan Flynn requested so that he could accumulate travel points. Mr. Todd Flynn testified that Mr. Lilly had the same opportunity though did not take advantage of it. A draw account was set up in Mr. Jonathan Flynn’s name to handle credit card purchases.
+sss) the Worker typically purchased chemical supplies for the Appellant’s business every 90-120 days;
+ttt) the cost of the chemicals ranged from approximately $2000 to $5,000;
+uuu) the Worker was required to submit to the Appellant each month, all receipts for purchases made in respect of the Appellant’s business;
+vvv) during the Period, the Appellant reimbursed the Worker by way of lump sum payments in amounts ranging from $3,000 to $8,000;
+www) the Worker rounded the reimbursement cheques to the nearest thousand;
+xxx) the lump sum payments made by the Appellant to the Worker during the Period totalled $84,000; Mr. Todd Flynn explained that a good portion of this related to a building renovation project which he and his brother acquired for purpose of reselling at a profit. He and his brother were advised not to do the project through the company, but to do it personally. Any funds loaned by the company were fully repaid though no interest was charged.
+yyy) the Appellant maintained a “drawings” account for the Worker, to reconcile amounts charged to the Worker’s credit card and reimbursement cheques from the Appellant which were signed by the Worker;
+zzz) the Appellant reported, on its corporate return for the year 2012:
+i. gross revenue of about $230,000;
+ii. total expenses of about $192,000;
+iii. supplies expenses of about $38,000; and
+iv. salaries expenses of about $108,000;
+aaaa) the Appellant paid Don the gross amount of $384.61 per week during the Period;
+bbbb) the total of the gross weekly payments made by the Appellant to Don in each year 2012 and 2013 was $19,999;
+cccc) the Appellant paid Don’s wife, Elaine Carter (“Elaine”), the gross amount of $384.61 per week during the Period;
+dddd) the total gross weekly payments made by the Appellant to Elaine in each year 2012 and 2013 was $20,000;
+eeee) the Appellant generally paid Don and Elaine via online payments;
+ffff) Don performed services for the Appellant during the summer on a part-time basis;
+gggg) Don performed services for the Appellant for approximately one month; and
+hhhh) The Appellant issued two cheques to Don in the summer, in addition to the regular payments of $384.61.
+[emphasis added]
+[6] Respondent’s counsel went over Mr. Jonathan Flynn’s internal account with Modern Pest Control in greater detail pointing out that all debits and credits did not always exactly match. For example, there was a significant $31,827 payment which Mr. Todd Flynn explained was a repayment in connection with the personal housing renovation project which he and his brother worked on. The funds borrowed from Modern Pest Control were on a handshake with no requirement there be any interest. The brothers eventually sold the property and made a few thousand dollars each.
+[7] As raised at the outset the issue in this Appeal is whether Mr. Jonathan Flynn dealt with Modern Pest Control at arm’s length. If not, then Mr. Jonathan Flynn is in excluded employment and not in insurable employment. The arm’s length relationship is to be determined based on the facts, as stipulated in section 251 of the Income Tax Act (the “ITA”).
+[8] Counsel for Modern Pest Control suggested that the test for determining whether, factually, Modern Pest Control and Mr. Jonathan Flynn were not dealing at arm’s length must be addressed in the context of the employment relationship, and goes on to argue that the best barometer in that regard is to compare that relationship with what is clearly an arm’s length relationship, in this case, the relationship between Modern Pest Control and Mr. Lilly.
+[9] The Respondent, on the other hand, turns to guidance from Justice Webb’s comments in 5119235 Manitoba Inc. v M.N.R.[2] where he relies on the Federal Court of Appeal cases as follows:
+4. For the purposes of the EI Act, insurable employment does not include employment if the employer and employee are not dealing with each other at arm’s length. It is the position of the Appellant that Christine Sawler was not engaged by the Appellant in insurable employment as the Appellant and Christine Sawler were not dealing with each other at arm’s length.
+5. In The Queen v. Remai Estate, 2009 FCA 340, 2009 DTC 5188 (Eng.), [2010] 2 C.T.C. 120, Justice Evans, writing on behalf of the Federal Court of Appeal, made the following comments:
+31 The Judge applied the analytical framework adopted in Peter Cundill & Associates Ltd. v. R., [1991] 1 C.T.C. 197 (Fed. T.D.), aff'd. [1991] 2 C.T.C. 221 (Fed. C.A.) (“Peter Cundill”), and applied in McLarty at para. 64 and following, in order to determine if Sweet and Frank were dealing at arm's length when the Foundation sold the notes to Sweet in exchange for Sweet's note of the same value and bearing the same rate of interest.
+32 Peter Cundill requires a court to consider if: (i) there was a common mind directing the bargaining for both parties; (ii) they were acting in concert without separate interests; and (iii) one party exercised de facto control over the other. As with any multi-factor legal test, not all need be satisfied in every case. Some may assume particular importance in some circumstances, and others less. Nor are the listed factors necessarily exhaustive.
+33 The Crown concedes that Peter Cundill is the proper legal test, but argues that the Judge erred in law by failing to ask whether “the terms of the transactions ... reflect ordinary commercial dealings between ... [parties] acting in their own interests” (per Sharlow J.A. in Petro-Canada v. R., 2004 FCA 158, 2004 D.T.C. 6329 (F.C.A.) at para. 55).
+34 In my opinion, this is not an error of law, because whether the terms of a transaction reflect “ordinary commercial dealings between parties acting in their own interests” is not a separate requirement of the legal tests for determining if a transaction is at arm's length. Rather, the phrase is a helpful definition of an arm's length transaction which it is the purpose of the components of the Peter Cundill analytical framework to identify. It may also enable a judge to reflect on the soundness of the conclusion to which an application of the individual Peter Cundill factors has led.
+[10] Yet, Justice Webb does turn to the employment relationship in paragraph 10 of his decision and compares it with arm’s length employees while addressing the factor of whether or not the employer/employee were acting in concert without separate interests:
+10. That other employees, who were unquestionably dealing at arm’s length with the Appellant, were paid time and a half for overtime while Christine Sawler worked overtime as much as 60 to 70 percent of the time for her standard hourly rate, seems to me to lead to a conclusion that it is more likely than not that Christine Sawler and the Appellant were acting in concert without separate interests. The fact that Christine Sawler worked such a significant amount of overtime and never raised the issue of her pay for such overtime work when other employees were being paid time and a half for overtime also indicates that Christine Sawler and the Appellant were acting in concert without separate interests. It seems to me that if Christine Sawler and the Appellant would have had separate interests then Christine Sawler would have raised this issue since as much as 60 to 70 percent of the time that she was working she was working overtime.
+[11] Justice Hershfield broached the same subject in the case cited earlier, Quigley Electric, and concluded as follows:
+31. I suggest then that to rigidly apply income tax principles (such as identifying adverse economic interests) in determining when parties are not, for the purposes of the Act , dealing at arm's length, is to apply an analysis that runs contrary to common sense. To avoid this problem it seems necessary, for the purposes of the Act , to read into the common law determination of whether parties are dealing at arm's length, a determination of whether, having regard to all circumstances of employment including duration, nature and importance of work performed, remuneration and other terms and conditions attaching to such employment, the employment is on terms substantially similar terms to those that would be entered into by arm's length parties. This is the standard of arm's length dealings taken directly from the Act albeit in the context of related persons. I suggest that the same standard is meant to apply in the context of unrelated persons. The emphasis should be on the employment relationship as a whole, not on the relationship of the parties as a whole.
+32. While a strict reading of the Act may not at first suggest this emphasis in respect of factual determinations of non-arm's length relationships, it is consistent with both a common sense approach to applying the subject provisions and to cases that have found employees to have insurable employment where their employment contracts were substantially similar to arm's length contracts regardless that the relationship of the parties may not have been arm's length on a factual determination of arm's length under income tax principles.
+[12] The difficulty with examining the common economic interest test vis-à-vis employment is that one might expect an employee and employer, for the most part, to be pulling in the same direction. Further, with respect to the question of one party exercising de facto control over another, again, in the employment context, there is a master-servant relationship and certainly a contract of service in which one would expect control by employer over employee. These are not particularly helpful factors in considering non-arm’s length dealings in the employment relationship. So, I agree with Justice Hershfield’s approach, which counters the anomalous effect of the subsection 5(1) and subparagraph 5(3)(b) of the Act interactions, and addresses the three prong test cited by Justice Webb in the context of an employment relationship. So:
+i. was there a common mind directing the employment bargaining between Modern Pest Control and Mr. Jonathan Flynn;
+ii. did Modern Pest Control and Mr. Jonathan Flynn act in concert without separate interests vis-à-vis the employment relationship; or
+iii. with respect to control, one would expect Modern Pest Control in an employment relationship to exercise control over the employee. Did its dealings with Mr. Jonathan Flynn reflect that?
+[13] I agree with Modern Pest Control’s counsel that there is no better barometer in addressing these issues than to compare Mr. Jonathan Flynn’s working arrangement with that of Mr. Lilly, the latter being a relationship which everyone agreed was at arm’s length. The similarities between Mr. Lilly’s working arrangement and Mr. Jonathan Flynn’s are as follows:
+i. They work similar hours in the busy season.
+ii. They both were paid every two weeks in the busy season.
+iii. Both were paid the industry standard.
+iv. Both were hired pursuant to verbal agreement.
+v. Both had the opportunity to take advantage of credit card purchases, though only Mr. Jonathan Flynn did. This is not surprising as Mr. Lilly was strictly a technician working on pest control, while Mr. Jonathan Flynn handled that work as well as sales and effectively served as Mr. Todd Flynn’s on-site manager and would therefore have greater opportunity for the acquisition of supplies by the use of credit card.
+vi. Both had access to Modern Pest Control’s service vehicles and both could use them personally.
+[14] The differences between Mr. Lilly’s and Mr. Jonathan Flynn’s working arrangements are as follows:
+i. Mr. Jonathan Flynn worked more than Mr. Lilly in the winter low season averaging approximately 10 days per month while Mr. Lilly was called only on an as-needed basis for the technical work. Mr. Jonathan Flynn was paid during this time only when he accumulated sufficient hours to warrant it. While he was paid less per hour this was due to taking into account the sales bonuses with a view to ensuring his overall remuneration was roughly equivalent to what he previously got from a third party employer. While the low season work arrangements were different between the two employees, it has been readily explained. Does Mr. Jonathan Flynn’s arrangement in the low season suggest however that between him and Modern Pest Control there was a common mind directing the arrangement? No, I view it more as a negotiation between employer/employee to maintain the employee’s availability in the low season by assuring compensation roughly equivalent to that received from a third party. I see neither side exerting control over the other out of the norm in an employer/employee relationship.
+ii. Mr. Jonathan Flynn had signing authority: Mr. Lilly did not. Mr. Jonathan Flynn was Modern Pest Control’s on-site supervising employee. Mr. Todd Flynn, who was supposedly operating the business for the Carters, was out of province. It would be impractical not to have someone in Newfoundland with authority to deal with supply purchases. There were only a couple of employees. Mr. Lilly was limited to the technical pest control services. It fell to Mr. Jonathan Flynn to therefore fill this on-site role. This was to Modern Pest Control’s benefit. I see nothing extraordinary suggesting a non-arm’s length relationship, but simply a workable solution to an absentee manager.
+iii. Mr. Jonathan Flynn had an account at Modern Pest Control through which monies in and out of Modern Pest Control were accounted for. Mr. Lilly did not. The Respondent argues this is not an ordinary commercial employment dealing where each side was acting in its own interest. Payments in and out did not match up, though it appears it evened out at the end of the period in issue. Again, the Respondent suggests this was not an ordinary commercial arrangement of employment. There would be times when either Mr. Jonathan Flynn owed Modern Pest Control or vice versa. While I accept it was beneficial to have an employee in Newfoundland to deal with necessary payments, I agree with the Respondent this particular element of the working arrangement seems unlike an ordinary commercial employment arrangement. Is this, however, indicative of a common mind directing the arrangement or a negotiated deal from which both Modern Pest Control and Mr. Jonathan Flynn can benefit? It can be viewed either way, I would suggest.
+iv. It was clear from a review of the internal account in Mr. Jonathan Flynn’s name that there were some significant payments that did not appear to relate to Modern Pest Control’s business. These payments were to cover the expenses in the renovation house project that Jonathan and Todd Flynn were engaged in. In effect, Modern Pest Control was providing Mr. Jonathan Flynn with interest free financing. The Respondent characterizes this as the employer providing the employee free financing. Modern Pest Control’s counsel characterizes it as having nothing to do with the employment relationship and therefore not relevant to the non‑arm’s length issue. I agree with Modern Pest Control’s counsel.
+[15] Just as the fact of Mr. Jonathan Flynn’s relationship as brother of the operator, though not owner, of Modern Pest Control was not raised by either side as factoring into the employment non-arm’s length issue, so too the fact of a personal family project being funded through Modern Pest Control is not a factor in the determination of whether the employment relationship is a non-arm’s length relationship. The personal project simply has nothing to do with the employment relationship. Whether or not Mr. Jonathan Flynn was an employee of Modern Pest Control, I conclude Modern Pest Control was simply the financing vehicle for both the brothers’ project. That does not support a finding that Mr. Jonathan Flynn and Modern Pest Control were not dealing at arm’s length in their employment relationship.
+[16] In summary, I assess the situation as Mr. Jonathan Flynn, a certified pest control technician, taking on employment with Modern Pest Control to provide those technical services and, given his brother’s absence from Newfoundland, also serving not only as the salesperson for the small business, but also the on‑site supervisor attending to supply purchases and some administrative chores. His working arrangement on the technical side was not different from Mr. Lilly, the only other employee in this small business. I find only two elements of the arrangement, the use of an internal account for the payments to and fro between Mr. Jonathan Flynn and Modern Pest Control and the interest free loan from Modern Pest Control to Mr. Jonathan Flynn for the personal housing project, raise the spectre of a non-arm’s length dealing. I dismiss the latter as it pertains not to the employment relationship but to a personal project between the brothers who simply used Modern Pest Control as a financing source. With respect to the use of the account, while it can be viewed as indicative on a non‑arm’s length dealing, I conclude, on balance, that is not sufficient to override all other elements of the employment relationship that satisfy me there was not an arm’s length dealing. I therefore allow the Appeal and return the matter to the Minister on the basis Mr. Jonathan Flynn was not in excluded employment but was in insurable employment.
+Signed at Ottawa, Canada, this 13th day of October 2015.
+“Campbell J. Miller”
+C. Miller J.
+APPENDIX A
+CITATION:
+2015 TCC 241
+COURT FILE NO.:
+2014-3973(EI)
+STYLE OF CAUSE:
+MODERN PEST CONTROL SERVICES WESTERN LTD. AND THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+September 18, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+October 13, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Chad J. Brown
+Counsel for the Respondent:
+E. Ian Wiebe
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Chad J. Brown
+Firm:
+Tax Ninja / Tax Law
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2002 CarswellNat 3804.
+[2] 2011 TCC 494.

@@ -1,0 +1,187 @@
+Title: Destacamento v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29218/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-242-29218-destacamento-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-04-30
+
+# Destacamento v. The Queen
+
+- Citation: 2009 TCC 242
+- Decision date: 2009-04-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7019, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Destacamento v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-30
+Neutral citation
+2009 TCC 242
+File numbers
+2007-3707(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3707(IT)I
+BETWEEN:
+ZACARIUS DESTACAMENTO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 7, 2009, at St. Catharines, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Louis L'Heureux
+____________________________________________________________________
+AMENDED JUDGMENT
+This judgment is issued in substitution for the judgment dated
+April 30th, 2009.
+The appeals from the reassessments made under the Income Tax Act for the 2002, 2003 and 2004 taxation years are dismissed.
+Signed at Ottawa, Canada, this 12th day of May 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2009TCC242
+Date: 20090430
+Docket: 2007-3707(IT)I
+BETWEEN:
+ZACARIUS DESTACAMENTO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2007-3713(IT)G
+BETWEEN:
+NELIA DESTACAMENTO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] These appeals were heard on common evidence. The issues are whether Nelia Destacamento (Mrs. D.) was entitled to claim a reserve for the amounts of $27,790.97 and $65,950.86[1] in 2003 and 2004 respectively; and, whether Zacarias Destacamento (Mr. D.) was entitled to claim a reserve for the amounts of $22,349.17, $17,457.58[2] in 2002, 2003 respectively. The amounts at issue in these appeals are amounts the Appellants received as commissions for the sale of life insurance policies.
+[2] Mr. D. is an accountant and prepared both his and his spouse’s income tax returns for the years under appeal. He gave the majority of the testimony concerning their employment. Both Appellants described their occupations as insurance agents.
+[3] Mr. D. signed a contract with World Financial Group Insurance Agency of Canada Inc. (“WFG”) in 2002 whereby he became a member and an associate of WFG. As such, he was employed as an independent contractor to sell WFG’s products and to recruit “downline associates” to sell WFG’s products. I assume from the evidence that Mrs. D was recruited by her husband to sell WFG’s products. She as well was an independent contractor.
+[4] Mr. D. stated that for each of the years under appeal, the T4As which he and his spouse received from WFG included both commissions which they had earned and cash advances which they had received during the year. He and his spouse included the amount on the T4A in their income and claimed a reserve for the amount of the cash advance. Mr. D stated that he claimed a reserve only because there was no line in the income tax return for cash advances.
+[5] In each of his returns Mr. D. calculated his gross commissions from selling life insurance as follows:
+2002
+2003
+2004
+Commissions on T4A
+$22,808.97
+$18,916.21
+$ 725.05
+Advances deducted
+from prior year
+22,349.17
+39,806.75
+Total
+$22,808.97
+$41,265.38
+$40,531.80
+Less: Advances
+(22,349.17)
+(39,806.75)
+(31,822.07)
+Gross Commission
+$ 459.80
+$ 1,458.63
+$ 8,709.73
+[6] Mrs. D. calculated her gross commissions from selling life insurance as follows:
+2003
+2004
+Commissions on T4A
+$32,549.62
+$ 75,873.89
+Advances deducted from
+prior year
+27,790.97
+Total
+$32,549.62
+$103,664.86
+Less: Advances
+(27,790.97)
+(93,741.83)
+Gross Commissions
+$ 4,758.65
+$ 9,923.03
+[7] It was the Appellants’ position that the monies which they received each year from WFG were “advance commissions” or cash advances. They stated that the amounts represented a loan from WFG to them. In support of their position, the Appellants relied on the contract which Mr. D. signed with WFG. In particular, Mr. D. referred to the section of the contract named “Glossary and Explanation of Terms” for the following definitions:
+“Advance Commissions”
+Any monies that may be paid to Associate as an advance against Associate’s commissions, or Associate’s Override Compensation, either or both of which are yet to be earned, that may become due and payable by WFG.
+“Debit Balance”
+The balance remaining from time to time after subtracting the commissions and earned commissions actually earned but unpaid, which are due and payable by WFG to Associate, from any money and value owed (regardless of whether it is then due or not) by Associate to WFG, including but not limited to expenses; license fees; commissions and expenses that Associate is required to refund to WFG because of Customer or customer cancellations, rights of withdrawal, non-renewals, terminations, lapses or otherwise; Advance Commissions; Debit Balances of Associate’s Downline Associate(s); expenses and fees incurred by WFG in attempting to register prospective Downline Associates of Associate; WFG for indemnification against Associate; and other claims by WFG against Associate; and any and all money and value which may be paid, advanced, or credited by or on behalf of WFG to, or for the benefit of, Associate.
+[8] He also referred to the section of the contract titled “Associate’s Compensation”. In particular, he read paragraphs (D) and (E) of that section. I have attached the entire section as an Appendix to these reasons.
+D. Any money and value owed by Associate to WFG, any Debit Balance, and any money and value which have been advanced or credited by or on behalf of WFG, or for the benefit of Associate, represents a loan. Associate hereby expressly authorizes WFG to offset and deduct from any commissions or other money or value then or thereafter owed by WFG to Associate any amounts due WFG from Associate. WFG is hereby authorized by Associate to deduct from commissions due the amount of any commissions paid to Associate in connection with any payment or amount that WFG refunds to Associate’s Customer.
+E. All Debit Balances shall be repaid immediately by Associate upon notice thereof to Associate by WFG. Any Debit Balances not paid within thirty (30) days from the effective date of such notice shall bear interest from the end of such thirty (30) days at a rate equal to the prime rate of the Toronto Dominion Bank plus ten percent (10%).
+[9] Mrs. D. included a statement from WFG called “Commission Summary” with her 2003 and 2004 income tax returns. Mr. D included a similar statement with his 2003 income tax return. It was the Appellants’ position that these statements showed the cash advances which were given to them during the year.
+[10] Mr. D. stated that he and his spouse were paid one year in advance by WFG. The commissions were not fully earned until two years had elapsed. If, during the first two years the insurance policy was cancelled or lapsed due to non-payment of the premiums, they had to return the total amount of the commissions they had received. They described the amount that they had to repay as a chargeback.
+[11] The Appellants stated that in 2008, WFG conducted an audit of the Appellants’ accounts. It found that it had failed to chargeback $8,487.57 to Mr. D. and $25,254.20 to Mrs. D. It was the Appellants’ position that they had actually overstated their income for the years under appeal. They asked if the court could give them a deferral on their taxes for two years.
+[12] Counsel for the Respondent stated that the commissions were either earned or unearned. In either scenario, the Appellants had to include the commissions in their income when they received them.
+[13] Counsel stated that the commissions were only received by the Appellants after they sold an insurance policy. They had full use and enjoyment of the funds. The commissions were only called advances because there could be a chargeback. The possibility of a chargeback was a condition subsequent. The amounts received by the Appellants had the quality of income and had to be included as income in their returns. If there was a chargeback, the Appellants could deduct the reimbursement in the year it is made.
+[14] It was the Respondent’s further position that if the commissions were unearned, then paragraph 32(1)(a) of the Income Tax Act (“the Act”) precludes the Appellant from taking a reserve and the entire commissions must be included in income.
+Analysis and Conclusion
+[15] I agree with the Respondent. The evidence established that the Appellants were paid a commission whenever they or a downline associate which they had recruited, sold an insurance policy.
+[16] WFG imposed the condition that the insurance agent had to return a portion of the commission if the policy was surrendered or lapsed within 24 months. The chargeback was a percentage of the first year earned commission. The percentage varied according to the number of months that the premium was paid. For example, if the policy lapsed after 14 months, the chargeback was 55% whereas, if it lapsed after 20 months, the chargeback was 25% of the first year earned commission.[3]
+[17] The “Commission Summary” statements which the Appellants filed with their income tax returns included an “Advanced Commission Summary” and an “Earned Commission Summary”. The “Advanced Commission Summary” was a calculation of the total advances less the chargebacks for a particular period. This amount was claimed as a reserve by the Appellants for each year[4].
+[18] The evidence disclosed that there was no interest charged on the commissions that the Appellants received. The Appellants had to pay interest only if there was a chargeback which created a debit balance and that balance was not paid within 30 days from the date notice was given to the Appellants. I conclude that the commissions advanced to the Appellants were not loans.
+[19] The concept of quality of income was discussed by Thorson J. in Robertson Ltd. v. M.N.R.[5] at paragraphs 18 and 24:
+18 The law is the same in the United States. Losses that have been sustained are deductible but the American courts have not allowed any deductions from profits for the purpose of meeting losses or liabilities that were apprehended or contingent on the happening of an uncertain future event. The Supreme Court of the United States dealt with the matter in Brown v. Helvering, 291 U.S. 193. In that case, the facts were: a general agent of fire insurance companies received "overriding commissions" on the business written each year, subject however to the contingent liability that when any of the policies was cancelled before its term had run, a part of the commission thereon, proportionate to the premium money repaid to the policy holder, must be charged against the agent in favour of the company. In his accounts and income tax returns involved in this case, he deducted from the accrued commissions of each year a sum entered in a reserve account to represent that part of them which, according to the experience of earlier years, would be returnable because of cancellations. It was held that he was not entitled to make any deduction for such purposes. Mr. Justice Brandeis, in delivering the opinion of the Supreme Court of the United States, said, at page 199:
+"The overriding commissions were gross income of the year in which they were receivable. As to each such commission there arose the obligation -- a contingent liability -- to return a proportionate part in case of cancellation. But the mere fact that some portion of it might have to be refunded in some future year in the event of cancellation or reinsurance did not affect its quality as income .... When received, the general agent's right to it was absolute. It was under no restriction, contractual or otherwise, as to its disposition, use or enjoyment."
+…
+24 This does not, however, dispose of this appeal, for the question remains whether all of the amounts received by the appellant during any year were received as income or became such during the year. Did such amounts have, at the time of their receipt, or acquire, during the year of their receipt, the quality of income, to use the phrase of Mr. Justice Brandeis in Brown v. Helvering (supra). In my judgment, the language used by him, to which I have already referred, lays down an important test as to whether an amount received by a taxpayer has the quality of income. Is his right to it absolute and under no restriction, contractual or otherwise, as to its disposition, use or enjoyment? To put it in another way, can an amount in a taxpayer's hands be regarded as an item of profit or gain from his business, as long as he holds it subject to specific and unfulfilled conditions and his right to retain it and apply it to his own use has not yet accrued, and may never accrue?
+[20] In the present appeals, there were no restrictions on the Appellants’ right to dispose of the amounts received as commissions. They had the full use and enjoyment of the commissions when they received them. The entire commissions must be included in income in the year the Appellants received them.
+[21] In any event, the Appellants cannot claim a reserve in respect of the commissions as they were earned from the sale of life insurance contracts. A portion of paragraph 32(1)(a) of the Act reads as follows:
+32. (1) Insurance agents and brokers [unearned commissions] -- In computing a taxpayer's income for a taxation year from the taxpayer's business as an insurance agent or broker, no amount may be deducted under paragraph 20(1)(m) for the year in respect of unearned commissions from the business, but in computing the taxpayer's income for the year from the business there may be deducted, as a reserve in respect of such commissions, an amount equal to the lesser of
+(a) the total of all amounts each of which is that proportion of an amount that has been included in computing the taxpayer's income for the year or a preceding taxation year as a commission in respect of an insurance contract (other than a life insurance contract) that (emphasis added)
+[22] The benefit that an insurance agent has of deferring commission income pursuant to section 32 of the Act does not extend to commissions earned from life insurance contracts.
+[23] The appeals are dismissed. The Respondent is awarded costs in the appeal of Nelia Destacamento.
+Signed at Ottawa, Canada, this 12th day of May 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Appendix
+Associate’s Compensation
+A. Associate acknowledges and understands that the Associate earns income only from the sale of the Products and Services and no income is earned by or paid to Associate for recruiting. The Associate’s sole compensation under and during the term of this Agreement shall be commissions paid by, or caused to be paid by, WFG pursuant to this Agreement and paid in the manner provided in, and subject to the terms and conditions contained in, those Associate Agreement Guidelines and commission schedules, which are published by WFG from time to time. The Preferred Companies are generally not obligated to pay Associate any money. There is no guarantee that Associate will be financially rewarded solely by virtue of becoming a member of Word Financial Group.
+B. WFG will publish Associate Agreement Guidelines and commission schedules from time to time which relate to sales position designations, performance standards, commission rates of WFG or the Preferred Companies and other matters affecting the terms of the members’ compensation. WFG may, from time to time, in the exercise of its sole discretion, and without notice, increase or decrease the rates and amounts of commissions or the sales position of Associate; provided, however, that any such changes may be prospective only, but may affect any new business and any commissions earned thereafter on existing business.
+C. Associate acknowledges and agrees that Associate’s commissions are a share of WFG’s commissions and Associate’s commissions are earned by, and shall be payable to, Associate only after all of the following have occurred: i) the order or application for Products and Services is submitted by Associate is accepted and approved by WFG or a Preferred Company at its principal office, or by an approved WFG designee; ii) actual payment for the same has been made by and received from the Customer; and iii) WFG has actually received payment from a Preferred Company, if applicable, of WFG’s commission (subject to the terms of this Agreement).
+D. Any money and value owed by Associate to WFG, any Debit Balance, and any money and value which have been advanced or credited by or on behalf of WFG, or for the benefit of Associate, represents a loan. Associate hereby expressly authorizes WFG to offset and deduct from any commissions or other money or value then or thereafter owed by WFG to Associate any amounts due WFG from Associate. WFG is hereby authorized by Associate to deduct from commissions due the amount of any commissions paid to Associate in connection with any payment or amount that WFG refunds to Associate’s Customer.
+E. All Debit Balances shall be repaid immediately by Associate upon notice thereof to Associate by WFG. Any Debit Balances not paid within thirty (30) days from the effective date of such notice shall bear interest from the end of such thirty (30) days at a rate equal to the prime rate of the Toronto Dominion Bank plus ten percent (10%). From time to time in its sole discretion, WFG may cause a reduction in all or any portion of the Associate’s Debit Balance in any of the following ways: i) by applying any commissions or other forms of compensation payable to the Associate by WFG to reduce the Associate’s Debit Balance; or ii) by exercising any other legal rights and remedies available to WFG, including any rights or remedies that are included in Associate Agreement Guidelines and Rules. The Associate is also obligated to repay WFG for the Debit Balances of any Associate’s Downline Associates. The formula and procedure for this Debit Balance repayment is more specifically set out in the Associate Agreement Rules.
+F. Except as otherwise provided in this Agreement, and subject to the terms of this Section III.F., if and when Associate qualifies for and attains certain sales position designations established by WFG from time to time pursuant to Associate Agreement Guidelines, Associate shall become Vested and entitled to receive commissions upon termination. However, Associate acknowledges and agrees that since Associate’s commissions are a share of WFG’s commissions, Associate shall, upon becoming Vested, be vested in commissions only to the extent that WFG actually receives commissions with respect to the applicable Customers from the Preferred Companies and Associate can legally receive such commissions. In the event that Associate, at the time of termination, has not qualified and attained the sales position designation(s) established by WFG as a condition to becoming Vested, Associate shall have no right to commissions or any compensation of any kind.
+G. In the exercise of its sole discretion, WFG reserves the right to, and may, refund to any Customer all or any part of payments made by Customer, and Associate agrees to promptly reimburse WFG for its expenses in connection therewith. Associate further agrees to promptly repay WFG all commissions by Associate with respect to any refunds to Customers, and WFG is hereby authorized to deduct from any other commissions due or that may become due to Associate hereunder, the amount due WFG for any such expenses or commissions to be repaid by Associate.
+H. Except as set forth above in Section III.A. and III.F., Associate shall receive no other compensation of any kind whatsoever under this Agreement. Associate will not receive any fringe benefits under this Agreement whatsoever, including but not limited to insurance benefits, disability income, paid vacation, expense reimbursement, or retirement benefits unless otherwise specifically provided for in this Agreement.
+CITATION: 2009TCC242
+COURT FILE NO.: 2007-3707(IT)I
+STYLE OF CAUSE: ZACARIUS DESTACAMENTO AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: St. Catharines, Ontario
+DATE OF HEARING: April 7, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: April 30, 2009
+DATE OF AMENDED JUDGMENT May 12, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Louis L'Heureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Nelia Destacamento actually claimed a total reserve of $93,741.83 in respect of the 2004 year. The amount of $65,950.86 represents the net reserve claimed in 2004 and the amount which the Minister added to her income for that year
+[2] Zacarias Destacamento actually claimed a total reserve of $39,806.75 in respect of the 2003 year. The amount of $17,457.58 represents the net reserve claimed in the 2003 and the amount which the Minister added to his income for that year. As a consequential adjustment, the Minister also reduced Zacarias Destacamento’s income for the 2004 year by the amount of $7,984.68.
+[3] See exhibit R-3.
+[4] See pages 26 and 52 of exhibit R-2.
+[5] [1944] C.T.C. 75 (Ex. Ct. Can.)

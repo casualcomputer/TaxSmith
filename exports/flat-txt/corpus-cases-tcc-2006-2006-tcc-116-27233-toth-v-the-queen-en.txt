@@ -1,0 +1,162 @@
+Title: Toth v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27233/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-116-27233-toth-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-02-24
+
+# Toth v. The Queen
+
+- Citation: 2006 TCC 116
+- Decision date: 2006-02-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 839, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Toth v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-02-24
+Neutral citation
+2006 TCC 116
+File numbers
+2005-2401(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2401(IT)I
+BETWEEN:
+JOSEPH THOMAS TOTH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 2, 2005, at Montreal, Québec
+By: The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 2003 taxation year is dismissed.
+Signed at Ottawa, Canada, this 24th day of February 2006.
+"C.H. McArthur"
+McArthur J.
+Citation: 2006TCC116
+Date: 20060224
+Docket: 2005-2401(IT)I
+BETWEEN:
+JOSEPH THOMAS TOTH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] This is an appeal from an assessment by the Minister of National Revenue for the 2003 taxation year, and deals primarily with the taxation of forfeited funds from the Appellant's Registered Retirement Savings Plans (RRSPs) pursuant to a Court Order.
+[2] Following pleading guilty to criminal charges involving an escort business that the Appellant had operated, the Attorney General of the Provinceof Quebec obtained a Court Order on February 16, 2001. Pursuant to section 462.33 of Part XII.2 Proceeds of Crime, of the Criminal Code of Canada,[1] the Order restrained, amongst other assets of the Appellant, his RRSP funds. The confiscated funds were forfeited as part payment of a penalty imposed.
+[3] The principal argument of the Respondent was that in forfeiting his RRSP funds, the Appellant received a taxable benefit pursuant to the following sections of the Income Tax Act:
+56(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+...
+(h) amounts required by section 146 in respect of a registered retirement savings plan or a registered retirement income fund to be included in computing the taxpayer's income for the year;
+and
+146(8) There shall be included in computing a taxpayer's income for a taxation year the total of all amounts received by the taxpayer in the year as benefits out of or under registered retirement savings plans...
+[4] Subsection 146(8) requires the benefits of the RRSP to be received by the taxpayer and the Respondent argued that the RRSP forfeiture to the Government as ordered, resulted in a "constructive receipt". The possibility of a taxpayer obtaining a benefit without physically receiving it was dealt with in Morin v. The Queen,[2] where Lacroix J. of the Federal Court - Trial Division stated that "the word 'receive' obviously means to get or to derive benefit from something, to enjoy its advantages without necessarily having it in one's hands". In addition, he cited the following from the unreported decision in Lucien Gingras v. M.N.R.: "the expression "touché" (received) does not necessarily mean that the full amount ... must be physically received by the payee or be deposited in full in his bank account".
+[5] Further, in Belusic v. The Queen,[3] Bowman J. sets out the test that for there to be constructive receipt of a payment to a third party (such as the forfeiture of RRSPs to the Government), one or both of the following conditions would need to be met:
+(a) the appellant would need to have authorized or in any event acquiesced in the payment; or
+(b) even if he had not authorized or acquiesced ... he would have had to be under a legal obligation to make the repayment so that the payment ... had the effect of relieving him of that obligation.
+In that case, a payment by Canada Post to the City of London, on behalf of a taxpayer, was not found to be constructively received since the payment was not authorized, nor the result of a legal obligation.
+[6] In this appeal, the Respondent stated that the forfeiture Order was a legal obligation on the taxpayer, and that the taxpayer constructively received the benefit because on May 29, 2003, Mercier J. of the Quebec Court issued an Order requiring the Appellant to forfeit certain property to the Crown, including the RRSPs, pursuant to section 462.37 of Part XII.2 of the Criminal Code of Canada.
+462.37(1) Subject to this section and sections 462.39 to 462.41, where an offender is convicted, or discharged under section 730, of a designated offence and the court imposing sentence on the offender, on application of the Attorney General, is satisfied, on a balance of probabilities, that any property is proceeds of crime and that the designated offence was committed in relation to that property, the court shall order that the property be forfeited to Her Majesty to be disposed of as the Attorney General directs or otherwise dealt with in accordance with the law. [Emphasis added]
+[7] The goals of the above provision have been described by the Ontario Court of Appeal in Wilson et al and The Queen,[4] as follows:
+The purpose of Part XII.2 is clear. It is intended to give effect to the age old adage that crime does not pay. It is now recognized that some crime is big business, and that massive profits, both direct and indirect, can be made from criminal activity. Part XII.2 is a response to that realization and provides a comprehensive scheme whereby those direct and indirect profits may be located, seized and eventually forfeited to the Crown.
+[8] The use of the words "shall order" in subsection 462.37(1) indicates that the forfeiture powers of the Criminal Code are mandatory. If the conditions in that subsection are met, the Court must make the forfeiture order.[5] The same conclusion has been reached by the Alberta Court of Queen's Bench in R. v. Gagnon,[6] and by the Ontario Court of Appeal in Wilson. The forfeiture power extends to "any" property which meets the criteria regardless of whether that property is subject to any seizure or restraint Order, or is in the possession of the offender or the authorities.
+[9] A translation of the Order of the Quebec Court is attached as Appendix "'A" and the key provisions pertaining to this appeal are:
+ORDERS the forfeiture of all monies and other securities in or connected to account numbers 36263-26, 00538-80, 01502-23, 00117-89 and 12476-89, 223-14, the latter account being registered in the name of Crystal Star Creation at Scotiabank, situated at 3064 St-Charles Blvd., in Kirkland;
+ORDERS the Scotiabank referred to in the preceding paragraph to immediately remit to the Procureur Général du Québecall amounts forfeited from those accounts;
+[10] Finally, at the hearing, the Appellant conceded the point by stating "I really do not think this is a question of receiving, it is a question of the value. I am not going to argue 'received'".[7]
+[11] I have no hesitation in finding that the Order of the Quebec Court was a legal obligation placed on the Appellant requiring the transfer of his RRSPs to the Procureur General du Quebec. Also, I find that the Appellant had constructive receipt of the RRSP funds.
+[12] The Appellant has taken the position that the value of the seized RRSPs as stipulated by Court Order, should be their value net of tax. Therefore, if there is additional tax owing on the forfeited RRSPs, the tax should be paid from those seized funds by the Quebec Government, and not by the taxpayer personally.
+[13] The issue of the taxation of payments pursuant to a Court Order is typically seen in the family law context. For example, in Bates v. R.,[8] a taxpayer received support payments from her husband. Her lawyer interpreted the Order of the Senior Master to mean that the payments were net of tax and accordingly, she did not claim the payments in her income for the year. In that appeal, Mogan J. stated:
+[9] First, did the Senior Master effectively order that the child support payments were to be received by the Appellant net of tax? The only relevant statement by the Senior Master is the last sentence of his endorsement in Tab A of the ASF:
+... As it would seem to be no tax payable by the Wife until April of 1993 and there may well be a trial before then I do not make provision in the order for the impact of income tax.
+It is not clear to me what the Senior Master means by that sentence. If he intended to provide that the child support payments were not to be taxed in the hands of the Wife and were not to be deducted in computing the Husband's income, why did he not say so? If the provision was important in his mind, why did he not make it an operative term of his order instead of leaving it to the last sentence in his endorsement? If he intended to benefit the Wife with child support payments free of tax, why could he not be more explicit? Was he ambivalent about making "provision in the order for the impact of income tax" because of his prior statement in the endorsement: " ... clearly the Husband has the ability as indeed does the Wife to provide support"? ...
+...
+[12] I would answer the first question by concluding that the Senior Master did not effectively order that the child support payments were to be received by the Appellant free of tax. His words are too imprecise. ...
+[14] In this appeal, the Order of Mercier J. does not make any reference, precise or imprecise, to the proper taxation of the forfeited RRSP funds. In fact, the Order states: "To avoid any confusion, no surcharge will be added". If it was intended that the forfeiture avoid possible tax consequences, Mercier J. would have made a declaration to that effect.
+[15] Furthermore, Mogan J. suggested that a Court Order could never bind the Minister's ability to tax, as also provided for in the decisions of R. v. Sigglekow[9] and Arshinoff v. R.[10] In Arshinoff, a Master of the Supreme Court of Ontario, made an Order for the taxpayer to receive support of $5,000 per month excluding tax. Brulé J. stated:
+... If their intention was that the appellant receive $5,000 net of tax, then the order for support should have been grossed up to ensure that she would in fact receive $5,000 net per month. The fact that the order was made "excluding tax" cannot bind the Minister who is entitled to reassess the appellant for any amount received as support pursuant to an order of a competent tribunal. Once the conditions enumerated in paragraph 56(1)(c) have been met, the appellant must include the amounts in question in the computation of her income.
+Similarly, in Sigglekow, Jerome J. of the Federal Court - Trial Division, noted:
+A great deal of argument was directed toward the indefinite nature of the effect of the words "tax free" in the Court Order. Counsel delivered a very persuasive submission that, to the extent the words impose some special burden upon the husband over and above the $20 per week, it creates an obligation that cannot be quantified. The basis of the argument is that since the tax burden can't be calculated until the filing of Mrs. Sigglekow's return, there is never any time at which the husband can know how much should be added on a weekly basis. Counsel also pointed out that no matter when the husband attempts to fulfill that obligation, it creates a further sum upon which some tax must be calculated rendering it doubly impossible to fix the amount at any time and certainly in advance.
+before finding:
+... the liability for tax does not spring from a separation agreement or a Court Order. Section 56 provides that moneys received must be included as income. Clearly, the sums must be received by this taxpayer before there can be any tax burden upon them. Her obligation can only be to report any sums received. They are taxable income if their source is in an agreement or Order caught by section 56. The fact that the agreement or Order may impose additional burdens upon the spouse is extraneous.
+[16] The Appellant committed a crime under the Criminal Code, has pled guilty to that crime, and has been sentenced accordingly. The imposition of an additional tax burden on the forfeiture may seem unfair, however, this is not a Court of equity, and I can only apply the law as enacted by Parliament. There is nothing in the law, or the Order of Mercier J. (either precise or imprecise), which would suggest that the forfeiture of the funds from the Appellant's RRSPs should be tax-free. Furthermore, even if the Order was explicit that the forfeiture should be tax-free, the Order could not bind the Minister from taxing the constructive receipt of these funds from RRSPs under section 56 of the Income Tax Act.
+[17] The appeal is dismissed.
+Signed at Ottawa, Canada, this 24th day of February 2006.
+"C.H. McArthur"
+McArthur J.
+Appendix "A"
+Certified True Translation of the Order of the Honourable Justice Mercier of the Court of Quebec dated May 29, 2003
+(1) COURT COSTS
+ORDERS that $30,000.00 be paid within 30 days of this date to the firm Grey and Casgrain, to be taken from the initial cash from this forfeiture or, failing that, at the time of the liquidation of the immoveable property entrusted to the Procureur Général du Québec.
+(2) ROSEMARY BREYTHER'S SENTENCE
+Suspended sentence, three months' probation with the general conditions of good conduct and keeping the peace.
+No surcharge because in this case it would be an unfair prejudice. Sentence concurrent to the other cases, and concurrent on each count.
+(3) FORFEITURE OF THE PROPERTY
+ORDERS the forfeiture of the following immoveable to the Procureur Général du Québec:
+"an immoveable situated at 9 49th Avenue in the Municipality of Notre-Dame de I'lle Perrot, Province of Quebec, J7V 9Z7, registered at the Land Registry Office of the District of Vaudreuil, as being owned by Joseph Thomas Toth and Rosemary Breyther, immoveable designated as follows:
+lot 2 069 633, cadastre of Quebec with all of the buildings erected thereon bearing civic number 9 of the 49th Avenue, Notre-Dame de I'lle Perrot, Province of Quebec, J7V 9Z7.
+the whole as it is presently, with all the servitudes, active or passive, apparent or unapparent, attached to the said immovable.
+so that it can be disposed of in accordance with his instructions, that he become the sole and titled owner and that he be substituted and/or subrogated in the rights of the respondents for all the accounts receivable, respecting the real rights in existence at February 16, 2001."
+ORDERS the current holders and occupants to deliver and/or surrender them within 15 days of this judgment;
+ORDERS the responsible Officer at the Land Registry Office of the District of Vaudreuil, to publish this order against the immoveable described above;
+ORDERSthe cancellation of the registration of the restraint order published under number 358223 on February 16, 2001, at the Land Registry Office of the District of Vaudreuil, upon the publication of this forfeiture judgment at the Registry Office;
+ORDERSthe forfeiture of all monies and other securities in or connected to account number 09-301-25 of the Banque Nationale located at 4506 St-Denis in Montreal, H2J 2L3, that account being registered in the name of: Conseillers en Securité AG;
+ORDERSthe Banque Nationale referred to in the preceding paragraph to immediately remit all of the amounts forfeited from that account to the Procureur Général du Québec;
+ORDERS the forfeiture of all monies and other securities in or connected to account numbers 36263-26, 00538-80, 01502-23, 00117-89 and 12476-89, 223-14, the latter account being registered in the name of Crystal Star Creation at Scotiabank, situated at 3064 St-Charles Blvd., in Kirkland;
+ORDERS the Scotiabank referred to in the preceding paragraph to immediately remit to the Procureur Général du Québecall amounts forfeited from those accounts;
+ORDERSthe forfeiture of all monies, investments and other securities as well as any interest, proceeds and other advantages generated by that property in or connected to account 20503 registered in the name of Conseillers en Securité AG, at the Caisse Populaire St-Odile, situated at 4995 de Salaberry St., in Montréal;
+ORDERS the Caisse Populaire St-Odile, referred to in the preceding paragraph to immediately remit to the Procureur Général du Québec all amounts forfeited from that account;
+ORDERS that all of the other items seized and all of the other restrained property be delivered to the accused;
+ORDERSthat this judgment be served on all of the third parties;
+DISPENSESWITH service of the accused as well as of Conseillers en Securité AGand Crystal Star Creation;
+To avoid any confusion, no surcharge will be added;
+CITATION: 2006TCC116
+COURT FILE NO.: 2005-2401(IT)I
+STYLE OF CAUSE: Joseph Thomas Toth and
+Her Majesty The Queen
+PLACE OF HEARING: Montreal, Québec
+DATE OF HEARING: December 2, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: February 24, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S., 1985, c. C-46.
+[2] 75 DTC 5061.
+[3] [1997] 3 C.T.C. 2908.
+[4] 15 O.R. (3d) 645.
+[5] Subject to certain limitations on property set out in subsection 462.37(3).
+[6] 1992 A.J. No. 842.
+[7] Transcript, pages 23 & 25.
+[8] 98 DTC 1919.
+[9] 85 DTC 5471.
+[10] [1994] 1 C.T.C. 2850.

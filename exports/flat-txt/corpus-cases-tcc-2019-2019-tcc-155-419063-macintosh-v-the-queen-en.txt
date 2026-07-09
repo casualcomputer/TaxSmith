@@ -1,0 +1,176 @@
+Title: MacIntosh v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/419063/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-155-419063-macintosh-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-07-19
+
+# MacIntosh v. The Queen
+
+- Citation: 2019 TCC 155
+- Decision date: 2019-07-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4211, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacIntosh v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-07-19
+Neutral citation
+2019 TCC 155
+File numbers
+2018-1058(IT)I, 2018-4229(IT)I
+Judges and Taxing Officers
+Siobhan Monaghan
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2018-1058(IT)I
+2018-4229(IT)I
+BETWEEN:
+AUDREY TEDFORD MACINTOSH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard, on common evidence, on April 30, 2019
+at Ottawa, Ontario
+Written Submissions received on May 21 and May 27, 2019
+Before: The Honourable Justice K.A. Siobhan Monaghan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Andrée-Anne Lavoie
+JUDGMENT
+In accordance with the attached reasons for judgment:
+Ms. MacIntosh’s appeal, if any, to this Court of her UCCB entitlement is quashed;
+Ms. MacIntosh’s appeal of the reassessment of her 2016 taxation year to deny the child care expense deduction is dismissed;
+Ms. MacIntosh’s appeal of the Minister’s redetermination of her CCB entitlement for the period July 2016 to June 2017, computed with reference to her 2015 base taxation year, is dismissed;
+Ms. MacIntosh’s appeal of the Minister’s redetermination of her CCB entitlement for the period July 2017 to June 2018, computed with reference to her 2016 base taxation year, is dismissed; and
+Each party shall bear their own costs.
+Signed at Ottawa, Canada, this 19th day of July 2019.
+“K.A. Siobhan Monaghan”
+Monaghan J.
+Citation: 2019 TCC 155
+Date: 20190719
+Dockets: 2018-1058(IT)I
+2018-4229(IT)I
+BETWEEN:
+AUDREY TEDFORD MACINTOSH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Monaghan J.
+I. INTRODUCTION
+[1] Audrey Tedford MacIntosh is married to Jason MacIntosh and they live in a home purchased by Ms. MacIntosh approximately four years prior to their marriage. Although Mr. and Ms. MacIntosh knew each other in high school, they lost touch for many years. However, sometime in 2014 they reconnected and became friends. When Mr. MacIntosh’s marriage ended in 2014, he had nowhere to go and moved into Ms. MacIntosh’s basement as a tenant. Sometime in 2015 (it was not clear when), they began a conjugal relationship and they married on June 24, 2016.
+[2] In 2016, Ms. MacIntosh claimed child care expenses incurred for her son from a prior relationship. Ms. MacIntosh was also receiving the Universal Child Care Benefit (“UCCB”) and Canada Child Benefit (“CCB”). However, following her marriage, the Minister adjusted her entitlements and denied her child care expenses.
+[3] Ms. MacIntosh is appealing:
+a) the reassessment dated November 2, 2017 of her 2016 taxation year denying her claim for child care expenses in the 2016 taxation year in the amount of $4,496; and
+b) the redeterminations dated December 13, 2017 by the Minister of her entitlement to Canada Child Benefit (“CCB”) for the periods July 2016 to June 2017 and July 2017 to June 2018.
+[4] Ms. MacIntosh objected to the reassessment dated November 2, 2017 but that reassessment was confirmed by the Minister by notice dated January 25, 2018. Ms. MacIntosh also objected to the redeterminations of her CCB, but those redeterminations were confirmed by notice dated May 19, 2017 and September 25, 2018. Accordingly, Ms. MacIntosh instituted these appeals.
+[5] The Respondent suggests Ms. MacIntosh is also appealing the Universal Child Care Benefit (“UCCB”) for the period July 2016 to June 2017. That is less clear to me on the basis of the Notice of Appeal, although UCCB is referenced in the confirmation dated January 25, 2018.
+II. UNIVERSAL CHILD CARE BENEFIT
+[6] The UCCB is provided for in the Universal Child Care Benefit Act. As a result of amendments to the Universal Child Care Benefit Act, no UCCB is payable for any month after June 2016. Moreover, the Tax Court does not have jurisdiction to hear any appeal from denial or adjustment to UCCB. The Tax Court’s jurisdiction is derived from section 12 of the Tax Court of Canada Act (the “TCCA”). Neither the TCCA nor the Universal Child Care Benefit Act gives any jurisdiction over the UCCB to the Tax Court. [1] Accordingly, I am unable to consider any UCCB appeal and so, to the extent Ms. MacIntosh has appealed the UCCB, that appeal must be quashed.
+III. PRELIMINARY MATTER
+[7] At the hearing of these appeals, some confusion arose regarding which appeal concerned which matters. In particular, the Notice of Appeal in matter 2018-1058(IT)I states it concerns “Notice of Confirmation dated January 25, 2018 based on the tax year 2016”. That confirmation dealt only with the tax return not the CCB. However, the Notice of Appeal also refers to notice of redeterminations for CCB dated May 19, 2017 and June 20, 2017 which were concerned with the 2015 base taxation year. It does not refer to the December 13, 2017 redetermination dealing with the 2015 base taxation year.
+[8] The Notice of Appeal in matter 2018-4229(IT)I states it concerns “Notice of Confirmation dated January 25, 2018 based on my Canada Child Benefits for the 2015 base year”. It refers to the June 20, 2017 notice (not the July 20, 2017 notice which addressed the 2016 base taxation year) and a December 13, 2017 notice. I assume the reference to June is a clerical error and is intended to refer to July, as otherwise Ms. MacIntosh will not have appealed the 2016 base taxation year. It refers to the matter 2018-1058(IT)I as being concerned with the 2016 base taxation year. I believe that is an error as well.
+[9] Consistent with that, the Respondent’s Reply in matter 2018-1058(IT)I addresses the 2016 taxation year and the 2015 base taxation year (and so the CCB for the period July 2016 to June 2017). The Respondent’s Reply in matter 2018‑4229(IT)I addresses only the 2016 base taxation year (and so the CCB for the period July 2017 to June 2018).
+[10] Following submissions by the parties, I am satisfied that (a) appeal 2018‑1058(IT)I relates to the 2016 taxation year and the 2015 base taxation year (and so CCB entitlement for July 2016 to June 2017) and (b) appeal 2018‑4229(IT)I relates to the 2016 base taxation year (and so CCB entitlement for July 2017 to June 2018).
+IV. BACKGROUND FACTS
+[11] Ms. MacIntosh has two children from prior relationships. Her daughter is in her 20’s and, in the relevant periods, was away at university in Kingston during the school year. Her son is not yet 10 years old, and is the child for whom Ms. MacIntosh claimed child care expenses and entitlement to the CCB. Ms. MacIntosh has full custody of her son. He lives with Mr. and Ms. MacIntosh on a full-time basis, although his biological father provides modest financial support and sees his son once a week, sometimes overnight.
+[12] Prior to marrying, Ms. MacIntosh and Mr. MacIntosh entered into a marriage contract (the “Agreement”) outlining various rights and obligations and acknowledging a desire to remain financially independent of one another. The Agreement covers a number of topics, including financial responsibilities for the children. The Agreement is crystal clear that Ms. MacIntosh will be solely responsible for the children’s support. It expressly states that:
+- Ms. MacIntosh will not claim any child support from Mr. MacIntosh,
+- that any interactions he might have with the children should not be construed so as to place him in loco parentis, and
+- that any contributions he makes towards the family household expenses or lifestyle are not to be construed as him intending to support the children or the children being seen as his dependants.
+Both Mr. and Ms. MacIntosh testified as to the contents of the Agreement and the manner in which they have governed their financial affairs consistent with the Agreement since marriage. I accept that testimony as true.
+[13] Therefore, the evidence is clear that Ms. MacIntosh bears all of the expenses associated with the children. Ms. MacIntosh has sole responsibility for the mortgage payments and most of the expenses associated with running the home, although Mr. MacIntosh contributes a fixed amount weekly and assumes responsibility for the satellite tv expense and his own car. Ms. MacIntosh pays all expenses associated with child care and her son’s extracurricular programs. While Mr. MacIntosh enjoys a happy and healthy relationship with Ms. MacIntosh’s son, both parties were clear that Ms. MacIntosh was solely responsible for his care, including taking him to medical appointments and activities and staying home with him if he is sick and unable to attend school. I accept that testimony as true.
+V. 2016 TAXATION YEAR: CHILD CARE EXPENSES
+[14] The Income Tax Act (the “Act”) permits a taxpayer to deduct child care expenses in respect of an eligible child of the taxpayer where those expenses are paid by the taxpayer or by a supporting person of the child for the year. However, where the income of a taxpayer who has an eligible child exceeds the income of a supporting person of that child, the supporting person must claim the child care expenses, except in limited circumstances. [2]
+[15] In this case, Ms. MacIntosh contends her son is her eligible child. [3] That is not in dispute. The evidence also establishes that in the relevant years, Ms. MacIntosh’s income exceeded that of Mr. MacIntosh. Thus, the only issue to be addressed is whether Mr. MacIntosh is a supporting person of Ms. MacIntosh’s son in the 2016 taxation year. If he is, as the lower income supporting person, only he may deduct the child care expenses.
+[16] Ms. MacIntosh claims that because she has sole financial responsibility for her son and Mr. MacIntosh has no financial responsibility for him, Mr. MacIntosh should not be considered a supporting person of her son. In other words, Ms. MacIntosh claims that notwithstanding her marriage to Mr. MacIntosh she is effectively a single parent to her son and so should be entitled to deduct child care expenses as if she were a single parent.
+[17] Given the arrangements between Mr. and Ms. MacIntosh, I fully understand why she asserts that Mr. MacIntosh should not be considered a supporting person of her son, at least in the financial sense of the term. However, the Act defines supporting person of an eligible child for purposes of the child care expense deduction and that definition governs regardless of any legal binding contract between the MacIntoshes. Unfortunately, although that Agreement presumably binds the MacIntoshes, it has no relevance to their income tax liability.
+[18] Supporting person of an eligible child of a taxpayer for a taxation year means a person (other than the taxpayer) who:
+resides with the taxpayer at any time during the year and at any time within 60 days after the end of the year, and
+is (i) a parent of the child or (ii) the taxpayer’s spouse or common-law partner, or (iii) an individual who deducted an amount in respect of the child under section 118 of the Act. [4]
+[19] As is clear, supporting person status is determined based on the place the person resides and on the person’s relationship to the child or to the child’s parent. Despite the use of the term “supporting”, there is no requirement that the person provide any support to the child. In fact, a person who fully financially supports a child may not qualify as a supporting person.
+[20] So how does the definition apply in Ms. MacIntosh’s appeal? Ms. MacIntosh is the taxpayer and her son is the eligible child of the taxpayer. Accordingly, Mr. MacIntosh will be a supporting person of Ms. MacIntosh’s son for the 2016 taxation year if Mr. MacIntosh was her spouse or common-law partner and lived with her at any time during 2016 and at any time within the first 60 days of 2017.
+[21] Mr. and Ms. MacIntosh were married in June 2016 and lived together, with Ms. MacIntosh’s son, throughout 2016 and in the first 60 days of 2017. The MacIntoshes continue to live together as a married couple.
+[22] Therefore, the conditions to constitute Mr. MacIntosh a supporting person of Ms. MacIntosh’s son in 2016, as that term is defined for purposes of the child care expense provisions, are satisfied.
+[23] Because Mr. MacIntosh was a supporting person of Ms. MacIntosh’s son in 2016, and in 2016 his income was lower than Ms. MacIntosh’s income, Ms. MacIntosh is not permitted to deduct any child care expenses for her son in 2016.
+VI. CANADA CHILD BENEFIT [5]
+[24] A person is entitled to a CCB in respect of a month only if the person is an eligible individual at the beginning of that month in respect of a qualified dependant. Eligible individual and qualified dependant are both defined for purposes of the CCB provisions. There is no dispute that Ms. MacIntosh’s son is a qualified dependant. [6]
+[25] Similarly, there is no dispute that Ms. MacIntosh is an eligible individual in respect of her son: she resides with him, [7] she is the parent who primarily fulfils the responsibility for his care and upbringing, [8] and she is resident in Canada. [9]
+[26] However, the CCB an eligible individual is entitled to receive is determined based on the individual’s “adjusted income”.
+[27] Adjusted income of an individual for a taxation year is determined by adding together the individual’s income for that taxation year [10] and the income of the person who was the individual’s cohabiting spouse or common-law partner at the end of that taxation year. The issue in this case is whether Ms. MacIntosh’s adjusted income includes Mr. MacIntosh’s income.
+[28] CCB is typically paid over a 12-month period running from July of one year to June of the next year (a “CCB Period”). The CCB paid in a particular CCB Period is based on the eligible individual’s adjusted income in the taxation year ending on the December 31 that immediately preceded the particular CCB Period. That taxation year is called the “base taxation year” in relation to each month in the CCB Period. In other words, entitlement to CCB for each month in the period July 1, 2016 to June 30, 2017 inclusive is computed with reference to adjusted income in the 2015 taxation year, called the 2015 base taxation year for this purpose. Entitlement to CCB for each month in the period July 1, 2017 to June 30, 2018 inclusive is computed with reference to adjusted income in the 2016 taxation year, called the 2016 base taxation year for this purpose.
+[29] Ms. MacIntosh received CCB in respect of her son in 2016. However, by notices dated December 13, 2017, her CCB entitlement for the period July 2016 to June 2017 (the “2016-2017 Period”) and July 2017 to June 2018 (the “2017‑2018 Period”) was redetermined and reduced. The reductions arose because of Ms. MacIntosh’s relationship with Mr. MacIntosh. That is, the Minister determined that Ms. MacIntosh’s adjusted income for the base taxation years for those periods should include Mr. MacIntosh’s income for those years because Mr. and Ms. MacIntosh were common-law partners or spouses at the end of the relevant base taxation year.
+[30] Because Ms. MacIntosh’s CCB entitlement was initially determined only with reference to her income, the Minister’s redeterminations required her to repay a portion of the CCB previously paid to her. As a result, Ms. MacIntosh has not received CCB for some period of time, notwithstanding that she receives notices advising her she is entitled to some modest CCB. That CCB has been withheld and applied to reduce the amount the Minister claims Ms. MacIntosh is required to repay because the CCB payments made in the 2016-2017 Period exceeded her entitlement in that period based on the Minister’s redetermination. Thus, assuming the Minister’s determination of CCB entitlement is correct, Ms. MacIntosh has received the redetermined CCB in the 2017-2018 Period, albeit otherwise than by deposit to her bank account.
+A. 2015 Base Taxation Year: CCB for Months July 2016 to June 2017 Inclusive
+[31] The issue to be determined is whether Mr. MacIntosh was a “cohabiting spouse or common-law partner” of Ms. MacIntosh on December 31, 2015. If he was, his income in 2015 is added to hers to compute her adjusted income. The term “cohabiting spouse or common-law partner” is defined for this purpose. [11] By virtue of that definition, Mr. MacIntosh will be a cohabiting spouse or common-law partner of Ms. MacIntosh on December 31, 2015 if at that time (i) he is her spouse or common-law partner and (ii) he is not living separate and apart from Ms. MacIntosh. [12]
+[32] Mr. and Ms. MacIntosh did not marry until June 24, 2016 and therefore Mr. MacIntosh was not, in legal terms, Ms. MacIntosh’s spouse on December 31, 2015.
+[33] However, a person who becomes a spouse on a particular day may be deemed, for purposes of the CCB, to have been a spouse on an earlier day. The Act states that if a person becomes a cohabiting spouse of an eligible individual, the individual is required to notify the Minister of that event before the end of the next calendar month. [13] Moreover, for the purpose of determining the CCB that arises in the month before the end of which that notice must be given, and any subsequent month, that person is deemed to have been a spouse of the eligible individual at the end of the base taxation year in relation to that month.
+[34] How does that deeming rule apply here? Mr. MacIntosh became Ms. MacIntosh’s cohabiting spouse in June 2016 when they were married. Accordingly, Ms. MacIntosh was required to give notice of the marriage to the Minister by the end of July 2016. And, for the purposes of determining her CCB for the month of July 2016, and each subsequent month, Mr. MacIntosh is deemed to have been her co-habiting spouse at the end of 2015, and so on December 31, 2015.
+[35] As a result, in computing her adjusted income for the 2015 base taxation year, Ms. MacIntosh must include both her income and Mr. MacIntosh’s income for the 2015 taxation year. This is what the Minister did. Accordingly, Ms. MacIntosh’s appeal of the CCB in 2016-2017 Period is dismissed.
+B. 2016 Base Taxation Year: CCB for months July 2017 to June 2018 Inclusive
+[36] The 2016 base taxation year is the relevant taxation year for determining the CCB for the 2017-2018 Period. As Mr. and Ms. MacIntosh were married in June 2016, they were cohabiting spouses at the end of 2016. In other words, for the 2017-2018 Period, while the deeming rule is not relevant, the result is the same. In computing Ms. MacIntosh’s adjusted income for the 2016 base taxation year, Ms. MacIntosh must include Mr. MacIntosh’s income for the 2016 taxation year.
+VII. CONCLUSION
+[37] While I am sympathetic to Ms. MacIntosh’s circumstances, for the reasons described above:
+Ms. MacIntosh’s appeal, if any, to this Court of her UCCB entitlement is quashed;
+Ms. MacIntosh’s appeal of the reassessment of her 2016 taxation year to deny the child care expense deduction is dismissed;
+Ms. MacIntosh’s appeal of the Minister’s redetermination of her CCB entitlement for the period July 2016 to June 2017, computed with reference to her 2015 base taxation year, is dismissed;
+Ms. MacIntosh’s appeal of the Minister’s redetermination of her CCB entitlement for the period July 2017 to June 2018, computed with reference to her 2016 base taxation year, is dismissed; and
+Each party shall bear their own costs.
+Signed at Ottawa, Canada, this 19th day of July 2019.
+“K.A. Siobhan Monaghan”
+Monaghan J.
+CITATION:
+2019 TCC 155
+COURT FILE NOS.:
+2018-1058(IT)I
+2018-4229(IT)I
+STYLE OF CAUSE:
+AUDREY TEDFORD MACINTOSH v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+April 30, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice K.A. Siobhan Monaghan
+DATE OF JUDGMENT:
+July 19, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Andrée-Anne Lavoie
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See Goldstein v. Her Majesty, 2013 TCC 165 (Inf.); Perron v. The Queen 2017 TCC 220 (Inf.); Fatima v. The Queen 2012 TCC 49 (Inf.); and Moise v. The Queen, 2009 TCC 187 (Inf.).
+[2] Paragraph 63(2)(b) permits the higher income taxpayer to claim child care expenses in respect of periods where the other supporting person is in school or prison or is incapable of caring for children because of a physical or mental infirmity as certified by a medical practitioner. None of these exceptions applies here.
+[3] Eligible child of a taxpayer for a taxation year is defined in subsection 63(3) of the Act. It includes a child of the taxpayer or of the taxpayer’s spouse or common-law partner where the child is under 16 years of age at any time in the year.
+[4] See definition of “supporting person” in subsection 63(3) of the Act.
+[5] Prior to July 1, 2016, the Canada Child Benefit was known as the Canada Child Tax Benefit.
+[6] See the definition of “qualified dependant” in subsection 122.6.
+[7] See condition (a) of the definition of “eligible individual” in section 122.6.
+[8] See condition (b) of the definition of “eligible individual” in section 122.6. By virtue of paragraph (f) of that definition the female is presumed to be the parent who primarily fulfils the responsibility for the child’s care and upbringing where the child lives with the female parent. Although the presumption does not always apply, there was no suggestion it did not apply in this case. Moreover, based on the evidence and the factors described in Regulation 6302, I am satisfied Ms. MacIntosh primarily fulfils the responsibility for the care and upbringing of her son.
+[9] See condition (c) of the definition of “eligible individual” in section 122.6.
+[10] Computed without reference to certain inclusions and deductions, as detailed in the definition of “adjusted income” in section 122.6.
+[11] See section 122.6 of the Act.
+[12] For this purpose, they will not be considered to be living separate and apart unless they are living separate and apart because of a breakdown of their marriage or common-law partnership for a period of at least 90 days. Mr. and Ms. MacIntosh have never lived separate and apart because of a breakdown of their marriage or common-law partnership.
+[13] See subsection 122.62(7) of the Act.

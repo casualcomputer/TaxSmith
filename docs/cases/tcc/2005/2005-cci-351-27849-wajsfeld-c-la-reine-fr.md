@@ -1,0 +1,284 @@
+---
+title: "Wajsfeld c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27849/index.do"
+last_modified: "2005-08-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 351"
+citation2: ""
+neutral_citation: "2005 CCI 351"
+decision_date: "2005-08-05"
+language: "fr"
+item_id: "27849"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 338
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:41:20.670000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1aedc989f983366dd4b6839be4c32ca6f0bdbe34848e629375ee8c3d7fcacea9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wajsfeld c. La Reine
+
+- Citation: 2005 CCI 351
+- Decision date: 2005-08-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 338, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wajsfeld c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-05
+Référence neutre
+2005 CCI 351
+Numéro de dossier
+2002-3956(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-3956(IT)G
+ENTRE :
+GAVRIEL WAJSFELD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de
+2640-0614 Québec Inc. (2002-3955(IT)I)
+les 8 et 9 décembre 2004 à Montréal (Québec).
+Devant : L’honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l’appelant :
+Me Robert M. Joseph
+Avocate de l’intimée :
+Me Annick Provencher
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1998 et 1999 sont accueillis sans dépens, et les questions sont renvoyées au ministre du Revenu national pour qu’il les réexamine et qu’il établisse de nouvelles cotisations en tenant compte de ce qui suit :
+a) les annexes établies pour déterminer le revenu de M. Wajsfeld pour 1998 doivent être redressées comme suit :
+(i) la dette de l’appelant pour 1997 qui correspond à un prêt personnel (de sa belle-mère) se chiffre à 66 000 $ pour 1997 et, pour 1998, à 85 000 $;
+(ii) l’appelant avait un prêt personnel (dette) de 5 000 $;
+(iii) les dépenses personnelles de l’appelant sont réduites de 1 678 $;
+et, en conséquence, en 1998, l’appelant a omis de déclarer des revenus de 17 199,98 $;
+b) la pénalité imposée pour 1998 en vertu du paragraphe 163(2) de la Loi est éliminée;
+c) les annexes établies pour déterminer le revenu de M. Wajsfeld pour 1999 sont redressées comme suit :
+(i) le montant de 5 000 $ correspondant à un prêt fait à Mobilier Masson est supprimé de l’avoir personnel de l’appelant;
+(ii) la liste des dépenses personnelles de l’appelant est réduite de 5 292 $, soit du total des montants suivants : 776 $ de frais de scolarité, 1 800 $ de dons et 2 716 $ de paiements portés au compte Visa de l’appelant;
+(iii) lors du redressement de l’augmentation de la valeur nette de l’appelant, il faut soustraire le montant des remboursements d’impôt provincial payé à M. et Mme Wajsfeld, soit 6 189,32 $;
+et, en conséquence, en 1999, l’appelant a omis de déclarer des revenus de 10 863,77 $;
+d) la pénalité imposée pour 1999 en vertu du paragraphe 163(2) de la Loi est éliminée.
+Signé à Ottawa, Canada, ce 5e jour d’août 2005.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 2e jour de mai 2006.
+Mario Lagacé, jurilinguiste
+Dossier : 2002-3955(IT)I
+ENTRE :
+2640-0614 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de
+Gavriel Wajsfeld (2002-3956(IT)G)
+les 8 et 9 décembre 2004 à Montréal (Québec)
+Devant : L’honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l’appelante :
+Me Robert M. Joseph
+Avocate de l’intimée :
+Me Annick Provencher
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1998, 1999 et 2000 sont accueillis sans dépens, et les questions sont renvoyées au ministre du Revenu national pour qu’il les réexamine et qu’il établisse de nouvelles cotisations en tenant compte de ce qui suit :
+a) l’appelante a omis de déclarer des revenus de 2 866,73 $ en 1998, de 16 143,82 $ en 1999 et de 9 053,10 $ en 2000;
+b) les pénalités imposées en vertu du paragraphe 163(2) de la Loi sont éliminées.
+Signé à Ottawa, Canada, ce 5e jour d’août 2005.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 2e jour de mai 2006.
+Mario Lagacé, jurilinguiste
+Référence : 2005CCI351
+Date : 20050805
+Dossier : 2002-3956(IT)G
+ENTRE :
+GAVRIEL WAJSFELD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2002-3955(IT)I
+ET ENTRE :
+2640-0614 QUÉBEC INC.
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+[1] Il s’agit d’appels interjetés par Gavriel Wajsfeld et la société 2640-0614 Québec Inc. (« la société Québec ») à l’encontre de cotisations fondées sur la valeur nette établies pour M. Wajsfeld pour les années 1998 et 1999, de même que pour la société Québec pour les années d’imposition 1998, 1999 et 2000 (dont chacune s’est terminée le 28 février). Les cotisations comprennent des pénalités imposées en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (« la Loi ») au motif que chaque appelant a sciemment, ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans les déclarations de revenus pour les années en cause[1].
+[2] M. Wajsfeld est l’unique actionnaire de la société Québec, une société qui exploite une entreprise de vente et d’installation de tapis et qui porte le nom de « Tapis Provincial Carpet ».
+[3] Le ministre du Revenu national a calculé la valeur nette de M. Wajsfeld pour les années 1998 et 1999 et il a déterminé qu’il y avait dans ses déclarations de revenus des écarts de 42 878,87 $ pour 1998 et de 22 345,11 $ pour 1999. Le ministre a établi de nouvelles cotisations à l’égard de M. Wajsfeld pour les années 1998 et 1999, respectivement, en ajoutant ces montants à son revenu à titre d’avantages que lui a conférés la société Québec sous forme d’affectations de fonds. Le ministre a établi une nouvelle cotisation à l’égard de la société Québec pour les années 1998, 1999 et 2001 en ajoutant au revenu d’entreprise les montants de 7 146,48 $, de 39 456,58 $ et de 18 620,93 $ respectivement. Les cotisations fondées sur la valeur nette établies à l’égard de la société reposaient sur les calculs de la valeur nette effectués pour la période allant du 1er janvier 1998 au 31 décembre 1999 en vue d’établir une cotisation pour M. Wajsfeld, qui ont été répartis sur les trois années d’imposition de la société Québec allant du 1er mars 1997 au 28 février 2000.
+[4] M. Steve Sahakian, le vérificateur de l’Agence du revenu du Canada (« l’ARC »), qui a fait la vérification des affaires de M. Wajsfeld, a établi des relevés de la valeur nette, faisant notamment état de l’actif et du passif de M. Wajsfeld et comprenant une liste des dépenses personnelles engagées par la famille Wajsfeld, pour déterminer le revenu estimatif de M. Wajsfeld pour les années 1998 et 1999 selon la méthode de la valeur nette. L’avocat de M. Wajsfeld a établi, ou fait établir, des relevés semblables à ceux qu’avait établis M. Sahakian, qui faisaient ressortir des différences entre les deux démarches. Les parties ne s’entendent pas sur au moins quatre éléments des relevés de la valeur nette du ministre. Voici les quatre éléments en question :
+a) la somme d’argent totale empruntée par M. Wajsfeld à sa belle-mère, Jolan Braun, au 31 décembre 1997; le ministre estime que le montant emprunté s’élevait à 85 000 $; l’appelant dit que la somme était de 66 000 $ à la fin de 1997 et de 85 000 $ à la fin de 1999;
+b) la question de savoir si, au 31 décembre 1998, M. Wajsfeld devait la somme de 5 000 $, comme il l’a dit; le ministre n’a pas tenu compte des 5 000 $ comme dette payable par lui à la fin de 1998, pas plus qu’il n’a constaté le supposé remboursement du prêt en 1999. En effet, le ministre considérait que M. Wajsfeld était le créancier d’une dette de 5 000 $ en 1999;
+c) la source des fonds utilisés pour rembourser un prêt de 18 500 $ contracté par M. Wajsfeld, qui, ensuite, l’a censément avancé à la société Québec;
+d) la question de savoir si les dépenses personnelles de M. Wajsfeld ont été surestimées par l’ARC, en particulier si le ministre a comptabilisé en double certains montants en considérant un même montant comme deux dépenses différentes, par exemple, les frais médicaux et les frais portés au compte Visa.
+[5] Les appels ont été entendus sur preuve commune. M. Wajsfeld, son épouse et un ami, Abraham Reiman, ont témoigné pour les appelants. M. Sahakian a été le témoin de la Couronne.
+[6] Mme Wajsfeld a décrit le niveau de vie de la famille pendant les années en cause. M. et Mme Wajsfeld avaient six enfants âgés de 0 à 12 ans. Mme Wajsfeld avait des frères et sœurs à New York et à Montréal. Sa mère, Jolan Braun, qui avait 84 ans au moment du procès, vivait dans une maison en face de celle des Wajsfeld; en 1998, on lui a diagnostiqué les premiers signes de la maladie d’Alzheimer.
+[7] Étant donné la maladie de sa mère, Mme Wajsfeld s’occupait de ses propres affaires bancaires et de celles de sa mère. Elle écrivait des chèques que sa mère signait. Sa mère ne parlait ni le français ni l’anglais.
+[8] En 1998 et en 1999, Mme Wajsfeld était étudiante à l’Université du Québec à Montréal. Son revenu provenait d’un prêt étudiant, de bourses de perfectionnement, d’une allocation familiale, du crédit pour taxe sur les produits et services, de remboursements d’impôt et de subventions. Elle a aussi reçu un remboursement d’impôt provincial de 3 362 $ en 1999[2].
+[9] Mme Wajsfeld a témoigné qu’elle n’achète pas beaucoup de vêtements. Sa sœur qui habite à New York lui envoie des vêtements de seconde main. Elle a ajouté qu’elle achète des vêtements à Montréal pour des amis aux États-Unis et que les quelque 2 000 $ qu’elle dépense chaque année pour ses amis ainsi que ses frères et sœurs américains lui sont remboursés.
+[10] Mme Wajsfeld dit qu’elle effectue et qu’elle paie tous les achats du ménage, par exemple la nourriture, les médicaments sur ordonnance, les paiements hypothécaires, les frais de scolarité et les dons de bienfaisance. Elle paie au comptant, par chèque, par carte de débit, par carte de crédit et par des moyens électroniques. Mme Wajsfeld a produit des copies de carnets de chèques bancaires et des relevés de carte de crédit Visa de la CIBC. Elle a témoigné qu’elle devait emprunter de l’argent de sa mère pour pouvoir payer les factures; sa mère lui avait aussi prêté de l’argent pour acheter et rénover une maison que les Wajsfeld avaient achetée en 1997. Elle a indiqué que la situation financière de la famille n’était pas très bonne.
+[11] M. Wajsfeld a aussi témoigné que la situation financière de la famille pendant les années en cause était désolante. Il ne recevait ni salaire ni dividendes de la société Québec. Il s’occupait d’une dame âgée en soirée pour arrondir les revenus de la famille. Il a corroboré le témoignage de son épouse en disant que la famille n’achetait que l’« essentiel » et que les vêtements de la famille étaient des vêtements de seconde main. Il devait emprunter de l’argent à sa belle-mère et à ses amis. Il a dit avoir effectivement reçu un remboursement d’impôt provincial de 2 827 $ en 1999 qu’il aurait pu déposer dans un compte bancaire[3].
+[12] Pour ces raisons, je tenterai d’aborder les questions dans l’ordre établi au paragraphe [4] des présents motifs.
+A. Prêts de la belle-mère de l’appelant
+[13] La mère de Mme Wajsfeld avait deux comptes bancaires, un à la Banque Canadienne Impériale de Commerce (« la CIBC »), et l’autre à la Banque de Nouvelle-Écosse. Mme Wajsfeld a passé en revue divers retraits du compte de la CIBC, à partir du 11 juin 1997, lorsqu’un chèque de 5 000 $ a été émis pour l’achat de la maison de la famille Wajsfeld. Une traite bancaire de 45 000 $ de la CIBC, en date du 10 juillet 1997, a été envoyée à un notaire en fidéicommis pour l’achat de la résidence de la famille Wajsfeld. Des chèques de 2 000 $, de 4 000 $ et de 10 000 $ ont été tirés sur le compte bancaire de Mme Braun au profit de la famille Wajsfeld les 5 et 15 décembre 1997 respectivement. Deux chèques ont été tirés le 15 décembre 1997. Ces chèques totalisent 66 000 $. Des chèques supplémentaires aux montants de 8 000 $, de 5 000 $ et de 6 000 $ (totalisant 19 000 $ de plus en 1998) ont été émis par Mme Braun au profit des Wajsfeld le 13 janvier, le 26 janvier et le 11 février 1998 respectivement pour payer les rénovations faites à la maison, a dit Mme Wajsfeld. La famille a emménagé dans sa nouvelle résidence en mars 1998. Mme Braun a avancé la somme supplémentaire de 5 000 $ aux Wajsfeld en 1999.
+[14] M. Wajsfeld s’est rappelé que sa belle-mère leur avait prêté, à lui et son épouse, 50 000 $ lorsqu’il a acheté la maison en 1997 et plus tard 40 000 $ pour des rénovations. En tout, selon lui, il a emprunté 90 000 $ à sa belle-mère pour la résidence.
+Décision
+[15] Il n’y a aucune preuve selon laquelle Mme Braun aurait avancé 85 000 $ aux Wajsfeld à la fin de 1997; selon la preuve recueillie, Mme Braun a prêté à sa fille et à son gendre 66 000 $ à la fin de 1997 et elle leur a avancé des sommes supplémentaires totalisant 19 000 $ en 1998 et 5 000 $ en 1999.
+B. Mobilier Masson
+[16] Selon le ministre, parmi les éléments d’actif de M. Wajsfeld en 1999, il y avait un prêt de 5 000 $ à Mobilier Masson, un magasin de meubles et d’appareils ménagers, voisin de Tapis Provincial Carpet. M. Wajsfeld a indiqué que les 5 000 $ ont été retirés de son compte Power Line, une marge de crédit de la Canada Trust, pour rembourser un prêt à M. Reiman, le propriétaire de Mobilier Masson. M. Wajsfeld a dit qu’il a donné un chèque en blanc à M. Reiman, qui a écrit le nom « Mobilier Masson » sur le chèque à titre de preneur. M. Wajsfeld a insisté que les mots « Mobilier Masson » inscrits comme preneur du chèque ne sont pas écrits de sa main. La note [TRADUCTION] « Paiement de prêt » sur le chèque, a dit M. Wajsfeld, indique que les fonds visaient à rembourser le prêt, et non pas à consentir un prêt. M. Wajsfeld a affirmé que les 5 000 $ représentaient un remboursement de fonds qu’il avait empruntés à M. Reiman au début de 1998 pour rénover la résidence des Wajsfeld. La rénovation de cette nouvelle résidence a débuté au cours de l’été de 1997.
+[17] M. Reiman a corroboré le témoignage de M. Wajsfeld selon lequel M. Wajsfeld lui a donné un chèque de 5 000 $ en remboursement d’un prêt. M. Reiman était [TRADUCTION] « certain à 99 pour 100 » que le nom du preneur avait été laissé en blanc. M. Reiman a dit qu’il n’avait pas emprunté d’argent à M. Wajsfeld, mais que M. Wajsfeld lui en avait emprunté à lui. Il a dit qu’il avait prêté de l’argent à M. Wajsfeld avant que les rénovations ne débutent dans la résidence des Wajsfeld. Il a avoué que le prêt n’avait pas été mis par écrit.
+[18] Le ministre était initialement d’avis que les 5 000 $ constituaient un paiement par l’appelant de meubles achetés de Mobilier Masson. Plus tard, après une rencontre avec M. Wajsfeld, M. Sahakian a conclu d’après une conversation avec M. Wajsfeld que l’appelant avait prêté 5 000 $ à Mobilier Masson et il a consigné les 5 000 $ comme un élément d’actif de l’appelant.
+Décision
+[19] M. Wajsfeld et M. Reiman s’entendent pour dire que M. Wajsfeld n’a jamais été un créancier de Mobilier Masson. Ce fait n’est aucunement contesté par la preuve. Les 5 000 $ n’étaient pas un élément d’actif de M. Wajsfeld à la fin de 1999. L’inscription à l’annexe I du relevé de la valeur nette établi par l’ARC qui concerne l’avoir personnel de M. Wajsfeld ne devrait pas inclure de montant correspondant à un prêt consenti à Mobilier Masson[4]. Toutefois, à la fin de 1998, M. Wajsfeld avait une dette de 5 000 $ envers M. Reiman.
+C. Prêt consenti à la société Québec
+[20] M. Wajsfeld dit qu’il a prêté 18 500 $ à la société Québec le 22 mai 1998. Il a expliqué que les 18 500 $ provenaient de sa marge de crédit auprès de la Canada Trust. Il dit qu’il a emprunté l’argent afin de le prêter à la société Québec pour que celle‑ci puisse payer ses factures. L’ARC a compté les 18 500 $ comme dépenses de M. Wajsfeld en 1993, bien qu’une note à l’annexe IV du relevé de la valeur nette établi par l’ARC indique que les 18 500 $ [TRADUCTION] « pourraient être comptés comme un élément d’actif ».
+[21] Après le mois de mai 1998, des paiements ont été faits à la marge de crédit, par exemple 6 000 $ le 24 juillet de même que le 25 août 1998, des paiements de 1 000 $ le 23 juin 1998 et de 600 $ le 9 septembre 1998, des paiements totalisant 3 363,05 $ en octobre, et des paiements réguliers au cours des mois suivants. M. Wajsfeld a tiré un chèque payable à la caisse sur son compte de la Canada Trust apparemment le 27 mai 1998 au montant de 8 438 $ (chèque numéro 004). Il y a une série de mandats de la Canada Trust et de la Banque Nationale du Canada, chacun au montant de 1 000 $, payables à la Canada Trust. Le 24 juillet 1998, M. Wajsfeld dit qu’il a utilisé six des mandats pour payer 6 000 $ à la Canada Trust en réduction des 18 500 $. Parmi les paiements faits à la Canada Trust il y a un chèque de 1 248 $ payable à la caisse émis par M. Joshua Lerner, un client de la société Québec. M. Wajsfeld dit qu’il a aussi payé 6 000 $ à la Canada Trust le 25 août 1998. Il se souvient qu’il avait l’habitude de convertir de l’argent comptant en traites bancaires dans le cadre de son entreprise. Les fonds provenaient des activités commerciales de la société Québec, a‑t‑il dit. M. Wajsfeld a expliqué que le comptable de la société Québec se promenait dans le quartier avec les traites bancaires et qu’il les échangeait contre de l’argent comptant. M. Wajsfeld a insisté que ce fait se reflétait dans les livres comptables de l’entreprise. Le comptable de la société Québec qui, selon l’avocat de l’appelant avait 89 ans au moment du procès, n’a pas témoigné. Les livres comptables de la société n’ont pas été produits.
+[22] L’avocat de l’appelant a fait valoir que le prêt de 18 500 $ à la société Québec devrait être ramené à zéro dans les relevés de la valeur nette établis par M. Sahakian. Il a aussi fait valoir que M. Wajsfeld avait reçu les traites bancaires de son comptable et que les traites en question avaient été déposées. Les traites bancaires, a‑t‑il avancé, représentent l’argent comptant découlant des activités commerciales de la société Québec. Alors, en effet, il y a eu remboursement du prêt que l’appelant avait fait à la société Québec.
+[23] L’avocat de l’appelant a fait allusion à diverses traites bancaires déposées, de même qu’au chèque de 1 248 $ payable à la caisse émis par Joshua Lerner. L’avocat pose la question suivante : si M. Sahakian a raison de supposer que le prêt a été consenti par un tiers, pourquoi le chèque de M. Lerner serait‑il utilisé pour payer la société Québec?
+Décision
+[24] M. Wajsfeld a témoigné qu’il a eu recours à sa marge de crédit Power Line de la Canada Trust pour emprunter 18 500 $, qu’il a ensuite prêtés à la société Québec pour permettre à celle‑ci d’exploiter son entreprise. Le fait que le prêt a été fait n’est pas contesté. Ce qui est contesté, c’est la source des fonds utilisés pour rembourser le prêt à la Canada Trust. M. Wajsfeld dit que la société Québec est la source, l’intimée n’est pas d’accord. La position de l’intimée repose sur le fait que M. Wajsfeld a fait savoir à M. Sahakian pendant la vérification qu’il avait obtenu les traites bancaires d’une connaissance. L’ARC a supposé que la connaissance, ou quelqu’un d’autre que M. Wajsfeld, a fait le prêt à la société Québec. Toutefois, l’avocat de M. Wajsfeld a fait valoir que la connaissance était le comptable de la société Québec, qui a échangé les traites bancaires contre de l’argent comptant afin de permettre à M. Wajsfeld de rembourser la Canada Trust.
+[25] Je suis d’accord avec l’avocate de l’intimée pour dire qu’il n’existe aucune preuve, aucune trace écrite, que la société Québec a fait des paiements à la Canada Trust avec ses propres fonds. Les conditions particulières de l’octroi du prêt et de son remboursement sont inusitées, voire étranges. Le témoignage de M. Wajsfeld au sujet des 18 500 $ est tellement inhabituel qu’il pourrait bien être vrai. On dit souvent que la réalité dépasse la fiction. Cependant, je conviens avec l’avocate de l’intimée qu’il n’existe aucune preuve indépendante qui donne à penser, et à plus forte raison qui prouve, que les sommes utilisées pour rembourser le prêt provenaient des opérations commerciales de la société Québec. Je n’ai pas confiance en la capacité de M. Wajsfeld de se souvenir des événements de 1998 à cet égard. Les livres comptables de la société Québec auraient pu être produits pour corroborer le témoignage de M. Wajsfeld selon lequel les sommes utilisées pour rembourser le prêt ont été consignées dans ces livres. Malheureusement, étant donné l’âge du comptable, l’appelant n’a pas appelé le comptable de la société Québec à témoigner pour confirmer l’échange d’argent comptant contre des traites bancaires. Il n’existe aucune preuve tangible qui me permette de convenir avec l’appelant que la société Québec a financé le remboursement des 18 500 $.
+D. Dépenses personnelles
+[26] M. Wajsfeld s’est fait demander durant la vérification effectuée par l’ARC de dresser la liste de ses frais de subsistance pour 1999. Selon le formulaire établi par Mme Wajsfeld le 5 juillet 2000, par exemple, la famille a dépensé 2 500 $ pour des vêtements et 15 000 $ pour de la nourriture. M. Sahakian a utilisé les montants fournis par les Wajsfeld pour déterminer les dépenses personnelles de M. Wajsfeld. Quand M. Sahakian a fait ses premiers calculs de la valeur nette, M. Wajsfeld a contesté la somme de 15 000 $ consacrée à la nourriture, en disant que l’ARC avait comptabilisé des dépenses en double en incluant dans la nourriture des articles comme des journaux, du tabac et des frais médicaux. M. Sahakian a par la suite réduit à 10 000 $ les dépenses consacrées à la nourriture. Il a estimé à 4 000 $ les dépenses relatives à l’achat de tabac, de journaux et de médicaments, ainsi qu’à des dons de bienfaisance. Il dit qu’il n’a pas tenu compte des dépenses de moins de 500 $.
+[27] Pour 1998, M. Sahakian a déterminé que M. Wajsfeld avait eu des dépenses personnelles totalisant 53 775,99 $. (Ce montant comprend les 18 500 $ qu’il a prêtés à la société Québec.) M. Sahakian a pu déterminer que M. Wajsfeld a retiré 54 318,83 $ de son compte de la Banque Laurentienne en 1998 et il a pu cerner les dépenses pour lesquelles les retraits ont été effectués, à l’exception de retraits totalisant 1 738,05 $. Apparemment, il y avait aussi des dépenses identifiées de 11 134 $ effectuées par M. Wajsfeld qui n’avaient pas été justifiées, ce qui, si j’ai bien compris, signifie que la source des fonds pour payer ces dépenses est inconnue. L’avocate de l’intimée a indiqué que les dépenses non justifiées pour 1998 et 1999 sont des dépenses qui ont été payées en argent comptant, provenant d’un revenu non déclaré.
+[28] L’avocat de M. Wajsfeld a avancé que, dans son analyse des retraits effectués dans le compte de la Banque Laurentienne, M. Sahakian n’a pas déduit les retraits des dépôts, dans la mesure où, si une somme était retirée et qu’un dépôt était fait après, le dépôt n’était pas pris en compte. Par exemple, si M. Wajsfeld retirait 500 $, le retrait de 500 $ était consigné par M. Sahakian. Cependant, si M. Wajsfeld n’avait pas besoin de 500 $ et qu’il déposait 100 $, les 100 $ n’étaient pas pris en compte. Cependant, l’avocat n’a pas produit de preuve concernant ces dépôts pour corroborer sa théorie.
+[29] Lorsqu’il a analysé le compte de la Banque Laurentienne, M. Sahakian, selon l’avocat de l’appelant, a apparemment commis une erreur dans son traitement de deux dépôts, à savoir un dépôt de 5 000 $ fait le 13 janvier 1998 et un dépôt de 1 000 $ fait le 10 février 1998. Le dépôt de 5 000 $ correspondait au solde d’un chèque de 8 000 $ dont 3 000 $ ont été pris en argent comptant; le dépôt de 1 000 $ était le reste d’un chèque de 6 000 $ dont 5 000 $ ont été pris en argent comptant. L’argent comptant, soit 8 000 $ en tout, a été utilisé pour rénover la résidence des Wajsfeld, et M. Sahakian n’a pas inclus les 8 000 $ comme retrait bancaire. L’avocat a laissé entendre que M. Sahakian [TRADUCTION] « avait perdu de la perspective » en traitant un dossier sur une période de plus de six mois et peut-être même de dix mois, ce qui fait qu’il avait omis cet élément.
+[30] L’avocate de l’intimée s’est opposée à l’interprétation de l’avocat de l’appelant du traitement par M. Sahakian de la somme en argent comptant de 8 000 $. Les 8 000 $, selon elle, n’ont jamais été déposés dans le compte bancaire de M. Wajsfeld, il est vrai, mais ils ont été utilisés par les Wajsfeld pour rénover leur résidence, et M. Sahakian a inclus les 8 000 $ dans les coûts des rénovations, à savoir 130 576 $, en 1998; M. Sahakian a considéré les 30 575 $ comme un retrait identifié de la Banque Laurentienne, même si seuls 22 576 $ ont effectivement été retirés du compte; le reste des 8 000 $ était de l’argent comptant. L’erreur de M. Sahakian a été de considérer les 8 000 $ comme un retrait du compte bancaire. Les 8 000 $ n’ont jamais été retirés, car ils n’ont jamais été déposés.
+[31] Les dépenses non justifiées pour 1998 comprennent des paiements portés au compte Visa TD de l’appelant, qui ont été effectués à partir du compte de la Banque Laurentienne. Un don de 75 $ a été fait par carte Visa TD. Les dons faits par M. Wajsfeld s’élèvent à 1 750 $ dans les relevés de la valeur nette établis par M. Sahakian; la question est de savoir si les 75 $ sont inclus dans les 1 750 $. La carte de crédit principale des Wajsfeld était une carte Visa de la CIBC. M. Sahakian a reconnu qu’il n’a pas examiné les relevés de la carte Visa de la CIBC très attentivement. En 1998, les Wajsfeld ont pris 1 098 $ dans le compte de la Banque Laurentienne pour rembourser des sommes portées à leur carte de crédit Visa de la CIBC. La carte de crédit Visa de la CIBC comprenait 672,01 $ de frais payés à des pharmacies. L’appelant a indiqué que les 672,01 $ sont inclus dans les frais médicaux de 726 $ figurant sur la liste des dépenses établie par M. Sahakian. Il est possible que l’ARC ait inclus les 672 $ ainsi que les 726 $ dans les dépenses personnelles de l’appelant, c’est-à-dire, des frais médicaux ont été considérés comme des dépenses portées à la carte Visa de la CIBC si la personne avait utilisé la carte Visa pour payer les frais médicaux. L’avocate de l’intimée a fait remarquer que le gros des prétendus frais médicaux sont des paiements faits à des pharmacies; ces paiements peuvent avoir été faits pour des ordonnances, mais ils peuvent aussi avoir été faits pour l’achat d’articles divers. Je suis d’accord.
+[32] L’avocat de l’appelant a parlé des retraits non identifiés de 1 738 $ faits à la Banque Laurentienne en 1998 dans les relevés de M. Sahakian. L’avocat a décrit les dépenses non justifiées de 11 134 $, qui incluent les frais d’intérêt et d’assurance sur la marge de crédit (805 $), des dépenses engagées pour acheter du tabac et de l’alcool (1 200 $), des dépenses effectuées pour acheter des journaux (500 $) et des frais médicaux (726 $), qu’il avait mentionnés plus tôt et qu’il considère comme ayant été comptabilisés en double, ce qui fait qu’ils devraient être retirés comme dépenses non justifiées, des dons de bienfaisance (1 750 $), des taxes municipales (3 928 $), des taxes scolaires (1 725 $) et des paiements au compte Visa de la TD (1 500 $).
+[33] L’avocat de l’appelant a ensuite laissé entendre que, étant donné que M. Sahakian estimait qu’il avait un coussin de 5 000 $, puisqu’il avait réduit les dépenses alimentaires de 5 000 $, il pouvait être plus exigeant dans son examen des autres dépenses.
+[34] L’avocat de l’appelant était d’avis que les retraits non identifiés avaient été utilisés pour payer les dépenses non justifiées. Il était d’avis que l’inclusion des dépenses non justifiées et des retraits non identifiés constitue une double comptabilisation.
+[35] En 1999, les Wajsfeld ont payé 400 $ en frais médicaux par chèques tirés sur le compte de la Banque Laurentienne. Ils ont aussi engagé des frais supplémentaires de 1 041,93 $ pour des achats dans les pharmacies, et ils ont payé 50 $ à un médecin; les 1 091,93 $ ont été payés au moyen de la carte de crédit Visa de la CIBC. Des dépenses personnelles supplémentaires de 176,43 $ ont été payées au moyen d’une carte Visa de la TD, dont 65 $ ont été payés à un médecin. L’avocat de l’appelant a admis que les 1 042 $ ne visent pas uniquement des frais médicaux. À son avis, les 746 $ considérés comme des frais médicaux par M. Sahakian ont aussi été inclus dans les retraits non identifiés du compte de la Banque Laurentienne, et dans les montants portés aux cartes de crédit Visa de la TD ou de la CIBC.
+[36] Les dépenses non justifiées pour 1999 s’élevaient à 15 584 $. Encore une fois, l’avocat de l’appelant a dit que le montant devait être réduit de 5 000 $ en raison de la méthode adoptée par M. Sahakian. Il a donné à entendre que les 10 584 $ sont près des 11 778,16 $ de retraits que M. Sahakian n’a pas pu identifier en 1999; encore, les retraits non identifiés ont servi à payer les dépenses non justifiées. Cependant, dans ce cas aussi, l’avocat n’a pas pu valider sa théorie.
+[37] M. Wajsfeld m’a convaincu que d’autres dépenses personnelles énumérées par M. Sahakian n’ont pas été payées par lui ou ont été comptabilisées en double. Ces dépenses comprennent la somme de 1 678 $ payée en 1998 à la Ville de Montréal au titre des taxes, somme qui provenait de la belle-mère de l’appelant. En 1999, les frais de scolarité de 776 $ de Mme Wajsfeld et les dons de bienfaisance de 1 800 $ ont été inclus dans d’autres postes; les 2 716 $ de paiements portés à la carte Visa TD totalisant 6 059 $ ont été payés à partir du compte de Mme Braun. Ces montants devraient être supprimés de la liste des dépenses personnelles.
+[38] Lorsqu’il a redressé l’augmentation de la valeur nette de M. Wajsfeld pour 1999, M. Sahakian aurait dû soustraire les remboursements d’impôt provincial de 2 287,37 $ à M. Wajsfeld et de 3 361,95 $ à Mme Wajsfeld.
+Pénalités
+[39] Des pénalités ont été imposées aux deux appelants en vertu du paragraphe 163(2) de la Loi au motif que chacun d’entre eux a sciemment ou dans des circonstances équivalant à faute lourde fait un faux énoncé ou une omission dans ses déclarations de revenus pour les années en cause, ou y ont participé.
+[40] Le paragraphe 163(3) impose au ministre la charge d’établir les faits qui justifient l’imposition de pénalités en vertu du paragraphe 163(2) de la Loi.
+[41] Les deux appelants jugent que le ministre n’a pas le droit de leur imposer des pénalités en vertu du paragraphe 163(2), car il n’a pas établi les faits justifiant l’imposition des pénalités en question.
+[42] L’avocat des appelants fait valoir que le ministre n’a pas établi qu’il y avait eu revenu déclaré en moins. Il estime que les relevés de la valeur nette ne sont que des hypothèses contestables formulées par le ministre pour établir des cotisations d’impôt que les appelants n’ont pas pu réfuter. Les appelants sont d’avis qu’en faisant ces hypothèses, le ministre ne s’est pas acquitté de la charge que lui impose le paragraphe 163(3).
+[43] De plus, l’avocat de l’appelant fait valoir que le ministre avait l’obligation de déterminer le montant de toute présumée déclaration en moins du revenu ou les circonstances dans lesquelles ces déclarations ont été faites. Il dit que le ministre n’a jamais établi que les livres comptables de l’entreprise étaient inadéquats et qu’il n’a jamais interrogé les appelants sur les livres comptables de l’entreprise pendant son contre-interrogatoire, pas plus qu’il n’a proposé de montant pour la déclaration en moins de revenus, à part les montants indiqués dans les relevés de la valeur nette.
+[44] L’avocat de l’appelant a aussi dit que le ministre a l’obligation d’établir que la déclaration en moins de revenus a été faite sciemment ou dans des circonstances équivalant à faute lourde. Il indique que l’intimée n’a aucunement prouvé la connaissance des appelants à cet égard. De plus, il dit qu’aucun fait n’a été établi pour soutenir l’aveuglement volontaire des appelants dans les circonstances.
+[45] L’intimée estime qu’il n’y a aucun doute, étant donné les montants de revenus non déclarés après jugement, que les appelants ont fait de faux énoncés dans leurs déclarations de revenus. Par conséquent, l’avocate de l’intimée ne se penche que sur la question de savoir si les faux énoncés ont été faits sciemment ou dans des circonstances équivalant à faute lourde.
+[46] L’avocate de l’intimée indique que l’intimée a établi l’indifférence des appelants quant à l’observation de la Loi. Les montants ajoutés au revenu des appelants sont importants. L’importance des montants de revenus non déclarés, en particulier lorsqu’on les compare aux montants de revenus déclarés, démontre clairement que les appelants savaient, ou qu’ils auraient dû savoir, n’eut été leur aveuglement volontaire, que leurs revenus avaient manifestement été déclarés en partie seulement. L’intimée affirme qu’un tel aveuglement volontaire constitue une faute lourde qui justifie l’imposition des pénalités en vertu du paragraphe 163(2).
+[47] Dans la décision Fortis v. M.N.R.[5], la Cour a indiqué ce qui suit :
+Pour qu’une pénalité puisse être imposée en vertu du paragraphe 163(2), les conditions suivantes doivent être remplies :
+a) l’existence d’une dette fiscale;
+b) l’existence d’un faux énoncé ou d’une omission dans une déclaration faite en vertu de la Loi ou du Règlement;
+c) la connaissance de la personne ou des circonstances permettant de lui imputer une faute lourde lorsqu’elle a fait un faux énoncé ou une omission;
+d) l’existence d’un revenu déclaré en moins pour une année, au sens du paragraphe 163(2.1), qui est attribuable de façon raisonnable au faux énoncé ou à l’omission.
+[48] Dans le même ordre d’idée, le juge en chef Bowman (alors juge en chef adjoint) a fait remarquer ce qui suit dans le jugement qu’il a rendu dans Urpesz v. Canada[6] :
+[…] En vertu du paragraphe 163(3), l’intimée a le fardeau de prouver tous les éléments constitutifs nécessaires du paragraphe 163(2). Cela comprend le fait de prouver le montant de revenu qui a été déclaré en moins, le bien-fondé du montant de la pénalité et le fait que la déclaration en moins a été effectuée sciemment ou dans des circonstances équivalant à faute lourde.
+[49] Cependant, sous la plume du juge Décary, la Cour d’appel, dans l’arrêt Pompa v. Canada[7], s’est opposée à la proposition selon laquelle le ministre a la charge d’établir avec certitude le montant de revenus non déclarés par un contribuable lorsqu’une pénalité a été imposée et que le paragraphe 163(3) a été appliqué. Le juge Décary s’est référé à la décision du juge Martin dans le jugement Kerr v. M.N.R.[8] Dans cette décision, le juge Martin a indiqué ce qui suit :
+Le principe voulant que le ministre devrait déterminer le montant exact des revenus déclarés en moins avant qu’une pénalité puisse être imposée trouve appui dans l’affaire Fortis et autres c. Ministre du Revenu national, [1986] 2 C.C.I. 2378, à la p. 2386, où la Cour a statué qu’aucune pénalité ne pouvait être imposée parce que les revenus non déclarés déterminés par une cotisation de valeur nette ne constituait tout au plus qu’un montant estimatif.
+Si tel était le cas, il deviendrait impossible d’imposer une pénalité lorsqu’une cotisation de valeur nette a été établie. Pour justifier l’imposition d'une pénalité conformément au paragraphe 163(2), il n’est pas nécessaire, à mon avis, de déterminer le montant exact des revenus non déclarés. Il suffit que le ministre prouve qu’il y a eu faute lourde de la part d’un contribuable, ou des faits ayant donné lieu à une faute lourde, en faisant un faux énoncé dans une déclaration d’impôt sur le revenu.
+[50] Dans les présents appels, les montants suivants de revenus non déclarés, fondés sur la valeur nette, ont été ajoutés aux revenus déclarés de M. Wajsfeld et de la société Québec :
+Année d’imposition
+Revenu déclaré par M. Wajsfeld
+Revenu non déclaré après jugement
+1998
+4 570,00 $
+17 199,88 $
+1999
+12 822,00 $
+10 863,77 $
+Année d’imposition
+Revenu net déclaré par 2640-0614 Québec Inc.
+Revenu non déclaré après jugement
+1998
+(1 186 $)
+2 866,64 $
+1999
+122 $
+16 143,82 $
+2000
+(4 965 $)
+9 053,10 $
+[51] Bien que les relevés de la valeur nette puissent être simplement des hypothèses contestables qui ne peuvent pas en elles-mêmes décharger le ministre du fardeau que lui impose le paragraphe 163(3), comme l’ont souligné les appelants, dans les cas où des relevés de la valeur nette sont établis, comme en l’espèce, le ministre peut utiliser ces relevés pour prouver qu’il y a eu déclaration en partie seulement du revenu pour l’application du paragraphe 163(2).
+[52] Aux termes de l’alinéa 163(2.1)a), le « revenu déclaré en moins », pour l’application du paragraphe (2), s’entend du total de tous les montants qui n’ont pas été déclarés. Pour paraphraser l’alinéa 163(2.1)a), un « revenu déclaré en moins » correspond à l’excédent du montant total de revenus non déclarés sur le montant total que la personne aurait pu déduire et qu’elle n’a pas déduit.
+[53] Dans la décision Fortis[9], le juge s’est penché sur la question de savoir si un tribunal peut accepter sans aucune autre preuve le revenu déterminé par le ministre lors de l’établissement d’une cotisation fondée sur la valeur nette à titre d’indication de la sous-déclaration par le contribuable de revenus pour l’année pour l’application du paragraphe 163(2) :
+Toutefois, dans le cas d’un appel de l’imposition d’une pénalité prévue par les paragraphes 163(1) et (2), les faits découverts ou présumés par le répartiteur ou le ministre ne peuvent être acceptés comme ils ont été présentés par ces personnes puisque, par suite de l’entrée en vigueur du paragraphe 163(3), le ministre a l’obligation, de par la loi, d’établir les faits justifiant l’imposition de la pénalité. Le ministre ne peut plus se fonder sur les présomptions invoquées dans sa réponse à l’avis d’appel pour faire la preuve d’un fait justifiant l’imposition de la pénalité. […]
+Si le ministre est autorisé à utiliser sa propre détermination arbitraire du revenu pour l’année déclaré en moins, qui est fondée sur une évaluation de la valeur nette, le contribuable a le fardeau de réfuter le fait sur lequel la pénalité repose : comme nous l’avons déjà déclaré, ceci est contraire au paragraphe 163(3) de la Loi. […]
+Plus loin dans le jugement Fortis, le juge explique ce qui suit :
+[…] La production, par le ministre, des états de la valeur nette qu’il avait préparés pour établir les cotisations ne constitue qu’une preuve de l’existence des états; aux fins du paragraphe 163(3), il faut prouver leur contenu, ce que le ministre n’a pas fait. […][10]
+[54] L’intimée a déterminé que le contenu des relevés de la valeur nette est raisonnable et, par conséquent, j’ai déterminé qu’il y a eu déclaration en moins de revenus par les appelants.
+[55] J’ai conclu que les appelants n’ont pas déclaré leurs revenus réels pour les années visées par les cotisations et qu’ils ont fait de faux énoncés dans leurs déclarations de revenus. Par conséquent, il ne reste pour l’intimée qu’à démontrer que les faux énoncés ont été faits sciemment ou dans des circonstances équivalant à faute lourde. Il s’agit de l’élément de l’intention coupable ou de la faute lourde.
+[56] L’intimée n’a pas établi que les appelants ont sciemment ou dans des circonstances équivalant à faute lourde fait de faux énoncés ou une omission dans leurs déclarations de revenus. M. et Mme Wajsfeld vivaient frugalement. Rien n’indique que M. Wajsfeld savait ou avait même une idée de combien d’argent il avait besoin pour faire vivre sa famille comme il le faisait. L’intimée a tout de même tenté de prouver combien d’argent une famille de la taille de celle de M. Wajsfeld avait besoin pour vivre, mais ni M. ni Mme Wajsfeld n’ont été interrogés lors du contre-interrogatoire pour déterminer combien chacun d’eux estimait, ou aurait dû estimer, avoir besoin. L’intimée ne s’est pas acquittée de la charge que lui impose le paragraphe 163(3). Le ministre doit faire plus que tout simplement se fier à l’incapacité d’un contribuable de réfuter une cotisation fondée sur la valeur nette et faire ressortir un montant élevé de revenus non déclarés pour s’acquitter de sa charge en vertu du paragraphe 163(3). Dans la cause Boileau v. M.N.R.[11], la juge Lamarre Proulx a eu affaire à un cas où l’appelant n’arrivait pas à réfuter les cotisations fondées sur la valeur nette, ce qui a donné lieu au calcul d’un montant élevé de revenus non déclarés. La juge Lamarre Proulx a dit ce qui suit :
+[…] Cependant, cela ne suffit pas selon moi pour que le ministre s’acquitte du fardeau de la preuve qui lui incombe. En décider autrement serait enlever tout objet au paragraphe 163(3) en renversant sur l’appelant le fardeau de la preuve qui incombe au ministre.
+Il ne fait aucun doute qu’il est possible d’établir l’intention coupable ou la faute lourde au moyen de preuves circonstancielles, car l’on peut rarement établir l’une ou l’autre en prouvant directement l’intention du contribuable. Cependant, les preuves devraient être claires et convaincantes; c’est le cas par exemple de la conduite du contribuable, de ce qui aurait dû être fait mais qui ne l’a pas été, de ce qui a mené l’intimé à imposer la pénalité, des discussions qui ont eu lieu avec le contribuable au sujet de l’imposition des pénalités et d’autres questions applicables à la décision menant à l’imposition de la pénalité en vertu du paragraphe 163(2).
+Je suis d’avis que, dans la présente espèce, l’intimé ne s’est pas acquitté convenablement du fardeau de la preuve qui lui incombait, en ce sens qu’il s’est appuyé presque exclusivement sur le fait que l’appelant était incapable de renverser les évaluations de la valeur nette. En fait, le paragraphe 163(3) exige que l’on fasse la preuve de l’intention ou de la faute lourde du contrevenant, chose qui, à mon sens, devrait être faite d’une manière structurée, claire et convaincante.
+[57] Quant à la notion de faute lourde, le juge Strayer, dans la décision Venne v. Canada[12], a fait les commentaires suivants :
+[…] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. […]
+[58] Essentiellement, l’argument du ministre est que l’écart entre les montants de revenus déclarés par les appelants et les montants de revenus non déclarés suffit à démontrer l’indifférence des appelants au respect de la loi. Le ministre s’appuie sur les décisions rendues dans les affaires Thibault c. Canada[13] et Pal c. Canada[14] pour appuyer cette proposition.
+[59] Les faits dans l’affaire Thibault se distinguent de ceux en l’espèce. Comme l’indique le juge Dussault dans cette décision, au paragraphe 46 :
+Les montants ajoutés au revenu de l’appelant sont, en termes relatifs, importants par rapport à ses revenus déclarés. La collaboration , dont il dit avoir fait preuve lors de la vérification et par la suite, ne saurait masquer le fait qu'il a volontairement détruit des documents qui pouvaient certes contenir des informations personnelles, mais aussi des informations concernant l'exploitation de son entreprise et qu'il a, de ce fait, refusé de communiquer aux autorités fiscales.
+En l’espèce, les appelants n’ont pas détruit des documents comme l’a fait l’appelant dans l’affaire Thibault. Par conséquent, l’intimée doit faire plus que tout simplement faire allusion au montant ajouté aux revenus des appelants.
+[60] De même, les faits dans l’affaire Pal se distinguent de ceux en l’espèce. Dans la cause Pal, le juge Bonner avait affaire à un appelant qui avait touché un revenu de la location d’un taxi dont il était propriétaire. Après que le ministre a établi ses cotisations fondées sur la valeur nette, l’appelant a produit des déclarations de revenus modifiées sans fournir d’explication concernant les importants écarts relatifs aux revenus et aux dépenses, mis à part blâmer son comptable absent. Le juge Bonner a conclu que le montant des écarts dans le cas de quelqu’un dont le revenu est aussi facile à calculer que celui de l’appelant suffit pour établir qu’une faute lourde a été commise. En comparaison, en l’espèce, la preuve ne montre pas que le revenu des appelants était aussi facile à calculer, pas plus qu’elle ne montre que les appelants ont omis de fournir des explications quant aux déclarations de revenus qu’ils ont produites.
+[61] En outre, l’avocate de l’intimée dit que le recours à la méthode de la valeur nette pour l’établissement des cotisations a été rendu nécessaire par le manque de contrôle interne dans la société Québec et par l’omission de la société de tenir les registres et les livres de comptes voulus, comme l'exige le paragraphe 230(1). Selon l’avocate de l’intimée, il s’agit là d’un autre élément qui fait ressortir l’indifférence des appelants au respect de la loi. Bien que l’existence d’une faute lourde ait été constatée dans des affaires où il y a eu défaut de tenir les registres et livres de comptes voulus[15], ce défaut en lui-même ne suffit pas à une constatation de faute lourde. Comme le juge en chef Bowman (alors juge en chef adjoint) l’a indiqué dans la décision Urpesz, précitée, le défaut de tenir les registres et livres de comptes voulus n’est pas une preuve de faute lourde.
+[62] Enfin, l’avocate de l’intimée fait valoir que les appelants auraient dû savoir, n’eut été leur aveuglement volontaire, que leurs revenus avaient manifestement été déclarés en moins : Villeneuve c. R[16]. Dans l’affaire Villeneuve, le contribuable a bénéficié d’un stratagème frauduleux mené par des employés de l’Agence des douanes et du revenu du Canada. Comme l’ont fait remarquer les appelants, la présente affaire est très différente. En l’espèce, l’intimée n’a pas présenté de preuve claire à l’appui de la constatation selon laquelle les appelants ont fait preuve d’aveuglement volontaire. Elle n’a fait qu’indiquer les montants de revenus non déclarés, ce qui ne suffit pas pour s’acquitter du fardeau prévu au paragraphe 163(3).
+[63] En conséquence, les pénalités imposées en vertu du paragraphe 163(2) sont éliminées.
+[64] J’ai aussi tenu compte des observations des parties en ce qui concerne les dépens.
+[65] L’article 147 des Règles de la Cour canadienne de l’impôt (Procédure générale) donne à la Cour entière discrétion pour adjuger les frais et les dépens. Le paragraphe 147(3) énumère les éléments dont un juge peut tenir compte pour exercer sa discrétion. La discrétion d’un juge pour adjuger les frais et les dépens n’est pas absolue[17].
+[66] M. Wajsfeld a réduit les montants de revenus en cause de plus de 50 pour 100. Les cotisations en cause étaient fondées sur des augmentations supposées de la valeur nette au cours des années en cause. Les cotisations fondées sur la valeur nette étaient nécessaires étant donné le défaut de M. Wajsfeld de tenir les registres ou les documents voulus et des omissions apparentes dans les déclarations de revenus des deux appelants. Les appelants ne sont pas sans faute. Cependant, il y a des preuves documentaires, par exemple de prêts provenant de Mme Braun, dont les représentants de la Couronne auraient pu tenir compte, mais dont ils n’ont pas tenu compte, ce qui aurait écourté la durée du procès. Dans les circonstances, il serait juste que les parties acquittent elles-mêmes leurs dépens.
+[67] Des dépens ne sont accordés dans ni l’un ni l’autre des appels.
+Signé à Ottawa, Canada, ce 5e jour d’août 2005.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 2e jour de mai 2006.
+Mario Lagacé, jurilinguiste
+[1] Les cotisations établies à l’égard de la société Québec comportent aussi une pénalité pour production tardive imposée en vertu du paragraphe 162(1) de la Loi, qui n’est pas visée par un appel.
+[2] Voir le paragraphe 38.
+[3] Voir le paragraphe 38.
+[4] M. Sahakian a témoigné que, vu que le prêt de 5 000 $ a été remboursé en 1999, les 5 000 $ n’ont aucune incidence sur la détermination d’une augmentation quelconque de la valeur nette.
+[5] 86 DTC 1795 (CCI).
+[6] [2001] 3 C.T.C. 2256.
+[7] [1995] 1 C.T.C. 466.
+[8] (1989), 27 F.T.R. 118 (C.F. 1re inst.).
+[9] Précitée, page 1801.
+[10] Précitée, page 1802.
+[11] 89 DTC 247, 250.
+[12] 84 DTC 6247, 6256.
+[13] [2002] A.C.I. no 321 (QL).
+[14] [2002] A.C.I. no 243 (QL).
+[15] Voir p. ex. Immeubles Equation Inc. v. R.,[2004] 4 C.T.C. 2192 (C.C.I.) et Hildebrandt v. R., [1997] 3 C.T.C. 2936 (C.C.I.).
+[16] [2004] A.C.F. no 134 (C.A.F.) (QL).
+[17] Stiles v. Worker’s Compensation Board of B.C. (1989), 39 C.P.C. (2d) 74 (C.A.C.-B.).

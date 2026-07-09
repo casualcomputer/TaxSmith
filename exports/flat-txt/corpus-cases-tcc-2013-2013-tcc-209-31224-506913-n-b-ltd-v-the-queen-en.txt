@@ -1,0 +1,428 @@
+Title: 506913 N.B. Ltd v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31224/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-209-31224-506913-n-b-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-06-24
+
+# 506913 N.B. Ltd v. The Queen
+
+- Citation: 2013 TCC 209
+- Decision date: 2013-06-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5129, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+506913 N.B. Ltd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-06-24
+Neutral citation
+2013 TCC 209
+File numbers
+2003-3382(GST)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-3382(GST)G
+BETWEEN:
+506913 N.B. LTD.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2003-3383(GST)G
+CAMBRIDGE LEASING LTD.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on April 16-17, 2012 and November 13-16, 2012
+at Fredericton, New Brunswick.
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Applicants:
+Eugene Mockler, Q.C.
+Kevin Toner
+Counsel for the Respondent:
+John P. Bodurtha
+Jan Jensen
+Devon E. Peavoy
+____________________________________________________________________
+ORDER
+Upon hearing from the parties;
+In accordance with the attached Reasons for Order:
+a) The Appellants’ application for an Order declaring inadmissible and excluding as evidence at trial, pursuant to sections 8 and 24 of the Canadian Charter of Rights and Freedoms, all documents, accounting records, invoices, purchase orders, bank records, computer printouts, sales records, ledgers, journals and transportation invoices, and certain information gathered by the Respondent and her employees, officers, servants, auditors and investigators and RCMP officers in the alleged audits and the investigation of the Appellants between 1998 and July 31, 2007 and all calculations, assessments, and worksheets or spreadsheets in connection therewith, accounting records, memorandums, emails, interoffice memos, letters, information brochures and witness interviews and statements compiled in whole or in part from reliance on the said information, is dismissed, and;
+b) Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 24th day of June 2013.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2013 TCC 209
+Date: 20130624
+Docket: 2003-3382(GST)G
+BETWEEN:
+506913 N.B. LTD.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2003-3383(GST)G
+CAMBRIDGE LEASING LTD.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+D’Arcy J.
+[1] The Appellants have brought a motion for an Order excluding certain documents as evidence at the hearing of their appeal. The specific wording of the motion is attached hereto as Schedule A.
+[2] It appears that the Appellants are asking the Court to exclude all evidence gathered by the CRA during its audits and investigations of them. The specific documents include all the documents listed in Schedule A of the Respondent’s List of Documents (Partial Disclosure) and nearly all of the documents contained in the disclosure list for a criminal trial involving the Appellants. The Notice of Motion also refers to documents obtained by RCMP officers.
+[3] In Part II of their Brief on Motion, the Appellants state that the issues to be addressed by the Court are as follows:
+1. Whether the Appellants have suffered a breach of their section 8 Charter of Rights and Freedoms (“the Charter”) rights in the circumstances and, in particular, whether the Minister’s agents, auditors and investigators improperly conducted a criminal investigation under the guise of an exercise of audit powers.
+2. Whether the searches and seizures of documents and records that were carried out under judicial authorizations by the Minister’s auditors, investigators and RCMP officers were illegal and therefore contrary to section 8 of the Charter because they were based on illegally obtained evidence as set out in the Brief on Motion, thus entitling the Appellants to an Order excluding the evidence under subsection 24(2) of the Charter.
+[4] The Appellants relied on affidavits sworn by Mr. David Daley on February 24, 2011 (the “Daley Affidavit”) and Mr. Allen Skaling on January 27, 2012 (the “Skaling Affidavit”). During the relevant period, Mr. Daley was the president and a director of the Appellants and owned 50% of the shares of the Appellants. During the relevant period, Mr. Skaling was the comptroller and secretary-treasurer of the Appellants.
+[5] A number of documents were attached to the Daley Affidavit and the Skaling Affidavit, including the transcripts of the examination for discovery in this appeal of CRA official Mr. Ron MacIntyre (the “Discovery of Ron Macintyre”) and the transcripts of a trial voir dire held in the New Brunswick Provincial Court (the “voir dire”).[1] The voir dire occurred during the criminal trial of Mr. Daley and the Appellants, which I will discuss shortly.
+History of Proceedings
+[6] The Appellant 506913 N.B. Ltd. (“506913”) is appealing a reassessment issued by the Minister for its GST reporting periods ending between May 1, 1998 and October 31, 2000. The reassessment increased 506913’s net tax by $5,627,882. The Minister also assessed penalties and interest of $1,253,746 and gross negligence penalties of $1,374,854.
+[7] The Appellant Cambridge Leasing Ltd. (“Cambridge”) is appealing an assessment issued by the Minister for its GST reporting periods ending between November 1, 2000 and December 31, 2000. The assessment increased Cambridge’s net tax by $498,031. The Minister also assessed penalties and interest of $51,934 and gross negligence penalties of $124,508.
+[8] There are two other relevant legal proceedings involving the Appellants. The Appellants, together with Mr. Daley, were subjected to criminal proceedings before the New Brunswick Provincial Court (the “Criminal Proceedings”).
+[9] Further, the Appellants and their principals have brought a civil action against individual employees of the Canada Revenue Agency (the “CRA”) and the Attorney General of Canada in the Court of Queen’s Bench of New Brunswick (the “Civil Action”).
+[10] With respect to the current appeal, a pre-trial conference was held before me on January 28, 2011. On February 7, 2011, I issued an Order providing for the filing by the Appellants of a motion to challenge the admissibility at trial of certain documents. The Appellants filed a motion on February 28, 2011. The motion did not comply with my February 7, 2011 Order.
+[11] On March 23, 2011, I issued a second Order directing the Appellants to withdraw the motion they filed on February 28, 2011 and to file a new motion consistent with my Order of February 7, 2011. The Court also provided detailed directions with respect to the content of the new motion. The Appellants then filed this motion with the Court on February 3, 2012 (the “Main Motion”).
+[12] On March 15, 2012, the Respondent filed a motion to have struck out certain affidavits filed by the Appellants in support of the Main Motion or, in the alternative, to have struck out certain specified paragraphs of the affidavits together with the associated exhibits. The Respondent’s motion raised three issues:
+1. whether certain documents should be excluded because they are subject to solicitor-client privilege;
+2. whether the Appellants were prohibited from using a transcript of the discovery of a CRA official in the Civil Action; and,
+3. whether certain portions of the various affidavits should be struck because of the nature of the statements therein.
+[13] I heard the Respondent’s motion over three days in April 2012 and rendered my oral decision on April 16, 2012. I found that:
+1. the actions of the Respondent constituted an implied waiver of the solicitor‑client privilege;
+2. the oral discovery testimony of Mr. Ron MacIntyre in the Civil Action should be removed from the affidavits since it was subject to the implied undertaking rule; and,
+3. numerous statements contained in the affidavits should be struck, as they constituted speculation, opinion, argument and/or legal conclusions.
+[14] After I rendered my decision on the Respondent’s motion, Mr. Skaling and Mr. Daley were cross-examined on their affidavits. The Appellants then requested an adjournment of the Main Motion to allow them time to bring a motion in the Court of Queen’s Bench of New Brunswick to have the implied undertaking rule waived by that Court. I granted the adjournment request.
+[15] On July 3, 2012, Justice Rideout of the Court of Queen’s Bench of New Brunswick dismissed the Appellants’ motion to be “. . . excused from compliance with their implied undertaking. . . .”[2]
+[16] The first issue I will address is whether the Minister’s agents, auditors and investigators conducted a criminal investigation under the guise of an exercise of audit powers.
+Audit v. Criminal Investigation Issue
+[17] The relevant sections of the Charter are sections 8 and 24. Section 8 of the Charter states that “[e]veryone has the right to be secure against unreasonable search or seizure.” Section 24 of the Charter reads as follows:
+(1) Anyone whose rights or freedoms, as guaranteed by this Charter, have been infringed or denied may apply to a court of competent jurisdiction to obtain such remedy as the court considers appropriate and just in the circumstances.
+(2) Where, in proceedings under subsection (1), a court concludes that evidence was obtained in a manner that infringed or denied any rights or freedoms guaranteed by this Charter, the evidence shall be excluded if it is established that, having regard to all the circumstances, the admission of it in the proceedings would bring the administration of justice into disrepute.
+[18] I must first determine whether there has been a section 8 breach. If I find there has been a breach, I must then determine whether the Court should exclude evidence pursuant to subsection 24(2) of the Charter.
+The Law
+[19] There is a low expectation of privacy with regard to business records relevant to determining tax liability.[3] As the Supreme Court of Canada (the “SCC”) noted in R. v. Jarvis:[4]
+With respect to the consequences related to s. 8 of the Charter, McKinlay Transport, supra, makes it clear that taxpayers have very little privacy interest in the materials and records that they are obliged to keep under the ITA, and that they are obliged to produce during an audit. Moreover, once an auditor has inspected or required a given document under ss. 231.1(1) and 231.2(1), the taxpayer cannot truly be said to have a reasonable expectation that the auditor will guard its confidentiality. It is well known, as Laskin C.J. stated in Smerchanski, supra, at p. 32, that “[t]he threat of prosecution underlies every tax return if a false statement is knowingly made in it”. It follows that there is nothing preventing auditors from passing to investigators their files containing validly obtained audit materials. That is, there is no principle of use immunity that prevents the investigators, in the exercise of their investigative function, from making use of evidence obtained through the proper exercise of the CCRA’s audit function. Nor, in respect of validly obtained audit information, is there any principle of derivative use immunity that would require the trial judge to apply the “but for” test from S. (R.J.), supra. If a particular piece of evidence comes to light as a result of the information validly contained in the auditor’s file, then investigators may make use of it.
+[20] However, the SCC determined in Jarvis that compliance audits and tax evasion investigations must be treated differently. The Court summarized its conclusions as follows:
+. . . While taxpayers are statutorily bound to co-operate with CCRA auditors for tax assessment purposes (which may result in the application of regulatory penalties), there is an adversarial relationship that crystallizes between the taxpayer and the tax officials when the predominant purpose of an official’s inquiry is the determination of penal liability. When the officials exercise this authority, constitutional protections against self-incrimination prohibit CCRA officials who are investigating ITA offences from having recourse to the powerful inspection and requirement tools in s. 231.1(1) and 231.2(1). Rather, CCRA officials who exercise the authority to conduct such investigations must seek search warrants in furtherance of their investigation.[5]
+[21] The decision of the SCC in Jarvis relates to actions of CRA officials under the Income Tax Act (the “ITA”). It is my view that the SCC’s conclusions apply equally to actions of CRA officials under Part IX of the Excise Tax Act (the “GST Act”).
+[22] The relevant portions of the SCC’s decision in Jarvis focused on the inspection and requirement tools provided to the CRA under subsections 231.1(1) and 231.2(1) of the ITA. The wording of subsections 288(1) and 289(1) of the GST Act is nearly identical to the wording of subsections 231.1(1) and 231.2(1) respectively of the ITA. The purpose of the subsections is the same.
+[23] Subsections 288(1) and 289(1) of the GST Act read as follows:
+288(1) An authorized person may, at all reasonable times, for any purpose related to the administration or enforcement of this Part, inspect, audit or examine the documents, property or processes of a person that may be relevant in determining the obligations of that or any other person under this Part or the amount of any rebate or refund to which that or any other person is entitled and, for those purposes, the authorized person may
+(a) subject to subsection (2), enter any premises or place where any business or commercial activity is carried on, any property is kept, anything is done in connection with any business or commercial activity or any documents are or should be kept, and
+(b) require the owner or manager of the property, business or commercial activity and any other person on the premises or in the place to give to the authorized person all reasonable assistance and to answer all proper questions relating to the administration or enforcement of this Part and, for that purpose, require the owner or manager to attend at the premises or place with the authorized person.
+. . .
+289(1) Despite any other provision of this Part, the Minister may, subject to subsection (2), for any purpose related to the administration or enforcement of a listed international agreement or this Part, including the collection of any amount payable or remittable under this Part by any person, by notice served personally or by registered or certified mail, require that any person provide the Minister, within any reasonable time that is stipulated in the notice, with
+(a) any information or additional information, including a return under this Part; or
+(b) any document.
+[24] In reaching its decision in Jarvis, the SCC discussed the statutory context of the ITA, focusing on the regulatory nature of the statute and the self-assessing and self-reporting nature of the tax collection scheme under the ITA.[6]
+[25] The statutory context of the GST Act is very similar to that of the ITA. The GST Act is a regulatory statute that controls the manner in which the federal GST[7] is calculated and collected. The process of GST collection relies primarily upon self-assessment and self-reporting. GST registrants collect the tax as agents for the government, claim input tax credits for the tax they pay on their purchases of goods and services, calculate the amount of tax they are required to remit (or the refunds they are entitled to claim) for a monthly, quarterly or annual reporting period, and disclose this amount to the CRA in the GST return they are required to file.
+[26] As with income tax, the success of the administration of the GST depends upon taxpayer forthrightness. In addition, as with income tax, the nature of the GST tax collection scheme creates an obstacle in this regard. In fact, the problem is more acute in the GST context. The problem relates to the portion of the GST return that shows how the GST registrant determines the amount of tax it is required to remit or the amount of refund it is entitled to receive. It comprises only four lines. It will always be impossible, therefore, to determine from the face of a GST return whether any impropriety has occurred in its preparation. For this reason, consistent with the SCC’s findings in Jarvis,[8] the CRA must be given broad powers, in supervising this regulatory scheme, to audit GST registrants’ GST returns and inspect all records which may be relevant to the preparation of these returns.
+[27] The SCC in Jarvis discussed the following sections of the ITA that provide the Minister with the required powers for the supervision of the regulatory scheme under that Act:
+- Subsection 230(1), which sets out the requirement for taxpayers to maintain records and books of account at their place of business or residence in Canada.
+- Subsection 231.1(1), which allows a person authorized by the Minister to inspect, audit or examine a wide range of documents and provides that the authorized person may, in the course of the inspection, audit or examination, enter into any premises that are not a dwelling-house (a warrant is required before the authorized person may enter a dwelling‑house).
+- Subsection 231.2(1), which allows the Minister, by written notice, to compel a person to produce any information or document.
+- Subsection 238(1), which provides that a summary conviction offence is committed where there is, among other things, failure to file returns or maintain books and records.
+- Section 239, which provides for such summary conviction offences as making false or deceptive statements, destruction or alteration of documents, wilful evasion of income tax, and conspiracy to engage in prohibited activities.
+[28] Subsections 286(1), 288(1) and 289(1), section 326, and subsection 327(1) of the GST Act provide the Minister with similar if not identical powers to supervise the regulatory scheme under the GST Act.
+[29] As a result of the similar statutory context of the ITA and the GST Act, and the similar powers vested in the Minister under the ITA and the GST Act, it is my opinion that the SCC’s findings with respect to the application of section 8 of the Charter to the relevant provisions of the ITA apply equally to the relevant provisions of the GST Act.
+[30] The key issue in the current motion is the determination of the predominant purpose of the inquiries made by the CRA auditors during the audits of 506913 and Cambridge. As the SCC stated in Jarvis,
+In our view, where the predominant purpose of a particular inquiry is the determination of penal liability, CCRA officials must relinquish the authority to use the inspection and requirement powers under ss. 231.1(1) and 231.2(1). In essence, officials “cross the Rubicon” when the inquiry in question engages the adversarial relationship between the taxpayer and the state. There is no clear formula that can answer whether or not this is the case. Rather, to determine whether the predominant purpose of the inquiry in question is the determination of penal liability, one must look to all factors that bear upon the nature of that inquiry.[9]
+[31] I must determine whether the CRA auditors who audited 506913 and Cambridge crossed the Rubicon. The SCC provided the following guidance for the making of this determination:
+To reiterate, the determination of when the relationship between the state and the individual has reached the point where it is effectively adversarial is a contextual one, which takes account of all relevant factors. In our opinion, the following list of factors will assist in ascertaining whether the predominant purpose of an inquiry is the determination of penal liability. Apart from a clear decision to pursue a criminal investigation, no one factor is necessarily determinative in and of itself, but courts must assess the totality of the circumstances, and make a determination as to whether the inquiry or question in issue engages the adversarial relationship between the state and the individual.
+In this connection, the trial judge will look at all factors, including but not limited to such questions as:
+(a) Did the authorities have reasonable grounds to lay charges? Does it appear from the record that a decision to proceed with a criminal investigation could have been made?
+(b) Was the general conduct of the authorities such that it was consistent with the pursuit of a criminal investigation?
+(c) Had the auditor transferred his or her files and materials to the investigators?
+(d) Was the conduct of the auditor such that he or she was effectively acting as an agent for the investigators?
+(e) Does it appear that the investigators intended to use the auditor as their agent in the collection of evidence?
+(f) Is the evidence sought relevant to taxpayer liability generally? Or, as is the case with evidence as to the taxpayer’s mens rea, is the evidence relevant only to the taxpayer’s penal liability?
+(g) Are there any other circumstances or factors that can lead the trial judge to the conclusion that the compliance audit had in reality become a criminal investigation?[10]
+Application of Law to Facts Relating to the Appellants
+Summary of Facts
+[32] 506913 was incorporated on April 30, 1998[11] and began operations in May 1998. It is stated in the Amendment to the Notice of Appeal filed September 26, 2003 that 506913 carried on business as a dealer for the purchase, sale and export of automobiles.[12]
+[33] 506913 was a monthly filer for GST purposes. 506913 claimed a refund of $320,000 in its first GST return, which was for its monthly GST reporting period ending on May 31, 1998.[13] When a GST registrant claims a refund in its first GST return, it is the CRA’s normal practice to audit the return. As a result, the CRA assigned Mr. George LeBlanc to conduct the audit of 506913 in August 1998.[14]
+[34] At the time Mr. LeBlanc was assigned the audit of 506913, he was auditing a Moncton car dealer, Moncton Chrysler Dodge (“Moncton Chrysler”) He had been assigned the audit of Moncton Chrysler in June 1998. He left this audit in August to begin the audit of 506913.[15]
+[35] Mr. LeBlanc audited 506913 until November 1998. During this period, he expanded the scope of his audit to include the monthly GST returns filed by 506913 for June, July, August and September 1998. 506913 claimed refunds exceeding $485,000 on these monthly returns.
+[36] Mr. LeBlanc stopped auditing 506913 in November 1998 and returned to the audit of Moncton Chrysler. However, he retained responsibility for the audit of 506913. It also appears that he authorized the payment of refunds to 506913. In December 1998, the government paid GST refunds of approximately $600,000 to 506913. These refunds comprised the amounts claimed by 506913 in its GST returns for its reporting periods ending between May 1, 1998 and September 30, 1998 less a $200,000 adjustment the CRA made for 506913’s May 1998 GST reporting period.[16]
+[37] 506913 continued to claim substantial refunds in its monthly GST returns. The CRA paid 506913 approximately $4.3 million in respect of refunds claimed by 506913 in its GST returns filed for the reporting periods ending between October 1, 1998 and July 31, 2000. The $4.3 million represented the total amount claimed by 506913 during this period.[17]
+[38] On February 17, 2000, Mr. LeBlanc referred the audit of Moncton Chrysler to the CRA’s special investigations group (the “SI Group”).[18] The CRA assigned Mr. Ron MacIntyre, a CRA special investigations officer, to the investigation of Moncton Chrysler.[19] The New Brunswick Provincial Court subsequently convicted the principal of Moncton Chrysler of 30 offences under the GST Act.[20]
+[39] In early April 2000, Mr. LeBlanc accepted a new job at the CRA and ceased being a GST auditor.[21] Mr. Yvon Boudreau, a CRA auditor, replaced Mr. LeBlanc as the auditor of 506913.
+[40] Mr. Boudreau was also assigned the audit of a Nova Scotia company owned by Mr. Daley and Mr. Kay, Nautica Motors Inc. (“Nautica”). Mr. Boudreau elected to audit Nautica first. He completed the audit of Nautica in mid-to late May 2000 and then began the audit of 506913.[22]
+[41] On October 25, 2000, Mr. Boudreau and Ms. Claudette Miller, a member of the SI Group, met with Mr. Daley and Mr. Skaling. Ms. Miller gave a verbal Charter warning to Mr. Daley and Mr. Skaling with respect to answering questions regarding the activities of Mr. Daley and 506913.[23]
+[42] From October 26, 2000 to early December 2000, Mr. Boudreau continued his audit of 506913. I will discuss the nature of his work later on in my reasons. Mr. Boudreau transferred his audit files to Mr. MacIntyre of the SI Group on February 16, 2001.[24]
+[43] By February 2001, Cambridge had filed its first GST returns. These returns related to its November and December 2000 reporting periods. Cambridge claimed large refunds in both returns. The CRA assigned Mr. Boudreau the audit of these returns. He met with Mr. Skaling and Mr. Daley in February 2001 to discuss the audit of Cambridge’s returns. During this meeting, Mr. Boudreau became aware that Cambridge and 506913 had sold vehicles to the same company. Mr. Boudreau then stopped the audit. In early March 2001, he referred Cambridge to the SI Group.[25]
+[44] On November 15, 2001, the Minister assessed 506913 for $8,256,482. The assessment was in respect of 506913’s GST reporting periods ending between May 1, 1998 and October 31, 2000.[26]
+[45] On November 22, 2001, the Minister assessed Cambridge for $674,472. The assessment was in respect of Cambridge’s GST reporting periods ending between November 1, 2000 and December 31, 2000.[27]
+[46] On June 1, 2005, criminal charges were laid against 506913, Cambridge and Daley. On July 30, 2008, the Provincial Court of the Province of New Brunswick granted the three accused a stay of proceedings on the basis that the accused’s rights under section 11(b) of the Charter had been infringed.[28]
+[47] The evidence before this Court indicates that the CRA conducted three inquiries regarding the Appellants; the first was carried out by Mr. LeBlanc, the second by Mr. Boudreau and the third by Mr. MacIntyre and other members of the SI Group (the “MacIntyre inquiry”). The first step in the Charter analysis is to determine the predominant purpose of each of these inquiries.
+Application of Law to the Facts
+[48] It is the Appellants’ position that each of the three inquiries was a criminal investigation. In their Brief on Motion, they argue that the alleged audits conducted by Mr. LeBlanc and Mr. Boudreau between August 1997 and February 2001 were part and parcel of a criminal investigation.
+[49] I note that the Appellants argue that a criminal investigation of 506913 began in the summer of 1997, nearly a year before 506913 was incorporated and began to carry on a business. I do not understand how a criminal investigation of a corporation could have begun a year before the corporation came into existence. Regardless, I do not accept that Mr. LeBlanc’s and Mr. Boudreau’s audit activities were part of a criminal investigation.
+[50] I have reached this conclusion after considering the factors set out in Jarvis. I will now discuss the application of these factors to the current motion.
+Factor 1: Did the authorities have reasonable grounds to lay charges? Does it appear from the record that a decision to proceed with a criminal investigation could have been made?
+[51] The SCC provided the following guidance with respect to the application of this factor:
+To begin with, the mere existence of reasonable grounds that an offence may have occurred is by itself insufficient to support the conclusion that the predominant purpose of an inquiry is the determination of penal liability. Even where reasonable grounds to suspect an offence exist, it will not always be true that the predominant purpose of an inquiry is the determination of penal liability. In this regard, courts must guard against creating procedural shackles on regulatory officials; it would be undesirable to “force the regulatory hand” by removing the possibility of seeking the lesser administrative penalties on every occasion in which reasonable grounds existed of more culpable conduct. . . . While reasonable grounds indeed constitute a necessary condition for the issuance of a search warrant to further a criminal investigation (s. 231.3 of the ITA; Criminal Code, s. 487), and might in certain cases serve to indicate that the audit powers were misused, their existence is not a sufficient indicator that the CCRA is conducting a de facto investigation. In most cases, if all ingredients of an offence are reasonably thought to have occurred, it is likely that the investigation function is triggered.[29]
+[52] There is no evidence before the Court to support a finding that Mr. LeBlanc was aware, during the course of his audit of 506913, of any grounds for the laying of criminal charges.
+[53] During the course of his audit of 506913, he discovered that 506913 was purchasing vehicles from certain Montreal companies that were not filing GST returns. However, Mr. LeBlanc stated during the voir dire that this fact, in and of itself, was not evidence that 506913 was involved in illegal activities. His specific comments were as follows:
+Well, we know the problem lies with the non-filer. The non-filer has normally collected more tax than he’s paid out and has not remitted. And we know that the tax loss is going to be at the non-filer. The person selling to the non-filer or the person buying from the non-filer, there’s no evidence that there’s anything illegal there in and of itself. Now, once you begin an audit and do an audit, you may run into indications that this can be some problems. However, in and of itself, it’s not where the problem lies; the problem lies with the non-filer.[30]
+[54] Mr. LeBlanc noted that during the period when he physically conducted the audit of 506913 - August 1998 to November 1998 - he saw no evidence to indicate that 506913 was involved in illegal transactions. In fact, in November 1998 he approved the payment of approximately $600,000 of refunds claimed by 506913 in its GST tax returns.[31] The fact that the CRA paid 506913 refunds of approximately $600,000 is strong evidence that they did not suspect 506913, at that point in time, of any criminal activity. In fact, it supports Mr. LeBlanc’s comments that he did not see any problems with 506913’s GST filings.[32]
+[55] It appears that Mr. LeBlanc’s audit of 506913 did raise concerns in his mind with respect to Moncton Chrysler. During his audit of 506913 he discovered that vehicles 506913 purchased from the Montreal non-filers originated with Moncton Chrysler. As a result, in November 1998 he returned to his audit of Moncton Chrysler.[33] As previously noted, Moncton Chrysler and its principal owner were eventually charged with and convicted of criminal offences.
+[56] There was no active physical audit of 506913 between November 1998 and May 2000. However, during this period, the CRA continued to pay substantial refunds to 506913 that were based upon the GST returns 506913 filed during this period.
+[57] Upon taking over the audit of 506913 in May 2000, Mr. Boudreau continued to conduct an audit of the company to determine its civil liability under the GST Act. While conducting his audit, he met with Mr. Skaling, Mr. Daley and other employees of 506913. It appears that he used the inspection powers and third party demand powers provided in sections 288 and 289 respectively.[34] During this period, the CRA continued to pay substantial refunds to 506913.
+[58] The evidence before me is that the first time Mr. Boudreau received an indication that 506913 might be involved in criminal activities was in October 2000.
+[59] In October 2000, Mr. MacIntyre informed Mr. Boudreau that he had evidence that he believed implicated 506913 and Mr. Daley in a tax evasion scheme. In October 2000, Mr. MacIntyre, in the course of his criminal investigation of Moncton Chrysler, met with a Mr. Mike Levi. In the course of the meeting, which occurred at the offices of Scott Fowler, a Moncton lawyer, Mr. MacIntyre received information, which he believed implicated 506913 and Mr. Daley in a tax evasion scheme.[35] He then contacted Mr. Boudreau and advised him that a Charter warning would have to be given before Mr. Boudreau obtained any additional information from 506913 or Mr. Daley.[36]
+[60] Mr. MacIntyre did not share the actual evidence obtained from Mr. Levi with Mr. Boudreau. Mr. Boudreau and Mr. MacIntyre worked in separate CRA offices: Mr. Boudreau in the Moncton office and Mr. MacIntyre in the Saint John office. Mr. Boudreau noted that, at the time Mr. MacIntyre and another CRA official, Ms. Miller, came to his office in Moncton in October 2008, he had no reason to believe 506913 was engaged in fraudulent transactions.[37] Further, he did not know why those two officials came to his office and told him that 506913 should be given a Charter warning. Mr. Boudreau stated, “I didn’t - - I didn’t know why he [Mr. MacIntyre] was approaching me. I had no idea what - - what it related to . . . . I had an audit to do and I was going to pursue my audit.”[38]
+[61] As noted previously, on October 25, 2000, Mr. Boudreau and Ms. Miller met with Mr. Daley and Mr. Skaling. Ms. Miller gave a verbal Charter warning to Mr. Daly and Mr. Skaling with respect to the activities of Mr. Daley and 506913.[39]
+[62] I believe that Mr. MacIntyre and Ms. Miller had reasonable grounds to proceed with a criminal investigation by the latter part of October 2000. In fact, I believe that a criminal investigation by the SI Group began when Ms. Miller issued the Charter warning on October 25, 2000. During his examination for discovery, Mr. MacIntyre acknowledged that, at that point in time, the SI Group had reasonable grounds to believe that Mr. Daley and 506913 were involved in criminal activity.[40]
+[63] The evidence before me does not support a finding that the CRA had reasonable grounds to lay charges before October 25, 2000. There is no evidence before me that Mr. LeBlanc had at any time uncovered evidence that led him to believe or suspect that 506913 was engaged in criminal activity.
+[64] As I just discussed, Mr. MacIntyre informed Mr. Boudreau in October 2000 that a Charter warning should be issued before he spoke with Mr. Daley or obtained information from 506913. Clearly, this must have raised suspicion in Mr. Boudreau’s mind. However, the SI Group did not provide Mr. Boudreau with the details of Mr. Daley’s and 506913’s alleged criminal activity. The first time that Mr. Boudreau obtained direct evidence that 506913 may have been engaged in criminal activities was in November 2000.
+[65] In November of 2000, Mr. Boudreau received, from a car dealership in Toronto, information with respect to five high-value SUV’s that did not appear to be consistent with information provided by 506913. He then contacted a person who operated a car-auctioning business in New Brunswick. The information he received from the Toronto car dealer and the New Brunswick auction house led him to believe that certain transactions recorded in 506913’s records may not have occurred. He then concluded that it was time to refer the Appellant’s file to the SI Group.[41]
+[66] There is no evidence before me that Mr. Boudreau was aware, before November 2000, of any evidence that would support the laying of criminal charges. Although the information he obtained in November 2000 raised suspicion in Mr. Boudreau’s mind that an offence had occurred, it is not clear from the evidence before me that this information was sufficient to support the laying of charges. Regardless, the SI Group began its criminal investigation in October 2000.
+Factor 2: Was the general conduct of the authorities such that it was consistent with the pursuit of a criminal investigation?
+[67] On the basis of the evidence before me, I have concluded that the conduct of Mr. LeBlanc and Mr. MacIntyre was at all times consistent with the pursuit of a civil audit of the Appellants. The conduct of Mr. MacIntyre and the other members of the SI Group was consistent with the pursuit of a criminal investigation.
+[68] Counsel for the Appellant argued that conduct of Mr. LeBlanc and Mr. Boudreau was at all times consistent with the pursuit of a criminal investigation because they reviewed each purchase and sale of an automobile made by 506913. He argued that in a true audit the CRA would only audit a sample of a registrant’s purchases and sales and then extrapolate using statistical sampling. Mr. Skaling stated that 506913 and Cambridge completed 1,271 transactions between May 1998 and December 2000.[42]
+[69] I do not accept that the review by a CRA auditor of each purchase and sale of an automobile made by a GST registrant is consistent with the pursuit of a criminal investigation as opposed to a civil audit.
+[70] As noted previously, the CRA chose 506913 for audit because it had claimed a large refund in the GST return it filed for May 1998, its first GST reporting period. My review of the evidence before me, particularly Mr. LeBlanc’s and Mr. Boudreau’s testimony during the voir dire, leads me to conclude that their actions were those one would have expected from trained GST auditors auditing a registrant such as 506913.
+[71] From a CRA audit perspective, 506913 was clearly a high-risk GST registrant. It was a new GST registrant which, during its first two and a half years of operations, claimed GST refunds of over $5.8 million dollars. It operated in an area involving high-value taxable supplies, namely the purchase and sale of automobiles. Further, Mr. LeBlanc determined during his audit that 506913 was purchasing automobiles from GST registrants who were not filing GST returns and from related companies.[43] The following voir dire testimony of Mr. LeBlanc shows that the presence of non-filers had an impact on the audit techniques used by the CRA to audit 506913:
+Q. And then comes June, July, August, and ultimately September, and I think you’ve acknowledged that there was rather unusual procedures adopted there of doing every month as they came, right?
+A. Yes, it was a full scope audit that was assigned at that point.
+Q. What I want to know now is, what sort of a purpose did you as an auditor set for yourself.
+A. Well the purpose of was, of course, to verify the accuracy of the returns.
+Q. Right.
+A. And we knew that the vehicles were being purchased from a non-filer, so we wanted to verify that indeed we should be paying these credit returns and that Nautica [506913] was not involved, you know in the—with the non-filers.[44]
+[72] As noted previously, after conducting this portion of his audit, Mr. LeBlanc concluded that 506913 was not involved with the non-filers, and authorized the payment of $600,000 of the $800,000 of refunds claimed by 506913 at that point in time.
+[73] The audit of 506913 was further complicated by the fact that 506913 was making taxable supplies of automobiles that were potentially taxable at the 0% rate applicable to exports, or at the 7% GST rate for supplies made in a non-participating province, or at the 15% HST rate for supplies made in a participating province. In fact, 506913 did not collect GST on a number of sales of automobiles on the basis that the sales were made outside of Canada, that the vehicles were sold in Canada for export from Canada, or that they were sold to a status Indian and delivered on a reserve.[45] The non-taxation of each of these sales is dependent on meeting the requirements of numerous statutory provisions and on the production by the supplier (506913) of very specific documentation for each sale.
+[74] In my view, it not unusual for a GST auditor, when faced with such a high‑risk and complicated audit, to review individual sales and purchases of the supplier, particularly when the property being purchased and sold is a relatively high‑priced product, such as an automobile. Mr. LeBlanc and Mr. Boudreau had to be satisfied that the amounts that 506913 reported in its GST returns as its net tax for a reporting period[46] were correct.
+[75] It is important to remember that the portion of the GST return that shows how a GST registrant, such as 506913, has calculated its net tax consists of four lines. The return does not provide any details of the calculation, but merely shows the total GST collected or collectable and the total input tax credits claimed. A GST auditor can only determine if these numbers are correct by examining the books and records of the GST registrant. In particular, since the GST is a transaction tax levied on individual supplies of property and services, a GST auditor must be satisfied that the net tax reported on the GST return is supported by the individual transactions entered into by the GST registrant.
+[76] In the current appeal, Mr. LeBlanc and Mr. Boudreau had to determine if a new company, with few employees, had charged tax on its supplies at the proper rate (0%, 7% or 15%) or paid tax at the proper rate. In most instances, the proper rate was dependent on where the automobile was delivered or, in the case of certain zero-rated export sales and inter provincial sales, on where and how the property was transported after its was delivered to the recipient of the supply. In such a situation, the determination whether the GST registrant has properly calculated its net tax requires the CRA auditor to review specific documentation for each individual transaction.
+[77] The transcripts from the voir dire indicate that, with respect to sales made by 506913, Mr. LeBlanc and Mr. Boudreau focused most of their efforts on obtaining documentation to support 506913’s filing position with respect to a specific supply. For example, Mr. LeBlanc and Mr. Boudreau appear to have spent a significant amount of time obtaining documentation to support 506913’s position that a significant number of the automobiles sold were exported from Canada. With respect to the input tax credits claimed by 506913, it appears that Mr. LeBlanc’s and Mr. Boudreau’s efforts were focused on obtaining documentation for individual purchases of automobiles that satisfied the statutory GST input tax credit documentary requirements.
+[78] In short, their conduct was consistent with the conduct of any GST auditor who is attempting to determine the net tax of a registrant who is involved in the purchase and sale of automobiles that are taxed at various rates, including the 0% rate for exports.
+Factor 3: Had the auditor transferred his or her files and materials to the investigators?
+[79] This factor is not helpful since I have found that Mr. MacIntyre and other members of the SI Group began a criminal investigation on October 25, 2000. Mr. Boudreau did not transfer the audit files for 506913 and Cambridge to Mr. MacIntyre until February and March of 2001 respectively.
+Factors 4 and 5: Was the conduct of the auditor such that he or she was effectively acting as an agent for the investigators? Does it appear that the investigators intended to use the auditor as their agent in the collection of evidence?
+[80] Mr. Boudreau transferred the audit files to special investigations on February 16, 2001. There is no evidence before me that, before February 16, 2001, either Mr. LeBlanc or Mr. Boudreau shared their audit files with Mr. MacIntyre or any other CRA special investigations officer. Mr. LeBlanc was not involved with the SI Group during his audit of 506913.[47] Mr. Boudreau did not meet with anyone from special investigations until late October 2000. As I will discuss shortly, he did continue his audit after the October 2000 meeting; however, his conduct was that of a CRA auditor conducting an audit, not that of someone acting as an agent for the SI Group.
+Factor 6: Is the evidence sought relevant to taxpayer liability generally? Or, as is the case with evidence as to the taxpayer’s mens rea, is the evidence relevant only to the taxpayer’s penal liability?
+[81] As I have already noted, the information sought by the auditors related to the determination of 506913’s and Cambridge’s net tax as reported in their GST returns. It did not relate to mens rea.
+Factor 7: Are there any other circumstances or factors that can lead the trial judge to the conclusion that the compliance audit had in reality become a criminal investigation?
+[82] Counsel raised three other factors that the Court considers relevant: the CRA’s knowledge of car-flipping schemes involving non-filers, the RCMP’s investigation of car-flipping schemes, and the maintenance by a Nova Scotia CRA office of a database containing motor vehicle information. I will consider each of these factors.
+CRA’s Knowledge of Car-Flipping Schemes
+[83] The numerous exhibits filed by the Appellants show that by early 1997 the CRA was aware of fraudulent transactions in the automotive industry involving car‑flipping, purchases and sales of automobiles by non-filers, and alleged fraudulent sales of automobiles to status Indians.[48] Further, the evidence shows that the CRA took various steps to train its auditors to recognize these schemes and identify non-filers and parties who were working with the non-filers. This is illustrated by Mr. LeBlanc’s experience during the relevant period.
+[84] At the time Mr. LeBlanc audited 506913, he knew that car-flipping schemes were a serious problem for the CRA. This can be seen from the following:
+− In the fall of 1997, Mr. LeBlanc attended an Ottawa CRA conference on car-flipping.[49]
+− In July 1997, Mr. LeBlanc began a GST audit of Canadian Auction Group. He referred the audit to the CRA’s SI Group in April 1998.[50]
+− Between 1998 and 2000, an auditing co-ordinating committee was established by the CRA offices in the four Atlantic Provinces. The purpose of the committee was to discuss audits of car dealerships, the focus being on potential car-flipping schemes.[51] The committee was composed only of auditors. Mr. MacIntyre stated that he “had no interest in it. This is audit stuff.”[52]
+− In February and March 1999, Mr. LeBlanc participated in a CRA “Auto Reach” program. The purpose of the program was to educate new- and used-car dealers on car-flipping schemes and to attempt to learn from the dealers what was happening in the market. The CRA had carried out similar programs in the past in the construction, hospitality and fishing sectors.[53]
+− In September 2001, Mr. LeBlanc attended a national CRA conference on car flipping.[54]
+[85] I assume that Mr. Boudreau had similar experiences.
+[86] The fact that the CRA took steps to educate its auditors with respect to the existence of car-flipping schemes involving non-filers does not mean that the auditors could no longer do their job. Clearly, the purpose of the education was to allow a GST auditor to recognize whether a GST registrant that he or she was auditing was participating in a fraudulent scheme. As Mr. LeBlanc noted, once he became aware that a registrant was participating in such a scheme, he stopped auditing and referred the file to special investigations.[55] He did not conclude that there was any such participation when he was auditing 506913.
+The RCMP’s Investigation of Car-Flipping Schemes
+[87] The CRA informed the RCMP in late 1999 of the car-flipping schemes.[56] In response to the CRA’s information, the RCMP prepared, in February 2000, a detailed report, entitled Project Annotation, that recommended a national investigation of car-flipping schemes involving organized crime (the “Project Annotation Report”).[57] The report noted that there was no active investigation during the preparation of the report[58] and that the investigation would be the “first national, multi-jurisdictional, multi-agency attempt at attacking the criminal organization through the seizure and forfeiture of assets, based on their involvement in the GST fraud.”[59] It appears that the Project Annotation Report envisaged the use of the new investigation powers Parliament granted to police in May 1997 under federal organized crime legislation.[60]
+[88] An RCMP officer, Sergeant T.G. Shean, prepared, in July 2000, a second report, entitled GST Fraud, Province of New Brunswick (the “New Brunswick RCMP report”). Apparently, the Project Annotation Report did not apply in New Brunswick.[61] The New Brunswick RCMP report noted that the first step in the New Brunswick investigation would be to focus on the background of the identified targets “in order to allow sound recommendations to be made.” A second report would be prepared once the viability of a full-fledged investigation was determined.[62]
+[89] The New Brunswick RCMP report identified Cambridge Leasing Ltd. and Nautica Motors as the subjects of interest in New Brunswick.[63] It appears the RCMP identified these two companies because they had been paid significant GST refunds.
+[90] I find the naming of Cambridge Leasing Ltd. in the report somewhat confusing. It is my understanding, in light of the information before me, that the first GST return in which Cambridge Leasing Ltd. claimed a refund was its GST return for the reporting period from November 1, 2000 to November 30, 2000, that is, four months after the New Brunswick RCMP report was prepared. However, I accept that the reference to Nautica Motors is a reference to 506913, which carried on business under the name Nautica Motors.
+[91] Both the Project Annotation Report and the New Brunswick RCMP report indicate that the CRA could not share with the RCMP any information that it collected from registrants and third parties unless the RCMP and the CRA signed a memorandum of understanding.[64]
+[92] In the latter half of 2000, Sergeant Shean met with various members of the CRA’s SI Group to discuss how a joint investigation could be carried out.[65] (the “New Brunswick investigation”). During the voir dire, he testified that he did not deal with either Mr. LeBlanc or Mr. Boudreau or any other GST auditors in the course of the New Brunswick investigation.[66]
+[93] In February 2001, Sergeant Tim Feeney of the RCMP was approached about taking over the New Brunswick investigation.[67] On April 26, 2001, the RCMP and the CRA had signed the required memorandum of understanding.[68] In late May 2001, after the RCMP and the CRA had signed the memorandum of understanding, Sergeant Feeney met Mr. MacIntyre for the first time.[69]
+[94] The RCMP withdrew from the joint investigation in August 2003 when they realized they could no longer seize assets relating to offences under the GST Act.[70]
+[95] The RCMP’s national investigation of car-flipping schemes was carried on separate and apart from Mr. LeBlanc’s and Mr. Boudreau’s audit of 506913 and Cambridge. The Project Annotation Report did not apply to New Brunswick.
+[96] The evidence before me is that Mr. LeBlanc and Mr. Boudreau, the auditors of the Appellants, were not involved with either Project Annotation or the New Brunswick investigation. Further, the RCMP did not have access to the CRA audit files until April 26, 2001, nearly two months after Mr. Boudreau stopped auditing the Appellants.
+[97] Mr. Boudreau did meet with an RCMP officer in May or June 2000. The RCMP requested Mr. Boudreau’s assistance with respect to the value of two vehicles that had been imported into the Czech Republic.[71] It appears that the RCMP was seeking information requested by Interpol in June 1999 with respect to vehicles imported into the Czech Republic.[72] The Interpol request appears to relate to an investigation of a third party in the Czech Republic.
+Database Maintained by Nova Scotia CRA Office
+[98] A CRA office in Nova Scotia established a database that traced the sales history of certain vehicles. A CRA official could access the information by inputting a vehicle’s VIN (vehicle identification number). It appears that most of the information originated from CRA auditors in Nova Scotia and New Brunswick.
+[99] The use of this database does not indicate that the auditors were involved in criminal investigations. In my view, it is a good auditing tool that allowed auditors to efficiently obtain information that was relevant for the purpose of determining ownership and the place of supply of a vehicle.
+Mr. Boudreau’s Parallel Investigation
+[100] The last relevant factor that I must consider is Mr. Boudreau’s activities after the members of the SI Group began their criminal investigation on October 25, 2000.
+[101] After the October 25, 2000 meeting between Mr. Boudreau, Ms. Miller, Mr. Daley and Mr. Skaling, Mr. Boudreau continued his audit of 506913.
+[102] However, during this period he did not meet with Mr. Daley or any other employee or officer of 506913. He also did not obtain any documentation from 506913. He focused his audit on information that he received during this period from the Ontario and Quebec departments of motor vehicle registration. He also discussed vehicle purchases with third parties. Some of these third parties faxed him information. He did not speak with any financial institutions.[73]
+[103] He stopped his audit in November of 2000 when he obtained the information discussed previously with respect to five high-value SUV’s.
+[104] In early December 2000, Mr. Boudreau met with Mr. MacIntyre[74] in Moncton to discuss the transfer of the 506913 audit file to special investigations. Mr. Boudreau and Mr. MacIntyre decided to defer the transfer of the file until Mr. Boudreau received all of the vehicle information from the provincial departments of motor vehicles. Mr. Boudreau transferred the files to Mr. MacIntyre on February 16, 2001.[75]
+[105] On the basis of the evidence before me, I have concluded that Mr. Boudreau’s activities between October 25, 2000 and February 16, 2001 constituted an administrative audit that he conducted at the same time as the SI Group was conducting its criminal investigation. The SCC in Jarvis recognized the legitimacy of such parallel inquiries as follows:
+The predominant purpose test does not thereby prevent the CCRA from conducting parallel criminal investigations and administrative audits. The fact that the CCRA is investigating a taxpayer’s penal liability, does not preclude the possibility of a simultaneous investigation, the predominant purpose of which is a determination of the same taxpayer’s tax liability. . . .[76]
+[106] In the present appeal, there is no section 8 Charter breach as a result of the parallel inquiries. The predominant purpose of Mr. Boudreau’s inquiry during the aforementioned period did not change: it was to determine 506913’s tax liability under the GST Act.
+Conclusion
+[107] For the foregoing reasons, I have concluded that the Appellants did not suffer a breach of their rights under section 8 of the Charter. The predominant purpose of the inquiries carried out by Mr. LeBlanc and Mr. Boudreau was, at all times, the determination of 506913’s and Cambridge’s civil liability under the GST Act. They did not conduct, as the Appellants allege, a criminal investigation under the guise of exercising audit powers.
+[108] Having found that there was not a section 8 Charter breach, I do not need to consider the question of the application of subsection 24(2) of the Charter.
+Search Warrant Issue
+[109] In May, June and September 2004, Judge Michael McKee of the New Brunswick Provincial Court issued a number of search warrants (collectively referred to as the “Search Warrants”) pursuant to the relevant provisions of the Criminal Code. Some of the Search Warrants allowed authorities to search for certain business records of 506913 and Cambridge at Mr. Daley’s home, at the business offices of 506913 and at the business offices of another numbered company (053999 NB Ltd.).[77] Judge McKee also issued general warrants that allowed the collection of financial information from certain financial institutions.[78] It appears that all of the Search Warrants were executed.
+[110] On October 13, 2004, the Appellants and Mr. Daley brought, in the Court of Queen’s Bench of New Brunswick, an application for judicial review, seeking an order quashing the search warrants issued in May and June 2004. In the alternative, they sought an order excising certain paragraphs contained in the information in the same search warrants.
+[111] On October 14, 2004, Justice David Russell issued his decision dismissing the application.[79] He noted that the grounds for the judicial review were as follows:
+(a) seventeen material nondisclosures by the informant, Ronald MacIntyre, in the Information To Obtain Search Warrants dated May 20 and 31, 2004 as well as nondisclosure of the applicant’s co-operation during the audit;
+(b) the borrowing of documents by officers, agents and employees of the Minister of National Revenue which is alleged to be contrary to the stated policy of the Department;
+(c) that during the search of the various locations, the officers of the Canada Revenue Agency searched for and allegedly seized documents that were outside the time frame and parties specified in the search warrants;
+(d) Ronald MacIntyre seized various computers rather than printing the material;
+(e) CRA seized documents that were solicitor/client privileged;
+(f) the Information To Obtain Search Warrants does not set out a nexus between electronically stored records and the offences specified;
+(g) the Information To Obtain Search Warrant lack [sic] specificity with respect to information electronically stored;
+(h) the seizure of computer equipment is alleged to be a “fishing expedition”[;]
+(i) the description of documents set out in paragraphs 1(d) and 2(d) of the search warrants are [sic] too general;
+(j) it is alleged that the applicants were not provided with a police caution until at or about May 3, 2001;
+(k) the CRA used audit powers in the course of an investigation contrary to sections 7, 8, 10 and 11 of the Canadian Charter of Rights & Freedoms;
+(l) the applicant, David Daley’s pick up truck was searched without a warrant.[80]
+[112] Justice Russell indicated that a search warrant may only be quashed by a superior court judge for jurisdictional error. He found that there had not been any jurisdictional error with respect to the Search Warrants.[81]
+[113] Similar to what had been done on the application in the Court of Queen’s Bench of New Brunswick, the Appellants argued before this Court numerous grounds for the relief they seek, including the following:
+− The information to obtain the search warrants did not reference section 487 of the Criminal Code.[82]
+− The information to obtain must comply with the Criminal Code, failing which the judge lacks jurisdiction to issue the warrant.[83]
+− The informant (Mr. MacIntyre) failed to disclose important information to the issuing judge.[84]
+− The search warrants or the information with respect to Mr. Daley simply referred to “his” business papers, not the business papers of the Appellants herein.[85]
+− The information to obtain was deficient with respect to the things to be searched for and the nexus between them and the alleged crimes.[86]
+− The warrant for Mr. Daley’s residence should have referred to the location within his premises that was to be searched.[87]
+− There was no basis for the issuing of a warrant under section 487 of the Criminal Code.[88]
+− The presiding judge failed to require adequate information in the information to obtain; this was a section 24 Charter breach and a breach of the sanctity (privacy) of the home.
+− The Information to obtain failed to establish a nexus between the computer information seized and the alleged crimes.[89]
+− The warrants were tainted as the “CRA conducted an investigation of the Appellants and obtained documents, oral statements and other material from them even after the CRA’s Special Investigations branch and the RCMP became involved with the file, to pursue a criminal investigation as the predominant purpose.”[90]
+[114] During the hearing, I had a very difficult time understanding exactly what counsel for the Appellants was requesting from the Court. In the first instance he argued that this Court should either quash the warrants issued by the New Brunswick Provincial Court or rule that the searches carried out pursuant to the warrants constituted an unreasonable search and seizure and a Charter breach.[91]
+[115] After I raised concerns that this may constitute a collateral attack, he changed his argument and argued as follows: “. . . we’re not asking you to necessarily quash it [the warrant], but we are asking you to treat the information that has been obtained from it as being illegally obtained, and in that regard, you can look at the warrant to see if there was jurisdiction to issue it.”[92]
+[116] In my view, regardless of how counsel for the Appellants frames his argument, he is asking me to collaterally attack an order of a New Brunswick court.
+[117] The issue of collateral attack was recently addressed by the Federal Court of Appeal in Canada (AG) v. Blerot.[93] That appeal addressed whether the parties could bring an application in the Federal Court seeking relief with respect to search warrants issued by a justice of the peace for the Province of Saskatchewan and a search warrant issued by a judge of the Alberta Provincial Court. The relief sought by the Applicant included quashing the search warrants, an order under section 24 of the Charter excluding the evidence obtained by means of the warrants, and a declaration that the individuals who obtained the search warrants were not duly authorized at law to apply for such warrants.
+[118] In reaching its decision the Federal Court of Appeal reviewed the doctrine of collateral attack and stated:
+The substance of the doctrine of collateral attack is set out by the Supreme Court of Canada in R v. Wilson, [1983] 2 S.C.R. 594 at pages 599-600:
+It has long been a fundamental rule that a court order, made by a court having jurisdiction to make it, stands and is binding and conclusive unless it is set aside on appeal or lawfully quashed. It is also well settled in the authorities that such an order may not be attacked collaterally – and a collateral attack may be described as an attack made in proceedings other than those whose specific object is the reversal, variation, or nullification of the order or judgment. Where appeals have been exhausted and other means of direct attack upon a judgment or order, such as proceedings by prerogative writs or proceedings for judicial review, have been unavailing, the only recourse open to one who seeks to set aside a court order is an action for review in the High Court where grounds for such a proceeding exist. Without attempting a complete list, such grounds would include fraud or the discovery of new evidence.[94]
+[119] The Federal Court of Appeal then found that, on the facts of the case before it, the search warrants issued by the provincial authorities were orders. It then applied the doctrine of collateral attack and concluded: “. . . Those orders must be challenged in the forum in which they were made, using the procedure available in that forum. . . . ”[95]
+[120] It is clear from the facts before me that the search warrants issued by the judge of the Provincial Court of New Brunswick were orders. The challenging of these orders in this Court is a collateral attack. Under the doctrine of collateral attack, the Appellants can only challenge these orders in the New Brunswick courts. It is not for this Court to quash the warrants or decide that the New Brunswick courts did not have jurisdiction to issue them.
+[121] Counsel for the Appellant also argued that if I do not quash the warrants or decide that the New Brunswick courts did not have jurisdiction to issue the warrants, then I should still exclude the evidence obtained in the course of executing the warrants on the basis that the Appellants’ rights under section 8 of the Charter were infringed. This point is moot since I have found that the actions of the CRA officials did not constitute a breach of section 8 of the Charter.
+[122] For the foregoing reasons the Appellants’ motion is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 24th day of June 2013.
+“S. D’Arcy”
+D'Arcy J.
+SCHEDULE A
+NOTICE OF MOTION
+Take notice that pursuant to the Order of Mr. Justice D’Arcy dated March 23, 2011, the Appellants herein will apply to the Court on the 2nd day of April, 2012 at the Federal Court, 82 Westmorland Street, Fredericton NB at the hour of 9:30 a.m. before the said Justice D’Arcy for an Order that:
+(a) All documents, accounting records, invoices, purchase orders, bank records, computer print-outs, sales records, ledgers, journals and transportation invoices and certain information (the “information”) gathered by Respondent and her employees, officers, servants, auditors and investigators and R.C.M.P. officers in the alleged audits and the investigation of the appellants between 1998 and July 31, 2007 and all calculations, assessments, and worksheets or spreadsheets in connection therewith, accounting records, memorandums, emails, interoffice memos, letters, information brochures and witness interviews and statements compiled in whole or in part from reliance on said information be declared inadmissible and be excluded as evidence at the trial herein to be held starting November 12, 2012 pursuant to S. 8 and 24 of the Charter of Rights and Freedoms. More specifically, these documents include:
+a) a bundle of documents being disclosure numbers 932 to 1397 in Allen Skaling Exhibit being R2 and bundle of documents identified as items 1-994 in the Respondents List of Documents identified at paragraph six, Exhibit ‘E’ to the Affidavit of David Daley sworn herein on February 24, 2011 and all hard or electronic copies thereof;
+b) a bundle of documents identified as disclosure numbers 1-931, 24555-59120, 70328 to 73629 in Allen Skaling Exhibit 2 being R2 marked in the Discovery of David Daley herein August, 2009 and any hard or electronic copies thereof;
+c) all documents that were the product of searches and seizures, Informations to Obtain general or special warrants, assistance orders or requirements to produce and all affidavits produced by financial institutions pursuant to or in connection with said judicial authorizations between November, 2001 and July, 2007 and/or referred to in the document marked R2 in the discovery of David Daley as set out above; and
+d) all documents in hard copy or electronic format created from the documents set out in paragraph ‘c’.
+CITATION: 2013 TCC 209
+COURT FILE NO.: 2003-3382(GST)G; 2003-3383(GST)G
+STYLE OF CAUSE: 506913 N.B. LTD. v. THE QUEEN; AND
+BETWEEN: CAMBRIDGE LEASING LTD. v. THE QUEEN
+PLACE OF HEARING: Fredericton, New Brunswick
+DATE OF HEARING: April 16-17, 2012, November 13-16, 2012
+REASONS FOR ORDER BY: The Honourable Justice Steven K. D'Arcy
+DATE OF ORDER: June 24, 2013
+APPEARANCES:
+Counsel for the Applicants:
+Eugene Mockler, Q.C.
+Kevin Toner
+Counsel for the Respondent:
+John P. Bodurtha
+Jan Jensen
+Devon E. Peavoy
+COUNSEL OF RECORD:
+For the Applicants:
+Name: Eugene Mockler, Q.C.
+Kevin Toner
+Firm: E.J. Mockler Professional Corp.
+Fredericton, New Brunswick
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Voir Dire held in The Queen v. Mark David Daley, 506913 NB Ltd. and Cambridge Leasing Ltd., unreported, New Brunswick Provincial Court, File Numbers 17889701, 17889901, 17890001, July 30, 2008, reproduced in Daley Affidavit, Exhibit O.
+[2] 506913 N.B. Ltd. v. McIntyre, 2012 NBQB 225, 27 C.P.C. (7th) 249 at para. 1.
+[3] Redeemer Foundation v.Canada (National Revenue), 2008 SCC 46, [2008] 2 S.C.R. 643 at para. 25.
+[4] 2002 SCC 73, [2002] 3 S.C.R. 757 (“Jarvis”) at para. 95.
+[5] Ibid. at para. 2.
+[6] Ibid. at paras. 49 and 50.
+[7] The federal GST refers to tax levied at the rate applicable to transactions that are considered to have been made in a non-harmonized province (currently 5%) and to tax levied at the various rates applicable to transactions that are considered to have been made in a harmonized province (for example, the current 13% rate applicable to transactions that are considered to have been made in New Brunswick).
+[8] Supra at para. 51.
+[9] Ibid. at para. 88.
+[10] Ibid. at paras. 93 and 94.
+[11] Daley Affidavit, Exhibit F - Exhibit A-21, Primary Report of Ron MacIntyre.
+[12] Daley Affidavit, Exhibit A, paragraph 1.
+[13] Daley Affidavit, Exhibit K - affidavit of David Daley sworn on September 1, 2006, Exhibit E, pages 16 to 19 (in Record on Motion, N.B. Provicial Court, Vol. 1).
+[14] Skaling Affidavit, Exhibit 3, Voir Dire, testimony of George LeBlanc, page 120.
+[15] Ibid. at pages 120 and 121.
+[16] Ibid. at page 121; Daley Affidavit, Exhibit K - affidavit of David Daley sworn on September 1, 2006, Exhibit E, pages 13 to 19 (in Record of Motion, N.B. Provincial Court, Vol. 1).
+[17] Daley Affidavit,Exhibit K – affidavit of David Daley sworn on September 1, 2006, Exhibit E, page 18.
+[18] Skaling Affidavit, Exhibit 3, Voir Dire, testimony of George LeBlanc, page 153; Skaling Affidavit, Exhibit 5, the MacIntyre Discovery, page 418.
+[19] Skaling Affidavit, Exhibit 5, Discovery of Ron MacIntyre, page 418.
+[20] R. v. Lempen, 2008 NBCA 86, [2008] G.S.T.C. 215.
+[21] Skaling Affidavit, Exhibit 3, Voir Dire, testimony of George LeBlanc, page 122.
+[22] Skaling Affidavit, Exhibit 3, Voir Dire, testimony of Yvon Boudreau, pages 196 and 234.
+[23] Ibid. at pages 196 and 197.
+[24] Ibid. at pages 198 and 240.
+[25] Ibid. at page 200.
+[26] Daley Affidavit, Exhibit H.
+[27] Daley Affidavit, Exhibit C at para. 8.
+[28] See The Queen v. Daley et al., supra, note 1.
+[29] Jarvis, supra, at para. 89.
+[30] Skaling Affidavit, Exhibit 3, Voir Dire, testimony of George LeBlanc at page 124.
+[31] Skaling Affidavit, Exhibit 3, Voir Dire, testimony of George LeBlanc at page 121.
+[32] Ibid. at page 121.
+[33] Ibid.
+[34] Skaling Affidavit, Exhibit 3, Voir Dire, testimony of Yvon Boudreau at page 234.
+[35] Skaling Affidavit, Exhibit 4, Discovery of Ron MacIntyre at page 266.
+[36] Skaling Affidavit, Exhibit 3, Voir Dire, testimony of Yvon Boudreau at pages 195 and 196; Skaling Affidavit, Exhibit 4, Discovery of Ron MacIntyre at page 266.
+[37] Skaling Affidavit, Exhibit 3, Voir Dire, testimony of Yvon Boudreau at page 203.
+[38] Ibid. at page 195.
+[39] Ibid. at pages 196 and 197.
+[40] Skaling Affidavit, Exhibit 4, Discovery of Ron MacIntyre at page 266.
+[41] Skaling Affidavit, Exhibit 3, Voir Dire, testimony of Yvon Boudreau at pages 197 and 198.
+[42] Skaling Affidavit at para. 6.
+[43] Skaling Affidavit, Exhibit 3, Voir Dire, testimony of George LeBlanc at pages 120 and 121.
+[44] Ibid. at page 192.
+[45] Ibid. at pages 119-122 and 124.
+[46] Generally speaking, tax collected (or collectable) minus input tax credits claimed.
+[47] Skaling Affidavit, Exhibit 3 Voir Dire, testimony of George LeBlanc at pages 126 and 127.
+[48] See for example, Daley Affidavit, Exhibit K, September 1, 2006 Affidavit of Daley, Exhibit UU-9 (in Record of Motion, N.B. Provincial Court, Vol. 2).
+[49] Skaling Affidavit, Exhibit 3, Voir Dire, testimony of George LeBlanc at page 137.
+[50] Ibid. at page 126.
+[51] Ibid. at page 139.
+[52] Skaling Affidavit, Exhibit 5, Discovery of Ron MacIntyre at page 391.
+[53] Skaling Affidavit, Exhibit 3, Voir Dire, testimony of George LeBlanc at page 123.
+[54] Ibid. at page 141.
+[55] Ibid. at page 126.
+[56] See Daley Affidavit, Exhibit F, Document #12 at pages 1225-1232.
+[57] Ibid. at pages 1242 to 1279.
+[58] Ibid. at page 1246.
+[59] Ibid. at page 1248.
+[60] Ibid. at page 1261.
+[61] Ibid. at pages 1289 and 1291.
+[62] Ibid. at page 1291.
+[63] Ibid. at page 1293.
+[64] Ibid. at pages 1242-1279 and 1289-1294; see also Skaling Affidavit, Exhibit 3, Voir Dire, testimony of Todd Shean at pages 62 and 63.
+[65] Skaling Affidavit, Exhibit 3, Voir Dire, testimony of Todd Shean at pages 62 and 63.
+[66] Ibid. at page 62.
+[67] Ibid. at page 78.
+[68] Daley Affidavit, Exhibit K, Affidavit of David Daley sworn September 1, 2006, Exhibit L (in Record of Motion, N.B. Provincial Coirt, Vol. 1).
+[69] Skaling Affidavit, Exhibit 5, Discovery of Ron MacIntyre at page 408.
+[70] Ibid. at pages 415 and 418.
+[71] Skaling Affidavit, Exhibit 3, Voir Dire, testimony of Yvon Boudreau at pages 234 to 238.
+[72] Skaling Affidavit, Exhibit 13 at page 726.
+[73] Skaling Affidavit, Exhibit 3, Voir Dire, testimony of Yvon Boudreau at pages 197-198 and 224.
+[74] A second CRA investigations officer, Mr. Guy Belleisle, was also present during the meeting.
+[75] Skaling Affidavit, Exhibit 3, Voir Dire, testimony of Yvon Boudreau at pages 198 and 240.
+[76] Jarvis, supra, at para. 97.
+[77] See, for example, Skaling Affidavit, Exhibits 9 and 10.
+[78] Ibid.
+[79] 506913 N.B. Ltd. et al v. R. et al., 2004 NBQB 368 (CanLII).
+[80] Ibid. at para. 2.
+[81] Ibid. at paras. 3 and 7.
+[82] Appellants’ Brief on Motion at para. 181.
+[83] Ibid., Transcript, November 14, 2012, at page 77.
+[84] Appellants’ Brief on Motion at para. 185.
+[85] Transcript, November 14, 2012, at page 103.
+[86] Ibid. at page 104.
+[87] Ibid.
+[88] Ibid. at pages 120 and 121.
+[89] Appellants’ Brief on Motion at para. 199.
+[90] Ibid. at para. 203.
+[91] Transcript, November 14, 2012, at page 75.
+[92] Ibid. at page 87.
+[93] 2012 FCA 124, 2012 DTC 5092.
+[94] Ibid. at para. 17.
+[95] Ibid. at para. 18.

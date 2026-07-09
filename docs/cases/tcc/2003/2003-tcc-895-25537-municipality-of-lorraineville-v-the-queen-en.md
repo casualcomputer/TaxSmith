@@ -1,0 +1,186 @@
+---
+title: "Municipality of Lorraineville v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25537/index.do"
+last_modified: "2003-12-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 895"
+citation2: ""
+neutral_citation: "2003 TCC 895"
+decision_date: "2003-12-02"
+language: "en"
+item_id: "25537"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2377
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:25:36.212000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5d7041087e0faa41739bcf5b50bc254bfd3b88216316e308e79245ce617724ae"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Municipality of Lorraineville v. The Queen
+
+- Citation: 2003 TCC 895
+- Decision date: 2003-12-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2377, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Municipality of Lorraineville v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-02
+Neutral citation
+2003 TCC 895
+File numbers
+2001-1779(GST)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2001-1779(GST)I
+BETWEEN:
+MUNICIPALITY OF LORRAINVILLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on May 30th, 2003 at Rouyn-Noranda, Quebec
+Before:
+The Honourable Louise Lamarre Proulx
+Appearances:
+Agent for the Appellant:
+Louis-René Breault (Student-at-law)
+Counsel for the Respondent:
+Benoit Denis
+____________________________________________________________________
+JUDGMENT
+The appeal of the GST assessment under the Excise Tax Act, the notice of which is dated August 25, 2000 and bears the number 22GG0200300, is allowed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of December 2003.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+Translation certified true
+on this 8th day of March 2004.
+Shulamit Day-Savage, Translator
+Citation: 2003TCC895
+Date: 20031202
+Docket: 2001-1779(GST)I
+BETWEEN:
+MUNICIPALITY OF LORRAINVILLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx, J.
+[1] This is an appeal under the informal procedure concerning an assessment under the Excise Tax Act (the Act) for the period from July 1, 1996 to June 30, 2000. This Notice of Assessment bears the number 22GG0200300 and is dated August 25, 2000.
+[2] The issue in question is whether the sale of land to individuals is a single supply within the meaning of paragraph 25(c) of Part VI of Schedule V of the Act or whether it also includes supply of a service within the meaning of section 22 of the same part.
+[3] The facts on which the Minister of National Revenue (the "Minister") relied to make the assessment are described in paragraph 10 of the Reply to the Notice of Appeal (the "Reply") as follows:
+a) the Appellant is a municipality as defined in subsection 123(1) of the Excise Tax Act (E.T.A.);
+b) the Appellant is a registrant for the purposes of Part IX of the E.T.A;
+c) in 1992, the Appellant acquired a piece of land for $60,000 in order to subdivide it into 36 lots for residential in three phases;
+d) the first phase, Bellehumeur Street, involved creating 16 lots of land and the installation of municipal infrastructure (streets, sidewalks, water supply system, sewers, etc.) and was completed by the Appellant before the period in question;
+e) the cost of the installation of municipal infrastructure on Bellehumeur Street is valued at approximately $92,000;
+f) the Appellant requested and obtained, under section 259 of the E.T.A., partial reimbursement of the GST paid on the acquisition of goods and services for the installation of municipal infrastructure on Bellehumeur Street;
+g) during the period in question, the Appellant supplied, by way of sale to individuals, eight (8) serviced lots for a consideration of $10,000 for each lot of land;
+h) the Appellant broke down the $10,000 consideration due for each of the supplies in the following manner:
+Land
+$600
+Infrastructure installation
+$9,400
+Total
+$10,000
+i) the Appellant collected the GST payable by the purchasers only on the value of the land portion, which is $84 (7% of $600);
+j) supply by way of sale of a lot of serviced land by the Appellant constitutes a supply, not a multiple supply, of goods and services;
+k) the Appellant is not supplying municipal infrastructure to individual land purchasers by way of sale. This infrastructure remains the property of the Appellant;
+l) the supply by way of sale of lots of serviced land is fully taxable and the GST is payable on the entire consideration due, which is $700 (7% of $10,000);
+m) the Appellant failed to collect the GST in the amount of $658 (7% of $9,400) during the supply by way of sale of each of the eight (8) lots of serviced land for a total of $5,264 (8 x $658).
+[4] Except in a few instances, the Reply correctly describes the facts in accordance with the evidence, which was presented and then advanced.
+[5] The first witness for the Appellant was Philippe Boutin, Mayor of the Municipality of Lorrainville. He admitted paragraphs 10 a) to 10 d), 10 f) and 10 i) of the Reply. Paragraph 10 e) was admitted with an infrastructure installation cost of $218,600. This amount was also admitted by the Respondent.
+[6] His worship explained that the Appellant decided it was important for the stimulation of residential development to adopt a regulation that enabled him to borrow $218,600 for the development of 16 lots. The borrowing regulation was adopted on April 26, 1994 and was submitted as Exhibit A-3.
+[7] The infrastructure installation work began in 1996. This work relates to water supply and sewer services, as well as to road construction.
+[8] His worship explained that the municipality could only sell the land. Infrastructure located under the road remains the property of the municipality. From the property line of the private lot, the owner is responsible for the cost of extension, which is not part of the contract cost.
+[9] The service of the municipal infrastructure was provided, not their sale. According to the witness, this explains why the price indicated in the contract of sale was always split between the price related to the land and that related to municipal services.
+[10] The witness stated that the municipality wanted to ensure that it obtained immediate payment for the installation of the infrastructure, which is why this amount must be paid upon purchase of the land. However, this amount was written separately in the contract as being [translation] "for municipal services".
+[11] The contracts of sale for the land were submitted as Exhibits I‑2 to I‑7.
+[12] The clause regarding the price appears as follows in Exhibit I‑2:
+PRICE
+[TRANSLATION] This sale is made for the price of twenty thousand dollars ($20,000) which is one thousand two hundred dollars ($1,200) for the land and eighteen thousand eight hundred dollars ($18,800) for municipal services, paid by the purchaser, for which the vendor provided full and final release.
+[13] The second witness was Denis Champagne. Mr. Champagne is a certified general accountant (CGA) and has been the external auditor for the municipality for 25 years. He stated that the municipality wanted to sell the land at cost and charge a portion of the cost for infrastructure installation to the purchaser of the land. He shared with the municipality the opinion that the supply of municipal sewer, water and road services was an exempt supply based on explanatory texts by tax authorities.
+[14] To this effect, he produced, as Exhibit A-1, a document from the Collection fiscale du Québec - Taxe à la consommation - Mai 2003, as Exhibit A‑1. He read, from subsection 3:
+[TRANSLATION] ... If a municipality sells vacant land and the infrastructure is subject to separate disposal or the consideration that relates to them is shown separately on the contract, the supply of the infrastructure can be exempt when the conditions of section 164 and/or section 165 (see comments under these sections) are met.
+[15] Counsel for the Respondent pointed out the date of the document. The witness replied that he had not found the date for 1994. The witness stated that he also asked a Quebec tax firm for advice and they confirmed the interpretation he had given the municipality.
+[16] Counsel for the Respondent told the Court that the document that had been presented as Exhibit A‑1 concerns section 168 of the Québec Act. It relates to the following part of the Act: section 25, Part VI of Schedule V.
+[17] Exhibit A‑2 is the diagram of the 16 lots. There is a street in the centre, with eight lots on each side.
+[18] Counsel for the Respondent had no witnesses because the Appellant admitted, with respect to paragraph 10 m) of the Reply, that if the Respondent is correct and the supply of the eight lots was a single supply and [they were] not separate, the total amount not collected would be $5,264.
+Arguments
+[19] The Agent for the Appellant pointed out that the sale of a building to an individual is not an exempt supply under paragraph 25(c) of Part VI of Schedule V, but that sections 21.1 and 22 of this same part provide that the supply of road, water distribution and sewer services is an exempt supply.
+[20] The Agent emphasized that Parliament does not speak in vain and Parliament’s intention that these supplies be exempt must be recognized.
+[21] The Agent also outlined that, in any case, the penalties should be cancelled because there had been due diligence on the part of the municipality.
+[22] The Agent asked the Court to conclude that there is only one single supply and not two separate supplies, that the Appellant has a right to reimbursement of all of the input credits. The Appellant asked for partial reimbursement because it believed that this was an exempt supply. If this is a taxable supply, the municipality would like to obtain all of the input [credits].
+[23] Counsel for the Respondent wanted to know whether the Appellant should collect the GST on the entire consideration required from the purchasers of the land.
+[24] Counsel for the Respondent does not contest that there was due diligence on the part of the Appellant, who did consult professionals.
+[25] Counsel pointed out that section 25 of Schedule V provides that the supply of real property made by a public service body is an exempt supply, with the exception of the following, specifically paragraph (c) real property made by way of sale to an individual.
+[26] The municipality installed the sewer and water supply system before the lots had been sold. This is value added to the land. The provision by sale of land includes the value of the water supply system. The consideration essentially contains two elements that cannot be dissociated.
+[27] Counsel for the Respondent referred mainly to the decision of the Federal Court of Appeal in Hidden Valley Golf Resort Association v. Canada, [2000] F.C.A. No. 869 (Q.L.), and to the decision of Sarchuk J. of this Court in Winnipeg Livestock Sales Ltd. v. Canada, [1998] T.C.J. No. 681 (Q.L.).
+Analysis and conclusion
+[28] Section 22 of Schedule V, entitled "Exempt Supplies", reads as follows:
+22 [Installation or repair of a water distribution, sewerage or drainage system] — A supply of a service, made by a municipality or by an organization that operates a water distribution, sewerage or drainage system and that is designated by the Minister to be a municipality for the purposes of this section, of installing, repairing, maintaining or interrupting the operation of a water distribution, sewerage or drainage system.
+[29] Prior to 1997, the provision reads as follows:
+22 A supply of a service, made by a municipality or by an organization that operates a water distribution, sewerage or drainage system and that is designated by the Minister to be a municipality for the purposes of this section, of installing, repairing or maintaining a water distribution, sewerage or drainage system that is for the use of all occupants and owners of real property situated in a particular geographic area, other than a supply for which a separate charge is made to the recipient of the supply, of a service of repairing or maintaining a part of the system where the recipient is the owner or occupant of a particular parcel of real property situated in the particular geographic area and the part of the system is for the exclusive use of occupants and owners of the particular parcel.
+[30] The change does not affect this case since we are not dealing with repair or maintenance of water supply or sewers, but with their installation. However, it nevertheless shows Parliament’s intention to exempt the supply of these services, even when the service is provided only to specific owners.
+[31] The relevant section of paragraph 25(c) of Schedule V reads as follows:
+25 A supply of real property made by a public service body (other than a financial institution or a government), but not including a supply of
+...
+(c) real property made by way of sale to an individual ...
+[32] I refer to the same decisions as the Counsel for the Respondent, but, after consideration, I come to a different appreciation of the facts. I quote paragraph 17 of the decision of the Federal Court of Appeal in Hidden Valley Golf Resort Association v. Canada (supra):
+17 The analysis of Rip T.C.J. in O.A. Brown is worth repeating (at 40-6 to 40-9):
+In deciding this issue, it is first necessary to decide what has been supplied as consideration for the payment made. It is then necessary to consider whether the overall supply comprises one or more than one supply. The test to be distilled from the English authorities is whether, in substance and reality, the alleged separate supply is an integral part, integrant or component of the overall supply. One must examine the true nature of the transaction to determine the tax consequences. The test was set out by the Value Added Tax Tribunal in the following fashion [Dyrham Park Country Club v. Customs and Excise Commissioners, [1978] V.A.T.T.R. 244 (U.K.) at 252]:
+In our opinion, where the parties enter into a transaction involving a supply by one to another, the tax (if any) chargeable thereon falls to be determined by reference to the substance of the transaction, but the substance of the transaction is to be determined by reference to the real character of the arrangements into which the parties have entered.
+One factor to be considered is whether or not the alleged separate supply can be realistically omitted from the overall supply. This is not conclusive but is a factor that assists in determining the substance of the transaction. The position has been framed in the following terms [Mercantile Contracts Ltd. v. Customs & Excise Commissioners, File No. LON/88/786, U.K. (unreported)]:
+What should constitute a single supply of services as opposed to two separate supplies, is not laid down in express terms by the value added tax enactments. It would therefore be wrong to attempt to propound a rigid and precise definition lacking statutory authority. One must, it seems to us, merely apply the statutory language, interpreting its terminology, so far as the ordinary meaning of the words allows, with the aim of making the statutory system of value added tax a practical workable system. For this purpose one should look at the degree to which the services alleged to constitute a single supply are interconnected, the extent of their interdependence and intertwining, whether each is an integral part or component of a composite whole. Whether the services are rendered under a single contract, or for a single undivided consideration, are matters to be considered, but for the reasons given above are not conclusive. Taking the nature, content and method of execution of the services, and all the circumstances, into consideration against the background of the value added tax system, particularly its methods of accounting for and payment of tax, if the services are found to be so interdependent and intertwined, so much integral parts or mere components or items of a composite whole, that they cannot sensibly be separated for value added tax purposes into separate supplies of services, then Parliament, in enacting the value added tax system, must be taken to have intended that they should be treated as a single system, otherwise, they should be regarded for value added tax purposes as separate supplies.
+The fact that a separate charge is made for one constituent part of a compound supply does not alter the tax consequences of that element. Whether the tax is charged or not charged is governed by the nature of the supply. In each case it is useful to consider whether it would be possible to purchase each of the various elements separately and still end up with a useful article or service. For if it is not possible then it is a necessary conclusion that the supply is a compound supply which cannot be split up for tax purposes.
+...
+Lord Widgery CJ, stated "that it is to hope when answering Lord Denning MR's question in the future in this type of case people do approach the problem in substance and reality". He added [at 195]:
+... I think it would be a great pity if we allowed this subject to become over-legalistic and over-dressed with legal authorities when, to my mind, once one has got the question posed, the answer should be supplied by a little common sense and concern for what is done in real life....
+[33] I would like to refer to paragraph 13 of Winnipeg Livestock Sales Ltd. v. Canada, [1998] T.C.J. No. 681 (Q.L.), which states:
+13 The appropriate test to determine whether there were separate taxable supplies or a single supply is whether the alleged separate supply was an integral part or component of the overall supply. As Rip J. observed in O.A. Brown:
+One factor to be considered is whether or not the alleged separate supply can be realistically omitted from the overall supply. This is not conclusive but is a factor that assists in determining the substance of the transaction. ...
+The fact that a separate charge is made for one constituent part of a compound supply does not alter the tax consequences of that element. Whether the tax is charged or not charged is governed by the nature of the supply. In each case it is useful to consider whether it would be possible to purchase each of the various elements separately and still end up with a useful article or service. For if it is not possible then it is a necessary conclusion that the supply is a compound supply which cannot be split up for tax purposes. Emphasis added
+[34] From this, I understand that the nature of the transaction is important and that this nature is determined as a function of the real character of the arrangements into which the parties have entered.
+[35] That which constitutes a single supply of services, as opposed to distinct supplies of services, depends upon the interdependence of the services with the transaction in question. Are the services part of a complete whole, or are they distinct elements? In each case, it is useful to ask whether it is possible to acquire each of the various elements separately and nonetheless obtain a useful service with respect to the transaction in question. The problem must be approached in substance and in reality.
+[36] In this case, with respect to the transaction, which was the sale of serviced lots by a municipality looking to increase its number of residents, it is admitted by both parties that the municipality could have entered into two different contracts with the purchasers. In this case, the municipality chose to recover the costs of installing municipal infrastructure as part of the contract for sale of the land. The municipality believed that it was more efficient to proceed in this way, than to collect the amount in a parallel document or by imposing a tax. Does the fact that it entered into only one contract imply that this is a single supply? I do not think so.
+[37] This is a municipality and not a private developer. Infrastructure is not sold; cost of which is included in the contract of sale. The contracts entered into by the municipality and the individual purchasers demonstrate clearly that the sale price is broken down into costs for the land and for these municipal services. The entire agreement is based on this breakdown, including specifically the amount of transfer tax, which was set at $3.
+[38] The situation is not the same as boarding animals or resort rents where, with respect to the nature of the transaction or of the agreement between the two parties, the services cannot usefully be acquired separately.
+[39] Land may be sold independently of the installation or repair of sewer and water systems. The supply of a water or sewer service by a municipality is a service that is provided separately to the landowner. A municipality constantly installs or maintains water or sewer infrastructure.
+[40] Given the nature of the agreement and given the reality, in circumstances such as those under consideration, in which the amount of the sale price was authentically broken down between two supplies, one being a good, the other being a service, and in which these supplies can be supplied separately, I conclude that these are two separate portions for separate supply, one being the sale of a lot and the other being supply of a municipal water and sewer service.
+[41] The appeal is allowed with costs.
+Signed at Ottawa, Canada, this 2nd day of December 2003.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+Translation certified true
+on this 8th day of March 2004.
+Shulamit Day-Savage, Translator

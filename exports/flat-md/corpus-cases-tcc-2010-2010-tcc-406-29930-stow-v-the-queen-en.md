@@ -1,0 +1,388 @@
+---
+title: "Stow v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29930/index.do"
+last_modified: "2010-10-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 406"
+citation2: ""
+neutral_citation: "2010 TCC 406"
+decision_date: "2010-10-06"
+language: "en"
+item_id: "29930"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6477
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:59:32.741000+00:00"
+cases_cited_count: 10
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f83ed28effcd92c7e88864e8ce5ad8e5e2b44aeac46e20227a22498df4b36f3d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stow v. The Queen
+
+- Citation: 2010 TCC 406
+- Decision date: 2010-10-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6477, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stow v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-06
+Neutral citation
+2010 TCC 406
+File numbers
+2008-1251(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1251(IT)G
+BETWEEN:
+STEPHEN STOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 2, 2009, at Vancouver, British Columbia
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Counsel for the Appellant:
+Douglas H. Mathew
+Terry Gill
+Counsel for the Respondent:
+Lynn M. Burch
+Lisa McDonald
+____________________________________________________________________
+AMENDED JUDGMENT
+In accordance with the attached Amended Reasons for Judgment, the appeal from the reassessment of the 2003 taxation year made under the Income Tax Act is allowed, with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis:
+1. that the Appellant is entitled to a partnership loss, as claimed, in the 2003 taxation year on the basis that he was a member of a valid partnership that came into existence on December 18, 2003 and further, that the Minister of National Revenue was not justified in making an allocation of a partnership loss under section 103; and
+2. that the Appellant is entitled to a childcare deduction of $16,000; and
+3. With respect to the 2003 taxation year, the Appellant did not earn business income of $754,787 from the disposition of shares of 360networks.
+This Amended Judgment and Amended Reasons for Judgment are issued in substitution for the Judgment and Reasons for Judgment dated August 3, 2010.
+Signed at Ottawa, Canada, this 6th day of October, 2010.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2010TCC406
+Date: 20101006
+Docket: 2008-1251(IT)G
+BETWEEN:
+STEPHEN STOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Sheridan, J.
+[1] This appeal originally involved several issues spanning the Appellant’s 1999 to 2006 taxation years. At the hearing, however, counsel advised that the only issues remaining for the Court’s consideration were the Appellant’s entitlement to a deduction of approximately $6 million as his share of a loss in the Seaview Trading Partnership and to certain childcare expenses in 2003. It was agreed by the parties that the Appellant’s entitlement to a childcare expense deduction would follow the Court’s disposition of the partnership issue. Accordingly, the appeal proceeded on agreed facts and read-in portions from examinations for discovery in respect of the partnership issue only.
+[2] The Statement of Agreed Facts (Partial) reads as follows:
+The parties admit the following facts only for the purposes of these appeals and any further appeals respecting them. The parties also agree to the authenticity of the attached documents listed on Schedule “A” hereto and consent to their admission into evidence only for the purposes of these appeals and any further appeals respecting them. Either party may adduce other evidence relevant to these appeals and not inconsistent with the facts in this statement and attached documents.
+1. Seaview Venture Sdn. BHD (“Venture”) and Ethical Equity Sdn. Bhd. (“Ethical”) are Malaysian corporations owned by the Appellant’s spouse (the “Spouse”).
+2. On the advise of a Malaysian resident, David Crichton-Watt (“Watt”), a friend of the Appellant and the Spouse, the Spouse decided in 2003 that Venture and Ethical would enter into a general partnership under the name of Seaview Trading Partnership (Bermuda) (the “Partnership”) [FOOTNOTE 1: The term “Partnership” is used in this Statement of Agreed Facts (Partial) for convenience only, as an abbreviation of the Seaview Trading Partnership (Bermuda), and is not an admission by the Respondent that the endeavour meets or met the legal definition of a partnership, which will otherwise be determined by the pleadings and the evidence.] to carry on the business of acquiring and trading in commodities, options, forward contracts, futures contracts and other derivative financial instruments.
+3. The Spouse was not involved in any trading activities and had no experience or expertise in trading.
+4. At all material times, Watt was manager and a director of Venture.
+5. At all material times, Hue See Leng, a business associate of Watt, was manager and director of Ethical.
+6. A written partnership agreement was not executed and registered in Bermuda until October 3, 2003 (the “Partnership Agreement”). See Tab 1 of the Joint Book.
+7. Prior to December 18, 2003, Venture and Ethical had contributed total capital of approximately $ 8.5 CDN to the Partnership. See Tab 4 and 5 of the Joint Book.
+8. Venture and Ethical owned 80% and 20% interests in the Partnership, respectively.
+9. The Partnership had a fiscal year end of December 31.
+10. The Partnership Agreement stipulated that profits and losses were to be allocated to those persons who were partners at the end of each fiscal year of the Partnership in proportion to their capital accounts.
+11. On December 18, 2003, approximately two weeks prior to the Partnership’s fiscal year end, the Appellant purchased Venture’s 80% share of the Partnership for $1,063,664 CDN. See Tabs 13 and 14 of the Joint Book.
+12. At the time the Appellant acquired Venture’s interest in the Partnership, the Partnership’s net book value was approximately $957,714, such that the net book value of the interest that the Appellant acquired from Venture was approximately $766,171. See Tab 3 of the Joint Book.
+13. The Appellant executed the following documents as part of his acquisition of Venture’s share of the Partnership: Partnership Interest Transfer Agreement, Assignment of Partnership Interest and Agreement to be Bound. See Tabs 7, 8 and 9 of the Joint Book.
+14. At the time the Appellant acquired Venture’s share of the Partnership it was known that the Partnership had unrealized losses in the amount of $7,547,810 (the “Loss”) relevant to the 2003 fiscal period. See Tabs 4 and 5 of the Joint Book.
+15. The Loss was the result of currency trades taking place between October 10, 2003 and December 8, 2003 all with December 19, 2003 as the specified settlement date. See a copy of the trade tickets at Tab 2 of the Joint Book.
+16. No fresh trades were initiated by the Partnership between December 8, 2003 and December 31, 2003.
+17. On December 31, 2003 the Loss was allocated 80% to the Appellant and 20% to Ethical.
+18. In 2003, the Appellant reported a loss from the Partnership in the amount of $6,038,248.
+19. Alistair MacDonald of Triathlon Ltd., and an individual resident in Bermuda was at all material times manager of the Partnership.
+20. The Partnership retained the services of Vancouver broker Victor Adair, of Refco Futures (Canada) Ltd. to execute trades on its behalf.
+21. On March 26, 2004, Ethical’s 20% interest in the Partnership was purchased by Zen Capital & Mergers Ltd., (“Zen”) a corporation resident in Canada related to the Appellant, with the result that the Partnership became a “Canadian partnership” as defined in the Income Tax Act at that time.
+22. Zen is wholly owned by the Appellant.
+23. The Spouse executed the Agreement to be Bound and Assignment of Partnership Interest effecting Zen’s acquisition in her capacity as director of Zen. See Tabs 10 and 11 of the Joint Book.
+24. The Appellant executed the Partnership Interest Transfer Agreement on behalf of Zen. See Tab 12 of the Joint Book.
+25. The Partnership incurred net trading losses in the amounts of $131,996, $28,659, $2,070.31 and $1,740 in the 2004, 2005, 2006 and 2007 taxation years. See Tabs 29, 30, 31 and 32 of the Joint Book.
+[3] The Minister’s assumptions in respect of the partnership issue are set out at paragraph 1.9 of the Reply to the Notice of Appeal. While most of them have been incorporated either expressly or by implication into the Statement of Agreed Facts (Partial), the following assumed facts remain in dispute:
+1.9.128 the principle (sic) reason that Venture and Ethical agreed to the allocation of losses was to reduce or postpone the Appellant’s liability for tax in Canada by the application of losses of the Seaview Trading Partnership losses to his income reported in Canada;
+…
+1.9.133 the Appellant’s purchase of Venture’s share of the Seaview Trading Partnership had no viable commercial purpose and lacked all credible commercial motivation except for the purpose of utilizing losses;
+1.9.134 the original Seaview Trading Partnership ceased to exist immediately before December 18, 2003 and a new partnership began on that date;
+1.9.135 any losses of the Seaview Trading Partnership are attributable to Venture and Ethical and not to the Appellant or Zen;
+…
+1.9.142 the Appellant incurred nil partnership losses in his 2003 taxation year and not $6,038,248, as claimed;
+…
+1.9.146 the Appellant paid a premium of $301,912 over and above the value of 80% of the net book value of the Seaview Trading Partnership;
+1.9.147 as it had only come into existence in 2003 and had earned no income, the Seaview Trading Partnership was not worth any more than the net book value;
+[4] The Appellant’s position is that the sole issue is “one of continuity of partnership”[1], whether, upon the Appellant’s acquisition of Venture’s 80% interest, the Seaview Trading Partnership continued as the “same partnership”[2]. Subject to the concerns raised under “Preliminary Matter”, below, the Appellant maintains that the Minister was not justified in making a reallocation under section 103 of his share of the partnership loss.
+[5] The Respondent’s primary position is that the Appellant is not entitled to any partnership loss deduction because no valid partnership came into existence upon his acquisition of Venture’s interest in the Seaview Trading Partnership on December 18, 2003. Alternatively, the Minister argues that even if there was a valid partnership, section 103 of the Income Tax Act applies to reduce the Appellant’s share of partnership losses from the $6 million claimed to “nil”.
+Preliminary Matter – Appellant’s Position
+[6] At the commencement of the hearing, counsel for the Appellant advised the Court that it ought not to entertain any submissions from the Respondent other than those related to the “continuity” [3] of the partnership issue as neither the “validity” of the partnership nor the application of section 103 had been properly pleaded. Counsel contended that both were inconsistent with the Minister’s admissions, assumptions and/or answers on examination for discovery.
+[7] In respect of his concerns with the validity of the partnership issue, counsel for the Appellant referred first to the facts assumed by the Minister, in particular, in paragraph 1.9.134 of the Reply:
+1.9.134 the original Seaview Trading Partnership ceased to exist immediately before December 18, 2003 and a new partnership began on that date;
+[8] This assumption had been put to the Respondent’s nominee, Mr. Brian Ellis, the Canada Revenue Agency auditor assigned to the Appellant’s file, on examination for discovery:
+…
+Q …
+I wonder if you could go to paragraph 134, which if I understand it is the nub of the respondent’s position. If I understand it correctly, really the debate we’re having on the partnership revolves around the partnership before and after this December 18th date. Do I understand the respondent’s position is that the transfer of the Seaview Venture partnership interest from Seaview Venture to Mr. Stow caused the partnership to cease to exist; is that right? To terminate?
+A And a new partnership to be formed.
+Q Okay. Then a new partnership is formed with Stow and Ethical –
+A As a Canadian partnership.
+Q -- going forward. And that carried on – that second partnership carried on until Zen comes into the picture?
+A Yes.
+Q And then we commence – you have a third partnership?
+A We didn’t make that determination.
+Q That’s fine. Thank you. I understand that now.[4]
+[9] Counsel for the Appellant also referred the Court to paragraph 1.2 of the Reply in which the Respondent admitted of the following allegations in the Notice of Appeal:
+41. In the 2003 taxation year the Appellant acquired an 80% partnership interest and became a general partner in the Seaview Trading Partnership (Bermuda) (the “Seaview Partnership”), a general partnership registered in Bermuda and carrying on a derivative trading business in Canada.
+42. In the 2003 taxation year, the Seaview Partnership held its inventory of derivative instruments in Canada, including contracts for the future sale of currencies with major financial institutions as counterparties such as the Royal Bank of Canada and the Bank of Montreal.
+43. In the fiscal year ending December 31, 2003, the Seaview Partnership realized a business loss of $7,547,810 from the disposition of Canadian inventory of derivative instruments.
+44. the Appellant was allocated 80% of the Seaview Partnership loss (being $6,038,248) pursuant to section 96 of the Act.
+[10] Read as a piece, counsel argued, the effect of the Respondent’s admissions, assumptions and answers on examination for discovery is that the Minister has pleaded and admitted that there was a partnership both before and after December 18, 2003. Thus, the only issue before the Court is whether:
+… the “Partnership continued as the same partnership. In the Appellant’s submission, the law on continuity of partnerships set out above is a complete answer to the basis of the assessment raised by the Respondent and is sufficient to decide this case[5].
+[11] In respect of the Respondent’s alternative argument under section 103, counsel for the Appellant submitted that the Respondent ought not to be permitted to make what was, essentially, an unpleaded alternative argument. Apart from a bare reference to section 103 in the “Statutory Provisions Relied On” section, he contended, the Reply was in all other respects devoted exclusively to the “continuity of the partnership” issue.
+Preliminary Matter - Respondent’s Position
+[12] The Respondent’s position is that the Minister’s pleadings put the validity of the partnership formed on December 18, 2003 squarely in issue. According to counsel for the Respondent, the Minister’s arguments can be linked directly to the assumed fact at paragraph 1.9.133 of the Reply to the Notice of Appeal:
+1.9.133 the Appellant’s purchase of Venture’s share of the Seaview Trading Partnership had no viable commercial purpose and lacked all credible commercial motivation except for the purposes of utilizing losses;
+[13] Counsel submitted that the law is well established that whenever a new partner joins an existing partnership, the existence of the three prerequisites of partnership must be reaffirmed[6]: that there is 1) a business; 2) carried on in common; 3) with a view to profit. She argued that “the fact articulated … at paragraph 1.9.133 of the Reply go [sic] directly to the intent to profit issue that is the third ingredient of the partnership test”[7], the salient fact being that there was no “ancillary profit making purpose” and thus, no view to profit at the time of the Appellant’s acquisition of Venture’s interest on December 18, 2003.
+[14] In respect of assumption 1.9.134, counsel for the Respondent submitted that the statement that “a new partnership began”[8] could not be taken as an admission of the existence of a valid partnership at law because the Minister cannot plead conclusions of law as assumptions of fact[9]. The use of the word “partnership” in the Reply was merely intended as a kind of short-hand reference for the relationship that came into existence between Ethical and the Appellant when he acquired Venture’s shares on December 18, 2003.
+[15] As for section 103, counsel for the Respondent argued that the inclusion of section 103 and subsection 152(9) as “statutory provisions relied on”, together with the assumed fact at paragraph 1.9.128 combined to put the applicability of that provision in issue. Paragraph 1.9.128 reads as follows:
+1.9.128 the principle (sic) reason that Venture and Ethical agreed to the allocation of losses was to reduce or postpone the Appellant’s liability for tax in Canada by the application of the losses of the Seaview Trading Partnership losses to his income reported in Canada.
+Preliminary Matter Analysis
+[16] But for the Appellant’s own characterization of the matter in dispute, I would have had some sympathy for counsel’s submission that there is little in the Reply that speaks directly to the validity of the partnership and even less, to the view to profit. Section 96, the lynch pin of the partnership rules under the Act, is not even listed among the statutory provisions relied upon in the Reply. The only provision listed pertaining to partnership is section 103. Section 103 is an anti-avoidance provision which, under certain circumstances, permits the Minister to allocate to a taxpayer partner a loss share amount different from that claimed. Interestingly, under section 103, the validity of the partnership is not in question; its focus is on the reasonableness of the share of a partnership loss claimed by a particular member of that partnership. Thus, given the general vagueness of the Minister’s framing of the issue as simply “whether the Appellant is entitled to deduct a loss from the Seaview Trading Partnership”[10], one might be forgiven for concluding that section 103 had formed the basis of the Minister’s assessment, especially given the use of language evocative of that provision elsewhere in the Reply[11].
+[17] Given the above, I find untenable the Appellant’s contention that the Respondent ought to be precluded from making submissions on section 103.
+[18] As for the matter of the “validity of the partnership”, I agree with counsel for the Appellant’s submissions that the Respondent’s pleadings and answers on discovery could have been more clearly stated.
+[19] It seems that by the time of the hearing, the Respondent had formed a similar view: why else the sudden bulking up of the Reply’s barebones statement of the issue in the Respondent’s Points of Argument? At paragraph 2.1.5 of the Reply, the issue is simply stated as “whether the Appellant is entitled to deduct a loss from the Seaview Trading Partnership”; under Section 1 of the Points of Argument, however, a far more detailed description appears:
+1. The issues to be determined are:
+a. whether the Appellant was a member of a valid partnership;
+b. if not, then he is not entitled to the $6,038,248 partnership loss claimed in 2003;
+c. if there is a valid partnership, then the issue is whether the circumstances of this case justify reallocation by the Minister pursuant to section 103.
+2. The Respondent says according to the law, a new entity was formed on December 18, 2003. That entity does not meet the test of what is a partnership at law due to the presence of the Appellant’s tax motivations and the lack of any ancillary business motivation.
+3. As the new entity is not a valid partnership, the Appellant is not entitled to the $6,038,248 losses from the Partnership as claimed in his 2003 taxation year.
+4. If the Respondent is wrong, and this Honourable Court finds that the new entity was a valid partnership at law, then the Respondent submits that section 103 applies to limit the Appellant’s losses to $nil.[12]
+[20] Having said all that, I am unpersuaded by the Appellant’s argument regarding the “continuity” of the partnership before and after December 18, 2003. Whether expressed as such or as the “validity” of the partnership as of that date, it seems to me that the same test applies. The jurisprudence is clear that the question is not whether the partnership as configured upon the arrival of a new partner is the “same partnership” as the originally configured partnership but rather, whether upon the acquisition of an interest in that partnership by a new member, the three prerequisites for a valid partnership exist in respect of the newly configured partnership. As stated in Backman:
+42 A validly constituted partnership … is a continuing entity so long as none of the statutory or contractual events of dissolution occurs and the composition of that partnership remains the same. A partnership agreement may facilitate a change in the composition of the partnership … but that does not obviate the need for persons intending to enter the partnership as partners to meet the essential criteria of a valid partnership.[13] [Emphasis added.]
+[21] Thus, even to prove the “continuity” of the partnership, the Appellant must still show that upon becoming a member of the Seaview Trading Partnership, there was 1) a business; 2) carried on in common; 3) with a view to profit. As the Respondent has conceded the first two criteria, the Appellant need prove only the third element, that as of December 18, 2003, the Seaview Trading Partnership had a “view to profit”.
+[22] Before turning to the substantive issues, one final comment on the state of the Respondent’s pleadings and answers on examination for discovery: while the Minister’s lack of precision does not justify restricting the Respondent’s submissions in the manner requested by the Appellant, nor is it without other consequences. I am mindful of the fact that the partnership issue before the Court was but one in a reassessment involving many other facets of the Appellant’s operations, all of which had to be addressed in the Reply. Complexity, however, does not relieve the Minister of his duty to express clearly the basis for each aspect of the assessment[14]; as Sharlow, J.A. put it in R. v. Anchor Pointe Energy Ltd.[15]:
+Fairness requires that the facts pleaded as assumptions be complete, precise, accurate and honestly and truthfully stated so that the taxpayer knows exactly the case and the burden that he or she has to meet.[16]
+In the present case, the lack of specificity in the Respondent’s pleadings, particularly the assumptions, lessened the evidentiary burden which the Appellant might otherwise have faced. I was unmoved by counsel for the Respondent’s argument that a negative inference ought to be drawn from the Appellant’s having relied solely on the Statement of Agreed Facts (Partial) and the read-ins from the examination for discovery rather than calling additional witnesses such as his spouse, legal advisors, accountant or broker to testify to a partnership business plan. While the evidence presented by both parties left me with the feeling that I had not heard the whole story, I found the Appellant’s evidence, on balance, sufficient to rebut the Minister’s assumptions and more persuasive of his position than the contentions advanced by the Respondent.
+Substantive Issues
+1. Validity of Partnership – View to Profit
+Appellant’s Position
+[23] The Appellant’s position is that the Seaview Trading Partnership continued before and after the Appellant’s acquisition of Venture’s interest on December 18, 2003. As a member of a valid partnership, under section 96 the Appellant was entitled to an 80% share of any partnership losses as of its December 31, 2003 year end.
+Respondent’s Position
+[24] The Respondent’s position is that no valid partnership came into existence upon the Appellant’s entry into the Seaview Trading Partnership on December 18, 2003 because there was no view to profit. The assumption underpinning the Respondent’s position is that “the Appellant’s purchase of Venture’s share of the Seaview Trading Partnership had no viable commercial purpose and lacked all credible commercial motivation except for the purpose of utilizing losses”[17].
+[25] Counsel for the Respondent submitted that the Appellant’s only intention in acquiring Venture’s interest in the Seaview Trading Partnership was to access its losses for use in the affiliated family businesses. While acknowledging that being motivated to enter a partnership for tax planning purposes does not, in itself, preclude the existence of a valid partnership[18], counsel argued that the Appellant must nonetheless prove a co-existing “ancillary profit-making purpose”[19]. According to the Respondent, there is no evidence to support such a finding.
+Substantive Analysis
+[26] For the reasons set out below, I am satisfied that a valid partnership came into existence upon his acquisition of Venture’s interest in the Seaview Trading Partnership on December 18, 2003.
+[27] The Seaview Trading Partnership had three iterations: the partnership originally created on April 1, 2003 by Venture and Ethical (the “Original Partnership”); the partnership under appeal, created on December 18, 2003 upon the Appellant’s acquisition of Venture’s 80% share (the “Appeal Partnership”); and a subsequent partnership created on March 26, 2004 upon Zen’s acquisition of Ethical’s 20% share (the “Subsequent Partnership”). For the sake of clarity, these defined terms will be used hereafter in the Reasons.
+[28] In Backman and its companion case, Spire Freezers, the Supreme Court of Canada held that that “upon the entry of a new partner, the criteria of a valid partnership must be reaffirmed in order for the partnership to continue in its new form”[20]. In determining the existence of a valid partnership, the Court must:
+… inquire into whether the objective, documentary evidence and the surrounding facts, including what the parties actually did, are consistent with a subjective intention to carry on business in common with a view to profit.
+Courts must be pragmatic in their approach to the three essential ingredients of partnership. Whether a partnership has been established in a particular case will depend on an analysis and weighing of the relevant factors in the context of all the surrounding circumstances. That the alleged partnership must be considered in the totality of the circumstances prevents the mechanical application of a checklist or a test with more precisely defined parameters.[21]
+[29] The Respondent does not dispute that the Original Partnership between Venture and Ethical was valid. Nor does the Crown take issue with the validity of any of the partnership documents: the original partnership agreement between Venture and Ethical dated October 3, 2003[22] (“Original Partnership Agreement”) and the Appeal Partnership agreements i.e., the Partnership Interest Transfer Agreement[23], the Assignment Of Partnership Interest[24], and the Agreement To Be Bound[25] all dated December 18, 2003.
+[30] Each of these documents contains fairly standard clauses. Paragraph 2.1 of the Original Partnership Agreement provides the basic “continuity of partnership” clause mentioned in Backman:
+The Partnership shall commence on the date hereof and shall continue until terminated by the Partners in accordance with this Agreement. The Partnership formed hereby is a general partnership and the Partners hereby agree to carry on business with each other and to share amongst them any profits arising therefrom in accordance with this Agreement. The event of a person or persons becoming or ceasing to be Partners shall not dissolve the Partnership.
+[31] Similarly, paragraph 3 of the Agreement to be Bound between the Appellant and Venture and Ethical expressly provides that “Notwithstanding [Venture’s] departure from the Partnership and the admission of [the Appellant] to the Partnership, the Partnership continues intact over the transition”[26]. These documents also adopt the business purpose of the partnership stated in the Original Partnership Agreement of carrying on trading activities as further described in paragraph 2 of the Statement of Agreed Facts (Partial).
+[32] There being on the face of it “objective, documentary evidence” of the Appeal Partnership’s view to profit, it remains for the Appellant to show that the surrounding facts are consistent with a subjective intention to do the same. The Backman decision requires the Court to take a pragmatic approach to that analysis and consider, among other things, “what the parties actually did”.
+[33] In Spire Freezers, the Supreme Court of Canada looked at the following facts to hold there was a valid partnership; in so doing, the Court contrasted its findings with those in Backman where the opposite conclusion was reached:
+… The alleged partnership in Backman had no significant management control over [the subordinate asset, a one per cent interest in an oil and gas property] nor did the acquisition of that asset represent a continuation of a pre-existing business of one of the putative partners. When production was shut down shortly after purchase, no other investments in oil and gas were made. Thus …. the alleged partnership was “an empty shell that does not in fact carry on business”… In [Spire Freezers] the subordinate asset held by the partnership was the entire interest in an apartment building. The property management business that was associated with that asset was pre‑existing and continued by the [partners]. [The business] required a substantial management effort which the [partners] provided, and from which they benefited by generating a profit. As noted by Robertson, J.A., “the partnership continued to hold title to a profit-generating asset, namely, the apartment building, for at least a decade after the sale of the condominium development”.[27]
+[34] The divergent results in Backman and Spire Freezers, notwithstanding their quite similar facts and having been decided by the same trial judge, illustrate dramatically the fact-driven nature of the inquiry into the existence of a valid partnership. In my view, the present case falls on the Spire Freezers side of the ledger.
+[35] The Seaview Trading Partnership’s only asset was its currency trading business. That same asset was used to carry on the same business before and after December 18, 2003 and continued until 2007. In Water’s Edge[28], the Federal Court of Appeal overturned the findings of the Tax Court judge to hold a valid partnership existed even though the partners (unabashedly motivated by tax planning) paid $320,000 to acquire interests in a partnership whose only asset was an obsolete computer valued at $7,000, the lease of which was to expire within days of the acquisition.
+[36] Here, there was no change in the conduct of what, prior to the Appellant’s acquisition of Venture’s partnership interest, the Minister assumed had been a valid commercial enterprise. Indeed, in his assumptions, the Minister virtually adopted the description of the business activities in both the Original Partnership Agreement[29] and the subsequent Assignment of Partnership Interest executed by the Appellant upon his entry into the Appeal Partnership with the remaining original partner, Ethical[30].
+[37] The Appellant was a lawyer and an experienced currency trader in his own right; concurrent with his membership in the Appeal Partnership, he was also engaged in that business activity in his personal capacity[31]. While it is true that the Appellant and Ethical delegated the day-to-day operations of the Appeal Partnership to other qualified individuals, the Supreme Court of Canada held in Continental Bank that “[t]he fact that the management of the Partnership was given to the Managing Partner does not mandate a conclusion that the business was not carried on in common”[32] and by analogy, is not fatal to a finding of a view to profit. Furthermore, the Respondent’s reliance on Spire Freezers for the proposition to the effect that evidence of management efforts is necessary for a view to profit is misplaced; that aspect of the Court’s findings had to do with whether there was “a business”[33], a question that is not in dispute in the present matter.
+[38] Here, the Seaview Trading Partnership, throughout its iterations as the Original Partnership, the Appeal Partnership and the Subsequent Partnership, continued in the same business activities with the same manager and broker until sometime in 2007. If recent history is any indication, the derivative trading business is not without a certain amount of risk. In any case, although the partnership’s efforts ultimately resulted in a net loss, that was not through lack of activity, as suggested by counsel for the Respondent in her submissions[34]; indeed, there were trades totalling some $40 million over the lifetime of the Seaview Trading Partnership. It is against this larger background that the $6-million loss must be considered.
+[39] Counsel for the Respondent was also troubled by the fact that the Appellant was aware of the Original Partnership’s currency trading losses prior to his acquisition of Venture’s interest; that the purchase occurred just one day before their crystallization; and that the Appellant had been a member of the Appeal Partnership for only two weeks before its December 31, 2003 year end.
+[40] I do not find these submissions persuasive. In OSFC Holdings Ltd. v. R.[35], the Federal Court of Appeal held that under the section 96 partnership rules, “[i]rrespective of when a partner enters the partnership in a taxation year of the partnership, provided he is a partner at the end of the taxation year, the loss of the partnership from any source for its taxation year is the loss of the partner[36]. Thus, the validity of the partnership does not hinge on the length of a partner’s tenure as a member. Examples of valid short-term partnership appear throughout the jurisprudence; most notably, Spire Freezers, in which there was a valid partnership even though its existence lasted, literally, “a brief instant”[37].
+[41] Counsel for the Respondent made several other submissions regarding the Minister’s position that the Appellant had no view to profit and acquired Venture’s interest in the Original Partnership only to utilize its losses. First, there was the matter of the purchase price of Venture’s interest in the Original Partnership. The Minister assumed at paragraph 1.9.146 of the Reply that:
+1.9.146 the Appellant paid a premium of $301,912 over and above the value of 80% of the net book value of the Seaview Trading Partnership;
+[42] Counsel submitted that there was no evidence of a business plan or that the Appellant had engaged in any “hard bargaining” to acquire Venture’s interest. In paying $1,063,664[38] for Venture’s partnership share when it had a net book value of $766,171[39], the Appellant paid a “premium” of approximately $300,000 to access a loss worth seven times the purchase price. There cannot be, counsel argued, “[a] remarkable discrepancy” between the amount paid to become a member of the partnership and hence enjoy the loss, and the amount of the loss claimed …”[40]. Counsel likened the Appellant’s situation to those of the taxpayers in Makuz v. Canada[41] and Witkin v. Canada[42] in which it was held that there was no view to profit.
+[43] The jurisprudence is clear that for the establishment of an “ancillary profit‑making purpose”, the evidentiary threshold is a low one[43] - in the present case, all the more so given the imprecision of the Minister’s assumptions. It must also be kept in mind that the intention to operate with a view to profit is a subjective one. I am not at all persuaded by the submissions of counsel for the Respondent that the Appellant’s answers on examination for discovery lead inexorably to the conclusion that his sole intention was to access tax losses. While admitting his plan to use the losses in the family businesses[44], the Appellant also stated:
+118 Q What was the basis for your decision to get involved?
+A Well, the basis was on advice from the family, the family lawyers. It all came from here, which was that if there was a loss in one of the family assets, which I might be able to utilize in my own personal situation, and there was a business that I would want to continue, I think that’s reflected in the pricing that I paid.”
+[44] Even counsel for the Respondent could go no farther in her submissions than to say it was “not clear” from the above response that the Appellant was motivated entirely by tax planning. The Appellant does not dispute that in deciding to acquire Venture’s interest in the Original Partnership, he relied on the family’s legal advisors, in particular, Mr. Watt, who was himself involved in currency trading[45]. There is nothing inherently wrong with the Appellant’s having relied on their advice. His answer also indicates that in taking such counsel, the Appellant had considered, at least to some extent, the partnership’s business viability and its purchase price. The jurisprudence shows a partnership may exist even where new partners have acquired losses well in excess of the amount paid for their partnership interests: see Water’s Edge, mentioned above, and Spire Freezers in which the new partners paid US $1.2 million to acquire about US $10.4 million in losses. In OSFC, Rothstein, J.A. (as he then was) noted, in the context section 245, that:
+… the primary purpose of a transaction will be determined on the facts of each case. In particular, a comparison of the amount of the estimated tax benefit to the estimated business earnings may not be determinative, especially where the estimates of each are close. Further, the nature of the business aspect of the transaction must be carefully considered. The business purpose being primary cannot be ruled out simply because the tax benefit is significant.[46]
+[45] This approach is equally useful in the determination of a view to profit. I have no reason to doubt the Appellant’s evidence on examination for discovery[47] that he and his wife relied on the advice of their respective advisors as to the “fair” value of Venture’s partnership interest. When considered from a Backman pragmatic perspective, the Appellant’s explanation that it is more difficult to evaluate precisely the value of a partnership interest in a group of family-controlled enterprises than, for example, publicly traded stock is not unreasonable.
+[46] As for the Respondent’s reliance on Makuz and Witkin, in my view, both decisions are readily distinguishable. Unlike the present matter, they involved a complex set of transactions geared only to produce a tax benefit for a multitude of putative partners. Though decided by different judges, the same facts were present in each case[48]. To get a flavour of the nature of the scheme, regard may be had to the summary of former Chief Justice Bowman in Makuz at paragraphs 27 to 29:
+I have traced the complex series of transactions beginning with the creation of CA, the construction of the Claridge with the large losses and 79 unsold units through to the final transactions whereby MSI transferred 5.4% of the units some time after March 31, 1988. It is important to determine just what the appellants were getting when they paid an aggregate of approximately US $37,220 for each 1% partnership interest of CH1.
+Considering that the transactions were all pre-orchestrated, the appellants were buying on March 28, 1988 into a partnership which in two days would be stripped of all of its assets and be left with nothing but a promise by MSI to convey 5.4% of the Claridge units to it if, as and when it acquired them.
+The appellants were getting the prospect of a large tax write-off in respect of a loss that it was certain had already occurred plus a chance, a possibility, or a hope of getting a 5.4% interest in 79 unsold condominiums. We know what the losses were worth if they could successfully be used by the appellants – the tax value of a write-off of over $40,000,000. What was an uncertain chance of getting 5.4% of 79 unsold condominium units worth? The promotional material says that the unsold 79 units had a fair market value (“fmv”) of about US $23,000,000. Without deciding whether the figure is correct, 5.4% of $23,000,000 is $1,242,000.
+[47] It was against this backdrop that the Court expressly rejected the taxpayers’ “testimony about their subjective intentions” to find that there was only an “illusory”[49] prospect of profit. In Witkin, the Federal Court of Appeal adopted Beaubier, J.’s findings that the taxpayer’s “plan was that the operation of [the partnership] would be carried on in the same losing manner as before” and that “there was only a mere possibility of a return of capital and that possibility was remote”[50]. The Court also found that the taxpayer, a sophisticated businessman, “chose not to use or review projections given to him”[51].
+[48] There is no such evidence in the present matter. The Appellant’s acquisition of Venture’s interest was not a complex transaction: both before and after the Appellant’s acquisition of Venture’s interest, the same business continued using the same asset managed by the same administrator and broker. While no formal business plan was in evidence, its production is not a prerequisite to a finding of a view to profit, particularly in view of the Respondent’s ambiguous pleadings. There is no obligation on a partner to adduce evidence as to exactly how or in what amount partnership losses are going to be recouped.
+[49] The Respondent’s argument also addressed the partnership documents which, according to counsel, expressly “anticipated that issues might arise with respect to the price he paid”[52]. Counsel pointed, in particular, to clauses 2.2 and 2.5 of the Partnership Interest Transfer Agreement. She noted that the same clauses were used in the Partnership Interest Transfer Agreement governing Zen’s acquisition of Ethical’s partnership interest in March 2004[53], evidence of a pattern of behaviour inconsistent with an ancillary profit-making purpose.
+[50] I do not find this argument at all persuasive. These clauses must be read in context. They are essentially standard form terms used to signal the parties’ intention that the purchase price be equal to the fair market value of the partnership interest; furthermore, they provide a formula for a price adjustment, up or down, should it later be determined that it was not equal to that amount. There is nothing out of the ordinary in the inclusion of such a provision in a document of this kind.
+[51] In all the circumstances, I am satisfied that Ethical and the Appellant had a view to profit when he acquired Venture’s 80% interest on December 18, 2003 and that a valid partnership came into existence on that date.
+2. Applicability of Section 103
+[52] Given that the Appeal Partnership was a valid one, the next issue is whether the Minister was justified in allocating to the Appellant a share of the Appeal Partnership loss equal to ‘nil’ under section 103 of the Act.
+Legislation
+[53] Section 103 must be read in the context of subsection 96(1), the general provision governing the treatment of partnership losses. Subsections 103(1) provides that:
+103(1) Where the members of a partnership have agreed to share, in a specified proportion, any income or loss of the partnership from any source or from sources in a particular place, as the case may be, or any other amount in respect of any activity of the partnership that is relevant to the computation of the income or taxable income of any of the members thereof, and the principal reason for the agreement may reasonably be considered to be the reduction or postponement of the tax that might otherwise have been or become payable under this Act, the share of each member of the partnership in the income or loss, as the case may be, or in that other amount, is the amount that is reasonable having regard to all the circumstances including the proportions in which the members have agreed to share profits and losses of the partnership from other sources or from sources in other places. [Emphasis added.]
+[54] Subsection 103(1.1) uses similar language but employs different triggering and reasonableness criteria:
+103(1.1) Where two or more members of a partnership who are not dealing with each other at arm’s length agree to share any income or loss of the partnership or any other amount in respect of any activity of the partnership that is relevant to the computation of the income or taxable income of those members and the share of any such member of that income, loss or other amount is not reasonable in the circumstances having regard to the capital invested in or work performed for the partnership by the members thereof or such other factors as may be relevant, that share shall, notwithstanding any agreement, be deemed to be the amount that is reasonable in the circumstances. [Emphasis added.]
+Respondent’s Position
+[55] The Minister submits that either of subsection 103(1) or subsection 103(1.1) “would operate to reallocate the $6 million loss claimed by [the Appellant] to nil”[54]. Counsel for the Respondent submitted further that whether under subsection 103(1) or subsection 103(1.1), “… the test is really the same. You have to look at all of the circumstances to determine whether the amount allocated is reasonable”[55].
+[56] According to counsel for the Respondent, the Minister’s assessment under section 103 was premised on the following assumption of fact:
+1.9.128 the principle (sic) reason that Venture and Ethical agreed to the allocation of losses was to reduce or postpone the Appellant’s liability for tax in Canada by application of the losses of the Seaview Trading Partnership losses to his income reported in Canada; [Emphasis added.]
+[57] Referring, as it does, to an agreement between Venture and Ethical, the members of the Original Partnership (rather than the Appellant and Ethical, the members of the Appeal Partnership), the Minister’s assumption would appear, at first blush, to be barking up the wrong tree. But, as I understand the submissions of counsel for the Respondent, to conclude thusly is to take too narrow a view:
+… there is nothing in [subsection 103(1)] that says the analysis begins and ends with the partnership agreements. The reference to an agreement to share is not bound to what is stipulated in the partnership agreements, because if it was, it is unlikely that there would ever be any assessments under section 103.[56]
+…
+And [counsel for the Appellant] is right, Venture is no longer a member of the partnership and has not, to my understanding, retained any residual rights. I understand the purpose and the effect of the partnership agreements between Venture and the Appellant to convey to the Appellant all of the rights that Venture would have had under the partnership agreement. I don’t think there is anything that remained with Venture. It is certainly not our position.[57]
+…
+The fact that only one party in the allocation arrangement has a principal tax motivation is not a bar to the application of section 103. So the Crown doesn’t have to show any intention in respect of Ethical. And what is relevant is not the intention at the time the partnership agreement is drafted, but rather the purposes for which the agreement is being used.
+Now, let’s not forget that Ethical was owned by [the Appellant’s] spouse, Venture was owned by [the Appellant’s] spouse, Thorsteinssons was representing the partnership and Thorsteinssons was representing the family. So this is all one – this is all under the umbrella of one plan. It’s a common intention, it’s a common agreement that Venture must have agreed that these losses would be attributed to [the Appellant] and not [his spouse]. Maybe she couldn’t use the losses. We know how much she earned, we know what her line 150 income was in 2003, and just for your reference that is found on the first page of [the Appellant’s] return for 2003 behind Tab 28 [of the Joint Book of Documents]. She earned net income on $51,792. Of course we don’t know how that amount was arrived at. But maybe she couldn’t use the losses and maybe [the Appellant] could. Otherwise, why would the losses have been transferred to [the Appellant]?
+So where it comes down to the agreement for sharing the profit and losses, that’s the agreement that section 103 is looking at. It is not the partnership agreement. It is not some document. It’s what was the agreement between these parties? Well, judge them by what they did.[58]
+[58] For ease of reference, the different iterations of the Seaview Trading Partnership between 2003 and 2007 and their respective memberships are reiterated below:
+Original Partnership: Venture and Ethical
+(April 1- December 17, 2003);
+Appeal Partnership: the Appellant and Ethical
+(December 18, 2003 – March 26, 2004;
+Subsequent Partnership: the Appellant and Zen
+(March 26, 2004 – 2007).
+[59] Rooted as it is in the assumed agreement to share between Venture and Ethical, the Respondent’s contention that subsection 103(1) applies to the Appellant’s circumstances requires evidence to show that the Appellant’s spouse, as the directing mind of Venture and Ethical, caused the two companies, possibly as early as April 1, 2003 when the Original Partnership was created or as late as October 3, 2003 when the Original Partnership Agreement was executed and registered in Bermuda[59], to agree to Venture’s specified proportion of 80% of its profits or losses to give effect to a subsistent “common agreement” between her, Venture, Ethical and the Appellant which anticipated the Appellant’s acquisition on December 18, 2003 of Venture’s share of what would by then be the Appeal Partnership’s $6-million loss (which even as of the later date of October 3, 2003, did not yet exist) all of the derivative trading losses occurred between October 10, 2003 and December 8, 2003[60] all for the principal reason of reducing or postponing the tax that would be otherwise payable by the Appellant.
+[60] As mentioned at the outset, the section 103 assessment was only part of a much larger examination of the Appellant’s affairs which, perhaps, influenced the Minister’s overall conclusions. But this appeal must be decided on the evidence presented to justify the Minister’s application of section 103. That requires more than asking the Court to look at the final result and impute bad intentions to the steps leading to it. It must be remembered that the Minister made no allegations of sham and did not invoke section 245. The one assumption relied upon by the Minister in respect of the section 103 assessment, paragraph 1.9.128, makes no reference to the Appellant having been a party to the assumed agreement between Venture and Ethical or to their agreement having underpinned the specified proportions agreed to. Certainly, no assumptions were made regarding the multi-party arrangement propounded by counsel for the Respondent in her submissions. There is no positive proof of its existence and, in my view, little justification for its inference. Like the Respondent’s musings as to whether the Appellant’s spouse could have used Venture’s losses, it strikes me as largely a matter of speculation.
+[61] What the evidence does show is that the partnership documents governing the relationship between the Appellant and Ethical (and even, with Venture) provided that the Appellant and Ethical agreed to share the Appeal Partnership’s losses, if any, in specified proportions of 80% and 20%, respectively. Assumptions consistent with this conclusion are subsumed in the Statement of Agreed Facts (Partial) and have to do with the valid transfer of Venture’s 80% share under the Original Partnership to the Appellant as a member of what then became the Appeal Partnership. While in certain circumstances the kind of agreement contemplated by section 103 might include more than the formal partnership documents, in the present case, I am not convinced there is any reason to look beyond the partnership documents, all of which are accepted by the Minister as validly constituted and from which it is clear that the proportions for sharing partnership profits and losses originally agreed to were consistently maintained throughout the history of the Seaview Trading Partnership.
+[62] In XCO Investments Ltd. v. Canada[61], the Federal Court of Appeal described the two-step procedure in the operation of subsection 103(1) as follows:
+Having found that subsection 103(1) applies because there is a sharing of income and the principal reason for the agreement [between the appellant and the new partner] was the reduction of tax otherwise payable, this brings us to the second question to be answered, i.e. whether the allocation of income to the partners was reasonable.[62]
+[63] As there was an agreement to share in specified proportions between the Appellant and Ethical, the second prong of the first criterion requires consideration of whether the principal reason for that agreement “may reasonably be considered” to have been “to reduce or postpone the tax” otherwise paid or payable. It is notable that unlike in subsection 103(1.1), there are no listed criteria for determining the reasonability of that consideration; under subsection 103(1), it is only after the triggering factors have been met that regard may be had to “all the circumstances including the proportions in which the members have agreed to share” partnership losses.
+[64] Here, the Appellant admits to having been motivated, in part, to acquire Venture’s partnership interest by the prospect of gaining access to partnership losses. That is not the same, however, as admitting to having had, as his principal reason for having agreed with Ethical to share in 80-20 proportions, “the reduction or postponement of the tax that might otherwise have been or become payable under the Act” as required under subsection 103(1). Where is the evidence of such a motivation to be found?
+[65] The facts of the present matter are a far cry from those in XCO Investments Ltd. and the subsequent subsection 103(1) decision, Penn West Petroleum Ltd. v. The Queen[63]. First of all, there was no issue in those cases as to the identification of the proper parties to the impugned agreement. Both decisions involved the complex fact situations typical of clever schemes to produce a tax benefit. In both cases, the agreements between the existing partners and the new partners skewed dramatically the originally agreed-to allocations to achieve a specific tax benefit for at least one of the parties under the partners’ agreement to share. Further, in each case, the new partner’s involvement was expressly intended to be temporary, lasting only a few days and leading the former Chief Justice to describe as “ephemeral” the new partners’ participation in their respective partnerships.
+[66] In XCO, Bowman, C.J. summarized the agreement as follows:
+29 In cash terms Woodwards [the new partner] paid $1,260,000 and received cash of $8,827 plus $1,808,689.86. The difference of $548,689.98 between $1,808,689.86 and $1,260,000 is very close to $561,600 which is 80% of $702,000, the 6.5% discount from the assumed fair market value of $10,800,000 of the Westhill Apartments. In the result Woodwards made a profit of $548,689 and received $8,867 in operating profits for a total of $557,556.
+30 This was the actual cash that it cost the appellants [the existing partner] to obtain Woodwards' participation. For that they saved or would have saved, if the plan had worked, the tax on $5,867,336 ($118,405 + $5,748,931). I have not worked out the actual tax savings to the appellants. I suppose I could try but I would probably get it wrong. Suffice it to say that it would probably be well over two million dollars, several multiples of their actual cash outlay.
+31 What, then, was the predominant purpose of this transaction? From the appellants' point of view it was obviously to save tax. For an outlay of something over one half million dollars they were expecting to save taxes of over $2,000,000. The motivation is obvious. I have been unable to identify any other commercial or non-tax purpose.
+32 From Woodwards' point of view there was no tax motivation at all. It involved a pure business proposition. It had no tax to pay and none to save. For its participation in the scheme it received a profit of about $550,000.2
+33 Woodwards' contribution was both ephemeral and for all practical purposes risk free. It is therefore unreasonable for it to be allocated 80% of the income from the Westhill Apartments. That is exactly what subsection 103(1) is there for.
+[67] After making a thorough analysis of the transactions underpinning the allocations, the Court concluded that the Minister’s application of subsection 103(1) was justified. The Federal Court of Appeal upheld the trial judge’s decision to allocate to the existing partner the $557,556 value of the profit actually received by the new partner, Woodwards.
+[68] In the subsequent case of Penn West Petroleum, Bowman, C.J. upheld the Minister’s allocation under subsection 103(1) of the proceeds of the disposition of partnership property in accordance with their respective partnership interests on the basis that:
+[48] … the principal reason for the arrangement between the Appellant and Phillips in the form in which it was configured … was the reduction of the appellant’s tax that would otherwise have been payable. There was no reason for the arrangement other than to make the lower price that Phillips was prepared to pay fiscally palatable to the Appellant. The Minister’s reallocation of the proceeds of disposition of the resource property to the partners in accordance with their interest in the partnership is reasonable whereas it is highly unreasonable to make somebody a 5.27% partner for 25 days (January 30, 1995 to February 24, 1995), pay it 5.27% of the other income and yet allocate to that partner … (100%), of the deemed proceeds of disposition of assets distributed to that partner.
+[69] I agree with counsel for the Appellant that no such “offending factors”[64] are present in this appeal. Ethical and the Appellant claimed a share of the loss in existence at the 2003 partnership year end that conformed precisely with each partner’s percentage interest under the Appeal Partnership agreements which, in turn, conformed to the shares originally agreed to under the Original Partnership Agreement. No amendments or other agreements were made geared at securing a tailor-made tax benefit for the Appellant or putting him in a more advantageous position than the remaining partner, Ethical, or than the exiting partner, Venture, had been in prior to its departure. Finally, unlike the new partners in XCO and Penn West Petroleum, the Appellant remained a member of the Appeal Partnership and the Subsequent Partnership for four years, actively carrying on the same business as had been by the Original Partnership. Such a level of participation lacks the “ephemeral” quality that proved the undoing of the taxpayers in XCO and Penn West Petroleum.
+[70] In all the circumstances, it may not reasonably be considered that the principal reason for the agreement between the Appellant and Ethical to share partnership losses in 80-20 proportions was the reduction or postponement of tax. The second prong of the first of the triggering criteria of subsection 103(1) not having been satisfied, the Minister was not justified in applying that provision to allocate a ‘nil’ amount as the Appellant’s share of the Appeal Partnership’s losses. If I am in error in so concluding, for many of the same reasons, I am not convinced, having regard to the relevant criteria in subsection 103(1), that the Appellant’s 80% share was “not reasonable”; accordingly, the Minister was not justified in applying subsection 103(1).
+[71] Turning, then, to subsection 103(1.1), that provision applies “where two or more members of a partnership who are not dealing with each other at arm’s length agree to share any” loss of the partnership “that is relevant to the computation of the income or taxable income of those members” and the share “of any such member” of that loss “is not reasonable in the circumstances having regard to the capital invested in or work performed for the partnership by the members thereof or such other factors as may be relevant”. Once these conditions have been found to exist, then “that share shall, notwithstanding any agreement, be deemed to be the amount that is reasonable in the circumstances”. Unlike subsection 103(1), subsection 103(1.1) makes no reference to agreeing to share in “specified proportions”.
+[72] There being no dispute that Ethical and the Appellant were not at arm’s length and having found that the Appeal Partnership documents constitute the only agreement between the Appellant and Ethical to share partnership losses, the triggering criteria of subsection 103(1.1) are satisfied. The next question is to determine whether the Appellant’s 80% share was “not reasonable” having regard to the “capital invested in” or “work performed for” the Appeal Partnership by the Appellant and Ethical or “such other factors as may be relevant”.
+[73] Looking first at the “capital invested” criterion, counsel for the Respondent argued that the difference in value between Venture’s capital investment of $6.8 million in the Original Partnership and the $1.1 million purchase price paid by the Appellant to acquire Venture’s interest in what then became the Appeal Partnership is significant since, notwithstanding that disparity in their respective acquisition prices, both Venture and the Appellant would have had access to a $7.5 million loss. In these circumstances, counsel for the Respondent argued, while it might have been reasonable for Venture to have claimed an 80% share of that loss as a member of the Original Partnership, it was not reasonable in the circumstance for the Appellant to have claimed the same amount as a member of the Appeal Partnership.
+[74] Yet again, the Respondent’s argument blurs the distinction between the membership of the Original Partnership and of the Appeal Partnership. As I read subsection 103(1.1), the salient fact in determining whether the share of any one of the non-arm’s length partners who has agreed to share is reasonable is the proportion “that share” bears to the capital invested/work performed by “the members” in that partnership. A typical situation would be where one partner has contributed all of the capital or does the bulk of the work and yet the partnership agreement provides for an equal division of the profits and losses. Depending on the circumstances, the share claimed by the partner making the lesser contribution may be unreasonable and a different amount allocated under subsection 103(1.1). By way of example, counsel for the Appellant referred the Court to the Informal Procedure decision of Spencer v. The Queen[65] in which husband and wife partners agreed to share profits and losses in equal shares. After finding certain facts as to their actual participation in the partnership business, the Court applied subsection 103(1.1) to deem their respective shares to be 75/25, respectively, rather than the agreed-to 50/50 split.
+[75] Following that approach, how is Venture’s capital contribution to the Original Partnership relevant to the subsection 103(1.1) analysis? As I read that provision, the relevant comparator vis-à-vis the Appellant is the only other member of the Appeal Partnership, Ethical. Though he invested less than the former partner Venture, when the Appellant acquired his interest, the partnership’s financial situation had changed; the amount he paid to acquire Venture’s interest was not disproportionate to Ethical’s equity in the partnership at that time. The Appellant’s capital was at risk. He paid $1.1 million for an interest in the Appeal Partnership with an assumed and agreed net book value of $766,000[66], found not to be unreasonable in the context of a family-run group of businesses. On these facts, just because the Appellant acquired a partnership interest for significantly less than the partnership losses to which he gained access does not in itself justify a deemed allocation under section 103. Even if Venture’s capital contribution to the Original Partnership is considered as a “relevant” “other factor”, it is not sufficient to disturb the preponderance of evidence supporting the conclusion that the Appellant’s 80% share was not unreasonable.
+[76] The second of the named criteria under subsection 103(1.1) is the “work performed by” any of the non-arm’s length partners relative to the work performed by the members of the partnership. Here, it is an agreed fact that the partnership (in all three iterations) employed a manager and a broker to handle its operations. Thus, as between Ethical and the Appellant (or, even following the logic of the Respondent’s argument, Venture), neither partner outstripped the other in terms of work done; both relied entirely on the partnership’s employees to carry out the work of the partnership. As mentioned above, Continental Bank makes clear that a valid partnership may exist even where its management is given to a managing partner; thus, the fact that the day-to-day operations of the Appeal Partnership were delegated to qualified employees is not sufficient in itself to bring the Appellant within the ambit of subsection 103(1.1).
+[77] Counsel for the Respondent also referred to the Appellant’s having known about the loss prior to his acquisition of Venture’s interest and his not having been a member of the Original Partnership under the tenure of which the $6-million loss was accumulated.
+[78] Assuming these are “relevant” “other factors”, I am not persuaded that these facts render unreasonable the Appellant’s 80% share. First of all, if the jurisprudence is any indication, it is hardly out of the ordinary for an in-coming partner to have been aware of accumulated partnership losses prior to joining the partnership; there is nothing in the case law to suggest that it is enough in itself to trigger the application of subsection 103(1.1). To the extent that such knowledge implies the Appellant was motivated by a potential tax benefit, that is not one of the named criteria under subsection 103(1.1) and in any event, his tax motivations in acquiring Venture’s interest were found above to have been properly balanced with an ancillary profit-making motive and not to have influenced the allocation of their share proportions. Finally, as also noted above, the allocation of partnership losses depends on who is a member of a validly constituted partnership at the end of the partnership’s fiscal year, not when such losses might have been accumulated. There is no question that the Appellant and Ethical were members of the validly constituted Appeal Partnership at the end of 2003. For the reasons set out above, the evidence is not there to justify the application of subsection 103(1.1) to the Appellant’s situation.
+[79] All in all, I agree with counsel for the Appellant that section 103 has no application to the present case and that the effect of the Minister’s interpretation of these provisions is to “… reallocate partnership loss from the December 31st partners, Ethical and [the Appellant], back to the pre-December 18th partners, Ethical and Venture, even though Venture had ceased to be a partner as of [December 18, 2003]”[67]. Nothing in subsection 103(1) or subsection 103(1.1) permits the allocation of a partnership loss to a former partner. To hold otherwise would be contrary to subsection 96(1) to which, as counsel for the Appellant noted, there is a proposed amendment that would permit the kind of allocation argued for by the Respondent in the present matter.
+[80] For the reasons set out above, the appeal of the 2003 taxation year is allowed, with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis:
+1. that the Appellant is entitled to a partnership loss, as claimed, in the 2003 taxation year on the basis that he was a member of a valid partnership that came into existence on December 18, 2003 and further, that the Minister of National Revenue was not justified in making an allocation of a partnership loss under section 103; and
+2. that the Appellant is entitled to a childcare deduction of $16,000; and
+3. with respect to the 2003 taxation year, the Appellant did not earn business income of $754,787 from the disposition of share of 360networks.
+This Amended Judgment and Amended Reasons for Judgment are issued in substitution for the Judgment and Reasons for Judgment dated August 3, 2010.
+Signed at Ottawa, Canada, this 6th day of October, 2010.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2010TCC406
+COURT FILE NO.: 2008-1251(IT)G
+STYLE OF CAUSE: STEPHEN STOW AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: December 2, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF
+AMENDED JUDGMENT: October 6, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Douglas H. Mathew
+Terry Gill
+Counsel for the Respondent:
+Lynn M. Burch
+Lisa McDonald
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Douglas H. Mathew
+Terry Gill
+Firm: Thorsteinssons
+Vancouver, British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Appellant’s Trial Brief at paragraph 63.
+[2] Above, at paragraph 33.
+[3] Appellant's Trial Brief at paragraph 63.
+[4] Transcript Read-ins, Tab A, page 8, lines 6-25; and page 9, lines 1-3, inclusive.
+[5] Appellant’s Trial Brief at paragraph 61.
+[6] Lindley & Banks on Partnership, 17th ed. By R. C. I’Anson Banks. London: Sweet & Maxwell, 1995; Continental Bank Leasing Corp.v. Canada, [1998] 2 S.C.R. 298; Backman v. The Queen, 2001 SCC 10, [2001] 1 S.C.R. 367; Spire Freezers Ltd. v. The Queen, 2001 SCC 11, [2001] 1 S.C.R. 391.
+[7] Transcript, page 101, lines 16-19, inclusive.
+[8] Paragraph 1.9.134.
+[9] R. v. Anchor Pointe Energy Ltd., 2003 FCA 294 at paragraph 25.
+[10] Reply to the Notice of Appeal at paragraph 2.1.5.
+[11] See assumptions of fact, paragraphs 128, 133, 135, 136, 141 and 142, as well as in the reasons for dismissing the appeal at paragraph 4 of the Reply.
+[12] Respondent’s Points of Argument at paragraph 1.
+[13] Above.
+[14] For examples of more clearly drafted Replies, see XCO Investments Ltd. v. The Queen, 2005 TCC 655, [2006] 1 C.T.C. 2220 (T.C.C.) and Penn West Petroleum Ltd. v. The Queen, 2007 TCC 190, [2007] 4 C.T.C. 2063 (T.C.C.).
+[15] 2007 FCA 188.
+[16] Above, at paragraph 29.
+[17] Reply to the Notice of Appeal at paragraph 1.9.133.
+[18] Continental Bank, above at paragraph 51; Water’s Edge Village Estates (Phase II) Ltd. v. The Queen, 2002 FCA 291, [2002] 4 C.T.C. 1 at paragraph 17. (F.C.A.).
+[19] Backman, above at paragraph 22; Water’s Edge, above at paragraph 17.
+[20] Backman, above, at paragraph 40.
+[21] Above, at paragraphs 25 and 26.
+[22] Joint Book of Documents, Tab 1.
+[23] Joint Book of Documents, Tab 7.
+[24] Joint Book of Documents, Tab 8.
+[25] Joint Book of Documents, Tab 9.
+[26] Joint Book of Documents, Tab 9 at paragraph 3.
+[27] Above, at paragraph 20.
+[28] Above, at paragraph 6.
+[29] Respondent's Points of Argument, Tab 1 at paragraph 2.3.
+[30] Joint Book of Documents, Tab 8 at paragraph A of the Preamble.
+[31] Joint Book of Documents, Tabs 28, 29 and 34.
+[32] Above, at paragraph 34.
+[33] Above, at paragraphs 20 and 22.
+[34] Transcript, page 120, lines 21-22.
+[35] 2001 FCA 260, [2001] 4 C.T.C. 82 at paragraphs 78 and 99. (F.C.A.).
+[36] Above, at paragraphs 99. (F.C.A.).
+[37] Above, at paragraph 5.
+[38] Agreed Statement of Facts, paragraph 11.
+[39] Agreed Statement of Facts, paragraph 12.
+[40] Transcript, page 133, lines 14-16, inclusive.
+[41] [2006] T.C.J. No. 329. (T.C.C.).
+[42] [2002] F.C.J. No. 703. (F.C.A.).
+[43] Continental Bank, above at paragraph 23; Witkin, above at paragraph 15.
+[44] Examination for Discovery of Stephen Stow, Questions 134, 191.
+[45] Examination for Discovery, Questions 132 and 135.
+[46] Above, at paragraph 58.
+[47] Examination for Discovery of Stephen Stow, Questions 124-127 as read in, Transcript, pages 15-16.
+[48] Makuz, at paragraph 71.
+[49] Above, at paragraph 70.
+[50] Above, at paragraph 11.
+[51] Above, at paragraph 11.
+[52] Respondent's Points of Argument, page 12.
+[53] Respondent's Points of Argument at paragraph 28.
+[54] Transcript, page 143, lines 3-4.
+[55] Transcript, page 142, lines 16-18.
+[56] Transcript, page 138, lines 23-25 to page 139, lines 1-4.
+[57] Transcript, page 139, lines 13-21.
+[58] Transcript, page 140, line 25 to page 142, lines 1-3.
+[59] Agreed Statement of Facts at paragraph 6.
+[60] Agreed Statement of Facts at paragraph 15.
+[61] 2007 FCA 53, [2007] 2 C.T.C. 243. (F.C.A.).
+[62] Above, at paragraph 16.
+[63] 2007 TCC 190(T.C.C.).
+[64] Transcript, page 92, line 17.
+[65] 2003 TCC 343, [2003] 4 C.T.C. 2679.
+[66] Agreed Statement of Facts at paragraph 12; Joint Book of Documents, Tab 3.
+[67] Transcript, page 82, lines 13-16.

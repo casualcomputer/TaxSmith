@@ -1,0 +1,186 @@
+---
+title: "Doering c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27929/index.do"
+last_modified: "2003-03-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 100"
+citation2: ""
+neutral_citation: "2003 CCI 100"
+decision_date: "2003-03-12"
+language: "fr"
+item_id: "27929"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1712
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:28:08.210000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3cd770841b7ba500e287421e71aa173946597b3433b9b2bc7b9da489cb4bfe83"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Doering c. M.R.N.
+
+- Citation: 2003 CCI 100
+- Decision date: 2003-03-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1712, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Doering c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-12
+Référence neutre
+2003 CCI 100
+Numéro de dossier
+2001-1934(EI)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2001‑1934(EI)
+ENTRE :
+CHARLES W. DOERING,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Charles W. Doering
+(2001‑1937(CPP)) à Calgary (Alberta) le 27 février 2003
+Devant : L’honorable juge D. W. Beaubier
+Comparutions
+Représentante de l’appelant :
+Caroline A. Doering
+Avocate de l’intimé :
+Me Brooke Sittler
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre est confirmée conformément aux motifs du jugement ci‑joints.
+Signé à Toronto, Canada, ce 12e jour de mars 2003.
+« D. W. Beaubier »
+J.C.C.I.
+Traduction certifiée conforme
+ce 10e jour de mars 2004.
+Crystal Lefebvre, traductrice
+Dossier : 2001‑1937(CPP)
+ENTRE :
+CHARLES W. DOERING,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Charles W. Doering
+(2001‑1934(EI)) à Calgary (Alberta) le 27 février 2003
+Devant : L’honorable juge D. W. Beaubier
+Comparutions
+Représentante de l’appelant :
+Caroline A. Doering
+Avocate de l’intimé :
+Me Brooke Sittler
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre est confirmée conformément aux motifs du jugement ci‑joints.
+Signé à Toronto, Canada, ce 12e jour de mars 2003.
+« D. W. Beaubier »
+J.C.C.I.
+Traduction certifiée conforme
+ce 15e jour de mars 2004.
+Mario Lagacé, réviseur
+Référence : 2003CCI100
+Dossiers : 2001‑1934(EI)
+2001‑1937(CPP)
+ENTRE :
+CHARLES W. DOERING,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Les présents appels ont été entendus sur preuve commune, avec le consentement des parties, à Calgary, en Alberta, le 27 février 2003. L’appelant et son épouse, Caroline, ont tous les deux témoigné pour l’appelant. L’intimé a appelé Barry Urbani, directeur des relations de travail de Trimac Transportation Services Inc., (« Trimac »), le propriétaire de l’employeur allégué, Bulk Systems (Alberta) Ltd., (« BSAL »). M. Urbani traite des conventions collectives de BSAL et de la séparation de l’appelant.
+[2] L’appelant allègue qu’il était un employé de BSAL pendant la période d’assurance‑emploi en litige (du 28 janvier 1998 au 7 février 2000) et pendant la période du Régime de pensions du Canada en litige (du 1er janvier 2000 au 7 février 2000). Il a interjeté appel à l’encontre de décisions en sens contraire. La période d’assurance‑emploi comprend la période du Régime de pensions du Canada. Par conséquent, les actes de procédure relatifs à l’assurance‑emploi seront utilisés à titre de référence.
+[3] Les faits en litige sont énoncés aux paragraphes 5 à 9 inclusivement de la Réponse à l’avis d’appel dans le dossier 2001‑1934(EI). Ils sont ainsi rédigés :
+[Traduction]
+5. En réponse à l’appel, le ministre a décidé que, pour la période du 28 janvier 1998 au 7 février 2000, l’appelant n’était pas employé en vertu d’un contrat de louage de services conclu avec le payeur.
+6. Le ministre a appuyé sa décision sur les hypothèses de fait suivantes :
+a) le payeur possède et exploite une entreprise qui transporte des copeaux de bois des scieries aux usines de pâte;
+b) le travailleur a été engagé comme conducteur et ses fonctions comprenaient le chargement, le débardage et le déchargement;
+c) l’appelant et le payeur ont signé un contrat d’entrepreneur indépendant;
+d) l’entreprise du payeur est exploitée tous les jours 24 heures sur 24;
+e) les heures de bureau du payeur sont de 8 h à 17 h;
+f) l’appelant tirait un taux de salaire fixe par voyage et il n’était payé que pour le travail accompli;
+g) l’appelant était payé chaque semaine;
+h) l’appelant n’avait pas droit à des vacances payées ou à un congé de maladie payé;
+i) l’appelant travaillait un maximum de 15 heures par jour et un maximum de 75 heures par semaine;
+j) l’appelant n’avait pas une heure d’arrivée ou de sortie prévue;
+k) les heures de travail étaient fixées par les clients du payeur;
+l) un registre des voyages de l’appelant était conservé au moyen d’un ordinateur à bord du camion;
+m) l’appelant n’était pas surveillé;
+n) l’appelant rendait ses services sur le terrain et il travaillait seul;
+o) l’appelant était libre de travailler pour d’autres;
+p) l’appelant fournissait les outils et l’équipement nécessaires, notamment le camion et l’ordinateur de bord;
+q) le payeur fournissait la remorque;
+r) l’appelant avait un risque de perte;
+s) l’appelant a engagé des dépenses dans l’exercice de ses fonctions, notamment le carburant, les réparations, l’entretien, les permis, les assurances et toute amende;
+t) l’appelant avait le pouvoir d’embaucher ses propres assistants et ses remplaçants;
+u) l’appelant était responsable de rémunérer son remplaçant.
+B. QUESTIONS EN LITIGE
+7. Il s’agit de savoir si l’appelant était employé en vertu d’un contrat de louage de services conclu avec le payeur pendant la période du 28 janvier 1998 au 7 février 2000.
+C. DISPOSITIONS LÉGISLATIVES, MOTIFS INVOQUÉS ET MESURE DE REDRESSEMENT DEMANDÉE
+8. Il se fonde notamment sur l’alinéa 5(1)a) et sur l’article 2 de la Loi sur l’assurance‑emploi.
+9. Il soutient que, puisque l’appelant n’était pas engagé en vertu d’un contrat de louage de services conclu avec le payeur pour la période du 28 janvier 1998 au 7 février 2000, il n’exerçait pas un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi.
+[4] Les hypothèses 6b), n) et o) sont contestées. Le reste des hypothèses n’a pas été réfuté par la preuve. En ce qui concerne les hypothèses contestées et l’hypothèse 6t), la Cour décide ce qui suit :
+6b)
+L’appelant a été engagé avec son camion‑tracteur.
+6n)
+On informait l’appelant relativement au moment de se présenter pour tirer sa remorque. Le nombre de voyages dépendait de la distance du débardage entre la scierie, qui fournissait les copeaux, et l’usine de pâte (laquelle était la cliente de BSAL) vers laquelle la remorque de BSAL était tirée aux fins de déchargement suivant l’ordre de service de l’usine de pâte. Cependant, l’appelant avait le choix de voyager sur n’importe quel chemin ou route. Sa journée de travail ou ses heures de travail par semaine étaient uniquement limitées par les restrictions d’heures imposées par le Alberta Labour Code ou le Code canadien du travail qui s’appliquent à la semaine de travail.
+6o)
+L’appelant ne pouvait pas travailler pour d’autres avec son tracteur puisque ce dernier était assuré par Trimac. En vertu des restrictions d’heures par jour ou par semaine prévues au Code, l’appelant pouvait travailler personnellement pour d’autres.
+6t)
+Tout conducteur remplaçant était soumis à l’approbation de BSAL. Cette dernière n’a pas approuvé le beau‑frère de l’appelant comme conducteur remplaçant pour les appelants.
+[5] Il existe un contrat écrit conclu en bonne et due forme entre l’appelant et BSAL pour le travail (pièces A‑1 et A‑2). D’après sa forme et son intention, ce contrat ne constitue pas un contrat de travail. L’appelant s’oppose grandement à ce qui précède et a témoigné que, selon lui, BSAL a violé le contrat deux mois après sa date d’entrée en vigueur lorsque BSAL a exigé qu’il peigne son tracteur suivant les couleurs de Trimac et non ceux de Weldwood (la compagnie de fabrication de pâte à papier). Toutefois, le sous‑paragraphe 1n) permet à BSAL de préciser les couleurs du camion et n’exige pas qu’elles soient celles de la compagnie de fabrication de pâte à papier ou de toute autre société. Contrairement au point de vue de M. Doering, il n’appartient qu’à BSAL d’en décider. Par conséquent, la Cour conclut que les pièces A‑1 et A‑2 constituent un contrat entre l'appelant et BSAL par rapport à toutes les époques pertinentes.
+[6] Dans le contexte qui précède, on a examiné les quatre critères initiaux relatifs à l’emploi décrits dans l’affaire Wiebe Door Services Ltd. c. M.R.N. [1986] 3 C.F. 553 (87 DTC 5025) :
+1. Le critère de contrôle
+M. Doering pouvait refuser un appel de travail. Il a témoigné qu’il ne l’avait pas fait, mais il a par ailleurs, témoigné que d’autres qui travaillaient en vertu d’un même contrat en ont refusé. Il pouvait également choisir les routes et sa vitesse de travail à condition que cette dernière entre dans les limites de vitesse fixées par BSAL. Par conséquent, M. Doering exerçait un contrôle sur la façon de faire son travail et sur le moment où le faire.
+2. Outils
+M. Doering possédait son propre tracteur et tous les outils accessoires. Cette propriété constituait une condition de son contrat avec BSAL. Le salaire était fondé sur les services fournis par le tracteur et non par les services fournis personnellement par M. Doering.
+3. Chances de bénéfice et risques de perte
+M. Doering était le seul avait à les assumer. Tant M. Doering que Mme Doering ont témoigné qu’il avait perdu de l’argent en vertu du contrat. Je les crois. Toutes les dépenses et tous les frais de propriété et d’exploitation de la remorque étaient engagés par M. Doering. Il a assumé toutes les chances de bénéfice et tous les risques de perte.
+4. Intégration
+BSAL avait conclu des contrats avec un grand nombre d’autres conducteurs de tracteur. Elle pouvait être facilement exploitée sans l’appelant. De même, l’appelant pouvait conclure un contrat avec quelqu’un d’autre pour exploiter son tracteur, ce qu’il a fait depuis. Chacun était simplement accessoire à l’autre.
+[7] Compte tenu des critères qui précèdent, M. Doering n’était pas un employé de BSAL.
+[8] Fait plus important, toutefois, est la preuve qui montre que, pendant les deux périodes en question, M. Doering était un homme d’affaires exerçant pour son propre compte, et qu’il a conclu le contrat avec BSAL à ce titre. En ce qui concerne le contrat, ils ont également fait affaire entre eux à ce titre.
+[9] Les appels sont rejetés.
+Signé à Toronto, Canada, ce 12e jour de mars 2003.
+« D. W. Beaubier »
+J.C.C.I.
+Traduction certifiée conforme
+ce 10e jour de mars 2004.
+Crystal Lefebvre, traductrice

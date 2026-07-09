@@ -1,0 +1,166 @@
+Title: L'Écuyer c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/364381/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-41-364381-l-cuyer-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-02-22
+
+# L'Écuyer c. La Reine
+
+- Citation: 2019 CCI 41
+- Decision date: 2019-02-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4314, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+L'Écuyer c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-02-22
+Référence neutre
+2019 CCI 41
+Numéro de dossier
+2018-79(GST)I
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2018-79(GST)I
+ENTRE :
+YVON L’ÉCUYER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 8 janvier 2019, à Montréal (Québec)
+Devant : L’honorable juge Dominique Lafleur
+Comparutions :
+Représentante de l’appelant :
+Kathy Leblanc
+Avocate de l’intimée :
+Me Marie-Pier Lauzon-Raza
+JUGEMENT
+L’appel interjeté de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise, dont l’avis est daté du 9 février 2017, est accueilli, sans dépens, et l’affaire est renvoyée à la ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, le 22e jour de février 2019.
+« Dominique Lafleur »
+Juge Lafleur
+Référence : 2019 CCI 41
+Date : 20190222
+Dossier : 2018-79(GST)I
+ENTRE :
+YVON L’ÉCUYER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lafleur
+I. CONTEXTE
+[1] L’appel dont il s’agit a été interjeté à l’égard d’une cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise (L.R.C. (1985), ch. E-15, telle que modifiée) (la « Loi »), dont l’avis est daté du 9 février 2017. Le litige porte sur un remboursement de taxe sur les produits et services pour habitation neuve (« RHN ») demandé par monsieur Yvon L’Écuyer. Le montant demandé est de 3 819,69 $ et se rapporte à un appartement en copropriété situé sur le boulevard Saint-Elzéar, à Laval, Québec (le « condo »). Le ministre du Revenu du Québec agissant en sa qualité de mandataire de la ministre du Revenu national (la « ministre ») a refusé d’accorder ce remboursement à monsieur L’Écuyer, tenant pour acquis que ce dernier n’avait pas acquis le condo pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à l’un de ses proches. Les autres conditions de l’obtention du RHN ne sont pas en litige en l’espèce.
+[2] Ainsi, la seule question en litige est de savoir si monsieur L’Écuyer a acquis le condo pour qu’il lui serve de lieu de résidence habituelle ou qu’il serve ainsi à l’un de ses proches. Pour avoir droit au RHN, monsieur L’Écuyer doit satisfaire aux exigences fixées à l’alinéa 254(2)b) de la Loi, c’est-à-dire qu’il doit avoir acquis le condo pour en faire son lieu de résidence habituelle ou le lieu de résidence habituelle d’un de ses proches.
+[3] À l’audience, monsieur L’Écuyer et monsieur Lamarre, un ami de monsieur L’Écuyer, ont témoigné, de même que le vérificateur de Revenu Québec ayant effectué la vérification de la demande de RHN.
+[4] Dans les présents motifs, toute référence à une disposition législative est une référence à la Loi, sauf mention contraire.
+II. LA LOI
+[5] L’alinéa pertinent de la Loi dispose ainsi :
+254(2) Remboursement — habitation neuve — Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+[…]
+b) au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui‑ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche;
+[…]
+254(2) New housing rebate — Where
+. . .
+(b) at the time the particular individual becomes liable or assumes liability under an agreement of purchase and sale of the complex or unit entered into between the builder and the particular individual, the particular individual is acquiring the complex or unit for use as the primary place of residence of the particular individual or a relation of the particular individual,
+. . .
+the Minister shall. . . pay a rebate to the particular individual. . .
+[Non souligné dans l’original.]
+III. LES FAITS ET L’ANALYSE
+1. Avis d’appel : faits réputés vrais
+[6] Puisque la réponse à l’avis d’appel a été déposée avec plus de huit mois de retard, les allégations de fait énoncées dans l’avis d’appel sont réputées vraies aux fins de l’appel en vertu des dispositions du paragraphe 18.3003(2) de la Loi sur la Cour canadienne de l’impôt (L.R.C. (1985), ch. T-2, telle que modifiée).
+[7] Cette présomption est toutefois réfutable et, par conséquent, l’intimée devait présenter une preuve afin de réfuter les faits allégués dans l’avis d’appel et afin d’établir les hypothèses sur lesquelles la cotisation était fondée (Lori Jewellery Inc. c. La Reine, 2008 CCI 561 au paragraphe 8, [2008] A.C.I. no 423 (QL)).
+[8] Les faits ainsi allégués dans l’avis d’appel sont les suivants :
+i) Monsieur L’Écuyer a acquis le condo, qui était neuf, auprès d’un constructeur le 11 juin 2015 et y habite depuis cette date;
+ii) Initialement, l’une de ses filles devait habiter le condo de manière habituelle pour se rapprocher de l’université, mais elle n’y a jamais habité;
+iii) L’adresse de correspondance utilisée par monsieur L’Écuyer est en partie celle de la résidence dont il est propriétaire à Lorraine (la « résidence de Lorraine ») puisqu’il est souvent à l’extérieur du pays pour des vacances;
+iv) Monsieur L’Écuyer n’habite plus la résidence de Lorraine depuis quelques années à la suite de sa séparation d’avec la mère de ses deux filles;
+v) Monsieur L’Écuyer a confondu la notion de résidence principale aux fins fiscales avec la notion de résidence habituelle aux fins du RHN;
+vi) Sur les documents remis au vérificateur de Revenu Québec, Monsieur L’Écuyer a indiqué qu’il habitait de façon occasionnelle au condo puisqu’il voyageait beaucoup.
+2. Le vérificateur
+[9] Monsieur Hamza Achkor, technicien en vérification fiscale à l’Agence du revenu du Québec, a témoigné pour le compte de l’intimée. Puisque l’adresse indiquée aux dossiers de Revenu Québec et aux dossiers de diverses autres entités (soit la SAAQ, la RAMQ et la RRQ) pour monsieur L’Écuyer n’était pas la même que celle indiquée sur le formulaire produit aux fins du RHN, une vérification de la demande de RHN a été effectuée. En effet, l’adresse postale de monsieur L’Écuyer était l’adresse de la résidence de Lorraine tant aux dossiers de la RRQ, de la RAMQ et de la SAAQ que dans ceux relatifs aux taxes municipales et aux assurances. Selon monsieur Achkor, sa vérification l’a amené à conclure que le condo est une résidence secondaire pour monsieur L’Écuyer, sa résidence principale étant la résidence de Lorraine; ainsi, selon monsieur Achkor, monsieur L’Écuyer ne peut avoir droit au RHN.
+[10] Selon la preuve produite par l’intimée à l’audience, la grande majorité des dossiers relatifs à monsieur L’Écuyer indiquent que l’adresse de ce dernier est soit celle de la résidence de Lorraine ou encore celle du chalet appartenant à monsieur L’Écuyer et situé dans les Laurentides, à Sainte-Anne-des-Lacs (le « chalet »). Auprès de Revenu Québec, monsieur L’Écuyer a effectué un changement d’adresse en 2009, substituant à celle de la résidence de Lorraine celle du chalet, et un autre changement d’adresse en 2014, substituant cette fois à celle du chalet celle de la résidence de Lorraine. La police d’assurance habitation pour le condo indique que l’adresse de monsieur L’Écuyer est celle de la résidence de Lorraine. Également, selon l’intimée, la consommation de gaz et d’électricité au condo est nettement insuffisante pour une résidence habituelle.
+[11] Également, dans les documents remis au vérificateur dans le cadre de la vérification, monsieur L’Écuyer a omis d’indiquer qu’il possédait le chalet. En outre, il a indiqué que le condo était habité par sa fille et, de façon occasionnelle, par lui. De plus, à la page 2 de l’annexe jointe à la demande de renseignements (pièce I-1, onglet 5), monsieur L’Écuyer a coché à côté de « J’habite l’immeuble ». Selon le vérificateur, l’immeuble à laquelle cette question se rapporte est la résidence de Lorraine et non pas le condo.
+3. Monsieur L’Écuyer
+[12] À l’audience, monsieur L’Écuyer a témoigné. Je suis d’avis que son témoignage était fiable et que monsieur L’Écuyer était un témoin crédible.
+[13] Monsieur L’Écuyer est pharmacien de profession. Au cours de sa carrière de pharmacien, il a été propriétaire d’une cinquantaine de pharmacies. Depuis 2005, il est engagé dans un processus de vente de ses pharmacies. En 2015, il ne lui restait que quelques pharmacies situées dans les régions des Hautes‑Laurentides et de l’Abitibi-Témiscamingue. Depuis quelques années, il passe ses hivers en Floride (de 3½ à 4 mois), et de plus, il voyage beaucoup en Europe et en Asie.
+[14] Monsieur L’Écuyer s’est séparé de la mère de ses filles en 2007 (ce qui apparaît dans les dossiers de Revenu Québec, pièce A-1) et, depuis lors, celle-ci habite la résidence de Lorraine avec leurs deux filles. Cet arrangement a été pris dans le cadre de leur entente de séparation. Lors de la séparation, il est allé s’installer au chalet. Monsieur L’Écuyer a témoigné que, depuis, il n’a jamais passé une nuit à la résidence de Lorraine; il y soupe régulièrement (environ une fois par mois) afin de voir ses filles.
+[15] Le 11 juin 2015, monsieur L’Écuyer a acheté le condo, qui est d’une superficie d’environ 1 000 pieds carrés et comporte deux chambres et deux salles de bain, en raison de sa proximité avec les autoroutes, ce qui facilite ses déplacements entre chez lui et l’aéroport. Son intention initiale était que l’une de ses filles, qui avait 19 ans à l’époque, vienne y habiter parce que cela lui permettrait de se rendre plus facilement à l’université, mais ce projet ne s’est pas concrétisé. Lorsque monsieur L’Écuyer y a emménagé, il a fait déménager les meubles qui se trouvaient au chalet ainsi qu’à la résidence de Lorraine. Monsieur L’Écuyer a indiqué qu’à la date de l’audience, l’adresse de correspondance indiquée sur la très grande majorité de ses divers comptes et dossiers est l’adresse du condo. Également, le contrat d’achat du condo indique que monsieur L’Écuyer réside au chalet.
+[16] De plus, monsieur L’Écuyer a expliqué que le condo devait originellement être livré en janvier 2014. Toutefois, compte tenu des scandales à la mairie de Laval, qui avaient occasionné des problèmes quant à la délivrance de permis de construction, il y a eu un retard dans la livraison du condo et, entretemps, il a dû louer un appartement sur le boulevard Le Corbusier, à Laval. Il a témoigné que le chalet était devenu difficilement habitable, compte tenu de problèmes d’approvisionnement en eau, et qu’il a pris la décision de ne plus y habiter à ce moment-là. Toutefois, son fils habite maintenant le chalet depuis environ un an et demi.
+[17] Monsieur L’Écuyer a témoigné qu’il a posé des questions au vérificateur pour qu’on lui explique les notions applicables de résidence habituelle et de résidence principale. On ne lui a jamais donné de réponse satisfaisante, ajoutant ainsi à sa confusion et contribuant au fait qu’il a rempli de la manière dont il l’a fait les documents remis au vérificateur, ce à quoi je reviendrai ci-dessous.
+4. Monsieur Lamarre
+[18] Monsieur Jean Lamarre, notaire retraité depuis 2015, a également témoigné à l’audience. Monsieur Lamarre a connu monsieur L’Écuyer dans le cadre de l’exercice de sa profession notariale. Il le connaît depuis 15 à 20 ans. Leur relation, tout d’abord de nature professionnelle, a évolué en relation amicale après sa retraite, puisque tous les deux partagent la même passion du golf. Monsieur Lamarre a témoigné qu’il allait régulièrement chercher monsieur L’Écuyer au condo pour se rendre à leurs parties de golf; également, c’est au condo que monsieur Lamarre et monsieur L’Écuyer se rencontraient pour visionner des tournois de golf. Selon monsieur Lamarre, tous les meubles, la télévision et tous les autres effets qui sont au condo démontrent que le condo est la résidence habituelle de monsieur L’Écuyer.
+5. Analyse
+[19] Puisqu’il n’est pas contesté que monsieur L’Écuyer a acquis le condo par contrat de vente en date du 11 juin 2015, c’est l’intention de monsieur L’Écuyer à ce moment relativement à l’utilisation qu’il ferait du condo qui sera déterminante. L’intimée convient que telle est la question qui est en litige devant la Cour.
+[20] La preuve a démontré qu’en 2015 monsieur L’Écuyer détenait trois résidences, soit le condo, le chalet et la résidence de Lorraine. À la date de l’audience, monsieur L’Écuyer est toujours propriétaire des trois résidences, bien que la résidence de Lorraine ait été mise en vente l’année dernière.
+[21] La Loi ne définit pas l’expression « lieu de résidence habituelle ». Les critères à utiliser pour faire la détermination du lieu de résidence habituelle se trouvent dans la jurisprudence ainsi que dans les divers énoncés de politique de l’Agence du revenu du Canada (l’« ARC ») à ce sujet.
+[22] Dans la décision Fiducie Chry-Ca c. La Reine, 2008 CCI 423 [Chry-Ca] (paragraphe 17), la Cour s’est référée à l’énoncé de politique P-228 en date du 30 mars 1999, qui indique la position de l’ARC à cet égard. Je suis d’avis que les critères y énoncés peuvent être utilisés pour effectuer la détermination, mais que d’autres indices peuvent également être pris en compte (Chry-Ca, précitée paragraphe 18).
+[23] Les critères suivants seraient donc indicatifs d’une résidence habituelle selon l’énoncé de politique :
+- l’adresse postale;
+- l’impôt sur le revenu (p. ex. formulaires ou déclarations);
+- le droit de vote;
+- les taxes municipales ou scolaires;
+- la liste des inscriptions téléphoniques.
+[24] L’énoncé de politique P-130 (page 5 et suivantes du Mémorandum sur la TPS/TVH 19.3 de juillet 1998 de l’ARC) a également été mentionné, avec approbation, dans la jurisprudence de notre Cour (Boucher c. Canada, [2002] A.C.I. no 359 (QL) et Burrows c. Canada, [1998] A.C.I. no 606 (QL)). Selon l’énoncé de politique, une personne, bien qu’elle puisse avoir plus d’une résidence, ne peut avoir qu’une seule résidence habituelle. Ainsi, pour effectuer la détermination quant au lieu de résidence habituelle, il faut considérer l’objet du séjour, la durée du séjour, la présence physique à la résidence, l’intention d’utiliser la résidence à titre de résidence habituelle et l’adresse figurant sur les documents personnels de la personne. Il faudra également considérer tout autre facteur pertinent.
+[25] Ce qui suit est un extrait de cet énoncé :
+10. […] Un lieu de résidence se distingue nettement d’un logement provisoire. Ces distinctions découlent de l’objet du séjour, de la durée du séjour et de la présence physique de la personne sur les lieux. […]
+11. […] Le lieu de résidence habituelle d’un particulier est généralement la résidence qu’il habite de façon permanente. Une seule résidence peut constituer le lieu de résidence habituelle d’une personne à un moment donné. Si une personne a plus d’un lieu de résidence, on tient compte des facteurs suivants pour déterminer si la résidence peut être considérée comme lieu de résidence habituelle : l’intention du particulier d’utiliser l’habitation à titre de lieu de résidence habituelle, la durée pendant laquelle il habite le lieu, et l’adresse qui figure sur les documents personnels du particulier.
+[Non souligné dans l’original.]
+[26] Il ressort du témoignage de monsieur L’Écuyer, que j’ai trouvé fiable et crédible, que son intention au moment de l’acquisition du condo était que sa fille y emménage avec lui afin qu’elle puisse se rendre plus facilement à l’université, mais que ce projet ne s’est pas concrétisé. Le témoignage de monsieur L’Écuyer est plausible compte tenu des circonstances.
+[27] Également, je suis d’avis que la preuve soumise à l’audience démontre, selon la prépondérance des probabilités, que monsieur L’Écuyer a acquis le condo afin d’en faire son lieu de résidence habituelle. L’utilisation que monsieur L’Écuyer a faite du condo par la suite démontre clairement que le condo constitue sa résidence habituelle. En effet, l’intention de monsieur L’Écuyer au moment de l’acquisition du condo est confirmée par l’utilisation qu’il en a faite par la suite. Le fait qu’il habite encore le condo à la date de l’audience est la meilleure preuve de cette intention. À cet égard, le juge en chef Bowman de notre Cour a indiqué dans la décision Coburn Realty Ltd. c. La Reine, 2006 CCI 245, [2006] A.C.I. no 184 (QL) :
+[10] Les énoncés que fait le contribuable de ses buts et de ses intentions ne sont pas nécessairement et toujours le fondement le plus fiable sur lequel une question de ce genre peut être tranchée. L’utilisation réelle du bien constitue souvent la meilleure preuve du but de l'acquisition. […]
+[28] L’utilisation du condo a été confirmée par le témoignage de monsieur Lamarre, qui est un témoin désintéressé dans cette affaire. Monsieur Lamarre a témoigné qu’il allait chercher monsieur L’Écuyer au condo pour leurs nombreuses parties de golf et qu’il allait visionner les tournois de golf à cet endroit. Selon monsieur Lamarre, la décoration du condo confirme ses dires.
+[29] Je suis d’avis que le fait que les changements d’adresse n’ont pas été effectués n’est pas un facteur déterminant en l’espèce. La résidence de Lorraine était, en 2015, et demeure, à la date de l’audience, une propriété détenue par monsieur L’Écuyer; de plus, des membres de sa famille continuent à y habiter, soit ses filles et son ex-conjointe. Il peut toujours aller chercher son courrier lorsqu’il va rencontrer ses enfants. Selon son témoignage, qui n’a aucunement été contredit par la preuve de l’intimée, monsieur L’Écuyer voyage beaucoup. Je trouve plausible qu’il n’ait pas voulu que son courrier s’accumule dans sa boîte aux lettres du condo. Dans la décision Yang c. La Reine, 2009 CCI 636, [2009] A.C.I. no 511 (QL), la Cour a également conclu que l’omission d’avoir effectué les changements d’adresse avait une importance moindre dans le cas où des membres de la famille continuaient à habiter l’ancienne résidence. Je considère qu’en l’espèce ce facteur n’est pas vraiment important.
+[30] De même, le témoignage de monsieur L’Écuyer selon lequel il a quitté le chalet en 2014 à cause des problèmes d’eau est crédible et fiable. La preuve a démontré qu’il a loué à cette époque un appartement à Laval (en 2014-2015), vu les retards dans la construction du condo, mais il n’a pas effectué de changement d’adresse. Dans les documents produits par l’intimée, on voit que, pour un compte d’Hydro-Québec à cette époque, le nom de monsieur L’Écuyer est relié à une adresse sur le boulevard Le Corbusier, à Laval. Si monsieur L’Écuyer avait voulu faire du chalet sa résidence habituelle, il n’aurait pas loué un appartement à Laval en attendant la construction du condo.
+[31] L’intimée a produit un document d’Hydro-Québec donnant une estimation des coûts d’électricité pour le chalet de 3 320 $, lequel document ne comporte aucune date, sauf la date d’impression du 28 novembre 2018. Monsieur L’Écuyer a témoigné que les coûts d’électricité étaient d’environ 4 000 $ par année pour le chalet. Il était important de garder un minimum de chauffage au chalet; il ressort également de la preuve que le chalet était très grand, comportait plusieurs chambres et était mal isolé. Également, selon la preuve, c’est le fils de monsieur L’Écuyer qui habite le chalet depuis environ un an et demi. Selon l’intimée, si le chalet était effectivement vacant en 2014-2015, les coûts d’électricité auraient dû être moindres que les 4 000 $ indiqués par monsieur L’Écuyer. Également, l’intimée signale le fait qu’un relevé d’impôt de 2014 et 2015 a été envoyé à la fille de monsieur L’Écuyer à l’adresse du chalet. À mon avis, ces éléments ne démontrent pas que le témoignage de monsieur L’Écuyer concernant l’utilisation qu’il a faite du chalet à cette époque n’était pas fiable.
+[32] L’intimée est également d’avis que la preuve n’est pas claire quant au temps d’utilisation du condo, vu que monsieur L’Écuyer voyage beaucoup. Je suis toutefois d’avis que le témoignage de monsieur L’Écuyer est fiable et crédible lorsqu’il indique qu’il n’a pas d’autre endroit où habiter que le condo. En effet, la preuve a démontré qu’il ne peut habiter la résidence de Lorraine vu la présence de son ex-conjointe, et qu’il n’habite pas le chalet vu que son fils y habite depuis un an et demi et qu’il a quitté le chalet en 2014 pour habiter un appartement à Laval en attendant que le condo soit prêt à être livré par le constructeur.
+[33] L’intimée est également d’avis que, les lieux de travail de monsieur L’Écuyer à l’époque pertinente étant dans les Hautes-Laurentides et l’Abitibi-Témiscamingue, ceci est un facteur démontrant que le condo ne peut être la résidence habituelle de monsieur L’Écuyer, mais que le chalet pourrait l’être. Toutefois, je suis d’avis que, vu la distance entre les régions où se situaient les pharmacies et le chalet ou le condo, il est tout à fait plausible que monsieur L’Écuyer ne soit revenu ni au chalet ni au condo étant donné que les pharmacies étaient situées à plusieurs centaines de kilomètres du chalet et du condo.
+[34] L’intimée a également souligné que le contenu des documents soumis au vérificateur lors de la vérification et les allégations dans l’avis d’appel sont contradictoires, puisqu’en 2016 monsieur L’Écuyer a indiqué que sa fille habitait le condo alors que, dans l’avis d’appel, il est indiqué que sa fille n’y a jamais habité. De plus, l’intimée fait remarquer à la Cour que monsieur L’Écuyer a indiqué sur les documents soumis au vérificateur qu’il habitait le condo de manière occasionnelle et qu’il habitait la résidence de Lorraine; en outre, il a omis d’indiquer le chalet. Ainsi, selon l’intimée, ces éléments de preuve tendent à faire la démonstration que le condo n’est pas la résidence habituelle de monsieur L’Écuyer ou de sa fille. Pour les raisons suivantes, je suis d’avis que les arguments de l’intimée ne peuvent être retenus et ne sont pas déterminants quant au sort de l’appel. J’ajouterais également que le témoignage de monsieur L’Écuyer est crédible et fiable quand il prétend qu’il croyait qu’il s’agissait du condo plutôt que de la résidence de Lorraine lorsqu’il a indiqué qu’il habitait l’immeuble (page 2 de l’annexe jointe à la lettre de demande de renseignements). Monsieur L’Écuyer a témoigné devant notre Cour que le fait d’avoir indiqué que sa fille y habitait reflétait ce qui avait été son intention lors de l’acquisition du condo et non pas la situation en 2016 lorsqu’il a rempli les documents, ce qui est tout à fait plausible. Quant au chalet, monsieur L’Écuyer a témoigné avoir tout simplement oublié de l’indiquer.
+[35] De plus, selon le témoignage de monsieur L’Écuyer, la mention « occasionnel » a été ajoutée sur ces documents puisqu’il voyage beaucoup et est toujours en déplacement. Il a témoigné également n’avoir pas obtenu de réponses satisfaisantes du vérificateur quant à la définition des notions de « résidence habituelle » et de « résidence principale ». Monsieur L’Écuyer a témoigné que son intention est de désigner la résidence de Lorraine comme sa résidence principale au moment de la vente de celle-ci, mais que le condo est le seul endroit où il dort normalement, à part dans les hôtels. À cet égard, je note que, dans les hypothèses de fait énoncées dans la réponse à l’avis d’appel, il est question de la notion de « résidence principale » plutôt que de celle de « résidence habituelle ». Ainsi, aux alinéas 18 l), 18 m) et 18 n) de la réponse à l’avis d’appel, la ministre mentionne la notion de « résidence principale » alors que c’est plutôt celle de « résidence habituelle » qui aurait dû y figurer. Dans le rapport du vérificateur, monsieur Achkor indique que la résidence de Lorraine est la résidence principale de monsieur L’Écuyer et que ce dernier le lui a confirmé lors d’une conversation téléphonique. Monsieur L’Écuyer aurait également mentionné à monsieur Achkor que sa fille n’habite pas le condo mais que c’est plutôt lui qui utilise le condo occasionnellement. Au cours de sa plaidoirie, l’intimée a invité la Cour à lire « résidence habituelle » plutôt que « résidence principale » dans le rapport du vérificateur. Je crois comprendre que la Cour doit également lire « résidence habituelle » plutôt que « résidence principale » lorsqu’elle lit la réponse à l’avis d’appel. Dans l’énoncé de politique P-130, l’ARC mentionne que la notion de « résidence habituelle » n’est pas nécessairement la même chose que la notion de « résidence principale », ce qui est exact :
+12. […] Il faut souligner que le « lieu de résidence habituelle » ne correspond pas nécessairement à la « résidence principale » de la personne aux termes de la Loi de l’impôt sur le revenu.
+[36] Toute cette confusion dans le rapport du vérificateur n’a sûrement pas aidé monsieur L’Écuyer à comprendre les notions qui étaient applicables pour remplir les documents du vérificateur, ce qui, à mon avis, rend très plausible son témoignage à cet égard.
+[37] Je suis également d’avis que la faible consommation de gaz à l’adresse du condo est justifiée par le fait que la preuve a démontré que monsieur L’Écuyer ne se sert de son foyer au gaz que pendant l’hiver et qu’il est souvent absent pendant cette période. Également, la faible consommation d’électricité est justifiée par le fait qu’il n’utilise pas l’air conditionné.
+[38] Finalement, le contrat de déménagement produit en preuve indique qu’une boîte garde-robe, une boîte télé ainsi que des housses de matelas ont été facturées à monsieur L’Écuyer, et que le déménagement s’est étiré de 12 h 15 à 22 h 45 (soit 10 heures et demie). Cet élément de preuve contribue également à établir la fiabilité du témoignage de monsieur L’Écuyer.
+IV. CONCLUSION
+[39] Pour toutes ces raisons, je suis d’avis que monsieur L’Écuyer a droit au RHN à l’égard du condo; l’appel est accueilli, sans dépens.
+Signé à Ottawa, Canada, le 22e jour de février 2019.
+« Dominique Lafleur »
+Juge Lafleur
+RÉFÉRENCE :
+2019 CCI 41
+NO DU DOSSIER DE LA COUR :
+2018-79(GST)I
+INTITULÉ DE LA CAUSE :
+YVON L’ÉCUYER C. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 8 janvier 2019
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Dominique Lafleur
+DATE DU JUGEMENT :
+Le 22 février 2019
+COMPARUTIONS :
+Représentante de l’appelant :
+Kathy Leblanc
+Avocate de l’intimée :
+Me Marie-Pier Lauzon-Raza
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada

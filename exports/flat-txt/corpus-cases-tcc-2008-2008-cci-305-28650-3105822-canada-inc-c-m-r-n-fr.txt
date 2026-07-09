@@ -1,0 +1,314 @@
+Title: 3105822 Canada Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28650/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-305-28650-3105822-canada-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-05-16
+
+# 3105822 Canada Inc. c. M.R.N.
+
+- Citation: 2008 CCI 305
+- Decision date: 2008-05-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1114, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+3105822 Canada Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-16
+Référence neutre
+2008 CCI 305
+Numéro de dossier
+2007-771(EI)
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2007-771(EI)
+ENTRE :
+3105822 CANADA INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_________________________________________________________________
+Appel entendu le 21 août 2007, à Montréal (Québec)
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l’appelante :
+Nabil Warda
+Avocate de l'intimé :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L’appel en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi est admis et les décisions du 11 octobre 2006 et du 22 novembre 2006 sont déférées au ministre du Revenu national pour nouvelles déterminations sur la base que les agents de voyages nommés à l’annexe A des motifs du jugement n’étaient pas engagés en vertu d’un contrat de louage de services pour les années 2002 et 2003, à l’exception de Rola Al‑Haj, qui était une employée à compter de juillet 2003, tel que reconnu par l’appelante. Il va de soi que les cotisations du 13 février 2006 qui ont été établies en vertu de ces décisions doivent être modifiées en conséquence.
+Quant à l’année 2004, puisque l’appelante a reconnu qu’elle avait sept employés sans toutefois préciser lesquels, les décisions sont maintenues quant aux agents qui ont été déclarés assurables.
+Signé à Montréal (Québec), ce 16e jour de mai 2008.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2008CCI305
+Date : 20080516
+Dossier : 2007-771(EI)
+ENTRE :
+3105822 CANADA INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelante exploite une agence de voyages sous la dénomination sociale Amro Travel ou Voyages Amro depuis 1995. Les deux frères Mohamed et Tarek Amro en sont tous deux propriétaires à parts égales.
+[2] L’agence de voyages est située à Pierrefonds, province de Québec. Elle exploite une entreprise de vente et de réservation de services d’hébergement et de services de transport. Pour ce faire, elle détient un permis d’agence de voyages et est accréditée par l’IATA (« International Air Transport Association »).
+[3] Au cours des années 2002, 2003 et 2004, l’appelante a retenu les services de 20 individus comme agents de voyages au cours de différentes périodes, dont les noms se retrouvent en annexe de la réponse à l’avis d’appel, laquelle annexe est reproduite au long à la fin des présents motifs, sous l’annexe A.
+[4] Lors de l’audition, j’ai demandé aux parties de me faire parvenir l’historique des décisions rendues relativement à chacun de ces individus quant à l’assurabilité ou non de leur emploi. Il semble y avoir eu confusion en effet sur le droit de porter en appel les décisions rendues pour certains de ces agents de voyages. Plus particulièrement, l’intimé conteste le droit d’appel de l’appelante devant cette Cour relativement à sept travailleurs dont les noms se retrouvent à l’annexe B des présents motifs, sur la base qu’aucun appel n’aurait été fait auprès du ministre du Revenu national (« ministre ») de la décision portant sur l’assurabilité de leur emploi.
+[5] Suite à l’audition, l’avocate de l’intimé m’a fait parvenir la documentation requise, avec copie conforme au représentant de l’appelante, afin de compléter le dossier sur la question du droit d’appel relativement à ces sept individus. Pour fins de clarté, j’ai décidé de citer la documentation envoyée par l’avocate de l’intimé en date du 24 août 2007, comme pièce RR‑1, et celle qu’elle a fait parvenir à la Cour le 29 août 2007, comme pièce RR‑2. Par ailleurs, lors de la production de ses plaidoiries écrites en date du 24 septembre 2007, le représentant de l’appelante, monsieur Nabil Warda, a fait parvenir un document provenant de l’Agence du revenu du Canada (« l’ARC ») daté du 14 août 2006, et qui lui était adressé, lequel document vient compléter la documentation requise quant au déroulement du traitement de ce dossier. Je vais référer à cette dernière pièce, comme étant la pièce AA‑1.
+[6] Il va sans dire que les parties ont accepté cette façon de procéder et que cette documentation fasse partie du dossier en preuve.
+I. Question préliminaire : Droit d’appel de l’appelante relativement aux sept individus énumérés à l’annexe B des présentes
+[7] Pour résoudre cette question, je vais retracer l’historique dans ce dossier.
+[8] Le 30 septembre 2005, madame Sophie Mailhot, vérificatrice pour la division de la VNOE[1], présentait à l’ARC une demande de décision relativement à l’admissibilité à l’assurance-emploi, de 14 individus (incluant l’un des propriétaires, Tarek Amro), mais aucune telle demande n’a été faite pour les sept individus de l’annexe B aux présentes (pièce RR‑1, onglet 2). Je comprends de ce dernier document que le motif justifiant la demande de décision était de déterminer si les agents de voyages extérieurs engagés par l’appelante étaient régis par un contrat de louage de services.
+[9] Le 21 octobre 2005, l’ARC, par l’intermédiaire de monsieur Elio Palladini, avisait l’appelante, ainsi que les 14 individus ayant fait l’objet de la demande faite par Sophie Mailhot, division de la VNOE, qu’à part monsieur Tarek Amro qui n’était pas assurable parce qu’il est copropriétaire de l’appelante, les 13 autres travailleurs occupaient, selon lui, des emplois assurables durant les différentes périodes pendant lesquelles ils ont travaillé pour l’appelante.
+[10] Par la suite, ces décisions seraient retournées à madame Sophie Mailhot dans le cadre de sa vérification « dans un dossier VNOE ». Dans un document intitulé « DIVISION DES COMPTES EN FIDUCIE - VÉRIFICATION » que l’on retrouve à l’onglet 1 de la pièce RR‑1, on inscrit, comme date de vérification, le 9 janvier 2006. On y indique également :
+RACINE DU N. D’ENTREPRISE : 140082314
+et par la suite chaque feuille du document porte la référence en bas de page 140082314RP0001.
+[11] Dans la rubrique « Commentaires sur le client » à la deuxième page du même document, on y lit ce qui suit :
+COMMENTAIRES SUR LE CLIENT :
+Sophie Mailhot
+Examen demandé suite à une décision d’assurabilité rendue dans un dossier VNOE.
+Commentaires généraux
+L’entreprise exploite une agence de voyages. Elle considérait certains employés comme des travailleurs autonomes. Une décision d’assurabilité a modifié leur statut pour en faire des employés d’où la cotisation 2002, 2003. Il y a deux actionnaires.
+Commentaires spécifiques à l’observation
+J’ai accordé l’exemption mensuelle de 500$.
+Un des actionnaires a eu un avantage imposable (avantage auto) mais son emploi est exclu.
+Commentaires pour le recouvrement
+L’actionnaire n’est pas prêt à payer cette cotisation et il a l’intention de la contester en appel.
+[12] Dans la rubrique « Résultat de la vérification » du même document, Sophie Mailhot indique comme « date d’entrée en vigueur de l’intérêt », le 9 janvier 2006, et la date complétée, ou date de clôture, le 20 janvier 2006. Ce même document établit le montant des cotisations pour l’assurance-emploi pour les 20 travailleurs cités à l’annexe A des présentes, pour les années 2002, 2003 et 2004. Le sommaire de la vérification établit le montant final à être cotisé pour l’assurance-emploi (avant intérêts), pour les années 2002, 2003 et 2004, soit 9 387,79 $ (voir la dernière page de l’onglet 1 de la pièce RR‑1) :
+ANNÉE
+OMISSION DE VERSER/DÉDUIRE
+[…]
+AE
+[…]
+2002
+3,928.82
+2003
+4,357.56
+2004
+1,101.41
+9,387.79
+[13] Ce sont ces mêmes montants que l’on retrouve dans les « Notice[s] of Assessment » datés du 13 février 2006, établis par l’ARC à l’attention de l’appelante et portant le « business number » : 140082314RP0001 (pièce RR‑1, onglet 3).
+[14] Le 23 janvier 2006, soit après la date de clôture de la vérification, mais avant l’établissement des cotisations, le représentant de l’appelante faisait parvenir par télécopieur à l’ARC, un document, lequel est daté du 15 janvier 2006, dans lequel il s’opposait à la décision rendue par l’ARC, et il fait référence au compte no 14008-2374RP0001 (pièce R‑7). Il semble y avoir eu une erreur de frappe quant au chiffre « 7 » qui devrait être « 1 » dans le numéro de compte. Dans ce document, le représentant dit s’opposer aux avis de détermination listés à la page suivante, qui réfèrent aux premières demandes de décision faites pour les 14 travailleurs (pièce RR‑1, onglet 2) et aux 14 décisions rendues (pièce RR‑2).
+[15] Le 4 août 2006, le représentant de l’appelante transmet par télécopieur à l’ARC, un document par lequel il indique qu’au moment de faire opposition en janvier 2006, il s’était basé sur l’information alors disponible, ne sachant pas encore que les cotisations établies par la suite porteraient sur 20 travailleurs au lieu de 13 (si l’on ne compte pas Tarek Amro pour les années 2002, 2003 et 2004 (pièce RR‑1, onglet 4)).
+[16] Il y mentionne qu’au moment de recevoir les cotisations (pièce RR‑1, onglet 3), il n’a pas jugé bon de refaire opposition, puisqu’il s’était déjà opposé une première fois aux décisions de l’ARC. Il demandait donc par cette lettre d’intégrer dans l’opposition déjà présentée, une opposition sur les cotisations couvrant les années 2002, 2003 et 2004.
+[17] Le 14 août 2006, l’ARC accepta d’intégrer les cotisations du 13 février 2006 aux oppositions du 23 janvier 2006 (voir paragraphe 13 de la réponse à l’avis d’appel, et pièce AA‑1[2]).
+[18] Par lettres datées du 11 octobre 2006 (pièce RR‑1, onglet 5), l’ARC informait l’appelante de sa décision de confirmer la cotisation établie pour l’année 2002 relativement à l’assurance-emploi. Toutefois, l’ARC réduisait les cotisations pour les années 2003 et 2004 eu égard à l’assurance-emploi parce que l’ARC considérait six des 14 travailleurs ayant fait l’objet des décisions du 21 octobre 2005, comme n’étant pas employés en vertu d’un contrat de louage de services. L’ARC ne se prononçait pas sur les sept autres travailleurs qui ont fait également l’objet des cotisations d’assurance-emploi du 13 février 2006.
+[19] Il semblerait que le 15 novembre 2006, le représentant de l’appelante informait l’ARC de son omission de se prononcer sur les sept travailleurs additionnels visés à l’annexe B des présents motifs. Le 22 novembre 2006, l’ARC répondait que ces sept travailleurs « ne faisaient pas parti[e] de [l’]appel [logé le] 23 janvier 2006 et par conséquent ne faisaient pas parti[e] de l’avis d’appel qui [avait] été accepté pour la cotisation du 10 février 2006 (sic) concernant les années 2002, 2003 et 2004 ». L’ARC ajoutait qu’il était maintenant trop tard pour interjeter appel pour ces sept travailleurs (pièce R‑8). Le 8 février 2007, l’appelante logeait un appel devant notre Cour relativement aux huit travailleurs qui ont été considérés assurables et aux sept travailleurs pour lesquels l’ARC a refusé de se prononcer.
+[20] Les dispositions législatives de la Loi sur l’assurance-emploi, L.C. 1996, ch. 23 (« LAE »), qui sont pertinentes sont les suivantes (paragraphe 85(1), alinéas 90(1)a), e) et f), paragraphes 90(2) et (3), articles 91, 92, 93, 94 et 103 ainsi que les paragraphes 104(1) et (2)) :
+85. (1) Le ministre peut établir une évaluation initiale, une évaluation révisée ou, au besoin, des évaluations complémentaires de ce que doit payer un employeur, et le mot « évaluation », lorsqu’il est utilisé dans la présente loi pour désigner une initiative ainsi prise par le ministre en vertu du présent article, s’entend également de l’évaluation révisée ou complémentaire.
+85. (1) The Minister may assess an employer for an amount payable by the employer under this Act, or may reassess the employer or make such additional assessments as the circumstances require, and the expression “assessment” when used in this Act with reference to any action so taken by the Minister under this section includes a reassessment or an additional assessment.
+Décisions et appels
+90. (1) La Commission, de même que tout employé, employeur ou personne prétendant être l’un ou l’autre, peut demander à un fonctionnaire de l’Agence du revenu du Canada autorisé par le ministre de rendre une décision sur les questions suivantes :
+Rulings and Appeals
+90. (1) An employer, an employee, a person claiming to be an employer or an employee or the Commission may request an officer of the Canada Revenue Agency authorized by the Minister to make a ruling on any of the following questions:
+a) le fait qu’un emploi est assurable;
+(a) whether an employment is insurable;
+[…]
+[…]
+e) l’existence de l’obligation de verser une cotisation;
+f) la détermination du montant des cotisations à verser;
+(e) whether a premium is payable;
+(f) what is the amount of a premium payable;
+[…]
+[…]
+(2) La Commission peut faire la demande de décision à tout moment, et toute autre personne, avant le 30 juin suivant l’année à laquelle la question est liée.
+(2) The Commission may request a ruling at any time, but a request by any other person must be made before the June 30 following the year to which the question relates.
+(3) Le fonctionnaire autorisé rend sa décision dans les meilleurs délais suivant la demande.
+(3) The authorized officer shall make the ruling within a reasonable time after receiving the request.
+[…]
+[…]
+91. La Commission peut porter la décision en appel devant le ministre à tout moment, et tout autre intéressé, dans les quatre-vingt-dix jours suivant la date à laquelle il reçoit notification de cette décision.
+91. An appeal to the Minister from a ruling may be made by the Commission at any time and by any other person concerned within 90 days after the person is notified of the ruling.
+92. Lorsque le ministre a évalué une somme payable par un employeur au titre de l’article 85, l’employeur peut, dans les quatre-vingt-dix jours suivant la date à laquelle il reçoit l’avis d’évaluation, demander au ministre de reconsidérer l’évaluation quant à la question de savoir s’il y a matière à évaluation ou quel devrait être le montant de celle-ci.
+92. An employer who has been assessed under section 85 may appeal to the Minister for a reconsideration of the assessment, either as to whether an amount should be assessed as payable or as to the amount assessed, within 90 days after being notified of the assessment.
+93. (1) Le ministre notifie son intention de régler la question à toute personne pouvant être concernée par l’appel ou la révision, ainsi qu’à la Commission en cas de demande introduite en vertu de l’article 91; il leur donne également, selon le besoin, la possibilité de fournir des renseignements et de présenter des observations pour protéger leurs intérêts.
+93. (1) The Minister shall notify any person who may be affected by an appeal of the Minister’s intention to decide the appeal, including the Commission in the case of an appeal of a ruling, and shall give them an opportunity to provide information and to make representations to protect their interests, as the circumstances require.
+(2) Les demandes d’appel et de révision sont adressées au directeur adjoint des Appels d’un bureau des services fiscaux de l’Agence du revenu du Canada et sont livrées à ce bureau ou y sont expédiées par la poste.
+(2) An appeal shall be addressed to the Assistant Director of Appeals in a Tax Services Office of the Canada Revenue Agency and delivered or mailed to that office.
+(3) Le ministre règle la question soulevée par l’appel ou la demande de révision dans les meilleurs délais et notifie le résultat aux personnes concernées.
+(3) The Minister shall decide the appeal within a reasonable time after receiving it and shall notify the affected persons of the decision.
+(4) Lorsqu’il est requis d’aviser une personne qui est ou peut être concernée par un appel ou une révision, le ministre peut faire aviser cette personne de la manière qu’il juge adéquate.
+(4) If the Minister is required to notify a person who may be or is affected by an appeal, the Minister may have the person notified in such manner as the Minister considers adequate.
+94. Les articles 90 à 93 n’ont pas pour effet de restreindre le pouvoir qu’a le ministre de rendre une décision de sa propre initiative en application de la présente partie ou de la partie VII ou d’établir une évaluation ultérieurement à la date prévue au paragraphe 90(2).
+94. Nothing in sections 90 to 93 restricts the authority of the Minister to make a decision under this Part or Part VII on the Minister’s own initiative or to make an assessment after the date mentioned in subsection 90(2).
+[…]
+[…]
+Opposition et révision
+103. (1) La Commission ou une personne que concerne une décision rendue au titre de l’article 91 ou 92, peut, dans les quatre-vingt-dix jours suivant la communication de la décision ou dans le délai supplémentaire que peut accorder la Cour canadienne de l’impôt sur demande à elle présentée dans les quatre-vingt-dix jours suivant l’expiration de ces quatre-vingt-dix jours, interjeter appel devant la Cour canadienne de l’impôt de la manière prévue par la Loi sur la Cour canadienne de l’impôt et les règles de cour applicables prises en vertu de cette loi.
+Objection and Review
+103. (1) The Commission or a person affected by a decision on an appeal to the Minister under section 91 or 92 may appeal from the decision to the Tax Court of Canada in accordance with the Tax Court of Canada Act and the applicable rules of court made thereunder within 90 days after the decision is communicated to the Commission or the person, or within such longer time as the Court allows on application made to it within 90 days after the expiration of those 90 days.
+(1.1) L’article 167 de la Loi de l’impôt sur le revenu, sauf l’alinéa 167(5)a), s’applique, avec les adaptations nécessaires, aux demandes présentées aux termes du paragraphe (1).
+(1.1) Section 167, except paragraph 167(5)(a), of the Income Tax Act applies, with such modifications as the circumstances require, in respect of applications made under subsection (1).
+(2) La détermination du moment auquel une décision rendue au titre de l’article 91 ou 92 est communiquée à la Commission ou à une personne est faite en conformité avec la règle éventuellement établie en vertu de l’alinéa 20(1.1)h.1) de la Loi sur la Cour canadienne de l’impôt.
+(2) The determination of the time at which a decision on an appeal to the Minister under section 91 or 92 is communicated to the Commission or to a person shall be made in accordance with the rule, if any, made under paragraph 20(1.1)(h.1) of the Tax Court of Canada Act.
+(3) Sur appel interjeté en vertu du présent article, la Cour canadienne de l’impôt peut annuler, confirmer ou modifier la décision rendue au titre de l’article 91 ou 92 ou, s’il s’agit d’une décision rendue au titre de l’article 92, renvoyer l’affaire au ministre pour qu’il l’étudie de nouveau et rende une nouvelle décision; la Cour :
+(3) On an appeal, the Tax Court of Canada
+a) notifie aux parties à l’appel sa décision par écrit;
+(a) may vacate, confirm or vary a decision on an appeal under section 91 or an assessment that is the subject of an appeal under section 92;
+b) motive sa décision, mais elle ne le fait par écrit que si elle l’estime opportun.
+(b) in the case of an appeal under section 92, may refer the matter back to the Minister for reconsideration and reassessment; and
+(c) shall notify in writing the parties to the appeal of its decision; and
+(d) give reasons for its decision but, except where the Court deems it advisable in a particular case to give reasons in writing, the reasons given by it need not be in writing.
+104. (1) La Cour canadienne de l’impôt et le ministre ont le pouvoir de décider toute question de fait ou de droit qu’il est nécessaire de décider pour rendre une décision au titre de l’article 91 ou 103 ou pour reconsidérer une évaluation qui doit l’être au titre de l’article 92, ainsi que de décider si une personne est ou peut être concernée par la décision ou l’évaluation.
+104. (1) The Tax Court of Canada and the Minister have authority to decide any question of fact or law necessary to be decided in the course of an appeal under section 91 or 103 or to reconsider an assessment under section 92 and to decide whether a person may be or is affected by the decision or assessment.
+(2) Sauf disposition contraire de la présente loi, la décision de la Cour canadienne de l’impôt, du ministre ou du fonctionnaire autorisé au titre de l’article 90, selon le cas, est définitive et obligatoire à toutes les fins de la présente loi.
+(2) Except as otherwise provided in this Act, a decision of the Tax Court of Canada or the Minister and a ruling of an authorized officer under section 90 are final and binding for all purposes of this Act.
+[21] Aux termes de l’article 104 de la LAE, notre Cour a le pouvoir de décider si une personne est ou peut être concernée par la décision ou l’évaluation sous appel. Ici, il semble que l’appelante ait porté en appel devant le ministre les premières décisions rendues par l’ARC en date du 21 octobre 2005. Selon ma compréhension, ces appels auraient été logés aux termes de l’article 91 de la LAE. Par la suite, bien que des évaluations (« assessment[s] » dans la version anglaise) ont été établies le 13 février 2006, il ne semble pas que l’appelante ait fait appel auprès du ministre de ces évaluations aux termes de l’article 92 de la LAE.
+[22] Le 11 octobre 2006, l’ARC a rendu ses décisions, suite aux appels logés par l’appelante, pour les 14 travailleurs qui avaient fait l’objet des décisions du 21 octobre 2005 seulement. Or, le 4 août 2006, et suite à l’établissement des évaluations (« assessment[s] »), l’appelante avait écrit à l’ARC pour intégrer les sept autres travailleurs à son appel, ce qui semblait avoir été accepté par l’ARC par sa lettre du 14 août 2006 (pièce AA‑1) et reconnu par l’intimé dans sa réponse à l’avis d’appel (paragraphe 13).
+[23] En rendant ses décisions le 11 octobre 2006, aux termes du paragraphe 93(3) de la LAE, l’ARC omettait de se prononcer sur ces sept travailleurs. L’appelante demanda alors à l’ARC de le faire, et cette dernière refusa d’obtempérer par sa décision finale du 22 novembre 2006. L’appelante en appelle de cette décision finale.
+[24] À mon avis, le ministre avait accepté de rendre une décision sur ces sept travailleurs par sa lettre du 14 août 2006 et il avait le pouvoir d’agir ainsi en vertu de l’article 94 de la LAE. Il ressort de la documentation écrite que l’appelante ne s’est pas contentée de faire appel seulement de ces premières décisions concernant les 14 premiers travailleurs. Par sa lettre du 4 août 2006, elle a amendé son appel pour inclure les sept autres travailleurs qui ont fait l’objet des cotisations du 13 février 2006. Cet amendement a été accepté par l’ARC qui ne pouvait plus, selon moi, refuser de se prononcer sur tous les travailleurs impliqués dans les évaluations (« assessment[s] »). En arriver à une conclusion contraire, équivaudrait à accepter que l’ARC soit légitimée d’induire le contribuable en erreur, entraînant ainsi des conséquences inéquitables pour ce dernier.
+[25] C’est ma compréhension que l’appelante n’a pas logé un appel auprès du ministre aux termes de l’article 92, mais plutôt aux termes de l’article 91. L’intimé ne conteste pas que l’appel des décisions du ministre ait été logé dans le délai imparti par la LAE. Postérieurement, l’ARC ayant décidé de reconsidérer sept autres travailleurs, il était normal pour l’appelante d’amender son appel pour s’opposer également aux décisions prises relativement aux sept travailleurs additionnels (pièce RR‑1, onglet 1). L’ARC a d’ailleurs accepté d’intégrer ces nouveaux travailleurs dans l’appel déjà logé par l’appelante (pièce AA‑1). En acceptant d’intégrer les sept nouveaux travailleurs (visés par les évaluations) aux appels logés en vertu de l’article 91 à l’encontre des décisions du ministre prises en vertu de l’article 90, le ministre acceptait de se prononcer sur tous les travailleurs finalement évalués par Sophie Mailhot. Le ministre avait le pouvoir à ce stade de rendre une telle décision aux termes de l’article 94, et aurait dû le faire puisqu’il avait avisé l’appelante qu’il acceptait de joindre les sept nouveaux travailleurs aux avis d’appel déjà logés.
+[26] En vertu de l’article 104 de la LAE, je peux décider quelles personnes sont concernées par la décision. J’estime donc que les six travailleurs pour lesquels l’ARC a rendu une décision d’assurabilité ainsi que les sept autres pour lesquels l’ARC a refusé de se prononcer en appel devant elle, sont concernés par la décision que je vais rendre. J’analyserai donc globalement le statut de ces 13 travailleurs dans le cadre de cet appel.
+II. Statut des travailleurs en vertu de la LAE
+[27] Monsieur Mohamed Amro, l’un des copropriétaires de l’appelante, a témoigné. Avant 2002, les deux frères Amro exploitaient leur agence de voyages sans aide. Par la suite, l’appelante a commencé à engager des agents de l’extérieur qui trouvaient eux-mêmes leur clientèle. Les frères Amro considéraient ces agents comme des contractuels travaillant à leur propre compte. Selon monsieur Amro, il n’y avait pas assez de clientèle à ce moment pour engager des employés. Il dit que ces agents travaillaient de leur résidence à partir du système informatique SABRE, le fournisseur du logiciel de réservation, auquel l’appelante leur donnait accès. La facturation aux clients comprenait le prix fixé par les compagnies aériennes en sus d’une commission qui pouvait varier selon l’agent. Ce dernier devait venir à l’agence pour imprimer les billets. La vente de billets était enregistrée dans un registre comptable informatisé. Les agents utilisaient le nom de l’agence lors de la vente parce que c’est celle-ci qui détenait le permis. Les clients faisaient leur paiement au nom de l’agence, qui ensuite remettait à l’agent vendeur 50 % de la commission prélevée sur la somme payée par les clients, l’agence conservant l’autre 50 %. Elle déposait dans son compte en fidéicommis le produit net de la vente, pour éventuellement payer les compagnies aériennes. Aucun agent n’avait accès au compte en fidéicommis.
+[28] En juillet 2003, l’appelante a décidé d’engager madame Rola Al-Haj comme employée à temps partiel. À ce moment, l’agence devenait un peu plus connue et attirait plus de clientèle. En 2004, l’appelante décidait d’engager pratiquement tous les agents comme des employés de l’agence (sept en tout). Le seul qui est resté contractuel est monsieur Abdul Al‑Khodary, qui rendait ses services par le biais de sa propre agence, Ama Trading, enregistrée le 7 avril 2003 (pièce A‑3). L’appelante payait alors ses employés un salaire fixe plus un pourcentage variant de 5 à 10 % du profit sur la vente de billets. Les employés étaient payés aux deux semaines.
+[29] Monsieur Amro a dit que lorsque ses agents travaillaient comme contractuels, ils travaillaient de chez eux et venaient au bureau de l’agence quand cela leur convenait. Ils rencontraient leurs propres clients et lui-même ne leur donnait pas de consignes. Tel que mentionné plus haut, ils recevaient alors 50 % de la commission prélevée sur la somme exigée du client. Quand il a engagé les agents comme employés, ils avaient un horaire de travail à respecter et faisaient l’ouvrage qui leur était assigné. Ils recevaient un salaire et certains recevaient en sus un pourcentage de la commission.
+[30] Tant comme contractuel qu’employé, chacun desdits agents avait un mot de passe pour avoir accès à la banque informatique du logiciel SABRE, aux fins de pouvoir procéder aux réservations et aux émissions de billets. L’agent ne pouvait dévoiler ce mot de passe à d’autres, selon une entente convenue avec l’appelante. Mais monsieur Amro a dit qu’il était difficile d’exercer un contrôle là-dessus. Toutefois, les agents préparaient un rapport sur les commissions qu’ils remettaient à l’un des deux frères Amro. Monsieur Amro a dit qu’il vérifiait ces rapports et apportait des corrections quand les billets étaient annulés ou que la commission était calculée de façon erronée. S’il y avait une erreur quant au montant remis aux compagnies aériennes, celles-ci émettaient un « debit memo » et l’appelante exigeait de l’agent 50 % de la somme due suite à l’erreur. Un employé de l’agence avait un avertissement seulement.
+[31] Les clés du bureau étaient en possession des deux frères Amro et de Abdul Al‑Khodary, ce dernier pouvant se présenter à toute heure en-dehors des heures d’ouverture pour l’émission de billets. Monsieur Al‑Khodary travaillait des heures irrégulières, à sa convenance. Ceci se voit par la liste des billets émis en-dehors des heures normales de travail (pièce A‑6).
+[32] En 2002, l’agence avait du mobilier pour six postes de travail en sus des bureaux des deux propriétaires (pièce A‑1). Déjà à cette époque, les agents, même en étant contractuels, pouvaient s’en servir selon leur besoin. Monsieur Amro a expliqué qu’au moment de signer le bail en 2001, on lui a loué les locaux sans frais pour une année complète. Il a donc saisi l’occasion pour meubler le local en se disant que les agents pouvaient toujours s’en servir. Il avait espoir à ce moment que sa clientèle augmenterait et qu’il pourrait engager des agents à temps plein, comme c’est effectivement devenu le cas en 2004. De fait, le profit brut sur les ventes est passé de 179 000 $ en 2002 à près de 275 000 $ en 2004, et le profit net avant impôt de 3 000 $ en 2002 à 58 000 $ en 2004 (pièce A‑5). En 2002, il avait sept ordinateurs fournis gratuitement par la société SABRE. En 2003, l’appelante a commencé graduellement à payer ces ordinateurs (trois par année).
+[33] En 2005, il y avait huit postes de travail et les deux bureaux des copropriétaires (pièce R‑1). Les heures d’ouverture de l’agence étaient et sont encore de 9 h à 18 h en semaine, et de 10 h à 15 h le samedi. L’agence est fermée le dimanche.
+[34] Quand les agents étaient des contractuels, seuls les deux frères assuraient une présence en tout temps pendant les heures d’ouverture alors que les agents étaient simplement de passage. À part madame Rola Al‑Haj qui fut engagée en juillet 2003, aucun agent ne répondait à la clientèle sur place.
+[35] Ceci conclut de façon globale le témoignage de Mohamed Amro.
+[36] L’avocate de l’intimé a fait témoigner madame Katayoun Khaliliazar. Elle s’est présentée comme étant une assistante dentaire. Elle dit avoir travaillé pour l’appelante du mois d’octobre 2003 au mois de février 2004. Dans son cas, la période sous appel est du 1er novembre 2003 au 31 décembre 2003 (pièce RR‑2). Elle dit qu’elle avait suivi une formation d’agent de voyages auprès d’une autre agence. Elle aurait eu une autre formation de deux semaines auprès de l’appelante avec Abdul Al‑Khodary. Elle n’était pas payée durant ces deux semaines d’apprentissage. Elle dit avoir été embauchée par la suite pour travailler à temps plein de 9 h à 18 h, du lundi au vendredi, au bureau de l’agence. Elle ne pouvait pas travailler de chez elle car cela nécessitait un programme spécifique qu’elle n’avait pas sur son ordinateur. Elle se servait donc d’un ordinateur à l’agence. Elle faisait des réservations de vol, enregistrait le nom des clients, recevait les paiements et émettait les billets. Au moment de fixer le prix pour le client, elle décidait du montant de la commission, qui devait s’inscrire dans une certaine marge dictée par l’appelante. Avant d’émettre le billet, elle devait le faire approuver par Mohamed Amro ou Abdul Al‑Khodary. Elle a dit qu’elle recevait un salaire net de 450 $ aux deux semaines et qu’elle n’a jamais reçu de commissions. En 2003, elle a déclaré un revenu de 2 250 $ dans la rubrique « other income » (pièce R‑2). Il semblerait qu’elle n’aurait réclamé aucune dépense. Elle dit que lorsqu’elle a travaillé à l’agence en 2003, d’autres agents y venaient mais pas à temps plein. Par contre, elle avait mentionné à l’agent des appels de l’ARC qu’il y avait environ six agents de voyages qui travaillaient à temps plein à l’agence (pièce R‑6, paragraphe 94).
+[37] L’avocate de l’intimé a également fait témoigner monsieur Abdul Al-Khodary. Il a travaillé pour l’appelante de 1997 à 1999, puis a quitté après avoir obtenu un contrat avec deux sociétés aériennes. Il a recommencé à travailler avec l’appelante en février 2002 jusqu’en juillet 2005. La période en appel porte du 1er janvier 2002 au 31 décembre 2003 (pièce RR‑2). Il a dit qu’il travaillait tous les jours à l’agence durant les heures d’ouverture. Il pouvait rester après, mais cela était rare. Il avait la clé du bureau et c’est lui qui ouvrait le matin. Il a dit ne pas travailler de sa résidence en général, mais que cela pouvait arriver occasionnellement puisqu’il avait accès au système de réservations de chez lui.
+[38] Il a mentionné qu’il y avait huit bureaux à l’agence et a énuméré les personnes qui travaillaient avec lui, soit Rola Al-Haj, Yasser El Sabbagh, Amir Hossein Sedghi et Katayoun Khaliliazar. Il a dit que d’autres agents avaient travaillé mais seulement pour de courtes périodes. Il a reconnu qu’il s’était offert pour former certains agents, dont Katayoun Khaliliazar. Personne ne lui a demandé de faire cela – c’était de sa propre initiative.
+[39] Monsieur Al-Khodary était payé à commission. Il avait convenu d’un commun accord avec Mohamed Amro qu’il recevrait 50 % du profit sur ses ventes. Il avait une carte d’affaires montrant son association avec Amro Travel, laquelle était elle-même membre de l’IATA (pièce R-4). Une telle carte était octroyée à un agent après six mois, s’il atteignait un certain niveau de ventes avec Amro Travel. L’agence lui fournissait également une carte avec les coordonnées de l’agence. Il a reconnu que c’est lui qui décidait du montant de la commission qu’il demandait à chaque client. L’appelante ne lui imposait aucun barème. Il se dit un agent d’expérience qui peut évaluer seul la commission qu’il peut réclamer d’un client. Il lui arrivait de conseiller d’autres agents à ce sujet, mais toujours de sa propre initiative.
+[40] Bien qu’il se considérait comme un employé, il a reconnu avoir enregistré Ama Trading dans le but de réclamer des dépenses à l’encontre de ses revenus. Il a commencé par dire qu’avant d’enregistrer Ama Trading en avril 2003, il n’avait réclamé aucune dépense dans sa déclaration de revenus, puisqu’il se considérait un employé. Or, sa déclaration de revenus pour l’année 2002 (pièce A‑7), montre qu’il a déclaré un revenu brut de commissions de 16 854,37 $, selon le montant reporté sur ses feuillets T4A, et un revenu net de 6 003,65 $.
+[41] En 2003, il a déclaré un revenu brut de commissions de 25 451,95 $, selon le montant reporté sur ses feuillets T4A, et un revenu net de 8 192,26 $ (pièce A‑7). Selon la pièce A‑6, on voit qu’Abdul Al-Khodary a émis à plusieurs reprises des billets d’avion en-dehors des heures normales de travail, en soirée. Il dit que lorsqu’il a commencé à rendre ses services par l’intermédiaire d’Ama Trading, l’ARC a reconnu qu’il était un contractuel. Toutefois, il n’y a aucune différence dans son travail avant et après l’enregistrement de cette raison sociale. Il reconnaît également que tous les conseils qu’il donnait aux autres agents venaient de sa propre initiative et qu’il n’était pas payé pour ce genre de services. Il dit qu’il consacrait 20 à 25 % de son temps avec les autres agents. À l’agent des appels de l’ARC, il aurait affirmé que 50 % de son temps était consacré à superviser les autres agents (pièce R‑6, paragraphe 112). Il considérait cette agence comme la sienne. Il reconnaît qu’en remettant 50 % de ses commissions à l’agence, il se trouvait ainsi à contribuer aux frais, tels le loyer, les frais de permis pour exploiter une agence de voyages, etc. Il a également reconnu qu’il payait pour ses erreurs et pour les montants qui pouvaient être réclamés par les compagnies aériennes suite à ses erreurs.
+[42] L’avocate de l’intimé a fait entendre deux témoins de l’ARC. Monsieur Elio Palladini, celui qui a déclaré 13 travailleurs assurables dans ses décisions du 21 octobre 2005, dit avoir parlé en octobre 2005 à Mohamed Amro et à Katayoun Khaliliazar. Mohamed Amro lui aurait dit que l’agence avait environ sept employés en 2003. En contre-interrogatoire, quand on lui a dit que c’était en 2004 que l’appelante avait déclaré sept employés, il s’est contenté de dire que les feuillets T4 n’étaient pas toujours émis à temps. Il a reconnu que Mohamed Amro lui avait mentionné que les agents travaillaient de leur résidence et assumaient leurs dépenses. Il lui aurait dit que les agents devaient s’identifier sous la bannière de l’agence et n’auraient pu travailler pour d’autres agences.
+[43] Monsieur Jacques Rousseau, celui qui a rendu les décisions en appel le 11 octobre 2006, a contacté les 13 travailleurs qui ont été déclaré assurables par Elio Palladini, de même que Mohamed Amro, ainsi que son représentant. Il a confirmé le statut d’employé pour Tarik Mimouni (2002-2003), Abdul Al-Khodary (2002-2003), Ahmed Nadim Labib (2002), Amal Temoulguy (2002), Katayoun Khaliliazar (2003), Rola Al‑Haj (2002-2003), Talha Siddiqui (2002-2003) et Yasser El Sabbagh (2002-2003). Il a reconnu que les autres travailleurs, soit André Dagenais (2003), Mark Thompson (2003), Edda Battistella (2003), Amir Hossein Sedghi (2003) et Ahmad Abu Taah (2003-2004), n’étaient pas des employés de l’appelante.
+[44] Il a mentionné que ceux qu’il avait considérés comme des employés avaient à peu près tous dit la même chose. Selon la compréhension de monsieur Rousseau, les travailleurs en question disaient travailler à temps plein à l’agence du lundi au vendredi de 9 h à 18 h. Ils devaient respecter l’horaire imposé par l’appelante et s’ils devaient s’absenter, devaient communiquer avec monsieur Amro ou avec monsieur Abdul Al-Khodary, qui auraient été leurs superviseurs. Je note toutefois que Abdul Al‑Khodary, dans son témoignage, a dit qu’il ne jouait pas un rôle de superviseur, mais acceptait d’aider les agents de sa propre initiative. Toujours selon monsieur Rousseau, chacun des travailleurs aurait dit qu’il avait un bureau avec un ordinateur fourni, et se servait du nom de l’agence. Au niveau de la rémunération, ils recevaient un salaire de base aux deux semaines, plus un pourcentage de commission variant entre 5 et 10 % sur leurs ventes. La plupart ne connaissaient pas quel était leur statut. Ils ne savaient pas s’ils étaient des employés, ou des contractuels.
+[45] En contre-interrogatoire, il a reconnu qu’il n’y avait pas de fiche de présence remplie par les agents. Dans son enquête auprès de Katayoun Khaliliazar, celle-ci aurait dit qu’en cas d’absence, elle devait appeler son superviseur, soit Abdul Al‑Khodary ou Tania. Toutefois, suite à une question du représentant de l’appelante, il a reconnu que Tania n’était pas une personne qui travaillait pour l’appelante.
+[46] En ce qui concerne madame Rola Al‑Haj, celle-ci aurait dit avoir commencé à travailler pour l’appelante en 2001. Mohamed Amro dit l’avoir engagée comme employée en juillet 2003. La décision rendue par l’ARC dans son cas vise la période du 1er juin 2002 au 31 décembre 2003 (pièce RR‑2). Monsieur Rousseau n’a pas tenté d’élucider les contradictions des versions de certains agents et de celle de Mohamed Amro. Ce dernier est revenu en contre-preuve pour dire qu’en 2004, il avait sept employés et que possiblement il y avait eu confusion quant à l’année 2003. Monsieur Rousseau a fait son enquête en 2006.
+Analyse
+[47] Dans l’arrêt 9041-6868 Québec Inc. c. Canada (Ministre du Revenu national), 2005 CAF 334, [2005] A.C.F. no 1720 (QL) cité par l’avocate de l’intimé, la Cour d’appel fédérale se réfère au Code civil du Québec, L.Q. 1991, ch. 64, pour déterminer si des parties sont liées par un contrat de louage de services plutôt que d’entreprise lorsque le droit provincial applicable est celui du Québec. Les dispositions pertinentes sont les suivantes (articles 1378, 1425, 1426, 2085, 2098 et 2099 C.c.Q.) :
+1378. Le contrat est un accord de volonté, par lequel une ou plusieurs personnes s'obligent envers une ou plusieurs autres à exécuter une prestation.
+1378. A contract is an agreement of wills by which one or several persons obligate themselves to one or several other persons to perform a prestation.
+[…]
+[…]
+1425. Dans l'interprétation du contrat, on doit rechercher quelle a été la commune intention des parties plutôt que de s'arrêter au sens littéral des termes utilisés.
+1425. The common intention of the parties rather than adherence to the literal meaning of the words shall be sought in interpreting a contract.
+1426. On tient compte, dans l'interprétation du contrat, de sa nature, des circonstances dans lesquelles il a été conclu, de l'interprétation que les parties lui ont déjà donnée ou qu'il peut avoir reçue, ainsi que des usages.
+1426. In interpreting a contract, the nature of the contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage, are all taken into account.
+[…]
+[…]
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+2085. A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+[…]
+[…]
+2098. Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+2099. L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[Je souligne.]
+2099. The contractor and the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance. [Emphasis added.]
+[48] La Cour d’appel fédérale poursuit ainsi dans cette décision (paragraphes 8 à 12) :
+[8] Il faut garder à l'esprit que le rôle du juge de la Cour canadienne de l'impôt est de vérifier dans les faits si les allégations sur lesquelles s'est appuyé le ministre sont bien fondées et, le cas échéant, si la véritable réalité contractuelle des parties en est une qui peut être qualifiée, en droit, de louage de services. Le litige devant la Cour canadienne de l'impôt n'est pas, à proprement parler, un litige de nature contractuelle opposant l'une à l'autre des parties à un contrat. C'est un litige de nature administrative qui oppose un tiers, en l'occurrence le ministre du Revenu national, à l'une ou l'autre des parties, même si l'une ou l'autre peut en définitive vouloir épouser les vues du ministre.
+[9] Le contrat sur lequel le ministre se fonde ou qu'une partie cherche à lui opposer est certes un fait juridique que le ministre ne peut ignorer même s'il ne produit pas d'effet à son égard (art. 1440 C.c.Q.; Baudouin et Jobin, Les Obligations, Éditions Yvon Blais 1998, 5e édition, p. 377). Cela n'empêche en rien le ministre, cependant, d'alléguer que dans les faits le contrat n'est pas tel qu'il parait être, qu'il n'a pas été exécuté selon ses termes ou qu'il ne reflète pas la véritable relation qui s'est établie entre les parties. Il est permis au ministre, et à la Cour canadienne de l'impôt après lui, de rechercher cette relation véritable, ainsi que le prévoient les articles 1425 et 1426 du Code Civil du Québec, dans la nature du contrat, dans les circonstances dans lesquelles il a été conclu, dans l'interprétation que les parties lui ont déjà donnée ou qu'il peut avoir reçue, ainsi que dans les usages. Et parmi ces circonstances dans lesquelles le contrat a été conclu se trouve l'intention légitime déclarée des parties, un facteur important retenu par cette Cour dans un bon nombre d'arrêts (voir Wolf c. Canada (C.A.), [2002] 4 C.F. 396, para. 119 et 122; A.G. Canada c. Les Productions Bibi et Zoé Inc., [2004] A.C.F. no 238, 2004 CAF 54; Le Livreur Plus Inc. c. M.R.N., [2004] A.C.F. no 267, 2004 CAF 68; Poulin c. Canada (M.R.N.), [2003] A.C.F. no 141, 2003 CAF 50; Tremblay c. Canada (M.R.N.), [2004] A.C.F. no 802, 2004 CAF 175.
+[10] L'expression « contrat de louage de services » que l'on retrouve dans la Loi sur l'assurance-emploi depuis ses origines et qui reprenait l'expression contenue à l'article 1667 du Code civil du Bas-Canada, est désuète. Le Code civil du Québec, en effet, utilise désormais l'expression « contrat de travail », à l'article 2085, qu'il distingue du « contrat d’entreprise ou de service », à l'article 2098.
+[11] Trois éléments constitutifs caractérisent le « contrat de travail » en droit québécois : une prestation de travail, une rémunération et un lien de subordination. C'est ce dernier élément qui est à la source de la plupart des litiges. Pour le définir de façon globale, je m'en remets à ces propos de Robert P. Gagnon, dans Le droit du travail du Québec, Éditions Yvon Blais, 2003, 5e édition, aux pages 66 et 67 :
+92 – Facteur distinctif – L'élément de qualification du contrat de travail le plus significatif est celui de la subordination du salarié à la personne pour laquelle il travaille. C'est cet élément qui permet de distinguer le contrat de travail d'autres contrats à titre onéreux qui impliquent également une prestation de travail au bénéfice d'une autre personne, moyennant un prix, comme le contrat d'entreprise ou de service régi par les articles 2098 et suivants C.c.Q. Ainsi, alors que l'entrepreneur ou le prestataire de services conserve, selon l'article 2099 C.c.Q., « le libre choix des moyens d'exécution du contrat» et qu'il n'existe entre lui et son client « aucun lien de subordination quant à son exécution », il est caractéristique du contrat de travail, sous réserve de ses termes, que le salarié exécute personnellement le travail convenu sous la direction de l'employeur et dans le cadre établi par ce dernier.
+92 – Appréciation factuelle – La subordination se vérifie dans les faits. À cet égard, la jurisprudence s'est toujours refusée à retenir la qualification donnée au contrat par les parties... .
+92 – Notion – Historiquement, le droit civil a d'abord élaboré une notion de subordination juridique dite stricte ou classique qui a servi de critère d'application du principe de la responsabilité civile du commettant pour le dommage causé par son préposé dans l'exécution de ses fonctions (art. 1054 C.c.B.-C.; art 1463 C.c.Q.). Cette subordination juridique classique était caractérisée par le contrôle immédiat exercé par l'employeur sur l'exécution du travail de l'employé quant à sa nature et à ses modalités. Elle s'est progressivement assouplie pour donner naissance à la notion de subordination juridique au sens large. La diversification et la spécialisation des occupations et des techniques de travail ont, en effet, rendu souvent irréaliste que l'employeur soit en mesure de dicter ou même de surveiller de façon immédiate l'exécution du travail. On en est ainsi venu à assimiler la subordination à la faculté, laissée à celui qu'on reconnaîtra alors comme l'employeur, de déterminer le travail à exécuter, d'encadrer cette exécution et de la contrôler. En renversant la perspective, le salarié sera celui qui accepte de s'intégrer dans le cadre de fonctionnement d'une entreprise pour la faire bénéficier de son travail. En pratique, on recherchera la présence d'un certain nombre d'indices d'encadrement, d'ailleurs susceptibles de varier selon les contextes : présence obligatoire à un lieu de travail, assignation plus ou moins régulière du travail, imposition de règles de conduite ou de comportement, exigence de rapports d'activité, contrôle de la quantité ou de la qualité de la prestation, etc. Le travail à domicile n'exclut pas une telle intégration à l'entreprise. (mon soulignement).
+[12] Il est intéressant de noter qu'en droit civil québécois, la définition même du contrat de travail met l'accent sur « la direction ou le contrôle » (art. 2085 c.c.c.) (sic), ce qui fait du contrôle l'objet même de l'exercice et donc beaucoup plus qu'un simple indice d'encadrement, ainsi que le note le juge Archambault à la page 2: 72 de l'ouvrage précité.
+[49] Dans la situation actuelle, il n’y a aucun contrat écrit. Malgré les contradictions dans la preuve, il en ressort toutefois que monsieur Amro n’envisageait pas engager des employés en 2002 puisqu’il trouvait sa clientèle insuffisante, qu’il a engagé Rola Al‑Haj en juillet 2003 et qu’en 2004, le profit brut sur les ventes avait assez augmenté pour se permettre d’engager au cours de l’année sept agents de voyages comme employés. Du côté des travailleurs, selon le rapport de monsieur Rousseau, ils ne connaissaient généralement pas leur statut. En concluant que les huit agents, Abdul Al‑Khodary, Ahmed Nadim Labib, Amal Temoulgui, Katayoun Khaliliazar, Rola Al-Haj, Talha Siddiqui, Tarik Mimouni et Yasser El Sabbah (voir alinéa 19 h) de la réponse à l’avis d’appel) étaient des employés, l’intimé a retenu les facteurs suivants :
+· ils travaillaient au bureau de l’appelante;
+· ils étaient recrutés suite à des annonces dans un journal local;
+· ils travaillaient à temps plein pour l’appelante, soit généralement du lundi au vendredi de 9 h à 18 h;
+· ils devaient avertir l’appelante en cas d’absence;
+· leurs tâches étaient établies par l’appelante;
+· ils étaient rémunérés à salaire fixe plus une commission de 10 % sur leurs ventes, sauf Abdul Al‑Khodary et Amal Temoulgui qui étaient rémunérés en recevant une commission de 50 % de leurs ventes;
+· ils étaient payés aux deux semaines;
+· l’appelante leur fournissait tous les outils et les équipements nécessaires;
+· le permis d’agence de voyages appartenait à l’appelante;
+· la documentation et les cartes d’affaires étaient fournies par l’appelante;
+· ils n’avaient pas de dépenses dans l’exercice de leurs fonctions pour l’appelante;
+· ils ne pouvaient se faire remplacer dans leurs fonctions sans l’approbation de l’appelante.
+[50] À part le fait que le permis d’agence de voyages appartenait à l’appelante, cette dernière a nié tous les autres facteurs relevés par l’intimé, tant que celle-ci considérait les agents de voyages comme des contractuels.
+[51] En ce qui concerne les deux travailleurs qui ont témoigné, Katayoun Khaliliazar a, pour sa part, reconnu qu’elle avait reçu une formation de Abdul Al‑Khodary sans être payée. Elle dit ensuite avoir travaillé cinq mois à temps plein (d’octobre 2003 à février 2004), alors que selon la demande d’assurabilité, elle n’aurait travaillé que du 1er novembre 2003 au 31 décembre 2003 (soit deux mois). À l’audition, elle dit qu’il n’y avait pas d’autres agents à temps plein, et elle avait mentionné à monsieur Rousseau qu’il y avait environ six agents à temps plein, pendant la période où elle s’y trouvait. Elle a dit qu’elle était supervisée par Tania, se trompant de toute évidence d’agence puisqu’aucune Tania n’a travaillé pour l’appelante.
+[52] Quant à Abdul Al‑Khodary, celui-ci a clairement dit dans son témoignage qu’il aidait les agents de sa propre initiative et que cela ne relevait pas de ses tâches. De plus, il a laissé entendre qu’il passait environ 20 à 25 % de son temps à superviser les autres agents, alors qu’il avait dit à monsieur Rousseau que cela prenait 50 % de son temps. Lorsque confronté à ses déclarations de revenus, il a reconnu qu’il ne se considérait pas un employé, puisqu’il déduisait ses dépenses à l’encontre de ses revenus, ce qu’il n’aurait pu faire s’il avait été un employé. Par ailleurs, l’intimé a reconnu son statut de contractuel indépendant à partir du moment où il a commencé à rendre ses services par l’intermédiaire de sa raison sociale Ama Trading. Or, selon Abdul Al‑Khodary, ses tâches n’avaient aucunement changé avant et après l’existence de Ama Trading. Il a reconnu qu’il travaillait en dehors des heures d’ouverture de bureau. Il ne recevait pas de salaire mais était payé uniquement à commission sur le profit de ses ventes. Il était responsable financièrement des erreurs qu’il pouvait commettre.
+[53] À mon avis, le témoignage de ces deux témoins ne vient pas appuyer les faits retenus par l’intimé dans la réponse à l’avis d’appel. Les propos de Katayoun Khaliliazar étaient confus et même contradictoires. Quant à Abdul Al‑Khodary, sa version a changé depuis le rapport qu’il a fait à monsieur Rousseau, son interrogatoire en chef et son contre-interrogatoire. C’est pourquoi je suis très réticente à accorder plus de poids aux propos de ces deux travailleurs, pour appuyer la thèse qu’ils étaient des employés, qu’à ceux de Mohamed Amro, qui nous dit que ce n’est qu’en 2004 qu’il a pu engager les agents comme des employés.
+[54] Le témoignage de Abdul Al‑Khodary laisse plutôt croire qu’il avait le statut de contractuel ou d’entrepreneur, selon les termes utilisés dans le Code civil du Québec. Quant aux autres travailleurs, ils n’étaient pas présents à l’audition. Le représentant de l’appelante a mentionné dans ses plaidoiries écrites que Tarik Mimouni avait été assigné à comparaître mais ne s’est pas présenté. Pour les autres travailleurs, monsieur Rousseau nous dit les avoir contactés et qu’ils auraient sensiblement donné la même version que celle de Katayoun Khaliliazar. Compte tenu du témoignage confus de cette dernière, je suis d’avis que l’appelante a réussi à jeter un sérieux doute et ainsi réfuter prima facie les faits assumés par l’intimé. Les autres travailleurs n’étant pas présents, il est difficile de donner trop de poids à la version qu’ils auraient donnée à monsieur Rousseau.
+[55] Dans l’arrêt de la Cour suprême du Canada Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, le juge L’Heureux‑Dubé s’exprime ainsi quant au renversement du fardeau de la preuve aux paragraphes 92 à 94 :
+92 Il est bien établi en droit que, dans le domaine de la fiscalité[3], la norme de preuve est la prépondérance des probabilités: Dobieco Ltd. c. Minister of National Revenue, [1966] R.C.S. 95, et que, à l’intérieur de cette norme, différents degrés de preuve peuvent être exigés, selon le sujet en cause, pour que soit acquittée la charge de la preuve: Continental Insurance Co. c. Dalton Cartage Co., [1982] 1 R.C.S. 164; Pallan c. M.R.N., 90 D.T.C. 1102 (C.C.I.), à la p. 1106. En établissant des cotisations, le ministre se fonde sur des présomptions: (Bayridge Estates Ltd. c. M.N.R., 59 D.T.C. 1098 (C. de l’É.), à la p. 1101), et la charge initiale de «démolir» les présomptions formulées par le ministre dans sa cotisation est imposée au contribuable (Johnston c. Minister of National Revenue, [1948] R.C.S. 486; Kennedy c. M.R.N., 73 D.T.C. 5359 (C.A.F.), à la p. 5361). Le fardeau initial consiste seulement à «démolir» les présomptions exactes qu’a utilisées le ministre, mais rien de plus: First Fund Genesis Corp. c. La Reine, 90 D.T.C. 6337 (C.F. 1re inst.), à la p. 6340.
+93 L’appelant s’acquitte de cette charge initiale de «démolir» l’exactitude des présomptions du ministre lorsqu’il présente au moins une preuve prima facie: Kamin c. M.R.N., 93 D.T.C. 62 (C.C.I.); Goodwin c. M.R.N., 82 D.T.C. 1679 (C.R.I.). […]
+94 Lorsque l’appelant a «démoli» les présomptions du ministre, le «fardeau de la preuve [. . .] passe [. . .] au ministre qui doit réfuter la preuve prima facie» faite par l’appelant et prouver les présomptions: Magilb Development Corp. c. La Reine, 87 D.T.C. 5012 (C.F. 1re inst.), à la p. 5018. […] [Soulignés dans l’original.]
+[56] Ainsi, il revient maintenant au ministre de prouver ses présomptions et réfuter la preuve de l’appelante. À mon avis, il ressort plutôt de la preuve qu’à compter de 2004, l’appelante était suffisamment solide financièrement pour engager les agents de voyages en question à temps plein. Je peux croire monsieur Amro lorsqu’il dit qu’avant cela, il a commencé par engager des agents à contrat. Le fait qu’il ait loué un local en 2001 et profité d’une année de répit au niveau du bail pour le meubler afin que les agents puissent y avoir accès, ne me semble pas déraisonnable. J’estime que l’intimé n’a pas prouvé prima facie que les agents étaient requis d’être présents en tout temps, qu’il y avait une assignation régulière de travail ou une imposition de règles de conduite, et je ne peux conclure que l’appelante exerçait le contrôle requis pour en faire des employés. Je n’ai aucune raison de douter de la bonne foi de monsieur Amro lorsqu’il dit qu’il préparait ses locaux dans l’expectative d’une croissance future.
+[57] Par ailleurs, il est étrange que l’intimé ait accepté de considérer certains agents comme des contractuels et d’autres pas, alors qu’ils semblaient tous effectuer le même travail. Il aurait été étonnant que certains soient traités différemment par rapport à d’autres.
+[58] J’estime que la preuve révèle plutôt que l’intention des parties au départ était d’engager des agents de voyages sur une base contractuelle, selon leur expertise, pour ensuite engager les agents qui étaient rentables comme des employés afin de s’assurer de leur allégeance. Cela me paraît commercialement raisonnable et plausible. À part Rola Al‑Haj, que Mohamed Amro reconnaît avoir engagée comme employée à compter du mois de juillet 2003, je considère que l’appelante a démontré selon la prépondérance des probabilités que les agents de voyages en question n’étaient pas des employés au cours des années 2002 et 2003. Cette décision s’applique à tous les travailleurs, y compris ceux que l’on retrouve à l’annexe B des présents motifs.
+[59] Toutefois, pour l’année 2004, l’appelante reconnaît qu’elle avait engagé sept employés, sans préciser lesquels. L’intimé a reconnu que Ahmad Abu Taah n’était pas assurable en 2004 (voir alinéa 19h) de la réponse à l’avis d’appel).
+Décision
+[60] L’appel est accueilli et les décisions du 11 octobre 2006 et du 22 novembre 2006 sont déférées au ministre du Revenu national pour nouvelles déterminations sur la base que les agents de voyages nommés à l’annexe A des présents motifs n’étaient pas engagés en vertu d’un contrat de louage de services pour les années 2002 et 2003, à l’exception de Rola Al‑Haj, qui était une employée à compter de juillet 2003, tel que reconnu par l’appelante. Il va de soi que les cotisations du 13 février 2006 qui ont été établies en vertu de ces décisions doivent être modifiées en conséquence.
+[61] Quant à l’année 2004, puisque l’appelante a reconnu qu’elle avait sept employés sans toutefois préciser lesquels, les décisions sont maintenues quant aux agents qui ont été déclarés assurables.
+Signé à Montréal (Québec), ce 16e jour de mai 2008.
+« Lucie Lamarre »
+Juge Lamarre
+Annexe A
+Abdul Al-Khodary
+Ahmed Nadim Labib
+Amal Temoulgui
+Katayoun Khaliliazar
+Rola Al-Haj
+Talha Siddiqui
+Tarik Mimouni
+Yasser El Sabbagh
+Ahmad Abu Taah
+Amir Hossein Sedghi
+André Dagenais
+Mark Thompson
+Edda Battistella
+Abou Seadah Nermine
+Benhocine Hamida
+El Boukhari Noha
+Rasha Awad
+Khalid Mahmod Moghal
+Amro Samy
+Hussein Nohida
+Annexe B
+Abou Seadah Nermine
+Benhocine Hamida
+El Boukhari Noha
+Rasha Awad
+Khalid Mahmod Moghal
+Amro Samy
+Hussein Nohida
+RÉFÉRENCE : 2008CCI305
+Nº DU DOSSIER DE LA COUR : 2007-771(EI)
+INTITULÉ DE LA CAUSE : 3105822 CANADA INC. c. M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 21 août 2007
+PLAIDOIRIES ÉCRITES
+DE L’APPELANTE : le 24 septembre 2007
+PLAIDOIRIES ÉCRITES
+DE L’INTIMÉ : le 12 octobre 2007
+RÉPLIQUE DE L’APPELANTE : le 16 novembre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 16 mai 2008
+COMPARUTIONS :
+Représentant de l’appelante :
+Nabil Warda
+Avocate de l'intimé :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Rien n’indique dans la documentation envoyée la signification précise de « VNOE ».
+[2] Dans la lettre du 14 août 2006 (pièce AA‑1), on fait référence à une cotisation du 10 février 2006. Ceci semble une erreur d’écriture, laquelle est redressée au paragraphe 13 de la réponse à l’avis d’appel.
+[3] Le juge L'Heureux-Dubé parle du domaine de la fiscalité, mais la même norme s'applique dans le domaine de l'assurance-emploi pour les litiges devant notre Cour – voir Marcoux c. Canada (Ministre du Revenu national – M.R.N.), [2001] A.C.I. no 771 (QL) (une décision du juge Bowman, alors juge en chef adjoint de notre Cour).

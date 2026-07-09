@@ -1,0 +1,315 @@
+---
+title: "Newell v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29743/index.do"
+last_modified: "2010-04-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 196"
+citation2: ""
+neutral_citation: "2010 TCC 196"
+decision_date: "2010-04-12"
+language: "en"
+item_id: "29743"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6550
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:28:35.456000+00:00"
+cases_cited_count: 1
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5223e2d1c8b9c1d100fa6523e390e450cc8615a2177f41a369a44ead3ec732f0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Newell v. The Queen
+
+- Citation: 2010 TCC 196
+- Decision date: 2010-04-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6550, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Newell v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-12
+Neutral citation
+2010 TCC 196
+File numbers
+2006-2137(GST)I
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-2137(GST)I
+BETWEEN:
+GARY NEWELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 21 and October 19, 2009,
+at Prince George, British Columbia
+Before: The Honourable Justice T.E. Margeson
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Laura Zumpano
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments made under the Excise Tax Act as follows:
+(a) Notice of Assessment dated August 12, 2004, bearing number 11DU8000272 for the period from January 1, 2001 to December 31, 2003;
+(b) Notice of Assessment dated December 22, 2004 for the period from April 1, 2004 to June 30, 2004; and
+(c) Notice of Assessment dated December 22, 2004 for the period from July 1, 2004 to September 30, 2004
+are dismissed and the Minister’s assessments are confirmed.
+There shall be no order as to costs.
+Signed at New Glasgow, Nova Scotia, this 12th day of April 2010.
+“T.E. Margeson”
+Margeson J.
+Docket: 2006-2140(IT)I
+BETWEEN:
+GARY NEWELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 21 and October 19, 2009,
+at Prince George, British Columbia
+Before: The Honourable Justice T.E. Margeson
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Laura Zumpano
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessment made under the Income Tax Act for the Appellant’s 2001 and 2002 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to claim business expenses of $10,279.23 in 2001 and business expenses of $10,979.54 in 2002.
+There shall be no order as to costs.
+Signed at New Glasgow, Nova Scotia, this 12th day of April 2010.
+“T.E. Margeson”
+Margeson J.
+2010 TCC 196
+Date: 20100412
+Dockets: 2006-2137(GST)I
+2006-2140(IT)I
+BETWEEN:
+GARY NEWELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Margeson, J.
+[1] The Appellant filed a Notice of Appeal from a reassessment of the Minister of National Revenue (the “Minister”) for the 2001 and 2002 taxation years. By that assessment, the Minister disallowed the total expenses claimed of $39,997 in 2001 and $42,715 in 2002.
+[2] The Minister further reassessed the Appellant to remove the gross business income in the amounts of $2,363 in 2001 and $3,696 in 2002.
+[3] These reassessments were confirmed by notice dated April 12, 2006.
+[4] The Appellant also filed a Notice of Appeal with respect to the Minister’s notices of assessment regarding claimed input tax credits under the Excise Tax Act, R.S.C. 985, C.E.-15, as amended (the “ETA”) for the period from January 1, 2001 to December 31, 2003 (the “First Period”); for the periods from April 1, 2004 to June 30, 2004 (the “Second Period”), and from July 1, 2004 to September 30, 2004 (the “Third Period”).
+Issues
+[5] As set out by counsel for the Respondent during argument, not disputed by the Appellant and confirmed by the evidence, the issues are as follows: With respect to the appeals under the Income Tax Act (the “Act”),
+(1) Was the Appellant engaged in a business during the taxation years, 2001 and 2002?
+(2) If the answer to that question is yes, can he claim the expenses as sought, during those periods?
+With respect to the appeals under the Excise Tax Act,
+(1) Were the amounts expended in the course of the Appellant’s commercial activity, or were they personal in nature? If the Appellant was involved in commercial activity, can he claim the input tax credits that are in issue?
+Evidence
+[6] It was agreed that evidence given in one cause would be considered to apply to the other, where applicable.
+[7] Gary Newell testified that he was a miner-prospector. He used to receive his mail at a Post Office Box in Prince George but changed his mailing address with the Canada Pension Administration from Post Office Box 2107 in Prince George to 28310 Telachick Road in Prince George. Canada Pension had agreed to forward all mail up to August 25, 2004 to his new address.
+[8] During that period, everyone that he dealt with was notified as to the change of address except one, Praxair.
+[9] When he received information from Revenue Canada, he gave a notice of change of address to them on March 10, 2004. He did not remember how he did it, but he presumed that he did it by telephone. All correspondence with Revenue Canada starting in January of 2004 showed the new address.
+[10] In August of 2004, he received a notice of assessment for his G.S.T. at his new address.
+[11] In April of 2005, he received a telephone call from the collections office regarding his G.S.T. requirements. He told them that it was under appeal and she said that no notice of objection was filed. He told her that it was filed by his accountant on October 15, 2004 but they said that they had not received it. He faxed copies of them but they phoned again on April 5, 2005, looking for money as they had not received any notice of appeal. He faxed the collections office copies of the G.S.T. appeal. She told him that he needed new notices of objection and a request for an extension of time, which was granted.
+[12] He received correspondence from both addresses on January 28, 2004, but he used the same address on all correspondence with Revenue Canada. On April 5, 2005, when he called Mrs. Taylor, he was told that he owed $20,000 for income tax and he said, “in no way”. He asked how the 90-day period could have passed when he had not received the notice of reassessment. She said that she would try and get a copy of the notice of reassessment, but he did not receive it.
+[13] When the issue of the G.S.T. came up, so did the income tax issue. He opted to resolve it. On April 5, 2005, she was aware that the 2001 and 2002 notices of assessment were “alive”.
+[14] In April of 2006, he received notices of confirmation of the G.S.T. audit. He believed that he had also received a letter that they were confirming his 2001 and 2002 income tax assessments.
+[15] In July of 2006, he sent a letter to the Tax Court of Canada saying that he wanted to appeal his G.S.T. assessments for the 2001 to 2003 taxation years, for the second quarter of 2004, and the third quarter of 2004. He further said that he wanted to appeal his income tax assessments as referred to in the letter of August 12, 2004 from Revenue Canada in Prince George. This was in reference to the 2001 and 2002 taxation years. He told them that he did not have the assessment numbers because he had not received the notices of assessment.
+[16] From January of 2004 any correspondence from Revenue Canada had the correct address and all mail received from Revenue Canada regarding G.S.T. had the proper address after June of 2004.
+[17] The first indication of a notice of assessment for income tax was April 5, 2005. He believed that his assessments for income tax for 2001 and 2002 should be vacated because he did not receive a notice of assessment.
+Cross-Examination on the Motion to Allow the Appeals
+[18] The accountant had prepared his returns since the early 1990s. His proper postal code was V2N 2J8 although he had not been sure earlier.
+[19] He changed his mailing address on February 25, 2004. He notified Canada Post. They advised everyone of the change but forgot some. He did not forget to notify Canada Revenue Agency (“CRA”). Then he said that he believed that he gave CRA the notice of change of address on March 10, 2004.
+[20] The audit began in January of 2004. It was suggested to him that the auditor, Barbara Tompkins, sent mail to him or his Post Office Box address regarding a settlement offer and had spoken on the phone to him. He did not remember speaking to her on March 10, 2004.
+[21] Then he said that he may have spoken to the receptionist when he called CRA even though he had the telephone number of Barbara Tompkins. He received his information about the assessments as a result of an access to information request. He relied on the G.S.T. record.
+[22] By August of 2004, he was still receiving mail at his Post Office Box address.
+[23] It was suggested to him that when he spoke to the agent in April of 2005, that is when he advised her about this new address. He said that he was told that the notices of assessment were sent to the Post Office Box address and that she would send him a new copy of the notice of assessment.
+[24] Exhibit R-1 was admitted by consent. It was a statement of business activities. Exhibit R-2 was the objection to the income tax and G.S.T. assessments.
+[25] Up to May 19, 2005, he had not informed the Department of Forests of his new address. He was not sure when he informed them or whether it was by fax or telephone.
+[26] Exhibit R-3 was admitted by consent. It was suggested to him that he received his notices of assessment in December of 2004 that had been regularly sent out in October. He denied that.
+[27] It was suggested to him that he had failed to advise of his change of address with CRA in December of 2004. He denied that.
+[28] It was further suggested to him that he failed to advise CRA about his change of address until April 2005. He denied that. He said that this was a re-confirmation.
+Evidence on the Motion on behalf of the Respondent
+[29] Barbara Jean Tompkins was an auditor for CRA. She was assigned to the Appellant’s file in December of 2003 and worked on it up to June of 2004. There were letters, telephone calls and meetings. He did not inform her about his change of address on March 10, 2004. She had reviewed her notes before coming to Court. Exhibit R-4 was admitted by consent. She conferred with the Appellant throughout March about his audit and his income.
+[30] Exhibit R-5 was admitted by consent. It showed that his address on March 1, 2004 was his Post Office Box address.
+[31] She said that the Surrey office generated the assessments. On August 10 or 11, the matter was completed. The final letter was issued saying that the assessments would be issued in due course.
+[32] Exhibit R-6 showed the notice of assessments dated October 7, 2004.
+[33] The Appellant’s T-1’s were filed until 2005 with the Post Office Box address. His postal code was incorrect and the system picked it up. It showed V2N 2J8 and it was corrected to V2M 2J6.
+[34] On April 4, 2005, the system changed the address. It was done by Glenda Conners. Debbie Taylor had asked Glenda to change the address as she had spoken to the taxpayer.
+[35] On December 6, 2004, the assessments were re-issued and sent out with a note that they had tried other addresses but they were sent back by Canada Post.
+[36] Exhibit R-8 was entered by consent.
+[37] In cross-examination, she said that it would take less than one week to make the change of address if it were given to a receptionist. The system will not accept a change of address by telephone. There was a form available for a change of address and the one printed was not that form. That one was for a G.S.T. return.
+[38] In re-direct, she said that there was no returned mail after December 6, 2004. The G.S.T. system and the income tax system do not talk to each other. It would be necessary to change the address on both systems.
+Argument of Respondent on the Motion
+[39] In argument, counsel for the Respondent said that the Minister did all he could do. He relied on an incorrect address given by the Appellant.
+[40] The Appellant himself said that he did not inform everyone about the change of address. He claims to have called CRA about the change but did not know who he called. He did not advise them until April of 2005. That is when he updated his address. It is no good for income tax purposes to advise the G.S.T. department. They are separate.
+[41] He did not contact the auditor until March of 2005 and changed the address in April of 2005 after collection action had started. The Minister relied on the last known information for the taxpayer in the return filed for 2003, which was filed on June 15, 2004. The accountant for the taxpayer was still providing the wrong postal code.
+[42] The Minister has complied with subsection 165(3) of the Act.
+[43] He received the letter in August and was aware of the assessments. The notices followed.
+[44] The notices were sent out as required and then were re-sent.
+Decision on the Motion to Quash the Assessments
+[45] The Court is satisfied that this motion cannot succeed. The Court is satisfied that the Minister has complied with subsection 165(3) of the Act.
+[46] The Court accepts the evidence of the witness called on behalf of the Respondent and where there is any contradiction between that evidence and the evidence of the Appellant, the evidence of that witness is preferred and is more reliable.
+[47] The Appellant himself could not remember who he called. He did not talk to the auditor. He talked to someone with respect to the G.S.T. audit but not about the income tax matter. These were two separate matters and a proper change of address notification would have to be given to both. The Court is satisfied that if he gave notice to anyone, it was with respect to the G.S.T. audit.
+[48] The Minister sent the notice of reassessment to the last known address as provided by the Appellant in his tax return filed for 2003, filed on June 15, 2004. The accountant for the Appellant still had the wrong postal code for the Appellant and this indicates some lack of communication between him and the Appellant.
+Evidence on the Main Issues
+[49] Arthur James Burrows was referred to as an accountant who prepared and filed the returns for the Appellant. He said that the Appellant “staked claims”. He believed that the Appellant put about $200,000 into this enterprise over fifteen years. Most mining operations go to where mining had been done successfully. He found it difficult to accept the Minister’s position that the Appellant had no “business”.
+[50] In cross-examination, he agreed that he had no accounting designation. The Appellant had considerable mining machinery. The Appellant sold gold prior to 2001, in the sixties, but he did not know how much.
+[51] He was not a miner but he said that no miner that he knows does anything formal about projections and has no plans for the operations.
+[52] He does not do a review of the Appellant’s claims. He agreed that the Appellant included personal expenses in his returns for the years in question.
+[53] Gary Newell said that CRA told him that he had not commenced a business but he had mining activities in search for minerals in the Cariboo Mountains, 100 kilometres east of Quesnel, British Columbia in the gold belt. He had claims there. He was involved in both kinds of mining, i.e. hard rock mining and placer mining which involved working with gravels. In 2001 and 2002, his activity was centred around placer mining. He sold gold on three occasions in the nineties. He had in his possession $11,000 of recovered and unsold gold.
+[54] Exhibit A-3 was entered into evidence and listed the claims he held in 2001 and 2002. Exhibit A-4 was a list of his Free Miner’s Certificates (FMCs) for 2002 to 2005.
+[55] He was required to give notice of the work he was doing on the claims to maintain them or pay money to the Province of British Columbia.
+[56] Exhibits A-5 to A-16 were copies of such notices together with his free use permits for 2001 and 2002 and his water license for 1994, 2001 and 2002.
+[57] He worked above 4,000 feet and only in the summer months, starting in May and going until the long weekend in October. He was normally in camp 100 days per year and he worked about 2,000 hours per year.
+[58] He had the first rights to enter and also did some logging for 2002 and the pine beetle infestation prevented him from doing more in 2003.
+[59] In the winter, he does the paperwork; reviews the maps and completes reports to the Minister. Everything is hauled home from the camp for the winter, when he also completed repairs to his machinery.
+[60] Exhibit A-20 was the completed questionnaire that he completed for CRA.
+[61] The logging was done by another company to clear his land so that it could be worked.
+[62] Exhibit A-21 was pictures of his mining camp. Exhibit A-22 was a list of his mining equipment. Exhibit A-23 was his library list pertaining to 2000, 2001 and 2002.
+[63] He also had other small equipment that was not listed. He did not consider this venture to be a hobby.
+[64] Exhibit A-25 was a map of “Antler Creek”. He works this site. He has a camp there at the 4,500 foot level. It is a “neat” area for mining purposes. There are different locations of “placer mining” there.
+[65] At “California Creek” next to him there was a discovery made, referred to as a “break out”. There were other good developments made there. This goes right through his property.
+[66] Exhibit A-25 was a map of “Grouse Creek”. It contained one of the richest finds in the world.
+[67] Exhibit A-26 was a Cariboo mining district map. This shows that he is in the middle of the rich placers. His operations were not speculative, as the Minister argues. His operations are aimed at seeking out gold and opening up a successful operation. Market research is not necessary as you can sell gold anywhere.
+[68] His business plan was his knowledge, his maps and his information. He was going to put into it what he could afford.
+[69] In cross-examination, he said that he staked his first claim in 1988 when he was still working at a plant. At that time he worked at mining during vacations and on weekends. He took a prospecting course in 1973 because he had a personal preference for mining. He left full-time employment because of a disability and took up mining full-time. If he was not working at mining for himself, he would be working at mining for someone else. He was the holder of licenses for mining before he started mining full-time.
+[70] He had a plan. He spent hours researching sales and other aspects of mining.
+[71] D&G Placer Mining is owned 50% by his wife. All “placer claims” are owned by he and his wife. The expenses in issue all relate to the “placer claims”. Exhibits R-2 and R-3 were entered by consent. They were “notices of completion of work”.
+[72] His gold inventory was $11,000. He sold some gold in the nineties. He can sell gold to the smelters, on the market, or to individuals. There are no competitors because he has a market for any amount of gold.
+[73] He has claimed losses in every year since he has been mining. At this point in time he is not spending any money on equipment. He purchased no major equipment in 2001 or 2002.
+[74] Exhibits R-4 and R-5 show the losses in 2001 and 2002, and Exhibits R-6 and R-7 are the revised statements of losses for those years.
+[75] He was referred to a number of expenses which he claimed but were obviously personal in nature by his own admission, or which he could not justify as being for business purposes. These included gifts of liquor, bakery items, repairs, Costco, Wal-Mart, Zellers, hotels, cigarettes, a trip to Vancouver (which was clearly personal in nature), Superstore, and other purchases which he could not relate to business.
+[76] In re-direct, he admitted that any small amounts for gasoline would be personal expenses as well as some charges for propane.
+[77] The Respondent called Barbara Tompkins, who was an auditor for CRA and had these files. She asked the Appellant for his records and had personal dealings with him. She determined that there was no income. She concluded that there was mining activity but no business. He used input tax credits as revenue. He has been claiming losses since 1988.
+[78] Exhibit R-9 was his T-4 earnings and losses history. She reviewed his G.S.T. file and found that no income was reported but he paid expenses on the input tax credits claimed. She disallowed all of the expenses because there was no business.
+[79] No gross negligence penalties were charged and she waived some interest. She allowed a credit for Canadian Exploration expenses but she could not tell which expenses related to mining.
+[80] At the appeals level, they allowed a Canadian Exploration expenses credit, the costs of water licenses and “cross-over fees”. The B.C. Exploration tax credit was also allowed. He is only entitled to claim the Canadian Exploration expenses credit or the B.C. Exploration tax credit. She took this into account.
+[81] She went over each receipt and itemized them. He was expensing personal items under the guise of business. She compared the revised list of expenses submitted by the Appellant with her list and some items were removed or reduced.
+[82] At Tab 7 of the Book of Documents were the totals that she could have allowed if there were a business. The document at Tab 6 was taken into account. The Book of Documents was entered as Exhibit R-11. The Appellant had no bank accounts.
+[83] They did not look at 2001 but if there was a business they would have allowed a similar amount.
+[84] In cross-examination, she said that she concluded that there was no business because there was no revenue.
+[85] There was no get together to review the alleged personal items in her revised expense account. The total fuel claims did not include all gas, oil, fuel and propane.
+Argument on Behalf of the Respondent
+[86] In argument, counsel for the Respondent said that there were two appeals – an income tax appeal and a G.S.T. appeal, and the evidence given applied to both.
+[87] In the income tax appeal there are two questions: 1) Was there a business in 2001 and 2002; and 2) Can the Appellant claim these expenses that he proposed in 2001 and 2002?
+[88] In the ETA matter, was there commercial activity for the three periods in issue: January 1, 2001 to December 31, 2003; April 1, 2004 to June 30, 2004 and July 1, 2004 to September 30, 2004? If so, is he entitled to claim the input tax credits that he has proposed?
+[89] In answer, she opined that there was no source of income and no business or commercial activity under the ETA.
+[90] He is entitled to claim only Canadian Exploration expenses.
+[91] Under the ETA, there is a higher degree of proof required of “commercial activity”.
+[92] Section 66 of the Act entitles him to claim expenses incurred, including prospecting expenses. These credits can be accumulated under section 66.13, referable to individuals.
+[93] Section 66.1(6) of the Act contains the definition.
+[94] Further, the Act provides that once the production starts then the Appellant can claim ordinary business expenses. These amounts can be carried forward indefinitely and can offset future expenses. The Act does not require a reasonable expectation of profit. But the B.C. Exploration tax credit reduces the amount he can claim as expenses. He received a credit of $4,563.83 in 2001, one of $4,506.99 in 2002, and $4,586.94 in 2003.
+[95] This resulted in a negative amount when the amount received in one year is reduced by the amount received in the other year.
+[96] He still received the full B.C. Exploration tax credit but no additional credits because the amount was negative.
+[97] The Respondent argues that 25% of the expenses claimed should be claimed as Canadian Exploration expenses.
+[98] The activities of the Appellant were in the nature of a hobby and it had not reached the business stage.
+[99] She referred to Stewart v. Canada, [2002] 2 S.C.R. 645, and argued that if a personal element exists the Court must consider the indicia of trade. This is not purely subjective but objective factors must be considered. Was it conducted in a commercial or businesslike manner?
+[100] Here there was a personal element to his operation. He had a passion for mining. He passed his free time at it. There are no indicia of commercial activity present. He did not carry on in a commercial manner.
+[101] Since 1992 he has claimed $25,000 and up in expenses. These are substantial. He estimated that the only revenue that he received was the input tax credits that he received under the G.S.T. provisions of the ETA. He never sold any gold or there is no proof that he did. The losses indicate that he did not carry on for profit. He had no clear business plan and did not attempt to bring his product to market. He did not approach it with a business strategy. The personal element overshadows the commercial element.
+[102] She referred to the case of Spasic v. Canada, 2009 TCC 193, [2009] 6 C.T.C. 2299, and asked the question – had a business begun? There were continuous losses (see paragraphs 10 and 13 of above case).
+[103] The Appellant acted in good faith but he had not started a business. Any steps he took, such as filing claims, would have to be taken if he were in business or not. His only business plan was that he was expecting to discover a high concentration of gold but he had not developed an organized plan as to how to get there. He has not met the standards of businesslike behaviour.
+[104] It is true that he incurred substantial expenses, but this has already been considered by Parliament in allowing those expenses before it became a business (even though reasonable expectation of profit was not necessary).
+[105] For purposes of the G.S.T. requirements, he has not met the indicia of commercial activity test. More weight is given to the “REOP” test in G.S.T. matters.
+[106] In the post-Stewart era, REOP has not been abolished and there is a legislated REOP test in G.S.T. matters.
+[107] There were consistent losses and the only income claimed was from G.S.T. credits. This is not income from his activity. He is not entitled to any input tax credits.
+[108] A further area of consideration is the question of the losses. If he is entitled to Canadian Exploration credits or business expenses he cannot claim all of those he has submitted. He revised the amounts that he was claiming in Exhibits R-6 and R-7. He conceded that the rent column, $4,187.00 in 2001 and $2,865.83 in 2002 could not be claimed. He also agreed that the amounts claimed for liquor should be disallowed, $1,447.20 in 2001 and $1,081.56 in 2002.
+[109] His revised totals were $31,271.56 in 2001 and $23,306.82 in 2002.
+[110] Counsel said that there is reasonable doubt that these were related to his gold activity.
+[111] On multiple occasions he could not link these expenses to income. He claimed 100% of amounts that were unrelated to a business.
+[112] The auditor did an extensive review of 2002 and found that only about 20% would be claimable if there was a business (See Tab 7 of Exhibit R-11).
+[113] Extra fuel should be allowed in 2002 if there was a business.
+[114] There was a pattern of improper expenses claimed here.
+[115] If the expenses are allowed as a business expense, they should amount to $10,979.54 in 2002 and $10,279.23 in 2001, as per the auditor’s report.
+[116] However, there was no business and therefore only the Canadian Exploration tax credits should be allowed of $5,742.40 in 2001 and $6,472.55 in 2002.
+[117] With respect to the G.S.T., there was no commercial activity and so no amount should be allowed for that year.
+Argument of the Appellant
+[118] The Appellant did not agree that his enterprise was only a hobby. He said that it consumed more of his time and much of the money of himself and his spouse than he would expend on a holiday. He had about $250,000 in equipment and he spends about 2,000 hours per year on his mining initiative.
+[119] He starts out as early in the spring as the weather permits, normally around the Victoria Day weekend at the 4,500 foot level and moves down to the 4,000 foot level by the Thanksgiving weekend. Aided by his research, he endeavours to develop a workable mine. It is a business.
+[120] On the issue of the B.C. Exploration tax credit, it is only applicable to taxes paid and not to expenses. The amount that is calculated is applied to his taxes paid or it is given back to him.
+[121] He did not claim a Canadian Exploration tax credit and will not do so. He claims only the B.C. Exploration tax credit.
+[122] He chose mining as his personal preference but that does not make it a hobby. It is a full-time job to him.
+[123] He withdrew any issue regarding the question of the proper time periods for the assessments. On the G.S.T. issue, he said that he had a business and was entitled to claim the input tax credits.
+[124] The appeal should be allowed.
+Analysis and Decision
+[125] Most of the difficulty in this file has been created because the Appellant did not keep proper records and receipts. Further, he did not separate satisfactorily those expenses which might even be considered as deductible, if there were a business, from those expenditures which were clearly personal in nature and clearly not deductible as a business expense.
+[126] If the Appellant were to suffer from this failure, then he would have no one else to blame but himself.
+[127] The Court is satisfied that the Appellant was treated with respect by the officials at the Canada Revenue Agency and in fact they bent over backwards to help him.
+[128] The first issue to be decided is whether or not there was a business during the relevant years, in the case of the income tax appeal and whether there was any commercial activity in the case of the Goods and Services Tax appeal. The Court is satisfied that the burden on the Appellant is not the same in both cases. The Court will deal firstly with the question of whether or not the Appellant was operating a “business” under the Income Tax Act so as to be entitled to deduct any expenses and, if so, what expenses he was entitled to deduct during the periods under appeal.
+[129] Counsel for the Respondent argued that the activities of the Appellant during the years in question were in the nature of a hobby and that they had not reached the business stage.
+[130] Certainly there was no income earned during the years in question and there was some personal element included because the Appellant had a long-standing interest in gold mining and the areas where gold had been found in the past. But this does not mean that what he did was in the nature of a “hobby” only.
+[131] The Appellant impressed the Court with his knowledge of this type of mining and his extensive knowledge of the terrain. He obviously spent a great deal of time studying maps of the areas where he was working and had staked out considerable claims in areas where he concluded, not without some justification, that gold had been found already and where he believed he would make a substantial find.
+[132] He had expended substantial resources on equipment and plant in these claim areas and had done considerable work in attempting to find gold there. It is true that he had only mined about $11,000 worth of gold over the years, but he obviously expected to find much more gold in the future.
+[133] He was involved in hard rock mining and placer mining and had a clear knowledge of both types of mining. He was familiar with provincial requirements of giving notice about what work he was doing on the claims and paid fees for water licenses to carry on his exploration.
+[134] He spent about 2,000 hours per year on his enterprise and worked about one hundred days at it, which was all of the time available to him in a year due to the limitations of the weather in those areas.
+[135] In the winter months he did the paper work, reviewed maps and completed reports that had to be filed with the Province of British Columbia. He also completed repairs on his machinery. He had to hire another company to log his claims so that he could do mining there. He produced a library list that he uses for his exploration and had a grasp of the history of the areas where he was working and knew where good developments had been made. The Court considers that his operations were not merely “speculative” and he testified that his operations were in the middle of the rich placer mining areas. His plan was to seek out gold and open up a successful operation.
+[136] His position was that market research is not necessary because you can sell gold anywhere. He had a plan which consisted of his knowledge, his maps, his information, and he was willing to put into the operation whatever he could afford.
+[137] The Court is satisfied that when Mr. Newell was employed, he worked at mining during vacations and on weekends, but during the periods in question he had gone well beyond that stage.
+[138] He took a prospecting course in 1973 because he had a preference for it but after he left his employment he took up mining full-time.
+[139] He spent hours researching sales and other aspects of mining. He is not spending money on major equipment now nor since 2001 and 2002.
+[140] In applying the test as referred to by Bowman C.J. in Kaye v. The Queen, 98 DTC 1659, one asks simply, is there or is there not truly a business?
+[141] In that test, Bowman C.J. would consider such things as capitalization, knowledge of the participant and time spent. Further, whether the person claiming to be in business has gone about it in an orderly, business-like manner like a business person would.
+[142] The Court is satisfied that when applying these factors to the Appellant here, it must conclude that he was conducting a business and unlike the taxpayer considered by Boyle J. in the Spasic case, the Appellant here, on the totality of evidence, had started to carry on a business in the years in question.
+[143] The Minister determined that there was no business because there was no income but that is not conclusive of the issue.
+[144] Even though the Court has found that there was a business in the years in question and that there were expenses incurred that would be properly deducted, it is clear that not all of the expenses claimed were deductible as business expenses.
+[145] Many of them were poorly documented, not documented at all and many of them had nothing to do with the business. Many of them were clearly personal in nature.
+[146] There was a pattern established that the Appellant claimed many improper expenses. If it were not for the strength of the Appellant’s evidence on the issue of whether or not there was a business, these improper claims might very well have tainted the Appellant’s evidence in toto.
+[147] Fortunately for the Appellant, the Respondent produced calculations that indicated what amounts the auditor could relate to the activities of the Appellant during the years in question.
+[148] The Court is satisfied that this is the best evidence available and so the Appellant will be entitled to claim expenses of $10,279.23 in 2001 and expenses of $10,979.54 in 2002.
+[149] In regard to the G.S.T. case, the Court is satisfied that there is a legislated “reasonable expectation of profit” test.
+[150] The Court is satisfied that the Appellant has not met that test on the basis of the evidence. It is in agreement with the argument of counsel for the Respondent that there was no indicia of commercial activity which enabled him to meet the test of showing that there was a reasonable expectation of profit from the business in the years in question.
+[151] The Court is not satisfied that the Appellant has established, for the purposes of the Excise Tax Act, that he was involved in a commercial activity within the meaning of subsection 123(1) of the ETA and that the disallowed expenses were made for consumption, use or supply in the course of commercial activities, as required by subsection 169(1) of the ETA.
+[152] The Court is further satisfied that the Appellant’s claim for input tax credits was not supported by supporting documentation as required by subsection 169(4) of the ETA and the Input Tax Credit Information Regulations.
+[153] The appeal is dismissed and the Minister’s assessment is confirmed.
+[154] With respect to costs, the Appellant has only been partially successful under the income tax matter and much of the difficulties were created by his failure to keep complete and accurate records and by failing to separate his personal expenses from his business expenses. Much of the Court’s time and that of the Minister was wasted because of this shortcoming. The Appellant is not entitled to any costs.
+[155] With respect to the G.S.T. matter, the Appellant is not entitled to any costs.
+[156] Both parties submitted post-trial submissions on the issue of the Canadian Exploration expense (“CEE”). However, the Court is satisfied that it need not address this issue, as the result of adhering to the Appellant’s submissions would be tantamount to increasing the amount of tax owing by the Appellant from the amount calculated in the assessment.
+Signed at New Glasgow, Nova Scotia, this 12th day of April 2010.
+“T.E. Margeson”
+Margeson J.
+CITATION: 2010 TCC 196
+COURT FILE NO.: 2006-2137(GST)I and 2006-2140(IT)I
+STYLE OF CAUSE: GARY NEWELL and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Prince George, British Columbia
+DATE OF HEARING: April 21 and October 19, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice T.E. Margeson
+DATE OF JUDGMENT: April 12, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Laura Zumpano
+COUNSEL OF RECORD:
+For the Appellant: N/A
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

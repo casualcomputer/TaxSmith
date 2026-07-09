@@ -1,0 +1,151 @@
+Title: Sarrazin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71968/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-127-71968-sarrazin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-04-30
+
+# Sarrazin c. La Reine
+
+- Citation: 2014 CCI 127
+- Decision date: 2014-04-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5367, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sarrazin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-04-30
+Référence neutre
+2014 CCI 127
+Numéro de dossier
+2012-2330(GST)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-2330(GST)I
+ENTRE :
+ROLLAND SARRAZIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 13 décembre 2013, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelant :
+Me Armand Elbaz
+Avocate de l'intimée :
+Me Julie Dillie
+JUGEMENT MODIFIÉ
+L'appel à l’encontre de la cotisation établie à l'égard de l'appelant en vertu de la Loi sur la taxe d’accise, dont l'avis est daté du 31 janvier 2011 et porte le numéro F-030486, est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 17e jour de juin 2014.
+« Réal Favreau »
+Juge Favreau
+Référence : 2014 CCI 127
+Date : 20140617
+Dossier : 2012-2330(GST)I
+ENTRE :
+ROLLAND SARRAZIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Favreau
+[1] L'appelant appelle d'une cotisation établie contre lui par le ministre du Revenu du Québec, en tant que mandataire du ministre du Revenu national, en vertu du paragraphe 325(2) de la Loi sur la taxe d'accise, L.R.C. (1985), c. E‑15, telle que modifiée (la « LTA »), dont l'avis est daté du 31 janvier 2011 et porte le numéro F-030486.
+[2] Le montant de la cotisation s'élève à 21 160,83 $ en droits et résulte d'un transfert de terrain effectué le 16 avril 2010 entre l'appelant et son fils, Roch Sarrazin.
+[3] En établissant la cotisation à l'égard de l'appelant, le ministre du Revenu du Québec s'est fondé, entre autres, sur les conclusions et les hypothèses de fait suivantes :
+a) Les faits admis ci-dessus;
+b) En 2010, Roch Sarrazin, fils de l'appelant, était redevable d'une somme de plus de 100 000 $ en vertu de la L.T.A.;
+c) Le 25 novembre 2009, Roch Sarrazin a acquis, par donation, de l'appelant un immeuble situé à Rivière-Rouge identifié comme étant le lot 36 Rang A dans le canton de Marchand dans la circonscription de Labelle (ci-après « l'immeuble »);
+d) Le 16 avril 2010, Roch Sarrazin a revendu ledit immeuble à l'appelant;
+e) Le prix de vente de l'immeuble était de 2 000 $;
+f) En date du 16 avril 2010, la juste valeur marchande de l'immeuble était de 60 144 $;
+g) Roch Sarrazin a vendu à l'appelant, son père, l'immeuble pour une considération inférieure à la juste valeur marchande du bien en question;
+h) L'appelant est donc solidairement tenue (sic) au paiement de la dette fiscale dont Roch Sarrazin est redevable en vertu de la L.T.A. jusqu'à concurrence de l'excédent de la juste valeur marchande du bien sur la contrepartie payée.
+[4] À l'ouverture de l'audience, l'avocat de l'appelant qui remplaçait Me Michel Gauthier pour cause de maladie, a déposé un rapport d'évaluation transmis à l'intimée le 9 décembre 2013, soit 3 jours avant la date d'audience de l'appel de l'appelant. L'avocate de l'intimée s'est objectée au dépôt du rapport d'évaluation en invoquant le non-respect des exigences de l'article 7 des Règles de la Cour canadienne de l'impôt (procédure informelle) (les « Règles »). Comme l'appelant et l'évaluateur n'étaient pas présents, l'avocat de l'appelant a présenté une demande d'ajournement. L'avocate de l'intimée s'est objectée à cette demande d'ajournement parce que l'intimée était prête à procéder et que son témoin était présent à l'audience.
+[5] Après avoir entendu les parties, la Cour a refusé le dépôt du rapport d'évaluation parce que les exigences de l'article 7 des Règles n'ont pas été respectées alors que l'appelant a bénéficié d'un délai de plus de 13 mois pour produire son rapport d'évaluation, soit depuis le 7 novembre 2012, date à laquelle un premier ajournement a été accordé par la Cour pour permettre à l'appelant de bien préparer son appel. La demande d'ajournement a également été rejetée parce qu'il s'agissait d'une deuxième demande d'ajournement et que l'appelant n'a même pas daigné se présenter à l'audience pour expliquer les raisons du retard à produire le rapport d'évaluation.
+[6] En vertu d'un acte de donation notarié daté du 25 novembre 2009, l'appelant a cédé à son fils à titre gratuit un terrain sans bâtiment situé dans la ville de Rivière-Rouge, connu et désigné comme faisant partie des lots numéros TRENTE-SIX et TRENTE-SEPT, Rang « A » au cadastre officiel du Canton MARCHAND, dans la circonscription foncière de Labelle (« l'immeuble »). Le montant constituant la base d'imposition du droit de mutation a été établi à la somme de 57 996 $ mais la transaction n'était pas assujettie au paiement du droit de mutation parce que conclue entre personnes unies par les liens du sang.
+[7] Par une convention de vente sous seing privé datée du 2 décembre 2009, Roch Sarrazin a rétrocédé à l'appelant la propriété de l'immeuble pour un prix de vente de 2 000 $ qui, selon les termes de l'acte, a été acquitté par l'appelant le jour même du transfert et à l'égard duquel une quittance a été fournie. Le montant constituant la base d'imposition du droit de mutation a été établi à la somme de 60 144 $ mais la transaction n'était pas assujettie au paiement du droit de mutation parce que conclue entre personnes unies par les liens du sang.
+[8] Selon le rôle d'évaluation foncière de la municipalité de Rivière-Rouge en vigueur pour les exercices financiers 2011, 2012 et 2013, la valeur de l'immeuble à la date de référence au marché, soit le 1er juillet 2009, était de 51 000 $, alors que cette valeur était de 53 700 $ selon le rôle antérieur, soit celui applicable aux années 2008 à 2010. La valeur uniformisée pour mutation au 16 avril 2010, était de 60 144 $.
+[9] Michel Ethier a témoigné pour l'intimée à l'audience et il a expliqué que Roch Sarrazin avait, au 25 novembre 2009, les dettes fiscales suivantes:
+- taxe sur les produits et services
+(pour les périodes de déclaration de 2002 à 2009)
+= 21 160,83 $
+- taxe de vente du Québec
+= 26 072,86 $
+- impôts du Québec
+= 13 133,79 $
+Total
+= 60,167 48 $
+[10] Un certificat à l'égard du montant de taxe sur les produits et services dû par Roch Sarrazin a été enregistré auprès de la Cour fédérale le 8 septembre 2010. Roch Sarrazin a fait cession de ses biens le 22 février 2012 et il a été libéré de sa faillite le 20 juillet 2013.
+Analyse [11] Pour que le paragraphe 325(1) de la LTA s'applique, les quatre conditions suivantes doivent être réunies:
+(i) un transfert de bien a eu lieu;
+(ii) l'auteur et le bénéficiaire du transfert ont un lien de dépendance;
+(iii) le cessionnaire n'a pas donné une contrepartie suffisante à l'auteur du transfert; et
+(iv) l'auteur du transfert a une obligation fiscale impayée au moment du transfert.
+[12] Seule la troisième condition a été soulevée par l'appelant dans son avis d'appel. Selon lui, le terrain n'a aucune valeur marchande parce qu'il est en grande partie marécageux et qu'il ne peut être construit, ni cultivé. La famille de l'appelant s'en sert pour la chasse.
+[13] Dans le présent appel, l'immeuble a fait l'objet de deux transferts:
+a) le 25 novembre 2009, en vertu d'un acte de donation, Roch Sarrazin a fait l'acquisition de l'immeuble sans contrepartie; b) le 2 décembre 2009, en vertu d'une convention de vente, l'appelant a fait l'acquisition de l'immeuble de Roch Sarrazin pour un prix de 2 000 $. La convention de vente était sous seing privé et les titres de propriété de l'immeuble de l'appelant ont été valablement publiés comme en fait foi la déclaration d'attestation de la notaire Louise Cyr en date du 25 mars 2010. [14] L'acte de donation est un acte notarié qui est authentique faisant preuve complète à l'égard de tous, de l'acte juridique qu'il renferme et les déclarations des parties qui s'y rapportent directement. Un acte de donation dûment enregistré constitue un transfert valide.
+[15] La convention de vente n'étant pas notarié ne peut constituer un acte authentique. Par contre, la convention de vente constitue néanmoins un transfert valide pour fins fiscales sur la base de la déclaration d'attestation suivante consignée dans les minutes du notaire du 16 avril 2010 sous la cote 17083431 :
+1. Le contenu du présent acte est exact;
+2. J'ai vérifié l'identité, la qualité et la capacité des parties au document résumé;
+3. Le document résumé traduit la volonté exprimée par les parties;
+4. L'acte est valide quant à sa forme;
+5. Le titres (sic) du titulaire du droit visé est déjà valablement publié.
+[16] Il ne fait aucun doute que Roch Sarrazin et l'appelant avaient un lien de dépendance lors du transfert de l'immeuble effectué par la convention de vente vu qu'ils étaient des personnes liées par les liens du sang.
+[17] Le témoin de l'intimée a démontré que Roch Sarrazin avait une obligation fiscale impayée au moment du transfert de l'immeuble effectué par la convention de vente.
+[18] Afin d'établir la juste valeur marchande de l'immeuble au moment du transfert, le ministre du Revenu du Québec s'est basé sur l'évaluation municipale en date du 16 avril 2010, soit la date d'inscription au rôle d'évaluation foncière du transfert du droit de propriété de l'immeuble. Selon ce document, la valeur uniformisée de l'immeuble pour le rôle triennal 2008-2010 était de 53 700 $ alors que la valeur uniformisée pour fins de mutation était de 60 144 $. Ces valeurs ont été établies sur la base de la date du marché au 1er juillet 2006.
+[19] Dans l'affaire Eric St-Denis c. La Reine, 2013 CCI 179, le juge en chef Rip de cette Cour a résumé en ces termes la pertinence de l'évaluation municipale afin d'établir la juste valeur marchande d'une propriété :
+[44] Il est bien établi que l'évaluation municipale, bien que pertinente dans l'évaluation de la juste valeur marchande d'une propriété, n'est pas représentative, à elle seule, de la juste valeur marchande de cette propriété. C'est en effet la conclusion à laquelle en sont venus les juges Campbell et Webb dans les affaires Truong c. Canada, 2011 D.T.C. 1275, au para. 27 et Somers c. Canada, [2008] A.C.I. no 217 (QL), au para. 38, respectivement. Cependant, l'évaluation des impôts fonciers peut être acceptée comme faisant partie d'un certain nombre d'indicateurs de la juste valeur marchande d'un bien (Truong, précitée au para. 27).
+[20] En vertu de l'article 2 de la Loi concernant les droits sur les mutations immobilières, chapitre D-15.1 des Lois du Québec, la base d'imposition du droit de mutation est la plus élevée parmi les trois montants suivants :
+1o: le montant de la contrepartie fournie pour le transfert de l'immeuble;
+2o: le montant de la contrepartie stipulée pour le transfert de l'immeuble;
+3o: le montant de la valeur marchande de l'immeuble au moment de son transfert.
+[21] Dans le cas présent, le montant constituant la base d'imposition du droit de mutation a été établi dans la convention de vente à la somme de 60 144 $, ce qui correspond à la juste valeur marchande de l'immeuble au moment du transfert.
+[22] Or, l'appelant n'a avancé aucune preuve afin de se décharger du fardeau qu'il avait de démontrer que l'évaluation de la juste valeur marchande de l'immeuble faite par l'intimée était erronée et pour repousser la présomption de la validité de la cotisation.
+[23] Le rapport d'évaluation que l'appelant voulait déposer à l'audience n'a pu être retenu parce que l'auteur du rapport n'était pas présent pour être contre-interrogé.
+[24] Dans ces circonstances, je dois accepter la détermination du ministre du Revenu du Québec à l'effet que la juste valeur marchande de l'immeuble au moment du transfert était de 60 144 $.
+[25] Pour toutes ces raisons, l'appel est rejeté et la cotisation est maintenue.
+Signé à Ottawa, Canada, ce 17e jour de juin 2014.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2014 CCI 127
+Nº DU DOSSIER DE LA COUR :
+2012-2330(GST)I
+INTITULÉ DE LA CAUSE :
+Rolland Sarazin et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 13 décembre 2013
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 30 avril 2014
+DATE DU JUGEMENT MODIFIÉ :
+le 17 juin 2014
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Armand Elbaz
+Avocate de l'intimée :
+Me Julie Dillie
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Me Michel Gauthier
+Cabinet :
+Terrebonne (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

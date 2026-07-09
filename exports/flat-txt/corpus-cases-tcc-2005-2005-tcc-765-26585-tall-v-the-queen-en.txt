@@ -1,0 +1,140 @@
+Title: Tall v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26585/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-765-26585-tall-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-11-25
+
+# Tall v. The Queen
+
+- Citation: 2005 TCC 765
+- Decision date: 2005-11-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3528, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tall v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-11-25
+Neutral citation
+2005 TCC 765
+File numbers
+2005-1354(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1354(IT)G
+BETWEEN:
+FRANKLIN D. TALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+THE CHINESE CANADIAN NATIONAL COUNCIL,
+Applicant to Intervene.
+____________________________________________________________________
+Motion to Intervene heard on October 17, 2005 at Toronto, Ontario
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+For the Appellant:
+No one appeared
+Counsel for the Respondent:
+Catherine Letellier de St-Just and Brent Cuddy
+For the Applicant to Intervene:
+Avvy Yao-Yao Go
+___________________________________________________________________
+ORDER
+The Chinese Canadian National Council's application for Intervener status is dismissed.
+There shall be no costs of this application.
+Signed at Ottawa, Canada this 25th day of November 2005.
+"Gerald J. Rip"
+Rip J.
+Citation: 2005TCC765
+Date: 20051125
+Docket: 2005-1354(IT)G
+BETWEEN:
+FRANKLIN D. TALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+THE CHINESE CANADIAN NATIONAL COUNCIL,
+Applicant to Intervene.
+REASONS FOR ORDER
+Rip, J.
+[1] The Chinese Canadian National Council ("CCNC") has made an application for an Order that the CCNC be granted leave to intervene as a friend of the Court in this appeal, and to present evidence and oral argument and such further and other relief as this Court may seem just pursuant to section 28 of the Tax Court of Canada Rules (General Procedure) ("Rules").
+[2] Franklin D. Tall has appealed from an income tax assessment in respect of his 2003 taxation year for a medical expense tax credit with respect to amounts spent on his and his wife's behalf for the following: vitamins, supplements, herbs, homeopathic remedies, organic foods, health care products and bottled water, as well as fees for physical therapies not currently regulated in Ontario.
+[3] Mr. Tall claims that if he is not entitled to claim such medical expenses under the medical expense tax credit as presently enacted, whether paragraph 118.2(2)(n) of the Income Tax Act ("Act"), in purpose or effect, violates his (and by extension, his wife's) equality rights and those similarly situated on the basis of religion and national or ethnic origin under section 15 of the Canadian Charter of Rights and Freedoms ("Charter") and whether paragraph 118.2(2)(n) of the Act violates section 27 of the Charter. If there is a violation of the Charter, is such a violation saved by section 1 as reasonably justifiable in a free and democratic society?
+[4] Mr. Tall submits that the reason the Minister did not allow the medical expenses under subsection 118.2(2) of the Act is that they were not recorded by a pharmacist as required under paragraph 118.2(2)(n). Mr. Tall argues that in fact he qualifies under paragraph 118.2(2)(n) for the medical expense tax credit. However, if this Court finds that he does not, then the appellant submits that the wording of paragraph 118.2(2)(n), by including the words "recorded by a pharmacist", violates his equality rights under subsection 15(1) of the Charter and asks that the phrase "recorded by a pharmacist" be read out of the provision.
+[5] Mr. Tall states that he purchases the vitamins, supplements, herbs, bottled water and organic foods in conformity with his religious and/or spiritual beliefs concerning the nature of illness and relationship between mankind and nature. He adds that as part of a broad group, which includes many people from the religions of Buddhism, Hinduism, Taoism Shinto, shamanism (e.g. First Nations beliefs), Wicca as well as contemporary Western esotericism and so on. The appellant uses such alternate and complementary medical treatments which, he says, prevent or alleviate disease in preference to orthodox medical treatments which emphasize pharmaceutical drugs.
+[6] In his notice of appeal, the appellant further states:
+13. The Appellant is being treated differently by virtue of the nature of his religious beliefs as he is unable, as a direct result of the requirement, "recorded by a pharmacist", to access the medical expense tax credit to defray the cost of the substances that are desirable to sustain his health, as compared to others who may access the medical expense tax credits by visiting medical doctors and buying pharmaceuticals under subsection 118.2(2)(n). Religious belief and national or ethnic origin is intertwined with the choice of medical treatments; moreover, as shown by much academic research, different medical systems have different core assumptions, often with religious origins. In particular, we shall demonstrate that the core beliefs of orthodox medicine are Biblically based, and so the present medical expense tax credit is skewed in favour of Judeo-Christian religion, so as to constitute a Charter violation. A prima facie example of such skewing is that payments to a Christian Science Healing Practitioner, i.e. Christian prayer healer, are deductible, while those to prayer or faith healers of other religions are not.
+14. The impugned provision withholds a benefit, namely the medical expense tax credit, from the Appellant, in a discriminatory way. This denial of a benefit, based upon the nature of his religious and spiritual beliefs, which lead to the use of Complementary and Alternative Medicine, implies that his beliefs are less worthy of recognition in Canadian society and that his suffering and medical needs are not respected as compared with other citizens. As such, the Appellant and those similarly affected are marginalized by exclusion from the tax relief afforded to other Canadians.
+15. Finally, the current list of medical practitioners allowed by the Canada Revenue Agency, in its interpretation bulletin, on medical expenses, voluntarily undertaken as an aid to interpret the Act, is not inclusive enough of medical practitioners who offer services and prescribe products in the Complementary and Alternative Medicine field. Since it is related to provincial licensure, it varies among the provinces, and hence is inconsistent. Among the many health practitioners it omits are homeopaths, herbalists, shamans, practitioners of Ayurvedic Medicine, Therapeutic Touch, Reiki, Qi Gong, Feldenkreis, Mitzvah Technique, Rolfing, shiatsu, Traditional Chinese Medicine, breast massage, Neurolinguistic Programming, Hypnotherapy, etc., etc. We submit that the classification of which practitioners to allow and which not to is irrational and discriminatory. As well, categories of medical practitioners that are listed in the pertinent interpretation bulletin, are not consistently regulated across the provinces. Regulation of a medical practitioner by a province is required by the Act for a claim for a fee for service by a medical practitioner. Despite this requirement, fees for Christian Science Healing Practitioners are allowed, despite their not being regulated in any province.
+...
+17. The Act allows the Appellant to claim the medical expenses of his spouse, who is of Japanese origin. In Japan, breast massage for nursing mothers is recognized as a legitimate medical expense. The failure of the medical expense deductibility provision to cover such treatment constitutes discrimination against Canadians of Japanese origin. Similar arguments apply mutatis mutandum to Traditional Chinese Medicine and Ayurvedic Medicine. Thus, the Appellant also alleges a violation under s. 15 of the Charter on the basis of race and national or ethnic origin.
+18. Section 27 of the Charter, which speaks of the preservation and enhancement of the multicultural heritage of Canadians, is also violated. Not recognizing the various medicinal traditions of other cultures by denying deductibility for culturally approved remedies through the requirement of the words "recorded by a pharmacist" in paragraph 118.2(2)(n) is an affront to the multicultural heritage of Canadians.
+[7] The CCNC is a national non-profit organization dedicated to the promotion of equal rights for Chinese Canadians, among other things. Its mandate includes intervention in legal proceedings that involve issues affecting the interests of the Chinese Canadian community.
+[8] The CCNC submits that the appeal at bar raises issues of equal benefits under the Act for individuals who rely on any form of Complimentary and Alternative Medicine that is not recognized and therefore regulated by Canada and its provinces, and for which no tax credit may be claimed for the expenses incurred. Traditional Chinese medicine ("TCM") is one form of Complimentary and Alternative Medicine not so recognized by Canadian authorities. As such, the appeal of Mr. Tall is of great significant interest to members of the Chinese community and other Asian Canadians who are users and/or practitioners of TCM.
+[9] The CCNC advises that it has a long standing interest in equality for Chinese Canadians in general and in the issue of recognition of TCM as a legitimate form of medical treatment in particular. It states it has a unique perspective and particular concerns which will assist the Court in achieving a full and complete presentation of the argument in the appeal at bar. Its participation, CCNC states, will neither unduly delay the proceeding nor unduly complicate the issues already raised. CCNC states that the appellant has consented to CCNC's motion for leave to intervene; appellant's counsel did not appear at the hearing for intervention.
+[10] The affidavit of Colleen Hua filed by the CCNC sets out a history of the CCNC, its goals and achievements to date. It also sets out a short history of the Chinese Canadian Community and the work of the CCNC. Ms. Hua's affidavit also refers to various interventions by the CCNC before administrative tribunals
+and courts in Canada. The following is a description of CCNC's involvement with the promotion of TCM, as set out in Ms. Hua's affidavit:
+22. Traditional Chinese Medicine (TCM) has played a vital role in promoting health in many parts of the world, and especially in countries with a predominant Chinese population. The usage of TCM is an integral part of living for many Canadians of Asian descent, and more particularly for Canadians of Chinese descent. TCM has historically been available in many Chinese Canadian communities across Canada. Over time, the usage of TCM has gradually spread beyond Chinese Canadian and other Asian Canadian communities into mainstream society.
+23. Despite its growing popularity, however, TCM and other traditional Chinese medicinal modelities have yet to be given full recognition by all levels of Government of Canada as a legitimate form of medical treatment for our citizens.
+24. The legislative framework that is adopted by the Government of Canada to regulate or control either the medical profession or available medical treatment also fails to recognize the inherent differences between TCM as a complementary and alternative Medical treatment and the so-called "orthodox", or "traditional" medicinal treatment represented by the Western medical science model.
+25. An example of the government's lack of understanding of TCM was the move in 1997 by the Canadian Government to amend the Food and Drug Regulations to include the control of Traditional Chinese herbs as a type of drug under the Food and Drug Act. This was done without any prior consultation with the Chinese Canadian community in general and the TCM practitioners in particular. CCNC became involved in this issue by founding a National Supporters of Chinese Herbs and Herbal Products Action Committee. Through the Committee, CCNC helped raise the concerns of the Chinese Canadian community with respect to the proposed legislative change. In particular, CCNC made a submission to the Parliamentary Standing Committee on Health in March, 1998, entitled "Access to Multicultural Health: The Rights of Consumers of Chinese Herbs and Herbal Products". In this paper, CCNC outlined the objection to the control of Traditional Chinese Herbs as drugs on the following basis:
+a. TCM and acupuncture are often treated as an appendage to biomedicine by our health system. Their inherent theories and conceptual framework are often ignored or rejected. The whole unique system of concepts and practices of TCM have not been truly accepted as an alternative to bio-medicine.
+b. Regulating TCM without understanding and recognizing its uniqueness and the incommensurability of the system is problematic. Any regulation must begin with a respect and open-mindedness that TCM is truly an alternative.
+c. In TCM, health depends not only on the proper functioning of individual body organs and systems but more importantly on the balance of various integrated systems and the unobstructed circulation of blood and inner "vital energy". These concepts are totally alien to the bio-medicinal model. To require TCM to be subject to the same laboratory setting as required by the regulatory system based on biomedicine is therefore impractical and unfair.
+...
+27. In the end, due in part to the efforts of CCNC and other concerned community organizations and groups representing TCM practitioners, the Canadian Government retracted from its original plan to treat Traditional Chinese Herbs as "drugs".[1]
+[11] Section 28 of the Rules reads as follows:
+28. (1) Where it is claimed by a person who is not a party to a proceeding
+(a) that such person has an interest in the subject matter of the proceeding,
+(b) that such person may be adversely affected by a judgment in the proceeding, or
+(c) that there exists between such person and any one or more parties to the proceeding a question of law or fact or mixed law and fact in common with one or more of the questions in issue in the proceeding,
+such person may move for leave to intervene.
+(2) On the motion, the Court shall consider whether the intervention will unduly delay or prejudice the determination of the rights of the parties to the proceeding, and the Court may,
+(a) allow the person to intervene as a friend of the Court and without being a party to the proceeding, for the purpose of rendering assistance to the Court by way of evidence or argument, and
+(b) give such direction for pleadings, discovery or costs as is just.
+[12] Applicant's counsel acknowledges that the CCNC has no financial or tax interest in the appeal at bar but is lobbying to get recognition for TCM. Counsel advised that the appellant, Mr. Tall, is not of Asian extraction nor does he have the experience of the Chinese community and therefore may not present evidence that would be of assistance to the people who the CCNC wishes to protect or represent.
+[13] The respondent opposes the proposed intervention of the applicant CCNC in respect of the issues raised under the Charter. In the respondent's view, the applicant does not have sufficient interest in litigation and would not be adversely affected by judgment in the proceeding nor has the applicant demonstrated that it can or will provide assistance that cannot already be provided by the appellant to the Court. The applicant's application does not meet any of the grounds enumerated in subsection 28(1) of the Rules and with respect to paragraph 28(2)(a), the respondent submits that the intervention by the CCNC would unduly delay or prejudice the determination of the rights of the parties to the proceeding.
+[14] I have no doubt that the CCNC is an organization genuinely interested in the issue raised by Mr. Tall and has had experience in promoting TCM to various levels of government in Canada with the goal of permitting Chinese Canadians to deduct the cost of TCM in computing income for taxpayers.
+[15] The constitutional issues involved in the appeal at bar are not, in my view, critical to the constituency represented by the CCNC. Mr. Tall's fight appears to be directed primarily at being denied a deduction in computing income because of religious and/or spiritual beliefs. The appellant's other allegation is that there is a violation of the Charter on the basis of race and national or ethnic origin. Neither of these allegations appears to be the basis of the CCNC's right to intervene, which is for the recognition of TCM as a legitimate form of medical treatment and is an integral part of living for many Canadians of Asian descent, more particularly for Canadians of Chinese descent.
+[16] If the applicant were given leave to intervene the trial would be unduly delayed and may prejudice the determination of the rights to the parties. The appellant, for example, may be presenting evidence based on religious, racial, national or ethnic original grounds; the applicant's evidence would be based on the legitimacy of TCM and its acceptance by one or more groups of Canadians.
+[17] The CCNC's application for intervener status is denied.
+[18] There shall be no costs of this application.
+Signed at Ottawa, Canada this 25th day of November 2005.
+"Gerald J. Rip"
+Rip J.
+CITATION: 2005TCC765
+COURT FILE NO.: 2005-1354(IT)G
+STYLE OF CAUSE: FRANKLIN D. TALL AND THE QUEEN AND THE CHINESE CANADIAN NATIONAL COUNCIL
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 17, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT: November 25, 2005
+APPEARANCES:
+For the Appellant:
+No Appearance
+Counsel for the Respondent:
+Catherine Letellier de St-Just and Brent Cuddy
+For the Applicant to Intervene:
+Avvy Yao-Yao Go
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Attached as an Exhibit to Ms. Hua's affidavit was a copy of the submissions by the CCNC to the House of Commons Standing Committee on Health.

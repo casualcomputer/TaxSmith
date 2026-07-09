@@ -1,0 +1,133 @@
+---
+title: "North Shore Footwear Ltd. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30305/index.do"
+last_modified: "2011-04-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 210"
+citation2: ""
+neutral_citation: "2011 CCI 210"
+decision_date: "2011-04-12"
+language: "fr"
+item_id: "30305"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8073
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:57:07.811000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d9ecd28e124d133e287a213d3144d17964dcdd49f0862d1f51cccd2486ccefb2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# North Shore Footwear Ltd. c. M.R.N.
+
+- Citation: 2011 CCI 210
+- Decision date: 2011-04-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8073, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+North Shore Footwear Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-04-12
+Référence neutre
+2011 CCI 210
+Numéro de dossier
+2010-3247(CPP)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2010-3247(CPP)
+2010-3248(EI)
+ENTRE :
+NORTH SHORE FOOTWEAR LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel inscrit pour audition le 11 avril 2011, à Edmonton (Alberta)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelante :
+Personne n’a comparu
+Avocat de l’intimé :
+Me Robert Neilson
+JUGEMENT
+L’appel interjeté en vertu de la Loi sur l’assurance-emploi et du Régime de pensions du Canada à l’encontre de décisions du ministre du Revenu national selon lesquelles Dawn Taylor exerçait un emploi assurable et ouvrant droit à pension pendant la période du 1er juillet au 28 août 2009 est rejeté, et les décisions sont confirmées.
+Instruction est donnée au greffe d’envoyer le présent jugement à l’appelante à l’adresse fournie par son ancien avocat et aussi d’envoyer une copie du jugement à l’ancien avocat.
+Signé à Edmonton (Alberta), ce 12e jour d’avril 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 23e jour de juin 2011.
+Marie-Christine Gervais
+Référence : 2011 CCI 210
+Date : 20110412
+Dossiers : 2010-3247(CPP)
+2010-3248(EI)
+ENTRE :
+NORTH SHORE FOOTWEAR LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Un appel a été inscrit pour audition relativement à des décisions prises par le ministre du Revenu national (le « ministre ») en vertu de la Loi sur l’assurance-emploi et du Régime de pensions du Canada. Le ministre a conclu que Dawn Taylor avait exercé un emploi assurable et ouvrant droit à pension auprès de l’appelante, North Shore Footwear Ltd., durant la période du 1er juillet au 28 août 2009.
+[2] Jusqu’à récemment, l’appelante était représentée par un avocat, Me Michael Furman. Me Furman s’est présenté en cour le matin de l’audience pour dire qu’il n’avait pas parlé à l’appelante depuis un certain temps et qu’il ne pouvait pas procéder parce qu’il n’avait pas d’instructions.
+[3] La personne‑ressource de Me Furman chez l’appelante était son directeur, Allan Bodker. L’adjoint de Me Furman avait fixé des rendez-vous avec M. Bodker en ce qui concerne l’appel, mais ces rendez-vous n’ont pas été respectés. Le plus récent rendez-vous était il y a quelques semaines. Me Furman a mentionné qu’il avait également envoyé de la correspondance à M. Bodker et qu’il croyait que M. Bodker était vraisemblablement au courant de la date prévue pour la présente audience. M. Bodker ne s’est pas présenté en cour.
+[4] Me Furman a demandé d’être autorisé à cesser de représenter l’appelante. L’autorisation a été accordée.
+[5] À ce stade, l’intimé a présenté une requête en rejet de l’appel pour cause de défaut de procéder. L’avocat de l’intimé a soutenu qu’il serait contre-indiqué d’accorder un ajournement parce que l’intimé avait deux témoins présents en cour et l’un d’eux s’était déplacé d’Edmonton à Calgary.
+[6] Il est indiqué à mon avis de rejeter les appels pour cause de défaut de procéder. Un appelant doit être prêt à poursuivre l’appel à la date fixée pour l’audience : Rupolo c. La Reine, 2010 CAF 289. Aucune justification n’a été fournie au défaut de l’appelante à cet égard.
+[7] L’appel en vertu de la Loi sur l’assurance-emploi et du Régime de pensions du Canada sera rejeté, et les décisions du ministre selon lesquelles Dawn Taylor exerçait un emploi assurable et ouvrant droit à pension auprès de l’appelante pendant la période du 1er juillet au 28 août 2009 seront confirmées.
+[8] Enfin, je souligne que si l’appelante a une explication raisonnable à son défaut de poursuivre les appels en temps opportun, elle peut peut‑être présenter une requête en annulation de la présente décision en vertu de la compétence inhérente de la Cour : Farrow c. La Reine, 2003 CCI 885.
+Signé à Edmonton (Alberta), ce 12e jour d’avril 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 23e jour de juin 2011.
+Marie-Christine Gervais
+RÉFÉRENCE : 2011 CCI 210
+Nos DES DOSSIERS DE LA COUR : 2010-3247(CPP)
+2010-3248(EI)
+INTITULÉ : NORTH SHORE FOOTWEAR LTD. c. MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 11 avril 2011
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 12 avril 2011
+COMPARUTIONS :
+Pour l’appelante :
+Personne n’a comparu
+Avocat de l’intimé :
+Me Robert Neilson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : S/O
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

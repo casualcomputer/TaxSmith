@@ -1,0 +1,213 @@
+---
+title: "Evoy (Succession) c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/182415/index.do"
+last_modified: "2016-11-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 263"
+citation2: ""
+neutral_citation: "2016 CCI 263"
+decision_date: "2016-11-17"
+language: "fr"
+item_id: "182415"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2938
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:47:36.713000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "561dd85599c04d63693545426adfbfdc8b1dac6c00ae24e2e076467eb37ec32b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Evoy (Succession) c. La Reine
+
+- Citation: 2016 CCI 263
+- Decision date: 2016-11-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2938, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Evoy (Succession) c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-11-17
+Référence neutre
+2016 CCI 263
+Numéro de dossier
+2014-2459(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-2459(IT)G
+ENTRE :
+LA SUCCESSION DE GEORGE KENNETH EVOY
+POUR DAVID G. EVOY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 25 février 2016,
+à Montréal (Québec)
+Devant : L’honorable juge B. Paris
+Comparutions :
+Avocats de l’appelante :
+Me Wilfrid Lefebvre, c.r. et
+Me Taj Kudhail
+Avocat de l’intimée :
+Me Benoit Mandeville
+JUGEMENT MODIFIÉ
+L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2008, 2009 et 2010 est accueilli, avec dépens en faveur de l’appelante, conformément aux motifs du jugement ci-joints.
+Le présent jugement modifié remplace le jugement daté du 17 novembre 2016. Le jugement est modifié uniquement pour ajouter le nom de Me Taj Kudhail comme avocat de l’appelante.
+Signé à Vancouver (Colombie-Britannique), ce 7e jour de décembre 2016.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 29e jour de mars 2018.
+Mario Lagacé, jurilinguiste
+Référence : 2016 CCI 263
+Date : 20161117
+Dossier : 2014-2459(IT)G
+ENTRE :
+LA SUCCESSION DE GEORGE KENNETH EVOY
+POUR DAVID G. EVOY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] L’appelante est l’une des trois fiducies testamentaires constituées par le testament de George Kenneth Evoy, décédé en 2007. En établissant de nouvelles cotisations à l’égard de l’appelante pour ses années d’imposition qui prenaient fin le 31 décembre 2008, le 31 décembre 2009 et le 31 décembre 2010, le ministre du Revenu national (le « ministre ») a traité les trois fiducies comme un particulier, conformément au paragraphe 104(2) de la Loi de l’impôt sur le revenu (la « Loi »), et a inclus le revenu des trois fiducies dans le revenu de l’appelante. Les nouvelles cotisations ont donné lieu respectivement à un revenu imposable supplémentaire de 136 450 $, de 519 499 $ et de 220 191 $ pour l’appelante pour ces années. L’appelante interjette appel des nouvelles cotisations.
+[2] Le paragraphe 104(2) permet au ministre de traiter les fiducies multiples comme une seule fiducie aux fins de la Loi si les deux conditions suivantes sont satisfaites :
+i) dans l’ensemble, tous les biens des diverses fiducies proviennent de la même personne;
+ii) chacune des fiducies est telle que le revenu en découlant revient ou reviendra finalement au même bénéficiaire ou au même groupe ou à la même catégorie de bénéficiaires.
+[3] L’appelante conteste les nouvelles cotisations pour le motif que la seconde de ces conditions n’est pas satisfaite en l’espèce. La question qui se pose dans le présent appel est une question de bonne interprétation de cette condition énoncée à l’alinéa 104(2)b).
+Disposition législative
+[4] Le paragraphe 104(2) est rédigé comme suit :
+(2) Pour l’application de la présente loi, et sans que l’assujettissement du fiduciaire ou des représentants légaux à leur propre impôt sur le revenu en soit atteint, une fiducie est réputée être un particulier relativement aux biens de la fiducie; mais lorsqu’il existe plus d’une fiducie et que :
+a) d’une part, dans l’ensemble, tous les biens des diverses fiducies proviennent d’une seule personne;
+b) d’autre part, les diverses fiducies sont telles que le revenu en découlant revient ou reviendra finalement au même bénéficiaire ou groupe ou catégorie de bénéficiaires,
+ceux des fiduciaires que le ministre peut désigner sont réputés être, pour l’application de la présente loi, relativement à toutes les fiducies, un particulier dont les biens sont les biens de toutes les fiducies et dont le revenu est le revenu de toutes les fiducies.
+Les faits
+[5] Les faits suivants sont tirés de l’exposé conjoint des faits déposé à l’audience :
+[TRADUCTION]
+L’établissement des fiducies testamentaires
+1. De son vivant, George Kenneth Evoy (le testateur) était un actionnaire de la société Evoy Production Control Ltd. (EPCL).
+2. Le testateur est décédé le 12 novembre 2007.
+3. Son épouse Pauline Alice Evoy (Pauline), ses trois enfants, David G. Evoy (David), Karie Lynn Evoy (Karie) et Wendy Anne Thaler (Wendy), de même que leurs enfants respectifs, ont survécu au testateur.
+4. Aux termes d’un testament daté du 7 janvier 1997, modifié par codicille (le testament modifié) daté du 6 avril 2001 (joints à titre d’annexe A et d’annexe B, respectivement), le testateur a constitué trois fiducies testamentaires distinctes, à savoir :
+a) l’appelante (également appelée ci-après la fiducie de David);
+b) la succession de George K. Evoy pour Karie Lynn Evoy (la fiducie de Karie);
+c) la succession de George K. Evoy pour Wendy Anne Thaler (la fiducie de Wendy).
+5. Conformément au paragraphe 6(c) du testament modifié, les actions d’EPCL détenues par le testateur à son décès ont été divisées en trois blocs d’actions approximativement égaux, et un de ces blocs a été légué à chacune des trois fiducies testamentaires. Les dispositions du paragraphe 70(6) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), (la « Loi ») s’appliquaient à chaque transfert.
+6. La fiducie de David et la fiducie de Karie ont chacune reçu 947 623 actions de catégorie A d’EPCL, 476 048 actions privilégiées d’EPCL et 200 actions de catégorie 1 d’EPCL.
+7. La fiducie de Wendy a reçu 947 622 actions de catégorie A d’EPCL, 476 049 actions privilégiées d’EPCL et 200 actions de catégorie 1 d’EPCL.
+Les conditions de la fiducie de David
+8. La fiducie de David est régie par l’alinéa 6(c)(A) du testament modifié.
+9. Le sous-alinéa 6(c)(A)(i) du testament modifié prévoit que Pauline est une bénéficiaire des revenus de la fiducie de David de son vivant, et qu’elle a le droit de percevoir tous les revenus annuels nets provenant de la fiducie de David pendant cette période.
+10. Le sous-alinéa 6(c)(A)(ii) du testament modifié prévoit que David et ses enfants sont des bénéficiaires des revenus et des bénéficiaires de capital de la fiducie de David.
+11. Au décès de Pauline, tous les revenus annuels nets tirés de la fiducie de David, répartis entre David et ses enfants selon des fractions que les fiduciaires peuvent établir à leur discrétion, doivent être versés à David et ses enfants, jusqu’à ce que les fiduciaires décident de mettre fin à la fiducie de David.
+12. Les fiduciaires de la fiducie de David peuvent mettre fin à la fiducie de David au plus tôt au troisième anniversaire du décès de Pauline et au plus tard au vingt et unième anniversaire de son décès.
+13. À l’extinction de la fiducie de David, les fiduciaires peuvent verser le capital à David.
+14. Si David décède avant l’extinction de la fiducie de David, les fiduciaires diviseront le capital à l’extinction entre les descendants de David à parts égales, par souche.
+15. Si, au moment du versement du capital de la fiducie de David, ni David ni ses enfants ne sont vivants, le capital de la fiducie de David sera réparti entre les enfants du testateur encore vivants à parts égales, par souche.
+16. La partie du capital de la fiducie de David afférent à Wendy ou à Karie, s’il y a lieu, sera ajoutée au capital de la fiducie de Wendy ou de la fiducie de Karie, selon le cas.
+Les conditions de la fiducie de Wendy
+17. La fiducie de Wendy est régie par l’alinéa 6(c)(B) du testament modifié.
+18. L’alinéa 6(c)(B) du testament modifié contient des stipulations identiques à celles de l’alinéa 6(c)(A), mais remplace David et ses enfants par Wendy et ses enfants.
+Les conditions de la fiducie de Karie
+19. La fiducie de Karie est régie par l’alinéa 6(c)(C) du testament modifié.
+20. L’alinéa 6(c)(C) du testament modifié contient des stipulations identiques à celles de l’alinéa 6(c)(A), mais remplace David et ses enfants par Karie et ses enfants.
+La distribution du revenu gagné par les trois fiducies après le décès du testateur
+21. Pauline était vivante pendant les années d’imposition de l’appelante qui prenaient fin le 31 décembre 2008, le 31 décembre 2009 et le 31 décembre 2010, tout comme David, Karie et Wendy. Pauline est toujours vivante.
+22. Par conséquent, Pauline était la seule bénéficiaire à avoir droit de recevoir le revenu annuel net gagné par la fiducie de David, la fiducie de Wendy et la fiducie de Karie à l’égard de chacune de ces années d’imposition.
+23. Pauline a reçu le revenu annuel net de la fiducie de David, de la fiducie de Wendy et de la fiducie de Karie à l’égard de chacune des années d’imposition de ces fiducies depuis le décès du testateur.
+La thèse de l’appelante
+[6] L’appelante soutient que la condition énoncée à l’alinéa 104(2)b) est remplie seulement si, pendant l’existence entière des trois fiducies, le revenu revient ou reviendra finalement au même bénéficiaire ou au même groupe ou à la même catégorie de bénéficiaires. L’appelante affirme que, même si le revenu des trois fiducies en cause est revenu à Pauline pendant les années en cause (et continuera de lui revenir de son vivant), le revenu reviendra à différents bénéficiaires après son décès. Puisque les trois fiducies n’auront pas de bénéficiaires communs des revenus après le décès de Pauline, l’appelante soutient qu’elles ne peuvent être traitées comme une seule fiducie en application du paragraphe 104(2) durant la vie de Pauline.
+La thèse de l’intimée
+[7] L’intimée prétend que le critère énoncé à l’alinéa 104(2)b) doit être appliqué sur une base annuelle pour déterminer si, dans une année d’imposition particulière, le revenu des fiducies revient au même bénéficiaire ou reviendra finalement au même bénéficiaire ou au même groupe ou à la même catégorie de bénéficiaires. Il en est ainsi parce que l’obligation au titre de l’impôt sur le revenu est établie sur une base annuelle pour une année d’imposition.
+[8] L’intimée prétend également que, si au cours d’une année d’imposition, le revenu tiré des fiducies ne revient plus au même bénéficiaire ou au même groupe ou à la même catégorie de bénéficiaires, le ministre serait habilité à redésigner les fiduciaires en vertu du paragraphe 104(2). L’avocat soutient que le pouvoir de désigner les fiduciaires est discrétionnaire et que le ministre peut exercer de nouveau ce pouvoir discrétionnaire si les conditions énoncées dans la disposition ne sont plus satisfaites.
+[9] En l’espèce, l’intimée affirme qu’il est évident que, pendant les années visées par l’appel, le revenu tiré de chacune des trois fiducies revient seulement à Pauline et, par conséquent, la condition énoncée à l’alinéa 104(2)b) est satisfaite pour les années visées par l’appel.
+Analyse
+[10] La question dont la Cour est saisie se rapporte au sens à attribuer aux mots « sont telles que le revenu en découlant revient ou reviendra finalement au même bénéficiaire ou groupe ou catégorie de bénéficiaires », à l’alinéa 104(2)b) et, en particulier, si la détermination imposée par ce libellé doit être faite pour une année ou pour toute la durée des fiducies en question.
+[11] L’approche à adopter pour interpréter des lois fiscales a été établie par la Cour suprême du Canada dans l’arrêt Hypothèques Trustco Canada c. Canada, 2005 CSC 54, au paragraphe 10 :
+Il est depuis longtemps établi en matière d’interprétation des lois qu’« il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur » : voir 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, par. 50. L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux.
+[12] Au paragraphe 13 de l’arrêt Hypothèques Trustco, la Cour suprême a également affirmé que la Loi est « un instrument dominé par des dispositions explicites qui prescrivent des conséquences particulières et commandent une interprétation largement textuelle ».
+[13] En appliquant cette approche dans l’arrêt Canada c. Quinco Financial Inc., 2014 CAF 108, la Cour d’appel fédérale a affirmé ce qui suit au paragraphe 8 :
+Dans l’ensemble, la Loi comporte des règles claires et précises en vue de faciliter son application, son uniformité et sa prévisibilité. Voilà qui fait ressortir le rôle primordial que joue le sens ordinaire du libellé de la Loi dans le processus d’interprétation de ses dispositions.
+[14] En l’espèce, le texte de l’alinéa 104(2)b) semble envisager la possibilité de tenir compte du droit de recevoir le revenu de la fiducie durant toute la durée de la fiducie plutôt que pour chaque année d’imposition. L’inclusion du libellé « ou reviendra finalement » étaye cette conclusion. Il est difficile de voir comment l’utilisation de l’expression « ou reviendra finalement » peut se concilier à un critère qui s’appliquerait seulement pour une année d’imposition particulière à la fois.
+[15] En outre, rien dans cette disposition ne suggère que le critère est appliqué une fois par année, comme l’intimée le prétend, et qu’il imposerait une interprétation large permettant d’inclure un critère annuel qui ne semble pas à première vue figurer à l’alinéa 102(4)b).
+[16] Un autre vice dans la thèse de l’intimée est qu’aucun pouvoir n’est conféré au ministre pour désigner de nouveau une fiducie consolidée en des fiducies multiples dans l’éventualité où les conditions énumérées à l’alinéa 104(2)b) ne sont plus satisfaites au cours d’une année d’imposition subséquente, et aucun processus n’est établi pour demander une nouvelle désignation. L’avocat de l’intimée affirme simplement que, puisque le ministre jouit du pouvoir discrétionnaire de désigner des fiducies multiples comme une seule fiducie, il faudrait déduire qu’il dispose également du pouvoir discrétionnaire de nouvelle désignation. Encore une fois, à la simple lecture du paragraphe 104(2), un tel pouvoir discrétionnaire n’est pas conféré.
+[17] Je soulignerais également que le paragraphe 104(2) établit la disposition générale selon laquelle une fiducie est réputée être un particulier pour l’application de la Loi. Cette disposition déterminative ne vise pas le processus annuel ou l’examen de la fiducie. Je conclus donc qu’il est moins que probable que les critères énoncés aux alinéas 104(2)a) et b) soient fondés sur une détermination annuelle.
+[18] Pour ce qui est du contexte, je suis d’accord avec l’avocat de l’appelante que le paragraphe 104(2) prévoit une exception à la règle générale selon laquelle chaque fiducie est traitée comme un particulier distinct pour l’application de la Loi, ce qui implique de produire des déclarations de revenus distinctes. Cependant, si des fiducies multiples avaient été désignées comme une fiducie unique en application du paragraphe 104(2) au cours d’une année d’imposition, et que, subséquemment, elles ne satisfaisaient plus à la condition énoncée à l’alinéa 104(2)b), il serait impossible pour les fiduciaires de savoir s’il faut produire une déclaration de revenus pour chacune des fiducies initiales non consolidées. L’interprétation de l’alinéa 104(2)b) préconisée par l’intimée entraînerait des résultats inattendus pour le contribuable, dont il faut se garder selon ce qu’a affirmé la Cour suprême dans l’arrêt Hypothèques Trustco.
+[19] Les parties conviennent que l’objet du paragraphe 104(2), puisqu’il concerne les fiducies multiples, est d’empêcher la division du revenu entre un nombre de fiducies ayant le même bénéficiaire ou le même groupe ou la même catégorie de bénéficiaires, afin de tirer profit de taux marginaux inférieurs à l’égard du revenu de chacune des fiducies [1] .
+[20] Dans son ouvrage intitulé Canadian Income Taxation of Trusts, 3e éd. (CCH 1993), l’auteur L. Raphael affirme ce qui suit à la page 267 :
+[TRADUCTION]
+L’objet manifeste de cette disposition est d’empêcher un constituant de fractionner le revenu potentiel d’une fiducie d’un bénéficiaire en créant plusieurs fiducies, ayant chacune un revenu moindre, pour le même bénéficiaire.
+[21] Je suis d’accord avec l’appelante que l’objet de la disposition en cause est d’empêcher le fractionnement du revenu entre des fiducies identiques pendant toute l’existence des fiducies. Cet objet concorde plus étroitement avec la nature d’une fiducie en tant que relation juridique qui perdure, dans la grande majorité des cas, plus longtemps qu’une année d’imposition. Il concorde également plus étroitement avec les moyens choisis pour éviter les situations où le revenu serait fractionné entre des fiducies multiples, une désignation exceptionnelle du ministre selon laquelle les fiducies sont traitées comme une seule fiducie. Si l’objet de la disposition avait été de créer un critère annuel, on s’attendrait à trouver des indications que la désignation serait faite annuellement, ou qu’elle pourrait être révoquée à un certain moment.
+[22] L’intimée soutient, à titre subsidiaire, que, si je devais conclure que je dois tenir compte de tous les bénéficiaires des fiducies tout au long de l’existence des fiducies pour l’application du paragraphe 104(2), les trois fiducies étaient encore telles que le revenu en découlant revenait ou reviendrait finalement au même bénéficiaire ou au même groupe ou à la même catégorie de bénéficiaires, car les enfants de George Kenneth Evoy et leurs enfants faisaient partie du même groupe ou de la même catégorie de bénéficiaires.
+[23] En ce qui concerne la thèse subsidiaire, l’intimée soutient que les enfants de George Kenneth Evoy et leurs enfants font partie de la même catégorie de bénéficiaires parce qu’ils sont tous des membres de la même famille. Même si l’expression « catégorie de bénéficiaires » n’est pas définie dans la Loi, l’intimée soutient que, selon la définition courante figurant dans le dictionnaire, le mot « catégorie » désigne un groupe qui partage des caractéristiques ou attributs communs, et que les membres d’une même famille formeraient une catégorie.
+[24] Toutefois, même en acceptant que les enfants et les petits-enfants du testateur forment une catégorie pour l’application du paragraphe 104(2), en l’espèce, l’intimée est confrontée à la difficulté qu’aucune des fiducies n’a les mêmes enfants et petits-enfants du testateur comme bénéficiaires des revenus résiduels. En d’autres mots, la catégorie complète des enfants et des petits-enfants n’est pas le bénéficiaire des revenus de chacune des fiducies. Une partie différente de la catégorie est plutôt nommée dans chacune des fiducies. Il n’y a pas de bénéficiaires « croisés » parmi les enfants et les petits-enfants du testateur dans aucune des trois fiducies. Par conséquent, les fiducies ne sont pas telles que le revenu en découlant reviendra finalement au même groupe ou à la même catégorie de bénéficiaires.
+[25] Pour ce qui est de la proposition de l’intimée selon laquelle il n’est pas nécessaire que chaque fiducie ait les mêmes bénéficiaires dans chaque fiducie et qu’il suffise que les bénéficiaires de chaque fiducie soient des membres du même groupe ou de la même catégorie, je ne crois pas que cette proposition soit appuyée par le libellé de l’alinéa 104(2)b) qui réfère au « même groupe ou catégorie » et non aux « membres du même groupe ou catégorie ».
+[26] Pour tous ces motifs, l’appel est accueilli avec dépens en faveur de l’appelante.
+Signé à Ottawa, Canada, ce 17e jour de novembre 2016.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 29e jour de mars 2018.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2016 CCI 263
+No DU DOSSIER DE LA COUR :
+2014-2459(IT)G
+INTITULÉ :
+LA SUCCESSION DE GEORGE KENNETH EVOY POUR DAVID G. EVOY c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 25 février 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Paris
+DATE DU JUGEMENT MODIFIÉ :
+Le 7 décembre 2016
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Wilfrid Lefebvre, c.r. et
+Me Taj Kudhail
+Avocat de l’intimée :
+Me Benoit Mandeville
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Wilfrid Lefebvre, c.r. et
+Me Taj Kudhail
+Cabinet :
+Norton Rose Fulbright
+Montréal (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pour l’année d’imposition 2016 et par la suite, la Loi a été modifiée afin que les fiducies testamentaires, sous réserve de certaines exceptions, soient tenues de payer de l’impôt au taux marginal maximal sur l’ensemble de leurs revenus.

@@ -1,0 +1,307 @@
+---
+title: "O'Flynn v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27503/index.do"
+last_modified: "2005-04-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 230"
+citation2: ""
+neutral_citation: "2005 CCI 230"
+decision_date: "2005-04-01"
+language: "fr"
+item_id: "27503"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 59
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:03:39.208000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "52a12c048f229ab1e0724ffd50a8d8026e03b6c05e980edd1ea30e582c4caf9d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# O'Flynn v. The Queen
+
+- Citation: 2005 CCI 230
+- Decision date: 2005-04-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 59, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+O'Flynn v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-01
+Référence neutre
+2005 CCI 230
+Numéro de dossier
+2004-2977(IT)I
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2977(IT)I
+ENTRE :
+TERRANCE O'FLYNN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE] __________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Richard Stanton (2004-2979(IT)I) et de Prism Flow Products Inc. (2004-2980(IT)I) à Edmonton (Alberta), le 7 février 2005
+Devant : L'honorable juge T. E. Margeson
+Comparutions :
+Avocat de l'appelant :
+Me James C. Yaskowich
+Avocate de l'intimée :
+Me Leslie Akst
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en application de la Loi de l'impôt sur le revenu (la « Loi » ) pour les années d'imposition 1999, 2000 et 2001 sont admis et l'affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que les montants de 2 025 $, de 2 700 $ et de 675 $ se rapportant respectivement aux années d'imposition 1999, 2000 et 2001 n'ont pas été inclus d'une façon appropriée dans le revenu de l'appelant aux termes des paragraphes 15(1) et 56(2) de la Loi.
+Étant donné qu'il a en bonne partie eu gain de cause dans cet appel, l'appelant aura droit aux dépens, lesquels seront taxés entre parties.
+Les dépens de l'appelant seront taxés dans un seul mémoire de frais, avec ceux de Richard Stanton et de Prism Flow Products Inc.
+Signé à Ottawa, Canada, ce 1er jour d'avril 2005.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+Ce 8e jour de mars 2006.
+Christian Laroche, LL.B.
+Dossier : 2004-2979(IT)I
+ENTRE :
+RICHARD STANTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de
+Terrance O'Flynn (2004-2977(IT)I) et de Prism Flow Products Inc. 2004-2980(IT)I à Edmonton (Alberta), le 7 février 2005
+Devant : L'honorable juge T. E. Margeson
+Comparutions :
+Avocat de l'appelant :
+Me James C. Yaskowich
+Avocate de l'intimée :
+Me Leslie Akst
+[TRADUCTION FRANÇAISE OFFICIELLE] ____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en application de la Loi de l'impôt sur le revenu (la « Loi » ) pour les années d'imposition 1999, 2000 et 2001 sont admis et l'affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que les montants de 2 025 $, de 2 700 $ et de 675 $ se rapportant respectivement aux années d'imposition 1999, 2000 et 2001 n'ont pas été inclus d'une façon appropriée dans le revenu de l'appelant aux termes des paragraphes 15(1) et 56(2) de la Loi.
+Étant donné qu'il a en bonne partie eu gain de cause dans cet appel, l'appelant aura droit aux dépens, lesquels seront taxés entre parties.
+Les dépens de l'appelant seront taxés dans un seul mémoire de frais, avec ceux de Terrance O'Flynn et de Prism Flow Products Inc.
+Signé à Ottawa, Canada, ce 1er jour d'avril 2005.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+Ce 8e jour de mars 2006.
+Christian Laroche, LL.B.
+Dossier : 2004-2980(IT)I
+ENTRE :
+PRISM FLOW PRODUCTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de
+Richard Stanton (2004-2979(IT)I) et de Terrance O'Flynn (2004-2977(IT)I)
+à Edmonton (Alberta), le 7 février 2005
+Devant : L'honorable juge T. E. Margeson
+Comparutions :
+Avocat de l'appelante :
+Me James C. Yaskowich
+Avocate de l'intimée :
+Me Leslie Akst
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en application de la Loi de l'impôt sur le revenu (la « Loi » ) pour les années d'imposition 2000 et 2001 sont admis et l'affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu de ce qui suit:
+En ce qui concerne l'année d'imposition 2000, le montant total refusé à l'appelante devrait être de 726,36 $ à l'égard des polices 978020, 951020, 978022, 951021, 978021, 978023, 2251879, 951022, 2251888 et 951023.
+En ce qui concerne l'année d'imposition 2001, les montants qui devraient être refusés à l'appelante à l'égard desdites polices devraient s'élever à 2 905,44 $.
+En outre, en ce qui concerne les primes applicables au régime désigné, l'appelante a le droit de déduire les montants refusés aux termes de l'alinéa 18(1)a) de la Loi.
+Signé à Ottawa, Canada, ce 1er jour d'avril 2005.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+Ce 8e jour de mars 2006.
+Christian Laroche, LL.B.
+Référence : 2005CCI230
+Date : 20050401
+Dossier : 2004-2977(IT)I
+ENTRE :
+TERRANCE O'FLYNN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2004-2979(IT)I
+ET ENTRE :
+RICHARD STANTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2004-2980(IT)I
+ET ENTRE :
+PRISM FLOW PRODUCTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Margeson
+[1] Il a au départ été convenu que ces affaires seraient entendues sur preuve commune.
+[2] Au cours des années d'imposition 1999, 2000 et 2001, le ministre a établi de nouvelles cotisations à l'égard de l'appelant Terrance O'Flynn en ce qui concerne les montants qui avaient été payés pour son compte à l'Alberta Dental Service Corporation (l' « ADSC » ) au titre d'avantages reçus de 674418 Alberta Ltd., par l'entremise de Prism Flow Products Inc. (la « société » ). Le ministre a allégué que l'appelant était titulaire de 50 p. 100 des actions de 674418 Alberta Ltd. et qu'en sa qualité d'actionnaire, il avait demandé à la société de verser les montants en cause à l'ADSC à son profit.
+[3] De même, le ministre a établi, pour ces mêmes années, de nouvelles cotisations à l'égard de l'appelant Richard Stanton en vue d'ajouter au revenu de celui-ci les montants reçus de 674420 Alberta Ltd. par l'entremise de la société. Le ministre a allégué que Richard Stanton et sa femme possédaient chacun 50 p. 100 des actions de 674420 Alberta Ltd. et qu'en sa qualité d'actionnaire, Richard Stanton avait demandé à la société de verser les montants en cause à l'ADSC à son profit.
+[4] Quant à la société appelante, le ministre a établi de nouvelles cotisations pour les années d'imposition 2000 et 2001 en vue de refuser la déduction des frais payés à l'ADSC, d'un montant de 5 870 $ et de 5 400 $, en se fondant sur le fait que les paiements avaient uniquement été effectués au profit de Terrance O'Flynn et de Richard Stanton.
+[5] Le ministre a en outre établi une nouvelle cotisation à l'égard de la société appelante en refusant la déduction de frais pour des montants de 9 284,00 $ et de 9 299,00 $; il a allégué que ces paiements avaient uniquement été effectués au profit de Terrance O'Flynn et de Richard Stanton. Le ministre s'est fondé sur les dispositions de l'alinéa 18(1)a) de la Loi de l'impôt sur le revenu (la « Loi » ), en alléguant que ces dépenses n'avaient pas été engagées en vue de tirer un revenu d'une entreprise ou d'un bien.
+[6] Richard Stanton a témoigné que la société vendait des soupapes et du matériel utilisé par l'industrie pétrolière et gazière dans les champs de pétrole partout au pays, mais principalement dans l'Ouest du Canada, en particulier en Alberta. Richard Stanton et Terrance O'Flynn étaient propriétaires à 50 p. 100 de la société. Richard Stanton s'occupait plus particulièrement de la vente et de la commercialisation de nouveaux produits, alors que Terrance O'Flynn s'occupait surtout des opérations bancaires de l'entreprise. La société possède une installation composée d'un bureau et d'un entrepôt où se trouvent ses stocks. Richard Stanton connaissait bien les questions dont la Cour a été saisie en ce qui concerne les avantages et les polices d'assurance visés par les cotisations.
+[7] La société avait dès le début souscrit à ses frais à une police dite « Quik Card » en vue de fournir des prestations d'assurance-maladie aux membres de son personnel. La société avait au départ eu de la difficulté à attirer de bons employés parce qu'aucun ensemble d'avantages sociaux n'était offert. Ce problème préoccupait la société, de sorte qu'elle s'est vue obligée de mettre sur pied un ensemble d'avantages sociaux satisfaisant.
+[8] Il était question de ces avantages lors des entrevues avec les employés éventuels. Le témoin assistait à toutes les entrevues. Il ne se souvenait pas de tous les employés, mais il connaissait Ray Van Twuyver qui, a-t-il dit, travaillait pour la société en l'an 2000. Le témoin a eu une entrevue avec cet employé. Lors de l'entrevue, il n'a pas été question des avantages sociaux. Le travailleur en question, qui était employé par la Canada Bread Company, songeait à changer d'employeur. Le témoin ne se rappelait pas si l'on avait parlé d'autres questions lors de cette rencontre.
+[9] Pendant les entrevues, Terrance O'Flynn discutait de la rémunération globale avec les employés éventuels, notamment des salaires, des avantages sociaux et des congés. Terrance O'Flynn était plus particulièrement chargé d'embaucher des personnes précises.
+[10] On a référé Richard Stanton à la pièce A-1, une police d'assurance portant le numéro H0951020. Cette police avait été souscrite auprès de La Maritime, compagnie d'assurance-vie; M. Stanton était l'assuré désigné. La police était entrée en vigueur le 12 août 1996.
+[11] Richard Stanton a identifié la pièce A-2, une police d'assurance-vie portant le numéro H0978020 dans laquelle il était également désigné à titre d'assuré, alors que la société était désignée à titre de propriétaire. La police avait été souscrite auprès de La Maritime, compagnie d'assurance-vie et elle était datée du 23 décembre 1999. M. Stanton ne savait pas pourquoi, au départ, la police avait été obtenue. Ils avaient reçu des conseils à ce sujet. Terrance O'Flynn, au départ, s'occupait des questions d'assurance.
+[12] Lors du contre-interrogatoire, on a référé M. Stanton à la pièce R-1, une liste des personnes employées par la société de 1997 à 2001. M. Stanton ne savait rien au sujet du régime de soins dentaires, mais le courtier aurait donné des explications à ce sujet. Il y avait une période d'attente de trois mois avant d'être admissible aux prestations versées dans le cadre de ce régime. Le nom de Greg Smith a été mentionné au témoin; ce dernier était un employé de bureau qui travaillait à plein temps et qui était désigné comme étant visé par le régime Zurich au bout de trois mois. Le témoin a expliqué que M. Smith n'était pas inclus dans le régime pendant la période visée par l'examen parce qu'à ce moment-là, il ne travaillait pas pour la société depuis suffisamment longtemps.
+[13] Certains employés éventuels ne voulaient pas participer au régime de soins dentaires parce que leur conjoint était déjà inscrit à un tel régime. Aucun détail n'était donné au sujet du régime. Le témoin a assisté aux entrevues. Aucun avis n'était envoyé aux travailleurs pour les informer que la période de trois mois était expirée et qu'ils étaient désormais admissibles au régime. Aucun document n'était envoyé aux travailleurs éventuels pour leur donner des explications au sujet du régime de soins dentaires.
+[14] La pièce R-2 était un état de l'ADSC, adressé à la société, indiquant les paiements que celle-ci avait effectués dans le cadre du régime de soins dentaires. Les détenteurs de cartes désignés dans cet état étaient le témoin, son fils, Terrance O'Flynn et ses enfants, qui ont été les seuls à bénéficier du régime pour la période allant du 1er octobre 2000 au 31 janvier 2001.
+[15] La pièce R-3 était une entente conclue entre l'ADSC et la société à l'égard du régime collectif de soins dentaires numéro 1957-XX. Cela s'appliquait aux avantages offerts pendant la période en question. On a référé le témoin au paragraphe 10 de l'entente, qui stipulait ce qui suit : [traduction] « L'employeur dressera et fournira à l'ADSC, au plus tard le premier jour de chaque mois au cours de la durée de l'entente, une liste de tous les membres admissibles, mentionnant le numéro d'identification personnel de l'employé, son nom, sa date de naissance et son sexe, ainsi que le nom, la date de naissance et le sexe de toutes les personnes à la charge de l'employé. » Le témoin ne savait pas si cette liste avait été fournie à l'ADSC.
+[16] À l'appendice A joint à l'entente figurait une liste des prestations payables dans le cadre du régime. La totalité du montant pouvait être recouvrée, aux taux courants proposés, le maximum annuel s'élevant à 1 000 $ par famille. Ce montant s'appliquait aux services de base et aux services majeurs ensemble.
+[17] L'appendice B indiquait les modalités de calcul des versements mensuels à effectuer à la compagnie d'assurance. Ces versements étaient basés sur les réclamations annuelles moyennes et sur les frais généraux d'administration qui étaient prévus. Ces prévisions servaient au calcul du coût annuel envisagé, qui était divisé en 12 mois, et des versements mensuels s'élevant en tout à 140 $ étaient effectués. Le témoin a convenu que plus il y avait de gens sur la liste, plus le coût augmentait. S'il y avait moins de gens inscrits au régime, le montant baissait et la prime baissait également.
+[18] On a référé le témoin à la dernière page de la pièce A-1; il a déclaré que la personne à assurer était Richard Stanton et que, selon la désignation, l'assuré était propriétaire de la police, sauf indication contraire. Cet espace n'a pas été rempli.
+[19] On a également référé le témoin à la pièce A-2, page 6.1, qui mentionnait ce qui suit : [traduction] « [...] le propriétaire de la police peut se prévaloir de tous les droits, options et privilèges accordés par la police ou que nous aurons autorisés. » Il était également prévu que le propriétaire pouvait changer de bénéficiaire à n'importe quel moment.
+[20] Le témoin a confirmé qu'une modification de la demande mentionnait que son salaire était basé sur 50 p. 100 des bénéfices réalisés par la société et que son salaire personnel s'élevait en moyenne à au moins 100 000 $ en 1997 ainsi qu'en 1998 et qu'il devait être du même ordre en 1999. Il a également convenu qu'aux termes de la police, les avantages étaient imposables entre les mains du bénéficiaire, c'est-à-dire entre ses mains.
+[21] Pendant le réinterrogatoire, le témoin a déclaré qu'il ne pouvait pas dire si Terrance O'Flynn avait rencontré seul ou avec d'autres les personnes qui se portaient candidates à un emploi. Il ne savait pas si l'avis d'admissibilité avait été envoyé au bout de trois mois.
+[22] Terrance O'Flynn a témoigné que la société s'occupait principalement de la vente de soupapes à des sociétés pétrolières. Elle avait commencé à exercer ses activités au mois de septembre 1995. La société avait pris de l'essor au fil des ans. Elle était au départ composée de trois associés et le chiffre d'affaires annuel s'élevait à 1 000 000 $. Avec le temps, de 12 à 14 employés ont joint la société, dont le chiffre d'affaires a atteint 10 000 000 $. La société avait recruté les employés graduellement.
+[23] La société cherchait toujours des employés [traduction] « à valeur ajoutée » . La chose présentait un défi constant. Il a fallu à la société deux ou trois ans pour réellement commencer à prendre de l'essor. L'employé qui songeait à joindre la société se préoccupait de questions de sécurité; il voulait savoir si la société réussirait à long terme, il voulait se renseigner sur les salaires, sur les avantages sociaux et sur les congés et savoir où le bureau était situé. La condition la plus difficile à remplir était celle de la sécurité, le prétendu [traduction] « syndrome de la société saine » , et la question des avantages sociaux. Lorsqu'il était question d'avantages, avec les préposés aux ventes en particulier, la question du régime d'assurance-maladie, des salaires et des congés était toujours soulevée.
+[24] Au départ, la société n'était pas en mesure d'accorder les avantages recherchés par les employés éventuels et elle a donc perdu de fort bons candidats. La société a par la suite tenté de remédier a la situation. Elle s'est adressée à des fournisseurs de régimes et elle a mis sur pied le premier régime de soins dentaires.
+[25] Le témoin s'est reporté à la pièce R-3; il a déclaré qu'il s'agissait d'un régime de soins dentaires auquel on avait adhéré le 1er juin 1996. On a fait remarquer que la société n'avait pas signé l'entente avec l'ADSC et le témoin n'a pas pu expliquer pourquoi il en était ainsi. Toutefois, ce régime protégeait la société. Tout employé qui avait accompli la période probatoire pouvait joindre le régime.
+[26] On a référé le témoin à la pièce R-1, à savoir la liste d'employés de la société; il a déclaré que Bryce Readman avait reçu des explications au sujet du régime. Le régime ne l'intéressait pas. Catherine Forester était au courant de l'existence du régime et avait reçu des explications à ce sujet. Elle ne participait pas au régime. Le régime de son futur mari devait la couvrir.
+[27] Dennis Halisky a été informé de l'existence de la police et a refusé d'y participer. Sa femme bénéficiait d'un bon régime qui lui suffisait. Tammy Marrazzo avait également été informée de l'existence du régime. Elle était une employée temporaire, engagée pour une période très limitée. Elle n'était pas admissible au régime.
+[28] La période probatoire normale applicable au régime était de trois mois. Il y avait toutefois certaines exceptions. L'employé qui avait de l'expérience pouvait être immédiatement admissible. Celui qui était désigné comme employé temporaire n'avait pas droit aux prestations.
+[29] Linda Carstairs a été informée de l'existence du régime. Le régime ne l'intéressait pas. Son mari participait à un régime qui les couvrait tous deux. Mme Carstairs est maintenant contrôleure et directrice du bureau de la société.
+[30] Doug Munro a été mis au courant de l'existence du régime; le régime ne l'intéressait pas. Ray Van Twuyver a été informé de l'existence du régime, mais il a refusé d'y adhérer. Il était déjà couvert auprès de son ancien employeur (la Canada Bread Company).
+[31] Greg Smith et Ty Sanders ont également été informés de l'existence du régime. Ils avaient joint la société à un moment où il était question d'augmenter le montant de la garantie offerte par la Zurich Insurance Company. Ces employés n'ont jamais adhéré au régime de soins dentaires, mais ils ont joint le régime de la Zurich, qui a pris effet au mois de février 2001.
+[32] Selon la politique de la société, le fait qu'un employé refusait d'être couvert n'était pas irrémédiable. En effet, l'employé pouvait adhérer au régime par la suite s'il changeait d'idée.
+[33] On a référé le témoin à la pièce A-3, soit le régime d'assurance existant entre la société et La Maritime, compagnie d'assurance-vie. L'assuré était le témoin lui-même. La police avait pris effet le 12 août 1996. La pièce A-4 se rapportait à un autre régime auquel la société avait souscrit avec La Maritime, compagnie d'assurance-vie. L'assuré était Terrance O'Flynn. La police avait pris effet le 23 décembre 1999.
+[34] On a demandé au témoin pourquoi la société avait souscrit aux régimes d'assurance mentionnés dans les pièces A-3 et A-4; il a répondu qu'il s'agissait de régimes d'assurance-invalidité auxquels on avait adhéré en 1996 et que le montant de la garantie avait augmenté en 1999. La position prise par le témoin était qu'il voulait que la société soit protégée s'il devenait invalide et qu'il ne pouvait pas s'acquitter de ses fonctions. Dans cette éventualité, la police d'assurance fournirait à la société les fonds nécessaires pour embaucher un remplaçant.
+[35] On a demandé au témoin quels genres de problèmes étaient envisagés au point de vue de la gestion; il a répondu que le maintien des activités de l'entreprise, s'il tombait malade, posait un problème. Richard Stanton et lui-même étaient des [traduction] « chefs de file » dans leur domaine d'activité et il aurait fallu trouver quelqu'un d'autre pour accomplir leur travail. Le témoin s'occupait de l'aspect financier de l'entreprise ainsi que des principaux achats et des ventes à l'interne. Richard Stanton était [traduction] « celui qui s'occupait des ventes à l'extérieur » .
+[36] Ils avaient des entrevues en profondeur avec les employés éventuels, qui leur posaient des questions, à lui et à Richard Stanton, et il se chargeait ensuite des [traduction] « pratiques » . Il avait parfois des entrevues seul avec les travailleurs possibles. Il les mettait au fait de tout ce qui leur aurait été expliqué si Richard Stanton et lui-même avaient tous deux été présents.
+[37] Le régime de soins dentaires couvrait les employés et les membres de leurs familles. La société effectuait des versements mensuels à « Quik Card » ou à l'ADSC. Ils recouvraient des frais d'administration. Le témoin a ensuite dit qu'il ne connaissait pas trop la procédure.
+[38] Pendant le contre-interrogatoire, on a demandé au témoin ce qu'il disait aux employés éventuels au sujet du régime. Il leur disait qu'il y avait un régime de soins dentaires. Il donnait des explications plus ou moins détaillées selon l'employé ou selon les questions posées par l'employé. Si l'employé déclarait que le régime ne l'intéressait pas, on passait à autre chose. On a référé le témoin à l'employée Tammy Marrazzo. Le témoin a dit qu'il semblait initialement qu'elle serait une employée permanente.
+[39] Le témoin ne demandait pas aux employés éventuels pourquoi ils refusaient d'être couverts. Il a examiné la pièce R-3, le régime de soins dentaires. On l'a référé en particulier au paragraphe 26 qui stipulait que, lorsque les prestations prévues par le régime étaient accordées à un membre admissible dans le cadre d'un autre régime d'assurance - soins dentaires, les prestations prévues par cet autre régime étaient réputées être payables avant celles qui étaient offertes dans le cadre du régime de la société. Le montant payable dans le cadre du régime était limité; le montant total offert par tous le régimes ne devant pas excéder la totalité des frais admissibles.
+[40] Le témoin a confirmé qu'à sa connaissance, la société ne fournissait pas la liste des employés admissibles comme l'exigeait le paragraphe 10 du régime. Ils avaient de fait une liste de tous les employés, mais le témoin n'avait pas cette liste avec lui.
+[41] Après la période probatoire, aucune note de service n'était envoyée au sujet de l'adhésion au régime; il se peut qu'on n'en ait pas parlé plus à fond avec les employés éventuels. Aucun document n'était remis aux employés éventuels après leur engagement. Le témoin avait confié cette tâche à Linda après qu'elle eut été engagée, mais auparavant, c'était Richard Stanton et lui-même qui accomplissaient la plus grande partie du travail. Si quelqu'un décidait de joindre la société, cette dernière payait toute la prime en son nom.
+[42] Quant au régime d'assurance, la pièce A-4, il a été convenu que c'était le propriétaire qui exerçait un contrôle sur la police. Le bénéficiaire était désigné à titre de propriétaire ou encore c'était la succession du propriétaire qui était désignée. Le témoin a convenu que les prestations d'invalidité étaient imposables entre les mains de la personne assurée. Il était une personne assurée. En outre, il a convenu qu'en vertu du paragraphe 6.1, c'était le propriétaire qui exerçait le contrôle sur la police et que le propriétaire pouvait changer le nom du bénéficiaire. Si le nom était laissé en blanc, c'était le propriétaire qui était assuré.
+[43] Le témoin a convenu que le bénéficiaire désigné était sa conjointe. Pendant la période ici en cause, il n'y avait pas de formulaire se rapportant au changement de bénéficiaire. Après la modification, la société était le propriétaire et le bénéficiaire proposé.
+[44] Pendant le réinterrogatoire, le témoin a convenu que pendant la période ici en cause, il était la personne assurée, mais que la société devait être le bénéficiaire. Selon la pièce A-3, la conjointe du témoin était désignée comme bénéficiaire dans la demande. Letémoin ne savait pas pourquoi sa conjointe y était désignée. Ce n'est pas ce qui était prévu. Le témoin a convenu que le transfert de propriété avait eu lieu après la vérification qui avait donné lieu à la présente affaire.
+[45] Robert Joseph Frost a témoigné être planificateur financier agréé. Les appelants étaient tous ses clients. Il les rencontrait chaque année ou aux deux ou trois ans pour discuter d'assurance, de placements et de planification du flux de trésorerie. Il s'est reporté à la pièce A-3 et il a déclaré que Terrance O'Flynn était l'assuré, alors que la société était propriétaire de la police. Terrance O'Flynn aurait touché les prestations, aux termes de la pièce A-3, jusqu'à ce que les changements soient effectués. Cette police a pris effet en 1996. Terrance O'Flynn était propriétaire de la police et il était également l'assuré. Il s'agissait d'un régime de remplacement du revenu. La société n'avait pas d'intérêt dans la police avant l'année 2003.
+[46] Quant à la pièce A-4, datée du 29 octobre 1999, cette police prévoyait une assurance-invalidité supplémentaire. Il s'agissait d'une police accordant des prestations en cas d'accident ou de maladie. Terrance O'Flynn était bénéficiaire de la police. Lesdispositions étaient les mêmes que celles de la police dans laquelle Richard Stanton était l'assuré. Le témoin a convenu que les paiements étaient imposables entre les mains du bénéficiaire et que la société pouvait les déduire.
+[47] Ray Van Twuyver était expéditeur-réceptionnaire à la Canada Bread Company. Il avait travaillé pour la société en juin ou en juillet 2001 et il avait alors démissionné. Il a déclaré que, pendant l'entrevue, il avait été question de ses compétences, de l'offre de la société ainsi que du salaire et du programme d'avantages. Les avantages qui lui étaient accordés à la Canada Bread Company étaient supérieurs. Il était rémunéré à l'heure. Il a déclaré à la société qu'il n'adhérerait au programme d'avantages que lorsqu'il n'aurait plus droit aux avantages offerts à la Canada Bread Company.
+[48] Le témoin ne savait pas qui devait payer les primes. Il a continué à travailler pour la société pendant le reste de l'année et il a cessé d'avoir droit aux avantages offerts par la Canada Bread Company. Il a parlé à Terrance O'Flynn et à Richard Stanton au sujet de son adhésion à leur régime de prestations. Il a remis le formulaire à l'aide-comptable.
+[49] Pendant le contre-interrogatoire, le témoin a déclaré que le régime de la société offrait une couverture complète pour les soins dentaires et que les médicaments délivrés sur ordonnance étaient remboursés dans une proportion de 80 p. 100. Quant à l'hospitalisation, les frais pour une chambre privée étaient couverts au complet. Le témoin payait une partie des primes et la société payait le reste. Il ne savait pas que le régime de soins dentaires était entièrement à la charge de la société. Il a adhéré au régime en 2001 environ. Il a continué à effectuer au moins un poste pour la Canada Bread Company, jusqu'à ce qu'il quitte la société, et il est retourné travailler à la Canada Bread Company où il travaille encore.
+[50] Linda Carstairs a témoigné être contrôleure de la société. Elle a commencé à travailler pour la société au mois de janvier 1999. Elle s'est portée candidate à l'emploi. Le bureau ne comptait qu'une seule employée. Richard Stanton et Terrance O'Flynn ont eu une entrevue avec elle. Elle avait 17 années d'expérience de bureau en tout dans la même industrie. La société lui a offert un salaire, un ensemble d'avantages sociaux et un régime de soins dentaires. Elle n'en avait pas besoin. On lui a dit qu'elle pouvait adhérer au régime n'importe quand si elle le voulait. Elle n'en a jamais eu besoin. Les avantages n'avaient à ses yeux aucune importance. Elle croyait bien qu'elle pouvait à son gré adhérer au régime par la suite. Elle a convenu que le régime était basé sur l'usage et que la société obtiendrait un rabais sur le montant facturé si toutes les primes n'étaient pas utilisées. Elle recevait des états trimestriels.
+[51] Elle a identifié une carte d'inscription au régime de soins dentaires, la pièce A-5. Si un employé voulait adhérer au régime, elle remplissait ce formulaire. À l'heure actuelle, ce formulaire n'est plus utilisé. Ils ont adhéré à un régime offert par la Manuvie et le formulaire de demande y afférent est plus détaillé. La police a pris effet au mois de février 2001; elle s'appliquait aux médicaments délivrés sur ordonnance ainsi qu'à l'assurance-invalidité et à l'assurance-vie. Les employés étaient mis au courant du régime. Il s'agissait d'un régime obligatoire. Le témoin veillait à ce que tous les formulaires soient remplis. Elle remettait un formulaire à tous les employés, qui ont tous joints le régime sauf Dennis Halisky; elle n'avait pas la partie se rapportant aux médicaments délivrés sur ordonnance, qui était facultative. Toutefois, tous les employés devaient adhérer en partie au régime. C'était la société qui payait la prime. Le témoin n'a jamais remis de trousse au sujet du régime de soins dentaires.
+[52] Brenda Marie Salo était vérificatrice à l'Agence des douanes et du revenu du Canada (l' « ADRC » ). Elle était l'agente des oppositions qui avait été affectée à ces dossiers. Les deux questions qui se posaient concernaient les polices d'assurance et la question de savoir si les primes payées pour le régime de soins dentaires étaient des avantages pour les membres.
+[53] Elle a examiné la pièce R-1, la liste des employés et elle s'est demandé quels employés y participaient. Elle a fait remarquer que la société s'était engagée à fournir une liste mensuelle de membres. Le vérificateur a présenté un état des prestations accordées par le régime pour une période de quatre mois. Elle a également examiné le régime. Elle a ensuite dit que le vérificateur avait reçu un autre état pour une autre période de quatre mois. Le contribuable avait également remis une liste de quatre employés qui avaient décidé de ne pas adhérer au régime. Le témoin a dit que le régime s'appliquait aux dix premiers noms figurant sur la pièce R-1.
+[54] Elle n'a pas vu de lettre se rapportant à l'adhésion au régime. Elle a conclu que deux employés seulement participaient au régime et qu'il s'agissait de MM. O'Flynn et Stanton et de leurs familles. Il s'agissait d'un régime collectif établi en 1996. Elle n'a pas obtenu de réponse à la question de savoir pourquoi tous les employés sauf deux avaient décidé de ne pas participer au régime.
+[55] On l'a référée à la pièce A-1, qui était le régime de La Maritime, compagnie d'assuance-vie. La société avait présenté des réclamations pour deux personnes. Le vérificateur n'avait pas obtenu de copies des polices d'assurance et il avait donc refusé ces dépenses. Au stade des oppositions, on a dit à Mme Salo que la société était assurée pour les principaux employés. S'il arrivait quelque chose à ces employés, quelqu'un devrait les remplacer.
+[56] Le représentant a soumis des documents pour Terrance O'Flynn et pour Richard Stanton. Mme Salo a uniquement examiné la police de M. Stanton. Richard Stanton en était le propriétaire. C'était un type d'assurance-invalidité et les primes n'étaient pas déductibles. Aucune explication ne lui a été donnée à l'égard de ces régimes. Elle a examiné une police d'assurance-invalidité, la pièce A-2. C'était un actionnaire plutôt qu'un employé qui avait souscrit à cette police. La police prévoyait l'octroi de prestations d'invalidité. Cette dépense n'était pas déductible étant donné qu'il s'agissait de frais personnels. Elle a également examiné les pièces A-3 et A-4.
+[57] Pendant le contre-interrogatoire, Mme Salo a dit qu'elle avait conclu qu'en fin de compte, il ne s'agissait pas d'avantages accordés à des actionnaires.
+[58] À la fin de la présentation de la preuve, on a accordé du temps aux parties pour leur permettre d'examiner l'affaire; elles sont parvenues à une entente au sujet de la question des polices d'assurance et des actionnaires. Elles ont convenu que pour l'année 2002, en ce qui concerne les polices 978020, 951020, 978022, 951021, 978021, 978823, 2251879, 951022, 225188 et 951023, le montant total refusé à la société appelante aurait dû être de 726,36 $. Quant à l'année 2001, en ce qui concerne les mêmes polices, les parties ont convenu que le montant total refusé aux contribuables devait s'élever à 2 905,44 $.
+[59] Il restait donc la question des frais liés aux soins dentaires.
+Les arguments invoqués pour le compte des appelants
+[60] Dans la décision Spicy Sports Inc. c. Canada, [2004] A.C.I. no 333, le juge McArthur a conclu que les primes payées par la société pour les soins dentaires n'étaient pas déductibles parce qu'elles avaient uniquement été payées compte tenu du fait que le bénéficiaire était un actionnaire plutôt qu'un employé. Il est possible de faire une distinction entre cette affaire et la présente espèce parce que, dans ce cas-ci, les paiements ont été effectués au nom de l'employé.
+[61] En l'espèce, la preuve montre clairement que les avantages étaient offerts à toute personne qui était un employé. Ce n'était pas un régime étoffé. Les employés ont témoigné qu'ils avaient tous droit aux avantages. Dans tous les cas où un employé éventuel décidait de ne pas joindre le régime, il y avait une raison valable de ne pas le joindre. En effet, certains employés participaient à un autre régime et certains refusaient d'adhérer au régime pour des raisons personnelles. Toutefois, ils pouvaient changer d'idée par la suite. Ledernier régime était en partie obligatoire. La preuve est claire et cohérente sur ce point.
+[62] Comme le montre la pièce R-3, au paragraphe 26, il n'y avait pas de complément. Le montant total offert au titre de l'ensemble des couvertures ne pouvait pas excéder la totalité des frais admissibles. Les prestations prévues aux termes de l'autre régime devaient être payables avant que les prestations prévues par le régime de la société puissent s'appliquer. Les avantages prévus par la police étaient au départ offerts à tous les employés, qui étaient informés qu'ils pouvaient adhérer par la suite au régime en leur qualité d'employés s'ils le voulaient. Dans ce cas-ci, les appelants ne bénéficiaient d'aucun avantage spécial.
+[63] Les appels devraient être admis; les avantages ne devraient pas être imposables entre les mains des appelants, Terrance O'Flynn et Richard Stanton, et la société appelante devrait pouvoir les déduire.
+[64] Quant à la question des dépens, l'avocat a fait valoir qu'il avait en bonne partie eu gain de cause et que les dépens devraient donc lui être accordés.
+Les arguments invoqués pour le compte de l'intimée
+[65] L'avocate de l'intimée a fait valoir que les dirigeants de la société et leurs familles étaient les seuls pouvant bénéficier de ce régime de soins dentaires pendant toute la période ici en cause. Les autres n'avaient pas travaillé suffisamment longtemps ou avaient décidé de ne pas adhérer au régime. Étant donné que la société n'avait pas clairement expliqué le régime aux employés éventuels, on peut se demander si le régime était réellement mis à la disposition de tous les employés. De plus, il était possible de compléter le régime, étant donné qu'en vertu du paragraphe 26, une couverture à 100 p. 100 était prévue. En outre, la société n'avait pas donné de détails aux employés éventuels.
+[66] L'appelante aurait pu produire un plus grand nombre d'éléments de preuve au sujet de la communication aux employés. Par conséquent, en pratique, les avantages offerts par la police étaient uniquement mis à la disposition de Richard Stanton, de Terrance O'Flynn et de leurs familles. Aux termes des dispositions de l'alinéa 6(1)a), ces dépenses n'étaient pas admissibles à titre de déductions.
+[67] Pour être déductibles, les paiements doivent avoir été effectués à des fins commerciales. Il faut se poser la question suivante : « Quel était la fin commerciale dans ce cas-ci? » L'avocate était prête à admettre que la fin avouée, à savoir attirer d'autres employés mieux qualifiés au sein de la société, aurait pu constituer une fin commerciale. Toutefois, compte tenu de l'omission de la société de faire mieux connaître les avantages aux employés éventuels, ces dépenses n'étaient pas engagées à des fins commerciales.
+[68] L'avocate a indiqué le paragraphe 10 de la décision Préfontaine c. Canada, [2001] A.C.I. no 94, à l'appui de sa position. Conformément à cette conclusion, l'avocate a déclaré qu'étant donné que les dépenses se rapportent aux dispositions de l'alinéa 18(1)a) de la Loi, l'appelante n'a pas démontré l'existence d'une fin commerciale et que le ministre a eu raison de ne pas admettre ces dépenses à titre de déductions. Dans la décision Préfontaine, précitée, le juge McArthur a dit ce qui suit au paragraphe 10 :
+Pour que le coût de l'assurance constitue une dépense d'affaire déductible, il doit exister un lien raisonnable et factuel entre l'exploitation de l'entreprise et le paiement des primes. Ces montants n'étaient pas versés au profit de l'entreprise mais à celui des ayant droit. L'argent n'était pas dépensé en vue de produire un revenu. Le lien entre les bénéfices tirés par l'appelante ou son conjoint et les coûts de l'assurance est beaucoup trop ténu. Ces primes ne sont pas déductibles.
+[69] En outre, l'avocate a affirmé que le paragraphe 56(2) s'appliquait en l'espèce ainsi que les dispositions du paragraphe 15(1) de la Loi. Elle a fait valoir que la société était contrôlée par MM. Stanton ainsi que O'Flynn ainsi que par leurs conjointes. Ils étaient les seuls à bénéficier de ces paiements.
+[70] L'avocate a également mentionné la décision Peddlev. R., 2004 CarswellNat 729, 2004 CCI 226, 2004 DTC 2459, [2004] 2 C.T.C. 3111, en particulier le paragraphe 33, où la juge Campbell, en se reportant à la décision rendue par le juge Cattanach dans l'affaire Fraser Cos. v. R. (1981), 81 DTC 5051 (C.F. 1re inst.), énonce les quatre conditions suivantes qui doivent être remplies pour que le paragraphe 56(2) s'applique :
+1. il doit y avoir un paiement ou transfert de biens à une personne autre que le contribuable;
+2. le paiement ou transfert est fait suivant ou avec l'accord du contribuable;
+3. le paiement ou transfert doit être fait au profit du contribuable lui-même ou à titre d'avantage que le contribuable désirait voir accorder à l'autre personne; et
+4. le paiement ou transfert aurait été inclus dans le calcul du revenu du contribuable s'il avait été fait à lui-même plutôt qu'à l'autre personne.
+L'avocate a soutenu qu'il est satisfait aux quatre critères en l'espèce.
+[71] Cette disposition nous permet d'examiner soigneusement l'effet des sociétés de portefeuille. Les appelants ne détenaient pas d'actions dans la société, mais ils la contrôlaient néanmoins, par l'entremise de la société de portefeuille, de la même façon que s'ils avaient été actionnaires.
+[72] L'appelante a mentionné qu'en théorie, le régime était mis à la disposition des autres employés et de toutes les personnes susceptibles de devenir des employés, mais ses actions indiquent le contraire. Or, les actes sont plus éloquents que les mots.
+[73] Le ministre a eu raison de refuser la déduction des dépenses aux termes des dispositions de l'alinéa 18(1)a) et il a eu raison d'établir une cotisation à l'égard d'un avantage en application du paragraphe 15(1), parce que les appelants étaient les seuls qui, en fait, bénéficiaient du régime.
+[74] L'avocat de l'appelante a répliqué que l'on pouvait mener le cheval à l'eau, mais qu'on ne pouvait pas l'obliger à boire, en parlant du fait que les avantages offerts par le régime de soins dentaires étaient mis à la disposition de tous les employés éventuels qui voulaient en tirer parti. On ne saurait blâmer la société s'ils ont décidé de refuser de participer au régime.
+[75] En ce qui concerne la position de l'intimée selon laquelle les appelants avaient tenté de cacher à leurs employés éventuels les avantages qu'offrait le régime parce qu'ils ne voulaient pas que ceux-ci sachent ce à quoi ils avaient droit, l'avocat a convenu que l'on n'avait pas promu le régime autant qu'on aurait pu le faire, mais il se demandait ce que la société aurait pu faire d'autre. Il aurait été déraisonnable de demander à la société d'en faire plus. Deux personnes ont témoigné que les avantages offerts par la police étaient mis à la disposition de toutes les personnes qui voulaient s'en prévaloir.
+[76] En ce qui concerne le critère relatif à la fin commerciale, l'avocat a déclaré que les dépenses qui étaient engagées afin d'attirer des employés qualifiés au sein de la société étaient des dépenses qui étaient engagées à des fins commerciales. La décision Préfontaine, précitée, n'est pas pertinente, compte tenu des faits de l'espèce. Dans cette affaire-là, une assurance-vie était en cause et sa déductibilité était régie par une autre disposition de la loi.
+[77] En l'espèce, l'inclusion dans le revenu du montant payé est une question distincte. Cette question est régie par les dispositions du sous-alinéa 6(1)a)(i), selon lequel la dépense qui est engagée conformément à ces dispositions ne peut pas être incluse dans le revenu. Compte tenu de la situation factuelle qui existe en l'espèce, les montants en question ne peuvent pas être inclus dans le revenu aux termes de cette disposition.
+[78] Si, dans ce cas-ci, cet avantage était offert aux appelants en leur qualité d'employés, il ne pouvait pas être inclus dans le revenu à titre d'avantage aux termes du paragraphe 56(2) et cet avantage est déductible entre les mains de la société aux termes des dispositions du sous-alinéa 6(1)a)(i) de la Loi.
+Analyse et décision
+[79] Quant aux autres questions, la Cour est convaincue que les appels doivent être admis. La Cour retient les arguments de l'avocat des appelants, à savoir que les dépenses ont été engagées par la société pour le compte d'employés individuels en leur qualité d'employés de la société. La Cour est convaincue que ces paiements sont visés par les dispositions du sous-alinéa 6(1)a)(i) de la Loi et elle est convaincue qu'ils étaient des cotisations effectuées par l'employeur du contribuable dans le cadre d'un régime d'assurance collective contre la maladie ou les accidents ou dans le cadre d'un régime privé d'assurance-maladie et que, partant, il ne s'agit pas d'un avantage entre les mains des contribuables appelants tel qu'il est envisagé dans les dispositions en question. Par conséquent, ces paiements n'ont pas à être inclus dans le revenu des appelants Terrance O'Flynn et Richard Stanton.
+[80] La Cour ne retient pas l'argument de l'avocate de l'intimée, à savoir que ces avantages n'étaient pas offerts à chaque employé qui voulait se prévaloir du régime. Le fait que, pour une raison ou une autre, presque tous les employés ont décidé de ne pas participer au régime ne veut pas pour autant dire que le régime n'était pas mis à la disposition de tous les employés. Le témoignage des témoins montre d'une façon tout à fait claire que toutes les personnes qui devenaient des employées de la société et qui voulaient se prévaloir du régime y étaient admissibles.
+[81] En outre, la Cour est convaincue qu'elle ne doit pas retenir l'argument de l'avocate de l'intimée, lorsque cette dernière affirme que, d'une certaine façon, la société n'a pas suffisamment promu le régime ou que, d'une certaine façon, elle a tenté de cacher ces avantages à tous les employés sauf aux familles des deux appelants et, par conséquent, que les avantages n'étaient pas offerts à tous les employés.
+[82] La preuve n'étaye tout simplement pas cet argument, au contraire. Il n'est pas difficile pour la Cour de retenir le témoignage des témoins, à savoir que ce régime était offert à tous ceux qui voulaient en tirer parti lorsqu'ils devenaient admissibles. Le simple fait qu'un grand nombre d'employés ne voulaient pas s'en prévaloir n'a aucune incidence négative sur la société ou sur les deux autres appelants en l'espèce.
+[83] En outre, la Cour est convaincue que la société ainsi que MM. Stanton et O'Flynn n'auraient pas pu, ou n'auraient pas dû, en faire plus pour informer les employés éventuels des avantages possibles qu'offrait l'adhésion à ce régime.
+[84] Quant au second volet de la question, à savoir le droit de la société de déduire ces dépenses, il s'agit uniquement de savoir si la dépense a été engagée en vue de tirer un revenu d'une entreprise ou d'un bien aux termes des dispositions de l'alinéa 6(1)a) de la Loi. La réponse dépend de la question de savoir si la Cour est convaincue que seuls les actionnaires appelants et leurs familles pouvaient tirer parti de cette dépense ou de la question de savoir si tous les employés pouvaient se prévaloir de ces avantages une fois qu'ils devenaient admissibles. La Cour a déjà répondu à cette question; elle conclut que les avantages étaient offerts à tous les employés, et non uniquement à ces deux actionnaires appelants et à leurs familles, et que les dépenses ont de prime abord été engagées à des fins commerciales fort valables, à savoir attirer des employés qualifiés au sein de la société. Letémoignage des deux actionnaires qui ont déposé devant la Cour, lequel n'a aucunement été contesté, appuie sans équivoque cette position. La Cour retient le témoignage de ces témoins tel qu'il a été rendu.
+[85] En fin de compte, la société peut déduire les dépenses en vertu des dispositions de l'alinéa 6(1)a) de la Loi.
+[86] Les appels sont admis et les affaires sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation pour le motif que la Cour conclut qu'en ce qui concerne la question de l'assurance, au cours de l'année 2000, le montant total refusé à la société devrait s'élever à 726,36 $ à l'égard des polices 978020, 951020, 978022, 951021, 978021, 978023, 2251879, 951022, 2251888 et 951023.
+[87] En ce qui concerne ces polices, au cours de l'année 2001, les montants qui doivent être refusés à la société contribuable devraient s'élever à 2 905,44 $.
+[88] En outre, les appels sont admis et l'affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que la Cour a conclu qu'en ce qui concerne les primes payables pour le régime de soins dentaires, la société a le droit de déduire ces paiements en vertu de l'alinéa 18(1)a) de la Loi.
+[89] Quant à l'appelant Terrance O'Flynn, les montants de 2 025 $, de 2 700 $ et de 675 $, au cours des années d'imposition 1999, 2000 et 2001, ne pouvaient pas être inclus dans le revenu aux termes des paragraphes 15(1) et 56(2) de la Loi.
+[90] En ce qui concerne l'appelant Richard Stanton, les montants de 2 025,00 $, de 2 700,00 $ et de 675,00 $ respectivement pour les années 1999, 2000 et 2001 ne pouvaient pas être inclus dans le revenu de l'appelant.
+[91] Étant donné que les appelants ont en bonne partie eu gain de cause dans ces appels, ils auront droit aux dépens, lesquels seront taxés entre parties dans un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 1er jour d'avril 2005.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+Ce 8e jour de mars 2006.
+Christian Laroche, LL.B.
+RÉFÉRENCE :
+2005CCI230
+Nos DES DOSSIERS DE LA COUR :
+2004-2977(IT)I, 2004-2979(IT)I et 2004-2980(IT)I
+INTITULÉ :
+Terrance O'Flynn c. La Reine
+Richard Stanton c. La Reine
+Prism Flow Products Inc. c. La Reine
+LIEU DE L'AUDIENCE :
+Edmonton (Alberta)
+DATE DE L'AUDIENCE :
+Le 7 février 2005
+MOTIF DU JUGEMENT :
+L'honorable juge T. E. Margeson
+DATE DU JUGEMENT :
+Le 1er avril 2005
+COMPARUTIONS :
+Avocat de l'appelant :
+Me James C. Yaskowich
+Avocate de l'intimée :
+Me Leslie Akst
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+James C. Yaskowich
+Cabinet :
+Felesky Flynn
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

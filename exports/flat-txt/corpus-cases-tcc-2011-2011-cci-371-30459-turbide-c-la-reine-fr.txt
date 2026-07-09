@@ -1,0 +1,285 @@
+Title: Turbide c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30459/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-371-30459-turbide-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-07-27
+
+# Turbide c. La Reine
+
+- Citation: 2011 CCI 371
+- Decision date: 2011-07-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7928, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Turbide c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-07-27
+Référence neutre
+2011 CCI 371
+Numéro de dossier
+2007-2652(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-2652(IT)G
+ENTRE :
+SERGE TURBIDE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 5 et 6 mars 2009, à Montréal (Québec).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Avocat de l’appelant :
+Me Pierre Archambault
+Avocat de l’intimée :
+Me Dany Leduc
+____________________________________________________________________
+JUGEMENT
+Selon les motifs du jugement ci-joint, l’appel des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2001, 2002 et 2003 est accueilli, avec frais selon le tarif B de l’annexe II des Règles de la Cour canadienne de l’impôt (procédure générale), et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations, en tenant pour acquis que les pertes agricoles que l’appelant peut déduire de ses autres revenus ne sont pas limitées par l’article 31 de la Loi de l’impôt sur le revenu.
+Signé à Ottawa (Ontario), ce 27e jour de juillet 2011.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2011 CCI 371
+Date : 20110727
+Dossier : 2007-2652(IT)G
+ENTRE :
+SERGE TURBIDE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction
+[1] L’appelant appelle des cotisations pour les années d’imposition 2001, 2002 et 2003, années pour lesquelles il a demandé une déduction pour pertes agricoles.
+[2] Le ministre du Revenu national (ministre) a établi des cotisations en vertu de l’article 31 de la Loi de l’impôt sur le revenu (LIR) et a restreint le montant des pertes que l’appelant pouvait déduire de ses autres revenus.
+[3] L’appelant travaille dans le domaine de la construction pour le compte de la société « Les Entreprises Fondatechnique inc. » (Fondatechnique) dont il détenait 98 % du capital-actions.
+[4] L’appelant avait également une activité de course de chevaux et il est admis qu’il s’agit d’une entreprise. Toutefois, tout en admettant qu’il est question d’une entreprise, l’intimée prétend qu’il y a un élément personnel.
+[5] Les parties conviennent également qu’il s’agit d’une entreprise agricole.
+[6] En conséquence, la seule question en litige est de savoir si l’article 31 de la LIR s’applique et limite le montant des pertes agricoles qui peuvent être déduites des autres revenus ou si l’appelant peut déduire le montant total des pertes agricoles. Il n’y a pas de débat quant au quantum.
+[7] La portion pertinente de l’article 31 est :
+31(1) Lorsque le revenu d’un contribuable, pour une année d’imposition, ne provient principalement ni de l’agriculture ni d’une combinaison de l’agriculture et de quelque autre source, pour l’application des articles 3 et 111, ses pertes pour l'année, provenant de toutes les entreprises agricoles exploitées par lui, sont réputées être le total des montants suivants : […]
+[8] Comme nous verrons ci-dessous, le revenu principal de l’appelant ne provenait pas principalement de l’agriculture. En conséquence, l’article 31 ne s’appliquera pas si la preuve révèle ceci : le revenu du contribuable provient principalement d’une combinaison de l’agriculture et de quelque autre source.
+[9] Pour les motifs qui suivent, j’ai conclu que l’article 31 ne s’applique pas.
+Le droit applicable[1]
+[10] L’article 31 de la LIR est controversé. Il y a une abondante jurisprudence à son sujet, jurisprudence qui a vu une certaine évolution récemment. Dans la décision Moldowan c. La Reine[2], la Cour suprême du Canada a établi les principes de base pour l’application de l’article 31. Subséquemment, les principes ont évolué dans la décision Gunn c. Canada[3] de la Cour d’appel fédérale. Le juge Hershfield de la Cour canadienne de l’impôt a fait une analyse approfondie de la situation dans Craig c. La Reine[4], décision entérinée par la Cour d’appel fédérale[5].
+[11] L’analyse du juge Hershfield se retrouve aux paragraphes 41 à 72 de Craig, dont une partie est reproduite :
+La classification des agriculteurs selon la jurisprudence Moldowan
+49 Il est utile de réitérer en détail les principes directeurs de la jurisprudence Moldowan, consacrant trois catégories d’agriculteurs :
+i) l’agriculteur de la première catégorie est, de nos jours, celui qui satisfait au critère de la jurisprudence Stewart quant au revenu tiré d’une entreprise et qui a satisfait aux critères additionnels établis dans le cas des agriculteurs qui peuvent déduire leurs pertes agricoles sans restriction aucune. Il s’agit de l’agriculteur « [...] qui peut raisonnablement s’attendre à tirer de l’agriculture la plus grande partie de son revenu ou à ce que ce soit le centre de son travail habituel ». [Non souligné dans l’original.] Il considère l’agriculture comme son gagne-pain même s’il y a des années où il subit des pertes;
+ii) l’agriculteur de la deuxième catégorie est celui qui satisfait au critère de la jurisprudence Stewart, mais qui n’a pas satisfait aux critères additionnels de la première catégorie;
+iii) selon la jurisprudence Moldowan, l’agriculteur de la deuxième catégorie est « le contribuable qui ne considère pas l’agriculture, ou l’agriculture et une source secondaire de revenu, comme son gagne‑pain mais pour qui l’exploitation d’une ferme est une entreprise secondaire ». Dans cette observation, la seconde source est qualifiée de « secondaire » même si, au point de vue quantitatif, ce doit être la source la plus élevée de revenu. Si l’agriculture est simplement une activité secondaire, l’autre source, par rapport à l’agriculture, n’est pas une activité « secondaire » (source de revenu) et ne peut pas être utilisée aux fins du critère de la combinaison en vue de soutenir l’entreprise agricole secondaire, de façon qu’elle soit l’une des deux sources qui, ensemble, constituent une source principale de revenu;
+iv) on a interprété la chose comme voulant dire qu’une seule de deux sources peut être prédominante et qu’afin d’éviter l’application de la restriction prévue à l’article 31, cette source doit être l’agriculture. Il faut bien comprendre qu’on ne saurait établir une telle prédominance simplement à partir de montants en argent, mais c’est cette application du critère de la combinaison qui aurait pour effet de le rendre stérile, s’il était appliqué strictement;
+v) l’agriculteur de la troisième catégorie ne satisfait pas au critère de la jurisprudence Stewart et, selon l’enseignement de la jurisprudence Moldowan, il se voit refuser toutes les pertes.
+50 Ce qui est important dans ce rappel des catégories d’agriculteurs consacrées par la jurisprudence Moldowan, c’est que l’on reconnaît les limites du critère de la combinaison s’il est utilisé afin de permettre l’utilisation d’une source rentable afin de soutenir une source agricole non rentable, de façon à l’ajouter au groupe déjà identifié des agriculteurs de la première catégorie. Cela est restrictif et indique, semble-t-il, quoique pas très clairement, que l’agriculture doit être la principale source de revenu, même selon le critère de la combinaison.
+L’approche préconisée par la jurisprudence Gunn
+51 Afin d’établir si l’activité agricole doit faire partie de la formule de la combinaison, l’arrêt Gunn nous enseigne, au paragraphe 83, qu’il faut tenir compte du fait que :
+[…] la question de la combinaison doit être interprétée de manière à n’exiger qu’un examen de l’effet cumulatif du total du capital investi dans l’agriculture et dans une deuxième source de revenu, du total du revenu tiré de l’agriculture et d’une deuxième source de revenu, et du total du temps consacré à l’agriculture et à la seconde source de revenu, compte tenu du mode de vie ordinaire du contribuable, de son expérience de l’agriculture, enfin de ses intentions et de ses attentes. [...]
+52 Selon mon interprétation de cette observation concernant le critère de la combinaison, il faut que les facteurs concernant la principale source qui sont pris en compte à l’égard de l’agriculture, et notamment la rentabilité future, soient examinés par rapport aux facteurs concernant la principale source qui sont pris en compte à l’égard de la seconde source incluse dans la combinaison, ce qui est compatible avec la jurisprudence Moldowan, laquelle préconise une évaluation de la rentabilité en termes relatifs.
+53 Le défi, selon l’arrêt Gunn, consiste à évaluer jusqu’à quel point la contribution apportée par l’agriculture en tant que source doit être prise en compte dans la formule de l’adjonction des revenus. D’autres jurisprudences enseignent que la contribution n’a pas à être importante sur le plan quantitatif (voir les décisions Taylor c. Canada et Kroeker). Toutefois, à mon avis, l’arrêt Gunn enseigne que l’agriculture doit contribuer d’une façon appréciable à la formule de l’adjonction, de façon à indiquer qu’elle est une source principale ou qu’elle peut le devenir.
+L’interprétation de l’arrêt Gunn par opposition à l’interprétation de l’arrêt Moldowan
+54 Vu ma lecture de l’arrêt Gunn, il est clair à mon avis que, selon le critère de la combinaison, il n’est jamais nécessaire d’établir que l’agriculture assure la plus grande partie du revenu du contribuable ou même qu’elle doit être l’entreprise ou l’activité professionnelle prédominante du contribuable. Comme il a été reconnu dans l’arrêt Gunn, le critère applicable est plus libéral que ce qu’enseigne l’arrêt Moldowan, à savoir que l’agriculture doit être la principale source de revenu, et ce, même selon le critère de la combinaison. Notre Cour, en reconnaissant que les critères établis dans ces arrêts-là sont différents, s’est déjà exprimée de manière contradictoire au sujet de l’autorité dont jouit l’arrêt Gunn vu l’arrêt Moldowan.
+55 Néanmoins, les facteurs pris en compte dans l’arrêt Gunn font également partie de l’analyse effectuée dans l’arrêt Moldowan. À la page 4, le juge Dickson (tel était alors son titre) a fait l’observation suivante :
+[…] Ce qui distingue la principale « source » de revenu du contribuable, c’est l’expectative raisonnable de revenu en provenance des diverses sources, ainsi que ses habitudes et sa façon coutumière de travailler. On peut analyser ces éléments, notamment à l’égard de chaque source de revenu, en examinant le temps consacré à celle-ci, les capitaux engagés et la rentabilité présente et future. [...]
+56 Les critères ou facteurs servant à identifier une source principale dans l'arrêt Moldowan, et notamment, mais non exclusivement, la rentabilité, ne sont pas très différents de ceux qui ont été utilisés dans l’arrêt Gunn pour énoncer la formule de l’adjonction des revenus. Dans les deux cas, le temps consacré, les capitaux engagés, la rentabilité future ainsi que les habitudes et la façon coutumière de travailler du contribuable sont les critères permettant de déterminer si l’agriculture constitue plus qu’une entreprise secondaire.
+57 Si la comparaison des deux arrêts s’arrêtait là, il serait possible de conclure qu’il n’y a pas conflit entre l’arrêt Gunn et l’arrêt Moldowan. Toutefois, comme cela a été signalé, la comparaison ne s’arrête pas là. Contrairement à l’arrêt Moldowan, l’arrêt Gunn enseigne que l’activité qui soutient le revenu agricole n’a pas à être subordonnée à l’agriculture, et qu’il suffit que l’activité agricole, par rapport à l’autre source, apporte une contribution pertinente ou une contribution valable à la formule de l’adjonction des revenus, évaluée à l’aide des critères établis dans l’arrêt Moldowan.
+[…]
+72 Je suis d’avis que le critère à suivre est donc le suivant : le mode d’exploitation du contribuable comporte-t-il dans une mesure suffisante un engagement, un degré de commercialité et des possibilités de profit pour être reconnu comme une principale source, selon les critères consacrés par l’arrêt Moldowan quant à l’engagement et à la rentabilité? L’examen du temps consacré, des capitaux investis et d’une possibilité réelle de profit par suite de la recherche de la rentabilité devrait facilement permettre de déterminer s’il est possible de considérer le contribuable comme un agent commercial engagé ayant des chances raisonnables de succès dans un secteur véritable de l’économie. Un tel critère n’aura pas pour effet de mettre dans une situation privilégiée les personnes pour qui l’agriculture est un divertissement.
+[Notes de bas de pages omises.]
+[12] Vu la décision de la Cour canadienne de l’impôt et de la Cour d’appel fédérale dans Craig, ainsi que la décision de la Cour d’appel dans Gunn[6], les principes applicables sont résumés au paragraphe 83 de la décision de la juge Sharlow dans Gunn :
+83 […] la question de la combinaison doit être interprétée de manière à n’exiger qu’un examen de l’effet cumulatif du total du capital investi dans l’agriculture et dans une deuxième source de revenu, du total du revenu tiré de l’agriculture et d’une deuxième source de revenu, et du total du temps consacré à l’agriculture et à la seconde source de revenu, compte tenu du mode de vie ordinaire du contribuable, de son expérience de l’agriculture, enfin de ses intentions et de ses attentes. On évitera ainsi d’appliquer le critère jurisprudentiel selon lequel l’agriculture doit être l’élément prédominant de la combinaison de l’agriculture et de la seconde source de revenu, un critère qui à mon avis a été mis à mal par la jurisprudence ultérieure. Il y aurait une réponse positive à la question de la combinaison si, par exemple, le contribuable a investi une somme appréciable dans une entreprise agricole, s’il consacre la quasi‑totalité de son temps de travail à la fois à l’agriculture et à l’autre activité principale lucrative, et si ses activités quotidiennes combinent l’agriculture et l’autre activité lucrative, le temps consacré à chacune étant important.
+Les faits
+[13] L’appelant a témoigné ainsi que Maximilien Bradette, entraîneur de chevaux de course, et René Dufour, vérificateur à l’Agence du revenu du Canada.
+[14] Les parties sont d’accord que le total des montants investis cumulativement[7] par l’appelant est :
+Années
+Entreprise de chevaux de course
+Fondatechnique
+2001
+4 202 $
+10 000 $
+2002
+106 600 $
+10 000 $
+2003
+237 069 $
+10 000 $
+[15] De 1994 à 2003, l’appelant a reçu les salaires, les dividendes de Fondatechnique ainsi que les revenus bruts et nets de l’entreprise de chevaux de course tels qu’ils sont énumérés dans le tableau suivant[8] :
+Années
+Fondatechnique
+Entreprise de chevaux de course
+Revenus d’emploi
+Dividendes non majorés
+Revenus bruts
+Revenus nets
+1994
+49 547 $
+―
+―
+―
+1995
+2 900 $
+20 000 $
+―
+―
+1996
+28 000 $
+20 000 $
+―
+―
+1997
+61 819 $
+40 000 $
+―
+―
+1998
+83 890 $
+25 000 $
+―
+(3 482 $)
+1999
+62 400 $
+―
+3 094 $
+(3 801 $)
+2000
+61 200 $
+22 725 $
+69 361 $
+(12 747 $)
+2001
+39 600 $
+68 600 $
+193 166 $
+(4 202 $)
+2002
+63 600 $
+15 000 $
+301 063 $
+(102 397 $)
+2003
+62 400 $
+―
+206 792 $
+(130 469 $)
+[16] L’entreprise de course de chevaux a commencé en 1998.
+[17] En 2002, Fondatechnique avait des revenus bruts d’environ 804 000 $ et des frais d’exploitation d’environ 650 000 $, ce qui donne une différence d’environ 150 000 $. En 2003, les revenus bruts étaient de 840 000 $, les frais d’exploitation d’environ 675 000 $, ce qui donne une différence d’environ 165 000 $[9].
+[18] Le tableau[10] ci-dessous révèle la répartition des revenus de l’entreprise de chevaux de course ainsi que le montant des achats de chevaux :
+Entreprise de chevaux de course
+2001
+2002
+2003
+Revenus autres que ventes
+58 741 $
+169 500 $
+137 427 $
+Ventes
+134 425 $
+131 562 $
+69 364 $
+Achats de chevaux
+175 000 $
+273 687 $
+179 822 $
+[19] Les chiffres d’affaires de Fondatechnique étaient de :
+Année
+Chiffre d’affaires
+2000
+580 070 $
+2001
+711 350 $
+2002
+804 505 $
+2003
+853 899 $
+Subséquemment, le chiffre d’affaires a dépassé 1 000 000 $[11].
+[20] Fondatechnique exploite un commerce de pose de drains et de travaux d’imperméabilisation et d’étanchéité des immeubles. La compagnie reçoit également des revenus provenant de la pose de planchers de garage[12].
+[21] L’appelant travaille dans le domaine des drains et de l’imperméabilisation depuis le début des années 80.
+[22] Comme les chiffres susmentionnés l’indiquent, la compagnie Fondatechnique a connu beaucoup de succès.
+[23] Le beau-frère de l’appelant possédait plusieurs chevaux de course et c’est par l’entremise de son beau-frère que l’appelant a commencé à s’intéresser aux chevaux de course.
+[24] L’appelant a commencé son activité agricole avec l’achat d’un cheval conjointement avec son beau-frère en 1998.
+[25] En 2000/2001, l’appelant a commencé à investir des montants importants dans les chevaux de course.
+[26] La preuve est un peu vague quant au nombre de chevaux que possédait l’appelant, car ce nombre pouvait varier non seulement d’année en année, mais également au cours de l’année. De plus, il était copropriétaire de certains chevaux.
+[27] Selon l’appelant, à un certain moment donné il avait jusqu’à 15 chevaux. Dans une réponse à l’interrogatoire par questions écrites, l’appelant a répondu qu’il possédait 11 chevaux en 2002-2001, 12 chevaux en 2001-2002 et 8 chevaux en 2002-2003. Il n’a pas précisé si ces chiffres représentaient le minimum, le maximum ou une moyenne pour l’année.[13]
+[28] Néanmoins, l’appelant possédait plusieurs chevaux et selon M. Bradette, l’appelant était connu, à un certain moment donné, comme étant l’un des 5 ou 6 plus importants propriétaires de chevaux à Montréal.[14]
+[29] Au cours de la période en question, et après, l’appelant a engagé M. Bradette comme entraîneur pour ses chevaux.
+[30] M. Bradette a une longue expérience dans l’industrie des chevaux. Au cours de sa carrière, il a fait à peu près tout dans cette industrie. Entre autres, il fut propriétaire ainsi que conducteur. Pendant un certain temps, il fut directeur de l’Association Trot et Amble du Québec.
+[31] Les fonctions que M. Bradette exerçait dans le cadre de son travail pour l’appelant comprenaient l’entraînement des chevaux, leur mise en forme, en plus de veiller à leur condition physique, aux soins vétérinaires, à leur alimentation et à leurs déplacements.
+[32] M. Bradette a engagé d’autres personnes pour accomplir une partie des tâches. Comme entraîneur, il fournissait ses services à d’autres clients en plus de l’appelant.
+[33] L’appelant a acquis ses connaissances dans le domaine des chevaux et des courses de chevaux en discutant avec son beau-frère, avec M. Bradette et avec d’autres personnes. Il a également fait de la recherche, notamment, de sources disponibles électroniquement. L’appelant prenait les décisions majeures en consultation avec M. Bradette (par exemple, achat de chevaux, choix de conducteur).
+[34] Les faits les plus contestés dans la preuve sont les faits relatifs à l’utilisation du temps de l’appelant entre le temps dévoué à Fondatechnique et celui dévoué à l’entreprise de chevaux de course.
+[35] M. Bradette a témoigné que l’appelant passait environ 50 heures par semaine à travailler dans son entreprise de chevaux de course y compris le travail que l’appelant faisait à la maison.[15]
+[36] L’appelant a estimé son temps consacré aux chevaux de course le matin du procès[16], y compris le temps pour assister aux courses, les déplacements pour les courses à l’extérieur de Montréal ainsi que les heures passées à travailler à partir de la maison. Il a estimé en moyenne travailler environ 47.5 heures par semaine, sur une base annuelle[17]. L’hiver, il consacre un peu plus de temps aux chevaux qu’en été.
+[37] À l’audition, il a estimé qu’il travaillait 40 heures par semaine pour Fondatechnique, sauf en hiver où il ne faisait que deux heures par semaine[18].
+[38] Par contre, l’appelant a fourni des chiffres différents avant le procès. Lors d’un interrogatoire au préalable par écrit, les réponses écrites indiquent qu’entre 30 et 40 heures par semaine étaient consacrées au travail pour l’entreprise de chevaux de course[19], et environ 30 heures par semaine étaient consacrées à Fondatechnique, sauf en hiver où ce nombre est réduit à une dizaine d’heures.[20]
+[39] Le vérificateur a témoigné que l’appelant lui a dit qu’il consacrait une soixantaine d’heures par semaine à Fondatechnique pendant la saison estivale de la fin mars jusqu’à novembre, et une trentaine d’heures par semaine de novembre à mars. Selon le vérificateur, l’appelant lui a dit qu’il consacrait quatre heures par jour (28 heures par semaine) à l’entreprise de chevaux de course pendant la saison estivale, et un peu plus de temps entre novembre et la fin mars.[21]
+[40] Personne n’a tenu de registre des heures de travail de l’appelant et il ne peut y avoir une preuve précise du nombre d’heures qu’il a consacrées à Fondatechnique et à l’entreprise de chevaux de course.
+[41] Toutefois, vu que l’appelant a fait ses déclarations au vérificateur quant aux heures en décembre 2004, ce qui est beaucoup plus près dans le temps aux années en question que l’audition de cette cause, je suis satisfait que sa mémoire aurait été plus fiable à ce moment-là et j’accorde plus de poids aux déclarations faites à ce moment-là.
+[42] J’en conclus que sauf pendant la période de novembre à mars, l’appelant a consacré nettement plus de temps à Fondatechnique qu’à l’entreprise de chevaux de course. Par contre, de novembre à mars, il a consacré plus de temps à l’entreprise de chevaux de course.
+[43] Globalement, pour l’année entière, il a consacré plus d’efforts à Fondatechnique qu’à l’entreprise de chevaux de course. Toutefois, il a accordé un temps important à l’entreprise de chevaux, en moyenne environ 30 heures par semaine, sur une base annuelle.
+Analyse
+[44] Vu qu’il est admis que l’appelant avait une entreprise agricole, ce qui reste est de faire une évaluation globale des facteurs. L’investissement en argent de l’appelant dans l’entreprise de chevaux de course est beaucoup plus important que son investissement dans Fondatechnique[22]. Bien que le chiffre d’affaires de l’entreprise de chevaux se situe entre le quart et le tiers de celui de Fondatechnique, il s’agit quand même d’une moyenne de plus de 230 000 $ par an. Au cours des trois années en question, l’appelant a consacré du temps à l’entreprise agricole régulièrement au cours de toute l’année et ce temps consacré, soit en moyenne d’environ 30 heures par semaine, est important.
+[45] Dans les circonstances, selon les critères énumérés dans Gunn[23], la restriction à l’article 31 ne s’applique pas[24].
+Conclusion
+[46] En conséquence, l’appel sera accueilli avec frais selon le tarif B de l’annexe II des Règles de la Cour canadienne de l’impôt (procédure générale), et le tout sera renvoyé au ministre pour nouvel examen et nouvelles cotisations, en tenant pour acquis que les pertes agricoles que l’appelant peut déduire de ses autres revenus ne sont pas limitées par l’article 31 de la Loi de l’impôt sur le revenu.
+Signé à Ottawa (Ontario), ce 27e jour de juillet 2011.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE : 2011 CCI 371
+Nº DU DOSSIER DE LA COUR : 2007-2652(IT)G
+INTITULÉ DE LA CAUSE : SERGE TURBIDE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Les 5 et 6 mars 2009
+MOTIFS DU JUGEMENT PAR : L’honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 27 juillet 2011
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Pierre Archambault
+Avocat de l’intimée :
+Me Dany Leduc
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Pierre Archambault
+Cabinet : Dunton Rainville
+Montréal (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Les parties m’ont fourni la jurisprudence suivante : Moldowan c. La Reine, [1978] 1 R.C.S. 480; R. c. Robinson, [1996] 1 R.C.S. 683; Canada c. Donnelly, [1997] A.C.F. no 1351 (QL); Walters c. Canada, [1998] A.C.I. no 978 (QL); Entreprises L. Clancy inc. c. Canada, [1998] A.C.I. no 513 (QL); Abouantoun c. Canada, [2001] A.C.I. no 653 (QL); Stewart c. Canada, 2002 CSC 46; Neal c. La Reine, 2004 CCI 21; Grenier c. Canada, 2004 CAF 148; Gunn c. Canada, 2006 CAF 281; Stackhouse c. La Reine, 2007 CCI 146; Falkener c. La Reine, 2007 CCI 514; Loyens c. La Reine, 2008 CCI 486.
+[2] Voir note 1 ci-dessus.
+[3] Voir note 1 ci-dessus.
+[4] 2009 CCI 617.
+[5] 2011 CAF 22. (La Cour suprême du Canada a accordé la demande d’autorisation d’appel le 30 juin 2011.)
+[6] L’intimée a prétendu que je ne devrais pas suivre la décision Gunn qui représente une évolution du droit par rapport à la décision de la Cour suprême du Canada dans Moldowan, vu que les décisions de la Cour suprême font autorité (voir Robinson, paragraphe 79). Voir aussi Falkener, paragraphe 13 (note 1 ci-dessus).
+Toutefois, depuis l’audition de la présente cause, la décision de la Cour d’appel fédérale dans Craig est intervenue, et vu les commentaires de la Cour d’appel sur l’effet de la décision Gunn aux paragraphes 7 à 22 de Craig, je ne vois pas comment je pourrais éviter de suivre Gunn et Craig.
+J’ajouterai que l’évolution que représentent Gunn et Craig me semble relativement importante et que le résultat du présent appel serait peut être différent en l’absence de Gunn et de Craig.
+[7] Transcription du 5 mars 2009, pages 4 et 5. La somme investie dans l’entreprise de chevaux de course est le total accumulé des pertes.
+[8] Ces chiffres proviennent des paragraphes 30z) et aa) de la réponse à l’avis d’appel qui sont admis avec corrections. Voir la transcription du 5 mars 2009, page 7.
+Les pertes de l’entreprise de chevaux de course en 1998, en 1999 et en 2000 ne semblent pas avoir été incluses dans les montants investis bien que, logiquement, elles devraient l’être. C’est peut-être un oubli. De toute façon, la différence est trop petite pour avoir un impact.
+[9] Pièce I-5, pages 12 et 24. Les états financiers de Fondatechnique ne sont pas produits en preuve, mais l’avis d’opposition de l’appelant (pièce I-9), allègue au paragraphe 30 que les revenus bruts de Fondatechnique étaient de 711 350 $ en 2001, de 804 505 $ en 2002 et de 853 899 $ en 2003.
+[10] Ces chiffres proviennent des pièces suivantes : I-6, page 16; I-7, page 1; I-8, page 13.
+[11] Voir réponse à l’avis d’appel, paragraphe 30y), la transcription du 5 mars 2009 à la page 7 et la question 283.
+[12] Voir Pièce I-5.
+[13] La preuve ne révèle pas s’il s’agit du nombre de chevaux dans lesquels l’appelant avait un intérêt comme unique propriétaire ou comme copropriétaire, ou s’il s’agit de la somme des intérêts que l’appelant possède. Voir la transcription du 5 mars 2009, questions 54, 523 à 526, 698 et 699.
+[14] Transcription du 5 mars 2009, question 18.
+[15] Transcription du 5 mars 2009, question 20.
+[16] Ibid, question 252.
+[17] Ibid, questions 252 à 257.
+[18] Ibid, questions 257 à 259.
+[19] Transcription du 5 mars 2009, questions 670 à 682.
+[20] Ibid, question 682.
+[21] Ibid, questions 720 à 726.
+[22] 237 000 $ v. 10 000 $ en 2002
+[23] Voir paragraphe 12 susmentionné.
+[24] J’ajouterai que je n’ai pas de doute qu’il y a un élément personnel pour l’appelant (voir, entre autres, la transcription du 5 mars 2009, question 10), mais du moment que les conditions énumérées dans Gunn sont remplies, l’article 31 n’a pas d’application.

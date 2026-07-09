@@ -1,0 +1,210 @@
+---
+title: "Beutler Hands on Massage v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27740/index.do"
+last_modified: "2007-06-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 371"
+citation2: ""
+neutral_citation: "2007 TCC 371"
+decision_date: "2007-06-20"
+language: "en"
+item_id: "27740"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 294
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:59:28.391000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4207b2523ca8fd8dfe00ffe1e78c5705b164fad1aaf40823238ceaa391a09896"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Beutler Hands on Massage v. The Queen
+
+- Citation: 2007 TCC 371
+- Decision date: 2007-06-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 294, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beutler Hands on Massage v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-20
+Neutral citation
+2007 TCC 371
+File numbers
+2005-3858(GST)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2005-3858(GST)I
+BETWEEN:
+BEUTLER HANDS ON MASSAGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 10, 2007 at Saskatoon, Saskatchewan
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Agent for the Appellant:
+Leah Beutler
+Counsel for the Respondent:
+Sharlene Telles-Langdon
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Excise Tax Act, notices of which are dated August 13, 2004, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of June, 2007.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2007TCC371
+Date: 20070620
+Docket: 2005-3858(GST)I
+BETWEEN:
+BEUTLER HANDS ON MASSAGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Beutler Hands On Massage, is appealing the assessments of the Minister of National Revenue under the Excise Tax Act for Goods and Services Tax for massage services provided in 2002 and 2003.
+[2] Leah Beutler, the sole proprietor of Beutler Hands On Massage, testified at the hearing. She is a registered massage therapist who, prior to starting her own business of selling massage products and providing massage services, had worked as a massage therapist in a chiropractic clinic.
+[3] The Appellant does not dispute the facts contained in the Minister's assumptions in paragraph 7 of the Reply to the Notice of Appeal:
+(a) the Appellant was registered in October 1998 and was assigned GST registration number 867118465 RT0001;
+(b) the Appellant was a partnership of Linda and Leah;
+(c) Linda was a "silent partner";
+(d) During 2002 and 2003 the Appellant operated the Business making supplies of therapeutic massage services and products;
+(e) the Appellant was required to file GST returns on an annual basis with a business year end of December 31;
+(f) the Appellant filed GST returns for the reporting periods assessed declaring tax collected/collectible and claiming input tax credits as follows:
+Reporting
+Period
+tax
+collected
+reported
+Input tax
+credits
+Claimed
+net tax
+reported
+31-Dec-02
+677.58
+-1,121.21
+-443.63
+31-Dec-03
+662.27
+-1,263.11
+-600.84
+1,339.85
+-2,384.32
+-1,044.47
+(g) Leah reported the revenues of the Business as a sole proprietor on her T-1 income tax returns for 2002 and 2003;
+(h) at all relevant times the Appellant's supplies were made in the Province of Saskatchewan;
+(i) therapeutic massage services are not an insured service under the Provincial Healthcare plan of Saskatchewan;
+(j) at all relevant times the supplies of therapeutic message services and products were taxable at 7%;
+(k) for the reporting period ending December 31, 2002;
+(i) the Appellant made supplies of massage therapy products and therapeutic massage services of $9,536.85 and $54,556.15 respectively for a total of $64,093.00 on which the Appellant was required to report tax collectible of $4,486.51;
+(ii) the Appellant failed to report tax collected/collectible of $3,808.93;
+(l) for the reporting period ending December 31, 2003;
+(i) the Appellant made supplies of massage therapy products and therapeutic massage services of $10,073.00 and $58,796.00 respectively for a total of $68,859.00 on which the Appellant was required to report tax collectible of $4,820.13;
+(ii) the Appellant failed to report tax collected/collectible of $4,157.86;
+(m) the Appellant failed to report the tax collectible on supplies of the therapeutic massage services provided by the Business in 2002 and 2003.
+[4] The only issue in this appeal is whether the Appellant was required by the Excise Tax Act to collect and remit GST in respect of the massage services it provided to its clients.
+[5] Counsel for the Respondent presented very ably an analysis of the applicable provisions of the Excise Tax Act and the relevant Saskatchewan legislation. The starting point is subsection 221(1) of the Excise Tax Act which imposes on every person who makes a "taxable supply" a duty to collect GST for that "supply".
+[6] Both "supply" and "taxable supply" are defined in subsection 123(1) of the Act:
+"supply" means, subject to sections 133 and 134, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition;
+...
+"taxable supply" means a supply that is made in the course of a commercial activity;
+[7] Necessary to the understanding of "taxable supply" is the relevant portion of the definition of "commercial activity":
+123(1) "commercial activity" of a person means
+(a) business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply;
+[8] To this point, the evidence is clear that the Appellant was making a supply of massage services in the course of carrying on its business. Accordingly, a massage service was a "taxable supply" – unless it can be shown that the business of Beutler Hands On Massage involved the making of "exempt supplies".
+[9] An "exempt supply" is defined in subsection 123(1) as "a supply included in Schedule V" of the Act.
+[10] In "Part II, Health Care Services" of Schedule V, the following are exempt supplies:
+7. [Non-medical health care] – A supply of any of the following services when rendered to an individual, where the supply is made by a practitioner of the service:
+(a) optometric services;
+(b) chiropractic services;
+(c) physiotherapy services;
+(d) chiropodic services;
+(e) podiatric services;
+(f) osteopathic services;
+(g) audiological services;
+(h) speech therapy services;
+(i) occupational therapy services; and
+(j) psychological services.
+...
+9. [Covered by provincial health insurance] – A supply (other than a zero-rated supply) of any property or service but only if, and to the extent that, the consideration for the supply is payable or reimbursed by the government of a province under a plan established under an Act of the legislature of the province to provide for health care services for all insured persons of the province.
+[11] Item 7 of Schedule V is of no assistance to the Appellant since a massage service is not listed as an exempt service; further, a registered massage therapist is not included in the Part II definition of "practitioner":
+in respect of a supply of optometric, chiropractic, physiotherapy, chiropodic, podiatric, osteopathic, audiological, speech therapy, occupational therapy, psychological or dietetic services, means a person who
+(a) practises the profession of optometry, chiropractic, physiotherapy, chiropody, podiatry, osteopathy, audiology, speech therapy, occupational therapy, psychology or dietetics, as the case may be,
+(b) where the person is required to be licensed or otherwise certified to practise the profession in the province in which the service is supplied, is so licensed or certified, and
+(c) where the person is not required to be licensed or otherwise certified to practise the profession in that province, has the qualifications equivalent to those necessary to be so licensed or otherwise certified in another province.
+(d) [Repealed].
+[12] The more general provisions of item 9 of Schedule V are equally inapplicable to the Appellant's situation. Briefly summarized, item 9 exempts the supply of a service to the extent payment for that service is covered by a provincial medical plan for "insured persons". An "insured person" is defined in Part II of Schedule V as:
+has the meaning as in the Canada Health Act;
+Section 2 of the Canada Health Act provides:
+"insured person" means, in relation to a province, a resident of the province other than
+(a) a member of the Canadian Forces,
+(b) a member of the Royal Canadian Mounted Police who is appointed to a rank therein,
+(c) a person serving a term of imprisonment in a penitentiary as defined in the Penitentiary Act, or
+(d) a resident of the province who has not completed such minimum period of residence or waiting period, not exceeding three months, as may be required by the province for eligibility for or entitlement to insured health service;
+[13] In the present case, to determine whether a service is provided to an "insured person", it is necessary to consult subsections 14(1) and (2) of the Saskatchewan Medical Care Insurance Act[1] which defines "insured services" as:
+14(1) Subject to sections 15 and 24, services that are medically required services provided in Saskatchewan by a physician are insured services.
+(2) Subject to section 15 and 24, the following services that are prescribed in the regulations and provided in Saskatchewan are insured services:
+(a) services of an optometrist;
+(b) services of a dentist;
+(c) services of a chiropractor;
+(d) other services that are prescribed in the regulations.
+[14] Accordingly, the services of a registered massage therapist are not included in the definition of "insured services". Nor are they among the services listed in the Regulations, as could be the case pursuant to subsection 14(2) of the Saskatchewan Medical Care Insurance Act. Indeed, subsection 10(h) of the Regulations specifically excludes from the definition of "insured services", the "services rendered by a person other than a physician, optometrist, dentist or chiropractor". Thus, the services rendered by a registered massage therapist are not paid for by the Province of Saskatchewan and item 9 of Part II, Schedule V does not apply to the Appellant's massage services.
+[15] Consequently, nothing in the Saskatchewan legislation or the Excise Tax Act serves to preclude the Appellant's supply of a massage service from being a "taxable supply" and the Appellant was required to collect and remit GST in respect of such services in 2002 and 2003.
+[16] While correct in law, in the present circumstances, the result is a harsh one. Ms. Beutler and her accountant, Mr. Waldner, were very compelling witnesses. They both impressed me as responsible and conscientious in their attention to their respective obligations.
+[17] I accept their evidence that Ms. Beutler made every effort to inform herself and to fulfill her duties under the Excise Tax Act. In an effort to ensure that she was correct in her understanding that GST had to be remitted and collected for massage products, but not for massage services (based on her prior work at the chiropractic clinic and the answers she received from Canada Revenue Agency officials during the course of her research of her legal obligations), she took the further step of consulting Mr. Waldner. He, in turn, sought his own verification from the GST officials at the CRA who confirmed Ms. Beutler's understanding of the law. Having taken these precautions, she felt confident that she was not required to collect GST for the massage services. Meanwhile, she collected and remitted GST for the massage products sold by the Appellant. All went well until suddenly, she was informed the Appellant would be audited – an audit which, ironically, seems to have been triggered by Ms. Beutler's compliance with another aspect of the Act's requirements. It was after she contacted CRA officials to see about changing the Appellant's GST registration from a partnership to a sole proprietorship that she received a very different opinion from CRA officials in respect of her obligations to remit and collect GST in respect of massage services.
+[18] It goes without saying that the legislation must be applied as it is, not as incorrectly interpreted by the officials upon whom Ms. Beutler relied. This, however, is of little comfort to Ms. Beutler whose fledgling business now faces a significant liability for GST which, but for the misstatements of the Minister's officials, would have been collected and remitted along with the GST the Appellant had duly and diligently collected and remitted throughout the relevant period for massage products. I have no alternative but to dismiss the appeal but remain hopeful that in enforcing this decision, the Minister will take into account the unusual circumstances of this case.
+Signed at Ottawa, Canada, this 20th day of June, 2007.
+"G. Sheridan"
+Sheridan, J.
+CITATION: 2007TCC371
+COURT FILE NO.: 2005-3858(GST)I
+STYLE OF CAUSE: BEUTLER HANDS ON MASSAGE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Saskatoon, Saskatchewan
+DATE OF HEARING: April 10, 2007
+REASONS FOR JUDGMENT: The Honourable Justice G. Sheridan
+DATE OF JUDGMENT: June 20, 2007
+APPEARANCES:
+Agent for the Appellant:
+Leah Beutler
+Counsel for the Respondent:
+Sharlene Telles-Langdon
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.S 1978, c. S-29.

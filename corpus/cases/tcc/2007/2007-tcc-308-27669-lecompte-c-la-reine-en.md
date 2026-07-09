@@ -1,0 +1,155 @@
+---
+title: "Lecompte c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27669/index.do"
+last_modified: "2007-05-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 308"
+citation2: ""
+neutral_citation: "2007 TCC 308"
+decision_date: "2007-05-29"
+language: "en"
+item_id: "27669"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 490
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:04:07.522000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2fecb9439e954d16ba306c01027ea8749f658e2602b4529ba269f63acfd4351d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lecompte c. La Reine
+
+- Citation: 2007 TCC 308
+- Decision date: 2007-05-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 490, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lecompte c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-05-29
+Neutral citation
+2007 TCC 308
+File numbers
+2006-1212(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1212(IT)I
+BETWEEN:
+CHRISTIANE LECOMPTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+___________________________________________________________________
+Appeal heard on March 20, 2007, at Montréal, Quebec.
+Before: the Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Paul Decelles (former common-law spouse)
+Counsel for the Respondent:
+Susan Shaughnessy
+_________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act on February 20, 2004, for the 2000 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 29th day of May 2007.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 23rd day of August 2007.
+Monica F. Chamberlain, Translator
+Citation: 2007TCC308
+Date: 20070529
+Docket: 2006-1212(IT)I
+BETWEEN:
+CHRISTIANE LECOMPTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal under the informal procedure concerning a notice of reassessment dated February 20, 2004, by which the Minister of National Revenue (the “Minister”) cancelled a capital loss of $14,229 and added a capital gain of $21,000 to the Appellant’s income for the 2000 taxation year, respecting the disposition of a property at the corner of St-Charles Street East and D’Auvergne Street in Longueuil.
+[2] On November 19, 1997, the Appellant, who is a notary, purchased a rental property for the price of $120,000 from Paul Decelles, chartered accountant, and Hugues Viger, accountant. This rental property comprised two housing units under street numbers 555 St-Charles Street East and 58 D’Auvergne Street in the city of Longueuil. At the time of the transaction, Mr. Decelles was the Appellant’s common-law spouse and the couple was already occupying the upstairs unit, that is, 58 D’Auvergne Street. They remained there until August 1998 to supervise the renovations that were taking place on the property.
+[3] On May 26, 2000, the Appellant disposed of this property for a consideration of $141,000.
+[4] In her income tax return for the 2000 taxation year, the Appellant reported an adjusted cost base of $155,229 in respect of this property, but, despite many requests from the Canada Customs and Revenue Agency (“CCRA”), failed to justify the difference between the acquisition cost of the property and the sum of $155,229 reported as the adjusted cost base.
+[5] The Appellant claims that the difference of $35,229 between the property’s adjusted cost base and the acquisition cost is attributable to the costs of the renovations that were carried out between November 19, 1997, (purchase date) and May 26, 2000, (sale date).
+[6] In Appendix A of the Notice of Appeal dated April 12, 2006, the Appellant indicated that work on the property was carried out with the personal involvement of Paul Decelles, who oversaw the completion of all the renovations alone.
+[7] The evidence showed that the cost of the work was paid entirely in cash. The Appellant gave cash advances to Mr. Decelles to help him pay for the materials and for the services of the contractors and workers hired. The amount of these payments has not been established and no evidence to that effect has been presented. At the hearing, Mr. Decelles confirmed that, because of earlier serious financial problems, he could not have a bank account or a credit card.
+[8] In Appendix A of the Notice of Appeal, the Appellant has provided information that explains how the documents pertaining to the renovations were lost and have still not been found. These documents, which were in Mr. Decelles’ possession, were kept in boxes at 450-460 St-Charles Street West in Longueuil, a commercial building owned by Mr. Decelles at the time. Following serious financial problems, Mr. Decelles lost the ownership of this property, which passed to a first-ranking hypothecary creditor, namely National Bank of Canada (the “NBC”). After the property had been seized by the NBC, Mr. Decelles lost access to his personal office in the building, and he was never able to recover the boxes containing the documents pertaining to the renovations of the property belonging to Ms. Lecompte.
+[9] Because the Appellant was unable to provide any invoices describing the work completed, the place and time of work completed, the names of any material suppliers or service providers, or the costs of work completed, she provided the following documents:
+· A list of several persons who completed some of the renovations (Appendix B of the Notice of Appeal);
+· A list of renovations completed outside the building (Appendix C of the Notice of Appeal);
+· A list of renovations completed inside the building (Appendix D of the Notice of Appeal);
+· An estimate of the cost of the work described in the two lists above (document filed as Exhibit A-1);
+· An appraisal report by a chartered appraiser firm called Bureau d’evaluateurs Carmon Inc., dated April 7, 1999, which established the market value of the property at around $145,000 as of March 31, 1999, (document filed as Exhibit A‑2);
+· Excerpts from the triennial roll of the City of Longueuil establishing the value of the property at $140,700 as of January 1, 1998, (documents filed as Exhibit A-5);
+· Some invoices of CB Rénovation for work done on the property in 1998, 1999 and 2000, demonstrating that the work had been paid for in cash (documents produced in a bundle as Exhibit A-3);
+· Photographs of the property before and after the renovations (documents produced in a bundle as Exhibit A-4).
+[10] In 1998, the Appellant also acquired a semi-commercial property at 144 and 150 St-Jean Street in old Laprairie. The Appellant moved to 150 St-Jean Street in August 1998. The premises at 144 St-Jean were leased at the time of acquisition and a French creperie operated there. A significant amount of work on the windows, roof and masonry was done on the property, and the Appellant used a City of Laprairie grant program. Mr. Decelles once again supervised these renovations as well as some minor ones inside the building. The renovation of this property was completed in 2000.
+[11] Before the Appellant moved to 150 St-Jean Street, her principal residence was a property on Asselin Street, which she had acquired in 1992 and sold in 1998. The unit at 58 D’Auvergne Street, which she occupied until August 1998 was not her principal residence.
+[12] The Appellant attributed to her illnesses–several heart attacks and strokes–the fact that she had not followed up on the four information request letters from the CCRA regarding the disposition of the property at the corner of St-Charles Street East and D’Auvergne Street and the fact that she had still not filed her tax returns for the 2001 to 2006 taxation years. The Appellant’s tax return for the 2000 taxation year was filed on February 17, 2003, and the Appellant’s tax returns for the 1996 to 1999 taxation years were filed in 2001.
+Analysis and conclusion
+[13] I do not doubt that significant renovations were completed on the Appellant’s property and resulted in an increase of the property’s value.
+[14] The problem here is due to the fact that the Appellant has produced no supporting documentation that can help establish the adjusted cost base of the property as higher than the acquisition cost. She has produced no specific information as to the costs of the work and the date it was completed. She has not broken down the costs into current expenditures for repairs and maintenance and capital expenditures. In addition, some costs can be considered as personal expenses, given that the Appellant occupied the upstairs unit until August 1998.
+[15] Since the tax assessment released by the Minister is deemed to be valid and binding under subsection 152(8) of the Income Tax Act (the “Act”), the onus is on the taxpayer to show that the disputed assessment ought not to have been made as it was.
+[16] In addition, since our income tax system is based on self-assessment, taxpayers must be able to produce all information and documentation to support the claims they make.
+[17] The decision rendered by the Federal Court of Appeal in Bullas v. Canada, 2002 DTC 7043, (2002) 3 CTC 467 well explains the role of a Tax Court of Canada judge in a case such as the Appellant’s:
+…As the Judge indicated to [sic] when dismissing Mr. Bullas' appeal, a taxpayer is obliged by law to keep records to support claimed deductions and puts himself in a very difficult position if he fails to do so. Nonetheless, the Tax Court may accept other evidence in place of documentary records. However, it is for the Tax Court Judge, as the trier of fact, to consider the totality of the evidence and to assess its credibility in determining whether the taxpayer has demonstrated that the Minister was in error in disallowing the claimed deductions.
+[18] In this case, I do not think that the Minister erred in refusing to grant a capital loss of $14,229 and adding a capital gain of $21,000 to the Appellant’s income for the 2000 taxation year.
+[19] The absence of supporting documentation as to the nature of work done, the cost of this work, the dates of completion, the providers of services and materials and the payment of costs cannot be replaced by other evidence, such as appraisals and photographs.
+[20] The Appellant must accept the consequences of not having been in a position to provide the supporting documentation necessary to determine the adjusted cost base of her property. By paying the workers in cash, the Appellant did not act illegally or contrary to the Act, but she put herself at a disadvantage when dealing with the taxation authorities by forfeiting a significant source of evidence.
+[21] The Court would have expected a taxpayer who is a notary to have a greater degree of respect for the Act’s requirements. Not filing her tax returns within the legislated time limit demonstrates the Appellant’s carelessness towards her tax obligations.
+[22] For all of these reasons, the appeal from the assessment made under the Act on February 20, 2004, for the 2000 taxation year is dismissed.
+Signed at Ottawa, Canada, this 29th day of May 2007.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 23rd day of August 2007.
+Monica F. Chamberlain, Translator
+CITATION: 2007TCC308
+COURT FILE NO.: 2006-1212(IT)I
+STYLE OF CAUSE: Christiane Lecompte and Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: March 20, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: May 29, 2007
+APPEARANCES:
+Agent for the Appellant:
+Paul Decelles (former common-law spouse)
+Counsel for the Respondent:
+Susan Shaughnessy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

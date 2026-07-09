@@ -1,0 +1,175 @@
+Title: Chandan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26646/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-685-26646-chandan-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-10-20
+
+# Chandan v. The Queen
+
+- Citation: 2005 CCI 685
+- Decision date: 2005-10-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3653, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chandan v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-20
+Référence neutre
+2005 CCI 685
+Numéro de dossier
+2003-3110(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3110(IT)G
+ENTRE :
+AMRIT KUMAR CHANDAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 28 septembre 2005, à Vancouver (Colombie-Britannique).
+Devant : L'honorable juge Judith Woods
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Michael Taylor
+_____________________________________________________________
+JUGEMENT
+L'appel à l'encontre d'une cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1996 est accueilli, avec dépens, et la cotisation est déférée au ministre du Revenu national pour qu'il procède à un nouvel examen et qu'il établisse une nouvelle cotisation pour le motif que l'appelant a le droit de déduire dans le calcul de son revenu une perte déductible au titre d'un placement d'entreprise de 26 245 $.
+Signé à Ottawa, Canada, ce 20e jour d'octobre 2005.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 7e jour d'avril 2006.
+Mario Lagacé, jurilinguiste
+Référence : 2005CCI685
+Date : 20051020
+Dossier : 2003-3110(IT)G
+ENTRE :
+AMRIT KUMAR CHANDAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Il s'agit d'un appel à l'encontre d'une cotisation établie en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) pour l'année d'imposition 1996. Le litige porte sur le caractère suffisant des documents à l'appui d'une demande de déduction d'une perte déductible au titre d'un placement d'entreprise ( « PDTPE » ) faite par Amrit Chandan relativement à un malheureux investissement dans une station-service et un dépanneur.
+[2] L'appelant, qui travaille comme chauffeur d'autobus, a agi pour son propre compte dans le cadre de l'appel, qui a été entendu sous le régime de la procédure générale de la Cour.
+[3] La Couronne ne conteste pas le fait que M. Chandan faisait partie des trois particuliers qui ont acheté une station-service et un dépanneur en 1994 et qui ont exploité la station-service et le dépanneur par l'entremise d'une société, à savoir Higher State Holdings Inc., jusqu'à ce que celle-ci devienne insolvable en 1996. La contestation porte sur la question de savoir s'il y a suffisamment d'éléments de preuve relativement à la forme et au montant de l'investissement de M. Chandan.
+[4] De façon générale, une « perte au titre d'un placement d'entreprise » est une perte en capital résultant de la disposition d'actions d'une société qui répond aux conditions nécessaires pour être considérée comme étant une « société exploitant une petite entreprise » ou de la disposition de prêts consentis à une telle société. Pour l'année d'imposition pertinente, 75 % du montant de la perte pourraient être déduits dans le calcul du revenu à titre de « perte déductible au titre d'un placement d'entreprise » ( « PDTPE » ). Si aucune perte n'a été subie par suite d'une disposition réelle des actions ou des prêts, le contribuable peut néanmoins subir la perte en faisant un choix dans sa déclaration de revenu.
+Lorsqu'il fait le choix en question, le contribuable est réputé avoir disposé des actions ou des prêts pour un produit nul.
+[5] Les dispositions législatives pertinentes sont l'alinéa 39(1)c) et le paragraphe 50(1) de la Loi, qui se lisent comme suit :
+39.
+(1) Pour l'application de la présente loi :
+[...]
+c) une perte au titre d'un placement d'entreprise subie par un contribuable, pour une année d'imposition, résultant de la disposition d'un bien quelconque s'entend de l'excédent éventuel de la perte en capital que le contribuable a subie pour l'année résultant d'une disposition, après 1977 :
+(i) soit à laquelle le paragraphe 50(1) s'applique,
+(ii) soit en faveur d'une personne avec laquelle il n'avait aucun lien de dépendance,
+d'un bien qui est :
+(iii) soit une action du capital-actions d'une société exploitant une petite entreprise,
+(iv) soit une créance du contribuable sur une société privée sous contrôle canadien (sauf une créance, si le contribuable est une société, sur une société avec laquelle il a un lien de dépendance) qui est :
+(A) une société exploitant une petite entreprise,
+(B) un failli, au sens du paragraphe 128(3), qui était une société exploitant une petite entreprise au moment où il est devenu un failli pour la dernière fois,
+(C) une personne morale visée à l'article 6 de la Loi sur les liquidations qui était insolvable, au sens de cette loi, et qui était une société exploitant une petite entreprise au moment où une ordonnance de mise en liquidation a été rendue à son égard aux termes de cette loi,
+sur le total des montants suivants :
+[...]
+50.
+(1) Pour l'application de la présente sous-section, lorsque, selon le cas :
+a) un contribuable établit qu'une créance qui lui est due à la fin d'une année d'imposition (autre qu'une créance qui lui serait due du fait de la disposition d'un bien à usage personnel) s'est révélée être au cours de l'année une créance irrécouvrable;
+b) une action du capital-actions d'une société (autre qu'une action reçue par un contribuable en contrepartie de la disposition d'un bien à usage personnel) appartient au contribuable à la fin d'une année d'imposition et :
+[...]
+(iii) soit les conditions suivantes sont réunies à la fin de l'année :
+(A) la société est insolvable,
+(B) ni la société ni une société qu'elle contrôle n'exploite d'entreprise,
+(C) la juste valeur marchande de l'action est nulle,
+(D) il est raisonnable de s'attendre à ce que la société soit dissoute ou liquidée et ne commence pas à exploiter une entreprise,
+le contribuable est réputé avoir disposé de la créance ou de l'action à la fin de l'année pour un produit nul et l'avoir acquise de nouveau immédiatement après la fin de l'année à un coût nul, à condition qu'il fasse un choix, dans sa déclaration de revenu pour l'année, pour que le présent paragraphe s'applique à la créance ou à l'action.
+Question en litige
+[6] La question en litige est de déterminer si l'appelant a investi dans des actions de Higher State Holdings Inc. ou a consenti des prêts à celle-ci. Dans l'affirmative, il faut déterminer le montant de l'investissement. La Couronne admet que les autres exigences figurant à l'alinéa 39(1)c) et au paragraphe 50(1) sont respectées, y compris l'exigence selon laquelle Higher State Holdings Inc. était une société exploitant une petite entreprise et celle selon laquelle l'appelant avait fait un choix en vertu du paragraphe 50(1) pour qu'il soit réputé avoir disposé des actions ou des prêts en 1996 pour un produit nul.
+Faits
+[7] Bien qu'il soit clair que l'appelant avait investi avec deux autres particuliers dans une station-service et un dépanneur, il est difficile d'évaluer la forme de l'investissement parce que la tenue des livres de l'entreprise était lamentable. L'appelant a témoigné que ses associés et lui n'avaient pas les moyens d'embaucher un avocat ou un comptable et que c'était lui-même qui avait préparé un grand nombre des documents nécessaires. Dans ces circonstances, il n'est pas étonnant que l'appelant ait de la difficulté à établir la forme et le montant de son investissement.
+[8] La tenue de livres était faite de façon si lamentable que l'appelant ne savait pas quelle était la forme de son investissement. Il a dit au début de l'audience qu'il avait l'intention de présenter à la Cour toute documentation qu'il réussirait à obtenir et qu'il demanderait à la Cour de décider s'il faut permettre la déduction d'une PDTPE.
+[9] L'appelant a réussi à fournir un certain nombre de documents à l'appui de sa cause, mais il y avait d'importantes lacunes. Vu les éléments de preuve présentés, je tire les conclusions de fait suivantes.
+[10] Aux termes d'une convention datée du 28 avril 1994, l'appelant, Manoj Sikka et Arvinder Grewal (les « acheteurs » ) ont convenu d'acheter les éléments d'actif d'une station-service et d'un dépanneur pour une contrepartie totale de 227 000 $ plus la valeur des stocks[1]. L'opération a été conclue le 30 mai 1994.
+[11] Selon la convention d'achat-vente, la contrepartie devait être payée de la façon suivante :
+1. un montant de 50 000 $ devait être payé en espèces, dont 15 000 $ devaient être versés à titre d'acompte et le reste était exigible à la signature de la convention;
+2. une deuxième tranche de 50 000 $ devait être payée après la signature de la convention et ce montant devait être tiré du produit de la vente d'une maison, plus des intérêts au taux de 12 %. Le montant différé devait être garanti par une hypothèque de deuxième rang sur la maison.
+3. le solde de 127 000 $ plus la valeur des stocks devait être payé sur une certaine période, et le taux d'intérêt était de 12 %. Le montant devait être garanti par un billet à ordre et des cautionnements personnels.
+[12] Les opérations ont été conclues le 30 mai 1994, comme prévu, et les vendeurs ont été dûment payés aux termes de la convention. En plus du paiement de la contrepartie susmentionnée, au moment de la signature de la convention, les acheteurs ont fait des décaissements de 4 978,21 $ et ont payé le loyer de juin de 5 000 $.
+[13] Étant donné que la principale question en litige dans cet appel est le caractère suffisant des éléments de preuve, il pourrait être utile de donner des précisions sur un certain nombre d'éléments de preuve documentaire qui appuient la position selon laquelle les vendeurs ont été dûment payés aux termes de la convention d'achat-vente. L'appelant a présenté les documents suivants :
+1. une copie de l'état des rajustements pour la signature du 30 mai 1994 qui indique les montants à payer à la signature de la convention. Le document a été élaboré par un avocat.
+2. une copie d'une directive de Mme Chandan (la femme de l'appelant) et de Mme Sikka (la mère de M. Sikka) élaborée à l'égard de la vente de la maison hypothéquée en 1995. Selon la directive, le montant de 53 320,18 $ (qui correspond au principal plus les intérêts) devait être payé directement aux vendeurs de la station-service au moyen du produit de la vente.
+3. une copie d'une demande d'emprunt bancaire de 150 000 $ faite par Higher State Holdings Inc. quelques mois après la signature de la convention. Il y était précisé que les fonds devaient être utilisés pour payer les éléments d'actif de l'entreprise. Il y avait aussi de la documentation sur la saisie d'éléments d'actif par la banque aux termes d'une sûreté donnée par la société. Ces documents appuient le paiement aux vendeurs du solde des montants qui leur étaient dus par Higher State Holdings Inc. (c.-à-d. la somme de 127 000 $, la valeur des stocks et les intérêts).
+[14] Bien qu'il y avait suffisamment de documentation à l'appui du total de la contrepartie payée pour la station-service, il y avait moins de preuves à l'appui de la partie payée par l'appelant. Les éléments de preuve produits à cet égard donnent à penser que les trois acheteurs ont fait des apports égaux. Cette affirmation est fondée sur un contrat de société de personnes daté du 28 avril 1994 conclu par les acheteurs et sur une copie d'un registre des actionnaires qui indique que des actions ordinaires de Higher State Holdings Inc. ont été émises aux acheteurs à parts égales[2].
+[15] L'appelant a témoigné qu'il avait payé son tiers des actions de l'entreprise en prenant les dispositions nécessaires pour que l'intérêt de moitié que détenait sa femme dans la maison soit versé directement aux vendeurs et en payant le solde en espèces, soit à titre d'acompte, soit au moment de la signature de la convention. Il a témoigné qu'il n'arrivait pas à se souvenir des précisions relatives aux paiements faits en espèces et qu'il n'avait pu obtenir aucune documentation à l'appui de ces paiements.
+[16] De plus, l'appelant n'a présenté aucun document contenant une preuve précise à l'égard d'un montant investi dans des actions de Higher State Holdings Inc. ou dans des prêts consentis à celle-ci. La société n'avait pas encore été constituée au moment de la signature de la convention. L'appelant a témoigné que, pour avoir des preuves documentaires à l'appui de la relation entre les acheteurs, ceux-ci ont conclu un contrat de société de personnes élaboré par l'appelant. Le contrat stipulait que la société de personnes achèterait l'entreprise, que les acheteurs feraient des apports égaux dans la société de personnes et que les acheteurs partageraient les profits et les pertes à parts égales.
+[17] Higher State Holdings Inc. a été constituée en société environ six semaines après la signature de la convention. Plusieurs documents que l'appelant a présentés donnaient à entendre que, par suite de la constitution, la société détenait et exploitait l'entreprise, mais l'appelant a témoigné que les acheteurs n'avaient pas de documents à l'appui d'un transfert des éléments d'actif à la société après sa constitution.
+[18] Higher State Holdings Inc. a exploité l'entreprise jusqu'en 1996, quand les éléments d'actif de la station-service ont été saisis par les créanciers.
+[19] Lorsque l'appelant a produit sa déclaration de revenus pour 1996, il ne savait pas qu'il pouvait peut-être demander une déduction pour sa perte provenant de l'entreprise. Lorsque l'appelant a par la suite eu vent des dispositions relatives à la PDTPE, un comptable a fait pour lui une demande de déduction pour une perte au titre d'un placement d'entreprise équivalant à un tiers des espèces versées initialement et à la moitié du produit de la vente de la maison qui a été versé directement aux vendeurs de la station-service. Ce montant ne correspond pas à ce que l'appelant a dit dans son témoignage à l'audience. Il a dit que son apport était de moins d'un tiers des espèces versées initialement, de sorte que son apport total soit d'un tiers.
+[20] L'appelant n'avait pas demandé de déduction pour le montant différé payé au moyen de l'emprunt bancaire. L'appelant a témoigné qu'il y a un différend non réglé avec la Banque de Montréal quant à la question de savoir s'il avait donné un cautionnement personnel sur l'emprunt.
+Analyse
+[21] La question en litige est de savoir si l'appelant a établi qu'il a investi dans des actions de Higher State Holdings Inc. ou qu'il a consenti des prêts à celle-ci. Dans l'affirmative, il faut déterminer le montant de l'investissement.
+[22] La Couronne a adopté la position selon laquelle les faits prêtent trop à confusion pour que l'on sache ce qui est arrivé. À première vue, il semblerait que cela soit une position raisonnable parce que l'appelant lui-même ne connaît pas la forme de l'investissement. Comme la Cour l'a dit plusieurs fois, s'il est impossible de déterminer les faits, l'appelant ne peut s'en prendre qu'à lui-même.
+[23] Toutefois, malgré ces problèmes, je conclus que la preuve qui m'a été présentée constitue une preuve prima facie d'une perte au titre d'un placement d'entreprise s'élevant à 34 993 $ relativement à des actions ordinaires de Higher State Holdings Inc. Étant donné que la Couronne n'a produit aucun élément de preuve pour contredire cela, à mon avis, l'appelant est fondé à obtenir gain de cause pour le motif qu'il a produit une preuve prima facie[3].
+[24] Le fait que l'appelant ait produit un certain nombre de documents relatifs à des tiers pour appuyer sa version des faits a influé sur ma décision. Il est clair que les acheteurs ont acheté la station-service et le dépanneur pour une contrepartie d'environ 270 000 $ (c.-à-d. 227 000 $ plus les décaissements et les stocks à la date de signature) et que les capitaux propres nets investis s'élevaient à 104 978,21 $ (50 000 $ à la date de la signature de la convention, 50 000 $ tirés de la vente de la maison et 4 978,21 $ en décaissements)[4]. Il est tout aussi clair que l'entreprise est devenue insolvable. De plus, les documents donnent à penser que Higher State Holdings détenait et exploitait l'entreprise[5].
+[25] Il n'est pas rare que les gens d'affaires inexpérimentés ne consignent pas leurs opérations commerciales comme il se doit. Je conclus que la version des faits de l'appelant est plausible et qu'elle est cohérente par rapport à la documentation, bien qu'il soit clair qu'un tableau incomplet de la situation a été présenté.
+[26] Le fait qu'il n'y ait aucun doute que les pertes ont été subies a également influé sur ma décision. Ce n'est pas un cas où il y a un doute à savoir si des fonds ont été investis.
+[27] Par conséquent, je conclus que les faits susmentionnés ont été établis au moyen d'une preuve prima facie. Il reste à déterminer les effets juridiques de cette situation confuse. À mon avis, la conclusion juridique la plus logique à tirer des faits est que l'appelant a fait un apport de capitaux au profit de Higher State Holdings Inc. qui correspond à son tiers des capitaux propres nets investis dans l'entreprise, à savoir 34 993 $.
+[28] Bien qu'aucun document n'établisse que l'entreprise a été transférée de la société de personnes à la société, il est logique de conclure qu'il y a eu un transfert lorsque les acheteurs ont fait constituer la société et ont commencé à exploiter l'entreprise comme si la société détenait les éléments d'actif. Je conclus donc que les éléments d'actif de l'entreprise ont été transférés à Higher State Holdings Inc. pour aucune contrepartie, sauf la prise en charge des dettes.
+[29] L'effet juridique probable du transfert des éléments d'actif est un apport de capitaux de la part des acheteurs, qui géraient l'entreprise et qui en étaient les seuls actionnaires. Le total de l'apport de capitaux était la valeur des éléments d'actif transférés, déduction faite du montant des dettes prises en charge[6].
+[30] La Couronne prétend que le montant payé qui a été tiré de la vente de la maison aurait pu avoir été versé ou prêté à Higher State Holdings Inc. par les propriétaires de la maison (Mme Chandan et Mme Sikka) plutôt que par l'appelant et M. Sikka. Bien qu'il soit possible que Mme Chandan et Mme Sikka aient eu l'intention d'investir dans l'entreprise, je conclus que la preuve correspond plutôt à une situation où Mme Chandan mettait les fonds à la disposition de son mari pour que celui-ci puisse respecter son obligation de verser un tiers des capitaux propres nécessaires pour l'entreprise[7].
+[31] Selon moi, l'appelant a présenté assez d'éléments de preuve pour établir une preuve prima facie. Le défaut de la Couronne de présenter des éléments de preuve pour contredire le témoignage de l'appelant a influé sur ma décision. L'Agence du revenu du Canada a probablement eu la chance de vérifier la version des faits de l'appelant au moyen de plusieurs sources, y compris les déclarations de revenu des autres acheteurs et des vendeurs de la station-service. Dans le cas où l'appelant a produit de nombreuses preuves documentaires pour étayer sa demande de déduction, il incombe à la Couronne de présenter des éléments de preuve qui permettent de soulever un doute à l'égard de la cause de l'appelant[8].
+[32] Finalement, je voudrais formuler des commentaires sur les arguments soulevés par l'avocat de la Couronne.
+[33] L'avocat a invoqué l'arrêt Shell Canada Limited[9], rendu par la Cour suprême du Canada, à l'appui de son argument que la forme l'emporte sur le fond. Bien que ce principe soit bien établi, il ne s'applique pas aux faits du présent appel. Je conviens que la question de savoir si l'appelant a le droit de demander la déduction d'une PDTPE doit être déterminée en fonction de l'effet juridique des opérations qu'il a effectuées. Toutefois, la difficulté qui se pose dans cet appel est de déterminer l'effet juridique de ce qui a été fait. Ce n'est pas une question de faire primer le fond sur la forme. Une fois établi, l'effet juridique prévaudra.
+[34] L'avocat a également invoqué des décisions qui mettent l'accent sur l'importance de la tenue des livres[10]. Le contribuable doit, aux termes du paragraphe 230(1) de la Loi, tenir des registres dans la forme prescrite de sorte que les déclarations de revenus puissent être vérifiées; le contribuable qui ne tient pas les registres appropriés risque de se voir refuser ses demandes de déduction. Cependant, il ne faut pas nécessairement refuser les demandes de déduction pour la simple raison que le contribuable n'avait pas tenu les registres appropriés. L'exigence porte sur l'établissement d'une preuve prima facie et, à mon avis, l'appelant a réussi à établir une telle preuve.
+[35] Compte tenu de ce qui précède, je conclus que l'appelant a subi une perte au titre d'un placement d'entreprise équivalant à 34 993 $. Ce montant correspond à l'apport de capitaux de l'appelant dans Higher State Holdings Inc. et à un tiers du total des apports en capitaux des acheteurs. Le montant doit être ajouté au prix de base rajusté des actions ordinaires de l'appelant en application de l'alinéa 53(1)c) de la Loi. Comme je l'ai mentionné précédemment, la Couronne a reconnu que l'appelant avait fait un choix en vertu du paragraphe 50(1) pour que la disposition des actions soit réputée avoir été faite pour un produit nul. La disposition a donné lieu à une PDTPE correspondant à 75 % de la perte au titre d'un placement d'entreprise.
+[36] L'appel est accueilli, avec dépens, et la cotisation est déférée au ministre du Revenu national pour qu'il procède à une nouvelle cotisation pour le motif que l'appelant a le droit de déduire dans le calcul de son revenu une perte déductible au titre d'un placement d'entreprise de 26 245 $.
+Signé à Ottawa, Canada, ce 20e jour d'octobre 2005.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 7e jour d'avril 2006.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2005CCI685
+NO DU DOSSIER : 2003-3110(IT)G
+INTITULÉ : Amrit Kumar Chandan et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE : Le 28 septembre 2005
+MOTIFS DU JUGEMENT PAR : L'honorable juge Judith Woods
+DATE DU JUGEMENT : Le 20 octobre 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Michael Taylor
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : s.o.
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Plus tard, il a été établi que la valeur des stocks était de 37 651 $.
+[2] L'appelant a admis à l'audience que les actionnaires n'avaient rien payé pour ces actions, même si le registre des actionnaires indiquait un paiement de 100 $ fait par chaque actionnaire. J'ai tenu pour acquis que les actions ont été émises valablement.
+[3] Hickman Motors Limited v. The Queen, 97 D.T.C. 5363 (C.S.C.).
+[4] Les capitaux propres nets ne comprendraient pas le loyer pour le mois de juin.
+[5] Je signale que, si l'entreprise avait exercé ses activités dans le contexte d'une société de personnes, les associés auraient eu le droit de demander la déduction de leur part des pertes d'entreprise, y compris une perte finale sur la disposition des biens amortissables. Cela aurait pu être plus avantageux pour l'appelant par rapport au montant qu'il a demandé à titre de déduction.
+[6] Le montant tiré de la vente de la maison et payé aux vendeurs aurait donné lieu à des apports de capitaux soit en 1994, au moment où la société a acheté l'entreprise, soit en 1995, au moment où la maison a été vendue. Quoi qu'il en soit, l'apport de capitaux a été fait dans une année d'imposition avant que la perte ne survienne en 1996.
+[7] On pourrait arguer que l'apport de capitaux de l'appelant comprenait aussi sa part des intérêts sur le montant payé au moyen du produit de la vente de la maison (3 321 $). Je conclus qu'une telle interprétation est trop libérale compte tenu de l'absence de documentation adéquate.
+[8] Hickman Motors Limited, précité.
+[9] Shell Canada Limited v. The Queen, 99 D.T.C. 5669 (C.S.C.).
+[10] Bullas v. The Queen, 2002 D.T.C. 7043 (C.A.F.).

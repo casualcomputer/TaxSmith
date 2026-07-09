@@ -1,0 +1,230 @@
+---
+title: "Nandakumar v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30965/index.do"
+last_modified: "2012-09-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 338"
+citation2: ""
+neutral_citation: "2012 TCC 338"
+decision_date: "2012-09-27"
+language: "en"
+item_id: "30965"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4839
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:09:29.960000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "43cf1f9b0b4ac78e84b6e7147b9fb9806ab7014958e12e620d68d33c1fca6c43"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nandakumar v. The Queen
+
+- Citation: 2012 TCC 338
+- Decision date: 2012-09-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4839, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nandakumar v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-09-27
+Neutral citation
+2012 TCC 338
+File numbers
+2009-2627(IT)G, 2009-2689(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2009-2627(IT)G
+2009-2689(IT)G
+BETWEEN:
+VIKRAM NANDAKUMAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 15 and 16, 2012, at Vancouver, British Columbia
+Before: The Honourable Mr. Justice Randall Bocock
+Appearances:
+Counsel for the Appellant:
+Terry S. Gill
+Counsel for the Respondent:
+Bruce Senkpiel
+____________________________________________________________________
+JUDGMENT
+1. In accordance with the Reasons for Judgment delivered on even date, each appeal with respect to the:
+a) Notice of Assessment number 690739 dated September 15, 2008 in the amount of $45,818.07 with respect to the transfer of property to the Appellant regarding 4502 Martingale Avenue, Langley, British Columbia being Parcel Identifier (“PID”) number 010-536-094 made under the Income Tax Act (“Act”) is dismissed;
+b) Notice of Assessment number 690740 dated September 15, 2008 in the amount of $264,499.00 with respect to the transfer of property to the Appellant regarding 6031 Thetis Place, Richmond, B ritish Columbia being PID number 001-912-909 made under the Act is dismissed;
+c) Notice of Assessment number 690741 dated September 12, 2008 in the amount of $33,899.00 with respect to the transfer of property to the Appellant regarding #711 – 6081 Number Three Road, Richmond, British Columbia being PID number 024-017-167 made under the Act is dismissed; and
+d) Notice of Assessment number 690742 dated September 12, 2008 in the amount of $14,049.00 with respect to the transfer of property to the Appellant regarding #30 – 10080 Kilby Drive, Richmond, British Columbia being PID number 018-506-283 made under the Act is dismissed.
+2. Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 27th day of September 2012.
+“R.S. Bocock”
+Bocock J.
+Citation: 2012 TCC 338
+Date: 20120927
+Dockets: 2009-2627(IT)G
+2009-2689(IT)G
+BETWEEN:
+VIKRAM NANDAKUMAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+[1] These two appeals involve the transfer of four parcels of real property (the “Transfers”) from a father and mother jointly to their son, either solely or in common with his mother. The father had substantial arrears of tax. In turn, the Minister of National Revenue (“Minister”) reassessed the Appellant in respect of the Transfers under the provisions of subsection 160(1) of the Income Tax Act (the “Act”). Simply put, under that provision, if the transferor was liable to pay tax, the property was transferred, the transferee was a person not dealing at arm’s length with the transferor and the fair market value of the property transferred exceeds the consideration given by the transferee, then the transferee is liable for the value of the property less the consideration tendered to the transferor.
+I. Summary of Case, Issues & Principles
+[2] While there were minor disagreements as to the fair market value of the properties transferred to the Appellant, the overriding question before the Court is the value of consideration paid by the Appellant as a transferee. In respect of subsection 160(1) of the Act, it should be noted that that tax liability of the transferor is not disputed, a transfer did occur and the Appellant did not deal at arm’s length with the transferor.
+[3] In August of 2000, the property known as 4502 Martingale Avenue, Langley, British Columbia (Parcel Identifier (“PID”) number 010-536-094) (“Martingale Property”) was transferred for $1.00 and natural love and affection, but bore a market value transfer of $279,000.00. This represents the issue in matter number 2009-2627(IT)G.
+[4] With respect to matter number 2009-2689(IT)G, three properties were transferred as follows:
+Address
+Referred
+to As
+Transfer Date
+Expressed
+Consideration
+FMV per Transfer
+#711-6081 Number Three Road,
+Richmond, British Columbia
+PID number 024-017-167
+“Number Three Road Property”
+June 21, 1999
+$1.00 and natural love and affection
+$32,000.00
+#711-6081 Number Three Road,
+Richmond, British Columbia
+PID number 024-017-167
+“Number Three Road Property”
+August 17, 2000
+$1.00 and natural love and affection
+$33,900.00
+#30-10080 Kilby Drive
+Richmond, British Columbia
+PID number 018-506-283
+“Kilby Property”
+June 21, 1999
+$1.00 and natural love and affection
+$90,200.00
+#30-10080 Kilby Drive
+Richmond, British Columbia
+PID number 018-506-283
+“Kilby Property”
+August 17, 2000
+$1.00 and natural love and affection
+$88,250.00
+6031 Thetis Place
+Richmond, British Columbia
+PID number 001-912-909
+“Thetis Property”
+August 17, 2000
+$1.00 and natural love and affection
+$520,000.00
+[5] Legally, the Minister has assumed that the Transfers to the Appellant, who is the son of the tax debtor, were at nominal consideration as prima facie witnessed by the registered transfers. The Appellant bears the onus of dislodging those assumptions, such that the Minister’s assumptions will stand unless demolished by evidence tendered by the Appellant which must prove on the balance of probabilities that consideration (other than the nominal consideration expressed in the Transfers and recorded in the Land Titles system) was tendered by payment, through evidence of indebtedness or other consideration made by the transferee to the transferor.
+[6] Whether consideration equal to the fair market value of the lands was tendered is fundamentally the entire issue to be decided and that issue formed the primary factual determination ascertained by the Court. To that point, although identified at the outset as a matter in dispute, no meaningful, direct evidence by way of testimony, expert report or documents was adduced by the Appellant to contest the Minister’s assumptions regarding fair market value of the properties.
+A. Respondents’ Assumptions
+[7] The following assumptions of the Minister were not challenged by the Appellant:
+a) The Appellant and his parents, Nanda Duraisami (“Father”) and Malathi Nandakumar (“Mother”), were operating at non-arm’s length.
+b) The Father was involved in an illegal telemarketing scheme whereby through foreign lotteries he obtained funds from elderly people by having them send bogus pre-qualification fees. Such activity ultimately resulted in the Father’s conviction for fraud.
+c) From time to time certain funds were given by the Father to the Appellant for depositing into joint bank accounts held with the Mother and also for the Appellant’s sole benefit.
+d) The Father failed to pay the sum of $4,225,985.00 to the Canada Revenue Agency.
+[8] The following factual issues were meaningfully in dispute or represented factual matters in respect of which the Appellant led evidence:
+a) The amount of consideration falling into the category of “other consideration” was a major point. In respect of Number Three Road Property the Appellant contended that he was owed $10,000.00 (the “Appellant Debt”) from his parents as reflected by a registered mortgage and also that there was a registered mortgage in the amount of $56,550.00 (the “Vimal Debt”). The Vimal Debt was purportedly owed by the transferors to a transferor controlled private company, Vimal Enterprises Limited, which debt the Appellant assumed upon transfer; and
+b) The Appellant contends that he assumed the debt of his Father to his Father’s sister, Usha Surendra, in the amount $658,650.00 (the “Aunt Debt”), the assumption of which debt constituted an assumed liability and valuable consideration paid by the Appellant to the Father. A mortgage securing this Aunt Debt was registered against the properties.
+[9] It was submitted that the extinguishment of the Appellant Debt by conveyance and the assumption of the Vimal Mortgage and the Aunt Debt together constituted valuable consideration satisfying the final requirement of subsection 160(1)(e) of the Act by proportionally increasing the consideration given by the Appellant for the properties to an amount equal to, or greater than, the fair market value of the properties.
+[10] The assumption of other third party debt, excluding the Appellant Debt, the Vimal Debt and the Aunt Debt, by the Appellant was accounted for by the Minister as consideration paid upon the Transfers.
+B. Details of Appellant’s Factual Assertions
+[11] The Appellant attempted to demolish the Minister’s assumptions with the following tendered evidence:
+a) The Aunt Debt was purportedly reflected in a simple promissory note (the “Note”) dated December 15, 1999. The Note was made on a joint and several basis by the Appellant and his Mother. The Payee is the Appellant’s Aunt. In turn, the Appellant offered evidence that the Aunt Debt, evidenced by the Note, was secured by two distinct mortgage documents. The first document was registered against title to the Kilby Property and the Thetis Property. The second mortgage document was registered against the Martingale Property and the Number Three Road Property.
+b) This Aunt Debt was further evidenced by the purported repayment of certain monies to the Aunt from the sale proceeds of two, but not all of the properties when sold.
+c) In direct testimony and upon cross-examination, the Appellant, in respect of the Aunt Debt:
+i) relied entirely upon his Father and Mother as to its existence, quantum and validity;
+ii) assumed the Aunt Debt and arrangement by signing a direct Note (as opposed to an assumption agreement); and
+iii) permitted repayment of certain sums when certain encumbered properties were sold.
+d) In cross-examination, the Respondent obtained the following factual admissions from the Appellant:
+i) the Aunt Debt was created entirely offshore and aside from the Appellant’s reliance on his Father’s assertion of its existence was not reflected through any collateral, direct or documentary evidence as between the primary debtor and creditor;
+ii) although there was no direct evidence of receipt for repayment of the Aunt Debt by the Aunt, the only indirect evidence of repayment revealed that all payments were being directed to the Appellant’s Father as a conduit for repayment to the Aunt;
+iii) the mortgage discharge of the security for the Aunt was executed on the same day as the mortgage security was executed;
+iv) the Appellant gave contradictory evidence as to whether he ever executed a promissory note at examination for discovery, but was much more definitive at trial that he had done so. Similarly, his evidence regarding meeting the Aunt in 1999 was contradictory;
+v) at the age of 18 or 19 years, although the Appellant purported not to be a full participant in the minutiae of these business matters, he was the registered owner of three motor vehicles, a number of real properties (both residential and commercial) and was the owner of a stock trading account provided by his Father so the Appellant could “learn the ropes” of stock trading;
+vi) the Father was charged and convicted of lottery fraud in the United States at the time of the Transfers; and
+vii) the Appellant was required pursuant to a British Columbia Supreme Court Order to pay the sum of $36,000.00 on deposit in the stock trading bank account to the Crown in satisfaction of a joint restitution order to which the Appellant was subject.
+e) With respect to the Vimal Debt and Appellant Debt, aside from the registered mortgage security, no collateral notes, advances of monies or other documentary evidence was tendered to prove the existence of the actual debt, loan or advance. The Appellant’s vive voce testimony was the sole evidence of the existence of any such debt, loan or advance.
+C. Credibility
+[12] There is no question that the Appellant has been a loyal and dutiful son, but the inconsistencies in his testimony abound where the Appellant states that:
+a) he was too young, naïve or distracted in order to pay attention to the execution of this Note in the amount of some $658,650.00, but at the same time, he was learning the ropes in the equity markets with a trading account originally worth much more than the $38,000.00 balance which remained at the time that the account was surrendered by him to the authorities;
+b) at the age of 18 years, he was able to lend $10,000.00 to his parents, when his only declared source of taxable income at the relevant time was $1,100.00 one year and “Nil” the next year. He purported to amass the sum used for the loan from birthday gifts and odd jobs; and
+c) although the Appellant purports not to have paid attention to the financial details surrounding the Note in the substantial amount of $658,650.00, he was nonetheless able to recall with precision something as minute as the business purpose and length of time of holding numerous real properties occurring during the same period.
+D. The Law
+[13] With respect to subsection 160(1) of the Act, the Federal Court of Appeal in its decision in Livingston v. Canada, 2008 FCA 89, has stated that intention is irrelevant as a precondition to the utilization of subsection 160(1). If the four enumerated grounds exist, the transferee is liable under the subsection.
+[14] Therefore, if the transferor is liable for the tax, a transfer of property occurs to a non-arm’s length party and the fair market value of property exceeds the fair market value of consideration tendered, the tax assessed for the difference is payable by the transferee.
+[15] The first three grounds are either admitted or are not in dispute.
+[16] On the final ground the Court makes the following findings:
+1. The assumption of the Minister that no actual debt existed between the Father and Appellant’s Aunt has not been demolished for the following reasons:
+a) no credible evidence of the Aunt Debt was tendered, in that:
+(i) no witness, who had direct knowledge of the Aunt Debt (i.e. the Father or Aunt), testified as to its existence;
+(ii) the one person who did testify, the Appellant, admitted on cross-examination that his examination for discovery answers and trial testimony were different as to whether he had actually met his Aunt, stated he had no direct knowledge of the existence of the Aunt Debt and acknowledged that his priorities and interests at the time were not to require or request further evidence of its existence;
+(iii) the Appellant gave no direct evidence of anything approaching personal, direct knowledge of the Aunt Debt; and
+(iv) on a documentary basis there were no cancelled cheques, bank advices regarding wire transfers or automatic fund transfer receipts (“AFTs”) between the Father to the Aunt submitted to prove the loan existed in the first instance or was repaid in the second. At most, it was indicated that the money was advanced from abroad, but even some 16 years after this purportedly occurred, and where documentary evidence for such transfers would have occurred 16 years ago, in the form of receipts, cables and/or AFT receipts, no evidence, documentary or otherwise, was tendered to prove the receipt or repayment, nor was there direct vive voce evidence offered to the Court as to why such documentary evidence of the Aunt was not available.
+2. Similarly, the Minister’s assumptions concerning the non-existance of the Appellant Debt and the Vimal Debt must also stand through the lack of any credible collateral evidence of the existence of any debt in the form of advances, cheques or other probative documentation. The self-serving testimony of the Appellant as to the existence of the Appellant Debt was not credible. It was further discredited on cross-examination by the Appellant’s view of his preferred entitlement to monies upon the bankruptcy of his Mother’s restaurant business. In that regard, he was paid the sum of $70,000.00 for undocumented, yet secured design and marketing services and “sweat equity” purportedly invested in that business.
+[17] Even though the Respondent’s assumptions were not demolished, the Respondent nonetheless led evidence of admissions regarding the Father’s evidence, under oath, of using his relatives as conduits to construct safe harbours for monies accruing from unlawful activity. Had the Respondent’s original assumptions been demolished, this uncontroverted admission may have rebutted any demolition of the assumption that the Aunt Debt, Vimal Debt or Appellant Debt ever existed.
+[18] As a matter of fact, the Father’s direct admission against interest under oath in certain United States Court proceedings of the use of a subterfuge for transferring money offshore (together with its declared purpose and goal), is preferred by this Court over the vague, inconsistent, indirect and remote knowledge of the dutiful son, who himself acknowledges he cannot be expected to presently remember such details given his then current age, focus and interests as a teenager.
+[19] By way of legal submission, the Appellant argued that in the present case a time limitation for the application of subsection 160(1) of the Act should apply. The presence of the Note, the mortgages and the assumption of debt provide prima facie evidence of consideration which require any challenge by the Minister to invalidate such instruments to be brought under other legislation or to employ other legal constructs.
+[20] The case of Canada v. Addison & Leyen Ltd., 2007 SCC 33, is definitive. The Supreme Court overturned the decision of the Federal Court of Appeal for its reading in of a limitation period which did not exist. The Supreme Court in its reasons said the use of the words “at any time” by Parliament means the “length of delay” in assessing a taxpayer is not open to challenge. Such an unequivocal statement puts a conclusive end to the Appellant’s argument regarding a time limitation and the need for the utilization of other legislation or legal construct by the Minister to effect a reassessment under subsection 160(1) of the Act.
+II. Conclusion
+[21] As stated, the Court finds that the Minister’s assumptions that no debt existed between the Father and the Appellant’s Aunt, Vimal Enterprises and the Appellant have not been dislodged by the evidence offered by the Appellant before this Court.
+[22] As such, there was:
+a) no Aunt Debt, no Vimal Debt nor any Appellant Debt to assume at or subsequent to the Transfers;
+b) no other consideration was paid by the Appellant beyond the consideration expressed in the public registry system’s affidavits and transfer documents as filed and the assumed bona fide third party debt reflected in the public land titles system which has been included by the Minister as valuable consideration in the reassessments; and
+c) since it was admitted by the Respondent that the mortgages per se constitute valid mortgages, no finding need be made of this fact. The registrations simply represent valid registrations, but for the purposes of subsection 160(1) of the Act they do not provide definitive evidence of a debt existing or owing sufficient to rebut the Minister’s assumptions, since the debt each purports to secure did not exist at the time the security was granted based upon the insufficient or non-existent evidence offered by the Appellant to dislodge the assumptions made by the Minister.
+[23] Additionally, since no evidence was led to challenge the assumptions of the Minister regarding the fair market value of the properties, the reassessments are valid in that regard as well.
+[24] For the reasons stated above, the reassessments of the Minister stand, the appeals are dismissed and costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 27th day of September 2012.
+“R.S. Bocock”
+Bocock J.
+CITATION: 2012 TCC 338
+COURT FILE NOS.: 2009-2627(IT)G
+2009-2689(IT)G
+STYLE OF CAUSE: VIKRAM NANDAKUMAR v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATES OF HEARING: May 15 and 16, 2012
+REASONS FOR JUDGMENT BY: The Honourable Mr. Justice Randall Bocock
+DATE OF JUDGMENT: September 27, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Terry S. Gill
+Counsel for the Respondent:
+Bruce Senkpiel
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Terry S. Gill
+Firm: Gill Tax Law
+Vancouver, British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

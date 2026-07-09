@@ -1,0 +1,124 @@
+Title: Eaton v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28016/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-555-28016-eaton-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-07-06
+
+# Eaton v. The Queen
+
+- Citation: 2007 TCC 555
+- Decision date: 2007-07-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1602, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Eaton v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-07-06
+Neutral citation
+2007 TCC 555
+File numbers
+2006-2531(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+CITATION: 2007TCC555
+TAX COURT OF CANADA
+IN RE: THE INCOME TAX ACT
+2006-2531(IT)I
+BETWEEN:
+EUGENIE E. EATON,
+Appellant,
+- and -
+HER MAJESTY THE QUEEN, Respondent.
+---------------
+DECISION
+Reasons for Judgment delivered orally from the bench by Justice Joe E. Hershfield, at the Courts Administration Service, Winnipeg, Manitoba on Friday, July 6, 2007.
+---------------
+APPEARANCES:
+Ms. E.E. Eaton, Appearing on her own behalf
+and
+Mr. R. Routledge, Appearing for the appellant
+J. Pniowsky, Esq., Appearing for the respondent
+---------------
+THE REGISTRAR: Ms. Cyrena Anderson
+---------------
+Four Seasons Reporting Services
+91 Ashford Drive
+Winnipeg, Manitoba
+R2N 1K7
+Per: Krista Webb
+MR. JUSTICE: Ms. Eaton, given the circumstances of your appeal, not in the sense of personal circumstances and the extent to which you have felt victimized, not only a victim of gender discrimination in pay, but in terms of the entire process and the representation that you have had, notwithstanding my sympathy for those issues, I want you to know that, in all of the circumstances, given the state of the law, that you made a reasonable case this morning, that is, one that actually caused me to consider whether or not your appeal can be considered in a different light than the appeals that have already been heard by this Court.
+But having said that, you are going to get no satisfaction from my conclusion, because my conclusion is that your appeal must fail.
+And I am going to give brief reasons and I suspect I will give you no personal satisfaction, but nonetheless it is the role that I have by duty to perform.
+This appeal concerns equity pay awards made pursuant to a decision of the Human, the Canadian Human Rights Tribunal in July of 1998, a copy of which has been filed as Exhibit R-3.
+As a consequence of the decision, the Tribunal issued a consent order in November 1999 that incorporated as part of the order an agreement whereby the Public Service Alliance, on behalf of several groups of public service employees, agreed that, in settlement of equity pay claims, Treasury Board was to make prescribed payments to members of such groups.
+Reading the agreement, the order and the decision together, I am satisfied that the amounts in dispute in this appeal were paid to the appellant pursuant to the decision of the Tribunal.
+I am also satisfied that the decision of the Tribunal in respect of the amounts in issue, as argued by the appellant, are amounts paid pursuant to paragraph 53(2)(c) of the Canadian Human Rights Act.
+That paragraph empowers the commission, the Tribunal, to compensate victims of pay inequities for any and all wages that the victim was deprived of.
+While that provision includes the possibility for compensation for any expenses incurred by the victim as a result of the discriminatory practice, the compensation actually awarded, as evidenced by the decision and the order, was clearly in respect of wages that the victim was deprived of.
+The amounts paid pursuant to the order were assessed as employment income in the year received. The appellant asserts that the amounts are not employment income or wages, but rather are tax free damages or some other tax free compensation amount.
+The appellant raised a number of arguments. I will deal only with two of those arguments as, in my view, only those two could be considered relevant to the jurisdiction of this Court. The limitations of that jurisdiction were explained to the appellant during the course of the hearing.
+Firstly, the appellant argued that since the award did not fully compensate her for all the wages she was deprived of, they could not be wages.
+Similar argument was made in respect of the award for overtime inequities or overtime pay inequities, at least for a portion of the period covered by the decision, as they were not on an event basis and cannot thereby be said to be paid as wages.
+A wage, she argues, is the exact income amount that would correspond to her entitlement based on her actual employment situation. Since she received less than such amount, the amount received must be seen as damages or something other than wages.
+While well presented, the argument, in my view, is without merit and, in any event, is at odds with current jurisprudence dealing with pay equity disputes and with general principles of taxation.
+To argue that to receive a part of a wage is not a wage simply begs the question of what it is that is received. To receive part of a suit of clothes is not to receive a suit of clothes, but to receive part of an acre of land is to receive land.
+Receiving part of a wage, in my view, in satisfaction of more does not change the character of the part received.
+Regardless, the argument cannot stand up against the actual terms of the decision and the jurisprudence dealing with pay equity. The decision, I am referring to the decision of the Tribunal, expressly makes the award as an adjustment to wages. It is for retroactive pay awarded under the authority of paragraph 53(2)(c) of the Canadian Human Rights Act, which provides for any or all wages a victim is deprived of, as considered proper by the Tribunal.
+An award for less than all does not change the jurisdiction of the Tribunal to provide for an amount of retroactive pay. An award for less than all does not change the nature and character of the award.
+Dealing with this very paragraph of the Canadian Human Rights Act, Justice Woods remarks as follows in her decision (in Van Elslande) which both counsel for the respondent referred to and as I made the parties aware of as well early on in the proceedings, and I will read from paragraphs 16 through 18,
+"16 The award was made pursuant to s. 53(2)(c) of the Canadian Human Rights Act. This section provides that the tribunal may make an award against an employer of compensation for wages that the victim of ... discrimination was deprived of.
+17 In this case, the tribunal's decision makes it clear that the nature of the award is compensation for lost wages rather than some other type of damages.
+18 As for the tax principles that apply in this situation, neither party brought any prior judicial decisions to my attention on the issue. Upon a brief review of the case law, I discovered that there was a decision of the Federal Court of Appeal dealing with the taxation of a pay equity award. The decision, Morency v. The Queen, was issued in January 2005 and concerned a pay equity award in respect of an employee of the Quebec government. The claim in Morency was made for wage discrimination under the Quebec Charter of Human Rights and Freedoms, which is similar to the pay equity legislation that governs the award [of] Ms. Van Elslande. The Federal Court of Appeal upheld the decision of the Tax Court and decided that the award was taxable as income. In the appellate court, Noel J. states:
+'The amount in question will count as income if the payment compensates the appellant for the pay she was entitled to receive but did not receive.'"
+I do not see the statement by the Court of Appeal as being limited to cases of full compensation for an entitlement to income as income.
+What that statement says, in my view, is to reiterate a well-established principle of taxation, a principle that counsel for the respondent referred to and that is set out in the decision of this Court in Michelle Cloutier-Hunt at paragraph 6 of that decision. Regarding an issue as to whether or not an amount should be included as income, Justice Sharlow, from the Federal Court of Appeal, was quoted from her decision in the Transocean Offshore Limited case, and Justice Sharlow says,
+"'For the purposes of Part I of the Income Tax Act ...'",
+which is the part we are in,
+"'... the answer to that question requires the application of a judge‑made rule, sometimes called the "surrogatum principle", by which the tax treatment of a payment of damages or a settlement payment is considered to be the same as the tax treatment of whatever the payment is intended to replace.'"
+So even if we do not abide by the decision of the Tribunal and say, no, that is not the end of the matter because, as the appellant in this case points out, there is an amount paid less than the full entitlement and I should therefore not be bound by these prior decisions, and even if one were to acknowledge that that difference should be given judicial credence, one finds oneself in the exact same position, by applying the surrogatum principle, which specifically, and this is another Court of Appeal decision in a similar context, says that when you take even as damages as a settlement for something, then the damages are to be considered to have the same nature and character for income tax purposes as that which the settlement amount or damages replace.
+So the damages become income, employment income, because they are there to compensate you for your loss of wages.
+And that principle, applied in a similar case very recently by the Court of Appeal, stands side by side with Justice Woods' decision, where she relies too on a Court of Appeal decision under the very same provisions of that very same legislation.
+Accordingly, I can find no basis upon which your first argument can assist you.
+The second argument that I want to refer to is the argument that the appellant should not be bound by the decision in the sense that she was not a party to the proceedings or that she was not dutifully and diligently represented by her union or her interests were not dutifully and diligently represented, and that her acceptance of the dollar amount of the award was for her as damages.
+I acknowledge that nothing unfolded in accordance with the appellant's expectations and intentions. Her view is that her employer exercised its whim in determining the pay equity compensation. Amounts were, in effect, arbitrary.
+As to this argument, all I can say is that the settlement results from an order of the Canadian Human Rights Commission and cannot be regarded as whimsical. That order and decision that gave rise to your award was diligently and dutifully pursued on your behalf, and with every regard to persons in like circumstances.
+And you did accept the settlement. Indeed, your language was you accepted the buyout offer. Your acceptance is really the end of that matter.
+Again, then, that argument does not assist you.
+Lastly, I note that, in my view, if I have not already said this, that it strikes me, on my review of the Tribunal's decision, that they stand at arms length to your employer and that your interests were represented, aside from the representations that may have been made by the Public Service Alliance.
+Your personal expectations and personal circumstances and personal feelings of victimization and your experience of being disappointed along this process may well be justified in many respects, but to feel that the Human Rights Tribunal did not act dutifully I think requires you to give that a second thought.
+In any event, the appeals are dismissed.
+* * * * *
+Certified Correct:
+__________________
+Krista Webb
+CITATION: 2007TCC555
+COURT FILE NO.: 2006-2531(IT)I
+STYLE OF CAUSE: Eugenie E. Eaton and
+Her Majesty the Queen
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: July 6, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice
+J.E. Hershfield
+DATE OF ORAL JUDGMENT: July 6, 2007
+APPEARANCES:
+For the Appellant: The Appellant herself –and-
+Mr. R. Routledge
+Counsel for the Respondent: Jeff Pniowsky
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General
+of Canada
+Ottawa, Canada.

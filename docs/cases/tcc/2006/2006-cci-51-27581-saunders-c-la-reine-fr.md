@@ -1,0 +1,151 @@
+---
+title: "Saunders c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27581/index.do"
+last_modified: "2006-01-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 51"
+citation2: ""
+neutral_citation: "2006 CCI 51"
+decision_date: "2006-01-23"
+language: "fr"
+item_id: "27581"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 75
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:57:31.438000+00:00"
+cases_cited_count: 0
+cases_citing_count: 13
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "84e6ca70b44b4642f81b25296474284d689d89ce172e5060b52c9f01464049f2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Saunders c. La Reine
+
+- Citation: 2006 CCI 51
+- Decision date: 2006-01-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 75, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Saunders c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-23
+Référence neutre
+2006 CCI 51
+Numéro de dossier
+2005-2025(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2025(IT)I
+ENTRE :
+JUDY SAUNDERS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Hamilton (Ontario), le 4 novembre 2005
+Devant : L'honorable juge Judith Woods
+Comparutions :
+Représentant de l'appelante :
+Eric Seidel
+Avocat de l'intimée :
+Me Aleksandrs Zemdegs
+____________________________________________________________________
+JUGEMENT
+L'appel à l'encontre d'une cotisation établie en application de la Loi de l'impôt sur le revenu pour l'année d'imposition 2002 est rejeté.
+Signé à Ottawa, Canada, ce 23e jour de janvier 2006.
+« J. Woods »
+Le juge Woods
+Traduction certifiée conforme ce 18e jour de décembre 2006.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI51
+Date : 20060123
+Dossier : 2005-2025(IT)I
+ENTRE :
+JUDY SAUNDERS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Woods
+[1] Il s'agit d'un appel interjeté par Mme Judy Saunders à l'encontre d'une cotisation établie à l'égard de son année d'imposition 2002, en application de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), dans sa version modifiée (la « Loi » ). La question porte sur une pénalité imposée par le ministre du Revenu national (le « ministre » ) aux termes du paragraphe 163(1) de la Loi pour omission de déclarer des revenus pour plus d'une année d'imposition.
+[2] Le paragraphe 163(1) s'applique si le contribuable omet de déclarer des revenus pour deux années d'imposition sur une période de quatre ans. Dans une telle éventualité, le contribuable est passible d'une pénalité égale à 10 % du revenu non déclaré pour l'année d'imposition la plus récente.
+[3] Madame Saunders était représentée à l'audience par son comptable, dont le cabinet avait la charge de ses déclarations de revenus. Il n'est pas contesté que Mme Saunders avait omis de déclarer des revenus pour deux années d'imposition de suite, soit les années 2001 et 2002. L'unique question à trancher est celle de savoir s'il faut annuler la pénalité pour des motifs de diligence raisonnable ou d'équité.
+[4] Les circonstances de l'appel sont malheureuses. Pendant la période en litige, Mme Saunders a perdu son emploi lorsque son employeur a cessé toute activité et son mari est devenu handicapé par suite d'un accident.
+[5] Pour l'année d'imposition 2001, le revenu non déclaré était de 2 000 $; il s'agit d'un montant que Mme Saunders avait retiré d'un régime enregistré d'épargne-retraite ( « REÉR » ). Le montant n'avait pas été déclaré parce que, pour des raisons inconnues, le feuillet T5 connexe était manquant. Madame Saunders a témoigné que la déclaration de revenus pour l'année en question indiquait que d'autres montants avaient été retirés de ses REÉR et que seul le montant de 2 000 $ n'y était pas mentionné.
+[6] Le représentant de Mme Saunders a avancé qu'il y avait des circonstances atténuantes relativement à cette déclaration de revenus, parce que Mme Saunders avait aussi omis de demander une déduction pour un montant de 1 500 $ qu'elle avait cotisé à un REÉR, cela réduisant le montant net non déclaré pour l'année d'imposition 2001 à 500 $ seulement.
+[7] Pour l'année d'imposition 2002, Mme Saunders a omis de déclarer un revenu d'emploi d'environ 18 000 $. Les circonstances de ce défaut comprennent un malentendu entre Mme Saunders et le comptable qui avait préparé sa déclaration de revenus. Il y avait eu un problème parce que l'employeur, qui avait mis fin aux activités de son entreprise au Canada, n'avait pas envoyé de feuillet T4 pour la rémunération versée. Madame Saunders avait fait des efforts considérables pour obtenir un feuillet T4, mais en vain. Elle avait donc décidé de donner à son comptable le seul document qu'elle avait, soit un relevé d'emploi.
+[8] À cause d'un malentendu, le comptable n'avait pas inclus ce montant dans la déclaration de revenus. Même si le montant non déclaré était important, Mme Saunders n'avait pas relevé l'erreur parce qu'elle n'avait pas fait d'examen détaillé de la déclaration avant de la produire.
+[9] L'impôt sur le revenu non déclaré avait été retenu à la source, mais on avait omis de payer un montant d'impôt d'environ 1 500 $ pour l'année. Le ministre avait établi une cotisation initiale à l'égard de la déclaration de revenus comme elle avait été produite et avait effectué un remboursement d'environ 700 $.
+[10] Lorsque les erreurs dans les déclarations de revenus ont été découvertes, le ministre a imposé une pénalité d'environ 1 800 $, soit 10 % du revenu non déclaré pour 2002. Comme l'a souligné le représentant de Mme Saunders, le montant de la pénalité était finalement plus élevé que l'impôt payable. Même s'il est tenu compte du remboursement de 700 $, le montant d'impôt payable est peu élevé comparativement à la pénalité imposée.
+[11] Le représentant de l'appelante a soutenu que la pénalité devrait être annulée, ou réduite, pour tenir compte des circonstances atténuantes de cette affaire.
+Analyse
+[12] La pénalité visée par le paragraphe 163(1) est un exemple d'un cas de responsabilité stricte, même si la Cour a déjà jugé que cette pénalité pouvait être annulée si le contribuable réussissait à établir qu'il avait fait preuve de diligence raisonnable. Le juge en chef Bowman a récemment analysé les principes qu'il fallait appliquer au moment de se pencher sur un moyen de défense fondé sur la diligence raisonnable, et ce, dans la décision DeCosta c. La Reine, no 2005-146(IT)I, 18 août 2005, 2005 D.T.C. 1436 (C.C.I.). Il dit ce qui suit au paragraphe 11 :
+Pour établir la distinction entre la faute « ordinaire » ou la négligence et la faute « lourde » , il faut examiner plusieurs facteurs. Un de ces facteurs est bien entendu l'importance de l'omission relative au revenu déclaré. Il y a aussi la faculté du contribuable de découvrir l'erreur, ainsi que le niveau d'instruction du contribuable et son intelligence apparente. Il n'existe aucun facteur qui soit prédominant. Il faut accorder à chacun des facteurs le poids qu'il convient dans le contexte de l'ensemble de la preuve.
+[13] Compte tenu de toutes les circonstances de la présente affaire, aucun moyen de défense fondé sur la diligence raisonnable n'a été établi. Madame Saunders a fait preuve de beaucoup de diligence lorsqu'elle a essayé d'obtenir un feuillet T4 de son ancien employeur, mais elle n'a pas examiné attentivement sa déclaration de revenus avant de la produire et n'a pas fait de suivi après avoir reçu son remboursement de 700 $.
+[14] Le représentant de Mme Saunders a invoqué la décision Khalil c. La Reine, no 2001-2792(IT)I, 11 octobre 2002, [2003] 1 C.T.C. 2263 (C.C.I.), où le juge Mogan avait annulé la pénalité visée au paragraphe 163(1) dans une situation semblable à la présente espèce, lorsque des retenues à la source avaient été faites relativement au revenu non déclaré. Dans la décision Khalil, le juge avait souligné que la pénalité prévue par le paragraphe 163(1) « réclame l'équité » lorsqu'elle est supérieure à l'impôt payable. Toutefois, le juge avait également signalé que la contribuable ne comprenait pas le régime fiscal canadien et ne se rendait pas compte que le montant devait être déclaré dans la déclaration de revenus lorsque des retenues à la source avaient été effectuées.
+[15] À mon avis, la décision rendue dans l'affaire Khalil ne devrait pas s'appliquer à quelqu'un qui se trouve dans une situation comme celle de Mme Saunders. Contrairement à Mme Khalil, Mme Saunders n'était pas « totalement innocente de toute faute ou négligence » [1]. Le législateur a choisi d'adopter le paragraphe 163(1) pour garantir l'intégrité du régime d'autodéclaration du Canada. Selon moi, les tribunaux ne doivent pas décider à la légère d'annuler la pénalité prévue par la loi.
+[16] En ce qui concerne l'observation de Mme Saunders au sujet de la réduction du montant de la pénalité, il n'y a rien que je puisse faire pour réduire la pénalité, parce que la façon de la calculer est établie par la loi. Toutefois, à l'audience, l'avocat de l'intimée a convenu de demander que la pénalité soit examinée aux termes de la disposition d'équité. J'ai appris quelques semaines plus tard que cela n'avait pas permis de régler l'appel, ce qui est malheureux pour Mme Saunders.
+[17] Pour tous les motifs susmentionnés, l'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 23e jour de janvier 2006.
+« J. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 18e jour de décembre 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2006CCI51
+NO DU DOSSIER :
+2005-2025(IT)I
+INTITULÉ :
+Judy Saunders c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Hamilton (Ontario)
+DATE DE L'AUDIENCE :
+Le 4 novembre 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge Judith Woods
+DATE DU JUGEMENT :
+Le 23 janvier 2006
+COMPARUTIONS :
+Représentant de l'appelante :
+Eric Seidel
+Avocat de l'intimée :
+Me Aleksandrs Zemdegs
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+s.o.
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Paragraphe 9 de la décision Khalil.

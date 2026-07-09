@@ -1,0 +1,292 @@
+Title: Kern v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27124/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-314-27124-kern-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-05-05
+
+# Kern v. The Queen
+
+- Citation: 2005 CCI 314
+- Decision date: 2005-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 928, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kern v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-05
+Référence neutre
+2005 CCI 314
+Numéro de dossier
+2003-3694(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2003-3694(IT)I
+2003-3696(IT)I
+ENTRE :
+HARALD KERN et
+ELKE KERN,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus avec les appels de Harald Kern (2003-3693(GST)I)
+et d'Elke Kern (2003-3695(GST)I), à Charlottetown (Île-du-Prince-Édouard),
+les 3 mars et 22 novembre 2004.
+Devant : L'honorable juge Campbell J. Miller
+Comparutions :
+Représentant des appelants :
+M. Harald Kern
+Avocats de l'intimée :
+Mes Caitlin Ward et James Murphy
+____________________________________________________________________
+JUGEMENT
+Les appels de cotisations établies en vertu de l'article 227.1 de la Loi de l'impôt sur le revenu, dont les avis sont datés du 28 février 2002 et portent les numéros 27055 et 27056, sont rejetés.
+Signé à Ottawa, Canada, ce 5e jour de mai 2005.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 25e jour d'août 2006.
+Sara Tasset
+Dossiers : 2003-3693(GST)I
+2003-3695(GST)I
+ENTRE :
+HARALD KERN
+et ELKE KERN,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus avec les appels de Harald Kern (2003-3694(IT)I)
+et d'Elke Kern (2004-3696(IT)I), à Charlottetown (Île-du-Prince-Édouard),
+les 3 mars et 22 novembre 2004
+Devant : L'honorable juge Campbell J. Miller
+Comparutions :
+Représentant des appelants :
+M. Harald Kern
+Avocats de l'intimée :
+Mes Caitlin Ward et James Murphy
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de l'article 323 de la Loi sur la taxe d'accise, dont les avis sont datés du 27 février 2002 et portent les numéros 76677 et 76678, sont accueillis, sans que les dépens soient adjugés, et l'affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que les appelants sont redevables : (i) de la taxe nette non versée en 1997, d'un montant de 48 161,85 $, d'intérêts de 2 557,47 $ et de pénalités de 3 443,61 $; (ii) de la taxe nette non versée en 1999, d'un montant de 10 500 $, d'intérêts de 1 233,65 $ et de pénalités de 1 474,82 $. Il n'y a pas de taxes, d'intérêts ou de pénalités dont les appelants seraient redevables pour la période allant du 1er avril 1998 au 30 septembre 1999.
+Signé à Ottawa, Canada, ce 5e jour de mai 2005.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 25e jour d'août 2006.
+Sara Tasset
+Référence : 2005CCI314
+Date : 20050505
+Dossiers :2003-3693(GST)I, 2003-3694(IT)I
+2003-3695(GST)I, 2003-3696(IT)I
+ENTRE :
+HARALD KERN
+et ELKE KERN,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Ces appels, interjetés sous le régime de la procédure informelle par Harald et Elke Kern, se rapportent à des cotisations établies par le ministre du Revenu national (le « ministre » ) en vertu de l'article 227.1 de la Loi de l'impôt sur le revenu et de l'article 323 de la Loi sur la taxe d'accise, à l'égard de M. et de Mme Kern, en leur qualité d'administrateurs de 457189 B.C. Ltd. (la « société » ). Deux questions sont communes à l'appel en matière d'impôt sur le revenu ainsi qu'à l'appel concernant la taxe d'accise : il s'agit en premier lieu de savoir si les Kern ont établi le moyen de défense fondé sur la diligence raisonnable en vue d'échapper à la responsabilité qui leur incombe à titre d'administrateurs; en second lieu, dans le cas où les Kern n'auraient pas réussi à établir ce moyen de défense, il s'agit de savoir s'ils peuvent contester le bien-fondé de la cotisation sous-jacente établie à l'égard de la société en vue d'atténuer leur responsabilité. Je suis convaincu que les Kern n'ont pas agi avec une diligence raisonnable et qu'ils sont donc responsables, conformément à l'article 323 de la Loi sur la taxe d'accise et à l'article 227.1 de la Loi de l'impôt sur le revenu. Il reste à déterminer le montant dont ils sont redevables, étant donné que je conclus qu'ils peuvent contester les deux cotisations sous-jacentes. Je conclus que, pour la période allant de 1997 à 1999, le ministre a déterminé d'une façon inexacte la taxe sur les produits et services (la « TPS » ) selon la Loi sur la taxe d'accise, mais qu'il a établi à juste titre une cotisation à l'égard de la société pour les retenues à la source conformément à la Loi de l'impôt sur le revenu.
+Les faits
+[2] En 1997, la société a acquis un hôtel de 57 chambres en bordure de l'océan (l' « hôtel » ), à Cowichan Bay (Colombie-Britannique). M. et Mme Kern étaient administrateurs de la société à ce moment-là et ils le sont demeurés pendant toute la période pertinente. M. Kern avait de l'expérience dans le domaine de l'exploitation hôtelière parce qu'il avait été propriétaire d'une auberge à Campbell River. L'hôtel était doté d'un restaurant, au cinquième étage, et d'une boutique dans laquelle on vendait de la bière et du vin, au troisième étage.
+[3] M. Kern a reconnu que l'hôtel avait connu des difficultés financières dès le début dans ce qu'il a décrit comme une industrie difficile où la compétition était féroce. Il a mentionné à titre d'exemple qu'il avait fallu faire réparer la chaudière à eau chaude quelques jours à peine après l'acquisition de l'hôtel, au coût de 25 000 $. M. Kern a admis avoir été dépassé par les problèmes quotidiens que comportait l'exploitation de l'hôtel - des problèmes qui se sont poursuivis pendant trois ans. La société n'a jamais été rentable pendant que les Kern la contrôlaient.
+[4] M. Kern déclare avoir loué le restaurant, au mois de janvier 1998, à Cherry Point Food Services, lequel était exploité par Kurt Brown et Mary Carlson. M. Kern a produit une photocopie d'une page de ce qui semble être la première page d'un bail concernant le restaurant, lequel prenait effet le 18 janvier 1998 et était d'une durée de cinq ans. L'intimée a accepté cet arrangement, étant donné que les ventes conclues par le restaurant n'étaient pas incluses dans le calcul de la TPS de la société pour les années 1998 et 1999.
+[5] M. Kern déclare également avoir loué la boutique dans laquelle on vendait de la bière et du vin, au mois d'avril 1998, à une société à numéro de la Colombie-Britannique, 546401 B.C. Ltd. ( « 546 » ), et il a encore une fois produit une photocopie d'un bail, daté du 14 avril 1998, signé par lui-même pour le compte de la société, et par Mme Bjarnetson, pour le compte de la locataire, 546. Mme Bjarnetson travaillait également pour la société à la réception de l'hôtel. L'intimée convient qu'un bail a été signé, mais elle me demande d'accorder peu de poids ou de n'accorder aucun poids à ce bail parce que la société a continué, selon elle, à indiquer les ventes de bière et de vin dans ses états financiers. Le vérificateur de l'Agence du revenu du Canada (l' « ARC » ) a également témoigné que l'examen des documents bancaires de la société montrait que les sommes se rapportant à 546 étaient déposées dans le même compte bancaire que les dépôts effectués par la société.
+[6] Les difficultés financières de la société étaient telles qu'en 1999, M. Kern a envisagé plusieurs solutions différentes en vue de rentabiliser les activités, notamment la possibilité de ventes de parts de multipropriété. M. Kern estimait qu'il s'agissait d'une solution acceptable étant donné qu'il y avait déjà des titres distincts afférents aux chambres selon un arrangement de la nature d'une copropriété. M. Kern a témoigné avoir fait préparer des feuilles de calcul financier à inclure dans un prospectus. Aucun prospectus préliminaire n'a été produit en preuve. Ces feuilles de calcul financier, a-t-il dit, ont été envoyées par télécopieur à l'ARC par inadvertance. En fait, les feuilles de calcul pour les années 1997 et 1998, qui ont la forme d'états de résultats annuels, et que l'intimée appelle les états financiers de la société, ont été jointes aux déclarations de revenus de 1997 et de 1998 de la société qui ont été produites au mois de janvier 2000. Les feuilles de calcul, ou les états financiers, pour l'année 1999, étaient des états de résultats mensuels; on ne sait pas trop comment les états de 1999 se sont trouvés entre les mains de l'ARC. Tous ces états indiquent notamment les recettes tirées de la boutique dans laquelle on vendait de la bière et du vin, mais les états de 1998 et de 1999 ne comprennent pas les recettes tirées du restaurant. Les états de 1998 indiquent des recettes tirées de la vente de bière et de vin, s'élevant à 376 555 $, mais la perte globale découlant de l'exploitation de l'hôtel s'élevait à 251 336 $. Ce chiffre était indiqué dans la déclaration de revenus de 1998 de la société. M. Kern admet avoir signé cette déclaration, mais il maintient qu'il ne l'a pas préparée et qu'il ne l'a pas produite, la déclaration ayant plutôt probablement été produite par le séquestre, qui a été désigné au début de l'an 2000.
+[7] Aucune déclaration de revenus de 1999 n'a été produite, mais comme il en a été fait mention, un état mensuel pour chacun des neuf premiers mois de l'année 1999 a été produit en preuve selon une présentation semblable aux états annuels de 1997 et de 1998. L'intitulé de ces états variait : les états de 1997 et de 1998 portaient le nom de la société, alors que les états mensuels de 1999 portaient le nom commercial de l'hôtel. En outre, les neuf états mensuels concernant l'année 1999 indiquaient un bénéfice de plus de 400 000 $.
+[8] M. Kern a présenté les relevés bancaires pour le premier trimestre de l'année 1997, tous les relevés concernant l'année 1998 et les relevés concernant trois trimestres de l'année 1999. L'intimée m'a demandé d'accorder peu de poids ou de n'accorder aucun poids à ces éléments de preuve étant donné qu'ils ne sont pas étayés par les documents comptables nécessaires pour établir leur pertinence. Pourtant, pour les années 1997 et 1998, il semble que les documents bancaires étayent les assertions de M. Kern quant aux chiffres exacts des recettes, abstraction faite des ventes de bière et de vin. Les chiffres fournis par M. Kern pour le dernier trimestre de l'année 1999 semblent se rapporter à des recettes de 546, la société qui exploitait la boutique où l'on vendait la bière et le vin. Ces chiffres donnent à entendre que les recettes s'élevaient à environ 33 000 $ par mois pour les ventes de bière et de vin, ce qui n'est pas loin de la moyenne mensuelle de 38 000 $ pour les ventes de bière et de vin indiquée dans les états de résultats mensuels de 1999 pour les neuf premiers mois de l'année 1999.
+[9] En 1999, M. Kern s'est rendu compte qu'il avait besoin d'un montant additionnel de 400 000 $ pour se maintenir à flot. Il n'a pas pu se procurer l'argent et, au mois de décembre, la banque a pris des mesures de forclusion. Au mois de janvier 2000, un séquestre a été désigné. Au mois de février, le séquestre a fermé l'hôtel, mais il a continué à exploiter le restaurant et la boutique où l'on vendait la bière et le vin.
+[10] En ce qui concerne les activités et la gestion quotidiennes de l'hôtel, il était clair que M. Kern y participait plus que sa femme. M. Kern passait chaque semaine trois ou quatre jours à l'hôtel. Il avait un bureau près du bureau d'accueil où les livres et registres étaient tenus, bien qu'il semble qu'il y ait eu peu de livres et de registres. Il n'y avait pas de comptes distincts pour la paie ou la TPS et aucune liste d'employés. M. Kern déclare avoir calculé le montant de la TPS à verser, mais que quelqu'un d'autre s'occupait des feuillets T4, probablement les gens qui travaillaient à la réception. M. Kern a mentionné que Mme Bjarnetson était l'une des personnes qui travaillaient à la réception. Il a affirmé que quatre employés, dont les retenues à la source étaient payées par la société, étaient en fait des employés de la boutique où l'on vendait la bière et le vin, et non de la société. M. Kern n'a pas demandé d'aide ou n'a pas eu recours à des services de comptabilité professionnelle pour la tenue de ses livres.
+[11] M. Randy Young, le vérificateur à l'ARC, a témoigné avoir procédé à une vérification à l'égard de la société entre le mois de mai 2000 et le mois de mars 2001. Les seuls livres et registres originaux qu'il a pu obtenir étaient des documents qui étaient rangés dans quatre boîtes venant du séquestre et se rapportant à l'année d'imposition 1997. Parmi ces documents il y avait le sommaire des recettes quotidiennes de 1997. M. Young a examiné les trois derniers mois de 1997 et il a conclu qu'il y avait un écart de 17 000 $ entre ce qui avait été déclaré par la société et ce qui avait réellement été perçu au titre de la TPS. M. Young a également examiné une vérification de la taxe de vente provinciale effectuée par les autorités de la Colombie-Britannique, qui avaient de leur côté examiné les dépôts bancaires de la société. M. Young a conclu que la société avait déclaré en moins son obligation au titre de la TPS, d'un montant d'environ 48 000 $ pour l'année 1997.
+[12] Afin de déterminer l'obligation relative à la TPS pour l'année 1998, M. Young a encore une fois tenu compte de la vérification provinciale et il s'est également fondé sur les états financiers, dont il a déjà été fait mention, déposés par la société avec les déclarations de revenus de 1997 et de 1998. Il a conclu qu'il y avait une insuffisance de 1 137 $ au titre de la TPS. M. Young a également parlé à Mme Bjarnetson, qui lui a fait savoir que les déclarations relatives à la TPS étaient produites par l'entremise de la société à numéro (le témoignage de M. Young ne montre pas clairement de quelle société à numéro Mme Bjarnetson pouvait parler).
+[13] M. Young s'est également fondé sur les états financiers mensuels de 1999 pour les constatations concernant l'année 1999; il est arrivé aux conclusions suivantes au sujet de l'insuffisance au titre de la TPS : pour le premier trimestre de l'année 1999, 10 939 $; pour le deuxième trimestre, 18 593 $; et pour le troisième trimestre, 20 144 $. Le témoignage de M. Young, en ce qui concerne l'obligation relative à la TPS pour l'année 1999, différait de ce qui avait été déterminé, les montants y afférents étant les suivants : pour le premier trimestre, 7 424 $; pour le deuxième trimestre, 29 166 $; pour le troisième trimestre, 24 227 $ et pour le quatrième trimestre, 12 500 $. L'intimée a donné par écrit les explications suivantes :
+[traduction] [...] L'écart résulte des rajustements effectués par l'ADRC pendant la période allant du 5 janvier 2001 au 27 février 2002. Lorsque les crédits de taxe sur les intrants ont été déclarés au cours d'une période de déclaration, ce crédit a été imputé à la TPS qui était exigible pour une autre période. Le montant de 12 500 $ qui a été déterminé pour la période ayant pris fin le 31 décembre 1999, dans l'avis de cotisation, était basé sur une cotisation théorique.
+[14] Quant à la paie, l'ARC a comparé les feuillets T4 des employés et le sommaire T4 de la société, et elle a conclu que certaines retenues à la source n'avaient pas été versées. M. Kern accepte la position prise par l'intimée à l'égard des retenues à la source pour l'année 1997, mais il s'oppose à certains montants se rapportant aux années 1998 et 1999.
+[15] En ce qui concerne les retenues à la source, un certificat précisant la somme pour laquelle la société était responsable, à savoir 36 618,59 $, a été enregistré le 8 janvier 2001 à la Cour fédérale du Canada. La Cour fédérale a délivré un bref de saisie et de vente le 8 juin 2001, qui a été retourné le 31 janvier 2002 et à l'égard duquel il y a eu défaut d'exécution totale. L'intimée a depuis lors recouvré une bonne partie de la somme.
+[16] Pendant la période pertinente, la société était inscrite en vertu de la partie IX de la Loi sur la taxe d'accise. Le 6 juin 2001, un certificat précisant la somme pour laquelle la société était responsable en vertu de la Loi sur la taxe d'accise, à savoir 191 797,16 $, a été enregistré à la Cour fédérale du Canada et un bref de saisie et de vente a été délivré en même temps. Le 31 janvier 2002, le bref, à l'égard duquel il y a eu défaut d'exécution totale, a été retourné au ministre. La société n'a jamais déposé d'opposition ou n'a jamais interjeté appel. Le 27 février 2002, l'intimée a établi une cotisation à l'égard des appelants pour la taxe nette à verser par la société, d'un montant de 122 617,35 $, plus des pénalités d'un montant de 59 390,97 $ et des intérêts d'un montant de 25 785,50 $, soit un montant de 207 793,82 $ en tout, comme l'indique d'une façon plus précise l'annexe A jointe aux présents motifs, laquelle a été jointe aux réponses aux avis d'appel de l'intimée.
+Analyse
+[17] Il s'agit d'une affaire concernant la responsabilité de l'administrateur, fondée sur l'article 227.1 de la Loi de l'impôt sur le revenu et sur l'article 323 de la Loi sur la taxe d'accise. Ces deux dispositions prévoient un moyen de défense fondé sur la diligence raisonnable. J'examinerai cette question avant de me pencher sur la question des cotisations sous-jacentes.
+[18] M. Kern n'a pas affirmé avec véhémence que sa femme et lui avaient fait preuve d'une telle diligence qu'ils échapperaient à la responsabilité qui leur incombe, et ce, pour une bonne raison. Les faits n'étayent pas une telle position. M. Kern était parfaitement au courant des difficultés financières de l'entreprise, et ce, dès qu'il a commencé à y participer; pourtant, il n'a aucunement cherché à mettre en place des systèmes ou des procédures en vue de protéger les intérêts du gouvernement quant aux retenues à la source et aux paiements relatifs à la TPS. M. Kern n'était pas un novice dans cette industrie. Il devait être parfaitement au courant des exigences; pourtant, il n'a même pas eu recours à un comptable pour l'aider. Aucun compte distinct n'a été ouvert, il n'y avait même pas de liste d'employés. M. Kern a adopté une attitude nonchalante envers la tenue de livres, au point qu'il a donné à entendre que c'était en fait les préposés à la réception qui en étaient responsables. Je conclus que M. Kern n'a pas agi avec autant de soin, de diligence et de compétence pour prévenir le manquement que ne l'aurait fait une personne raisonnablement prudente dans les mêmes circonstances. Le critère a été bien établi par la jurisprudence et M. Kern a omis d'y satisfaire.
+[19] Qu'en est-il de Mme Kern? Elle n'a pas témoigné, mais il ressort clairement du témoignage de M. Kern qu'elle ne participait pas activement à l'entreprise. De fait, M. Kern a soutenu que Mme Kern ne prenait pas vraiment intérêt à l'hôtel. Dans ces conditions, elle aurait peut-être dû réfléchir davantage avant d'accepter le poste d'administratrice. Or, elle était administratrice. Je souscris aux remarques suivantes que le juge Marceau a faites dans l'arrêt Soper v. The Queen[1] :
+Le paragraphe 227.1(1) tient l'administrateur d'une société responsable de l'omission de sa société de verser les retenues d'impôt et d'autres retenues à la source à l'égard de la rémunération des employés, et le paragraphe 227.1(3) permet à l'administrateur d'échapper à la responsabilité s'il peut démontrer qu'il a exercé un certain degré de soin, de diligence et de compétence pour prévenir ce manquement. Par ces dispositions, le législateur impose, selon moi, à l'administrateur d'une société une obligation entièrement nouvelle, distincte et expresse. Il s'agit d'une obligation envers la Couronne et non envers la société, qui consiste à faire ce qu'il est raisonnablement possible de faire pour prévenir pareil manquement. Je ne peux tout simplement pas imaginer qu'on puisse jamais considérer qu'un administrateur comme l'appelant en l'espèce s'est acquitté d'une telle obligation s'il ne s'est jamais soucié de cette exigence et est demeuré complètement indifférent et passif à cet égard.
+En demeurant complètement indifférente et passive, Mme Kern ne s'est pas acquittée de l'obligation qui lui incombait. Je conclus qu'elle est également responsable.
+Droit de contester les cotisations sous-jacentes
+[20] J'examinerai maintenant la question épineuse de la capacité des Kern de contester les cotisations sous-jacentes dont la société a fait l'objet. Il ressort clairement de l'examen des décisions que la Cour a rendues au sujet du droit de l'administrateur de contester une cotisation sous-jacente dont une société a fait l'objet dans une affaire qui se rapporte à l'article 323 Loi sur la taxe d'accise qu'il existe des points de vue opposés. Ceux qui croient que les administrateurs ne peuvent pas contester la cotisation dont la société a fait l'objet auront intérêt à consulter, par exemple, Schuster c. La Reine[2], Maillé v. The Queen[3] et la décision récemment rendue dans l'affaire Zaborniak c. La Reine[4] (le « point de vue à l'encontre » ). Ceux qui croient que les administrateurs peuvent contester une cotisation sous-jacente pourront se reporter aux décisions Lau v. The Queen[5], Weins c. La Reine[6] et Parisien c. La Reine[7] (le « point de vue en faveur » ). Ces dernières décisions suivent l'arrêt Gaucher v. The Queen[8] dans lequel la Cour d'appel fédérale a invoqué les principes de justice naturelle :
+[6] J'estime pour ma part que le juge de la Cour canadienne de l'impôt a commis une erreur lorsqu'il a tiré cette conclusion. Il existe une règle fondamentale relevant de la justice naturelle selon laquelle, sous réserve d'une disposition législative à l'effet contraire, une personne non partie à une instance ne saurait être liée par le jugement qui y est prononcé à l'égard d'autres parties. L'appelante n'était pas partie à l'instance intervenue entre le Ministre et son ex-mari au sujet de la nouvelle cotisation. Cette instance n'avait aucunement pour objet de lui imposer une obligation fiscale. Bien qu'elle ait pu être témoin dans cette instance, elle n'y était pas partie et ne pouvait donc pas y soulever des moyens de défense à l'égard de la cotisation de son ancien mari.
+[7] Lorsque le Ministre établit une cotisation à titre dérivé en application du paragraphe 160(1), il invoque une disposition législative particulière qui l'autorise à demander paiement à une seconde personne pour la cotisation d'impôt visant un premier contribuable. Cette seconde personne doit jouir d'un plein droit de défense pour contester la cotisation établie à son endroit, y compris celui d'attaquer la cotisation primaire sur laquelle se fonde la cotisation touchant la seconde personne.
+[8] Ce point de vue a été formulé par certains juges de la Cour canadienne de l'impôt. Voir, par exemple, les affaires Acton c. La Reine (1994), 95 D.T.C. 107, page 108, juge Bowman; Ramey c. La Reine (1993), 93 D.T.C. 791, page 792, juge Bowman; Thorsteinson c. M.R.N. (1980), 80 D.T.C. 1369, page 1372, juge Taylor. Bien que l'opinion contraire ait été mise de l'avant dans l'arrêt Schafer (A.) c. Canada, [1998] G.S.T.C. 7-1, pages 7 à 9 (appel rejeté pour cause de retard [30 août 1999], A-258-98 [C.A.F.]), je suis d'avis que cette opinion est erronée. Il me semble que cette approche omet de tenir compte du fait que se trouvent en litige deux cotisations distinctes établies par le Ministre à l'égard de deux contribuables différents. Dès lors que la cotisation visant le premier contribuable revêt un caractère définitif, que ce soit parce que le premier contribuable n'a pas interjeté appel de la cotisation ou que celle-ci a été confirmée par la Cour canadienne de l'impôt (ou un tribunal d'instance supérieure lors d'un appel subséquent), cette cotisation devient définitive et elle lie tant le premier contribuable que le Ministre. La cotisation fixée en application du paragraphe 160(1) à l'égard d'un second contribuable ne peut influer sur la cotisation établie par le Ministre relativement au premier contribuable.
+Dans ce débat, je tends à pencher du côté du point de vue « en faveur » , en me fondant sur les principes énoncés dans l'arrêt Gaucher ainsi que sur l'interprétation de la loi. Les dispositions pertinentes de la Loi sur la taxe d'accise figurent aux paragraphes 228(1), 296(1) ainsi que 323(1), (2) et (3) :
+228(1) La personne tenue de produire une déclaration en application de la présente section doit y calculer sa taxe nette pour la période de déclaration qui y est visée, sauf si les paragraphes (2.1) ou (2.3) s'appliquent à la période de déclaration.
+[...]
+296(1) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire pour déterminer :
+a) la taxe nette d'une personne, prévue à la section V, pour une période de déclaration;
+b) la taxe payable par une personne en application des sections II, IV ou IV.1;
+c) les pénalités et intérêts payables par une personne en application de la présente partie;
+d) un montant payable par une personne en application des alinéas 228(2.1)b) ou (2.3)d) ou de l'article 230.1;
+e) un montant qu'une personne est tenue de payer ou de verser en vertu du paragraphe 177(1.1) ou des sous-sections a ou b.1 de la section VII.
+[...]
+323(1) Les administrateurs de la personne morale au moment où elle était tenue de verser une taxe nette, comme l'exigent les paragraphes 228(2) ou (2.3), sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer cette taxe ainsi que les intérêts et pénalités afférents.
+323(2) L'administrateur n'encourt de responsabilité selon le paragraphe (1) que si :
+a) un certificat précisant la somme pour laquelle la personne morale est responsable a été enregistré à la Cour fédérale en application de l'article 316 et il y a eu défaut d'exécution totale ou partielle à l'égard de cette somme;
+b) la personne morale a entrepris des procédures de liquidation ou de dissolution, ou elle a fait l'objet d'une dissolution, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant le premier en date du début des procédures et de la dissolution;
+c) la personne morale a fait une cession, ou une ordonnance de faillite a été rendue contre elle en application de la Loi sur la faillite et l'insolvabilité, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant la cession ou l'ordonnance.
+323(3) L'administrateur n'encourt pas de responsabilité s'il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l'aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[21] La responsabilité de l'administrateur ne prend naissance qu'après qu'une société a démontré qu'elle ne peut pas payer. Tant qu'il n'y a pas manquement, les administrateurs ne sont pas responsables et, de toute évidence, ils ne peuvent faire l'objet d'aucune cotisation à laquelle ils pourraient s'opposer. À coup sûr, la société peut s'opposer et en appeler, mais en pratique, la société qui est sur le point de devenir insolvable ne prendra probablement pas de telles mesures. Les partisans du point de vue « à l'encontre » soutiennent que les administrateurs ont le droit, par l'entremise de la société, de contester la cotisation dont la société a fait l'objet et qu'ils s'occupent donc indirectement de ce qui pourrait devenir une cotisation établie à leur encontre. Cependant, les administrateurs et la société sont des personnes juridiques distinctes. Je puis imaginer des cas où l'administrateur ne sait peut-être pas que la société a interjeté appel de la cotisation dont elle a fait l'objet. Pourtant, l'administrateur doit-il par la suite être lié par cette cotisation? Selon moi, cela va à l'encontre des règles fondamentales de la justice naturelle invoquées dans l'arrêt Gaucher[9].
+[22] Suffit-il de se fonder sur les règles de justice naturelle pour contrer le raisonnement que le juge Bowie a fait dans la décision Zaborniak[10] en interprétant la législation? Le libellé est-il aussi peu ambigu que l'affirme le juge Bowie? Voici ce que le juge a écrit :
+4 En adoptant la Partie IX de la Loi, le Parlement a établi que l'obligation d'un inscrit de payer un montant net de taxe, en plus de tout intérêt ou toute pénalité, peut être déterminée par le ministre au moyen d'une cotisation établie aux termes du paragraphe 298(1). L'article 299 a été rédigé avec soin afin de prévoir que l'obligation de l'inscrit est précisément fixée par une telle cotisation. Elle est réputée valide et exécutoire, sous réserve seulement d'une nouvelle cotisation subséquente établie par le ministre ou d'une annulation prononcée par suite d'une opposition ou d'un appel prévus aux articles 301 à 307. Seule la personne à l'égard de laquelle une cotisation a été établie peut faire opposition à la cotisation et interjeter appel. Le montant de la taxe nette, des intérêts ou de la pénalité faisant l'objet d'une cotisation, sous réserve seulement d'une nouvelle cotisation ou d'une annulation prononcée par suite d'une opposition ou d'un appel, est une créance de Sa Majesté du chef du Canada; lorsqu'il existe un certificat du ministre aux termes de l'article 316, ce dernier est réputé être un jugement de la Cour fédérale.
+5 [...] La responsabilité que cet article impose aux administrateurs, solidairement avec la personne morale, est de « [...] payer cette taxe ainsi que les intérêts et pénalités y afférents » ; l'expression « cette taxe » , dans le contexte du paragraphe 323(1) et compte tenu du régime de la sous-section e) de la Loi, peut seulement signifier le montant de la taxe nette que la personne morale est en défaut de remettre comme elle devait le faire. L'article 323 ne permet au ministre d'établir une cotisation payable par un administrateur que si cette taxe est un montant réputé être une créance constatée par jugement pour laquelle il y a eu défaut d'exécution, ou encore que si une réclamation a été établie dans le cadre d'une liquidation, d'une dissolution ou d'une faillite. En l'espèce, il s'agit d'une créance (réputée être) constatée par jugement.
+[...]
+7 [...] Pour conclure que les appelants en l'espèce ont le droit de contester le montant du jugement, il faudrait que j'ajoute implicitement au paragraphe 323(1) les termes « ou tout montant inférieur dont la personne morale aurait pu être tenue responsable à la suite d'un appel accueilli de sa cotisation » . Il ne m'appartient tout simplement pas de le faire. [...]
+Je préfère aborder l'analyse en commençant par la responsabilité de l'administrateur dont il est question à l'article 323, plutôt que de terminer sur ce point. En vertu du paragraphe 323(1), l'administrateur est tenu de payer la taxe qui doit être versée en vertu de l'article 228. Le montant de la taxe nette mentionné à l'article 228 est un montant déterminé à ce stade par la société. Le ministre est autorisé à établir une cotisation en vertu de l'article 296 : si le ministre ne souscrit pas à la détermination que la société a faite, le montant de la taxe nette qui est déterminé sera de toute évidence différent du montant de la détermination faite par la société conformément à l'article 228. En pareil cas, qui détermine le montant exact ou « cette taxe » , comme il en est fait mention au paragraphe 323(1), en ce qui concerne la responsabilité de l'administrateur?
+[23] La société est redevable du montant déterminé par le gouvernement, et ce montant est une dette fiscale due par la société. Cependant, le fait que l'une des conditions prévues au paragraphe 323(2) a été remplie ne veut pas pour autant dire que le montant déterminé par le gouvernement est « cette taxe » pour l'application du paragraphe 323(1). Les conditions énoncées au paragraphe 323(2) ne sont que des conditions préalables; il s'agit en fait de dispositions temporelles. Le fait que les conditions sont présentes ne veut pas pour autant dire que le montant déterminé par le gouvernement est le montant exact pour ce qui est de la responsabilité de l'administrateur. Si l'une des conditions est remplie, l'administrateur est redevable du montant, un montant qui en l'espèce représente le montant déterminé par le gouvernement - un montant qui ne peut faire l'objet d'un examen judiciaire. À coup sûr, une société, en ne s'opposant pas en temps opportun, renonce au droit à cet examen judiciaire; de fait, il y a un certificat qui est réputé constituer un jugement à son encontre pour un montant donné. Cependant, où la Loi prévoit-elle que l'administrateur a renoncé à pareil droit? Elle ne le prévoit pas.
+[24] En l'espèce, le gouvernement a établi une cotisation à l'égard des administrateurs en se fondant sur la détermination non contestée du montant devant être versé en vertu du paragraphe 228(2). En fait, le gouvernement a déterminé ce montant; en fait, la société ne s'est pas opposée ou n'en a pas appelé et elle est redevable de ce montant; toutefois, il n'est pas en fait établi que le montant déterminé en pareil cas est le montant exact qui aurait dû être versé en vertu de l'article 228 pour ce qui est de la responsabilité qui incombe à l'administrateur conformément à l'article 323. Le montant que les administrateurs sont en fin de compte tenus de payer est le montant de la taxe nette qui doit être versé en vertu du paragraphe 228(2), et non le montant certifié qui est réputé constituer un jugement contre la société lorsque ce montant n'a pas été contesté. Si le montant déterminé n'a pas fait l'objet d'un examen judiciaire, le gouvernement ne peut en bonne justice imposer sa cotisation non contestée à des tiers, à savoir les administrateurs, pour le motif que « cette taxe » , à l'article 323, indique le montant exact de la taxe nette non versée. Je ne crois pas qu'il soit nécessaire de sous-entendre quoi que ce soit à l'article 323 pour que « cette taxe » s'entende de quelque chose de moins que ce que le gouvernement a déterminé. Par rapport aux administrateurs, la démarche vise à assurer qu'ils soient tenus de payer le montant exact de la taxe non versée; et si la société ne prend pas de mesures pour que ce montant exact fasse l'objet d'une détermination judiciaire, « cette taxe » peut être contestée par les administrateurs au moyen d'un appel devant la Cour.
+[25] Je reconnais que ce résultat, tout en étant différent de celui auquel le juge est arrivé dans la décision Zaborniak[11], ne va peut-être pas aussi loin que ce que l'arrêt Gaucher[12] peut donner à entendre. Il faut laisser la Cour d'appel fédérale préciser la façon dont l'arrêt Gaucher doit s'appliquer à la responsabilité qui incombe à l'administrateur conformément à la Loi sur la taxe d'accise. L'approche susmentionnée ne profite pas à l'administrateur qui, pour une raison ou une autre, n'est pas dans le coup et qui ne sait pas que la société a interjeté appel en vain d'une cotisation de la taxe nette qu'elle doit en vertu de la Loi sur la taxe d'accise. Dans ces conditions, je crois que le montant de la taxe nette dû par la société a été établi, c'est-à-dire que « cette taxe » , pour l'application de l'article 323, a de fait été déterminée, et que l'administrateur qui n'est pas au courant de la situation n'a pas de chance. L'arrêt Gaucher sort peut-être un tel administrateur du pétrin, mais je n'ai pas à me prononcer sur ce point en l'espèce.
+[26] S'il est tenu compte uniquement de l'arrêt Gaucher, il est peut-être plus facile pour l'administrateur de contester une cotisation sous-jacente. En se fondant sur une interprétation de l'article 323, tout en tenant compte des principes de justice naturelle, on arrive à un résultat un peu plus restreint. Pour plus de clarté, disons que si la société a interjeté appel en vain de la cotisation, les administrateurs peuvent bien être empêchés de contester la cotisation dans le cadre d'un appel fondé sur l'article 323, même s'ils ne participent peut-être pas à l'appel interjeté par la société ou même s'ils n'avaient pas connaissance de l'appel. En pareil cas, on peut uniquement avoir recours aux principes de justice naturelle.
+[27] Compte tenu du raisonnement qui a été fait dans l'arrêt Gaucher[13] et en me fondant sur une interprétation de la loi semblable à celle dont il a ci-dessus été fait mention, je permettrais également aux Kern de contester la cotisation sous-jacente en vertu des dispositions de la Loi de l'impôt sur le revenu.
+Cotisation sous-jacente relative à la TPS
+[28] Puisque j'ai conclu que je peux examiner la cotisation sous-jacente, j'examinerai d'abord la cotisation sous-jacente relative à la TPS. À mon avis, il y a deux questions à trancher en appréciant le bien-fondé de la cotisation établie par le ministre au titre de la TPS : en premier lieu, il s'agit de savoir si les ventes de la société comprennent les ventes de bière et de vin effectuées par la boutique; en second lieu, il s'agit de savoir si les états financiers annuels des années 1997 et 1998 et les états mensuels de résultats pour les neuf premiers mois de l'année 1999 doivent être considérés comme exacts aux fins de la détermination de l'obligation relative à la TPS.
+[29] L'intimée fait grand cas du fait que les états financiers de 1998 qui ont été déposés avec la déclaration de 1998 de la société au début de l'année 2000 renfermaient les chiffres associés à la vente de bière et de vin. Cela étant, l'intimée voudrait que je conclue que la société doit inclure de telles ventes dans le calcul de son obligation relative à la TPS. À l'encontre de cette conclusion, il y a le fait qu'un bail a été signé entre la société et 546. De plus, les dépôts bancaires soumis en preuve confirment qu'au cours du dernier trimestre de 1999, 546 a déposé chaque mois un montant de 33 000 $ en moyenne. Cela est à peu près comparable aux recettes mensuelles des neuf premiers mois de l'année 1999, lesquelles s'élevaient en moyenne à environ 38 000 $.
+[30] Je note également le commentaire de M. Kern, à savoir [traduction] qu' « une fois qu'il y a une perte élevée, les chiffres aux fins fiscales sont plutôt théoriques » . De toute évidence, M. Kern se préoccupait peu de l'exactitude des déclarations de revenus étant donné qu'aucun impôt n'était exigible. Par conséquent, si ces états financiers indiquaient les recettes associées aux ventes de bière et de vin, recettes qui étaient à bon droit celles d'une autre société, mais qui ne donnaient néanmoins lieu à aucun impôt exigible, M. Kern ne s'en serait tout simplement pas inquiété. Cela serait d'autant plus le cas si cette autre société était liée. M. Kern a présenté des documents bancaires pour 546 : il a inclus les recettes de cette société dans l'exploitation générale. Cela est conforme à la conclusion selon laquelle M. Kern participait dans une certaine mesure aux activités de la société et à celles de 546, même si Mme Bjarnetson a signé le bail pour le compte de 546. Cela semble une explication plus vraisemblable de la raison pour laquelle les chiffres des deux sociétés figuraient ensemble dans les états financiers préparés par M. Kern que l'histoire que ce dernier a racontée au sujet du fait que les chiffres, ceux de 1997 et de 1998 du moins, étaient destinés à être utilisés dans le prospectus. Je conclus que les recettes provenant des ventes de bière et de vin n'étaient pas celles de la société, mais celles de 546.
+[31] Les états mensuels de résultats de 1999 n'ont pas été produits en tant que documents joints à une déclaration de 1999. Les états de 1999 ne portaient plus le nom de la société (contrairement à ce qui était le cas en 1997 et en 1998), mais ils étaient intitulés : [traduction] « États de résultats de Howard Johnson at the Water » . Ils ont été préparés à un moment (en 1999) où les questions financières posaient un problème sérieux à M. Kern. M. Kern devait se procurer un montant additionnel de 400 000 $. Pourtant, les chiffres mensuels figurant dans les états mensuels de résultats indiquaient des recettes provenant de l'hôtel (à l'exclusion de la vente de bière et de vin) en juillet seulement, de 233 000 $. Cela correspond aux deux tiers de toutes les recettes tirées de l'hôtel pour toute l'année 1998. Ces états indiquent ensuite un bénéfice considérable. Je conclus que ces états financiers mensuels pour l'année 1999, contrairement aux états annuels des années 1997 et 1998 qui ont été déposés avec les déclarations de revenus, ne sont que des prévisions. Ils n'indiquent pas avec exactitude les recettes que l'hôtel pouvait en réalité rapporter pour la période. Une extrapolation des recettes provenant de l'hôtel pour toute l'année 1999 fondée sur ces chiffres indiquerait des recettes d'environ 1 150 000 $. Comparativement aux chiffres de 1998 tirés des états financiers que l'intimée voudrait me faire accepter, cela représente une augmentation, au titre des recettes, d'environ 324 000 $ (abstraction faite des ventes de bière et de vin) pour l'année 1998 à 1 150 000 $ (abstraction faite des ventes de bière et de vin) pour l'année 1999. Cela n'a tout simplement aucun sens pour une entreprise qui était sur le point de devenir insolvable. Pourtant, c'est ce sur quoi l'intimée se fonde. Je me rends bien compte que l'absence de grands livres, de livres et de registres exacts provenant des appelants jouait à l'encontre de l'intimée. Je me rends également compte que l'intimée s'est fondée dans une certaine mesure sur le travail d'un vérificateur provincial, de qui je n'ai reçu aucune preuve directe. Pourtant, le simple bon sens donne à entendre, sur le plan commercial, que les chiffres sur lesquels l'ARC s'est fondée en 1999 ne correspondent absolument pas à la réalité.
+[32] Qu'est-il donc possible de conclure au sujet d'une cotisation correcte possible? Je donnerai des chiffres approximatifs étant donné que, de toute évidence, il est impossible d'obtenir des chiffres exacts d'une partie ou de l'autre. Premièrement, j'omets de tenir compte des ventes de bière et de vin dans le calcul de la TPS applicable du mois d'avril 1998 au 31 décembre 1999. Pour l'année 1998, cela ferait plus que compenser le montant exigible, de 1 137,11 $. En ce qui concerne l'année 1999, cela entraînerait une réduction d'environ 24 000 $ pour les trois premiers trimestres (c'est-à-dire, 7 % sur le chiffre des ventes de bière et de vin figurant dans les états, d'environ 343 000 $). Quant à la TPS applicable à l'hôtel pour les trois premiers trimestres de l'année 1999, l'intimée s'est fondée sur certaines ventes en sus des ventes déclarées de la société, d'un montant de 526 000 $ pour l'hôtel à lui seul (c'est-à-dire les 869 000 $ prévus moins les 343 000 $ se rapportant aux ventes de bière et de vin). La TPS de 7 % sur les 526 000 $ est donc de 36 820 $. Compte tenu des renseignements concernant les dépôts bancaires fournis par M. Kern, l'exploitation de l'hôtel au cours des trois premiers trimestres de l'année 1999 a entraîné des recettes d'environ 450 000 $, ce qui correspond à peu près à ce que la société a déclaré. Ces chiffres sont davantage conformes aux recettes des deux années antérieures, mais cela représente néanmoins une augmentation des recettes en 1999. Je conclus que les recettes additionnelles d'un demi-million de dollars dans l'état des résultats de 1999 étaient fictives et que l'intimée n'aurait pas dû se fonder sur ce montant.
+[33] Quant au dernier trimestre de 1999, la seule preuve fournie par M. Kern semble se rapporter aux ventes de bière et de vin de 546. En outre, M. Young, le vérificateur à l'ARC, n'a pas présenté de preuve au sujet de la façon dont on est arrivé à une obligation fiscale de 12 500 $, mais l'avocat de l'intimée a soutenu qu'il s'agissait d'une [traduction] « cotisation théorique » . Si l'on fait une extrapolation à l'égard du chiffre des recettes pour le dernier trimestre de l'année 1999 à partir des trois premiers trimestres de l'année 1999, les recettes à l'égard desquelles la TPS aurait dû être déclarée seraient de 150 000 $, ce qui donne une obligation fiscale de 10 500 $.
+[34] Quant à l'obligation relative à la TPS pour l'année 1997, M. Kern a reconnu que la société exploitait l'entreprise sous tous ses aspects cette année-là (c'est-à-dire l'hôtel, le restaurant et la boutique). L'examen effectué par M. Young a entraîné une obligation relative à la TPS fondée sur des ventes d'environ 940 000 $. Cela se rapproche énormément du montant total des ventes indiqué dans l'état des résultats de 1997 de la société. Comme je l'ai déjà dit, je conclus que les états annuels de résultats des années 1997 et 1998, intitulés : [traduction] « États des résultats de 457189 B.C. Ltd. » ne sont pas simplement, contrairement à ce que M. Kern affirme, des feuilles de calcul pour les besoins du prospectus. Il n'en va pas de même pour les états mensuels de 1999.
+[35] M. Young a témoigné que, pour l'année 1997, il a de fait examiné des documents indiquant les recettes quotidiennes pour une période de trois mois, lesquels il avait trouvés dans les boîtes obtenues du séquestre. À la suite de son examen, M. Young a conclu qu'il y avait une insuffisance pour le dernier trimestre de 1997; en comparant cela aux résultats de la vérification provinciale effectuée par ses collègues de la Colombie-Britannique, il est arrivé par extrapolation à un manque de 48 000 $ au titre de l'obligation relative à la TPS pour l'année 1997. Il est plutôt curieux que cela corresponde à des recettes beaucoup plus élevées que celles qui sont indiquées dans l'état des résultats de 1997, qui a été joint à la déclaration de revenus de 1997 de la société.
+[36] J'éprouve certains doutes au sujet de l'exactitude des chiffres figurant dans l'état de 1998 et j'ai des préoccupations sérieuses au sujet des chiffres figurant dans les états mensuels de 1999. Je ne dispose d'aucun autre renseignement pour l'année 1997, mis à part les états de 1997, en vue de procéder à une ventilation entre les recettes de l'hôtel, de 30 %, les recettes du restaurant, de 30 % et les recettes de la boutique, de 40 %. Sur la base de cette ventilation, accepter l'obligation fiscale additionnelle de 48 000 $ de l'intimée serait reconnaître des recettes additionnelles provenant de l'hôtel, correspondant à 30 % du montant de 685 000 $, soit 205 000 $. L'état des résultats de 1997 donne à entendre que les recettes de l'hôtel s'élevaient à environ 290 000 $, de sorte que sur cette base le ministre propose indirectement un chiffre annuel plus exact de 495 000 $ pour les recettes provenant de l'hôtel. Je conclus que ce chiffre est davantage conforme à celui auquel je suis arrivé à l'égard des recettes provenant de l'hôtel en 1999, soit 600 000 $. Tout cela veut dire qu'étant donné ce résultat, et puisque la cotisation de 1997 était fondée sur les documents originaux de la société, je retiens la cotisation fiscale établie par l'intimée pour l'année 1997, qui s'élève à 48 161,85 $.
+[37] En résumé, en ce qui concerne les cotisations relatives à la TPS, si les parties trouvent que ce résultat est une solution rudimentaire facile, elles ont tout à fait raison, mais elles ne m'ont laissé aucun choix. Dans une poursuite mettant en cause un montant de plus de 200 000 $ pour les appelants, aucune des deux parties n'a choisi de se prévaloir de la procédure générale, dans le cadre de laquelle l'échange de documents et les interrogatoires préalables auraient bien plus facilement permis aux deux parties d'établir ce qui est réellement arrivé. Les parties ont plutôt décidé de jeter les dés en me soumettant des renseignements restreints, que j'ai dans bien des cas jugés inexacts. Il s'agit ici d'une affaire régie par la procédure informelle; il ne s'agit pas d'une vérification, et je ne suis pas vérificateur. J'ai pris une décision en me fondant sur ce qui est le plus sensé sur le plan commercial, compte tenu de la preuve plutôt vague qui a été fournie, et je ne chercherai pas à excuser ce qui peut être perçu comme une approximation. Les chiffres auxquels je suis arrivé sont fondés sur les conclusions ci-après énoncées :
+(i) en 1997, la société exploitait les trois composantes de l'entreprise : l'hôtel, le restaurant et la boutique;
+(ii) après le 15 avril 1998, la société exploitait uniquement l'hôtel;
+(iii) le vérificateur de l'ARC avait à sa disposition les livres et registres pour les mois d'octobre, de novembre et de décembre 1997, lui permettant de tirer des conclusions raisonnables, confirmées par les résultats d'une vérification provinciale;
+(iv) en 1998, le retrait des recettes provenant de la boutique compense toute obligation additionnelle relative à la TPS que l'intimée a déterminée;
+(v) en 1999, il n'était pas approprié de se fonder sur les états mensuels de résultats; les renseignements relatifs aux dépôts bancaires sont plus convaincants lorsqu'il s'agit de conclure que les recettes de l'hôtel s'élevaient à environ 600 000 $ cette année-là.
+[38] Compte tenu de ces conclusions, les cotisations exactes à l'égard desquelles les Kern ont une responsabilité en leur qualité d'administrateurs, sont les suivantes :
+a) pour l'année 1997, la position prise par l'intimée est retenue, à savoir que la société est redevable d'une taxe de 48 161,85 $, plus les intérêts et pénalités, tels qu'ils ont été déterminés;
+b) pour l'année 1998, il n'y a pas de taxe, de pénalités ou d'intérêts qui soient exigibles;
+c) pour l'année 1999, la société est redevable d'une taxe de 10 500 $ pour le dernier trimestre seulement, plus des intérêts et pénalités de 1 233,65 $ et de 1 474,82 $ respectivement.
+Impôt sur le revenu
+[39] M. Kern a souscrit à la cotisation établie contre la société par suite de l'omission d'effectuer les versements en 1997. Il a passé énormément de temps à interroger le témoin de l'intimée au sujet de ce qui a été recouvré par l'ARC à l'égard des retenues à la source non versées. Comme j'ai essayé de l'expliquer à M. Kern, la Cour examine la cotisation elle-même et non les mesures de recouvrement consécutives. Toutefois, je comprends bien la frustration de M. Kern, qui savait qu'un montant élevé avait été payé sur ce compte, sans avoir une idée claire de ce à quoi se rapporte réellement le montant qui est encore dû. Toutefois, cette question ne relève pas de la Cour.
+[40] Le litige porte sur les cotisations sous-jacentes établies par suite de l'omission de verser un montant de 759,68 $ en 1999, plus la pénalité de 78,96 $, soit un montant de 835,64 $ en tout, et de l'omission de verser un montant de 5 753,61 $ en 1998, plus des intérêts de 1 242 $ et une pénalité de 574,35 $, soit un montant de 7 569,96 $ en tout.
+[41] Quant à l'omission d'effectuer le versement pour l'année 1998, le montant en cause étant de 7 509,96 $, M. Kern conteste uniquement un montant de 4 654,63 $ étant donné que l'intimée n'a fourni aucun détail justificatif au sujet de la façon dont on est arrivé à ce montant. Le solde se rapportait à deux employés précis : M. Kern reconnaît le manquement de la société à leur égard.
+[42] Dans ses appels, M. Kern a également soulevé la question selon laquelle la société a effectué des paiements d'une façon inexacte au titre des retenues à la source pour des employés de l'autre société, 546, le montant en cause s'élevant à 8 668,26 $. M. Kern veut que l'on procède à une compensation entre ce montant et le montant de la cotisation dont la société a fait l'objet, de sorte que l'obligation est nulle. Je ne puis le faire. Il est possible d'autoriser l'examen d'une cotisation sous-jacente dans une affaire concernant la responsabilité d'un administrateur, mais cela ne permet pas pour autant à l'administrateur de soulever ensuite des questions non visées par la cotisation contestée. Pour l'année 1998, la cotisation de la société se rapporte aux retenues à la source non versées concernant deux employés précis, manquement que M. Kern reconnaît, plus le non-versement non identifié d'un montant de 3 559,67 $, ainsi que les intérêts et pénalités, soit un montant de 4 654,63 $ en tout. M. Kern ne peut maintenant contester que ce montant.
+[43] Quel est l'argument de M. Kern en ce qui concerne le montant de 4 654,63 $ en 1998 et le montant de 835,64 $ en 1999? M. Kern soutient que la cotisation établie par le ministre à l'égard de ces montants additionnels ne comporte aucune explication détaillée au sujet de l'employé auquel elle se rapporte et des montants en cause. Selon la preuve fournie par le vérificateur de l'ARC, une [traduction] « grosse partie de la dette se rapportait au fait que des feuillets T4 avaient été délivrés, et qu'ils n'étaient pas inclus dans les sommaires T4 » . M. Kern a obtenu les sommaires T4 de l'ARC. Toutefois, ni l'une ni l'autre partie n'a produit des copies de T4. La position prise par M. Kern semble être qu'étant donné que le ministre n'a pas produit les T4 indiquant exactement la façon dont les écarts de 4 654,63 $ pour l'année 1998 et de 835,64 $ pour l'année 1999 se sont produits, on a omis de prouver selon la prépondérance que les cotisations étaient exactes. M. Kern doit se rendre compte qu'il lui incombe de prouver que ces cotisations sont inexactes, c'est-à-dire de démolir les hypothèses de l'intimée, selon lesquelles la société a omis de retenir ces montants et de les verser. La société ne conservait pas de livres et de registres qui auraient pu aider M. Kern à cet égard. De fait, je ne suis pas convaincu que la société ait tenu des dossiers d'employés adéquats. M. Kern ne dispose que des sommaires T4 obtenus de l'ARC. Dans ces conditions, peut-il maintenant soutenir qu'il incombe à l'intimée de fournir les T4 délivrés par la société pour établir le bien-fondé de la position de l'ARC? À coup sûr, lorsqu'un appelant fournit une contre-preuve raisonnable défendable à l'égard d'une hypothèse émise par la Cour, la charge peut passer à l'intimée, celle-ci devant prouver sa position. Cependant, dans ce cas-ci, M. Kern peut uniquement dire qu'il croit que l'intimée se trompe. Cela n'est pas suffisant pour renverser la charge de la preuve. Somme toute, je retiens la position de l'intimée selon laquelle, en 1998 et en 1999, les versements des retenues à la source étaient insuffisants.
+Conclusion
+[44] Ni M. Kern ni Mme Kern n'ont fait preuve d'une diligence raisonnable suffisante pour échapper à la responsabilité qui leur incombe en leur qualité d'administrateurs conformément à l'article 323 de la Loi sur la taxe d'accise et à l'article 227.1 de la Loi de l'impôt sur le revenu à l'égard des obligations de la société. Toutefois, ils peuvent contester les cotisations sous-jacentes qui ont donné lieu à leur responsabilité d'administrateurs. Ce faisant, ils n'ont pas réussi à me convaincre que les cotisations établies par l'intimée à l'égard de la société par suite de l'omission de retenir ou de verser les retenues à la source étaient inexactes. Les appels que les Kern ont interjetés conformément à la Loi de l'impôt sur le revenu sont donc rejetés. Quant à la question de la TPS, les Kern ont réussi à me convaincre que les montants indiqués à l'annexe A des réponses de l'intimée sont inexacts; les appels interjetés conformément à la Loi sur la taxe d'accise sont accueillis et les affaires sont renvoyées au ministre compte tenu de ce qui suit :
+(i) Les appelants sont redevables, pour l'année 1997, d'une taxe nette non versée de 48 161,85 $, d'intérêts d'un montant de 2 557,47 $ et de pénalités d'un montant de 3 443,61 $;
+(ii) Il n'y a pas de taxes, d'intérêts ou de pénalités pour la période allant du 1er avril 1998 au 30 septembre 1999, dont les appelants sont redevables;
+(iii) Les appelants sont redevables d'une taxe nette non versée de 10 500 $ pour l'année 1999, avec des intérêts d'un montant de 1 233,65 $ et des pénalités d'un montant de 1 474,82 $.
+Les dépens ne sont pas adjugés.
+Signé à Ottawa, Canada, ce 5e jour de mai 2005.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 25e jour d'août 2006.
+Sara Tasset
+Annexe A
+Nom commercial : 457189 B.C. Ltd.
+Période : du
+au
+Taxe
+Intérêts
+Pénalité
+Total
+1er octobre 1997
+31 décembre 1997
+48 161,85 $
+2 557,40 $
+3 443,61 $
+54 162,86 $
+1er avril 1998
+30 juin 1998
+1 137,11 $
+246,09 $
+299,24 $
+1 682,44 $
+1er janvier 1999
+31 mars 1999
+7 424,36 $
+331,21 $
+448,71 $
+8 204,28 $
+1er avril 1999
+30 juin 1999
+29 166,76 $
+2 242,34 $
+2 820,82 $
+34 229,92 $
+1er juillet 1999
+30 septembre 1999
+24 227,27 $
+18 939,82 $
+50 622,85 $
+93 789,94 $
+1er octobre 1999
+31 décembre 1999
+12 500,00 $
+1 468,64 $
+1 755,74 $
+15 724,38 $
+Totaux
+122 617,35 $
+25 785,50 $
+59 390,97 $
+207 793,82 $
+RÉFÉRENCE :
+2005CCI314
+Nos DES DOSSIERS DE LA COUR :
+2003-3693(GST)I, 2003-3694(IT)I et 2003-3695(GST)I, 2003-3696(IT)I
+INTITULÉ :
+Harald Kern et Elke Kern
+c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Charlottetown (Île-du-Prince-Édouard)
+DATE DE L'AUDIENCE :
+Le 22 novembre 2004
+MOTIFS DU JUGEMENT :
+L'honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 5 mai 2005
+COMPARUTIONS :
+Représentant des appelants :
+M. Harald Kern
+Avocats de l'intimée :
+Mes Caitlin Ward et James Murphy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 97 DTC 5407, paragraphe 51.
+[2] 2001 A.C.I. 453.
+[3] [2003] GSTC 103.
+[4] [2004] A.C.I. no 412.
+[5] 2002 DTC 2212.
+[6] [2003] A.C.I. no 402.
+[7] [2004] A.C.I. no 168.
+[8] 2000 DTC 6678.
+[9] Précité.
+[10] Précité.
+[11] Précité.
+[12] Précité.
+[13] Précité.

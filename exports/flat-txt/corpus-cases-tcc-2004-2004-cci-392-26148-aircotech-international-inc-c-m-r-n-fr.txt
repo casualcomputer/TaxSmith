@@ -1,0 +1,172 @@
+Title: Aircotech International Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26148/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-392-26148-aircotech-international-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-06-08
+
+# Aircotech International Inc. c. M.R.N.
+
+- Citation: 2004 CCI 392
+- Decision date: 2004-06-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4048, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aircotech International Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-08
+Référence neutre
+2004 CCI 392
+Numéro de dossier
+2003-2667(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-2667(EI)
+ENTRE :
+AIRCOTECH INTERNATIONAL INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+GASTON AUDY,
+DONALD C. MACDONALD,
+JOHN J. CALDWELL,
+intervenants.
+____________________________________________________________________
+Appel entendu le 20 avril 2004 à Montréal (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelante :
+Me Michel Roy
+Avocate de l'intimé :
+Avocat des intervenants :
+Me Antonia Paraherakis
+Me Michel Roy
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision rendue par le ministre du Revenu national est infirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour de juin 2004
+« François Angers »
+Juge Angers
+Référence : 2004CCI392
+Date : 20040608
+Dossier : 2003-2667(EI)
+ENTRE :
+AIRCOTECH INTERNATIONAL INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+GASTON AUDY,
+DONALD C. MACDONALD,
+JOHN J. CALDWELL,
+intervenants.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s'agit d'un appel d'une évaluation datée du 20 septembre 2002 que le ministre du Revenu national (le « ministre » ) a établie à l'encontre de l'appelante pour des cotisations ouvrières et patronales d'assurance-emploi à l'égard de 21 travailleurs pour l'année 2001. Les trois intervenants font partie de ces travailleurs. Le 24 avril 2003, le ministre confirmait l'évaluation pour l'année 2001 au motif que l'emploi des travailleurs constituait un contrat de louage de services, et il s'appuyait sur l'alinéa 5(1)a), sur le paragraphe 93(3) et les articles 67 - 68 - 82 - 85 de la Loi sur l'assurance-emploi et sur l'article 5 et le paragraphe 2(1) du Règlement sur la rémunération assurable et la perception des cotisations.
+[2] En établissant la cotisation, le ministre s'est fondé sur les hypothèses de faits suivantes, lesquelles ont été admises ou niées.
+a) l'appelante a été constituée en société le 5 mars 1996; [admis]
+b) l'actionnaire unique de l'appelante est Roger Boutin; [admis]
+c) l'appelante avait son siège social à St-Nicolas (Québec): [admis]
+d) l'appelante exploitait une entreprise de services de pilotage et d'entretien d'avions citernes CL215 et CL415; [nié]
+e) le principal client de l'appelante était la société Bombardier; [admis]
+f) Bombardier concluait des ententes avec des autorités gouvernementales de pays étrangers pour combattre des feux de forêt; [nié]
+g) Bombardier demandait à l'appelante de lui procurer les travailleurs nécessaires pour piloter et entretenir les avions impliqués à combattre les incendies à l'étranger; [nié]
+h) l'appelante embauchait des pilotes et des mécaniciens; [nié]
+i) les travailleurs résidaient habituellement au Canada; [admis]
+j) les travailleurs avaient le choix d'accepter ou de refuser l'engagement de l'appelante; [nié]
+k) les travailleurs, qui acceptaient l'engagement avec l'appelante, signaient un contrat; [nié]
+l) les termes du contrat prévoyaient la durée de l'engagement de chaque travailleur; [admis]
+m) les termes du contrat prévoyaient une rémunération quotidienne qui variait de 100 $ à 300 $ par jour; [admis]
+n) les termes du contrat prévoyaient aussi une allocation de dépenses totalisant un maximum de 300 $. Ainsi, les allocations étaient réparties comme suit : 150 $ pour l'hôtel, 65 $ pour les repas et 85 $ pour la location d'automobile. [admis]
+o) Aussi, selon l'entente, il y avait un montant maximum de rémunération pour la durée du contrat; [admis]
+p) les employés de l'appelante se déplaçaient et travaillaient à l'étranger; [admis]
+q) l'horaire de travail des emplois était variable mais ils devaient être disponibles 7 jours sur 7; [nié]
+r) les travailleurs étaient sous la supervision du répartiteur de la base aérienne où ils travaillaient; ; [nié]
+s) les travailleurs devaient soumettre un rapport quotidien sur les mouvements de l'avion au répartiteur; [admis]
+t) l'appelante rémunérait les travailleurs selon l'entente établie avec chaque travailleur; [admis]
+u) l'appelante versait leur rémunération aux travailleurs par chèque ou par dépôt direct; [admis]
+v) l'appelante assumait les frais de transport des travailleurs; [admis]
+w) les travailleurs devaient assumer le coût de leurs uniformes et de leurs téléphones cellulaires; [admis]
+x) les travailleurs n'avaient aucune chance de profit ni aucun risque de perte; [nié]
+y) les avions étaient la propriété de Bombardier ou du gouvernement du pays où les travailleurs exécutaient leurs tâches; [admis]
+z) les fonctions des travailleurs étaient intégrées aux activités de l'appelante; [nié]
+aa) l'emploi des travailleurs serait un emploi assurable s'il était exercé au Canada; ; [nié]
+bb) l'emploi des travailleurs n'est pas assurable selon les lois du pays où il est exercé. ; [ignoré]
+[3] Monsieur Roger Boutin est venu apporter certaines précisions sur les hypothèses de faits invoquées par le ministre. Il a précisé que le rôle de l'appelante est de chercher du personnel pour répondre aux besoins de son client principal, soit la société Bombardier. La clientèle de Bombardier qui, soit achète ou loue ses avions, a besoin de pilotes et de techniciens qualifiés pour piloter et entretenir les appareils. De plus, puisque la clientèle de Bombardier est composée d'organisations gouvernementales de différents pays, il faut trouver des pilotes et des techniciens qui parlent la langue utilisée dans ces pays.
+[4] L'appelante reçoit donc de Bombardier ce que l'on a appelé une mission. Elle s'occupe alors de communiquer avec les pilotes susceptibles de rendre les services requis et leur offre la mission. Il s'agit presque toujours de piloter et d'entretenir des avions utilisés pour combattre des incendies. Les pilotes avec lesquels fait affaire l'appelante sont pour la plupart des personnes à la retraite qui sont libres d'accepter ou de refuser la mission qu'on leur propose. Monsieur Boutin les a qualifiés comme étant très indépendants et parfois même susceptibles. Une fois qu'ils acceptaient une mission, la plupart signaient un contrat, certains y apportaient des modifications et d'autres se contentaient d'une poignée de main en guise de formalité d'acceptation du contrat.
+[5] Quatre contrats type ont été déposés en preuve. Ils contiennent, entre autres, les clauses que l'on trouve reproduites dans la Réponse à l'avis d'appel aux sous-paragraphes 8 de l) à p) inclusivement. Il s'agit des contrats qu'utilise l'appelante depuis plus d'une dizaine d'années avec les pilotes et les mécaniciens ou les techniciens qu'elle recrute pour les différentes missions qui lui sont proposées par Bombardier. Trois des contrats produits sont signés par le pilote et par une société. Certaines clauses, qui ont été portées à l'attention de la Cour, ont fait l'objet d'explications supplémentaires.
+[6] La clause 1, selon monsieur Boutin, ne correspond pas à la réalité. Ainsi, la description des services offerts par l'appelante, à savoir qu'elle procure des « services of full operation responsibility » , est fausse. Monsieur Boutin a affirmé également que l'appelante ne décide pas comment le pilote ou le mécanicien va travailler puisque c'est l'organisation gouvernementale du pays où ses services sont requis qui décide comment utiliser les avions-citernes. En vertu de la clause 1, l'appelante retient les services du pilote ou du mécanicien. On y précise que le pilote ou le mécanicien est retenu en sa qualité de travailleur indépendant qui doit assumer sa propre responsabilité dans l'exécution de son travail.
+[7] Monsieur Boutin a également précisé que la clause 3 du contrat n'est pas appliquée dans les faits. Cette clause oblige le pilote ou le mécanicien à se rapporter directement au représentant de l'appelante qui lui donnera tout avis ou directive concernant la mission. Une telle situation ne s'est produite qu'en une seule occasion. Toujours selon monsieur Boutin, le pilote ou le mécanicien se rapporte à l'organisation gouvernementale du pays où il est en mission et non à lui. C'est elle qui répartit les tâches et prépare les horaires de travail.
+[8] Le représentant de l'appelante a également déclaré que, même si le contrat contient une clause prévoyant que la durée du contrat peut être prolongée, le pilote ou le mécanicien peut toujours refuser. Il a soutenu que le contrat a été mal rédigé. Il a aussi ajouté que, même si le contrat prévoit que l'une ou l'autre des parties peut mettre fin au contrat sur préavis, il n'en demeure pas moins que Bombardier ou l'organisation gouvernementale du pays où les services des pilotes et mécaniciens sont requis ont le pouvoir de décider qu'ils ne font pas l'affaire.
+[9] Le contrat prévoit aussi que les pilotes et les mécaniciens doivent indemniser l'appelante de toute réclamation possible et prévoit une retenue de 10% sur les allocations pour frais accordées aux pilotes et mécaniciens en vertu du contrat, clause qui n'a d'ailleurs jamais été appliquée par l'appelante selon son représentant. Finalement, il y a une clause de non-concurrence servant à protéger l'appelante dans sa relation d'affaire avec Bombardier ou ses compétiteurs. Monsieur Boutin a précisé que les pilotes et mécaniciens étaient libres d'offrir leurs services à d'autres et que la pénalité prévue en cas du non-respect de cet engagement n'a jamais été imposée. En fait, dans un des contrats déposés en preuve, les clauses en question ont été rayées.
+[10] Il est arrivé que la rémunération prévue au contrat soit modifiée mais cela est arrivé très rarement. En raison des feux de forêt, les pilotes et les mécaniciens devaient être disponibles sept jours par semaine afin de répondre aux exigences de Bombardier ou de l'organisation gouvernementale du pays où ils travaillaient. Ils étaient supervisés par le répartiteur de la base aérienne où ils travaillaient et ce dernier n'était pas un employé de l'appelante. Dans tous les cas, Bombardier pouvait refuser d'utiliser un pilote ou un mécanicien.
+[11] Gaston Audy est un pilote à la retraite qui accepte des missions qui lui sont proposées par l'appelante. Il se considère un travailleur autonome et libre de travailler pour d'autres compagnies. Il est pilote d'avions-citernes et détient les permis nécessaires. Il assure sa propre formation annuellement auprès de Bombardier et paye de sa poche toutes les dépenses nécessaires pour maintenir son statut de pilote. Il se tient à jour en se procurant des livres, des logiciels et toute documentation nécessaire pour être à jour. Il s'occupe de son examen médical et fait ses propres démarches auprès de Transport Canada.
+[12] Selon monsieur Audy, son permis de pilote lui permet d'accepter certaines missions. L'appelante lui trouve des missions et, après les avoir acceptées, il ne se rapporte plus à l'appelante. Il se présente au répartiteur du pays où il est assigné et c'est ce dernier qui lui établi son horaire de travail. Sa performance n'est pas évaluée par l'appelante car aucun représentant de cette dernière n'est sur place. Il n'a aucun rapport quotidien à soumettre, sauf la mise à jour de livres de bord des appareils qu'il pilote. Il doit respecter les règles d'aviation du pays où il travaille et il est assujetti aux mesures disciplinaires de ce pays s'il ne respecte pas les règles. Monsieur Audy ne reçoit aucun avantage social de l'appelante. Il a soutenu que, s'il ne respecte pas ses engagements, il n'est pas payé. Il reçoit sa prestation quotidienne et ne se soucie pas du contrat qu'il pense avoir signé avec l'appelante. Sur cette question, il a ajouté que certains pilotes n'ont jamais rencontré le représentant de l'appelante. Il a terminé son témoignage en disant qu'il assume toutes les responsabilités pouvant survenir dans l'exercice de ses fonctions de pilote.
+[13] Le rapport de l'agent des appels a été déposé en preuve. Ce dernier a rencontré le représentant de l'appelante et trois travailleurs parmi les 21 intéressés dans cette affaire. Les informations recueillies de ces trois travailleurs confirment le témoignage de monsieur Audy sur plusieurs aspects visant leur relation avec l'appelante. Ainsi, les pilotes se considèrent tous comme des travailleurs autonomes, ils assument tous les frais associés au renouvellement de leur permis, aux livres, à la documentation, à l'habillement, au téléphone cellulaire, aux logiciels pour simulateur de vol, aux assurances, à l'ordinateur et aux pertes de revenus s'ils doivent rester plus longtemps à l'hôtel. Il leur est possible d'avoir d'autres clients que l'appelante. Ils n'ont aucun contact avec l'appelante et répondent aux ordres du répartiteur du pays où ils travaillent. Ils ont le droit de refuser certaines destinations ou missions offertes. On peut également lire dans le rapport que les travailleurs étaient payés à tous les mois une fois qu'ils avaient envoyé leur facture. Le coût d'entretien des avions était la responsabilité des propriétaires. Tous les frais encourus à l'étranger, tel le logement, les repas, la location de voiture et autres étaient à la charge des pilotes et mécaniciens et ils devaient à ces fins utiliser l'indemnité journalière fixée et établie dans le contrat.
+[14] Il faut noter que l'appelante prenait à sa charge tous les frais de déplacement des travailleurs pour se rendre à leur lieu de travail.
+[15] La Cour d'appel fédérale, dans l'arrêt Wiebe Door Services Ltd. c. ministre du Revenu national, [1986] 3 C.F. 553, a établi des critères utiles pour distinguer un contrat de louage de services d'un contrat d'entreprise. La Cour suprême du Canada, dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, a donné son aval à ces critères en résumant l'état du droit comme suit aux paragraphes 47 et 48 :
+Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire.
+[16] Le juge Marceau, de la Cour d'appel fédérale, dans l'arrêt Charbonneau c. Canada, [1996] A.C.F. no 1337 (Q.L.), nous rappelle que les facteurs en question sont des points de repère qu'il est généralement utile de considérer, mais pas au point de mettre en péril l'objectif ultime de l'exercice, qui est de rechercher la relation globale que les parties entretiennent entre elles.
+[17] Le critère du contrôle, en l'espèce, me semble inadéquat à cause de la spécialisation des travailleurs, particulièrement les pilotes d'avions. Si je m'en remets à l'arrêt Wolf c. Canada, [2002] C.A.F. 96, la juge Desjardins, aux paragraphes 75 et 76, résumait l'application du critère du contrôle dans une telle situation comme suit :
+Dans la pratique, une telle distinction est difficile à appliquer du fait que tant le travailleur que l'employeur ont habituellement une certaine part de contrôle sur le travail exécuté. Le pilote engagé par un transporteur aérien, par exemple, est généralement un employé bien que personne ne lui dise comment il doit piloter son avion (voir Marc Noël, précité, pages 723 et 724). Le médecin qui travaille dans une clinique peut être un employé tout en étant le maître de sa propre conduite professionnelle. Le critère de contrôle peut donc ne pas convenir dans des cas comme les cas précités si du fait que les capacités et l'expertise du travailleur sont plus grandes que celles de l'employeur, peu de contrôle ou de surveillance peut être exercé sur la façon dont le travail est exécuté. (Voir Joanne E. Magee dans son article intitulé "Whose Business is it? Employees Versus Independent Contractors" (1997), 45 Can. Tax J. 584, à la page 596.)
+Bien que le critère de contrôle soit le critère traditionnel de l'emploi en droit civil, il est souvent inadéquat à cause de la spécialisation accrue de la main-d'oeuvre. La Cour, dans l'affaire Wiebe Door, précitée, a essentiellement déclaré que le critère de contrôle, tout en étant encore important, n'est plus considéré comme un critère péremptoire à lui seul. Le juge Major, tout en convenant qu'il n'y a pas de critères magiques à appliquer, réitère la nécessité d'examiner l'ensemble de la relation entre les parties contractantes pour déterminer à qui est l'entreprise.
+[18] Une fois la mission acceptée par le travailleur, ce dernier se rapporte à l'organisation gouvernementale du pays où a lieu la mission. Par la suite, le répartiteur du pays en question distribue les tâches et fixe les horaires de travail. Le rendement est déterminé par le répartiteur du pays obtenant les services des travailleurs. Quant au travail à exécuter, les travailleurs ont une expertise particulière, ce qui ne laisse pas à l'appelante une grande part de contrôle. Il est donc difficile de conclure que le contrôle exercé par l'appelante crée un lien de subordination entre l'appelante et les travailleurs.
+[19] Même si la clause 3 des contrats types prévoit que l'appelante, par la voix de son représentant, donnera tout avis de mission ou toute instruction aux pilotes ou mécaniciens, il s'agit, à mon avis, simplement d'une ligne directrice permettant aux travailleurs d'identifier la mission, le type d'appareil à piloter et le type d'entretien à effectuer.
+[20] Pour ce qui est de la propriété des instruments de travail nécessaires à l'exécution des tâches, la preuve a révélé que les avions-citernes étaient soit la propriété du pays où la mission avait lieu, soit des avions loués par ce dernier. Le pilote d'un tel avion pourrait aussi bien être un employé qu'un travailleur indépendant de sorte qu'il est difficile d'établir en fonction de ce critère et selon les faits en l'espèce s'il favorise une thèse plus que l'autre. Pour ce qui est des mécaniciens, la preuve ne permet pas de trancher cette question, sauf qu'il me paraîtrait difficile pour ces derniers de transporter leur outillage dans les pays où a lieu la mission.
+[21] Le critère visant les chances de profits et les risques de pertes apporte en l'espèce un élément pouvant appuyer la thèse du travailleur indépendant. Chacun des pilotes assume la responsabilité de renouveler son permis. Les frais de renouveler son permis sont à leur charge et ils s'occupent eux-mêmes de leur formation annuelle telle qu'exigée par Transport Canada, mais les frais de formation sont payés par Bombardier en vertu du contrat. Ils s'occupent de subir l'examen médical requis. Dans le but de mieux exécuter leurs fonctions, les pilotes possèdent des ordinateurs et achètent des logiciels de simulateur de vol et toute la documentation pertinente. Ils versent les primes d'assurance-santé et assument toute responsabilité professionnelle découlant de l'exercice de leurs fonctions.
+[22] Lorsque les travailleurs sont en mission, ils doivent utiliser le montant qui leur est alloué pour les dépenses de logement et les repas. Il arrive, selon la preuve avancée, qu'un pilote soit obligé de louer deux chambres d'hôtel en même temps en raison des circonstances. Ces dépenses sont la responsabilité du pilote. Ces travailleurs assument aussi leur propre formation et gèrent leurs dépenses. De plus, la preuve a révélé que s'ils n'accomplissent pas la mission qu'ils ont acceptée, ils s'en retournent chez eux et ils ne sont pas payés.
+[23] L'appelante n'est pas chargée de combattre les feux de forêts et n'est pas engagée par les organisations gouvernementales en question. Elle est au service de Bombardier qui, à son tour, recherche des pilotes et des mécaniciens pouvant répondre aux besoins des différentes organisations gouvernementales qui achètent ou louent des avions de Bombardier. Le travail exécuté par les pilotes et les mécaniciens répond davantage aux besoins de ces différentes organisations gouvernementales qui ont à combattre les feux de forêt. Le critère de l'intégration est donc difficile à appliquer et ne se prête pas en l'espèce.
+[24] Il s'agit donc, à mon avis, d'une situation où il faut examiner la qualification que les parties ont donnée à leurs relations. Pour ce faire, il faut examiner les contrats déposés en preuve et les clauses pertinentes à cette qualification. Il faut aussi considérer le fait que certains travailleurs ont modifié les modalités du contrat après s'être livrés à des négociations. À titre d'exemple, les clauses de non-concurrence et les pénalités applicables ont été rayées de certains contrats. Il y a même des travailleurs qui n'ont pas signé le contrat type et qui se sont contentés d'une poignée de mains. Finalement, il faut constater qu'au moins deux des trois contrats portent non seulement la signature du travailleur mais également le nom d'une société.
+[25] Selon le représentant de l'appelante, celle-ci utilise ce type de contrat depuis une dizaine d'années. Le contrat est modifié à l'occasion et certaines clauses, même si elles sont là, ne reflètent pas toujours la réalité. À titre d'exemple, il a expliqué que la clause 1 où il est indiqué que l'appelante a l'entière responsabilité des opérations est fausse puisque ce sont les organisations gouvernementales des pays étrangers qui s'occupent des pilotes et mécaniciens et qui veillent à ce que ceux-ci accomplissent leur mission.
+[26] En vertu du contrat, les travailleurs sont des travailleurs indépendants et, à ce titre, ils sont responsables notamment de toutes les retenues d'impôt ou d'assurances qui peuvent être exigées dans les pays où ils travaillent. De plus, le contrat stipule que les travailleurs sont responsables de l'exécution de leur travail. La clause 3 prévoit que les travailleurs doivent se rapporter au représentant de l'appelante, mais cela se limite aux directives concernant la mission. Il s'agit, à mon avis, d'une clause nécessaire dans le but d'expliquer la mission et les exigences qui s'y rapportent. Une fois le contrat accepté, les travailleurs se rapportent à l'organisation gouvernementale qui a besoin des services en question et c'est elle qui dirige les opérations et les travailleurs.
+[27] Les autres clauses du contrat portent sur les honoraires à être versés et la durée du contrat. Ces clauses ne nous aident pas à régler la question. La clause 9 stipule que les travailleurs sont responsables de l'exercice de leurs fonctions et que l'appelante a le droit d'être indemnisée en cas de réclamation. J'attache peu d'importance aux clauses 10 et 11 puisqu'elles ne sont pas toujours applicables. Quant à la clause en vertu de laquelle les travailleurs s'engagent à présenter une image positive et constructive de l'appelante, elle est compatible avec ce que l'on retrouve dans un contrat d'emploi.
+[28] Compte tenu des faits dans leur ensemble, j'en conclus que la relation globale que les parties entretiennent entre elles en est une où les travailleurs sont des travailleurs indépendants. Pour ces motifs, l'appel est accueilli et l'évaluation est annulée.
+Signé à Ottawa, Canada, ce 8e jour de juin 2004
+« François Angers »
+Juge Angers
+RÉFÉRENCE :
+2004CCI392
+No DU DOSSIER DE LA COUR :
+2003-2667(EI)
+INTITULÉ DE LA CAUSE :
+Aircotech International Inc. et le ministre du Revenu national et
+Gaston Audy, Donald C. MacDonald et John J. Caldwell
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 20 avril 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge François Angers
+DATE DU JUGEMENT :
+le 8 juin 2004
+COMPARUTIONS :
+Pour l'appelante :
+Me Michel Roy
+Pour l'intimé :
+Me Antonia Paraherakis
+Pour les intervenants :
+Me Michel Roy
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Michel Roy
+Étude :
+Boivin Deschamps
+Laval (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,470 @@
+Title: Ottawa Air Cargo Centre Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26516/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-193-26516-ottawa-air-cargo-centre-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-04-13
+
+# Ottawa Air Cargo Centre Ltd. c. La Reine
+
+- Citation: 2007 CCI 193
+- Decision date: 2007-04-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3213, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ottawa Air Cargo Centre Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-13
+Référence neutre
+2007 CCI 193
+Numéro de dossier
+2003-1689(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003‑1689(IT)G
+ENTRE :
+OTTAWA AIR CARGO CENTRE LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 14 septembre 2005, à Ottawa, en Ontario.
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Avocats de l’appelante :
+Me Paul LaBarge
+Me Prashant Watchmaker
+Me Lawrence Weinstein
+Avocats de l’intimée :
+Me Ernest Wheeler
+Me Justine Malone
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des avis de cotisation établis en vertu de la Loi de l’impôt sur le revenu relativement aux années d’imposition 1995, 1996, 1997 et 1998 sont rejetés, avec dépens.
+Signé à Ottawa, au Canada, ce 13e jour d’avril 2007.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 20e jour de mars 2008.
+Michèle Ledecq, réviseure
+Référence : 2007CCI193
+Date : 20070413
+Dossier : 2003‑1689(IT)G
+ENTRE :
+OTTAWA AIR CARGO CENTRE LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Ces appels sont interjetés à l’encontre des nouvelles cotisations suivantes établies par le ministre du Revenu national (le « ministre ») : (1) nouvelles cotisations pour les années d’imposition 1995, 1996, 1997 et 1998 de l’appelante en application du paragraphe 84(3) et de l’article 186 de la Loi de l’impôt sur le revenu (la « Loi »), au titre de l’impôt en vertu de la partie IV sur des dividendes imposables réputés avoir été reçus lors du rachat d’actions; (2) nouvelles cotisations au titre de l’impôt en vertu de la partie III (articles 184 et 185 de la Loi) sur l’excédent des dividendes versés au cours des mêmes années en sus du compte de dividende en capital de l’appelante; et (3) une nouvelle cotisation en vertu de la partie I de la Loi pour l’année d’imposition 1998 pour tenir compte d’une réduction de l’application de pertes autres que des pertes en capital d’années précédentes de l’appelante à l’impôt dû au titre de la partie I, en raison de l’application par le ministre de ces pertes autres qu’en capital à la réduction de l’impôt de la partie IV.
+Les faits
+[2] Les parties ont produit un exposé conjoint des faits, qui se lit comme suit :
+[traduction]
+1. L’appelante est une société privée sous contrôle canadien constituée en vertu des lois de la province de l’Ontario.
+2. Durant toute la période pertinente, l’unique actionnaire de l’appelante était 1101332 Ontario Inc., une société privée sous contrôle canadien constituée en vertu des lois de la province de l’Ontario (« 1101332 »).
+3. Au cours des périodes à l’étude, l’appelante détenait des actions privilégiées de catégorie B (« actions de catégorie B ») du capital-actions d’Air Stol Inc. (« Air Stol »).
+4. Au cours des périodes à l’étude, l’appelante et Air Stol n’avaient aucun lien de dépendance et n’étaient pas rattachées pour l’application de l’article 186 de la Loi de l’impôt sur le revenu (la « Loi »).
+5. Aux dates suivantes, ou vers ces dates, l’appelante a reçu les produits suivants (les « produits ») du rachat d’actions de catégorie B :
+Date de rachat
+Montant des produits
+30 juin 1995
+1 162 000,00 $
+28 juin 1996
+1 162 000,00 $
+4 juillet 1997
+1 014 374,00 $
+5 janvier 1998
+1 162 000,00 $
+6. Le 30 juin 1995, le 28 juin 1996, le 4 juillet 1997 et le 5 janvier 1998, l’appelante a déclaré et versé des dividendes à 1101332, aux montants des produits indiqués ci-dessus à côté de chacune de ces dates, nets des coûts liés à chacune de ces opérations (dans chaque cas, un « dividende »).
+7. À l’égard de la déclaration et du versement de chacun des dividendes, l’appelante a produit le formulaire prescrit T2054 « Choix concernant un dividende en capital » relativement aux parties suivantes de chaque dividende (dans chaque cas, un « dividende en capital »):
+Date du dividende
+Montant du dividende en capital
+30 juin 1995
+271 803,00 $ et 16 111,70 $
+28 juin 1996
+290 400,00 $
+4 juillet 1997
+253 509,00 $
+5 janvier 1998
+290 415,00 $
+8. Lors de la production de ses déclarations de revenus pour ses années d’imposition se terminant les 31 décembre 1995, 1996 et 1997 et le 31 janvier 1998, l’appelante a traité les produits comme des gains en capital en vertu du paragraphe 55(2) de la Loi.
+9. L’appelante n’a pas produit de déclaration de renseignements en vertu de la partie IV, sur le formulaire T2S(3), au cours d’aucune de ses années d’imposition 1995 à 1998 et n’a pas déclaré avoir reçu aucun dividende imposable au cours de ces années.
+10. Le ministre a initialement établi une cotisation sur le fondement des déclarations T2 de l’appelante pour ses années d’imposition 1995, 1996, 1997 et 1998 par voie d’avis de cotisations datés respectivement du 23 septembre 1996, du 9 octobre 1997, du 17 août 1998 et du 14 décembre 1998.
+11. Par voie d’avis de cotisation datés du 17 août 2001, l’appelante a été cotisée relativement à ses années d’imposition 1995, 1996, 1997 et 1998 (collectivement, les « avis de cotisation de 2001 ») au titre de l’impôt de la partie IV relativement à des dividendes imposables réputés avoir été reçus lors du rachat d’actions de catégorie B. En particulier, aux termes des avis de cotisation de 2001, l’appelante a été cotisée pour les montants suivants :
+Année d’imposition
+Montant de l’impôt de la Partie IV
+1995
+290 416,00 $
+1996
+387 221,00 $
+1997
+338 012,00 $
+1998
+415 571,00 $
+12. Après que le ministre eut requalifié les produits conformément à ce qui indiqué dans les avis de cotisation de 2001, le solde du compte de dividendes en capital de l’appelante a été ramené à un montant insuffisant pour que l’appelante puisse verser les dividendes en capital en tant que dividendes en capital.
+13. L’appelante s’est opposée aux avis de cotisation de 2001 au moyen d’avis d’opposition datés du 14 novembre 2001 (les « avis d’oppositions de 2001 »).
+14. Par voie d’avis de cotisation daté du 6 mars 2002 et d’avis de nouvelle cotisation datés du 15 octobre 2002 et du 22 octobre 2002 (collectivement, les« avis de cotisation et de nouvelle cotisation de 2002 »), le ministre a établi une cotisation, puis une nouvelle cotisation, à l’égard de l’appelante au titre de l’impôt de la partie III de la Loi aux montants suivants (plus les arrérages d’intérêts et les pénalités) relativement aux dividendes en capital réclamés antérieurement :
+Date du dividende en capital
+Montant de l’impôt de la partie III
+30 juin 1995
+12 083,78 $
+28 juin 1996
+217 800,00 $
+4 juillet 1997
+190 131,75 $
+5 janvier 1998
+217 811,25 $
+15. L’appelante s’est opposée aux avis de cotisation et de nouvelle cotisation de 2002 par voie de lettres datées du 30 avril 2002 et du 30 octobre 2002 (les « lettres d’opposition de 2002 »). Pour sauvegarder ses droits, l’appelante a aussi choisi par voie d’avis écrit au ministre de traiter tout excédent de dividende en capital comme des dividendes imposables distincts en vertu du paragraphe 184(3) de la Loi (les « choix préventifs »).
+16. En outre, par lettre datée du 10 décembre 2002 en réponse à une lettre datée du 9 décembre 2003 du ministre, le représentant de l’appelante à l’époque, Me Gregory Sanders de Soloway Right LLP, a demandé au ministre d’appliquer certaines pertes autres que des pertes en capital d’années antérieures de l’appelante (les « pertes ») à tout impôt de la partie IV que le ministre prétendait dû par l’appelante, de traiter les choix préventifs, et de fournir une meilleure estimation du montant exact d’impôts et d’intérêts dus à la suite de la ratification des avis de cotisation de 2001 et des avis de cotisation et de nouvelle cotisation de 2002. Dans la même lettre, Me Sanders écrivait que l’appelante réservait ses droits de traiter de ces questions dans un avis d’appel, le cas échéant. De fait, l’appelante a interjeté appel relativement à ces questions.
+17. Le ministre a émis des avis de nouvelle cotisation datés du 31 janvier 2003 relativement aux années d’imposition de l’appelante se terminant les 31 décembre 1995, 1996 et 1997 et le 31 janvier 1998 (les « avis de nouvelles cotisation de 2003 en vertu de la partie IV »), lesquels avis de nouvelle cotisation de 2003 en vertu de la partie IV déduisaient les pertes des dividendes imposables de l’appelante (selon la requalification du ministre énoncée dans les avis de cotisation de 2001) aux fins des impôts de la partie IV établis antérieurement à l’égard de l’appelante aux termes des avis de cotisation de 2001. Les impôts de l’appelante en vertu de la partie IV aux termes des avis de nouvelle cotisation de 2003 en vertu de la partie IV sont les suivants :
+Date de fin d’année d’imposition
+Dividende imposable
+Perte déduite
+Impôt de la partie IV
+31 décembre 1995
+1 161 662 $
+1 161 363 $
+100 $
+31 décembre 1996
+1 161 662 $
+1 161 363 $
+100 $
+31 décembre 1997
+1 015 036 $
+1 013 736 $
+100 $
+31 janvier 1998
+1 246 713 $
+513 427 $
+244 429 $
+18. Le 19 février 2003, le ministre a émis un avis de nouvelle cotisation visant l’année d’imposition de l’appelante se terminant le 31 décembre 1998 (l’« avis de nouvelle cotisation de 2003 en vertu de la partie I ») pour tenir compte d’une réduction de l’application de pertes autres que des pertes en capital d’années précédentes de l’appelante, en raison de l’application par le ministre de ces pertes autres qu’en capital conformément aux avis de nouvelle cotisation de 2003 en vertu de la partie IV.
+19. Le ministre a émis des avis de nouvelle cotisation datés du 14 mars 2003 relativement aux dividendes en capital ayant donné lieu auparavant à une cotisation à titre de dividendes imposables (les « avis de nouvelle cotisation de 2003 en vertu de la partie III »), lesquels avis de nouvelle cotisation de 2003 en vertu de la partie III prenaient en compte les choix préventifs et ont donné lieu aux cotisations d’impôts suivantes en vertu de la partie III de la Loi pour les périodes en question :
+Date du dividende imposable
+Montant excédentaire
+Montant visé par le choix
+Solde imposable en vertu de la partie III
+Impôt de la partie III
+30 juin 1995
+16 112 $
+16 012 $
+100 $
+75 $
+28 juin 1996
+290 400 $
+290 300 $
+100 $
+75 $
+4 juillet 1997
+253 509 $
+253 409 $
+100 $
+75 $
+5 janvier 1998
+290 415 $
+290 315 $
+100 $
+75 $
+20. L’appelante s’est opposée aux avis de cotisation de 2001, aux avis de cotisation et de nouvelle cotisation de 2002, à l’avis de nouvelle cotisation de 2003 en vertu de la partie I, aux avis de nouvelle cotisation de 2003 en vertu de la partie III et aux avis de nouvelle cotisation de 2003 en vertu de la partie IV qui visent ses années d’imposition se terminant les 31 décembre 1995, 1996 et 1997 et le 31 janvier de 1998, et l’appelante a interjeté des appels à l’encontre de tous ces avis, dont la Cour est maintenant saisie.
+Les questions en litige
+[3] Selon les actes de procédure, les questions en litige sont les suivantes :
+a) Est‑ce que les produits versés lors du rachat d’actions de catégorie B sont des dividendes imposables assujettis à l’impôt de la partie IV, de telle sorte que le ministre était bien fondé à cotiser l’appelante au titre de l’impôt de la partie IV relativement à ses années d’imposition 1995, 1996, 1997 et 1998?
+b) Est‑ce que le ministre était bien fondé à cotiser l’appelante au titre de l’impôt de la partie III relativement aux excédents résultant d’un choix, pour ce qui est des dividendes en capital versés à son actionnaire au cours de ces mêmes années?
+c) Est‑ce que le ministre était bien fondé à déterminer que l’appelante n’avait pas de pertes autres que des pertes en capital susceptibles d’être reportées prospectivement à son année d’imposition 1998?
+d) Est‑ce que le ministre a cotisé l’appelante au titre de l’impôt des parties III et IV dans les délais impartis par la Loi?
+[4] Dans ses observations écrites, l’appelante a reformulé comme suit les questions en litige :
+[traduction]
+4. Le litige entre l’appelante et l’intimée concerne l’applicabilité du paragraphe 55(2) de la Loi aux opérations; en particulier, les questions à trancher sont les suivantes :
+a) Est‑ce que, comme le soutient l’appelante, lorsqu’elle a produit ses déclarations de revenus pour ses années d’imposition 1995, 1996, 1997 et 1998, l’appelante s’est appuyée directement et à bon droit sur le paragraphe 55(2) de la Loi pour déclarer les opérations et leur effet net, en appliquant les dispositions analytiques de la partie IV de la Loi afin de déclarer les produits versés lors du rachat d’actions de catégorie B à titre de gains en capital au lieu de dividendes imposables?
+b) Est‑ce que, comme le soutient l’intimée, lorsque l’appelante a produit ses déclarations de revenus pour les années d’imposition 1995, 1996, 1997 et 1998, au lieu de s’appuyer directement sur le paragraphe 55(2) de la Loi, l’appelante aurait dû :
+(i) établir elle‑même sa cotisation sur les produits versés lors du rachat d’actions de catégorie B en vertu du paragraphe 186(1) de la Loi;
+(ii) produire une déclaration de renseignements en vertu du paragraphe 187(1) de la Loi à ce sujet;
+(iii) payer tout impôt dû en vertu du paragraphe 186(1) de la Loi;
+(iv) produire les déclarations d’impôt de sa société en considérant les produits comme des dividendes imposables assujettis à l’impôt de la partie IV de la Loi;
+(v) de deux choses l’une :
+(A) soit se fier au ministre pour qu’il rembourse, sans que demande en soit faite, tous les montants payés au titre de l’impôt prévu au paragraphe 186(1) de la Loi, en application de l’alinéa 129(1)a) de la Loi;
+(B) soit demander par écrit au ministre de rembourser tous les montants payés au titre de l’impôt prévu au paragraphe 186(1) de la Loi, en application de l’alinéa 129(1)b) de la Loi;
+(vi) produire de nouvelles déclarations de revenus pour ses années d’imposition 1995, 1996, 1997 et 1998 en considérant que les produits avaient été requalifiés en tant que gains en capital en application du paragraphe 55(2) de la Loi, lesquelles nouvelles déclarations de revenus n’auraient pas documenté les opérations susmentionnées liées aux impôts prévus à la partie IV et au remboursement de ces impôts parce que les formulaires de déclaration n’envisagent ni ne prévoient de déclarations semblables?
+c) Est‑ce que le ministre a imposé à bon droit l’appelante en vertu de la partie IV, en application du paragraphe 186(1) de la Loi, sans rembourser, sans que demande en soit faite, ces impôts en application de l’alinéa 129(1)a) de la Loi?
+d) Est‑il trop tard pour que l’appelante demande, en vertu de l’alinéa 129(1)b) de la Loi, le remboursement de tout impôt de la partie IV payé ou dû en vertu du paragraphe 186(1) de la Loi relativement aux questions faisant l’objet de l’appel?
+e) Est‑ce que le ministre a établi correctement à l’égard de l’appelante des cotisations et/ou de nouvelles cotisations d’impôt en vertu de la partie I, de la partie III et de la partie IV, compte tenu de ce qui précède?
+Les dispositions législatives pertinentes
+[5]
+55(2)
+(2) Présomption de gain en capital. Dans le cas où une société résidant au Canada a reçu un dividende imposable à l’égard duquel elle a droit à une déduction en vertu des paragraphes 112(1) ou (2) ou 138(6) dans le cadre d’une opération, d’un événement ou d’une série d’opérations ou d’événements dont l’un des objets (ou, dans le cas d’un dividende visé au paragraphe 84(3), dont l’un des résultats) a été de diminuer sensiblement la partie du gain en capital qui, sans le dividende, aurait été réalisée lors d’une disposition d’une action du capital-actions à la juste valeur marchande immédiatement avant le dividende et qu’il serait raisonnable de considérer comme étant attribuable à autre chose qu’un revenu gagné ou réalisé par une société après 1971 et avant le moment de détermination du revenu protégé quant à l’opération, à l’événement ou à la série, malgré tout autre article de la présente loi, le montant du dividende (à l’exclusion de la partie de celui-ci qui est assujettie à l’impôt en vertu de la partie IV qui n’est pas remboursé en raison du paiement d’un dividende à une société lorsqu’un tel paiement fait partie de la série) :
+a) est réputé ne pas être un dividende reçu par la société;
+b) lorsqu’une société a disposé de l’action, est réputé être le produit de disposition de l’action, sauf dans la mesure où il est inclus par ailleurs dans le calcul de ce produit;
+c) lorsqu’une société n’a pas disposé de l’action, est réputé être un gain de la société pour l’année au cours de laquelle le dividende a été reçu de la disposition d’une immobilisation.
+[Non souligné dans l’original.]
+83(2)
+(2) Dividende en capital. Lorsque, à un moment donné après 1971, un dividende devient payable par une société privée aux actionnaires d’une catégorie quelconque d’actions de son capital-actions et que la société fait un choix relativement au montant total du dividende, selon les modalités et le formulaire réglementaires, au plus tard au premier en date du moment donné et du premier jour où une partie du dividende a été payée, les règles suivantes s’appliquent :
+a) le dividende est réputé être un dividende en capital jusqu’à concurrence du montant du compte de dividendes en capital de la société immédiatement avant le moment donné;
+b) aucune partie du dividende n’est incluse dans le calcul du revenu des actionnaires de la société.
+84(3)
+(3) Rachat, etc. Lorsque, à un moment donné après le 31 décembre 1977, une société résidant au Canada a racheté acquis ou annulé de quelque façon que ce soit (autrement que par une opération visée au paragraphe (2)) toute action d’une catégorie quelconque de son capital-actions :
+a) la société est réputée avoir versé au moment donné un dividende sur une catégorie distincte d’actions constituée des actions ainsi rachetées, acquises ou annulées, égal à l’excédent éventuel de la somme payée par la société lors du rachat, de l’acquisition ou de l’annulation, selon le cas, de ces actions sur le capital versé relatif à ces actions, existant immédiatement avant ce moment;
+b) chacune des personnes qui détenaient au moment donné une ou plusieurs actions de cette catégorie distincte est réputée avoir reçu à ce moment un dividende égal à la fraction de l’excédent déterminé en vertu de l’alinéa a) représentée par le rapport existant entre le nombre de ces actions que détenait cette personne immédiatement avant ce moment et le nombre total des actions de cette catégorie distincte que la société a rachetées, acquises ou annulées, à ce moment.
+89(1)
+(1) Définitions. Les définitions qui suivent s’appliquent à la présente sous-section.
+[…]
+« dividende imposable » Dividende autre :
+a) qu’un dividende relativement auquel la société qui le verse a fait soit le choix prévu au paragraphe 83(1) dans sa version antérieure à 1979, soit le choix prévu au paragraphe 83(2);
+b) qu’un dividende admissible versé par une société publique aux actionnaires d’une catégorie prescrite d’actions privilégiées à impôt différé de la société, au sens du paragraphe 83(1).
+112(1)
+(1) Déduction des dividendes imposables reçus par une société résidant au Canada. Lorsqu’une société a reçu, au cours d’une année d’imposition, un dividende imposable :
+a) soit d’une société canadienne imposable;
+b) soit d’une société résidant au Canada (autre qu’une société de placement appartenant à des non-résidents et une société exonérée d’impôt en vertu de la présente partie) et dont elle a le contrôle,
+une somme égale au dividende peut être déduite du revenu pour l’année de la société qui le reçoit, dans le calcul de son revenu imposable.
+129(1)
+(1) Remboursement au titre de dividendes à une société privée. Lorsque la déclaration de revenu d’une société en vertu de la présente partie pour une année d’imposition est faite dans les trois ans suivant la fin de l’année, le ministre :
+a) peut, lors de l’envoi par la poste de l’avis de cotisation pour l’année, rembourser, sans que demande en soit faite, une somme (appelée « remboursement au titre de dividendes » à la présente loi) égale au moins élevé des montants suivants :
+(i) le tiers de l’ensemble des dividendes imposables que la société a versés sur des actions de son capital-actions au cours de l’année et à un moment où elle était une société privée,
+(ii) son impôt en main remboursable au titre de dividendes, à la fin de l’année;
+b) doit effectuer le remboursement au titre de dividendes avec diligence après avoir posté l’avis de cotisation, si la société en fait la demande par écrit au cours de la période pendant laquelle le ministre pourrait établir, aux termes du paragraphe 152(4), une cotisation concernant l’impôt payable en vertu de la présente partie par la société pour l’année s’il n’était pas tenu compte de l’alinéa 152(4)a).
+152(1)
+(1) Cotisation. Le ministre, avec diligence, examine la déclaration de revenu d’un contribuable pour une année d’imposition, fixe l’impôt pour l’année, ainsi que les intérêts et les pénalités éventuels payables et détermine :
+a) le montant du remboursement éventuel auquel il a droit en vertu des articles 129, 131, 132 ou 133, pour l’année;
+b) le montant d’impôt qui est réputé, par les paragraphes 120(2) ou (2.2), 122.5(3), 122.51(2), 125.4(3), 125.5(3), 127.1(1), 127.41(3) ou 210.2(3) ou (4), avoir été payé au titre de l’impôt payable par le contribuable en vertu de la présente partie pour l’année.
+152(3.1)
+(3.1) Période normale de nouvelle cotisation. Pour l’application des paragraphes (4), (4.01), (4.2), (4.3), (5) et (9), la période normale de nouvelle cotisation applicable à un contribuable pour une année d’imposition s’étend sur les périodes suivantes :
+a) quatre ans suivant soit le jour de mise à la poste d’un avis de première cotisation en vertu de la présente partie le concernant pour l’année, soit, s’il est antérieur, le jour de mise à la poste d’une première notification portant qu’aucun impôt n’est payable par lui pour l’année, si, à la fin de l’année, le contribuable est une fiducie de fonds commun de placement ou une société autre qu’une société privée sous contrôle canadien;
+b) trois ans suivant le premier en date de ces jours, dans les autres cas.
+152(4)
+(4) Cotisation et nouvelle cotisation. Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+(ii) soit a présenté au ministre une renonciation, selon le formulaire prescrit, au cours de la période normale de nouvelle cotisation applicable au contribuable pour l’année;
+[…]
+165(3)
+(3) Obligations du ministre. Sur réception de l’avis d’opposition, le ministre, avec diligence, examine de nouveau la cotisation et l’annule, la ratifie ou la modifie ou établit une nouvelle cotisation. Dès lors, il avise le contribuable de sa décision par écrit.
+165(5)
+(5) Validité d’une nouvelle cotisation. Les restrictions prévues aux paragraphes 152(4) et (4.01) ne s’appliquent pas aux nouvelles cotisations établies en vertu du paragraphe (3).
+Partie III
+Impôt supplémentaire sur les excédents résultant d’un choix
+184(2)
+(2) Impôt sur les excédents résultant d’un choix. La société qui fait un choix en vertu du paragraphe 83(2), 130.1(4) ou 131(1) relativement au montant total d’un dividende payable par elle sur des actions d’une catégorie de son capital-actions doit payer, au moment du choix, un impôt en vertu de la présente partie égal aux 3/4 de l’excédent éventuel du montant total du dividende sur la partie de celui-ci réputée, selon l’un de ces paragraphes, être un dividende en capital ou un dividende sur les gains en capital.
+185(1)
+(1) Cotisation. Le ministre examine avec diligence chaque choix que fait une société conformément au paragraphe 83(2), 130.1(4) ou 131(1), établit en tenant compte de ce choix l’impôt éventuel payable en vertu de la présente partie et envoie un avis de cotisation à la société.
+PARTIE IV
+Impôt sur les dividendes imposables reçus par les sociétés privées
+186(1)
+(1) Impôts sur les dividendes déterminés. Toute société qui est une société privée ou une société assujettie au cours d’une année d’imposition est tenue de payer, au plus tard à la date d’exigibilité du solde qui lui est applicable pour l’année, un impôt pour l’année en vertu de la présente partie égal à l’excédent éventuel du total des montants suivants :
+a) le tiers de l’ensemble des dividendes déterminés qu’elle a reçus au cours de l’année de sociétés autres que des sociétés payantes auxquelles elle est rattachée,
+b) les montants représentant chacun un montant au titre d’un dividende déterminé qu’elle a reçu au cours de l’année d’une société privée ou d’une société assujettie qui était une société payante à laquelle elle était rattachée, égal au produit de la multiplication du remboursement au titre de dividendes, au sens de l’alinéa 129(1)a), de la société payante pour son année d’imposition au cours de laquelle elle a versé le dividende par le rapport entre :
+(i) d’une part, le dividende reçu par la société donnée,
+(ii) d’autre part, le total des dividendes imposables versés par la société payante au cours de son année d’imposition pendant laquelle elle a versé le dividende et à un moment où elle était une société privée ou une société assujettie,
+sur le tiers du total des montants suivants :
+c) la partie de sa perte autre qu’une perte en capital et de sa perte agricole pour l’année dont elle demande la déduction;
+d) la partie des pertes suivantes dont elle demande la déduction, jusqu’à concurrence de la partie de ces pertes qui serait déductible en application de l’article 111 dans le calcul de son revenu imposable pour l’année s’il était fait abstraction du passage « l’année d’imposition donnée et » au sous‑alinéa 111(3)a)(ii) et si son revenu pour l’année était suffisant :
+(i) sa perte autre qu’une perte en capital pour une de ses 20 années d’imposition précédentes ou de ses 3 années d’imposition suivantes,
+(ii) sa perte agricole pour une de ses 20 années d’imposition précédentes ou de ses 3 années d’imposition suivantes.
+186(3)
+(3) Définitions. Les définitions qui suivent s’appliquent à la présente partie.
+« dividende déterminé » Montant reçu par une société, à un moment où elle est une société privée ou une société assujettie, au titre ou en paiement intégral ou partiel d’un dividende imposable d’une société, jusqu’à concurrence du montant relatif au dividende qui est déductible en application de l’article 112, des alinéas 113(1)a), b) ou d) ou du paragraphe 113(2) dans le calcul du revenu imposable pour l’année de la société qui a reçu le dividende.
+186(4)
+(4) Sociétés rattachées à une société donnée. Pour l’application de la présente partie, une société payante est rattachée à une société donnée à un moment donné d’une année d’imposition (appelée l’« année donnée » au présent paragraphe) de cette dernière dans l’un ou l’autre des cas suivants :
+a) la société payante est contrôlée (autrement qu’au moyen du droit visé à l’alinéa 251(5)b)) par la société donnée à ce moment;
+b) la société donnée a possédé à ce moment :
+(i) d’une part, plus de 10 % des actions émises (comportant plein droit de vote en toutes circonstances) du capital-actions de la société payante,
+(ii) d’autre part, des actions du capital-actions de la société payante dont la juste valeur marchande est de plus de 10 % de la juste valeur marchande de toutes les actions émises du capital-actions de la société payante.
+187(1)
+(1) Déclaration de renseignements. Toute société tenue de payer l’impôt en vertu de la présente partie pour une année d’imposition relativement à un dividende qu’elle a reçu au cours de l’année doit, au plus tard le jour où elle est tenue en vertu de la partie I de produire sa déclaration de revenu pour l’année, produire pour l’année une déclaration relative au dividende reçu, selon le formulaire prescrit, en vertu de la présente partie.
+187(3)
+(3) Dispositions applicables. Les articles 151, 152, 158 et 159, les paragraphes 161(7) et (11), les articles 162 à 167 et la section J de la partie I s’appliquent à la présente partie, avec les adaptations nécessaires.
+Thèse de l’appelante
+[6] Je reproduits ci‑dessous les observations écrites de l’appelante exposant sa thèse et le redressement qu’elle demande :
+[traduction]
+6. L’appelante est une « société résidant au Canada ».
+Énoncé conjoint des faits, paragraphe 1.
+7. L’appelante a reçu des dividendes imposables par suite de la requalification des produits versés lors du rachat d’actions de catégorie B en tant que dividendes imposables.
+Énoncé conjoint des faits, paragraphe 5.
+Alinéa 84(3)b).
+8. Relativement à chacun de ces dividendes imposables, l’appelante avait droit à une déduction en vertu du paragraphe 112(1) de la Loi.
+Paragraphe 112(1).
+9. Les versements des produits du rachat d’actions de catégorie B s’inscrivaient chacun dans le cadre d’une opération ou d’un événement ou d’une série d’opérations ou d’événements dont l’un des résultats a été de diminuer sensiblement la partie du gain en capital qui, n’eut été du traitement de ces rachats comme des dividendes, aurait été réalisée lors d’une disposition à leur juste valeur marchande de toutes ces actions de catégorie B immédiatement avant le dividende. En particulier, les opérations ont réduit sensiblement le gain en capital réalisable par ailleurs lors de toute vente des actions de catégorie B, dans la mesure où un montant allant de 1 104 374 $ à 1 162 000 $ au cours de chacune des années d’imposition visées a été requalifié en tant que dividende imposable au lieu de gain en capital.
+Énoncé conjoint des faits, paragraphe 5.
+Paragraphe 84(3).
+10. Le présent appel ne soulève aucune question de « revenu protégé ».
+11. Au paragraphe 55(2) de la Loi, les dispositions du passage entre parenthèses, à savoir « à l’exclusion de la partie de celui‑ci qui est assujettie à l’impôt en vertu de la partie IV qui n’est pas remboursé en raison du paiement d’un dividende à une société lorsqu’un tel paiement fait partie de la série » (le « passage entre parenthèses »), constituent, du fait des mots « assujettie à », des exigences analytiques plutôt que des exigences procédurales de la Loi.
+Paragraphe 55(2).
+12. L’appelante, ayant reçu des dividendes imposables sous la forme de produits, a reconnu qu’elle avait droit à des remboursements en rapport avec les versements à son unique actionnaire, 1101332 Ontario Inc., elle aussi une société canadienne imposable, lesquels versements auraient pour effet de satisfaire aux exigences du passage entre parenthèses, entraînant de ce fait l’application obligatoire des alinéas 55(2)a) et 55(2)b) de la Loi, qui s’appliquent « malgré tout autre article de » la Loi.
+Alinéa 129(1)a).
+Alinéa 129(1)b).
+Paragraphe 55(2).
+13. Ayant entrepris l’analyse qui précède, l’appelante a produit ses déclarations de revenus pour les années d’imposition 1995, 1996, 1997 et 1998 en considérant que la Loi requalifie les produits en tant que gains en capital aux termes du paragraphe 55(2).
+Paragraphe 55(2).
+14. Le ministre a établi une nouvelle cotisation à l’égard de l’appelante au motif qu’elle avait omis de déclarer les produits comme des [dividendes] imposables en vertu du paragraphe 186(1) de la Loi, mais, à cette occasion, le ministre a omis d’établir aussi une nouvelle cotisation au motif que toute déclaration semblable doit aussi entraîner le paiement obligatoire d’un remboursement par le ministre d’un montant égal à tout impôt payé en vertu du paragraphe 186(1) de la Loi.
+Paragraphe 186(1).
+Alinéa 129(1)a).
+15. Même si la Cour devait confirmer la nouvelle cotisation établie par le ministre à l’égard de l’appelante au motif que l’appelante avait omis de déclarer les produits comme des dividendes imposables en vertu du paragraphe 186(1) de la Loi et que l’appelante était imposée en vertu de la partie IV en la manière prévue au paragraphe 186(1) de la Loi, l’appelante aurait droit à un remboursement de tous les montants ainsi imposés en vertu de la partie IV.
+Alinéa 129(1)b).
+16. Bien que toute application de l’alinéa 129(1)b) soit restreinte par le paragraphe 152(4) de la Loi, l’applicabilité du paragraphe 152(4) aux objets du présent appel est étendue par l’application du paragraphe 165(5) de la Loi.
+Alinéa 129(1)b).
+Paragraphe 152(4).
+Paragraphe 165(5).
+17. Lorsque l’appelante a demandé à ce que certaines pertes autres que des partes en capital soient déduites de tout montant dû par l’appelante en vertu de la partie IV, elle l’a fait précisément dans un but préventif pour se protéger dans l’éventualité où elle n’obtiendrait pas gain de cause dans le présent appel, et cette demande ne lie ni la Cour ni le ministre, parce que les années d’imposition auxquelles cette demande s’applique ne sont pas frappées de prescription et elles font toutes l’objet d’un appel dans la présente instance.
+Énoncé conjoint des faits, paragraphes 16 et 20.
+V. REDRESSEMENT DEMANDÉ
+18. L’appelante demande à cette Cour d’ordonner au ministre d’établir une nouvelle cotisation relativement aux années d’imposition 1995, 1996, 1997 et 1998 de l’appelante en considérant que les opérations liées aux produits déclarés dans les déclarations de revenus produites par l’appelante satisfaisaient à toutes les exigences de la Loi, et d’ordonner à l’intimée de payer tous les dépens à l’appelante.
+19. Subsidiairement, si la Cour statue que les produits étaient assujettis à l’impôt de la partie IV conformément à ce que prétend l’intimée, l’appelante demande à la Cour d’ordonner au ministre d’établir une nouvelle cotisation relativement aux années d’imposition 1995, 1996, 1997 et 1998 de l’appelante, aux conditions suivantes :
+(a) l’appelante devra payer des impôts en vertu de la partie IV sur les montants des produits relativement à ses années d’imposition 1995, 1996, 1997 et 1998 en vertu du paragraphe 186(1) de la Loi;
+(b) aucune des pertes autres qu’en capital de l’appelante ne sera déduite d’aucun impôt dû par l’appelante en vertu de la partie IV relativement à ses années d’imposition 1995, 1996, 1997 et 1998;
+(c) l’appelante aura droit à des remboursements de tous les montants liés aux impôts dus par l’appelante en vertu de la partie IV relativement à ses années d’imposition 1995, 1996, 1997 et 1998, en application de l’alinéa 129(1)b) de la Loi;
+(d) les montants des impôts dus par l’appelante en vertu de la partie IV seront compensés en totalité par les montants des remboursements de ces impôts auxquels l’appelante a droit en vertu de l’alinéa 129(1)b) de la Loi;
+(e) les produits seront réputés être des gains en capital réalisés par l’appelante aux termes du paragraphe 55(2) de la Loi;
+(f) l’appelante devra payer un impôt sur le gain en capital relativement aux gains en capital réputés liés aux produits, tels qu’ils ont été requalifiés par le paragraphe 55(2) de la Loi;
+(g) les pertes autres que des pertes en capital de l’appelante seront déduites de tout impôt sur le gain en capital dû par l’appelante relativement à ses années d’imposition 1995, 1996, 1997 et 1998, à concurrence des montants maximums autorisés en vertu de la Loi pour chacune de ces années d’imposition;
+(h) les dettes fiscales de l’appelante en vertu de la partie I, de la partie III et de la partie IV relativement à ses années d’imposition 1995, 1996, 1997 et 1998 seront réévaluées en conformité avec ce qui précède;
+(i) les dépens seront adjugés à l’encontre de l’intimée et en faveur de l’appelante.
+La thèse de l’intimée
+[7] Je reproduis ci‑dessous les observations écrites de l’intimée exposant sa thèse et le redressement qu’elle demande :
+A. Les produits sont assujettis à l’impôt de la partie IV
+11. En vertu du paragraphe 84(3) de la Loi, les produits versés à l’appelante au moment du rachat de ses actions privilégiées de catégorie B de Stol au cours de ses années d’imposition 1995, 1996, 1997 et 1998 sont réputés être des dividendes imposables versés par Stol au cours de ces années.
+Alinéa 84(3)b)
+12. Les dividendes réputés avoir été reçus par l’appelante étaient, pour l’application de la Loi, des « dividendes imposables » et, aux fins de l’impôt de la partie I, les dividendes réputés étaient déductibles en vertu de l’article 112 de la Loi.
+Paragraphes 248(1), 89(1) et 112(1)
+13. En conséquence, pour l’application de la partie IV de la Loi, les dividendes réputés étaient des « dividendes déterminés ».
+Paragraphe 186(3)
+14. Le paragraphe 186(1) prévoit un impôt remboursable (« impôt de la partie IV ») sur les dividendes reçus par les sociétés privées autres que les dividendes reçus d’une société payante à laquelle elles sont rattachées. Puisque durant toutes les périodes pertinentes, l’appelante et Stol n’étaient pas rattachées pour l’application du paragraphe 186(4) de la Loi, le montant des dividendes réputés reçus de Stol était donc assujetti à l’impôt de la partie IV aux termes du paragraphe 186(1) de la Loi.
+Paragraphes 186(1) et 186(4)
+15. Le fait que les dividendes imposables réputés avoir été reçus par l’appelante puissent aussi être, en totalité ou en partie, des montants visés à l’alinéa introductif du paragraphe 55(2) de la Loi ne soustrait pas ces montants à l’application de la partie IV de la Loi.
+943963 Ontario Inc. v. The Queen, 99 DTC 802, au paragraphe 25
+16. L’appelante n’a pas établi elle-même sa cotisation au titre de l’impôt de la partie IV. Le ministre a établi avec diligence la cotisation au titre de la partie IV, qui a plus tard été réduite à des montants nominaux par suite de la déduction de pertes autres qu’en capital.
+Énoncé conjoint des faits, para. 9, 11 et 17
+17. Le fait que l’impôt de la partie IV sur un dividende donné puisse être réduit à des montants nominaux, voire même éliminé en totalité, par suite de la déduction de pertes autres qu’en capital ne signifie pas que les dividendes n’étaient pas, par voie de conséquence, « assujetti[s] [subject] à l’impôt en vertu de la partie IV ». Les mots « assujetti à l’impôt en vertu de la partie IV » signifient que les dividendes en cause étaient susceptibles d’être imposés en vertu de la partie IV.
+Shorter Oxford English Dictionary, p. 2167, « subject » [assujetti]
+18. Les dividendes en cause demeurent des « dividendes déterminés » au sens de l’alinéa 186(1)a) de la Loi, imposables en vertu de cette disposition. L’application de pertes autres qu’en capital à l’alinéa 186(1)d) réduit le montant d’impôt payable sans modifier la qualité des dividendes en cause en tant que « dividendes déterminés » aux fins de l’impôt de la partie IV.
+Paragraphe 186(1)
+B. Le paragraphe 55(2) n’est pas applicable
+19. Les paragraphes 55(2) à 55(5) de la Loi constituent un groupe de dispositions anti‑évitement ayant pour objet d’empêcher les sociétés résidant au Canada de convertir un gain en capital réalisé lors de la disposition d’actions d’une autre société en un dividende qui ne serait pas imposable en vertu des paragraphes 112(1) et 186(1) de la Loi.
+Paragraphes 55(2) à 55(5)
+20. Bien que ces dispositions soient des dispositions anti‑évitement, il pourrait y avoir des situations où un contribuable pourrait préférer que le paragraphe 55(2) s’applique à des dividendes reçus d’une autre société. En l’espèce, l’appelante disposait de pertes autres qu’en capital importantes qu’elle pouvait appliquer à ses années d’imposition 1995 à 1998 pour compenser les gains en capital réalisés lors du rachat de ses actions privilégiées de catégorie B de Stol. La partie non imposable de ces gains aurait pu ensuite être versée à son actionnaire à titre de dividendes en capital non imposables.
+21. Le paragraphe 55(2) n’est cependant pas applicable lorsque le dividende reçu par la société est assujetti à l’impôt de la partie IV. Les dividendes assujettis à l’impôt de la partie IV sont exclus du champ d’application du paragraphe 55(2), à moins que l’impôt de la partie IV ait été remboursé dans le cadre d’une série d’opérations qui comprennent le rachat d’actions ayant donné lieu au dividende réputé en vertu du paragraphe 84(3).
+Paragraphe 55(2)
+22. D’après les faits de la présente espèce, l’intimée convient avec l’appelante que, en l’absence de la disposition d’exclusion énoncée entre parenthèses, les dividendes réputés reçus par l’appelante seraient visés au paragraphe 55(2) de la Loi.
+23. Cependant, les dividendes réputés étaient assujettis à l’impôt de la partie IV et sont donc exclus du champ d’application du paragraphe 55(2), à moins que l’impôt de la partie IV soit « remboursé en raison du paiement d’un dividende à une société lorsqu’un tel paiement fait partie de la série ».
+Paragraphe 55(2)
+24. En l’espèce, l’appelante n’a pas déclaré les produits comme des dividendes imposables, avec comme conséquence qu’aucun impôt de la partie IV n’a été payé et, de plus, qu’aucun remboursement à l’appelante de cet impôt de la partie IV n’était possible lorsqu’elle a versé des dividendes à son actionnaire, 1101332 Ontario Inc.[1]
+25. Lorsque le ministre a cotisé l’appelante au titre de l’impôt de la partie IV relativement aux dividendes réputés, l’appelante a choisi de réduire la dette en résultant à un montant nominal en appliquant des pertes. Aucun remboursement de dividendes n’a été demandé en vertu du paragraphe 129(1) de la Loi[2].
+Paragraphe 129(1)
+26. Par conséquent, il n’y a eu aucun remboursement de dividende qui aurait soustrait les dividendes en cause à l’application de la disposition d’exclusion énoncée entre parenthèses à la fin du préambule du paragraphe 55(2) et aurait ainsi rendu ce paragraphe applicable à ces dividendes.
+27. Puisque les dividendes réputés découlant des produits sont des dividendes imposables assujettis à l’impôt de la partie IV, le paragraphe 55(2) n’est donc pas applicable en l’espèce, et les produits sont donc imposables à titre de dividendes reçus par l’appelante et ne peuvent pas être traités comme des produits d’une disposition. C’est donc à tort que l’appelante a traité les produits comme des produits d’une disposition plutôt que des dividendes imposables, et le ministre était bien fondé à cotiser l’appelante relativement à ses années d’imposition 1995 à 1998 de manière à inclure le montant des produits en tant que dividendes imposables.
+B. L’appelante est tenue de payer un impôt en vertu de la partie III
+28. Puisque le paragraphe 55(2) ne s’applique pas de manière à traiter le dividende réputé comme un gain en capital, il n’y a eu aucun gain en capital résultant du rachat des actions privilégiées de catégorie B de Stol au cours des années d’imposition 1995 à 1998. Les choix communiqués par l’appelante en vertu du paragraphe 83(2) de la Loi, qui consistaient à verser à son actionnaire des dividendes en capital d’un montant égal à la partie non imposable de ce qu’elle avait déclaré comme un gain en capital découlant du rachat des actions privilégiées de catégorie B de Stol, sont donc invalides.
+29. Le paragraphe 184(2) de la Loi dispose que lorsqu’une société a fait le choix, en vertu du paragraphe 83(2), relativement au montant total d’un dividende payable par elle qui dépasse la partie de celui-ci réputée être un dividende en capital, la société est tenue de payer un impôt en vertu de la partie III égal aux 3/4 de l’excédent.
+Paragraphes 83(2) et 184(2)
+C. Les cotisations en vertu des parties III et IV ont été établies dans les délais prévus par la Loi
+30. Les cotisations établies en vertu de chaque partie de la Loi doivent être traitées comme des cotisations distinctes. Aux fins de l’impôt de la partie IV, un contribuable doit, en vertu du paragraphe 187(1) de la Loi, au plus tard le jour où il est tenu en vertu de la partie I de produire sa déclaration de revenu, produire pour l’année une déclaration, selon le formulaire prescrit. En vertu du paragraphe 187(3) de la Loi, l’article 152 ainsi que les autres dispositions qui y sont visées s’appliquent à la partie IV.
+Paragraphes 187(1) et 187(3)
+31. L’appelante n’a pas produit une déclaration de renseignements en vertu de la partie IV (formulaire T2S(3)) pour aucune de ses années d’imposition 1995 à 1998, et les cotisations initiales du ministre au titre de l’impôt de la partie IV, communiquées par avis datés du 17 août 2001, n’étaient pas prescrites en vertu des dispositions de l’article 152 de la Loi.
+32. L’article 185 de la Loi dispose que le ministre établira une cotisation en vertu de la partie III à la suite de la production de choix faits en vertu du paragraphe 83(3) [sic] de la Loi. Les cotisations d’impôt établies à l’égard de l’appelante en vertu de la partie III de la Loi le 6 mars 2002 étaient des cotisations initiales établies dans les délais de prescription prévus par la Loi.
+D. Ce que l’appelante aurait pu faire
+33. L’on peut faire remarquer que l’appelante aurait pu déclarer les dividendes réputés en tant que dividendes déterminés en vertu de la partie IV et payer l’impôt applicable, réclamer un remboursement de dividendes relativement aux dividendes versés à son actionnaire, 1101332 Ontario Inc., ce qui aurait eu pour conséquence d’établir une dette fiscale en vertu de la partie IV, et s’assurer ainsi que les dividendes déterminés auraient été reconvertis en produits de disposition par l’application du paragraphe 55(2).
+34. Cependant, l’impôt se fonde non pas sur ce qu’un contribuable aurait pu faire, mais sur ce qu’il a effectivement fait.
+Antoine Guertin Ltée c. Canada, [1988] 2 C.F. 67, au paragraphe 7 (C.A.).
+V. REDRESSEMENT DEMANDÉ
+Il [sic] demande que l’appel [sic] soit rejeté, avec dépens.
+Analyse
+[8] Je suis d’accord avec l’analyse de l’intimée. L’application du paragraphe 55(2) a été analysée dans Canada c. Canadian Utilities Ltd., 2004 CAF 234, par le juge Rothstein (alors juge de la Cour d’appel fédérale) aux paragraphes 2 et 3 :
+Le commentaire de cet arrêt de la Cour de l’impôt par Mark W. Lobsinger intitulé « Capital Gains Strips and Normal Course Dividends » (Le dépouillement des gains en capital et les dividendes normaux), (2003) 51:6 Rev. fisc. can. 2291, contient un résumé succinct de l’application du paragraphe 55(2). Je paraphrase ce résumé dans ce qui suit.
+Le paragraphe 55(2) de la Loi est une disposition anti-évitement qui vise à empêcher le dépouillement des gains en capital. Selon cette disposition, un dividende intersociétés qui serait autrement non imposable et qui est réputé découler du rachat d’actions est réputé constituer le produit de la disposition des actions lorsque le dividende réputé fait partie d’une « série d’opérations ou d’événements » qui entraîne une réduction importante du gain en capital réalisé sur la disposition des actions. Selon une exception à cette règle (« l’exception concernant l’impôt de la partie IV »), le dividende réputé ne sera pas qualifié de produit de la disposition des actions dans la mesure où l’actionnaire ayant effectué le rachat est assujetti à l’impôt de la partie IV sur le dividende réputé. Cependant, l’exception fondée sur l’impôt de la partie IV ne s’applique pas si l’impôt de la partie IV est remboursé à l’occasion du versement d’autres dividendes par la société bénéficiaire à d’autres sociétés lorsque les autres versements des dividendes font partie de la même « série d’opérations ou d’événements » qui comprend le dividende réputé initial.
+[9] En d’autres mots, le juge Rothstein dit qu’un dividende réputé ne sera pas requalifié en tant que gain en capital lorsque l’actionnaire est assujetti à l’impôt de la partie IV sur ce dividende réputé, mais que cette exception ne s’applique pas lorsque d’autres dividendes sont versés et qu’un remboursement de l’impôt en vertu de la partie IV est reçu. L’explication simplifiée que le juge Rothstein donne de l’application du paragraphe 55(2) semble être de nature procédurale plutôt qu’analytique, contrairement au point de vue adopté par l’appelante.
+[10] Dans Hypothèques Trustco Canada c. Canada, 2005 CSC 54, au paragraphe 10, la Cour suprême du Canada décrit comme suit la règle moderne d’interprétation des lois énoncée par Elmer Driedger dans Construction of Statutes (2e éd., Toronto, Butterworths, 1983), à la page 87 :
+[Construction of Statutes] [traduction] Aujourd’hui il n’y a qu’un seul principe ou solution: il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur.
+[Hypothèques Trustco Canada] L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux.
+[11] Au paragraphe 54 de l’arrêt Hypothèques Trustco, la Cour suprême affirme :
+Dans l’interprétation des dispositions de la Loi de l’impôt sur le revenu, il faut respecter le libellé de la loi et lui donner son sens juridique bien établi. Dans certains cas, une interprétation contextuelle et téléologique peut nuancer le sens juridique bien établi de ce libellé. […]
+[12] Cette interprétation s’accorde d’une certaine façon avec le critère admis dans d’autres affaires fiscales dans le passé, par exemple, dans Friesen v. The Queen, [1995] 2 C.T.C. 369, 95 DTC 5551, où le juge Major a cité le passage suivant tiré de l’ouvrage de Peter W. Hogg et Joanne E. Magee, Principles of Canadian Income Tax Law (Scarborough (Ontario), Carswell, 1995), aux pages 453‑54 :
+[traduction] La Loi de l’impôt sur le revenu serait empreinte d’une incertitude intolérable si le libellé clair d’une disposition détaillée de la Loi était nuancé par des exceptions tacites tirées de la conception qu’un tribunal a de l’objet de la disposition. [. . .] [L’arrêt Antosko] ne fait que reconnaître que *l’objet+ ne peut jouer qu’un rôle limité dans l’interprétation d’une loi aussi précise et détaillée que la Loi de l’impôt sur le revenu. Lorsqu’une disposition est rédigée dans des termes précis qui n’engendrent aucun doute ni aucune ambiguïté quant à son application aux faits, elle doit être appliquée nonobstant son objet. Ce n’est que lorsque le libellé de la loi engendre un certain doute ou une certaine ambiguïté, quant à son application aux faits, qu’il est utile de recourir à l’objet de la disposition.
+[13] Enfin, au paragraphe 66 de l’arrêt Hypothèques Trustco, la Cour suprême réitère :
+[…] Les tribunaux doivent effectuer une analyse textuelle, contextuelle et téléologique unifiée des dispositions qui génèrent l’avantage fiscal afin de déterminer pourquoi elles ont été édictées et pourquoi l’avantage a été conféré. Le but est d’en arriver à une interprétation téléologique qui s’harmonise avec les dispositions de la Loi conférant l’avantage fiscal, lorsque ces dispositions sont lues dans le contexte de l’ensemble de la Loi.
+[14] Pour ce qui concerne l’interprétation des lois, bien que la jurisprudence récente invite les tribunaux à accorder au contexte et à l’objet une importance presque aussi grande que celle accordée au texte de la disposition, cela ne vaut pas autorisation à réécrire la loi. Il est clair que la magistrature ne doit pas usurper le rôle du législateur (Ludmer v. M.N.R., [2002] 1 C.T.C. 95, à la page 109, paragraphe 38).
+[15] En somme, bien que l’interprétation des lois suppose, de nos jours, une pondération des analyses textuelle, contextuelle et téléologique, la décision de la Cour suprême dans Hypothèques Trustco semble favorable à ce que l’on accorde, dans le cadre de la pondération de ces méthodes d’interprétation, plus de poids au texte d’une disposition lorsque celui‑ci est précis et sans équivoque.
+[16] En l’espèce, à mon avis, le libellé des dispositions du « passage entre parenthèses » – pour reprendre les termes qu’emploie l’appelante au paragraphe 11 de ses observations écrites – est clair et précis; en conséquence, le texte de la disposition devrait prévaloir.
+[17] En effet, la partie controversée du paragraphe 55(2), soit le passage entre parenthèses, est ainsi rédigée :
+[…] malgré tout autre article de la présente loi, le montant du dividende (à l’exclusion de la partie de celui-ci qui est assujettie à l’impôt en vertu de la partie IV qui n’est pas remboursé en raison du paiement d’un dividende à une société lorsqu’un tel paiement fait partie de la série) […]est réputé ne pas être un dividende reçu par la société […]
+[Non souligné dans l’original.]
+[18] L’appelante dit que, en raison de l’emploi des mots « assujetti à », les dispositions énoncées dans le passage entre parenthèses posent des exigences analytiques plutôt que procédurales. L’appelante poursuit en disant, au paragraphe 12 de ses observations écrites, qu’elle « a reconnu qu’elle avait droit à des remboursements en rapport avec les versements à son unique actionnaire, 1101332 Ontario Inc., […] lesquels versements auraient pour effet […] [d’entraîner] l’application obligatoire des alinéas 55(2)a) et 55(2)b) de la Loi ». L’appelante soutient donc qu’elle n’avait pas à payer officiellement l’impôt de la partie IV sur les dividendes imposables qui ont été versés à 1101332 Ontario Inc. pour que le paragraphe 55(2) s’applique. Au lieu de cela, elle pouvait compter sur l’application du paragraphe 55(2) aux faits, au motif qu’elle aurait pu payer l’impôt de la partie IV sur ces dividendes imposables et avoir ainsi droit au remboursement de l’impôt de la partie IV. L’intimé, pour sa part, soutient que l’application du paragraphe 55(2) ne dépend pas d’hypothèses théoriques. En d’autres mots, l’intimée affirme que l’appelante ne peut pas se contenter de dire que le paragraphe se serait appliqué ou aurait pu s’appliquer ou se serait peut-être appliqué. Pour que le paragraphe s’applique, l’appelante doit non seulement avoir reçu des dividendes qui sont assujettis à l’impôt de la partie IV, mais elle doit aussi avoir payé l’impôt prévu à la partie IV sur ces dividendes qui ont été versés à ses actionnaires et avoir effectivement reçu un remboursement.
+[19] D’après l’ouvrage de Ruth Sullivan, Sullivan and Driedger on the Construction of Statutes (4e éd., Markham (Ontario), Butterworths, 2002), à la page 63, la distinction entre des exigences de fond et des exigences procédurales est souvent invoquée, en particulier dans des situations où une partie a satisfait aux exigences de fond préalables d’une disposition, mais non à ses exigences procédurales. En pareil cas, soutient‑on, il est plutôt inique, lorsque les conditions préalables à la reconnaissance d’un droit ou d’un privilège sont essentiellement remplies, que le droit ou le privilège soit refusé au motif que les formalités procédurales n’ont pas été remplies.
+[20] À mon avis, les mots employés dans la disposition du passage entre parenthèses ne sont pas dépourvus de sens, pas plus qu’ils n’ont un caractère purement procédural.
+[21] Pour ce qui est de l’application « textuelle » du paragraphe 55(2), le montant du dividende est réputé ne pas être un dividende, mais plutôt le produit d’une disposition lors de la vente d’actions. La partie de la disposition entre parenthèses énonce une exception à l’application du paragraphe 55(2), et cette exception se rapporte à des impôts de la partie IV non remboursés. La partie d’un dividende relativement à laquelle un remboursement de l’impôt de la partie IV n’est pas reçu n’est pas sujette à requalification. Cela semble d’autant plus vrai que les mots « assujettie à l’impôt en vertu de la partie IV qui n’est pas remboursé » n’ont pas une connotation hypothétique ou analytique. Ils semblent exiger qu’une procédure soit suivie à la lettre, ce qui m’amène à croire que l’exigence d’un remboursement effectif de l’impôt prévu à la partie IV est nécessaire pour que le dividende soit requalifié en tant que gain en capital en vertu du paragraphe 55(2).
+[22] Dans le cadre d’une interprétation contextuelle ou téléologique, en rapport avec la présente espèce, on doit analyser le paragraphe 55(2) de pair avec le paragraphe 84(3). Le paragraphe 84(3) a pour objet d’imposer à titre de dividende tous les montants payés par une société résidant au Canada lors du rachat, de l’acquisition ou de l’annulation de toute action d’une catégorie quelconque de son capital-actions, sauf dans la mesure où le montant payé représente une remise de capital versé. Lorsque le montant d’un rachat dépasse le capital versé, la disposition s’applique de manière à empêcher que le surplus ne soit qualifié de gain en capital, lequel est imposé à un taux préférentiel, et exige plutôt qu’il soit considéré comme un dividende imposable. Le but du paragraphe 84(3) est de prévenir le dépouillement de dividendes.
+[23] Au cours de l’année où il est reçu, le dividende est inclus au revenu de celui ou celle qui le reçoit. Lorsque c’est une société qui reçoit le dividende, le dividende imposable donne droit à l’allègement prévu au paragraphe 112(1). La partie IV s’applique aux dividendes entre sociétés de manière à retirer le dividende des mains d’une personne morale intermédiaire et à le placer entre les mains du particulier qui reçoit le dividende et qui est imposé sur celui‑ci en fin de compte. La partie IV réalise cet objectif en levant un impôt (l’impôt de la partie IV) qui est remboursable une fois que le dividende est versé.
+[24] Lorsqu’un montant est assujetti à l’impôt de la partie IV et que l’impôt n’est pas remboursé parce que le montant n’est pas redistribué en tant que dividende imposable à l’actionnaire de la société, le montant du dividende reçu par la société est imposé à un taux équivalant au taux applicable à un dividende reçu par un particulier détenteur d’actions.
+[25] Inversement, l’article 55 a été promulgué principalement pour faire échec aux opérations appelées « dépouillements de gains en capital », qui avaient été rendus possibles parce que la plupart des dividendes versés entre sociétés sont non imposables dans les faits.
+[26] La juge Sharlow a analysé le paragraphe 55(2) dans The Queen v. VIH Logging Ltd., 2005 DTC 5095, [2005] 1 C.T.C. 387, au paragraphe 20 :
+[20] Le paragraphe 55(2) de la Loi de l=impôt sur le revenu […] a été promulgué en 1980 […] afin de faire obstacle aux opérations appelées * dépouillements de gains en capital +, destinées à éviter l=impôt sur les gains en capital tirés de la vente d=actions d=une société. L=élément commun à tous les dépouillements de gains en capital est un dividende inter‑sociétés non imposable qui est versé sur les actions avant qu=elles soient vendues. Un dividende peut réduire un gain en capital en abaissant la juste valeur marchande des actions (et donc le produit de leur disposition, puisque l=on suppose que l=acheteur ne paiera pas plus que ce que valent les actions). Un dividende en actions peut aussi réduire un gain en capital en augmentant le prix de base rajusté des actions.
+[27] Le méfait que le paragraphe 55(2) vise à corriger est clairement décrit dans le budget fédéral de 1979, où cette disposition a été présentée. À cause de son importance dans ces appels, je reproduis le passage pertinent en entier :
+D’importantes dispositions seront instaurées pour clarifier et renforcer l’esprit des mesures visant à prévenir une diminution artificielle ou indue des gains en capital.
+Certains ont formulé des doutes sur la portée législative et le champ d’application de ces dispositions. Un certain nombre de régimes ont été mis en place pour permettre à une société d’extraire, avant certaines ventes d’actions, ce qui constitue essentiellement le produit de la vente sous forme de dividendes versés entre sociétés en franchise d’impôt ou de dividendes réputés versés et touchés, afin de diminuer suffisamment la valeur – ou augmenter le coût de base – des actions pour éviter l’impôt sur les gains en capital. Ces dividendes, qui dépassent souvent les gains de la société à vendre, sont habituellement motivés uniquement par le désir du vendeur d’éviter l’impôt sur les gains en capital.
+En règle générale, dans la plupart des ventes d’actions entre sociétés sans lien de dépendance – et, dans certains cas, avec lien de dépendance – un gain en capital doit apparaître au moins dans la mesure où le produit de la vente reflète la hausse non réalisée et non imposée, depuis 1971, de la valeur des actifs correspondants. Cette règle est généralement respectée quand les versements de dividendes en franchise d’impôt sont limités aux bénéfices non distribués et imposés, postérieurs à 1971.
+Des changements clarifieront l’esprit de la loi à cet égard en précisant que, lorsqu’on peut raisonnablement considérer que l’une des principales raisons d’un dividende versé en franchise d’impôt entre sociétés est de réduire le produit de la disposition d’une action, le gain en capital autrement déterminé sera rajusté dans la mesure où les dividendes globaux en franchise d’impôt dépassent les gains non distribués et imposés, postérieurs à 1971.
+[28] Dans 729658 Alberta Ltd. v. The Queen, 2004 DTC 2909, [2004] 4 C.T.C. 2261 (TCC), la juge Woods a affirmé que l’objet législatif de la disposition elle-même ne ressort pas d’une façon évidente. Elle s’est exprimée comme suit à ce sujet au paragraphe 5 :
+L’objet législatif ne ressort pas d’une façon évidente du libellé du paragraphe 55(2). Toutefois, il a été décrit par le gouvernement au moment où la disposition en question a été présentée. Cet objet a succinctement été décrit par le juge Noël dans l’arrêt Kruco Inc. v. R., [2003] 4 C.T.C. 185 (C.A.F.) :
+Il s=agissait de s=assurer que le gain en capital inhérent aux actions d=une corporation, attribuable à une plus‑value non réalisée des actifs sous-jacents de la corporation depuis 1971 ne fasse pas l=objet d=un évitement par l=utilisation des dividendes non imposables versés à une société (paragraphe 112(1)). Parallèlement, le Parlement ne voulait pas freiner le flux de dividendes exemptés d=impôt attribuables à des revenus déjà imposés.
+[...]
+Théoriquement, cette méthode permet de dégager l=impôt applicable à la portion du gain fictif attribuable à la plus-value des actifs sous‑jacents tout en maintenant le régime d=exonération pour la partie du gain attribuable à un * revenu gagné ou réalisé + depuis 1971.
+[29] À une certaine époque, antérieure à 1983, le paragraphe 55(2) ne s’appliquait pas du tout aux montants qui étaient assujettis à l’impôt de la partie IV. En effet, le législateur avait initialement rédigé le paragraphe 55(2) en plaçant entre parenthèses les mots « à l’exclusion de la partie de celui-ci qui est assujettie à l’impôt en vertu de la partie IV », ce qui indiquait clairement que la disposition ne s’appliquait pas aux dividendes assujettis à l’impôt de la partie IV. En 1983, le paragraphe 55(2) a été modifié par l’ajout des mots suivants entre les parenthèses : « à l’exclusion de la partie de celui-ci qui est assujettie à l’impôt en vertu de la partie IV qui n’est pas remboursé en raison du paiement d’un dividende à une société lorsqu’un tel paiement fait partie de la série. » [Non souligné dans l’original.]
+[30] Les Notes techniques du ministère des Finances, publiées en 1982, vers l’époque de la modification du paragraphe 55(2) par l’ajout précité, énoncent ce qui suit :
+Le paragraphe 55(2) traite de certains dividendes versés entre corporations qui sont habituellement exonérées [sic] d’impôt. Pour éviter l’évasion fiscale, ces dividendes sont considérés comme étant le produit tiré de la disposition d’une action ou d’un gain tiré de la disposition d’un bien en immobilisations, il y a certaines exceptions à ce régime, dont deux sont touchées par les modifications apportées au paragraphe 55(2) de la Loi.
+Le paragraphe 55(2) ne refuse pas le régime accordé aux dividendes, lorsque le gain est attribuable à un revenu gagné ou réalisé par une corporation après 1971. Le premier changement précise que, à cette fin, le revenu postérieur à 1971 doit être calculé jusqu’à la date de l’opération ou de l’événement pertinent ou du commencement de la série pertinente d’opérations ou d’événements qui fait entrer en jeu le paragraphe 55(2). Ainsi, le revenu d’une corporation gagné ou réalisé après cette date ne peut servir à diminuer l’impôt dû en application du paragraphe 55(2).
+Le paragraphe 55(2) ne s’applique pas aux dividendes assujetis [sic] à l’impôt remboursable prévu à la Partie IV de la Loi. Le deuxième changement stipule que l’exception prévue pour les dividendes assujettis à l’impôt de la Partie IV ne s’appliquera que si l’impôt n’est pas remboursé par suite du paiement d’un dividende entre corporations qui fait partie d’une série d’opérations ou d’événements.
+[31] La modification apportée au paragraphe 55(2) en 1983 nous indique que les législateurs ont apporté une clarification particulière au libellé afin d’atteindre un but précis.
+[32] À mon avis, le contexte historique milite en faveur de la position de l’intimée. La partie du passage entre parenthèses composée des mots « assujettie à […] » et suivants, sur lesquels l’appelante a concentré son attention, ne doivent pas être isolés, mais doivent être appréciés dans leur contexte, avec les mots ajoutés par la modification de 1983. Les mots ainsi ajoutés semblent clairement exiger qu’un remboursement de l’impôt de la partie IV ait été obtenu par suite d’un paiement ultérieur de dividendes pour que le paragraphe 55(2) s’applique.
+[33] Cette conclusion est aussi raisonnable dans le contexte d’une analyse téléologique. La disposition a pour objet d’empêcher l’évitement. Le passage entre parenthèses énonce une exception : le paragraphe ne s’applique pas lorsque le contribuable n’a pas reçu un remboursement de l’impôt de la partie IV. Cette exclusion est raisonnable, parce que si le remboursement de l’impôt de la partie IV n’est pas reçu, un impôt sera alors dû, et non évité, auquel cas l’application du paragraphe 55(2) n’est pas nécessaire.
+[34] De fait, la conduite adoptée par l’appelante en l’espèce a mené à une sorte d’évitement fiscal. En effet, en requalifiant en tant que gain en capital le produit du rachat des actions, sans avoir d’abord payé sur ces montants l’impôt de la partie IV, l’appelante a versé à sa filiale les produits en franchise d’impôt sous forme d’un dividende en capital sur lequel la filiale n’a pas payé d’impôt en vertu de la partie IV. Ce dividende en capital a vraisemblablement été redistribué en fin de compte, également en franchise d’impôt, au particulier détenteur d’actions. En revanche, si l’appelante avait adopté la ligne de conduite indiquée au paragraphe 55(2), elle aurait payé l’impôt de la partie IV sur le dividende réputé et aurait réclamé un remboursement relativement au versement du dividende à sa filiale, qui, elle, aurait payé un impôt en vertu de la partie IV sur le montant ainsi distribué. La filiale aurait ensuite demandé un remboursement relativement à la distribution de ce dividende réputé au particulier détenteur d’actions, lequel, en fin de compte, aurait été imposé sur ce montant. Le régime de la Loi aurait ainsi été respecté, c’est‑à‑dire que le rachat d’actions aurait donné lieu à un dividende réputé, sauf dans la mesure où le montant payé représentait une remise de capital versé.
+[35] Cela m’amène à réitérer que les mots employés dans les dispositions du passage entre parenthèses ne sont pas dépourvus de sens. Ils n’ont pas non plus un caractère purement procédural. Je conclus donc que l’appelante devait se conformer au libellé du paragraphe 55(2) afin de pouvoir requalifier les produits du rachat de ses actions en tant que gain en capital.
+[36] Pour ce qui concerne le redressement demandé par l’appelante, à savoir qu’elle ait droit aux remboursements de tous montants d’impôt dus en vertu de la partie IV relativement à ses années d’imposition 1995 à 1998, en application de l’alinéa 129(1)b) de la Loi, et que les montants d’impôt de la partie IV dus par l’appelante soient compensés dans leur totalité par les montants des remboursements de ces impôts, je conviens avec l’intimée que cette demande ne peut pas être accueillie à ce stade‑ci.
+[37] L’appelante n’a pas demandé par écrit un tel remboursement dans le délai où le ministre aurait été autorisé en vertu du paragraphe 152(4) à établir une cotisation d’impôt en vertu de la partie I, comme l’exige l’alinéa 129(1)b). En effet, lorsque le ministre a cotisé l’appelante au titre de l’impôt de la partie IV relativement aux dividendes réputés, l’appelante a choisi de réduire la dette en résultant à un montant nominal en déduisant des pertes. Aucun remboursement de l’impôt de la partie IV n’a été demandé en vertu du paragraphe 129(1) de la Loi, et, de fait, aucun remboursement n’a été accordé à l’appelante. Il est maintenant trop tard pour en demander un.
+[38] Le paragraphe 165(5) invoqué par l’appelante s’applique seulement à une nouvelle cotisation établie en vertu du paragraphe 165(3) (c.‑à‑d. que les délais de prescription prévus au paragraphe 152(4) ne s’appliquent pas à l’établissement d’une nouvelle cotisation en réponse à un avis d’opposition). Il ne s’applique pas au délai de prescription prévu à l’alinéa 129(1)b) pour la formulation d’une demande de remboursement.
+[39] En conséquence, je conclus que le paragraphe 55(2) ne s’applique pas en l’espèce. Par conséquent, le ministre a correctement cotisé l’appelante relativement aux années d’imposition 1995 à 1998 de l’appelante, en incluant à titre de dividendes imposables le montant des produits payés à l’appelante lors du rachat de ses actions privilégiées de catégorie B de Air Stol Inc. au cours de ces années. Il s’ensuit que les nouvelles cotisations de 2003 en vertu de la partie I, de la partie III et de la partie IV, auxquelles renvoie l’énoncé conjoint des faits, étaient justifiées. Je conviens également avec l’intimée que, pour les motifs exposés aux paragraphes 30 à 32 des observations de l’intimée, la cotisation établie par le ministre à l’égard de l’appelante au titre des impôts de la partie III et de la partie IV l’a été dans les délais prévus par la Loi.
+Conclusion
+[40] Je conclus donc que les dettes de l’appelante au titre de l’impôt de la partie I, de l’impôt de la partie III et de l’impôt de la partie IV relativement à ses années d’imposition 1995, 1996, 1997 et 1998, établies selon les nouvelles cotisations, doivent être confirmées.
+[41] Les appels sont rejetés, avec dépens.
+Signé à Ottawa, au Canada, ce 13e jour d’avril 2007.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 20e jour de mars 2008.
+Michèle Ledecq, réviseure
+RÉFÉRENCE : 2007CCI193
+NO DE DOSSIER DE LA COUR : 2003‑1689(IT)G
+INTITULÉ DE LA CAUSE : OTTAWA AIR CARGO CENTRE LTD.
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 14 septembre 2005
+MOTIFS DU JUGEMENT PAR : L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 13 avril 2007
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Paul LaBarge
+Me Prashant R. Watchmaker
+Me Lawrence Weinstein
+Avocats de l’intimée :
+Me Ernest Wheeler
+Me Justice Malone
+AVOCAT(E)S INSCRIT(E)S AU DOSSIER :
+Pour l’appelante :
+Nom : Me Paul LaBarge
+Cabinet : LaBarge Weinstein
+Professional Corporation
+Ottawa (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’on peut faire remarquer que les dividendes payés à 1101332 Ontario Inc. n’auraient pas entraîné de dette fiscale en vertu de la partie IV pour cette société parce que l’appelante, à titre de société payant ces dividendes, était rattachée à 1101332 Ontario Inc., d’où l’exclusion des dividendes du champ d’application de l’alinéa 186(1)a), et parce que l’appelante n’a reçu aucun remboursement de dividende, d’où l’exclusion des dividendes du champ d’application de l’alinéa 186(1)b). Le résultat normal, où les dettes fiscales en vertu de la partie IV sont transmises d’une société à l’autre en même temps que les dividendes auxquels elles se rapportent, n’aurait pas pu se produire en l’espèce.
+[2] À l’époque des avis de nouvelle cotisation en vertu de la partie IV, le 17 août 2001, le délai pour ce faire avait déjà expiré relativement aux années d’imposition 1995 et 1996 de l’appelante. Relativement aux années d’imposition 1997 et 1998, le délai pour ce faire a expiré peu de temps après. Ce résultat n’est pas déraisonnable, dans la mesure où le délai de prescription prévu par la Loi empêcherait vraisemblablement le ministre de transférer la dette fiscale en vertu de la partie IV à la société rattachée qui avait reçu les dividendes payés par l’appelante.

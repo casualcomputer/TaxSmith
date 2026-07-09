@@ -1,0 +1,126 @@
+Title: Callahan v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521186/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-172-521186-callahan-v-the-king-en.md
+Document type: case_law
+Last modified: 2023-12-20
+
+# Callahan v. The King
+
+- Citation: 2023 TCC 172
+- Decision date: 2023-12-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5644, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Callahan v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-12-20
+Neutral citation
+2023 TCC 172
+File numbers
+2020-2420(IT)I
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2020-2420(IT)I
+BETWEEN:
+MICHAEL CALLAHAN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on November 27, 2023 at Ottawa, Canada
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kimberly Pollard
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the assessment made under the Income Tax Act for the 2019 taxation year, is hereby quashed. There shall be no order as to costs.
+Signed at Ottawa, Canada, this 20th day of December 2023.
+“Guy Smith”
+Smith J.
+Citation: 2023 TCC 172
+Date: 20231220
+Docket: 2020-2420(IT)I
+BETWEEN:
+MICHAEL CALLAHAN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Smith J.
+I. Overview
+[1] Michael Callahan (the “Appellant”) made excess contributions to his Tax-free savings account (“TFSA”) during the 2019 taxation year and, as a direct consequence of this, was assessed penalties and interest.
+[2] Following receipt of the notice of assessment dated July 14, 2020 (the “Assessment”), the Appellant requested that the penalties and interest be waived but the Minister of National Revenue (the “Minister”) declined to do so. The Appellant appeals to this Court from that decision, arguing that it was unfair.
+[3] The Respondent takes the position that the appeal should be quashed because this Court does not have jurisdiction over the subject matter of the appeal or, alternatively, because the Appellant failed to file a notice of objection.
+[4] In the further alternative, the Respondent takes the position that the appeal should be dismissed because the Minister’s decision was reasonable.
+[5] At the conclusion of the hearing, the Court informed the Appellant that the appeal would be dismissed and that brief written reasons would be provided.
+II. Background and Position of the Parties
+[6] The Appellant received a notice from the Canada Revenue Agency (“CRA”) indicating that his TFSA contribution room at January 1, 2020, was ($5,000) but he understood this to mean he could contribute another $5,000. Since the contribution room for 2020 had increased to $6,000, he contributed that amount, thus inadvertently increasing his excess contributions to ($11,000).
+[7] Upon receipt of the Assessment, the Appellant immediately removed the excess contributions and so informed the CRA. He then requested that the penalties and interest be waived arguing that, not having an accounting background, he had misunderstood the use of the brackets. He argued that this was an honest mistake.
+[8] The Minister declined to do so, indicating that the Appellant had been notified about making excess contributions and the Assessment was ultimately confirmed.
+[9] At the hearing, the Appellant denied having been notified by CRA about excess contributions. While he admitted that a “TFSA Education letter” had been posted to his CRA account on May 17, 2019, he had not read it because, in his view, it was general information not specifically directed at him.
+[10] The Appellant disputed the notion, or at least expressed surprise at the suggestion that this Court did not have jurisdiction over the subject matter of the appeal because a CRA official had verbally told him, he could appeal to this Court. The Appellant filed his appeal on the basis of that advice.
+[11] The Appellant produced a copy of the Taxpayers Bill of Rights taken from the CRA website and pointed out that only the “Tax Court of Canada” is mentioned.
+[12] The Appellant presented an article from the Globe and Mail dated November 21, 2017. It purports to summarize the findings of the Auditor General of Canada that the CRA has given “wrong answers to questions [from taxpayers] nearly 30 percent of the time” and that this “could cause taxpayers to file incorrect returns, miss filing deadlines, pay too little or too much tax (…).”
+[13] And finally, the Appellant disputed the suggestion that he had not filed a notice of objection prior to filing his appeal since he had used the word “dispute” and it should have been apparent to CRA that he was objecting to the Assessment.
+[14] The Respondent submitted the affidavit of a CRA officer. It stated that a search of their records indicated that the Appellant had not filed a notice of objection. It also indicated that the Appellant had been informed that he “could register a formal dispute and advised the Appellant on how to object to the Minister.” That letter was not attached to the affidavit and the Respondent was unable to produce a copy.
+[15] At paragraph 8 of the Reply to the Notice of Appeal, the Respondent refers to a letter of December 9, 2020 that explained that if the Appellant concluded that “the Minister did not properly exercise its discretion during the second review, [he] could apply to the Federal Court for a judicial review within 30 days of this letter.”
+III. Analysis
+[16] The Court notes at the outset that the correctness of the Assessment is not at issue as the Appellant agrees he made excess contributions to his TFSA. His sole argument is that the Minister acted unfairly in refusing to waive the penalties.
+[17] Section 207.02 of the Income Tax Act, RSC 1985, c.1 (5th Supp) (the “Act”) provides that an individual shall pay a tax equal to 1% per month on excess contributions to their TFSA. Section 207.06 then provides that “the Minister may waive or cancel all or part of the liability” if the individual “establishes to the satisfaction of the Minister that the liability arose as a consequence of a reasonable error” and the excess contributions are promptly withdrawn.
+[18] Section 220(3.1) similarly provides that the Minister may “waive or cancel all or any portion of any penalty or interest otherwise payable under this Act.”
+[19] Sections 207.06 and 220(3.1) are part of what is known as the “Taxpayer relief provisions” or legislation. In Canada (National Revenue) v. Sifto Canada Corp., 2014 FCA 140, the Federal Court of Appeal indicated that “the Tax Court does not have the jurisdiction to determine whether the Minister properly exercised his or her discretion under subsection 220(3.1) of the Income Tax Act when deciding whether or not to waive or cancel a penalty” and this can only be challenged, “by way of an application for judicial review in the Federal Court” (para. 23).
+[20] More recently, in Wiegers v. The Queen, 2019 TCC 260, MacPhee J. confirmed that the “case law is clear: if a taxpayer wants a review of the Minister’s decision concerning interest relief he must file an application for judicial review at the Federal Court.” He concluded that, “unfortunately, this Court cannot grant the relief that the Appellants are seeking” (para. 24).
+[21] These two decisions are sufficient to dispose of the appeal but I will review the remaining arguments made by the Appellant and make a few observations.
+[22] The Assessment itself indicated that if the Appellant disagreed, he could “register a formal dispute by going to canada.ca/cra-complaints-disputes.” Had he taken the time to consult the web address provided, he would have noticed a reference to the “Taxpayer relief provisions” and a hyperlink would have taken him to a section entitled “cancel or waive penalties and interest” followed by another section entitled “if you disagree with our decision.” At that point, he would have noted that he could “apply to the Federal Court for a judicial review”, provided he did so within 30 days from receipt of the “second administrative review.”
+[23] Although I have no difficulty believing that the Appellant relied on the advice of a CRA official before pursuing the matter before this Court, it is also apparent that he did not make adequate enquiries as to the proper steps to file a “formal dispute” and chose to ignore the contents of the CRA letter of December 9, 2020. Although a copy of that letter was not provided, the Court may infer that it contained the results of the “second administrative review” and concluded with the advice that the decision could be challenged before the Federal Court.
+[24] The Appellant relied on the Taxpayers Bill of Rights, noting that only the Tax Court of Canada is mentioned. However, had the Appellant taken the time to follow the hyperlinks to the electronic version, he would have seen the section entitled “Request for Taxpayer Relief – Cancel or Waive Penalties or Interest.” At that point, he would again have noticed the reference to the “second administrative review” and the right to apply to the Federal Court for judicial review.
+[25] In the end, the Taxpayers Bill of Rights can best be described as an aspirational document. As noted by Graham J. in Johnson v. The Queen, 2022 TCC 31, it is “in essence, a pledge to deliver a certain quality of service” but it “has no force of law” and “neither overrides nor supplements the Income Tax Act (…)” (para. 25).
+[26] Section 169(1) of the Act provides that where “a taxpayer has served a notice of objection to an assessment (…) the taxpayer may appeal to this Court to have the assessment vacated or varied (…).” It is well established that service or delivery of the notice of objection on the Chief of Appeals in accordance with subsection 165(2) is a necessary first step, failing which, this Court cannot hear the appeal.
+[27] Even if the Appellant’s letters to the CRA were considered a valid notice of objection, this Court would still not have jurisdiction to judicially review the exercise of the Minister’s discretionary decision not to waive the penalties and interest at issue. There is no need to address this matter in any further detail.
+[28] To be clear, the Tax Court of Canada is a statutory court that can only exercise the powers granted to it by Parliament. It cannot exercise that function based on fairness or equity and it does not have jurisdiction over the Minister’s discretionary power to waive penalties and interest pursuant to sections 207.06 or 220(3.1).
+[29] The Court attaches no weight to the Globe and Mail article referenced above as the intent and purpose is to provide general information of interest to the public.
+[30] In the end, the Appellant had an obligation to ensure that his contributions were within the annual contribution limit. Had he taken the time to track those amounts, he could have avoided the excess contributions and thus the penalties.
+[31] For these reasons, the appeal is quashed.
+Signed at Ottawa, Canada, this 20th day of December 2023.
+“Guy Smith”
+Smith J.
+CITATION:
+2023 TCC 172
+COURT FILE NO.:
+2020-2420(IT)I
+STYLE OF CAUSE:
+MICHAEL CALLAHAN v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Ottawa, Canada
+DATE OF HEARING:
+November 27, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+December 20, 2023
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kimberly Pollard
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

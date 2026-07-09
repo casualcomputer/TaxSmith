@@ -1,0 +1,183 @@
+Title: Hann c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/64595/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-359-64595-hann-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2013-11-07
+
+# Hann c. M.R.N.
+
+- Citation: 2013 CCI 359
+- Decision date: 2013-11-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5916, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hann c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-11-07
+Référence neutre
+2013 CCI 359
+Numéro de dossier
+2012-1641(EI)
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2012-1641(EI)
+ENTRE :
+ROUGUIATOU HANN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 22 août 2013, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelante :
+Me André Legault
+Avocats de l'intimé :
+Me Claude Lamoureux
+Diana Leopardi (stagiaire en droit)
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi est rejeté et la décision du ministre du Revenu national, datée du 18 janvier 2012, est confirmée, étant entendu que l’emploi que madame Louiza Valmé a exercé auprès de l’appelante était un emploi assurable pour les périodes du 18 janvier 2008 au 20 juillet 2008 et du 29 septembre 2008 au 3 juillet 2010 et qu’il n’existait pas de relation employeur-employée pour la période du 21 juillet 2008 au 28 septembre 2008.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2013.
+« Réal Favreau »
+Juge Favreau
+Référence : 2013 CCI 359
+Date : 20131107
+Dossier : 2012-1641(EI)
+ENTRE :
+ROUGUIATOU HANN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel d’une décision rendue le 18 janvier 2012, par laquelle le ministre du Revenu national (le « ministre ») a conclu que madame Louiza Valmé (la « travailleuse ») exerçait un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi (la « Loi sur l’AE ») lorsqu’elle a travaillé pour l’appelante pour les périodes du 18 janvier 2008 au 20 juillet 2008 et du 29 septembre 2008 au 3 juillet 2010 et qu’il n’existait pas de relation employeur-employée pour la période du 21 juillet 2008 au 28 septembre 2008.
+[2] Les faits sur lesquels se fonde le ministre sont exposés au paragraphe 16 de la Réponse à l’avis d’appel :
+a. L’appelante est propriétaire d’une garderie en milieu familial depuis l’année 2000;
+b. Au cours de [sic] période en litige, la garderie comptait de 6 à 9 enfants;
+c. Les heures d’ouverture de la garderie étaient de 7 :30 à 17 :00;
+d. Les tâches de la travailleuse consistaient à assurer la surveillance et les soins des enfants, à organiser les activités, à donner un compte-rendu des évènements de la journée aux parents et à effectuer l’entretien de la garderie;
+e. La travailleuse rendait ses services en présence et sous la supervision de l’appelante;
+f. La rémunération de la travailleuse s’élevait à 10,00 $ de l’heure;
+g. La rémunération de la travailleuse lui était versée par chèques aux deux semaines;
+h. La travailleuse a commencé à rendre ses services à la fin de 2007;
+i. Les personnes qui occupaient le poste de la travailleuse avant son arrivée et celles qui l’ont remplacé étaient des salariées de l’appelante.
+[3] La question en litige consiste à déterminer si la travailleuse occupait un emploi assurable lorsqu’elle était au service de l’appelante durant les périodes du 18 janvier 2008 au 20 juillet 2008 et du 29 septembre 2008 au 3 juillet 2010.
+[4] La version des faits de l’appelante diffère de celle de la travailleuse à plusieurs égards, notamment en ce qui a trait à l’intention commune des parties quant au statut fiscal de la travailleuse, au libre choix de l’horaire de travail et des jours de congé, au degré d’autonomie de la travailleuse dans l’organisation des activités éducatives relatives à la garderie, au degré de supervision et de contrôle exercé par l’appelante sur la travailleuse et quant aux circonstances entourant la fin du contrat conclu entre les parties;
+[5] Sur la base du témoignage de l’appelante à l’audience et sur la base du rapport de l’agent des appels, daté du 16 décembre 2011 (pièce I-1), lequel résume (a) les motifs énoncés dans les lettres adressées aux appels et aux normes du travail datées du 7 février 2011, signées par l’appelante, (b) les motifs énoncés dans la lettre d’appel datée du 12 septembre 2011, signée par le représentant de l’appelante et (c) les faits obtenus de l’appelante lors d’une entrevue téléphonique ayant eu lieu le 9 décembre 2011, les faits relatés par l’appelante sont les suivants :
+i. elle était la propriétaire de la garderie en milieu familial depuis 2000. La garderie était affiliée au Bureau Coordonnateur et la travailleuse n’était pas liée à elle;
+ii. entre six et neuf enfants fréquentaient la garderie. Cette dernière était fermée les jours fériés et durant des périodes variées selon le nombre d’enfants;
+iii. la travailleuse avait offert des services à la garderie de fin 2007 à 2010;
+iv. c’est suite à une annonce qu’elle avait fait paraître sur Kijiji que la travailleuse s’était manifestée pour travailler pour elle comme assistante. Le Bureau Coordonnateur avait interviewé la travailleuse avant qu’elle ne commence pour la garderie;
+v. elle avait toujours traité ses travailleurs comme des employés soit celle qui avait travaillé pour elle en 2007 et celle qui avait remplacé la travailleuse en 2010;
+vi. elle considérait la travailleuse comme une travailleuse autonome parce qu’à son embauche, la travailleuse voulait qu’elle soit traitée comme tel;
+vii. les parties avaient conclu une entente verbale au début. L’entente écrite entre les parties, datée du 30 juin 2010, avait été signée suite à l’appel d’un agent de l’Agence du revenu du Canada, qui demandait si les parties avaient signé un contrat écrit;
+viii. les tâches de la travailleuse consistaient exclusivement à faire des programmes éducatifs pour les enfants de la garderie, soit les jeux et les bricolages, ainsi que des sorties. La travailleuse ne cuisinait pas car c’est elle qui s’en occupait;
+ix. la travailleuse était libre de la conception des programmes éducatifs et des jeux. Par conséquent, elle ne la supervisait pas, même s’il arrivait qu’elle soit présente et demande aux enfants ce qu’ils avaient fait;
+x. l’horaire de la garderie était de 7h à 17h du lundi au vendredi et celui de la travailleuse variait selon ses propres besoins. Par contre, elle comptabilisait les heures de travail de la travailleuse;
+xi. la travailleuse était libre de prendre ses congés quand elle le désirait. Lors des journées pédagogiques, la travailleuse décidait souvent de rester avec ses enfants;
+xii. si la travailleuse ne rentrait pas travailler et que la garderie avait accepté 9 enfants, elle demandait l’aide de ses deux filles, dont une âgée de 21 ans qui ne fréquentait pas l’école parce qu’elle était en situation irrégulière aux fins de l’immigration;
+xiii. la travailleuse faisait des comptes-rendus écrits ou verbaux aux parents des enfants, car ces derniers avaient des agendas qu’ils faisaient remplir;
+xiv. la travailleuse s’occupait de tous les enfants et elle n’était pas assignée exclusivement à un ou plusieurs enfants;
+xv. elle avait déterminé le salaire de la travailleuse à 10 $ de l’heure, selon les capacités financières de sa garderie;
+xvi. la travailleuse recevait son salaire aux deux semaines par chèque. Cette dernière déposait le chèque chez des services d’échange de chèques pour de l’argent comptant;
+xvii. la travailleuse voulait être payée en argent comptant mais elle avait refusé;
+xviii. si un enfant était absent ou un parent n’avait pas payé pour les services de garde de son enfant, cela n’influait pas sur le salaire de la travailleuse;
+xix. en tant que propriétaire de la garderie, elle avait fourni et entretenu tous les outils nécessaires à l’emploi de la travailleuse et cette dernière ne payait pas pour l’utilisation de ce matériel;
+xx. la travailleuse n’encourait pas de dépenses dans le cadre de son emploi, mis à part les achats de magazines comme Éducatout destinés à son programme éducatif. Elle n’était pas remboursée pour ses dépenses;
+xxi. la travailleuse ne pouvait pas se choisir des aides ou remplaçants, ni payer ces derniers car cela était sa prérogative;
+xxii. la travailleuse n’avait pas souscrit une police d’assurance-responsabilité, mais la garderie avait une telle police;
+xxiii. la travailleuse n’avait jamais offert de services sans être payée; elle accordait des avances d’argent à la travailleuse sur demande;
+xxiv. la propriétaire de la garderie faisait des reçus aux parents de la garderie à la fin de l’année;
+xxv. les parents des enfants de la garderie la payaient directement, sans jamais payer la travailleuse. Elle payait la travailleuse pour du temps supplémentaire lorsque les parents étaient arrivés en retard à la fin de la journée;
+xxvi. la travailleuse n’avait pas sa propre clientèle à la garderie; elle faisait garder son enfant à la garderie et payait pour les frais liés à cela, soit 140 $ pour un mois de quatre semaines et 175 $ pour un mois de cinq semaines. Ces frais étaient déduits sur son salaire sur une base hebdomadaire;
+xxvii. c’était la travailleuse qui avait terminé unilatéralement l’entente entre les parties en manquant à ses obligations et en résiliant de façon fautive et abusive l’entente.
+[6] Sur la base du témoignage de la travailleuse à l’audience et sur la base du rapport de l’agent des appels mentionné au paragraphe précédent lequel résume les faits obtenus de la travailleuse lors d’une entrevue téléphonique ayant eu lieu le 15 décembre 2011, les faits relatés par la travailleuse sont les suivants :
+i. elle se considérait comme employée durant la période en litige mais elle ne peut justifier la raison pour laquelle elle avait déclaré son revenu comme du revenu d’entreprise en 2009;
+ii. elle n’avait pas un autre emploi durant la période en litige et travaillait à temps plein pour le compte de la garderie de l’appelante;
+iii. elle n’a jamais demandé d’être considérée comme travailleuse autonome, ni exigée d’être payée en argent comptant lors de son embauche, car elle offrait ses services comme assistante de garderie depuis 1999 et n’avait jamais été traitée, ni considérée comme travailleuse autonome;
+iv. en plus des jeux éducatifs qu’elle faisait pour le compte de la garderie, elle se chargeait de changer les couches des enfants, soit trois fois par jour, de faire du nettoyage de tapis de la garderie tous les vendredis et de désinfecter les jouets et les toilettes;
+v. elle se chargeait aussi de faire des sorties avec les enfants, de remplir leur agenda et la feuille d’assiduité;
+vi. elle pouvait appeler les parents qu’en cas d’urgence ou si l’appelante l’autorisait à les appeler pour leur demander d’amener des couches ou des vêtements de rechange pour les enfants;
+vii. l’appelante la supervisait car elle lui demandait de faire des jeux éducatifs ou des sorties quand elle ne le faisait pas. Elle faisait les sorties avec 6 enfants et l’appelante restait avec les trois autres enfants ou si, tous sortaient, l’appelante venait avec elle;
+viii. elle n’avait pas la possibilité de modifier son horaire de travail; lorsqu’elle avait besoin de congés ou de rendez-vous, c’est l’appelante qui l’autorisait;
+ix. l’appelante refusait parfois de la laisser s’absenter une demi‑journée, préférant la libérer toute la journée et choisir et payer quelqu’un d’autre pour la remplacer;
+x. elle avait seulement arrêté de travailler pendant une période d’environ 1 mois et demi en 2008 lorsqu’elle s’est rendue en Haïti, pendant deux semaines lors de l’arrivée de son mari en mars 2010 et pendant les semaines de relâche pour passer du temps avec ses enfants.
+xi. elle n’était pas payée à un taux horaire mais pour un montant fixe de 50 $ par jour, soit 500 $ aux deux semaines. C’est l’appelante qui avait déterminé le montant, la fréquence et le moyen de paiement de son salaire;
+xii. elle ne recevait pas toujours 500 $ parce qu’il arrivait que l’appelante lui consentait des avances ou déduisait des frais de garde de son enfant;
+xiii. elle n’encourait pas de dépenses dans le cadre de son emploi, exception faite des décorations qu’elle faisait à la garderie d’une valeur de 10 $ durant les fêtes de Pâques, dont elle n’était pas remboursée;
+xiv. elle n’avait pas de compte d’entreprise et n’était pas en affaires. Elle travaille actuellement dans une autre garderie et est considérée et traitée comme employée;
+xv. c’est suite à l’appel de l’examinateur du compte en fiducie de l’appelante qui annonçait son passage à la garderie pour faire des vérifications, que l’appelante lui avait fait signé le contrat daté du 30 juin 2010;
+xvi. avant que l’examinateur ne passe à la garderie pour faire les vérifications, l’appelante l’avait congédiée en l’appelant la fin de semaine, pour lui dire qu’elle n’avait plus besoin de ses services.
+Analyse
+[7] La question en litige est de savoir si madame Valmé occupait un emploi assurable aux fins de la Loi sur l’AE. La disposition pertinente est l’alinéa 5(1)a) de la Loi sur l’AE qui édicte ce qui suit :
+5. (1) Sous réserve du paragraphe (2), est un emploi assurable :
+a. l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[8] Cet article définit un emploi assurable comme comprenant l’emploi exercé en vertu d’un contrat de louage de services. La Loi sur l’AE ne définit pas ce qui constitue un tel contrat.
+[9] L’article 8.1 de la Loi d’interprétation prévoit ce qui suit dans de telles circonstances :
+Propriété et droits civils
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s’il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d’assurer l’application d’un texte dans une province, il faut, sauf règle de droit s’y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l’application du texte.
+[10] Les dispositions pertinentes pour déterminer l’existence d’un contrat de travail au Québec et le distinguer du contrat de service sont les articles 2085, 2086, 2098 et 2099 du Code civil du Québec (« Code civil »).
+Contrat de travail
+2085 Le contrat de travail est celui par lequel une personne, le salarié, s’oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d’une autre personne, l’employeur.
+2086 Le contrat de travail est à durée déterminée ou indéterminée.
+Contrat d’entreprise ou de service
+2098 Le contrat d’entreprise ou de service est celui par lequel une personne, selon le cas l’entrepreneur ou le prestataire de services, s’engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s’oblige à lui payer.
+2099 L’entrepreneur ou le prestataire de services a le libre choix des moyens d’exécution du contrat et il n’existe entre lui et le client aucun lien de subordination quant à son exécution.
+[11] En vertu du Code civil, la distinction principale entre le contrat de travail et le contrat d’entreprise demeure l’existence, ou non, d’un lien de subordination entre le client et l’entrepreneur. L’article 2099 du Code civil prévoit que « le prestataire de services a le libre choix des moyens d’exécution du contrat et il n’existe entre lui et le client aucun lien de subordination quant à son exécution ».
+[12] Dans le présent cas, j’ai beaucoup de difficultés à croire que la travailleuse ait pu rendre des services en tant qu’assistante dans les locaux de la garderie en milieu familial de l’appelante sans qu’il n’existe de lien de subordination entre l’appelante et la travailleuse quant à sa prestation de services.
+[13] La prestation de travail de la travailleuse consistait à exécuter des services liés aux activités quotidiennes de la garderie, soit le suivi du programme éducatif pour enfants, les jeux (bricolage et dessins), les sorties avec les enfants, la mise à jour de l’agenda des enfants et de la feuille d’assiduité, les changements de couches, le nettoyage de tapis de la garderie les vendredis et le nettoyage des jouets et des toilettes.
+[14] Contrairement à ce que soutient l’appelante à l’effet que la travailleuse jouissait d’une autonomie totale pour les sorties et les activités éducatives, je crois plutôt que la travailleuse était supervisée dans l’exécution de ses tâches, eu égard aux responsabilités qui incombent à l’appelante relativement au respect des exigences du Bureau Coordinateur et aux contrats qui liaient l’appelante aux parents. De plus, la prestation de travail de la travailleuse ne se limitait pas qu’aux sorties et aux activités éducatives, tel qu’indiqué au paragraphe précédent.
+[15] La travailleuse a été rémunérée pour les services qu’elle a rendus dans le cadre de son travail pour le compte de la garderie durant les périodes en litige. La travailleuse a effectivement reçu sa rémunération aux deux semaines par chèques, selon les heures travaillées. Par contre, l’appelante a déterminé le taux horaire, le mode et la fréquence du paiement de la rémunération de la travailleuse. Dans les circonstances, l’appelante a exercé un contrôle total sur la rémunération de la travailleuse.
+[16] La rémunération versée par l’appelante à la travailleuse, soit 500 $ aux deux semaines, ne représentait que 6,50 $ de l’heure. Comme ladite rémunération était inférieure au salaire minimum alors en vigueur, la travailleuse a logé une plainte à la Commission des normes du travail. Suite au dépôt de cette plainte, un règlement est intervenu et l’appelante a dû payer un montant forfaitaire à la travailleuse.
+[17] La rémunération de la travailleuse était fixe et ne dépendait pas du nombre d’enfants présents à la garderie, ni de leur âge.
+[18] La travailleuse avait un horaire qui correspondait aux jours et aux heures de fonctionnement de la garderie, soit du lundi au vendredi de 7h30 à 17h. Les parties ont clairement indiqué que la travailleuse ne pouvait pas se choisir un remplaçant car elle devait personnellement rendre les services. L’appelante avait la responsabilité d’engager et de payer la remplaçante au besoin.
+[19] La travailleuse n’avait pas la possibilité de modifier son horaire de travail sans l’autorisation préalable de l’appelante. L’appelante comptabilisait les heures de travail de la travailleuse.
+[20] Tout le matériel nécessaire à la prestation de travail de la travailleuse était mis gratuitement à la disposition de la travailleuse. La travailleuse n’encourait pas de dépenses dans le cadre de sa prestation de travail si ce n’est que des achats de magazines comme Éducatout dont le coût n’était pas remboursé à la travailleuse.
+[21] La travailleuse n’a pas fait d’investissement dans le cadre de sa prestation de travail auprès de l’appelante et elle n’a pas occupé d’autres emplois, ni fourni de services à d’autres personnes au cours des périodes en litige. Elle n’a pas contracté une police d’assurance-responsabilité dans le cadre de sa prestation de travail et elle ne s’est pas enregistrée auprès des autorités gouvernementales comme exploitant une entreprise. La travailleuse a produit ses déclarations de revenu pour les années d’imposition 2007, 2008 et 2010 comme du revenu tiré d’un emploi mais la travailleuse a déclaré son revenu pour l’année 2009, comme du revenu d’entreprise sans toutefois réclamer de dépenses encourues pour gagner ce revenu.
+[22] Selon son témoignage, la travailleuse a exercé ses fonctions d’assistante en garderie depuis 1999 et elle a toujours été considérée comme ayant occupée un emploi. Suite à son congédiement, la travailleuse travaille toujours dans une garderie et elle est considérée comme une employée.
+[23] L’appelante a, lors de son témoignage, confirmé que l’assistante qui travaillait à la garderie avant la travailleuse était rémunérée à titre d’employée et qu’il en était de même pour l’assistante qui a remplacée la travailleuse après son départ. L’appelante a émis des feuillets T4 à ses assistantes en 2007 et en 2010 mais n’a pas émis de feuillets T4 à la travailleuse pour les années d’imposition 2008 et 2009. L’appelante a émis de tels feuillets T4 à la travailleuse en date du 30 mars 2011, soit après la décision du ministre quant à l’assurabilité de l’emploi de la travailleuse.
+[24] Compte tenu de l’absence de feuillets T4 et de l’absence de déductions à la source, il semble bien que l’intention de l’appelante ait été de traiter la prestation de services de la travailleuse comme un contrat d’entreprise. Par contre, la travailleuse a nié avoir exigé d’être traitée comme une travailleuse autonome lors de son embauche.
+[25] Lorsque la travailleuse a débuté son travail à la garderie de l’appelante, aucune entente écrite n’a été signée par les parties. Ce n’est que, lorsque l’examinateur du compte en fiducie de la garderie à appeler l’appelante pour effectuer une vérification, l’appelante lui a fait signer le document daté du 30 juin 2010 par lequel la travailleuse reconnaissait qu’elle était payée comme travailleuse autonome, tel qu’elle l’avait demandé, qu’elle était payée sous forme d’honoraires et que les frais de garderie de sa fille étaient déduits, à sa demande, des chèques d’honoraires que l’appelante lui remettait. Ladite entente peut difficilement être qualifiée d’un contrat de travail. Il s’agit plutôt d’une reconnaissance de ce qui a été fait dans les années précédentes.
+[26] La travailleuse a signé le document en question mais elle a tout de même été congédiée sans préavis par l’appelante suite à un appel téléphonique la fin de semaine précédant la visite de l’examinateur en prétextant qu’elle n’avait plus besoin de ses services.
+[27] Quelle qu’ait été l’intention des parties au début de leurs relations d’affaires, il m’apparaît être assez évident que la relation des parties concrétisée dans la réalité objective était une relation d’employeur-employée et non de client-entrepreneur indépendant.
+[28] L’appelante exerçait un haut niveau de supervision et de contrôle sur la travailleuse (congédiement) et sur sa prestation de travail compte tenu de la nature du travail exécuté par la travailleuse; la travailleuse ne fournissait pas ses propres instruments de travail; la travailleuse ne pouvait engager d’aides; elle n’assumait aucun risque financier et elle n’avait aucune opportunité de réaliser des profits.
+[29] Compte tenu du type d’emploi occupé par la travailleuse et compte tenu des informations fournies par les parties, la version des faits relatés par la travailleuse m’apparaît être plus crédible et plausible que celle de l’appelante. Les conditions d’emploi mentionnées par la travailleuse se rapprochent davantage des conditions d’emploi d’autres travailleurs travaillant pour d’autres payeurs effectuant des tâches similaires.
+[30] Pour la période du 21 juillet au 28 septembre 2008, la travailleuse n’a pas rendu de services à la garderie et elle n’a pas reçu de rémunération à l’égard de cette période. Par conséquent, cet emploi n’était pas un emploi assurable car il n’était pas exercé en vertu d’un contrat de louage de services.
+[31] Pour ces raisons, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2013.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2013 CCI 359
+Nº DU DOSSIER DE LA COUR : 2012-1641(EI)
+INTITULÉ DE LA CAUSE : ROUGUIATOU HANN v M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 22 août 2013
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 7 novembre 2013
+COMPARUTIONS :
+Avocat de l'appelante:
+Me André Legault
+Avocats de l'intimé :
+Me Claude Lamoureux
+Diana Leopardi (stagiaire en droit)
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me André Legault
+Cabinet : Alarie Legault
+Montréal (Québec)
+Pour l’intimé : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

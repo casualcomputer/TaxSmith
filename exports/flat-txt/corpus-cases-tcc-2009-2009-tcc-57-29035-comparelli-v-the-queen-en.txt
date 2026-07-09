@@ -1,0 +1,247 @@
+Title: Comparelli v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29035/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-57-29035-comparelli-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-01-26
+
+# Comparelli v. The Queen
+
+- Citation: 2009 TCC 57
+- Decision date: 2009-01-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6844, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Comparelli v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-01-26
+Neutral citation
+2009 TCC 57
+File numbers
+2005-193(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-193(IT)G
+BETWEEN:
+ANTHONY COMPARELLI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 23-24, 2008, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Douglas D. Langley
+Counsel for the Respondent:
+Jenny P. Mboutsiadis
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1999, 2000 and 2001 taxation years is dismissed in accordance with the attached Reasons for Judgment.
+Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 26th day of January 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2009TCC57
+Date: 20090126
+Docket: 2005-193(IT)G
+BETWEEN:
+ANTHONY COMPARELLI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] The Appellant appeals from an assessment which imposed liability for unpaid payroll source deductions of federal and provincial income taxes, employment and Canada Pension Plan premiums, as well as interest and penalties. The amount outstanding was $302,850.03. The Appellant was assessed on the basis that he was a director of Mindthestore.com Inc. (“MTS”) at the time it failed to make remittances to the Receiver General in 1999, 2000 and 2001.
+[2] The issues in this appeal are whether the Appellant exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances and whether the amount of the assessment is correct.
+Facts
+[3] At the hearing of this appeal, evidence was given by the Appellant, two former directors of MTS, Walter Bowen and Sebastian Zeppieri, and three officers from the Canada Revenue Agency (“CRA”).
+[4] The Appellant is a software developer and a consultant. He graduated in 1982 from the DeVry Institute of Technology with a computer science and systems analysis course. Prior to the incorporation of MTS, he worked as a consultant with many government departments and financial institutions to design and develop various software systems. The Appellant became interested in developing software involving real-time retail point of sale which could be used with the internet. On January 8, 1996, MTS was incorporated to carry on the business of developing this software.
+[5] The Appellant was appointed a director of MTS in 1996, and continued to be a director at all times relevant to this appeal. He was President of MTS until June 27, 2000. On August 23, 1999, he was elected Chairman and Chief Executive Officer (“CEO”) of MTS.
+[6] The Appellant worked for MTS through his consulting company, J-Cann Enterprises Ltd. (“J-Cann”).
+[7] The Appellant described the history of MTS and the events that occurred which caused it to be placed into bankruptcy in January, 2002. He stated that in 1996 and 1997 the business of MTS was primarily research and development. It employed between 10 and 15 employees who were programmers. In 1996, the Appellant managed the business of MTS through J-Cann. I gather that his role changed in 1997. He began to travel to various investment bankers, brokerage firms, market makers and third party companies to establish an awareness of the technology that MTS was developing and to raise funds for MTS.
+[8] The evidence disclosed that from 1996 until 2001, MTS financed its business, primarily, from the sale of its shares through investment bankers and from debt.
+[9] The Appellant stated that by February 1997, MTS had no money; it was not generating revenue.[1] MTS signed an agreement with AIBC Investments (“AIBC”) to raise US$5,000,000 through the sale of shares of MTS. This investment was supposed to close on December 15, 1998. However, prior to that date, AIBC was charged with securities fraud, racketeering and conspiracy to commit fraud. MTS then turned to another investment bank called TerraNova Capital Partners Inc. (“TerraNova”). In 1999 MTS signed a consulting agreement with TerraNova. TN Capital Equities, Ltd, a subsidiary of TerraNova, became the Placement Agent to obtain investors for the purchase of MTS’ securities. In this appeal, I will refer to these companies as TerraNova. In June 1999, TerraNova was successful in making an equity placement and MTS received US$5,000,000. The Appellant stated that as a condition of the placement of shares, TerraNova requested that it be able to place two representatives on the Board of Directors; and, that MTS hire a Chief Financial Officer (“CFO”). Ruth Sheridan, a chartered accountant, was hired as CFO in September 1999.
+[10] It was the Appellant’s evidence that in 2000, MTS was well capitalized; and the technology was moving forward. He and the Board of Directors had the vision to take MTS to a public offering. His role was to promote MTS by speaking at seminars and trade shows and he traveled extensively to accomplish this. He stated that he was in the office less than 20% of the time.
+[11] I question whether MTS was well capitalized in 2000. In a Private Placement Memorandum dated August 15, 2000 (exhibit R-2) under Risk Factors, TerraNova wrote the following about MTS:
+Limited Operating History
+Since its inception in 1996, the Company has focused a substantial portion of its financial and other resources on developing its technology, software and marketing strategy, including negotiating joint venture and similar arrangements, and obtaining capital. The Company does not have an established history of actual operations of its current business upon which an investor can base an investment decision, and the likelihood of success of the Company must be considered in view of all of the risks, expenses and delays inherent in establishing, operating and expanding a new business, including, but not limited to, unforeseen expenses, complications and delays, the uncertainty of market acceptance of new services, intense competition from larger, more established competitors and other factors.
+Limited Revenues, Continuing Losses and Accumulated Deficit
+For the fiscal year ended December 31, 1999, the Company had sales of US $578,217, a net loss of US $(2,024,909), and an accumulated deficit of US $(6,589,647).
+Going Concern Qualifications
+Note 1 to the Company’s audited financial statements for the fiscal year ended December 31, 1999, which are attached as Appendix C, contains an explanatory paragraph indicating that the Company’s ability to continue as a going concern is uncertain. The Company has an immediate need for, and is wholly dependent on, the net proceeds of this Offering, or other financings, to survive and to implement its strategy.
+Unaudited financial Statements
+The financial statements of the Company for and at the three (3) month period ended March 31, 2000, which are attached as Appendix D to this Memorandum, are unaudited, have been prepared by the Company, and have not been reviewed by the Company’s auditors. In the event that such financial statements had been reviewed by the Company’s auditors in conformity with generally accepted accounting principles, the disclosure may have materially differed.
+No Material Revenues; No Assurance of Profitability
+To date, the Company has not generated any material revenues and it is anticipated that it will continue to incur substantial losses as it pursues its growth strategy. There can be no assurance as to when, if ever, the Company will be profitable. It is anticipated that until the Company is able to generate significant revenues, the Company will continue to incur substantial losses.
+…
+Undercapitalization
+The Company is dependent upon the proceeds of this Offering in order to commence and expand its business as planned. Unless the Company can obtain significant financing from this Offering, or from other sources, it will be unable to conduct the business described herein, to fully establish its operations, to profitably carry on its business, or to otherwise carry out all of the proposed activities described herein. Should the Company require substantial equity capital within the next 16 months, no assurance can be given that any additional financing will be available or, if available, that it would be available on terms acceptable to the Company. Furthermore, any issuance of additional securities would result in dilution to then existing shareholders. If adequate funds are not available, the Company may lack sufficient capital to pursue its business plan fully, which may have a material and adverse effect upon its business, financial condition and results of operations.
+[12] In 2000, MTS had little to no income. It was the Appellant’s evidence that it generated revenues of less than $5,000 per month from technology which it had placed on the internet. It relied on debt financing to continue its operations. MTS received loans from various parties including, the Appellant, J-Cann and TerraNova. The evidence showed that in 2000 and 2001, MTS received debt financing of $2,825,000 and $1,200,000 respectively. There was no evidence that MTS generated any income in 2001.
+[13] It was the Appellant’s evidence that in early 2001, TerraNova advanced no funds to MTS; and, MTS was financially in dire straits. By letter dated April 25, 2001, the Appellant threatened to resign from MTS unless TerraNova advanced the funds which it had promised. In this letter he stated that the funds were necessary to pay rents, employees’ salaries and the arrears to CRA. I note that in this letter, the Appellant also threatened to place MTS into bankruptcy and/or to start another company that would compete with MTS. It was the Appellant’s evidence that he did not resign because TerraNova threatened to sue him; and, the other directors asked him to remain with MTS. In May 2001, MTS terminated the exclusive banking relationship that it had with TerraNova.
+[14] It was the Appellant’s evidence that after May 2001, MTS took several steps to promote its financial survival. It hired another agent to raise money for MTS; this agent was not successful in raising any financing. In an attempt to reduce its overhead until it received financing, MTS reduced its office space and its staff from 40 to 6 employees.
+[15] Schedule B to the agenda for the Board of Directors meeting of October 16, 2001 shows that MTS received debt financing in the amount of $400,000 from May to September 2001.
+[16] The Appellant also outlined the efforts that he took to keep MTS in business. In 2001, the Appellant personally wrote cheques to MTS which totaled $17,013.05. In July, 2001, by way of three cheques, J-Cann gave MTS $83,000 to pay its rent and other expenses. He began negotiations with Microsoft to sell them MTS. These negotiations were unsuccessful. He contacted all of the investment banking firms, private equity funds and companies that he had met over the years, which he thought would be interested in investing in MTS.
+[17] On January 15, 2002, MTS did receive an offer of intent to invest from Hira Financial Corporation (“Hira”) who was prepared to invest US$2,500,000 in MTS in exchange for 20% share ownership of the company. One of the conditions of the proposed investor was that TerraNova had to agree to a debt restructuring and a postponement of its debt. At this point in time the debt outstanding to TerraNova was US$1,975,000. TerraNova did not agree with this condition. The Appellant then tried to sell the technology that MTS had developed up to that time. It was his evidence that Hira was willing to pay $950,000 for the technology.
+[18] On January 23, 2002, the Board of Directors (“the Board”) of MTS resolved to sell the technology. It was the Appellant’s evidence that when TerraNova heard of the Board’s resolution, it threatened to sue the members of the Board. The Board decided to appoint a receiver to put MTS into receivership or bankruptcy and MTS filed an assignment in bankruptcy on January 30, 2002. Schwartz Levitsky Feldman Inc. was appointed Trustee.
+[19] Sebastian Zeppieri, a real estate broker, became a director of MTS in 1999. He confirmed that MTS made little money from 1999 to 2001; and, that it depended on investment bankers and investors for its stream of income. It was his evidence that control of MTS rested with TerraNova as it had control of MTS’ finances.
+[20] Walter Bowen, a lawyer with Cassels Brock, was a director of MTS from 1999 until he resigned on July 4, 2001. He was Secretary of MTS until 2000. It was his evidence that the Appellant was the largest significant shareholder of MTS; but, he was not a majority shareholder as shares were always being issued. In cross-examination he agreed that the Appellant had 24% of the shares. It was also his evidence that the Appellant as CEO was responsible for the day-to-day management of MTS. He shared this responsibility with Mrs. Sheridan, the CFO, Ms. MacDonald, the Director of Finance, and Mr. Munro, the Executive Vice-President and General Manager.
+[21] When counsel for the Respondent asked Mr. Bowen about MTS’ failure to remit payroll source deductions in 2001, he stated that he asked the Appellant on two or three occasions whether source deductions were being made to CRA. The Appellant’s response was that they would be made in the ordinary course or that they would be paid in the ordinary course.
+[22] Nicholas Cholfe, a Collection Enforcement Officer, and Jacqueline Cohen, a Complex Case Collections Officer, both with CRA, testified that MTS had failed to remit payroll source deductions in 1996, 1997, 1998 and 1999.
+[23] When Mr. Cholfe started to work on MTS’ remittance account in June 1998, MTS was in arrears $196,668.35. When Ms. Cohen started to work on the account in September 1998, the outstanding balance was $283,851.69. They both stated that they dealt directly with the Appellant and that he was very cooperative. He gave CRA postdated cheques at various times. The outstanding balance was eventually paid off by June or July 1999.
+[24] Hillary Fox, a Resource and Complex officer for Insolvency with the CRA, stated that on February 20, 2002, the CRA finished its payroll audit of MTS, and the following claims were filed with the Trustee regarding unremitted payroll source deductions:
+Property Claim (ss. 227(4) of the Income Tax Act) re: Unremitted
+Deductions at Source:
+Date of Assessment
+Tax Year
+Federal Tax
+Provincial Tax
+C.P.P. (Employee)
+E.I. (Employee)
+Total
+15-Dec-01
+1999
+$2,176.33
+$0.00
+$0.00
+$0.00
+$2,176.33
+15-Feb-02
+2000
+2,104.05
+0.00
+0.00
+0.00
+2,104.05
+15-Feb-02
+2001
+0.00
+0.00
+1,550.58
+841.00
+2,391.58
+19-Feb-02
+2001
+173,332.31
+68,388.27
+27,253.46
+15,206.60
+284,180.64
+$177,612.69
+$68,388.27
+$28,804.04
+$16,047.60
+$290,852.60
+Property Claim (ss. 227(4) of the Income Tax Act) re: Unremitted
+Deductions at Source:
+Date of Assessment
+Tax Year
+C.P.P. (Employer)
+E.I. (Employer)
+Penalties
+And Interest
+Total
+15-Jan-02
+1999
+$0.00
+$0.00
+$470.00
+$470.00
+15-Jan-02
+2000
+0.00
+0.00
+218.00
+218.00
+15-Jan-02
+2001
+1,550.58
+1,177.40
+310.00
+3,037.98
+19-Feb-02
+2001
+27,253.46
+21,289.23
+21,070.00
+69,612.69
+$28,804.04
+$22,466.63
+$22,068.00
+$73,338.67
+[25] On February 21, 2002 the Trustee accepted an offer from Hira to purchase MTS’ tangible assets for $100,000. After payment, the outstanding balance with respect to MTS’ unremitted payroll source deductions was $302,850.03.
+Law
+[26] The relevant provisions of the Income Tax Act (the “Act”) are subsections 227.1(1), (2) and (3) which read as follows:
+227.1 (1) Liability of directors for failure to deduct -- Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or 135.1(7) or section 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay that amount and any interest or penalties relating to it.
+(2) Limitations on liability -- A director is not liable under subsection (1), unless
+(a) a certificate for the amount of the corporation's liability referred to in that subsection has been registered in the Federal Court under section 223 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation's liability referred to in that subsection has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation's liability referred to in that subsection has been proved within six months after the date of the assignment or bankruptcy order.
+(3) Idem -- A director is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[27] The Federal Court of Appeal has stated that the standard of care set out in subsection 227.1(3) of the Act is inherently flexible. It is an objective-subjective standard[2].
+[28] In Smith v. R.[3], the Federal Court of Appeal gave an outline of the main elements of the due diligence defence as follows:
+9 The Soper decision, supra, established that the standard of care described in the statutory due diligence defence is substantially the same as the common law standard of care in Re City Equitable Fire Insurance Co. (1924), [1925] 1 Ch. 407 (Eng. C.A.). It follows that what may reasonably be expected of a director for the purposes of subsection 227.1(1) of the Income Tax Act and subsection 323(1) of the Excise Tax Act depends upon the facts of the case, and has both an objective and a subjective aspect.
+10 The subjective aspect of the standard of care applicable to a particular director will depend on the director's personal attributes, including knowledge and experience. Generally, a person who is experienced in business and financial matters is likely to be held to a higher standard than a person with no business acumen or experience whose presence on the board of directors reflects nothing more, for example, than a family connection. However, the due diligence defence probably will not assist a director who is oblivious to the statutory obligations of directors, or who ignores a problem that was apparent to the director or should have been apparent to a reasonably prudent person in comparable circumstances (Hanson v. R. (2000), 261 N.R. 79, [2000] 4 C.T.C. 215, 2000 D.T.C. 6564 (Fed. C.A.)).
+11 In assessing the objective reasonableness of the conduct of a director, the factors to be taken into account may include the size, nature and complexity of the business carried on by the corporation, and its customs and practices. The larger and more complex the business, the more reasonable it may be for directors to allocate responsibilities among themselves, or to leave certain matters to corporate staff and outside advisers, and to rely on them.
+12 The inherent flexibility of the due diligence defence may result in a situation where a higher standard of care is imposed on some directors of a corporation than on others. For example, it may be appropriate to impose a higher standard on an "inside director" (for example, a director with a practice of hands-on management) than an "outside director" (such as a director who has only superficial knowledge of and involvement in the affairs of the corporation).
+13 That is particularly so if it is established that the outside director reasonably relied on assurances from the inside directors that the corporation's tax remittance obligations were being met. See, for example, Cadrin c. R. (1998), 240 N.R. 354, [1999] 3 C.T.C. 366, 99 D.T.C. 5079 (Fed. C.A.).
+14 In certain circumstances, the fact that a corporation is in financial difficulty, and thus may be subject to a greater risk of default in tax remittances than other corporations, may be a factor that raises the standard of care. For example, a director who is aware of the corporation's financial difficulty and who deliberately decides to finance the corporation's operations with unremitted payroll source deductions may be unable to rely on the due diligence defence (Ruffo c. R., 2000 D.T.C. 6317 (Fr.) (Fed. C.A.)). In every case, however, it is important to bear in mind that the standard is reasonableness, not perfection.
+Analysis
+[29] It was agreed that the Appellant was an inside director. He was the founder of MTS and he was involved in the day-today management of MTS, first, as its President and then as its CEO.
+[30] I note from exhibit R-1 that the Appellant had previously asserted that he was not involved in the day-to-day management of MTS. This argument was not made at the hearing of this appeal. In fact, counsel for the Appellant admitted that, although the Appellant traveled a great deal, he was still involved in the day-to-day management of MTS.
+[31] The Appellant is intelligent and was experienced in business matters. He has been the director of five companies. According to exhibit R-2, from 1982 to 1995, he founded and operated several companies.
+[32] The Appellant was well aware of his responsibilities under the Act. The evidence established that he had dealt with the CRA in prior years when MTS had failed to remit on time. He had given a proposal letter to set up a payment schedule for the unpaid source deductions that MTS owed in 1996, 1997 and 1998.
+[33] It was the Appellant’s position that TerraNova had control of MTS, both on the Board, and in its shareholdings.
+[34] I accept Walter Bowen’s evidence that TerraNova did not control the Board of Directors or the shareholdings of MTS. He stated that TerraNova had only one representative on the Board, Geoffrey Workman. I note that the Consulting Agreement between TerraNova and MTS dated December 20, 1999 allowed for TerraNova to have one designee on the Board and this designee was only an observer. Mr. Bowen stated that no one controlled him and he was not aware of anyone controlling the Board.
+[35] It was also Mr. Bowen’s evidence that MTS was always in control of how it spent its money.
+[36] Counsel argued that when TerraNova “squeezed off the funds, the arrears started”. However, I note that MTS was never financially sound. According to exhibit R-2, it was anticipated that MTS would continue to incur substantial losses. The Appellant was always aware of MTS’ precarious financial position. It is my opinion that the Appellant assumed the risk that at some time MTS would not be able to remit its payroll source deductions. He cannot now blame the failure to remit on a third party.
+[37] It was also the Appellant’s position that he took several steps to ameliorate MTS’ finances and prevent further failures, after he learned about the failure to remit. He relied on the Federal Court of Appeal’s decision in Worrell v. R.[4] to state that this amounted to due diligence.
+[38] According to Hillary Fox, the failure to remit in 1999 and 2000 was due to T4 discrepancies. The failure to remit in 2001 started with the February 15th period.
+[39] The Appellant knew or ought to have known in February or at the latest in March 2001 about this failure. As the CEO, he ought to have known in February about MTS’ financial state. I infer that the Appellant did know about MTS’ financial state in March 2001. He wrote a cheque to MTS dated March 20, 2001 for $3000. It was his evidence that the cheque was to help cover expenses of MTS.
+[40] The evidence was that in April 2001, the Appellant wrote two further cheques to MTS to help cover its expenses. These cheques totaled $14,013.05. As well, in July 2001, J-Cann wrote three cheques to MTS which totaled $83,000. There was no evidence that he directed MTS to pay any of these amounts to CRA. The Appellant’s efforts were directed at keeping MTS in operation and not at preventing the failure to remit payroll source deductions.
+[41] Counsel for the Appellant has argued that but for TerraNova, the Appellant would have been successful in arranging an infusion of US$2,500,000 into MTS’ finances. This would have been enough to pay the arrears and prevent further failures to remit.
+[42] The letter of intent to make an investment in MTS was dated January 2002. By this time, MTS had failed to remit payroll source deductions for almost a year. The defence in subsection 227.1(3) of the Act requires a director to exercise reasonable care, diligence and skill to prevent the failure to remit. It was not reasonable, in the circumstances of this case, where MTS always had financial problems, that the Appellant continue to finance MTS’ operations with unremitted payroll source deductions in the hope that funds would be found.
+[43] The facts that existed in the Worrell decision are very different from those in the present case. In Worrell, the company had been in business for thirty years and did not suffer financial problems until the fall of 1992. The failure to remit occurred when the bank dishonoured the company’s October 1993 remittance cheque. The directors “continued to prepare remittance cheques in the hope that the bank would honour them, which, on a few occasions, it did on a discretionary basis”[5]. The court found that almost all of the company’s debt to Revenue Canada for unremitted source deductions accrued after the bank started to exercise control over the cheques issued by the company.
+[44] In the present case, no third party exercised control over the manner in which MTS spent its funds. There was no evidence to show that MTS prepared remittance cheques in a hope that it could pay its source deductions. The Appellant had authority to sign cheques on MTS’ bank account.
+[45] The Appellant did make efforts to find investors for MTS. However, according to his evidence this occurred in the summer and fall of 2001 almost five months after the failure to remit had occurred. I find that the Appellant has not shown that he exercised the requisite standard of care “to prevent” the failure to remit in 1999, 2000 and 2001.
+[46] The Appellant also argued that MTS was owed a GST refund of $ 66,467.90 for the period June 1, 2001 to August 31, 2001. He asked that this amount be credited to MTS’ liability.
+[47] Hillary Fox testified that she had searched CRA’s records and there was no GST refund owing to MTS. As well, the Respondent filed exhibit R-4, the Goods and Services Tax return for MTS for the period June 1, 2001 to August 31, 2001. The return was filed by the Trustee on July 22, 2003 and it was a nil return.
+[48] The appeal is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 26th day of January 2009.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2009TCC57
+COURT FILE NO.: 2005-193(IT)G
+STYLE OF CAUSE: ANTHONY COMPARELLI AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: July 23, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: January 26, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Douglas D. Langley
+Counsel for the Respondent:
+Jenny P. Mboutsiadis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Douglas D. Langley
+Firm: Wilson Vutelich LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcript page 29 line 25
+[2] Soper v. R, [1998] 1 F.C. 124 (FCA) at paragraph 30
+[3] [2001] 2 C.T.C. 192 (FCA)
+[4] [2001] 2 F.C. 203 (FCA)
+[5] Supra, footnote 4 at paragraph 12

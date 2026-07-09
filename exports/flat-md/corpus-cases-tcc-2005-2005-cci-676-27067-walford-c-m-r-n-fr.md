@@ -1,0 +1,168 @@
+---
+title: "Walford c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27067/index.do"
+last_modified: "2005-10-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 676"
+citation2: ""
+neutral_citation: "2005 CCI 676"
+decision_date: "2005-10-21"
+language: "fr"
+item_id: "27067"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 610
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:24:31.962000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8a3b9705a6f910993f415b88922fb3378525a89c8d97a9d5d5e1213c9041aca4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Walford c. M.R.N.
+
+- Citation: 2005 CCI 676
+- Decision date: 2005-10-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 610, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Walford c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-21
+Référence neutre
+2005 CCI 676
+Numéro de dossier
+2002-4687(EI)
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-4687(EI)
+ENTRE :
+KENNETH D. WALFORD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 17 octobre 2005 à Ottawa (Ontario)
+Par : l’Honorable juge Campbell J. Miller
+Comparutions :
+Pour l’appelant :
+l’appelant lui-même
+Avocat pour l’intimé:
+Nicolas Simard
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi est rejeté et la décision du ministre du Revenu national, par laquelle il a tranché l’appel interjeté devant lui en vertu de l’article 91 de la Loi, est confirmée.
+Signé à Ottawa, Canada, ce 21e jour d’octobre 2005.
+« Campbell J. Miller »
+Le juge Miller
+Traduction certifiée conforme
+ce 7e jour de décembre 2005
+Marie Rodrigue, traductrice
+Référence : 2005CCI676
+Date : 20051021
+Dossier : 2002-4687(EI)
+ENTRE :
+KENNETH D. WALFORD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION OFFICIELLE FRANÇAISE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Le Dr Kenneth Walford interjette appel de la décision du ministre du Revenu national (le « ministre ») rendue le 6 septembre 2002, selon laquelle le Dr Walford a accumulé 521,30 heures assurables pendant qu’il était employé de Stone & Webster Canada L.P. (Stone & Webster), soit du 8 janvier au 6 avril 2001. Le Dr Walford soutient que cette décision ne tient pas compte des 102 heures de travail supplémentaire durant lesquelles il a travaillé. Il fait valoir que ces heures supplémentaires sont des heures assurables au sens de la Loi sur l’assurance-emploi. Avec respect, je ne souscris pas au point de vue du Dr Walford.
+[2] Le Dr Walford est ingénieur. Il a signé un contrat de travail, en vigueur à compter du 8 janvier 2001, avec Stone & Webster. Son salaire était calculé sur une base de 80 000 $ par année, mais il a expliqué que sa rémunération était basée sur ses heures de travail. Il devait travailler durant au moins 40 heures par semaine pour recevoir une paie complète. Il vaut la peine de citer deux paragraphes du contrat de travail[1] :
+[TRADUCTION]
+4. Le travail supplémentaire sera payé en conformité avec les procédures de la compagnie.
+12. L’employé sera régi par toutes les règles, tous les règlements, toutes les conditions et toutes les procédures actuels ou futurs de la compagnie.
+[3] Le Dr Walford a précisé que Stone & Webster lui a fourni une trousse de présentation. Il a également été brièvement familiarisé avec la compagnie. Il n’a pu se rappeler avoir reçu une copie de la politique en matière de temps supplémentaire, mais il a tout de même reconnu l’existence d’une telle politique. Il a toutefois soutenu n’avoir été informé de cette politique qu’après avoir quitté Stone & Webster.
+[4] La politique écrite de Stone & Webster en matière de temps supplémentaire a été produite en preuve lors du procès. Elle exigeait que tout le temps supplémentaire soit préapprouvé par le directeur d’un département ou par un gestionnaire de projet, à défaut de quoi les heures ainsi travaillées ne seraient pas rémunérées.
+[5] Le Dr Walford a identifié quelques projets pour lesquels il a fait des heures supplémentaires entre les 8 janvier et 3 avril 2001. Il a indiqué avoir été tenu par son employeur de travailler sur ces projets, bien qu’il n’a jamais dit spécifiquement avoir été mandaté pour faire du temps supplémentaire dans le cadre de ces projets. Selon ses calculs, il aurait fait un total de 102 heures supplémentaires. Il a tenté d’inscrire ses heures supplémentaires par le biais du système d’enregistrement informatisé de Stone & Webster. Or, toutes ces heures supplémentaires ont été rejetées par le système. Les feuilles de présence produites en preuve ne faisaient état que de semaines de travail de 40 heures. Le Dr Walford a signé de telles feuilles de présence. Il a suggéré qu’il s’agissait des feuilles de présence destinées à ne consigner que les heures habituelles. Il a affirmé s’être plaint du temps supplémentaire, sans toutefois produire en preuve ni le moindre dossier faisant état de telles plaintes ni de dossiers originaux pour faire la preuve des 102 heures de temps supplémentaire qu’il disait avoir effectuées. Aucune feuille de présence ne faisait état d’une réclamation pour une journée de travail de 10 heures et demie réduite à une journée normale de 8 heures par l’ordinateur.
+[6] Manifestement, les relations du Dr Walford avec son employeur étaient tendues. En plus d’estimer ne pas avoir été payé pour du travail supplémentaire, le Dr Walford se sentait, dans l’ensemble, mal traité par Stone & Webster. Il a travaillé pour cette entreprise jusqu’au 3 avril 2001, même s’il a été payé jusqu’au 6 avril 2001. Sur une base de 40 heures de travail par semaine, le temps qu’il a travaillé du 8 janvier au 6 avril 2001 équivaut aux 520 heures jugées assurables. Stone & Webster n’a payé aucune heure supplémentaire au Dr Walford.
+[7] Le Dr Walford a poursuivi Stone & Webster devant la Cour des petites créances de l’Ontario. Le 17 septembre 2003, le juge E.M. Osborne a rejeté la réclamation en dommages et intérêts du Dr Walford. Durant l’audience en Cour des petites créances, deux représentants de Stone & Webster ont témoigné, contrairement à ce qui s’est déroulé devant moi où le Dr Walford a été le seul témoin. Dans les motifs de son jugement, le juge Osborne a affirmé[2] :
+[TRADUCTION]
+Le non-paiement du temps supplémentaire
+Le paragraphe 4 du contrat stipule que le paiement du temps supplémentaire est régi par les procédures de la compagnie. Selon le témoignage de M. Luck, le Dr Walford a été informé des politiques en matière de temps supplémentaire lors de sa première rencontre avec l’employeur. En outre, les renseignements relatifs à la politique de la compagnie pouvaient être consultés sur le site Internet de la compagnie durant la période pertinente. Il est encore possible de le faire aujourd’hui. M. Luck a ajouté durant son témoignage que les politiques et procédures en matière de temps supplémentaire auraient été mentionnées dans le cadre du programme d’orientation et de formation des employés auquel a participé le Dr Walford.
+La section des politiques administratives intitulée [TRADUCTION] « Heures de travail et temps supplémentaire » traite du temps supplémentaire. En bref, la politique de la compagnie autorise la rémunération des heures supplémentaires travaillées par les employés à condition qu’elles aient été préautorisées soit par le directeur d’un département soit par un gestionnaire de projet.
+MM. Farkas et Luck ont affirmé sous serment que la compagnie défenderesse était dotée d’un système de suivi des heures qui autorisait les employés à facturer uniquement les heures habituelles de travail. Si le temps supplémentaire était préapprouvé, un segment supplémentaire d’heures était ouvert dans le système, de manière à ce que l’employé visé puisse y inscrire ses heures supplémentaires.
+M. Luck n’a pas autorisé le Dr Walford à faire du temps supplémentaire et n’était au courant d’aucun temps supplémentaire que ce dernier aurait été autorisé à faire par qui que ce soit d’autre au sein de la compagnie. Aucun élément de preuve n’a démontré la présence de temps supplémentaire dans le système de suivi des heures de travail. En conséquence, la réclamation du Dr Walford sollicitant le paiement du temps supplémentaire est rejetée.
+[8] Le Dr Walford a indiqué avoir interjeté appel de cette décision le 17 septembre 2003. À ce jour, aucune date n’a été fixée pour l’audition de l’appel. Selon le Dr Walford, il se pourrait que l’appel ne soit pas entendu avant le printemps 2006.
+Analyse
+[9] Il s’agit donc de déterminer quelles ont été les heures assurables travaillées par le Dr Walford chez Stone & Webster pour la période s’échelonnant du 8 janvier 2001 au 6 avril de la même année. Les articles 9.1 et 9.2 du Règlement sur l’assurance-emploi sont libellés comme suit :
+9.1 Lorsque la rémunération d'une personne est versée sur une base horaire, la personne est considérée comme ayant exercé un emploi assurable pendant le nombre d'heures qu'elle a effectivement travaillées et pour lesquelles elle a été rétribuée.
+9.2 Sous réserve de l'article 10, lorsque la totalité ou une partie de la rémunération d'une personne pour une période d'emploi assurable n'a pas été versée pour les raisons visées au paragraphe 2(2) du Règlement sur la rémunération assurable et la perception des cotisations, la personne est réputée avoir exercé un emploi assurable pendant le nombre d'heures qu'elle a effectivement travaillées durant cette période, qu'elle ait été ou non rétribuée.
+Le Dr Walford a reconnu que sa rémunération doit être traitée comme un revenu calculé sur une base horaire et qu’en conséquence, les articles 9.1 et 9.2 du Règlement s’appliquent à sa situation.
+[10] Deux éléments doivent être pris en considération pour déterminer les heures assurables : i) le nombre d’heures effectivement travaillées et ii) pour lesquelles la personne a été rétribuée.
+[11] Quant au premier élément relatif aux heures effectivement travaillées, je suis d’avis que le Dr Walford a effectué davantage que quarante heures par semaine. Toutefois, je n’ai pas été convaincu que ces heures constituaient ce que j’appellerais des [TRADUCTION] « heures travaillées au profit de la compagnie ».
+[12] Stone & Webster avait une politique explicite en matière d’heures supplémentaires selon laquelle un employé n’est payé pour ce type d’heures de travail qu’à la condition qu’elles aient été préapprouvées. Le Dr Walford a reconnu cette règle. Ses heures supplémentaires n’ont pas été préapprouvées. Cela était manifeste à chaque fois qu’il a tenté d’inscrire des heures supplémentaires et que sa démarche a été infructueuse. C’est pourquoi sa prétention selon laquelle il ne connaissait pas cette politique paraît douteuse. Quoi qu’il en soit, même si j’admets qu’il ne connaissait pas l’essentiel d’une telle politique, ses heures supplémentaires [TRADUCTION] « non approuvées » sont-elles pour autant des heures assurables? Je ne le crois pas. L’article 9.1 du Règlement réfère au « nombre d’heures [qu’une personne] a effectivement travaillées ». Pour qu’elle ait un sens, il faut que cette phrase sous-entende [TRADUCTION] « conformément au contrat de travail conclu avec l’employeur ». Je conclus que les heures supplémentaires effectuées par le Dr Walford, quelles qu’elles aient été, n’étaient pas des heures effectivement travaillées conformément à son contrat de travail conclu avec Stone & Webster. Il a choisi de travailler durant ces heures. On lui a peut-être demandé de travailler sur certains projets, mais aucun élément de preuve ne démontre qu’une telle demande constituait quelque approbation antérieure que ce soit d’un nombre d’heures supplémentaires déterminé. Le Dr Walford aurait pu traiter de cette question du temps supplémentaire dès le départ, il ne l’a pas fait. Il a continué à signer ses feuilles de présence destinées aux heures habituelles. Il a affirmé avoir appris sa leçon et dans des postes subséquents, il a clarifié, dès le départ, les exigences en matière de temps supplémentaire. Toutes les heures supplémentaires que le Dr Walford soutient avoir travaillées ne sont pas des « heures effectivement travaillées » au sens de l’article 9.1 du Règlement.
+[13] En supposant que je donne un sens trop large au syntagme « heures effectivement travaillées », le Dr Walford doit, en outre, surmonter l’obstacle que constitue le deuxième élément, soit celui de démontrer l’existence d’heures assurables « pour lesquelles [il] a été rétribué ». Ceci inclut les heures impayées, si elles sont impayées pour les motifs décrits au paragraphe 2(2) de la Partie I du Règlement sur la rémunération assurable et la perception des cotisations dont le libellé est le suivant :
+2(2) Pour l'application de la présente partie, le total de la rémunération d'un assuré provenant d'un emploi assurable comprend la partie impayée de cette rémunération qui n'a pas été versée à cause de la faillite de l'employeur, de sa mise sous séquestre effective ou imminente ou d'un non-paiement de rétribution à l'égard duquel l'assuré a déposé une plainte auprès de l'organisme fédéral ou provincial de main-d'oeuvre. Est exclu du total de la rémunération tout montant impayé qui se rapporte au temps supplémentaire ou qui aurait été versé en raison de la cessation de l'emploi.
+[14] Je conclus que les heures supplémentaires impayées ne comptent pas comme heures assurables. Le Dr Walford ne peut compter de telles heures que si Stone & Webster le paie effectivement pour ces heures. À ce jour, Stone & Webster ne l’a pas payé. Elle n’a même pas reconnu devoir de l’argent au Dr Walford pour des heures supplémentaires. En outre, le juge de la Cour des petites créances a souscrit à la position de Stone & Webster.
+[15] Manifestement, le Dr Walford n’a été rémunéré pour aucune heure supplémentaire, ce qui milite contre l’inclusion de telles heures comme heures assurables au sens de l’article 9.1 du Règlement.
+[16] La réclamation du Dr Walford pour augmenter ses heures assurables ne satisfait donc pas aux deux exigences prévues à l’article 9.1 du Règlement.
+[17] Ces conclusions me préoccupent toutefois dans la mesure où elles pourraient avoir un impact sur l’appel interjeté par le Dr Walford de la décision de la Cour des petites créances. L’avocat de l’intimé m’a convaincu de procéder au procès en l’instance puisque le moment où le futur appel sera entendu demeure incertain, puisque la présente Cour avait antérieurement rejeté la demande d’ajournement de l’appelant et puisque l’intimé estimait que tous les éléments de preuve seraient à la disposition de la Cour pour procéder. Le Dr Walford a indiqué qu’il n’abandonnerait pas le présent appel en matière d’assurance-emploi en dépit de toute décision qui lui serait défavorable dans le cadre de son appel de la décision de la Cour des petites créances. Il a également suggéré qu’il lui manquait certains documents pertinents. J’ai informé les parties que nous procéderions et que si durant le témoignage du Dr Walford j’étais convaincu qu’il manquait certains documents clés, j’envisagerais d’ordonner un bref ajournement afin de lui permettre de tenter de localiser ces documents. Je n’ai pas été convaincu durant son témoignage de la nécessité d’ajourner le procès.
+[18] Maintenant que j’ai entendu le témoignage du Dr Walford et que j’ai tranché en faveur de l’intimé, je ne souhaite pas nuire à l’appel pendant qu’il a interjeté de la décision dans sa poursuite contre Stone & Webster. J’ai tranché la question des heures assurables uniquement aux fins de la Loi sur l’assurance-emploi. Je l’ai fait sur la foi de la preuve produite par le Dr Walford. Je n’ai entendu aucun témoignage de représentants de Stone & Webster. Mes conclusions sont compatibles avec celles du juge Osborne, quoique moins détaillées, puisque manifestement moins d’éléments de preuve ont été portés à ma connaissance. Je ne souhaite pas que mes conclusions aient quelque pouvoir persuasif que ce soit lors de l’audience devant la cour ontarienne de l’appel de la décision de la Cour des petites créances interjeté par le Dr Walford. J’ai examiné si, dans les circonstances, je n’aurais pas été mieux avisé de suspendre le prononcé de mon jugement en attendant l’issue finale de la poursuite intentée par le Dr Walford contre Stone & Webster. Comme le moment de l’audition de l’appel est incertain, j’ai choisi de ne pas suivre cette voie. En revanche, si en fin de compte, Stone & Webster devaient payer certaines heures supplémentaires au Dr Walford, suite à une décision favorable de la cour ontarienne, j’ai confiance que l’Agence du revenu du Canada serait en mesure de faire ce que doit eu égard à la Loi sur l’assurance-emploi.
+[19] Le présent appel est rejeté.
+Signé à Ottawa, Canada, ce 21e jour d’octobre 2005.
+« Campbell J. Miller »
+Le juge Miller
+Traduction certifiée conforme
+ce 7e jour de décembre 2005
+Marie Rodrigue, traductrice
+RÉFÉRENCE :
+2005CCI676
+DOSSIER DE LA COUR :
+2002-4687(EI)
+INTITULÉ :
+Kenneth D. Walford et le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 17 octobre 2005
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 21 octobre 2005
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat pour l’intimé :
+Nicolas Simard
+AVOCATS AU DOSSIER :
+Pour l’appelant :
+Nom :
+N/A
+Cabinet :
+N/A
+Pour l’intimé :
+John H. Sims, C.R.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1.
+[2] Pièce A-22.

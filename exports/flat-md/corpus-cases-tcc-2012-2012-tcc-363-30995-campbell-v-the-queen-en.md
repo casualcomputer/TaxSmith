@@ -1,0 +1,142 @@
+---
+title: "Campbell v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30995/index.do"
+last_modified: "2012-10-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 363"
+citation2: ""
+neutral_citation: "2012 TCC 363"
+decision_date: "2012-10-16"
+language: "en"
+item_id: "30995"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4847
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:06:19.019000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a1cc0d19510e7273063c86e1bfb085ed88455485b6935533c56387455420338c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Campbell v. The Queen
+
+- Citation: 2012 TCC 363
+- Decision date: 2012-10-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4847, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Campbell v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-10-16
+Neutral citation
+2012 TCC 363
+File numbers
+2012-1170(IT)APP
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1170(IT)APP
+BETWEEN:
+MICHELLE CAMPBELL,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on May 15 and October 12, 2012, at London, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Applicant:
+The Applicant Herself
+Counsel for the Respondent:
+Serena Sial
+____________________________________________________________________
+ORDER
+The Applicant’s application to extend the time for serving a notice of objection in relation to the reassessment of the Applicant’s 2007 taxation year is dismissed, without costs.
+Signed at Ottawa, Canada, this 16th day of October, 2012.
+“Wyman W. Webb”
+Webb J.
+Citation: 2012TCC363
+Date: 20121016
+Docket: 2012-1170(IT)APP
+BETWEEN:
+MICHELLE CAMPBELL,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Webb J.
+[1] This is an application to extend the time for serving a notice of objection. The Applicant moved into a new home with her then fiancé in February 2009. She indicated that her then fiancé’s accountant had prepared her income tax returns at that time. Although the Applicant was not certain which returns had been prepared, she stated that her fiancé’s accountant probably prepared her 2007 and 2008 income tax returns at the same time. In the notice of objection that had been sent on the Applicant’s behalf, the taxation year that was identified as the one for which the objection was being sent was 2008. However, in the affidavit filed by the Respondent it is stated that the Applicant’s 2007 income tax return had been reassessed on September 7, 2010 to deny charitable donations and gifts of $84,041. The Applicant was clear that she wanted to appeal this denial of her claim for a charitable donation and therefore it would be the reassessment of her tax liability for 2007 that the Applicant wants to appeal.
+[2] The Applicant stated that she was not aware that there were any problems or issues with her tax return until she had received notice in October 2011 that she had a significant tax debt. She stated that her relationship with her former fiancé had ended and that he had moved out of the house. She remained in the house and the address of the house was the same address that she had used in filing her income tax return for 2007. The Applicant’s explanation for her lack of any knowledge of the reassessment of her 2007 taxation year was that her former fiancé had been withholding her mail. After she had received notification that she had a tax debt, a notice of objection was sent on her behalf on December 19, 2011. The Minister indicated to the Applicant that her notice of objection had not been served within the time period provided for serving a notice of objection and furthermore that an extension of time to serve the notice of objection could not be granted as the objection was submitted more than one year and 90 days after the notice of reassessment had been sent to her. The Applicant then appealed to this Court as provided in section 166.2 of the Income Tax Act (the “Act”) to extend the time to serve a notice of objection to the reassessment of the Applicant’s 2007 taxation year.
+[3] Subsections 166.2(1) and (5) of the Act provide as follows:
+166.2 (1) A taxpayer who has made an application under subsection 166.1[(1)] may apply to the Tax Court of Canada to have the application granted after either
+(a) the Minister has refused the application, or
+(b) 90 days have elapsed after service of the application under subsection 166.1(1) and the Minister has not notified the taxpayer of the Minister's decision,
+but no application under this section may be made after the expiration of 90 days after the day on which notification of the decision was mailed to the taxpayer.
+…
+(5) No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by this Act for serving such a notice or making such a request, as the case may be, the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer's name, or
+(B) had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made under subsection 166.1(1) as soon as circumstances permitted.
+[4] The application under subsection 166.1(1) of the Act is the application made to the Minister to request an extension of time to serve the notice of objection which was made by the Applicant on December 19, 2011. As a result of the provisions of paragraph 166.2(5)(a) of the Act, the application to this Court to extend the time to serve a notice of objection cannot be granted unless the application to the Minister to extend the time for serving the notice of objection was made within one year following the expiration of the time within which a notice of objection could have been served without an extension of time. The time within which a notice of objection may be served (without an extension of time being granted) is set out in subsection 165(1) of the Act. Prior to December 15, 2010 this subsection provided as follows[1]:
+165. (1) A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) where the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual …, on or before the later of
+(i) the day that is one year after the taxpayer's filing-due date for the year, and
+(ii) the day that is 90 days after the day of mailing of the notice of assessment; and
+(b) in any other case, on or before the day that is 90 days after the day of mailing of the notice of assessment.
+[5] The date that the notice of reassessment was mailed to the Applicant started the period within which a notice of objection may be served. Therefore the application to the Minister to extend the time to serve a notice of objection must be made within one year and ninety days from the date that the notice of reassessment was mailed to the Applicant. The Respondent filed an affidavit of a litigation officer of the Canada Revenue Agency stating that the notice of reassessment had been sent on September 7, 2010. Based on this affidavit I conclude that it is more likely than not that the notice of reassessment was mailed to the Applicant on September 7, 2010.
+[6] The explanation provided by the Applicant was that her former fiancé had been withholding mail from her. However this would mean that her complaint should be with her former fiancé. The notice had been sent to the address that she had provided to the Canada Revenue Agency and there was nothing more that the Canada Revenue Agency could have done. They would not know that her former fiancé would be withholding her mail.
+[7] Unfortunately there is no discretion to extend the deadlines as set out in the Act and the provisions of subsection 166.2(5) of the Act are clear that no application may be granted by this Court unless both the requirements of paragraph (a) and (b) are satisfied. In this case the Applicant has failed to satisfy the requirements of paragraph 166.2(5)(a) of the Act.
+[8] As a result the Applicant’s Application to extend the time for serving a notice of objection in relation to the reassessment of the Applicant’s 2007 taxation year is dismissed, without costs.
+Signed at Ottawa, Canada, this 16th day of October, 2012.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2012TCC363
+COURT FILE NO.: 2012-1170(IT)APP
+STYLE OF CAUSE: MICHELLE CAMPBELL AND THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: May 15, 2012 and October 12, 2012
+REASONS FOR ORDER BY: The Honourable Justice Wyman W. Webb
+DATE OF ORDER: October 16, 2012
+APPEARANCES:
+For the Applicant:
+The Applicant Herself
+Counsel for the Respondent:
+Serena Sial
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Effective December 15, 2010, the word “sending” was substituted for the word “mailing”.

@@ -1,0 +1,291 @@
+Title: McLaughlin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29270/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-300-29270-mclaughlin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-03-27
+
+# McLaughlin v. The Queen
+
+- Citation: 2009 TCC 300
+- Decision date: 2009-03-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7010, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McLaughlin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-03-27
+Neutral citation
+2009 TCC 300
+File numbers
+2008-1983(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1983(IT)I
+BETWEEN:
+MARILYN MAY MCLAUGHLIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 27, 2009, at Nanaimo, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Matthew W. Turnell
+____________________________________________________________________
+JUDGMENT
+The appeal from the determination made under the Income Tax Act for the 2005 base taxation year is allowed, without costs, and the determination is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The appeal from the determination made under the Income Tax Act for the 2006 base taxation year is dismissed without costs.
+It is further ordered that the filing fee of $100.00 be refunded to the Appellant.
+Signed at Vancouver, British Columbia, this 5th day of June 2009.
+“L.M. Little”
+Little J.
+Citation: 2009 TCC 300
+Date: 20090605
+Docket: 2008-1983(IT)I
+BETWEEN:
+MARILYN MAY MCLAUGHLIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. Facts
+[1] From April 2003 until January 27, 2006 the Appellant and Graham John Willis (“Graham”) lived in a common‑law relationship.
+[2] The Appellant and Graham are the parents of two children:
+(a) a daughter who was born on December 8, 2004 (“First Daughter”); and
+(b) a daughter who was born on July 15, 2006 (“Second Daughter”).
+(The daughters are hereinafter referred to collectively as the “Children”.)
+[3] The Appellant and Graham separated in January 2006.
+[4] By Consent Order of the Supreme Court of British Columbia dated May 18, 2006, the Appellant and Graham were granted joint custody and guardianship of the First Daughter. The First Daughter was under the care of each parent on alternate weeks.
+[5] By Order of the Supreme Court of British Columbia dated June 25, 2007, the Appellant and Graham were granted joint custody and guardianship of the Children, with the Children being under the care and control of each parent on alternate weeks.
+[6] In September 2006, the Appellant applied for Child Tax Benefits (CCTBs) in respect of the Second Daughter.
+[7] In January 2008, the Appellant applied for CCTBs in respect of the First Daughter.
+[8] The evidence before the Court indicated that from September 1, 2006 to June 15, 2007 Graham was on parental leave from his employment at the British Columbia Ferry Corporation (“BC Ferries”). (See Exhibit R-2, Tab 5)
+[9] The Minister of National Revenue (the “Minister”) determined that the Appellant was the primary caregiver of the Second Daughter for the months of August and September 2006 of the 2005 base taxation year and for the period from February 2008 to June 2008, inclusive, of the 2006 base taxation year.
+[10] The Minister determined that Graham was the primary caregiver of the Second Daughter from October 2006 to June 2007, inclusive, of the 2005 base taxation year and for the period from July 2007 to January 2008, inclusive, of the 2006 base taxation year.
+[11] The Minister determined that the Appellant was the primary caregiver of the First Daughter for the period from February 2008 to June 2008, inclusive, of the 2006 base taxation year.
+[12] The Minister also determined that Graham was the primary caregiver of the First Daughter for the period from July 2006 to June 2007, inclusive, of the 2005 base taxation year and for the period from July 2007 to January 2008, inclusive, of the 2006 base taxation year.
+B. Issue
+[13] The issue in this appeal is whether the Minister properly calculated the Appellant’s entitlement to the CCTBs for the Children for the 2005 and 2006 base taxation years.
+C. Analysis and Decision
+[14] During the hearing counsel for the Minister filed a document headed “Summary of the Minister’s Determination” (Exhibit R-1). The document reads as follows:
+Marilyn May McLaughlin 2008-1983(IT)I
+Summary of the Minister’s Determination
+Month
+Base Year
+Primary Caregiver
+for Julia
+Primary Caregiver
+for Keltie
+Notes
+Jul 2006
+2005
+Graham Willis
+n/a
+Reply paragraph 13(m)
+Aug 2006
+Appellant
+Reply paragraph 13(j)
+Sep 2006
+Oct 2006
+Graham Willis
+Reply paragraph 13(k)
+Nov 2006
+Dec 2006
+Jan 2007
+Feb 2007
+Mar 2007
+Apr 2007
+May 2007
+Jun 2007
+Jul 2007
+2006
+Graham Willis
+Graham Willis
+Reply paragraphs 13(k) & (m)
+Aug 2007
+Sep 2007
+Oct 2007
+Nov 2007
+Dec 2007
+Jan 2008
+Feb 2008
+Appellant
+Appellant
+Reply paragraphs 13(l) & (j)
+Mar 2008
+Apr 2008
+May 2008
+Jun 2008
+[15] The Appellant’s claim for CCTBs relates to the 2005 and 2006 base taxation years. According to the definition of “base taxation year” contained in section 122.6 of the Income Tax Act (the “Act”), the Minister reviewed the following periods:
+(a) July 1, 2006 to June 30, 2007 (the “2005 base taxation year”); and
+(b) July 1, 2007 to June 30, 2008 (the “2006 base taxation year”).
+[16] Section 122.6 of the Act reads as follows:
+Definitions
+122.6. In this subdivision,
+"adjusted earned income"
+(Repealed by S.C. 1998, c. 21, s. 92(1).)
+"adjusted income" "revenu modifié"
+"adjusted income", of an individual for a taxation year, means the total of all amounts each of which would be the income for the year of the individual or of the person who was the individual's cohabiting spouse or common-law partner at the end of the year if no amount were included under paragraph 56(1)(q.1) or subsection 56(6) or in respect of any gain from a disposition of property to which section 79 applies in computing that income and if no amount were deductible under paragraph 60(y) or (z) in computing that income;
+"base taxation year" "année de base"
+"base taxation year" in relation to a month means
+(a) where the month is any of the first 6 months of a calendar year, the taxation year that ended on December 31 of the second preceding calendar year, and
+(b) where the month is any of the last 6 months of a calendar year, the taxation year that ended on December 31 of the preceding calendar year;
+"cohabiting spouse or common-law partner" "époux ou conjoint de fait visé"
+"cohabiting spouse or common-law partner" of an individual at any time means the person who at that time is the individual's spouse or common-law partner and who is not at that time living separate and apart from the individual and, for the purpose of this definition, a person shall not be considered to be living separate and apart from an individual at any time unless they were living separate and apart at that time, because of a breakdown of their marriage or common-law partnership, for a period of at least 90 days that includes that time;
+"earned income"
+(Repealed by S.C. 1998, c. 21, s. 92(1).)
+"eligible individual" "particulier admissible"
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+(c) is resident in Canada or, where the person is the cohabiting spouse or common-law partner of a person who is deemed under subsection 250(1) to be resident in Canada throughout the taxation year that includes that time, was resident in Canada in any preceding taxation year,
+(d) is not described in paragraph 149(1)(a) or 149(1)(b), and
+(e) is, or whose cohabiting spouse or common-law partner is, a Canadian citizen or a person who
+(i) is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act,
+(ii) is a temporary resident within the meaning of the Immigration and Refugee Protection Act, who was resident in Canada throughout the 18 month period preceding that time, or
+(iii) is a protected person within the meaning of the Immigration and Refugee Protection Act,
+(iv) was determined before that time to be a member of a class defined in the Humanitarian Designated Classes Regulations made under the Immigration Act,
+and for the purpose of this definition,
+(f) where the qualified dependant resides with the dependant's female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph 122.6 eligible individual (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+"qualified dependant" "personne à charge admissible"
+"qualified dependant" at any time means a person who at that time
+(a) has not attained the age of 18 years,
+(b) is not a person in respect of whom an amount was deducted under paragraph (a) of the description of B in subsection 118(1) in computing the tax payable under this Part by the person's spouse or common-law partner for the base taxation year in relation to the month that includes that time, and
+(c) is not a person in respect of whom a special allowance under the Children's Special Allowances Act is payable for the month that includes that time;
+"return of income" "déclaration de revenu"
+"return of income" filed by an individual for a taxation year means
+(a) where the individual was resident in Canada throughout the year, the individual's return of income (other than a return of income filed under subsection 70(2) or 104(23), paragraph 128(2)(e) or subsection 150(4)) that is filed or required to be filed under this Part for the year, and
+(b) in any other case, a prescribed form containing prescribed information, that is filed with the Minister.
+Entitlement to CCTBs under the Act
+[17] As noted above, the statutory provisions concerning CCTBs are contained in sections 122.6 to 122.64 of the Act. A person’s entitlement to CCTBs depends, in part, on whether that person is considered to be an “eligible individual”.
+[18] Pursuant to paragraphs (a) and (b), there are two essential requirements that must be satisfied in order for a person to qualify as an eligible individual:
+1. First, the child must reside with that person; and
+2. Second, the person must be primarily responsible for the care and upbringing of that child.
+Paragraphs (c) to (e) of the definition are not relevant to this appeal, since the Minister does not take issue with the fact that the Appellant satisfied those elements. Furthermore, the presumption in paragraph (f) does not apply in the circumstances because the Appellant and Graham both filed notices with respect to the Children.
+(See Income Tax Regulations, C.R.C. 1978, c.945, paragraph 6301(1)(d))
+[19] The Minister maintains that the Appellant was not an “eligible individual” during the periods that the Minister determined that Graham was the primary caregiver, since there can only be one “eligible individual” for any given period. On this point, the Minister relies on the Federal Court of Appeal decision in The Queen v. Marshall et al, 96 DTC 6292, where the Court said:
+This section of the Act contemplates only one parent being an "eligible individual" for the purpose of allowing the benefits. It makes no provision for prorating between two who claim to be eligible parents. Only Parliament can provide for a prorating of benefits but it has not done so.
+[20] The Minister maintains that in order for the Appellant to discharge her burden, the Appellant must prove on a balance of probabilities that the Children resided with her during each of the Disputed Periods.
+Primary Care and the Prescribed Factors
+[21] In addition to the Children residing with the Appellant, in order to be the “eligible individual” the Appellant must also demonstrate that she is the parent who is primarily responsible for the care and upbringing of that child during the particular period. The factors that are to be considered in determining what constitutes “care and upbringing” are set out at section 6302 of the Income Tax Regulations (the “Regulations”), as follows:
+Factors
+6302. For the purposes of paragraph (h) of the definition "eligible individual" in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+Income Tax Regulations, C.R.C. 1978, c.945
+(See Tab 2 of the Respondent’s Authorities)
+[22] The Appellant has the onus of demonstrating that she was primarily responsible for the care and upbringing of the Children during the Disputed Periods. Lamarre-Proulx J. noted in Robitaille v. The Queen:
+According to the long-standing rules of evidence in tax litigation, in order to obtain a reversal of this determination, the burden is on the appellant to show that she was the one who primarily fulfilled the responsibility for the care of the qualified dependent children. Her testimony was that the responsibility was shared equally. In light of the lack of evidence and the fact that the Court is bound by the decision of the Federal Court of Appeal, cited supra, which states that only one parent may be an eligible individual, the Minister's determination must be affirmed.
+(See Robitaille v. The Queen, 1997 CarswellNat 2845, [1997] T.C.J. No. 6 at paragraph 15)
+[23] Counsel for the Minister admits that when the evidence is reviewed with these factors in mind, it is evident that both parents contributed to the children’s care and upbringing. However, counsel for the Minister maintains that Graham was the parent who was primarily responsible for the care and upbringing of the Children during the Disputed Periods.
+A. Appellant’s position re the CCTBs
+[24] The Appellant says that since the Children were born she was supporting them and that she is entitled to claim the tax benefits for them. (Transcript page 11, lines 3-7)
+[25] The Appellant said: “They have resided in both of our residences. It has been a 50-50 arrangement.” (Transcript page 11, lines 11-12)
+[26] The Appellant filed a consent order dated May 18, 2006 (Exhibit A-5) (Note: The Consent Order said that the Appellant and Graham shall have joint custody of the child (“Julia”). (Transcript page 18, lines 14-15)
+[27] The Appellant said:
+… Graham and I followed that custody order to the letter up until around late August. (2006)
+(Transcript page 18, lines 18-19)
+…
+… Well, I received the child tax benefit in February 2008, which is when the little chart that they have says that I became an eligible individual. I received it from February 2008 until July 2008. Apparently, nobody has received it from July 2008 to December 2008, …
+(Transcript page 57, lines 16-21)
+[28] The Appellant also said: “I have never given up my role as the primary caregiver. Graham and I had separate households but we were together as a family unit.” (Transcript page 26, lines 8-10)
+[29] The Appellant referred to the Affidavit filed by Graham and said:
+Okay, since June 25th, 2007, that custody order has been followed to the letter. The children spend a week at their dad's, they spend a week at my house. To that I have a affidavit of Mr. Willis' that he admits that in paragraph 8 of his affidavit that he -- I've got to find it, sorry. "Since the Justice…." Sorry, paragraph 10:
+"Since the Justice Bracken order, Marilyn and I have continued exercising joint custody and joint guardianship of both children. We have been sharing the children's care roughly equally on a week on, week off basis."
+That is since June 25th, 2007
+(Transcript page 51, lines 22-25 and page 52, lines 1-9)
+[30] During the hearing I asked the Appellant:
+JUSTICE: … What, in your view, is the fair answer to this?
+A. I would like -- well, I still believe the child tax benefit should be split between both of us. But as of right now, I have only been considered eligible since February of 2008, and a brief time for Julia while I was with Graham. …
+JUSTICE: So when you say split, do you mean –
+A. Six months to him, six months to me.
+JUSTICE: For both children?
+A. Yes.
+(Transcript page 60, lines 21-25 and page 61, lines 1-8)
+B. The Minister’s Position re CCTBs
+[31] The Minister maintains that Graham was the primary caregiver for Julia and Keltie for the following period:
+Julia
+Keltie
+2005 base taxation year
+July 1, 2006
+June 30, 2007
+Oct. 1, 2006
+June 30 2007
+Part of 2006 base taxation year
+July 1, 2007
+Jan. 31, 2008
+July 1, 2007
+Jan. 31, 2008
+[32] Counsel for the Minister admitted that the Minister had determined that Graham was the primary caregiver for the first seven months of the 2006 base taxation year for both Children and that the Appellant was the primary caregiver for five months of the 2006 base taxation year. (Transcript page 70, lines 16‑22)
+[33] Counsel for the Minister referred to a letter from the Canada Revenue Agency (the “CRA”) (Exhibit R-2, Tab 4) and quoted from the letter:
+A new notice with respect to the 2006 base taxation year, i.e. benefits for the months of July 2007 to March 2008, is being issued to you on the 20th of March, 2008. This notice will advise you that you are the eligible individual (primary caregiver) for Julia and Keltie for the months of February to July 2008 as it has been determined that you and the other caregiver share equally in the primary care for the children. Therefore, unless we are advised that there is a change in the circumstances, benefits will be paid to each parent on a 6 month rotational cycle.
+(Transcript page 74, lines 4-16)
+[34] In other words the Minister has now agreed that the Appellant and Graham will share the CCTBs for the Children – Graham for six months of the year and the Appellant for six months of the year although Graham received seven months for the 2006 base taxation year and the Appellant only received five months because there was a delay by the Minister in reaching this conclusion.
+[35] It therefore appears that the problem regarding the CCTBs for the 2006 base taxation year has been resolved. I have concluded that I agree with the position of the Minister for the 2006 base taxation year.
+[36] I must review and deal with the fact that Graham received all of the CCTBs for the 2005 base taxation year for Julie and the CCTBs for 10 months for Keltie for the 2005 base taxation year.
+[37] The problem is difficult because both the Appellant and Graham are claiming that they were the primary caregivers for the Children for the 2005 and 2006 base taxation years.
+[38] After carefully reviewing the evidence, I have concluded as follows:
+Re: 2005 Base Taxation Year:
+(a) The Appellant was the primary caregiver of Julia from July 1, 2006 to August 31, 2006;
+(b) The Appellant was the primary caregiver of Keltie from August 1, 2006 to September 30, 2006;
+(c) Graham was the primary caregiver of Julia from September 1, 2006 to June 30, 2007;
+(d) Graham was the primary caregiver of Keltie from October 1, 2006 to June 30, 2007.
+[39] I have reached this conclusion for the following reasons:
+1. Parental Leave: Graham stated in evidence that he had obtained parental leave from BC Ferries from September 1, 2006 to June 15, 2007. (Transcript page 120, lines 5 and 6) (Note: See also parental leave request, Exhibit R-2, Tab 5)
+Graham also said: “I was on benefits (parental leave) through June 1st (2007)”. (Transcript page 121, line 16)
+2. Commencing in October 2006 the Appellant was working at BC Ferries on a full time basis – 8 hours per day – 21 days per month. (Transcript page 85, lines 8‑13)
+3. The Appellant paid Graham $600.00 per month as child support payments from October 2006 to April 18, 2007. (Transcript page 34, lines 14-15)
+In other words the Appellant was paying money to Graham to assist him financially since he was on parental leave and he was spending money to support the Children. (Transcript page 171, lines 5-6)
+In other words, Graham was on parental leave from September 1, 2006 to June 15, 2007 and the Appellant was working full time (8 hours a day, 21 days per month from October 2006)
+4. From an examination of the sworn testimony of Graham, I have concluded that Graham was the parent who was primarily responsible for arranging medical appointments for the Children during the disputed periods. (Transcript page 184, lines 13-16) (See Regulation 6302(d) – page 8 above)
+(Note: The Notices of Appeal only deal with the 2005 and 2006 base taxation years. However, I was advised by counsel for the Minister that unless there is a change in the circumstances CCTBs will be paid to each parent on a six month rotational cycle. The six month cycle will continue from July 1, 2008, i.e. for the 2007 base taxation year.)
+[40] Before closing I wish to state that I was very impressed with the comments made by the Appellant and by Graham regarding their Children. The Appellant and Graham each gave me the impression that they were compassionate, caring and supportive in every way concerning the Children.
+[41] The appeal for the 2005 base taxation year is allowed, without costs, to give the Appellant CCTBs regarding the First Daughter for the months of July and August 2006. The appeal filed for the 2006 base taxation year is dismissed.
+[42] It is further ordered that the filing fee of $100.00 be refunded to the Appellant.
+Signed at Vancouver, British Columbia, this 5th day of June 2009.
+“L.M. Little”
+Little J.
+CITATION: 2009 TCC 300
+COURT FILE NO.: 2008-1983(IT)I
+STYLE OF CAUSE: Marilyn May McLaughlin and
+Her Majesty The Queen
+PLACE OF HEARING: Nanaimo, British Columbia
+DATE OF HEARING: March 27, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: June 5, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Matthew W. Turnell
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

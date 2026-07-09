@@ -1,0 +1,133 @@
+---
+title: "Garlinski v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26866/index.do"
+last_modified: "2005-03-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 220"
+citation2: ""
+neutral_citation: "2005 TCC 220"
+decision_date: "2005-03-29"
+language: "en"
+item_id: "26866"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 672
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:53:33.280000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "13abaf1d0a1477d786d79c5df16aee331f39da533cb82da79d404222059a4872"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Garlinski v. The Queen
+
+- Citation: 2005 TCC 220
+- Decision date: 2005-03-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 672, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Garlinski v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-03-29
+Neutral citation
+2005 TCC 220
+File numbers
+2004-3986(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+2004-3986(IT)I
+BETWEEN:
+VICTORIA GARLINSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 22, 2005, at Winnipeg, Manitoba,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Penny Piper
+____________________________________________________________________
+JUDGMENT
+The purported appeals from reassessment of tax made under the Income Tax Act for 1999, 2001, 2002 and 2003 taxation years are quashed.
+The appeal from the reassessment of tax made under the Act for 2000 taxation year is dismissed.
+Signed at Ottawa, Canada, this 29th of March, 2005.
+"E.A. Bowie"
+Bowie J.
+Citation: 2005TCC220
+Date: 20050329
+Docket: 2004-3986(IT)I
+BETWEEN:
+VICTORIA GARLINSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+BowieJ.
+[1] Ms. Garlinski has appealed her income tax assessments for the taxation years 1999, 2000, 2001, 2002 and 2003. Her Notice of Appeal is not easily understood, but it does put in issue whether she was entitled, in filing her income tax return for the year 2000, to claim a deduction under subsection 146(5) of the Income Tax Act[1] (the Act) for a registered retirement savings plan (RRSP) premium in respect of that year in the amount of $5,000.
+[2] Counsel for the Respondent moved at the opening of the hearing to quash the appeals in respect of the years 1999, 2001, 2002 and 2003 on the basis that no notice of objection had been filed for any of those years. That fact was established by the affidavit of Jacqueline Sedor filed in support of the motion, and it was not contested by the Appellant. The only notice of objection to which she referred in her evidence was a letter dated August 9, 2002, and it constituted an objection only to her assessment for the 2000 taxation year. That letter did make reference to the year 2001, however the Appellant had not claimed any RRSP deduction when filing for 2001; moreover, whether as a result of that letter or not, she was reassessed for 2001 on September 3, 2002 to allow her a $2,000 RRSP deduction for that year, and there is no evidence that she filed any notice of objection after that date in relation to any year other than 2000. In fact, the evidence establishes that there was none. It is well-settled that there can be no appeal of an assessment unless the taxpayer has first sent a notice of objection to the Minister of National Revenue. That is the effect of subsection 159(1) of the Act. The appeals for the years 1999, 2001, 2002 and 2003 are therefore quashed.
+[3] I turn now to consider the appeal from the reassessment for the taxation year 2000. In filing her return, the Appellant claimed and was allowed a deduction of $5,000 from her income for a RRSP premium in that year. She was subsequently reassessed on April 7, 2003 to disallow this deduction. The Minister's position in reassessing the Appellant was that she did not present evidence that she had in fact paid any such $5,000 premium.
+[4] In the course of her evidence, the Appellant presented five exhibits that were intended to establish the payment of this premium. None of them have that effect, however. Her bank statement does establish that she purchased a guaranteed investment certificate from the Royal Bank for $5,000. However, neither it nor any of the other exhibits establishes that the GIC was registered pursuant to section 146 of the Act. The Appellant testified that she had instructed the Bank personnel that this GIC should be registered, and I have no reason to doubt that evidence. The Appellant, of course, bears the burden of proof in this appeal. If the GIC was in fact registered then it should have been a relatively simple matter to obtain proof of that from the bank, and yet she has not been able to do so.
+[5] As I understand the Appellant, she blames the bank for not carrying out her instructions to register the certificate, or perhaps for refusing to provide her with the necessary form to prove its registration if in fact it was registered. I am not, of course, in a position to express any view on her dispute with the bank and its staff. My jurisdiction does not extend beyond deciding whether she has established that she paid the premium that she claimed in respect of a registered plan. The evidence simply does not discharge the burden of proof, and so I must dismiss the appeal.
+[6] The appeal for the taxation year 2000 is dismissed.
+Signed at Ottawa, Canada, this 29th day of March, 2005.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2005TCC220
+COURT FILE NO.:
+2004-3986(IT)I
+STYLE OF CAUSE:
+Victoria Garlinski and Her Majesty the Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATES OF HEARING:
+March 22, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT:
+March 29, 2005.
+APPEARANCES:
+Counsel for the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Penny Piper
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S. 1985 c.1 (5th supp.), as amended.

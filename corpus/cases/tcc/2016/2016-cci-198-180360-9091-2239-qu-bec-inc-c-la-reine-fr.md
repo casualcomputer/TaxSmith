@@ -1,0 +1,293 @@
+---
+title: "9091-2239 Québec Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/180360/index.do"
+last_modified: "2016-09-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 198"
+citation2: ""
+neutral_citation: "2016 CCI 198"
+decision_date: "2016-09-14"
+language: "fr"
+item_id: "180360"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2889
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:53:41.814000+00:00"
+cases_cited_count: 13
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "36a5bd6012e80de9f1d5a7eba8ceb51ab5ba8c4e4fcb6e5b1707c468a61d9e5e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9091-2239 Québec Inc. c. La Reine
+
+- Citation: 2016 CCI 198
+- Decision date: 2016-09-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2889, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9091-2239 Québec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-09-14
+Référence neutre
+2016 CCI 198
+Numéro de dossier
+2015-710(GST)I
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2015-710(GST)I
+ENTRE :
+9091-2239 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu les 25 et 26 avril 2016, à Montréal (Québec), et le 23 juin 2016 par conférence téléphonique, à Ottawa (Canada)
+Devant : L’honorable juge Dominique Lafleur
+Comparutions :
+Avocat de l’appelante :
+Me Patrick E. Farley
+Avocat de l’intimée :
+Me Nicolas C. Ammerlaan
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise, dont l’avis est daté du 15 juillet 2013 et porte sur les 16 périodes de déclarations trimestrielles comprises entre le 1er janvier 2009 et le 31 décembre 2012 (la « période »), est accueilli, sans frais, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation afin que le montant de l’ajout au calcul de la taxe nette de l’appelante pour la période soit réduit de 23 768,85 $ à 12 802,35 $ et que les intérêts et les pénalités soient ajustés en conséquence, le tout selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, le 14e jour de septembre 2016.
+« Dominique Lafleur »
+La juge Lafleur
+Référence : 2016 CCI 198
+Date : 20160914
+Dossier : 2015-710(GST)I
+ENTRE :
+9091-2239 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lafleur
+A. vue d’ensemble [1] La société 9091–2239 Québec inc. (« l’appelante ») en appelle d’une cotisation, dont l’avis est daté du 15 juillet 2013, établie en vertu de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E–15 (la « LTA »), par l’Agence du revenu du Québec agissant au nom du ministre du Revenu national (le « ministre »). Cette cotisation porte sur les périodes trimestrielles du 1er janvier 2009 au 31 décembre 2012 (la « période ») relativement à la pizzéria (le « restaurant ») exploitée par l’appelante depuis l’an 2000 et située dans l’Est de Montréal. Une copie de l’avis de cotisation a été déposée à l’audience comme pièce I–3.
+[2] Par cette cotisation, le ministre a réclamé un montant de taxe nette supplémentaire de 23 768,85 $, des pénalités de 5 942,23 $ en vertu de l’article 285 de la LTA et des intérêts. Ces montants résultent de l’ajout aux ventes de l’appelante tirées de l’exploitation du restaurant des sommes suivantes pour les années d’imposition 2009, 2010, 2011 et 2012 respectivement : 107 816 $, 115 233 $, 125 430 $ et 126 870 $. Afin de déterminer le montant des ventes non déclarées, le ministre a utilisé une méthode alternative consistant en la comparaison entre les ventes déclarées et la quantité de boites de pizza achetées pendant la période.
+B. les faits (1) Témoignages – Généralités [3] À l’audience, monsieur Jamal Hamade, l’un des deux actionnaires de l’appelante (l’autre étant son épouse), a témoigné, de même que monsieur Salim Jabbour, le comptable de l’appelante depuis la constitution de celle-ci.
+[4] Pour l’intimée, seule la vérificatrice de l’Agence du revenu du Québec responsable de la vérification de l’appelante, madame Catherine Massey, a témoigné. Madame Massey est vérificatrice de l’impôt sur le revenu des particuliers et des sociétés ainsi que des taxes payables par les restaurants et chef d’équipe à l’Agence du revenu du Québec, où elle travaille depuis juin 2003.
+[5] Lorsque la vérification de l’appelante a débuté, monsieur Hamade a renvoyé la vérificatrice à monsieur Jabbour, qui a été sa personne-ressource pour cette vérification.
+[6] De 1995 à 2000, monsieur Hamade a travaillé au restaurant à titre d’employé. L’appelante a acheté le restaurant en 2000. En 2013, l’appelante a vendu le restaurant à un employé ou à une corporation dudit employé.
+[7] Le restaurant avait une superficie de 500 pieds carrés, comptait 18 places assises, et avait 7 ou 8 tables. Selon le menu (pièce I–1, onglet 14), le restaurant vendait des pizzas de tailles différentes, de même que des frites, de la poutine, des ailes de poulet, des sous-marins, des sandwichs pita au poulet, des pâtes et des rondelles d’oignon. Il était possible de commander pour emporter; la livraison était également offerte. Le menu, de même que les rabais offerts, sont demeurés les mêmes tout au long de la période. De plus, il a été admis qu’aucune rénovation et qu’aucun agrandissement n’avait été effectué dans les locaux occupés par le restaurant pendant la période.
+[8] Les états financiers de l’appelante pour l’exercice terminé le 31 décembre 2013 ont été produits par l’appelante sous la pièce A–4. Puisque le restaurant a été vendu le 1er avril 2013, pendant l’exercice 2013, le restaurant n’a été exploité que pendant 3 mois. Selon ces documents, les ventes totales pour cette courte période s’élevaient à 53 524 $; pour la période de 12 mois terminée le 31 décembre 2012, elles étaient de 159 464 $.
+[9] Le procureur de l’appelante a également produit, sous les pièces A–5 et A‑6, les états financiers du nouvel acquéreur du restaurant afin de montrer les ventes totales pour 2014 et 2015 provenant de l’exploitation par le nouvel acquéreur. Le procureur de l’intimée s’est opposé aux motifs que ces documents constituaient du ouï-dire. J’ai accepté que ces documents soient déposés au dossier de la Cour sous réserve de ma décision sur l’opposition quant au ouï-dire.
+[10] Au cours de son témoignage, monsieur Jabbour a expliqué à la Cour qu’à la fin de chaque mois, il analysait les relevés Z de caisse, les relevés bancaires et les achats afin de faire la comptabilité du restaurant. Après l’installation du module d’enregistrement des ventes (le « MEV »)[1], il a utilisé les informations du MEV. Il préparait également les payes et les déclarations de revenus et de taxes. Selon lui, 90 % des achats se faisaient chez Les Distributions Giu‑Setti Inc. (« Giu‑Setti »). Il ne connaissait pas bien l’exploitation du restaurant avant le début de la vérification. La vérificatrice est venue à ses bureaux afin d’examiner toutes les factures. Il manquait les factures pour les achats de légumes et de pains pour sous-marins; toutefois, selon lui, ce n’était pas un plat populaire – en 14 jours, il n’y a eu qu’une seule vente de sous-marin. En 2012, il a fait une vérification de l’appelante; selon sa vérification, toutes les factures remises par monsieur Hamade étaient confirmées par les factures remises par Giu‑Setti à la vérificatrice.
+[11] Monsieur Jabbour a confirmé qu’il n’y avait pas de limite au nombre d’heures de travail de monsieur Hamade au restaurant. Monsieur Jabbour a également mentionné que la vérificatrice ne lui avait jamais demandé une confirmation du nombre de boites de pizza achetées par l’appelante.
+[12] En contre-interrogatoire, monsieur Jabbour a reconnu avoir préparé les états financiers selon les informations fournies par monsieur Hamade et n’avoir jamais fait directement affaire avec les fournisseurs du restaurant ni avec les employés. Monsieur Jabbour est également le comptable du nouvel acquéreur du restaurant et a préparé les documents déposés sous les cotes A–5 et A–6.
+[13] Selon le témoignage de monsieur Hamade, la majorité des ventes du restaurant étaient pour emporter; il ne faisait pas beaucoup de livraison.
+[14] Selon monsieur Hamade, il y avait toujours deux personnes sur place, soit un employé et lui-même. Il a précisé n’avoir jamais fait beaucoup de publicité. Le restaurant offrait un rabais deux ou trois jours par semaine, soit la pizza de 14 po à 7,99 $. Selon monsieur Hamade, ce plat était le plus populaire. Les pointes de pizza constituaient également une grande part des ventes.
+[15] Monsieur Hamade a convenu que l’exploitation du restaurant ne générait pas beaucoup de pertes de nourriture : il y avait une perte d’environ une grande pizza tous les 2 jours, et une perte d’environ 20 % pour les légumes.
+[16] En contre-interrogatoire, monsieur Hamade a convenu qu’environ 40 à 50 clients se présentaient quotidiennement au restaurant. Il a également reconnu ne pas connaitre le nom des vendeurs itinérants desquels il achetait les légumes utilisés pour l’exploitation du restaurant. Ces vendeurs ne lui remettaient pas de factures, ou, s’ils le faisaient, les factures étaient incomplètes, notamment parce qu’elles n’identifiaient pas le vendeur. Il n’avait également pas de factures pour les achats des pains pour sous-marins et des pains pita.
+[17] Selon madame Massey, on a décidé de faire la vérification fiscale de monsieur Hamade et de son épouse en raison des revenus déclarés par le ménage (au total entre 25 000 $ et 30 000 $ par année au cours de la période) et des actifs détenus par ceux-ci, soit une résidence dont la valeur municipale est de 336 000 $ et une voiture dont le prix d’achat correspond au salaire annuel de monsieur Hamade. En 2009, monsieur Hamade a acheté une petite voiture de marque Pontiac qu’il payait 171,90 $ par mois (pièce A–1, « Contrat de vente à tempérament »). En 2004, son épouse et lui ont acheté une maison à 190 000 $ (pièce A–2). Il a trois enfants. Son épouse et lui n’ont pas d’autres actifs.
+[18] De plus, selon madame Massey, le chiffre d’affaires du restaurant était faible, compte tenu du type et de la taille du restaurant; en outre, le ratio des frais des services publics par rapport aux ventes déclarées était le double du ratio habituel. À cet égard, les services publics (gaz, électricité, télécommunication) représentent 2,6 % des dépenses d’exploitation d’un restaurant selon le rapport annuel de l’Association des restaurateurs du Québec (pièce I–1, onglet 5, « Ratio de l’industrie »). En l’espèce, le ratio était de 5,6 %, soit plus du double. Selon la vérificatrice, un tel ratio peut être le résultat soit de dépenses surévaluées, soit de ventes sous-évaluées, et dans le cas de l’appelante, selon elle, c’est la deuxième hypothèse qui s’applique. En réévaluant les revenus selon l’hypothèse que la moitié des ventes ne sont pas déclarées, le ratio révisé s’établit à 3,1 %, se rapprochant ainsi de la moyenne de l’industrie.
+[19] En ce qui concerne les heures de travail (pièce I–1, onglet 13, « Salaires »), selon les calculs effectués par madame Massey, il n’y aurait eu qu’un seul employé présent pendant 62 % des heures d’ouverture du restaurant. Or, puisque le restaurant offrait la livraison, il devait toujours y avoir au moins 2 employés présents; certains salaires doivent donc ne pas avoir été déclarés. Ce résultat est cohérent avec une situation dans laquelle il y a des achats non déclarés ou des ventes non déclarées.
+[20] Le 7 novembre 2011, la vérificatrice et une collègue sont allées incognito prendre un repas au restaurant (pièce I–1, onglet 6, « Rapport sur la prise de repas »). Lors de cette visite, elles ont commandé un repas et ont examiné les activités, les employés, la facture qui leur a été remise avec le code à barres provenant du MEV, les livraisons, etc. Selon le témoignage de madame Massey, le tiroir-caisse de la caisse enregistreuse restait souvent ouvert, notamment lorsque des pointes de pizza étaient vendues aux étudiants. Ces pointes de pizza, dont les ventes n’étaient pas enregistrées par le MEV, étaient vendues au même prix que celles dont les ventes étaient enregistrées par le MEV. Selon le décompte effectué sur place par madame Massey, il y a eu 18 clients au restaurant, mais seules les ventes à 9 clients ont été enregistrées par le MEV (pièce I–1, onglet 1, « Rapport de vérification », p. 1.8). Monsieur Hamade tenait la caisse ce jour-là.
+[21] La première visite annoncée de la vérificatrice a eu lieu le 23 février 2012 (pièce I–1, onglet 7, « Visite initiale – Restaurant »). La vérificatrice a fait le tour du restaurant, a observé l’inventaire des boites de pizza, a obtenu une copie du rapport du MEV et a demandé d’établir la balance de la caisse en compagnie de monsieur Hamade. Le relevé X de caisse indiquait 67,74 $. Toutefois, il y avait 353,30 $ en espèces dans la caisse. Monsieur Hamade a d’abord dit qu’il laissait environ 68 $ comme fonds en caisse; toutefois, pour justifier la somme excédentaire d’environ 300 $, monsieur Hamade aurait alors dit qu’il laissait de l’argent dans la caisse pour payer les fournisseurs (entre 400 $ et 500 $).
+[22] Une copie du relevé Z de caisse de novembre 2010 a été produite à l’audience (pièce I–1, onglet 12); selon cette copie, le total des ventes de la journée est de 531,23 $, une mention à la main indique « 495$ ». Monsieur Hamade a tenté d’expliquer la raison de cette note manuscrite sans se souvenir exactement de ce cas précis – soit une commande importante pour une fête ou encore pour une école. Selon Monsieur Hamade, la caisse enregistreuse du restaurant n’était pas souvent défectueuse et s’il avait voulu cacher cette somme, il ne l’aurait pas écrite; c’est la seule fois où une telle inscription a été faite de cette façon. Il faut noter que monsieur Jabbour a mentionné pendant son témoignage que cette somme a été ajoutée aux revenus de l’appelante et que les taxes à la consommation ont été versées. Monsieur Jabbour a confirmé lors de son témoignage qu’il n’a vu une telle mention manuscrite qu’une seule fois. La vérificatrice n’était pas en mesure de confirmer si cette somme avait été ajoutée aux revenus de l’appelante. En ce qui concerne le montant de 495 $ ajouté à la main, ceci démontre un écart substantiel à la moyenne journalière, soit 52 %.
+[23] Madame Massey a expliqué également que les ventes qui ont été déclarées par l’appelante correspondent aux ventes enregistrées par le MEV; ainsi, si une vente n’apparait pas dans les données du MEV, elle n’est pas déclarée par l’appelante.
+(2) Les boites [24] Au cours de son témoignage, monsieur Hamade a dit que les restes de pizza (par exemple la pizza 14 po, qui est en rabais) étaient mis dans une boite de 8 po (« boites Bambino »); de plus, les écoles qui commandaient des pizzas demandaient que les pointes soient dans des boites Bambino. Il a ajouté que les pointes de pizza qui provenaient de pizzas 18 po étaient servies dans une assiette en carton et insérées dans un sac en papier. Il a ajouté que lorsqu’un client mangeait sur place, la pizza était plutôt servie dans une assiette de carton; s’il y avait des restes, ceux-ci étaient mis dans une boite Bambino dans laquelle 3 ou 4 pointes pouvaient être mises. De plus, lorsque les parents venaient acheter des diners pour leurs enfants, il mettait les pointes dans les boites Bambino. Enfin, monsieur Hamade a dit qu’il mettait aussi les frites et des ailes de poulet dans les boites Bambino. Les pointes de pizza vendues étaient accompagnées de boissons gazeuses ou de frites gratuitement.
+[25] Monsieur Hamade ne se souvenait pas exactement du nombre de boites de pizza de différentes tailles qui étaient achetées. Il a précisé que la pizza 14 po se vendait le plus, mais il y avait d’autres plats au menu, soit des frites, de la poutine, des ailes de poulet, des sous-marins, etc. Les boites de pizza de 10 po, de 12 po, de 14 po et de 18 po se vendaient en paquets de 50; selon monsieur Hamade, il achetait environ 3 paquets de chaque taille toutes les 2 semaines. Pour la boite de 14 po, compte tenu de sa popularité, il en achetait plus. La boite Bambino était vendue en paquets de 250. Toutefois, il a précisé que toutes les factures de l’entreprise Mayrand ont été remises à la vérificatrice.
+[26] De plus, monsieur Hamade a confirmé qu’il ne faisait pas l’inventaire des boites de pizza.
+(3) Méthode alternative utilisée [27] Madame Massey a expliqué à la Cour la méthode utilisée dans le présent appel, soit la méthode de reconstitution des ventes ou la méthode par les achats. De façon générale, selon cette méthode, on fait la comparaison entre les achats réels et les ventes réelles; si toutes les ventes sont déclarées, il y a équilibre.
+[28] Afin de déterminer les achats effectués par un restaurateur, on obtient du restaurateur une copie des factures d’achat des divers fournisseurs ainsi qu’une confirmation des divers fournisseurs du restaurateur. Afin de déterminer les unités disponibles à la vente, il faut comptabiliser les inventaires au début de la période, ajouter les achats et soustraire les pertes, les gratuités et la consommation personnelle, ainsi que l’inventaire à la fin de la période.
+[29] En l’espèce, les éléments utilisés pour faire cet exercice sont les boites de pizza. Ces éléments sont faciles à identifier à l’achat et à la vente, et il y a peu de pertes. Madame Massey aurait voulu utiliser les boissons gazeuses, mais cet élément n’était pas facilement identifiable et, de plus, beaucoup étaient offertes gratuitement. Elle n’a pu utiliser les pains pour sous-marins et les pains pita, puisqu’aucune facture n’était remise lors de l’achat de ces produits. En ce qui concerne les ailes de poulet, il y avait plus d’achats que de ventes; cet élément n’était donc pas fiable. De plus, il n’a pas été possible de confirmer les achats de légumes, puisqu’aucune facture n’était remise par les vendeurs itinérants. Monsieur Hamade a confirmé dans son témoignage qu’il n’avait pas de factures pour les achats de légumes ni pour ceux des pains pour sous-marins et des pains pita. Toutefois, les états financiers de l’appelante indiquent des montants pour ces dépenses (environ 2 000 $ ou 3 000 $ par année).
+[30] Monsieur Hamade a confirmé qu’il achetait les boites de pizza chez Giu‑Setti, sauf les boites Bambino qu’il achetait chez Mayrand. Madame Massey a demandé des confirmations d’achat de deux fournisseurs, soit Giu‑Setti et Lesters (pièce I–1, onglet 8, « Demande péremptoire et documents des fournisseurs »). Il n’a pas été possible d’obtenir de confirmation de la part du fournisseur Mayrand, l’appelante n’ayant aucun compte avec celui-ci.
+[31] Les factures d’achat émises par Giu-Setti pour toutes les tailles de boites (sauf les boites Bambino) et par Mayrand (pour les boites Bambino seulement) ont été utilisées. Comme l’a confirmé monsieur Hamade, aucun inventaire des boites n’était effectué; ainsi, la vérificatrice n’a pu tenir compte de cet élément dans ses calculs. Toutefois, selon madame Massey, puisque les stocks étaient sensiblement les mêmes au début et à la fin, cela n’aurait pas eu un grand effet sur ses calculs. Je reviendrai à cet élément ci-dessous.
+[32] Puisque le MEV fonctionnait pendant toute l’année 2012, la vérificatrice a pris l’année 2012 à titre de référence. Les boites de pizza de 14 po ont été éliminées du calcul, puisqu’il y avait eu plus de ventes que de boites disponibles pour les ventes. Seules les boites Bambino, de 10 po, de 12 po et de 18 po ont été utilisées; l’intimée a produit sous l’onglet 10 de la pièce I–1 les feuilles de travail accompagnant le projet de cotisation.
+[33] La vérificatrice aurait voulu faire le même exercice pour les années antérieures, mais les relevés Z de caisse ne donnaient pas d’information suffisamment détaillée permettant d’identifier le type de pizza vendu. Elle a toutefois fait cet exercice pour le dernier trimestre de 2011 et, selon son témoignage, elle est arrivée sensiblement aux mêmes résultats.
+[34] Elle a ensuite projeté les résultats ainsi obtenus aux années antérieures, après avoir vérifié qu’il n’y avait pas eu de changements majeurs au restaurant et que l’année 2012 ressemblait aux années passées (même menu, achats d’un nombre de boites similaire, etc.).
+[35] Madame Massey a analysé le nombre de pizzas vendues selon le MEV (pièce I–1, onglet 10, p. 7.6); elle a ensuite calculé le nombre de boites de pizza achetées par taille, a retranché une perte de 5 % (pièce I–1, onglet 10, p. 7.8) et a calculé les écarts suivants :
+Comparatif
+Bambino 8 pouces
+Petite 10 pouces
+Moyenne 12 pouces
+Large 14 pouces
+Jumbo 18 pouces
+Unités vendues
+1096
+936
+1499
+3920
+1310
+Unités disponibles à la vente
+4513
+1045
+1805
+2850
+1330
+Écart
+3417
+109
+306
+-1070
+20
+En pourcentage
+76 %
+10 %
+17 %
+-38 %
+2 %
+[36] La vérificatrice a dit que le fait d’avoir pris en compte les autres tailles de boites de pizza, et pas seulement les boites Bambino, était à l’avantage de l’appelante : si elle n’avait considéré que les boites Bambino, elle aurait augmenté les ventes de 76 %.
+[37] Les résultats des calculs du nombre de boites de pizza de différentes tailles ont ensuite été l’objet d’une moyenne pondérée pour arriver ainsi à un écart d’environ 45 % entre les ventes déclarées et les ventes non déclarées. Madame Massey a donc projeté ce 45 % sur l’ensemble du menu pour arriver à la cotisation en litige.
+[38] À ma demande, madame Massey a donné, par voie d’affidavit du 27 mai 2016 (« l’affidavit »), des explications supplémentaires sur la méthode utilisée. Je crois comprendre que si une moyenne arithmétique avait été utilisée, les résultats auraient été faussés (tableau de l’annexe 1 de l’affidavit), et je suis d’accord avec la vérificatrice. J’avais demandé également à madame Massey de me donner les coefficients de pondération utilisés dans le calcul de la moyenne pondérée. Elle n’a pas directement répondu à ma question, mais j’ai pu conclure que les coefficients utilisés sont le nombre d’unités disponibles à la vente de la boite d’une certaine taille sur le nombre total d’unités disponibles, que l’on applique au pourcentage d’écart de la boite de cette taille, comme l’indique le tableau qui précède. En additionnant les différents pourcentages ainsi calculés, on arrive à des ventes non déclarées de 44 %, en excluant les boites de 14 po.
+[39] Plus particulièrement, selon les calculs détaillés (pièce I–1, onglet 10, p. 7.4), 55,69 % des ventes auraient été déclarées, et donc approximativement 45 % des ventes ne l’auraient pas été. Selon madame Massey, cela est conforme à ce qu’elle a observé au restaurant et à ce qui est indiqué au document à l’onglet 12 de la pièce I–1. Le même pourcentage a été utilisé pour toutes les années, ce qui a pour avantage, selon madame Massey, de prendre en considération les fluctuations de l’achalandage.
+(4) Visite subséquente de la vérificatrice en mars 2013 [40] Après avoir terminé son étude, madame Massey est retournée au restaurant le 15 mars 2013 pour s’assurer que ses calculs n’étaient pas surévalués. Ainsi, selon madame Massey, si elle avait remarqué que des pointes de pizza étaient vendues dans des boites Bambino, elle aurait dû refaire ses calculs. À l’onglet 11 de la pièce I–1, « Observations du 15 mars 2013 », on trouve un résumé de la visite effectuée par madame Massey. C’était un vendredi très tranquille; il n’y avait pas d’étudiants. Après sa visite, elle a comparé les ventes de ce vendredi et celles des 5 vendredis du mois de mars 2012 en prenant pour hypothèse que lors de sa visite du 15 mars 2013, tout était enregistré par le MEV. Ainsi, on voit que 43,84 % des ventes n’ont pas été déclarées.
+[41] Madame Massey a pu constater ce que monsieur Hamade lui avait mentionné lors de la rencontre initiale, c’est-à-dire que les pointes de pizza étaient servies dans des assiettes en carton et des sacs en papier, qu’il était très rare que les pointes soient insérées dans des boites, et que dans un tel cas, elles étaient insérées dans une boite de 10 po, et seulement pour les clients pointilleux. Si plusieurs pointes étaient vendues, elles étaient servies dans une assiette et insérées dans un sac en papier, et les sacs étaient tous agrafés. Madame Massey n’a jamais vu des restes être insérés dans des boites. Elle a donc conclu que les boites de pizza étaient utilisées pour la vente de pizzas seulement et pas à d’autres fins.
+C. LES questions en litige 1) Le ministre était-il fondé à utiliser une méthode de vérification alternative?
+2) Est-ce que le ministre a correctement établi la cotisation à l’encontre de l’appelante en ajoutant 23 768,85 $ au calcul de la taxe nette de la période?
+3) Est-ce que le ministre était fondé à imposer des pénalités de 5 942,23 $ pour la période en vertu de l’article 285 de la LTA?
+D. thèses DES PARTIES ET ANALYSE [42] Avant de commencer l’analyse des questions en litige, je dois déterminer si les états financiers du nouvel acquéreur du restaurant produits par l’appelante sous les cotes A–5 et A–6 afin d’établir les ventes totales provenant de l’exploitation du restaurant par le nouvel acquéreur en 2014 et 2015 constituent du ouï-dire, et donc s’ils sont admissibles en preuve.
+[43] La règle en matière de présentation de la preuve dans les instances devant la Cour qui sont régies par la procédure informelle est énoncée au paragraphe 18.15(3) de la Loi sur la Cour canadienne de l’impôt, L.R.C. (1985), ch. T–2 :
+18.15(3) Audition — Par dérogation à la loi habilitante, la Cour n’est pas liée par les règles de preuve lors de l’audition de tels appels; ceux-ci sont entendus d’une manière informelle et le plus rapidement possible, dans la mesure où les circonstances et l’équité le permettent.
+18.15(3) Hearing — Notwithstanding the provisions of the Act under which the appeal arises, the Court is not bound by any legal or technical rules of evidence in conducting a hearing and the appeal shall be dealt with by the Court as informally and expeditiously as the circumstances and considerations of fairness permit.
+[44] Dans l’affaire Selmeci c. La Reine, 2002 CAF 293, la Cour d’appel fédérale a conclu que cette disposition ne signifie pas qu’aucune règle de preuve n’est applicable aux litiges régis par la procédure informelle, mais que le juge a « le pouvoir discrétionnaire de ne pas tenir compte des règles de la preuve lorsqu’un appel est entendu selon la procédure informelle afin qu’il entende l’appel d’une manière aussi informelle et rapide que les circonstances et l’équité le permettent » (par. 4). La Cour a ajouté ce qui suit :
+[6] […] La principale raison justifiant l’exclusion des documents assimilables à du ouï‑dire est que la fiabilité de la déclaration du témoin ne peut être adéquatement testée. Ainsi, dans les arrêts R. c. Khan, [1990] 2 R.C.S. 531, et R. c. Smith, [1990] 2 R.C.S. 915, la Cour suprême a statué qu’un juge du procès peut, en vertu d’une des exceptions à la règle d’exclusion du ouï‑dire, s’il est convaincu qu’un élément de preuve est à la fois nécessaire et fiable, admettre cet élément de preuve même s’il s’agit d’un ouï‑dire et même s’il est inadmissible.
+[7] […] l’abolition totale de la règle du ouï‑dire dans un procès se déroulant selon la procédure informelle pourrait mener à des injustices graves, puisque toute conclusion du juge de la Cour de l’impôt quant à la fiabilité ou la valeur de la déclaration dans de telles circonstances serait fondée sur des hypothèses, puisque la déclaration n’aurait pas été vérifiée.
+[8] Le juge de la Cour de l’impôt ne peut cependant pas rejeter des éléments de preuve simplement parce qu’il s’agit de ouï‑dire et qu’ils ne seraient pas admissibles en vertu d’une des « exceptions », dont celle mentionnée dans l’arrêt Khan, précité. Selon le paragraphe 18.15(4), le juge de la Cour de l’impôt a toutefois un pouvoir discrétionnaire élargi et peut admettre un élément de preuve qui constitue du ouï‑dire même s’il n’était pas, par exemple, suffisamment nécessaire pour satisfaire au critère énoncé à l’arrêt Khan, précité, mais s’il était malgré tout pertinent et fiable. Le juge Sharlow a récemment fait remarquer dans l’arrêt Suchon c. La Reine, 2002 CAF 282, au paragraphe 32, que :
+Cela ne veut pas dire qu’un juge de la Cour de l’impôt, procédant suivant la procédure informelle, soit tenu d’accepter toute la preuve qui est présentée. Rien de tel n’est exigé. Cependant, ce serait une erreur de la part d’un juge de la Cour de l’impôt, dans le cadre de cette procédure, de rejeter un élément de preuve pour des motifs techniques sans examiner si, malgré les règles de preuve ordinaires ou les dispositions de la Loi sur la preuve au Canada, cet élément est suffisamment fiable et probant pour justifier son admission. En examinant cette question, le juge de la Cour de l’impôt devrait tenir compte d’un certain nombre de facteurs, y compris la somme en jeu dans l’affaire et le coût probable pour les parties de l’obtention d’une preuve plus formelle des faits.
+Ce pouvoir discrétionnaire vise avant tout à favoriser un procès équitable et rapide.
+[9] En édictant le paragraphe 18.15(4), le législateur n’avait pas l’intention de proscrire les règles de preuve habituelles lorsqu’un procès se déroule suivant la procédure informelle. Au contraire, la disposition avait pour but de conférer aux juges de la Cour de l’impôt la flexibilité nécessaire pour qu’ils puissent entendre les appels d’une manière aussi informelle et rapide que les circonstances et l’équité le permettent (voir, par exemple, Ainsley c. Canada, [1997] A.C.F. no 701). Les juges sont cependant en droit de refuser l’admission d’un élément de preuve qui constitue du ouï‑dire s’ils sont d’avis que cette admission ne permettrait pas d’atteindre les objectifs de la loi énoncés au paragraphe 18.15(4).
+Aucune preuve ne m’a été présentée quant au critère de la nécessité énoncé dans l’arrêt Khan. Bien que les états financiers produits puissent être fiables, je suis d’avis de rejeter ces documents puisqu’ils ne sont pas pertinents à l’étude des questions en litige; en effet, ces états financiers visent un contribuable autre que l’appelante et, de plus, ils visent une période postérieure à la période en cause dans l’appel.
+1) Le ministre était-il fondé à utiliser une méthode de vérification alternative?
+[45] La LTA permet au ministre d’utiliser une méthode de vérification alternative. Le paragraphe 299(1) de la LTA se lit ainsi :
+299(1) Ministre non lié — Le ministre n’est pas lié par quelque déclaration, demande ou renseignement livré par une personne ou en son nom; il peut établir une cotisation indépendam-ment du fait que quelque déclaration, demande ou renseignement ait été livré ou non.
+299(1) Minister not bound — The Minister is not bound by any return, application or information provided by or on behalf of any person and may make an assessment, notwithstanding any return, application or information so provided or that no return, application or information has been provided.
+[46] De plus, le paragraphe 286(1) de la LTA prévoit que toute personne qui exploite une entreprise au Canada « doit tenir des registres […] en la forme et avec les renseignements permettant d’établir ses obligations et responsabilités aux termes de la présente partie […] ».
+[47] Le juge Favreau, dans la décision 9100–8649 Québec inc. c. La Reine, 2013 CCI 160, (conf. par 2014 CAF 20), a mentionné ce qui suit :
+[39] Les tribunaux permettent aux autorités fiscales d’utiliser une méthode de vérification alternative non seulement lorsque le contribuable ne possède pas de registres comptables adéquats mais également lorsque ses livres, registres et états financiers ne sont pas fiables.
+[40] Dans le cas présent, l’appelante n’avait aucun document à l’appui des prises d’inventaire. Dans les circonstances, l’appelante ne peut prétendre que ses livres, registres, états financiers étaient complets, adéquats et fiables.
+[48] La juge D’Auray de notre Cour, dans la décision 9103–4348 Québec inc. c. La Reine, 2015 CCI 220, [2015] GSTC 103, a cité et approuvé les commentaires du juge Favreau et a conclu ainsi :
+[50] Dans l’affaire 9100–8649 Québec inc, l’appelante, comme en l’espèce, n’avait aucun document à l’appui des prises d’inventaire. Le juge Favreau a indiqué que, dans un tel cas, l’appelante ne pouvait prétendre que ses livres, registres et états financiers étaient complets et fiables. Le juge Favreau a déterminé que la méthode de vérification alternative était justifiée.
+[49] En l’espèce, pour les raisons mentionnées ci-dessous, je suis d’avis que le ministre était fondé à utiliser une méthode de vérification alternative pour établir la cotisation de l’appelante.
+[50] Au cours de son témoignage devant la Cour, monsieur Hamade a convenu qu’il n’avait pas de factures pour les achats de légumes, ainsi que pour les achats de pains pour sous-marins et de pains pita. Dans le premier cas, les vendeurs itinérants qui se présentaient au restaurant ne remettaient pas de facture ou, s’ils en remettaient, les factures ne contenaient pas suffisamment de détails pour pouvoir être utiles. Dans le deuxième cas, la petite boulangerie fournissant les pains ne remettait pas de facture. Monsieur Hamade estimait chaque année le montant de ces dépenses et l’appelante réclamait une déduction dans le calcul du revenu tiré du restaurant.
+[51] Monsieur Hamade a également convenu qu’il ne faisait pas d’inventaire des boites de pizza utilisées. Il ne faisait pas d’inventaire des autres articles utilisés lors de l’exploitation du restaurant. Toutefois, des montants étaient indiqués aux états financiers à ce titre.
+[52] Lors des visites effectuées au restaurant, madame Massey a remarqué que le tiroir-caisse de la caisse enregistreuse demeurait souvent ouvert entre les ventes; par suite de l’examen des rapports tirés du MEV, elle a pu confirmer cette pratique. L’appelante n’a présenté aucune preuve à l’audience à cet égard. Selon le procureur de l’appelante, le fait que les ventes n’ont pas toutes été enregistrées par le MEV relève d’une erreur de bonne foi de la part de monsieur Hamade. Je ne peux accepter cette prétention du procureur de l’appelante. Compte tenu de l’absence de preuve de l’appelante à cet égard, je conclus que les ventes de l’appelante n’étaient pas toutes enregistrées par le MEV.
+[53] Il faut noter également que l’appelante a acquis le MEV en aout 2011. Par conséquent, elle devait fournir à l’Agence du revenu du Québec des copies des rapports du MEV depuis cette date. Toutefois, l’appelante n’a commencé à fournir ces rapports qu’en novembre 2011.
+[54] Les livres et registres de l’appelante ne peuvent donc être considérés comme fiables en raison de ce qui précède et, par conséquent, le ministre était fondé à utiliser une méthode de vérification alternative.
+2) Est-ce que le ministre a correctement établi la cotisation à l’encontre de l’appelante en ajoutant 23 768,85 $ au calcul de la taxe nette de la période?
+[55] La cotisation est réputée valide. Le paragraphe 299(3) de la LTA se lit ainsi :
+299(3) Cotisation valide et exécutoire — Sous réserve d’une nouvelle cotisation et d’une annulation prononcée par suite d’une opposition ou d’un appel fait selon la présente partie, une cotisation est réputée valide et exécutoire.
+299(3) Assessment valid and binding — An assessment, subject to being vacated on an objection or appeal under this Part and subject to a reassessment, shall be deemed to be valid and binding.
+[56] La Cour d’appel fédérale, dans l’arrêt Amiante Spec Inc. c. La Reine, 2009 CAF 139, [2009] GSTC 71, a rappelé que c’est le contribuable qui a le fardeau initial de démolir les hypothèses du ministre et a précisé ce qu’est une preuve prima facie :
+[15] L’affaire Hickman nous a rappelé que le ministre se fonde sur des présomptions pour établir une cotisation et que la charge initiale de démolir les présomptions exactes formulées par celui-ci est imposée au contribuable. Ce dernier s’acquitte de ce fardeau initial lorsqu’il présente au moins une preuve prima facie démolissant l’exactitude des présomptions formulées dans la cotisation. Enfin, lorsque le contribuable s’est déchargé de son fardeau initial, le fardeau de la preuve passe au ministre qui doit alors réfuter la preuve prima facie faite par celui-là et prouver les présomptions (Hickman, supra aux paragraphes 92–93–94).
+[…]
+[23] Une preuve prima facie est celle qui est « étayée par des éléments de preuve qui créent un tel degré de probabilité en sa faveur que la Cour doit l’accepter si elle y ajoute foi, à moins qu’elle ne soit contredite ou que le contraire ne soit prouvé. Une preuve prima facie n’est pas la même chose qu’une preuve concluante, qui exclut la possibilité que toute conclusion autre que celle établie par cette preuve soit vraie » (Stewart c. Canada, [2000] T.C.J. No. 53 au paragraphe 23).
+[24] Bien qu’il ne s’agisse pas d’une preuve concluante, « le fardeau de la preuve imposé au contribuable ne doit pas être renversé à la légère ou arbitrairement » considérant « qu’il s’agit de l’entreprise du contribuable » (Voitures Orly inc. c. Canada, 2005 CAF 425 au paragraphe 20). Cette Cour a précisé que c’est le contribuable « qui sait comment et pourquoi son entreprise fonctionne comme elle le fait et pas autrement. Il connaît et possède des renseignements dont le ministre ne dispose pas. Il possède des renseignements qui sont à sa portée et sur lesquels il exerce un contrôle » (ibid.).
+[57] Ces principes s’appliquent également lorsque le ministre utilise une méthode de vérification alternative. Dans la décision Landry c. La Reine, 2009 CCI 399, 2009 DTC 1265, le juge Hogan, qui se penchait sur une autre méthode alternative, soit la méthode par avoir net, a précisé ce qui suit au sujet du fardeau de la preuve :
+[46] […] Essentiellement, le fardeau de prouver l’inexactitude des cotisations, en l’espèce, repose sur l’appelante, qui doit apporter une preuve prima facie pour démontrer que les montants ainsi calculés ne représentent pas la réalité fiscale de son revenu. Il appartient à l’appelante d’identifier la source et d’établir la nature non imposable de ses revenus. Ce fardeau fut affirmé dans l’arrêt Lacroix par la Cour d’appel fédérale :
+19 Cette façon de procéder a reçu l’approbation de la Cour suprême à de nombreuses reprises, dont l’affaire Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, n’est qu’un exemple. Dans cette cause, la Cour s’exprime ainsi aux paragraphes 92–93 :
+[…]
+20 L’application de la méthode de l’avoir net ne change rien à cette méthode de preuve. Dans la mesure où le ministre présume que le revenu constaté par l’application de la méthode de l’avoir net est un revenu imposable, il revient au contribuable de démolir cette présomption. Si celui-ci présente une preuve crédible que le montant en question n’a pas le caractère de revenu, le ministre doit alors aller au-delà de ses présomptions de fait et déposer la preuve de l’existence de ce revenu.
+[47] La crédibilité de l’appelante ainsi que la suffisance de la preuve à l’encontre des calculs de l’avoir net jouent un rôle primordial. Le sort de l’appel dépendra entièrement de ces deux facteurs.
+[48] Le juge Bowman (tel était alors son titre) a énoncé la meilleure façon de contester de telles cotisations dans Bigayan :
+3 Le meilleur moyen de contester une cotisation fondée sur la valeur nette est de produire la preuve de ce qu'est véritablement le revenu du contribuable. Un moyen moins satisfaisant, mais néanmoins acceptable, est décrit par le juge Cameron dans l’affaire Chernenkoff v. Minister of National Revenue, 49 D.T.C. 680, à la page 683 :
+[TRADUCTION]
+En l’absence de documents, l’autre moyen offert à l’appelant consistait à prouver que, même après une application en règle de la formule de la valeur nette, les cotisations étaient erronées.
+4 Ce moyen de contester une cotisation fondée sur la valeur nette est reconnu, mais, même après que l’on a procédé aux rajustements, on reste avec le sentiment trouble que la vérité n’a pas été pleinement découverte. Il est peu probable que l’on rende parfait en le modifiant un instrument qui, par nature, est imparfait. L’appelant a choisi d’utiliser le deuxième moyen.
+[Non souligné dans l’original]
+[58] Dans l’arrêt Garage Pierre Allard inc. c. Québec (Sous-ministre du Revenu), [1995] RDFQ 36, 1995 CanLII 5523, la Cour d’appel du Québec a statué sur la qualité que doit avoir la preuve du ministre et de la contribuable lors de l’utilisation d’une méthode de vérification alternative :
+En matière de preuve, la question n’est pas de déterminer si une façon de procéder est préférable à une autre. Il s’agit essentiellement de fiabilité et de suffisance. […] Dans l’un et l’autre cas, peu importe la méthode utilisée, en autant qu’elle soit légale et fiable, la preuve doit être suffisante pour atteindre la qualité requise.
+En l’espèce, à cause de la présomption légale de validité attachée à la cotisation de l’intimé, il appartenait à l’appelante de démontrer que la méthode utilisée pour l’établir n’était pas fiable ou, si elle l’était en soi, que les conditions requises pour sa fiabilité n'ont pas été observées.
+[Non souligné dans l’original]
+[59] Selon les prétentions de l’appelante, la méthode utilisée par la vérificatrice n’est pas fiable, pour les raisons suivantes :
+- La collaboration de l’appelante avec madame Massey a été exemplaire. Tous les documents requis par madame Massey lui ont été remis et elle a pu vérifier que toutes les factures remises concordaient en tous points avec les factures confirmées par les fournisseurs. De plus, bien que le fournisseur Mayrand n’ait pas été en mesure de confirmer les achats effectués par l’appelante, toutes les factures émises par Mayrand ont été remises à la vérificatrice. L’appelante a fait remarquer qu’il aurait été facile de détruire ces factures.
+- Puisque le nombre exact de boites Bambino achetées était connu de la vérificatrice, celle-ci aurait dû calculer l’écart selon le prix de vente d’une pizza Bambino, soit 4,99 $; le résultat de ce calcul démontrerait qu’en 2012, les revenus non déclarés pour ce plat n’étaient que de 17 000 $ (écart de 3417 boites au prix de 4,99 $ par pizza Bambino). Mais encore, cette méthode ne donnerait pas un montant exact puisque les boites de pizza Bambino étaient utilisées à d’autres fins.
+- Les différents ratios, tel le ratio du coût des biens vendus, le ratio de location et le ratio de publicité, ne concorderaient pas avec les moyennes de l’industrie si les revenus de l’appelante étaient augmentés de la façon prévue à la cotisation en litige.
+- L’excédent dans le tiroir-caisse, selon monsieur Hamade, servait à payer les fournisseurs (pièce I–1, onglet 7); cette explication est plausible. Cela ne prouve pas que l’appelante cachait 50 % de ses recettes.
+- En ce qui concerne les boites de pizza de 14 po, l’écart négatif tient au fait que plusieurs clients mangeaient sur place et que ce plat était est le plus avantageux les journées où le rabais était offert, soit les lundis et mardis. De plus, puisqu’aucun inventaire de début d’exercice n’a été fait pour les boites, le calcul ne peut qu’être déficient.
+[60] Je suis d’avis, selon la prépondérance de la preuve, que les boites de pizza Bambino n’étaient utilisées que pour la vente de pizzas et ne servaient pas à d’autres fins. Le témoignage de monsieur Hamade ne m’a pas convaincue que les boites Bambino servaient à mettre les restes, ou encore à mettre les ailes de poulet et les frites. J’accepte plutôt la version de madame Massey, selon laquelle les boites Bambino ne pouvaient être empilées puisqu’elles étaient faites de carton très mince; de plus, elle a témoigné n’avoir jamais vu, lors de ses trois visites au restaurant, des boites Bambino utilisées pour y mettre les restes ou autre chose que des pizzas.
+[61] De plus, en l’espèce, nous ne sommes pas en présence d’une cotisation établie sur la base des ratios. Ces ratios ne servent que d’indice, tout comme le calcul des heures de travail. J’en arrive à la même conclusion quant à la mention manuscrite retrouvée sur le relevé Z de caisse (pièce I–1, onglet 12).
+[62] Selon la preuve, il est clair que l’appelante ne déclarait pas tous ses revenus. En effet, selon le témoignage non contredit de la vérificatrice, le tiroir‑caisse demeurait souvent ouvert entre les ventes, ce qu’a aussi confirmé l’analyse des rapports du MEV. De plus, la comparaison des ventes faites lors de la dernière visite de la vérificatrice en mars 2013 et de la moyenne des ventes faites les vendredis de mars 2012 m’amène à conclure que les ventes n’étaient pas toutes déclarées.
+[63] Je dois donc me prononcer sur la fiabilité de la méthode utilisée par la vérificatrice dans le présent appel. À mon avis, la méthode choisie par la vérificatrice comporte une faiblesse importante, puisque les boites de 14 po ne sont pas prises en considération dans les calculs. Je m’explique.
+[64] La vérificatrice a établi la moyenne des ventes totales à un montant de 32,94 $ de la façon suivante : ventes déclarées divisées par le nombre de pizzas vendues selon le MEV (excluant les pizzas 14 po); Ce montant de 32,94 $ est ensuite multiplié par le nombre de boites achetées (ou disponibles à la vente) (excluant les boites de 14 po), soit 8693, pour arriver aux ventes reconstituées, soit 286 334 $. Il y a donc un écart de 126 869 $ (par rapport aux ventes déclarées de 159 464 $ pour l’année 2012). Ainsi, sur cette base, 55,69 % des ventes ont été déclarées et 45 % n’ont pas été déclarées (pièce I–1, onglet 10, p. 7.4).
+[65] Si l’on refait le même calcul en ajoutant les boites de 14 po, le résultat indique plutôt que 69,46 % des ventes ont été déclarées, et donc approximativement 30 % ne l’ont pas été.
+[66] Pourquoi ne pas avoir tenu compte dans les calculs des boites de 14 po? Selon la vérificatrice, puisqu’il y avait plus de ventes selon le MEV que d’achats, elle a rejeté cet élément. À mon avis, les boites de 14 po auraient dû être incluses dans les calculs. Sinon, les calculs ne peuvent donner une représentation fidèle de la réalité. En effet, selon l’onglet 15 de la pièce I–1 (p. 7.75), en 2011, il y aurait eu des achats de 3650 boites de 14 po, alors qu’en 2010, l’appelante en a acquises 2550, et en 2012, 2850. On voit donc une grande différence en 2011, soit 1100 boites de plus qu’en 2010 et 800 de plus qu’en 2012. En 2011, l’appelante a dû acheter plus de boites de 14 po que nécessaire; ainsi, l’écart négatif relevé par la vérificatrice (pièce I–1, onglet 10, p. 7.5) est probablement erroné.
+[67] En ce qui concerne les autres tailles de boites, le nombre de boites achetées chaque année est demeuré stable. Il faut aussi noter que selon le MEV, la taille de pizza qui se vendait le plus était la pizza 14 po; ainsi, si l’on rejette les boites de cette taille, les résultats seront erronés (pièce I–1, onglet 10, p. 7.6).
+[68] Pour ces raisons, je suis d’avis que 30 % des ventes de l’appelante n’ont pas été déclarées, soit des ventes d’un montant total de 256 047 $ pour la période, réparti de la façon suivante :
+- Pour l’année 2009 : 58 074 $;
+- Pour l’année 2010 : 62 069 $;
+- Pour l’année 2011 : 67 562 $;
+- Pour l’année 2012 : 68 342 $.
+Il faut donc ajouter 12 802,35 $ au calcul de la taxe nette de l’appelante pour la période, et non pas 23 768,85 $ comme établi dans la cotisation.
+3) Est-ce que le ministre était fondé à imposer des pénalités de 5 942,23 $ pour la période en vertu de l’article 285 de la LTA?
+[69] L’article 285 de la LTA impose une pénalité à toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, une demande, un formulaire, un certificat, un état, une facture ou une réponse ou y participe, y consent ou y acquiesce. La partie pertinente de cet article se lit ainsi :
+285 Faux énoncés ou omissions — Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, une demande, un formulaire, un certificat, un état, une facture ou une réponse — appelés « déclaration » au présent article — établi pour une période de déclaration ou une opération, ou y participe, y consent ou y acquiesce, est passible d’une pénalité de 250 $ ou, s’il est plus élevé, d’un montant égal à 25 % de la somme des montants suivants :
+[…]
+285 False statements or omissions — Every person who knowingly, or under circumstances amounting to gross negligence, makes or participates in, assents to or acquiesces in the making of a false statement or omission in a return, application, form, certificate, statement, invoice or answer (each of which is in this section referred to as a “return”) made in respect of a reporting period or transaction is liable to a penalty of the greater of $250 and 25% of the total of
+. . .
+[70] Le fardeau d’établir les faits qui justifient l’imposition de la pénalité repose sur le ministre et non sur le contribuable. Le paragraphe 285.1(16) de la LTA se lit comme suit :
+285.1(16) Charge de la preuve relativement aux pénalités — Dans tout appel interjeté en vertu de la présente partie au sujet d’une pénalité imposée par le ministre en vertu du présent article ou de l’article 285, le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+285.1(16) Burden of proof in respect of penalties — If, in an appeal under this Part, a penalty assessed by the Minister under this section or section 285 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[71] Selon le libellé de l’article 285 de la LTA, deux éléments doivent être présents pour conclure à l’application d’une pénalité pour faute lourde : (1) un élément mental : « sciemment ou dans des circonstances équivalant à faute lourde »; (2) un élément physique : « fait un faux énoncé ou une omission ».
+[72] Il a été établi que l’appelante a produit ses déclarations de taxes pour la période; ainsi, l’élément physique est présent en l’espèce. Mais qu’en est-il de l’élément mental?
+[73] Dans Prud’homme c. La Reine, 2005 CCI 423, 2005 DTC 1117, le juge Dussault a formulé le commentaire suivant en discutant d’une disposition similaire dans la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) :
+[47] […] les faits qui justifient l’imposition d'une pénalité pour faute lourde en vertu du paragraphe 163(2) de la Loi doivent être analysés en fonction de leur contexte particulier, ce qui rend toute comparaison avec les faits d’une autre situation purement aléatoire, sinon carrément dangereuse.
+[74] La notion de « faute lourde » a été définie par le juge Strayer dans la décision Venne c. La Reine, [1984] ACF no 314 (C.F. 1re inst.) :
+[…] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi. […]
+[75] Dans DeCosta c. La Reine, 2005 CCI 545, [2005] ACI no 396 (procédure informelle), le juge en chef Bowman a indiqué ce qui suit :
+[11] Pour établir la distinction entre la faute « ordinaire » ou la négligence et la faute « lourde », il faut examiner plusieurs facteurs. Un de ces facteurs est bien entendu l’importance de l’omission relative au revenu déclaré. Il y a aussi la faculté du contribuable de découvrir l’erreur, ainsi que le niveau d’instruction du contribuable et son intelligence apparente. Il n’existe aucun facteur qui soit prédominant. Il faut accorder à chacun des facteurs le poids qu’il convient dans le contexte de l’ensemble de la preuve.
+[76] Le procureur de l’appelante a précisé que monsieur Hamade a démontré sa bonne foi : il se conformait à ses obligations, il payait les taxes dues tous les 3 mois et il envoyait les rapports du MEV comme l’exigeait la loi. Au cours de la vérification, il a remis toutes les factures à la vérificatrice et a collaboré avec elle. De plus, le procureur de l’appelante a ajouté que monsieur Hamade était un citoyen qui avait contribué à l’essor de notre pays. Je ne peux accepter ces argument afin d’annuler la pénalité en vertu de l’article 285 de la LTA.
+[77] En l’espèce, l’intimée a démontré, selon la prépondérance de la preuve, que l’appelante a sciemment, ou dans des circonstances équivalant à « faute lourde » telle que définie dans la décision Venne, fait un faux énoncé ou une omission dans ses déclarations de taxes pour la période. La preuve démontre que le tiroir-caisse demeurait souvent ouvert entre les ventes et que les ventes déclarées correspondaient aux ventes enregistrées par le MEV (et ainsi, si le tiroir-caisse n’était pas fermé, rien n’apparaissait au MEV). De plus, les ventes non déclarées représentent 30 % des ventes. Ces facteurs, à mon avis, ne démontrent pas simplement une faute ordinaire, mais plutôt une faute lourde.
+[78] Selon la preuve, l’appelante a fait des omissions importantes et répétées dans les déclarations de taxes pour la période en ne déclarant pas la totalité de ses ventes, et ainsi, la seule conclusion possible est que l’appelante a dissimulé intentionnellement une partie importante de ses ventes pour la période. Comme l’a conclu le juge Hogan dans l’affaire 4340876 Canada Inc. c. La Reine, 2014 CCI 351, [2014] ACI no 299 : « Ceci équivaut à une faute lourde qui justifie l’imposition par le ministre d’une pénalité en vertu de l’article 285 de la LTA » (par. 24).
+E. conclusion [79] L’appel interjeté à l’encontre de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise, dont l’avis est daté du 15 juillet 2013 et porte sur les 16 périodes de déclarations trimestrielles comprises entre le 1er janvier 2009 et le 31 décembre 2012, est accueilli, sans frais, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation afin que le montant de l’ajout au calcul de la taxe nette de l’appelante pour la période soit réduit de 23 768,85 $ à 12 802,35 $ et que les intérêts et les pénalités soient ajustés en conséquence.
+Signé à Ottawa, Canada, le 14e jour de septembre 2016.
+« Dominique Lafleur »
+La juge Lafleur
+RÉFÉRENCE :
+2016 CCI 198
+NO DE DOSSIER DE LA COUR :
+2015-710(GST)I
+INTITULÉ :
+9091-2239 QUÉBEC INC. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATES DE L’AUDIENCE :
+Les 25 et 26 avril et le 23 juin 2016 (Ottawa, conférence téléphonique)
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Dominique Lafleur
+DATE DU JUGEMENT :
+Le 14 septembre 2016
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Patrick E. Farley
+Avocat de l’intimée :
+Me Nicolas C. Ammerlaan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Patrick E. Farley
+Cabinet :
+Farley Legal Services Ltd.
+Montréal (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Depuis le 1er novembre 2011, les restaurateurs doivent utiliser un MEV afin d’enregistrer les données relatives aux activités commerciales des établissements (article 350.52 de la Loi sur la taxe de vente du Québec). Ainsi, les restaurateurs doivent obligatoirement fournir une facture comportant un code à barres provenant du MEV. Il faut également noter que les restaurateurs ont accès aux informations enregistrées dans le MEV.

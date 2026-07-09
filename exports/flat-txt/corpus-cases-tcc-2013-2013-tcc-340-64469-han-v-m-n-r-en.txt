@@ -1,0 +1,114 @@
+Title: Han v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64469/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-340-64469-han-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2013-10-28
+
+# Han v. M.N.R.
+
+- Citation: 2013 TCC 340
+- Decision date: 2013-10-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5935, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Han v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-10-28
+Neutral citation
+2013 TCC 340
+File numbers
+2013-2113(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2013-2113(EI)
+2013-2114(CPP)
+BETWEEN:
+ZHIYAN HAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 22, 2013 at Toronto, Ontario
+By: The Honourable Justice Judith M. Woods
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Tony Cheung
+____________________________________________________________________
+JUDGMENT
+The appeals, with respect to decisions of the respondent that the appellant did not have insurable employment within the meaning of the Employment Insurance Act or pensionable employment within the meaning of the Canada Pension Plan with EHERE International Corporation during the period from April 3, 2006 to September 22, 2006, are dismissed, and the decisions are confirmed. The parties shall bear their own costs.
+Signed at Ottawa, Ontario this 28th day of October 2013.
+“J. M. Woods”
+Woods J.
+Citation: 2013 TCC 340
+Date: 20131028
+Dockets: 2013-2113(EI)
+2013-2114(CPP)
+BETWEEN:
+ZHIYAN HAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Zhiyan Han appeals from the Minister’s decisions under the Employment Insurance Act and the Canada Pension Plan that she was not engaged in insurable or pensionable employment with EHERE International Corporation (the “Corporation”) during the period from April 3, 2006 to September 22, 2006.
+[2] The basis for the Minister’s decisions was that an employer-employee relationship did not exist (Letter dated March 19, 2013).
+[3] In these appeals, the Minister submits that the decisions should be confirmed because Ms. Han did not actually work for the Corporation. Rather, the Minister submits that Ms. Han, her spouse, Yanhui Wen, and the Corporation participated in a scheme to create a paper trail which was designed to enable her to falsely claim benefits under the Employment Insurance Act.
+[4] Ms. Han’s position is that she had a valid contract of service and that she performed services during regular work hours of approximately 8 hours per day.
+[5] Ms. Han was the only witness at the hearing.
+[6] The central background facts may be briefly stated. The Corporation was incorporated on March 30, 2006 in order to operate a business involving the import and export of electronics. It appears that the business was wound down after a few years.
+[7] The principal shareholder of the Corporation was Yunxue Liu, who was an acquaintance of Mr. Wen.
+[8] Ms. Han testified that she commenced working for the Corporation around the time of its incorporation as an office clerk and bookkeeper. She stated that she was employed for eight hours per day, and that she left the employment several months later just before giving birth. Ms. Han testified that she returned to the Corporation a year later to work for a few months.
+[9] Mr. Wen also worked for the Corporation and was a director. Ms. Han testified that he was associated with the Corporation from March 20, 2006 to September 3, 2010.
+Discussion
+[10] The issue to be decided is whether Ms. Han was employed in insurable and pensionable employment with the Corporation during the Period.
+[11] Ms. Han has the initial burden to establish that she worked for the Corporation for 8 hours per day during the Period. The burden has not been satisfied, either on a prima facie basis or on a balance of probabilities.
+[12] Ms. Han’s testimony was self-interested and too brief to be persuasive. I also note that Ms. Han did not provide any supporting documentation except for documents that could easily have been fabricated, such as a pay summary and a record of employment.
+[13] In the Reply, the Minister assumed that the Corporation’s business was not active until 2007.
+[14] Ms. Han successfully demolished this assumption by introducing an invoice for the purchase of electronic equipment that was issued to the Corporation in November 2006, a couple of months after her employment ended. Ms. Han seems to suggest that this invoice supports her position because the Corporation was required to do marketing and research in advance of purchasing this equipment.
+[15] The problem that I have with this submission is that there is no third party evidence that links Ms. Han with any work done by the Corporation. Even if I accept that the Corporation was conducting marketing and research during the period at issue, there is no reliable evidence that Ms. Han performed any of the work.
+[16] Further, Ms. Han testified that she worked regular 8 hour work days. It seems unlikely that Ms. Han could have been occupied doing office work and bookkeeping for 8 hours a day during the infancy of the Corporation.
+[17] Turning to the evidence led by the Crown, it introduced some evidence to support its submission that Ms. Han was involved in a scheme to falsely claim employment insurance benefits. The evidence consisted of bank records which show that Mr. Wen made deposits into the Corporation’s bank account from which Ms. Han received payments purporting to be remuneration.
+[18] Ms. Han testified that the deposits by her spouse were an investment with the Corporation. This brief explanation was not persuasive.
+[19] In addition, during cross-examination Ms. Han was asked about a Canada Revenue Agency questionnaire signed by her spouse. In the questionnaire, Mr. Wen stated that the Corporation owed him several thousand dollars and that most of this investment was Ms. Han’s salary. Ms. Han testified that she had no idea whether this was true.
+[20] I have given no weight to this document because the Minister did not subpoena Mr. Wen to testify. However, Ms. Han’s testimony on this point is significant. I simply do not find it credible that Ms. Han had no idea whether the statements in the questionnaire above were true.
+[21] This is sufficient to dispose of Ms. Han’s appeal.
+[22] Finally, I would mention that some of the factual assumptions in paragraph 8 of the Reply may not be within the knowledge of Ms. Han and are within the knowledge of the Minister. I have not taken these assumptions into account. For example, an assumption was made that an investigation revealed that the Corporation was implicated in a scheme that involved the issuance of false ROEs (Record of Employment) to individuals so that they could claim employment insurance benefits that they were not entitled to.
+[23] The Minister could have led evidence to support this assumption and chose not to. I have not taken these assumptions into account.
+[24] As it turns out, these particular assumptions are not crucial to the Minister’s case. Ms. Han has failed to establish that she was employed by the Corporation for eight hours per day, or even at all. The appeals will be dismissed and the decisions will be confirmed.
+Signed at Ottawa, Ontario this 28th day of October 2013.
+“J. M. Woods”
+Woods J.
+CITATION: 2013 TCC 340
+COURT FILE NOS.: 2013-2113(EI)
+2013-2114(CPP)
+STYLE OF CAUSE: ZHIYAN HAN and THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 22, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: October 28, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Tony Cheung
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

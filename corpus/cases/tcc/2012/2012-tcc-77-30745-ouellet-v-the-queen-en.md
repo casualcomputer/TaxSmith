@@ -1,0 +1,260 @@
+---
+title: "Ouellet v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30745/index.do"
+last_modified: "2012-03-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 77"
+citation2: ""
+neutral_citation: "2012 TCC 77"
+decision_date: "2012-03-23"
+language: "en"
+item_id: "30745"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7481
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:31:15.816000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cf172929b554eac1045042b95f41c13aebb897fab27e0d58689ee56d18689d35"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ouellet v. The Queen
+
+- Citation: 2012 TCC 77
+- Decision date: 2012-03-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7481, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ouellet v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-03-23
+Neutral citation
+2012 TCC 77
+File numbers
+2008-1999(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2012 TCC 77
+Date: 20120314
+Docket: 2008-1999(IT)G
+BETWEEN:
+JOSÉE OUELLET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from an assessment made pursuant to section 160 of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the Act), dated December 20, 2005, and bearing the number 35111. In this assessment, the Minister of National Revenue (the Minister) is claiming $33,264.64 from the appellant. At the hearing, the Minister agreed to reduce the assessment to $20,622 on grounds of fairness, following an out-of-court settlement between the appellant and the Quebec tax authorities, in particular with respect to the application of section 14.4 of the Tax Administration Act (TAA) (formerly the Act respecting the Ministère du Revenu), a recovery provision that is Quebec’s provincial equivalent to section 160 of the Act.
+[2] In making and confirming the assessment, the Minister relied on the following assumptions of fact:
+[translation]
+(a) According to the Minister’s records, the appellant and Mario Gagnon (hereinafter, the husband), have been married since 1990;
+(b) During the 2003, 2004 and 2005 taxation years, the husband made transfers through bank deposits into the appellant’s account (hereinafter, the property);
+(c) In regard to the property, the Minister determined that a benefit had been conferred on the appellant in the amount of $60,480.87, calculated as follows:
+Description
+Value of property
+Amount
+$60,480.87
+Consideration given
+$0
+Benefit received
+$60,480.87
+(d) As of December 20, 2005, the husband owed the Minister for the 2000, 2001 and 2004 taxation years a debt totalling $33,264.64, broken down as follows:
+Description
+Taxes
+Penalties
+Interest
+Amount
+$18,321.95
+$6,631.44
+$8,311.25
+(e) The husband, who was the transferor, had, as of December 20, 2005, an outstanding tax liability totalling $33,264.64 (taxes, penalties and interest) for the 2000, 2001 and 2004 taxation years, and as the appellant had received from him a benefit of $60,480.87, the Minister found that the appellant and the husband were jointly and severally liable for the husband’s debt to the extent of $33,264.64.
+Appellant’s position
+[3] During the hearing, the appellant did not challenge the validity of the assessments made against her husband for the 2000, 2001 and 2004 taxation years, or the amount of the transfers made by her husband to her bank accounts.
+[4] However, the appellant made the following submissions:
+(a) the payment of funds by her husband into the appellant’s bank accounts are not transfers within the meaning of section 160 of the Act because the money was deposited to bank accounts by him as a mandatary only, because her husband’s bank accounts and the couple’s joint accounts had been seized by the federal and Quebec tax authorities;
+(b) her husband transferred the funds to the appellant’s bank accounts to fulfil his legal obligation to contribute toward the expenses of the marriage. The appellant has only a modest income and her family includes four teenagers;
+(c) the appellant provided consideration for the funds paid by her husband, which consideration consisted in her contributing to meeting the family obligations by performing housework;
+(d) there was no enrichment of the appellant following the payment of the funds by her husband;
+(e) section 160 of the Act violates section 15 of the Canadian Charter of Rights and Freedoms (the Charter) and, consequently, is unconstitutional. According to counsel for the appellant, section 160 of the Act creates a double taxation of the amounts transferred through its combined effect with section 14.4 of the TAA, thereby creating inequality between residents of Quebec and those of other provinces as regards federal tax payable.
+Respondent’s position
+[5] The Minister argued that because of her husband’s tax liability and the amounts she received from her husband, the appellant is jointly and severally liable for her husband’s debt to the amount of $33,264.64 pursuant to section 160 of the Act.
+[6] Counsel for the respondent also submitted that section 160 of the Act does not violate section 15 of the Charter and is therefore not invalid.
+The testimony
+[7] The appellant and her husband, Mario Gagnon, testified at the hearing, as did Stéphane Georgeff from the Canada Revenue Agency (the CRA).
+[8] Mario Gagnon, a roofer who worked for himself and for other contractors, explained that he went bankrupt on September 1, 2000. He confirmed that all his bank accounts were seized in 2001 by the federal and Quebec tax authorities because of tax liabilities that arose after the bankruptcy. To remedy the situation, two bank accounts were opened in the appellant’s name at the Caisse populaire Les Estacades: one for the deposit of Mario Gagnon’s cheques and the other for the appellant’s personal transactions. Mario Gagnon explained that the account in which he deposited his cheques was used to pay for groceries and the children’s school supplies and to cover family expenses of all sorts and the mortgage payments on the family residence. He said he had an ATM card for this account, which enabled him to withdraw funds as needed. He stated that the appellant also had an ATM card giving her access to both bank accounts at the Caisse populaire Les Estacades.
+[9] Mr. Gagnon confirmed that he had lived continuously at the family residence at 2360 Notre-Dame Street in Sainte-Marthe-du-Cap-de-la-Madeleine. Mr. Gagnon and the appellant acquired the property on September 19, 1994, for $49,500, having financed the purchase through loans from the Caisse populaire Notre-Dame at an interest rate of 6.95% per year and guaranteed by primary hypothecs totalling $37,125 and an additional hypothec of $7,425.
+[10] According to Mr. Gagnon, on April 12, 1995, he and the appellant borrowed $20,000 from Michel Mayrand to carry out renovations to the residence; this loan had an interest rate of 18% per year, and was secured by hypothecs totalling $20,000 and an additional hypothec of $4,000.
+[11] Mr. Gagnon confirmed that on May 3, 2000, he and his wife received from Mr. Mayrand notice of the exercise of a hypothecary right (taking in payment) when they had been in default only since May 1, 2000, and the arrears due and payable only amounted to $410.77. The balance owing on the debt on April 30, 2000, was $17,691.92 in total, consisting of $17,430.46 in principal and $261.46 in interest.
+[12] Mr. Gagnon acknowledged that a judgment was rendered by the Superior Court of Quebec on August 8, 2000, ordering the respondents Mario Gagnon and Josée Ouellet to surrender their residence to the claimant, Michel Mayrand, for the purposes of taking in payment and declaring that the claimant had taken the building in question in payment and was the sole owner thereof retroactively to the date the notice was registered, namely, May 12, 2000. On September 8, 2000, counsel for Michel Mayrand attested to the content of the summary of the Superior Court judgment and signed the statements or particulars required under the Act respecting duties on transfers of immovables (R.S.Q., c. D-15.1) indicating in particular that the amount of the consideration was $18,000 and the amount constituting the basis of imposition for the transfer tax was $115,600.
+[13] Mr. Gagnon admits he went bankrupt on September 1, 2000, at which time he had only $21,500 in total assets, including $15,000 in a registered retirement savings plan, which is exempt from seizure.
+[14] Mr. Gagnon also admitted that, by a deed of sale dated November 21, 2000, Mr. Mayrand sold the family residence to the appellant for $58,625.04, payable, as to the amount of $31,942.81, through payment to the Caisse populaire de Notre-Dame des Trois-Rivières of the balance of the principal owing on November 11, 2000, and the $26,682.23 balance of the sale price at an interest rate of 18% was payable in equal and consecutive monthly payments of $469.83 from December 1, 2000, to November 1, 2001. The balance of the sale price was guaranteed by hypothecs on the residence. The basis of imposition of the transfer tax was $126,600 (residence and land) at that time.
+[15] The witness explained that he deposited all his cheques in the appellant’s accounts and paid his personal expenses through withdrawals made with his ATM card. He further stated that he had made transfers of funds into three accounts opened in the appellant’s name. The account at the Caisse populaire Les Estacades was opened on October 31, 2003, and the following amounts were deposited in that account:
+2003 = $5,467.15
+2004 = $33,677.28
+2005 = $3,867.04
+[16] The account at the Caisse populaire Laviolette was opened on June 26, 2003, and Mr. Gagnon deposited $10,459.77 in that account in 2003. From 2000 to 2003, the appellant and her husband had a joint bank account at that institution.
+[17] The account at the Bank of Montreal was opened on May 8, 2003, and Mr. Gagnon deposited the following amounts in that account:
+2004 = $6,188.78
+2005 = $1,434.00
+[18] The amounts Mr. Gagnon deposited to these three bank accounts totalled $61,094.02.
+[19] According to Mr. Gagnon, the appellant did not have to ask his permission to make withdrawals from the accounts mentioned in the preceding paragraph.
+[20] The appellant testified at the hearing. From 2004, she was a monitor for drivers of buses for people with disabilities. She was on call for two-hour periods in the morning or afternoon, and earned $9 an hour.
+[21] The appellant acknowledged she had had discussions with Mr. Mayrand in the context of the taking in payment of the residence. She did not want to move her family. She said she paid rent to Mr. Mayrand in order to be able to stay there until she bought the residence back. According to her, Mr. Mayrand was not interested in keeping the residence because it was not in good condition.
+[22] During her testimony, she explained that she had her own account at the Caisse populaire Les Estacades. She stated she had savings of some $7,000 from her family allowance and child tax benefits. She also explained that the amounts her husband deposited in the bank accounts barely covered the family expenses and, at the end of the year, there was nothing left in those accounts.
+[23] According to her, the transactions on the bank accounts in which her husband deposited money were carried out according to her husband’s instructions.
+[24] The third and last witness to be heard at the hearing was Stéphane Georgeff from the CRA. He explained that Mr. Gagnon did not file an income tax return for the 2000 and 2001 taxation years but did file one for 2004. Arbitrary assessments for $33,000 were made against him for 2000, 2001 and 2004. During the collection procedures, he realized that Mr. Gagnon had transferred money to the appellant, hence the assessment under section 160 of the Act.
+[25] Mr. Georgeff indicated that the deposits made by the appellant’s husband to the appellant’s bank accounts during the 2003, 2004 and 2005 taxation years, $106,776.58 in total, exceeded the net income the appellant reported (after deduction of the federal tax that was withheld), that is, $26,505 in total for that same period, for a difference in the neighbourhood of $80,000. According to the witness, this shows that the appellant’s husband transferred amounts to the appellant’s bank accounts that were greater than the $61,094.02 the CRA used for the purposes of the assessment issued to the appellant.
+Analysis
+[26] The relevant parts of subsection 160(1) of the Act state:
+160(1) Tax liability re property transferred not at arm’s length. Where a person has . . . transferred property . . . directly . . . by means of a trust or by any other means whatever, to
+(a) the person’s spouse . . .
+. . .
+the following rules apply:
+. . .
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+[27] In Livingston v. R., [2008] 3 C.T.C. 203 (F.C.A.), the Federal Court of Appeal stated four necessary conditions for the application of subsection 160(1):
+17. In light of the clear meaning of the words of subsection 160(1), the criteria to apply when considering subsection 160(1) are self-evident:
+(1) The transferor must be liable to pay tax under the Act at the time of transfer;
+(2) There must be a transfer of property, either directly or indirectly, by means of a trust or by any other means whatever;
+(3) The transferee must either be:
+i. The transferor’s spouse or common-law partner at the time of transfer or a person who has since become the person’s spouse or common-law partner;
+ii. A person who was under 18 years of age at the time of transfer; or
+iii. A person with whom the transferor was not dealing at arm’s length.
+(4) The fair market value of the property transferred must exceed the fair market value of the consideration given by the transferee.
+[28] In the case at bar, Mr. Gagnon’s liability to pay tax under the Act at the time of the transfers of money was admitted, and the assessments against him were not challenged and were acknowledged to be valid.
+[29] The second condition is there must be a transfer of property. The total amount of the transfers, namely $61,094.02, was admitted, and it was clearly established in Livingston, supra, that “[t]he deposit of funds into another person’s bank account constitutes a transfer of property” (para. 21).
+[30] In Medland v. Canada, 98 DTC 6358, the Federal Court of Appeal held that the object and spirit of subsection 160(1) “is to prevent a taxpayer from transferring his property to his spouse in order to thwart the Minister’s efforts to collect the money which is owned [sic] to him.” In this regard, what must be taken from the evidence is the following:
+(a) the total amount (around $80,000) of the deposits the appellant’s husband made to the appellant’s account was greater than the $61,094.02 admitted by the appellant;
+(b) the appellant’s spouse’s assets were diminished in the months preceding his bankruptcy by the removal of the only seizable asset following the taking of the residence in payment on account of a late payment of an amount of $410.77 out of a total debt of $17,691.91, and the acquisition of that residence by the appellant for a sum of $58,625.04 with no outlay of funds, when the residence was worth at least $126,600;
+(c) the admission, in the appellant’s and her husband’s testimony, that the bank accounts had been opened in 2003 because Mr. Gagnon’s bank accounts had been seized by the federal and Quebec tax authorities and that, consequently, they had been opened to the detriment of the creditors;
+(d) according to the appellant’s and her husband’s testimony, all of the funds transferred were used to meet family obligations and to pay the hypothec on the residence. The appellant used the three bank accounts and had access to them through two ATM cards, and she even occasionally made deposits into the accounts. The bank accounts were used by both spouses, except for the Bank of Montreal account, from which the appellant’s husband could not make withdrawals.
+[31] The third condition for subsection 160(1) to apply is met in this case, since the transferee was Mr. Gagnon’s spouse. The appellant and her husband had been married under the regime of the partnership of acquests since 1990.
+[32] The fourth and last condition involves determining whether the transferee provided sufficient consideration to the transferor. In Yates v. Canada, 2009 FCA 50, the Federal Court of Appeal reversed in the following terms the line of cases regarding the obligation to support one’s family :
+16 A reading of section 160 makes it clear that the only exception provided under the Act is that of subsection 160(4) of the Act.
+17 The line of cases illustrated by Michaud v. Canada, [1998] T.C.J. No. 908 (QL); Ferracuti v. Canada, [1998] T.C.J. No. 883 (QL), Laframboise v. Canada, [2002] T.C.J. No. 628 (QL), which takes the position that payments made by one spouse to another in satisfaction of a legal obligation to support his or her family are beyond the reach of section 160, is not supported by the legislation.
+[33] Family obligations do exist but cannot constitute a legal basis for avoiding the application of section 160.
+[34] In Waugh v. Canada, [2008] F.C.J. No. 669 (QL), the Federal Court of Appeal reiterated what it stated in Machtinger v. Canada, 2001 DTC 5054, regarding the burden of establishing the fair market value of any consideration provided in exchange for transferred property:
+. . . this Court held that in the face of an assumption by the Minister that no consideration has been provided for a transfer of property, as contemplated by subsection 160(1) of the ITA, the transferee has the burden of establishing the fair market value of any consideration that has allegedly been provided in exchange for the transferred property.
+[35] In the present case, there is no evidence from which it can be concluded that a clear and explicit mandate existed whereby the amounts Mr. Gagnon transferred would have been held by the appellant as her husband’s mandatary, or that, when the transfers of property took place, Mr. Gagnon received consideration the fair market value of which was equivalent to the value of the transferred property.
+[36] There is no evidence in the record establishing a correlation between the value of the appellant’s contribution and the fair market value of the amounts deposited in the bank accounts.
+[37] The issue of whether the appellant was enriched or obtained some benefit as a consequence of the transfers of property is, according to the Federal Court of Appeal, irrelevant for the purpose of the application of subsection 160(1) of the Act (see Livingston, supra, at paragraph 24).
+[38] In any case, it seems clear to me that the amounts used to repay the hypothecary loan on the family residence passed from Mr. Gagnon’s assets to the appellant’s without any consideration being given therefor.
+Does section 160 violate section 15 of the Canadian Charter of Rights and Freedoms?
+Facts specifically related to this question
+[39] The facts specifically related to this question, as stated in the Notice of Constitutional Question (form 69) dated August 30, 2010, are the following:
+[translation]
+1. The appellant presents the facts without recognizing the MNR’s rights, certain statements being made without any admission of the correctness of the assessments;
+2. The appellant is the spouse of a taxpayer assessed by the Minister of National Revenue;
+3. The appellant was assessed pursuant to section 160 of the Income Tax Act and section 325 of the Excise Tax Act;
+4. The appellant had previously been assessed by the Ministère du Revenu du Québec under section 14.4 of the Act respecting the Ministère du Revenu;
+5. Essentially, section 14.4 of the Act respecting the Ministère du Revenu, section 325 of the Excise Tax Act and section 160 of the Income Tax Act are practically identical in terms of wording and the legislator’s intent, that intent being joint and several liability with respect to the payment of the tax liabilities of the principal debtor, called the “transferor”, by the “transferee”, in this case the taxpayer assessed under these sections;
+6. Josée Ouellet, the appellant, was in fact assessed under section 14.4 of the Act respecting the Ministère du Revenu for the amount of $59,394.02 in respect of hypothec payments made by her husband, Mario Gagnon;
+7. Josée Ouellet was then assessed under section 325 of the Excise Tax Act on the basis that the amount of $59,394.02 had been transferred by her husband to her account for no consideration; this assessment was for $11,152.32, represented in docket 2007‑4954(GST)I;
+8. Josée Ouellet was then assessed under section 160 of the Income Tax Act, on the basis that the amount of $59,394.02 had been transferred by her husband without consideration to her account, this assessment being for $11,152.32, all of which is set out in docket 2007‑4954(GST)I;
+9. It can readily be seen that if Josée Ouellet had paid all the assessments received, she would have paid twice the amount allegedly received through her husband;
+10. Josée Ouellet paid Revenue Québec $39,858.34 pursuant to section 14.4 of the AMR in a settlement that took place on or around December 22, 2008;
+11. At the case management hearing on October 28, 2009, counsel for Her Majesty, Vlad Zolia, gave the Tax Court of Canada to understand that Her Majesty considered that the amount Josée Ouellet had paid to the provincial government, that is, $39,858.34, would be subtracted from the amounts Her Majesty was attempting to recover from Josée Ouellet in the above-noted case;
+12. In this context, despite clear wording in section 160 and allegations that the amount of the assessment being objected to and appealed is owing, Her Majesty’s representative admits that, from an administrative standpoint, he will not apply the Act;
+13. Her Majesty’s behaviour runs counter to the objective of the Income Tax Act, which is the collection of funds for the public treasury;
+14. The Act must apply equally to all; if Her Majesty waives its application, it is because she recognizes that the effect of the Act is unfair to Quebec residents, in particular the appellant, and thus implicitly recognizes that section 160 of the ITA has a significant deficiency.
+Legal basis of the constitutional question
+[40] The legal basis of the constitutional question, as stated in the Notice of Constitutional Question, is the following:
+[translation]
+(A) Section 160 of the ITA is unconstitutional in that it violates section 15 of the Canadian Charter of Rights and Freedoms and section 10 of the Charter of Human Rights and Freedoms;
+(B) Moreover, the combined effect of section 14.4 of the Act respecting the Ministère du Revenu, section 325 of the Excise Tax Act and section 160 of the Income Tax Act is contrary to the principles of the rule of law in that the Act does not apply equally to all, since for the same transfer of property, a person being assessed elsewhere in Canada is only liable to pay the amount transferred, but a person residing in Quebec is liable to pay twice as much;
+(C) Indeed, section 160 of the ITA creates a double taxation of amounts transferred between related persons through its combined effect with section 14.4 of the AMR as well as section 325 of the ETA;
+(D) Thus, it creates inequality between residents of Quebec and those of other provinces with regard to tax payable on a transfer (through joint and several liability for payment);
+(E) To the extent that the amount of tax owed by the transferor exceeds the amount transferred within the meaning of section 160 of the ITA, all residents of Quebec assessed under section 160 of the ITA or section 14.4 of the AMR or section 325 of the ETA are liable to pay more by virtue of joint liability for payment of tax than the amount of the transfer that gave rise to the assessment;
+(F) Given the possibility that the legislator has of creating a provincial-federal tax credit specifically for residents of Quebec, or even of providing for a proportional application of taxation percentage points, the potential problem of double taxation could be resolved simply and quickly.
+Issue of double taxation
+[41] The appellant questions the validity of section 160 of the Act, arguing that the combined effect of section 160 of the Act and section 14.4 of the TAA results in “double taxation” that only Quebec taxpayers have the burden of paying. The problem of “double taxation” is very real and arises when the federal and Quebec tax authorities both assess the transferee for the full amount of the same transfer in a case where the tax liabilities of the transferor toward the CRA and the Ministère du Revenu du Québec are both greater than the value of the property transferred.
+[42] Despite the lack of clear legislative measures to eliminate the problem, the competent tax authorities tend to be empathetic towards taxpayers who are subject to “double taxation” in such circumstances. Indeed, this is what happened in the appellant’s case. The Minister agreed, on grounds of fairness, to reduce the amount assessed under section 160 to $20,622.53, which corresponds to the difference between the value of the transferred property ($60,480.87) and the amount paid to Quebec tax authorities pursuant to the assessments made against the appellant under section 14.4 of the TAA ($39,858.34).
+[43] The same problem also exists at the federal level through the combined effect of section 160 of the Act and section 325 of the ETA. Section 325 and section 160 are alike in all respects except that the amounts already assessed with respect to a transfer under section 160 must be deducted from amounts that may be claimed from the transferee pursuant to section 325 of the ETA. This is a partial solution because the amounts first assessed under section 325 of the ETA cannot defeat a subsequent assessment made under section 160 of the Act.
+The Canadian Charter of Rights and Freedoms
+[44] According to the appellant, section 160 is unconstitutional because it violates the equality rights enunciated in section 15 of the Charter, which reads as follows:
+15(1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+(2) Subsection (1) does not preclude any law, program or activity that has as its object the amelioration of conditions of disadvantaged individuals or groups including those that are disadvantaged because of race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+[45] Subsection 15(1) of the Charter ensures the right to equality before and under the law and to equal protection and benefit of the law (Delisle v. Canada (Deputy Attorney General), [1999] 2 S.C.R. 989, paragraphs 25 to 27). Subsection 15(1) of the Charter meets this objective by protecting against discrimination based on one of the grounds listed in section 15 or on analogous grounds.
+[46] In R. v. Kapp, [2008] 2 S.C.R. 483, 2008 SCC 41, the Supreme Court of Canada explains at paragraph 16 that “[s]ection 15(1) is aimed at preventing discriminatory distinctions that impact adversely on members of groups identified by the grounds enumerated in s. 15 and analogous grounds.”
+[47] In R. v. Turpin, [1989] 1 S.C.R. 1296, Wilson J. commented as follows on behalf of the Supreme Court of Canada:
+The internal qualification in s. 15 that the differential treatment be “without discrimination” is determinative of whether or not there has been a violation of the section. It is only when one of the four equality rights has been denied with discrimination that the values protected by s. 15 are threatened and the court’s legitimate role as the protector of such values comes into play.
+[48] In Law v. Canada, [1999] 1 S.C.R. 497, the Supreme Court of Canada explains that there is discrimination within the meaning of subsection 15(1) when differential treatment, if it exists, violates the human dignity or freedom of a person or group. In this decision, Iacobucci J. stated the following at paragraph 51:
+. . . It may be said that the purpose of s. 15(1) is to prevent the violation of essential human dignity and freedom through the imposition of disadvantage, stereotyping, or political or social prejudice, and to promote a society in which all persons enjoy equal recognition at law as human beings or as members of Canadian society, equally capable and equally deserving of concern, respect and consideration. Legislation which effects differential treatment between individuals or groups will violate this fundamental purpose where those who are subject to differential treatment fall within one or more enumerated or analogous grounds, and where the differential treatment reflects the stereotypical application of presumed group or personal characteristics, or otherwise has the effect of perpetuating or promoting the view that the individual is less capable, or less worthy of recognition or value as a human being or as a member of Canadian society. Alternatively, differential treatment will not likely constitute discrimination within the purpose of s. 15(1) where it does not violate the human dignity or freedom of a person or group in this way, and in particular where the differential treatment also assists in ameliorating the position of the disadvantaged within Canadian society.
+[49] As written, section 160 of the Act does not create a distinction between Canadian taxpayers and it applies equally to all. Section 160 of the Act contains nothing that smacks of discrimination nor does it refer to any personal characteristic that would lead one to believe that residents of Quebec are treated differently than those of other provinces or that they can be identified with a group that is discriminated against.
+[50] The differential treatment of residents of Quebec results from a Quebec legislative provision, namely section 14.4 of the TAA, and not from section 160 of the Act, which is not discriminatory in itself.
+[51] In this context, it is appropriate to consider whether the province of residence can constitute an analogous ground of discrimination under subsection 15(1) of the Charter. The Supreme Court of Canada has had to deal with this issue on several occasions and has rarely conceded or recognized that the province of residence constituted an analogous ground of discrimination.
+[52] In R. v. S. (S.), [1990] 2 S.C.R. 254, the Supreme Court of Canada dismissed the argument that the province of Ontario’s failure to authorize “alternative measures programs” for the purposes of section 4 of the Young Offenders Act violated the right to equality protected by section 15 of the Charter because there were such programs for young offenders in all the other Canadian provinces. Dickson C.J. stated the following at page 285 of the decision:
+. . . Once it is determined that there is no duty on the Attorney General for Ontario to implement a program of alternative measures, the non‑exercise of discretion cannot be constitutionally attacked simply because it creates differences as between provinces. To find otherwise would potentially open to Charter scrutiny every jurisdictionally permissible exercise of power by a province, solely on the basis that it creates a distinction in how individuals are treated in different provinces. . . .
+[53] Dickson C.J. further stated at page 288:
+Obviously, the federal system of government itself demands that the values underlying s. 15(1) cannot be given unlimited scope. The division of powers not only permits differential treatment based upon province of residence, it mandates and encourages geographical distinction. There can be no question, then, that unequal treatment which stems solely from the exercise, by provincial legislators, of their legitimate jurisdictional powers cannot be the subject of a s. 15(1) challenge on the basis only that it creates distinctions based upon province of residence.
+[54] In Haig v. Canada, [1993] 2 S.C.R. 995, the Supreme Court of Canada had to determine whether restricting the right to vote during a Quebec referendum to individuals who had resided in Quebec for more than six months constituted a form of discrimination based on a ground analogous to those listed in subsection 15(1) of the Charter. The Court held as follows at page 1044:
+Against this background, the appellants submit that a person’s place of residence may be a personal characteristic which is analogous to those prohibited grounds listed in s. 15(1). Though this may well be true in a proper case, this case is not such a case. It would require a serious stretch of the imagination to find that persons moving to Quebec less than six months before a referendum date are analogous to persons suffering discrimination on the basis of race, religion or gender. People moving to Quebec less than six months before a referendum date do not suffer from stereotyping, or social prejudice. Though its members were unable to cast a ballot in the Quebec referendum, the group is not one which has suffered historical disadvantage, or political prejudice. Nor does the group appear to be “discrete and insular”. Membership in the group is highly fluid, with people constantly flowing in or out once they meet Quebec’s residency requirements. As they do not exhibit any of the traditional indicia of discrimination, I cannot find that new residents of a province constitute a group which merits the creation of a new s. 15(1) category.
+[55] The Supreme Court of Canada also made the following comment regarding the differential treatment that could arise in a federal political system such as ours (Haig, supra, pages 1046 and 1047).
+Clearly, in a federal system, province-based distinctions do not automatically give rise to a presumption of discrimination. Section 15(1) of the Charter, while prohibiting discrimination, does not alter the division of powers between governments, nor does it require that all federal legislation must always have uniform application to all provinces. It is worth emphasizing that, as Dickson C.J. commented in R. v. S. (S.), supra, at pp. 289-92, differential application of federal law in different provinces can be a legitimate means of promoting and advancing the values of a federal system. Differences between provinces are a rational part of the political reality in the federal process. Difference and discrimination are two different concepts and the presence of a difference will not automatically entail discrimination.
+[56] In light of the above-cited Supreme Court of Canada decisions, it is not clear that taxpayers’ province of residence can be an analogous ground of discrimination within the meaning of subsection 15(1) of the Charter. Each case, of course, turns on its own facts.
+[57] In the present appeal, the appellant did not establish:
+(a) that she belonged to a discrete and insular minority;
+(b) that this minority was defined by characteristics analogous to the grounds of discrimination listed in subsection 15(1) of the Charter; and
+(c) that the Act is prejudicial to this minority.
+[58] In fact, the appellant’s constitutional question is purely hypothetical because she is not subject to “double taxation” as a consequence of the combined application of section 160 of the Act and section 14.4 of the TAA. The concession made by counsel for the respondent at the start of the hearing was for the very purpose of avoiding the “double taxation” resulting from the combined application of section 160 of the Act and section 14.4 of the TAA. Moreover, it should be noted that the “double taxation” that might affect residents of Quebec is not automatic, but exists only potentially, in cases where the tax liability of the transferor toward both the CRA and the Ministère de Revenu du Québec is greater than the value of the property transferred.
+[59] At the hearing, counsel for the appellant did not argue either the rule of law or section 10 of the Charter.
+[60] For these reasons, the appeal from the assessment made pursuant to section 160 of the Act, dated December 20, 2005, is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment taking into account the concession made by the Minister on grounds of fairness, which was to reduce the amount assessed to $20,622.53. Section 160 does not violate subsection 15(1) of the Charter. Costs are awarded to the respondent.
+Signed at Ottawa, Canada, this 23rd day of March 2012.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 28th day of February 2014.
+Erich Klein, Revisor
+CITATION: 2012 TCC 77
+COURT FILE NO.: 2008-1999(IT)G
+STYLE OF CAUSE: Josée Ouellet v. Her Majesty the Queen
+PLACE OF HEARING: Shawinigan, Quebec
+DATE OF HEARING: October 17, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF AMENDED
+REASONS FOR JUDGMENT: March 23, 2012
+DATE OF JUDGMENT: March 14, 2012
+APPEARANCES:
+Counsel for the appellant:
+François Daigle
+Counsel for the respondent:
+Vlad Zolia
+Simon Vincent
+COUNSEL OF RECORD:
+For the appellant:
+Name: François Daigle
+Firm: Lacoursière Lebrun senc, avocats
+Trois-Rivières, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

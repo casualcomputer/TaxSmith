@@ -1,0 +1,341 @@
+Title: Trudel-Leblanc c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26915/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-7-26915-trudel-leblanc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-02-25
+
+# Trudel-Leblanc c. La Reine
+
+- Citation: 2003 CCI 7
+- Decision date: 2003-02-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 721, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Trudel-Leblanc c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-02-25
+Référence neutre
+2003 CCI 7
+Numéro de dossier
+2000-2073(IT)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-2073(IT)G
+ENTRE :
+VIVIANE TRUDEL-LEBLANC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+___________________________________________________________________
+Appel entendu le 30 septembre 2002 à New Carlisle (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me André A. Lévesque
+Avocat de l'intimée :
+Me Roger Roy
+____________________________________________________________________
+JUGEMENT
+L'appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1994, 1995 et 1998 est rejeté, avec frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour de février 2003.
+« Alain Tardif »
+J.C.C.I.
+Référence : 2003CCI7
+Date : 20030225
+Dossier : 2000-2073(IT)G
+ENTRE :
+VIVIANE TRUDEL-LEBLANC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif, C.C.I.
+[1] Il s'agit d'un appel pour les années d'imposition 1994, 1995 et 1998.
+[2] Pharmacienne depuis le début des années 1970, l'appelante a exercé ses activités professionnelles à compter d'août 1974, à titre de propriétaire unique d'une pharmacie à Bonaventure. Au mois de novembre 1977, sur les conseils de ses comptables, elle a créé une compagnie sous le nom de Trugesvi Inc.
+[3] À compter de la constitution de la compagnie, elle a poursuivi la pratique de sa profession sensiblement de la même façon, si ce n'est qu'elle a commencé à déposer tous les chèques faits à son ordre dans le nouveau compte de la compagnie Trugesvi Inc., dont elle possèdait la totalité des actions. En contrepartie, la compagnie lui a versé un salaire de 56 300 $ en 1994; 56 300 $ en 1995; et 55 817 $ en 1998.
+[4] Il s'agissait d'une pharmacie conventionnelle regroupant les deux composantes habituelles, soit l'une dite officine, comprenant la vente de médicaments sous ordonnance médicale et l'autre essentiellement commerciale regroupant la vente de multiples produits.
+[5] L'appelante a soutenu que la compagnie Trugesvi Inc. avait exploité au fil des ans la pharmacie; la compagnie déclarait tous les revenus, y compris ceux de la vente de médicaments sous ordonnance et les montants d'honoraires qu'elle recevait à titre personnel de pharmacienne.
+[6] Lors des années en litige, l'article 27 de la Loi sur la pharmacie stipulait que seul un pharmacien pouvait acheter et vendre des médicaments. Conséquemment, au moment où les nouvelles cotisations furent établies, il était interdit à une compagnie, bien que contrôlée par un pharmacien, d'acheter et vendre des médicaments dans le cadre de ses activités commerciales.
+[7] Manifestement ni l'appelante ni ses comptables ne connaissaient les dispositions restrictives de la loi à laquelle était assujettie les pharmaciens, puisqu'ils ont créé la compagnie Trugesvi Inc., dont la vocation était l'exploitation de la pharmacie. En d'autres termes, la nouvelle compagnie a été substituée à l'appelante pour tout ce qui était de l'exploitation de la pharmacie, jusque là, opérée par cette dernière, à titre personnel.
+[8] Après la création de la compagnie, l'appelante a continué d'agir sensiblement de la même façon, c'est-à-dire sans tenir compte de la réalité corporative, si ce n'est que toutes les transactions, dont celles relatives au paiement de ses honoraires personnels, transitaient par le compte de la compagnie.
+[9] Elle facturait à son nom personnel la Régie de l'assurance maladie du Québec; elle recevait les chèques à ce titre et les déposait dans le compte de la compagnie. Tout transitait par le compte de la compagnie. Il en était ainsi au niveau des achats de médicaments commandés à titre personnel mais payés au moyen de chèques de la compagnie.
+[10] Les questions visant à établir la démarcation ou la séparation entre les deux patrimoines financiers n'ont pas donné de résultat convaincant. À quelques reprises, j'ai constaté que l'appelante ne faisait, de toute évidence, aucune distinction entre ses affaires personnelles et celles de la compagnie dont elle était seule actionnaire.
+[11] Ce constat ressort clairement des extraits du témoignage de l'appelante :
+(aux pages 24 et 25) - (Viviane Trudel interrogée par Me Lévesque)
+...
+Q. Vous êtes au courant aujourd'hui, on vous a parlé, avec les gens de l'Agence du revenu et douanes du Canada que la Loi sur la pharmacie ne permettait pas, du moins à l'époque, qu'une corporation soit propriétaire d'une pharmacie. Est-ce que c'est exact?
+R. Répétez donc la question.
+Q. On vous a appris qu'une corporation, selon la Loi sur la pharmacie, ne pouvait pas être propriétaire d'une pharmacie.
+R. Bien, bien, moi, je disais un pharmacien ou une société de pharmaciens, bien, c'est-à-dire une société. Pour moi, la corporation c'était moi, là, je faisais pas de différence.
+Q. Mais au niveau de la loi, est-ce que vous aviez des problèmes avec l'Ordre des pharmaciens?
+R. Non, du tout, j'ai jamais eu de problèmes avec.
+Q. Est-ce qu'ils sont venus vous inspecter?
+R. Oui, mais pour au niveau de la pratique de la pharmacie, là.
+Q. Ils ne vous ont jamais parlé de ça.
+R. Non.
+...
+(de la page 27 à 30) (Viviane Trudel interrogée par Me Lévesque)
+...
+Q. Au niveau de cette façon d'opérer, est-ce que ce... qui vous avait dit d'opérer comme ça en corporation ou pourquoi vous êtes venue à vous incorporer en 1977?
+R. Bien, c'est le comptable qui nous a dit que c'était préférable de s'incorporer.
+Q. Et est-ce qu'il y a eu une entente à ce moment-là qu'est-ce que vous deviez faire, comment ça devait fonctionner?
+R. Non, tout était, comme j'étais cent pour cent (100 %) propriétaire, bien, on a fonctionné comme on fonctionnait toujours.
+...
+Q. Avec Familiprix, pour devenir partie avec cette compagnie-là, pour devenir associée avec eux, pour avoir la bannière Familiprix, est-ce que vous ne deviez pas acheter des actions de...
+R. Oui, oui.
+Q. ... de cette compagnie-là?
+R. Oui.
+Q. Ces actions-là ont été achetées par qui?
+R. Si je me souviens bien, c'est au nom de Vivianne Trudel.
+...
+Me André A. Lévesque :
+Bon, on va vous donner celui-ci, Monsieur le Juge. Il est identifié séparément de la déclaration fiscale, alors peut-être que ça serait plus facile.
+Me André A. Lévesque :
+Q. Alors, je vous exhibe, Madame Trudel, un état financier de votre compagnie Trugesvi au trente (30) novembre 95.
+R. Hum, hum.
+Q. Et plus particulièrement à la page 8. Au titre de placements dans la compagnie, alors on voit : « Actions de Familiprix » . On voyait quarante-deux mille cent une (42 101) actions au trente et un (31) août 95 puis, là, on voit la valeur de 21 000 $. Alors, ces actions-là, tantôt je vous ai posé la question qui les avait achetées, si je regarde l'état financier je vois que c'est la compagnie.
+R. Oui.
+Q. Est-ce que c'est le cas?
+R. Oui, oui, bien, c'est-à-dire la compagnie achetait toutes les actions...
+Q. La compagnie quoi?
+R. ... achetait toutes les ... ce qui était, ce qui était dû d'être acheté.
+Q. Alors, au niveau de l'association avec Familiprix, c'était votre corporation qui avait fait l'acquisition des actions de Familiprix.
+R. Oui, j'imagine là.
+...
+(aux pages 33 et 34) (Viviane Trudel contre-interrogée par Me Roy)
+...
+Q. Et vous avez dit que c'était un comptable qui vous a suggéré la création de cette corporation-là.
+R. Oui.
+Q. Est-ce que c'était une corporation de gestion?
+R. Oui, pour nous c'était ça, c'était une corporation de gestion.
+Q. Oui. Bien, dans quel but, faire une corporation de gestion?
+R. Dans quel but...
+Q. Je peux vous aider. Au préalable, vous avez dit : « Pour gérer les responsabilités » .
+R. Peut-être, oui.
+Q. Ça veut dire quoi, ça?
+R. Gérer les responsabilités, c'est-à-dire peut-être aussi au point de vue fiscal, je sais pas, Monsieur.
+Q. Vous dites peut-être aussi du point de vue fiscal. Alors, si je comprends bien aussi, Madame Trudel, vous aviez dans cet établissement deux opérations si on peut dire, vous aviez d'une part le laboratoire ou comment est-ce qu'on appelle? L'officine, en langage technique.
+...
+(de la page 39 à 41) (Viviane Trudel contre-interrogée par Me Roy)
+Q. Alors, Madame Trudel, je voudrais attirer votre attention sur la clause... le dossier, dans le dernier document que je viens de vous montrer, I-1-19. Sur la clause 4.3. Voulez-vous la lire à haute voix, 4.3 du document.
+R. « Il est bien entendu entre les parties que l'achalandage et les stocks de médicaments tant en vente libre qu'en laboratoire sont spécifiquement vendus de Viviane Trudel à Jean-Claude Landry, soit de pharmacien à pharmacien. » .
+Q. 4.3, Monsieur le Juge.
+« Il est bien entendu entre les parties que l'achalandage et les stocks de médicaments tant en vente libre qu'en laboratoire sont spécifiquement vendus de Viviane Trudel à Jean-Claude Landry, soit de pharmacien à pharmacien. » .
+Qui c'est qui a demandé d'inclure cette clause-là, là?
+R. Ça doit être le...
+Q. Ça ne vous dit rien?
+R. Pour le moment, là, j'ai pas fait attention à ça, là.
+Q. Bien, c'est parce que vous avez dit en interrogatoire en chef que c'était... l'inventaire était dans Trugesvi.
+R. Oui.
+Q. Mais, en réalité, est-ce qu'ils sont dans Trugesvi, ce n'est pas vous personnellement qui l'aviez, vous aviez ces inventaires-là?
+R. Oui, mais, pour moi, c'était Trugesvi qui avait tout ça, tout ça en stock. C'était...
+Q. Pour vous, c'était Trugesvi.
+R. Bien oui, c'est ça.
+Q. Mais en réalité...
+R. Peut-être... c'était à mon nom, c'est sûr.
+Q. C'était à votre nom.
+R. Bien, la compagnie était à mon nom, donc.
+Q. Non, non, non, je parle de l'inventaire.
+R. L'inventaire, oui.
+Q. L'inventaire était à votre nom. C'est ça?
+R. Bien, pour moi, on a tout vendu, tout le stock, toute la marchandise était au nom de Trugesvi, là, je veux dire...
+Q. Mais l'achalandage était au nom de qui?
+R. La compagnie, j'imagine.
+Q. Bien, pourquoi c'est vous-même...
+R. Bien, je le sais pas, il me semble...
+Q. ... vous-même personnellement qui vendait l'achalandage.
+R. Je peux pas dire, là, j'ai pas porté attention à ça vraiment dans ce temps-là.
+Q. Vous n'avez pas porté attention à ça. Est-ce que vous avez... est-ce que vous vous souvenez que vous auriez fait faire un inventaire...
+R. Oui.
+Q. ... des biens de la pharmacie. Oui, vous vous souvenez de ça, par les Inventaires de l'Estrie.
+R. Oui, c'est ça.
+Q. ... est-ce que ça vous dit quelque chose?
+R. Oui.
+...
+(de la page 50 à 55) (Viviane Trudel contre-interrogée par Me Roy)
+...
+Q. Alors, vous voyez, là, je pense que ce sont des factures ou les commandes faites auprès de Familiprix. C'est fait au nom de qui, c'est qui, qui fait la commande?
+R. Bien, c'est marqué « Viviane Trudel Leblanc » .
+Q. C'est marqué « Viviane Trudel Leblanc » .
+R. C'est bien ça.
+Q. Ce n'est pas Trugesvi qui fait la commande.
+R. Non.
+Q. Jamais?
+R. Non.
+...
+Q. Donc, c'est vous personnellement qui commandiez les médicaments pour Familiprix. Maintenant, à l'interrogatoire au préalable, vous avez dit, Madame « Viviane Trudel, que dans Familiprix, Familiprix vend seulement aux pharmacies, c'est seulement que des pharmaciens qui sont sur le conseil d'administration.
+R. Oui.
+Q. C'est ça?
+R. Oui.
+...
+Q. Est-ce qu'il y avait une entente entre Trugesvi et Familiprix?
+R. Non.
+Q. Non, il n'y a pas d'entente entre Trugesvi et Familiprix. C'est entre vous et Familiprix qu'il y en a une.
+R. Oui.
+Q. Entre vous personnellement.
+R. Personnellement, oui.
+Q. Lors de votre interrogatoire au préalable, Madame Trudel, je vous ai posé la question de savoir s'il y avait un contrat entre vous-même et la compagnie Trugesvi.
+R. Non.
+Q. Il n'y avait pas de contrat. Vous avez répondu : « Je ne penserais pas. »
+R. Non, il y en avait pas.
+...
+Q. Est-ce que vous saviez que vous ne pouviez pas exploiter, bien, exploiter, pratiquer votre profession de pharmacienne sous un nom corporatif.
+R. Bien, pour moi, je pratiquais sous mon nom.
+Q. Sous votre nom. Alors, pour vous, la corporation puis vous-même...
+R. Bien, c'était la même chose.
+Q. Posons la question autrement. Vous avez été personnellement propriétaire de la pharmacie avant l'incorporation qui se situe en 1977, c'est ça, trente (30) novembre 1977. Le seul changement qui est intervenu, si je comprends bien, c'est qu'après 77 vous preniez l'argent et vous receviez vos revenus, vous payiez vos dépenses à même le compte de Trugesvi, c'est ça.
+R. Oui.
+Q. Avant ça, vous opériez exactement de la même façon.
+R. Oui.
+Q. C'était la même chose.
+R. Oui, oui.
+Q. La seule chose qui a changé c'est que...
+R. C'est ce qu'on a changé.
+Q. ... vous avez Trugesvi dans le décor et vous dites, vous saviez que vous receviez un salaire, vous receviez aussi des dividendes quand vous décidiez de vous en verser, c'est ça?
+R. Oui.
+Q. Oui, c'est ça. Et que Trugesvi produisait des déclarations de revenus.
+R. Oui.
+Q. C'est ça.
+R. Oui.
+Q. Alors, il n'y a pas eu de changement dans les opérations en tant que tel, là. Non, c'est ça?
+R. Non.
+(page 59) (Viviane Trudel contre-interrogée par Me Roy)
+...
+Q. Mais est-ce que vous les avez... vous avez dénoncé à un moment donné la réalité corporative de votre organisation à Familiprix.
+R. Non. Vous voulez dire dénoncé?
+Q. Les aviser que la partie de denrées autres que les médicaments, en fait ce qu'on l'on trouve habituellement dans l'ensemble d'une pharmacie, là, c'était exploité sous le... par le biais d'une corporation, d'une compagnie?
+R. Non.
+...
+(aux pages 64, 65 et 66)
+(Viviane Trudel réinterrogée par Me Lévesque)
+...
+MONSIEUR LE JUGE :
+Q. Dites-moi, Madame.
+R. Oui.
+Q. Au niveau de l'hôtel de ville, vous avez une licence, quand on opère un commerce à l'intérieur d'une municipalité, on doit avoir une licence. Est-ce que le nom de la compagnie était inscrit dans... auprès de la municipalité?
+R. Je me souviens pas, là, attendez une minute. Je pense que c'était à mon nom, il me semble.
+Q. Puis disons, à un moment donné, souvent, on fait de la publicité dans les hebdos, dans le bulletin paroissial ou ces choses-là, est-ce que le nom de la compagnie apparaissait à certains endroits?
+R. Non.
+Q. Est-ce que je me trompe en affirmant que j'ai cru comprendre que la seule mention de la raison sociale de la compagnie c'était sur le libellé des chèques?
+R. Les chèques, oui, c'est ça.
+Q. Est-ce qu'il y a d'autres endroits où effectivement quelqu'un qui n'était pas de la région, par exemple, pouvait faire le constat qu'il existait une compagnie qui était impliquée de près ou de loin dans ça?
+R. Non.
+Q. C'était le seul document, le chèque.
+R. Oui, à ma connaissance, là, peut-être qu'il y en avait d'autres mais, là.
+Q. Dans l'annuaire téléphonique par exemple, est-ce que le nom de la compagnie était indiqué?
+R. Non.
+Q. C'était toujours sous votre nom personnel.
+R. Oui.
+Q. Ça va. Merci. Vous pouvez retourner à votre place.
+...
+(aux pages 71 à 75)
+(Michel Bernier, comptable contre-interrogé par Me Roy)
+...
+Q. Bien, pour l'achalandage de qui, l'achalandage de Trugesvi ou l'achalandage de madame Viviane Trudel?
+R. Je veux pas faire de répartition parce que la compagnie était existante, elle réalisait des bénéfices, donc elle avait un achalandage. Par contre, dans le domaine de la pharmacie, effectivement les pharmaciens vendent également l'achalandage.
+Q. Personnellement.
+R. Personnellement.
+Q. Bien, c'est ça qu'on fait ici, là, hein?
+R. Oui, mais est-ce que c'est 300 000 $ l'achalandage de madame ou c'est 150 000 $, je le sais pas.
+Q. Bien.
+R. Je peux pas vous donner, je peux pas vous donner de précision là-dessus. Mais il y avait effectivement une vente d'achalandage par madame mais ça ne veut pas dire qu'il y en avait pas dans la compagnie également.
+Q. Non, non, ce n'est pas ça qu'est la question. Ici, là, le 300 000 $, c'est pour l'achalandage de madame. C'est un montant de 300 000 $ pour son achalandage à elle personnellement.
+R. De toute façon, comme vendeur, c'était le même résultat.
+...
+R. L'inventaire de médicaments, c'était cent...
+Q. 151 000 $
+R. Je peux vous expliquer, là.
+Q. Oui.
+R. O.K. C'est qu'au moment... le prix de vente des actions était selon le contrat, incluait l'inventaire, O.K. Lors de la négociation avec Revenu Canada, Revenu Canada nous disait : « Bien, madame, il faut que ça soit elle qui vende l'inventaire » . Donc, on a négocié pour que la compagnie vende à madame les inventaires et elle les revendait à nouveau à monsieur Landry. O.K., donc, elle, par contre, elle, elle devait acheter les inventaires de la compagnie parce que pour que ça se tienne, pour qu'il y ait pas d'avantage conféré, il faut que ça se tienne.
+Donc, à ce moment-là, puis comme Revenu Canada disait : « Madame aurait dû se taxer sur des sommes d'argent » . Les liquidités sont dans la corporation, O.K. La corporation doit donc des sommes d'argent à madame. Et sur les sommes d'argent que la corporation doit à madame à ce moment-là, on est venu réduire l'achat d'inventaire. Le net de tout ça était qu'il y avait un solde qui était dû à madame. Par contre, l'acheteur de la corporation, il n'était pas question qu'il paye ces sommes d'argent-là à madame, lui, il avait déjà payé en grande partie, là, 1 037 000 $, parce qu'il y avait une balance de prix de vente, mais l'acheteur ne voulait pas payer un montant supplémentaire.
+Donc, nous, on se disait, bien, madame, comme Revenu Canada l'a déjà taxée sur ces sommes-là, accordez-nous une perte en capital sur cette somme d'argent-là qui ne sera jamais perçue, il y aurait double taxation à ce moment-là. Et, effectivement, Revenu Canada nous a accordé la perte, là, pour éviter la double taxe d'accise. C'est assez résumé, là, mais c'est ça.
+Q. Je n'ai plus d'autres questions, Monsieur le Juge.
+...
+[12] L'appelante a soutenu que l'article 27 de la Loi sur la pharmacie ne devait pas être pris en considération pour l'attribution des revenus à l'origine de la cotisation faisant l'objet du présent appel. L'article 27 se lit comme suit :
+27. Sous réserve des articles 28 à 30, seuls peuvent être propriétaires d'une pharmacie, ainsi qu'acheter et vendre des médicaments comme propriétaires d'une pharmacie, un pharmacien ou une société de pharmaciens.
+[13] Elle prétend que seule la Loi de l'impôt sur le Revenu peut et doit être prise en considération pour déterminer les revenus d'une personne et ce, pour éviter la discrimination, puisque la Loi s'applique à tous les Canadiens, lesquels, eux, sont assujettis à des lois fort différentes dépendamment de leur province d'origine.
+[14] Pour justifier son raisonnement, elle soulève toute une série d'hypothèses faisant ressortir des exemples de discrimination et d'injustice tendant à démontrer que tous les Canadiens ne seraient pas traités également par la Loi de l'impôt sur le Revenu, s'il fallait tenir compte des lois, dont le contenu varie d'une province à l'autre, voire même de certaines régions par rapport à d'autres.
+[15] Certes, madame Nathalie Picard, responsable du dossier de l'appelante pour l'intimée, a expressément reconnu que l'article 27 de la Loi sur la pharmacie avait été à l'origine de son analyse, de laquelle ont résulté les cotisations. Je ne crois pas que cela soit suffisant pour annuler ou confirmer les cotisations à l'origine de l'appel.
+[16] Le bien-fondé des cotisations doit être déterminé à partir des faits et circonstances pertinents à l'attribution desdits revenus et, comme l'a plaidé l'appelante, conformément à la Loi de l'impôt sur le Revenu.
+[17] À la lumière de la preuve, il semble que les comptables mis à contribution pour et lors de la création de la compagnie ont été avares d'explications à l'endroit de l'appelante, quant aux effets juridiques de la nouvelle entité corporative.
+[18] La création d'une entité juridique distincte ou la création d'une compagnie est beaucoup plus qu'une filière comptable pouvant avoir des avantages sur le plan fiscal. Elle doit s'avérer cohérente et surtout correspondre à sa véritable exploitation.
+[19] Il semble qu'il ne fut alors prévu aucune entente ou contrat pour prévoir les droits et obligations des parties, soit ceux et celles de l'appelante versus ceux et celles de la nouvelle entité. Doit-on conclure ou présumer que toutes les activités de l'appelante étaient automatiquement du même coup transférées à la nouvelle compagnie ?
+[20] Sur cette question pourtant fondamentale, la preuve ne permet pas de tirer quelques conclusions que ce soit. La prépondérance de la preuve, voire la seule preuve disponible est à l'effet que la création de la compagnie ne s'est pas traduite par des changements majeurs véritables. L'appelante a simplement poursuivi son exploitation. Il en était ainsi dans les relations avec les employés, dans les relations avec les clients, dans la publicité et dans la facturation. Cela ressort très clairement des extraits ci-avant reproduits.
+[21] Bien plus, lors de la transaction aux termes de laquelle elle a cédé toutes ses actions, il a été prévu à la clause 4.3 ce qui suit : (pièce I-1, onglet 19 p. 3)
+4.3 Il est bien entendu entre les parties que l'achalandage et les stocks de médicaments, tant en vente qu'en laboratoire, sont spécifiquement vendus de Viviane Trudel à Jean-Claude Landry, soit de pharmacien à pharmacien.
+[22] L'appelante a bénéficié de l'achalandage à titre personnel; tous ces éléments sont révélateurs quoiqu'en pense le comptable qui a témoigné, à savoir que la vente de l'achalandage au nom de l'appelante était une technicalité sans importance.
+[23] L'imputabilité des revenus générés par une activité économique n'est ni une technicalité ni une décision discrétionnaire des comptables ou de quiconque; elle doit correspondre et être en harmonie avec la réalité et ce, d'une manière non équivoque, particulièrement lorsqu'il peut y avoir confusion due aux statuts différents de la personne physique qui contrôle les deux entités.
+[24] En l'espèce, l'appelante exploitait personnellement une pharmacie. En 1977, elle a constitué la compagnie Trugesvi Inc. pour que toutes les activités commerciales et professionnelles y soient poursuivies.
+[25] Dans les faits, l'appelante a, à quelques nuances près, continué de pratiquer sa profession de la même façon qu'avant la constitution de la compagnie, si ce n'est qu'elle a ouvert un compte au nom de la compagnie dans lequel elle déposait tous les chèques qu'elle recevait pour sa pratique professionnelle.
+[26] La bonne foi de l'appelante n'est aucunement en cause. Elle a, de toute évidence, suivi les conseils de ses comptables qui ont conclu qu'un statut corporatif réduirait sa charge fiscale.
+[27] Je doute fortement que les comptables aient expliqué les conséquences de la constitution de la corporation. Trop souvent, certains professionnels de la comptabilité et fiscalité ont tendance à assumer que les faits devront être façonnés par les entrées comptables alors qu'en réalité, les chiffres doivent refléter les faits et non l'inverse.
+[28] Les cotisations qui font l'objet du présent appel peuvent-elles être annulées du fait de l'admission par la vérificatrice que le processus ayant conduit à la cotisation avait pris son origine lors du constat du non-respect de la Loi sur la pharmacie ?
+[29] La seule question en litige est de savoir si les cotisations sont bien fondées ou non fondées en vertu de la Loi de l'impôt sur le Revenu ?
+[30] Lors des années en litige, il n'était pas possible pour les pharmaciens de pratiquer leur profession à l'intérieur de la vocation d'une compagnie. Il ne s'agissait d'ailleurs pas de la seule profession assujettie à une telle contrainte.
+[31] Bien qu'il ne m'appartienne pas d'évaluer la pertinence de ces dispositions limitatives, je crois sans risque de me tromper qu'il s'agit de dispositions dont le but ultime est l'imputabilité de la responsabilité inhérente à la pratique de diverses professions.
+[32] Ces dispositions interdisent à une personnalité morale de poser ou exécuter des actes dont l'auteur est invisible alors qu'une des caractéristiques fondamentales des professions visées est et doit être une relation « intuitu personae » , c'est-à-dire axée sur la personnalité physique de l'auteur des faits et gestes.
+[33] Le procureur de l'appelante a énuméré des exemples où le Ministre avait imposé des revenus émanant d'entreprises illégales ou même criminelles. Il a aussi cité des dossiers où des pénalités avaient été admises comme dépenses déductibles dans le cadre d'activités commerciales.
+[34] Je souscris à tous les exemples qui d'ailleurs auraient pu être beaucoup plus nombreux. Je ne crois cependant pas qu'il s'agisse de précédents pertinents au présent dossier.
+[35] En effet, dans tous les exemples ou précédents soumis par l'appelante, il s'agissait d'activités génératrices de revenus et exécutées dans le cadre de l'entreprise par des personnes imputables, elles-mêmes à l'origine des revenus imposées.
+[36] Souscrire à la logique soutenue par l'appelante aurait pour effet de permettre à tout contribuable de diriger ou céder la totalité ou une partie de ses revenus, émanant de ses propres activités, à tout autre contribuable, ce qui évidemment générait des situations assez loufoques.
+[37] En l'espèce, l'appelante a décidé de constituer une compagnie pour lui transférer toutes ses activités commerciales. Elle soutient y avoir également transféré ses activités professionnelles. Pourquoi ? Quand ? Comment ?
+[38] La preuve, dont elle avait le fardeau, n'a répondu à aucune de ces questions pourtant fondamentales. Certes, la preuve a révélé qu'elle avait cédé les revenus de la pratique de sa profession en les déposant dans le compte de la compagnie. En vertu de quoi a-t-elle agi ainsi ?
+[39] Qu'a-t-elle reçu en retour ? À quelles conditions ? Rien de cela n'a été établi.
+[40] La prépondérance de la preuve est à l'effet qu'une compagnie a été constituée en 1977. Des suites de la création de la compagnie, rien n'a véritablement changé, si ce n'est que les chèques personnels ont transité par le compte de la compagnie; les achats de médicaments ont continué à être effectués par l'appelante personnellement.
+[41] Bien que la création d'une compagnie soit une simple formalité qui, pour certains, ne change pas grand chose, il s'agit, en réalité, de la mise sur pied d'une personnalité juridique distincte qui génère des droits et obligations fondamentaux qui doivent être respectés.
+[42] Ces droits et obligations doivent également être exprimés et définis. Il ne s'agit pas d'instituer une routine définie par le comptable et de croire que son usage répétitif générera des réalités opposables aux tiers. Le recours à un statut corporatif requiert une structure organisationnelle qui assure une indépendance réelle. Toutes les relations juridiques d'une compagnie avec une autre entité doivent être clairement définies et respectées.
+[43] En l'espèce, de bonne foi sans aucun doute, l'appelante n'a pas changé ses habitudes de fonctionnement, si ce n'est qu'elle déposait ses chèques personnels dans le compte de la compagnie en retour de quoi la compagnie lui versait un salaire.
+[44] Une personne ne peut pas simplement déposer ses chèques de paye dans le compte bancaire d'un autre et prétendre même après des années, que les dépôts constituaient des revenus pour le bénéficiaire desdits dépôts.
+[45] La routine exécutée à compter de la constitution de la compagnie Trugesvi Inc. sur une longue période, conforme aux déclarations de revenus produites sur cette même période, a été le principal argument de l'appelante à l'effet que tout était régulier.
+[46] Il n'a jamais été démontré que la compagnie avait convenu d'une entente prévoyant toutes les modalités quant aux droits et obligations de chacun.
+[47] Je ne crois pas qu'une intention si louable soit-elle, soit suffisante pour conclure à l'existence d'un véritable contrat, et d'une manière toute particulière lorsque la même personne physique contrôle et dirige les deux entités légales en présence.
+[48] Pour le comptable au dossier, la compagnie était d'abord et avant tout une composante importante d'une planification fiscale; certes, il pouvait s'agir d'une avenue intéressante en autant cependant que toutes les responsabilités des intervenants soient clairement exprimées et définies. Pour bénéficier des avantages, il est essentiel d'assumer toutes les exigences.
+[49] L'appelante a reçu des chèques pour son travail professionnel. Les revenus ainsi touchés étaient sa propriété exclusive. Elle ne pouvait pas, de son chef, décider qu'il s'agissait là de revenus imposables entre les mains de l'autre contribuable, la compagnie, bien qu'elle en était la seule actionnaire et administratrice.
+[50] Pour souscrire au raisonnement et aux arguments soumis par le procureur de l'appelante, il eût fallu dans un premier temps, faire la preuve de l'existence d'un contrat en vertu duquel toutes les activités, tant commerciales que professionnelles, seraient désormais exécutées par la compagnie Trugesvi Inc. Dans un second temps, le contrat aurait dû faire l'objet d'une dénonciation auprès de tous les payeurs de montants définis comme revenus de la compagnie.
+[51] Dans cette hypothèse, il n'y a aucun doute qu'il se serait agi de revenus de la compagnie et ce, même si une partie des revenus avait émané d'activités illégales. À titre d'exemple, des honoraires payés sans droit à un pharmacien radié de son ordre constituent bel et bien des honoraires imposables à titre de revenus bien que perçus illégalement.
+[52] En l'espèce, l'appelante a personnellement touché des revenus; elle ne pouvait pas de son chef les attribuer à un autre entité juridique. Tout revenu doit être imposé entre les mains de celui ou de celle qui y a droit et qui le reçoit.
+[53] L'appelante a reçu personnellement les revenus à partir desquels les cotisations ont été établies, elle devait donc se cotiser sur ces revenus. Pour ces motifs, l'appel est rejeté avec frais en faveur de l'intimée.
+Signé à Ottawa, Canada, ce 25e jour de février 2003.
+« Alain Tardif »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI7
+No DU DOSSIER DE LA COUR :
+2000-2073(IT)G
+INTITULÉ DE LA CAUSE :
+Viviane Trudel-Leblanc et sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+New Carlisle (Québec)
+DATE DE L'AUDIENCE
+le 30 septembre 2002
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 25 février 2003
+COMPARUTIONS :
+Pour l'appelante :
+Me André A. Lévesque
+Pour l'intimée :
+Me Roger Roy
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me André A. Lévesque
+Étude :
+Avocat (Bonaventure, Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

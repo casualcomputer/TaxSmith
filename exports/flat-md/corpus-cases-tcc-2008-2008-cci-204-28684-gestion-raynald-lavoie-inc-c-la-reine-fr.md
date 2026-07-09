@@ -1,0 +1,190 @@
+---
+title: "Gestion Raynald Lavoie Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28684/index.do"
+last_modified: "2008-05-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 204"
+citation2: ""
+neutral_citation: "2008 CCI 204"
+decision_date: "2008-05-21"
+language: "fr"
+item_id: "28684"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1474
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:44:05.003000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "72114be820621e16ff9b45ca29bb3174939b347487143dc28df8eb4e3cda312b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gestion Raynald Lavoie Inc. c. La Reine
+
+- Citation: 2008 CCI 204
+- Decision date: 2008-05-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1474, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gestion Raynald Lavoie Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-21
+Référence neutre
+2008 CCI 204
+Numéro de dossier
+2005-1828(IT)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1828(IT)G
+ENTRE :
+GESTION RAYNALD LAVOIE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 28 et 29 mai 2007, à Rimouski (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelante :
+Me Pierre Lévesque
+Avocat de l'intimée :
+Me Vlad Zolia
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est accueilli avec dépens et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, le tout selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 21e jour de mai 2008.
+« François Angers »
+Juge Angers
+Référence : 2008CCI204
+Date : 20080521
+Dossier : 2005-1828(IT)G
+ENTRE :
+GESTION RAYNALD LAVOIE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] En produisant une déclaration de revenus modifiée pour son année d’imposition 2003, l’appelante a réclamé un montant de 52 000 $ à titre de perte autre qu’une perte en capital. Le ministre du Revenu national (le « ministre »), par avis de nouvelle cotisation en date du 7 janvier 2005, a refusé d’accorder la perte réclamée et, à la suite de l’opposition de l’appelante, a ratifié la nouvelle cotisation en date du 7 janvier 2005 relativement à l’année d’imposition 2003.
+[2] Plusieurs questions en litige ont été soulevées par les parties à l’audience de la cause. Du côté de l’intimée, on se demande si la créance invoquée par l’appelante existait réellement et, si oui, quel en est le montant. Du côté de l’appelante, on se demande si elle a le droit d’utiliser les pertes autres qu’en capital qu’elle a subies lors d’années antérieures pendant les années 2000, 2001, 2002 et 2003 et si elle était bien fondée de ne pas procéder à la radiation des travaux en cours visant la production d’une série d’émissions télévisées avant son exercice de 1997.
+[3] D’autres questions ont également été soulevées, à savoir si la Cour possède la compétence pour déterminer, dans le cadre de cet appel, le moment précis où la perte autre qu’en capital fut réalisée, s’il était approprié dans les circonstances de comptabiliser un tel projet à l’inventaire de la filiale de l’appelante et, si oui, quel était la valeur à utiliser afin de comptabiliser ce bien en inventaire pour les années en cause.
+[4] L’appelante est une société dûment constituée en vertu de la Loi sur les compagnies du Québec par statuts de constitution émis en date du 8 septembre 1986 et son seul et unique actionnaire est M. Raynald Lavoie depuis janvier 1988.
+[5] La société 2841-0777 Québec inc. (la « filiale ») a été dûment constituée en date du 16 octobre 1990 en vertu de la Loi sur les compagnies (Québec, partie 1A) et elle était une filiale en propriété exclusive de l’appelante jusqu’à sa dissolution le 2 novembre 1999. Le 31 octobre 1997, la filiale a procédé à sa liquidation et tout son actif a alors été distribué à son seul actionnaire, soit l’appelante. L’exercice de l’appelante se termine le 31 octobre de chaque année et celui de la filiale se terminait le dernier jour de février de chaque année, sauf pour le dernier exercice, qui s’est terminé le 31 octobre 1997. La filiale a été exploitée sous les noms de « Groupe Contact » ou de « Groupe de communication Contact ».
+[6] Les activités de la filiale ont commencé en 1991. Elles visaient le marketing et les communications. M. Raynald Lavoie s’occupait de la gestion du point de vue administratif et était bailleur de fonds. Le tout a commencé avec des contrats de graphisme et ensuite avec des contrats avec Parcs Canada pour la signalisation et autres, pour finalement arriver au contrat dont il est sujet en l’espèce.
+[7] Selon M. Lavoie, il était pratique courante avec Parcs Canada de recevoir le bon de commande après que le travail soit effectué. Le mandat était donc donné avant que le bon de commande soit émis. Le directeur de l’exploitation de la filiale, M. Jean Bernier, a confirmé cette façon de faire. C’est lui d’ailleurs qui dirigeait, pour la filiale, les activités sur le terrain du côté marketing et communications. La filiale a d’ailleurs reçu plusieurs contrats provenant de Parcs Canada et il s’était lié d’amitié avec Jean-Paul Desjardins, le chef du marketing au Service des parcs d’Environnement Canada (« Service des parcs »). Les projets étaient commencés avant que les contrats soient signés, puisque les contrats devaient passer par Approvisionnements et Services Canada. Il se fiait à monsieur Desjardins, le décrivant comme un gars de parole et disant qu’une poignée de main suffisait pour démarrer un projet. Il le rencontrait deux ou trois fois par semaine. Il insiste que c’est arrivé très très souvent que les travaux se fassent avant l’arrivée des contrats.
+[8] Le projet qui fait l’objet du présent litige a commencé au début de l’année 1991. Il s’agit d’une télésérie qui, au début, devait s’appeler « Jardinier du Monde », mais qui a par la suite été appelée « Curieux de nature ». Selon M. Lavoie, ce qui a incité la filiale à aller de l’avant et d’investir des fonds dans la télésérie est le contenu d’une lettre en date du 13 mars 1991 dans laquelle Jean-Paul Desjardins confirme à Jean Bernier de la filiale que le Service des parcs irait de l’avant avec la télésérie produite par Parcs Canada et financée conjointement avec le secteur privé. Il ajoute que bien que le choix du diffuseur ne soit pas encore arrêté, il faut entamer l’étape de la recherche et de la préscénarisation; les coûts liés à cette étape seront défrayés au cours du prochain exercice (1991‑1992). Il termine en disant : « Nous entreprenons la grande aventure. »
+[9] La filiale a donc investi dans la scénarisation et on présente le projet et le scénario (onglet 28 de la pièce A-1) au Service des parcs. À la suite de cela, le Service des parcs a informé la filiale qu’il n’y avait pas d’argent à court terme, mais il a mis à la disposition de la filiale des employés et d’autres ressources, telles que de l’équipement et des guides provenant des différents parcs. Le 6 juin 1991, la Société de radio-télévision du Québec (Radio‑Québec) confirmait au Service des parcs sa participation dans le projet à près de 200 000 $ et, par lettre en date du 19 juin 1991 à Radio‑Québec, le Service des parcs confirmait aussi son engagement financier de 200 000 $ dans le projet. Le lendemain, soit le 20 juin 1991, le Service des parcs s’engageait de rembourser à Radio‑Québec les 100 000 $ qu’elle avait avancés à la filiale au cas où le projet ne se réaliserait pas au cours des prochains mois.
+[10] La mise de fonds de Radio‑Québec a permis à M. Raynald Lavoie d’autoriser le début du tournage, qui s’est fait du 21 juin au 1er septembre 1991. Le 11 décembre 1991, la filiale signait un contrat de préachat de droits de diffusion et d’exploitation avec Radio‑Québec pour le projet, reconnaissant sa mise de fonds de 100 000 $ du 21 juin 1991 et son engagement pour un autre montant de 100 000 $ en deux tranches de 50 000 $. La structure financière du projet indiquée à l’annexe B de ladite entente donne un total de 700 395 $, incluant la participation de Radio‑Québec. Selon une lettre en date du 19 février 1992, il est évident que Radio‑Québec souhaite toujours diffuser cette série de 13 émissions.
+[11] Le 20 octobre 1992, Parcs Canada, par l’entremise de son directeur général associé pour la région de Québec, M. Laurent Tremblay, faisait parvenir une lettre à M. Jean Bernier soulignant les efforts que la filiale avait consacrés à ce projet et informant ce dernier qu’à l’égard de sa requête pour trouver des partenaires, et dans un esprit de partenariat, M. Jean-Paul Desjardins appuiera sa démarche dans la recherche de financement et offrira sa collaboration.
+[12] Le 3 février 1993, M. Raynald Lavoie écrivait à M. Jean-Paul Desjardins du Service des parcs pour lui faire part du fait que la filiale n’avait toujours pas reçu de numéro de contrat pouvant permettre une facturation. Il l’informe donc que sa lettre du 13 mars 1991 tiendra lieu de contrat et, à cette fin, il inclut une facture de 53 470 $ avant taxe pour les honoraires professionnels, la recherche et la préscénarisation. La réponse n’a pas tardé à venir. Dans une lettre du 9 février 1993, M. Laurent Tremblay expose les faits et les circonstances, c’est‑à‑dire qu’aucun contrat n’a été signé et qu’aucunes instructions de travail n’ont été produites et qu’en fin de compte, Parcs Canada ne serait qu’un partenaire avec les autres commanditaires advenant que les fonds demandés soient disponibles.
+[13] Selon M. Bernier et selon la pièce A-3, le budget du projet s’élève à 727 981 $. De ce budget, un total de 444 360 $ a effectivement été payé. Quoique le budget puisse dater du 30 octobre 1992, les données proviennent d’un prébudget proposé antérieurement. De plus, le contrat prévoyait une marge de profit de 15%, de sorte que la dépense réelle pour la filiale était d’environ 377 400 $, moins la contribution de Radio‑Québec, pour un total de 277 400 $.
+[14] M. Bernier a quitté son emploi avec la filiale au printemps 1993. Durant les années 1994 et 1995, il a continué ses efforts afin de vendre le projet à Parcs Canada. Il a fait visionner des extraits et a rencontré Mme Suzanne Hogan, qui était conseillère en marketing pour Parcs Canada durant les années 1990 à 1995. Elle fut cependant absente du 18 juillet 1994 au 24 août 1995. Elle se souvient avoir vu un scénario du projet en question et se souvient avoir eu des contacts avec M. Bernier. Les démarches de M. Bernier avec Parcs Canada n’ont pas porté fruit, puisqu’il était évident que Parcs Canada n’avait pas le budget pour ce projet.
+[15] De son côté, M. Lavoie a aussi entrepris des démarches pour essayer de savoir pourquoi Parcs Canada avait changé d’idée. Il a essayé de retenir les services d’un avocat de Montréal, mais ce dernier lui demandait un dépôt assez substantiel qu’il n’a pas déboursé. Il a aussi rencontré son député et un ministre du gouvernement dans le but de faire avancer les choses, mais sans succès. Il déclare ne pas avoir les moyens de poursuivre en justice.
+[16] MM. Laurent Tremblay et Jean-Paul Desjardins ont également témoigné. Ils insistent pour dire qu’il devait y avoir des partenaires privés pour réaliser ce projet. M. Desjardins témoigne que nonobstant l’engagement financier de 200 000 $ de Parcs Canada donné à Radio‑Québec dans sa lettre du 19 juin 1991, il est soumis à la condition que l’on trouve des partenaires privés. Il expose les efforts de Parcs Canada pour trouver des commanditaires dans une lettre à M. Bernier en date du 20 octobre 1992.
+[17] De son côté, M. Tremblay insiste pour dire que c’est un projet qui leur fut proposé par la filiale et il répète qu’il devait être réalisé avec des partenaires privés. Il interprète la lettre du 13 mars 1991 comme étant simplement une intention de Parcs Canada de s’impliquer et dit qu’elle ne constitue pas une demande de services ni un contrat.
+[18] Dans les états financiers de la filiale se terminant le 29 février 1992, dans la colonne des éléments d’actif, on trouve une rubrique intitulée « Travaux en cours » d’une valeur de 260 000 $ qui, selon M. Lavoie, représente le total de ce qu’il a déboursé pour le projet. Cette somme est inscrite sous cette rubrique car il espérait toujours pouvoir la récupérer. Après discussion avec son comptable, il en a été ainsi pour les états financiers jusqu’en février 1997, où en raison de la situation financière de la filiale, qui n’était plus exploitée depuis 1995 et en raison d’une fatigue physique chez M. Lavoie, il a décidé d’abandonner ses efforts pour recouvrer ses dépenses liées au projet.
+[19] Selon le comptable responsable de la préparation des états financiers de la filiale, le projet sous la rubrique « Travail en cours » est demeuré aux bilans en raison des discussions avec M. Lavoie, selon lequel il y avait une possibilité que cette somme soit éventuellement convertie en vrais dollars. Ce n’est donc qu’en 1997 que la décision fut prise de sacrifier le montant et de le radier dans les états financiers de fermeture de la filiale au 31 octobre 1997. Selon le comptable, la filiale devait être liquidée parce qu’elle n’avait plus sa raison d’être à ce moment. Cela ne s’est pas produit plus tôt parce qu’on considérait qu’elle avait un élément d’actif qui avait une valeur, c’est‑à‑dire les « travaux en cours ».
+[20] Selon le comptable, dans un avis aux lecteurs, le comptable doit chercher si les chiffres sont véridiques et on assure que le tout a du sens. Dans le bilan de la filiale se terminant le 29 février 1996, le comptable a pris soin de noter sous la rubrique « Éventualité » le fait qu’il n’y a pas eu de modification à l’évaluation des « Travaux en cours » et il explique la position des dirigeants de la filiale. Une éventualité dans un état financier signifie une situation incertaine. En l’espèce, pour mettre les travaux en cours à 0 $, il faut démontrer qu’il est peu probable de réaliser le montant. Le chapitre 3290 du Manuel de l’ICCA, par. 6(2), explique les conditions pour qu’une éventualité soit inscrite aux états financiers.
+[21] Interrogé sur la raison pour laquelle les « Travaux en cours » n’avaient pas été radiés plus tôt, le comptable a expliqué que la radiation a des conséquences sur la condition financière de la filiale et que s’il n’avait eu qu’à considérer l’aspect fiscal de ce geste, il l’aurait radié bien avant. En 1997, il considère que c’était la limite et que tout était perdu pour la filiale du point de vue financier. La liquidation de la filiale s’est donc faite le 31 octobre 1997.
+[22] Éric Beauséjour est agent des appels à l’Agence du revenu du Canada. Il est celui qui, pour l’intimée, a modifié l’année de la perte de 1997 à 1993. Selon lui, la lettre de Parcs Canada du 9 février 1993 à la filiale indique clairement qu’il n’y a pas de contrat et qu’aucune somme n’est due par Parcs Canada à la filiale. Lorsqu’il a reçu le dossier en 2002, il a demandé à la filiale de lui produire des documents pouvant démontrer les démarches qu’elle a entreprises afin de recouvrer cette perte et il n’a rien reçu à cet égard. Il déclare qu’à l’Agence, on préfère voir des documents plutôt que de croire les contribuables. Il a donc maintenu sa décision voulant que cette perte aurait dû être réclamée à la fin de l’exercice se terminant le 28 février 1993. C’est d’ailleurs ce qui est reflété dans l’avis de ratification en date du 19 mai 2005.
+[23] Il est intéressant de noter que dans l’avis de ratification, on parle d’une perte autre qu’en capital de 347 014 $, alors que les états financiers indiquent 260 000 $.
+[24] Dans un autre ordre d’idées, la preuve a révélé que l’appelante, par l’entremise de son bureau comptable, aurait fait, le 29 mars 2004, une demande de détermination de sa perte pour son année d’imposition s’étant terminée le 31 octobre 1997. Ayant été informée que la demande n’avait pas été reçue, l’appelante l’a envoyée par télécopieur le 24 octobre 2004. La preuve ne révèle cependant pas que l’Agence aurait émis un avis de détermination. Contrairement aux allégations de l’appelante dans ses plaidoiries écrites voulant qu’il y ait eu un avis de détermination avant l’émission de la nouvelle cotisation, je crois que la preuve n’appuie pas cette allégation et j’ose croire que si l’appelante n’était pas satisfaite des conclusions d’un tel avis, elle l’aurait porté en appel devant cette Cour.
+[25] Étant donné ma conclusion qu’il n’y a pas eu d’avis de détermination émis par le ministre avant que soit émise la nouvelle cotisation à l’origine de cet appel, je vais traiter en premier lieu de la question de savoir si cette Cour possède la compétence pour déterminer le moment précis où la perte autre qu’en capital fut réalisée.
+[26] La compétence de la Cour canadienne de l’impôt sur ces questions a déjà fait l’objet de décisions où il fut conclu que la Cour avait la compétence pour examiner tous les éléments essentiels à l’origine de la cotisation sous appel. Dans l’affaire Horvath c. R., 1999 CarswellNat 7, no 97-373(IT)I, 7 janvier 1999, le juge Bell de cette Cour a considéré que des pertes autres qu’en capital réalisées en 1991 et 1992 et reportées en 1994 étaient des éléments essentiels de la cotisation établie pour cette dernière année. Le juge Bell s’est appuyé dans cette affaire sur les principes établis dans les décisions Aallcann Wood Suppliers c. R., 94 D.T.C. 1475, et Samson & Frères Ltée c. R., 97 D.T.C. 642. Dans la première de ces décisions, le juge Bowman (tel était son titre à l’époque) s’exprimait ainsi au sujet de la compétence de cette Cour sur cette question :
+[. . .] un contribuable peut contester le calcul du ministre concernant une perte relative à une année particulière dans un appel portant sur une autre année lorsque le montant du revenu imposable du contribuable est influencé par le montant de la perte pouvant être reportée prospectivement en vertu de l'article 111. En contestant la cotisation portant sur une année pour laquelle de l'impôt est payable au motif que le ministre a incorrectement calculé le montant d'une perte relative à une année antérieure ou subséquente qui peut être déduite en vertu de l'article 111 dans le calcul du revenu imposable du contribuable pour l'année en question dans l'appel, le contribuable demande à la Cour de faire précisément ce que prévoient les dispositions de la Loi de l'impôt sur le revenu en matière d'appel : déterminer l'exactitude d'une cotisation d'impôt en examinant la justesse d'un ou de plusieurs de ses éléments constituants, soit en l'espèce le montant d'une perte d'une autre année pouvant être déduite. La Cour n'a pas à déterminer la perte en vertu du paragraphe 152(1.1) ni à entendre un appel concernant une cotisation portant qu'aucun impôt n'est payable. Elle doit simplement établir l'exactitude de la cotisation portant sur l'année en question dans l'appel dont elle est saisie.
+[27] Le juge Dussault dans Samson et Frères Ltée démontre clairement que cette Cour peut regarder tous les éléments essentiels d’une cotisation lorsqu’elle doit se prononcer sur sa validité. Voici cet extrait :
+Le Ministre étant en droit d'établir une nouvelle cotisation à l'égard de cette année, il apparaît clairement qu'il peut établir tous et chacun des éléments pertinents, aux fins d'en arriver au calcul de l'impôt pour l'année, y compris le montant d'une perte autre qu'en capital dont un contribuable réclame le report rétrospectif en réduction de son revenu imposable. Dans la mesure où il n'y a eu aucune demande de détermination de perte par le contribuable en vertu du paragraphe 152(1.1) de la Loi et donc qu'aucune détermination n'a été faite qui lierait le Ministre et le contribuable en vertu du paragraphe 152(1.3) de la Loi, il est clair que le Ministre peut établir, aux fins de la cotisation pour une année d'imposition, le montant de la perte autre qu'en capital qu'un contribuable a le droit de déduire aux fins du calcul de son revenu imposable. Le contribuable peut pareillement, dans son appel d'une telle cotisation, contester le montant ainsi établi et ce, même si l'année au cours de laquelle la perte a été subie est prescrite et a pu faire l'objet d'une cotisation « nil ».
+[28] À mon avis, le moment initial où la perte a été réalisée devient donc un élément essentiel au présent litige puisqu’il dicte l’échéance de la perte tout comme son montant, étant donné qu’il n’y a rien qui lie les parties comme une détermination par le ministre l’aurait fait. Il est donc du devoir de cette Cour de vérifier l’exactitude de cet élément essentiel de la cotisation afin d’assurer sa validité, et ce, même si les pertes ont été réalisées dans une année prescrite par ailleurs.
+[29] Avant de faire l’analyse de ces questions, les circonstances de l’espèce et la confusion quant à la méthode qui devait être utilisée afin de comptabiliser les dépenses et revenus éventuels liés au projet de la télésérie exigent certaines clarifications, notamment au sujet du terme « Travaux en cours ». Il faut faire une distinction entre le sens que l’on donne à cette expression en comptabilité et celui qu’on lui accorde en matière fiscale. Du point de vue comptable, le projet était toujours en cours au moment de son abandon. Il devenait important du point de vue de la condition financière de la filiale de maintenir ce montant sous cette rubrique et de ne pas le radier car il représentait un actif. Du point de vue fiscal, l’expression « Travaux en cours » est généralement utilisée pour les travaux de certains professionnels. Ces derniers ont le choix d’exclure du calcul de leur revenu les travaux en cours à la fin d’une année d’imposition, c’est-à-dire qu’ils ne font pas partie de leur inventaire. Ils peuvent néanmoins déduire les dépenses relatives à ces travaux même si aucun revenu en découlant ne sera imposable avant que le client soit facturé. Ce traitement est prévu au paragraphe 10(4) de la Loi de l’impôt sur le revenu (la « Loi »). Quant aux autres travaux non complétés, ils font normalement partie de l’inventaire en conformité avec les dispositions de l’article 10 de la Loi.
+[30] En l’espèce, il faut donc aussi se demander si ce projet non terminé peut constituer un bien en inventaire. Le paragraphe 248(1) de la Loi définit de façon très large ce que constitue l’inventaire.
+« inventaire » Description des biens dont le prix ou la valeur entre dans le calcul du revenu qu'un contribuable tire d'une entreprise pour une année d'imposition ou serait ainsi entré si le revenu tiré de l'entreprise n'avait pas été calculé selon la méthode de comptabilité de caisse. S'il s'agit d'une entreprise agricole, le bétail détenu dans le cadre de l'exploitation de l'entreprise doit figurer dans cette description de biens.
+[31] Un inventaire est donc constitué de biens. Est-ce que le projet de la télésérie constitue véritablement un bien? Ce terme est aussi défini au paragraphe 248(1) de la Loi.
+« biens » Biens de toute nature, meubles ou immeubles, corporels ou incorporels, y compris, sans préjudice de la portée générale de ce qui précède :
+a) les droits de quelque nature qu'ils soient, les actions ou parts;
+b) à moins d'une intention contraire évidente, l'argent;
+c) les avoirs forestiers;
+d) les travaux en cours d'une entreprise qui est une profession libérale.
+[32] À mon avis, même si le projet n’a pas été complété, il n’en demeure pas moins qu’un certain montant de travail a été fait, de sorte qu’il soit possible de conclure que nous nous trouvons en présence d’un bien. La conception de treize émissions d’une télésérie comprenant le scénario et le tournage est un bien meuble incorporel qui donne sûrement à son concepteur des droits en matière de propriété intellectuelle. À mon avis, ce projet de télésérie était un bien et le fait que le projet n’ait pas été complété ne change rien à la situation. La Loi ne prévoit pas qu’un bien en inventaire doit être un produit fini.
+[33] Il faut aussi se rappeler que ce type de projet était du genre normalement réalisé par la filiale de l’appelante qui exploitait une entreprise dans le domaine des communications. Il me paraît raisonnable que ce genre d’entreprise inclut dans son inventaire ce type de projet en cours de réalisation.
+[34] Cela étant dit, il faut, comme l’avocat de l’appelant l’a suggéré, déterminer la valeur que l’on doit inscrire à l’inventaire. Pour le calcul de son revenu tiré d’une entreprise qui n’est pas un projet comportant un risque ou une affaire de caractère commercial, un contribuable doit utiliser la méthode prévue au paragraphe 10(1) de la Loi lorsqu’il évalue les biens figurant à son inventaire. Les biens doivent être comptabilisés au moindre du coût ou de leur juste valeur marchande. Les paragraphes 10(4) et 10(6) n’ont pas d’application et l’appelant ne peut s’en prévaloir.
+[35] Il devient donc difficile dans les circonstances pour l’appelant de comptabiliser un projet en cours de réalisation à sa juste valeur marchande. Le développement du projet s’est échelonné sur plusieurs exercices subséquents de sorte qu’il est difficile d’obtenir une valeur marchande pouvant refléter fidèlement la réalité à chacun des différents stades de production. Il devient plus réaliste en l’espèce d’inscrire à l’inventaire une valeur équivalant aux dépenses engagées afin que soit réalisé le projet.
+[36] Le montant qui, à mon avis et dans les circonstances, me paraît être le montant réellement dépensé par la filiale de l’appelante en 1991, 1992 et 1993 afin de produire les treize émissions est de 260 000 $. C’est le montant qui dans les circonstances me paraît juste et que l’intimée acceptait au moment de la cotisation comme en reflète d’ailleurs sa position prise au paragraphe 38 de sa réponse modifiée, où elle soutient que la perte de 260 000 $ de la filiale de l’appelante a été subie au plus tard lors de l’exercice se terminant le 28 février 1993. De plus, dans l’avis de ratification présenté par le ministre le 19 mai 2005, la perte était évaluée à 347 014 $.
+[37] Il y a donc bel et bien créance de 260 000 $. À quel moment cette perte fut-elle réalisée? On se souviendra que le 9 février 1993, l’appelante a reçu une lettre de monsieur Laurent Tremblay l’informant qu’aucun contrat n’avait été signé ni aucune instruction de travail produite et que Parcs Canada n’était qu’un partenaire avec d’autres advenant que les fonds soient disponibles. L’exercice de l’appelante pour l’année 1993 se terminait le 28 février suivant et selon l’agent des appels, l’appelante aurait dû inscrire la perte dans ses résultats de l’année 1993.
+[38] À mon avis, la conclusion tirée par l’agent des appels, à savoir que la lettre de Parcs Canada indique clairement qu’il n’y a pas de contrat et que, par conséquent, aucune dette ne serait due à l’appelante reflète une attitude défaitiste et beaucoup trop catégorique. Cela voudrait dire que l’appelante aurait dû, dès la réception de cette lettre voulant qu’il y ait un problème possible avec la participation financière de Parcs Canada, baisser pavillon, tout oublier de ce projet et radier ses pertes sur‑le‑champ. Je ne crois pas que selon les circonstances de l’espèce, il aurait été sage, voire même prudent, de penser qu’une telle créance puisse être radiée à néant sans que certains efforts soient déployés pour la recouvrer, ce qui d’ailleurs a été tenté par l’appelante dans les années suivantes.
+[39] D’un autre côté, il faudrait être très optimiste pour penser que le projet pouvait maintenir sa valeur marchande de 260 000 $ jusqu’en 1997, soit avant qu’on prenne la décision d’abandonner la télésérie. Il est donc possible que la perte n’ait pas dû être totalement radiée en 1993 ou en 1997.
+[40] Devant ces états de choses, il me paraît logique que la filiale aurait dû constater une réduction de la valeur permanente du projet durant plus d’un exercice. Le bien en inventaire aurait alors subi une baisse de sa valeur marchande en 1993, au moment de la réception de la lettre de Laurent Tremblay. Le fait que la filiale de l’appelante ait continué à faire des démarches pour maintenir le projet sur les rails indique qu’il valait toujours quelque chose. Il serait donc aussi logique de conclure que la valeur marchande du bien subissait une baisse au cours des années fiscales subséquentes chaque fois que les démarches étaient infructueuses et ce, jusqu’à l’abandon en 1997.
+[41] Une telle logique pourrait offrir une solution voulant que la valeur marchande du projet soit réduite de 20% pendant chacun des 5 exercices visés, tout en reconnaissant qu’il s’agit d’une diminution purement arbitraire, mais qui résout le problème. Le tableau suivant démontre ce cheminement.
+Année
+Montant
+de la perte
+Année d’expiration
+de la perte
+$
+1993
+52 000
+2000
+1994
+52 000
+2001
+1995
+52 000
+2002
+1996
+52 000
+2003
+1997
+_52 000
+2004
+Total
+260 000
+[42] À mon avis, cette façon de procéder est beaucoup plus fidèle à la réalité que celle de prétendre que la valeur totale de l’inventaire aurait dû être radiée en 1993 ou 1997. La valeur marchande du bien a subi une baisse importante, mais cette baisse n’est pas le résultat d’un évènement, mais plutôt de l’ensemble des circonstances.
+[43] L’appelante pouvait donc reporter une perte de 52 000 $ à son année d’imposition 2003. L’appel est accueilli avec dépens.
+Signé à Ottawa, Canada, ce 21e jour de mai 2008.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2008CCI204
+Nº DU DOSSIER DE LA COUR : 2005-1828(IT)G
+INTITULÉ DE LA CAUSE : Gestion Raynald Lavoie Inc. et SMLR
+LIEU DE L’AUDIENCE : Rimouski (Québec)
+DATE DE L’AUDIENCE : les 28 et 29 mai 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 21 mai 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Pierre Lévesque
+Avocat de l'intimée :
+Me Vlad Zolia
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante:
+Nom : Me Pierre Lévesque
+Cabinet : Cain Lamarre Casgrain Wells, avocats
+Rimouski (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,223 @@
+Title: Basal v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521019/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-154-521019-basal-v-the-king-en.md
+Document type: case_law
+Last modified: 2022-11-30
+
+# Basal v. The King
+
+- Citation: 2022 TCC 154
+- Decision date: 2022-11-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5814, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Basal v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-11-30
+Neutral citation
+2022 TCC 154
+File numbers
+2020-1237(GST)G, 2020-1240(GST)G
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2020-1237(GST)G
+BETWEEN:
+RONEN BASAL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion made pursuant to section 53 of the Tax Court of Canada Rules (General Procedure) heard by video conference on May 12, 2022, at Ottawa, Ontario.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+Jean-François Dorais
+Arnaud Prud’Homme
+Counsel for the Respondent:
+Julie Dilli
+ORDER
+In accordance with the attached Reasons for Order, the Court orders that paragraphs 27(g), (h), (k) and (n) of the Reply to the Notice of Appeal are hereby struck. The Respondent shall have 30 days from the date hereof to file an amended Reply. Costs shall be at the discretion of the trial judge.
+Signed at Ottawa, Canada, this 30th day of November 2022.
+“Smith, J”
+Smith J.
+Docket : 2020-1240(GST)G
+BETWEEN :
+RONEN BASAL,
+Appellant,
+and
+HER MAJESTY THE KING,
+Respondent.
+Motion made pursuant to section 53 of the Tax Court of Canada Rules (General Procedure) heard by video conference on May 12, 2022, at Ottawa, Ontario
+Before : The Honourable Justice Guy R. Smith
+Appearances :
+Counsel for the Appellant :
+Me Jean-François Dorais
+Me Arnaud Prud’Homme
+Counsel for the Respondent :
+Me Julie Dilli
+ORDER
+In accordance with the attached Reasons for Order, the Court orders that paragraphs 26(d), (e), (h) and (k) of the Reply to the Notice of Appeal are hereby struck. The Respondent shall have 30 days from the date hereof to file an amended Reply. Costs shall be at the discretion of the trial judge.
+Signed at Ottawa, Canada, this 30th day of November 2022.
+“Smith, J”
+Smith J.
+Citation: 2022 TCC 154
+Date: 20221130
+Dockets: 2020-1237(GST)G
+2020-1240(GST)G
+BETWEEN:
+RONEN BASAL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Smith J.
+[1] This matter involves a motion to strike out certain paragraphs of the Reply to the Notice of Appeal, filed in each separate appeal.
+[2] At issue are assessments made by the Minister of National Revenue (the "Minister") pursuant to subsection 323(1) of Part IX of the Excise Tax Act, R.S.C. 1985, c. E-15 (the "ETA"). According to this provision, a director of a corporation may be held liable for its tax liability if he or she fails to exercise due diligence.
+[3] I will first provide a summary of the two assessments followed by an overview of the applicable law for motions to strike and the arguments of the parties.
+Summary of the Appeal – 2020-1240
+[4] In the appeal described as 2020-1240, the Appellant appeals from an assessment dated May 11, 2018, in which the Minister held him liable for the tax debt of 9264-8476 Québec Inc. ("9264") for the period from June 1, 2016, to December 31, 2017.
+[5] The Appellant challenges this assessment on the basis that he was an employee and not a director of 9264. He further argues that the Minister has not met the requirements of subsection 323(2) of the ETA. The Appellant argues that the underlying debt is unfounded in fact and in law, in particular because the Minister did not take into account the input tax credits ("ITCs") to which 9264 was entitled.
+[6] It is not disputed that Judith Basal, the Appellant's mother, was the director of 9264. However, the Minister maintains that the Appellant was a de facto director and is therefore jointly liable for the tax debt under subsection 323(1).
+[7] The Minister maintains that the tax liability of 9264, taking into account the Goods and Services Tax ("GST") collected but not remitted and ITCs claimed or obtained in error or without entitlement for the period in question, amounts to $2,917,374.
+[8] The assessment against 9264 was not the subject of a Notice of Objection and is now statute-barred. However, it is well established that the Appellant may nonetheless challenge the merits of the underlying assessment.
+[9] In paragraph 26 of the Reply to the Notice of Appeal, the Minister explains that the assessment was issued on the basis of certain factual assumptions. In the context of this motion, the Appellant seeks to strike paragraphs 26(c) to (m) which will be reviewed in more detail below.
+[10] At paragraphs 27 and 28, the Minister acknowledges that the two issues in dispute are whether the assessment against 9264 and thus the underlying debt, is valid in fact and in law, and secondly, whether the Appellant is liable as a de facto director.
+Summary of the Appeal – 2020-1237
+[11] In the appeal described as 2020-1237, the Appellant also appeals from an assessment dated May 11, 2018, in which the Minister held him liable for the tax debt of 8084793 Canada Inc. ("Canada Inc."), for the period from September 1, 2013, to May 31, 2016.
+[12] The Appellant again challenges the assessment against him on the ground that he was an employee of Canada Inc. and not a director. He claims that the underlying debt is unfounded in fact and in law, in particular because the Minister did not take into account the ITCs to which the company was entitled.
+[13] It is not disputed that Baruch Basal, the Appellant's father, was the director of Canada Inc. but the Minister maintains that the Appellant was also a de facto director and that he is therefore jointly liable for the underlying debt under subsection 323(1).
+[14] I will add that it is not disputed that the activities of Canada Inc. as declared in the Quebec Enterprise Register were "management of construction work" and "other construction-related services".
+[15] The Minister maintains that Canada Inc.'s tax liability takes into account GST collected but not remitted and ITCs that were claimed or obtained in error or without entitlement for the period in question. The amount owed is $198,865.
+[16] The assessment against Canada Inc. was not the subject of a Notice of Objection and is now statute-barred. However, it is understood that the Appellant may nonetheless challenge the merits of the underlying assessment.
+[17] In paragraph 27 of the Reply to the Notice of Appeal, the Minister explains that the assessment was issued based on certain factual assumptions, including paragraphs 26(f) to (p), which the Appellant now seeks to strike out.
+[18] At paragraphs 27 and 28, the Minister acknowledges that the two issues in dispute are whether the assessment against Canada Inc. and thus the underlying debt, is valid in fact and in law, and secondly, whether the Appellant is jointly liable as a de facto director.
+Applicable Law – Pleadings and Relevance
+[19] Before reviewing the arguments of the parties, I will review the applicable law by first addressing the nature of pleadings and the issue of relevance.
+[20] Section 49 of the Tax Court of Canada Rules (General Procedure) (SOR/90-688a) (the "Rules") provides, at paragraphs 49(d) and (e), that the reply to a notice of appeal must set out "the findings or assumptions of fact upon which the Minister has relied in making the assessment" and "any other relevant facts."
+[21] The notion of relevance was reviewed by Sommerfeldt J. in Scott v. The Queen, 2017 TCC 224 ("Scott"), relied upon by the Appellant. It dealt with the admissibility of an affidavit signed by a Canada Revenue Agency auditor and attached tax returns of a trust that had paid money to the appellants. The appellants objected to the admissibility of the affidavit, raising the issue of relevance as well as the issue of third party confidentiality, which I will address further below.
+[22] Sommerfeldt J. reviewed the so-called "classical description of relevance" from the Supreme Court of Canada decision of White v. The Queen, 2011 SCC 13, [2011], S.C.R. 433. Rothstein J. explained that “in order for evidence to satisfy the standard of relevance, it must have some tendency as a matter of logic and human experience to make the proposition for which it is advanced more likely than that proposition would be in the absence of that evidence” (para. 36).
+[23] Sommerfeldt J. then cited Oro Del Norte S.A. v. The Queen, 90 DTC 6373, where Jerome C.J. stated:
+... I fail to see how documents pertaining to the activities of other mining companies, whether similar to the plaintiffs or not, can in any way “lead the plaintiffs to a train of inquiry which may directly or indirectly advance their case or damage the defendant’s case...” The Minister has an obligation to treat all similarly situated taxpayers in the same manner, but it does not follow that documents pertaining to a similarly situated taxpayer are relevant to any other taxpayer’s reassessment.
+[My Emphasis]
+[24] I note that Sommerfeldt J. found that the tax returns attached to the affidavit at issue were relevant and that there was a presumption of validity. However, he refused to admit the document into evidence for other reasons, including the fact that it had been introduced at the last minute without adequate notice.
+[25] The importance of the relevant facts was also reviewed in Globtek Inc. v. The Queen, 2005 TCC 727 ("Globtek"), cited by the Appellant in this proceeding. The taxpayer had sought to strike out certain paragraphs of the reply to the notice of appeal. Bowie J. made some observations regarding the importance of pleadings and indicated that the "basic rule" applicable to pleadings is that "the litigant must set out the relevant facts on which he or she bases his or her claim or defence" and that "in the context of a reply to a notice of appeal (…) a fact is relevant if, when established, it tends to show that the assessment appealed from is well founded”. He added at paragraph 6:
+6. (…) The manner in which the taxpayer's situation came to the Minister's attention (...) and any other facts that led to the decision to audit the taxpayer are irrelevant to the propriety of the assessment to which that audit gave rise.
+[26] At paragraphs 7 and 8, Bowie J. concludes that the assessment raises "a narrow issue" and need not be complicated by including "allegations that are not relevant to the outcome of the litigation" and "cannot affect the merits" of the assessment or that could prolong "discovery and trial, and the preparation for both". Bowie J. therefore granted the motion to strike.
+[27] However, in Gould v. The Queen, 2005 TCC 556 ("Gould"), Bowman C.J. had refused to strike out certain paragraphs of the reply to the notice of appeal that included details of a scheme in which the appellant was alleged to have participated. He refers to the "the alleged scheme" and states:
+11. I can see nothing wrong with the Overview. It describes generally the “scheme” in which the Minister alleges the appellant participated. I think it is arguably relevant that the appellant’s charitable donations are not an isolated phenomenon but form part of a larger pattern. What weight if any should be given to this fact will be a matter for the judge who hears the case. It would be premature and indeed inappropriate for me, sitting as a motions judge, without the benefit of having heard any evidence to decide whether so broad a description of an alleged “scheme” is relevant. To do so would be to usurp the function of the trial judge.
+[My Emphasis]
+Information Concerning Third Parties
+[28] In Status-One Investments Inc. v. The Queen, 2004 TCC 473 ("Status-One"), cited by the Appellant, Rip J. (as he then was) had ordered that certain paragraphs of the amended reply be struck out, having found that the respondent was attempting to introduce new allegations that broadened the dispute to include other taxpayers. He expressed certain reservations but indicated that it might be permissible:
+30. (…) Considerable caution should be exercised when third parties are involved. The relevant actions are those of the appellant, which has been assessed and is entitled to know why. In some cases, it is quite possible that relationships or ties between an appellant and third parties will be relevant. (…) An appellant must always make his own case. The Minister must assess taxpayers based on what the taxpayers have or have not done, and not, generally, on the conduct of a third party.
+[My Emphasis]
+[29] The Federal Court of Appeal agreed in Canada v. Status-One Investments Inc., 2005 FCA 119, stating that "the relevance or irrelevance of allegations of third party conduct must be assessed in light of the pleadings" (para. 17) and that “it is quite possible that relationships or ties between an appellant and third parties will be relevant to the determination of its tax payable. But it is still necessary for the pleadings to indicate precisely how those ties or relationships could serve that purpose” (para 19).
+[30] However, in Gould, referred to above, the appellant had sought to strike out certain allegations concerning third parties with whom he had never dealt. Bowman C.J. explained at paragraph 21:
+21. (…) A central component in the assessment which disallowed the charitable donations is the existence of a “scheme” in which it is alleged that the appellant participated and which enabled the participants to obtain what the Crown sees as artificial or inflated charitable tax credits. It of necessity involved third parties and if the existence of a scheme is essential to the Crown’s case it should be able to plead and prove all of the components of the scheme (…).
+[My Emphasis]
+[31] Bowman C.J. added at paragraph 23:
+23. (…) Generally speaking, the striking out of portions of a pleading under section 53 of the Rules should be reserved for only the plainest and most obvious cases. Matters of weight and relevancy are best determined by the trial judge who will have heard all of the evidence. Frequently the significance of a piece of evidence will not become clear until the end of a case.
+[32] In the context of the disclosure of third party confidential information, the Appellant refers to subsection 241(1) of the Income Tax Act, R.S.C., 1985, c.1 (5th Suppl.) which provides that “no official or other representative of a government entity shall (…) knowingly provide or permit the provision of confidential information to any person.” However, I note that section 241(3) provides that this rule does not apply to "legal proceedings relating to the administration or enforcement of the Act.” This matter is best left to the trial judge.
+Section 53 of the Rules
+[33] I now turn to Section 53 of the Rules that provides as follows:
+53 (1) The Court may, on its own initiative or on application by a party, strike out or expunge all or part of a pleading or other document with or without leave to amend, on the ground that the pleading or other document
+(a) may prejudice or delay the fair hearing of the appeal;
+(b) is scandalous, frivolous or vexatious;
+(c) is an abuse of the process of the Court; or
+(d) discloses no reasonable grounds for appeal or opposing the appeal.
+(2) No evidence is admissible on an application under paragraph (1)(d).
+(3) On application by the respondent, the Court may quash an appeal if
+(a) the Court has no jurisdiction over the subject matter of the appeal;
+(b) a condition precedent to instituting an appeal has not been met; or
+(c) the appellant is without legal capacity to commence or continue the proceeding.
+[34] In the recent decision of Métrobec v. The Queen, 2019 TCC 250 ("Métrobec"), relied upon by the Crown, the appellant had brought a motion to strike out certain paragraphs of the reply to the notice of appeal. At paragraph 13, D'Auray J. stated that "the test for striking out ... under Rule 53 is whether it is obvious and manifest that the disputed portions of the pleading have no chance of success.”
+[35] D'Auray J. went on to state that "the obviousness test has long been generally recognized as the test for striking out motions" and that in Sentinell Hill Productions (1999) v. The Queen, 2007 TCC 742 ("Sentinell Hill"), Bowman J. (as he then was) had stated at paragraph 4 that:
+(a) The facts as alleged in the impugned pleading must be taken as true subject to the limitations stated in Operation Dismantle Inc. v. Canada, [1985] 1 S.C.R. 441 at 455. It is not open to a party attacking a pleading under Rule 53 to challenge assertions of fact.
+(b) To strike out a pleading or part of a pleading under Rule 53 it must be plain and obvious that the position has no hope of succeeding. The test is a stringent one and the power to strike out a pleading must be exercised with great care.
+(c) A motion judge should avoid usurping the function of the trial judge in making determinations of fact or relevancy. Such matters should be left to the judge who hears the evidence.
+[My Emphasis]
+[36] D'Auray J. concluded at paragraph 16 that "an allegation in a proceeding will be determined to be irrelevant only if, on its face, there is no doubt that the allegation is irrelevant. If there is any doubt as to the relevance of the allegation, it is wiser not to strike out the allegation." She added that “a paragraph or part of a paragraph will only be struck from a pleading if it is clear and obvious that the facts alleged do not disclose a reasonable cause of action. In case of doubt, the determination of the relevance of the facts is best left to the trial judge who, unlike the judge presiding over the motion, will have access to all the evidence” (para.17).
+The Motion(s) to Strike
+[37] The Appellant seeks to strike out paragraphs 27(f) to (p) of the Reply to the Notice of Appeal in court file 2020-1237 and paragraphs 26(c) to (m) in court file 2020-1240. Although the numbering is different, the allegations are virtually identical.
+[38] In the context of the Motions to Strike, the Appellant has prepared a grid or chart that summarizes the arguments as either: (i) the allegation could delay or prejudice the hearing of the appeals, (ii) the allegation attempts to unduly implicate third parties, (iii) the allegation could unduly provide tax information about third parties, or (iv) the allegation will unnecessarily colour the debate.
+[39] Overall, I note that in making the assessments, the Minister has assumed that the Appellant and certain members of his family entered the real estate development industry and that they controlled the companies involved in the management of the construction services and the actual construction of the buildings. Secondly, the Minister has assumed that the vacant land on which a building was constructed, was registered in the name of various companies and that the de jure directors of those companies were members of the Basal family.
+[40] Thirdly, the Minister has assumed that there was a modus operandi or scheme - without using those terms - whereby the companies would allege that they were in financial difficulty in order to facilitate a judicial sale of the assets. The land and building were then purchased from the trustee in bankruptcy by companies controlled by the Appellant or members of his family. In all instances, the first ranking mortgagee was able to secure the monies owed to it. The Minister alleges that these steps were undertaken to thwart the unsecured creditors including the Canada Revenue Agency.
+Paragraph 27(f) / Paragraph 26(c)
+[41] I will begin with paragraph 27(f) of court file 2020-1237 and paragraph 26(c) of court file 2020-1240 which refer to "Ronen's family", i.e. the Basal family, which includes his parents, Barush Basal and Judith Basal, and their children, namely the Appellant himself and his brother Shay Basal.
+[42] The Appellant claims that the assessments in question were issued in respect of him personally and that these allegations attempt to unduly implicate third parties.
+[43] According to the Respondent's submissions, the Appellant was acting in concert with members of his family, who were directors of the companies with the underlying debts and of several other companies that owned the vacant land on which buildings were constructed.
+[44] The Court is of the view that these allegations are relevant even if members of the Appellant’s family can be described as third parties. As noted in Status-One, supra, great care must generally be exercised in dealing with third parties but it may be that an appellant's relationship with third parties is relevant. Moreover, according to Gould, supra, if the Minister's case is that there was a scheme, she must necessarily identify the participants. This issue is best left to the trier of fact.
+Paragraphs 27(d) and (e) / Paragraphs 26(g) and (h)
+[45] These paragraphs attempt to establish that the Basal family was involved in the diamond industry prior to entering the real estate business and that several of the companies operating in this field went bankrupt in 2013 following the disappearance of diamonds worth millions of dollars.
+[46] The Appellant argues that these allegations unduly implicate third parties, but adds that they will unduly prejudice or delay the fair conduct of the appeals and, ultimately, that they unnecessarily colour the debate.
+[47] The Respondent claims that this information is available from multiple public sources and is not confidential.
+[48] The Court is of the view that these allegations of fact are not relevant to the assessments. Relying on the words of Bowie J. in Globtek, I do not see that these facts, "once established", will assist the trial judge in concluding whether the assessments in question are well founded in fact and in law.
+[49] The Court agrees with the Appellant that these allegations "unnecessarily colour the debate" and will "prejudice or delay the fairness of the appeal" within the meaning of Rule 53(1)(a). They should be struck.
+Paragraphs 27(i) and (j) / Paragraphs 26(f) and (g)
+[50] These paragraphs allege that the Basal family formed several companies to start their real estate projects, including 9264, also known as the “BSR Group”. The main shareholder was a company controlled by Barush Basal, whose director was Judith Basal.
+[51] It is indicated that 9264 went bankrupt and that a new company was incorporated, being 9376-2342 Québec Inc. and that it was also known under the corporate name Groupe BSR. This company assumed 9264's activities as general contractor for projects involving buildings located on land owned by related companies.
+[52] The Minister then indicates that several related companies own land on which a building was constructed by the BSR Group. This Minister lists twenty-nine corporations that have either the Appellant or one of the Basal family members as directors. In particular, the Appellant was assessed under subsection 323(1) for some of the companies included in this list.
+[53] The Appellant again argues that these allegations unduly implicate third parties and will unduly prejudice or delay the fair conduct of the appeals. He adds that these allegations unnecessarily colour the debate.
+[54] The Court rejects these contentions and finds that these allegations of fact are relevant since they support the Minister's contention that there was a scheme or modus operandi to allow these companies to avoid their tax liabilities.
+[55] The Court is of the opinion that the analysis of the relevance of these allegations is best left to the judge who will hear the evidence.
+Paragraph 27(k) / Paragraph 26(h)
+[56] These allegations claim that "the companies" are indebted for various taxes, including GST/QST in an amount exceeding $30 million.
+[57] The Appellant maintains that this allegation could delay or prejudice the hearing of the appeals, that it attempts to unduly implicate third parties, that it could unduly provide tax information about third parties and that the allegations will unnecessarily colour the debate.
+[58] In the Court's view, these allegations are vague and irrelevant and will not assist the trial judge in determining whether the assessments in question are well founded in fact and in law.
+Paragraphs 27(l) to (p) / Paragraphs 26(i) to (m)
+[59] The following six paragraphs contain the alleged facts surrounding the scheme or modus operandi. It is indicated that: (i) Rompsen Investment Corporation is the principal creditor for the various projects and holds a general mortgage and guarantees of the companies in question and the assets of the Basal family; (ii) expenses related to the construction of a building are incurred and the related ITCs are claimed quarterly; (iii) the company that holds title to the property subsequently claims to be in financial difficulty; iv) court authorization is obtained for the judicial sale of the property to a newly incorporated company still owned by the same person; v) the company, having no more assets, declares bankruptcy; vi) the principal creditor resumes or maintains its claim on the land; and consequently, vii) unsecured creditors, including the tax authorities, are unable to recover any amounts owed to them.
+[60] The Court finds that this general description of the scheme or modus operandi and the parties involved is best left to the trial judge.
+[61] However, paragraph 26(k) of the court file 2020-1240 and paragraph 26(n) of the court file 2020-1237 contain conclusions of law that are not, strictly speaking, allegations or assumptions of fact. These paragraphs should be struck.
+[62] The Appellant claims that all of these allegations could delay or prejudice the hearing of the appeals and that they attempt to unduly implicate third parties. The appellant also claims that these allegations could unduly provide tax information about third parties and will unnecessarily colour the debate.
+[63] With the exception of the paragraphs containing conclusions of law, the Court agrees with the Respondent that these allegations are relevant to the litigation as a whole, including the issue of the scheme. The Court finds that it is not plain and obvious that these allegations should be struck as they provide the Appellant with a better understanding of the Respondent's position and will enable the trial judge to reach a conclusion as to the validity of the assessments in question.
+Conclusion
+[64] In light of the foregoing, the Court orders that the following paragraphs be struck:
+- Appeal 2020-1240, paragraphs 26(d), (e), (h), and (k);
+- Appeal 2020-1237, paragraphs 27(g), (h), (k) and (l).
+[65] The Respondent will have 30 days to file an amended Reply to the Notice of Appeal. Costs will be at the discretion of the trial judge.
+Signed at Ottawa, Canada, this 30th day of November 2022.
+“Smith, J”
+Smith J.
+CITATION:
+2022 TCC 154
+COURT FILE NOS.:
+2020-1237(GST)G
+2020-1240(GST)G
+STYLE OF CAUSE:
+RONEN BASAL AND THE KING
+PLACE OF HEARING:
+Ottawa, Canada
+DATE OF HEARING:
+May 12, 2022
+REASONS FOR ORDER BY:
+The Honourable Justice Guy R. Smith
+DATE OF ORDER:
+November 30, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Jean-François Dorais
+Arnaud Prud’Homme
+Counsel for the Respondent:
+Julie Dilli
+COUNSEL OF RECORD
+For the Appellant:
+Name:
+Jean-François Dorais
+Arnaud Prud’Homme
+Firm:
+Lapointe Rosenstein Marchand Melançon
+Montreal, Quebec
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada

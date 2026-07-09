@@ -1,0 +1,184 @@
+---
+title: "Cawthorne c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/143691/index.do"
+last_modified: "2016-05-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 94"
+citation2: ""
+neutral_citation: "2016 CCI 94"
+decision_date: "2016-05-24"
+language: "fr"
+item_id: "143691"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3127
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:01:55.818000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "41e9235e53b0b23d4bdf9a933e24ec6923e193b5780c575aa499938aec3097b6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cawthorne c. La Reine
+
+- Citation: 2016 CCI 94
+- Decision date: 2016-05-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3127, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cawthorne c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-05-24
+Référence neutre
+2016 CCI 94
+Numéro de dossier
+2013-2186(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-2186(IT)G
+ENTRE :
+MANON CAWTHORNE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 20 novembre 2015, à Montréal (Québec)
+Devant : L'honorable juge B. Paris
+Comparutions :
+Avocat de l'appelante :
+Me Serge Fournier
+Avocate de l'intimée :
+Me Christina Ham
+JUGEMENT MODIFIÉ
+L’appel interjeté d’une cotisation portant le numéro 1839578 en vertu de la Loi de l’impôt sur le revenu est rejeté, avec dépens à l’intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 24e jour de mai 2016.
+« B.Paris »
+Juge Paris
+Référence : 2016 CCI 94
+Date : 20160419
+Dossier : 2013-2186(IT)G
+ENTRE :
+MANON CAWTHORNE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Il s’agit d’un appel interjeté à l’encontre d’une cotisation établie par le ministre du Revenu national (le « ministre ») en vertu du paragraphe 160(1) de la Loi de l’impôt sur le revenu (« LIR »). Dans cette cotisation, le ministre tient l’appelante solidairement responsable avec son conjoint de fait, M. Denis Savard, du paiement d’une somme de 178 024 $ au titre de la dette fiscale qu’avait M. Savard en vertu de la LIR pour les années d’imposition 2000 et 2001.
+[2] L'article 160 de la LIR permet au ministre de recouvrer une créance fiscale auprès d'une personne autre que le débiteur fiscal si certaines conditions prévues par la loi sont remplies. De façon générale, le paragraphe 160(1) s’appliquera s’il y a eu transfert d’un bien par le débiteur fiscal à une personne avec qui il a un lien de dépendance et si le transfert se fait pour une contrepartie moindre que la juste valeur marchande du bien au moment du transfert.
+[3] Selon l’intimée, le 30 avril 2003, M. Savard a transféré à l’appelante un bien, l’appartement 1209, situé au 15, rue des Émeraudes, à Repentigny, Québec (le « bien » ) pour la somme de un dollar, au moment où il avait une dette fiscale de 2 009 293,73 $.
+[4] Les seules questions en litige sont de savoir s’il y a eu transfert du bien à l’appelante et, dans l’affirmation, quelle était la contrepartie donnée pour le bien.
+Faits [5] L’appelante et M. Savard sont conjoints de fait depuis 1999.
+[6] Le 31 mai 2000, M. Savard a acquis le bien et, le 14 juin 2001, la Société Hypothécaire Scotia (« Scotia ») lui a accordé un prêt hypothécaire de 175 000 $ à l’égard du bien.
+[7] En 2003, l’appelante avait l’intention d’ouvrir un centre de massothérapie, appelé Laser Spa, financé en partie par un prêt pour petites entreprises (« PPE »). Cependant, elle dit que son bilan n’était pas assez bon pour obtenir le PPE.
+[8] Afin d’aider l’appelante à réaliser son projet, M. Savard a offert de lui vendre le bien pour 1 $, permettant ainsi à l’appelante « d’avoir un plus beau bilan » de façon à satisfaire aux conditions d’obtention d’un PPE.
+[9] M. Savard était alors sur le point de mettre en vente le bien, et l’appelante a témoigné qu’elle et M. Savard se sont entendus qu’elle remettrait à M. Savard la totalité de la valeur nette du bien si elle le vendait ultérieurement.
+[10] Alors, le 7 avril 2003, l’appelante et son conjoint ont signé une entente intitulée « Prêt d’un condo pour le financement de Laser Spa », dont la partie pertinente se lit comme suit :
+1. Manon Cawthorne pourra acheter pour 1,00 $ plus l’assumassions de l’hypothèque de 175 000 $ de la Banque Scotia le ou avant le 30 avril 2003 le condo propriété de Denis Savard située au 15 des Emeraudes app. 1209, Repentigny (Québec) ;
+2. Au moment de la vente du condo ou de l’obtention d’un financement suffisant pour Laser Spa, Manon Cawthorne remettra à Denis Savard la totalité de l’équité nette du condo ;
+3. La durée de ce prêt est de 3 ans maximum ;
+4. Ce prêt est sans intérêts.
+[11] À la même date, M. Savard a mis le bien en vente.
+[12] Le 30 avril 2003, M. Savard a transféré le bien à l’appelante. Ce transfert a été constaté dans un acte de cession sous forme d’acte notarié stipulant que la cession était faite pour « la somme d’un dollar et autres bonnes et valables considérations », et était assujetti à la condition que l’appelante prenne à sa charge l’hypothèque existante.
+[13] À la suite de l’addition du bien à son actif, l’appelante a soumis un bilan ventilant son actif et son passif en vue d’obtenir le PPE. L’obligation de l’appelante de remettre à M. Savard le montant de la valeur nette du bien ne paraît nulle part au bilan.
+[14] Le 1er mai 2003, l’appelante a débuté l’exploitation de son entreprise, qui a été constituée en société à cette même date.
+[15] Entre le 30 avril et le 3 juin 2003, M. Savard a payé les versements hypothécaires et les autres frais liés au bien.
+[16] Le 3 juin 2003, l’appelante a vendu le bien à des tiers pour la somme de 353 025 $.
+[17] Conformément à l’engagement pris avec son conjoint, elle a remis à M. Savard la somme du produit de la vente, après le remboursement de l’hypothèque, soit 181 397,46 $.
+[18] Le 30 avril 2003, M. Savard avait une dette fiscale totale de 2 009 293,73 $, c’est-à-dire 1 915 140,72 $ en impôts, intérêts et pénalités pour l’année d’imposition 2000 et 94 153,01 $ en impôts, intérêts et pénalités pour l’année d’imposition 2001.
+[19] Le 13 juin 2013, le ministre a cotisé l’appelante en vertu de l’article 160 de la LIR pour un montant de 178 024 $ calculé comme suit :
+Valeur de l’immeuble
+(Hypothèque sur l’immeuble)
+353 025 $
+(175 000 $)
+Valeur nette de l’immeuble
+(Contrepartie)
+178 025 $
+(1$)
+Excédent
+178 024 $
+Thèse de l’appelante [20] L’appelante dit que le bien n’a pas été transféré parce que la relation juridique entre l’appelante et M. Savard en ce qui concerne le bien était de la nature d’un mandat comme ce fut le cas dans l’affaire La Reine c. Lemire, 2013 CAF 242.
+[21] Subsidiairement, l’appelante affirme qu’elle a fourni une contrepartie pour le transfert du bien égale à sa juste valeur marchande. Selon elle, la contrepartie donnée incluait son engagement à rendre à M. Savard la totalité de la valeur nette du bien au moment de la vente du bien. Ainsi, l’appelante demande à la Cour de rejeter l’argument de l’intimée que le contrat notarié constitue une simulation destinée à tromper les tiers et que l’entente entre l’appelante et son conjoint concernant le remboursement de l’intégralité du produit de la disposition constitue une contre-lettre.
+[22] L’appelante soutient que la contrepartie indiquée par l’acte de cession incluait « autres bonnes et valables considérations » et que cette phrase tenait compte de l’engagement de l’appelante à rembourser à M. Savard la valeur nette du bien. L’appelante invite la Cour à suivre la décision de Tanguay c. La Reine, 97 DTC 947, où la Cour a conclu, sur le fondement de faits très similaires à ceux en l’espèce, qu’il n’y avait pas eu de simulation.
+Thèse de l’intimée [23] L’intimée soutient que le ministre n’est pas lié par l’entente intitulée « Prêt d’un Condo » (Pièce A-3) conclue par l’appelante et M. Savard, parce qu’il s’agissait d’une contre-lettre et que l’acte de cession en date du 30 avril 2003 (Pièce I-1) par laquelle le bien a été transféré constitue une simulation au sens de l’article 1451 du Code civil du Québec, L.R.Q. c. C-1991 (« C.c.Q.) ».
+[24] La procureure de l’intimée dit aussi que l’arrêt Lemire n’est pas applicable en l’espèce puisque la contribuable dans cette affaire n’était pas partie à un acte simulé, contrairement à l’appelante ici. Face à la simulation, le ministre peut se prévaloir de l’acte apparent, qui est l’acte notarié de cession du bien pour une contrepartie de un dollar et la prise en charge de l’hypothèque existante.
+[25] Finalement, la procureure de l’intimée soutient que cet acte notarié ne fait pas mention d’un autre acte ou d’une autre contrepartie qui aurait pu être prévue par les parties et que la Cour devrait conclure qu’il n’y avait pas d’autre contrepartie que la somme de un dollar et la prise en charge de l’hypothèque existante.
+Dispositions législatives [26] Les parties pertinentes du paragraphe 160(1) de la LIR et du C.c.Q. se lisent comme suit :
+160.(1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent :
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74.1 à 75.1 de la présente loi et de l’article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts revisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l’égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants représentant chacun un montant que l’auteur du transfert doit payer en vertu de la présente loi (notamment un montant ayant ou non fait l’objet d’une cotisation en application du paragraphe (2) qu’il doit payer en vertu du présent article) au cours de l’année d’imposition où les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années.
+Toutefois, le présent paragraphe n’a pas pour effet de limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi ni celle du bénéficiaire du transfert quant aux intérêts dont il est redevable en vertu de la présente loi sur une cotisation établie à l’égard du montant qu’il doit payer par l’effet du présent paragraphe.
+1451. Il y a simulation lorsque les parties conviennent d'exprimer leur volonté réelle non point dans un contrat apparent, mais dans un contrat secret, aussi appelé contre-lettre.
+Entre les parties, la contre-lettre l'emporte sur le contrat apparent.
+1452. Les tiers de bonne foi peuvent, selon leur intérêt, se prévaloir du contrat apparent ou de la contre-lettre, mais s'il survient entre eux un conflit d'intérêts, celui qui se prévaut du contrat apparent est préféré.
+Analyse [27] Afin de déterminer la nature de la relation juridique entre l’appelante et M. Savard par rapport au bien, et toute contrepartie donnée par l’appelante à M. Savard, il faut d’abord examiner la question de la simulation.
+[28] À mon avis, la preuve présentée à la Cour démontre clairement que l’entente du 8 avril intervenue entre l’appelante et M. Savard est une contre-lettre dans laquelle ils ont exprimé leurs vraies intentions quant au transfert du bien à l’appelante, intentions qui étaient contraires aux termes de l’acte notarié de cession du bien. Selon l’appelante elle-même, elle désirait présenter « un plus beau bilan » à l’institution financière à qui elle a demandé un PPE en prétendant qu’elle était propriétaire du bien et que la valeur nette de ce dernier, soustraction faite du prêt hypothécaire existant, lui appartenait. Le document intitulé « Bilan provisionnel au 1er mai 2003 », qu’elle admet avoir fourni en son nom à l’institution financière, ne faisait pas état dans la catégorie « passifs » d’une obligation de sa part de rendre toute la valeur nette du bien à M. Savard à une date ultérieure. Il est incontestable que l’appelante voulait créer une apparence trompeuse en ce qui concerne son avoir net et qu’elle cherchait à l’accomplir au moyen de l’acte notarié de cession. Il s’ensuit que l’acte notarié était une simulation.
+[29] Je n’accepte pas la prétention du procureur de l’appelante que la phrase « autres bonnes et valables considérations » qui figure dans le prix fixé dans l’acte notarié de transfert fait référence à son engagement à rendre à M. Savard la totalité la valeur nette du bien parce qu’elle voulait donner l’impression que cette valeur nette lui appartenait à elle et non à M. Savard. C’était contraire aussi aux renseignements figurant dans le bilan auquel j’ai déjà fait référence. À la lumière de toute la preuve, je suis d’avis que l’entente intitulée « Prêt d’un Condo » ne constituait pas un élément complémentaire à l’acte notarié de cession, comme l’appelante le prétend, mais était plutôt une contre-lettre.
+[30] Ayant conclu qu’il y avait contre-lettre et simulation, le cas de l’appelante se distingue de celui de la contribuable dans la décision Tanguay, où le juge Dussault a dit au paragraphe 22 :
+Compte tenu de la preuve présentée, je ne crois pas que le contrat notarié constitue une simulation destinée à tromper les tiers ni que l’entente entre l’appelante et son conjoint concernant le remboursement de sa part de la propriété constitue une contre-lettre. […]
+[31] La décision de la Cour d’appel fédérale dans l’arrêt Lemire n’est pas elle non plus applicable en l’espèce, pour la même raison. La Cour d’appel fédérale a conclu que, selon la preuve acceptée par le juge de première instance, Mme Lemire « ne s’est pas rendue partie à un acte simulé » (arrêt Lemire, paragraphe 33).
+[32] Alors, en présence d’une simulation, le ministre a le droit, selon l’article 1452 du C.c.Q., de se prévaloir de l’acte apparent, à l’effet qu’il y eu transfert du bien et que la contrepartie était 1 $ et la prise en charge de l’hypothèque existante.
+[33] Pour tous ces motifs, l’appel est rejeté avec dépens à l’intimée.
+Signé à Ottawa, Canada, ce 19e jour d’avril 2016.
+« B.Paris »
+Juge Paris
+RÉFÉRENCE :
+2016 CCI 94
+Nº DU DOSSIER DE LA COUR :
+2013-2186(IT)G
+INTITULÉ DE LA CAUSE :
+MANON CAWTHORNE ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 20 novembre 2015
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge B. Paris
+DATE DU JUGEMENT MODIFIÉ:
+le 24 mai 2016
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Serge Fournier
+Avocate de l'intimée :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Me Serge Fournier
+Cabinet :
+Montréal (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

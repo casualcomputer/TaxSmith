@@ -1,0 +1,220 @@
+Title: Sienema v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29976/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-468-29976-sienema-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-09-10
+
+# Sienema v. The Queen
+
+- Citation: 2010 TCC 468
+- Decision date: 2010-09-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6459, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sienema v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-09-10
+Neutral citation
+2010 TCC 468
+File numbers
+2010-572(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-572(IT)I
+BETWEEN:
+JERRY G. SIENEMA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 23, 2010, at Winnipeg, Manitoba
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Nalini Persaud
+Brad Bedard (student-at-law)
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act with respect to the 2008 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 10th day of September 2010.
+“L.M. Little
+Little J.
+Citation: 2010 TCC 468
+Date: September 10, 2010
+Docket: 2010-572(IT)I
+BETWEEN:
+JERRY G. SIENEMA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellant suffers from psoriatic arthritis and psoriasis. He was first diagnosed with this condition in 1995.
+[2] In the 2008 Taxation Year, the Appellant lived in Beausejour, Manitoba.
+[3] In the 2008 Taxation Year, the Appellant’s parents lived in Whitemouth, Manitoba, which is approximately 51 kilometres from Beausejour.
+[4] When the Appellant filed his income tax return for the 2008 taxation year, he claimed medical expenses of $35,212.08.
+[5] The Minister of National Revenue (the “Minister”) allowed the Appellant to claim medical expenses of $2,379.70.
+[6] The Minister did not allow the Appellant to claim the following expenses totalling $32,831.49.
+Whitemouth
+Winnipeg
+Portage la Prairie
+Total
+Transportation for Appellant
+$ 8,035.56
+$ -
+$175.74
+Transportation for Attendant
+8,035.56
+63.63
+303.00
+Meals for Appellant
+7,956.00
+51.00
+102.00
+Meals for Attendant
+7,956.00
+51.00
+102.00
+Total Medical Expenses Denied
+$31,983.12
+$165.63
+$682.74
+$32,831.49
+[7] The Appellant’s parents have a hot tub and UVB Phototherapy Unit (“UVB Unit”) at their residence in Whitemouth.
+[8] During the hearing, the Appellant said that the hot tub and UVB Unit were installed by him in his parents’ garage in Whitemouth in 2001 or 2002 because he was living with his parents at that time.
+[9] The Appellant said that he claimed and was allowed by the Canada Revenue Agency (the “CRA”) to deduct some of the expenses related to the purchase of the hot tub and the UVB Unit.
+[10] During the hearing, the Appellant said that he was not allowed by the Winnipeg Condominium Corporation Rules to relocate the hot tub and UVB Unit from his parents’ home in Whitemouth to his condominium building in Beausejour (Transcript, page 35, lines 12 – 14).
+[11] The Appellant said that he and an attendant drove in the same vehicle from Beausejour, Manitoba to the Appellant’s parents’ home in Whitemouth, Manitoba and returned to Beausejour 3 times per week.
+[12] The two amounts claimed for transportation between Beausejour and Whitemouth of $8,035.56 were calculated by the Appellant as 3 round trips per week of 102 kilometres to his parents’ home for 52 weeks in the year at 50.5 cents per kilometre for the Appellant and also for his attendant.
+[13] The two amounts claimed for meals of $7,956.00 covered the days that the Appellant and the attendant drove to his parents’ home. These amounts were calculated by the Appellant as 3 days per week for 52 weeks in the year at $51.00 per day for the Appellant and also for the attendant.
+[14] The Appellant also attended an arthritis clinic in Winnipeg, Manitoba and claimed meals for himself plus an attendant of $51.00 plus transportation of $63.63. (Note: The Minister allowed the Appellant the transportation cost of $63.63 as a medical expense.)
+[15] The Appellant claimed the amount of $810.00 relating to 2 trips in the year to a chiropractor in Portage La Prairie, Manitoba.
+Transportation for Appellant
+$ 303.00
+Transportation for Attendant
+303.00
+Meals for Appellant
+102.00
+Meals for Attendant
+102.00
+Total
+$ 810.00
+(Note: The Minister allowed the Appellant transportation costs of $127.26, being 2 round trips to Winnipeg, as a medical expense.)
+B. ISSUES
+[16] The Minister’s Reply states that the issues to be decided are:
+17. The issue to be decided is whether the Appellant is entitled to non-refundable tax credits for medical expenses in excess of the amounts allowed by the Minister. Specifically the issues to be decided are:
+(a) whether the transportation [from Beausejour] to Whitemouth [and return] was to obtain medical services;
+(b) if it is decided that the transportation [from Beausejour] to Whitemouth [and return] was to obtain medical services, then the issues to be decided are:
+(i) whether the Appellant is entitled to a claim for transportation for both himself and an attendant;
+(ii) whether the Appellant is entitled to any claim for meals, and if so, what amount is he entitled to claim;
+(c) whether the Appellant is entitled to claim transportation for both himself and an attendant for the transportation to the arthritis clinic in Winnipeg;
+(d) whether the Appellant is entitled to any claim for meals for the trip to the arthritis clinic in Winnipeg and if so, what amount is he entitled to claim;
+(e) with respect to the claim for two trips to Portage La Prairie for chiropractic treatment:
+(i) whether substantially equivalent chiropractor service are available in Winnipeg;
+(ii) whether the Appellant is entitled to claim transportation for both himself and an attendant; and
+(iii) whether the Appellant is entitled to any claim for meals and if so, what amount is he entitled to claim.
+C. ANALYSIS AND DECISION
+Travel Expenses Between Beausejour and Whitemouth by the Appellant and the Attendant
+[17] In order to be able to deduct the travel expenses that he claimed, the Appellant must fit his claim within the words of one of the subsections contained in section 118.2 of the Income Tax Act (the “Act”). Paragraph 118.2(2)(g) of the Act (2008) reads as follows:
+(2) Medical Expenses. For the purposes of subsection (1), a medical expense of an individual is an amount paid
+…
+(g) to a person engaged in the business of providing transportation services, to the extent that the payment is made for the transportation of
+(i) the patient, and
+(ii) one individual who accompanied the patient, where the patient was, and has been certified by a medical practitioner to be, incapable of travelling without the assistance of an attendant from the locality where the patient dwells to a place, not less than 40 kilometres from that locality, where medical services are normally provided, or from that place to that locality, if
+(iii) substantially equivalent medical services are not available in that locality,
+(iv) the route travelled by the patient is, having regard to the circumstances, a reasonably direct route, and
+(v) the patient travels to that place to obtain medical services for himself or herself and it is reasonable, having regard to the circumstances, for the patient to travel to that place to obtain those services;
+[18] In this situation, the Appellant filed a Medical Report prepared by Dr. Haydey dated January 17, 2010. The medical report prepared by Dr. Haydey for the Appellant reads as follows:
+To Whom It May Concern:
+This patient is under my care for the treatment of severe generalized psoriasis and associated arthritis. Given the severity and extent of his disease, he requires UVB phototherapy as well as topical steroids and pain medication for his arthritis including morphine. Rather than driving into Winnipeg 3 times a week for UVB phototherapy, this patient has taken the initiative to purchase a home UVB phototherapy unit and a hot tub to assist in the rehydration of his skin. Although he lives in Beausejour, he installed the UVB unit and the hot tub at his father’s house in Whitemouth as both he and his father suffer from psoriasis and it is easier for him to travel to his father’s house for treatment given his father’s age and poor health. Thus, Mr. Sienema must travel 3 times a week from Beausejour to Whitemouth and back. On those occasions when his arthritis pain is so severe that he must take morphine, Mr. Sienema requires an escort to drive him for his treatment. If Mr. Sienema’s travel claim for treatment in Whitemouth is disallowed, he will have no alternative but to travel a much greater distance to Winnipeg to receive his phototherapy treatments as there is no phototherapy unit in Beausejour. Of note, this patient’s psoriasis and arthritis are monitored on a monthly basis by his family physician Dr. N. Van Rensberg. He is also under the care of a rheumatologist Dr. G. Thomson. I hope that this information will be of help to you in your review of his case. Should you have further questions, please do not hesitate to contact me at your convenience.
+Sincerely,
+[19] The Appellant also filed a copy of a form prepared by the CRA which is called “Travel expenses for the purposes of claiming the medical expenses tax credit”, which reads as follows:
+If medical treatment is not available within 40 kilometres from your locality, you may be able to claim the cost of public transportation (e.g., taxi, bus, or train) to get the treatment somewhere else. However, if public transportation is not readily available, you can claim vehicle expenses to get medical treatment. You can choose to use a detailed method or a simple method for calculating your travel expenses.
+…
+Meal Expenses
+…
+Simple method – If you use the simple method, you can claim a flat rate of $17 a meal, to a maximum of $51 per day, per person, without receipts. However, keep all of your receipts for accommodation expenses.
+Vehicle Expenses
+…
+Vehicle expenses include: Operating expenses such as fuel, oil, tires, licence …
+Simple method – If you use the simple method to calculate vehicle expenses, you have to keep track of the kilometres you travel for medical reasons during your 12‑month period. Then multiply the number of kilometres by the flat rate per kilometre for each province or territory. For more information, see …
+[20] The Appellant testified that his sister prepared his income tax return and she followed the “Simple Method” procedure as outlined above.
+[21] I wish to first review how our Courts have dealt with the relevant legislation.
+[22] In Johnston v. The Queen, [1998] F.C.J. No. 169, 1998 D.T.C. 6169, the Federal Court of Appeal considered the application of sections 118.3(1)(a) and 118.4 of the Act. Justice Létourneau said, at page 6171:
+The purpose of sections 118.3 and 118.4 is not to indemnify a person who suffers from a severe and prolonged mental or physical impairment, but to financially assist him or her in bearing the additional costs of living and working generated by the impairment. As Bowman, T.C.J. wrote in Radage v. R. at p. 2528:
+The legislative intent appears to be to provide a modest relief to persons who fall within a relatively restricted category of markedly physically or mentally impaired persons. The intent is neither to give the credit to every one who suffers from a disability nor to erect a hurdle that is impossible for virtually every disabled person to surmount. It obviously recognizes that disabled persons need such tax relief and it is intended to be of benefit to such persons.
+The learned Judge went on to add, at p. 2529, and I agree with him:
+If the object of Parliament, which is to give to disabled persons a measure of relief that will to some degree alleviate the increased difficulties under which their impairment forces them to live, is to be achieved the provisions must be given a humane and compassionate construction.
+...
+(Emphasis added)
+[23] In order to come within the words of the Act, I must first determine if the Appellant was receiving medical services when he used the hot tub and UVB Unit to relieve his medical condition.
+[24] In the case of Patton v. The Queen, 2005 D.T.C. 1786, Justice Paris carried out a useful analysis of the meaning of medical services. In the Patton case, Justice Paris said:
+[22] In addition to the definition of the word “medical” cited by counsel for the Respondent, the following definition is found in the Canadian Oxford Dictionary (2002):
+Medical … of or relating to the science or practice of medicine in general.
+[23] Therefore, “medical” may mean either “related to the science of medicine” or “related to the practice of medicine”. It follows that the term “medical services” is reasonably capable of more than one meaning, the broader being “services related to the science of medicine”.
+[24] “Medicine” is defined in the Canadian Oxford Dictionary as follows:
+… the science or practice of the diagnosis, treatment, and prevention of disease, …
+(Emphasis added)
+(in technical use often taken to exclude surgery).
+…
+[27] The context in which the term “medical services” is used in this case supports the conclusion that they would include any services relating to the scientific diagnosis, treatment and prevention of disease, not just those provided by a medical practitioner or medically trained person.
+(Emphasis added)
+[25] I am in agreement with the analysis of Justice Paris in the Patton case and I have concluded that the Appellant was obtaining medical services when he used the hot tub and UVB Unit because he was receiving medical treatment.
+[26] I have concluded that the Appellant may claim the following amounts:
+Transportation for Appellant: $8,035.56
+Meals for Appellant: $7,956.00
+In considering, whether the travel expenses of the attendant were deductible, it will be noted that paragraph 118.2(2)(g) provides that a person who was paid the expense must be engaged in the business of providing transportation services. There was no evidence presented that the Appellant’s father, the Appellant’s son or any friends who drove the Appellant were “engaged in the business of providing transportation services”. Furthermore, I do not believe it is reasonable for the Appellant to claim transportation expenses for the attendant since the Appellant and the attendant travelled in the same vehicle. I believe that to claim a transportation expense twice is excessive.
+[27] In connection with what is “reasonable” for the meals that were claimed, the Appellant said that he and the attendant did not always go to restaurants for their meals, but they sometimes had their meals at the Appellant’s father’s home. The Appellant also said that frequently his father or his son served as his attendant and he took his father or his son to a restaurant for a meal during the trip between Beausejour and Whitemouth. The Appellant also said that he sometimes purchased “groceries” for his father and treated the cost of groceries as a “meal expense”. I have concluded that only the Appellant may claim for meals.
+[28] In support of my conclusion regarding the travel expenses that the Appellant might claim, I refer to the decision of Justice Rossiter (now Associate Chief Justice Rossiter) in Mudry v. The Queen, 2008 TCC 160, 2008 D.T.C. 3048. In that case, Justice Rossiter determined that the travel expenses of Mr. Mudry to travel to New York and New Jersey to receive medical treatment were deductible.
+[29] I have also concluded that the Appellant is allowed to claim the following expenses as medical expenses:
+winnipeg
+Portage La Prairie
+Transportation for Appellant
+$ 63.03
+$175.74
+Meals for Appellant
+$ 51.00
+$102.00
+Total:
+$111.03
+$277.74
+[30] I have accepted the Appellant’s testimony to the effect that the trips to Winnipeg and Portage La Prairie were necessary expenses incurred by the Appellant to obtain treatment for his medical condition.
+[31] The appeal is allowed, without costs, and the Minister is to make the adjustments referred to above.
+Signed at Vancouver, British Columbia, this 10th day of September 2010.
+“L.M. Little”
+Little J.
+CITATION: 2010 TCC 468
+COURT FILE NO.: 2010-572(IT)I
+STYLE OF CAUSE: JERRY G. SIENEMA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: June 23, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: September 10, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brad Bedard
+Nalini Persaud
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

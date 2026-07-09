@@ -1,0 +1,169 @@
+---
+title: "Gagnon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28022/index.do"
+last_modified: "2007-10-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 581"
+citation2: ""
+neutral_citation: "2007 CCI 581"
+decision_date: "2007-10-01"
+language: "fr"
+item_id: "28022"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1608
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:14:10.849000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2c1f0ba530bc41ffd6a580a4481cdd210382a19789b1120bff3403f06f7921e9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gagnon c. La Reine
+
+- Citation: 2007 CCI 581
+- Decision date: 2007-10-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1608, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gagnon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-01
+Référence neutre
+2007 CCI 581
+Numéro de dossier
+2007-1805(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1805(IT)I
+ENTRE :
+CAROLE GAGNON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+LIBORIO MORMINA,
+partie jointe.
+____________________________________________________________________
+Appels entendus le 17 septembre 2007, à Montréal (Québec).
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Avocate de l'intimée :
+Me Annick Provencher
+Pour la partie jointe:
+Liborio Mormina
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2002, 2003 et 2004 sont accordés et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 1er jour d'octobre 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2007CCI581
+Date : 20071001
+Dossier : 2007-1805(IT)I
+ENTRE :
+CAROLE GAGNON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+LIBORIO MORMINA,
+partie jointe.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Madame Gagnon en appelle des nouvelles cotisations pour les années 2002 à 2004. Monsieur Mormina a été lié à ces appels en vertu de l’article 174 de la Loi de l’impôt sur le revenu (la « Loi »). Il s’agit de savoir si les montants versés à l’appelante par monsieur Mormina, à titre de pension alimentaire pour les enfants, sont déductibles par ce dernier dans le calcul de son revenu en vertu de l’alinéa 60b) de la Loi et doivent être inclus par l’appelante dans le calcul de son revenu en vertu de l’alinéa 56(1)b) de la Loi.
+[2] Le ministre du Revenu national (le « Ministre ») a ajouté aux revenus de l’appelante pour les années 2002 à 2004 des sommes reçues à titre de pension alimentaire aux montants respectifs de 7 750 $, 5 613 $ et 3 812 $.
+[3] Pour établir ses nouvelles cotisations, le Ministre s’est appuyé sur les faits décrits au paragraphe 6 de la Réponse à l’avis d’appel comme suit :
+a) L'appelante et M. Liborio Mormina se sont mariés le 6 novembre 1982;
+b) De leur union sont nés deux enfants, François Mormina né le 11 juillet 1986 et Marie‑Lise Mormina née le 23 janvier 1991;
+c) L'appelante et M. Liborio Mormina se sont séparés le 27 décembre 1991;
+d) Le paragraphe 5 de la convention signée en 1992 entre l'appelante et son ex‑conjoint fixait la pension alimentaire à être versée à l'appelante à 250 $ par deux semaines;
+e) Le paragraphe 6 de cette convention prévoyait que la pension alimentaire devait être indexée à chaque année;
+f) Le jugement de divorce du 13 janvier 2000 a entériné une nouvelle convention sur les mesures accessoires dont le paragraphe 5 fixe la pension alimentaire à 125 $ par semaine;
+g) Le paragraphe 7 de cette convention indique que la pension alimentaire sera indexée à chaque année;
+h) M. Mormina a versé à l'appelante, à titre de pension alimentaire, les sommes de 7 750 $ pour l'année d'imposition 2002, de 5 613 $ pour l'année d'imposition 2003 et de 3 812 $ pour l'année d'imposition 2004.
+[4] Lors de son témoignage, l’appelante a admis tous ces faits. Elle fait cependant valoir que les paiements ont été faits et reçus à la suite du jugement de divorce, en date du 13 janvier 2000, qui entérinait un consentement signé par les parties en juillet 1999, et non à la suite du Protocole d’entente signé par les époux en 1992.
+[5] Madame Gagnon, lors de son témoignage, a relaté que son ex‑époux, monsieur Mormina, n’a à peu près jamais rien payé en vertu de l’entente de 1992. Lors du jugement de divorce, elle a souhaité s’assurer tomber sous le régime de la loi du Québec : la Loi facilitant le paiement des pensions alimentaires.
+[6] Les paragraphes 5 et 6 du Protocole d’entente de 1992 se lisent comme suit :
+5. Monsieur Liborio Mormina versera à madame Carole Gagnon une pension alimentaire pour les enfants au montant de deux cent cinquante dollars (250,00 $) aux deux semaines, soit à tous les deux lundis, à partir du 13 avril 1992. De plus, il contribuera, selon ses capacités, à défrayer les coûts des vêtements pour les enfants ainsi que ceux reliés à leurs activités sportives et culturelles.
+6. La pension alimentaire sera indexée annuellement le 1er janvier, selon le taux établi par la Régie des Rentes du Québec.
+[7] Le jugement de divorce en date du 13 janvier 2000 a entériné la Convention sur les mesures accessoires signée en juillet 1999. Les paragraphes 5 à 7 de cette convention se lisent comme suit :
+OBLIGATIONS ALIMENTAIRES ENVERS LES ENFANTS MINEURS :
+5. Le défendeur, Liborio Mormina, paiera pour le bénéfice des enfants mineurs, et ce, à titre de pension alimentaire, la somme de 125,00 $ par semaine établie conformément au formulaire de fixation des pensions alimentaires pour enfants annexé aux présentes;
+6. Ladite pension sera payable par le défendeur conformément aux dispositions de la Loi facilitant le paiement des pensions alimentaires;
+7. Ladite pension alimentaire sera indexée le 1er janvier de chaque année conformément à l'article 590 C.c.Q.;
+[8] Les clauses 22 et 25 de cette convention doivent également être citées :
+QUITTANCE ET RENONCIATIONS :
+22. Les parties se donnent mutuellement quittance complète et réciproque de toute réclamation que chacune a ou pourrait avoir contre l'autre pour avance, contribution, prêt, apports, somme forfaitaire, prestation compensatoire, somme globale, ou pour tout droit pouvant lui résulter ou découlant du mariage et de sa rupture, de la vie commune, du patrimoine familial, du régime matrimonial, du contrat de mariage ou de tout autre contrat passé entre elles;
+25. La présente entente entrera en vigueur lorsque toutes les parties l'auront signée et deviendra la seule et unique entente valable entre les parties;
+[9] Le 27 mai 2005, un consentement à jugement intervient entre les ex‑époux et le Ministère du revenu du Québec, mis-en-cause. Il s’agissait d’une requête conjointe en modification des mesures accessoires et en fixation de pension alimentaire. Il est à noter que les montants d’arrérages n’y sont calculés qu’à partir du 13 janvier 2000, date du jugement de divorce.
+[10] Monsieur Mormina, lors de son témoignage, a soutenu que le jugement de divorce a repris la disposition de pension alimentaire de la convention signée en 1992. Selon ses termes, il dit qu’il s’agissait d’une copie exacte.
+[11] L’avocate de l’intimée se réfère aux paragraphes 12, 13 et 15 de la décision de la Cour d’appel fédérale Kennedy c. Canada, [2004] A.C.F. no 2122 (QL) :
+12 Je ne peux souscrire à cette interprétation de la loi. L'obligation de payer la pension alimentaire a été créée par l'ordonnance rendue par la Cour de l'Ontario en 1991, et celle de payer les augmentations relatives au coût de la vie, par le procès-verbal de transaction signé en 1991. Le jugement de 1997 n'a eu aucune incidence sur ces obligations. Ce jugement a peut-être facilité la perception des sommes par Mme Kennedy, mais les obligations elles-mêmes existaient bien avant avril 1997. Mme Kennedy n'avait pas besoin d'obtenir le jugement de 1997 pour contraindre son mari à payer. Elle aurait pu intenter une action devant la Cour de l'Ontario pour faire respecter les modalités du procès-verbal de transaction.
+13 Il me semble que, même si la définition de « date d'exécution » au paragraphe 56.1(4) aurait pu être plus claire, l'objet de la loi est de faire en sorte que le nouveau régime s'applique aux ordonnances ou aux accords établis après avril 1997 qui créent effectivement de nouvelles obligations. Les obligations créées sous l'ancien régime demeurent assujetties aux anciennes dispositions. C'est ce que confirme d'ailleurs le sous‑alinéa b)(ii), qui prévoit que l'accord ou l'ordonnance qui fait l'objet d'une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants crée une nouvelle date d'exécution; dans ce cas, une nouvelle obligation est créée par suite de la modification apportée après avril 1997. Il en est de même du sous‑alinéa b)(iii), qui prévoit qu'un accord ou une ordonnance subséquent établi après avril 1997 ayant pour effet de changer le total des montants de pension alimentaire pour enfants crée une date d'exécution.
+...
+15 Par conséquent, je suis d'avis de conclure que l'ordonnance de 1997 ne crée pas une date d'exécution faisant en sorte que madame Kennedy n'a pas d'impôt à payer sur les sommes qu'elle a reçues de son mari en 1997 et en 1998.
+[12] Elle s’appuie sur cette décision pour faire valoir que les montants de pension alimentaires pour enfants étant semblables dans les deux conventions entre époux, soit celle de 1992 et celle de 1999, c’est la date de la convention de 1992 qui est la date d’exécution au sens de la définition de cette expression au paragraphe 56.1(4) de la Loi.
+Analyse et conclusion
+[13] Immédiatement, on peut se demander si les conventions sont identiques. En effet, la deuxième convention n’a pas commencé avec un montant qui aurait pris en compte l’indexation annuelle prévue à la convention de 1992. Elle a tout simplement repris le même montant original. Cet élément a une certaine importance mais ce n’est pas là-dessus que je vais fonder ma décision.
+[14] La décision de Kennedy c. Canada, ci-dessus, a été expliquée et remise dans sa véritable perspective juridique par la juge Sharlow, dans Holbrook c. Canada, [2007] A.C.F. no 508 (QL), aux paragraphes 16 à 18 :
+16 Le juge de première instance a décidé que tous les montants de pension alimentaire pour enfants payables à Mme Holbrook étaient assujettis à l'ancien régime. Il est arrivé à cette conclusion parce qu'il a jugé qu'il était tenu de suivre la décision que la présente Cour a rendue dans l'affaire Kennedy c. Canada, 2004 CAF 437. Selon son interprétation, cet arrêt établit le principe selon lequel, quand le montant d'une obligation en matière de pension alimentaire pour enfants est précisé dans un accord ou une ordonnance établi avant mai 1997, il est impossible que le nouveau régime s'applique, sauf s'il existe un accord ou une ordonnance qui modifie le total des montants de pension alimentaire pour enfants payables.
+17 Selon moi, l'arrêt Kennedy n'établit pas un tel principe. L'existence de ce présumé principe est fondé sur le sous‑alinéa (iii) de la définition de la « date d'exécution » qui figure au paragraphe 56.1(4) (cité plus tôt), lequel établit une date d'exécution pour « un accord ou une ordonnance subséquent » établi après avril 1997 qui change le total des montants de pension alimentaire pour enfants qui sont payables. Dans Kennedy, il y avait eu une ordonnance provisoire en matière de pension alimentaire pour enfants en 1991, suivie d'un procès-verbal de règlement conclu en 1991 qui prescrivait les mêmes paiements, plus un rajustement au titre du coût de la vie. En septembre 1997, une ordonnance finale intégrant les conditions énoncées dans le procès-verbal de règlement avait été rendue. Non seulement les montants n'avaient-ils pas été changés, mais l'obligation avait continué d'être fondée sur le procès-verbal de règlement de 1991. Cette obligation avait été confirmée par l'ordonnance judiciaire, et non remplacée.
+18 Il n'est pas question dans l'arrêt Kennedy de la situation dans laquelle un accord ou une ordonnance postérieur à avril 1997 met fin à l'obligation en matière de pension alimentaire pour enfants qui est précisée dans un accord ou une ordonnance établi avant mai 1997 et la remplace par une nouvelle obligation. Dans cette situation, il n'est pas pertinent de se demander si un changement a été apporté au montant de pension alimentaire pour enfants payables car l'accord ou l'ordonnance établi avant mai 1997 a cessé d'avoir effet.
+[15] Il s’agit de déterminer quelle est l’entente qui a force exécutoire ou, en d’autres termes, en vertu de quelle entente les paiements de pension alimentaire pour enfants peuvent-ils être exigés. C’est la date de l’établissement de cette entente exécutoire qui détermine la date d’exécution au sens de ce terme dans la Loi.
+[16] Il n’y a aucun doute, ici, que l’entente de 1992 est devenue caduque, ou a cessé d'avoir effet, lors de la signature de l’entente de 1999. Cette dernière entente ne reconduisait d’aucune façon l’obligation alimentaire de l’entente de 1992. Au contraire, elle spécifiait clairement que les parties se donnaient quittance de toute réclamation que chacune a, ou pourrait avoir, contre l’autre pour tout droit pouvant résulter d’un contrat passé entre elles. L’entente de 1999 spécifiait aussi que cette dernière entente sera la seule et unique entente valable entre les parties.
+[17] Les circonstances juridiques de cette affaire sont donc tout à fait différentes de celles qui prévalaient dans l’affaire Kennedy, où l’obligation alimentaire avait été crée par l’entente originale et où le jugement subséquent relatif aux modalités de perception, n’avait pas modifié la force exécutoire de la première entente relativement aux paiements de pension alimentaire.
+[18] Ici (je me répète), la convention sur mesures accessoires de juillet 1999 entérinée par le jugement de divorce de janvier 2000, est une nouvelle convention. C’est cette convention qui a force exécutoire. Elle a abrogé dans sa totalité le Protocole d’entente de 1992. La convention sur mesures accessoires signée en juillet 1999 est devenue la seule et unique entente entre les parties. Cela signifie qu’il n’y a plus aucun droit découlant du Protocole d’entente de 1992.
+[19] Cette nouvelle convention, étant en date de juillet 1999, a donc été établie après avril 1997. En conséquence, l’appelante n’a pas à inclure dans le calcul de son revenu les sommes qui lui sont payées par monsieur Mormina à titre de pension alimentaire pour enfants. Ce dernier ne peut pas les déduire dans le calcul de son revenu.
+Signé à Ottawa, Canada, ce 1er jour d'octobre 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2007CCI581
+Nº DU DOSSIER DE LA COUR : 2007-1805(IT)I
+INTITULÉ DE LA CAUSE : CAROLE GAGNON c, SA MAJESTÉ LA REINE et LIBORIO MORMINA
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 17 septembre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 1er octobre 2007
+COMPARUTIONS :
+Pour l'appelante :
+l'appelante elle-même
+Avocate de l'intimée :
+Me Annick Provencher
+Pour la partie jointe :
+Liborio Mormina
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

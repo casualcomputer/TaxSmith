@@ -1,0 +1,182 @@
+Title: Marché Montée Gagnon Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26150/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-407-26150-march-mont-e-gagnon-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-07-25
+
+# Marché Montée Gagnon Inc. v. M.N.R.
+
+- Citation: 2005 TCC 407
+- Decision date: 2005-07-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4047, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marché Montée Gagnon Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-07-25
+Neutral citation
+2005 TCC 407
+File numbers
+2004-3999(EI)
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-3999(EI)
+BETWEEN:
+MARCHÉ MONTÉE GAGNON INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+STÉPHANIE NOLIN,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 20, 2005, at Montréal, Quebec.
+Before: The Honourable Justice Brent Paris
+Appearances:
+Agent for the Appellant:
+Alain Savoie
+Counsel for the Respondent:
+Marie-Claude Landry
+Agent for the Intervener:
+Alain Savoie
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is set aside in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 25th day of July 2005.
+"Brent Paris"
+Paris J.
+Translation certified true
+on this 31st day of January 2008.
+Brian McCordick, Translator
+Citation: 2005TCC407
+Date: 20050725
+Docket: 2004-3999(EI)
+BETWEEN:
+MARCHÉ MONTÉE GAGNON INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+STÉPHANIE NOLIN,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Paris J.
+[1] This is an appeal from a determination by the Minister of National Revenue ("the Minister") that the worker Stéphanie Nolin's employment by the Appellant from January 1, 2003, to February 19, 2004, was insurable employment within the meaning of the Employment Insurance Act ("the Act") even though the worker and the Appellant were not dealing with each other at arm's length. Ms. Nolin is the daughter-in-law of François Girard, the Appellant's sole shareholder. According to paragraph 5(2)(i) of the Act, an employment is not insurable if the employer and employee are not dealing with each other at arm's length. However, paragraph 5(3)(b) of the Act stipulates that
+(3) For the purposes of paragraph (2)(i),
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[2] In the case at bar, the Minister held that it was reasonable to conclude that the parties would have entered into a substantially similar contract if they had been dealing with each other at arm's length, and that Ms. Nolin worked for the Appellant under a contract of service. At the hearing, the Appellant admitted that there was a contract of service between the Appellant and Ms. Nolin.
+[3] The factual assumptions on which the Minister's decision was based can be found at paragraphs 5 and 7 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+5. (a) The Appellant was incorporated on July 4, 1983.
+(b) The Appellant operated a grocery store under the IGA banner.
+(c) The Appellant's hours of operation are 8 a.m. to 11 p.m., seven days a week.
+(d) The Appellant had approximately 100 regular employees and 160 part-time employees per year.
+(e) The Appellant had approximately $35 million in sales.
+(f) The Worker has been a display designer and an assistant to department managers for ten years.
+(g) The Worker's duties were to assist department managers and design the produce and ready-to-eat food displays.
+(h) Serge Girard was the store manager.
+(i) The Worker had to report to Serge Girard.
+(j) The Worker did 99% of her work for the Appellant at its place of business.
+(k) The Worker had a variable weekly schedule with the Appellant.
+(l) The Worker generally worked 24 to 30 hours per week for the Appellant and sometimes worked 50 hours per week.
+(m) The Worker was paid $535 per week.
+(n) The Worker received a $500 bonus twice a year in June and September.
+(o) The Appellant never renounced its power of control over the Worker.
+(p) The Worker had no expenses to incur in the performance of her duties.
+(q) The Worker had no financial risk in the performance of her duties for the Appellant.
+(r) All the materials and equipment that the Worker used belonged to the Appellant.
+(s) The Worker's tasks were integrated into the Appellant's activities.
+7. The Minister also determined that the Appellant and Worker were deemed to deal with each other at arm's length in the context of this employment because he was satisfied that it was reasonable to conclude that the Appellant and the Worker would have entered into a substantially similar contract if they had been dealing with each other at arm's length, having regard to the following circumstances:
+(a) The Worker's salary was reasonable considering the nature and quantity of work done.
+(b) The Worker had no taxable automobile benefit.
+(c) The Worker was able to get $1,500 paid into her RRSP — the same amount that was paid into the department managers' RRSPs.
+(d) The Worker's schedule varied based on the Appellant's needs.
+(e) The Worker's terms of employment were not unreasonable having regard to her position in the company, in that she had six weeks of vacation while department managers had five weeks of vacation.
+(f) Like the other employees, the Worker was entitled to health and dental insurance.
+(g) The period of employment coincided with the Appellant's activities.
+(h) The Worker's work was important to the Appellant's business.
+[4] Serge Girard (Ms. Nolin's husband and the son of the Appellant's sole shareholder) and Ms. Nolin testified for the Appellant. Francine Perreault, an appeals officer with the Canada Customs and Revenue Agency, testified for the Respondent.
+[5] The Appellant has been operating an IGA grocery store in Bois‑des‑Filion, Quebec, since 1983. The Appellant's sole shareholder is François Girard. Serge Girard and his two sisters are the shareholders of two other companies; one of these companies operates an IGA store in Blainville and the other company operates an IGA store in Saint‑Janvier. The Appellant has approximately 240 employees. The store in Blainville has been operating since 1991, and expansion work was done from October 2003 to February 2004. The Saint-Janvier store was built between August and November 2001.
+[6] Serge Girard is the director of Marché Montée Gagnon and is responsible for its administration and general management. He visits each of the other two stores one day a week. In the evening, at their home, Ms. Nolin talked to Mr. Girard about her work for the Appellant.
+[7] The evidence discloses the following characteristics of Ms. Nolin's employment.
+Hours of work
+[8] The Appellant did not tabulate Ms. Nolin's hours. Her schedule was flexible. She worked when she was available and when she felt like it. According to Mr. Girard, Ms. Nolin worked one to seven days a week during the period in question, for a total of 10 to 70 hours of work per week. Her weeks were very long in late 2003 and early 2004 when the Blainville store was being renovated. However, during a telephone interview with Ms. Perreault, Serge Girard apparently said that Ms. Nolin worked three or four days a week for an average of 30 hours a week, but that they would sometimes work a maximum of 50 hours a week. He claims that his reference to the 50‑hour‑a‑week maximum was a reference to the work that she did at the Blainville store during renovations. With respect to the inconsistencies between the answers given to Ms. Perreault and his testimony in Court, Mr. Girard explains that he was in a hurry when Ms. Perreault called, and might have been speaking about the hours that Ms. Nolin was working that week.
+[9] For her part, Ms. Nolin testified that she worked at least two days a week, 10 to 30 hours a week, not including the period during when she helped with the work in Blainville, when she claims to have worked up to 10 hours a day, six or seven days a week.
+[10] Ms. Nolin was also interviewed by Ms. Perreault. She told Ms. Perreault that she generally worked 24 to 30 hours a week, but no more than 50 hours a week. Ms. Nolin did not explain the discrepancies between her testimony and the information that she had provided to Ms. Perreault.
+Salary
+[11] Mr. Girard testified that Ms. Nolin was paid a fixed salary of $550 per week. This is similar to the answer that he gave to Ms. Perreault, which was $535 per week or $28,000 per year. In addition, Ms. Nolin received two bonuses of $500 each and a contribution of $1,500 which the appellant made to her RRSP each year. Thus, her compensation totalled $30,500 per year. Ms. Nolin's bonuses were automatic, which means that they were not dependent on her performance. Ms. Nolin was not paid overtime.
+Vacation and sick leave
+[12] The Minister operated on the assumption that Ms. Nolin was entitled to six weeks of paid vacation in 2003, and Mr. Girard and Ms. Nolin admitted to this amount.
+[13] As for sick leave, Mr. Girard and Ms. Nolin told the Court that she was entitled to an unlimited number of paid sick days. However, Ms. Nolin told Ms. Perreault that the Appellant granted her seven days of paid sick leave a year. At the hearing, Ms. Nolin added that she never needed to take more than a few sick days per year.
+Duties
+[14] Ms. Nolin's duties varied depending on the Appellant's needs. Mr. Girard said that Ms. Nolin looked after emergencies that might arise in the course of the three stores' operations, but generally helped department managers, especially the produce and ready-to-eat food department managers. She also helped with the Van Houtte bistros, which were located inside the stores. Sometimes Mr. Girard asked her to perform other duties, and occasionally she decided what work she would do. She also did a certain amount of work on the computer. She said that she could choose whether or not to do the things that were requested, and added that she believed that she would receive her salary even if she did not work.
+[15] The evidence regarding the Appellant's other employees, who dealt with the Appellant at arm's length, discloses the following.
+[16] All of the employees' hours of work (except the employees from whom the Appellant was not at arm's length) were tabulated, and their tasks and duties were well-defined. The Appellant was required to pay overtime to all its employees who worked more than 42 hours.
+[17] The Appellant gave two weeks of vacation to employees with fewer than four years of seniority. After four years of service, employees were entitled to three weeks. After ten years of service, they were entitled to four weeks, and after 15 years, they were entitled to five. All employees were entitled to seven days of paid sick leave per year.
+[18] During the period in issue, the Appellant paid bonuses to all employees with five or more years of service. Bonuses for department managers were equal to 2% of their salary. For other employees, the amounts varied from 1 to 1.5% of salary.
+[19] The Appellant contributed $1,500 to $3,000 a year to department managers' RRSPs, depending on their seniority.
+Analysis
+[20] According to the Federal Court of Appeal, the role of this Court when faced with a discretionary decision of the Minister under paragraph 5(3)(b) of the Act is to verify whether, in light of all the evidence available to it, the facts relied on by the Minister in making his decision "are real and were correctly assessed having regard to the context in which they occurred, and, after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable."[1]
+[21] First of all, counsel for the Respondent referred to the discrepancies between the information provided by Mr. Girard and Ms. Nolin to Ms. Perreault and their testimony in Court. In her submission, these discrepancies shed doubt on their credibility.
+[22] However, with the exception of what they said about the hours that Ms. Nolin worked and the number of sick days that she was given every year, Mr. Girard and Ms. Nolin's testimony was generally consistent with what they had told Ms. Perreault. With regard to the sick days, one must bear in mind that Ms. Nolin had never taken more than a few days of sick leave, so her answer to Ms. Perreault can be considered theoretical. As for the hours of work, since Ms. Nolin's schedule was flexible and her hours were not tabulated, it may be difficult to state with certainty the minimum and maximum number of hours that she worked. Consequently, I am not prepared to reject their testimony.
+[23] What remains to be done, then, is to compare the terms and circumstances of Ms. Nolin's employment with the terms and circumstances of the jobs held by the workers with whom the Appellant was dealing at arm's length. This comparison is relatively easy to do in the instant case because the Appellant has a substantial number of unrelated employees.
+[24] In light of the evidence, I find that there were substantial differences between Ms. Nolin's terms of employment and those of the other employees of the Appellant. I also find that these differences were due to the fact that Ms. Nolin and the Appellant were not dealing with each other at arm's length.
+[25] It is clear that the hours and duties of the arm's‑length employees were controlled by the Appellant. They had no choice regarding the duties to perform or their hours. By contrast, Ms. Nolin could choose her own working hours and could refuse to do things if she wished. Ms. Nolin's testimony in this regard was not contradicted.
+[26] One revealing example of this flexibility was the fact that the Appellant gave Ms. Nolin the opportunity to be absent from work during the Christmas holidays each year, whereas all the other employees were forbidden from taking vacations during that period. In short, it is not contested that Ms. Nolin was almost totally free to choose her hours and decide on her comings and goings.
+[27] Ms. Nolin was entitled to more vacation time than the Appellant's other employees. With nine years of service, she received double that of other employees with the same seniority. In addition, she received more generous bonuses (approximately 4% of her salary) than any of the other employees, whose bonuses did not exceed 2% of salary.
+[28] As for Ms. Nolin's salary, the Minister assumed that it was reasonable having regard to the nature and quantity of her work. Ms. Perreault's report provides no basis for this conclusion, other than the fact that the bonuses Ms. Nolin received were the same as the bonuses paid to the assistant managers at the Blainville store. She does not seem to have investigated the salaries paid to other workers of the Appellant, which would have been necessary in order to conclude that her salary was reasonable.
+[29] I must take account of the fact that Ms. Nolin received a fixed salary regardless of the number of hours that she worked, and that her schedule could vary considerably from week to week. On first analysis, a fixed salary does not seem appropriate to her situation, and, at least in this regard, she was not remunerated on the same basis as the other employees. In my opinion, it is unlikely that an arm's length employee would have agreed to work unpaid overtime regularly, and continued to do so for four months as Ms. Nolin did during the expansion work at the Blainville store. It appears that Ms. Nolin's salary was based on factors other than the work that she did for the Appellant.
+[30] Given all the differences between Ms. Nolin's working conditions and those of the employees who were dealing with the Appellant at arm's length, I am satisfied that the Appellant has shown that the decision of the Minister, that it was reasonable to conclude that parties would have entered into a substantially similar contract if they had been dealing with each other at arm's length, was in error. It seems clear to me that the difference in the terms and conditions of employment were due to the fact that Ms. Nolin was related to the Appellant's sole shareholder.
+[31] For all these reasons, the appeal is allowed.
+Signed at Vancouver, British Columbia, this 25th day of July 2005.
+Paris J.
+Translation certified true
+on this 31st day of January 2008.
+Brian McCordick, Translator
+CITATION:
+2005TCC407
+COURT FILE NO.:
+2004-3999(EI)
+STYLE OF CAUSE:
+Marché Montée Gagnon Inc. and M.N.R.
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+May 20, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Brent Paris
+DATE OF JUDGMENT:
+July 25, 2005
+APPEARANCES:
+Agent for the Appellant:
+Alain Savoie
+Counsel for the Respondent:
+Marie-Claude Landry
+Agent for the Intervener:
+Alain Savoie
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervener:
+Name:
+Firm:
+[1] Légaré v. Canada (Minister of National Revenue – M.N.R.), [1999] F.C.J. No. 878 (QL), at paragraph 4.

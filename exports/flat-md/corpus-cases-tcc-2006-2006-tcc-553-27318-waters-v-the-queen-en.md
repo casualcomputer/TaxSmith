@@ -1,0 +1,211 @@
+---
+title: "Waters v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27318/index.do"
+last_modified: "2006-10-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 553"
+citation2: ""
+neutral_citation: "2006 TCC 553"
+decision_date: "2006-10-11"
+language: "en"
+item_id: "27318"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 858
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:41:53.211000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d39354bcaba1a613842aa98b9336539cc4750b481c94733f191136af6e37bdba"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Waters v. The Queen
+
+- Citation: 2006 TCC 553
+- Decision date: 2006-10-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 858, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Waters v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-11
+Neutral citation
+2006 TCC 553
+File numbers
+2001-2604(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-2604(IT)I
+BETWEEN:
+RICHARD A. WATERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 12, 2006, at Toronto, Ontario,
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Agent for the Appellant:
+Robert Waters
+Counsel for the Respondent
+Kandia Aird
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment of tax made under the Income Tax Act for the 1999 taxation year is dismissed.
+The purported appeal from the reassessment of tax made under the Act for the 2000 taxation year is quashed.
+Signed at Ottawa, Canada, this 11th day of October, 2006.
+"C.H. McArthur"
+McArthur J.
+Citation: 2006TCC553
+Date: 20061011
+Docket: 2001-2604(IT)I
+BETWEEN:
+RICHARD A. WATERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] This appeal is from an assessment of the Minister of National Revenue for the Appellant's 1999 taxation year. The Minister concluded that the amount of $30,378[1] received by the Appellant through the Ontario Ministry of Training, Colleges and Universities was a bursary within the meaning of paragraph 56(1)(n) of the Income Tax Act and was to be included in his income. He was represented by his father, who filed a Notice of Appeal containing more than 100 pages, perhaps hoping, as in a shotgun blast, one of the offerings would hit its mark.
+[2] The purported appeal for the 2000 taxation year is quashed. It is not properly before the Court because the Appellant had not served a Notice of Objection for that year and the Minister had not confirmed the assessment for 2000 when the Appellant filed a Notice of Appeal.
+[3] The Appellant was born profoundly deaf in 1979. He received auditory training in the Torontoarea over the years. In November 1997, he was approved for funding under an Ontario Provincial Plan to attend advanced studies for the deaf in Rochester, New York. At that time, he believed the funding was tax-free, but later was assessed under paragraph 56(1)(n), which reads as follows, the key word therein being "bursary":
+56(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+(a) ...
+(n) the amount, if any, by which
+(i) the total of all amounts ... received by the taxpayer in the year, each of which is an amount received by the taxpayer as or on account of a scholarship, fellowship or bursary, or a prize for achievement in a field of endeavour ordinarily carried on by the taxpayer, other than a prescribed prize,
+exceeds ...
+(ii) the taxpayer's scholarship exemption for the year computed under subsection (3);
+[4] The parties agreed to the following Statement of Facts:
+Overview
+1. In the 1999 taxation year, the Appellant was in full time attendance at the National Technical Institute of the Deaf of the Rochester Institute of Technology in the United States ("NTID")
+2. In the 1999 taxation year, the Appellant was in receipt of funds from the Ontario Ministry of Training, Colleges and Universities.
+3. The Appellant was issued a T4A from the Ministry of Training Colleges and Universities indicating the payment of $34,873 in the 1999 taxation year. ...
+4. On the T4A the Ministry of Training, Colleges and Universities labelled the payment a "Bursary for deaf student out of Canada".
+5. In assessing the Appellant for the 1999 taxation year the Minister of National Revenue included the amount of $34,873 less $500 into the taxpayer's income pursuant to paragraph 56(1)(n) of the Income Tax Act.
+VOCATIONAL REHABILITATION SERVICES
+6. Prior to 1999 the Appellant was the recipient of funding for educational costs to assist with the cost of his attending NTID. The funding support was provided by Vocational Rehabilitation Services ("VRS"), a provincial agency.
+7. The funding support received was not subject to tax.
+8. The mandate of VRS was, in part, to assist the disabled in securing gainful employment.
+9. To become a VRS client, an applicant would have to fill out a disability verification form, specify the nature of their disability and demonstrate a capability to participate in skilled training.
+10. Many deaf or hard of hearing clients who wanted to obtain post-secondary education, opted to attend a U.S. institution because, at the time, no post-secondary institutions in Canada provided full instruction using American Sign Language.
+11. Under VRS, clients who wanted funding support to attend a U.S.institution had to pass an assessment programme which was tailored to the specific needs of the particular applicant.
+12. Applicants may be requested to demonstrate a serious desire to undertake a certain educational or professional pursuit, communicate their long term goals, demonstrate a capability to manage training, and/or undertake a psychological assessment.
+13. The institutions that provided post-secondary instruction using American Sign Language were the Rochester Institute of Technology ("RIT"), specifically one of their colleges called the National Technical Institute for the Deaf ("NTID") located in Rochester, New York and Gallaudet College for the Deaf in Washington, D.C.
+14. Prior to receiving funding support to attend a U.S.institution, applicants would have to gain admission to the particular institution.
+15. In the case of NTID, the admission requirements are as follows:
+a) First an applicant must have a certain degree of hearing loss;
+b) Secondly students must have hearing loss that without educational access services, seriously limits their chances for success in a regular college program; and
+c) Thirdly, students are expected to submit an official high school transcript demonstrating that they have received a high school diploma and students must meet the academic requirements for their major.
+16. If a student did not have the necessary academic criteria to gain admission to a U.S.institution, VRS would assist the applicant in exploring other educational or career alternatives.
+THE CHANGEOVER: VRS TO OSAP
+17. In 1997 the provincial government effected a change whereby the monies advanced to deaf or hard of hearing students who wanted to attend a U.S.postsecondary institution would no longer be administered by VRS in the form of funding support. VRS was replaced by a new system.
+18. Under the new system the monies would be issued by the Minister of Education and Training for Ontarioconjointly with the Ontario Student Assistance Program (OSAP) to give students access to loans and bursaries to cover the costs of attending these institutions, provided they met the OSAP eligibility requirements.
+19. Under the new system all applicants would be subject to the needs tested program of OSAP. Lower income students would be able to access loans of up to $9,350 (of which $7,000 would be repayable). Parents of students with moderate and higher income levels would be expected to make a contribution and would be entitled to a lesser student loan amount. All students regardless of family income would receive a bursary for eligible education costs in excess of $9,350. ...
+20. There was an exception made for deaf and/or hard of hearing students like the Appellant, who had been attending a U.S. institution in 1997 to 1998 and were to be continuing their studies in 1998 to 1999. These students were to be grand-parented into the new system by continuing to receive full funding for the duration of their degree programme irregardless of income level. These students were not subjected to the needs tested program. The Appellant was one of the students who were grand-parented into the new system.
+21. The grand-parented students would receive payments, provided through the Ministry of Education and Training conjointly with OSAP, which were called "bursaries".
+22. The payment eligibility conditions for grand-parented students are set out at Tab 6 of the Respondent's Book of Documents: "This assistance will continue until the student could reasonably be expected to have completed his or her program, provided that he or she remains in continuous attendance in the same program. Students are required to be in full-time studies, which is defined as being enrolled in at least 40% of a full course load.
+[5] Presently, the 27-year old Appellant is well-employed in the high tech industry, operating very valuable equipment. The income tax problem arose when in 1997, OSAP replaced VRS for the administration of funds for Ontario deaf students wanting to attend a United States post-secondary institution. The Appellant received his approval from the Ministry of Education in a letter dated July 17, 1998,[2] which reads in part as follows:
+Your OSAP application has been processed and your entitlement is as follows:
+Bursary amount $31,389
+This amount is based on the following information provided by you and your institution.
+Tuition
+$16,201
+Books
+1,100
+Room and Board
+10,431
+Health Care
+560
+Return travel
+1,500
+Equipment
+1,597
+· If you have received an information request asking for information regarding the above costs, you will have to provide that information. The amount of your entitlement may change once this information has been received.
+· If you have received an information request asking for the information on pages 2 and 3 of the OSAP application your funding will be on hold until the ministry receives the information.
+· If you have not provided all of the above costs and provide them after the study period has commenced, your file will be reassessed and your entitlement may change.
+Release of Bursary Funds
+Your bursary cheques will be sent to you along with a Confirmation of Enrolment, which must be signed by the school and returned to the ministry for processing. The cheques will be mailed to the above address. It is extremely important that you notify the ministry of any changes in your address (you may do so by writing the ministry).
+[6] Before the changeover, the Minister of National Revenue did not assess the funds administered by VRS. It is after funding commenced through OSAP that the Minister assessed the amounts pursuant to paragraph 56(1)(n) of the Act. It is unclear why the funds advanced through VRS were not similarly assessed, although it is probably because OSAP described the funding as a bursary and VRS did not. The document that triggered the assessment was the 1999 T4A[3] in the amount of $34,873, where it indicated "Bursary for Deaf Student Out of Canada". Notwithstanding the internal Ontario Government changeover in administration of funding from VRS to OSAP, the Appellant was accepted as exempt from certain OSAP conditions through grand-parenting provisions that are set out in Tab 6 of Exhibit R-1. For the most part, they provide that full school year funding was continued without requirement for parental participation.
+[7] The Appellant requests a decision in this appeal based on fairness, common sense, and perhaps estoppel, in that he had been receiving the funding tax-free for many years, and relied on tax-free funds in continuing his education. He submits the Minister cannot suddenly change positions in midstream.
+[8] The Appellant describes his position in the Notice of Appeal as follows:
+(i) What we were told by the Ministry (Exhibit # 5) was that this money would take the form of a 'bursary'. We were not told that this money would in fact be subject to tax. We were under the assumption that the monies would remain a "Tax Free Allowance" as was the case with CHS and VRS.
+(ii) This becomes our first ground in appealing this unfair tax burden. Prior to 1998, Revenue Canada ... did allow 100% of monies received to be a tax free allowance and applied to all Deaf and Hard of Hearing students who attended either NTID or Gallaudet. This was due to their exceptional circumstances of being disabled persons receiving a tax free allowance in recognition of there not being any educational programme in place for Deaf and Hard of Hearing post-secondary students attempting to attend a Canadian College or University. Therefore they were not taxed on any monies received from VRS and CHS. In essence, there has been only one single change and that is who actually paid these monies, however, we are dealing the exact same programme (exhibit # 5) as well as the exact same needs. The only difference is due to a bureaucratic change from VRS to the Ministry who now directs the exact same programme, with the exact same needs and along the way made a simplistic but harmful change in words from a tax free allowance to a bursary.
+(iii) We further submit to the Court that these monies given by the "Ministry" does not fall under the tax definitions of "grant" or "bursary" or "scholarship", according to the definitions in the Oxford English Dictionary. It is important to recognize that to be able to qualify to receive any money from this programme designed by the "Ministry", there are certain perquisites (sic) that have to be met ...
+(iv) All of the definitions in the Oxford English Dictionary are fully intertwined and have the same meaning. Therefore it is our submission that rendering the monies as taxable is improper in the eyes of the Canada Customs and Revenue Agency. It is our submission that the basis of all Canadian Law is precedent, we therefore submit that this money is unfairly taxed because since the inception of the programme by CHS and VRS all Canadian students prior to 1998 at NTID and Gallaudet received this money as a tax free award. We respectfully submit to the court that this unfair tax burden.
+(v) Total of all three payments equals $33,350.00. We respectfully submit to the Court that there is absolutely no profit or gain from any of these monies and therefore the Canadian Customs and Revenue Agency cannot designate these monies as income. As noted in a letter from CHS dated June 28th, 1998 (Exhibit #8) to the attention of Ms. Linda Hoard of the Student Support Branch of the "Ministry". ...
+In addition, the Appellant referred to the Income War Tax Act of 1917 in his Notice of Appeal, but did not pursue this in his submissions. Obviously, that Act is obsolete and of no assistance to the Appellant. While subsection 3(1) of that Act contains a definition of income "that excludes the value of property acquired by gift, bequest, devine or descent", I fail to see how this assists the Appellant. The Appellant further quotes paragraph 3(1)(d) and states that 100% of the money received went to cover "personal living expenses". Again, I fail to see how this advances the Appellant's position. The words of the present legislation are clear. A bursary is to be included in income. The Federal Court of Appeal concluded in Simser v. The Queen[4] that a similar Government grant was a bursary. I have no need to look further than paragraph 56(1)(n) of the current Act and the decision in Simser. Finally, the Appellant submits that paragraph 56(1)(n) contravenes the OntarioHuman Rights Code.[5]The short answer is that in Simser, the Federal Court of Appeal found that it did not.
+[9] The issues boil down to (i) a question of fairness and whether this Court can ignore legislation, specifically paragraph 56(1)(n), because it is unfair in the present circumstances; (ii) whether the $30,378 was a bursary or can it be named something else that renders it free from tax; (iii) is paragraph 56(1)(n) contrary to the Ontario Human Rights Code; and (iv) whether the Minister is estopped from taxing the Appellant. During the hearing, the Appellant informed the Court that the Charter argument raised in his Notice of Appeal was no longer an issue.
+[10] I will now deal with these submissions. The Tax Court is not one of equity and it must apply the law as written in the legislation. I cannot ignore the plain meaning of paragraph 56(1)(n) because it may be unfair to the Appellant in the present circumstances. The Federal Government has the right to pass tax legislation. I can interpret the enactment, but cannot change its clear meaning. The Appellant received a bursary as described by the donor (the Ontario Government). Paragraph 56(1)(n) states that a bursary is to be included in computing the taxable income of a taxpayer.
+[11] As mentioned above, the Federal Court of Appeal decision in Simser is of assistance in the present appeal. Mr. Simser is a practicing lawyer who was born profoundly deaf. During his bar admission studies, he obtained a Special Opportunities Grant for Disabled Students with Paramount Disabilities (SOGD). This grant was funded jointly by the Federal and Provincial Governments. The Ontario Government designated it a bursary and the Minister assessed Mr. Simser pursuant to paragraph 56(1)(n) of the Income Tax Act. He had received prior educational funding tax-free, as did Mr. Waters. He appealed the assessment on several grounds, including that the SOGD was not a bursary within the meaning of paragraph 56(1)(n). He added that if it is a bursary, the inclusion of the bursary is a violation of his rights under section 15 of the Charter of Rights and Freedoms and the Ontario Human Rights Code. The Federal Court of Appeal rejected those arguments for reasons that follow.
+[12] Nadon J. of the Court found that the SOGD received by Mr. Simser was designated to help disabled students who were enrolled in an education program. The qualifications for such funding were similar to those imposed on Mr. Waters. He also rejected Mr. Simser's arguments that (i) the grant was his as a matter of right to enable government to meet its duty to disabled students; and (ii) that the grant did not have as its purpose to enable a student to further his or her academic studies. Justice Nadon stated at paragraphs 21 and 24:
+21 The Tax Court Judge rejected the appellant's submissions, as he was of the opinion that there was a clear nexus between the SOGD and an applicant's pursuit of academic studies. In my view, the Tax Court Judge's conclusion is correct. The appellant's submissions fail to recognize that an applicant cannot obtain a SOGD unless he or she is a student who has attained a satisfactory scholastic standing and is in need of financial assistance. Thus, a disabled student who cannot qualify will have to purchase the required services with his or her own funds or find another source of funding.
+...
+24 In my view, however, it cannot be said that the SOGD constitutes the fulfilment by the Ministry of Education and HRDC of their duty to accommodate the appellant. [pursuant to the Ontario Human Rights Commission] ... The grant is reserved for students who attain a satisfactory scholastic standard and who are in need of financial assistance. ... Further, such students must provide documentary proof that they are in receipt of federal or provincial disability assistance. Consequently, I am satisfied that the characteristics of the SOGD are such as to take it out of the realm of accommodation. The SOGD was not created to "kick-in" whenever a learning institution fails or omits to fulfill its duty to accommodate a disabled person. Otherwise, it would mean that the beneficiary of a duty to accommodate would have the option of, in effect, transferring the duty owed to him to another person or institution.
+These paragraphs equally apply to the OSAP grant to Mr. Water.
+[13] Justice Nadon continues at paragraph 32 to quote dictionary definitions of the word "bursary", and concludes that bursaries are grants given to students in need of financial help to allow them to continue their studies. This coincides with the Appellant's situation. The OSAP bursary was made to assist the Appellant in his academic pursuits. This is underlined by the correspondence and documents provided by the Appellant in Exhibits A-1 through A-6.
+[14] Basically, the Appellant's third position is the legal principle of estoppel. In his direct evidence, he stated that he was led to believe that his grants were to cover 100% of his higher education costs, and were exempt from tax. He relied on this representation. He did not learn of the tax assessment under paragraph 56(1)(n) until 2001. In Moulton v. The Queen,[6] Bowman J. set out the factors giving rise to an estoppel as follows:
+(1) A representation or conduct amounting to a representation intended to induce a course of conduct on the part of the person to whom the representation is made.
+(2) An act or omission resulting from the representation, whether actual or by conduct, by the person to whom the representation is made.
+(3) Detriment to such person as a consequence of the act or omission.
+Estoppel is no longer merely a rule of evidence. It is a rule of substantive law. Lord Denning calls it "a principle of justice and of equity". (See Moorgate Mercantile Co. v. Twitchings, [1976] 1 Q.B. 225, at page 241.)
+It is sometimes said that estoppel does not lie against the Crown. The statement is not accurate and seems to stem from a misapplication of the term estoppel. The principle of estoppel binds the Crown, as do other principles of law. Estoppel in pais, as it applies to the Crown, involves representations of fact made by officials of the Crown and relied and acted on by the subject to his or her detriment. The doctrine has no application where a particular interpretation of a statute has been communicated to a subject by an official of the government, relied upon by that subject to his or her detriment and then withdrawn or changed by the government. In such a case a taxpayer sometimes seeks to invoke the doctrine of estoppel. It is inappropriate to do so not because such representations give rise to an estoppel that does not bind the Crown, but rather, because no estoppel can arise where such representations are not in accordance with the law. Although estoppel is now a principle of substantive law it had its origins in the law of evidence and as such relates to representations of fact. It has no role to play where questions of interpretation of the law are involved, because estoppels cannot override the law.
+The question of interpretation of paragraph 56(1)(n) is a matter of law which I must decide in accordance with its plain meaning. I cannot avoid that application because it may be unfair in the present circumstances. The Courts, that have an obligation to decide cases in accordance with legislation, are not bound by representations or opinions expressed by others. Governments have the right and authority to change directions in midstream presumably acting in the best interest of the majority.
+[15] Mr. Gary Malkowski, a highly qualified deaf person, testified on the Appellant's behalf. He is a former member of the Ontario Provincial Government and an advisor to the Ontario Ministry of Education and Training. He emphasized the problems that arose when the grant funding management was turned over from VRS to OSAP, and the bursaries were not tax-free. I believe he stated that over 50% of the deaf student applicants have had to drop out of the programs because they could not afford to pay tax. Mr. Malkowski made a persuasive argument in favour of equity and fairness. As noted earlier, the Tax Court does not have jurisdiction to grant the equitable relief requested. Nadon J. in Simser, made the following helpful comments:
+44 Turning to subsection 56(1) of the Act, it appears to me that the purpose of the provision is more in line with the traditional purpose of taxing legislation, i.e., to raise funds to cover government expenditures: the stated purpose of the subsection is to include in a taxpayer's income specified sources of income, save those which have been expressly exempted by the provision. Paragraph 56(1)(n) follows this objective: ...
+50. ... Another common feature of the definition of bursary is the fact that a bursary is granted to students t enable them to pursue their studies. In my view, this is the core purpose of a bursary: to provide help to a student, not in a generic way, but specifically to enable him or her to pursue his or her education. Consequently, in order to determine whether an income-tested grant falls under the category of "bursary" or of "social assistance payment", its core purpose must be determined. ...
+[16] For these reasons, I find that the $30,378 bursary received by the Appellant in 1999 was properly included in his income, and the Minister's assessment was not a discriminatory act. The appeal is dismissed.
+Signed at Ottawa, Canada, this 11th day of October, 2006.
+"C.H. McArthur"
+McArthur J.
+CITATION: 2006TCC553
+COURT FILE NO.: 2001-2604(IT)I
+STYLE OF CAUSE: RICHARD A. WATERS AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 12, 2006
+REASONS FOR JUDGMENT BY:
+DATE OF JUDGMENT: October 11, 2006
+APPEARANCES:
+Agent for the Appellant:
+Robert Waters
+Counsel for the Respondent:
+Kandia Aird
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This amount was conceded by both parties at the hearing, as opposed to the amount of $34,873 referred to in the Amended Reply to the Notice of Appeal.
+[2] Exhibit A-2, Tab 12.
+[3] Exhibit R-1, Tab 2.
+[4] 2005 DTC 5001.
+[5] R.S.O. 1990, ch. 19.
+[6] 2002 CanLII 798.

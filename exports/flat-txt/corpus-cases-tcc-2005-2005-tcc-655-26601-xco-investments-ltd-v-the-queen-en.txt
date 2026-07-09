@@ -1,0 +1,333 @@
+Title: XCO Investments Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26601/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-655-26601-xco-investments-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-11-14
+
+# XCO Investments Ltd. v. The Queen
+
+- Citation: 2005 TCC 655
+- Decision date: 2005-11-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3543, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+XCO Investments Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-11-14
+Neutral citation
+2005 TCC 655
+File numbers
+2002-2024(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2024(IT)G
+BETWEEN:
+XCO INVESTMENTS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+West Topaz Property Ltd. (2002-2036(IT)G), on September 7, 2005
+at Vancouver, British Columbia.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Craig C. Sturrock
+Counsel for the Respondent:
+Robert H. Carvalho
+Gavin Laird
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1993 and 1994 taxation years are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amount reallocated to the appellants under the assessments is to be reduced by $557,556.
+The Crown is entitled to 50% of its costs on a party and party basis.
+Signed at Ottawa, Ontario, this 14th day of November, 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+Docket: 2002-2036(IT)G
+BETWEEN:
+WEST TOPAZ PROPERTY LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+XCO Investments Ltd. (2002-2024(IT)G), on September 7, 2005
+at Vancouver, British Columbia.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Craig C. Sturrock
+Counsel for the Respondent:
+Robert H. Carvalho
+Gavin Laird
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1993 and 1994 taxation years are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amount reallocated to the appellants under the assessments is to be reduced by $557,556.
+The Crown is entitled to 50% of its costs on a party and party basis.
+Signed at Ottawa, Ontario, this 14th day of November, 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2005TCC655
+Date: 20051114
+Dockets: 2002-2024(IT)G
+2002-2036(IT)G
+BETWEEN:
+XCO INVESTMENTS LTD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND
+BETWEEN:
+WEST TOPAZ PROPERTY LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] These appeals were heard together and are from assessments for the appellants' 1993 and 1994 taxation years.
+[2] The basic issue is whether the Minister of National Revenue was right in allocating to the appellants a substantial portion of the income earned by a partnership of which they were members. The partnership had allocated the income from one apartment building to Woodwards Stores Limited ("Woodwards"). Woodwards had joined the partnership in 1992. It was the portion allocated by the partnership to Woodwards that the Minister reallocated to the appellants.
+[3] The Minister's allocation of the income from Woodwards to the appellants was based on the view that Woodwards' involvement in the partnership was simply a tax avoidance scheme designed to absorb Woodwards' losses. The Minister's attack was three pronged:
+(a) Woodwards was never a partner.
+(b) In any event, if Woodwards was a partner, the allocation of income was unreasonable and the proper allocation to Woodwards under subsection 103(1) of the Income Tax Act was zero.
+(c) In any event the transactions involved were avoidance transactions within the meaning of subsection 245(3) of the Income Tax Act (the general anti-avoidance rule or GAAR) and that the reallocation of the income to the appellants was justified under subsections 245(2) and 245(5).
+[4] The facts are as follows.
+[5] Natale Bosa controlled Astron Realty Group Inc. ("Astron"), XCO Investments Ltd. ("XCO"), one of the appellants and Bosa Brothers Construction Ltd. ("BBCL") were wholly owned subsidies of Astron.
+[6] On May 9, 1979, BBCL bought property known as the Westhill Place Apartments ("the Westhill Apartments") for $2,715,889. On December 6, 1986, West Topaz Property Limited ("West Topaz"), one of the appellants, was incorporated as a wholly owned subsidiary of Astron. A partnership known as The West Topaz Real Estate Partnerhsip ("the Partnership") was created between BBCL and XCO in which BBCL and XCO held a 99% interest and a 1% interest respectively, their "proportionate interests". BBCL made a capital contribution of $99 and XCO of $1.
+[7] Article VII of the Partnership Agreement read as follows:
+ARTICLE VII
+ALLOCATION OF PROFITS AND LOSSES
+FOR INCOME TAX PURPOSES AND FOR ACCOUNTING PURPOSES
+Allocation of Income and Losses for Income Tax Purposes Only
+7.01 For income tax purposes only, income and losses of the Partnership for any fiscal period computed in accordance with the provisions of the Income Tax Act (Canada) (the "Act") shall be allocated to the Partners in accordance with their respective Proportionate Interests.
+7.02 The Partners hereby agree that for the purpose of federal and provincial income taxes the Partnership shall, in each fiscal year, claim the maximum capital cost allowance on the Partnership's assets allowed by law and such other reserves and deductions as are available to the Partnership under the Income Tax Act (Canada) unless the Majority Partner determines otherwise.
+Allocation of Income or Losses for Accounting Purposes
+7.03 The Partners agree that the net income or net loss of the Partnership computed in accordance with generally accepted accounting principles applied consistently from year to year shall be allocated amongst the Partners as at the end of each fiscal year, as follows:
+(a) all of the losses or all of the profits, as the case may be, shall be allocated to the Partners in accordance with their respective Proportionate Interests;
+(b) for the purposes hereof, net income and net loss for each fiscal year shall be determined by the Partnership's Accountants in accordance with this Agreement and their decision shall be final and binding on the Partnership;
+(c) each Partner's share of net income or net loss of the Partnership shall be credited or debited, as the case may be, at the end of each fiscal year of the Partnership, to its capital account and shall be recorded accordingly.
+7.04 Upon a withdrawal by a Partner of his proportionate share of the Partnership's Property any income or losses for accounting purposes arising or resulting from the withdrawal by such Partner of his Proportionate Interest in the Partnership's Property shall be allocated to such Partner.
+[8] On December 5, 1986, a property known as the Topaz Apartments was transferred to the Partnership. On December 22, 1986, the Westhill Apartments were transferred by BBCL to the Partnership using an election under subsection 97(2) of the Income Tax Act. The consideration for tax purposes was the vendor's "cost" in exchange for promissory notes and the Partnership's assumption of mortgages. On the same day BBCL transferred its interest in the Partnership to the appellant, West Topaz, electing BBCL's cost under subsection 85(1) of the Income Tax Act.
+[9] The result was that from 1986 to 1992 the Partnership consisted of West Topaz as to 99% and XCO as to 1%. The Partnership owned the two apartment properties, Topaz Apartments and Westhill Apartments. West Topaz acted as trustee for the Partnership.
+[10] In 1992, a number of transactions occurred that gave rise to the present appeals. The reply in the West Topaz appeal contains a succinct description of these transactions. The reply in XCO is the same except for the fact that West Topaz had a 99% interest and XCO had a 1% interest. These assumptions have not been refuted and I take them as accurate.
+[11] Paragraphs 7(e) to (j) of the West Topaz reply read:
+(e) In anticipation of the sale of the Westhill Apartments by the Partnership, the following pre-ordained series of transactions occurred:
+i) On March 12, 1992, the accountant for the Bosa group of companies sent a fax to Woodwards' accountant. Woodwards was a public retail company with substantial accumulated non-capital losses. The fax outlined a proposal whereby the Partnership would admit Woodwards to participate in 80% of the operating income and net cash flow related to the Westhill Apartments. Details of the proposal include the following:
+1. Woodwards would contribute cash equal to 80% of the Partnership's estimated net equity in the Westhill Apartments. The net equity would be based on the estimated current value of the Westhill Apartments, less a 5.25% discount to reflect the fact that the tax base of the property was less than its current value, and less outstanding mortgages on the property. The estimated net equity of $2.3 million was based on a current value of $10.8 million less $8.5 million in related debt made up of a $5 million mortgage to be placed on the property and the following existing mortgages:
+Canadian Mortgage and Housing Corp. ("CMHC") $1,725,000
+National Trust Company $1,775.000
+2. Monthly cash distributions were to be based on operating income plus depreciation expense less principal repayments;
+3. Net cash flow distributions from the sale of the Westhill Apartments were to be the selling price less debt repaid, commissions and other associated sales costs;
+4. Woodwards had the option of withdrawing from the Partnership within 6 months with the exception that if a sale of the Westhill Apartments occurred, no withdrawal was allowed until, at the earliest, the first day of the next fiscal year of the Partnership; and
+5. If the partners were called upon to contribute additional capital Woodwards could withdraw rather than make the capital contribution;
+ii) On March 13, 1992, the following transactions occurred:
+1. Bosa Development Corporation ("BDC") paid Natale Bosa a $5,000,000 bonus. BDC is controlled by Natale Bosa;
+2. Natale Bosa paid the $5,000,000 to Bancorp as a shareholder loan. Bancorp is controlled by Natale Bosa;
+3. Bancorp paid the $5,000,000 to the Partnership as a mortgage advance; and
+4. The Partnership paid the $5,000,000 back to BDC as a mortgage receivable;
+(collectively, the "$5,000,000 Debt Arrangement");
+iii) All of the $5,000,000 Debt Arrangement transactions were non-interest bearing and there were no agreements for the transfers other than for the unregistered mortgage between Bancorp and the Partnership. The unregistered mortgage agreement was dated March 16, 1992, and stated the mortgage was interest bearing and payable on demand. No interest was charged on the mortgage;
+iv) The $5,000,000 Debt Arrangement was undertaken to increase the mortgage debt associated with the Westhill Apartments to reduce the net equity value of the property for purposes of facilitating the purchase of Woodwards' non-capital losses;
+v) The Appellant, XCO and Woodwards signed a commitment letter accepting Woodwards as a partner at a cost of $1,260,000. The $1,260,000 was calculated as follows:
+Estimated $10,800,000 fair market
+value of the Westhill Apartments,
+less 6.5% discount $10,098,000
+Less Mortgages:
+CMHC 1,725,000
+National Trust Company 1,775,000
+Bancorp (unregistered) __5,000,000
+Estimated Net Equity $1,598,000
+Woodwards' 80% share $1,278,400
+Woodwards' actual contribution $1,260,000
+vi) On March 19, 1992, the original 1986 partnership agreement was amended to reflect Woodwards' newly acquired 80% interest in the Partnership (the "Agreement"). Details of the Agreement are as follows:
+1. Woodwards' participation was limited to the Westhill Apartments;
+2. Woodwards was to have an 80% interest, the Appellant a 19.8% interest and XCO a .2% interest;
+3. On the sale of the Westhill Apartments, the partners would share in the distribution of the net proceeds in proportion to their interests;
+4. Woodwards was entitled, for a period of 180 days, to withdraw and receive its capital contribution and its share of any distributable operating income. Withdrawal, however, was not allowed following any sale of the Westhill Property until after the subsequent fiscal year-end of the Partnership;
+5. Woodwards was not entitled to a distribution of funds resulting from a sale of the Westhill Property and a return of its contributed capital on withdrawal from the Partnership; and
+6. The definition of majority partner was revised to mean the Appellant rather than the holder of a majority interest in the Partnership;
+vii) By purchase agreement dated March 20, 1992, 420688 BC Ltd. purchased the Westhill Apartments from the Partnership for $10,850,000. 420688 BC Ltd. is an arm's length company;
+viii) On March 25, 1992, the following transactions occurred:
+1. An escrow agreement was entered into between Woodwards, the Partnership and Owen Bird, Barristers and Solicitors. The escrow agreement provided for Woodwards' $1,260,000 capital contribution to the Partnership to be held in trust by Owen Bird; and
+2. Bancorp and BDC agreed to loan $1 million to Woodwards. Repayment of the loan and interest being due on completion of the sale of the Westhill Apartments. No funds were in fact lent to Woodwards;
+ix) Sometime prior to March 25, 1992, Woodward's executed and delivered to the Partnership a Notice of Withdrawal withdrawing from the Partnership;[1]
+x) The sale of the Westhill Apartments closed on July 8, 1992, with the receipt of sale proceeds of $10,090,467, not including an initial deposit of $750,000 that was paid earlier. The proceeds were disbursed as follows:
+$1,715,736 to CMHC;
+$1,860,952 to the National Trust Company;
+$5,000,000 to Bancorp in payment of the unregistered mortgage;
+$2,917 for legal fees; and
+$1,510,862 was disbursed to the Appellant;
+xi) On July 13, 1992, the Appellant received the initial deposit of $750,000;
+xii) On July 13, 1992, Owen Bird was instructed to release to the Partnership the $1,260,000 that was being held in escrow, plus accrued interest of $25,200. A cheque was made payable to the Appellant and deposited to its Royal Bank account; and
+xiii) On May 15, 1993, Woodwards transferred its interest in the Partnership to the Appellant for $1.00 and other good and valuable consideration;
+f) For the April 30, 1992 fiscal year-end of the Partnership Woodwards was allocated operating income for accounting purposes of $11,563 out of a total of $292,066. For tax purposes the allocation of operating income to Woodwards was $118,405 out of $292,066;
+g) On May 4, 1992, Woodwards received a letter advising them that their distributable share of operating income for March 1992 was $8,827. A cheque for that amount was included with the letter;
+h) A summary of the distribution of net sale proceeds dated July 13, 1992, shows net proceeds of $2,260,862 ($1,510,862 + $750,000). Woodwards 80% share of the proceeds was calculated to be $1,808,689.86. The Appellant accordingly sent Woodwards a cheque for that amount on July 13, 1992. The proceeds would have been $7,260,862 if not for the $5,000,000 Bancorp mortgage;
+i) For the April 30, 1993 year-end of the Partnership, Woodwards was allocated partnership income of $5,748,931 consisting of $5,725,794 related to the gain on the sale of the Westhill Aparments and $23,137 related to operating income. This income was sheltered using Woodwards' non-capital losses;
+j) For the April 30, 1994 year-end of the Partnership, the residual amount of $6,652,877 in Woodwards' capital account was reallocated to the remaining partners. The Appellant was allocated 99% and XCO was allocated 1%;
+[12] Exhibit A-1 is the letter from Revenue Canada dated August 7, 1997. It sets out in detail the events described above. I shall reproduce only two portions of the letter:
+Dear Sirs:
+Re: West Topaz Real Estate Partnership ("the Partnership")____________
+We have completed our review of the arrangement between the Partnership and Woodward Stores Ltd. ("Woodwards") in which Woodwards purchased an 80% interest in the Partnership in respect of the Westhill Apartments property ("Westhill").
+It is our view that Woodwards was not a partner in the Partnership and therefore, was not entitled to share in the income of the Partnership. Accordingly, we propose to reallocate the income of the Partnership as follows:
+1992
+AS FILED
+REALLOCATE
+REVISED TOTAL
+Woodwards
+118,405
+-118,405
+0
+West
+123,003
+117,221
+240,224
+XCO
+1,242
+1,184
+2,426
+Total
+242,650
+0,000
+242,650
+1993
+AS FILED
+REALLOCATE
+REVISED TOTAL
+Woodwards
+5,748,931
+-5,748,931
+0
+West
+1,527,334
+5,691,442
+7,218,776
+XCO
+15,428
+57,489
+72,917
+Total
+7,291,693
+0,000
+7,291,693
+. . . . .
+As a result of our review, it is our opinion that Woodwards did not enter the Partnership as a partner with the intentions of operating a business in common with a view to a profit. Rather, the arrangement was a tax avoidance scheme whereby West and XCO purchased losses from Woodwards to reduce their taxes otherwise payable.
+West and XCO would have the Department believe that Woodwards purchased a partnership interest with the intention of operating a business in common with a view to profit. Purportedly, there was a valid Partnership Agreement, an arrangement to share profits, and a cash contribution to the Partnership for the purchase of this interest. However, when one looks at the true intent and the actions of each of the parties involved, a different conclusion is drawn. The substance of the transactions do not match the form. Woodwards did not buy and sell a partnership interest, rather it sold losses which the taxpayer used to reduce its taxes otherwise payable.
+[13] Before considering the tax consequences of these transactions the legal aspects must be analysed. If the steps are not effective to achieve the legal result that they are intended to achieve, either because they are shams or because there is some legal deficiency or impediment that renders the transactions nugatory, that is the end of the matter and there is no need to consider section 103 or 245. It is only if the parties entered into a legally effective partnership relation that the specific anti-avoidance provision in section 103 or the general anti-avoidance provision in section 245 could potentially be applicable.
+[14] In the replies to the notices of appeal, the issue of the existence of a partnership between the appellant, XCO and Woodwards, is clearly and specifically raised in subparagraphs 1(d), 8(a), (b) and (c) and 9(a) and paragraphs 11, 12, and 13 and paragraphs 11, 12 and 13 of (e). Nonetheless, in the Respondent's written submissions counsel for the Respondent refers to only two issues (subsection 103(1) and section 245). I take it, therefore, that the Respondent has abandoned the argument that no partnership existed. I think in any event that the Respondent was right not to press the argument that there was no valid partnership between Woodwards and XCO and West Topaz. The documents created a legally effective relationship and provided for the distribution of the profits of the Partnership. For reasons that I shall develop more fully below, bringing Woodwards into the Partnership was, at least from the appellants' perspective, tax-motivated. The relative degree of tax or non-tax motivation is something that I have to consider, but whether the reduction of tax was the exclusive, principal, predominant or substantial reason for Woodwards' involvement in the partnership, none of these motivations detract from the legal validity of the relations created by the documents.
+[15] My reasons then will be premised on the view that the legal relations created by the documents were not shams, but were genuine and legally effective. What, then, happened?
+[16] In 1992, the appellants were partners in a partnership of which West Topaz was a 99% partner and XCO was a 1% partner. The Partnership owned two rental properties, Westhill Apartments and Topaz Apartments. The Westhill Apartments were originally acquired by BBCL. In 1986 an offer was made to Delta Investments to purchase the Westhill Apartments from BBCL. By a subsection 97(2) rollover the Westhill Apartments were transferred to the Partnership and by a section 85 rollover, BBCL's partnership interest was transferred to the appellant to West Topaz. In all likelihood these transfers were made in anticipation of the possible sale of the Westhill Apartments. As it happened the Westhill Apartments were not sold at that time.
+[17] I do not regard the transactions that occurred in 1986 following the offer by Delta Investments to purchase the Westhill Apartments, including the two rollovers, as being part of the series of transactions that occurred in 1992. It is true the partnership structure that existed in 1992 was integral to the arrangement with Woodwards but it was not put in place in anticipation of the arrangement with Woodwards or of the sale in 1992 of the Westhill Apartments. Therefore, we start with 1992.
+[18] On March 20, 1992, 420688 B.C. Ltd. made an offer to West Topaz to purchase the Westhill Apartments for $10,850,000. On March 19, 1992, the partnership agreement between West Topaz and XCO was amended to admit Woodwards as a partner. It would be disingenuous for me to believe that the amendment to the partnership agreement was not done in anticipation of the sale of the Westhill Apartments. Moreover, by March 25, 1992, Woodwards had signed and delivered to the Partnership a notice of withdrawal. I assume it was not to be acted on immediately but required something else to activate it.
+[19] Prior to the amendment a plan was formulated and executed as set out in subparagraph 7(e)(ii) of the reply as reproduced above. Essentially, it involved putting an unregistered mortgage on the Westhill Apartments. The mortgage was dated March 16, 1992 and was from West Topaz to Bancorp Mortgage Investments Corporation ("Bancorp"). The amount advanced was $5,000,000 although the amount stated in the mortgage was $6,000,000. The money went in a circle from BDC to Natale Bosa to Bancorp to the Partnership and back to BDC. The only practical effect of the mortgage arrangement was that the debt related to the Westhill Apartments was increased and the net equity value of the property was reduced by $5,000,000. This enabled Woodwards to buy into the Partnership for $1,278,400 rather than $5,278,400.
+[20] The revisions to the partnership agreement which now included Woodwards are summarized above. What is somewhat unusual is the limitation of Woodwards' interest in the Partnership to an 80% interest to Westhill Apartments. I can see no legal impediment to limiting one partner's participation in the Partnership's income and property to one part of the Partnership's business. Partners are free to create unorthodox means of dividing the profits and assets of the Partnership without invalidating these provisions. It is however an indication of the purpose of the somewhat strange form of division.
+[21] A couple of other points should be noted. Woodwards could withdraw within a period of 180 days and receive a return of its capital contribution and its share of distributable operating income, provided that it could not withdraw after the sale of the Westhill Apartments until after the end of the subsequent fiscal year-end of the Partnership. The obvious purpose of this was to ensure that if the Westhill Apartments were sold, Woodwards' proportionate share of any income or capital gain arising from the sale would be allocated to it and this would be done at the end of the fiscal year of the Partnership (April 30).
+[22] The agreement to purchase the Westhill Apartments was dated March 20, 1992. On March 25, 1992, an escrow agreement was entered into between the Partnership, Woodwards and the law firm of Owen Bird. Under it Woodwards' capital contribution of $1,260,000 was held in trust by Owen Bird. Clauses 3, 4 and 5 of the escrow agreement read:
+3. The Escrow Agent shall not deal with or release the Funds except in accordance with the terms of written instructions provided and signed by all of the partners forming the Partnership, namely, West Topaz Property Ltd. and XCO Investments Ltd. and the New Partner.
+4. Notwithstanding the provisions contained in paragraph 3 herein, the Escrow Agent is directed by the Partnership and the New Partner, upon receipt by the Escrow Agent of a true copy of the Notice of Withdrawal which has already been duly delivered to the Partnership by the New Partner, in accordance with the terms of the Partnership Agreement, to release the Funds, net of interest earned thereon, firstly to Bancorp Mortgage Investment Corporation to retire the balance outstanding under the New Partner's loan from Bancorp Mortgage Investment Corporation, and secondly to the New Partner.
+5. It is agreed between the parties to this Agreement that notwithstanding any other provision contained herein this Agreement will terminate upon the initial distribution by the Partnership of the net sale proceeds received from the sale by the Partnership of Westhill Place Apartments.
+[23] I am still somewhat in the dark as to the reason for signing and depositing with the Partnership a notice of withdrawal almost simultaneously with Woodwards' entry into the Partnership. I can only assume that once Woodwards' involvement in the sale of the Westhill Apartments had served its purpose the parties wanted to be sure that Woodwards disappeared from the scene.
+[24] Any analysis of these transactions must start by asking, what would the situation have been if Woodwards had never been involved as a partner? In acting on that hypothesis I would necessarily have to assume that the $5,000,000 mortgage arrangement would not have occurred because its sole purpose was to reduce the amount of cash that Woodwards had to come up with to get into the deal. I agree with Mr. Sturrock that Woodwards' profit would have been the same with or without the $5,000,000. The following chart, which Mr. Sturrock submitted in argument, illustrates the point.
+With $5 million Mortgage
+Without $5 million Mortgage
+10,800,000
+10,800,000
+- 702,000 (6.5% discount)
+- 702,000
+10,098,000
+10,098,000
+- 8,500,000 (mortgages)
+- 3,500,000
+1,598,000
+6,598,000
+X______.8
+X______.8
+1,278,000
+5,278,400
+1,260,000 (settled @)
+5,260,000 (settled @)
+2,300,000 (profit) (net sale proceeds)
+7,300,000
+X______.8
+X______.8
+1,840,000
+5,840,000
+- 1,260,000
+- 5,260,000
+$ 570,000 (profit to WW)
+$ 570,000
+[25] The $5,000,000 mortgage arrangement is a red herring, except that it illustrates the Bosa group's willingness to accommodate Woodwards' somewhat straitened financial condition to facilitate its participation.
+[26] If we eliminate Woodwards and the $5,000,000 arrangement we have a straightforward sale for $10,850,000. The sale proceeds would have been $10,840,467 ($10,090,467 + $750,000) as set out in subparagraph (x) above. (I have not tried to account for the difference of $9,533. It is not essential to the decision here).
+[27] That amount would have been disbursed as set out in subparagraph 7(e)(x) except that the appellant West Topaz and XCO would have received a total of $7,260,862 including the $750,000 deposit. If we take into account the $5,000,000 mortgage that went in a circle within the Bosa group, the amount is $2,260,862. I regard the $5,000,000 mortgage as a piece of financial legerdemain that has little relevance to what has to be decided here.
+[28] Another result of eliminating Woodwards would have been that for the April 30, 1993 year-end of the Partnership, $5,748,931 would have been allocated to the appellant and XCO and they would presumably have been taxable on it. The same is true for the fiscal period ending April 30, 1992. Although only $11,563 was allocated to Woodwards for accounting purposes, for tax purposes it was allocated $118,405 out of $292,066. This would have been allocated to the appellants had Woodwards not been there and they would have been taxable on it.
+[29] In cash terms Woodwards paid $1,260,000 and received cash of $8,827 plus $1,808,689.86. The difference of $548,689.98 between $1,808,689.86 and $1,260,000 is very close to $561,600 which is 80% of $702,000, the 6.5% discount from the assumed fair market value of $10,800,000 of the Westhill Apartments. In the result Woodwards made a profit of $548,689 and received $8,867 in operating profits for a total of $557,556.
+[30] This was the actual cash that it cost the appellants to obtain Woodwards' participation. For that they saved or would have saved, if the plan had worked, the tax on $5,867,336 ($118,405 + $5,748,931). I have not worked out the actual tax savings to the appellants. I suppose I could try but I would probably get it wrong. Suffice it to say that it would probably be well over two million dollars, several multiples of their actual cash outlay.
+[31] What, then, was the predominant purpose of this transaction? From the appellants' point of view it was obviously to save tax. For an outlay of something over one half million dollars they were expecting to save taxes of over $2,000,000. The motivation is obvious. I have been unable to identify any other commercial or non-tax purpose.
+[32] From Woodwards' point of view there was no tax motivation at all. It involved a pure business proposition. It had no tax to pay and none to save. For its participation in the scheme it received a profit of about $550,000.[2]
+[33] Woodwards' contribution was both ephemeral and for all practical purposes risk free. It is therefore unreasonable for it to be allocated 80% of the income from the Westhill Apartments. That is exactly what subsection 103(1) is there for. It reads:
+Where the members of a partnership have agreed to share, in a specified proportion, any income or loss of the partnership from any source or from sources in a particular place, as the case may be, or any other amount in respect of any activity of the partnership that is relevant to the computation of the income or taxable income of any of the members thereof, and the principal reason for the agreement may reasonably be considered to be the reduction or postponement of the tax that might otherwise have been or become payable under this Act, the share of each member of the partnership in the income or loss, as the case may be, or in that other amount, is the amount that is reasonable having regard to all the circumstances including the proportions in which the members have agreed to share profits and losses of the partnership from other sources or from sources in other places.
+[34] The arrangements fall squarely within that provision. The principal reason for the partnership's division of profits is the reduction of tax and the share of profits, given Woodwards' temporary and risk free involvement in the partnership, is inherently unreasonable. What would be a reasonable allocation of income? The Minister has, in my view, gone somewhat too far. Both in his application of subsection 103(1) and if he had been required to apply GAAR, in which the test of reasonableness is essentially the same, he has allocated everything to the appellants.
+[35] I think a reasonable treatment of this arrangement under section 103 would be to treat Woodwards' share of the income as the amount it actually received ($557,556) and the amount allocated to the appellants should be reduced accordingly. This allocation is more in keeping with the true economic reality of the arrangement. I am aware that economic reality is a concept that under recent jurisprudence is not in favour. Nonetheless it is an important ingredient in a determination of what is reasonable.
+[36] After this case was argued, the Supreme Court of Canada delivered two judgments in which they established the principles to be applied in GAAR cases: Canada Trustco Mortgage Co. v. Canada, 2005 SCC 54 and Mathew v. Canada, 2005 SCC 55. Counsel were given an opportunity of making representations on the effect of these cases.
+[37] Section 245 is the third string to the Minister's bow and, quite rightly, the Minister decided that only if the first two bases of attack (no partnership or section 103) failed should section 245 apply. This in my view is the correct approach. Section 245 is, as stated by the Supreme Court of Canada in paragraph 21 of Canada Trustco, a provision of last resort. Here subsection 103(1) is entirely adequate to deal with the tax avoidance that the Minister complains of. As a specific provision it prevails over the general provision of section 245. Had I concluded that subsection 103(1) did not apply but that section 245 did, would I have reached the same conclusion on the question of the reasonableness of the amount to be allocated to the partners? This is a difficult question but on balance I probably would have. The difficulty arises from the fact that section 103 requires merely an allocation of income or loss that is reasonable in the circumstances. Subsection 245(5) is more complex. It sets out a variety of actions that are open to the Minister:
+... in determining the tax consequences to a person as is reasonable in the circumstances in order to deny a tax benefit that would, but for this section, result, directly or indirectly; from an avoidance transaction.
+This might arguably, if we were in section 245, justify allocating all the profit to the appellants. However, we have not yet reached section 245. If we had I would have preferred to hear argument on what the appropriate assessing action under subsection 245(5) should be. It may well be that at some point this court will have to consider whether section 245 cases will have to be split into two parts, first whether section 245 applies and second what action is appropriate under subsection 245(5).
+[38] I do not propose to deal at any length with the GAAR since I regard it is unnecessary in light of section 103. I have, however, one or two observations that apply to section 245 and possibly to a lesser degree to section 103.
+[39] The first is that while "reasonable" is a relative term and what is reasonable must depend on all of the circumstances, its determination is clearly not a discretionary act on the part of the Minister. It would be wholly unacceptable if in reviewing the Minister's decision on what is "reasonable" the court were fettered by the theory that the Minister's decision was a discretionary one and the rules about reviewing a discretionary act and showing deference to the Minister's decision had to be observed. However far reaching section 245 may be, it does not confer discretionary powers on the Minister, either in the decision to apply it or in the determination of its consequences.
+[40] Second, anti-avoidance sections such as 103 and 245 are not intended as a means of punishment for offending the Minister's olfactory sense. They do not give the Minister carte blanche to impose sanctions for transcending his notion of fiscal rectitude. Section 245 is there to counteract serious forms of tax avoidance that would otherwise not be stopped by other specific anti-avoidance provisions. Where a specific anti-avoidance section covers a transaction but does not in the Minister's view provide a remedy that the Minister considers sufficient, section 245 is not there to permit the Minister to top up the remedy that the Minister believes to be inadequate.
+[41] The appeals are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amount reallocated under subsection 103(1) to the appellants under the assessments is to be reduced by $557,556.
+[42] Success is mixed but the Crown is substantially more successful than the appellants. The Crown is therefore entitled to 50% of its costs on a party and party basis.
+Signed at Ottawa, Canada, this 14th day of November, 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2005TCC655
+COURT FILES NOS.:
+2002-2024(IT)G
+2002-2036(IT)G
+STYLE OF CAUSE:
+XCO Investments Ltd. and
+West Topaz Property Ltd. and
+Her Majesty The Queen
+PLACE OF HEARING:
+Vancouver, B.C.
+DATE OF HEARING:
+September 7, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT AND REASONS FOR JUDGMENT:
+November 14, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Craig C. Sturrock
+Counsel for the Respondent:
+Robert H. Carvalho
+Gavin Laird
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Thorsteinssons
+Firm:
+P.O. Box 49123
+2700 - 595 Burrard Street
+Vancouver, B.C. V7X 1J2
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This document was not put in evidence and in fact Woodwards withdrew effective May 15, 1993. Nonetheless the notice of withdrawal clearly existed. It was referred to in the escrow agreement of March 25, 1992. It will be recalled that Woodwards joined the partnership on March 19, 1992. Why, then, did it sign a withdrawal some time before March 25, 1992?
+[2] Woodwards rendered a service in allowing itself to be used. The fact that the service that it rendered to the appellants did not yield the tax saving they had hoped for did not make it any the less a service for which it was compensated and which should form part of its income. One might analogize it to the kind of service discussed by Mr. Justice Rowlatt in Ryall v. Hoare, and v. Honeywill, 8 T.C. 521, [1923] 2 K.B. 447.

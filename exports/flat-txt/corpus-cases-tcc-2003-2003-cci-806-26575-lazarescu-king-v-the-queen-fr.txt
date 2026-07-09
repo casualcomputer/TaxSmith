@@ -1,0 +1,114 @@
+Title: Lazarescu-King v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26575/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-806-26575-lazarescu-king-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-11-13
+
+# Lazarescu-King v. The Queen
+
+- Citation: 2003 CCI 806
+- Decision date: 2003-11-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3583, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lazarescu-King v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-13
+Référence neutre
+2003 CCI 806
+Numéro de dossier
+2003-2294(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2003-2294(IT)I
+ENTRE :
+LINDA LAZARESCU-KING,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 27 octobre 2003 à Saskatoon (Saskatchewan)
+Devant : L'honorable juge G. Sheridan
+Comparutions
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Anne Jinnouchi
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2003.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 16e jour de février 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI806
+Date : 20031113
+Dossier : 2003-2294(IT)I
+ENTRE :
+LINDA LAZARESCU-KING,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] Il s'agit d'un appel interjeté à l'encontre d'une cotisation établie pour l'année d'imposition 2001 en vertu de laquelle le ministre du Revenu national (le « ministre » ) a refusé la déduction qu'a réclamée l'appelante pour l'intérêt qu'elle a payé à l'égard d'un prêt étudiant consenti au nom de son époux.
+FAITS
+[2] L'appelante a témoigné pour son propre compte. Aucun autre témoin n'a été appelé. Les faits en l'espèce ne sont pas contestés et sont énoncés dans la Réponse à l'avis d'appel de l'intimée de la façon suivante :
+[traduction]
+a) pendant toute la période pertinente, l'appelante était mariée à Roland King (ci-après appelé l' « époux » );
+b) l'époux a demandé un prêt étudiant qui lui a été consenti en vertu de la Loi fédérale sur les prêts étudiants, de la Loi fédérale sur l'aide financière aux étudiants ou d'une loi provinciale régissant l'octroi d'aide financière aux étudiants de niveau postsecondaire;
+c) l'intérêt payé sur le prêt étudiant consenti à l'époux pour l'année d'imposition 2001 s'élevait à 1 050 $;
+d) l'intérêt qu'a réclamé l'appelante sur le prêt étudiant au montant de 1 050 $ pour l'année d'imposition 2001 concernait le prêt étudiant consenti à l'époux et non un prêt étudiant consenti à l'appelante ou tout autre montant que devait celle-ci.
+[3] L'appelante a fait l'objet d'une cotisation établie pour l'année d'imposition 2001 le 21 mars 2002. Par la suite, trois autres nouvelles cotisations ont été établies pour l'année d'imposition 2001 le 9 mai 2002, le 3 septembre 2002 et le 2 décembre 2002. Le présent appel ne porte que sur le troisième Avis de nouvelle cotisation daté du 2 décembre 2002 ( « l'avis final de nouvelle cotisation » ). Le paragraphe 3 de l'avis final de nouvelle cotisation (pièce R-4) est ainsi rédigé :
+[TRADUCTION]
+Nous avons réduit le montant total de vos crédits d'impôt non remboursables du gouvernement fédéral [qui étaient de 2 740 $] à 2 572 $ et vos crédits d'impôt non remboursables du gouvernement provincial de la Saskatchewan [qui étaient de 2 233 $] à 2 112 $.
+[4] En contre-interrogatoire, l'appelante a convenu avec l'avocate de l'intimée que cette réduction reflétait le refus de la déduction qu'a réclamée l'appelante à l'égard de l'intérêt au montant de 1 050 $ qu'elle avait payé sur le prêt étudiant de son époux.
+QUESTION EN LITIGE
+[5] La question à trancher dans le présent appel consiste à savoir si, en vertu de l'article 118.62 de la Loi de l'impôt sur le revenu (la « Loi » ), l'appelante est admissible à un crédit d'impôt non remboursable à l'égard de l'intérêt qu'elle a payé sur le prêt étudiant de son époux pour l'année d'imposition 2001.
+ANALYSE
+[6] La disposition législative pertinente, énoncée à l'article 118.62 de la Loi, est ainsi rédigée :
+Crédit pour intérêts sur les prêts aux étudiants
+Le montant obtenu par la formule suivante est déductible dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition :
+A × B
+où
+A représente le taux de base pour l'année;
+B le total des montants (sauf un montant versé en paiement intégral ou partiel d'un jugement) représentant chacun un montant d'intérêt payé au cours de l'année (ou d'une des cinq années d'imposition précédentes postérieures à 1997, dans la mesure où il n'a pas été inclus, pour une autre année d'imposition, dans le calcul de la déduction prévue par le présent article) par le particulier ou une personne qui lui est liée sur un prêt consenti au particulier, ou tout autre montant dont il est débiteur, en vertu de la Loi fédérale sur les prêts aux étudiants, de la Loi fédérale sur l'aide financière aux étudiants ou d'une loi provinciale régissant l'octroi d'aide financière aux étudiants de niveau postsecondaire.
+[7] Paraphrasé et résumé à l'essentiel, l'article 118.62 est rédigé comme suit :
+[traduction]
+Dans le calcul de l'impôt payable par un particulier, un montant équivalant au taux de base pour l'année multiplié par le montant d'intérêt payé au cours de l'année par le particulier ou [par] une personne qui lui est liée peut être déductible d'un prêt consenti au particulier.
+[8] L'argument de l'appelante mettait l'accent sur la signification à donner à l'expression « par le particulier ou une personne qui lui est liée » . Selon son interprétation de ce paragraphe, l'une ou l'autre de ces parties, c'est-à-dire le particulier à qui le prêt a été consenti ou la personne qui lui est liée, devrait être admissible à une déduction d'intérêt payé sur un prêt étudiant. Pour appuyer cette allégation, elle a renvoyé la Cour à certains articles de la Loi d'interprétation ainsi qu'à une décision de la Cour suprême du Canada, soit Rizzo & Rizzo Shoes, [1998] 1 R.C.S. 27. Elle a conclu qu'à son avis, tel qu'il est rédigé, l'article 118.62 « prête à confusion » et, à voix haute, s'est demandée pourquoi les législateurs auraient fait mention dans ledit paragraphe d'une « personne qui lui est liée » si cette personne n'a pas droit à cette déduction.
+[9] Il ne fait aucun doute que l'appelante s'est sentie contrariée en tentant d'obtenir des précisions concernant l'article 118.62 auprès de l'Agence des douanes et du revenu du Canada. Cependant, de son propre aveu, des agents de l'ADRC lui ont répondu au moment opportun à chacune de ses demandes de renseignements qu'elle avait formulées par écrit, et elle s'est entretenue avec ces derniers par téléphone à de nombreuses reprises. L'appelante a déclaré qu'elle avait finalement interjeté appel devant la Cour, parce qu'en dépit des efforts qu'ont déployés les agents pour répondre à ses questions, elle ne comprenait toujours pas pourquoi elle n'était pas admissible à cette déduction en vertu de l'article 118.62.
+[10] L'avocate de l'intimée a allégué que l'article 118.62 n'est pas ambigu et que, par conséquent, les expressions employées doivent recevoir leur sens ordinaire. Elle a également soutenu qu'il est clair que l'article 18.62 envisage deux entités distinctes, soit le « particulier » et « la personne qui lui est liée » . En lisant le paragraphe du début à la fin, on comprend que le « particulier » est celui à qui le prêt a été consenti, donc l'époux de l'appelante ( « Roland » ) dans l'affaire en l'espèce, et qu'il s'ensuit que « la personne qui lui est liée » est l'appelante ( « Linda » ).
+[11] Pour illustrer la formule énoncée au paragraphe, l'avocate de l'intimée a remplacé le nom de chacune des parties dont il est fait mention à l'article 118.62 par celui de l'appelante et de son époux, comme il est démontré ci-dessous :
+Le montant obtenu par la formule suivante est déductible dans le calcul de l'impôt payable par un particulier [Roland] en vertu de la présente partie pour une année d'imposition :
+A × B
+où
+A représente le taux de base pour l'année;
+B [...] un montant d'intérêt payé au cours de l'année [soit 1 050 $] [...] par [Roland] ou [Linda] sur un prêt consenti à [Roland] en vertu de Loi fédérale sur les prêts aux étudiants, de la Loi fédérale sur l'aide financière aux étudiants ou d'une loi provinciale régissant l'octroi d'aide financière aux étudiants de niveau postsecondaire.
+[12] Le début de l'article 118.62, soit « Le montant obtenu [...] est déductible dans le calcul de l'impôt payable par le particulier [...] » précise qui peut réclamer la déduction, c'est-à-dire le « particulier » .
+[13] Quant au reste du paragraphe, il porte sur le montant déductible. La raison pour laquelle on fait mention de la « personne qui lui est liée » est de permettre au particulier de réclamer la déduction prévue même dans le cas où le « particulier » n'a pas lui-même payé d'intérêt sur son prêt étudiant, dans la mesure où ledit intérêt a été payé par une « personne qui lui est liée » . L'emploi du disjonctif « ou » dans la phrase « [...] par le particulier ou [par] une personne qui lui est liée [...] » se limite à celui d'entre eux qui a réellement payé ledit intérêt. Par contre, le début du paragraphe qui stipule qui est admissible à la déduction renvoie exclusivement au particulier.
+[14] Il s'ensuit donc qu'il n'est pas possible d'interpréter l'article 118.62 tel que l'exhortait l'appelante. Elle n'est pas le « particulier » dont il est fait mention au début du paragraphe puisque ce n'est pas à elle que le prêt a été consenti. L'appelante, en tant qu'épouse du particulier, est la « personne qui lui est liée » et qui a payé l'intérêt sur le prêt étudiant du particulier. L'avocate de l'intimée a soutenu avec raison que l'appelante ne peut être les deux à la fois. Enfin, étant donné que seul le particulier dont il est fait mention au début du paragraphe a le droit de réclamer une déduction, l'argument de l'appelante n'est pas fondé.
+[15] L'appelante a soutenu que, même si elle n'avait pas eu gain de cause dans le présent appel, la Cour devrait lui accorder des dépens correspondant à une rémunération de deux jours de travail qu'elle a consacrés à la préparation de son appel ainsi qu'à une rémunération d'une journée de travail pour comparaître devant la cour. L'article 10 des Règles de la Cour canadienne de l'impôt limite l'octroi de dépens à un appelant dans les affaires où l'appel est accueilli et le jugement réduit de plus de la moitié le total de tous les montants en cause.
+[16] Par conséquent, l'appel est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2003.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 16e jour de février 2004.
+Nancy Bouchard, traductrice

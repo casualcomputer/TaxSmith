@@ -1,0 +1,195 @@
+Title: Abedipour c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521022/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-155-521022-abedipour-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2022-12-07
+
+# Abedipour c. Le Roi
+
+- Citation: 2022 CCI 155
+- Decision date: 2022-12-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5817, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abedipour c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-12-07
+Référence neutre
+2022 CCI 155
+Numéro de dossier
+2020-1718(GST)G
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2020-1718(GST)G
+ENTRE :
+AIDA ABEDIPOUR,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l'appel d'Asghar Arezehgar, 2020‑1719(GST)G, les 21, 22 et 23 novembre 2022, à Toronto (Ontario)
+Devant : l'honorable juge David E. Spiro
+Comparutions :
+Avocat de l'appelante :
+Me Adam Serota
+Avocats de l'intimé :
+Me Tigra Bailey et Me Tony Cheung
+JUGEMENT
+L'appel est accueilli, et la cotisation concernant la taxe nette pour la période de déclaration du 1er mars 2016 au 31 mars 2016 et la pénalité imposée en vertu de l'article 280.1 de la partie IX de la Loi sur la taxe d'accise sont annulées, avec dépens selon le tarif.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2022.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 3e jour de mai 2023.
+Yves Bellefeuille, réviseur
+Dossier : 2020-1719(GST)G
+ENTRE :
+ASGHAR AREZEHGAR,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l'appel d'Aida Abedipour, 2020‑1718(GST)G, les 21, 22 et 23 novembre 2022, à Toronto (Ontario)
+Devant : l'honorable juge David E. Spiro
+Comparutions :
+Avocat de l'appelant :
+Me Adam Serota
+Avocats de l'intimé :
+Me Tigra Bailey et Me Tony Cheung
+JUGEMENT
+L'appel est accueilli, et la cotisation concernant la taxe nette pour la période de déclaration du 1er mars 2016 au 31 mars 2016 et la pénalité imposée en vertu de l'article 280.1 de la partie IX de la Loi sur la taxe d'accise sont annulées, avec dépens selon le tarif.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2022.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 3e jour de mai 2023.
+Yves Bellefeuille, réviseur
+Référence : 2022 CCI 155
+Date : 20221207
+Dossier : 2020-1718(GST)G
+ENTRE :
+AIDA ABEDIPOUR,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2020-1719(GST)G
+ET ENTRE :
+ASGHAR AREZEHGAR,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Spiro
+[1] Mme Aida Abedipour est une infirmière autorisée. Elle construisait une maison avec son mari, M. Asghar Arezehgar, lorsqu'on lui a diagnostiqué un cancer du sein. Elle et son mari ont décidé de terminer la construction de la maison et d'y emménager afin qu'elle puisse récupérer après ses traitements de chimiothérapie et reprendre des forces avant de subir une mastectomie et une chirurgie reconstructive. Le ministre du Revenu national (le « ministre ») croyait que les appelants avaient construit la maison dans l'intention de la vendre à la première occasion.
+[2] C'est pour cette raison que le ministre a établi une cotisation de 243 318,58 $ au titre de la TPS/TVH aux deux appelants (121 659,29 $ chacun) après qu'ils eurent vendu la maison en mars 2016 pour 2 115 000 $. Chaque appelant s'est vu imposer une pénalité de 4 866,36 $ pour avoir omis de produire la déclaration requise. Les appelants ont interjeté appel des cotisations à la Cour.
+Le droit applicable
+[3] Dans l'arrêt Wall c. La Reine, 2021 CAF 132, le juge Webb énonce le critère juridique pertinent :
+[23] En l'espèce, personne ne conteste le fait que M. Wall a embauché divers entrepreneurs pour construire les habitations en cause. Si M. Wall a embauché ces entrepreneurs pour construire les habitations en cause dans le cadre d'une entreprise, d'un projet à risques ou d'une affaire de caractère commercial, cela fait de lui un constructeur au sens de l'article 123 de la LTA :
+« constructeur » Est constructeur d'un immeuble d'habitation [...] la personne qui, selon le cas :a) réalise, [...] par un intermédiaire, à un moment où elle a un droit sur l'immeuble sur lequel l'immeuble d'habitation est situé :[...]iii) [...] la construction [...] de l'immeuble d'habitation;[...]N'est pas un constructeur :f) le particulier visé aux alinéas a) [...] qui, en dehors du cadre d'une entreprise, d'un projet à risques ou d'une affaire de caractère commercial :(i) [...] fait construire l'immeuble d'habitation [...][...]
+“builder” of a residential complex . . . means a person who(a) at a time when the person has an interest in the real property on which the complex is situated, . . . engages another person to carry on for the person. . .(iii) . . . the construction . . . of the complex,. . .but does not include(f) an individual described by paragraph (a) . . . who
+. . .(ii) engages another person to carry on the construction . . . for the individual. . .
+otherwise than in the course of a business or an adventure or concern in the nature of trade,
+. . .
+[24] La question cruciale que pose le présent appel est donc de déterminer si M. Wall exploitait une entreprise, un projet à risques ou une affaire de caractère commercial lorsqu'il a fait construire les trois habitations. Aucune des parties n'a contesté les critères énoncés dans la décision Happy Valley Farms Limited c. Sa Majesté la Reine, dossier T‑6632‑82, 16 juillet 1986, [1986] 2 C.T.C. 259, 86 D.T.C. 6421 (C.F. 1re inst.), pour déterminer si un gain provenant de la disposition d'un bien constitue un revenu ou un gain en capital :
+● la nature du bien qui est vendu;
+● la durée de la possession;
+● la fréquence ou le nombre d'opérations semblables;
+● les améliorations faites sur le bien ou se rapportant à pareil bien;
+● les circonstances qui ont entraîné la vente du bien;
+● les motifs.
+[25] Ces critères sont tous fondés sur les faits propres à l'affaire et ils renvoient, directement ou indirectement, à l'intention du contribuable. [...]
+[4] Si les appelants étaient des constructeurs au sens de l'article 123 de la Loi sur la taxe d'accise, ils étaient tenus de verser la TPS/TVH lorsqu'ils ont vendu la maison. Pour savoir s'ils étaient effectivement des constructeurs, il importe de déterminer s'ils ont construit la maison dans le cadre d'un projet à risques ou d'une affaire de caractère commercial. Avant d'examiner cette question, je vais énoncer mes conclusions de fait.
+Les faits
+[5] Les deux appelants ont témoigné à l'audience. Ils étaient les principaux témoins. Leur fille a témoigné brièvement. Deux autres témoins ont témoigné – les appelants ont convoqué un ami, tandis que l'intimé a convoqué un voisin.
+[6] Les appelants se sont adressés à la Cour avec honnêteté et sans détours. Même après un contre‑interrogatoire pugnace, leur crédibilité est restée intacte[1].
+[7] M. Arezehgar a vécu à Téhéran, en Iran, jusqu'en 2009, année où il a décidé d'immigrer au Canada avec sa femme, Mme Abedipour, et leurs deux jeunes enfants. M. Arezehgar est décorateur d'intérieur et Mme Abedipour est infirmière autorisée. Jusqu'à ce qu'elle reçoive ses traitements contre le cancer, Mme Abedipour enseignait les soins infirmiers à temps partiel au collège Seneca de Toronto.
+[8] En Iran, M. Arezehgar possédait une part d'une moitié d'un appartement. Il avait également l'appartement à Téhéran dans lequel Mme Abedipour et lui ont d'abord vécu, ainsi qu'un appartement plus grand dans lequel ils ont emménagé par la suite. En outre, il était toujours propriétaire de ses anciens locaux à bureaux à Téhéran.
+[9] Après avoir immigré au Canada, la famille s'est installée dans un appartement. En 2011, les appelants ont acheté une maison située au 5, rue Brillinger, à Richmond Hill, tout juste au nord de Toronto, en Ontario. Ils ont payé cette maison 615 000 $. Une importante communauté irano‑canadienne, dont des amis de Mme Abedipour, se trouvait à Richmond Hill. Pour couvrir une partie de la mise de fonds, M. Arezehgar a vendu la participation d'une moitié qu'il détenait dans l'appartement de Téhéran.
+[10] À la fin du mois de novembre 2012, M. Arezehgar a vendu, pour 300 000 $, l'appartement plus petit qu'il possédait à Téhéran. En mars 2013, il a également vendu ses anciens locaux à bureaux situés à Téhéran et en a tiré 190 000 $.
+[11] En août 2013, les appelants ont signé un contrat d'achat d'une maison plus ancienne située au 686, rue Balliol, à Toronto, en Ontario, près de l'université Ryerson où leur fille étudiait l'architecture. Cette maison se situait également près de cabinets d'architectes où leur fille pourrait éventuellement travailler, ainsi que d'hôpitaux où Mme Abedipour pourrait éventuellement travailler. Ils prévoyaient de démolir la maison existante et de construire la maison de leurs rêves sur le bien‑fonds. La clôture a eu lieu en octobre 2013. Les appelants ont déboursé un peu plus de 950 000 $ pour acheter la maison de la rue Balliol et ils ont pris une hypothèque de cinq ans. M. Arezehgar a commencé à dessiner les plans détaillés d'une maison sur mesure de cinq chambres.
+[12] Selon les plans que M. Arezehgar avait dessinés, la maison devait répondre aux besoins et désirs précis de la famille. Par exemple, la maison était dotée de quatre foyers, mais d'une seule télévision, qui se trouvait au troisième étage. La chambre principale était munie de placards séparés pour « elle » et pour « lui » plutôt que d'un seul grand placard. Séparée des autres pièces du premier étage, la cuisine n'était pas à aire ouverte. Mme Abedipour a choisi les éléments de finition, notamment les comptoirs en granit noir pour la cuisine et les salles de bains. M. Arezehgar a dessiné les carreaux des salles de bains. Mme Abedipour a conçu son propre espace de travail au premier étage ainsi que des armoires vitrées à proximité. Ils ont également conçu un studio au troisième étage avec un balcon offrant une vue sur les environs.
+[13] Les plans comportaient plusieurs dérogations mineures à la réglementation municipale. Une audience a eu lieu au comité de dérogation en mars 2014 pour examiner les dérogations en question. Un voisin a fait valoir que la maison n'était pas suffisamment en retrait de la ligne de lot, mais les appelants ont fait un compromis et le plan modifié a été approuvé[2].
+[14] La démolition de l'ancienne maison et la construction de la nouvelle ont commencé après la délivrance d'un permis de construire en juin 2014. Les travaux se sont échelonnés sur une période de neuf à dix mois. En mars 2015, il ne restait plus que l'aménagement paysager à faire. M. Arezehgar avait agi en tant qu'architecte, décorateur d'intérieur et entrepreneur général.
+[15] En septembre 2014, alors que le processus de construction battait son plein, les appelants ont eu besoin de fonds supplémentaires pour achever les travaux. M. Arezehgar a décidé de vendre son dernier bien immeuble en Iran, à savoir le grand appartement. Il a tiré un produit de 800 000 $ de cette vente.
+[16] En octobre 2014, on a découvert une masse dans le sein droit de Mme Abedipour. On a effectué, en novembre, des tests qui ont confirmé le diagnostic initial. Les pires craintes de Mme Abedipour ont été confirmées lorsqu'on lui a diagnostiqué un cancer du sein. Elle devrait subir un traitement de chimiothérapie suivi d'une opération et d'un traitement de radiothérapie. Elle serait traitée à l'hôpital Sunnybrook de Toronto.
+[17] Elle a craint soudainement que son mari ne doive se débrouiller seul pour élever leurs deux enfants. Leur fille était déjà dans la jeune vingtaine, mais leur fils n'avait que 12 ans. Mme Abedipour s'est rendu compte qu'elle pouvait mourir. La situation a été particulièrement difficile pour elle, puisqu'elle était alors dans la mi‑quarantaine. Elle craignait que même une légère douleur n'indique que le cancer s'était propagé. Elle a amorcé ses six cycles de chimiothérapie, soit un cycle toutes les trois semaines. Le premier cycle de chimiothérapie a eu lieu à la fin du mois de novembre 2014.
+[18] La chimiothérapie a provoqué des effets secondaires chez Mme Abedipour. Elle a perdu ses cheveux et s'est sentie affaiblie. Sa vision était floue et ses yeux étaient rouges et gonflés. Elle a présenté des symptômes correspondant à ceux d'une insuffisance cardiaque. Des plaies sont apparues dans sa bouche. Elle a eu des nausées. Elle a perdu du poids et est devenue de plus en plus anxieuse. Son anxiété était en partie attribuable à ses connaissances et à son expérience en tant qu'infirmière autorisée. Pour elle et sa famille, cette période a créé des turbulences émotionnelles.
+[19] Alors que la chimiothérapie touchait à sa fin à la mi-mars 2015, et que le rétablissement et la récupération avaient commencé avant l'opération, Mme Abedipour croyait qu'il lui serait bénéfique, tant physiquement qu'émotionnellement, de vivre dans la maison de la rue Balliol. Cette maison était située près de l'hôpital Sunnybrook où elle recevait tous ses traitements contre le cancer. Dans cette maison, M. Arezehgar allait s'occuper d'elle alors qu'elle reprendrait des forces pour l'opération à venir.
+[20] La mère de Mme Abedipour a voyagé de l'Iran vers le Canada afin d'apporter un soutien affectif à Mme Abedipour et à sa famille en cette période difficile. Elle est arrivée au Canada à la mi-décembre 2014, juste après le début du traitement de chimiothérapie de sa fille, et s'est installée avec ses deux petits-enfants dans la maison de la rue Brillinger. En général, c'est elle qui cuisinait, tandis que M. Arezehgar faisait la plupart des courses. Ce dernier faisait ses courses principalement à Richmond Hill. Dans cette ville se trouvait une importante communauté irano‑canadienne, y compris des magasins d'alimentation spécialisée qui répondaient aux besoins de la communauté.
+[21] Pendant cette période, le frère de M. Arezehgar a fait des séjours de plusieurs mois à la fois dans la maison de la rue Brillinger. En tant que résident permanent, il voyageait fréquemment entre le Canada et l'Iran. Qu'il s'agisse de la mère de Mme Abedipour ou du frère de M. Arezehgar, il y avait toujours un adulte à la maison de la rue Brillinger pour s'occuper du fils de 12 ans des appelants.
+[22] Le 8 avril 2015, peu après la fin du traitement de chimiothérapie de Mme Abedipour, les appelants ont déménagé de la maison de la rue Brillinger à celle de la rue Balliol. Une semaine après le déménagement, ils ont inscrit la maison de la rue Balliol au programme de garantie des logements neufs de l'Ontario. Ils ont emporté une partie des meubles qui se trouvaient dans la maison de la rue Brillinger, mais juste assez pour répondre à leurs besoins. En s'installant dans la maison de la rue Balliol, Mme Abedipour avait comme principal objectif de se préparer, tant physiquement qu'émotionnellement, aux 12 heures d'opération qui l'attendaient moins de trois semaines plus tard.
+[23] Le 28 avril 2015, Mme Abedipour a subi une mastectomie et une chirurgie reconstructive. Peu après s'être remise de l'opération, elle a exprimé le désir de vendre la maison de la rue Balliol et de retourner dans celle de la rue Brillinger où elle pourrait être parmi ses amis de la communauté irano‑canadienne de Richmond Hill. La maison de la rue Balliol était désormais associée à la lutte de Mme Abedipour contre le cancer. Elle voulait que ce nouveau chapitre de sa vie se déroule sur la rue Brillinger où elle pourrait être parmi ses amis les plus proches.
+[24] Mme Abedipour et son mari ont vécu sur la rue Balliol pendant quatre mois, du début du mois d'avril 2015 au début du mois août 2015. Pendant cette période, ils retournaient rendre visite au reste de la famille sur la rue Brillinger presque toutes les fins de semaine. Comme le souhaitait Mme Abedipour, la maison de la rue Balliol a été mise en vente le 12 juin 2015. Deux jours plus tôt, on leur avait délivré un permis d'occuper. Six mois plus tard, en janvier 2016, les appelants ont trouvé un acheteur après avoir réduit à plusieurs reprises le prix demandé. Les parties ont convenu que la clôture aurait lieu le 31 mars 2016. Dès que les appelants ont accepté de vendre la maison de la rue Balliol, ils ont pris des dispositions pour faire déménager leurs meubles dans la maison de la rue Brillinger, et ce déménagement a eu lieu au début du mois de février 2016.
+[25] Le visa de la mère de Mme Abedipour devait expirer en juin 2015. Comme la famille souhaitait que la mère de Mme Abedipour reste au Canada, M. Arezehgar a obtenu une prorogation du visa jusqu'au début du mois d'août 2015. La mère de Mme Abedipour est ensuite retournée en Iran. Au début du mois d'août 2015, Mme Abedipour et son mari sont retournés vivre dans la maison de la rue Brillinger.
+[26] Les acquéreurs de la maison de la rue Balliol ont effectué d'importantes rénovations. Plutôt que de conserver les placards séparés pour « elle » et pour « lui » dans la chambre principale, ils les ont transformés en une grande pièce-penderie. Ils ont également converti la cuisine fermée en une cuisine à aire ouverte.
+L'application du droit aux faits
+[27] Des six facteurs énoncés dans la décision Happy Valley, trois sont neutres (la nature du bien, la durée de la possession et les améliorations faites au bien) et trois militent grandement en faveur des appelants (le nombre d'opérations semblables, les circonstances qui ont entraîné la vente du bien et les motifs).
+a) La nature du bien
+[28] En l'espèce, la nature du bien est un facteur neutre. Ce facteur ne penche pas d'un côté ou de l'autre de la balance.
+b) La durée de la possession
+[29] Les appelants ont été propriétaires de la maison de la rue Balliol d'octobre 2013 à mars 2016. On ne parle pas d'une vente rapide, pas plus d'un achat pour la vie. Il s'agit d'un facteur neutre.
+c) La fréquence ou le nombre d'opérations semblables
+[30] Ce facteur milite grandement en faveur des appelants. Il n'y a aucune preuve d'opérations semblables entreprises par l'un ou l'autre des appelants et impliquant la démolition d'une maison existante ainsi que la conception et la construction d'une nouvelle maison, que ce soit en Iran ou au Canada. Les opérations immobilières que M. Arezehgar a réalisées en Iran ne sont pas du tout semblables à l'opération en cause.
+d) Les améliorations faites au bien ou se rapportant au bien
+[31] Après avoir emménagé dans la maison de la rue Balliol, les appelants ont obtenu une garantie de logement neuf de la province de l'Ontario. Ils ont également obtenu un permis d'occuper peu avant de mettre la maison en vente. On peut supposer que ces deux éléments étaient nécessaires avant la vente de la maison. Il s'agit d'un facteur neutre.
+e) Les circonstances qui ont entraîné la vente du bien
+[32] Ce facteur milite grandement en faveur des appelants. Divers événements se sont suivis et ont mené à la vente, en commençant par le diagnostic de cancer que Mme Abedipour a reçu, suivi des traitements de chimiothérapie qu'elle a subis et de leurs effets secondaires, puis de l'opération et du désir de Mme Abedipour de retourner vivre dans la maison de la rue Brillinger pour être près de son cercle social et de son réseau de soutien. Les appelants ont offert une explication plausible — et crédible selon moi — qui m'empêche de conclure qu'ils ont construit la maison de la rue Balliol dans l'intention de la vendre à la première occasion.
+f) Les motifs
+[33] On déduit l'intention des éléments de preuve directs et des circonstances. Il y a le témoignage direct de chaque appelant, mais également des éléments de preuve objectifs qui donnent fortement à penser que les appelants n'avaient pas l'intention de vendre la maison à la première occasion.
+[34] L'une des particularités de la maison était la présence d'un seul téléviseur, situé au troisième étage. L'acheteur type d'une maison de cinq chambres s'attendrait à plus. Plus précisément, l'on s'attendrait généralement à retrouver un téléviseur dans la salle familiale, au sous-sol et dans la chambre principale. Plutôt que d'avoir plusieurs téléviseurs, les appelants ont installé plusieurs foyers. Cela donne fortement à penser qu'ils ont construit la maison selon leurs propres besoins.
+[35] De plus, les appelants n'ont laissé aucun élément à personnaliser par un acheteur éventuel. Lorsqu'il construit une maison sur mesure destinée à la revente, le constructeur laisse généralement certaines caractéristiques de la maison inachevées afin que l'acheteur puisse les personnaliser selon ses goûts et son budget, comme les revêtements de sol, les comptoirs, les luminaires, les poignées pour armoires et les moulures de couronnement. Le fait que les appelants ont veillé à la finition de tous les éléments selon leurs goûts personnels donne fortement à penser qu'ils ont construit la maison pour eux-mêmes seulement. Le fait qu'il a fallu six mois aux appelants pour vendre la maison après en avoir réduit le prix à plusieurs reprises étaye cette conclusion, tout comme le fait que les acheteurs ont effectué d'importantes rénovations.
+Conclusion
+[36] Je conclus que les appelants ont démontré, selon la prépondérance des probabilités, qu'ils n'avaient pas acquis ou construit la maison de la rue Balliol dans le cadre d'une affaire de caractère commercial. Les appelants ont démoli l'hypothèse du ministre selon laquelle ils avaient, pendant toute la période pertinente, l'intention de vendre la maison de la rue Balliol afin d'en tirer un profit (alinéa 14n) de chacune des réponses).
+[37] Chacun des appels est par conséquent accueilli, et la cotisation établie à l'égard de chacun des appelants concernant la taxe nette pour la période de déclaration du 1er mars 2016 au 31 mars 2016 et la pénalité imposée en vertu de l'article 280.1 de la partie IX de la Loi sur la taxe d'accise sont annulées. Des dépens selon le tarif sont adjugés à chacun des appelants.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2022.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 3e jour de mai 2023.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2022 CCI 155
+NOS DES DOSSIERS DE LA COUR :
+2020-1718(GST)G et 2020-1719(GST)G
+INTITULÉS :
+AIDA ABEDIPOUR c. SA MAJESTÉ LE ROI
+ASGHAR AREZEHGAR c. SA MAJESTÉ LE ROI
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATES DE L'AUDIENCE :
+Les 21, 22 et 23 novembre 2022
+MOTIFS DU JUGEMENT :
+L'honorable juge David E. Spiro
+DATE DU JUGEMENT :
+Le 7 décembre 2022
+COMPARUTIONS :
+Avocat des appelants :
+Me Adam Serota
+Avocats de l'intimé :
+Me Tigra Bailey et Me Tony Cheung
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Adam Serota
+Cabinet :
+BRS Tax Lawyers LLP
+Toronto (Ontario)
+Pour l'intimé :
+François Daigle Sous-procureur général du Canada Ottawa, Canada
+[1] L'intimé a cherché à attaquer la crédibilité des appelants en faisant appel au témoignage partial du voisin et en invoquant les habitudes d'achat de M. Arezehgar, ainsi qu'une « analyse » mal avisée des factures des services d'eau. La tentative a échoué.
+[2] Les plaintes de ce voisin précis ne se sont pas terminées là. En effet, celui-ci a qualifié de [traduction] « monstre » la maison que les appelants ont construite (courriel du 14 mars 2015 au conseiller municipal). Une autre de ses plaintes concernait la terrasse des appelants, située au rez-de-chaussée. Il estimait que cela constituait une atteinte à sa vie privée. Il a appelé un inspecteur municipal, mais l'inspection n'a révélé aucun problème. Les appelants ont installé une clôture pour donner suite aux préoccupations du voisin, mais ce dernier n'a pas cessé d'exprimer ses doléances. Pendant l'hiver, il s'est également plaint à M. Arezehgar de l'accumulation de glace sur le côté de la maison.

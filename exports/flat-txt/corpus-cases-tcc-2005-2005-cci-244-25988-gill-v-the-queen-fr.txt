@@ -1,0 +1,151 @@
+Title: Gill v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25988/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-244-25988-gill-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-04-07
+
+# Gill v. The Queen
+
+- Citation: 2005 CCI 244
+- Decision date: 2005-04-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3735, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gill v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-07
+Référence neutre
+2005 CCI 244
+Numéro de dossier
+2004-2594(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2594(IT)I
+ENTRE :
+GEORGE GILL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 26 novembre 2004, à Montréal (Québec),
+devant l'honorable juge C.H. McArthur
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Simon Petit
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés contre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 sont accueillis, et l'affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 7e jour d'avril 2005.
+« C.H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme ce 21e jour de mars 2006.
+Joanne Robert, traductrice
+Référence : 2005CCI244
+Date : 20050407
+Dossier : 2004-2594(IT)I
+ENTRE :
+GEORGE GILL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Les appels sont interjetés contre des cotisations établies par le ministre du Revenu national, lesquelles augmentent les avantages relatifs au fonctionnement d'une automobile que l'appelant a reçus pour les années d'imposition 2000 et 2001. Les avantages passent de 3 855,50 $ à 8 521,32 $ pour l'année d'imposition 2000 et de 4 065,80 $ à 8 641,32 $ pour l'année d'imposition 2001. Il y a deux montants à déterminer : (i) les avantages relatifs au fonctionnement d'une automobile dans le cadre d'un emploi selon l'alinéa 6(1)k) de la Loi de l'impôt sur le revenu, et (ii) les frais pour droit d'usage d'une automobile selon l'alinéa 6(1)e) et le paragraphe 6(2) de la Loi.
+[2] L'appelant résidait à Kirkland (Québec) pendant la période visée et était employé par la société Offray Ribbon Canada Inc. ( « la société Offray » ) à Valleyfield (Québec). La société Offray fournissait à l'appelant un VUS[1] Ford Expedition qu'il pouvait utiliser à des fins professionnelles et à des fins personnelles. Dans le cadre d'un contrat de location avec la Ford Lincoln Mercury (1985), la société Offray payait 1 000 $ par mois pour le VUS et l'appelant remboursait à la société Offray 106,49 $ par mois pour l'utilisation de l'automobile à des fins personnelles. L'appelant conduisait le VUS pour se déplacer entre son lieu de travail et son domicile trois jours par semaine, ce qui représentait environ 76 kilomètres pour l'aller-retour, et gardait le véhicule chez lui la fin de semaine. Il n'a pas tenu de registre concernant l'utilisation de l'automobile à des fins professionnelles et à des fins personnelles.
+[3] Pour ce qui est des avantages relatifs au fonctionnement d'une automobile, l'alinéa 6(1)k) de la Loi est ainsi libellé :
+6(1) Sont à inclure dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi, ceux des éléments suivants qui sont applicables :
+[...]
+k) lorsqu'une somme est déterminée en application du sous-alinéa e)(i) relativement à une automobile dans le calcul du revenu du contribuable pour l'année, qu'un montant au titre du fonctionnement de l'automobile (autrement que dans l'accomplissement des fonctions de la charge ou de l'emploi du contribuable) pour la ou les périodes de l'année au cours desquelles l'automobile a été mise à sa disposition ou à la disposition d'une personne qui lui est liée est payé ou payable par l'employeur du contribuable ou par une personne liée à cet employeur (l'employeur et cette personne étant appelés « payeur » au présent alinéa) et que le total des montants ainsi payés ou payables n'est pas versé au payeur, au cours de l'année ou des 45 jours suivant la fin de l'année, par le contribuable ou par la personne qui lui est liée, le montant lié au fonctionnement de l'automobile, qui correspond au résultat du calcul suivant :
+A - B
+où :
+A représente :
+(i) dans les cas où l'automobile sert principalement dans l'accomplissement des fonctions de la charge ou de l'emploi du contribuable au cours de la ou des périodes en question et où le contribuable avise son employeur, par écrit, avant la fin de l'année de son intention de se prévaloir du présent sous-alinéa, la moitié de la somme déterminée en application du sous-alinéa e)(i) relativement à l'automobile dans le calcul du revenu du contribuable pour l'année,
+(ii) dans les autres cas, le produit de la multiplication du montant prescrit pour l'année par le nombre total de kilomètres parcourus par l'automobile (autrement que dans l'accomplissement des fonctions de la charge ou de l'emploi du contribuable) au cours de la ou des périodes en question;
+B le total des montants relatifs au fonctionnement de l'automobile au cours de l'année versés au payeur, au cours de l'année ou des 45 jours suivant la fin de l'année, par le contribuable ou par la personne qui lui est liée; [...]
+[4] La Loi porte qu'un employé est assujetti à l'impôt relatif à la valeur de tous frais de fonctionnement nets payés par un employeur pour le bénéfice de l'employé. Les frais engagés pour l'essence, l'huile, l'entretien et l'assurance doivent être répartis en vue de déterminer l'élément personnel. Les calculs effectués par le ministre à l'égard de l'utilisation du VUS à des fins personnelles par l'appelant sont fondés sur 12 000 kilomètres par an. En appliquant le taux prescrit dans le Règlement de l'impôt sur le revenu, le ministre a calculé les avantages reçus par l'appelant selon un taux de 0,15 $ le kilomètre pour l'année d'imposition 2000, ou la somme de 1 800 $, et de 0,16 $ le kilomètre pour l'année d'imposition 2001, ou la somme de 1 920 $. L'appelant n'a pas vraiment contesté les montants des avantages relatifs au fonctionnement de l'automobile et il semble accepter qu'il a parcouru avec le VUS 12 000 kilomètres par an à des fins personnelles. Je conclus que le ministre a bien calculé les avantages relatifs au fonctionnement de l'automobile selon l'alinéa 6(1)k et qu'il a bien établi la cotisation du contribuable.
+[5] La question la plus difficile à trancher est celle concernant les « frais pour droit d'usage » . La loi à ce sujet est complexe et est en partie libellée ainsi :
+6(1) Sont à inclure dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi, ceux des éléments suivants qui sont applicables :
+[...]
+e) lorsque son employeur ou une personne liée à son employeur a mis au cours de l'année une automobile à sa disposition (ou à la disposition d'une personne qui lui est liée), l'excédent éventuel de la somme visée au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
+(i) la somme qui représente les frais raisonnables pour droit d'usage de l'automobile pendant le nombre de jours de l'année où elle était ainsi à sa disposition,
+(ii) le total des sommes dont chacune représente une somme (autre qu'une dépense liée au fonctionnement de l'automobile) payée au cours de l'année à l'employeur ou à la personne liée à l'employeur par le contribuable ou par la personne qui lui est liée pour l'usage de l'automobile;
+6(2) Pour l'application de l'alinéa (1)e), la somme qui représente les frais raisonnables pour droit d'usage d'une automobile pendant le nombre total de jours d'une année d'imposition durant lesquels l'employeur d'un contribuable ou une personne liée à l'employeur a mis l'automobile à la disposition du contribuable ou d'une personne qui lui est liée est réputée égale au montant calculé selon la formule suivante :
+où
+A représente le moins élevé des montants suivants :
+a) le nombre de kilomètres parcourus par l'automobile, autrement que dans l'accomplissement des fonctions de la charge ou de l'emploi du contribuable, pendant le nombre de jours ci-dessus;
+b) le montant représenté par l'élément B;
+B toutefois, le nombre visé à l'alinéa a) est réputé égal au montant représenté par l'élément B, sauf si l'employeur ou la personne liée à celui-ci exige du contribuable qu'il utilise l'automobile dans l'accomplissement des fonctions de sa charge ou de son emploi et si la totalité, ou presque, de la distance parcourue par l'automobile pendant le nombre de jours ci-dessus est parcourue dans l'accomplissement des fonctions de la charge ou de l'emploi; le produit de 1 000 par le quotient de la division, par 30, du nombre de jours ci-dessus, ce quotient étant, s'il est supérieur à un, arrondi, le cas échéant, au nombre entier le plus proche, les résultats ayant cinq au plus en première décimale l'étant à l'entier inférieur;
+[...]
+E le total des montants qu'il est raisonnable de considérer comme payables à un bailleur par l'employeur ou par la personne qui lui est liée, pour la location de l'automobile, pendant le nombre de jours où l'automobile est louée à l'employeur ou à la personne qui lui est liée, compris dans le nombre total de jours ci-dessus;
+F la partie du total représenté par l'élément E qu'il est raisonnable de considérer comme payable au bailleur au titre de tout ou partie du coût, pour celui-ci, de l'assurance :
+a) contre la perte de l'automobile ou les dommages à celle-ci;
+b) pour la responsabilité qui peut découler de son utilisation ou de son fonctionnement.
+[6] L'appelant ne savait pas qu'il devait tenir un registre, et il a indiqué qu'il pouvait utiliser le VUS seulement lorsque son employeur n'en avait pas besoin. Il a ajouté qu'il devait rentrer chez lui avec le véhicule parce que son employeur ne voulait pas que le véhicule demeure sur les lieux d'exploitation de l'entreprise et il a indiqué qu'il avait un autre véhicule dans son entrée à la maison. L'appelant allègue que l'expression « frais raisonnables pour droit d'usage » à l'alinéa 6(1)e) de la Loi doit être interprétée littéralement et qu'il faut en tenir compte pour l'application de la formule qui se trouve au paragraphe 6(2).
+[7] Il y a des frais pour droit d'usage si l'automobile est mise à la disposition de l'employé à des fins personnelles, qu'elle soit utilisée ou non et que son utilisation soit assujettie à des restrictions ou non. Le mot « raisonnables » dans l'expression « frais raisonnables pour droit d'usage » est quelque peu inapproprié, étant donné que les frais sont calculés au moyen d'une formule rigide qui se trouve au paragraphe 6(2). Dans le cas d'une location, les deux tiers du coût de location mensuel de l'automobile sont imputables au nombre total de jours dans une année pendant lesquels le véhicule a été mis à la disposition du contribuable. L'argument de l'appelant concernant l'interprétation de l'expression « frais raisonnables pour droit d'usage » est réfuté par le juge Robertson dans l'affaire Adams c. Canada, [1998] A.C.F. 427 (C.A.F.), où il dit ce qui suit :
+12 Dans la mesure où l'alinéa 6(1)e) fait référence à l'imposition de « frais raisonnables pour droit d'usage » , la loi est tout simplement trompeuse. La formule énoncée au paragraphe 6(2) dicte le montant exact qui doit être inclus dans le revenu. Il n'y a pas de discrétion à exercer pour déterminer ce qui est raisonnable. Qui plus est, les frais pour droit d'usage sont calculés en s'appuyant sur deux hypothèses. La première hypothèse est que l'employé a fait un usage personnel de l'automobile au cours de l'année. La deuxième est que cet usage personnel équivaut à 1 000 km pour chaque mois au cours duquel l'automobile était à sa disposition (12 000 km par an). Ces deux hypothèses sont incorporées dans la formule énoncée au paragraphe 6(2).
+[8] Les frais pour droit d'usage peuvent être réduits et ils deviennent alors des « frais pour droit d'usage réduits » . Dans certaines circonstances, il est possible de calculer les frais pour droit d'usage selon un taux réduit en se fondant sur le kilométrage parcouru par l'automobile dans le cadre de l'emploi, comme l'exige l'employeur. Le taux réduit ne peut être utilisé que si des conditions particulières sont remplies en ce qui concerne la nature de la distance parcourue par l'automobile, comme il est indiqué dans la définition de l'élément A au paragraphe 6(2). Comme l'appelant n'a pas tenu de registre détaillé des kilomètres parcourus, élément nécessaire pour que les conditions soient remplies, la réduction ne s'applique pas. De plus, je n'accepte pas que les kilomètres parcourus par l'automobile entre le lieu de travail et le domicile sont parcourus « dans l'accomplissement des fonctions de l'emploi » . Ce serait forcer l'interprétation.
+[9] Le VUS a été mis à la disposition de l'appelant chaque semaine pendant un total de cinq jours, soit pendant trois jours au cours de la semaine et les deux jours de la fin de semaine. L'intimée prétend que lorsque les frais pour droit d'usage ne sont pas calculés selon un taux réduit (comme c'est le cas ici), les frais raisonnables pour droit d'usage sont toujours réputés correspondre aux deux tiers du coût de location du véhicule, et le nombre de jours pendant lesquels le véhicule à été mis à la disposition du contribuable n'est pas applicable.
+[10] Je ne souscris pas aux arguments présentés. Outre les frais pour droit d'usage réduits, selon la définition de l'élément E de la formule qui se trouve au paragraphe 6(2), il faut que dans l'élément E, un montant représentantle coût de location brut du véhicule, il soit tenu compte du nombre de jours pendant lesquels le véhicule a vraiment été mis à la disposition de l'appelant. Il est illogique d'inclure le coût de location total dans le calcul des frais raisonnables pour droit d'usage, quel que soit le nombre de jours pendant lesquels le véhicule a vraiment été mis à la disposition du contribuable. Je crois plutôt que les « frais raisonnables pour droit d'usage » doivent être calculés en fonction des deux tiers du coût de location net[2] du véhicule, multipliés par une fraction représentant le nombre total de jours au cours de l'année pendant lesquels le véhicule a vraiment été mis à la disposition du contribuable.
+[11] Cela vient appuyer une interprétation selon le sens ordinaire de la loi. L'alinéa 6(1)e) de la Loi indique en partie ce qui suit : « Sont à inclure dans le calcul du revenu [...] les frais raisonnables pour droit d'usage de l'automobile pendant le nombre de jours de l'année où elle était ainsi à sa disposition » qui excèdent « le total des sommes [...] payée[s] au cours de l'année à l'employeur [...] par le contribuable [...] pour l'usage de l'automobile[3] » . De plus, l'élément E de la formule figurant au paragraphe 6(2) (qui est en bout de ligne diminué d'un tiers) ne se limite pas au coût de location du véhicule. Il est ainsi libellé :
+E le total des montants qu'il est raisonnable de considérer comme payables à un bailleur par l'employeur ou par la personne qui lui est liée, pour la location de l'automobile, pendant le nombre de jours[4] où l'automobile est louée à l'employeur ou à la personne qui lui est liée, compris dans le nombre total de jours ci-dessus [je souligne];
+La définition n'indique pas que l'élément E est simplement égal au coût de location. Elle indique plutôt que l'élément E est égal à la partie du coût de location qu'il peut être considéré raisonnable de payer pour la location de l'automobile pour les jours où le véhicule a été mis à la disposition du contribuable. Sinon, à quoi serviraient les mots soulignés?
+[12] L'article 6 porte sur l'inclusion dans le revenu du contribuable des avantages que celui-ci a reçus de son employeur au cours d'une année d'imposition. Si un contribuable a utilisé un véhicule qui a été mis à sa disposition par son employeur 360 jours sur 365, on s'attendrait à ce que le montant inclus dans le revenu du contribuable soit beaucoup plus élevé que le montant qui serait inclus dans le revenu d'un autre contribuable qui aurait utilisé un véhicule semblable 100 jours sur 365. Si le but de la loi est d'inclure dans le revenu d'un contribuable la valeur du véhicule qui est mis à sa disposition, il faut qu'il soit tenu compte du nombre de jours pendant lesquels le véhicule a été mis à la disposition du contribuable.
+[13] La position de l'intimée à l'égard des frais raisonnables pour droit d'usage a encore moins de poids dans les cas où un véhicule est utilisé par plusieurs employés. Dans la présente affaire, l'appelant affirme que d'autres personnes se servaient également du véhicule. Si un véhicule est loué par un employeur et mis à la disposition de l'employé A pendant la première moitié de l'année et de l'employé B pendant la deuxième moitié de l'année, selon la position de l'intimée concernant les frais raisonnables pour droit d'usage, les deux employés seraient tenus d'inclure les deux tiers du coût de location dans leur revenu dans leurs déclarations de revenus.
+[14] En l'espèce, il est difficile de savoir combien de jours le véhicule a été mis à la disposition de l'appelant. L'appelant allègue qu'il avait le véhicule trois jours ouvrables sur cinq pendant 45 semaines par an, et que d'autres employés utilisaient aussi le véhicule. Il admet, comme l'intimée l'a soutenu, qu'il avait aussi le véhicule la fin de semaine, mais que le véhicule restait dans son entrée la plupart du temps parce qu'il avait un autre véhicule. Même si certains points restent incertains, je conclus que le véhicule était mis à la disposition de l'appelant pendant cinq jours par semaine. J'accepte le témoignage de l'appelant selon lequel le véhicule était mis à sa disposition de cette façon (p. ex. : trois jours la semaine et les fins de semaine) pendant 45 semaines par an.
+[15] Par conséquent, je crois que les frais raisonnables pour droit d'usage doivent être calculés en fonction des deux tiers du coût de location du véhicule multipliés par la fraction de l'année pendant laquelle le véhicule a été mis à la disposition de l'appelant. Dans ce cas-ci, le véhicule a été mis à la disposition de l'appelant pendant 225 jours sur 365 chaque année.
+[16] Pour ces raisons, les appels sont accueillis et l'affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que pour chaque année, les frais raisonnables pour droit d'usage doivent être calculés[5] de la manière suivante :
+Comme je l'ai mentionné au paragraphe 4, la cotisation établie par le ministre à l'égard des avantages relatifs au fonctionnement d'une automobile est juste.
+Signé à Ottawa, Canada, ce 7e jour d'avril 2005.
+« C.H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme ce 21e jour de mars 2006.
+Joanne Robert, traductrice
+REFÉRENCE :
+2005CCI244
+No DE DOSSIER DE LA COUR :
+2004-2594(IT)I
+INTITULÉ DE LA CAUSE :
+George Gill c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 26 novembre 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge C.H. McArthur
+DATE DU JUGEMENT :
+Le 7 avril 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Simon Petit
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelant :
+Nom :
+S.O.
+Étude :
+S.O.
+Pour l'intimée :
+Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le VUS était aussi utilisé par d'autres employés de la société Offray pendant la semaine de travail.
+[2] Le « coût de location net » correspond à l'élément F de la formule moins l'élément E de la formule.
+[3] Je souligne.
+[4] Je fais remarquer que l'expression « nombre total de jours » est définie au paragraphe 6(2) et comme suit dans le bulletin d'interprétation IT-63R5 : « nombre total de jours pendant l'année d'imposition au cours de laquelle une automobile est mise à la disposition d'un employé » par un employeur.
+[5] J'ajoute délibérément « 1 × » au début de la formule ci-dessus pour indiquer que les frais pour droit d'usage ne sont pas calculés selon un taux réduit, ce qui signifie que la fraction A/B est égale à 1.

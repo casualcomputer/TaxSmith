@@ -1,0 +1,123 @@
+Title: Sergerie c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26044/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-322-26044-sergerie-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-06-09
+
+# Sergerie c. La Reine
+
+- Citation: 2006 CCI 322
+- Decision date: 2006-06-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4104, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sergerie c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-09
+Référence neutre
+2006 CCI 322
+Numéro de dossier
+2005-3075(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-3075(IT)I
+ENTRE :
+FÉLICIEN SERGERIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+__________________________________________________________________
+Appel entendu le 11 mai 2006, à Matane (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Christina Ham
+__________________________________________________________________
+JUGEMENT
+L'appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2001 et 2002 est admis, les pénalités sont annulées, le tout sans frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 9e jour de juin 2006.
+« Alain Tardif »
+Juge Tardif
+Référence : 2006CCI322
+Date : 20060609
+Dossier : 2005-3075(IT)I
+ENTRE :
+FÉLICIEN SERGERIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel relatif aux années d'imposition 2000 et 2001 en vertu de la Loi de l'impôt sur le revenu (la « Loi » ).
+[2] L'appel vise essentiellement l'imposition de pénalités en vertu du paragraphe 163(2) de la Loi. D'entrée de jeu, le tribunal a indiqué à l'appelant que la Cour canadienne de l'impôt n'avait pas compétence pour réviser ou annuler les intérêts réclamés. Quant aux pénalités, désormais seule question en litige, l'intimée a appelé à témoigner la vérificatrice qui a expliqué les faits qui l'avaient amenée à imposer les pénalités prévues au paragraphe 163(2) de la Loi.
+[3] Ces faits sont le suivants :
+a) L'appelant travaille seul dans son entreprise, il était l'unique responsable de recevoir l'argent et de le déposer à la banque; (admis)
+b) L'appelant a signé toutes les déclarations de revenus; (admis)
+c) Pour chacune des années en litige, l'appelant a omis de transmettre à son représentant les ventes réalisées par le lave-auto et sur certaines réparations mécaniques faites sans facture; (nié)
+d) Les revenus non-déclarés représentent 120 % pour l'année d'imposition 2001 et 154 % pour l'année d'imposition 2002 des revenus déclarés; (nié)
+e) Pour chacune des années en litige, les prélèvements effectués par l'appelant sont supérieurs aux revenus nets déclarés.; (nié)
+[4] La vérificatrice a indiqué que la comptabilité de l'appelant était approximative et incomplète, en ce que, d'une part, il n'existait aucun moyen de contrôle et, d'autre part, les données étaient assez confuses et incomplètes. Cependant, elle a admis que l'appelant avait collaboré lors de la vérification. Ainsi, elle n'avait strictement rien à lui reprocher quant à son attitude et plus spécifiquement en ce qui a trait à l'obtention de réponses à ses questions.
+[5] Dans un premier temps, la vérificatrice a rapidement constaté que les dépôts étaient beaucoup plus importants que les montants attestés et appuyés par des factures. Elle en a déduit qu'il s'agissait soit de ventes non appuyées par des factures, soit de revenus du lave-auto exploité par l'appelant sur le site de son garage. Par conséquent, la vérificatrice en a conclu qu'il s'agissait de revenus non déclarés.
+[6] Dans un deuxième temps, la vérificatrice a analysé le travail fait par le commis comptable à partir des documents que l'appelant lui remettait. D'entrée de jeu, elle a constaté plusieurs incohérences, un manque d'information et une absence de tout moyen de contrôle, ce qui, selon elle, dans les circonstances, aurait été fort important, puisque l'appelant était la seule personne qui faisait les achats et les ventes.
+[7] En d'autres termes, l'appelant était la seule personne par qui passaient toutes les entrées et les sorties de fonds. De façon générale, il remettait les factures et les pièces, comme le livre de dépôt et les factures d'achat et de vente, à une personne chargée d'entrer les données, le tout étant par la suite remis à la fin de l'année pour la préparation de la déclaration de revenus.
+[8] La vérificatrice a également affirmé qu'en dépit de plusieurs tentatives et initiatives pour discuter avec celui qui avait la responsabilité d'arrêter les comptes, elle n'avait jamais réussi à lui parler.
+[9] Manifestement, les personnes mandatées par l'appelant n'avaient ni les connaissances, ni la compétence pour mener à bien le travail que l'appelant leur confiait.
+[10] Est-ce là une excuse admissible pour éviter les pénalités? Est-ce suffisant pour exonérer une personne de toute faute ou négligence constatée dans son dossier?
+[11] Les gens confient souvent leur dossier fiscal à des personnes qui offrent des services en cette matière. Cependant, il ne suffit pas d'avoir recours à une telle personne pour se mettre à l'abri d'une nouvelle cotisation.
+[12] Par conséquent, au moment de mandater une personne pour lui confier l'importante responsabilité de gérer toutes les données nécessaires à la production ultime des déclarations annuelles de revenus, il est essentiel de faire les démarches pour s'assurer que la personne dont on se propose de retenir les services est compétente.
+[13] À première vue, cela peut sembler exagéré ou même déraisonnable. Or, il en est ainsi de toutes les activités quotidiennes de la vie. On ne confie pas l'exécution de travaux à des incompétents, on ne fait pas réparer sa voiture par un mécanicien non qualifié, et ainsi de suite.
+[14] Certes, il est fréquent de devoir composer avec des personnes qui n'ont pas la compétence qu'ils prétendent avoir pour exécuter un mandat. C'est la raison pour laquelle, une vigilance constante s'avère nécessaire. De plus, en raison de la complexité de certaines tâches, il n'est pas toujours possible d'évaluer la compétence du mandataire ou du professionnel dont on a retenu les services.
+[15] Il devient dès lors délicat et très difficile d'évaluer la responsabilité de celui qui a confié l'exécution d'un travail important à quelqu'un qui n'avait pas les qualités requises pour accomplir le travail en question.
+[16] En l'espèce, la preuve a révélé que l'appelant était un mécanicien qui s'occupait de toute la gestion de son entreprise. Il exploitait également un lave-auto, où évidemment toutes les opérations se font nécessairement et essentiellement en argent comptant. Bien plus, il n'est pas possible de faire autrement.
+[17] L'appelant remettait au commis comptable la totalité des documents, des pièces ou des autres informations permettant au commis de faire les entrées.
+[18] À la fin de l'année, le tout était remis à une autre personne chargée de remplir les déclarations annuelles de revenus.
+[19] La vérificatrice a affirmé qu'au moment de la vérification, la personne qui avait fait le travail avait systématiquement refusé de collaborer. Elle a également soutenu que l'appelant, par contre, avait totalement collaboré et qu'elle n'avait aucun reproche à lui formuler à cet égard.
+[20] La preuve soumise par l'appelant est constituée essentiellement de son témoignage et elle permet de conclure qu'il ne s'agit aucunement d'une personne qui se réfugie derrière le fait qu'elle a confié sa comptabilité et sa fiscalité à une autre personne et que ce seul fait devrait suffire à l'exonérer des pénalités.
+[21] Lors de la vérification, l'appelant s'est rendu compte que les personnes dont il avait retenu les services n'étaient pas en mesure d'accomplir correctement le travail; il a, dès lors, collaboré pleinement avec la vérificatrice pour qu'elle puisse faire son travail.
+[22] Est-il possible que l'appelant, qui est intelligent et s'exprime bien, ne se soit pas rendu compte que son entreprise avait généré des revenus imposables considérablement supérieurs à ceux déclarés?
+[23] De prime abord, la réponse peut paraître évidente; cependant, l'appelant exploitait une entreprise dont les résultats fluctuaient, ce qui l'obligeait à faire de nombreux retraits. Il a expliqué qu'une partie souvent importante des retraits qu'il effectuait était déposée de nouveau afin que l'entreprise puisse faire face à ses obligations.
+[24] La vérificatrice, quant à elle, a reconnu que les dépôts en argent comptant étaient nombreux et a tenu pour acquis qu'il s'agissait de ventes effectuées sans facture; or, il pouvait très bien s'agir essentiellement des revenus du lave-auto. Quelqu'un qui veut délibérément cacher des revenus est généralement plus habile, plus subtil. L'appelant a affirmé qu'il remettait la totalité des informations à ceux à qui il avait confié la gestion comptable de son entreprise.
+[25] Le fardeau de la preuve, qui comporte certaines exigences, incombait à l'intimée, comme énoncé au paragraphe 163(2) de la Loi, qui se lit comme suit :
+163(2) Faux énoncés ou omissions.Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+[. . .]
+[26] Je ne crois pas que la preuve ait établi d'une manière prépondérante que l'appelant a délibérément omis de déclarer des revenus additionnels de 18 083 $ pour l'année d'imposition 2001 et de 21 142 $ pour l'année d'imposition 2002.
+[27] Cette preuve a certainement établi une imprudence de l'appelant qui avait confié ses affaires à des personnes qui manifestement n'avaient pas les connaissances pour le faire. L'appelant a certes été imprudent, voire quelque peu négligent, en retenant les services de personnes non qualifiées, mais est-ce suffisant pour conclure à une faute lourde?
+[28] J'aurais répondu par l'affirmative si la preuve avait démontré une réelle insouciance et un laisser-aller évident de la part de l'appelant dans le choix de ces personnes.
+[29] Si l'appelant n'avait pas collaboré ou s'il n'avait pas déclaré ses revenus de lave-auto ou si la preuve avait établi qu'il avait fait l'objet d'un aveuglement volontaire, alors l'importance des montants non déclarés se serait avérée un élément déterminant pour justifier l'imposition des pénalités.
+[30] La preuve a essentiellement établi que des revenus importants n'avaient pas été déclarés; par contre, eu égard aux montants en cause, il était possible qu'une personne sans notion de comptabilité puisse ne pas se rendre compte de l'écart entre les revenus déclarés et les revenus réels.
+[31] Certes, le comportement de l'appelant n'a pas été celui d'un homme prudent, vigilent et irréprochable; par contre, il n'a pas été celui d'une personne ayant commis une faute grave ou manifesté une incurie ou négligence grossière dans l'exécution de ses obligations.
+[32] Pour ces raisons, je fais droit à l'appel et j'annule les pénalités imposées. Quant aux intérêts, le tribunal n'a pas compétence pour intervenir.
+Signé à Ottawa, Canada, ce 9e jour de juin 2006.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2006CCI322
+N º DU DOSSIER DE LA COUR : 2005-3075(IT)I
+INTITULÉ DE LA CAUSE : Félicien Sergerie et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Matane (Québec)
+DATE DE L'AUDIENCE : le 11 mai 2006
+MOTIFS DES JUGEMENTS PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 9 juin 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Christina Ham
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

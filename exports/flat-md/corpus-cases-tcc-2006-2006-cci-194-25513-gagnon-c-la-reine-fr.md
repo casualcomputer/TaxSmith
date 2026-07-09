@@ -1,0 +1,207 @@
+---
+title: "Gagnon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25513/index.do"
+last_modified: "2006-03-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 194"
+citation2: ""
+neutral_citation: "2006 CCI 194"
+decision_date: "2006-03-24"
+language: "fr"
+item_id: "25513"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2371
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:46:38.237000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fff76e58878176bb2580587653305d7e0bdf039cd918103a650d93bad414914c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gagnon c. La Reine
+
+- Citation: 2006 CCI 194
+- Decision date: 2006-03-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2371, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gagnon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-24
+Référence neutre
+2006 CCI 194
+Numéro de dossier
+2002-1323(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-1323(IT)G
+ENTRE :
+JACQUES GAGNON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 17 janvier et 14 avril 2005, à Ottawa (Ontario).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Carole Benoît et Me Nicolas Simard
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu ( « Loi » ) pour l'année d'imposition 1997 est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 24e jour de mars 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2006CCI194
+Date : 20060324
+Dossier : 2002-1323(IT)G
+ENTRE :
+JACQUES GAGNON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Il s'agit d'un appel à l'encontre d'une cotisation établie par le ministre du Revenu national ( « ministre » ) en vertu de la Loi de l'impôt sur le revenu ( « Loi » ) par laquelle le ministre a inclus un dividende imposable majoré au montant de 124 998 $ dans le revenu de l'appelant pour l'année d'imposition 1997 et a parallèlement accordé un crédit d'impôt pour dividendes de 16 666,39 $ dans le calcul de l'impôt payable par l'appelant au cours de cette même année.
+[2] L'appelant a expliqué lors de son témoignage que lui et son frère André Gagnon avaient acquis le commerce « Le Bar Billard Allium » au début de l'année 1995. Officiellement, ce bar a été acheté par la société 139 028 Canada Inc. ( « société » ), dont le seul et unique actionnaire était, à ce moment, le frère de l'appelant, André Gagnon. Le bar était exploité sous la dénomination sociale « La Galanterie » (voir états financiers au 31 décembre 1995, pièce I-1, onglet 14).
+[3] Au moment de cette acquisition, le père de l'appelant lui aurait remis de même qu'à son frère une somme de 5 000 $ chacun pour investir dans ce bar. L'appelant dit avoir endossé ce chèque et l'avoir remis directement à son frère. Il dit n'avoir investi aucune autre somme d'argent dans ce commerce - c'est son frère qui a avancé le solde pour payer le coût d'acquisition d'environ 23 000 $ et les rénovations qui y ont été apportées. De son côté, l'appelant s'est occupé des opérations incluant l'achat de « machines télévidéo » et de diverses fournitures, le tout pour le compte de la société. Il dit n'avoir jamais été rémunéré pour ses services. Il aurait eu une entente informelle avec son frère, selon laquelle l'appelant était propriétaire à 50 % de ce bar. Aucune action de la société n'avait toutefois été émise à l'appelant au cours de cette période.
+[4] Le 8 mars 1997, l'appelant a voulu vendre sa participation dans le bar. Une entente a été conclue entre lui et son frère par laquelle il est dit ce qui suit (pièce I-1, onglet 6) :
+ENTENTE INTERVENUE ENTRE :
+JACQUES GAGNON,
+"Vendeur"
+- et -
+ANDRÉ GAGNON,
+"Acheteur"
+IL A ÉTÉ CONVENU AINSI :
+1. Jacques Gagnon vend, par les présentes, tous ses intérêts dans le commerce "Le Bar Billard Alliam", propriété de 139 028 Canada Inc., à compter de ce jour, à André Gagnon, pour la somme de $50,000.00 dollars et autres considérations, payable de la façon suivante :
+1. a) $ 25,000.00 dollars le 13 mars 1997;
+b) $ 25,000.00 dollars le 10 mai 1997;
+2. André Gagnon assumera seul toutes les dettes du commerce "Le Bar Billard Allium";
+3. André Gagnon consent un prêt de $50,000.00 dollars sans intérêt, sous forme de billets à demande, à être versé à Jacques Gagnon de la façon suivante :
+a) $ 25,000.00 dollars le 10 juillet 1997;
+b) $ 25,000.00 dollars le 10 septembre 1997;
+2. Cette vente comprend également tous les intérêts de Jacques Gagnon dans le restaurant "Deli Bar O'Max", lesquels sont transférés immédiatement à André Gagnon pour la somme d'un ($1.00) dollar, à charge pour ce dernier d'acquitter toutes les dettes que ce commerce devait avant la vente à Christian Gaudreau;
+3. En considération de ce qui précède, les deux (2) parties se donnent quittance totale et finale de toute réclamation que l'une des parties peut avoir à l'endroit de l'autre durant toute la période où elles ont été en affaires ensemble;
+4. À défaut d'un seul versement aux dates spécifiées plus haut, la présente entente deviendra nulle et sans effet et les parties seront replacées dans la même situation où elles se trouvaient avant la présente sans qu'il n'y ait restitution pour les sommes déjà versées;
+5. Cette entente constitue une transaction au sens du Code Civil de la province de Québec;
+6. Les parties acceptent de signer tous les documents pertinents sur simple demande afin de donner suite à la présente;
+7. Me Ronald Bélec, avocat, a été choisi, par les parties, fiduciaire de la présente entente et de tous les documents nécessaires à son exécution.
+Signée à Hull, ce 8 mars 1997
+(signature)
+JACQUES GAGNON,
+"Vendeur"
+(signature)
+ANDRÉ GAGNON,
+"Acheteur"
+[5] Bien que cette entente parle d'une considération de 50 000 $ et d'un prêt de 50 000 $ à l'appelant, ce dernier a clairement indiqué en cour qu'il ne devait rien à son frère et qu'il avait reçu la somme de 100 000 $ en considération de sa participation dans le bar. Il a reçu cette somme en cinq versements, dont deux le 13 mars 1997, et les trois autres les 10 mai, 10 juillet et 10 septembre 1997 respectivement. Ces montants lui furent versés par la société et non par monsieur André Gagnon directement (voir pièce I-1, onglet 11).
+[6] Selon l'appelant, au moment de recevoir le dernier paiement, le 10 septembre 1997, son frère lui a demandé de signer une nouvelle entente qui annulerait la précédente et qui serait rétroactive au 8 mars 1997. Par cette nouvelle entente, l'appelant n'aurait pas reçu 100 000 $ de son frère en considération de sa participation dans le bar. Cette nouvelle entente faisait plutôt en sorte qu'on émettait deux actions de la société de façon rétroactive à l'appelant et que par la transaction du 8 mars 1997, la société rachetait les deux actions de l'appelant pour une considération de 100 000 $.
+[7] L'appelant a signé cette deuxième entente à la demande de Me Ronald Bélec, qui agissait en quelque sorte comme un intermédiaire entre les deux frères, sur la foi que cette nouvelle entente ne changerait rien pour lui. Il faut dire aussi que l'appelant était sous l'impression dès la première entente du 8 mars 1997, selon les informations reçues de Me Bélec, que la transaction de 100 000 $ n'était pas imposable pour lui, puisque dans les négociations, son frère avait accepté de prendre en charge tout impôt relié à cette transaction. C'est pour cette raison que l'appelant n'aurait pas inclus la dite somme dans sa déclaration de revenu pour l'année d'imposition 1997.
+[8] Me Bélec est venu témoigner pour expliquer les circonstances dans lesquelles les deux ententes ont été signées. Il a expliqué que l'appelant voulait vendre ses intérêts dans le bar et demandait une somme de 200 000 $ à son frère, afin de couvrir le montant d'impôt à payer. Ce dernier aurait finalement accepté de verser à l'appelant une somme de 100 000 $ en lui disant qu'il assumerait lui-même l'impôt à payer. Toute cette négociation s'est faite dans un très court laps de temps au cours du mois de mars 1997 et Me Bélec a rédigé à ce moment la première entente. Comme l'appelant ne semblait pas posséder d'actions dans la société, Me Bélec a inscrit dans la première entente que l'appelant vendait ses « intérêts » dans le commerce, lequel était la propriété de la société. Par ailleurs, bien que le contraire soit stipulé dans la première entente, Me Bélec a clairement indiqué qu'aucun prêt n'avait été consenti par monsieur André Gagnon à l'appelant pour un montant de 50 000 $.
+[9] Au moment d'effectuer le dernier versement de 25 000 $, le frère de l'appelant, monsieur André Gagnon, aurait réalisé qu'il devait justifier un paiement de 100 000 $ par la société à l'appelant. C'est alors que Me Bélec a émis à l'appelant, à la demande de monsieur André Gagnon, deux actions de la société, rétroactivement au 6 mai 1995 (pièce I-1, onglet 10), de façon à justifier la vente des intérêts de l'appelant dans la société, laquelle était propriétaire du bar. Monsieur André Gagnon, président de la société, a alors signé une résolution des administrateurs datée du 8 mars 1997, approuvant le rachat des deux actions de l'appelant par la société (pièce I-1, onglet 9). Une deuxième entente a ensuite été préparée par Me Bélec au mois de septembre 1997, mais datée du 8 mars 1997, et signée tant par l'appelant comme vendeur, que par son frère au nom de la société acheteuse, et en son nom personnel comme caution. Cette entente se retrouve à la pièce I-1, onglet 8 et se lit comme suit :
+JACQUES GAGNON,
+"Vendeur"
+- et -
+139 028 CANADA LTÉE,
+"Acheteur"
+- et -
+ANDRÉ GAGNON,
+"Caution"
+________________________
+IL A ÉTÉ CONVENU AINSI :
+1. Ce jour, Jacques Gagnon vend, par les présentes, ses actions qu'il possède dans la compagnie 139 028 Canada Ltée à cette dernière pour la somme de $ 100,000.00 dollars et autres considérations, payable de la façon suivante :
+1. a) $ 25,000.00 dollars le 13 mars 1997;
+b) $25,000.00 dollars le 10 mai 1997;
+c) $25,000.00 dollars le 10 juillet 1997;
+d) $25,000.00 dollars le 10 septembre 1997;
+2. Jacques Gagnon renonce au billet à demande au montant de $ 4,900.00 dollars signé en sa faveur par 139 028 Canada Ltée le 6 mai 1995;
+3. André Gagnon assumera seul toutes les dettes du commerce "Le Bar Billard Allium", propriété de 139 028 Canada Ltée;
+2. Cette vente comprend également tous les intérêts que Jacques Gagnon possédait dans le restaurant "Deli Bar O'Max", lesquels sont transférés immédiatement à 139 028 Canada Ltée pour la somme d'un ($1.00) dollar, à charge par cette dernière d'acquitter toutes les dettes que ce commerce devait avant la vente effectuée à Christian Gaudreau;
+3. En considération de ce qui précède, les parties aux présentes se donnent quittance totale et finale de toutes réclamations que l'une des parties peut avoir à l'endroit de l'autre durant toute la période où elles ont été en affaires ensembles;
+4. À défaut d'un seul versement aux dates spécifiées plus haut, la présente vente deviendra nulle et sans effet et les parties seront replacées dans la même situation où elles se trouvaient avant la présente, sans qu'il n'y ait restitution pour les sommes déjà versées;
+5. Cette entente constitue une transaction au sens du Code Civil de la province de Québec;
+6. Aux présentes intervient André Gagnon, lequel se porte caution des obligations contractées par 139 028 Canada Ltée en faveur de Jacques Gagnon;
+7. Les parties acceptent de signer tous les documents pertinents sur simple demande afin de donner suite à la présente;
+Signée à Hull, ce 8 mars 1997.
+[10] Par la même occasion, l'appelant acceptait d'annuler la première entente signée le 8 mars 1997 (pièce I-1, onglet 7).
+[11] Me Bélec a reconnu que l'appelant avait été réticent à signer la deuxième entente et à annuler la première. Il l'a fait sur la foi que son frère s'acquitterait des impôts à payer. Quant à monsieur André Gagnon lui-même, il n'était pas présent en cour pour donner sa version des faits.
+[12] C'est en s'appuyant sur la deuxième entente que le ministre a cotisé l'appelant en lui imposant un dividende réputé sur un rachat d'actions aux termes des paragraphes 82(1) et 84(3) de la Loi, en tenant pour acquis que l'appelant avait reçu une somme de 100 000 $ de la société sur un rachat de deux actions pour lequel le capital versé était de 2 $. En effet, la société a traité ce transfert d'actions comme un rachat d'actions pour les fins comptables, tels qu'en font foi les états financiers de la société au 31 décembre 1997 (pièce I-1, onglet 15, pages 4 et 9).
+[13] Au cours de l'audition, l'avocat de l'intimée a semblé reconnaître la nullité de la deuxième entente et s'est plutôt appuyé sur la position alternative soulevée dans la Réponse à l'avis d'appel, à savoir l'appelant aurait dû être imposé sur un gain en capital par la suite de la vente de sa participation dans le bar, et non sur un dividende réputé sur un rachat d'actions.
+[14] L'intimée accepte que l'appelant a fait une mise de fonds de 5 000 $ dans le commerce (l'argent venant de son père). Le ministre avait déjà également accepté que les frais légaux engagés par l'appelant pour un montant de 1 880 $ (pièce I-1, onglet 12), lors de la vente de sa participation dans le bar, pouvaient être déduits comme perte en capital à l'encontre d'un gain en capital (voir avis de nouvelle cotisation en date du 17 octobre 2000, où l'on reconnaît une perte en capital nette de 1 410 $, soit 75 % x 1 880 $, pièce I-1, onglet 3).
+[15] Dans un document remis à la Cour, l'intimée établit qu'en tenant compte d'un prix de base rajusté de 5 000 $ et des dépenses de disposition de 1 880 $, l'impôt payable par l'appelant sur le gain en capital serait de 15 771 $. Or, l'appelant a été cotisé pour un montant de 15 048 $ sur un dividende réputé. L'intimée reconnaît que peu importe la décision de cette Cour, le montant cotisé ne peut être augmenté. À ce sujet, l'intimée se réfère à l'affaire Harris v. M.N.R., 64 DTC 5332 (C. de l'E.).
+[16] Quant à l'appelant, il dit qu'il a signé la deuxième entente sous de fausses considérations, pensant que cette dernière entente n'était qu'une simple entente de courtoisie par complaisance pour fins de comptabilité interne, qui aurait été requise par le comptable de monsieur André Gagnon. De plus, ayant reçu tous les paiements, il a signé sur l'original de la première entente que celle-ci était annulée en comprenant que cette entente était terminée (voir l'Avis d'appel, page 2, paragraphes 4 à 6). De toute façon, l'appelant considère ne pas être imposable du tout sur cette transaction. Il ne reconnaît ni l'existence d'un gain en capital, ni l'existence d'un dividende réputé. Il considère que s'il y a un impôt à payer, c'est son frère qui aurait dû être cotisé sur ce montant.
+[17] À mon avis, et même si l'avocat de l'intimée, reconnaît la prépondérance de la première entente, cette première entente n'était pas juridiquement valide et pouvait être frappée de nullité. En effet, par cette première entente, l'appelant vendait ce qui ne lui appartenait pas. Le bar était la propriété de la société et je vois mal comment l'appelant pouvait se départir de ses intérêts dans un commerce qui ne lui appartenait pas. L'acheteur (le frère de l'appelant) était donc justifié d'en demander la nullité.
+[18] Les articles 1713 à 1715 du Code Civil du Québec stipulent ce qui suit :
+3. - De la vente du bien d'autrui
+ART. 1713 La vente d'un bien par une personne qui n'en est pas propriétaire ou qui n'est pas chargée ni autorisée à le vendre, peut être frappée de nullité.
+Elle ne peut plus l'être si le vendeur devient propriétaire du bien. - CCBC 1487, 1488
+ART. 1714 Le véritable propriétaire peut demander la nullité de la vente et revendiquer contre l'acheteur le bien vendu, à moins que la vente n'ait eu lieu sous l'autorité de la justice ou que l'acheteur ne puisse opposer une prescription acquisitive.
+Il est tenu, si le bien est un meuble qui a été vendu dans le cours des activités d'une entreprise, de rembourser à l'acheteur de bonne foi le prix qu'il a payé. - CCB 1489, 1490
+ART. 1715 L'acheteur peut aussi demander la nullité de la vente.
+Il n'est pas, toutefois, admis à le faire lorsque le propriétaire n'est pas lui-même admis à revendiquer le bien. - CCBC 1487
+[19] Par ailleurs, Me Bélec a reconnu qu'il n'y avait eu aucun prêt de 50 000 $ d'André Gagnon à l'appelant, tel que stipulé dans la première entente. L'appelant a également reconnu cet état de faits en insistant sur le fait qu'il ne devait rien à son frère. Me Bélec a dit qu'il avait rédigé cette première entente dans un très court laps de temps, après que les deux frères aient semblé s'accorder sur le montant à verser à l'appelant. Manifestement toutefois, et mises à part les conséquences fiscales de la transaction, cette première entente, telle que rédigée, était viciée et ne représentait pas la réalité juridique de l'entente négociée entre les deux frères.
+[20] D'ailleurs, c'est la société qui a payé l'appelant et ce dernier a accepté d'encaisser les chèques tirés sur le compte de la société. Ce n'est qu'au mois de septembre 1997 que monsieur André Gagnon, sur avis de son comptable, a réalisé que la première entente, telle que rédigée, n'était pas conforme à la transaction réelle entre les deux frères. On a donc corrigé la situation de façon rétroactive, afin de reconnaître les droits juridiques à l'appelant. On a émis rétroactivement des actions à ce dernier, reconnaissant ainsi qu'il avait investi dans la société et qu'il s'était ensuite départi de ses parts en mars 1997.
+[21] Du côté de l'appelant, bien qu'il dit avoir été en quelque sorte contraint sous de fausses représentations à signer la deuxième entente de façon rétroactive, il reconnaît lui-même que la première entente était erronée puisqu'aucun prêt ne lui a été octroyé. De plus, il considérait depuis le tout début de cette aventure, avoir droit à 50 pour cent de la plus-value de ce commerce. Il a accepté dès le début que ce commerce soit acquis par la société et a accepté que la société lui rachète sa participation directement.
+[22] À mon avis, c'est la deuxième entente qui représente la réalité juridique de ce qui était l'intention contractuelle des parties. Puisqu'aucun certificat d'actions n'avait été émis à l'appelant au moment où il a décidé d'investir dans le commerce, et que le commerce était détenu par la société, Me Bélec a rectifié la situation afin de donner un sens juridique à cette transaction. En effet, en acceptant de verser une somme de 100 000 $ à l'appelant, la société reconnaissait implicitement que l'appelant avait souscrit à des actions qui lui donnaient des droits dans le commerce appartenant à la société : ces droits portant sur les profits de la société et sur son actif. Le fait que les actions ont été émises au mois de septembre 1997, rétroactivement au 6 mai 1995, ne change pas cet état de fait puisque l'émission des actions ne doit pas se faire obligatoirement au moment de la souscription des actions. Une personne peut être déclarée propriétaire d'actions avec effet rétroactif (voir Paul Martel, La compagnie au Québec - Les aspects juridiques, volume 1, Ottawa, Wilson & Lafleur Martel ltée 2005, aux pages 14-9 et 19-31; et Dubeau c. Groupe T.S. Inc., J.E. 95-1149 (C.S.)).
+[23] J'estime que la première entente était frappée de nullité relative et tant la société (la véritable propriétaire du commerce) que monsieur André Gagnon (l'acheteur) étaient en droit d'en invoquer la nullité (voir articles 1713 à 1715 CCQ, et Didier Lluelles, Droit québecois des obligations, volume 1, Montréal, Thémis, 1998, à la page 680 au paragraphe 2053, et à la page 689 au paragraphe 2068). Dans ce cas-ci, il semble que monsieur André Gagnon ne voulait pas annuler la transaction, mais simplement rectifier l'entente signée le 8 mars 1997, afin qu'elle reflète juridiquement la transaction effectuée entre lui, la société et l'appelant. D'ailleurs, il semble que l'appelant lui-même ait approuvé cette situation de faits, selon le compte d'honoraires envoyé par Me Bélec à l'appelant qui stipule, entre autre choses, « préparation d'une entente amendée approuvée par les deux (2) associés » (pièce I-1, onglet 12, facture du 15 septembre 1997). Je conclus donc que c'est la deuxième entente qui prévaut dans les circonstances et qui fait foi de la réalité contractuelle négociée entre les deux frères. Le ministre était donc justifié de cotiser l'appelant sur un rachat d'actions par la société, aux termes des paragraphes 82(1) et 84(3) de la Loi.
+[24] Le fait que l'appelant ait négocié la somme de 100 000 $ en assumant que son frère acquitterait l'impôt à payer, ne peut lier l'intimée. C'est l'appelant qui a vendu sa participation dans le commerce, via la société, et c'est lui qui est redevable de l'impôt à payer face au fisc, aux termes de la Loi. S'il juge que son frère n'a pas respecté son engagement contractuel, c'est envers lui qu'il doit engager des procédures.
+[25] Par ailleurs, même si l'on tentait d'invoquer que l'appelant a vendu ses « intérêts » dans le bar, aux termes de la première entente, le calcul de l'impôt à payer sur le gain en capital démontre que l'impôt serait plus élevé. Puisque l'appelant n'a pas déclaré ce revenu, il n'est pas éligible à l'exemption du gain en capital, aux termes de l'article 110.6 de la Loi.
+[26] De plus, les frais légaux de 1 880 $, ont déjà été reconnus par le ministre comme une perte en capital, qui pourrait éventuellement être appliquée contre un gain en capital. Quant à la mise de fonds de 5 000 $ que l'appelant aurait faite en 1995, il semble que celle-ci ait été enregistrée comme une dette à long terme due à l'appelant par la société (selon les états financiers au 31 décembre 1995 et au 31 décembre 1997, pièce I-1, onglet 14, page 5, note 5 « Dette à long terme » , et onglet 15, page 8, note 6 « Dette à long terme » ). L'appelant, en signant la deuxième entente a renoncé à cette dette jusqu'à concurrence de 4 900 $, laissant un solde de la dette de 100 $, lequel n'a pas été déclaré irrécouvrable.
+[27] Je considère donc que le ministre a eu raison de cotiser l'appelant sur un dividende présumé, en se fondant sur la deuxième entente. Compte tenu que ce dernier a reçu 100 000 $ de la société pour le rachat d'actions dont le capital versé relativement à ces actions est établi à 2 $, selon les états financiers de la société, le ministre était justifié d'inclure un dividende imposable majoré de 124 998 $ au revenu de l'appelant, et de lui accorder un crédit d'impôt pour dividendes de 16 666,39 $, le tout aux termes des paragraphes 82(1) et 84(3) et de l'article 121 de la Loi.
+[28] L'appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 24e jour de mars 2006.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE :
+2006CCI194
+No DU DOSSIER DE LA COUR :
+2002-1323(IT)G
+INTITULÉ DE LA CAUSE :
+Jacques Gagnon c. La Reine
+LIEU DE L'AUDIENCE :
+Ottawa (Québec)
+DATES DES AUDIENCES :
+les 17 janvier et 14 avril 2005
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Lucie Lamarre
+DATE DU JUGEMENT :
+le 24 mars 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimée :
+Me Carole Benoît et Me Nicolas Simard
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Pour l'intimée :
+John H. Sims, Q.C.
+Sous-Procureur Général du Canada
+Ottawa, Canada

@@ -1,0 +1,134 @@
+---
+title: "Brown v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25663/index.do"
+last_modified: "2004-02-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 117"
+citation2: ""
+neutral_citation: "2004 TCC 117"
+decision_date: "2004-02-04"
+language: "en"
+item_id: "25663"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3830
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:50:55.255000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "238bd0aaa14be2365d9aff4c78ae2508aa31576a0df302f2004632b0c4cc565d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brown v. The Queen
+
+- Citation: 2004 TCC 117
+- Decision date: 2004-02-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3830, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brown v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-02-04
+Neutral citation
+2004 TCC 117
+File numbers
+2003-1400(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1400(IT)I
+BETWEEN:
+NANCY BROWN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 23, 2003 at Kingston, Ontario
+Before: The Honourable Justice Brent Paris
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Carole Benoit
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of the reassessment made under the Income Tax Act for the 2001 taxation year is dismissed.
+Signed at Ottawa, Canada, on this 4th day of February 2004.
+"Brent Paris"
+Paris, J.
+Citation: 2004TCC117
+Date: 20040204
+Docket: 2003-1400(IT)I
+BETWEEN:
+NANCY BROWN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] Ms. Nancy Brown is appealing the reduction of her medical expense tax credit by $5,574.69 for her 2001 taxation year. The credit was reduced on the basis that amounts she spent on certain herbal medications and vitamin supplements and on a stress management course were not medical expenses as defined in paragraph 118.2(2)(n) of the Income Tax Act (the "Act"). Ms. Brown conceded at the hearing that the amounts related to the stress management course were not eligible for the tax credit.
+[2] In order to qualify for the medical expense tax credit, the amounts in issue would have to meet the conditions set out in paragraph 118.2(2)(n) of the Act which reads:
+(2) For the purposes of subsection (1), a medical expense of an individual is an amount paid
+...
+(n) for drugs, medicaments or other preparations or substances (other than those described in paragraph (k) manufactured, sold or represented for use in the diagnosis, treatment or prevention of a disease, disorder, abnormal physical state, or the symptoms thereof or in restoring, correcting or modifying an organic function, purchased for use by the patient as prescribed by a medical practitioner or dentist and as recorded by a pharmacist ...
+[3] Ms. Brown testified that she suffers from Hepatitis C which she contracted in 1981 as a result of a transfusion of tainted blood. In order to alleviate the symptoms of her illness, her physician prescribed her the herbal medications and supplements. These products have allowed her to maintain a much higher quality of life than otherwise would be the case. Ms. Brown admits that these items were not recorded by a pharmacist and that they were not purchased in a pharmacy, but bases her appeal on the decision of this Court in Ray v. The Queen [2002] T.C.J. No. 500 (Q.L.).
+[4] However, the Ray decision was reversed by the Federal Court of Appeal in a judgment dated January 5, [2004] FCA 1. Sharlow, J.A, writing for the Court, said that the words "recorded by a pharmacist" in paragraph 118.2(2)(n) could not be ignored, and that only Parliament could decide to remove those words from that provision. She went on to say:
+In my view, it is reasonable to infer that the recording requirement in paragraph 118.2(2)(n) is intended to ensure that tax relief is not available for the cost of medications purchased off the shelf. There are laws throughout Canada that govern the practice of pharmacy. Although the laws are not identical for each province and territory, they have common features. Generally, they prohibit a pharmacist from dispensing certain medications without a medical prescription, and they describe the records that a pharmacist is required to keep for medications dispensed by prescription, including information that identifies the prescribing person and the patient. There is no evidence that pharmacists anywhere in Canada are required to keep such records for the substances in issue in this case.
+...
+Nor do I think it relevant to the interpretation of paragraph 118.2(2)(n) that a physician may dispense prescription medicines, and even sell them, without breaching any legislation applicable to pharmacists. It appears that a patient who purchases prescription medications from a physician may not be entitled to a medical expense tax credit because there would be no recording by a pharmacist: see Dunn (cited above). Some may consider that to be an unfair or inappropriate result. Perhaps it is, but that cannot justify an interpretation of paragraph 118.2(2)(n) that ignores the words "as recorded by a pharmacist".
+[5] Unfortunately, the evidence in this case shows that the herbal remedies, vitamins and supplements that were prescribed to Ms. Brown's by her physician were not recorded by a pharmacist. Therefore the amounts she spent on these items do not qualify as medical expenses under the Income Tax Act and this appeal must be dismissed.
+Signed at Ottawa, Canada, on this 4th day of February 2004.
+"Brent Paris"
+Paris, J.
+CITATION:
+2004TCC117
+COURT FILE NO.:
+2003-1400(IT)I
+STYLE OF CAUSE:
+Nancy Brown v. The Queen
+PLACE OF HEARING
+Kingston, Ontario
+DATE OF HEARING
+September 23, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT
+February 4, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Carole Benoit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

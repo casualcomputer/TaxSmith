@@ -1,0 +1,311 @@
+---
+title: "Nguyen c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30076/index.do"
+last_modified: "2010-11-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 503"
+citation2: ""
+neutral_citation: "2010 CCI 503"
+decision_date: "2010-11-12"
+language: "fr"
+item_id: "30076"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7611
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:26:39.890000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "770fba5494ad19fdac286fd0a93659bdb105c130c6a954e5a4ffbc210d7efc0c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nguyen c. La Reine
+
+- Citation: 2010 CCI 503
+- Decision date: 2010-11-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7611, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nguyen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-11-12
+Référence neutre
+2010 CCI 503
+Numéro de dossier
+2005-3320(IT)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-3320(IT)G
+ENTRE :
+HUYEN-ANH NGUYEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels
+d'Isabelle Vohoang (2005-3322(IT)G), de Fabrice Vohoang (2005-3323(IT)G) et
+d'Alexandre Vohoang (2005-3324(IT)G),
+les 7 et 8 juin 2010, à Montréal (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelant :
+Me Guy Matte
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1988, 1990, 1991, 1992 et 1993 sont accueillis avec un seul mémoire de frais et les cotisations sont annulées, selon les motifs du jugement ci‑joints.
+Signé, ce 12e jour de novembre 2010.
+« François Angers »
+Juge Angers
+Dossier : 2005-3322(IT)G
+ENTRE :
+ISABELLE VOHOANG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Huyen-Anh Nguyen (2005-3320(IT)G), de Fabrice Vohoang (2005-3323(IT)G) et d'Alexandre Vohoang (2005-3324(IT)G),
+les 7 et 8 juin 2010, à Montréal (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelant :
+Me Guy Matte
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1988, 1990, 1991, 1992 et 1993 sont accueillis avec un seul mémoire de frais et les cotisations sont annulées, selon les motifs du jugement ci‑joints.
+Signé, ce 12e jour de novembre 2010.
+« François Angers »
+Juge Angers
+Dossier : 2005-3323(IT)G
+ENTRE :
+FABRICE VOHOANG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Huyen-Anh Nguyen (2005-3320(IT)G), d'Isabelle Vohoang (2005-3322(IT)G)
+et d'Alexandre Vohoang (2005-3324(IT)G),
+les 7 et 8 juin 2010, à Montréal (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelant :
+Me Guy Matte
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1988, 1990, 1991, 1992 et 1993 sont accueillis avec un seul mémoire de frais et les cotisations sont annulées, selon les motifs du jugement ci‑joints.
+Signé, ce 12e jour de novembre 2010.
+« François Angers »
+Juge Angers
+Dossier : 2005-3324(IT)G
+ENTRE :
+ALEXANDRE VOHOANG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Huyen-Anh Nguyen (2005-3320(IT)G), d'Isabelle Vohoang (2005-3322(IT)G),
+et de Fabrice Vohoang (2005-3323)
+les 7 et 8 juin 2010, à Montréal (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelant :
+Me Guy Matte
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1988, 1990, 1991, 1992 et 1993 sont accueillis avec un seul mémoire de frais et les cotisations sont annulées, selon les motifs du jugement ci‑joints.
+Signé, ce 12e jour de novembre 2010.
+« François Angers »
+Juge Angers
+Référence : 2010 CCI 503
+Date : 20101112
+Dossiers : 2005-3320(IT)G,
+2005-3322(IT)G, 2005-3323(IT)G,
+2005-3324(IT)G
+ENTRE :
+HUYEN-ANH NGUYEN,
+ISABELLE VOHOANG,
+FABRICE VOHOANG,
+ALEXANDRE VOHOANG,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] La Cour est saisie de quatre appels qui ont été entendus sur preuve commune. À la demande du représentant des appelants, les avis d'appel dans les quatre dossiers ont été modifiés en début d'audience afin de mentionner l'existence d'une police d'assurance-vie additionnelle provenant d'une assurance collective et dont le bénéficiaire est l'appelante Huyen-Anh Nguyen.
+[2] Par avis de cotisation en date du 23 décembre 2003, le ministre du Revenu national (ci-après « le Ministre ») a cotisé les appelants Huyen-Anh Nguyen et Isabelle Vohoang pour une somme respective de 200 000 $ en vertu du paragraphe 159(3) de la Loi de l'impôt sur le revenu (la « Loi »). Dans l'appel d'Isabelle Vohoang, cette dernière a aussi été cotisée à la même date pour une somme de 120 000 $ en vertu du paragraphe 160(1) de la Loi. En ce qui concerne les appelants Fabrice et Alexandre Vohoang, ils ont été cotisés à la même date pour une somme respective de 40 000 $ en vertu du paragraphe 160(1) de la Loi. Après la signification des oppositions, le Ministre ratifiait tous les avis de cotisation décrits ci-haut le 21 juin 2005.
+[3] Toutes les cotisations en question ont été établies à la suite d'une série d'évènements survenus après le décès soudain de monsieur Hien Vohoang, le 14 juin 1993. Monsieur Hien Vohoang était le conjoint de l'appelante Huyen-Anh Nguyen et le père des trois autres appelants. Fabrice et Alexandre étaient des enfants mineurs à cette époque.
+[4] Monsieur Hien Vohoang détenait un doctorat en science lui conférant le titre d'ingénieur électrique de même qu'un doctorat en physique électronique et une licence en sciences de la physique. Il dirigeait plusieurs sociétés de recherche scientifique exerçant leurs activités principalement dans le domaine de la conception, de la fabrication et de la commercialisation de processeurs graphiques/multimedia. Les sociétés SPEQ Multimedia Inc. et Six Graph Informatique Ltée semblent être les deux sociétés dirigées par monsieur Hien Vohoang les plus pertinentes pour les fins de ce litige bien qu'une autre société, du nom de Zuriq Corp, ait eu un rôle assez important dans la création de plusieurs sociétés de personnes utilisées à des fins d'abris fiscaux.
+[5] Monsieur Hien Vohoang a fait l'objet de nouvelles cotisations pour ses années d'imposition 1988, 1990, 1991, 1992 et 1993. Selon la preuve, sa dette fiscale pour les cinq années d'imposition en question s'élevait à 71 501,21 $, à laquelle on a ajouté des pénalités de 2 090,18 $ pour l'année d'imposition 1988 et des intérêts de 197 438,39 $ sur l'ensemble, pour un total en date du 23 décembre 2003 de 271 029,78 $. Monsieur Hien Vohoang s'etait opposé aux cotisations des années d'imposition 1987 à 1990, mais elles ont été ratifiées par le Ministre ou annulées après l'établissement de nouvelles cotisations. En début d'audience, l'avocat des appelants a informé la Cour qu'il ne contestait plus les cotisations de feu Hien Vohoang, sauf en ce qui concerne le délai de prescription pour le recouvrement de la dette fiscale d'un contribuable. En ce qui concerne les dates d'établissement des cotisations de 1988, 1990, 1991 et 1992 à l'encontre de feu Hien Vohoang ou de sa succession, l'avocat des appelants a fait valoir qu'une période de six ans s'est écoulée entre la date de la dernière cotisation à l'encontre de monsieur Hien Vohoang et celle de la cotisation établie à l'encontre des appelants, rendant ainsi la dette fiscale de feu Hien Vohoang irrécouvrable.
+[6] Monsieur Hien Vohoang est décédé sans testament, laissant sa conjointe et ses trois enfants à titre d'héritiers. Selon la pièce A-4, les quatre héritiers de feu Hien Vohoang, par l'entremise de madame Huyen-Anh Nguyen (cette dernière ayant signé pour les trois enfants), ont fait en date du 12 juin 1995 une proposition de paiement en vertu de l'article 811 du Code civil du Québec. Cette proposition de paiement montre que la succession de feu Hien Vohoang était déficitaire et que sa dette s'élevait à 421 395,52 $. Parmi les actifs, on trouve la moitié de la résidence familiale dont la valeur a été établie à 221 750 $, des placements auprès de Canada Trust d'une valeur de 18 348,51 $, un RÉER de 33 701,44 $ et des placements corporatifs d'une valeur de 57 601 $ dans des sociétés dirigées par monsieur Vohoang. Parmi les créanciers se trouvent la conjointe de feu Hien Vohoang pour une somme de 81 000 $, Revenu Québec et Revenu Canada pour des sommes respectives de 108 068 $ et de 85 733 $ et les créanciers des sociétés de feu Hien Vohoang qui s'était porté caution pour des prêts de 482 000 $. Rien n'est advenu de cette proposition en ce sens qu'elle ne fut jamais homologuée par un tribunal. Elle ne visait finalement que le paiement des honoraires d'avocat et de notaire en rapport avec la succession.
+[7] Au moment de son décès, monsieur Hien Vohoang détenait une police d'assurance-vie avec NN Compagnie d'Assurance-vie du Canada pour un montant de 317 936,25 $ payable au décès. Sa conjointe et ses trois enfants étaient les bénéficiaires désignés. Madame Nguyen et sa fille Isabelle ont chacune reçu leur part de cette assurance-vie le 30 août 1993 (pièce A-7) par chèque au montant de 80 137,46 $. La part des deux autres appelants devait être confiée à un fiduciaire étant donné qu'ils étaient tous les deux mineurs. Le 31 octobre 1993, une fois que les formalités ont été accomplies, deux chèques ont été émis à l'ordre de madame Nguyen en sa qualité de « Guardian of Alexandre and Guardian of Fabrice » respectivement pour un montant de 80 411,84 $, incluant les intérêts. Ces deux chèques ont été déposés le 5 novembre 1993 à la Caisse populaire Desjardins de Cartierville dans le compte respectif de chacun, lesquels fonctionnaient sous la responsabilité de madame Nguyen.
+[8] Le produit d'une deuxième police d'assurance-vie provenant d'une assurance-groupe émise par Aetna, compagnie d'assurance-vie, de 47 000 $, a été payé à la conjointe de feu Hien Vohoang à titre de bénéficiaire désignée. Il n'est pas contesté que le produit de ces deux polices d'assurance-vie ne fait pas partie des actifs de la succession.
+[9] Dans les documents recueillis lors de l'enquête de l'Agence du revenu du Canada se trouve une reproduction des débits et crédits d'un compte de banque à la Banque Royale du Canada au nom de la succession Hien Vohoang et dont les premières transactions sont en date du 7 septembre 1993. Selon la preuve entendue, ce compte aurait été ouvert par l'appelante Isabelle Vohoang. Cette dernière était âgée de 20 ans à l'époque et elle était étudiante. Selon son témoignage, elle se souvient qu'elle et sa mère étaient les liquidatrices de la succession. Elle aurait accepté d'assumer cette responsabilité à la demande de sa mère, au motif que c'était dans le but de pouvoir mieux fonctionner et que c'était pour le bien-être de tous.
+[10] Elle ne se souvient pas de l'ouverture du compte, sauf que cela devait faciliter la gestion des affaires de son défunt père. Elle signale qu'elle suivait les instructions de sa mère, qu'elle signait des chèques et qu'elle ne posait pas de questions. Elle était d'ailleurs la seule personne autorisée à signer les chèques de ce compte selon sa mère. Il lui est possible d'identifier sa signature sur les chèques qui font l'objet du présent litige mais elle ne se souvient pas des raisons pour lesquelles ces opérations bancaires ont été effectuées. Elle a très peu de souvenirs concernant l'administration de la succession de son défunt père, sauf qu'elle a reçu sa part du produit de l'assurance-vie de celui-ci le jour de son mariage, il y a deux ans.
+[11] De son côté, madame Nguyen a expliqué comment le décès subit de son conjoint avait bouleversé sa vie. Madame Nguyen était l'adjointe de son conjoint au travail. Elle touchait un peu à tout, particulièrement à la dimension humaine des entreprises de son conjoint, mais n'intervenait pas dans ce qui touchait la recherche ni les finances. Par ailleurs, elle n'est pas certaine de son titre concernant la succession de son mari. Elle s'est identifiée comme liquidatrice de la succession et plus tard elle s'est déclarée co-exécutrice testamentaire avec sa fille.
+[12] Madame Nguyen se souvient avec difficulté de ces évènements qui se sont déroulés il y a près de 17 ans. Elle raconte avoir été déprimée et angoissée et avoir eu peur de mourir à son tour. Sa fille Isabelle avait 20 ans et madame Nguyen voulait son aide, notamment pour continuer certains travaux entrepris par son père.
+[13] Outre le fait qu'il s'est passé plusieurs années depuis ces évènements, madame Nguyen a affirmé avoir perdu plusieurs documents importants qui se trouvaient au sous-sol de sa résidence en raison d'une inondation provoquée par une fuite d'eau à l'occasion de la crise du verglas en janvier 1998. Un rapport d'incident (pièce A-5) confirme que le sous-sol a été inondé. Tous ces documents ont dû être jetés.
+[14] Dans une tentative d'obtenir des documents de la Banque Royale, on a informé l'avocat de madame Nguyen que les dossiers ne sont conservés que pour une période de 7 ans. Les quelques documents déposés en preuve ont été obtenus par l'enquêteur de l'Agence du revenu du Canada (l'« ARC ») en janvier 1999, soit le relevé du compte bancaire de la succession (pièce A-12) et les chèques tirés du compte en question dans le présent litige (pièces A-13 et A-15).
+[15] Madame Nguyen a identifié la pièce A-4, soit la proposition de paiement. Selon elle, le notaire retenu pour s'occuper de la succession voulait faire une offre de règlement à Revenu Québec et à l'ARC étant donné que la succession de son mari était déficitaire. Comme je l'ai déjà mentionné, le document en question ne contient cependant aucune telle offre.
+[16] En ce qui concerne les actifs de la succession de feu Hien Vohoang, la résidence familiale était grevée d'une hypothèque et le créancier hypothécaire a procédé à la saisie et la vente de cette résidence en mai 1998. Les comptes de banque chez Canada Trust et le REER de feu Hien Vohoang ont été saisis par le ministre du Revenu du Québec en 1993. La valeur des actions énumérées dans la pièce A-4 est nulle puisque les compagnies sont devenues inopérantes ou insolvables selon le rapport final de l'agent de l'ARC et selon madame Nguyen. Elle a ajouté que tout l'actif du patrimoine de feu Hien Vohoang était gelé et sous le contrôle du notaire retenu par les héritiers.
+[17] Madame Nguyen a expliqué qu'après le décès de son conjoint, il était question de permettre à la société Speq Multimedia Inc. de continuer d'effectuer les recherches scientifiques qu'elle avait entreprises. Cette société avait également besoin d'argent pour répondre aux exigences de la Commission des valeurs mobilières du Québec, soit 480 001 $. Il faut comprendre que les sociétés Speq Multimedia Inc. et Six Graph Informatique Ltée ont présenté une demande le 23 mars 1993 auprès de la Commission des valeurs mobilières du Québec afin de dispenser Speq Multimedia Inc. de l'obligation d'établir un prospectus pour le placement de 416 667 actions de catégorie A auprès d'au plus 50 soumissionnaires et Six Graph Informatique Ltée pour le placement de 410 000 actions de catégorie A auprès de Speq Multimedia Inc. aux conditions prévues dans la notice d'offre. La dispense a été accordée le 24 mars 1993. Selon la notice d'offre, les souscriptions étaient détenues en fidéicommis jusqu'à ce que le placement minimal de 500 001 $ ait été souscrit, et ce, au plus tard le 22 septembre 1993. Selon les états financiers de Speq Multimedia Inc. au 28 février 1994, cette dernière aurait investi 480 001 $ dans une société non inscrite à la Bourse et aurait émis 166 767 actions de catégorie A pour 500 001 $. Ces transactions sont confirmées par la Société de développement industriel du Québec (pièce A-1), laquelle enregistrait Speq Multimedia Inc. à titre de Société de placements dans l'entreprise québecoise. Speq Multimedia Inc. a, cependant, vu son enregistrement révoqué le 18 octobre 1996. Les collaborateurs de son défunt conjoint, sachant que madame Nguyen avait reçu de l'argent de polices d'assurance-vie, lui ont demandé de prêter de l'argent à Speq Multimedia Inc. et d'investir aussi dans cette société. Elle aurait alors demandé à sa fille Isabelle d'ouvrir un compte pour la succession à la Banque Royale, compte qu'elle a identifié comme compte de transition pour Speq Multimedia Inc. Elle ne comprend pas pourquoi le compte est au nom de la succession de son défunt conjoint et offre comme explication que cette erreur est peut-être due au fait que sa fille était jeune à l'époque. Elle ne comprend pas pourquoi le nom de la succession est lié à ce compte de banque étant donné qu'aucune opération n'y a été effectuée au nom de la succession. Il ne pourrait s'agir que d'une erreur.
+[18] Le compte de banque de la succession a été ouvert le 7 septembre 1993. Le premier dépôt s'élève à 4 612,14 $. Sans pouvoir identifier la provenance des fonds, madame Nguyen est certaine qu'il ne s'agit pas d'argent provenant d'un débiteur de son mari. Le lendemain, soit le 8 septembre 1993, deux dépôts de 80 137,46 $ chacun sont effectués dans le compte. Les deux dépôts correspondent au montant des deux chèques émis par NN Compagnie d'Assurance-vie à madame Nguyen et Isabelle Vohoang le 27 août 1993. Le 25 octobre 1993, un retrait de 160 000 $ est effectué du compte. À la même date, on y constate un deuxième retrait, par chèque cette fois-ci, de 160 000 $ et, le lendemain, on y constate un second retrait par chèque de 160 000 $ également. Personne ne peut expliquer pourquoi le relevé indique trois retraits de 160 000 $. Selon madame Nguyen, les deux chèques émis par NN Compagnie d'assurance-vie ont été déposés dans ce compte dans le but de prêter cet argent à Speq Multimedia Inc. et non pour le bénéfice des héritiers de feu Hien Vohoang.
+[19] Le 5 novembre 1993, les chèques de la NN Compagnie d'assurance-vie payables au nom de madame Nguyen en sa qualité de « tutrice » de ses fils Fabrice et Alexandre ont été déposés à la Caisse populaire de Cartierville dans un compte ouvert pour chacun d'eux par leur mère. Quant au chèque provenant de l'assurance collective, madame Nguyen pense l'avoir déposé dans son compte personnel et avoir également prêté cet argent à Speq Multimedia Inc.
+[20] L'état de compte de la succession (pièce A-12) montre un solde de 6 884,43 $ au 29 octobre 1993. Voici les transactions effectuées à partir de cette date jusqu'au 24 janvier 1994 :
+29 octobre 1993
+25 novembre 1993
+14 décembre 1993
+15 décembre 1993
+22 décembre 1993
+22 décembre 1993
+24 décembre 1993
+12 janvier 1994
+17 janvier 1994
+17 janvier 1994
+17 janvier 1994
+24 janvier 1994
+$
+Intérêt 1,37 $
+Dépôt de 17 500 $
+Dépôt de 9 568,59 $
+Dépôt de 55 000 $
+Dépôt de 2 400,68 $
+Dépôt de 1 112,14 $
+Dépôt de 60 000 $
+Dépôt de 1 112,14 $
+Retrait – chèque de 40 000 $
+Retrait – chèque de 40 000 $
+Retrait – chèque de 120 000 $
+Dépôt de 1 112,14 $
+$
+Solde de 6 884,43 $
+Solde de 24 384,43 $
+Aucun solde
+Aucun solde
+Aucun solde
+Aucun solde
+Solde de 233 328,66 $
+Aucun solde
+Aucun solde
+Aucun solde
+Aucun solde
+Solde de 35 552,94 $
+[21] Il y a par la suite plusieurs dépôts identiques de 1 112,14 $ et un seul retrait d'importance, soit un retrait par chèque de 11 000 $ le 14 juin 1994. Le compte a été fermé le 9 septembre 1994 après un retrait de 33 156,51 $. La documentation appuyant ces opérations n'est plus disponible sauf celle obtenue par l'enquêteur de l'ARC le 11 janvier 1999 et qui concerne les chèques de 40 000 $ et celui de 120 000 $ en date du 17 janvier 1994 qui font l'objet du présent litige.
+[22] Les trois chèques en question ont été signés par Isabelle Vohoang le 13 janvier 1994 (voir pièce A-13) et sont payables à l'ordre de la Caisse populaire. Étrangement, les trois chèques ne semblent pas avoir été endossés par la Caisse populaire. Selon la pièce A-13, que l'on présente comme l'endos de ces chèques, le dépôt aurait été effectué dans les comptes de Fabrice et d'Alexandre Vohoang, dont un compte qui correspond au numéro du compte d'Alexandre lors du dépôt du chèque provenant de la NN, pour les montants respectifs de 40 000 $. Le chèque de 120 000 $ non endossé par la Caisse aurait été déposé dans le compte d'Isabelle Vohoang. Nous trouvons également l'endos d'un autre chèque déposé qui est demeuré sans explications. Madame Nguyen affirme que le montant de 120 000 $ est allé à ses enfants et qu'elle aurait informé la directrice de la Caisse de le répartir entre ses enfants.
+[23] Selon madame Nguyen, les dépôts de 17 500 $, de 55 000 $ et de 60 000 $ faits le 25 novembre, le 15 et le 24 décembre 1994, respectivement, provenaient de son compte à elle ou de ceux de ses enfants et étaient destinés à être investis dans Speq Multimedia Inc. à titre de prêts. Les retraits totalisant 200 000 $ qui ont été faits le 17 janvier 1994 représentaient le remboursement de l'argent provenant du compte des enfants qui avait été prêté à Speq Multimedia Inc. Les dépôts mensuels de 1 112,14 $ que l'on trouve dans la pièce A-12 sont, d'après ce que se souvient madame Nguyen, associés à des actions de Speq Multimedia Inc. ou à des remboursements de prêts. Elle affirme d'ailleurs que les nombreux prêts faits à Speq Multimedia Inc. ont été remboursés et que les enfants n'ont pas perdu d'argent. Elle n'a pas de documents à l'appui de ses prétentions.
+[24] Madame Nguyen réitère en contre-interrogatoire que l'ouverture du compte au nom de la succession était une erreur de sa fille et affirme qu'elle ne s'est jamais rendue compte de ce fait. Madame Nguyen affirme avoir payé tous les frais résultant du décès de son mari, soit, notamment, les frais funéraires.
+[25] C'est donc le 23 décembre 2003 que le Ministre a cotisé madame Nguyen pour la somme de 200 000 $ en vertu du paragraphe 159(3). Le Ministre soutient que madame Nguyen était liquidatrice de la succession de son défunt mari et qu'elle n'avait pas de certificat de décharge au sens du paragraphe 159(2) de la Loi avant de répartir la somme de 200 000 $ (le total des 3 chèques) de ladite succession,de sorte qu'elle devint personnellement responsable du paiement de la dette fiscale de la succession pour ce montant. Il en va de même pour l'appelante Isabelle Vohoang en sa qualité de liquidatrice de la succession. Conformément au paragraphe 160(1) de la Loi, le Ministre a aussi cotisé l'appelante Isabelle Vohoang pour un montant de 120 000 $ au motif que la succession lui a transféré cette somme sans contrepartie alors qu'il existait entre elle et feu Hien Vohoang un lien de dépendance et que la succession avait à ce moment là une dette fiscale.
+[26] Pour ce qui est des appelants Alexandre et Fabrice Vohoang, ils ont, conformément au paragraphe 160(1) de la Loi, été cotisés à la même date pour une somme respective de 40 000 $ au motif que la succession leur a transféré cette somme alors qu'elle avait une dette fiscale, qu'il existait un lien de dépendance entre les parties au transfert et que le transfert a été fait sans contrepartie, rendant ainsi les appelants solidairement responsables de la dette fiscale de feu Hien Vohoang dans les proportions cotisées.
+[27] Il s'agit donc de déterminer si les appelantes Huyen-Anh Nguyen et Isabelle Vohoang sont solidairement responsables d'une partie de l'impôt dû par la succession de feu Hien Vohoang en vertu du paragraphe 159(1) de la Loi et si le Ministre peut les cotiser en vertu du paragraphe 159(3) de la Loi au motif qu'elles ont eu leur possession des sommes provenant de la succession. Il faut aussi, dans le cas de l'appelante Isabelle Vohoang, déterminer si elle est solidairement responsable d'une partie de l'impôt dû par la succession de feu Hien Vohoang en vertu du paragraphe 160(1) de la Loi pour les années d'imposition 1988 et 1990 à 1993 jusqu'à concurrence de $120 000 et, dans le cas de ses deux frères, les appelants Fabrice et Alexandre Vohoang, qu'ils ont une responsabilité semblable jusqu'à concurrence de $40,000 chacun.
+[28] Dans le cadre de l'examen de ces questions, il faut aussi déterminer si les cotisations établies à l'encontre de feu Hien Vohoang et de sa succession sont prescrites en ce qu'elles ne seraient plus recouvrables de sorte que les cotisations établies à l'encontre des appelants seraient mal fondées.
+[29] Cela étant dit, il faut quand même regarder la portée de l'article 159 et des dispositions législatives suivantes et déterminer si, en l'espèce, les appelantes Huyen-Anh Nguyen et Isabelle Vohoang ont agi en leur qualité de représentantes légales d'un contribuable. Dans l'affirmative, ont-elles réellement disposé de biens qui appartenaient au contribuable Hien Vohoang ou à sa succession et, si oui, l'ont-elles fait avant d'avoir obtenu un certificat avant répartition et l'ont-elles fait à un moment où il y avait dans le patrimoine successoral du contribuable Hien Vohoang une dette impayée et payable?
+[30] L'article 159 prévoit ce qui suit :
+Personne agissant pour le compte d'autrui
+(1) Pour l'application de la présente loi, dans le cas où une personne est le représentant légal d'un contribuable à un moment donné, les règles suivantes s'appliquent :
+a) le représentant légal est solidairement tenu avec le contribuable :
+(i) d'une part, de payer chaque montant payable par le contribuable à ce moment ou antérieurement en vertu de la présente loi et qui demeure impayé dans la mesure où, à ce moment, il a en sa possession ou sous sa garde, en sa qualité de représentant légal, des biens qui appartiennent ou appartenaient au contribuable ou à sa succession, ou qui sont ou étaient détenus pour leur compte,
+(ii) d'autre part, de remplir, au moment donné, toute obligation imposée au contribuable en vertu de la présente loi et qui n'a pas été remplie, dans la mesure où il est raisonnable de considérer que l'obligation se rapporte à ses responsabilités à titre de représentant légal;
+b) toute action ou procédure relative au contribuable engagée par le ministre aux termes de la présente loi au moment donné ou postérieurement peut être ainsi engagée contre le représentant légal nommément et en cette qualité; le cas échéant, l'action ou l'instance a le même effet que si elle avait été engagée directement contre le contribuable et, si celui-ci n'existe plus, que s'il avait continué d'exister.:
+Les paragraphes 159(2) et 159(3) se lisent comme suit :
+(2) Certificat avant répartition
+Chaque représentant légal (à l'exclusion d'un syndic de faillite) d'un contribuable doit, avant de répartir entre plusieurs personnes ou d'attribuer à une seule des biens en sa possession ou sous sa garde en sa qualité de représentant légal, obtenir du ministre, par demande faite sur le formulaire prescrit, un certificat attestant qu'ont été versés les montants :
+a) d'une part, dont le contribuable est redevable en vertu de la présente loi au moment de la répartition ou de l'attribution ou antérieurement, ou dont on peut raisonnablement s'attendre à ce qu'il le devienne,
+b) d'autre part, du paiement desquels le représentant légal est, en cette qualité, redevable ou dont on peut raisonnablement s'attendre à ce qu'il le devienne,
+ou attestant que le ministre a accepté une garantie pour le paiement de ces montants.
+(3) Responsabilité personnelle
+Le représentant légal (à l'exclusion d'un syndic de faillite) d'un contribuable qui, en cette qualité, répartit entre plusieurs personnes ou attribue à une seule des biens en sa possession ou sous sa garde sans le certificat prévu au paragraphe (2) à l'égard des montants visés à ce paragraphe est personnellement redevable de ces montants, jusqu'à concurrence de la valeur des biens répartis ou attribués; le ministre peut établir à tout moment une cotisation à l'égard du représentant légal relativement à tout montant payable par l'effet du présent paragraphe. Les dispositions de la présente section s'appliquent, avec les modifications nécessaires, aux cotisations établies en vertu du présent paragraphe comme si elles avaient été établies en vertu de l'article 152.
+« Représentant légal » est défini comme suit au paragraphe 248(1) :
+Quant à un contribuable, syndic de faillite, cessionnaire, liquidateur, curateur, séquestre de tout genre, fiduciaire, héritier, administrateur du bien d’autrui, liquidateur de succession, exécuteur testamentaire, conseil ou autre personne semblable, qui administre ou liquide, en qualité de représentant ou de fiduciaire, les biens qui appartiennent ou appartenaient au contribuable ou à sa succession, ou qui sont ou étaient détenus pour leur compte, ou qui, en cette qualité, exerce une influence dominante sur ces biens ou s’en occupe autrement.
+[31] En ce qui concerne l'article 160 de la Loi, il faut s'assurer que tous les critères prévus sont présents avant de conclure à son application. Ces critères se trouvent au paragraphe 160(1) et se lisent comme suit :
+(1) Transfert de biens entre personnes ayant un lien de dépendance
+Lorsqu'une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d'une fiducie ou de toute autre façon à l'une des personnes suivantes :
+(a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+(b) une personne qui était âgée de moins de 18 ans;
+(c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s'appliquent :
+(d) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement d'une partie de l'impôt de l'auteur du transfert en vertu de la présente partie pour chaque année d'imposition égale à l'excédent de l'impôt pour l'année sur ce que cet impôt aurait été sans l'application des articles 74.1 à 75.1 de la présente loi et de l'article 74 de la Loi de l'impôt sur le revenu, chapitre 148 des Statuts revisés du Canada de 1952, à l'égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l'égard de tout gain tiré de la disposition de tels biens;
+(e) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d'un montant égal au moins élevé des montants suivants :
+(i) l'excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l'auteur du transfert doit payer en vertu de la présente loi au cours de l'année d'imposition dans laquelle les biens ont été transférés ou d'une année d'imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n'est toutefois réputée limiter la responsabilité de l'auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[32] Cela étant dit, il faut, à mon avis, déterminer d'abord et avant tout si le produit des polices d'assurance-vie de feu Hien Vohoang, qui n'avait pas désigné sa « succession » comme bénéficiaire, est, après le décès de l'assuré, passé dans son patrimoine successoral de sorte que le Ministre était justifié d'établir les cotisations en litige. En d'autres mots, est-ce que le seul fait d'ouvrir un compte de banque au nom de la succession et d'y déposer de l'argent fait de cet argent un actif successoral?
+[33] Le mot succession est défini comme suit par Germain Brière dans son recueil « Les Successions » publié en 1994:
+Au sens propre, le mot succession désigne la transmission à une ou plusieurs personnes vivantes des droits et obligations transmissibles d'une personne décédée [. . . ]. Dans un sens dérivé, le mot succession désigne l'ensemble des biens et dettes qui font l'objet de cette transmission, c'est-à-dire le patrimoine successoral. [. . . ] Ne retenons pour l'instant que le premier sens. Ainsi entendue, la succession est un mode de transmission à cause de mort.
+[34] Il est donc clair que la succession n'est qu'un terme qui comprend la transmission des droits et obligations d'un défunt à ses proches et cette dévolution se fait soit par la Loi, (succession ab intestat), soit par testament. Or, à moins qu'il ne soit stipulé que les assurances-vie au décès sont payables « à ma succession », le produit ne fait pas partie de la succession et il ne s'agit pas d'un droit faisant partie du patrimoine du défunt, en l'espèce feu Hien Vohoang.
+[35] La preuve a aussi révélé clairement que la succession était déficitaire et que les créanciers, notamment Revenu Québec, ont saisi tous les actifs. La preuve révèle aussi que l'argent a été transmis aux bénéficiaires des polices d'assurance-vie en leur nom personnel. Est-ce que le seul fait de déposer de l'argent dans un compte de banque au nom d'une succession fait passer cet argent dans le patrimoine successoral? À mon avis, l'intention en droit civil revêt beaucoup d'importance et l'ouverture d'un compte de banque constitue un contrat entre un client et une banque et l'intention de l'appelante Isabelle Vohoang, agissant selon les instructions de sa mère, revêt un rôle primordial.
+[36] Tous les évènements entourant cette affaire remontent aux années 1993 et 1994. Les cotisations ont été établies en 2003. Depuis les évènements en question, il s'est écoulé 17 années, et, avec le temps, des documents ont été perdus et des détails oubliés. Dans une telle situation, l'examen de documents ou d'écrits, comme copies des archives bancaires, pouvait permettre de rafraîchir la mémoire des témoins et aider à confirmer certaines affirmations. En l'espèce, les dégâts d'eau de 1998 à la résidence familiale n'ont pas aidé les choses. En outre, avec le temps, madame Nguyen a oublié certains détails bien qu'elle a pu compter sur les documents obtenus en 1998 par l'enquêteur de l'ARC pour se rafraîchir la mémoire. Je ne peux passer sous silence le fait qu'il s'est écoulé presque cinq ans entre l'obtention des documents bancaires par l'ARC en janvier 1999 et l'établissement des cotisations en décembre 2003. Il n'y a rien, à mon avis, qui puisse justifier un si long délai, si ce n'est que le ministre voulait profiter du fait qu'il n'y avait pas de prescription applicable à l'établissement des cotisations en litige.
+[37] Malgré le peu de moyens à sa disposition, madame Nguyen a quand même été capable de se rappeler de suffisamment de détails entourant le décès de son mari et ce, malgré son état d'esprit à l'époque et les circonstances qui ont suivi le décès. Il est vrai que le témoignage de madame Nguyen sur certaines questions semblait contradictoire, mais, dans l'ensemble, elle a rendu un témoignage cohérent, crédible et très plausible, compte tenu de toutes les circonstances de l'espèce.
+[38] Monsieur Hien Vohoang est décédé subitement au milieu d'un match de tennis. Cet homme dirigeait plusieurs sociétés de recherche scientifique et on qualifiait la gestion de toutes ces entreprises de « one man show » sous sa gouverne. Il est évident que son départ a laissé sa famille en état de choc et les entreprises qu'il dirigeait désemparés.
+[39] Selon la pièce A-4, il est évident que la situation financière de monsieur Hien Vohoang avait dèjà été meilleure et je n'ai aucune raison de ne pas accepter le fait que la succession était déficitaire dans les proportions établies dans l'inventaire soumis dans ce document. D'ailleurs, ce document illustre bien l'incompréhension de madame Nguyen à l'égard du but visé par ce document. Elle croyait qu'il s'agissait d'une proposition de paiement à Revenu Québec et à Revenu Canada alors qu'il s'agit d'une proposition de paiement des dettes de la succession à l'avocat et au notaire pour services rendus à la succession.
+[40] Chose certaine, cependant, c'est que les créanciers de feu monsieur Vohoang ont mis la main sur tous les actifs de la succession. La Caisse populaire a saisi la maison et le ministère du Revenu du Québec a saisi les meubles, les comptes de banque chez Canada Trust et le REER. Quant à la valeur des actions, elle a fondue avec la disparition des sociétés.
+[41] Selon la preuve entendue, la seule source d'argent liquide disponible pendant les mois suivant le décès de monsieur Vohoang était le produit de deux polices d'assurance-vie de plus de 350 000 $ payable à des bénéficiaires désignés. Cet argent, à mon avis, n'appartient pas à la succession et il était, à toutes fins pratiques, sous le contrôle de madame Vohoang. C'est durant cette période qu'elle a décidé, avec l'appui des associés de son défunt conjoint, d'investir de l'argent dans Speq Multimedia Inc. et de prêter de l'argent à cette société afin de permettre à celle-ci de poursuivre les recherches entreprises et de répondre aux exigences de la Commission des valeurs mobilières du Québec. J'accepte sans hésitation les explications de madame Nguyen en ce qui concerne l'ouverture du compte de la succession, à savoir que ce compte ne devait servir que pour les transactions de prêt et d'investissement auprès de Speq Multimedia Inc. et que le compte n'a rien à voir avec la succession de son défunt mari. C'est donc par erreur qu'Isabelle Vohoang a ouvert ce compte au nom de la succession de son défunt père. J'accepte également le fait qu'aucun montant d'argent déposé dans ce compte ne faisait partie du patrimoine successoral de son père. Madame Nguyen a aussi témoigné que le notaire de la succession n'était pas au courant de l'existence de ce compte. Compte tenu du rôle du notaire dans la liquidation de la succession (honoraires de 5 212,95 $ selon la pièce A-4), il me paraît évident que, si un véritable compte au nom de la succession avait été ouvert, il aurait été au courant.
+[42] À mon avis, il n'y avait aucune raison d'ouvrir ce compte au nom de la succession puisque tous les actifs de la succession ont été saisis et tous les frais accessoires associés à la succession ont été payés par madame Nguyen personnellement. Quant à la provenance des fonds déposés dans le compte de la succession, j'accepte sans hésitation la version de madame Nguyen voulant que cet argent provenait de son compte et de ceux de ses enfants à la Caisse populaire et qu'elle a tout simplement remboursé ses enfants au moyen des trois chèques en question qui, en passant, étaient tous les trois payables à la Caisse populaire qui ne les a pas endossés. Ces chèques auraient été déposés dans le compte des enfants selon l'envers des chèques et selon le témoignage de madame Nguyen que j'accepte également.
+[43] Je suis convaincu, selon la prépondérance des probabilités et malgré les apparences, qu'il ne s'agissait pas d'un compte ouvert pour les fins de la succession mais d'un compte ouvert pour le financement de Speq Multimedia Inc. et que ce compte a été libellé de cette façon par erreur. Les retraits de fonds de ce compte ne peuvent donc pas servir de fondement à l'établissement des cotisations en litige.
+[44] Il y aurait aussi lieu de savoir si, en l'espèce, les appelantes Huyen-Anh Nguyen et Isabelle Vohoang sont devenues, au sens de la Loi, les représentantes légales du contribuable, feu Hien Vohoang, de façon à engager leur responsabilité à l'égard de tout montant impayé par le contribuable en vertu de l'article 159 de la Loi.
+[45] Ayant déjà conclu que l'argent qui se trouvait dans le compte de la succession n'appartenait pas au patrimoine successoral de feu Hien Vohoang, il ne m'est pas nécessaire d'aborder cette question. Le seul fait qu'elles aient admis être les liquidatrices de la succession n'est pas en soi suffisant pour m'amener à conclure autrement étant donné que l'ensemble de la preuve me porte à croire que les deux appelantes en question ne semblaient pas comprendre la signification de l'expression « liquidateur de la succession » ni le rôle et les responsabilités qui y sont associés et leur témoignage ne m'a pas convaincu qu'elles ont agi effectivement à ce titre. La documentation déposée en preuve me paraît aussi insuffisante pour me permettre de conclure qu'elles ont effectivement assumé cette responsabilité. La proposition de paiement (pièce A-4) n'a jamais été homologuée. Les deux appelantes ont déclaré avoir accepté la succession de feu Hien Vohoang sous bénéfice d'inventaire par acte reçu devant le notaire le 13 décembre 1993 mais rien n'en découle et, à mon avis, elles n'ont jamais été nommées à titre de représentantes légales de la succession de feu Hien Vohoang.
+[46] À la lumière de mes conclusions, il n'est pas nécessaire de traiter des autres questions. Les appels sont accueillis et les cotisations sont annulées. Les appelants ont droit à un seul mémoire de frais.
+Signé, ce 12e jour de novembre 2010.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2010 CCI 503
+Nº DES DOSSIERS DE LA COUR : 2005-3320(IT)G, 2005-3322(IT)G,
+2005-3323(IT)G, 2005-3324(IT)G
+INTITULÉS DES CAUSES : Huyen-Anh Nguyen c. Sa Majesté La Reine
+Isabelle Vohoang c. Sa Majesté La Reine
+Fabrice Vohoang c. Sa Majesté La Reine
+Alexandre Vohoang c. Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATES DE L’AUDIENCE : les 7 et 8 juin 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 12 novembre 2010
+COMPARUTIONS :
+Avocat des appelants :
+Me Guy Matte
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Guy Matte
+Cabinet : Me. Fiscalex Inc.
+Montréal (Québec)
+Pour l’intimée : Kirvan J. Myles
+Sous-procureur général du Canada
+Ottawa, Canada

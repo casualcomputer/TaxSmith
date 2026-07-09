@@ -1,0 +1,133 @@
+---
+title: "Demeterio v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30287/index.do"
+last_modified: "2011-03-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 192"
+citation2: ""
+neutral_citation: "2011 TCC 192"
+decision_date: "2011-03-29"
+language: "en"
+item_id: "30287"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8056
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:43:15.182000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "12e41fa5117869a601117142fcdd734961b5b9adadd8cfe040adeea064046e69"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Demeterio v. The Queen
+
+- Citation: 2011 TCC 192
+- Decision date: 2011-03-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8056, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Demeterio v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-29
+Neutral citation
+2011 TCC 192
+File numbers
+2009-1834(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1834(IT)G
+BETWEEN:
+BERNARD DEMETERIO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 18, 2011 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Amit Ummat
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Income Tax Act for the 2002 and 2003 taxation years is dismissed.
+The respondent is entitled to costs.
+Signed at Ottawa, Canada this 29th day of March 2011.
+“J. M. Woods”
+Woods J.
+Citation: 2011 TCC 192
+Date: 20110329
+Docket: 2009-1834(IT)G
+BETWEEN:
+BERNARD DEMETERIO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Bernard Demeterio appeals with respect to assessments made under the Income Tax Act for the 2002 and 2003 taxation years. The issue is whether commissions received from selling life insurance contracts should be included in computing the appellant’s income in the year of receipt.
+[2] According to the reply, the Minister of National Revenue assumed that the appellant received insurance commissions in the amount of $63,655 in the 2002 taxation year and $110,092.05 in the 2003 taxation year.
+[3] These figures correspond to T4A slips issued by World Financial Group Security of Canada Inc. However, they do not include a further T4A slip received from the same company for 2003 in the amount of $1,228.15. I do not know the reason for this exclusion and it was not mentioned at the hearing.
+[4] The appellant submits that the commissions should not be taxable in the year of receipt. He submits that they are not income that has been earned but loans because they are required to be paid back if the life insurance policies are canceled within two years. He submits that the income should instead be recognized as the premiums become non-refundable in the two immediate taxation years following the year of receipt.
+[5] The respondent submits that the commissions have the quality of income in the year received and that they should be included in income pursuant to section 9 of the Act. Counsel refers in support to a case in which he says the facts are substantially the same: Destacamento v The Queen, 2009 TCC 242; 2009 DTC 1155.
+[6] I would agree with counsel that the facts in this case are similar to the facts in Destacamento. However, even if the appellant is correct that the amounts are only advances, the result is the same because unearned amounts must be included in income in the year of receipt. The relevant provision, paragraph 12(1)(a), reads:
+12(1) There shall be included in computing the income of a taxpayer for a taxation year as income from a business or property such of the following amounts as are applicable:
+(a) any amount received by the taxpayer in the year in the course of a business
+(i) that is on account of services not rendered or goods not delivered before the end of the year or that, for any other reason, may be regarded as not having been earned in the year or a previous year, or
+(ii) under an arrangement or understanding that it is repayable in whole or in part on the return or resale to the taxpayer of articles in or by means of which goods were delivered to a customer;
+(Emphasis added)
+[7] Where unearned amounts are required to be included in income under paragraph 12(1)(a), a reserve can usually offset the income inclusion by virtue of paragraph 20(1)(m). However, the reserve does not apply to commissions in respect of life insurance contracts by virtue of section 32 of the Act. This was confirmed by Destacamento.
+[8] The appellant argued that the result is unfair because he has been required to pay back a large portion of the commissions and he has no relief for the repayments.
+[9] The appellant did not provide any authority for the proposition that the repayments are not deductible. It seems odd that relief would not be available. However, even if there is no relief, this could not affect the outcome in this appeal because the legislation is clear.
+[10] The appellant also submits that the Canada Revenue Agency were negligent because the assessments were made after the normal reassessment period pursuant to a waiver. I think the argument is that interest costs could have been avoided if the CRA had issued the reassessments earlier. There is no relief that this Court can provide for this circumstance. Interest is a matter of discretionary relief by the CRA which can be reviewed by the Federal Court.
+[11] The appellant also submits that the waiver is unfair because he did not receive legal advice and he felt intimidated to sign it. The appellant is well educated and experienced in business. He may now feel that it was a mistake to sign the waiver but he must live with the consequences of having done so: Arpeg Holdings Ltd. v The Queen, 2008 FCA 31; 2008 DTC 6087.
+[12] The appeal will be dismissed, with costs to the respondent.
+Signed at Ottawa, Canada this 29th day of March 2011.
+“J. M. Woods”
+Woods J.
+CITATION: 2011 TCC 192
+COURT FILE NO.: 2009-1834(IT)G
+STYLE OF CAUSE: BERNARD DEMETERIO and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 18, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: March 29, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Amit Ummat
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

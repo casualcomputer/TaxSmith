@@ -1,0 +1,560 @@
+---
+title: "Wiens v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30267/index.do"
+last_modified: "2011-03-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 152"
+citation2: ""
+neutral_citation: "2011 TCC 152"
+decision_date: "2011-03-15"
+language: "en"
+item_id: "30267"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7976
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:45:53.979000+00:00"
+cases_cited_count: 8
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "99fcd1239133bab37e7d389ff5f215e52d3e3eed76a5ed478994e08160f63d60"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wiens v. The Queen
+
+- Citation: 2011 TCC 152
+- Decision date: 2011-03-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7976, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wiens v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-15
+Neutral citation
+2011 TCC 152
+File numbers
+2010-2625(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2625(IT)I
+BETWEEN:
+JOHN WIENS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 20, 2011 at Toronto, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Dan White
+Counsel for the Respondent:
+Samantha Hurst
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeals from the reassessments made under the Income Tax Act are allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) in determining the income of the Appellant for 2002, the Appellant’s income shall be reduced by the following amounts:
+Item
+Amount
+To adjust for the one-half interest of Kathryn Wiens in the property located at 22 Pembroke Road:
+($15,900)
+To adjust for the one-half interest of Kathryn Wiens in the property located at 428 Redonda Street:
+($1,128)
+To adjust for the amount paid by the insurance company to the contractors:
+($3,542)
+Total adjustments (reduction in the income of the Appellant):
+($20,570)
+(b) in determining the liability of the Appellant under the Act for income taxes for 2003, the amount of taxes payable by the Appellant for 2003 shall be reduced by the lesser of:
+(i) the amount by which his liability for income taxes under the Act would be reduced if his income was adjusted by the following amounts:
+Item
+Amount
+A reduction for the one-half interest of Kathryn Wiens in the property located at 1581 Rothesay Street:
+($15,136)
+A reduction for the one-half interest of Kathryn Wiens in the property located at 453 Phelan Road:
+($40,057)
+A reduction for the amount added as income from an adventure in nature of trade in relation to the sale of the property located at 165 Crestwood Crescent:
+($16,346)
+An addition to restore the amount claimed as a taxable capital gain:
+$7,500
+A reduction for the amount paid by the insurance company:
+($2,200)
+Total adjustments (reduction in the income of the Appellant):
+($66,239)
+and
+(ii) $12,000.
+Signed at Ottawa, Canada, this 15th day of March, 2011.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2011TCC152
+Date: 20110315
+Docket: 2010-2625(IT)I
+BETWEEN:
+JOHN WIENS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The Appellant’s appeals relate to the reassessment of his 2002 and 2003 taxation years. In both years amounts were added to his income in relation to a retail store that he operated as a sole proprietorship and in relation to certain sales of real property. The following were the amounts that were added to his income:
+2002
+2003
+Increase in income from the retail store:
+$42,028
+$2,667
+Increase in income from the sale of real property:
+$34,055
+$179,206
+Total increase to business income:
+$76,083
+$181,873
+Reduction for taxable capital gain claimed:
+($36,952)
+Write-down of closing inventory (Dec.22, 2008 reassessment):
+($6,160)
+($18,999)
+Net increase to income:
+$69,923
+$125,922
+[2] Section 18.12 of the Tax Court of Canada Act provides that:
+18.12 Where, before the start of the hearing of an appeal referred to in subsection 18(1), it appears to the Court that
+(a) the aggregate of all amounts in issue exceeds $12,000, or
+(b) the amount of the loss in issue exceeds $24,000,
+as the case may be, the Court shall order that sections 17.1 to 17.8 apply in respect of the appeal unless the appellant elects to limit the appeal to $12,000 or $24,000, as the case may be.
+[3] Section 2.1 of the Tax Court of Canada Act provides that:
+2.1 For the purposes of this Act, "the aggregate of all amounts" means the total of all amounts assessed or determined by the Minister of National Revenue under the Income Tax Act, but does not include any amount of interest or any amount of loss determined by that Minister.
+[4] Since no penalties were assessed under the Income Tax Act (the “Act”) against the Appellant, for the purposes of the Tax Court of Canada Act “the aggregate of all amounts” in this case would mean the taxes assessed under the Act. In Maier v. The Queen, [1994] T.C.J. No. 1260, Justice Garon (as he then was) held that the aggregate of all amounts in dispute means the aggregate amounts in dispute under a particular assessment (or reassessment) and not under a Notice of Appeal. When a Notice of Appeal relates to more than one assessment (or reassessment) the issue is not whether the total amounts in dispute under the Notice of Appeal exceed $12,000 but whether the total amounts in issue in relation to any particular assessment or reassessment exceeds $12,000. Therefore, if a person elects to limit an appeal to $12,000, the limitation will apply to each assessment (or reassessment) that is the subject of the appeal. In this case, the $12,000 limit will apply to the appeal from the reassessment of the Appellant’s liability for his 2002 taxation year and a separate $12,000 limit will apply to the appeal from the reassessment of the Appellant’s liability for his 2003 taxation year.
+[5] Since the net increase in the Appellant’s income for 2003 was $125,922, it appears that the aggregate of the taxes assessed under the Act that are in issue in relation to the reassessment for 2003 would be in excess of $12,000. At the commencement of the hearing I read the provisions of section 18.12 of the Tax Court of Canada Act to the agent for the Appellant and he confirmed that the Appellant was electing to limit the appeal for each year to $12,000. To that end the agent for the Appellant submitted a schedule with the title “Revised Statement of Amounts in Dispute” which listed the following:
+2002
+Business Income Real Estate
+Profit 22 Pembroke Road 31,799
+Profit 428 Redonda Street 2,257
+Business Income Dollar Store
+Insurance Proceeds 10,914
+Total Disputed Amount 2002 44,970
+2003
+Business Income Real Estate
+Profit Lot 2, Springfield 59,827
+Business Income Dollar Store
+Insurance Proceeds 2,200
+Total Disputed amount 2003 62,027
+[6] These real properties, as well as the other three real properties listed in the Reply for 2003, are all located in or near Winnipeg. The agent for the Appellant had indicated that the evidence in relation to the real property transactions would be limited to the properties listed in this schedule. However since the agent did not ask either one of the two witnesses any questions in relation to these three properties, the purpose of this schedule is simply to illustrate that the Appellant’s agent had turned his mind to the restriction imposed on an appeal under the informal procedure whereby the amount in dispute (taxes and, if applicable, penalties assessed under the Act) is limited to $12,000. There is also a copy of a letter in the Court file that was sent to the agent for the Appellant on October 21, 2010 from the Department of Justice that raises this issue of the limitation of the amount in dispute in an appeal under the informal procedure to $12,000 and indicating that the Appellant could have the appeal heard under the general procedure without limits.
+[7] It is clear that the Appellant and his agent have received adequate notification of the limitations related to appeals under the informal procedure and that the Appellant has elected to limit the amount of taxes in dispute for each year to $12,000. As a result, the hearing continued under the Informal Procedure.
+[8] There were only two witnesses who testified at the hearing – the Appellant and his spouse. An issue arose during the re-examination by the agent for the Appellant of his witnesses. Counsel for the Respondent objected to questions that the agent was asking of each witness during the re-examination of such witness by the agent for the Appellant on the basis that:
+MS. HURST: In my submission, reply is directed at issues that were raised in cross that the Appellant could not have known in chief.
+[9] This was an informal procedure hearing and I allowed the agent to ask questions on re-examination of a witness in relation to matters that were raised during the cross-examination of that witness but which had not been addressed during the direct examination of that witness.
+[10] In R. v. Evans, [1993] 2 S.C.R. 629, 104 D.L.R. (4th) 200, Justice Cory writing on behalf of a majority of the Justices of the Supreme Court of Canada, stated as follows:
+Should the Question Have Been Permitted on Re-examination
+37 Even though it has been determined that the evidence was admissible, it remains to be seen whether the question should have been permitted on re‑examination.
+38 The issue is put very well by E. G. Ewaschuk in Criminal Pleadings & Practice in Canada, 2nd ed., in these words at p. 16.29, para. 16:2510:
+Questions permitted as of right on re-examination must relate to matters arising out of the cross-examination which deal with new matters, or with matters raised in examination-in-chief which require explanation as to questions put and answers given in cross-examination.
+[Emphasis added by Justice Cory.]
+Generally speaking, the right to re-examine must be confined to matters arising from the cross-examination. As a general rule new facts cannot be introduced in re‑examination. See R. v. Moore (1984), 15 C.C.C. (3d) 541 (Ont. C.A.), per Martin J.A. In this case, the cross-examination of Linda Sample referred to her statements to police about the appellant. The police interview of December 30 was specifically alluded to during the cross-examination and had not been dealt with in-chief. It was in response to this cross examination that Linda Sample stated that, from the time of that meeting, she suspected the appellant of committing the crime. It would seem that the Crown had the right to re-examine Linda Sample as to precisely what she told the police at that time with regard to the appellant. It was a subject that had not been raised in the examination in chief but arose from the cross-examination. The trial judge erred in failing to allow re-examination on this point.
+(emphasis added)
+[11] It seems to me that when the witness was being examined in chief the Crown would have known (or could have known if the Crown would have asked the police) about the police interview with the witness. Not having referred the witness during the examination-in-chief to her statements that she had made to the police should not have prevented the Crown from asking that witness questions about her statements during the re-examination of that witness because the matter was raised during the cross-examination of the witness. Therefore, even though a matter was not raised during examination-in-chief of a witness, if that matter is raised during cross-examination of that witness, the witness can be re-examined in relation to that matter following cross-examination, even though the agent or counsel who called the witness would have (or could have) known about the matter prior to the cross‑examination of that witness.
+[12] In The Law of Evidence in Canada (third edition) by Justice Bryant, Justice Lederman, and Justice Fuerst all of the Superior Court of Justice for Ontario, it is stated at page 1164 as follows:
+VII. RE-EXAMINATION
+§16.183 The purpose of re-examination is to enable the witness to explain and clarify relevant testimony which may have been weakened or obscured in cross-examination. The witness is not ordinarily allowed to supplement the examination-in-chief by introducing new facts which were not covered in cross-examination.* The general rule is that re-examination must be confined to matters which arose out of cross-examination.*
+§16.184 The right to re-examine, however, extends to rehabilitation of the credibility of the witness which may have been impaired in cross-examination. This includes the right to ask the witness to explain or clarify discrepancies between the witness’ evidence-in-chief and cross-examination.* In addition, this may entail the introduction of a previous consistent statement to rebut the suggestion that the witness’ evidence was a recent contrivance.*
+§16.185 In addition to the right to re-examine, the trial judge has a discretion to permit re-examination in circumstances that do not accord with the principles stated above. It is a discretion that is to be exercised sparingly, but extends to permit re-examination on matters not touched on in cross-examination which may, through oversight, have been omitted in chief. In such cases, the opposing party will have a further right to cross-examine the witness.*…
+(* denotes a footnote reference that is in the text but which has not been included.)
+[13] Therefore even if a matter has not been addressed during the examination-in-chief or during the cross-examination of a witness, it is still possible to permit the matter to be addressed during re-examination, with the opposing party having the right to a further cross-examination of the witness.
+[14] The Appellant’s tax liability for 2002 was originally assessed on October 14, 2003 and the Appellant’s tax liability for 2003 was originally assessed on May 25, 2004. The Appellant was reassessed to include the additional income referred to above by notices of reassessment dated August 30, 2007. The notices of reassessment were issued after the expiration of the normal reassessment period as defined in subsection 152(3.1) of the Act. Subsection 152(4) of the Act provides, in part, that:
+(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer's normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+(ii) has filed with the Minister a waiver in prescribed form within the normal reassessment period for the taxpayer in respect of the year;
+[15] A waiver in respect of “Business Income & Expenses & Real Estate Transactions” for the 2002 taxation year of the Appellant was dated October 10, 2006. The Appellant acknowledged that the signature on the form appeared to be his signature but he stated that he has no recollection of signing the waiver. No waiver was submitted in respect of the 2003 taxation year.
+[16] The Appellant was not well in 2006. He described his condition as follows:
+Q. Mr. Wiens, I was asking you: Do you recall where you were and what you were doing on October 10, 2006?
+A. I was either in the hospital or out for a few days or on day passes or so on. I was awaiting surgery.
+Q. Can you describe what type of surgery you were waiting to do?
+A. I was going to take out my spleen. They said it was in danger of a spontaneous rupture. They wanted to diagnose it or something. I don't understand what the doctors do.
+Q. Were you physically ill as a result of this?
+A. Yes.
+Q. Were you on medication?
+A. A lot of it.
+Q. Do you recall what that medication was?
+A. Some of them were narcotics, but I know you have to get a special prescription. If I was in the hospital I would get a whole bunch of pills. My wife knew more of what I was taking at home. It would be a shot glass of a whole bunch of different stuff. I don't know exactly what everything was.
+Q. Would you say that you were your normal self and functioning mentally properly at that time?
+A. I couldn't drive. They told me that with the drugs I was on I couldn't operate a motor vehicle.
+Q. Were you dealing with your tax matters at that time?
+A. No.
+…
+Q. In regard to taxes, to your mental and physical state, your ability to make decisions; all that stuff.
+A. My wife described me as a vegetable. I remember getting a call when I was in the hospital ‑‑ I think it was in July ‑‑ or it was a message from a nurse to call the auditor. I asked my wife if she could get the accountant at that time or a bookkeeper to take care of it. As days went on, I got worse and worse. I was on more and more drugs, so I didn't know what I was doing. I couldn't operate a car. I couldn't even walk.
+Q. Carry on.
+A. My mental condition, I was probably close to how my wife described me. I didn't know what I was doing. I didn't know anything.
+…
+Q. How far back do we go before you had your normal clarity of thought? If we took October 10 as a benchmark, when did you start having your memory and thinking capacity affected by your illness? That is what I'm trying to establish.
+A. I know I was admitted to the hospital in late July, I think it was, of 2006, and I stayed there for a long time. While I was there I was in pretty bad shape. Previous to that when we were having all the problems with the store, I think I probably had some kind of nervous problem because I was not very well there. You can imagine the effect if someone's house is broken into once or so or twice, three times, five times, I don't even know how many times it was. It was a big stress. I was paranoid, I guess. I didn't know what was going on.
+Q. What would you say your capacity was to look after your own affairs ‑‑ especially around the audit ‑‑ during that period of time?
+A. None.
+Q. Who was looking after your affairs?
+A. An accountant named Kathy Currie. I'm not sure if she is an accountant or a bookkeeper.
+[17] In Nguyen v. The Queen, 2005 TCC 697, [2007] 5 C.T.C. 2654, Justice Dussault of this Court dealt with a waiver of a right to appeal that the taxpayer had signed but was subsequently challenging. Justice Dussault made the following comments:
+32 The Appellant therefore accepted a settlement which he surely believed was in his favour at the time, and assessments were done based on that settlement, that is, with no penalty. He waived his right to object and appeal in respect of the expenses the deduction of which was disallowed for the years 1997, 1998 and 1999. He did not offer any compelling evidence showing that he was unable, for reasons related to his origin or language, to understand the consequences of his waiver or that tax officials tried to mislead him, threaten him or apply undue pressure in connection with the waiver. Subsections 165(1.2) and 169(2.2) of the Act sanction such waivers.
+33 It is clear to me that a waiver of the right to object and appeal signed by a taxpayer cannot be set aside except on a preponderance of evidence that the taxpayer did not freely consent to the waiver or was unduly pressured. I do not believe such evidence was put forward in this instance.
+[18] It seems to me that the same principles should apply to a waiver of the normal reassessment period as would apply to a waiver of the right to object and appeal. Justice Dussault referred to setting aside a waiver on “a preponderance of evidence”. As a result of the decision of the Supreme Court of Canada in F.H. v. McDougall, referred to below, it seems me that there is only one standard of proof and therefore the waiver in this case cannot be set aside unless the Appellant establishes on a balance of probabilities the he did not freely consent to the waiver[1]. The question of whether a person has consented would include the issue of whether the person had the capacity to consent. In Chitty on Contracts (twenty-ninth edition) at page 579, it is stated that:
+Contractual incapacity. The incapacity of one or more of the contracting parties may defeat an otherwise valid contract. Prima facie, however, the law presumes that everyone has a capacity to contract; so that, where exemption from liability to fulfil an obligation is claimed by reason of want of capacity, this fact must be strictly established on the part of the person who claims the exemption.
+[19] It also seems to me that these comments should apply to the waiver in this case and would also apply to any alleged incapacity arising as a result of any medication that the Appellant was taking at the time, subject to the qualification that the reference to “strictly established” does not impose a standard of proof that is different from a balance of probabilities or impose a requirement on the trial Judge to scrutinize evidence more carefully than such trial Judge would in other civil matters. Based on the decision of the Supreme Court of Canada in F.H. v. McDougall, referred to below, since the Appellant is claiming that he is not bound by the waiver, the Appellant will need to establish on a balance of probabilities that he did not have the requisite capacity to execute the waiver on October 10, 2006.
+[20] However, in this case it is not at all clear whether the Appellant was in the hospital on October 10, 2006. No records from the hospital were introduced to show the date that he was admitted to the hospital or discharged from the hospital. His recollection was that he was admitted in late July 2006 and that he “stayed there for a long time”. A long time is very subjective and of little assistance in determining whether he was still in the hospital on October 10, 2006. For some people a couple of weeks in a hospital may be a long time.
+[21] It is also not clear what medication he was actually taking on October 10, 2006 or what his capacity was on that date to understand the nature of the document that he was signing. Simply not remembering that he had signed the document is not sufficient. It seems to me that testimony from medical experts would have been important in relation to the capacity of the Appellant on October 10, 2006 if the Appellant wanted to establish that he lacked the capacity to understand the nature of the document that he was signing on that particular day.
+[22] In relation to the onus of proof, Justice Rothstein, writing on behalf of the Supreme Court of Canada, in F.H. v. McDougall, [2008] 3 S.C.R. 41 stated that:
+(4) The Approach Canadian Courts Should Now Adopt
+40 Like the House of Lords, I think it is time to say, once and for all in Canada, that there is only one civil standard of proof at common law and that is proof on a balance of probabilities. Of course, context is all important and a judge should not be unmindful, where appropriate, of inherent probabilities or improbabilities or the seriousness of the allegations or consequences. However, these considerations do not change the standard of proof. …
+…
+44 …. As Lord Hoffmann explained in In re B at para. 2:
+If a legal rule requires a fact to be proved (a "fact in issue"), a judge or jury must decide whether or not it happened. There is no room for a finding that it might have happened. The law operates a binary system in which the only values are zero and one. The fact either happened or it did not. If the tribunal is left in doubt, the doubt is resolved by a rule that one party or the other carries the burden of proof. If the party who bears the burden of proof fails to discharge it, a value of zero is returned and the fact is treated as not having happened. If he does discharge it, a value of one is returned and the fact is treated as having happened.
+In my view, the only practical way in which to reach a factual conclusion in a civil case is to decide whether it is more likely than not that the event occurred.
+45 To suggest that depending upon the seriousness, the evidence in the civil case must be scrutinized with greater care implies that in less serious cases the evidence need not be scrutinized with such care. I think it is inappropriate to say that there are legally recognized different levels of scrutiny of the evidence depending upon the seriousness of the case. There is only one legal rule and that is that in all cases, evidence must be scrutinized with care by the trial judge.
+46 Similarly, evidence must always be sufficiently clear, convincing and cogent to satisfy the balance of probabilities test. But again, there is no objective standard to measure sufficiency. In serious cases, like the present, judges may be faced with evidence of events that are alleged to have occurred many years before, where there is little other evidence than that of the plaintiff and defendant. As difficult as the task may be, the judge must make a decision. If a responsible judge finds for the plaintiff, it must be accepted that the evidence was sufficiently clear, convincing and cogent to that judge that the plaintiff satisfied the balance of probabilities test.
+47 Finally there may be cases in which there is an inherent improbability that an event occurred. Inherent improbability will always depend upon the circumstances. As Baroness Hale stated in In re B, at para. 72:
+Consider the famous example of the animal seen in Regent's Park. If it is seen outside the zoo on a stretch of greensward regularly used for walking dogs, then of course it is more likely to be a dog than a lion. If it is seen in the zoo next to the lions' enclosure when the door is open, then it may well be more likely to be a lion than a dog.
+48 Some alleged events may be highly improbable. Others less so. There can be no rule as to when and to what extent inherent improbability must be taken into account by a trial judge. As Lord Hoffmann observed at para. 15 of In re B:
+Common sense, not law, requires that in deciding this question, regard should be had, to whatever extent appropriate, to inherent probabilities.
+It will be for the trial judge to decide to what extent, if any, the circumstances suggest that an allegation is inherently improbable and where appropriate, that may be taken into account in the assessment of whether the evidence establishes that it is more likely than not that the event occurred. However, there can be no rule of law imposing such a formula.
+(5) Conclusion on Standard of Proof
+49 In the result, I would reaffirm that in civil cases there is only one standard of proof and that is proof on a balance of probabilities. In all civil cases, the trial judge must scrutinize the relevant evidence with care to determine whether it is more likely than not that an alleged event occurred.
+(emphasis added)
+[23] While the Appellant might have lacked the capacity to execute a valid waiver on October 10, 2006, this is not sufficient. The Appellant must establish that it was more likely than not that the Appellant lacked the requisite capacity on October 10, 2006 to consent to the waiver. The Appellant has failed to establish that it was more likely than not that on October 10, 2006 the Appellant lacked the requisite capacity to execute a valid waiver and therefore I find that the waiver is valid and the Respondent had the right to reassess the Appellant for 2002.
+[24] In Hickman Motors Ltd. v. Her Majesty the Queen, [1997] S.C.J. No. 62, Justice L’Heureux-Dubé of the Supreme Court of Canada made the following comments in relation to an Appellant's onus of “demolishing” the Minister’s assumptions:
+92 … The Minister, in making assessments, proceeds on assumptions (Bayridge Estates Ltd. v. Minister of National Revenue (1959), 59 D.T.C. 1098 (Can. Ex. Ct.), at p. 1101) and the initial onus is on the taxpayer to “demolish” the Minister's assumptions in the assessment (Johnston v. Minister of National Revenue, [1948] S.C.R. 486 (S.C.C.); Kennedy v. Minister of National Revenue (1973), 73 D.T.C. 5359 (Fed. C.A.), at p. 5361). The initial burden is only to “demolish” the exact assumptions made by the Minister but no more: First Fund Genesis Corp. v. R. (1990), 90 D.T.C. 6337 (Fed. T.D.), at p. 6340.
+93 This initial onus of “demolishing” the Minister's exact assumptions is met where the Appellant makes out at least a prima facie case: Kamin v. Minister of National Revenue (1992), 93 D.T.C. 62 (T.C.C.); Goodwin v. Minister of National Revenue (1982), 82 D.T.C. 1679 (T.R.B.). In the case at bar, the Appellant adduced evidence which met not only a prima facie standard, but also, in my view, even a higher one. In my view, the Appellant “demolished” the following assumptions as follows: (a) the assumption of “two businesses”, by adducing clear evidence of only one business; (b) the assumption of “no income”, by adducing clear evidence of income. The law is settled that unchallenged and uncontradicted evidence “demolishes” the Minister's assumptions: see for example MacIsaac v. Minister of National Revenue (1974), 74 D.T.C. 6380 (Fed. C.A.), at p. 6381; Zink v. Minister of National Revenue (1987), 87 D.T.C. 652 (T.C.C.). As stated above, all of the Appellant's evidence in the case at bar remained unchallenged and uncontradicted. Accordingly, in my view, the assumptions of “two businesses” and “no income” have been “demolished” by the Appellant.
+94 Where the Minister's assumptions have been “demolished” by the Appellant, “the onus shifts to the Minister to rebut the prima facie case” made out by the Appellant and to prove the assumptions: Magilb Development Corp. v. Minister of National Revenue (1986), 87 D.T.C. 5012 (Fed. T.D.), at p. 5018. Hence, in the case at bar, the onus has shifted to the Minister to prove its assumptions that there are “two businesses” and “no income”.
+95 Where the burden has shifted to the Minister, and the Minister adduces no evidence whatsoever, the taxpayer is entitled to succeed: see for example MacIsaac, supra, where the Federal Court of Appeal set aside the judgment of the Trial Division, on the grounds that (at pp. 6381-2) the “evidence was not challenged or contradicted and no objection of any kind was taken thereto”. See also Waxstein v. Minister of National Revenue (1980), 80 D.T.C. 1348 (T.R.B.); Roselawn Investments Ltd. v. Minister of National Revenue (1980), 80 D.T.C. 1271 (T.R.B.). Refer also to Zink v. Minister of National Revenue, supra, at p. 653, where, even if the evidence contained “gaps in logic, chronology and substance”, the taxpayer's appeal was allowed as the Minster failed to present any evidence as to the source of income. I note that, in the case at bar, the evidence contains no such “gaps”. Therefore, in the case at bar, since the Minister adduced no evidence whatsoever, and no question of credibility was ever raised by anyone, the Appellant is entitled to succeed.
+96 In the present case, without any evidence, both the Trial Division and the Court of Appeal purported to transform the Minister's unsubstantiated and unproven assumptions into “factual findings”, thus making errors of law on the onus of proof. My colleague Iacobucci J. defers to these so-called “concurrent findings” of the courts below, but, while I fully agree in general with the principle of deference, in this case two wrongs cannot make a right. Even with “concurrent findings”, unchallenged and uncontradicted evidence positively rebuts the Minister's assumptions: MacIsaac, supra. As Rip T.C.J., stated in Gelber v. Minister of National Revenue (1991), 91 D.T.C. 1030 (T.C.C.), at p. 1033, “[the Minister] is not the arbiter of what is right or wrong in tax law”. As Brulé T.C.J., stated in Kamin, supra, at p. 64:
+the Minister should be able to rebut such [prima facie] evidence and bring forth some foundation for his assumptions.
+…
+The Minister does not have a carte blanche in terms of setting out any assumption which suits his convenience. On being challenged by evidence in chief he must be expected to present something more concrete than a simple assumption. [Emphasis added by Justice L’Heureux Dubé]
+[25] The British Columbia Court of Appeal in Northland Properties Corp. v. British Columbia, 2010 BCCA 177, 319 D.L.R. (4th) 334 commented on this decision of Justice L’Heureux Dubé and stated that:
+26 The use of "demolish" has carried through to the present: see Hickman at para. 92; or, most recently, in Norton v. Canada, 2010 TCC 62 at para. 59. The choice of word is unfortunate, because it tends to cloud the actual nature of the standard of proof. "Demolishing" does not imply a higher standard, and, in that regard, the careful statement of McQuaid J.A. in Island Telecom Inc. v. P.E.I. (Regulatory and Appeals Commission) (1999), 176 D.L.R. (4th) 356 (P.E.I.C.A.) at para. 22 is apposite:
+[22] ... Once ... the assumptions have been "demolished" or, to express it somewhat less emphatically, once the taxpayer discharges the ... burden of showing that the facts or assumptions relied upon by the assessor are incorrect, ... [Emphasis added.]
+27 The standard of proof in discharging this burden is nothing more or less than the balance of probabilities. As Justice Lowry stated in Trac (at para. 30):
+[30] ... The act of "demolishing" a ministerial assumption entails proving on the balance of probabilities the material facts that are within the taxpayer's knowledge if those facts do not support the assumption.
+28 Additional confusion about the standard flowed from Justice L'Heureux-Dubé's use of "prima facie case" in Hickman (at paras. 92-95):
+[92] ... The Minister, in making assessments, proceeds on assumptions ... and the initial onus is on the taxpayer to "demolish" the Minister's assumptions in the assessment .... The initial burden is only to "demolish" the exact assumptions made by the Minister but no more ....
+[93] This initial onus of "demolishing" the Minister's exact assumptions is met where the appellant makes out at least a prima facie case: Kamin v. M.N.R., 93 D.T.C. 62 (T.C.C.); Goodwin v. M.N.R., 82 D.T.C. 1679 (T.R.B.). In the case at bar, the appellant adduced evidence which met not only a prima facie standard, but also, in my view, even a higher one. In my view, the appellant "demolished" the following assumptions as follows: (a) the assumption of "two businesses", by adducing clear evidence of only one business; (b) the assumption of "no income", by adducing clear evidence of income. The law is settled that unchallenged and uncontradicted evidence "demolishes" the Minister's assumptions: see for example MacIsaac v. M.N.R., 74 D.T.C. 6380 (F.C.A.), at p. 6381; Zink v. M.N.R., 87 D.T.C. 652 (T.C.C.). As stated above, all of the appellant's evidence in the case at bar remained unchallenged and uncontradicted. Accordingly, in my view, the assumptions of "two businesses" and "no income" have been "demolished" by the appellant.
+[94] Where the Minister's assumptions have been "demolished" by the appellant, "the onus ... shifts to the Minister to rebut the prima facie case" made out by the appellant and to prove the assumptions: Magilb Development Corp. v. The Queen, 87 D.T.C. 5012 (F.C.T.D.), at p. 5018. Hence, in the case at bar, the onus has shifted to the Minister to prove its assumptions that there are "two businesses" and "no income".
+[95] Where the burden has shifted to the Minister, and the Minister adduces no evidence whatsoever, the taxpayer is entitled to succeed: see for example MacIsaac, supra, where the Federal Court of Appeal set aside the judgment of the Trial Division, on the grounds that (at p. 6381) the "evidence was not challenged or contradicted and no objection of any kind was taken thereto". See also Waxstein v. M.N.R., 80 D.T.C. 1348 (T.R.B.); Roselawn Investments Ltd. v. M.N.R., 80 D.T.C. 1271 (T.R.B.). Refer also to Zink, supra, at p. 653, where, even if the evidence contained "gaps in logic, chronology, and substance", the taxpayer's appeal was allowed as the Minister failed to present any evidence as to the source of income. I note that, in the case at bar, the evidence contains no such "gaps". Therefore, in the case at bar, since the Minister adduced no evidence whatsoever, and no question of credibility was ever raised by anyone, the appellant is entitled to succeed. [Emphasis in original removed.]
+29 Before us, counsel for the Crown made persuasive submissions on the issue of the so-called "prima facie" standard: L'Heureux-Dubé J.'s use of "prima facie" was made in the context of a case in which the Crown had not called any evidence whatsoever; it was relying solely on its assumptions. It is certainly possible in such circumstances that a prima facie case, or even one with "gaps", would be sufficient to displace the Crown's assumptions, but the prima facie standard described by Justice L'Heureux-Dubé should not be interpreted as having altered the usual standard of proof in tax cases: see the comments in Sekhon v. Canada, [1997] T.C.J. No. 1145 at para. 37; and Hallat v. The Queen (2000), [2001] 1 C.T.C. 2626 (F.C.A.).
+30 The other potentially confusing aspect of Hickman was Justice L'Heureux-Dubé's statement (at para. 92) that the "initial burden [on the taxpayer] is only to 'demolish' the exact assumptions made by the Minister but no more: First Fund Genesis Corp. v. The Queen, 90 D.T.C. 6337 (F.C.T.D.), at p. 6340." [Emphasis in original.]
+31 This statement is consonant with the taxpayer's initial legal burden: The taxpayer's only task is to rebut the Minister's assumptions so that the Minister does not have the benefit of the assumption. If the Minister adduces alternate evidence to support the assessment then there is a tactical burden on the taxpayer to challenge it, but, in theory, the taxpayer need do "no more" than bring evidence to unseat the assumptions.
+32 The taxpayer has a number of ways of meeting the Minister's assumptions: Pillsbury at 5188. The taxpayer may
+(a) challenge the Minister's allegation that he did assume those facts,
+(b) assume the onus of showing that one or more of the assumptions was wrong, or
+(c) contend that, even if the assumptions were justified, they do not of themselves support the assessment.
+33 In response to the taxpayer's submissions, the Crown may adduce its own evidence to prove either that the assumptions are correct or to show that, even without relying on the assumptions, the assessment is nevertheless valid: Pillsbury at 5188; Pollock at 6053. The Crown may also challenge the taxpayer's evidence, either on cross-examination, or by raising serious issues of credibility. A court may draw a negative inference "from the taxpayer's failure to adduce material evidence in the taxpayer's possession or control" and conclude the taxpayer has not met its initial burden of disproving one or more of the assumptions: Trac at para. 31. Once all the evidence is in, the judge must weigh it and first determine whether the taxpayer has met the initial legal burden with respect to the assumptions. If the taxpayer has failed to meet its burden, then the Crown need not go on to discharge its conditional legal burden because the precondition has not been met.
+34 If the taxpayer has successfully discharged its legal burden with regard to an assumption, the Crown may not rely on that assumption in attempting to prove the validity of the assessment. If unproven assumptions are necessary to the assessment, the taxpayer will succeed. Assumptions not disproven are deemed facts which, if sufficient to establish the Minister's case, will cause the appeal to fail.
+35 In summary form, the proper approach on the appeal of a tax assessment may be described thus:
+i. What are the assumptions?
+ii. Have some or all of the assumptions been disproven? (i.e., has the taxpayer discharged the initial legal burden?)
+iii. If the taxpayer has successfully discharged the initial legal burden, then has the Crown shown that the assessment is valid? (i.e., has the Crown discharged the conditional legal burden?)
+[26] It seems to me that the conclusion to be drawn is simply that the Appellant has the initial onus of proving on a balance of probabilities (i.e. that it is more likely than not), that any of the assumptions that were made by the Minister in assessing (or reassessing) the Appellant with which the Appellant does not agree, are not correct. This is a general rule and there are exceptions if the assumption that is made is related to a matter which is within the knowledge of the Minister. In the decision of the Federal Court of Appeal in The Queen v. Anchor Pointe Energy Ltd., 2007 FCA 188, Létourneau J.A. stated that:
+[35] It is trite law that, barring exceptions, the initial onus of proof with respect to assumptions of fact made by the Minister in assessing a taxpayer’s liability and quantum rests with the taxpayer. ...
+[36] I agree with Bowman A.C.J.T.C., as he then was, that there may be instances where the pleaded assumptions of facts are exclusively or peculiarly within the Minister’s knowledge and that the rule as to the onus of proof may work so unfairly as to require a corrective measure: see Holm et al. v. The Queen, supra, at paragraph 20.
+[27] This is not a case “where the pleaded assumptions of facts are exclusively or peculiarly within the Minister’s knowledge and that the rule as to the onus of proof may work so unfairly as to require a corrective measure”. Therefore the Appellant in this case has the initial onus of proving that any assumptions, that were made in reassessing the Appellant for 2002 with which the Appellant does not agree, are not correct. There are two items in dispute in relation to the reassessment of the Appellant’s 2002 tax liability. One is related to the real property transactions and the other is related to the amounts paid by the insurance company in relation to claims filed by the Appellant.
+[28] The real property transactions that have resulted in the reassessment of the Appellant for 2002 are the following:
+Property
+22 Pembroke Road
+428 Redonda Street
+Date purchased:
+February 15, 2002
+September 11, 2002
+Date sold:
+August 16, 2002
+December 13, 2002
+Total cost:
+$90,520
+$81,486
+Net Proceeds of sale:
+$122,319
+$83,725
+Gain:
+$31,799
+$2,257[2]
+[29] The first property was held for approximately six months and the second for approximately three months. It is the position of the Appellant that any gain realized on the sale of these properties is income of his daughter. If any gain is income of his daughter, then it will not matter whether the gain is a capital gain or an income gain as only the reassessment of the Appellant is in issue in this case. How his daughter should have reported such gain (if such gain should have been reported by her) is not in issue in this case.
+[30] It is the position of the Respondent that the gains realized on the sales of these two properties in 2002 were income gains of the Appellant.
+[31] The Appellant and his spouse have three children. Their daughter, Jessalyn, would have been 20 years old in 2002. Their other two children would have been 17 and 13 in 2002. Jessalyn Wiens graduated from high school in 2001 and worked part‑time at Smitty’s restaurant and the retail store operated by the Appellant. It was assumed in the Reply that Jessalyn Wiens was paid $4,000 for working at the store in 2002 and the Appellant has not established that this assumption was not correct. She was living with the Appellant in 2002 prior to the purchase of the Pembroke Road property.
+[32] It is the position of the Appellant that the money required to purchase the property located at 22 Pembroke Road was advanced to Jessalyn Wiens from a line of credit that the Appellant and his spouse had with CIBC. It is not clear whether the amount advanced from the line of credit was the full purchase price of $90,520 (including repairs and improvements) or a down payment amount (with the balance being financed from another loan). Jessalyn Wiens graduated from high school in 2001. The property at 22 Pembroke Road was acquired on February 15, 2002 which was before she started working at the retail store operated by the Appellant. The Appellant did not start operating the retail store until July 2002. Therefore it appears that the only income that Jessalyn Wiens had from the end of June 2001 (when she graduated from high school) to mid February 2002, would have been whatever income she earned from her job at Smitty’s restaurant. It is more likely than not that Jessalyn Wiens did not have any money to apply towards the purchase of the property located at 22 Pembroke Road.
+[33] The Appellant introduced a letter from Currie Accounting Services Ltd. to the Canada Revenue Agency. Attached to this letter is a schedule that is identified as “Jessalyn Wiens Real Estate Transactions 2002 & 2003”. This schedule appears to list various amounts borrowed by and repaid by Jessalyn Wiens. However, as noted above, only two witnesses testified at the hearing. The first witness, the Appellant’s spouse, did not address this schedule. The only testimony related to this schedule was that of the Appellant. His testimony in relation to this schedule was as follows:
+Q. Mr. Wiens, if you could take a look at the last page I was about to ask you something on where it is entitled across the top "Jessalyn Wiens Real Estate Transactions 2002, 2003". It's the third page of the last exhibit. The bottom number on the right hand corner is 245. We had some discussion earlier, and I think we came to the agreement that this was prepared by your previous accountant. My first question to you is: Have you seen this before?
+A. No.
+Q. Can you read what "Explanations" says, and what that means to you, just to get familiar? For instance, the first line under "Explanations", the "Borrowed from dad for downpayment on first house," what would that mean to you?
+A. There, there is $10,000 so that must have been a loan to her.
+Q. Do you see on the far right "Balance owed to dad, $10,000"? Would that seem to be about how loaning your money to your daughter was handled?
+A. Yes. I have never seen this before, but it seems to be something dealing with loans for houses.
+Q. As you read down, you see that money was paid out to various parties. As it is paid out down the right side of the page, it appears that the balance owing to dad keeps increasing. Do you see that?
+A. Yes.
+Q. If we get right down to the bottom and we look underneath the trust account and it says the trust account balance is zero, it says the total paid back is $105,907.35 and then "Final balance to dad" was $97,013.80. That is what it says there. If you look at that and then you look at the bottom, immediately below that it says "Total borrowed $148,000 and some. Total paid back, $245,000 and some". That would appear to take us to the last statement, "September 30, 2003, Dad holding $97,000 to purchase house in Lorette". Did that money go to your daughter to buy the house in Lorette?
+A. I think the house in Lorette was $75,000 but there were some improvements also done there, and they didn't have money. I think they had a new baby then when they moved in. It's foggy. They didn't have a lot of money. Between me and my daughter, we didn't keep this type of accounting. It looks like somebody put a lot of work into this. They are probably missing something. Between a father and a daughter, everyone knows you are not going to strictly make her pay back everything she owes or not give her money when she needs it. It is very loose accounting between me and her; between me and my wife and her. Someone spent a lot of time going into specifics. I agree ‑‑ and I'm sure Jessie would agree too ‑‑ that we were even after that house.
+[34] Since the first time that the Appellant saw this schedule was during the hearing this schedule was obviously not prepared by the Appellant or reviewed by the Appellant during 2002 or at any other time prior to the hearing. As well since the Appellant stated that he and his daughter did not “keep this type of accounting” it raises questions about whether it really was the intention of the Appellant that he intended to create a debtor / creditor relationship with Jessalyn Wiens. His statement that “everyone knows you are not going to strictly make her pay back everything she owes” confirms that he did not intend to create an enforceable obligation on the part of Jessalyn Wiens to repay amounts used to purchase properties that were put in her name. If they would have intended to create an enforceable obligation, then presumably they would have maintained a schedule similar to the one submitted at the hearing.
+[35] I find that there was no intention to create an enforceable obligation for Jessalyn Wiens to repay amounts used to purchase the properties that were in her name.
+[36] During cross-examination of the Appellant, the following exchange took place:
+Q. You are saying to us today that it is Jessalyn who owns these properties. Do you agree with me so far?
+A. I'm saying it was Jessalyn?
+Q. Yes.
+A. The land title said it was Jessalyn's.
+Q. Your evidence today is that it was Jessalyn. Would you agree with that?
+A. As far as I know, yes.
+[37] The registration of the title at the applicable registry office would simply relate to the legal title to the property. For the purposes of this appeal the issue is whether Jessalyn Wiens was the beneficial owner of the property, not whether she was the legal owner of the property.
+[38] Jessalyn Wiens had no money to contribute towards the purchase of the property located at 22 Pembroke Road, which was the first property that was acquired in 2002. The only evidence at the hearing was that the line of credit was used to finance the purchase of the houses in 2002. The line of credit was a personal line of credit of the Appellant and his spouse. A copy of the statement for the line of credit dated July 10, 2002 was introduced at the hearing. This statement shows that as of June 8, 2002 the amount outstanding under this line of credit was $91,307 which was slightly more than the total cost of the property located at 22 Pembroke Road. This was also approximately one month before the retail store opened and approximately four months after the Pembroke property had been acquired.
+[39] The Appellant also stated that the proceeds realized from the sale of the properties were deposited in the same account (which, since the only statement introduced in relation to the line of credit shows that there was a balance outstanding under the line of credit, would mean that the sale proceeds would be applied against the amount outstanding under the line of credit). Jessalyn Wiens was not liable under the line of credit with CIBC. The Appellant and his spouse were liable under this line of credit. When the amounts received from the sale of the properties were applied against the amounts outstanding under the line of credit, the Appellant and his spouse received the benefit from the sale proceeds since such proceeds reduced their indebtedness to CIBC.
+[40] I find that Jessalyn Wiens did not acquire any beneficial interest in the property located at 22 Pembroke Road or 428 Redonda Street in 2002.
+[41] The next question is whether the Appellant was the beneficial owner or whether the Appellant and his spouse were the beneficial owners of these properties. The only source of funds that was identified in relation to the purchase of the properties in 2002 was the amount that was borrowed under the line of credit. When the amount was borrowed to purchase the property located at 22 Pembroke Road, both the Appellant and his spouse were liable to repay the amount borrowed from CIBC since both individuals are identified in the statement for the line of credit. There is no indication that the Appellant used any of his own funds in relation to the purchase of either one of the two properties in 2002. It appears that the proceeds from the sale of the property located at 22 Pembroke Road were applied against the amount outstanding under the line of credit (which benefitted both the Appellant and his spouse) and that the line of credit was again used to finance the purchase of the property located at 428 Redonda Street. Again the proceeds from the sale of this house were applied against the amount outstanding under the line of credit (which again benefitted both the Appellant and his spouse).
+[42] As a result it does not seem to me that the Appellant acquired all of the beneficial interest in the properties in 2002 but rather that he acquired one-half of the beneficial interests in these properties. Therefore, in my opinion, the Appellant should only be required to report one-half of the gain realized on the sales of these properties. It is not necessary to find that there was any partnership between the Appellant and his spouse, it is only necessary to find that he was only the beneficial owner of a one-half interest in the properties.
+[43] The next question is whether the gain realized should be reported as an income gain or as a capital gain. In Friesen v. The Queen, 95 DTC 5551, Justice Major writing on behalf of a majority of the Justices of the Supreme Court of Canada stated as follows:
+The concept of an adventure in the nature of trade is a judicial creation designed to determine which purchase and sale transactions are of a business nature and which are of a capital nature. This question was particularly important prior to 1972 when capital transactions were completely exempt from taxation. The question was succinctly stated by Clerk, L.J. in Californian Copper Syndicate v. Harris (1904), 5 T.C. 159 (Ex., Scot.), at p. 166:
+Is the sum of gain that has been made a mere enhancement of value by realising a security, or is it a gain made in the operation of business in carrying out a scheme for profit-making?
+The first requirement for an adventure in the nature of trade is that it involve a 'scheme for profit-making'. The taxpayer must have a legitimate intention of gaining a profit from the transaction. Other requirements are conveniently summarized in Interpretation Bulletin IT-459 'Adventure or Concern in the Nature of Trade' (September 8, 1980) which references Interpretation Bulletin IT-218 'Profit from the Sale of Real Estate' (May 26, 1975) for a summary of the relevant factors when the property involved is real estate. IT-218R, which replaced IT-218 in 1986, lists a number of factors which have been used by the courts to determine whether a transaction involving real estate is an adventure in the nature of trade creating business income or a capital transaction involving the sale of an investment. Particular attention is paid to:
+(i) The taxpayer's intention with respect to the real estate at the time of purchase and the feasibility of that intention and the extent to which it was carried out. An intention to sell the property for a profit will make it more likely to be characterized as an adventure in the nature of trade.
+(ii) The nature of the business, profession, calling or trade of the taxpayer and associates. The more closely a taxpayer's business or occupation is related to real estate transactions, the more likely it is that the income will be considered business income rather than capital gain.
+(iii) The nature of the property and the use made of it by the taxpayer.
+(iv) The extent to which borrowed money was used to finance the transaction and the length of time that the real estate was held by the taxpayer. Transactions involving borrowed money and rapid resale are more likely to be adventures in the nature of trade.
+(Emphasis added)
+[44] In Canada Safeway Limited v. The Queen, 2008 FCA 24, 2008 DTC 6074, [2008] 2 C.T.C. 149, Justice Nadon, writing on behalf of a majority of the Justices of the Federal Court of Appeal, stated that:
+61 A number of principles emerge from these decisions which I believe can be summarized as follows. First, the boundary between income and capital gains cannot easily be drawn and, as a consequence, consideration of various factors, including the taxpayer's intent at the time of acquiring the property at issue, becomes necessary for a proper determination. Second, for the transaction to constitute an adventure in the nature of trade, the possibility of resale, as an operating motivation for the purchase, must have been in the mind of the taxpayer. In order to make that determination, inferences will have to be drawn from all of the circumstances. In other words, the taxpayer's whole course of conduct has to be assessed. Third, with respect to "secondary intention", it also must also have existed at the time of acquisition of the property and it must have been an operating motivation in the acquisition of the property. Fourth, the fact that the taxpayer contemplated the possibility of resale of his or her property is not, in itself, sufficient to conclude in the existence of an adventure in the nature of trade. In Principles of Canadian Income Tax Law, supra, the learned authors, in discussing the applicable test in relation to the existence of a "secondary intention", opine that "the secondary intention doctrine will not be satisfied unless the prospect of resale at a profit was an important consideration in the decision to acquire the property" (see page 337). I agree entirely with that proposition. Fifth, the viva voce evidence of the taxpayer with respect to his or her intention is not conclusive and has to be tested in the light of all the surrounding circumstances.
+[45] The Appellant’s stated intention in acquiring the Pembroke Road property was to provide his daughter with a place to live. He stated that she did live there for a few months. As noted, the statement of the Appellant’s intentions is not conclusive and must “be tested in the light of all the surrounding circumstances”. In this case it appears that the full amount of the purchase price of 22 Pembroke Road was financed by amounts borrowed from the line of credit of the Appellant and his spouse. It seems to me that a line of credit would be a short term form of financing and not, in general, a long term form of financing. The use of short term financing to purchase the property would support a conclusion that the sale of the property was an adventure in the nature of trade.
+[46] The personal line of credit statement dated July 10, 2002 indicates that the previous balance was $91,307 and that this increased to $108,761 by July 10, 2002. The Appellant’s income for 2002, not including the loss related to the store, consisted of:
+Employment income: $32,500
+Dividends $1,250
+Total: $33,750
+[47] The Pembroke Road property did not produce any income (except the income arising as a result of the sale of the property). This property was acquired on February 15, 2002 which was approximately 4.5 to 5 months before the Appellant started to operate the retail store in July 2002. The only evidence in relation to the income of the Appellant’s spouse in 2002 is that she was not paid while she was working at the retail store. The Appellant introduced into evidence an excerpt from his tax return for 2003. The excerpt included the first page of this return but the net income amount for his spouse was redacted. Therefore the only sources of funds that were identified at the hearing that could be used to repay the amount borrowed from the line of credit to purchase this property, other than any amount realized from the sale of this property, were the employment income and dividend income of the Appellant as stated above. Since the amount owing on the line of credit was increasing during a period of time when no properties were being acquired, it appears that his income was being used for other expenditures. The Appellant would presumably have to use his income for the living expenses for himself and his spouse and his two other children who were living at home after February 15, 2002. If reselling the property was not an important consideration when the property was acquired in February 2002, how would the amount borrowed against the line of credit be repaid?
+[48] The property located at 428 Redonda Street was acquired approximately one month after the property located at 22 Pembroke Road was sold. It was acquired for $81,486. There was no indication of the balance of the line of credit on September 11, 2002 but since this was after the retail store was operating and since the Appellant indicated that he was losing money in operating this store, it seems more likely than not that there was an outstanding balance owing under the line of credit when the Redonda Street property was acquired. It would again seem that the only feasible way that the amount borrowed against the line of credit to purchase this property could be repaid would be if this property was sold.
+[49] The very short holding periods (approximately six months for the Pembroke Road property and three months for the Redonda Street property) support a finding that the purchase and sale of these properties was an adventure in the nature of trade. The use of the line of credit to finance the purchase of these properties (which would be a form of short term financing) would also support a finding that the purchase and sale of these properties was an adventure in the nature of trade.[3]
+[50] As a result I find that the gain on the properties sold in 2002 was an income gain and not a capital gain. I also find that one-half of this gain should have been included in determining the income of the Appellant for 2002 as he held one-half of the beneficial interest in these properties.
+[51] The other item in issue for 2002 is the amount paid by the insurance company in relation to claims filed in respect of break-ins at the retail store. The retail store was the target of a number of break-ins. The amount included in the Appellant’s income for 2002 in relation to the insurance payments was $10,914. A copy of the fax from ING Insurance dated September 1, 2006 was introduced at the hearing. In this fax it is indicated that the amount paid was in relation to two separate claims:
+Claim for Break and Enter on November 14, 2002: $7,281
+Claim for Break and Enter on November 17, 2002: $3,633
+Total: $10,914
+[52] In a subsequent fax from ING Insurance dated September 14, 2006 it is stated that:
+For the first claim of November 14, 2002; the client had claimed a loss of $4,238.99 consisting of lost property – namely 55 cartons of Cigarettes, Cash ($500.) and a Cash Register. We paid the client $3,738.99 which was the loss amount less the $500 policy deductible. The rest of the payments were to contractors for repair of the glass, door and lock. These repairs were done in December, after the time of all 3 losses. Hence, no repair expenses claimed in the next 2 losses. Part of the expense payment was an emergency call to “board-up” the broken glass until permanent repairs could be made. This was done immediately after the first loss.
+For the Second Claim of November 17, 2002; the client claimed a loss of $4,133.00 which again consisted of Cigarettes, Cash ($50. - $60.) and a Cash Register. We paid the client $3,633.00 which was the loss less the $500 policy deductible.
+[53] Therefore, of the $7,281 paid in relation to the first claim, $3,739 was paid to the Appellant and the balance of $3,542 was paid by the insurance company to the contractors who did the repair work. As noted by Justice Rothstein in F.H. v. McDougall, above:
+48 Some alleged events may be highly improbable. Others less so. There can be no rule as to when and to what extent inherent improbability must be taken into account by a trial judge. As Lord Hoffmann observed at para. 15 of In re B:
+Common sense, not law, requires that in deciding this question, regard should be had, to whatever extent appropriate, to inherent probabilities.
+It will be for the trial judge to decide to what extent, if any, the circumstances suggest that an allegation is inherently improbable and where appropriate, that may be taken into account in the assessment of whether the evidence establishes that it is more likely than not that the event occurred. However, there can be no rule of law imposing such a formula.
+[54] In this particular case the event in question is whether the Appellant would have deducted the amount paid by the insurance company to the contractors for the repairs in determining his income from the sole proprietorship. Since the Appellant did not pay the contractors, it seems to me that it was inherently improbable that this occurred. As a result it seems to me that it is more likely than not that the Appellant would not have claimed a deduction for the amount paid to the contractors for repairs and therefore no amount should have been added to the Appellant’s income for this amount. If this amount were to be added to the Appellant’s income, then he would be entitled to claim a deduction for repairs in the same amount and therefore no net amount would be added to his income. As a result, the Appellant’s income is reduced by the amount of $3,542 (which is the amount paid by the insurance company to the contractors).
+[55] With respect to the balance of the amount paid in relation to the first claim ($3,739) and the amount paid in relation to the second claim ($3,633), no breakdown was provided for the amount claimed for the loss of cigarettes and the loss of the cash register. In Transocean Offshore Limited v. R., [2005] 2 C.T.C. 183, 2005 DTC 5201[4], Sharlow J.A. of the Federal Court of Appeal stated as follows:
+For the purposes of Part I of the Income Tax Act, the answer to that question requires the application of a judge-made rule sometimes called the "surrogatum principle", by which the tax treatment of a payment of damages or a settlement payment is considered to be the same as the tax treatment of whatever the payment is intended to replace.
+[56] It seems to me that this principle will apply to the payments made to the Appellant for the lost cigarettes (which would be lost inventory) and for the lost cash. The amount received for the cigarettes that were stolen is a payment for this lost inventory. If the Appellant would have sold these cigarettes, any amount received would have been revenue. The payment made by the insurance company is a payment to replace revenue that the Appellant would have received if the cigarettes would have been sold, even though the amount received may be less than the amount that the Appellant may have received on a retail sale of the cigarettes. There was no indication that the cash that was stolen (and for which the Appellant received payment from the insurance company) was cash that was on hand otherwise than from sales. Therefore it seems to me that the cash that was stolen would have been cash from the sale of items and therefore would have been revenue. The payment of the amount for the lost cash is a payment made to replace the lost revenue. Therefore the payment in relation to the loss of inventory and cash would be income to the Appellant.
+[57] However if any portion of the payment was for the lost cash register, it would be treated as proceeds of disposition of depreciable property of the same class of property as the cash register. Paragraph (c) of the definition of “proceeds of disposition” in subsection 13(21) of the Act provides that proceeds of disposition, for the purposes of determining the undepreciated capital cost of depreciable property, includes “any amount payable under a policy of insurance in respect of loss or destruction of property”.
+[58] The Appellant’s explanation of how he treated the amounts paid by the insurance company was as follows:
+Q. Where it says:
+"The auditor adjusted the dollar net income as follows: Increase to gross revenues, insurance proceeds, 2002 and 2003." (As Read)
+That was how the CRA handled the money from the insurance claim. It would indicate by what I'm reading that they increased your income by the amount of the insurance payout.
+A. I believe I remember ‑‑ I may be wrong ‑‑ I didn't add that to income. I took it off of expenses when I was doing my income tax.
+Q. Can you explain why you wouldn't add it to your income?
+A. It was just replacing smashed or stolen stuff.
+Q. Was that amount of money more than your loss?
+A. The amount the insurance paid?
+Q. Yes.
+A. That would be far less.
+Q. So you were in a net loss position. Is that correct?
+A. Yes; because of the deductible and the insurance company is pretty stingy.
+Q. You didn't see the money the insurance company paid you as a financial gain to be reported?
+A. No, I didn't. I don't exactly recall.
+…
+A. To the best of my recollection, I deducted the insurance from expenses. I had a lot of bills and so on go missing, but I can't really remember what happened. I know I grossly understated my losses.
+[59] In relation to the Appellant’s general ability to remember what occurred, he testified that:
+Q. Mr. Wiens, how would you define your ability to remember things today?
+A. I think I can remember some things. I did have chemotherapy, and I have a foggy condition.
+…
+Q. ... What would you say that your mental faculty is now, and did it start getting better? If so, when?
+A. It did. I have good days sometimes, but I have blank spots in my memory. I can't remember a lot of things like I used to be able to. Some days I can't think of ‑‑ I don't know anything. There have been times when I don't know even know who I am. All of a sudden I have this thing in my head. I don't know what I'm doing, who I am or what is going on, but that's rare. I'm smart enough to know I'm not as smart enough as most people.
+[60] The only evidence presented by the Appellant in relation to whether the amounts received from the insurance company were included in the Appellant’s income or deducted from expenses was the testimony of the Appellant. No financial statements of the Appellant were introduced. This evidence is not sufficient to support a finding that the Appellant had reduced expenses by the amount of the insurance. If the Appellant had taken the insurance into account in determining his income (either by including the amount in income as revenue or reducing his expenses by the same amount) then no adjustment would be made to his income for the insurance as it is the amount of his liability for taxes that is in dispute. If the Appellant had reduced expenses by the amount of the insurance received and if the insurance amount is added to his income, then the Appellant would be entitled to claim the additional expenses (that he had not previously claimed) and his net income would remain the same. However, the Appellant has failed to establish that it is more likely than not that he reduced his expenses by an amount that was equal to or more than the amount that he received from the insurance company. While he might have reduced his expenses by such an amount, this is not sufficient.
+[61] The Appellant has also failed to establish what part, if any, of the amount received from the insurance company was paid in relation to the loss of the cash register. If the claim for the cash register was less than $500, then because the deductible amount was $500, the full amount received could have been for the lost cigarettes and cash.
+[62] As a result, no adjustment will be made with respect to the amount included in the Appellant’s income for 2002 in relation to the balance of the amount paid in relation to the first claim ($3,739) and the amount paid in relation to the second claim ($3,633).
+[63] With respect to the reassessment of the Appellant’s tax liability for the 2003 taxation year, the reassessment of this taxation year was issued after the normal reassessment period and the Appellant did not sign a waiver in relation to the reassessment of this taxation year.
+[64] Then Chief Justice Bowman in Mensah v. The Queen, [2008] T.C.J. No. 302, 2008 DTC 4358 stated that:
+8 The fourth preliminary point is that the assessment for the 1993 taxation year is statute-barred. The onus is upon the Minister to establish the facts justifying the reassessment of the 1993 taxation year beyond the normal reassessment period. The provisions of the Income Tax Act permitting the Minister to open up statute-barred years have evolved and the evolution was summarized in 943372 Ontario Inc. v. R., 2007 D.T.C. 1051; [2007] 5 C.T.C. 2001 at paragraph 18:
+18 The evolution of these provisions can be briefly summarized as follows: originally, subsection 152(4) permitted the Minister to open up a statute-barred year for all purposes if he could find any misrepresentation of the type described in subsection 152(4), however small, and reassess any items whether the subject of any type of misrepresentation or not. This obviously appeared somewhat unfair and the result was paragraph 152(5)(b) which was introduced in 1973-1974 with effect from 1972. This provision permitted the taxpayer to establish that the omission of an amount of income was not the result of a misrepresentation that was attributable to neglect, carelessness, wilful default or fraud. Nonetheless it did cast on the taxpayer an onus. Subsection 152(4.01) was therefore introduced and its effect, according to Mr. Kutkevicius, is to remove that onus from the taxpayer and put a two-fold onus on the Minister to establish:
+(a) that there was misrepresentation, and
+(a) that the misrepresentation was attributable to neglect, carelessness, wilful default or fraud.
+I think this is the correct interpretation. If the onus that was imposed on the taxpayer under former paragraph 152(5)(b) survived the amendment to subsection 152(5) and the enactment of subsection 152(4.01), subsection (4.01) would have no purpose.
+(emphasis added)
+[65] Therefore the onus was on the Respondent to not only establish that there was a misrepresentation with respect to the statements made by the Appellant in his tax return for 2003, but also that the “misrepresentation was attributable to neglect, carelessness, wilful default or fraud”.
+[66] In this case the alleged misrepresentations for 2003 are in relation to the amounts realized on the sale of houses in 2003 and the amount received in relation to insurance claims in 2003.
+[67] The real property transactions that have resulted in the reassessment of the Appellant for 2003 are the following:
+Property
+1581 Rothesay St.
+Lot 2, SE ¼ 19-11-6E RM Springfield
+453 Phelan Road
+165 Crestwood Crescent
+Date purchased:
+April 25, 2003
+June 13, 2003
+March 2003
+November 2003
+Date sold:
+August 1, 2003
+September 30, 2003
+October 2003
+December 2003
+Total cost:
+$44,023
+$48,113
+$33,886
+$97,154
+Net Proceeds of sale:
+$74,295
+$107,940
+$114,000
+$113,500
+Gain:
+$30,272
+$59,827
+$80,114
+$16,346
+[68] There were four properties that were sold in 2003. Each of these properties was also acquired in 2003. The longest period of time that any of these properties was held was approximately 7 months (453 Phelan Road was purchased in March and sold in October).
+[69] The property located at 1581 Rothesay Street was acquired in the name of the Appellant’s spouse. The Appellant stated that this property was acquired as a home for his second daughter. However she did not receive any of the proceeds from the sale of this property nor could she have occupied it for any significant period of time as it was sold a little more than three months after it was purchased.
+[70] There were two sources of funds identified in 2003. One was the personal line of credit with CIBC and the other was Tedhil Enterprises Ltd. As stated below, I find that the amount of approximately $40,000 that was borrowed from Tedhil Enterprises Ltd. was used to finance the purchase of the Springfield property. As a result, I find that the purchase of the Rothesay Street property was financed by the line of credit with CIBC. Both the Appellant and his spouse were liable to repay amounts borrowed under the line of credit. It also appears more likely than not that the proceeds from the sale of the house were also applied against the amount outstanding under the line of credit. Therefore both the Appellant and his spouse benefitted from the sale of this house as they each had their liability under the line of credit reduced by the proceeds of sale that were applied against the amount outstanding under the line of credit.
+[71] No statements from the line of credit for 2003 were introduced at the hearing but since the statement for July 10, 2002 indicates that, at that time, the Appellant and his spouse owed CIBC $108,761 under the line of credit and since the Appellant indicated that he incurred significant losses in operating the retail store that he opened around that time, it seems more likely than not that the Appellant and his spouse continued to owe amounts under the line of credit throughout 2003. As a result, I find that when the Rothesay Street property was sold, the proceeds would have reduced the liability of not only the Appellant’s spouse but also the Appellant under the line of credit. Although the Appellant had stated that only his spouse had received the money from the sale of this property, I find that both the Appellant and his spouse received the proceeds since the proceeds reduced their joint liability to CIBC. I find that the Appellant should have included one-half of the gain realized on the sale of the Rothesay Street property in determining his income for 2003.
+[72] With respect to whether the gain on the sale of the Rothesay Street property was a capital gain or an income gain, it seems to me that the lack of any other source of funds to pay the line of credit is relevant in determining the Appellant’s intention in purchasing the property. The Appellant submitted an excerpt from his 2003 tax return. The only sources and amounts of income identified in this excerpt are the following:
+Item
+Amount
+Employment income:
+$36,500
+Taxable amount of dividends:
+$1,250
+Taxable capital gains:
+$7,500
+Business income:
+($29,654)
+Total income:
+$15,596
+[73] With only these sources of income (one of which arises from the sale of the real properties in 2003), how could the Appellant expect to repay the amount borrowed from CIBC to acquire the property unless the property was sold? It seems to me that “the possibility of resale, as an operating motivation for the purchase, must have been in the mind of the” Appellant when the property was acquired. The short holding period (approximately three months) confirms this intention. As well the number of similar transactions (six in 2002 and 2003[5]) is also relevant in determining the Appellant’s intention. The use of the line of credit to fund the purchase price is also relevant, as discussed above. As a result the Appellant’s gain on the sale of the property was an income gain.
+[74] The Appellant did not report any part of the gain realized on the sale of the property located at 1581 Rothesay Street in his tax return for 2003. The failure to report his share of the gain (which would be one-half of the gain) was a misrepresentation.
+[75] The Springfield property was purchased on June 13, 2003. The property was purchased in the name of the Appellant’s daughter (Jessalyn Wiens). It is not entirely clear whether the purchase of this property was financed with a loan that the Appellant had received from Tedhil Enterprises Ltd. or from amounts borrowed under the line of credit with CIBC. Tedhil Enterprises Ltd. is a private company in which the shares were held by the Appellant and other members of his family. The Appellant confirmed that he had borrowed approximately $40,000 from this company but he was not sure when he had borrowed this amount or how the funds were used. When counsel for the Respondent had suggested that the funds were used to finance the purchase of the Springfield property, the Appellant indicated that he thought that it was for the Rothesay Street property but he was not certain. It is clear that the loan was repaid on October 17, 2003 as a cheque for $41,500 payable to Tedhil Enterprises Ltd. and drawn on the line of credit was introduced as an exhibit.
+[76] It seems to me that it was more likely than not that the funds were borrowed from this company to finance the purchase of the Springfield property. It seems clear that the preferred source of funds for the Appellant was the line of credit with CIBC. Therefore it seems to me that if the Appellant could have utilized the line of credit to finance the purchase of a property that he would have done so. The Rothesay Street property was purchased on April 25, 2003. Prior to that time the proceeds from the sales of the two properties in 2002 would have been used to reduce the amount outstanding under the line of credit. As well amounts would have been borrowed to finance the purchase of the Redonda Street property in September 2002 and the Phelan Road property in March 2003. Therefore the net affect of these four transactions (all of which occurred after July 10, 2002 – the date of the statement from the Personal Line of Credit that was introduced at the hearing) on the amount outstanding under the line of credit as of the time immediately before the Rothesay Street property was purchased was as follows:
+Item
+Increase / (Decrease) in the amount owing under the line of credit
+Proceeds from sale of Pembroke Road property
+($122,319)
+Purchase of the Redonda Street property
+$81,486
+Proceeds from sale of Redonda Street property
+($83,725)
+Purchase of Phelan Road property
+$33,886
+Net result:
+($90,672)
+[77] Therefore the result of these transactions would have been a reduction in the amount owing under the line of credit of $90,672. Therefore it seems more likely than not that the line of credit would have been used to finance the purchase of the Rothesay Street property. When the Springfield property was acquired on June 13, 2003, both the properties located on Rothesay Street and Phelan Road had been purchased and neither one of these had been sold. As well the retail store would have still been operating and presumably continuing to incur losses. As a result, in June 2003 there would not have been as much credit available under the line of credit as there would have been in March or April and therefore June 2003 would have been the time when the Appellant would have needed an additional source of funds. As well, the Springfield property was sold on September 30, 2003 and the cheque to Tedhil Enterprises was dated October 17, 2003. As a result it seems to me that it was more likely than not that the funds were borrowed from Tedhil Enterprises Ltd. to finance the purchase of the Springfield property.
+[78] It is the position of the Appellant that the Springfield property was his daughter’s property and therefore that she should have reported the gain. During re-examination of the Appellant by his agent, the following exchange took place:
+Q. Would you borrow money from Tedhil to benefit your daughter?
+A. No.
+Q. You wouldn't?
+A. If I borrowed money from the company I had to take responsibility to make sure it was repaid. I don't remember borrowing money on her behalf, and I would never do that. I would have to make sure that money was repaid. The way I understand it, you are not allowed loans from a company to go over a tax year. Then you would get T‑4'd for them. I have to make sure that I'm reliable enough to ‑‑ it is my responsibility from the company to make sure that everything was repaid properly and the books all balanced.
+[79] It seems to me that it was the Appellant who borrowed the money to finance the purchase of the Springfield property. It was his money that was used to purchase this property, not Jessalyn Wiens’ money. The proceeds from the sale of the property were, more likely than not, used to repay the indebtedness of the Appellant to Tedhil Enterprises Ltd. As a result I find that the Appellant was the sole beneficial owner of the Springfield property.
+[80] The Appellant clearly understood that if he borrowed money from Tedhil Enterprises Ltd. that he had a limited amount of time within which to repay the debt to avoid being taxed on the amount borrowed. His understanding of the time period results in a shorter time than is actually permitted by subsection 15(2.6) of the Income Tax Act[6]. However for the purposes of this appeal, the Appellant’s understanding of the requirement to repay loans from a company in which he is a shareholder indicates that the Appellant must have had the intention to sell the property at the time he acquired it. The only means available to the Appellant to repay the debt to Tedhil Enterprises Ltd. was from the proceeds that would be realized on a sale of the property. The short holding period (approximately 3.5 months) also confirms that the possibility of reselling the property must have been in his mind when the property was acquired and must have been an operating motivation for the purchase. As a result I find that the gain realized on the sale of the Springfield property should have been included in the income of the Appellant and that this gain was an income gain. The failure of the Appellant to include this gain in his tax return was a misrepresentation.
+[81] The properties located on Phelan Road and Crestwood Crescent were both acquired in the name of the Appellant. In filing his tax return for 2003 the Appellant only reported the gain realized on the sale of the Crestwood Crescent property and this gain was reported as a taxable capital gain. No explanation was provided for the failure of the Appellant to report any gain realized on the sale of the property located on Phelan Road in his 2003 income tax return. In the Reply it is noted that in reassessing the Appellant his income was reduced by $36,952 for taxable capital gains. Since he only reported a taxable capital gain of $7,500 in his 2003 tax return, the Appellant must have subsequently reported or been assessed (or reassessed) for a taxable capital gain of $29,452[7], presumably in relation to the sale of the Phelan Road property.
+[82] The purchase of these properties was financed by the line of credit. Since both the Appellant and his spouse were jointly liable to repay amounts borrowed from the line of credit, it seems reasonable to conclude that the Appellant and his spouse each beneficially acquired a one-half interest in these properties. Therefore each of the Appellant and his spouse should have reported one-half of the gain realized on the sale of these properties. As well, since there was no means to repay the amount borrowed under the line of credit to purchase these properties, other than from the proceeds that would be realized on a sale of these properties, they must have had an intention to sell the properties at the time that the properties were acquired. The short holding periods (approximately seven months and one month) confirm this intention as does the use of short term financing (the line of credit).
+[83] As a result the gain realized on the sale of these properties (Phelan Road and Crestwood Crescent) was an income gain. The failure of the Appellant to report any amount in his tax return for 2003 in relation to the gain realized on the sale of the Phelan Road property was a misrepresentation.
+[84] With respect to the disposition of the Crestwood Crescent property, the Appellant did report a taxable capital gain in relation to the disposition of this property (which would be one-half of the capital gain) in his tax return for 2003. The amount that he reported as a taxable capital gain was $7,500. As noted above, I find that he should have reported one-half of the gain realized on the sale of this property as an income gain. The agent for the Appellant at the commencement of the hearing indicated that the Appellant was not disputing any of the amounts as set out in the Reply and therefore the gain realized on the sale of this property was $16,346. The Appellant therefore should have reported the amount of $8,173 as an income gain. Since both taxable capital gains and income gains are included in determining the income of the Appellant for the purposes of the Act the net affect on his income for the purposes of the Act would be that his income should be increased by $673.
+[85] In Nesbitt v. The Queen, 96 DTC 6588, Justice Strayer, on behalf of the Federal Court of Appeal, stated that:
+8 Even assuming that the letter of August 6, 1986, could be taken to prove the Minister's knowledge by that date (two months prior to expiry of the four-year limitation period) of the true facts and that there had been a misrepresentation, I do not believe this assists the appellant. It appears to me that one purpose of subsection 152(4) is to promote careful and accurate completion of income tax returns. Whether or not there is misrepresentation through neglect or carelessness in the completion of a return is determinable at the time the return is filed. A misrepresentation has occurred if there is an incorrect statement on the return form, at least one that is material to the purposes of the return and to any future reassessment. …
+(emphasis added)
+[86] The question is whether the incorrect statement made by the Appellant in his 2003 tax return in relation to the amount reported as a result of the disposition of the Crestwood Crescent property is material. The discrepancy in reported income ($673) in my opinion is not material. In many situations it would be material whether a particular amount is reported as a taxable capital gain or as an income gain since only one-half of capital gains are included in income. In this case because I have found that the Appellant only owned a one-half interest in the property, the quantum of the amount added to income is approximately the same whether, as he had filed his return, he was the sole owner of the property and realized a capital gain (and therefore would include one-half of the capital gain in his income as a taxable capital gain) or whether he owned a one-half interest and realized an income gain. However if the Appellant would have claimed allowable capital losses (which may be claimed against taxable capital gains but not income gains) or if the property would have been eligible and the Appellant would have claimed a capital gains deduction under section 110.6 of the Act or a reduction in the capital gain based on the property being his principal residence (as provided in subsection 40(2) of the Act), then it would have been material whether the amount was reported as a capital gain or an income gain. However there was no evidence that the Appellant had claimed any allowable capital losses or any deduction in relation to any capital gain that he claimed.
+[87] As a result, in my opinion the Appellant did not make an incorrect statement that was material for the purposes of his 2003 income tax return in relation to the gain realized on the sale of the Crestwood Crescent property. Since the reassessment of his 2003 taxation year was issued after the normal reassessment period, the Respondent could not have reassessed the Appellant in relation to the gain realized on the sale of the Crestwood Crescent property.
+[88] It appears that the Respondent, in reassessing the Appellant, also reduced his income by the amount of the taxable capital gain that he had claimed in his tax return in relation to the disposition of the Crestwood Crescent property ($7,500). The Minister cannot appeal his own assessment (Valdis v. The Queen, [2001] 1 C.T.C. 2827). However, in this case, it does not seem to me that if the amount claimed as a taxable capital gain were to be restored that this would be a situation where the Minister is appealing his own assessment. It is simply a recognition that the Minister did not have the right to reassess the Appellant in relation to the gain realized on the sale of the Crestwood Crescent property and that the income of the Appellant should therefore be restored to what it was before the reassessment. As a result, the Appellant’s income is reduced by the amount added by the reassessment ($16,346 as income from an adventure in the nature of trade) and the taxable capital gain claimed by the Appellant ($7,500) is reinstated.
+[89] The next question is whether the misrepresentations arising as a result of the failure of the Appellant to report his share of the gains arising on the sale of the Rothesay Street property, the Springfield property, and the Phelan Road property (or any one or more of them) were attributable to neglect, carelessness, wilful default or fraud”.
+[90] In The Queen v. Regina Shoppers Mall Limited, [1991] 1 C.T.C. 297, 126 N.R. 141, 91 DTC 5101 the Federal Court of Appeal approved the following comments of Justice Addy:
+7. …Where a taxpayer thoughtfully, deliberately and carefully assesses the situation and files on what he believes bona fide to be the proper method there can be no misrepresentation as contemplated by section 152 (1056 Enterprises Ltd. v. Canada, [1989] 2 C.T.C. 1, 89 D.T.C. 5287). In Levy (J.) v. Minister of National Revenue, [1989] C.T.C. 151, 89 D.T.C. 5385 at 176 (D.T.C. 5403), Teitelbaum, J. quotes with approval the following statement by Muldoon, J. in the above case:
+Subsection 152(4) protects such conduct, and perhaps only such conduct, where the taxpayer thoughtfully, deliberately and carefully assesses the situation as being one in which the law does not exact the reporting of that which the taxpayer bona fide believes does not exist.
+[Emphasis added by Justice Addy and Justice MacGuigan.]
+It has also been established that the care exercised must be that of a wise and prudent person and that the report must be made in a manner that the taxpayer truly believes to be correct. ...
+[91] The purchases of the Rothesay Street property and the Phelan Road property were each funded by amounts borrowed under the line of credit, which would be short term and not long term financing. The Appellant was jointly liable with his spouse to repay amounts borrowed under this line of credit. The properties did not produce any income (other than income arising as a result of the sale of the properties) and, based on the income of the Appellant, the Appellant would only be able to repay his share of the amount borrowed to purchase these properties if these properties were sold. These properties were only held for approximately three months and seven months, respectively. When the Appellant filed his tax return for 2003 he would have known that each of these properties had been bought and sold in 2003 and also that the Crestwood Crescent property would have been bought and sold in 2003. He would also have known that two properties had been bought and sold in 2002.
+[92] As well, no amount was reported in the Appellant’s income tax return for 2003 in relation to the gain realized on the sale of the Phelan Road property. This was a property that was registered in the Appellant’s name and a significant gain ($80,114) was realized on the sale of this property.
+[93] As a result, I find that in this case the failure of the Appellant to include his share of the gain realized on the sale of these properties (the Rothesay Street property and the Phelan Road property) in his income as an income gain was not what a wise and prudent person would have done and that the Appellant could not have truly believed that this was correct. As a result the reassessment of the Appellant in relation to the inclusion in his income of one-half of the gain realized on the sale of these properties as an income gain is valid. The Appellant’s income as reassessed is reduced by one-half of the gain realized on the sale of these properties.
+[94] The Appellant alone borrowed the money from Tedhil Enterprises Ltd. to fund the purchase of the Springfield property. He knew that when he borrowed this money he had a limited period of time within which to repay the debt to Tedhil Enterprises Ltd. to avoid having the amount of the debt included in his income. This property did not produce any income (except as a result of the sale of this property) and the only source of funds that would have been available to repay the debt to Tedhil Enterprises Ltd. would have been the proceeds from a sale of this property. As a result, I find that in this case the failure of the Appellant to include the gain realized on the sale of this property in his income as an income gain was not what a wise and prudent person would have done and that the Appellant could not have truly believed that this was correct. As he was the sole beneficial owner of this property all of the gain from this property was his income. Therefore no adjustment to the income of the Appellant will be made in relation to the sale of this property.
+[95] The other item for 2003 is the amount included in the Appellant’s income for 2003 in relation to the amounts received as a result of the insurance claim filed by the Appellant. The amount added to his income for 2003 was $2,200.
+[96] As noted above, the Respondent has the onus of proof to establish that the Appellant made a misrepresentation and that the misrepresentation was attributable to neglect, carelessness or wilful default. The Appellant’s position is that he had greater losses from the operation of the retail store than he reported. In this case the amount of additional income that the Respondent has added to the Appellant’s income is $2,200. The additional unclaimed expenses might have been less than this amount, equal to this amount or greater than this amount.
+[97] The memo from the insurance company dated September 14, 2006 stated the following in relation to the insurance claim of June 23, 2003:
+The Fourth claim of June 23, 2003; we paid $2,200. Unfortunately, I do not have further details on the conditions regarding this loss at this time.
+[98] In the memo from the insurance company dated September 1, 2003, the amount is stated to be $2,000 for this claim. No explanation was provided for this discrepancy. Therefore it is not clear whether the amount should be $2,000 or $2,200 or whether any of this amount was paid to contractors (as was a portion of the claims for 2002) or was for the loss of inventory or cash or for property damage. While the amount might have been for loss of inventory or loss of cash and, if included in the Appellant’s income, might have been material in determining his income for 2003, this is not sufficient to discharge the onus of proof. The Respondent failed to establish that the Appellant made an incorrect statement in his tax return that would have been material to the amount of his income for 2003 from the retail store in relation to the amount paid by the insurance company in 2003. Therefore the Respondent could not reassess the Appellant to include this amount of $2,200 in his income for 2003 and his income for 2003 is reduced by this amount.
+[99] As a result, the Appellant’s appeal is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) in determining the income of the Appellant for 2002, the Appellant’s income shall be reduced by the following amounts:
+Item
+Amount
+To adjust for the one-half interest of Kathryn Wiens in the property located at 22 Pembroke Road:
+($15,900)
+To adjust for the one-half interest of Kathryn Wiens in the property located at 428 Redonda Street:
+($1,128)
+To adjust for the amount paid by the insurance company to the contractors:
+($3,542)
+Total adjustments (reduction in the income of the Appellant):
+($20,570)
+(b) in determining the liability of the Appellant under the Act for income taxes for 2003, the amount of taxes payable by the Appellant for 2003 shall be reduced by the lesser of:
+(i) the amount by which his liability for income taxes under the Act would be reduced if his income was adjusted by the following amounts:
+Item
+Amount
+A reduction for the one-half interest of Kathryn Wiens in the property located at 1581 Rothesay Street:
+($15,136)
+A reduction for the one-half interest of Kathryn Wiens in the property located at 453 Phelan Road:
+($40,057)
+A reduction for the amount added as income from an adventure in nature of trade in relation to the sale of the property located at 165 Crestwood Crescent:
+($16,346)
+An addition to restore the amount claimed as a taxable capital gain:
+$7,500
+A reduction for the amount paid by the insurance company:
+($2,200)
+Total adjustments (reduction in the income of the Appellant):
+($66,239)
+and
+(ii) $12,000.
+Signed at Ottawa, Canada, this 15th day of March, 2011.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2011TCC152
+COURT FILE NO.: 2010-2625(IT)I
+STYLE OF CAUSE: JOHN WIENS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 20, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: March 15, 2011
+APPEARANCES:
+Agent for the Appellant:
+Dan White
+Counsel for the Respondent:
+Samantha Hurst
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In this case there was no suggestion that the Appellant was unduly pressured.
+[2] In the Reply, the net proceeds are stated to be $83,724.72 (based on a selling price of $88,500 and costs of $4,190.68). However the difference between $88,500 and $4,190.68 is $84,309.32, not $83,724.72. The net cost is stated to be $81,486.09 and the net gain is stated to be $2,256.63. However, the difference between $83,724.72 and $81,486.09 is $2,238.63 and the difference between $84,309.32 and $81,486.09 is $2,823.23. Since no evidence was presented at the hearing with respect to the cost or proceeds, it is impossible to determine which amount is correct for the gain realized on the sale of the property. I assume that the amount stated to be the profit (which would be the amount that would have been added to the Appellant’s income) is correct.
+[3] One of the assumptions that was made (and in relation to which the Appellant did not lead any evidence) is that:
+24. yy) in addition to the purchase and sale of The Properties, the appellant, his spouse and daughter purchased and sold another seventeen properties during the years 1988 to 2005;
+Since there are 6 properties included in the definition of “The Properties”, this would mean that there was a total of 23 properties bought and sold over the 28 years from 1988 to 2005 (counting each of 1988 and 2005 as a full year). However, there is no indication (nor was there any evidence) of how many of these transactions occurred during the period from 1988 to 2002 and how many occurred during the period from 2003 to 2005. The year in question is 2002, not 2005. It does not seem to me that events that take place after the end of a taxation year (and in particular 2 or 3 years after the end of a year) should be taken into account in determining whether a particular gain realized during that taxation year is an income gain or a capital gain. Therefore this assumption is of little assistance in determining this matter.
+[4] The Application for Leave to appeal this decision to the Supreme Court of Canada was dismissed ([2005] S.C.C.A. No. 235).
+[5] Since the Respondent has the onus of proof in relation to whether the Appellant made a misrepresentation, the Respondent cannot rely on assumptions made in the Reply but must establish facts at the hearing. The facts referred to in paragraph 24. yy) of the Reply were not established during the hearing.
+[6] The time within which a loan is to be repaid to avoid having the amount included in income is set out in subsection 15(2.6) of the Act. This subsection provides as follows:
+(2.6) Subsection (2) does not apply to a loan or an indebtedness repaid within one year after the end of the taxation year of the lender or creditor in which the loan was made or the indebtedness arose, where it is established, by subsequent events or otherwise, that the repayment was not part of a series of loans or other transactions and repayments.
+[7] The total gain realized on the sale of the Phelan Road property was $80,114. One-half of this amount would be $40,057, not $29,452. The agent for the Appellant indicated at the commencement of the hearing that the Appellant was not disputing any of the amounts as set out in the Reply and therefore the Appellant was accepting that the total gain realized in the sale of the Phelan Road property was $80,114. No explanation was provided to explain why only an additional taxable gain of $29,452 and not $40,057 was included in the income of the Appellant.

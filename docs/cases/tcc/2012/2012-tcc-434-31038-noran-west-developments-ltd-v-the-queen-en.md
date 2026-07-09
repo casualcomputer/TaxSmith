@@ -1,0 +1,309 @@
+---
+title: "Noran West Developments Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31038/index.do"
+last_modified: "2012-12-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 434"
+citation2: ""
+neutral_citation: "2012 TCC 434"
+decision_date: "2012-12-12"
+language: "en"
+item_id: "31038"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4861
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:00:21.354000+00:00"
+cases_cited_count: 2
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "37d1656dc0b66f37d28a56f973e352a595a0db0f1d6d64218166552a23cd72e5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Noran West Developments Ltd. v. The Queen
+
+- Citation: 2012 TCC 434
+- Decision date: 2012-12-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4861, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Noran West Developments Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-12-12
+Neutral citation
+2012 TCC 434
+File numbers
+2011-2274(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-2274(IT)G
+BETWEEN:
+NORAN WEST DEVELOPMENTS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on December 12, 2011 at Vancouver, British Columbia
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Alistair G. Campbell
+Michelle Moriartey
+Counsel for the Respondent:
+Jasmine Sidhu
+Selena Sit
+____________________________________________________________________
+ORDER
+UPON motion by counsel for the Respondent for an Order quashing the appeal under section 12 of the Tax Court of Canada Act, paragraph 58(3) of the Tax Court of Canada Rules (General Procedure) and subsection 169(2.2) of the Income Tax Act;
+AND UPON reading the materials filed, and hearing the parties;
+IT IS ORDERED that the Respondent's motion is granted with costs to the respondent and the appeal for the appellant’s taxation year ending August 31, 2005 is quashed in accordance with the attached reasons for order.
+Signed at Vancouver, British Columbia, this 12th day of December 2012.
+“B.Paris”
+Paris J.
+Citation: 2012 TCC 434
+Date: 20121212
+Docket: 2011-2274(IT)G
+BETWEEN:
+NORAN WEST DEVELOPMENTS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Paris J.
+[1] The respondent has applied for an order quashing the appeal of Noran West Developments Ltd. (“Noran”) from a reassessment dated April 21, 2011. The grounds for the application are that Noran waived its right to object to or appeal from that reassessment in respect of the issues it now seeks to appeal. Therefore, the respondent says that Noran is precluded from appealing those issues to this Court, pursuant to subsection 169(2.2) of the Income Tax Act (the “Act”). That provision reads:
+Waived issues -- Notwithstanding subsections 169(1) and 169(2), for greater certainty a taxpayer may not appeal to the Tax Court of Canada to have an assessment under this Part vacated or varied in respect of an issue for which the right of objection or appeal has been waived in writing by the taxpayer.
+[2] In the alternative, the respondent seeks an extension of time for filing the Reply to Notice of Appeal.
+[3] Noran opposes the respondent’s application.
+Factual background
+[4] Noran carries on the business of real estate development. Its sole shareholder is Mr. Raymond Ayers.
+[5] On July 20, 2001, Noran entered into a joint venture agreement with two numbered companies, 610421 B.C. Ltd. (“610”) and 616946 B.C. Ltd., for the purpose of purchasing land in White Rock, B.C. and constructing condominium units on it. At some point, 616946 B.C. Ltd. changed its name to Pacific Pointe Homes Ltd., and I will refer to it as PPHL in these reasons.
+[6] According to the joint venture agreement, Noran held a 60% interest in the joint venture and 610 held a 40% interest. Legal title to the land was held by PPHL, as bare trustee for Noran and 610, in the same proportion as their interests in the joint venture.
+[7] In April 2004, title to two of the condominium units constructed by the joint venture was transferred from PPHL to Noran (Units 106 and 204), and title to two other units was transferred from PPHL to Mr. Ayers (Units 111 and 408). Title to a fifth unit (Unit 316) was transferred from PPHL to the spouse of the sole shareholder of 610, Ms. Loren Thorne.
+[8] Mr. Ayers states in an affidavit filed in this motion that the transfer of title to Units 111 and 408 into his name was done to assist in obtaining financing for the joint venture and that it was always intended that he was to hold title to those units in trust for Noran. No documentation or corroboration was provided to support this claim.
+[9] In mid‑2008, Noran and 610 were audited by the Canada Revenue Agency (CRA). The primary issue under audit was whether Noran and 610 under-reported their share of joint venture income arising from the non-arm’s length disposition of the units to Noran, Mr. Ayers and Ms. Thorne.
+[10] Noran was represented in the audit by its corporate accountant, Ms. Deborah Foot, and 610 was represented by Mr. Gary Luedke. Mr. Luedke also made certain submissions to the CRA auditor on behalf of both 610 and Noran.
+[11] The CRA auditor concluded that Noran and 610 had under-reported their share of the income realized by the joint venture on the transfer of the five units because the proceeds of disposition reported by the joint venture on those dispositions were less than the fair market value of the units at the time of disposition. The auditor also concluded that Mr. Ayers, as a shareholder of Noran, had received a benefit because he acquired Units 111 and 408 from the joint venture for less than fair market value.
+[12] Prior to reassessments being issued, Mr. Luedke, on behalf of both 610 and Noran, had requested that the auditor allocate the entire amount of additional joint venture income to Noran because the major part of the additional proceeds was due to units beneficially owned by Noran and Mr. Ayers[1]. In support of this request, Noran and 610 provided a written agreement between them specifying that any income arising from an adjustment by the CRA to the proceeds of disposition of the units would be allocated entirely to Noran. The auditor accepted this request and Noran was reassessed on November 9, 2009 to include all of the additional income to the joint venture in respect of the disposition of the units, totaling $639,760, in its income for its taxation year ending August 31, 2005.
+[13] Mr. Ayers was reassessed for his 2005 taxation year to add a shareholder benefit of $515,000 and a benefit in respect of imputed interest on the shareholder loan in the amount of $9,163 to his income.
+[14] Subsection 163(2) penalties were applied to the amounts for which Noran and Mr. Ayers were reassessed.
+[15] PPHL was reassessed for GST in respect of the increased proceeds of disposition but the details of that reassessment were not clearly set out in the evidence. It appears that penalties under section 285 of the Excise Tax Act were imposed as well.
+[16] Mr. Ayers states in his affidavit that he instructed Ms. Foot to file objections to all of these reassessments. Ms. Foot, however, filed objections to the reassessment of Noran and to the reassessment of PPHL but did not file an objection to Mr. Ayers’ personal reassessment.
+[17] A letter which formed part of Noran’s notice of objection set out the basis for the objection. The issues raised were the imposition of gross negligence penalties, the effective date and amount of the valuation of the properties, the assessment of GST on the sale of two of the units, the income inclusion of $639,760 to Noran and the assessment of interest. That letter reads as follows:
+1. The taxpayer objects to the application of gross negligence penalties s. 163(2) assessed in the amount of $68,089.00 federally and $36,175.00 provincially. The taxpayer was acting on information and valuations appearing to be fair market value at that time and were not acting in the absence of care and diligence on the part of their tax affairs. The joint venture has reported all income and expenses relating to these sales and Noran West has capitalized the acquisition correctly.
+2. The taxpayer objects to the valuation of properties by CRA’s internal real estate division. The taxpayer has noted that the valuation amounts used by CRA are excessively high and do not represent fair market value at the time of the agreement. The taxpayer has previously requested and CRA has declined to provide any information for the basis of valuation.
+3. The taxpayer objects to the date of April 15, 2004 being utilized by CRA for market valuation and states that the date of January 14, 2003 should be used based on the Contract of Purchase and Sale entered into on that date.
+4. The taxpayer objects to CRA assessing GST on the sale of the two units between Pacific Pointe Joint Venture and Noran West Developments as a GST election form should have (or has been filed).
+5. The taxpayer objects to the income inclusion in Noran West Developments of $639,760.
+6. The taxpayer objects to the assessment of interest in the amount of $79,137.10 on the Notice of Reassessment.
+[18] Noran’s notice of objection form was signed by Mr. Ayers and the letter attached to it indicated that it had been copied to Mr. Ayers.
+[19] The CRA officer assigned to Noran’s objection was Ms. Menen Wolde‑Mariam.
+[20] According to the affidavit of Ms. Wolde-Mariam filed by the respondent, Ms. Wolde-Mariam and Ms. Foot had a number of discussions over the phone concerning the objection. These discussions culminated in a settlement being proposed by Ms. Wolde‑Mariam whereby the amount of unreported income assessed to Noran would be reduced by $50,000 to reflect a lower fair market value of Unit 408 at the time of transfer, and the gross negligence penalty would be adjusted accordingly. Ms. Wolde‑Mariam prepared a waiver letter and sent it to Ms. Foot on January 27, 2011. The waiver letter read as follows:
+Without Prejudice
+Waiver of Right of Objection or Appeal
+Canada Revenue Agency
+Appeals Division, 430-01
+Burnaby-Fraser Tax Services Office
+STC
+9755 King George Hwy
+Surrey BC V3T 5E1
+Attn: M. Wolde-Mariam, CGA
+Dear Ms. Wolde-Mariam,
+Re: Notice of Objection for the 2005 Taxation Year
+This is further to our discussions concerning the 2005 taxation year notice of objection. I waive any right of objection or appeal in respect of:
+1. The addition to income on the non arm’s length disposition of condominium units #106, 111, 204, 316 and 408 located at 15621 Marine Drive, white Rock, B.C.
+2. Subsection 163(2) gross negligence penalty applied on the unreported income of $639,760.
+If Canada Revenue Agency re-assesses as follows:
+1. Reduce the addition to income from the disposition of condominium units #106, 111, 204, 316 and 408 located at 15621 Marine Drive, White Rock, B.C. to $589,760 i.e. a reduction of $50,000.
+2. Confirm the application of gross negligence penalty on the unreported income of $589,760.
+Previous Net Income $687,039
+Adjustments pursuant to the settlement:
+Deduct:
+Addition to revenue previously
+assessed $639,760
+Revised Addition to revenue 589,760
+Reduction to assessed revenue $ 50,000
+Revised Net Income $637,039
+Deduct:
+Prior year non-capital losses $57,318
+Revised Taxable Income $579,721
+I am familiar with subsection 165(1.2) and 169(2.2) of the Income Tax Act and understand that I will be precluded from filing an objection or an appeal with respect to those issues.
+It is agreed and understood that this agreement is binding on my heirs, executors, trustees, administrators, and any other person who might become liable for the taxes, interest, and penalties, which will ensue from this agreement.
+_____________­­­­­­­­­­­
+Signature Date
+[21] Ms. Foot gave Mr. Ayers the waiver letter to sign and he did so on February 10, 2011, and Ms. Foot returned it to Ms. Wolde-Mariam after adding a brief handwritten note. Ms. Wolde-Mariam then asked Ms. Foot for an executed copy without the addition of the note. Ms. Foot gave Mr. Ayers a clean copy of the waiver letter and requested that he sign it. He did so and Ms. Foot sent it by fax to Ms. Wolde‑Mariam on February 16, 2011.
+[22] Mr. Ayers states in his affidavit that, when he signed the waiver letter, it was his understanding that he, Noran, and PPHL had reached an agreement with the CRA only with respect to the fair market value of the transferred units, and that he did not understand or believe that he was agreeing thereby to a complete resolution of all of the issues outstanding between Noran, PPHL and himself and the Minister. The other issues that he believed remained outstanding were: whether Noran had transferred the beneficial ownership of Units 111 and 408 to him or whether he held title as bare trustee for Noran; whether additional GST was payable by PPHL with respect to the transfer of the units; and whether gross negligence penalties should be assessed against Noran, PPHL and himself.
+[23] The Minister reassessed Noran on April 21, 2011 to reduce its income for its taxation year ending August 31, 2005 by $50,000 and to reduce the amount of the gross negligence penalty.
+[24] The respondent’s counsel concedes that an error was made in calculating the amount of the gross negligence penalty in the April 21, 2011 reassessment and that the penalty was based on unreported income in the amount of $599,760 rather than on $589,760, as agreed. The respondent concedes that the penalty was too high by as much as $1,106. Because this error was only raised by Noran’s counsel shortly before the hearing of the motion, counsel for the respondent advised the Court that she was unable to obtain the exact amount of the error.
+[25] On July 14, 2011, Noran filed an appeal to this Court from the April 21, 2011 reassessment.
+Position of the parties
+[26] The respondent takes the position that Noran’s appeal to this Court is barred because Noran waived its right to object to or appeal from the inclusion of unreported income of $589,760 in respect of the transfer of the units and from the imposition of gross negligence penalties on that unreported income.
+[27] Noran maintains that it is not precluded by subsection 169(2.2) of the Act from appealing the reassessment for the following reasons:
+a) the waiver letter was not an “agreement in writing”, within the meaning of subsection 169(2.2), because it lacked an essential element, that being the name of the appellant (Noran) or any means of identifying it as party to the agreement;
+b) the agreement set out in the waiver letter is not enforceable because a reassessment made in compliance with the agreement is not justifiable on the facts and the law;
+c) there was no agreement reached between the parties because they were not ad idem with respect to the terms of the agreement, and because the agreement was unreasonable and unconscionable;
+d) even if there was an agreement reached between the parties,
+i) the Minister did not reassess Noran in accordance with the agreement; and
+ii) Noran is appealing other issues than those for which Noran waived its right of appeal.
+Analysis
+What is the correct interpretation of the words “in writing”?
+[28] Counsel for Noran submitted that the waiver agreement in issue was not an agreement in writing as contemplated by subsection 169(2.2) of the Act because it did not contain Noran’s name or any means of identifying Noran. Again, subsection 169(2.2) reads:
+Waived issues -- Notwithstanding subsections 169(1) and 169(2), for greater certainty a taxpayer may not appeal to the Tax Court of Canada to have an assessment under this Part vacated or varied in respect of an issue for which the right of objection or appeal has been waived in writing by the taxpayer.
+[29] Counsel noted that the Act does not prescribe a particular form for a waiver of objection or appeal rights and that the phrase “in writing”, used in subsection 169(2.2), is not defined in the Act. He suggested that the phrase “in writing” in that provision should be given the same meaning as the phrase “evidenced in writing”, found in Statute of Frauds legislation in respect of agreements dealing with an interest in land in various provinces. For example, in McKenzie v. Walsh[2], the Supreme Court of Canada held that, for the purposes of section 4 of the Nova Scotia Statute of Frauds, one of the essential elements of a written agreement contemplated by that provision was the identification of the parties to the agreement. Section 4 read at that time as follows:
+No interest in land shall be assigned, granted or surrendered except by deed or note in writing signed by the party assigning granting or surrendering the same, or by his agent thereunto authorized by writing, or by act and operation of law.
+Similarly, in Imperial Bank v. Nixon[3], the Ontario Supreme Court held that the omission of the name of the principal debtor on a guarantee was fatal to its enforceability because the guarantee was not evidenced in writing as required by the Ontario Statute of Frauds.
+[30] I am not persuaded, however, that these cases are relevant to the interpretation of the phrase “waived in writing” in subsection 169(2.2) of the Act. Counsel has not shown why the normal rule of statutory interpretation should not be relied upon in this case to interpret that provision. It seems somewhat incongruous to look to the cases cited by counsel for Noran for assistance in interpreting the phrase “in writing” when the type of waiver at issue here is not even the type of contract or agreement covered by the relevant Statute of Frauds legislation.
+[31] I find that there is no ambiguity in the wording “waived in writing” in subsection 169(2.2) and that the plain meaning of these words simply requires that a waiver be reduced to writing as opposed to one given orally. The sufficiency and terms of the waiver are a matter of interpretation as is the case with any contract. Furthermore, in Solberg v. The Queen[4], Reed J. held that:
+The appropriate approach to the interpretation of [a] waiver is to seek to ascertain the intention of the parties as expressed in that document together with any relevant circumstance for which evidence is available.
+[32] This approach was endorsed by the Federal Court of Appeal in Mitchell v. The Queen[5].
+[33] While Solberg dealt with a waiver of the time limit for reassessing a taxpayer, I see no reason why this approach should not apply to a waiver of a right to object to or appeal from a reassessment. As such, the identity of the party to a waiver is a matter that may be established by evidence.
+Is there any ambiguity in the waiver’s intended application?
+[34] The following factors lead me to conclude that it was clear that the waiver agreement was intended to apply to Noran alone:
+- the body of the waiver agreement contains specific references to tax amounts, including the amount of unreported income involved, that relate only to Noran;
+- the first issue for which the waiver is being given is “the addition to income on the non arm’s length disposition of condominium units 106, 111, 204, 316 and 408…” (my emphasis). Only Noran disposed of the units. Mr. Ayers, on the other hand, acquired units. Only Noran was assessed additional income in respect of the five listed units. Mr. Ayers was only assessed in respect of two of those units.
+- the proposed reassessments are very specific and clearly do not contemplate changes to shareholder benefit, imputed interest amounts or GST. Only one set of figures is used, and those figures pertain to Noran alone.
+I find as well that the use of the words “I”, “me” and “my” in the waiver agreement, all first person singular pronouns, reinforces the conclusion that the waiver agreement was intended to apply to only one taxpayer, and that the other language and figures used in it show that it was intended to apply to Noran.
+Does the reassessment accord with the facts and the law?
+[35] Noran’s next argument is that the waiver agreement is unenforceable because the reassessment contemplated in the agreement is not one that accords with the facts and the law.
+[36] Counsel rightly points out that the Minister may not compromise or settle a tax dispute on a basis that cannot be justified under the Act.[6] This is a logical extension of the principle that the Minister must assess in accordance with the law.[7] Another logical extension of this principle is that a Court will refuse to uphold a settlement agreement where it perceives the assessment that the Minister is required to make under the agreement is illegal. [8] In Galway, Jackett C.J. stated that “…the Minister has a statutory duty to assess the amount of tax payable on the facts as he finds them in accordance with the law as he understands it.”[9]
+.
+[37] In the present case, counsel for Noran submits that, given the facts accepted by both the Minister and Noran, it was not open to the Minister to include any income from the transfer of the units in Noran’s income taxation year ending August 31, 2005. The parties agree that the transfers occurred in April 2004. Therefore any income realized by Noran as a result of the transfers would have been realized by it in its taxation year ending August 31, 2004 rather than its taxation year ending August 31, 2005.
+[38] It appears that the reason the Minister added the income in Noran’s taxation year ending August 31, 2005 was due to the period used by the joint venture for determining its financial results, which ended on September 30 each year. The joint venture included the profit from the disposition of the units in its financial results for the period ending September 30, 2004. Noran then included its share of the profit from the operation of the joint venture for that period in its income for its fiscal year that ended August 31, 2005. In effect, Noran reported its share of the joint venture income on the basis that the joint venture had a different fiscal period than it did. This can be seen from the CRA audit report for Noran. The auditor wrote that:
+. . . The sales of the condo units are subject to 7% GST which was paid under a joint venture GST number 889661013RT0001. Majority of the GST was paid between January 1, 2004 to March 31, 2004 GST return. The profit was then allocated to the corporation’s year end of August 2005 as the fiscal year ends of the joint venture overlapped with the year end of the taxpayer. . . . [10]
+(emphasis added)
+[39] The auditor did not shift Noran’s share of the profit from the disposition of the units into Noran’s taxation year ending August 31, 2004, despite being aware that the disposition occurred in April 2004. This would indicate that the CRA accepted the use of a separate fiscal period for the joint venture.
+[40] This conformed to CRA administrative policy at the time[11] although that policy was not based on any provision in the Act. The policy is discussed by James P. Thomas and Elizabeth J. Johnson in Understanding the Taxation of Partnerships[12] at page 13:
+. . . a joint venture is not referred to specifically in the Act, and since a joint venture is not a separate person for income tax purposes, the joint venture does not have its own taxation year. It follows that the legal requirement would be for each joint venturer to report his or her income or loss from the joint venture in the same manner as he or she would report any income from similar activities not carried on through a joint venture. However, there are practical difficulties that arise from this approach, particularly where the joint venture participants each have different taxation year-ends, since the joint venture would have to provide financial information to its participants at various times throughout the year.
+To address these difficulties, the CRA adopted an administrative practice that permitted a joint venture to establish a separate fiscal period of its own. This generally allowed the joint venture participants to report their share of the joint venture income based on the fiscal period of the joint venture that ended in each participant’s taxation year, just as if the joint venture were a partnership.
+(emphasis added)
+[41] Since the use of a separate fiscal period for a joint venture has no basis in the Act, I agree with Noran’s counsel that the inclusion of the profit from the transfer of the units in Noran’s taxation year ended August 31, 2005 was not in accordance with the Act.
+[42] However, in my view, it does not necessarily follow that the reassessment made by the Minister in accordance with the waiver agreement was a reassessment that the Minister did not have any legal authority to make. I say so because the settlement agreement did not provide for a reassessment that included the profit from the sale of the units in Noran’s income. The profit had already been included in Noran’s income by the previous reassessment. The reassessment made as a result of the settlement agreement simply reduced the amount of Noran’s profit from the dispositions based on a different value for the units at the time of their disposition. As I see it, there is nothing contrary to any provision of the Act in that reassessment. It is a reassessment that this Court would have had the power to order if the matter had gone to hearing.
+[43] Counsel also argued that the reassessment appealed from was illegal in two further respects. First, since Noran was already the beneficial owner of a 60% interest in the joint venture property, it was wrong to include 100% of the amount by which the fair market value of the units exceeded the proceeds of disposition in Noran’s income. Noran could not dispose of property to itself therefore there was no disposition of its original 60% interest when title to Units 106 and 204 was transferred to it in April 2004. Second, counsel maintained that the agreement between Noran and 610 that Noran would be taxable on all of the income arising from the transfer of title to the units (including 610’s 40% interest) was unenforceable by the Minister.
+[44] It is not necessary for me to deal with these arguments. They both deal with aspects of the reassessment which preceded the reassessment made pursuant to the waiver agreement and, for the same reason as I have given above, any errors in previous reassessments do not affect the Minister’s authority to issue the reassessment in issue before me.
+[45] The decisions in Galway and Cohen are not authority for the proposition that a Court must be satisfied of the legality of assessments that precede the assessment arising from a settlement agreement in order to determine whether the settlement agreement is binding on the parties. If that proposition were accepted, the settlement process in tax cases would be undermined. The desirability of upholding negotiated settlements was discussed by Bowie J. in 1390758 Ontario Corp v. The Queen:[13]
+[35] I agree with Bowman C.J. and the authors Hogg, Magee and Li that there are sound policy reasons to uphold negotiated settlements of tax disputes freely arrived at between taxpayers and the Minister's representatives. The addition of subsection 169(3) to the Act in 1994 is recognition by Parliament of that. It is not for the Courts to purport to review the propriety of such settlements. That task properly belongs to the Auditor General.
+[36] The reality is that tax disputes are settled every day in this country. If they were not, and every difference had to be litigated to judgment, unmanageable backlogs would quickly accumulate and the system would break down.
+[37] The Crown settles tort and contract claims brought by and against it on a regular basis. There is no reason why it should not settle tax disputes as well. Both sides of a dispute are entitled to know that if they invest the time and effort required to negotiate a settlement, then their agreement will bind both parties.
+[46] I would also note that at no time prior to the waiver agreement did Noran take the position that the income had been included in the wrong year or that there was no disposition of its 60% beneficial interest. This reinforces my conclusion that the parties did not intend to deal with the timing of the income inclusion or the beneficial ownership of the units in the waiver agreement.
+Were the parties ad idem?
+[47] Noran’s next argument is that the waiver agreement is invalid because the parties were not ad idem as to the terms of the agreement.
+[48] In his affidavit, Mr. Ayers states that it was his understanding at the time he signed the waiver agreement that it applied to Noran, to himself personally and to PPHL. He says that he had instructed Ms. Foot to file an objection to his personal reassessment as well as to the reassessments against Noran and PPHL, and believed that she had done so and had been discussing all of the reassessments with the appeals officer, Ms. Wolde-Mariam, prior to giving him the waiver agreement to sign.
+[49] Mr. Ayers also says that he understood that the waiver agreement only settled the issue relating to the fair market value of the units and that other issues remained unresolved. He understood the unresolved issues related to the beneficial ownership of the units, to the GST payable on the transfers by PPHL and to the penalties assessed against Noran, PPHL and himself.
+[50] For these reasons, Noran’s counsel asserts that Mr. Ayers was mistaken as to the terms of the waiver agreement and that this mistake is grounds for not enforcing that agreement. Counsel relies on the decision of the Ontario Court of Justice (General Division) in Canadian Imperial Bank of Commerce v. Weinman et al.[14] in which Chapnik J. held that no settlement agreement had been entered into between the parties where one of the parties had misconstrued the offer. The Court held that “the parties were not ad idem in regard to the ‘agreement’ reached between them” and relied on the following passage from Chitty on Contracts[15] at paragraph 351:
+Unilateral Mistake.
+No contract can be formed if there is no correspondence between the offer and the acceptance. If, therefore, one party makes to the other an offer which the other party accepts in a fundamentally different sense from that intended by the offeror, the contract may be void. The intention of the parties is, as a general rule, to be construed objectively. The language used by one party, whatever his real intention may be, is to be construed in the sense in which it would be reasonably understood by the other, or at least in the sense in which a reasonable person would construe it.
+[51] In this case, Noran’s counsel says that Mr. Ayers misconstrued the terms of the waiver settlement proposed by Ms. Wolde-Mariam, and therefore Noran and the Minister were not ad idem as to the waiver agreement, and no contract was formed between them.
+[52] The respondent’s counsel argues that Noran has not shown that Mr. Ayers made any mistake as to the effect of the waiver or as to the parties to it and that the waiver agreement dealt with all of the issues raised in Noran’s notice of objection. Counsel says that an examination of the waiver agreement and all of the surrounding circumstances does not support the conclusion that Mr. Ayers could have believed that there remained other outstanding issues between the parties after the signing of the waiver agreement. Counsel points out that Noran’s notice of objection does not refer to any other issues and that, according to Ms. Wolde-Mariam, no other issues were raised by Noran’s representative, Ms. Foot, in their discussions. Counsel for the respondent also maintains that there is no basis for Mr. Ayers’ stated belief that the waiver agreement related to his personal tax reassessment, given that he had never signed a personal notice of objection form. Furthermore, she asks the Court to draw a negative inference from Noran’s failure to provide an affidavit from Ms. Foot setting out what discussions or communications she had with Mr. Ayers about the objection and waiver agreement.
+[53] The question to be decided is whether Noran and the Minister reached a consensus ad idem on the fundamental terms of the waiver agreement, or whether a mistake by Mr. Ayers prevented a consensus. Consensus ad idem is essential because “… mutuality of agreement lies at the root of any legally enforceable contract.” (Per Alberta Court of Appeal in Ron Ghitter Property Consultants Ltd. V. Beaver Lumber Company Limited.)[16] The Court in Ghitter went on to say:
+[11] But to prevent the formation of a contract, the mistake must be fundamental, in the sense that it must go to an essential term of the alleged contract. As explained in Cheshire, Fifoot and Furmstom, Law of Contract, supra, at 270: Translated into the familiar rubric of offer and acceptance, this means that the only type of mistake which is ever capable of excluding offer and acceptance is one that prevents the mistaken party from appreciating the fundamental character of the offer and acceptance.
+[12] There are three types of mistake: common, mutual and unilateral: see Cheshire, Fifoot & Furmston, Law of Contract, supra at 252-53 for a summary of each. Common mistake occurs when the parties make the same mistake. For example, one party contracts to sell a vase to another when unbeknown to both, the vase was destroyed and no longer exists. Mutual mistake occurs when both parties are mistaken, but their mistakes are different. In this event, the parties misunderstand each other and are, to use the vernacular, “not on the same page”. Unilateral mistake involves only one of the parties operating under a mistake. If the other party is not aware of the one party’s erroneous belief, then the case is one of mutual mistake but if the other party knows of it, of unilateral mistake. What adds to the confusion is that the distinction between mutual and common mistake is sometimes blurred when courts use the two terms interchangeably.[17]
+[54] In this case, Noran’s alleged mistake was not known to the Minister, and so, if such a mistake is found to have been made, this would be a case of mutual mistake. Mutual mistake prevents a consensus ad idem from being reached with the result that the apparent agreement reached between the parties is void.
+[55] Therefore, it must be determined then whether Mr. Ayers, acting on behalf of Noran, was operating under one or more mistakes when he signed the agreement. In order to make this determination, I must take into account the understanding of Mr. Ayers and Ms. Wolde-Mariam, who was acting on behalf of the Minister. This is the approach set out in Ghitter :
+[16] Further, to assess whether a claimed mistake invalidates a purported agreement, the Court must be satisfied that there was in fact an operative mistake. Whether parties to an intended contract are mistaken about some element of the contract requires consideration of their respective understandings at the relevant time. It is on this point that the trial judge properly considered Beaver’s and Ghitter’s subjective intentions at the time the Purchase Agreement was signed…[18]
+[56] Mr. Ayers says that he believed that the waiver applied not only in respect of the reassessment of Noran, but also to his personal reassessment and to that of PPHL. He also says that he understood it was a resolution of only the valuation issue, and that he, Noran and PPHL were not agreeing to a settlement of all outstanding issues.
+[57] I am not satisfied that Mr. Ayers intended the waiver agreement to apply to himself personally and PPHL, as well as to Noran. Despite Mr. Ayers’ statement in his affidavit to this effect, such an intention is largely inconsistent with the wording of the waiver agreement. It is difficult to accept that Mr. Ayers, after having read the waiver agreement could believe that it applied to anyone other than Noran. While Noran is not specifically mentioned, the waiver agreement quite clearly refers to only one taxpayer. The first line refers to a single notice of objection, and the unreported income on which the subsection 163(2) penalty was imposed is shown as $639,760, which was only the case for Noran. The “previous net income” and “addition to revenue previously assessed” amounts likewise were the figures taken from the reassessment of Noran. Even if Mr. Ayers was not aware of the amounts that were used in the previous reassessment against Noran, it is still apparent in my view that only one taxpayer and only one reassessment was contemplated by the agreement. It is also difficult to reconcile Mr. Ayers’ stated belief with the absence of any reference in the waiver agreement to a shareholder benefit or to GST, which were the items for which he and PPHL were reassessed. For these reasons, it seems highly unlikely that Mr. Ayers intended the waiver agreement to cover three taxpayers.
+[58] I agree with the respondent’s counsel that a negative inference should be drawn from the failure by Noran to provide evidence from Ms. Foot. According to Mr. Ayers’ affidavit, he had discussions with Ms. Foot during the period that Ms. Foot and Ms. Wolde-Mariam were negotiating the settlement and it is reasonable to believe that they would have discussed the proposed settlement before Mr. Ayers signed it. Noran’s failure to provide evidence from Ms. Foot leads me to infer that her evidence concerning Mr. Ayers’ understanding of the settlement would not have been favourable to Noran.
+[59] The second alleged mistake relates to which issue or issues were being settled. First, Mr. Ayers says he did not intend to concede the issue concerning the beneficial ownership of units 111 and 408. However, the beneficial ownership question was not raised in Noran’s notice of objection, which was signed by him. I fail to see how Mr. Ayers could believe that an issue that had not even been raised in Noran’s objection would somehow survive the waiver agreement.
+[60] Mr. Ayers also says he did not intend to settle the gross negligence penalty issue and was not aware that the waiver agreement dealt with the issue. At paragraph 65 of his affidavit, he says:
+65. Having re-read the First Letter after I signed it, including reading it for the purpose of swearing this affidavit, I can see that it refers to gross negligence penalties. However, at the time I signed the First Letter, I did not understand or believe that I was agreeing to the imposition of gross negligence penalties against the Corporation, PPHL or me.
+[61] It is abundantly clear from the waiver agreement, though, that the penalty issue was part of the settlement that was being agreed to. The only conceivable way that Mr. Ayers could have missed this is if he skipped over reading that part of the agreement. If a party chooses not to read an agreement with care before signing it, or chooses to skip reading parts of it, I fail to see how he can turn around and allege that his intention did not accord with the written agreement. It must be presumed that, in those circumstances, the party intended to accept the agreement as written.
+[62] For these reasons I find that Noran has not made out the case that there was an operative mistake that invalidates the waiver agreement entered into by the parties.
+[63] Next Noran alleges that the Minister has not fulfilled the terms of the waiver agreement because the gross negligence penalty was incorrectly calculated in the reassessment issued pursuant to the agreement. According to counsel, this vitiates Noran’s agreement not to appeal any of the issues contained in the waiver agreement. He relies on the informal procedure decision of this Court in Rainville v. The Queen.[19]
+[64] In Rainville, the taxpayer had waived his right to object or appeal in respect of the inclusion of a shareholder benefit in his income for his 1993 taxation year. The benefit consisted of advances received from his corporation, and interest on those advances. In exchange for the taxpayer’s waiver, the Minister agreed to treat the amount that the taxpayer had loaned his corporation as a repayment of the advances he had received from the corporation. In the reassessment that followed the waiver agreement, the Minister allowed the deduction for the repayment of the advances but allowed it in the taxpayer’s 1996 taxation year. The Minister then carried back the resulting non-capital loss to the taxpayer’s 1993 taxation year. This resulted in a large amount of interest being assessed to the taxpayer because the tax for his 1993 taxation year remained payable until the year the loss carryback arose. The taxpayer appealed the reassessment on the basis that the deduction for the loan ought to have been allowed in his 1993 rather than 1996 taxation year because he made the loan to his corporation in 1993. The Minister took the position that the taxpayer had waived his right to appeal. Lamarre Proulx J. reviewed the waiver agreement to determine the true agreement between the parties. She found that both the taxpayer and the CRA auditor intended that the loan would be taken into account in calculating the taxpayer’s income for his 1993 rather than 1996 taxation year. At paragraph 20 Lamarre Proulx J. said:
+Since it is my view that the parties' mutual agreement in this case was that suggested by the appellant, the assessment in that regard is not in keeping with the agreement and the appellant is entitled to appeal with respect to that aspect.[20]
+[65] As I read that case, it permits an appeal from a reassessment made after a waiver only to the extent of any inconsistency between the waiver agreement and the reassessment. It does not stand for the proposition that any inconsistency between the reassessment and the waiver agreement allows a taxpayer to appeal any aspect of the reassessment as if no waiver had been given. It does not make sense that any error in reassessing, however minor, could permit a taxpayer to repudiate the waiver entirely.
+Was the waiver agreement unconscionable?
+[66] Another argument raised by Noran’s counsel was that the Court should decline to enforce the waiver agreement on the grounds that it is unconscionable. He submitted that Noran got very little benefit in exchange for giving up its appeal rights under the agreement.
+[67] This argument was not pressed strongly and I find no merit in it. In Matheson Estate v. Stefankiw[21], Zarzcenzy J. of the Saskatchewan Court of Queen’s Bench said that “…a plea that a bargain is unconscionable invokes relief against an unfair advantage gained by an unconscionable use of power by a stronger party against a weaker.” There was no evidence here to suggest that Noran, represented by Ms. Foot, a Certified General Accountant, was the weaker party in the negotiation of the waiver agreement, nor that there was any unconscionable use of power by Ms. Mariam‑Wolde.
+Is Noran appealing issues not covered by the waiver agreement?
+[68] Noran’s final argument for dismissing the respondent’s motion is that it is appealing issues other than those dealt with in the waiver agreement.
+[69] Counsel submits that the waiver agreement must be strictly construed against the Minister, and any ambiguity must be resolved in favour of Noran. On this basis, the first paragraph of the waiver should be interpreted as being limited to a waiver of the right to object to or appeal from the determination of the fair market value of the units at the date of disposition. That paragraph reads:
+1. The addition to income on the non arm’s length disposition of condominium units #106, 11, 204, 316 and 408 located at 15621 Marine Drive, White Rock, B.C.
+[70] Counsel maintains that this paragraph should be interpreted according to Mr. Ayers’ understanding, which was that he was giving up his appeal rights only with regard to the issue of valuation.
+[71] The second paragraph of the waiver reads:
+2. Confirm the application of gross negligence penalty on the unreported income of $589,760.
+[72] Counsel contends for a literal interpretation of this provision and says it only prevents Noran from appealing a penalty if that penalty is calculated on unreported income of $639,760. Since the unreported income amount was reduced by the reassessment, and the penalty was calculated on the lower amount, Noran is not prevented from appealing the penalty.
+[73] I am unable to accept the interpretation of the two provisions of the waiver urged upon me by Noran’s counsel. The correct approach to the interpretation of a waiver of appeal rights is in my view the same as for a waiver given by a taxpayer to permit the Minister to reassess after the expiry of the normal assessment period, as set out in Solberg, supra, which is to “seek to ascertain the intention of the parties as expressed in that document together with any relevant circumstances for which evidence is available.”[22] The Federal Court of Appeal approved this approach in Mitchell v. The Queen.[23]
+[74] When searching for the intentions of the parties, I believe that the search for intention in the case of a waiver is to be conducted in the same manner as for any contract on the basis of the parties’ manifested intention. That intention is determined from the perspective of the objective reasonable bystander. Fridman in the Law of Contract in Canada,[24] refers to the classical formulation of this notion in Smith v. Hughes:[25]
+If whatever a man’s real intention may be, he so conducts himself that a reasonable man would believe that he was assenting to the terms proposed by the other party and that other party upon that belief enters into a contract with him, the man thus conducting himself would be equally bound as if he had intended to agree to the other party’s terms.
+[75] In my view, the wording of the first paragraph of the waiver is incapable of bearing the meaning suggested by Noran’s counsel. There is nothing to indicate the issue is limited to the determination of fair market value of the units. In light of the clear and unambiguous wording used, Mr. Ayers’ subjective intention cannot prevail.
+[76] With respect to the second paragraph, I find that the parties’ intentions, from the point of view of an objective reasonable person, were that Noran would not contest the imposition of the gross negligence penalty on the agreed amount of the unreported income arising from the non-arm’s length disposition of units. I find that the reference to the amount of $639,760 rather than $589,760 is, as in Solberg, “a technical defect which does not impair the substance of the waiver”[26] of the right to object to or appeal from the gross negligence penalty.
+Conclusion
+[77] For all of these reasons, the respondent’s motion to quash Noran’s notice of appeal is granted, with costs of the motion to the respondent.
+Signed at Vancouver, British Columbia, this 12th day of December 2012.
+“B.Paris”
+Paris J.
+CITATION: 2012 TCC 434
+COURT FILE NO.: 2011-2274(IT)G
+STYLE OF CAUSE: NORAN WEST DEVELOPMENTS LTD. AND THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: December 12, 2011
+REASONS FOR ORDER BY: The Honourable Justice B. Paris
+DATE OF ORDER: December 12, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Alistair G. Campbell
+Michelle Moriartey
+Counsel for the Respondent:
+Jasmine Sidhu
+Selena Sit
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Alistair G. Campbell
+Michelle Moriartey
+Firm: Legacy Tax & Trust Lawyers
+Vancouver, British Columbia
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Affidavit of Mariam Wolde-Mariam, at Exhibit “G”.
+[2] (1920) 61 S.C.R. 312.
+[3] [1926] 4 D.L.R. 1052.
+[4] 92 D.T.C. 6448 (F.C.T.D.), 1992 CarswellNat 326 at para. 13.
+[5] [2003] 2 F.C. 767.
+[6]Galway v. M.N.R., [1974] C.T.C. 454 (F.C.A.) and Cohen v. The Queen, [1980] C.T.C. 318. (F.C.A.)
+[7] See: Karen Sharlow (now Sharlow J.A. of the Federal Court of Appeal) “Keeping Revenue Canada in Line”, Report of Proceedings of Forty-Ninth Tax Conference, 1997 Tax Conference (Toronto: Canadian Tax Foundation, 1998) 13:1-13.
+[8] Cohen v. The Queen, supra note 6.
+[9] Per Jackett C.J. in Galway v. M.N.R., supra, note 6 at para. 7.
+[10] Affidavit of Menen Wolde-Mariam, at Exhibit “A” page 1
+[11] This policy has since been amended. The CRA no longer allows a notional fiscal period for joint
+ventures. See: CRA Views, Interpretation 2011-0429581E5 (November 29, 2011)
+[12] 5th ed. (Toronto CCH Canadian Ltd.) 2006.
+[13] 2010 TCC 572 at para. 35.
+[14] 6 C.P.C. (3d) 189 (Ont. Ct. (G.D.)
+[15] 26th ed. (London: Sweet & Maxwell: 1990)
+[16] 2003 A.B.C.A. 221 at para. 8.
+[17] Ibid.
+[18] Ibid.
+[19] [2002] 2 C.T.C. 2786.
+[20] Ibid.
+[21] (2000), 191 Sask. R. 241, at para. 253.
+[22] Supra, note 4.
+[23] 2002 FCA 407 at para. 37.
+[24] 6th ed., (Toronto:Thomson Carswell).
+[25] (1871) L.R. 6 Q.B. 597 at para 607. This passage was referred to by the Supreme Court of Canada in St. John Tugboat Co. v. Irving Refining Ltd,. [1964] S.C.R. 614 at para. 622.
+[26] Supra, note 4.

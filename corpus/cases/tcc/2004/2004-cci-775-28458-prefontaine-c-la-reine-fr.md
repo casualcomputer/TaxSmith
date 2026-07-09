@@ -1,0 +1,154 @@
+---
+title: "Prefontaine c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28458/index.do"
+last_modified: "2004-11-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 775"
+citation2: ""
+neutral_citation: "2004 CCI 775"
+decision_date: "2004-11-24"
+language: "fr"
+item_id: "28458"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1191
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:49:29.587000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ac486d82d2f3490d1398a81e54885042f3833d897930d304616dbff350a4d536"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Prefontaine c. La Reine
+
+- Citation: 2004 CCI 775
+- Decision date: 2004-11-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1191, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Prefontaine c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-11-24
+Référence neutre
+2004 CCI 775
+Numéro de dossier
+2002-4820(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4820(IT)I
+ENTRE :
+ROSE PREFONTAINE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 15 novembre 2004, à Edmonton (Alberta).
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Représentant de l’appelante :
+Maurice Prefontaine
+Avocate de l’intimée :
+Me Carla Lamash
+ORDONNANCE
+La Cour ordonne :
+- qu’il soit interdit à M. Prefontaine de représenter l’appelante dans la présente instance et de représenter toute autre partie devant la Cour;
+- que M. Prefontaine soit représenté par un avocat dans le cadre de toute instance à laquelle il sera partie devant la Cour, à moins qu’un juge de la Cour n’en décide autrement;
+- qu’il soit interdit à M. Prefontaine de se présenter aux bureaux du greffe relevant du Service administratif des tribunaux judiciaires – Courts Administration Service, qui fournissent des services de greffe à la Cour;
+- qu’il soit interdit à M. Prefontaine de communiquer avec la Cour autrement que par courrier recommandé ou par messager.
+Signé à Ottawa, Canada, ce 24e jour de novembre 2004.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 11e jour de mars 2009.
+Alya Kaddour‑Lord, traductrice
+Référence : 2004CCI775
+Date : 20041124
+Dossier : 2002-4820(IT)I
+ENTRE :
+ROSE PREFONTAINE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Paris
+[1] Dans le cadre de la présente instance, l’appelante est représentée par son mari, M. Maurice Prefontaine. Tout au long de l’audition de l’appel, celui‑ci s’est montré incapable de se contrôler, ou peu disposé à le faire. Ses explosions de colère et ses commentaires irrespectueux ont constamment entravé la Cour dans l’exercice de ses fonctions et fait obstacle à l’administration de la justice.
+[2] L’audition de l’appel a débuté le 4 juillet 2003. Ce jour‑là, M. Prefontaine a tenu des propos injurieux et s’est à plusieurs reprises adressé à la Cour et à l’avocate de l’intimée en hurlant. L’audience a été suspendue plusieurs fois afin de lui permettre de reprendre ses esprits. Au cours de la journée, il est devenu plus agité, et ses explosions de colère se sont amplifiées. Son comportement a eu pour effet de rallonger la durée du procès et a mené à l’ajournement de celui‑ci.
+[3] Il était prévu que l’audience reprendrait le 12 janvier 2004, mais l’appelante était malade, et il a été convenu de repousser la date de l’audience. Elle a alors été fixée au 15 novembre 2004 (l’appelante n’étant pas disponible avant cela), et c’est à cette date que l’audience a repris. Ce jour‑là aussi, M. Prefontaine s’est à maintes reprises montré agité et a crié des injures à la Cour et à l’avocate de l’intimée. Bien qu’on l’ait prévenu qu’il courait le risque de se voir reconnu coupable d’outrage à la Cour, il n’a pas changé de comportement. L’audience a été ajournée, et après que l’ajournement a été ordonné, M. Prefontaine a continué d’invectiver la Cour, et a plus tard injurié la greffière tout en faisant quelques pas dans sa direction. Il a été escorté hors de la salle par un agent de la GRC qui était présent à l’audience.
+[4] La plupart des injures adressées à la Cour consistaient à remettre en question l’intégrité du juge saisi de l’affaire et celle du personnel de la Cour en général.
+[5] Ce n’était pas la première fois que M. Prefontaine adoptait une conduite inacceptable devant un tribunal. Il convient de se référer aux motifs de l’ordonnance rendue le 3 février 2004 par la Cour d’appel fédérale dans l’affaire Prefontaine c. Canada, A-175-01, ordonnance faisant état d’une partie des antécédents de M. Prefontaine. Dans le cadre de cette affaire, M. Prefontaine agissait également à titre de représentant de son épouse. Aux paragraphes 9 à 13 de ses motifs, la Cour d’appel fédérale a déclaré :
+[9]
+Dans le cadre des observations qu'il a présentées pour le compte de sa conjointe, M. Prefontaine était agité, il a élevé la voix au point qu'il invectivait les membres qui siégeaient dans l'affaire. Il a fait des allégations outrageantes au sujet des membres de la Cour de l'impôt, du procureur général et de ses agents ainsi que du personnel du greffe. Lorsqu'on lui a demandé de baisser le ton et de tempérer ses remarques, M. Prefontaine s'en est verbalement pris à un membre de la formation qui entendait l'appel. Ses sorties violentes étaient telles que l'on a ajourné l'audience pour lui permettre de se calmer. Étant donné qu'il a continué à avoir des accès de colère même après l'ajournement, des agents de la GRC qui étaient présents ont finalement escorté M. Prefontaine en dehors de la salle. M. Prefontaine est retourné dans la salle d'audience par la suite, mais la Cour était d'avis, compte tenu de ses propres observations et des renseignements que les agents de la Cour lui avaient transmis, que l'intérêt de la justice serait mieux servi si l'appel était jugé sur la base des documents déposés sans que d'autres arguments soient présentés.
+[10] Les tribunaux judiciaires de l'Alberta et le personnel du greffe connaissent M. Prefontaine pour ses accès de colère. M. Prefontaine a été déclaré coupable d'outrage au tribunal au criminel, sous deux chefs, par suite de la conduite qu'il avait eue devant la Cour d'appel de l'Alberta et devant la Cour du Banc de la Reine de l'Alberta. Une évaluation psychiatrique a été effectuée dans le contexte des procédures criminelles d'outrage; il a été conclu ce qui suit au sujet de M. Prefontaine : [traduction] « [Il] est atteint d'un trouble délirant de persécution ou encore il a une personnalité paranoïaque. Il croit fermement que divers juges agissent en complicité avec l'Agence des douanes et du revenu du Canada et il semble vraiment croire ces allégations. [...] Sa conviction que divers juges agissent en complicité avec l'Agence des douanes et du revenu du Canada est inébranlable ». Voir R. c. Prefontaine, [2002] A.J. no 1364, paragraphe 11.
+[11] Les événements qui ont donné lieu à la déclaration de culpabilité relative au deuxième chef d'outrage au tribunal en matière pénale illustrent l'intensité des vues de M. Prefontaine. La Cour était saisie d'une demande de suspension d'une ordonnance relative aux dépens. Lorsqu'on lui a demandé de limiter ses remarques à l'affaire dont la Cour était saisie, M. Prefontaine a rétorqué que [traduction] « le gouvernement fédéral du Canada est financièrement insolvable depuis près de 20 ans ». L'audition de l'affaire n'avançant pas comme il croyait qu'elle le devait, M. Prefontaine s'est mis à insulter le juge; on l'a par la suite entendu dire ce qui suit : [traduction] « Si vous continuez à agir ainsi, vous devriez vous habituer à vous barricader » : R. c. Prefontaine, précité, paragraphe 32.
+[12] Les remarques qui ont été faites en notre présence confirment que M. Prefontaine continue à avoir des idées paranoïdes et qu'il n'est pas capable de se maîtriser lorsqu'il exprime ces idées.
+[13] M. Prefontaine a également abusé de son droit d'agir pour son propre compte et de se présenter au bureau du greffe pour déposer ses documents. Selon les renseignements fournis à la Cour par ses agents :
+- M. Prefontaine a fait preuve de violence verbale à l'endroit du personnel du greffe les 11 et 26 juillet ainsi que le 18 décembre 2002;
+- Le 13 décembre 2002, M. Prefontaine s'est montré si violent qu'il a fallu avoir recours à l'agent de sécurité. Un membre du personnel du greffe, inquiet de sa sécurité personnelle, a dû se faire accompagner par un agent de sécurité;
+- Le 27 juin 1996, M. Prefontaine s'est agité; il a frappé le volet, au comptoir du greffe, avec une telle force qu'il l'a endommagé; et
+- Il y a eu de nombreux rapports de conversations téléphoniques violentes entre M. Prefontaine et le personnel du greffe.
+[6] Par voie d’ordonnance rendue le 3 février 2004, la Cour d’appel fédérale a interdit à M. Prefontaine de représenter une autre personne devant la Cour d’appel, de se présenter aux bureaux du greffe de la Cour d’appel fédérale, de se représenter lui‑même dans toute instance à moins qu’un juge de la Cour d’appel fédérale ne l’y autorise, et de traiter avec la Cour fédérale autrement que par courrier recommandé.
+[7] Il est clair que la Cour doit elle aussi prendre des mesures pour faire face à la conduite déplorable dont M. Prefontaine fait preuve dans le présent appel, car le fait de l’ignorer jetterait le discrédit sur l’administration de la justice. Il est nécessaire de rendre l’ordonnance suivante afin de protéger l’intégrité de la Cour, son personnel et le processus judiciaire :
+Il est interdit à M. Prefontaine de représenter l’appelante dans la présente instance et de représenter toute autre partie devant la Cour;
+M. Prefontaine devra être représenté par un avocat dans le cadre de toute instance à laquelle il sera partie devant la Cour à moins qu’un juge de la Cour n’en décide autrement;
+Il est interdit à M. Prefontaine de se présenter aux bureaux du greffe relevant du Service administratif des tribunaux judiciaires – Courts Administration Service, qui fournissent des services de greffe à la Cour;
+Il est interdit à M. Prefontaine de communiquer avec la Cour autrement que par courrier recommandé ou par messager.
+Signé à Ottawa, Canada, ce 24e jour de novembre 2004.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 11e jour de mars 2009.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE :
+2004CCI775
+NO DU DOSSIER DE LA COUR :
+2002-4820(IT)I
+INTITULÉ :
+Rose Prefontaine et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 15 novembre 2004
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Paris
+DATE DU JUGEMENT :
+Le 24 novembre 2004
+COMPARUTIONS :
+Représentant de l’appelante :
+Maurice Prefontaine
+Avocate de l’intimée :
+Me Carla Lamash
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+Morris Rosenberg
+Sous‑procureur général du Canada
+Ottawa, Canada

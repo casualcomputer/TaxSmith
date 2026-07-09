@@ -1,0 +1,522 @@
+---
+title: "Lee c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/350286/index.do"
+last_modified: "2018-11-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 230"
+citation2: ""
+neutral_citation: "2018 CCI 230"
+decision_date: "2018-11-15"
+language: "fr"
+item_id: "350286"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5026
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:42:06.884000+00:00"
+cases_cited_count: 6
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b8eb4885b8df1354715d01fae26a0c2ee5918f8081775355ea50550e72fd0ddb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lee c. La Reine
+
+- Citation: 2018 CCI 230
+- Decision date: 2018-11-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5026, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lee c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-11-15
+Référence neutre
+2018 CCI 230
+Numéro de dossier
+2013-2493(IT)G
+Juges et Officiers taxateurs
+John R. Owen
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-2493(IT)G
+ENTRE :
+VAN LEE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 30 et 31 mai 2018 et les 5 et 6 septembre 2018,
+à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge John R. Owen
+Comparutions :
+Avocats de l’appelant :
+Me David Jacyk, Me Monica Biringer,
+Me David Wilson et Me David Ross
+Avocat de l’intimée :
+Me Michael Taylor
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel des nouvelles cotisations faites en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004 et 2005, dont les avis sont datés du 20 novembre 2009, est accueilli et les nouvelles cotisations sont annulées.
+L’appelant a 30 jours à compter de la date du présent jugement pour présenter des observations sur les dépens et l’intimée aura 30 jours de plus pour répondre à ces observations. Les observations ne doivent pas dépasser 10 pages pour chaque partie.
+Signé à Ottawa, Canada, ce 15e jour de novembre 2018.
+« J.R. Owen »
+Juge Owen
+Traduction certifiée conforme
+ce 29e jour de juillet 2019.
+François Brunet, réviseur
+Référence : 2018 CCI 230
+Date : 20181115
+Dossier : 2013-2493(IT)G
+ENTRE :
+VAN LEE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Owen
+I. Introduction
+[1] Notre Cour est saisie de l’appel interjeté par V. Paul Lee (l’appelant) au sujet de la nouvelle cotisation du ministre du Revenu national (le « ministre ») de ses années d’imposition 2003, 2004 et 2005 (les « années d’imposition ») par avis daté du 20 novembre 2009 (les « nouvelles cotisations »). Les nouvelles cotisations ont été confirmées le 27 mars 2013.
+[2] Le ministre a d’abord établi une cotisation à l’égard de l’appelant pour les années d’imposition au moyen d’avis datés du 14 juin 2004, du 29 août 2005 et du 4 août 2006 respectivement. En conséquence, les nouvelles cotisations ont été émises après l’expiration de la « période normale de nouvelle cotisation » pour les années d’imposition au sens du paragraphe 152(3.1) de la Loi de l’impôt sur le revenu. Les parties n’ont pas discuté cette question.
+[3] Les nouvelles cotisations d’impôt de l’appelant ont été fondées sur le fait qu’une Fiducie connue sous le nom de Fiducie en faveur du conjoint Paul Lee (la « Fiducie ») dont l’appelant est constituant n’existait pas, soit du fait que la Fiducie ou la cession du bien vers la Fiducie était un trompe-l’œil, soit du fait que la Fiducie n’était pas légalement constituée en vertu des lois du Québec.
+[4] Pour son année d’imposition se terminant le 31 décembre 2003, la Fiducie avait adopté une thèse, au moment de la production de ses déclarations de revenus du Québec et du gouvernement fédéral, qui lui a permis de bénéficier d’un régime fiscal communément appelé « Québec Truffle ». En résumé, la Fiducie a choisi d’être imposée selon la loi fédérale sur le revenu qu’elle avait versé à son bénéficiaire, mais n’a pas choisi d’être imposée sur ce même revenu selon la loi québécoise. Comme le bénéficiaire de la Fiducie n’était pas un résident du Québec, aucun impôt provincial n’a été payé sur le revenu versé. Néanmoins, la Fiducie a bénéficié de l’abattement fédéral.
+[5] La province de Québec a par la suite adopté une loi fiscale rétroactive qui selon laquelle la Fiducie était réputée avoir opté pour l’imposition sur le revenu versé au Québec, éliminant ainsi rétroactivement l’avantage fiscal associé à la stratégie du « Québec Truffle ».
+II. Les faits
+[6] Les parties ont déposé un exposé conjoint des faits partiel (« ECPF ») et un recueil conjoint de documents (le « RCD »). [1]
+Contexte
+L’appelant est un particulier résidant au Canada.
+La conjointe de l’appelant se nomme Joyce Lee.
+À toutes les époques en cause, l’appelant et Mme Lee ont résidé en Colombie-Britannique.
+VPL Investments Inc. (« VPL ») est une société constituée en vertu de la loi canadienne par fusion le 1er septembre 1996.
+VPL Ventures Inc. (« VCC ») est une société constituée en vertu de la loi britanno-colombienne le 18 décembre 1992.
+Briel Investments Inc. (« Briel ») est une société constituée en vertu de la loi britanno-colombienne le 27 août 2003.
+À toutes les époques en cause, VPL, VCC et Briel étaient des sociétés privées sous contrôle canadien aux fins de la Loi de l’impôt sur le revenu, LRC 1985, c 1 (5e suppl.).
+Alain Paris est, et a été à toutes les époques en cause, un particulier, associé en fiscalité à la retraite de KMPG S.E.N.C.R.L. et résident du Québec.
+Avant le 30 août 2003, l’appelant détenait 100 % des actions ordinaires émises et en circulation de VPL.
+Avant le 30 août 2003, l’appelant détenait 80 % des actions ordinaires émises et en circulation de VCC et Mme Lee détenait les 20 % restants.
+À compter de juillet 2002, l’appelant a demandé conseil à KMPG S.E.N.C.R.L.
+Dans une lettre de mission datée du 17 décembre 2003, KPMG a exposé les opérations qu’elle a recommandées dans le cadre d’un plan successoral en tant que « phase I » et « phase II » (pièce AR-2, onglet 21).
+La phase I du plan successoral consistait à « geler » l’intérêt de l’appelant et de Mme Lee dans Briel et à établir une nouvelle fiducie familiale discrétionnaire à laquelle la croissance future de Briel reviendrait (pièce AR-2, onglet 21).
+La phase II du plan successoral prévoyait le don de la majeure partie du droit de l’appelant sur Briel à une fiducie en faveur du conjoint et le rachat subséquent des actions de Briel détenues par la fiducie en faveur du conjoint. La phase II faisait l’objet de ce que KPMG a qualifié d’« entente de facturation axée sur le gain de cause », en vertu de laquelle les honoraires de KPMG étaient conditionnels et assujettis à une réduction si une autorité fiscale avait gain de cause dans sa contestation de l’opération (pièce AR-2, onglet 21).
+Les opérations conclues par les parties sont exposées dans une lettre datée du 12 mars 2004 que KPMG a adressée à l’appelant au sujet de la « planification successorale » (pièce AR-2, onglet 24).
+2003 – L’appelant met en œuvre le plan successoral
+a. Constitution en société de Briel et remaniement des actions
+Le 30 août 2003, l’appelant et Mme Lee ont transféré toutes les actions de VPL et de VCC qu’ils détenaient à Briel en échange des actions suivantes de Briel :
+[EN BLANC]
+Type
+Nombre
+PBR
+CL
+Appelant
+Privilégiées de catégorie C
+18 000
+1 947 315 $
+1 999 979 $
+[EN BLANC]
+Privilégiées de catégorie D
+20 000
+52 686 $
+22 $
+[EN BLANC]
+[EN BLANC]
+[EN BLANC]
+2 000 001 $
+2 000 001 $
+Joyce
+Privilégiées de catégorie F
+2 000
+650 004 $
+$20
+L’appelant et Mme Lee ont effectué les transferts d’actions du 30 août 2003 avec report d’impôt en vertu de l’article 85 de la Loi. Les 18 000 actions privilégiées de catégorie C de l’appelant avaient une valeur globale de rachat de 18 000 000 $.
+b. L’établissement de la Fiducie en faveur du conjoint Paul Lee (la « Fiducie ») à partir du bien fiduciaire initial.
+La Fiducie a été créée conformément à un acte de fiducie notarié daté du 10 décembre 2003. Dans l’acte de fiducie, l’appelant a désigné M. Paris à titre de fiduciaire de la Fiducie en vertu de la loi québécoise (pièce AR-2, onglet 4).
+Mme Lee a été la seule bénéficiaire de la Fiducie de son vivant.
+L’appelant a fait un chèque de 2 000 $ à l’ordre de la Fiducie en faveur du conjoint Paul Lee en date du 8 décembre 2003 (le « bien fiduciaire initial ») (pièce AR-2, onglet 3).
+Le 11 décembre 2003, M. Paris a déposé le bien fiduciaire initial dans un compte de la Banque de Nouvelle-Écosse (le « compte de la Banque Scotia ») (pièce AR2, onglet 31).
+M. Paris a accepté le bien fiduciaire initial. Il a accepté sa nomination à titre de fiduciaire.
+Le compte de la Banque Scotia était au nom de la Fiducie.
+L’appelant a transféré le titre de propriété du bien fiduciaire initial à M. Paris. En vertu de l’entente relative au compte de la Banque Scotia, seul M. Paris avait le pouvoir légal de faire des chèques ou de décaisser ou déployer des fonds (notamment le bien fiduciaire initial) à partir du compte de la Banque Scotia.
+M. Paris ne disposait pas de la latitude lui permettant d’utiliser le bien fiduciaire initial pour son propre bénéfice. Rien dans l’acte de fiducie n’a instruit M. Paris sur la façon d’utiliser le bien fiduciaire initial autrement que dans l’intérêt supérieur du bénéficiaire. L’appelant n’a pas exercé de contrôle direct ou indirect sur l’utilisation, le décaissement ou le déploiement du bien fiduciaire initial après en avoir transféré le titre de propriété à M. Paris. Aucun document n’établit de mécanisme permettant à l’appelant de contrôler ce que M. Paris faisait du bien fiduciaire initial.
+Le plan de KPMG ne comportait pas d’indication, explicite ni implicite, quant à la façon dont M. Paris devait utiliser le bien fiduciaire initial. Le plan de KPMG ne prévoyait pas que l’appelant conserve le contrôle du bien fiduciaire initial (pièce AR - 2, onglet 24). Aucun des faits dont l’intimée est au courant ne va dans le sens de l’affirmation selon laquelle l’appelant exerçait un contrôle sur le bien fiduciaire initial après qu’il en eut a transféré le titre à M. Paris.
+Aucun des décaissements du compte de la Banque Scotia n’a été versé à l’appelant.
+Les décaissements du compte de la Banque Scotia ont servi au paiement des honoraires professionnels, notamment ceux du fiduciaire, et des impôts de la Fiducie.
+c. Le transfert d’actions privilégiées de Briel à la Fiducie et le rachat des actions
+Également le 11 décembre 2003, l’appelant a échangé ses 18 000 actions privilégiées de catégorie C de Briel contre 36 000 actions privilégiées de catégorie F échangeables de Briel (pièce AR-2, onglet 1).
+Les 36 000 actions de catégorie F reçues par l’appelant avaient une valeur globale de rachat de 18 000 000 $.
+L’appelant a transféré les 36 000 actions de catégorie F de Briel à la Fiducie le 11 décembre 2003. L’appelant et M. Paris ont signé un acte de donation concernant le transfert (pièce AR-2, onglet 8). M. Paris a signé une résolution de fiducie pour l’acceptation des 36 000 actions de catégorie F de Briel (pièce AR-2, onglet 9). Les actions ont été enregistrées au nom de « Alain Paris, fiduciaire de la Fiducie en faveur du conjoint Paul Lee » (pièce AR-2, onglet 1).
+Les 36 000 actions de catégorie F n’ont pas été transférées à Mme Lee et le transfert du 11 décembre 2003 n’a pas été effectué contre valeur.
+Le 12 décembre 2003, la Fiducie a demandé à Briel de racheter les 36 000 actions de catégorie F, ce qu’à fait Briel, donnant ainsi lieu à un produit en espèces de 18 000 000 $. M. Paris a signé une résolution de fiducie pour racheter les 36 000 actions de catégorie F (pièce AR-2, onglet 11) et a demandé au conseil d’administration de Briel de racheter les actions (pièce AR-2, onglet 12). Les administrateurs de Briel (l’appelant et Mme Lee) ont résolu de racheter les actions pour un produit total de 18 000 000 $ (pièce AR-2, onglet 13). Briel a racheté les actions et transféré 18 000 000 $ au compte bancaire de la Fiducie en paiement du produit du rachat (pièce AR-2, onglet 31).
+d. Le dividende estimé et le gain en capital provenant du rachat d’actions
+Le capital libéré pour les 36 000 actions de catégorie F rachetées par Briel le 12 décembre 2003 était de 1 999 979 $.
+Le rachat par Briel des 36 000 actions de la catégorie F pour un produit de 18 000 000 $ a donné lieu à un dividende réputé de 16 000 021 $, calculé comme suit :
+Produit du rachat
+18 000 000$
+moins CL
+1 999 979 $)
+Dividende estimé
+16 000 021 $
+Le montant majoré du revenu de dividendes inclus dans le revenu en vertu de l’article 82 de la Loi est de 20 000 026 $.
+Le rachat par Briel des 36 000 actions de la catégorie F pour un produit de 18 000 000 $ a également donné lieu à un gain en capital de 11 028 $ pour la Fiducie.
+e. Le versement et le prêt du produit du rachat
+Le même jour (12 décembre 2003), la Fiducie a versé 16 000 021 $ de revenu de dividendes à Mme Lee au moyen d’un billet à ordre à vue. M. Paris a signé une résolution de fiducie pour verser 16 000 021 $ à Mme Lee (pièce AR-2, onglet 14) et un billet à ordre de 16 000 021 $ à Mme Lee. Le billet était payable à vue et ne portait pas intérêt jusqu’à la date de la demande, après quoi le capital impayé portait intérêt au taux de 6 % par année (pièce AR-2, onglet 15). Mme Lee a signé un reçu pour le billet (pièce AR-2, onglet 16).
+À la même date (le 12 décembre 2003), la Fiducie a accepté de prêter 18 000 000 $ à Briel à un taux d’intérêt de 4 % par année. M. Paris a signé une résolution de fiducie en vue de prêter 18 000 000 $ à Briel (pièce AR-2, onglet 17) et a écrit une lettre à l’appelant pour lui proposer d’effectuer le prêt (pièce AR-2, onglet 18). Briel a signé un billet à ordre de 18 000 000 $, portant intérêt à 4 % (pièce AR-2, onglet 19). M. Paris a signé un reçu pour le billet à ordre (pièce AR-2, onglet 20).
+La Fiducie a ensuite transféré 18 000 000 $ de son compte bancaire à Briel pour financer le prêt (pièce AR-2, onglet 31).
+f. Autres faits relatifs à 2003
+Il était de l’intérêt supérieur de Mme Lee d’établir la Fiducie, de transférer les actions à la Fiducie, de racheter les actions et de verser le produit du rachat à Mme Lee. Toutes ces opérations, ainsi que le remboursement du produit du rachat à Briel, ont été exposées dans le document de planification de KPMG (pièce AR-2, onglet 24).
+Le 31 décembre 2003 ou vers cette date, VPL a assumé 9 900 000 $ de la dette de 18 000 000 $ que Briel devait à la Fiducie. Le contrat de cession a été préparé en novembre 2004 ou vers cette date et a été entièrement signé le 23 décembre 2004 ou vers cette date (pièce AR-2, onglets 25, 26 et 27).
+2004 – La Fiducie accumule des intérêts et reçoit des remboursements partiels de la dette pour payer ses dépenses
+Le 23 février 2004, VPL a transféré 18 000 $ à la Fiducie pour couvrir ses dépenses d’exploitation, qui étaient constituées d’honoraires professionnels (pièce AR-2, onglets 22, 23 et 31).
+Le 25 mars 2004, Briel a remboursé 2 622 000 $ de sa dette envers la Fiducie. La Fiducie a utilisé cette somme pour payer son impôt fédéral exigible de 2 617 185 $ pour l’année d’imposition 2003 au moment de produire sa déclaration de revenus T3 2003 (pièce AR-2, onglet 31).
+En décembre 2004, la Fiducie a accumulé des intérêts de 269 329 $ sur son prêt à Briel et de 396 000 $ sur son prêt à VPL, pour un revenu d’intérêt total de 665 329 $ (pièce AR-2, onglet 38).
+La Fiducie a versé un revenu au bénéficiaire le 31 décembre 2004 en émettant un billet à ordre à vue d’un montant de 665 329 $ à Mme Lee. Mme Lee a signé un accusé de réception du billet à ordre (pièce AR-2, onglet 28).
+2005 – La Fiducie accumule des intérêts et reçoit d’autres remboursements de dette pour payer ses dépenses
+Le 23 mars 2005, VPL a remboursé 166 000 $ de sa dette envers la Fiducie. La Fiducie a utilisé ces fonds pour payer son impôt fédéral sur le revenu de 160 315 $ pour l’année d’imposition 2004 au moment de produire sa déclaration de revenus T3 2004 (pièce AR-2, onglet 32).
+En décembre 2005, la Fiducie a accumulé des intérêts de 229 149 $ sur son prêt à Briel et de 406 710 $ sur son prêt à VPL, pour un revenu d’intérêt total de 635 859 $ pour l’exercice terminé le 31 décembre 2005.
+Le 31 décembre 2005, la Fiducie a versé un revenu au bénéficiaire en délivrant à Mme Lee un billet à ordre à vue d’un montant de 635 859 $.
+2006 et années subséquentes
+Le 28 mars 2006, VPL a remboursé 312 000 $ de sa dette envers la Fiducie. La Fiducie a utilisé ces fonds pour payer son impôt fédéral sur le revenu de 153 332 $ pour l’année d’imposition 2005 au moment de produire sa déclaration de revenus 2005 T3, et pour payer l’impôt provincial du Québec de 148 607 $ au moment de produire sa déclaration de revenus du Québec de 2005 (pièce AR-2, onglet 33).
+Le 18 avril 2006, Alain Paris a demandé à Briel et à VPL de payer respectivement 497 864 $ et 636 710 $ en intérêts accumulés mais impayés à la Fiducie (pièce AR-2, onglet 29).
+Le 20 avril 2006, Briel et VPL ont versé 497 864 $ et 636 710 $ respectivement à la Fiducie. Le 24 avril 2006, M. Paris a émis un reçu accusant réception de ces paiements (pièce AR-2, onglet 30). Également le 24 avril 2006, M. Paris a tiré un chèque de 1 134 574 $ sur le compte de la Fiducie (l’intérêt total reçu de Briel et VPL) à l’ordre du bénéficiaire, Mme Lee (pièce AR-2, onglet 33).
+Après 2005 et jusqu’à la fin de 2009, la Fiducie a continué de déclarer des revenus d’intérêts et de verser des revenus à Mme Lee.
+[7] Outre le dépôt de l’ECPF, l’appelant, Alain Paris et David Lam ont été cités à témoigner par l’appelant. M. Paris a été fiduciaire de la Fiducie du 10 décembre 2003 au 12 ou au 13 décembre 2008 et, jusqu’à sa retraite l’an dernier, M. Lam était membre de la section de la planification fiscale dynamique du Bureau des services fiscaux de Vancouver de l’Agence du revenu du Canada (l’« ARC »).
+[8] J’ai trouvé tous les témoins crédibles. Les faits suivants sont tirés de leur témoignage.
+[9] M. Paris a habité le Québec presque toute sa vie et a travaillé chez KPMG pendant 30 ans entre 1969 et 1999. Pendant environ la moitié de son mandat chez KPMG, une proportion équivalente à 10 % à 15 % de la pratique de M. Paris a consisté à conseiller des particuliers sur des questions de planification successorale et financière et à intervenir à titre de liquidateur ou fiduciaire de successions. M. Paris a estimé qu’il était intervenu à titre de fiduciaire ou de liquidateur environ une douzaine de fois entre 1990 et 1999.
+[10] En 1992, le gouverneur général du Canada a décerné à M. Paris la médaille commémorant le 125e anniversaire de la Confédération canadienne. Lorsqu’il a pris sa retraite en 1999, M. Paris était à la tête du groupe fiscal de KPMG au bureau de Montréal.
+[11] Après avoir pris sa retraite de KPMG, M. Paris est devenu consultant indépendant spécialisé dans la planification stratégique des petites entreprises. Entre 1999 et 2003, M. Paris est demeuré fiduciaire de dix fiducies constituées avant son départ de KPMG.
+[12] À l’automne 2003, [2] M. Paris a été approché par Richard Frank, gestionnaire fiscal au bureau de Vancouver de KPMG. Par la suite, M. Paris s’est entretenu avec deux associés fiscaux du même bureau de KPMG au sujet de la Fiducie, qui n’était pas encore constituée. Dans un courriel adressé à Richele Frank, l’un des associés fiscaux, M. Paris a déclaré qu’il [traduction] « serait ravi d’intervenir à titre de fiduciaire de ces nouvelles fiducies du Québec ». [3] La Fiducie figurait parmi l’une de ces fiducies.
+[13] M. Paris retient les services d’Hugo Patenaude, notaire, qui à l’époque, était chez Fasken Martineau Dumoulin à Montréal et que M. Paris considère comme expert des aspects juridiques des fiducies québécoises. M. Paris avait déjà retenu les services de Me Patenaude par le passé (notamment pour rédiger dix actes de fiducie); il a pris la décision de retenir de nouveau ses services pour effectuer le travail juridique relatif à la Fiducie. M. Paris a expliqué comme suit pourquoi il avait retenu les services de conseillers juridiques :
+[traduction] Je fais toujours appel à Hugo et à d’autres personnes, notamment des conseillers juridiques, car je n’ai pas œuvré dans le milieu juridique de la pratique, de la pratique professionnelle, et j’ai – j’éprouve une grande confiance envers Hugo relativement à ses commentaires, ses recommandations et son expérience. Par conséquent, j’ai retenu les services d’Hugo pour m’aider dans le processus décisionnel nécessaire simplement pour m’assurer que ce que je faisais était conforme au contrat de fiducie, à ce qui se trouvait dans l’opération de fiducie. Et j’échangeais régulièrement avec Hugo sur la situation de la Fiducie pour m’assurer que je ferais les choses selon ce qui a été fait -- ce que l’on prévoyait faire. [4]
+[14] M. Paris savait que la Fiducie devait résider au Québec tandis qu’aucun des bénéficiaires de la Fiducie ne serait résident du Québec. M. Paris a eu des discussions avec l’appelant avant l’exécution de l’acte de fiducie (l’« acte ») constituant la Fiducie. M. Paris a également rendu visite à l’appelant à son bureau de Vancouver, mais il ne pouvait se rappeler si c’était avant ou après la signature de l’acte. L’appelant a déclaré que la rencontre avait eu lieu avant la signature de l’acte parce qu’il voulait rencontrer M. Paris et le passer au crible.
+[15] M. Paris a témoigné quant à la nature des conversations qu’il a eues avec le constituant avant qu’une fiducie soit constituée :
+[traduction] Eh bien, j’ai toujours voulu m’assurer qu’il comprenait le rôle que je jouerais à titre de fiduciaire, en tant qu’intervenant indépendant et représentant du – en tant qu’intervenant dont le rôle consiste à le représenter [le bénéficiaire] et à avoir à cœur ses intérêts afin que tout soit entrepris de façon à ce qu’il soit toujours au cœur de toutes les décisions prises, et que c’est moi qui prendrais les décisions. J’aurais besoin de l’aide d’un conseiller juridique ou d’un conseiller en gestion dont je retiendrais les services au besoin. Et c’était tout de mon crû; je n’aurais toléré aucune ingérence de la part du constituant. [5]
+[16] M. Paris a témoigné qu’il avait bel et bien tenu compte des souhaits des constituants, mais qu’il n’était pas du genre à recevoir des directives des constituants. M. Paris a déclaré qu’il avait démissionné de son poste de fiduciaire à deux ou trois reprises lorsque les constituants lui ont demandé de modifier sa politique de placement.
+[17] L’acte a été préparé par Me Patenaude et signé par M. Paris et le constituant le 10 décembre 2003 devant Me Pierre Girard, qui est intervenu à titre de notaire signataire de la Fiducie en vertu de la loi québécoise. Me Girard a conservé l’acte original et a déposé un exemplaire original de l’acte en vertu de la loi québécoise. M. Paris a également conservé un exemplaire original de l’acte. [6]
+[18] M. Paris a examiné l’acte avant de le signer. Les bénéficiaires de la Fiducie étaient Joyce Lee, de son vivant, et à son décès, les enfants de Paul Lee (c.‑à‑d. l’appelant) et de Joyce Lee. M. Paris a témoigné que cela était conforme à sa compréhension des intentions de l’appelant à titre de constituant de la Fiducie.
+[19] L’appelant a remis à M. Paris un chèque de 2 000 $ daté du 8 décembre 2003, que M. Paris a déposé dans le compte bancaire de la Fiducie à Montréal le 11 décembre 2003, le lendemain de la signature de l’acte. M. Paris a ouvert le compte bancaire de la Fiducie. M. Paris a ainsi décrit ce chèque de 2 000 $ : « don initial à la Fiducie ». [7]
+[20] M. Paris a témoigné qu’après avoir reçu les 2 000 $ de l’appelant, il s’attendait à une autre contribution de l’appelant sous forme d’actions d’une société privée appelée Briel Investment, don dont il avait été question avant la constitution de la Fiducie.
+[21] Après avoir examiné les articles 2.4 et 2.5 de l’acte, M. Paris a décrit comme suit sa compréhension de son rôle vis-à-vis de la propriété de la Fiducie et de la nature non réversible de la Fiducie :
+[traduction] Selon ce que j’en ai compris, j’étais chargé du bien fiduciaire et, à mon entière discrétion et en vertu de mon pouvoir, j’utiliserais cet argent ou ce patrimoine au profit du bénéficiaire, c’est-à-dire Joyce Lee. Et ce pourrait être le capital ou le revenu de la Fiducie.
+[…]
+[…] tout ce qui a été transféré par le constituant est devenu la propriété de la Fiducie et ne serait pas remis au constituant. [8]
+[22] M. Paris a déclaré que l’article 2.4 de l’acte concordait avec sa compréhension des intentions de l’appelant quant à la Fiducie.
+[23] M. Paris a de plus déclaré que le fait que la Fiducie ne soit pas assortie d’un droit de retour comme il est stipulé à l’article 2.5 concordait également avec la lecture qu’il avait faite des intentions de l’appelant et que pendant son mandat à titre de fiduciaire, aucun bien fiduciaire n’a été rétrocédé à l’appelant et aucune tentative en ce sens ne fut entreprise.
+[24] Les articles 3.1.1 et 3.1.2 de l’acte stipulent :
+[traduction] Jusqu’à la date essentielle, le fiduciaire doit verser à Joyce Lee tous les revenus tirés des biens fiduciaires qui sont réalisés avant cette date.
+[ ]
+Jusqu’à la date essentielle, le fiduciaire peut payer ou libérer, en tout ou en partie, le capital du bien fiduciaire à l’intention de Joyce Lee ou pour le bénéfice de celle-ci, comme il le fait lorsqu’il y a lieu en vertu de son pouvoir discrétionnaire absolu et ne faisant l’objet d’aucune direction ou gestion
+[25] M. Paris a déclaré que sa compréhension de ces articles était la suivante :
+[traduction] Selon ce que j’avais compris, le revenu annuel de la Fiducie serait attribué à Mme Lee, et uniquement à Mme Lee.
+[ ]
+J’avais le choix de verser à Mme Lee le capital de la Fiducie en entier ou une partie du capital de la Fiducie, à ma guise. [9]
+[26] M. Paris a également fait référence à l’article 4 de l’acte, qui selon lui confirme les articles 2.5 et 3.1 de l’acte et confère au fiduciaire de vastes pouvoirs de placement conformes à ceux conférés par les actes de fiducie d’autres fiducies dont il était fiduciaire.
+[27] M. Paris a témoigné que le transfert par l’appelant de 36 000 actions privilégiées de catégorie F de Briel (les « actions de catégorie F ») à la Fiducie a fait l’objet de discussions avant la création de la Fiducie et que le transfert a eu lieu le 11 décembre 2003, date de l’acte de donation. [10]
+[28] L’avocat de l’appelant a interrogé M. Paris au sujet du rachat des actions de catégorie F le lendemain, soit le 12 décembre 2003 :
+[traduction]
+Q Alors, qui a pris la décision de racheter ces actions?
+R C’est moi qui ai pris cette décision. On m’a offert de racheter les actions, j’ai examiné cette proposition et j’ai estimé qu’il était tout à fait convenable de procéder au rachat des actions.
+Q D’accord. Avez-vous discuté de la possibilité de racheter ces actions avant de signer l’acte de Fiducie?
+R Cela a été discuté à la même époque, oui.
+Q Et avec qui en avez-vous discuté?
+R J’en ai vraisemblablement discuté avec Paul Lee ainsi qu’avec Linda Richkum et Rob Gear.
+Q De KPMG?
+R De KPMG, oui.
+Q D’accord. Il ne s’agissait donc pas d’une quelconque surprise?
+R Non, ce n’était pas une surprise.
+Q Donc, il s’agissait de quelque chose qui avait fait l’objet de discussions avant l’exécution de l’acte de Fiducie?
+R Oui, à titre complémentaire.
+Q Et je vous ai demandé qui avait pris la décision, et vous avez répondu que c’était vous. Alors, permettez-moi de vous demander pourquoi vous avez racheté les actions à ce moment?
+R Eh bien, j’ai racheté les actions parce qu’il y avait un avantage important à les racheter. Au moment du rachat, il y avait un dividende présumé de 16 millions de dollars et un gain en capital d’environ 11 000 dollars. Et parce que cela s’est fait au niveau de la Fiducie, en vertu de la loi qui était en vigueur à l’époque. Il y a eu des économies importantes de l’ordre de 25 % à 27 %.
+Q D’accord. Et qu’en est-il – il s’agit actions d’une entreprise dont la raison sociale est Briel Investments Inc.
+R C’est exact.
+Q Et que saviez-vous de Briel Investments Inc?
+R Que c’était une société privée qui appartenait en totalité ou en partie, je ne me souviens plus exactement, à Paul.
+Q D’accord, alors vous saviez cela à l’avance?
+R En effet.
+Q Et nous avons examiné les différents pouvoirs que vous déteniez. Selon vous, auriez-vous pu décider de ne pas racheter les actions?
+R Je l’aurais pu, oui. Cela relevait de mon pouvoir. Mais comme je l’ai indiqué, j’estimais que c’était tout à fait convenable, compte tenu des économies importantes qui étaient associées à une opération comme celle-là.
+Q Et qu’en est-il des autres possibilités? Par exemple, aurait-il été possible de simplement conserver les actions?
+R C’eut été une possibilité, mais je ne crois pas qu’il aurait été très convenable d’être inactif à l’égard du certificat d’actions, et – j’ignorais s’il y aurait des dividendes ou quoi que ce soit de cette nature sur ces actions. En procédant à l’encaissement, je touchais 18 millions de dollars tout en me rendant compte du même coup qu’ils obtenaient des économies d’impôt grâce à la loi qui était en vigueur pendant ces années.
+Q Quelqu’un vous a-t-il déjà dit que vous deviez racheter ces actions?
+R Non, personne ne m’a dit que je devais faire quoi que ce soit.
+Q M. Lee vous a-t-il déjà dit quelque chose en ce sens?
+R Non, pas du tout. [11]
+[29] En contre-interrogatoire, M. Paris a eu les échanges suivants avec l’avocat de l’intimée au sujet du rachat des actions de catégorie F :
+[traduction]
+Q Lorsqu’on vous a demandé d’être fiduciaire de la Fiducie en faveur du conjoint Paul Lee, toutes les personnes concernées vous ont très clairement indiqué qu’elles désiraient que vous tiriez avantage de cette occasion [fiscale], n’est-ce pas?
+R Oui, évidemment.
+[ ]
+Q Alors, vous devez avoir compris également que lorsque l’on vous a contacté – que ce soit M. Lee ou que ce soit KPMG, ou que ce soit les deux conjointement, vous devez avoir compris que pour être en mesure d’obtenir cet avantage fiscal, vous auriez à aller de l’avant avec leur proposition de rachat des actions que M. Lee verserait à la Fiducie et que vous en obtiendriez le produit de Briel Investments?
+R J’étais conscient que nous pouvions -- nous obtenions le produit du rachat des actions, oui, bien sûr.
+Q N’est-ce pas -- d’un point de vue fiscal, il est inutile de se voir transférer des actions et de se borner à les conserver, n’est-ce pas?
+R En effet.
+Q Aucun revenu n’étant produit, aucun impôt n’est exigé, ce qui signifie qu’il n’y a pas d’économies fiscales à réaliser. Vous ne pouvez tirer avantage de cette occasion.
+R En effet.
+[ ]
+Q D’accord, je comprends cela, mais je vous demande simplement de recevoir à votre situation de fiduciaire le 11 décembre 2003. M. Lee fait don d’actions rachetables d’une valeur de 18 millions de dollars à la Fiducie.
+R Oui.
+Q Jusqu’à ce que vous rachetiez ces actions, il n’y avait aucun moyen d’obtenir des économies d’impôt découlant de cette stratégie?
+R Non, il n’y en avait pas.
+Q Donc, si vous déteniez les actions en 2004, il n’y a aucun impôt payable pour 2003, il n’y a pas d’économies fiscales à réaliser, n’est-ce pas?
+R Oui, c’est exact.
+Q Mais il n’y a pas non plus de prêt, il n’y a pas d’intérêt pour cette année-là non plus, jusqu’à ce que vous exécutiez ces choses, ces opérations?
+R C’est exact.
+Q Et ce que je vous dis, c’est qu’une fois que vous êtes devenu, une fois que vous avez accepté de devenir fiduciaire de cette fiducie et que vous avez accepté le transfert de ces actions, cela n’avait vraiment aucun sens, il n’existait pas de motif valable pour ne pas racheter ces actions immédiatement et d’en recevoir le produit, n’est-ce pas?
+R C’est votre opinion.
+Q Eh bien, quelle était votre opinion? Vous les avez rachetées le lendemain-même.
+R J’ai examiné la situation et j’ai estimé qu’il était tout à fait convenable de les racheter; j’ai donc décidé de les racheter.
+Q Et pourquoi était-ce convenable?
+R Eh bien, c’était convenable parce que cela procure 18 millions de dollars d’argent qui pourrait être prêté à Briel et porter 4 % d’intérêt de plus, ce qui représenterait environ 600 000 $ de revenu par année. Je trouvais donc qu’il était tout à fait convenable de procéder ainsi afin de créer un patrimoine pour Mme Lee, la bénéficiaire de la Fiducie.
+Q Donc, vous étiez d’avis que cette solution était préférable pour elle plutôt que de conserver ces actions sans les racheter?
+R C’était mon opinion.
+Q De plus, de toute évidence, cela a remis entre les mains de Mme Lee les 16 millions de dollars de revenus qui lui ont été versés, au moyen d’un billet à ordre.
+R Oui.
+Q Exempts d’impôt provincial.
+R C’est exact. [12]
+[30] L’avocat de l’appelant a interrogé M. Paris au sujet du prêt de 18 millions de dollars consenti par la Fiducie à Briel :
+[traduction]
+Q D’accord, et pouvez-vous me dire de quoi il s’agit?
+R C’est bien moi qui ai préparé ce document. À la suite d’une demande de M. Lee, j’ai accepté de prêter à Briel Investment un montant de 18 millions de dollars.
+Q Et vous avez signalé que vous aviez préparé ce document?
+R J’ai effectivement préparé ce document.
+Q Et on y retrouve la mention « payable à vue ».
+R Oui, c’était un prêt à vue.
+Q Et il y est indiqué « intérêts au taux de 4 % ».
+R Les intérêts étaient effectivement de 4 %.
+Q Et comment ces 4 % se sont-ils accumulés?
+R Les intérêt composés s’accumulaient sur une base composée, ce qui signifie que si les intérêts ne sont pas versés, ils sont ajoutés au capital et les nouveaux intérêts sont -- l’année suivante, les intérêts sont calculés sur le capital majoré des intérêts, des intérêts courus.
+Q D’accord. Et qui a proposé ces modalités? Qui a pris la décision en ce sens?
+R Après consultation auprès de différentes sources, j’ai estimé qu’il était convenable de prêter de l’argent à ce taux d’intérêt.
+Q Pourquoi?
+R J’avais la possibilité de recourir à un gestionnaire de placements pour prendre en charge l’argent. Il y aurait eu des frais à payer tandis qu’avec l’autre possibilité, je n’avais aucun frais à payer et j’avais confiance que les 18 millions de dollars pouvaient être facilement remboursés.
+Q D’accord, et pourquoi? Que saviez-vous au juste de Briel Investments?
+R Lorsque j’ai consulté les états financiers de Briel, je me suis rendu compte que Briel et l’entreprise qui y était associée possédaient des investissements considérables dont la juste valeur marchande était élevée, de beaucoup supérieure aux 18 millions de dollars.
+Q Alors, auriez-vous discuté avec quelqu’un de la possibilité de ce prêt avant de signer le mandat du fiduciaire?
+R Cela a fait l’objet de discussions en même temps que la création de la Fiducie.
+Q Donc, encore une fois, il ne s’agit pas d’une surprise.
+R Non, ce n’est pas une surprise. On m’a demandé de consentir un prêt et j’en ai discuté avec Hugo Patenaude, le conseiller juridique, et j’en suis venu à la conclusion que je pouvais le faire.
+Q Alors, qui a pris cette décision, M. Paris?
+R J’ai pris cette décision.
+Q Et quelqu’un vous a-t-il déjà dit que vous deviez prêter ces sommes à Briel?
+R Jamais - personne ne m’a jamais dit que je devais faire cela.
+Q Et permettez-moi de vous demander : si vous aviez conclu que ce n’était pas dans l’intérêt des bénéficiaires, vous auriez contracté ce prêt?
+R Non, je ne l’aurais pas fait.
+Q Existait-il une autre forme d’entente qui vous obligeait, par exemple, à racheter les actions de Briel?
+R Non.
+Q Et puis-je vous demander ce qui serait arrivé si on vous avait demandé de le faire?
+R Je ne me souviens pas que l’on m’ait transmis de directives ou de mesures à prendre à l’égard de ces opérations connexes. C’est moi qui ai pris la décision; on m’a tout simplement proposé de faire ces choses. J’ai examiné les options et j’ai estimé que c’était la meilleure chose que je pouvais faire dans les circonstances. [13]
+[31] M. Paris a expliqué, au cours de l’interrogatoire principal, que le dividende réputé reçu lors du rachat des actions de catégorie F était un revenu pour la Fiducie et que, par conséquent, en vertu des modalités de l’acte, il devait être versé à Mme Lee à titre de seule bénéficiaire de la Fiducie de son vivant. Le revenu a été versé par la Fiducie à Mme Lee par l’émission d’un billet à ordre à vue d’un montant de 16 000 021 $ (le « billet à vue »). [14] Le billet à vue ne portait pas intérêt jusqu’au moment de la demande, après quoi il portait intérêt à raison de 6 % par année. M. Paris a déclaré que Mme Lee ne lui avait pas demandé de rembourser le billet à vue. Il a été demandé à M. Paris ce qu’il ferait s’il recevait une demande de paiement du billet à vue :
+[traduction]
+Q D’accord, mais aviez-vous envisagé ce que vous auriez pu faire si le bénéficiaire en avait fait la demande?
+R Si la demande m’en avait été faite, j’aurais demandé le remboursement à Briel Investment sur mon billet à vue et j’aurais reçu l’argent rapidement et payé Mme Lee à ce moment-là.
+Q J’aimerais que vous vous penchiez sur la question – vous avez mentionné plus tôt, je crois bien, je crois bien que c’est exact, que c’est quelque chose qui aurait fait l’objet de discussions avant de conclure la Fiducie?
+R Oui. [15]
+[32] En avril 2006, M. Paris a envoyé un courriel à l’appelant afin de lui rappeler que Briel et VPL devaient à la Fiducie des intérêts courus de 497 864 $ et 636 710 $ respectivement pour l’année 2005. M. Paris a déclaré que les intérêts impayés ont été payés par chèque dans les deux jours. [16]
+[33] M. Paris a créé et tenu à jour des résumés des paiements effectués à partir du compte bancaire de la Fiducie et vers celui-ci, ainsi que des intérêts courus sur les dettes de Briel et de VPL. [17]
+[34] En contre-interrogatoire, l’avocat de l’intimée et M. Paris ont eu l’échange suivant au sujet des étapes décrites à la pièce AR-2, onglet 24 :
+[traduction]
+Q Et je vous soutiendrai que, à vrai dire, je ne saurai jamais ce dont vous avez discuté avec M. Lee ou KPMG avant que vous acceptiez d’être fiduciaire, mais je soutiendrai que tous ces détails vous étaient connus avant que vous deveniez fiduciaire. Vous saviez ce qui allait arriver. Vous saviez que vous alliez mettre en œuvre ces opérations comme elles vous ont été proposées, comme elles avaient été planifiées. Êtes-vous d’accord avec cela?
+R Eh bien, en fait, ce que j’ai fait, ce que vous voyez ici, c’est le document qui a été préparé à partir de ce que j’ai constaté le 12 mars 2004. À ce moment-là, toute la résolution à laquelle vous faites référence avait été préparée par mon conseiller juridique en décembre 2003. Par conséquent, il me semble que vous avez ici un résumé de ce que j’ai fait de ma propre initiative avec l’aide de mon conseiller juridique. Et ce qui y apparaît représente effectivement ce qui s’est passé. On a donc communiqué avec moi à la fin de novembre 2003 pour que soit effectuée une opération. C’est exactement ce qui s’est produit. Et j’ai confirmé que tout s’est déroulé de cette façon; mais j’ai pris part à chaque étape de l’opération sans voir ce document. Et ce que je vois ici, et avec tout le respect que je vous dois, le présent document est daté du 12 mars 2004, soit trois mois après l’opération. Par conséquent, ces résolutions étaient toutes à la disposition de quiconque était proche de Paul Lee ou de KPMG. Et ces résolutions ont été préparées par le cabinet Fasken Martineau Dumoulin à Montréal, dont j’ai retenu les services en tant que conseiller juridique, avant que j’examine toutes ces étapes, tout au long du processus. Et c’est ce que j’ai fait.
+Par conséquent, c’est moi qui ai pris la décision et j’ai négocié le contrat de prêt; on m’a proposé de faire un prêt, et j’ai accepté. Et j’ai confirmé tout cela. Tout a été fait. Mais je n’avais pas le présent document en main et je ne savais rien à son sujet; toutefois, tout ce que j’ai fait a été étayé par une résolution documentée, documentant tout le travail. [18]
+[35] En ce qui concerne le moment où il a pris ses décisions en ce qui concerne les mesures prises par la Fiducie les 10, 11 et 12 décembre 2003, M. Paris a témoigné en contre-interrogatoire :
+[traduction]
+R Oui, en effet, vous avez raison. La décision a été prise le 10, le 11 ou le 12 décembre, mais elle a fait l’objet d’une proposition antérieure. De cette façon, j’ai eu le temps d’y réfléchir, peut-être pas pour prendre une décision à ce moment, mais le processus de réflexion était en cours et le processus de réflexion et de décision pour que soit fait ce qui doit être fait, afin que soit fait ce qui devait être fait, aurait pu être effectué le 10, le 11 ou le 12. Mais la proposition -- la position était clairement connue. Vous en avez pris connaissance et j’ai confirmé que c’était le cas, que c’était ainsi. Mais cela ne signifie pas que la décision a été prise avant que je devienne fiduciaire.
+Je suis devenu fiduciaire et, à ce moment-là, j’ai examiné le tout de nouveau et je me suis dit : « Eh bien, cela m’apparaît sensé. » De toute évidence, j’avais constaté ce que cela mettait en cause et je savais quelles en seraient les conséquences, et je savais que cela pouvait se faire conformément à la loi en vigueur à l’époque. [19]
+[36] L’appelant a témoigné qu’il avait commencé à envisager la constitution d’une fiducie en 2002 et qu’il avait demandé conseil à KPMG. Au départ, il n’envisageait qu’une fiducie familiale, mais le projet a ensuite évolué vers une fiducie en faveur du conjoint et une fiducie familiale. L’appelant a expliqué que la fiducie en faveur du conjoint lui permettrait de transférer du patrimoine à son épouse et que la fiducie familiale lui permettrait de transférer les fruits de la croissance future à ses deux enfants, qui sont nés en 1999 et en 2000. L’appelant a exposé les raisons pour lesquelles il a eu recours à des fiducies en guise de protection en matière de planification successorale et de responsabilité.
+[37] L’appelant a indiqué à KPMG qu’il était à la recherche d’un fiduciaire qui avait une solide réputation, qui était prudent en matière de placements et qui était un expert en matière de fiducies. Environ trois mois plus tard, KPMG lui a recommandé M. Paris. L’appelant était conscient des avantages fiscaux liés au fait que le fiduciaire réside au Québec.
+[38] L’appelant a témoigné avoir rencontré M. Paris dans son bureau de Vancouver en octobre ou novembre 2003. L’appelant a déclaré qu’il tenait à rencontrer M. Paris et que la rencontre avait deux objectifs :
+[traduction]
+R Eh bien, il y avait deux volets. Je voulais savoir à qui j’avais affaire. Je voulais voir s’il répondait aux critères. À mesure que nous nous rapprochions du but, il était également évident qu’il n’avait pas encore acquiescé à ma demande. Je voulais donc également le convaincre de prendre en charge la fiducie. [20]
+[39] L’appelant a décrit la teneur et le résultat de la rencontre lors de l’échange suivant avec son avocat :
+Q D’accord. Et vous souvenez-vous de ce dont vous avez discuté à cette réunion?
+R Oui, nous avons discuté de ses antécédents, de la durée de sa carrière et du fait qu’il était maintenant retraité et qu’il est un fiduciaire professionnel. J’ai lui a fait part de mes antécédents et j’ai parlé en long et en large d’art électronique. Il m’a posé beaucoup de questions au sujet de l’art électronique. Ensuite, j’ai beaucoup parlé de mes antécédents en matière de placements. Je voulais le rassurer et lui faire comprendre que l’argent que je possédais provenait de sources légitimes et que j’étais une personne stable. Je savais ce que je faisais et je tentais de le convaincre d’accepter la charge de fiduciaire. Je me souviens que je me disais : « Je dois d’une façon ou d’une autre le convaincre de prendre en charge cette responsabilité. »
+Q Après avoir rencontré M. Paris, avez-vous tiré des conclusions quant à savoir s’il répondrait à vos attentes?
+R Oui, j’estimais qu’il faisait parfaitement l’affaire. [21]
+[40] L’avocat de l’appelant a référé l’appelant aux articles 2.2, 2.3, 2.4, 2.5, 3.1.1, 3.1.2 et 4 de l’acte et lui a demandé ce qu’il comprenait des dispositions y figurant et d’indiquer si elles étaient conformes à ses intentions. L’appelant a exposé l’objet de chacune des dispositions et, dans chaque cas, il a affirmé que cet objet était conforme à ses intentions. L’appelant a déclaré qu’il avait probablement été informé à chaque réunion de l’irrévocabilité des dons faits à la Fiducie et qu’il avait l’intention de faire de tels dons à la Fiducie. Il a également compris que le fiduciaire de la Fiducie avait pleine autorité sur les biens fiduciaires et le pouvoir discrétionnaire d’agir à sa guise en matière de placements, à peu d’exceptions.
+[41] L’appelant a témoigné qu’il avait fait don de 2 000 $ et des actions de catégorie F à la Fiducie et que n’eut été de la crise financière de 2008, il aurait peut-être fait d’autres contributions. L’appelant a déclaré qu’après le don des actions de catégorie F à la Fiducie, il ne s’attendait pas à exercer un contrôle sur celles-ci. Il a également déclaré qu’il n’a pas tenté de convaincre M. Paris de racheter les actions de catégorie F, qu’il n’avait pas conclu d’entente avec M. Paris obligeant celui-ci à racheter les actions ou prêter le produit du rachat à Briel et qu’il ne prévoyait pas exercer de contrôle sur le produit acquis par la Fiducie lors du rachat des actions.
+[42] M. Lam a fait l’objet d’un contre-interrogatoire par l’avocat de l’appelant en vertu du paragraphe 146(3) des Règles de la Cour canadienne de l’impôt (Procédure générale) (les « règles »).
+[43] M. Lam a déclaré que la Fiducie avait fait l’objet d’une vérification dans le cadre d’un programme qui a permis l’examen d’environ 200 dossiers. M. Lam n’a pas interrogé l’appelant ni M. Paris avant d’établir une nouvelle cotisation à l’égard de l’appelant. M. Lam a déclaré que M. Paris avait été interrogé par un vérificateur de l’ARC situé au Québec, mais qu’il n’avait pas lu la transcription de cet interrogatoire.
+[44] M. Lam a fait l’objet d’un contre-interrogatoire approfondi au sujet de la vérification et des hypothèses de fait indiquées dans la réponse modifiée, mais aucune de ses déclarations n’est pertinente aux questions en litige dans le présent appel.
+A. Thèse de l’appelant
+[45] L’appelant soutient que la Fiducie était valablement constituée en vertu de la loi québécoise et que ni la Fiducie ni les transferts initiaux de biens à la Fiducie ne constituaient un trompe-l’œil. Par conséquent, l’obligation fiscale de la Fiducie ne peut incomber à l’appelant.
+B. Thèse de l’intimée
+[46] L’intimée soutient que la Fiducie ou les transferts initiaux de biens à la Fiducie constituaient un trompe-l’œil. Par ailleurs, l’intimée soutient que la Fiducie n’était pas légitimement constituée en vertu de la loi québécoise et qu’elle devrait être écartée. Dans un cas ou dans l’autre, l’intimée soutient que l’obligation fiscale de la Fiducie pour les années d’imposition incombe à l’appelant en tant que constituant de la Fiducie.
+[47] L’intimée a déclaré au début de l’audience que si elle obtient gain de cause dans le présent appel, l’impôt fédéral sur le revenu déjà payé par la Fiducie sera crédité par l’ARC à l’appelant.
+III. Analyse
+A. Y a-t-il trompe-l’œil?
+[48] L’arrêt Snook c. London & West Riding Investments, Ltd., [1967] 1 All E.R. 518 (l’arrêt « Snook ») constitue la source de la règle moderne en ce qui concerne le trompe-l’œil. En l’espèce, le juge Diplock a observé :
+[traduction] En ce qui concerne l’affirmation du demandeur selon laquelle les opérations entre lui-même, Auto-Finance, Ltd. et les défendeurs étaient un « trompe-l’œil », il convient, à mon avis, de voir si une notion juridique, le cas échéant, sous-tend l’utilisation de ce mot populaire et péjoratif. Selon ce que j’en saisis, en supposant que cette expression ait quelque signification en droit, il s’agit de gestes effectués ou de documents exécutés par les parties prenant part au « trompe-l’œil » destinés par elles à donner l’impression à des tiers, notamment aux tribunaux, qu’il y a création entre les parties de droits et d’obligations autres que les droits et obligations réels (le cas échéant) que les parties entendent créer. Je suis toutefois d’avis qu’une chose est claire sur le plan des principes juridiques, de la moralité et de la jurisprudence [...] c’est que pour que des actes ou des documents soient un « trompe-l’œil », avec toutes les conséquences juridiques qui en découlent, toutes les parties doivent avoir l’intention commune que les actes ou les documents ne créent pas les droits et obligations légaux qu’ils donnent l’apparence de créer. Aucune intention inexprimée d’une « personne trompeuse » n’affecte les droits d’une partie qu’elle a trompée[...] [22]
+[Je souligne.]
+[49] Dans l’arrêt Stubart Investments Ltd. c. La Reine, [1984] 1 R.C.S. 536 (l’arrêt « Stubart »), le juge Estey a observé :
+[…] Le trompe-l'œil: cette expression nous vient de décisions du Royaume-Uni et signifie, de façon générale (non sans ambiguïté), une opération assortie d'un élément de tromperie de manière à créer une illusion destinée à cacher au percepteur le contribuable ou la nature réelle de l'opération, ou un faux-semblant par lequel le contribuable crée une apparence différente de la réalité qu'elle […] [23]
+[Je souligne.]
+[50] Dans ses motifs concourants, le juge Wilson déclare :
+Selon moi, une opération qui constitue un trompe-l’œil en droit fiscal canadien est une opération qui n'a pas les effets juridiques qu'elle semble avoir à première vue […] [24]
+[Je souligne.]
+[51] Dans l’arrêt Continental Bank Leasing Corp. c. Canada, [1998] 2 R.C.S. 298 (« Continental Bank »), la Cour suprême du Canada a donné l’interprétation suivante aux observations du juge Estey formulées à l’occasion de l’affaire Stubart : « La théorie du trompe-l’œil ne s’applique qu’en présence d’un élément de tromperie dans la façon dont une opération a été conçue ou réalisée ». [25]
+[52] À l’occasion de l’affaire Continental Bank, la Cour a conclu que la détermination de l’existence d’une imposture précède la qualification juridique correcte d’une opération et se distingue de ladite qualification. Si l’opération est un trompe-l’œil, la véritable nature de l’opération doit être déterminée à partir d’éléments de preuve extrinsèques (c.-à-d. des éléments autre que le(s) document(s) constatant l’opération). Si l’opération n’est pas un trompe-l’œil, il est possible de déterminer la bonne qualification juridique de l’opération en se reportant au(x) document(s) constatant l’opération. [26]
+[53] Dans l’arrêt 2529-1915 Québec Inc. c. Canada, 2008 CAF 398, le juge Noël (qui était alors juge de la Cour d’appel fédérale) a observé :
+Les notions de frime et d’abus ne sont pas les mêmes. Je ne crois pas que les quelques mots du juge Iacobucci dans Antosko, supra, cités par le juge de la CCI (motifs, para. 87, note 34) mettent en cause cette affirmation. Nulle part dans l’importante jurisprudence portant sur la notion de frime est-il suggéré que la notion de frime et d’abus sont analogues et le bref commentaire du juge Iacobucci qui s’inscrivait dans une discussion portant sur les principes d’interprétation statutaire, ne peut être lu comme apportant un changement si radical.
+Mis à part l’invocation de la RGAE dans un contexte particulier, un contribuable est en droit d’organiser ses affaires de façon à minimiser son fardeau fiscal, même si ce faisant, il utilise une planification élaborée qui donne lieu à des résultats que le législateur n’avait pas anticipé. […]
+Par contre, les tribunaux se sont toujours sentis autorisés à intervenir face à ce qui est convenu d’appeler une frime. […] [27]
+[54] Après avoir examiné la jurisprudence portant sur le trompe-l’œil, le juge Noël a conclu :
+L’existence d’une frime en droit canadien exige donc en vue des définitions qui précèdent un élément de déception qui se manifeste règle générale par une fausse représentation par les parties de la transaction réelle intervenue entre elles. Dans ces circonstances, les tribunaux retiendront la transaction réelle et mettront de côté celle qui fut représentée comme étant la vraie. [28]
+[55] À l’occasion de l’affaire Antle c. La Reine, 2009 CCI 465 (la décision « Antle »), le juge Miller a recherché si une fiducie de la Barbade était valide et s’il s’agissait ou non d’un trompe-l’œil. Dans sa décision, le juge Miller a résumé les circonstances entourant la prétendue création de la fiducie comme suit :
+Même si l'acte de fiducie était daté du 5 décembre, je conclus que M. Antle a signé cet acte le 14 décembre seulement et que la fiducie ne pouvait être constituée qu'à cette date. Il faut se rappeler que le 12 décembre, M. Antle a communiqué avec M. Brown en lui faisant savoir qu'il fallait dresser la version définitive de l'acte de fiducie. M. Antle et M. Truss n'ont jamais communiqué entre eux le 14 décembre ou auparavant, de sorte que le constituant et le fiduciaire auraient pour la première fois vu leurs signatures respectives sur l'acte de fiducie le 14 décembre. Quelles étaient donc les circonstances, le 14 décembre, qui pourraient jeter la lumière sur les véritables intentions de M. Antle?
+- M. Truss avait déjà signé, le 13 décembre, un acte de vente par lequel étaient transférées les actions à Mme Antle;
+- Le 13 décembre, M. Truss avait déjà signé une distribution des immobilisations et des instructions de paiement;
+- Il a été satisfait à la demande que M. Antle avait faite pour que les fonds soient uniquement transmis par l'entremise du compte en Fiducie de son avocat;
+- M. Antle avait demandé s'il fallait envoyer les certificats d'actions à la Barbade, et on lui a répondu que cela n'était pas nécessaire;
+- M. Antle avait convenu sous contrainte de la contrepartie additionnelle à verser à Stratos, en conservant le droit de poursuivre Stratos personnellement pour la somme de 1,38 million de dollars;
+- Ce n'était pas M. Truss qui avait eu l'idée de vendre les biens à la bénéficiaire et de remettre le produit à celle‑ci;
+- M. Antle croyait comprendre que M. Truss suivrait toutes les étapes de la stratégie, étant donné qu'elles étaient toutes au mieux des intérêts de la bénéficiaire; il n'existait aucune raison (d'ordre commercial, économique, fiduciaire ou autre) de faire quoi que ce soit, à part la stratégie stipulée, ce qui lui enlevait effectivement son pouvoir discrétionnaire;
+- M. Antle croyait comprendre que toutes les étapes de la stratégie devaient être suivies afin d'arriver au résultat voulu quant à l'évitement;
+- M. Antle savait que MI s'était demandé s'il fallait que Stratos consente à la quittance, qui était disponible, éliminant ainsi tout obstacle à la conclusion de la vente : il n'a jamais été mentionné que la Fiducie constituait un obstacle;
+- M. Antle n'avait jamais parlé à M. Truss;
+- Il n'y a rien dans le corps de l'acte de fiducie lui‑même qui donne lieu à un apport des actions à la fiducie.
+Dans ces conditions, le 14 décembre, M. Antle a signé un acte de fiducie daté du 5 décembre déclarant, dans le préambule, avoir transféré les actions. Cela n'indique pas une intention de constituer une fiducie. Si M. Antle voulait que M. Truss ait un rôle à jouer, c'était peut‑être au mieux celui de mandataire à l'égard d'un don qu'il effectuait en faveur de sa femme. [29]
+[56] Le juge Miller a conclu que la fiducie en cause dans l’affaire Antle n’était pas validement constituée, mais il a refusé de conclure qu’il s’agissait d’une imposture. En appel, le juge Noël a examiné la question de savoir si la Fiducie était une imposture, et observé :
+Le juge de la Cour de l’impôt a déterminé que l’appelant et le fiduciaire savaient tous deux avec une certitude absolue que ce dernier ne jouissait pas d’un pouvoir discrétionnaire ni d’aucun contrôle à l’égard des actions. Ils ont pourtant tous deux signé un document qui exprimait le contraire. Le juge de la Cour de l’impôt a néanmoins conclu qu’ils n’avaient pas l’intention requise de tromper.
+En concluant ainsi, le juge de la Cour de l’impôt a mal interprété la notion de la tromperie délibérée dans le contexte d’un trompe-l’œil. L’intention ou l’état d’esprit requis n’équivaut pas à une intention coupable et ne saurait aller jusqu’à constituer ce qui, en common law, est le délit de dol (comparer MacKinnon c. Regent Trust Company Limited, (2005), J. L. Rev. 198 (CA), au paragraphe 20). Il suffit que les parties à une opération la présentent comme différente de la réalité qu’elles connaissent. Or, c’est exactement la conclusion à laquelle le juge de la Cour de l’impôt est arrivé.
+Si l’on tient compte des motifs dans leur ensemble, il est évident que la seule raison qui explique la conclusion du juge de la Cour de l’impôt est que l’appelant et le fiduciaire – ainsi que ceux qui ont participé au plan – pouvaient dire « de manière passablement légitime » qu’ils croyaient que le fiduciaire avait un pouvoir discrétionnaire sur les actions (au paragraphe 71 de ses motifs). Bien que la prétention à une « manière passablement légitime » ait pu permettre d’établir l’absence d’une intention criminelle de tromper (une telle intention étant requise dans le cadre d’une poursuite fondée sur le paragraphe 239(1) de la Loi) et peut-être l’absence du délit de dol, elle ne change rien à la conclusion du juge de la Cour de l’impôt selon laquelle l’appelant ainsi que le fiduciaire ont donné une impression fausse quant aux droits et aux obligations qui étaient créés entre eux. Aucun autre élément n’était requis pour déclarer que la Fiducie était un trompe-l’œil.
+Je conclus, avec égards, que le juge de la Cour de l’impôt était tenu de déclarer que la Fiducie était un trompe-l’œil suivant ses conclusions factuelles. [30]
+[Je souligne.]
+[57] La conclusion du juge Noël relativement au trompe-l’œil dans l’arrêt Antle repose sur le constat de fait du premier juge selon laquelle les parties savaient toutes « avec une certitude absolue que le fiduciaire ne refuserait pas » et que « l’appelant ainsi que le fiduciaire ont donné une impression fausse quant aux droits et aux obligations qui étaient créés entre eux ». Le juge Noël a implicitement conclu que la certitude absolue que le fiduciaire agirait d’une certaine façon était incompatible avec la stipulation dans l’acte de Fiducie selon laquelle le fiduciaire avait le pouvoir discrétionnaire d’agir à sa guise. Cette incohérence a abouti inexorablement à la conclusion que le constituant et le fiduciaire n’avaient pas l’intention que le fiduciaire ait un pouvoir discrétionnaire, mais ont néanmoins conclu un acte de fiducie selon lequel le fiduciaire avait un pouvoir discrétionnaire. La stipulation mensongère des droits juridiques réels constituait le trompe-l’œil. [31]
+[58] Le juge Noël cite l’arrêt MacKinnon c. Regent Trust Company Limited, 2005 JLR 198 (CA), au paragraphe 21, où la Cour d’appel de Jersey explique ce qui doit être établi en vertu de la loi jersiaise pour conclure à la présence d’un trompe-l’œil dans le contexte d’une Fiducie :
+[traduction] À mon avis, la position de la loi jersiaise est claire. Pour réussir à démontrer que les trois fiducies sont des trompe-l’œil, Andrew doit établir que
+(i) Mme MacKinnon et Salamis voulaient faire en sorte que l’intention véritable ne corresponde pas à ce qui était énoncé dans les actes de fiducie, de façon à ce que les fiducies soient invalides et sans effet ou que les biens fiduciaires soient détenus pour le compte absolu de Mme MacKinnon, de façon à ce que les biens soient simplement détenus à l’ordre de celle-ci;
+(ii) Mme MacKinnon et Salamis avaient l’intention de donner la fausse impression à un ou plusieurs tiers (notamment les autres bénéficiaires et les tribunaux) que les biens avaient été donnés aux fiducies et qu’ils avaient été détenus selon les modalités des actes.
+[59] À la lumière de la jurisprudence citée, l’on constate qu’une opération constitue un trompe-l’œil lorsque les parties à l’opération présentent les droits et obligations légaux des parties à l’opération d’une façon ne correspondant pas aux droits et obligations légaux, le cas échéant, que les parties ont l’intention de créer. Pour qu’il y ait trompe-l’œil, la présentation factuelle des droits et obligations légaux par les parties prenant part au trompe-l’œil doit être différente de ce que ces parties savent ce que doivent être ces droits et obligations légaux, le cas échéant. La tromperie est l’exposition factuelle de l’existence de droits juridiques lorsque les parties savent que ces droits juridiques n’existent pas ou sont différents de leur exposition.
+[60] L’intimée soutient que les faits de l’espèce ne sont pas différents de ceux de l’affaire Antle. Je rejette cette thèse. Il suffit de lire les conclusions de fait du juge Miller pour conclure que les deux affaires ont peu en commun, mis à part l’existence d’un montage fiscal.
+[61] En ce qui concerne l’affaire Antle, le juge Miller a conclu que l’acte de fiducie avait été signé à l’origine par M. Truss (le fiduciaire) le 27 octobre, que la date figurant sur la première page avait été modifiée au 5 décembre ultérieurement et que M. Antle avait signé l’acte de fiducie le 14 décembre. Avant même la signature de l’acte de fiducie, M. Truss avait signé un acte de vente transférant les actions disposées à la fiducie au bénéficiaire de la fiducie, Mme Antle, ainsi que le versement d’une immobilisation et une directive de paiement. Tous les fonds ont été traités dans le compte en fiducie d’un avocat, de sorte qu’aucun fonds n’est entré en possession de la fiducie. Rien dans le corps de l’acte de fiducie ne portait sur la disposition des actions de la fiducie. M. Truss a dernièrement été admis au Barreau et a dû effectuer des recherches afin de comprendre le devoir d’un fiduciaire. M. Antle n’a jamais rencontré M. Truss ni communiqué avec lui.
+[62] En l’espèce, l’appelant a remis à M. Paris un chèque de 2 000 $ daté du 8 décembre 2003 pour constituer la Fiducie ainsi que l’acte prouvant que la Fiducie a été exécutée par le constituant et le fiduciaire devant un notaire québécois à sa date d’effet du 10 décembre 2003. Le 11 décembre 2003, M. Paris a déposé le chèque dans un compte bancaire qu’il avait ouvert pour la Fiducie et pour lequel il avait pouvoir de signature exclusif, et l’appelant a transféré les actions de catégorie F à la Fiducie. M. Paris a signé une résolution de la Fiducie datée du 11 décembre 2003 acceptant les actions de catégorie F. M. Paris était un fiduciaire expérimenté; il a retenu les services de conseillers experts pour lui prêter assistance lors de la création de la Fiducie et des opérations subséquentes. L’appelant et M. Paris ont communiqué et se sont rencontrés avant la création de la Fiducie.
+[63] En ce qui concerne l’affaire Antle, le juge Miller a conclu que « M. Antle croyait comprendre que M. Truss suivrait toutes les étapes de la stratégie, étant donné qu'elles étaient toutes au mieux des intérêts de la bénéficiaire; il n'existait aucune raison (d'ordre commercial, économique, fiduciaire ou autre) de faire quoi que ce soit, à part la stratégie stipulée, ce qui lui enlevait effectivement son pouvoir discrétionnaire ». Cela constituait une conclusion de fait du juge Miller fondée sur les preuves dont il disposait lors de cet appel. Je refuse de tirer une conclusion de fait semblable dans le présent appel.
+[64] Une formation de trois personnes de la Cour royale jersiaise a formulé des observations éclairantes sur la signification du pouvoir discrétionnaire dans la décision Re esteem Settlement, 2003 JLR 188, au paragraphe 167 :
+[traduction] 167 À de nombreuses reprises au cours de l’audience, M. Journeaux a été poussé à répéter qu’Abacus n’avait rejeté aucune demande de Sheikh Fahad. L’absence de refus peut bien sûr indiquer que les fiduciaires ont renoncé à leurs obligations fiduciaires et ne font que suivre les désirs du constituant sans autre considération. Mais, comme on l’indique ci-dessus, l’absence de refus peut également s’inscrire dans le cadre d’une fiducie adéquatement administrée où les fiduciaires ont examiné de bonne foi chaque demande du constituant et ont conclu qu’elles sont raisonnables et qu’il est convenable de donner suite à ces demandes dans l’intérêt d’un ou plusieurs bénéficiaires de la fiducie. Mais on n’adopte pas au départ, comme cela semble parfois avoir été le cas de la partie demanderesse, une attitude affichant un grand étonnement et se permettant d’être critique envers le fait que le fiduciaire ait accédé à toutes les demandes de Sheikh Fahad. Au contraire, comme l’a dit le Conseil privé dans l’arrêt Letterstedt (26), l’objet des fiduciaires consiste à favoriser les bénéficiaires; il est donc très courant, à notre avis, que les fiduciaires accèdent parfaitement à toutes les demandes d’un constituant sans renoncer de quelque façon que ce soit à leurs devoirs et responsabilités fiduciaires. Notre mission consiste à déterminer quels étaient les faits avérés dans cette affaire.
+[65] M. Paris a déclaré qu’il était au courant, avant la création de la Fiducie, des diverses étapes nécessaires à la mise en œuvre du Québec Truffle et que cela lui avait simplement donné plus de temps pour déterminer si la stratégie était dans l’intérêt du bénéficiaire de la Fiducie (c.-à-d. Mme Lee). M. Paris a été catégorique : une fois la Fiducie établie, il a pris les décisions nécessaires pour mettre en œuvre le Québec Truffle sans qu’on ne l’oblige à prendre ces décisions. L’acte de vente a donné à M. Paris le pouvoir exclusif sur le principal de la fiducie et M. Paris a choisi d’exercer ce pouvoir en sa qualité de fiduciaire d’une manière qui a mis en œuvre le montage fiscal de KPMG, une stratégie qu’il estimait être dans l’intérêt supérieur du bénéficiaire de la Fiducie.
+[66] L’appelant a compris qu’il y avait une stratégie fiscale rattachée à la Fiducie, mais il ne s’est pas attardé aux détails de cette stratégie. L’appelant a témoigné que les modalités de l’acte reflétaient fidèlement ses intentions par rapport à la Fiducie. L’appelant a compris qu’il transférait irrévocablement des biens à la Fiducie au profit de Mme Lee et qu’à la suite du transfert de ces biens, il n’exercerait aucun pouvoir de direction ou de gestion sur ces biens ni sur les biens qui les remplaceraient. L’appelant s’est clairement fié à KPMG au sujet des détails du montage fiscal et, par conséquent, il ne possédait pas la connaissance du montage fiscal qui lui serait nécessaire pour orienter M. Paris quant à la façon d’exécuter le plan.
+[67] À mon avis, le fait que M. Paris a suivi une ligne de conduite recommandée par KPMG et qu’il ait conclu, après mûre réflexion, qu’elle était dans l’intérêt du bénéficiaire de la Fiducie est tout à fait conforme au rôle d’un fiduciaire d’une fiducie discrétionnaire. Bien que l’on puisse raisonnablement s’attendre à ce que M. Paris suive les étapes suggérées par KPMG, cette attente ne constitue pas la preuve d’une absence de pouvoir discrétionnaire ni d’un trompe-l’œil. Selon les stipulations de l’acte, M. Paris avait le pouvoir légal de prendre toutes les décisions nécessaires concernant la Fiducie et ses biens, et c’est lui qui a effectivement pris ces décisions. La décision de suivre un plan d’action prédéterminé ou planifié demeure une décision. M. Paris disposait des compétences et de l’expérience nécessaires pour tenir compte des intérêts du bénéficiaire et prendre cette décision.
+[68] L’intimée semble appliquer le concept du trompe-l’œil comme une sorte de règle d’opération par étapes dans le but de faire fi de la création de la Fiducie. Ce n’est ni correct ni approprié. Un trompe-l’œil comporte un élément de tromperie : les parties doivent avoir l’intention de donner à des tiers l’apparence de créer entre eux des droits et des obligations juridiques différents des droits et obligations légaux, le cas échéant, que les parties ont réellement l’intention de créer. Une allégation de trompe-l’œil est une allégation selon laquelle les parties à la prétendue supercherie ont été trompeuses parce qu’elles savent que les droits et obligations légaux réels qu’elles ont créés, le cas échéant, diffèrent des droits et obligations légaux présentés à la face du monde.
+[69] La création de liens légaux (ou en equity) pour donner effet à un plan fiscal ne constitue pas un trompe-l’œil. En l’espèce, il n’y a pas eu tromperie de la part de l’appelant ou de M. Paris au sujet des liens légaux créés en vertu des lois québécoises. L’acte et les autres documents pertinents reflètent précisément les droits et obligations légaux voulus par les parties à ces documents. En effet, le montage fiscal ne fonctionnerait pas si une seule des mesures nécessaires à sa mise en œuvre était non exécutoire.
+[70] L’intimée a longuement contre-interrogé l’appelant au sujet des motifs pour lesquels il voulait constituer la Fiducie. L’appelant a déclaré à maintes reprises qu’il voulait subvenir aux besoins de son épouse. Toutefois, même si les économies d’impôt réalisables constituaient le seul motif pour lequel l’appelant voulait créer la Fiducie et transférer les actions de catégorie F à la Fiducie, cela ne constitue pas en soi une preuve de trompe-l’œil. Afin d’atteindre les objectifs fiscaux de le Québec Truffle, l’appelant a dû créer une fiducie respectant certains critères juridiques (p. ex., irrévocable, pour le bénéfice de son épouse de son vivant, résidant au Québec, etc.). C’est exactement ce qu’ont accompli l’acte et les autres documents. L’appelant était pleinement informé des ramifications juridiques de ce qu’il faisait et il les a acceptées.
+[71] L’arrêt Stubart constitue un excellent exemple d’affaire où le contribuable a créé un lien juridique uniquement pour économiser de l’impôt. La décision de la Cour suprême du Canada dans l’arrêt Stubart enseigne clairement que la question soulevée par une allégation de trompe-l’œil ne porte pas sur la raison ou la façon dont les liens juridiques ont été créés, mais plutôt sur la question de savoir si les parties ont fait une présentation erronée des liens juridiques dans les documents qui décrivent ces liens. À cet égard, les observations suivantes de la Cour dans l’arrêt Stubart sont instructifs :
+Avec égards pour les cours d'instance inférieure, il me semble y avoir eu une confusion involontaire entre le critère de l'opération incomplète et celui du trompe-l’œil. J'ai déjà mentionné les nombreux enregistrements publics que les parties ont faits pour réaliser de cette opération. Les documents qui déterminent et donnent effet à la convention intervenue entre les parties se trouvaient tous présents dans les archives des parties et les autorités pouvaient en prendre connaissance. Il n'a pas été question de documents antidatés ou de falsification de documents après les événements. On ne peut soutenir que l'opération elle-même et la forme dans laquelle les parties, leurs conseillers juridiques et comptables l'ont réalisée l'ont été de manière à créer une fausse impression pour les tiers, notamment les autorités fiscales. L'apparence créée par les documents correspond précisément à la réalité. Les obligations prévues dans les documents étaient des obligations juridiques dans le sens qu'elles étaient absolument exécutoires en droit. Les tribunaux n'ont pas encore jusqu'ici étendu le concept du trompe-l’œil à une opération valide par ailleurs, mais conclue par des parties liées. […] [32]
+[Je souligne]
+[72] Dans l’arrêt Neuman c. M.N.R., [1998] 1 R.C.S. 770, la Cour suprême du Canada a formulé les observations supplémentaires suivants au sujet des opérations avec lien de dépendance :
+Finalement, l’exigence d’un apport légitime est en quelque sorte une tentative de susciter un examen des opérations en cause selon les règles du trompe-l’œil ou de la facticité. La supposition que les opérations effectuées avec lien de dépendance se prêtent à la création de structures de société qui sont destinées exclusivement à éviter le paiement de l’impôt, et qu’elles devraient donc relever du par. 56(2), est implicite dans la distinction entre les opérations effectuées avec lien de dépendance et celles effectuées sans lien de dépendance. Cependant, comme nous l’avons vu, les contribuables ont le droit d’organiser leurs affaires dans le seul but de se trouver dans une situation favorable sur le plan fiscal et, pour appliquer ce principe, aucune distinction ne doit être établie entre les opérations effectuées sans lien de dépendance et celles effectuées avec lien de dépendance (voir Stubart, précité). […] [33]
+[73] Vu ce qui précède, je conclus que ni la constitution de la Fiducie ni le transfert des actions de catégorie F à la Fiducie ne constituaient un trompe-l’œil. Les opérations et les documents qui les concernent reflétaient fidèlement les intentions des parties.
+B. Les opérations étaient-elles légalement nulles et non avenues?
+[74] Dans l’arrêt Banque de Nouvelle-Écosse c. Thibault, 2004 CSC 29, la Cour suprême du Canada a reproduit l’article 1260 du Code civil du Québec et a ensuite énoncé les exigences suivantes pour ce qui est de la création d’une fiducie en vertu de la loi québécoise :
+Trois conditions sont donc nécessaires pour la constitution d’une fiducie : le transfert de biens du patrimoine d’une personne à un patrimoine d’affectation, l’affectation des biens à une fin particulière et l’acceptation par un fiduciaire. Même si certaines des conditions rejoignent celles requises pour la constitution d’une rente, il convient de les étudier dans le contexte d’une fiducie. [34]
+[75] J’ai beaucoup de mal à comprendre le fondement de la thèse de l’intimée selon laquelle la création de la Fiducie était inexécutoire. Il ressort clairement de l’ECPF et des éléments de preuve que la Fiducie a été créée au profit de Mme Lee conformément aux exigences de la loi québécoise et qu’après la création de la Fiducie, M. Paris, à titre de fiduciaire, exerçait le pouvoir de direction et de gestion sur les biens de la Fiducie au profit de Mme Lee.
+[76] M. Paris a retenu les services de conseillers professionnels de confiance pour veiller à ce que toutes les formalités relatives à la création d’une fiducie en vertu des lois québécoises soient suivies. L’acte a été exécuté le 10 décembre 2003 en présence d’un notaire québécois et l’acte a été déposé auprès de l’autorité gouvernementale compétente au Québec. M. Paris a accepté sa nomination à titre de fiduciaire de la Fiducie tel qu’indiqué dans l’acte. [35]
+[77] L’appelant a remis à M. Paris un chèque de 2 000 $ daté du 8 décembre 2003 en guise de constitution initiale de la Fiducie; ce chèque a été encaissé par M. Paris le 11 décembre 2003, le lendemain de l’exécution de l’acte, et a été déposé dans le compte bancaire de la Fiducie ouvert par M. Paris.
+[78] Le 10 décembre 2003, M. Paris a nommé les avocats et les comptables de la Fiducie. Les opérations subséquentes, notamment le versement par l’appelant à la Fiducie des actions de catégorie F, le rachat des actions de catégorie F par Briel, le versement des revenus de la Fiducie provenant du produit du rachat à l’unique bénéficiaire de la Fiducie, l’émission par la Fiducie d’un billet à ordre à vue de 16 000 021 $ à Mme Lee en guise de paiement du versement des revenus ainsi que le prêt de 18 000 000 $ à Briel, ont toutes été approuvées et documentées à la même époque. [36]
+[79] L’intimée soutient que [traduction] « les 2 000 $ ont fait office de paiement symbolique; c’était l’équivalent d’une pièce d’or » et [traduction] « les 2 000 $ ne constituaient rien de plus qu’un coût d’opération ». [37] Au cours du contre-interrogatoire de l’appelant, l’avocat de l’intimée a passé un certain temps à se concentrer sur la raison de la nature (espèces) et du montant (2 000 $) de la constitution initiale de la Fiducie. Je ne vois pas la pertinence de l’un ou l’autre de ces faits par rapport à l’existence de la Fiducie en vertu de la loi québécoise.
+[80] Il ne m’a été cité nulle loi québécoise dont il ressort qu’une fiducie québécoise ne peut pas être constituée avec de l’argent comptant, ni nulle loi québécoise prescrivant la valeur de la constitution d’une fiducie québécoise. L’acte stipule : [traduction] « Le constituant fait par les présentes don, entre vifs, du bien initial au profit des bénéficiaires ». [38] Je n’ai entendu nul témoignage qui contredit cette affirmation. La définition du « bien initial » dans l’acte fait référence explicitement au chèque de 2 000 $ de l’appelant (montant, bénéficiaire et numéro de chèque). [39]
+[81] M. Paris a déclaré qu’à un moment donné, en raison des dépenses de la Fiducie, le solde du compte bancaire de la Fiducie était tombé à 1 156 $, [40] ce qui indique qu’environ 850 $ des 2 000 $ ont été utilisés pour les dépenses de la Fiducie. Quoi qu’il en soit, la Fiducie était irrévocable et il n’existe nul élément de preuve dont il ressort qu’une partie des biens de la Fiducie a été restituée au constituant ou a été par ailleurs utilisée au profit d’une personne autre que Mme Lee.
+[82] Il ressort bel et bien des éléments de preuve qu’en 2009, après que M. Paris eut été remplacé comme fiduciaire de la Fiducie par PLST Holdings, une société appartenant à Mme Lee, Briel/VPL a cessé de payer des intérêts à la Fiducie. En contre-interrogatoire, l’appelant a témoigné que la décision de ne pas payer d’intérêts à la Fiducie fut prise conjointement avec Mme Lee. À la fin de 2017, les états financiers de VPL indiquaient toujours que le prêt était dû à la Fiducie. [41] Je ne vois rien dans ces faits qui révèle que la création initiale de la Fiducie doit être considérée comme nulle et non avenue.
+[83] Compte tenu de ce qui précède, je conclus que la Fiducie a été créée de façon valable en vertu de la loi québécoise le 10 décembre 2003 et qu’elle existe toujours à la date de la présente audience.
+IV. Conclusion
+[84] L’appel est accueilli et les nouvelles cotisations sont annulées. L’appelant a 30 jours à compter de la date du présent jugement pour présenter ses observations sur les dépens et l’intimée aura 30 jours de plus pour répondre à ces observations. Ces observations ne doivent pas dépasser 10 pages.
+Signé à Ottawa, Canada, ce 15e jour de novembre 2018.
+« J.R. Owen »
+Juge Owen
+Traduction certifiée conforme
+ce 29e jour de juillet 2019.
+François Brunet, réviseur
+RÉFÉRENCE :
+2018 CCI 230
+N° DE DOSSIER DE LA COUR :
+2013-2493(IT)G
+INTITULÉ :
+VAN LEE et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATES DE L’AUDIENCE :
+Les 30 et 31 mai 2018 et
+les 5 et 6 septembre 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge John R. Owen
+DATE DU JUGEMENT :
+Le 15 novembre 2018
+COMPARUTIONS :
+Avocats de l’appelant :
+Me David Jacyk, Me Monica Biringer,
+Me David Wilson et Me David Ross
+Avocat de l’intimée :
+Me Michael Taylor
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me David Jacyk, Me Monica Biringer
+et Me David Ross
+Cabinet :
+Osler, Hoskin & Harcourt
+Vancouver (Colombie-Britannique)
+Pour l’intimée :
+Me Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Les références aux pièces du RCD dans l’ECPF ont été modifiées pour correspondre au numéro de pièce du RCD.
+[2] Lorsqu’on lui a demandé de préciser la date, M. Paris a déclaré que c’était probablement en novembre 2003.
+[3] Pièce AR-2, onglet 2 à la page 10.
+[4] Lignes 24 à 28 de la page 62 de la transcription des délibérations et lignes 1 à 7 de la page 63 de la transcription des délibérations (la « transcription »).
+[5] Lignes 20 à 28 de la page 67 de la transcription et lignes 1 à 4 de la page 68 de la transcription.
+[6] Pièce A-1. M. Paris a expliqué qu’il y avait un « premier original » de l’acte et des copies originales de l’acte, toutes portant les signatures originales du constituant, du fiduciaire et du notaire. La pièce A‑1 représente la copie originale de M. Paris.
+[7] Lignes 8 et 9 de la page 78 de la transcription.
+[8] Lignes 1 à 6 de la page 81 de la transcription et lignes 10 to 12 de la page 82 de la transcription.
+[9] Lignes 8 à 10 et lignes 24 à 26 de la page 83 de la transcription.
+[10] Pièce AR-2, onglet 8.
+[11] Lignes 3 à 28 de la page 91 de la transcription, page 92 de la transcription et lignes 1 à 14 de la page 93 de la transcription.
+[12] Lignes 11 à 15 de la page 145 de la transcription, lignes 17 à 28 de la page 146 de la transcription, lignes 1 à 7 de la page 147 de la transcription, lignes 8 à 28 de la page 148 de la transcription et lignes 1 à 25 de la page 149 de la transcription.
+[13] Lignes 24 à 28 de la page 93 de la transcription, pages 94 et 95 de la transcription et lignes 1 à 11 de la page 96 de de la transcription.
+[14] Pièce AR-2, onglet 15.
+[15] Lignes 7 à 17 de la page 99 de la transcription.
+[16] Pièce AR-2, onglet 33 à la page 150.
+[17] Pièce AR-2, onglet 34, et pièce A-3.
+[18] Lignes 24 à 28 de la page 169 de la transcription, page 170 de la transcription et lignes 1 à 4 de la page 171 de la transcription.
+[19] Lignes 13 à 28 de la page 173 de la transcription et lignes 1 à 2 de la page 174 de la transcription.
+[20] Lignes 21 à 25 de la page 259 de la transcription.
+[21] Lignes 2 à 19 de la page 261 de la transcription.
+[22] À la page 528. La Cour suprême du Canada a retenu cette description du trompe-l’œil par l’arrêt Ministre du Revenu National c. Cameron, [1974] R.C.S. à la page 1068. L’arrêt Snook est encore cité dans la jurisprudence du Royaume-Uni comme référence en matière de trompe-l’œil. Voir, par exemple, une décision récente de la Cour suprême du Royaume UBS AG c. Commissioners for Her Majesty’s Revenue and Customs; DB Group Services (UK) Ltd c. Commissioners for Her Majesty’s Revenue and Customs, [2016] UKSC 13 au paragraphe 38 ( « UBS »). Bien que l’observation dans l’arrêt UBS à ce sujet soit bref, il souligne que l’intention de tromper représente un élément important du trompe-l’œil.
+[23] À la page 545.
+[24] À la page 539.
+[25] Au paragraphe 20. Ce paragraphe apparaît dans les motifs dissidents du juge Bastarache. Toutefois, au paragraphe 103 des motifs du jugement, la juge McLachlin (qui était alors juge de la Cour Suprême), s’exprimant au nom de la majorité, est d’accord avec tous les aspects du jugement dissident du juge Bastarache à l’exception de sa conclusion selon laquelle la société en nom collectif était frappée de nullité en vertu de la Partnerships Act, R.S.O. 1980, ch. 370.
+[26] Ibid., au paragraphe 21, où le juge Bastarache adopte un extrait du jugement de la Cour d’appel britannique dans Orion Finance Ltd. c. Crown Financial Management Ltd., [1996] 2 B.C.L.C. 78. La qualification juridique d’une opération est parfois appelée le « fond juridique » de l’opération par opposition à la « forme juridique » de l’opération (voir de façon générale Nik Diksic, "Some Reflections on the Roles of Legal and Economic Substance in Tax Law” (Quelques réflexions sur le rôle du fond juridique et du fond économique dans les lois fiscales), Compte rendu de la soixante-deuxième conférence fiscale, compte rendu de conférence 2010 (Toronto, Fondation canadienne de fiscalité, 2011), 25 : 1-34.
+[27] Paragraphes 55 à 57. L’autorisation d’interjeter appel auprès de la Cour suprême du Canada a été refusée le 24 avril 2009.
+[28] Paragraphe 59.
+[29] Paragraphes 47 et 48.
+[30] 2010 C.A.F. 280 aux paragraphes 19 à 22. L’autorisation d’interjeter appel auprès de la Cour suprême du Canada a été refusée.
+[31] Je remarque que d’autres faits, notamment l’apparente rétrodatation de l’acte de fiducie, peuvent avoir résulté en cette conclusion.
+[32] Aux pages 572 et 573.
+[33] Paragraphe 63. Voir également les commentaires récents de la majorité au paragraphe 41 de l’arrêt Groupe Jean Coutu (PJC) inc. c. Canada (Procureur général), 2016 CSC 55, [2016] 2 R.C.S. 670.
+[34] Paragraphe 31.
+[35] Article 2.1 de l’acte.
+[36] Pièce AR-2, onglets 5, 6, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19 et 20.
+[37] Paragraphes 95 et 96 des observations écrites de l’intimée.
+[38] Article 2.1 de l’acte.
+[39] Article 1.10 de l’acte.
+[40] Lignes 4 à 7 de la page 156 de la transcription.
+[41] Lignes 27 à 28 de la page 390 de la transcription, lignes 1 à 3 de la page 391 de la transcription, lignes 3 à 28 de la page 295 de la transcription, lignes 1 à 17 de la page 296 de la transcription et pièces A-10 et A-11.

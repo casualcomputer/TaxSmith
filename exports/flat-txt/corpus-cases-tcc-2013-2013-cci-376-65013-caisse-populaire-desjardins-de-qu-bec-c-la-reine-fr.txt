@@ -1,0 +1,241 @@
+Title: Caisse populaire Desjardins de Québec c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/65013/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-376-65013-caisse-populaire-desjardins-de-qu-bec-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-12-02
+
+# Caisse populaire Desjardins de Québec c. La Reine
+
+- Citation: 2013 CCI 376
+- Decision date: 2013-12-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5898, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Caisse populaire Desjardins de Québec c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-12-02
+Référence neutre
+2013 CCI 376
+Numéro de dossier
+2012-3130(GST)I
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-3130(GST)I
+ENTRE :
+Caisse populaire Desjardins de Québec,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 9 septembre 2013, à Québec (Québec).
+Devant : L'honorable juge Pierre Archambault
+Comparutions :
+Avocat de l'appelante :
+Me Reynald Auger
+Avocats de l'intimée :
+Me Christian Boutin
+Me Pier-Olivier Julien
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d'accise est accueilli et la cotisation du 22 février 2011 est annulée, le tout avec dépens, selon les motifs du jugement ci-joints.
+Signé, ce 2ième jour de décembre 2013.
+« Pierre Archambault »
+Juge Archambault
+Référence : 2013 CCI 376
+Date : 20131202
+Dossier : 2012-3130(GST)I
+ENTRE :
+Caisse populaire Desjardins de Québec,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Archambault
+[1] La Caisse populaire Desjardins de Québec (Caisse populaire) interjette appel d’une cotisation datée du 22 février 2011[1] et établie en vertu de l’article 317 de la Loi sur la taxe d’accise (Loi). Cette cotisation découle du fait que Caisse populaire n’a pas obtempéré à une saisie-arrêt ou, pour être plus précis, à une demande formelle de paiement (demande formelle) relative à la taxe sur les produits et services due par la débitrice fiscale, Café de la paix (1980) inc. (Café).
+[2] Caisse populaire soutient que la cotisation est mal fondée parce que, au moment de la saisie, elle ne devait aucune somme à Café. Même si le montant de 10 197,66 $ (montant saisi) apparaissait au compte d’épargne de Café au moment de la réception de la demande formelle, il n’était pas payable à Café puisqu’il y avait eu compensation légale en vertu de l’article 1673 du Code civil du Québec (CCQ) et de l’article 69 de la Loi sur les coopératives de services financiers, L.Q., ch. C-67.3. L’article 69 édicte :
+Une coopérative des services financiers peut retenir, pour le remboursement de toute créance certaine, liquide et exigible qu’elle détient contre un membre ou un déposant, les sommes qu’elle lui doit et en faire la compensation, sauf lorsqu’il s’agit du remboursement des parts de qualification qu’elle a émises.
+[Je souligne.]
+[3] L’article 1673 du CCQ édicte ce qui suit :
+1673. La compensation s'opère de plein droit dès que coexistent des dettes qui sont l'une et l'autre certaines, liquides et exigibles et qui ont pour objet une somme d'argent ou une certaine quantité de biens fongibles de même espèce.
+Une partie peut demander la liquidation judiciaire d'une dette afin de l'opposer en compensation.
+[Je souligne.]
+[4] Selon Caisse populaire, il y a eu compensation du montant saisi dans le compte d’épargne puisque, avant la saisie, elle avait une créance exigible d’un montant semblable sur Café. L’avocat de l’intimée a défini la question en litige de la façon suivante : y a-t-il eu compensation du montant saisi avant la communication de la saisie le 24 janvier 2011? Selon lui, les sommes avancées par Caisse populaire en vertu d’un contrat de crédit variable (contrat de crédit) n’étaient pas exigibles à ce moment et, par conséquent, aucune compensation n’a pu s’opérer pour faire disparaitre du patrimoine de Café la somme de 10 197,66 $. Cette somme était toujours due à Café par Caisse populaire.
+Contexte factuel
+[5] Le 28 novembre 1994 intervenait entre Caisse populaire (connue à l’époque sous le nom de Caisse populaire Desjardins du Vieux-Québec) et Café un contrat de crédit stipulant que Caisse populaire consentait une ouverture de crédit de 100 000 $ à Café et que cette dernière pouvait en bénéficier par tranches de 10 000 $ conformément aux modalités prévues au contrat. Voici certaines des dispositions de celui-ci :
+CONTRAT DE CRÉDIT VARIABLE
+[…]
+1. ouverture de crédit
+La caisse consent à l’emprunteur, qui accepte, une ouverture de crédit de ----------------- cent mille ------------ xx dollars ((100 000.00 $).
+Le membre en bénéficiera par tranches de ----- dix mille ------ xx dollars (10 000.00 $) (unités de crédit) ou de multiples de ce montant, conformément aux modalités et conditions qui suivent :
+1) Ces avances en argent seront versées de manière à couvrir, lorsque le solde de son compte d’épargne avec opérations (EOP) sera insuffisant, les chèques qui y seront tirés, les retraits qui y seront effectués, et tout autre débit autorisé sur ce compte par l’emprunteur; celui-ci verra alors sa dette augmentée d’une somme égale au nombre d’unités de crédit qui seront nécessaires pour couvrir le montant manquant à son compte.
+2) Simultanément, l’emprunteur acquerra le droit de faire des retraits, d’autoriser des débits et de tirer des chèques pour le surplus, à même son compte EOP, et la caisse devra faire les inscriptions nécessaires pour en rendre compte.
+3) Les modalités prévues ici ne s’appliqueront pas si un retrait, un débit ou le paiement d’un chèque avait pour effet d’amener un dépassement de l’ouverture de crédit totale.
+Il est convenu que la caisse pourra, en tout temps, informer l’emprunteur qu’aucune avance ne pourra lui être consentie à l’avenir en vertu de la présente convention.
+2. remboursement du capital et variation du crédit
+Quotidiennement, à titre de remboursement des sommes dues en capital, la caisse débitera le comte EOP de l’emprunteur d’un montant correspondant à un multiple de l’unité de crédit ci-haut mentionnée, si le solde du compte est créditeur. L’emprunteur pourra profiter ensuite de l’ouverture de crédit de la même manière que s’il n’avait pas encore bénéficié une seule fois du capital qu’il rembourse. Toutefois, l’emprunteur pourra en tout temps rembourser partiellement ou en totalité les somme dues en en vertu des présentes.
+3. intérêts
+L’emprunteur paiera mensuellement sur toutes les sommes dues, et ce jusqu’à leur remboursement :
+T un intérêt au taux préférentiel de la Caisse centrale Desjardins du Québec, plus un intérêt supplémentaire de ------------------- un et demi ---------- pour cent (1½ %) l’an, lequel variera en conséquence à chaque changement de ce taux.
+[…]
+4. demande de remboursement
+La caisse se réserve le privilège d’exiger en tout temps le remboursement immédiat de tout solde dû en capital, intérêts, frais et accessoires.
+5. […]
+6. défaut
+Si l’emprunteur tire un chèque qui porte le solde de l’ouverture de crédit à un montant supérieur à celui qu’autorise le présent contrat, s’il fait faillite, s’il cède ses biens ou devient insolvable ou encore s’il n’observe pas l’une ou l’autre des conditions et obligations convenues aux présentes, tout solde alors dû en capital, intérêts, frais et accessoires deviendra immédiatement exigible.
+[Je souligne.]
+[6] Le 20 janvier 2011, l’intimée, par intermédiaire de Revenu Québec, envoyait à Caisse populaire en vertu du paragraphe 317(3) de la Loi une demande formelle de paiement d’un montant de 53 577,60 $. Une demande semblable était faite également en vertu des articles 15 et suivants de la Loi sur le ministère du Revenu (L.R.Q., ch. M-31). Le montant total des deux demandes s’élevait à 157 682,92 $. (Voir pièce A-1, onglet 3.)
+[7] La première demande formelle fut communiquée à Caisse populaire le 24 janvier 2011. (Voir pièce I-1, onglet 3 (dernière page) et onglet 4, et pièce A-1, onglet 4.) Lors de son témoignage, une représentante de Caisse populaire a indiqué que, le même jour à 15 h 34, la réceptionniste de Caisse populaire avait communiqué par télécopie au Centre financier aux entreprises Desjardins ladite demande formelle. Il semble que la saisie ait été inscrite au compte de Café. Les relevés internes de Caisse populaire indiquent que, le 25 janvier 2011, à 9 h, cette dernière avait débité le compte d’épargne de Café d’un montant de 10 197,66 $. Après ce remboursement, le solde de la marge de crédit s’élevait à 95 464,42 $. Lors de son interrogatoire, la représentante de Caisse populaire a indiqué qu’un montant supérieur à 100 000 $ avait été avancé en vertu de cette marge de crédit. Elle n’a pas été en mesure de préciser si le fait qu’il y ait eu un dépassement de 5 000 $ était dû à une tolérance administrative ou si l’on avait augmenté la marge de crédit à 105 000 $. En raison de l’imputation de paiement susmentionnée, le solde du compte d’épargne de Café était zéro à 9 h le 25 janvier 2011. (Voir pièce A-1, onglet 5.)
+[8] Le 25 janvier 2011, soit le même jour que celui de l’imputation de paiement, Café déposait auprès du syndic de faillite Lemieux Nolet inc. un avis d’intention de faire une proposition concordataire. Le 26 janvier 2011, à 14 h 21, ce syndic transmettait par télécopie au ministère du Revenu du Québec ainsi qu’à Caisse populaire un avis de surseoir. (Voir pièce A-1, onglet 6, et pièce I-1, onglet 8.) Le 25 mars 2011, Café faisait faillite. (Voir pièce I-1, onglet 9.)
+[9] Il est à noter que, postérieurement à ces opérations, d’autres avances ont été effectuées par Caisse populaire en faveur de Café. Notamment, le 1er février 2011, un montant de 10 000 $ a été avancé.
+Position des parties
+[10] Caisse populaire soutient que la cotisation est mal fondée. Selon elle, la somme de 10 197,66 $ n’était pas due par elle à Café puisque cette somme lui avait été payée par Café par compensation légale. Toutes les conditions étaient réunies, notamment la condition de l’exigibilité de la dette de Café (le solde de la marge de crédit) et de celle de Caisse populaire (le solde créditeur au compte d’épargne). Selon l’avocat de Caisse populaire, les relevés internes indiquant un solde de 10 197,66 $ au 24 janvier ne représentaient que des écritures comptables qui ne reflétaient pas la compensation légale prévue par le CCQ et la Loi sur les coopératives de services financiers du Québec.
+[11] L’avocat de l’intimée soutient qu’il n’y a pas eu paiement par compensation légale, tel que le soutient Caisse populaire, parce que le montant avancé sur la marge de crédit n’était pas exigible au moment de la saisie. Il se fonde notamment sur une interprétation du contrat de crédit selon laquelle il fallait que Caisse populaire fasse une demande en vertu de la clause 4 du contrat pour que le solde devienne exigible. Selon cette clause, Caisse populaire se réserve le privilège d’exiger en tout temps le remboursement immédiat de tout solde dû, notamment en capital et en intérêts. Pour saisir la portée de la clause 4, il faut tenir compte du libellé de la clause 6, qui prévoit qu’en cas de défaut, résultant notamment du fait de tirer un chèque qui porte le solde de l’ouverture du crédit à un montant supérieur à celui qu’autorise le contrat, de la faillite de Café ou du fait pour celle-ci de devenir insolvable, « tout solde [...] deviendra immédiatement exigible ».
+[12] Lors de l’audience, je me suis interrogé sur ce qui distinguait les modalités de la marge de crédit en cause de celles d’un prêt à demande et sur la façon dont la jurisprudence avait défini ce qui constituait des sommes exigibles. J’ai demandé aux parties de me fournir des observations écrites pour éclaircir cette question. Voici de larges extraits tirés des observations de l’avocat de l’intimée et de celles de l’avocat de l’appelante :
+Argumentation additionnelle relativement à la notion d’exigibilité
+[…]
+3.- À l’audition, le Tribunal nous a demandé notre position relativement à l’exigibilité d’un billet à demande ou promissoire;
+4.- L’article 176 de la Loi sur les lettres de change [L.R.C. (1985), ch. B-4.], définit ainsi le billet: « Le billet est une promesse écrite signée par laquelle le souscripteur s’engage sans condition à payer, sur demande ou à une échéance déterminée ou susceptible de l’être, une somme d’argent précise à une personne désignée ou à son ordre, ou encore au porteur »;
+5.- S’il y a un terme, la dette n’est pas exigible tant que celui-ci n’est pas arrivé à moins qu’il n’y ait eu déchéance du terme. Si le billet est à demande, c’est le propre d’un tel effet de commerce que de pouvoir être exigé illico et le signataire d’icelui, i.e. le promettant payer [sic], s’y attend dès le premier jour[2];
+6.- De façon semblable au billet à demande, il ne fait pas doute qu’un prêt effectué à demande, sans précision des parties relativement à son exigibilité, est exigible et le créancier a alors la faculté d’en exiger le paiement sans que le débiteur puisse s’y opposer [Le syndicat d’épargne des épiciers du Québec c. Mercure, 500-09-000518-72, le 8 mai 1975, à la p. 4] : exigible, sa créance peut n’être pas encore exigée;
+7.- La situation diffère toutefois lorsque le contrat convenu comprend une ou des indications à l’effet que l’exigibilité de la créance a été ‘aménagée’ par les parties : la présente affaire en constituant un exemple;
+8.- C’est en effet à l’aune du contrat signé par les parties que s’apprécie l’exigibilité [Les placements L.E.O. Inc. c. Banque Nationale du Canada, 500-05-022551-822, le 18 juillet 1984, à la p. 9 in fine; Banque de Montréal c. Charles Garneau et al., 200-17-004021-036, le 25 novembre 2005, au par. 77; Le sous-ministre du revenu du Québec c. Les Produits Fraco Ltée. 500-09-016736-068, au par. 26.];
+9.- Après avoir précité les modalités de remboursement convenues entre les parties à article 2 [essentiellement, celui-ci stipule que dès lors que le compte courant de la cliente est approvisionné de fonds excédant 10 000 $, le compte sera débité de ce cette somme par l’appelante en paiement du solde de la marge de crédit variable de la cliente.], le contrat en l’espèce comprend les deux clauses suivantes :
+4. DEMANDE DE REMBOURSEMENT
+La caisse se réserve le privilège d’exiger en tout temps le remboursement immédiat de tout solde dû en capital, intérêts, frais et accessoires. La caisse aura alors la faculté de ne plus donner suite au contrat, sous réserve de tous ses autres droits et recours.
+(…)
+6. DÉFAUT
+Si l’emprunteur tire un chèque qui porte le solde de l’ouverture de crédit à un montant supérieur à celui qu’autorise le présent contrat, s’il fait faillite, s’il cède ses biens ou devient insolvable ou encore s’il n’observe pas l’une ou l’autre des conditions et obligations convenues aux présentes, tout solde alors dû en capital, intérêts, frais et accessoires deviendra immédiatement exigible.
+10.- Le rappel de certains principes d’interprétation des contrats s’impose ici;
+11.- Premièrement et à l’instar de l’interprétation d’une loi, il est bien établi que toutes les clauses d’un contrat s’interprètent les unes par les autres en donnant à chacune le sens qui résulte de toute la suite de l’acte entier;
+12.- Comme l’affirme l’auteur François Gendron [GENDRON, François, L’interprétation des contrats, Wilson & Lafleur, 2002, p. 84], commentant l’article 1427 C.c.Q.:
+La règle de l’examen global veut qu’on envisage d’abord le contrat dans son architecture d’ensemble. Cette règle postule que chacune des clauses du contrat ne révèle vraiment sa portée qu’à la lecture des autres clauses et que, de leur rapprochement, naît pour chacune une lecture plus complète.
+…
+En résumé, la règle de l’examen global prescrit qu’un contrat s’interprète comme un tout cohérent, ‘chaque élément contribuant au sens de l’ensemble, et l’ensemble au sens de chaque élément’, selon la formule heureuse de P.-A. Côté. [CÔTÉ, P.-A., Interprétation des lois, 3e éd., Montréal, Les Éditions Thémis, 1999, p. 388. Ce passage est repris dans la quatrième édition de l’ouvrage, chez le même éditeur, 2009, à la p. 352, au numéro 1153. Dubois c. La Reine, [1985] 2 R.C.S. 350, à la p. 365.] Il faut donc envisager le texte d’un double point de vue, à la fois en bloc et en détail et, comme le prescrit aussi l’article 1426 C.c.Q., retenir en toute chose une interprétation qui soit conforme à la nature du contrat et qui permette de le considérer comme ce qu’il est : un système cohérent d’énoncés.
+13.- Dans la même veine, M. le juge Marchand dans l’affaire Baillard c. Les Immeubles Dynamiques Inc. [455-32-001863-041, 4 avril 2006, aux par. 17-18] rédigeait alors les motifs suivants:
+Ainsi, si confus soit-il ou si mal structuré, le contrat se veut toujours un ensemble d’éléments solidaires, dont chacun dépend des autres, quant à la définition de ce qu’il est.
+Le Tribunal a l’obligation d’interpréter le contrat de manière à en ressortir l’unité de conception et qu’à sa lecture, les clauses s’expliquent les unes aux autres, s’enchaînent et se consolident, au lieu de se contredire, de s’exclure ou de s’annuler. Pour fixer le sens d’une clause, il faut donc les combiner toutes, car le contrat est un tout organisé, dont chaque élément réagit sur les autres et remplit un rôle nécessaire à la cohérence générale.
+14.- En l’espèce, la strophe « deviendra immédiatement exigible » que l’on retrouve à la clause 6 démontre d’une part, a contrario, que dans les situations non prévues à cette clause, la créance de la caisse n’est pas exigible;
+15.- D’autre part, cela est conséquent avec les mots « La caisse se réserve le droit d’exiger » utilisés à la clause 4, lesquels laissent entendre qu’un avis quelconque est ici nécessaire;
+16.- En effet, l’on ne saurait exiger dans le silence ou dans l’abstrait. L’appelante, en prétendant invoquer la clause 4, se devait d’aviser sa cliente d’une quelconque façon. [Ce qui est différent d’un cas de délai de grâce, lequel ne viendrait pas faire échec à l’opération de la compensation.] Or, la preuve est totalement muette à ce sujet et rien ne s’est passé en date du 24 janvier 2011, date à laquelle la demande formelle de paiement de la Couronne fut reçue. La créance de la caisse n’était donc pas exigible puisqu’elle l’est devenue, au terme [sic] de la clause 6, le lendemain[3]. Ce n’est donc que le 25 janvier 2011 que la créance de la caisse est devenue susceptible d’être compensée, la demande de la Couronne ayant toutefois causé son effet entretemps;
+17.- Un autre principe d’interprétation des contrats, prévu à l’article 1428 C.c.Q., est favorable à l’intimée puisque la position de cette dernière donne un sens à la clause 6 alors que celle de la caisse la rend inutile et sans effet;
+18.- En effet, la caisse prétend que la clause 4 lui permet, peu importe les circonstances, non seulement d’exiger comme bon lui semble le remboursement du prêt, mais qu’il y a de plus exigibilité de sa créance dans tous les cas. Par exemple, pourquoi prévoir à la clause 6 qu’en cas de faillite, alors le solde est exigible si de toute façon la clause 4 avait déjà pareil effet ?; [sic]
+19.- Pareille interprétation vient complètement annihiler la clause 6 du contrat, laissant celle-ci sans aucun effet concret. Or, elle doit avoir un sens et produire un effet sans quoi elle n’aurait pas été inscrite au contrat;
+20.- Dans leur classique Les Obligations, les auteurs Baudoin [sic], Jobin et Vézina traitent de la question de l’effet utile de toute clause contractuelle de la façon suivante [BAUDOUIN, J.L. et al., Les Obligations, 6e éd., Editions Yvon Blais, 2005, par. 443] :
+443 – Effet utile de toute clause – Logiquement, si les parties ont fait un contrat ou rédigé une stipulation, c’est qu’elles avaient l’intention par là de créer des obligations ou de transférer, modifier ou éteindre des droits, donc de lui faire produire des effets. Lorsque le juge se trouve en présence de deux interprétations possibles d’un terme ou d’une clause, dont l’une conduirait à n’y donner aucun effet juridique et l’autre à y donner un effet quelconque, il doit donc préférer la seconde interprétation à la première (article 1428 du Code civil). Cette règle est l’équivalent de la règle d’interprétation des lois dite de l’effet utile; selon l’expression populaire, le législateur ne parle pas pour ne rien dire, c’est-à-dire que toute disposition de la loi doit – en principe – produire un certain effet juridique. Il en va de même pour les rédacteurs d’un contrat.
+21.- Cela étant, les motifs suivants de la juge Piché de la Cour supérieure dans l’affaire Belcourt Construction Company Ltd. c. Automobile et Touring Club de Montréal et al. [500-05-008816-868, le 13 mars 1987, à la p. 13], paraissent avoir été écrits, en ne changeant que les numéros de clauses, pour la présente affaire :
+Si, en effet, on prend la clause numéro 7, et on lui donne plein effet, ceci signifie que la clause numéro 6 ne veut plus rien dire et a été ajoutée au contrat sans raison. A l’inverse, si on donne priorité à la clause numéro 6, alors on voit qu’elle a en fait mitigé la clause 7 qui peut coexister avec la clause 6.
+22.- Par ailleurs, une troisième règle d’interprétation, résiduelle et prévue cette fois-ci à l’article 1432 C.c.Q., veut qu’en cas de doute, le contrat s’interprète en faveur de celui qui a contracté l’obligation et contre celui qui l’a stipulé. En l’espèce, le contrat doit être interprété en faveur de la cliente de la caisse, i.e. celle qui a contracté l’obligation, et à l’encontre de la caisse, laquelle en a vraisemblablement stipulé les clauses, particulièrement celles qui nous occupent;
+23.- Toujours subsidiairement, d’aucuns pourraient opiner que l’écrit qui nous occupe participe de la nature d’un contrat d’adhésion et, partant, commande une interprétation en conséquence, puisque « les stipulations essentielles qu’il comporte ont été imposées par l’une des parties ou rédigées par elle, pour son compte ou suivant ses instructions et qu’elles ne pouvaient être librement discutées » [art. 1379 C.c.Q.]. En effet, mis à part les différents quanta de montant accordé, de taux et de remboursement prévus au contrat [aux clauses 1, 2 et 3], tout paraît, à la face même de l’écrit, avoir été imposé à la débitrice fiscale;
+Réponse à l’argumentation additionnelle produite par l’intimée relativement à la notion d’exigibilité
+[…]
+4. Tout d’abord, l’article 1673 C.c.Q., qui permet la compensation de plein droit, se lit comme suit :
+« Art. 1673. La compensation s’opère de plein droit dès que coexistent des dettes qui sont l’une et l’autre certaines, liquides et exigibles et qui ont pour objet une somme d’argent ou une certaine quantité de biens fongibles de même espèce.
+Une partie peut demander la liquidation judiciaire d’une dette afin de l’opposer en compensation. » [Les soulignés sont nôtres]
+5. Par son argumentaire, l’intimée tente erronément de démontrer que le mot « exigible » devrait être lu comme « ayant fait l’objet d’une demande préalable »;
+6. Or, à cet égard, il y a lieu de rappeler à cette Cour que dans le dictionnaire, le mot « exigible » n’implique aucunement que la créance due ait fait au préalable l’objet de quelque demande de paiement que ce soit;
+7. En effet, le mot « exigible » est défini comme suit dans le dictionnaire « Le petit Larousse illustré » [Le petit Larousse illustré 2013, p. 436], : [sic]
+« Exigible adj. DR. Qui peut être exigé : Créance exigible. » [Les soulignés sont nôtres]
+8. De même, dans le « Dictionnaire de droit québécois et canadien » [REID, Hubert, 1933. Dictionnaire de droit québécois et canadien. 3e éd. Wilson & Lafleur Ltée, 2004, p. 237], le mot « exigible » est également défini comme suit :
+« Exigible adj
+1. Qui peut être légalement exigé.
+Contr. inexigible
+Comp. exigibilité
+Angl. exigible
+2. Se dit d’une créance ou d’une dette dont
+le créancier peut réclamer immédiatement
+le paiement, sans attendre l’échéance d’un
+terme ou la réalisation d’une condition.
+Comp. certain, exigibilité, liquide, payable
+Angl. exigible » [Les soulignés sont nôtres]
+9. À la lueur de ces deux définitions, il faut conclure que le mot « exigible » n’implique aucunement qu’une demande de paiement ait été faite au préalable;
+10. Pour être exigible au sens du dictionnaire et de l’article 1673 C.c.Q., la créance ne doit simplement souffrir d’aucun terme pour être « légalement exigée »;
+11. Or, le libellé de la clause 4 apparaissant au contrat de crédit variable A‑2 constitue essentiellement une façon d’exprimer que les sommes prêtées sont « exigibles » en tout temps et qu’elles ne souffrent d’aucune contrainte de terme ou de condition d’exigibilité;
+12. Nulle part, la clause 4 du contrat de crédit variable A‑2 ne prévoit l’envoi de quelque avis préalable pour rendre cette créance exigible;
+13. Bref, aux termes de la clause 4 du contrat de crédit variable A‑2, le prêteur rappelle simplement à son emprunteur qu’il peut exiger, en tout temps, le remboursement des sommes dues et ce, nonobstant, à titre d’exemple, la périodicité qui aurait pu être fixée à la clause 2 de ce contrat de crédit;
+14. Dans la deuxième étape de son argumentaire, l’intimée tente manifestement, par l’utilisation des règles d’interprétation des contrats prévues au C.c.Q., d’inférer qu’il y aurait une contradiction entre les articles 4 et 6 du contrat de crédit variable A‑2, de sorte que, finalement, les sommes dues ne seraient prétendument exigibles que s’il y a un défaut au sens de la clause 6 de ce contrat ou, à tout le moins, que suite à l’envoi d’une demande de paiement préalable;
+15. À l’évidence et avec respect, l’intimée oublie une règle de base dans l’interprétation des contrats pour conclure de cette façon;
+16. La jurisprudence nous rappelle en effet que lorsque deux clauses contractuelles semblent contradictoires, il faut d’abord leur donner une interprétation leur permettant de se compléter, plutôt que de se détruire [Syndicat de copropriétaires de Le Lionnaise c. Sylvestre, [2003] R.D.I. 676 (C.Q.). KARIM, Vincent. Les obligations. Volume I. 3e éd. 2009. Wilson & Lafleur ltée, p. 587.];
+17. Tel que soumis à cette Cour lors de l’audition du présent dossier, l’appelante réitère respectueusement qu’il n’y a aucune contradiction entre la clause 4 et la clause 6 du contrat de crédit variable A‑2;
+18. La clause 6 de ce contrat de crédit constitue simplement une clause de défaut usuelle en cas, à titre d’exemple, d’insolvabilité, alors que la clause 4 de ce contrat est un rappel du fait que, dans tous les cas, le remboursement des sommes n’est soumis à aucun terme ni aucune condition d’exigibilité;
+19. L’appelante croit enfin opportun de référer le Tribunal à l’arrêt Société canadienne des postes c. Morel, [2004] RJQ 2405] rendu par la Cour d’appel du Québec le 30 août 2008;
+20. Dans cette affaire, la demanderesse disposait, en vertu de l’article 2125 C.c.Q., du droit de résilier unilatéralement, en tout temps, le contrat de service;
+21. La Cour a conclu que le fait par la demanderesse d’avoir ajouté contractuellement certains cas de résiliation ne l’empêchait pas par ailleurs d’utiliser le droit à la résiliation unilatérale que lui accorde l’article 2125 C.c.Q.;
+22. Voici comment s’exprime la Cour d’appel à cet égard :
+« [46] La règle posée par l’article 2125 C.c.Q. n’est pas d’ordre public. Il est possible d’y déroger mais il faut que cela soit fait de manière non équivoque. Le simple fait de mentionner dans un contrat, comme en l’espèce, que le client pourra résilier le contrat si certaines situations surviennent ne suffit pas, à mon avis, pour conclure que celui-ci a renoncé au droit que lui confère l’article 2125 C.c.Q. [Les soulignés sont nôtres]
+[47] En vertu des règles applicables à tous les contrats, le créancier d’une obligation a droit, en cas d’inexécution par le débiteur, à la résolution ou résiliation du contrat (article 1590 et 1604 C.c.Q.). À ce droit s’ajoute, en raison de la nature du contrat d’entreprise ou de service, la faculté pour le client d’y mettre fin en tout temps, unilatéralement, sans motif (article 2125 C.c.Q.). »
+23. Bref et par analogie, l’appelante soumet respectueusement que les modalités de la clause 6 du contrat de crédit variable A‑2 n’ont jamais eu pour objectif d’empêcher de considérer sa créance comme étant exigible en tout temps et qu’elle soit conséquemment payable à demande;
+24. En conclusion, l’appelante réitère que, dans le présent dossier, la demande de l’intimée doit être rejetée et ce, essentiellement pour les motifs exprimés par la Cour d’appel dans l’affaire Hil-A-Don [In Re Hil-A-Don Ltd : Bank of Montreal c. Kwiat, [1975] C.A. 157 à 160] à savoir :
+« Dans l’arrêt Hil-A-Don, la Cour d’appel souligne que pour le temps où des créances coexistent et que le solde créditaire d’un compte courant est inférieur au solde du prêt, par suite du jeu de la compensation légale qui s’opère de plein droit, une compagnie n’a pas effectivement de créance contre la banque; que le solde apparaissant au compte courant n’est rien de plus qu’une des entrées comptables constatant les divers postes devant entrer dans la computation de la créance résiduelle de la banque contre la compagnie. La professeure L’Heureux souligne le même principe. » [Commentaires de l’Honorable Michael Sheenan, j.c.q., tirés du jugement rendu dans l’affaire Caisse populaire St-Bernard de Beauce c. Québec (Revenu), AZ-96038062.] [Les soulignés sont nôtres]
+[Je souligne sauf lorsqu’il y a la mention « Les soulignés sont nôtres »]
+Analyse
+[13] Tout d'abord, j’aimerais souligner l’excellence des arguments présentés par chacun des avocats tant à l’audience que dans leurs observations écrites. Il est fort utile pour un juge qui doit trancher dans des débats juridiques d’avoir l’aide de deux excellents avocats qui, de par leurs connaissances et leur expertise, peuvent éclairer la Cour. Ici, la Cour est confrontée à un épineux problème : elle doit trancher la question de savoir s’il y a eu compensation légale dans les circonstances de cette affaire. Dans ses observations écrites, l’avocat de l’intimée a fait un excellent plaidoyer, proposant une solution fondée sur l’application de certains principes d’interprétation pour déterminer la portée du contrat de crédit et, en particulier, pour déterminer s’il s’agissait d’une l’obligation à terme ou d’une dette exigible sur demande.
+[14] La difficulté qui se présente ici résulte, à mon humble avis, d’un contrat rédigé de façon confuse et contradictoire. Selon les principes normaux d’interprétation en matière de contrats, la Cour devrait normalement tenter de trouver une solution qui permet d’interpréter le contrat de manière à faire ressortir l’unité dans sa conception au lieu d’adopter une interprétation qui insiste sur l’existence de dispositions contradictoires. Quoique l’exposé de l’avocat de l’intimée soit conforme aux règles de l’art, je ne suis pas convaincu ici que le résultat qu’il propose soit satisfaisant ou que ce résultat respecte l’intention qu’avaient véritablement Caisse populaire et Café.
+[15] La conclusion qu’il faut interpréter la clause 4 comme créant une obligation de faire une demande de paiement ne rend pas moins exigible la créance de Caisse populaire. En effet, si, pour obtenir le paiement du solde de la marge de crédit, il est nécessaire que Caisse populaire en fasse la demande, cela la place dans la même situation que celle où elle se serait trouvée si elle avait détenu un billet à demande. Pour obtenir le paiement d’un billet à demande, il faut bien évidemment en faire la demande. Or, selon la jurisprudence, un billet à demande est considéré comme une dette « exigible ». (Voir l’arrêt Hil-A-Don, précité.)
+[16] En outre, les règles d’interprétation invoquées par les deux parties supposent que le contrat a été bien rédigé, c’est-à-dire sans faute de la part du rédacteur. À mon avis, il est également possible de croire que, dans la « vraie vie », pour utiliser une expression populaire, un rédacteur de contrat puisse commettre des erreurs dans sa rédaction. Ici, j’ai la conviction que Caisse populaire avait vraiment l’intention de rendre la dette de Café remboursable à demande et que le but poursuivi par Caisse populaire était de s’assurer que sa créance serait exigible en totalité en tout temps. J’ai également la conviction que la clause 6 constitue un ajout maladroit de la part du rédacteur de ce contrat. En effet, il me semble que ce rédacteur y a importé une clause que l’on inclut généralement dans des contrats de prêt à terme pour prévoir la déchéance de ce terme lors de la survenance de certains évènements. Par conséquent, il me semble qu’il y a incompatibilité entre le libellé de la clause 4 et celui de la clause 6, notamment en raison de l’ajout, dans celle-ci, des mots « deviendra immédiatement exigible ». Je crois que, par cet ajout à la clause 6, on voulait plutôt énumérer des exemples précis de cas où Caisse populaire exercerait son « privilège d’exiger […] le remboursement », sans pour autant porter atteinte au caractère exigible de la dette de Café.
+[17] L’avocat de l’intimée a aussi évoqué le principe d’interprétation, énoncé à l’article 1432 CCQ, selon lequel un contrat s’interprète en faveur de celui qui a contracté l’obligation et contre celui qui l’a stipulée. Il en est de même pour le principe d’interprétation fondé sur l’existence d’un contrat d’adhésion. En l’espèce, je crois que la partie contractante Café acquiesçait au but poursuivi par Caisse populaire qui était de stipuler un prêt remboursable sur demande et non pas un prêt à terme. À la lecture de la clause 4 du contrat de crédit, il est clair que Café ne pouvait s’attendre à bénéficier de la marge de crédit pour une durée fixe. Au contraire, elle comprenait que Caisse populaire pouvait exiger en tout temps le remboursement de l’avance. Selon l’expression populaire, Caisse populaire pouvait « rappeler sa marge de crédit ».
+[18] De son côté, l’avocat de l’appelante tente, en appliquant les mêmes principes d’interprétation usuels en matière de contrats, de proposer une distinction qui ne m’apparaît pas fondée. En effet, lorsque, au paragraphe 18 de ses observations écrites, il soutient que la clause 6 constitue simplement une clause de défaut usuel en cas, notamment, d’insolvabilité et qu’il cite à l’appui de son argumentation l’arrêt Morel de la Cour d’appel du Québec, au paragraphe 19 de ses observations écrites, cela ne me paraît pas convaincant. En effet, tel qu’il ressort des paragraphes 46 et 47 de l’arrêt Morel cités au paragraphe 22 de ses observations écrites, l’enjeu dans cette affaire-là était de déterminer si le fait d’avoir décrit dans un contrat les circonstances donnant droit à la résolution ou à la résiliation du contrat pouvait être interprété comme une renonciation implicite au droit que confère l’article 2125 CCQ. Dans ce contexte, la Cour d’appel rappelle qu’on peut déroger à la loi, mais il faut que cela se fasse de manière non équivoque.
+[19] Ici, il ne s’agit pas de déterminer si la clause 6 avait pour effet la renonciation à l’exigibilité, prévue dans une disposition du Code civil, de la dette. Il s’agit au contraire de déterminer la portée de la clause 4 du contrat de crédit. Donc, il est strictement question ici de l’interprétation d’un contrat qui semble contenir deux dispositions contradictoires. Le principe de la dérogation non équivoque à une loi n’est pas applicable en l’espèce.
+[20] En résumé, je crois que l’ajout des mots « deviendra immédiatement exigible » à la clause 6 constitue une erreur de rédaction qui ne reflète pas l’intention des parties.
+[21] Même si je m’étais trompé dans l’interprétation du contrat de crédit et qu’il eût fallu conclure que la clause 4 du contrat de crédit ne créait pas une dette exigible, notamment en raison de l’existence d’une condition préalable, je conclurais quand même que la question doit être tranchée en faveur de l’appelante. En effet, la dette de Café était, en raison de l’application de la clause 6 du contrat, exigible par Caisse populaire avant la saisie. Selon une inférence qui m’apparaît grave, précise et concordante, Café était insolvable[4] avant la signification de la demande formelle de l’intimée le 24 janvier 2011. Cette insolvabilité a eu comme conséquence de rendre immédiatement exigible toute dette de Café envers Caisse populaire aux termes de la clause 6 du contrat de crédit. Il me paraît approprié d’adopter une telle présomption factuelle même si l’appelante n’a pas, dans son avis d’appel ou lors de sa plaidoirie, invoqué un tel motif pour soutenir que la dette de Café était exigible.
+[22] Avant d’adopter cette position, j’en ai fait part aux parties lors d’une conférence téléphonique où les deux étaient représentées. L’approche que j’adopte ici est semblable à celle de la Cour d’appel fédérale dans l’affaire 9101-2310 Québec inc., 2013 CAF 241, décision rendue le 18 octobre 2013 dans laquelle la Cour a inféré qu’il existait une simulation, quoique aucune allégation de simulation n’apparût dans les actes de procédure des parties, notamment dans la réponse à l’avis d’appel, et, si ma mémoire ne me fait pas défaut, la simulation n’avait pas été invoquée par l’avocat de l’Agence du revenu du Canada lors de l’audience devant la Cour canadienne de l’impôt. (Voir les paragraphes 40 et suivants de la décision de la Cour d’appel fédérale.)
+[23] Les faits qui me permettent d’adopter cette présomption factuelle sont les suivants. Elle découle principalement de deux documents se trouvant dans le Cahier de pièces de l’intimée (déposé sous la cote I-1), aux onglets 8 et 9. À l’onglet 8, on trouve un certificat de dépôt d’un avis d’intention de faire une proposition en vertu du paragraphe 50.4(1) de Loi sur la faillite et l’insolvabilité (LFI), en date du 25 janvier 2011, soit le lendemain de la signification de la demande formelle. Dans ce document, le séquestre officiel certifie que Café, une « personne insolvable[5] », a déposé cet avis d’intention. Par conséquent, toutes les procédures engagées contre la personne insolvable étaient suspendues à compter de la date du dépôt de l’avis d’intention. D’ailleurs, le lendemain, soit le 26 janvier 2011, le séquestre a envoyé un avis de surseoir au ministère du Revenu du Québec ainsi qu’au Centre financier aux entreprises Desjardins et à Caisse populaire. Si cet état d’insolvabilité existait le 25 janvier 2011, il est tout à fait raisonnable de croire, selon la prépondérance des probabilités, qu’elle existait au début de la journée du 24 janvier 2011.
+[24] L’avocat de l’intimée a soutenu, comme il n’y avait sur cette question d’insolvabilité aucune preuve directe, notamment sous la forme du bilan de Café, qu’il est possible que Café n’ait pas été insolvable le 25 janvier 2011[6]. Il a évoqué des exemples de cas où des tribunaux avaient annulé des avis de surseoir comme celui dont il s’agit en l’espèce. Il a rappelé également que Caisse populaire avait continué à faire des avances après le 26 janvier 2011. Selon lui, cela pouvait laisser croire qu’il n’y avait pas d’insolvabilité. Par contre, tel que l’a soutenu l’avocat de Caisse populaire, cette dernière avait en vertu de l’article 65.1 LFI l’obligation de respecter ses engagements contractuels[7] :
+65.1 (1) En cas de dépôt d’un avis d’intention ou d’une proposition à l’égard d’une personne insolvable, il est interdit de résilier ou de modifier un contrat — notamment de garantie — conclu avec cette personne ou de se prévaloir d’une clause de déchéance du terme figurant dans un tel contrat, au seul motif que la personne en question est insolvable ou qu’un avis d’intention ou une proposition a été déposé à son égard.
+[Je souligne.]
+Par conséquent, Caisse populaire ne pouvait refuser de continuer à respecter ses engagements en vertu de la marge de crédit.
+[25] Un autre élément rend très probable l’existence de l’insolvabilité de Café le 24 janvier 2011 et appuie donc la validité de l’avis de surseoir. C’est le document produit à l’onglet 9 de la pièce I-1 de l’intimée, qui constate qu’il y a eu cession des biens le 25 mars 2011, soit deux mois plus tard. Cet évènement laisse croire que la proposition concordataire n’avait pas été acceptée par les créanciers et indique que Café a fait faillite. Cette faillite, survenue exactement deux mois après l’avis d’intention de déposer une proposition concordataire, est suffisante pour soutenir la présomption qu’un état d’insolvabilité existait avant la signification de la demande formelle.
+[26] Il faut également rappeler que, le 24 janvier 2011, le ministère du Revenu du Québec signifiait à Caisse populaire une demande formelle de paiement et lui signifiait aussi, en vertu de la Loi sur le ministère du Revenu, un avis à un tiers saisi, le montant total réclamé s’élevant à 157 682,92 $.
+[27] En résumé, comme il existait une situation d’insolvabilité le 24 janvier 2011, soit avant que Caisse populaire ne reçoive la demande formelle, et qu’à ce moment, s’il y avait un terme, il y a eu déchéance de ce terme et la dette de Café envers Caisse populaire aux termes du contrat de crédit est devenue exigible. Par conséquent, il y a eu compensation légale du montant saisi, soit la somme que Caisse populaire devait à Café le 24 janvier 2011 et cette compensation se faisait en paiement partiel du solde dû sur la marge de crédit. La somme de 10 197,66 $, qui est le montant saisi, n’était pas due par Caisse populaire à Café. Il n’y avait donc rien à saisir à cette date.
+[28] Pour ces motifs, l’appel de Caisse populaire est accueilli et la cotisation du 22 février 2011 est annulée, le tout avec dépens.
+Signé, ce 2 ième jour de décembre 2013.
+« Pierre Archambault »
+Juge Archambault
+RÉFÉRENCE : 2013 CCI 376
+Nº DU DOSSIER DE LA COUR : 2012-3130(GST)I
+INTITULÉ DE LA CAUSE : Caisse populaire Desjardins de Québec c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : Le 9 septembre 2013
+MOTIFS DU JUGEMENT PAR : L'honorable juge Pierre Archambault
+DATE DU JUGEMENT : Le 2 décembre 2013
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Reynald Auger
+Avocats de l'intimée :
+Me Christian Boutin
+Me Pier-Olivier Julien
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Reynald Auger
+Cabinet : Langlois Kronström Desjardins S.E.N.C.R.L.
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir pièce A-1, onglet 1.
+[2] À l'appui de cette position de l'avocat de l'intimée, il y a l’arrêt de la Cour d'appel du Québec dans l'affaire In Re Hil-A-Don Ltd: Bank of Montreal c. Kwiat, 1975 C.A. 157 à la page 160. Voici ce qu’écrit le juge Bernier à la page 158 :
+D'autre part, coexistait en faveur de la banque une créance réciproque résultant d'un emprunt, créance essentiellement liquide et à la face du billet qui la constate, aussi exigible : le billet était à demande. [Je souligne.]
+[3] L'avocat ne précise pas de quelle situation de défaut prévue à la clause 6 du contrat il est question. S'agit-il de l'insolvabilité? Du non-respect d'une des dispositions du contrat de crédit?
+Quant à moi, je ne vois que le défaut créé par l’état d’insolvabilité. Si j’ai raison, l’avocat de l’intimée reconnait implicitement qu’il existait un état d’insolvabilité le 25 janvier 2011!
+[4] Le Petit Robert définit "insolvable" de la façon suivante :
+Qui est hors d'état de payer ses dettes. Débiteur insolvable.
+[Je souligne.]
+[5] Le terme « personne insolvable » est défini comme suit à l’article 2 LFI :
+2. Les définitions qui suivent s’appliquent à la présente loi.
+« personne insolvable » Personne qui n’est pas en faillite et qui réside au Canada ou y exerce ses activités ou qui a des biens au Canada, dont les obligations, constituant à l’égard de ses créanciers des réclamations prouvables aux termes de la présente loi, s’élèvent à mille dollars et, selon le cas :
+a) qui, pour une raison quelconque, est incapable de faire honneur à ses obligations au fur et à mesure de leur échéance;
+b) qui a cessé d’acquitter ses obligations courantes dans le cours ordinaire des affaires au fur et à mesure de leur échéance;
+c) dont la totalité des biens n’est pas suffisante, d’après une juste estimation, ou ne suffirait pas, s’il en était disposé lors d’une vente bien conduite par autorité de justice, pour permettre l’acquittement de toutes ses obligations échues ou à échoir.
+[Je souligne.]
+[6] Pour un point de vue contraire, voir la note infrapaginale 3 ci-dessus.
+[7] Comme la compensation légale est survenue antérieurement au dépôt de l’avis d’intention, l’article 65.1 LFI n’a pas pour effet, à mon avis, d’interdire cette compensation légale. Voir l’arrêt Banque Toronto-Dominion c. Canada, 2012 CSC 1, 2012 1 R.C.S. 3 où la Cour suprême du Canada adopte les motifs du juge Noël de la Cour d’appel fédérale dans la même affaire (2010 CAF 174), notamment le paragraphe 53 de ceux-ci.

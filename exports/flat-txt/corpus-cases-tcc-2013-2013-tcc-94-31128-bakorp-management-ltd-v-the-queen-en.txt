@@ -1,0 +1,166 @@
+Title: Bakorp Management Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31128/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-94-31128-bakorp-management-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-04-02
+
+# Bakorp Management Ltd. v. The Queen
+
+- Citation: 2013 TCC 94
+- Decision date: 2013-04-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4776, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bakorp Management Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-04-02
+Neutral citation
+2013 TCC 94
+File numbers
+2012-4029(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-4029(IT)G
+BETWEEN:
+BAKORP MANAGEMENT LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on March 6, 2013 at Toronto, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Matthew Williams
+Rebecca Potter
+Counsel for the Respondent:
+Jenny Mboutsiadis
+Marie-Thérèse Boris
+____________________________________________________________________
+ORDER
+UPON motion by the Respondent for:
+1. an Order dismissing the appeal;
+2. in the event that the relief requested in paragraph 1 is not granted, an Order extending the time to file a Reply to the Notice of Appeal to 60 days from the date that this Court delivers a decision with respect to this motion;
+3. costs of this motion; and
+4. such other or further relief as this Honourable Court may deem appropriate.
+AND UPON hearing the submissions of the parties:
+IT IS ORDERED THAT:
+The Respondent’s motion is allowed.
+The appeal from the assessment made under the Income Tax Act for the 1995 taxation year is dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada this 2nd day of April 2013.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2013 TCC 94
+Date: 20130402
+Docket: 2012-4029(IT)G
+BETWEEN:
+BAKORP MANAGEMENT LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+C. Miller J.
+[1] The Minister has brought a motion for the dismissal of this case pursuant to Rule 58(3)(a) or (b) or Rule 53(c) on the basis that the Appellant has failed to comply with section 169(2.1) of the Income Tax Act (the “Act”). Rather than following the normal course of going through the facts first, I will set out what I refer to as the Large Corporation Rules found in sections 165(1.11), 169(2.1) and 152(4.4):
+165(1.11) Objections by large corporations. Where a corporation that was a large corporation in a taxation year (within the meaning assigned by subsection 225.1(8)) objects to an assessment under this Part for the year, the notice of objection shall
+(a) reasonably describe each issue to be decided;
+(b) specify in respect of each issue, the relief sought, expressed as the amount of a change in a balance (within the meaning assigned by subsection 152(4.4)) or a balance of undeducted outlays, expenses or other amounts of the corporation; and
+(c) provide facts and reasons relied on by the corporation in respect of each issue.
+169(2.1) Limitation on appeals by large corporations. Notwithstanding subsections (1) and (2), where a corporation that was a large corporation in a taxation year (within the meaning assigned by subsection 225.1(8)) served a notice of objection to an assessment under this Part for the year, the corporation may appeal to the Tax Court of Canada to have the assessment vacated or varied only with respect to
+(a) an issue in respect of which the corporation has complied with subsection 165(1.11) in the notice, or
+(b) an issue described in subsection 165(1.14) where the corporation did not, because of subsection 165(7), serve a notice of objection to the assessment that gave rise to the issue
+and, in the case of an issue described in paragraph (a), the corporation may so appeal only with respect to the relief sought in respect of the issue as specified by the corporation in the notice.
+152(4.4) Definition of “balance”. For the purpose of subsection (4.3), a “balance” of a taxpayer for a taxation year is the income, taxable income, taxable income earned in Canada or any loss of the taxpayer for the year, or the tax or other amount payable by, any amount refundable to, or any amount deemed to have been paid or to have been an overpayment by, the taxpayer for the year.
+[2] As is clear a large corporation must be relatively specific in its Notice of Objection and those specifics must follow through to the appeal to the Tax Court of Canada.
+[3] Both parties referred me to the Federal Court of Appeal reasons in Potash Corporation of Saskatchewan Inc. v. The Queen, 2003 FCA 471:
+[4] The Large Corporation Rules were enacted in 1995 to discourage large corporations from engaging in a full reconstruction of their income tax returns for a particular year, after the objection or appeal process has started, based on developing interpretations and the outcome of court decisions in litigation involving other taxpayers. The reasons for these subsections are well-stated by R.M. Beith in his paper entitled “Draft Legislation on Income Tax Objections and Appeals” as outlined in the Report of Proceedings of the Forty-Sixth Tax Conference, 1994 Conference Report (Toronto: Canadian Tax Foundation, 1995), 34:2.
+One of the reasons for the legislation is to identify disputed issues much sooner so that a taxation year’s ultimate tax liability can be determined in a timely way.
+Owing to the complexity of the law and the number of issues, for many years a number of large corporations have had some of their taxation years left open through outstanding notices of objection or appeals, so that they have been able to raise new issues based on emerging interpretations and the outcome of court decisions challenged by other taxpayers.
+Recently, a particular problem was identified by the auditor general and the Public Accounts Committee. A case dealing with the calculation of “resource allowance” which was decided against the department, resulted in claims not only based on the particular facts decided by the court but in respect of a new issue concerning the calculation of the “resource allowance”. These claims, both directly and indirectly from the court decision, involved significant amounts of tax and interest.
+In summary, it is essential that revenues be more predictable and therefore that potential liabilities be identified and resolved within a more reasonable time.
+Simply put, Parliament wants the Minister of National Revenue (the Minister) to be able to assess at the earliest possible date both the nature and quantum of pending tax litigation and its potential fiscal impact.
+[4] It is clear these rules could affect a harsh result by precluding a large corporation from appealing matters that may come to light after the Notice of Objection. But that depends on how reasonably the issue is described in the Notice of Objection. As the Federal Court of Appeal went on to say in Potash:
+[22] … While a large corporation is not required to describe the issue “exactly”, as the Judge states, it is required to describe the issue “reasonably”. What is reasonable will differ in each case and will depend on what degree of specificity is required to allow the Minister to know each issue to be decided.
+[5] In Potash, the Appellant claimed to have inadvertently left off certain income items in its calculation of resource profits at the Notice of Objection stage, which it wished to include at the Notice of Appeal stage. The Federal Court of Appeal stated:
+[24] … it would not have been reasonable to simply say that the computation of “Resource Allowance” or “resource profits” was an issue, without specifying the particular elements of that computation that required a determination by the Minister or the Tax Court, as the case may be. That level of generality would render the Large Corporation Rules meaningless, defeating the purpose of their enactment.
+[6] Finally, the Court, in obiter comments on quantification stated:
+[27] The Judge made a number of comments relating to the statutory requirement to specify an “amount” for each issue. If he had determined, as he should have done, that PCS is not entitled to include the five disputed items in their notice of appeal, there would have been no need to discuss quantification at all. Nor is it necessary for me to comment on it. I prefer to leave open the question of whether the obligation to “specify in respect of each issue, the relief sought, expressed as the amount of a change in a balance (within the meaning assigned by subsection 152(4.4)) or a balance of undeducted outlays, expenses or other amounts of the corporation” necessarily binds a large corporation to the stated amount, or a less favourable amount. It is arguable that there may be situations where an amendment to a notice of appeal could be permitted if the amendment goes only to quantum and does not entail the raising of a new issue.
+[7] I turn now to the facts of this matter to determine how the large corporation rules, as interpreted by the Federal Court of Appeal, should apply.
+[8] First, there is no dispute that the Appellant was a large corporation for the purposes of the Act.
+[9] In March, 1992, five class A common shares of a corporation not connected to the Appellant were redeemed by that corporation for $338,213,849 resulting in a deemed dividend pursuant to subsection 84(3) of the Act.
+[10] On the basis that a portion of the redemption proceeds did not become payable until its 1995 taxation year, the Appellant reported a portion of the deemed dividend ($52,912,264) as taxable income in 1995, resulting in $13,333,059 of Part IV tax.
+[11] The Minister reassessed the Appellant’s 1995 taxation year by notice of reassessment dated January 31, 2000 to reduce the amount of the deemed dividend included as taxable income in the 1995 taxation year by $25,332,237. The resulting Part IV tax was reduced accordingly.
+[12] The Appellant objected by Notice of Objection dated May 29, 2000. Under the heading “Issue” the Appellant described the issue in the following manner:
+1. Share redemption proceeds added to income as a deemed dividend.
+Adjustment to
+Taxation Year Deemed Dividend
+March 10, 1995 $ (25,332,237)
+March 10, 1994 (8,154,757)
+March 10, 1993 154,224,784
+$120,737,790
+[13] The Appellant asserted that the amount of the redemption proceeds that had become payable in the 1995 taxation year had been properly included by the Appellant in its 1995 income.
+[14] Under the heading “Relief Sought” the Appellant described the relief sought as follows:
+By way of Notice of Reassessment dated January 31, 2000, the Minister reassessed Bakorp Management Ltd., formerly Seven-Up Canada Inc., (“the taxpayer”) the amount summarized below in respect of the above noted issue.
+March 10, 1995
+Reduction of Part IV Tax $ 6,333,059.00
+Refund interest 2,444,334.06
+Overpayment as per the reassessment $ 8,707,393.06
+The taxpayer objects to the reassessment of taxes as outlined above, and any related interest and penalties with respect to the reassessed item for the taxation period ended March 10, 1995.
+[15] In effect, the Appellant was objecting to the Minister decreasing the deemed dividend in 1995 by $25,332,237. The Appellant insisted it had properly included a deemed dividend of $52,912,284 in its 1995 taxation year. It did go on to say in the Notice of Objection that “it was unable to determine how the CCRA determined the adjustment of taxable income” and that “it disagrees with the position taken by the CCRA.”
+[16] The Minister issued a notice of confirmation on March 26, 2012 as follows:
+During the 1993 taxation year, shares were redeemed for proceeds of $338,213,849. $187,062,571 of the $338,213,849 you received is deemed by subsection 84(3) of the Income Tax Act (ITA) to be a dividend. Also, it is a “taxable dividend” as defined under subsection 89(1) of the ITA. We have accepted that $28,000,000 of this deemed dividend should be included in your income in the 1995 year.
+[17] The Minister denied the objection, thus reducing the approximate $53,000,000 deemed dividend the Appellant wanted in its 1995 income, leaving a balance of $28,000,000 to be included.
+[18] The Appellant filed a Notice of Appeal in December 2012. It read in part as follows:
+8. Of the Deemed Dividend, $28,000,000 was not included in the Appellant’s income until the 1995 Year (the “1995 Receipt”).
+…
+13. The issue with respect to the Assessment is whether the 1995 Receipt is properly taxable in the Appellant’s 1995 Year.
+…
+15. The Deemed Dividend, including the 1995 Receipt, was payable to the Appellant in the 1993 Year and, therefore, should be included in the Appellant’s taxable income for the 1993 Year.
+[19] The Respondent argues that the Appellant has failed to comply with the Large Corporation Rules because:
+1. The issue in the Notice of Appeal is not an issue described in the Notice of Objection, and
+2. The relief specified in the Notice of Appeal is not the relief specified in the Notice of Objection.
+[20] The Respondent maintains that the Notice of Objection concerns the Appellant’s wish to have approximately an identified $25,000,000 of deemed dividend included in 1995 income, while the Notice of Appeal concerns the Appellant’s wish to now accept the Minister’s position on the $25,000,000 and decrease the deemed dividend inclusion in 1995 by the balance of the $28,000,000.
+[21] The Appellant argues that it is abundantly clear from the Notice of Objection that the issue is what is the amount of the particular redemption proceeds that is to be included in 1995 as a deemed dividend. As the Appellant put it, that is the nature of the dispute, and that did not change from the objection stage to the appeal stage. The Appellant simply did not accept the Minister’ s calculation, and argues that this cannot be described as a full reconstruction, using the Federal Court of Appeal’s term, of the Appellant’s 1995 tax return. I disagree.
+[22] I cannot imagine a fuller reconstruction than making a 180 degree turn in what is to be included in income.
+[23] The Appellant is taking a too general approach to identifying the issue. It would lead to pleadings being drafted in terms of what is the correct amount of income, rendering a specific and reasonable identification of issues, as required by the Large Corporation Rules, meaningless. The Appellant says the appeal is simply a continuing examination of the proper tax treatment of clearly identified proceeds of redemption, and by proceeds the Appellant means the full amount of the proceeds. Yet, the Notice of Objection does not reference the full amount of the proceeds as part of the issue, only the $25,000,000, and then in terms of wanting that amount included. No, it is unreasonable to suggest the issue can be as broadly construed as the Appellant suggests.
+[24] Had I determined that the Appellant was correct in characterizing the issue on appeal as the same issue as the Notice of Objection, then it would be necessary to determine if the relief sought on appeal is the same relief sought in respect of the issue as specified by the corporation in the Notice of Objection. The Notice of Objection, to comply with section 165(1.11)(b) must identify the change in the balance, being the income, taxable income or tax. The objection does this by indicating a change of approximately $25,000,000 in income and a change of $6.3 million in tax. The Appellant’s position is that the relief sought in the appeal is the same, being the correct determination of the amount of deemed dividend to fall into 1995 income, and only the quantum is changed. Again, I disagree.
+[25] This is not a situation of discovering an error, an oversight or new fact that impacts on quantum. This is a complete reversal from wanting $53,000,000 included in income to wanting nothing included in income; from saying, Minister, you are wrong to decrease by $25,000,000, to saying Minister, you were right to decrease by $25,000,000 and furthermore you should have decreased by the full $53,000,000. As the Federal Court of Appeal in Potash pointed out, there may be situations where change in quantum may not involve Large Corporation Rules. This however is not one of those situations.
+[26] The Minister was led to believe that $25,000,000 of deemed dividend was on the table for 1995, not the full $53,000,000. The relief sought was to increase income, not to decrease income. That is just not quantum: that goes to what the Large Corporation Rules were designed to counter.
+[27] The Appellant points out that section 169(2.1) does not include a specific reference to the amount of a change in the balance, and therefore quantum is left flexible. I do not accept this interpretation. Section 169(2.1) refers to “relief sought in respect of the issue as specified in the notice”. Section 165(1.11) requires the notice specifically identify the numeric change in the balance, as defined. It follows one cannot ignore the specificity of that change in balance.
+[28] I could allow the motion under more than one of the Rules cited by the Respondent, but I find Rule 58(3)(b) is most appropriate, in that the Appellant has not fulfilled a condition precedent to institute a valid appeal and the appeal is therefore dismissed with costs to the Respondent.
+Signed at Ottawa, Canada this 2nd day of April 2013.
+“Campbell J. Miller”
+C. Miller J.
+CITATION: 2013 TCC 94
+COURT FILE NO.: 2012-4029(IT)G
+STYLE OF CAUSE: BAKORP MANAGEMENT LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 6, 2013
+REASONS FOR ORDER BY: The Honourable Justice Campbell J. Miller
+DATE OF ORDER: April 2, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Matthew Williams
+Rebecca Potter
+Counsel for the Respondent:
+Jenny Mboutsiadis
+Marie-Thérèse Boris
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Matthew Williams
+Firm: Thorsteinssons
+Toronto, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

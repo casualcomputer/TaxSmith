@@ -1,0 +1,133 @@
+Title: Mulvaney c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29737/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-182-29737-mulvaney-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-04-08
+
+# Mulvaney c. La Reine
+
+- Citation: 2010 CCI 182
+- Decision date: 2010-04-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6544, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mulvaney c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-04-08
+Référence neutre
+2010 CCI 182
+Numéro de dossier
+2009-1887(IT)I
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2010 CCI 182
+Date : 20100408
+Dossier : 2009-1887(IT)I
+ENTRE :
+JUNE MULVANEY,
+appelante,
+et
+SA MAJESTÉ LA REINE
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Représentant de l’appelante :
+M. Patrick Mulvaney
+Avocate de l’intimée :
+Me Jack Warren
+____________________________________________________________________
+MOTIFS DU JUGEMENT RENDUS ORALEMENT
+(Rendus oralement par téléconférence
+à Ottawa (Ontario), le 19 mars 2010,
+et modifiés par souci de clarté et d’exactitude.)
+[1] L’appelante fait appel des avis de nouvelle cotisation établis à son égard relativement aux années d’imposition 2004 et 2005.
+[2] Dans la déclaration de revenus qu’elle a produite pour l’année d’imposition 2004, l’appelante a déclaré des revenus de 43 084 $ provenant de trois sources : des revenus d’emploi déclarés sur un feuillet T4, des revenus d’un REER et d’autres revenus. Elle a également déclaré d’autres revenus d’emploi de 10 000 $ et une perte nette d’entreprise de 42 224 $.
+[3] Lorsqu’il a procédé à l’établissement de nouvelles cotisations à l’égard de l’appelante, le ministre a accepté les revenus de 43 084 $ provenant des trois sources. Toutefois, il a ramené à zéro les autres revenus d’emploi et à 3 164 $ la perte nette d’entreprise.
+[4] Dans la déclaration de revenus qu’elle a produite pour l’année d’imposition 2005, l’appelante a déclaré des revenus de 39 391 $ provenant de deux sources : des revenus d’emploi déclarés sur un feuillet T4 et d’autres revenus. Elle a également déclaré une perte nette d’entreprise de 31 306 $.
+[5] Lorsqu’il a procédé à l’établissement de nouvelles cotisations à l’égard de l’appelante, le ministre a accepté les revenus de 39 391 $ provenant des deux sources, mais il a réduit la perte nette d’entreprise à 3 634 $.
+[6] L’appelante a interjeté appel à l’encontre des rajustements que le ministre a apportés à ses revenus.
+[7] À l’audience, l’appelante a accepté la réduction de 10 000 $ appliquée à ses autres revenus d’emploi pour l’année d’imposition 2004.
+[8] La Cour a entendu deux témoins : le conjoint de l’appelante, M. Patrick Mulvaney, et M. Todd Van Delinder, fonctionnaire de l’Agence du revenu du Canada et auteur de la vérification des affaires de l’appelante. M. Mulvaney était également le représentant de l’appelante.
+[9] L’appelante et son mari exploitaient une entreprise de construction et de rénovation de propriétés résidentielles par l’entremise d’une société de personnes. Il semble que la société de personnes confiait une partie importante des travaux en sous-traitance à des tiers.
+[10] Au cours de la vérification, l’appelante a fourni à l’ARC les documents comptables relatifs à la société de personnes, documents apparemment composés principalement de reçus. M. Mulvaney a déclaré en témoignage que les reçus étaient regroupés par catégorie de dépenses et que la bande témoin de la calculatrice était attachée à chaque liasse de reçus afin de permettre de faire un rapprochement entre les totaux des reçus et les montants inscrits dans la déclaration de revenus de l’appelante pour chacune des catégories de dépenses. Je ne comprends pas très bien pourquoi le vérificateur de l’ARC n’a pas fait allusion aux bandes témoin.
+[11] Malheureusement, l’appelante n’a pas apporté les reçus à l’audience. Elle a cru à tort que la Cour n’exigerait pas de les voir, puisqu’elle les avait déjà présentés à l’ARC.
+[12] Cette méprise ne porte pas un coup fatal à la cause de l’appelante. Comme je le lui ai expliqué, il lui incombe de prouver que les faits sur lesquels le ministre s’est fondé pour établir les nouvelles cotisations sont erronés. Il est vrai qu’il sera moins aisé pour la contribuable de faire la preuve de ses dépenses si elle ne peut produire de documents ou de reçus, mais elle peut néanmoins présenter un témoignage oral relativement à ces dépenses.
+[13] À ce sujet, la Cour suprême du Canada a déclaré, dans l’arrêt Hickman Motors c. Canada, [1997] 2 R.C.S. 336, que lorsque la Loi de l’impôt sur le revenu n’exige aucun document d’appui, le témoignage crédible du contribuable suffit, malgré l’absence de documents.
+[14] L’intimée a déposé en preuve les feuilles de travail de vérification de M. Van Delinder. Ces feuilles de travail donnent des détails au sujet des revenus déclarés par la société de personnes, des déductions demandées par elle et des rajustements apportés par l’ARC.
+[15] M. Van Delinder a expliqué à la Cour ce qu’il comprenait de chacun des postes ainsi que les raisons des rajustements apportés aux montants déclarés par l’appelante.
+[16] Dans sa réponse, M. Mulvaney a passé chaque poste en revue. Il a décrit comment la société de personnes s’y prenait pour faire le suivi des recettes et des dépenses et il a expliqué la nature de chaque dépense figurant dans les feuilles de travail de l’ARC. Il a également passé en revue chaque rajustement noté dans ces feuilles de travail en expliquant pourquoi il s’opposait aux rajustements apportés par l’ARC aux revenus et à un certain nombre de postes de dépenses.
+[17] J’estime que M. Mulvaney était un témoin crédible capable d’analyser, de manière assez approfondie, chaque dépense inscrite dans les feuilles de travail de l’ARC et d’expliquer à la Cour en quoi les dépenses en question ont été engagées en vue de tirer un revenu d’entreprise.
+[18] M. Mulvaney a reconnu que certaines déductions avaient été demandées par erreur. Toutefois, il ne s’agit pas de sommes importantes.
+[19] La Cour est saisie de trois questions en ce qui concerne le montant des pertes d’entreprise que l’appelante peut déduire dans le calcul de ses revenus pour les années d’imposition 2004 et 2005 : le montant des revenus bruts générés par la société de personnes, le montant des dépenses pouvant être déduites dans le calcul de la perte de la société de personnes pour l’application de la Loi de l’impôt sur le revenu et la proportion de la participation de l’appelante dans la société de personnes.
+[20] J’examinerai d’abord la question des revenus bruts tirés par la société de personnes.
+[21] Lors de son témoignage, M. Van Delinder a déclaré avoir adopté une méthode indirecte pour calculer les revenus bruts de la société de personnes : il a examiné le compte en banque de la société de personnes de même que les comptes bancaires personnels de l’appelante et de M. Mulvaney.
+[22] Il n’a relevé aucune irrégularité lors de l’examen du compte en banque de la société de personnes. Néanmoins, il a augmenté les revenus bruts de celle‑ci de 4 419 $ en 2004 et de 10 069 $ en 2005 en raison de ce qu’il a appelé des [traduction] « dépôts de source inconnue » relevés dans les comptes bancaires personnels.
+[23] M. Mulvaney a rétorqué que tous les revenus tirés de la société de personnes avaient été déposés dans le compte en banque de cette dernière. Les sommes reçues des clients n’étaient jamais déposées dans les comptes bancaires personnels. Son témoignage est étayé par les feuilles de travail de l’ARC. Ces feuilles montrent que tous les dépôts effectués dans le compte en banque de la société de personnes se rapportaient à l’entreprise.
+[24] De plus, aucun des dépôts remarqués dans le compte en banque personnel n’avait de lien avec la société de personnes.
+[25] À mon sens, il était déraisonnable de la part de M. Van Delinder de supposer que les dépôts de source inconnue effectués dans le compte en banque personnel concernaient la société de personnes.
+[26] Comme l’a signalé M. Mulvaney, la plupart des gens ne conservent pas la trace de chaque dépôt qu’ils font dans leurs comptes en banque personnels. En outre, aucune preuve ne permettait de conclure que ces dépôts de source inconnue se rapportaient à la société de personnes. En fait, l’analyse effectuée par l’ARC a montré que l’appelante et M. Mulvaney mettaient un soin méticuleux à séparer les opérations bancaires de la société de personnes des leurs.
+[27] Compte tenu du témoignage de M. Mulvaney et des feuilles de travail de l’ARC, je conclus que les revenus bruts de la société de personnes correspondent aux montants déclarés par l’appelante dans sa déclaration de revenus : 46 567 $ pour l’année d’imposition 2004 et 25 611 $ pour l’année d’imposition 2005.
+[28] J’aborde maintenant la question du montant des dépenses déductibles de la société de personnes.
+[29] Après avoir entendu les témoignages de M. Van Delinder et de M. Mulvaney et examiné les feuilles de travail de l’ARC, je conclus que l’appelante a engagé des dépenses correspondant aux montants déclarés dans sa déclaration de revenus.
+[30] Cela dit, comme nous le verrons un peu plus loin, il ne fait aucun doute selon moi que certaines des dépenses ne pouvaient pas être déduites dans le calcul des revenus ou des pertes de la société de personnes.
+[31] Je n’ai pas l’intention de mentionner ici chaque poste de dépenses. Je traiterai uniquement des dépenses que le ministre a refusées et à l’égard desquelles je reconnais qu’elles ne pouvaient faire l’objet de déductions dans le calcul des revenus imposables de la société de personnes.
+[32] Le premier poste de dépenses concerne les créances irrécouvrables. À ce titre, 750 $ ont été déduits pour 2004, et 3 000 $ pour 2005. Le ministre a refusé en totalité les montants déduits par la société de personnes.
+[33] Il semble que la déduction ait été refusée en raison de l’absence de preuve indiquant que les sommes correspondaient à des ventes précédemment incluses dans les revenus de la société de personnes.
+[34] M. Mulvaney a déclaré dans son témoignage que les montants se rapportaient à un chantier réalisé à St. Thomas. La société de personnes n’aurait pas été payée pour les travaux exécutés. M. Mulvaney n’a fourni aucune preuve du fait que les sommes en question avaient été ajoutées antérieurement aux revenus de la société de personnes.
+[35] Bref, l’appelante n’a pu prouver que les faits sur lesquels le ministre s’est fondé étaient erronés.
+[36] Par conséquent, je suis dans l’obligation d’accepter la position du ministre et de refuser la déduction des montants de 750 $ pour 2004 et de 3 000 $ pour 2005 au titre de créances irrécouvrables.
+[37] Le deuxième poste de dépenses concerne l’entretien et les réparations, pour lesquels un montant de 1 986 $ a été déduit en 2004. Le ministre a refusé la déduction. Dans son témoignage, M. Mulvaney a déclaré que cette somme avait été dépensée pour l’aménagement d’un bureau à domicile et la modification d’un garage servant d’entrepôt.
+[38] La somme dépensée pour le garage était déductible. Toutefois, comme l’a souligné l’avocat de l’intimée, la société de personnes ne pouvait pas déduire de montants relativement à un bureau à domicile. J’estime qu’on peut raisonnablement conclure que la moitié des 1 986 $ a été dépensée pour le garage. Par conséquent, un montant de 993 $ devrait être déduit dans le calcul des revenus nets de la société de personnes.
+[39] Le poste suivant concerne le loyer. Un montant de 4 320 $ a été déduit à ce titre pour 2004, et de 2 400 $ pour 2005. Le ministre a accepté la déduction de 2 400 $ pour 2005, mais il a fait passer celle demandée pour 2004 de 4 320 $ à 2 400 $. Il a reconnu que 2 400 $ avaient été dépensés pour la location d’un atelier à Orwell dans chacune des années 2004 et 2005, acceptant ainsi les dépenses de 2005 en entier et celles de 2004 en partie. Toutefois, il a déterminé que les 1 920 $ restants dépensés en 2004 concernaient le bureau à domicile.
+[40] M. Mulvaney a déclaré qu’une partie de ces frais de 1 920 $ concernaient un entrepôt.
+[41] Sur la foi du témoignage de M. Mulvaney, j’autoriserai la déduction d’une somme additionnelle de 1 000 $ au titre du loyer pour 2004. Il s’ensuit que 3 400 $ devraient être déduits au titre du loyer dans le calcul des revenus nets de la société de personnes pour 2004.
+[42] Le ministre a réduit de 10 000 $ le montant déduit au titre des salaires pour 2004. Cette réduction a été compensée par une réduction équivalente des autres revenus d’emploi de l’appelante. L’appelante a accepté ces rajustements.
+[43] Le poste suivant concernait un remboursement de prêt. À ce titre, 3 500 $ ont été déduits pour 2004. Le ministre a ramené la déduction à zéro. M. Mulvaney a déclaré que cette somme représentait les versements effectués pour le remboursement d’un prêt qu’avait contracté le propriétaire précédent de l’entreprise (son fils).
+[44] Je souscris à l’avis du ministre : cette somme ne pouvait pas être déduite, car elle n’a pas été dépensée en vue de tirer un revenu d’une entreprise. Il semble plutôt s’agir d’une dépense en capital.
+[45] Je conviens que tous les autres montants apparaissant dans la première colonne des annexes A et B qui ont été jointes à la réponse à l’avis d’appel sont déductibles dans le calcul des revenus nets de la société de personnes.
+[46] Je répète que je n’ai pas l’intention d’examiner une à une les dépenses. Cependant, j’aimerais formuler une remarque par rapport aux sommes importantes qui ont été refusées dans la catégorie des fournitures.
+[47] Il ressort nettement de la preuve que, dans bon nombre de cas, le ministre a rejeté des déductions parce qu’un article personnel d’un prix modeste figurait sur le reçu. Ainsi, il a refusé une déduction de 214 $ parce que des gâteries pour chiens et une bombonne de Lysol apparaissaient sur le reçu. Or, ce reçu constatait également l’achat de filtres. Le vérificateur a ignoré ce reçu même s’il était évident que la somme inscrite correspondait au bas mot à 98 % au coût des filtres achetés pour le compte de la société de personnes.
+[48] Les décisions prises par le vérificateur de l’ARC pour en arriver à conclure qu’il devait augmenter le montant des revenus bruts de l’appelante et refuser les déductions demandées nous incitent à douter de son bon jugement. J’ai donc accordé moins de poids à son témoignage.
+[49] En somme, sur la base du témoignage de M. Mulvaney, des feuilles de travail de l’ARC et aussi, dans une moindre mesure, du témoignage de M. Van Delinder, j’ai établi la perte nette d’entreprise de la société de personnes en 2004 à 26 061 $, en tenant compte de revenus bruts d’entreprise de 46 567 $ et de dépenses déductibles de 72 628 $.
+[50] En 2005, la perte nette d’entreprise de la société de personnes s’est élevée à 28 302 $, compte tenu de revenus bruts d’entreprise de 25 611 $ et de dépenses déductibles de 53 913 $.
+[51] La troisième question qui doit être tranchée est celle de la participation de l’appelante dans la société de personnes.
+[52] Au départ, la contribuable soutenait qu’elle avait droit à cent pour cent des parts de la société de personnes. Au moment d’établir la nouvelle cotisation à son égard, le ministre a estimé qu’elle détenait une participation de vingt-cinq pour cent dans la société de personnes.
+[53] Dans son avis d’appel, l’appelante a déclaré que sa participation était de 70 %.
+[54] Le ministre et l’appelante ont tous deux soumis une liste de facteurs étayant leur position respective.
+[55] À l’audience, j’ai demandé à M. Mulvaney de prendre du recul, de faire abstraction de cet appel relatif à des questions d’ordre fiscal et de me dire de quelle façon était répartie, selon lui, la participation dans la société de personnes. Il m’a répondu que l’appelante et lui s’étaient toujours considérés comme des associés à parts égales.
+[56] À mon sens, nous sommes en présence d’un cas où les parties fixent leur attention sur des détails et se privent ainsi d’une vue d’ensemble. Si on considère la preuve dans sa totalité, il apparaît comme évident que l’appelante et M. Mulvaney étaient associés à parts égales dans l’entreprise.
+[57] Par conséquent, je conclus que l’appelante avait le droit de déduire cinquante pour cent des pertes subies par la société de personnes, soit 13 030,50 $ pour l’année d’imposition 2004 et 14 151 $ pour l’année d’imposition 2005.
+[58] Pour les motifs qui précèdent, l’appel est accueilli sans frais et l’affaire est renvoyée au ministre pour qu’il procède à un nouvel examen et qu’il établisse une nouvelle cotisation en tenant pour acquis que l’appelante a le droit, lors du calcul de ses revenus imposables pour les années d’imposition 2004 et 2005, de déduire des montants de 13 030,50 $ et de 14 151 $, respectivement, au titre des pertes de la société de personnes.
+Signé à Winnipeg (Manitoba), ce 8e jour d’avril 2010.
+« S. D’Arcy »
+Juge D'Arcy
+Traduction certifiée conforme
+ce 13e jour de février 2014.
+S. Tasset
+RÉFÉRENCE : 2010 CCI 182
+No DU DOSSIER DE LA COUR : 2009-1887(IT)I
+INTITULÉ : JUNE MULVANEY ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 10 mars 2010
+MOTIFS DU JUGEMENT : L’honorable juge Steven K. D'Arcy
+DATE DU JUGEMENT : Le 8 avril 2010
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Patrick Mulvaney
+Avocat de l’intimée :
+Me Jack Warren
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,191 @@
+---
+title: "Des Roches c. Le Roi"
+source: "https://norma.lexum.com/tcc-cci/decisions/fr/item/521363/index.do"
+last_modified: "2024-11-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 152"
+citation2: ""
+neutral_citation: "2024 CCI 152"
+decision_date: "2024-11-29"
+language: "fr"
+item_id: "521363"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5493
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:07:29.130000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "88e214aacb61fd5b4fe930f6a182dd24318d7bdd99a3c2588f13935a36c474a8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Des Roches c. Le Roi
+
+- Citation: 2024 CCI 152
+- Decision date: 2024-11-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5493, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Des Roches c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-11-29
+Référence neutre
+2024 CCI 152
+Numéro de dossier
+2020-665(GST)I
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2020-665(GST)I
+ENTRE :
+CHRISTOPHER P. DES ROCHES,
+appellant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 6 avril 2023, à Hamilton (Ontario).
+Devant : l’honorable juge Susan Wong.
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Terence Katerynych
+JUDGMENT
+L’appel interjeté à l’encontre des cotisations établies en vertu de la Loi sur la taxe d’accise pour les périodes de déclaration allant du 1er janvier 2010 au 31 décembre 2010 et du 1er janvier 2013 au 31 décembre 2013 est annulé, sans dépens.
+Signé à Ottawa, Canada, ce 29e jour de novembre 2024.
+« Susan Wong »
+La juge Wong
+Traduction certifiée conforme
+ce 23e jour de juillet 2025.
+Sophie Reid-Triantafyllos, jurilinguiste principale
+Référence : 2024CCI152
+Date : 20241129
+Dossier : 2020-665(GST)I
+ENTRE :
+CHRISTOPHER P. DES ROCHES,
+appellant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+La juge Wong
+Introduction et aperçu [1] Le présent appel vise à contester une cotisation de TPS établie pour 2012. Pour sa part, l’intimé sollicite l’annulation de l’appel au motif que l’appelant n’a pas déposé d’avis d’opposition dans le délai prévu par la Loi sur la taxe d’accise.
+Questions préliminaires A. Requête préliminaire en annulation [2] La Cour n’a entendu que la requête préliminaire en annulation de l’appel présentée par l’intimé. L’appelant a informé la Cour que, si la requête de l’intimé n’était pas accueillie, il avait l’intention de produire en preuve plus de 500 pages de documents durant l’appel. Le temps manquait pour tenir une audience assez longue pour examiner la quantité prévue d’éléments de preuve.
+B. Validité de l’affidavit de l’intimé [3] Au début de l’audition de la requête préliminaire de l’intimé, l’appelant a contesté le fait que l’affidavit de l’intimé (déposé le 29 mars 2023) avait été assermenté en bonne et due forme. Pendant la pandémie, notre Cour a commencé à accepter les affidavits assermentés à distance s’ils étaient reçus conformément aux règles de la cour supérieure de la province dans laquelle se trouvait le commissaire[1].
+[4] L’affidavit a été assermenté conformément au règlement Prestation des serments ou réception des déclarations à distance[2] et au paragraphe 9(2) de la Loi sur les commissaires aux affidavits[3] (tous deux de l’Ontario). Aux termes du paragraphe 4(4) de la Loi sur les commissaires aux affidavits, un commissaire porte le titre de « commissaire aux affidavits auprès des cours de l’Ontario », alors que le titre figurant dans l’affidavit est [traduction] « commissaire aux serments de la province de l’Ontario ». Quoi qu’il en soit, l’intimé a remédié à la situation en demandant à l’auteur de l’affidavit de l’Agence du revenu du Canada (l’« ARC ») de témoigner en personne au sujet de chaque paragraphe de l’affidavit[4].
+C. Périodes de déclaration [5] Compte tenu des dates indiquées dans l’avis d’appel, l’intimé a supposé que l’appelant voulait interjeter appel des cotisations établies pour les périodes de déclaration allant du 1er janvier au 31 décembre 2010 et du 1er janvier au 31 décembre 2013[5]. L’intimé a également déduit de l’avis d’appel que l’appelant voulait interjeter appel des décisions du ministre du Revenu national relatives à l’allègement pour les contribuables[6].
+[6] L’avis d’appel de l’appelant énumère les dates de cotisation suivantes : a) le 26 septembre 2019, b) le 4 octobre 2019 et c) le 19 février 2020, et vise également [traduction] « toute autre cotisation ou nouvelle cotisation erronée »[7].
+[7] Dans sa réponse, pour chacune des dates de cotisation énumérées dans l’avis d’appel, l’intimé mentionne les mesures concrètes prises par le ministre du Revenu national à ces dates[8] :
+Le 26 septembre 2019 – une lettre de décision du ministre concernant la décision administrative de renoncer aux intérêts et aux pénalités[9];
+Le 4 octobre 2019 – un avis de nouvelle cotisation a été délivré reflétant les rajustements des intérêts et des pénalités indiqués dans la lettre du 26 septembre 2019;
+Le 19 février 2020 – une lettre de décision du ministre concernant son examen au deuxième palier de la décision de renoncer aux intérêts et aux pénalités.
+[8] Après une certaine confusion au cours de l’audience, l’appelant a précisé qu’il voulait interjeter appel uniquement de la cotisation établie par le ministre le 3 février 2012 pour la période de déclaration allant du 1er janvier au 31 décembre 2010.
+Questions en litige [9] Dans le cadre de la présente requête préliminaire en annulation, les questions en litige consistent à savoir si la Cour a été régulièrement saisie de l’appel et, plus précisément, si l’appelant a déposé un avis d’opposition valide pour la période de déclaration allant du 1er janvier au 31 décembre 2010.
+Cadre législatif [10] Aux termes du paragraphe 301(1.1) de la Loi sur la taxe d’accise, la personne qui veut faire opposition à la cotisation établie à son égard doit présenter un avis d’opposition dans les 90 jours suivant le jour où l’avis de cotisation lui est envoyé. En vertu des paragraphes 303(1) et (7), la personne peut demander au ministre de proroger le délai pour produire un avis d’opposition, mais elle doit le faire dans l’année suivant l’expiration du délai initial de 90 jours. Suivant le paragraphe 335(10), la date de mise à la poste de l’avis de cotisation est présumée être la date de l’avis.
+[11] Ni la Cour ni le ministre n’a le pouvoir de proroger le délai pour produire un avis d’opposition lorsque la personne ne présente pas sa demande dans le délai d’un an prévu par la Loi sur la taxe d’accise[10].
+Contexte factuel [12] Le 3 février 2012, le ministre du Revenu national a délivré à l’appelant un avis de cotisation pour la période de déclaration allant du 5 au 31 décembre 2010 de 55 844,93 $, ce qui comprend la TPS nette, une pénalité au titre de l’article 285 (faute lourde), des intérêts débiteurs et une pénalité pour défaut de production[11].
+[13] En interrogatoire principal, l’appelant a déclaré avoir reçu l’avis de cotisation du 3 février 2012. En revanche, en contre-interrogatoire, il a affirmé qu’il ne se rappelait pas précisément avoir reçu l’avis de cotisation du 3 février 2012, même s’il se souvenait d’avoir alors pensé qu’il ne croyait pas devoir le montant indiqué.
+[14] Il a témoigné que, lorsqu’il a reçu l’avis de cotisation, il a parlé à une personne au centre d’appels de l’ARC qui lui a conseillé d’envoyer une lettre pour contester la cotisation. Il a déclaré avoir écrit une lettre d’opposition à la cotisation le 28 février 2012 et l’avoir envoyée par courrier ordinaire à l’adresse du centre fiscal de Summerside figurant sur l’avis. Il a produit en preuve des photocopies de sa lettre d’opposition du 28 février 2012 et de l’enveloppe dans laquelle elle avait été mise à la poste[12]. En ce qui concerne la photocopie de l’enveloppe, il a expliqué qu’il l’avait faite sur son télécopieur résidentiel avant de se rendre au bureau de poste avec un ami le 3 mars 2012.
+[15] L’appelant a affirmé qu’il n’avait pas reçu d’accusé de réception de l’ARC, mais qu’il avait commencé à se concentrer sur d’autres choses. Il souffre de névralgie faciale depuis 2007 et il a déclaré qu’il avait été très malade de 2009 à 2017 environ[13].
+[16] Il a témoigné que la dette fiscale était revenue à l’avant-plan lorsque l’ARC avait commencé à prendre des mesures de recouvrement. En contre-interrogatoire, il a reconnu avoir écrit dans son avis d’appel qu’il avait pris connaissance de la dette fiscale impayée lorsqu’un agent de recouvrement de l’ARC avait communiqué avec lui en 2019[14]. Le 14 février 2019, la direction des recouvrements de l’ARC lui a envoyé une lettre confirmant qu’ils étaient parvenus à une entente de paiement[15].
+[17] Le 19 février 2019, le ministre a reçu un avis d’opposition (daté du 13 février 2019) de la part de l’appelant[16]. Dans cet avis, l’appelant traitait des mesures de recouvrement et indiquait que la cotisation serait nulle si le ministre avait communiqué avec lui en temps opportun. Il indiquait également qu’il aimerait que le ministre collabore avec lui pour déterminer le montant réel de sa dette fiscale. Il ne mentionnait aucunement la lettre d’opposition antérieure du 28 février 2012[17]. Le ministre a considéré que ce document du 13 février 2019 était la première demande d’allègement des intérêts et des pénalités[18].
+[18] Le 20 février 2019, le ministre a reçu un deuxième avis d’opposition de la part de l’appelant[19]. Cet avis visait à modifier l’avis d’opposition du 13 février 2019 en renvoyant à des dispositions d’allègement de la Loi de l’impôt sur le revenu et de la Loi sur la taxe d’accise. Il ne mentionnait aucunement la lettre d’opposition antérieure du 28 février 2012[20]. Le ministre a considéré que ce document du 20 février 2019 était une demande modifiée d’allègement des intérêts et des pénalités[21].
+[19] Le 28 mai 2019, l’appelant a envoyé une lettre au Programme d’allègement pour les contribuables de l’ARC. Il y affirmait notamment qu’il souhaitait clarifier sa demande d’allègement et demandait [traduction] « l’annulation de l’ensemble des cotisations, des intérêts et des pénalités de 2010 à aujourd’hui et le remboursement de toutes les sommes confisquées par la direction des recouvrements de l’ARC[22] ». Il ne mentionnait aucunement la lettre d’opposition antérieure du 28 février 2012[23].
+[20] Comme je l’indique sous la rubrique « Questions préliminaires » des présents motifs, le ministre a renoncé aux intérêts et aux pénalités le 26 septembre 2019[24] et a délivré un avis de nouvelle cotisation en conséquence le 4 octobre 2019[25]. Le 19 février 2020, le ministre a réalisé un examen au deuxième palier de la décision administrative de renoncer aux intérêts et aux pénalités[26].
+[21] Le 26 février 2020, l’avis d’appel a été déposé à la Cour.
+Analyse [22] Pendant les plaidoiries, j’ai invité l’avocat de l’intimé à me faire part de ses observations concernant mon impression initiale selon laquelle la lettre d’opposition du 28 février 2012[27] semblait authentique pour ce qui est du document lui-même. Je dois reconnaître qu’après avoir examiné l’ensemble de la preuve, je ne peux pas conclure que, selon la prépondérance des probabilités, le document a été mis à la poste comme l’a affirmé l’appelant et à la date qu’il a dit l’avoir fait.
+[23] Si l’appelant avait mis à la poste sa lettre d’opposition en février 2012 et l’avait oubliée jusqu’à ce que le ministre prenne des mesures de recouvrement vers 2018 ou 2019, il semble probable qu’il aurait immédiatement soulevé le fait qu’il avait une opposition en cours pour laquelle il n’avait jamais reçu de réponse. Dans ses communications écrites au ministre en 2019[28], l’appelant ne faisait pas non plus référence à la lettre d’opposition du 28 février 2012. Il semblait plutôt s’agir de ses premiers efforts pour contester la cotisation.
+[24] La date de mise à la poste de l’avis de cotisation du 3 février 2012 est présumée être la date figurant sur l’avis lui-même[29], et l’appelant a témoigné de vive voix qu’il l’avait reçu autour de cette date. La personne qui veut faire opposition à la cotisation établie à son égard doit présenter son avis d’opposition dans les 90 jours suivant le jour où l’avis de cotisation lui a été envoyé[30]. En l’espèce, le délai de 90 jours, à compter du 3 février 2012, expirait le 3 mai 2012.
+[25] La personne peut demander au ministre de proroger le délai pour produire un avis d’opposition, mais la demande doit être faite dans l’année suivant l’expiration du délai initial de 90 jours[31]. En l’espèce, le délai d’un an supplémentaire expirait le 3 mai 2013. On peut comprendre pourquoi le ministre a examiné les oppositions et la correspondance envoyées par l’appelant en 2019 sous l’angle de l’allègement administratif : il ne restait plus d’autres options à ce moment-là.
+[26] Malheureusement, ni la Cour ni le ministre n’a le pouvoir de proroger le délai pour produire un avis d’opposition lorsque la personne ne présente pas sa demande dans le délai d’un an prévu par la Loi sur la taxe d’accise[32]. Selon la chronologie des événements, l’appelant a pris ses diverses mesures après l’expiration des délais et, par conséquent, le ministre et la Cour ne peuvent plus exercer de pouvoir, discrétionnaire ou autre, en vertu de la loi. Les exigences sont strictes et ont été appliquées de façon uniforme par notre Cour et la Cour d’appel fédérale.
+[27] L’appelant pourrait envisager de présenter à la Cour fédérale une demande de contrôle judiciaire de la décision d’allègement prise au deuxième palier par le ministre le 9 février 2020 (pour laquelle une prorogation de délai serait nécessaire) et de demander au ministre un allègement administratif relativement aux retards supplémentaires causés par le présent litige.
+Conclusion [28] L’appel sera rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 29e jour de novembre 2024.
+« Susan Wong »
+La juge Wong
+Traduction certifiée conforme
+ce 23e jour de juillet 2025.
+Sophie Reid-Triantafyllos, jurilinguiste principale
+RÉFÉRENCE :
+2024 CCI 152
+Nº DU DOSSIER DE LA COUR :
+2020-665(GST)I
+INTITULÉ :
+Christopher P. Des Roches c. Sa Majesté le Roi
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 6 avril 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 29 novembre 2024
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Terence Katerynych
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S. O.
+Cabinet :
+S. O.
+Pour l’intimé :
+Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada
+[1] Directive sur la procédure no 25 datée du 30 janvier 2023; Avis au public et à la communauté juridique datés du 3 décembre 2020, 1er septembre 2021, 23 décembre 2021 et 29 juin 2022
+[2] Règl. de l’Ont. 431/20
+[3] L.R.O. 1990, chapitre C.17
+[4] Affidavit de Simon MacLeod, déposé le 29 mars 2023
+[5] Réponse, par. 3, 5 et 6
+[6] Réponse, par. 3, 8, 9 et 10
+[7] Avis d’appel, p. 3
+[8] Réponse, par. 3
+[9] Loi sur la taxe d’accise, art. 281.1
+[10] Loi sur la taxe d’accise, par. 303(7) et 304(5)
+[11] Affidavit de Simon MacLeod, déposé le 29 mars 2023 – pièce A; Pièce A-2
+[12] Pièce A-1
+[13] Avis d’appel, p. 4
+[14] Avis d’appel, p. 6
+[15] Affidavit de Simon MacLeod, déposé le 29 mars 2023 – pièce B
+[16] Affidavit de Simon MacLeod, déposé le 29 mars 2023 – pièce B
+[17] Pièce A-1
+[18] Affidavit de Simon MacLeod, déposé le 29 mars 2023 – par. 3(d)
+[19] Affidavit de Simon MacLeod, déposé le 29 mars 2023 – pièce C
+[20] Pièce A-1
+[21] Affidavit de Simon MacLeod, déposé le 29 mars 2023 – par. 3(e)
+[22] Pièce A-3
+[23] Pièce A-1
+[24] Réponse, par. 3(a)
+[25] Affidavit de Simon MacLeod, déposé le 29 mars 2023 – par. 3(f); Réponse, par. 3(b)
+[26] Affidavit de Simon MacLeod, déposé le 29 mars 2023 – par. 3(g); Réponse, par. 3(c)
+[27] Pièce A-1
+[28] Affidavit de Simon MacLeod, déposé le 29 mars 2023 – pièces B et C; Pièce A-3
+[29] Loi sur la taxe d’accise, par. 335(10)
+[30] Loi sur la taxe d’accise, par. 301(1.1)
+[31] Loi sur la taxe d’accise, par. 303(1) et (7)
+[32] Loi sur la taxe d’accise, par. 303(7) et 304(5)

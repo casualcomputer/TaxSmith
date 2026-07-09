@@ -1,0 +1,168 @@
+---
+title: "Witzke v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28954/index.do"
+last_modified: "2008-11-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 596"
+citation2: ""
+neutral_citation: "2008 TCC 596"
+decision_date: "2008-11-07"
+language: "en"
+item_id: "28954"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1394
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:39:55.123000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ac3dd198fa703c1d04a48b09ceb5e888084873d53bfa9c712ef885381d4d57a0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Witzke v. The Queen
+
+- Citation: 2008 TCC 596
+- Decision date: 2008-11-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1394, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Witzke v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-07
+Neutral citation
+2008 TCC 596
+File numbers
+2007-773(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2007-773(IT)I
+2008-1779(IT)I
+BETWEEN:
+EDWIN WITZKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence on October 23, 2008, at Edmonton, Alberta
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Deborah McGuire
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessment made under the Income Tax Act with respect to the Appellant’s 2002, 2003, 2004 and 2005 taxation years are dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 7th day of November, 2008.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2008TCC596
+Date: 20081107
+Dockets: 2007-773(IT)I
+2008-1779(IT)I
+BETWEEN:
+EDWIN WITZKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The issue in these appeals is whether the Appellant is entitled to deduct, in computing his income for the purposes of the Income Tax Act (the “Act”), the amounts that he paid to his spouse in 2002, 2003, 2004, and 2005 at a time when he and his spouse were living separate and apart. Alternatively, the Appellant submitted that he should be “allowed the married exemption” for his spouse.
+[2] The Appellant and his wife were married on August 2, 1963. On June 1, 2001, the Appellant's wife moved out and they have been living separate and apart ever since.
+[3] The Appellant consulted a lawyer with respect to his obligations to his spouse and he was informed that he should be making payments to her. The Appellant made monthly payments to her in 2002 and 2003. In 2004, he consulted another lawyer who again confirmed that he should be making payments to her so he continued to do so. Unfortunately neither lawyer indicated to the Appellant that these payments must be made pursuant to a written agreement or a court order if the Appellant was planning to claim a deduction under the Act in relation to these payments.
+[4] He consulted a third lawyer who worked on preparing a written agreement between the Appellant and his spouse related to various issues including the amounts that he was paying to her. This culminated in an agreement that was made between the Appellant and his spouse. The Appellant signed this agreement on December 5, 2005. However, the Appellant's spouse would not sign this agreement. In particular, the Appellant's wife objected to parts of Article 2 of the agreement which dealt with spousal support. Following the deletion of certain parts of Article 2, the Appellant's wife signed the agreement on January 16, 2006.
+[5] Paragraph 60(b) of the Act provides a deduction for certain payments paid as spousal support. Paragraph 56(1)(b) of the Act is the corresponding provision that would require the Appellant’s spouse to include the amounts in her income if the applicable conditions for the Appellant to claim a deduction are satisfied. Therefore if the support payments are deductible by the Appellant, the support payments would be income of the Appellant’s spouse. Paragraph 60(b) of the Act provides as follows:
+60. There may be deducted in computing a taxpayer's income for a taxation year such of the following amounts as are applicable:
+…
+(b) the total of all amounts each of which is an amount determined by the formula
+A – (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer's income for a preceding taxation year;
+(emphasis added)
+[6] Support amount is defined in subsection 56.1(4) of the Act as follows:
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+(emphasis added)
+[7] Therefore in order to be a support amount, and hence an amount that will be deductible by the payer (and income to the recipient) the amount must be paid (and hence receivable) under an order of a competent tribunal or under a written agreement. In this case, there was no order of a competent tribunal dealing with support amounts and the only written agreement is the one referred to above, that was not made until the Appellant's wife signed it in 2006. Therefore the payments made by the appellant in 2002, 2003, 2004 and 2005 (subject to the provisions of subsection 60.1(3) of the Act) could not be considered to be made under this agreement as this agreement did not exist until 2006.
+[8] Subsection 60.1(3) of the Act provides that in certain situations payments made prior to an agreement in writing being made could be considered to be made under that agreement. This subsection provides as follows:
+60.1(3) For the purposes of this section and section 60, where a written agreement or order of a competent tribunal made at any time in a taxation year provides that an amount paid before that time and in the year or the preceding taxation year is to be considered to have been paid and received thereunder,
+(a) the amount is deemed to have been paid thereunder; and
+(b) the agreement or order is deemed, except for the purpose of this subsection, to have been made on the day on which the first such amount was paid, except that, where the agreement or order is made after April 1997 and varies a child support amount payable to the recipient from the last such amount paid to the recipient before May 1997, each varied amount of child support paid under the agreement or order is deemed to have been payable under an agreement or order the commencement day of which is the day on which the first payment of the varied amount is required to be made.
+[9] As noted above, certain parts of Article 2 were stricken from the agreement before the Appellant’s spouse would sign the agreement. The following part was stricken from the agreement before the Appellant's wife would sign it:
+The parties acknowledge and agree that the Husband has paid to the Wife by agreement of the parties, and the Wife has received, as monthly spousal support, commencing January, 2004 the following amounts:
+(a) $1,733.90 per month from January 1, 2004 to December 31, 2004, for a total of $20,806.80 in 2004;
+(b) $1,399.30 per month from January 1, 2005 to December 31, 2005, for a total of $16,791.60 in 2005.
+[10] Both the Appellant and his spouse initialed the agreement to reflect their acknowledgement and agreement with the deletion of the above part of Article 2. Other changes were made to the next paragraph of Article 2. Prior to the changes made to this paragraph, it read as follows:
+The Husband shall continue to pay the sum of $1399.30 per month as monthly spousal support on the first day of each and every month, commencing the 31st day of January, 2006, provided that such spousal support shall end and forever cease commencing with the payment otherwise due the month after the Wife is in receipt of her share of the Husband's pension as hereinafter provided for.
+The words “continue to” were stricken from this paragraph and the amount of $1,399.30 was changed to “$1,408 plus the cost of living allowance increases”. As well, the words “first day” were stricken from the second line.
+[11] The parties did not delete the third paragraph of Article 2 which provided that:
+The parties agree that the payments of spousal support previously made and to be made in the future shall be taxable income in the hands of the Wife and tax deductible for the Husband.
+[12] This last paragraph of Article 2 might suggest that the parties intended to have the provisions of subsection 60.1(3) of the Act (and the corresponding subsection for the recipient, subsection 56.1(3) of the Act) apply. However the Appellant testified that it was his understanding when the agreement was signed that the effect of deleting the first part of this Article 2 was that he would not be entitled to claim any deduction for the amounts that he had paid prior to 2006. When he was referred to this last paragraph of Article 2 he stated that it was probably an oversight that this paragraph had not been deleted. The Appellant clearly understood that his spouse did not want to include any payments made to her before 2006 in her income and that he would not be entitled to claim a deduction for these amounts.
+[13] In Cheshire, Fifoot & Furmston’s Law of Contract, 14th edition, it is stated at page 267 that:
+Equity, in the exercise of its exclusive jurisdiction, has satisfactorily dealt with cases where, though the consent is undoubted and real, it has by mistake been inaccurately expressed in a later instrument. Suppose that A orally agrees to sell a house, exclusive of its adjoining yard, to B. Owing to a mistake the later formal and written instrument includes the yard as part of the property to be sold, and, what is worse, the subsequent conveyance actually conveys the yard to B. Can A have the written agreement and the deed rectified, or will he be successfully met by the plea that what has been written and signed must stand?
+It must be answered at once that in cases of this type, where it is proved that owing to a mistake the written contract does not substantially represent the real intention of the parties, the court has jurisdiction, not only to rectify the written agreement, but also to order specific performance of it as rectified.
+[14] In Anson’s Law of Contract, 28th edition at page 339 it is stated that:
+Where a contract has been reduced to writing, or a deed executed, and the writing or deed, owing to mutual mistake, fails to express the concurrent intentions of the parties at the time of its execution, the Court will rectify the document in accordance with their true intent.
+[15] The issue in this case is not whether the agreement should be rectified to delete the last paragraph of Article 2 (which, since this Court is not a court of equity (Sunil Lighting Products v. Minister of National Revenue, [1993] T.C.J. No. 666), could not be done in any event), but rather whether in applying the provisions of subsection 60.1(3) of the Act to the Appellant, should the agreement be read with or without the last paragraph of Article 2? Since the Appellant clearly stated that it was his understanding that as a result of the deletion of the first part of Article 2 he would not be entitled to deduct the payments made before 2006 in computing his income and, when he was directed to this last paragraph of Article 2, he stated that the failure to delete this paragraph was probably an oversight, in my opinion, given that the inclusion of this paragraph would have been for the benefit of the Appellant and the detriment of the Appellant’s wife and that the Appellant is acknowledging that this paragraph should not be in the agreement, it would not be appropriate for me to deal with this last paragraph of Article 2 as part of the agreement.
+[16] It seems clear that when the agreement was originally drafted and signed by the Appellant, the provisions of Article 2 were intended to allow the Appellant to claim a deduction for the amounts paid in 2004 and 2005 (assuming that the Appellant's wife would have signed in December 2005). Since this part was stricken from the agreement before the Appellant’s spouse would sign the agreement, this part cannot be considered to be part of the agreement that was made in 2006 and the payments made in 2005 (which would be the preceding year) are not deductible.
+[17] The Appellant, in the alternative, asked for a tax credit because he was still married to his wife and because he was supporting her. The credit for a person who is supporting his or her spouse is provided by paragraph 118(1)(a) of the Act which provides in part as follows:
+118. (1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted an amount determined by the formula
+A × B
+where
+A is the appropriate percentage for the year, and
+B is the total of,
+(a) in the case of an individual who at any time in the year is a married person or a person who is in a common-law partnership who supports the individual's spouse or common-law partner and is not living separate and apart from the spouse or common-law partner by reason of a breakdown of their marriage or common-law partnership, an amount equal to…
+(emphasis added)
+[18] Since the Appellant was living separate and apart from his spouse throughout 2002, 2003, 2004 and 2005, he is not entitled to claim a credit under paragraph 118(1)(a) of the Act.
+[19] As a result, the appeals are dismissed without costs.
+Signed at Halifax, Nova Scotia, this 7th day of November, 2008.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2008TCC596
+COURT FILE NO.: 2007-773(IT)I and 2008-1779(IT)I
+STYLE OF CAUSE: EDWIN WITZKE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: October 23, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: November 7, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Deborah McGuire
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

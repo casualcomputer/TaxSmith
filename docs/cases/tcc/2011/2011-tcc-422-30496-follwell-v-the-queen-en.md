@@ -1,0 +1,186 @@
+---
+title: "Follwell v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30496/index.do"
+last_modified: "2011-08-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 422"
+citation2: ""
+neutral_citation: "2011 TCC 422"
+decision_date: "2011-08-26"
+language: "en"
+item_id: "30496"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7236
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:22:01.201000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5fdc72d251f74b8061dce9f56409a916ccdc83e3cb8919ca71799dcb5b695d26"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Follwell v. The Queen
+
+- Citation: 2011 TCC 422
+- Decision date: 2011-08-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7236, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Follwell v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-08-26
+Neutral citation
+2011 TCC 422
+File numbers
+2010-503(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-503(IT)I
+BETWEEN:
+LUKE E. FOLLWELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 24, 2011 and
+Reasons for Judgment delivered from the Bench
+on August 26, 2011 at Kingston, Ontario
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Rodney E. Follwell
+Counsel for the Respondent:
+Ryan Gellings
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2007 taxation year is dismissed, without costs, in accordance with and for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 13th day of September 2011.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2011 TCC 422
+Date: 20110913
+Docket: 2010-503(IT)I
+BETWEEN:
+LUKE E. FOLLWELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Edited from Reasons Delivered from the Bench on August 26, 2011
+at Kingston, Ontario)
+Hershfield J.
+[1] The Appellant appeals a reassessment of his tax liability under the Income Tax Act (the “Act”) for the 2007 taxation year.
+[2] The Appellant claimed that certain amounts received by him in that year as an assistant rugby coach for Queen’s University in Kingston were income earned as an independent contractor. He claimed business expenses in respect of those earnings in an amount equal to the amount received by him for his coaching services.
+[3] The Respondent maintains that the Appellant is an employee and he has been assessed as having received employment income in the amount of $3,119.00 paid to him by Queen’s in the subject year in consideration of the performance of his coaching duties.
+[4] The issue then is simply whether the Appellant was engaged by Queen’s in the subject year in a contract of service as opposed to a contract for services.
+[5] The Appellant testified at the hearing on his own behalf and the Respondent called one witness namely Ms. Dal Cin, Director of Queen’s Athletics and Recreation division. Both witnesses were candid and their evidence was honestly given.
+[6] The Appellant graduated from Queen’s in 2004 with a Bachelor Degree in Civil Engineering and has worked for the City of Kingston in various capacities since that time. All positions held by him with the city were and are as a full-time employee.
+[7] The Appellant was an avid participant in rugby throughout his university days at Queen’s and prior to that as well. His sense of pride in and loyalty to the university and to its rugby programs is demonstrated by his remarkable commitment to it. I note, as well, that his pride and loyalty are very much a family tradition. His father and siblings attended Queen’s and his brothers played rugby for the school as well. This is a case of love and devotion to a sport and of a strong loyalty to an alma mater.
+[8] As to coaching at Queen’s, he was brought on board in 2004 by the head coach who had been a fellow rugby player and colleague at Queen’s. There was no real interview with Queen’s management regarding his retention rather, as indicated by Ms. Dal Cin, the retention by Queen’s would have occurred as a result of the head coach making a recommendation to the university’s manager of inter-university sports. While Ms. Dal Cin did not have personal knowledge of the Appellant’s retention in 2004, having only joined the university in 2006, she was able to speak knowledgably of the process in respect of 2007. The process would be for the head coach to meet with the manager of inter-university sports and discuss the retention of the assistant coach for the coming year. This was an annual undertaking and the Appellant has been engaged each year since 2004, to the present, as the assistant coach of Queen’s rugby teams.
+[9] Exhibits tendered at the hearing were annual written contracts between the Appellant and the university from 2007 to present. The 2007 contract was for a term commencing August 15, 2007 to April 15, 2008. It has appended a list of specific responsibilities which include the following:
+· The assistant coach is a member of the inter-university sport program unit at Queen’s Athletics and Recreation. The assistant coach reports directly to the head coach and works in cooperation with the manager and other athletes and recreation staff.
+· He is required to attend all team-related events and functions.
+· At the request of a head coach, to assist as necessary in the administration of season planning; identification, recruitment and selection of athletes to the team; planning, preparation and direction of training and practice activities; evaluating and monitoring the progress of the athletes throughout the year; preparing and management and evaluation of games played by the team; and assuming responsibilities of the head coach in their absence.
+· Assist in the development of a positive image and winning culture for the team and maintain professional conduct in appearance on and off the field.
+· Act as an ambassador for the team and demand appropriate behaviour and appearance for members of the team under the direction of the head coach or yourself.
+· Communicate in a timely manner with the Athletics and Recreation office in all matters relating to involvement as a member of the team.
+· Be available for coaching meetings as necessary and as reasonably requested.
+· Participate in program review and evaluations as requested by Athletics and Recreation.
+· Assist Athletics and Recreation in the promotion of sponsor obligations where necessary by acknowledging sponsor support when speaking with media, and wearing appropriate sponsor apparel while representing Queen’s Athletics and Recreation.
+[10] The contract also itemizes several codes of conduct and behavioural guidelines. More specifically they are (i) inter-university coaching duties (ii) guidelines on conduct for the Athletics and Recreation division (iii) student athlete conduct – welcoming guidelines and (iv) student athlete conduct guidelines.
+[11] These codes of conduct and behavioural guidelines are not appended to that contract, however, subsequent contracts do have appended the coaching code of ethics and the policy terms and conditions imposed by the university on its employees. The latter document states that the Appellant has accepted an offer of employment. Both such documents were signed by the Appellant. I also note here that Ms. Dal Cin testified that a major reorganization occurred in the unification of departments at Queen’s that resulted in revisions in the form of the contracts after 2007. However, the Appellant testified that his working relationship did not change. That is, the nature and character of his work and the way it was carried out was the same in 2008 and subsequent years as it was in 2007 notwithstanding changes in the form of the written contract. It is noteworthy that even though subsequent contracts are expressed in terms of being a contract of employment, the Appellant, being a part-time or casual employee, is not identified with an employment number on the contracts and is not treated the same as full-time employees. Full-time employees would have employee numbers and university benefits would accrue to them. Casual employees such as the Appellant receive no such benefits. More specifically, there are no health benefits, pension benefits, vacation benefits and the like for casual employees such as the Appellant.
+[12] I will turn now to the Appellant’s testimony of his services. His testimony was that his pre-season coaching required five to six hours a day of practice and training sessions with the players. The pre-season practices typically lasted five weeks - from the end of August to the second week in November. During the regular season training time would be more limited as it would be during playoffs but even then it could be in the order of two or three hours of training and practice several times a week. There are also off-season practices and training for the next year although it is not clear whether these were part of his contractual obligations.
+[13] The Appellant testified that Queen’s University not only had its varsity team which was its inter-university competitive team but it also had what he referred to as a rugby club with an additional two or three teams, one of which also competed with other schools or clubs. My understanding is that the Appellant worked with all of these teams. There would be a large roster in each group perhaps as many as 20 to 25 athletes, and the coach and the Appellant could and would juggle players in the formation of the varsity team from week to week as circumstances required. This required coordination in which the assistant coach was largely involved, keeping, in effect, a depth chart of personnel for each position.
+[14] In terms of games attended, there would be seven or eight games in a regular season. There would typically be two exhibition games and hopefully two playoff games. On average then, the total number of games that the assistant coach would be required to attend could be between 32 and 35 and in 2007 he attended 100% of the games played by the varsity and club teams.
+[15] In addition to attending practices, training sessions, games and working with the teams and individual athletes, the Appellant assisted with the setting up of schedules and this involved a couple of hours per week throughout August and September. He met with the coaches or heads of other university teams to establish such schedules. He assisted in finding referees and fields for practices and exhibition games if necessary. Recruiting players required additional time commitments.
+[16] He also worked with the head coach in the engagement of other assistant coaches. These were volunteer coaches although as indicated by Ms. Dal Cin, they all had to be approved by the university and sign similar contracts as that signed by the Appellant even though there was no remuneration involved for these assistants.
+[17] As reflected by the terms of his written contract, the Appellant’s responsibilities and duties also required his attending to the athletes as individuals in terms of their personal grooming and general good citizenship.
+[18] While the Appellant denied any supervision or relevant contact with any of Queen’s management, there was no denial that he was, as provided in the written agreement, necessarily under some direction and supervision by the head coach although he worked together with him as a colleague. For example, the head coach was responsible for determining when and if and which meetings the assistant coach would attend. Nonetheless, I do not mean to suggest that the Appellant was not capable of performing his coaching duties without supervision. In all probability he was given, as he said, pretty much a free hand in respect of those duties. However, that he and the head coach were colleagues and friends harmoniously working together for years in a collaborative effort does not prevent my concluding, as I have, that the Appellant was subject to the direction and supervision of the head coach whether or not same were actually imposed on him in a way that would make him feel like a subordinate. It is the inherent authority to exercise such direction that has been imposed on him under the terms of his engagement with the university that evidence a material degree of control over what his specific duties might be from time to time.
+[19] Returning to the 2007 contract, I note that in addition to showing a salary of $3,119 it shows expenses paid in the amount of $631. The expenses were a negotiated item to cover the costs of the Appellant for meals and gas costs incurred in attending to his duties with the university, excluding travel costs associated with travelling with the team for a regular scheduled game. These were paid directly by the university and were not an expense for which the Appellant was responsible.
+[20] The contract for the next year, from August 15, 2008 to April 17, 2009, shows a salary of $2,813 and expenses of $582. The expenses are shown as payable in September and salary amounts are shown as payments for October and November. The total payment is described as an honorarium. Indeed, throughout Ms. Dal Cin’s testimony she referred to these payments as honorariums recognizing that they are in no way related to the amount of time and value associated with the duties performed by the Appellant. These were in essence token compensation for valuable services performed. The next contract, from August 15, 2009 to April 16, 2010, showed salary payments of $255 for September and a total of $3,120 for expenses for October and November. Again, the total was referred to as an honorarium. In the next contract, from August 15, 2010 to April 15, 2011, the salary amount payable in November was $996 and expenses payable in September and October were $3,504. Once again these are all described as part of an honorarium.
+[21] As a last comment on the time spent by the Appellant in performing his duties and on the remuneration received, I want to make it clear that I am not suggesting that I have made a determination of the amount of time that he devotes to his duties as an assistant coach of the Queen’s University’s rugby teams. I have not even considered the amount of time he spends travelling with the team on away games. I have not talked about the time he spends on evaluations or on monitoring an athlete’s performance or on considering eligibility of athletes from an academic and a health point of view or on so many other matters that concern the rugby program at Queen’s. The Appellant is no doubt totally committed and totally involved in the program for compensation that really is nothing more than an honorarium as described both by Ms. Dal Cin in her testimony and in the contracts that followed the 2007 contract. Indeed, as noted in describing the amounts paid each year after 2007, one can see that in terms of remuneration for services the honorarium declined considerably and recognition of expenses increased dramatically. I cannot help but feel that this reflects the nature of the remuneration arrangement between the Appellant and the university in a more realistic way.
+[22] In any event, I should also note that the Appellant maintained that he has home office expenses in addition to personal travel expenses. In 2007 he personally paid his travel expenses to a New Hampshire competition. As to home office expenses, he said he had costs relating to his home computer and computer supplies and the like. His testimony was that there were no office facilities available for him at the university in 2007. On the other hand, Ms. Dal Cin testified that, indeed, all assistant coaches for all athletic divisions that year had access to and shared a single administrative office facility. Even though it was not until later years that each sport had their own office facilities made available to them, her evidence, in respect of 2007, does contradict the testimony of the Appellant on this point.
+[23] There is no doubt, on the evidence, that the Appellant supplied virtually nothing in the way of tools. The fields were provided by the university and if outside fields were being used, they would be paid for by the university provided there was prior approval by the manager of inter-university sports.
+[24] As part of the promotion of the university, and of the team and coaches as a part of the university, coaches were asked to wear certain attire with Queen’s logos and on occasion were asked to wear attire with logos of sponsors. Based on the evidence of both witnesses, I find it hard to suggest that this was an absolute mandate but, on the other hand, I acknowledge the Appellant’s testimony that, as circumstances permitted, he would honour the obligation to promote the school, the team and the sponsors in the best way that he could including the wearing of Queen’s University and sponsor apparel as provided.
+[25] The Appellant mentioned two other rugby related activities. On one occasion for two weeks in the summer of 2008 he was a video analyst for Rugby Canada’s national men’s team. He received no compensation for this work. He was paid expenses only. In 2009, in an unpaid capacity, he worked with Rugby Ontario which included a five day trip to St. John, Newfoundland in respect of which he was only paid for his expenses.
+[26] When asked whether the Appellant was free to do other coaching, he indicated that he could and that, in fact, he had had other opportunities to coach with another team, namely the Belleville Bulldogs, but he had no time to undertake such work. He commented that this would not be in conflict with his work at Queen’s notwithstanding a number of non-competition type covenants that were contained in the contractual material to which he was a party.
+[27] Ms. Dal Cin acknowledged that the head coach of the rugby team was also a casual worker. She acknowledged that the coaching budget would have included a budget for the head coach and the assistant coach but she was not aware, as testified by the Appellant, that that budget had been essentially divided equally between the two on the recommendation of the head coach. At this point, I also note that the head coach would have entered into contracts virtually the same as the contracts entered into by the Appellant, both being so-called casual employees as opposed to full-time employees.
+[28] When asked about the control that the university exercised over the Appellant, Ms. Dal Cin acknowledged that considerable latitude would be given to the head coach to assign particular duties to the Appellant and that consultations between coaches and management would be between the head coach and the manager of inter-university sports and less so, if at all, with the Appellant. She acknowledged that the annual retention of the Appellant year after year would primarily be based on the head coach’s recommendations barring problems known to the university in respect of matters such as dealings with athletes or how the Appellant’s conduct in general might reflect on the university. Ms. Dal Cin also acknowledged that there were volunteer assistant coaches that would be identified by the head coach and assistant coach. If accepted by the manager of inter-university sports, such volunteer assistant coaches would, as noted earlier in these Reasons, be required to sign agreements which were the same or similar as those signed by the Appellant and, in this case, by the head coach.
+Argument
+[29] The Appellant’s counsel argued that I should not put much if any relevance on the written contracts. The post 2007 contracts which spoke in terms of employment were suggested not to be relevant to the 2007 year. As well, he noted that most or all of the duties and responsibilities set out in those contracts were responsibilities that would be imposed on an independent contractor to the same extent as they would be imposed on an employee. Accordingly, they were determinative of nothing. During his cross-examination of Ms. Dal Cin he suggested that the university would sign an independent contractor contract if a casual worker were incorporated. While he took her to agree, her response was that human resources policies would have to be followed. I note, in any event, that such a hypothetical is not relevant and that the Act deals with incorporated employees in a manner that might make it impractical for a worker such as the Appellant to consider incorporating his services.
+[30] As to control, he argued that there was virtually no control over the Appellant’s services by Queen’s University. If there was any control or supervision it would be by the head coach who was not the purported employer in this case. Citing an academic commentary and portions of the Supreme Court of Canada decision in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.,[1] he noted the importance of control and emphasized that control included control over how work was done. He argued that there was virtually no control or supervision even by the head coach of how the Appellant carried out his coaching duties. He was responsible for working out training programs, practices for the teams and the like without direction or supervision by the university and little, if any, by the head coach with whom he worked collaboratively without supervision.
+[31] A recent decision of Justice Sheridan was also referred to by the Appellant’s counsel, namely, Kowalchuk v. Canada,[2] where she too emphasized the significance of control in the determination of a status of a worker. She referred to factors relied on in the decision in Wolf v. Canada[3] that included lack of job security, disregard of employee-type benefits and freedom of choice and mobility. On the role of the intentions of the parties, Justice Sheridan emphasized the need for a common intention. Relying on all such aspects of Justice Sheridan’s decision, Appellant’s counsel encouraged me to come to a similar conclusion, in the case at bar, as Justice Sheridan came to in that case. That is, there being no common intention here that has been demonstrated and no benefits, no job security and no effective control, the cases warranted similar treatment – namely as found by Justice Sheridan in Kowalchuk, the worker must be found to be an independent contractor.
+[32] Appellant’s counsel also dealt with the other factors required to be considered in determining the status of a worker.
+[33] With respect to risk of loss and chance of profit he argued that the risk was obvious in the sense that the endeavour was a losing proposition. Losing money it was argued, in effect, demonstrated risk of loss. Little of relevance was said in relation to chance of profit.
+[34] As to tools, an argument was made that the ability to select alternate fields somehow constituted a supply of tools by the Appellant.
+[35] As well, he argued that there was no mutuality of intention between the parties.
+[36] Respondent’s counsel emphasized that the terms of the contract would indicate that this was an employment engagement and more particularly he argued that no tools were provided by the Appellant and that he had no chance of profit and no risk of loss. He relied heavily on the principles in Sagaz Industries that the central question is always whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination the level of control the employer has over the worker’s activities will always be a factor. However, other factors to consider include whether the worker provides his own equipment, whether the worker hires his own helpers, whether there is a degree of financial risk and the worker’s opportunity for profit. It is argued that none of these factors point to the Appellant having a business being conducted for his own account.
+[37] The central question was phrased again in Sagaz Industries as a query namely: “Whose business is it?” The Respondent’s counsel argues that there is no evidence that the Appellant has a business.
+Analysis
+[38] I see no basis upon which the Appellant can succeed in this case. Addressing the central question phrased as: “Whose business is it?” begs the question as to whether or not the Appellant has a business at all. To have a business means to have a source of income from a business activity. This requirement is most clearly set out in the Supreme Court decision in Stewart v. Canada.[4] That case focuses not on the distinction between independent contractor and employee but rather looks at the distinction between expenses incurred to earn income from a business and expenses of a personal nature. Notwithstanding the different focus, I believe it is impossible to suggest that a worker is an independent contractor carrying on business for his own account where the activity being undertaken is not a source of income from a business carried on by him. Further, the activity here is not capable of being a source of income at all in the sense of ever producing a profit which, in the context of the central test in Sagaz Industries, is the focus of one of the factors to consider, namely: is there a chance of profit from a business carried on by the worker? In this case, I regard this factor as having considerable weight.
+[39] The Appellant testified that he was not engaged in his own words “in a money making venture”. The honorarium he received was primarily targeted as a form of expense reimbursement as evidenced by subsequent contracts. Honorariums, which I am satisfied the subject payments were, are not a source of income in respect of which the Appellant has established a business to earn. He earns the honorariums for services performed out of devotion and loyalty to a sport and an institution. These are receipts earned through the pursuit of personal endeavours offered as services for compensation in the form of an agreed and fixed honorarium.
+[40] That the receipts can be said to result from the pursuit of personal endeavours speaks of the motivation behind the pursuit. That does not suggest that they are not taxable receipts. Although the Act does not deal specifically with honorariums, in a case such as this, where the payment is for services rendered, it cannot be considered a gift and the personal motivation to accept a low remuneration in the form of an honorarium cannot change its nature from income to non-income. There is little law on the taxation of honorariums but the leading case on that question is still the decision in Mr. C. v. Minister of National Revenue.[5] That case distinguishes taxable honorariums from non-taxable gifts. Given the state of the law and that the Appellant’s receipts were for services rendered without any assertion that they were gifts made to him, the question is, as posed by the parties: is the income earned from a business operated by the Appellant, or, is it from engaging in a contract of service? As indicated at the outset of this analysis, I can come to no other conclusion than that the Appellant earned his honorarium by performing duties under a contract of service. And I add here, as well, that I cannot, and have not been asked, to re-allocate the amount specified under the contract as being paid as salaries to the worker versus the amount paid for expenses. These were fixed by the parties at the time as properly reflecting the arrangement between them. I have no evidence or pleas to suggest a different allocation.
+[41] Notwithstanding the weight given to my determination that the Appellant did not carry on a business, I will make further comment, largely by way of summary, on the other factors to be considered.
+[42] Turning back to the question of control, there was more than sufficient control over the work of the Appellant exercised by the head coach as delegated to him by the university. In this context, I see the head coach as nothing other than the agent of the university in terms of supervising the Appellant and exercising the control the university imposed on the Appellant under its contract with the Appellant. Further, I note as I did above, the fact that control is not exercised is not the test. The test is whether or not there is control under the contractual arrangement that can be exercised.[6] That an employer chooses not to exercise control by virtue of trust and confidence in an employee, or in a third party to whom control has been delegated, does not mean that the control factor favours a finding that the contract is one for services. Further still, the Appellant’s reliance on control meaning control over how work is done, which he argues is absent in this case, is not the modern approach to applying the control test where the person engaged is a specialist. It is recognized that employers can rely on the skills of employees to the point of acknowledging that there can be no control over the way in which work is performed.[7] In such circumstances dictating the desired result may be sufficient where other factors point to an independent contractor relationship.
+[43] As to tools, in my view, the Appellant provides none of significance but, in any event, I would not put much weight on this factor in this case. Many professionals, even independent contractor professionals, provide few if any tools other than their know-how.
+[44] As to the intention of the parties, I agree with the Appellant, I have no compelling evidence here of any mutuality of intention in 2007.
+[45] In summary then the Appellant has no chance of profit, no meaningful risk of loss and was subject to sufficient control to constitute him an employee. Further, and importantly, in the absence of having a business of his own I would suggest that while the integration test is largely out of favour these days,[8] where it is clear as in a case like this that the person performing the services has no business of their own, then it is important to acknowledge that the worker, the Appellant, is an integral part of the team that is his employer, namely Queen’s University in this case.
+[46] Relying on that perspective of the independent contractor analysis, I again have no doubt that the Appellant cannot be found to be anything but an employee of Queen’s University. Reiterating the same view in yet a different way, I should also note that employment income under section 5 of the Act includes income from an office or employment. I believe it can be said in this case that the Appellant holds an “office” in the sense of being held out by the university as holding the office of “assistant coach” of its rugby teams. He is presented, with his knowledge and consent, as holding a position or office with the university. He is being remunerated for holding and carrying out duties of that office. He has no other capacity in which to hold himself out as earning the contracted for income, honorarium or otherwise. On this basis one can conclude that the case at bar is on all fours with the decision in Mr. C. v M.N.R. which dealt with the taxable nature of an honorarium paid to a person holding an office.
+[47] In any event, for all these reasons, the appeal must be dismissed, without costs.
+Signed at Ottawa, Canada this 13th day of September 2011.
+"J.E. Hershfield"
+Hershfield J.
+CITATION: 2011 TCC 422
+COURT FILE NO.: 2010-503(IT)I
+STYLE OF CAUSE: LUKE E. FOLLWELL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Kingston, Ontario
+DATE OF HEARING: August 24, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT: September 13, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Rodney E. Follwell
+Counsel for the Respondent:
+Ryan Gellings
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Rodney E. Follwell
+Firm: Follwell & Follwell
+24 Catharine Street
+Belleville, Ontario, K8N 4Z9
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+[1] [2001] 2 S.C.R. 983 [Sagaz Industries].
+[2] 2011 TCC 265 [Kowalchuk].
+[3] 2002 FCA 96 [Wolf].
+[4] 2002 SCC 46.
+[5] Mr. C. v. Minister of National Revenue, 50 DTC 206 [Mr. C. v. M.N.R.], where the Tax Appeal Board concluded that an honorarium given to a provincially appointed commissioner, while a voluntary payment, was received by virtue of his holding an office and therefore taxable.
+[6] For example, see Wolf at para. 74.
+[7] See Sagaz Industries at para. 38 and Wolf at paras. 75-76 where the importance of control of how work is done diminishes as the skill of the worker increases.
+[8] See Sagaz Industries at para. 42 where Justice Major points out the problems of such a test which encourage a “whose business is it test”.

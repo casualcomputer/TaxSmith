@@ -1,0 +1,249 @@
+Title: Browning v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30004/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-487-30004-browning-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-10-15
+
+# Browning v. The Queen
+
+- Citation: 2010 TCC 487
+- Decision date: 2010-10-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7681, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Browning v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-15
+Neutral citation
+2010 TCC 487
+File numbers
+2007-3711(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3711(IT)G
+BETWEEN:
+DEBRA BROWNING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of
+Debra Browning (2008-1924(IT)G)
+on January 13, 2010, at Vancouver, British Columbia
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Counsel for the Appellant:
+David A. G. Birnie
+Counsel for the Respondent:
+Susan Wong
+____________________________________________________________________
+AMENDED JUDGMENT
+In accordance with the attached Amended Reasons for Judgment, the appeal is allowed, with costs, and the assessment of the Minister of National Revenue is vacated.
+This Amended Judgment and Amended Reasons for Judgment is issued in substitution for the Judgment and Reasons for Judgment dated September 30, 2010.
+Signed at Ottawa, Canada, this 15th day of October, 2010.
+“G. A. Sheridan”
+Sheridan J.
+Docket: 2008-1924(IT)G
+BETWEEN:
+DEBRA BROWNING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of
+Debra Browning (2007-3711(IT)G)
+on January 13, 2010, at Vancouver, British Columbia
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Counsel for the Appellant:
+David A. G. Birnie
+Counsel for the Respondent:
+Susan Wong
+____________________________________________________________________
+AMENDED JUDGMENT
+In accordance with the attached Amended Reasons for Judgment, the appeal is allowed, with costs, and the assessment of the Minister of National Revenue is vacated.
+This Amended Judgment and Amended Reasons for Judgment is issued in substitution for the Judgment and Reasons for Judgment dated September 30, 2010.
+Signed at Ottawa, Canada, this 15th day of October, 2010.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2010TCC487
+Date: 20101015
+Dockets: 2007-3711(IT)G
+2008-1924(IT)G
+BETWEEN:
+DEBRA BROWNING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Sheridan, J.
+[1] Upon the request of the Appellant and the Respondent’s consent, appeals 2007‑3711(IT)G and 2008-1924(IT)G, were heard together on common evidence.
+[2] The Appellant, Debra Browning, is appealing assessments of the Minister of National Revenue made under subsection 227(10) of the Income Tax Act. The basis for the assessments is that Ms. Browning failed to comply with certain requirements to pay issued under subsection 224(4) in respect of her liability to Berkeley Point Developments Inc. (“Berkeley”), a “tax debtor” within the meaning of subsection 224(1) of the Act. The Minister takes the further position that the limitation period in section 222 of the Act applies to permit the Minister to take action against Ms. Browning under sections 224 and 227 to collect Berkeley’s tax debt until, at the very least, 2014.
+Facts
+[3] Berkeley is a corporation in which Ms. Browning’s spouse, Richard Browning, was the majority shareholder. Ms. Browning does not dispute that as of August 26, 1988 she became indebted to Berkeley under a mortgage agreement[1] for some $553,000, funds advanced to her between 1988 and 1990 to purchase their principal residence. Nor does she challenge the Minister’s assumed fact that as of January 14, 1997 Berkeley’s tax debt was $474,272[2]. Ms. Browning says, however, that as of the dates of the requirements to pay underpinning the assessments appealed from, she was no longer “liable to make a payment” to Berkeley as contemplated by subsection 224(1) and accordingly, the Minister’s subsection 227(10) assessment is invalid.
+[4] By way of background, the Minister’s efforts to collect on Berkeley’s tax debt by assessing Ms. Browning for its payment date back several years. Long before the assessments giving rise to the present appeals, the Minister issued to her seven requirements to pay for the period November 3, 1993 to March 7, 1996 (“Former Requirements to Pay”). She made no payments in respect of the Former Requirements to Pay on the basis that she had repaid the mortgage debt by transferring shares valued at $500,000 to Berkeley on January 1, 1994. The Minister took a different view, treating her non-payment as a failure to comply with the Former Requirements to Pay under subsection 222(4) and assessing her under subsection 227(10) for a total of $254,438.96.
+[5] Ms. Browning appealed that assessment. In a decision dated September 3, 2004[3] (“McArthur Judgment”), McArthur, J. found, inter alia, that:
+a) at no time did Berkeley or Ms. Browning challenge the underlying assessment, that is to say, Berkeley’s “underlying debt”[4] to the Crown; and
+b) at the time of the Former Requirements to Pay, Berkeley was indebted to the Crown in the amount of $482,607.59 and Ms. Browning was indebted to Berkeley for a principal amount under the mortgage of approximately $303,000.
+[6] Meanwhile, after the Former Requirements to Pay had been issued but prior to the McArthur Judgment, on February 20, 2002 the Appellant was further assessed for $54,944.64 for her failure to comply with a new requirement to pay dated October 11, 2000 (“October 2000 Requirement to Pay”).
+[7] On April 15, 2005, the Minister reassessed in accordance with the McArthur Judgment, one consequence of which was to reduce the amount due under the October 2000 Requirement to Pay to $29,969.64. Ms. Browning’s objection to the reassessment was confirmed on August 9, 2007 and she subsequently appealed to this Court, docket number 2007-3711(IT)G.
+[8] On June 15, 2005, the Minister again assessed Ms. Browning a further amount of $29,969.64 in respect of her failure to comply with a requirement to pay dated February 27, 1997[5].
+[9] On January 31, 2008, Ms. Browning was yet again assessed, this time for her failure to comply with requirements to pay dated September 17, 2001, October 22, 2002, January 22, 2004, January 20, 2005 and July 16, 2007 (“2001‑2007 Requirements to Pay”) for a total of $187,310.25[6]. That assessment is the subject of appeal, docket number 2008‑1924(IT)G.
+[10] The October 2000 Requirement to Pay and the 2001-2007 Requirements to Pay are referred to collectively herein as the “Current Requirements to Pay”.
+[11] By cheques dated August 26, 2005 and July 15, 2008, Ms. Browning made two payments of $108,246.56[7] and $29,969.64[8], respectively to the Receiver General for Canada[9]. In respect of the $108,246.56 payment, the Respondent admits[10] that her “… liability in respect of the said Requirements to Pay [described herein as the Former Requirements to Pay] was $108,246.56 and the Appellant paid that amount in full on August 26, 2005”[11]. As for the $29,969.64 payment, Mr. Browning’s uncontradicted evidence was that that amount, like the $108,246.56 payment, had been paid pursuant to the order of the Tax Court of Canada[12] following the McArthur Judgment.
+Appellant’s Position
+[12] Ms. Browning’s position is that the assessments in respect of the Current Requirements to Pay are not valid because the statutory criteria in subsection 224(1) and (4), upon which the Minister’s power to assess under subsection 227(10) is conditional, have not been satisfied. Working backwards from the assessment power in subsection 227(10), the relevant portions of these provisions read as follows:
+227(10) Assessment. The Minister may at any time assess any amount payable under
+(a) … 224(4)
+…
+and, where the Minister sends a notice of assessment to that person or partnership, Divisions I and J of Part I apply with any modifications that the circumstances require.
+224(4) Failure to comply with s. (1) …. Every person who fails to comply with a requirement under subsection (1)… is liable to pay to Her Majesty an amount equal to the amount that the person was required under subsection (1) … to pay to the Receiver General.
+224(1) Garnishment. Where the Minister has knowledge or suspects that a person is, or will be within one year, liable to make a payment to another person who is liable to make a payment under this Act (in this subsection and subsections (1.1) and (3) referred to as the “tax debtor”), the Minister may in writing require the person to pay forthwith, where the moneys are immediately payable, and in any other case as and when the moneys become payable, the moneys otherwise payable to the tax debtor in whole or in part to the Receiver General on account of the tax debtor’s liability under this Act. [Emphasis added.]
+…
+[13] Ms. Browning says that, whatever the amount of her indebtedness to Berkeley as of January 1, 1994, as of the effective period of the Current Requirements to Pay (issued between October 11, 2000 and July 16, 2007), she was no longer “liable to make a payment” to Berkeley. Counsel for the Appellant’s first contention is that even if the value of the shares was less than Ms. Browning’s total liability to Berkeley, they were accepted in full and final satisfaction of that debt. In my view, there is insufficient evidence to support such a claim and no more need be said about this ground of appeal.
+[14] Ms. Browning’s primary argument is that even if she remained liable to Berkeley for an amount under the mortgage, by the time the Current Requirements to Pay were issued, Berkeley’s right to enforce payment of the mortgage debt was statute-barred by subsections 3(5), 5(1) and 5(2)(a) of the British Columbia Limitation Act:
+Limitation periods
+…
+3(5) Any other action not specifically provided for in this Act or any other Act may not be brought after the expiration of 6 years after the date on which the right to do so arose.
+…
+Effect of confirming a cause of action
+5(1) If, after time has begun to run with respect to a limitation period set by this Act, but before the expiration of the limitation period, a person against whom an action lies confirms the cause of action, the time during which the limitation period runs before the date of the confirmation does not count in the reckoning of the limitation period for the action by a person having the benefit of the confirmation against a person bound by the confirmation.
+(2) For the purposes of this section,
+(a) a person confirms a cause of action only if the person
+(i) acknowledges a cause of action, right or title of another, or
+(ii) makes a payment in respect of a cause of action, right or title of another,
+[15] In addition to barring a cause of action after the expiry of the limitation period for a debt, the Limitation Act also goes a step further to extinguish the “right and title of the person formerly having the cause of action”; subsection 9(1), a provision apparently unique to British Columbia, reads as follows:
+Cause of action extinguished
+9(1) On the expiration of a limitation period set by this Act for a cause of action to recover any debt, damages or other money, or for an accounting in respect of any matter, the right and title of the person formerly having the cause of action and of a person claiming through the person in respect of that matter is, as against the person against whom the cause of action formerly lay and as against the person’s successors, extinguished.
+[16] As mentioned above, Ms. Browning does not dispute the following: that Berkeley was a “tax debtor” within the meaning of subsection 224(1); that her mortgage agreement with Berkeley dated August 25, 1988 was valid; that she received funds pursuant to that agreement; or that her only payment in respect of the mortgage debt occurred on January 1, 1994 when she transferred to Berkeley certain shares determined by the McArthur Judgment to be worth $250,000, leaving an outstanding balance as of that date of $303,000.
+[17] Counsel for the Appellant submitted that because Ms. Browning made no further payments under the mortgage after January 1, 1994 and Berkeley took no action against her to enforce its payment, under section 5 of the British Columbia Limitation Act Berkeley had six years from the date of her default under the mortgage, i.e., until January 1, 2000, to bring a cause of action against her to enforce its right of repayment under the mortgage. That not having been done, upon the expiry of that six-year period, the mortgage debt became unenforceable against Ms. Browning by operation of subsections 3(5), 5(1) and 5(2) and was extinguished under section 9(1) of the Limitation Act.
+[18] As the first of the Current Requirements to Pay was issued in October 2000, some 10 months after the expiry of the limitation period on January 1, 2000, counsel argued, Ms. Browning was not at that time “liable to make a payment” and no moneys were “otherwise payable” to Berkeley as contemplated by subsection 224(1). From this it follows that she did not “fail to comply” with the Current Requirements to Pay under subsection 224(4) because no amounts were “payable” within the meaning of that provision. The triggering conditions for subsection 227(10) not having been fulfilled, the Minister was without authority to assess under that provision and the assessment is therefore, invalid.
+[19] In these circumstances, counsel for the Appellant submitted, section 222 of the Act is without application. Section 222 can be invoked by the Minister to revive a tax debt owed to the federal Crown (either directly by a tax debtor or indirectly by a third party who can be shown to be liable under a requirement to pay) that would otherwise be statute-barred under provincial legislation; however, its powers do not extend to creating a “tax debt” by reviving a debt between the tax debtor and the third party already rendered unenforceable and extinguished by such legislation. Counsel for the Appellant summarized his argument as follows:
+The foundation of our defence is that no tax debt can exist for [the Appellant] unless at the time these requirements were issued she was indebted pursuant to the mortgage debt. That's the point we're trying to make, and we're trying to say that because of the B.C. Limitation Act applicable to the mortgage debt, there was no amount payable by her after January the 1st, 2000. Section 222 has no application to that issue whatsoever.[13]
+… we have to bear in mind the distinction between the debt that arises by virtue of that assessment and the mortgage debt which is the foundation for imposing that liability.[14]
+Respondent’s Position
+[20] The Respondent contended that Ms. Browning was precluded by the rules of issue estoppel from relitigating Berkeley’s underlying tax debt as that matter had been conclusively disposed of in the McArthur Judgment[15]. Counsel for the Respondent referred the Court to McFadyen v. R.[16], in which Rip, C.J. applied the principles of issue estoppel enunciated in Henderson v. Henderson[17], and to the Federal Court of Appeal decision, Chevron Canada Resources Ltd. v. R.[18]. Since it is clear from both the Notices of Appeal and the submissions of counsel for the Appellant that Ms. Browning does not in any way challenge the validity of the assessment against Berkeley, no more need be said on this line of argument. As counsel for the Respondent acknowledged, issue estoppel has no application in respect of Ms. Browning’s challenge of the mortgage as of the time of the Current Requirements to Pay. That issue was not before the Court in the appeal disposed of in the McArthur Judgment; it could not have been raised as a defence since, at the time of the Former Requirements to Pay, the mortgage debt was not yet statute-barred.
+[21] The only remaining question, then, is the validity of the Minister’s assessments under subsections 224(1) and (4) and 227(10) and the applicability, or otherwise, of section 222 to Ms. Browning’s circumstances. On that score, the Respondent argues that even if her debt to Berkeley was rendered unenforceable and extinguished by the British Columbia Limitation Act, subsection 222 of the Income Tax Act operates to permit the Minister to take action against Ms. Browning to collect Berkeley’s tax debt under Part XV of the Income Tax Act until, at least, March 4, 2014. The relevant portions section 222 are set out below:
+(1) Definitions. The following definitions apply in this section.
+“action” means an action to collect a tax debt of a taxpayer and includes a proceeding in a court and anything done by the Minister under subsection 129(2), 131(3), 132(2) or 164(2), section 203 or any provision of this Part.
+“tax debt” means any amount payable by a taxpayer under this Act.
+(2) Debts to Her Majesty. A tax debt is a debt due to Her Majesty and is recoverable as such in the Federal Court or any other court of competent jurisdiction or in any other manner provided by this Act.
+(3) No actions after limitation period. The Minister may not commence an action to collect a tax debt after the end of the limitation period for the collection of the tax debt.
+(4) Limitation period. The limitation period for the collection of a tax debt of a taxpayer
+(a) begins
+…
+(ii) if subparagraph (i) does not apply and the tax debt was payable on March 4, 2004, or would have been payable on that date but for a limitation period that otherwise applied to the collection of the tax debt, on March 4, 2004; and
+(b) ends, subject to subsection (8), on the day that is 10 years after the day on which it begins. [Emphasis added.]
+[22] Counsel for the Respondent went on to say that this period could be further extended under subsections 222(5), (6) and (8):
+(5) Limitation period restarted. The limitation period described in subsection (4) for the collection of a tax debt of a taxpayer restarts (and ends, subject to subsection (8), on the day that is 10 years after the day on which it restarts) on any day, before it would otherwise end, on which
+a. the taxpayer acknowledges the tax debt in accordance with subsection (6);
+b. the Minister commences an action to collect the tax debt; or
+c. the Minister, under subsection 159(3) or 160(2) or paragraph 227(10(a), assesses any person in respect of the tax debt.
+(6) Acknowledgement of tax debts. A taxpayer acknowledges a tax debt if the taxpayer
+(a) promises, in writing, to pay the tax debt;
+(b) makes a written acknowledgement of the tax debt, whether or not a promise to pay can be inferred from the acknowledgement and whether or not it contains a refusal to pay; or
+(c) makes a payment, including a purported payment by way of a negotiable instrument that is dishonoured, on account of the tax debt.
+…
+(8) Extension of limitation period. In computing the day on which a limitation period ends, there shall be added the number of days on which one or more of the following is the case:
+(a) the Minister may not, because of any of subsections 225.1(2) to (5), take any of the actions described in subsection 225.1(1) in respect of the tax debt;
+(b) the Minister has accepted and holds security in lieu of payment of the tax debt;
+(c) if the taxpayer was resident in Canada on the applicable date described in paragraph (4)(a) in respect of the tax debt, the taxpayer is non‑resident; or
+(d) an action that the Minister may otherwise take in respect of the tax debt is restricted or not permitted under any provision of the Bankruptcy and Insolvency Act, of the Companies’ Creditors Arrangement Act or of the Farm Debt Mediation Act.
+[23] Here, counsel contended, Ms. Browning “acknowledged” her tax debt as contemplated by subsections 222(5) and (6) when in 2005 and again, in 2008 she made payments in respect of the Former Requirements to Pay of $108,246.56 and $29,969.64, respectively thereby triggering fresh 10‑year limitation periods. Under subsection 222(8), the period could be extended even further by the addition of time to compensate for periods during which the Minister was precluded by the Act from taking collection action, for example, pending the appeal of assessments[19].
+[24] Counsel for the Respondent reminded the Court that the amendments to section 222 had come about following R. v. Markevich[20]. In that case, the Supreme Court of Canada held that because, at that time, the Income Tax Act was silent as to limitations on the collection of tax debts, the limitation period under the British Columbia Limitation Act applied to thwart the Minister’s collection efforts against Mr. Markevich. A flurry of amendments swiftly ensued, specifically to ensure that the federal limitation period for actions to collect a tax debt would take precedence over provincial statutes which might otherwise render that debt unenforceable.
+[25] Counsel for the Respondent prefaced her thorough analysis of section 222 by reviewing certain defined terms which she contended were applicable to Ms. Browning’s situation: under subsection 248(1) of the Income Tax Act, a “taxpayer” includes “any person whether or not liable to pay tax”. Under subsection 222(1), a “tax debt” means any amount payable by a taxpayer and an “action” includes “anything done by the Minister” under Part XV Administration and Enforcement (which includes sections 224 and 227) to collect “a tax debt of a taxpayer”. Thus, while not liable herself to pay tax, Ms. Browning is caught by the subsection 222(1) definitions and remains vulnerable to the effects of subsection 222(4) in respect of Berkeley’s tax debt under its 1993 assessment[21]. That tax debt having been payable and unsatisfied when section 222 came into effect on March 4, 2004, the clock began to run on the Minister’s entitlement to look to her for payment of Berkeley’s tax debt on that date. That 10-year period having been further extended by Ms. Browning’s acknowledgement of Berkeley’s tax debt and again, by her appeals of the assessments of the Current Requirements to Pay, the Minister has, at a very minimum, until March 2014 to pursue his collection activities against her. Thus armed with the “extraordinarily powerful collection tools”[22] of section 222, the Minister is in no way impeded by any limitation periods under the British Columbia Limitation Act.
+[26] Counsel for the Respondent did not address subsections 224(1), (4) and 227(10) other than to cite them as “the provisions that gave rise to these appeals”[23].
+Analysis
+[27] In my view, the Respondent’s lack of attention to the Minister’s power to assess underpins the essential weakness of his position. The starting point for any appeal of an assessment under the Income Tax Act is the validity of the assessment. For an assessment under subsection 227(10) to be valid, all of the prerequisites of subsections 224(1) and (4) must first be fulfilled.[24] Until that substantive determination has been made, I agree with counsel for the Appellant that section 222 does not come into it.
+[28] In the present case, the Minister’s assessments hinge on the factual assumption that at the time of the Current Requirements to Pay, Ms. Browning was “liable to make a payment” to Berkeley and is accordingly, liable under subsection 224(1) for Berkeley’s tax debt[25]. Although her potential tax liability was initiated by the issuance under subsection 224(1) of the Current Requirements to Pay, it is the resulting subsection 227(10) assessment that is under appeal; in challenging that assessment, it is open to Ms. Browning to prove wrong the assumptions upon which it was based.
+[29] In Maritime Life Assurance Company v. Her Majesty the Queen[26], for example, the taxpayer succeeded in its challenge of the Minister’s assessment for failure to comply with a requirement to pay by showing that it was not liable to make a payment to the tax debtor at the time the requirements to pay were made:
+6 The effectiveness of the Minister's Requirements to Pay turns, at least initially, upon the answer to the question whether or not the cash values of the policies were "payable", within the meaning of that word as it is used in subsection 224(1), when the Requirements were made. I understood both counsel to accept that the answer to this question depends simply upon whether or not SK and RK could, at that time, require the Appellant company to pay the cash value of the policies to them forthwith. That this is so is placed beyond dispute by a number of authorities, the most recent of which is the decision of the Federal Court of Appeal in Canada (Attorney General) v. Yannelis. It was held there that the word "payable", as used in the Unemployment Insurance Regulations, subparagraph 58(8)(b)(i)
+... refers to the point in time when vacation pay is due to a claimant in the sense that he is entitled by his contract of employment or by the general law to have it paid to him and his employer is under an obligation to pay it. In other words, it is payable when a claimant is in a position at law to enforce payment. That point in time, as was held in Legge, supra, should not depend on when unpaid vacation pay happened to have been requested if, as a matter of law, it became payable in the above sense at an earlier time. [Emphasis added; original footnotes omitted.]
+[30] Thus, while subsection 224(1) permits the Minister to send to a third party a written requirement to pay “the moneys otherwise payable by the tax debtor” on nothing more than a suspicion, no liability will attach if the third party can show that when the requirements to pay were issued, no amount was “due” and that he was under no “obligation to pay it”. One possible defence “under the general law” could be to show that as of the effective date of the requirement to pay, the debt was unenforceable by the tax debtor against the third party by operation of a provincial limitation of action statute.
+[31] This is the basis of Ms. Browning’s defence. In this regard, her situation is quite different from that of the taxpayer in Markevich. Unlike Ms. Browning, Mr. Markevich had been directly assessed and was challenging the enforceability of his otherwise admitted “tax debt” solely by invoking limitation periods under the same provisions of the British Columbia legislation. Although counsel for the Respondent described the question in Markevich as “whether ... the [Minister] was out of time with respect to requirements to pay”[27], as can be seen from Justice Evans’ (as he then was) findings of fact in the first instance, references to requirements to pay were only incidental to the substantive issue under appeal; namely, Mr. Markevich’s direct liability to the Crown:
+…
+3 The applicant, Mr. Markevich, has been at all material times a resident in the province of British Columbia. In the early 1980s he failed to pay taxes on income that he had earned in the promotion of stocks. He has never challenged the validity or correctness of the notices of assessment issued by the Minister.
+4 In 1986 he was assessed as owing $267,437.61 to Revenue Canada. In 1987 his house was sold and Revenue Canada took the proceeds of sale to reduce his indebtedness. Later in that same year Revenue Canada decided to "write-off" the amount of tax still owed by the applicant, on the ground that he had no other assets and no income, and there were no realistic prospects of collecting the tax from him within the foreseeable future.
+5 “Writing-off” a tax debt does not extinguish or forgive it; it is an internal book‑keeping device that removes a taxpayer's tax debt from Revenue Canada's active collection list. Subsection 25(3) of the Financial Administration Act, R.S.C. 1985, c. F-11 [as amended] provides that “[t]he writing off of any debt, obligation or claim pursuant to this section does not affect any right of Her Majesty to collect or recover the debt, obligation or claim.”
+6 From 1992 the applicant reported income on his tax returns; in some years he was late in paying the amount for which he was assessed. After making payments in respect of those years, he received a statement of account in September 1993 showing the balance owing to Revenue Canada as $0.00. In the years 1995 to 1997 he again fell into arrears, and requirements to pay were issued to creditors informing them of the tax owing by the taxpayer and requiring them to pay to Revenue Canada money that they owed to the applicant. During the period 1995 to 1997, the statements of account sent to the applicant, and the requirements to pay issued to its creditors, showed him as owing only the tax due in respect of those years, not the larger amount owing from the years before 1986.
+7 However, in January 1998 the applicant was informed that he also owed unpaid taxes assessed in the years up to 1986 in the amount $770,583.42, which comprised $267,437.61 of unpaid taxes and $503,145.81 of accrued interest. Apparently as a result of a change of policy, previously written-off tax debts are now included by Revenue Canada in both the statements of account sent to taxpayers, and any requirements to pay issued to taxpayers' creditors.
+8 Having heard virtually nothing about this debt in any of his communications with Revenue Canada since 1986, and having neither acknowledged nor made any payments in respect of this indebtedness since 1986, the applicant was taken aback when he received this information in January 1998. In particular, he feared that the inclusion of this large amount in any requirements to pay that Ms. Kara indicated would be issued to his creditors would be extremely damaging to him in the conduct of his business. However, it should also be noted that in August 1996 the applicant had been told that the assessment notice issued for the tax year 1993 did not include a previously unpaid tax liability and that a detailed statement would follow. It did not.[28] [Emphasis added.]
+[32] Unlike Mr. Markevich (and, for that matter, the taxpayers in the few cases decided after the consequential amendments to section 222, Gibson v. R.[29] and Collins v. R.[30]), Ms. Browning is not herself directly indebted to the Crown for her own unpaid taxes. And unlike the taxpayer in Bleau v. Canada[31], she is not attempting to argue that the underlying tax debt of Berkley is statute-barred: in that case, the taxpayer became liable to pay the tax debt of the section 160 transferor at the moment of transfer, long before the expiry of any limitation periods that might have applied. Ms. Browning, however, invokes the limitation period in the provincial statute not as a bar to the Minister’s action to collect an already proven tax debt but rather, to show that no such debt ever came into existence.
+[33] Turning, then, to the question of whether Ms. Browning was “liable to make a payment” to Berkeley as of the effective dates of the Current Requirements to Pay, I accept Mr. Browning’s evidence that, after January 1, 1994, the Appellant made no further payments under the mortgage and Berkeley took no action to enforce its payment. In these circumstances, as of that date, the Appellant was in default under the mortgage and pursuant to the British Columbia Limitation Act, Berkeley had until January 1, 2000 to bring a cause of action to enforce its right of repayment under the mortgage. As this was not done and Ms. Browning did nothing to confirm the debt before the expiry of the limitation period, as of January 1, 2000, the mortgage debt became unenforceable and was extinguished under subsections 3(5), 5(1), 5(2) and 9(1) of the British Columbia Limitation Act.
+[34] From this it follows that when the Current Requirements to Pay were issued (October 2000 to July 2007), Ms. Browning was no longer liable to Berkeley under the mortgage. That being the case, the triggering criteria under subsections 224(1) and (4) have not been satisfied, the Minister was without power to assess Ms. Browning under subsection 227(10) and the assessment is, therefore, invalid.
+[35] In these circumstances, there is no need to consider the Respondent’s arguments in respect of section 222. The Minister cannot use that provision to bootstrap his way over the criteria in section 224 upon which his power to assess under subsection 227(10) depends.
+[36] Notwithstanding the amendments to section 222 consequent to Markevich, that case still stands for the proposition that the Minister has a duty to act with some dispatch in collecting tax debts. Here, the Minister’s practice of issuing requirements to pay to Ms. Browning in dribs and drabs over a 15-year period in respect of Berkeley’s 1989-90 tax debt falls somewhat short of the ideal expressed by Major, J. in paragraph 20 of the Supreme Court of Canada decision:
+… If the Minister makes no effort to collect a tax debt for an extended period, at a certain point a taxpayer may reasonably come to expect that he or she will not be called to account for the liability, and may conduct his or her affairs in reliance on that expectation. As well, a limitation period encourages the Minister to act diligently in pursuing the collection of tax debts. In light of the significant effect that collection of tax debts has upon the financial security of Canadian citizens, it is contrary to the public interest for the department to sleep on its rights in enforcing collection. …[32]
+[37] The appeals are allowed, with costs, and the assessments of the Minister of National Revenue are vacated.
+These Amended Judgments and Amended Reasons for Judgment are issued in substitution for the Judgments and Reasons for Judgment dated September 30, 2010.
+Signed at Ottawa, Canada, this 15th day of October, 2010.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2010TCC487
+COURT FILE NOS.: 2007-3711(IT)G; 2008-1924(IT)G
+STYLE OF CAUSE: DEBRA BROWNING AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: January 13, 2010
+AMENDED REASONS
+FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF AMENDED
+JUDGMENTS: October 15, 2010
+APPEARANCES:
+Counsel for the Appellant:
+David A.G. Birnie
+Counsel for the Respondent:
+Susan Wong
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David A. G. Birnie
+Firm: Birnie & Company
+Vancouver, British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1, Appellant’s Book of Documents, Tab 8.
+[2] Reply to the Notice of Appeal #2007-3711(IT)G at paragraph 14(e); Reply to the Notice of Appeal #2008-1924(IT)G at paragraph 13(e).
+[3] Exhibit R-1 (2004 TCC 414).
+[4] Above, at paragraph 11.
+[5] The Appellant alleges at paragraph 16 of the Notice of Appeal #2007-3711(IT)G that this amount was paid in full. At paragraph 7 of the Reply to the Notice of Appeal, the Minister denies that the amount was paid in full but admits the remaining facts in paragraph 16. The same allegations, admissions and denials appear at paragraph 17 of the Notice of Appeal #2008-1924(IT)G and paragraph 6 of the Reply, respectively.
+[6] According to paragraph 10 of the Reply to the Notice of Appeal #2008-1924(IT)G, that amount represents 75 monthly payments of $2,497.47 payable by the Appellant to Berkeley under the mortgage as determined in the McArthur Judgment.
+[7] Exhibit A-1, Appellant’s Book of Documents, Tab 12.
+[8] Above, at Tab 13.
+[9] Testimony of Richard Browning, Transcript, page 42, lines 2-21.
+[10] Reply to the Notice of Appeal #2008-1924(IT)G at paragraph 1.
+[11] Notice of Appeal #2008-1924(IT)G, at paragraph 16.
+[12] Testimony of Richard Browning, Transcript, page 42, lines 18-25.
+[13] Transcript, page 93, lines 14-21.
+[14] Transcript, page 94, lines 9-12.
+[15] Transcript, page 83, lines 9-16; page 86, lines 10-25 to page 87, lines 1-15.
+[16] 2008 TCC 441.
+[17] (1843), 3 Hare 100, at page 115. (Wigram, V.C.).
+[18] [1999] 3 C.T.C. 140 at paragraph 36. (Noël, J.A.).
+[19] Subsections 225.1(2) to (5).
+[20] [2003] 1 S.C.R. 94.
+[21] Appellant’s Book of Documents, Tab 1.
+[22] Transcript, page 76, lines 12-13.
+[23] Transcript, page 79, lines 16-17.
+[24] Marina Homes Ltd. et al v. Her Majesty the Queen, 2001 DTC 5046 at paragraph 19. (Federal Court – Trial Division).
+[25] Reply to the Notice of Appeal #2007-3711(IT)G at paragraph 14(l) and Reply to the Notice of Appeal #2008-1924(IT)G at paragraph 13(l).
+[26] 97 DTC 1321. (T.C.C.).
+[27] Transcript, page 66, lines 12-13.
+[28] [1999] 2 C.T.C. 104, paragraphs 3 to 8. (Fed. Crt.-Trial Div.).
+[29] 2005 FCA 180; [2006] 2 C.T.C. 5. (F.C.A.).
+[30] [2006] 1 C.T.C. 1. (F.C.).
+[31] [2007] F.C.J. No. 209. (F.C.A.); 2006 TCC 36 at [8]. (T.C.C.).
+[32] Above.

@@ -1,0 +1,138 @@
+Title: Teeluck v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28129/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-688-28129-teeluck-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-08-29
+
+# Teeluck v. The Queen
+
+- Citation: 2007 CCI 688
+- Decision date: 2007-08-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1649, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Teeluck v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-08-29
+Référence neutre
+2007 CCI 688
+Numéro de dossier
+2006-3560(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE] Référence : 2007CCI688 Dossier : 2006‑3560(IT)I
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+GURUCHANDRANATH TEELUCK
+appelant,
+et
+SA MAJESTÉ LA REINE
+intimée.
+* * * * *
+MOTIFS DU JUGEMENT
+L’HONORABLE JUGE LITTLE
+Aux bureaux du Service administratif des tribunaux judiciaires,
+180, rue Queen Ouest, Toronto (Ontario),
+le jeudi 30 août 2007, à 9 h 30.
+* * * * *
+COMPARUTIONS :
+Pour l’intimée : Me Samantha Hurst
+A.S.A.P. Reporting Services Inc. 8 2007
+200, rue Elgin, bureau 1105 130, rue King Ouest, bureau 1800
+Ottawa (Ontario) K2P 1L5 Toronto (Ontario) M5X 1E3
+613‑564‑2727 416‑861‑8720
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Toronto (Ontario)
+‑‑‑ L’audience est reprise le 30 août 2007, à 9 h 35.
+LE GREFFIER : La présente audience de la Cour canadienne de l’impôt, ayant lieu à Toronto, est reprise. La Cour est saisie du dossier no 2006‑3560(IT)I, Guruchandranath Teeluck et Sa Majesté la Reine, et doit rendre jugement. L’appelant est absent. Mme Samantha Hurst, la représentante de l’intimée, est présente.
+LE JUGE LITTLE : Merci M. le greffier.
+Je vais rendre les motifs de mon jugement dans l’affaire Teeluck contre La Reine.
+A. Les faits
+Voici les faits :
+(1) l’appelant est né à Maurice;
+(2) l’appelant s’est établi au Canada en 1981 et y vit depuis;
+(3) l’appelant est devenu citoyen canadien en 1992;
+(4) avant le mois d’octobre 2001, l’appelant était locataire de l’appartement 207 d’un immeuble situé au 3561, avenue Eglinton à Toronto;
+(5) en octobre 2001, l’appelant s’est installé dans une maison qu’il avait achetée, située au 26, chemin Thorndale dans la Ville de Brampton (Ontario);
+(6) l’appelant est le fils de Barossa Teeluck, que je désignerai par les expressions le « père de l’appelant » ou « son père »;
+(7) le père de l’appelant est né à Maurice le 14 août 1923. Il est aujourd’hui âgé de 84 ans;
+(8) le père de l’appelant a toujours habité à Maurice;
+(9) lorsque l’appelant a produit ses déclarations de revenus canadiennes pour les années d’imposition 1999, 2001 et 2003, il a affirmé avoir droit à l’équivalent du montant pour conjoint à l’égard de son père;
+(10) dans ses déclarations de revenus, l’appelant a demandé les crédits d’impôt suivants à l’égard de son père : 1999, 5 718 $; 2001, 6 293 $ et 2003, 6 586 $. J’utilise ici les montants demandés quant à l’impôt fédéral sur le revenu. Les montants demandés par l’appelant quant à l’impôt de l’Ontario sont un peu différents;
+(11) le ministre du Revenu national (le « ministre ») a accordé, par des avis de cotisation datés des 2 août, 21 juillet et 25 mai de l’année 2005, les crédits d’impôt pour personne à charge demandés par l’appelant à l’égard de son père. Le ministre a ensuite décidé de refuser les crédits d’impôt pour personne à charge dans des avis de nouvelle cotisation datés du 8 juin 2006 et des 3 et 24 octobre 2005 portant respectivement sur les années 1999, 2001 et 2003;
+(12) l’appelant a interjeté appel devant la Cour.
+B. Questions
+Les questions à trancher sont les suivantes :
+(1) le père de l’appelant résidait‑il au Canada durant les années d’imposition 1999, 2001 et 2003?
+(2) l’appelant a‑t‑il tenu un établissement domestique autonome, seul ou avec une ou plusieurs autres personnes, dans lequel il aurait habité avec son père et où il aurait subvenu aux besoins de ce dernier durant les années d’imposition 1999, 2001 et 2003?
+(3) le père de l’appelant a‑t‑il été entièrement à la charge de l’appelant à un moment donné au cours des années d’imposition 1999, 2001 et 2003?
+(4) l’appelant a‑t‑il droit au crédit équivalent pour personne entièrement à charge à l’égard de son père?
+C. Analyse et décision
+Je citerai d’abord une partie du paragraphe 118(1) de la Loi de l’impôt sur le revenu (la « Loi ») :
+Le produit de la multiplication du total des montants visés aux alinéas a) à e) par le taux de base pour l’année est déductible dans le calcul de l’impôt payable par un particulier [c’est‑à‑dire l’appelant] en vertu de la présente partie pour une année d’imposition;
+La Loi traite ensuite des personnes entièrement à charge à l’alinéa 118(1)b) :
+si le particulier ne demande pas de déduction pour l’année par l’effet de l’alinéa a) et si, à un moment de l’année :
+(i) d’une part, il n’est pas marié ou ne vit pas en union de fait [...]
+Voici le libellé du sous‑alinéa 118(1)b)(ii) :
+d’autre part, il [l’appelant] tient, seul ou avec une ou plusieurs autres personnes, et habite un établissement domestique autonome où il subvient réellement aux besoins d’une personne qui, à ce moment, remplit les conditions suivantes : [...]
+(B) elle est entièrement à la charge soit du particulier
+[...]
+(C) elle est liée au particulier, [...]
+Il est ensuite question d’autres conditions qui ne s’appliquent pas en l’espèce.
+J’estime que le passage important est « habite un établissement [...] où il subvient réellement aux besoins d’une personne qui [...] est liée au particulier ». Il est clair que le père est lié à l’appelant et que l’appelant n’est pas marié, mais il reste le problème suivant : « L’appelant habite‑t‑il l’établissement avec son père et subvient‑il vraiment aux besoins de celui‑ci? »
+La preuve que j’ai entendue hier a établi que le père de l’appelant ne résidait pas au Canada durant les années d’imposition 1999, 2001 et 2003. En fait, bien que l’appelant ait reçu la visite de son père en 1998, il n’existe aucune preuve de visites semblables en 1999, en 2001 ou en 2003
+Lors de sa plaidoirie, l’appelant a fait référence au Guide préparé par l’Agence du revenu du Canada. L’appelant a affirmé avoir droit au crédit d’impôt parce que son père avait habité avec lui dans une maison qu’il tenait, et il a particulièrement insisté sur le fait qu’il avait habité avec son père — dans le passé. L’appelant soutient que ce sont les mots utilisés dans le Guide — qu’il a vécu avec lui à un moment donné durant la dernière année.
+Je ne suis pas d’accord avec l’interprétation de l’appelant parce qu’il a vécu au Canada durant les années 1999, 2001 et 2003, alors que son père vivait à Maurice pendant cette période. Je note que l’appelant affirme avoir assumé les dépenses relatives à la maison qu’habitait son père à Maurice.
+J’insiste sur le fait que selon les termes de la Loi et non pas ceux du Guide, le père de l’appelant doit avoir vécu dans l’établissement avec l’appelant. Il est impossible de faire abstraction des termes précis de l’article. Cette exigence, celle qui prévoit que le particulier doit vivre avec la personne à charge, ne s’applique pas si cette dernière est l’enfant de l’appelant. La division 118(1)b)(ii)(A) est rédigée ainsi : « elle réside au Canada, sauf s’il s’agit d’un enfant du particulier ».
+C’est là l’exception dont souffre la règle. La règle générale est que la personne à charge doit habiter le même établissement que l’appelant.
+À mon avis, l’appelant ne se conforme pas à l’exigence énoncée à l’alinéa 118(1)b). Il n’a donc pas droit au crédit d’impôt.
+Je veux aussi souligner qu’il est nécessaire de se conformer aux termes précis de la Loi pour avoir droit au crédit d’impôt. Le libellé à retenir n’est pas celui du Guide. La disposition à laquelle il faut se conformer est celle de la Loi.
+Avant de conclure, je tiens à signaler que l’appelant a déposé plusieurs documents pour appuyer sa thèse.
+La pièce A‑4 est un mandat de 250 $ délivré par la Banque Canadienne Impériale de Commerce (la « CIBC ») le 31 mars 1997.
+Le second volet de cette pièce est un relevé bancaire délivré par la State Bank of Mauritius en 2006.
+Le troisième document lié à la pièce A‑4 est un relevé délivré par la Central Electricity Board of Mauritius en 2006.
+Deux autres documents joints à la pièce A‑4 sont des relevés de Mauritius Telecom visant les mois de juillet et d’août 2006 et le mois de février 2007.
+La pièce A‑5 est un mandat de 250 $ délivré par la CIBC le 31 mars 2007.
+Je souhaite souligner que le mandat déposé sous la cote A‑5 semble être une copie du mandat produit comme pièce A‑4. Il porte la même date, le même montant, le nom de la même banque et les mêmes numéros.
+En examinant les documents mentionnés précédemment, j’ai constaté qu’aucun des documents présentés par l’appelant n’est probant quant aux années d’imposition 1999, 2001 ou 2003.
+Les appels sont rejetés sans frais.
+Avant de terminer, je tiens à dire qu’à mon avis, l’appelant est un fils exemplaire qui offre une aide financière et son soutien à son père âgé. Toutefois, je suis d’avis que l’appelant ne se conforme pas aux termes exprès de la Loi et ne peut donc pas demander le crédit d’impôt en cause. Les appels sont rejetés.
+‑‑‑ L’audience est levée à 9 h 42.
+RÉFÉRENCE :
+2007CCI688
+Nº DU DOSSIER DE LA COUR :
+2006‑3560(IT)I
+INTITULÉ :
+Guruchandranath Teeluck et
+Sa Majestée la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 29 août 2007
+MOTIFS DU JUGEMENT :
+L’honorable juge L. M. Little
+DATE DU JUGEMENT :
+Le 30 août 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Samantha Hurst
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa (Canada)

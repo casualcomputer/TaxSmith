@@ -1,0 +1,151 @@
+---
+title: "Dubuc c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30256/index.do"
+last_modified: "2011-03-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 55"
+citation2: ""
+neutral_citation: "2011 CCI 55"
+decision_date: "2011-03-09"
+language: "fr"
+item_id: "30256"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7965
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:01:57.136000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dfecf59f403e6ba90ca9a08f47abfbd72866823740ceea2b5ff2bc8011febd40"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dubuc c. La Reine
+
+- Citation: 2011 CCI 55
+- Decision date: 2011-03-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7965, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dubuc c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-03-09
+Référence neutre
+2011 CCI 55
+Numéro de dossier
+2010-134(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-134(IT)I
+ENTRE :
+LORRAINE DUBUC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Pierre Demers (2010‑130(IT)I), le 13 décembre 2010, à Sherbrooke (Québec).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles déterminations établies en vertu de la Loi de l’impôt sur le revenu, par lesquelles le ministre du Revenu national a révisé la prestation fiscale canadienne pour enfants relativement aux années de base 2005, 2006 et 2007 et le crédit pour la taxe sur les produits et services relativement aux années d’imposition 2006 et 2007, est rejeté sans frais selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 9e jour de mars 2011.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2011 CCI 55
+Date : 20110309
+Dossier : 2010-134(IT)I
+ENTRE :
+LORRAINE DUBUC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Introduction
+[1] Mme Lorraine Dubuc (l’« appelante ») interjette appel des nouvelles déterminations établies par le ministre du Revenu national (le « ministre ») selon lesquelles elle n’était pas le « particulier admissible » au sens de l’article 122.6 de la Loi de l’impôt sur le revenu (la « Loi ») relativement à la prestation fiscale canadienne pour enfants (la « PFCE ») réclamée par l’appelante à l’égard de sa fille (l’« enfant ») pour les années de base 2005, 2006 et 2007. L’appelante interjette également appel des nouvelles déterminations établies par le ministre relativement au crédit pour la taxe sur les produits et services (le « CTPS ») réclamé par l’appelante à l’égard de l’enfant pour les années d’imposition 2006 et 2007.
+[2] M. Pierre Demers, le père de l’enfant, a également réclamé la PFCE relativement à l’enfant. Il s’est également fait refuser la PFCE; les deux appels ont été entendus sur preuve commune.
+[3] L’appelante n’a pas signifié un avis d’opposition à l’encontre des avis de nouvelles déterminations établis par le ministre relativement à la PFCE pour les années de base 2006 et 2007 et son appel relativement à ces années est rejeté sans autre motif. Également, l’appelante a omis de signifier un avis d’opposition relativement au CTPS pour l’année d’imposition 2007 et son appel pour cette année est également rejeté sans autre motif.
+II. Exposé sommaire des faits
+[4] Pour établir la nouvelle détermination du 20 novembre 2008 à l’égard de l’année de base 2005 et la nouvelle détermination du 24 octobre 2008 pour l’année d’imposition 2006 et pour les ratifier, le ministre s’est fondé sur les faits suivants :
+a) l’appelante et son ex‑conjoint, M. Pierre Demers, vivaient séparés depuis le 17 janvier 2007;
+b) de leur union est née une fille en août 1991;
+c) en juillet 2008, M. Demers a fait une demande de PFCE puisqu’un jugement précisait qu’il était la personne qui assumait la garde de l’enfant depuis le 17 janvier 2007;
+d) en août 2008, le ministre a envoyé à l’appelante et à M. Demers un questionnaire afin de déterminer le parent admissible à recevoir la PFCE et le CTPS pour la période débutant le 17 janvier 2007;
+e) le 20 novembre 2008, le ministre a déterminé que l’appelante n’était plus la personne admissible à recevoir la PFCE pour la période de janvier 2007 à juin 2007 pour l’année de base 2005;
+f) le 24 octobre 2008, le ministre a déterminé que l’appelante n’était plus la personne admissible à recevoir le CTPS pour l’année d’imposition 2006.
+[5] L’appelante a témoigné qu’elle avait quitté la demeure familiale dans laquelle elle résidait avec M. Demers et l’enfant au début de l’année 2007 à la suite de la rupture de ses relations avec M. Demers. L’appelante a expliqué qu’elle a loué un appartement près de la demeure familiale dans lequel elle est allée vivre avec sa fille aînée née d’un autre mariage. L’appartement était trop petit pour accueillir l’enfant; par conséquent, l’enfant a résidé exclusivement avec M. Demers pendant l’année d’imposition 2007.
+[6] L’appelante prétend qu’elle a eu la garde exclusive de l’enfant à compter de janvier 2008. Elle reconnaît que selon un jugement rendu par la Cour supérieure du Québec, elle aurait dû avoir la garde partagée de l’enfant à compter d’avril 2008. Nonobstant ce jugement, elle prétend qu’elle avait la garde exclusive de l’enfant de janvier 2008 à juin 2009.
+[7] Pierre Demers soutient qu’il avait la garde exclusive de l’enfant entre janvier 2007 et janvier 2008. Toutefois, M. Demers soutient que depuis avril 2008, l’appelante et lui‑même ont exercé une garde partagée de l’enfant conformément au jugement de la Cour supérieure du Québec.
+III. Question en litige
+[8] La question en litige consiste à déterminer si le ministre a correctement révisé la PFCE de l’appelante et déterminé que le montant reçu en trop s’élevait à 474,61 $ pour l’année de base 2005, et si le ministre a correctement révisé le CTPS de l’appelante et déterminé que le montant reçu en trop s’élevait à 5,30 $ pour l’année d’imposition 2006.
+IV. Analyse
+[9] La définition du terme « particulier admissible » à l’article 122.6 de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), et ses modifications, était ainsi rédigée au cours de la période pertinente :
+« particulier admissible » S'agissant, à un moment donné, du particulier admissible à l'égard d'une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne — père ou mère de la personne à charge — qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+c) elle réside au Canada ou, si elle est l'époux ou le conjoint de fait visé d'une personne qui est réputée, par le paragraphe 250(1), résider au Canada tout au long de l'année d'imposition qui comprend ce moment, y a résidé au cours d'une année d'imposition antérieure;
+d) elle n'est pas visée aux alinéas 149(1)a) ou b);
+e) elle est, ou son époux ou conjoint de fait visé est, soit citoyen canadien, soit :
+(i) résident permanent au sens du paragraphe 2(1) de la Loi sur l'immigration et la protection des réfugiés,
+(ii) résident temporaire ou titulaire d'un permis de séjour temporaire visés par la Loi sur l'immigration et la protection des réfugiés ayant résidé au Canada durant la période de 18 mois précédant ce moment,
+(iii) personne protégée au titre de la Loi sur l'immigration et la protection des réfugiés,
+(iv) quelqu'un qui fait partie d'une catégorie précisée dans le Règlement sur les catégories d'immigrants précisées pour des motifs d'ordre humanitaire pris en application de la Loi sur l'immigration.
+Pour l'application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l'alinéa f) ne s'applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l'éducation d'une personne.
+[10] L’appelante a admis à l’audience que l’enfant vivait exclusivement avec son père, M. Demers, pendant toute l’année d’imposition 2007. Par conséquent, elle ne pouvait pas être le « particulier admissible » au sens de l’article 122.6 de la Loi pour l’année de base 2005. M. Demers était la personne admissible à recevoir la PFCE relativement à l’enfant pour la période de janvier 2007 à janvier 2008. De plus, pour cette même raison, l’appelante ne pouvait pas être le « particulier admissible » à recevoir le CTPS au sens de l’article 122.5 de la Loi pour l’année d’imposition 2006.
+V. Conclusion
+[11] Pour toutes ces raisons, l’appel est rejeté sans frais.
+Signé à Ottawa, Canada, ce 9e jour de mars 2011.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE : 2011 CCI 55
+Nº DU DOSSIER DE LA COUR : 2010-134(IT)I
+INTITULÉ DE LA CAUSE : LORRAINE DUBUC c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L’AUDIENCE : Le 13 décembre 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 9 mars 2011
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Christina Ham
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

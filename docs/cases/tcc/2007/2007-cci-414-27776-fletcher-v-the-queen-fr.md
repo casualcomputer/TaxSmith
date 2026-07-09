@@ -1,0 +1,180 @@
+---
+title: "Fletcher v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27776/index.do"
+last_modified: "2007-06-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 414"
+citation2: ""
+neutral_citation: "2007 CCI 414"
+decision_date: "2007-06-28"
+language: "fr"
+item_id: "27776"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 264
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:31:22.919000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a286da6ffcb4ef54fdefe2eb26b644c4526b01ce92f239df7f95d0851eef26bf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fletcher v. The Queen
+
+- Citation: 2007 CCI 414
+- Decision date: 2007-06-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 264, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fletcher v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-06-28
+Référence neutre
+2007 CCI 414
+Numéro de dossier
+2006-3243(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3243(IT)I
+ENTRE :
+ROY FLETCHER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 28 juin 2007, à Edmonton (Alberta)
+Devant : L’honorable juge T. O'Connor
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Gregory Perlinski
+____________________________________________________________________
+JUGEMENT
+L’appel au sujet de la cotisation établie selon la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est rejeté, pour les raisons indiquées dans les Motifs de jugement ci-joints. Il n’y a pas d’adjudication des dépens.
+Signé à Ottawa, au Canada, ce 13e jour de juillet 2007.
+« T. O'Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce … jour de juillet 2007
+… , traducteur
+Référence : 2007CCI414
+Date : 20070713
+Dossier : 2006-3243(IT)I
+ENTRE :
+ROY FLETCHER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O’Connor
+[1] La question sur laquelle porte l’appel est de savoir si la cotisation de l’appelant au Régime de pensions du Canada (RPC) pour ses gains de travailleur autonome a été correctement établie à 2 481,63 $ pour l’année d’imposition 2005.
+[2] Le Ministre se fonde sur certaines suppositions pour confirmer la cotisation, comme l’explique le paragraphe 11 de la réponse à l’avis d’appel. L’audition de l’appel a confirmé que l’appelant était d’accord avec ces suppositions. Le paragraphe 11 indique :
+[Traduction]
+11. Pour confirmer la cotisation, le Ministre suppose les faits suivants :
+a) durant toutes les périodes pertinentes, l’appelant était un résident du Canada;
+b) l’appelant a reçu de Petro-Canada un revenu d’emploi s’élevant à 306,12 $ en 2005;
+c) durant l’année d’imposition 2005, l’appelant exploitait une entreprise à propriétaire unique de consultation en matière de projets (« l’entreprise de consultation »);
+d) l’exercice de l’entreprise de consultation allait du 1er janvier 2005 au 31 décembre 2005;
+e) l’entreprise de consultation a rapporté à l’appelant un revenu net de 47 414,55 $ durant l’année d’imposition 2005;
+f) durant l’année d’imposition 2005, l’appelant exploitait une entreprise à propriétaire unique de terres à bois (« l’entreprise de terres à bois »);
+g) l’exercice de l’entreprise de terres à bois allait du 1er janvier 2005 au 31 décembre 2005;
+h) l’entreprise de terres à bois a rapporté à l’appelant un revenu net de 1 100,87 $ durant l’année d’imposition 2005;
+i) l’appelant est né le 15 avril 1943;
+j) le 5 avril 2005, l’appelant a fait une demande de pension de retraite selon le Régime de pensions du Canada;
+k) l’appelant a commencé à toucher une pension de retraite selon le Régime de pensions du Canada en septembre 2005.
+[3] Voici le calcul de la cotisation tel que présenté dans le paragraphe 7 de la réponse :
+[Traduction]
+Revenus nets de profession libérale 47 414,55 $
+Revenus d’agriculture 1 100,87 $
+Total des revenus donnant droit à pension 48 515,42 $
+Moins : Exemption de base 3 500 $
+Revenu assujetti aux cotisations
+(Maximum 37 600 $) 37 600 $
+Mois de l’année assujettis aux cotisations x 8/12
+Plafond des gains ouvrant droit à une pension 25 067 $
+Taux de cotisation en 2005 x 9,9 %
+Cotisations au Régime de pensions du Canada à payer 2 481,63 $
+[4] Il ne semble pas y avoir de désaccord sur ces calculs, effectués en conformité avec l’article 13 du RPC, qui stipule, en des termes plutôt compliqués, les facteurs déterminant les cotisations au RPC requises sur des gains de travailleur autonome.
+[5] J’ai examiné les calculs présentés dans la réponse; ils sont corrects.
+OBSERVATIONS DE L’APPELANT :
+[6] L’opposition et l’appel de l’appelant reposent essentiellement sur deux problèmes : tout d’abord, il estime qu’on lui facture à la fois les cotisations de l’employé et celles de l’employeur parce qu’il a fourni à Petro-Canada un document envoyé par le RPC, sur la foi duquel cette société s’est abstenue de payer des cotisations d’employeur pour le travail sous contrat de l’appelant. Le problème est que, dans sa déclaration de revenus, l’appelant a déclaré le montant net en question, soit 47 414,55 $ comme revenus de travailleur autonome et non comme revenus d’emploi. Les faits appuient la conclusion qu’il s’agissait de revenus de travailleur autonome. Or, en vertu des dispositions du RPC, un travailleur autonome est redevable à la fois des contributions de l’employé et de celles de l’employeur. Toutefois, n’oublions pas, que, dans sa déclaration d’impôt, un travailleur autonome a droit à plus de déductions qu’un employé. Ainsi, en l’espèce, le total des revenus bruts de travailleur autonome de l’appelant était de 68 607 $; ses revenus nets, de 47 414 $.
+[7] Le second problème de l’appelant se résume au fait que l’administration du RPC lui a fourni des renseignements erronés, quand il l’a avisée de son intention et de son désir de ne plus être redevable d’aucune cotisation au RPC. Il précise, dans son avis d’appel, ce qui suit :
+[Traduction]
+Manifestement, sans les renseignements erronés fournis par le RPC, j’aurais reçu des prestations du RPC avant de retourner au travail et on ne m’aurait donc pas demandé de payer les contributions au RPC faisant l’objet du litige. Hélas, j’ai choisi d’attendre septembre pour recevoir des contributions du RPC, parce que l’agente du RPC m’a demandé quand je souhaitais que les prestations commencent. Elle m’a assuré que j’étais déjà exempt de toute autre cotisation et que la date de début des prestations n’aurait pas de conséquence sur les cotisations. Elle l’a affirmé sans hésitation, sinon j’aurais demandé à ce que les prestations commencent tout de suite. Si elle ne m’avait pas demandé de choisir une date de début, j’aurais atteint le but souhaité automatiquement, vu que je n’ai pas repris le travail avant juillet, soit longtemps après avoir fait la demande de prestations du RPC, le 5 avril.
+[8] Il est regrettable que l’appel ne puisse être reçu simplement parce que l’appelant s’est fié à des renseignements erronés fournis par des agents du RPC. Les calculs doivent s’effectuer en conformité avec le RPC et non sur la foi des renseignements erronés fournis par les agents en question.
+[9] Dans Boynton c. Canada [2001] 3 C.T.C. 2320, Hamlyn J.C.I. déclare :
+11 Les déclarations de la fonctionnaire de l'ADRC sur lesquelles s'est appuyé l'appelant à son détriment ne font pas obstacle à la nouvelle cotisation. Le droit établi clairement que, le fait pour un employé de Revenu Canada de transmettre des renseignements erronés à un contribuable qui agit conformément à ces renseignements à son détriment, n'empêche pas en lui-même le ministre d'assujettir le contribuable à l'impôt et de lui imposer des intérêts et des pénalités conformément aux dispositions législatives applicables.
+[10] Cette remarque incidente porte sur les renseignements erronés fournis par un employé de l’Agence du revenu du Canada, mais s’applique également aux renseignements erronés fournis par un employé du RPC.
+[11] Durant l’audience, l’appelant a également fourni la transcription d’un communiqué de presse de l’Agence du revenu du Canada, dont voici les termes :
+LE NOUVEAU GOUVERNEMENT DU CANADA ANNONCE LA MISE EN PLACE DE LA CHARTE DES DROITS DU CONTRIBUABLE ET DE L'OMBUDSMAN DES CONTRIBUABLES
+Toronto (Ontario), le 28 mai 2007… L'honorable Carol Skelton, ministre du Revenu national, accompagnée de l'honorable Jim Flaherty, ministre des Finances et ministre régional du Toronto métropolitain, a annoncé aujourd'hui deux nouvelles initiatives visant à accroître la responsabilité de l'Agence du revenu du Canada (ARC) envers les Canadiens, soit une charte des droits du contribuable et un ombudsman des contribuables.
+Le communiqué de presse mentionne que le gouvernement croit non seulement en sa solide responsabilité, mais aussi en l’équité, et que les contribuables on droit à des renseignements complets, exacts, clairs et opportuns. Plus précisément, les paragraphes 6, 11 et 12 du communiqué de presse indiquent :
+6. Vous avez droit à des renseignements complets, exacts, clairs et opportuns.
+Vous pouvez vous attendre à ce que nous vous fournissions des renseignements complets et exacts en temps opportun qui expliqueront, dans un langage simple, les lois et les politiques qui s’appliquent à votre situation en vue de vous aider à recevoir les montants qui vous reviennent et à vous acquitter de vos obligations.
+11. Vous êtes en droit de vous attendre à ce que nous rendions compte.
+Vous êtes en droit de vous attendre à ce que nous rendions compte de nos actions. Lorsque nous prenons une décision relative à vos affaires liées à l’impôt et aux prestations, nous expliquerons la décision et nous vous informerons de vos droits et obligations relativement à celle-ci. De plus, nous devons rendre compte de nos actions au Parlement et aux Canadiens. Nous rendons compte au Parlement de notre rendement en ce qui concerne les services fiscaux, les programmes de prestations et les résultats obtenus par rapport à nos normes de service publiées.
+12. Vous avez droit, en raison de circonstances extraordinaires, à un allégement des pénalités et des intérêts imposés en vertu des lois fiscales.
+Vous pouvez vous attendre à ce que nous tenions compte de votre demande d’annuler, en tout ou en partie, la pénalité et les intérêts à payer, ou d’y renoncer, si vous avez été empêché de vous acquitter de vos obligations fiscales en raison de circonstances indépendantes de votre volonté, par exemple une catastrophe comme une inondation ou un incendie. Nous pouvons aussi renoncer à la pénalité et aux intérêts à payer, ou les annuler, lorsqu’ils découlent principalement de nos mesures. Par exemple, si nous vous transmettons des renseignements erronés et que vous produisez votre déclaration ou versez des paiements en fonction de ces renseignements.
+[12] L’avenir nous dira si cette déclaration de presse peut bénéficier aux contribuables ou à des personnes comme l’appelant, après la pleine entrée en vigueur de la charte des droits du contribuable. Mais elle ne peut avoir d’effets positifs sur la cotisation au RPC de l’appelant durant l’année d’imposition 2005.
+[13] L’appelant soulève également le fait que ses prestations de retraite n’augmentent pas, malgré les cotisations supplémentaires qu’il a dû acquitter. Il reste à voir si cela peut donner lieu à un appel au Ministre et, éventuellement plus haut, au tribunal de révision, en vertu des articles 81 et 82 du RPC, ainsi que de tout autre article applicable. Mais là n’est pas la question dont est maintenant saisie la Cour. (Voir CCH – Canadian Employment Benefits and Pension Guide vol. 1 – no 856 et suivants.)
+OBSERVATIONS DE L’INTIMÉE :
+[14] D’après l’intimée, la cotisation payable par l’appelant en vertu du Régime de pensions du Canada pour ses gains de travailleur autonome a été correctement établie à 2 481,63 $ pour l’année d’imposition 2005.
+[15] L’intimée observe en outre que, dans l’établissement de la cotisation de l’appelant pour l’année d’imposition 2005, le Ministre :
+a) a consenti, comme il convenait, une déduction de 1 240,81 $ sur la cotisation payable par l’appelant en vertu du Régime de pensions du Canada pour ses gains de travailleur autonome, conformément à l’alinéa 60e) de la Loi.
+b) a consenti, comme il convenait, un crédit de 186,12 $ (1 240,81 x 15 %) sur la cotisation payable par l’appelant en vertu du Régime de pensions du Canada pour ses gains de travailleur autonome, conformément à l’article 118.7 de la Loi.
+[16] L’intimée demande à ce que l’appel soit rejeté.
+[17] Selon moi, les calculs du Ministre, décrits et discutés ci-haut, sont corrects; ils ne sont pas affectés par les conseils erronés fournis à l’appelant ni par les autres observations de l’appelant.
+[18] Conséquemment, pour tous les motif précédents, l’appel est rejeté.
+Signé à Ottawa, au Canada, ce 13e jour de juillet 2007.
+« T. O'Connor »
+Le juge O’Connor
+Traduction certifiée conforme
+ce … jour de juillet 2007
+… , traducteur
+RÉFÉRENCE : 2007CCI414
+No DU DOSSIER : 2006-3243(IT)I
+INTITULÉ : Roy Fletcher c. La Reine
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 28 juin 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge T. O'Connor
+DATE DU JUGEMENT : Le 13 juillet 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Gregory Perlinski
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

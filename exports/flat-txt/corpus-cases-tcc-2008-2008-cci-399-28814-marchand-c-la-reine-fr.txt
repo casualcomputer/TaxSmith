@@ -1,0 +1,148 @@
+Title: Marchand c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28814/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-399-28814-marchand-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-06-27
+
+# Marchand c. La Reine
+
+- Citation: 2008 CCI 399
+- Decision date: 2008-06-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1528, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marchand c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-27
+Référence neutre
+2008 CCI 399
+Numéro de dossier
+2006-1119(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1119(IT)G
+ENTRE :
+MURIEL MARCHAND,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 19 juin 2008, à Québec (Québec)
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l'appelante :
+Me René Roy
+Avocat de l'intimée :
+Me Vlad Zolia
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de l’article 160 de la Loi de l’impôt sur le revenu, concernant les avis de cotisation numéros 30628 et 13555 datés du 15 mars 2004 sont accueillis, avec dépens, et les cotisations sous appel sont annulées.
+Signé à Montréal, Québec, ce 27e jour de juin 2008.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2008 CCI 399
+Date : 20080627
+Dossier : 2006-1119(IT)G
+ENTRE :
+MURIEL MARCHAND,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelante en appelle de deux cotisations établies par le ministre du Revenu national (le « ministre »), par lesquelles il réclame de celle-ci un premier montant de 53 539,85 $ et un deuxième montant de 14 288,40 $, aux termes de l’article 160 de la Loi de l’mpôt sur le revenu (la « LIR »). Les deux cotisations ont été établies en date du 15 mars 2004 et portent les numéros 30628 et 13555. Par ces cotisations, le ministre tente de percevoir auprès de l’appelante les dettes fiscales dues par la société 3094‑0530 Québec Inc. (la « société »), dont la totalité des actions est détenue par le conjoint de l’appelante, monsieur Jean‑Paul Biron, et les dettes fiscales dues par monsieur Biron personnellement. Le montant des dettes fiscales impayées n’est pas contesté. Celles de la société totalisaient 53 547,88 $ pour les années d’imposition 1994 à 2001 et celles de monsieur Biron s’élevaient à 73 400,95 $ pour les années d’imposition 1994 à 2002.
+[2] Le ministre invoque l’article 160 de la LIR pour cotiser l’appelante au motif que la société lui a transféré des sommes totalisant 53 539,85 $ au cours des années 1998, 1999, 2000, 2001 et 2002. Par ailleurs, monsieur Biron aurait transféré personnellement à l’appelante entre le 22 mars 2002 et le 3 janvier 2003, les sommes totalisant 14 288,40 $. L’appelante ne conteste pas que ces montants lui ont été transférés.
+[3] L’appelante conteste toutefois les cotisations au motif que les transferts d’argent en question étaient justifiés dans les circonstances et ont été faits en contrepartie des obligations familiales échéant à monsieur Biron en vertu du droit civil québécois. De ce fait, elle invoque la non-application de l’article 160.
+Dispositions législatives
+[4] Le paragraphe 160(1) de la LIR se lit comme suit :
+160. (1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+160. (1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+(a) the person’s spouse or common-law partner or a person who has since become the person’s spouse or common- law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm’s length,
+les règles suivantes s’appliquent :
+the following rules apply:
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74.1 à 75.1 de la présente loi et de l’article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts revisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l’égard de tout gain tiré de la disposition de tels biens;
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferor’s tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l’auteur du transfert doit payer en vertu de la présente loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années;
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+aucune disposition du présent paragraphe n’est toutefois réputée limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi.
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+Faits
+[5] Il ressort de la preuve que l’appelante s’est mariée avec monsieur Biron en 1966, sous le régime de la séparation de biens dans la province de Québec. En vertu du contrat de mariage (pièce A‑1, onglet 8), l’époux doit supporter en entier les charges du mariage, y compris l’entretien de son épouse et l’éducation des enfants (article 2 du contrat de mariage). Ils ont eu trois enfants, lesquels étaient tous dans la vingtaine en 1999 et 2000, et encore à leur charge financièrement.
+[6] Depuis le début du mariage, monsieur Biron a toujours payé soit les frais de location, soit les frais d’hypothèque, dépendant s’ils étaient à loyer ou propriétaires de leur logement, de même que l’assurance-vie. Il payait aussi les autres dépenses du ménage au besoin. Selon les montants cotisés, l’appelante a réalisé des revenus variant de 6 000 $ à 34 000 $ au cours des années 1996 à 2003, lesquels revenus ont totalisé 197 306 $ au cours de cette période. Monsieur Biron a réalisé des revenus variant annuellement de 9 584 $ à 76 826 $, totalisant pour la même période 272 139 $. Il n’a pas fait de déclaration de revenus en 2000 (voir alinéa 7e) de la réponse à l’avis d’appel, admis par l’appelante).
+[7] Le couple a été en location jusqu’en 1972, année où ils ont acheté une propriété au Lac Beauport. Cette propriété a été vendue en 1992, et monsieur Biron a acheté un condominium sur René‑Lévesque à Québec au cours de cette même année. Ce condominium a été vendu à perte le 25 mars 1997 pour la somme de 117 000 $ (pièce I‑4). Monsieur Biron dit avoir vendu parce que d’une part, il n’aimait pas ce condominium et d’autre part, un de leurs enfants est revenu vivre avec eux avec un enfant à charge. Ils ont donc déménagé temporairement à loyer, avec des frais de location variant entre 1 155 $ et 1 190 $ par mois (pièce A‑1, onglet A‑11) jusqu’en 2000, année où c’est l’appelante cette fois qui a fait l’acquisition d’un appartement en copropriété sur la rue des Remparts à Québec pour la somme de 132 000 $ (pièce A‑1, onglet 6), les enfants étant repartis à nouveau. En 1980, l’appelante avait déjà fait l’acquisition d’une résidence secondaire à La Malbaie pour la somme d’environ 62 000 $, laquelle comprenait un lot avec la résidence comme telle, et un tiers indivis d’un autre lot vacant adjacent. La propriété à La Malbaie a été vendue en 2006.
+[8] Il ressort des comptes bancaires de la société que celle‑ci a transféré à l’appelante les montants requis pour les versements hypothécaires jusqu’au 1er mars 2002 et qu’à compter du 22 mars 2002, ces transferts bancaires se sont faits d’un compte personnel que s’est ouvert monsieur Biron, à celui de l’appelante (pièce A‑1, onglet 1).
+[9] Monsieur Biron a expliqué que puisque la société lui appartenait en totalité, il ne faisait pas la différence entre son compte personnel et celui de la société. Il a ouvert un compte personnel en 2002 alors qu’il s’est trouvé un emploi à salaire et à commission comme directeur des ventes. Selon les états financiers de la société, l’actif montre des avances à l’administrateur (monsieur Biron) de 162 089 $ en 1999, 301 206 $ en 2000, et 390 033 $ en 2001 (pièce A‑1, onglets 9 et 10). Monsieur Biron a reconnu que ces avances ne constituaient pas uniquement les dépenses reliées aux frais hypothécaires, mais également d’autres dépenses personnelles.
+[10] Il semblerait que ce sont sur ces avances que monsieur Biron a été cotisé, puisqu’il ne les a pas déclarées au fisc. Monsieur Biron ne recevait ni salaire ni dividende de la société.
+[11] En juin 2000, l’appelante a fait une demande de crédit pour un montant de 144 310 $, pour l’achat de la propriété sur la rue des Remparts (132 000 $) et la consolidation de deux prêts hypothécaires antérieurs (12 310 $), dont l’un était un prêt rénovation pour la résidence secondaire à La Malbaie (6 000 $) (pièce I‑5). Cet emprunt a été garanti par la propriété sur la rue des Remparts et la résidence à La Malbaie.
+[12] Monsieur Biron a fait une faillite personnelle le 8 janvier 2003 (pièce I‑6). La presque totalité des dettes était due au fisc provincial et fédéral (environ 215 000 $) et monsieur Biron ne déclarait pratiquement aucun actif (3 500 $ au total). L’appelante, son épouse, détenait alors la propriété sur la rue des Remparts et la résidence secondaire à La Malbaie, qu’elle a vendue, selon son témoignage, en septembre 2006 pour 375 000 $.
+[13] L’appelante a quant à elle témoigné qu’elle s’occupe de payer les dépenses de la maisonnée depuis le début de leur mariage.
+Arguments des parties
+[14] L’appelante soutient que les transferts d’argent dans son compte bancaire ont servi à payer principalement sinon presqu’uniquement les frais hypothécaires et l’assurance-vie. Si l’on suit la ligne de jurisprudence défendue dans les affaires Yates v. The Queen, 2007 TCC 498 (en appel devant la Cour d’appel fédérale); Ducharme c. La Reine, 2004 CCI 391 (confirmé par la Cour d’appel fédérale : 2005 CAF 137, [2005] A.C.F. no 713 (QL)); Ferracuti c. La Reine, 1998 CCI 96770, [1999] 1 C.T.C. 2420, [1998] A.C.I. no 883 (QL); Michaud c. Canada, [1998] A.C.I. no 908 (QL), 99 D.T.C. 43; Dupuis v. The Queen, 93 D.T.C. 723; et Leblanc c. La Reine, 2008 CCI 242, tout paiement en exécution d’une obligation légale de subvenir aux besoins de sa famille, dans la mesure où le paiement couvre des dépenses vitales et raisonnables, n’est pas touché par l’application de l’article 160 de la LIR.
+[15] L’intimée suit une autre ligne jurisprudentielle qui considère que les paiements effectués en exécution d’une obligation familiale constitue une libéralité sans contrepartie, et donc ces paiements sont visés par l’article 160, peu importe que ces paiements couvrent des dépenses familiales élémentaires (voir Tétrault c. Canada, 2004 CCI 332, [2004] A.C.I. no 265 (QL); Mathieu c. Canada, 2004 CCI 135, [2004] A.C.I. no 338 (QL); Raphael c. Canada, [2000] A.C.I. no 688 (QL); Logiucide c. Canada, [1997] A.C.I. no 742 (QL)). Alternativement, l’intimée soutient que l’appelante s’est enrichie avec ces transferts d’argent et qu’elle n’a donc pas donné une contrepartie équivalente à la juste valeur des montants transférés.
+Analyse
+[16] La contribution aux charges du mariage est une obligation juridique prévue à l’article 396 du Code civil du Québec :
+396. Les époux contribuent aux charges du mariage à proportion de leurs facultés respectives.
+396. The spouses contribute towards the expenses of the marriage in proportion to their respective means.
+Chaque époux peut s'acquitter de sa contribution par son activité au foyer.
+The spouses may make their respective contributions by their activities within the home.
+[17] Ainsi, j’adhère aux propos de la juge Lamarre Proulx dans l’affaire Michaud, précitée, que le « paiement de l’emprunt hypothécaire fait sur la demeure familiale n’est pas de la nature d’un transfert de biens fait sans contrepartie valable s’il est en fait en exécution de l’obligation légale de pourvoir aux besoins de sa famille » (paragraphes 19 et 20). Ceci semble d’ailleurs avoir été approuvé par la Cour d’appel fédérale, dans l’arrêt Ducharme, précité, où l’on reconnaît que les paiements hypothécaires versés par le mari sur la résidence familiale qui appartient à sa conjointe, ont été faits en contrepartie du droit que lui donne cette dernière de se servir de la résidence familiale. À mon avis, l’arrêt Ducharme vient jeter un doute sérieux sur la thèse élaborée dans l’affaire Tétrault, précitée, que les contributions aux charges du ménage constituent une simple libéralité, sans contrepartie. D’ailleurs, la Cour d’appel fédérale avait déjà mis en doute cette théorie dans l’arrêt Raphael c. Canada, 2002 CAF 23, [2002] A.C.F. no 82 (QL). Le juge de première instance avait alors dit que les « obligations familiales ne peuvent toutefois représenter une « contrepartie » au sens de l’article 160… » (Raphael c. Canada, [2000] A.C.I. no 688 (QL), précitée, au paragraphe 27). La Cour d’appel fédérale avait dit ce qui suit en appel de l’affaire Raphael :
+[12] Toutefois, il ne faut pas considérer que nous souscrivons à toutes les remarques que le juge de la Cour de l'impôt a faites au sujet de la question de savoir si une contrepartie peut être donnée entre le mari et sa conjointe de façon à empêcher l'application du paragraphe 160(1).
+[18] Par ailleurs, dans l’affaire Yates, précitée, en appel devant la Cour d’appel fédérale, le juge McArthur, de notre Cour, ajoute la restriction suivante :
+[19] I accept the second approach to the effect that certain limited payments made for some household expenses by a spouse, who is obligated to support his or her family, are not subject to subsection 160(1). I believe these expenditures should be for daily living necessities as opposed to permitting an accustomed lavish standard of living. The Appellant cited the following cases which support this: Michaud v. Canada7, Ferracuti v. Canada8, Laframboise v. Canada9, and Ducharme v. Canada10.
+7 [1998] T.C.J. 908.
+8 [1998] T.C.J. 883.
+9 [2002] T.C.J. No. 628.
+10 [2004] T.C.J. No. 284; [2005] F.C.J. No. 713.
+[19] Cette approche me semble raisonnable. On ne saurait permettre le transfert de sommes d’argent par un débiteur fiscal à son conjoint dans le but d’éluder le paiement de ses propres dettes fiscales, si ces transferts vont au-delà de ses obligations alimentaires.
+[20] Dans le cas présent, l’époux de l’appelante s’engageait par contrat de mariage à supporter en entier les charges du mariage. Sur une période de huit ans (1996‑2003), il est admis que l’appelante a généré 197 306 $ de revenus, alors que son mari en a cumulé 272 139 $ pour la même période, en faisant abstraction de l’année 2000, où il a négligé de produire sa déclaration de revenus. Ceci fait un revenu familial total de 469 445 $ sur huit ans, et un revenu annuel familial moyen de 58 680 $. Les parties reconnaissent que la société de monsieur Biron a transféré à l’appelante 53 539,85 $ sur cinq ans et que monsieur Biron lui a transféré 14 288,40 $ sur un peu moins de 11 mois. Ceci fait un total de 67 828,25 $ sur une période d’un peu moins de six ans, soit 11 305 $ par année. Si l’on considère le revenu moyen annuel familial de 58 680 $, monsieur Biron aurait donc transféré à l’appelante 19 % (11 305 $ ÷ 58 680 $) du revenu familial en paiements hypothécaires et assurance-vie (selon la preuve au dossier). Ce pourcentage serait encore moindre si l’on tenait compte du revenu non déclaré par monsieur Biron en 2002. Par ailleurs, on parle de versements de loyer mensuels variant entre 1 155 $ et 1 190 $ entre 1997 et 2000 et par la suite de versements hypothécaires sur un appartement acheté au coût de 132 000 $ en 2000. Ceci me paraît loin d’être exagéré.
+[21] Ce qui rebute l’intimée, ce sont les avances à l’administrateur qui sont passées de 162 089 $ en 1999 à 390 033 $ en 2001, sans être déclarées par monsieur Biron dans ses revenus. Ceci est ressorti en preuve mais n’a pas fait l’objet d’allégations dans la réponse à l’avis d’appel. L’intimée n’a pas démontré que ces sommes avaient été transférées à l’appelante. À part les transferts mentionnés plus haut et admis par l’appelante, rien ne nous indique à quoi ont servi les avances à l’administrateur. Monsieur Biron a mentionné que c’était pour ses dépenses personnelles. Il a peut-être contribué aux autres charges du ménage comme il se devait de le faire par contrat de mariage, mais il a peut-être aussi utilisé ces sommes pour son propre usage. L’appelante a témoigné de façon crédible et rien ne laisse entrevoir un rythme de vie exagéré et déraisonnable. Elle n’est pas en mesure de contrôler les obligations fiscales de son mari. L’article 160 de la LIR est certes là pour protéger le fisc des situations où l’un des conjoints s’enrichit à ses dépens. Mais ce n’est pas le cas ici. L’époux de l’appelante a contribué aux charges du ménage en faisant les versements hypothécaires et les versements sur l’assurance-vie, soit personnellement, soit par l’intermédiaire de sa société. L’appelante était en droit de recevoir ces sommes qui étaient déjà bien en-deçà de ce qu’il devait payer, si l’on considère qu’elle a généré 42 % du revenu total (toujours en faisant abstraction de 2002).
+[22] Quant à la résidence à La Malbaie, celle-ci fut acquise par l’appelante en 1980, pour une somme raisonnable de 62 000 $, à une époque bien antérieure aux années où monsieur Biron a commencé à accumuler les dettes fiscales. Le fait que cette résidence a été revendue à profit en 2006, soit après les années concernées, ne change en rien la situation eu égard à l’application de l’article 160 de la LIR, car cette propriété a toujours appartenu à l’appelante et ne peut donc être visée par l’article 160 qui parle de transfert d’un bien.
+[23] Il est vrai que cette résidence a servi de garantie au moment où l’appelante a emprunté la somme de 144 310 $ pour l’achat de la rue des Remparts, mais à mon avis, ce seul élément ne veut pas dire que l’appelante s’est enrichie au détriment du fisc.
+[24] En effet, la preuve n’a pas déterminé que les transferts des sommes d’argent à l’appelante ont servi à autre chose qu’aux obligations alimentaires juridiquement échues au conjoint, monsieur Biron. Le couple n’a pas fait de profit avec la vente de sa propriété en 1997, et en 2000 l’appelante a hypothéqué la totalité de la propriété sur la rue des Remparts. Les versements de monsieur Biron sur cette hypothèque constituaient une portion de sa contribution alimentaire pour laquelle il y a eu contrepartie, si l’on en juge de la décision rendue dans l’arrêt Ducharme.
+[25] Je considère donc que l’article 160 de la LIR ne trouve pas application dans les circonstances.
+[26] Les appels sont accueillis, avec dépens, et les cotisations sous appel sont annulées.
+Signé à Montréal, Québec, ce 27e jour de juin 2008.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2008 CCI 399
+Nº DU DOSSIER DE LA COUR : 2006-1119(IT)G
+INTITULÉ DE LA CAUSE : MURIEL MARCHAND c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 19 juin 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 27 juin 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me René Roy
+Avocat de l'intimée :
+Me Vlad Zolia
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me René Roy
+Cabinet : Fasken Martineau DuMoulin
+S.E.N.C.R.L., s.r.l.
+Québec (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

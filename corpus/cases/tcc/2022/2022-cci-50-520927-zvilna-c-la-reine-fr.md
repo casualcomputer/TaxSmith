@@ -1,0 +1,207 @@
+---
+title: "Zvilna c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520927/index.do"
+last_modified: "2022-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 50"
+citation2: ""
+neutral_citation: "2022 CCI 50"
+decision_date: "2022-05-20"
+language: "fr"
+item_id: "520927"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4521
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T12:06:42.258000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bb20e0192ccd093cc3dcdefc4e647066be16409c243548e0e10c46ccb674fee6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zvilna c. La Reine
+
+- Citation: 2022 CCI 50
+- Decision date: 2022-05-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4521, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zvilna c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-05-20
+Référence neutre
+2022 CCI 50
+Numéro de dossier
+2018-2482(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-2482(IT)G
+ENTRE :
+UGIS JEKABS ZVILNA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 26 octobre 2021, à Hamilton (Ontario).
+Devant : l’honorable juge suppléant Gaston Jorré
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Acinkoj Magok
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, les appels interjetés à l’encontre des cotisations portant les numéros 3441994 et 3441797, toutes deux datées du 30 septembre 2015, sont accueillis et les cotisations sont annulées.
+Il n’y aura aucune adjudication de dépens.
+Signé à Ottawa, Canada, ce 20e jour de mai 2022.
+« G. Jorré »
+Le juge suppléant Jorré
+Traduction certifiée conforme
+ce 14e jour de juillet 2022.
+François Brunet, réviseur
+Référence : 2022 CCI 50
+Date : 20220520
+Dossier : 2018-2482(IT)G
+ENTRE :
+UGIS JEKABS ZVILNA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Jorré
+Introduction
+[1] Notre Cour est saisie de l’appel interjetté à l’encontre de deux cotisations établies à son égard au titre de sa responsabilité en tant qu’administrateur le 30 septembre 2015 en application de l’article 227.1 de la Loi de l’impôt sur le revenu à l’égard des sommes dues par TASAC Ltd. Les cotisations concernent l’année d’imposition 2009 de la société.
+[2] En l’espèce, ne sont en cause ni la somme ni les conditions préalables énoncées au paragraphe 227.1(2) de la Loi. Il n’est pas soutenu que l’appelant était administrateur de fait.
+[3] Le paragraphe 227.1(4) de la Loi de l’impôt sur le revenu prévoit un délai de prescription pour les cotisations en vertu de l’article 227.1; il est rédigé ainsi :
+L’action ou les procédures visant le recouvrement d’une somme payable par un administrateur d’une société en vertu du paragraphe (1) se prescrivent par deux ans à compter de la date à laquelle l’administrateur cesse pour la dernière fois d’être un administrateur de cette société.
+[4] La question essentielle en l’espèce est une question factuelle : l’appelant a-t-il cessé d’être administrateur plus de deux ans avant le 30 septembre 2015?
+[5] L’une des difficultés en l’espèce tient à ce que des événements marquants ont eu lieu entre 2004 et 2006, bien avant l’établissement des cotisations.
+[6] L’appelant a présenté trois observations subsidiaires à l’appui de son appel. Je peux répondre à deux d’entre elles rapidement et je les examinerai en premier.
+L’appelant s’est retiré de la société et a ainsi cessé d’être administrateur
+[7] L’appelant affirme qu’à la fin de 2004 ou de 2005, il s’était complètement retiré de la société, il n’a joué aucun rôle dans la société et le seul autre actionnaire et administrateur, son épouse, était parfaitement au courant de ce qu’il n’était plus administrateur [1] .
+[8] Je retiens le témoignage de l’appelant sur ce point. Il n’y a absolument aucun élément de preuve en sens contraire.
+[9] En tenant compte de ce qui précède, l’appelant s’appuie sur une jurisprudence de notre Cour Perricelli c La Reine [2] . Il soutient que sa situation est similaire à celle de M. Perricelli : il a été jugé que M. Perricelli n’était pas administrateur, malgré l’absence de démission écrite.
+[10] Bien que je reconnaisse que la situation présente certaines ressemblances dans la mesure où aucun exemplaire d’une démission écrite n’a été produit en l’espèce [3] , une démission purement verbale d’un administrateur d’une société ontarienne n’a aucune valeur. Cela découle du paragraphe 121(2) de la Loi sur les sociétés par actions de l’Ontario [4] :
+La démission d’un administrateur prend effet à la date de réception par la société d’un écrit à cet effet ou à la date postérieure qui y est indiquée.
+[11] Le paragraphe 121(2) de la Loi sur les sociétés par actions de l’Ontario a été appliqué par la Cour d’appel fédérale à l’occasion de l’affaire Chriss c La Reine [sic] [5] .
+[12] Ainsi, l’appelant n’a pas cessé d’être administrateur en raison de son retrait de la société.
+La convention de séparation du 7 avril 2011 contenait la démission écrite de l’appelant [6]
+[13] Après un long délai, l’appelant et son épouse ont signé leur convention de séparation le 7 avril 2011. L’appelant soutient que l’alinéa 8.04c) constitue une démission écrite de son poste d’administrateur de la société.
+[14] L’alinéa c) est rédigé comme suit :
+[traduction]
+[...] À la prise d’effet de la présente convention,
+a) [...]
+[…]
+c) L’époux doit démissionner de ses fonctions de dirigeant, d’administrateur et d’employé de TASAC Ltd., à compter de la date de la présente convention.
+[…]
+[Non souligné dans l’original.]
+[15] L’alinéa a) stipule qu’à la prise d’effet de la convention, les livres des procès-verbaux et les documents de la société doivent être mis à jour. L’alinéa b) stipule que les formalités habituelles propres à la société doivent être accomplies afin de transférer les actions de l’appelant à l’épouse à compter de la date de la convention, notamment l’inscription du transfert dans les dossiers administratifs. Enfin, l’alinéa d) stipule que l’appelante renonce à toute réclamation présente ou future à l’égard de la société et des actions et de la participation de l’épouse dans la société.
+[16] Il est clair que l’alinéa 8.04c) constitue un engagement à démissionner une fois la convention de séparation signée. Il ne constitue pas en soi une démission. Ce constat est très clair si l’on considère que les alinéas a) et b) exigent également que des mesures soient prises une fois la convention de séparation signée et on les compare avec l’alinéa 8.04d) qui est rédigé comme suit :
+[traduction] L’époux renonce par la présente à toutes les réclamations présentes et futures à l’égard de TASAC Ltd, des actions et de la participation de l’épouse dans TASAC Ltd.
+[Non souligné dans l’original.]
+[17] Contrairement aux autres alinéas de l’article 8.04, l’alinéa 8.04d) n’exige aucune autre mesure.
+[18] En conséquence, la convention de séparation ne constitue pas une démission écrite comme l’exige le paragraphe 121(2) de la Loi sur les sociétés par actions [7] de l’Ontario.
+La question principale : L’appelant a-t-il démissionné par écrit et remis sa démission à son épouse, l’autre administrateur de la société?
+[19] Les difficultés en l’espèce découlent du fait que l’appelant n’a pas produit une démission écrite.
+[20] L’appelant et Lorin Flaum Zvlina se sont mariés en juillet 1997.
+[21] Pendant le mariage, l’appelant et son épouse possédaient plusieurs petites sociétés. Certaines appartenaient entièrement à l’appelant. L’un d’entre ells appartenait entièrement à l’épouse. L’appelant et son épouse possédaient chacun 50 % des actions de deux sociétés; l’une de ces deux sociétés était TASAC Ltd., la seule société pertinente quant aux cotisations faisant l’objet du présent appel.
+[22] TASAC Ltd. a été constituée en société au début de 1993. L’appelant a été nommé administrateur au même moment et l’épouse est devenue administrateur en juillet 1997 [8] .
+[23] Dans les quelques prochains paragraphes, je ferai référence à certaines dates de 2004. En examinant l’ensemble des éléments de preuve, je crois que ces événements ont eu lieu en 2004. Cependant, les éléments de preuve quant à la question de savoir si ces événements ont eu lieu en 2004 ou 2005 sont confus. Cependant, aux fins du présent appel, il importe peu que ces événements aient eu lieu en 2004 ou en 2005.
+[24] Au début de 2004, l’appelant a informé son épouse qu’il souhaitait quitter leurs sociétés communes et créer sa propre société. TASAC devient uniquement la société de l’épouse [9] .
+[25] En avril 2004, il a constitué une nouvelle société qu’il a exploitée dans des locaux situés à Aberfoyle Crescent. À partir de ce moment, il a cessé de participer à TASAC Ltd. [10] .
+[26] À l’Action de grâces de 2004, l’appelant a quitté le foyer familial. L’appelant a trouvé la séparation très stressante. Ce n’était pas amical dans la mesure où une fois qu’il avait quitté la maison, il ne devait plus jamais y revenir. Le jour de son départ, il a emporté des vêtements et il n’est jamais revenu au foyer familial.
+[27] Même si les éléments de preuve prêtaient à confusion, je conclus que l’appelant essayait du mieux qu’il pouvait de répondre honnêtement sur les événements qui sont survenus il y a de nombreuses années qui ont dû être une période très stressante.
+[28] La convention de séparation était pour ainsi dire prête à être signée six ans avant qu’elle soit bel et bien signée en 2011. L’appelant a déclaré lors de son témoignage qu’elle a été négociée rapidement et facilement.
+[29] Il y a eu des difficultés à faire signer la convention de séparation [11] .
+[30] Quelque temps après que l’appelant a quitté la maison familiale à l’Action de grâces et avant 2006, lui et son épouse se sont réunis.
+[31] Lors de cette réunion, de nombreux documents ont été signés, y compris la démission de l’appelant du poste d’administrateur et les documents transférant la participation et les actions de l’appelant dans TASCAN afin que l’épouse en soit l’unique propriétaire. J’en déduis qu’à ce moment-là toutes les exigences des alinéas 8.04b) et c) de la convention de séparation ont été respectées, bien avant qu’elle ne soit signée. L’appelant a laissé les documents à son épouse [12] .
+[32] À la même occasion, l’épouse a signé les documents nécessaires pour démissionner de son poste d’administrateur et transférer sa participation dans une autre société qu’ils avaient détenue conjointement, Southwest Television Advertising Corporation, afin que l’appelant en soit le seul propriétaire [13] .
+[33] Par conséquent, au moment où la convention de séparation a été signée en 2011, les exigences des sous-alinéas 8.04b) et c), notamment sa démission au poste d’administrateur et la remise de celle-ci à la société en la remettant à son épouse, avaient déjà été remplies.
+Conclusion
+[34] Ayant conclu que l’appelant a démissionné par écrit et laissé sa démission à son épouse, l’autre administrateur, avant 2006, il s’ensuit que l’appelant a valablement démissionné du poste d’administrateur plus de deux ans avant l’établissement des cotisations en cause [14] .
+[35] Par conséquent, les appels sont accueillis et les deux cotisations en cause seront annulées. Il n’y aura aucune adjudication de dépens [15] .
+Signé à Ottawa, Canada, ce 20e jour de mai 2022.
+« G. Jorré »
+Le juge suppléant Jorré
+Traduction certifiée conforme
+ce 14e jour de juillet 2022.
+François Brunet, réviseur
+RÉFÉRENCE :
+2022 CCI 50
+NO DU DOSSIER DE LA COUR :
+2018-2482(IT)G
+INTITULÉ :
+UGIS JEKABS ZVILNA ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 26 octobre 2021
+TRANSCRIPTION REÇUE PAR LA COUR :
+Le 18 novembre 2021
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Gaston Jorré
+DATE DU JUGEMENT :
+Le 20 mai 2022
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Acinkoj Magok
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+En blanc
+Cabinet :
+En blanc
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Il y a beaucoup de confusion quant à savoir si l’appelant a quitté la résidence familiale à l’Action de grâces de 2004 ou à l’Action de grâces de 2005. Aux fins du présent appel, il n’est pas vraiment important de savoir quand, parmi ces deux années, l’événement s’est produit.
+[2] Vito Perricelli c La Reine, 2002 CanLII 953.
+[3] Je fais remarquer que l’appelant a déclaré lors de son témoignage qu’il y avait eu une démission écrite bien qu’il y ait eu beaucoup de confusion dans son témoignage entre la démission écrite et le dépôt de l’avis de démission aux fins de la Loi sur les renseignements exigés des personnes morales.
+[4] Je ferais remarquer qu’en analysant la présente affaire, je n’ignore pas la présomption réfutable du paragraphe 262 (3) de la Loi sur les sociétés par actions de l’Ontario.
+[5] 2016 CAF 236, aux paragraphes 9 à 15. Les motifs de l’arrêt Chriss valent également pour à l’appel concernant Gariepy c La Reine.
+[6] La convention se trouve à l’onglet 12 de la pièce R-1.
+[7] Vu que l’épouse de l’appelant était le seul autre administrateur de la société, il aurait bien pu en être autrement si la formulation avait été : [traduction] « […] par la présente, l’époux démissionne de son poste de dirigeant, d’administrateur […] ».
+[8] Voir les pages 1, 2 et 5 du rapport sur le profil de la société à l’onglet 7 de la pièce R-1.
+[9] Voir les pages 26 et 27 de la transcription.
+[10] Voir les pages 26 et 36 de la transcription.
+[11] Outre la modification de la date de la convention, il semble que des modifications ultérieures aient été apportées à l’article 3 concernant la pension alimentaire pour enfants. Ces modifications semblent avoir été faites pour prendre en compte de ce qui s’était passé jusqu’à la fin de 2009.
+[12] Étant donné que les éléments de preuve prêtent à confusion, j’ai examiné la transcription à plusieurs reprises. La question clé en l’espèce est la suivante : l’appelant a-t-il démissionné par écrit et a-t-il remis sa démission à l’autre administrateur, son épouse, réultant ainsi en la réception de la démission par la société? En examinant l’ensemble des éléments de preuve, je conclus que :
+· Lorsque l’appelant affirme qu’il a déclaré à son comptable en 2015 ou en 2016 [traduction] « je n’y ai jamais pensé » et que celui-ci lui a dit qu’il le retirerait des registres et présenterait la démission, il devait faire référence aux obligations qu’impose la Loi sur les renseignements exigés des personnes morales de l’Ontario, voir les lignes 1 à 8, p. 29 de la transcription. Il ne s’agissait pas d’une référence à la démission écrite.
+· Cependant, ce que l’appelant a appris du récit lors de cette réunion semble avoir été très présent dans son esprit lorsqu’il a témoigné.
+· Il a fait souvent référence au défaut d’envoyer un avis de démission (comme l’exige la Loi sur les renseignements exigés des personnes morales de l’Ontario) lorsqu’on lui a demandé s’il avait remis sa démission par écrit.
+· Il a déclaré aussi qu’il avait signé un document de démission.
+Voir, par exemple : I. 25, p. 37 à l. 9, p. 40; l. 28, p. 46 à l.1, p. 48; p. 56, l.6 à l.14 de la transcription.
+Je reconnais que l’appelant, dans son témoignage, déclare qu’il n’a pas de souvenir précis d’avoir signé des documents précis, mais il se souvient qu’ils ont signé les documents nécessaires afin que son épouse devienne l’unique propriétaire de la société. Il a également déclaré que son épouse souhaitait vivement exercer le contrôle complet de cette société. Je conclus qu’elle a conservé la démission.
+Cela est conforme non seulement avec le fait que son épouse souhaitait exercer le contrôle exclusif de TASCAN, mais également avec le fait qu’elle dirige l’entreprise depuis 2004 ou 2005. Cela est également conforme à la convention de séparation.
+[13] La Southwest Television Advertising Corporation est mentionnée à l’article 8.03 de la convention de séparation.
+[14] Vu ma conclusion, il n’est pas nécessaire que j’examine toute question de diligence raisonnable. Cependant, après qu’il eut complètement cessé toute participation dans TASCAN avant 2006, s’il avait été administrateur, aucun moyen de défense tire de la diligence raisonnable n’aurait pu être présenté.
+[15] La présente affaire s’est déroulée dans une instance sous le régime de la procédure générale jusqu’au début du procès inclusivement. Au cours du procès, une demande a été présentée pour soumettre l’affaire à la procédure informelle et j’ai rendu une ordonnance lors de l’audience transférant le présent appel à la procédure informelle.

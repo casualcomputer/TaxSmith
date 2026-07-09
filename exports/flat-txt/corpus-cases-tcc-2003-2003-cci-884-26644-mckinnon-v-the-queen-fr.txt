@@ -1,0 +1,117 @@
+Title: McKinnon v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26644/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-884-26644-mckinnon-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-12-03
+
+# McKinnon v. The Queen
+
+- Citation: 2003 CCI 884
+- Decision date: 2003-12-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3652, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McKinnon v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-03
+Référence neutre
+2003 CCI 884
+Numéro de dossier
+2001-2757(IT)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-2757(IT)G
+ENTRE :
+GORDON MURRAY McKINNON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 25 novembre 2003 à Vancouver (Colombie-Britannique)
+Devant : L'honorable juge en chef adjoint D. G. H. Bowman,
+Comparutions
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Kristy Foreman Gear
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de l'article 227.1 de la Loi de l'impôt sur le revenu, dont l'avis est daté du 14 avril 2000 et qui porte le numéro 13405, est accueilli, et la cotisation est annulée.
+L'appelant a droit à ses dépens, s'il en est.
+Signé à Montréal (Québec), ce 3e jour de décembre 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 24e jour de mars 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI884
+Date : 20031203
+Dossier : 2001-2757(IT)G
+ENTRE :
+GORDON MURRAY McKINNON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman
+[1] Il s'agit d'un appel interjeté à l'encontre de la cotisation établie en vertu de l'article 227.1 de la Loi de l'impôt sur le revenu fondée sur le défaut de paiement, par la société de l'appelant, des retenues salariales relativement à ses employés. Le montant total évalué s'élève à 25 465,02 $, dont 11 755,47 $ correspondent à l'impôt fédéral, et le reste comprend des contributions au Régime de pensions du Canada et des cotisations d'assurance-emploi non versées ainsi que des pénalités et des intérêts. Le total des pénalités et des intérêts est supérieur aux montants qui, selon la Couronne, auraient dû être versés par la société.
+[2] L'appelant est le président, l'unique actionnaire et l'unique administrateur de Fast Track Glass and Aluminium Limited (la « société » ou « Fast Track » ), société qu'il a constituée en personne morale en 1993, après qu'une autre société où il était employé a cessé ses activités. Son but était de mettre sur pied une petite entreprise qui devait s'occuper de la fabrication et de l'installation de portes en verre et de fenêtres.
+[3] L'appelant possédait une expérience considérable dans ce domaine. En vue de cette opération, il a suivi un cours de gestion de petite entreprise à la St. Mary's University à Halifax. Il s'est aussi adressé à un certain nombre de banques et d'autres institutions financières pour obtenir une marge de crédit, mais sans succès. Il s'est efforcé d'intéresser d'autres investisseurs, dont Annour Group Limited et le Micro Enterprise Equity Fund de la St. Mary's University, mais en vain.
+[4] Il a présenté des plans d'affaires à des bailleurs de fonds et investisseurs possibles, mais bien que ces plans aient été raisonnables et prudents, et qu'au moins un investisseur possible les ait considérés comme excellents, il n'a pas réussi à réunir de capitaux, ni sous forme d'emprunt ni sous forme de capitaux propres, à l'exception d'une marge de crédit de 4 000 $ consentie par Credit Union Atlantic. L'entreprise a néanmoins démarré et, à la fin de 1996, les résultats semblaient justifier l'optimisme initial et l'initiative de l'appelant. Le 29 avril 1996, M. McKinnon a écrit à Peat Marwick Thorne en déclarant que la société avait pour 125 000 $ de contrats et que, au mois suivant, elle en aurait pour 230 000 $. Selon l'état des résultats de la société pour la période allant du 1er décembre 1995 au 30 novembre 1996, les recettes totales de la société dépassaient 486 000 $.
+[5] Il y avait bien un problème en 1996, mais il n'était pas insurmontable. La facturation progressive et le paiement des factures progressives avaient lieu plus tard par rapport au paiement des travailleurs, qui étaient rémunérés chaque semaine ou toutes les deux semaines. Par conséquent, les paiements des retenues salariales versés au receveur général du Canada étaient souvent en retard, mais ils étaient faits. Si le seul problème était le retard des paiements de retenues salariales, la présente affaire ne serait pas survenue. Le problème tient au défaut de paiement de deux montants, l'un de 5 403,82 $ le 12 mars 1997 pour 1996 et l'autre de 6 351,65 $ le 6 mai 1997 pour 1997. Il n'y avait tout simplement pas d'argent pour faire ces deux paiements. La société a versé un dernier paiement de 5 000 $ le 29 avril 1997.
+[6] L'insuffisance de trésorerie qui a mis l'appelant dans l'impossibilité de verser les paiements au receveur général du Canada était attribuable à deux événements, dont aucun n'aurait pu être prévu par M. McKinnon. Le premier a été la perte d'une affaire de distribution de cartes de souhaits qu'il dirigeait par l'intermédiaire de la société. Cette source de revenu constituait une part suffisante des recettes de la société pour lui permettre de s'acquitter de ses obligations, y compris celle de payer les retenues salariales au gouvernement. En mars 1996, l'entreprise de cartes de souhaits a mis un terme à sa relation d'affaires avec l'appelant et par la même occasion, cette source de flux de trésorerie s'est tarie.
+[7] Le second événement, beaucoup plus grave, concerne les relations de la société avec un entrepreneur, Rideau Construction Incorporated ( « Rideau » ). Fast Track avait été retenue comme sous-traitant pour installer le verre à la tour de contrôle de la circulation aérienne de Halifax et au palais de justice d'Antigonish. Rideau était l'entrepreneur général des deux projets. Le prix du projet de Halifax s'élevait à 105 500 $ et celui du projet d'Antigonish, à 47 000 $. M. McKinnon avait fait affaire avec Rideau auparavant sans avoir de difficulté à se faire payer. En acceptant ces contrats, il se montrait fidèle à sa pratique prudente de ne choisir que des projets à faible risque intéressant des municipalités ou d'autres gouvernements.
+[8] En 1997, Rideau a refusé, de manière arbitraire et abusive, de payer le montant intégral du prix indiqué au contrat et a donc retenu d'une manière inappropriée un total de 58 000 $ du montant qu'elle devait à Fast Track, en invoquant frauduleusement des travaux non conformes concoctés par elle. Fast Track a intenté une action en justice suivant les directives de M. McKinnon mais a dû y renoncer en 2000 en raison du manque de fonds. M. McKinnon a déclaré qu'au moment où il a reçu la cotisation, il ne pouvait pas emmener à la fois le gouvernement et Rideau devant les tribunaux. Cela n'a bien entendu aucun rapport avec la présente décision mais on voit ici le degré de frustration, pour ne pas dire de désespoir, que ressentait l'appelant. Il a perdu tout ce qu'il possédait, y compris sa maison, et a déménagé en Colombie-Britannique pour y travailler comme estimateur principal.
+[9] L'appelant a fait grande impression sur moi par la façon dont il s'est comporté à la barre des témoins. Je l'ai trouvé honnête et franc. Il a travaillé avec son épouse pour assurer la prospérité de Fast Track, mais il a échoué pour des raisons indépendantes de sa volonté.
+[10] Juste et consciencieuse comme à son habitude, l'avocate de l'intimée a déclaré que l'appelant n'avait pas fait preuve de diligence raisonnable[1] en deux occasions :
+a) lorsqu'il a mis sur pied l'entreprise sans s'assurer de disposer d'un capital permanent suffisant au moyen de marges de crédit plus élevées,
+b) lorsqu'il n'a pas mis fin aux activités de la société dès le début de ses problèmes de trésorerie, au moment où l'entreprise de cartes de souhaits a cessé de faire affaire avec l'appelant.
+[11] L'avocate m'a renvoyé à un certain nombre de décisions où les faits offrent quelque ressemblance avec ceux en l'espèce. La décision Short c. R.,C.F. 1re inst., T-291-91, 19 mai 1999 ([1999] 3 C.T.C. 435) concerne comme ici une entreprise de construction dans une province des Maritimes. La Cour de l'impôt et la Cour fédérale, Section de première instance, ont toutes deux conclu d'après les faits que M. Short n'a pas montré le degré de soin, de diligence et d'habileté requis pour s'acquitter du fardeau imposé par les dispositions du paragraphe 227.1(3) de la Loi. Le juge Margeson a tiré la même conclusion dans l'affaire Blanchard c. R., C.C.I., nos 98-402(IT)G, 98-629(IT)G, 5 juin 2000 ([2000] 4 C.T.C. 2131), à l'instar de la juge Lamarre Proulx dans l'affaire Ruffo c. R., C.C.I., no 95-2294(IT)G, 6 mai 1997 ([1998] 2 C.T.C. 2203), du juge Mogan dans l'affaire W.F. Zwierschke c. M.R.N., C.C.I., no 89-1633(IT), 22 novembre 1991 ([1991] 2 C.T.C. 2783 et du juge Archambault dans l'affaire Fauteux c. R., C.C.I., no 93-871(IT)G, 23 mai 1996 ([1997] 3 C.T.C. 2277).
+[12] Chacune de ces affaires dépend des faits qui lui sont propres et s'appuie dans une certaine mesure sur l'appréciation du juge de première instance quant à la crédibilité, au caractère et au comportement général de l'administrateur à la barre des témoins. Comme le déclarait le juge d'appel Rothstein dans les motifs concordants de l'affaire Worrell c. R., [2001] 2 C.F. 203 ([2000] G.S.T.C. 91) à la page 210 (G.S.T.C. à la page 91-94), « [l]e moyen de défense de la diligence raisonnable est étroitement lié aux faits du cas d'espèce, c'est-à-dire qu'il faut toujours comparer ce qu'ont fait les administrateurs pour prévenir le défaut, à ce qu'aurait fait une personne raisonnablement prudente dans des circonstances comparables. » Je crois juste de dire qu'avant un certain nombre de jugements rendus par la Cour d'appel fédérale que j'énumérerai ci-dessous, certains juges de la Cour canadienne de l'impôt plaçaient la barre trop haut pour être réalistes. Cette approche est considérablement adoucie par la Cour d'appel fédérale. La première de ces affaires est celle de Soper c. R., [1998] 1 C.F. 124 ([1997] 3 C.T.C. 242), dans laquelle le juge d'appel Robertson énonce une certain nombre de principes relativement à la norme de diligence.
+[13] Vient ensuite la décision de la Cour d'appel fédérale dans l'affaire La Reine c. Corsano et al., [1999] 3 C.F. 173 (99 DTC 5658), où le juge d'appel Noël souscrit à l'analyse de la norme de diligence du paragraphe 227.1(3) énoncée par le juge d'appel Létourneau.
+[14] L'un des passages que je crois particulièrement utiles se trouve dans l'affaire Smith c. La Reine, C.A.F., no A-154-00, 26 mars 2001 (2001 DTC 5226) à la p. 5231, aux alinéas [31] et [32], où le juge d'appel Sharlow s'exprime ainsi :
+[31] Le juge de la Cour de l'impôt semble avoir reconnu que M. Smith a fait des efforts en juin 1995 et après cette date, mais il fait remarquer ceci, au paragraphe 138 :
+Aucune des mesures qu'il a prises n'a permis à Revenu Canada de recevoir les montants en cause.
+et, au paragraphe 142 :
+La Cour est convaincue que les mesures prises par l'appelant n'ont nullement permis de prévenir le manquement.
+[32] Il me semble que ces commentaires font ressortir une autre erreur du juge de la Cour de l'impôt dans son analyse de la défense de diligence raisonnable. La seule obligation d'un administrateur est celle d'agir raisonnablement dans les circonstances. Le fait que ses efforts n'ont pas donné de résultats ne vient pas démontrer qu'il n'a pas agi de façon raisonnable.
+Ce commentaire a été suivi par le juge d'appel Linden dans la décision Cameron c. La Reine, C.A.F., no A-763-99, 19 juin 2001 (2001 DTC 5405).
+[15] La Cour d'appel fédérale offre dans ces jugements des conseils qui nous sont utiles pour rendre une décision en l'espèce. Dans l'affaire Fremlin v. R., 2002 G.S.T.C. 65 de 65-8 à 65-9, j'ai fait référence à ces jugements et expliqué les grandes lignes de l'approche que j'ai suivie et que je crois conforme aux décisions de la Cour d'appel fédérale.
+[traduction]
+30 J'observerai maintenant si les appelants ont agi avec le degré de soin, de diligence et d'habileté qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+31 De nombreuses affaires portent sur la responsabilité des administrateurs en vertu de l'article 323 de la Loi sur la taxe d'acciseet de l'article 227.1 de la Loi de l'impôt sur le revenu. Dans deux affaires récemment entendues par la présente cour, on a examiné les décisions de la Cour d'appel fédérale et remarqué le critère moins strict énoncé dans cette cour.
+32 Dans la décision Mosier c. R., [2001] A.C.I. no 692 (C.C.I. [procédure générale]), j'avais affaire à l'administrateur d'une entreprise dont les finances étaient entièrement sous le contrôle de la banque. Aux alinéas 33 à 35, il apparaît ce qui suit :
+[33] On doit se demander ce qu'il aurait pu faire d'autre. La réponse : absolument rien. Cette affaire me rappelle de bien des façons l'affaire Holmes c. R., C.C.I., no 1999-2182(IT)I, 19 avril 2000 ([2000] 3 C.T.C. 2235), dans le cadre de laquelle les administrateurs n'étaient pas en mesure d'assurer le remboursement de l'ADRC car les finances de la société étaient entièrement contrôlées par son fournisseur. Aux pages 8 et 9 (C.T.C. : aux pages 2241 et 2242), je me suis reporté à une décision antérieure qui se lit comme suit :
+J'ai présenté dans l'affaire Cloutier c. M.R.N., C.C.I., no 90-3532(IT), 23 mars 1993, aux pages 4 et 5 (93 D.T.C. 544, aux pages 545 et 546), mon approche dans ces affaires.
+Il s'agit donc de trancher une question de fait; la Cour doit essayer, dans la mesure du possible, de déterminer ce qu'une personne raisonnablement prudente aurait dû et aurait pu faire à l'époque dans des circonstances comparables. Les tentatives faites par les tribunaux pour évoquer l'hypothétique personne raisonnable ne se sont pas toujours soldées par une réussite incontestable. Des critères ont été élaborés, affinés et réitérés de manière à donner au processus une apparence de rationalité et d'objectivité, mais, en fin de compte, le juge chargé de rendre une décision doit appliquer ses propres notions du bon sens et de l'équité. Il est facile de faire preuve de sagesse après coup. Le tribunal doit essayer d'éviter de se demander : qu'aurais-je fait en sachant ce que je sais maintenant? Ce n'est pas ce genre de jugement ex post facto qu'il nous faut porter en l'espèce. Bien des décisions subjectives qui se révèlent ultérieurement mauvaises n'auraient pas été prises, si, au moment de les prendre, la personne avait su ce qui allait se passer ensuite.
+L'article 227.1 en fournit un exemple. Cet article impose aux administrateurs une norme de soin qui les oblige à faire preuve d'une prudence et d'une habileté raisonnables pour veiller à ce que les fonds obtenus grâce au programme de CIRS servent bel et bien à des travaux de recherche scientifique, faute de quoi l'impôt de la partie VIII doit être payé soit à l'aide des fonds ainsi obtenus, soit par d'autres moyens. Pour déterminer si cette norme a été satisfaite, il faut se demander si, à la lumière des faits existant à l'époque dont l'administrateur avait ou aurait dû avoir connaissance et en fonction des différentes voies qui s'offraient à lui, l'administrateur a choisi celle qu'une personne raisonnablement prudente aurait choisie dans les circonstances et dont on pouvait raisonnablement s'attendre à ce qu'elle permette de s'acquitter de l'obligation fiscale. Le fait que la voie choisie ne se soit pas révélée la bonne n'est pas déterminant. Dans les affaires de ce genre, l'omission de payer l'impôt de la partie VIII découle habituellement soit d'un mauvais choix fait de bonne foi, soit d'un manquement ou d'un aveuglement délibéré de la part de l'administrateur.
+Je considère comme avéré que M. et Mme Holmes n'auraient vraisemblablement rien pu faire pour éviter la faillite. Ils me semblent être des gens convenables et honnêtes qui ont fait de leur mieux pour s'assurer que la société s'acquitte de ses obligations, mais les circonstances économiques leur ont rendu la tâche impossible.
+[34] Cette approche que j'ai suivie dans d'autres affaires est, à mon avis, compatible avec la série d'affaires de la Cour d'appel fédérale qui ont invariablement modifié les normes rigoureuses appliquées par cette cour. Les affaires de la Cour d'appel fédérale que je mentionne sont La Reine c. Corsano (précitée), Worrell c. R., (C.A.), [2001] 2 C.F. 203 ([2000] G.S.T.C. 91), Smith c. La Reine, C.A.F. no A-154-00, 26 mars 2001 (2001 D.T.C. 5226), Cameron c. La Reine, C.A.F., no A-763-99, 19 juin 2001 (2001 D.T.C. 5405) et Soper c. La Reine, (C.A.), [1998] 1 C.F. 124 (97 D.T.C. 5407).
+[35] Il m'est inutile de citer ces affaires. Elles soutiennent la proposition visant à établir qu'en vertu de l'article 227.1 de la Loi de l'impôt sur le revenu et du paragraphe 323(3) de la Loi sur la taxe d'accise, les administrateurs ont seulement l'obligation d'agir de façon raisonnable. Ils ne demandent pas l'impossible. Je n'ai donc aucune hésitation à adopter cette approche.
+[16] Je reviens donc à la question suivante : qu'est-ce que M. McKinnon aurait pu faire raisonnablement pour prévenir le défaut de paiement? Le facteur contribuant le plus important est le refus tout à fait inattendu de Rideau de payer le montant convenu. M. McKinnon a chargé son avocat d'intenter une poursuite mais dans ce processus qui exige beaucoup de temps et d'argent, il s'est heurté aux réponses évasives, aux faux-fuyants et à l'arrogance de Rideau et de ses avocats. M. McKinnon a fait tout son possible pour maintenir la société à flot et s'acquitter de ses obligations. À mon avis, la réponse toute faite de l'Agence des douanes et du revenu du Canada, « Vous auriez dû baisser les bras et laisser la société faire faillite » , n'est ni réaliste au point de vue commercial ni moralement défendable. Elle insinue qu'une personne comme M. McKinnon, qui a investi tout ce qu'il possédait et tout son temps dans la création de sa société, peut simplement s'en désintéresser, abandonner tout ce qu'il a bâti et laisser ses employés et leurs familles en plan. Si tout le monde agissait ainsi, beaucoup d'autres sociétés qui arrivent à survivre fermeraient simplement leurs portes au premier petit problème.
+[17] Ce genre d'affaire est généralement difficile. Nous partons du fait indéniable que les retenues salariales ou la taxe sur les produits et services n'ont pas été payées, de sorte que l'ADRC se tourne vers l'administrateur. Dans cet état d'esprit, il est en règle générale plus facile de rejeter l'appel d'un administrateur que de l'admettre. Bien souvent, l'administrateur qui est imposé a des ennuis financiers, n'a pas les moyens de payer un avocat et tente de se représenter lui-même. Avec le recul, il est facile à l'ADRC ou au juge de dire à l'administrateur tout ce qu'il aurait dû faire. En l'espèce, l'ADRC déclare à M. McKinnon « Vous n'auriez jamais dû vous lancer dans cette entreprise et après l'avoir fait, vous auriez dû en sortir plus tôt » . Je suppose que cela aurait prévenu le défaut de paiement mais tout le monde, y compris le gouvernement, y aurait perdu. Cette ligne de conduite aurait été déraisonnable.
+[18] L'autre argument que l'on entend souvent dans ce genre d'affaire et que je considère tout aussi fallacieux est celui-ci : « Vous voliez de l'argent détenu en fiducie pour la Couronne afin de faire marcher votre entreprise et de payer vos employés. » Il s'agit là, selon moi, d'une caractérisation inexacte et injuste. On insinue par là qu'il existe un compte distinct (une jarre à biscuits, si l'on veut) dans laquelle on dépose les retenues salariales et dont on les retire pour payer les dépenses de la société. La vérité, c'est qu'il n'y a pas de jarre à biscuits, réelle ou notionnelle, et pas d'argent à y déposer même s'il en existait une. Le montant net versé aux employés est tout ce dont on dispose. Les employés, les fournisseurs et les autres créanciers sont payés parce que s'ils ne le sont pas, la société devra fermer. Lorsque, comme dans le cas présent, des événements survenants imprévus mettent une personne dans l'impossibilité de payer les retenues salariales au gouvernement, je ne crois pas que l'appelant ait pu raisonnablement faire quoi que ce soit pour assurer le paiement.
+[19] L'appel est accueilli et la cotisation est annulée.
+[20] L'appelant a droit à ses dépens, s'il en est.
+Signé à Montréal (Québec), ce 3e jour de décembre 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 24e jour de mars 2004.
+Nancy Bouchard, traductrice
+[1] J'emploie cette expression comme une locution sténographique englobant le critère dont il est question au paragraphe 227.1(3) de la Loi de l'impôt sur le revenu, rédigé dans les termes suivants :
+(3) Un administrateur n'est pas responsable de l'omission visée au paragraphe (1) lorsqu'il a agi avec le degré de soin, de diligence et d'habileté pour prévenir le manquement qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables.

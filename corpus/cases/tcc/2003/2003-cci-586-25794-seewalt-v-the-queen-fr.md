@@ -1,0 +1,124 @@
+---
+title: "Seewalt v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25794/index.do"
+last_modified: "2003-08-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 586"
+citation2: ""
+neutral_citation: "2003 CCI 586"
+decision_date: "2003-08-14"
+language: "fr"
+item_id: "25794"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3804
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:52:03.794000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "992dd48a1feebfcee95971e6bd0f6e34006ef9d8ed2f7229d30ce5ce27e76295"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Seewalt v. The Queen
+
+- Citation: 2003 CCI 586
+- Decision date: 2003-08-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3804, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Seewalt v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-08-14
+Référence neutre
+2003 CCI 586
+Numéro de dossier
+2003-579(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-579(IT)I
+ENTRE :
+BRENDA J. SEEWALT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 5 août 2003 à Calgary (Alberta)
+Devant : L'honorable juge Gerald J. Rip
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Mark Heseltine
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté.
+Signé à Ottawa, Canada, ce 14e jour d'août 2003.
+« Gerald J. Rip »
+J.C.C.I.
+Traduction certifiée conforme ce 20e jour de mai 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI586
+Date : 20030814
+Dossier : 2003-579(IT)I
+ENTRE :
+BRENDA J. SEEWALT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] Brenda Seewalt interjette appel à l'encontre de la cotisation fiscale visant l'année 2001 dans laquelle le ministre du Revenu national a refusé sa demande au titre du crédit d'impôt pour personnes handicapées ( « CIPH » ) en vertu de l'article 118.3 de la Loi de l'impôt sur le revenu.
+[2] Mme Seewalt est atteinte de la maladie de Crohn depuis 1973 et de sclérose en plaques ( « SEP » ) depuis 1999. L'intimée convient que les déficiences dont souffre Mme Seewalt en raison de ces maladies sont prolongées et durent depuis plus de 12 mois.
+[3] Un Certificat pour le crédit d'impôt pour personnes handicapées venant du médecin de Mme Seewalt, le Dr Vervaeck, et daté du 24 avril 2002, était joint à la déclaration de revenus de 2001 de Mme Seewalt. Sur ce certificat, le Dr Vervaeck admettait que Mme Seewalt pouvait voir, marcher, parler, percevoir, penser et se souvenir, entendre, s'alimenter et s'habiller elle-même, et qu'elle pouvait assumer elle-même ses fonctions vésicales et intestinales. Cependant, le Dr Vervaeck a attesté que Mme Seewalt avait besoin, pour soutenir au moins une fonction vitale, d'un traitement de survie, comme la percussion pour aider la respiration, et la dialyse pour filtrer le sang au moins trois fois par semaine pendant en moyenne 14 heures par semaine : paragraphe 118.3(1). Selon le Dr Vervaeck, les traitements nécessaires à Mme Seewalt étaient un médicament et des soins d'entretien.
+[4] Mme Seewalt a décrit ce traitement comme « essentiel au maintien de la vie » . Le médicament qui lui a été prescrit en 2001 était du Dexedrin pour SEP; Mme Seewalt prenait un comprimé deux fois par jour. Elle recevait aussi une injection de vitamine B12 une fois par mois. La durée de l'administration de ce traitement était en moyenne inférieure à 14 heures par semaine. L' « entretien » comprenait du repos, une alimentation convenable et des visites régulières chez le médecin. Mme Seewalt a déclaré qu'elle devait suivre un programme d'entretien très strict pour être en mesure de travailler à plein temps, ce qu'elle faisait et continue de faire.
+[5] Selon l'explication de Mme Seewalt, entre 90 et 100 p. 100 du temps, la SEP la rend sujette à la dépression, à l'anémie et, en particulier, à la fatigue. La fatigue est dans sa vie un symptôme important causé par la SEP. À deux reprises après 2001, elle a subi des accès de cécité dans un oeil qui ont duré une semaine ou deux. La plupart du temps, Mme Seewalt peut marcher, mais elle a souvent des douleurs à la jambe et ne peut pas aller plus loin qu'à d'une rue de distance; parfois, elle trébuche et tombe.
+[6] Mme Seewalt a révélé spontanément que la vie qu'elle mène est tolérable, mais qu'elle a dû modifier profondément sa façon de vivre pour tenir compte de sa déficience, de manière à passer du temps avec sa famille et à conserver son emploi.
+[7] Selon Mme Seewalt, la maladie de Crohn et la SEP limitent de façon marquée ses activités quotidiennes. Elle s'est plainte qu'elle doit parfois annuler des activités normales telles que les emplettes et les sorties sociales, parce qu'elle est trop fatiguée, ou malade. Elle doit conserver son énergie. Elle a abandonné des passe-temps qui lui plaisaient. À son retour du travail, elle doit souvent faire la sieste.
+[8] À cause de la maladie de Crohn, Mme Seewalt a déclaré qu'elle devait toujours se trouver près des toilettes, ou du moins savoir où celles-ci se trouvent.
+[9] Mme Seewalt m'a renvoyé à l'affaire Watkin v. Canada[1] dont les circonstances m'ont induit à conclure, que le syndrome de fatigue chronique limitait de façon marquée l'accomplissement des activités courantes de la vie quotidienne de la contribuable, et à accueillir l'appel. La principale déficience de Mme Seewalt est la fatigue. Cependant, la déficience de Mme Watkin était plus grave que celle de Mme Seewalt : Mme Watkin avait dû abandonner son emploi, passait une grande partie de son temps alitée, devait faire préparer ses repas et avait de la difficulté à parler.
+[10] Mme Seewalt est indubitablement atteinte de maladies chroniques, persistantes et pénibles. Grâce à son courage, elle peut élever une famille et tenir un emploi rémunéré. D'après le certificat de CIPH du Dr Vervaeck et l'observation que j'ai faite de Mme Seewalt au procès, alors que son état aurait dû se détériorer - selon elle - par rapport à 2001, il ne semblait pas qu'en 2001 ses maladies aient limité de façon marquée son aptitude à accomplir une activité courante de la vie quotidienne. De plus, le traitement de ses maladies ne demande pas au moins 14 heures par semaine, comme l'exige l'article 118.3 de la Loi.
+[11] Les articles 118.3 et 118.4 n'ont pas pour objet d'indemniser le contribuable pour la seule raison qu'il est atteint d'une maladie grave, mais plutôt de l'aider financièrement à assumer les coûts supplémentaires de la vie et du travail qui sont causés par la déficience[2]. Néanmoins, ces dispositions doivent être abordées de manière à recevoir une interprétation humaine et compatissante[3].
+[12] Le critère auquel doit satisfaire le contribuable qui demande le CIPH consiste à prouver que la déficience limite de façon marquée l'aptitude de la personne à accomplir une activité courante de sa vie quotidienne, soit, comme le définit la Loi : la perception, la réflexion, la mémoire, la capacité de s'alimenter et de s'habiller, de parler, d'entendre, d'éliminer et de marcher. La déficience limite la personne de façon marquée seulement si, même avec des soins thérapeutiques et l'aide des appareils et des médicaments indiqués, il est toujours ou presque toujours incapable d'accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif[4].
+[13] La Loi ne considère pas le travail, le ménage ou une activité sociale ou récréative comme une activité courante de la vie quotidienne. Cependant, comme l'a déclaré le juge d'appel Létourneau dans l'affaire Johnston[5], le contribuable ne saurait être pénalisé et privé du CIPH tout simplement parce qu'il arrive à participer à des activités sociales et récréatives ou à travailler, en dépit d'une déficience grave.
+[14] Le juge d'appel Létourneau ajoute toutefois que les activités sociales et récréatives du demandeur du CIPH peuvent démontrer que la capacité n'est pas limitée de façon marquée. La nature et la fréquence de toute autre activité accomplie par le demandeur peuvent contribuer à établir que l'accomplissement des activités courantes de la vie quotidienne du demandeur n'est pas limité de façon marquée[6].
+[15] Dans le présent appel, je n'ai aucune preuve que la capacité de Mme Seewalt à accomplir une activité courante de la vie quotidienne ait été limitée de façon marquée à cause d'une déficience ou d'une combinaison de plusieurs déficiences. La capacité de marcher de Mme Seewalt, par exemple, n'était pas limitée comme celle de la contribuable dans l'affaire Johnston,précitée.
+[16] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 14e jour d'août 2003.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme ce 20e jour de mai 2004.
+Nancy Bouchard, traductrice
+[1] [2002] T.C.J. No. 547.
+[2] Johnston c. La Reine, C.A.F., nos A-347-97, A-348-97, 6 février 1998 (98 DTC 6169), sous la plume du juge Létourneau, à la page 6171.
+[3] Radage c. La Reine, C.C.I., no 95-1014(IT)I, 12 juillet 1996, (96 DTC 1615) sous la plume du juge Bowman, à la page 1625 des DTC; approuvée dans l'affaire Johnston, précitée.
+[4] Alinéa 118.4(1)b) de la Loi.
+[5] Précitée, p. 6172.
+[6] Johnston, précitée, p. 6172.

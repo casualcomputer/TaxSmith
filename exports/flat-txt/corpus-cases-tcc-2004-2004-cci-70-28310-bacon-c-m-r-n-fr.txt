@@ -1,0 +1,170 @@
+Title: Bacon c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28310/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-70-28310-bacon-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-01-21
+
+# Bacon c. M.R.N.
+
+- Citation: 2004 CCI 70
+- Decision date: 2004-01-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1829, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bacon c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-21
+Référence neutre
+2004 CCI 70
+Numéro de dossier
+2001-1417(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2001-1417(EI)
+ENTRE :
+LUCIE BACON,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+RÉJEAN RIOUX S/N LA POURVOIRIE DU GOÉLAND ENR.,
+intervenant.
+____________________________________________________________________
+Appel entendu le 7 novembre 2003 à Trois-Rivières (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelante :
+Me Gilbert Nadon
+Avocat de l'intimé :
+Avocat de l'intervenant :
+Me Claude Lamoureux
+Me Gilbert Nadon
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 21e jour de janvier 2004.
+« François Angers »
+Juge Angers
+Référence : 2004CCI70
+Date : 20040121
+Dossier : 2001-1417(EI)
+ENTRE :
+LUCIE BACON,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+RÉJEAN RIOUX S/N LA POURVOIRIE DU GOÉLAND ENR.,
+intervenant.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s'agit d'un appel d'une décision du ministre du Revenu national (le « ministre ») en date du 12 janvier 2001 selon laquelle l'emploi de l'appelante, lorsqu'elle était au service de Réjean Rioux (faisant affaire sous le nom de « La Pourvoirie du Goéland enr. » ( le « payeur ») durant les périodes allant du 18 mai 1997 au 2 mai 1998, du 3 mai 1998 au 15 mai 1999 et du 16 mai 1999 au 12 mai 2000, n'était pas assurable pour le motif qu'un contrat de travail semblable n'aurait pas été conclu si, durant les périodes en litige, il n'y avait pas eu entre le payeur et l'appelante un lien de dépendance au sens de l'alinéa 5(2)i) et du paragraphe 5(3) de la Loi sur l'assurance-emploi (la « Loi »).
+[2] En rendant sa décision, l'intimé s'est basé sur les hypothèses de fait suivantes, lesquelles ont été admises ou niées par l'appelante selon ce qui est indiqué ci-dessous :
+a) le payeur exploite une pourvoirie; (admis)
+b) M. Réjean Rioux est le conjoint de l'appelante; (admis)
+c) l'entreprise possède 7 chalets pour la location; (admis)
+d) l'entreprise est exploitée environ 9 mois pas [sic] année; (admis)
+e) les activités du payeur cessent de la clôture de la chasse vers la fin octobre jusqu'à l'arrivée des motoneigistes au mois de janvier et de nouveau entre la fonte des neiges et l'ouverture de la pêche; (admis)
+f) le chiffre d'affaires de l'entreprise est d'environ 100 000 $ par année; (admis)
+g) l'entreprise génère autant de revenus au cours des mois d'hiver que durant les mois d'été; (nié)
+h) les tâches de l'appelante étaient de faire le ménage des chalets, de prendre les réservations, de tenir à jour les livres comptable [sic] de l'entreprise, d'accueillir les clients et de servir occasionnellement à la salle à manger et au bar; (nié)
+i) la rémunération de l'appelante s'élevait à 7.00 $ de l'heure l'hiver; (admis)
+j) la rémunération de l'appelante s'élevait à 10.00 $ de l'heure l'été sauf pendant la dernière période en litige alors que la rémunération de l'appelante a été réduite à 8.90 $; (admis)
+k) au cours des périodes en litige, l'appelante travaillait à plein temps tant l'hiver que l'été; (nié)
+l) l'hiver, l'appelante n'était rémunérée que pour 15 heures par semaine alors qu'elle recevait des prestations d'assurance-emploi; (admis)
+m) les heures de travail comptabilisées par le payeur et payées à l'appelante ne correspondent pas au véritable nombre d'heures travaillées par celle-ci puisqu'elle travaillait un plus grand nombre d'heures que celui indiqué au registre du payeur; (nié)
+n) l'appelante rendait des services au payeur en dehors des périodes où elle était inscrite au livre de paye de l'entreprise. (nié)
+[3] Réjean Rioux et l'appelante ont fait l'acquisition d'une résidence privée qu'ils ont convertie en petite auberge avec salle à manger dans le but d'y exploiter une pourvoirie, ce qu'ils font depuis 14 ans. Ils ont fait l'ajout de 7 chalets aux fins de location. Ils habitent donc l'auberge, où leur chambre à coucher est le seul endroit privé qu'ils occupent. Tel qu'il a été admis, la pourvoirie est exploitée environ neuf mois par année, les trois autres, soit novembre, décembre et avril, étant des mois où l'auberge est très peu achalandée. Durant les mois d'hiver, ils font surtout de la restauration pour une clientèle principalement composée de motoneigistes, alors que l'été ils ne font pas de restauration, mais concentrent leurs activités sur l'hébergement de clients pour la chasse et la pêche.
+[4] Selon monsieur Rioux, un nombre minimum d'heures par semaine est toujours garanti aux employés, même si leur présence n'est pas justifiée. Il a expliqué que leur horaire varie selon la clientèle et que, s'il y a peu d'activité, les employés ont congé. Il a expliqué aussi que les horaires de ceux-ci sont variables et que, lorsqu'ils sont au travail, ils sont nourris et qu'il lui arrive parfois de les héberger. Il y aurait trois ou quatre employés, incluant l'appelante, qui travaillent un total d'heures par semaine variant de 10 à 40, selon l'employé et la saison.
+[5] De son côté, monsieur Rioux s'occupe de tout. Il fait l'entretien et la réparation des bâtiments et de l'équipement et s'occupe de la clientèle. Il lui arrive à l'occasion de faire du ménage dans les chalets. Il a expliqué que les profits sont plus élevés en été qu'en hiver, car l'hiver les dépenses sont plus élevées. Quant aux revenus des deux saisons, ils s'équivalent.
+[6] Pour l'appelante, les heures garanties étaient de 15 à 18 par semaine de janvier à mars et en octobre et de 40 à 45 par semaine de mai à septembre, selon la période en litige. Monsieur Rioux a expliqué que les responsabilités de l'appelante sont plus nombreuses l'été. Puisqu'il y a plus de profits et moins de dépenses durant cette saison, il se permet d'augmenter le taux horaire de l'appelante, et il le réduit encore durant l'hiver. Ces taux sont admis d'ailleurs aux alinéas 5(i) et (j) de la Réponse à l'avis d'appel. Il a reconnu que seule l'appelante subit cette variation du taux horaire. Monsieur Rioux a témoigné que l'appelante est sa partenaire dans l'entreprise. Ils sont conjoints depuis 23 ans. Il a admis que les heures sont difficiles à calculer et que ni les heures de l'appelante ni les siennes ne sont comptabilisées. L'appelante le seconde dans ce qu'il ne peut faire lui-même, car il lui faut quelqu'un qui est présent. Selon lui, l'appelante mérite de meilleures conditions parce que après tout, c'est sa conjointe. Ils se lèvent très tôt et se couchent très tard et, pour l'appelante, effectuer cent heures de travail par semaine n'est pas rare. Nonobstant le temps qu'elle consacrait au travail, l'appelante n'était payée que pour 40 heures par semaine durant les années 1997 et 1998 et 45 heures durant les années 1999 et 2000.
+[7] L'appelante s'occupe de la comptabilité tous les jours de l'année, sauf si la pourvoirie est fermée, auquel cas, il n'y a presque pas d'inscriptions comptables à faire.
+[8] L'appelante est gérante en pourvoirie et est employée par le payeur depuis 1990. Pendant les mois d'été, elle fait l'accueil des clients à l'auberge et s'occupe du bar. Elle fait le ménage dans les chalets, prend les réservations, fait la tenue des livres comptables, fait les dépôts et produit les différents rapports d'entreprise. Durant les mois d'hiver, elle appuie le payeur dans son travail dans la cuisine, fait du ménage et tient la comptabilité. Durant les périodes où elle ne touche pas de salaire, elle fait les dépôts et sa tenue des livres. Elle a dit que, pendant ces périodes, ces tâches ne demandent que très peu de temps.
+[9] Relativement à la question de savoir pourquoi elle encaissait son chèque de paye avant de faire le dépôt du payeur, l'appelante a expliqué qu'elle pouvait ainsi gagner du temps, car à la caisse populaire où elle effectuait le dépôt, il fallait aller à un guichet différent pour un dépôt personnel.
+[10] En terminant son témoignage, l'appelante a reconnu que ses heures de travail étaient variables et qu'elle devait être là si le payeur s'absentait et vice versa. Pour ce qui est de son taux horaire variable, elle l'a expliqué en témoignant qu' « au lieu de couper les employés [elle] absorbai[t] le coût ».
+[11] Le rapport sur formule CPT-110 a été déposé en preuve. Madame Johanne Nicol, l'agente des appels, en est l'auteure. Appelée à témoigner, elle a expliqué les démarches qu'elle avait entreprises avant d'arriver à sa conclusion concernant les conditions d'emploi de l'appelante. Elle avait donc eu des entretiens téléphoniques avec le payeur, l'appelante, leur représentant, d'autres employés du payeur, des employés d'autres pourvoiries et un représentant de la Fédération des pourvoyeurs du Québec. Elle avait consulté également les relevés d'emploi et les demandes de prestations de l'appelante pour les périodes en litige, le livre des salaires, des déclarations statutaires de l'appelante et de son fils, qui est aussi employé du payeur, le livre des réservations et certaines pièces de correspondance.
+[12] Dans son témoignage, madame Nicol a expliqué qu'elle avait essayé de déterminer le volume du travail de l'entreprise du payeur et la quantité de travail effectuée par l'appelante. Après l'analyse des documents en question, elle a constaté que plus il y avait de départs de clients, plus il y avait de travail à faire, et qu'il est arrivé durant les trois années en litige qu'il y ait eu des départs à des moments où l'appelante n'était pas inscrite au livre des salaires. Madame Nicol a étudié le livre des salaires et comparé le salaire de l'appelante avec celui des autres employés. L'appelante avait un taux horaire très variable par rapport aux autres employés, ce qui a permis à madame Nicol de conclure que le taux horaire de l'appelante était établi en fonction de la capacité de payer de l'entreprise.
+[13] Madame Nicol a également pris en considération une contradiction entre ce qu'ont dit l'appelante et le payeur sur l'horaire de travail de l'appelante. Cette dernière a mentionné qu'elle commençait sa journée vers 8 h ou 9 h le matin et travaillait l'après-midi ou le soir alors que monsieur Rioux a déclaré que l'appelante pouvait travailler de 6 h du matin jusqu'à minuit le soir. En ce qui concerne les périodes ou l'appelante travaillait 15 heures par semaine, le payeur et l'appelante se sont contredits dans leurs conversations téléphoniques avec madame Nicol; alors que le payeur disait qu'elle travaillait ses 15 heures le vendredi et le samedi, l'appelante déclarait avoir fait ces heures le vendredi, le samedi et le dimanche à raison de 4 ou 5 heures par jour et un peu les autres jours de la semaine.
+[14] Sur la question du volume de travail à faire en comparaison des heures inscrites dans le livre des salaires, je reproduis ci-dessous un extrait du rapport CPT-110 sur la nature et l'importance du travail accompli et la quantité de travail faite par l'appelante durant les mois d'hiver :
+Nature et importance du travail accompli :
+Considérant que :
+L'hiver, madame Lucie Bacon s'occupait surtout des ménages, tandis que l'été, en plus de l'entretien des chalets, elle s'occupait du bar, de servir les clients, des réservations, des commandes et autres. La travailleuse était la seule à s'occuper de la tenue de livres (manuellement). Elle s'occupait du livre des salaires et des déductions à la source, il y avait peu d'employés, donc ça pouvait lui prendre 15 minutes. Elle comptabilisait à tous les jours (5 minutes) ou 1 fois par semaine (15 à 20 minutes) les revenus à partir du ruban de caisse.
+L'hiver le payeur offrait des repas (fast food; hot dog, hambourgeois, spaghetti) pour attirer la clientèle. Monsieur Réjean Rioux a indiqué que c'était lui qui faisait les repas. Cependant, il a admis que lorsqu'il y avait plusieurs clients en même temps, la travailleuse aidait aussi. L'hiver, il était disponible puisqu'il y avait peu d'entretien à faire à l'extérieur, contrairement à l'été, où il devait s'occuper des locations de bateaux, de l'entretien du terrain et des chalets.
+Nous constatons qu'il y a presque autant de revenus durant les mois de janvier, février et mars que durant les mois de juin, juillet et août de la même année, ceci durant les années 1997 à 1999. La différence est au niveau des repas et des locations, durant l'hiver, il y a plus de revenus pour les repas et, durant l'été, les revenus de locations sont supérieurs. Toutefois, les revenus provenant du bar sont comparables en été comme en hiver.
+Il est difficile d'établir un rapport entre les besoins du payeur, en personnel, et les revenus mensuels du payeur.
+La travailleuse est inscrite aux livres des salaires de 12 à 13 semaines consécutives durant l'hiver et de 23 à 30 semaines consécutives durant l'été, pour les années 1997 à 2000.
+Pour l'hiver 1999, Lucie Bacon et Jean-François Dumont font le même nombre d'heures que l'année précédente, alors que la personne qui remplace madame Hébert, soit Andrée Lamontagne, ne fait que 8 heures par semaine comparativement à 15 heures. Pourtant les revenus de location des chalets sont supérieurs durant l'hiver 1999 à ceux de l'année précédente. En été 1998, madame Hébert a travaillé 16 heures par semaine pendant 21 semaines, alors que la personne qui a été engagée durant l'été 1999, a travaillé 10 heures par semaine pendant seulement 10 semaines. Et encore là les revenus de location des chalets étaient comparables pour certains mois. De plus, madame Francine Lapointe n'a pas été engagée durant les mois où les revenus de location étaient les plus élevés.
+Durant l'été 1999, pendant les 11 premières semaines de travail [de] madame Lucie Bacon, il n'y a pas d'employée pour l'aider à l'entretien des chalets, comme les autres années, et madame Lucie Bacon n'a pas plus d'heures de travail enregistrées.
+En hiver 2000, il y a deux employés, madame Lucie Bacon et madame Francine Lapointe, nous notons que monsieur Jean-François Dumont n'a pas été remplacé.
+Il est aussi difficile d'établir un rapport entre les besoins du payeur, en personnel, et le nombre de locations de chalets pour certaines périodes.
+Selon les versions de Lucie Bacon et Réjean Rioux, la principale tâche de Lucie Bacon durant l'hiver est de faire l'entretien des chalets lorsque les clients quittent.
+En hiver 1997, la travailleuse déclare 18 heures de travail par semaine, alors qu'il y a des semaines où il n'y a aucun départ et d'autres 8 départs dans la même semaine. La première semaine de janvier, il y a 1 départ et la travailleuse n'est pas au livre des salaires.
+En septembre 1997, il y a 5 départs pour le mois et la travailleuse déclare 20 heures de travail par semaine. Alors qu'en octobre, il y a 12 départs en tout et elle déclare 15 heures de travail par semaine.
+Nous avons comparé le livre des réservations, pour les 3 premiers mois des années 1997 à 2000, avec les livres des salaires pour ces mêmes années. Nous constatons qu'il n'y a aucune logique entre le nombre de départs et les heures requises par le personnel en place, exemple, en 1998, le payeur a retenu les services de mesdames Bacon et Hébert pendant 390 heures pour un total de 22 départs alors qu'en 2000, il a retenu les services de mesdames Bacon et Lapointe pendant 290 heures pour un total de 75 départs, donc trois fois plus de départs et 100 heures de travail en moins.
+Autres circonstances :
+Considérant que :
+Pour l'année 1996, madame Julie Hébert, la belle-fille du payeur, a reçu une rémunération totale de 9 464 $, ce qui donne environ 1352 heures au taux horaire de 7 $. Ce nombre d'heures est supérieur à ce que faisait madame Lucie Bacon durant toute une saison d'été. Et si on repartit ces heures durant les périodes d'activités du commerce, soit 9 mois sur 12 (environ 38 à 39 semaines), cette dernière aurait été payée pour une moyenne de 35 heures par semaine, été comme hiver. Encore là, madame Lucie Bacon n'avait pas autant d'heures de travail l'été comme l'hiver.
+Durant l'année 1997, le payeur ne retient pas les services de madame Hébert, toutefois, elle retire des prestations d'assurance-emploi. Tandis que durant l'année 1998, madame Julie Hébert a 531 heures de travail inscrites au livre des salaires. Ce nombre d'heures est supérieur aux heures effectuées par les autres personnes qui l'ont remplacé [sic] par la suite.
+Il faut se demander si le payeur retenait les services des personnes avec lien de dépendance selon les besoins de l'entreprise ou selon les besoins de ces personnes.
+En conclusion, l'emploi au centre du présent appel a été, au cours des périodes en litige, influencé et façonné d'une manière importante par le lien de dépendance qui existait entre le payeur et madame Lucie Bacon.
+[15] A été déposé en preuve un tableau indiquant les heures travaillées par tout le personnel du payeur, ainsi que le nombre des départs et les revenus sur une base mensuelle, et ce, pour la durée des trois périodes en litige.
+[16] La tâche de l'appelante en l'espèce est d'établir selon la prépondérance des probabilités que le ministre a exercé son pouvoir discrétionnaire de façon inappropriée en décidant que, compte tenu de toutes les circonstances, le payeur et l'appelante n'auraient pas conclu un contrat de travail à peu près semblable s'il n'y avait pas eu de lien de dépendance entre eux. Selon la Cour d'appel fédérale dans l'arrêt Canada c. Jencan Ltd. [1997] A.C.F. no 876, [1998] 1 C.F. 187, l'appelante doit démontrer que, selon le cas, le ministre a agi de mauvaise foi ou dans un but ou un mobile illicite, il n'a pas tenu compte de toutes les circonstances pertinentes, comme l'exigent expressément le sous-alinéa 3(2)c)(ii) de la Loi sur l'assurance-chômage et l'alinéa 5(3)b) de la Loi, ou a tenu compte d'un facteur non pertinent.
+[17] L'énoncé du rôle que joue le ministre et de celui que doit jouer la Cour a été repris par la Cour d'appel fédérale dans l'arrêt Légaré c. Canada, [1999] A.C.F. no 878 (Q.L.). Le juge Marceau a résumé le tout en ces termes au paragraphe 4 :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre: c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était "convaincu" paraît toujours raisonnable.
+[18] La Cour d'appel fédérale a d'ailleurs réitéré sa position dans l'arrêt Pérusse c. Canada, [2000] A.C.F. no 310 (Q.L.). Le juge Marceau, se référant au passage cité ci-dessus tiré de l'arrêt Légaré, a ajouté ce qui suit au paragraphe 15 :
+Le rôle du juge d'appel n'est donc pas simplement de se demander si le ministre était fondé de conclure comme il l'a fait face aux données factuelles que les inspecteurs de la commission avaient pu recueillir et à l'interprétation que lui ou ses officiers pouvaient leur donner. Le rôle du juge est de s'enquérir de tous les faits auprès des parties et des témoins appelés pour la première fois à s'expliquer sous serment et de se demander si la conclusion du ministre, sous l'éclairage nouveau, paraît toujours "raisonnable" (le mot du législateur). La Loi prescrit au juge une certaine déférence à l'égard de l'appréciation initiale du ministre et lui prescrit, comme je disais, de ne pas purement et simplement substituer sa propre opinion à celle du ministre lorsqu'il n'y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus. Mais parler de discrétion du ministre sans plus porte à faux.
+[19] Dans l'exercice de sa discrétion, le ministre a conclu en l'espèce que le taux horaire de l'appelante était établi selon la capacité de payer de l'entreprise. De son côté, l'avocat de l'appelante reconnaît qu'il y avait des variations dans le taux horaire de cette dernière, mais soutient que, malgré cela, il s'agit d'un taux horaire comparable à ce que l'on retrouve dans les autres pourvoiries du Québec. L'appelante est la seule employée du payeur qui a vu son taux horaire diminuer durant l'hiver. Or, même si le taux payé à l'appelante était comparable à celui payé dans d'autres pourvoiries, cette diminution du taux horaire était plus facilement acceptable en raison du lien de dépendance. Le payeur a lui-même reconnu que le taux horaire de l'appelante était directement fonction de la capacité de payer de l'entreprise.
+[20] Parmi les modalités de l'emploi, un point saillant est le fait que les heures de l'appelante n'étaient pas comptabilisées. L'appelante a reçu le même salaire à chaque semaine pour 40 ou 45 heures de travail, selon de la période en litige, même si elle travaillait beaucoup plus. La preuve a révélé que l'appelante pouvait travailler jusqu'à une centaine d'heures par semaine. Même si on a semblé vouloir démontrer que ce nombre d'heures est peut-être exagéré, je suis convaincu que l'appelante travaille un grand nombre d'heures au-delà des 40 ou 45 par semaine pour lesquelles elle est payée. L'avocat de l'appelante soutient que, tout comme cette dernière, les autres employés n'avaient pas d'horaire et qu'ils étaient appelés à travailler selon les besoins de l'entreprise, car le temps qu'il fait joue un rôle important dans les opérations d'une telle entreprise. Il soutient aussi que les employés avaient tous des heures minimums garanties lorsqu'ils étaient appelés à travailler.
+[21] Selon le tableau préparé par l'agente des appels, les employés ont travaillé à tous les jours. La preuve a révélé toutefois que, si le mauvais temps affectait les opérations, les employés ne travaillaient pas mais étaient payés un minimum d'heures garanties par jour. Dans le cas de l'appelante, toutefois, il ne s'agit pas de la même modalité, puisque cette dernière travaillait plus que les 40 ou 45 heures par semaine qui lui étaient garanties. En fait, elle recevait le même salaire à chaque semaine peu importe les heures réellement travaillées. Puisque ses heures de travail excédaient toujours le minimum garanti, elle se trouvait dans une situation différente de celle des autres employés, étant donné que ces derniers ne travaillaient jamais d'heures pour lesquelles ils n'étaient pas payés. Cependant, il arrivait à l'occasion qu'ils étaient payés pour des heures non travaillées en raison du mauvais temps, ce qui n'était pas le cas de l'appelante, ou du moins la preuve n'a pas démontré le contraire.
+[22] Le ministre dans son analyse a mis en doute les besoins de l'entreprise en personnel et le montant des revenus mensuels du payeur. Je me réfère ici aux commentaires que j'ai reproduits plus haut sur la nature et l'importance du travail accompli. Il est évident que, selon le rapport qui contient ces commentaires, il est difficile d'établir un rapport entre le travail à accomplir et le personnel en place au cours des trois années sur lesquelles a porté l'analyse. Même s'il est permis de recevoir une rémunération pour une partie d'une semaine de chômage, le fait que cette rémunération ne sera déduite des prestations que si elle dépasse 25% du montant des prestations hebdomadaires rend nécessaire une évaluation comme celle dans le rapport afin qu'on puisse comparer la nature et l'importance du travail.
+[23] En l'espèce, les faits révèlent que la rétribution versée à l'appelante était directement fonction de la situation financière du payeur. En raison de sa collaboration avec le payeur et de son implication dans l'entreprise, l'appelante était toujours disponible pour répondre aux besoins de la pourvoirie, et cela, au-delà des heures pour lesquelles elle était rémunérée. Son emploi, au cours des trois périodes en litige, a été sûrement influencé par le lien de dépendance entre elle et le payeur. En fait, monsieur Rioux a reconnu au procès que l'appelante était sa partenaire dans l'entreprise. Elle le secondait dans tout ce qu'il faisait et ni lui ni elle ne pouvait quitter la pourvoirie sans que l'autre soit là. Leurs heures n'étaient pas comptabilisées. Monsieur Rioux a témoigné que l'appelante aurait mérité de meilleures conditions et qu'il faut aimer la nature pour accepter de vivre dans une telle situation. À mon avis, il a sûrement raison, mais une telle disponibilité et autant d'implication ne se rencontrent habituellement pas dans le cas d'un contrat d'emploi conclu avec un tiers. Les intérêts économiques de l'appelante et du payeur sont trop étroitement liés.
+[24] Même si le ministre avait pris en considération le travail accompli par l'appelante sur toute l'année – c'est-à-dire les dépôts et la tenue des livres qu'elle effectuait - ou encore, sans vérifier si elle gardait effectivement l'argent ou pas, le fait que l'appelante encaissait son chèque de paye à même les fonds de l'entreprise, il serait, à mon avis, arrivé à la même conclusion.
+[25] L'appelante n'a avancé aucune preuve substantielle pouvant me permettre de conclure que la décision du ministre n'est pas raisonnable dans les circonstances, et ce, pour les trois périodes en litige. Je ne suis donc pas habilité à y intervenir.
+[26] Pour ces motifs, l'appel est rejeté et la décision du ministre est confirmée.
+Signé à Ottawa, Canada, ce 21e jour de janvier 2004.
+« François Angers »
+Juge Angers
+RÉFÉRENCE :
+2004CCI70
+No DU DOSSIER DE LA COUR :
+2001-1417(EI)
+INTITULÉ DE LA CAUSE :
+Lucie Bacon et Le Ministre du Revenu National
+LIEU DE L'AUDIENCE :
+Trois-Rivières (Québec)
+DATE DE L'AUDIENCE :
+le 7 novembre 2003
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge François Angers
+DATE DU JUGEMENT :
+le 21 janvier 2004
+COMPARUTIONS :
+Pour l'appelant(e) :
+Me Gilbert Nadon
+Pour l'intimé(e) :
+Pour l'intervenant :
+Me Claude Lamoureux
+Me Gilbert Nadon
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Me Gilbert Nadon
+Étude :
+Ouellet, Nadon & Associés
+Montréal (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

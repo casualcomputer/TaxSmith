@@ -1,0 +1,160 @@
+---
+title: "Desjardins v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27606/index.do"
+last_modified: "2007-05-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 70"
+citation2: ""
+neutral_citation: "2007 TCC 70"
+decision_date: "2007-05-15"
+language: "en"
+item_id: "27606"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 427
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:07:25.227000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a43100116827e4b5c56ae0df703c14a2d0f293bb21b677c7eb9aca4839c27d54"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Desjardins v. The Queen
+
+- Citation: 2007 TCC 70
+- Decision date: 2007-05-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 427, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desjardins v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-05-15
+Neutral citation
+2007 TCC 70
+File numbers
+2000-3413(GST)I
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2007TCC70
+Date: 20070515
+Docket: 2000‑3413(GST)I
+BETWEEN:
+NICOLE DESJARDINS AND MOHAMED SDIRI,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on July 24, 2006,
+at Montréal, Quebec, edited for greater clarity and precision.)
+Archambault J.
+[1] This is the appeal of an assessment pertaining to the goods and services tax (GST) for the period from December 1, 1994 to February 28, 1997 (Relevant Period). On December 7, 1999, the Minister of Revenue of Quebec, on behalf of the Minister of National Revenue (Minister) made the assessment in question of the Appellant, requiring the payment of $32,477.72, representing the total of the taxes ($19,120.11 $), penalties ($9,729.86) and interest ($3,627.75) in respect of the net tax the company Au Royaume du dollar S.E.N.C. allegedly omitted to pay for the Relevant Period.
+[2] In order to establish and maintain this assessment, the Minister relied on the following facts:
+[TRANSLATION]
+8.1 Au Royaume du dollar, a partnership, registered for the GST on November 8, 1994, and began operations in December 1994; (admitted)
+8.2 Nicole Desjardins and Mohamed Sdiri were partners and directors of the company; (admitted)
+8.3 The company, through its partners, declared the following gross and net revenues for its fiscal years ending December 31, 1995 and 1996: (admitted)
+from 1-12-94 to 12-31
+1995
+from 1-1 to 31-12
+1996
+Gross sales
+$111,046.71
+$90,647.53
+Net profit
+8,899.51
+$982.57
+8.4 During the period from December 1, 1994, to February 28, 1997, the company paid $13,394.56 in GST, corresponding with $191,350.86 in taxable supplies; (admitted)
+8.5 However, in a dispute between the company and Centre d’achats St‑Jérôme Inc., its landlord, it filed the following accounting documents in Superior Court file number 700‑05‑006538‑981: (denied)
+(a) its results and financial statements for the fiscal years ending December 31, 1995 and 1996;
+(b) its sales journal for the period from December 1994 to December 1996;
+(c) its general ledger;
+8.6 It appears from these financial statements that the company’s supplies and profits for 1995 and 1996 are not those reported by the partners, but rather the following: (admitted)
+At December 31
+1995
+1996
+Total
+Gross sales
+$228,135
+$226,456
+$454,591
+Net profit
+93,765
+91,393
+185,158
+8.7 The discrepancy between the sales reported in the financial statements filed in Court file 700‑05‑006538‑981 and the taxable supplies appearing in the tax returns for the period from December 1, 1994, to December 31, 1996, is therefore the following: (admitted)
+From 1-1-2 194 [sic] to
+31-12-1996
+Taxable
+supplies
+According to GST returns
+$191,350.86 (1)
+According to financial statements and sales journal filed in
+no. 700‑05‑006538‑981
+$454,591
+(1)
+sales were $201,694.24 according to the financial statements attached to the partners’ tax returns (Quebec).
+8.8 In accordance with the foregoing, the minister assessed the Appellant for unremitted GST on unreported supplies; (admitted)
+8.9 The Appellant and her two partners knowingly made a false declaration or an omission by not reporting the GST that should have been collected on all taxable supplies performed during the period from December 1, 1991, to December 31, 1996; (denied)
+8.10 Indeed, they could not have been unaware that they were filing GST returns reporting lower supplies than those appearing in the sales journal and the financial statements filed in court file 700-05‑006538‑981; (denied)
+8.11 Accordingly, it is with justification that a penalty was imposed under section 285 of the ETA; (denied)
+8.12 It is also with justification that a penalty was calculated under section 280 of the ETA; (denied)
+8.13 The Appellant moreover stated that she was unable to provide any other document in support of additional ITCs; (denied)
+[3] During her testimony, Ms. Desjardins indicated that, contrary to what is stated in paragraph 8.5 of the Reply to the Notice of Appeal, it was the landlord’s counsel that submitted falsified financial statements and accounting documents to the Superior Court file. All she did was provide them to this counsel. She never filed them in court “because they were false” (p. 56 of the transcript). She explained that these statements had been falsified to justify damages that she was claiming from Centre d’achats St‑Jérôme Inc. due to a lease termination that she had deemed unjust. Moreover, she repeated under oath that the returns that she had filed with the Minister were true and corresponded with reality.
+[4] After hearing her testimony and her explanations pertaining to the documents[1] filed as evidence, I have come to the conclusion that Ms. Desjardins had established, on a balance of probabilities, that the statements she had delivered to the landlord’s counsel had been falsified and that those presented to the Minister were true.
+[5] It is true that Ms. Desjardins’s conduct could raise a serious doubt as to her credibility. Ms. Desjardins acknowledged that she had acted wrongly and the she was in a sense the “biter bit”. However, she testified under oath before me and I believed her as to the true sales figures. The fact that Ms. Desjardins prepared herself well to present her evidence before this Court helped her cause.
+[6] The main argument relied on by the Respondent was not that Ms. Desjardins was not credible, but that I had to use my discretionary power and take her out-of-court admission into account. In my opinion, for the reasons already mentioned, this admission should not be considered here.
+[7] The appeal is allowed and the assessment is referred back to the Minister for reconsideration and reassessment, excluding from the taxable supplies the amounts added by the Minister based on the false statements provided to the landlord’s counsel.
+Signed at Ottawa, Canada, this 15th day of May 2007.
+“Pierre Archambault”
+Archambault J.
+Translation certified true
+on this 9th day of July 2007
+Gibson Boyd, Translator
+CITATION: 2007TCC70
+COURT FILE NUMBER: 2000‑3413(GST)I
+STYLE OF CAUSE: NICOLE DESJARDINS AND MOHAMED SDIRI v. THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: July 24, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: August 4, 2006
+DATE OF REASONS
+FOR JUDGMENT: May 15, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Denis Émond
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Namely, Exhibits A‑1 and A‑2 and Exhibits I‑1 to I‑4.

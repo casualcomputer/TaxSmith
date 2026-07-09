@@ -1,0 +1,159 @@
+---
+title: "Dhanoa c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/110421/index.do"
+last_modified: "2015-06-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 164"
+citation2: ""
+neutral_citation: "2015 CCI 164"
+decision_date: "2015-06-26"
+language: "fr"
+item_id: "110421"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2659
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:28:41.111000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cacd1851fd8919b4e37323f1238e478b9c26f80ac375df7c1a10c1cfdb2b5346"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dhanoa c. La Reine
+
+- Citation: 2015 CCI 164
+- Decision date: 2015-06-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2659, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dhanoa c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-06-26
+Référence neutre
+2015 CCI 164
+Numéro de dossier
+2014-4681(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-4681(IT)I
+ENTRE :
+GURBAAJ DHANOA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 23 juin 2015 à Calgary (Alberta)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Ian Wiebe
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2012 de l’appelant est rejeté.
+Signé à Ottawa, Canada, ce 26e jour de juin 2015.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 7e jour d’août 2015.
+M.-C. Gervais
+Référence : 2015 CCI 164
+Date : 20150626
+Dossier : 2014-4681(IT)I
+ENTRE :
+GURBAAJ DHANOA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation pour l’année d’imposition 2012 de l’appelant dans le but d’inclure le revenu d’intérêts non déclaré de 51 727 $ et d’infliger une pénalité de 5 172,70 $, conformément au paragraphe 163(1) de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] Le paragraphe 163(1) de la Loi s’applique au contribuable qui omet de déclarer un revenu imposable dans sa déclaration de revenus pour deux années d’imposition dans une période de quatre années. Le montant de la pénalité s’élève à 10 % du montant du revenu non déclaré.
+[3] Il incombe au ministre de prouver les faits qui justifient la pénalité au titre du paragraphe 163(1) de la Loi, mais l’appelant peut l’éviter s’il peut démontrer qu’il a exercé une diligence raisonnable dans sa déclaration de revenus. Il incombe à l’appelant de prouver qu’il a fait preuve de diligence raisonnable.
+[4] Craig Peturson, chef d’équipe de la Section d’appel du Bureau des services fiscaux de Calgary de l’Agence du revenu du Canada (l’« ARC ») a témoigné pour le compte de l’intimée. Sa preuve établit que l’appelant a omis de déclarer des montants dans ses déclarations de revenus pour les années 2011 et 2012. Les montants sont les suivants :
+a) pour l’année d’imposition 2012, l’appelant a reçu un revenu d’intérêts 128,64 $ de Khalsa Credit Union (Alberta) Limited (« Khalsa Alberta ») et un revenu en intérêt de 51 598,62 $ de Stone West Homes Inc. (« Stone West »). Il a omis de déclarer ces deux montants;
+b) pour l’année d’imposition 2011, l’appelant a également omis de déclarer des revenus qu’il a reçus de ces mêmes entités. Il a reçu et a omis de déclarer un revenu d’intérêts de 127,16 $ de Khalsa Alberta et des gains en capital de 18 817 $ de Stone West.
+Diligence raisonnable [5] Je conviens qu’au moins quatre autres juges de la Cour ont jugé qu’un contribuable peut être déchargé d’une pénalité au titre du paragraphe 163(1) de la Loi s’il peut invoquer le moyen de défense fondé sur la diligence raisonnable pour l’une des deux années au cours de la période de quatre ans. Je ne souscris pas à ce raisonnement. Je suis d’avis qu’un contribuable doit invoquer le moyen de défense fondé sur la diligence raisonnable pour l’année où la pénalité est imposée. Dans le présent appel, cette année est celle de 2012. C’est l’omission de déclarer un revenu d’intérêts de 51 727 $ pour l’année d’imposition 2012 qui a donné lieu à la pénalité.
+[6] Toutefois, comme cette question n’a pas été tranchée par la Cour d’appel fédérale, je donnerai à l’appelant le bénéfice du doute en tenant compte de son argument relatif à la diligence raisonnable pour les années 2011 et 2012
+[7] Dans l’arrêt Résidences Majeau Inc. c R., 2010 CAF 28 (CAF), le juge Létourneau a décrit ainsi les éléments nécessaires lorsqu’il s’agit d’invoquer un moyen de défense fondé sur la diligence raisonnable à l’égard de l’imposition d’une pénalité. Il a déclaré ce qui suit :
+[8] Selon l’arrêt Corporation de l’école polytechnique c. Canada, 2004 CAF 127, un défendeur bénéficie de la défense de diligence raisonnable s’il établit l’une ou l’autre des deux choses suivantes : soit qu’il a commis une erreur de fait raisonnable, soit qu’il a pris des précautions raisonnables pour empêcher que ne se produise l’événement qui donne naissance à la pénalité.
+[9] L’erreur de fait raisonnable emporte un double test : subjectif et objectif. Le test subjectif est satisfait si le défendeur établit qu’il s’est mépris en ce qu’il a cru en une situation de fait qui, si elle avait existé, aurait éliminé le caractère fautif de son geste ou de son omission. En outre, pour que cet aspect de la défense opère, il faut aussi que l’erreur soit raisonnable, i.e. une erreur qu’une personne raisonnable placée dans les mêmes circonstances aurait commise. Il s’agit là du test objectif.
+[10] Le deuxième volet de la défense requiert, tel que déjà mentionné, que des gestes soient posés ou des mesures prises pour éviter l’événement qui engendre la pénalité.
+Omission de déclarer des revenus pour 2011 [8] Au cours de l’année d’imposition 2011, l’appelant a déclaré un revenu d’emploi de 18 000 $. Il a expliqué dans son témoignage qu’il avait peut-être déclaré à tort les gains en capital de 18 817 $ qu’il avait reçus de Stone West à titre de revenu d’emploi. En ce qui concerne le revenu d’intérêts de 127,16 $ de Khalsa Alberta, il a mentionné qu’il savait qu’il devait payer de l’impôt sur ce revenu, mais il pensait qu’il n’avait pas à le déclarer parce que l’ARC recevrait une copie du relevé T5 de la coopérative de crédit.
+[9] Je ne crois pas que l’appelant ait déclaré à tort les gains en capital qu’il a reçus de Stone West à titre de revenu d’emploi et je ne crois pas que son explication soit crédible. Pour l’année 2011, l’appelant a déclaré un revenu d’emploi de 18 000 $ et des dividendes imposables de 35 000 $, pour un revenu total de 53 000 $. Le relevé T4 joint à sa déclaration de revenus de 2011 (la « déclaration de 2011 ») provenait de la société 1339421 Alberta Inc. et montrait que son revenu d’emploi était de 18 000 $. Je remarque que les dividendes imposables provenaient de la même société à numéro.
+[10] Lorsqu’il a déposé un avis d’opposition dans cette affaire, l’appelant a fourni une explication différente au sujet de son omission de déclarer des revenus pour l’année 2011. Son avocat a écrit ce qui suit à l’ARC :
+[traduction]
+En ce qui a trait à 2011, le contribuable prétend ce qui suit :
+i. il a déclaré plus de 85 % de son revenu brut imposable de 2011 lors de la production de sa déclaration initiale;
+ii. il croyait que, puisqu’il avait supporté d’importants frais d’intérêts et d’autres dépenses (des renseignements qu’il a fournis en temps voulu) en vue de gagner un revenu de placement imposable brut de 9 409 $ qu’il a omis de déclarer, le revenu imposable net non déclaré de ce placement, s’il y en avait un, serait en fait beaucoup moins élevé. À ce titre, le revenu imposable net non déclaré de ce placement, s’il y en avait un, était négligeable par rapport à ses revenus de 2011 provenant d’autres sources;
+iii. il soutient que c’est en toute innocence qu’il a omis d’inclure les relevés en question lorsqu’il a produit sa déclaration de revenus; il n’avait pas l’intention de déclarer en moins ses revenus pour 2011.
+[11] Dans ces assertions, l’appelant n’a même pas allégué qu’il avait commis une erreur de fait. Son raisonnement s’appuie sur le fait que le montant qu’il a omis de déclarer en 2011 était négligeable par rapport au revenu qu’il a déclaré. En plus d’être sans pertinence, cette déclaration n’est pas correcte. L’appelant a omis de déclarer 35 % du revenu qu’il a gagné en 2011. En outre, l’appelant allègue qu’il a supporté d’importants frais d’intérêts pour gagner un revenu de placement. Cette allégation n’est appuyée par aucun élément de preuve documentaire et, même si cela était vrai, cela n’excuse pas l’omission de l’appelant de déclarer les gains en capital reçus de Stone West.
+Omission de déclarer des revenus pour 2012 [12] En ce qui concerne l’omission de déclarer le revenu d’intérêts reçu de Khalsa Alberta pour 2012, l’appelant a déclaré dans son témoignage qu’il n’avait pas reçu le T5 de la coopérative de crédit au moment où il avait produit sa déclaration de revenus. Il a expliqué qu’il y avait eu une [traduction] « prise de contrôle » du conseil d’administration de Khalsa Alberta et que l’entreprise avait envoyé les T5 en retard. L’appelant a mentionné qu’il n’était pas trop inquiet à ce sujet parce qu’il savait que son revenu d’intérêts reçu de Khalsa Alberta ne constituait qu’une infime partie de son revenu. Il n’a pas informé l’ARC qu’il avait reçu le T5 de Khalsa Alberta; il attendait simplement pour le ministre établisse une nouvelle cotisation à son égard.
+[13] L’appelant a affirmé qu’il n’avait pas reçu le T5 de Stone West lorsqu’il avait produit sa déclaration de revenus de 2012 en avril 2013. En outre, il ne s’attendait pas à recevoir un T5 de Stone West pour l’année d’imposition 2012. Il pensait qu’il en recevrait un pour son année d’imposition 2013. L’appelant a ajouté qu’il avait investi dans Stone West et qu’il avait eu un différend avec les propriétaires de cette entreprise en ce qui concerne sur le montant de revenu qu’il devait gagner. Il a expliqué dans son témoignage qu’il avait emprunté de l’argent sur sa marge de crédit pour faire le placement et qu’il pensait que Stone West devait déduire du revenu d’intérêts qu’il avait gagné les frais d’intérêts qu’il avait supportés. Il a reçu le T5 après avoir produit sa déclaration de revenus de 2012 et il pensait qu’il pourrait déclarer ce revenu d’intérêts une fois que son désaccord avec Stone West serait réglé.
+[14] Je suis d’avis que l’explication de l’appelant est invraisemblable. En contre‑interrogatoire, il a admis qu’il avait reçu la somme de 51 598,62 $ de Stone West en 2012. Il n’a peut-être pas reçu le T5 avant de produire sa déclaration de revenus, mais il aurait dû s’attendre à le recevoir pour l’année d’imposition 2012. Il avait déjà reçu ce revenu.
+[15] L’explication de l’appelant au sujet de son désaccord avec Stone West n’a également pas de sens. S’il avait supporté des frais d’intérêts, il aurait pu les déduire des revenus qu’il a déclarés dans sa déclaration de revenus. Stone West ne pouvait pas déduire les frais intérêts de l’appelant du revenu d’intérêts qu’elle lui avait versé.
+[16] Si l’appelant a reçu un T5 de Stone West après avoir produit sa déclaration de revenus de 2012, il n’en pas informé le ministre afin que sa déclaration de revenus de 2012 soit modifiée. Après avoir constaté qu’il ne pourrait pas régler son différend avec Stone West, il n’a toujours pas déclaré le montant du T5 de Stone West.
+[17] La preuve démontre que l’appelant a tendance à ne pas déclarer ses revenus d’intérêts. En 2003, en 2006, en 2007, en 2008 et en 2010, l’appelant a omis de déclarer des revenus d’intérêts qu’il a reçus de Khalsa Alberta. En 2004, il a omis de déclarer des revenus d’intérêts qu’il a reçus de la Société hypothécaire TD. Le ministre a établi une nouvelle cotisation à l’égard de l’appelant afin d’inclure les revenus d’intérêts non déclarés dans ses revenus pour les années 2003, 2004, 2006 et 2008.
+[18] L’appelant mentionne qu’il savait que le ministre avait reçu une copie des relevés T5 de la part de l’entité qui les avait émis, et que, chaque année, il attendait que le ministre découvre son omission de déclarer des revenus et qu’il établisse une nouvelle cotisation. Je suis d’avis que l’appelant joue à « arrête-moi si tu peux » avec le ministre. Il semble que l’appelant ne se soit pas fait prendre par le ministre en 2007 ni en 2010.
+[19] L’appelant n’a pas réussi à invoquer le moyen de défense fondé sur la diligence raisonnable pour ses omissions de déclarer des revenus en 2011 et 2012. J’ai déduit de l’ensemble la preuve que l’appelant a délibérément omis d’inclure un revenu d’intérêts de 127,16 $ et des gains en capital de 18 817 $ dans son revenu pour l’année d’imposition 2011, ainsi que des revenus d’intérêts de 128,64 $ et de 51 598,62 $ de son revenu pour l’année d’imposition 2012.
+[20] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 26e jour de juin 2015.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 7e jour d’août 2015.
+M.-C Gervais
+RÉFÉRENCE :
+2015 CCI 164
+NO DU DOSSIER DE LA COUR :
+2014-4681(IT)I
+INTITULÉ :
+GURBAAJ DHANOA c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 23 juin 2015
+MOTIF DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 26 juin 2015
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Ian Wiebe
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

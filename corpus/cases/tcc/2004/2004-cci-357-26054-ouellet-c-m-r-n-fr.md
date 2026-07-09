@@ -1,0 +1,174 @@
+---
+title: "Ouellet c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26054/index.do"
+last_modified: "2004-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 357"
+citation2: ""
+neutral_citation: "2004 CCI 357"
+decision_date: "2004-05-20"
+language: "fr"
+item_id: "26054"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4049
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:26:09.942000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ae00e150299fdd51e539622e71d74a64c4f25ddb475994d2cc930fb700d2f368"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ouellet c. M.R.N.
+
+- Citation: 2004 CCI 357
+- Decision date: 2004-05-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4049, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ouellet c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-20
+Référence neutre
+2004 CCI 357
+Numéro de dossier
+2003-2015(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-2015(EI)
+ENTRE :
+NADA OUELLET,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 23 février 2004 à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Représentant de l'appelante :
+Pierre Garraud
+Avocat de l'intimé :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 20e jour de mai 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2004CCI357
+Date : 20040520
+Dossier : 2003-2015(EI)
+ENTRE :
+NADA OUELLET,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Montréal (Québec), le 23 février 2004.
+#
+[2] Il s'agit d'un appel portant sur l'assurabilité de l'emploi de l'appelante lorsqu'au service de Groupe Montoni (1995) Division Construction Inc., le payeur, durant la période en litige, soit du 10 avril 2000 au 12 octobre 2001, au sens de la Loi sur l'assurance-emploi (la « Loi » ).
+[3] Le 11 février 2003, le ministre du Revenu national (le « Ministre » ) a informé l'appelante de sa décision selon laquelle cet emploi n'était pas assurable parce qu'elle n'était pas employée en vertu d'un contrat de louage de services.
+[4] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait suivantes énoncées au paragraphe 5 de la Réponse à l'avis d'appel, lesquelles ont été admises ou niées par le représentant de l'appelante :
+a) Le payeur, Groupe Montoni (1995) Division Construction Inc., se spécialise dans la construction et la rénovation. (admis)
+b) Son unique actionnaire est Dario Montoni. (admis)
+c) Il n'existe aucun lien de dépendance entre le payeur et l'appelante. (admis)
+d) L'appelante a été embauchée comme femme de ménage afin de nettoyer les locaux de l'entreprise appartenant au payeur. (admis)
+e) Il n'existait aucun contrat de travail écrit entre les parties. (admis)
+f) Les tâches de l'appelante consistaient à laver les planchers, les vitres, épousseter les bureaux, vider les poubelles, nettoyer la cuisine des employés ainsi que les toilettes. (admis)
+g) Elle travaillait après les heures de bureau du payeur et elle n'était ni contrôlée ni dirigée par le payeur dans sa façon de travailler. (nié)
+h) L'appelante possédait la clef de l'entreprise et avait le code d'accès aux locaux du payeur. (admis)
+i) Elle n'avait aucun horaire de travail fixe à respecter car ce qui importait était le résultat final. (nié)
+j) L'appelante fournissait tous les produits de nettoyage que nécessitaient ses fonctions. (nié)
+k) Le payeur fournissait le matériel d'entretien tel que l'aspirateur et la vadrouille. (admis)
+l) Le payeur versait à l'appelante un montant hebdomadaire de 430 $ relativement au contrat d'entretien. (admis)
+[5] La preuve a révélé qu'effectivement, comme le soutient le Ministre, l'appelante devait accomplir ses tâches après les heures de bureau et c'est là la seule contrainte ou le seul contrôle exercé par le payeur sur son travail.
+[6] L'appelante a reçu des paies hebdomadaires régulières du payeur et celles-ci faisaient l'objet de déductions à la source pour l'assurance-emploi, les impôts fédéral et provincial ainsi que les contributions au Régime des rentes du Québec. Le Ministre a admis que l'appelante avait reçu le 4 pour cent de paie de vacances réglementaire.
+[7] Il a été établi que l'appelante ne suivait pas d'horaire fixe, pourvu qu'elle exécute son travail en dehors des heures de bureau du payeur. Il est ressorti de la preuve que le seul contrôle sur le travail de l'appelante résidait dans l'appréciation du produit fini ce qui, selon la jurisprudence, ne constitue pas le contrôle par l'employeur sur le travail de l'employé.
+[8] La preuve a établi, par ailleurs, que le payeur fournissait à l'appelante un aspirateur, une vadrouille et certains produits de nettoyage. Il a de plus été établi que l'appelante fournissait certains produits utilisés pour son travail mais qu'elle n'a jamais réclamé le remboursement du payeur parce que cela représentait des montants minimes.
+[9] Il faut souligner que l'appelante ne s'est pas présentée à l'audition. Son représentant, Pierre Garaud, a expliqué son absence en disant que celle-ci avait des problèmes médicaux.
+[10] Dans ces circonstances, il est opportun de reproduire certains extraits de la déclaration statutaire de l'appelante faite à un employé du Développement des ressources humaines Canada (pièce I-1) le 27 janvier 2003, dans laquelle cette dernière affirmait ce qui suit :
+[...] Je travaillais à cet endroit par les soirs ou fin de semaine et je déterminais moi-même mes heures de travail, sauf que je ne pouvais travailler de jour la semaine, et mon horaire. J'étais rémunérée à salaire fixe de 430,00 $ brut par semaine peu importe le nombre d'heures de travail que j'effectuais. J'accomplissais en moyenne 20 heures par semaine. L'entreprise me fournissait un aspirateur et certains produits mais il m'arrivait de fournir des produits que j'achetais moi-même et que je ne réclamais pas de l'employeur parce ce que ce n'était pas des montants élevés. Je reconnais avoir fourni des informations erronées sur ma demande de prestations en ce qui a trait à mon genre de travail et à l'horaire de travail que j'accomplissais ainsi que lors de ma déclaration statutaire du 29 mai 2002 car j'étais surprise de la raison pour laquelle on m'avait fait venir. [...]
+[11] Il faut noter que la preuve produite par l'appelante n'a pas réussi à prouver la fausseté des présomptions du Ministre. Au contraire, la preuve de l'appelante, soit sa déclaration statutaire (pièce I-1), dont les passages ci-haut, a réussi à corroborer certaines présomptions du Ministre.
+[12] Le représentant de l'appelante, Pierre Garraud, soutient que madame Montoni, conjointe de l'unique actionnaire du payeur, est la personne qui a fixé l'horaire de travail de l'appelante. Cette affirmation, cependant, n'est pas appuyée par la preuve.
+[13] Les critères selon lesquels on doit apprécier le travail de l'appelante pour déterminer si l'emploi est assurable, ont été établis dans l'arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553, où la Cour d'appel fédérale statuait ce qui suit :
+La jurisprudence a établi une série de critères pour déterminer si un contrat constitue un contrat de louage de services ou un contrat d'entreprise. Bien qu'il en existe d'autres, les quatre critères suivants sont les plus couramment utilisés :
+a) le degré, ou l'absence, de contrôle exercé par le prétendu employeur;
+b) la propriété des instruments de travail;
+c) les chances de bénéfice et les risques de perte;
+d) l'intégration des travaux effectués par les prétendus employés dans l'entreprise de l'employeur présumé.
+[14] Pour ce qui porte sur le premier critère, celui du contrôle, la preuve a révélé que celui-ci était inexistant. Aucun lien de subordination, caractéristique essentiel à tout contrat de louage de services, n'a été établi; ce qui importait, c'était le résultat. L'appelante oeuvrait comme une travailleuse autonome, décidait elle-même quand et comment elle allait faire son travail. La seule consigne : il fallait que son travail soit fait en dehors des heures de bureau du payeur.
+[15] Dans un arrêt récent, la Cour d'appel fédérale dans la cause Livreur Plus Inc. c. Canada (ministre du Revenu national - M.R.N.), [2004] A.C.F. no 267, dont jugement a été rendu le 13 février 2004, le juge Létourneau s'exprimait en ces termes :
+Dans ce contexte, les éléments du critère énoncé dans l'arrêt Wiebe Door Services Ltd. c. M.R.N., 87 D.T.C. 5025, à savoir le degré de contrôle, la propriété des instruments de travail, les chances de bénéfices et les risques de pertes et enfin l'intégration, ne sont que des points de repère : Charbonneau c. Canada (ministre du Revenu national - M.R.N.) (1996), 207 N.R. 299, paragraphe 3. En présence d'un véritable contrat, il s'agit de déterminer si, entre les parties, existe un lien de subordination, caractéristique du contrat de travail, ou s'il n'y a pas, plutôt, un degré d'autonomie révélateur d'un contrat d'entreprise : ibidem.
+Ceci dit, il ne faut pas, au plan du contrôle, confondre le contrôle du résultat ou de la qualité des travaux avec le contrôle de leur exécution par l'ouvrier chargé de les réaliser : Vulcain Alarme Inc. c. Le ministre du Revenu national, A-376-98, 11 mai 1999, paragraphe 10, (C.A.F.); D & J Driveway Inc. c. Le ministre du Revenu national, [...] au paragraphe 9. Comme le disait notre collègue le juge Décary dans l'affaire Charbonneau c. Canada (ministre du Revenu national - M.R.N.), [...], suivie dans l'arrêt Jaillet c. Canada (ministre du Revenu national - M.R.N.) 2002 F.C.A. 394, « rares sont les donneurs d'ouvrage qui ne s'assurent pas que le travail est exécuté en conformité avec leurs exigences et aux lieux convenus. Le contrôle du résultat ne doit pas être confondu avec le contrôle du travailleur.
+[16] Examiné sous le critère de la propriété des outils, étant donné que l'appelante et le payeur se partageaient ceux-ci, l'analyse produit un résultat à peu près nul.
+[17] Quant à l'intégration, s'il est vrai que l'appelante ne travaillait que pour le payeur, on pourrait conclure, selon la preuve, que rien ne l'aurait empêchée d'offrir ses services à d'autres entreprises. On peut conclure, en outre, que le travail qu'elle exécutait pour le payeur aurait très bien pu être offert en sous-traitance.
+[18] L'appelante avait le fardeau de la preuve. Elle avait pour tâche de prouver la fausseté des présomptions du Ministre mais elle ne l'a pas fait. D'ailleurs, la plupart des présomptions du Ministre ont été admises.
+[19] Étant donné l'absence de l'appelante à l'audition, il convient, dans ces circonstances, de rappeler que la Cour peut en tirer une inférence négative. Cette Cour dans l'arrêt Nicolas A. Enns et M.R.N. (App-1992(IT)), en pareilles circonstances, statuait ce qui suit :
+Dans l'ouvrage de Sopinka et Lederman, The Law of Evidence in Civil Cases, les auteurs font remarquer ce qui suit au sujet des conséquences de l'omission de faire comparaître un témoin, je cite :
+[TRADUCTION]
+Dans l'affaire Blatch v. Archer, (1774), 1 Cowp. 63, p. 65), Lord Mansfield a déclaré :
+Il existe certainement un principe voulant que tous les faits soient appréciés à la lumière de la preuve que l'une des parties était en mesure de produire et que l'autre partie était en mesure de réfuter.
+L'application de ce principe a conduit à établir une règle bien connue selon laquelle l'omission d'une partie ou d'un témoin de produire une preuve que la partie ou le témoin était en mesure de produire et qui aurait peut-être permis d'élucider les faits, fonde la Cour à déduire que la preuve de la partie ou du témoin en question aurait été défavorable à la partie à laquelle l'omission a été attribuée.
+Dans le cas d'un demandeur auquel il incombe d'établir un point, l'effet de cette déduction peut être que la preuve produire sera insuffisante pour s'acquitter du fardeau de la preuve. (Lévesque et al. c. Comeau et al., [1979] R.C.S. 1010, [...]
+[20] Dans ce contexte, il convient de retenir ce passage de la déclaration statutaire de l'appelante (pièce I-1) qui se lit comme suit :
+Je reconnais avoir fourni des informations erronées sur ma demande de prestations en ce qui a trait à mon genre de travail et à l'horaire de travail que j'accomplissais ainsi que lors de ma déclaration statutaire du 29 mai 2002 car j'étais surprise de la raison pour laquelle on m'avait fait venir. [...]
+[21] Cette Cour est d'avis que l'appelante n'a pas établi le bien-fondé de son intervention. La Cour se voit donc contrainte d'appuyer la décision du Ministre et conclut que celui-ci avait raison de conclure que l'appel de l'appelante était mal fondé en fait et en droit. Donc, l'appelante n'occupait pas un emploi assurable pendant la période en litige parce qu'elle et le payeur n'étaient pas liés par un contrat de louage de services au sens de l'alinéa 5(1)a) de la Loi.
+[22] En conséquence, l'appel est rejeté et la décision du Ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 20e jour de mai 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2004CCI357
+No DU DOSSIER DE LA COUR :
+2003-2015(EI)
+INTITULÉ DE LA CAUSE :
+Nada Ouellet et M.R.N.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 23 février 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie,
+juge suppléant
+DATE DU JUGEMENT :
+Le 20 mai 2004
+COMPARUTIONS :
+Pour l'appelante :
+Pierre Garraud (représentant)
+Pour l'intimé :
+Me Simon-Nicolas Crépin
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

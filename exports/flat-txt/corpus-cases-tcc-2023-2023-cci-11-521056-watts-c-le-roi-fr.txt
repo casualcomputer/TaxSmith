@@ -1,0 +1,327 @@
+Title: Watts c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521056/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-11-521056-watts-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-01-25
+
+# Watts c. Le Roi
+
+- Citation: 2023 CCI 11
+- Decision date: 2023-01-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5786, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Watts c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-01-25
+Référence neutre
+2023 CCI 11
+Numéro de dossier
+2019-2942(IT)G
+Juges et Officiers taxateurs
+Ronald MacPhee
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-2942(IT)G
+ENTRE :
+MIRIAM WATTS,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 14 et 15 novembre 2022, à Toronto (Ontario)
+Devant : L’honorable juge Ronald MacPhee
+Comparutions :
+Avocat de l’appelante :
+Me Marco Iampieri
+Avocats de l’intimé :
+Me Hye-Won (Caroline) Ahn
+Me Peter Swanstrom
+JUGEMENT
+En conformité avec les motifs du jugement ci-joints, l’appel est rejeté. Les dépens doivent être payés par l’appelante.
+Les parties ont jusqu’au 15 mars 2023 pour parvenir à un accord sur les dépens, à défaut de quoi l’intimé aura jusqu’au 14 avril 2023 pour signifier et déposer ses observations écrites sur les dépens, puis l’appelante aura jusqu’au 15 mai 2023 pour signifier et déposer une réponse écrite. Ces observations ne doivent pas dépasser dix pages. Si les parties n’informent pas la Cour qu’elles sont parvenues à un accord et que la Cour ne reçoit pas d’observations dans les délais mentionnés précédemment, chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 25e jour de janvier 2023.
+« R. MacPhee »
+Le juge MacPhee
+Traduction certifiée conforme
+Ce 15e jour de mars 2024.
+François Brunet, réviseur
+Référence : 2023 CCI 11
+Date : 20230125
+Dossier : 2019-2942(IT)G
+ENTRE :
+MIRIAM WATTS,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge MacPhee
+I. APERÇU [1] Notre Cour est saisie d’un appel d’une cotisation établie par le ministre du Revenu national (le « ministre ») aux termes de l’article 160 de la Loi de l’impôt sur le revenu (la « Loi »). Le ministre a établi une cotisation de 138 550 $ à l’égard de l’appelante pour ce qu’il a déterminé comme étant un transfert indirect de biens provenant de son époux, M. Lawrence Watts (« M. Watts »).
+II. EXPOSÉ DES FAITS
+[2] Les faits en l’espèce sont relativement simples, et en grande partie constants.
+[3] Trois personnes ont témoigné durant le procès. Il s’agit de :
+(i)M. Watts, l’époux de l’appelante;
+(ii)l’appelante;
+(iii)M. Robert Sarracini (« M. Sarracini »), un agent de l’Agence du revenu du Canada.
+[4] L’appelante est l’épouse de M. Watts. Ils sont mariés depuis 1993.
+[5] En 2009, M. Watts avait une dette fiscale impayée de 404 452 $. Cette dette fiscale provenait de la cotisation ou de la nouvelle cotisation établie par le ministre pour les années d’imposition 2000, 2001, 2005, 2007 et 2009 de M. Watts. Ce montant de dette fiscale était constant, tout comme l’intégrité des cotisations de M. Watts.
+[6] Les particularités des dettes fiscales de M. Watts ont été présentées dans les observations du ministre, et sont les suivantes :
+Date de la (nouvelle) cotisation
+Année d’imposition
+Total ($)
+4 novembre 2002
+2000
+157 171,17
+7 avril 2003
+2001
+32 210,64
+4 décembre 2006
+2005
+544,83
+28 mai 2009
+2007
+31 683,06
+22 novembre 2012
+2009
+182 842,47
+TOTAL
+blank
+404 452,17
+[7] M. Watts exploitait l’entreprise Fiscal Arbitrators (« FA ») à titre d’entreprise individuelle jusqu’à la cessation de ses activités en 2013. En octobre 2015, M. Watts a été reconnu coupable de fraude et, en juin 2016, il a été condamné à une peine d’emprisonnement de six ans en raison de la conduite de son entreprise FA[1].
+[8] Le compte bancaire de l’entreprise individuelle de M. Watts était enregistré avec la Banque de Montréal. Les chiffres identifiants du compte bancaire de FA sont 785 (le « compte 785 »). Le compte 785 de FA était un compte conjoint entre Carlton Branch (« M. Branch ») et M. Watts.
+[9] M. Branch était un associé de M. Watts dans l’entreprise de FA. Tous deux pouvaient retirer de l’argent du compte 785, et chacun avait des chèques personnels du compte portant son nom.
+[10] Très peu d’éléments de preuve ont été présentés au sujet de la part de l’argent du compte 785 qui appartenait à M. Branch. En particulier, était-ce seulement la moitié des fonds du compte 785 qui lui appartenaient, avec M. Branch, ou est-ce que les fonds lui appartenaient à 100 %? M. Watts a témoigné que lui et M. Branch devaient se partager les revenus de FA.
+[11] En février 2007, M. Watts a constitué la société CBLW Trading Company Limited (« CBLW ») aux termes de la Loi canadienne sur les sociétés par actions (« LCSA »). Cette société a été dissoute en décembre 2013. Pendant toute l’existence juridique de CBLW, M. Watts en était le seul administrateur et dirigeant. M. Watts était en tout temps l’esprit dirigeant de CBLW.
+[12] Le compte bancaire de CBLW était également enregistré auprès de la Banque de Montréal (« BMO »). Les chiffres identifiants du compte bancaire de CBLW sont 895 (le « compte 895 »). M. Branch avait aussi un pouvoir de signature pour le compte 895 de CBLW, mais il n’en a jamais été administrateur ou dirigeant. Dans son témoignage, M. Watts a reconnu que c’était lui qui décidait où les fonds de ce compte étaient envoyés.
+[13] M. Watts a témoigné que l’objectif de CBLW était d’effectuer les mesures administratives nécessaires pour exploiter FA. Ces mesures incluaient le paiement du loyer pour les locaux à bureaux de FA et la gestion des dépenses.
+[14] M. Watts a témoigné que CBLW n’avait jamais produit de documents ou mis à jour l’adresse de CBLW auprès de l’Agence du revenu du Canada (« ARC »). Dans son témoignage, M. Sarracini a aussi affirmé que tel était le cas. M. Sarracini a également témoigné que l’ARC avait obtenu l’adresse inscrite à son système de registres au moyen de la base de données des sociétés du gouvernement fédéral.
+[15] Une cotisation a été établie à l’égard de CBLW le 30 avril 2018. Au moment de l’établissement de la cotisation, CBLW était dissoute, et ce, depuis 2013. Conformément au paragraphe 226(2) de la Loi canadienne sur les sociétés par actions (« LCSA »), le ministre ne disposait que de deux ans pour établir la cotisation suivant la dissolution de la société[2]. Sinon, l’ARC aurait dû prendre des mesures pour raviver la société avant d’établir la cotisation. Elle ne l’a pas fait. Je note également que des questions sérieuses ont été soulevées quant à savoir si CBLW avait reçu l’avis de cotisation.
+[16] Le ministre n’avait pas la capacité d’établir une cotisation à l’égard de CBLW au moment où il l’a fait. La société était dissoute depuis cinq ans au moment de l’établissement de la cotisation. Il s’agit d’une période nettement plus longue que les deux années prévues par le paragraphe 226(2) de la LCSA. Pour ces motifs, je poursuivrai en tenant pour acquis que la cotisation de CBLW n’était pas appropriée.
+A. Les transferts en cause [17] Les transferts de biens aux deux parties sont déterminants en l’espèce.
+[18] Dans le cadre du premier transfert (« premier transfert »), M. Watts a autorisé le transfert de 519 206,36 $ du compte 785 de FA au compte 895 de CBLW. Ce transfert a été effectué entre le 2 février 2009 et le 26 mai 2010.
+[19] Pour effectuer le deuxième transfert (« deuxième transfert »), CBLW a utilisé le compte 895 pour transférer un total de 138 550 $ à Peddle & Pollard LLP and Trust (la « fiducie »). Le total de 138 550 $ était composé d’un transfert initial d’un chèque émis par CBLW de 20 000 $ à l’ordre de la fiducie le 30 août 2009, et un transfert subséquent de 118 550 $ par traite bancaire de CBLW à la fiducie le 18 septembre 2009.
+[20] Le transfert de 138 550 $ de CBLW à la fiducie a été effectué selon les instructions de M. Watts. Sa signature figurait sur le chèque et sur la traite bancaire.
+[21] L’objet du transfert de 138 550 $ à la fiducie visait l’achat d’une résidence à Markham, en Ontario. La maison a été achetée au moyen d’une convention d’achat-vente datée du 27 août 2009. La convention indiquait que la résidence devait être achetée au nom de l’appelante seulement.
+[22] M. Watts était l’esprit dirigeant qui a transféré l’argent de son compte bancaire à celui de CBLW, et a ensuite fait en sorte que CBLW transfère l’argent à la fiducie pour acheter une maison au nom de l’appelante. Aucune des opérations n’aurait eu lieu sans M. Watts. Dans son témoignage, M. Watts ne conteste pas cette conclusion.
+B. Le travail de l’appelante pour FA ou CBLW [23] L’appelante a témoigné qu’elle a travaillé pour FA durant les années 2008 à 2011. Elle a affirmé que son rôle incluait la communication avec des agents partout au pays, le rassemblement des documents nécessaires pour produire les nombreuses déclarations, le report de chèques et d’autres tâches administratives. Elle a témoigné en autre que, durant la période de production des déclarations de revenus, elle travaillait près de soixante heures par semaine.
+[24] M. Watts a témoigné que l’appelante a effectué des travaux pour CBLW durant les années en question. Il a décrit ses tâches comme englobant l’entrée de données, le classement de documents et l’exécution de tâches administratives générales. Il n’a jamais été précisé si l’appelante affirmait avoir fourni ces services à FA ou à CBLW.
+[25] M. Watts et l’appelante ont tous deux témoigné que son travail devait être rémunéré par l’achat d’une maison en son nom. L’appelante a témoigné en outre que cette rémunération a été incluse dans un contrat verbal entre elle et M. Watts. Il s’agirait effectivement d’un paiement différé, puisqu’aucune rémunération n’a été versée à l’appelante à titre hebdomadaire, mensuel ou annuel. Bien qu’elle soutienne avoir continué de travailler pour FA jusqu’en 2011, l’appelante n’a reçu aucune autre rémunération.
+[26] En ce qui concerne le travail effectué par l’appelante pour FA ou CBLW, aucune autre preuve n’a été présentée outre les témoignages de l’appelante et de M. Watts. Aucune documentation n’a été produite pour consigner le nombre d’heures durant lesquelles l’appelante avait travaillé ou le taux horaire qu’elle devait recevoir. Aucune preuve n’a été présentée pour documenter les tâches effectuées par l’appelante pendant qu’elle travaillait pour FA.
+[27] En ce qui concerne la rémunération fournie à l’appelante par FA ou CBLW pour son travail, aucune preuve ne m’a été présentée de l’accord de service mis à part les témoignages de l’appelante et de M. Watts. Il n’y a aucune preuve indiquant que l’appelante a reçu un revenu figurant à un feuillet T4 pour son travail. Aucune preuve n’indiquait non plus que FA ou CBLW avaient consigné des frais ou une déduction pour la rémunération du travail de l’appelante. De plus, il n’y avait aucune preuve étayant l’idée que l’appelante avait déclaré un revenu d’emploi ou d’entreprise en 2009, l’année d’imposition au cours de laquelle elle a reçu le bien en question.
+[28] Enfin, il y avait une contradiction troublante dans l’affirmation de l’appelante qu’elle avait reçu la maison à titre de rémunération pour services rendus à FA. Dans son jugement concernant la détermination de la peine relative à la déclaration de culpabilité au pénal de M. Watts, le juge Bale de la Cour supérieure de justice de l’Ontario a indiqué que M. Watts avait fourni la maison à son épouse sous forme de don, plutôt qu’à titre de rémunération[3]. Cette incohérence a été présentée à M. Watts lors de son contre-interrogatoire dans le présent appel. Il n’a pas admis avoir qualifié la maison de don, ni lors de son procès criminel ni au moment du prononcé de la sentence.
+III. LA THÈSE DE L’APPELANTE
+[29] L’appelante affirme que l’appel devrait être accueilli pour les raisons suivantes :
+a)Le ministre a invoqué des documents saisis à la suite d’un mandat de perquisition. Un juge de la Cour supérieure de justice de l’Ontario avait ordonné que ces documents soient rendus conformément au paragraphe 490(9) du Code criminel[4]. L’appelante est d’avis que l’intimé n’aurait jamais dû avoir eu recours à ces documents et que les cotisations devraient donc être annulées. À la demande de l’appelante, j’ai disposé de cette requête au début du procès. J’ai rejeté l’argument de l’appelante dans cette requête. Je ne me reporterai donc pas à cet argument dans ma décision.
+b)Elle était employée de CBLW, et avait droit à une rémunération par contrat. La somme de 138 550 $ qu’elle a reçue devait servir de rémunération pour services rendus; le paragraphe 160(1) ne doit donc pas s’appliquer.
+c)La Cour de l’impôt doit annuler la cotisation établie à l’égard de l’appelante aux termes du paragraphe 160(1), car la cotisation sous-jacente à l’égard de CBLW n’était pas valide. L’appelante a soutenu que la cotisation à l’égard de CBLW invoquée pour sa propre cotisation aux termes du paragraphe 160(1) n’était pas valide pour deux raisons. Premièrement, la cotisation primaire était non valide, car l’avis n’avait pas été transmis convenablement à CBLW. Deuxièmement, la cotisation établie à l’égard de CBLW était inappropriée, car il s’agissait d’une société dissoute aux termes de la LCSA au moment de l’établissement de la cotisation. Ces arguments portent sur la cotisation établie à l’égard de CBLW et ne contestent pas la cotisation établie à l’égard de M. Watts. Aucune preuve ni aucun argument n’ont été présentés pour contester la cotisation sous-jacente à l’égard de M. Watts.
+d)L’avocat de l’appelante a également soutenu que le ministre avait incorrectement établi une cotisation à l’égard de l’appelante aux termes du paragraphe 160(1), car il n’y avait pas de transfert indirect de biens de M. Watts à l’appelante.
+[30] Comme je l’ai noté plus haut, je tranche la présente affaire en tenant pour acquis que CBLW n’a pas fait l’objet d’une cotisation appropriée.
+IV. LA THÈSE DE L’INTIMÉ
+[31] Dans ses observations, l’intimé a soutenu ce qui suit :
+a)Que CBLW ait reçu ou non un avis de cotisation approprié, ou pouvait même faire l’objet d’une cotisation par le ministre en 2018, n’est pas pertinent, car la dette fiscale aux termes du paragraphe 160(1) est née au moment du transfert du bien à l’appelante et non à l’établissement de la cotisation de CBLW.
+b)Les premier et deuxième transferts (mentionnés plus haut) constituaient un transfert indirect de M. Watts à l’appelante. Par conséquent, la cotisation établie aux termes du paragraphe 160(1) doit être maintenue.
+c)Si notre Cour conclut qu’il n’y a pas eu de transfert indirect entre M. Watts et l’appelante par l’intermédiaire de CBLW, il y a donc eu un transfert direct de biens de M. Watts à CBLW, puis à l’appelante. L’intimé soutient que cette situation constituerait une cotisation en cascade aux termes du paragraphe 160(1), et que l’appel devrait donc être refusé.
+V. QUESTIONS EN LITIGE [32] La question en litige que notre Cour doit trancher est si, conformément au paragraphe 160(1) de la Loi, l’appelante est tenue de payer 138 550 $ pour le transfert de fonds par M. Watts du compte 785 au compte 895, pour ensuite aider avec l’achat d’une maison dont l’appelante serait l’unique propriétaire.
+[33] Pour déterminer si l’appelante est tenue de payer aux termes du paragraphe 160(1) de la Loi, les deux questions déterminantes dans le présent appel sont les suivantes :
+(i)Y a-t-il eu transfert direct ou indirect de biens au moyen d’une fiducie ou de toute autre façon en faveur de l’appelante?
+(ii)La juste valeur marchande des biens transférés excède-t-elle la juste valeur marchande de la contrepartie donnée par le bénéficiaire du transfert?
+VI. ANALYSE JURIDIQUE A. Fardeau
+[34] D’entrée de jeu, je conclus qu’il m’est nécessaire d’examiner rapidement le fardeau de chacune des parties dans ses actes de procédure et au procès. Je le fais en raison de mes réserves à l’égard de la preuve.
+[35] Selon le paragraphe 48(1) des Règles de la Cour canadienne de l’impôt (procédure générale), pour chaque appel d’une cotisation établie en vertu de la Loi, l’avis d’appel doit se conformer à la formule 21(1)a)[5]. La formule 21(1)a) exige que le contribuable cite les faits pertinents invoqués par l’appelante en s’opposant au bien-fondé d’une cotisation.
+[36] Il incombe au contribuable de soulever dans les actes de procédure toute contestation en droit ou en fait. L’appelante doit contester les hypothèses et les faits présentés par l’intimé dans leurs actes de procédure respectifs. En l’absence de contestation des faits au moyen des actes de procédure, notre Cour retient les faits exposés et incontestés comme vrais[6].
+[37] Au procès, il incombe à l’appelante de démolir l’hypothèse de faits du ministre selon la prépondérance des probabilités[7]. Si l’appelante néglige de démolir les hypothèses, les hypothèses du ministre demeurent. Cependant, il ne revient pas au juge de première instance de trancher une question qui n’a pas été soulevée dans les actes de procédure et lorsqu’aucune preuve n’y avait précisément été dirigée.[8]
+B. L’appelante n’a pas démoli l’hypothèse que sa responsabilité fiscale était autre que 138 550 $.
+[38] À aucun moment l’appelante n’a-t-elle contesté la propriété des fonds au compte 785, et ce, malgré le fait que M. Watts et M. Branch semblent être conjointement titulaires de ce compte. Par conséquent, je suis d’avis que M. Watts a transféré au moins 138 550 $ du compte 785 au bénéfice éventuel de l’appelante.
+[39] Deuxièmement, le ministre présente l’hypothèse suivante concernant le transfert de fonds du compte 785 au compte 895 :
+[traduction]
+j) vers la période du 2 février 2009 au 26 mai 2010, l’époux a transféré un total de 519 203,36 $ du compte de BMO se terminant par « 785 » au compte de BMO se terminant par « 895 ».
+[40] C’est la question du transfert de fonds du compte 785 au compte 895 jusqu’au moment où le montant s’est retrouvé au bénéfice de l’appelante qui est la plus pertinente à ma décision. Le transfert de bien final était l’argent utilisé pour acheter une maison au nom de l’appelante. La dernière date de ce transfert était le 18 septembre 2009.
+[41] La question qui se pose est la suivante : quel montant a été transféré du compte 785 au compte 895 au 18 septembre 2009? Bien que les relevés bancaires aient été fournis au procès, cette question n’a pas été contestée, ni même discutée.
+[42] Dans mon examen des relevés bancaires pour le compte 895, j’ai conclu que la somme des montants transférés de M. Watts à CBLW entre le 2 février 2009 et le 18 septembre 2009 s’élevait à 104 174,97 $. Cette somme est tirée du recueil de documents de l’intimé qui dresse la liste des transferts du compte 785 au compte 895 entre les dates en question. Quant à savoir si mon calcul est exact, ou s’il manque une analyse nécessaire plus poussée, je ne saurais le dire.
+[43] La ventilation de la somme de 104 174,97 $ est la suivante :
+No
+Date
+Montant
+1
+2 févr. 2009
+100 $
+2
+10 juin 2009
+2724,97 $
+3
+31 juill. 2009
+5 400 $
+4
+10 août 2009
+34 000 $
+5
+14 août 2009
+14 500 $
+6
+27 août 2009
+3 000 $
+7
+4 sept. 2009
+23 150 $
+8
+9 sept. 2009
+10 000 $
+9
+18 sept. 2009
+11 300 $
+TOTAL
+104 174,97 $
+[44] En l’espèce, aucune des parties n’a contesté le montant total du transfert de 138 550 $ dans leurs actes de procédure respectifs, et aucune n’a contesté ce montant au procès. Dans son avis d’appel, aux paragraphes 34 à 38, l’appelante semble retenir le fondement qu’un transfert indirect a eu lieu et qu’une cotisation en cascade aux termes du paragraphe 160(1) pouvait aussi être maintenue (sous réserve de la contrepartie que l’appelante a donnée pour obtenir le bénéfice). L’avis d’appel modifié ultérieurement de l’appelante ne contestait pas non plus cette caractérisation.
+[45] Pour ces motifs, je conclus que l’appelante ne s’est pas acquittée de son fardeau de démontrer que la cotisation était incorrecte en établissant que 138 500 $ avaient été transférés, indirectement, de M. Watts à l’appelante.
+C. Facteurs nécessaires pour maintenir une cotisation aux termes du paragraphe 160(1)
+[46] L’article 160 de la Loi vise à empêcher le contribuable endetté de soustraire ses biens à l’ARC. S’il transfère des biens à une personne avec laquelle il a un lien de dépendance tandis qu’il doit des impôts, alors le bénéficiaire du transfert devient responsable de sa dette fiscale. Le bénéficiaire du transfert devra le moins élevé des montants suivants : a) la juste valeur marchande du bien transféré, ou b) la dette de l’auteur du transfert.
+[47] La décision de principe sur l’article 160 est l’arrêt Livingston3, qui consacre quatre critères qui doivent être réunis pour l’application du paragraphe 160(1). Ces critères sont les suivants :
+L’auteur du transfert doit avoir un montant à payer au titre des impôts aux termes de la Loi au moment de ce transfert.
+Il doit y avoir eu transfert direct ou indirect de biens au moyen d’une fiducie ou de toute autre façon.
+Le bénéficiaire du transfert doit être :
+soit l’époux ou conjoint de fait de l’auteur du transfert au moment de celui-ci, ou une personne devenue depuis son époux ou conjoint de fait;
+soit une personne qui était âgée de moins de 18 ans au moment du transfert;
+soit une personne avec laquelle l’auteur du transfert avait un lien de dépendance.
+La juste valeur marchande des biens doit excéder la juste valeur marchande de la contrepartie donnée par le bénéficiaire du transfert[9].
+[48] Des critères mentionnés plus haut, les premier et troisième critères ne sont pas en cause. Les principaux faits qui relèvent de ces critères sont les suivants :
+À la fin de 2009, la dette fiscale totale de M. Watts s’élevait à 404 452,17 $. Cette dette sous-jacente n’a pas été contestée au procès.
+Entre le 2 février 2009 et le 26 mai 2010, M. Watts a transféré un total de 519 203,36 $ du compte 785 au compte 895.
+L’appelante est mariée à M. Watts, et l’était au moment du transfert.
+Un chèque de 20 000 $ daté du 30 août 2009 du compte 895 a été libellé à l’ordre de Peddle and Pollard Real Estate Lawyers pour l’achat d’une maison à Markham, en Ontario.
+Une traite bancaire de 118 550 $ du 18 septembre 2009 a été tirée du compte 895 à l’ordre de Peddle and Pollard Real Estate Lawyers pour l’achat de la même maison à Markham, en Ontario.
+Le contrat d’achat-vente pour la maison de Markham était daté du 27 août 2009.
+Le bien a été acheté au nom de l’appelante seulement. On n’a jamais contesté que l’appelante avait tiré un bénéfice du transfert de fonds de M. Watts à CBLW et ensuite pour payer une partie de l’achat d’une maison.
+D. M. Watts a transféré ses fonds personnels
+[49] M. Watts a exploité une entreprise individuelle entre les années 2000 et 2013 environ. Cette entreprise individuelle utilisait le compte 785.
+[50] L’effet juridique d’une entreprise individuelle est qu’il n’y a aucune distinction entre l’identité individuelle du particulier et celle de l’entreprise. La Cour d’appel de l’Ontario a conclu ce qui suit :
+[traduction]
+« [s]ur le plan juridique et pratique, “il n’y a pas de distinction entre l’organisation de l’entreprise individuelle et la personne qui en est le propriétaire unique”. Par conséquent, “tous les bénéfices de l’entreprise reviennent au propriétaire unique et toutes les obligations de l’entreprise sont les siennes”[10]. »
+[51] Je conclus donc que les transferts effectués à partir du compte 785 étaient des transferts provenant de M. Watts personnellement.
+E. Cotisation en cascade fondée sur l’article 160
+[52] L’intimé a soutenu que si je ne concluais pas à un transfert indirect de M. Watts à Mme Watts, je devrais conclure qu’une cotisation en cascade fondée sur l’article 160 s’applique[11].
+[53] Je ne considère pas nécessaire de procéder à une analyse plus approfondie de cet argument subsidiaire étant donné ma conclusion qu’un transfert a eu lieu. Je dirai toutefois que si j’avais de la difficulté à conclure à un transfert indirect, je conclurais que la cotisation en cascade s’applique en l’espèce. Je le ferais même s’il n’y avait pas de cotisation à l’égard de CBLW (pour les motifs énoncés plus haut).
+[54] L’appelante soutient que l’absence de cotisation de CBLW porte un coup fatal à l’argument du ministre relativement à la cotisation en cascade.
+[55] En contestant la cotisation, l’appelante fait valoir que le sous-alinéa 160(1)e)(ii) a été modifié en 2013, après la date du transfert. La modification a ajouté ce qui suit (souligné) :
+160(1)e)(ii) le total des montants représentant chacun un montant que l’auteur du transfert doit payer en vertu de la présente loi (notamment un montant ayant ou non fait l’objet d’une cotisation en application du paragraphe (2) qu’il doit payer en vertu du présent article) au cours de l’année d’imposition où les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années[12].
+[56] L’appelante soutenait que, puisque cette modification à l’article ne figurait pas dans la législation en 2009, l’intimé ne pouvait pas invoquer cette disposition. En particulier, l’appelante soutenait que sans cotisation valide de CBLW, la cotisation contre elle ne pouvait être maintenue.
+[57] Je ne suis pas de cet avis pour deux raisons. Premièrement, la législation modifiée devait s’appliquer aux cotisations établies après le 20 décembre 2002[13]. Par conséquent, la nouvelle législation s’appliquait bel et bien à la question dont notre Cour est saisie.
+[58] Deuxièmement, la version anglaise de la modification à la législation a été faite « for greater certainty » (pour plus de précision). Elle ne faisait que codifier la jurisprudence antérieure, c’est-à-dire, qu’une cotisation soit établie ou non, la responsabilité de la dette fiscale existe[14]. Ce n’est pas la cotisation qui a créé la dette. La jurisprudence enseigne qu’une cotisation n’est qu’un simple moyen procédural ou administratif pour déterminer l’impôt payable[15].
+[59] Par conséquent, même si CBLW n’avait pas fait l’objet d’une cotisation appropriée, elle devait quand même 404 452,17 $ en raison des transferts de fonds de M. Watts à CBLW. Ensuite, lorsque CBLW a transféré les fonds au bénéfice de l’appelante, celle-ci est devenue responsable de la dette de CBLW jusqu’à concurrence de la valeur des fonds transférés.
+F. Facteurs de Livingston en cause : Facteurs 2 et 4
+[60] Comme je l’ai noté, deux des quatre facteurs énumérés dans l’arrêt Livingston n’ont pas été discutés. Plus précisément, il est constant que M. Watts, l’auteur du transfert, était un débiteur aux termes de la Loi au moment du transfert. Il est aussi clair que l’appelante était l’épouse de M. Watts au moment du transfert.
+[61] Les autres questions en litige sont les suivantes :
+Y a-t-il eu transfert direct ou indirect de biens au moyen d’une fiducie ou de toute autre façon en faveur de l’appelante?
+La juste valeur marchande des biens transférés excède-t-elle la juste valeur marchande de la contrepartie donnée par le bénéficiaire du transfert?
+G. M. Watts a transféré indirectement des biens à l’appelante.
+[62] Le mot « transfert » n’est pas défini dans la Loi. Le mot « transfert » n’est pas un terme consacré, mais, selon son sens ordinaire, il signifie que l’on fait passer la propriété d’un bien d’une personne à une autre[16].
+[63] La Cour d’appel fédérale (CAF) a conclu ce qui suit :
+« Un transfert direct est une transaction par laquelle une personne transfère un bien à une autre. Un transfert indirect inclurait une transaction par laquelle une personne transfère un bien à une autre par l’intermédiaire d’un tiers[17]. »
+[64] À l’occasion d’autres affaires, notre Cour a posé la question suivante pour déterminer s’il y avait un transfert de bien : en se départissant du bien, l’auteur du transfert s’est-il appauvri et le bénéficiaire du transfert s’est-il enrichi en conséquence[18]? Dans le présent appel, la réponse est manifestement positive.
+[65] Le mouvement des fonds du compte 785 au compte 895 pour finalement aider l’appelante à faire l’achat d’une maison n’était évidemment pas un transfert direct de M. Watts à l’appelante. Cependant, le paragraphe 160(1) dispose précisément qu’il s’applique également aux transferts indirects.
+[66] Selon le paragraphe 160(1), un transfert indirect est « toute façon détournée dont un bien de quelque nature peut être transmis d’une personne à une autre »[19].
+[67] En l’espèce, M. Watts était l’administrateur unique de CBLW et de FA. C’est lui qui était l’esprit dirigeant qui a transféré l’argent de son compte bancaire à celui de CBLW, et a ensuite fait en sorte que CBLW transfère l’argent à la fiducie pour aider l’appelante à faire l’achat d’une maison. La traite bancaire et le chèque envoyés à l’avocat pour l’achat de la maison portaient tous les deux sa signature. Aucun des transferts d’argent n’aurait eu lieu sans les instructions de M. Watts.
+H. L’intimé doit-il prouver l’intention de l’auteur du transfert pour prouver qu’un transfert indirect a lieu?
+[68] Je rejette l’argument de l’appelante selon lequel un transfert indirect de M. Watts à l’appelante n’a pas eu lieu parce que rien ne prouve que M. Watts, au moment du premier transfert, avait l’intention d’effectuer ultérieurement le deuxième transfert au bénéfice de l’appelante.
+[69] L’avocat de l’appelante appuie cet argument sur un exemple de transfert indirect décrit pas la CAF. L’énoncé est le suivant :
+« L’article 160 s’applique aux transferts “directs” et “indirects”. « Un transfert direct est une transaction par laquelle une personne transfère un bien à une autre. Un transfert indirect inclurait une transaction par laquelle une personne transfère un bien à une autre par l’intermédiaire d’un tiers. » Par exemple, si A donne à B un cadeau de 100 $ en espèces, alors A a fait un transfert direct de 100 $ à B. Si A donne 100 $ en espèces à B à la condition ou dans l’espoir que B donne 100 $ en espèces à C, et si B donne effectivement 100 $ en espèces à C, alors A a fait un transfert indirect de 100 $ à C[20]. » [Non souligné dans l’original]
+[70] Je note qu’il s’agit d’une opinion incidente de la juge Sharlow. De plus, lu dans son contexte, je rejette l’idée que la CAF tentait de limiter la définition du transfert indirect par cette observation. Plus loin dans sa décision, la juge Sharlow note au paragraphe 65(6) qu’une cotisation peut être maintenue même si le ministre ne peut pas démontrer une intention d’éviter l’impôt. Si la CAF voulait limiter la portée du transfert indirect comme le soutient l’avocat de l’appelante, elle l’aurait fait de façon explicite.
+[71] Dans l’arrêt Eyeball Networks Inc c. Canada, la CAF a clairement énoncé que l’expression « directement ou indirectement, au moyen d’une fiducie ou de toute autre façon » vise « toutes les formes de transferts, y compris ceux qui résultent de l’effet combiné de multiples opérations, que ces dernières soient prédéterminées ou non »[21]. [Non souligné dans l’original]
+[72] Il n’y a aucun doute que le paragraphe 160(1) peut s’appliquer au transfert de bien en plusieurs étapes comme en l’espèce. Selon mon interprétation des arrêts Medland et Eyeball Networks, la jurisprudence à ce sujet est claire : un transfert indirect au sens du paragraphe 160(1) vise tous les transferts non directs et n’exige pas la preuve qu’une autre partie s’attende à effectuer ultérieurement un transfert à un tiers.
+[73] De plus, il ressort bel et bien des faits en l’espèce que M. Watts souhaitait utiliser les fonds du compte 785 pour enrichir, au final, son épouse. C’est lui qui a dirigé le transfert des fonds à CBLW. Il a ensuite dirigé des paiements au bénéfice de l’appelante dans l’achat de la maison. M. Watts a témoigné qu’il avait l’intention de rémunérer son épouse en août ou septembre 2009 en aidant à l’achat de la maison pour elle.
+[74] Même s’il fallait prouver l’intention d’effectuer un deuxième transfert pour conclure à un transfert indirect, je conclurais que M. Watts, en transférant les fonds à CBLW, a toujours eu l’intention d’utiliser une partie de ces fonds pour enrichir l’appelante.
+[75] Par conséquent, je conclus qu’il y a eu transfert indirect de M. Watts à l’appelante pour une somme de 138 550 $.
+I. Mme Watts n’a pas fourni de contrepartie
+[76] Le ministre a présumé ce qui suit :
+[traduction] L’appelante n’a pas donné de contrepartie à CBLW en échange des fonds.
+[77] Dans l’arrêt Livingston, la CAF s’est exprimée sur la question du moment où le bénéficiaire du transfert donne la contrepartie :
+Sous le régime du paragraphe 160(1), le bénéficiaire d’un transfert de biens est redevable à l’ARC dans la mesure où la juste valeur marchande de la contrepartie donnée pour ces biens est inférieure à la juste valeur marchande de ceux-ci. L’objet même du paragraphe 160(1) est d’assurer la conservation de la valeur des biens existants dans le patrimoine du contribuable aux fins de recouvrement par l’ARC. Dans le cas où le contribuable s’est entièrement dessaisi de ces biens, le paragraphe 160(1) prévoit la possibilité pour l’ARC d’exercer ses droits sur lesdits biens contre le bénéficiaire de leur transfert. Cependant, ce paragraphe n’est pas d’application lorsque l’auteur du transfert a reçu au moment de celui‑ci une somme équivalente à la valeur des biens transférés, c’est‑à‑dire une contrepartie à la juste valeur marchande. La raison en est qu’une telle transaction ne lèse pas l’ARC en tant que créancier[22].
+[78] Dans une situation où un appelant affirme qu’une contrepartie a été donnée en échange du bénéfice, le juge de première instance doit effectuer une analyse de la juste valeur marchande de la contrepartie qui aurait été donnée[23]. En l’espèce, il incombe à l’appelante de prouver qu’elle a fourni des services qui constituaient une contrepartie suffisante pour que la cotisation ne soit pas maintenue.
+[79] Dans son avis d’appel et ses observations au cours du procès, l’appelante a soutenu qu’elle avait fourni différents services à CBLW, lesquels doivent être considérés comme la contrepartie des sommes que M. Watts lui avait transférées.
+[80] Cependant, dans son témoignage, l’appelante ne semblait pas certaine d’avoir fourni ces services à CBLW ou à FA. L’appelante a affirmé avoir effectué de nombreuses tâches pour FA, jusqu’à concurrence de 60 heures par semaine. Elle et M. Watts ont tous deux présenté un témoignage similaire à cet égard pour les travaux qu’elle effectuait.
+[81] En décrivant sa rémunération, l’appelante a déclaré ce qui suit (ce qui est peut-être la meilleure description de sa contrepartie donnée au procès) :
+[traduction]
+Q. D’accord. Donc, M. Watts a témoigné que vous étiez payée en quelque sorte pour vos fonctions plutôt que de recevoir un salaire horaire ou mensuel, est-ce exact?
+R. Oui.
+Q. Pouvez-vous m’en dire plus à ce sujet? Que – combien – quelle somme avait été convenue pour chaque fonction que vous exerciez?
+R. Le taux?
+Q. Hmm.
+R. Il n’y avait pas de taux.
+Q. Bien, donc…
+R. C’était, honnêtement, donne-moi une mise de fonds pour la maison, c’est ça mon prix. Je vais faire, genre, ce qui est nécessaire au bureau. Nous n’avons jamais discuté d’un taux. J’étais simplement satisfaite d’avoir la mise de fonds pour la maison.
+[82] Dans l’examen de la preuve dans son ensemble qu’on m’a présentée, j’ai d’abord tenté de déterminer si je retenais l’ampleur des services que l’appelante affirme avoir fournis, et ensuite, si la contrepartie qu’elle a reçue est proportionnelle à ces services. Malheureusement, je n’ai pas grand-chose pour m’aider à cet égard. L’appelante et M. Watts ont présenté peu d’éléments de preuve et n’avaient aucun renseignement à l’appui ni aucune corroboration. Les éléments de preuve ont également été contredits dans la détermination de la peine au pénal de M. Watts qui m’a été présentée[24].
+[83] En plus du manque d’éléments de preuve à l’appui, aucune explication n’a été donnée sur le fait que l’appelante a pris la totalité de son paiement en deux sommes forfaitaires, aucune ne lui ayant été versée directement. Ces paiements ont tous été faits en août et en septembre 2009. Pourtant, elle a témoigné qu’elle avait continué à fournir des services jusqu’en 2011. Dans son témoignage, elle a indiqué qu’elle n’avait pas reçu de paiement pour ces années futures.
+[84] Aucune preuve, comme un feuillet T4 ou une déclaration de revenu d’entreprise, n’a été donnée pour étayer l’idée que l’appelante avait accepté ces paiements en tant que revenu. M. Watts estimait que l’appelante était une entrepreneure au service de CBLW. Aucune preuve quelconque n’a été donnée concernant une dépense engagée pour ces paiements, ni par CBLW ni par FA.
+[85] Étant donné l’incohérence de ce qu’a écrit la Cour supérieure de justice de l’Ontario (les fonds étaient un don pour sa femme) et l’absence de logique dans la méthode de paiement à l’appelante, je n’avais pas suffisamment d’éléments de preuve pour conclure que l’appelante avait donné une contrepartie.
+[86] Au bout du compte, l’appelante n’a pas produit suffisamment d’éléments de preuve pour étayer sa position voulant qu’elle ait donné une contrepartie pour les 138 550 $ qui lui avaient été transférés à son bénéfice. Le manque de documentation et le manque de précision de son témoignage portent un coup fatal à son argument.
+VII. CONCLUSION
+[87] Je conclus que M. Watts a transféré indirectement une somme de 138 550 $ à l’appelante, son épouse, en 2009. Au moment du transfert, M. Watts était tenu de payer une somme de 404 452,17 $ aux termes de la Loi (fin d’année 2009). La cotisation de 138 550 $ a donc été établie correctement à l’égard de l’appelante. L’appel est rejeté.
+[88] Les dépens doivent être payés par l’appelante.
+Signé à Ottawa, Canada, ce 25e jour de janvier 2023.
+« R. MacPhee »
+Le juge MacPhee
+Traduction certifiée conforme
+Ce 15e jour de mars 2024.
+François Brunet, réviseur
+RÉFÉRENCE :
+2023 CCI 11
+Nº DU DOSSIER DE LA COUR :
+2019-2942(IT)G
+INTITULÉ :
+MIRIAM WATTS c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 14 novembre 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge Ronald MacPhee
+DATE DU JUGEMENT :
+Le 25 janvier 2023
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Marco Iampieri
+Avocats de l’intimé :
+Me Hye-Won (Caroline) Ahn
+Me Peter Swanstrom
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Marco Iampieri
+Cabinet :
+Iampieri Law Professional Corporation
+Pour l’intimé :
+Nathalie G. Drouin Sous-procureure générale du Canada Ottawa, Canada
+[1] R. c. Watts, 2016 ONSC 4843, conf. par R. c. Watts, 2018 ONCA 148; autorisation d’interjeter appel à la CSC refusée 38141 (27 septembre 2018).
+[2] Loi canadienne sur les sociétés par actions, L.R.C. (1985), ch. C-44, au paragraphe 226(2).
+[3] R. c. Watts, 2016 ONSC 4843, par. 45.
+[4] Ordonnance de la juge Cameron de la CSJO, 28 janvier 2021.
+[5] Règles de la Cour canadienne de l’impôt (procédure générale), alinéa 21(1)a) [Règles PG CCI].
+[6] Johnston c. Minister of National Revenue, [1948] 4 DLR 321, par. 7, [1948] 4 WLR 321.
+[7] Eisbrenner c. Canada, 2020 CAF 93.
+[8] Hollinger (Succession) c. La Reine, 2013 CCI 252, par. 23, citant J.M. Voith GmbH c. Beloit Corp., [1991] A.C.F. no 503, 128 NR 54.
+[9] Canada c. Livingston, 2008 CAF 89, par. 17 [Livingston].
+[10] Security National Insurance Company c. Markel Insurance Company, 2012 ONCA 683, par. 61, citant avec approbation J Anthony VanDuzer, The Law of Partnership & Corporations (Toronto : Irwin Law, 2009) 3e éd.
+Comme il est observé dans l’arrêt Addison & Leyen Ltd c. Canada, 2006 FCA 107, par. 54 : « L’article 160 peut s’appliquer à une série de transferts, ce qui donne lieu à ce qu’on appelle parfois des cotisations “en cascade” fondées sur l’article 160. Supposons par exemple que A, qui doit un montant d’impôt de 100 $, fait un cadeau inconditionnel de 100 $ à B, son conjoint. Supposons ensuite que B fait un cadeau inconditionnel de 100 $ à C, sa sœur. L’article 160 permettrait au ministre d’établir une cotisation à l’égard de B réclamant les 100 $ de l’obligation fiscale principale de A, de sorte que A et B seraient solidairement responsables de cette obligation. L’article 160 permettrait aussi au ministre d’établir une cotisation à l’égard de C réclamant les 100 $ de l’obligation fiscale du fait d’autrui de B. L’effet net serait que A, B et C seraient solidairement responsables de la même obligation fiscale principale de A s’élevant à 100 $. Dans ce cas, il n’y aurait pas eu de transfert indirect, mais bien deux transferts directs, l’un de A à B, l’autre de B à C. Cependant, le risque qu’une cotisation soit établie à l’égard de C en vertu de l’article 160 est le même que s’il y avait eu un transfert indirect de 100 $ entre A et C. » [Addison & Leyen].
+[12] Loi de 2012 apportant des modifications techniques concernant l’impôt et les taxes, L.C. 2013, ch. 34, au paragraphe 313(1).
+[13] Ibid., au paragraphe 313(8).
+[14] Voir Jurak c. Canada, 2003 CAF 58.
+[15] Dauphinais c. La Reine, [1993] 1 CTC 2288, par. 12, 94 DTC 1148 (CCI); Ministre du Revenu national c. Parsons, [1983] CTC 321, 83 DTC 5329 (CCI); Dominion of Canada General Insurance Co c. La Reine, [1984] 1CTC 190, par. 27, 84 DTC 6197 (CCI), conf. par Dominion of Canada General Insurance Co c. La Reine, [1986] 1 CTC 423, 86 DTC 6154 (CAF).
+[16] Medland c Canada, [1998] 52 DTC 6358, par. 17, 4 CTC 293 [Medland].
+[17] Addison & Leyen, précité, note 11, par. 53.
+[18] Algoa Trust c. La Reine, [1993] 1 CTC 2294, par. 49 et 51, 93 DTC 405.
+[19] Medland, précité, note 16, par. 20.
+[20] Addison & Leyen, précité, note 11, par. 53.
+[21] Eyeball Networks Inc c. Canada, 2021 CAF 17, par. 48 [Eyeball Networks].
+[22] Livingston, précité, note 9, par. 27.
+[23] Dans le jugement Livingston c. R., 2007 CCI 303, le juge de première instance a simplement conclu que la contrepartie donnée par l’appelante était « suffisante » en réalisant peu ou pas d’analyse. En appel, la CAF a conclu qu’il ne s’agissait pas d’une analyse suffisante et a infirmé la décision du juge de première instance.
+[24] R. c. Watts, 2016 ONSC 4843, par. 45.

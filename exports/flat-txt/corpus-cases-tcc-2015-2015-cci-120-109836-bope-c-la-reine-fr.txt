@@ -1,0 +1,154 @@
+Title: Bope c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109836/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-120-109836-bope-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-05-12
+
+# Bope c. La Reine
+
+- Citation: 2015 CCI 120
+- Decision date: 2015-05-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2820, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bope c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-05-12
+Référence neutre
+2015 CCI 120
+Numéro de dossier
+2013-2940(IT)I
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-2940(IT)I
+ENTRE :
+SHAMA BOPE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 23 février 2015, à Hamilton (Ontario).
+Devant : L’honorable juge suppléant Rommel G. Masse
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Dominique Gallant
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2009 est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Kingston (Ontario), ce 12e jour de mai 2015.
+« Rommel G. Masse »
+Le juge suppléant Masse
+Référence : 2015 CCI 120
+Date : 20150512
+Dossier : 2013-2940(IT)I
+ENTRE :
+SHAMA BOPE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge suppléant Masse
+[1] L’appelant, Shama Bope, interjette appel de la cotisation établie par le ministre du Revenu national (ci-après le « ministre ») relativement à son année d’imposition 2009 pour laquelle le crédit d’impôt pour don de bienfaisance de 3 800 $ qu’il a demandée lui a été refusé. Le ministre soutient en premier lieu que le reçu présenté par monsieur Bope ne satisfait pas aux exigences prévues par la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (ci‑après la « Loi »), et le Règlement de l’impôt sur le revenu, C.R.C., ch. 945 (ci‑après le « Règlement »). Subsidiairement, il fait valoir que, quoi qu’il en soit, l’appelant est incapable de prouver qu’il a fait des dons en espèces s’élevant à 3 800 $ à Revival Time Ministries International (ci-après « Revival »).
+[2] Bien que l’avis d’appel et la réponse à l’avis d’appel fussent rédigés en anglais, le procès s’est déroulé en français. Donc, les présents motifs du jugement sont également rédigés en français.
+Contexte factuel [3] L’appelant habite Hamilton, en Ontario. Il travaille pour un fabricant de pièces d’automobiles. Il est originaire de l’Afrique et il est au Canada depuis l’an 2000. Il a dit qu’il désire aider les gens de l’Afrique « qui souffrent, les gens qui sont malades, […] les pauvres ». Sa sœur lui a parlé de l’église Revival et il a fait à cette église des dons de bienfaisance destinés à des bénéficiaires en Afrique. Même s’il est en possession d’un reçu pour seulement 3 800 $, l’appelant a dit qu’il a donné beaucoup en espèces et en biens, au-delà de 10 000 $, a-t-il dit. De plus, il a de la famille en Afrique à laquelle il envoie de l’argent. En ce qui a trait aux dons en argent comptant, il nous a dit qu’il se rendait à la banque pour effectuer des retraits de son compte. Il n’avait qu’un seul compte en banque. Une partie du retrait était pour Revival et le reste servait à subvenir aux besoins de sa famille. Il mettait l’argent destiné à Revival dans une enveloppe qu’il remettait à Revival. Il faisait plusieurs dons par mois et à la fin de l’année, Revival lui délivrait un reçu pour l’année. Il a dit ne pas avoir noté ni les montants qu’il aurait donnés à Revival ni les dates auxquelles ces dons auraient été faits, mais il prétend/affirme avoir fait des dons chaque semaine ou plusieurs fois par mois.
+[4] En produisant sa déclaration de revenus pour l’année 2009, l’appelant a déclaré avoir gagné un revenu d’emploi de 40 047,02 $. Il a aussi déclaré avoir fait des dons de bienfaisance de 3 800 $ à Revival et a produit un reçu faisant état de ces dons (voir la pièce A-1). Ce montant est assez important par rapport à ses revenus pour l’année d’imposition en question, représentant 10 % de son revenu brut.
+[5] Le ministre a établi une cotisation à l’égard de l’appelant pour l’année d’imposition 2009 le 15 avril 2010. Le ministre a accepté les dons de bienfaisance tels que déclarés. Le 21 avril 2011, le ministre a établi une nouvelle cotisation rejetant le crédit d’impôt pour don de bienfaisance dont l’appelant s’était prévalu, soit 3 800 $.
+[6] L’appelant s’est opposé à la nouvelle cotisation; le ministre l’a ratifiée le 6 mai 2013.
+[7] Le ministre a établi la nouvelle cotisation à l’égard de l’appelant en tenant pour acquis que l’appelant n’avait fait aucun don de bienfaisance à Revival en 2009. Subsidiairement, le ministre a conclu que le reçu délivré à l’appelant par Revival ne contenait pas tous les renseignements qui doivent figurer sur un reçu pour don de bienfaisance selon l’article 3501 du Règlement.
+[8] Par les motifs exposés ci-après, je conclus que le reçu fourni par Revival ne contient pas tous les renseignements exigés par le Règlement et que pour ce seul motif, l’appel doit être rejeté. Je conclus également que même si le reçu avait été conforme au Règlement, l’appelant n’a pas réussi à prouver, selon la prépondérance des probabilités, qu’il a fait les dons en question.
+Dispositions légales [9] Un contribuable a droit à un crédit d’impôt à l’égard des dons faits à un organisme de bienfaisance enregistré en vertu du paragraphe 118.1(3) de la Loi. Le don doit être attesté par la présentation d’un reçu contenant les renseignements prescrits. L’alinéa 118.1(2)a) dispose ce qui suit :
+118.1(2) Attestation du don — Pour que le montant admissible d’un don soit inclus dans le total des dons de bienfaisance, le total des dons à l’État, le total des dons de biens culturels ou le total des dons de biens écosensibles, le versement du don doit être attesté par la présentation au ministre des documents suivants :
+a) un reçu contenant les renseignements prescrits;
+[…]
+[10] Les renseignements prescrits qui doivent être inclus dans le reçu officiel pour don de bienfaisance sont énumérés au paragraphe 3501(1) du Règlement. Ce paragraphe dispose ce qui suit :
+3501(1) Contenu des reçus — Tout reçu officiel délivré par une organisation enregistrée doit énoncer qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu et indiquer clairement, de façon à ce qu’ils ne puissent être modifiés facilement, les détails suivants :
+a) le nom et l’adresse au Canada de l’organisation ainsi qu’ils sont enregistrés auprès du ministre;
+b) le numéro d’enregistrement attribué par le ministre à l’organisation;
+c) le numéro de série du reçu;
+d) le lieu ou l’endroit où le reçu a été délivré;
+e) lorsque le don est un don en espèces, la date ou l’année où il a été reçu;
+e.1) lorsque le don est un don de biens autres que des espèces :
+(i) la date où il a été reçu,
+(ii) une brève description du bien, et
+(iii) le nom et l’adresse de l’évaluateur du bien si une évaluation a été faite;
+f) la date de délivrance du reçu;
+g) le nom et l’adresse du donateur y compris, dans le cas d’un particulier, son prénom et son initiale;
+h) celle des sommes ci-après qui est applicable :
+(i) le montant du don en espèces,
+(ii) lorsque le don est un don de biens autres que des espèces, à la juste valeur marchande du bien au moment où le don a été fait;
+h.1) le montant de l’avantage, le cas échéant, au titre du don;
+h.2) le montant admissible du don;
+i) la signature, ainsi qu’il est prévu au paragraphe (2) ou (3), d’un particulier compétent qui a été autorisé par l’organisation à accuser réception des dons;
+j) le nom de l’Agence du revenu du Canada et l’adresse de son site Internet
+[nos caractères gras].
+Analyse [11] Ce n’est pas la première fois que l’appelant soulève exactement les mêmes questions devant notre Cour. (voir Afovia c. La Reine, 2012 CCI 391 (CanLII), 2013 DTC 1016, [2012] ACI no 314 (QL)) Dans l’affaire Afovia, l’appelant avait fait des dons en espèces de 4 600 $ en 2007 et de 5 600 $ en 2008 à un prétendu organisme de bienfaisance nommé Parole de Grace London. Le juge Paris de notre Cour a rejeté les appels de M. Bope, jugeant que ce dernier n’avait pas droit à un crédit d’impôt pour dons de bienfaisance. Vu la similarité des questions en litige en l’espèce avec celles dans l’affaire Afovia, je vois mal comment je peux arriver à une conclusion différente de celle du juge Paris.
+[12] L’analyse que je dois faire est parallèle à celle que j’ai faite dans l’affaire Kuzi Mapish c. La Reine, 2013-3695(IT)I (CCI), 23 février 2015, et le même résultat s’ensuit.
+[13] Lues conjointement, les dispositions mentionnées plus haut exigent que les éléments suivants soient réunis afin d’avoir droit à un crédit d’impôt pour don de bienfaisance :
+a) un don;
+b) un reçu prouvant qu’il s’agit d’un don de bienfaisance.
+[14] Le ministre soutient que l’appelant n’a pas prouvé l’existence de l’un ou l’autre de ces deux éléments. Je suis d’accord.
+La validité des reçus [15] Dans l’affaire Afovia c. La Reine, supra, le juge Paris a examiné les questions de la preuve de l’existence d’un don de bienfaisance ainsi que du reçu qui en fait l’état. Il s’est exprimé comme suit en ce qui a trait aux exigences en matière de reçu :
+[9] La Cour doit rechercher s’il est obligatoire qu’un reçu pour don de bienfaisance contienne tous les renseignements énumérés au paragraphe 3501(1) du Règlement, y compris un numéro de série et le nom de l’ARC et l’adresse de son site Internet. Compte tenu du texte explicite de cette disposition, je conclus qu’il est impératif de faire état de tous les renseignements qui y sont énumérés. À la partie pertinente de la disposition en question, il est prévu que « tout reçu officiel délivré par une organisation enregistrée doit […] indiquer clairement, de façon à ce qu’ils ne puissent être modifiés facilement […] » les renseignements énumérés aux alinéas a) à j) du Règlement. (Non souligné dans l’original.)
+[…]
+[12] Les appelants ne soutiennent pas, et je ne saurais d’ailleurs me prononcer en ce sens qu’interpréter le terme « doit », à l’article 3501 du Règlement, de manière impérative pourrait aboutir à une issue déraisonnable. On peut supposer que le législateur a choisi d’imposer la mention d’un numéro de série sur les reçus pour don de bienfaisance afin de faciliter les vérifications sur les dons de bienfaisance, d’autres termes en imposant la tenue ordonnée des documents relatifs aux dons; la mention de l’adresse du site Internet de l’ARC, quant à elle, permet au donateur de vérifier si l’organisme de bienfaisance est enregistré et si le don donne droit au crédit d’impôt pour don de bienfaisance. En outre, la connotation impérative cadre avec le contexte. Par exemple, l’exigence concernant les numéros de série sur les reçus est également prévue par les paragraphes 3501(1.1), (3) et (4) du Règlement, et l’exigence concernant l’adresse du site Internet de l’ARC est réitérée au paragraphe 3501(1.1) du Règlement. La conclusion s’impose donc : faire état des renseignements énumérés au paragraphe 3501(1) du Règlement est incontournable en matière de reçu officiel pour don de bienfaisance.
+[13] Étant donné qu’aucun des reçus que la PDGL a fournis aux appelants ne contient tous les renseignements prescrits, ces reçus ne répondent pas aux exigences du paragraphe 118.1(2) de la Loi; il s’ensuit que les demandes de crédits d’impôt pour dons de bienfaisance présentées par les appelants ne peuvent pas être acceptées.
+[14] Le fait que les appelants n’étaient pas au courant des renseignements qu’un reçu pour don de bienfaisance devait contenir ne saurait les exempter de l’obligation de produire des reçus officiels contenant les renseignements prescrits au soutien de leur demande de crédits d’impôt pour don de bienfaisance. Le paragraphe 118.1(2) de la Loi s’impose à la Cour.
+[16] Le juge Paris a répété ces mêmes principes dans Ofori-Darko c. La Reine, 2014 CCI 54 (CanLII), 2014 DTC 1074, au paragraphe 14 :
+[14] En outre, il n’est pas précisé dans ces reçus à quel moment les dons en nature ont été recueillis par Redemption, non plus que leur juste valeur marchande à ce moment-là. Enfin, n’y sont pas reportés le lieu ou l’endroit où le reçu a été délivré. Comme je l’ai mentionné dans Afovia et al. c. La Reine, faire état des renseignements énumérés au paragraphe 3501(1) du RIR est incontournable en matière de reçu officiel pour don de bienfaisance, et, par conséquent, les reçus produits dans les présents appels ne suffisent pas à prouver l’existence d’un don ainsi qu’il est prescrit à l’alinéa 118.1(2)a) de la LIR [note de bas de page omise].
+[17] Dans l’affaire Sowah c. La Reine, 2013 CCI 297 (CanLII), 2013 DTC 1234, le juge Miller a repris la même thèse, statuant ainsi :
+[16] […] Il ressort clairement de la jurisprudence que ces exigences [énoncées au paragraphe 3501(1) du Règlement] sont obligatoires et qu’elles doivent être rigoureusement respectées (voir par exemple les affaires Afovia c La Reine, Sklowdowski c La Reine et Plante c Canada).
+[17] Le reçu fourni par l’appelante satisfait-il à toutes les exigences? La réponse est non. Trois de ces exigences ne sont pas remplies. Tout d’abord, le reçu ne contient pas d’énoncé indiquant qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu. Dans la décision Ehiozomwangie c R, la juge Campbell a précisé que l’exigence selon laquelle le reçu devait indiquer qu’il s’agissait d’un reçu officiel aux fins de l’impôt sur le revenu était l’une des exigences obligatoires. Je suis du même avis. Il n’y a pas meilleure garantie pour un contribuable que de voir sur le reçu l’indication qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu. Le fait que le reçu ne satisfait pas à cette simple exigence jette des doutes sérieux sur son authenticité. Il s’agit d’une exigence obligatoire qui n’a pas été satisfaite en l’espèce.
+[18] Ensuite, la date de délivrance du reçu est une autre simple exigence. Aucune date ne figure sur le reçu de Mme Sowah, on y voit seulement l’année (janvier à décembre 2006). Encore une fois, il s’agit d’une exigence obligatoire qui n’a tout simplement pas été satisfaite.
+[19] Enfin, le reçu doit indiquer le lieu ou l’endroit où le reçu a été délivré. Il s’agit d’une exigence distincte de celle de l’adresse de l’organisation ainsi qu’elle est enregistrée auprès du ministre. Dans la présente affaire, bien que nous puissions supposer que l’adresse de l’organisation est la même que celle du lieu où le reçu a été délivré, on ne devrait pas avoir à faire de suppositions. Il y a peut-être plusieurs organisations appelées Jesus Healing Center un peu partout à Toronto. Le reçu doit indiquer clairement le lieu où il a été délivré. Ici, cela n’est pas le cas. Encore une fois, une exigence n’a pas été satisfaite.
+[20] L’appelante n’a donc pas fourni un reçu renfermant les renseignements prescrits et n’a donc pas rempli la deuxième exigence nécessaire pour avoir droit à un crédit pour don de bienfaisance. Par conséquent, l’appel peut être rejeté pour cette raison [notes de bas de page omises].
+[18] En l’espèce, les déficiences du reçu sont les suivantes :
+a) le lieu ou l’endroit où le reçu a été délivré n’est pas indiqué sur le reçu. Le reçu en l’espèce (pièce A-1) indique plusieurs adresses pour Revival : Toronto, la Zambie, le Texas, le Botswana et le Cameroun. L’organisation en l’espèce a aussi un site web. Par contre, l’appelant réside à Hamilton. Donc, où le reçu a-t-il été délivré? À Toronto, à Hamilton ou ailleurs dans le monde? Comme indiqué dans l’affaire Sowah, supra, l’exigence relative au lieu ou à l’endroit où le reçu a été délivré est distincte de celle relative à l’adresse de l’organisation ainsi qu’elle est enregistrée auprès du ministre. Bien que nous puissions supposer que l’adresse de l’organisation est le lieu où le reçu a été délivré, nous ne devrions pas avoir à faire des suppositions. Le reçu doit indiquer clairement le lieu où il a été délivré, car l’adresse de l’organisation peut être différente du lieu où le reçu a été délivré. Ceci est une exigence obligatoire;
+b) le reçu doit indiquer la date ou l’année où le don a été reçu. Il n’y a qu’une date sur le reçu, le 31 décembre 2009. Ceci laisse à supposer que l’appelant a fait seulement un don de 3 800 $ à cette date, ce qui n’est pas le cas. L’appelant prétend qu’il a fait plusieurs dons de divers montants chaque mois de l’année. Aucune précision concernant les dates et les montants des dons n’a été produite. Donc, le reçu ne satisfait pas au critère énoncé à l’alinéa 3501(1)g) du Règlement. Il me paraît étrange que l’appelant n’ait pas demandé un reçu chaque fois qu’il aurait fait un don. L’appelant aurait dû obtenir un reçu chaque fois qu’il a effectué un don ou au moins un reçu indiquant tous les dons et leurs dates. Le total des dons constituait un montant important par rapport aux revenus de l’appelant. Il est donc surprenant que l’appelant n’ait pas demandé ni obtenu un reçu chaque fois qu’il aurait fait un don. Là encore, il s’agit d’une exigence obligatoire;
+[19] Il s’agit d’exigences nécessaires auxquelles il n’a pas été satisfait. Toutes ces exigences sont obligatoires. Il n’est pas question ici de faute, de responsabilité, de négligence, de bonne foi ou de mauvaise foi. Il s’agit d’exigences obligatoires prévues par la Loi et le Règlement. L’appelant n’a donc pas droit au crédit d’impôt pour don de bienfaisance en vertu du paragraphe 118.1(2) de la Loi et l’appel doit être rejeté pour ce seul motif.
+La preuve des dons [20] Il incombe à l’appelant d’établir l’existence des dons qu’il prétend avoir faits à Revival. La norme de preuve applicable est celle de la prépondérance des probabilités. Cela signifie que l’appelant doit démontrer que, selon toute vraisemblance, il a fait les dons en question. Les seuls éléments qu’il avance à l’appui de sa thèse consistent en son propre témoignage et le reçu délivré par Revival. Ceci ne suffit pas dans les circonstances.
+[21] L’appelant soutient qu’il a fait des dons en espèces et en biens dont la valeur totale dépassait 10 000 $. Par contre, il a présenté au ministre un reçu faisant état de dons en espèces de seulement 3 800 $. Pourquoi n’a-t-il pas obtenu un ou des reçus indiquant le montant exact qu’il aurait donné? Il admet qu’il n’a pas conservé un registre des sommes qu’il a données chaque semaine ou chaque mois. Il a dit qu’il a effectué des retraits de son compte bancaire pour pourvoir aux besoins de sa famille ainsi que pour fournir les dons à Revival. Il mettait l’argent dans une enveloppe et la donnait à l’église. À la fin de l’année, l’église lui a remis un reçu indiquant le montant total qu’il a donné. Il a dit que sa femme travaillait et gagnait un revenu assez important pour permettre à l’appelant de faire de tels dons. Par contre, les relevés bancaires qu’il a fournis à l’Agence du revenu du Canada (ci‑après l’« Agence ») indiquent que son compte bancaire était constamment à découvert. Bien que M. Bope ait affirmé qu’il avait les moyens de faire ces dons, il ressort de la preuve qu’il devait de l’argent relativement à sa marge de crédit durant l’année d’imposition.
+[22] Monsieur Gary Huenemoeder est chef d’équipe de la vérification à la Direction des organismes de bienfaisance de l’Agence. Il a dit que Revival a obtenu son numéro d’enregistrement le 1er juillet 2006. L’Agence a mené une vérification auprès de Revival pour les années 2006, 2007 et 2008. Elle a demandé les registres et les livres comptables de Revival, mais tous les dossiers comptables ont été saisis parce que Revival n’avait pas payé un loyer de 321 $. Revival a fourni des relevés bancaires, des reçus de dons et diverses traites bancaires. À la suite d’un examen de ces documents, M. Huenemoeder a constaté que Revival avait déclaré un revenu dépassant 830 000 $ pour sa première année d’existence, ce qui semblait être très élevé pour une première année. Selon l’examen des relevés de comptes bancaires, l’organisme aurait déposé 1,8 million de dollars à la banque. M. Huenemoeder a soupçonné quelque chose de louche. L’Agence a donc demandé la production de documents auprès des banques faisant affaire avec Revival. À la suite de l’examen de ces documents, l’Agence a constaté que seul 3 000 $ avait été déposés aux banques. Donc, tous les documents que l’organisme avait fournis à l’Agence étaient des faux. L’Agence a communiqué avec 920 donateurs, demandant des preuves de paiements des dons, et ces gens ont tous indiqué qu’ils avaient payé en argent comptant et non par chèque ou par traite bancaire. Il est peu probable que tous ces donateurs aient versé leurs dons en argent comptant. Une enquête fut menée à l’égard de M. Daniel Mokwe, le pasteur de Revival, mais ce dernier s’est enfui du Canada avant que l’Agence ait pu porter des accusations pénales contre lui. M. Huenemoeder n’a décelé aucun indice d’activités de bienfaisance organisées par Revival. Son enregistrement comme organisme de bienfaisance fut donc révoqué le 8 janvier 2011. M. Huenemoeder a examiné le dossier de l’appelant et il n’a trouvé aucune preuve des dons de bienfaisance supposément faits par l’appelant.
+Conclusion [23] L’appelant n’a pas été en mesure de confirmer exactement quels montants il aurait donnés à Revival ni à quelles dates il les aurait remis. L’appelant n’a présenté aucun chèque, aucun bordereau de retrait par guichet automatique, aucun relevé de dons, ni aucune enveloppe de dons se rapportant aux dons prétendus. La Cour ne peut déterminer exactement quel montant, si montant il y a, l’appelant a donné à Revival. Le reçu en cause constitue la seule preuve des dons effectués et ce reçu a été remis par un organisme qui, semble-t-il, fraudait le système. Mis à part le reçu, aucun document ou relevé de compte n’a été produit à l’appui des allégations de l’appelant. L’appelant n’a apporté aucune preuve objective pour réfuter les présomptions et les hypothèses du ministre selon lesquelles il n’a pas fait les dons en espèces. Donc, l’appelant ne s’est pas acquitté du fardeau qui lui incombait.
+[24] Pour ces motifs, l’appel est rejeté.
+Signé à Kingston (Ontario), ce 12e jour de mai 2015.
+« Rommel G. Masse »
+Le juge suppléant Masse
+RÉFÉRENCE :
+2015 CCI 120
+No DE DOSSIER DE LA COUR :
+2013-2940(IT)I
+INTITULÉ :
+SHAMA BOPE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 23 février 2015
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge suppléant Rommel G. Masse
+DATE DU JUGEMENT :
+Le 12 mai 2015
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Dominique Gallant
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

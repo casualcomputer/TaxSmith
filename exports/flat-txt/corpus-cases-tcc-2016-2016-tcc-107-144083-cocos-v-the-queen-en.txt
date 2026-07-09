@@ -1,0 +1,571 @@
+Title: Cocos v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/144083/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-107-144083-cocos-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-05-05
+
+# Cocos v. The Queen
+
+- Citation: 2016 TCC 107
+- Decision date: 2016-05-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3073, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cocos v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-05-05
+Neutral citation
+2016 TCC 107
+File numbers
+2014-3278(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-3278(IT)I
+BETWEEN:
+IOANA ALICE COCOS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 7 and November 18, 2015,
+at Montreal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marie-Claude Landry
+JUDGMENT
+Based on the attached reasons for judgment, the appeal from the reassessments made under the Income Tax Act for the 2006, 2007, 2008 and 2009 taxation years is allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessments on the basis that the following expenses are deductible by 9119-5594 Québec Inc. and shall be excluded from the appellant’s income:
+2006
+2007
+2008
+2009
+Utilities
+$ 370,65
+$ 402.15
+$ 395.85
+$ 460.25
+Business taxes, licenses and memberships
+$ 598.15
+$5,627.20
+$1,924.65
+$1,202.25
+Telephone and communications
+$ 735.00
+$ 743.75
+$ 690.90
+$ 992.95
+Vehicle expenses
+−
+$1,121.00
+$1,252.00
+$ 614.72
+Total
+$1,703.80
+$7,894.10
+$4,263.40
+$3,270.17
+The penalties shall be adjusted accordingly.
+Signed at Ottawa, Canada, this 5th day of May 2016.
+“Réal Favreau”
+Favreau J.
+Citation: 2016 TCC 107
+Date: 20160505
+Docket: 2014-3278(IT)I
+BETWEEN:
+IOANA ALICE COCOS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from reassessments dated June 10, 2014 made under the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.), as amended (the “Act”) by the Minister of National Revenue (the “Minister”) with respect to the appellant’s 2006, 2007, 2008 and 2009 taxation years.
+[2] By way of the reassessments, the appellant’s net income was increased as follows:
+2006: $16,039
+2007: $21,686
+2008: $16,810
+2009: $19,767
+[3] As a result of the reassessments, the net tax increases and penalties were as follows:
+2006
+2007
+2008
+2009
+Federal Tax
+(net)
+$2,041.55
+$2,716.01
+$2,105.00
+$2,475.50
+Penalty under
+subsection 163(2)
+$1,257.78
+$1,600.01
+$1,273.93
+$1,461.18
+[4] In order to establish the reassessments at issue, the Minister relied on the following assumptions of fact, as set out in paragraph 15 of the Reply to the Notice of Appeal:
+a. In her income tax returns for the taxation years under appeal, the Appellant declared the following income:
+2006
+2007
+2008
+2009
+T4 Earnings (from Valsol)
+−
+$6,500
+$12,800
+$19,600
+Interest income
+−
+−
+$ 105
+−
+Employment insurance benefits
+$ 413
+−
+−
+−
+Other income
+$ 11,500
+$ 7,850
+−
+−
+Total income
+$11,913
+$14,350
+$12,905
+$19,600
+b. At all times during the taxation years at issue, the Appellant was the sole shareholder of 9119-5594 Québec inc. (hereinafter, “Valsol”), which operated under the name “Valsol”;
+c. Valsol’s commercial activities consisted mainly in the importation and the wholesale of chemical products, primarily barrels of perchloroethylene, as well as the wholesale of various construction materials;
+d. During the taxation years under appeal, Valsol had only two employees: the Appellant and her spouse, Mr. Valentine Brinza;
+e. The Appellant was in charge of creating invoices, paying suppliers and preparing deposit slips;
+f. The Appellant performed these limited tasks from her personal residence, where she also received Valsol’s mail;
+g. The use of the Appellant’s residence for business purposes was negligible;
+h. All of Valsol’s accounting was performed by the company’s accountant;
+i. Mr. Brinza was a salesperson for Valsol;
+j. Valsol did the vast majority of its business with a limited number of customers: Excellent Plastique/Les Emballages Driathi, Suprême Cintres et Produits, and Groulx-Robertson Ltée.;
+k. During the taxation years under appeal, Valsol’s inventory was warehoused at “Transport Piché” in Anjou, Québec;
+l. “Transport Piché” also performed Valsol’s inventory periodically;
+m. All of the inventory acquired by Valsol was shipped directly to its warehouse;
+n. All of the inventory sold by Valsol was either picked up by its customers at its warehouse or shipped by “Transport Piché”;
+o. Valsol claimed the following expenses, which were disallowed following an audit of Valsol and confirmed on objection:
+Taxation year ended
+2006-12-31
+2007-12-31
+2008-12-31
+2009-12-31
+Vehicle expenses
+$3,428
+$5,443
+$7,290
+$9,354
+Telephone and communications
+$2,100
+$2,125
+$1,974
+$2,837
+Office expenses
+$2,925
+$2,381
+$ 515
+$1,832
+Utilities
+$1,059
+$1,149
+$1,131
+$1,315
+Business taxes, licenses and memberships
+$1,709
+$6,792
+$5,499
+$3,435
+Repairs and maintenance
+$1,579
+$1,090
+$ 401
+$ 993
+Rental expenses
+$3,240
+−
+−
+−
+Travel expenses
+−
+$2,706
+−
+−
+Total of expenses disallowed to Valsol
+$16,039
+$21,686
+$16,810
+$19,767
+p. All of the amounts listed above, and which were disallowed to Valsol represent personal expenses of the Appellant which were paid for by Valsol;
+q. The majority of the expenses to Valsol were related to the Appellant’s personal residence located at 478 de Courchevel Street, in Laval, Quebec;
+r. The Appellant purchased said residence on June 4, 2004 and sold it on December 23, 2008;
+s. The Appellant contracted a hypothec on said residence, and made weekly mortgage payments of $258.20, or approximately $13,426 per year;
+t. The Appellant had renovations performed on her home in 2006, 2007 and 2008;
+u. For Valsol’s years ended December 31, 2006, 2007, 2008 and 2009, Valsol’s balance sheet did not reflect any due to individual shareholders;
+Vehicle expenses
+v. With respect to expenses claimed by Valsol as vehicle expenses, the vast majority of the journal entries in Valsol’s books represent payments to various credit cards which were used for personal purchases;
+w. One entry in Valsol’s books under vehicle expenses for 2006 is for a cheque in the amount of $2,000 made out to the Appellant;
+x. The other expenses claimed as vehicle expenses pertain to three vehicles: a 2002 Toyota Camry, a 1998 Honda Civic and a 2006 Volvo S40, which were not used by Valsol for the purposes of gaining income;
+y. Valsol did not require the use of a motor vehicle to generate income from its business;
+z. Valsol, the Appellant, or Mr. Brinza did not keep log books pertaining to the use of their vehicles;
+Telephone expenses
+aa. With regards to telephone expenses, Valsol claimed as expenses all of the Appellant’s residential telephone charges and long distance calls, and all of Mr. Brinza’s personal cellular telephone bills;
+Office expenses
+bb. Office expenses claimed by Valsol include, inter alia, credit card payments, purchases made at the Société des alcools du Québec, Wal-Mart, Home Depot, Future Shop, grocery stores, and for a subscription to Time magazine;
+Utilities
+cc. The amounts claimed by Valsol as utilities expenses represent the full amount of the Appellant’s Hydro-Québec residential electric bills for the home located at 478 de Courchevel Street;
+Business taxes, licenses and memberships
+dd. The amounts claimed by Valsol under Business taxes, licenses and memberships included, inter alia, personal insurance premiums, municipal and school taxes on the Appellant’s personal residence, payments made to the Société d’assurance automobile du Québec, a $5,000 expense described as a ‘US fund purchase’ in 2007, and several unexplained payments to credit cards in 2008 and 2009;
+Repair and maintenance
+ee. The amounts claimed by Valsol under Repair and maintenance expenses represent personal expenses for repairs and maintenance on the Appellant’s residence, and other personal expenses;
+Rental expenses and travel expenses
+ff. Rental expenses claimed by Valsol in 2006, and travel expenses claimed by Valsol in 2007 were not incurred to generate business income and benefited the Appellant personally.
+[5] In assessing the penalty provided for in subsection 163(2) of the Act for the appellant’s 2006, 2007, 2008 and 2009 taxation years and in reassessing the appellant beyond the normal reassessment period for the appellant’s 2006 taxation year, the Minister considered the following facts:
+a. The facts set out in paragraph 15 of this Reply:
+b. The Appellant’s declared income for the taxation years under appeal was clearly insufficient to pay for her basic living expenses, let alone her mortgage payments;
+c. With the exception of her mortgage payments, most if not all of the expenses related to the Appellant’s personal residence were paid by Valsol;
+d. The Appellant was closely implicated in Valsol’s affairs;
+e. The Appellant could not possibly ignore that her personal expenses were paid for and expensed by Valsol;
+f. The Appellant deliberately omitted to include these benefits received from Valsol in her reported income;
+g. The amounts of shareholder benefits received by the Appellant are substantial and represent 133% of her declared total income in 2006, 150% in 2007, 129% in 2008, and 100% in 2009;
+h. The Appellant is well-educated and holds a graduate degree in chemical engineering.
+[6] The appellant provided the following written answers to the Minister’s Reply to her Notice of Appeal:
+1. She admits the facts alleged in paragraph 15 (a-e) of the Reply to the Notice of Appeal.
+2. She denies the facts alleged in paragraph 15(f). The Respondent’s “Assumptions of fact”, are sorrowfully, most of them, just “assumptions”. Talking about “limited tasks performed from her personal residence”, the Respondent would not consider, inter alia, the amount of time spent on:
+▪ ongoing research of new materials suitable for import into Canada,
+▪ finding overseas manufactures and preparing purchase offers,
+▪ preparing written conversation and legal paper while contracting new suppliers,
+▪ preparing official letters for asking samples preparation and delivery,
+▪ contacting and ongoing verbal or written conversation with freight companies,
+▪ preparing advertising flyers for the company products on sale and/or the list of new available products,
+▪ preparing mandatory Environment’s Canada reports on commercializing dangerous solvents,
+▪ researching chemical warehouse tools (i.e. peristaltic pumps with debit meter),
+▪ preparing MSDS (Material Safety Data Sheets) on each load supplied, for Valsol’s clients,
+▪ preparing the Chemical Analysis Report on each load supplied, for Valsol’s clients,
+▪ preparing lists of potential new clients by researching different databases,
+▪ preparing Valsol’s stickers – to replace the manufacturer’s label apposed on chemical drums,
+▪ preparing and up-dating the company’s logo, business cards, envelopes and web site, etc.
+3. She denies the facts alleged in paragraph 15 (g). Not only both the Appellant and her spouse, Mr. Brinza, had each one office in the principal place of business, but also the premise’s garage was used as business storage. Mr. Brinza was “a salesperson for Valsol” – as referred to in paragraph 15(i) of your Reply to the Notice of Appeal.
+Among the inventory stored in the garage there were: received liquid or solid chemical samples identified with stickers and MSDS (material safety data sheets); tools for drums weighting (i.e. analytical balances), special ordered tools for liquid solvents transferring (i.e. pumps) stored on special hermetic boxes, samples of different sizes (40L – 100L) Environmental Canada’s chlorinated solvents mandatory drums, rolls of electrical wire; boxes of electrical brackets; etc.
+To calculate the deductible part, a reasonable basis was used:
+a. Work space area: including two offices and the garage (400 sq. ft.),
+b. Residential home total area: (1100 sq. ft).
+giving an estimated 35% of “business-use-of-home”.
+4. With respect to paragraph 15(k) – Valsol’s inventory was warehoused at two locations:
+a. “Transport Piché” – located at 8550, Ernest Cormier Street, Anjou, Québec, H1J 1B4;
+b. “RPM Transport” – located at 12705, du Parc Street, in Mirabel, Québec, J7J 1P3.
+While the warehouse located in Anjou was used for chemical material and construction supplies storage, the warehouse in Mirabel was exclusively used for the construction materials storage.
+5. With respect to paragraph 15(1, m and n) – the Respondent wrote on paragraph 15(c), “Valsol’s commercial activities consisted in the importation of chemical products (…) as well as the wholesale of various construction materials”. However, all the above-cited paragraphs referred only to chemical product’s inventory, and omitted completely the activities related to the construction materials inventory.
+6. She denies the facts alleged in paragraph 15(o and p). The amounts listed in the prepared table were all copied by the audit officer from the Chartered Accountant’s ledgers. All these amounts were deducted by the accountant as “Administration expenses”.
+For the audited years 2006 and 2007, the Appellant’s accountant explanation is as follows: The total amount of all the cheques written and withdrawn under the Appellant and her partner’s names in 2006 was: $18,500.00. Out of this amount, the accountant applied small portions into different accounts since the business was operated from the personal residence. The balance was debited to the loan the company owed. Please find below the accountant’s detailed brake-down (sic):
+Rent
+3,240.00*
+Repair and maintenance
+1,579.00*
+Licenses and taxes
+1,709.00*
+Selling adv.
+1,000.00
+Office
+1,566.00*
+Telephone
+1,488.00*
+Utilities
+650.00*
+Loans
+7,268.00
+TOTAL
+18,500.00
+Table 1: Administration account brake-down (sic) for 2006
+Note: the amounts marked with * - represent the amounts refused by the auditor and by the opposition officer.
+The exact amounts refused by the auditors were further calculated, starting from Table 1, as follows:
+Table 1
+DR
+Rent
+3,240.00
+3,240.00
+Repair and maintenance
+1,579.00
+1,579.00
+Licenses and taxes
+1,709.00
+1,709.00
+Selling adv.
+1,000.00
+Office
+1,566.00
+1,360.00
+2,926.00
+Telephone
+1,488.00
+672.00
+2,160.00
+Utilities
+650.00
+409.00
+1,059.00
+Vehicle expenses
+3,428.00
+TOTAL
+16,101.00
+Table 3: Audit officer’s “Administration account” brake-down (sic) for 2006
+The amounts deducted from the commercial bank account are: $1360 – credit cards purchases, $672 – telephone invoices, and $449 – Hydro Quebec bills.
+The same technique was applied for 2007. The total amount deducted on the “Administration expenses” account was $2,800, and small portions out of this amount were divided, by the company’s accountant, into three accounts, as follows:
+Telephone
+1,200.00
+Utilities
+Repair and maintenance
+510.00
+1,090.00*
+TOTAL
+2,800.00
+Table 2: Administration account brake-down (sic) for 2007
+Note: the amounts marked with * - represent the amounts refused by the auditor and by the opposition officer.
+Thus, for the 2006 and 2007 above described expenses, the Appellant can not provide written proofs for the deductions, since there (sic) were not based on real bank account withdrawals. As previously stated, the company’s chartered accountant applied small fractions of the total amount deducted, against each above-cited account.
+7. She denies the fact alleged at paragraph 15(u). The appellant’s position is presented, along with written copies of the deposits, on paragraph 20 of this document – under the chapter: “Offsetting of shareholder loan account against benefits”.
+Vehicle expenses
+8. She denies the facts alleged in paragraph 15(v). The commercial credit cards were primarily used for gas/diesel purchase and were considered under the “vehicle expenses” category of the journal entries. Moreover, if the commercial credit cards purchases were considered as intended for personal purposes, the balance was paid out from personal accounts (Exhibit A).
+For 2006, the amount refused in “Vehicle account” (i.e. $3,428) represent the sum of four expenses:
+a. One cheque of $2,000 (i.e., erroneous entry) – please find below the explanation (Paragraph 10);
+b. The balance, $1,428, represent three credit card payments: gas/diesel purchase, “Meals and entertainment”, “Business gifts” and “Repair and maintenance” accounts (Exhibit B). Please note the merchandise purchased at Reno-Depot was returned and reimbursed.
+9. For the subsequent audited years, a close examination of the accountant’s ledgers shows also, besides the commercial credit cards (sic) amounts, others (sic) entries as: car maintenance/repair, and/or erroneous entries (Exhibit B).
+2007
+2008
+2009
+Automobil Paille
+Mecanique Edmond
+439.85
+681.99
+JT BB Automobile
+JT BB Automobile
+Expedex Transport
+Mecanique Jean Talon
+358.17
+139.86
+88.49
+665.96
+Reicar Inc.
+Minister of Revenue
+Minister of Revenue
+Airplane ticket
+International C
+573.18
+405.07**
+100.08**
+1754.68**
+41.54
+TOTAL
+1121.84
+1252.48
+2874.55
+Table 4: “Car and truck expenses” entries – from the accountant’s ledgers
+Note: ** - represent erroneous entry
+All previous explanations could be gathered in the following table:
+Taxation year ended
+2006
+2007
+2008
+2009
+Vehicle expenses (CRA)
+$ 3,428
+$ 5,443
+$ 7,290
+$ 9,354
+Erroneous entry
+($ 2,000)
+($ 1,290)
+($ 2,066)
+($ 2,882)
+($4,535)
+Car repair and maintenance
+$ 1,121
+$ 1,252
+$ 614.72
+Gas/Diesel
+$ 138
+$ 2,255
+$ 3,155
+$ 4,205
+Table 5: Amount spent yearly on gas purchased by two Valsol’s salespersons
+Moreover, considering that about 2/3 of “Vehicle expenses” were encountered by Mr. Brinza and 1/3 of them by Mrs. Cocos, the calculation would give for the taxation year 2008, under $2000 for Mr. Brinza and under $1100 for Mrs. Cocos. Moreover, considering that the amount was claimed for the entire year, the monthly calculation would be around $160 – for Mr. Brinza and about $100 – for Mrs. Cocos. Finally, considering the average annual gas price in 2008 being $1.188 (Source: Statistics Canada) that would give an average of 135 litters (sic) of gasoline bought monthly by Mr. Brinza and about 85 litters (sic) of gasoline bought monthly by Mrs. Cocos.
+Considering the amount of sales the company made through the objected taxation years, and considering that both the Appellant and his partner were salespersons, it is obvious that the deducted expenses represent only a minimal fraction of the total amount they disbursed with the intention to generate income for the business.
+In fact, if the commercial credit cards purchases were considered as intended for personal purposes, the balance was paid out from the personal accounts (Exhibit B).
+10. With respect to paragraph 15(w), a copy of the mentioned cheque is attached (Exhibit C). Please find also attached a copy of the accountant’s ledgers for 2006. This will explain a manual error entry: the $2,000 amount should have been added, by the accountant, in the next column of the charter, along with all the cheques written on the shareholders (sic) names.
+11. Over the cited taxation years, the company and the (sic) its two employees used only one car (i.e. the 1998 Honda Civic – in 2008, and the 2006 Volvo – in 2009) or two different cars, but never three cars as stated in paragraph 15(x).
+12. She denies the facts alleged in paragraph 15(y). Valsol’s commercial activities consisted in wholesales (sic) of chemical and construction products. Both the Appellant and Mr. Brinza were salespersons. Their activities consisted, inter alia, in reaching new clients for presenting written lists of products and/or identifying products on demand, in contacted (sic) the established clients for samples collection or for financial issues, tools repair and calibration, chemical samples pick-up and transporting to laboratory for properties analyzing.
+In fact, Canada Revenue Agency file entitled “Documenting the use of a vehicle” states as follows:
+The fact that a viable business exists is usually a strong indicator that a person incurred vehicle expenses, because it is extremely difficult to carry on a business without doing at least some driving. Claims for a very low amount of business use do not require extensive records to demonstrate business travel.
+Telephone expenses
+13. She denies the facts alleged in paragraph 15(aa). Please find attached (Exhibit D) an example of the telephone expenses claimed in “Telephone and Communication” account. Since the Canadian Revenue Agency’s website didn’t, and still does not, provide straight explanations regarding the allowed deductions of the businesses’ telephone expenses, the calculus was based on various information regarding accepted percentages for this deductions (sic). However, the information retained by the Appellant is that the internet and the cellular bills should have been under the corporation’s name.
+Office expenses
+14. She denies the facts alleged in paragraph 15(bb).
+a. The majority of Société des alcools and WalMart expenses were made around the Christmas time, and on suppliers, customers and/or bank representatives’ birthdays. On these occasions, Valsol prepared gift baskets (i.e. bottles of wine, gourmet chocolates and biscuits) presented with greeting cards. All these gifts intended (sic) for a particular person or group of people within the company should be deducted, by the company’s chartered accountant, in a different account (i.e. “Business gifts”). A list of contacts who received such gifts is attached (Exhibit E). Few purchases (Exhibit E) at WalMart store represent office supplies – correct (sic) deducted in the “Office expenses” account.
+b. Future Shop purchases represent only office expenses as: fax machine, internet modem, computer software (i.e. MS Office), ink cartridges, etc.
+c. Very low amounts were disbursed on groceries purchases for lunches whenever the warehouse’s job required a large amount of time spent on the premises. Both the Appellant and his (sic) husband were actively involved in warehouse’s activities including:
+▪ periodic products record and placement storage,
+▪ 20 ft containers arrival check-in and barrels downloading from containers,
+▪ sampling and analyzing the chemical product properties,
+▪ original stickers removal and Valsol’s stickers applied,
+▪ different capacity barrels filing,
+▪ loading and unloading the construction materials, transport and handling of the construction materials,
+▪ loading the empty chemical barrels for depositing them in recycling sites,
+▪ set-up/repair/calibration of tools, etc.
+Utilities
+15. She denies the facts alleged in paragraph 15(cc). The amount claimed for Hydro-Quebec as utilities expenses represent $408.51 in 2006 and $638.95 in 2007.
+Business taxes, licenses and memberships
+16. Regarding the paragraph 15(dd), please find below two paragraphs from a document saved in Valsol’s computer, files named “Les revenues d’entreprise et de professions” published in 2008 by the provincial government:
+▪ 6.12.5 Primes supplémentaires d’assurance
+Vous pouvez déduire la totalité des frais reliés à l’assurance supplémentaire pour le véhicule à moteur que vous utilisez dans l’exercice de votre activité.
+▪ 6.17 Impôts fonciers (taxes municipales et scolaires)
+Vous pouvez déduire les impôts fonciers relatifs aux biens (terrain et bâtiment) que vous utilisez pour exploiter une entreprise. Ils comprennent les taxes municipales et les taxes scolaires, à l’exclusion de toute partie remboursable de ces taxes. Les taxes municipales comprennent, entre autres, les taxes d’eau, d’égout, de voirie et d’enlèvement des ordures, les taxes propres à un secteur pour les installations ou les services publics et les taxes de financement des municipalités ou des communautés urbaines, mais elles ne comprennent pas les droits de mutation.
+Regarding the $5,000 expense the explanation is as follows: Valsol paid the majority of its suppliers in US funds. This $5,000 expense represents again, an erroneous entry, since this amount should have been added in a different column of the 2007 accountant’s charter. Please find attached the 2007 charter file (Exhibit F) for confirmation.
+Explications sur les calculs du comptable – Annexe F
+Repair and maintenance
+17. Regarding “Repair and maintenance” expenses, for 2006 and 2007 the Appellant can not provide any written proof, since, as explained in paragraph 3, these deductions were not based on real bank account withdrawals.
+For 2008 (i.e. $401.00) and 2009 (i.e. $993.00), copies of the issued cheques are provided (Exhibit G).
+Rental expenses and travel expenses
+18. Regarding the paragraph 15(ff):
+a. As explained in paragraph 4 of this document, and as shown in Table 3, the Appellant can not provide written proofs for this account, since these deductions were not based on real bank account withdrawals.
+Travel expenses
+Even though all Valsol’s suppliers were located abroad (i.e. Romania, Russian Federation, United States of America, etc.) only two airplane expenses were claimed: first one in 2007 and the second in 2009. No voyage expenses were claimed or deducted in 2005 – the year the company started dealing and importing chemical material, or in 2008 and 2009 – when the company added new suppliers, despite the fact that both partners visited the premises located overseas. Moreover, no other travel expenses (bus, train, taxi fares), lodging (hotel) or food was ever claimed or deducted. Complete written proofs for the 2009 airplane e-tickets are presented (Exhibit H).
+Offsetting of shareholder loan account against benefits
+19. She denies the facts alleged in paragraph 15(u). In fact, having all the Financial Statements in his hands, and presumably after assessing them, in this paragraph the Counselor for the Respondent stated:
+“For Valsol’s years ended December 31, 2006, 2007, 2008 and 2009, Valsol’s balance sheet did not reflect any due to individual shareholders;”
+20. All the disputed amounts could be deducted from the amount the company owned to its shareholder (i.e. $497,792) – under “Loans payable” from the most recent audited Financial Statement of the company. All through the audited years, the Appellant injected more than $75,000 from her personal bank account. Proofs of the amounts debited from the Appellant’s personal bank account and proofs of the same amounts credited to the commercial bank account and/or wire transfers from her personal bank account to supplier’s commercial bank accounts are also attached (Exhibit I).
+Assessing the penalties
+21. No Penalty Recommendation Report was issued by the auditor. Pursuant to the provisions of subsection 163(2) of the Income Tax Act, the Minister of National Revenue may only impose penalties on taxpayers who knowingly or under circumstances amounting to gross negligence make, participate in, assent to, or acquiesce in the making of a false statement or omission in a tax return, form, certificate, statement or answer filed or made in respect to a taxation year.
+22. Regarding proving “gross negligence”, the burden of proof shifted to the Minister on statute-barred year, namely 2006;
+23. The Appellant denies the facts alleged in paragraph 16(b). The Respondent should consider that during all the audited taxation years the Appellant was married and living together with her spouse. Moreover, when the Respondent wrote: “her income (…) was clearly insufficient to pay for her basic living expenses” he should also consider the proofs that the Appellant already gave to the auditors – explaining all the amounts that she received all through the audited years from her parents.
+24. At all relevant time, the Appellant’s bookkeeper made the journal entries and the chartered accountant reviewed the entries and made several adjusting entries. It is the Appellant position that she had a system in place to keep proper records and that she did not knowingly make a false statement in either her income tax returns or those of the Corporation.
+25. As noted by Strayer J., in Venne v R, (1984), 84 DTC 6247 (FedTD) at pages 6256 – 6249 (sic).
+[. . .] “Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not [. . .]
+[. . .] By virtue of sub-section 163(3) “the burden of establishing the facts justifying the assessment of the penalty is on the Minister”. It will be noted that for the penalty to be applicable there appears to be a higher degree of cuplability required, involving either actual knowldege or gross negligence, than is the case under subsection 152(4) for reopening assessments more than four years old where mere negligence seems to be sufficient [. . .]
+CONCLUSIONS
+26. Although Valsol’s sales around $200,000.00 or more yearly, the Deputy Attorney General of Canada believed that the company didn’t need neither a principal place of business, as stated in paragraph 15(g), nor a motor vehicle, as stated in paragraphe15(y). The company and its salespersons didn’t need neither telephones nor internet connection – as decided by disallowing Telephone and Communication Expenses. All through the reply to the Notice of Appeal, the Respondent tried to minimize the Appellant (sic) activities believing that she performed “limited tasks” – paragraph 15(f), with a “limited number of customers” – paragraph 15(j).
+27. The CRA’S auditors, opposition officers and appeal lawyers agreed to refuse not only parts but the whole amount deducted in the Financial Statements, and this, for 7 (seven) or 8 (eight) types of expenses. Taking into consideration that the Valsol’s yearly Financial Statements include a total of 10 (ten) expenses, CRA refused a total of 80% of the entire claimed expenses.
+28. According to Dun & Bradstreet reports, “Businesses with fewer than 20 employees have only a 37% chance of surviving four years of business. Valsol started the importation and commercialization of products in January 2005 and was actively in business prior (sic) the Canada Revenue Agency audit started in July 2010.
+29. The business expenses were directly incurred for earning the Appellant’s income. All the company chartered accountant’s claims are reasonable and consistent with the type of slated wholesales (sic) business (i.e. “vehicle expenses”, “telephone expenses”, and “business-use-of-home expenses”). In addition, not all the expenses incurred by Valsol were claimed or deducted, but were entirely financed by two partners.
+30. Few purchases among the credit cards payments should probably have been deducted in different accounts as: “Business start-up costs”, “Meals and entertainment”, “Prepaid expenses”, “Travel”, etc. – witch (sic) does not exist in the Valsol’s accountant (sic) ledgers. In fact, out of 26 (twenty-six) accounts listed by the Canada Revenue Agency (Exhibit J) under chapter “Business expenses” Valsol deducted all its purchases using only 9 (nine) or, starting (sic) 2007, 10 (ten) accounts. A more exhaustive distribution of all the expenses would surely have given a more accurate and realistic image of the disbursements made by the company.
+[7] Mrs. Cocos testified at the hearing and she filed as Exhibit A-1 her Answers to the Reply to the Notice of Appeal. She holds a master’s degree in chemical engineering (environment) from l’École Polytechnique de l’Université de Montréal and she is now completing a Ph.D. During the years under appeal, she was married to Mr. Valentine Brinza and she was the sole shareholder of 9119-5594 Quebec Inc., a company operating under the name of Valsol (“Valsol”). Valsol’s commercial activities began in 2005 and consisted mainly in the importation and the wholesale of chemical products as well as the wholesale of various construction materials. Valsol had only two employees, the appellant and her spouse. Valsol’s principal place of business was at the appellant’s personal residence located at 478, De Courchevel Street in Laval, Quebec, which was purchased on June 4, 2004 and sold on December 23, 2008. In 2009, the appellant purchased another residence located at 2929 Apple Hill Street, Baie D’Urfé, Quebec, which then became Valsol’s principal place of business. In 2011, she separated from her spouse and Valsol ceased its operations.
+[8] Mrs. Cocos stated that she contracted a loan and was granted an hypothec on her Laval residence which required weekly mortgage payments of $258.20, or approximately $13,426 per year. Her spouse’s net income for 2006 to 2009 taxation years was as follows:
+2006: $12,766
+2007: $15,929
+2008: $11,400
+2009: $24,600
+[9] Mrs. Cocos alleged that she received money from her father amounting to $8,000 to $9,000 per year to help her to meet her mortgage payments.
+[10] At the objection level, the appellant’s representative submitted a bundle of invoices which included credit card statements, cell phone statements, internet, cable, charges for public services such as Hydro-Québec, municipal and school taxes, insurance, plane tickets for two trips to Romania. No allocation was made for the personal component of these expenses. All the expenses were claimed as a deduction at the corporation level.
+The relevant provisions of the Act
+[11] The following provisions of the Act are relevant for the purpose of this appeal:
+15(1) Benefit conferred on shareholder. Where at any time in a taxation year a benefit is conferred on a shareholder, or on a person in contemplation of the person becoming a shareholder, by a corporation otherwise than by
+. . .
+the amount or value thereof shall, except to the extent that it is deemed by section 84 to be a dividend, be included in computing the income of the shareholder for the year.
+152(4) Assessment and reassessment. The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+(ii) has filed with the Minister a waiver in prescribed form within the normal reassessment period for the taxpayer in respect of the year; or
+. . .
+152(4.01) Assessment to which par. 152(4)(a) or (b) applies. Notwithstanding subsections (4) and (5), an assessment, reassessment or additional assessment to which paragraph (4)(a) or (b) applies in respect of a taxpayer for a taxation year may be made after the taxpayer’s normal reassessment period in respect of the year to the extent that, but only to the extent that, it can reasonably be regarded as relating to,
+(a) where paragraph (4)(a) applies to the assessment, reassessment or additional assessment,
+(i) any misrepresentation made by the taxpayer or a person who filed the taxpayer’s return of income for the year that is attributable to neglect, carelessness or wilful default or any fraud committed by the taxpayer or that person in filing the return or supplying any information under this act, or
+(ii) a matter specified in a waiver filed with the Minister in respect of the year, and
+163(2) False statements or omissions. Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+. . .
+Analysis [12] The only issue in this appeal is to determine the portion, if any, of the disallowed expenses claimed by Valsol that were incurred for business purposes. The problem results from a deficiency in the manner in which books and records of Valsol were maintained by the company’s accountant who was responsible for the preparation of the financial statements, the income tax returns and the goods and services tax reports.
+[13] All the disallowed expenses listed in paragraph (o) of the Reply to the Notice of Appeal were deducted by the accountant as “administration expenses” without making any adjustment for the personal component of these expenses despite the fact that many expenses were related to the appellant’s personal residence, trips to Romania and use of vehicles. As explained by Mrs. Cocos, Valso’s accountant’s practice was to take the total amount of all the cheques written and withdrawn by her and her spouse and to apply a portion of the total amount to different expense accounts. The balance was then debited to the loan that Valsol owed to her.
+Business Use-of-Home [14] I do not agree with the CRA’s auditor that only limited tasks were performed from Mrs. Cocos’ personal residence. I do not think that the appellant used her personal residence as simply a mailing address for Valsol. The appellant had her office therein as well as her spouse who was a salesperson for Valsol. Furthermore, the garage was used to store liquid and solid chemical samples, analytical balances, pumps, rolls of electrical wires and boxes of electrical brackets. The proposed allocation of 35% of business-use-of-home appears to me to be reasonable in the circumstances (400 sq. ft. over the residential home total area of 1100 sq. ft.)
+[15] Consequently, Valsol is entitled to deduct 35% of the utility expenses (Hydro-Québec residential electricity bills, the municipal and school taxes and the residential insurance premiums). The $5,000 expense described as a “US funds purchase” in 2007 is deductible as Valsol paid its suppliers in U.S. funds.
+[16] Concerning the repairs and maintenance on the residential property, no amount is deductible as the appellant did not provide any information on the exact nature of the repairs and maintenance work done on the residential property.
+Telephone Expenses [17] Valsol claimed as expenses the appellant’s entire residential telephone charges including long distance calls as well as Mr. Brinza’s personal cellular telephone bills. As a portion of the telephone and communications expenses were necessarily incurred for business purposes, I consider that 35% of the expenses are deductible by Valsol since no representations were made by the appellant to justify a greater percentage.
+Office Expenses [18] Office expenses claimed by Valsol include credit card payments, purchases made at the Société des alcools du Québec, Walmart, Home Depot, Future Shop, grocery stores and for a subscription to Time magazine. The appellant explained that the majority of the Société des alcools and Walmart expenses were made around Christmas time for business gifts to suppliers, customers and bank representatives. The appellant provided a list of people who supposedly received such gifts but nobody from this list appeared in Court to confirm receipt of the gifts. For that reason, no amount is deductible on that account.
+[19] The Future Shop purchases represent only office supplies which should, in principle, be deductible as a business expense but because no precise amount of these purchases was presented in Court, no deduction is allowed for these expenses.
+[20] With respect to the groceries purchased for lunches at the warehouse by the appellant and her spouse, no expense is deductible as no record in terms of cost and frequency of such lunches were kept.
+[21] Finally, the appellant did not explain why the subscription to Time magazine was made and is therefore not deductible.
+Rental Expenses and Travel Expenses [22] The rental expenses were claimed by Valsol in 2006 and the travel expenses were claimed by Valsol in 2007. The appellant recognized that she could not provide any information concerning these deductions as they were not based on real bank account withdrawals. In the circumstances, these expenses are not deductible.
+The Vehicle Expenses [23] Considering the nature of the business carried on by Valsol, it is reasonable to consider that a portion of the vehicle expenses claimed were in fact incurred for business purposes. For example, trips to the warehouses, trips to meet with clients and trips to the banks to make deposits and to purchase U.S. funds are perfectly legitimate. The problem here is that Valsol, the appellant and her spouse did not keep log books pertaining to the use of their vehicles and that there is no allocation for personal use of the vehicles.
+[24] Based on the “Car and Truck expenses” entries from the accountant’s ledgers, I accept that the following expenses for car repairs and maintenance be deductible:
+2006: nil
+2007: $1,121
+2008: $1,252
+2009: $61,472
+[25] Concerning the Gas/Diesel, the appellant filed an estimate of the monthly business mileage made by her and her spouse for the 2006 to 2008 period from their Laval residence and for the 2009 year from their Baie D’Urfé residence to the warehouses, the banks, the accountant’s office and to potential and established clients’ offices. Her estimate was supposedly based on the gas purchases made during each year. For the 2006 to 2008 period, the estimated kilometers made for business trips by the appellant and her spouse amounted to 2,424 kilometers per month. For 2009, the estimated monthly kilometers were 3,403. The details of the calculation of the estimated kilometers were not submitted for the Court’s consideration. The monthly gas purchases paid by Valsol were not computed and the gas consumption by each vehicle was not provided. The estimated kilometers computed by the appellant is not a reliable source of information. For that reason, no amount can be deducted under that heading.
+[26] The amounts for erroneous entries made each year by the accountant are not deductible as no clear explanation was given as to why they were included in this particular account and in what account they should have been included.
+The 2006 Reassessment and the Gross Negligence Penalty
+[27] The reassessment for the 2006 taxation year was beyond the normal reassessment period and the Minister imposed gross negligence penalties in respect of each year under appeal.
+[28] The evidence shows that the appellant was closely involved in Valsol’s affairs and that she could not possibly ignore that her personal expenses were paid for and expensed by Valsol. With the exception of her mortgage payments, almost all of the expenses related to the appellant’s personal residence were paid by Valsol. The income declared by the appellant and her spouse for the taxation years under appeal was clearly insufficient to pay for the basic living expenses of the household. The appellant’s allegation that she received financial assistance from her father has not been corroborated.
+[29] The benefits received by the appellant from Valsol are substantial when compared to her declared income and the appellant deliberately omitted to include these benefits in her reported income. I can properly infer from the way books and records of Valsol were kept that the appellant knew or ought to have known that misrepresentations attributable to gross negligence were made in her tax returns with respect to the amounts disallowed by the Minister. Based on the tax returns filed by Valsol for the 2006, 2007, 2008 and 2009 taxation years, there was no entry in its balance sheet for amounts due to the shareholder.
+[30] Therefore, the Minister has met the burden of establishing that subparagraph 152(4)(a)(i) and subsection 163(2) of the Act should apply, to justify the gross negligence penalties and the assessment of the appellant beyond the normal reassessment period.
+[31] For all these reasons, the appeal is allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessments on the basis that the following expenses are deductible by 9119‑5594 Québec Inc. and shall be excluded from the appellant’s income:
+[32]
+2006
+2007
+2008
+2009
+Utilities
+$ 370,65
+$ 402.15
+$ 395.85
+$ 460.25
+Business taxes, licenses and memberships
+$ 598.15
+$5,627.20
+$1,924.65
+$1,202.25
+Telephone and communications
+$ 735.00
+$ 743.75
+$ 690.90
+$ 992.95
+Vehicle expenses
+−
+$1,121.00
+$1,252.00
+$ 614.72
+Total
+$1,703.80
+$7,894.10
+$4,263.40
+$3,270.17
+The penalties shall be adjusted accordingly.
+Signed at Ottawa, Canada, this 5th day of May 2016.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2016 TCC 107
+COURT FILE NO.:
+2014-3278(IT)I
+STYLE OF CAUSE:
+Ioana Alice Cocos and Her Majesty the Queen
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+October 7, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+May 5, 2016
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marie-Claude Landry
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

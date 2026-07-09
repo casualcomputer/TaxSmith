@@ -1,0 +1,201 @@
+Title: Haleem c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521340/index.do
+Corpus path: corpus/cases/tcc/2024/2024-cci-131-521340-haleem-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2024-10-08
+
+# Haleem c. Le Roi
+
+- Citation: 2024 CCI 131
+- Decision date: 2024-10-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6046, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Haleem c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-10-24
+Référence neutre
+2024 CCI 131
+Numéro de dossier
+2023-1768(IT)I
+Juges et Officiers taxateurs
+Michael U. Ezri
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2023-1768(IT)I
+ENTRE :
+MISBAHUDDIN HALEEM,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+‎[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 12 et 15 août 2024, à Calgary (Alberta)
+Observations écrites de l’intimé déposées le 4 septembre 2024. L’appelant n’a pas présenté d’autres observations.
+Devant : l’honorable juge Michael U. Ezri
+Comparutions :
+Représentante de l’appelant :
+Me Sarah Haleem
+Avocate de l’intimé :
+Me Kerrin Rodrigues
+JUGEMENT
+L’appel de la cotisation pour l’année d’imposition 2019 interjeté par l’appelant est rejeté, sans dépens.
+Signé à Toronto (Ontario), ce 8e jour d’octobre 2024.
+« Michael Ezri »
+Le juge Ezri
+Référence : 2024 CCI 131
+Date : 2024-10-24
+Dossier : 2023-1768(IT)I
+ENTRE :
+MISBAHUDDIN HALEEM,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Ezri
+VUE D’ENSEMBLE
+[1] L’appelant, monsieur Misbahuddin Haleem (« M. Haleem ») affirme que le ministre du Revenu national (le « ministre ») a injustement rejeté une demande de redressement d’une T1 à laquelle était joint un formulaire de renonciation aux versements des cotisations au Régime de pensions du Canada (le « formulaire de renonciation »). Par conséquent, le ministre n’a pas annulé les cotisations au RPC qui avaient été imposées à M. Haleem pour 2019. La question soulevée en l’espèce n’est pas celle de savoir si la cotisation avait été correctement établie, mais plutôt celle de savoir si notre Cour a compétence pour examiner le rejet par le ministre du formulaire de renonciation qui est à l’origine du présent appel. Je ne vois aucune raison de distinguer la présente affaire et de ne pas lui appliquer le raisonnement de la Cour suprême dans l’affaire Dow Chemical, récemment tranchée. La décision du ministre de rejeter le formulaire de renonciation était une décision discrétionnaire qui ne peut être révisée par notre Cour. Par conséquent, le présent appel doit être rejeté.
+FAITS
+[2] L’appelant, M. Haleem, n’a pas témoigné lors de l’instruction du présent appel, mais sa fille a comparu à titre de mandataire et a indiqué que l’appelant ne contestait ni les antécédents de cotisation du ministre ni les présomptions de fait, ces dernières ayant été examinées une à une avec elle. Les faits connus qui ne sont pas contestés sont les suivants :
+En 2019, M. Haleem avait plus de 65 ans et percevait une pension au titre du Régime de pensions du Canada[1], L.R.C. (1985), ch. C-8, telle que modifié et en vigueur au 3 mars 2020 [ci-après, le « RPC »].
+M. Haleem a néanmoins continué à travailler à son propre compte durant l’année 2019, et il a déclaré un revenu net de 17 638 $ au titre des commissions pour travailleur autonome pour l’année 2019.
+Le 11 juin 2020, M. Haleem a produit sa déclaration de revenus pour l’année d’imposition 2019.
+Le 30 juin 2020, la déclaration de revenus de M. Haleem pour l’année d’imposition 2019 a fait l’objet d’une première cotisation (la « cotisation de 2020 »). Le ministre a établi une cotisation de 1 442,07 $ en contributions au RPC, due au titre du revenu d’un travail indépendant.
+L’appelant n’a pas immédiatement contesté cette cotisation. Au lieu de cela, plus d’un an plus tard, soit le 20 octobre 2021, M. Haleem a déposé une demande de redressement d’une T1 à laquelle il a joint un formulaire prescrit par les règlements adoptés en vertu du RPC, dans le but de cesser de verser des cotisations au RPC pour son année d’imposition 2019 (le « formulaire du RPC »).
+Le 16 décembre 2021, le ministre a émis un avis de nouvelle cotisation (la « nouvelle cotisation de 2021 »). Cet avis dont l’objet est plutôt mystérieux ne modifiait en rien le montant établi dans la cotisation initiale. Il portait seulement la mention suivante [traduction] : « Nous avons modifié votre déclaration de revenus afin d’ajuster les rémunérations visées par un choix aux fins du RPC/RRQ ». Ni la mandataire de l’appelant ni l’avocate de l’intimé n’ont pu faire état d’un quelconque changement ou m’éclairer sur ce que signifiait l’expression « rémunérations visées par un choix » dans ce contexte.
+L’appelant a prétendument déposé un avis d’opposition à la nouvelle cotisation 2021 le 20 février 2023.
+Dans une lettre datée du 22 mars 2023, le ministre a rejeté l’avis d’objection au motif que la nouvelle cotisation de 2021 n’était pas vraiment une cotisation, mais plutôt un simple avis émis aux « fins d’information ». Le ministre a également indiqué que l’avis d’objection avait été produit trop tardivement pour être accepté quant à la cotisation de 2020. Le ministre a donc invité l’appelant à demander plutôt une prorogation du délai pour s’opposer à la cotisation de 2020. La lettre du ministre informait l’appelant qu’il avait jusqu’au 15 juin 2022[2] pour introduire cette demande.
+Le 17 avril 2022, l’appelant a demandé une prorogation du délai pour s’opposer à la cotisation de 2020, et a joint à cette demande un avis d’opposition très semblable à son avis d’opposition du 20 février 2022.
+Le 8 juin 2022, le ministre a accordé la prorogation du délai pour le dépôt de l’avis d’opposition.
+Exactement un an plus tard, soit le 8 juin 2023, le ministre a confirmé la cotisation de 2020 au motif que lui-même, le ministre, n’avait pas l’autorité légale d’accepter un choix fait tardivement. Le 15 septembre 2023, l’ARC a publié une lettre exposant les raisons juridiques justifiant la décision du ministre.
+QUESTIONS EN LITIGE
+[3] Les questions à trancher sont les suivantes :
+a. Quelle est la cotisation qui fait l’objet d’un appel devant la Cour?
+b. La Cour a-t-elle compétence pour ordonner au ministre d’établir une nouvelle cotisation afin de tenir compte du choix du RPC?
+c. Dans l’affirmative, le ministre a-t-il eu raison de rejeter le choix du RPC?
+[4] À mon avis, la compétence de la Cour pour examiner le rejet du formulaire du RPC est la question principale en l’espèce. Il convient toutefois d’examiner le contexte juridique de la cotisation de 2020 et de la nouvelle cotisation de 2021.
+(1) Question no 1 : Quelle est la cotisation qui fait l’objet d’un appel devant la Cour?
+[5] Les deux parties ont fait valoir que l’espèce était un appel de la cotisation de 2020. Je suis d’accord, mais la question n’est pas aussi tranchée qu’il n’y paraît à première vue.
+[6] La cotisation de 2020 n’était pas erronée lorsqu’elle a été émise pour la première fois; d’ailleurs, l’appelant ne l’a pas contestée, initialement. Au lieu de cela, il a tenté de faire le choix de ne plus cotiser au RPC. C’est le ministre qui a insisté pour que l’avis d’opposition à la nouvelle cotisation de 2021 déposée par l’appelant soit reformulé comme un avis d’opposition à la cotisation de 2020. L’appelant a souscrit à cette approche.
+[7] On peut également avancer que la cotisation de 2020 n’existe plus, étant donné que la nouvelle cotisation de 2021 l’a remplacé[3]. Si tel est le cas, l’avis d’opposition porterait donc sur une évaluation qui a été annulée.
+[8] Toutefois, je ne crois pas que la nouvelle cotisation de 2021 ait annulé la cotisation de 2020. Je dis cela pour deux raisons :
+a. la nouvelle cotisation de 2021 n’a apporté aucun changement au montant de la première cotisation établie par le ministre;
+b. la nouvelle cotisation de 2021 semble avoir été émise pour informer l’appelant de la décision du ministre de rejeter sa demande de redressement d’une T1. Comme je l’explique dans mon analyse de la compétence, ci-dessous, la décision de rejeter la demande de redressement d’une T1 est une décision discrétionnaire et non pas une décision relative à la cotisation; elle ne remplace donc pas la cotisation de 2020.
+[9] Cela dit, le choix d’établir la nouvelle cotisation de 2021 pour communiquer la décision de rejeter un choix fait tardivement m’amène à faire deux autres commentaires :
+Même si j’avais conclu que la nouvelle cotisation de 2021 avait remplacé la cotisation de 2020, l’appelant aurait quand même eu le droit d’interjeter valablement un appel devant notre Cour, bien qu’il se serait alors agi d’un appel de la nouvelle cotisation de 2021, plutôt que d’un appel de la cotisation de 2020. L’appelant a prétendument déposé un avis d’opposition à la nouvelle cotisation de 2021. Cet avis a été déposé dans les délais et, bien que le ministre ait prétendu avoir rejeté l’avis d’opposition, il ne s’est pas prononcé sur l’opposition en confirmant la cotisation ou en établissant une nouvelle cotisation. L’appelant était donc libre d’interjeter appel devant la Cour canadienne de l’impôt en ce qui concerne la nouvelle cotisation de 2021, 180 jours après avoir déposé son avis d’opposition le 20 février 2023, c’est-à-dire à tout moment après le 19 août 2023; il a effectivement déposé son avis d’appel le 30 août 2023;
+Les avis de (nouvelles) cotisation sont des documents spécifiques prévus par la Loi de l’impôt sur le revenu. Lorsqu’ils sont envoyés, ils mettent en marche le mécanisme juridique qui permet de faire opposition aux cotisations et d’interjeter appel devant notre Cour. Il ne convient pas, pour le ministre, d’émettre un document intitulé « Avis de nouvelle cotisation » et, lorsque le contribuable s’y oppose, de répondre comme il l’a fait en l’espèce, en indiquant que la nouvelle cotisation de 2021 avait été émise « aux fins d’information seulement ». Soit ce document est un avis de nouvelle cotisation, soit il ne l’est pas. S’il s’agit d’une nouvelle cotisation, il y a lieu d’y faire opposition; s’il ne s’agit pas d’une nouvelle cotisation, il n’y a pas lieu de l’émettre. En l’espèce, les actions du ministre ont failli priver l’appelant de la possibilité de comparaître devant la Cour, lorsque le ministre a insisté sur le fait qu’aucune objection ne pouvait être faite de la nouvelle cotisation, puis lorsqu’il a invité l’appelant à s’opposer à la cotisation de 2020, alors qu’elle aurait pu être considérée comme annulée et remplacée. Ce n’est que le fruit du hasard si l’appelant a déposé devant la Cour un appel qui pouvait valablement être interprété soit comme un appel de la cotisation de 2020, telle que confirmée par le ministre, soit comme un appel de la nouvelle cotisation de 2021, et ce, quelque 189 jours après que l’avis d’opposition à la nouvelle cotisation de 2021 ait été déposé.
+[10] En établissant une nouvelle cotisation et en invitant ensuite l’appelant à s’opposer à une cotisation antérieure, le ministre, même si c’est par inadvertance, a peut-être induit l’appelant en erreur en lui faisant croire qu’il pouvait contester le rejet du formulaire du RPC devant la Cour alors que, conformément à la loi, tout recours doit être entrepris au moyen d’une demande de contrôle judiciaire déposée auprès de la Cour fédérale. En effet, la décision du ministre était une décision discrétionnaire qui ne peut pas être révisée par notre Cour.
+(2) Question no 2 : Pas de recours devant la Cour canadienne de l’impôt pour le rejet du choix du RPC
+(a) Le régime législatif relatif au RPC
+[11] Le RPC constitue une législation détaillée et complexe. Toutefois, ce détail peut être omis en l’espèce puisque la question soulevée ne concerne que trois éléments spécifiques de la législation :
+a. Dans le cadre du RPC, un travailleur autonome doit verser une cotisation au titre du RPC en fonction de ses gains cotisables provenant du travail qu’il exécute pour son propre compte[4], ce qui inclut les gains provenant du travail qu’il exécute pour son propre compte, auxquels est inclut le revenu provenant de toutes les entreprises qu’il exploite[5];
+b. Un travailleur autonome qui a droit à des prestations du RPC et qui est âgé de plus de 65 ans peut choisir, selon les modalités prescrites, d’exclure des gains provenant du travail qu’il exécute pour son propre compte du montant de ses gains cotisables provenant d’un tel travail[6]. Les personnes qui continuent à cotiser au RPC peuvent recevoir des montants supplémentaires sous forme de prestations après-retraite;
+c. Le choix doit être effectué dans un délai d’un an à compter de la date d’échéance de la production de la déclaration de revenu pour les mois ou l’année auxquels le choix s’applique[7].
+[12] M. Haleem recevait des prestations au titre du RPC et souhaitait ne pas verser des cotisations pour l’année 2019. Sa déclaration de revenus pour l’année 2019 devait être produite avant le 15 juin 2020 (elle l’a été le 11 juin 2020); ainsi, il avait jusqu’au 15 juin 2021 pour choisir de ne pas verser de cotisations pour l’année 2019. Toutefois, comme indiqué ci-dessus, il a déposé son formulaire seulement en octobre 2021.
+(b) Argument de M. Haleem concernant le pouvoir du ministre de proroger le délai et réponse du ministre
+[13] Dans l’appel qu’il a interjeté devant notre Cour, M. Haleem soutient que le ministre a eu tort de refuser le formulaire du RPC et que, par conséquent, la cotisation de 2020 est erronée. L’argument invoqué par M. Haleem est que la législation concernant le RPC incorpore par référence un certain nombre de dispositions de la Loi de l’impôt sur le revenu (la « LIR »). En particulier, l’article 36 du RPC prévoit que la partie XV de la LIR s’applique, avec les adaptations nécessaires, relativement à tout montant payé ou payable au titre des cotisations à l’égard de gains provenant du travail qu’une personne exécute pour son propre compte comme si ce montant était payé ou payable au titre de la LIR.
+[14] L’appelant avance que le paragraphe 220(3.2) se trouve dans la partie XV de la LIR et qu’il confère au ministre le pouvoir de proroger le délai pour faire un choix prévu par une disposition applicable. Ainsi, selon l’appelant, le ministre aurait pu proroger le délai qui était accordé à M. Haleem pour choisir de ne pas verser de cotisations au RPC pour l’année 2019.
+[15] Dans sa lettre datée du 15 septembre 2023, l’ARC a exprimé son désaccord avec la position de l’appelant. L’ARC est plutôt d’avis que le RPC n’autorise pas expressément les choix tardifs, et que l’article 220(3.2) de la LIR autorise les prorogations de délai uniquement pour les circonstances particulières, c’est-à-dire celles qui sont prévues à l’article 600 du Règlement de l’impôt sur le revenu. Ces questions n’incluraient pas le choix de ne pas verser de cotisations au titre du RPC.
+(c) Le refus du ministre était discrétionnaire
+[16] La décision du ministre, selon laquelle elle n’avait pas compétence pour accepter le choix fait tardivement, est une conclusion juridique. Il pouvait donc sembler à l’appelant qu’il s’agissait d’une décision pouvant être qualifiée de bonne ou mauvaise, et que la Cour pouvait trancher cette question une fois pour toutes. Cependant, il est bien connu, dans ce domaine du droit que l’on nomme droit administratif, que c’est tout le contraire.
+[17] Le droit administratif traite des questions relatives à la manière dont les fonctionnaires qui administrent des lois comme la LIR prennent des décisions affectant les droits et les obligations des personnes en vertu de ces mêmes lois. Ce volet du droit répond également à la question de savoir comment les personnes concernées par ces décisions peuvent les contester devant les tribunaux, et comment ces derniers sont censés statuer sur ces litiges.
+[18] L’arrêt Vavilov est aujourd’hui une référence quant à la norme de contrôle qu’un tribunal devra appliquer pour traiter d’une décision administrative. Dans l’arrêt Vavilov, la Cour suprême explique que, tout bien considéré, un tribunal appliquera la présomption voulant que la norme de la décision raisonnable soit la norme applicable chaque fois qu’une cour contrôle une décision administrative[8]. En effet, le Parlement a voulu qu’une telle décision puisse être prise en suscitant le moins possible d’interventions judiciaires.
+[19] Dans l’affaire Vavilov, la Cour suprême explique que la norme de la décision raisonnable se distingue de la norme de la décision correcte. La cour de révision doit d’abord examiner les motifs donnés par le décideur, afin de déterminer s’ils sont logiques et cohérents, et s’assurer qu’ils ne sont pas indéfendables. La Cour de révision doit s’abstenir de trancher elle-même la question en litige[9].
+[20] En l’espèce, la ministre a rendu une décision en exerçant son pouvoir d’accepter ou non un choix fait tardivement en vertu de deux lois habilitantes, soit le RPC et la LIR.
+[21] Dans l’affaire Banff Caribou Properties Ltd, la Cour fédérale s’est vue saisie d’une demande de contrôle judiciaire d’une décision du ministre du Revenu national rejetant la demande d’un contribuable de modifier sa déclaration de revenus des sociétés pour y joindre des lettres, par lesquelles ce dernier choisissait de considérer certains bâtiments comme des biens amortissables distincts. Le ministre a refusé d’autoriser la modification, au motif qu’il n’avait pas le pouvoir discrétionnaire d’accepter les choix faits tardivement, en vertu des dispositions législatives applicables à la situation du contribuable en question[10].
+[22] Dans l’affaire Banff Caribou Properties Ltd, la Cour fédérale a estimé que la demande de modification de la déclaration de revenus équivalait à une demande d’accepter un choix tardif. La Cour fédérale a confirmé le refus du ministre au motif que sa décision était raisonnable, en application de la norme établie dans l’arrêt Vavilov[11].
+[23] En l’espèce, le défendeur s’est appuyé sur l’affaire Banff Caribou Properties Ltd pour démontrer que le ministre avait eu raison de rejeter le formulaire du RPC de M. Haleem. Cependant, peu avant l’audition de l’appel de M. Haleem, la Cour fédérale a rendu une décision dans l’affaire Onex Corporation[12], où elle a pris en considération la décision rendue dans l’affaire Banff Caribou Properties Ltd tout en la distinguant.
+[24] Je m’appuie sur l’arrêt Banff Caribou Properties Ltd dans le seul but de montrer que les décisions relatives à l’acceptation des choix faits tardivement en vertu du paragraphe 220(3.2) de la LIR sont des exemples de décisions discrétionnaires que la Cour fédérale examine en appliquant la norme de la décision raisonnable, établie par la Cour suprême dans l’arrêt Vavilov. Il ne s’agit pas de décisions qui peuvent être jugées bonnes ou mauvaises par notre Cour. À cet égard, je note que la décision Onex Corporation ne faisait pas exception et était assujettie à la norme de la décision raisonnable imposée par Vavilov, et appliquée dans l’affaire Banff Caribou Properties Ltd[13].
+[25] La contestation des décisions discrétionnaires concernant les choix pose un problème de compétence à la Cour. Le rôle de la Cour canadienne de l’impôt est de statuer sur les appels des cotisations fiscales en appliquant la norme de la décision correcte. Dans la récente affaire Dow Chemical, la Cour suprême a appliqué les principes établis dans l’arrêt Vavilov et a déclaré que la Cour ne pouvait pas trancher des questions susceptibles d’être réexaminées selon la norme de la décision raisonnable.
+(d) La Cour ne se prononce pas sur des décisions discrétionnaires, même lorsqu’elles ont une incidence sur l’impôt
+[26] Dans l’affaire Dow Chemical[14], le ministre était habilité, en vertu des dispositions de la LIR relatives au prix de transfert, à procéder à un redressement à la baisse des intérêts dus à Dow Chemical par une société suisse apparentée. Ce redressement aurait diminué les revenus de l’appelante. Le ministre a refusé d’autoriser le redressement et Dow Chemical a fait appel devant la Cour canadienne de l’impôt des cotisations qui ont été émises à la suite de ce refus, au motif que l’inaction du ministre avait eu pour effet de causer une erreur dans la cotisation, question qui pouvait être jugée par la Cour canadienne de l’impôt.
+[27] Dow Chemical a soutenu que la Cour canadienne de l’impôt pouvait réviser la décision du ministre dans le cadre de l’appel d’une cotisation, mais la Cour suprême n’était pas d’accord. Cette dernière a déclaré : « Cette affirmation contredit directement le principe, exprimé clairement [...] d[ans] l’arrêt Vavilov [...][15] ». La Cour suprême a estimé que la compétence de la Cour canadienne de l’impôt se limitait à l’examen de l’exactitude d’une cotisation. Une cotisation fiscale est en somme « une détermination purement non discrétionnaire [...] de l’obligation fiscale d’un contribuable [...] »[16]. En revanche, une décision, comme celle prise par le ministre dans l’affaire Dow Chemical de ne pas appliquer une réduction du prix de transfert, est discrétionnaire. Seule la Cour fédérale a le pouvoir de contrôler la décision du ministre[17].
+[28] La Cour suprême a expliqué que les décisions discrétionnaires en matière fiscale ne concernent pas des cotisations ou des parties d’une cotisation. Les décisions discrétionnaires peuvent être fondées sur une série de facteurs qui ne sont pas strictement énoncés dans la législation fiscale, comme des considérations de politique générale[18]. Ce type de décision n’est pas le même que la décision d’établir une cotisation fiscale, qui, elle, est assujettie à la loi et aux règlements applicables en matière fiscale[19].
+[29] On peut faire valoir que si certaines décisions sont discrétionnaires, les répercussions qu’elles peuvent avoir sur une cotisation devraient être prises en compte lorsque la Cour décide de l’exactitude de la cotisation. Il s’agit là de l’argument principal discuté dans l’affaire Dow Chemical[20]. La Cour suprême n’est pas d’accord et considère que cet argument élargit considérablement la définition du terme « cotisation »[21].
+[30] La Cour suprême s’est penchée, de manière très détaillée, sur les conséquences qui découleraient d’une autorisation donnée à la Cour d’examiner les décisions discrétionnaires rendues par le ministre dans le cadre du contrôle des cotisations fiscales. La Cour suprême a exprimé de nombreuses préoccupations concernant les conflits qui en résulteraient, entre les différentes normes de contrôle s’appliquant aux décisions discrétionnaires et aux normes s’appliquant aux décisions qui ne le sont pas[22], sans compter l’incohérence qui résulterait du fait que les décisions discrétionnaires pourraient faire l’objet d’un appel devant la Cour canadienne de l’impôt plutôt que d’un contrôle judiciaire devant la Cour fédérale du Canada[23].
+[31] L’analyse ci-dessus mène à la conclusion que, la décision du ministre de rejeter le formulaire du RPC de l’appelant étant une décision discrétionnaire, cette décision ne peut être révisée par notre Cour, et ce, même si cette décision est liée à l’obligation de l’appelant de verser des cotisations au RPC.
+[32] Enfin, en considérant une dernière fois la question de savoir si le ministre aurait dû ou non émettre la nouvelle cotisation de 2021, la Cour suprême dans l’affaire Dow Chemical a noté qu’une décision discrétionnaire du ministre n’entraîne pas l’établissement d’une nouvelle cotisation, lorsque cette décision ne donne pas lieu à un ajustement du revenu du contribuable[24]. En l’espèce, la décision de rejeter le formulaire du RPC n’aurait pas dû entraîner l’établissement de la nouvelle cotisation de 2021, car les obligations de M. Haleem en matière de cotisations au RPC n’avaient pas été modifiées par la décision du ministre.
+[33] En résumé :
+La décision du ministre, découlant du pouvoir légal qui lui est conféré en vertu du paragraphe 220(3.2), d’accepter ou non le formulaire du RPC était une décision discrétionnaire;
+La tâche de la Cour est de déterminer l’exactitude de la cotisation; La Cour ne se prononce pas sur les décisions discrétionnaires rendues par le ministre;
+Des cotisations fiscales peuvent être touchées par des décisions discrétionnaires du ministre, mais cela n’ouvre pas la voie à des appels où la Cour pourrait contrôler ces décisions discrétionnaires;
+Les décisions discrétionnaires qui ne donnent pas lieu à un changement des montants établis dans une cotisation ne devraient pas entraîner l’émission d’un avis de nouvelle évaluation.
+[34] L’appel de la cotisation interjeté par l’appelant remet en question la décision discrétionnaire du ministre de rejeter le formulaire du RPC, mais cette décision ne peut pas être jugée par notre Cour.
+(3) Numéro 3 : La décision du ministre de rejeter le choix fait tardivement était-elle correcte?
+[35] Puisque j’ai conclu que cette Cour n’a pas compétence pour traiter la question de savoir si le ministre pouvait ou aurait dû accepter le formulaire du RPC déposé tardivement, je dois refuser d’examiner le bien-fondé de la décision du ministre de rejeter le formulaire du RPC.
+(a) Le problème soulevé dans l’affaire Terminal Norco
+[36] La décision rendue par la Cour fédérale dans l’affaire Banff Caribou Properties Ltd est fortement appuyée sur une décision rendue par la Cour de l’impôt dans l’affaire Terminal Norco, sur la question de savoir si le ministre peut accepter un choix fait tardivement. Après qu’elle ait tranché une question concernant un choix fait tardivement dans l’affaire Terminal Norco[25], le présent refus de la Cour de trancher une question semblable en l’espèce peut être étonnant. Toutefois, la question du choix était un argument subsidiaire dans l’affaire Terminal Norco, et la question de la compétence de la Cour canadienne de l’impôt ne semble pas avoir été soulevée par l’une ou l’autre des parties dans cette affaire[26]. Je ne peux m’appuyer sur l’approche adoptée dans la décision rendue en 2006 dans l’affaire Terminal Norco, considérant la jurisprudence plus récente établie par la Cour suprême dans les affaires Vavilov et Dow Chemical. Celle-ci empêche la Cour de se prononcer sur des décisions discrétionnaires liées à des cotisations fiscales.
+[37] L’appelant a toujours la possibilité de demander à la Cour fédérale un contrôle judiciaire de la décision du ministre de rejeter le formulaire du RPC. Je souligne que les contrôles judiciaires doivent être effectués dans des délais précis et que l’appelant pourrait devoir obtenir l’autorisation de la Cour fédérale de proroger le délai de dépôt, s’il souhaite faire une demande de contrôle judiciaire.
+CONCLUSION
+[38] Par conséquent, l’appel doit être rejeté, sans dépens.
+Les présents motifs de jugement modifiés remplacent les motifs de jugement datés du 8 octobre 2024, afin de corriger les mots soulignés.
+Signé à Toronto (Ontario), ce 24e jour d’octobre 2024.
+« Michael Ezri »
+Le juge Ezri
+RÉFÉRENCE :
+2024 CCI 131
+NO DU DOSSIER DE LA COUR :
+2023-1768(IT)I
+INTITULÉ :
+MISBAHUDDIN HALEEM c.
+SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATES DE L’AUDIENCE ET DE DÉPÔT DES OBSERVATIONS ÉCRITES :
+12 et 15 août 2024
+Observations écrites de l’intimé déposées le 4 septembre 2024; l’appelant n’a pas présenté d’autres observations
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Michael U. Ezri
+DATE DU JUGEMENT :
+8 octobre 2024
+DATE DES MOTIFS DU JUGEMENT MODIFIÉS :
+24 octobre 2024
+COMPARUTIONS :
+Représentante de l’appelant :
+Me Sarah Haleem
+Avocate de l’intimé :
+Me Kerrin Rodrigues
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l’intimé :
+Me Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada
+[1] Le formulaire est prescrit par le Règlement sur le Régime de pensions du Canada, C.R.C., ch. 385.
+[2] L’appelant, dûment représenté par sa fille, m’a rappelé avec tact qu’en tant que contribuable exerçant un travail indépendant, il avait jusqu’au 15 juin 2021 pour s’opposer à la cotisation de 2020, puisqu’il s’agissait de la date la plus tardive entre la date arrivant 90 jours après la date de la cotisation de 2020 et la date arrivant un an après la date d’échéance du 15 juin, cette dernière étant la date limite de l’appelant pour produire sa déclaration de revenus en tant que travailleur autonome. L’Agence de revenus du Canada (l’« ARC ») pouvait proroger ce délai d’un an, c’est-à-dire jusqu’au 15 juin 2022, ce qui fut fait. L’appelant m’a cité l’arrêt Reyes v. The King, 2023 CCI 31 (par. 46), qui va dans le même sens.
+[3] Voir Savics c. La Reine, 2021 CAF 56, par. 45.
+[4] RPC, par. 10(1).
+[5] RPC, al. 14a)(i).
+[6] RPC, al. 13(1)b) et 13(1.1)a).
+[7] Règlement sur le Régime de pensions du Canada, C.R.C., ch. 385, par. 83.2b).
+Canada (Ministre de la Citoyenneté et de l’Immigration) c. Vavilov, 2019 CSC 65 [Vavilov], par. 16, 24 et 25.
+[9] Vavilov, par. 83.
+[10] Banff Caribou Properties Ltd c. Canada (PG) [2023 CF 312] [Banff Caribou Properties Ltd], par. 2 et 4.
+[11] Banff Caribou Properties Ltd, par. 2, 5 et 14.
+[12] Onex Corporation of Canada c. Canada (PG) [Onex Corporation], 2024 CF 1247.
+[13] Onex Corporation, par. 30 à 37.
+[14] Dow Chemical ULC c. Canada, 2024 CSC 23.
+[15] Dow Chemical, par. 8.
+[16] Dow Chemical, par. 43 et 46.
+[17] Dow Chemical, par. 102.
+[18] Dow Chemical, par. 50 et 55.
+[19] Dow Chemical, par. 45 à 46.
+[20] Dow Chemical, par. 37 et 41.
+[21] Dow Chemical, par. 57.
+[22] Dow Chemical, par. 90.
+[23] Dow Chemical, par. 92 et 97.
+[24] Dow Chemical, par. 61.
+[25] Terminal Norco Inc. c. La Reine [Terminal Norco], 2006 CCI 139.
+[26] Terminal Norco, par. 52 à 57.

@@ -1,0 +1,162 @@
+---
+title: "Gervais c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28659/index.do"
+last_modified: "2008-04-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 190"
+citation2: ""
+neutral_citation: "2008 CCI 190"
+decision_date: "2008-04-14"
+language: "fr"
+item_id: "28659"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1137
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:54:09.574000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "77517731a55257bbfcda67939fd7f1688e55f453753dde3c20083263cf6a5bc0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gervais c. La Reine
+
+- Citation: 2008 CCI 190
+- Decision date: 2008-04-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1137, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gervais c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-14
+Référence neutre
+2008 CCI 190
+Numéro de dossier
+2007-3558(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3558(IT)I
+ENTRE :
+DIANE GERVAIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 14 mars 2008, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelante :
+Me Gaston Veilleux
+Avocat de l'intimée :
+Me Alain Gareau
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004 et 2005 est rejeté, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 14e jour d'avril 2008.
+« Paul Bédard »
+Juge Bédard
+Référence : 2008CCI190
+Date : 20080414
+Dossier : 2007-3558(IT)I
+ENTRE :
+DIANE GERVAIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Le ministre du Revenu national (le « ministre ») a, par avis de nouvelle détermination daté du 20 octobre 2006, révisé les prestations fiscales pour enfants de l’appelante et déterminé que celle-ci a reçu des paiements en trop de 2 612,87 $ pour la période de juillet 2004 à juin 2005 de l’année de base 2003, de 4 207,81 $ pour la période de juillet 2005 à juin 2006 de l’année de base 2004 et de 1 023,07 $ pour la période de juillet 2006 à septembre 2006 de l’année de base 2005. Par avis de nouvelle détermination daté du 6 octobre 2006, le ministre a aussi révisé le crédit pour la taxe sur les produits et services de l’appelante et déterminé que celle‑ci a reçu des paiements en trop de 342 $ pour la période de juillet 2004 à avril 2005 de l’année d’imposition 2003, de 347 $ pour la période de juillet 2005 à avril 2006 de l’année d’imposition 2004 et de 1 778 $ pour la période de juillet 2006 à octobre 2006 de l’année d’imposition 2005. Enfin, par avis de nouvelle détermination daté du 27 octobre 2006, le ministre a révisé l’admissibilité de l’appelante à la prestation pour les coûts de l’énergie et déterminé que cette dernière avait reçu un paiement en trop de 250 $ pour l’année de base 2004. L’appelante en appelle, selon la procédure informelle, de ces déterminations.
+[2] Pour établir et maintenir les avis de détermination relativement aux prestations fiscales pour enfants pour les années de base 2003, 2004 et 2005, au crédit de taxe sur les produits et services pour les années d’imposition 2003, 2004 et 2005 et à la prestation pour le coût de l’énergie pour l’année de base 2004, le ministre a tenu pour acquis les mêmes hypothèses, à savoir :
+a) l’appelante est la mère de Maxime Gervais, né le 1er août 1988, et de Pamela Rochefort, née le 28 décembre 1990;
+b) madame Cécile Rochefort est la grand-mère de Maxime et de Pamela;
+c) au cours des périodes en question, Maxime et Pamela résidaient avec madame Cécile Rochefort qui s’occupait principalement des soins et de l’éducation de ces enfants.
+[3] La question en litige consiste essentiellement à déterminer si, au cours des périodes en question, Maxime et Pamela résidaient avec l’appelante et si cette dernière était la personne qui s’occupait principalement des soins et de l’éducation de ces enfants.
+[4] L’appelante, madame Johanne Gervais (la sœur de l’appelante), madame Pierrette Gervais (la mère de l’appelante), et Pamela (la fille de l’appelante), ont témoigné à l’appui de la position de celle-ci. Par ailleurs, madame Cécile Rochefort (la grand-mère de Maxime et Pamela), monsieur Philippe Martin (un voisin de madame Cécile Rochefort), monsieur Richard Marcil (un voisin immédiat de madame Cécile Rochefort) et monsieur Marc Roy (le gendre de madame Cécile Rochefort) ont témoigné à l’appui de la position de l’intimée.
+Le droit
+[5] La définition de « particulier admissible » à l'article 122.6 de la Loi de l'impôt sur le revenu (la « Loi ») était, à l'époque, ainsi rédigée :
+« particulier admissible »
+S'agissant, à un moment donné, du particulier admissible à l'égard d'une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne -- père ou mère de la personne à charge --qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+c) elle réside au Canada ou, si elle est l’époux ou le conjoint de fait visé d'une personne qui est réputée, par le paragraphe 250(1), résider au Canada tout au long de l'année d'imposition qui comprend ce moment, y a résidé au cours d'une année d'imposition antérieure;
+d) elle n'est pas visée aux alinéas 149(1)a) ou b);
+e) elle est, ou son époux ou conjoint de fait visé est, soit citoyen canadien, soit :
+(i) résident permanent au sens du paragraphe 2(1) de la Loi sur l'immigration et la protection des réfugiés,
+(ii) résident temporaire ou titulaire d’un permis de séjour temporaire visés par la Loi sur l’immigration et la protection des réfugiés ayant résidé au Canada durant la période de 18 mois précédant ce moment,
+(iii) personne protégée au titre de la Loi sur l'immigration et la protection des réfugiés.
+(iv) quelqu’un qui fait partie d’une catégorie précisée dans le Règlement sur les catégories d’immigrants précisées pour des motifs d’ordre humanitaire pris en application de la Loi sur l’immigration.
+Pour l'application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l'alinéa f) ne s'applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l'éducation d'une personne.
+[6] Pour l'application des alinéas g) et h) de la définition de « particulier admissible » à l'article 122.6 de la Loi, les articles 6301 et 6302 de la partie LXIII du Règlement de l'impôt sur le revenu (le « Règlement ») prévoient ce qui suit :
+NON-APPLICATION DE LA PRÉSOMPTION
+6301. (1) Pour l'application de l'alinéa g) de la définition de « particulier admissible » à l'article 122.6 de la Loi, la présomption mentionnée à l'alinéa f) de cette définition ne s'applique pas dans les circonstances suivantes :
+a) la mère de la personne à charge admissible déclare par écrit au ministre qu'elle réside avec le père de cette personne et qu'il est celui qui assume principalement la responsabilité pour le soin et l'éducation de chacune des personnes à charge admissibles avec lesquelles les deux résident;
+b) la mère est une personne à charge admissible d'un particulier admissible et chacun d'eux présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l'égard de la même personne à charge admissible;
+c) la personne à charge admissible a plus d'une mère avec qui elle réside et chacune des mères présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l'égard de la personne à charge admissible;
+d) plus d'une personne présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l'égard de la même personne à charge admissible qui réside avec chacune d'elles à des endroits différents.
+(2) Il demeure entendu qu'est assimilée à la personne qui présente un avis visé aux alinéas (1)b), c) ou d) la personne qui, en vertu du paragraphe 122.62(3) de la Loi, est soustraite à l'obligation de présenter un tel avis.
+CRITÈRES
+6302. Pour l'application de l'alinéa h) de la définition de « particulier admissible » à l'article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l'éducation d'une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d'un milieu sécuritaire là où elle réside;
+c) l'obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l'organisation pour elle d'activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu'elle est malade ou a besoin de l'assistance d'une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d'être présent auprès d'elle et de la guider;
+h) l'existence d'une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[7] Ce qui nous intéresse ici est ce qui a trait à la condition énoncée au paragraphe a) de la définition de « particulier admissible », c’est‑à‑dire que la personne à charge doit résider avec ce dernier et à la condition énoncée au paragraphe b) de la définition de « particulier admissible », c’est‑à‑dire que le parent de la personne à charge admissible doit être celui qui assume principalement la responsabilité pour les soins et l’éducation de cette dernière tout en tenant compte des critères établis à l’article 6302 du Règlement.
+Analyse et conclusion
+[8] L’alinéa a) de la définition du terme « particulier admissible » à l’article 122.6 de la Loi exige que le « particulier admissible » réside avec la personne à charge. Le critère de la résidence est donc un élément essentiel à l’obtention du crédit. L’expression « résider avec » telle qu’utilisée dans la définition du terme « particulier admissible » à l’article 122.6 de la Loi, signifie, à mon avis, « vivre dans la même maison » de manière habituelle. La première question à laquelle je devrai donc répondre est la suivante : est‑ce que l’appelante vivait dans la même maison avec Pamela et Maxime, et ce, de manière habituelle? Je souligne que l’appelante devait me démontrer, selon la prépondérance des probabilités, qu’il en était ainsi pendant les périodes en question. La preuve de l’appelante à cet égard reposait sur son témoignage qui fut appuyé par le témoignage de sa mère, de sa sœur et de sa fille Pamela. Il convient aussi de souligner que le témoignage de l’appelante fut aussi appuyé par une preuve documentaire (pièce A-1) tendant à démontrer que la correspondance touchant Pamela et Maxime était acheminée à l’adresse résidentielle de l’appelante. Le témoignage de l’appelante et des personnes qui ont témoigné à l’appui de la position de cette dernière pourrait se résumer ainsi : pendant les périodes en question, Pamela et Maxime vivaient de manière habituelle avec l’appelante, et ce, à l’appartement de cette dernière. Pamela et Maxime allaient souvent vivre avec leur grand-mère pendant les périodes en question mais pas de manière habituelle. Cette preuve soumise par l’appelante fut contredite par les témoignages de madame Cécile Rochefort (la grand-mère de Pamela et Maxime), de monsieur Philippe Martin (un voisin de madame Rochefort), de monsieur Richard Marcil (un voisin immédiat de madame Rochefort) et de monsieur Marc Roy (le gendre de madame Rochefort qui était aussi un voisin immédiat de cette dernière), témoignages qui étaient essentiellement à l’effet que Pamela et Maxime vivaient de manière habituelle, pendant les périodes en question, avec leur grand-mère, madame Rochefort, et ce, à la résidence de cette dernière pendant l’année scolaire et à la maison mobile de cette dernière (située dans un camping) pendant la saison estivale.
+[9] L’appelante, sur qui reposait le fardeau de la preuve, ne m’a pas convaincu qu’elle avait vécu de manière habituelle dans son appartement avec ses enfants, Pamela et Maxime, pendant les périodes en question. Dans la présente affaire, je devais choisir entre deux versions contradictoires des faits. J’ai retenu la version des faits donnée par madame Cécile Rochefort plutôt que celle donnée par l’appelante essentiellement parce que les seuls témoins indépendants qui ont témoigné dans la présente affaire, témoins qui m’ont paru fort crédibles par ailleurs, ont appuyé la version des faits donnée par madame Cécile Rochefort et en quelque sorte contredit la version des faits donnée par l’appelante. Compte tenu de ma conclusion à l’égard de l’alinéa a) de la définition du terme « particulier admissible » à l’article 122.6 de la Loi, je ne vois pas l’utilité en l’espèce de tirer une conclusion à l’égard de la condition énoncée à l’alinéa b) de la même définition du même article de Loi.
+[10] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 14e jour d'avril 2008.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2008CCI190
+Nº DU DOSSIER DE LA COUR : 2007-3558(IT)I
+INTITULÉ DE LA CAUSE : DIANE GERVAIS ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 14 mars 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 14 avril 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Gaston Veilleux
+Avocat de l'intimée :
+Me Alain Gareau
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Gaston Veilleux
+Cabinet : Ste-Martine, Québec
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

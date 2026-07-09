@@ -1,0 +1,147 @@
+Title: Power c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30767/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-113-30767-power-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-04-05
+
+# Power c. La Reine
+
+- Citation: 2012 CCI 113
+- Decision date: 2012-04-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7535, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Power c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-04-05
+Référence neutre
+2012 CCI 113
+Numéro de dossier
+2011-3204(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3204(IT)I
+ENTRE :
+JOHN R. POWER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 6 mars 2012, à Ottawa, Canada.
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Natasha Wallace
+____________________________________________________________________
+JUGEMENT
+L’appel de l’appelant est accueilli sans dépens en ce qui concerne le montant versé au Dr Smith et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant a le droit d’inclure le montant de 84 $ qu’il a versé au Dr Smith dans le calcul du montant de ses frais médicaux aux fins du crédit d’impôt y afférent.
+Signé à Ottawa, Canada, ce 5e jour d’avril 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 28e jour de mai 2012.
+Marie-Christine Gervais
+Référence : 2012CCI113
+Date : 20120405
+Dossier : 2011-3204(IT)I
+ENTRE :
+JOHN R. POWER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] La question qui se pose dans le présent appel[1] est de savoir si l’appelant a le droit d’inclure, dans sa demande de crédit d’impôt pour frais médicaux, les montants qui ont été versés à une personne, qui n’est pas un médecin autorisé, pour des traitements d’acupuncture que son épouse et lui ont subis.
+[2] En 2009, les paiements suivants ont été effectués pour les traitements d’acupuncture de l’appelant et de son épouse :
+Services d’acupuncture rendus par :
+Montant
+Ermin Zhu T.C.M.D. Dr. Ac.
+1 860 $
+E. J. Smith, médecin, CAFCI
+84 $
+[3] Au cours de l’audience, l’avocate de l’intimée a reconnu que le montant versé au Dr Smith pouvait être inclus lorsqu’il s’agissait de déterminer le montant du crédit d’impôt pour frais médicaux de l’appelant. Par conséquent, le seul montant en litige est celui qui a été versé pour les services d’acupuncture rendus par Ermin Zhu.
+[4] L’alinéa 118.2(2)a) et le paragraphe 118.4(2) (en partie) de la Loi de l’impôt sur le revenu prévoient ce qui suit :
+(2) Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+a) à un médecin, à un dentiste, à une infirmière ou un infirmier, à un hôpital public ou à un hôpital privé agréé, pour les services médicaux ou dentaires fournis au particulier, à son époux ou conjoint de fait ou à une personne à la charge du particulier (au sens du paragraphe 188(6)) au cours de l’année d’imposition où les frais ont été engagés;
+[…]
+(2) Tout audiologiste, dentiste, ergothérapeute, infirmier, infirmière, médecin, médecin en titre, optométriste, orthophoniste, pharmacien, physiothérapeute ou psychologue visé aux articles 63, 64, 118.2, 118.3 et 118.6 doit être autorisé à exercer sa profession :
+a) par la législation applicable là où il rend ses services, s’il est question de services;
+[…]
+[5] Il s’agit ici de savoir si, en 2009, Ermin Zhu était autorisé à fournir des services d’acupuncture en Ontario. Dans l’arrêt La Reine c. Couture, 2008 CAF 412, le juge Ryer a dit ce qui suit au nom de la Cour d’appel fédérale :
+[12] Avec égards, je ne suis pas d’accord avec la proposition selon laquelle les mots « autorisé à exercer » au paragraphe 118.4(2) sont synonymes de « permis d’exercer » ou « non interdit d’exercer ». Je suis d’avis que les définitions que les dictionnaires donnent du mot « autoriser », et qui sont contenues aux paragraphes 20 et 21 du mémoire de l’intimée, correspondent à son sens ordinaire en l’espèce. Voici comment le The Shorter Oxford English Dictionary, 3d ed, définit le mot « autoriser » :
+[traduction]
+1. Établir ou reconnaître comme faisant autorité;
+2. Rendre juridiquement opérante;
+3. Accorder une autorisation formelle; sanctionner.
+Le Black's Law Dictionary, 7th ed. définit le mot « autoriser » de la façon suivante :
+[traduction]
+1. Conférer un pouvoir légal; habiliter;
+2. Approuver formellement; sanctionner.
+[13] D’après chacune de ces définitions, « autoriser » peut signifier [traduction] « accorder une autorisation formelle » ou [traduction] « approuver formellement ». Je suis d’avis que ces sens s’appliquent en ce qui concerne l’interprétation à donner aux mots « autorisé à exercer » au paragraphe 118.4(2). Il faut donc démontrer que l’acupuncture revêt un certain caractère formel ou bénéficie d’une reconnaissance officielle à titre de discipline accréditée sous le régime des lois de l’Ontario.
+[14] Le juge de la Cour de l’impôt a conclu que l’abrogation des dispositions interdisant l’exercice de l’acupuncture par l’article 8 du Controlled Acts Regulations signifie qu’en Ontario, l’exercice de l’acupuncture bénéficie d’un degré d’autorisation suffisant. Je suis d’avis que cette conclusion est injustifiée compte tenu du sens ordinaire du mot « autoriser » précédemment adopté pour l’interprétation du paragraphe 118.4(2). Le simple fait de ne plus interdire une action ne mène pas à la conclusion que cette action a été formellement approuvée.
+[15] La Couronne soutient qu’une approbation législative particulière et que la réglementation d’un domaine particulier d’une pratique ou d’une profession, en l’occurrence l’acupuncture, sont requis pour démontrer que cette pratique est autorisée par la législation applicable. À l’appui de cet argument, la Couronne cite un passage de la décision Noddin, où le juge Bowie déclare au paragraphe 8 :
+À coup sûr, l’objectif politique veut que le crédit soit accordé uniquement s’il existe une garantie de compétence légiférée en ce qui concerne la personne qui fournit le service.
+[16] Je suis d’avis que le degré d’autorisation législative invoqué par la Couronne serait clairement suffisant pour démontrer l’autorisation législative requise. Cependant, je n’écarterais pas la possibilité qu’un degré différent puisse être suffisant dans d’autres circonstances. En l’espèce, la seule mention de l’acupuncture dans les textes de loi se trouve dans le Controlled Acts Regulations où il est précisé qu’il s’agit d’un exercice qui n’est plus interdit. Comme je l’ai dit précédemment, je suis d’avis que cette seule mention dans un texte de loi ne suffit pas pour établir que la pratique de l’acupuncture a été formellement approuvée par la législation applicable en Ontario en 2003 et en 2004.
+[6] L’affaire Couture portait sur les années d’imposition 2003 et 2004. Or, en 2006, la législature de l’Ontario a édicté la Loi sur les praticiens en médecine traditionnelle chinoise, dont l’article 4 prévoit ce qui suit :
+Actes autorisés
+4. Dans l’exercice de la médecine traditionnelle chinoise, un membre est autorisé, sous réserve des conditions et des restrictions dont est assorti son certificat d’inscription, à faire ce qui suit :
+1. Pratiquer des interventions sur le tissu situé sous le derme et sous la surface des muqueuses aux fins de l’exercice de l’acupuncture.
+2. Communiquer les diagnostics en médecine traditionnelle chinoise, obtenus au moyen de techniques propres à ce type de médecine, qui attribuent les symptômes que présentent des personnes à un trouble systémique de l’organisme.
+[7] L’article 19 de cette loi prévoit la révocation du paragraphe 8(1) du Controlled Acts Regulations (soit la disposition qui exempte l’acupuncture de l’application du paragraphe 27(1) de la Loi de 1991 sur les professions de la santé réglementées).
+[8] Toutefois, l’article 20 de la Loi sur les praticiens en médecine traditionnelle chinoise prévoit ce qui suit :
+Entrée en vigueur
+20(1) Sous réserve du paragraphe (2), la présente loi entre en vigueur le jour où elle reçoit la sanction royale.
+Idem
+(2) Les articles 3 à 12, 14, 18 et 19 entrent en vigueur le jour que le lieutenant-gouverneur fixe par proclamation.
+[9] En 2009, aucune des dispositions mentionnées au paragraphe 20(2) de la Loi sur les praticiens en médecine traditionnelle chinoise n’avait été proclamée, et ces dispositions n’avaient pas encore été proclamées lors de l’audition du présent appel.
+[10] Dans l’arrêt Schneider c. British Columbia, [1982] 2 R.C.S. 112, la Cour suprême du Canada a dit ce qui suit :
+L’appelante invoque dans une large mesure la Partie II de la Loi sur les stupéfiants pour soutenir ce moyen. Le juge McFarlane, en appel, et le juge en chef McEachern, en première instance, ont refusé de tenir compte des dispositions de cette partie pour le motif qu’elle n’a pas encore été mise en vigueur et qu’elle est sans effet juridique. Cette décision est compatible avec l’arrêt de cette Cour, Canadian Indemnity Company c. Procureur général de la Colombie‑Britannique, [1977] 2 R.C.S. 504. Dans cet arrêt, le juge Martland qui s’exprime au nom de la Cour, affirme, aux pp. 512 et 513, au sujet de certains articles de l’Automobile Insurance Act de la Colombie‑Britannique : « Aucune de ces dispositions n’a été proclamée depuis la mise en vigueur de cette Loi, le 18 avril 1973, et, en conséquence, elles n’ont jamais eu un quelconque effet juridique. Dans ces circonstances, je ne crois pas nécessaire de déterminer l’étendue de leur application en cas de proclamation… »
+[11] Étant donné que les dispositions de la Loi sur les praticiens en médecine traditionnelle chinoise qui autoriseraient une personne à pratiquer l’acupuncture n’avaient toujours pas été proclamées en 2009, ces dispositions n’avaient aucun effet juridique en 2009. Les dispositions législatives applicables à la pratique de l’acupuncture en Ontario, en 2009, étaient les mêmes que celles qui s’appliquaient à la pratique de l’acupuncture en 2003 et en 2004. Or, au cours de chacune de ces années, une personne pouvait pratiquer l’acupuncture parce qu’il n’était pas interdit de le faire. L’article 8 du Controlled Acts Regulations exempte l’acupuncture (ainsi que le perçage d’oreille ou le perçage corporel afin d’y mettre un bijou, l’électrolyse et le tatouage à des fins cosmétiques) de l’application du paragraphe 27(1) de la Loi de 1991 sur les professions de la santé réglementées, qui aurait autrement prohibé l’exécution de ces actes, sauf par une personne qui est un membre autorisé par une loi sur les professions de la santé à accomplir ces actes ou par une personne à qui l’exécution de ces actes a été déléguée par un membre autorisé.
+[12] Rien n’indique qu’en 2009, Ermin Zhu ait été autorisé par une loi sur les professions de la santé à pratiquer l’acupuncture ou que cette tâche lui avait été déléguée par une personne ainsi autorisée. Ermin Zhu pouvait pratiquer l’acupuncture parce qu’il ne lui été pas interdit de le faire. Étant donné que les dispositions de la Loi sur les praticiens en médecine traditionnelle chinoise qui autoriseraient expressément une personne à pratiquer l’acupuncture n’étaient pas proclamées, ces dispositions n’avaient aucun effet juridique et, en 2009, il n’existait toujours pas d’autorisation formelle permettant à une personne de pratiquer l’acupuncture. Par conséquent, Ermin Zhu n’était pas autorisé à administrer des traitements d’acupuncture en 2009.
+[13] L’appelant a fortement mis l’accent sur une autre décision rendue par un juge de la présente cour dans l’affaire Murphy c. La Reine, 2010 CCI 434. Dans cette décision, il a été conclu que l’adoption de la Loi sur les praticiens en médecine traditionnelle chinoise était suffisante pour qu’il soit possible de conclure que la personne était autorisée à administrer des traitements d’acupuncture. Toutefois, je ne puis souscrire à cette décision. Tant que les dispositions de la Loi sur les praticiens en médecine traditionnelle chinoise se rapportant aux personnes qui sont autorisées à pratiquer l’acupuncture ne seront pas proclamées, il n’existe aucune autorisation formelle permettant à une personne particulière de pratiquer l’acupuncture et n’importe qui peut pratiquer l’acupuncture. Ermin Zhu pouvait pratiquer l’acupuncture en 2009 pour la même raison qu’une personne pouvait le faire en 2003 et en 2004, à savoir parce que la pratique de l’acupuncture n’était pas prohibée. Comment une personne peut‑elle être autorisée à pratiquer l’acupuncture si n’importe qui peut le faire?
+[14] Par conséquent, les frais qui ont été engagés à l’égard des services d’acupuncture fournis par Ermin Zhu ne sont pas inclus dans les frais médicaux qui peuvent donner droit à un crédit d’impôt en vertu de la Loi.
+[15] Par conséquent, l’appel de l’appelant est accueilli, sans qu’aucuns dépens soient adjugés, en ce qui concerne le montant versé au docteur Smith et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant a le droit d’inclure le montant de 84 $ qu’il a versé au Dr Smith dans le calcul du montant de ses frais médicaux aux fins du crédit d’impôt y afférent.
+Signé à Ottawa, Canada, ce 5e jour d’avril 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 28e jour de mai 2012.
+Marie-Christine Gervais
+RÉFÉRENCE : 2012CCI113
+No DU DOSSIER DE LA COUR : 2011-3204(IT)I
+INTITULÉ : JOHN R. POWER
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa, Canada
+DATE DE L’AUDIENCE : Le 6 mars 2012
+MOTIFS DU JUGEMENT : L’honorable juge W. Webb
+DATE DU JUGEMENT : Le 5 avril 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Natasha Wallace
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Dans son avis d’appel, l’appelant a également déclaré qu’il interjetait appel du rejet de la demande qu’il avait présentée pour des médicaments homéopathiques. Au début de l’audience, l’appelant a mentionné qu’il ne poursuivait plus sa demande à l’égard des montants dépensés pour des médicaments homéopathiques.

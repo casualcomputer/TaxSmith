@@ -1,0 +1,154 @@
+Title: Loureiro c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521318/index.do
+Corpus path: corpus/cases/tcc/2024/2024-cci-113-521318-loureiro-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2024-08-28
+
+# Loureiro c. Le Roi
+
+- Citation: 2024 CCI 113
+- Decision date: 2024-08-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5727, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Loureiro c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-08-28
+Référence neutre
+2024 CCI 113
+Numéro de dossier
+2024-310(GST)I
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2024-310(TPS)I
+ENTRE :
+DANIEL LOUREIRO,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 20 août 2024, à Toronto (Ontario).
+Devant : l’honorable juge David E. Spiro
+Comparutions :
+Avocat de l’appelant :
+Me Jeff Kirshen
+Avocate de l’intimé :
+Me Mira Amin
+JUGEMENT
+L’appel interjeté à l’encontre d’une cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise, dont l’avis est daté du 9 août 2022, refusant la demande de remboursement de la taxe sur les produits et services/taxe de vente harmonisée (TPS/TVH) pour habitations neuves de l’appelant, est rejeté, sans dépens.
+Signé à Toronto (Ontario), ce 28e jour d’août 2024.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 14e jour de mars 2025.
+Manon Duchesne
+Référence : 2024 CCI 113
+Date : 20 240 828
+Dossier : 2024-310(TPS)I
+ENTRE :
+DANIEL LOUREIRO,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Spiro
+[1] L’appelant interjette appel d’une cotisation établie par le ministre du Revenu national (le « ministre ») lui refusant un remboursement de la TPS/TVH pour habitations neuves pour lequel il avait fait une demande en vertu de la partie IX de la Loi sur la taxe d’accise (« LTA »). Le montant de l’ajustement du rabais en question est de 27 258,15 $.
+[2] L’appelant était le seul témoin au procès. La chronologie suivante ressort de son témoignage :
+Le 8 février 2016 Joe Loureiro, le père de l’appelant, conclut un contrat de vente pour un condominium devant être construit au 278, promenade Buchanan, unité 505E, Markham (Ontario) (le « condominium de Markham »)[1]. La date d’occupation initialement prévue est fixée au 31 août 2018. La date d’occupation prévue la plus récente est fixée au 30 novembre 2021[2]. Le père de l’appelant dit à celui-ci qu’il détient le condominium de Markham en fiducie pour lui. Le prix d’achat est de 360 990 $.
+Le 17 juin 2017 L’appelant et Ruth Alexandra Daugherty Granados (« Ruth ») sont fiancés.
+[Aucune preuve de date.] L’appelant est informé que la date d’occupation prévue pour le condominium de Markham a été reportée.
+Le 23 août 2019 L’appelant et Ruth sont mariés. L’Appelant et Ruth emménagent chez la mère de Ruth.
+Le 15 octobre 2019 L’appelant est informé que la date d’occupation prévue pour le condominium de Markham a été reportée au 29 juin 2020[3].
+Le 26 octobre 2019 L’appelant et Ruth concluent un contrat de vente pour une maison en rangée devant être construite sur Lageer Drive, à Stouffville, en Ontario (la « maison en rangée de Stouffville »). La date de clôture initialement prévue est fixée au 9 décembre 2020. La date de clôture prévue la plus récente est fixée au 8 avril 2022. Le prix d’achat est de 644 990 $[4].
+Le 19 novembre 2019 L’appelant et Ruth exécutent une modification au contrat de vente du condominium de Markham[5]. En vertu de la modification, les deux apparaissent sur le titre pour la première fois[6].
+Le 29 juin 2020 Le condominium de Markham est prêt pour l’occupation. L’appelant et Ruth déménagent de la maison de la mère de Ruth pour emménager dans le condominium de Markham.
+Le 15 octobre 2020 L’achat du condominium de Markham se conclut[7].
+Le 3 décembre 2020 L’appelant demande le remboursement de la TPS/TVH pour habitations neuves pour le condominium de Markham[8]. C’est le remboursement en litige dans le présent appel.
+Le 13 décembre 2020 L’appelant et Ruth inscrivent le condominium de Markham au prix de 499 000 $[9].
+Le 14 décembre 2020 L’appelant et Ruth vendent le condominium de Markham pour 565 000 $[10].
+Le 30 janvier 2021 L’appelant et Ruth déménagent du condominium de Markham chez la mère de Ruth.
+Le 1er février 2021 La vente du condominium de Markham est conclue.
+Le 4 février 2021 L’achat de la maison en rangée de Stouffville est conclu. L’appelant et Ruth déménagent de la maison de la mère de Ruth pour s’installer dans la maison en rangée de Stouffville où ils résident actuellement.
+Le 9 avril 2021 Ruth demande le remboursement de la TPS/TVH pour habitations neuves pour la maison en rangée de Stouffville[11]. Ce rabais n’est pas en litige dans le présent appel.
+[3] L’un des critères pour le remboursement de la TPS/HST pour habitations neuves est énoncé à l’alinéa 254(2)b) de la LTA. C’est la seule disposition en litige dans le présent appel.
+[4] L’alinéa 254(2)b) de la LTA stipule :
+au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui-ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche;
+[5] Pour que l’appelant puisse réussir dans cet appel, cette disposition exige que l’appelant et Ruth, lorsqu’ils ont assumé la responsabilité aux termes du contrat de vente pour le condominium de Markham le 19 novembre 2019, l’aient acquis « pour qu’il lui serve de lieu de résidence habituelle » pour eux deux[12]. La position de l’appelant[13]. Lors de l’évaluation de la position de l’appelant dans son contexte, il est important d’examiner ce qui s’est passé environ 24 jours plus tôt, le 26 octobre 2019.
+[6] Le 26 octobre 2019, l’appelant et Ruth ont choisi d’assumer la responsabilité aux termes du contrat de vente pour la maison en rangée de Stouffville. En tenant compte de ce fait, à partir du 26 octobre 2019, l’appelant et Ruth ne considéraient plus le condominium de Markham comme leur future maison. Avec une seule chambre et un bureau, ils estimaient que le condominium de Markham aurait été trop petit pour la famille en croissance qu’ils espéraient élever[14].
+[7] Les faits mènent inéluctablement à la conclusion que la maison en rangée de Stouffville a remplacé le condominium de Markham comme lieu de résidence habituelle prévu de l’appelant et de Ruth à partir du 26 octobre 2019.
+[8] Je conclus qu’à la date à laquelle l’appelant et Ruth ont assumé la responsabilité aux termes du contrat de vente de la maison en rangée de Stouffville – le 26 octobre 2019 – ils l’ont acquise « pour qu’[elle] lui serve de lieu de résidence habituelle » pour eux deux.
+[9] L’avocat de l’appelant a soutenu que lorsque l’appelant et Ruth ont assumé la responsabilité aux termes du contrat de vente pour le condominium de Markham 24 jours plus tard, le 19 novembre 2019, ils l’ont fait « pour qu’il lui serve de lieu de résidence habituelle » pour eux deux. Je ne suis pas d’accord.
+[10] Le législateur a choisi d’utiliser l’expression « le lieu de résidence habituelle ». Si nous prenons le mot « le » au sérieux, cela signifie qu’un seul lieu de résidence à la fois peut être considéré comme le « lieu de résidence habituelle » d’une personne.
+[11] Au moment où l’appelant et Ruth sont apparus sur le titre du condominium de Markham le 19 novembre 2019, chacun d’eux avait formé l’intention que le condominium de Markham serait utilisé comme lieu de résidence temporaire jusqu’à ce que la maison en rangée de Stouffville soit prête[15]. Comme l’a observé mon collègue, le juge Smith, dans Kniazev c. La Reine, 2019 CCI 58 :
+[8] L’emploi du terme « habituelle » par le législateur donne également à entendre que l’acheteur doit avoir l’intention arrêtée de centrer ses affaires personnelles et familiales sur ce bien ou de les articuler autour de ce dernier. Le remboursement n’est pas à l’égard d’une résidence secondaire ou d’un « pied-à-terre ». Un particulier peut être propriétaire de plusieurs résidences, mais ne doit normalement avoir qu’un « lieu de résidence habituelle ».
+[12] L’avocat de l’appelant a également avancé un argument de frustration en faisant valoir que l’appelant et Ruth étaient frustrés par plusieurs reports de la date d’occupation prévue du condominium de Markham. Cependant, dans ce contexte, la frustration signifie quelque chose de tout à fait différent – un événement ultérieur échappant au contrôle de l’appelant et de Ruth qui a empêché le déménagement anticipé dans leur lieu de résidence habituelle prévu. Ici, rien n’empêchait l’appelant et Ruth de déménager dans le condominium de Markham. Le seul motif pour lequel le condominium de Markham n’était pas destiné à être leur lieu de résidence habituelle est qu’ils avaient choisi d’acheter leur lieu de résidence habituelle – la maison en rangée de Stouffville – quelque 24 jours plus tôt.
+[13] Pour tous ces motifs, je conclus que l’appelante n’a pas droit au remboursement de la TPS pour habitations neuves en vertu de la partie IX de la LTA à l’égard du condominium de Markham[16].
+[14] L’appel de l’appelant est rejeté sans dépens.
+Signé à Toronto (Ontario), ce 28e jour d’août 2024.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 14e jour de mars 2025.
+Manon Duchesne
+RÉFÉRENCE :
+2024 CCI 113
+NO DU DOSSIER DE LA COUR :
+2024-310(GST)I
+INTITULÉ :
+Daniel Loureiro c. Sa Majesté le Roi
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 20 août 2024
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Spiro
+DATE DU JUGEMENT :
+Le 28 août 2024
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Jeff Kirshen
+Avocate de l’intimé :
+Me Mira Amin
+AVOCATS INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Jeff Kirshen
+Cabinet :
+SpenceDrake Droit fiscal
+Toronto (Ontario)
+Pour l’intimé :
+Me Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada
+[1] Pièce A-1.
+[2] Pièce A-2.
+[3] Pièce R-1, page 193.
+[4] Dans le contrat de vente de la maison en rangée de Stouffville, l’appelant et Ruth ont déclaré au constructeur qu’ils l’acquéraient pour [traduction] « qu’elle lui serve de lieu de résidence habituelle au sens de la Loi sur la taxe d’accise […] » Pièce R-2 à la page 131.
+[5] Pièce A-4.
+[6] Il n’y avait aucune preuve expliquant pourquoi l’appelant et Ruth sont apparus pour la première fois sur le titre du condominium de Markham le 19 novembre 2019. Il y a eu un désaccord lors de l’audience sur le fait que l’appelant et Ruth ont remplacé le père de l’appelant sur le titre ou s’il est resté sur le titre. Parce que les acheteurs du condominium de Markham à la date de clôture du 15 octobre 2020 étaient l’appelant et Ruth (pièce A-6), il est plus probable que l’appelant ait cessé d’être inscrit au titre de propriété à compter du 19 novembre 2019. En effet, le ministre a supposé que la modification du 19 novembre 2019 avait pour effet de [traduction] « changer » l’acheteur du condominium de Markham du père de l’appelant à l’appelant et à Ruth (paragraphe 15d) de la réponse). Quoi qu’il en soit, l’appelant et Ruth sont apparus pour la première fois sur le titre du condominium de Markham 24 jours après avoir assumé la responsabilité aux termes du contrat de vente pour leur maison en rangée de Stouffville.
+[7] Pièce A-6.
+[8] Pièce R-3. Dans sa demande, l’appelant a déclaré qu’il et Ruth avaient acheté le condominium de Markham pour qu’il lui serve de lieu de résidence habituelle (pièce R-5). En tenant compte des faits, cette représentation était incorrecte.
+[9] Pièce R-4.
+[10] Pièce R-4.
+[11] Pièce R-5.
+[12] Il n’y avait pas de litige lors du procès selon lequel la date à laquelle l’appelant et Ruth ont assumé la responsabilité aux termes du contrat de vente pour le condominium de Markham était la date de la modification (19 novembre 2019) plutôt que la date à laquelle le père de l’appelant a assumé la responsabilité aux termes du contrat de vente (8 février 2016). Dans son avis d’appel, l’appelant a soutenu qu’il est devenu responsable aux termes du contrat de vente pour le condominium de Markham le 8 février 2016. Il a sagement abandonné cette position au début du procès.
+[13] Par exemple, voir le paragraphe 6 de l’avis d’appel où l’appelant déclare en ce qui concerne le condominium de Markham :
+[Traduction]
+Dès l’achat, j’ai toujours eu l’intention d’occuper la Propriété comme ma résidence habituelle.
+[14]Voir le paragraphe 33 de l’avis d’appel en ce qui concerne le condominium de Markham :
+[Traduction]
+Nous savions que la propriété, qui était un condominium d’une chambre, ne serait pas assez grande, car nous avions commencé à souhaiter un enfant, et il n’y aurait tout simplement pas assez d’espace.
+[15] Mis à part l’argumentaire sur le « lieu de résidence habituelle » que l’on trouve à la fin de ce passage, l’appelant l’a admis dans une lettre qu’il a adressée à un agent de l’Agence du revenu du Canada le 12 juillet 2022 (pièce R-2 à la page 20) :
+[Traduction]
+Après de nombreux retards de construction, ma femme et moi avons réalisé que nous dépassions rapidement notre futur espace [au condominium de Markham]. Nous avons ensuite acheté une propriété plus grande qui répondrait aux besoins de notre famille à Stouffville [la maison en rangée de Stouffville]; avec la date de clôture de février 2021. Pendant que nous attendions cette nouvelle propriété à Stouffville, nous avons emménagé dans [le condominium de Markham] pendant 7 mois en tant que résidence habituelle pour moi et ma femme.
+[16] Une demande de remboursement de la TPS/TVH pour habitations neuves a également été déposée pour la maison en rangée de Stouffville. Dans celui-ci, Ruth a déclaré qu’elle et l’appelant l’ont acheté pour l’utiliser comme lieu de résidence habituelle (pièce R-5). À la lumière des faits, cette représentation était correcte.

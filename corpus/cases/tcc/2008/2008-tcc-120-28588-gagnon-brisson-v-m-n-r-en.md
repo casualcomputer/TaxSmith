@@ -1,0 +1,340 @@
+---
+title: "Gagnon & Brisson v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28588/index.do"
+last_modified: "2008-03-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 120"
+citation2: ""
+neutral_citation: "2008 TCC 120"
+decision_date: "2008-03-07"
+language: "en"
+item_id: "28588"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1055
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:27:39.281000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "493670a89ead0dc0730776d8d86fb5618290b3f183be88a61d5980135710ccb1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gagnon & Brisson v. M.N.R.
+
+- Citation: 2008 TCC 120
+- Decision date: 2008-03-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1055, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gagnon & Brisson v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-03-07
+Neutral citation
+2008 TCC 120
+File numbers
+2007-2416(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-2416(EI)
+BETWEEN:
+CLAUDETTE GAGNON,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+_______________________________________________________________
+Appeal heard on common evidence with the appeal of Rodrigue Brisson (2007‑2879(EI)) on February 15, 2008, at Chicoutimi, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Christina Ham
+_______________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed, and the decision made by the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of March 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 21st day of April 2008.
+Brian McCordick, Translator
+Docket: 2007‑2879(EI)
+BETWEEN:
+RODRIGUE BRISSON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+_______________________________________________________________
+Appeal heard on common evidence with the appeal of Claudette Gagnon
+(2007-2416(EI)) on February 15, 2008, at Chicoutimi, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+_______________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed, and the decision made by the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of March 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 21st day of April 2008.
+Brian McCordick, Translator
+Citation: 2008TCC120
+Date: 20080307
+Dockets: 2007-2416(EI)
+2007-2879(EI)
+BETWEEN:
+CLAUDETTE GAGNON,
+RODRIGUE BRISSON,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] The two Appellants in these appeals worked for Karine Brisson, who operated a restaurant under the business name Rétro Dog II.
+[2] In both matters, the Respondent determined that the Appellants' employment was excluded from insurable employment under subsection 5(2) of the Employment Insurance Act because the parties were not dealing with each other at arm's length.
+[3] Since the facts related to the appeals were essentially the same, the parties agreed to proceed on common evidence.
+[4] The periods in issue in the matter of Claudette Gagnon, 2007-2416(EI), are from April 25 to October 15, 2005, and from April 28 to September 22, 2006. In the matter of Rodrigue Brisson, 2007-2879(EI), the periods in issue are from May 2 to October 15, 2005, and from April 18 to October 14, 2006.
+[5] In the matter of Claudette Gagnon, 2007-2416(EI), the Respondent relied on the following assumptions of fact to make his decision:
+[TRANSLATION]
+5. ...
+(a) The Payor operated a restaurant under the business name Rétro Dog II. (admitted)
+(b) The Payor was the sole proprietor of the restaurant. (admitted)
+(c) The Appellant Claudette Gagnon ("Ms. Gagnon") is the Payor's mother. (admitted)
+(d) Ms. Gagnon was related to a person who controlled the Payor's business. (admitted)
+6. ...
+(a) The Payor is the sole proprietor of the Rétro Dog II restaurant, which she registered on July 7, 1994. (admitted)
+(b) Prior to 1994, the restaurant was operated by the Payor's father Rodrigue Brisson and by relatives of his. (admitted)
+(c) There was a fire at the restaurant in 1993 and, on June 30 of that year, the Payor purchased the land from the former owners (shareholders) for $4,995, with the former owners' consent to rebuild the restaurant. (admitted)
+(d) The former shareholders used the insurance money ($70,000-$80,000) to rebuild, and the Payor had to borrow approximately $35,000 to acquire the restaurant. (admitted)
+(e) Prior to May 2005, Rodrigue Brisson operated a catering service through 9022‑4627 Québec Inc., carrying on business as Les Cuisines Bri-Ga. (admitted)
+(f) The assets that belonged to 9022-4627 Québec Inc. were a parcel of land, a building, equipment and inventory that the Payor acquired on May 5, 2005. (admitted)
+(g) During the period in issue, the Payor operated the Rétro-Dog II restaurant. The restaurant's operations had three components: (admitted)
+- a fast‑food restaurant that could accommodate 28 to 34 people inside, 25 people on an enclosed patio and 10 additional people on a second patio outside that was open.
+- the restaurant was operated from April to October each year and offered breakfasts, fast food, and, on weekdays, a daily lunch menu.
+- when in operation, the restaurant was open seven days a week from 5:00 a.m. to 11:00 p.m. or midnight.
+- the second component of its operations was to sell products such as pies, homemade bread, buns, jams and other products to the restaurant's customers.
+- the third component of the activities was the operation of a catering service.
+(h) The restaurant's kitchen was too small and was used only to prepare breakfasts and fast food. (admitted)
+(i) In 2004, the Appellant Mr. Brisson, having failed to obtain permission to enlarge the restaurant's kitchen, set up a kitchen in the garage adjacent to the residence in which he and his wife Ms. Gagnon, relatives of the Payor, resided. (admitted)
+(j) That kitchen is equipped with two freezers, one refrigerator, two stoves, some work tables, and a pizza and muffin oven. (admitted)
+(k) That kitchen is used for baking bread, preparing food for the daily menu, selling restaurant products and preparing dishes for the catering service. (admitted)
+(l) During the periods in issue, Ms. Gagnon worked for the Payor as a cook. (admitted)
+(m) Ms. Gagnon worked for the restaurant before the fire and continued to work for the Payor (her daughter) after the rebuilding of the restaurant and the acquisition by the Payor; (admitted)
+(n) Ms. Gagnon's main duties were to prepare the soup stocks, sauce bases, daily lunch menus, desserts, pies, muffins, jams, homemade bread, buns, beans with pork, etc. (admitted)
+(o) From 2004 onward, Ms. Gagnon worked mainly from home, in her own kitchen or the kitchen set up in the garage. (admitted)
+(p) Ms. Gagnon began her day at 4:00 a.m. and generally worked at the restaurant from 11:30 a.m. to 1:00 p.m. (admitted)
+(q) In the afternoon, Ms. Gagnon was freer, and could look after personal matters or get a head start on the dishes and products to be prepared. (denied)
+(r) The Appellant had no schedule to comply with, and could cook in the evenings to get a head start. (denied)
+(s) During the periods in issue, Ms. Gagnon sometimes worked up to 50 hours a week, but here hours were not recorded by the Payor. (denied)
+(t) She received fixed pay of $11.00 per hour for 40 hours a week, regardless of the hours that she actually worked. (admitted)
+(u) In addition to her remuneration, Ms. Gagnon received $60 to $70 a week in "tips" from the Payor to compensate her for expenses incurred because of the Payor's use of the premises belonging to Ms. Gagnon and her spouse. (admitted)
+(v) This "tip" money was also used to remunerate the Appellant for the four hours a week that she spent cleaning the garage kitchen. (denied)
+(w) The Payor, who held a full-time job elsewhere except during the summer, claimed that she alone looked after the catering service, but Ms. Gagnon and her spouse said otherwise. (admitted)
+(x) The catering service generated $15,117 in sales for the period from October 2005 to March 2006 and the Appellant worked there without receiving pay. (denied)
+(y) The Appellant was remunerated exclusively for her work during the restaurant's periods of operation, namely from April to September or October each year, but she continued to render services from October to March for the Payor's catering service, without being paid for that work. (admitted)
+(z) During the periods in issue, that is to say, while the restaurant was operating, the Appellant was paid for 40 hours per week even though she averaged 50 hours of work per week. (denied)
+(aa) The Minister is satisfied that such terms and conditions of employment could not prevail if the parties were dealing with each other at arm's length. (denied)
+[6] In the matter of Rodrigue Brisson, 2007-2879(EI), the Respondent relied on the following assumptions of fact in making his decision:
+[TRANSLATION]
+5. ...
+(a) The Payor operated a restaurant under the business name Rétro Dog II. (admitted)
+(b) The Payor was the sole proprietor of the business. (admitted)
+(c) The Appellant Rodrigue Brisson ("Rodrigue Brisson") is the Payor's son. (admitted)
+(d) Rodrigue Brisson is related by blood to a person who controls the Payor's business. (admitted)
+6. ...
+(a) The Payor registered a sole proprietorship on July 7, 1994, and the business was assigned registration number 2240741357 in the CIDREQ system. (admitted)
+(b) The business operated a restaurant under the business name Rétro Dog II. (admitted)
+(c) Prior to 1994, the restaurant was operated by the Appellant Rodrigue Brisson, the Payor's father, and relatives of his. (admitted)
+(d) There was a fire at the restaurant in 1993. (admitted)
+(e) On June 30, 1993, the Payor purchased the land from the former owners for $4,995, and got the former owners' consent to rebuild the restaurant. (admitted)
+(f) The former owners used the insurance money ($70,000-$80,000) to rebuild and the Payor had to borrow approximately $35,0000 to purchase the restaurant. (admitted)
+(g) Prior to May 2005, Rodrigue Brisson operated a catering service through 9022-4622 Québec Inc., which carried on business as Les Cuisines Bri-Ga. (admitted)
+(h) The assets of 9022-4627 Québec Inc. consisted of a parcel of land, a building, equipment and inventory which the Payor acquired on May 5, 2005, as well as the catering business. (admitted)
+(i) During the period in issue, the Payor operated the Rétro-Dog II restaurant. The restaurant's operations had three components: (admitted)
+- (1) a fast-food restaurant that could accommodate 28 to 34 people inside, 25 people on an enclosed patio and 10 additional people on a second patio outside that was open
+- the restaurant was operated from April to October each year and offered breakfasts, fast food, and, on weekdays, a daily lunch menu
+- When in operation, the restaurant was open seven days a week from 5:00 a.m. to 11:00 p.m. or midnight.
+- (2) sales of products such as pies, homemade bread, buns, jams and other products to the restaurant's customers.
+- (3) a catering service, operated throughout the year starting in May 2005.
+(j) The restaurant's kitchen was too small and was used only to prepare breakfasts and fast food. (admitted)
+(k) In 2004, the Appellant Mr. Brisson, having failed to obtain permission to enlarge the restaurant's kitchen, set up a kitchen in the garage adjacent to the residence which he and his spouse, the Payor's mother, co-own. (admitted)
+(l) That kitchen is equipped with two freezers, one refrigerator, two stoves, some work tables, and a pizza and muffin oven. (admitted)
+(m) The kitchen is used for baking bread, preparing dishes for the daily menu, selling products in the restaurant and preparing dishes for the catering service. (admitted)
+(n) Rodrigue Brisson transported the prepared dishes to the restaurant. (admitted)
+(o) During the periods in issue, Rodrigue Brisson worked for the Payor as a bookkeeper and as a supervisor and manager in charge of running the business. (admitted)
+(p) There is an office set up in the basement of Rodrigue Brisson's home. The payor's ledgers, payroll journals, tax returns, deposit books, supplier invoices and other documents are kept there. (no knowledge)
+(q) Rodrigue Brisson worked for the restaurant before the fire and continued to work for the Payor after the restaurant was rebuilt. (no knowledge)
+(r) Rodrigue Brisson's main duties were to prepare the restaurant's organization in early April, do the cleaning, place the orders, hire employees, prepare schedules, open the business in the morning and close it at night, do the bookkeeping and enter data in the computer, do the deposits and payroll, maintain the building and help out at the restaurant at lunchtime by greeting customers. (no knowledge)
+(s) Rodrigue Brisson worked for the Payor at his home, in the kitchen set up in his garage, in the restaurant, and on the road when running errands. (admitted)
+(t) He had no schedule to comply with. (denied)
+(u) He said that he worked for the Payor all the time and that his hours were not counted. (denied)
+(v) During the periods in issue, he received fixed pay in the amount of $10.00 per hour for 40 hours of work per week, regardless of the hours that he actually worked. (denied)
+(w) It would be unreasonable to believe that the Appellant Rodrigue Brisson could carry out all his duties for the Payor in just 40 hours per week. (denied)
+(x) The terms and conditions of his employment were not reasonable. (denied)
+(y) The Payor, who had a full-time job elsewhere except during the summer, claimed that she alone was responsible for the catering service, even though the Appellant Rodrigue Brisson and his spouse said that they looked after the catering service. (denied)
+(z) The catering service generated $15,117 in sales for the period from October 2005 to March 2006. (admitted)
+(aa) Rodrigue Brisson worked in the catering service from October to March for no remuneration. (denied)
+(bb) Rodrigue Brisson was remunerated solely for the periods when the restaurant was in operation, namely from April to September or October each year. (admitted)
+(cc) Throughout the year, he continued to do the Payor's bookkeeping and the GST/QST returns without reported remuneration. (admitted)
+(dd) It is unreasonable to believe that an unrelated employee would work without pay. (denied)
+(ee) Rodrigue Brisson rendered services to the Payor throughout the year and there were weeks during which he was not remunerated. (denied)
+(ff) The duration of Rodrigue Brisson's employment is unreasonable. (denied)
+(gg) The Payor did not pay Rodrigue Brisson for the use of his home's basement and garage, nor did the Payor pay him for heat or electricity. (denied)
+(hh) The Minister is satisfied that these terms and conditions of employment could not prevail if the parties were dealing with each other at arm's length. (denied)
+[7] Subparagraphs 5(a) through (d) and subparagraphs 6(a) through (k) are essentially the same and were admitted to by the Appellants; as for the other subparagraphs, the Appellant Claudette Gagnon admitted to subparagraphs 6(l) through (p) as well as 6(t), (u), (w) and (y), and denied subparagraphs 6(q), (r), (s), (v), (x), (z) and (aa); the Appellant Rodrigue Brisson, for his part, admitted to subparagraphs 6(l), (o), (s), (z), (bb) and (cc) and denied subparagraphs 6(m), (n), (p), (q), (r), (v), (w), (x), (y) and (aa).
+[8] Both Appellants testified. Rodrigue Brisson provided the most specific testimony. Among other things, he explained and described the chain of events and his various experiences before working for his daughter by running a restaurant that he had previously run with his spouse.
+[9] Mr. Brisson mainly attacked specific allegations, claiming, among other things, that he did not open the restaurant at roughly 4:30 to 5:00 a.m. because he was the one who closed it at midnight.
+[10] Mr. Brisson denied receiving all the correspondence concerning the restaurant. He sought to demolish this allegation by tendering a document certifying that the owner, his daughter, had received a document concerning the operation of the restaurant at her private residence.
+[11] He also denied that his residence, and especially the office set up there, was used to store all documents associated with the operation of the business, but he did admit that the day-to-day bookkeeping and the previous year's accounting records were indeed kept there.
+[12] In addition, he denied that he went to the place of business early in the morning because the dishes made at the house were not yet ready at that time.
+[13] However, he admitted that he worked without pay, though he hastened to add that the work in question was minor and comparable to what that a father would be prepared to do to help his children with a painting job. He said that, in this case, the work did not involve painting, but rather work such as preparing and delivering food and producing various GST and QST returns.
+[14] In order to justify his unpaid work, Rodrigue Brisson said that he thought he had the right to work a few hours without losing the right to receive employment insurance benefits.
+[15] He also said that not reporting the hours that he worked might have been a mistake.
+[16] With respect to the use of the personal kitchen and the garage set up specifically to prepare meals served at the restaurant, Rodrige Brisson explained that, first of all, this use generated truly minimal electricity costs, and that, secondly, his wife received $60 to $80 in compensation over and above her remuneration each week. According to the Appellants, this amount was partly to compensate for the use of the premises and cover some of the electricity expenses incurred, but it also served to pay for the cleaning work that was done after the premises were used.
+[17] The Appellants' personal kitchen, and the garage where the equipment was located, were used intensively for the preparation of numerous meals during the period when the restaurant was operating, and afterwards, during the period when meals had to be prepared and delivered as part of the second component of the business, namely the catering service.
+[18] These were major, intensive and daily activities, because the restaurant in which the meals were served was too small to prepare meals in large quantities.
+[19] Indeed, only a few very quick dishes were prepared at the restaurant, and even then, the basic ingredients had most often already been prepared at the Appellants' personal residence.
+[20] The Appellant was also responsible for running errands, transporting the meals from the private residence to the restaurant, transporting the restaurant's garbage cans, closing the restaurant, and looking after basic bookkeeping. The other bookkeeping was done by another person whose services the business retained.
+[21] As for the Appellant Claudette Gagnon, she explained that she started her work very early in the morning, at roughly 4 a.m, by preparing the homemade bread, the desserts and the lunch dishes. Her work ended at approximately 1 p.m.
+[22] She explained that, in addition to her weekly pay, she received compensation ranging from $60 to $80 per week for cleaning, for the use of the kitchen and garage, and to reimburse electricity costs and the costs of various housekeeping products.
+[23] As for the amount of time that it took to do the cleaning, Ms. Gagnon said that it could vary, but that it generally took a few hours, though it could sometimes take more than four hours, for example when a mishap, like a spill, or an overflow of pie filling during baking, took place.
+[24] However, she added that when something like this happened, the burden was not borne by her daughter Karine; in other words, if she had to spend a large number of hours cleaning her kitchen and garage, her daughter had nothing to do with this extra work. The least that can be said is that this is not the way that an ordinary employee would act.
+[25] Louise Dessureault, the appeals officer, also testified. She explained what led to her determination that it was not reasonable to believe that the Appellants would have entered into a substantially similar employment contract, having regard to the terms and conditions and duration of the work, if they had been dealing with each other at arm's length.
+[26] In fact, she grouped together the elements taken into account based on the various factors listed by Parliament, namely the terms and conditions of employment, the remuneration paid, the nature and importance of the work, and the duration of the employment.
+[27] The appeals officer's analysis of the file shed light on a nebulous aspect of the financing, namely the fact that, in a sense, the Appellant Rodrigue Brisson financed the restaurant that his daughter purchased after a fire that took place at the time that he was running it. This fact was acknowledged by Mr. Brisson, who said that he preferred to receive the interest rather than see his daughter pay it to a bank.
+[28] Ms. Dessureault also prepared a table showing the time that the Appellants spent on their catering service:
+Breakdown of Karine Brisson's Business Revenues – Rétro Dog 11
+Year:
+2005
+2006
+Revenues -
+Revenues -
+Revenues -
+Revenues -
+Catering Service
+Restaurant
+Catering Service
+Restaurant
+Month
+January
+$4,158.72
+Februaryr
+$2,124.17
+March
+$323.00
+April
+$5,859.91
+$9,791.82
+May
+$307.85
+$19,521.33
+$24,267.00
+June
+$5,501.60
+$23,753.53
+$1,030.58
+$25,528.00
+July
+$409.00
+$28,643.67
+$27,829.00
+August
+$23,801.40
+$666.82
+September
+$16,014.03
+$15,306.56
+October
+$4,352.53
+$8,309.09
+November
+$2,419.87
+$1,488.85
+December
+$1,738.75
+Total
+$14,729.60
+$117,593.87
+$9,125.32
+$134,698.29
+In light of this table, Ms. Dessureault concluded that the Appellants did a substantial amount of unpaid work as part of their catering service; moreover, they got nothing for the occupancy of the premises, and they even bore the costs associated with the use of the premises: telephone, rent, electricity, etc.
+[29] She also noted that the compensation artificially increased the insurable earnings, though a significant amount of this money, according to the Appellants' own admission, served to reimburse part of the rent, the electricity bill and other expenses.
+[30] In addition, Ms. Dessureault shed light on certain evidence concerning the number of hours of work at the beginning and end of the periods, showing unambiguously that things worked exactly as though the business were being operated jointly by the Appellants and their daughter.
+[31] Did the analysis contain factors other than those established by the evidence? Did it take irrelevant considerations into account? Was a great deal of weight accorded to irrelevant considerations? My answer to all these questions is that the investigation obtained most, if not all, of the relevant evidence. Moreover, the analysis is entirely appropriate, and I consider the conclusions to be very reasonable under the circumstances.
+[32] Mr. Brisson certainly managed to show that he was not the person who opened the restaurant at 5 a.m. He certainly made some clarifications with respect to the fact that almost all the documents related to the management of the restaurant were in an office inside his personal residence. He also proved that his daughter, the Payor, had on at least one occasion received correspondence concerning the restaurant, thereby demolishing the assumption that all documents concerning the restaurant were addressed to Ms. Gagnon's personal residence.
+[33] Those considerations are completely secondary and marginal in the analysis of a matter of this kind.
+[34] The true question is whether a third party or third parties would have accepted similar working conditions, a job of similar duration, and similar remuneration to what existed in the case at bar.
+[35] In the instant case, the Appellants made their home's kitchen and garage available to the restaurant in exchange for ludicrously low amounts of money.
+[36] The Appelants' pay was entirely unrelated to the number of hours that they worked, and this is completely contrary to employment practices in this field.
+[37] The Appellants routinely worked free of charge. The real reason for the addition to Ms. Gagnon's remuneration was to cover part of the electricity and rent.
+[38] Those are a few decisive elements based on which it can be concluded, beyond a shadow of a doubt, that no one at arm's length would have accepted such an employment relationship.
+[39] Although, employment by a person with whom one is not dealing at arm's length is clearly excluded from insurable employment, the exclusion is not absolute.
+[40] However, in assessing evidence that goes to the question of whether a person at arm's length might have agreed to substantially similar terms and conditions of employment, it is certainly important to take into account what I would call the dynamism, interest, enthusiasm, zeal, and, to some extent, the volunteer spirit of employees who are not dealing with their employers at arm's length; this can be an acceptable and even reasonable situation, depending on the context.
+[41] Not everyone who works in such a context should be penalized. However, terms and conditions of employment that are patently unreasonable because they cross the line of acceptability must be rejected.
+[42] In the case at bar, there is no doubt in my mind that the preponderance of the evidence, both during the investigation and analysis and during the hearing, decisively showed that the Appellants' terms and conditions of employment were significantly shaped by their non-arm's-length relationship with the Payor, to the point that I wondered whether the Appellants were still the restaurant's true owners.
+[43] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 7th day of March 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 21st day of April 2008.
+Brian McCordick, Translator
+CITATION:
+2008TCC120
+COURT FILE NO.:
+2007-2416(EI); 2007-2879(EI)
+STYLE OF CAUSE:
+Claudette Gagnon and Rodrigue Brisson and the Minister of National Revenue
+PLACE OF HEARING:
+Chicoutimi, Quebec
+DATE OF HEARING:
+February 15, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+March 7, 2008
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellants:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

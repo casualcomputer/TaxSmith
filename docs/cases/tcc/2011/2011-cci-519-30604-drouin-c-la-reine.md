@@ -1,0 +1,200 @@
+---
+title: "Drouin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30604/index.do"
+last_modified: "2011-11-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 519"
+citation2: ""
+neutral_citation: "2011 CCI 519"
+decision_date: "2011-11-10"
+language: "fr"
+item_id: "30604"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7159
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:08:43.667000+00:00"
+cases_cited_count: 5
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "940f343ca8f39c07f2103091b0b278521d676d2c9eeefc54e1b050ca69b3fcd0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Drouin c. La Reine
+
+- Citation: 2011 CCI 519
+- Decision date: 2011-11-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7159, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Drouin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-11-10
+Référence neutre
+2011 CCI 519
+Numéro de dossier
+2011-5(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-5(IT)G
+ENTRE :
+André Drouin,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue le 7 novembre 2011 à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocats de l'appelant :
+Me Guy Du Pont
+Me Michael H. Lubetsky
+Me Jack J. Fattal
+Avocats de l'intimée :
+Me Michel Lamarre
+Me Sara Jahanbakhsh
+____________________________________________________________________
+ORDONNANCE
+La requête pour modifier la réponse à l’avis d’appel aux termes de l’article 54 des Règles de la Cour canadienne de l'impôt (procédure générale), est rejetée.
+L’appelant a droit aux dépens de cette requête, lesquels seront déterminés à l’issue de l’appel.
+Signée à Ottawa, Canada, ce 10e jour de novembre 2011.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2011 CCI 519
+Date : 20111110
+Dossier : 2011-5(IT)G
+ENTRE :
+André Drouin,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+La juge Lamarre
+[1] L’intimée présente une requête pour modifier la réponse à l’avis d’appel, en se fondant sur l’article 54 des Règles de la Cour canadienne de l'impôt (procédure générale) (Règles) qui se lit comme suit :
+MODIFICATION DES ACTES DE PROCÉDURE
+Moment d’apporter les modifications
+54. Une partie peut modifier son acte de procédure, en tout temps avant la clôture des actes de procédure, et subséquemment en déposant le consentement de toutes les autres parties, ou avec l’autorisation de la Cour, et la Cour en accordant l’autorisation peut imposer les conditions qui lui paraissent appropriées.
+[2] Ici, il n’est pas contesté que cette requête est présentée après la clôture des actes de procédure et l’appelant s’y oppose.
+[3] À l’appui de sa requête, l’intimée a produit la déclaration sous serment de Sara Jahanbakhsh laquelle est reproduite ci-après :
+DÉCLARATION SOUS SERMENT
+Je soussignée, Sara Jahanbakhsh, affirme solennellement ce qui suit :
+1. Je suis avocate au Ministère de la justice, Canada, Direction des affaires fiscales, […].
+2. J’ai une connaissance personnelle du présent dossier.
+3. Les modifications à la réponse à l’avis d’appel visent à ajouter des arguments de droit concernant la question de l’abri fiscal.
+4. Aucun fait nouveau n’est ajouté à la réponse modifiée à l’avis d’appel (pièce R-1).
+5. Lors de la vérification fiscale de l’appelant pour l’année d’imposition 2008, l’argument concernant l’abri fiscal a été pris en compte par la vérificatrice en charge du dossier afin de refuser les déductions réclamées par l’appelant.
+6. À l’issue de cette vérification, une nouvelle cotisation fut émise en date du 27 août 2009, à l’égard de l’appelant pour l’année d’imposition 2008.
+7. Les arguments concernant l’abri fiscal sont donc un fondement au soutien de la cotisation du 27 août 2009, émise à l’appelant pour l’année d’imposition 2008.
+8. Par ailleurs, le rapport de vérification (T-20) a été communiqué aux procureurs de l’appelant dans le cadre des engagements.
+9. Le 17 août 2011, lors d’une rencontre entre les procureurs de l’appelant et les procureurs de l’intimée, ces derniers ont fait part de la possibilité de modifier la réponse à l’avis d’appel afin d’y ajouter des arguments de droit concernant l’abri fiscal.
+10. Le 6 septembre 2011, lors d’une audition sur la gestion de la présente instance, l’intimée a fait part à la Cour de la possibilité de modifier la réponse à l’avis d’appel.
+11. Lors de cette gestion de l’instance, la Cour a fixé au 23 septembre 2011, la date limite pour déposer un avis de requête afin de modifier la réponse à l’avis d’appel; cette date a été prorogée au 21 octobre, sur consentement des parties.
+[4] L’intimée ajoute dans ses motifs à l’appui de sa requête ce qui suit :
+10. Le présent dossier doit procéder au fond devant cette Cour lors d’une audition fixée du 23 au 27 janvier 2012.
+11. Puisque la date du procès a déjà été fixée dans ce dossier, la présente requête n’aura pas pour effet de retarder l’instruction de cette affaire devant la Cour.
+12. L’appelant n’est pas pris par surprise par les modifications recherchées.
+13. Les modifications recherchées ne causent pas de préjudice ni d’injustice à l’appelant.
+14. Il est dans l’intérêt de la justice que la Cour permette à l’intimée de modifier la réponse à l’avis d’appel.
+[5] Les modifications que veut apporter l’intimée portent sur l’ajout dans les questions en litige de trois nouvelles questions. Les questions soulevées dans la réponse à l’avis d’appel initiale traitaient de la possibilité ou non, pour l’appelant de réclamer des dépenses relativement à un contrat de franchise dans le calcul de son revenu pour l’année d’imposition 2008. Plus précisément, l’intimée questionnait l’exploitation d’une entreprise par l’appelant, en ce que ce dernier n’aurait pas, selon l’intimée, acquis la franchise dans le but de gagner ou produire un revenu (paragraphes 27, 28 et 29 de la réponse à l’avis d’appel).
+[6] L’intimée demande maintenant de modifier sa réponse afin de soulever d’autres questions, à savoir, 1) est-ce que la franchise en question constituait un abri fiscal au sens du paragraphe 237.1(1) de la Loi de l’impôt sur le revenu (LIR); 2) est-ce que les montants liés aux documents qualifiés de billets constituaient des montants à recours limité au sens de la définition du paragraphe 143.2(1) de la LIR; et 3) est-ce que les logiciels que l’appelant avait le droit d’utiliser constituaient un « logiciel déterminé » selon le paragraphe 1100 (20.2) du Règlement de l’impôt sur le revenu (ces modifications se retrouvent aux paragraphes 30, 31, 32, 34, 43, 44 et 45 de la réponse modifiée à l’avis d’appel).
+[7] Dans son argumentation, l’intimée plaide que les modifications recherchées visent à ajouter des arguments de droit concernant la question de l’abri fiscal et qu’aucun fait nouveau n’est ajouté. L’intimée soutient que lors de la vérification fiscale de l’appelant pour l’année d’imposition 2008, l’argument concernant l’abri fiscal a été pris en compte par la vérificatrice afin de refuser les déductions réclamées par l’appelant pour cette même année. L’abri fiscal aurait donc été un fondement au soutien de la cotisation initiale. Ladite cotisation datée du 27 août 2009, produite dans le dossier de la requête de l’appelant à l’onglet C, ne donne aucune explication sur le fondement de la cotisation qui modifie le revenu net de l’appelant. Par ailleurs, une lettre avait été envoyée préalablement à l’appelant, le 6 juillet 2009, par l’Agence du revenu du Canada (ARC), dans laquelle on lui expliquait que la vérification n’avait porté que sur « la déduction pour amortissement réclamée pour les catégories 12, la déduction de biens en immobilisations admissibles et les frais d’intérêts », et qu’on apportait les redressements en conséquence à sa déclaration de revenu (pièce E du dossier de la requête de l’appelant). Aucune mention n’était faite par l’ARC qu’on avait considéré la question de l’abri fiscal pour établir la cotisation.
+[8] Par ailleurs, au moment de rédiger la réponse à l’avis d’appel en mars 2011, l’avocat de l’intimée n’a pas cru opportun d’argumenter la question de l’abri fiscal. Il a expliqué en cour, que ce n’est qu’après avoir complété les préalables au mois d’août 2011, qu’il a avisé les procureurs de l’appelant de la possibilité de modifier la réponse à l’avis d’appel afin d’y ajouter des arguments de droit concernant l’abri fiscal. Il a expliqué que les interrogatoires préalables de l’appelant avaient apporté de nouveaux éléments et l’avaient conforté dans sa décision de soulever cet argument. L’intimée soutient que des modifications peuvent être apportées à tout stade des procédures, sous réserve du préjudice causé à l’une des parties. L’avocat de l’intimée cite Canderel Ltée. c. Canada, [1994] 1 C.F. 3, à la page 10, où le juge Décary dit ce qui suit :
+[…] même s'il est impossible d'énumérer tous les facteurs dont un juge doit tenir compte en décidant s'il est juste, dans une situation donnée, d'autoriser une modification, la règle générale est qu'une modification devrait être autorisée à tout stade de l'action aux fins de déterminer les véritables questions litigieuses entre les parties, pourvu, notamment, que cette autorisation ne cause pas d'injustice à l'autre partie que des dépens ne pourraient réparer, et qu'elle serve les intérêts de la justice.
+[9] L’intimée ajoute ceci aux paragraphes 15 et 16 de l’argumentation de l’intimée :
+15. Se référant à la décision du juge Bowman dans l’affaire Continental Bank Leasing Corporation et autres c. La Reine1, la Cour énumère certains facteurs qui doivent être pris en considération lors de telles requêtes :
+a. le moment auquel est présentée la requête visant la modification ou la rétractation par rapport à la poursuite du procès,
+b. la mesure dans laquelle les modifications proposées retarderaient l’instruction expéditive de l’affaire,
+c. la mesure dans laquelle la thèse adoptée à l’origine par une partie a amené une autre partie à suivre dans le litige une ligne de conduite qu’il serait difficile, voire impossible, de modifier,
+d. la mesure dans laquelle les modifications demandées faciliteront l’examen par la Cour du véritable fond du différend.
+_____________
+1 Continental Bank Leasing Corp. c. Canada, [1993] A.C.I. n° 18 (QL), 93 DTC 298 (CCI).
+16. Aucun des facteurs mentionnés ci-haut n’est prédominant et ne saurait, à lui seul, déterminer du sort d’une requête autorisant une partie à amender ses procédures. Toutefois, dans l’évaluation de tels facteurs, la Cour doit tenir compte de l’équité, du sens commun et de l’intérêt de la justice.
+[10] L’intimée s’appuie également sur les arrêts Francoeur c. Canada, [1992] 2 C.F. 333, [1992] A.C.F. n° 147 (QL) et Loewen c. La Reine, 2007 CCI 703, CarswellNat 6381, pour soutenir qu’il est de l’intérêt de la justice de permettre un amendement si celui-ci a pour but de trancher les questions litigieuses véritables qui opposent les parties, à condition comme il a été dit précédemment que cet amendement n’occasionne pas d’injustice à l’autre partie que l’on ne peut indemniser par l’adjudication des dépens.
+[11] Selon l’intimée, l’appelant est au courant de son intention d’apporter ce nouvel argument depuis le mois d’août dernier et le rapport de la vérificatrice soulevant la question de l’abri fiscal a été remis à l’appelant dans le cadre des engagements suivant les interrogatoires préalables. L’audition est fixée pour audition dans près de trois mois (fin janvier 2012), ce qui donne le temps à l’appelant de répondre aux arguments de l’intimée.
+[12] L’appelant s’oppose au dépôt de la réponse modifiée. Son avocat souligne que si la question de l’abri fiscal avait servi de fondement au soutien de la cotisation, pourquoi l’ARC n’en a pas fait part à l’appelant dans la lettre envoyée le 6 juillet 2009 au moment de recotiser; pourquoi le procureur de l’intimée n’a pas soulevé cet argument qu’il connaissait déjà au moment de préparer la réponse à l’avis d’appel en mars 2011; pourquoi le rapport de la vérificatrice ne faisait pas partie de la liste de documents de l’intimée; et pourquoi les représentants de l’ARC n’en ont pas fait part lors de leurs interrogatoires préalables (M. Normand Desjardins de l’ARC a fait une seule allusion, très courte, à la question de l’abri fiscal pour les années antérieures à l’année d’imposition 2008 en litige, à la page 50 de la pièce F du dossier de la requête de l’appelant). L’appelant allègue que cette façon de procéder constitue un abus de procédure qui déconsidère l’administration de la justice. D’autant, soutient l’avocat de l’appelant, que ces nouvelles questions sont soulevées alors même que les interrogatoires au préalable et la communication des documents et engagements ont été complétés et qu’il faudrait, si la requête devait être accueillie, ouvrir à nouveau ces interrogatoires préalables, ce qui en plus d’être coûteux, risquerait de retarder la tenue de l’audition. En effet, il est peu réaliste de croire que tout sera complété (en tenant compte des engagements et nouvelles divulgations de documents) à l’intérieur de l’échéancier déjà fixé par la Cour, sans compter que la durée du procès dépassera le temps alloué par la Cour avec l’ajout de ces nouveaux arguments.
+[13] Or, l’appelant a fait part à la cour, à plusieurs reprises, dans le cadre de la gestion de l’instance, des raisons invoquées pour tenir l’audition le plus tôt possible, entre autres, les menaces de pénalités très élevées de la part de l’ARC et des mesures de recouvrement envisagées. C’est dans ce contexte, qu’il fut décidé de fixer le procès pour une durée de cinq jours à la fin du mois de janvier 2012. Selon l’appelant, la façon de faire de l’intimée n’est aucunement justifiée.
+[14] Au soutien de ses prétentions, l’avocat de l’appelant invoque, en premier lieu, l’obligation de l’ARC de divulguer au contribuable, à l’époque de la cotisation, les déterminations de faits et de droit au soutien de cette cotisation. À cet égard, référence est faite à l’arrêt de base de la Cour suprême du Canada dans Johnston v. Minister of National Revenue, [1948] R.C.S. 486, aux pages 489-490 :
+[…] The allegations necessary to the appeal depend upon the construction of the statute and its application to the facts and the pleadings are to facilitate the determination of the issues. It must, of course, be assumed that the Crown, as is its duty, has fully disclosed to the taxpayer the precise findings of fact and rulings of law which have given rise to the controversy. […]
+[15] En deuxième lieu, l’avocat de l’appelant soutient que l’article 49 des Règles exige que la réponse à un avis d’appel contienne, entre autres, les conclusions ou les hypothèses de faits sur lesquelles le ministre s’est fondé en établissant sa cotisation, les points en litige, les dispositions législatives invoquées, les moyens sur lesquels l’intimée entend se fonder et tout autre fait pertinent. L’appelant cite Canada c. Anchor Pointe Energy Ltd, 2007 CAF 188, [2008] 1 R.C.F. 839, aux paragraphes 27-28 et 29 :
+[27] Dans notre système fiscal fondé sur l'autodéclaration, le ministre émet des hypothèses de fait pour déterminer l'obligation fiscale du contribuable. Comme l'a dit le juge Rothstein, alors juge à la Cour d'appel fédérale, dans l'arrêt Canada c. Anchor Pointe Energy Ltd., « [l]a Couronne a pour pratique de divulguer dans ses actes de procédure les hypothèses de fait sur lesquelles le ministre s'est fondé pour établir le montant de la dette fiscale », au paragraphe 2. Pour reprendre les termes du juge en chef adjoint Bowman, maintenant juge en chef de la Cour canadienne de l'impôt, « [c]es hypothèses sont censées représenter une communication complète et honnête des faits sur lesquels le ministre du Revenu national s'est fondé en établissant la cotisation » : Holm c. Canada, [2002] A.C.L. n°641 (QL), paragraphe 9.
+[28] Lorsque les hypothèses sont plaidées, les contribuables ont le fardeau initial de réfuter, selon la prépondérance des probabilités, les hypothèses de fait du ministre : voir Canada c. Anchor Pointe Energy Ltd., au paragraphe 2 et Hickman Motors Ltd c. Canada, [1997] 2 R.C.S. 336, au paragraphe 92. Les hypothèses non plaidées n'ont pas d'effet sur le fardeau de la preuve, ni dans un sens, ni dans l'autre : voir Bowens c. Canada, [1996] A.C.F. n° 214 (C.A.) (QL), au paragraphe 5 et Pollock c. Canada, [1993] A.C.F. n° 1055 (C.A.) (QL), au paragraphe 18.
+[29] L'équité exige que les faits allégués comme hypothèses soient complets, précis, exacts et énoncés de façon honnête et franche afin que que [sic] le contribuable sache bien clairement ce qu'il devra prouver : Canada c. Anchor Pointe Energy Ltd., au paragraphe 23; Holm c. Canada; Canada c. Loewen, [2004] 4 R.C.F. 3, (C.A.F.), au paragraphe 9; Grant c. Canada, 2003 CAF 77, au paragraphe 18; First Fund Genesis Corp. c. Canada, [1990] 2 C.T.C. 24 (C.F. 1ere inst.), aux pages 26 et 27; Shaughnessy c. Canada, [2002] A.C.I. n° 9 (QL), au paragraphe 13; Stephen c. Canada, [2001] A.C. I. no 250 (QL), au paragraphe 6.
+[16] L’appelant soutient que l’équité requiert qu’une partie soit en mesure de prendre connaissance de la preuve complète (« case to meet ») contre elle pour préparer sa défense. La cause de Walsh c. La Reine, 2008 CCI 282, [2008] A.C.I. n° 220 (QL), 2008 TCC 282, [2008] T.C.J. n° 220 (QL) est citée pour appuyer ce point, où le juge C. Miller de notre cour s’exprimait ainsi au paragraphe 22 :
+22 Je ne doute aucunement qu'il serait possible de rédiger un long traité au sujet des subtilités auxquelles donnent lieu les actes de procédure et de l'effet réciproque existant entre ceux-ci et le paragraphe 152(9). Je laisserai à d'autres le soin de le faire. Si je prends du recul et si je considère la poursuite judiciaire d'une façon générale, je conclus simplement qu'elle ne portait pas sur la valeur des actions au mois de novembre ou de décembre 1996. Dans un système contradictoire, la Loi et les Règles garantissent une lutte équitable, une lutte dans laquelle aucune des deux parties n'est prise au piège ou par surprise, mais où les deux parties connaissent la preuve à réfuter, sont au courant de ce à quoi il faut s'attendre, et peuvent faire progresser l'affaire d'une façon efficace et rapide jusqu'à ce que la cour entende la question à laquelle elles font face. Ni la Loi ni les Règles ne visent à permettre à une partie de rompre les règles du jeu, et encore moins de les modifier, douze ans après la conclusion des transactions ayant donné lieu à la poursuite et neuf ans après que le fondement de la cotisation a été établi.
+22 I have no doubt a lengthy treatise could be written on the technicalities of the role of pleadings and the interplay with subsection 152(9). I will leave that for others. When I step back and look at the lawsuit generally, I conclude simply it was not a lawsuit about the valuation of shares in November or December 1996. The Act and the Rules exist in an adversarial system to ensure a fair fight, one in which neither side is ambushed or surprised but knows the case to meet, knows what to expect, can proceed in an efficient and timely fashion ultimately to a court hearing about the issue in front of them. They are not intended to allow one side to unbalance the playing field, let alone change the field altogether, 12 years after the transactions giving rise to the lawsuit and 9 years after the basis for assessment had been set.
+[17] De plus, l’appelant invoque les articles 4 et 53 des Règles pour dire que l’article 54 des Règles sur lequel se fonde l’intimée doit s’interpréter de façon à favoriser l’équité et la résolution de l’instance la plus rapide et la moins coûteuse possible, tout en s’assurant d’une part, de ne pas compromettre ou retarder l’instruction équitable de l’appel et d’autre part, que l’amendement recherché ne constitue pas un recours abusif à la Cour.
+[18] Finalement, l’intérêt de la justice commande que les parties sont en droit de s’attendre à ce qu’un procès aboutisse. À ce sujet, l’appelant cite l’arrêt Canderel Ltée., précité à la page 11 :
+Pour ce qui est des intérêts de la justice, on peut dire que les tribunaux et les parties sont en droit de s’attendre à ce qu’un procès aboutisse, et les retards et la tension et les inquiétudes que suscite chez toutes les parties concernées une modification tardive soulevant une nouvelle question, peuvent fort bien être considérés comme un obstacle aux fins de la justice. […]
+[19] L’appelant cite également un arrêt de la chambre des Lords, Ketteman v. Hansel Properties Ltd., [1988] 1 All ER 38, décision approuvée par la Cour d’appel fédérale dans Canderel précité, où l’on dit ceci à la page 62 :
+[…] There is a clear difference between allowing amendments to clarify the issues in dispute and those that permit a distinct defense to be raised for the first time.
+Whether an amendment should be granted is a matter for the discretion of the trial judge and he should be guided in the exercise of the discretion by his assessment of where justice lies. Many and diverse factors will bear on the exercise of this discretion. I do not think it possible to enumerate them all or wise to attempt to do so. But justice cannot always be measured in terms of money and in my view a judge is entitled to weigh in the balance the strain the litigation imposes on litigants, particularly if they are personal litigants rather than business corporations, the anxieties occasioned by facing new issues, the raising of false hopes, and the legitimate expectation that the trial will determine the issues one way or the other. Furthermore, to allow an amendment before a trial begins is quite different from allowing it at the end of the trial to give an apparently unsuccessful defendant an opportunity to renew the fight on an entirely different defense.
+Another factor that a judge must weigh in the balance is the pressure on the courts caused by the great increase in litigation and the consequent necessity that, in the interests of the whole community, legal business should be conducted efficiently. We can no longer afford to show the same indulgence towards the negligent conduct of litigation as was perhaps possible in a more leisured age. There will be cases in which justice will be better served by allowing the consequences of the negligence of the lawyers to fall on their own heads rather than by allowing an amendment at a very late stage of the proceedings.
+[20] L’avocat de l’appelant conclut que lorsque la partie qui demande l’amendement a fait preuve de négligence ou a choisi intentionnellement de ne pas présenter les nouveaux allégués en temps utile, la requête sera présumée abusive et préjudiciable. C’est ce qui ressort de la décision Special Risks Holdings Inc. c. Canada, [1983] A.C.F. n° 1131 (QL), 84 DTC 6054 (CF), confirmé par 84 DTC 6215 (CAF), à la page 6057 (dans le contexte d’une requête en communication de la preuve) :
+[…] Les règles de la Cour doivent être suivies à la lettre et, à cet égard, la Couronne n’est pas plus avantagée que tout autre plaideur. Même si l’on estime qu’elle pourrait avoir une certaine pertinence, aucune procédure ne peut être admise quand elle a pour but d’introduire des documents que les parties auraient pu produire plusieurs mois auparavant et dont l’admission aurait pour effet de retarder l’instruction de l’action. Par conséquent, et pour ce seul motif, la requête constitue un usage abusif des procédures de la cour et ne peut être accueillie.
+[…] Rules of the Court must be strictly followed, and the Crown is in no more favoured position than any other litigant in this connection, and no proceeding should be entertained, even if it might found to have some relevance, when it seeks the introduction of material, which the parties could have sought to introduce many months earlier, and which if granted would have the effect of preventing the action from proceeding. For this reason alone therefore the motion is an abuse of the process of the Court and cannot be entertained.
+Analyse
+[21] Je retiens de la jurisprudence citée que la règle générale est de permettre un amendement à tout stade de l’action aux fins de déterminer les véritables questions litigieuses entre les parties, pourvu que cette autorisation ne cause pas d’injustice à l’autre partie que des dépens ne pourraient réparer et qu’elle serve les intérêts de la justice.
+[22] L’appelant invoque que cette requête constitue un abus de procédure et que de permettre un tel amendement lui causerait une injustice que des dépens ne pourraient réparer. Selon lui, l’amendement recherché nécessiterait de recommencer la tenue de nouveaux interrogatoires préalables, engagements et autres démarches judiciaires, qui provoqueraient ultimement le report de l’audition déjà fixée pour audition dans moins de trois mois.
+[23] L’intimée n’est pas étrangère au fait que l’appelant demande depuis le mois d’avril 2011 de procéder le plus rapidement possible dans son dossier. L’appelant a ses propres raisons de vouloir agir ainsi mais chose certaine, dans ce contexte, il était loisible à l’intimée de soulever l’argument de l’abri fiscal bien avant la tenue des interrogatoires préalables qui sont maintenant complétés. En effet, l’intimée reconnaît par la déclaration sous serment qui a été déposée à l’appui de sa requête, que la question de l’abri fiscal a été tenue en compte au moment d’établir la cotisation à l’été 2009, soit deux ans avant que l’avocat de l’intimée en fasse part pour la première fois à l’appelant.
+[24] L’intimée suggère que le fait d’ajouter le nouvel argument sur l’abri fiscal ne change en rien les faits qui ont été allégués dans la réponse à l’avis d’appel initialement. Selon l’avocat de l’intimée, les faits invoqués pour plaider l’existence d’un abri fiscal ne sont pas étrangers à l’argument invoqué dans la réponse initiale que l’appelant n’a jamais eu l’intention d’exploiter une entreprise par l’acquisition de la franchise. L’intimée a soulevé dans sa réponse initiale, que les documents soumis concernant les contrats de franchise constituaient un trompe-l’œil. De ce que je comprends de la position de l’intimée maintenant, si les contrats de franchise et plus particulièrement les documents qualifiés de « billet » que l’appelant a signés constituent un trompe-l’œil, il faudrait retrancher le montant du billet du coût d’acquisition aux fins de réduire d’autant les dépenses réclamées, par application des règles sur les abris fiscaux prévus aux articles 143.2 et 237.1 de la LIR. La définition d’abri fiscal a été modifiée au cours des années, et comme disait le juge Bowie dans l’affaire Loewen, précitée, il n’est pas facile d’appliquer cette définition. Je suis d’accord avec l’appelant, que le nouvel argument que l’intimée veut apporter relativement à l’abri fiscal ou aux « logiciels déterminés », soulèveront des questions de fait additionnelles, dont celles qui sont mentionnées dans son argumentation au paragraphe 40, concernant plus particulièrement le calcul par l’ARC du coût de la franchise.
+[25] À mon avis, la situation actuelle se distingue de l’affaire Loewen citée par l’intimée, dans laquelle le juge Bowie a accepté la requête demandant l’autorisation de modifier la réponse à l’avis d’appel aux fins d’ajouter l’argument de l’abri fiscal. Dans Loewen, la vérificatrice n’avait pas en main, au moment d’établir la cotisation, la documentation nécessaire qui lui aurait permis d’envisager la possibilité que le placement en question constituait un abri fiscal. Par ailleurs, le juge Bowie reconnaissait que le délai de deux ans entre le moment où le ministre avait pris connaissance de la documentation faisant l’objet de la controverse sur l’abri fiscal et le moment où le procureur général s’est rendu compte de l’importance de cette documentation pour déposer sa requête, n’était pas excusable. Toutefois, il a accepté la requête de l’intimée d’ajouter l’argument additionnel de l’abri fiscal sur la base que le contribuable avait sa part de responsabilité dans ce délai. Par ailleurs, dans Loewen, les appels n’étaient pas prêts pour instruction en ce que les interrogatoires préalables n’étaient pas complétés au moment où l’intimée a présenté sa requête. De plus, le juge Bowie a estimé que les nouvelles questions factuelles soulevées relativement à l’inscription de l’abri fiscal et la présentation des formulaires prescrits prolongeraient les interrogatoires préalables d’au plus un jour ou deux.
+[26] Ici, les parties ne s’entendent pas sur ce dernier point et je ne suis pas en mesure d’établir quelle serait la durée de nouveaux interrogatoires.
+[27] Je conçois que si j’accepte la réponse modifiée, cela permettrait d’examiner à l’instruction de l’appel un ensemble de dispositions plus vaste portant sur le droit de l’appelant aux déductions demandées. Toutefois, j’abonde dans le sens du juge C. Miller dans l’affaire Walsh, précitée, et considère que chaque partie a le droit de connaître la preuve à réfuter de façon à faire progresser l’affaire de façon efficace et rapide jusqu’à ce que la cour entende la question à laquelle elles font face.
+[28] Ceci n’est pas nouveau, tel que l’a souligné l’appelant en citant l’arrêt Canderel, dans lequel arrêt on reconnaissait qu’une modification tardive soulevant une nouvelle question pouvait être considérée comme un obstacle aux fins de la justice. Il est vrai que dans l’arrêt Canderel, une telle modification avait été demandée en cours de procès.
+[29] Toutefois, il demeure dans le cas en l’espèce, que l’intimée était au courant depuis deux ans de l’argument qu’elle tente maintenant d’invoquer sur l’abri fiscal. Compte tenu des coûts prohibitifs rattachés à la défense d’une cotisation, il est difficile de blâmer l’appelant de ne pas avoir interrogé au préalable les représentants de l’intimée ou de s’être préparé sur la question de l’abri fiscal, à compter du moment où l’avocat de l’intimée a mentionné la possibilité qu’il soulèverait cet argument. Pourquoi engager des coûts supplémentaires face à cette incertitude ?
+[30] À mon avis, la requête de l’intimée est intervenue beaucoup trop tard dans le processus, compte tenu du fait que la vérificatrice aurait fondé sa cotisation en 2009, entre autres, sur la question de l’abri fiscal, et que l’avocat de l’intimée n’a pas cru bon, pour des raisons qui lui sont propres, de ne pas soulever cet argument dans la réponse initiale produite en mars 2011. Sachant que l’appelant a, tout au long de la gestion de l’instance, fait part à la Cour qu’il voulait procéder rapidement dans ce dossier, l’intimée devait s’attendre à ce que l’appelant s’objecte à la modification proposée après la clôture des interrogatoires préalables, alors que tout a été mis en ordre pour que l’audition puisse procéder le plus rapidement possible selon les disponibilités de la Cour. Accueillir la requête aurait pour effet quasi inévitable de retarder l’instruction expéditive de l’affaire. La ligne de conduite suivie par l’appelant a été modelée selon la thèse adoptée à l’origine par l’intimée. Il n’est pas acceptable, à mon avis, d’imposer une nouvelle ligne de conduite à la partie opposée alors que la partie qui invoque l’amendement aurait pu le faire bien avant. Compte tenu de la jurisprudence invoquée, je conclus dans les circonstances, qu’accueillir la requête ne servirait pas les intérêts de la justice puisqu’il s’agirait, selon moi, d’un usage abusif des procédures de la Cour, ce que je ne peux entériner.
+[31] La requête pour modifier la réponse à l’avis d’appel aux termes de l’article 54 des Règles est rejetée.
+[32] L’appelant a droit aux dépens de cette requête, lesquels seront déterminés à l’issus de l’appel.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2011.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2011 CCI 519
+Nº DU DOSSIER DE LA COUR : 2011-5(IT)G
+INTITULÉ DE LA CAUSE : André Drouin c. LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 7 novembre 2011
+MOTIFS DE L’ORDONNANCE PAR : L'honorable juge Lucie Lamarre
+DATE DE L’ORDONNANCE : le 10 novembre 2011
+COMPARUTIONS :
+Avocats de l'appelant :
+Me Guy Du Pont
+Me Michael H. Lubetsky
+Me Jack J. Fattal
+Avocats de l'intimée :
+Me Michel Lamarre
+Me Sara Jahanbakhsh
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant:
+Nom : Me Guy Du Pont
+Me Michael H. Lubetsky
+Me Jack J. Fattal
+Cabinet : Davies Ward Phillips & Vineberg
+Montréal, Québec
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

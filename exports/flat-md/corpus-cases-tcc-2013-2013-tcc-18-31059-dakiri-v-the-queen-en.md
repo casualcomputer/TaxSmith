@@ -1,0 +1,141 @@
+---
+title: "Dakiri v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31059/index.do"
+last_modified: "2013-01-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 18"
+citation2: ""
+neutral_citation: "2013 TCC 18"
+decision_date: "2013-01-09"
+language: "en"
+item_id: "31059"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4699
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:22:39.910000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "849733cb645b3f9f981ecedbfa9d6381e27fd47bd45be6af611e828bf43ce452"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dakiri v. The Queen
+
+- Citation: 2013 TCC 18
+- Decision date: 2013-01-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4699, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dakiri v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-01-09
+Neutral citation
+2013 TCC 18
+File numbers
+2012-2694(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2694(IT)I
+BETWEEN:
+Khadija Dakiri,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Abdeltif Farah, 2012‑1649(IT)I, on January 9, 2013, at Montréal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal from the Minister of National Revenue's determination dated July 20, 2011, establishing the amount of the Child Tax Benefit to which the appellant was entitled for the 2010 base year that would apply to the payment period of July 2011 to June 2012 pursuant to section 122.6 of the Income Tax Act is dismissed.
+Signed at Ottawa, Canada, this 17th day of January 2013.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 5th day of February 2013.
+Elizabeth Tan, Translator
+Citation: 2013 TCC 18
+Date: 20130117
+Docket: 2012-2694(IT)I
+BETWEEN:
+Khadija Dakiri,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The appellant is appealing from the determination made by the Minister of National Revenue (Minister) dated June 20, 2011, reducing the Child Tax Benefit (CTB) for the payment period of July 2011 to June 2012 for the 2010 base year (as shown in the calculation found in Schedule B of the Reply to the Notice of Appeal).
+[2] This appeal is directly related to the appeal of her spouse, Abdeltif Farah, 2012-1649(IT)I, who received an income replacement benefit from the Commission de la santé et de la sécurité du travail (CSST) for $90,758.36 during the 2010 taxation year.
+[3] This amount increased the appellant's adjusted income that is taken into consideration when establishing CTB entitlement for the 2010 year.
+[4] Essentially, the adjusted income as defined at section 122.6 of the Income Tax Act (ITA) is calculated as the adjusted income defined at section 122.5 of the ITA that is taken into consideration for the Goods and Services Tax (GST) credit her spouse claimed for the 2010 base year.
+[5] The adjusted income is defined as follows at section 122.6:
+INCOME TAX ACT
+Division E – Computation of tax
+Subdivision a.1 – Canada Child Tax Benefit
+Section 122.6: Definitions.
+In this subdivision,
+"adjusted income" — "adjusted income", of an individual for a taxation year, means the total of all amounts each of which would be the income for the year of the individual or of the person who was the individual’s cohabiting spouse or common-law partner at the end of the year if in computing that income no amount were
+(a) included
+(i) under paragraph 56(1)(q.1) or subsection 56(6),
+(ii) in respect of any gain from a disposition of property to which section 79 applies, or
+(iii) in respect of a gain described in subsection 40(3.21), or
+(b) deductible under paragraph 60(y) or (z);
+[6] I refer to the reasons in the Abdeltif Farah case, 2012-1649(IT)I, that include the reasons that justify disallowing the GST credit. These are the same reasons the appellant cannot claim a CTB amount that is greater than the amount granted by the Minister.
+[7] The appeal from the determination is therefore dismissed.
+Signed at Ottawa, Canada, this 17th day of January 2013.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 5th day of February 2013.
+Elizabeth Tan, Translator
+CITATION: 2013 TCC 18
+COURT FILE NO.: 2012-2694(IT)I
+STYLE OF CAUSE: Khadija Dakiri v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: January 9, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: January 17, 2013
+APPEARANCES:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

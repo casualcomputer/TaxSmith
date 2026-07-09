@@ -1,0 +1,187 @@
+Title: Paré c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26728/index.do
+Corpus path: corpus/cases/tcc/2004/2003-tcc-869-26728-par-c-la-reine-en.md
+Document type: case_law
+Last modified: 2004-01-12
+
+# Paré c. La Reine
+
+- Citation: 2003 TCC 869
+- Decision date: 2004-01-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3410, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paré c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-12
+Neutral citation
+2003 TCC 869
+File numbers
+2003-2776(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2776(IT)I
+BETWEEN:
+FRANÇOIS PARÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on November 17, 2003 at Montreal, Quebec
+Before: The Honourable Judge Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mounes Ayadi
+JUDGMENT
+The appeal from the assessment under the Income Tax Act for the 2001 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 12th day of January 2004.
+"Paul Bédard"
+Bédard, J.
+Translation certified true
+on this 3rd day of May 2004.
+Sharon Moren, Translator
+Citation: 2003TCC869
+Date: 20040112
+Docket: 2003-2776(IT)I
+BETWEEN:
+FRANÇOIS PARÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard, J.
+[1] This is an appeal under the Informal Procedure for Reassessment for François Paré for the 2001 taxation year.
+[2] In making the reassessment, the Minister of National Revenue (the "Minister") denied Mr. Paré the equivalent-to-married tax credit that he had claimed for a wholly dependent person totalling $1,006.88 (6,293 X 16%), the reason for the refusal being that, during the year at issue, Mr. Paré had been required to pay a child support amount to his former common-law spouse from whom he had lived apart for the entire year.
+[3] In issuing the Notice of Reassessment, the Minister assumed the following facts stated at subsection 4 of the Reply to the Notice of Appeal:
+[translation]
+(a) The Appellant and Claire Simard had been in a common-law partnership since May 1991.
+(b) Gabrielle Paré-Simard was born of their union on July 10, 1998.
+(c) They ceased living together on December 5, 1999.
+(d) On December 9, 1999, as the result of a mediated agreement, the parties agreed to assume shared custody of their daughter, Gabrielle.
+(e) According to this agreement, the Appellant is obligated to pay an amount of $595.87 per year to his former common-law spouse for child support.
+(f) There is currently no other written agreement between the parties.
+[4] Mr. Paré has filed as Exhibit A-1 a document entitled [translation] "Summary of the agreements resulting from mediation" (the "Summary"), that reads as follows:
+[translation]
+BETWEEN: François Paré, domiciled and residing at 5147 de Repentigny, in the City and District of Montreal, H1M 2G3.
+AND: Claire Simard, domiciled and residing at 5335 Louis-Joseph-Doucet Street in the City and District of Montreal, H1M 3K2.
+COLLECTED INFORMATION
+The parties' union:
+The parties have been in a common-law partnership since May 1991.
+They ceased living together on December 5, 1999.
+CHILD FROM THE UNION
+A child, Gabrielle Paré-Simard, 17 months old, born on July 10, 1998, was born of this union.
+COUPLE'S FINANCIAL SITUATION
+Ms. Simard declares an annual income from all sources of approximately $37,231 as an orthodontic dental hygienist and part-time secretary;
+Mr. Paré declares an annual income from all sources of approximately $48,283 as a civil engineering technician employed by the City of Montreal;
+PARENTAL RESPONSIBILITIES
+Exercise of Parental Authority
+The parents mutually recognize their parental responsibilities. They will consult each other for all important decisions regarding the education, health and well-being of their child and exchange with the other parent all beneficial information so that the parent may adequately monitor the child's development and education.
+Principal Residence
+Custody of Gabrielle will be shared by her parents and Gabrielle will alternately live with each of them for seven [translation] "sleeps" every fifteen (15) days, in the following order:
+FSSMTWTFSSMTWT
+FFFFFFCCCCFCCC
+Alternatively, according to Gabrielle's needs, the sequence may be:
+FFFFCFFCCCFCCC
+The parents agree to equally share the responsibilities for visits to the doctor and the dentist for Gabrielle.
+They also both intend to be involved in her education and to participate in meetings and follow-ups with her teachers, at day-care for the time being, and likewise at school in the future.
+Each parent will inform the other if Gabrielle is hurt or sick to a degree that prevents her from participating in her normal activities.
+When Gabrielle is with one of her parents, if she needs a caregiver, the parent with whom she is living is free to choose her caregiver and the parents do not ask to have first choice to take care of Gabrielle when she is living with the other.
+During the holidays, the child will spend a fairly equal amount of time with each parent, according to amiable agreement between them. For the 1999-2000 holidays, Gabrielle will be with her mother from the morning of December 24 until December 29 during the day. During this period, Ms. Simard will have the car. She will take Gabrielle to Mr. Paré on December 29 during the day and Gabrielle will stay with her father until January 2, 2000.
+As for summers, Gabrielle will spend vacation time with each of her parents, according to the amiable agreement between them.
+FINANCIAL RESPONSIBILITIES
+The parents agree to determine their financial contribution for Gabrielle in accordance with their basic incomes:
+Ms. Simard: $37,231 per year;
+Mr. Paré: $48,283 per year;
+Consequently, the proportion for each is: Ms. Simard: 42%, Mr. Paré: 58%.
+In accordance with the Rules for setting child support, Mr. Paré will pay Ms. Simard, for Gabrielle's needs, support of $597.87 per year, payable in advance at the beginning of every month in twelve (12) equal and consecutive payments of $49.66.
+This support payment will be indexed on January 1 each year, in accordance with section 590 of the Civil Code of Quebec following the annual index of support amounts established in accordance with section 119 of An Act respecting the Quebec Pension Plan;
+Given that the organization of Gabrielle's time is equally shared between both parents, the common expenses for the child, subject to the adjustment consisting in the support payment made by Mr. Paré to Ms. Simard as mentioned above, are assumed in equal proportion by the parents.
+Thus, clothing, sports equipment, school supplies, school fees and transportation fees, in the future, should be paid equally by both parents.
+Joint account:
+The parents will keep the joint account they currently have at the Royal Bank, Viau branch, for Gabrielle's benefit. In this account, the parents will deposit the Family Allowance and child tax benefits or their equivalent for purchasing items for Gabrielle, such as school supplies, sports equipment or other items upon which the parents will have agreed in advance. If one of the parents should incur medical expenses for Gabriel they will be paid from this same account. Since the father will keep Gabrielle as a beneficiary of the health insurance he has with the City of Montreal, he will deposit in the account the reimbursement he obtains from the insurance upon receipt of same.
+Clothing:
+In addition, the parents estimate annual clothing expenses at $1,000 per year for Gabrielle. Consequently, they will deposit $250 each in said account for Gabriel on August 20 every year and another $250 each [in] the same account on March 1 of every year.
+Small underclothing items will be purchased by one parent or the other equally and large clothing items, such as winter coats or boots, will be discussed in advance.
+Education Insurance:
+Furthermore, the parents intend to maintain the education insurance plan they currently pay for Gabriel at the rate of $25 per month, and consequently, they will each deposit $12.50 per month in the Royal Bank account, Viau branch, from which the transfer to the study savings account will be made.
+With regard to the child tax credit, the parents will share, alternating from one year to the next, the child tax credit for Gabrielle, claimed by the father in 1999, by the mother in 2000, and so forth, from one year to the next.
+With regard to childcare fees, the parents will pay the babysitter directly for the expenses incurred for Gabrielle each week in proportion to their incomes, this proportion being set at 58% for Mr. Paré and 42% for Ms. Simard. The parents estimate that daycare expenses will be approximately $4,664, or fifty (50) weeks at $88 and twelve (12) additional Wednesdays at $22. Each parent will claim tax deductions associated with the childcare they have paid.
+DIVISION OF ASSETS
+The parties have divided the property that furnished or decorated their common residence to their mutual satisfaction.
+With regard to the car, Ms. Simard will transfer it to Mr. Paré in exchange for $800 and her use of it until February 2000.
+The parties agree that the sharing of the car until February 15, 2000 will be done in good faith
+With regard to a loan of $13,500 for which the parties are responsible, Mr. Paré will assume $8,000 of it and Ms. Simard, $5,500 and they agree to sign the necessary documents at the Bank to make this agreement effective. If, during the course of repayment, which will take place from now until the end of December 1999, the balance of the loan is less than $13,500, the difference will deducted in equal proportions from each party's payment.
+Transitional Measures:
+Ms. Simard will leave the family home on or around December 5, 1999.
+The parties will take the necessary steps with the owner of the accommodation at 5147 de Repentigny in Montreal for a new lease signed solely by Mr. Paré.
+Ms. Simard will continue to be a beneficiary of the group insurance that Mr. Paré has with the City of Montrealuntil December 20, 1999 to whatever extent that his policy allows.
+The parents understand that they may revise their agreement regarding Gabrielle as necessary and following changes in their, and their child's, circumstances.
+NOTICE
+The parties are informed that this Summary of Understandings is neither a contract nor a judgment and consequently, it does not have legal force or effect in its current form.
+This document was designed in such as way as to enable the parties to seek independent legal counsel and then proceed to the writing of an Agreement for homologation by the competent Court, where relevant.
+In fact, for this Summary of Understanding to become effective and binding, it must undergo judicial control before a court of competent jurisdiction as soon as possible. Before taking this step, legal counsel is recommended.
+Moreover, the parties are bound, by their mediation contract, to not use as evidence, before a court, any document contained in the mediator's file, including this Summary of Understanding, in accordance with section 815.3 of the Civil Code of Quebec
+Following 6 mediation meetings, the parties arrived at a preliminary agreement that represented the total outcome of reflection on their common and respective needs as well as those of their child Gabriel.
+Montreal, December 9, 1999
+Violaine Belzile
+Lawyer and Certified Mediator
+Analysis
+[5] The provisions of the Income Tax Act (the "Act") that are relevant to my analysis purposes are:
+56.1(4) "support amount: - "support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and:
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+"Child support amount" - "child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common-law partner of the payer or who is a parent of a child of whom the payer is a natural parent.
+118(1)(b) Wholly dependent person - in the case of an individual who does not claim a deduction for the year because of paragraph 118(1)(a) and who, at any time in the year,
+(i) is
+(A) a person who is unmarried and who does not live in a common-law partnership, or
+(B) a person who is married or in a common-law partnership, who neither supported nor lived with their spouse or common-law partner and who is not supported by that spouse or common-law partner, and
+(ii) whether alone or jointly with one or more other persons, maintains a self-contained domestic establishment (in which the individual lives) and actually supports in that establishment a person who, at that time, is
+(A) except in the case of a child of the individual, resident in Canada,
+(B) wholly dependent for support on the individual, or the individual and the other person or persons, as the case may be,
+(C) related to the individual, and
+(D) except in the case of a parent or grandparent of the individual, either under 18 years of age or so dependent by reason of mental or physical infirmity,
+an amount equal to the total of
+- [translation] [Note from CCH: Despite the fact that the terminology used in this paragraph, the amounts that are expressed in dollars are subject to indexation, under subsection 117.1(1). In this regard, the amounts applicable are determined with the help of the Consumer Price Index.]
+(iii) $7,131, and
+(iv) the amount determined by the formula
+$6,055 - (D-$606)
+where
+D is the greater of $606 and the dependent person's income for the year,
+118(5) Support - No amount may be deducted under subsection (1) in computing an individual's tax payable under this Part for a taxation year in respect of a person where the individual is required to pay a support amount (as defined in subsection 56.1(4)) to the individual's spouse or former spouse in respect of the person and the individual
+(a) lives separate and apart from the spouse or common-law partner throughout the year because of the breakdown of their marriage or common-law partnership; or
+(b) claims a deduction for the year because of section 60 in respect of a support amount paid to the spouse or common-law partner or former spouse or common-law partner.
+[6] The provisions under subsection 118(5) of the Act clearly establish that a taxpayer who is required to pay support within the meaning of subsection 56.1(4) of the Act to a former common-law spouse when they have lived apart for an entire year, cannot claim the credit set out in paragraph 118(1)(b) of the Act. However, the amount of $597.87 paid in 2001 by Mr. Paré is not considered support within the meaning of subsection 56.1(4) of the Act unless it was paid under the terms of an order or written agreement. I must accordingly determine whether or not the Summary constitutes a written agreement.
+[7] Counsel for the Respondent maintains that the parties agreed verbally to respect the agreement set out in the Summary and thus have made the Summary a written agreement. Moreover, Mr. Paré has acknowledged in his testimony that he and his partner have always respected the agreement set out in the Summary. Mr. Paré's partner, however, did not testify.
+[8] It is appropriate to stress that it is clearly indicated in the Summary that it is not a contract and that the parties are not bound by that which is set out therein. According to these very terms, the Summary does not meet the conditions required to be a written agreement within the meaning of subsection 56.1(4) of the Act. In Reid v. M.N.R., 72 DTC 1540, Lucien Cardin, Assistant Chairman of the Tax Review Board, explains that the English expression "written agreement" must be narrowly interpreted:
+. . . These words, in my opinion, must be interpreted strictly and the words "written agreement" in a context which includes a decree, order or judgment of a competent tribunal must, of necessity, mean a formal agreement between the parties concerned.
+[9] As it is expressly set out that the Summary is not binding on the parties, it cannot be considered a formal agreement of the type required by the Act.
+[10] While it may be that a verbal agreement existed and was proven, it nonetheless remains that it is only a verbal agreement. The provisions of subsection 56.1(4) of the Act are clear. The provisions set out unequivocally that the agreement must be written. As Guy Tremblay of the Tax Review Board stresses in Milburn v. M.N.R., 79 DTC 24, on page 25:
+The Board is of the opinion that a verbal agreement becomes a written agreement only when it is signed by the parties.
+If persons have participated in [a] written but unsigned agreement and have complied with it, the document may serve to prove a verbal contract but that is all. Moreover, a verbal contract is not a written contract.
+[11] In 1981 in Jacoby v. M.N.R., 81 DTC 843, Guy Tremblay, of the Tax Review Board concluded on page 862:
+[translation]
+It thus follows that occasionally in merely speaking of an "agreement" or a "contract", it does not need to be said that it is written and signed, that would be redundant because of the very nature of a contract. But when the lawmaker however, goes to the trouble of saying "written agreement", it seems to the Board that that written agreement must necessarily be signed.
+[12] For these reasons, I am of the opinion that the Appellant was not required to pay child support within the meaning of subsection 56.1(4) of the Act, as he and his former partner did not have a written agreement. Consequently, the provision under subsection 118(5) of the Act cannot prevent the Appellant from claiming the credit under paragraph 118(1)(b) of the Act.
+[13] The appeal is allowed.
+Signed at Ottawa, Canada, this 12th day of January 2004.
+"Paul Bédard"
+Bédard, J.
+Translation certified true
+on this 3rd day of May 2004.
+Sharon Moren, Translator

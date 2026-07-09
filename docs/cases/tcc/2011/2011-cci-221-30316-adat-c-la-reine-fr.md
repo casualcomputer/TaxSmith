@@ -1,0 +1,185 @@
+---
+title: "Adat c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30316/index.do"
+last_modified: "2011-04-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 221"
+citation2: ""
+neutral_citation: "2011 CCI 221"
+decision_date: "2011-04-20"
+language: "fr"
+item_id: "30316"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8065
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:55:28.136000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fd0df07e327e14624d1d5497adfe83f7f2835fd30c2d1e0ee3e9a4935559be55"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Adat c. La Reine
+
+- Citation: 2011 CCI 221
+- Decision date: 2011-04-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8065, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Adat c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-04-20
+Référence neutre
+2011 CCI 221
+Numéro de dossier
+2009-2588(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2588(IT)G
+ENTRE :
+SABRINA ADAT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 13 avril 2011, à Toronto (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me Alnaz I. Jiwa
+Avocat de l’intimée :
+Me Ian Theil
+JUGEMENT
+L’appel de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est rejeté sans frais.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2011.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+Ce 11e jour de août 2011.
+François Brunet, réviseur
+Référence : 2011 CCI 221
+Date : 20110420
+Dossier : 2009-2588(IT)G
+ENTRE :
+SABRINA ADAT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] Mme Adat interjette appel de sa cotisation de 2006, laquelle incluait dans son revenu 39 300 $ au titre des montants de pension alimentaire pour enfants, au motif que les versements de pension alimentaire pour enfants avaient été effectués aux termes d’une ordonnance de 1996 et étaient donc assujettis à l’ancien régime d’imposition des versements de pension alimentaire pour enfants. Mme Adat soutient que l’ordonnance de 1996 a été modifiée par une ordonnance subséquente de 2006, laquelle modifiait une ordonnance précédente de 2000, et que, par conséquent, conformément à l’alinéa 56(1)b) de la Loi de l’impôt sur le revenu (la Loi) et à la définition de « date d’exécution » énoncée dans la Loi, c’est le nouveau régime d’imposition des versements de pension alimentaire pour enfants qui doit jouer.
+[2] Mme Adat et son ex-époux, M. Nurani, se sont mariés en 1987 à Vancouver et se sont séparés en 1992. Leur unique enfant, Alisha Nurani, est née en 1991. En 1994, Mme Adat a obtenu une ordonnance de la Cour supérieure de la Colombie‑Britannique qui lui accordait la garde exclusive et lui permettait également, ainsi qu’à son enfant, de déménager à Toronto. L’ordonnance fixait également le montant des versements de pension alimentaire pour enfants à 1 150 $ par mois.
+[3] En juillet 1995, la Cour supérieure de la Colombie-Britannique a modifié le montant de la pension alimentaire pour enfants, qu’il a fixé à 850 $ par mois.
+[4] Le 8 juillet 1996, le juge Lissaman de la Cour de l’Ontario (Division générale) a rendu une ordonnance portant notamment :
+[TRADUCTION]
+2. LA COUR ORDONNE à l’intimé de verser à la requérante une pension alimentaire pour enfants de 1 150,00 $ le premier jour de chaque mois, à compter du 1er juillet 1996, tant que l’enfant sera un « enfant à charge » au sens de la Loi sur le divorce (Canada); ce montant sera majoré à la date anniversaire en proportion de l’augmentation de l’IVC publié par Statistique Canada pour tout le Canada.
+[5] Le 20 juin 2000, le juge O’Connell de la Cour supérieure de justice de l’Ontario a rendu une ordonnance portant notamment :
+[TRADUCTION]
+1. L’intimé continuera de payer la pension alimentaire pour enfants de 1 050 $ par mois.
+2. Il est sursis à l’exécution des arriérés de pension alimentaire pour enfants de plus de 17 000,00 $ jusqu’à la conférence préparatoire fixée au 11 août 2000.
+3. L’intimé aura pendent l’été un droit de visite de l’enfant, Alisha, du 30 juin 2000 au 31 juillet 2000, ou du 31 juillet 2000 au 31 août 2000, à condition qu’il avise la requérante dans les cinq jours, à compter d’aujourd’hui, du moment où il exercera ce droit de sortie.
+[6] Le 18 mai 2006, le juge O’Connell a rendu l’ordonnance suivante :
+[TRADUCTION]
+1. En vertu du paragraphe 59.06(1) des Règles de procédure civile, en raison de l’erreur contenue dans l’ordonnance précédente du juge O’Connell, datée du 20 juin 2000, l’ordonnance est par les présentes rectifiée par la suppression du paragraphe 1 de cette ordonnance et son remplacement par le paragraphe 1 qui suit : [traduction] « L’intimé doit continuer de payer la pension alimentaire pour enfants actuelle de 1 150 $ par mois. L’ordonnance du juge Lissaman datée du 8 juillet 1996 est prorogée. »
+[7] Il convient de noter que le juge O’Connell a inscrit à la main la mention suivante au moment de la requête de 2006 :
+[TRADUCTION]
+Une ordonnance sera rendue conformément à ce qui a été demandé au paragraphe 1, en la forme approuvée par les avocats – aucune ordonnance relativement aux dépens.
+Après avoir entendu les observations des avocats, et selon le paragraphe 59.06(1) des Règles, je conclus que l’ordonnance du 20 juin 2000 comportait une erreur et que cette ordonnance aurait dû énoncer que la pension alimentaire actuelle de 1 150 $ est prorogée - c’est-à-dire que l’ordonnance du juge Lissaman, datée du 8 juillet 1996, est prorogée. Une ordonnance sera rendue en conséquence.
+[8] Le paragraphe 1 auquel le juge O’Connell faisait allusion est vraisemblablement le paragraphe 1 de l’avis de requête de M. Nurani, qui est ainsi rédigé :
+[TRADUCTION]
+Rendre l’ordonnance ou les ordonnances demandées aux termes de la présente requête :
+1. Une ordonnance, en vertu du paragraphe 59.06(1) des Règles de procédure civile, corrigeant l’ordonnance du juge O’Connell, datée du 20 juin 2000, et corrigeant une erreur numérique contenue dans cette ordonnance, commise par inadvertance, en modifiant la mention du montant de 1 050,00 $ par mois énoncée au paragraphe 1, pour la remplacer par le montant de 1 150,00 $ par mois.
+[9] M. Nurani n’a pas fait preuve de beaucoup de diligence au cours des premières années pour ce qui était de s’acquitter de son obligation d’effectuer les versements de pension alimentaire pour enfants. En effet, un registre de versements de pension alimentaire du Programme d’exécution des ordonnances de pension alimentaire (le « PEOPA ») de la Colombie-Britannique indique des montants dus en 1997, 1998, 1999 et 2000, y compris les ajustements au titre de l’indemnité de vie chère (l’« IVC »), jusqu’à la fin de mars 2000, totalisant 39 073 $, dont M. Nurani n’avait payé que 19 450 $. En juillet 2000, vraisemblablement par suite de l’ordonnance de 2000 modifiant (par erreur) les versements pour les porter à 1 050 $, le relevé de compte du PEOPA indiquait seulement 1 050 $ dus par mois, sans aucun ajustement au titre de l’IVC. En juillet 2006, le PEOPA a de nouveau modifié ses registres de manière à tenir compte de l’obligation de payer 1 150 $ (de nouveau vraisemblablement à la suite de l’ordonnance de 2006 du juge O’Connell modifiant l’ordonnance de 2000), mais de nouveau sans tenir compte d’aucun ajustement au titre de l’IVC.
+[10] En 2006, M. Nurani a fait neuf versements de 1 150 $, un de 1 500 $, deux de 1 650 $, un de 5 000 $ et un de 19 000 $ au PEOPA. Le PEOPA a continué de percevoir des versements de M. Nurani tout au long des années 2007 et 2009 aux montants de 1 650 $, 1 400 $, 1 050 $ et, à partir de 2007, de 1 150 $. Le PEOPA indiquait dans ses registres, à partir de juin 2006, une obligation de payer seulement 1 150 $, sans aucun ajustement au titre de l’IVC. Dans un relevé de versements effectués pour la période de janvier 2006 à juin 2009, le PEOPA indique :
+[TRADUCTION]
+Le résumé de compte n’inclut pas 48 300 $ que nous détenons actuellement et que nous attendons de distribuer.
+[11] Personne du PEOPA n’a témoigné quant à savoir comment ou pourquoi cette importante somme avait été accumulée. Mme Adat a émis l’hypothèse que c’était pour l’éducation de sa fille ou à titre de sorte de garantie accumulée obtenue de M. Nurani, étant donné ses antécédents.
+La question en litige
+[12] Mme Adat est-elle tenue d’inclure dans son revenu le montant des versements de pension alimentaire pour enfants qu’elle a reçus en 2006? La réponse à cette question dépend de l’interprétation de l’alinéa 56(1)a) de la Loi et de la définition de « date d’exécution ». Voici ces textes :
+56.(1) Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+[…]
+b) le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a reçue après 1996 et avant la fin de l’année d’une personne donnée dont il vivait séparé au moment de la réception de la pension,
+B le total des montants représentant chacun une pension alimentaire pour enfants que la personne donnée était tenue de verser au contribuable aux termes d’un accord ou d’une ordonnance à la date d’exécution ou postérieurement et avant la fin de l’année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a reçue de la personne donnée après 1996 et qu’il a incluse dans son revenu pour une année d’imposition antérieure;
+[…]
+(4) Les définitions qui suivent s’appliquent au présent article et à l’article 56.
+[…]
+« date d’exécution » Quant à un accord ou une ordonnance :
+a) si l’accord ou l’ordonnance est établi après avril 1997, la date de son établissement;
+b) si l’accord ou l’ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l’accord ou de l’ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l’accord ou l’ordonnance fait l’objet d’une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d’exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l’accord ou l’ordonnance, ou dans toute modification s’y rapportant, pour l’application de la présente loi.
+[…]
+[13] Ces dispositions législatives ont radicalement modifié le régime d’imposition des pensions alimentaires pour enfants par rapport à la période antérieure à juin 1997, alors que le bénéficiaire devait en inclure les montants dans son revenu. Après mai 1997, le bénéficiaire n’était plus tenu de le faire.
+[14] Aussi, pour décider si Mme Adat est assujettie à l’ancien ou au nouveau régime, conformément à la démarche proposée par la Cour d’appel fédérale dans la jurisprudence Holbrook c. R[1], il faut d’abord rechercher : aux termes de quel accord ou de quelle ordonnance le montant était-il payable?
+[15] Les ordonnances à examiner à cet égard sont l’ordonnance de 1996 du juge Lissaman et l’ordonnance de 2000 du juge O’Connell, rectifiée en 2006 en vertu de la « règle du lapsus » prévue au paragraphe 59.06(1) des Règles de procédure civile[2] de l’Ontario. Si je prends l’ordonnance du juge O’Connell et j’y insère ces mots dans l’ordonnance de 2000, l’ordonnance de 2000 se lit comme suit :
+[TRADUCTION]
+1. L’intimé doit continuer de payer la pension alimentaire pour enfants actuelle de 1 150,00 $ par mois. L’ordonnance du juge Lissaman datée du 8 juillet 1996 est prorogée.
+[16] Peu importe comment cette ordonnance doit être interprétée, il est clair que le juge O’Connell entendait que les versements soient faits aux termes de l’ordonnance de 1996. Son emploi des mots [TRADUCTION] « continuer » et [TRADUCTION] « prorogée » dans les deux phrases de ce paragraphe tend certainement à indiquer que telle était son intention.
+[17] Deuxièmement, il faut rechercher si cette ordonnance comporte une date d’exécution. C’est l’interprétation de l’ordonnance qui est au cœur du litige quant à la réponse à cette deuxième question. L’appelante soutient que tout ce qui était demandé au juge O’Connell, et tout ce qu’il a fait, était de modifier le montant de 1 050 $ pour l’établir à ce qu’il aurait dû être, soit 1 150 $, et qu’il n’y avait aucune intention de rétablir, en recourant à la règle du lapsus, l’exigence d’un ajustement au titre de l’IVC. L’intimée rejette cette thèse, et elle fait valoir que l’ordonnance du juge O’Connell dit ce qu’elle dit, et que, chose plus importante, ses mentions manuscrites indiquent clairement que, non seulement le juge maintenait-il l’exigence de 1 150 $ par mois, mais il précisait également que l’ordonnance de 1996 devait demeurer en vigueur, et que cette ordonnance comportait l’exigence d’un ajustement au titre de l’IVC. Soit dit avec déférence, une ambiguïté a subsisté. Le PEOPA ne semble pas avoir modifié ses registres de manière à tenir compte de quelque exigence que ce soit relative à l’ajustement au titre de l’IVC. L’intimée concède que, si j’interprète l’ordonnance de 2000 modifiée comme écartant l’exigence relative à l’IVC, cela constitue alors une modification du montant de la pension alimentaire pour enfants, et le nouveau régime joue alors par l’effet de la définition de « date d’exécution » énoncée au sous-alinéa 56.1(4)b)(ii).
+[18] En dernière analyse, tout dépend de ce que le juge O’Connell a voulu dire lorsqu’il a écrit [traduction] « c’est-à-dire que l’ordonnance du juge Lissaman, datée du 8 juillet 1996, est prorogée ». Voulait-il dire que l’obligation à la charge de M. Nurani se chiffrait à seulement 1 150 $, ou à 1 150 $ plus l’IVC?
+[19] L’avocat de l’appelante a avancé quelques arguments à cet égard. Premièrement, en s’appuyant sur des principes tirés des règles d’interprétation des contrats, il a soutenu que les dispositions particulières dérogent aux dispositions générales et que la première phrase du juge O’Connell énonce expressément 1 150 $ sans mention de l’IVC, et c’est cette disposition qui doit prévaloir. Deuxièmement, il soutient que, si le juge O’Connell avait vraiment voulu que l’ordonnance 1996 s’appliquât à tous égards, il n’aurait pas eu besoin d’inclure la première phrase. Cela porte à croire que la réflexion après coup, [traduction] « c’est-à-dire que l’ordonnance du juge Lissaman, datée du 8 juillet 1996, est prorogée » était gratuite et ne visait pas à modifier aussi fondamentalement l’ordonnance originale de 2000, qui n’avait clairement pas retenu l’obligation relative à l’IVC.
+[20] Malheureusement, je dispose de peu d’éléments de preuve de ce qui a été dit devant le juge O’Connell, bien que je note que l’avis de requête se borne à invoquer la « règle du lapsus » pour demander de remplacer 1 050 $ par 1 150 $, avec la formule générale habituelle [traduction] « et tout autre mesure que la Cour estimera juste, le cas échéant ». Le juge O’Connell a-t-il estimé juste que Mme Adat continue de recevoir l’IVC, en reconnaissant qu’elle continuerait de devoir assumer le fardeau fiscal? Ou a-t-il estimé juste qu’elle reçoive seulement les 1 150 $ par mois sans ajustement au titre de l’IVC et sans fardeau fiscal? Une seule personne le sait avec certitude, et cette personne n’a pas comparu devant moi.
+[21] Si le juge O’Connell n’avait pas ajouté [traduction] « c’est-à-dire que l’ordonnance du juge Lissaman, datée du 8 juillet 1996, est prorogée », j’aurais aisément conclu que l’ordonnance de 2000 modifiait le montant de pension alimentaire pour enfants en écartant l’exigence de l’ajustement annuel au titre de l’IVC, que, par conséquent, le nouveau régime s’appliquait et que Mme Adat n’était pas imposable. Il appert que le PEOPA n’a calculé aucun ajustement au titre de l’IVC après l’ordonnance de 2000. Malheureusement, on ne sait toujours pas si une part quelconque des 48 000 $ de versements excédentaires que le PEOPA avait perçus de M. Nurani avait quoi que ce soit à voir avec un ajustement au titre de l’IVC. Sur le plan pratique, il m’est notamment possible de prendre l’ordonnance du juge O’Connell telle quelle et considérer que l’ordonnance de 1996, y compris l’IVC, est encore en vigueur, puis communiquer au PEOPA une copie de cette conclusion de manière à ce que les responsables de l’administration de ce programme puissent calculer les arriérés en fonction des ajustements au titre de l’IVC à ce jour et payer Mme Adat en conséquence. Il serait inacceptable de conclure que Mme Adat est imposable uniquement à l’égard des versements de 1 150 $, puisque cela signifierait que l’ordonnance de 1996 avait effectivement été modifiée par la suppression de l’exigence de l’ajustement au titre de l’IVC.
+[22] Bien que je ne sois pas certain que le juge O’Connell a pensé à l’IVC, je ne saurais faire fi de son affirmation explicite selon laquelle l’ordonnance de 1996 devait demeurer en vigueur. Cette affirmation exclut expressément toute interprétation en faveur d’une quelconque intention de modifier l’ordonnance. Je reconnais que cela semble aller au-delà de ce qui était demandé par l’avis de requête, mais je ne sais pas ce qui a été plaidé devant le juge O’Connell, de sorte que je ne peux pas savoir si les plaidoiries ont porté uniquement sur le remplacement du montant de 1 050 $ par le montant de 1 150 $. Il est clair que le juge O’Connell a ressenti le besoin d’en dire davantage, et il a dû avoir des motifs de le faire. Je reconnais qu’il s’agit d’une conclusion malheureuse pour Mme Adat, mais, autrement, je fermerais complètement les yeux sur le libellé explicite de l’ordonnance du juge O’Connell, sur le seul fondement de conjectures. Or, je ne suis pas disposé à le faire.
+[23] La Cour n’a pas le pouvoir d’ordonner au PEOPA d’agir de telle ou telle manière, mais je recommanderais certainement à Mme Adat de transmettre une copie des présents motifs au PEOPA, pour que les responsables de l’administration du programme sachent que la Cour est d’avis que M. Nurani est tenu, aux termes de l’ordonnance du juge O’Connell, de payer, non seulement les 1 150 $ par mois, mais aussi tous les ajustements de ce montant au titre de l’IVC, comme l’exige l’ordonnance de 1996. Je présume que le PEOPA versera ces fonds à Mme Adat le plus tôt possible, étant donné les fonds excédentaires considérables en sa possession.
+[24] Je rejette l’appel de Mme Adat, mais, dans les circonstances, je ne rends aucune ordonnance contre elle relativement aux dépens.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2011.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+Ce 11e jour de août 2011.
+François Brunet, réviseur
+RÉFÉRENCE : 2011 CCI 221
+No DU DOSSIER DE LA COUR : 2009-2588(IT)G
+INTITULÉ : SABRINA ADAT ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 13 avril 2011
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 20 avril 2011
+COMPARUTIONS :
+Avocat pour l’appelante :
+Me Alnaz I. Jiwa
+Avocat de l’intimée :
+Me Ian Theil
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Alnaz I. Jiwa
+Cabinet : Jiwa & Associates
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2007 CAF 145.
+[2] R.R.O. 1990, Règlement 194.

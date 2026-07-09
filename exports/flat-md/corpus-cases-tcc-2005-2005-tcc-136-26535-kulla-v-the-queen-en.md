@@ -1,0 +1,153 @@
+---
+title: "Kulla v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26535/index.do"
+last_modified: "2005-02-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 136"
+citation2: ""
+neutral_citation: "2005 TCC 136"
+decision_date: "2005-02-25"
+language: "en"
+item_id: "26535"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3217
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:58:49.683000+00:00"
+cases_cited_count: 2
+cases_citing_count: 9
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "189b317f8bc0a3ebd9e392693a914f1ffb46ce44b0be81cb67f53a14110e2bfa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kulla v. The Queen
+
+- Citation: 2005 TCC 136
+- Decision date: 2005-02-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3217, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kulla v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-25
+Neutral citation
+2005 TCC 136
+File numbers
+2003-1672(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2005TCC136
+Date: 20050225
+Docket: 2003-1672(IT)G,
+2003-1686(IT)G,
+BETWEEN:
+SANDIA MOUNTAIN HOLDINGS INC.
+and ELIZABETH KULLA,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Counsel for the Appellants: Richard Fitzsimmons and Greg Baba (Student-at-law)
+Counsel for the Respondent: Bobby Sood
+____________________________________________________________________
+REASONS FOR ORDER
+(Delivered orally from the Bench at
+Toronto, Ontario, on December 15, 2004)
+Miller J.
+[1] At the outset of an application by the Appellants, Sandia Mountain Holdings Inc. and Elizabeth Kulla, for the striking of portions of the Respondent's Amended Reply pursuant to Rule 53, the Respondent raised the applicability of Rule 8, which reads:
+8 A motion to attack a proceeding or a step, document or direction in a proceeding for irregularity shall not be made,
+(a) after the expiry of a reasonable time after the moving party knows or ought reasonably to have known of the irregularity, or,
+(b) if the moving party has taken any further step in the proceeding after obtaining knowledge of the irregularity,
+except with leave of the Court.
+It was the Respondent's position that Rule 8 applied to these matters, and that the Appellants' motion could not be made, as it was not brought within a reasonable time after the Appellants knew of the irregularities in the pleadings. In any event, the Appellants had taken several other steps in the proceedings.
+[2] The Appellants' position was that Rule 8 refers to irregularities, and what the Appellants believe are improper pleadings go far beyond irregularities. Consequently, Rule 8 does not apply, and I should proceed to hear their application on the merits.
+[3]It is helpful to review the time line of the proceedings in this matter to date. The Appellants filed their notices of appeal on April 30, 2003. The Respondent filed the Reply on July 7, 2003. On July 28, 2003, the Appellants filed demands for particulars and notices of motion to strike portions of the Replies. I note that many of the portions requested to be struck in July 2003 are the same as in the current motion from the Appellants.
+[4] The Respondent responded to the demand for particulars by September 5, 2003 and filed amended Replies on October 1, 2003. On October 15, the Appellants withdrew their motions to strike portions of the pleadings. In January 2004, the Appellants served their list of documents. In February the Respondents served its lists of documents. In April, 2004, Mr. Sood replaced Mr. Calabrese as counsel for the Respondent.
+[5] The Parties held examinations for discovery on June 22 and June 23, 2004, with the Respondent discovering Ms. Kulla for two days and the Appellants discovering the Respondent's witness, Mr. Maciel, for two-and-one-half hours one evening. Undertakings were exchanged by the end of August 2004. On November 30, 2004, the Appellants filed notices of motion to strike portions of the amended Replies.
+[6] I find the Appellants have waited too long and undertaken too many steps for this Court to grant it leave pursuant to Rule 8. I am satisfied that Rule 8 can apply to a motion brought pursuant to Rule 53; that is, that an application to strike out portions of pleadings is subject to what is called the fresh-step rule.
+[7] Justice Rip, in Gee v. The Queen,[1] after referring to Rule 8, stated:
+Where an applicant has delayed for as long as the appellant has in bringing a motion to strike or has taken fresh steps after being served with a pleading, I normally would reject the applicant's motion. ...
+Similarly, Justice Bowman, in Imperial Oil Limited et al. v. The Queen,[2] indicated:
+The "fresh-step" rule is one that has been part of the rules of practice and procedure in Canada and the United Kingdom for many years. There is a great deal of jurisprudence on what constitutes a fresh step but the rule is based on the view that if a party pleads over to a pleading this implies a waiver of an irregularity that might otherwise have been attacked. ...
+Yet both Justice Rip and Justice Bowman went on to consider the motion to strike the pleadings and did not apply Rule 8. Justice Rip said in Gee:
+... However, in the matter before me, the Reply is so deficient that to dismiss the motion would lead to fractious examinations for discovery and lengthen unduly the trial of the appeal. ...
+Justice Bowman put it this way:[3]
+... a rather wide-ranging attack on the appellants right to appeal, including allegations that this court has no jurisdiction, that the appeals are frivolous, vexatious, and an abuse of process is hardly an attack on an irregularity.
+I conclude that my colleagues consider gross deficiencies to be something more than irregularities, and for that reason Rule 8 does not come into play.
+[8] Are the Appellants' concerns with the Respondent's pleadings in this case such that they go well beyond irregularities, justifying an application to amend, after both a list of documents have been exchanged and, indeed, examinations have been conducted?
+[9] One of Justice Rip's concerns was that to preclude the application to strike pleadings would lead to fractious examinations. It appears the strategy of the Appellants was to conduct the fractious examinations first, and now seek to amend. I am concerned that the Appellants had their opportunity at an appropriate time -- that is, back in the summer of 2003 -- and decided at that time not to continue with their application to strike, but to proceed with the next two steps of the proceeding.
+[10] At this stage, to rekindle that application, I suggest, would require such a serious, substantial breach of the rules of proper pleading, such that it would indeed constitute an abuse of process.
+[11] So let us look at the Appellants' concerns with respect to the pleadings. While they raised nine points of argument attacking the propriety of the pleadings, I glean four major thrusts of criticism: (i) the Respondent's submissions do not completely correspond to the Appellants' allegations; (ii) inappropriate pleading of conclusions of law when placing them in assumptions or not supporting them by facts; (iii) vagueness with respect to misrepresentations, and specifically the term "personal expenses"; and (iii) irrelevancy.
+[12] First, I will deal with admissions that do not totally correspond with the allegations. For example, where the Appellants alleged making year-end adjusting debits, the Respondent admitted the year-end adjustments, but added the words "to reduce its income", which is not part of the Appellants' allegations. While this may be inappropriate pleading, I do not see it as anything more than an irregularity, and certainly something that a trial judge could easily distinguish.
+[13] Second, with respect to the conclusions of law, regrettably, this is not an uncommon error in pleadings. In this case I do not find the Appellants' claims of inappropriate pleadings of conclusions of law significant or severe. By way of example, the Appellants object to the Respondent's assumption of a conferring of shareholder benefits on the Appellants. The Appellants' position is that whether or not such benefits were conferred is a conclusion of law. The Respondent submits this is more a question of fact.
+[14] I raise this example not for the purpose of determining the issue, but to illustrate that the objection is not one that I would clarify as so deficient as to constitute an abuse of process. The other concerns in this area are of a similar nature. Looking at the pleadings which the Appellants claim fall in this category as a whole, I find they are more readily characterized as irregularities.
+[15] Third, the Appellants' attack on the pleadings for vagueness would have been more readily handled by a demand for particulars. This concern revolves around the Respondent's use of the term "personal expenses". For example, assumption 15(s) reads:
+(s) the year-end entries resulted in Sandia expensing the Appellants' personal expenses in its books in the 1993 and 1994 taxation years.
+Even if I were to find that was vague, again, it is not such an egregious error as would warrant sidestepping Rule 8.
+[16] Finally, with respect to those objections on the basis of not being relevant, I disagree with the Appellants' assertion that such pleadings are scandalous. Indeed, I do not believe as a motions' judge I am in the best position to even determine the relevance.
+[17] I note the comments of Justice Bowman in Niagara Helicopter v. Canada,[4] where he found it was inappropriate for a motions judge who has heard no evidence to decide on the relevance of the allegations in the pleadings, indicating that should best be left to the trial judge.
+[18] When I look at the Respondent's reply as a whole, considering all of the Appellants' objections, I simply do not find such oppressive or vexatious errors that justify giving the Appellants a second chance to strike the pleadings. Yes, there may be irregularities, but the Appellants made a decision a year ago to not attack these provisions. I believe they must now abide by the consequences of that decision, and that Rule 8 does preclude them from bringing an application at this stage to strike portions of the Reply.
+[19] For these reasons, the Appellants' motion to strike is dismissed. Costs of this application to the Respondent.
+Signed at Ottawa, Canada, this 25th day of February, 2005.
+"CampbellJ. Miller"
+Miller J.
+CITATION:
+2005TCC136
+COURT FILE NO.:
+2003-1672(IT)G and 2003-1686(IT)G
+STYLE OF CAUSE:
+Sandia Mountain Holdings Inc. and
+Elizabeth Kulla and Her Majesty the Queen
+PLACE OF HEARING
+Toronto, Ontario
+DATE OF HEARING
+December 14 and 15, 2004
+REASONS FOR ORDER BY:
+The Honourable Judge Campbell J. Miller
+DATE OF ORDER:
+January 18, 2005
+APPEARANCES:
+Counsel for the Appellants:
+Richard Fitzsimmons and
+Greg Baba (Student-at-law)
+Counsel for the Respondent:
+Bobby Sood
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Richard Fitzsimmons
+Firm:
+Fitzsimmons & Company
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2003 DTC 1020 at paragraph 11.
+[2] 2003 DTC 179 at paragraph 20.
+[3]
+supra, at paragraph 20.
+[4] [2003] T.C.J. No. 65.

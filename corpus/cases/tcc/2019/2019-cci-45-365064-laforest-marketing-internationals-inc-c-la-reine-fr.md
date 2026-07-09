@@ -1,0 +1,203 @@
+---
+title: "Laforest Marketing Internationals Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/365064/index.do"
+last_modified: "2019-03-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 45"
+citation2: ""
+neutral_citation: "2019 CCI 45"
+decision_date: "2019-03-04"
+language: "fr"
+item_id: "365064"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4306
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:24:03.190000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ce39399d16e7b4e722d1179638577ab53a232c91c080de1fa82a20230459544c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Laforest Marketing Internationals Inc. c. La Reine
+
+- Citation: 2019 CCI 45
+- Decision date: 2019-03-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4306, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laforest Marketing Internationals Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-03-04
+Référence neutre
+2019 CCI 45
+Numéro de dossier
+2017-3334(IT)I
+Juges et Officiers taxateurs
+Jean Gilles Lebel
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-3334(IT)I
+ENTRE :
+LAFOREST MARKETING INTERNATIONALS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 5 décembre 2018, à Montréal, Québec.
+Devant : L’honorable juge J.G. Lebel
+Comparutions :
+Représentant de l'appelant :
+M. Yves Hamelin
+Avocat de l'intimée :
+Me Gabriel Girouard
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année se terminant le 30 juin 2015 est rejeté.
+Signé à Hamilton, Canada, ce 4e de mars 2019.
+« Jean-Gilles Lebel »
+J.S. Lebel
+Référence : 2019 CCI 45
+Date : 4 mars 2019
+Dossier : 2017-3334(IT)I
+ENTRE :
+LAFOREST MARKETING INTERNATIONALS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+J.S. Lebel
+I. Introduction
+[1] L’appel sous la procédure informelle découle d’un avis de cotisation émis le 27 juillet 2016 pour l’année d’imposition se terminant le 30 juin 2015. L’appelante a produit un avis d’opposition le 29 septembre 2016. Le 11 août 2017, avant que le ministre avise l’appelante de sa décision, l’appelante interjeta appel à la cour canadienne de l’impôt.
+II. Aperçu
+[2] Laforest Marketing Internationals Inc. (ci-après l’appelante) a été fondée en 2002 et exploite une entreprise qui offre des services de consultation auprès des PME du Québec.
+[3] Madame Martine Laforest est sa présidente et principale actionnaire. Elle détient un baccalauréat en administration des affaires.
+[4] L’année fiscale de l’appelante se termine le 30 juin.
+[5] En 2015, l’appelante a produit une demande de crédit d’impôt pour des dépenses découlant d’un projet de recherche scientifique et développement expérimental (ci-après RS&DE) d’un récupérateur de vaporisation d’eau Spray Catcher innovation en brumisation (ci-après « Spray Catcher »), effectué durant la période du 1er juillet 2014 au 30 juin 2015.
+[6] Le projet Spray Catcher était le développement d’un produit pour récupérer l’eau lors de la vaporisation de la feuille de plantes intérieures. Plusieurs prototypes ont été développés avec différentes formes géométriques dans le but de répondre à plusieurs contraintes soit celles de la résistance, la flexibilité, le poids, la facilité de manipulation, les matériaux et la facilité d’entreposage.
+[7] Le montant des dépenses réclamées était de 27 661 $ et le crédit d’impôt pour RS&DE était de 7 043 $.
+[8] Le 25 mai 2016, le ministre a transmis un rapport d’examen technique et les résultats de la vérification à l’appelante (monsieur Jonathan Assouline, conseiller à la recherche et technologie a fait l’examen technique). Le ministre décida que le projet ne rencontrait pas la définition de RS&DE selon le paragraphe 248(1) de la Loi de l’impôt sur le revenu (ci-après « LIR » ).
+III. Les questions en litige
+[9] Les questions en litige sont les suivantes :
+a) L’intimée est-elle fondée de refuser les dépenses de RS&DE réclamées par l’appelante pour le projet de RS&DE présenté pour l’année fiscale se terminant le 30 juin 2015 ?
+b) Plus précisément, le projet mené par l’appelante durant l’année fiscale en question et pour lequel elle a réclamé des crédits pour RS&DE peut-il faire partie des projets de RS&DE conformément aux articles 37 et 248 de la loi ?
+IV. Preuve lors de l’audience
+[10] Madame Laforest expliqua le détail des dépenses pour les sous-traitants contenues à l’onglet 13 de la pièce A-1, ainsi que le détail des dépenses pour les matériaux contenues à l’onglet 14 de la pièceA-1. Essentiellement, elle voulait un instrument pour récupérer l’eau sur les plantes pour ne pas qu’elle aille sur les planchers et les meubles.
+[11] Les problèmes techniques étaient la facilité d’utilisation, un assemblage en 20 secondes, une adaptation à plusieurs plantes, l’esthétique et rangement facile.
+[12] Les photos de différents prototypes sont aux onglets 7 et 9 de la pièce A-1. Suite au prototype A-7 (pièce A-7), on décida de procéder à un premier banc d’essai avec des utilisateurs à Ottawa et Mirabel. Les utilisateurs ont répondu que le produit était encombrant, difficile à ranger et à installer et non esthétique.
+[13] Elle a donc consulté Genia Design qui a développé un nouveau concept, soit celui où l’amateur de la plante se déplace vers la plante. Madame Laforest présenta donc les prototypes B.
+[14] Elle commença a chercher des matériaux appropriés et elle s’est donc tournée vers le plastique polyéthylène. Il existe du polyéthylène en rouleau et en feuille. Elle a choisi celui en rouleau pour son projet. Elle a ensuite fait deux prototypes avec le polyéthylène en rouleau pour son projet, un avec un polyéthylène à densité moyenne et l’autre à haute densité.
+[15] Un deuxième banc d’essai a été fait avec les deux prototypes. Les utilisateurs ont rapporté que le prototype à densité moyenne cassait, qu’il voulait une poignée et que les coins soient arrondis.
+[16] Suite à ce banc d’essai, Madame Laforest est passée à l’étape de la fabrication et elle a alors rencontré un problème qu’elle décrit de technique, soit le fait qu’elle voulait que les Spray Catcher ait une durée de vie d’au moins deux ans mais selon les spécialistes consultés, le polyéthylène en rouleau qu’elle avait choisi casserait avant deux ans.
+[17] Madame Laforest a donc choisi d’utiliser le plastique polypropylène qui était seulement disponible en feuille avec une épaisseur de 23mm.
+[18] On a par la suite demandé à une firme de faire une matrice. Madame Laforest a utilisé les services d’un premier fournisseur pour faire la production avec une presse, mais les plis n’étaient pas satisfaisants. Elle a donc recherché un autre fournisseur qui utilisait une méthode rouleau. Madame Laforest a décrit cela comme étant le premier problème. Le deuxième problème était la soudure du plastique.
+[19] Elle a donc constaté qu’elle devait trouver une nouvelle façon de souder le plastique pour avoir les résultats nécessaires. Elle fit donc plusieurs recherches auprès de diverses entreprises et à consulté un professeur en matériaux composites au cégep de Saint-Jérôme car elle n’avait pas les connaissances nécessaires. Elle a pu trouver une entreprise, Repaco, qui a développé un nouvel équipement, une mini presse, pour pouvoir faire la soudure voulue en plastique. Repaco a fait la demande de RS&DE pour cet équipement. Madame Laforest était présente à 80 % lors du développement de cet équipement.
+[20] Il a fallu beaucoup de recherches auprès de plusieurs fournisseurs concernant la poignée du Spray Catcher.
+[21] Au sujet des apprentissages sur le plan technologique Madame Laforest témoigna que :
+Ouf ! J’ai appris beaucoup de choses. J’ai appris… ben, d’abord, toute le monde du plastique, les propriétés de certains plastiques par rapport à d’autres plastiques – ça, c’est une chose. L’autre chose, j’ai appris aussi dans le marché que, au niveau de la soudure pour cette épaisseur de plastique là, ça semblait pas exister, et pourtant, j’ai fait des recherches et ça semblait pas exister, ça fait que je suis contente d’avoir développé avec mon fabricant des accessoires pour me permettre de faire cette soudure-là. J’ai appris aussi des plastiques en rouleaux versus des plastiques en feuilles, le procédé de fabrication de ces feuilles de plastique là, ont des propriétés différentes, donc j’ai appris ça, et je l’ai appris d’un fournisseur que, lui, connaissait pas l’autre fournisseur, alors a fallu que je me fasse une tête puis je ramasse toutes ces informations-là pour être capable de faire des choix plus judicieux au niveau du matériel utilisé.
+Ça fait que je dirais que mes acquis ont été beaucoup au niveau des procédés de fabrication, au niveau des choix, du choix des matériaux. »
+[22] Selon elle, elle n’a pas utilisé des groupes de discussions mais bien des bancs d’essai.
+[23] Elle a demandé un brevet pour ce produit.
+[24] En contre-interrogatoire, elle a décrit que l’avancement technologique se projette comme suit :
+«Ben, l’avancement technologique, c’est sûr que c’est du vocabulaire scientifique que, moi, je suis pas familière, mais pour ma part, l’avancement technologique ici, d’abord, y’a un accessoire qui a été développé pour récupérer l’eau de la vaporisation qui n’existe pas sur le marché, pas au Canada, pas aux États-Unis, et pas plus en Europe non plus dans les recherches qui avaient faites par la firme d’avocats au niveau du brevet que j’avais mandatée.
+Et ensuite de d’ça, ben, y’a eu des avancements technologiques qui ont été faits au niveau des différentes embûches, différents problèmes techniques qui ont été rencontrés tout au long du processus de recherche et développement, comme je parlais tantôt au niveau de la soudure, au niveau de la sélection des matériaux aussi qui ont été sélectionnés. »
+[25] Elle affirma avoir créé un document Excel qui décrivait les étapes, dates et résultats de ce projet, mais ne les a pas tous répertoriés.
+[26] Elle a eu seulement un appel avec le professeur en matériaux de composites au cégep de Saint-Jérôme.
+[27] Le thermoformage à deux rouleaux a été utilisé comme méthode de découpe.
+[28] Elle n’a pas inclus les dépenses concernant le manufacturier Repaco car ce dernier ne lui a rien chargé.
+[29] Elle a confirmé qu’aucune statistique ou analyse de données n’a été faite pendant les deux bancs d’essai. Les utilisateurs n’étaient pas choisis pour leur expertise.
+[30] Pour terminer, Monsieur Assouline, un conseiller en recherche et technologie pour l’ARC, a traité ce dossier. Selon lui, dans le rapport préparé par la firme Services HLP, il y avait seulement une limite de connaissances scientifiques et non une certitude scientifique
+[31] Selon lui, l’ARC avait demandé d’avoir la vidéo et les photos, mais a seulement reçu des photos de l’appelante. L’appelante a témoigné qu’elle avait soumis une vidéo mais je n’accepte pas ce témoignage.
+[32] Monsieur Assouline a rencontré Madame Laforest le 30 mars 2016. Madame Laforest lui a dit que les essais avaient été recrutés par des firmes de marketing dans le but d’évaluer des produits en développement. Selon lui, les groupes d’essais avaient un objectif commercial et non technologique.
+[33] Les documents consultés lors de la vérification étaient ceux indiqués dans le tableau à la page 5 du rapport de CRT par l’ARC.
+[34] Monsieur Assouline témoigna que la décision prise était que le projet n’était pas conforme à la définition de RD&DE selon le paragraphe 248(1) LIR. Il explique sa décision :
+Donc, on n’est pas en train de changer les caractéristiques des matériaux qu’on utilise, on n’est pas en train de changer les capacités scientifiques ou technologiques soit des méthodes ou des procédés dont on se sert. On utilise des procédés qui existent et on cherche les bons procédés, la bonne combinaison de ces procédés et la bonne modulation de ces matériaux et procédés afin d’avoir un produit qui répond à plusieurs besoins précis et particuliers.
+[35] Il a confirmé que la méthode traditionnelle fut utilisée pour faire la demande de l’appelante pour laquelle un demandeur fait état de tous les frais généraux contrairement à la méthode de remplacement soit 55 % des salaires directs engagés.
+[36] Ni l’appelante ni le professeur au cégep n’ont reçu de salaires dans cette matière.
+[37] Monsieur Malenfant, l’examinateur financier pour l’ARC qui a traité de ce dossier, a présenté le rapport d’examen financier. Il a témoigné que certains coûts qui devaient être des frais généraux étaient réclamés en matériaux, donc le coût des matériaux devait être de 2 355 $, le montant a été réduit à zéro car selon lui il n’avait pas de projet RS&DE
+[38] Il témoigna que certaines dépenses, même si le projet avait été considéré un projet de RS&DE, auraient été refusées, car elles s’apparentaient à des dépenses de mise en marché, soit les dépenses qui soulèvent la dépense non admissible suite à l’examen du EF à l’onglet 12 de la pièce I -1.
+[39] En contre interrogatoire, il a confirmé que l’appelante utilisa la méthode traditionnelle dans sa demande. Les dépenses admissibles sont celles qui sont supplémentaires et directement reliées au projet de RS&DE.
+V. Analyse du droit
+[40] La RS&DE est définie au paragraphe 248(1) de la LIR comme suit :
+Activités de recherche scientifique et de développement expérimental Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+a) la recherche pure, à savoir les travaux entrepris pour l’avancement de la science sans aucune application pratique en vue;
+b) la recherche appliquée, à savoir les travaux entrepris pour l’avancement de la science avec application pratique en vue;
+c) le développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent.
+Pour l’application de la présente définition à un contribuable, sont compris parmi les activités de recherche scientifique et de développement expérimental :
+d) les travaux entrepris par le contribuable ou pour son compte relativement aux travaux de génie, à la conception, à la recherche opérationnelle, à l’analyse mathématique, à la programmation informatique, à la collecte de données, aux essais et à la recherche psychologique, lorsque ces travaux sont proportionnels aux besoins des travaux visés aux alinéas a), b) ou c) qui sont entrepris au Canada par le contribuable ou pour son compte et servent à les appuyer directement.
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+e) l’étude du marché et la promotion des ventes;
+f) le contrôle de la qualité ou la mise à l’essai normale des matériaux, dispositifs, produits ou procédés;
+g) la recherche dans les sciences sociales ou humaines;
+h) la prospection, l’exploration et le forage fait en vue de la découverte de minéraux, de pétrole ou de gaz naturel et leur production;
+i) la production commerciale d’un matériau, d’un dispositif ou d’un produit nouveau ou amélioré, et l’utilisation commerciale d’un procédé nouveau ou amélioré;
+j) les modifications de style;
+k) la collecte normale de données. (scientific research and experimental development)
+[41] Les critères utilisés pour déterminer si des démarches de développement expérimental constituent une activité de RS&DE ont été établis dans la décision de principe Northwest Hydrolic c La Reine dans le circulaire 36 -4R3.
+[42] Il est nécessaire de répondre dans l’affirmative aux cinq questions suivantes :
+(1) Existait-il une incertitude scientifique ou technologique ?
+(2) Est-ce que des hypothèses visant expressément à réduire ou à éliminer cette incertitude ont été formulées ?
+(3) Est-ce que l’approche globale adoptée était conforme à une investigation ou recherche systématique, incluant la formation et la vérification des hypothèses par voie d’expérimentation d’analyse ?
+(4) Est-ce que l’approche globale adoptée visait à réaliser un avancement scientifique ou technologique ?
+(5) Est-ce qu’un registre des hypothèses vérifiées et des résultats a été maintenu au cours des travaux ?
+[43] Il est à noter que les critères sont cumulatifs et donc si l’appelante ne répond pas positivement à un critère, le projet ne peut être un projet de RS&DE. Il n’est donc pas nécessaire de regarder où d’analyser les autres critères.
+VI. Incertitude Technologique
+[44] La décision Jentel Manufacturing Ltd c. Canada, 2012 DTC 5031[at 6682], 2011 FCA 355 est similaire quant aux faits dans cette cause, car le contribuable a utilisé différents types de plastique et procédés pour améliorer son produit qui était un système de rangement en plastique. Le contribuable a utilisé des techniques courantes et procédures habituelles. La cour a rejeté l’appel du contribuable.
+[45] En général, c’est une preuve d’expert soumise par les deux parties qui aide le juge à déterminer ce qui constitue une procédure habituelle ou une étude technique courante, en l’aidant à saisir les données techniques avant de les analyser. Dans le présent cas, l’appelante n’a pas appelé d’experts et donc il reste difficile à déterminer si le procédé est nouveau pour l’industrie. Le simple fait qu’un produit n’existe pas ne permet pas nécessairement d’affirmer que son développement comporte une incertitude technologique
+[46] L’intimée considère que des techniques courantes dans l’industrie ont été utilisées par l’appelante. L’appelante soutient au contraire que des essais visaient à créer une nouvelle technologie et non simplement à mettre en œuvre des méthodes déjà connues.
+[47] Il ne suffit pas qu’une information soit inconnue du contribuable mais doit être inconnu par le domaine en général. Il est possible qu’un produit ou un procédé existe déjà et qu’une incertitude technologique persiste. C’est plutôt la question de l’application de méthodes courantes qui importe dans le cadre de l’analyse d’activité de RS&DE. Il est conséquemment nécessaire de décider si la technique développée par l’appelante s’assimilait à celle de la fabrication de produits similaires dont le processus était accessible et que les adaptations qui ont été faites ne découlent que des techniques couramment utilisées dans l’industrie.
+[48] Selon le témoignage de l’appelante, des projets déjà connus dans l’industrie ont été utilisés. Elle a fait beaucoup de recherches auprès de spécialistes pour s’informer sur les types de plastique disponible et comment faire la soudure, mais à la fin, elle a utilisé le plastique qui existait déjà et des méthodes de soudure connues. Bien qu’elle allège qu’avec Repaco elle a développé une mini presse nouvelle pour la soudure, selon moi, cela ne pourrait pas être considéré non plus, car premièrement, Repaco a fait le tout gratuitement et donc il n’y a aucune dépense réclamée en lien avec cela. Deuxièmement, Repaco a réclamé les dépenses pour son propre projet. Il n’y a eu aucune preuve, sauf le témoignage de Madame Laforest, qui est venue démontrer qu’en effet la mini presse était un nouveau procédé. Il se pourrait que la mini presse soit nouvelle pour Repaco, mais qu’une autre compagnie l’utilisait déjà, la preuve n’est pas concluante sur ce point.
+[49] Les exclusions pertinentes du paragraphe 248(1) incluent l’étude du marché et la promotion des ventes.
+[50] Ayant considéré toute la preuve présentée durant cet appel, je ne suis pas satisfait sur une balance de probabilité que le projet soit un projet de RS&DE car il ne répond pas aux critères établis par la jurisprudence. A mon avis, le projet en était un de développement commercial forme essais-erreur.
+Signé à Hamilton, Canada, ce 4e jour de mars 2019.
+« Jean-Gilles Lebel »
+J.S. Lebel
+RÉFÉRENCE :
+2019 CCI 45
+Nº DU DOSSIER DE LA COUR :
+2017-334(IT)I
+INTITULÉ DE LA CAUSE :
+LAFOREST MARKETING INTERNATIONALS INC. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 5 Décembre 2018
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge J.G. Lebel
+DATE DU JUGEMENT :
+le 4 mars 2019
+COMPARUTIONS :
+Représentant de l'appelant :
+M. Yves Hamelin
+Avocat de l'intimée :
+Me Gabriel Girouard
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur générale du Canada
+Ottawa, Canada

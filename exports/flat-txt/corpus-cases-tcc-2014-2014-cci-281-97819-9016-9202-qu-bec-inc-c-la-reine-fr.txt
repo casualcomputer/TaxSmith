@@ -1,0 +1,391 @@
+Title: 9016-9202 Québec inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/97819/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-281-97819-9016-9202-qu-bec-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-09-25
+
+# 9016-9202 Québec inc. c. La Reine
+
+- Citation: 2014 CCI 281
+- Decision date: 2014-09-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5182, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9016-9202 Québec inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-09-25
+Référence neutre
+2014 CCI 281
+Numéro de dossier
+2010-2326(IT)G, 2010-2332(IT)G, 2010-2375(IT)G, 2010-2445(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2010-2326(IT)G,
+2010-2445(IT)G,
+2010-2375(IT)G,
+2010-2332(IT)G
+ENTRE :
+9016-9202 QUÉBEC INC.,
+9016-9293 QUÉBEC INC.,
+9017-6298 QUÉBEC INC.,
+9046-0221 QUÉBEC INC.,
+appelantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appels entendus les 11, 12, 13 et 14 juin 2013, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocats des appelantes :
+Me Aaron Rodgers
+Me Bernard Larose
+Avocats de l'intimée :
+Me Anne Poirier
+Me Simon Vincent
+JUGEMENT
+Les appels à l’encontre des nouvelles cotisations établies par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2007 et 2008 sont admis sans frais et lesdites nouvelles cotisations sont déférées au ministre pour nouvelle considération et nouvelles cotisations afin d’annuler les pénalités, conformément aux motifs du jugement ci-joint.
+Les appels à l’encontre des nouvelles cotisations établies par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2004, 2005 et 2006 sont rejetés avec dépens conformément aux motifs du jugement ci-joint.
+Signé à Ottawa, Canada, ce 25e jour de septembre 2014.
+« Réal Favreau »
+Juge Favreau
+Référence : 2014 CCI 281
+Date : 20140925
+Dossiers : 2010-2326(IT)G,
+2010-2445(IT)G,
+2010-2375(IT)G,
+2010-2332(IT)G
+ENTRE :
+9016-9202 QUÉBEC INC.,
+9016-9293 QUÉBEC INC.,
+9017-6298 QUÉBEC INC.,
+9046-0221 QUÉBEC INC.,
+appelantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Les appelantes font partie d’un groupe de 36 appelantes pour lesquelles la question en litige est la même, soit de déterminer si chacune des appelantes était pour les années d’imposition 2004, 2005 et 2006, une « entreprise de prestation de services personnels » au sens du paragraphe 125(7) de la Loi de l’impôt sur le revenu, L.R.C. (1985) ch. 1 (5e Suppl), telle que modifiée (la « Loi »), et si le ministre du Revenu national (le « ministre ») était justifié de refuser la déduction accordée aux petites entreprises prévue au paragraphe 125(1) de la Loi.
+[2] Les appelantes, sauf 9016-9293 Québec inc., font également partie d’un groupe de 32 appelantes pour lesquelles les questions en litige sont les mêmes, soit de déterminer :
+a) si chacune des appelantes était pour les années d’imposition 2007 et 2008 une « entreprise de prestation de services personnels » au sens du paragraphe 125(7) de la Loi et si le ministre était justifié de refuser la déduction accordée aux petites entreprises prévue au paragraphe 125(1) de la Loi; et
+b) dans l’affirmative, si chacune des appelantes avait droit aux dépenses restreintes des entreprises de prestation de services personnels au sens de l’alinéa 18(1)(p) de la Loi et si les pénalités imposées en vertu du paragraphe 163(2) de la Loi étaient justifiées dans les circonstances.
+[3] Les dossiers des autres appelantes, sauf les dossiers 2010-2369(IT)G et 2010-2396(IT)G pour lesquels des désistements ont été déposés la veille de l'audition, sont suspendus jusqu'à ce qu’une décision finale soit rendue dans ces quatre causes types. La liste des appelantes et des groupes de dossiers est annexée au présent jugement.
+9016-9202 Québec inc. (« 9016-9202 ») [4] Le 16 avril 2007, le ministre a établi de nouvelles cotisations à l’encontre de 9016-9202 pour les années d’imposition se terminant le 31 août 2004, 2005 et 2006 refusant les montants déduits à titre de déduction accordée aux petites entreprises, soit 9 282 $, 8 140 $ et 7 105 $ respectivement, au motif que 9016‑9202 était une entreprise de prestation de services personnels.
+[5] Le 30 septembre 2010, le ministre a établi de nouvelles cotisations à l’encontre de 9016-9202 pour les années d’imposition se terminant le 31 août 2007 et 2008 refusant les montants déduits à titre de déduction accordée aux petites entreprises, soit 10 411 $ et 8 101 $, respectivement, et les montants déduits à titre de dépenses, soit 47 717 $ et 7 575 $ respectivement, au motif que 9016‑9202 était une entreprise de prestation de services personnels et en imposant des pénalités en vertu du paragraphe 163(2) de la Loi, soit 278 $ et 773 $ respectivement.
+9016-9293 Québec inc. (« 9016-9293 ») [6] Le 24 avril 2007, le ministre a établi de nouvelles cotisations à l’encontre de 9016-9293 pour les années d’imposition se terminant le 31 août 2004, 2005 et 2006 refusant les montants déduits à titre de déduction accordée aux petites entreprises, soit 4 069 $ et 733 $ et 3 124 $ respectivement, au motif que 9016‑9293 était une « entreprise de prestation de services personnels ».
+9017-6298 Québec inc. (« 9017-6298 ») [7] Le 18 avril 2007, le ministre a établi de nouvelles cotisations à l’encontre de 9017-6298 pour les années d’imposition se terminant le 31 août 2004, 2005 et 2006 refusant les montants déduits à titre de déduction accordée aux petites entreprises, soit 6 620$, 5 148$ et 6 016 $ respectivement, au motif que 9017‑6298 était une entreprise de prestation de services personnels.
+[8] Le 28 juillet 2010, le ministre a établi de nouvelles cotisations à l’encontre de 9017-6298 pour les années d’imposition se terminant le 31 août 2007 et 2008 refusant les montants déduits à titre de déduction accordée aux petites entreprises, soit 7 276 $ et 6 910 $ respectivement, et les montants déduits à titre de dépenses, soit 122 054 $ et 124 831 $ respectivement, au motif que 9017-6298 était une entreprise de prestation de services personnels, et en imposant des pénalités en vertu du paragraphe 163(2) de la Loi, soit 13 449 $ et 12 716 $ respectivement.
+9046-0221 Québec inc. (« 9046-0221 ») [9] Le 16 avril 2007, le ministre a établi de nouvelles cotisations à l’encontre de 9046-0221 pour les années d’imposition se terminant le 31 août 2004, 2005 et 2006 refusant les montants déduits à titre de déduction accordée aux petites entreprises, soit 7 608 $, 9 410 $ et 8 894 $, respectivement, au motif que 9046‑0221 était une entreprise de prestation de services personnels.
+[10] Le 20 septembre 2010, le ministre a établi de nouvelles cotisations à l’encontre de 9046-0221 pour les années d’imposition se terminant le 31 août 2007 et 2008 refusant les montants déduits à titre de déduction accordée aux petites entreprises, soit 6 547 $ et 7 584 $ respectivement, et les montants déduits à titre de dépenses, soit 77 849 $ et 69 167 $ respectivement, au motif que 9046‑0221 était une entreprise de prestation de services personnels et en imposant des pénalités en vertu du paragraphe 163(2) de la Loi, soit 8 610 $ et 7 046 $ respectivement.
+Entente partielle sur les faits [11] Au début de l’audience, les parties ont déposé de consentement une entente partielle sur les faits. Pour faciliter la compréhension du texte, il y a lieu de préciser ici qu'EBI réfère à la société « EBI Environnement inc. » qui depuis le 1er décembre 2004, opère l’entreprise antérieurement exploitée par la société « Services Sanitaires RS inc. » et que les sociétés 9069-1122 Québec inc. et 9120‑2358 Québec inc. ne font pas partie des causes types. L’entente partielle sur les faits est la suivante :
+4 EBI opère son entreprise principalement dans les régions de Berthierville, Joliette, Repentigny et Sorel-Tracy.
+5 EBI soumissionne auprès des villes pour l’obtention des contrats de cueillette des ordures et a signé des contrats avec certaines municipalités ou sociétés.
+6 Le devis signé entre EBI et les municipalités spécifie les conditions et horaires de cueillette.
+7 Avant mars 1995, EBI faisait effectuer le travail de cueillette par ses employés.
+8 Depuis mars 1995, EBI a conçu une nouvelle structure d’opération par laquelle la cueillette se faisait par l’entremise d’artisans-éboueurs à titre d’entreneur indépendant.
+9 EBI a signé une quarantaine de contrats avec des artisans-éboueurs pour la cueillette des ordures, dont les appelantes.
+10 Les artisans-éboueurs n’effectuent pas tous les mêmes opérations, mais ont signé le même type de contrat d’entreneur avec EBI. Seules les annexes de ces contrats sont différentes.
+11 Parmi les artisans-éboueurs engagés par EBI, les opérations sont partagées de la façon suivante :
+• 65 % des artisans collectent des déchets domestiques et vidangent au dépotoir du Groupe EBI.
+• 25 % des artisans ramassent des déchets de construction et vidangent au dépotoir.
+• 10 % des artisans s’occupent du chargement avant et vidangent au dépotoir.
+ARTISANS-ÉBOUEURS
+12 Le tableau suivant précise les dates d’incorporation et le nom des actionnaires pour chacune des appelantes :
+Années en litige
+Appelantes
+Formation
+Actionnaires
+Type de travail
+2004 à 2008
+9016-9202
+Québec inc.
+(Groupe A)
+28/02/1995
+2004 à 2008 : Jean-Rock
+Bernèche
+« Roll-off »
+2004 à 2006
+9016-9293
+Québec inc.
+(Groupe A)
+28/02/1995
+2004 à 2006 : Jocelyn
+Vincent
+« Roll-off »
+2004 à 2008
+9017-6298
+Québec inc.
+(Groupe B)
+15/03/1995
+2004-2008 : Jean Houde
+Cueillette des ordures
+2004 à 2008
+9046-0221
+Québec inc.
+(Groupe C)
+23/01/1997
+2004-2008 : Richard Arnold
+Chargement avant
+2006 à 2008
+9069-1122
+Québec inc.
+(Groupe D)
+5/10/1998
+2004 : Services
+administratifs inc.
+2005 : Robert Mandeville
+2006-2008 : Jacques Bell
+Chargement
+arrière
+2004 à 2008
+9120-2358
+Québec inc.
+(Groupe E)
+28/08/2002
+2004 : Jacques Bell
+2005 :Sylvain Gravel
+2006-2007 : Roger Douaire
+2008-2011 : Services administratifs inc.
+Chargement
+arrière
+13 Les appelantes qui font le « Roll off » ramassent des boîtes de déchets de type « container ». Les chauffeurs travaillent seuls. Ils sont payés au voyage à un tarif établi selon la région.
+14 Les appelantes qui font la cueillette des ordures sont payées selon un montant forfaitaire annuel. Les appelantes engageaient une personne pour aider à la cueillette.
+15 Les appelantes qui font le chargement avant sont payées à la levée. Les chauffeurs travaillent seuls.
+16 Les appelantes qui font le chargement arrière sont payées à l’heure.
+17 Avant l’incorporation de leur société, Jean-Rock Bernèche, Jocelyn Vincent, Jean Houde, Richard Arnold, Jacques Bell, Roger Douaire étaient employés d’EBI.
+18 Les appelantes 9017-6298 Québec inc., 9069-1122 Québec inc. et 9120-2358 Québec inc. n’ont pas engagé plus de cinq (5) employés à temps plein au cours des années en litige.
+19 Chacune des appelantes a signé un contrat avec Services Sanitaires R.S. inc. par lequel elle s’engageait à rendre les services de cueillette et de transport identifiés à l’Annexe du contrat.
+20 Les revenus de chacune des appelantes pour les années en litige provenaient en totalité d’EBI.
+STRUCTURE DES SOCIÉTÉS
+21 Au cours des années en litige, les appelantes n’avaient qu’EBI comme seul et unique client.
+22 Au cours des années en litige, l’adresse des appelantes était le 61, rue Montcalm, à Berthierville, C.P. 120, soit la même que la société EBI.
+23 Au cours des années en litige, les états financiers et les déclarations de revenus des appelantes étaient préparés par la firme Pontbriand, Roy, Éthier, soit la même qui préparait ceux d’EBI.
+24 Au cours des années en litige, la tenue de livres et les remises des appelantes ont été effectuées par Monique Grégoire, employée de la société « Les Services Administratifs PRE inc. » (PRE).
+25 Madame Grégoire travaille dans les locaux de , au 61 rue Montcalm, à Berthierville.
+26 Monique Grégoire est nommée à titre de personne-ressource aux fins de taxes, d’impôt sur le revenu et de déductions à la source pour chacun des artisans-éboueurs.
+27 Au cours des années en litige, les appelantes versaient à la société et réclamaient à titre de dépenses d’opération des honoraires professionnels de 300 $ par mois pour les services fournis par Monique Grégoire et Pontbriand, Roy, Éthier.
+28 EBI assume les assurances et l’immatriculation de ses camions. Une partie de la dépense d’assurance est facturé [sic] aux appelantes par EBI selon le contrat de location du camion.
+29 Les appelantes paient l’essence et l’entretien normal du véhicule.
+30 Les appelantes ont pris une police d’assurance maladie fournie par le « Comité paritaire des boueurs » spécialement conçu [sic] pour les artisans-éboueurs de l’industrie.
+31 Des feuilles de temps sont complétées par les artisans-éboueurs.
+32 Jean-Rock Bernèche, Jocelyn Vincent, Jean Houde, Richard Arnold, Jacques Bell, Roger Douaire sont devenus employés d’EBI à compter du moment où ils n’étaient plus actionnaires des appelantes.
+Faits additionnels tirés des témoignages
+[12] Ont témoigné à l'audience pour le compte des appelantes: messieurs Pierre Sylvestre, président d'EBI; Arthur Pontbriand, associé du cabinet de comptables agréés Pontbriand, Roy, Ethier s.e.n.c.; Jocelyn Vincent, chauffeur de camion "roll-off"; Jean-Rock Bernèche, répartiteur chez EBI à compter de 2008; Guy Brissette, directeur-général du Comité Paritaire des Boueurs de la Région du Richelieu; Alain Senneville, coordonnateur des opérations chez EBI; Richard Arnold, chauffeur d'un camion à chargement avant; Jean Houde, chauffeur d'un camion à chargement arrière ayant un employé à sa charge; Serge Brière, directeur-général d'EBI et madame Monique Desrochers Grégoire, une employée de Services Administratifs PRE Inc.
+[13] Pour l'intimée, seule madame Johanne Desmarais, agente de livraison à l'Agence du Revenu du Canada (« l'ARC ») a témoigné à l'audience. Elle a traité les avis d'opposition logés par les appelantes.
+[14] EBI est une filiale en propriété exclusive de la société « Gestion Bayonne Inc. », une société privée sous contrôle canadien appartenant aux quatre (4) frères Sylvestre (Pierre, Michel, Bernard et René). La société "Services Administratifs PRE Inc." est détenue à la hauteur de 50% par la société "Gestion Bayonne Inc." alors que l'autre 50% est détenue par 3099-012 Québec Inc. une société de gestion appartenant à messieurs Arthur Pontbriand, Denis Roy et Sylvain Ethier. La société « Services Administratifs PRE Inc. » détient depuis 2008, soit la date à laquelle la structure des sociétés a été dissoute suite à la vérification de l'ARC, la totalité des actions des appelantes. Au cours des années en litige, la société « Services Administratifs PRE Inc. » détenait la totalité des actions de la société 9074-2073 Québec Inc., qui s'occupait du placement de personnes auprès des appelantes.
+[15] Monsieur Pierre Sylvestre a expliqué que la proposition de devenir chauffeur autonome a été faite à une quarantaine de bons chauffeurs reconnus pour leur fiabilité et pour leur rapidité d'exécution. Pour EBI, il en résultait un avantage économique de l'ordre de 15% à 20% principalement dû à une diminution des charges sociales. Pour les chauffeurs, la structure proposée leur permettait de bénéficier d'une augmentation de leur rémunération également de l'ordre de 15 à 20% et de s'assurer de contrats annuels plutôt que saisonniers. Du côté des inconvénients, les chauffeurs perdaient les avantages découlant de leur statut d'employés et devaient supporter les coûts d'opérations et d'entretien des camions mis à leur disposition par EBI et les frais administratifs des sociétés leur appartenant.
+Rôle joué par la société « Les Services Administratifs PRE Inc. » (« PRE »)
+[16] PRE s'occupait de tous les aspects administratifs des sociétés appartenant aux chauffeurs.
+[17] Les appelantes ont toutes, à quelques exceptions près, été constituées en vertu de la partie 1A de la Loi sur les Compagnies (Québec) par le notaire Robert Williamson de Boucherville. Le capital-actions autorisé comprenait des actions de catégorie « A », en nombre illimité, sans valeur nominale, votantes, participantes, rachetables au gré de la société et des actions de catégorie « B », en nombre illimité, sans valeur nominale, non votantes, non participantes, avec un dividende non préférentiel et non cumulatif de 10% l'an, rachetables au gré de la société. Le capital-actions émis et payé était à l'origine généralement composé de 100 actions de catégorie « A » émis pour une considération de 100 $. L'exercice financier des sociétés se terminait le 31 août de chaque année. Le chauffeur à qui appartenait une société était également le seul et unique administrateur de la société. Les frais de constitution de ces sociétés étaient de 2 000 $ payable en 10 versements mensuels de 200 $.
+[18] PRE s'occupait, avec l'aide du cabinet de comptables agréés Pontbriand, Roy, Ethier s.e.n.c., de la tenue de livres, y compris les procès-verbaux, de la préparation des états financiers et des déclarations de revenu, tant fédérales que provinciales des sociétés et des déclarations de revenu personnelles de leur actionnaire respectif, de même que de la préparation des rapports de taxes et des relevés T4 et T5, de la déclaration des dividendes et des transferts d'actions. Le cabinet de comptables agréés Pontbriand, Roy, Ethier facturait PRE pour les services qu'il lui rendait.
+[19] PRE s'occupait du paiement des comptes à payer, de l'encaissement et des dépôts des chèques faits au nom des sociétés et de la facturation inter-compagnies.
+[20] PRE gérait également une banque de personnes-ressources pour faciliter les remplacements des chauffeurs pour les vacances et pour les congés de maladie ou pour combler les absences des employés travaillant sur des camions à chargement arrière. PRE payait directement les personnes dont les services étaient retenus et facturait les sociétés ayant eu recours aux services de ces personnes.
+[21] PRE facturait à chaque société des honoraires de gestion de 300 $ par mois.
+[22] PRE ne comptait qu'une seule employée, soit madame Monique Grégoire, et elle opérait à partir d'un local situé au 61, rue Montcalm à Berthierville, soit à la même adresse qu'EBI. Madame Grégoire était supervisée par monsieur Arthur Pontbriand du cabinet de comptables agréés Pontbriand, Roy, Ethier.
+Le contrat-type conclu par les sociétés des artisans-éboueurs
+[23] Chaque société des artisans-éboueurs a conclu un contrat sous seing privé avec Services Sanitaires RS Inc. lequel a été par la suite transféré à EBI. Toutes les sociétés des artisans-éboueurs ont signé le même contrat et seules les annexes étaient différentes pour tenir compte du type de camion utilisé par les sociétés des artisans-éboueurs et pour déterminer le prix des activités de cueillette et de transport de déchets.
+[24] En vertu du contrat, la société de l'artisan-éboueur s'engageait à louer le camion décrit à l'annexe « A » du contrat lequel appartenait à Services Sanitaires RS Inc., était immatriculé à son nom et était couvert par des assurances appropriées, et à l'utiliser pour rendre le service aux clients de Services Sanitaires RS Inc. La société de l'artisan-éboueur avait l'obligation de garder sur le camion les affiches installées par Services Sanitaires RS Inc.
+[25] La société de l'artisan-éboueur avait l'entière responsabilité d'assurer le maintien et le bon état du camion, de le faire réparer et de s'approvisionner en carburant dans un garage reconnu et approuvé par Services Sanitaires RS Inc. et de garer le camion à l'endroit indiqué par Services Sanitaires RS Inc. L'artisan-éboueur devait lui-même conduire le camion en tout temps et il ne pouvait se faire remplacer que dans des cas d'urgence et avec le consentement de Services Sanitaires RS Inc. Services Sanitaires RS Inc. avait le droit d'inspecter le camion afin de s'assurer qu'il rencontrait ses exigences et celles de la loi.
+[26] La société de l'artisan-éboueur s'engageait à exécuter les appels de service selon les instructions et modalités qui pouvaient être révisées à l'occasion par les parties. Dans le cas où la société de l'artisan-éboueur était dans l'impossibilité de compléter, pour quelque raison que ce soit, la cueillette et le transport de déchets, Services Sanitaires RS Inc. pouvait prendre toute mesure qu'elle estimait appropriée pour assurer le service même si cette mesure entraînait une perte pécuniaire pour la société de l'artisan-éboueur. Aucune disposition du contrat ne devait être interprétée comme une garantie par Services Sanitaires RS Inc. d'un quelconque volume de travail à être confié à la société de l'artisan-éboueur.
+[27] La société de l'artisan-éboueur effectuait les activités de cueillette et de transport des déchets à titre d'entrepreneur indépendant et, à ce titre, elle était responsable (i) de tout dommage ou préjudice causé aux tiers et au camion lorsque le dommage au camion était la conséquence de sa négligence ou de celle de ses employés; (ii) du maintien en vigueur d'une police d'assurance pour la responsabilité civile générale et professionnelle; et (iii) du maintien de tout permis, certificat et autorisation requis par la loi en vue d'exécuter les opérations et services prévus au contrat.
+[28] Le contrat prévoyait le dépôt par la société de l'artisan-éboueur d'une somme de 7 000 $ à titre de caution afin de garantir Services Sanitaires RS Inc. contre toute perte et/ou dommage du camion confié à la société de l'artisan-éboueur ou de garantir pour toute somme qui pourrait lui être due par la société de l'artisan-éboueur et pour le respect des obligations de la société de l'artisan-éboueur découlant du contrat.
+[29] Le contrat contenait une disposition de non-concurrence, une disposition de non cession, sauf avec le consentement écrit du cocontractant, et des dispositions de résiliation dont une permettait la résiliation du contrat par l'une ou l'autre des parties sur un préavis de quatre semaines.
+[30] Le coût des services rendus par la société de l'artisan-éboueur était payable mensuellement par Services Sanitaires RS Inc., soit au plus tard le 15 de chaque mois pour les services rendus le mois précédent.
+[31] L'artisan-éboueur intervenait personnellement au contrat et s'engageait envers Services Sanitaires RS Inc., comme codébiteur solidaire avec sa société, à respecter toutes et chacune des obligations que la société de l'artisan-éboueur avait convenu d'exécuter et d'accomplir en vertu du contrat.
+Mode d'opérations des sociétés des artisans-éboueurs
+[32] Monsieur Jocelyn Vincent, un chauffeur du camion de type « roll-off » utilisé pour le transport de gros conteneurs, a expliqué qu'il se présentait au garage d'EBI vers 6 heures pour prendre possession du camion et vérifier l'état général du camion, le niveau de l'huile à moteur et la pression des pneus. Il quittait le garage vers 6h15 pour effectuer les assignations que le répartiteur lui avait remises la veille. Il effectuait de 4 à 6 voyages par jour tout dépendant des distances à parcourir. Il n'avait pas de route régulière et il recevait souvent des assignations du répartiteur par le système de communications installé à bord du camion. Il revenait au garage d'EBI entre 17h30 et 18h00 où il faisait le plein de carburant et remplissait une fiche mécanique et des rapports d'activités qu'il remettait chaque jour au répartiteur.
+[33] Pour ses services, il recevait chaque semaine des avances de la part de sa société, lesquelles étaient basées sur le nombre de conteneurs transportés chaque semaine. Ces avances lui étaient consenties sans déduction à la source. À la fin de l'exercice financier de la société, les avances étaient converties en dividendes qui étaient inclus dans le calcul de son revenu pour l'année.
+[34] Monsieur Vincent a été actionnaire de la société 9016-9293 de 1995 à 2006 et il a expliqué qu'avant de devenir actionnaire de ladite société, il était un employé d'une entreprise achetée par EBI et qu'il est redevenu un employé d'EBI en 2006 après avoir vendu la société à PRE. Comme employé d'EBI, il exécutait les mêmes tâches qu'il exerçait auparavant comme actionnaire de sa société. Il a également reconnu ne pas avoir engagé de dépenses de publicité pour augmenter son chiffre d'affaires et toujours avoir été exclusif pour EBI. Lorsqu'il était malade ou en vacances, le camion ne sortait pas. Il ne s'est pas rappelé s'il avait utilisé la banque de personnes-ressources pour se faire remplacer.
+[35] Le témoignage de monsieur Vincent a été corroboré dans une très large mesure par celui de monsieur Jean-Rock Bernèche, un autre chauffeur de camion de type « roll-off » qui a été actionnaire de la société 9016-9202 de 1995 à 2008. De 1982 à 1995, il était un employé payé à l'heure de Services Sanitaires RS Inc. et, à compter de 2008, il est devenu répartiteur pour EBI.
+[36] Pour les exercices financiers terminés le 31 août 2004, 2005, 2006, 2007 et 2008, les principaux postes des frais d'exploitation de sa société étaient les suivants :
+2004
+$
+2005
+$
+2006
+$
+2007
+$
+2008
+$
+Location du camion
+Entretien et réparation
+Carburant
+Assurances
+Cotisations
+Honoraires
+20 710
+15 089
+13 198
+1 080
+2 667
+3 600
+19 685
+19 866
+12 689
+1 080
+2 667
+3 600
+22 895
+13 684
+13 887
+1 080
+2 267
+3 600
+21 600
+6 419
+13 178
+1 080
+2 667
+3 600
+850
+689
+511
+45
+2 500
+3 600
+[37] Monsieur Bernèche a expliqué que les heures de travail perdues n'étaient pas payées et il a donné comme exemple le temps d'attente à la traversée Sorel-Berthier. Le coût de la traversée était par contre remboursé par EBI.
+[38] Monsieur Alain Senneville, un chauffeur de camion à chargement arrière requérant un employé pour manipuler les bacs de poubelle était un employé de Services Sanitaires RS Inc. lorsqu'il est devenu actionnaire de la société 9017-6413 Québec Inc. Il a cessé d'être actionnaire de ladite société en 2008 et il a transféré ses actions de ladite société à PRE sans recevoir de contrepartie après qu'elle ait été vidée de ses actifs. Il est devenu coordonnateur des opérations chez EBI.
+[39] Il préparait quotidiennement ses feuilles de temps et il les remettait à madame Grégoire à la fin de chaque journée de travail. Ces feuilles de temps servaient à la préparation de la facturation mensuelle à EBI. Le salaire de son aide était facturé à EBI selon un tarif préétabli. Il a lui-même recruté son aide auprès de ses connaissances et il n'avait pas l'obligation de choisir un employé d'EBI.
+[40] Le contrat conclu entre la société 9017-6413 Québec Inc. et EBI était un contrat d'une durée d'une année et les routes y étaient spécifiées en annexe de même que la facturation sur une base annuelle pour chacune des routes. Les prix payés par les municipalités pouvaient varier d'une année à l'autre. Les jours de collecte des déchets étaient de cinq jours ouvrables du lundi au vendredi.
+[41] Le témoignage de monsieur Senneville a été largement corroboré par le témoignage de monsieur Jean Houde, un autre ancien employé de Services Sanitaires RS Inc. qui a constitué en 1995 la société 9017-6298. Le camion dont il était locataire était un camion à chargement arrière avec un aide. Il louait des camions supplémentaires au printemps et à l'automne pour compléter ses routes. Il prenait de 4 à 5 semaines de vacances par année et il se faisait remplacer par d'autres chauffeurs qui étaient principalement des employés d'EBI. Lorsqu'il s'absentait, il devait informer madame Grégoire au moins 24 heures à l'avance.
+[42] Les routes dont il avait la responsabilité l'occupait 5 jours par semaine et sa rémunération était sous forme de dividendes. Les opérations de sa société ont cessé en 2009 et ses actions ont été transférées à PRE sans contrepartie.
+[43] Les sociétés de messieurs Senneville et Houde font partie du groupe B de sociétés dont les dossiers sont en appel.
+[44] Monsieur Richard Arnold, un ancien employé de Services Sanitaires RS Inc. depuis 1993 a également témoigné à l'audience. Il est devenu artisan-éboueur en 1997 suite à la formation de la société 9046-0221, une société du groupe C regroupant 3 dossiers en appel.
+[45] Les activités de sa société consistaient à vider les conteneurs de vidange en sous-traitance pour le compte d'EBI. Il s'agissait d'un contrat annuel renouvelable d'année en année. Le camion loué d'EBI était un camion à chargement avant qui ne requérait pas d'aide. Le camion était garé au garage MPC à Tracy et non chez EBI à Berthierville. Les réparations au camion étaient également effectuées au garage MPC et le carburant était acheté à une station de Shell à Sorel.
+[46] Le prix des services rendus par la société 9046-0221 était basé sur la levée de chaque conteneur.
+[47] Les feuilles de temps préparées par le témoin étaient remises chaque jour à monsieur Robert Mandeville, un employé d'EBI, et servaient à la préparation de la facturation mensuelle d'EBI.
+[48] Sa société desservait chaque semaine 536 clients commerciaux d'EBI situés sur la rive-sud du fleuve Saint-Laurent. L'artisan-éboueur devait traverser le fleuve quatre fois par jour pour vider les conteneurs au site d'enfouissement d'EBI. Les coûts du traversier étaient assumés par EBI. EBI payait également le coût d'un téléphone cellulaire mis à la disposition du témoin.
+[49] Monsieur Arnold est demeuré actionnaire de sa société jusqu'au 31 août 2010, date à laquelle il est redevenu un employé d'EBI, payé à nouveau à l'heure et desservant les mêmes clients avec le même camion.
+Cotisation au Comité Paritaire des Boueurs
+[50] Le Comité Paritaire gère un régime d'assurance collective obligatoire pour les employés dans l'industrie dont les cotisations sont payées par les employeurs. Le régime est facultatif pour les travailleurs autonomes. Depuis 2003, l'industrie comptait 180 travailleurs autonomes dont seulement 30 travailleurs s'étaient prévalus de l'assurance collective. L'interposition d'une société n'affectait pas le statut de travailleur autonome des travailleurs qui adhéraient au régime. La prime payable pour un travailleur qui était payé sous forme de dividendes était de 25 $ par mois. La prime mensuelle actuelle pour les employés est de 350 $. Un travailleur autonome qui adhérait au régime bénéficiait d'une assurance-salaire de longue durée jusqu'à l'âge de 60 ans.
+[51] Le Comité Paritaire fixait les conditions de travail dont la rémunération pour les travailleurs qui étaient assujettis au décret, soit les employés qui avaient travaillé 350 heures consécutives dans un trimestre. Le décret prévoyait un salaire de base de 17 $ à 18 $ de l'heure, à un taux majoré de 50% après 40 heures de travail du lundi au samedi et, à un taux majoré de 100% les dimanches.
+Fin des opérations des sociétés
+[52] Toutes les activités des sociétés ont cessé le 31 août 2010 avec l'annulation des contrats de location des camions.
+[53] L'objectif à la fin des opérations était de distribuer sous forme de dividendes la valeur nette de l'actif de chaque société après le paiement des comptes à payer aux fournisseurs. Les actions de chaque société ont été acquises par PRE pour une contrepartie de 1 $. Certaines sociétés dont celle de monsieur Jean Houde avait un déficit à la fermeture. Les montants du déficit n'ont pas été réclamés aux artisans-éboueurs parce qu'ils étaient principalement attribuables à des bris mécaniques ou à des garanties de compensation.
+Le droit applicable
+[54] Le paragraphe 125(7) de la Loi prévoit dans les cas où il serait raisonnable de considérer que, si ce n'était de l'existence de la société, l'employé constitué en société serait un cadre ou un employé de la société à laquelle les services sont fournis, par opposition à un travailleur autonome, la société doit être considérée comme étant une entreprise de prestation de services personnels (une « EPSP »). Plus précisément, le paragraphe 125(7) de la Loi définit une EPSP de la façon suivante :
+125(7) Les définitions qui suivent s'appliquent au présent article.
+« entreprise de prestation de services personnels » S'agissant d'une entreprise de prestation de services personnels exploitée par une société au cours d'une année d'imposition, entreprise de fourniture de services dans les cas où :
+a) soit un particulier qui fournit des services pour le compte de la société —appelé « employé constitué en société » à la présente définition et à l'alinéa 18(1)p);
+b) soit une personne liée à l'employé constitué en société, est un actionnaire déterminé de la société, et où il serait raisonnable de considérer l'employé constitué en société comme étant un cadre ou un employé de la personne ou de la société de personnes à laquelle les services sont fournis, si ce n'était de l'existence de la société, à moins :
+c) soit que la société n'emploie dans l'entreprise tout au long de l'année plus de cinq employés à temps plein;
+d) soit que le montant payé ou payable à la société au cours de l'année pour les services ne soit reçu ou à recevoir par celle-ci d'une société à laquelle elle était associée au cours de l'année.
+[55] L’alinéa 18(1)p) de la Loi a pour effet de limiter les dépenses que les EPSP peuvent déduire dans le calcul de leur revenu tiré d’une entreprise. L’alinéa 18(1)p) de la Loi se lit comme suit :
+18.(1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+[…]
+Dépenses restreintes des entreprises de prestation de services personnels
+p) une dépense, dans la mesure où elle est engagée ou effectuée par une société au cours d’une année d’imposition en vue de tirer un revenu d’une entreprise de prestation de services personnels, à l’exception :
+(i) du salaire, du traitement ou d’une autre rémunération versé au cours de l’année à un actionnaire constitué en société de la société,
+(ii) du coût, pour la société, de tout autre avantage ou allocation accordé à un actionnaire constitué en société au cours de l’année,
+(iii) d’un montant dépensé par la société et lié à la vente de biens ou à la négociation de contrats par la société, lorsque le montant aurait été déductible dans le calcul du revenu d’un actionnaire constitué en société pour une année d’imposition tiré d’une charge ou d’un emploi s’il l’avait dépensé en vertu d’un contrat d’emploi qui l’obligeait à verser le montant,
+(iv) d’un montant versé par la société au cours de l’année au titre des frais judiciaires ou extrajudiciaires engagés par elle en recouvrement des sommes qui lui étaient dues pour services rendus,
+qui serait, si le revenu de la société était tiré d’une entreprise autre qu’une entreprise de prestation de services personnels, déductible dans le calcul de son revenu;
+[56] Pour les années d’imposition 2007 et 2008, l’ARC a imposé des pénalités en vertu du paragraphe 163(2) de la Loi dont les conditions d’application sont les suivantes :
+Faux énoncés ou omissions
+163(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50% du total des montants suivants :
+[…]
+[57] Puisque les contrats conclus entre les sociétés des artisans-éboueurs et EBI et/ou Services Sanitaires RS Inc. sont régis par le droit civil québécois et que les notions de contrat de travail et contrat de service ne sont pas définies dans la Loi, il faut se référer au Code civil du Québec (le « CcQ ») conformément à ce qui est prévu à la Loi d’harmonisation no 1 du droit fédéral avec le droit civil, L.C. 2001, ch. 4 et à l’article 8.1 de la Loi d’interprétation, L.R.C., 1985, ch. I—21.
+[58] Plus précisément, les définitions du contrat de travail et du contrat de service que l’on trouve aux articles 2085, 2098 et 2099 du CcQ sont pertinentes aux fins du présent litige. Ces dispositions se lisent comme suit :
+2085
+Le contrat de travail est celui par lequel une personne, le salarié, s’oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d’une autre personne, l’employeur.
+[…]
+2098
+Le contrat d’entreprise ou de service est celui par lequel une personne, selon le cas l’entrepreneur ou le prestataire de services, s’engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s’oblige à lui payer.
+2099
+L’entreneur ou le stataire de services a le libre choix des moyens d’exécution du contrat et il n’existe entre lui et le client aucun lien de subordination quant à son exécution.
+Analyse [59] En droit civil québécois, l’existence d’un lien de subordination est essentielle afin de conclure à l’existence d’un contrat de travail.
+[60] Il y a subordination si le payeur a la faculté de déterminer le travail à exécuter, d’encadrer cette exécution et de le contrôler.
+[61] Ce n’est pas le fait que le contrôle ait été exercé ou non par l’employeur qui importe, mais le fait que l’employeur avait le pouvoir de l’exercer. Ce principe a été réaffirmé à maintes occasions par la Cour d’appel fédérale dont notamment dans Gallant c. M.R.N., (1986) A.C.F. no 330 et Les entreprises une affaire d’anglais inc. c. M.R.N., 2008 CCI 524.
+[62] Le contrat d’entreprise se caractérise par une absence de contrôle de la part du client quant à l’exécution du travail. Le prestataire de services a le libre choix des moyens d’exécution du contrat.
+[63] Les critères développés en common law, à savoir la propriété des outils, l’expectative de profits, les risques de pertes et l’intégration dans l’entreprise, peuvent être utiles à la qualification d’un contrat conclu en vertu du droit civil québécois puisqu’il s’agit d’indices d’encadrement parmi tant d’autres.
+[64] Par contre, le critère de l’intention des parties au contrat n’a pas à être analysé dans le contexte de la détermination de l’existence d’une EPSP. Les décisions faisant autorité sur ce point sont notamment 609309 Alberta Ltd. Canada, 2010 CCI 166, 1166787 Ontario Ltd. c. Canada, 2008 CCI 93, Dynamic Industries Ltd. c. Canada, 2005 CAF 211 et 758997 Alberta Ltd. c. Canada, 2004 TCC 755. Il en est ainsi parce que la notion d’EPSP est une disposition anti-évitement visant à refuser à certaines sociétés le taux d’impôt réduit applicable aux petites entreprises et le report d’impôt qui y est associé. Le taux d’impôt réduit et le report d’impôt recherché ne pourraient pas être obtenus à moins que les parties n’aient eu l’intention d’entretenir une relation d’entrepreneurs indépendants. Or, le libellé de la définition d’entreprise de prestation de services personnels du paragraphe 125(7) de la Loi exige que le tribunal fasse abstraction de la relation d’entrepreneurs indépendants et fasse une conjoncture raisonnable n’eût été de l’existence des sociétés.
+[65] La question que la Cour doit se poser à ce stade-ci est la suivante : si ce n’était de l’existence des sociétés serait-il raisonnable de considérer qu’au cours des années 2004, 2005, 2006, 2007 et 2008, il existait un lien de subordination entre les artisans-éboueurs incorporés et EBI?
+Le contexte [66] D’entrée du jeu, il y a lieu de rappeler le contexte dans lequel le système a été mis en place. Avant 1995, Services Sanitaires RS Inc. n’utilisait que des employés pour effecteur la collecte des déchets. En mars 1995, Services Sanitaires RS Inc. a décidé que ses éboueurs devaient fonctionner à titre d'« artisans-éboueurs » (i.e. comme sous-contractants autonomes) et être incorporés sinon Services Sanitaires RS Inc. ne signerait pas de contrats de service avec eux. Services Sanitaires RS Inc. a donc pris l’initiative de mettre en place le système et a tenu des séances d’information avec les chauffeurs de camion les plus fiables et les plus expérimentés pour les convaincre de s’incorporer. Messieurs Arthur Pontbriand et Serge Brière participaient normalement à ces séances d’information.
+[67] Services Sanitaires RS Inc. avec l’aide du cabinet de comptables agréés Pontbriand, Roy, Éthier, ses vérificateurs externes, se sont occupés de tous les aspects administratifs de la mise en place du système clé en main. L’artisan-éboueur n’avait qu’à signer le contrat de service avec les annexes, le contrat de location du camion, les documents pour la constitution de la société et les documents bancaires pour l’ouverture du compte de banque pour être en affaire.
+[68] Toutes les sociétés appartenant aux artisans-éboueurs avaient le même exercice financier se terminant le 31 août de chaque année et ne comptaient qu’un seul actionnaire et un seul administrateur. Le cabinet de comptables agréés Pontbriand, Roy, Éthier préparait les états financiers, les déclarations de revenu des sociétés et les déclarations de revenu personnelles de la presque totalité des artisans-éboueurs. Monsieur Arthur Pontbriand s’assurait que les sociétés des artisans-éboueurs étaient en ordre.
+[69] Les appelantes avaient toutes la même structure de capital; elles ont été créées avec une mise de fonds nominale et elles ont été administrées de la même manière. Les appelantes avaient la même adresse postale que celle d'EBI et elles ont toutes encourues les mêmes dépenses de services administratifs et d’assurances.
+[70] Suite aux nouvelles cotisations établies par l’ARC, EBI a décidé de mettre fin au système et les artisans-éboueurs ont tous cédé à PRE les actions de leur société respective sans contrepartie et sont, pour la grande majorité, retournés travailler pour EBI. EBI a même dû assumer certains déficits accumulés à l’égard de fournisseurs qui existaient au moment de la cession des actions.
+Les indices d’encadrement Le pouvoir de supervision et de contrôle
+[71] Selon la preuve qui m’a été présentée, il m’apparaît clair que le degré de contrôle exercé par EBI sur les appelantes était important et m’amène à conclure qu’en l’absence des sociétés des artisans-éboueurs, ces derniers auraient été considérés comme des employés d'EBI. D’ailleurs, les artisans-éboueurs étaient des employés de Services Sanitaires RS Inc. ou EBI, selon le cas, avant qu’ils ne s’incorporent, et la presque totalité sinon la totalité d’entre eux sont redevenus des employés d'EBI après la vente des actions des appelantes à PRE.
+[72] Les contrats de service conclus par les appelantes étaient des contrats intuitu personae parce que les artisans-éboueurs devaient conduire eux-mêmes, en tout temps, les camions appartenant à EBI et ne pouvaient se faire remplacer que dans les cas d’urgence avec le consentement d'EBI. Ce genre de contrat révèle habituellement une relation d’employeur-employé plutôt qu’une relation d’entrepreneur indépendant ayant le libre choix des moyens d’exécution du contrat.
+[73] Au cours des années en litige, EBI exigeait des rapports d’activités quotidiens très détaillés qui lui permettait de connaître pour chacune des appelantes l’heure exacte des tâches effectuées ainsi que le temps requis par celles-ci.
+[74] Des contremaîtres d'EBI s’assuraient que les tâches confiées à chacune des appelantes étaient effectuées correctement. La supervision des activités des appelantes n’était pas moins importante que celle exercée sur les artisans-éboueurs alors qu’ils étaient des employés d'EBI.
+[75] La preuve a révélé, qu’au cours des années en litige, EBI exerçait un contrôle étroit sur la propriété, l’utilisation et la disposition des camions de cueillette des déchets qui constituaient sans aucun doute l’outil de travail le plus important utilisé par les appelantes.
+[76] Les camions utilisés par les appelantes appartenaient tous à EBI et étaient loués à chacune d’elles. Les appelantes devaient obligatoirement utiliser les camions d'EBI pour la réalisation des travaux qui leur étaient confiés. Les appelantes ne pouvaient donc utiliser leur propre camion. D’après certains contrats conclus par EBI avec ses clients, EBI devait être propriétaire ou locataire d’un nombre minimum de camions. La liste de ces camions devait être fournie aux clients en question et seuls ces camions pouvaient être utilisés aux fins du contrat. Les contrats liant les appelantes prévoyaient spécifiquement que, même en cas de bris, celles-ci devaient utiliser l’équipement loué d'EBI. Les appelantes devaient maintenir sur les camions les affiches apposées par EBI.
+[77] Les appelantes devaient garer les camions aux endroits déterminés par EBI, soit dans la presque totalité des cas au garage d'EBI. Les appelantes devaient faire réparer leurs camions et s’approvisionner en carburant auprès de garages reconnus et approuvés par EBI. L’assurance des camions était obligatoirement souscrite par EBI qui en retour exigeait le remboursement d’une partie des primes d’assurance.
+[78] Il ressort clairement de la preuve que les appelantes et leurs actionnaires étaient soumis au contrôle d'EBI à l’égard de la libre disposition du camion loué. Il ne fait pas l’ombre d’un doute que les appelantes n’auraient pas été soumises à un tel contrat de location si les appelantes avaient loué les camions d’un tiers autre que d'EBI.
+[79] Les restrictions imposées aux appelantes quant à l’utilisation des camions tendent à démontrer que les artisans-éboueurs ne disposaient pas du libre choix des moyens d’exécution du contrat.
+[80] Le contrôle exercé par EBI sur les appelantes s’appliquait même au fonctionnement interne des sociétés dans la relation existant entre les sociétés et leurs employés. Dans le cadre des ententes écrites entre EBI et les appelantes, EBI s’est assurée que les appelantes retiennent sur le salaire de leurs propres employés, les retenues à la source prévues par la Loi. Selon le contrat type soumis en annexe aux avis d’opposition, EBI avait le droit de mener des vérifications à cet égard et dans l’éventualité où les appelantes n’auraient pas effectuées toutes les retenues à la source, EBI avait le droit de retenir le versement des paiements dus aux appelantes prises en défaut. Je ne connais pas d’entrepreneurs indépendants qui accepteraient que le versement des sommes qui leur sont dues soit assujetti à de telles conditions.
+Chances de profits et risques de pertes [81] L’analyse des faits démontre que les chances de profits et les risques de pertes étaient plutôt faibles.
+[82] L’investissement des artisans-éboueurs dans le capital-actions des appelantes était d’une valeur nominale. Les frais d’incorporation des appelantes ont été avancés par EBI puis remboursés par les appelantes sur une période de 10 mois. EBI a également avancé les fonds nécessaires pour que les appelantes puissent opérer pendant le premier mois d’opérations jusqu’à ce qu’elles reçoivent le premier versement mensuel prévu aux contrats de service.
+[83] Les montants à percevoir étaient préétablis et les tâches à exécuter étaient déterminées par un contrat d’une durée d’un an. La rémunération était versée périodiquement, soit aux 30 jours, pour un travail minimum de 50 heures par semaine, du lundi au vendredi. Le montant des versements périodiques était fixé par EBI et les appelantes ne pouvaient véritablement en négocier le prix.
+[84] Les appelantes étant liées par des clauses de non-concurrence leur interdisant, entre autres, de solliciter des clients dans le territoire desservi par EBI et ses clients de sorte que les appelantes n’ont pas cherché à exploiter leur entreprise auprès d’autres clients en vue d’augmenter leurs profits. De plus, une disposition du contrat type signé par les appelantes rendait toute cession ou transfert de droits conditionnel à l’approbation d'EBI. Les appelantes ne pouvaient sous-traiter leurs contrats ce qui démontre clairement qu’elles n’avaient pas de liberté dans les moyens d’exécution du contrat.
+[85] La preuve a révélé que les revenus des appelantes n’ont pas variés de manière importante depuis leur incorporation et la seule perspective d’augmentation de revenus des artisans-éboueurs provenait des avantages fiscaux que permettait une telle structure.
+[86] Pour ce qui est des risques de pertes, les frais de location des camions, le coût des services administratifs et les assurances étaient préétablis à un taux fixe.
+[87] Comme les camions n’appartenaient pas aux appelantes et comme le coût des réparations majeures liées à l’usure normale du camion ainsi qu’une partie des frais d’assurance des camions était assumés par EBI, les risques de pertes étaient diminués d’autant.
+[88] La preuve a de plus révélé qu'EBI défrayait le coût des traversiers des appelantes dans le cadre de leurs tâches ainsi que le coût des cellulaires mis à la disposition des artisans-éboueurs.
+[89] Il arrivait même que le diesel utilisé par les camions des appelantes était vendu à rabais et était remboursé par EBI. Il en était de même pour le coût de location des camions qui était rechargé à EBI.
+[90] La preuve a de plus clairement révélé que les appelantes ont toutes été récupérées par PRE alors que plusieurs sociétés affichaient d’importants déficits qui n’ont jamais été remboursés par les artisans-éboueurs. Ces déficits ont vraisemblablement été absorbés par EBI.
+Intégration des appelantes dans les activités d'EBI [91] L’analyse des faits propres à ce dossier révèle un degré élevé d’intégration des appelantes aux activités d'EBI ce qui démontre en soi l’existence d’un lien de subordination.
+[92] L’élément le plus révélateur de l’intégration des appelantes à EBI est sans contredit le fait que les artisans-éboueurs étaient salariés d'EBI avant l’incorporation des appelantes et soient redevenus des employés d'EBI après les années en litige. Les appelantes exécutaient les mêmes tâches que leur actionnaire respectif exerçait auparavant en utilisant les mêmes moyens d’exécution.
+Conclusion [93] À la lumière des considérations examinées dans le cadre des indices d’encadrement, il m’apparaît raisonnable de conclure, si ce n’était de l’existence des appelantes, leurs actionnaires auraient fourni les services à EBI en tant qu’employés d'EBI en 2004, 2005, 2006, 2007 et 2008 et non en tant qu’entrepreneurs indépendants exploitant leur entreprise pour leur propre compte.
+Les pénalités [94] Contrairement aux prétentions des procureurs de l’intimée, je ne crois pas que le ministre s’est déchargé de son obligation de prouver que la conduite des appelantes et de leurs actionnaires équivalait à une faute lourde découlant d’un aveuglement volontaire.
+[95] Ce n’est que le 5 mai 2010 que les appelantes ont été informées du rejet par l’ARC de leurs avis d’opposition pour les années d’imposition 2004, 2005 et 2006, soit bien après que les déclarations de revenu des appelantes pour les années d'imposition 2007 et 2008 aient étaient produites sur la même base que celles des années d'imposition antérieures. En produisant leurs déclarations de revenu pour les années d'imposition 2007 et 2008, les appelantes et leurs actionnaires n’ont pas commis de faute lourde et n’ont fait preuve d’aveuglement volontaire. Les appelantes et leurs actionnaires étaient alors représentés par des professionnels compétents, en l’occurrence, monsieur Jacques Pontbriand du cabinet de comptables agréés Pontbriand, Roy, Ethier et par Me Isabelle Pipon du cabinet Spiegel Sohmer, et ils étaient pleinement justifiés de se fier à leurs avis lors de la production de leurs déclarations de revenus pour les années d'imposition 2007 et 2008.
+[96] Les appelantes et leurs actionnaires n’ont en aucun temps, fait de fausses représentations à l’ARC. Le système des artisans-éboueurs a duré de 1995 à 2008, soit pendant près de 13 ans, dont 9 ans sans que l’ARC ne conteste la structure mise en place. Les cotisations pour les années d'imposition 2004, 2005 et 2006 ne comportaient pas de pénalités et les dépenses réclamées par les appelantes ont été accordées par l’ARC. Ce n’est qu’en vertu des cotisations pour les années d'imposition 2007 et 2008 que les dépenses des appelantes ont été refusées et que les pénalités ont été imposées. En tenant compte de ces faits, je ne vois pas comment le ministre peut, en 2010, prétendre que les appelantes et leurs actionnaires ont fait de fausses représentations en produisant leurs déclarations de revenu pour les années d'imposition 2007 et 2008.
+[97] La seule raison pour laquelle les pénalités ont été imposées m’apparaît être celle de forcer les parties à mettre un terme au système.
+[98] Pour ces motifs, les appels à l’encontre des nouvelles cotisations établies à l’égard des années d’imposition 2004, 2005 et 2006 sont rejetés avec dépens. L'intimée a droit à un jeu de dépens pour l’ensemble des dossiers en appel et à un autre jeu de dépens pour les dossiers 2010-2396(IT)G et 2010-2369(IT)G pour lesquels des désistements ont été déposé la veille du procès. L’intimée a, de plus droit aux déboursés pour l’ensemble des dossiers, y compris ceux ayant fait l’objet d’un désistement.
+[99] Les appels à l’encontre des nouvelles cotisations établies à l’égard des années d’imposition 2007 et 2008 sont admis sans frais et lesdites nouvelles cotisations sont déférées au ministre pour nouvelle considération et nouvelles cotisations afin d’annuler les pénalités.
+Signé à Ottawa, Canada, ce 25e jour de septembre 2014.
+« Réal Favreau »
+Juge Favreau
+ANNEXE
+LISTE DES GROUPES
+RÉFÉRENCE :
+2014 CCI 281
+Nºs DES DOSSIERS DE LA COUR :
+2010-2326(IT)G, 2010-2445(IT)G
+2010-2375(IT)G, 2010-2332(IT)G
+INTITULÉS DES CAUSES :
+9016-9202 Québec Inc.,
+9016-9293 Québec Inc.,
+9017-6298 Québec Inc.,
+9046-0221 Québec Inc.,
+c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATES DE L’AUDIENCE :
+les 11, 12, 13 et 14 juin 2013
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 25 septembre 2014
+COMPARUTIONS :
+Avocats des appelantes :
+Me Aaron Rodgers
+Me Bernard Larose
+Avocats de l'intimée :
+Me Anne Poirier
+Me Simon Vincent
+AVOCATS INSCRITS AUX DOSSIERS :
+Pour les appelantes:
+Noms :
+Me Aaron Rodgers
+Me Bernard Larose
+Cabinet :
+Garfinkle Nelson-Wiseman Bilmes Rodgers, S.E.N.C.R.L. - L.L.P.
+Montréal (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

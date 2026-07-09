@@ -1,0 +1,208 @@
+---
+title: "Tallon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/303912/index.do"
+last_modified: "2017-12-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 244"
+citation2: ""
+neutral_citation: "2017 CCI 244"
+decision_date: "2017-12-13"
+language: "fr"
+item_id: "303912"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7851
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:15:43.689000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1a0c1349d88fc041bd397830ea7fbc7ec951e83110dcd15eaaa720c13c47e140"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tallon c. La Reine
+
+- Citation: 2017 CCI 244
+- Decision date: 2017-12-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7851, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tallon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-12-13
+Référence neutre
+2017 CCI 244
+Numéro de dossier
+2015-5603(IT)I
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015‑5603(IT)I ENTRE :
+TRUDY TALLON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 6 et 7 septembre 2017 à Toronto (Ontario).
+Devant : L’honorable juge suppléant Rommel G. Masse
+Comparutions :
+Avocate de l’appelante :
+Me Leigh Sommerville Taylor
+Avocat de l’intimée :
+Me Ryan Gellings
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2012 est admis en partie et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci‑joints.
+Avec le consentement des parties, l’appelante a retiré son appel visant l’année d’imposition 2013.
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2014 est rejeté, conformément aux motifs du jugement ci‑joints.
+Signé à Kingston (Ontario), ce 13e jour de décembre 2017.
+« Rommel G. Masse »
+Juge suppléant Masse
+Référence : 2017 CCI 244
+Date : 20171213
+Dossier : 2015‑5603(IT)I
+ENTRE :
+TRUDY TALLON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Juge suppléant Masse
+[1] La Cour est saisie d’un appel interjeté par Trudy Tallon à l’encontre du refus du ministre du Revenu national (le « ministre ») des crédits d’impôt pour frais médicaux (« CIFM ») demandé à l’égard des frais de déplacement engagés par celle‑ci et son époux au cours des années d’imposition 2012, 2013 et 2014.
+[2] Les parties sont parvenues à un règlement partiel du présent appel. Les parties s’entendent, en ce qui concerne l’année d’imposition 2012, que l’appel doit être accueilli en partie et l’affaire renvoyée au ministre pour nouvel examen et nouvelle cotisation à condition que les frais de déplacement de l’appelante aux États‑Unis, s’élevant à 958,97 $, soient acceptés en tant que frais médicaux. À tous les autres égards, l’appel est rejeté.
+[3] En ce qui concerne l’année d’imposition 2013, l’appelante retire son appel dans la mesure où il se rapporte aux frais de déplacement en Thaïlande au motif qu’aucun impôt fédéral n’avait été imposé.
+[4] La Cour doit uniquement décider si l’appelante peut demander la déduction, à titre de frais médicaux, les sommes engagées par celle‑ci et son époux pour les déplacements, les repas et l’hébergement liés aux voyages en Thaïlande et au Cambodge entre décembre 2013 et mai 2014. L’appelante soutient que ces frais sont déductibles à bon droit au titre de frais médicaux prévus par les alinéas 118.2(2)g) et h) de la Loi de l’impôt sur le revenu, L.R.C., 1985, ch. 1 (5e suppl.), (la « Loi »). Le montant des frais en litige s’élève à 15 104,47 $. Si l’appelante obtient gain de cause dans son appel, il est convenu qu’elle bénéficiera d’un avantage net, entraînant une réduction de son impôt sur le revenu de 710,21 $.
+Faits
+[5] Le seul témoin qui a témoigné à l’audience était David Bullough, l’époux de l’appelante. L’appelante a déposé un gros cartable de documents (pièce A‑1) qui indiquait en détail tous ses dossiers médicaux pour la période visée, ainsi que tous les documents ayant trait aux frais de déplacement, d’hébergement et de repas de son époux et d’elle-même pendant les voyages et les séjours en Thaïlande et au Cambodge au cours de la période ici examinée.
+[6] Certains faits sont nécessaires afin de comprendre la thèse des parties. L’appelante est une résidente de Thunder Bay, en Ontario. Elle a des antécédents de longue date de graves problèmes de santé. Elle est atteinte d’une dysfonction du joint de l’articulation temporo-mandibulaire (ATM), un état débilitant et très douloureux. À la fin des années de 1980, elle a obtenu une prothèse de la mâchoire de marque Téflon Proplast, qui a été greffée chirurgicalement afin d’essayer de corriger son état douloureux. L’utilisation de ces prothèses Teflon s’est avérée désastreuse pour l’appelante. En fin de compte, les prothèses Téflon se sont fragmentées, ce qui a entraîné un changement progressif et dégénératif de ses os et un phénomène connu comme une réaction de cellule géante. Des petits fragments de Téflon ont été dispersés partout dans son système et ces fragments ou fibres ont agi comme des millions de petits trépans à mesure qu’ils envahissaient tout son corps au moyen de sa circulation sanguine. Le résultat final était l’érosion et la détérioration des os dans sa mâchoire, son articulation temporo-mandibulaire, ainsi que dans son crâne. Le médecin local de l’appelante, le Dr Franchi, a effectué de nombreuses recherches et a tenu de nombreuses consultations avec d’autres médecins afin de trouver une solution au problème de l’appelante. Le Dr Franchi était d’avis qu’il n’existait aucune solution au Canada. En conséquence, l’appelante a été recommandée au Dr Larry Wolford, un chirurgien dentaire et maxillo‑facial de calibre mondial, au centre médical universitaire de Baylor, situé à Dallas, au Texas. Le Dr Wolford a enlevé autant que possible de la prothèse Téflon de la mâchoire de l’appelante et l’a remplacée par des appareillages prosthétiques ATM en titane métallique à la fin de l’année 2004. Depuis cette date, l’appelante s’est rendue à Dallas aux fins d’examens médicaux annuels.
+[7] Selon le Dr Wolford, puisque l’appelante a maintenant ces appareillages prosthétiques ATM métalliques, la température froide à Thunder Bay pendant l’hiver exacerbe sa douleur. Le Dr Wolford était d’avis que le fait de vivre dans un climat chaud pendant les mois hivernaux froids canadiens réduirait la douleur de l’appelante et améliorerait sa qualité de vie. Le Dr Wolford a fourni une lettre d’opinion datée du 3 novembre 2009, à l’intention du ministère de la Santé et des Soins de longue durée de l’Ontario (pièce A‑1, onglet 1). Cette opinion prévoit ce qui suit :
+[traduction]
+Ma patiente, Trudy Tallon, n’avait d’autre choix que de chercher un climat plus chaud pendant les six mois les plus froids de l’année (de novembre à mai). Les conditions froides exacerbent gravement la douleur des patients atteints de ce type de trouble, même avec la consommation de narcotiques. J’ai donc avisé ma patiente de continuer ses examens médicaux annuels à Dallas, au Texas, aux États‑Unis, ainsi que de chercher un climat plus chaud pendant l’hiver. Si elle ne se rend pas à un climat plus chaud, son trouble est susceptible d’entraîner davantage une détérioration de sa santé physique et mentale, pouvant même exiger son hospitalisation.
+[8] Dans une note de service datée du 12 août 2013 (pièce A‑1, onglet 4), le Dr Franchi a attesté qu’il est nécessaire pour l’appelante de se rendre à des climats plus chauds pendant l’hiver afin de soulager sa douleur. L’appelante nécessite encore une aide quotidienne pour de nombreux aspects de la vie normale. Selon le Dr Franchi, il est donc nécessaire que l’appelante ait un compagnon de voyage, idéalement, son époux. Sans un compagnon de voyage, il lui serait extrêmement difficile, voire impossible, d’affronter la vie dans un pays étranger pendant qu’elle tente d’affronter ses nombreux problèmes de santé extrêmes.
+[9] L’appelante et son époux ont effectivement passé leurs hivers dans des climats plus chauds depuis 1988. Ils sont allés en Thaïlande, en Indonésie, en Inde, au Costa Rica, au Venezuela, en Équateur, au Mexique, au Honduras, au Brésil, en Argentine et aux Philippines. Ils ont voyagé vers tous ces pays principalement en raison du climat chaud, mais aussi pour d’autres considérations. Un des facteurs en fonction desquels ils choisissaient leur destination était la disponibilité de services médicaux puisqu’il était fort probable que l’appelante allait avoir besoin de tels services, indépendamment du lieu où ils se trouvaient. Ils ont voyagé en Thaïlande et au Cambodge à compter de la fin de 2013, jusqu’au début de 2014. Pendant cette période, l’appelante a déclaré des frais médicaux de 19 318 $ pour l’année d’imposition 2014, y compris ses frais de déplacement et ceux de son époux. Même s’ils sont restés tous les deux en Thaïlande et au Cambodge, l’appelante n’a pas obtenu de traitement médical au Cambodge. Lorsqu’ils sont restés au Cambodge, ils prenaient un vol vers la Thaïlande et se rendaient à l’hôpital si l’appelante avait besoin d’un traitement médical.
+[10] L’époux de l’appelante convient que lorsqu’ils se rendent en Thaïlande et au Cambodge, ils s’y rendent pour le climat. Il est évident qu’ils ne se rendent pas en Thaïlande afin d’accéder à des services médicaux particuliers prévus. Ils s’y rendent pour le climat plus chaud, mais ils choisissent également leur destination en fonction d’un endroit près de l’hôpital ou d’autres fournisseurs de services médicaux dans l’éventualité où l’appelante aurait besoin de services médicaux. Ils se sont rendus en Thaïlande plutôt que dans le sud des États‑Unis en raison de capacité financière.
+[11] M. Bullough a indiqué que, pendant qu’ils étaient en Thaïlande, l’appelante a obtenu des services médicaux pour trois problèmes particuliers :
+a) un rythme cardiaque accéléré;
+b) un problème de thyroïde;
+c) un problème dermatologique.
+Problème cardiaque
+[12] Au Canada, l’appelante éprouvait des épisodes de rythme cardiaque accéléré. Ces épisodes entraînaient un essoufflement au point où elle éprouvait des difficultés à respirer. Ces épisodes étaient débilitants. Son médecin au Canada a attribué ces épisodes au stress et à l’anxiété. L’appelante et son époux n’acceptaient pas cette explication. Pendant qu’ils étaient en Thaïlande, elle a subi des tests et ils ont déterminé que, selon M. Bullough, le sang dans son cœur circulait dans la mauvaise direction. On soupçonnait qu’il y avait un trou dans son cœur. Il lui a été conseillé de prendre un médicament appelé bisoprolol pour maîtriser ses symptômes. À son retour au Canada, elle a consulté un nouveau médecin, le Dr Robrock, qui a avisé l’appelante de se rendre immédiatement à l’hôpital la prochaine fois qu’elle éprouvait un épisode de rythme cardiaque accéléré. C’est ce qu’a fait l’appelante. Un examen approfondi a confirmé qu’elle avait un problème cardiaque qui exigeait une chirurgie d’ablation cardiaque afin de corriger le problème cardiaque. La chirurgie a été effectuée à London, en Ontario.
+Problème de thyroïde
+[13] L’appelante a commencé à prendre du poids et sa gorge enflait au point où il lui était difficile d’avaler et de respirer. Elle a consulté un médecin à Thunder Bay afin de déterminer si elle avait un problème de thyroïde. Les tests ont révélé que les niveaux afférents à sa thyroïde étaient normaux, même s’ils étaient à l’extrémité inférieure du seuil acceptable. Son médecin à Thunder Bay a recommandé que son état soit surveillé et qu’elle retourne un an plus tard aux fins de suivi. L’appelante et son époux n’étaient pas satisfaits de cette réponse. Lorsqu’ils étaient en Thaïlande, elle a décidé de consulter un expert en thyroïde. À cette date, il y avait des nodules élargis sur les lobes de sa thyroïde. Ces nodules ont été aspirés et une quantité importante de liquide a été enlevée, ce qui a soulagé immédiatement ses symptômes. Le médecin thaï a également augmenté considérablement sa dose de thyroxine.
+Blessure faciale
+[14] L’appelante avait une blessure ou un point noir sur sa joue. Les médecins au Canada l’ont simplement avisé de le surveiller. Puisqu’elle n’était pas satisfaite de cette réponse, l’appelante s’est présentée à l’hôpital en Thaïlande aux fins d’enquête approfondie de cette blessure. Lorsqu’elle a été examinée à l’hôpital, elle a subi une chirurgie et une grosseur dont la taille était équivalente à la taille d’un pouce a été enlevée de sa joue. La pathologie a indiqué que ce tissu n’était pas cancéreux.
+La position des parties
+[15] L’appelante ne demande pas à la Cour de conclure que les bienfaits pour la santé d’un climat chaud constituent des prestations médicales. La Cour d’appel fédérale a déjà conclu qu’ils ne le sont pas : voir La Reine c. Tallon, 2015 CAF 156. L’appelante exhorte la Cour à conclure que les frais de déplacement qu’elle a engagés pour obtenir les services médicaux en Thaïlande sont déductibles au titre de CIFM. Elle soutient que l’itinéraire emprunté par l’appelante et son époux était un itinéraire raisonnablement direct, compte tenu des circonstances. Elle devait être accompagnée par son époux puisqu’elle ne pouvait pas voyager sans son aide, fait auquel un médecin a attesté. Elle soutient qu’ils se sont rendus en Thaïlande et au Cambodge afin d’obtenir des services médicaux pour l’appelante et qu’il n’était pas possible d’obtenir des services médicaux sensiblement équivalents plus près de leur localité de résidence. L’avocate de l’appelante soutient qu’il était raisonnable, compte tenu des circonstances, pour l’appelante et son époux de se rendre en Thaïlande afin d’obtenir ces services médicaux. Elle fait donc valoir que ces dépenses sont déduites à bon droit en vertu des alinéas 118.2(2)g) et h) de la Loi et, par conséquent, l’appelante a droit au CIFM en litige. En conséquence, elle soutient que l’appel visant l’année d’imposition 2014 doit être accueilli.
+[16] L’avocat de l’intimée soutient que l’objet du déplacement doit être l’obtention de services médicaux. En l’espèce, il est vrai que l’appelante a obtenu des services médicaux pendant son voyage en Thaïlande, mais ce n’était pas l’objectif du voyage dans ce pays. Elle soutient que l’objectif des voyages de l’appelante en Thaïlande et au Cambodge n’était pas d’obtenir des services médicaux, mais plutôt de profiter des effets bénéfiques du climat chaud. Les effets bénéfiques d’un climat chaud ne constituent pas un service médical au sens du sous-alinéa 118.2(2)g)(v) de la Loi. S’il arrive qu’un contribuable obtienne un service médical pendant son voyage, cela ne lui donne pas automatiquement le droit de déduire un CIFM au titre de frais de déplacement puisque cela n’était pas le but du voyage. L’avocat de l’intimée soutient, par ailleurs, que même si les voyages de l’appelante en Thaïlande avaient pour but d’obtenir des services médicaux, elle n’a pas établi qu’il n’était pas possible qu’elle obtienne des services médicaux sensiblement équivalents à un endroit qui est plus près de sa localité de résidence. En outre, l’itinéraire emprunté n’était pas un itinéraire raisonnablement direct. L’intimée exhorte donc la Cour à ce qu’elle rejette l’appel visant l’année d’imposition 2014.
+Les dispositions législatives
+[17] Les dispositions pertinentes de la Loi sont les suivantes :
+118.2(2) Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+a) à un médecin, à un dentiste, à une infirmière ou un infirmier, à un hôpital public ou à un hôpital privé agréé, pour les services médicaux ou dentaires fournis au particulier, à son époux ou conjoint de fait ou à une personne à la charge du particulier (au sens du paragraphe 118(6)) au cours de l’année d’imposition où les frais ont été engagés;
+[...]
+g) à une personne dont l’activité est une entreprise de transport, dans la mesure où ce paiement se rapporte au transport, entre la localité où habitent le particulier, son époux ou conjoint de fait ou une personne à charge visée à l’alinéa a) et le lieu – situé à 40 kilomètres au moins de cette localité – où des services médicaux sont habituellement dispensés, ou vice-versa, des personnes suivantes :
+(i) le particulier, l’époux ou conjoint de fait ou la personne à charge,
+(ii) un seul particulier accompagnant le particulier, l’époux ou le conjoint de fait ou la personne à charge, si ceux-ci sont, d’après l’attestation écrite d’un médecin, incapables de voyager sans l’aide d’un préposé à leurs soins,
+o si les conditions suivantes sont réunies :
+(iii) il n’est pas possible d’obtenir dans cette localité des services médicaux sensiblement équivalents,
+(iv) l’itinéraire emprunté par le particulier, l’époux ou conjoint de fait ou la personne à charge est, compte tenu des circonstances, un itinéraire raisonnablement direct,
+(v) le particulier, l’époux ou conjoint de fait ou la personne à charge se rendent en ce lieu afin d’obtenir des services médicaux pour eux-mêmes et il est raisonnable, compte tenu des circonstances, qu’ils s’y rendent à cette fin;
+h) pour les frais raisonnables de déplacement, à l’exclusion des frais visés à l’alinéa g), engagés à l’égard du particulier, de l’époux ou du conjoint de fait ou d’une personne à charge visée à l’alinéa a) et, si ceux-ci sont, d’après l’attestation écrite d’un médecin, incapables de voyager sans l’aide d’un préposé à leurs soins, à l’égard d’un seul particulier les accompagnant, afin d’obtenir des services médicaux dans un lieu situé à 80 kilomètres au moins de la localité où le particulier, l’époux ou le conjoint de fait ou la personne à charge habitent, si les conditions visées aux sous-alinéas g)(iii) à (v) sont réunies;
+Discussion
+[18] La seule question que la Cour doit trancher est celle de savoir si l’appelante peut décuire un CIFM par rapport aux frais qu’elle et son époux ont engagés aux fins de voyages, de repas et d’hébergement en Thaïlande et au Cambodge entre décembre 2013 et mai 2014.
+[19] Dans Tokarski c. Canada, 2012 CCI 115, le juge Hershfield a indiqué que ces trois dispositions de la Loi visaient à aider les gens des régions rurales ou éloignées ou les ceux dont l’état exige un traitement spécial dans un centre éloigné. Ils visent à profiter aux habitants de toutes les petites localités au Canada où les services médicaux spécialisés sont éloignés ou difficiles à obtenir et où ces gens doivent aller dans les grands centres pour obtenir les soins qui leur conviennent.
+[20] Le juge Campbell de notre Cour a conclu que des raisons personnelles de voyager en vue d’obtenir des services médicaux ailleurs ne confèrent pas à un contribuable un droit au crédit d’impôt pour frais médicaux : Ismael c La Reine, 2014 CCI 157. Par conséquent, les préférences ou les aversions personnelles d’un contribuable concernant les services médicaux locaux ne signifie pas qu’il n’est pas possible d’obtenir dans cette localité des services médicaux sensiblement équivalents.
+[21] Dans l’affaire La Reine c. Tallon, 2015 CAF 156, la Cour d’appel fédérale a expliqué l’objectif du CIFM, aux paragraphes 22 à 26. Le CIFM procure un certain allégement fiscal pour des types précis de frais médicaux qui sont énumérés aux alinéas 118.2(2)a) à u) de la Loi. L’alinéa 118.2(2)a) inclut dans les frais médicaux les frais payés à un médecin, à une infirmière ou un infirmier, à un hôpital public ou à un hôpital privé agréé pour les services médicaux fournis à la personne qui demande le CIFM, à son époux ou conjoint de fait ou à une personne à la charge du particulier.
+[22] Les alinéas 118.2(2)g) et h) de la Loi prévoient un crédit d’impôt pour frais médicaux par rapport aux frais de déplacement, de repas et d’hébergement dans les cas où un patient reçoit des soins ailleurs que dans sa localité de résidence.
+[23] L’alinéa 118.2(2)g), inclut dans les frais médicaux, les frais payés à une personne dont l’activité est une entreprise de transport, dans la mesure où ce paiement se rapporte au transport, entre la localité où habitent le particulier et une personne accompagnatrice nécessaire et le lieu – situé à 40 kilomètres au moins de cette localité – où des services médicaux sont habituellement dispensés, ou vice‑versa.
+[24] L’alinéa 118.2(2)h) inclut dans les frais médicaux les frais raisonnables de déplacement, à l’exclusion des frais de déplacement décrits à l’alinéa 118.2(2)g), engagés à l’égard du particulier afin d’obtenir des services médicaux dans un lieu situé à 80 kilomètres au moins de la localité où le particulier habite. Sont aussi inclus les frais semblables engagés à l’égard d’un préposé aux soins si le particulier est incapable de voyager sans l’aide de cette personne, selon l’attestation d’un médecin.
+[25] Toutefois, certaines conditions strictes doivent être remplies avant qu’un contribuable ne puisse déduire ceux‑ci au titre de frais médicaux, notamment :
+a) il n’est pas possible d’obtenir dans cette localité des services médicaux sensiblement équivalents;
+b) l’itinéraire emprunté est raisonnablement direct;
+c) le particulier se rend en ce lieu afin d’obtenir des services médicaux pour lui‑même et il est raisonnable qu’il s’y rende à cette fin.
+[26] La Cour a déclaré dans Tallon que l’alinéa 118.2(2)g) a pour objet d’offrir une aide financière aux Canadiens qui sont forcés de se déplacer de leur localité de résidence vers d’autres lieux pour avoir accès à des services médicaux spécialisés qui ne leur sont pas offerts là où ils vivent. La Cour a conclu au paragraphe 39 :
+Une analyse téléologique de l’alinéa 118.2(2)g) de la Loi me porte à conclure qu’en adoptant cette disposition, le législateur avait l’intention d’offrir une aide financière, au moyen du CIFM, aux Canadiens qui sont forcés de se déplacer de leur localité de résidence vers d’autres lieux pour avoir accès à des services médicaux spécialisés qui ne leur sont pas offerts là où ils vivent. Cela étant dit, les circonstances dans lesquelles cette aide financière est offerte ont été soigneusement circonscrites par les limites qui sont prévues dans cet alinéa. De telles limites ne peuvent pas être ignorées ni élargies en présence d’une situation qui suscite la sympathie.
+[Non souligné dans l’original.]
+[27] La Cour a conclu que les « services médicaux », au sens de l’alinéa 118.2(2)g) de la Loi, doivent être fournis au particulier par une personne ou un hôpital. Par conséquent, puisque les effets bénéfiques du climat chaud thaï n’ont pas été fournis à la contribuable par une personne ou un hôpital, ces effets ne peuvent pas constituer un service médical obtenu par la contribuable au sens de ni l’alinéa 118.2(2)g) ni de l’alinéa 118.2(2)h) de la Loi.
+[28] L’appelante ne demande pas à la Cour de conclure que le climat chaud constituait un service médical, mais plutôt de conclure que les frais de déplacement qu’elle a engagés aux fins des services médicaux qu’elle a obtenus en Thaïlande constituaient des services médicaux visés par les alinéas 118.2(2)g) et h) de la Loi. Afin qu’elle puisse conclure ainsi, les conditions suivantes doivent être établies :
+a) il n’était pas possible d’obtenir dans cette localité des services médicaux sensiblement équivalents;
+b) l’itinéraire emprunté par l’appelante est, compte tenu des circonstances, un itinéraire raisonnablement direct ;
+c) L’appelante s’est rendue en ce lieu afin d’obtenir des services médicaux pour elle‑même et il est raisonnable, compte tenu des circonstances, qu’elle s’y rende à cette fin.
+Il incombe à l’appelante d’établir ces critères selon la prépondérance des probabilités.
+[29] L’appelante invoque les décisions anticipées publiées par le ministre dans lesquelles sont interprétées les exigences liées au caractère raisonnable et à la disponibilité. Ces décisions figurent aux onglets 2 à 10 du cahier de jurisprudence de l’appelante. Ces décisions anticipées ne lient pas la Cour, même si elles peuvent être convaincantes. Il convient de noter que dans ces décisions anticipées, le ministre a offert une interprétation large, libérale et compatissante de l’exigence « du caractère raisonnable » et de l’exigence de disponibilité de « services médicaux sensiblement équivalents ». Toutefois, toutes ces décisions anticipées indiquent clairement que le contribuable visé par ces décisions envisageait de voyager en vue d’obtenir des services médicaux précis avant d’entreprendre le voyage. En d’autres termes, l’objectif du voyage est déterminé avant d’entreprendre le voyage. Elles indiquent également clairement que toutes les conditions énoncées au paragraphe 118.2(2) devaient être remplies et qu’il s’agissait essentiellement d’une question de fait.
+[30] L’appelante soutient qu’elle avait besoin d’un traitement et de services médicaux continus ayant trait à son état débilitant. Elle et son époux ont voyagé à l’étranger en vue d’obtenir des services médicaux et elle a effectivement obtenu des services médicaux de médecins à l’extérieur du Canada. L’appelante fait valoir qu’il lui était impossible d’obtenir, dans sa localité, ces services médicaux et qu’elle devait se rendre à Bangkok pour les obtenir. Elle soutient que son voyage à Bangkok était raisonnable dans ses circonstances uniques.
+L’objectif du voyage
+[31] Quel était l’objectif du voyage de l’appelante en Thaïlande? Après avoir apprécié l’ensemble de la preuve, il est clair que l’objectif du voyage en Thaïlande consistait principalement à profiter des avantages pour la santé, tirés du climat chaud. Il ne fait aucun doute que le fait de passer du temps dans un climat chaud pendant l’hiver a certainement permis de soulager sa douleur. Malheureusement, les bénéfices d’un climat chaud ne constituent pas des services médicaux au sens des alinéas 118.2(2)g) ou h) de la Loi. Il n’y a aucun doute que pendant qu’elle y était, l’appelante a effectivement obtenu certains services médicaux précis concernant son rythme cardiaque accéléré, son trouble de la thyroïde et sa blessure faciale. Cependant, ce n’était pas la raison de son voyage vers ce pays étranger éloigné. Elle a obtenu des services médicaux en Thaïlande parce qu’elle s’y trouvait au moment où elle a obtenu ces services. Elle n’est allée en Thaïlande pour obtenir ces services médicaux. Il ne ressort aucunement de la preuve que l’appelante envisageait des services médicaux avant de se rendre en Thaïlande, ce qui aurait attribué à son voyage un objectif autre que celui de profiter des avantages d’un climat chaud.
+Services médicaux sensiblement équivalents
+[32] Était‑il possible d’obtenir des services médicaux sensiblement équivalents plus près de sa localité de résidence? Il incombe à l’appelante d’établir qu’il n’était pas possible d’obtenir des services médicaux sensiblement équivalents plus près de sa localité de résidence. Je suis d’avis, selon l’ensemble de la preuve, qu’elle n’a pas établi cette exigence selon la prépondérance des probabilités. En fait, aucun élément de preuve n’indique le manque de services sensiblement équivalents plus près de sa localité de résidence.
+[33] Il convient de noter que le Dr Franchi a donné son opinion par écrit qu’il n’existait aucune solution au Canada du problème lié aux prothèses Téflon de l’appelante et qu’il lui était nécessaire de se rendre au Texas pour consulter le Dr Wolford, un expert dans ce domaine médical. En l’espèce, aucun élément de preuve provenant d’un médecin ou d’une autre personne possédant l’expérience indiquant qu’il était raisonnable pour l’appelante de se rendre en Thaïlande pour obtenir un soulagement de son battement de cœur accéléré, de sa thyroïde enflée ou de sa grosseur faciale parce qu’il n’était pas possible d’obtenir un tel traitement plus près de sa localité de résidence. Je ne crois pas qu’il soit nécessaire d’assigner à témoigner un témoin expert pour affirmer qu’il n’était pas possible d’obtenir, dans sa localité, des services médicaux sensiblement équivalents et d’établir la localité la plus près pour accéder raisonnablement à des services équivalents. Toutefois, des éléments de preuve doivent être présentés pour répondre à cette exigence. Dans la procédure informelle, il se peut fort bien que la Cour soit convaincue au moyen d’une lettre d’opinion provenant d’un médecin ayant l’expérience, comme celle provenant du Dr Franchi, affirmant qu’il n’était pas possible d’obtenir dans cette localité des services médicaux équivalents et suggérant où on peut accéder raisonnablement à de tels services. Je ne dispose d’aucune preuve du genre en l’espèce.
+[34] Je peux tenir compte du fait qu’il se peut que le système de soins de santé en Ontario comporte des problèmes. Toutefois, il y a des cardiologues qualifiés en Ontario qui peuvent diagnostiquer et traiter le rythme cardiaque accéléré de l’appelante. En fait, elle a obtenu son diagnostic dans sa localité de résidence et elle a subi une chirurgie à London, en Ontario. Par conséquent, il lui était possible d’obtenir dans une localité beaucoup plus près de sa localité de résidence qu’en Thaïlande des services médicaux sensiblement équivalents concernant ses troubles cardiaques.
+[35] Il y a des dermatologues en Ontario et il ne ressort aucunement de la preuve que ces dermatologues n’étaient pas qualifiés pour enlever une tumeur faciale bénigne. Encore une fois, M. Bullough a affirmé que l’appelante faisait l’objet d’un suivi une fois par année par un expert en ce qui concerne sa grosseur faciale. L’expert était d’avis que cet état devrait continuer de faire l’objet d’un suivi. L’appelante a choisi de faire enlever la grosseur en Thaïlande, mais cela n’étaye pas la conclusion selon laquelle il n’était pas possible d’obtenir, à Thunder Bay, des services médicaux sensiblement équivalents. Cela démontre simplement que l’appelante n’était pas satisfaite des recommandations de son médecin et qu’elle a choisi de ne pas suivre les conseils de son médecin.
+[36] L’appelante ne donne aucune explication réelle de la raison pour laquelle elle devait se rendre en Thaïlande pour examiner son problème de thyroïde. Elle a été examinée et a subi des tests en Ontario et, même si les résultats des tests obtenus se situaient à l’extrémité inférieure du seuil acceptable, ils relevaient quand même de l’éventail acceptable. Il a été recommandé que son état soit surveillé. Encore une fois, l’appelante n’a pas suivi ce conseil. Il existe des endocrinologues en Ontario et il ne ressort aucunement de la preuve qu’ils ne sont pas qualifiés pour traiter le problème de thyroïde de l’appelante. Aucun élément de preuve n’a été présenté à la Cour pour indiquer que l’aspiration des nodules de la thyroïde, s’il s’agissait d’une mesure médicale nécessaire et spécialisée, n’aurait pas pu être prise plus près de sa localité de résidence.
+[37] Il ne s’agit pas d’une situation où il n’était pas possible d’obtenir les services; il s’agit d’une situation où l’appelante et son époux n’étaient pas satisfaits des recommandations de ses médecins locaux et où ils estimaient que le traitement qu’ils pouvaient obtenir dans leur localité était de qualité inférieure par rapport à celui qu’ils ont reçu en Thaïlande. Les alinéas 118.2(2)g) et h) n’ont pas pour objet d’offrir une aide financière aux contribuables qui ne souscrivent pas aux recommandations de leurs médecins locaux et qui décident de se prévaloir d’autres options dans un pays éloigné pendant une période prolongée. Tel que cela a déjà été indiqué, des raisons personnelles de voyager en vue d’obtenir des services médicaux ailleurs ne confèrent pas à un contribuable un droit au crédit d’impôt pour frais médicaux : Ismael c La Reine, 2014 CCI 157. Les préférences ou les aversions personnelles d’un contribuable concernant les services médicaux locaux ne signifient pas qu’il n’est pas possible d’obtenir, dans cette localité, des services médicaux sensiblement équivalents.
+Caractère raisonnable
+[38] De plus, je ne suis pas convaincu qu’il était raisonnable, dans les circonstances, pour l’appelante de voyager de milliers de kilomètres pour se rendre en Thaïlande et au Cambodge et d’y demeurer pendant quatre mois et demi pour obtenir les services médicaux liés à ses trois problèmes médicaux énumérés. Il n’existe simplement aucune raison expliquant qu’elle ne pouvait pas avoir accès aux services médicaux plus près de sa localité de résidence pour une fraction du coût.
+Conclusion
+[39] Pour les motifs qui précèdent, je conclus comme suit :
+a) En ce qui concerne l’année d’imposition 2012
+Sur consentement des parties, l’appel est accueilli en partie et l’affaire renvoyée au ministre pour nouvel examen et nouvelle cotisation à condition que les frais de déplacement de l’appelante aux États‑Unis s’élevant à 958,97 $ soient acceptés en tant que frais médicaux. À tous les autres égards, l’appel est rejeté.
+b) En ce qui concerne l’année d’imposition 2013
+Sur consentement des parties, l’appelante retire son appel dans la mesure où il se rapporte aux frais de déplacement en Thaïlande au motif qu’aucun impôt fédéral n’avait été imposé.
+c) En ce qui concerne l’année d’imposition 2014
+L’appel est rejeté.
+[40] Je profite de cette occasion pour remercier Me Sommerville Taylor, l’avocate de l’appelante et Me Gellings, l’avocat de l’intimée, de la manière professionnelle dont ils ont représenté leur client respectif. Ils font honneur à la profession.
+Signé à Kingston (Ontario), ce 13e jour de décembre 2017.
+« Rommel G. Masse »
+Juge suppléant Masse
+RÉFÉRENCE :
+2017 CCI 244
+NO DU DOSSIER DE LA COUR :
+2015‑5603(IT)I
+INTITULÉ :
+Trudy Tallon et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Les 6 et 7 septembre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Rommel G. Masse
+DATE DU JUGEMENT :
+Le 13 décembre 2017
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Leigh Sommerville Taylor
+Avocat de l’intimée :
+Me Ryan Gelllings
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Leigh Sommerville Taylor
+Cabinet :
+Leigh Sommerville-Taylor Professional Corporation
+Pour l’intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada

@@ -1,0 +1,140 @@
+---
+title: "Fenton Group Investment Co. Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28183/index.do"
+last_modified: "2003-11-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 867"
+citation2: ""
+neutral_citation: "2003 CCI 867"
+decision_date: "2003-11-28"
+language: "fr"
+item_id: "28183"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1964
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:28:21.936000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d029c4f211778b96140053444f4da1b18ffffd5234cddfa5869cb73f86ad46fd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fenton Group Investment Co. Limited c. La Reine
+
+- Citation: 2003 CCI 867
+- Decision date: 2003-11-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1964, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fenton Group Investment Co. Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-28
+Référence neutre
+2003 CCI 867
+Numéro de dossier
+2003-2648(GST)APP
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003‑2648(GST)APP
+ENTRE :
+FENTON GROUP INVESTMENT CO. LIMITED,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue le 22 octobre 2003 à Winnipeg (Manitoba)
+Devant : L’honorable juge L. M. Little
+Comparutions
+Pour la requérante :
+La requérante elle‑même
+Représentant de l’intimée :
+Julien Bédard
+stagiaire en droit
+____________________________________________________________________
+ORDONNANCE
+Vu la demande faite afin d’obtenir une ordonnance prolongeant le délai dans lequel un avis d’appel à l’encontre de la nouvelle cotisation établie peut être déposé;
+Et vu les allégations des parties;
+La demande est rejetée conformément aux motifs de l’ordonnance ci‑joints.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 27e jour de février 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI867
+Date : 20031128
+Dossier : 2003‑2648(GST)APP
+ENTRE :
+FENTON GROUP INVESTMENT CO. LIMITED,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Little
+A. FAITS
+[1] La requérante est une société qui a été constituée en personne morale en vertu des lois de la province du Manitoba.
+[2] Par voie d’avis de cotisation daté du 8 mai 2001, le ministre du Revenu national (le « ministre ») a établi une cotisation d’impôt à l’égard de la requérante en vertu de la Loi sur la taxe d’accise (la « Loi ») pour les périodes se situant entre le 1er janvier 1999 et le 31 décembre 2000.
+[3] La requérante a déposé un Avis d’opposition à l’Avis de cotisation dans le délai prescrit au paragraphe 301(1) de la Loi.
+[4] Le 22 novembre 2002, le ministre a émis un Avis de nouvelle cotisation (la « nouvelle cotisation »). Ladite nouvelle cotisation visait à obliger la requérante à un impôt net de 4 051 $ et à lui imposer une pénalité de 219,14 $ ainsi que des intérêts au montant de 206,86 $.
+[5] L’Avis de nouvelle cotisation a été envoyé à la requérante par voie d’une lettre recommandée datée du 22 novembre 2002. Ladite lettre recommandée contenait l’énoncé suivant :
+[Traduction]
+L’article 306 de la Loi sur la taxe d’accise stipule que vous pouvez interjeter appel à l’encontre de la cotisation établie à votre égard devant la Cour canadienne de l’impôt dans les 90 jours suivant la date de réception du présent avis.
+[6] La requérante n’a pas déposé d’avis d’appel à l’encontre de la nouvelle cotisation dans le délai de 90 jours prévu par la Loi.
+[7] Le 11 juillet 2003, la requérante a déposé, devant la Cour, un document intitulé « demande de prorogation du délai ». (Remarque : Le document en question qu’a déposé la requérante devant la Cour était daté du 24 juillet 2004, mais a été estampillé par un officier de justice à Ottawa le 11 juillet 2003.)
+[8] Ledit document qu’a déposé la requérante devant la Cour contenait l’énoncé suivant :
+[Traduction]
+Toutes les démarches nécessaires ont été prises afin de résoudre le litige avant le 30 mai 2003. Cependant, à la date de la présente demande, je n’avais toujours pas reçu de réponse en vue de résoudre le litige en question.
+B. QUESTION EN LITIGE
+[9] Devrait‑on accorder à la requérante une prorogation du délai dans lequel un Avis d’appel à l’encontre de la nouvelle cotisation doit être déposé?
+C. ANALYSE
+[10] L’article 305 de la partie IX de la Loi est ainsi rédigé :
+305. (1) La personne qui n’a pas interjeté appel en application de l’article 306 dans le délai imparti peut présenter à la Cour canadienne de l’impôt une demande de prorogation du délai pour interjeter appel. Cette cour peut faire droit à la demande et imposer les conditions qu’elle estime justes.
+(2) La demande doit indiquer les raisons pour lesquelles l’appel n’a pas été interjeté dans le délai par ailleurs imparti.
+(3) La demande, accompagnée de trois exemplaires de l’avis d’appel, est déposée en trois exemplaires auprès du greffe de la Cour canadienne de l’impôt, ou lui est envoyée en trois exemplaires par courrier recommandé.
+(4) Sur réception de la demande, la Cour canadienne de l’impôt en envoie copie au bureau du sous‑procureur général du Canada.
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l’année suivant l’expiration du délai d’appel par ailleurs imparti;
+b) la personne démontre ce qui suit :
+(i) dans le délai d’appel par ailleurs imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+[11] J’ai conclu que la demande qu’a présentée la requérante afin d’obtenir une prorogation du délai dans lequel un avis d’appel doit être déposé n’est pas conforme aux conditions que prévoit le paragraphe 305(2) de la Loi parce que ladite demande n’indique pas les raisons pour lesquelles l’appel n’a pas été interjeté dans le délai prévu à l’article 306 de la Loi.
+[12] J’ai aussi conclu ce qui suit :
+a) la requérante n’a pas démontré qu’elle n’avait pu agir dans le délai prévu à l’article 306 de la Loi pour interjeter appel;
+b) la requérante n’a pas démontré qu’elle avait véritablement l’intention d’interjeter appel dans le délai prévu à l’article 306 de la Loi;
+c) la demande de prorogation du délai n’a pas été présentée dès que les circonstances le permettaient, tel que l’exige le sous‑alinéa 305(5)b)(iii) de la Loi.
+[13] Par conséquent, j’ai conclu que la requérante n’a pas respecté les conditions énoncées aux sous‑alinéas 305(5)b)(ii) et 305(5)b)(iii) de la Loi et qu’elle n’a fourni aucune raison qui démontre qu’il serait juste et équitable de faire droit à la demande et que l’appel à l’encontre de la nouvelle cotisation est raisonnablement fondé.
+[14] La demande est donc rejetée.
+Signé à Vancouver (Colombie‑Britannique), ce 28e jour de novembre 2003.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 27e jour de février 2004.
+Nancy Bouchard, traductrice

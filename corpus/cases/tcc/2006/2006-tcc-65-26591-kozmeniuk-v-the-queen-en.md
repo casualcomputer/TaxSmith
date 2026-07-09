@@ -1,0 +1,164 @@
+---
+title: "Kozmeniuk v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26591/index.do"
+last_modified: "2006-02-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 65"
+citation2: ""
+neutral_citation: "2006 TCC 65"
+decision_date: "2006-02-07"
+language: "en"
+item_id: "26591"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3533
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:22:07.705000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b0a51f8ed7356d5efe4a3c99eb84e5f0b2140017db8196a4e22efb54d14c6d25"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kozmeniuk v. The Queen
+
+- Citation: 2006 TCC 65
+- Decision date: 2006-02-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3533, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kozmeniuk v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-02-07
+Neutral citation
+2006 TCC 65
+File numbers
+2005-2281(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2005TCC65
+Date: 20060207
+Docket: 2005-2281(IT)I
+BETWEEN:
+BERNARD KOZMENIUK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(delivered orally from the Bench at
+Brandon, Manitoba, on December 1, 2005)
+[1] This appeal pursuant to the Informal Procedure was heard at Brandon, Manitoba, on November 30, 2005. The Appellant was the only witness.
+[2] The particulars in dispute are set out in paragraphs 10 - 14 inclusive of the Reply to the Notice of Appeal. They read:
+10. In response to the objection, the Minister reassessed the Appellant for the 2003 taxation year on March 21, 2005 to increase the Appellant's claim for employment expenses by $860.98, from $9,895.78, as follows:
+Expenses
+Claimed
+Previously
+Allowed
+Increase
+Currently
+Allowed
+Currently
+Disallowed
+Cell Phone
+$ 3,358.61
+$ 2,582.94
+$ 860.98
+$ 3,443.92
+($ 85.31)
+Meals
+13,745.10
+6,451.86
+0.00
+6,451.86
+7,293.24
+Total
+$17,103.71
+$9,034.80
+$860.98
+$9,895.78
+$7,207.93
+11. Meal expenses in the amount of $6,451.86 were allowed pursuant to the "Simplified Method" as set out in Information Circular 73-21R8, Claims for Meals and Lodging Expenses of Transport Employees, and were based on the record of trips and the TL2, Claim for Meals and Lodging Expenses, submitted by the Appellant. Accordingly, expenses claimed for meals in excess of the amount allowed were not supported.
+12. In so reassessing the Appellant for the 2003 taxation year, the Minister made the following assumptions of fact:
+(a) the Appellant is a long distance transport driver;
+(b) during the 2003 taxation year, the Appellant performed long distance hauling duties for Bison Transport Inc. (the "Employer");
+(c) the Appellant resides in or around Roblin, Manitoba;
+(d) the Employer's establishment to which the Appellant reports is located in Winnipeg, Manitoba (the "Home Terminal");
+(e) in the 2003 taxation year, the Appellant made a total of 39 trips away from the Home Terminal to various destinations in Canada and the United States while performing duties for the Employer;
+(f) the Appellant chose to claim a deduction for meal expenses based on time away from the Home Terminal in accordance with the Canada Custom and Revenue Agency's administrative guidelines, rather than to keep actual meal receipts for amounts expended for meals;
+(g) at no time did the Appellant provide any receipts or vouchers in support of his claim for meals in the 2003 taxation year;
+(h) the Appellant incurred no more than 430 meals in Canada and 307 meals in the United States while travelling away from the Home Terminal to various destinations in Canada and the United States, including certain trips to Roblin, Manitoba, while performing duties for the Employer;
+(i) the exchange rate from the United States dollar to the Canadian dollar was 1.40146 in 2003; and
+(j) the Appellant was entitled to a deduction for meals in the amount of $6,451.86, as follows:
+Meals in Canada - 430 meals x $15 per meal $6,450.00
+Meals in United States - 307 meals x ($15 U.S. per meal x 1.40146) 6,4563.72
+Total $12,903.72
+Less: 50% Reduction per Section 67.1 of the Income Tax Act 6,451.86
+Meal Expenses Allowed $6,451.86
+B. ISSUES TO BE DECIDED
+13. The issues to be decided are:
+(a) whether the Appellant is entitled to a deduction for meal expenses in excess of the amount allowed by the Minister for the 2003 taxation year; and
+(b) whether, in reducing the Appellant's claim for meal expenses by 50% in accordance with section 67.1 of the Income Tax Act, the Minister has discriminated against the Appellant in any way.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+14. He relies on sections 3, 5 and 67.1, subsections 8(2) and 8(10) and paragraph 8(1)(g) of the Income Tax Act, R.S.C. 1985 (5th Supp.) c.1, (the "Act") as amended for the 2003 taxation year, the Canadian Charter of Rights and Freedoms (the "Charter") and the Canada Constitution Act, 1867.
+None of the assumptions were refuted by the evidence.
+[3] An overriding problem in this appeal is the lack of receipts. It arises because the Appellant chose to use what the Minister describes as the "simplified method". On that basis, the Appellant, who is a long distance transport driver for Bison Transport operating out of his "home terminal" at Winnipeg, Manitoba, puts in his claim for "reasonable" meals. The only dispute remaining is his meals in Canada. There the chief matters in dispute are two, namely:
+1. His claim of $54.00 per day for meals, whereas the Minister calculates $15.00 per meal and a maximum of $45.00 per day.
+2. His claim for meals in Winnipeg, his home terminal.
+The Appellant's actual home is at Roblin, Manitoba, 251 miles from Winnipeg. All of the literature refers to meals away from "home". However subparagraph 8(1)(g)(i) of the Income Tax Act ("Act") is specific. It refers to meals among the worker's "home terminal" of the employer (namely, Winnipeg). On this point, the Act governs and it is clear that his claims for meals at Winnipeg cannot be allowed. Therefore this portion of his claim is dismissed.
+[4] With respect to the Appellant's claim for $54.00 per day, he has submitted a basis for it that is sensible. Basic full breakfast is about $10.00 plus tax and tip. He always has a full breakfast. He also orders a large mug filled with coffee and perhaps a Thermos of coffee to take from breakfast. Then he has two meals and perhaps a snack on the road during a full working day. The Court believes this. The problem then becomes: How much should the Court allow without the receipts that are required to prove almost all other tax matters? The Minister allows $15.00 per meal. That appears to be totalled per day at a maximum of $45.00. In essence, the Appellant states that civil servants are allowed $54.00 per day and so should he. Respondent's counsel countered that civil servants could not deduct $54.00 to which the Court "further - further" counters that the civil servants never include the $54.00 into income whereas the Appellant must do so.
+[5] All of that to one side, the Court finds that $45.00 per day or $15.00 per meal is reasonable. If the Appellant had receipts and daily experiences as factual evidence to establish more, this Court would allow it. But that is not the case in this appeal.
+[6] For these reasons, the appeal is dismissed.
+Signed at Calgary, Alberta, this 7th day of February 2006.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2006TCC65
+COURT FILE NO.:
+2005-2281(IT)I
+STYLE OF CAUSE:
+Bernard Kozmeniuk v. The Queen
+PLACE OF HEARING:
+Brandon, Manitoba
+DATE OF HEARING:
+November 30, 2005
+ORAL REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF ORAL REASONS:
+February 7, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Penny L. Piper
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

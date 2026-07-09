@@ -1,0 +1,244 @@
+---
+title: "Lipson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30667/index.do"
+last_modified: "2012-01-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 20"
+citation2: ""
+neutral_citation: "2012 TCC 20"
+decision_date: "2012-01-13"
+language: "en"
+item_id: "30667"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7226
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:39:15.145000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "033852810dd8debe3a5bd37e87bce0036055b8cd2343f042ab966755b99fedc9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lipson v. The Queen
+
+- Citation: 2012 TCC 20
+- Decision date: 2012-01-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7226, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lipson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-01-13
+Neutral citation
+2012 TCC 20
+File numbers
+2009-1193(IT)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1193(IT)G
+BETWEEN:
+HOWARD LIPSON,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Harriet Lipson (2009-1196(IT)G)
+on August 30, 2010, at Montréal, Québec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the appellant:
+David Sohmer
+Julie Gaudreault-Martel
+Counsel for the respondent:
+Pascal Tétrault
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeal from the assessments made under the Income Tax Act, notices of which are dated January 7, 2008 and bear numbers 1-071231-103544, 1-071231-103356 and 1‑071231-103141, is allowed, with costs, and the assessments are vacated.
+Signed at Ottawa, Ontario, this 13th day of January 2012.
+“Gaston Jorré”
+Jorré J.
+Docket: 2009-1196(IT)G
+BETWEEN:
+HARRIET LIPSON,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Howard Lipson (2009-1193(IT)G)
+on August 30, 2010, at Montréal, Québec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the appellant:
+David Sohmer
+Julie Gaudreault-Martel
+Counsel for the respondent:
+Pascal Tétrault
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeal from the assessments made under the Income Tax Act, notices of which are dated January 7, 2008 and bear numbers 1-071231-104022, 1-071231-103936 and 1-071231-103805, is allowed, with costs, and the assessments are vacated.
+Signed at Ottawa, Ontario, this 13th day of January 2012.
+“Gaston Jorré”
+Jorré J.
+Citation: 2012 TCC 20
+Date: 20120113
+Dockets: 2009-1193(IT)G
+2009-1196(IT)G
+BETWEEN:
+HOWARD LIPSON,
+HARRIET LIPSON,
+appellants,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+Introduction
+[1] Esther Crelinsten’s will provided for particular legacies and divided the residue of her succession among her three children, two of which, the appellants, are non‑residents.
+[2] After Ms. Crelinsten died in 2006, her succession made five capital distributions to each of her children.
+[3] These distributions did not trigger any tax liability.[1]
+[4] When the fifth distribution was made, the appellants sent a notice to the Minister of National Revenue (Minister) pursuant to subsection 116(3) of the Income Tax Act (Act). The appellants did not send any notice in respect of the other distributions.
+[5] Subsequently, the Minister assessed each of the appellants for penalties pursuant to subsection 162(7) for failing to send a notice in respect of three of the distributions.
+[6] Each of the penalties was for a maximum amount under the said subsection.
+[7] These penalties were for a total of $15,000 as well as a total of over $3,900 in interest at the time of the assessments.
+Agreed Statement of Facts
+[8] There is no factual dispute in this case. The evidence went in by means of an Agreed Statement of Facts together with agreed documents.
+[9] The Agreed Statement of Facts states:
+1. On June 18, 1940, Esther Crelinsten married Julius Lipson.
+2. At all material times, Esther Crelinsten was resident in Canada.
+3. On September 15, 1995, Julius Lipson died.
+4. On September 24, 1996, Esther Crelinsten executed her Last Will and Testament (the Will).
+5. The Will provided for particular legacies and the residue of the succession was bequeathed to the three children of Esther Crelinsten, namely: Howard Lipson, Harriet Lipson and Joan Lipson-Bloomberg.
+6. On June 16, 2003, Esther Crelinsten died and her last domicile was in the Province of Quebec.
+7. Harriet Lipson refused to act as liquidator of the Succession of Esther Crelinsten (the Succession) and therefore the two persons acting in that capacity were Howard Lipson and Joan Lipson-Bloomberg.
+8. The assets of the Succession were located in Canada and the administration of the Succession was also done in Canada. At all material times, the Succession was resident in Canada.
+9. . . . the three residual legatees: Howard Lipson, Harriet Lipson and Joan Lipson‑Bloomberg.
+10. The Succession made capital distributions to each residual legatee as follows:
+December 12, 2003
+$56,000
+January 23, 2004
+$125,000
+October 29, 2004
+$108,000
+July 22, 2005
+$30,667
+June 12, 2007
+$18,862
+11. On or about June 22, 2007, Howard Lipson and Harriet Lipson sent to the Minister of National Revenue (the Minister) the notice of subsection 116(3) of the Income Tax Act in respect of the distribution of June 12, 2007.
+12. On November 29, 2007, the Minister issued a certificate under subsection 116(4) of the Income Tax Act to Howard Lipson and Harriet Lipson in respect of the distribution of June l2, 2007.
+13. No notice was sent to the Minister by either Howard Lipson or Harriet Lipson regarding the distributions of December 12, 2003, January 23, 2004, October 29, 2004 and July 22, 2005.
+14. At all material times, Howard Lipson and Harriet Lipson were non-residents.
+15. On January 7, 2008, the Minister assessed Howard Lipson and Harriet Lipson under subsection 162(7) for failure to comply with subsection 116(3) of the Income Tax Act regarding the distributions of January 23, 2004, October 29, 2004 and July 22, 2005.
+Analysis
+[10] The relevant law governing the succession of Ms. Crelinsten is the law of Québec.
+[11] Subsection 162(7) of the Act creates a penalty when a person fails to file an information return as required by the Act or when a person fails to comply with a duty or obligation under the Act.
+[12] The Minister has assessed the appellants on the basis that they failed to comply with subsection 116(3). That subsection provides that:
+Every non-resident person who . . . disposes of any taxable Canadian property of that person . . . shall, not later than 10 days after the disposition, send to the Minister, by registered mail, a notice setting out . . .
+[13] Part of the definition of “taxable Canadian property” in subsection 248(1) of the Act reads as follows:
+“taxable Canadian property” of a taxpayer at any time in a taxation year means a property of the taxpayer that is
+. . .
+(h) a capital interest in a trust (other than a unit trust) resident in Canada,
+[14] In the same subsection “disposition” is defined to include:
+(d) where the property is, or is part of, a taxpayer’s capital interest in a trust, . . ., a payment made after 1999 to the taxpayer from the trust that can reasonably be considered to have been made because of the taxpayer’s capital interest in the trust,
+[15] The respondent says that the appellants disposed of capital interests in a trust and, accordingly, had the obligation to send notices pursuant to subsection 116(3).
+[16] The respondent can only be correct if a Québec succession is a trust for the purposes of the definition of “taxable Canadian property”.
+[17] Under the Civil Code of Québec there is no question that a succession is not a trust.[2]
+[18] The respondent argues that a succession is treated as a trust under the Act. She relies upon subsection 248(1) of the Act which provides that:
+“trust” has the meaning assigned by subsection 104(1);
+and upon subsection 104(1) which provides that:
+In this Act, a reference to a trust or estate (in this subdivision referred to as a “trust”) shall, unless the context otherwise requires, be read to include a reference to the trustee, executor, administrator, liquidator of a succession, heir or other legal representative having ownership or control of the trust property, but, except for . . .
+The French language text of subsection 104(1) reads as follows:
+Dans la présente loi, la mention d’une fiducie ou d’une succession (appelées « fiducie » à la présente sous-section) vaut également mention, sauf indication contraire du contexte, du fiduciaire, de l’exécuteur testamentaire, de l’administrateur successoral, du liquidateur de succession, de l’héritier ou d’un autre représentant légal ayant la propriété ou le contrôle des biens de la fiducie. Toutefois, […]
+[19] The appellants disagree, take the position that subsection 104(1) does not define the term “trust” and submit that providing that a trust or estate is to be referred to as a “trust” is a matter of labelling rather than definition. Consequently, it is wrong to conclude that an estate is to be considered as a trust for all purposes of the Act.
+[20] I agree with the appellants’ conclusion. I think it is helpful to take the analysis through some additional steps.
+[21] The terminology “the meaning assigned by” is used in a number of statutes and subsection 248(1) also provides that:
+“estate” has the meaning assigned by subsection 104(1);
+[22] When I first considered the appellants’ argument on this point, I was troubled by the question: What is the effect of the definition of “trust” in subsection 248(1)? Parliament puts in particular language for a purpose and, if the language of the statute is susceptible of a reasonable meaning, that meaning should be given effect.
+[23] At first, it seemed unclear what the point of the definition in subsection 248(1) combined with subsection 104(1) was. Could it be that the two subsections constituted a surprisingly worded attempt to treat estates as trusts and trusts as estates?[3]
+[24] Clearly not. Not only is subsection 104(1) worded in a way that is not suited to such a purpose, but if one had wanted to equate trusts and estates, one would have written something much more straightforward.
+[25] The words “‘trust’ has the meaning assigned by subsection 104(1)” have to be understood as meaning that throughout the Act a reference to “trust” shall be read to include a reference to a “trustee, executor, administrator, liquidator . . .” as the case may be.
+[26] The words do not import into the Act as a whole a rule that the use of the word “trust” means “trust or estate”.[4] This becomes clear when one examines the purpose of the subsection.
+[27] When one considers the text of subsection 104(1) and that estates, successions and trusts are not legal persons, it becomes apparent that the purpose of the subsection is to simplify the drafting.
+[28] In the absence of this provision, in some places where one is describing how to compute income, the text of the law would have to refer to the trust or estate, which is not a legal person, but in other places where one is placing an obligation to do something such as filing a return, one would have to refer to the person charged with carrying out that obligation, for example the trustee.
+[29] What this drafting technique does is avoid the necessity of distinguishing between the trust or estate and the person charged with doing something; one has to read each section referring to “trust or estate” as referring either to the trust or estate or to the person given an obligation in relation to the trust or estate. The technique also avoids the necessity of repeating a series of alternative persons who may be the person who has the obligation.
+[30] That is the effect of the attribution of meaning provided for in subsection 248(1); it is not to treat an estate as a trust.
+[31] Consequently, there was no disposition of property described in paragraph (h) of the definition of “taxable Canadian property” and accordingly there was no obligation on the appellants to file a notice pursuant to subsection 116(3) of the Act.
+[32] As a result, the penalties were not properly levied.
+[33] Given this conclusion, it is not necessary for me to deal with the other arguments raised during the hearing.
+Conclusion
+[34] For these reasons, the appeals are allowed with costs.
+[35] Before concluding I feel compelled to ask: In the circumstances, how did these cases get this far with the amount of penalties in issue even if the assessments were, hypothetically, correct in law?
+[36] A total of almost $19,000 in penalties and interest was assessed against two non‑residents living in California because of distributions in circumstances where, apparently, no tax liability was triggered by the distributions.
+[37] Such penalties seem unduly high in the circumstances known to me and it is hard to imagine how such high penalties enhance compliance with the Act.[5]
+[38] While it has been clear since at least the English Bill of Rights of 1688 that the executive does not have the power to suspend the application of the law,[6] subsection 220(1) of the Act provides that:
+The Minister shall administer and enforce this Act and the Commissioner of Revenue may exercise all the powers and perform the duties of the Minister under this Act.
+[39] That power to administer allows the Minister to use resources efficiently and in a way that enhances compliance with the Act. As a result, in administering the Act the Minister is not required to apply every penalty any time the preconditions of that penalty are met; he may use his judgment to apply a penalty or not.[7] Specifically, in the present cases he would not have been under an obligation, had subsection 116(3) been applicable, to levy penalties for each default on each appellant; indeed, he would not necessarily have been under an obligation to levy any penalty at all.
+[40] Further, subsection 220(3.1) specifically provides that:
+The Minister may, on or before the day that is ten calendar years after the end of a taxation year of a taxpayer . . . or on application by the taxpayer . . . on or before that day, waive or cancel all or any portion of any penalty or interest otherwise payable under this Act by the taxpayer . . . .
+[41] I note that subsection 220(3.1) allows waiver by the Minister as well as cancellation after the fact; it also allows partial waiver or cancellation.[8]
+[42] Given this, unless there are some other surprising background facts not directly relevant to the immediate issues that were not brought out at the hearing, I find it hard to understand why somewhere along the way, whether at the assessment stage or after and well before trial, the Minister would not have used the power contained in subsection 220(3.1) to levy much lower penalties ― or to reduce them to a much lower level. From the perspective of promoting compliance, would it not have been enough to levy the penalties once?
+Signed at Ottawa, Ontario, this 13th day of January 2012.
+“Gaston Jorré”
+Jorré J.
+CITATION: 2012 TCC 20
+COURT FILE NOS.: 2009-1193(IT)G
+2009-1196(IT)G
+STYLE OF CAUSE: HOWARD LIPSON,
+HARRIET LIPSON
+v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Québec
+DATE OF HEARING: August 30, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: January 13, 2012
+APPEARANCES:
+Counsel for the appellants:
+David Sohmer
+Julie Gaudreault-Martel
+Counsel for the respondent:
+Pascal Tétrault
+COUNSEL OF RECORD:
+For the appellants:
+Name: David Sohmer
+Julie Gaudreault-Martel
+Firm: Spiegel Sohmer
+Montréal, Québec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] There is nothing in the agreed evidence that suggests that the distributions triggered a tax liability for anyone.
+[2] Successions are dealt with in book three of the Civil Code of Québec (articles 613 to 898). Trusts are quite clearly different; the nature of a trust is set out in articles 1260 to 1265 of the CCQ. Of course, a will may create a trust but the succession itself is not a trust.
+While it is not necessary to examine the situation of an estate in common law provinces, I would just note that, while persons administering estates often have trust like obligations and are sometimes assimilated to trustees for some purposes (see for example the definition of “trust” in section 1 of the Trustee Act, R.S.O. 1990, c. T.23), it is not apparent to me that the estate arising on the death of a person in itself automatically gives rise to a trust.
+[3] I note that the French language text uses the word “succession” for the English word “estate”. In reading the two languages together, it is clear that the reference to an estate also includes a succession in Québec.
+[4] Even if the labelling could accomplish this, which it does not, the labelling does not apply to the Act as a whole. This is indicated by the very fact that subsection 104(1) begins by “[i]n this Act, . . .” whereas the labelling that is established by the words in parentheses in the opening lines of the subsection begins with the words “in this subdivision”. Given that the drafter knew that, and clearly stated that, most of subsection 104(1) would be applicable to the whole of the Act, he or she would not then have restricted the words in parentheses “referred to as a ‘trust’” by adding “in this subdivision” if it had been intended that those words apply throughout the Act.
+Another indication that subsections 104(1) and 248(1) do not have the effect of including estates in trusts is the fact that the Act uses “estate or trust” or “trust or estate” in numerous places in the Act. See, for example, paragraph 13(7.3)(b), subsection 19(6), subsection 44(3), subparagraph 60(a)(ii), subsection 70(3), paragraph 150(1)(c), paragraph 212(1)(c), subsection 212(11), definition of “personal or living expenses” in subsection 248(1) and paragraph 256(4)(b) of the current Act.
+[5] It is well recognized in administering various legislation and programs that compliance is maximized by a variety of appropriate and graduated measures including providing information and education, verification of compliance by measures such as auditing in the case of taxation, application of various civil penalty provisions and, ultimately if necessary, the application of criminal provisions. Such a range of enforcement measures is often referred to as the “compliance continuum” or “conformity continuum”.
+[6] See Vestey v. Inland Revenue Commissioners, [1980] A.C. 1148 (H.L.), at 1195.
+[7] Obviously, there are certain legal constraints on the Minister in so doing; those constraints need not be addressed here.
+[8] Again, there are legal constraints on the Minister in applying subsection 220(3.1); they need not be considered here.

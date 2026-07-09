@@ -1,0 +1,224 @@
+---
+title: "Kam-Press Metal Products Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/423887/index.do"
+last_modified: "2019-10-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 246"
+citation2: ""
+neutral_citation: "2019 CCI 246"
+decision_date: "2019-10-30"
+language: "fr"
+item_id: "423887"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4239
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:08:11.032000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "432eb6f50e6375f23d80194df6fbd36ceb272da9d64193e514fa7257cebc3ff0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kam-Press Metal Products Ltd. c. La Reine
+
+- Citation: 2019 CCI 246
+- Decision date: 2019-10-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4239, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kam-Press Metal Products Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-10-30
+Référence neutre
+2019 CCI 246
+Numéro de dossier
+2016-4880(IT)G
+Juges et Officiers taxateurs
+John R. Owen
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-4880(IT)G
+ENTRE :
+KAM-PRESS METAL PRODUCTS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 8 octobre 2019, à Toronto (Ontario)
+Devant : L’honorable juge John R. Owen
+Comparutions :
+Avocat de l’appelante :
+Me John D. Buote
+Avocat de l’intimée :
+Me Devon E. Peavoy
+JUGEMENT
+Après avoir entendu la preuve et les observations des avocats de l’appelante et de l’intimée;
+Conformément aux motifs du jugement ci-joints, les appels interjetés à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu relativement aux années d’imposition 2009 et 2010, par la voie d’avis datés du 15 mai 2012 et du 23 septembre 2013, sont rejetés avec dépens fixés selon le tarif en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 30e jour d’octobre 2019.
+« J.R. Owen »
+Le juge Owen
+Traduction certifiée conforme
+ce 16e jour de décembre 2019. Mario Lagacé, jurilinguiste
+Référence : 2019 CCI 246
+Date : 20191030
+Dossier : 2016-4880(IT)G
+ENTRE :
+KAM-PRESS METAL PRODUCTS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Owen
+I. Introduction
+[1] Kam-Press Metal Products Ltd. (l’appelante) a interjeté appel des nouvelles cotisations établies à l’encontre de ses années d’imposition 2009 et 2010 par la voie d’avis datés du 15 mai 2012 et du 23 septembre 2013, respectivement (les nouvelles cotisations). Dans ces nouvelles cotisations, le ministre du Revenu national a rejeté les déductions réclamées par l’appelante pour des dépenses de recherche scientifique et de développement expérimental (la recherche et le développement) et des crédits d’impôt à l’investissement, comme suit :
+Déductions refusées
+2009
+2010
+Dépenses de recherche et de développement
+191 358 $
+250 852 $
+Montant de remplacement visé par règlement
+123 159 $
+153 694 $
+Dépenses de recherche et de développement admissibles
+270 327 $
+347 707 $
+Crédits d’impôt à l’investissement
+94 614 $
+121 697 $
+[2] Au début de l’audience, l’appelante a abandonné son appel interjeté à l’encontre du rejet des dépenses de recherche et de développement et des crédits d’impôt à l’investissement demandés relativement à tous les projets décrits dans son avis d’appel autre que le projet intitulé [traduction] « Mise au point d’une grande niche en acrylique ». Dans sa réponse, l’intimée a indiqué que ce projet comprenait quatre projets distincts, soit la mise au point d’une grande niche en acrylique, la mise au point d’un couvercle en coin pour la niche, l’élaboration du processus d’assemblage de la niche en acrylique, et la mise au point de l’éclairage à DEL pour la niche. L’appelante a indiqué que les quatre projets décrits dans la réponse faisaient partie du projet de mise au point d’une grande niche en acrylique, lequel est décrit dans l’avis d’appel.
+[3] Les sommes en cause relativement au projet de mise au point d’une grande niche en acrylique (le projet) sont les suivants :
+Déductions refusées
+2009
+2010
+Dépenses de recherche et de développement
+91 039 $
+250 852 $
+Montant de remplacement visé par règlement
+58 449 $
+153 694 $
+Dépenses de recherche et de développement admissibles
+128 485 $
+347 707 $
+Crédits d’impôt à l’investissement
+44 970 $
+121 697 $
+II. Faits
+[4] Trois témoins ont comparu à l’audience pour le compte de l’appelante : M. Michael Bobee (MB), le fondateur, président et directeur général de l’appelante; M. Chad Bobee (CB), le gestionnaire des ventes et du génie de l’appelante et fils de MB; et M. Michael Witen, un consultant indépendant en recherche et développement embauché par l’appelante avant et durant les années d’imposition en cause.
+[5] MB a présenté un bref survol de l’historique et des activités de l’appelante. L’appelante a été constituée par MB en 1973. Depuis sa création, l’entreprise assure la fabrication de biens sur mesure. L’appelante travaille principalement le métal, mais elle utilise également d’autres matériaux au besoin. L’un des produits sur mesure réalisés par l’appelante est une niche funéraire, c’est-à-dire un compartiment utilisé pour l’exposition d’urnes funéraires. Les niches sont fabriquées sur mesure par l’appelante; il s’agit habituellement de caissons en métal vitrés.
+[6] Avant de commencer le projet, l’appelante s’est fait aborder par un distributeur de ses produits fabriqués sur mesure au sujet de la fabrication d’une niche funéraire pour une église en Alberta. L’architecte de l’église imaginait une niche au concept complexe comportant des sections courbées et droites qui donneraient l’illusion que les urnes sont en suspension. Cet élément esthétique nécessitait que la niche soit aussi transparente que possible et munie d’un éclairage favorisant l’effet voulu.
+[7] L’objectif du projet consistait à concevoir une niche funéraire répondant aux exigences esthétiques et de conception de l’architecte. CB a assuré la gestion du projet. CB détient un diplôme d’études collégiales en gestion des affaires et travaille pour l’appelante depuis 30 ans.
+[8] Le témoignage de CB s’est concentré sur les travaux entrepris par l’appelante en vue de réaliser le projet. Au cours de son témoignage, CB a repris le sommaire figurant à la pièce A-7, celui-ci étant une description exacte du travail réalisé par l’appelante. M. Witen a préparé ce sommaire à partir des renseignements obtenus lors d’entrevues réalisées auprès des employés de l’appelante. CB a décrit la pièce A-2 comme étant une collection de diagrammes et de photos fournissant une représentation visuelle de la niche et de son exécution.
+[9] L’appelante a évalué trois concepts différents. Le premier concept faisait appel aux matériaux traditionnels, soit le métal et le verre, pour construire les colonnes de la niche. Ce concept s’est avéré trop difficile et coûteux à fabriquer.
+[10] Dans le deuxième concept, le métal était remplacé par du verre trempé. Ce concept a mené à la création d’une colonne de niche trop lourde et coûteuse. De plus, les composantes auraient été trop difficiles à expédier sans les briser et à assembler sans affaiblir l’intégrité structurelle de la niche.
+[11] Le troisième et dernier concept envisagé consistait à construire une niche en acrylique. L’appelante a examiné différents échantillons d’acrylique et a conclu qu’elle devait utiliser un acrylique moulé par extrusion haut de gamme et très résistant. L’appelante s’est procuré l’acrylique auprès d’un tiers fabricant d’acrylique.
+[12] L’appelante a éprouvé plusieurs difficultés dans la mise au point du concept de la niche.
+[13] Une difficulté portait sur la création de colonnes de niche qui pourraient être rassemblées pour former l’arc voulu. L’appelante a utilisé un logiciel de conception 3D assistée par ordinateur pour réaliser un modèle des colonnes. Le résultat de ce travail de modélisation a ensuite été mis à l’épreuve à l’aide d’une maquette construite dans l’usine. L’un des facteurs importants du concept était que les joints devaient être pratiquement parfaits de sorte que les colonnes de la niche soient bien alignées une fois rassemblées en arc.
+[14] La deuxième difficulté portait sur la forme de la base des colonnes qui devaient les soutenir tout en reproduisant l’arc des colonnes. Encore une fois, l’appelante a utilisé un logiciel de conception 3D assistée par ordinateur pour configurer la base. Le premier concept a été éliminé en raison de son coût trop élevé. Le deuxième concept a été adopté, et plusieurs plaques de base ont été fabriquées et mises à l’épreuve à l’aide de différents moyens d’assemblage des plaques de base. L’appelante a éprouvé des difficultés dans la fixation de la colonne de niche à la plaque de base; en guise de solution, elle a conçu un dispositif de fixation sur mesure à même la plaque de base.
+[15] La troisième difficulté portait sur la conception et la fabrication d’un système de poutres avant traditionnel, fait en aluminium anodisé et extrudé, pour supporter les colonnes de niche. Ces poutres devaient être interreliées et accueillir des pièces, comme les cantonnières pour l’éclairage à DEL. L’appelante a notamment eu du mal à déterminer la bonne position pour les trous de fixation dans l’acrylique, la façon de couper les poutres horizontales supérieures pour les colonnes en arc afin de les relier, et la façon de fixer les joints en coin et les plaques de finition à rosette pour les joints en T. L’appelante est parvenue à surmonter ces difficultés en essayant différents espacements pour les trous de fixation, en utilisant une coupe droite pour toutes les poutres horizontales supérieures et en essayant différents moyens de fixer les plaques de finition.
+[16] La quatrième difficulté portait sur le caractère réfléchissant des panneaux d’acrylique utilisés dans la fabrication des colonnes. L’appelante a essayé différentes techniques de sablage afin de matifier la surface de l’acrylique, sans succès. Elle a ensuite acheté des panneaux préfinis qui ont permis de régler ce problème.
+[17] La cinquième difficulté portait sur la conception d’un dispositif permettant de maintenir les pièces d’acrylique ensemble durant l’assemblage des colonnes. Après avoir examiné et rejeté deux dispositifs (un pour les colonnes en arc et un pour les colonnes non en arc), l’appelante a conçu et fabriqué un dispositif polyvalent permettant l’assemblage de tous les types de colonnes. Ce dispositif a été conçu pour être très solide, de sorte qu’il n’y aurait aucun déplacement ni aucune torsion durant le processus de collage, et de façon à imposer le degré de pression approprié aux joints au cours du même processus. L’appelante a mis à l’épreuve différents modèles et composantes structurelles avant d’atteindre le degré voulu de rigidité et de pression.
+[18] La sixième difficulté portait sur le coupage des feuilles d’acrylique et le collage de ces formes, afin que le résultat soit solide sur le plan structurel et qu’il réponde aux exigences esthétiques de l’architecte (c.-à-d., le maximum de transparence). Les premiers essais réalisés à l’aide de formes d’acrylique coupées au laser se sont avérés infructueux, car les surfaces coupées n’étaient pas plates. L’appelante a donc ensuite utilisé des formes d’acrylique coupées mécaniquement. L’appelante a éprouvé des difficultés à coller les formes ensemble, de sorte que l’assemblage soit solide, tout en maintenant l’esthétique voulue. Après avoir tenté plusieurs solutions, comme la gravure de rainures dans la plaque de soutien afin de permettre une bonne assise et le collage des tablettes et des divisions pour leur assemblage avec les pièces externes des colonnes en acrylique, l’appelante a déterminé qu’elle ne pouvait résoudre les difficultés d’assemblage et a donné cette tâche en sous-traitance à une entreprise de fabrication d’articles en acrylique.
+[19] En plus de ce qui précède, l’appelante a éprouvé des difficultés avec l’installation de l’éclairage à DEL dans les colonnes de niche. Cette installation était compliquée par la chaleur dégagée par les DEL, la nécessité d’obtenir un certain degré de lumière ainsi que le besoin d’une diffusion homogène de l’éclairage de façon à éviter les points chauds et froids. L’appelante a tenté de régler ces difficultés en variant le modèle de cantonnière soutenant les tubes à DEL, en changeant les matériaux utilisés pour construire la cantonnière, en réduisant le voltage des DEL, en sablant au jet de sable les tubes en plastique entourant les DEL, et en ajoutant un mince diffuseur en acier inoxydable. Aucune de ces solutions n’a permis de résoudre les problèmes d’éclairage de manière satisfaisante. L’appelante a ensuite choisi un autre système d’éclairage à DEL, lequel a permis d’éliminer les problèmes liés à la consommation énergétique et à la chaleur. L’appelante a conçu et fabriqué un système d’installation en glissière extrudé muni d’un diffuseur installé à l’avant des DEL.
+[20] Les personnes ayant participé au projet sont des employés de longue date de l’appelante qui avaient de l’expérience dans la soudure, l’utilisation des différents outils de l’appelante (comme des machines de fabrication, des machines de pliage et des scies à commande numérique par ordinateur), l’estimation des coûts des produits fabriqués par l’appelante ainsi que l’utilisation de logiciels de conception 3D assistée par ordinateur. De plus, d’autres employés ont joué des rôles de supervision ou de gestion.
+III. Discussion
+[21] Les faits ne sont pas contestés. La question en litige est de savoir si les travaux entrepris par l’appelante en vue de réaliser le projet peuvent être considérés comme de la recherche et du développement au sens du paragraphe 248(1) de la Loi de l’impôt sur le revenu (la LIR). L’appelante soutient que c’est le cas, tandis que l’intimée estime le contraire.
+[22] Le paragraphe 248(1) de la LIR prévoit, entre autres, ce qui suit :
+« activités de recherche scientifique et de développement expérimental » Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+[...]
+c) le développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent.
+Pour l’application de la présente définition à un contribuable, sont compris parmi les activités de recherche scientifique et de développement expérimental :
+d) les travaux entrepris par le contribuable ou pour son compte relativement aux travaux de génie, à la conception, à la recherche opérationnelle, à l’analyse mathématique, à la programmation informatique, à la collecte de données, aux essais et à la recherche psychologique, lorsque ces travaux sont proportionnels aux besoins des travaux visés aux alinéas a), b) ou c) qui sont entrepris au Canada par le contribuable ou pour son compte et servent à les appuyer directement.
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+[...]
+i) la production commerciale d’un matériau, d’un dispositif ou d’un produit nouveau ou amélioré, et l’utilisation commerciale d’un procédé nouveau ou amélioré;
+[...]
+[23] Dans la décision Northwest Hydraulic Consultants Ltd. c. Canada, [1998] A.C.I. no 340 (QL) (CCI) (Northwest Hydraulic), le juge Bowman (tel était alors son titre) a décrit la démarche suivante pour déterminer si une activité constitue de la recherche et du développement :
+1. Existe-t-il un risque ou une incertitude technologique?
+a) Lorsqu’on parle de « risque ou [d’]incertitude technologique » dans ce contexte, on laisse implicitement entendre qu’il doit exister une incertitude quelconque qui ne peut pas être éliminée par les études techniques courantes ou par les procédures habituelles. Je ne parle pas du fait que dès qu’un problème est décelé, il peut exister un certain doute au sujet de la façon dont il sera réglé. Si la résolution du problème est raisonnablement prévisible à l’aide de la procédure habituelle ou des études techniques courantes, il n’y a pas d’incertitude technologique telle que cette expression est utilisée dans ce contexte.
+b) Qu’entend-on par « études techniques courantes »? C’est cette question (ainsi que celle qui se rapporte au progrès technologique) qui semble avoir divisé les experts plus que toute autre. En résumé, cela se rapporte aux techniques, aux procédures et aux données qui sont généralement accessibles aux spécialistes compétents dans le domaine.
+2. La personne qui prétend se livrer à de la RS & DE a-t-elle formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique? La chose comporte un processus à cinq étapes :
+a) l’observation de l’objet du problème;
+b) la formulation d’un objectif clair;
+c) la détermination et la formulation de l’incertitude technologique;
+d) la formulation d’une hypothèse ou d’hypothèses destinées à réduire ou à éliminer l’incertitude;
+e) la vérification méthodique et systématique des hypothèses.
+Il est important de reconnaître que, bien qu’une incertitude technologique doive être définie au départ, la détermination de nouvelles incertitudes technologiques au fur et à mesure que les recherches avancent et l’emploi de la méthode scientifique, et notamment l’intuition et la créativité, et parfois l’ingéniosité en découvrant, en reconnaissant et en mettant fin à de nouvelles incertitudes, font partie intégrante de la RS & DE.
+3. Les procédures adoptées sont-elles conformes aux principes établis et aux principes objectifs de la méthode scientifique, définis par l’observation scientifique systématique, la mesure et l’expérimentation ainsi que la formulation, la vérification et la modification d’hypothèses?
+a) Il est important de reconnaître que même si la méthodologie susmentionnée décrit les aspects essentiels de la RS & DE, la créativité intuitive et même l’ingéniosité peuvent avoir un rôle crucial dans le processus aux fins de la définition de la RS & DE. Toutefois, ces éléments doivent exister dans le cadre de la méthode scientifique dans son ensemble.
+b) Ce qui peut sembler habituel et évident après coup ne l’était peut-être pas au début des travaux. Ce n’est pas uniquement l’adhésion à des pratiques systématiques qui distingue l’activité courante des méthodes nécessaires selon la définition de la RS & DE figurant à l’article 2900 du Règlement, mais l’adoption de la méthode scientifique décrite ci-dessus dans son ensemble, en vue d’éliminer une incertitude technologique au moyen de la formulation et de la vérification d’hypothèses innovatrices non vérifiées.
+4. Le processus a-t-il abouti à un progrès technologique, c’est-à-dire à un progrès en ce qui concerne la compréhension générale?
+a) Je veux dire par là quelque chose que les personnes qui s’y connaissent dans le domaine savent ou qu’elles peuvent de toute façon savoir. Je ne parle pas d’un élément de connaissance que quelqu’un, quelque part, peut connaître. La collectivité scientifique est étendue, et elle publie des documents dans de nombreuses langues. Un progrès technologique au Canada ne cesse pas d’être tel simplement parce qu’il existe un [sic] possibilité théorique qu’un chercheur, disons, en Chine, a peut-être fait le même progrès, mais que ses travaux ne sont généralement pas connus.
+b) Le rejet, après l’essai d’une hypothèse, constitue néanmoins un progrès en ce sens qu’il élimine une hypothèse jusque là non vérifiée. Une bonne partie de la recherche scientifique vise justement à cela. Le fait que l’objectif initial n’est pas atteint n’invalide ni l’hypothèse qui a été émise ni les méthodes qui ont été employées. Au contraire, il est possible que l’échec même renforce le degré d’incertitude technologique.
+5. La Loi et son règlement d’application ne le prévoient pas expressément, mais il semble évident qu’un compte rendu détaillé des hypothèses, des essais et des résultats, doive être fait, et ce, au fur et à mesure de l’avancement des travaux [1] .
+[24] Ni l’une ni l’autre des parties n’ont appelé un témoin expert. À mon avis, le témoignage d’un témoin expert n’est pas nécessairement requis pour résoudre la question de savoir si une activité constitue de la recherche et du développement. Dans l’arrêt RIS-Christie, le juge Robertson a tenu les propos suivants au paragraphe 12 :
+La question de savoir en quoi consistent les recherches scientifiques au regard de la Loi est une question de droit ou une question mixte de droit et de fait, à trancher par la Cour canadienne de l’impôt, et non par les experts cités comme témoins, contrairement à ce que, trop souvent, pensent les avocats des contribuables comme du ministre. Un expert peut aider le juge à jauger les preuves et témoignages de nature technique et peut chercher à le convaincre que les recherches poursuivies n’ont pas abouti ou ne pourraient aboutir à une avancée technologique. Mais, somme toute, son rôle se borne à mettre à la disposition du juge des verres correcteurs à travers lesquels celui‑ci peut saisir les données techniques avant de les analyser et évaluer. Sans doute, l’expert cité par une partie cherchera à faire en sorte que ses spécifications focales soient adoptées par la Cour. Cependant, il est loisible au juge de première instance de préférer une ordonnance à une autre [2] .
+[25] En l’espèce, je n’ai pas besoin de l’assistance technique d’un témoin expert pour conclure que les activités réalisées par l’appelante dans le cadre du projet n’étaient pas de la recherche et du développement. L’appelante a dû surmonter plusieurs difficultés techniques dans la conception et la construction des colonnes de niche en acrylique, certaines ont pu être résolues à l’aide d’exercices de modélisation au moyen d’un logiciel de conception assistée par ordinateur, ainsi qu’en se livrant à de l’expérimentation.
+[26] Ces difficultés ont été résolues par l’application de procédures normales ou de principes de génie de base, comme la modification de la conception, des démarches d’assemblage et des matériaux utilisés dans la construction des composantes. À mon avis, l’appelante n’a pas résolu ou tenté de résoudre une incertitude technologique.
+[27] Les difficultés relevées et réglées par l’appelante étaient de nature habituelle dans le contexte de la conception et de la fabrication d’un produit existant à l’aide de matériaux différents. Comme l’a affirmé le juge Bowman dans la décision Northwest Hydraulic, l’existence d’un doute quant à la façon dont les difficultés techniques seraient résolues n’équivaut pas à l’existence d’une incertitude technologique.
+[28] L’appelante a tenté de résoudre le problème d’assemblage des colonnes de niche, sans succès, puis a confié cette tâche à une entreprise de fabrication d’articles en acrylique. En l’absence d’une preuve contraire, je peux seulement déduire que cette entreprise avait l’expérience et le savoir-faire requis pour réaliser l’assemblage voulu, ce qui me porte à croire que les difficultés éprouvées par l’appelante dans la conception et la fabrication des niches en acrylique découlaient d’un manque d’expérience et de savoir-faire dans le travail de l’acrylique, et non d’une incertitude technologique associée à la conception et à la fabrication des niches.
+[29] Je conclus également que l’appelante a adopté une méthode d’expérimentation pour surmonter les difficultés éprouvées dans la réalisation du projet. Reprenant les propos du juge Bowman, je conclus que l’appelante n’a pas démontré que les procédures adoptées pour le projet étaient conformes aux principes établis et aux principes objectifs de la méthode scientifique, définis par l’observation scientifique systématique, la mesure et l’expérimentation ainsi que la formulation, la vérification et la modification d’hypothèses. Cette conclusion est corroborée par l’absence totale de documents, outre les sommaires après coup préparés par le consultant en recherche et développement de l’appelante.
+[30] Pour tous les motifs qui précèdent, les appels sont rejetés avec dépens en faveur de l’intimée, conformément au tarif.
+Signé à Ottawa, Canada, ce 30e jour d’octobre 2019.
+« J.R. Owen »
+Le juge Owen
+Traduction certifiée conforme
+ce 16e jour de décembre 2019.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2019 CCI 246
+NO DU DOSSIER DE LA COUR :
+2016-4880(IT)G
+INTITULÉ :
+KAM-PRESS METAL PRODUCTS LTD. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 8 octobre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge John R. Owen
+DATE DU JUGEMENT :
+Le 30 octobre 2019
+COMPARUTIONS :
+Avocat de l’appelante :
+Me John D. Buote
+Avocat de l’intimée :
+Me Devon E. Peavoy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me John D. Buote
+Cabinet :
+BRS Tax Lawyers, LLP
+Toronto (Ontario)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)
+[1] Les critères établis par le juge Bowman ont ensuite été approuvés par la Cour d’appel fédérale dans l’arrêt RIS-Christie Ltd. c. Canada, [1998] A.C.F. no 1890 (RIS-Christie), confirmé par cette même cour dans l’arrêt C.W. Agencies Inc. c. Canada, 2001 CAF 393, au paragraphe 17 (arrêt C.W. Agencies).
+[2] Voir également mes commentaires relativement à la preuve d’expert dans la décision Exxonmobil Canada Ltd. c. La Reine, 2019 CCI 108, aux paragraphes 62 et 63.

@@ -1,0 +1,234 @@
+Title: Xinaris v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29403/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-457-29403-xinaris-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-09-15
+
+# Xinaris v. The Queen
+
+- Citation: 2009 TCC 457
+- Decision date: 2009-09-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6925, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Xinaris v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-15
+Neutral citation
+2009 TCC 457
+File numbers
+2008-1896(IT)I
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1896(IT)I
+BETWEEN:
+VASILIOS XINARIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 30 and June 18, 2009, at Toronto, Ontario
+Before: The Honourable Justice T. E. Margeson
+Appearances:
+Agent for the Appellant:
+Ken Gratton
+Counsel for the Respondent:
+Sandra K. S. Tsui
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2002, 2003 and 2004 taxation years are dismissed and the assessments are confirmed.
+Signed at Ottawa, Canada, this 15th day of September 2009.
+“T. E. Margeson”
+Margeson J.
+Citation: 2009TCC457
+Date: 20090915
+Docket: 2008-1896(IT)I
+BETWEEN:
+VASILIOS XINARIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Margeson, J.
+[1] These appeals are from assessments of the Minister of National Revenue for the 2002, 2003 and 2004 taxation years in which the Minister disallowed certain employment expenses claimed by the Appellant for those years.
+Evidence
+[2] By agreement Exhibits R-1, R-2 and A-1 to A-34 were admitted into evidence.
+[3] Lee Wittick had been the general manager of Saturn Saab Isuzu, a division of Roy Foss Group Ltd., hereinafter referred to as the “employer”, during the relevant time. The Appellant was one of his subordinates. The Appellant served as the used car sales manager, the new car sales manager and the general sales manager at different times but acted in only one capacity at a time.
+[4] The Appellant was paid commissions and incentive pay. “His job was to get sales.” This dealership was number one, two and three in sales for Saturn Saab Isuzu for the whole country in 2002, 2003 and 2004 respectively.
+[5] The Appellant’s work required him to travel to buy cars. The new vehicle inventory was five miles away. Sometimes he had to pick up a car or drop one off to a customer. He may also have to travel to a training seminar and a couple of trade shows.
+[6] He was provided with a vehicle either new or used, but it was not for his exclusive use. He also drove cars to test their roadworthiness.
+[7] He was not required by the terms of his contract of employment to do anything to promote sales. However, he gave everyone a bottle of wine at Christmas and took people out for meals. Sometimes he was reimbursed.
+[8] Sometimes the Appellant sponsored soccer teams. His office space was shared by another sales manager.
+[9] With respect to Exhibit A-23, the Declaration of Conditions of Employment, he said that the answer given at question 8 was incorrect. Normally, the Appellant was at the dealerships and was not required to be away from the municipality and metropolitan area for at least 12 hours.
+[10] The Appellant had an office in his home but also had access to the employer’s systems. After hours, he could have used the office at the dealership.
+[11] In cross-examination, he said that he did not sign the T2200s. They were signed by the accounting department. He did not speak to the accountant Brian Bone about the changes made in Exhibit A-29.
+[12] Each department had a Canadian Tire credit card for gasoline and for all other purposes. The Appellant could have been paid bonuses. He did not know whether his cell phone charges were paid by the employer. He was reimbursed for the 407 ETR toll charges.
+[13] Finally, he said that the Appellant would not be required to work away from the showroom for 12 hours per day.
+[14] In redirect, he said that there was no cap on the Canadian Tire credit card. The gas station was always open. If the Appellant had to pay he would be reimbursed. He might be away more than 12 hours once a year.
+[15] The Appellant testified that he worked for the employer between 2002 and 2004. He had no written agreement but he had “pay plans” as shown in Exhibits A‑30, A‑31 and A‑32. He received a base salary and bonuses on the basis of volume of sales.
+[16] He did “whatever was necessary to encourage productivity”. He also gave out gifts. His job was to sell cars. He disagreed with the answer given in Exhibit A‑23 at question 2 and said that he was required to work at different places. He also disagreed with the answers given in question 9.
+[17] He was required to use a portion of his home for his work. He could not do his work at the dealership as he had no space there. He also disagreed with the answer to question 6 and said that he did pay expenses for which he was not reimbursed. He was expected to make small expenditures and not be reimbursed. He expected to deduct them for income tax purposes. He was required to be away from the business at least 12 hours every week.
+[18] With respect to the claim for expenses for food and beverages found in Exhibit A-9, he said, “to the best of my ability that is what was not reimbursed to me”. His notes were prepared after the audit. He was $95.22 high in claiming expenses in Exhibit A-9.
+[19] Regarding Exhibit A-10, the 2004 Advertising and Promotion document, he said, “to the best of my knowledge I was not paid back”. All of these gifts were used to increase sales.
+[20] He admitted that he claimed $5,930.23 too much under this heading opining that some receipts were probably lost.
+[21] Exhibit A-11 represented a claim for gas for his car to go back and forth to his home when the Canadian Tire gas card was not available or the station was not open.
+[22] He did not claim the expenses in Exhibit A-12.
+[23] He referred to the expenses claimed in Exhibit A-13 for telephone and cell charges and he said, “I don’t believe that these were reimbursed but I am not sure”. He used the cellular telephone for work.
+[24] He claimed that the expenses for food and beverages helped to increase sales. Any charges to Bell Telephone after he got his service from Rogers should be deleted as they belonged to his wife.
+[25] In commenting upon the charges set out in Exhibit A-1, he now only claims the actual amount spent and not those presented to Canada Revenue Agency as he over claimed the amount by $1,057.71.
+[26] He identified a $1,500 gift to his father‑in‑law, shown in Exhibit A-2, which was given because he had recommended several purchasers.
+[27] In reference to the expenses claimed for supplies in Exhibit A-3, he said, “to the best of my knowledge I paid them and was not reimbursed”.
+[28] He drove 48,000 kilometres per year and 16,000 of these kilometres were for his personal use. He owned a minivan for family use.
+[29] He had a specific home office and prepared all of his reports there. No adequate space was provided by his employer to do this work. He paid $3,000 to $4,800 for furniture for his home office.
+[30] He claimed one-half of his home for office use because “it seemed to be a very easy way to calculate it”. He worked 50 to 55 hours per week.
+[31] In cross-examination, he said that he did not receive a T2200 for the taxation years 2003 and 2004 from Jim Wilson Chevrolet.
+[32] He was engaged in all aspects of sales. From the beginning, his salary was considered to be commissioned income.
+[33] The answer to question 2 in Exhibit A-27 makes no sense. He was required to work away from his place of business.
+[34] He agreed that he was reimbursed for his cell phone and 407 ETR charges as shown in Exhibit R-2, Tab 1.
+[35] He incurred expenses when he “test drove” vehicles and he was not reimbursed. Then he said, “I don’t know if I would”. Then he said, “I would have been reimbursed if I sent it in”.
+[36] He agreed that he was reimbursed for the expenses shown in Exhibit R-2, Tab 2, page 38. According to him, this was a planned personal expense and not one incurred “extemporaneously”.
+[37] Further, he was reimbursed for some office supplies if they were “planned for”.
+[38] It was suggested that he was reimbursed for some of the claimed expenses and he said, “Yes, but some I was not reimbursed for”.
+[39] He also agreed that he was reimbursed for a large part of the expenses claimed as shown in Exhibit R-2, Tabs 3 and 5. Again he was reimbursed for meals and entertainment at the retreat and for attending trade shows, if they were planned for.
+[40] He admitted that he was not working for the employer when he claimed the first four items set out in Exhibit A-9. Again, he admitted that any expenses claimed for the office and other from August 3rd were not for this employer. These were shown in Exhibit A-15.
+[41] He spent 41 hours at the showroom each week and 10 hours at home. He saw no clients at home but he was expected to have a home office.
+[42] He did not think that he had to keep a log showing what miles were incurred on his company vehicle because he was reimbursed for the gas.
+[43] In re-direct, he said that Jim Wilson Chevrolet did not give him a T2200 even though he asked for it. He did not leave on good terms. He concluded that any income received from that source would have been included in the total of $95,682 as shown on his return. This amounted to $40,000+ in commissions.
+[44] He concluded that any expenses that he claimed that were paid for by his employer were as a result of his mistake.
+[45] Brian Bone was the Chief Financial Officer for Roy Foss Group Ltd. He signed the T2200s. He was the only one authorized to do so. He would have to amend them as well.
+[46] The answer given at question 8 in Exhibit R-1, Tab 4 was incorrect. The Appellant was not required to be away for 12 hours and he was not required to rent an office. The Company provided an office. His employment would not be terminated if he did not have a home office. Further, he did not work away from the business and was not required to travel. He may have performed test drives and delivered vehicles. He would normally not be required to provide service away from the business.
+[47] Normally, the business paid for referrals. If an employee paid it, he would be reimbursed. It was normally $100, $200 or up to $500 if it was a broker. He has not seen many referral fees of $1,500.
+[48] Anything related to the business would be reimbursed when the receipt was provided. These included gas, cell phone, training, trade shows and promotions including sports teams.
+[49] Sports teams are normally sponsored by the dealership. He had not seen the team photo in Exhibit A-35, but said that the company normally sponsored young kids. Any employee that wanted to sponsor a team had to come to him to be reimbursed. The employee was not required to pay the expense himself.
+[50] He was not aware of the amendment to Exhibit A-29 and the change was not authorized.
+[51] Employees are not required to use all means at their disposal to get business. He would not be required to pay anything that would not be reimbursed.
+[52] Employees are not required to be on call. It was not a typical duty for the Appellant to drive the cars that were in stock. Employees are required to be there during business hours and after that, it is their call.
+[53] He did the calculations for the employees T4s on the basis of 1½ - 2% of the cost of all vehicles sold. The Appellant’s benefit was calculated at 1½%.
+[54] In cross-examination, he said that Exhibit R-2, Tab 4 was not correct. He was told how to fill out the forms.
+[55] He was not familiar with Exhibits A-30 and A-34 (job description) as they were prepared by Lee Wittick.
+[56] Lynne Fowle has been the controller of Roy Foss Group Ltd. since August of 2006. She is responsible for the day to day administration and accounting of the dealership including accounts payable and accounts receivable. She reviewed the expense accounts that the Appellant submitted for the relevant years that the Appellant was a sales manager and general sales manager. He was paid a bonus in addition to his salary. There was no job description in his employment file.
+[57] She reviewed the pay plan submitted by the Appellant, at Exhibit A-31 and said that it was not in his personnel file. The same was true for Exhibits A-32, A-33 and A-34 although she had seen similar plans.
+[58] Regarding Exhibit R-1 at tab 4, the T2200 that the Appellant signed on June 22, 2005, she said that the answer given in question 8 was inconsistent with the terms of the Appellant’s employment.
+[59] Further, the answer to question 5 was incorrect. He was reimbursed for his expenses. The answer given in question 9 was also incorrect where it stated that he had to pay for supplies that he used directly in his work.
+[60] In reviewing the T2200s for the years 2002, 2003 and 2004, she saw similar errors. Further, all of these documents appeared to be computer generated although the check marks were in handwriting. She indicated that the Appellant was reimbursed for various expenses such as lunches, promotions, cell phone, highway tolls, office supplies, calendars, staples, training and advertising.
+[61] The company usually paid advertising and promotion of expenses directly to the supplier.
+[62] The Appellant was reimbursed for expenses incurred in attending the auto show in Toronto each year.
+[63] She was referred to Exhibit R-6 which was a list of cheques issued to the Appellant during the years 2001 to 2005 and said that those cheques represented reimbursements for expenses incurred on behalf of the employer.
+[64] These reimbursements were for expenses incurred for the auto show in Detroit in 2002, the cell phone for 2002, toll charges, office supplies, gas for test drives, dinners with customers and staff, gasoline costs, advertising and promotion, food and beverages, air fares, team sponsorships, prizes and gifts. Sometimes petty cash is used to reimburse the employees for small costs but no records were kept for these expenditures.
+[65] Normally an employee does not pay for team sponsorships as the cheques are made payable directly to the team. Exhibit R-8 was a cheque for $350 for sponsorship of the Newmarket Soccer Club but made payable to the Appellant himself.
+[66] Exhibit R-9 listed various sports clubs that were sponsored by the Appellant’s employer and where funds were paid to the club. These included some payments made during the years in question.
+[67] She said that the Appellant was paid a bonus based upon the bottom line of profit in the department. He was also paid a salary. This was confirmed in Exhibit R-4 for the years 2001 to 2004. He did not receive commissions during those years. Such remuneration was consistent with his position.
+[68] Bonuses are shown in Box 14 of the T4s and commissions are shown in Box 42.
+[69] With respect to the standby charge, she said that the Appellant had a car provided to him in 2002, 2003 and 2004. His position gave him that right. He had use of a Saturn or a Saab during those years. His standby charge was calculated as 1½%. The cost of Hummer motor vehicles was removed from the calculation in determining the average cost.
+[70] From Exhibits A-31 to A-34, she concluded that the Appellant’s pay during the years in question included a percentage of the bottom line profit of the department as a bonus. He was also entitled to a company vehicle.
+[71] She confirmed that she could not find all of the cheque stubs for reimbursements made to the Appellant during the years in issue but she confirmed that others were made.
+[72] In cross-examination, she confirmed that the Appellant would have to travel for more than twelve hours on occasions, such as going to the Detroit auto show.
+[73] There was no written contract covering the Appellant’s employment during the years in issue.
+[74] Certain vehicles were assigned to the Appellant and they were available to him 99.9% of the time. He would always have another vehicle available to him if his assigned vehicle was not available.
+Argument on Behalf of the Appellant
+[75] In argument, the agent addressed three areas of contention:
+1) Employment expenses of the Appellant;
+2) Expenses of the home; and
+3) Standby charges.
+[76] The Appellant testified and it was corroborated by the evidence that he acted as used car manager, new car sales manager and general sales manager. During part of the years in issue, he also had one other employer.
+[77] In accordance with paragraph 8(1)(f) of the Income Tax Act (the “Act”), the Appellant was entitled to claim expenses. He was required to pay his own expenses and was heavily involved in the sales function as in the case of McKay et al. v. M.N.R., 90 D.T.C. 1064. There, too, the Appellants did not have a precise, executed contract of employment but the Appellant was functioning as a car sales manager as was Mr. McKay.
+[78] He suggested that the T2200s were not conclusive as to the Appellant’s requirements and there were some contradictions therein.
+[79] He took the position that the Appellant was paid on a commission basis, with his commission amount contingent upon his success in sales as shown by Exhibits A-31 to A-34 and the letter signed by Lee Wittick and introduced as Exhibit A-18.
+[80] The Appellant understood that his reimbursements would be limited and that he could deduct his expenses for income tax purposes if he was not reimbursed.
+[81] Brian Bone was responsible for the completion of the T2200s but did not pay too much attention to what was on them. He was not familiar with the Appellant’s pay plans or the place in which he worked. He completed the forms in accordance with advice given by someone in the accounting department and could give no explanation as to the changes in the forms in which it said that the Appellant was required to pay his own expenses.
+[82] The agent relied upon Nadeau c. Ministre du Revenu national, 90 D.T.C. 1261, where the Appellant did not have a written contract and was unable to get his T2200 signed. However, the Court believed his evidence that he had to pay his expenses, had to work away from the business and had been paid a commission as in Baillargeon c. Ministre du Revenu national, [1990] 2 C.T.C. 2472 where it was held that the Appellant could not be expected to have a contract of employment setting out that he had to pay for the services of an assistant where he was paid entirely by commissions.
+[83] As set out in the letter of Mr. Wittick, the Appellant was given considerable latitude to reach his performance goals. The expenses he claims are legitimate. There was no evidence of wholesale reimbursement of his expenses and those he incurred were necessary and reasonable.
+[84] As in Verrier v. The Minister of National Revenue, 90 D.T.C. 6202 (F.C.A.), if failure to sell enough cars would have resulted in his discharge, and both salesman and dealer realized that enough cars could only be sold if the salesman conducted some of his employment away from the showroom, then the salesman is similarly required to carry on the duties of his employment away from his employer’s place of business. That is the case here.
+[85] Gilling v. the Minister of National Revenue, 90 D.T.C. 6274 (F.C.T.D.) is authority for the proposition that the specific requirement to conduct his work away from the employer’s place of business need not be set out in the contract of employment and it can be inferred by studying the relationships of the parties, the circumstances and common sense. Exhibit A-18 supports the position of the Appellant.
+[86] Here, the Appellant was paid on a commission basis, was involved in sales and had to pay his own expenses. When he was reimbursed, these were incidental expenses.
+[87] With respect to his claim for expenses related to his home office, he had no office at the employer’s premises. He sat at a raised desk, was interfered with by many others and was in full view of everyone.
+[88] Exhibit A-18 shows that he used his home office. Exhibit A-36 shows his office. This was not just a tool, it was a necessity and he conducted much work there. Mr. Wittick corroborated this position.
+[89] The Agent cited and relied upon favourable decisions for the taxpayer in Merchant v. Minister of National Revenue, [1982] C.T.C. 2742, Kenton v. Minister of National Revenue, 1969 CarswellNat 210 and Allen v. Minister of National Revenue, 79 D.T.C. 847, where the Court obviously accepted the taxpayer’s evidence in regard to this issue.
+[90] In the case at bar, no person from the Respondent visited the home and so the Respondent made its decision to disallow the expense, in a vacuum.
+[91] With respect to the automobile standby charge, Mr. Wittick indicated that the Appellant had to spend considerable time away from the business. Further, he was often the last person to leave at night and the car assigned to him was not available. Therefore, he did not enjoy exclusive use of the vehicle assigned to him.
+[92] Further, the calculations used by the Minister are not irreversible. There was no information for the year 2002 to use as a basis for calculating the benefit and not enough for the other years. The calculations made by the Minister were not reasonable.
+[93] He cited and relied upon the decisions in Bouchard v. R., 2007 TCC 369, 2007 D.T.C. 1205 and MacMillan v. The Queen, 2005 TCC 583, 2005 D.T.C. 1243 in support of this position. In those cases, the Court determined that the charge should be different than that calculated by the Minister. In the latter case, the Appellant was prohibited from driving his employer’s vehicle for his own personal purposes.
+[94] The appeal should be allowed.
+Argument of the Respondent
+[95] Counsel said that the tax statute must be strictly considered when dealing with a claim for expenses. She referred to the case of Gifford v. Canada, 2004 SCC 15 and argued that the Appellant in that case as is the case at bar earned income from employment and was limited to claiming expenses that are allowed by subsection 8(2) of the Act. No other expenses meet the requirements of paragraphs 8(1)(f), 8(1)(i) or subsections 8(10) and 8(13) of the Act.
+[96] During the period July 15, 2003 to July 4, 2004, the Appellant was not engaged by the “employer” during that period of time and the Appellant has not filed the necessary T2200 to claim those expenses from another employer and no representative of the employer was called to testify.
+[97] For the year 2004, the Appellant claimed expenses of $19,828 whereas only $7,197 of income related to commissions and he must meet the requirements of paragraph 8(1)(f). This Appellant did not meet these requirements.
+[98] In Neufeld v. Minister of National Revenue, [1981] C.T.C. 2010, the Appellant was not in the special category that entitled him to claim the expenses because by his own choice or because of a general understanding between he and his employer, he transferred some of his duties away from his place of business.
+[99] Similarly, in the case at bar, just because he was required to be away sometimes, he did not qualify. Further, a bonus is not a commission, and does not qualify the expenses as deductible.
+[100] Subsection 8(10) requires that the appropriate certificate be filed. Here, the certificates were not conclusive. They contained inconsistencies and were amended by Mr. Wittick without authorization. The form is prima facie evidence only and is not conclusive especially if it is shown to be wrong (See Schnurr et al. v. The Queen, 2004 TCC 684, 2004 D.T.C. 3531). In the case at bar, there was sufficient evidence to conclude that the certificates were wrong.
+[101] Further, the Appellant was engaged by the “employer” but he was reimbursed for his expenses as the evidence of Brian Bone, Lee Wittick and Lynne Fowle showed.
+[102] As in Hay v. Canada, [2001] 4 C.T.C. 2742, the duty was on the Appellant to call evidence from his employer to explain the discrepancies in the T2200s and he has not done so.
+[103] The evidence shows that some of the expenses claimed by the Appellant were paid directly by the “employer” such as referral fees. Here, the alleged payment of a $1,500 referral fee to the Appellant’s father-in-law was unusual.
+[104] The evidence showed that team sponsorships were typically paid by the dealership and cheques were issued to the teams. A cheque that was issued to the Appellant in 2005 for this was not typical.
+[105] The Appellant cannot be said to have been required to pay his own expenses. Any expenses that he was not reimbursed for were not required and were unnecessary. The evidence of Mr. Bone and Mr. Wittick showed that the Appellant did not have to pay out of his own pocket but if he did, he would be reimbursed.
+[106] Some expenses that were claimed were purely personal as shown in Exhibit A-3. He was not ordinarily required to carry out his duties away from the dealership. He might be away for five minutes for a test drive. He would go to the auction once per week and had to do dealer trades.
+[107] He did not earn a commission but received bonuses which depended on the business bottom line. All of the pay plans referred to a base salary and bonuses.
+[108] These expenses that were claimed were not deductible employment expenses. As in Neufeld, supra, there was no obligation on the Appellant to make disbursements above those amounts that were reimbursed. If he did, those expenses were unreasonable and not deductible.
+[109] In respect to the claim for expenses incurred in having a work space in his home, the Appellant has not shown that it was essential that he have a home office, as indicated by Mr. Bone. The cost of supplies that were claimed was all reimbursed. He had no receipts for unvouchered amounts and cannot claim them (See Njenga v. Her Majesty the Queen, 96 D.T.C. 6593 (F.C.A.)). As there, the Appellant had no detailed information for the unvouchered claims.
+[110] In order to make a claim for meals, the Appellant was required to be away from his place of business for twelve hours. He was not according to the documents and evidence.
+[111] Counsel distinguished the case of Baillargeon, supra, on the basis that the taxpayer in that case was paid a commission and the Appellant here was paid a base salary.
+[112] She also distinguished the case of Verrier, supra, on the basis that the taxpayer in that case could be discharged if enough cars were not sold and this could only be accomplished if he were away from his workplace.
+[113] Again, with respect to the claim for workspace in the home, he was not required to work at home according to the evidence. He thought that he was required to have a home office but the evidence made it clear that he was not. Even an informal arrangement to have an office in the home would not suffice.
+[114] Even his own evidence showed that he worked only 25% of the time at home, not 50% or more, he met no clients there and he obviously did not “principally” perform his duties there.
+[115] As in Chrabalowski v. Canada., 2004 TCC 644, [2005] 1 C.T.C. 2054, the Appellant’s evidence was such that a shadow has been cast on it because of his claims that were clearly not allowable and therefore all of his claims have to be carefully scrutinized. The Appellant has failed to show that the Minister was in error with respect to his home expenses claim and his employment expense claims.
+[116] The right of the Minister to levy a standby charge under paragraph 6(1)(e) does not depend on exclusive use of the motor vehicle. A right of usage is enough.
+[117] The Appellant had a current year’s model available to him and he could even take it home. The amount of the charge is set out in subsection 6(2) or 6(2.1). The amount of the standby charge was determined by the employer at 1.5% by using the average cost of all new and used vehicles. This was acceptable and was used for all employees immaterial of the type of vehicle in issue. No evidence was given to dispute the deemed personal use amount and therefore it is correct. Counsel distinguished a number of other cases referred to by the Appellant’s agent on the facts.
+Rebuttal
+[118] In rebuttal, the agent indicated that we are concerned only with the 2002, 2003 and 2004 taxation years, and that there were no written contracts for those years. In July of 2005, a letter was obtained.
+[119] He raised a question as to the credibility of the evidence of Mr. Bone and Lynne Fowle. He argued that Ms. Fowle’s evidence was often after the fact and not based upon first-hand knowledge. He preferred the evidence of Mr. Wittick.
+[120] In the end result, the Appellant was ordinarily required to be away from the business.
+[121] He needed an office in the home because his office at work was inadequate. There is some issue as to the correctness of the standby charge and therefore the value of the benefit. The Appellant did give reliable evidence as to a different value of the benefit.
+Analysis and Decision
+[122] It is trite to say that in order for the Appellant to be successful here he must show that the Minister was incorrect in not allowing the expenses claimed. To do that, he must establish on a balance of probabilities that the expenses claimed were incurred, and that the amounts claimed were permissible under the appropriate provisions of the Act.
+[123] Both parties have correctly identified the relevant issues and have referred to the appropriate statutory provisions. The interpretation of the evidence by both parties, however, is starkly different.
+[124] Both parties have referred to the issue of credibility, not only on the part of the Appellant but on the part of the other three main witnesses.
+[125] Regarding the witnesses other than the Appellant, the Court is satisfied that the discrepancies, although referable to significant issues, were not numerous and their evidence in large measure was acceptable and given candidly even if it was obviously at variance with that of another witness.
+[126] With respect to the evidence of Lee Wittick, the Court does not accept his statement that the Appellant sponsored soccer teams. This is contrary to the evidence of Brian Bone and Lynne Fowle. The Court accepts their evidence in that regard which was corroborated by the records of the employer to which the witness Fowle had ample access as she was the comptroller and reviewed all of the pertinent records before testifying.
+[127] Further, the witness Brian Bone was in a position of significance within the corporate structure and was very knowledgeable of the employer’s operations.
+[128] Even though the agent for the Appellant took issue with the reliability of Lynne Fowle’s testimony as being second hand, she obviously did her homework before testifying and her evidence was based upon what she saw in the employer’s records and in the employment record of the Appellant.
+[129] The main discrepancy with respect to Brian Bone’s testimony was in regard to the incorrect answers given in Exhibit R-1 at Tab 4 and in Exhibit A-29. However, he said that the relevant answers given therein were not correct. Further, he did not authorize the changes.
+[130] That evidence coupled with the evidence given by Lynne Fowle satisfies the Court that someone else photocopied these documents and inserted the check marks to indicate answers that were not correct.
+[131] When the Court takes into account all of the documents presented, and considers the demeanour of the witnesses on the stand, it is satisfied that the evidence of Brian Bone and Lynne Fowle are preferred over the evidence of Lee Wittick and that of the Appellant.
+[132] The evidence of the Appellant was less than convincing. He admitted that he made claims for expenditures that were not claimable. He admitted that he was reimbursed for many items that he was seeking to deduct, and consequently, his claim by his own admission was incorrect.
+[133] Neither he; during his evidence, nor his agent; during his argument, gave the Court any indication as to the revised claim that they thought was more correct.
+[134] As a result of the admission of the Appellant that his claim for expenses was exaggerated, the Court must scrutinize all of his evidence very carefully. When it does so, the result is that it is severely lacking of the essential elements of reliability, correctness, corroboration, specificity and completeness that would be required for the Court to accept the argument that the decision of the Minister was incorrect.
+[135] The Court is not satisfied that the expenses claimed by the Appellant were ever made, but if they were, they were reimbursed by the employer where they were properly documented and presented for payment to his employer.
+[136] Some of the expenses claimed by the Appellant were personal and living expenses of the Appellant, and in the case of the large amount paid to his father‑in‑law as a “finders fee”, it is unlikely to have occurred as it was indicated that such a large fee would be unusual and, in any event, finders fees were normally paid by the dealerships.
+[137] The Court is satisfied that the Appellant has not shown that he was normally required to work away from his employer’s place of business or in different places during the course of his employment in the years in question.
+[138] The Court is satisfied that the Appellant has failed to establish that the T2200s submitted by him were accurate and the evidence given by the other three witnesses satisfy the Court that these certificates were not accurate. The Court is satisfied that during the relevant years his income was based upon salary and bonuses and not commissions where the nature of the income was disputed. Therefore, the expenses claimed were not deductible employment expenses. The Appellant is not entitled to claim expenses related to his alleged home office because he was not required to have an office at his home and he has not satisfied the requirements of section 8 of the Act. He certainly did not “principally perform the duties of his employment there” as his own evidence indicated.
+[139] The Court is satisfied that the Minister charged a proper standby charge for the vehicle made available to him by his employer. This amount was calculated in accordance with the Act and was the same amount calculated by his employer.
+[140] The appeals are dismissed and the Minister’s assessments are confirmed.
+Signed at Ottawa, Canada, this 15th day of September 2009.
+“T. E. Margeson”
+Margeson J.
+CITATION: 2009TCC457
+COURT FILE NO.: 2008-1896(IT)I
+STYLE OF CAUSE: VASILIOS XINARIS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 30, 2009 and June 18, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice T. E. Margeson
+DATE OF JUDGMENT: September 15, 2009
+APPEARANCES:
+Agent for the Appellant:
+Ken Gratton
+Counsel for the Respondent:
+Sandra K. S. Tsui
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

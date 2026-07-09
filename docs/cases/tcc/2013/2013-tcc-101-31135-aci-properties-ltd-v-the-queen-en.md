@@ -1,0 +1,159 @@
+---
+title: "ACI Properties Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31135/index.do"
+last_modified: "2013-04-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 101"
+citation2: ""
+neutral_citation: "2013 TCC 101"
+decision_date: "2013-04-09"
+language: "en"
+item_id: "31135"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4783
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:12:22.906000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4ce65ab385e3fe5274c9cc2831462749bd7d404eb6a67ce06929986852c54e45"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# ACI Properties Ltd. v. The Queen
+
+- Citation: 2013 TCC 101
+- Decision date: 2013-04-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4783, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+ACI Properties Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-04-09
+Neutral citation
+2013 TCC 101
+File numbers
+2011-3781(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-3781(IT)G
+BETWEEN:
+ACI PROPERTIES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on March 8, 2013 at Winnipeg, Manitoba
+Before: The Honourable Mr. Justice Randall Bocock
+Appearances:
+Counsel for the Appellant:
+Jeff Pniowsky
+Counsel for the Respondent:
+Julien Bédard
+____________________________________________________________________
+ORDER
+The application by the Minister for the determination of a question under subsection 174(1) of the Income Tax Act (“Act”) is denied.
+Costs are awarded to the Appellant on the application.
+Signed at Ottawa, Canada, this 9th day of April 2013.
+“R.S. Bocock”
+Bocock J.
+Citation: 2013 TCC 101
+Date: 20130409
+Docket: 2011-3781(IT)G
+BETWEEN:
+ACI PROPERTIES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bocock J.
+I. Introduction
+[1] This application is brought by the Minister under section 174 of the Income Tax Act (the “Act”) for the reference of a common question to the Court. The Appellant contests the application while the third party, who would be otherwise joined in the reference, AFT Properties Inc. (“AFT”), consents.
+II. Facts and Nature of Question before the Court
+i) The Proposed Question
+[2] In 2003, AFT paid to the Appellant the sum of $1.95 million dollars. A subsisting agreement, terminated in 2003 gave rise to the payment (“the Agreement”). AFT deducted the payment from income as an expense. The Appellant recorded the payment as a capital gain. In 2006-2007 AFT was the subject of a full Canada Revenue Agency (“CRA”) audit and the Appellant was subject to a partial one (the “Audits”). As a result, the Minister concluded that the payment constituted management fees or other remuneration for services rendered. It reassessed the Appellant for its 2004 taxation year in December 2008 in a manner consistent with the as filed characterization of the payment by AFT. The characterization of the payment forms the basis of the Respondent’s application for the reference of a common question to the Court.
+[3] The proposed question before the Court is:
+What is the proper characterization of the $1.95 million payment from AFT to ACI in April 2003? Was the payment in respect of management fees or other remuneration for services provided by ACI to AFT or was the payment for an interest that ACI had in a joint venture with AFT which was capital property that ACI disposed of to AFT? This is the sole issue to be determined in ACI’s appeal.
+ii) Background to 2008 Reassessments
+[4] Evidence of the timing, sequence, and various conclusions arising as a result of the Audits was placed before the Court. In short, the lead auditor for CRA assigned to the matter during the 2006-2007 Audits (the “Audit Period”), concluded with some certainty in his memorandum of August 2007 (“Memorandum”) that the Agreement(s) and business relationship constituted a joint venture, that the parties were ad idem on the valuation of the joint venture interest and that, apart from the use of the term “joint venture”, the transaction in 2003 constituted the purchase by AFT of the Appellant’s investment unit or interest in the venture at a fixed price. During the Audit Period, but before the final determination by the Minster, written waivers were obtained from both AFT and the Appellant in order to prevent the then potential reassessments from becoming statute barred. Notwithstanding the Memorandum to the Rulings Directorate of the CRA, the Rulings Directorate clearly preferred the characterization of the payment as income. Accordingly, the Minister reassessed the Appellant by denying the gain on account of capital, recharacterizing the payment as income and de facto confirming the AFT categorization of the payment as management fees.
+[5] During cross-examination on the Respondent’s affidavit filed in the motion, the lead auditor referenced a discussion during the Audit Period regarding the possibility of bringing what was roughly described as a section 174 application, although that specific section reference was not used in such internal discussions. Such a request for an application has not occurred until now. There was no evidence before the Court of any subsequent assessment or proposed assessments or proposals of either taxpayer other than the reassessment of the Appellant in 2008 and the de facto confirmation of AFT’s return as filed arising from the review during the Audit Period. Moreover, counsel for the Respondent agreed with the Court that the original assessment (or at least the confirmation of same) of AFT constitutes the Respondent’s evidence of one “assessment” and the reassessment of the Appellant in 2008 constitutes the other relevant reassessment otherwise fulfilling the requirement of a “transaction … common to assessments or proposed assessments in respect of two or more taxpayers.” within the meaning of subsection 174(1). Relevant excepts from subsection 174(1) and subsection 174(3) are as follows:
+174(1) Where the Minister is of the opinion that a question of law, […] fact or mixed law and fact arising out of one and the same transaction […] is common to assessments or proposed assessments in respect of two or more taxpayers, the Minister may apply to the Tax Court of Canada for a determination of the question.
+[…]
+(3) Where the Tax Court of Canada is satisfied that a determination of the question set out in an application under this section will affect assessments or proposed assessments in respect of two or more taxpayers who have been served with a copy of the application and who are named in an order of the Tax Court of Canada pursuant to this subsection, it may
+[…]
+(b) if one or more of the taxpayers so named has or have appealed, make such order joining a party or parties to that or those appeals as it considers appropriate and proceed to determine the question.
+III. Respondent’s Submissions
+[6] The Respondent has stated that the case at bar constitutes the very instance where section 174 should be invoked by arguing: the reassessment of the Appellant and the assessment of AFT in 2008 constituted communication by the taxing authority; input was obtained from both assessees prior to the assessments; waivers were executed in relation to the audit; and, the Respondent’s present application proposes how exactly AFT would be assessed.
+[7] Respondent’s counsel argued that the case of Zubin Pheroze Daruwala et al. v. Her Majesty The Queen, 2012 TCC 116, [2012] T.C.J. No. 227 which cited with approval of Thierry Brenneur v. Her Majesty The Queen, 2010 TCC 610, [2010] T.C.J. No. 489 establishes the three questions which the Court must pose in assessing whether a question to be determined under section 174 meets the appropriate criteria. These questions taken from paragraph 11 of Daruwala are as follows:
+1. Has the Applicant provided the Court with evidence of independent communication by the taxing authority to the proposed assessee or some other reasonable indication that it may reassess the proposed assessee?;
+2. What evidence has been submitted of an actual or proposed investigation, review or survey of the proposed assessee’s affairs, history or file in the context or in pursuance of a proposed reassessment?; or
+3. What submissions have been made regarding the expected efficiencies to be gained from joining a proposed and actual assessment into a single question for the Court to determine prior to the otherwise pending hearing of the single appeal?
+[8] As stated above the Respondent’s submissions (and Minister’s opinion) are that the three questions have been satisfied and, accordingly, the question for determination should be put to, and determined by, the Court. Neither perceived procedural difficulties nor the absence of a “proposal letter” or recent proposed reassessment should prevent such a determination given the plain wording and intent of the section.
+IV. Appellant’s Submissions
+[9] In argument, the Appellant stated that the application under subsection 174(1) should fail on three grounds.
+i) No Proposal to Reassess AFT
+[10] The Appellant submitted that the Audits, the waivers and the confirmation of AFT’s assessment have not led to a reassessment or potential reassessment since the Minister has clearly preferred the position taken by AFT from the outset. The Minister’s actions in assessing AFT’s return as filed, ignoring the position taken by the conclusive findings of the CRA lead auditor and obtaining waivers prior to completing the Audits do not constitute sufficient factual basis of a reassessment within the meaning of subsection 174(1). Therefore the “statutory precondition” of an assessment or proposed assessment of more than one taxpayer connected to the question implicit in subsection 174(1) has not been met.
+ii) Consistent Acceptance of AFT’s Factual and Legal Position
+[11] In drawing the Court’s attention to Daruwala, Appellant’s counsel indicated that the unilateral acceptance by the Minister of AFT’s characterization of the payment as income from the very outset (further confirmed in time after the Audits, obtainment of waivers and contemplation of a section 174 application) is a more obvious unilateral acceptance of one taxpayer’s factual and legal position when compared with those factual situations found in Daruwala and Brenneur, with which this Court twice took exception.
+iii) Abuse of Process by the Minister
+[12] The Appellant also submitted that the use of section 174 by the Minister in this instance constitutes an abuse of process since it obviates the Minister’s present obligation in the pending appeal to answer evidence adduced by the Appellant which will possibly demolish or render irrelevant the Minister’s assumptions in the Minister’s Reply. In the present case, given the Memorandum, adduced by way of affidavit and transcript on cross-examination, the Minister is attempting to tactically remove the obligation to defend her assumptions and recharacterize what to date has been an unilateral endorsement of AFT’s longstanding factual and assessed position to that of a presently conflicting characterization of a single payment by two taxpayers. The removal of the implication of assumptions recasts this hotly contested appeal into one where fairness and the obligations of the Minister to defend her assumptions are lately cleansed in the name of efficiency. In short, allowing the Minister to presently resile from the inceptive assumptions contained in the pleadings is unfair. This amounts to the use of process in an unfair manner in a tax appeal where the assumptions constitute an integral component in the fairness of the system.
+V. Decision of the Court
+[13] Both counsel cited the decisions of Daruwala and Brenneur. Similarly, both counsel submitted that Daruwala was supportive of their respective, but contrary positions on the facts as presented. Further analysis of the Daruwala questions is therefore required. With reference to the three questions in Daruwala, the undoubted purpose behind the Court posing the questions was to determine, in the context of the determination of a question, whether the objects of the assessment, enforcement and litigation processes are served and are applied and administered in a fair, efficient and balanced manner as among more than one taxpayer and Crown alike.
+[14] With respect to the first question, namely, the independent communication by the taxing authority to the proposed assessee, the Court must consider the overall actions of the Minister in relation to the (proposed) taxpayers and her obligations as a Minister to the objects of the system as a whole as it did in Daruwala and in Brenneur and referenced above. The Court did so in the cited cases in order to determine whether the Minister’s opinion embodies some bona fide element of ambivalence or uncertainty as to the fact and/or law which is to be determined in the question to be put to the Court. In turn, this allows the Minister to be further certain of her position and effect the final assessments in a consistent, fair and efficient manner, an object identified in the preceding paragraph.
+[15] With respect to the second question, where the Minister, after having conducted the review as she did in the case of Daruwala and in Brenneur, finds that the position taken by one taxpayer for whatever reasons is clearly preferable to that of another without an indication of factual and/or legal ambivalence or uncertainty, the Court is naturally reluctant to allow the Minister to utilize a section 174 application to belatedly thereafter buttress an otherwise longstanding, definitive and/or readily formulated conclusion as to fact and/or law and related assessment.
+[16] Consistently, Daruwala and Brenneur direct that the obligation is on the Minister to firstly conduct the investigation, review or audit (“review”) and from that review determine whether she is prepared, on the basis of that review, to make a decision at that time (or in relative chronological proximity to it) as to whether a section 174 application is appropriate to bring to the Court. Such a decision is to be linked, however loosely, causally and temporally, to some uncertainty or ambivalence which the Minister harbours. This is the connective tissue or linkage referred to in both cases when the Court says “what evidence has been submitted … of an actual or proposed investigation … in the context or in pursuance of a proposed reassessment”.
+[17] In the case at bar, after obtaining written waivers, alerting both parties to the process and conducting the review, the Minister during or shortly after the Audit Period (now six years ago):
+1) unilaterally preferred the representations of AFT and the facts which supported the confirmation of AFT’s assessment and the reassessment of the Appellant;
+2) approached a consideration of a section 174 application in one form or another and decided not to proceed; and
+3) some years later proceeded to file a Reply containing factual assumptions which are consistent with her assessing position taken from the very outset which confirmed, (without ambivalence, indecision or uncertainty as to fact and/or law) the preferred as filed return of AFT over the characterization of the payment by the Appellant.
+[18] Given this followed process, the Minister six years after having made a conclusive assessment without evidence of possible doubt, indecision or ambivalence which might result in a reversal of the Crown’s assessing position now raises the prospect of a section 174 determination. To reiterate, the purpose and object of a section 174 application, as outlined by Justice Boyle in the final paragraph of Brenneur, are “to advance objectives which enhance Canadians’ confidence in the integrity of the tax administration and collection system as well as in the Court.”
+[19] The Minister’s clear conduct, until very recently, of unequivocally preferring longstanding factual, legal and assessing positions in this matter do not match an opinion, now asserted by the Minister, that assessments of one or more taxpayers were (or are) affected by the results of that review and consequential conclusions of the Minister. In short, the now dated and spent review has no connection to “the context or in pursuance of a proposed reassessment” as detailed in Daruwala and Brenneur.
+[20] For the reasons stated, the application is denied. Costs shall be awarded to the Appellant.
+Signed at Ottawa, Canada, this 9th day of April 2013.
+“R.S. Bocock”
+Bocock J.
+CITATION: 2013 TCC 101
+COURT FILE NO.: 2011-3781(IT)G
+STYLE OF CAUSE: ACI PROPERTIES LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: March 8, 2013
+REASONS FOR ORDER BY: The Honourable Mr. Justice Randall Bocock
+DATE OF ORDER: April 9, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Jeff Pniowsky
+Counsel for the Respondent:
+Julien Bédard
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jeff Pniowsky
+Firm: Thompson Dorfman Sweatman LLP
+Winnipeg, Manitoba
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

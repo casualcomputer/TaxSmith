@@ -1,0 +1,164 @@
+Title: Mohammadi v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26842/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-580-26842-mohammadi-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-09-09
+
+# Mohammadi v. The Queen
+
+- Citation: 2005 CCI 580
+- Decision date: 2005-09-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 681, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mohammadi v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-09-09
+Référence neutre
+2005 CCI 580
+Numéro de dossier
+2001-2761(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2001-2761(IT)G
+ENTRE :
+MORTEZA MOHAMMADI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appels entendus les 29 et 30 novembre 2004 ainsi que les 1er et 2 mars 2005
+à Edmonton (Alberta)
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Avocats de l'appelant :
+Me Sid M. Tarrabain, c.r.
+Me M. Ali Moughel
+Avocat de l'intimée :
+Me Louis A. T. Williams
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1995, 1996, 1997 et 1998 sont rejetés, avec dépens, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 9e jour de septembre 2005.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 14e jour de décembre 2005.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2005CCI580
+Date : 20050909
+Dossier : 2001-2761(IT)G
+ENTRE :
+MORTEZA MOHAMMADI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Little
+I. FAITS À L'ORIGINE DU LITIGE
+[1] L'appelant a déposé des avis d'appel à des avis de cotisation en date du 5 septembre 2000 pour les années d'imposition 1995 à 1998 inclusivement. En établissant les cotisations d'impôt à l'égard de l'appelant, le ministre du Revenu national (le « ministre » ) s'est fondé sur un calcul de l'avoir net. Ce calcul était basé sur divers documents de même que sur 100 000 $ en espèces, que la Gendarmerie royale du Canada ( « GRC » ) avait saisis dans le véhicule de l'appelant.
+[2] L'appelant soutient que son droit à la protection contre les fouilles, les perquisitions ou les saisies abusives a été violé un certain nombre de fois au cours de son interaction avec des agents de la GRC et des fonctionnaires de l'Agence des douanes et du revenu du Canada ( « ADRC » ). En particulier, l'appelant maintient qu'il n'a pas véritablement consenti à la fouille de son véhicule et que les fouilles subséquentes - la fouille accessoire à une arrestation et la fouille en vertu d'un mandat - étaient entachées de nullité. L'appelant soutient aussi que l'inspection de ses registres, prétendument en vertu de l'article 231 de la Loi de l'impôt sur le revenu (la « Loi » ), et l'ordonnance conservatoire étaient d'autres exemples du mépris manifesté par des fonctionnaires à l'égard de ses droits. De plus, l'appelant affirme que le droit qui lui est garanti en vertu de l'alinéa 10b) de la Charte canadienne des droits et libertés (la « Charte » ) a été violé quand on lui a demandé de signer un formulaire de consentement à une fouille avant de lui donner le droit d'avoir recours à l'assistance d'un avocat. L'appelant soutient que la mesure de redressement appropriée pour l'ensemble de ces violations consiste à annuler les cotisations.
+II. POINTS EN LITIGE
+[3] (i) Les éléments de preuve ont-ils été obtenus en contravention de l'article 8, l'article 9 ou l'alinéa 10b) de la Charte?
+(ii) Dans l'hypothèse où les droits garantis à l'appelant par la Charte ont été violés ou niés, peut-on considérer que, eu égard aux circonstances, l'utilisation de ces éléments de preuve est susceptible de déconsidérer l'administration de la justice?
+(iii) La cotisation selon l'avoir net devrait-elle être confirmée?
+(iv) La cotisation pour l'année d'imposition 1995 de l'appelant était-elle frappée de prescription?
+(v) Le ministre a-t-il à bon droit imposé des pénalités en vertu de l'article 163 de la Loi?
+III. ANALYSE
+[4] Un certain nombre de personnes ont témoigné au procès. L'appelant a témoigné pour lui-même, et l'intimée a appelé à témoigner le gendarme McLaughlin du détachement de la GRC à Broadview (Saskatchewan), le sergent Tom Janisch du même détachement de la GRC, M. Edward Adams, enquêteur spécial de l'ADRC, M. Damguard, vérificateur de l'ADRC, et M. Leaker, le précédent comptable de l'appelant.
+L'arrestation initiale du véhicule de l'appelant
+[5] À 23 h 54 le 27 août 1998, le gendarme McLaughlin a constaté que la voiture Ford Mustang rouge de l'appelant roulait en direction est sur la Transcanadienne à une vitesse de 110 km/h, dans une zone de 100 km/h.
+[6] Quand il a vu le véhicule de l'appelant, le gendarme McLaughlin était de l'autre côté de l'autoroute, avec un pistolet radar. En l'espace de quelques minutes, le gendarme McLaughlin a traversé l'autoroute et a arrêté le véhicule parce que celui-ci allait trop vite. Le gendarme McLaughlin a alors remarqué qu'un des feux de freinage ne fonctionnait pas. Il en a informé le conducteur et lui a dit qu'il avait conduit trop vite. Le gendarme McLaughlin a témoigné qu'en s'approchant du véhicule, il a jeté un coup d'oeil rapide à l'intérieur, pour s'assurer qu'il ne risquait rien, et a remarqué un paquet de papier à cigarettes Zigzag dont une partie du dessus avait été déchirée. Il a également remarqué une fraîche odeur de parfum dans le véhicule. Au procès, le gendarme McLaughlin a témoigné que dans son travail pour la GRC, il n'avait vu des dessus de paquets de papier à cigarettes Zigzag déchirés que relativement à l'usage de marihuana[1].
+[7] Lorsque le gendarme McLaughlin s'est approché du véhicule, l'appelant occupait le siège du passager, et M. Malecky était derrière le volant. Le gendarme McLaughlin a témoigné que, pour montrer à M. Malecky que le feu de freinage ne fonctionnait pas, il lui a demandé d'allumer les feux de signalisation et l'a ensuite accompagné à l'arrière du véhicule pour examiner les feux. Comme le feu de signalisation n'était pas le même que le feu de freinage, le gendarme McLaughlin est retourné au véhicule et a mis un pied sur la pédale de frein. En retournant au véhicule, il avait remarqué que le paquet de papier à cigarettes Zigzag n'était plus sur le tableau de bord. Le gendarme McLaughlin a témoigné qu'il croit que l'appelant a caché le papier à cigarettes parce qu'il avait l'idée criminelle qu'en faisant cela, l'infraction [possession de marihuana] ne serait pas soulevée.
+[8] Le gendarme McLaughlin a témoigné que, comme le paquet de papier à cigarettes Zigzag (au dessus déchiré) n'était plus sur le tableau de bord et qu'il y avait une odeur de parfum dans le véhicule, il a estimé qu'il y avait probablement de la marihuana dans le véhicule.
+[9] Le gendarme McLaughlin a expliqué qu'il a conduit M. Malecky à la voiture de patrouille pour lui remettre un avertissement écrit de respecter la limite de vitesse. Quand il est retourné à la Mustang, le gendarme McLaughlin a demandé à l'appelant si ce dernier accepterait de signer un formulaire de consentement à une fouille. Le gendarme McLaughlin a témoigné qu'il avait expliqué à l'appelant le contenu de la formule de consentement éclairé à une fouille et qu'il n'avait fouillé le véhicule qu'après que l'appelant eut accepté de signer le formulaire. Le gendarme McLaughlin avait informé l'appelant qu'il chercherait des preuves d'infraction et que l'appelant avait le droit de retirer son consentement n'importe quand. Le gendarme McLaughlin a également témoigné qu'il n'avait pas dit à l'appelant qu'il obtiendrait un mandat de perquisition si l'appelant ne signait pas le formulaire. Le gendarme McLaughlin a expliqué à la Cour qu'il avait des choix et qu'il ne savait pas comment il aurait procédé si l'appelant avait refusé de signer le formulaire.
+[10] Lors du contre-interrogatoire, le gendarme McLaughlin a expliqué qu'il n'avait pas utilisé le formulaire normalisé de consentement et qu'il avait plutôt établi son propre formulaire pour simplifier la procédure. Contrairement au formulaire normalisé, le formulaire utilisé par le gendarme McLaughlin ne spécifiait pas ce que l'agent chercherait; ce formulaire disait [pièce A-1] :
+[TRADUCTION]
+JE COMPRENDS ENTIÈREMENT QUE, SI DES PREUVES D'INFRACTION SONT TROUVÉES, ELLES POURRONT ÊTRE SAISIES, ET JE POURRAIS FAIRE L'OBJET D'ACCUSATIONS ET DE POURSUITES À L'ÉGARD D'INFRACTIONS CRIMINELLES LIÉES À LA DÉCOUVERTE DE CES ÉLÉMENTS DE PREUVE.
+[11] Au procès, l'appelant a témoigné qu'il n'avait pas lu le formulaire et que, lorsqu'il l'avait signé, il était nerveux et avait peur. L'appelant a également témoigné que, dans son esprit, qu'il signe ou non la formule, sa voiture serait quand même fouillée et qu'il croyait que, s'il donnait son consentement, il pourrait partir immédiatement après la fouille.
+Le caractère raisonnable de la fouille
+[12] Concernant cette première fouille, il s'agit de savoir :
+1. s'il y a eu un consentement éclairé à la fouille;
+2. si l'appelant a été l'objet d'une détention telle qu'il aurait dû pouvoir avoir recours à l'assistance d'un avocat.
+[13] En vertu de l'article 8 de la Charte, les fouilles et les perquisitions effectuées sans mandat sont à première vue abusives. Par conséquent, le fardeau de la preuve incombe à la partie désirant justifier la fouille, soit l'intimée en l'espèce[2].
+[14] Je n'accepte pas le témoignage de l'appelant selon lequel il était nerveux et avait peur. Je crois que ces remarques de l'appelant traduisent non pas des pensées contemporaines de l'événement, mais plutôt des pensées après coup intéressées. De plus, je considère comme peu probable que l'appelant, ayant dirigé une pizzéria et un lave-auto, n'ait pas lu le formulaire avant de le signer. Inversement, j'estime que le gendarme McLaughlin a témoigné de façon directe et crédible. J'accepte le témoignage voulant qu'il ait expliqué à l'appelant le contenu du formulaire et que l'appelait ait compris les conséquences de la signature du formulaire[3]. Le fait que l'appelant avait compris les conséquences de la signature du formulaire est confirmé par le témoignage du sergent Tom Janisch, qui se rappelait qu'au poste de la GRC, quand il avait expliqué ce qu'était le mandat de perquisition, M. Mohammadi avait affirmé que l'agent n'avait pas besoin d'un tel mandat parce qu'il avait signé un formulaire [de consentement à une fouille] la veille.
+[15] Je suis convaincu que l'intimée a démontré que l'appelant avait décidé de renoncer à son « droit constitutionnel en étant parfaitement au courant de l'existence du droit et en comprenant les conséquences de la renonciation à ce droit » . Il n'était pas nécessaire que l'appelant parle à un avocat pour être au courant de ses choix, le formulaire et l'explication étant suffisants. J'estime que le formulaire de consentement, qui avait été expliqué à l'appelant, indiquait clairement que l'appelant pouvait faire l'objet d'accusations si l'on trouvait des preuves d'un crime dans le véhicule.
+Autres violations
+[16] L'appelant soutient aussi que les droits qui lui sont garantis en vertu de l'article 10 de la Charte ont été violés du fait qu'il n'avait pas été informé qu'il pouvait téléphoner à un avocat avant de signer le formulaire de consentement à une fouille. Certes, lorsqu'une personne est détenue, elle est en droit d'être informée de son droit d'avoir recours aux services d'un avocat, mais il ne s'ensuit pas que, dans tous les cas où une personne est retardée, cette personne se trouve être détenue. Dans R. c. Mann[4], le juge Iacobucci de la Cour suprême du Canada a écrit :
+[...] il est impossible d'affirmer que la police « détient » , au sens des art. 9 et 10 de la Charte, tout suspect qu'elle intercepte aux fins d'identification ou même d'interrogation. La personne interceptée est dans tous les cas « détenue » en ce sens qu'elle est « retenue » ou « retardée » . Cependant, les droits constitutionnels reconnus par les art. 9 et 10 de la Charte n'entrent pas en jeu lorsque le retard n'implique pas l'application de contraintes physiques ou psychologiques appréciables. [...]
+[17] En l'espèce, le véhicule de l'appelant a, légalement, été arrêté à cause d'une infraction au code de la route. Pendant qu'il informait M. Malecky de la violation de la limite de vitesse, le gendarme McLaughlin a demandé à l'appelant, qui occupait le siège du passager de son propre véhicule, s'il autoriserait la fouille de son véhicule. Je considère que la brève discussion entre l'appelant et le gendarme McLaughlin ne constituait pas une détention, car on n'a pas appliqué à l'égard de l'appelant des contraintes physiques ou psychologiques appréciables. Je n'accepte pas le témoignage de l'appelant voulant qu'il ait été nerveux et ait eu peur ou qu'il ait cru qu'il ne pouvait partir avec son véhicule. Le droit à un avocat ne prend naissance qu'à la détention. Lorsqu'un accusé n'est pas détenu, le droit à un avocat ne peut donc être violé[5].
+Mesure de redressement
+[18] Bien que j'aie conclu qu'il n'y avait pas eu de violation, je traiterai des arguments de l'appelant quant à la mesure de redressement qu'il aurait convenu d'accorder s'il y avait eu une violation. Si notre cour avait considéré qu'il y avait eu une violation, il aurait été nécessaire d'examiner la nature de cette violation et de déterminer la mesure de redressement appropriée. Ce faisant, il faut traiter brièvement des mesures subséquentes des agents de la GRC et des fonctionnaires de l'ADRC pour déterminer l'importance d'une violation des droits garantis à l'appelant par la Charte.
+[19] On sait bien que les normes touchant les fouilles, les perquisitions et les saisies sont différentes aux fins d'une poursuite pénale et aux fins de l'exécution civile de la Loi de l'impôt sur le revenu[6]. Il est donc concevable que la preuve puisse être irrecevable aux fins d'une poursuite criminelle, mais recevable aux fins d'une procédure civile[7]. Pour déterminer ce qu'il en est, il faudrait examiner la preuve attaquée et la méthode par laquelle elle a été obtenue, examiner la gravité de la violation de la Charte et déterminer si l'élément de preuve était déjà en la possession de la Couronne.
+[20] Dans R. c. Collins[8], une cause pénale, la Cour suprême du Canada a regroupé en trois catégories les facteurs à examiner pour l'application du paragraphe 24(2) : 1) l'effet de l'utilisation de la preuve sur l'équité du procès; 2) la gravité de la conduite de la police; 3) l'effet de l'exclusion de la preuve sur l'administration de la justice[9]. Ces principes ont été utilisés dans des affaires relatives à la Loi de l'impôt sur le revenu[10].
+[21] Depuis l'affaire Collins, la Cour suprême du Canada a développé l'analyse en matière d'équité du procès. Dans l'affaire R. c. Stillman[11], la Cour a réaffirmé que, lorsque la preuve non obtenue en mobilisant l'accusé contre lui-même est obtenue en raison d'une violation, la seule question pertinente est l'effet qu'aurait l'exclusion de la preuve sur l'administration de la justice[12].
+[22] La preuve non obtenue en mobilisant l'accusé contre lui-même a été distinguée comme suit de la preuve obtenue en mobilisant l'accusé contre lui-même : il s'agit d'une preuve qui existait avant la violation et que la police aurait pu obtenir sans la violation. Dans l'affaire Stillman, la Cour affirme qu'une preuve sera qualifiée de preuve non obtenue en mobilisant l'accusé contre lui-même si « l'accusé n'a pas été forcé de participer à la constitution ou à la découverte de la preuve (en ce sens que la preuve existait indépendamment de la violation de la Charte sous une forme utilisable par l'État) » [13].
+[23] Dans la présente espèce, la preuve en cause - à savoir l'argent et les documents - est clairement une preuve non obtenue en mobilisant l'accusé contre lui-même, car elle existait indépendamment des violations de la Charte. Ainsi, il serait seulement nécessaire d'examiner la gravité de la violation de la Charte. Dans le passage souvent cité de l'affaire R. c. Therens[14], le juge LeDain a traité de cette question clé :
+La gravité relative d'une violation de la Constitution a été évaluée en fonction de la question de savoir si elle a été commise de bonne foi ou par inadvertance ou si elle est de pure forme, ou encore [...] si cette violation a été motivée par l'urgence de la situation ou par la nécessité d'empêcher la perte ou la destruction de la preuve.
+[24] Dans la présente espèce, le gendarme McLaughlin a fait preuve de bonne foi en cherchant à obtenir le consentement à la fouille. L'appelant a signé le formulaire et a, de son propre aveu, indiqué où le sac de marihuana et l'argent supplémentaire étaient cachés, après qu'on lui eut expressément demandé une telle information. En outre, une fois que le gendarme McLaughlin eut découvert la cigarette de marihuana sur le plancher de la voiture, il a arrêté l'appelant, lui a lu ses droits et a entrepris une fouille accessoire à une arrestation. Quand il avait été déterminé que l'appelant serait gardé au poste, le gendarme McLaughlin avait saisi le véhicule et l'avait apporté au détachement de Broadview, pour qu'une autre fouille soit effectuée si un mandat était obtenu. S'il n'y a pas eu un consentement suffisamment éclairé, parce que le formulaire manquait de spécificité ou que l'appelant n'avait pas lu le formulaire, il s'agit d'une violation par inadvertance et de pure forme. Bref, j'estime que le gendarme McLaughlin a agi de bonne foi et que le fait d'exclure la preuve dans ces circonstances déconsidérerait l'administration de la justice.
+[25] Comme l'a fait remarquer l'appelant, si la première fouille était abusive, la deuxième, faite au poste et basée sur de l'information obtenue lors de la première fouille, doit également être considérée comme étant abusive[15]. Au-delà des deux fouilles, l'appelant a affirmé que la conduite de l'ADRC a donné lieu à d'autres violations des droits qui lui sont garantis par la Charte. Il soutenait notamment que le vérificateur de l'ADRC, M. Adams, avait utilisé de façon inappropriée l'article 231 de la Loi de l'impôt sur le revenu comme aide pour établir une responsabilité pénale et que M. Tobin n'avait pas fourni toute l'information pertinente dans l'affidavit à l'appui de l'ordonnance conservatoire ayant permis à la Couronne de continuer à conserver les fonds de l'appelant.
+[26] En me fondant sur la preuve présentée au procès, je ne peux accepter ces deux affirmations. Monsieur Adams a témoigné qu'il a joué un rôle dans une vérification civile à l'égard de l'appelant et non dans une enquête pénale. Il a fait observer qu'il était possible qu'une rectification basée sur l'avoir net donne lieu à une enquête criminelle mais que, au départ, il s'agissait d'une enquête civile. L'appelant invoquait l'affaire R. c. Jarvis[16], au soutien de la proposition suivante :
+[...] lorsqu'un examen dans un cas particulier a pour objet prédominant d'établir la responsabilité pénale du contribuable, les fonctionnaires de l'ADRC doivent renoncer à leur faculté d'utiliser les pouvoirs d'inspection et de demande péremptoire que leur confèrent les par. 231.1(1) et 231.2(1).
+Il est cependant à noter qu'au paragraphe suivant, le juge Iacobucci et le juge Major, s'exprimant pour la Cour, ont précisé cette assertion et ont fait remarquer que « la simple existence de motifs raisonnables de croire qu'il peut y avoir eu perpétration d'une infraction est insuffisante en soi pour conclure que l'objet prédominant d'un examen consiste à établir la responsabilité pénale du contribuable » .
+[27] Je suis convaincu par le témoignage de M. Adams que le principal objectif de ce dernier en examinant les documents au détachement de la GRC était d'établir une cotisation selon l'avoir net pour une vérification civile. À mon avis, il n'est pas pertinent que M. Adams ait subséquemment signé un affidavit à l'appui d'un mandat de perquisition à l'égard des registres de l'appelant en conformité avec le paragraphe 490(15) du Code criminel.
+[28] L'avocat de l'appelant maintenait que M. Tobin n'avait pas fait une divulgation complète et fidèle relativement à l'ordonnance conservatoire obtenue le 17 février 2000. Plus précisément, il se préoccupait de ce que M. Tobin n'ait pas signalé au tribunal qu'il avait été informé qu'il devait être sursis aux accusations contre M. Mohammadi. Malheureusement, l'appelant n'a pas produit une preuve suffisante pour établir cette allégation, car l'affidavit complet de M. Tobin n'a pas été présenté à notre cour.
+Cotisations selon l'avoir net
+[29] Le ministre s'est basé sur des calculs de l'avoir net pour déterminer le revenu de l'appelant. Le pouvoir d'utiliser le calcul de l'avoir net comme fondement de cotisation est prévu au paragraphe 152(7) de la Loi. Ce paragraphe dit :
+152.(7) Le ministre n'est pas lié par les déclarations ou renseignements fournis par un contribuable ou de sa part et, lors de l'établissement d'une cotisation, il peut, indépendamment de la déclaration ou des renseignements ainsi fournis ou de l'absence de déclaration, fixer l'impôt à payer en vertu de la présente partie.
+[30] Dans l'affaire Hsu c. La Reine[17], le juge Desjardins a confirmé la validité de telles cotisations et a déclaré que c'est à la partie appelante qu'incombe la charge de réfuter les hypothèses du ministre. Au paragraphe 29, le juge Desjardins a dit :
+[...] La méthode de la valeur nette est fondée sur l'hypothèse selon laquelle une augmentation de la richesse d'un contribuable au cours d'une certaine période peut être imputée au revenu pour cette période à moins que le contribuable ne démontre le contraire (Bigayan, précité, à la page 1619). Cette méthode vise à libérer le ministre de l'obligation ordinaire qui lui incombe de prouver l'existence d'une source imposable de revenu. Le ministre est uniquement tenu de démontrer que la valeur nette du contribuable a augmenté entre deux dates. En d'autres termes, une évaluation de la valeur nette ne se rapporte pas à la détermination de la source ou de la nature de l'augmentation de la richesse du contribuable. Une fois qu'il est démontré qu'il y a eu augmentation, il incombe entièrement au contribuable de séparer son revenu imposable des gains provenant de sources non imposables (Gentile c. La Reine, [1988] 1 C.T.C. 253, à la page 256 (C.F. 1re inst.)).
+[31] En l'espèce, les cotisations selon l'avoir net sont fondées sur les fonds et sur les documents obtenus lors de la fouille. Du montant de 100 000 $ trouvé dans le véhicule de l'appelant, 100 000 $ a été inclus dans le revenu de l'appelant dans les cotisations selon l'avoir net. Outre ce montant en espèces, les cotisations incluaient un certain nombre de montants qui représentaient des sommes que l'appelant avait prétendument reçues comme prêts pour diverses raisons, dont 15 000 $ de M. Karbalai et 14 500 $ ou 15 000 $ de M. Malecky pour l'achat prévu de Yomin Catering Steakhouse.
+[32] Au cours de la fouille du véhicule effectuée en bordure de l'autoroute, les gendarmes McLaughlin et Saunders ont trouvé 7 500 $ dans les bagages et 11 liasses de billets canadiens de 20 $, de 50 $ et de 100 $. Les liasses de billets étaient attachées avec du ruban adhésif en toile et cachées à deux endroits dans le véhicule. Cinq liasses de billets étaient cachées derrière une serviette, entre l'aile et la batterie. Après que les cinq premières liasses eurent été découvertes, l'appelant avait admis qu'il y avait six autres liasses dans le siège arrière de la voiture.
+[33] Le gendarme McLaughlin a témoigné que, après que lui et son collègue eurent trouvé les premiers 7 500 $, l'appelant avait apparemment sorti un livret bancaire pour lui montrer que ce n'était pas bizarre qu'il ait autant d'argent avec lui, car il en avait beaucoup ailleurs - 32 000 $. L'appelant lui aurait également dit qu'il avait gagné et économisé de l'argent en travaillant. Lors du contre-interrogatoire, l'appelant a admis qu'il avait déclaré à l'agent qu'il avait économisé l'argent en travaillant.
+[34] L'appelant a témoigné au procès que la plupart des fonds lui avaient été confiés par sa famille, qui était encore en Iran. Il a expliqué que ses parents lui donnaient de l'argent quand ils pouvaient parce qu'ils ne faisaient pas confiance aux banques en Iran. L'appelant a dit qu'avant de venir au Canada, le gouvernement iranien avait saisi les biens et l'argent de sa famille. Il a affirmé qu'on lui donnait non seulement de l'argent en dollars canadiens, mais des sommes importantes en marks allemands et en dollars américains. Il a expliqué que, à cause de cette précédente expérience et du fait que sa famille comptait sur lui pour protéger les fonds, il préférait garder l'argent avec lui plutôt qu'à la banque. Il a aussi témoigné qu'il ne faisait pas confiance aux banques.
+[35] Interrogé à propos d'un compte à la Banque Canadienne Impériale de Commerce, où des sommes importantes étaient couramment déposées ou retirées, l'appelant a déclaré qu'il avait ouvert ce compte pour l'entreprise de la mère de sa fiancée, une entreprise qu'il gérait. Il s'agissait d'un lave-auto d'Edmonton connu sous le nom de « Splash and Dash » . L'appelant a témoigné qu'entre novembre 1994 et juillet 1998, un certain nombre d'avances et de dépenses pour l'entreprise avaient été portées sur une carte Visa. Il en a fourni une corroboration limitée, sous la forme d'une lettre de Sally Munro; M. Damguard - le vérificateur de l'ADRC - a toutefois accepté le fait que le compte était utilisé pour l'entreprise et a réduit de plus de 12 000 $ la cotisation selon l'avoir net.
+[36] Au cours du contre-interrogatoire, l'appelant n'a pu expliquer pourquoi, dans une déclaration sous serment à la Société canadienne d'hypothèques et de logement, il avait déclaré qu'il n'avait que des actifs de 800 $. Ses remarques concernant le prêt hypothécaire et les prétendus plans d'entreprise (y compris l'achat d'une grilladerie et d'une station de radio) étaient également insatisfaisantes à mon avis.
+IV. FARDEAU DE LA PREUVE ET CONCLUSIONS
+[37] C'est à l'appelant qu'incombe la charge de prouver que les nouvelles cotisations sont inexactes. Dans l'affaire Dowling c. La Reine[18], le juge Lamarre a dit :
+Il incombe à la partie appelante de démontrer que le fondement de la cotisation du ministre est erroné ou qu'il y a des erreurs dans certains éléments de la cotisation. [...] Donc, lorsqu'un contribuable fait l'objet d'une nouvelle cotisation fondée sur le calcul de l'avoir net, il peut essayer de présenter des preuves permettant à la Cour de déterminer son revenu réel net ou chercher à prouver que la cotisation selon l'avoir net est erronée.
+[38] L'appelant n'a présenté aucune preuve crédible pour saper les cotisations selon l'avoir net ou étayer son affirmation selon laquelle l'argent qui se trouvait dans le véhicule ne lui appartenait pas. Ont été produits des éléments de preuve qui minent l'affirmation selon laquelle l'appelant ne faisait pas confiance aux banques. L'appelant avait obtenu un prêt étudiant et avait cosigné une demande de prêt hypothécaire se rapportant à un compte bancaire. L'appelant avait en outre un compte personnel à la Canada Trust, une carte de crédit et un compte à la Banque Canadienne Impériale de Commerce, où des sommes importantes étaient couramment déposées ou retirées. Concernant les prétendus prêts, l'appelant n'a présenté que des déclarations non faites sous serment de M. Malecky et M. Karbalai. Je considère comme marquant que l'appelant, représenté par des avocats compétents, n'ait pas fourni une preuve suffisante pour corroborer ce qu'il prétend. Il aurait pu appeler des personnes à témoigner sur les prêts qu'il a prétendument obtenus ou prouver, par un reçu de douane ou par le témoignage de son frère, qu'il avait importé l'argent au Canada.
+[39] À mon avis, l'appelant ne s'est pas acquitté de la charge qui lui incombait de prouver que les nouvelles cotisations étaient inexactes.
+Pénalités et période normale de nouvelle cotisation
+[40] L'appelant s'est vu imposer des pénalités conformément au paragraphe 163(2) de la Loi pour les années d'imposition 1995 à 1998 inclusivement. Le paragraphe 163(2) dit :
+163.(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité [...]
+[41] Le paragraphe 163(3) précise que le ministre a la charge d'établir les faits justifiant l'imposition de la pénalité. Le ministre s'est acquitté de cette charge, car l'écart entre le revenu de l'appelant déclaré par ce dernier et son revenu déterminé par la Cour est important. J'estime que l'appelant a délibérément négligé d'inclure ces sommes dans son revenu. Ainsi, l'appelant est assujetti aux pénalités imposées pour les années d'imposition 1995 à 1998 inclusivement.
+[42] J'estime également que l'année d'imposition 1995 a, à bon droit, fait l'objet d'une cotisation après la période normale de nouvelle cotisation, le paragraphe 152(4) de la Loi prévoyant une telle mesure.
+[43] Les appels sont rejetés, avec dépens.
+Signé à Vancouver, Colombie-Britannique, ce 9e jour de septembre 2005.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 14e jour de décembre 2005.
+Yves Bellefeuille, réviseur
+[1] Il a fait observer que, souvent, le dessus du paquet est déchiré, puis utilisé comme un filtre pour fumer de la marihuana.
+[2] Hunter c. Southam Inc., [1984] 2 R.C.S. 145.
+[3] Comme c'est exigé par R. v. Head (1994), 52 B.C.A.C. 121, et par R. v. Kennedy (2000), 147 C.C.C. (3d) 144, modifiant le critère énoncé dans R. v. Wills, 70 C.C.C. (3d) 529 (C.A. Ont.).
+[4] [2004] 3 R.C.S. 59, 2004 A.C.S. no 49, au par. 19.
+[5] R. v. Bottle, [2004] B.C.J. no 2642 (C.S. C.-B.), interprétant R. v. Debot [1989] 2 R.C.S. 1140, 52 C.C.C. (3d) 193 (C.S.C.).
+[6] R. c. McKinlay Transport, [1990] 1 R.C.S. 627.
+[7] Donovan c. Canada, 2000 D.T.C. 6411.
+[8] [1987] 1 R.C.S. 265.
+[9] Voir aussi R. c. Law, [2002] 1 R.C.S. 227.
+[10] Voir par exemple : Donovan, à la note de bas de page no 7; McKinlay Transport, à la note de bas de page no 6; O'Neill Motors Ltd. c. Canada, 96 D.T.C. 1486; Warawa c. Canada, 2003 D.T.C. 1399.
+[11][1997] 1 R.C.S. 607 (formation de sept juges, dont la juge McLaughlin, dissidente).
+[12] Ibid., au paragraphe 115, où le juge Cory écrivait :
+Si l'on décide que la preuve n'a pas été obtenue en mobilisant l'accusé contre lui-même, son utilisation ne rendra pas généralement le procès inéquitable et la cour doit passer à l'examen de la gravité de la violation. Toutefois, si on conclut que la preuve a été obtenue en mobilisant l'accusé contre lui-même, la cour doit passer à la deuxième étape et déterminer si elle aurait été découverte sans (n'eût été) la violation de la Charte.
+[13] Ibid., au par. 75.
+[14] [1985] 1 R.C.S. 613 (le juge LeDain).
+[15] R. v. Navel, B.R. Alb., no 9701-933-C2, 15 mars 2001, [2001] A.J. 375.
+[16] R. c. Jarvis, [2002] 3 R.C.S. 757, au par. 88.
+[17] no A-390-00, 24 juillet 2001, 2001 D.T.C. 5459 (C.A.F.).
+[18] C.C.I., no 93-934(IT)G, 29 mars 1996, 96 D.T.C. 1250, à la p. 1251.

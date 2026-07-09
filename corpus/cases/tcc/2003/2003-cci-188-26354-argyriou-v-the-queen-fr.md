@@ -1,0 +1,222 @@
+---
+title: "Argyriou v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26354/index.do"
+last_modified: "2003-04-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 188"
+citation2: ""
+neutral_citation: "2003 CCI 188"
+decision_date: "2003-04-03"
+language: "fr"
+item_id: "26354"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3367
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:20:28.410000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c2b3836f315cb7e8f9b726eb2bfdf59078dc090f238b3c5095b85c5280fadbe4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Argyriou v. The Queen
+
+- Citation: 2003 CCI 188
+- Decision date: 2003-04-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3367, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Argyriou v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-03
+Référence neutre
+2003 CCI 188
+Numéro de dossier
+2000-5154(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2000-5154(IT)I
+ENTRE :
+PANAYIOTA ARGYRIOU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels décidés sur la foi des observations écrites des parties par
+l'honorable juge Campbell J. Miller
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Jade Boucher
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations d'impôt établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997 et 1998 sont rejetés.
+Signé à Ottawa, Canada, ce 3e jour d'avril 2003.
+« Campbell J. Miller »
+J.C.C.I.
+Traduction certifiée conforme
+ce 7e jour de janvier 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI188
+Date: 20030403
+Dossier: 2000-5154(IT)I
+ENTRE :
+PANAYIOTA ARGYRIOU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Panayiota Argyriou en appelle, au moyen de la procédure informelle, de cotisations du ministre du Revenu national (le ministre) pour ses années d'imposition 1997 et 1998, sur le fondement que l'article 217 de la Loi de l'impôt sur le revenu (la Loi) a été incorrectement appliqué à son cas particulier. Les parties ont convenu que les faits pertinents sont les suivants :
+[TRADUCTION]
+a) L'appelante était une résidente de la Grèce et une non-résidente du Canada au cours des années d'imposition 1997 et 1998.
+b) En 1997 et 1998, l'appelante a reçu des prestations du Régime de pensions du Canada (RPC) aux montants respectifs de 7 722 $ et de 7 869 $.
+c) En 1997 et 1998, l'appelante a également reçu des indemnités pour accidents du travail de la Commission de la sécurité professionnelle et de l'assurance contre les accidents du travail aux montants respectifs de 12 562 $ et de 12 617 $.
+d) Dans la production de ses déclarations de revenus pour les années d'imposition pertinentes, l'appelante a fait le choix de faire appliquer l'article 217 de la Loi de l'impôt sur le revenu (la Loi), ce qui a entraîné le paiement d'impôt en vertu de la partie I de la Loi, plutôt que la partie XIII.
+e) L'appelante a calculé son revenu mondial net pour les années d'imposition 1997 et 1998 comme suit :
+1997
+1998
+Revenu net selon déclaration T1
+20 284 $
+20 486 $
+Revenu de pension de source étrangère net
+850
+1 364
+Déduction des indemnités pour accidents du travail
+12 562
+12 617
+Revenu net de toutes provenances
+8 572 $
+9 233 $
+f) Par les avis de cotisation datés du 22 juin 1998 et du 10 mai 1999, ... le ministre du Revenu national (le ministre), dans leur établissement, a calculé le revenu net de toutes provenances de l'appelante pour les années d'imposition 1997 et 1998 comme suit :
+1997
+1998
+Revenu net selon déclaration T1
+7 722 $
+7 869 $
+Autre source de revenu canadienne
+Indemnités pour accidents du travail
+12 562
+12 617
+Revenu de pension de source étrangère net
+850
+1 364
+Revenu net de toutes provenances
+21 134 $
+21 850 $
+g) En établissant ainsi les cotisations, le ministre a calculé l'impôt payable de la partie I de l'appelante conformément à l'article 217 de la Loi comme suit :
+année d'imposition 1997 : 1 413,30 $ avis de cotisation daté du 22 juin 1998;
+année d'imposition 1998 : 1 373,10 $ avis de cotisation daté du 10 mai 1999;
+h) L'appelante s'est opposée aux cotisations au moyen d'un avis d'opposition daté du 22 septembre 1999, ...
+i) Au moyen d'avis de ratification datés du 2 août 2000, ... le ministre a confirmé les cotisations de 1997 et de 1998.
+[2] La question est de savoir si le ministre a bien calculé l'obligation fiscale de l'appelante en vertu de l'article 217 en incluant les indemnités pour accidents du travail dans la détermination du revenu imposable gagné au Canada de l'appelante. L'appelante soutient :
+[TRADUCTION]
+Je reçois des indemnités pour accidents du travail qui ne sont pas imposables. Toutefois, le traitement de ces indemnités sur la déclaration de revenus (inclus dans les revenus de toutes provenances à l'annexe A et non déduites à la ligne 15 de la même annexe) pour 1997 et 1998 résulte en une obligation fiscale plus élevée.
+Le traitement différent appliqué aux non-résidents les pénalise au lieu de favoriser l'utilisation par eux de la pleine exemption personnelle.
+Je suis d'avis que l'esprit de la loi, en prévoyant que ces avantages sont exonérés d'impôt, est d'aider les travailleurs relativement à des blessures qu'ils subissent, puisqu'ils ne peuvent pas travailler.
+Mon cas ne soulève aucun autre type de « prestations canadiennes » sur lesquelles j'aurais très certainement payé l'impôt sur le revenu. Je répète, la question serait de savoir si les indemnités pour accidents du travail devraient être imposées directement ou indirectement, comme c'est le cas dans ma situation.
+L'intimée soutient :
+[TRADUCTION]
+6. Un choix en vertu du paragraphe 217(2) permet au contribuable d'être imposé en vertu de la partie I de la Loi sur le revenu de source canadienne.
+Merrins c. La Reine, C.C.I., no 2001-304(IT)I, le 2 juillet 2002 ([2002] T.C.J. No. 336 (Q.L.)), au paragraphe 27. Une demande de contrôle judiciaire a été déposée à la Cour d'appel fédérale.
+7. S'il n'y a pas de choix, les « prestations canadiennes » de la personne non-résidente sont assujetties à la retenue d'impôt de la partie XIII en application des alinéas 212(1)h), j) à m) et q) de la Loi. Le choix de l'article 217 donne aux contribuables non-résidents l'accès aux crédits non remboursables de l'article 118, qui peuvent réduire l'impôt payable.
+Yaremy c. Canada, [1994] A.C.I. No 591 (Q.L.), page 1, paragraphe 1.
+8. Le paragraphe 217(1) définit les « prestations canadiennes » aux fins des dispositions de retenue d'impôt du paragraphe 212(1) de la Loi comme suit :
+217(1) Au présent article, les prestations canadiennes d'une personne non-résidente pour une année d'imposition correspondent au total des montants représentant chacun un montant payé ou crédité au cours de l'année et au titre duquel l'impôt prévu par la présente partie serait payable par la personne, n'était le présent article, par l'effet de l'un des alinéas 212(1)h), j) à m) et q).
+9. Les prestations de retraite et d'autres pensions, les prestations d'assurance-emploi, les allocations de retraite et les paiements de REER, mais non les montants d'indemnités pour accidents du travail, sont inclus dans la définition de « prestations canadiennes » .
+10. Les modifications à l'article 217 apportées en 1997 et applicables aux années d'imposition 1997 et suivantes ont inclus les montants d'indemnités pour accidents du travail dans le calcul du « revenu imposable gagné au Canada » ( « RIGC » ) d'un non-résident. En vertu du paragraphe 217(3), le RIGC d'une personne est réputé être le plus élevé des deux montants suivants :
+A) 217(3)b)(i) : le premier montant est le RIGC du non-résident inclus au titre du paragraphe 115(1), en tenant compte des « prestations canadiennes » du non-résident. Dans le cas de l'appelante, son RIGC pour les années d'imposition 1997 et 1998 est égal aux montants qu'elle a reçus au titre du RPC pendant ces années, respectivement 7 722 $ et 7 869 $.
+B) 217(3)b)(ii) : le deuxième montant présume que le revenu mondial du non-résident est le RIGC. Dans le cas de l'appelante, en plus des montants au titre du RPC, les montants d'indemnités pour accidents du travail et le revenu de retraite de source étrangère net font également partie du revenu net de toutes provenances pour un RIGC total de 21 134 $ pour l'année d'imposition 1997 et de 21 850 $ pour l'année d'imposition 1998.
+Canadian Tax Reporter, Volume 5A, CCH Canadian Limited, page 24, 324.
+11. L'alinéa 217(3)b) exige que l'on retienne le montant le plus élevé; conséquemment, le RIGC de l'appelante est de 21 134 $ pour l'année d'imposition 1997 et de 21 850 $ pour l'année d'imposition 1998. Ce sont là les montants utilisés par le ministre du Revenu national dans la détermination du taux d'imposition applicable.
+12. Bien que le sous-alinéa 217(3)b)(ii) tienne compte des indemnités pour accidents du travail de l'appelante et du revenu de retraite de source étrangère, le ministre a appliqué un crédit spécial en vertu du paragraphe 217(6) afin d'exclure ces deux montants.
+Canada Tax Service, Stikeman, Volume 12, Election Respecting Certain Payments, p. 217-108.
+13. Par conséquent, l'intimée est d'avis que le ministre du Revenu national a établi la cotisation à l'endroit de l'appelante conformément à l'alinéa 217(3)b)(ii) et que c'est à bon droit qu'il a inclu les montants d'indemnités pour accidents du travail de l'appelante dans la détermination du revenu imposable gagné au Canada de l'appelante pour les années d'imposition pertinentes.
+[3] Les dispositions applicables se lisent comme suit :
+217(1) Au présent article, les prestations canadiennes d'une personne non-résidente pour une année d'imposition correspondent au total des montants représentant chacun un montant payé ou crédité au cours de l'année et au titre duquel l'impôt prévu par la présente partie serait payable par la personne, n'était le présent article, par l'effet de l'un des alinéas 212(1)h), j) à m) et q).
+(2) Aucun impôt n'est payable en vertu de la présente partie au titre des prestations canadiennes d'une personne non-résidente pour une année d'imposition si la personne, à la fois :
+a) produit au ministre, dans les six mois suivant la fin de l'année, une déclaration de revenu en vertu de la partie I pour l'année;
+b) fait, dans cette déclaration, un choix pour que le présent article s'applique pour l'année.
+(3) Lorsqu'une personne non résidente fait le choix prévu à l'alinéa (2)b) pour une année d'imposition, les présomptions suivantes s'appliquent dans le cadre de la partie I :
+a) la personne est réputée avoir occupé un emploi au Canada au cours de l'année;
+b) son revenu imposable gagné au Canada pour l'année est réputé égal au plus élevé des montants suivants :
+(i) le montant qui, n'était le sous-alinéa (ii), correspondrait à son revenu imposable gagné au Canada pour l'année si, à la fois :
+A) l'alinéa 115(1)a) comprenait le sous-alinéa suivant :
+« (i.1) que ses prestations canadiennes pour l'année, au sens du paragraphe 217(1), » ,
+B) l'alinéa 115(1)f) était remplacé par ce qui suit :
+« f) les autres déductions permises pour le calcul du revenu imposable et qu'il est raisonnable de considérer comme étant entièrement applicables aux montants visés aux sous-alinéas a)(i) à (vi); »
+(ii) le revenu de la personne pour l'année (calculé compte non tenu du paragraphe 56(8)), moins le total des déductions permises pour le calcul du revenu imposable et qu'il est raisonnable de considérer comme étant entièrement applicables aux montants visés aux sous-alinéas 115(1)a)(i) à (vi).
+(4) Les articles 118 à 118.91 et 118.94 ne s'appliquent au calcul de l'impôt payable en vertu de la partie I pour une année d'imposition par une personne non-résidente qui fait le choix prévu à l'alinéa (2)b)pour l'année que si :
+a) en cas d'application de l'article 114 à la personne pour l'année, la totalité, ou presque, de son revenu pour l'année entre dans le calcul de son revenu imposable pour l'année;
+b) dans les autres cas, la totalité, ou presque, de son revenu pour l'année entre dans le calcul du montant déterminé à son égard pour l'année selon le sous-alinéa (3)b)(i).
+(5) Malgré le paragraphe (4), le moins élevé des montants ci-après est déductible dans le calcul de l'impôt payable en vertu de la partie I pour une année d'imposition par la personne non-résidente à laquelle ni l'alinéa (4)a), ni l'alinéa (4)b) ne s'applique pour l'année :
+a) le total des montants suivants :
+(i) les montants qui auraient été déductibles en application de l'article 118.2 ou de l'un des paragraphes 118.3(2) et (3) et des articles 118.6, 118.8 et 118.9 dans le calcul de son impôt payable en vertu de la partie I pour l'année si elle avait résidé au Canada tout au long de l'année et qu'il est raisonnable de considérer comme étant entièrement applicables,
+(ii) les montants qui auraient été déductibles en application de l'un des articles 118 et 118.1, du paragraphe 118.3(1) ou de l'un des articles 118.5 et 118.7 dans le calcul de son impôt payable en vertu de la partie I pour l'année si elle avait résidé au Canada tout au long de l'année;
+b) le montant représentant le taux base pour l'année de ses prestations canadiennes pour l'année.
+(6) Le résultat du calcul ci-après est déductible dans le calcul de l'impôt payable en vertu de la partie I pour une année d'imposition de la personne non-résidente qui fait le choix prévu à l'alinéa (2)b)pour l'année :
+A x [(B - C) / B]
+où :
+A représente l'impôt qui, n'était le présent paragraphe, serait payable par elle pour l'année en vertu de la partie I;
+B le montant déterminé selon le sous-alinéa (3)b)(ii) à son égard pour l'année;
+C le montant déterminé selon le sous-alinéa (3)b)(i) à son égard pour l'année.
+Bien que l'intimée ait dans son argumentation présenté une interprétation de ces dispositions, j'essaierai de l'exprimer de la manière la plus concise possible pour l'appelante. L'article vise à n'imposer que le revenu du RPC de l'appelante. L'impôt sur ce revenu est toutefois déterminé en établissant le montant d'impôt comme si tout le revenu de toutes provenances de l'appelante était assujetti à l'impôt de la partie I. Par la suite, l'impôt est réduit par un crédit équivalant au pourcentage que représente le revenu du RPC du revenu total de toutes provenances. Cela a pour effet en réalité d'imposer le revenu du RPC à un taux plus élevé que si le seul revenu du RPC avait été inclus dans le calcul de l'impôt.
+[4] À titre d'exemple, si l'on utilise les chiffres de 1997, le calcul arithmétique est plus ou moins le suivant :
+Revenu total
+21 134 $
+Multiplié par taux d'imposition de 17 % donne un impôt de
+3 593
+Soustraction des crédits personnels
+1 098
+Impôt fédéral avant le crédit du paragraphe 217(6)
+2 495
+Soustraction du crédit d'impôt spécial du paragraphe 217(6)
+(2 495 x 21 134 - 7 722 ¸21 134 =)
+1 583
+Impôt avant surtaxe
+912
+Surtaxe pour les non-résidents de 52 %
+474
+Impôt
+1 386
+Surtaxe fédérale de 3 % de 912 $
+27
+Impôt total
+1 413 $
+[5] Je conclus que l'intimée n'a pas erré dans le calcul de l'article 217 ni pour 1997 ni pour 1998 si les indemnités pour accidents du travail sont considérées comme un revenu. Comme les indemnités pour accidents du travail sont spécifiquement incluses dans le revenu par l'alinéa 56(1)v), elles doivent être incluses dans le revenu aux fins du calcul du sous-alinéa 217(3)b)(iii). Cela a pour résultat que, bien que le revenu pour accidents du travail ne soit pas imposé directement, le calcul résulte en un impôt sur le revenu du RPC qui est plus élevé que le taux marginal de 17 pour 100. Bien que cela signifie en fin de compte une obligation fiscale moins onéreuse que la retenue d'impôt de la partie XIII, elle n'accorde pas le congé fiscal auquel l'appelante estime que l' « esprit de la loi » lui garantit. Bien qu'il y ait certaines affaires fiscales dans lesquelles la Cour peut se pencher sur l'esprit ou la politique qui sous-tendent la législation, malheureusement il ne s'agit pas ici d'une de celles-là. La législation en question n'est nullement ambiguë, bien qu'elle soit passablement complexe. L'affaire ne nécessite pas que l'on regarde au-delà du sens clair de la loi. La loi, appliquée à la situation de l'appelante, conduit au résultat soutenu par l'intimée. L'appelante considère que les indemnités pour accidents du travail sont imposées indirectement. Il n'est pas difficile de voir la raison pour laquelle elle est de cette opinion, car, lorsqu'on fait les calculs, il devient clair que les indemnités pour accidents du travail sont imposées, mais que cet impôt donne droit à un crédit, qui vise en principe à découper la partie de l'impôt relative aux indemnités pour accidents du travail. Pour Mme Argyriou, ce mécanisme doit lui sembler au mieux bien imparfait, et au pire, injuste. Malheureusement, c'est là la manière dont la disposition fonctionne.
+[6] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 3e jour d'avril 2003.
+« Campbell J. Miller »
+J.C.C.I.
+Traduction certifiée conforme
+ce 7e jour de janvier 2005.
+Sophie Debbané, réviseure

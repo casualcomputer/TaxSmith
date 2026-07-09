@@ -1,0 +1,136 @@
+---
+title: "A & E Precision Fabricating and Machine Shop Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30888/index.do"
+last_modified: "2012-04-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 260"
+citation2: ""
+neutral_citation: "2012 CCI 260"
+decision_date: "2012-04-05"
+language: "fr"
+item_id: "30888"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7447
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:42:09.050000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4f701f872a1f4333a372ac30465711205d1863cfed1f6e7526147620659fa8c4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# A & E Precision Fabricating and Machine Shop Inc. c. La Reine
+
+- Citation: 2012 CCI 260
+- Decision date: 2012-04-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7447, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+A & E Precision Fabricating and Machine Shop Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-04-05
+Référence neutre
+2012 CCI 260
+Numéro de dossier
+2008-5(IT)I, 2008-6(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2012 CCI 260
+Date : 20120719
+Dossier : 2008-6(IT)I
+ENTRE :
+A & E PRECISION FABRICATING
+AND MACHINE SHOP INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2008-5(IT)I
+ET ENTRE :
+CENTRAL SPRINGS LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Établi à partir de la transcription des motifs du jugement rendus oralement à l’audience le 5 avril 2012 à St. Johns, à Terre-Neuve-et-Labrador)
+La juge Campbell
+[1] Qu’il soit consigné au dossier que je rends des motifs oralement dans le cadre des appels interjetés par Central Springs Limited et A & E Precision Fabricating and Machine Shop Inc.
+[2] Ces appels sont interjetés contre une taxation de dépens établie par l’officier taxateur, Mme Barbara Tanasychuk.
+[3] L’histoire des présents appels est très longue et remonte à 2005, lorsque, selon les observations écrites de l’appelante, l’ARC a saisi ses biens et a entamé une procédure d’exécution fondée sur des cotisations arbitraires. Le contentieux lui-même a mobilisé plusieurs tribunaux, notamment la Cour de l’impôt, la Cour fédérale et la Cour suprême de Terre-Neuve-et-Labrador.
+[4] Les appels ont été entendus conformément à la procédure informelle devant le juge Boyle de la Cour les 3 et 4 juin 2010. Le 22 octobre 2010, le juge Boyle a accueilli les appels indiquant que la cause de l’intimée n’était pas fondée en droit ou quant à la preuve. Il a accordé 30 jours aux parties pour présenter des observations écrites sur les dépens. Le 10 décembre 2010, le juge Boyle a rendu son ordonnance sur les dépens dans laquelle il a accordé des dépens aux appelantes pour les appels qu’il a entendus et aussi en ce qui concerne les procédures préliminaires dont a été saisi le juge Bowie, ainsi que moi-même. Les dépens suivants devaient être accordés et je cite :
+i) des dépens calculés conformément aux articles 10 et 11 des Règles de la Cour canadienne de l’impôt (procédure informelle);
+ii) en fonction d’honoraires relatifs à la présence d’un seul avocat partagés entre les appelantes pour les dates d’audience et des observations écrites sur les dépens; et enfin,
+iii) le tout, avec tous les débours raisonnables.
+[5] Le mémoire de frais a été présenté à l’intimée et comme les parties ne se sont pas entendues, l’affaire s’est poursuivie par une taxation des dépens. Une conférence téléphonique a eu lieu le 15 avril 2011 et, finalement, l’officier taxateur a délivré son certificat de taxation le 29 juillet 2011 pour un montant de 16 145 $. Les appelantes ont déposé une demande de réexamen de l’adjudication des dépens le 12 août 2011; toutefois, la Cour a donné des renseignements erronés à l’auxiliaire juridique qui était au service de l’avocat des appelantes et lui a conseillé de déposer la demande auprès de la Cour d’appel fédérale. Peu après cette confusion, la demande a été dûment déposée devant la Cour de l’impôt le 29 août 2011; toutefois, l’intimée a présenté une requête en radiation de la demande alléguant qu’elle avait été déposée devant la mauvaise cour et qu’elle était en outre hors délai. La Cour a demandé aux appelantes de déposer la documentation appropriée et le 19 octobre 2011, la juge Woods a rendu une ordonnance permettant à la demande des appelantes de suivre son cours. Voilà un bref historique et un aperçu de la façon dont j’ai été saisie de la présente demande hier.
+[6] Je dois décider si une modification doit être apportée à la taxation des dépens faite par l’officier taxateur.
+[7] Le certificat de taxation de l’officier taxateur a accordé les montants suivants :
+a) 11 710 $ pour les honoraires d’avocat;
+b) 1 522,30 $ pour la TVH sur ces honoraires d’avocat;
+c) 1 188,60 $ pour les frais de photocopies; et
+d) 1 724,60 $ pour l’indemnité de présence pour Donald Farrell
+pour un total de 16 145,50 $.
+[8] L’article 14 des Règles de la Cour canadienne de l’impôt conformément à la procédure informelle permet à toute partie d’interjeter appel devant la Cour à l’encontre d’une taxation des dépens. Dans le cadre d’un appel devant notre Cour interjeté à l’encontre d’un certificat d’un officier taxateur, je dois déterminer si cet officier taxateur s’est fondé sur un principe erroné. La juge Trudel a déclaré ce qui suit dans Canada c Sport Collection Paris Inc., [2008] A.C.F. no 1493, au paragraphe 5 en ce qui concerne cette question et je cite :
+[...] Il est de jurisprudence constante que la Cour n’interviendra dans la décision de l’officier taxateur que si ce dernier a commis une erreur de principe (R. v. Munro) [1998] 4 C.T.C. 89 (CAF) ou si sa décision est si déraisonnable qu’elle va à l’encontre des principes applicables.
+[9] Comme l’a souligné la décision IBM Canada Ltée c. Xerox of Canada Ltd., [1976] A.C.F. no 124, au paragraphe 7, un agent taxateur ne doit, et je cite à nouveau :
+[...] intervenir que lorsque les montants accordés sont inappropriés ou que la décision déraisonnable au point de sembler résulter d’une erreur de principe.
+[10] L’ordonnance du juge Boyle a fait droit à des honoraires relatifs à la présence d’un seul avocat entre les appelantes concernant l’audience et les observations écrites sur les dépens. Cependant, au paragraphe 26 de la décision de l’officier taxateur, des honoraires relatifs à la présence d’un seul avocat ont été accordés pour chacune des appelantes. Il s’agissait là d’une erreur de principe de la part de l’officier taxateur; toutefois, étant donné que l’intimée a accepté cette erreur et qu’elle était favorable aux appelantes, je ne crois pas que cet élément à lui seul entraîne une erreur de principe qui pourrait justifier d’intervenir dans la façon dont l’officier taxateur exerce son pouvoir discrétionnaire.
+[11] Pour la taxation des dépens, l’intimée a accepté, et l’agent taxateur a accordé, la TVH sur les honoraires d’avocat taxés. Les appelants demandent que soit imposée la TVH sur l’ensemble des honoraires d’avocat qui ont été facturés et pas seulement sur ceux qui ont été taxés. Les appelantes se fondent sur l’affidavit de la technicienne juridique Cheryl Lamkin selon lequel le montant réclamé pour la TVH était raisonnable. Pour la taxation des dépens, l’appelante a accepté que 13 pour cent soient alloués au titre de la TVH sur les honoraires d’avocat taxés. Dans ces circonstances, l’officier taxateur a accordé à bon droit la TVH de 13 pour cent sur les honoraires d’avocat, soit un montant de 1 522,30 $. L’article 11.2(2) des Règles régit cette question. Il se lit comme suit :
+Peuvent être adjugées les taxes sur les services, les taxes de vente, les taxes d’utilisation, les taxes de consommation et autres taxes semblables payées ou payables sur les honoraires d’avocat et les débours adjugés, s’il est établi que ces taxes ont été payées ou sont payables et qu’elles ne peuvent faire l’objet d’aucune autre forme de remboursement, notamment sur présentation, à l’égard de ces taxes, d’une demande de crédits de taxe sur les intrants.
+[12] En ce qui concerne l’indemnité de présence et en premier lieu, Donald Farrell, l’officier taxateur a conclu que M. Farrell, le comptable des appelantes, n’a pas été appelé à témoigner comme expert et conformément au paragraphe 12(1), les appelantes pouvaient recevoir 75 $ par jour, plus les frais de déplacement et de subsistance raisonnables et appropriés. Selon le certificat des dépens, les appelantes n’ont pas fourni de reçus pour les honoraires de M. Farrell réclamés; toutefois, l’intimée était disposée à consentir à la somme de 1 724,60 $ pour l’indemnité de présence. L’intimée n’a pas accepté de payer les frais de stationnement, les frais de préparation et liés aux conseils de M. Farrell, ni une partie des frais d’hébergement à l’hôtel demandés. L’officier taxateur a indiqué, au paragraphe 31, que les frais d’hébergement à l’hôtel demandés dans le mémoire de frais étaient en réalité plus élevés que le montant figurant sur les deux factures présentées par M. Farrell. En outre, elle a fait observer que ces factures n’incluaient pas de réclamation pour les frais de stationnement, même si ceux-ci avaient été inclus dans le mémoire de frais. La taxation de l’indemnité de présence concernant M. Farrell, est par conséquent, raisonnable, compte tenu de l’absence de pièces justificatives et des incohérences entre les factures et le mémoire de frais.
+[13] En ce qui a trait à l’argument de l’appelante selon lequel, en s’appuyant sur l’article 12, l’officier taxateur a fait une erreur parce que l’ordonnance du juge Boyle ne renvoyait qu’aux articles 10 et 11 des Règles, je ne crois pas que l’officier taxateur a commis une erreur de principe en s’appuyant sur l’article 12 des Règles, même si l’ordonnance du juge Boyle n’en fait pas expressément mention. La règle existe bel et bien et je ne crois pas qu’elle doit être mise de côté par l’officier taxateur pour en arriver à un montant approprié et juste, simplement parce que l’ordonnance omet ou fait défaut de renvoyer à cette règle. Quoi qu’il en soit, le juge Boyle a ordonné le paiement des débours raisonnables et les débours de M. Farrell peuvent être couverts par ce renvoi.
+[14] En raison des incohérences entre les montants du mémoire de frais à l’égard de plusieurs de ces débours et les factures réelles, l’officier taxateur n’a commis aucune erreur de principe que je suis en mesure de modifier.
+[15] La seconde série d’indemnités de présence, qui concerne Eli Humby, a été rejetée par l’officier taxateur parce que celle-ci a conclu que, bien que M. Humby ait été présent à l’audience devant le juge Boyle, il n’a pas été appelé à témoigner. Même si M. Humby a comparu et a témoigné devant le juge Bowie dans le cadre de cette question préliminaire, en tant que directeur de l’appelante, il n’a pas droit à l’indemnité de présence à moins d’être appelé à témoigner par l’avocat, ce qui n’a pas été le cas. (article 12(1.1) des Règles) Encore là, je n’ai pas le pouvoir de m’ingérer dans les conclusions de l’officier taxateur.
+[16] Enfin, en ce qui concerne les autres débours au titre des frais de photocopie et de messagerie, l’officier taxateur affirme, en ce qui a trait aux frais de télécopie, qu’elle ne disposait d’aucun document à l’appui des montants demandés et elle n’avait aucun renseignement concernant le nombre de copies effectuées. Quoi qu’il en soit, elle a accordé 1 188,60 $ pour les frais de photocopie. Pour ce qui est des frais de messagerie, ne disposant d’aucune documentation et compte tenu de l’admission de l’avocat selon laquelle il a remis certains documents en personne, l’officier taxateur n’a accordé aucun montant pour les frais de messagerie. L’avocat des appelants a souligné qu’il exerce seul et qu’à ce titre, il veille à faire lui-même ses photocopies. Bien que je comprenne cette position et que je reconnaisse qu’il serait difficile dans ces conditions de calculer un montant exact, je crois que l’avocat aurait pu tenter de fournir les listes des différents documents avec le nombre de photocopies effectuées et les dates approximatives de ces photocopies. Il s’agirait là d’une évaluation approximative, mais j’estime qu’elle serait appropriée et à laquelle un taux raisonnable aurait pu être appliqué. Là encore, il appartient à l’avocat des appelantes de démontrer comment il en est arrivé aux montants qu’il soumet pour les frais de photocopie. Sans une telle présentation, les chiffres obtenus par l’officier taxateur sont encore là raisonnables et je suis incapable de modifier sa décision à l’égard des frais de messagerie et de télécopie.
+[17] Enfin, les appelantes allèguent qu’aucun montant découlant de cette adjudication des dépens n’a été payé par l’intimée. L’intimée fait valoir que les dépens ont été déduits de la dette fiscale des appelantes. Il existe de nombreuses autorités qui indiquent que la Cour n’a pas compétence pour intervenir dans la façon dont le ministre exerce son pouvoir discrétionnaire pour compenser une adjudication des dépens et, par conséquent, je n’ai pas d’autres commentaires à cet égard.
+[18] En résumé, je ne peux justifier mon intervention à l’égard du certificat des dépens de l’officier taxateur parce que j’ai conclu qu’elle n’a pas fait d’erreur de droit ou de principe dans cette adjudication. En examinant les documents de ce dossier, il semble que les appelantes ont dû livrer bataille à l’ARC pendant environ sept ans, ce qui a donné lieu à de nombreuses difficultés, de nature financière ou autre, pour M. Humby. Cela semble, en large part, être le résultat de mesures arbitraires prises par l’ARC; cependant, en me fondant sur la jurisprudence et les règles de la Cour, je ne suis pas en mesure d’intervenir quant à la taxation des dépens autant que je l’aurais souhaité afin d’aider les appelantes.
+[19] Par conséquent, je n’accorde aucuns dépens à l’intimée, même si une demande de 500 $ a été présentée hier.
+Signé à Summerside, Île-du-Prince-Édouard, ce 19e jour du mois de juillet 2012.
+« Diane Campbell »
+La juge Campbell
+RÉFÉRENCE : 2012 CCI 260
+NO DU DOSSIER DE LA COUR : 2008-6(IT)I et
+2008-5(IT)I
+INTITULÉ : A & E PRECISION FABRICATING AND MACHINE SHOP INC. ET SA MAJESTÉ LA REINE, ET
+CENTRAL SPRINGS LIMITED ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : St. John’s (Terre-Neuve-et-Labrador)
+DATE DE L’AUDIENCE : Le 4 avril 2012
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DU JUGEMENT ORAL : Le 5 avril 2012
+COMPARUTIONS :
+Pour l’appelante :
+Robert Anstey
+Avocat de l’intimée :
+Me Jill Chisholm
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

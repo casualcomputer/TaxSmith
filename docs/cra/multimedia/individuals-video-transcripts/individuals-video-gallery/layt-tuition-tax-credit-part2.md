@@ -1,0 +1,29 @@
+---
+title: "Learn About Your Taxes. The one about the tuition tax credit (Part 2)"
+gallery_title: "Learn About Your Taxes. The one about the tuition tax credit (Part 2)"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/individuals-video-gallery/layt-tuition-tax-credit-part2.html
+series: "Learn About Your Taxes"
+video_source: https://www.youtube.com/watch?v=Q34_KMMZfWY
+last_modified: 2026-01-29
+---
+
+# Learn About Your Taxes. The one about the tuition tax credit (Part 2)
+
+## Transcript
+[Text on screen: Learn About Your Taxes. The one about the tuition tax credit (Part 2)]
+[Sage is in front of a white backdrop. Upbeat music plays.]
+**Sage:** Welcome back to Learn about your taxes!
+This is part two in our tuition tax credit series. In part one, you learned the basics of the credit and how to apply it on your tax return. Now that you’ve entered your tuition amount information, what are the next steps before sending in your return? The tuition tax credit is very flexible and gives you options. Let’s check them out.
+[Sage disappears. Text on screen: Claim on your tax return]
+First, you’ll need to claim the credit on your own tax return if you owe money. The credit will reduce your amount owing and may even bring it down to zero. You’ll only use the portion that is needed, no more, no less. That may leave you with an unused tuition amount, so what can you do about those?
+[Text on screen: Transfer your tuition amount]
+You may choose to transfer all, or part, of your registered tuition amount for the year to a spouse, common-law partner, parent, or grandparent. If they owe money on their tax return, you can transfer up to $5,000 in tuition fees to help lower their tax bill. This can represent a reduction of up to $750 in tax owed.
+If you are transferring an amount to someone, make sure you only transfer the amount they will need to use to bring their taxes owed to zero. This way, you can carry forward as much as possible for you to use in a future year.
+To transfer an amount, you’ll have to fill out and sign the transfer section on page two of your Form T2202, and give a copy to the person you’re transferring the credits to. They’ll have to enter the information on their tax return to complete the transfer. Hang on to this T2202 because the CRA may ask you to send it in at a later date.
+[Text on screen: Carry forward your tuition amount]
+[An illustration of a person in a graduation cap is drawn on screen.]
+If you don’t have any taxes to pay, or you’ve reduced them to zero, you can carry forward the unused tuition amount forward to use in a tax year when you do owe.
+[The graduation cap is erased and a construction hard hat is drawn in its place.]
+This could be once you start working full-time after you have graduated. To see if you have an amount carried forward, check out your CRA My Account or your notice of assessment.”
+[Sage appears in front of a white backdrop.] And there you go! We hope this series has helped you understand the tuition amount and Form T2202, and bring you one step closer to tax independence.
+For more info, go to canada.ca/learn-about-taxes.

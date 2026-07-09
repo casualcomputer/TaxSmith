@@ -1,0 +1,207 @@
+---
+title: "Mould c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/66428/index.do"
+last_modified: "2014-01-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 21"
+citation2: ""
+neutral_citation: "2014 CCI 21"
+decision_date: "2014-01-16"
+language: "fr"
+item_id: "66428"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5993
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:11:17.308000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "df086a1b83dcac7ce25a40f6ed49e6b2fb34189579d2718ce8e338d9e4e4420a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mould c. La Reine
+
+- Citation: 2014 CCI 21
+- Decision date: 2014-01-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5993, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mould c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-01-16
+Référence neutre
+2014 CCI 21
+Numéro de dossier
+2010-921(IT)G, 2010-922(IT)G, 2010-923(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2014 CCI 21
+Date : 20140116
+Dossiers : 2010-921(IT)G
+2010-922(IT)G
+2010-923(IT)G
+ENTRE :
+SA MAJESTÉ LA REINE,
+requérante,
+(requérante dans la requête)
+et
+ADVANTEX MARKETING INTERNATIONAL INC.,
+tiers,
+(intimée dans la requête)
+et
+ROY MOULD,
+GERALD OSBORNE,
+BARRY PICKFORD,
+appelants,
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ORDONNANCE ET MOTIFS DE L’ORDONNANCE
+Le juge en chef Rip
+[1] Sont en cause les avis de requête que l’intimée a présentés : (1) en ordonnance qui lui accorde l’autorisation d’interroger au préalable un tiers au présent appel, à savoir Advantex Marketing International Inc. (« Advantex »), et ce, par l’intermédiaire d’un représentant bien informé d’Advantex, conformément au paragraphe 99(1) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »); (2) en directives relatives à cet interrogatoire préalable, conformément au paragraphe 99(1) des Règles, et notamment :
+a) une directive selon laquelle l’interrogatoire préalable devra être effectué sous serment ou affirmation solennelle;
+b) une directive selon laquelle la portée de l’interrogatoire préalable sera définie par l’article 95 des Règles;
+c) une directive selon laquelle il pourrait être exigé d’Advantex qu’elle prenne des engagements en vue de rechercher et de communiquer des renseignements et des documents additionnels;
+d) une directive selon laquelle la transcription de l’interrogatoire pourra être utilisée à l’audience pour attaquer la crédibilité du représentant d’Advantex à titre de témoin, si nécessaire;
+e) des directives selon lesquelles l’intimée pourra avoir droit au remboursement par les appelants des dépens de l’interrogatoire préalable, à la discrétion du juge du procès;
+f) une directive selon laquelle les dépens seront adjugés à l’intimée si la requête fait l’objet d’une opposition.
+[2] Advantex est un tiers concernant les appels en matière d’impôt interjetés par les appelants, mais elle était partie aux opérations qui ont abouti à l’établissement des cotisations en cause.
+[3] L’intimée fait valoir qu’en 2003, Advantex, sa filiale, Advantex Dining Corporation (« Advantex Dining »), et certaines autres filiales auraient conclu des opérations par lesquelles un bien désigné par l’appellation [traduction] « Division de soutien aux affaires » d’Advantex Dining a été vendu à Advantex Systems Limited Partnership pour la somme de 12 000 000 $. L’intimée soutient que les opérations en cause interviennent dans une structure de société multiple en commandite. Les appelants ont souscrit des parts de la société en commandite Madison Grant (« MGLP »). Par la suite, MGLP a apparemment souscrit des parts de la société en commandite Operating (« Operating LP »). La « Division de soutien aux affaires » a été classée comme un bien de catégorie 12 (logiciels) à des fins de déduction pour amortissement (« DPA »), et des DPA demandées par Operating LP pour les périodes comptables qui se sont terminées les 31 décembre 2003 et 2004 ont donné lieu à d’importantes pertes de société en commandite qui ont été attribuées à MGLP. À son tour, MGLP a attribué des pertes de société en commandite aux appelants, qui ont demandé à déduire ces pertes pour les années d’imposition 2003 et 2004. Les opérations ont été dénouées en 2005 quand Advantex s’est prévalue d’une option consistant à acquérir les parts de la société en commandite Operating LP que MGLP détenait. Le promoteur des opérations était Madison Grant Fund Inc. III (« MGFIII »).
+[4] La présente requête de l’intimée a découlé des engagements pris lors des interrogatoires préalables de MM. Mould et Pickford, appelants. Ces engagements sont exposés à l’annexe « H » de l’affidavit de M. Tolmie. Par la suite, l’avocat des appelants a résumé ces engagements et a produit ce résumé en même temps que les réponses aux engagements de ses clients. Les extraits pertinents du résumé des engagements relatifs à Advantex et à ses filiales sont joints à l’affidavit de M. Tolmie sous la cote « J ». Les appelants se sont engagés à se renseigner auprès d’Advantex et d’autres tiers. Les appelants ont été incapables d’obtenir des réponses d’Advantex à l’égard des engagements.
+[5] L’intimée est d’avis qu’Advantex dispose de renseignements et de documents pertinents à l’égard de questions en litige essentielles en l’espèce ou qu’elle exerce un pouvoir ou un contrôle sur des renseignements ou des documents pertinents qui sont en la possession de ses filiales ou d’Operating LP.
+[6] M. Derek Tolmie, comptable agréé et spécialiste des appels en matière d’impôt de la Direction des appels en matière fiscale et de bienfaisance de l’Agence du revenu du Canada (« CRA »), a souscrit un affidavit à l’appui de la requête.
+[7] M. Michael Sabharwal, comptable agréé et vice‑président et directeur financier d’Advantex, a souscrit un affidavit à l’appui de l’objection qu’Advantex a formulée à l’encontre de la requête de l’intimée visant à faire subir un interrogatoire préalable à Advantex par l’intermédiaire d’un représentant bien informé. M. Sabharwal est au service d’Advantex depuis 2005. Il ne l’était pas quand les opérations en cause ont eu lieu et il n’a pas personnellement pris part à ces opérations, et à l’en croire, il n’est pas informé à leur sujet. Il a étudié les documents comptables d’Advantex lors de la vérification et consulté les employés, dirigeants et administrateurs actuels d’Advantex. Il avait pris connaissance de l’avis de requête de l’intimée ainsi que des documents à l’appui.
+[8] Dans son affidavit, M. Sabharwal a dressé une liste de 17 personnes constituant un groupe auquel il est fait référence dans l’affidavit de M. Tolmie, personnes qui, selon les dires de M. Sabharwal, ne sont pas des employés, des dirigeants ou des administrateurs actuels d’Advantex, et il a également signalé une personne qui lui avait dit qu’il n’avait pas personnellement pris part aux opérations et qu’il n’en avait pas eu personnellement connaissance.
+[9] Toutefois, il ressort des pièces jointes à l’affidavit de M. Tolmie que sur les 17 personnes en question, plusieurs, dont G. Randall Munger, Allison Smith, John Sadiq, Wanda Dorosz et Marvin Singer, étaient administrateurs d’Advantex au moment où les opérations ont eu lieu. M. Sabharwal a déclaré qu’il n’avait gardé contact avec aucun de ces anciens employés, dirigeants ou administrateurs, de sorte qu’il ne pouvait pas leur demander s’ils pourraient l’aider à l’égard de la question en litige. Il a consulté des employés, des dirigeants et des administrateurs actuels de la société. Aucun employé actuel qui était déjà au service d’Advantex en 2003 n’a répondu aux demandes de M. Sabharwal, qui les priait d’entrer en contact avec lui.
+[10] M. Sabharwal a expliqué qu’il n’avait consulté aucun ancien employé d’Advantex, affirmant [traduction] « je n’aurais pas su comment les joindre… ».
+[11] Je ne crois pas que M. Sabharwal ou que tout autre dirigeant d’Advantex ait fourni des efforts raisonnables pour trouver une personne qui est actuellement au service d’Advantex, ou qui l’était au moment où les opérations ont eu lieu, et qui était au courant de ces opérations.
+[12] M. Sabharwal confirme que, vu qu’il n’est pas bien informé au sujet des questions en cause, il n’est en mesure de fournir aucun des renseignements et des documents additionnels relatifs aux engagements pris par les appelants lors de l’interrogatoire préalable. Il est également incapable de nommer un représentant d’Advantex bien informé et capable de répondre aux questions pertinentes. Aussi, comme il le souligne, l’intimée n’a trouvé personne qui soit susceptible d’être un représentant bien informé d’Advantex.
+[13] Enfin, M. Sabharwal déclare qu’il a coopéré avec l’ARC et qu’il a fourni à celle-ci les documents et renseignements demandés par ses fonctionnaires lors de la vérification menée à l’égard des années d’imposition 2003, 2004 et 2005 en ce qui concerne les opérations en litige. L’avocat d’Advantex a fait valoir que sa cliente avait donné à l’ARC les documents que cette dernière voulait au moment de la vérification et que l’ARC en avait été satisfaite. Selon lui, il n’est pas nécessaire que sa cliente recherche des documents additionnels.
+[14] M. Sabharwal a fait l’objet d’un contre‑interrogatoire relatif à son affidavit. Les documents demandés par l’intimée comprenaient l’organigramme du groupe de sociétés Advantex de 2003. M. Sabharwal a déclaré qu’aucun employé actuel d’Advantex n’était en mesure d’attester qu’un tel organigramme existait. Il a reconnu qu’il n’était pas certain qu’un tel organigramme existait et qu’il n’avait pas vérifié s’il en existait un pour 2003. Ce serait pour lui [traduction] « très difficile » de trouver l’organigramme en question.
+[15] M. Sabharwal a eu des réticences à produire les états financiers d’Advantex pour les exercices allant de 2000 à 2003. Il a déclaré qu’il aurait pu les communiquer à l’ARC au moment de la vérification, mais que, lors du contre‑interrogatoire, son avocat ne lui avait pas permis de produire les documents, à moins que [traduction] « la Cour rende une ordonnance contraignant M. Sabharwal à témoigner ».
+[16] M. Sabharwal a expliqué qu’Advantex était une société [traduction] « à très faible capitalisation » ayant un petit service des finances, et il a ajouté : [traduction] « nous avons beaucoup de travail rien que pour faire marcher la société, enregistrer un profit et traiter les questions opérationnelles ». Il s’est plaint qu’il n’avait personne pour l’assister dans son travail actuel, ajoutant que ce travail en pâtirait s’il devait chercher des copies d’états financiers annuels, par exemple.
+[17] On a également interrogé M. Sabharwal au sujet de l’existence d’un certain logiciel qu’Advantex avait transféré dans le contexte des opérations en cause. Il n’a pas pu dire si Advantex disposait toujours des renseignements relatifs au logiciel sous une forme ou sous une autre parce qu’il ne le savait pas.
+[18] M. Mould a pris plus de 200 engagements lors de son interrogatoire préalable. Quelque 150 engagements demeurent en suspens et constituent le fondement de la présente requête.
+[19] L’intimée a également produit l’affidavit de Renee Johnson, ancienne vérificatrice de l’ARC, à l’appui de sa requête. Mme Johnson avait mené une vérification à l’égard d’Advantex et des autres intervenants qui ont participé aux opérations ayant abouti aux appels en cause. Elle était également la représentante de l’intimée lors de l’interrogatoire préalable que l’avocat des appelants a mené. Elle a examiné l’affidavit de M. Tolmie.
+[20] Dans son affidavit, Mme Johnson expose les contacts qu’elle a eus avec M. Sabharwal d’Advantex et M. Charlton. Après plusieurs appels téléphoniques et échanges de courrier en juin 2006, Mme Johnson s’est rendue en juillet au bureau de M. Charlton, à Toronto, et elle a reçu [traduction] « certains » documents. Elle s’est par la suite entretenue au téléphone avec M. Sabharwal, qu’elle a informé du fait que M. Charlton lui avait remis la plupart des documents qu’elle recherchait, et elle a proposé, plutôt que d’aller voir M. Sabharwal à Toronto, d’adresser des questions précises à Advantex et à ses filiales dans des lettres. Ces lettres sont datées du 10 août 2006.
+[21] Dans l’intervalle, Mme Johnson a effectué un suivi auprès de M. Charlton en vue d’obtenir des renseignements supplémentaires par courrier. Elle a également communiqué de manière régulière avec M. Sabharwal par courrier et par téléphone. Mme Johnson obtenait des renseignements de MM. Charlton et Sabharwal, mais ces renseignements n’étaient pas nécessairement exhaustifs.
+[22] Après avoir pris connaissance de l’affidavit de M. Tolmie, Mme Johnson a confirmé qu’il existait trois catégories de demandes présentées par l’intimée en vue d’obtenir des renseignements ou des documents :
+a) les demandes visant des renseignements ou des documents qui n’avaient pas été demandés à Advantex ou à MGFIII au moment de la vérification;
+b) les demandes visant des renseignements ou des documents qui avaient été demandés et qui ont été obtenus seulement en partie au moment de la vérification;
+c) les demandes visant des renseignements ou des documents qui avaient été demandés et qui n’ont pas été obtenus au moment de la vérification.
+[23] Les paragraphes 99(1) et (2) des Règles disposent:
+99(1) La Cour peut accorder, à des conditions appropriées, notamment quant aux dépens, l’autorisation d’interroger au préalable une personne, à l’exception d’un expert engagé en prévision d’un litige ou en instance par une partie, ou en son nom, si elle a des raisons de croire que cette personne possède des renseignements pertinents sur une question importante en litige.
+99(1) The Court may grant leave, on such terms respecting costs and other matters as are just, to examine for discovery any person who there is reason to believe has information relevant to a material issue in the appeal, other than an expert engaged by or on behalf of a party in preparation for contemplated or pending litigation.
+(2) La Cour n’accorde l’autorisation selon le paragraphe (1) que si elle est convaincue :
+(2) Leave under subsection (1) shall not be granted unless the Court is satisfied that,
+a) que le requérant n’a pas été en mesure d’obtenir ce renseignement de l’une des personnes qu’il a le droit d’interroger au préalable ou de la personne qu’il désire interroger;
+(a) the moving party has been unable to obtain the information from other persons whom the moving party is entitled to examine for discovery, or from the person sought to be examined,
+b) qu’il est injuste d’exiger que l’instance soit instruite sans que le requérant de la requête ait la possibilité d’interroger cette personne;
+(b) it would be unfair to require the moving party to proceed to hearing without having the opportunity of examining the person, and
+c) que l’interrogatoire n’aura pas pour effet, selon le cas :
+(c) the examination will not,
+(i) de retarder indûment le début de l’instruction de l’instance,
+(i) unduly delay the commencement of the hearing of the proceeding,
+(ii) d’entraîner des dépenses injustifiées pour les autres parties,
+(ii) entail unreasonable expense for other parties, or
+(iii) de causer une injustice à la personne que le requérant désire interroger.
+(iii) result in unfairness to the person the moving party seeks to examine.
+[24] La sanction prévue à l’article 99 des Règles est une sanction extraordinaire et toutes les conditions énoncées au paragraphe 99(2) doivent être réunies avant que la Cour envisage de rendre une ordonnance.
+[25] L’avocat d’Advantex a fait valoir que la Couronne avait manqué à ses obligations pour ce qui est de trouver un représentant bien informé. Advantex est elle-même incapable de trouver une telle personne.
+[26] L’avocat d’Advantex ajoute que, lors de la vérification des opérations en litige, sa cliente avait été [traduction] « complètement transparente » avec l’ARC et qu’elle avait donné des documents à cette dernière, mais que, du fait de [traduction] l’« ampleur des questions », elle avait donné certaines réponses incomplètes. Il a demandé à connaître les raisons pour lesquelles sa cliente, qui a coopéré lors de la vérification, était maintenant mise dans une position où on lui demander de répéter ses efforts. Il a fait valoir qu’aucun juge n’avait rendu à l’endroit de sa cliente une ordonnance au titre de l’article 231.7 de la Loi de l’impôt sur le revenu (la « Loi ») selon laquelle Advantex devait fournir de l’aide, des renseignements ou des documents à la Couronne.
+[27] Comme l’avocat des appelants le fait valoir, l’article 99 des Règles renvoie à l’interrogation d’un tiers dont on a des raisons de croire qu’il dispose de renseignements pertinents. L’avocat des appelants distingue l’article 99 des Règles du paragraphe 231.7(1) de la Loi, lequel permet au juge, si celui-ci est convaincu qu’il a été satisfait à certaines conditions, sur demande du ministre, d’ordonner à une personne de fournir l’accès, l’aide, les renseignements ou les documents que le ministre cherche à obtenir. L’avocat des appelants soutient que les « renseignements » visés par l’article 99 des règles ne sont pas des « documents » au sens du paragraphe 231.7(1) de la Loi, et que, par conséquent, l’intimée ne peut pas se prévaloir de l’article 99 des Règles pour parvenir à obtenir des documents d’Advantex.
+[28] Je peux retenir la thèse de l’avocat d’Advantex. Avant toute chose, les Règles contiennent des principes d’interprétation spécifiques selon lesquels la Cour doit donner aux Règles une interprétation large. Le paragraphe 4(1) des Règles est ainsi libellé : « Les présentes règles doivent recevoir une interprétation large afin d’assurer la résolution équitable sur le fond de chaque instance de la façon la plus expéditive et la moins onéreuse ». Compte tenu de cette disposition relative à l’interprétation qui doit être faite des dispositions des Règles, la notion de « renseignements » doit être interprétée largement. Des renseignements restent des renseignements, qu’ils sortent de la bouche d’un témoin ou qu’ils soient tirés d’un document, d’un CD ou de tout autre support contenant des renseignements. L’interrogatoire préalable permet d’obtenir des renseignements. L’article 98 des Règles renvoie au fait qu’une partie fournit un « renseignement par écrit » et au fait que ce « renseignement » peut être appuyé par une déclaration sous serment. Les témoignages recueillis lors de l’interrogatoire préalable proviennent de renseignements.
+[29] En ce qui a trait à la Loi, l’article 231.7 est une disposition de la partie XV de la Loi, qui concerne les pouvoirs du ministre du Revenu national en matière d’application et d’exécution de la Loi. L’article 231.7 ne définit pas les règles auxquelles le ministre doit se conformer quand il plaide une cause devant notre Cour. Les arguments des appelants soulèvent deux problèmes. Premièrement, si l’avocat des appelants soutient à juste titre qu’une partie à un appel doit invoquer l’article 231.7 de la Loi pour interroger au préalable un tiers, alors une partie autre que le ministre n’a pas le droit de chercher des renseignements auprès d’un tiers dans des circonstances similaires parce que seul le ministre peut se prévaloir du paragraphe 231.7(1). Deuxièmement, la question de savoir si le ministre est une partie dans le contexte d’un appel interjeté devant la Cour reste ouverte.
+[30] En outre, il est question du pouvoir du juge d’une cour supérieure provinciale ou du juge de la Cour fédérale d’interférer de manière flagrante dans le déroulement d’un appel devant notre Cour, qui est aussi une cour supérieure, en rendant une ordonnance aux termes de l’article 231.7 de la Loi[1] à des fins liées à l’appel et non à l’interrogatoire et à l’exécution de la Loi.
+[31] Quoi qu’il en soit, les articles 231.1 à 231.7 dotent le ministre d’outils qui lui permettent d’appliquer et d’exécuter la Loi; ces dispositions ne sont pas des outils permettant d’interroger au préalable un tiers au cours d’une procédure d’appel devant la Cour à l’égard d’une cotisation. La présentation d’une requête au titre de l’article 99 des Règles est la procédure qu’il convient d’adopter quand une partie souhaite interroger au préalable un tiers.
+[32] L’avocat de l’intimée fait valoir que l’article 99 des Règles renvoie à l’interrogatoire préalable d’« une personne » si la Cour a des raisons de croire que cette personne possède des renseignements, sans qu’il s’agisse nécessairement de quelqu’un de « bien informé » aux termes de l’article 93 des Règles. Toutefois, je suis d’avis qu’une fois qu’une personne a été choisie comme un tiers faisant l’objet d’un interrogatoire préalable, cette personne doit être informée ou encore s’informer quant à la question faisant l’objet de l’interrogatoire. Si la personne devant être interrogée n’est pas informée à l’égard de l’objet de l’interrogatoire, celui-ci sera probablement inutile.
+[33] La partie qui interroge au préalable un tiers, qui n’est pas une personne physique, ne devrait pas se trouver dans une position moins favorable que lorsqu’elle interroge une partie adverse. Ainsi, les paragraphes 93(2) et 95(2) des Règles visent les tiers tout comme les parties : le tiers devant être interrogé, qui n’est pas une personne physique, doit choisir un employé, un dirigeant ou un administrateur – actuel ou ancien – bien informé qui sera interrogé en son nom, et, avant la tenue de l’interrogatoire, cette personne devant être interrogée doit faire toutes les recherches raisonnables portant sur les points en litige, conformément au paragraphe 95(2) des Règles.
+[34] Le fait que l’ARC ait été en mesure d’obtenir des renseignements d’Advantex lors d’une vérification n’empêche pas l’intimée d’exercer les droits qui lui sont conférés par les Règles. Une vérification n’est pas nécessairement menée dans l’optique d’un éventuel contentieux, et ce dont un avocat peut avoir besoin dans le contexte d’une procédure judiciaire n’est pas nécessairement ce qu’un vérificateur recherche lors d’une vérification.
+[35] Je conclus qu’Advantex et ses filiales ont, ou auraient dû, disposer de renseignements pertinents à l’égard des questions qui sont au cœur du litige. Advantex et ses filiales ont joué un rôle central dans les opérations qui sont à l’origine des présents appels.
+[36] Dans sa déclaration sous serment, Mme Johnson expose les efforts que les appelants ont fournis pour obtenir les renseignements que la Couronne leur demandait lors de la vérification qui a été menée à l’égard des opérations en cause. La déclaration sous serment de M. Tolmie permet d’en savoir plus au sujet des efforts que l’avocat des appelants a fournis en vue d’honorer les engagements de ses clients.
+[37] Me Carvalho, avocat de l’intimé, a interrogé au préalable les appelants, MM. Mould, Pickford et Osborne, les 13, 14 et 15 octobre 2011, respectivement. Me Derksen, avocat de l’intimée, était également présent. Me David Davies était également présent pour représenter chacun des appelants.
+[38] Il a été demandé aux appelants de s’informer auprès de tiers, notamment Advantex et ses filiales, Peter Charlton et MGFIII, en vue d’obtenir des renseignements et des documents. En réponse à ces demandes, les appelants ont pris des engagements par l’intermédiaire de leur avocat, Me Davies.
+[39] Les engagements concernant les tiers ont été pris lors des interrogatoires préalables de MM. Mould et Pickford. Par la suite, Me Davies a résumé ces engagements, résumé qui a été produit en même temps que les réponses aux engagements des appelants le 31 janvier 2012.
+[40] Les réponses aux engagements étaient accompagnées d’une lettre datée du 31 janvier 2012 que Me Davies avait adressée à Me Carvalho, dont voici un extrait :
+[traduction]
+… les appelants se sont acquittés de leurs obligations et ont posé aux tiers toutes les questions prévues par les engagements. Toutefois, à l’heure qu’il est, les réponses ont été peu nombreuses.
+En vue de continuer de nous acquitter de nos obligations en matière de communication, nous ne manquerons pas de vous communiquer tout document additionnel que nous recevrons de tiers en réponse aux engagements, et ce, dès que possible. Dans le cas où Peter Charlton, Madison Grant ou Advantex déclareraient qu’ils ne comptaient plus fournir de renseignements ou de documents additionnels, nous ne manquerons pas non plus de vous le faire savoir.
+[41] Dans une autre lettre, datée du 15 mai 2012, Me Davies a communiqué les renseignements suivants :
+[traduction]
+1. Du fait des engagements qu’ils avaient pris lors de l’interrogatoire préalable, les appelants étaient tenus de poser certaines questions à Advantex. Ces questions ont été posées à un représentant d’Advantex. Ce dernier a répondu à l’avocat par courriel, lui faisant savoir que sa cliente n’était pas disposée, pour diverses raisons, à fournir quelque renseignement significatif que ce soit en réponse aux questions qui lui avaient été posées. Effectivement, à ce jour, Advantex n’a envoyé aucune réponse significative.
+2. Du fait des engagements qu’ils avaient pris lors de l’interrogatoire préalable, les appelants étaient également tenus de poser certaines questions à Madison Grant et à Peter Charlton. Je crois comprendre que Peter Charlton est l’actionnaire contrôlant, si ce n’est l’unique actionnaire, de Madison Grant. Les questions ont été posées à M. Charlton (tant en ce qui a trait aux renseignements qui lui ont été demandés personnellement qu’à ceux relatifs à Madison Grant). M. Charlton a répondu et fait savoir que sa santé était mauvaise et que son médecin lui avait recommandé de ne pas travailler. M. Charlton a proposé de communiquer les noms d’autres personnes susceptibles d’avoir accès aux renseignements demandés. Nous attendons de recevoir ces autres noms et avons l’intention de poursuivre l’affaire.
+[42] À l’origine, l’intimée avait proposé de procéder à des interrogatoires de suivi. Toutefois, dans une lettre qu’il a adressée à Me Davies en date du 11 juin 2012, Me Carvalho a proposé d’effectuer ce suivi par écrit. Me Davies a convenu, dans une lettre datée du 22 juin 2012, de mener les autres interrogatoires par écrit.
+[43] Par une lettre datée du 25 juin 2012 et adressée à Me Davies, Me Carvalho a fait parvenir à ce dernier des questions additionnelles au titre des engagements des appelants. Une de ces questions avait trait aux efforts que les appelants avaient employés pour obtenir des réponses et des renseignements d’Advantex. Le 21 décembre 2012, Me Davies a ainsi répondu :
+[traduction]
+L’avocat des appelants a envoyé plusieurs courriels à un représentant d’Advantex en novembre ou en décembre 2011, ou vers cette période, auxquels il a joint des copies des questions que les appelants s’étaient engagés à poser à Advantex. L’avocat des appelants a également communiqué à diverses reprises, que ce soit par téléphone ou par d’autres moyens, avec ce représentant au sujet de ces questions.
+[44] Plus tard, le 4 mars 2013, Me Carvalho a écrit directement à Advantex pour lui demander si elle accepterait de coopérer et de répondre aux questions et aux demandes de l’intimée. Le 8 mars 2013, Me Carvalho s’est entretenu au téléphone avec Me Dominic Belley, avocat d’Advantex, qui, lors de cette conversation téléphonique, l’a informé, comme Me Carvalho l’a souligné dans sa lettre adressée à Me Belley et datée du même jour, [traduction] qu’« Advantex et ses filiales refusaient de répondre à quelque question que ce soit en l’absence d’une ordonnance d’un tribunal leur enjoignant de le faire ».
+[45] La condition énoncée à l’alinéa 99(2)a) a été satisfaite.
+[46] Les appelants ont acquis des parts de la société en commandite MGLP. Il n’existe aucun élément de preuve dont il ressort qu’ils ont participé à la planification ou à l’organisation des évènements qui ont mené à l’opération en cause ou du fait qu’ils ont pris part à toute opération à laquelle Advantex ou ses filiales auraient été parties avant l’achat des parts. Après avoir lu les déclarations sous serment de M. Tolmie et de Mme Johnson et entendu les allégations de l’avocat de l’intimée, tout donne à entendre que les appelants ont répondu de manière satisfaisante, à leur connaissance, à toutes les questions qui leur ont été posées lors de l’interrogatoire préalable et qu’ils ont fait preuve de bonne foi en s’efforçant d’honorer les engagements pris lors de l’interrogatoire préalable. Les appelants n’ont soulevé aucune objection pour des raisons de pertinence à l’égard des demandes d’engagements qui ont été formulées. Ils comprennent la pertinence et l’importance des questions auxquelles ils se sont engagés à répondre.
+[47] Il serait injuste pour l’intimée que l’instance soit instruite sans que l’intimée ait eu la possibilité de faire en sorte que les appelants satisfassent leurs engagements. Les engagements sont pertinents en l’espèce. Et, si on se fonde au minimum sur la tenue normale des livres comptables, on peut dire qu’Advantex est, ou devrait être, au courant des réponses aux engagements.
+[48] Je conclus que l’interrogatoire d’Advantex ne retardera pas de manière indue le début de l’instruction des appels en cause, qu’il ne donnera pas lieu à des dépenses injustifiées pour les autres parties et qu’il ne causera pas d’injustice à Advantex.
+[49] Il n’y aura pas d’adjudication des dépens contre les appelants relativement à la présente requête. L’avocat d’Advantex a demandé que sa cliente soit remboursée des dépenses qu’elle a faites, y compris des salaires, des photocopies, des déplacements, etc., en vue de satisfaire les engagements, ainsi que des frais qu’elle a engagés pour l’aider à préparer le représentant d’Advantex à répondre à l’interrogatoire préalable et à l’interrogatoire en tant que tel ainsi qu’à satisfaire tout engagement pris lors de l’interrogatoire. J’examinerai la question des dépens au terme de l’interrogatoire préalable du représentant et après avoir étudié les observations des avocats relativement aux dépens.
+[50] Par conséquent, la Cour ordonne :
+a) que l’intimée puisse interroger au préalable Advantex;
+b) qu’Advantex choisisse un administrateur, un dirigeant, un membre, un associé ou un employé – ancien ou actuel – bien informé qui sera interrogé en son nom, conformément au paragraphe 93(2) des Règles;
+c) que la portée de l’interrogatoire préalable soit régie par l’article 95 des Règles;
+d) qu’il puisse être exigé d’Advantex qu’elle s’engage à chercher et à fournir des renseignements et des documents additionnels;
+e) qu’il se peut que la transcription de l’interrogatoire soit utilisée lors de l’instruction pour attaquer la crédibilité du représentant d’Advantex à titre de témoin, si nécessaire;
+f) que l’intimée pourra avoir le droit de recouvrer auprès des appelants les dépens de l’interrogatoire préalable, à la discrétion du juge du procès;
+g) que les appelants puissent être représentés par un avocat à l’interrogatoire préalable du représentant d’Advantex et qu’ils aient la possibilité de s’opposer à toute question posée au représentant;
+h) que les appelants soient tenus de payer des dépens seulement dans la mesure où c’est leur avocat qui interroge le représentant d’Advantex;
+i) que l’intimée et Advantex fournissent aux appelants des copies de documents décrits dans les listes de documents produites et signifiées conformément aux articles 81 ou 82 des Règles au moins 30 jours avant l’interrogatoire préalable du représentant d’Advantex;
+j) qu’il soit fourni aux appelants, à leurs frais, une copie de la transcription de l’interrogatoire préalable si cet interrogatoire prend la forme d’un interrogatoire verbal et une copie des questions et des réponses si l’interrogatoire se fait par écrit.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2014.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 3e jour de juin 2014.
+François Brunet, réviseur
+RÉFÉRENCE : 2014 CCI 21
+NOS DES DOSSIERS DE LA COUR : 2010-921(IT)G, 2010‑922(IT)G et
+2010-923(IT)G
+INTITULÉS : Roy Mould c. Sa Majesté la Reine
+Gerald Osborne c. Sa Majesté la Reine
+Barry Pickford c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 25 septembre 2013
+MOTIFS DE L’ORDONNANCE : L’honorable Gerald J. Rip, juge en chef
+DATE DE L’ORDONNANCE : Le 16 janvier 2014
+COMPARUTIONS :
+Avocat de l’appelant :
+Me David R. Davies
+Avocat de l’intimée :
+Me Robert Carvalho
+Avocat d’Advantex Marketing :
+Me Dominic C. Belley
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant:
+Nom : David R. Davies
+Cabinet : Thorsteinssons LP
+Vancouver (Colombie‑Britannique)
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Voir l’article 231.

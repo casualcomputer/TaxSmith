@@ -1,0 +1,306 @@
+---
+title: "Ehresman v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521450/index.do"
+last_modified: "2025-05-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 78"
+citation2: ""
+neutral_citation: "2025 TCC 78"
+decision_date: "2025-05-27"
+language: "en"
+item_id: "521450"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5422
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:05:36.219000+00:00"
+cases_cited_count: 7
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "568386bb42c2ea10366c12379e91623110469a5aef307e1309c0072f5e7d80c6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ehresman v. The King
+
+- Citation: 2025 TCC 78
+- Decision date: 2025-05-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5422, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ehresman v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-05-27
+Neutral citation
+2025 TCC 78
+File numbers
+2019-2794(IT)G, 2019-2795(IT)G
+Judges and Taxing Officers
+Michael U. Ezri
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-2794(IT)G
+BETWEEN:
+KEN EHRESMAN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard May 5, 6, and 7, 2025, on common evidence with the appeal in 2019-2795(IT)G at Saskatoon, Saskatchewan
+Before: The Honourable Justice Michael U. Ezri
+Appearances:
+Counsel for the Appellant:
+Stuart A. Busse
+Counsel for the Respondent:
+John Krowina
+Steven Tymiak
+JUDGMENT
+The appeal is dismissed and the respondent is entitled to one set of costs to cover this appeal and the appeal in 2019-2795(IT)G in accordance with the attached Reasons.
+Signed at Toronto, Ontario, this 27th day of May 2025.
+“Michael Ezri”
+Ezri J.
+Docket: 2019-2795(IT)G
+AND BETWEEN:
+MARIANNE EHRESMAN,
+Appellant,
+And
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard May 5, 6, and 7, 2025, on common evidence with the appeal in 2019-2794(IT)G at Saskatoon, Saskatchewan
+Before: The Honourable Justice Michael U. Ezri
+Appearances:
+Counsel for the Appellant:
+Stuart A. Busse
+Counsel for the Respondent:
+John Krowina
+Steven Tymiak
+JUDGMENT
+The appeal is dismissed and the respondent is entitled to one set of costs to cover this appeal and the appeal in 2019-2794(IT)G in accordance with the attached Reasons.
+Signed at Toronto, Ontario, this 27th day of May 2025.
+“Michael Ezri”
+Ezri J.
+Citation: 2025 TCC 78
+Date: 20250604
+Docket: 2019-2794(IT)G
+2019-2795(IT)G
+BETWEEN:
+KEN EHRESMAN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+AND BETWEEN:
+MARIANNE EHRESMAN
+Appellant,
+and
+HIS MAJESTY THE KING
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Ezri J.
+Overview [1] Canadian small business corporations engaging in an active business enjoy special tax treatment as a means to incentivize entrepreneurship. A key benefit is that when the shareholder sells the shares of the business, the first million dollars or so of the gain may be excluded in computing the capital gain and the capital gains tax.
+[2] When Mr. and Mrs. Ehresman sold their small business corporation shares in April 2014, they fully expected to benefit from that capital gains exemption. The CRA thought otherwise. It assessed to disallow the exemption because it believed that more than 50% of the corporate assets held prior to the sale, consisted of investments and not assets used in an active business.
+[3] The Ehresmans argued vigorously that large reserves of cash and investments were integral to their oil and gas business. They emphasized that the funds would be needed to cover the cost of decommissioning oil wells at the end of the wells’ economic life. However, the evidence failed to show the kind of rational connection required by the case law between the risks of the business and the size of the reserves to justify treating the reserves of cash and investments as an integral asset of an active business. Only if a remote set of circumstances came to pass would the investments have to be fully drawn and that is not what is permitted by the decided case law. The appeals from the reassessment of their 2014 and 2015 taxation years must therefore be dismissed.
+[4] The only issue to be decided in this case is whether the cash and investments held by the Ehresmans’ corporation was connected to the operation of the corporate business by virtue of the need to address future decommissioning costs of the oil wells used in that business.
+I. Factual Background [5] Ken and Marianne Ehresman appealed to the Tax Court in respect of their 2014 and 2015 tax years. 2014 year is the year in which they reported a gain on the disposition of the shares of their company, C.C.M. Resources Ltd. (CCM). They claimed a lifetime capital gains exemption in respect of the gain on the disposition of the shares. The claim was denied by the CRA. As a consequence, a minimum tax payable in 2014 was reversed which meant that it could not be applied to the 2015 tax year of the appellants and so their 2015 federal income tax increased by approximately $6000 each. The appeals of each appellant’s 2014 and 2015 reassessments were heard on common evidence by this Court.
+[6] The parties provided me with a partial agreed statement of facts. Mr. Ehresman was the only witness for the two appellants. He is very knowledgeable in the areas of accounting, finance and investing and in the area of oil and gas development. Mr. Ehresman, now retired, was at all material times an accountant with a CA designation. He also held a Chartered Financial Analyst designation as well as mutual fund and insurance licenses.
+[7] Mr. Ehresman is from Kindersley, Saskatchewan, but he began his professional life at a Calgary accounting firm where many firm clients worked in the oil and gas industry. After some years, a client approached him about joining a pre-IPO oil and gas company in Kindersley and he accepted. He stayed on as the CFO of that company until that company was put up for sale. Thereafter he worked as an oil and gas consultant where among other things, he learned about the impact of abandonment and remediation costs on the economic value of oil and gas wells. At a certain point he incorporated CCM which he and Marianne owned equally.
+[8] In 1996, CCM purchased four oil wells in Kindersley (the Original Wells) and sought to be licensed to operate the same. As part of the government licensing approval process for that transaction, CCM had to post a letter from Mr. Ehresman’s bank stating that Mr. Ehresman and CCM were honourable and carried sufficient deposit balances to abandon and restore the well sites once they were no longer productive. Although abandonment and restoration or remediation are separate processes, I will often refer to them together simply as decommissioning and to the cost as decommissioning costs.
+[9] The Original Wells were connected by pipeline to a single oil storage tank, owned by CCM called a battery. Periodically, the collected oil would be pumped out of the battery and taken away for sale.
+[10] CCM later invested in a project called Meridien to purchase and operate 100 oil wells in Kindersley. As a point of detail, the Meridien wells and CCM’s Original Wells extracted oil from the “Viking” formation. Mr. Ehresman testified that the oil from this formation was a high-quality light oil located about 800 to 1000 metres below the surface of the ground. Apparently that is not considered particularly deep or hard to access. Meridien sold the wells in 2008 in part because their production was declining, and the spectre of decommissioning costs was looming large. As it turned out, the buyer willingly “overpaid” because they wanted to deploy horizontal drilling technology to extend the life of the wells, which apparently worked out very well for them indeed.
+[11] CCM also invested in an oil company called Blackspur and through that association was introduced to Petro Uno Resources. Petro Uno and CCM entered into a “Farm-in agreement” under which Petro Uno would drill additional wells on the sites leased by CCM for the Original Wells. Petro Uno would get a 100% working interest in the lands but would have to pay an overriding royalty of 17.5% of the gross monthly production. Petro Uno would be named the operator of the wells and would pay all the drilling costs, operating costs and decommissioning costs. Petro Uno did in fact drill four producing wells (the Royalty Wells) between 2010 and 2014.
+[12] The Original Wells declined in productivity. By 2006,[1] they lacked sufficient pressure to be actively pumped, and they became “swab wells”. The appellants engaged a swabbing company to periodically collect and sell the oil that would seep into each well over time.
+[13] The Original Wells were decommissioned in the years following the sale of CCM at a cost of approximately $230,000 with the decommissioning process only ending in late 2024.
+[14] In addition to the oil and gas business, in 2001, CCM got into the financial services business via a contract with Manulife Financial. CCM was involved in mutual fund and life insurance sales as well as in providing financial and estate planning.
+[15] In cross-examination, Mr. Ehresman confirmed that the revenues derived from one line of business were not required to support the other line of business or to look after the requirement of the other line of business. Funds were never taken from one line of business to meet the needs of the other line. So essentially there was one company, CCM, carrying on two very different businesses.
+[16] The financial performance of CCM in the years leading up to 2014 was strong with financial services revenues contributing more to overall revenue than the oil business. In 2012, oil production comprised $331,000 out of $854,000 in revenue. In 2013, oil production accounted for $248,000 out of $750,000 in revenue and in 2014, oil production accounted for $280,000 out of almost $900,000 in revenue.
+[17] The success of the two business lines resulted in substantial earnings being retained in CCM in the form of almost $1.5 million in cash and marketable securities. The cash and securities generated their own income every year. CCM had an additional $420,000 that it loaned to a related company Kanmar Resources Ltd. as at the end of 2013. In 2014, more cash was transferred to Kanmar by increasing the Kanmar loan to $1.5 million.
+[18] In the end, the success of the financial business was so compelling that it was purchased by Wieger’s Financial. To make the sale, CCM was reorganized stripping out all of the oil and financial assets and leaving essentially only the goodwill associated with the financial services business. The oil business continued to be operated by Kanmar.
+[19] Against this backdrop it becomes easy to see the tax problem that developed when CCM’s shares were sold. At least 50% of CCM’s assets must be used in an active business to get the capital gains exemption. To get there, CCM’s magic number is $710,000. They have to convince this Court that an additional $710,000 in assets are being used in their active business and not simply being held for investment. The arithmetic is extremely straight-forward and I summarize it below:
+$4.1 million:that is the value of the assets in CCM in the lead up to the sale of the shares to Wiegers.This includes the aforementioned cash, investments and loans to Kanmar;
+$2.05 million i.e. half of the $4.1 million: that is the value of assets held by CCM that must be used in an active business.
+$1.37 million: that is what CRA agrees is the value of active assets in the business.It consists almost wholly ($1.32 million) of the of goodwill of CCM and the value of the Royalty Wells.The operating bank account, the accounts receivable, and some miscellaneous assets comprise the rest of the $1.37 million.
+$710,000.That is the magic number.It is the value of additional assets needed to get from $1.37 million to the $2.05 million or 50% active assets mark.
+[20] The appellants say that such a connection did exist. They argue that at least $750,000 of the cash and investments (the Financial Assets) in CCM were required to meet the cost of decommissioning the Original Wells and maybe even to meet the cost of decommissioning the Royalty Wells. Mr. Ehresman also mentioned the possibility of using the money for new investments.
+[21] Before taking up the appellant’s decommissioning argument it is useful to provide the legal framework against which that argument must be weighed.
+II. Analysis A. Legal Framework (1) The ITA [22] The Income Tax Act, (the ITA) includes as a capital gain, the difference between what a taxpayer paid for shares of a business and what they get when they sell the shares. For a small business that operates over years or decades, the original capital contributed may end up being dwarfed by the proceeds of a sale. That is a good thing, but it can expose the shareholder to a substantial capital gain when the shares are sold.
+[23] Where the company being sold carries on an active business, an exemption on that capital gain may be available. In 2014 up to $800,000[2] could be shielded from inclusion in computing a capital gain under that exemption. The wrinkle however is that the ITA imposes a requirement that in the two years leading up to the sale of the business, more than 50% of the fair market value of the assets must be used in an active business. For the technically minded reader, the requirement is contained in a definition of “qualified small business corporation share” which in 2014 provided that:
+110.6 (1) For the purposes of this section
+qualified small business corporation share of an individual (other than a trust that is not a personal trust) at any time (in this definition referred to as the “determination time”) means a share of the capital stock of a corporation that,
+at the determination time, is a share of the capital stock of a small business corporation owned by the individual, the individual’s spouse,…
+…
+throughout that part of the 24 months immediately preceding the determination time while it was owned by the individual or a person or partnership related to the individual, was a share of the capital stock of a Canadian-controlled private corporation more than 50% of the fair market value of the assets of which was attributable to
+(i) assets used principally in an active business carried on primarily in Canada by the corporation or by a corporation related to it,
+[24] A small business corporation at any particular time is a Canadian Controlled Private Corporation that used all or substantially all of its assets in an active business. That requirement is not in dispute since at the moment of sale the only remaining asset in CCM was the goodwill from the financial services business. By the way, both the oil business and the financial services business are “active businesses”. That is because the definition of an active business in s. 248 of the ITA says so:
+248(1) In this Act,
+active business, in relation to any business carried on by a taxpayer resident in Canada, means any business carried on by the taxpayer other than a specified investment business or a personal services business;
+[25] A specified investment business is defined in s. 248 as
+specified investment business, carried on by a corporation in a taxation year, means a business…the principal purpose of which is to derive income (including interest, dividends, rents and royalties) from property
+[26] That definition of specified investment business does not include the financial services business or the oil and gas business but is broad enough to cover the Financial Assets that generated income for CCM. The appellants must convince the court that at least $710,000 of the Financial Assets are not held to derive income, but simply to support the future decommissioning expenses.
+(2) The Case Law [27] There have been a number of cases that have opined on the issue of whether financial type assets were being used in an active business or not. The cases focus on whether, as a factual matter,[3] the financial assets are so integral to the active business to which they purportedly relate that they are at risk in that business and can not be removed from the business without destabilizing the business. Where the assets are asserted to be needed as a kind of insurance to meet future risks or expenses, the courts look at how real the risk is and how reasonable the amounts of the financial assets are having regard to what resources are actually required to deal with the risk in issue.
+[28] The leading case on classifying assets for use in an active business is the Supreme Court’s 1986 decision in Ensite Ltd.[4] In that case, the appellant wanted to characterize the interest received on certain US dollar deposits held in Philippine banks as being passive foreign investment income to increase its dividend refund and not part of an active business. The Supreme Court disagreed. The money had only been invested in the banks as part of an arrangement to borrow money to build a metal stamping plant in that country. The Supreme Court endorsed a test that asked whether the investment was, “employed and risked in the business”.[5] The holding and using of the property, “must be linked to some definite obligation or liability of the business”.[6] The Court also recognized that in a sense all corporate property is at risk even if not directly used in a particular line of business so the Court circumscribed the nature of the risk to be considered. It explained that:
+But "risked" means more than a remote risk. A business purpose for the use of the property is not enough. The threshold of the test is met when the withdrawal of the property would ‘have a decidedly destabilizing effect on the corporate operations themselves’… This would distinguish the investment of profits from trade in order to achieve some collateral purpose such as the replacement of a capital asset in the long term ... from an investment made in order to fulfil a mandatory condition precedent to trade …Only in the latter case would the withdrawal of the property from that use significantly affect the operation of the business. The same can be said for a condition that is not mandatory but is nevertheless vitally associated with that trade such as the need to meet certain recurring claims from that trade…[7]
+[29] In Ensite, the deposit of US dollars was a condition precedent to operating the business and not collateral in nature, so the Philippine bank deposits were used in the business of Ensite.[8]
+[30] In some cases, taxpayers assert that substantial cash reserves are required to deal with possible future contingencies. In Atlas Industries[9] this Court held that cash and term deposits were not used in the business. It held that the business has to have, “some reliance” on the property, using it from time to time, or that it exists as a back-up asset.[10] The term deposits in Atlas Industries were not so used.
+[31] In McCutcheon Farms,[11] the Federal Court Trial Division affirmed that the taxpayer’s interest income was not from an active business because the invested funds were not part of that business. The appellant’s owner testified that he felt that two year’s worth of expenses should be set aside to deal with risks such as crop failures or property damage, to replace equipment, or to purchase additional farmland. However, the Court found that the plaintiff had not established what would constitute a reasonable reserve, nor did the evidence establish, “any rational relationship between the principle sums accumulated and the reserves required”. The Court noted that the resultant interest income had simply been reinvested, “without any indication of a rational plan or any evidence that such a plan was being followed”.[12] The withdrawal of the funds would not have a destabilizing effect on the business in the way contemplated by Ensite.[13]
+[32] The same kind of argument was made in the Skidmore tree farm case. There, the appellants sold the business corporation to their children but left in the business certain term deposits which put them offside the rule that, on the day of sale all or substantially all of the assets be used in the active business. The appellants argued that failure of their tree crops could precipitate a requirement to repay certain grants received and/or a requirement to repay advances made by a client. This Court disagreed. It noted for example, that the amounts on deposit did not decline year over year even though the grant repayment amount at risk declined 20% a year until it disappeared. This Court heard expert evidence on the type of risks associated with the business but heard no evidence on what the costs of dealing with a crop failure would be. The risk was too remote, and the reserves were not sufficiently tied to any particular amount that might be needed to meet the risk, to satisfy the requirements in Ensite.[14]
+[33] And finally, Farhills was to the same effect. The taxpayer, a farmer, testified that he needed enough financial assets to cover one year of farming expenses. He also wanted liquidity to take advantage of opportunities to lease farmland as they came along. Again, this Court found the risks to be remote and found no rational relationship between the financial assets and the required reserves.[15]
+III. The Nature of the Risk in this Case [34] The appellants’ arguments here are substantially the same as those presented in the above cases. Sooner or later, CCM would have had to decommission its wells and incur the related costs, but the evidence falls well short of showing that any amount was required in the two years leading up to 2014, still less does it support setting aside the $710,000 needed to cross the 50% threshold in issue. Worse still, there is little evidence that the appellants turned their minds to setting aside reserves or that they thought about what a reasonable reserve would be. I find that the appellants did what the taxpayers in the other decided cases did. Mr. and Mrs. Ehresman’s company earned money and kept the retained earnings in the business, reinvesting the income from the retained earnings for no particular reason and certainly not to meet a future risk of a likely modest magnitude.
+A. The Risk Evidence [35] In Saskatchewan, all persons licensed to operate an oil and gas business must decommission the wells at the end of their economic life. The decommissioning consists of two steps: abandonment of the well which entails removing the equipment and piping and filling the hole with concrete, and remediation/reclamation of the site itself which involves returning the site to its pre-drilling condition. I heard evidence from the appellant and from Brad Wagner an official at the Saskatchewan Ministry of Energy on these matters. Before dealing with that evidence, I want to touch on the opinion/expert evidence nature of the testimony that I did and did not hear.
+(1) Expert Evidence in this case [36] At a pre-trial conference held a month before trial, I expressed concern, particularly to appellant’s counsel that they were planning to talk about the estimated cost of decommissioning the Original Wells, without filing an expert report on the subject. No report was filed, and that absence created problems as both parties tried to stickhandle around the fact that they wanted to offer expert opinion evidence on those costs but without a report.
+[37] Trials are about facts. It is a well-established rule that witnesses can’t offer opinions unless they are experts.[16]
+[38] Court experts are the genuine article. They are hired by a party, but they work for the benefit of the Court. They are required to be impartial, to file reports well in advance of trial and to abide by a code of conduct that expressly stipulates that they, “…must be independent and objective and must not be an advocate for a party”.[17] If they don’t abide by the Rules or have relevant evidence to give, then the judge discharging his or her gate-keeping function under White-Burgess[18] shows them the door. A good expert who plays by the rules is the gold standard for admissible and reliable opinion evidence.
+[39] That said, this Court has been at the forefront in categorizing other types of expert opinion that can be brought before a court. In Kaul, Chief Justice Rossiter (as he then was), explained that there are more or less four types of expert witness:
+The independent expert or court expert to whom I have just alluded:They are hired by a party specifically for the case and must comply with the rules for experts;
+Participant experts:They are witnesses who have expertise in particular areas of activity and they have some connection to the facts underlying the litigation.The quintessential example of that is a physician who testifies as a fact about what she saw at a point in time and in doing so also describes the opinions that she formed based upon those observations.It seems that the opinions of such witnesses are admissible not only to show that the opinion existed at a point in time but also to establish that the opinion was reliable.Presumably, that is why the opinion may be subject to exclusion if it does not meet the White-Burgess criteria;[19]
+Non-party experts: these are individuals with specialized knowledge and skill who did not observe or engage with the underlying facts of the case but who are typically retained by a non-party to the litigation and who form opinions based on observations of the subject matter of the litigation.In Westerhoff, statutory accident benefits assessors who assess the health of car accident victims for statutory accident benefits purposes, are given as examples of this type of expert.They too are subject to gatekeeping under White-Burgess;[20] and
+Litigant experts.These are the actual parties to the litigation including their employees or contractors.They have specialized skill and experience in various fields or endeavours.They were involved in the events giving rise to the litigation and they formed opinions that may be relevant to matters in issue in the litigation.In Kon Construction, an employee of one of the parties, an engineering firm, prepared compilations of data on earth fill that was added to or removed from a construction site where the engineering firm had provided site supervision services.The Alberta Court of Appeal relying on this Court’s decision in Diotte v Canada held that since the employee was doing the work because of his expertise, he could testify about the results of his compilations.[21]
+[40] In Kon, there is a suggestion that the gatekeeping function in White Burgess is relaxed because the litigant experts are entitled to testify and to explain what they did and why.[22] I agree with that, but only insofar as the evidence is used to establish the state of mind of a litigant expert. Where the truth of the contents of an expert opinion is engaged, the concerns that animate White-Burgess should remain in play. Litigant witnesses are subject to the limitations in White-Burgess in the same way as they are subject to general rules of evidence such as hearsay that may limit the admissibility of their evidence or the use that may be made of it. It is not obvious why that principle should not also apply to the opinion evidence of a litigant expert.
+(2) Application of the Expert Evidence Rules to this case [41] There is no question that Mr. Ehresman is a litigant expert. He has significant experience and expertise in the oil and gas business. He is also a party to the proceedings whose involvement in the facts of the case may, or may not, have caused him to form opinions at the times in issue. I must at least consider his evidence on those matters. However, his evidence is confined to the views that he held at the time of the matters in issue. He cannot freely opine on the cost of decommissioning wells in the same way that an independent expert could so opine.
+[42] The evidence of Bradley Wagner is a bit tricky. He works for the Saskatchewan Ministry of Energy where for the last 25 years he has been involved the area of liability management. He is currently the Director of Liability Management. He is an engineer by profession. In the course of his work, he has become familiar with how Saskatchewan manages the problem of ensuring that companies discharge their decommissioning obligations. In particular, he explained how certain liability assessment notices that were sent to CCM and to Kanmar in respect of those obligations, were computed by reference to an underlying published guideline. On balance, I find that Mr. Wagner is a non-party litigant whose testimony was mostly factual though with some opinion evidence to which I will refer shortly.
+B. Mr. Ehresman’s Risk Evidence [43] Mr. Ehresman, based on his prior experience, was aware that depleted wells needed to be abandoned and then remediated. By 2008, he also knew that there was a growing awareness in the oil and gas industry of the liability issues around abandonment and remediation. He described the need to have a plan, send in schematics of the well hole to the government, and then, after the hole was plugged, to test the surrounding soil and remove and replace contaminated soil as needed.
+[44] Mr. Ehresman testified that CCM and later Kanmar, were assessed three times (“Decommissioning Assessments”) by the Saskatchewan Ministry of Economy (later renamed to Energy) in respect of future liabilities for abandonment and remediation. The total Decommissioning Assessments were for $42,000 and $12,000 was assessed and paid about a month before the April 2014 sale of CCM. The other two assessments were received and paid by Kanmar subsequent to the sale of CCM.
+[45] Mr. Ehresman knew that decommissioning costs could be highly variable. He had heard “horror stories” of decommissioning projects that had gone badly wrong. He had some idea as to what a cement crew might charge for cementing a well, but he was less sure about remediation costs. He testified that he had not drilled the Original Wells and that back when they were drilled, the industry had been more lax about disposing of contaminants created by the drilling process, sometimes simply burying the contaminants on site. Such problems could be ‘unearthed’ during remediation testing and could create significant cost overruns.
+[46] Mr. Ehresman was asked if he had turned his mind to abandonment costs and he said that he did turn his mind to those costs at the time of the sale. He thought that the minimum amount would be $50,000 but that it could go higher fast, running to maybe $750,000 or $1 million if there was a disaster.
+[47] He testified that when he got the first assessment for $12,000, he was busy trying to sell CCM and he found the assessment confusing. The Decommissioning Assessments seemed to say that CCM’s liability was approximately $50,000 and that CCM had offsetting assets of almost $38,000 leaving an unfunded amount of $12,000. In his view he would have been lucky to abandon and remediate one well for $50,000 let alone four of them.
+C. Assessment of Ehresman’s risk evidence [48] In closing argument, counsel for the appellant argued (as I understood it) that Mr. Ehresman’s subjective views are not particularly relevant as to what a reasonable amount of reserves should be. At the end of the day, the amount is to be objectively determined.
+[49] Unfortunately, no one provided this Court with an objective determination of the decommissioning costs, so if Mr. Ehresman held no views, then then there would be little if any admissible evidence on the quantification of those decommissioning costs. So, I must decide what views Mr. Ehresman held in 2014, as a necessary step to determine what a reasonable amount would have been for the abandonment and remediation of the Original Wells.
+(1) What Views did Mr. Ehresman actually Hold [50] With great respect, I am not convinced by Mr. Ehresman’s testimony that he actually held a particular view as to how much it would cost to decommission the Original Wells or that he held the view that the cost be as high as $750,000 or even $1 million. I say that for a number of reasons:
+CCM booked no liability for the decommissioning costs at any time in the years leading up the sale of the business.Mr. Ehresman explained that while large companies would have to estimate their decommissioning liabilities and report them in their financial statements, CCM was small and privately held.No one, other than the CRA ever saw their financial statements.That may be so, but I think that this is also some evidence that CCM did not have a clear idea of cost or think that the issue was pressing enough to include a decommissioning provision.I just can’t accept that an accountant who actually held the view that his company had a $1 million liability would not recognize a liability in the statements or at least in a note thereto.I would go so far as to say the failure to do so undermines the appellant’s credibility.Preparing uninformative financial statements on the basis that only the CRA will see them is not a great look in the Tax Court;
+The appellant’s representative did provide to the CRA a list of liabilities that the appellant created as part of the restructuring of the business.That list included a $100,000 provision for decommissioning the Original Wells.The appellants strenuously objected to the admissibility of the document on the basis that CCM’s accountant, Rod Perkins created it.Mr. Ehresman testified that he had not seen it before.I admitted the document into evidence as a party admission.Party admissions include admissions of agents.Mr. Perkins was both CCM’s accountant and the agent of the appellants in their dealings with the CRA.Perkin’s admissions are the appellant’s admissions.[23]I might also add that the parties’ agreed statement of facts also referred to the Perkins estimate.[24]If the appellants wanted to object to the estimate, they should not have included it in the agreed facts.Admissibility however is not the same as weight.I don’t give much weight to $100,000 as representing an estimate of the actual cost of decommissioning the Original Wells.However, I do give the document weight in demonstrating that Mr. Ehresman did not, in 2014, believe that the decommissioning costs would be extraordinarily high;
+There was no allocation of any of the retained earnings to the oil and gas business.This is important because the evidence presented was to the effect that each line of business operated independently without recourse to the assets or earnings of the other business.I can’t even tell from the evidence, if the oil and gas retained earnings comprised a substantial portion of the Financial Assets of CCM;
+CCM had no written plan to deal with the potential cost of decommissioning the wells[25] and it did not operate or organize its financials on the basis of any particular estimated amount in respect of the cost of abandoning and remediating the Original Wells;
+Mr. Ehresman never told the CRA that CCM’s large cash reserves were needed to deal with a potential future liability.The appellant notes that the CRA never asked.That may be so, but I can’t escape the conclusion that the appellants’ position, that CCM had a large liability, crystallized only after the appellants realized that they would not be entitled to a capital gains exemption.If they had thought about it sooner, they would have said something.
+To summarize my conclusion: I found Mr. Ehresman’s evidence too generic to believe that his views in 2014 were a carefully thought-out opinion about his wells, as opposed to simply some generalized knowledge of what can happen when decommissioning oil and gas wells.That is particularly so given that his wells were not particularly deep and that they were swab wells. Mr. Ehresman did not in 2014 or prior, hold the view that the cost of abandoning and remediating CCM’s Original Wells would be a specific amount or that it would or could be in the range of $750,000 to $1 million.There is therefore no admissible opinion evidence on the decommissioning costs from Mr. Ehresman.
+[51] In the event that I am wrong, and Mr. Ehresman did view the decommissioning costs of his wells as potentially exceeding $750,000, I next need to consider how reasonable that view was having regard to the test in Ensite, and the other jurisprudence. However, to do that it is useful to also consider Mr. Wagner’s evidence.
+D. Bradley Wagner (1) The Decommissioning Assessment Payments [52] Oil and gas well licensees have to pay two types of cost to the Saskatchewan government. The first is an annual orphan well levy. This goes into a fund that covers the cost of decommissioning wells should a licensee go bankrupt. The second is the Decommissioning Assessment.
+[53] Mr. Wagner explained that the Decommissioning Assessments described earlier were computed using a formula in which decommissioning liabilities were the denominator, in this case, about, $52,000, and assets, (really production), was the numerator. If the total production numerator was less than the liability denominator then the oil and gas licensee had to pay the difference. The computation is done on a monthly basis.
+[54] The numerator in the formula is sometime called a “netback”. It is an industry average of the net amount of money that a producer might expect to receive from a barrel of oil after paying standardized fixed and variable operating costs, royalties and transport costs. It was based on total oil and gas sales in Saskatchewan.
+[55] Liabilities in the denominator were based on installed equipment with each type of equipment having a particular liability value based on the nature of the equipment and on the zone in which it was situated. Saskatchewan is divided into four zones for that purpose and the Original Wells were in zone 2.
+[56] All assessed amounts could be refunded either when production increased for six months such that the netback was equal to or greater than the denominator, or when the licensee completed the decommissioning process and received an appropriate certification from the Ministry of Energy that the process complied with the regulatory guidelines.
+[57] The computation of the liability denominator was contentious in this case. The appellant objected to its use because he had concerns that it amounted to an opinion as to the likely cost of decommissioning the Original Wells.
+(2) The Contentious bits of Mr. Wagner’s Evidence [58] Mr. Wagner, in his evidence explained that the liability denominator in the Decommissioning Assessments were computed using a program guideline (the Guideline) published by the Ministry of Economy (later Energy).[26] The appendices to that Guideline are tables. The abandonment cost table shows the abandonment liability associated with particular types of equipment. The lowest cost for abandonment of any equipment is for swab wells which come in at $5100 per well regardless of zone location. The lowest reclamation cost for a swab well is $5,100 per well regardless of zone location. A Multi Well swabbing oil battery abandonment cost is counted as one unit and each unit is $10,000. My math tells me that the total liability for the Original Wells and Battery is about $52,000.[27] This is approximately the same as the denominator in the Decommissioning Assessments.
+[59] Mr. Wagner explained that the reasons why swab wells carry the lowest decommissioning costs are these:
+They are not pressurized so there is less risk of leakage or discharge from such a well;
+The well head along with all rods and tubing are already removed from swab wells; and
+Reclamation costs are generally lower because only the land right under and around the well is cleared and used for the oil well.No earth is removed from it and a farmer leasing surface rights can typically farm right up to the swab well itself.
+[60] Just by way of comparison, a single deep well with tubing and rods in zone 2 has an abandonment cost in the Guide of between $20,100 and $40,700 and a reclamation cost of $22,200.
+[61] Mr. Wagner explained that the table amounts in the Guide were developed in consultation with Saskatchewan’s oil and gas industry. Unfortunately, he also testified that the amounts in the tables were based on 2009 data and so the data was five years out of date when it was used to compute the Decommissioning Assessments issued to CCM.
+[62] In cross-examination, Mr. Wagner was asked whether in 2014 he had a view as to the cost range to abandon and remediate an oil well. He said that it was highly variable. The guideline tables assumed no surprises. If there were surprises such as things stuck in the well hole or unexpected reclamation costs that could push the cost into the millions. It is possible, though less likely for even swab wells to have hidden reclamation costs. Mr. Wagner did however add that there are often warning signs of potential problems with reclamation such as gas migration. I heard no evidence of such warning signs in this case.
+(3) My Use of Wagner’s Evidence [63] As indicated earlier, I view Mr. Wagner as a non-party expert. He is not a participant expert who formed a view in the course of the events giving rise to the case, but the events that underpin the case did implicate his department and by extension him because they led to the issuance of the Decommissioning Assessments. This is not unlike a statutory accident benefits assessor who forms a view of the facts in order to administer a separate program. Mr. Wagner was entitled to give evidence to explain the circumstances under which those assessments were issued.
+[64] I accept and rely on Mr. Wagner’s description of how a swab well works and why it can be cheaper to decommission than a pumping well. I do so because in my view that evidence is more factual than opinion in nature and it is based on the knowledge that he gained in the industry. In my view, his explanations are part and parcel of understanding the Decommissioning Assessments themselves.
+[65] I also accept Mr. Wagner’s evidence that, in general, swab wells are cheaper to decommission than other types of wells, because, while closer to opinion evidence, it is rooted in his experience and understanding of how oil and gas wells work.
+[66] I give no weight to the particular abandonment or reclamation costs in the Guideline as fairly representing the decommissioning costs because:
+They are out of date;
+They are not specific to the Original Wells though they do account for the type of well and well location; and
+They don’t necessarily aim at accurately measuring decommissioning costs.The Supreme Court of Canada in Dow Chemical recently reminded us, albeit in the tax context, that policy decisions of a government can reflect a number of different priorities and concerns beyond those that might be found in a strict legislative scheme.[28]I worry for example, that a government administering a decommissioning program may not fully reflect true decommissioning costs.This can happen because the data gets dated as seems to have happened here after 2009, or because implementing a full cost recovery might discourage oil exploration and production activities or for any number of other reasons.A government could also overstate those costs in order to generate additional revenues, though that does not seem to have happened here; and
+The jurisprudence takes a cautious approach in adopting evidence contained in report type documents.In Ladco, several litigant experts[29] attached development charge studies, data collected from other municipalities, and cost/benefit reports on issues relating to the computation of development charges.[30]The court strictly limited the use that could be made of the reports.For example, certain cost benefit reports could be used to better understand how the reports were used in the development approval process,[31] but the mathematical calculations in the reports were not admissible for the truth of their contents.[32]
+[67] That does not mean that the Guideline amounts have no relevance at all in determining what constitutes a reasonable amount of assets to be retained for decommissioning costs. CCM had to have a minimum decommissioning expense reserve in order to comply with the guideline. That minimum reserve amount of $52,000 met the Ensite test of being capital, the removal of which would destabilize the business.
+IV. Conclusions on Reasonable Range of Costs [68] There is therefore no admissible evidence from anyone as to the actual cost of decommissioning the Original Wells. The only opinion evidence that existed in 2014 is that there is a range of cost for decommissioning wells in general. Both Messrs. Ehresman and Wagner essentially held an opinion about a liability range that ran from low to infinity with lower being more probable and very high being less likely.
+[69] To allow the theoretical possibility of huge decommissioning cost overruns to determine this appeal goes completely against the developed case law. Not every possible risk can ground adding investment assets to an active business, lest the net be cast so wide that it gathers in all before it. As Ensite states, “‘risked’ means more than a remote risk”.[33] Only investments that are pre-conditions to carrying on business or amounts, the withdrawal of which would destabilize the business, meet the test in the case law.
+[70] In this case, only the $52,000 comprising the Decommissioning Assessments meet the Ensite test. Removing that capital would prevent CCM from continuing its oil and gas business. That said, some amount in addition to the Decommissioning Assessments would likely have been acceptable as forming part of the active assets of the business if the following conditions had been met:
+if the appellant had turned his mind to the issue and set aside some additional reserve amounts;
+if those reserve amounts had taken into account the actual nature of the Original Wells and the most likely, rather than least likely, decommissioning costs, and
+if the reserve amounts considered the time in the future when the funds would be needed.
+No such evidence was adduced.
+[71] In many ways this case is like Farhill and McCutcheon. It is a foregone conclusion that sooner or later farmers, such as those in the aforementioned cases would have encountered reverses in the farming business. Likewise, it is a foregone conclusion that sooner or later decommissioning costs will become due, but that is not enough. The case law requires a rational connection between the reasonably determined risk and the amount of the reserves. It does not permit an appellant to set aside virtually unlimited amounts of property on the theory that there is a small and remote risk of an unlimited liability at an unspecified future date.
+[72] The idea that the swab wells presented a risk of millions of dollars in decommissioning costs was exactly that, a remote risk that does not justify the setting aside of $710,000 in cash, much less the $1.2 million in cash that CCM actually had or the $2.8 million if one includes the cash that flowed out of CCM, mostly in 2014, as a loan to Kanmar.
+[73] For much the same reason, no weight is given to the occasional suggestions during the trial that somehow CCM or Kanmar could end up being liable if Petro Uno failed to pay the decommissioning costs on the Royalty Wells. That scenario is too remote to merit consideration because:
+No argument was presented as to how, as a matter of law, such a scenario could arise in this case; and
+There was no evidence that Petro Uno was in financial difficulty.
+[74] In his evidence, Mr. Ehresman referred to the utility of having cash on hand for new investments. That type of objective was considered and rejected as not relevant in determining what constitutes a reasonable reserve, in the jurisprudence.[34]
+[75] I give little weight to the only two other data points that were introduced into evidence. The actual decommissioning costs are hindsight evidence, though of course they would not have helped the appellant since they came in at under $250,000. I have already explained that the $100,000 estimate prepared by the appellant’s accountant was not explained or supported enough to serve any purpose other than to undermine the appellants’ claim that they had a much higher liability number in mind in 2014.
+[76] In argument, the appellant pointed out that the respondent also failed to tender an estimate as to the actual decommissioning costs. That is a fair point. It is also the case that the Minister made no assumption about the costs of decommissioning, but the old adage of “he who asserts must prove” applies here and since the appellant adduced no actual estimate of the cost that conforms with the Ensite requirement, they have not established even a prima facie case to support their position on appeal.
+V. Conclusion [77] The appellant needed to show that $2 million in assets were used in an active business. The CRA admitted that $1.37 million was used in an active business. That left the appellant short about $710,000. The appellant asserted that at least another $750,000 in cash and investments were maintained as active business assets in anticipation of future decommissioning costs but no actual estimate of those costs was provided so as to permit a determination of the reasonableness of the reserve amount. No more than $52,000 would have been required as reserves to maintain compliance with provincial requirements. The remaining evidence supported the appellant only if a series of remote eventualities came to pass and that kind of argument is offside the requirement in Ensite and similar cases that the risks not be remote and that reserve amount be reasonable having regard to the cost of a reasonable risk.
+[78] This appeal must therefore be dismissed on the basis that less than 50% of the assets of CCM were used in an active business.
+VI. Costs [79] The respondent is entitled to one set of costs to cover both appeals.
+These Amended Reasons for Judgment are issued in substitution of the Reasons for Judgment dated May 27, 2025 in order to correct the words underscored before paragraph 48 and in paragraph 50(c) hereof.
+Signed at Ottawa, Ontario, this 4th day of June 2025.
+“Michael Ezri”
+Ezri J.
+CITATION:
+2025 TCC 78
+COURT FILE NO.:
+2019-2794(IT)G
+2019-2795(IT)G
+STYLE OF CAUSE:
+KEN EHRESMAN AND MARIANNE EHRESMAN V. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Saskatoon, Saskatchewan
+DATE OF HEARING:
+May 5, 6, and 7, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Michael U. Ezri
+DATE OF JUDGMENT:
+May 27, 2025
+DATE OF AMENDED REASONS FOR JUDGMENT:
+June 4, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Stuart A. Busse
+Counsel for the Respondent:
+John Krowina
+Steven Tymiak
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Stuart A. Busse
+Firm:
+Busse Law Corporation
+Box 669, 302 Main Street
+Biggar, Saskatchewan
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] The partial agreed statement of facts said 2010, but in evidence this was corrected to 2006.
+[2] This is a lifetime exemption for each taxpayer. It is not available each time a business is sold.
+[3] Weaver v R 2008 FCA 238, para 19.
+[4] Ensite Ltd. v R, [1986] 2 SCR 509.
+[5] Ibid, p. 517 and 518.
+[6] Ibid.
+[7] Ibid, p. 520.
+[8] Ibid.
+[9] Atlas Industries v R, [1986] TCJ No. 915
+[10] Ibid, para 29.
+[11] McCutcheon Farms Ltd v R. [1990] FCJ No. 1109 (TD), Aff’g. [1988 CarswellNat 325 (TCC).
+[12] Ibid, para 12
+[13] Ibid, para 19.
+[14] Skidmore v R., [1997] TCJ No. 1100, paras, 15, to 20, Aff’d, [2000] FCJ 276 (CA).
+[15] Farhills Farming Ltd., [1995] CarswellNat 925 (TCC IP).
+[16] As explained by Rowe J. in his concurring opinion in R v Kruk 2024 SCC 7, para 149
+[17] Tax Court of Canada Rules (General Procedure) Sch. III added by SOR/2014-26 s. 28.
+[18] White Burgess Langille Inman v Abbott and Haliburton Co., 2015 SCC 23, 1, 16, 20, 24, 54, and esp. para 46.
+[19] Westerhof v Gee Estate, 2015 ONCA 206, para. 64.
+[20] Ibid.
+[21] Kon Construction Ltd v Terranova Developments Ltd., 2015 ABCA 249, paras 39-40
+[22] Ibid, para 40.
+[23] See, Strand Electric, [1969] CarswellOnt 291, para 4 (CA).
+[24] Partial Agreed Statement of Facts, para 35.
+[25] Partial Agreed Statement of Facts, para 48.
+[26] Ex. R-23: Ministry of the Economy, Guideline PD-G01, September 2013, Saskatchewan Licensee Liability Rating (LLR) Program Guideline.
+[27] Four wells each costing $10,200 i.e. $5100 in abandonment and $5100 in reclamation for a total of $40,800. There would also be a cost of $10,000 for the battery which brings the total to $50,800 or almost $52,000.
+[28] Dow Chemical v R. 2024 SCC 23, paras 46, 55-56
+[29] Ladco Co. v Winnipeg (City), 2020 MBQB 101, Para 92;
+[30] Ibid, Para 103(d)(ii),(iv)(xi)
+[31] Ibid, Para 103(e)
+[32] Ibid, Para 103(e) and(i).
+[33] Ensite, supra note 4, at p. 520.
+[34] Farhills, supra note 15, para 14.

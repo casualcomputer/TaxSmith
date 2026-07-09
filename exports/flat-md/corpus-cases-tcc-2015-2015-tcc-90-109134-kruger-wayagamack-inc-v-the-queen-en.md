@@ -1,0 +1,577 @@
+---
+title: "Kruger Wayagamack Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/109134/index.do"
+last_modified: "2015-04-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 90"
+citation2: ""
+neutral_citation: "2015 TCC 90"
+decision_date: "2015-04-14"
+language: "en"
+item_id: "109134"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2861
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:25:17.361000+00:00"
+cases_cited_count: 3
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0402ad8594c101834702fde386c8a0b27fdb06d49b98245749d6f504dc1526ff"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kruger Wayagamack Inc. v. The Queen
+
+- Citation: 2015 TCC 90
+- Decision date: 2015-04-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2861, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kruger Wayagamack Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-04-14
+Neutral citation
+2015 TCC 90
+File numbers
+2011-1739(IT)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-1739(IT)G
+BETWEEN:
+KRUGER WAYAGAMACK INC.,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+Appeal heard on 10, 11, 12 September 2013 and 29 October 2013,
+at Montreal, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the appellant:
+Wilfrid Lefebvre, Q.C.
+Vincent Dionne
+Counsel for the respondent:
+Marie-Andrée Legault
+Philippe Dupuis
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2003, 2004, 2005 and 2006 taxation years is dismissed in accordance with the attached reasons for judgment. Costs are awarded to the respondent.
+If the parties can not agree on costs on or before 1 June 2015, they shall contact the registry and advise whether they wish to make representations in writing or at a hearing; appropriate arrangements will then be made.
+Signed at Ottawa, Ontario, this 14th day of April 2015.
+“Gaston Jorré”
+Jorré J.
+Citation: 2015 TCC 90
+Date: 20150414
+Docket: 2011-1739(IT)G
+BETWEEN:
+KRUGER WAYAGAMACK INC.,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+Introduction [1] The appellant operates the Wayagamack paper mill in Trois-Rivières, Quebec. At the time it was acquired by its owners in 2001, the mill was facing closure unless substantial funds and efforts were invested in modernizing the mill.
+[2] Kruger Inc. (Kruger) and SGF Rexfor Inc. (SGF), a company owned by the Government of Quebec, agreed to undertake to acquire the appellant and invest in the modernization of the mill to turn it around.[1]
+[3] The modernization, itself, was successful. The sought efficiencies were achieved and the product mix was improved. One factor beyond the control of the parties significantly affected the outcome. In planning the modernization, the parties had assumed there would be a quite significant increase in the Canadian dollar relative to the U.S. dollar; unfortunately, not only did the Canadian dollar rise to the assumed extent, it soared well beyond.
+[4] That rise in the dollar resulted in losses for the appellant and is at the origin of the issues in this appeal.
+[5] It is common ground that the appellant conducted scientific research and experimental development and, as a result, became entitled to investment tax credits.[2]
+[6] Because there were no profits and, consequently, no income tax to offset the credits against, the appellant applied for refundable investment tax credits. The Minister of National Revenue (Minister) assessed on the basis that the appellant is not entitled to any refundable credits.
+[7] According to the respondent, the appellant is associated with Kruger within the meaning of section 256 of the Income Tax Act (Act).
+[8] The parties agree that if the two companies are associated, the appellant is not entitled to the refundable credits. Conversely, if they are not associated, they agree that the appellant is entitled to the refundable credits.
+[9] In turn, whether the two companies are associated turns on:
+(a) whether Kruger has de jure or de facto control of the appellant, or
+(b) whether Kruger has control by reason of the operation of certain deeming provisions in section 256 of the Act.
+[10] The dispute turns entirely on control. One of the key questions that arise is: Just how much control is needed to constitute “effective control”? Given the facts set out below, it will be necessary to decide whether routine operational control amounts to “effective control” when one does not have the ability to make strategic decisions as described below.
+[11] I wish to thank counsel.
+De Jure or De Facto Control [12] I will deal first with the question whether Kruger had de jure or de facto control of the appellant.
+Legal Principles — De Jure or De Facto Control [13] The applicable provisions of the law are paragraph 256(1)(a) and subsection 256(5.1) of the Act. They read as follows:
+256(1) For the purposes of this Act, one corporation is associated with another in a taxation year if, at any time in the year,
+(a) one of the corporations controlled, directly or indirectly in any manner whatever, the other;
+. . .
+(5.1) For the purposes of this Act, where the expression “controlled, directly or indirectly in any manner whatever,” is used, a corporation shall be considered to be so controlled by another corporation . . . (. . . referred to as the “controller”) . . . where . . . the controller has any direct or indirect influence that, if exercised, would result in control in fact of the corporation, except that, where the corporation and the controller are dealing with each other at arm’s length and the influence is derived from a franchise, licence, lease, . . . or management agreement or other similar agreement . . . , the main purpose of which is to govern the relationship between the corporation and the controller regarding the manner in which a business carried on by the corporation is to be conducted, the corporation shall not be considered to be controlled, directly or indirectly in any manner whatever, by the controller by reason only of that agreement . . . .
+[14] It is well established that “control” of a corporation means de jure control. The leading decision on this point is the Supreme Court of Canada decision in Duha Printers (Western) Ltd. v. Canada.[3]
+[15] In that decision the Supreme Court set out what constitutes “control” and what is to be considered in the course of determining whether someone has “control” of the corporation. Speaking on behalf of the Supreme Court, Iacobucci J. said:
+70 As I have said, the essential purpose of the Buckerfield’s test is to determine the locus of effective control of the corporation. To my mind, it is impossible to say that a shareholder can be seen as enjoying such control simply by virtue of his or her ability to elect a majority of a board of directors, when that board may not even have the actual authority to make a single material decision on behalf of the corporation. The de jure control of a corporation by a shareholder is dependent in a very real way on the control enjoyed by the majority of directors, whose election lies within the control of that shareholder. When a constating document such as a USA provides that the legal authority to manage the corporation lies other than with the board, the reality of de jure control is necessarily altered and the court must acknowledge that alteration.
+. . .
+72 The appellant correctly points out that to recognize the USA as affecting de jure control begs the question of how much power must be removed from the directors before one may safely conclude that the majority voting shareholder no longer has de jure control. Certainly, the existence of a USA does not necessarily imply the loss of de jure control. But I cannot agree that there is no rational basis for determining when a majority shareholder loses de jure control on the basis of a restriction of the directors’ powers. . . . [T]his issue comes down to a question of fact, turning on the extent to which the powers of the directors to manage are restricted, to what extent these powers have devolved to the shareholders, and to what extent the majority shareholders are thereby able to control the exercise of the governing powers.
+. . .
+81 . . . Rather, the specific provisions of the USA must alter such control as a matter of law. But to what extent must these powers be compromised before the majority shareholder can be said to have lost de jure control over the company?
+82 In my view, it is possible to determine whether de jure control has been lost as a result of a USA by asking whether the USA leaves any way for the majority shareholder to exercise effective control over the affairs and fortunes of the corporation in a way analogous or equivalent to the power to elect the majority of the board of directors (as contemplated by the Buckerfield’s test). . . .
+83 In my view, the provisions in the Agreement at issue in this case did not in fact result in the loss of de jure control by Marr’s. The inability to issue new shares without unanimous shareholder approval, while surely a restriction on the powers of the directors to manage the business and affairs of Duha No. 2, was not so severe a restriction that Marr’s can be said to have lost the ability to exercise effective control over the affairs and fortunes of the company through its majority shareholdings. . . .
+. . .
+85 It may be useful at this stage to summarize the principles of corporate and taxation law considered in this appeal, in light of their importance. They are as follows:
+(1) Section 111(5) of the Income Tax Act contemplates de jure, not de facto, control.
+(2) The general test for de jure control is that enunciated in Buckerfield’s, supra: whether the majority shareholder enjoys “effective control” over the “affairs and fortunes” of the corporation, as manifested in “ownership of such a number of shares as carries with it the right to a majority of the votes in the election of the board of directors”.
+(3) To determine whether such “effective control” exists, one must consider:
+(a) the corporation’s governing statute;
+(b) the share register of the corporation; and
+(c) any specific or unique limitation on either the majority shareholder’s power to control the election of the board or the board’s power to manage the business and affairs of the company, as manifested in either:
+(i) the constating documents of the corporation; or
+(ii) any unanimous shareholder agreement.
+(4) Documents other than the share register, the constating documents, and any unanimous shareholder agreement are not generally to be considered for this purpose.
+(5) If there exists any such limitation as contemplated by item 3(c), the majority shareholder may nonetheless possess de jure control, unless there remains no other way for that shareholder to exercise “effective control” over the affairs and fortunes of the corporation in a manner analogous or equivalent to the Buckerfield’s test.
+[16] Thus, for the purposes of determining whether there is de jure control:
+(a) One determines whether a person has “effective control” of the corporation[4] at any time in the year.[5]
+(b) In doing so one is limited to the consideration of only the share ownership (the share register), the governing statute and constating documents of the corporation and any unanimous shareholder agreement.
+[17] Paragraph 256(1)(a) encompasses both de facto and de jure control.[6]
+[18] Both de jure and de facto control aim to get at the question whether a person has effective control. The difference is the following.
+[19] In determining whether there is de jure control, one may only examine those documents described in paragraph 85(3) of Duha, above, and one may take account of any relevant consideration found within those documents.
+[20] In determining whether there is de facto control, there is no limitation on what may be examined and, again, any relevant considerations may be taken into account.
+[21] As the Supreme Court of Canada said, it is ultimately a question of fact turning on the extent to which a shareholder is “able to control the exercise of the governing powers”.
+[22] For our purposes in this appeal, it is useful to think of there being a spectrum ranging from complete control to completely shared control. A single shareholder who can name the board has complete control in the sense that, within the legal constraints to which the company is subject, that single shareholder is entirely free to decide what the company should do. A shareholder who is able to elect the majority of the board and who is not subject to any constraints other than those arising from the general law will have effective control.
+[23] That same majority will still have effective control even when there are certain additional but limited constraints imposed by arrangements between shareholders, as was the case in Duha.
+[24] At the other end of the spectrum, if there are, say, two shareholders who, pursuant to a unanimous shareholder agreement, have agreed that all the directors’ decisions will be taken unanimously, or that all the directors’ decisions will be taken unanimously by the shareholders, then, even if one shareholder has a majority of the shares and the directors, that shareholder will not have effective control.[7]
+[25] Just how much control is necessary for someone to have effective control? While the answer to this is not susceptible of being given as a precise formula, Justice Lamarre Proulx used the following helpful definition of control in Plomberie J.C. Langlois Inc. v. The Queen:[8]
+39 G. Cornu, dir., Vocabulaire juridique, 2d ed. (Paris: Presses universitaires de France, 1990) defines the word “[control]” in a manner that I find interesting, at p. 207:
+[TRANSLATION]
+• 3 Dominion over the management of a business or organization; power ensuring the one who has it a dominant influence in the direction of a group, a corporation, etc., or the orientation of its future.
+[26] Adapted to the context here, the question is: Does Kruger have a dominant influence in the management or direction of the appellant or a dominant influence in the orientation of its future?
+[27] More particularly in the circumstances here, must that dominant influence go beyond operational control of day‑to‑day operations and management of the modernization project and include the ability to make more strategic decisions such as budgeting and changing business plans? Put somewhat differently, does one have a dominant influence if one can not make a significant course change?
+[28] In Duha,[9] it is clear that effective control means the control which a majority of the board of directors normally has.[10] If one does not have the ability to make strategic decisions that will change significantly the general course of a business, one does not, in my view, have the effective control normally held by a majority of directors.[11]
+Facts and Analysis, Control [29] The appellant is a Canadian controlled private corporation incorporated under the Canada Business Corporations Act. Kruger owns 51% of the shares and SGF owns 49% of the shares. Kruger can elect three out of five directors.
+[30] Kruger is a major producer of paper, tissue and other wood products.
+[31] SGF is a crown corporation of the Government of Quebec. SGF’s mandate was to “carry out, in cooperation with partners and in accordance with accepted requirements of profitability, economic development projects, in particular, in the industrial sector, in conformity with the economic development policy of the Government”.[12]
+[32] It is clear from the evidence that SGF did not plan to or want to operate the mill. However, because of its mandate, SGF was not just a financial investor, profitability was not its only objective.
+[33] The mill was previously owned by Abitibi Consolidated Inc. Leading up to the sale, Abitibi had decided through strategic review to shut down certain mills. The Wayagamack mill was on that list. Had the closure proceeded, many jobs would have been lost.
+[34] Although the acquisition price of the mill was relatively inexpensive, it was recognized that making the mill profitable would require a very significant investment. Kruger and SGF foresaw the mill needing a new paper machine, improvements to their pulping facility and modernizing of the mill’s entire infrastructure. They estimated the cost of the modernization project at some $400 million.
+[35] Neither Kruger nor SGF were prepared to embark on such an endeavour alone. Kruger had just made a major acquisition and was unwilling to add another major expenditure to its balance sheet. As for SGF, it is not their usual practice to purchase companies independently. Rather, they worked with partners in the relevant industry.
+[36] Originally, Kruger and SGF envisaged a 50-50 joint venture. Subsequently, it was decided that the entire venture would be perceived as more credible if Kruger owned 51% of the project and SGF owned 49%.[13]
+[37] Both Kruger and SGF refer to the appellant as a joint venture in their financial statements.[14]
+[38] Together, however, Kruger and SGF had the financing and industry expertise necessary to take on the project. Thus, Kruger and SGF formed the appellant in February 2001 for the purposes of purchasing, modernizing and operating the Wayagamack mill.
+[39] The appellant purchased the mill in March 2001.
+[40] At the time of the purchase, the appellant and its shareholders also entered into a number of agreements that would dictate how the mill and the modernization project would be governed and operated, most importantly the Unanimous Shareholder Agreement of 8 May 2001.[15]
+[41] In order to benefit from Kruger’s industry knowledge and business network, the appellant also engaged Kruger in a Management Services Agreement[16] and a Sales Agency and Marketing Agreement. The appellant and Kruger also entered into a Kraft Pulp Selling Agreement.
+[42] With 51% of the shares and the ability to elect a majority of the board of directors, Kruger appears to be able to control the appellant, absent other considerations.
+[43] However, there are other considerations; the most important is the Unanimous Shareholder Agreement.
+[44] Given that the Unanimous Shareholder Agreement is critical to this matter, I have reproduced below some of the key provisions:
+1. DEFINITIONS AND RULES OF INTERPRETATION
+. . .
+1.1.1.13 “Control or Controlled” refers to, when a legal person, the fact for one or several persons of holding, directly or indirectly, securities of this legal person giving the right to exercise more than 50% of the voting rights attached to the total outstanding voting securities of this legal person and allowing such person to elect the majority of the directors of such legal person;
+. . .
+1.1.1.16 “Dividend Policy” designates the dividend policy described in section 4.10;
+. . .
+1.1.1.19 “Kraft Pulp Selling Agreement” designates the Kraft Pulp Selling Agreement between the Company and KRUGER concluded this same date;
+. . .
+1.1.1.22 “Management Services Agreement” designates the Management Services Agreement between the Company and KRUGER concluded this same date;
+1.1.1.23 “Marketing Agreement” designates the Marketing Agreement between the Company and KRUGER concluded this same date;
+1.1.1.24 “Mill” designates the Wayagamack pulp and paper mill located in Trois-Rivières (Québec) including all corporeal and incorporeal assets used in its exploitation.
+1.1.1.25 “Mission” has the meaning conferred in section 3;
+. . .
+1.1.1.32 “Project” designates the acquisition of all tangible and intangible assets of the Mill, its commercial exploitation as of the date hereof, and its modernization to manufacture and sell approximately 205 000 metric tonnes of lightweight coated paper (LWC) and approximately 57 000 metric tonnes of kraft pulp annually, as such may be modified from time to time by written agreement between the Shareholders;
+. . .
+1.1.1.34 “Shareholders” designates CANADA INC. and SGF REXFOR as well as any Authorized Assignee and other physical or legal person who could become holder of Shares, in accordance with this Agreement, and who becomes a party to this Agreement;
+. . .
+1.5.1.5 The Parties agree to take all other actions and sign all other documents, which either Party could reasonably request for the purpose of giving full effect to the Agreement.
+. . .
+2. GENERAL COMMITMENT AND PORTE-FORT
+2.1.1 The Parties agree, reciprocally and irrevocably, to take any action required and govern themselves in every respect such that the provisions of this Agreement receive full effect and, in particular, the Shareholders agree for this purpose to exercise (or arrange that be exercised) consequently the voting rights associated with the Shares.
+2.1.2 Each Party agrees not to do indirectly that which it is prohibited from doing directly under the Agreement, and if any such situation occurs, any other Party can require that the prohibited act cease and exercise any other recourse as provided for by law or under of this Agreement. A porte-fort shall be in default under his promise for another in any of the following cases: if he votes against his promise for another, if he withholds from voting as required by his promise for another, if he takes an action which is counter to his promise for another or if he withholds from taking an action as required by his promise for another.
+2.1.3 Any breach of any of the provisions of this Agreement, without prejudice to any other recourse or remedy provided by law, shall give rise to a recourse for injunctive relief, which the Parties recognize to be an appropriate recourse and to which they expressly and irrevocably consent.
+3. COMPANY’S MISSION
+3.1.1 The Shareholders acknowledge that they have invested in the Company for the purpose of operating a company through the latter, the mission of which is to accomplish the Project.
+4. GOVERNANCE OF THE COMPANY
+4.1 Board of Directors
+4.1.1 The Shareholders agree that five (5) members shall sit on the Board of Directors, of which three (3) will be appointed by KRUGER and two (2) by SGF REXFOR. The Shareholders agree that they shall appoint annually a Chairman of the Board of Directors from amongst the elected directors.[17]
+. . .
+4.2 Meetings of the Board of Directors
+4.2.1 The quorum at the meetings of the Board of Directors shall be of three (3) directors, one (1) of whom shall at all times be a representative nominated by SGF REXFOR. Quorum shall not be maintained unless the directors comprising such quorum are present at the meeting, or are participating by a technical means as provided for in section 4.2.6, at the same time and for the entire meeting of which at least one (1) shall be designated by SGF REXFOR, present at the meeting or participating by a technical means as provided in section 4.2.6, at the same time and for the entire meeting. If the quorum is not reached on the date and at the time fixed for the meeting, the directors present shall adjourn the meeting. Notice of at least ten (10) Business Days or at least three (3) Business Days if the initial meeting was called for an emergency before the date of the adjourned meeting shall be given to the directors in office and the meeting shall be held at the same place where the initial meeting was supposed to take place. If at the adjourned meeting the quorum is still not reached on the date and at the time fixed for the replacement meeting, the directors present shall again adjourn the meeting. Notice of at least ten (10) Business Days or at least two (2) Business Days if the initial meeting was called for an emergency before the date of the adjourned meeting shall be given to the directors in office business day and the meeting shall be held at the Company’s business place in Trois‑Rivières (Québec). The quorum at that meeting, but exclusively at that meeting, shall then consist of the directors present at such adjourned meeting provided there are at least two (2). Notwithstanding the provisions of section 4.2.4, only the matters on the agenda forwarded prior to the date provided for the initial meeting can be discussed and voted upon at the adjourned meetings, if necessary.
+. . .
+4.3 Decisions requiring unanimity amongst directors present
+4.3.1 Any action, ruling, resolution or by-law relating to the business of the Company or one of its Subsidiaries having in purpose or affect, either directly or indirectly, any of the following matters, shall, in order to be effective, be adopted or approved at all times by the unanimous consent of those members of the Board of Directors present at the meeting legally called to discuss such matter, provided that quorum is reached, or by written resolution duly signed by all directors in office entitled to vote on such resolution:
+4.3.1.1 acquisition by the Company of shares, capital shares, units or a substantial portion of the assets of a legal person, company, partnership, limited partnership or a cooperative;
+4.3.1.2 execution of any loan, financing, refinancing, issuance of debentures, bonds, notes or any other such debt instruments, whether they be convertible or not, for an amount in excess of one million dollars ($1,000,000) per financial year;
+4.3.1.3 any loan of money made by the Company and the security by the Company or one of its Subsidiaries of a Third Party’s given debts or any guarantees;
+4.3.1.4 approval of the annual business plan and the annual marketing plan as well as any amendments thereto;
+4.3.1.5 approval of the annual capital budget and the annual operating budget, along with the approval of any amendments thereto, the approval of any expenditure that is part of the annual capital budget for an amount in excess of one million dollars ($1,000,000) and approval of any capital expenditures not included in such budget;
+4.3.1.6 any decision related to the declaration and payment of dividends that contravene the Dividend Policy;
+4.3.1.7 the hiring, termination, removal, dismissal or end of employer-employee relationship of any officer, other than the Controller, reporting directly to the General Manager (on the recommendation of KRUGER), as well as the establishment of their compensation, other than by the General Manager following approval by the Board of Directors by simple majority;
+4.3.1.8 hiring, termination or end of employer-employee relationship of the Controller [General Manager][18] and the fixing of his compensation and establishment of his mandate;
+4.3.1.9 granting and payment of any bonus, premium or benefit sharing, or any other allocation of special rights to any manager including the allocation of share purchase options;
+4.3.1.10 annual appointment of the Company’s president, as the case may be;
+4.3.1.11 compensation of directors;
+4.3.1.12 execution of any contract, understanding or agreement that is outside the ordinary course of business of the Company or any of its Subsidiaries;
+4.3.1.13 institution, defence or settlement of any legal proceeding, whether or not initiated by the Company or one of its Subsidiaries, where the amount at issue is fifty thousand dollars ($50,000) or more or when the total amounts claimed during the same financial year attains fifty thousand dollars ($50,000);
+4.3.1.14 the execution of a lease with a term exceeding two (2) years or a lease with a lesser term but which requires the Company or any Subsidiary to assume obligations of three hundred thousand dollars ($300,000) or more in the same financial year;
+4.3.1.15 adoption of a compensation policy for the employees and management of the Company or any Subsidiary that does not comply with the compensation policy that is in effect from time to time at KRUGER, and any modification or replacement of such a policy that would entail non-compliance with the employee and management compensation policy that is in effect from time to time at KRUGER; payment of any compensation to employees or managers of the Company or any Subsidiary that does not comply with the guidelines established from time to time in the Company’s compensation policy;
+4.3.1.16 the licencing by the Company or of any of its Subsidiaries of its technology licences;
+4.3.1.17 the adoption or amendment of any delegation of authority or banking resolution;
+4.3.1.18 the establishment of any Board of Directors’ Committee; and
+4.3.1.19 any action, ruling, resolution, by-law or other measure referred to in section 4.8 which relates to a Subsidiary and whose effectiveness requires the affirmative vote of the Company’s representative who is authorized to vote at the shareholders’ meeting of the Subsidiary concerned.
+. . .
+4.6 Project Management
+4.6.1 The Shareholders agree to establish their requirements for the Project’s management on the basis of principles stated in Appendix B of this Agreement. The Shareholders also agree that KRUGER will form a Project Management Committee responsible for the execution of the Project’s management plan (“Project Management Committee”) and that the Project Management Committee will appoint a Project Manager.
+4.6.2 SGF REXFOR will appoint a representative to communicate directly with the Project Manager. This representative will have access to the Project Management Committee, to the minutes of meeting of said Committee and to the monthly progress of works reports. This representative may also attend the meetings of the Project Management Committee, the site meetings and visit the Mill site at all times during the realization period of the Project.
+4.6.3 All construction reports shall be sent regularly and simultaneously to the SGF REXFOR representative and to the Company’s directors by the Project Manager.
+4.6.4 Notwithstanding the provision of section 4.6.1, all major decisions concerning the Project’s realization, including those mentioned below, will require the approval of the Company’s Board of Directors:
+- any amendment of allocation to the contingency reserve;
+- any amendment of the schedule by Project sectors;
+- any amendment of the Project Scope; and
+- the budget, which is established by phase and investment sector.
+4.7 General Manager and Controller
+4.7.1 The General Manager will be employed by KRUGER, but his services shall be rendered for the exclusive benefit of the Company. The terms and conditions of the services that shall be rendered by the General Manager shall be governed by the Management Services Agreement. However, the selection of a General Manager as well as his compensation is subject to the prior approval of the Company’s Board of Directors. KRUGER shall, if it wants to terminate, remove or replace the General Manager, provide notice of such decision to the Board of Directors of the Company along with reasons for its decision.
+4.7.2 The Controller shall be an employee of the Company. It appertains to the Board of Directors to determine the duties and compensation of the Controller in accordance with the provisions of section 4.3.1.8. Even though the Controller shall report to the General Manager with respect to his daily duties, he shall report directly to the Board of Directors concerning the Company’s financial situation and the internal control system that he intends to implement. The General Manager may not dismiss the Controller without prior approval of the Board of Directors as provided for in section 4.3.1.8. Written instructions informing him of the foregoing will be sent to him by the Board of Directors. In addition, the job descriptions for the Controller and the General Manager will specifically stipulate their duties and responsibilities to protect the Shareholders’ interests.
+4.7.3 Amongst other things, the job description applicable to the Controller and the General Manager shall specifically provide that they have the duty to protect the best interests of the Shareholders.
+. . .
+4.9 Unanimous Decisions of the Shareholders
+4.9.1 The actions, rulings, resolutions, by-laws or other measures relating to the conduct of the affairs of the Company or any of its Subsidiaries having the direct or indirect object or effect one of the questions mentioned below shall, at all times, have legal force only upon unanimous adoption and approval by the Shareholders:
+4.9.1.1 any important change to the Company’s mission;
+4.9.1.2 the creation of a Subsidiary and the decision to invest in any manner whatsoever in the implementation of a permanent activity other than as envisaged in the initial business plan;
+4.9.1.3 any amendment to the articles of incorporation or by-laws, the adoption or cancellation of by-laws or any amendment to this Agreement;
+4.9.1.4 any change in the Company’s authorized capital stock; any issuance of shares of any class and series; any issuance of shares convertible or exchangeable into securities of any class or series; any purchase, redemption, or other acquisition, exchange or conversion of any classes or series; any options or granting of stock options of any class or series or of convertible or exchangeable securities into shares of any class or series, except with respect to any issuance of convertible or exchangeable shares if such issue respects all the pre-emptive rights contained at section 6 hereof and except with respect to any purchase or redemption executed in conformity with section 8 hereof;
+4.9.1.5 the approval or registration of a transfer of shares of the Company’s capital stock which is not in compliance with the provisions of the Agreement;
+4.9.1.6 the allocation of the Company’s assets or those of any of its Subsidiaries, and more specifically the granting, prolongation or taking over of any mortgage or charge on any of their assets as Security for a loan;
+4.9.1.7 any modifications to the Management Service Agreement, to the Marketing Agreement, to the Kraft Pulp Selling Agreement or to the Assumption and Loan Agreement and any assignments thereof;
+4.9.1.8 any change in the head office, policy center or principal place of business of the Company or any of its Subsidiaries;
+4.9.1.9 the liquidation, dissolution or merger of the Company or any of its Subsidiaries;
+4.9.1.10 the disposal of the business, in whole or in part, as well as the sale, lease or exchange of all or a substantial part of property or assets of the Company or any of its Subsidiaries, including the granting of an option to that effect, including the sale of intellectual property rights;
+4.9.1.11 any decision to institute proceedings under the Winding-up Act (Québec) or the Bankruptcy and Insolvency Act (Canada) or the Companies’ Creditors Arrangement Act (Canada) or any other law regarding insolvency or the protection of debtors;
+4.9.1.12 the approval, adoption or modification of the annual financial statements of the Company or any of its Subsidiaries, any change in the date of the fiscal year end and any change in the accounting standards used or established by the Company or by one of its Subsidiaries in the preparation of its financial statements;
+4.9.1.13 the appointment and replacement of the auditors of the Company or any of its Subsidiaries, it being understood that at the end of each financial year the auditors shall be chosen among five (5) internationally known accounting firms; and
+4.9.1.14 the decision relative to the execution of agreements, conventions or contracts by the Company or any of its Subsidiaries, including any amendment with a company for a non arm’s length transaction, more specifically with a Shareholder, with a person bound or associated with one of the Shareholders or with a director, officer or employee of such persons.
+4.9.2 The above provisions shall be interpreted in accordance with section 146 of the Act, as a transfer of powers from the directors on those specific questions in favour of the Shareholders who will assume the related powers and obligations. No Shareholder shall be required to justify its refusal to approve or reject any proposal.
+4.10 Dividend Policy
+4.10.1 The Parties shall apply the dividend policy described below, provided that this policy has not been modified to meet provisions of the Agreement.
+4.10.2 The Directors may not declare any dividend on the Company shares, regardless of the category, unless all of the following conditions have been met:
+4.10.2.1 the Company meets the financial requirements of the Act;
+4.10.2.2 the Company respects the financial ratios set forth in any Credit Agreement and all financial requirements and other restrictions contained in any Financial Assistance Agreement.
+4.10.3 Once all the above-mentioned conditions are met, the Directors are obliged, upon request by one of the Shareholders, to declare, either at a Board Meeting or by way of a resolution signed by all Directors in office, a dividend equal to the corresponding amount indicated by the shareholder in his request, provided that the dividend does not exceed seventy-five per cent (75%) of the amount established according to the following formula:
+The total of funds available for disbursement of a dividend calculated according to the provisions of preceding section 4.9.2:
+LESS:
+• Funds required for any forecasted operating loss (operations) outlined in the operating budget (operations) adopted for the current year;
+• Funds required for capital projects authorized in capital budget for the current year.
+4.10.4 Notwithstanding the above, the amount of dividends declared and paid shall not have the direct or indirect effect of placing Company in default pursuant to any Credit Agreement or a Financial Assistance Agreement following disbursement of such dividend, it being understood that all financial ratios and requirements shall be respected at all times.
+4.10.5 None of the above shall be interpreted as a restriction on the power of the Directors to pay greater dividends if they deem that the Company’s financial situation permits it, the whole subject to the provisions of any Credit Agreement or a Financial Assistance Agreement.
+. . .
+APPENDIX B
+PROJECT MANAGEMENT
+. . .
+KRUGER INC. will assume responsibility for Project Management.
+. . .
+The Project Management Committee must:
+- Establish the Project Management Plan and present it to the Board of Directors;
+. . .
+- Submit to the Board of Directors for their approval:
+- Any modification or allocation of the contingency fund;
+- Any modification of the deadline by Project sector;
+- Any modification of the Project scope;
+- The budget, which will be established by phase and by investment sector.
+. . .
+APPENDIX D
+ADDITIONAL PREREQUISITES TO BE MET BY SEPTEMBER 30, 2001, AT THE LATEST
+. . .
+9. Approval of the costs and business plan of the Project by the Shareholders.[19]
+10. The set-up of a Project Management Committee.
+. . .
+[45] When one considers the above provisions, there are quite a wide range of restrictions on what decisions can be taken by the three directors named by Kruger. This is the result of the list of decisions which require the unanimous agreement of directors or the unanimous agreement of shareholders pursuant to clauses 4.3 and 4.9 of the agreement.[20]
+[46] I wish to highlight certain provisions restricting Kruger’s ability to exercise control whether they require unanimous directors’ votes or unanimous shareholders’ votes.
+[47] The company’s mission is to carry out the “project”, i.e. the acquisition and modernization of the mill and the production of approximately 205,000 metric tons of lightweight coated paper and 57,000 metric tons of kraft pulp per year. There can be no important change to that mission without the agreement of both Kruger and SGF.[21]
+[48] The cost and business plan of the project had to be agreed to by both shareholders at an early stage, no later than 30 September 2001.[22] This particular requirement was an important one; if it was not fulfilled, it gave a right to SGF to require Kruger to buy all its shares in the appellant at SGF’s cost, an amount of just over $39 million.[23] This would have, in effect, forced Kruger to almost double its equity contribution and its risk.
+[49] Changes to the scope of the project, the deadlines, and to the budget of the project had to be brought to the board for approval.[24]
+[50] The capital budget, the operating budget, any amendments to the budget, any individual capital expenditure in excess of $1 million and any capital expenditure not included in the budget had to be approved unanimously by the board of directors. I would note that wherever unanimity of the directors is required, it is unanimity of the directors present at the meetings.
+[51] It should be noted that in order for the board to have a quorum, one of the directors present had to be a nominee of SGF.[25]
+[52] The annual business plan and marketing plan as well as any amendments thereto required a unanimous board decision.
+[53] The powers I have just described clearly prevent any significant variation of the project and budget agreed upon at an early stage unless both Kruger and SGF agree.
+[54] There also has to be unanimity for:[26]
+(a) any form of financing in excess of $1 million per year;
+(b) any loan made by the company to a third party or any security provided for third party debts;
+(c) hiring, establishing the compensation of, or termination of, any officers including the controller but not including the general manager;
+(d) granting of any form of bonus to a manager;
+(e) compensation of directors;
+(f) execution of any contract outside the normal course of business;
+(g) institution or defence of legal proceedings where the amount at issue is $50,000 or more or if the total amounts claimed in a year exceed $50,000;
+(h) execution of leases exceeding two years or with a rent of more than $300,000 in a year;
+(i) approval of non‑arm’s length contracts including contracts with shareholders, anyone associated with a shareholder and directors as well as approval of contracts outside the normal course of business;
+(j) the creation of any subsidiary and any investment not envisaged in the original business plan;
+(k) amendments to the articles of incorporation, the by-laws or the Unanimous Shareholder Agreement;
+(l) any decision to use corporate assets to secure a loan;
+(m) any modification to the Management Services Agreement, the Kraft Pulp Selling Agreement or the Marketing Agreement between the appellant and Kruger; and
+(n) the liquidation, dissolution, wind up or merger of the company.
+[55] The Unanimous Shareholder Agreement has a dividend policy that sets out the circumstances in which a dividend may be paid and also provides that one shareholder can force a dividend to be paid if the conditions are met; that shareholder can force a dividend of any amount not exceeding an amount calculated by formula. Any variation from that policy required unanimity of the directors.
+[56] The general manager of the appellant is an employee of Kruger, but his services are to be rendered exclusively for the benefit of the company. Kruger’s choice of general manager and his compensation is subject to the approval of the board; however, I note that unanimity is not required with the result that he can be approved by the three directors appointed by Kruger.[27]
+[57] The hiring of the controller is subject to unanimity and, although he reports to the general manager for his daily duties, he reports directly to the board regarding the financial situation and internal controls of the company.
+[58] The provisions I have described, and others in the Unanimous Shareholder Agreement, require key decisions to be decided unanimously, whether it is unanimity of the directors present at a board meeting or unanimity of the shareholders. There must be unanimity in regard of budgets, the business plan, and in respect of the very specific mission of the company.[28]
+[59] The specificity of the mission is quite significant since any important change to it requires both shareholders to agree. Thus, an important change in the product mix would require both to agree.[29]
+[60] These are very significant restrictions on Kruger’s ability to control the appellant. Kruger can not make strategic decisions that will change the course of the appellant.
+[61] This is not to say that there are not significant decisions that can be taken by the majority of directors named by Kruger. They are: all decisions in relation to management of production operations and management of the modernization project;[30] all sorts of policies in relation to operations and implementation of the mission can be decided by a majority and, as well, some very important decisions such as setting the parameters for negotiating labour agreements can be decided by a majority.[31]
+[62] I agree with the respondent that these are important powers; one might describe these powers as operational control. I also agree that the two shareholders are not equal. Kruger has more influence than SGF.
+[63] The respondent takes the position that the numerous provisions requiring unanimity are simply standard protections for minority shareholders. I agree that this is in large measure true. However, in this particular case, the provisions go beyond that and prevent Kruger from making what I have referred to as strategic decisions without the agreement of SGF.
+[64] This is not surprising given SGF’s mandate. SGF sought through the agreement not only to protect itself as an investor, but also to ensure the fulfillment of the mission[32] thereby meeting SGF’s economic development objectives.
+[65] However, even with those remaining powers in the hands of the directors named by Kruger, can it be said that Kruger has effective control as expressed by this Court in Plomberie J.C. Langlois, above? Does Kruger have a dominant influence in the direction of the appellant or in the orientation of the appellant’s future?
+[66] The answer is clearly no in this case. Because the directors or the two shareholders must decide unanimously so many key decisions for the direction and orientation of the appellant, Kruger does not have such dominance. Kruger can not substantially change the overall course of the appellant; it can not make strategic decisions.[33]
+[67] The respondent takes the position that by reason of the call option in clause 8.7 of the Unanimous Shareholder Agreement[34] that allows Kruger to compel SGF to sell its shares to Kruger, Kruger controls the appellant “in the long run” following Donald Applicators Ltd. v. M.N.R.[35]
+[68] In Donald Applicators, the power in the long run was one that was based on the particular shareholders’ then existing shareholding and not, as here, on future shareholdings which Kruger may or may not acquire on the seventh anniversary of the signature of the Unanimous Shareholder Agreement, 8 May 2008, over a year after the end of the last year in issue in this case.
+[69] Given that the test in subsection 256(1) is done on a year-by-year basis, the principle arising out of Donald Applicators has to be understood as being a long run power based on what a person could do at some future date with their presently existing shareholdings. Accordingly, I do not accept that Kruger has control in the long run for that reason.
+[70] Kruger does not have de jure control.
+[71] I have considered whether any of the provisions in the Unanimous Shareholder Agreement giving various rights of first refusal, to follow, to buy each other out, or to force a sale could affect the outcome but, whether one is examining de jure or de facto control, I do not see how any of these would give effective control to Kruger in this case.
+[72] I turn now to de facto control.
+[73] For the purposes of analyzing de facto control, one must expand one’s considerations to consider all relevant factors.[36] In this regard, there are two groups of factors. First, there are three important contracts between Kruger and the appellant: the Management Services Agreement, the Marketing Agreement and the Kraft Pulp Selling Agreement. Second, Kruger has a degree of knowledge of the industry that SGF does not have.
+[74] Do these facts confer additional power to Kruger such that it has de facto control?
+[75] Let us consider the three agreements.
+[76] The Management Services Agreement of 8 May 2001[37] states that Kruger will provide the general manager who will be an employee of Kruger. While recognizing that the appellant will be fully staffed, it also provides for the provision by Kruger to the appellant of employees on an as needed basis to provide specific expertise to assist the appellant’s management.[38]
+[77] The agreement does not have a profit element and simply provides that the appellant will pay its proportional share of the salary and benefits of the employees in question.[39]
+[78] The agreement further provides that, in respect of corporate purchasing and wood supply services provided, Kruger will ensure that the appellant’s raw material costs are comparable to those of Kruger, particularly Kruger’s Trois‑Rivières mill.[40]
+[79] Finally, I note that the Management Services Agreement, just like the Unanimous Shareholder Agreement, provides that it may only be amended with the unanimous agreement of all the shareholders.[41]
+[80] The Marketing Agreement[42] provides that Kruger will sell the appellant’s products. The sale price and terms of the appellant’s products must be comparable to that of similar grade products by Kruger and there are provisions to ensure that broadly speaking the rate of downtime for production of the appellant’s product is the same as the downtime for production of comparable products produced in Kruger’s mills.[43]
+[81] Kruger is compensated for these services by a fixed percentage commission that falls after five years and again after 10 years.[44]
+[82] The Kraft Pulp Selling Agreement[45] provides for the purchase by Kruger of wood pulp from the appellant. Kruger’s intention is to buy wood pulp for use in its own mills.
+[83] The Kraft Pulp Selling Agreement provides for a price calculated by reference to sales between unrelated parties; it also provides that, if Kruger reduces its overall demand for pulp, Kruger must continue to buy the same proportion of its needs from the appellant. There are also provisions releasing either party if they can obtain more advantageous terms elsewhere.[46]
+[84] The second factor to be considered is that Kruger is a significant industry player with substantial expertise in the pulp and paper industry that SGF does not have. However, SGF is a knowledgeable and sophisticated investor and the branch of SGF that made this investment[47] had significant experience investing in the forest industry.[48]
+[85] The three contracts cited do tie the appellant in many ways to Kruger and there is no doubt Kruger knows more about the industry.[49]
+[86] However, the contracts were agreed upon at the start and contain various elements protecting the appellant from Kruger taking advantage of the appellant and, indirectly, SGF. Those contracts can only be changed by a unanimous shareholder agreement.
+[87] Further, while SGF does not have the depth of industry knowledge that Kruger has, it is a knowledgeable investor. Finally, it is not unimportant that SGF is owned by the Government of Quebec. The Government of Quebec plays an important role in forest and forest related industries including the pulp and paper industry.
+[88] These circumstances do not change the balance so as to give Kruger control of strategic decisions.
+[89] As a result, Kruger does not have de facto control.[50]
+Paragraph 256(1.2)(c) of the Income Tax Act [90] I now turn to the deeming provision in paragraph 256(1.2)(c) of the Act. It reads as follows:
+(c) a corporation shall be deemed to be controlled by another corporation, a person or a group of persons at any time where
+(i) shares of the capital stock of the corporation having a fair market value of more than 50% of the fair market value of all the issued and outstanding shares of the capital stock of the corporation, or
+(ii) common shares of the capital stock of the corporation having a fair market value of more than 50% of the fair market value of all the issued and outstanding common shares of the capital stock of the corporation
+are owned at that time by the other corporation, the person or the group of persons, as the case may be;
+[91] The following is a well‑accepted definition of fair market value quoted by the Federal Court of Appeal in Canada v. Gilbert:[51]
+18 In Nash v. Canada, 2005 FCA 386, our Court agreed with the definition of “fair market value” set out by Cattanach J. of the Federal Court in Henderson Estate and Bank of New York v. M.R.N. (1973), 73 D.T.C. 5471, at page 5476 (affirmed by this Court in [1975] F.C.J. No. 613), namely:
+. . . the highest price an asset might reasonably be expected to bring if sold by the owner in the normal method applicable to the asset in question in the ordinary course of business in a market not exposed to any undue stresses and composed of willing buyers and sellers dealing at arm’s length and under no compulsion to buy or sell. I would add that the foregoing understanding as I have expressed it in a general way includes what I conceive to be the essential element which is an open and unrestricted market in which the price is hammered out between willing and informed buyers and sellers on the anvil of supply and demand.
+[92] The principle in paragraph 256(1.2)(c) of the Act seems fairly straightforward.[52] Among the issues that arise as to how this paragraph is to be read are the questions:
+(a) Does the provision apply if Kruger’s shares in the appellant are worth more than 50% of what someone would pay to buy all the shares of the appellant at once?
+or
+(b) Does the provision apply if Kruger’s shares are more than 50% of the value of all the shares with the shares owned by different owners valued separately, i.e. are Kruger’s shares worth more than those owned by SGF?
+[93] Further, one must consider paragraph 256(1.2)(g) of the Act. It reads:
+(g) in determining the fair market value of a share of the capital stock of a corporation, all issued and outstanding shares of the capital stock of the corporation shall be deemed to be non-voting.
+[Emphasis added.]
+[94] This means one must do the valuation in a hypothetical world where shareholders can not vote. As a result, they can not make decisions by voting at shareholders’ meetings and can not elect directors.
+[95] Consequently, the clear result is that for valuation purposes, one must ignore issues of control. The shares must be valued from a financial perspective without regard to control. Thus, in determining the value per share, one must first look to the share rights to dividends and to assets if the corporation were wound up. Second, one must consider what other factors may affect the value per share, but only factors unrelated to voting rights and, therefore, unrelated to control may be considered.
+[96] Kruger and SGF own the same class of shares of the appellant with identical rights attached to the shares.
+[97] In a case where all shareholders have the same class of shares, as here, in the absence of other factors each share has the same value since each share is entitled to receive the same dividend and the same distribution on the wind up of the company. Thus, the starting point is that normally 51% of the shares would be worth more than 49%. Do other factors change this?
+[98] Both parties filed the report of an expert witness in share valuation and had them testify. Luc Lafontaine testified for the appellant and Howard Johnson testified for the respondent.[53]
+[99] Mr. Lafontaine was asked to determine, first, whether, taken individually, the value of the shares of Kruger had a fair market value of more than 50% of the fair market value of all the shares of the appellant and, second, what the relative value of the shares of Kruger and SGF was.
+[100] I will briefly outline the methodology used by Mr. Lafontaine in answering the first question.
+[101] His starting point was a valuation done by another firm in order to estimate the value of all the appellant’s shares as of 31 December 2006. That estimate gives a range of values.[54]
+[102] Mr. Lafontaine, after explaining various principles of business valuation, including discounts for lack of control and discounts for lack of marketability, proceeds to apply these principles to value Kruger’s shares. Applying his estimated discounts, he arrives at the conclusion on the first question that Kruger’s 51% of the shares are worth about 41% to 43% of the value of all the appellant’s shares.
+[103] The first discount he accounted for is in relation to what he considers to be an absence of control by Kruger.
+[104] I would note that the question asked of Mr. Lafontaine did not instruct him to do his valuation on the basis that no shares had any voting rights. The same is true for Mr. Johnson.
+[105] Second, he took account of a discount for lack of marketability. He includes lack of liquidity with lack of marketability.[55]
+[106] I would note that within the discount for lack of marketability, there are two elements that he considers. The first is the general lack of marketability of the enterprise by its nature and as a result of its current circumstances. This includes the fact that there are relatively few buyers interested in a paper mill; this also includes its difficult financial situation in the relevant period. The second element consists of the various provisions in the Unanimous Shareholder Agreement that affect the ability to sell shares.[56]
+[107] In answer to the second question, Mr. Lafontaine considers the various asymmetric rights in the Unanimous Shareholder Agreement for Kruger and SGF regarding buying or selling shares.
+[108] In Mr. Lafontaine’s view, there is one right which could lead to a relative value other than 51% for Kruger and 49% for SGF, the SGF put option in clause 8.10 of the Unanimous Shareholder Agreement.[57]
+[109] Returning to Mr. Lafontaine’s analysis of the first question he was asked, I am generally unable to accept the methodology he uses and, as a result, his conclusion for the reasons below.
+[110] Given that the effect of paragraph 256(1.2)(g) of the Act is to do away with any consideration of control, the valuation can not take account of any premium or discount for control or the absence of control. Paragraph 256(1.2)(g) applies to all the shares and, as a result, one must value the whole on the shares as well as Kruger’s shares and SGF’s shares without any adjustment for control.
+[111] As a result, I must disregard Mr. Lafontaine’s adjustment for control.
+[112] With respect to the lack of marketability, I can not, subject to one possible qualification, accept that it should result in a discount in relation to the shares as a whole.
+[113] Based on Mr. Lafontaine’s report, there appears to be some overlap between the lack of marketability and the issues relating to control given that he indicates that the discount for the lack of marketability is greater for a minority interest, about 40%, than for a controlling interest where it is about 25%.[58] However, given that we must assume shares to be non‑voting, any such marketability difference resulting from control must be also ignored.
+[114] The factors leading to a lack of marketability and liquidity also apply equally to the shares as a whole and the shares held by Kruger — there are relatively few buyers and even more so given the financial difficulties. As a result, any such discount should be applied to the entire share value and can not be applied only in assessing the value of Kruger’s shares.[59]
+[115] Accordingly, subject to what follows, I do not accept that there should be a different discount for lack of marketability in respect of Kruger’s shares as opposed to the shares as a whole or of SGF’s shares. Stated differently, if it is appropriate to have a marketability discount, that discount, whatever it may be, should be the same percentage for Kruger’s shares alone, for SGF’s shares alone and for all the shares. As a result, the marketability discount must be disregarded.
+[116] The notion that there is value to a majority interest relative to a non‑majority interest is so deeply ingrained that it seems counterintuitive to accept the logical consequences of the legal fiction[60] that no shares have voting rights for the purpose of the required valuation.
+[117] Notwithstanding that it may seem counterintuitive, the practical result of the absence of voting rights is that all the shares have the same characteristic as shares in a portfolio holding where the owner does not expect to influence the governance of the corporation. Such a portfolio owner’s shares have a value on the basis only of the expected financial return in the future. They also have the same per share value whether one takes each share singly, all the shares together, the shares of Kruger together or the shares of SGF together.
+[118] It is, I think, helpful to emphasize the following: Given the effect of paragraph 256(1.2)(g) of the Act, what one has to value is Kruger’s holding of 51% of the shares with some expected financial return per share and SGF’s holding of 49% of the shares with the same expected financial return per share in circumstances where it is as if a third party ran the appellant without Kruger or SGF having the slightest influence on that third party. In such circumstances, it is hard to imagine why someone would pay a different price per share whether they bought 49 shares, 51 shares or all 100 shares. Whichever quantity of shares the buyers acquire, they will receive the same financial return per share.[61]
+[119] As a result, subject to the discussion that follows, Kruger’s 51% of the shares represent a majority of the value of all the shares and a greater value than SGF’s shares.
+[120] The rights of Kruger and of SGF are not identical under the Unanimous Shareholder Agreement and the one possible exception arises from that.
+[121] Since those different rights, asymmetric rights, are discussed in Mr. Lafontaine’s answer to the second question he was asked, the relative values, I shall examine this aspect together with his analysis of that second question.
+[122] To sum up so far — apart from the aspect to be discussed below — there is no reason to conclude that 51% of the shares would be worth less than 51% of the value, and there is no reason to conclude anything other than Kruger’s shares have a greater fair market value than SGF’s shares.
+[123] I also note that it does not matter how the test in paragraph 256(1.2)(c) is to be applied; so far, the result is the same whether the question is: Are Kruger’s shares worth more than 50% of the value of all the shares or are they worth more than SGF’s shares?
+[124] As I previously indicated, Mr. Lafontaine, after considering various clauses in the Unanimous Shareholder Agreement, concludes there is one that may affect the relative value.[62] This is the provision that gives SGF, under certain conditions, the right to require the appellant to buy SGF’s shares.
+[125] These are the relevant portions of the Unanimous Shareholder Agreement in relation to this provision:
+1.1.1.17 “Fair Market Value” means the highest price expressed in Canadian dollars that would be agreed upon in an open and unrestricted market between two (2) fully informed, knowledgeable and willing parties dealing at arm’s length without constraint, without taking into consideration or providing a discount for the following: (i) the fact that the Shares or Other securities confer only a minority or non‑majority position in the capital stock of the Company and (ii) the fact that there is no market, or only a very restricted market, for the Shares or Other securities, nor any other factor that may reduce or otherwise affect their liquidity, as such liquidity is established, at the Company’s expense, by the Valuator;
+. . .
+8.10 Option to sell to SGF REXFOR as of the 9th anniversary of the date thereof
+8.10.1 The Company hereby grants SGF REXFOR the irrevocable option to require from it to acquire from SGF REXFOR all and no less than all of the Shares and Other securities of SGF REXFOR (the “Subject Securities”) on the terms stipulated hereinafter.
+8.10.2 This option may be exercised by SGF REXFOR at any time effective from the ninth (9th) anniversary of the date thereof.
+. . .
+8.10.4 SGF REXFOR shall not be able to oblige the Company to buy or redeem the Subject Securities and pay for them,
+8.10.4.1 if, due to the exercise of the option and payment of the option exercise price, (i) the Company is no longer able to conform to the ratios and financial commitments stipulated in any Credit Agreement and (ii) the Company is no longer able to conform to the ratios or financial commitments, as the case may be, stipulated in any Financial Assistance Agreement; or
+8.10.4.2 if the transactions resulting from the exercise of the option by SGF REXFOR constitute or are likely to constitute a default or a case of breach (i) under the terms of any Credit Agreement or any accessory agreement (it being understood that the withdrawal of SGF REXFOR from the Company shall not be deemed to constitute a default or a case of breach under any contribution and/or subordination and/or debt extension agreement to the extent that the beneficiaries of SGF REXFOR’s commitments consent to its withdrawal from the Company) or (ii) under the terms of any Financial Assistance Agreement; or
+8.10.4.3 if, due to the exercise of the option and the payment of the option exercise price, the Company’s financial position is jeopardized.
+[126] Clause 8.10.6 sets the option exercise price at the “Fair Market Value” of the shares as defined above in clause 1.1.1.17.
+[127] If the effect of this provision were to raise the value of SGF’s shares by 4.1% relative to SGF’s shares, it would make SGF’s shares worth more than Kruger’s shares.[63]
+[128] Mr. Lafontaine says that this provision increases the value of the shares above 51% because the “Fair Market Value” as defined in the agreement excludes the discounts set out in clause 1.1.1.17, discounts relating to a minority position or a restricted market.
+[129] In his analysis, Mr. Lafontaine[64] says that, to determine the value of the shareholdings of SGF and of Kruger, one must perform a discounted cash flow analysis of the shareholdings taking into account a number of factors. However, he says that no consideration should be given to control.[65] He also says that, because only relative fair market value matters, the discount rate used and the fair market value of the equity do not change the outcome.[66]
+[130] The factors left to consider are the probability of the option being exercised and the percentage discount that should apply.
+[131] As can be seen in clause 8.10 of the Unanimous Shareholder Agreement, the clause can not be exercised if doing so would cause the appellant to violate its financial commitments under any credit agreement or financial assistance agreement. Further, the option can not be exercised if doing so would jeopardize the appellant’s financial position.
+[132] In the years in question, although operationally the project was going well and the appellant was carrying out many cost‑cutting initiatives, because of the exchange rate the appellant was having serious financial difficulties.
+[133] As Mr. Lafontaine states in his report “the company was in breach of its bank covenants as early as 2004”.[67]
+[134] I note that as of the year‑end of 2006, the company failed to meet a covenant although soon after year‑end it obtained a waiver to remedy the situation.[68] Also, when one looks at the shareholders’ equity in the financial statements, it changes from about $88 million as of the end of 2002 to a shareholders’ deficit of about $51 million at the end of 2006.[69]
+[135] Mr. Lafontaine also takes account of the projection used in determining the fair market value of all the shares.[70]
+[136] That projection was based on an expected significant improvement in the financial situation.
+[137] Considering those factors, he concluded that the probability of the exercise of the option is in the range of 5% to 25%.
+[138] He estimated the applicable marketability discount at 25%.[71]
+[139] Mr. Lafontaine states that a differential of 0% in the table would mean that, pursuant to the clause in question, SGF would receive an amount equal to the fair market value of Kruger’s shares.[72]
+[140] He highlights a certain range of values;[73] these are a discount of 20% to 30% and a probability of exercising the option of 5% to 25%. Within these two ranges of value, the results go from -1.4% to 3.1%. He then points out that the mid‑range estimate, i.e. at a 25% discount and a 15% probability of exercise, has a result of a positive 0.4%. This would mean SGF’s shares are worth more than Kruger’s shares.
+[141] It is helpful to go to the schedule doing the calculation of this for 2006.[74] In it, one sees that he computes that SGF’s shares would have a value of $6,310,000 applying the clause in question, while Kruger’s shares would have a value of $6,260,000, a difference of $50,000.
+[142] Under his calculation, the difference is extremely small; SGF’s shares are worth 50.19% of the total and Kruger’s shares are worth 49.81% of the total. Given that, it is not surprising that he concludes the shares have essentially the same value.[75]
+[143] The results are extremely sensitive to the probability of exercise of the option and the appropriate discount.
+[144] I am unable to accept Mr. Lafontaine’s conclusion.
+[145] My first difficulty is with the probability of exercise of the option and the appropriate discount.
+[146] In the difficult circumstances of the appellant at that time, a 15% probability of exercise is too high. More importantly, I fail to understand, based on the report, why the 25% discount for marketability is chosen. In section 5.3.2, there is a discussion of the empirical data and the conclusion of the section in reference to various studies is that they show ranges from 0% to 35% with most results in the range from 15% to 25%.
+[147] Later in section 6.2.2, there is reference to a 25% discount for controlling interests,[76] but this comes after a table listing four kinds of studies. The last of the studies listed corresponds with the discussion earlier in section 5.3.2 of the report that is entitled “Acquisition Studies for Controlling Interests”. It is indicated that the range is 0% to 35% with most studies showing 15% to 25%.
+[148] Given this, choosing a 25% discount seems high, 20% is the middle of the range and more appropriate. At 20% and a probability of exercise of 15% or less, the table[77] shows the SGF shares as of slightly lower value than Kruger’s shares. At a probability of exercise of less than 15%, the difference increases.
+[149] This results in my concluding that Kruger’s shares are worth more than SGF’s shares even if one uses Mr. Lafontaine’s approach.
+[150] I note that for the same reasons clause 8.10 does not have the effect of reducing the value of Kruger’s shares to less than 50% of the value of all the shares.
+[151] My second difficulty is that I can not accept that clause 8.10 will have the effect suggested.
+[152] For the purposes of paragraph 256(1.2)(g) of the Act, we are already obliged to assume that, hypothetically, the shares of the appellant had no voting rights. We also have to pretend that in the years in question the shares could be sold, although under the Unanimous Shareholder Agreement it had been agreed that they could not be sold until later. However, we otherwise take the existing facts.
+[153] Here, we have to take into account that any buyer will have to adhere to the Unanimous Shareholder Agreement and abide by it; the buyer may rely on it as well with respect to the rights he receives.
+[154] However, when I examine the Unanimous Shareholder Agreement, I do not see how our hypothetical buyer could be the beneficiary of clause 8.10. I have examined clause 8.10 and the rest of the agreement and can only reach the conclusion that only SGF can claim the benefit of clause 8.10.
+[155] This is clear when one considers the agreement. First, clause 8.10 specifically gives the right to SGF; nothing in the clause or elsewhere in the agreement that I can find gives the rights in that clause to any successor to SGF.
+[156] Elsewhere in the agreement, there is provision for successors. For example, clause 8.11 allows Kruger[78] to compel SGF to sell its shares. There is specific reference in that provision to SGF or an “Authorized Assignee” thereby extending the obligation beyond SGF. “Authorized Assignees” are set out in clause 7.2 and are the Government of Quebec or certain entities owned by SGF or by the Government of Quebec.[79]
+[157] A more general example is the provision which requires a unanimous decision of shareholders in clause 8.9. Given that this is simply spelled out as applying to shareholders, it applies to all the shareholders whoever they might be. Indeed, the definition section cited above states that “shareholders” include authorized assignees and others who could become holders of the shares.
+[158] All of which is to say that while our hypothetical buyer will be bound by the agreement, he can not be a beneficiary of clause 8.10 and, as a result, he will not in our hypothetical sale pay any additional amount because of that clause. It follows that clause 8.10 will not increase the value of SGF’s shares.[80]
+[159] Having decided that Mr. Lafontaine’s report does not lead me to a conclusion other than Kruger’s shares are worth more than 50% of the value of the shares, I need only comment briefly on Mr. Johnson’s report. He also discusses control at length and, as a result of paragraph 256(1.2)(c) of the Act, all issues of control must be ignored.
+[160] He is of the view that there is no reason to discount the value of Kruger’s shares relative to the whole and that there is no reason to add a premium to the value of SGF’s shares relative to the whole. Nothing I have heard or read suggests otherwise. I agree with his conclusion.
+[161] Accordingly, there is no reason to depart from the starting point that 51% of the shares with the right to 51% of the dividends and of any distribution of the assets of the corporation are worth more than 50% of the fair market value.
+[162] It follows that, pursuant to paragraph 256(1.2)(c) of the Act, Kruger is deemed to control the appellant.
+Conclusion [163] As a result, paragraph 256(1.2)(c) deems Kruger to control the appellant and the appeal must be dismissed.[81]
+Signed at Ottawa, Ontario, this 14th day of April 2015.
+“Gaston Jorré”
+Jorré J.
+CITATION:
+2015 TCC 90
+COURT FILE NO.:
+2011-1739(IT)G
+STYLE OF CAUSE:
+KRUGER WAYAGAMACK INC. v. THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATES OF HEARING:
+10, 11, 12 September 2013 and 29 October 2013
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT:
+14 April 2015
+APPEARANCES:
+Counsel for the appellant:
+Wilfrid Lefebvre, Q.C.
+Vincent Dionne
+Counsel for the respondent:
+Marie-Andrée Legault
+Philippe Dupuis
+COUNSEL OF RECORD:
+For the appellant:
+Wilfrid Lefebvre, Q.C.
+Vincent Dionne
+Firm:
+Norton Rose Fulbright Canada
+Montreal, Quebec
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] There was an intermediary company, 3864057 Canada Inc., between Kruger and the appellant, but nothing turns on this; as for our purposes the result is the same as if Kruger owned the company directly. SGF Rexfor was a subsidiary of “Société générale de financement du Québec”, now replaced by a company known as “Investissement Québec”. There were also reorganizations involving SGF, but again, nothing turns on this. For the purposes of the judgment, I will just refer to Kruger and SGF.
+[2] There are no quantum issues. The taxation years in issue are 2003, 2004, 2005 and 2006.
+[3] [1998] 1 S.C.R. 795. In Duha, the Supreme Court was concerned with “control” and not “controlled, directly or indirectly in any manner whatever”. The words “controlled, directly or indirectly in any manner whatever” in paragraph 256(1)(a) of the Act as well as subsection 256(5.1) were added by subsection 192(1) of S.C. 1988, c. 55. Prior to that, paragraph 256(1)(a) read as follows:
+256(1) For the purposes of this Act one corporation is associated with another in a taxation year if at any time in the year,
+(a) one of the corporations controlled the other,
+. . .
+[4] In assessing whether someone has control, the various rights of shareholders must be assessed “over the long run”; see the majority decision of the Supreme Court in The Queen v. Imperial General Properties Ltd., [1985] 2 S.C.R. 288. See also the discussion below at paragraphs 67 to 69.
+[5] The “at any time in the year” requirement is contained in the opening of subsection 256(1) of the Act. The test must also be applied year by year.
+[6]Subsection 256(5.1) underscores that the scope of “controlled, directly or indirectly in any manner whatever” is very wide and that it includes control in fact.
+[7] Absent some other unique feature that will enable that shareholder to influence the other shareholders and exercise effective control.
+[8] 2004 TCC 734. The decision was upheld on appeal. The original French text of the paragraph reads as follows:
+39 Je trouve intéressante la définition de « contrôle » donnée dans le Vocabulaire juridique, 2e édition, Gérard Cornu, PUF 1990 à la page 207 :
+• 3 Maîtrise exercée sur la gestion d’une entreprise ou d’un organisme; pouvoir assurant à son détenteur une influence dominante dans la direction ou l’orientation des destinées d’un groupe, d’une société, etc.
+[9] See paragraph 85(2) of Duha.
+[10] See paragraph 85(2) of Duha as well as paragraphs 81 and 82. The question is to what degree has the majority of the board seen its power restricted.
+[11] Part of my reasoning in reading this conclusion is that, in Duha, the Supreme Court, when saying it was a question of degree of control, did not say that effective control would only be lost if the two parties were in a situation where the result of all the arrangements in place were such that a person, or persons, other than the person with a majority of the votes and directors, had virtually equal influence to that of the majority shareholder.
+[12] See the Charter of the Société générale de financement du Québec, L.R.Q., chapter S-17, section 4, as it then was.
+[13] The reasons for the shift from 50-50 to 51-49 are set out, inter alia, at page 3936, Tab 55, of Exhibit A-5.
+[14] See Exhibit A-3, Tab 33, page 1499, where SGF refers to the appellant as a 51% “jointly controlled company” and Tab 34, page 1550, where SGF refers to the appellant as a “coentreprise”.
+[15] There is no dispute that the agreement is a “unanimous shareholder agreement” within the meaning of the Canada Business Corporations Act. The agreement was also incorporated by reference into company by‑law No. 13.
+[16] This is referred to in the Unanimous Shareholder Agreement as the Management Services Agreement, but the actual agreement is called the Management Support Services Agreement.
+[17] Given that subsection 106(3) of the Canada Business Corporations Act requires the election of directors, the parties have to vote their shares to carry this out; indeed they have agreed to do so in clause 2.1.1 above.
+[18] The English version of clause 4.3.1.8, Exhibit A-2, Tab 19A, says “General Manager”; however, the French version, Exhibit A-3, Tab 44, says “contrôleur”. After reading clauses 4.3.1.7, 4.3.1.8, 4.7.1 and 4.7.2 in both languages as well as clause 6 at page 3 of the Management Support Services Agreement, Exhibit A-2, Tab 19F, I have concluded that the French version is the correct one because “Controller” makes sense in the context of those clauses whereas “General Manager” does not. I note that the French version in evidence is signed. The English version is not.
+[19] There were a number of amendments to the Unanimous Shareholder Agreement. They are at the back of Exhibit A-3, Tab 44. I note that the shareholders agreed on an amendment on 15 January 2002 whereby, among other things, they amended appendix D to substitute 31 March 2002 for 30 September 2001 — that date was later put back further; they also amended appendix D with the result that items 9 and 10 above were no longer contained in the appendix.
+The question arises whether there was a decision to eliminate these two preconditions or whether, when the new appendix D was redrafted, they were omitted because they had already been carried out.
+I have concluded that they were left out because those two conditions were already met. My reasons for doing so are these: First, it is clear from clauses 4.6.1 and 4.6.2 that there is still to be a Project Management Committee; second, from the agenda and minutes of the directors’ meeting of 19 July 2001 it is clear that the board of directors reviewed and approved the membership of the Project Management Committee, the business plan for the modernization of the mill and the expenditure of some $416 million to carry out that modernization. See Exhibit A-2, Tab 19C, at pages 964 to 969, especially at page 968. In those same minutes (at page 969), they discuss the need to put back the date to fulfill other, as yet unfulfilled, prerequisites.
+[20] When the shareholders make decisions in place of the directors pursuant to the Unanimous Shareholder Agreement, by virtue of subsection 146(5) of the Canada Business Corporations Act, they have all the rights, powers, duties and liabilities of a director.
+[21] See clauses 1.1.1.32, 3.1.1 and 4.9.1.1 of the Unanimous Shareholder Agreement. All subsequent references to clauses in these footnotes are to clauses of the Unanimous Shareholder Agreement.
+[22] See appendix D, items 9 and 10. As described in an earlier footnote this was done.
+[23] See Exhibit A-3, Tab 41, at page 1925. There were other requirements that also had to be fulfilled; failure to fulfill any of them could give rise to SGF’s right to require Kruger to purchase the shares.
+[24] See appendix B and clause 4.6.4. While clause 4.6.4 does not require unanimous approval and Mr. Bunze agreed that was the case, it is not quite so simple. While changes to deadlines needed only a majority, budget changes would require unanimity pursuant to clause 4.3.1.5. Further, if the change to the scope would have affected in a significant way the delivery of the project, that would require agreement of both shareholders pursuant to clauses 3.1.1, 1.1.1.32 and 4.9.1.1.
+[25] See clause 4.2. The appellant suggests that this provision gave leverage to SGF to stop decisions which did not require unanimity by preventing a quorum from being reached. While I accept that to an extent it does give leverage, I do not accept that it is of great force in itself for two reasons. First, using clause 4.2 in this way can only, in the end, result in a certain amount of delay given that it provides a way to move forward at a subsequent meeting without an SGF named director. Second, given subsection 122(1) of the Canada Business Corporation Act, a director would have to think very hard as to whether in any particular circumstance intentionally preventing a quorum from being reached was consistent with that provision and whether he might incur any liability in doing so.
+Subsection 122(1) reads:
+122(1) Every director and officer of a corporation in exercising their powers and discharging their duties shall
+(a) act honestly and in good faith with a view to the best interests of the corporation; . . .
+By virtue of subsection 146(5) of the Canada Business Corporations Act, this also applies to shareholders when acting in the place of directors pursuant to the Unanimous Shareholder Agreement.
+However, I would note that there is such a range of issues where Kruger and SGF must agree that there is no doubt a certain amount of pressure on both to try to keep the goodwill of the other; as a result, one would expect that Kruger would have to think carefully before using its majority if SGF felt very strongly. Again, I would not put great weight on this, but it is also a factor in the background.
+[26] See clauses 4.3 and 4.7.
+[27] See clause 4.7.1.
+[28] As set out in clauses 3.1.1 and 1.1.1.32.
+[29] See clauses 3.1.1, 1.1.1.32 and 4.9.1.1. In addition, the need for unanimity on the budget may have the same result to the extent any change in mission required any capital expenditures.
+[30] See the second paragraph of appendix B of the Unanimous Shareholder Agreement. Although usually this kind of management is left to the officers and executives of the corporation, nothing prevents the board from deciding to intervene in such decisions.
+[31] Although any labour negotiating mandate is necessarily constrained by budgetary considerations; budget decisions are unanimous.
+[32] As set out in clauses 3.1.1 and 1.1.1.32.
+[33] I would add that I agree with the respondent that this is not a joint venture in the sense that Kruger does, without question, have more influence than SGF.
+[34] As well as clause 14.1.
+[35] 69 DTC 5122 (Ex. Ct), affirmed by the Supreme Court of Canada, 71 DTC 5202. See also The Queen v. Imperial General Properties Ltd., [1985] 2 SCR 288, and Duha, at paragraph 48.
+[36] And not just those set out in paragraph 85(3) of Duha.
+[37] Exhibit A-2, Tab 19F. As previously noted, while it is referred to elsewhere as the Management Services Agreement, the actual agreement is entitled the “Management Support Services Agreement”.
+[38] See paragraphs C, D, 1 and 2 of the Management Services Agreement.
+[39] The same is true if any outside consultants are retained.
+[40] See clause 5 of the Management Services Agreement.
+[41] See clause 21 of the Management Services Agreement.
+[42] Also in Exhibit A-2, Tab 19F. Note that while referred to as the Marketing Agreement in the Unanimous Shareholder Agreement, it is in fact entitled “Sales Agency and Marketing Agreement”.
+[43] See paragraphs 11 to 16 of the Marketing Agreement.
+[44] See paragraph 6 of the Marketing Agreement.
+[45] Exhibit A-3, Tab 43, pages 1964 to 1975. There is a subsequent amendment to the contract at pages 1967 and 1968 which is placed in the middle of the original contract.
+[46] See addendum 2 of the Kraft Pulp Selling Agreement.
+[47] SGF Rexfor Inc.
+[48] As can be seen by examining the relevant portions of the annual reports at Tabs 34 to 39 of Exhibit A-3.
+[49] That knowledge was something SGF wanted.
+[50] The situation with a pure financial investor might well be different. A financial investor might not care about the overall course of the enterprise so long as it was financially successful and, accordingly, in comparison to here a financial investor would probably have some materially different terms in any unanimous shareholder agreement.
+I might add that I considered for this purpose whether Kruger controls the appellant’s pricing. The answer is in one sense yes; however, that is, in my view, a simplification. Kruger controls its own paper pricing. SGF and Kruger have unanimously agreed to piggyback the appellant’s pricing onto that of Kruger and can only change that arrangement if they are unanimous. It gives Kruger only a limited degree of control since it can determine the price of that grade of product for both itself and the appellant, but it can not price the appellant’s product differently. It does not change the balance.
+[51] 2007 FCA 136.
+[52] The French language text of the section does not provide additional assistance and the technical notes to the original amendments do not provide much in the way of additional guidance. The only paragraph that relates to this aspect is the second paragraph of the following excerpt taken from the Budget Papers — Supplementary Information and Notices of Ways and Means Motions on the Budget, tabled in the House of Commons by the Honourable Michael H. Wilson, Minister of Finance, February 10, 1988, as reproduced in TaxPartner (under the heading “Technical Notes”):
+Control
+Corporations that are controlled by the same person or group of persons are considered a single economic entity and therefore associated. For this purpose, “control” is not defined in the Income Tax Act but is determined on the basis of a large body of jurisprudence which has developed over time. The test of control which has emerged is a relatively narrow one, generally referred to as de jure control, under which the most important single factor considered is the voting rights attached to shares. The test of control has traditionally been the ownership of such a number of shares as carries with it the right to a majority of the votes in the election of the board of directors. Under existing law, however, it has been possible to circumvent the associated corporation rules, through the use of special voting agreements, special classes of shares or by ownership of shares by intermediaries.
+Changes to the associated corporation rules will be made to ensure that they operate in a more effective manner. First, the meaning of control will be extended to include circumstances of factual control. Second, a person or group of persons owning more than 50 per cent of the fair market value of all the issued shares of the capital stock of a corporation (other than certain preferred shares) or more than 50 per cent of the fair market value of all the issued common shares of the capital stock of a corporation will be treated as controlling the corporation, notwithstanding the fact that the person or group of persons does not own a majority of the voting shares of the corporation.
+[53] At the time of the hearing, I accepted that both experts are well‑qualified and that their evidence is both relevant and necessary. I also note that the respondent’s report was also prepared by Kim Jezior. Both experts did discuss control at length although, as indicated above, the fiction created by paragraph 256(1.2)(g) of the Act requires that control, or lack thereof, be ignored.
+[54] That estimate will be found at Tab 21 of Exhibit A-2 starting at page 1212; it is also attached to Mr. Lafontaine’s report, Exhibit A-8 at Tab 9. Broadly speaking, the estimate is done by estimating the expected cash flows over a period, discounting those flows back to the present, and adding a discounted residual value at the end of the estimate period. Mr. Lafontaine uses the range of about $17 million to about $42 million as the range of value of all the shares of the appellant. This is the third line from the bottom at page 1213 in Tab 21. At first, I could not understand why this was used as opposed to the bottom line of that page which shows a range of $105 million to $130 million and is described as “Fair market value of all the issued and outstanding shares of Kruger Wayagamack Inc. as at December 31, 2006”.
+When one examines the entire estimate, especially appendix XI at pages 1267 and 1268, it turns out that this higher number is the result of an agreement made on 27 April 2007 with Investissement Québec, whereby Investissement Québec modified the terms of its subordinated term loan to the appellant in a way that was quite beneficial for the appellant. Mr. Lafontaine decided not to take account of this because it was not known to anyone until after the end of the period for which he was preparing his valuation.
+[55] See page 12 of his report at the top.
+[56] Such as the prohibition on sales of shares until 8 May 2007, the rights of first refusal, etc. The particular factors considered are in section 6.2.2 of the expert report, Exhibit A-7; the same report is also at Exhibit A-8 which attaches many supporting documents. The report in Exhibit A-8 is more readable than the copy in Exhibit A‑7. There is also an enumeration of liquidity factors at section 2.2.2 of the report.
+[57] At the beginning of section 7.4 on page 25 of his report. He does not suggest that any of the other rights could change relative values.
+[58] See the penultimate paragraph at page 21 of this report.
+[59] In this I agree with Mr. Johnson; see his report, Exhibit R-2.
+[60] Required by paragraph 256(1.2)(g) of the Act.
+[61] While paragraph 256(1.2)(g) creates a kind of legal fiction for the purposes of the Act, one can conceive of emergency circumstances, such as wartime, where the owners of a company or assets might be deprived of control notwithstanding the fact that their ownership and ultimate right to financial benefits of ownership continued to be recognized. A historical example that fits, in many, but not all, ways is the Norwegian Shipping and Trade Mission (Nortraship) during World War II consisting of the vast majority of the Norwegian merchant marine (all that did not fall under German control) requisitioned by the Royal Norwegian Government. Nortraship is credited with playing a major role in the allied victory.
+[62] See the second half of section 7.3 of his report at page 25.
+[63] The 4.1% is the result of this computation: If SGF’s shares were otherwise worth 49% and Kruger’s shares 51%, if the clause increased the value of the SGF shares to more than 51%, SGF’s shares are worth more than Kruger’s shares. Two divided by 49 equals approximately 4.08% so a 4.1% relative increase would be enough to make Kruger’s shares more valuable.
+[64] Pages 25 to 27 of his report.
+[65] For reasons set out in the first bullet on page 26 of his report; control must also be ignored for the reasons I have previously set out.
+[66] The value that was prepared by another firm; see paragraph 101 and footnote 54 above.
+[67] Page 26 of his report.
+[68] See notes 6b) and 15 to the financial statements for the 31 December 2006 year, Exhibit A-2, Tab 27.
+[69] Exhibit A-2, Tabs 24 to 27.
+[70] See paragraph 101 above.
+[71] See the first bullet on page 26 of his report which contains a cross-reference to section 5.5.2 of his report. I believe there is a typo in the bullet. There is no section 5.5.2; the reference appears to be to section 5.3.2.
+[72] Calculations using a probability of exercise of the option of 15% and a marketability discount of 25% are set out in schedules 6A to 6D of his report.
+[73] In the box with the dotted lines within the table.
+[74] Schedule 6A, page 35 of the report.
+[75] The schedules doing the same computation for 2003, 2004 and 2005 show equally close results.
+[76] See page 21 of the report.
+[77] I am still referring to the table at page 27 of his report.
+[78] The clause in fact refers to the intermediary company owned by Kruger, but since it has no effect on the outcome, I am, for simplicity, continuing to ignore the intermediary company as I indicated in the first footnote.
+[79] The English text of clause 8.11 refers to a “certified” assignee, but an examination of the original French text of clauses 7.2 and 8.11 makes it evident that it should refer to an authorized assignee.
+[80] I wish to mention one other issue in relation to clause 8.10.
+The analysis of Mr. Lafontaine assumes that the definition of “Fair Market Value” in clause 1.1.1.17 operates in the following way: There is a fair market value of all the shares which takes into account a marketability discount for all the shares sold together and, when one determines the fair market value of the shares owned by SGF, the definition requires one to ignore any marketability discount that affects all the shares as well as any marketability discount that is specific to SGF’s shares. Thus, it would ensure that SGF, if clause 8.10 were actually exercised, got not only its 49%, but potentially more.
+The definition may alternatively mean that what is to be ignored is only any marketability discount specific to those shares, in which case it simply ensures that, on exercise of clause 8.10, SGF would get its 49%, but no more.
+I do not need to decide the point.
+[81] It is unnecessary for me to deal with the other alternative arguments made by the respondent.

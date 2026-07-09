@@ -1,0 +1,160 @@
+---
+title: "Rouimi c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/407502/index.do"
+last_modified: "2019-06-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 126"
+citation2: ""
+neutral_citation: "2019 CCI 126"
+decision_date: "2019-06-03"
+language: "fr"
+item_id: "407502"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4369
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:16:06.091000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "37966ed06c5662f206d8d317bcc1c0dab85b109d712c11023afeb139bd6c7aa6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rouimi c. La Reine
+
+- Citation: 2019 CCI 126
+- Decision date: 2019-06-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4369, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rouimi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-06-03
+Référence neutre
+2019 CCI 126
+Numéro de dossier
+2009-564(IT)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-564(IT)G
+ENTRE :
+ALBERT ROUIMI,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Requête en annulation de jugement fixée pour audition le 3 novembre 2015, le 26 mai 2016 et le 23 avril 2019 à Montréal (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Pour le requérant :
+Personne n’a comparu
+Avocat de l’intimée :
+Me Emmanuel Jilwan
+JUGEMENT
+Suite au défaut de comparution du requérant, la requête de l’intimée est accueillie et la requête du requérant en annulation de jugement est rejetée.
+Des frais de cinq cents dollars (500 $) sont accordés à l’intimée.
+Signé à Hamilton, Ontario, Canada, ce 3e jour de juin 2019.
+« Johanne D’Auray »
+Juge D’Auray
+Référence : 2019 CCI 126
+Date : 20190603
+Dossier : 2009-564(IT)G
+ENTRE :
+ALBERT ROUIMI,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge D’Auray
+[1] À la suite du défaut de comparution du requérant lors de l’audience, l’intimée a présenté une requête en vertu de l’article 140 des Règles de la Cour canadienne de l’impôt (Procédure générale) (les « Règles ») demandant à la Cour de rejeter la requête en annulation de jugement, déposée par le requérant auprès de cette Cour le 5 février 2015.
+I. Les faits
+[2] Le 17 décembre 2007, la ministre du Revenu national (la « ministre ») établit à l’égard du requérant, M. Albert Rouimi, des avis de nouvelle cotisation pour les années d’imposition 2001 à 2006.
+[3] Suite à ces nouvelles cotisations datées du 17 décembre 2007, le requérant a présenté à la ministre des avis d’opposition. Le 24 novembre 2008, la ministre a ratifié les avis de nouvelle cotisation.
+[4] Le 18 janvier 2009, Me Dany S. Perras, avocat inscrit au dossier du requérant selon l’article 31 des Règles, dépose un avis d’appel pour le requérant.
+[5] Le 24 avril 2009, Me Annick Provencher, avocate de l’intimée, dépose une réponse à l’avis d’appel.
+[6] Le 21 mai 2009, Me Perras dépose une réplique à la réponse à l’avis d’appel de l’intimée.
+[7] Le 8 juillet 2009, Me Perras avise la Cour et l’intimée qu’il pratiquera dorénavant avec l’étude Spiegel Sohmer et qu’il continuera à représenter le requérant.
+[8] Le 8 juillet 2009, Me Perras fait parvenir une offre de règlement à l’intimée (« l’offre »).
+[9] Le 19 octobre 2009, l’intimée présente une contre-offre à l’offre de Me Perras (la « contre-offre »).
+[10] Le 27 octobre 2009, Me Perras informe l’intimée qu’il refuse la contre‑offre et propose une contre-offre.
+[11] Le 29 octobre 2009, Me Provencher pour l’intimée avise Me Perras que sa contre-offre datée du 27 octobre 2009 est refusée.
+[12] Le 30 novembre 2010, Me Perras avise Me Provencher qu’il accepte de régler les appels du requérant, conformément à la contre-offre de l’intimée datée du 19 octobre 2009. Le consentement à jugement est signé par Me Perras pour le requérant et par Me Provencher pour l’intimée et déposé auprès de cette Cour le 30 novembre 2010.
+[13] Le 1er décembre 2010, le juge Archambault rend jugement conformément au consentement à jugement, accueillant les appels pour les années d’imposition 2001 à 2003 et maintenant les nouvelles cotisations pour les années 2004 à 2006.
+[14] Le 7 mai 2014, le Conseil de discipline du Barreau du Québec radie Me Perras pour une période minimale de 10 ans. À partir de ce moment, le requérant décide de se représenter lui-même.
+[15] Le 5 février 2015, le requérant dépose une requête en annulation de jugement. Ce dernier fait valoir que le jugement daté du 1er décembre 2010 est invalide puisqu’il n’a jamais autorisé son avocat, Me Perras, à consentir à jugement.
+[16] Le 20 février 2015, l’intimée fait valoir que la requête déposée par le requérant n’est pas conforme aux Règles, plus particulièrement au paragraphe 66(2) et à l’article 67.
+[17] Le 10 mars 2015, la Cour informe le requérant qu’il doit déposer une nouvelle requête conformément aux Règles et qu’il doit joindre une déclaration sous serment à l’appui de cette dernière.
+[18] Le 20 avril 2015, le requérant demande à cette Cour de prolonger le délai pour le dépôt de sa requête en annulation de jugement. La Cour acquiesce à la demande et fixe le nouveau délai au 15 mai 2015.
+[19] Le 15 juin 2015, la JCA Lamarre fixe la requête en annulation du jugement au 3 novembre 2015, devant la Cour canadienne de l’impôt à Montréal.
+[20] Le 3 novembre 2015, le requérant se présente à la Cour. Il n’a aucune preuve à déposer qui pourrait démontrer qu’il n’a pas autorisé Me Perras à régler son dossier. La Cour ajourne le dossier afin que le requérant contacte Me Perras afin d’obtenir une preuve documentaire.
+[21] À cet effet, le 30 novembre 2015, la Cour rend une ordonnance ajournant l’audience du 3 novembre et ordonne que l’audition de la requête se poursuive le jeudi 26 mai 2016, devant la Cour canadienne de l’impôt à Montréal.
+[22] Le 26 mai 2016, lors de l’appel du rôle, Me Édith Fortin se présente comme la nouvelle avocate du requérant. Elle demande un ajournement afin de préparer le dossier.
+[23] Le 14 juin 2016, la Cour rend une ordonnance dans laquelle elle ajourne la requête en annulation de jugement jusqu’au mois de septembre 2016.
+[24] Le 15 juin 2017, la Cour ordonne que l’audition de la requête se poursuive le mercredi 29 novembre 2017, devant la Cour canadienne de l’impôt à Montréal.
+[25] Le 13 novembre 2017, soit peu de temps avant l’audience fixée au 29 novembre 2017, Me Fortin demande à la Cour d’ajourner la requête pour des raisons de santé. Elle demande l’ajournement de l’audience jusqu’à ce qu’elle se rétablisse et puisse représenter le requérant.
+[26] Le 14 novembre 2017, l’intimée confirme qu’elle ne s’oppose pas à ce que l’audience soit ajournée.
+[27] Le 17 novembre 2017, la Cour accorde la demande d’ajournement de Me Fortin. L’audience est suspendue pour une période de trois mois, date après laquelle Me Fortin devra confirmer si le requérant souhaite continuer à présenter sa requête en annulation de jugement.
+[28] Le 16 avril 2018, la Société d’avocats Veilleux informe la Cour dans une lettre datée du 13 avril 2017, que Me Fortin n’est plus en mesure de représenter le requérant en raison de problèmes de santé et que la Société d’avocats Veilleux ne sera pas en mesure de le représenter non plus. À partir de ce moment, le requérant se représente lui‑même.
+[29] Le 5 juillet 2018, la Cour informe le requérant que sa requête sera fixée à la prochaine séance disponible à Montréal.
+[30] Le 12 octobre 2018, la Cour ordonne que l’audition de la requête en annulation de jugement soit fixée de façon péremptoire au mardi 23 avril 2019, devant la Cour canadienne de l’impôt à Montréal.
+[31] Le 23 avril 2019, lors de l’appel du rôle, le greffier appelle le dossier du requérant deux fois. La première fois à 9h34, et la deuxième fois à 9h58. Le requérant est absent. De plus, personne ne comparaît en son nom.
+[32] Il ressort du dossier de la Cour que le requérant a été dûment avisé par courrier recommandé le 15 octobre 2018, par le greffier de cette Cour que sa requête était inscrite au rôle pour audition le 23 avril 2019 à 9h30, au 30, rue McGill à Montréal.
+[33] Le dossier de la Cour contient une preuve documentaire qui établit que le requérant a reçu et a lui-même signé à la réception de l’avis d’audience livré par Poste Canada.
+[34] Compte tenu du défaut de comparution du requérant, la Cour :
+a) Accueille la requête de l’intimée, et
+b) Rejette la requête du requérant en annulation de jugement.
+[35] De plus, considérant que le requérant n’a jamais avisé la Cour de son absence et eu égard aux demandes d’ajournement dans ce dossier, des frais de cinq cents dollars (500 $) sont accordés à l’intimée.
+Signé à Hamilton, Ontario, ce 3e jour de juin 2019.
+« Johanne D’Auray »
+Juge D’Auray
+RÉFÉRENCE :
+2019 CCI 126
+Nº DU DOSSIER DE LA COUR :
+2009-564(IT)G
+INTITULÉ DE LA CAUSE :
+ALBERT ROUIMI c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 3 novembre 2015, le 26 mai 2016 et le 23 avril 2019
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 3 juin 2019
+COMPARUTIONS :
+Pour le requérant :
+Personne n’a comparu
+Avocat de l’intimée :
+Me Emmanuel Jilwan
+AVOCAT INSCRIT AU DOSSIER :
+Pour le requérant:
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

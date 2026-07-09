@@ -1,0 +1,208 @@
+---
+title: "Couture c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26616/index.do"
+last_modified: "2005-08-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 448"
+citation2: ""
+neutral_citation: "2005 TCC 448"
+decision_date: "2005-08-25"
+language: "en"
+item_id: "26616"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3624
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:25:39.449000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b5e4442a75d8cbdd32234662a772a88ff508019263c850230e9b6acc3eb6cc7c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Couture c. M.R.N.
+
+- Citation: 2005 TCC 448
+- Decision date: 2005-08-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3624, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Couture c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-25
+Neutral citation
+2005 TCC 448
+File numbers
+2004-3290(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-3290(EI)
+BETWEEN:
+LUC COUTURE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on July 4, 2005, at Chicoutimi, Quebec.
+Before: The Honourable Judge Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Jean Hudon
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of August 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 30th day of November 2005.
+John March, Translator
+Citation: 2005TCC448
+Date: 20050825
+Docket: 2004-3290(EI)
+BETWEEN:
+LUC COUTURE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal concerning the insurability of an employment. The period in issue is from May 4, 1998 to March 18, 1999.
+[2] The point for determination is who the appellant's actual employer was: the Coopérative forestière Manicouagan-Outardes (the "Cooperative") or 9010-7152 Québec Inc. for the period from May 4 to October 6, 1998, and the Cooperative or 9068-9902 Québec Inc. for the period from October 7, 1998, to March 18, 1999. The appellant held 50 percent of the voting shares of the former corporation and 100 percent of the voting shares of the latter.
+[3] In making the decision in appeal, the Canada Customs and Revenue Agency made the following assumptions of fact:
+[TRANSLATION]
+(a) the Cooperative, which was incorporated on May 3, 1980, operated a forestry business; (admitted)
+(b) it performed wood cutting and sylvicultural work; (admitted)
+(c) 9010-7152 Québec Inc. was incorporated on October 20, 1994; (admitted)
+(d) the appellant and Mario Girard were equal shareholders of 9010-7152 Québec Inc.; (admitted)
+(e) on October 1, 1998, 9010-7152 Québec Inc. was merged with 9067-5232 Québec Inc. to form 9068-9902 Québec Inc.; (admitted)
+(f) the appellant was the sole shareholder of the new corporation, 9068-9902 Québec Inc.; (admitted)
+(g) 9010-7152 Québec Inc. and 9068-9902 Québec Inc. were the successive owners of a multifunctional head feller and a shortwood forwarder, worth a total value of approximately $1,000,000; (admitted)
+(h) during the period in issue, the payer retained the services of the feller and forwarder first from 9010-7152 Québec Inc., and then from 9068-9902 Québec Inc., in order to cut wood; (admitted)
+(i) a crew of five workers operated both pieces of equipment; (admitted)
+(j) the Cooperative had entered into a written contract entitled "Contract of Lease and Hire of Mechanized Felling Services" with 9010-7152 Québec Inc. and subsequently with 9068-9902 Québec Inc.; (admitted)
+(k) 9010-7152 Québec Inc. and subsequently 9068-9902 Québec Inc. were supposed to have liability insurance for the feller and forwarder for the entire term of the contract with the Cooperative; (admitted)
+(l) 9010-7152 Québec Inc. and subsequently 9068-9902 Québec Inc. were responsible for maintaining both machines; (admitted)
+(m) the Cooperative remunerated 9010-7152 Québec Inc. and 9068-9902 Québec Inc. based on the number of cubic meters of wood cut; (admitted)
+(n) during the period in issue, the appellant worked as a feller operator and mechanic; (admitted)
+(o) the appellant and the other workers operating the machines were remunerated at an hourly rate; (admitted)
+(p) the Cooperative paid the wages of the appellant and the other workers operating the machines directly to them; (admitted)
+(q) the Cooperative deducted amounts owed to 9010-7152 Québec Inc. and subsequently to 9068-9902 Québec Inc. from the wages of the appellant and the other workers operating the equipment, plus a certain percentage (23 percent) for vacation and leave pay and for management contributions to various social plans such as employment insurance, health insurance and the Commission de la santé et de la sécurité au travail; (amended)
+(r) 9010-7152 Québec Inc. and 9068-9902 Québec Inc. paid all of wages of the operators of their equipment; (admitted)
+(s) during the period in issue, the appellant was in the service of 9010-7152 Québec Inc. and, subsequently, of 9068-9902 Québec Inc., not of the Cooperative. (admitted)
+[4] All the facts assumed were admitted, except paragraph (q), which was amended to state that the percentage was 23 percent, not 27.1 percent.
+[5] The appellant testified in support of the appeal. He filed two exhibits forming the basis of his appeal: A-1, the contract of service for wood-felling and transportation, and A-2, the contract of employment.
+[6] He explained that, during the period in issue, he had been a shareholder in the two corporations that had leased two large machines from the Cooperative: a feller and a transporter; the former cut the wood and the latter transported it to the road.
+[7] Five persons, including the appellant, were needed to operate this machinery 24 hours a day. He explained that the Cooperative had a foreman on the site who was responsible for three crews like his.
+[8] The machinery, which had belonged first to the corporation in which the appellant held 50 percent of the shares, then to the corporation in which he held 100 percent of the shares, was worth approximately $1 million.
+[9] The Cooperative's foreman was responsible for three crews, including that of the appellant; he supervised the work performed so that everything met expectations with regard to work quality.
+[10] All the expenses relating to the maintenance and use of the feller and forwarder, as well as all employer and employee social benefits contributions and premiums were deducted from the rent for the machinery, that is the feller and the forwarder.
+[11] The rental income was calculated on the basis of the volume of wood cut and transported. The evidence, which consisted solely of the appellant's testimony, essentially focused on the Cooperative's involvement in control of the work and in the administrative management of all expenses arising from the leasing of the feller and forwarder.
+[12] The appellant provided a certain number of examples to show that the Cooperative was indeed his employer and that he had always been under the control of the Cooperative through one of its representatives acting as foreman at the job site.
+[13] Although it never happened, he contended that the Cooperative could have assigned any person it chose to operate either piece of equipment; he also stated that he himself had chosen the members of his five-person team, including him, but that the Cooperative had to approve his choices.
+[14] Had the appellant been asked to work with or for another team in the event of a major equipment breakdown, his wages and all fringe benefits would have been borne by the owner of the equipment of the other crew in question, not by the Cooperative.
+[15] The appellant hired the people who operated the machines and worked with him, but he had to have the Cooperative's approval. All those remunerated by the Cooperative had to be members of the Cooperative.
+[16] The appellant also stated that he had completed his crew members' time sheets. The wages of all crew members, including the appellant, were charged directly to rental income from the two machines.
+[17] It was established that maintenance expenses, operating expenses such as diesel fuel expenses, repair costs, wages and so on were deducted from the amount the Cooperative paid to rent the two machines, the value of which was approximately $1 million.
+[18] In theory, these elements suggest that the contract of lease of the machines might have been a genuine contract for services, not a contract of service as provided in the contract of employment (A-2).
+[19] Analysis of the expenses paid by the Cooperative but charged against rental income shows that the leasing company controlled by the appellant paid all the premiums, including those owed by the employer. In other words, even though, according to the appellant, his employer was the Cooperative, in actual fact, the premiums and contributions that the Cooperative should normally have borne were paid by the corporation that he controlled out of the rental income, thus creating a very strong presumption that the Cooperative was in fact essentially the appellant's apparent employer.
+[20] Furthermore, it is important to bear in mind that the appellant admitted that all the expenses of his crew members were deducted from rental income, a very surprising and even decisive admission for the outcome of his appeal.
+[21] Although the parties expressly defined the nature of the employment relationship, that in no way binds this court, which must extend its analysis beyond the agreement that the parties made. In defining the nature of the contract, the respondent was entirely justified in considering all the relevant facts relating to the performance of the work in issue.
+[22] For a contract for services to be changed into a contract of service, there must be consistency with the actual facts of a contract of service.
+[23] A contract of service, as provided by the Employment Insurance Act, must be based on the facts and actual terms and conditions of the work performed, not solely on the intention of the parties or on arrangements that they have made, even if those arrangements are consistent with their intent.
+[24] Since only the appellant testified, the Court was thus unable to compare his version with that of the other party.
+[25] However, it is clear to me that the Cooperative and the various equipment lessors wanted all the equipment owners to be protected by employment insurance, which is entirely legitimate. Although legitimate, however, such a concern required that all the facts related to the work performed meet the requirements of the Employment Insurance Act and its Regulations with respect to a contract of service.
+[26] At the outset, the fact of owning equipment of a very high value means that a person is first and foremost a contractor in his field of economic activity. This is in no way a comparable situation to that of a woodcutter who owns a chainsaw worth a few thousand dollars or that of a mechanic who owns the toolbox he takes with him from one employer to another.
+[27] In the instant case, the equipment, which was owned by the company controlled by the appellant, had a value in the order of $1 million. The appellant, who held all the shares of the corporation that owned these assets during one period and 50 percent of the shares during the other period definitely cannot be compared to the other employees who had virtually no assets for or in the context of the performance of their work. Clearly, the Cooperative, which was apparently the appellant's employer, was essentially the mandatary of the corporation that he controlled for the payment of all charges that a genuine employer must bear.
+[28] Section 10 of the Insurance Earnings and Collection of Premiums Regulations provides as follows:
+Other Deemed Employers
+10.(1) Where, in any case not coming within any other provision of these Regulations, an insured person works
+(a) under the general control or direct supervision of, or is paid by, a person other than the insured person's actual employer, or
+(b) with the concurrence of a person other than the insured person's actual employer, on premises or property with respect to which that other person has any rights or privileges under a licence, permit or agreement,
+that other person shall, for the purposes of maintaining records, calculating the insurable earnings of the insured person and paying, deducting and remitting the premiums payable on those insurable earnings under the Act and these Regulations, be deemed to be the employer of the insured person in addition to the actual employer.
+(2) The amount of any employer's premium paid by the person who is deemed to be the employer under subsection (1) is recoverable by that person from the actual employer.
+(3) Where a person who is deemed under these Regulations to be an employer of an insured person fails to pay, deduct or remit the premiums that an employer is required to pay, deduct or remit under the Act or these Regulations, the provisions of Parts IV and VI of the Act shall apply to the person as if the person were the actual employer.
+[29] Furthermore, in addition to the facts admitted by the appellant, the answers provided by the Cooperative to a questionnaire signed by the general manager on October 29, 2002, are quite revealing in this regard. A number of passages from that questionnaire are reproduced below:
+[TRANSLATION]
+[...]
+Who must pay for repairs to the machines of the equipments parts owners in case of breakdown? (Owner)
+Who must pay for the fuel of the machines of the equipment parts owners when they are in operation? (Owner)
+[...]
+From what source are the employer/employee benefits withheld for the equipment parts owners and their employees for: pension, vacation leave, group, wage-loss and health insurance, as well as government deductions (income tax, QPP, CSST, unemployment insurance, etc.)? (Machine rent)
+What is your contribution (lessee/employer) to the pay of the equipment parts owners and employees working on their machines, if any? Is it deducted from the machine rent of the equipment parts owner or paid out of the profits of your business? (Machine rent)
+What is the percentage of side benefits that you have to pay for?
+Equipment parts owner: 23 percent (included in rent of owner's machine)
+His employees: 23 percent
+[...]
+[30] In D & J Driveway Inc. v. Canada (M.N.R.), [2003] F.C.J. No. 1784 (Q.L.), 2003 FCA 453, Létourneau J.A. of the Federal Court of Appeal wrote:
+It should be noted at the outset that the parties' stipulation as to the nature of their contractual relations is not necessarily conclusive and the Court which has to consider this matter may arrive at a contrary conclusion based on the evidence presented to it: Dynamex Canada Inc. v. Canada, [2003] 305 N.R. 295 (F.C.A.). However, that stipulation or an examination of the parties on the point may prove to be a helpful tool in interpreting the nature of the contract concluded between the participants.
+[Emphasis added.]
+[...]
+[31] In that same judgment, Noël J.A. held as follows:
+[...]Décary J.A. said in Charbonneau v. Canada (Minister of National Revenue - M.N.R.), [1996] F.C.J. No. 1337, [1996] 207 N.R. 299, followed in Jaillet v. Canada(Minister of National Revenue - M.N.R.), 2002 FCA 394, control of the result and control of the worker should not be confused. At paragraph 10 of the decision, he wrote:
+It is indeed rare for a person to give out work and not to ensure that the work is performed in accordance with his or her requirements and at the locations agreed upon. Monitoring the result must not be confused with controlling the worker.
+[Emphasis added.]
+[32] A contract of employment requires a relationship of subordination between the payer and employees. The notion of control is the fundamental and decisive test in assessing the existence and extent of that relationship.
+[33] In the instant case, the Cooperative had a foreman on the job sites to ensure that the work was properly done. The manner in which it was done was the responsibility of the appellant and of the team that he directed and especially that operated the costly and sophisticated machines that were the property of the corporation he controlled. The presence of a Cooperative foreman on the job sites was part of the control of the result.
+[34] In the instant case, there is no doubt that the Coopérative forestière Manicouagan-Outardes was essentially the apparent employer, the actual employer being 9010-7152 Québec Inc. for the period from May 4 to October 6, 1998, and 9068-9902 Québec Inc. for the period from October 7, 1998 to March 18, 1999, mainly for the following reasons.
+· The wages that the appellant received were essentially based on the rental of the equipment owned by the corporation he controlled. In the event the contract of lease was terminated, the wages paid to him automatically stopped; in addition, the duration of the work was also based on the rental period.
+· All the expenses, including those related to remuneration, premiums paid to the Commission de la santé et de la sécurité du travail and for employment insurance, were paid out of the machine rental income, both the employer and employee portions.
+[35] For all these reasons, I find that the appellant's actual employer was 9010-7152 Québec Inc. during the period from May 4 to October 6, 1998, and 9068-9902 Québec Inc. during the period from October 7, 1998 to March 18, 1999. As the appellant held 50 percent of the voting shares of the former corporation and 100 percent of the latter, the appellant could not hold insurable employment, as he held more than 40 percent of the voting shares.
+[36] The appellant could not perform his work under a contract of service. The legislator has expressly excluded such work from insurable employment. That exclusion is provided for in paragraph 5(2)(b), which states that the employment of a person by a corporation if the person controls more than 40 percent of the voting shares of the corporation is excluded from insurable employment.
+[37] The time sheets and work organization were the responsibility of the appellant, who had every interest in matters being done properly since the whole had a direct effect on the rental income from the machines that the corporation he controlled had leased.
+[38] Consequently, the appeal must be dismissed in view of the fact that the determination here in appeal was well founded in fact and in law.
+Signed at Ottawa, Canada, this 25th day of August 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 30th day of November 2005.
+John March, Translator
+CITATION: 2005CCI448
+COURT FILE No.: 2004-3290(EI)
+STYLE OF CAUSE: Luc Couture and M.N.R.
+PLACE OF HEARING: Chicoutimi, Quebec
+DATE OF HEARING: July 4, 2005
+REASONS FOR JUDGMENT BY: The Honourable Judge Alain Tardif
+DATE OF JUDGMENT: August 25, 2005
+APPEARANCES:
+Counsel for the Appellant
+Jean Hudon
+Counsel for the Respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jean Hudon
+Firm: Larouche Lalancette Pilote Bouchard
+City: Alma, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

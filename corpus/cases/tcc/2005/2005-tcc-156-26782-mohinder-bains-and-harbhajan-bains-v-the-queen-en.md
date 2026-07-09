@@ -1,0 +1,162 @@
+---
+title: "Mohinder Bains and Harbhajan Bains v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26782/index.do"
+last_modified: "2005-02-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 156"
+citation2: ""
+neutral_citation: "2005 TCC 156"
+decision_date: "2005-02-24"
+language: "en"
+item_id: "26782"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3462
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:59:24.239000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1145312b87c21a02b4b56fc7904a052912978d52fa0616a0be349c4a96b13466"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mohinder Bains and Harbhajan Bains v. The Queen
+
+- Citation: 2005 TCC 156
+- Decision date: 2005-02-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3462, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mohinder Bains and Harbhajan Bains v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-24
+Neutral citation
+2005 TCC 156
+File numbers
+2003-2293(GST)I
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-2293(GST)I
+BETWEEN:
+MOHINDER BAINS and HARBHAJAN BAINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 18, 2004, at Victoria British Columbia,
+By: The Honourable Justice A.A. Sarchuk
+Appearances:
+Counsel for the Appellant:
+Kim E. Johnson
+Counsel for the Respondent:
+Stacey Michael Repas
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated September 30, 2002, and bears number 11CU2000886, for the period January 1, 1993 to December 31, 2000 is dismissed.
+Signed at Ottawa, Canada, this 24th day of February, 2005.
+"A.A. Sarchuk"
+Sarchuk J.
+Citation: 2005TCC156
+Date: 20050224
+Docket: 2003-2293(GST)I
+BETWEEN:
+MOHINDER BAINS and HARBHAJAN BAINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sarchuk J.
+[1] This appeal by Mohinder Bains and Harbhajan Bains is from an assessment by the Minister of National Revenue dated September 30, 2002 for unreported net tax, penalty and interest, calculated to September 27, 2002, of $22,501.59, $6,466.60 and $5,306.97, respectively. The assessment was based on annual taxable commercial rental revenues above the $30,000 threshold reported since late 1991 for income tax purposes which led the Minister to register the Appellant as a partnership on October 1, 2001 under Part IX of the Excise Tax Act, (the Act) effective January 1, 1993 and assigned the partnership a registration number.
+Factual Background
+[2] For a number of years prior to the acquisition of the property in issue, Harbhajan was employed as a real estate agent. In 1979, he purchased a 50% interest in commercial real property located at 801 Deloume Road, Mill Bay, British Columbia (the "property"). In 1980, he and Mohinder, acquired the remaining half interest and in November 1980, they were registered with the Land Titles Office as joint tenants of the property. At the time of purchase, the property consisted of two "units", one occupied by a grocery store and the other by a Post Office. The purpose of the purchase was to acquire the grocery store which they intended to continue as a business in which the family would be involved. The evidence of both Harbhajan and Mohinder indicates that their roles and functions in carrying on the grocery business were virtually interchangeable and each of them did "what needed to be done, wherever we were needed". During the period 1980 to 1989, their main concern was the operation of the grocery store as well as maintenance of the portion leased to the Post Office. In or about 1989, a large shopping centre was constructed nearby and as a result, the competition effectively put the grocery store out of business. As well at some point of time in that year, the Post Office ceased to be a tenant. Harbhajan's testimony was less than clear regarding the sequence of events that followed but it appears that for a time the grocery store area was leased to another party which carried on a restaurant business. At another point in his testimony, Harbhajan said that after the Post Office moved, the whole of the building was subdivided into three units, one of which was occupied. As well, at some point of time during this period, the Canadian Imperial Bank of Commerce (CIBC) showed interest in leasing a portion of the building. In due course, an agreement was reached and a 2,500 square foot area of the building was renovated to comply with the Bank's requirements and a lease[1] for a term of five years to commence on August 1, 1992 was executed by the parties. This lease was renewed for a further five-year term in 1997. Mohinder testified that she and her husband discussed leasing the property to CIBC and that a decision to do so was taken by them. Both also confirmed that all of the rent receivable from CIBC went into their joint bank account and that all expenses relating to this property including mortgage, property taxes, maintenance and repairs were paid from this account as well. Harbhajan went on to say that in the event that he used his own "separate account" for some expenses, that amount would be reimbursed from the joint account.[2]
+Appellant's position
+[3] At the outset of counsel's submission, reference was made to several provisions of the Act which were considered to be relevant to the issues before the Court. First the definition of "person" in the Act states:
+"person" means individual, a partnership, a corporation, the estate of a deceased individual, a trust, or a body that is a society, union, club, association, commission or other organization of any kind;"
+Thus, for the purposes of this appeal, a person can be either an individual or a partnership. Counsel noted that section 240 requires that every person making a taxable supply, other than a small supplier, must be registered for goods and services tax and in this context referred to the definition of joint ventures in the Canadian Goods & Services Tax Reports which reads:
+Joint Ventures
+A joint venture is not a legal entity and is not defined as a "person" under the Excise Tax Act. Therefore, it is the joint venture participants, and not the joint venture that
+· must register if carrying on a commercial activity;
+· must collect a proportionate share of tax on taxable supplies; and
+· may claim a proportionate share of allowable ITCs for tax paid on expenses.
+He submitted that the taxpayers in this appeal are individuals and accordingly come within the scope of the "small supplier rule" and are not subject to reporting or registering and remitting GST. This being the case, it is necessary to turn to the provincial Partnership Act[3] to determine whether a partnership existed in this instance. The Act provides that a
+"Partnership is the relation which exists between persons carrying on business in common with a view of profit."
+With respect to the matter before the Court, counsel contends that the relationship between Mohinder and Harbhajan is more consistent with that of husband and wife than that of a partnership. Mohinder was not a licensed realtor and the Bains did not hold themselves out in any fashion to the public at large as carrying on a partnership. They did not have a registered business name, any form of partnership agreement nor did their tenants believe they were dealing with them as a partnership.[4] Counsel further noted that documents before the Court including the various leases and mortgages were signed by both but nothing in those documents reflects the existence of a partnership. Reference was made to Robert Cornforth v. The Queen,[5] a decision of the Federal Court, Trial Division, in support of the proposition that it is common for a husband and wife to hold property as joint tenants and that in the present case, as it was in Cornforth, Mrs. Bains' contribution flowed from the marriage relationship and not from a partnership relationship.
+[4] For the foregoing reasons, each of Mr. Bains and Mrs. Bains, who owned the property in question long before the inception of the Excise Tax Act, should be treated separately as co-owners of the property but not as a partnership and taxed as small suppliers, exempt from collecting and remitting GST.
+Respondent's submissions
+[5] The Respondent's position is that the relationship between Mr. and Mrs. Bains during the entirety of their ownership of the building in issue was a partnership. More specifically, an assessment of the nature of the undertaking, the conduct of the parties, and other circumstances of the arrangement warrant this conclusion even in the absence of a written agreement. Furthermore, although a joint tenancy, the sharing of gross returns, or the receipt by an individual of a share of the profits, individually do not necessarily establish the existence of a partnership. All of these factors considered in the context of the evidence in this particular case commencing with the operation of the grocery store to its ultimate use as a rental property can only lead to the existence of a partnership and, more specifically, to a partnership in the rental business during the relevant period of time. Counsel specifically noted that each of the two participants contributed resources for use in the performance of the partnership activities. This would not necessarily reflect a monetary contribution and could have been satisfied by providing labour, or as in this case, by each taking an active role in the management and operation of the grocery store and subsequently similarly assisting in the operation of the rental business.
+[6] The Respondent also maintains that there was an equal expectation of benefits from this partnership and that in fact the expenses and profits were shared by them equally which is in stark contrast to a joint venture. Furthermore, there were other indicators of partnership such as contributions of effort, knowledge, skill and property. According to counsel, it is important to note that a joint property interest was in fact the subject matter of the partnership and that each of the partners was jointly and severally liable and each reported 50% of the gross income from the rental business for income tax purpose. Thus, considering the criteria usually applied to the determination of the existence of a partnership, counsel contends that all of the facts support the conclusion arrived at by the Minister that Mohinder and Harbhajan carried on a business in common with a view to profit as partners.
+Conclusion
+[7] In his submission, counsel for the Appellant implied that the relationship between the Bains was tantamount to a "joint venture" which by definition is not a legal entity, i.e. not a "person", and as such only the individual participants would be required to register if carrying on a common activity and were not "small suppliers". The facts before the Court do not support a conclusion that a joint venture existed. Whether a joint venture exists for the purposes of section 273 of the Act must be determined on the basis of conduct between the parties, the nature of their intentions, the facts and circumstances of their situation, and the agreement between them. In my view, the conduct of the parties in this appeal falls far short of establishing the existence of a joint venture.
+[8] The Appellant's position is that during the relevant period of time, the Bains had carried on a rental business as husband and wife and not as business partners. Counsel adopted the words of Cattanach J. in Cornforth to describe Mohinder's contribution to the business as being founded not in the relationship of partnership, but in the relationship of husband and wife. In that case, Cattanach J. observed that "the unstinting efforts and devotion of all Mrs. Cornforth's available time to the success of the business is better explainable by the relationship of husband and wife rather than as crass business partners". I am unable to apply the same rationale to the facts before me since there are a number of elements present in this appeal which did not exist in Cornforth and which establish a partnership between Mohinder and Harbhajan. I specifically note that the receipts of Mr. Cornforth's practice were not deposited in a partnership account but partly in his account and partly in his wife's with his approval. The Court observed:
+"... That would be equally consistent with the regime of community of property as with the distribution of the receipts of a partnership. It is difficult to ascertain whether this could be a participation in profits because the profits cannot be ascertained until the costs of earning receipts is known. That might be done at a subsequent time but there was no evidence that this was ever done or that there was any rationalization by way of set-off or otherwise".
+Furthermore, in the Cornforth case, the husband reported the totality of income from his business as his personal income and his wife was consistently claimed as a dependant. All of which is in direct contrast to the facts in this appeal.
+[9] In Continental Bank Leasing Corp. v. Canada,[6] the Court made the following comments on the existence of a partnership:
+23 The existence of a partnership is dependent on the facts and circumstances of each particular case. It is also determined by what the parties actually intended. As stated in Lindley & Banks on Partnership (17th ed. 1995) at p. 73: "in determining the existence of a partnership ... regard must be paid to the true contract and intention of the parties as appearing from the whole facts of the case".
+24 ... The indicia of a partnership include the contribution by the parties of money, property, effort, knowledge, skill or other assets to a common undertaking, a joint property interest in the subject-matter of the adventure, the sharing of profits and losses, a mutual right of control or management of the enterprise, and the filing of income tax returns as a partnership and joint bank accounts.
+(Emphasis added)
+With these principles in mind, I have concluded that there was a partnership in existence during the relevant period of time. The evidence established that both of the partners (a) had an interest in the joint property; (b) a mutual right of management of the enterprise; and (c) had the authority to bind the partnership. I further note that paragraph 4(c) of the relevant Partnership Act specifies in part that "the receipt by a person of a share of the profits of a business is proof in the absence of evidence to the contrary that he or she is a partner in the business, ...". That exists in the present case since the income from the rental property was divided equally between the two and was channelled into a joint bank account. Furthermore, they filed separate income tax returns reporting this income after taking their respective shares of the expenses into account. It is not possible in the circumstances to conclude that there has been no distribution of partnership funds.
+[10] For the foregoing reason, the appeal is dismissed.
+Signed at Ottawa, Canada, this 24th day of February, 2005.
+"A.A. Sarchuk"
+Sarchuk J.
+CITATION:
+2005TCC156
+COURT FILE NO.:
+2003-2293(GST)I
+STYLE OF CAUSE:
+Mohinder Bains and Harbhajan Bains
+and Her Majesty the Queen
+PLACE OF HEARING:
+Victoria, British Columbia
+DATE OF HEARING:
+May 18, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice A.A. Sarchuk
+DATE OF JUDGMENT:
+February 24, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Kim E. Johnson
+Counsel for the Respondent:
+Stacey Michael Repas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Kim E. Johnson
+Firm:
+Ross, Johnson & Associates
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-1.
+[2] There is no evidence before the Court regarding the two remaining units during this period of time with the exception of documents filed which indicate that there was at least one tenant during the period December 1, 2001 to December 31, 2002.
+[3] R.S.B.C. 1996, c. 348.
+[4] There is no evidence either from the Appellant or from anyone else to support the last assertion.
+[5] 82 DTC 6058.
+[6] [1998] 2 S.C.R. 298.

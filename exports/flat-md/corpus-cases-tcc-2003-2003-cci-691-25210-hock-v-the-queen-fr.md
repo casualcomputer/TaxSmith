@@ -1,0 +1,154 @@
+---
+title: "Hock v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25210/index.do"
+last_modified: "2003-09-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 691"
+citation2: ""
+neutral_citation: "2003 CCI 691"
+decision_date: "2003-09-25"
+language: "fr"
+item_id: "25210"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2570
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:43:18.465000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b263a2cd99636e32451355d5c9294a6ea91f66b6c907d00c011cafa4564e75d7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hock v. The Queen
+
+- Citation: 2003 CCI 691
+- Decision date: 2003-09-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2570, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hock v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-25
+Référence neutre
+2003 CCI 691
+Numéro de dossier
+2003-704(IT)I
+Juges et Officiers taxateurs
+Dwayne W. Rowe
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-704(IT)I
+ENTRE :
+PETER HOCK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_________________________________________________________________
+Appel entendu le 22 juillet 2003 à Nanaimo (Colombie-Britannique)
+Devant : L'honorable juge suppléant D. W. Rowe
+Comparutions
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Sidney (Colombie-Britannique), ce 25e jour de septembre 2003.
+« D. W. Rowe »
+Juge suppléant Rowe
+Traduction certifiée conforme
+ce 10e jour de février 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI691
+Date : 20030925
+Dossier : 2003-704(IT)I
+ENTRE :
+PETER HOCK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Rowe
+[1] L'appelant a interjeté appel à l'encontre d'une cotisation d'impôt sur le revenu établie à son égard pour l'année d'imposition 2000. Le ministre du Revenu national (le « ministre » ) a refusé la déduction au montant de 12 206 $ qu'a réclamée l'appelant à titre de pension alimentaire pour le motif qu'un prétendu accord conclu entre l'appelant et son épouse n'indiquait pas quelles étaient les sommes que devait verser l'appelant, ni à quelles fins précises il devait verser des paiements, ni à quelle tierce partie lesdits paiements devaient être versés. En conséquence, le ministre a conclu que les exigences énoncées aux paragraphes 60.(1) et (2) de la Loi de l'impôt sur le revenu (la « Loi » ) n'avaient pas été satisfaites et que l'appelant n'était pas admissible à la déduction qu'il avait réclamée.
+[2] L'appelant, M. Hock, a témoigné qu'il est un agent de correction, qu'il travaille à Nanaimo et qu'il est employé par la province de la Colombie-Britannique. M. Hock et Rebecca Hock sont mariés et ont deux enfants, une fille née le 6 février 1982 et un garçon né le 23 avril 1984. L'appelant et son épouse se sont séparés en 1995 et, pendant toute l'année d'imposition 2000, ils ont continué à vivre séparément. Conformément à une ordonnance de la Cour provinciale de la Colombie-Britannique, enregistrée le 23 décembre 1999, l'appelant était tenu de verser la somme de 578 $ par mois à compter du 1er janvier 2000 pour subvenir aux besoins de ses deux enfants. Au cours de l'année 2000, l'appelant a versé en totalité la somme de 6 946 $ à Rebecca Hock conformément à ladite ordonnance. Cependant, en raison de la date d'entrée en vigueur de l'ordonnance, l'appelant n'était pas admissible à une déduction des paiements versés. L'appelant a déclaré qu'il avait conclu un accord avec Rebecca Hock (pièce A-1) daté du 20 décembre 1999 selon lequel il avait convenu de verser des paiements additionnels [Traduction] « pour subvenir aux besoins des enfants admissibles » sous forme de « paiements faits à des fins précises et de paiements périodiques » . La dernière partie pertinente de l'accord stipule ceci : [Traduction] « Le payeur, Peter Hock [...] déduira ces montants en vertu du paragraphe 60.1(2) de la Loi de l'impôt sur le revenu » . Dans une disposition antérieure, Rebecca Hock a convenu d'inclure ces paiements comme un revenu en vertu du paragraphe 56.1(2) de la Loi. De même, toujours dans ledit accord, l'appelant et son épouse ont convenu de continuer à respecter l'ordonnance délivrée avec consentement des deux parties, puis enregistrée le 23 décembre 1999. M. Hock a témoigné que son épouse avait perdu son emploi en 1999 et que des litiges avaient été soulevés concernant leur ancien foyer conjugal dont ils détenaient conjointement le titre. Il a déclaré qu'il n'avait jamais intenté de procédures de divorce parce qu'ils auraient été tenus de se partager les capitaux propres conjoints relativement à cette propriété résidentielle. En 1999, M. Hock a versé certains paiements à des tierces parties et à la fin de l'année, il est devenu évident que son épouse nécessiterait un soutien financier supplémentaire pour l'année 2000, du fait qu'elle avait perdu son emploi. Auparavant, M. Hock et son épouse avaient tous les deux contribué aux versements hypothécaires sur la résidence dont ils étaient propriétaires conjoints, étant donné que chacun générait à peu près le même salaire annuel. L'appelant a déclaré qu'il avait dû verser des paiements à la B.C. Hydro dans le cadre d'un programme Éner Sage et, à cet égard, il a produit une feuille (pièce A-2) sur laquelle il a dressé la liste de ses obligations, notamment celle susmentionnée et d'autres paiements qu'il avait versés pendant l'année 2000 à plusieurs tierces parties. Selon lui, tous ces paiements ont été versés conformément à l'accord écrit (pièce A-1) qu'il avait conclu avec son épouse, le 20 décembre 1999. M. Hock a également déclaré qu'il possédait, avec son épouse, un compte bancaire conjoint qu'il n'a toutefois jamais utilisé sauf pour déposer des fonds à son intention. Cependant, étant donné que les versements hypothécaires mensuels sur la résidence dont ils étaient propriétaires conjoints étaient prélevés de ce compte, il était rare que des sommes excédant les montants dus y étaient accumulées. Les autres paiements que devait verser M. Hock pendant l'année 2000 étaient effectués à même son propre compte bancaire distinct, et les notes de téléphone et d'électricité étaient encore émises à son nom. Il payait également une assurance automobile à l'égard d'un véhicule enregistré au nom de Rebecca Hock. L'appelant a expliqué qu'il avait décidé avec son épouse de participer au programme Éner Sage que la B.C. Hydro avait offert à ses clients, programme qui visait à permettre aux propriétaires d'apporter des améliorations à leur propriété de manière à en accroître le rendement énergétique. M. Hock et son épouse ont donc fait installer des fenêtres en plastique vinylique, des portes en acier ainsi qu'un revêtement isolant, ce qui a permis d'accroître le rendement énergétique de leur résidence. Le calendrier des paiements en vue de rembourser les coûts liés à ces travaux d'amélioration était fondé sur un régime de paiements annuels égaux de 2 436,07 $ échelonnés sur cinq ans, calculés mensuellement et qui comprenaient les factures mensuelles de versements égaux au montant de 369,79 $ que leur fournissait la B.C. Hydro pour leur consommation d'énergie. Une somme totale de 1 917,62 $ a été facturée sur la carte de crédit MasterCard de l'appelant, somme qui, selon ses explications, a été engagée au profit des enfants, bien qu'il ait admis qu'il est quelquefois difficile de déterminer qui est le véritable bénéficiaire, notamment si, par exemple, son épouse achète des cadeaux d'anniversaire ou d'autres présents pour les enfants. M. Hock a déclaré qu'il avait continué à verser des paiements à des tierces parties en 2001 et en 2002 et qu'il continue encore aujourd'hui de respecter les mêmes obligations. L'épouse et les enfants de M. Hock ont habité dans leur résidence conjointe située à Campbell River, en C.-B. Au cours des dernières années la valeur de la propriété a chuté d'environ 30 000 $, et sa valeur actuelle est évaluée à 124 000 $. M. Hock a également déclaré qu'avant de conclure l'accord écrit avec son épouse, il avait obtenu, du bureau régional de l'Agence des douanes et du revenu du Canada (ADRC), une brochure intitulée « Pensions alimentaires » (pièce A-3) et qu'il considérait qu'il avait, ainsi que son épouse, respecté les modalités de leur accord en ce sens qu'elle avait déclaré, comme revenu dans sa déclaration pour l'année d'imposition 2000, le même montant qu'il avait réclamé à titre de déduction sous forme de pension alimentaire. Il s'est notamment appuyé sur le contenu de la page 29 de ladite brochure qui précisait que le payeur était admissible à la réclamation de certains paiements à titre de déduction. En 2000, le salaire brut de M. Hock était de 41 000 $, et les paiements versés à son épouse ou à des tierces parties, au profit de ses enfants, totalisaient la somme de 19 152 $. M. Hock a déclaré qu'avec un salaire net d'environ 26 000 $, il lui restait très peu pour vivre, compte tenu du fait qu'il n'avait aucune autre source de revenus. L'appelant a aussi déclaré qu'avant de conclure l'accord avec son épouse, il savait qu'il serait enjoint de verser certains paiements pendant l'année 2000 afin de permettre à son épouse et à ses enfants de conserver la résidence et de maintenir leur niveau de vie. Toutefois, il a constaté que ces nombreuses exigences financières étaient imprévisibles. M. Hock a déclaré qu'au cours d'une conversation téléphonique avec un agent des appels à l'ADRC, celui-ci lui avait mentionné que, s'il avait simplement prévu, à l'accord écrit, d'inclure un montant mensuel minimum, les paiements qu'il avait versés en 2000 auraient alors été déductibles. L'appelant a déclaré qu'il savait que son épouse éprouvait des problèmes de santé, et il estimait qu'il était tenu par les liens du mariage de lui fournir un soutien pendant cette période difficile qu'elle traversait. M. Hock a déclaré qu'au moment de conclure ledit accord, il avait eu le sentiment de fonctionner dans une « zone grise » , mais qu'il n'avait pas voulu s'imposer une obligation de payer les versements hypothécaires sur la résidence parce qu'il ignorait les répercussions du fait de réclamer une déduction à cet égard tout en conservant le statut exempt d'impôt de sa part des fonds découlant de la vente éventuelle de l'ancien foyer conjugal.
+[3] Lorsque l'avocat de l'intimée a contre-interrogé l'appelant, celui-ci a déclaré qu'il avait déposé, en 2000, la somme de 3 900 $ dans le compte conjoint pour couvrir les versements hypothécaires sur leur ancien foyer conjugal qu'habitaient encore son épouse et ses enfants.
+[4] L'appelant a admis qu'il ignorait quelles étaient les répercussions fiscales découlant des versements hypothécaires et des autres dépenses qu'il avait engagées dans le cadre de l'accord conclu avec son épouse, mais qu'il considérait que ces dépenses avaient été engagées au profit de ses enfants. De plus, Rebecca Hock avait déclaré à titre de revenu la somme de 12 206 $, et l'appelant a soutenu qu'il devrait être admissible à une déduction correspondant à ce montant.
+[5] L'avocat de l'intimée a soutenu que l'accord (pièce A-1) exprimait simplement l'intention éventuelle de l'appelant, et qu'il ne s'agissait pas d'une entente ayant force obligatoire. L'avocat a fait valoir que le document n'était rien d'autre qu'un accord conclu entre les parties censé déterminer la manière dont l'appelant devait déclarer les paiements, le cas échéant.
+[6] La question consiste à savoir si l'appelant a droit de déduire la somme de 12 206 $ à titre de paiements supplémentaires de pension alimentaire versés à son épouse ou à son nom au profit de leurs enfants.
+[7] La disposition législative pertinente est énoncée aux paragraphes 60.1(1) et (2) de la Loi et est ainsi formulée :
+ARTICLE 60.1 : Pension alimentaire
+(1) Pour l'application de l'alinéa 60(1)b) et du paragraphe 118(5), dans le cas où une ordonnance ou un accord, ou une modification s'y rapportant, prévoit le paiement d'un montant à un contribuable ou à son profit, au profit d'enfants confiés à sa garde ou à la fois au profit du contribuable et de ces enfants, le montant ou une partie de celui-ci est réputé :
+a) une fois payable, être payable à la personne et à recevoir par elle;
+b) une fois payé, avoir été payé à la personne et reçu par elle.
+(2) ENTENTE. Pour l'application de l'article 60, du présent article et du paragraphe 118(5), le résultat du calcul suivant :
+A - B
+Où :
+A représente le total des montants représentant chacun un montant (sauf celui qui constitue par ailleurs une pension alimentaire) qui est devenu payable par un contribuable au cours d'une année d'imposition, aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit, au titre d'une dépense (sauf la dépense relative à un établissement domestique autonome que le contribuable habite ou une dépense pour l'acquisition de biens corporels qui n'est pas une dépense au titre de frais médicaux ou d'études ni une dépense en vue de l'acquisition, de l'amélioration ou de l'entretien d'un établissement domestique autonome que la personne visée aux alinéas a) ou b) habite) engagée au cours de l'année ou de l'année d'imposition précédente pour subvenir aux besoins d'une personne, d'enfants confiés à sa garde ou à la fois de la personne et de ces enfants, dans le cas où la personne est :
+a) l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du contribuable,
+b) si le montant est devenu payable en vertu de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province, un particulier qui est le père ou la mère d'un enfant dont le contribuable est le père naturel ou la mère naturelle;
+B l'excédent éventuel du total visé à l'alinéa a) sur le total visé à l'alinéa b) :
+a) le total des montants représentant chacun un montant inclus dans le total calculé selon l'élément A relativement à l'acquisition ou à l'amélioration d'un établissement domestique autonome dans lequel la personne habite, y compris un paiement de principal ou d'intérêts sur un emprunt ou une dette contracté en vue de financer, de quelque manière que ce soit, l'acquisition ou l'amélioration;
+b) le total des montants correspondant chacun à 1/5 du principal initial d'un emprunt ou d'une dette visés à l'alinéa a),
+est réputé, lorsque l'ordonnance ou l'accord écrit prévoit que le présent paragraphe et le paragraphe 56.1(2) s'appliquent à un montant payé ou payable à leur titre, être un montant payable par le contribuable à cette personne et à recevoir par celle-ci à titre d'allocation périodique, que cette personne peut utiliser à sa discrétion.
+[8] Les exigences fondamentales que doit satisfaire l'appelant pour être admissible à une déduction dans les circonstances du présent appel sont les suivantes :
+a) les parties vivaient séparées l'une de l'autre lorsque les paiements ont été versés;
+b) le montant de la pension alimentaire est un montant payable ou à recevoir à titre d'allocation périodique;
+c) les paiements payables au bénéficiaire doivent avoir été versés au profit des enfants;
+d) les paiements ont été versés à Rebecca Hock ou, dans le cas contraire, étaient des paiements faisant partie de la catégorie de paiements faits à des fins précises ou à des tierces parties.
+[9] Il ne fait aucun doute que l'appelant et son épouse vivaient séparément pendant l'année 2000. Cependant, les seuls véritables paiements périodiques qu'a versés l'appelant sont ceux qu'il a fournis en vertu de l'ordonnance datée du 23 décembre 1999, et la déductibilité de ces montants n'est pas en cause puisque leur versement a débuté le 1er janvier 2000 et qu'ils sont inadmissibles en raison des modifications apportées à la Loi en 1997. Comme l'a déclaré l'appelant dans son témoignage, il avait certains doutes concernant les répercussions pouvant découler de la déduction des versements hypothécaires sur leur foyer conjoint en ce sens qu'il craignait que cette décision ne soit lourde de conséquences au moment de vendre la propriété qui avait été leur ancien foyer conjugal et que son épouse et ses enfants, à la suite de la rupture leur mariage, ont continué d'habiter. Une lecture attentive de l'accord (pièce A-1) ne révèle aucune obligation contraignante à l'égard de l'appelant en tant que payeur. Rebecca Hock n'a donné aucune contrepartie en ce sens qu'elle n'a renoncé à aucun droit d'intenter une action en justice, réelle ou envisagée, en échange d'une promesse obtenue de l'appelant de verser certains paiements périodiques ou à d'éventuelles fins précises. La disposition concernant les paiements additionnels est ainsi formulée :
+[Traduction]
+Les paiements additionnels seront versés à titre de paiements faits à des fins précises et de paiements périodiques. Ces paiements additionnels seront tous des paiements versés à des tiers et au profit du bénéficiaire.
+[10] À mon avis, le libellé utilisé est général et théorique parce que, comme l'a déclaré l'appelant dans son témoignage, il ignorait quelle était la nature exacte et la portée des obligations financières qui lui seraient imposées en 2000, à la suite des changements de circonstances qu'ont entraînés la perte d'emploi de son épouse et son incapacité à générer un salaire annuel égal au sien. En ce sens, l'appelant a préféré ne pas s'engager à respecter un calendrier de paiements quelconque et exercer un certain contrôle sur la manière dont les paiements seraient versés. Les versements hypothécaires sur la résidence étaient prélevés d'un compte conjoint au nom de l'appelant et de son épouse et, en règle générale, il s'assurait seulement que des fonds suffisants étaient déposés dans ce compte pour couvrir lesdits paiements.
+[11] Dans l'affaire Hoult c. R., C.C.I., no 1999-2153(IT)I, 5 avril 2000 ([2000] 2 C.T.C. 2756), le juge Margeson, de la Cour canadienne de l'impôt, s'est penché sur la question à savoir si certains paiements qu'avait versés le contribuable constituaient un montant « payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants » . Le juge Margeson a conclu qu'un certain montant versé à titre de paiements relatifs à l'assurance de soins médicaux constituait une pension alimentaire et que, conséquemment, il était déductible en vertu du paragraphe 60b) de la Loi. Cependant, la Cour a conclu que des paiements supplémentaires de 460 $ n'étaient pas déductibles pour les motifs énoncés au paragraphe 28 du jugement. Ainsi :
+En ce qui a trait aux paiements médicaux supplémentaires de 460 $, la Cour n'a aucune difficulté à conclure que ces montants ne sont pas déductibles en vertu des dispositions en question en l'espèce. Ils n'étaient de toute évidence pas des paiements qui avaient été faits conformément à l'accord sur une base périodique. [...] Le fait que les paiements aient été faits sur une base continue ne constitue pas une réponse à cet argument. La Cour est convaincue que ces paiements n'ont pas été effectués périodiquement et, pour ce motif uniquement, l'appel à ce sujet est rejeté et la cotisation du ministre est confirmée.
+[12] Dans l'affaire Skertchly v. R., C.C.I., no 2000-226(IT)I, 2 août 2000 ([2000] 4 C.T.C. 2089), le juge Rip, de la Cour canadienne de l'impôt, a entendu l'appel d'un contribuable qui avait fourni un soutien à son épouse qui faisait face à certaines difficultés financières. Sur l'avis de son avocat, le contribuable a versé trois paiements mensuels à son épouse, chacun au montant de 3 056 $, mais en vertu des modalités d'un accord de séparation conclu le 6 juin 1995, aucune disposition ne l'obligeait à verser des paiements périodiques à son épouse, et les seuls paiements dont il était fait mention concernait le versement d'une somme forfaitaire en vertu d'un arrangement aux termes duquel le contribuable obtiendrait le titre de la résidence familiale.
+[13] Dans l'affaire Milliron c. Canada, [2003] A.C.F. no 1004, 2003 CAF 283, la Cour d'appel fédérale était appelée à examiner une demande de contrôle judiciaire d'un jugement qui rejetait un appel à l'encontre d'une cotisation et dans lequel le ministre avait refusé la demande du contribuable de déduire certains paiements versés à titre de pension alimentaire pour enfants aux termes d'un deuxième document distinct de l'accord de séparation original. C'est le juge d'appel Sharlow qui a rendu le jugement reproduit ci-dessous :
+Il s'agit d'une demande de contrôle judiciaire d'un jugement de la Cour de l'impôt daté du 15 mai qui rejetait l'appel formé par M. Milliron à l'égard de l'impôt sur le revenu pour les années 1998 et 1999 : Milliron c. Canada, [2002] A.C.I. no 252 (QL). La question dont est saisie la Cour est de savoir si le juge de la Cour de l'impôt a eu raison de refuser à M. Milliron la déduction de la pension alimentaire pour enfants qu'il a versée au cours des années en question.
+En février 1997, M. Milliron et Mme Jones, sa conjointe à l'époque, ont conclu un accord de séparation aux termes duquel il était tenu de verser à Mme Jones des aliments pour leurs deux enfants dont le montant était précisé dans l'accord :
+[Traduction] [...] JUSQU'À CE QUE L'ÉPOUSE obtienne un travail à temps plein, ou jusqu'au mois de décembre 1997, la première de ces dates. À CE MOMENT-LÀ, les versements alimentaires seront réduits, après négociation.
+En décembre 1997, M. Milliron et Mme Jones ont signé un second document qui réduisait de moitié le montant de la pension alimentaire pour enfants. La clause introductive de ce document se lit ainsi :
+[Traduction] Par consentement mutuel [...] la pension alimentaire pour enfants et la pension alimentaire de la conjointe ont été modifiées. Les modifications suivantes, sur lesquelles les parties s'entendent, entreront en vigueur le 15 novembre 1997 : [...]
+Suit une liste des modifications, notamment les deux clauses qui réduisent de moitié la pension alimentaire pour enfants.
+Le sens des dispositions de la Loi de l'impôt sur le revenu qui sont applicables à l'espèce n'est pas contesté. Elles peuvent être résumées de la façon suivante. Jusqu'en 1997, la pension alimentaire pour enfants versée conformément à une ordonnance judiciaire ou à un accord écrit était déductible par le parent débiteur, à certaines conditions. La Loi de l'impôt sur le revenu a été modifiée en 1997 pour que la pension alimentaire pour enfants ne soit pas déductible lorsqu'elle est versée en vertu d'une entente ou d'une ordonnance judiciaire postérieure au mois d'avril 1997, ou versée conformément à une entente ou une ordonnance judiciaire postérieure au mois d'avril 1997 si celle-ci a été modifiée après le mois d'avril 1997 dans le but de changer le montant de la pension alimentaire pour enfants.
+La Couronne soutenait que les versements alimentaires pour enfants effectués par M. Milliron en 1998 et 1999 avaient été versés conformément au document de décembre 1997 et ne sont pas déductibles parce que le document de décembre 1997 est une nouvelle entente ou une modification de l'entente de février 1997.
+M. Milliron a soutenu devant la Cour de l'impôt, et ici, que les versements alimentaires pour enfants ont été effectués conformément à l'entente de février 1997, que le document de décembre 1997 ne constitue pas une nouvelle entente ou une modification de l'entente de février 1997 mais un document qui ne fait que constater la réduction de moitié de la pension alimentaire pour enfants qui avait été fixée en février 1997, et qui était implicite dans l'entente de février 1997. Sur ce point, M. Milliron s'appuie sur la clause de renégociation de la pension alimentaire mentionnée ci-dessus.
+Le juge de la Cour de l'impôt a écarté l'argument de M. Milliron et retenu celui de la Couronne. Nous sommes tous d'avis qu'il a eu raison de le faire. L'argument de M. Milliron ne peut être retenu parce que la clause de renégociation continue dans l'entente de février 1997 ne précise aucun montant. C'est tout au plus une entente en vue de renégocier certains montants. Même si M. Milliron et Mme Jones avaient l'intention en février 1997 de réduire de moitié la pension alimentaire pour enfants en décembre 1997, ce n'est qu'en décembre 1997 que les parties ont conclu une entente écrite donnant effet à cette intention.
+M. Milliron a également soutenu que des fonctionnaires de Revenu Canada l'avaient incité à demander les déductions qu'il a faites et qu'il devrait avoir droit à un redressement parce qu'il y a eu une « erreur imputable à l'autorité compétente » . La Cour de l'impôt n'a pas le pouvoir d'accorder un redressement lorsque le contribuable a obtenu un avis inexact. La compétence de la Cour de l'impôt dans le cadre d'un appel de l'impôt sur le revenu lui permet uniquement de décider si la cotisation dont appel est exacte, en se fondant sur les faits et les dispositions applicables. Par conséquent, le juge de la Cour de l'impôt n'a pas commis d'erreur lorsqu'il n'a pas accédé à la demande de redressement présentée par M. Milliron et basée sur ce motif.
+Pour ces motifs, la demande de contrôle judiciaire sera rejetée.
+[14] Si l'on revient à l'appel en l'espèce, de toute évidence, le soi-disant accord (pièce A-1) n'obligeait pas l'appelant à verser des paiements supplémentaires à une fin quelconque, à titre de paiement périodique ou autre. Il s'agissait plutôt d'une bonne volonté de sa part et il est à noter qu'il a versé un pourcentage considérable de son salaire net pour subvenir aux besoins de ses enfants et, indirectement, à ceux de son épouse. À mon avis, si l'accord avait été formulé adéquatement en établissant clairement le montant et la nature des paiements à verser à la B.C. Hydro, en ce qui a trait non seulement aux factures mensuelles de consommation d'énergie mais également au remboursement des coûts liés au prêt qui lui a été accordé pour des travaux de rénovation en vue d'accroître le rendement énergétique de la propriété, l'appelant aurait été admissible à la déductibilité qu'il a tenté d'obtenir. De même, la méthode de paiement mensuel des versements hypothécaires aurait pu être précisée dans l'accord de manière à ce qu'il soit clairement établi qu'il s'agissait d'une pension alimentaire aux termes des dispositions de la Loi. En vertu dudit accord, les parties ne peuvent obliger d'une manière particulière le ministre a établir une cotisation à l'égard d'une personne désignée en ce qui a trait à des sommes versées et perçues, si les dispositions pertinentes de la Loi n'appuient pas le résultat prévu.
+[15] Même si j'avais pu conclure que le document déposé en preuve sous la cote A-1 constituait une entente ayant force obligatoire et qu'il « prévoyait » le versement d'un montant au profit des enfants de l'appelant, je n'aurais tout de même pas admis la déduction de certaines sommes, telles qu'elles figurent à l'annexe (pièce A-2), et que l'appelant a versées. Notamment, les paiements versés à Petro Canada, qui correspondent à des frais d'achat d'essence facturés sur une carte de crédit, ainsi que les paiements des cartes de crédit MasterCard et Canadian Tire présentent un lien de connexité insuffisant, et la preuve n'a pas permis d'établir qu'ils ont été versés au profit des enfants, contrairement à ce qu'il a affirmé en disant qu'il avait simplement voulu fournir un soutien à son épouse pour ses besoins personnels afin qu'elle puisse continuer à utiliser le véhicule automobile.
+[16] Il est dommage que l'appelant n'ait pu obtenir des conseils éclairés pour dissiper ses doutes concernant les répercussions fiscales éventuelles qui ont probablement découlé de sa décision de verser les paiements hypothécaires et d'autres paiements relatifs à leur ancien foyer conjugal. S'il avait obtenu des conseils éclairés, le soutien constant et généreux qu'il a fourni à ses enfants sous forme de paiements périodiques et faits à des fins précises auraient été admissibles à une déductibilité conformément aux dispositions de la Loi. Ce qu'il faut savoir en ce qui concerne les paiements faits à des fins précises, c'est qu'ils doivent justement viser un but particulier, et ce, même si le montant n'est pas précisé au moment de conclure l'entente. De même, ces dépenses sont, en général, considérées comme paiement unique.
+[17] La compétence de cette Cour consiste à déterminer si la cotisation qu'a établie le ministre est valide. Ainsi donc, après avoir examiné la preuve et tenu compte de la jurisprudence pertinente, je conclus que la cotisation établie à l'égard de l'appelante est justifiée. Par conséquent, l'appel est rejeté.
+Signé à Sidney (Colombie-Britannique), ce 25e jour de septembre 2003.
+« D. W. Rowe »
+Juge suppléant Rowe
+Traduction certifiée conforme
+ce 10e jour de février 2004.
+Nancy Bouchard, traduction

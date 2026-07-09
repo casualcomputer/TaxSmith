@@ -1,0 +1,166 @@
+Title: Gilao c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/460378/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-14-460378-gilao-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-01-23
+
+# Gilao c. La Reine
+
+- Citation: 2020 CCI 14
+- Decision date: 2020-01-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4250, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gilao c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-01-23
+Référence neutre
+2020 CCI 14
+Numéro de dossier
+2018-1781(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-1781(IT)I
+ENTRE :
+MOHAMMED GILAO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 25 juin 2019, à Toronto (Ontario)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Représentant de l’appelant :
+Ahmed Abdallah
+Avocat de l’intimée :
+Me Kevin Hong
+JUGEMENT
+ATTENDU QUE la Cour, à cette date, a rendu les motifs de son jugement.
+PAR CONSÉQUENT, l’appel interjeté à l’égard des années d’imposition 2011, 2012 et 2013 de l’appelant est ainsi rejeté sans dépens.
+Signé à Toronto, Canada, ce 23e jour de janvier 2020.
+« R.S. Bocock »
+Le juge Bocock
+Référence : 2020 CCI 14
+Date : 20200123
+Dossier : 2018-1781(IT)I
+ENTRE :
+MOHAMMED GILAO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+[1] L’appelant, M. Gilao, n’a pas produit de déclaration de revenus pour les années d’imposition 2011, 2012 et 2013 (les années visées par l’appel). Par conséquent, le ministre a établi une cotisation à l’égard de M. Gilao pour ces années aux termes du paragraphe 152(7) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1, dans sa version modifiée (la LIR). En outre, le ministre a imposé des pénalités pour omission de produire une déclaration et des intérêts sur arriérés par rapport aux revenus non déclarés pour les années visées par l’appel.
+[2] La cotisation établie en application du paragraphe 152(7) concernait le revenu d’emploi reçu de différents employeurs au cours des années visées par l’appel. Le ministre a pris en compte certains crédits d’impôt non remboursables et certaines sommes déduites et retenues à la source. M. Gilao ne conteste pas ces calculs, la nécessité des cotisations arbitraires, ni la méthodologie employée.
+[3] M. Gilao conteste plutôt les calculs suivants dans la cotisation du ministre :
+a) La non-reconnaissance des crédits d’impôt pour personnes handicapées (CIPH) à l’égard du père de M. Gilao, lesquels ont été reconnus par le ministre pour d’autres années d’imposition, mais pas pour les années visées par l’appel, ni en 2010 (le litige relatif aux CIPH);
+b) Les pénalités pour production tardive et les intérêts sur arriérés. M. Gilao cherche à obtenir un allègement pour ces montants, car il a éprouvé des problèmes familiaux durant les années visées par l’appel. Contraint de consacrer beaucoup de temps, d’attention et d’efforts à ces problèmes, il a négligé de produire ses déclarations de revenus (le litige relatif à la pénalité pour production tardive); et
+c) La non-reconnaissance de la déductibilité de certaines dépenses d’emploi pour 2010 et les années visées par l’appel (les dépenses d’emploi).
+I. LITIGE RELATIF AUX CIPH
+[4] M. Gilao a livré un témoignage lors de l’audience. Aucun élément de preuve se trouvant en la possession de M. Gilao ou ayant été produit à l’audience ne concernait le litige relatif aux CIPH. Le litige relatif aux CIPH ne figurait pas dans l’avis d’appel. Les observations de M. Gilao concernant ce litige étaient plutôt fondées sur l’autorisation de déduction des dépenses et l’octroi des crédits d’impôt pour personnes handicapées correspondants pour certaines années d’imposition antérieures à 2010 et postérieures aux années visées par l’appel. M. Gilao a simplement indiqué que les circonstances étaient identiques pour toutes les années, mais il n’existait aucun document pour 2010 ou les années visées par l’appel.
+[5] Comme elle l’a fait remarquer lors de l’audience, la Cour ne peut accueillir une telle demande pour plusieurs raisons. Le litige relatif aux CIPH n’était pas mentionné dans l’avis d’appel. La Cour n’a été saisie d’aucune documentation concernant l’année d’imposition 2010. Il n’existe aucune preuve démontrant que des dépenses ont été engagées à l’appui de la réclamation ou d’une demande au ministre pour les années visées par l’appel. Sur ce point, l’appel est rejeté.
+II. PÉNALITÉS POUR PRODUCTION TARDIVE
+[6] M. Gilao n’a invoqué aucune défense fondée sur la diligence raisonnable devant la Cour en ce qui concerne les déclarations de revenus manquantes. Il a été précisé qu’avant 2016, M. Gilao a subi la perte tragique de membres de sa famille, ce qui l’a plongé dans la dépression. Cependant, il n’a jamais produit de déclarations de revenus pour les années visées par l’appel. Chacune de ces déclarations manquantes est en retard d’au moins cinq ans et demi par rapport à la date de dépôt et d’exigibilité du solde. M. Gilao croit que sa situation personnelle l’exonère de sa responsabilité de produire sa déclaration de revenus à temps. Une telle situation peut justifier un retard, mais pas une omission totale. Il demeure que M. Gilao n’a jamais produit de déclarations de revenus pour les années visées par l’appel. Il n’a aucune excuse, ce qui soulève une défense fondée sur la diligence raisonnable prévue par la LIR. Les pénalités doivent être maintenues. Des intérêts sur arriérés en découlent logiquement.
+III. DÉPENSES D’EMPLOI
+1) Témoignage à l’audience
+[7] M. Gilao a présenté un témoignage de vive voix à l’audience concernant sa situation en matière d’emploi durant les années visées par l’appel. Au cours de ces années, il a travaillé pour trois associations de sensibilisation et de services communautaires qui se consacrent à la noble tâche de faciliter l’installation et l’intégration communautaire des immigrants somaliens et canado-somaliens ainsi que de répondre à leurs besoins sociaux.
+[8] Dans son témoignage, M. Gilao a déclaré qu’il s’agissait d’un organisme dévoué, mais ayant peu de moyens financiers, dont le financement provient exclusivement d’organismes gouvernementaux, principalement d’Immigration Canada.
+[9] Ses tâches étaient variées, à grande échelle, et l’ont amené à se déplacer dans toute la région du Grand Toronto. En sa qualité de directeur général, M. Gilao supervisait le centre, cherchait à obtenir du financement auprès du gouvernement, préparait des rapports, rendait compte au conseil d’administration, présidait l’assemblée générale annuelle et assurait la gestion de la trésorerie et de la paie. Il devait se déplacer pour assister aux réunions, aux ateliers et à divers rassemblements communautaires. Dans son témoignage, il a affirmé avoir utilisé sa propre voiture et avoir payé les frais pour le carburant, le stationnement, les assurances et les réparations. Il estime avoir parcouru [traduction] « pas moins de » 30 000 kilomètres durant chacune de ces années. Il a déclaré qu’il n’était pas en mesure de confirmer ceci sans ses dossiers.
+[10] En ce qui concerne sa part des dépenses, M. Gilao est demeuré plutôt vague. En effet, il a affirmé que ses dépenses d’emploi s’élevaient à [traduction] « au moins » 9 000 $, 9 000 $ à 10 000 $ et 6 000 $ à 7 000 $ en 2011, en 2012 et en 2013, respectivement.
+[11] Toujours dans son témoignage, M. Gilao a affirmé qu’il avait en sa possession de nombreux documents qu’il avait choisi de ne pas rassembler et apporter à l’audience. M. Gilao s’attendait à ce que sa demande d’ajournement présentée deux jours avant l’audience et rejetée par le juge en chef soit annulée par le juge de première instance. Il avait tort. La preuve verbale de M. Gilao a bel et bien été entendue. Dans son témoignage, il a déclaré avoir en sa possession les documents suivants concernant les années visées par l’appel :
+a) Formulaire T2200, Déclaration des conditions de travail, dûment rempli
+b) Contrats de travail signés
+c) Ententes de location de voiture
+d) Pièces justificatives, reçus et registres de dépenses pour le carburant, les assurances et l’entretien
+e) Journal des déplacements rempli
+f) Autres registres sommaires que détient son comptable
+[12] En raison d’un rappel des faits détaillé de la sorte et de l’exactitude des renseignements et des registres, la Cour a décidé de reporter la présentation des arguments et des observations. La Cour a donné deux mois à M. Gilao pour qu’il puisse déposer ces documents détaillés, précis et probants et formuler des observations pertinentes. Trente jours plus tard, l’intimée a formulé ses observations en réponse et, trente jours plus tard, le représentant de l’appelant a présenté sa contre-preuve.
+[13] M. Gilao a signifié ses documents en retard. La Cour a modifié son ordonnance afin d’accorder plus de temps à l’intimée pour présenter ses observations après que l’appelant a formulé ses observations en réponse. Tout cela a pris fin le 30 novembre 2019. Par conséquent, la Cour peut maintenant rendre sa décision.
+2) Documents et observations communiqués après l’audience
+[14] Le représentant de M. Gilao a déposé certains documents et a formulé des observations. M. Gilao a présenté les documents suivants :
+a) Formulaire T2200, Déclaration des conditions de travail, pour l’année d’imposition 2011, daté du 3 mai 2014
+b) Formulaire T2200, Déclaration des conditions de travail, pour l’année d’imposition 2012, daté du 3 mai 2014
+c) Formulaire T2200, Déclaration des conditions de travail, pour l’année d’imposition 2018, daté du 3 mai 2014
+d) Copie imprimée du logiciel Cantax : feuille de calcul T777A affichant les frais de véhicule admissibles pour l’année d’imposition 2011
+e) Copie imprimée du logiciel Cantax : feuille de calcul T777A affichant les frais de véhicule admissibles pour l’année d’imposition 2012
+f) Copie imprimée du logiciel Cantax : feuille de calcul T777A affichant les frais de véhicule admissibles pour l’année d’imposition 2013
+g) Copie imprimée du logiciel Cantax : résumé des déclarations de revenus pour l’année d’imposition 2011
+h) Copie imprimée du logiciel Cantax : résumé des déclarations de revenus pour l’année d’imposition 2012
+i) Copie imprimée du logiciel Cantax : résumé des déclarations de revenus pour l’année d’imposition 2013
+j) Déclaration de revenus T1 générale non signée pour l’année d’imposition 2011, datée du 25 août 2019
+k) Déclaration de revenus T1 générale non signée pour l’année d’imposition 2012, datée du 25 août 2019
+l) Déclaration de revenus T1 générale non signée pour l’année d’imposition 2013, datée du 25 août 2019
+m) Cinq factures de service de Family Honda adressées à Ayah Osman relativement à une Honda Civic 2008 comportant diverses dates en 2013
+n) Historique des transactions chez Services Financiers Honda pour Ayan Osman relativement à la location d’une Honda Civic 2009, daté du 22 août 2014
+o) Historique des transactions chez Services Financiers Honda pour Ayan M. Osman relativement à la location d’une Honda Civic 2013, daté du 22 août 2014
+p) Reçus provenant de 15 stations-service
+[15] Pour évaluer la crédibilité d’un témoignage, la Cour est autorisée à se pencher sur les faiblesses comparatives, les écarts et les omissions qui sont soulevés à différentes étapes, ou sur les sources des éléments de preuve, l’attitude du témoin, l’existence d’un motif pour renforcer le témoignage et la teneur globale de la preuve.
+3) Discussion
+[16] Certaines conditions doivent être établies avant de pouvoir autoriser la déductibilité de dépenses d’emploi du revenu d’emploi, à savoir : a) les dépenses engagées étaient-elles nécessaires à l’emploi? b) existe-t-il des éléments de preuve des dépenses réelles? et c) les dépenses ont-elles été engagées par l’employé?
+a) L’engagement des dépenses par l’employé constituait-il une condition d’emploi?
+[17] L’engagement des dépenses par l’employé pourrait être établi de plusieurs façons : par un formulaire T2200 (Déclaration des conditions de travail), un contrat de travail écrit ou, en l’absence de ces deux documents, par des éléments de preuve convaincants établissant l’exigence en tant que condition.
+i) Existence du formulaire T2200
+[18] Comme il est mentionné ci-dessus, l’audience a eu lieu en juin 2019. M. Gilao a affirmé avoir signé des formulaires T2200 pour chaque année d’imposition ainsi que pour 2010. En se basant sur les formulaires reçus, la Cour souligne que tous les formulaires T2200 étaient datés du 3 mai 2014. Certains documents renfermaient des indications contradictoires quant aux modalités en vigueur. Aucun document ne fournissait la même description du titre de poste et des tâches de M. Gilao. Dans le formulaire de 2011, un signataire a écrit son nom de manière différente par rapport aux autres années.
+ii) Preuve des conditions d’emploi
+[19] M. Gilao n’a produit aucun contrat de travail écrit. Aucun représentant de l’employeur n’a témoigné à l’audience ni présenté d’autres éléments de preuve convaincants. Le témoignage de M. Gilao constitue la preuve contractuelle devant la Cour qu’un véhicule est exigé comme condition d’emploi.
+b) Preuve du montant des dépenses
+[20] M. Gilao a présenté des déclarations de revenus dont la date est ultérieure à l’audience pour chacune des années visées par l’appel. Aucun élément de preuve n’a permis d’établir qu’elles avaient été présentées au ministre. Ces déclarations ont été produites à l’aide d’un logiciel de préparation des déclarations de revenus. Dans chaque cas, les annexes T777 présentaient les dépenses d’emploi globales classées selon les catégories de dépenses habituelles. Ces dépenses étaient des dépenses de véhicule à moteur : carburant, réparations et entretien, paiements de location, assurances et droits de permis.
+[21] Un examen des déclarations de revenus T1 a révélé ce qui suit :
+a) Toutes les déclarations ont été préparées et datées après l’audience et ne sont pas signées.
+b) Toutes les déclarations comportent la même annexe T777; pour deux années sur trois, des montants identiques sont déclarés pour chaque année et chaque catégorie de dépenses relativement aux paiements de location, aux réparations et à l’entretien.
+c) Les frais de carburant étaient identiques en 2012 et en 2013, tout comme les distances totales parcourues au cours de ces deux années.
+[22] Une copie papier d’un contrat de location au nom d’Ayan Osman affichant des paiements s’étendant de janvier 2009 au 1er février 2014 a été fournie pour une Honda Civic 2009. Un deuxième contrat de location daté du 26 février 2014 au 15 août 2014 a été fourni pour une Honda Civic 2013.
+[23] De même, diverses factures d’entretien adressées à une cliente nommée Ayan Osman ont été présentées. Ces factures ont toutes été émises en 2013 relativement à une Honda Civic 2009. En tenant compte du chevauchement, on constate que les dépenses étaient inférieures à 500 $.
+c) Preuve de l’engagement des dépenses par l’employé
+[24] Les éléments de preuve dont est saisie la Cour relativement au fait que M. Gilao a engagé personnellement ces dépenses ne sont étayés que par son témoignage de vive voix. Il a déclaré avoir dépensé personnellement certains montants et avoir été remboursé pour d’autres montants. Aucun registre ni dossier énumérant les dépenses personnelles par rapport aux dépenses d’emploi n’a été produit.
+4) Conclusion et décision
+[25] Essentiellement, le témoignage de M. Gilao est jugé non corroboré et intéressé en ce qui concerne ses conditions d’emploi. Non seulement les formulaires T2200 ont-ils été créés après coup, mais aucun représentant de l’employeur n’a fourni de précisions ni assuré de soutien.
+[26] Les éléments de preuve relatifs au montant des dépenses et à l’auteur de ces dépenses sont manquants pour la plupart des années, peu fiables pour d’autres années ou ne correspondent pas aux montants réclamés aux fins de déduction. De plus, même les déclarations de revenus tardives n’appuient pas les montants déclarés comme ayant été dépensés. Il n’existe aucun registre recensant les distances parcourues ou les dépenses.
+[27] Enfin, aucune preuve objective ne permet de démontrer que M. Gilao a engagé les dépenses en question. En effet, presque toutes les factures étaient adressées à son épouse. Il est possible qu’il ait été remboursé. Il n’existe aucun élément de preuve ni registre présentant le calcul des dépenses personnelles, des dépenses remboursées ou des dépenses d’emploi non remboursées.
+[28] En somme, il existe peu d’éléments de preuve fiables démontrant que M. Gilao devait posséder un véhicule à moteur dans le cadre de ses fonctions et qu’il s’agissait d’une condition d’emploi imposée par son employeur. En outre, aucun montant vérifiable ne correspond aux montants déclarés, et il n’existe aucun registre indiquant les distances parcourues. Enfin, l’identité de l’auteur de ces dépenses, le but de celles-ci et le montant du remboursement demeurent un mystère.
+[29] Pour ces motifs, l’appel est rejeté sans dépens.
+Signé à Toronto, Canada, ce 23e jour de janvier 2020.
+« R.S. Bocock »
+Le juge Bocock
+RÉFÉRENCE :
+2020 CCI 14
+No DU DOSSIER DE LA COUR :
+2018-1781(IT)I
+INTITULÉ :
+MOHAMMED GILAO c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 25 juin 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 23 janvier 2020
+COMPARUTIONS :
+Représentant de l’appelant :
+Ahmed Abdallah
+Avocat de l’intimée :
+Me Kevin Hong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Me Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

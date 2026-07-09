@@ -1,0 +1,182 @@
+---
+title: "Lalancette v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26677/index.do"
+last_modified: "2005-12-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 748"
+citation2: ""
+neutral_citation: "2005 TCC 748"
+decision_date: "2005-12-09"
+language: "en"
+item_id: "26677"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3619
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:02:04.565000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "754adf0931e4a0fba10ee7ad57750959c4110d1f2b529c13c0c850b402533670"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lalancette v. The Queen
+
+- Citation: 2005 TCC 748
+- Decision date: 2005-12-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3619, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lalancette v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-12-09
+Neutral citation
+2005 TCC 748
+File numbers
+2004-3997(IT)I
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3997(IT)I
+BETWEEN:
+LISETTE LALANCETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on October 17, 2005, at Québec, Quebec.
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+Counsel for the Appellant:
+Gaétan Drolet
+Counsel for the Respondent:
+Nathalie Goyette
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act with regard to the 1999 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amount that must be included in the Appellant’s income under section 146 of the Act must be reduced to $21,163.75, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of December 2005.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 6th day of January 2006
+Aveta Graham, Translator
+Citation: 2005TCC748
+Date: 20051209
+Docket: 2004-3997(IT)I
+BETWEEN:
+LISETTE LALANCETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Archambault J.
+[1] Ms. Lalancette's story is similar to that of Thérèse St-Hilaire whose appeal I heard immediately after this one.[1] In fact, Ms. Lalancette also embarked on a scheme devised to transfer to RRSP holders part of their money tax free. I agree with the Respondent's counsel who set out the following facts at paragraphs 48 and 50 of her written submissions:
+[translation]
+. . . we are dealing with an RRSP strip scheme that benefits the promoters as well as the annuitants like the Appellant because they succeeded in obtaining money from their RRSPs without any tax consequences, had it not been for this assessment in dispute.
+. . .
+It is general knowledge that the RRSP vehicle allows for the accumulation of tax-sheltered funds. The funds are only taxed when they are taken out of the RRSP (unless they are put into another type of plan permitted by the Act). That is logical since, originally, the amount qualified for a deduction. In this case, the scheme was established for the sole purpose of getting around those rules. Investors like the Appellant were able to withdraw funds from their RRSPs without any tax consequences.
+. . .
+[Emphasis added.]
+[2] As he did in the case of the taxpayer in St-Hilaire, the Minister of National Revenue (Minister) added, under subsection 146(10)[2] of the Income Tax Act (Act), a sum of $45,000 to Ms. Lalancette's income for the 1999 taxation year, representing the market value of an alleged non-qualified investment for RRSP purposes.
+[3] In his Notice of Appeal, Ms. Lalancette's counsel stated: [translation] ". . . in addition to having lost the capital, [she] was taxed on the withdrawal from the RRSP whose purpose was to provide security for a loan to be obtained for the financing of a business;" Furthermore, as a ground of attack, he added that: [translation] "The taxation was not done in the proper year and is statute barred." At the hearing of the appeal, the Appellant's counsel did not repeat that allegation. In fact, the evidence showed that the acquisition of 45,000 shares of Les Immeubles R.V. (1986) Inc. (Immeubles R.V.) for $45,000, namely the alleged non-qualified investment, was not made by Compagnie de Fiducie M.R.S. (MRS), Ms. Lalancette's RRSP trustee, until January 1999. However, her counsel argued that his client should have been entitled to a deduction for the loss of funds that she never received from the promoter of the scheme.
+[4] At the hearing, that position seemed invalid because it is the trust governed by the RRSP that had lost the funds and not Ms. Lalancette. I did not see how Ms. Lalancette could deduct that loss from her income. Furthermore, as the 45,000 class B shares of Immeubles R.V. acquired by the RRSP at the time appeared to be a non-qualified investment, since the evidence had shown that the partnership was not carrying on any business and it did not hold any interest in a partnership carrying on an active business nor any debt instrument issued by such a partnership, I rendered a decision from the bench dismissing Ms. Lalancette's appeal.
+[5] After having heard Ms. St-Hilaire's appeal, I concluded that subsection 146(10) of the Act used by the Minister to justify his assessment was not the appropriate legislative provision to apply. It was not truly a case of non‑qualified investment; it was rather an RRSP strip. In fact, the scheme devised in both St-Hilaire and this appeal used a series of simulated transactions to strip the RRSPs. To carry out the scheme, the RRSP trustees were made to believe that they were investing in shares in companies. In St-Hilaire, I concluded that the shares acquired were not a genuine investment because the intention of the promoters of the scheme was not to invest money in order to make a profit, obtain added value or maintain the value. The shares of the company 3563545 Canada Inc. – like the 45,000 shares of Immeubles R.V. in this case – were merely a sham allowing the promoters of the scheme to distribute, on a tax-free basis, the money held in the RRSPs. The following is what I stated in St-Hilaire:
+[translation]
+[20] Based on the evidence before me, I find that, on a balance of probabilities, Telco never intended to make a loan since it never intended to ask for the reimbursement of the capital or to collect interest. Telco's true intention was to return part of Ms. St-Hilaire's RRSP to her. Telco was able to obtain possession of the money held in this RRSP by devising another sham, namely the subscription of 1,928 Class B shares of 3563. Furthermore, Ms. St-Hilaire states that she never authorized the subscription of such shares. It is true that subsection 146(1) defines a "non-qualified investment" in relation to a trust governed by an RRSP as "property acquired by the trust after 1971 that is not a qualified investment for the trust. "It is clear that this definition and the definition of "qualified investment"[3] contemplate property acquired as an investment. Investment is defined as "the act or process of investing money" and the word "investing" is defined as "applying or using money especially for making a profit, obtaining added value or maintaining the value." In this case, when the representative of 3563 informed the Laurentian Bank that Ms. St‑Hilaire had purchased shares of 3563, he had no intention, as one of the authors of the scheme, to use the capital to make a profit, obtain added value or maintain the value. It was instead a pretext, a cover-up the purpose of which was to justify to the Laurentian Bank the withdrawal of the money from the RRSP in such a way that the money passed from Ms. St‑Hilaire's RRSP to her through 3563 and Telco, after the deduction of a "commission" of 36%. . . .
+[6] Since a judgment has not been rendered as long as the Court has not signed it,[4] I am free to change the "opinion" I expressed from the bench and to instead conclude that Ms. Lalancette's appeal must be allowed on the ground that subsection 146(10) of the Act does not apply and it is instead subsection 146(8) that must be applied. That subsection sets out the following:
+146(8) Benefits taxable. There shall be included in computing a taxpayer's income for a taxation year the total of all amounts received by the taxpayer in the year as benefits out of or under registered retirement savings plans, other than excluded withdrawals (as defined in subsection 146.01(1) or 146.02(1)) of the taxpayer and amounts that are included under paragraph (12)(b) in computing the taxpayer's income.
+[7] To better understand the justification for that conclusion, it would be helpful to provide a brief summary of the relevant facts as revealed by the evidence.
+The facts
+[8] Ms. Lalancette lived for about twenty years with Philippe Routhier who was, before his death on April 13, 2003, her common law spouse. It also seems that Mr. Routhier participated in a scheme devised by Jacques Gagné and the company 9063‑3223 Québec Inc., also performing its activities under the name of "Services Financier [sic] MacKenzie" (SFM) (see Exhibit I‑8, Tab 4, page 2). In fact, in the documentation produced, Mr. Routhier is described as a representative.[5] According to the enterprise register (Cidreq system), the primary shareholder of SFM was General Venture Capital Management Ltd. whose address is in the Bahamas. SFM had its establishment in the town of St‑Hubert.
+[9] Immeubles R.V. is a company that was incorporated on August 28, 1986, by two shareholders that have nothing to do with the scheme. According to Mr. Routhier's statutory declaration, signed on June 20, 2002 (Exhibit I‑5): [translation] "We purchased the charter of Immeubles R.V. at the beginning of those transactions. The company existed, but was closed. . . ." According to Ms. Lalancette, she only acted as a nominee for Mr. Routhier for the purchase of that company. Due to his precarious financial situation, Mr. Routhier could not acquire it in his own name. He declared bankruptcy in 2002, seemingly due to tax debts. It was also Ms. Lalancette who signed the cheques drawn on the account of Immeubles R.V., including the cheques payable to herself and to SFM.
+[10] The authorization given by Ms. Lalancette to MRS to acquire the 45,000 shares of Immeubles R.V. was given on January 20, 1999 (Exhibit I-11, Tab 12), even though that document is dated December 1, 1998.[6] Furthermore, according to an MRS internal memorandum, the request for the issuance of the cheque for $45,000 was made on January 22, 1999, and the cheque was issued on January 25, 1999. According to a document signed by Mr. Routhier, the cheque for $45,000, representing the funds from Ms. Lalancette's RRSP, was deposited on January 27, 1999, in the bank account of Immeubles R.V., and Mr. Routhier advised Mr. Gagné of this.
+[11] According to the audits conducted by the Minister, SFM allowed an amount of $681,300 to be illegally withdrawn from RRSPs. In fact, the Minister's auditor was able to find, in the bank accounts of Immeubles R.V., deposits from RRSP annuitants of $681,300. That amount was paid for the alleged subscriptions of shares of Immeubles R.V. Most of that information came from documents seized by the Minister from Mr. Gagné. Immeubles R.V. gave $659,998 to SFM, namely around 97% of the amounts collected by Immeubles R.V. from RRSP annuitants, and a very large part of the balance, namely $21,163.75 was paid to Ms. Lalancette by Immeubles R.V., as $9,260.40 was given directly to her and $11,903.35 used to pay the Visa credit card accounts, to repay a line of credit or to make a cash payment to her (or to her spouse). In his statutory declaration made before his death, Mr. Routhier told the Minister's auditor that Ms. Lalancette had recovered $21,000 or $22,000 directly from Immeubles R.V. and that she had lost $24,000 (in fact $23,836.25 ($45,000 — $21,163.75 = $23,836.25)).
+[12] Although Mr. Routhier indicated in his statutory declaration that Ms. Lalancette had since sold Immeubles R.V. and that he had no documents concerning that company, Ms. Lalancette produced, at the hearing, the company's minutes book, which she stated that she found in the belongings of her deceased spouse. Review of that book showed that there was no transfer made by the former shareholders in favour of Ms. Lalancette. There was no shareholder resolution electing Ms. Lalancette as director. The only relevant document that I was able to find in the section "minutes/resolutions" was a resolution of the board of directors in which it was written that Ms. Lalancette was to become the company's sole director and that she was to open a bank account at the Royal Bank in Saint‑Félicien[7]. Furthermore, there was no trace of the issuance of Class B shares in favour of any RRSP, whether that of Ms. Lalancette or the RRSPs of other annuitants, who would have also subscribed, together with Ms. Lalancette's RRSP, for the total of $681,300. Nor was there any resolution authorizing the issuance of such shares by the board of directors of Immeubles R.V. Furthermore, that company did not file income tax returns for the taxation years following its 1996 taxation year (Exhibit I-4). There were no financial statements from Immeubles R.V. for its 1998 and later taxation years. Moreover, Immeubles R.V. was stricken off on May 8, 1999, as shown in the enterprise register (Cidreq system) dated February 5, 2004 (Exhibit I-8, Tab 2). The last annual return is dated September 23, 1997. The notice of default was given on May 22, 1998.
+[13] According to the Minister's auditor, Ms. Lalancette was not among the persons who would have received a loan from SFM. Therefore, in all likelihood, the other annuitants would have received the alleged loans from SFM. However, SFM's income statement at May 31, 1999,[8] did not show any income, but rather only indicated expenses totalling $48,073, for a net loss of $48,073. As to the balance sheet at the same date, the total of its assets indicated on the balance sheet was $116,269 and the total of its liabilities was $164,242.[9] The only capital stock appearing on the balance sheet was $100. Thus, there is no trace of the $659,998 paid by Immeubles R.V. to SFM that would reflect an investment by Immeubles R.V. in SFM.
+[14] When the auditor asked to meet with Ms. Lalancette during the audit, it was Mr. Routhier who went to meet with the auditor and who provided the relevant information. In her testimony, Ms. Lalancette stated that she was not aware of the scheme and that her goal was to make an investment.
+[15] According to Mr. Routhier's statutory declaration, after the transfer of the $45,000 from Ms. Lalancette's RRSP to Immeubles R.V., [translation] "Ms. Lalancette could obtain the money through Jacques Gagné. That money was to be used to redeem the mortgage on the buildings." Mr. Routhier added: [translation] "The money was then transferred to Services Financiers MacKenzie. Jacques Gagné was to have kept the money to invest it and was to lend it to us when we needed it. Mr. Gagné did not give anything. Ms. Lalancette did not receive money." A little further on, he added: [translation] "Ms. Lalancette sent $45,000 to Services Financiers MacKenzie and she recovered part of the money in Immeubles R.V." According to Ms. Lalancette, Mr. Gagné did not respond to her multiple calls. She allegedly then panicked and that would explain the withdrawals totalling $21,163 from the bank account of Immeubles R.V., made between February 15, 1999, and March 31, 1999. The bank statements of Immeubles R.V. show that the balance of its account at March 31, 1999, was $157.85 (Exhibit I-2, Tab 2, page 3). There is nothing to indicate that Ms. Lalancette withdrew that amount for her benefit.
+Analysis
+[16] The facts set out above reveal that two reasons justify the conclusion that Ms. Lalancette's RRSP did not acquire the 45,000 Class B shares of Immeubles R.V. as a non-qualified investment. First, as in St-Hilaire, there was no intention of making a genuine investment because, clearly, the promoters of the scheme did not want Ms. Lalancette's RRSP to make from the alleged investment a profit, obtain added value or maintain the value. Their intention was strictly to transfer part of the money from Ms. Lalancette's RRSP to her and from the RRSPs of other annuitants to them. The shares of Immeubles R.V. were merely a sham, a pretext to allow the transfer of money from Ms. Lalancette's RRSP to her through Immebules R.V. and SFM. SFM was to give part of the money back to Ms. Lalancette through an alleged loan. It seems, however, that the only person who did not receive the alleged loan from SFM was Ms. Lalancette. According to Mr. Routhier's statutory declaration, Mr. Gagné never gave money to Ms. Lalancette and no explanation was provided in this regard at the hearing. It seems plausible that it was due to the special relationship that may have existed between Mr. Routhier as a "representative" and Mr. Gagné that the amount was not paid. The amounts held by Immeubles R.V. could represent a commission of 3% for the benefit of Mr. Routhier (since Ms. Lalancette was only acting as a nominee). Mr. Routhier relied on SFM to later remit part of the $45,000, but that did not happen. It looks like the tables were turned. By participating in a scheme to defraud the tax authorities, Mr. Routhier jeopardized the money of his spouse, Ms. Lalancette. In a state of panic, Ms. Lalancette, who had signed the cheques for Immeubles R.V., only succeeded in recovering a fraction (47 %) of the $45,000, namely $21,163.75.
+[17] The conclusion as to the existence of a sham is all the more easy to draw in this case since Immeubles R.V. was not operating a company, since it was inactive since 1996, since it no longer filed annual returns with the financial institutions inspector, since the transfer of that company's shares to Ms. Lalancette (as nominee of Mr. Routhier) was not made in its records, since there was no evidence that the Class B shares were legally issued in favour of the trustee of Ms. Lalancette's RRSP and the RRSPs of other annuitants. On the contrary, the minutes book of Immeubles R.V. showed that nothing was done to issue them.
+[18] In my opinion, it is not appropriate in this case to apply subsection 146(10) of the Act, which aims to penalize the annuitant of an RRSP who makes "genuine," although non-qualified, investments.[10] Instead, subsection 146(8) of the Act should be applied, which aims to tax an annuitant on all amounts "received" from an RRSP. However, Ms. Lalancette only received, directly or indirectly, $21,163.75. Since Ms. Lalancette will only be taxed on the amounts that she received, it is not necessary to deduct a loss of $23,836.25. That amount should instead be taxable in the hands of the person who received it.
+[19] For all of those reasons, Ms. Lalancette's appeal is allowed, without costs, and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the amount to be included in Ms. Lalancette's income under section 146 of the Act must be reduced to $21,163.75.
+Signed at Ottawa, Canada, this 9th day of December 2005.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 6th day of January 2006
+Aveta Graham, Translator
+CITATION: 2005TCC748
+COURT FILE NO.: 2004-3997(IT)I
+STYLE OF CAUSE: LISETTE LALANCETTE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: October 17, 2005
+REASONS FOR JUDGMENT: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: December 9, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Gaétan Drolet
+Counsel for the Respondent:
+Nathalie Goyette
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gaétan Drolet
+Firm: Gaétan Drolet
+Ste-Foy, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] 2005 CCI 747.
+[2] 146(10) Where acquisition of non-qualified investment by trust. Where at any time in a taxation year a trust governed by a registered retirement savings plan:
+(a) acquires a non-qualified investment, or
+(b) uses or permits to be used any property of the trust as security for a loan,
+the fair market value of
+(c) the non-qualified investment at the time it was acquired by the trust, or
+(d) the property used as security at the time it commenced to be so used,
+as the case may be, shall be included in computing the income for the year of the taxpayer who is the annuitant under the plan at that time.
+[3] The expression "qualified investment" is defined as follows:
+"qualified investment" for a trust governed by a registered education savings plan means
+(a) an investment that would be described in any of paragraphs (a), (b), (d) and (f) to (h) of the definition "qualified investment" in section 204 if the references in that definition to a trust were read as references to the trust governed by the registered retirement savings plan,
+(b) a bond, debenture, note or similar obligation
+. . .
+(c) an annuity described in the definition "retirement income" . . .
+(c.1) a contract for an annuity issued by a licensed annuities provider where
+. . .
+(c.2) a contract for an annuity issued by a licensed annuities provider where
+. . .
+(d) such other investments as may be prescribed by regulations of the Governor in Council made on the recommendation of the Minister of Finance.
+[Emphasis added.]
+[4] In Shairp v. M.N.R., [1989] 1 F.C. 562, at p. 567, [1988] F.C.J. No. 923 (QL), at para. 7, the Federal Court of Appeal decided:
+. . . In my view, in the absence of any specific provision empowering him to deliver judgment orally in open court, such as Rule 337(1) of the general rules of this Court, a judge of a court of record can only dispose finally, on behalf of the court, of a matter he has been seized of by filing and entering a written decision. There is no such provision to that effect in the rules of practice of the Tax Court of Canada and I even doubt such a provision could accord with the above cited section 17 of its enabling statute, which, by contemplating only the possibility of oral reasons, seems to exclude in any event oral decrees. It follows, in my view, that until judgment is filed the pronouncement of a judge, even made in open court and in the presence of a registrar, is merely an expression of opinion and a declaration of intention, which in law have no decisive effect and therefore remain subject to reconsideration.
+[5] See Exhibit I‑6, Tab 1.
+[6] During her testimony, Ms. Lalancette could not remember when she signed the document.
+[7] Clearly, this document was poorly worded. The directors do not elect a director, but rather the shareholders.
+[8] Exhibit I-7, Tab 1.
+[9] Ibid.
+[10] See also the reasons that I set out in paragraph 23 of St-Hilaire.

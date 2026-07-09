@@ -1,0 +1,292 @@
+---
+title: "Roger Dubois Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/65449/index.do"
+last_modified: "2013-12-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 409"
+citation2: ""
+neutral_citation: "2013 CCI 409"
+decision_date: "2013-12-20"
+language: "fr"
+item_id: "65449"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5982
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:52:59.334000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1f2bcd1411c2654dba015d869785851594c05d49fb3fc78c40f4d10beaf27ace"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Roger Dubois Inc. c. La Reine
+
+- Citation: 2013 CCI 409
+- Decision date: 2013-12-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5982, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roger Dubois Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-12-20
+Référence neutre
+2013 CCI 409
+Numéro de dossier
+2009-3024(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3024(IT)G
+ENTRE :
+ROGER DUBOIS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 23 avril 2013, à Montréal (Québec).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Avocat de l’appelante :
+Me Benoît G. Bourgon
+Avocats de l’intimée :
+Me Martin Lamoureux
+Me Benoit Mandeville
+____________________________________________________________________
+JUGEMENT
+Selon les motifs du jugement ci-joints, l’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002, 2003 et 2004 est accueilli, avec frais à l’intimée[1], et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations, en tenant pour acquis que l’appelante peut demander une déduction pour amortissement pour l’archet Sartory, mais non pour les autres instruments de musique en question.
+Signé à Ottawa (Ontario), ce 20e jour de décembre 2013.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2013 CCI 409
+Date : 20131220
+Dossier : 2009-3024(IT)G
+ENTRE :
+ROGER DUBOIS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction
+[1] Cet appel concerne :
+a) un violon fabriqué par Joseph Guarnerius en 1705,
+b) un archet fabriqué par François Xavier Tourte en 1820,
+c) un violon fabriqué par Jean-Baptiste Vuillaume en 1840,
+d) un violon fabriqué par Giovanni Francesco Pressenda en 1844 et
+e) un archet Sartory dont la date de fabrication est inconnue.
+[2] L’appelante a acheté ces instruments de musique pour des montants totalisant plus de 1 900 000 $.
+[3] La question en litige est de savoir si l’appelante peut réclamer de l’amortissement aux fins de l’impôt malgré l’alinéa 1102(1)e) du Règlement de l’impôt sur le revenu (Règlement) qui prévoit que certains biens ne sont pas amortissables[2]. L’alinéa dit, en partie :
+e) qui sont […]
+(iv) un meuble d’époque ou tout autre objet d’époque, fabriqué il y a plus de 100 ans avant la date de son acquisition, dont le coût, pour le contribuable, n’est pas inférieur à 1 000 $,
+[…]
+[4] Toute la preuve a été déposée de consentement sans que des témoins aient été entendus.
+Les faits
+[5] Les parties ont déposé l’exposé suivant des faits admis[3] :
+1. Par nouvelle cotisation du 5 novembre 2003 pour l’année d’imposition 2002, le Ministre a refusé la déduction pour amortissement (« la DPA ») de 198 774 $ à l’égard des instruments de musique que l’appelante avait inclus dans la catégorie 8.
+2. Par nouvelles cotisations établies le 6 juillet 2007, le Ministre a refusé la DPA pour des instruments de musique que l’appelante avait inclus dans la catégorie 8, soit :
+2002
+55 120 $
+2003
+48 511 $
+2004
+53 085 $
+3. La Société a été constituée selon la Partie 1A de la Loi sur les compagnies du Québec.
+4. La Société œuvre dans le domaine de l’immobilier, plus précisément elle gère des immeubles afin de les louer à ses filiales.
+5. La Société détient également des instruments de musique de grande valeur qui sont constitués de violons et d’archets. Les violons affichent un logo de Canimex.
+6. Les violons et archets que détient la Société sont mis, par l’entremise de sa filiale Canimex, à la disposition de musiciens talentueux.
+7. Durant les années en litige, les deux musiciens Marc-André Gauthier et Alexandre Da Costa qui utilisaient les instruments œuvraient en Europe et en Amérique du Nord.
+8. Durant les années en litige, la Société et Canimex ont conclu un contrat, en vertu duquel la filiale s’engage à payer à l’appelante, une somme d’environ 65 000 $ pour son droit d’utiliser les instruments de musique à des fins promotionnelles.
+9. Durant les années en litige, les deux musiciens n’ont signé aucun contrat avec la Société ou sa filiale et ils n’ont fait aucun paiement, pour le prêt ou la location des instruments de musique.
+10. Canimex fait affaires en Europe.
+11. La Société détient la totalité du capital-actions de Canimex Inc.
+12. Canimex importe d’Europe et d’Asie et vend des pièces mécaniques et hydrauliques et fabrique des pièces de quincaillerie pour portes de garage;
+Les biens acquis
+Le Guarnérius et l’archet Tourte (en 2000)
+13. Le 26 juin 2000, la Société a fait l’acquisition d’un violon fabriqué par Joseph Guarnerius en 1705 au prix de 1 039 600 $.
+14. La Société a également acheté au prix de 178 200 $ un archet qui a été fabriqué par François Xavier Tourte en 1820.
+Le Vuillaume (en 2000)
+15. Le 1er décembre 2000, la Société a acquis un deuxième violon fabriqué par Jean-Baptiste Vuillaume en 1840 au prix de 151 948 $.
+Le Pressenda et un archet Sartory (en 2002)
+16. Le 3 mai 2002, la Société a acquis un troisième violon fabriqué en 1844 par Giovanni Francesco Pressenda, ainsi qu’un archet Sartory dont la date de fabrication est inconnue pour une somme de 551 196 $.
+[6] Les parties se sont également entendues sur ceci :
+Sans admission de la part de l’appelante quant à la pertinence, il est admis par les parties que les instruments de musique décrits au document A-1 normalement s’apprécient en valeur avec le simple passage du temps dans la mesure où ils auraient été acquis en bonne condition et à un prix raisonnable compte tenu du marché. Par ailleurs, si ces instruments de musique sont mal utilisés, mal transportés, mal entretenus, mal réparés, ils peuvent perdre de la valeur, ce qui n’est pas le cas jusqu’à maintenant.
+L’archet Sartory acheté en 2002
+[7] Vu que l’intimée a tenu pour acquis que la date de fabrication était inconnue[4], et qu’elle n’a pas tenu pour acquis que l’archet avait été fabriqué plus de 100 ans avant son achat, il incombe au ministre de démontrer que l’instrument de musique avait plus de 100 ans.
+[8] Au paragraphe 16 de l’exposé des faits, il est indiqué que la date de fabrication de l’archet Sartory est inconnue.
+[9] Vu le paragraphe 16 de l’exposé des faits, je ne vois pas comment je pourrais conclure que le ministre a démontré que l’archet avait été fabriqué 100 ans avant son achat[5].
+[10] En conséquence, l’archet Sartory est amortissable quel que soit le résultat relatif aux quatre autres instruments de musique[6].
+Analyse
+[11] La question en litige est de savoir si l’appelante peut réclamer de l’amortissement aux fins de l’impôt. La réponse dépend de l’effet de l’alinéa 1102(1)e) du Règlement. Je reproduis ci-dessous les portions pertinentes du texte français et anglais dudit alinéa :
+Biens non compris
+1102(1) Les catégories de biens décrits dans la présente partie et dans l’annexe II sont censées ne pas comprendre les biens.
+[…]
+Property Not Included
+1102(1) The classes of property described in this Part and in Schedule II shall be deemed not to include property.
+. . .
+e) qui sont acquis par le contribuable après le 12 novembre 1981, autre qu’un bien acquis d’une personne avec laquelle le contribuable avait un lien de dépendance (autrement qu’en vertu d’un droit visé à l’alinéa 251(5)b) de la Loi) au moment de l’acquisition du bien si le bien était acquis dans des circonstances visées au paragraphe (14), et qui sont :
+(e) that was acquired by the taxpayer after November 12, 1981, other than property acquired from a person with whom the taxpayer was not dealing at arm’s length (otherwise than by virtue of a right referred to in paragraph 251(5)(b) of the Act) at the time the property was acquired if the property was acquired in the circumstances where subsection (14) applies, and is
+(i) une estampe, une gravure, un dessin, un tableau, une sculpture ou une autre oeuvre d’art de nature semblable, dont le coût, pour le contribuable, n’est pas inférieur à 200 $,
+(i) a print, etching, drawing, painting, sculpture, or other similar work of art, the cost of which to the taxpayer was not less than $200,
+(ii) une tapisserie ou un tapis tissé à la main ou une application faite à la main dont le coût, pour le contribuable, n’est pas inférieur à 215 $ le mètre carré,
+(ii) a hand-woven tapestry or carpet or a handmade appliqué, the cost of which to the taxpayer was not less than $215 per square metre,
+(iii) une gravure, une lithographie, une gravure sur bois ou une carte, faite avant 1900, ou
+(iii) an engraving, etching, lithograph, woodcut, map or chart, made before 1900, or
+(iv) un meuble d’époque ou tout autre objet d’époque, fabriqué il y a plus de 100 ans avant la date de son acquisition, dont le coût, pour le contribuable, n’est pas inférieur à 1 000 $,
+(iv) antique furniture, or any other antique object, produced more than 100 years before the date it was acquired, the cost of which to the taxpayer was not less than $1,000,
+à l’exception des biens visés aux sous-alinéas (i) ou (ii) lorsque le particulier qui a créé le bien était un Canadien […];
+other than any property described in subparagraph (i) or (ii) where the individual who created the property was a Canadian . . .;
+[12] Si l’alinéa 1102(1)e) s’applique, l’appelante ne peut pas réclamer de l’amortissement pour les instruments de musique en question. Par contre, si l’alinéa 1102(1)e) ne s’applique pas, l’appelante peut réclamer de l’amortissement.
+[13] L’approche qu’il convient d’adopter en matière d’interprétation législative a été résumée par la Cour suprême du Canada dans Hypothèques Trustco Canada c. Canada[7] :
+10 Il est depuis longtemps établi en matière d’interprétation des lois qu’« il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur » : voir 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, par. 50. L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux.
+[14] Les termes « tout autre objet d’époque » et « any other object » ont un sens très large. Que ce soit en anglais ou en français, le sens du mot « objet » est très large.
+[15] Par exemple, Le Nouveau Petit Robert 2006[8] donne, entre autres, la définition suivante qui est la plus appropriée dans ce contexte[9] : « [c]hose solide ayant unité et indépendance et répondant à une certaine destination ».
+[16] Le Canadian Oxford Dictionary, deuxième édition 2004, donne, entre autres, la définition suivante qui est la plus appropriée[10] : « a material thing that can be seen or touched ».
+[17] Quant au mot « époque », Le Nouveau Petit Robert 2006 donne, entre autres, les définitions suivantes qui sont les plus pertinentes[11] : « 2. […] MOD. Période historique déterminée par des événements importants, caractérisée par un certain état de choses. […] 3. Période caractérisée par un style artistique ».
+[18] Le Canadian Oxford Dictionary donne, entre autres, la définition suivante de l’adjectif « antique » qui est la plus pertinente[12] : « 1 of or existing from an early date[13] ».
+[19] Les mots « époque » en français et « antique » en anglais ont en commun qu’il s’agit du passé, mais d’un passé non récent. Pour qu’il y ait une ligne de démarcation claire, le Règlement prévoit que les objets doivent avoir été fabriqués au moins 100 ans avant leur achat.
+[20] À première vue, l’alinéa 1102(1)e) semble donc s’appliquer. Les instruments de musique en question sont certainement des objets et ils sont d’époque[14].
+[21] L’appelante prétend qu’une telle interprétation n’est pas la bonne pour plusieurs raisons.
+[22] Avant d’examiner ces prétentions, je vais reproduire une partie des documents budgétaires de 1981 qui annonce la disposition en question. Ce texte dit :
+Autres mesures fiscales intéressant les sociétés
+Oeuvres d’art et antiquités
+Le budget interdira de réclamer une déduction pour amortissement à l’égard des œuvres d’art et des antiquités achetées par des entreprises et des professionnels après le 12 novembre 1981. À l’heure actuelle, les œuvres d’art et les antiquités acquises par des entreprises et des cabinets professionnels peuvent être amorties au taux de 20 pour cent par an, comme le mobilier de bureau. Cependant, ces articles prennent généralement de la valeur avec le temps et constituent souvent des investissements personnels au lieu de servir aux opérations normales de l’entreprise. Il n’y a donc aucune raison de permettre la déduction de leur coût du revenu de l’entreprise. Cette mesure ne s’appliquera pas au premier acheteur d’œuvres d’art produites par un artiste canadien vivant[15].
+Other Corporate Tax Measures
+Works of Art and Antiques
+The budget disallows depreciation write-offs for works of art and antiques purchased by businesses and professionals after November 12, 1981. At present, art work and antiques bought by business and professional firms can be written off at 20 per cent a year, the same depreciation rate as office furniture. However, such purchases typically appreciate in value and often are in fact personal investments rather than serving the normal operations of the firm. There is thus no reason to allow their cost to be deducted against the firm’s income. This measure will not apply to the first purchaser of art produced by living Canadian artists.[16]
+[23] Il est utile de noter que dans le texte budgétaire ci-dessus il est clair qu’une des motivations pour les dispositions en question est qu’en général les biens dont il s’agit dans ce texte ne perdent pas de valeur.
+[24] Il y a une différence entre une motivation et une exigence de la loi. Je suis d’accord avec l’appelante qu’il n’y a rien dans la Loi de l’impôt sur le revenu (Loi) ni dans le Règlement qui exige qu’un bien amortissable doit obligatoirement perdre de la valeur avec le passage du temps[17]. En conséquence, je suis d’accord avec l’appelante que le fait que « normalement [les instruments de musique en question] s’apprécient en valeur avec le simple passage du temps » n’est pas pertinent.
+[25] Selon l’appelante, le Règlement vise les objets décoratifs et non les objets qui sont utilisés, comme c’est le cas des instruments de musique en question.
+[26] L’appelante suggère que la disposition ne s’appliquerait pas à d’autres objets d’époque qui sont utilisés, par exemple, une chaudière industrielle ou une montre d’origine ancienne. Par contre, elle s’appliquerait à des miroirs, des horloges ou de l’argenterie, par exemple.
+[27] Il y a deux difficultés avec cette approche. La première est que les mots « tout autre objet d’époque » et « any other antique object » (je souligne) ont un sens très large et ne suggèrent pas qu’il y a une limitation. Deuxièmement, dans le contexte de l’article 1102 du Règlement, ou plus généralement dans la Loi ou le Règlement, rien ne suggère qu’il faut faire la distinction entre un meuble ancien qui est tout simplement exposé et un meuble ancien qui est utilisé tous les jours par son propriétaire, par exemple, un magnifique bureau antique utilisé par son propriétaire[18]. De même, rien ne suggère qu’il faut faire une distinction entre une automobile antique qui est tout simplement exposée et une automobile antique qui sert à des productions cinématographiques[19].
+[28] Il n’est pas inutile de se rappeler que tout le mécanisme de l’amortissement dans la Loi contient un certain nombre de règles en partie un peu arbitraires pour simplifier l’amortissement aux fins de la Loi, par exemple, l’existence des différentes classes de biens avec un taux d’amortissement fixe. Être obligé de distinguer entre un ancien bureau qui est utilisé et un ancien bureau qui est exposé semble contraire à cet effort de simplification.
+[29] L’appelante invoque la règle des mots associés, noscitur a sociis, à l’appui de ses prétentions[20].
+[30] En se basant sur l’arrêt McDiarmid Lumber Ltd. c. Première Nation de God’s Lake[21] de la Cour suprême du Canada, l’appelante prétend que le sens du terme « tout autre objet d’époque » doit être différent de celui du terme « meuble d’époque », mais que l’objet doit toutefois avoir des qualités semblables à celles d’un meuble. D’après l’appelante, l’élément commun est que l’objet est décoratif et qu’il sert également à l’aménagement de l’espace.
+[31] Dans son livre intitulé Interprétation des lois[22], le professeur Pierre‑André Côté souligne le fait qu’il faut appliquer la règle des mots associés avec prudence[23] :
+1179 […] Bon serviteur, le principe incarné par la maxime noscitur a sociis peut s’avérer un mauvais maître. Il faut toujours y avoir recours avec modération et prudence.
+[32] Dans McDiarmid Lumber, la question était liée à l’alinéa 90(1)b) de la Loi sur les Indiens et, entre autres, au sens à donner au mot « accord » dans le texte suivant :
+90(1) […] les biens meubles qui ont été :
+[…]
+b) […] donnés aux Indiens ou à une bande en vertu d’un traité ou accord entre une bande et Sa Majesté,
+La décision de la majorité est fondée non seulement sur la règle des mots associés, mais également sur une analyse du contexte et de l’histoire de cette disposition.
+[33] Ici, le Règlement ne parle pas « d’autre objet semblable » ou « d’objet décoratif ». Le contexte de la disposition ne suggère pas une limitation à l’intérieur des objets de plus de 100 ans. Une telle limitation semble entièrement contraire aux choix d’utiliser « tout » et « any »[24].
+[34] L’appelante invoque également la règle de la situation à réformer[25]. Je suis d’accord avec l’appelante que les documents budgétaires précités indiquent que le but recherché est d’empêcher les entreprises et les professionnels de réclamer de l’amortissement pour certaines choses qui sont en général des investissements.
+[35] Toutefois, quand on lit le texte budgétaire précité, on constate que le texte reconnaissait qu’il y aurait parfois des situations où l’effet serait de nier l’amortissement pour des choses qui servaient aux opérations. Ceci est évident dans le passage suivant des documents budgétaires, qui implique que parfois le bien va servir aux opérations[26] :
+[…] Cependant, ces articles prennent généralement de la valeur avec le temps et constituent souvent des investissements personnels au lieu de servir aux opérations normales de l’entreprise. […]
+[Je souligne.]
+[36] L’appelante soutient que le paragraphe 1102(1) du Règlement est une disposition déterminative[27] qui crée une fiction légale et qui doit donc être interprétée de manière restrictive[28]. Toutefois, il faut noter que le mot « censé »[29] peut être utilisé dans quatre buts différents[30]. Dans la présente cause, il ne s’agit pas d’une fiction légale, mais de l’énonciation d’une règle que certaines choses sont exclues du terme « bien amortissable ». On ne peut donc pas appliquer un principe relatif à une fiction légale à une disposition qui est une règle[31].
+[37] Je note aussi que le Règlement utilise le terme « objet d’époque » plutôt qu’« antiquité », le terme employé dans les documents budgétaires; de même, en anglais le Règlement utilise le terme « antique object » plutôt qu’« antique »[32].
+[38] Comme je l’ai déjà dit, je ne vois pas dans le texte ni le contexte du Règlement en question, ou plus généralement dans les dispositions du Règlement ou de la Loi relatives à l’amortissement, de raison de conclure que les mots « tout autre objet d’époque » ou « any other antique object » doivent prendre un sens autre que leur sens ordinaire et très large[33].
+[39] Je conclus donc que les autres instruments de musique en question, à part l’archet Sartory, sont assujettis à l’alinéa 1102(1)e) du Règlement et qu’ils ne peuvent être considérés comme des biens amortissables.
+Conclusion
+[40] En conséquence, l’appel est accueilli, avec frais à l’intimée, et le tout est déféré au ministre pour nouvel examen et nouvelles cotisations en tenant pour acquis que seul l’archet Sartory est un bien amortissable.
+Signé à Ottawa (Ontario), ce 20e jour de décembre 2013.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE : 2013 CCI 409
+Nº DU DOSSIER DE LA COUR : 2009-3024(IT)G
+INTITULÉ DE LA CAUSE : ROGER DUBOIS INC. c. LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 23 avril 2013
+MOTIFS DU JUGEMENT PAR : L’honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 20 décembre 2013
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Benoît G. Bourgon
+Avocats de l’intimée :
+Me Martin Lamoureux
+Me Benoit Mandeville
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Benoît G. Bourgon
+Cabinet : Heenan Blaikie
+Montréal (Québec)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Vu que le degré de succès de l’appelante était très limité. D’après la pièce A-1, l’archet Sartory a coûté un peu plus de 38 000 $ tandis que le coût total des instruments de musique en question est d’environ 1 900 000 $.
+[2] L’intimée ne conteste pas que les instruments ont été acquis pour gagner un revenu.
+[3] Pièce A-3, exposé conjoint des faits admis.
+[4] Voir le paragraphe 12n) de la réponse à l’avis d’appel.
+[5] Même en l’absence du paragraphe 16, le document daté du 18 novembre 1935 préparé par la Rudolph Wurlitzer Co. de New York qui dit que dans leur opinion l’archet a été fabriqué vers 1900 ne permet pas de conclure à une fabrication de plus de 100 ans avant l’achat en 2002. « [A]bout 1900 » dans le document qui est rédigé en anglais (pièce I-2).
+Je note qu’à la pièce I-3 à la page qui contient les réponses aux engagements, au deuxième paragraphe il est question du document de 1935 que je viens de mentionner, par contre, au premier paragraphe des réponses il est question d’un certificat d’authenticité de B. Millant daté du 3 juin 2000 qui dit que l’archet Sartory aurait été fait « vers 1920 ». Il semble qu’au premier paragraphe il s’agit d’un deuxième archet Sartory qui ne fait pas partie du litige, bien que si je me limite strictement à la preuve, ce n’est pas entièrement clair. Une facture datée du « 2002-06-03 » et numérotée 212381 émise par Pépin, cabinet de services financiers, contient une liste d’instruments de musique à sa deuxième page où il y a deux archets Sartory (voir no 4 et no 7). Ceci semble confirmer qu’il s’agit d’un archet différent qui a un certificat d’authenticité qui dit « vers 1920 ». Bien qu’il ne s’agit pas de preuve, je note qu’aux paragraphes 43 et 44 de l’argument écrit de l’appelante intitulé « Notes et autorités de l’appelante Roger Dubois inc. », l’appelante parle d’un deuxième archet Sartory fabriqué vers 1920.
+[6] Vu que le sous-alinéa 1102(1)e)(iv) du Règlement s’applique uniquement si le bien a été fabriqué plus de 100 ans avant son achat.
+[7] 2005 CSC 54. Cette approche s’applique non seulement aux lois fiscales, mais généralement; voir, par exemple, les paragraphes 57 à 59 de la décision de la Cour d’appel fédérale dans Canada (Citoyenneté et Immigration) c. Tobar Toledo, 2013 CAF 226.
+[8] Dont le dépôt légal est indiqué à la toute fin comme étant mai 2005, no d’impression B02/112760P.
+[9] Page 1759; il s’agit de la deuxième définition parmi les définitions concrètes.
+[10] Page 1071; il s’agit de la première définition donnée.
+[11] Page 928.
+[12] Page 57.
+[13] Il est important de noter que le mot « antique » est utilisé comme adjectif et non comme un nom dans le Règlement.
+[14] Je note que la définition du mot « antique » du dictionnaire Merriam-Webster à laquelle l’appelante fait référence est la définition du nom. À la même page du document de l’appelante intitulé « Dispositions législatives, communiqués de presse, bulletin d’interprétation et définitions » qui contient, entre autres, des définitions (onglet 17), la définition de l’adjectif « antique » donne, entre autres, « 1 : existing since or belonging to earlier times . . . 2 a : being in the style or fashion of former times » comme définition.
+La définition du nom « antique » du Canadian Oxford Dictionary précité dit : « an object of considerable age, esp. an item of furniture or the decorative arts having a high value ».
+[15] Documents budgétaires — Renseignements supplémentaires et avis de motions des voies et moyens sur le budget, déposés à la Chambre des communes par l’honorable Allan J. MacEachen, vice-premier ministre et ministre des Finances, le 12 novembre 1981, page 41.
+[16] Budget Papers — Supplementary Information and Notices of Ways and Means Motions on the Budget, tabled in the House of Commons by the Honourable Allan J. MacEachen, Deputy Prime Minister and Minister of Finance, November 12, 1981, page 37.
+[17] Il est clair qu’au moment de la disposition d’un bien amortissable, la Loi prévoit la possibilité qu’il y ait de la récupération dans le cas où il y aurait eu, en fait, trop d’amortissement; la Loi prévoit également la possibilité d’un gain en capital si jamais un bien amortissable est vendu pour un montant excédant son coût.
+Notre droit est différent du droit aux États-Unis en vertu du Internal Revenue Code qui a fait des choix différents relativement à l’amortissement.
+[18] Je ne crois pas que la décision de la Cour suprême du Canada dans R. c. Jarvis, 2002 CSC 73, puisse aider l’appelante. Il est vrai que dans ce jugement, la Cour suprême a restreint la portée des mots « pour l’application et l’exécution » dans les articles 231.1 et 231.2 de la Loi. Le texte anglais est « for any purpose related to the administration or enforcement ». La Cour suprême a tenu compte du contexte de la Loi, l’existence d’une disposition particulière, l’article 231.3, pour l’obtention d’un mandat de perquisition aux fins de l’application criminelle de la Loi.
+En conséquence, tout en reconnaissant que les mots avaient une portée très large, la Cour suprême a conclu qu’ils étaient limités à la mise en application civile de la Loi.
+Ici, il n’y a rien de comparable dans le contexte.
+[19] Je ne suis pas sûr qu’on puisse automatiquement dire qu’un tableau ou autre objet d’art ne soit pas utilisé. Un objet d’art peut avoir une forte influence sur certaines personnes; il peut également aider à créer une atmosphère ou une image de marque.
+[20] Et prétend également qu’elle doit être préférée à la règle ejusdem generis.
+[21] 2006 CSC 58.
+[22] Quatrième édition, Éditions Thémis, 2009.
+[23] Et la règle ejusdem generis. Voir, en particulier, les paragraphes 1179 à 1181.
+[24] Vu que l’appelante a fait une longue analyse de l’effet de la ponctuation pour en arriver à la conclusion que la virgule dans l’expression « antique furniture, or any other antique object » ne pouvait faire échec à la règle des mots associés, j’ajouterais que ma conclusion serait identique en l’absence de la virgule.
+[25] « Mischief rule ».
+[26] Voir le paragraphe 22 ci-dessus. L’appelante a également invoqué l’alinéa 8(1)p) de la Loi. Le fait qu’on permette à un employé musicien de réclamer de l’amortissement pour un instrument de musique n’aide pas à interpréter le Règlement en question; l’alinéa 8(1)p) de la Loi était nécessaire pour créer une exception à la règle générale contenue dans le paragraphe 8(2) de la Loi qu’un employé ne peut pas déduire de dépenses à moins qu’il y ait une disposition spécifique. Le montant de la déduction pour amortissement permise par le sous-alinéa 8(1)p)(ii) est assujetti au Règlement.
+En conséquence, je ne vois pas comment l’existence de l’alinéa 8(1)p) de la Loi peut démontrer que l’alinéa 1102(1)e) du Règlement ne vise pas les instruments de musique. L’alinéa du Règlement en question a été ajouté par C.P. 1983‑1083, art. 2, 15 avril 1983, tandis que l’alinéa de la Loi a été ajouté par L.C. 1988, ch. 55, art. 2(2).
+[27] « A deeming provision » en anglais.
+[28] L’appelante cite à l’appui R. c. Verrette, [1978] 2 R.C.S. 838, et Survivance c. Canada, 2006 CAF 129.
+[29] « Deemed » en anglais.
+[30] Voir R. Sullivan, Construction of Statutes, cinquième édition, LexisNexis Canada, 2008, aux pages 85 à 91.
+[31] Quant à l’arrêt Nanaimo (Ville) c. Rascal Trucking Ltd., 2000 CSC 13, cité par l’appelante, le texte à interpréter était d’une nature différente; l’expression « ou toute autre chose » (« or other matter or thing ») se trouvait à la fin d’une longue énumération de choses liées dans un contexte particulier où il est plus probable qu’on rattache le sens de « ou toute autre chose » au sens général de ces autres choses. La Cour suprême du Canada a affirmé la validité des ordonnances municipales en question.
+[32] Le paragraphe 4(2) de la Loi sur l’exportation et l’importation de biens culturels prévoit ce qui suit :
+(2) Sous réserve du paragraphe (3), le gouverneur en conseil peut faire porter à la nomenclature, indépendamment de leur lieu d’origine, tous les objets ou catégories d’objets suivants dont il estime nécessaire de contrôler l’exportation pour conserver au Canada le patrimoine national :
+a) les objets de toute valeur, présentant un intérêt archéologique, préhistorique, historique, artistique ou scientifique, trouvés sur ou dans le sol du Canada, ou dans les limites de la mer territoriale, des eaux internes ou des autres eaux intérieures du Canada;
+b) les objets qui sont l’oeuvre des populations autochtones du Canada, ou les objets visés à l’alinéa d) concernant ces populations, et dont la juste valeur marchande au Canada dépasse cinq cents dollars;
+c) les objets suivants, d’art décoratif, faits dans le territoire qui constitue aujourd’hui le Canada et vieux de plus de cent ans :
+(i) verreries, céramiques, tissus, articles de bois et pièces en métal non précieux, dont la juste valeur marchande au Canada dépasse cinq cents dollars,
+(ii) meubles, ouvrages en bois sculptés, pièces en métal précieux et autres objets, dont la juste valeur marchande au Canada dépasse deux mille dollars;
+d) les livres, archives, documents, les épreuves photographiques (positives et négatives), les enregistrements sonores et les collections de ces objets, dont la juste valeur marchande au Canada dépasse cinq cents dollars;
+e) les dessins, gravures, estampes originales et aquarelles, dont la juste valeur marchande au Canada dépasse mille dollars;
+f) tous les autres objets dont la juste valeur marchande au Canada dépasse trois mille dollars.
+L’appelante prétend que, lorsque le législateur veut que le sens des mots « tout autre objet » ne soit pas limité par les termes qui les précèdent, il l’indique en faisant un alinéa différent comme il l’a fait dans f) ci-dessus.
+Je suis loin d’être convaincu qu’on puisse présumer que le législateur s’exprime toujours d’une manière identique pour signifier la même pensée. De toute façon, dans l’exemple du paragraphe 4(2), l’alinéa f) devait nécessairement être séparé en raison des conditions différentes de celles retrouvées dans les alinéas a) à d).
+Spécifiquement, à l’alinéa f) il faut une valeur minimum de plus de 3 000 $ tandis que :
+- à l’alinéa a) il n’y a aucune valeur minimum,
+- à l’alinéa b) il y a une valeur minimum de plus de 500 $,
+- à l’alinéa c) il y a une condition quant au lieu d’origine, le Canada,
+- au sous-alinéa c)(i) il doit y avoir une valeur minimum de plus de 500 $,
+- au sous-alinéa c)(ii) il doit y avoir une valeur minimum de plus de 2 000 $,
+- à l’alinéa d) il doit y avoir une valeur minimum de plus de 500 $ et
+- à l’alinéa e) il doit y avoir une valeur minimum de plus de 1 000 $.
+[33] L’appelante invoque également la présomption résiduelle énoncée par la Cour suprême du Canada dans Johns‑Manville Canada c. La Reine, [1985] 2 R.C.S. 46. Il est utile de se rappeler ce que la Cour suprême dit dans Québec (Communauté urbaine) c. Corp. Notre-Dame de Bon-Secours, [1994] 3 R.C.S. 3 à la page 19 :
+[…] d’une part, le recours à la présomption en faveur du contribuable est indiqué lorsqu’un tribunal est contraint de choisir entre deux interprétations valables et, d’autre part, cette présomption est clairement résiduelle et devrait jouer un rôle exceptionnel dans l’interprétation des lois fiscales. Dans son ouvrage Interprétation des lois (2e éd. 1990), à la p. 470, le professeur Pierre-André Côté résume la question d’une manière fort juste :
+Le doute dont le contribuable peut bénéficier doit être « raisonnable » : la loi fiscale doit être « raisonnablement claire ». Ne serait pas raisonnable un doute que l’interprète n’a pas essayé de dissiper grâce aux règles ordinaires d’interprétation : le premier devoir de l’interprète est de rechercher le sens et ce n’est qu’à défaut de pouvoir arriver à un résultat raisonnablement certain que l’on peut choisir de retenir celui, de plusieurs sens possibles, qui favorise le contribuable.
+[Souligné dans l’original.]
+Dans la présente cause, il n’y a pas de doute raisonnable tel qu’il est décrit par le professeur Côté et la présomption résiduelle n’a pas de rôle à jouer.

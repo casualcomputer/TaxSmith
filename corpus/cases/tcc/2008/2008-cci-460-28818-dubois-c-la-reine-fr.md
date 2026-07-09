@@ -1,0 +1,147 @@
+---
+title: "Dubois c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28818/index.do"
+last_modified: "2008-08-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 460"
+citation2: ""
+neutral_citation: "2008 CCI 460"
+decision_date: "2008-08-12"
+language: "fr"
+item_id: "28818"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1434
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:29:45.950000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7912f3c954e387c9b55de4c0690e40d84c88dffd235ca68cee0d7f24336df859"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dubois c. La Reine
+
+- Citation: 2008 CCI 460
+- Decision date: 2008-08-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1434, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dubois c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-08-12
+Référence neutre
+2008 CCI 460
+Numéro de dossier
+2007-823(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-823(IT)I
+ENTRE :
+CHRISTINE DUBOIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 8 mai 2008, à Ottawa (Ontario)
+Devant l’honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocate de l’appelante :
+Me Joëlle Darveau
+Avocat de l’intimée :
+Me Andrew Miller
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+Le présent jugement remplace le jugement rendu le 12 août 2008.
+L’appel de la décision rendue en vertu de la Loi de l’impôt sur le revenu pour l’année de base 2003 est accueilli, avec dépens, et l'affaire est renvoyée au ministre du Revenu national pour nouvelle décision tenant compte du fait que l'appelante a droit aux prestations fiscales canadiennes pour enfants en vertu de l'article 122.6 de la Loi.
+L’appel de la décision rendue en vertu de la Loi de l’impôt sur le revenu pour l’année de base 2004 est rejeté.
+Signé à Ottawa, Canada, ce 10e jour de février 2009.
+« Gerald J. Rip »
+Juge en chef Rip
+Référence : 2008 CCI 460
+Date : 20080812
+Dossier : 2007-823(IT)I
+ENTRE :
+CHRISTINE DUBOIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉ
+Le juge en chef Rip
+[1] Christine Dubois interjette appel des décisions par lesquelles le ministre du Revenu national (« ministre ») a refusé de lui accorder les prestations fiscales canadiennes pour enfants qu’elle a demandées en vertu de l’article 122.6 de la Loi de l’impôt sur le revenu (« Loi ») pour les années de base 2003 et 2004. À l'audience, l’appelante a reconnu que le calcul relatif à l’année de base 2003 n’était plus en litige.
+[2] Mme Dubois était mariée à Michel Cyr, de qui elle s'est séparée en juin 2001. Ils ont deux enfants : Ken, né le 3 août 1989, et Kevin, né le 6 avril 1987.
+[3] L’appelante a demandé des prestations fiscales canadiennes pour enfants pour chacun des enfants. Pour 2004, l’avocate de l’appelante a circonscrit la question en litige à deux périodes. Pour Kevin, la période en cause est de mars 2004 à juillet 2004, alors qu’il avait 17 ans; pour Ken, la période en cause est du mois d’août 2004 au mois de novembre 2004, alors qu’il avait 15 ans.
+[4] Le ministre a tenu pour acquis que Kevin avait vécu avec son père du 15 mars 2004 au 30 juillet 2004 et que Ken avait résidé chez son père du 31 août au 15 novembre 2004, et qu’il réside avec lui depuis le 15 mars 2005.
+[5] Mme Dubois et M. Cyr ont tous deux témoigné. La preuve des témoins était dans le genre : « il dit; elle dit ». Le témoignage des deux témoins a été largement influencé par l’émotion provoquée par l'échec du mariage, et leur crédibilité s'en est ressentie. La décision en l'espèce tiendra donc à l'évaluation des probabilités en ce qui concerne la question de savoir lequel des deux récits est vrai.
+[6] Selon Mme Dubois, Ken vivait avec elle au cours de la période susmentionnée et il se rendait chez son père pour les congés et à d’autres moments, mais il y restait habituellement seulement pour la journée et revenait coucher chez elle. Parfois, il couchait chez M. Cyr, mais il retournait chez sa mère le lendemain à 7 h 30 au plus tard.
+[7] Ken avait des difficultés à l’école et il était dans une classe spéciale. Il était en vacances en août, mais a fréquenté l’école en septembre 2004 et dans les mois qui ont suivi.
+[8] Mme Dubois a déclaré qu’elle conduisait Ken à des tournois de hockey, qu’elle assistait à ses séances d’entraînement et à ses parties, et qu’elle payait les frais se rapportant au hockey. Elle a affirmé que M. Cyr ne participait pas aux activités de hockey des garçons parce qu’il n’aimait pas cela. Elle, par contre, [traduction] « adorait » voir ses fils jouer au hockey. Mme Dubois a soutenu que c’est elle qui s'occupait de l'achat de l'équipement de hockey et qui payait cet équipement. Elle a suivi Kevin et Ken dans le hockey depuis leur première année jusqu'à leur dernière. Elle a dit qu’elle était toujours disponible pour leurs activités de hockey. Lorsque les enfants étaient chez leur père une journée où ils avaient une partie de hockey, il les conduisait chez Mme Dubois, qui les amenait à la partie. Elle a dit que ce n’est que lorsque Ken a commencé à vivre de manière permanente chez M. Cyr que ce dernier a commencé à aller aux parties de hockey.
+[9] Selon Mme Dubois, Kevin n’a plus fréquenté l’école après mars 2004. Il avait de temps à autre des emplois temporaires, mais il n’a jamais eu un emploi à temps plein. Kevin, comme Ken, se déplaçait entre la maison de son père et celle de sa mère. Toutefois, ses effets personnels se trouvaient chez sa mère.
+[10] Kevin a cessé de fréquenter l’école avant d'avoir terminé son primaire. Sa mère a dit qu’elle faisait avec lui de l’enseignement à domicile, mais probablement pas au‑delà du niveau primaire. Selon Mme Dubois, M. Cyr ne s’occupait pas de l’éducation des enfants, bien qu’il ait signé les bulletins scolaires de Ken parce que Ken préférait les montrer à son père plutôt qu’à sa mère. Mme Dubois a dit qu’il craignait les conséquences d’un mauvais bulletin si elle le voyait.
+[11] Mme Dubois achetait les vêtements pour les enfants. Elle a déclaré dans son témoignage que si M. Cyr achetait des vêtements pour les enfants, ils ne les apportaient jamais chez elle. En effet, ils revenaient avec les vêtements qu’ils avaient en partant de chez elle. Elle a affirmé qu’il n’y avait rien de nouveau dans leurs valises.
+[12] Mme Dubois a déclaré que c’est également elle qui amenait les enfants à leurs rendez-vous chez le médecin. Elle a dit qu’elle ne savait pas si M. Cyr les amenait également chez le médecin. Toutefois, elle a reconnu que si l’un ou l’autre des enfants s’était blessé ou était devenu malade pendant qu’il était chez son père, il l’aurait amené à l’hôpital.
+[13] Dans un document envoyé aux autorités fiscales, Mme Dubois fait état des périodes pendant lesquelles les deux enfants ont habité chez elle depuis 2002. À l’égard de Ken, pour la période d’avril 2004 à novembre 2004, elle indique que, de la mi‑avril jusqu’au mois de mai et pendant les mois de septembre et octobre et jusqu’à la mi‑novembre, Ken était en « vacances chez son père », mais pas pendant une période prolongée. Elle explique que les jours passés chez son père n’étaient pas interrompus et que les mois indiqués n’étaient pas des mois au complet, mais des jours dans les mois. Il manquait des détails concernant les visites des enfants chez leur père. Elle ne pensait pas avoir à présenter chaque jour en détail. Elle a laissé entendre qu’il y avait des mois au cours desquels Ken rendait visite à son père, partant le matin et revenant chez elle le soir ou passant la nuit avec M. Cyr et s'en retournant le lendemain matin. Pour les mois qui n’étaient pas décrits, il se peut que les deux enfants aient rendu visite à leur père, mais pour une plus courte période. Elle n’était pas certaine. Je trouve que l’imprécision relevée dans son témoignage concerne la période de temps passée par les enfants chez leur père. Il reste toutefois une incertitude quant à l’organisation des visites au cours des mois non énumérés. La situation était la même pour Kevin, sauf qu'il se peut qu’il ait passé deux ou trois jours à la fois chez son père, selon Mme Dubois.
+[14] Le nom, l'adresse et le numéro de téléphone de M. Cyr sont indiqués sur le bulletin scolaire de Ken pour les années scolaires 2003 et 2004. Mme Dubois n’y est pas mentionnée; elle ne pouvait se rappeler pourquoi.
+[15] Mme Dubois a reconnu que, lorsque les enfants étaient chez M. Cyr, il leur donnait à manger et c'est lui qui payait la nourriture.
+[16] En octobre 2004, M. Cyr a présenté à la Cour supérieure une demande en vue d’obtenir la garde des enfants et une pension alimentaire. Mme Dubois a contesté la demande. Un projet de consentement à jugement énonçait que Kevin avait vécu avec Mme Dubois du 20 octobre 2004 au 9 février 2005 et que Ken avait vécu avec elle du 18 décembre 2004 au 9 février 2005, mais que les enfants ont par la suite vécu avec leur père. Par conséquent, il était prévu que Mme Dubois payerait à M. Cyr une allocation mensuelle pour les enfants. M. Cyr a signé le consentement, mais Mme Dubois ne l’a pas fait parce que les enfants étaient revenus chez elle « à temps plein ». Au moment où ils sont retournés vivre chez elle, Ken était encore mineur.
+[17] L’avocat de l’intimée a questionné Mme Dubois concernant le projet de consentement à jugement, et en particulier au sujet des dates où les enfants vivaient avec elle. Selon le projet de consentement, Kevin a vécu avec elle du 20 octobre 2004 au 9 février 2005. Cependant, la période en cause pour Kevin est du 15 mars 2004 au 30 juillet 2004. L’avocat a soutenu que les dates indiquées dans le projet de consentement sont dépourvues de pertinence à l’égard des deux enfants.
+[18] M. Cyr a déclaré dans son témoignage qu’au cours des périodes en cause les enfants vivaient avec lui. En fait, il a témoigné que les enfants avaient vécu avec lui à temps plein de 2002 à 2004. Son nom et son adresse apparaissaient dans les dossiers scolaires des enfants comme étant ceux du parent avec lequel communiquer. Cependant, pour l’année scolaire 2004-2005, M. Cyr a signé pour Ken un formulaire d’inscription à l’école indiquant que la résidence principale de celui‑ci était chez Mme Dubois. M. Cyr a dit qu’il s'était remarié et que son épouse s’occupait de Kevin. Kevin avait une chambre dans la maison de M. Cyr et il y conservait ses DC, sa radio et ses vêtements. M. Cyr a dit qu’au printemps de chaque année il dépensait environ 350 $ en vêtements pour les enfants.
+[19] M. Cyr a affirmé avoir fait changer l’adresse pour la sienne en 2002; toutefois, ce n’est qu’en 2004 que son adresse (non pas comme la résidence principale des enfants, mais comme autre adresse) a été inscrite sur le formulaire d’inscription à l’école. Toutefois, l’adresse sur les diverses cartes d’hôpital est celle de l’appelante. M. Cyr, quoiqu'il ait affirmé être souvent allé à l’hôpital avec les enfants lorsque ceux-ci s'étaient blessés, ne semblait pas être au courant de l’existence de cartes d’hôpital quelconques pour les enfants.
+[20] Il a également affirmé que Ken ne manquait pas beaucoup d’école. Il a ensuite affirmé avoir appelé à plusieurs reprises pour motiver les absences de Ken à l’école. Il a ajouté que, puisqu’il commençait à travailler à 7h le matin, sa nouvelle conjointe appelait l’école également. Le relevé des absences de Ken pour la période du 13 septembre 2004 au 11 janvier 2005 a été déposé en preuve. Le relevé indique que Ken était absent pendant pas moins de 24 jours.
+[21] M. Cyr a nié l’affirmation selon laquelle il n’assistait pas aux tournois de hockey des enfants lorsque Mme Dubois ne le pouvait. Il a dit qu’il était allé à quelques tournois. Il a déclaré avoir acheté des patins, des bâtons de hockey et de l’équipement, de même que des vêtements.
+[22] L’intimée a déposé deux lettres par l’intermédiaire de M. Cyr. Ces lettres ont été écrites par son épouse. L'une était signée par Kevin et l’autre par Ken. Mme Cyr, Ken et Kevin n’ont pas été appelés comme témoins afin de faire ressortir la vérité quant à ces lettres. Les lettres, signées par ses deux enfants, soulignent le fait qu’ils habitaient bien chez leur père. M. Cyr a affirmé que ce sont les enfants eux-mêmes qui les ont rédigées et que sa nouvelle conjointe a recopié le tout au propre pour qu’il y ait le moins d’erreurs possibles. Les enfants les auraient ensuite signées.
+[23] Précédemment, M. Cyr mentionnait que c’est lui qui avait fait rédiger aux enfants des lettres expliquant où et avec qui ils habitaient. Les enfants les auraient ensuite simplement signées.
+[24] Kevin, le plus âgé des enfants n’a pas terminé son primaire et son frère Ken a quitté l’école alors qu’il était dans une classe spéciale. La question de savoir si les deux enfants étaient en mesure de comprendre les lettres qu’ils ont signées peut donc être posée et aucune preuve n’a été déposée à cet égard. On trouve dans le témoignage de M. Cyr plusieurs incohérences en ce qui a trait à l’adresse des enfants. Sur le formulaire d’inscription de Ken à l’école signé par M. Cyr, l’adresse indiquée comme résidence principale est celle de l’appelante et non de M. Cyr.
+[25] Je ne suis pas convaincu, compte tenu de la preuve concernant le niveau d’instruction des deux enfants et de l’apparence de la signature de chacun d'eux, que l’un ou l’autre pouvait lire les lettres ou du moins comprendre leur contenu. L’avocat de l’intimée n’aurait pas dû tenter de déposer de telles lettres sans que tous les acteurs ayant joué un rôle relativement à chacune des lettres soient mis à la disposition de la Cour pour témoigner. Les lettres sont simplement des documents rédigés dans un but intéressé qui ne prouvent rien.
+[26] M. Cyr n’avait en sa possession aucune facture autre qu'une facture pour les frais scolaires de Ken. Il n’avait pas non plus en sa possession les originaux des lettres susmentionnées rédigées par les enfants. Il y a lieu de faire remarquer également que, lorsque le ministre lui a demandé des preuves appuyant sa demande de prestations fiscales pour enfants, M. Cyr n'a pas envoyé les reçus prouvant les dépenses qu'il avait engagées. Il affirme que son avocate lui a plutôt conseillé de faire écrire une lettre aux enfants.
+[27] Je crois qu’il convient de conclure que le témoignage de M. Cyr, par opposition à celui de l'appelante, n'a qu'une faible crédibilité. Toutefois, tel qu’il a été mentionné précédemment, l'appelante n'a pas répondu à certaines questions, dont celle concernant la façon dont on s'organisait pour les mois où les enfants n’étaient pas en vacances chez leur père. Mais, dans l’ensemble, le témoignage de l’appelante semblait plus véridique.
+[28] Par conséquent, l’appel interjeté à l’égard de la décision pour l’année de base 2003 est accueilli, avec dépens, et l’affaire est renvoyée au ministre pour nouvelle décision tenant compte du fait que l’appelante a droit aux prestations fiscales canadiennes pour enfants en vertu de l’article 122.6 de la Loi. L’appel interjeté à l’égard de la décision pour l’année de base 2004 est rejeté.
+Signé à Ottawa, Canada, ce 10e jour de février 2009.
+«Gerald J. Rip »
+Juge en chef Rip
+RÉFÉRENCE : 2008 CCI 460
+No DU DOSSIER DE LA COUR : 2007‑823(IT)I
+INTITULÉ : CHRISTINE DUBOIS
+c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : le 8 mai 2008
+MOTIFS DU JUGEMENT : l’honorable juge en chef Gerald J. Rip
+DATE DU JUGEMENT MODIFIÉ : le 10 février 2009
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Joëlle Darveau
+Avocat de l’intimée :
+Me Andrew Miller
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Joëlle Darveau
+Cabinet : Me Joëlle Darveau, Avocate – Barrister
+Gatineau (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

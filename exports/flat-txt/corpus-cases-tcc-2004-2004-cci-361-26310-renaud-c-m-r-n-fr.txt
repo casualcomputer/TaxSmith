@@ -1,0 +1,113 @@
+Title: Renaud c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26310/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-361-26310-renaud-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-05-20
+
+# Renaud c. M.R.N.
+
+- Citation: 2004 CCI 361
+- Decision date: 2004-05-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3322, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Renaud c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-20
+Référence neutre
+2004 CCI 361
+Numéro de dossier
+2003-2578(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-2578(EI)
+ENTRE :
+GUYLAINE RENAUD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 24 février 2004 à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs de jugements ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 20e jour de mai 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2004CCI361
+Date : 20040520
+Dossier : 2003-2578(EI)
+ENTRE :
+GUYLAINE RENAUD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Savoie,
+[1] Cet appel a été entendu à Montréal (Québec), le 24 février 2004.
+[2] Il s'agit de déterminer le montant de la rémunération assurable de l'appelante lorsqu'au service d'Air Canada, le payeur, pour les périodes du 16 avril au 1er mai 2001 et du 10 octobre au 29 novembre 2001, les périodes en litige.
+[3] Le 15 avril 2003, le ministre du Revenu national (le « Ministre » ), a informé l'appelante de sa décision selon laquelle sa rémunération assurable pendant les périodes en litige s'élevait à 7 071,64 $ pour la période du 16 avril au 1er mai 2001 et à 2 010,85 $ pour la période du 10 octobre au 29 novembre 2001.
+[4] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait suivantes :
+a) Au cours des périodes en litige, l'appelante occupait un poste d'agent de bord au service du payeur; (admis)
+b) Du 8 août 2000 au 15 janvier 2001, l'appelante était en congé suite à un accident de travail; (admis)
+c) À compter du 16 janvier 2001, l'appelante est retournée progressivement au travail; (admis)
+d) Du 16 avril au 1er mai 2001, l'appelante a rendu des services au payeur durant 55 heures; (admis)
+e) Pour ces 55 heures de travail, l'appelante a été rémunérée 1 845,23 $ en deux versements de 1 763,82 $ et de 81,41 $; (admis)
+f) En mai 2001, le payeur a versé à l'appelante 5 226,41 $ en paiement de ses jours de vacances accumulés; (admis)
+g) Du 10 octobre au 29 novembre 2001, l'appelante a rendu des services au payeur durant 113 heures; (admis)
+h) Pour ces 113 heures de travail, l'appelante a été rémunérée 2 010,85 $ soit 1 373,07 $ versés en octobre et 637,78 $ versés en novembre. (à parfaire)
+[5] À l'audition, l'appelante a produit la pièce A-1, à l'appui de sa prétention que sa rémunération est assurable. Pour sa part, le Ministre a produit les pièces I-1 à I-6 et s'est basé sur celles-ci pour déterminer la rémunération assurable réelle de l'appelante. Il s'agit des relevés d'emploi de l'appelante, le relevé de sa rémunération (T4) ainsi que le relevé des montants versés à l'appelante par l'assureur Great West Life en guise d'assurance salaire (T4A).
+[6] Il a été établi à l'audition que le payeur avait fourni des informations différentes au Ministre et à l'appelante, quant à la rémunération de celle-ci.
+[7] L'audition a permis aux parties de comparer les données de chacun pour tenter de résoudre l'ambiguïté. Au terme de cet exercice, cette Cour est d'avis que la preuve a été faite que la rémunération assurable de l'appelante pour les périodes en litige est telle que représentée par le payeur dans son formulaire T4 remis à l'appelante. Il s'agit de la pièce I-5 et le montant est de 10 857,72 $.
+[8] Cette Cour a eu l'occasion, pendant l'audition, de comparer les données présentées par chaque partie. La procureure du Ministre a fait valoir sa position selon laquelle le montant versé à l'appelante en compensation de sa perte de salaire ne représentait pas une rémunération assurable. Cette Cour considère qu'elle doit faire droit à cet argument, puisque le sujet n'a jamais été abordé. L'appelante ne l'a jamais soulevé et il ne fait pas partie du débat. Donc cette Cour n'a pas à se prononcer sur l'assurabilité des montants versés à l'appelante par l'assureur Great West Life.
+[9] À la demande de l'appelante, cette Cour a consenti à lui accorder un délai jusqu'au 30 avril 2004 pour lui permettre de produire d'autres documents qui, selon sa prétention, serviraient à appuyer sa position. Cependant, aucun document additionnel n'a été remis, à cette date.
+[10] L'appelante avait le fardeau de prouver la fausseté des présomptions du Ministre. Elle ne s'est cependant pas acquittée de ce fardeau. D'ailleurs, elle a admis toutes les présomptions pertinentes du Ministre. Donc, le bien-fondé de l'intervention de cette Cour n'a pas été démontré.
+[11] En conséquence, l'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Grand-Barachois, (Nouveau-Brunswick), ce 20e jour de mai 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2004CCI361
+No DU DOSSIER DE LA COUR :
+2003-2578(EI)
+INTITULÉ DE LA CAUSE :
+Guylaine Renaud c. le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 24 février 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable S.J. Savoie, juge suppléant
+DATE DU JUGEMENT :
+Le 20 mai 2004
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Pour l'intimé :
+Me Anne Poirier
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

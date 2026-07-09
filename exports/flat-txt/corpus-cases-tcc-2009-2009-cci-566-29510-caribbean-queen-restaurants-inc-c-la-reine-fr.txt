@@ -1,0 +1,146 @@
+Title: Caribbean Queen Restaurants Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29510/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-566-29510-caribbean-queen-restaurants-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-08-19
+
+# Caribbean Queen Restaurants Inc. c. La Reine
+
+- Citation: 2009 CCI 566
+- Decision date: 2009-08-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6268, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Caribbean Queen Restaurants Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-08-19
+Référence neutre
+2009 CCI 566
+Numéro de dossier
+2009-167(GST)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2009-167(GST)I
+ENTRE :
+CARIBBEAN QUEEN RESTAURANTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requêtes entendues le 19 août 2009, à Toronto (Ontario).
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Avocate de l’appelante :
+Me Leigh Somerville Taylor
+Avocat de l’intimée :
+Me Hong Ky (Eric) Luu
+____________________________________________________________________
+ORDONNANCE
+VU la requête présentée par l’appelante afin d’obtenir une ordonnance portant annulation de la cotisation établie le ou vers le 31 juillet 2009, ainsi que d’autres mesures de réparation, s’il y a lieu;
+VU la requête présentée par l’intimée afin d’obtenir des directives de la Cour concernant les prochaines mesures à prendre dans le cadre de la présente instance, ainsi que d’autres mesures de réparation, s’il y a lieu;
+APRÈS avoir lu les documents produits;
+ET APRÈS avoir entendu les avocats des parties;
+LA COUR ORDONNE CE QUI SUIT :
+1, La requête de l’appelante est rejetée, avec dépens d’une somme de 3 000 $ payables immédiatement par l’intimée;
+2. La requête de l’intimée est accueillie et :
+a) l’appelante doit produire un avis d’appel modifié au plus tard le 31 décembre 2009;
+b) l’intimée doit produire une réponse à l’avis d’appel modifié au plus tard le 1er février 2010.
+Signé à Ottawa, Canada, ce 4e jour de novembre 2009.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 4e jour de janvier 2010.
+David Aubry, LL.B.
+Réviseur
+Référence : 2009 CCI 566
+Date : 20091104
+Dossier : 2009-167(GST)I
+ENTRE :
+CARIBBEAN QUEEN RESTAURANTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge McArthur
+[1] Je suis saisi de deux requêtes, une pour le compte de chacune des parties. L’appelante demande une ordonnance portant annulation de la cotisation établie le ou vers le 31 juillet 2009, et l’intimée sollicite des directives concernant les prochaines mesures à prendre dans le cadre de la présente instance.
+[2] J’avais antérieurement accordé un ajournement, sine die, de l’audience fixée au 8 septembre 2009 de même qu’un abrègement du délai applicable à la production et à la signification de la requête et des déclarations sous serment de l’intimée.
+[3] L’appel intéresse une cotisation établie le 5 février 2008. Toutes les mesures procédurales paraissent avoir été prises en vue de l’audience fixée au 8 septembre 2009. L’interruption découle de la nouvelle cotisation établie par l’intimée le 31 juillet 2009. À moins que cette nouvelle cotisation ne soit annulée, de nouvelles mesures procédurales devront être prises car le présent appel ne peut être entendu dans sa forme actuelle.
+[4] En bref, l’appelante a soutenu qu’elle subirait un préjudice si la cotisation était déclarée valide et que celle‑ci constitue un abus de procédure. Elle a précisé ce qui suit à cet égard :
+[TRADUCTION]
+1. Après la conférence préparatoire à l’audience, le présent appel a été mis au rôle à une date choisie par l’intimée.
+2. Après la mise au rôle de l’appel, l’intimée a tenté de soulever de nouvelles questions et de nouveaux faits et elle a tenté de faire ajourner l’audition de l’appel. L’appelante s’est opposée à la demande d’ajournement.
+3. Après que la Cour canadienne de l’impôt (la « Cour de l’impôt ») eut refusé sa demande d’ajournement de l’audience, l’intimée a prétendu établir une nouvelle cotisation à l’égard de l’appelante pour faire échec à l’appel de cette dernière et ainsi faire indirectement ce que la Cour de l’impôt avait refusé d’ordonner directement.
+4. Par la prétendue nouvelle cotisation de l’intimée, le ministre tente d’interjeter appel de sa propre cotisation. L’appelante fait valoir que la prétendue nouvelle cotisation constitue un abus de procédure et un acte invalide que la Cour doit annuler et que celle‑ci est maître de sa procédure.
+[5] L’intimée a demandé ce qui suit :
+[traduction]
+1. Des directives de la Cour quant aux prochaines mesures devant être prises dans le cadre de la présente instance.
+2. S’il y a lieu, et par suite de la nouvelle cotisation établie par le ministre du Revenu national, un ajournement de l’audience fixée au 8 septembre 2009.
+3. S’il y a lieu, une ordonnance portant abrègement du délai applicable au dépôt et à la signification, en l’espèce, de l’avis de requête et des déclarations sous serment à l’appui.
+[6] L’intimée a avancé que la cotisation est légitime et légale, que le ministre du Revenu national a le droit et le devoir d’établir une cotisation exacte à l’égard des contribuables et que la Cour n’a pas compétence pour annuler la cotisation. L’avocat de l’intimée a ajouté que les faits ne permettent pas de conclure qu’il y a abus de procédure, et qu’il est possible d’établir une distinction entre les faits en l’espèce et ceux de la décision Bassermann c. Canada[1], où l’appelante avait violé une ou plusieurs ordonnances de la Cour.
+[7] L’appelante s’est appuyée sur la décision Bassermann pour soutenir que le ministre, lorsqu’il a établi la cotisation du 31 juillet 2009, tentait délibérément d’obtenir un ajournement qui avait été refusé par la Cour et que cet acte équivaut à une violation d’une ordonnance de la Cour. Dans l’affaire Bassermann, une cotisation a été annulée parce que le ministre avait violé une ordonnance de la Cour lui enjoignant de communiquer certains documents. En l’espèce, j’accepte l’argument de l’avocat de l’intimée voulant que la décision d’établir une cotisation ait été prise avant que la Cour ne refuse d’ordonner un ajournement, même si les doutes de l’appelante sont compréhensibles.
+[8] L’abus de procédure a été invoqué dans la décision Obonsawin c. La Reine[2], où l’appelant avait fait valoir, sans succès, que la Cour canadienne de l’impôt devait annuler une cotisation parce que les actes du ministre choqueraient la conscience de la collectivité. Lorsqu’il a rejeté la requête, M. le juge Miller a renvoyé aux observations formulées par la Cour suprême du Canada dans les arrêts Blencoe c. Colombie‑Britannique (Human Rights Commission)[3] et R. c. Power[4] selon lesquelles il doit y avoir, pour conclure à l’existence d’un abus de procédure, « … une preuve accablante que les procédures examinées sont injustes au point qu’elles sont contraires à l’intérêt de la justice ».
+[9] Pour les motifs qui suivent, je conclus que le ministre avait le droit d’établir une nouvelle cotisation à l’égard de l’appelante. Cette dernière a avancé que le ministre ne peut interjeter appel de sa propre cotisation et elle a renvoyé à plusieurs décisions mentionnées dans son exposé des arguments et de la jurisprudence pour étayer sa thèse. M. le juge Bastarache, de la Cour suprême du Canada, a reconnu le bien‑fondé de ce principe dans l’arrêt Continental Bank Leasing Corp. c. Canada[5]. Dans cette affaire, le ministre avait tenté de changer le fondement de la cotisation après l’expiration du délai de prescription applicable. Le ministre en l’espèce a respecté le délai de quatre ans qui est prévu par la loi.
+[10] À la suite de l’arrêt Continental Bank, le législateur a édicté le paragraphe 152(9) de la Loi de l’impôt sur le revenu et le paragraphe 298(6.1) de la Loi sur la taxe d’accise. Ces dispositions sont presque identiques et elles autorisent le ministre à invoquer des arguments subsidiaires à n’importe quel moment après la période normale de nouvelle cotisation. Elles n’ont aucune incidence sur la situation dont je suis saisi.
+[11] L’argument fondé sur l’alinéa 302b) qu’invoque l’intimée achoppe sur le fait que cette disposition ne s’applique qu’au contribuable qui peut modifier un appel « selon les modalités fixées par cette cour ». L’alinéa 302b) prévoit notamment ce qui suit :
+302. Appel à la Cour canadienne de l’impôt
+La personne, ayant présenté un avis d’opposition à une cotisation, à qui le ministre a envoyé un avis de […] cotisation supplémentaire […] peut […] :
+a) interjeter appel devant la Cour canadienne de l’impôt;
+b) […] modifier cet appel en y joignant un appel concernant la nouvelle cotisation […] en la forme et selon les modalités fixées par cette cour.
+[12] L’avocate de l’appelante a fait valoir que l’article 54 des Règles de la Cour canadienne de l’impôt (procédure générale) doit être pris en compte. Voici le texte de cette disposition :
+54. Une partie peut modifier son acte de procédure, en tout temps avant la clôture des actes de procédure, et subséquemment en déposant le consentement de toutes les autres parties, ou avec l’autorisation de la Cour, et la Cour en accordant l’autorisation peut imposer les conditions qui lui paraissent appropriées.
+[13] Selon la règle générale, « […] une modification devrait être autorisée à tout stade de l’action aux fins de déterminer les véritables questions litigieuses entre les parties, pourvu, notamment, que cette autorisation ne cause pas d’injustice à l’autre partie que des dépens ne pourraient réparer[6] ». Il est utile de reproduire les observations formulées par M. le juge Bowman dans la décision Continental Bank[7]:
+Le système judiciaire au Canada perdrait de sa crédibilité si les tribunaux étaient limités, dans leur examen du fond d’une affaire, par un aveu irréfléchi qui est incompatible avec une autre thèse avancée, en particulier si on tente de rétracter un tel aveu au début d’une instance. Cette affirmation tient, que ce soit le contribuable ou la Couronne qui tente de modifier sa thèse.
+[14] Cette règle et les observations du juge Bowman s’appliquent également à la présente situation. Tant que le contribuable est informé de manière complète et en temps opportun du nouveau moyen invoqué et qu’il a amplement le temps de se préparer, les cotisations doivent être accueillies[8].
+[15] L’instruction en l’espèce n’a pas encore débuté. Bien que les parties puissent ne pas s’entendre sur le point de savoir si l’appelante avait été informée des faits et des motifs à l’origine de la cotisation du 31 juillet 2009, je crois qu’il y a lieu d’autoriser l’intimée à modifier ses actes de procédure et que l’adjudication de dépens permettra de faire en sorte que la contribuable ne subisse pas de préjudice. En conséquence, l’intimée devra immédiatement payer des dépens d’une somme de 3 000 $ à l’appelante.
+Conclusion
+[16] Cette adjudication de dépens n’est pas visée par l’examen prévu à l’article 18.3009, lequel s’applique au jugement rendu après l’audition d’un appel. La présente ordonnance est de nature interlocutoire. Les sous‑alinéas 18.3009c)(i) et (ii) font état de [TRADUCTION] « l’adjudication des dépens à la personne qui a introduit l’appel lorsque le jugement a pour effet de réduire la somme par plus de la moitié et, dans le cas d’un appel interjeté sous le régime de la partie IX de la Loi sur la taxe d’accise, lorsque la somme en litige n’excède pas 7 000 $, et (ii) le montant total des fournitures pour l’exercice précédent de la personne n’excédait pas 1 000 000 $. Les dispositions législatives pertinentes prévoient que la Cour peut adjuger des dépens lorsque certaines conditions sont réunies, mais elles n’empêchent pas l’adjudication de dépens lorsque ces conditions ne sont pas réunies[9] ». Comme elle est une cour supérieure, la Cour canadienne de l’impôt jouit de la compétence inhérente d’accorder des dépens.
+[17] L’appelante devra produire un avis d’appel modifié au plus tard le 31 décembre 2009 et l’intimée devra produire une réponse à l’appel modifié au plus tard le 1er février 2010. Si de plus amples directives ou précisions sont nécessaires, la Cour pourra, à la demande de l’une ou l’autre des parties, organiser une téléconférence à cette fin.
+Signé à Ottawa, Canada, ce 4e jour de novembre 2009.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 4e jour de janvier 2010.
+David Aubry, LL.B.
+Réviseur
+RÉFÉRENCE : 2009 CCI 566
+NO DU DOSSIER DE LA COUR : 2009-167(GST)I
+INTITULÉ : Caribbean Queen Restaurants Inc. et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 19 août 2009
+MOTIFS DE L’ORDONNANCE : L’honorable juge C.H. McArthur
+DATE DE L’ORDONNANCE : Le 4 novembre 2009
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Leigh Somerville Taylor
+Avocat de l’intimée :
+Me Hong Ky (Eric) Luu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Leigh Somerville Taylor
+Cabinet : Richler and Tari Toronto (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1993] A.C.I. 329.
+[2] 2004 CCI 3.
+[3] [2000] 2 R.C.S. 307.
+[4] R. c. Power, [1994] 1 R.C.S. 601, au par. 12.
+[5] [1998] 2 R.C.S. 298.
+[6] La Reine c. Canderel Ltée, [1994] 1 C.F. 3, 93 DTC 5357, où on renvoie à la décision Ketteman v. Hansel Properties Limited, [1988] 1 All E.R. 38.
+[7] 93 DTC 298.
+[8] The Queen v. Hollinger Inc., [1999] 4 C.T.C. 61. (C.A.F.).
+[9] Tiré d’un éditorial que David Sherman, auteur et commentateur très respecté en matière de TPS, a écrit à la suite du jugement publié 736728 Ontario Ltd. c. R., 2005 CCI 679.

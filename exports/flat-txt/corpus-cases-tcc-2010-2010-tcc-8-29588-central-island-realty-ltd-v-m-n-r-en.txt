@@ -1,0 +1,134 @@
+Title: Central Island Realty Ltd. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29588/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-8-29588-central-island-realty-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2010-01-07
+
+# Central Island Realty Ltd. v. M.N.R.
+
+- Citation: 2010 TCC 8
+- Decision date: 2010-01-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6340, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Central Island Realty Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-01-07
+Neutral citation
+2010 TCC 8
+File numbers
+2009-142(EI)
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2009-142(EI)
+BETWEEN:
+CENTRAL ISLAND REALTY LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 15, 2009, at Vancouver, British Columbia
+By: The Honourable Justice Brent Paris
+Appearances:
+Counsel for the Appellant:
+Deryk W. Coward
+Agent for the Respondent:
+Jonah Spiegelman (Student-at-Law)
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the ruling of the Minister of National Revenue on the appeal made to him under section 91 of the Act is confirmed.
+Signed at Ottawa, Canada, this 7th day of January, 2010.
+“B.Paris”
+Paris J.
+Citation: 2010 TCC 8
+Date: 20100107
+Docket: 2009-142(EI)
+BETWEEN:
+CENTRAL ISLAND REALTY LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] This is an appeal from a ruling by the Minister of National Revenue that Denise Dumbrell’s employment with the Appellant for the period January 1, 2004 to November 8, 2007 was insurable under the Employment Insurance Act. The Appellant corporation is wholly owned by Ms. Dumbrell’s father, Wayne Dumbrell, and therefore, her employment would normally be excluded from insurable employment under paragraph 5(2)(a) of the Act which provides that insurable employment does not include employment where the employer and employee do not deal at arm’s length. There is no dispute that but for paragraph 5(3)(b), Denise Dumbrell and the Appellant would not have been dealing with each other at arm’s length. However, paragraph 5(3)(b) of the Act goes on to state that:
+5(3) For the purposes of paragraph (2)(i),
+(a) …
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+In this case, the Minister was satisfied that the parties would have entered into a substantially similar contract of employment if they had been acting at arm’s length.
+[2] The only issue in appeal is whether in light of all of the facts, the Minister’s decision under paragraph 5(3)(b) is reasonable. The Appellant at the hearing, conceded that Ms. Dumbrell’s employment was insurable for the period January 2, 2004 to August 31, 2004. The relevant period for the purposes of the appeal is, therefore, September 1, 2004 to November 8, 2007.
+[3] The facts relied upon by the Minister in arriving at his decision are set out in paragraph 6 of the Reply to the Notice of Appeal. The relevant portions of paragraph 6 read as follows:
+6. In determining that the Worker was employed in insurable employment with the Appellant during the Period, the Minister relied on the following assumptions of fact:
+a) ...
+Licensed Realtor
+p) in 2003 the Worker became a licenses realtor;
+q) the Worker’s duties, similar to other employee realtors with the Appellant, was selling real estate and assisting with the Appellant’s administrative work;
+r) during the Period, the Appellant employed a receptionist, a bookkeeper, an office manager, and assistant and realtors working as employees or self employed;
+s) the Worker and all employee realtors were accountable to the office manager;
+t) during the Period, the Worker and other employee realtors were responsible for providing administrative support work where the self employed realtors with the Appellant were not required to perform these duties;
+u) the Worker and other unrelated realtors were accountable to the office manager;
+Hours and Pay
+v) all realtors, whether self employed or working as employees of the Appellant were paid on a commission basis;
+w) only the Appellant’s office staff and the office manager were paid on an hourly rate;
+x) the Worker and all unrelated realtors’ hours varied and all were on call;
+y) there is no written agreement between the Appellant and the realtors;
+z) the Worker was paid a sales commission of a 60/40 split whereas some of the other unrelated realtors were paid on a 70/30 split;
+aa) the Worker’s commission rate would be increased to a 70/30 split once the worker increased her sales volume;
+Other
+bb) the Worker did not have signing authority on the Appellant’s business bank accounts;
+cc) as with all realtors, no benefits were provided other than WCB;
+dd) …
+(hh) the Worker was treated in the same manner as all unrelated realtors were treated; …
+Analysis
+[4] According to the Federal Court of Appeal, the role of this Court with respect to the Minister’s decision under paragraph 5(3)(b) is to verify whether the facts relied upon by the Minister were true and correctly assumed, having regard to the context in which they arose, and after doing so, it must decide whether the conclusion with which the Minister was satisfied still appears reasonable. See Legaré v. Canada (Minister of National Revenue).[1]
+[5] In Pérusse v. Canada (Minister of National Revenue),[2] the Federal Court of Appeal also said at paragraph 15:
+15 The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given to it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[6] At the hearing, the Appellant called Ms. Dumbrell to testify, and the Respondent called Richard Blakely and Linda Wik, the rulings officer and the appeals officer, respectively, with the Canada Revenue Agency.
+[7] Ms. Dumbrell’s evidence was that her terms and conditions of employment with the Appellant as well as her rate of pay, were much different than those of other arm’s length realtors who worked for the Appellant.
+[8] However, Ms. Dumbrell’s credibility was undermined by inconsistencies between her testimony before the Court and her earlier statements to Mr. Blakely, as well as between her evidence and information provided to Ms. Wik by Wayne Dumbrell and to Mr. Blakely by Wayne Dumbrell's spouse, (Ms. Dumbrell’s mother), Sharon Dumbrell, who was also involved in the Appellant’s business and worked as a realtor with the Appellant.
+[9] Firstly, Ms. Dumbrell stated at the hearing that her share of the commission on properties she sold was not fixed, but was decided by her father, depending on her needs at the time, and upon how much work she had done on the sale, as well as upon his mood. However, she had told Mr. Blakely in a telephone interview that she received 60% of the commission on properties sold, with 40% going to the Appellant. This commission split (60/40) was confirmed by Sharon Dumbrell in a phone interview with Mr. Blakely, and by Wayne Dumbrell in a phone interview with Ms. Wik.
+[10] Secondly, Ms. Denise Dumbrell testified that the Appellant provided her with a vehicle, a truck. However, Ms. Dumbrell had told Mr. Blakely that she made the payments on the truck. Sharon Dumbrell also told Mr. Blakely that her daughter made the payments on the truck. Mr. Dumbrell told Ms. Wicks that his daughter was required to provide and pay for her own transportation.
+[11] Thirdly, the evidence given by Denise Dumbrell concerning her duties for the Appellant was inconsistent with what she had told Mr. Blakely in a phone interview. When asked by Mr. Blakely to describe a typical day of work and what her duties were, Ms. Dumbrell replied “selling real estate, all aspects of selling real estate”. At the hearing, Ms. Dumbrell said that in addition to selling real estate, her duties included anything her father told her to do or what needed doing, including running errands, delivering documents to other locations at which the Appellant had offices, training new employees, cleaning the office including vacuuming and cleaning the bathrooms, making real estate signs and assisting other realtors and looking after the office while her parents were away. She estimated that she spent 20 to 25 hours per week on tasks unrelated to selling real estate, and often worked late in the evening and on weekends.
+[12] Fourthly, Denise Dumbrell testified that she never reported to the Appellant’s office manager, but only reported to her father. She told Mr. Blakely that she dealt with her father more than the office manager. Sharon Dumbrell said that Denise reported to both Wayne Dumbrell and the office manager.
+[13] Finally, in her testimony before the Court, Denise Dumbrell said that her mother initiated the Appellant’s application for a refund of employment insurance premiums paid in relation to her employment. He mother told Mr. Blakely, though, that Denise had inquired about the possibility of a refund with Grants International Inc., a firm that on its letterhead[3] refers to itself as “The Employment Insurance Refund Specialists”.
+[14] Beyond specific inconsistencies in the evidence and statements given by Denise Dumbrell, I am also struck by the contrast between the picture given by her of her duties, and conditions of employment with the Appellant in her interview with Mr. Blakely and her testimony in Court. She told Mr. Blakely that she signed cheques, looked after the office and was on call at all times when her parents were away, and might spend 20 hours a month on unpaid tasks for the Appellant at other times. At the hearing, Ms. Dumbrell estimated that she spent 20 to 25 hours a week on “non-realtor duties” for the Appellant for which she was not paid. She described herself as her father’s “personal slave” and said that as family she felt obligated to do what he asked her. She also said that other realtors in the office referred to her as “superwoman”. When asked about the telephone interview with Mr. Blakely, Denise Dumbrell said she did not recall it. I find this surprising since it appears to have been a fairly lengthy and detailed interview.
+[15] Furthermore, the evidence of Ms. Dumbrell regarding the extent of her non-realtor duties for the Appellant does not coincide with the information given by her parents to the rulings officer and appeals officer. Neither mentioned any unpaid extra work performed by Ms. Dumbrell except for periods while they were on holidays, which Sharon Dumbrell said happened periodically.
+[16] Given my finding that Denise Dumbrell was not a credible witness, the Appellant has not succeeded in providing the Court with any new facts concerning her employment with the Appellant, nor (with one exception) has it succeeded in disproving the assumptions made by the Minister concerning the terms and conditions of her employment. It appears that the majority of those terms and conditions were substantially similar to the other realtors working for the Appellant. While Denise Dumbrell’s commission split with the Appellant was lower (at 60/40) than the other realtors (whose split was 70/30), Sharon Dumbrell explained that this took into account extra expenses that the Appellant assumed on Denise’s behalf, such as long distance calls, cell phone charges, signage and advertising that it did not pay for the other realtors. Mr. Dumbrell said that her commission split would also increase when her volume of sales increased. These considerations all appear to indicate the financial terms of their relationship were substantially similar to what would have existed in an arm’s length relationship.
+[17] I accept that Denise Dumbrell did take on extra unpaid work for the Appellant while her parents were away, but it is not clear from the evidence how often this happened or how significant the extra work was. Contrary to the assumption set out in paragraph 6(bb) of the Reply, the evidence did show that Ms. Dumbrell was given signing authority on certain of the Appellant’s bank accounts to be exercised while her parents were away. However, again, it is not clear how often she signed cheques for the Appellant. Ultimately, the Appellant has not shown that this extra work was sufficient to render the Minister’s decision concerning the employment contract unreasonable.
+[18] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 7th day of January, 2010.
+“B.Paris”
+Paris J.
+CITATION: 2010 TCC 8
+COURT FILE NO.: 2009-142(EI)
+STYLE OF CAUSE: CENTRAL ISLAND REALTY LTD. and MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: December 15, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Brent Paris
+DATE OF JUDGMENT: January 7, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Deryk W. Coward
+Agent for the Respondent:
+Jonah Spiegelman (Student-at-Law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Deryk W. Coward
+Firm: D’Arcy & Deacon LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1999] F.C.J. No. 878.
+[2] [2000] F.C.J. No. 310.
+[3] Exhibit R-1.

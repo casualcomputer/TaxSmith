@@ -1,0 +1,281 @@
+---
+title: "D'Amore c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31000/index.do"
+last_modified: "2012-10-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 373"
+citation2: ""
+neutral_citation: "2012 CCI 373"
+decision_date: "2012-10-22"
+language: "fr"
+item_id: "31000"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4882
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:19:31.876000+00:00"
+cases_cited_count: 5
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c660b32bc950ee5bc9bac4c58c681f52d1447e8fbe13be4ad9750f6696ffcd6d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# D'Amore c. La Reine
+
+- Citation: 2012 CCI 373
+- Decision date: 2012-10-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4882, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+D'Amore c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-10-22
+Référence neutre
+2012 CCI 373
+Numéro de dossier
+2010-3562(IT)G, 2010-3563(GST)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-3562(IT)G
+2010-3563(GST)I
+ENTRE :
+KEVIN D’AMORE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 5 septembre 2012, à Windsor (Ontario)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelant :
+Me John Mill
+Avocat de l’intimée :
+Me Ryan Gellings
+JUGEMENT
+Les appels interjetés d’une cotisation d’impôt sur le revenu établie au titre de l’article 227.1 de la Loi de l’impôt sur le revenu (la « Loi ») et d’une cotisation de TPS établie au titre de l’article 323 de la Loi sur la taxe d’accise (la « LTA ») sont accueillis, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, au motif que la responsabilité de l’appelant à titre d’administrateur joue pour la période s’étendant du 1er août 2007 au 20 novembre 2007. Chaque partie supportera ses propres frais.
+Signé à Toronto (Ontario) ce 22e jour d’octobre 2012.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 5e jour de mars 2013.
+François Brunet, réviseur
+Référence : 2012 CCI 373
+Date : 20121022
+Dossier : 2010-3562(IT)G
+2010-3563(GST)I
+ENTRE :
+KEVIN D’AMORE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] La Cour est saisie de deux appels que M. Kevin D’Amore a interjetés d’une cotisation d’impôt établie au titre de l’article 227.1 de la Loi de l’impôt sur le revenu (la « Loi ») et d’une cotisation de TPS établie au titre de l’article 323 de la Loi sur la taxe d’accise (la « LTA »). Ces deux cotisations sont fondées sur la responsabilité qu’assumait M. D’Amore à titre d’administrateur de 2110989 Ontario Inc. (la « Société »), faisant affaire sous le nom de Faces Roadhouse (« Faces » ou l’« établissement ») à Windsor (Ontario).
+[2] Les éléments de preuve produits au procès sont les suivants : un exposé conjoint partiel des faits ainsi que le témoignage de M. D’Amore. Jusqu’à sa fermeture en novembre 2007, Faces avait opéré ce que je qualifierais de pub universitaire, à proximité de l’Université de Windsor, depuis au moins quelques décennies. M. D’Amore avait travaillé à temps partiel dans cet établissement pendant ses études, et ce, depuis aussi loin que 1989, et il y avait exercé divers métiers, tels que portier, serveur et barman. Il avait été embauché en 1989 par la directrice, Linda Hughes, dont le père et le frère étaient propriétaires de l’établissement. M. D’Amore et son épouse s’étaient liés d’amitié avec Mme Hughes et son époux. M. D’Amore avait ensuite commencé à s’occuper de sa propre entreprise familiale de construction et, en 2000, il était devenu actionnaire, dirigeant et administrateur de D’Amore Construction 2000 Ltd, au sein de laquelle exerçait les fonctions de directeur de projets et estimateur.
+[3] Au début de l’été de 2006, M. D’Amore a vu une annonce concernant la vente de Faces et il est entré en contact avec son amie, Mme Hughes, qui gérait toujours l’établissement. Elle avait songé à l’acheter de sa famille, mais n’était pas en mesure, financièrement, de le faire. M. D’Amore a négocié avec le père et le frère de Mme Hughes une entente relative à l’achat de Faces. Il a invité Mme Hughes à se joindre à cette entente en acquérant 30 p. 100 des actions de la Société, qu’il avait constituée en août 2006 en vue de l’achat de Faces. Il a également pris des dispositions pour que Mme Hughes conserve ses fonctions de directrice générale, car il n’avait aucune expérience de l’exploitation d’un restaurant. Il est resté au service de l’entreprise de construction familiale. L’épouse de M. D’Amore était actionnaire à 70 p. 100 de la Société, tandis que M. D’Amore et Mme Hughes en étaient les deux administrateurs. Mme Hughes avait le titre de vice-présidente de la Société et M. D’Amore celui de secrétaire. L’achat de Faces n’a été conclu qu’à la fin de décembre 2006.
+[4] M. D’Amore et Mme Hughes ont injecté dans la Société 50 000 $ de fonds de roulement : M. D’Amore y a contribué pour la somme de 35 000 $ et Mme Hughes pour la somme de 15 000 $, sur laquelle elle a dû emprunter 10 000 $ à M. D’Amore.
+[5] M. D’Amore a pris un certain nombre de mesures au moment d’acquérir Faces par l’entremise de la Société. Il a demandé à son comptable agréé, M. Russo, d’établir les comptes gouvernementaux nécessaires au titre de la TPS, des retenues à la source et de la taxe de vente provinciale, ainsi que les comptes relatifs à ses fournisseurs. M. Russo a inscrit le nom de M. D’Amore comme point de contact pour tous les comptes gouvernementaux. Ces deux personnes ont jugé qu’il était préférable, dans le cas de la TPS, d’opter pour les versements mensuels plutôt que trimestriels.
+[6] M. D’Amore s’est entretenu avec Mme Hughes de ses responsabilités; il a souligné qu’il était crucial d’effectuer les versements et qu’il valait mieux ne pas [traduction] « se mettre à dos » le gouvernement. Il a décidé de ne pas payer le gouvernement par chèque et il a plutôt établi un système de versements par voie électronique afin de s’assurer que les paiements fussent faits sans délai et, surtout, qu’ils étaient également reçus sans délai. Il ne serait donc pas nécessaire de partir à sa recherche pour qu’il appose sa signature sur les chèques, car les chèques destinés aux fournisseurs, au loyer, à la paye des employés, etc. devaient porter sa signature ainsi que celle de Mme Hughes.
+[7] M. D’Amore a également évoqué avec Mme Hughes les tâches de tenue de livres et de comptabilité. Ils ont tous deux convenu que, pour économiser de l’argent, Mme Hughes se chargerait de ces responsabilités et qu’ils ne garderaient pas à leur service Mme Collins, la personne qui s’occupait de la tenue des comptes, même si Mme Hughes n’avait pas eu accès auparavant aux programmes comptables, pas plus qu’elle n’avait suivi une formation quelconque en matière de comptabilité ou de tenue de comptes. Ils ont fait l’achat d’un logiciel de comptabilité, Quickbooks, que M. D’Amore connaissait bien. Ce dernier a fait savoir à Mme Hughes que, si ce logiciel lui posait des difficultés, il serait bon qu’elle communique avec lui, parce qu’il le connaissait bien.
+[8] M. D’Amore était chaque semaine en contact avec Mme Hughes, principalement parce qu’il avait des chèques à signer. Il s’informait toujours auprès d’elle de la situation en général et vérifiait si les paiements à effectuer par chèque étaient à jour. Il laissait à Mme Hughes l’entière responsabilité de la TPS et des retenues à la source, y compris les versements à effectuer, et ne participait pas directement aux aspects relatifs aux finances, à la comptabilité ou à la tenue des comptes. Il a signalé qu’il avait pleinement confiance en elle.
+[9] Au milieu du mois d’août 2007, M. D’Amore a reçu un appel de l’Agence du revenu du Canada (l’« ARC ») indiquant qu’en juin, il n’y avait eu aucun versement de TPS. À ce moment‑là, il a aussi interrogé Mme Hughes à propos d’un solde légèrement négatif dans le compte bancaire de la Société. Elle lui a dit que les affaires du bar tournaient au ralenti l’été et qu’il n’était pas rare que Faces soit « dans le rouge » durant cette période. Il lui a dit que les versements à effectuer au gouvernement devaient être faits à la date d’échéance, et avant que soit réglée n’importe quelle autre créance. Selon l’exposé conjoint partiel des faits, il est constant que Mme Hughes avait informé M. D’Amore qu’elle avait pris des dispositions en vue de payer les arriérés de TPS au cours des mois suivants, en trois versements. M. D’Amore a déclaré qu’il lui avait donné instruction de le faire. En fait, les versements couvraient non seulement les montants impayés du mois de juin, mais aussi les montants non encore exigibles du mois de juillet.
+[10] Au début du mois de septembre, M. D’Amore a reçu un autre avis de l’ARC indiquant que des retenues à la source, de l’ordre de 30 000 $ environ, n’avaient pas été effectuées. Comme l’a dit M. D’Amore, cette information l’a stupéfié. Il a communiqué sur-le-champ avec son comptable agréé, qui a passé en revue les comptes et a conclu qu’une autre somme de 30 000 $ était également à payer au titre de la taxe de vente provinciale. M. D’Amore n’arrivait pas à comprendre comment une entreprise qui avait de l’argent en banque neuf mois plus tôt pouvait se trouver dans une telle situation. Il est entré en contact avec son avocat et, en fin de compte, a licencié Mme Hughes le 24 septembre 2007. Ils ne se sont pas parlé depuis ce temps.
+[11] M. D’Amore a injecté, à partir de ses propres fonds, la somme de 22 000 $ dans la Société en septembre 2007 afin que celle-ci puisse payer des fournitures alimentaires et de bar, le loyer, les salaires et la taxe de vente provinciale. Entre le 24 septembre et la date à laquelle l’entreprise a fermé ses portes, le 13 novembre, son épouse et lui ont travaillé de façon régulière chez Faces. Il n’a touché aucun salaire. Il était conscient qu’à titre d’administrateur dirigeant, c’était lui qui était responsable des versements. Il a produit pour le compte de la Société les documents nécessaires aux versements relatifs aux mois de septembre, d’octobre et de novembre, mais aucun versement n’a été concrètement effectué avant que M. D’amore soit personnellement en mesure de le faire en août 2008.
+[12] Lors des mois de septembre, d’octobre et de novembre 2007, jusqu’à ce que l’entreprise ferme ses portes le 13 novembre, M. D’Amore a fait en sorte que la Société règle ce qui pouvait être payé aux créanciers de façon à ce que l’entreprise demeure active.
+[13] M. D’Amore aurait toujours pu avoir accès aux comptes, aux registres et aux relevés bancaires de la Société. La fin d’exercice de cette dernière étant le 31 juillet, la Société n’avait donc pas établi d’états financiers au moment où l’ARC avait communiqué avec lui pour la première fois.
+[14] La Société a omis de verser au Receveur général du Canada pour l’année civile 2007 la somme de 49 773 $ d’impôt fédéral sur le revenu et de cotisations à l’Assurance-emploi et au Régime de pensions du Canada (collectivement, les « retenues à la source »), plus les intérêts et les pénalités correspondants, selon ce qui suit :
+Date de la (nouvelle) cotisation
+Total de l’impôt fédéral
+RPC
+A-E
+Pénalités
+Intérêts
+23 mars 2007
+556 $
+43 $
+600 $
+28 sept. 2007
+11 307 $
+6 194 $
+6 649 $
+3 475 $
+3 546 $
+31 172 $
+15 mai 2008
+4 258 $
+3 381 $
+2 963 $
+2 755 $
+1 244 $
+14 604 $
+27 août 2008
+121 $
+0 $
+121 $
+Intérêts courus
+3 275 $
+3 275 $
+Total
+15 566 $
+9 696 $
+9 613 $
+6 788 $
+8 109 $
+49 773 $
+[15] Depuis le procès, les parties m’ont informé que la somme exigible de 49 773 $ représentait le total de deux montants : 35 995 $ se rapportant à la période allant jusqu’à la fin d’août 2007 et 13 778 $ se rapportant à la période s’étendant du 1er septembre 2007 au 20 novembre 2007.
+[16] Un certificat d’un montant de 49 773 $ a été enregistré auprès de la Cour fédérale du Canada le 20 février 2009, et il y a eu défaut d’exécution totale à l’égard de cette somme. Toutes les exigences de l’alinéa 227.1(2)a) de la Loi ont été remplies.
+[17] La Société a omis de verser au Receveur général du Canada la somme de 8 583 $ en taxe sur les produits et services (« TPS ») nette, plus les intérêts et les pénalités correspondants, selon ce qui suit :
+Période
+Taxe nette
+Intérêts
+Pénalités
+Total
+2007-08-01 à 2007-08-31
+768 $
+232 $
+21 $
+1 022 $
+2007-09-01 à 2007-09-30
+2 814 $
+406 $
+0 $
+3 221 $
+2007-10-01 à 2007-10-31
+2 527 $
+347 $
+50 $
+2 926 $
+2007-11-01 à 2007-11-30
+1 233 $
+158 $
+21 $
+1 413 $
+Total
+7 342 $
+1 143 $
+92 $
+8 583 $
+[18] Depuis le procès, les parties m’ont informé que la somme de 8 583 $ représentait, d’une part, un montant de 1 021 $ se rapportant à la période allant jusqu’à la fin du mois d’août 2007 et, d’autre part, un montant de 7 556 $ se rapportant à la période s’étendant du 1er septembre 2007 au 20 novembre 2007.
+[19] Un certificat d’un montant de 8 583 $ a été inscrit à la Cour fédérale du Canada le 18 février 2009, et il y a eu défaut d’exécution totale à l’égard de cette somme. Toutes les exigences de l’alinéa 323(2)a) de la LTA ont été remplies.
+[20] Le 24 août 2008, M. D’Amore a payé la somme de 20 780 $ au gouvernement, en joignant à ce paiement les explications qui suivent dans la lettre de son avocat, Me Dimitry Beluli :
+[traduction]
+Nous vous informons que nous allons payer aujourd’hui les arriérés de TPS et de retenues à la source qui se rapportent à 2110989 Ontario Inc., NE 846102762. Ce paiement est fait par l’ancien administrateur de 2110989 Ontario Inc., Kevin D’Amore, à l’égard de la période s’étendant de septembre 2007 à novembre 2007. Ce paiement n’est pas une reconnaissance de responsabilité, sauf pour ce qui est de la période susmentionnée, conformément à notre position au regard du paragraphe 227.1(3) de la Loi de l’impôt sur le revenu du Canada. Nous reconnaissons que l’acceptation de ce paiement n’est pas une acceptation de la part de l’Agence du revenu du Canada vis-à-vis des réclamations que nous formulons au titre du paragraphe 227.1(3) de la Loi de l’impôt sur le revenu du Canada.
+Nous croyons comprendre qu’en ce qui concerne la TPS, le montant des arriérés, ainsi que des pénalités et des intérêts correspondants, en date du 14 juillet 2008, s’élève à 7 004,67 $ et que, en ce qui concerne les retenues à la source, le montant des arriérés, ainsi que des pénalités et des intérêts correspondants, s’élève à 13 778,69 $. Nous avons demandé, mais n’avons pas reçu, le montant mis à jour qui pourrait être payable à l’égard de cette période et, en conséquence, nous effectuons un paiement d’un montant global de 20 783,36 $.
+[21] Les parties m’ont informé que, sur la somme de 13 778,69 $ que M. D’Amore a payée, un montant de 10 433 $ a été porté au crédit de la période précédant la fin du mois d’août 2007 et un montant de 3 345 $ a été porté au crédit de la période s’étendant entre le 1er septembre 2007 et le 20 novembre 2007. De plus, la totalité de la somme de 7 004,67 $ que M. D’Amore a payée a été portée au crédit de la période allant jusqu’à la fin du mois d’août 2007.
+Le point en litige
+M. D’Amore a-t-il agi avec une diligence raisonnable suffisante à titre d’administrateur de sorte qu’il est dégagé de toute responsabilité aux termes de l’article 227.1 de la Loi et de l’article 323 de la LTA?
+[22] Le texte de ces deux dispositions est, en partie, le suivant :
+Article 227.1 de la Loi de l’impôt sur le revenu :
+(1) Lorsqu’une société a omis de déduire ou de retenir une somme, tel que prévu aux paragraphes 135(3) ou 135.1(7) ou aux articles 153 ou 215, ou a omis de verser cette somme ou a omis de payer un montant d’impôt en vertu de la partie VII ou VIII pour une année d’imposition, les administrateurs de la société, au moment où celle-ci était tenue de déduire, de retenir, de verser ou de payer la somme, sont solidairement responsables, avec la société, du paiement de cette somme, y compris les intérêts et les pénalités s’y rapportant.
+(2) Un administrateur n’encourt la responsabilité prévue au paragraphe (1) que dans l’un ou l’autre des cas suivants :
+a) un certificat précisant la somme pour laquelle la société est responsable selon ce paragraphe a été enregistré à la Cour fédérale en application de l’article 223 et il y a eu défaut d’exécution totale ou partielle à l’égard de cette somme;
+[…]
+(3) Un administrateur n’est pas responsable de l’omission visée au paragraphe (1) lorsqu’il a agi avec le degré de soin, de diligence et d’habileté pour prévenir le manquement qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+[…]
+Article 323 de la Loi sur la taxe d’accise :
+(1) Les administrateurs d’une personne morale au moment où elle était tenue de verser, comme l’exigent les paragraphes 228(2) ou (2.3), un montant de taxe nette ou, comme l’exige l’article 230.1, un montant au titre d’un remboursement de taxe nette qui lui a été payé ou qui a été déduit d’une somme dont elle est redevable, sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférents.
+(2) L’administrateur n’encourt de responsabilité selon le paragraphe (1) que si :
+(a) un certificat précisant la somme pour laquelle la personne morale est responsable a été enregistré à la Cour fédérale en application de l’article 316 et il y a eu défaut d’exécution totale ou partielle à l’égard de cette somme;
+[…]
+(3) L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[…]
+Analyse
+[23] Le bon point de départ de l’analyse est le sommaire tiré de l’arrêt que la Cour d’appel fédérale a rendu dans l’affaire Balthazard c. Canada[1], en se fondant sur l’arrêt qu’elle avait rendu antérieurement dans l’affaire Canada c. Buckingham[2]. La Cour a déclaré, au paragraphe 32 de l’arrêt Balthazard :
+[32] Le cadre juridique applicable à une défense de soin, de diligence et de compétence sous le paragraphe 323(3) de la LTA a récemment été résumé comme suit par notre Cour dans Buckingham :
+a. La norme de soin, de diligence et de compétence exigée au paragraphe 323(3) de la LTA est une norme objective comme l’a énoncé la Cour suprême du Canada dans l’arrêt Magasins à rayons Peoples inc. (Syndic de) c. Wise, 2004 CSC 68, [2004] 3 R.C.S. 461. Cette norme objective écarte le principe de common law selon lequel la gestion d’une société par un administrateur doit être jugée suivant les compétences, les connaissances et les aptitudes personnelles de celui-ci. Une norme objective ne signifie toutefois pas que les circonstances propres à un administrateur ne doivent pas être prises en compte. Ces circonstances doivent être prises en compte, mais elles doivent être considérées au regard de la norme objective d’une « personne raisonnablement prudente ».
+b. L’examen de la conduite de l’administrateur aux fins de cette norme objective commence lorsqu’il devient évident pour l’administrateur, agissant raisonnablement et avec le soin, la diligence et la compétence qui sont requises, que la société entame une période de difficultés financières.
+c. Une société qui fait face à des difficultés financières pourrait se hasarder à réaffecter les versements dus à la Couronne afin de payer d’autres créanciers et ainsi assurer la poursuite de ses activités. C’est précisément une telle conjoncture que l’article 323 de la LTA vise à éviter. Le moyen de défense prévu au paragraphe 323(3) de la LTA ne doit pas servir à encourager de tels défauts de versement en permettant aux administrateurs d’invoquer une défense de soin, de diligence et de compétence lorsqu’ils financent les activités de leur société à l’aide de remises dues à la Couronne, en espérant ou non remédier plus tard à ces défauts.
+d. Puisque la responsabilité des administrateurs à ces égards n’est pas absolue, il est possible qu’une société puisse ne pas effectuer des remises à la Couronne sans que la responsabilité solidaire des administrateurs soit engagée.
+e. Ce qui est requis des administrateurs, c’est qu’ils démontrent qu’ils se sont effectivement préoccupés des versements fiscaux et qu’ils se sont acquittés de leur obligation de soin, de diligence et de compétence afin de prévenir le défaut de la société de verser les montants en cause.
+[24] Il est également utile de signaler les observations que la Cour d’appel fédérale a faites dans l’arrêt Buckingham c. R.[3] :
+56. L’administrateur d’une société qui avalise la poursuite des activités de sa société en réaffectant à d’autres fins des retenues à la source sur les salaires ne peut établir une défense fondée sur le paragraphe 227.1(3) de la Loi de l’impôt sur le revenu. Tout le régime de l’article 227.1 de la Loi de l’impôt sur le revenu, lu dans son ensemble, est précisément conçu pour éviter de telles situations. En l’espèce, l’intimé avait une attente raisonnable (mais erronée) que la vente de la division de production de cours en ligne donnerait lieu à un paiement important pouvant servir à satisfaire les créanciers, mais il a consciemment fait assumer par la Couronne une partie des risques associés à cette transaction en continuant les activités tout en sachant que les retenues à la source ne seraient pas versées. Il s’agit précisément du méfait que le paragraphe 227.1(3) de la Loi de l’impôt sur le revenu vise à éviter.
+[25] Sur cette toile de fond juridique récente, il y a, selon moi, deux périodes importantes à examiner : celle qui débute au moment où M. D’Amore a commencé à prendre en charge Faces, vers le 1er janvier 2007, jusqu’au moment où il a entendu dire pour la première fois par l’ARC qu’il y avait des problèmes de versements en août 2007, ou peut-être celui où une personne agissant raisonnablement et avec le degré requis de soin, de diligence et d’habileté aurait dû savoir qu’il y avait peut‑être des difficultés financières (la « première période »), ainsi que celle qui s’étend entre ce moment-là et la fermeture de l’entreprise en novembre 2007 (la « seconde période »).
+[26] Je me pencherai en premier sur la seconde période. Je conclus que M. D’Amore, à partir du moment où il a su où aurait dû savoir qu’il y avait des problèmes de versements, n’a pas fait preuve de diligence raisonnable. Comme il l’a reconnu, il a payé des créanciers afin de pouvoir maintenir l’entreprise à flot. Il s’est abstenu délibérément de payer le gouvernement, malgré le fait que Faces percevait des montants de TPS durant cette période et qu’elle continuait de payer les employés et d’effectuer des retenues à la source sur leur rémunération. Il a injecté un montant de 22 000 $ en septembre 2007, mais non pas pour payer les arriérés de versements exigibles ni pour couvrir les versements à venir. Comme il l’a déclaré : [traduction] « pas d’alcool, pas de nourriture – pas d’entreprise ».
+[27] On ne m’a informé d’aucune affaire dans laquelle un administrateur avait invoqué avec succès le moyen de défense de diligence raisonnable dans des circonstances où l’administrateur d’une société aux prises avec des difficultés financières avait délibérément fait en sorte que cette société paie ses créanciers, sauf l’ARC, en vue de maintenir l’entreprise à flot, dans l’espoir que celle-ci dégage en fin de compte un profit et soit ensuite en mesure de payer les versements destinés au gouvernement. J’ai porté ce point à l’attention de l’avocat de l’appelant, lequel m’a cité la jurisprudence Campbell c. La Reine[4]. Ceci dit, avec égards, les faits de cette affaire ne ressemblent pas aux faits dont il est question en l’espèce. Les passages qui suivent exposent les mesures que l’administrateur a prises dans l’affaire Campbell :
+42. […] L’appelant a alors proposé de faire d’autres arrangements informels, CRL s’engageant à payer la somme de 1 000 $ trois fois par mois. Jim Fitzgerald, agent de recouvrement à l’ARC, a accepté cette proposition. L’appelant a témoigné qu’il avait constamment été en contact avec l’ARC, en particulier avec M. Fitzgerald, tout au long de cette période. Il a également témoigné que, pour que CRL puisse honorer certains des chèques qu’elle avait faits, il avait adopté un stratagème lui permettant de s’assurer que les sommes que les clients versaient à CRL soient déposées dans le compte d’entreprise le même jour que celui où le chèque remis à l’ARC serait compensé. Cela permettait de s’assurer que la banque n’ait pas le temps d’empêcher le paiement des chèques remis à l’ARC. L’appelant a témoigné que, jusqu’à ce que la banque mette fin à cette pratique, il cherchait à savoir le temps qu’il allait faire et espérait du mauvais temps, ce qui aurait pour effet de retarder les avions qui transportaient les chèques à une chambre de compensation en Nouvelle-Écosse, ce qui arrivait en fait souvent dans la province. Cela donnait à CRL un délai de grâce supplémentaire d’un jour pour s’assurer que les chèques remis à l’ARC seraient compensés. Steve Lawlor a confirmé l’existence de cette pratique ainsi que les diverses mesures prises par l’appelant pour faire en sorte que l’ARC soit payée. L’appelant a par ailleurs déclaré qu’il avait aidé l’ARC en proposant que l’on signifie une demande péremptoire à l’un des principaux débiteurs de CRL, probablement Hibernia. L’appelant avait en outre fait en sorte que CRL aide l’ARC à recouvrer directement l’argent que d’autres débiteurs devaient à la société.
+43. L’appelant a témoigné que, parmi les efforts déployés pour accorder la priorité à l’ARC, CRL maintenait un compte distinct (no 106‑2017) pour les retenues à la source, compte qui a été fermé en décembre 2000. Généralement, les fonds étaient déposés dans le compte général de CRL et immédiatement transférés au compte utilisé pour les versements. D’après l’appelant, la banque permettait le transfert de fonds à ce compte uniquement si la société était à jour en ce qui a trait au remboursement du prêt.
+44. En 1995, l’appelant a convaincu le gestionnaire des comptes de la Banque Royale de permettre à la société d’avoir un découvert, pour que celle‑ci puisse remettre les retenues à la source. Plus tard, en 1996, les vérificateurs de la banque ont mis fin à cette pratique et substitué un emprunt garanti au découvert bancaire. La banque a suggéré à CRL de demander des conseils à des comptables professionnels, ce que la société a fait par la suite. CRL n’a toutefois pas été en mesure de continuer à se prévaloir de tels services en raison des frais plus élevés qu’on exigeait d’elle.
+[…]
+46. L’appelant avait également envisagé d’endosser les chèques que les clients de CRL lui remettaient afin de les faire directement parvenir à l’ARC, mais, étant donné que la banque surveillait de près les créances de la société, l’appelant a estimé que la banque mettrait simplement fin à cette pratique si elle était appliquée.
+[…]
+49. Au cours de cette période, l’appelant a investi dans la société plus de 140 000 $ tirés de son épargne personnelle pour verser les sommes dues à l’ARC et rembourser les prêts; il a en outre tenté à plusieurs reprises d’obtenir du financement d’autres sources. L’appelant a également témoigné qu’il avait lui‑même décidé de ne pas toucher de salaire de CRL, là encore pour faire en sorte que la priorité soit accordée au versement des sommes dues à l’ARC. De fait, le nom de l’appelant ne figure sur aucune des feuilles de paie de la société de 1996 (onglet 7 de la pièce A‑1), de 1997 (onglet 15 de la pièce A‑1), de 1998 (onglet 17 de la pièce A‑1) et de 1999 (onglet 23 de la pièce A‑1).
+[28] C’est le dernier paragraphe cité qui est le plus important. Dans l’affaire Campbell, l’administrateur avait injecté des fonds « pour verser les sommes dues à l’ARC ». M. D’Amore a reconnu qu’il avait injecté des fonds dans l’entreprise en vue de payer d’autres créanciers. Tel est le « méfait » même qu’a décrit la Cour d’appel fédérale dans l’arrêt Buckingham et que la disposition présente dans la Loi et la LTA vise à contrer. Non, M. D’Amore, au cours de la seconde période, n’a rien fait pour éviter le défaut de versements; il a plutôt délibérément maintenu le cap. Il ressort clairement de la lettre de l’avocat de M. D’Amore, datée d’août 2008, que ce dernier était bel et bien au courant de cette obligation ainsi que de la responsabilité qui en découlait.
+[29] M. D’Amore demeure-t-il responsable des versements applicables à la seconde période, y compris les intérêts et les pénalités correspondants, étant donné qu’en août 2008, il a payé ce qu’il croyait être la totalité du montant qui était dû à l’ARC pour cette période-là? Le seul élément qui peut me guider sur ce plan est l’entente des parties selon laquelle [traduction] « si la Cour décide que l’appelant a agi avec diligence raisonnable à l’égard de l’une ou l’autre des périodes :
+1. il sera nécessaire de réaffecter les paiements faits le 14 août 2008 à la période, si période il y a, au cours de laquelle l’appelant n’a pas agi avec diligence raisonnable »[5].
+[30] Voyons maintenant la première période, qui s’étend du moment où M. D’Amore a pris la direction de l’entreprise, soit la fin du mois de décembre 2006, jusqu’au premier des deux moments suivants :
+(i) celui où l’ARC a communiqué avec lui en août 2007 pour l’informer des versements non effectués;
+(ii) celui où, agissant raisonnablement et avec soin, diligence et habileté, il aurait dû savoir que la Société avait des difficultés financières.
+[31] Comme l’a observé la juge Campbell dans la décision Campbell, l’obligation de l’administrateur de veiller à ce que les versements soient effectués quand l’entreprise a des difficultés financières est plus exigeante. J’ai déjà conclu que M. D’Amore n’avait pas satisfait à cette exigence au cours de la seconde période. Donc, la première étape consiste à rechercher à quel moment M. D’Amore aurait dû être au courant des difficultés financières de la Société. Était-ce avant le premier appel téléphonique de l’ARC? Comme l’indique clairement la Cour d’appel fédérale, pour apprécier la diligence raisonnable il faut examiner la conduite de l’administrateur « lorsqu’il devient évident pour l’administrateur, agissant raisonnablement et avec le soin, la diligence et la compétence qui sont requises, que la société entame une période de difficultés financières ». Cette approche semble concorder avec l’opinion de la juge Campbell selon laquelle l’obligation est plus exigeante dans le cas où la société éprouve des difficultés financières et où l’administrateur est au courant de la situation ou devrait raisonnablement l’être. Cependant, pour décider s’il est évident aux yeux d’un administrateur agissant avec diligence raisonnable que pour la société s’amorce une période de difficultés financières, il est nécessaire d’apprécier la conduite de cet administrateur avant l’apparition des difficultés financières en question. Selon moi, l’enseignement de la Cour d’appel fédérale à cet égard cadre effectivement avec le point de vue selon lequel des difficultés financières sont une situation importante qui exige que l’administrateur fasse davantage attention pour éviter un défaut de versements. Au final, pour dire les choses simplement, l’obligation de l’administrateur de veiller au respect des versements à effectuer n’est pas aussi importante lors d’une période de stabilité financière qu’elle l’est lors d’une période de difficultés financières, simplement en raison des circonstances.
+[32] Je conclus que M. D’Amore a agi avec diligence raisonnable pour maîtriser la situation financière générale de l’entreprise durant les premiers mois où il s’en est chargé, car il n’y avait aucune raison de soupçonner que cette dernière faisait face à des difficultés financières quelconques. L’intimée semble être d’avis que les efforts déployés par l’administrateur pour satisfaire au critère de la diligence raisonnable, tant avant le moment où il est – ou devrait être – au courant des difficultés financières que par la suite, sont les mêmes. Elle fait valoir qu’en négligeant de s’enquérir précisément auprès de la directrice générale, Mme Hughes, si celle-ci avait versé ou non les retenues à la source, M. D’Amore n’a pas satisfait au critère objectif de la diligence raisonnable que requièrent les principes énoncés par l’arrêt Buckingham. Cela dit avec égards, je crois qu’il ne s’agit pas là d’une interprétation correcte de l’enseignement de la Cour d’appel fédérale par l’arrêt Balthazard. L’appréciation de la conduite qu’avait l’administrateur, avant la connaissance réputée ou réelle de l’existence de difficultés financières, ne devrait pas être aussi exigeante. Je conviens avec l’intimée que, lors d’une période de difficultés financières, l’administrateur se doit de poser des questions précises au sujet des versements à effectuer. Mais je ne crois pas qu’il faille exiger un tel degré de diligence au moment de rechercher si l’administrateur a agi de manière raisonnable. Ce que le juge doit rechercher quand il examine la conduite de l’administrateur avant la survenue des difficultés financières est le moment où il était raisonnable pour ce dernier d’avoir été mis au courant de la situation.
+[33] Ce qui rend cette mission difficile est que ni l’appelant ni l’intimée n’ont produit une élément de preuve quelconque dont il ressort que les difficultés financières ont en fait débuté avant le mois de juin. Le seul découpage que l’on a du moment auquel se rapportent les 49 000 $ de retenues à la source non versées est la période antérieure et la période postérieure au 31 août 2007 – il n’y a rien de plus précis. L’avocat de l’intimée m’a informé que Mme Hughes attendait à l’extérieur de la salle d’audience, mais il a décidé de ne pas l’appeler. Je n’ai rien entendu qui corrobore ou réfute le récit de M. D’Amore. Comme je l’ai dit aux avocats lors des débats, je me trouve confronté à un véritable dilemme ne serait-ce que pour ce qui est de savoir ce qui a pu se passer pour donner lieu à un défaut de versements aussi élevé. Mme Hughes a-t-elle décidé de son propre chef de ne pas payer le gouvernement et de ne pas le faire savoir à M. D’Amore? Était-elle tout simplement incompétente? Pigeait-elle dans la caisse? Qu’a-t-il bien pu arriver à l’argent? Pourquoi ni l’une ni l’autre des parties n’ont-elles fait comparaître Mme Hughes? Il m’est impossible de tirer une inférence quelconque, dans un sens ou dans l’autre, du fait que cette dernière n’a pas témoigné. Je ne dispose que du récit de M. D’Amore, à savoir qu’il n’a tout simplement pas été au courant des difficultés financières avant le milieu ou la fin du mois d’août. Au début du mois de septembre, il a demandé à M. Russo de passer les livres en revue.
+[34] Je dispose toutefois du fait constant suivant : Mme Hughes a informé M. D’Amore, en réponse à son inquiétude à propos de la présence d’un léger solde négatif au mois d’août, que le bar tournait au ralenti l’été et qu’il n’était pas rare que l’établissement soit déficitaire au cours de cette période-là.
+[35] Donc, M. D’Amore a-t-il agi raisonnablement et avec diligence pour être sûr de savoir à quel moment l’entreprise connaîtrait des difficultés financières? Je crois que oui, du moins jusqu’en juin ou en juillet, moment où il aurait dû savoir que Faces entrait comme à l’accoutumée dans une période de ralentissement. Jusque-là, il avait pris les mesures suivantes pour se tenir au courant des finances de l’entreprise :
+- il devait cosigner tous les chèques de dépenses;
+- il signait ces chèques chaque semaine;
+- chaque semaine, il demandait à sa directrice générale comment les affaires allaient;
+- il avait injecté la somme de 50 000 $ en fonds de roulement dans l’entreprise dès le départ;
+- il avait demandé à sa directrice générale de lui faire part de tout problème comptable qu’elle rencontrerait en se servant du logiciel Quickbooks.
+[36] J’ajoute à cette liste de mesures le fait que le premier exercice de la Société ne se terminait pas avant la fin du mois de juillet, ce qui est vraisemblablement le moment où l’administrateur aurait pu observer de plus près la situation financière de l’entreprise.
+[37] Je conclus que, jusqu’à l’été de 2007, soit sept mois seulement après avoir fait l’acquisition d’une entreprise qui était active depuis quelques décennies et injecté dans celle-ci des fonds considérables, M. D’Amore a agi avec suffisamment de diligence pour se tenir au courant de la bonne santé de cette société.
+[38] Toutefois, je suis également d’avis qu’il n’aurait pas été déraisonnable aux yeux de l’administrateur d’un pub dont les activités sont axées sur les étudiants d’une université d’être conscient que les mois d’été peuvent être moins occupés. Il s’agit là d’un élément d’information important, qui appelle une attention accrue aux questions financières de l’entreprise, dont celle de superviser avec plus de soin les responsabilités financières de la Société ainsi que les obligations de Mme Hughes à cet égard. C’est à ce stade que devient suspecte la confiance entière que M. D’Amore avait en Mme Hughes. Il est difficile de situer avec exactitude à quel moment au cours de l’été de 2007 la conduite de M. D’Amore aurait dû faire l’objet d’un examen plus minutieux, c’est-à-dire, de savoir à quel moment débute la seconde période. Comme il a été indiqué plus tôt, les parties n’ont produit aucun élément de preuve direct sur le moment exact où la Société a cessé de verser les retenues à la source.
+[39] Je tiens aussi à répondre à l’argument de l’intimée selon lequel, étant donné que Mme Hughes n’était pas comptable qualifiée, M. D’Amore, en lui déléguant de telles responsabilités, était alors plus tenu de superviser son travail. Bien qu’il s’agisse assurément d’un facteur évoqué dans la jurisprudence (voir Snively c. Sa Majesté la Reine[6]), il est important de garder à l’esprit que Mme Hughes n’était pas une simple employée : elle était aussi coadministratrice, assumant en partie la même responsabilité potentielle que M. D’Amore, et propriétaire à 30 p. 100 de l’entreprise : elle avait exercé pendant vingt ans les fonctions de directrice générale de cette dernière. Dans ces circonstances-là, il n’était pas déraisonnable de lui accorder une certaine confiance, mais, compte tenu d’autres circonstances (le ralentissement des activités durant les mois d’été ou la notification proprement dite d’un défaut de versements), on se serait raisonnablement attendu à ce que son travail fasse l’objet d’un examen plus minutieux.
+[40] Je conclus que M. D’Amore aurait dû savoir, à la fin du mois de juillet au plus tard, que le ralentissement des activités pouvait être problématique, et c’est à partir de ce moment-là qu’il convient d’examiner sa conduite en procédant à une appréciation plus exigeante. Les mesures qu’il avait prises jusqu’à ce stade, selon moi, étaient suffisantes pour satisfaire au critère de la diligence raisonnable, mais, vu le changement de circonstances, elles ne l’ont plus été par la suite. En moins de quelques semaines, les mesures qu’il avait prises, comme je l’ai déjà conclu, étaient devenues largement insuffisantes, parce qu’il avait favorisé des créanciers autres que l’ARC.
+[41] J’accueille les appels et je renvoie les affaires au ministre pour nouvelles cotisations, au motif que la responsabilité de M. D’Amore à titre d’administrateur joue en ce qui concerne la période allent du 1er août 2007 au 20 novembre 2007. Je tiens pour acquis que les parties peuvent s’entendre sur l’effet que les paiements que M. D’Amore a effectués en août 2008 auront sur les nouvelles cotisations. Je tiens également pour acquis que l’intimée peut déterminer avec précision les responsabilités qui s’appliquent à la période tant antérieure que postérieure au 1er août 2007. Chacune des parties supportera ses propres frais.
+Signé à Toronto (Ontario) ce 22e jour d’octobre 2012.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 5e jour de mars 2013.
+François Brunet, réviseur
+RÉFÉRENCE : 2012 CCI 373
+NOS DE DOSSIER DE LA COUR : 2010-3562(IT)G et 2010-3563(GST)I
+INTITULÉ : KEVIN D’AMORE ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Windsor (Ontario)
+DATE DE L’AUDIENCE : Le 5 septembre 2012
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 22 octobre 2012
+COMPARUTIONS :
+Avocat de l’appelant :
+Me John Mill
+Avocat de l’intimée :
+Me Ryan Gellings
+AVOCATS INSCRITS AU
+DOSSIER :
+Pour l’appelant :
+Nom : John Mill
+Cabinet : Mill Professional Corporation
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2011 CAF 331.
+[2] 2011 CAF 142.
+[3] 2011 CAF 142, au par. 56.
+[4] 2010 CCI 100.
+[5] Lettre du 21 septembre 2012 de Me Gellings, du ministère de la Justice, à la Cour canadienne de l’impôt; teneur acceptée par Me Mill, avocat de l’appelant.
+[6] 2011 CCI 196.

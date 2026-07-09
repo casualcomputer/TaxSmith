@@ -1,0 +1,211 @@
+---
+title: "Hardtke v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27831/index.do"
+last_modified: "2005-04-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 263"
+citation2: ""
+neutral_citation: "2005 TCC 263"
+decision_date: "2005-04-21"
+language: "en"
+item_id: "27831"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 371
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:48:47.504000+00:00"
+cases_cited_count: 5
+cases_citing_count: 14
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8258ec37d1a8424253fd1fba51247347da74e092593cf54255f8260934b6b586"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hardtke v. The Queen
+
+- Citation: 2005 TCC 263
+- Decision date: 2005-04-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 371, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hardtke v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-21
+Neutral citation
+2005 TCC 263
+File numbers
+2004-1977(IT)G, 2004-367(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-367(IT)G
+2004-1977(IT)G
+BETWEEN:
+DIETER HARDTKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motions heard on September 30, 2004, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Bruce D. Marks
+Counsel for the Respondent:
+Josée Tremblay
+____________________________________________________________________
+ORDER
+Upon motion made by counsel for the respondent under section 53 of the Tax Court of Canada Rules (General Procedure) ("Rules"), concerning file number 2004‑367(IT)G, for an order striking out paragraphs 13 through 16, paragraphs 18 through 22, paragraph 25, paragraphs 30 through 32 and paragraph 37 of the Amended Notice of Appeal, the portion of paragraph 38 thereof that reads "and sections 15, 11 and 1 of the Canadian Charter of Rights and Freedoms" and subparagraphs 39(b) and (c) thereof, and for an extension of the time for filing a reply to the Amended Notice of Appeal, and for costs of this motion;
+And upon motion made by counsel for the respondent under section 53 of the Rules, concerning file number 2004-1977(IT)G, for an order striking out paragraph 13, subparagraphs 16(b) and (c) of the Notice of Appeal, and for an extension of the time for filing a reply to the Notice of Appeal, and for costs of this motion;
+And upon reading the pleadings and hearing what was alleged by the parties;
+It is ordered:
+(1) that the respondent's motions be granted and:
+that paragraph 13 (with the exception of the first sentence), paragraphs 14 through 16, paragraphs 18 through 22, paragraph 25, paragraph 30 through 32, paragraph 37, paragraph 38, that is, the portion thereof that reads "and sections 15, 11 and 1 of the Canadian Charter of Rights and Freedoms" and subparagraphs 39(b) and (c) of the Amended Notice of Appeal (2004‑367(IT)G) shall be struck out; and
+that paragraph 13, and subparagraphs 16(b) and (c) of the Notice of Appeal (2004‑1977(IT)G) shall be struck out;
+(2) that the respondent shall file and serve a Reply to the Amended Notice of Appeal for file number 2004-367(IT)G and a Reply to the Notice of Appeal for file number 2004-1977(IT)G within 60 days of the date of the present order; and
+(3) that costs of this motion shall be in the cause.
+Signed at Ottawa, Canada, this 21st day of April 2005.
+"Lucie Lamarre"
+Lamarre, J.
+Citation: 2005TCC263
+Date: 20050421
+Docket: 2004-367(IT)G
+2004-1977(IT)G
+BETWEEN:
+DIETER HARDTKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Lamarre, J.
+[1] The respondent brought a first motion under section 53 of the Tax Court of Canada Rules (General Procedure) ("Rules") for an order striking out paragraphs 13 through 16, paragraphs 18 through 22, paragraph 25, paragraphs 30 through 32 and paragraph 37 of the Amended Notice of Appeal, the portion of paragraph 38 thereof that reads "and sections 15, 11 and 1 of the Canadian Charter of Rights and Freedoms" ("Charter") and subparagraphs 39(b) and (c) thereof (for the appeals filed under the Income Tax Act ("ITA") with respect to the taxation years 1994 through 2000 inclusively under 2004‑367(IT)G). The respondent filed another motion under section 53 of the Rules for an order striking out paragraph 13 and subparagraphs 16(b) and (c) of the Notice of Appeal (for an appeal filed under the ITA with respect to the 2002 taxation year under 2004-1977(IT)G).
+[2] Section 53 of the Rules reads as follows:
+Striking out a Pleading or other Document
+53. The Court may strike out or expunge all or part of a pleading or other document, with or without leave to amend, on the ground that the pleading or other document,
+(a) may prejudice or delay the fair hearing of the action,
+(b) is scandalous, frivolous or vexatious, or
+(c) is an abuse of the process of the Court.
+[3] In those paragraphs of the Amended Notice of Appeal (file 2004‑367(IT)G) that the first motion seeks to have struck out, the appellant mainly alleges that the Minister of National Revenue ("Minister") acted improperly during the course of the audit process and in doing so infringed his rights under the Charter. The appellant therefore seeks an order from this Court vacating on that basis the reassessments under appeal. The respondent says that even if the appellant is entitled to relief relating to his allegations against the Minister, such relief must be sought elsewhere than before this Court. The appellant also requests an order from this Court directing the Minister to reduce or remove the late-filing penalties and interest assessed against him and to either refund or set off against his tax debt any amount owed to him. This is the subject of the second motion (file 2004-1977(IT)G) and of part of the first motion (file 2004-367(IT)G).
+[4] The respondent sets out five reasons for bringing these motions:
+(1) section 53 of the Rules allows the Court to strike out a portion of the pleadings on the basis that they disclose no reasonable cause of action;
+(2) the allegations concerning the Minister's actions in processing the assessments are irrelevant to the question of whether, in filing his tax returns for the 1995 through 1998 taxation years, the appellant made a misrepresentation that is attributable to neglect, carelessness or wilful default and to the question of whether the Minister correctly computed the appellant's tax payable for the 1995 through 2000 taxation years in accordance with the ITA;
+(3) the allegations of infringement of the appellant's rights under the Charter cannot give rise to a remedy that may be ordered by this Court in the circumstances of these appeals;
+(4) this Court does not have jurisdiction to grant an order directing the Minister to reduce or remove the late-filing penalties and interest assessed against the appellant; and
+(5) this Court does not have jurisdiction to grant an order directing the Minister to refund or set off an amount with respect to a tax debt.
+[5] In the respondent's view, all of the allegations in question are frivolous or vexatious and constitute an abuse of the process of this Court and as such may prejudice or delay the fair hearing of the action, as they are irrelevant to the issue in the appeals in that they do not disclose a reasonable cause of action that falls within the jurisdiction of the Tax Court of Canada.
+[6] The appellant, on the other hand, argues that for the Court to strike out pleadings under section 53 of the Rules, it must find "(1) that the pleading [is] so clearly futile that it does not have the slightest chance to succeed and (2) that the pleading has no rational basis and does not provide any evidence" (Nelson v. Canada (Customs & Revenue Agency), [2002] 1 C.T.C. 66) (see appellant's Factum, Part II, paragraph 16). In the appellant's view, this Court cannot strike out a pleading pursuant to section 53 on the basis that it discloses no reasonable cause of action, as it can under section 58 of the Rules,[1] which provision is not being relied upon by the respondent.
+[7] In his Amended Notice of Appeal (file 2004-367(IT)G), the appellant explains, among other things, that he is part of a group of approximately 200 clients (the vast majority being chiropractors, like the appellant) of an accountant who was accused by the Canada Customs and Revenue Agency ("CCRA") of being negligent in committing certain irregularities in the preparation of his clients' income tax returns. As a result of identifying this large group of individuals, the CCRA decided to develop and implement a standardized approach in dealing with the individual taxpayers, which took approximately four years. The appellant submits that this policy decision caused him extreme prejudice because the four-year delay preceding the reassessment against him resulted in enormous amounts of penalties and interest. It also precluded him from defending himself because he is now unable to provide his computerized accounting records, which were found, after this four-year lapse of time, to be corrupted and unrecoverable through no fault of his.
+[8] The appellant adds that during the delay, which in his view is solely attributable to the CCRA's actions, the CCRA at no time prior to the expiration of the normal reassessment period sought to preserve any right to reassess him. Nor was any request made for the purpose of obtaining a waiver pursuant to subparagraph 152(4)(a)(ii) of the ITA.
+[9] In the appellant's view, the Tax Court of Canada is a court of competent jurisdiction within the meaning of subsection 24(1) of the Charter and is thus empowered to grant an appropriate remedy where, as submitted in this case, delay has impaired the taxpayer's ability to effectively challenge the reassessment, resulting in a breach of the taxpayer's rights under the Charter. The appellant seeks an order from this Court vacating the reassessments on the basis that the CCRA, in reassessing the appellant pursuant to an impersonal standardized methodology, has violated section 15 of the Charter, which provides that every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination. The appellant submits that because he was identified as a member of an identifiable group of individuals, he was discriminated against by being denied his right to individualized treatment by the CCRA without undue or unreasonable delay. As a consequence, he relies on sections 15, 11 and 1 of the Charter and asks this Court to, among other things: vacate the reassessments on that basis (file 2004‑367(IT)G); direct the Minister to reduce or remove the penalties and interest assessed against the appellant; and order the Minister to repay him all amounts determined in these appeals to have been overpaid, with pre-judgment and post-judgment interest (see Amended Notice of Appeal, paragraphs 37 and 38 and subparagraphs 39(b) and (c) in file 2004-367(IT)G; and Notice of Appeal, paragraph 13 and subparagraphs 16(b) and (c) in file 2004-1977(IT)G).
+Relevant Charter Provisions
+Constitution Act, 1982
+Schedule B to the Canada Act 1982 (U.K.)
+PART 1
+CANADIAN CHARTER OF RIGHTS AND FREEDOMS
+Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law:
+Guarantee of Rights and Freedoms
+1. The Canadian Charter of Rights and Freedoms guarantees the rights and freedoms set out in it subject only to such reasonable limits prescribed by law as can be demonstrably justified in a free and democratic society.
+. . .
+Legal Rights
+. . .
+11. Any person charged with an offence has the right
+(a) to be informed without unreasonable delay of the specific offence;
+(b) to be tried within a reasonable time;
+. . .
+Equality Rights
+15. (1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+(2) Subsection (1) does not preclude any law, program or activity that has as its object the amelioration of conditions of disadvantaged individuals or groups including those that are disadvantaged because of race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+. . .
+Enforcement
+24. (1) Anyone whose rights or freedoms, as guaranteed by this Charter, have been infringed or denied may apply to a court of competent jurisdiction to obtain such remedy as the court considers appropriate and just in the circumstances.
+(2) Where, in proceedings under subsection (1), a court concludes that evidence was obtained in a manner that infringed or denied any rights or freedoms guaranteed by this Charter, the evidence shall be excluded if it is established that, having regard to all the circumstances, the admission of it in the proceedings would bring the administration of justice into disrepute.
+(1) Jurisdiction of the Tax Court of Canada to Strike Out Pleadings
+[10] The respondent asserts that section 53 of the Rules allows the Court to strike out pleadings, or a portion of pleadings, on the basis that they disclose no reasonable cause of action. Although section 53 of the Rules does not provide specifically for such an action, the Court has jurisdiction pursuant to section 53 to strike out a pleading that may prejudice or delay the fair hearing of the action, that is frivolous or vexatious or that is an abuse of the process of the Court. In Nelson, supra, the Federal Court of Canada, Trial Division found a pleading to be frivolous and vexatious where it was so futile that it did not have the slightest chance of success. Furthermore, a court has the inherent jurisdiction to stay actions that are an abuse of process or that disclose no reasonable cause of action (see Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959, at page 968). Similarly, a court has the inherent jurisdiction to strike out a portion of a pleading if it discloses no reasonable defence. This is based on the following statement by the Supreme Court of Canada in Hunt, supra, at page 970:
+. . . the rule was derived from the courts' power to ensure both that they remained a forum in which genuine legal issues were addressed and that they did not become a vehicle for "vexatious" actions without legal merit designed solely to harass another party.
+[11] The courts have agreed, however, that a high standard must be met in order to strike out a pleading. Indeed, it must be plain and obvious, or beyond a reasonable doubt, that the pleading in question discloses no reasonable cause of action (see Hunt, supra, at page 980 and Dumont v. Canada (Attorney General), [1990] 1 S.C.R. 279, at page 280).
+[12] So the question here is, is it plain and obvious that the relief sought by the appellant discloses no reasonable cause of action that falls within the jurisdiction of this Court?
+(2) Jurisdiction to Review the Exercise of Power by the Minister in Issuing the Reassessment
+[13] With respect to the allegations concerning the Minister's actions, for which the appellant now seeks an order from this Court vacating the assessments on the basis that these actions precluded him from adequately defending himself, I agree with the respondent that this does not fall within the jurisdiction of this Court. The Tax Court of Canada's jurisdiction is limited by the ITA and the Tax Court of Canada Act, R.S.C. 1985, c. T-2 ("TCC Act") as amended. The TCC Act grants the Court exclusive original jurisdiction with respect to references and appeals arising under the ITA. The main right of appeal is set out in section 169 of the ITA, which provides for an appeal to the Tax Court of Canada from an assessment that has been objected to under section 165 of the ITA. Here, one of the appellant's arguments challenges the process that the Minister used in reassessing the appellant. The case law clearly establishes that the right to appeal to the Tax Court of Canada is limited to appealing the tax due and does not include appealing the manner in which this amount was determined. If the tax due is correctly calculated in light of validly enacted provisions of the ITA, then the assessment must be upheld.
+[14] The recent decision in Main Rehabilitation Co. Ltd. v. Her Majesty the Queen, 2004 FCA 403 (aff'g 2003TCC454, leave to appeal to the Supreme Court of Canada requested), confirms that the Tax Court of Canada does not have jurisdiction to review the actions of the Minister. A unanimous Bench reiterated at paragraphs 7 and 8:
+[7] . . . Courts have consistently held that the actions of the CCRA cannot be taken into account in an appeal against assessments.
+[8] This is because what is in issue in an appeal pursuant to section 169 is the validity of the assessment and not the process by which it is established (see for instance The Queen v. The Consumers' Gas Company Ltd. 87 D.T.C. 5008 (F.C.A.) at page 5012). Put another way, the question is not whether the CCRA officials exercised their powers properly, but whether the amounts assessed can be shown to be properly owing under the Act (Ludco Enterprises Ltd. v. R. [1996] 3 C.T.C. 74 (F.C.A.) at p. 84).
+[15] Consequently, a taxpayer cannot appeal the manner in which tax was assessed, but must restrict an appeal to the issue of whether the amount assessed is correct in light of the ITA. This was also stated by the Federal Court of Appeal in Webster v. Canada, [2003] F.C.J. No. 1569 (Q.L.), 2003 FCA 388, at paragraph 21, as follows:
+I would add that the right to appeal an income tax assessment to the Tax Court is a substantial one. The mandate of the Tax Court is to decide, on the basis of a trial at which both parties will have the opportunity to present documentary and oral evidence, whether the assessments under appeal are correct in law, or not. If the assessments are incorrect as a matter of law, it will not matter whether the objection process was flawed. If they are correct, they must stand even if the objection process was flawed.
+[16] Here, the appellant's allegations concerning the manner in which evidence was gathered by the officers of the Minister are not intended to challenge the admissibility of the respondent's evidence (at least, that is not what was pleaded). In raising these allegations, the appellant is rather seeking substantive relief, that is, to have the reassessments vacated outright. Given the case law cited above, it seems plain and obvious that the appellant would not succeed at trial in obtaining this relief, even if the facts upon which the claim depends were established to be true (see Zelinski v. Canada, [2002] F.C.J. No. 1292 (Q.L.), 2002 FCA 330). The allegations must therefore be struck out as they contain a radical defect which makes it plain and obvious that the action is certain to fail on that particular issue (see Hunt, supra, at page 975).
+(3) Charter Issues
+[17] The appellant submits that the conduct of the agents of the Minister in applying the statute could be found to be in breach of the Charter. He relies on the case of Markevich v. Canada, [2003] 1 S.C.R. 94, to point out that ". . . [p]rescriptions and limitations are enacted with the rationale of providing certainty to an individual that with the passage of time the individual should be secure in the individual's reasonable expectation that he or she will not be held to account for ancient obligations. The evidentiary rationale recognizes that evidence can become stale or lost after a period of time and the diligence rationale encourages claimants to act diligently and not sleep on their rights." (See appellant's Factum, paragraph 23.)
+[18] In the appellant's view, there was discrimination against a group of chiropractors who happened to be clients of one accountant targeted by the CCRA. The discrimination consisted in the fact that the members of this group were prejudiced by delays caused by the actions of the Minister. The appellant refers to the case of McKinney v. University of Guelph, [1990] S.C.J. No. 122 (Q.L.), paragraph 286, [1990] 3 S.C.R. 229, at pages 387‑88, in which the Supreme Court of Canada said that "the nature of discrimination is such that attitudes rather than laws or rules may be the source of the discrimination. . . . Given that discrimination is frequently perpetuated, unwittingly or not, through rather informal practices, it would be altogether inconceivable that they should be treated as insufficient to trigger the application of s. 15."
+[19] Be that as it may, if there is a finding of discrimination due to the actions of the Minister, only a court of competent jurisdiction will be able to grant a remedy with regard to the Charter issue concerning those actions. Indeed, subsection 24(1) of the Charter does not create courts of competent jurisdiction. It merely vests additional powers in courts which are already found to be competent independently of the Charter. A court has the power to grant a remedy under subsection 24(1) only when it has jurisdiction, conferred by statute, over the person and the subject matter and, in addition, has authority to make the order sought (see Mills v. The Queen, [1986] 1 S.C.R. 863, at pages 890 and 960). As mentioned above, the Tax Court of Canada has jurisdiction only over the assessment of the tax due, and not over the process under which it is assessed.
+[20] Here, the appellant is not arguing that the legislation itself offends section 15 of the Charter, but maintains rather that the Minister's actions violate section 15. Accordingly, a subsection 24(1) remedy cannot be granted by this Court on the grounds of a breach of section 15 of the Charter by the Minister in his administrative capacity as tax collector, since the Court does not have jurisdiction over the subject matter of that portion of the appeal. Therefore, even if a breach did occur, this Court has no jurisdiction to remedy such a breach.
+[21] As indicated by the Federal Court of Appeal in Sinclair v. The Queen, 2003 DTC 5624, at paragraph 8, if the appellant wishes to challenge the Minister's actions on the ground that they are contrary to section 15 of the Charter, he might seek relief in the Federal Court. This statement was confirmed in Main Rehabilitation, supra, at paragraph 10. That was a case in which the Federal Court of Appeal rejected the argument that the decision of that same court in O'Neill Motors Limited v. The Queen, 98 DTC 6424, supported the proposition that an assessment can be vacated by the Tax Court of Canada in an appeal pursuant to section 169 of the ITA where it can be shown that the process leading to the issuance of the assessment is tainted by the breach of a Charter right. The Federal Court of Appeal clearly specified that the O'Neill decision merely stands for the proposition that an assessment may be vacated in an appeal pursuant to section 169 if it is not supported by reason of the exclusion of the evidence which led to its issuance (see Main Rehabilitation, supra, paragraphs 11 and 13).
+[22] In O'Neill, supra, this Court had excluded evidence on the basis that it had been obtained in breach of section 8 of the Charter, which states that everyone has the right to be secure against unreasonable search or seizure. Here, no such search or seizure is alleged by the appellant. The appellant submits rather that there is a breach by virtue of the fact that he was a member of the large group of individuals who had used the services of the same accountant whom the CCRA had discovered made certain irregularities in preparing his clients' tax returns. This is not a group enumerated in section 15 of the Charter, nor is it a group constituting a discrete or insular minority. The group, whether composed of chiropractors or of clients of the accountant in question, presents none of the usual indicia of discrimination, such as stereotyping, historical disadvantage or vulnerability to political or social prejudice (see Law v. Canada (Minister of Employment and Immigration), [1999] 1 S.C.R. 497).
+[23] The appellant further submits that the right to reassess a taxpayer beyond the normal reassessment period under subsection 152(4) of the ITA is penal in nature and, as a consequence, he should be afforded protection under section 11 of the Charter. In particular, the appellant seeks to have the assessment vacated because his rights under paragraphs 11(a) and (b) of the Charter have been breached by the unreasonable delay that occurred before he was reassessed by the Minister.
+[24] For section 11 to apply, the appellant must qualify as a "person charged with an offence". In R. v. Wigglesworth, [1987] 2 S.C.R. 541, at page 559, Wilson J. stated that a matter falls within section 11 of the Charter where, first, by its very nature it is a criminal proceeding or, second, a conviction in respect of the offence may lead to a true penal consequence (see also Martineau v. Canada (Minister of National Revenue – M.N.R.), [2004] S.C.J. No. 58 (Q.L.), 2004 SCC 81, at paragraph 19).
+[25] In Martineau, supra, at paragraph 22, the Supreme Court of Canada reiterated what had been said in Wigglesworth, supra, at page 560, namely, that "proceedings of an administrative -- private, internal or disciplinary -- nature instituted for the protection of the public in accordance with the policy of a statute are not penal in nature". The Supreme Court of Canada commented that a number of judgments in tax matters support the conclusion that an administrative sanction is not penal in nature (Martineau, supra, at paragraph 54).
+[26] In the present case, reassessing a taxpayer after the normal reassessment period is something that is provided for in the ITA. With respect to such a reassessment, the Minister has the burden of showing that the appellant has made a misrepresentation that is attributable to neglect, carelessness or wilful default (see M.N.R. v. Taylor, 61 DTC 1139, cited in Farm Business Consultants Inc. v. Canada, [1994] T.C.J. No. 760 (Q.L.), aff'd in [1996] F.C.J. No. 82 (Q.L.)). The reassessment is an administrative measure intended to provide an effective means of enforcing the ITA. It is not a measure that is penal in nature.
+[27] Furthermore, a reassessment beyond the normal reassessment period does not lead to a true penal consequence. Indeed, in Wigglesworth, supra, at page 561, Wilson J. said that "a true penal consequence which would attract the application of s. 11 is imprisonment or a fine which by its magnitude would appear to be imposed for the purpose of redressing the wrong done to society at large rather than to the maintenance of internal discipline within the limited sphere of activity". Here, the appellant does not face imprisonment, and should the reassessment be confirmed, he will not have to pay a fine. He will only have to pay the amount of tax due under the ITA, with interest calculated thereon. The late filing penalties are not imposed to redress a wrong done to society at large, but are imposed simply to maintain the effectiveness of the ITA requirements. The appellant's obligation to pay, should the reassessments be confirmed, is clearly civil in nature and purely economic. As a matter of law, the liability to pay tax or any amount on account of tax does not depend on any notice of assessment but is created by statute (see Hart v. Canada (M.N.R.), [1986] 3 F.C. 178, at page 188 (F.C.T.D.)). Therefore, it cannot be said that the reassessment beyond the normal reassessment period leads to true penal consequences for the appellant. Consequently, the appellant cannot be characterized as a "person charged with an offence" within the meaning of section 11 of the Charter. This section does not, therefore, apply here.
+Conclusion On The First Three Issues (raised in the first motion only)
+[28] In conclusion, all the allegations of fact and law in the Amended Notice of Appeal (file 2004-367(IT)G) that are at issue in the first motion and which refer to an alleged course of conduct undertaken by the Minister in issuing reassessments for the appellant's 1994 to 2000 taxation years, are irrelevant to the issue before this Court and shall be struck out. Similarly, the appellant's claims in respect of sections 1, 11, 15 and 24 of the Charter have no reasonable possibility of success and shall also be struck out. Consequently, paragraph 13 (with the exception of the first sentence, which is a general factual allegation), paragraphs 14, 15 and 16, paragraphs 18 through 22, paragraphs 30, 31 and 32, paragraph 37 and the portion of paragraph 38 that reads "and sections 15, 11 and 1 of the [Charter]" in file number 2004-367(IT)G shall all be struck out.
+(4) Jurisdiction to Waive Interest and Penalties
+[29] The ITA specifically provides that the Minister has discretion to waive interest and penalties. Subsection 220(3.1) of the ITA states:
+(3.1) Waiver of penalty or interest. The Minister may at any time waive or cancel all or any portion of any penalty or interest otherwise payable under this Act by a taxpayer or partnership and, notwithstanding subsections 152(4) to (5), such assessment of the interest and penalties payable by the taxpayer or partnership shall be made as is necessary to take into account the cancellation of the penalty or interest.
+[30] The case law confirms that it is the Minister's discretion and that the appropriate court can only interfere if the exercise of that discretion is patently unreasonable.[2] For example, in Adamson, Judge Mogan wrote:
+¶14 The Appellant seems to think that this Court can compel the Minister to exercise his/her discretion under subsection 220(3.1) in a particular way. This Court has no jurisdiction over the Minister in the proposed exercise of discretion under subsection 220(3.1). If the Appellant were to request a waiver of interest or penalties under subsection 220(3.1), and if the Minister were to refuse the request, the Appellant could commence a proceeding in the Federal Court to review the Minister's exercise of discretion with respect to procedural fairness or error of law but that proceeding would start after the Minister had actually exercised his/her discretion under subsection 220(3.1).
+¶15 In his claim with respect to subsection 220(3.1), the Appellant is premature because he has not yet asked for relief from interest or penalties; and he is in the wrong Court. I will grant the Respondent's motion and strike out paragraph 8 and subparagraph 10(ii) of the Notice of Appeal because this Court does not have jurisdiction to compel the Minister to exercise his/her discretion under subsection 220(3.1) in a particular way; nor does this Court have jurisdiction to review the manner in which the discretion was exercised.
+[31] Paragraph 25 and subparagraph 39(b) of the Amended Notice of Appeal in file number 2004-367(IT)G and paragraph 13, and subparagraph 16(b) of the Notice of Appeal in file number 2004-1977(IT)G shall be struck out since the Court is unable to grant the relief sought.
+(5) Jurisdiction of the Court to Order Refund of Overpayment, With Pre- and Post‑Judgment Interest
+[32] I agree with the respondent that the jurisdiction of this Court to determine the legality of the assessments at issue does not encompass the power to order the Minister to refund or set off an amount against a tax debt (see: Neuhaus v. Canada, [2002] F.C.J. No. 1480 (Q.L.); Toner v. M.N.R., 90 DTC 1675 (T.C.C.); and McMillen Holdings Limited v. M.N.R., 87 DTC 585). This point is also well summarized in Guillemette v. Canada, [1997] T.C.J. No. 589 (Q.L.), at paragraph 42, which reads as follows:
+In terms of other relief requested, the Tax Court of Canada is without jurisdiction to direct the Minister to credit against federal tax owing by the taxpayer the amount of any excess provincial income tax paid by the taxpayer. Further, in claiming for a refund for overpayment of taxes, the Appellant is seeking recovery of a debt alleged to be owing rather than relief from an assessment of tax and therefore has not instituted an appeal from an assessment within the meaning of section 169 of the Act.
+[33] Therefore, subparagraph 39(c) of the Amended Notice of Appeal in file number 2004-367(IT)G and subparagraph 16(c) of the Notice of Appeal in file number 2004-1977(IT)G shall be struck out since this Court is unable to grant the relief sought.
+Signed at Ottawa, Canada, this 21st day of April 2005.
+"Lucie Lamarre"
+Lamarre, J.
+CITATION: 2005TCC263
+COURT FILE NO.: 2004-367(IT)G, 2004-1977(IT)G
+STYLE OF CAUSE: DIETER HARDTKE V. THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: September 30, 2004
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: April 21, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Bruce D. Marks
+Counsel for the Respondent:
+Josée Tremblay
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Bruce D. Marks
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Section 58 of the Rules reads in part as follows:
+Questions of Law, Fact or Mixed Law and Fact
+58. (1) A party may apply to the Court,
+. . .
+(b) to strike out a pleading because it discloses no reasonable grounds for appeal or for opposing the appeal,
+and the Court may grant judgment accordingly.
+[2] Edwards v. Canada (Customs & Revenue Agency), [2002] 3 C.T.C. 339 (F.C.T.D.) and Adamson v. R., [2002] 2 C.T.C. 2469 (T.C.C.).

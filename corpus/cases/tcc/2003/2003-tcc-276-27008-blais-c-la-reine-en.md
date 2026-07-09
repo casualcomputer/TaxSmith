@@ -1,0 +1,145 @@
+---
+title: "Blais c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27008/index.do"
+last_modified: "2003-05-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 276"
+citation2: ""
+neutral_citation: "2003 TCC 276"
+decision_date: "2003-05-16"
+language: "en"
+item_id: "27008"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 618
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:09:30.363000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "947287f62bf3134ce7d38b54aa45e3f20cb55e74e3700868440a1b82ceed22ae"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Blais c. La Reine
+
+- Citation: 2003 TCC 276
+- Decision date: 2003-05-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 618, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blais c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-16
+Neutral citation
+2003 TCC 276
+File numbers
+2001-4159(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-4159(IT)I
+BETWEEN:
+ROGER BLAIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 9, 2003 at Rivière-du-Loup, Quebec
+Before: The Honourable Judge Alain Tardif
+Appearances:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1999 taxation year is allowed and the penalty cancelled, and the assessment is founded in the main, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of May 2003.
+"Alain Tardif"
+J.T.C.C.
+Translation certified true
+on this 28th day of January 2004.
+Carol Edgar, Translator
+Citation: 2003TCC276
+Date: 20030516
+Docket: 2001-4159(IT)I
+BETWEEN:
+ROGER BLAIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif, J.T.C.C.
+[1] Before the Court is an appeal from a February 16, 2001 assessment for the 1999 taxation year.
+[2] At issue are the following points:
+(a) to determine whether, in computing the appellant's income for the 1999 taxation year, the Minister of National Revenue ("the Minister") correctly included the amount of $1,249.99 as interest held in a life insurance policy; and
+(b) to determine whether, for the 1999 taxation year, the assessment against the appellant of the penalty provided for in subsection 163(1) of the Income Tax Act ("the Act") was justified.
+[3] In making and confirming the February 16, 2001 reassessment, the Minister relied on the following assumptions of fact:
+[TRANSLATION]
+(a) the appellant took out a life insurance policy having the following details:
+(i)
+Policy No
+00-2711026-6
+(ii)
+Life insured
+Roger Blais
+(iii)
+Capital insured
+$35,000
+(iv)
+Issue date
+January 22, 1988
+(v)
+Effective date
+December 12, 1987
+(vi)
+Premium
+Single premium
+(b) the "Industrial Alliance" company issued T-5 slips in the appellant's name and Social Insurance Number for the 1999 taxation year:
+Accumulating income: benefits
+$1,249.99
+c) the appellant did not include this amount of $1,249.99 in his income for the 1999 taxation year;
+d) for the 1999 taxation year, since a second failure to declare income within a three-year period was involved, the Minister assessed against the appellant a penalty totalling $124.90, in accordance with subsection 163(1) of the Act.
+[4] The appellant, a very articulate person, explained the evolution of his case. A former professional in the insurance field, in which he worked for part of his working life, the appellant raised a number of questions about the appropriateness of the assessments made following the annual issuance of a T-5 slip by the Industrial Alliance insurance company.
+[5] In 1987, the appellant took out from Industrial Alliance an insurance policy on his life, all for a single premium. Following the issuance of the policy, Industrial Alliance issued a T-5 slip representing the interest for a three-year period. Following a formal request by the appellant, Industrial Alliance then issued an annual T-5 slip.
+[6] Thus, for the 1999 taxation year, a T-5 slip was issued in the amount of $1,249.99, which the appellant was required to include in his income.
+[7] The appellant explained that in fact he did not receive any interest following the issuance of the insurance policy he took out from Industrial Alliance. Consequently, according to the appellant, he was not required to include any additional amount whatsoever in his income for the taxation year in which the T-5 slip was issued.
+[8] The appellant made numerous arguments in order to justify and explain why he systematically refused to include such an amount in his income; he referred to various examples in order to establish what he described as flagrant injustice, illogicality and even discrimination in light of the treatment given to other life insurance contracts for which no T-5 slips were issued. He asked the Court to cancel the provisions under which the T-5 slips had been issued.
+[9] On the other hand, the respondent called as a witness Dominique Boucher; using a chart adduced as Exhibit I-1, she explained in detail why Industrial Alliance was required to issue a T-5 slip.
+[10] There is no doubt that the T-5 slip was issued in accordance with the provisions of the Act, specifically under subsection 12.2(3) of the Act and sections 305 ff. of the Income Tax Regulations.
+[11] Although I can understand the appellant's frustration, the main basis of which is that he neither receives nor enjoys the said interest, it appears that the T-5 slip was issued in accordance with the provisions of the Act; in that regard, this Court has neither the authority nor the power to amend the provisions concerned, still less the power to cancel the assessment resulting from the application of these provisions.
+[12] The respondent also assessed against the appellant a penalty in the amount of $124.90, under subsection 163(1) of the Act. This penalty is quite different from the one provided for in subsection 163(3) of the Act, in that the penalty is automatic in the case of a second failure to declare income within a three-year period. I nevertheless cancel the said penalty, given that the evidence is to the effect that the appellant did indeed provide information about the income resulting from the existence of the T-5 slip, but essentially refused to carry the related tax burden. The appellant provided a material demonstration that he did everything in terms of approaches, interventions and representations to establish the justification for his claims. He never concealed anything. Essentially he criticized the fact that income was being attributed to him that he had never received and would never receive during his lifetime.
+[13] The appeal is therefore allowed in that the penalty in the amount of $124.90 is cancelled.
+[14] Concerning the justification for the assessment, I confirm that the T-5 slip was issued in accordance with the provisions of the Act and that, consequently, this amount must be included in the appellant's income; as a result, in that regard the appellant's appeal must be dismissed.
+Signed at Ottawa, Canada, this 16th day of May 2003.
+"Alain Tardif"
+J.T.C.C.
+Translation certified true
+on this 28th day of January 2004.
+Carol Edgar, Translator

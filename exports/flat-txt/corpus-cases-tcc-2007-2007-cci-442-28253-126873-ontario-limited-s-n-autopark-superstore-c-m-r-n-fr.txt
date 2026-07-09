@@ -1,0 +1,141 @@
+Title: 126873 Ontario Limited s/n Autopark Superstore c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28253/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-442-28253-126873-ontario-limited-s-n-autopark-superstore-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2007-09-04
+
+# 126873 Ontario Limited s/n Autopark Superstore c. M.R.N.
+
+- Citation: 2007 CCI 442
+- Decision date: 2007-09-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2034, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+126873 Ontario Limited s/n Autopark Superstore c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-04
+Référence neutre
+2007 CCI 442
+Numéro de dossier
+2005-4126(EI)
+Juges et Officiers taxateurs
+Norris Weisman
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Référence : 2007CCI442
+Dossiers : 2005-4126(EI)
+2005-4127(CPP)
+ENTRE :
+126873 ONTARIO LIMITED
+s/n AUTOPARK SUPERSTORE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+CERTIFICATION DE LA TRANSCRIPTION
+DES MOTIFS DE JUGEMENT
+Je requiers que la transcription certifiée ci‑jointe des motifs de jugement rendus oralement à l’audience à Toronto (Ontario), le 1er février 2007, soit déposée.
+Signé à Toronto (Ontario), ce 15e jour d’août 2007.
+« N. Weisman »
+Juge Weisman
+Traduction certifiée conforme
+ce 2e jour d’octobre 2007.
+Johanne Brassard, trad. a.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+COUR CANADIENNE DE L’IMPÔT
+LOI DE L’IMPÔT SUR LE REVENU
+Référence : 2007CCI442
+Dossiers : 2005-4126 (EI)
+2005-4127(CPP)
+ENTRE :
+1268273 ONTARIO LIMITED
+s/n AUTOPARK SUPERSTORE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+APPELS ENTENDUS PAR M. LE JUGE WEISMAN,
+dans les bureaux du Service administratif des tribunaux judiciaires, salle d’audience no 1,
+180, rue Queen Ouest, 6e étage
+Toronto (Ontario)
+le jeudi 1er février 2007, à 15 h 45.
+MOTIFS ORAUX
+COMPARUTIONS :
+Me Irvin A. Schein pour l’appelante
+Me N. Kaneira pour l’intimé
+Également présent :
+M. C.F. Nethercut greffier audiencier
+A.S.A.P. Reporting Services Inc. 8 2007
+200, rue Elgin, bureau 1004 130, rue King Ouest, bureau 1800
+Ottawa (Ontario) K2P 1L5 Toronto (Ontario) M5X 1E3
+(613) 564-2727 (416) 861-8720
+Toronto (Ontario)
+Les motifs de jugement ont été rendus oralement le jeudi 1er février 2007, à 15 h 45.
+LE JUGE WEISMAN : J’ai entendu deux appels interjetés par 1268273 Ontario Limited, faisant affaire sous le nom d’AutoPark Superstore, par suite de décisions rendues par le ministre du Revenu national, intimé, en vertu du Régime de pensions du Canada et de la Loi sur l’assurance‑emploi à l’égard de cotisations au Régime de pensions du Canada et de cotisations au titre de l’assurance‑emploi de 17 travailleurs pour les années 2001 et 2002.
+Parmi les 17 travailleurs, il y avait 13 conseillers ou représentants, dont les noms figurent dans la réponse à l’avis d’appel du ministre, et quatre autres personnes, à savoir Carol Speirs, qui nettoyait les voitures de l’appelante, Jerry Woytkiw, qui travaillait à temps partiel le soir pour assurer la sécurité et enlever la neige, ainsi que Dean Clarke et Dianne Wilding, qui s’occupaient tous deux de garanties, de traitements antirouille, de financement et d’assurances.
+Pour trancher la question dont la Cour est saisie, il faut examiner toute la relation existant entre les intéressés et la force combinée du système d’exploitation dans son ensemble afin de régler la question cruciale ou fondamentale de savoir si les travailleurs fournissaient leurs services à l’appelante en leur qualité de personnes exploitant une entreprise pour leur propre compte ou s’ils les fournissaient à titre d’employés. À cette fin, il faut examiner la preuve soumise en l’espèce à la lumière du critère en quatre volets que la Cour d’appel fédérale a énoncé en tant que ligne directrice dans l’arrêt Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025; critère qui a été repris dans les arrêts 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] A.C.S. no 61, et Precision Gutters Ltd. c. Canada (Ministre du Revenu national), [2002] A.C.F. no 771, et à l’égard duquel des précisions additionnelles ont été données par la Cour d’appel fédérale dans les arrêts Légaré c. Canada, [1999] A.C.F. no 878 et Pérusse c. Canada, [2000] A.C.F. no 310.
+En ce qui concerne en premier lieu les 13 conseillers, je note qu’ils avaient tous signé des conventions de représentant indépendant qui ont été produites sous la cote A‑1, onglet 2, lesquelles établissaient clairement l’intention mutuelle des parties, à savoir que les 13 conseillers agiraient à titre d’entrepreneurs indépendants et qu’ils ne recevraient pas d’avantages et ne feraient pas l’objet de retenues à la source.
+En me fondant sur le critère à quatre volets tel qu’il s’applique à ces 13 conseillers, à commencer par le contrôle, j’ai conclu qu’il existait suffisamment d’éléments de preuve pour me convaincre que le facteur « contrôle » indique que ces 13 conseillers étaient des employés. En premier lieu, les ventes qu’ils concluaient devaient être approuvées par la direction. Les conseillers n’étaient pas entièrement libres de conclure des opérations. Sur ce point, les prix des véhicules vendus étaient contrôlés de près par l’appelante, comme étaient contrôlées les commissions versées aux conseillers. La preuve y afférente a été produite sous la cote R‑1, onglet 2, qui est l’annexe A, indiquant les commissions établies par l’appelante.
+Selon certains éléments de preuve, les conseillers devaient se présenter personnellement à leur poste ou ils devaient se faire remplacer, de sorte qu’ils ne pouvaient pas aller et venir à leur guise. Les conseillers devaient fournir leurs services personnellement, ce qui constitue un aspect du contrôle. Ils devaient assister aux réunions qui avaient lieu le samedi matin au sujet des ventes à moins d’être par ailleurs occupés à vendre des véhicules. Dans l’ensemble, je suis convaincu qu’il existe une relation de subordination entre les 13 conseillers et l’appelante et qu’il n’y avait pas l’indépendance à laquelle on pourrait normalement s’attendre dans le cas d’une relation entrepreneur indépendant‑payeur.
+Quant aux instruments de travail, ce facteur est selon moi équivoque. D’après la preuve, l’appelante fournissait les tables de travail, les locaux, les bureaux dans lesquels les conseillers travaillaient et le parc dans lequel les véhicules étaient garés, sauf dans des cas exceptionnels et peu habituels, lorsque la voiture devait être apportée à l’acheteur éventuel.
+Je suis convaincu que tous ces conseillers avaient un ordinateur sur leur bureau et que les divers formulaires qui devaient être signés étaient tous fournis par l’appelante. Je ne suis pas d’accord avec le ministre pour dire que les voitures, soient les articles qui étaient vendus, pouvaient être considérées comme un instrument de travail. D’autre part, selon l’alinéa 12aa) de la réponse, qui est corroboré par la preuve, les conseillers fournissent leurs propres cartes d’affaires, les téléphones cellulaires, les fournitures de bureau, les permis de vente, les journaux personnels, les factures et leurs propres véhicules.
+La question des véhicules des conseillers complique les choses parce que, normalement, il s’agirait d’un gros instrument de travail fourni par le conseiller, mais en l’espèce, à cause de la prime de 400 $ par mois accordée au conseiller qui faisait plus de dix ventes au cours du mois en question, et à cause du coût concomitant du véhicule imputé au conseiller qui ne satisfaisait pas au quota mensuel de dix voitures, j’ai conclu que la question du véhicule se rapportait davantage au facteur « profit et perte » qu’au facteur « propriété des instruments de travail ». Je traiterai donc maintenant de la possibilité de profit.
+Il est vrai que l’appelante faisait de la publicité et qu’il y avait un système de rotation selon lequel les conseillers qui étaient présents s’occupaient à tour de rôle des clients éventuels qui, attirés par la publicité, entraient dans les locaux, mais la preuve m’a convaincu qu’il s’agissait dans l’ensemble d’anciens clients des conseillers. En effet, tel était le genre de représentant que l’appelante cherchait lorsqu’elle concluait un contrat d’entreprise avec un conseiller et qu’elle encourageait ses conseillers à avoir leur propre clientèle.
+La rétribution était clairement versée strictement au moyen de commissions, et il existait une véritable possibilité de profit si le conseiller exerçait son talent de vendeur, s’il faisait preuve d’ingéniosité et d’initiative et, selon l’une des allégations, s’il avait recours à Internet. Telle est la marque d’un esprit d’entreprise et d’une saine gestion.
+Il existait également une possibilité de gagner un montant mensuel additionnel de 400 $, comme il en a déjà été fait mention, si plus de dix véhicules étaient vendus. Par conséquent, le facteur « possibilité de profit » indique que ces 13 personnes étaient des entrepreneurs indépendants.
+Quant au risque de perte, j’estime que la personne qui travaille uniquement à commission risque de subir des pertes, s’il est tenu compte du coût de renonciation comme on l’appelle communément dans le domaine économique, ou en d’autres termes, du revenu qui pourrait par ailleurs être gagné sur une base horaire ou sur quelque autre base pendant le temps où cette personne essaie de vendre des voitures, et je suis certain que les conseillers devaient montrer des voitures à bien des clients avant de réussir à en vendre une, ce qui constituait une perte de temps qui représentait de l’argent.
+Il y avait encore un risque de perte si le conseiller ne respectait pas le quota mensuel de dix voitures et s’il devait payer pour avoir son propre véhicule; de plus, il y avait toute une liste de dépenses pour des articles dont il a déjà été question, lesquels sont énumérés à l’alinéa 12aa) de la réponse à l’avis d’appel.
+À coup sûr, la personne qui travaille à commission et ne conclut pas de ventes ne gagne aucun revenu. Je mentionnerai pour référence seulement une série de décisions dans lesquelles le juge Bowman, maintenant juge en chef, a conclu que les vendeurs à commission sont des entrepreneurs indépendants. Le facteur « risque » indique donc également que les 13 conseillers étaient des entrepreneurs indépendants.
+Passons à – eh bien, je résumerai auparavant la question. Le critère « contrôle », en ce qui concerne les 13 conseillers, indique qu’il s’agissait d’employés. Le facteur « propriété des instruments de travail » est équivoque; les facteurs « possibilité de profit » et « risque de perte » indiquent tous deux que les conseillers étaient des entrepreneurs indépendants. Il a déjà été jugé, dans certaines décisions, qu’il ne fallait pas accorder dans tous les cas la même importance à ces quatre facteurs.
+Ces facteurs sont axés sur les faits et, en l’espèce, je crois qu’il faut accorder plus d’importance aux facteurs « possibilité de profit » et « risque de perte » qui, comme je l’ai dit, indiquent que ces 13 conseillers étaient des entrepreneurs indépendants; cependant, même si le résultat avait été plus serré, j’aurais invoqué le critère énoncé dans les décisions Wolf v. M.N.R., 2002 DTC 6853 et Royal Winnipeg Ballet v. M.N.R., 2006 DTC 6323, à cause de l’intention claire des parties, telle qu’elle est manifestée à l’onglet 2, pièce 1, et je n’hésite pas à conclure qu’il s’agissait dans tous les cas d’entrepreneurs indépendants, que ce soit selon le critère à quatre volets ou du point de vue de l’intention des parties.
+Quant à Carol Speirs, j’ai veillé à signaler à l’avocat de l’appelante qu’il incombait à cette dernière d’établir que la décision du ministre n’était pas objectivement raisonnable compte tenu des quatre éléments ou lignes directrices énoncés dans l’arrêt Wiebe Door; or, cela n’a pas été établi dans le cas de Carol Speirs.
+Selon la preuve, Carol Speirs était rémunérée à l’heure, mais nous ne connaissons pas le taux horaire. Les heures effectuées n’étaient pas consignées ni vérifiées, mais on faisait confiance à Mme Speirs, et le montant de 1 087,50 $, plus la TPS, qu’elle avait demandé dans la seule facture qu’elle avait soumise (onglet 35) a tout simplement été accepté, parce qu’on lui faisait confiance.
+M. Mill, pour le compte de l’appelante, a admis avec franchise ne pas savoir à qui appartenaient les instruments de travail utilisés par Carol Speirs, à part l’eau; je ne dispose donc d’aucun élément de preuve indiquant le degré de contrôle exercé sur elle, la propriété des instruments de travail, la possibilité de profit et le risque de perte de Mme Speirs, et si elle effectuait le travail personnellement ou si elle était libre de faire exécuter le travail par d’autres personnes, par des aides ou par des employés.
+Puisque l’appelante ne s’est pas acquittée de l’obligation qui lui incombait sur le plan de la preuve, je me vois obligé de conclure que la décision du ministre doit être maintenue. Cette décision est objectivement raisonnable; au cours de la période ici en cause, Carol Speirs exerçait un emploi aux termes d’un contrat de louage de services.
+Quant à Jerry Woytkiw, ce monsieur travaillait à temps partiel le soir au besoin, lorsque des actes de vandalisme étaient commis et qu’il fallait assurer la sécurité, et il s’occupait en outre de l’enlèvement de la neige, le cas échéant. Il était rémunéré à l’heure. Je dispose d’un nombre suffisant d’éléments de preuve pour rendre une décision au sujet de M. Woytkiw. Il engageait des frais à l’égard d’un camion, qui est un gros instrument de travail et, bien que je ne dispose d’aucun élément de preuve au sujet du contrôle, il est fort clair que la personne qui travaille à temps partiel pour s’occuper de la sécurité et de l’enlèvement de la neige et qui possède son propre camion risque de subir des pertes si les dépenses afférentes au camion ne sont pas payées à l’aide du revenu qu’elle gagne ou de quelque autre façon; de plus, j’estime que la personne qui fait preuve d’initiative et d’ingéniosité et qui assure une saine gestion a la possibilité de faire un profit; j’ai donc conclu que M. Woytkiw était un entrepreneur indépendant.
+Cela m’amène finalement au cas de Dean Clarke et de Dianne Wilding. J’ai constaté ou j’ai entendu dire que les faits dans l’un ou l’autre cas sont les mêmes. Ils exerçaient tous deux les mêmes fonctions pour l’appelante. Ils s’occupaient de garanties, de traitements antirouille, de financement et d’assurances. Si je comprends bien la preuve, ils possédaient tous deux une expertise spéciale. Ils devaient se renseigner ici et là sur les tarifs d’assurance et sur les conditions de financement afin d’être en mesure d’offrir au client les meilleurs contrats possibles à cet égard. Il est passablement clair qu’en se fondant sur leurs compétences dans ce domaine et en faisant preuve d’initiative et d’imagination, ils pouvaient offrir des taux compétitifs et réaliser un plus grand nombre de ventes.
+Je conclus que Dean Clarke et Dianne Wilding avaient une possibilité de profit; de plus, puisqu’ils travaillaient strictement à commission comme j’en ai déjà fait mention en ce qui concerne les 13 conseillers, lorsqu’ils ne concluaient pas de ventes, ils ne faisaient pas d’argent, ce qui constitue une perte de temps et un coût de renonciation. Dans ces deux cas, il existe un facteur, à savoir celui des instruments de travail, qui semble indiquer qu’il s’agissait d’employés, parce que des bureaux, des téléphones, des ordinateurs et tous les formulaires leur étaient fournis. Dean Clarke et de Dianne Wilding se contentaient de fournir leurs cartes d’affaires et les factures qu’ils soumettaient à l’appelante. Ils ont tous deux signé la convention d’entrepreneur indépendant, onglet 2, pièce A‑1. Ils étaient rémunérés à commission. J’accorderais plus de poids au facteur « profit et perte » et je conclus qu’il s’agit ici encore d’entrepreneurs indépendants.
+On a donné à entendre que le conseiller qui faisait de fausses promesses à un client éventuel ou qui faisait des compromis extravagants sans obtenir l’autorisation du directeur du service des ventes devait payer le lecteur de disques compacts et ainsi de suite, de sorte qu’il y avait risque de perte. Je suis d’accord avec l’avocat du ministre pour dire qu’il ne s’agissait pas d’un risque de perte.
+Pendant toute la durée de l’instance, j’ai envisagé de tirer une inférence défavorable à l’appelante du fait qu’elle n’avait cité aucun de ces 17 travailleurs; si je comprends bien, dans l’arrêt Lévesque c. Comeau, [1970] R.C.S. 1010, la Cour suprême du Canada dit en résumé que le fait qu’un témoin clé crucial ne témoigne pas et qu’aucune explication n’est donnée à cet égard permet à la cour de tirer une inférence défavorable selon laquelle le témoignage n’aurait pas été utile à l’appelant.
+J’ai toujours cru comprendre que cette explication devait être donnée par l’appelant. Je ne suis pas d’accord avec l’avocat de l’appelante pour dire qu’il incombe, d’une façon ou d’une autre, au ministre d’expliquer l’absence de ces témoins.
+Ceci dit, j’ai envisagé, pendant toute la durée de l’instruction, de tirer cette inférence défavorable; j’ai finalement décidé que j’avais entendu suffisamment de témoignages, notamment celui de M. Charlton, pour être convaincu que je ne dois pas exercer mon pouvoir discrétionnaire et tirer d’inférence, puisque je dispose d’un nombre suffisant d’éléments de preuve pour être en mesure de trancher les diverses questions qui sont ici en litige.
+En fin de compte, il incombe à l’appelante de démolir les hypothèses figurant dans la réponse à l’avis d’appel. En ce qui concerne Carol Speirs, l’appelante n’a pas réussi à me convaincre, selon la prépondérance des probabilités, que la décision du ministre n’était pas objectivement raisonnable conformément aux arrêts Légaré et Pérusse et, par conséquent, les deux appels la concernant seront rejetés et la décision du ministre sera confirmée.
+En ce qui concerne les 13 conseillers ainsi que Jerry Woytkiw, Dean Clarke et Dianne Wilding, on a réussi à démolir un nombre suffisant des hypothèses émises par le ministre pour établir que la décision du ministre n’était pas objectivement raisonnable. L’appelante s’est acquittée de la charge de la preuve sur ce point et ces 16, en fait ces 32 appels, à savoir les 16 appels fondés sur le Régime de pensions du Canada et les 16 appels interjetés en vertu de la Loi sur l’assurance‑emploi, seront accueillis, et les décisions du ministre seront annulées.
+Ai‑je oublié quelque chose? Je vous suis reconnaissant de l’aide que vous m’avez apportée; merci.
+LE GREFFIER AUDIENCIER : L’audience a pris fin une fois rendus les motifs oraux de jugement.
+Traduction certifiée conforme
+ce 2e jour d’octobre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI442
+Nos DES DOSSIERS DE LA COUR : 2005-4126(EI) et
+2005-4127(CPP)
+INTITULÉ : 126873 Ontario Limited s/n Autopark Superstore
+c.
+le Ministre du Revenu national
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 1er février 2007
+MOTIFS ORAUX DE JUGEMENT : L’honorable juge suppléant N. Weisman
+DATE DU JUGEMENT ORAL : Le 1er février 2007
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Irvin A. Schein
+Yosef Adler (stagiaire en droit)
+Avocat de l’intimé :
+Me Nimanthika Kaneira
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Irvin A. Schein
+Cabinet : Minden Gross LLP
+Toronto (Ontario)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

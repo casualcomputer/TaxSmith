@@ -1,0 +1,212 @@
+---
+title: "Boulianne c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25135/index.do"
+last_modified: "2003-07-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 514"
+citation2: ""
+neutral_citation: "2003 CCI 514"
+decision_date: "2003-07-31"
+language: "fr"
+item_id: "25135"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2591
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:54:57.802000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cc7c21f3c2ed7c3c1a107a7abe1fbaf2f1c5697aedfeaf8591befaf2001970a8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boulianne c. La Reine
+
+- Citation: 2003 CCI 514
+- Decision date: 2003-07-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2591, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boulianne c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-31
+Référence neutre
+2003 CCI 514
+Numéro de dossier
+2001-4435(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-4435(IT)I
+ENTRE :
+BERTHE BOULIANNE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appels entendus sous preuve commune avec les appels de Marc Lemieux (2001-4455(IT)I), les 9 et 10 juillet 2003 à Sept-Îles (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Avocat de l'intimée :
+Me Alain Gareau
+_______________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997, 1998 sont rejetés, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 31e jour de juillet 2003.
+« Alain Tardif »
+Juge Tardif
+Dossier : 2001-4455(IT)I
+ENTRE :
+MARC LEMIEUX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appels entendus sous preuve commune avec les appels de Berthe Boulianne (2001-4435(IT)I), les 9 et 10 juillet 2003 à Sept-Îles (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Alain Gareau
+_______________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997, 1998 sont rejetés, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 31e jour de juillet 2003.
+« Alain Tardif »
+Juge Tardif
+Référence : 2003CCI514
+Date : 20030731
+Dossiers : 2001-4435(IT)I
+2001-4455(IT)I
+ENTRE :
+BERTHE BOULIANNE,
+MARC LEMIEUX,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Les parties ont convenu de procéder au moyen d'une preuve commune.
+[2] Dans les deux dossiers, il s'agit d'appels suite aux avis de cotisations pour les années d'imposition 1997 et 1998.
+[3] La question en litige consiste à déterminer si le ministre du Revenu national (le « Ministre » ) a correctement établi les sommes respectives de 34 826 $ et de 30 173 $, réclamées comme dépenses courantes, à titre de dépenses en capital, à l'égard des propriétés situées à Sept-Îles, dans le calcul du revenu des appelants et selon leur quote-part dans la société de personnes « Gestion Bermanie enr. » et ce, au cours des années d'imposition 1997 et 1998.
+[4] Les faits pris pour acquis pour établir et maintenir les cotisations sont similaires dans les deux dossiers. Il s'agit des faits reproduits au paragraphe 7 de la Réponse à l'avis d'appel. Ces faits se lisent comme suit :
+a) « Gestion Bermanie enr. » est une société de personnes composée de monsieur Marc Lemieux et de madame Berthe Boulianne;
+b) Les appelants sont mariés sous le régime légal de la société d'acquêts et déclarent demeurer au 385, avenue Dequen, dans la ville de Sept-Îles;
+c) la société de personnes « Gestion Bermanie enr. » fut immatriculée sous le numéro 3346741542 le 25 avril 1997 et élisant domicile, à l'égard de son siège social, au 385, avenue Dequen, dans la ville de Sept-Îles;
+d) le 2 avril 1997, les appelants ont acheté un immeuble sis au 494, avenue Franquelin, dans la ville de Sept-Îles pour une somme de 475 000 $;
+e) le Ministre a considéré que l'immeuble sis rue Franquelin, dans la ville de Sept-Îles, fut transféré dans la société de personnes le même jour;
+f) le 16 septembre 1997, la société de personnes « Gestion Bermanie enr. » fit l'acquisition d'un immeuble sis au 60, rue Père-Divet, dans la ville de Sept-Îles pour une somme de 350 000 $;
+g) la quote-part des associés de la société de personnes « Gestion Bermanie enr. » est à hauteur de 50 %;
+vérification
+h) suite à une vérification au bureau, le Ministre a appris que les acquisitions des immeubles sis rue Père-Divet et avenue Franquelin, dans la ville de Sept-Îles, furent effectuées dans le cadre d'une reprise bancaire;
+i) le Ministre a pris pour acquis que le coût des immeubles avait été négocié en tenant compte des réparations majeures que la société de personnes « Gestion Bermanie enr. » devrait assumer afin d'espérer exploiter d'une façon rentable les dits immeubles;
+j) le Ministre a également pris pour acquis que lors d'une acquisition d'un bien usagé et qu'il est nécessaire d'y apporter des réparations pour le remettre en bon état afin qu'il puisse être utilisé, le coût des travaux est considéré comme une dépense en capital, même si en d'autres circonstances, il serait une dépense courante;
+k) les dépenses réclamées sous la rubrique « Entretien et réparations » furent vérifiées par un examen des pièces justificatives;
+l) le Ministre détermina, par l'examen des dites pièces justificatives, que certains déboursés réclamés comme dépenses courantes sous la rubrique « Entretien et réparations » étaient en réalité des dépenses en capital :
+Bâtisses
+Meubles
+Total
+1997
+16 742 $
+18 084 $
+34 826 $
+1998
+21 655 $
+8 518 $
+30 173 $
+[5] L'appelant a d'abord admis les faits a), b), c), d), e), f), g), h) et k).
+[6] Monsieur Lemieux a expliqué et décrit les circonstances et le contexte ayant entouré l'acquisition des deux immeubles à revenus. Il a témoigné à l'effet qu'il s'agissait d'immeubles nécessitant d'imposantes réparations et rénovations.
+[7] Regroupant principalement des petites unités d'une pièce et demie, appelée communément « studio » , les deux immeubles constituaient un concept très particulier. Suite à l'acquisition, les appelants ont transformé un certain nombre de studios en appartements de trois pièces et demie.
+[8] À la suite de travaux majeurs, les appelants ont déterminé que les coûts d'acquisition des deux immeubles avaient été de 533 709,54 $ et de 528 865,62 $, alors que le déboursé réel de l'acquisition avait été de 475 000 $ et de 350 000 $; la différence s'expliquant par l'ajout des montants déboursés pour divers travaux déterminés dépenses en capital. En d'autres termes, une partie importante du coût des réparations a été capitalisée.
+[9] Les appelants ont réclamé à titre de dépenses courantes d'entretien et de réparations, dans le cadre des opérations de location de logements, des montants de 71 696,75 $ et de 97 096,94 $ pour les années d'imposition 1997 et 1998.
+[10] De ces montants, l'intimée a refusé de considérer comme dépenses courantes des montants d'entretien et réparations de 34 826 $ pour l'année d'imposition 1997 et de 30 173 $ pour l'année d'imposition 1998.
+[11] Pour soutenir ses prétentions, l'appelant a fait valoir qu'il s'agissait d'un dossier très particulier découlant des faits suivants :
+· Il s'agissait de deux immeubles regroupant plusieurs dizaines de petits logements;
+· Les logements étaient loués au mois; très peu de baux étaient signés pour de longues périodes.
+· Un des immeubles avait une très mauvaise réputation quant à la qualité des locataires;
+· Plusieurs locataires étaient irresponsables et peu respectueux du droit de propriété d'autrui;
+· Certains locataires étaient malpropres; d'autres n'hésitaient pas à causer des dommages de toute nature;
+· Difficultés de faire valoir ses droits et surtout, d'obtenir compensation pour les dommages causés à leurs logements;
+· Ferme volonté de revaloriser les lieux pour en faire des logements propres, bien entretenus, bien administrés de manière à maximiser la rentabilité.
+[12] L'appelante, co-propriétaire, a confirmé par son témoignage celui de son conjoint.
+[13] La preuve a établi d'une manière non équivoque que les immeubles propriété de la société de personnes « Gestion Bermanie enr. » , constituaient un concept de location particulier. Cette particularité obligeait les propriétaires à être très prudents, très alertes et très impliqués dans le processus de location et d'entretien. Le roulement de locataires était substantiellement plus grand que pour des immeubles à logements multiples, regroupant des unités de trois à six appartements et faisant généralement l'objet de baux pour une période minimale de douze mois.
+[14] Il ressort de la preuve que la peinture, les meubles, les tapis et les lieux de façon générale avaient une durée de vie très courte, le tout nécessitant des dépenses d'entretien et de réparations beaucoup plus fréquentes et importantes que pour les immeubles à logements traditionnels. Sur cet aspect, les appelants ont réussi à démontrer le bien-fondé de leurs prétentions.
+[15] Je dois déterminer si les déboursés de 34 826 $ pour l'année d'imposition 1997 et de 30 173 $ pour l'année d'imposition 1998 étaient des dépenses courantes d'entretien et de réparation ou des dépenses en capital.
+[16] Les déboursés ont été effectués dans les mois qui ont suivi l'acquisition et même avant le transfert de propriété suivant le document produit sous la pièce A-7.
+[17] La société de personne « Gestion Bermanie enr. » , dont les seuls associés étaient les appelants dans une proportion de 50 - 50, a acquis les immeubles moyennant une considération qui tenait compte de l'état détérioré des lieux, mais aussi d'un important taux de vacance.
+[18] Les appelants étaient conscients de la situation et savaient que la remise en état des lieux nécessitait des déboursés substantiels. Ils voulaient également, par le biais de la société « Gestion Bermanie enr. » redorer le blason des deux immeubles.
+[19] Ils ont dû investir des montants importants pour y effectuer des travaux structurels au niveau du revêtement extérieur et de la fenestration; les intérieurs ont fait l'objet de dépenses importantes pour la réparation ou le remplacement des tapis, l'achat de divers meubles et effets mobiliers, tels matelas, causeuses, réfrigérateurs, etc., etc.
+[20] Les divers montants refusés sont décrits à la pièce A-7. Bien que le détail des factures n'y apparaît pas à l'exception de la section travaux électriques où les factures ont été produites de consentement le lendemain de l'audition, il est possible de voir la date et la nature des dépenses effectuées. Il s'agit principalement de tapis, de travaux électriques, remplacement de tuiles, achats de mobiliers, tels matelas, causeuse, cuisinière, table, frigo, etc., dépenses de décorations et certaines autres dépenses inhérentes comme le déplacement ou l'installation de toilettes.
+[21] L'appelant a fourni très peu de détails quant au contenu des diverses factures, et ce, bien que le Tribunal lui ait, à quelques reprises, rappelé l'importance d'avoir plus de détails pour qualifier la nature des dépenses litigieuses, tout en lui indiquant que le fardeau de la preuve lui incombait.
+[22] Certaines dépenses réclamées auraient effectivement pu constituer des dépenses courantes et d'entretien si la preuve avait permis de savoir très précisément ce dont il s'agissait.
+[23] D'autre part, il eût été important d'établir si les déboursés avaient été requis à la suite de l'exploitation des lieux par la société. En d'autres termes, les dépenses réclamées découlaient-elles de la location de logement sous leur gouverne ou plutôt de dépenses requises pour la remise en état des lieux suite à l'acquisition ? À cet égard, la preuve a été totalement déficiente. Je retiens de la preuve que la grande majorité des dépenses ont été effectuées lors de la phase remise en état des lieux dans le cadre de la volonté très ferme de modifier la réputation des lieux et, finalement, être en mesure de présenter au public un projet complètement renouvelé et revalorisé.
+[24] Il m'apparaît évident que l'exploitation des lieux dans le cours ordinaire des opérations nécessitera des dépenses d'entretien et de réparation supérieures à celles requises dans le cadre de l'exploitation d'immeubles à logements multiples où les locataires sont plus stables et la durée de location beaucoup plus longue.
+[25] Il est probable que la durée de vie de l'état des lieux et de tous les meubles meublant et effets mobiliers, sera beaucoup plus courte, eu égard au va-et-vient et au grand roulement de locataires. Cette particularité des lieux nécessitera, de toute évidence, des dépenses d'entretien, de réparations et de remplacement plus fréquentes et plus importantes.
+[26] Pour imputer de telles dépenses aux revenus générés par l'exploitation des immeubles il sera cependant nécessaire de pouvoir présenter un dossier étoffé et documenté.
+[27] En l'espèce, non seulement les appelants n'ont pas fait une telle démonstration, il appert de la preuve documentaire que les immeubles acquis nécessitaient une importante remise en état et cela, au moment et même avant d'envisager la pleine occupation des lieux.
+[28] En d'autres termes, au moment de l'acquisition des deux immeubles, les appelants savaient que les lieux exigeaient des déboursés très importants avant de pouvoir espérer générer des revenus acceptables.
+[29] Il est probable qu'au cours des prochaines années, certaines dépenses devront être qualifiées d'entretien et de réparations courantes, alors que des dépenses de même nature sont généralement des dépenses en capital et ce, compte tenu du concept très particulier des immeubles.
+[30] Les explications de l'appelant quant à la pertinence du contenu des factures se sont avérées beaucoup plus une interprétation intéressée qu'une simple description objective. D'autre part, plusieurs rubriques totalisant des montants fort importants constituaient à leur face même des dépenses de nature capitale. Je fais notamment référence au coût requis pour le remplacement d'armoires, de tapis, de travaux électriques, de décorations, etc.
+[31] Au lendemain de l'audition, avec le consentement de la partie intimée, l'appelant a produit en liasse le contenu détaillé des factures relatives aux dépenses reliées à l'électricité. L'analyse de ces factures démontre sans l'ombre d'un doute qu'il ne s'agissait pas de dépenses d'entretien et de réparations courantes, mais de dépenses structurelles et de remise en état des lieux, confirmant ainsi la première perception à l'effet que des déboursés aussi importants ne pouvaient pas être de simples dépenses d'entretien.
+[32] Au soutien de ses prétentions, l'intimée s'est référée à deux décisions très pertinentes, soit l'affaire Canada c. Johns-Manville Canada Inc., (1985), 2 R.C.S. 46; (1985) A.C.S. no 44, et M.N.R. v. Haddon Hall Realty Inc., (1961) DTC 1001 p. 1002.
+[33] La société de personnes que se partageaient les appelants a acquis deux immeubles dont l'état général était quelque peu délabré. Dès lors, il était impératif de faire des travaux majeurs pour la relance du projet. La société a effectivement beaucoup investi pour la remise en état des lieux.
+[34] La prépondérance de la preuve est à l'effet que les dépenses litigieuses découlaient plus de l'état des lieux au moment de l'acquisition que des suites d'activités de location; conséquemment, il s'agissait de dépenses de nature capitale et non des dépenses courantes puisque la preuve a démontré que les activités de location étaient à peine débutées.
+[35] Il est possible que certains locataires aient causé des dommages spécifiques dont les coûts de réparations devaient être définis dépenses courantes ou d'entretien; la preuve n'a pas fait une telle démonstration, elle a plutôt, d'une façon déterminante, établi que les divers déboursés avaient servi à remettre les lieux en état de location.
+[36] Pour ces raisons, les appels doivent être rejetés.
+Signé à Ottawa, Canada, ce 31e jour de juillet 2003.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2003CCI514
+Nos DES DOSSIERS DE LA COUR :
+2001-4435(IT)I et 2001-4455(IT)I
+INTITULÉS DES CAUSES :
+Berthe Boulianne et Sa Majesté la Reine
+Marc Lemieux et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Sept-Îles (Québec)
+DATES DE L'AUDIENCE :
+les 9 et 10 juillet 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DES JUGEMENTS :
+le 31 juillet 2003
+COMPARUTIONS :
+Pour les appelants :
+les appelants eux-mêmes
+Avocat de l'intimée :
+Me Alain Gareau
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour les appelants :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

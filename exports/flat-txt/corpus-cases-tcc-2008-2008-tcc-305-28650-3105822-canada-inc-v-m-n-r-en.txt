@@ -1,0 +1,328 @@
+Title: 3105822 Canada Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28650/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-305-28650-3105822-canada-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-05-16
+
+# 3105822 Canada Inc. v. M.N.R.
+
+- Citation: 2008 TCC 305
+- Decision date: 2008-05-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1114, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+3105822 Canada Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-16
+Neutral citation
+2008 TCC 305
+File numbers
+2007-771(EI)
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2007-771(EI)
+BETWEEN:
+3105822 CANADA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+_________________________________________________________________
+Appeal heard on August 21, 2007, at Montréal, Quebec
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Agent for the Appellant:
+Nabil Warda
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is allowed and the decisions dated October 11, 2006, and November 22, 2006, are referred back to the Minister of National Revenue for redetermination on the basis that the travel agents referred to in Schedule A to the Reasons for Judgment were not employed under a contract of service for the years 2002 and 2003, with the exception of Rola Al‑Haj, who, as the Appellant acknowledged, was an employee starting in July 2003. Naturally, the assessments dated February 13, 2006, which were based on these decisions, must be amended accordingly.
+As far as the year 2004 is concerned, since the Appellant acknowledged having seven employees, without, however, specifying who they were, the decisions concerning the travel agents who were declared insurable are confirmed.
+Signed at Montréal, Quebec, this 16th day of May 2008.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 3rd day of September 2008.
+Susan Deichert, Reviser
+Citation: 2008TCC305
+Date: 20080516
+Docket: 2007-771(EI)
+BETWEEN:
+3105822 CANADA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The Appellant has been operating a travel agency under the business name Amro Travel or Voyages Amro since 1995. Brothers Mohamed and Tarek Amro are equal co-owners of the business.
+[2] The travel agency is located in Pierrefonds, Quebec. It operates a business that sells and books accommodations and transportation services. For these purposes, it holds a travel agency permit and is accredited by the International Air Transport Association (IATA).
+[3] During different periods in the course of the years 2002, 2003 and 2004, the Appellant retained the services of 20 individuals as travel agents; the names of those individuals are set out in a schedule to the Reply to the Notice of Appeal, which is reproduced in its entirety, at the end of these Reasons for Judgment, as Schedule A.
+[4] At the hearing, I asked the parties to send me a history of the rulings made concerning each individual as regards the insurability of their employment. I did this because there appears to have been some confusion regarding the right to appeal from the rulings concerning some of these travel agents. Specifically, the Respondent is challenging the Appellant's right to appeal to this Court from rulings concerning seven workers whose names are set out in Schedule B to these Reasons for Judgment, because it appears that no appeal was filed with the Minister of National Revenue ("the Minister") from the ruling concerning the insurability of their employment.
+[5] After the hearing, counsel for the Respondent sent the requisite documentation to me, and a true copy to the Appellant's agent, in order to complete the record on the issue of whether there is a right of appeal concerning these seven individuals. For greater clarity, I have decided to refer to the documentation submitted by counsel for the Respondent on August 24, 2007, as Exhibit RR-1, and the document that she submitted to the Court on August 29, 2007, as Exhibit RR‑2. In addition, upon filing his written submissions on September 24, 2007, Mr. Nabil Warda, the Appellant's agent, forwarded a document dated August 14, 2006, which was addressed to him by the Canada Revenue Agency (CRA) and which completes the requisite documentation concerning the timeline of the instant matter. I will refer to that document as Exhibit AA‑1.
+[6] Naturally, the parties agreed to this procedure and to include the foregoing documentation as evidence in the record.
+I. Preliminary question: The Appellant's right of appeal in respect of the
+seven individuals listed in Schedule B hereto
+[7] In order to decide this question, I will go over the history of this matter.
+[8] On September 30, 2005, Sophie Mailhot, an auditor with the division abbreviated in French as “VNOE”,[1] submitted a request to the CRA for a ruling on whether 14 individuals (including Tarek Amro, one of the owners) qualified for employment insurance (EI), but no such request was made in respect of the seven individuals listed in Schedule B hereto (Exhibit RR‑1, tab 2). My understanding, based on the latter document, is that the ruling was requested so that it could be determined whether the external travel agents hired by the Appellant were governed by a contract of service.
+[9] On October 21, 2005, Elio Palladini, on behalf of the CRA, notified the Appellant, and the 14 individuals in respect of whom Sophie Mailhot of the “VNOE” division made the request, that, in his opinion, apart from Tarek Amro, who was not insurable because he one of the Appellant's co-owners, the other workers held insurable employment during the various periods in which they worked for the Appellant.
+[10] The ruling was apparently then returned to Sophie Mailhot as part of her audit of a [TRANSLATION] "'VNOE' file". In a document entitled [TRANSLATION] "TRUST ACCOUNTS DIVISION – AUDIT", found at tab 1 of Exhibit RR‑1, the audit date is given as January 9, 2006. The document also states the following:
+[TRANSLATION]
+BUSINESS NUMBER ROOT: 140082314
+The reference number 140082314RP0001 is given at the bottom of each subsequent page of the document.
+[11] On the second page of the document, under the heading [TRANSLATION] "Comments on client", the following is stated:
+[TRANSLATION]
+COMMENTS ON CLIENT
+Sophie Mailhot
+Examination requested following an insurability ruling in a “VNOE” file.
+General remarks
+The business operates a travel agency. It considered certain employees independent contractors. An insurability ruling changed their status to that of employees, hence the 2002 and 2003 assessment. There are two shareholders.
+Compliance-specific comments
+I granted the monthly $500 exemption.
+One of the shareholders received a taxable benefit (auto benefit) but his employment is excluded.
+Comments on collection
+The shareholder is not prepared to pay this assessment, and intends to challenge it in an appeal.
+[12] In the same document, under the heading [TRANSLATION] "Result of audit", Sophie Mailhot states that the [TRANSLATION] "interest effective date" is January 9, 2006, and that the completion or closure date is January 20, 2006. The document sets out the amounts of the EI assessments for the 20 workers listed in Schedule A hereto for the years 2002, 2003 and 2004. The audit summary states the final amount to be assessed on account of EI (not including interest) for the 2002, 2003 and 2004 years, that is to say, $9,387.79 (see the last page of tab 1 of Exhibit RR‑1):
+YEAR
+FAILURE TO PAY/DEDUCT
+. . .
+EI
+. . .
+2002
+$3,928.82
+2003
+$4,357.56
+2004
+$1,101.41
+$9,387.79
+[13] These are the amounts found in the "Notice[s] of Assessment" dated February 13, 2006, which were prepared by the CRA for the Appellant and refer to Business Number 140082314RP0001 (Exhibit RR‑1, tab 3).
+[14] On January 23, 2006, which is after the closing date of the audit but before the assessments were made, the Appellant's agent faxed to the CRA a document dated January 15, 2006, in which he objected to the CRA's decision and referred to account 14008-2374RP0001 (Exhibit R‑7). There appears to have been a typographical error in the account number: the digit "7" should have been "1". In the document, the agent said that he was objecting to the notices of determination listed on the subsequent page. That page referred to the initial requests for a ruling concerning the 14 workers (Exhibit RR‑1, tab 2) and the 14 rulings that were rendered (Exhibit RR‑2).
+[15] On August 4, 2006, the Appellant's agent faxed the CRA a document in which he stated that his January 2006 objection was based on the information available at the time, and that he did not know at that time that the assessments subsequently made would pertain to 20 workers, rather than 13 (not including Tarek Amro for the years 2002, 2003 and 2004 (Exhibit RR‑1, tab 4)).
+[16] He stated that he did not see fit to file another objection upon receiving those assessments (Exhibit RR‑1, tab 3) because he had already objected to the CRA's rulings once. Accordingly, his letter requested that an objection concerning the assessments covering the years 2002, 2003 and 2004, be included with the objection that he had already filed.
+[17] On August 14, 2006, the CRA agreed to include the assessments dated February 13, 2006, in the objections of January 23, 2006 (see paragraph 13 of the Reply to the Notice of Appeal and Exhibit AA‑1[2]).
+[18] By letters dated October 11, 2006 (Exhibit RR‑1, tab 5), the CRA notified the Appellant of its decision to confirm the EI assessment pertaining to 2002. However, the CRA reduced the EI assessments for 2003 and 2004 because it was of the view that six of the 14 workers covered by the rulings of October 21, 2005, were not employees under a contract of service. The CRA did not state any opinion with respect to the other seven workers, who were also assessed for EI on February 13, 2006.
+[19] It appears that, on November 15, 2006, the Appellant's agent informed the CRA of its failure to make any determination with respect to the seven additional workers listed in Schedule B hereto. On November 22, 2006, the CRA replied that the seven workers in question [TRANSLATION] "were not part of the appeal filed on January 23, 2006, and were therefore not part of the Notice of Appeal that had been accepted in connection with the assessment of February 10, 2006 (sic), which covered the 2002, 2003 and 2004 years". The CRA added that it was now too late to bring an appeal with regard to those seven workers (Exhibit R‑8). On February 8, 2007, the Appellant filed an appeal in our Court with regard to the eight workers who were considered insurable and the seven workers respecting whom the CRA refused to make a ruling.
+[20] The relevant provisions of the Employment Insurance Act, S.C. 1996, c. 23 ("EIA") are subsection 85(1), paragraphs 90(1)(a), (e) and (f), subsections 90(2) and (3), sections 91, 92, 93, 94 and 103, and subsections 104(1) and (2):
+85. (1) The Minister may assess an employer for an amount payable by the employer under this Act, or may reassess the employer or make such additional assessments as the circumstances require, and the expression “assessment” when used in this Act with reference to any action so taken by the Minister under this section includes a reassessment or an additional assessment.
+85. (1) Le ministre peut établir une évaluation initiale, une évaluation révisée ou, au besoin, des évaluations complémentaires de ce que doit payer un employeur, et le mot « évaluation », lorsqu’il est utilisé dans la présente loi pour désigner une initiative ainsi prise par le ministre en vertu du présent article, s’entend également de l’évaluation révisée ou complémentaire.
+Rulings and Appeals
+90. (1) An employer, an employee, a person claiming to be an employer or an employee or the Commission may request an officer of the Canada Revenue Agency authorized by the Minister to make a ruling on any of the following questions:
+Décisions et appels
+90. (1) La Commission, de même que tout employé, employeur ou personne prétendant être l’un ou l’autre, peut demander à un fonctionnaire de l’Agence du revenu du Canada autorisé par le ministre de rendre une décision sur les questions suivantes :
+(a) whether an employment is insurable;
+a) le fait qu’un emploi est assurable;
+. . .
+[…]
+(e) whether a premium is payable;
+(f) what is the amount of a premium payable;
+e) l’existence de l’obligation de verser une cotisation;
+f) la détermination du montant des cotisations à verser;
+. . .
+[…]
+(2) The Commission may request a ruling at any time, but a request by any other person must be made before the June 30 following the year to which the question relates.
+(2) La Commission peut faire la demande de décision à tout moment, et toute autre personne, avant le 30 juin suivant l’année à laquelle la question est liée.
+(3) The authorized officer shall make the ruling within a reasonable time after receiving the request.
+(3) Le fonctionnaire autorisé rend sa décision dans les meilleurs délais suivant la demande.
+. . .
+[…]
+91. An appeal to the Minister from a ruling may be made by the Commission at any time and by any other person concerned within 90 days after the person is notified of the ruling.
+91. La Commission peut porter la décision en appel devant le ministre à tout moment, et tout autre intéressé, dans les quatre-vingt-dix jours suivant la date à laquelle il reçoit notification de cette décision.
+92. An employer who has been assessed under section 85 may appeal to the Minister for a reconsideration of the assessment, either as to whether an amount should be assessed as payable or as to the amount assessed, within 90 days after being notified of the assessment.
+92. Lorsque le ministre a évalué une somme payable par un employeur au titre de l’article 85, l’employeur peut, dans les quatre-vingt-dix jours suivant la date à laquelle il reçoit l’avis d’évaluation, demander au ministre de reconsidérer l’évaluation quant à la question de savoir s’il y a matière à évaluation ou quel devrait être le montant de celle‑ci.
+93. (1) The Minister shall notify any person who may be affected by an appeal of the Minister’s intention to decide the appeal, including the Commission in the case of an appeal of a ruling, and shall give them an opportunity to provide information and to make representations to protect their interests, as the circumstances require.
+93. (1) Le ministre notifie son intention de régler la question à toute personne pouvant être concernée par l’appel ou la révision, ainsi qu’à la Commission en cas de demande introduite en vertu de l’article 91; il leur donne également, selon le besoin, la possibilité de fournir des renseignements et de présenter des observations pour protéger leurs intérêts.
+(2) An appeal shall be addressed to the Assistant Director of Appeals in a Tax Services Office of the Canada Revenue Agency and delivered or mailed to that office.
+(2) Les demandes d’appel et de révision sont adressées au directeur adjoint des Appels d’un bureau des services fiscaux de l’Agence du revenu du Canada et sont livrées à ce bureau ou y sont expédiées par la poste.
+(3) The Minister shall decide the appeal within a reasonable time after receiving it and shall notify the affected persons of the decision.
+(3) Le ministre règle la question soulevée par l’appel ou la demande de révision dans les meilleurs délais et notifie le résultat aux personnes concernées.
+(4) If the Minister is required to notify a person who may be or is affected by an appeal, the Minister may have the person notified in such manner as the Minister considers adequate.
+(4) Lorsqu’il est requis d’aviser une personne qui est ou peut être concernée par un appel ou une révision, le ministre peut faire aviser cette personne de la manière qu’il juge adéquate.
+94. Nothing in sections 90 to 93 restricts the authority of the Minister to make a decision under this Part or Part VII on the Minister’s own initiative or to make an assessment after the date mentioned in subsection 90(2).
+94. Les articles 90 à 93 n’ont pas pour effet de restreindre le pouvoir qu’a le ministre de rendre une décision de sa propre initiative en application de la présente partie ou de la partie VII ou d’établir une évaluation ultérieurement à la date prévue au paragraphe 90(2).
+. . .
+[…]
+Objection and Review
+103. (1) The Commission or a person affected by a decision on an appeal to the Minister under section 91 or 92 may appeal from the decision to the Tax Court of Canada in accordance with the Tax Court of Canada Act and the applicable rules of court made thereunder within 90 days after the decision is communicated to the Commission or the person, or within such longer time as the Court allows on application made to it within 90 days after the expiration of those 90 days.
+Opposition et révision
+103. (1) La Commission ou une personne que concerne une décision rendue au titre de l’article 91 ou 92, peut, dans les quatre-vingt-dix jours suivant la communication de la décision ou dans le délai supplémentaire que peut accorder la Cour canadienne de l’impôt sur demande à elle présentée dans les quatre-vingt-dix jours suivant l’expiration de ces quatre-vingt-dix jours, interjeter appel devant la Cour canadienne de l’impôt de la manière prévue par la Loi sur la Cour canadienne de l’impôt et les règles de cour applicables prises en vertu de cette loi.
+(1.1) Section 167, except paragraph 167(5)(a), of the Income Tax Act applies, with such modifications as the circumstances require, in respect of applications made under subsection (1).
+(1.1) L’article 167 de la Loi de l’impôt sur le revenu, sauf l’alinéa 167(5)a), s’applique, avec les adaptations nécessaires, aux demandes présentées aux termes du paragraphe (1).
+(2) The determination of the time at which a decision on an appeal to the Minister under section 91 or 92 is communicated to the Commission or to a person shall be made in accordance with the rule, if any, made under paragraph 20(1.1)(h.1) of the Tax Court of Canada Act.
+(2) La détermination du moment auquel une décision rendue au titre de l’article 91 ou 92 est communiquée à la Commission ou à une personne est faite en conformité avec la règle éventuellement établie en vertu de l’alinéa 20(1.1)h.1) de la Loi sur la Cour canadienne de l’impôt.
+(3) On an appeal, the Tax Court of Canada
+(3) Sur appel interjeté en vertu du présent article, la Cour canadienne de l’impôt peut annuler, confirmer ou modifier la décision rendue au titre de l’article 91 ou 92 ou, s’il s’agit d’une décision rendue au titre de l’article 92, renvoyer l’affaire au ministre pour qu’il l’étudie de nouveau et rende une nouvelle décision; la Cour :
+(a) may vacate, confirm or vary a decision on an appeal under section 91 or an assessment that is the subject of an appeal under section 92;
+a) notifie aux parties à l’appel sa décision par écrit;
+(b) in the case of an appeal under section 92, may refer the matter back to the Minister for reconsideration and reassessment; and
+(c) shall notify in writing the parties to the appeal of its decision; and
+(d) give reasons for its decision but, except where the Court deems it advisable in a particular case to give reasons in writing, the reasons given by it need not be in writing.
+b) motive sa décision, mais elle ne le fait par écrit que si elle l’estime opportun.
+104. (1) The Tax Court of Canada and the Minister have authority to decide any question of fact or law necessary to be decided in the course of an appeal under section 91 or 103 or to reconsider an assessment under section 92 and to decide whether a person may be or is affected by the decision or assessment.
+104. (1) La Cour canadienne de l’impôt et le ministre ont le pouvoir de décider toute question de fait ou de droit qu’il est nécessaire de décider pour rendre une décision au titre de l’article 91 ou 103 ou pour reconsidérer une évaluation qui doit l’être au titre de l’article 92, ainsi que de décider si une personne est ou peut être concernée par la décision ou l’évaluation.
+(2) Except as otherwise provided in this Act, a decision of the Tax Court of Canada or the Minister and a ruling of an authorized officer under section 90 are final and binding for all purposes of this Act.
+(2) Sauf disposition contraire de la présente loi, la décision de la Cour canadienne de l’impôt, du ministre ou du fonctionnaire autorisé au titre de l’article 90, selon le cas, est définitive et obligatoire à toutes les fins de la présente loi.
+[21] Under section 104 of the EIA, our Court has the authority to decide whether a person is, or may be, affected by the decision or assessment under appeal. In the instant case, it appears that the Appellant appealed to the Minister from the initial rulings, which were rendered by the CRA on October 21, 2005. My understanding is that those appeals were filed pursuant to section 91 of the EIA. Afterwards, despite the fact that the assessments were made on February 13, 2006, the Appellant apparently did not file a section 92 appeal from them.
+[22] On October 11, 2006, the CRA ruled on the appeals filed by the Appellant. Its determinations pertained only to the 14 workers who were covered by the rulings of October 21, 2005, despite the fact that on August 4, 2006, after the assessments were made, the Appellant had written the CRA, requesting that the other seven workers be included in its appeal, and that this request appears to have been granted by the CRA in its letter of August 14, 2006 (Exhibit AA‑1), and acknowledged by the Respondent in his Reply to the Notice of Appeal (paragraph 13).
+[23] In rendering its decisions on October 11, 2006, under subsection 93(3) of the EIA, the CRA failed to rule on the seven workers in question. The Appellant then asked the CRA to do so, and the CRA refused to accede to that request in its final decision dated November 22, 2006. The Appellant is appealing from this final decision.
+[24] In my opinion, the Minister had agreed to render a decision concerning the seven workers in his letter of August 14, 2006, and had the power to do so under section 94 of the EIA. Based on the written documentation, the Appellant did not limit its appeal to the initial rulings concerning the first 14 workers. In its letter dated August 4, 2006, it amended its appeal to include the seven other workers who were assessed on February 13, 2006. This amendment was accepted by the CRA, and, in my opinion, the CRA could no longer refuse to rule on all the workers involved in the assessments. To find otherwise would be tantamount to accepting that the CRA can legitimately mislead a taxpayer and create unfair consequences for that taxpayer.
+[25] It is my understanding that the Appellant did not file an appeal with the Minister under section 92, but, rather, under section 91. The Respondent is not contesting that the appeal from the Minister's rulings was filed within the time allotted by the EIA. Since the CRA subsequently decided to reconsider seven more workers, it was normal for the Appellant to amend its appeal in order to include the rulings concerning those seven additional workers (Exhibit RR‑1, tab 1). In fact, the CRA agreed to include these new workers in the appeal that the Appellant had already filed (Exhibit AA‑1). By agreeing to include the seven new workers (covered by the assessments) in the appeals filed under section 91 against the rulings made by the Minister under section 90, the Minister agreed to make a ruling on all the workers ultimately assessed by Sophie Mailhot. The Minister had the power, at that stage, to render such a decision under section 94, and should have done so, because he had notified the Appellant that he was agreeing to join the seven new workers with the Notices of Appeal that had already been filed.
+[26] Under section 104 of the EIA, I can decide which people are affected by the decision. Thus, I am of the opinion that the six workers in respect of whom the CRA rendered an insurability ruling, and the other seven workers in respect of whom the CRA refused to rule in an appeal that was before it, are affected by the decision that I will render. I will therefore comprehensively analyze the status of these 13 workers as part of the instant appeal.
+II. The status of the workers under the EIA
+[27] Mohamed Amro, one of the Appellant's co-owners, testified. Prior to 2002, the two Amro brothers operated their travel agency without assistance. In 2002, the Appellant began to hire outside agents, who found clients on their own. The Amro brothers considered these agents independent contractors. According to Mr. Amro, there were not enough clients to hire employees at that time. He said that these agents worked from home using the SABRE reservation computer software, to which the Appellant gave them access. The clients were billed the price charged by the airlines, plus a commission that could vary depending on the agent. The agent had to go to the agency to print the tickets. Ticket sales were recorded in a computerized accounting system. The agents made their sales under the agency's name because the agency held the permit. The clients paid the agency, which would then give the selling agent 50% of the commission on the amount paid by the client. The agency kept the other 50%. It deposited the net proceeds of the sale into its trust account and later paid the airlines. No agents had access to the trust account.
+[28] In July 2003, the Appellant decided to hire Rola Al-Haj as a part-time employee. At that time, the agency was becoming better known and was attracting more clients. In 2004, the Appellant decided to hire practically all the agents (seven in all) as employees of the agency. The only remaining contractor was Abdul Al‑Khodary, who rendered his services through his own agency, Ama Trading, which was registered on April 7, 2003 (Exhibit A‑3). The Appellant paid its employees a fixed salary plus 5% to 10% of the profits on ticket sales. The employees were paid on a bi-weekly basis.
+[29] Mr. Amro said that when his agents worked as contractors, they worked from home and came to the agency when it suited them. They met their own clients and he personally did not give them instructions. As stated above, they received at that time 50% of the commission on the amount that the client was charged. When Mr. Amro hired the agents as employees, they had a schedule to keep, and did the work assigned to them. They were paid a salary, and some also received a percentage of the commission.
+[30] Whether they were employees or contractors, all the agents had a password for the SABRE software databank so they could make reservations and issue tickets. Agents were forbidden from revealing their passwords to anyone else, under an agreement entered into with the Appellant. However, Mr. Amro said that it was difficult to exercise control over that. In any case, the agents prepared a commission report and submitted it to one of the Amro brothers. Mr. Amro said that he checked these reports and made corrections when the tickets were cancelled or the commission was calculated incorrectly. If there was an error in the amount remitted to the airlines, they issued a debit memo, and the Appellant demanded that the agent turn over 50% of the amount payable as a result of the error. An agency employee was given only one warning.
+[31] The office keys were in the possession of the Amro brothers. Abdul Al‑Khodary, who was allowed to show up at any time outside business hours in order to issue tickets, also had a copy of the keys. Mr. Al‑Khodary worked irregular hours at his convenience, as can be seen from the list of tickets issued at times other than normal business hours (Exhibit A‑6).
+[32] In 2002, the agency had furniture for six workstations, in addition to the two owners' offices (Exhibit A‑1). Even then, the agents, though on contract, could use the workstations whenever they needed to. Mr. Amro explained that, at the time that he signed the lease in 2001, he was given a full year's occupancy at no charge. He therefore took advantage of the opportunity to furnish the premises, with the idea that the agents could use them if they so wished. He was hoping that his client base would grow and that he could hire full-time agents, which he did indeed do in 2004. In fact, the gross profits on his sales increased from $179,000 in 2002 to nearly $275,000 in 2004, and the net pre-tax profit increased from $3,000 in 2002, to $58,000 in 2004 (Exhibit A‑5). In 2002, he had seven computers, supplied free of charge by SABRE. In 2003, the Appellant gradually started to pay for these computers (three per year).
+[33] In 2005, he had eight workstations plus the two co-owners' offices (Exhibit R‑1). The agency's hours of business were and still are 9 a.m. to 6 p.m. on weekdays, and 10 a.m. to 3 p.m. on Saturdays. The agency is closed on Sundays.
+[34] At the time that the agents were on contract, only the two brothers were at the office for the entire business day, whereas the agents simply came by from time to time. Aside from Ms. Rola Al‑Haj, who was hired in July 2003, none of the agents worked with clients on the premises.
+[35] This essentially concludes Mohamed Amro’s testimony.
+[36] Counsel for the Respondent called Katayoun Khaliliazar as a witness. Ms. Khaliliazar introduced herself as a dental assistant. She said that she had worked for the Appellant from October 2003 to February 2004. In her case, the period in issue is from November 1 to December 31, 2003 (Exhibit RR‑2). She said that she had trained to be a travel agent at another agency. Apparently, she received another two weeks of training from the Appellant with Abdul Al‑Khodary. She was not paid during those two weeks of training. She said that she was hired afterward to work full time at the agency from 9 a.m. to 6 p.m., Monday to Friday. She could not work from home because her work required a specific program that she did not have on her computer. She therefore used a computer at the agency. She made flight reservations, took clients' names, received payments and issued tickets. Upon determining the price for the client, she decided on the amount of the commission, which had to be within a certain range dictated by the Appellant. Before issuing the ticket, she was required to get the approval of Mohamed Amro or Abdul Al‑Khodary. She said that she was paid a net salary of $450 on a bi-weekly basis and that she never received any commissions. In 2003, she reported $2,250 in "other income" (Exhibit R‑2). She does not appear to have claimed any expenses. She said that when she worked at the agency in 2003, other agents would come to the office, but not on a full-time basis. However, she told the CRA appeals officer that roughly six travel agents worked at the agency full time (Exhibit R‑6, paragraph 94).
+[37] Counsel for the Respondent also called Abdul Al-Khodary as a witness. He worked for the Appellant from 1997 to 1999, and then left after getting a contract with two airlines. He went back to work for the Appellant from February 2002 to July 2005. The period under appeal is from January 1, 2002, to December 31, 2003 (Exhibit RR‑2). Mr. Al-Khodary said the he worked at the agency every day during business hours. He sometimes stayed afterwards, but it was rare for him to do so. He had the key to the premises, and was the one who opened in the mornings. He said that he did not generally work from home, but would occasionally do so, because he had access to the reservation system from there.
+[38] He said that there were eight agents at the agency, and listed the people who worked with him: Rola Al-Haj, Yasser El Sabbagh, Amir Hossein Sedghi and Katayoun Khaliliazar. He said that other agents were there, but only for short periods. He acknowledged that he offered to train certain agents, including Katayoun Khaliliazar. No one asked him to do this; he did this on his own initiative.
+[39] Mr. Al-Khodary was paid on commission. He had agreed with Mohamed Amro that he would receive 50% of the profit on his sales. He had a business card showing his association with Amro Travel, an IATA member (Exhibit R-4). Such cards were given to agents after six months, provided they had made a certain number of sales with Amro Travel. The agency also provided him with a card containing the agency's contact information. He acknowledged that he was the person who decided the amount of the commission that he charged each client. The Appellant did not impose a commission structure on him. He said that he was an experienced agent who did not require assistance in determining the amount of the commission that he could charge a client. He would sometimes advise other agents on this subject, but this would always be on his own initiative.
+[40] Although he considered himself an employee, Mr. Al-Khodary acknowledges that he registered Ama Trading for the purpose of claiming expenses against his income. He started off by saying that, prior to registering Ama Trading in April 2003, he had claimed no expenses on his income tax return, because he had considered himself an employee. However, his income tax return for the year 2002 (Exhibit A‑7) shows that he reported $16,854.37 in gross commission income from his T4A slips, and a net income of $6,003.65.
+[41] In 2003, he reported $25,451.95 in gross commission income from his T4A slips, and a net income of $8,192.26 (Exhibit A‑7). Exhibit A‑6 shows that Abdul Al‑Khodary on several occasions issued airplane tickets in the evenings after business hours. He said that, when he started rendering services through Ama Trading, the CRA acknowledged that he was a contractor. However, there was no difference in his work before and after the business name registration. Mr. Al‑Khodary also acknowledged that all the advice that he gave the other agents was on his own initiative, and that he was not paid for that type of service. He said that he spent 20-25% of his time on the other agents. He apparently told the CRA appeals officer that 50% of his time was spent on supervising the other agents (Exhibit R‑6, paragraph 112). He considered the agency his own. He acknowledged that, by submitting 50% of his commissions to the agency, he was contributing to the expenses, such as rent, travel agency permit fees, etc. He also acknowledged that he paid for his mistakes and for the amounts that airlines claimed due to such mistakes.
+[42] Counsel for the Respondent called two witnesses from the CRA. Elio Palladini, the person who declared 13 workers insurable in his rulings dated October 21, 2005, said that he had spoken with Mohamed Amro and Katayoun Khaliliazar in October 2005. He said that Mohamed Amro had told him that the agency had roughly seven employees in 2003. In his cross-examination, when he was told that 2004 was the year in which the Appellant had reported seven employees, he simply replied that the T4 slips were not always issued on time. Mr. Palladini acknowledged that Mohamed Amro had told him that the agents worked from home and covered their own expenses. He said that Mr. Amro had told him that the agents had to say that they were with the agency, and that they would not have been able to work for other agencies.
+[43] Jacques Rousseau, the person who made the appeal decisions on October 11, 2006, contacted the 13 workers that Elio Palladini had declared insurable, as well as Mohamed Amro and his agent. He confirmed employee status for Tarik Mimouni (2002-2003), Abdul Al-Khodary (2002-2003), Ahmed Nadim Labib (2002), Amal Temoulguy (2002), Katayoun Khaliliazar (2003), Rola Al‑Haj (2002-2003), Talha Siddiqui (2002-2003) and Yasser El Sabbagh (2002‑2003). He found that the other workers, namely, André Dagenais (2003), Mark Thompson (2003), Edda Battistella (2003), Amir Hossein Sedghi (2003) and Ahmad Abu Taah (2003-2004), were not employees of the Appellant.
+[44] Mr. Rousseau stated that just about everyone he considered to be an employee had said the same thing. His understanding was as follows. The workers in question said they worked full time at the agency Monday to Friday from 9 a.m. to 6 p.m. They had to adhere to the schedule imposed by the Appellant, and if they were unable to report to work, they had to contact Mr. Amro or Abdul Al-Khodary, who apparently were their supervisors. I would note, however, that Abdul Al‑Khodary testified that it was not his job to be supervisor, but that he helped the agents on his own initiative. Mr. Rousseau also reported that each of the workers claimed to have a desk with a computer that was supplied to them, and that they used the agency's name. As far as remuneration was concerned, they were paid a base salary on a bi-weekly basis, plus a commission, ranging from 5% to 10%, on their sales. Most of them did know what their status was. They did not know whether they were employees or independent contractors.
+[45] In his cross-examination, Mr. Rousseau acknowledged that the agents did not fill out any attendance sheets. When he questioned Katayoun Khaliliazar as part of his investigation, she apparently told him that if she was to be absent, she had to call her supervisor, namely, Abdul Al‑Khodary or Tania. However, further to a question asked by the Appellant's agent, it was acknowledged that Tania was not a person who had worked for the Appellant.
+[46] As for Rola Al‑Haj, she apparently said that she began working for the Appellant in 2001. Mohamed Amro said that he had hired her as an employee in July 2003. The CRA's ruling concerning her pertains to the period from June 1, 2002, to December 31, 2003 (Exhibit RR‑2). Mr. Rousseau did not try to shed light on the contradictions between certain agents' accounts and Mohamed Amro's account. Mr. Amro returned in rebuttal to say that there were seven employees in 2004, and that there might have been some confusion about 2003. Mr. Rousseau conducted his investigation in 2006.
+Analysis
+[47] In 9041-6868 Québec Inc. v. Canada (Minister of National Revenue), 2005 FCA 334, [2005] F.C.J. No. 1720 (QL), a case cited by counsel for the Respondent, the Federal Court of Appeal referred to the Civil Code of Québec, S.Q. 1991, c. 64, in order to determine whether there was a contract of service, as opposed to a contract of enterprise, between parties where the applicable provincial law is Quebec law. The relevant provisions (articles 1378, 1425, 1426, 2085, 2098 and 2099 C.C.Q.) are as follows:
+1378. A contract is an agreement of wills by which one or several persons obligate themselves to one or several other persons to perform a prestation.
+1378. Le contrat est un accord de volonté, par lequel une ou plusieurs personnes s’obligent envers une ou plusieurs autres à exécuter une prestation.
+. . .
+[…]
+1425. The common intention of the parties rather than adherence to the literal meaning of the words shall be sought in interpreting a contract.
+1425. Dans l’interprétation du contrat, on doit rechercher quelle a été la commune intention des parties plutôt que de s’arrêter au sens littéral des termes utilisés.
+1426. In interpreting a contract, the nature of the contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage, are all taken into account.
+1426. On tient compte, dans l’interprétation du contrat, de sa nature, des circonstances dans lesquelles il a été conclu, de l’interprétation que les parties lui ont déjà donnée ou qu’il peut avoir reçue, ainsi que des usages.
+. . .
+[…]
+2085. A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s’oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d’une autre personne, l’employeur.
+. . .
+[…]
+2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+2098. Le contrat d’entreprise ou de service est celui par lequel une personne, selon le cas l’entrepreneur ou le prestataire de services, s’engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s’oblige à lui payer.
+2099. The contractor and the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[Emphasis added.]
+2099. L’entrepreneur ou le prestataire de services a le libre choix des moyens d’exécution du contrat et il n’existe entre lui et le client aucun lien de subordination quant à son exécution.
+[Je souligne.]
+[48] The decision of the Federal Court of Appeal continues as follows (paragraphs 8-12):
+[8] We must keep in mind that the role of the Tax Court of Canada judge is to determine, from the facts, whether the allegations relied on by the Minister are correct, and if so, whether the true nature of the contractual arrangement between the parties can be characterized, in law, as employment. The proceedings before the Tax Court of Canada are not, properly speaking, a contractual dispute between the two parties to a contract. They are administrative proceedings between a third party, the Minister of National Revenue, and one of the parties, even if one of those parties may ultimately wish to adopt the Minister's position.
+[9] The contract on which the Minister relies, or which a party seeks to set up against the Minister, is indeed a juridical fact that the Minister may not ignore, even if the contract does not affect the Minister (art. 1440 C.C.Q.; Baudouin and Jobin, Les Obligations, Éditions Yvon Blais 1998, 5th edition, p. 377). However, this does not mean that the Minister may not argue that, on the facts, the contract is not what it seems to be, was not performed as provided by its terms or does not reflect the true relationship created between the parties. The Minister, and the Tax Court of Canada in turn, may, as provided by articles 1425 and 1426 of the Civil Code of Québec, look for that true relationship in the nature of the contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage. The circumstances in which the contract was formed include the legitimate stated intention of the parties, an important factor that has been cited by this Court in numerous decisions (see Wolf v. Canada (C.A.), [2002] 4 FC 396, paras. 119 and 122; A.G. Canada v. Les Productions Bibi et Zoé Inc., [2004] F.C.J. No. 238, 2004 FCA 54; Le Livreur Plus Inc. v. M.N.R., [2004] F.C.J. No. 267, 2004 FCA 68; Poulin v. Canada (M.N.R.), [2003] F.C.J. No. 141, 2003 FCA 50; Tremblay v. Canada (M.N.R.), [2004] F.C.J. No. 802, 2004 FCA 175).
+[10] The expression "contract of service", which has been used in the Employment Insurance Act since its origin and which was the same as the expression used in article 1667 of the Civil Code of Lower Canada, is outdated. The Civil Code of Québec in fact now uses the expression "contract of employment", in article 2085, which it distinguishes from the "contract of enterprise or for services" provided for in article 2098.
+[11] There are three characteristic constituent elements of a "contract of employment" in Quebec law: the performance of work, remuneration and a relationship of subordination. That last element is the source of the most litigation. For a comprehensive definition of it, I would refer to what was said by Robert P. Gagnon in Le droit du travail du Québec, Éditions Yvon Blais, 2003, 5th edition, at pages 66 and 67:
+[TRANSLATION]
+90 – A distinguishing factor - The most significant characteristic of an employment contract is the employee's subordination to the person for whom he or she works. This is the element that distinguishes a contract of employment from other onerous contracts in which work is performed for the benefit of another for a price, e.g. a contract of enterprise or for services governed by articles 2098 et seq. C.C.Q. Thus, while article 2099 C.C.Q. provides that the contractor or provider of services remains "free to choose the means of performing the contract" and that "no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance," it is a characteristic of an employment contract, subject to its terms, that the employee personally perform the agreed upon work under the direction of the employer and within the framework established by the employer..
+91 – Factual assessment – Subordination is ascertained from the facts. In this respect, the courts have always refused to accept the characterization of the contract by the parties. . . .
+92 – Notion – Historically, the civil law initially developed a "strict" or "classical" concept of legal subordination that was used for the purpose of applying the principle that a master is civilly liable for damage caused by his servant in the performance of his duties (article 1054 C.C.L.C.; article 1463 C.C.Q.). This classical legal subordination was characterized by the employer's direct control over the employee's performance of the work, in terms of the work and the way it was performed. This concept was gradually relaxed, giving rise to the concept of legal subordination in the broad sense. The reason for this is that the diversification and specialization of occupations and work methods often made it unrealistic for an employer to be able to dictate or even directly supervise the performance of the work. Consequently, subordination came to include the ability of the person who became recognized as the employer to determine the work to be performed, and to control and monitor the performance. Viewed from the reverse perspective, an employee is a person who agrees to integrate into the operational structure of a business so that the business can benefit from the employee's work. In practice, one looks for a certain number of indicia of the ability to control (and these indicia can vary depending on the context): mandatory presence at a workplace; a somewhat regular assignment of work; the imposition of rules of conduct or behaviour; an obligation to provide activity reports; control over the quantity or quality of the services, etc. The fact that a person works at home does not mean that he or she cannot be integrated into a business in this way. (Emphasis added)
+[12] It is worth noting that in Quebec civil law, the definition of a contract of employment itself stresses "direction or control" (art. 2085 C.C.Q.), which makes control the actual purpose of the exercise and therefore much more than a mere indicator of organization, as Mr. Justice Archambault observed at page 2:72 of the article cited supra.
+[49] There is no written contract in the situation before us. Despite the contradictions in the evidence, it shows that Mr. Amro was not contemplating the hiring of employees in 2002 because he did not think that he had enough clients, that he hired Rola Al‑Haj in July 2003, and that, in 2004, the gross profit from sales had increased enough for seven travel agents to be hired on as employees in the course of the year. As for the workers, Mr. Rousseau's report says that they did not generally know what their status was. In determining that the eight agents, namely, Abdul Al‑Khodary, Ahmed Nadim Labib, Amal Temoulgui, Katayoun Khaliliazar, Rola Al-Haj, Talha Siddiqui, Tarik Mimouni and Yasser El Sabbah (see paragraph 19(h) of the Reply to the Notice of Appeal) were employees, the Respondent was relying on the following findings:
+· They worked at the Appellant's office.
+· They were recruited as a result of advertisements placed in a local newspaper.
+· They worked full time for the Appellant, that is to say, generally Monday to Friday from 9 a.m. to 6 p.m.
+· They had to notify the Appellant of their absences.
+· The Appellant determined their duties.
+· They were paid a fixed salary plus a 10% commission on their sales, except for Abdul Al‑Khodary and Amal Temoulgui, who were paid a 50% commission on their sales.
+· They were paid on a bi-weekly basis.
+· The Appellant supplied all necessary tools and equipment.
+· The travel agency permit belonged to the Appellant.
+· The Appellant supplied the documentation and business cards.
+· They had no expenses to incur in the performance of their duties for the Appellant.
+· They could not get someone to replace them at work without the Appellant's approval.
+[50] The Appellant denied all the other factors noted by the Respondent inasmuch as the Appellant considered the travel agents to be contractors. The only exception was that the Appellant admitted that it was the one that held the travel agency permit.
+[51] As for the two workers who testified, Katayoun Khaliliazar acknowledged that she received unpaid training from Abdul Al‑Khodary. She said that she then worked five months full time (October 2003 to February 2004), whereas the insurability request stated that she worked only from November 1 to December 31, 2003 (two months). At the hearing, she said that there were no other full-time agents, but she had told Mr. Rousseau that there were approximately six full‑time agents while she was there. She said that she was supervised by Tania, but she clearly got the wrong agency, because no one named Tania has ever worked for the Appellant.
+[52] As for Abdul Al‑Khodary, he clearly testified that he helped the agents on his own initiative and that this was not a part of his duties. In addition, he suggested that he spent roughly 20 to 25% of his time supervising the other agents, whereas he had told Mr. Rousseau that this took up 50% of his time. Upon being confronted with his income tax returns, he acknowledged that he did not consider himself an employee, because he deducted expenses from his income, which he would not have been able to do if he had been an employee. In addition, the Respondent acknowledged his status as independent contractor from the moment he began to render his services under his business name, Ama Trading. And yet, according to Abdul Al‑Khodary, his duties were the same before and after the existence of Ama Trading. He acknowledged that he worked outside office hours. He was not paid a salary; rather, he was paid solely a commission that was based on the profits from his sales. He was financially responsible for any mistakes that he made.
+[53] In my opinion, the testimony given by these two witnesses does not support the factual assumptions made by the Respondent in the Reply to the Notice of Appeal. The remarks made by Katayoun Khaliliazar were confused and even contradictory. As for Abdul Al‑Khodary, his version changed since his report to Mr. Rousseau, his examination in chief and his cross-examination. This is why I am very reluctant to attach more weight to the statements of these two workers, in support of the argument that they were employees, than to the statements made by Mohamed Amro, who says that he was only able to hire the agents as employees in 2004.
+[54] Instead, Abdul Al‑Khodary's testimony suggests he was a contractor within the meaning of the Civil Code of Québec. As for the other workers, they did not attend the hearing. In his written submissions, the Appellant's agent stated that Tarik Mimouni had been summoned as a witness, but did not attend. Mr. Rousseau told the Court that he had contacted the other workers, and that they had basically given the same account as Katayoun Khaliliazar. In light of Ms. Khaliliazar's confused testimony, I am of the opinion that the Appellant has succeeded in casting serious doubt on the Respondent's assumptions of fact and that it has therefore made a prima facie rebuttal. Since the other workers did not attend, it is difficult to attach much weight to the account that they appear to have given to Mr. Rousseau.
+[55] In Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, Madam Justice L'Heureux‑Dubé of the Supreme Court of Canada stated the following, at paragraphs 92‑94, with respect to the reversal of the burden of proof:
+92 It is trite law that in taxation,[3] the standard of proof is the civil balance of probabilities: Dobieco Ltd. v. Minister of National Revenue, [1966] S.C.R. 95, and that within balance of probabilities, there can be varying degrees of proof required in order to discharge the onus, depending on the subject matter: Continental Insurance Co. v. Dalton Cartage Co., [1982] 1 S.C.R. 164; Pallan v. M.N.R., 90 D.T.C. 1102 (T.C.C.), at p. 1106. The Minister, in making assessments, proceeds on assumptions (Bayridge Estates Ltd. v. M.N.R., 59 D.T.C. 1098 (Ex. Ct.), at p. 1101) and the initial onus is on the taxpayer to “demolish” the Minister’s assumptions in the assessment (Johnston v. Minister of National Revenue, [1948] S.C.R. 486; Kennedy v. M.N.R., 73 D.T.C. 5359 (F.C.A.), at p. 5361). The initial burden is only to "demolish" the exact assumptions made by the Minister but no more: First Fund Genesis Corp. v. The Queen, 90 D.T.C. 6337 (F.C.T.D.), at p. 6340.
+93 This initial onus of "demolishing" the Minister’s exact assumptions is met where the appellant makes out at least a prima facie case: Kamin v. M.N.R., 93 D.T.C. 62 (T.C.C.); Goodwin v. M.N.R., 82 D.T.C. 1679 (T.R.B.). . . .
+94 Where the Minister’s assumptions have been "demolished" by the appellant, "the onus . . . shifts to the Minister to rebut the prima facie case" made out by the appellant and to prove the assumptions: Magilb Development Corp. v. The Queen, 87 D.T.C. 5012 (F.C.T.D.), at p. 5018. . . .
+[Emphasis in the original.]
+[56] Thus, the burden is now on the Minister to prove his assumptions and rebut the Appellant's evidence. In my opinion, what the evidence actually shows is that, as of 2004, the Appellant was on a sufficiently strong financial footing to hire the travel agents in question on a full-time basis. Mr. Amro's statement that he hired agents on contract before that is credible, in my view. The fact that he rented premises in 2001, and took advantage of a rent-free year to furnish them so that the agents could use them, does not strike me as unreasonable. In my opinion, the Respondent has not proven, on a prima facie basis, that the agents were required to be present at all times, or that there was a regular assignment of work or mandatory rules of conduct, and I cannot find that the Appellant exercised the control that would be required in order for the agents to be employees. I have no reason to doubt Mr. Amro's good faith when he says that he was preparing his premises for future growth.
+[57] In addition, it is strange that the Respondent agreed to consider some agents contractors but not others, even though they all seemed to have been doing the same work. It would have been very surprising if some of them had been treated differently from the others.
+[58] Instead, I believe that what the evidence discloses is that the parties' initial intention was to recruit travel agents as contractors based on their expertise, and that the profitable agents were later hired as employees in order to ensure their allegiance. This strikes me as commercially reasonable and plausible. Aside from Rola Al‑Haj, whom Mohamed Amro acknowledges having hired as an employee effective July 2003, I find that the Appellant has shown, on a balance of probabilities, that the travel agents in question were not employees during the 2002 and 2003 years. This decision applies to all the workers, including those listed in Schedule B to these Reasons for Judgment.
+[59] However, for the 2004 year, the Appellant acknowledges that it hired seven employees, without specifying who they were. The Respondent acknowledged that Ahmad Abu Taah was not insurable in 2004 (see paragraph 19(h) of the Reply to the Notice of Appeal).
+Decision
+[60] The appeal is allowed, and the decisions dated October 11, 2006, and November 22, 2006, are referred back to the Minister of National Revenue for redetermination on the basis that the travel agents referred to in Schedule A to the Reasons for Judgment were not employed under a contract of service for the years 2002 and 2003, with the exception of Rola Al Haj, who, as the Appellant acknowledged, was an employee starting in July 2003. Naturally, the assessments dated February 13, 2006, which were based on these decisions, must be amended accordingly.
+[61] As far as the year 2004 is concerned, since the Appellant acknowledged having seven employees, without, however, specifying who they were, the decisions concerning the travel agents who were declared insurable are confirmed.
+Signed at Montréal, Quebec, this 16th day of May 2008.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 3rd day of September 2008.
+Susan Deichert, Reviser
+Schedule A
+Abdul Al-Khodary
+Ahmed Nadim Labib
+Amal Temoulgui
+Katayoun Khaliliazar
+Rola Al-Haj
+Talha Siddiqui
+Tarik Mimouni
+Yasser El Sabbagh
+Ahmad Abu Taah
+Amir Hossein Sedghi
+André Dagenais
+Mark Thompson
+Edda Battistella
+Abou Seadah Nermine
+Benhocine Hamida
+El Boukhari Noha
+Rasha Awad
+Khalid Mahmod Moghal
+Amro Samy
+Hussein Nohida
+Schedule B
+Abou Seadah Nermine
+Benhocine Hamida
+El Boukhari Noha
+Rasha Awad
+Khalid Mahmod Moghal
+Amro Samy
+Hussein Nohida
+CITATION: 2008TCC305
+COURT FILE NO.: 2007-771(EI)
+STYLE OF CAUSE: 3105822 CANADA INC. v. M.N.R.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: August 21, 2007
+APPELLANT'S WRITTEN
+SUBMISSIONS: September 24, 2007
+RESPONDENT'S WRITTEN
+SUBMISSIONS: October 12, 2007
+APPELLANT'S RESPONSE: November 16, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: May 16, 2008
+APPEARANCES:
+Agent for the Appellant:
+Nabil Warda
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Nothing in the documentation provided gives the precise meaning of the French abbreviation "VNOE".
+[2] The letter dated August 14, 2006 (Exhibit AA‑1), refers to an assessment dated February 10, 2006. This appears to be a typographical error that is corrected at paragraph 13 of the Reply to the Notice of Appeal.
+[3] Although Madam Justice L'Heureux-Dubé is referring to taxation, the same standard applies to employment insurance matters before our Court – see Marcoux v. Canada (Minister of National Revenue – M.N.R.), [2001] T.C.J. No. 771 (T.C.C.) (QL) (a decision of Associate Chief Judge Bowman, as he then was).

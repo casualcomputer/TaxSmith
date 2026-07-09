@@ -1,0 +1,200 @@
+---
+title: "Lestage Giguère v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27525/index.do"
+last_modified: "2005-05-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 201"
+citation2: ""
+neutral_citation: "2005 TCC 201"
+decision_date: "2005-05-13"
+language: "en"
+item_id: "27525"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 20
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:43:27.929000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3baff60821e9066f7d10e100057685cb4d889fecad55cfe7e06256b90d2b2491"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lestage Giguère v. The Queen
+
+- Citation: 2005 TCC 201
+- Decision date: 2005-05-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 20, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lestage Giguère v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-13
+Neutral citation
+2005 TCC 201
+File numbers
+2004-2881(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2881(IT)I
+BETWEEN:
+DIANE LESTAGE GIGUÈRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 15, 2005, at Quebec City, Quebec
+Before: The Honourable Judge Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Alain Gareau
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment under the Income Tax Act for the 2002 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 13th day of May 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 16th day of March 2006
+Garth McLeod, Translator
+Citation: 2005TCC201
+Date: 20050513
+Docket: 2004-2881(IT)I
+BETWEEN:
+DIANE LESTAGE GIGUÈRE ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from an assessment under the Income Tax Act (the "Act"), in respect only of the imposition of the penalty provided for under subsection 163(1) of the Act, which reads as follows:
+SECTION 163: Repeated failures.
+(1) Every person who fails to report an amount required to be included in computing the person's income in a return filed under section 150 for a taxation year and had failed to report an amount required to be so included in any return filed under section 150 for any of the three preceding taxation years is liable to a penalty equal to 10% of the amount, except where the person is liable to a penalty under subsection 163(2) in respect of that amount.
+[2] When the Minister of National Revenue (the "Minister") determined and confirmed the new assessment on March 15, 2004 in respect of the 2002 taxation year, he based his decision on the following assumptions of facts:
+(a) CIBC World Markets Inc. issued to the Appellant a T-5 "Investment Income" form showing interest income from Canadian sources of $8,318.74 for the 2002 taxation year;
+(b) The Appellant did not declare this income of $8,318.74 in her income tax return for her 2002 taxation year;
+(c) In 2001, Merrill Lynch Canada Inc. issued to the Appellant a T5 "Investment Income" form showing a taxable dividend of $250.00 and interest income of $18,797.54;
+(d) The Appellant also failed to declare the amounts set out in the previous sub-paragraph in her income tax return for her 2001 taxation year;
+(e) The Minister accordingly imposed a penalty of $831.80 on the Appellant, representing 10% of her undeclared income for the 2002 taxation year.
+[3] The Appellant was present; she had, however, instructed her spouse to represent her. The latter stated that he had himself completed the income tax return of the Appellant, his wife, using tax return software.
+[4] After being sworn, he admitted that all the facts that constituted the reasons for the imposition of the penalty were true, saving only the assessment from which this appeal is made.
+[5] In support of the appeal, Paul Giguère essentially stated that he took full responsibility for what he described as simple errors, namely the fact of having failed to declare interest income for the 2001 and 2002 taxation years. He nonetheless maintained that these had been overlooked, and that the reasons in each case were totally different.
+[6] For the year 2000, this was a simple error, namely he had forgotten to take one slip into account in preparing his wife's tax return. With regard to the other year concerned in the appeal, this involved a misinterpretation of the contents of one of the slips.
+[7] According to the Appellant, the error was undoubtedly that of the issuing corporation, because it appeared that there were two slips for the same file; however, it has been established that there were in fact two separate files in which investment income was paid, in almost identical amounts.
+[8] As far as the initial oversight is concerned, in 2001, it has been established that the amount of income from interest of $18,797.54 and the amount of dividends at $250 consisted of substantial amounts in relation to the total income of the Appellant during that year.
+[9] The explanation with regard to the 2002 taxation year was of another order altogether. CIBC World Markets Inc. had issued two interest statements for that taxation year, one in the amount of $8,318.25, Exhibit A-1, and the other, in the amount of $8,318.74, Exhibit A-2. The difference between the two statements was accordingly negligible, namely 49 ¢ .
+[10] The spouse of the Appellant, to whom the two slips for her income tax return were given, was seeing this type of form for the first time. He took it for granted that this was a mistake on the part of CIBC World Markets Inc.; he accordingly concluded that the two forms showing investment income had undoubtedly to do with the same investment.
+[11] In other words, the issuing corporation had, in his view, apparently sent two slips with regard to the same investment. He accordingly decided to put one aside and to record the other in the income of his spouse for that taxation year. Since this was the second oversight in a period of 3 years, the penalty provided for at subsection 163(1) of the Act was imposed on his wife.
+[12] When one looks at the forms, there is indeed an astonishing resemblance in terms of the amount; the difference between the amounts that appear on the slips was only 49 ¢ . The similarity of the two forms could thus reasonably explain the interpretation of the Appellant's husband.
+[13] Although such a reflex could have been normal, such a perception does not provide a sufficient basis for determining the amounts to be included in income, all the more so since the amount thus set aside as a result of this interpretation was very significant in comparison to total declared income.
+[14] Under such circumstances, he would have been well advised to consider the principal that had produced the income shown on the slips. Such an exercise would have enabled him to confirm or reject the conclusion that this was a mistake on the part of the issuing corporation. In fact, elementary prudence demanded that the recipient check with the issuing corporation.
+[15] The amount in question was substantial, with respect to the total income of the Appellant; according to the explanations given by the Appellant's husband, the amount shown on each slip corresponded to almost 10% of the Appellant's income.
+[16] In her Notice of Appeal, the Appellant gives a full description of the nature of the mistake committed by her husband. She writes as follows:
+[TRANSLATION]
+I - The mistake is different because it concerns an undeclared amount of $8,318, for which CIBC Wood Gundy had sent me a notice. I declared the amount of $8,318 prior to April 30, 2003, as shown on my return. The mistake stems from the fact that Wood Gundy had sent two summaries of investment income and expenditures for 2002 (see the attached originals) in the same amount. Since I had never been in such a situation in the past, but having in 2000 and 2001 had the experience of being sent incorrect summaries by Wood Gundy, I concluded that this was a duplication and entered the amount only once on my return. The amount was therefore declared, but it should have been declared twice.
+II - In studying the two summaries of investment income and expenses for 2002 of $8,318 (which I have attached), you will find that they are 99% identical, and that it is reasonable for any person handling the two statements to conclude that this is a repetition of the same thing. In fact, the only notable difference involves the dates in the first column on the left. This was the first time that I had received the annual statements in two parts with respect to investment income and I could not suspect that the description of the two incomes had to do with income in two periods.
+Conclusion (cont'd)
+THE IDENTITY OF THE AMOUNTS ADDED TO THE IDENTITY OF THE STATEMENTS CONSTITUTES AN ERROR THAT IS DIFFERENT FROM THE ONE IN 2001 AND INVALIDATES THE RULE ON WHICH THIS PENALTY IS BASED. It is, furthermore, a type of confusion which any reasonable person could have experienced in the same situation, and not an error.
+[17] At issue here is whether the mere fact of having failed to declare certain income for a given taxation year (2002), after having failed to declare another amount on another return for one of the three preceding taxation years (2001), is sufficient justification to impose the penalty set out at subsection 163(1) of the Act, or whether the motives or reasons explaining the omission can and must be taken into account to cancel the imposition of such a penalty.
+[18] At first sight, the imposition of a penalty on a taxpayer without allowing them first to put forward explanations with regard to the non-reporting of income may seem severe.
+[19] I accordingly feel it is important to emphasize that this is in no way a penalty that the legislator wished to impose on people who filed their income tax returns while knowingly failing to declare certain income. This penalty, which is set out at subsection 163(2) is subject to proof, the burden of which rests with the Minister. This burden is a heavy one. The Minister must prove that there was an omission amounting to gross negligence.
+[20] With regard to the penalty set out at subsection 163(1), which is the issue in the case at bar, this is a penalty of another order altogether; this penalty applies when a person commits two omissions within a period of three years; the amount of the penalty is then established as a function of the amount not declared and corresponds to 10% of the undeclared income.
+[21] According to this provision, a taxpayer who, for a given year, fails to declare an amount as part of his income will need to display greater vigilance to avoid a repetition, at least within the two years following the first omission.
+[22] The imposition of the penalty has nothing to do with bad faith or with the seriousness of the omission. It derives essentially from the finding of two omissions within a period of three years. The size of the penalty is solely a function of the amount not declared in the repeat omission.
+[23] May the person on whom such a penalty is imposed have it cancelled if they are able to provide explanations that justify the second omission?
+[24] Can this penalty be cancelled if the error or omission has been committed by a person other than the person assessed?
+[25] The Respondent maintained that the instant case is one where the mere presence of the two elements, namely two failures to declare an amount that is required to be included in the computation of their income, in two taxation years out of a period of three consecutive years, automatically results in the imposition of the penalty pursuant to subsection 163(1) of the Act.
+[26] Furthermore, the Respondent has noted that this is not a penalty which the person on whom it is imposed can avoid, since this is an offence of strict liability.
+[27] The answer to the first question, whether an error committed by a person other than the person on whom the penalty was imposed may be cancelled is negative. First, the person who commits an error must themselves assume the consequences of their error. It is not the role of the government to assume responsibility for errors or omissions of taxpayers in the processing of a file.
+[28] This is a question of civil liability, namely whether any responsible person who confers a mandate must assume the consequences of the errors or the negligence of their agent.
+[29] In this regard, I recall an excerpt from a decision of the late Chief Judge of this Court, the Honourable Judge Couture, in Robert Girard v. The Minister of National Revenue, 89 DTC 60:
+[...]
+The Appellant's excuses were that he instructed his auditor at the time to prepare his tax return and that the latter died suddenly without completing the work, which after several months had elapsed was transferred to another auditor who died accidentally also without completing the work, and that the necessary financial statements were only finally prepared by a third auditor.
+The evidence further disclosed that the Appellant filed two returns for the taxation year 1976. The first, duly signed by him, appears to have been filed before May 1, 1977, while an amended return also signed by him was filed on October 11, 1978. The Appellant did not report the profit made by him in the sales of the Motel Hong Kong and the Château in either the first or the second return. He tried to explain this omission by alleging he had been confused, as he suffered losses in the year in question from other activities and these losses led him to think that they would offset the profit in question.
+For an Appellant to avoid liability under the Act when he fails to report income, he cannot simply attribute the omission to circumstances apparently beyond his control and try to place the blame on third parties. When he signs his tax return for a taxation year he also signs the following certificate:
+I hereby certify that the information given in this return and in any documents attached is true, correct and complete in every respect and discloses my income from all sources.
+This statutory formula appears to me to be quite clear and to require no explanation. When signed by a taxpayer it creates a presumption that the return is correct, based on the fact that the taxpayer was aware of and satisfied with its contents when he signed it. The same is true for all additions that must be completed and filed with the statement without exception, if the circumstances so require.
+I do not suggest that the fact that a taxpayer signed such a certificate automatically makes him liable to the penalty mentioned in subsection 163(2) if he commits any offence in the return. I admit that there are a whole range of circumstances in which he will be entirely free of liability under this subsection; but for him to succeed in persuading the Court that the offence committed by him resulted from independent circumstances beyond his control, and so avoid liability, he must show that in the circumstances he exercised reasonable attention and diligence in preparing and filing his return.
+[Emphasis added.]
+[30] In Findlay v. Canada, [2000] F.C.J. No. 731 (Q.L.), The Honourable Judge Isaac of the Federal Court of Appeal stated:
+[...]
+- The fact that Mr. Findlay hired and paid for his return to be prepared (the same as thousands of others) does not relinquish his responsibility to file an accurate return.
+[...]
+[Emphasis added.]
+[31] With regard to the other question, namely the nature of the penalty, this was dealt with on November 15, 1991, by the Honourable Judge Bowman of this Court in Maltais v. Canada, [1991] T.C.J. No. 1003 (Q.L.), who said the following:
+[...] In a self-assessing system the taxpayer has an obligation to ensure that his or her returns are complete. If it turns out that the failure to declare items of income carries with it a penalty that is different from that which the taxpayer anticipated, the taxpayer must bear that responsibility himself and cannot lay the blame on the officials of the Department of National Revenue.
+[...] The Appellant struck me as an honest and honourable young man and I find as a fact that it was not his intention to evade the payment of income tax. If it had been, more serious penalties under subsection 163(2) might have been considered. Mr. Ghan, on behalf of the Respondent, contended that subsection 163(1) in the form which is applied to 1989 did not require that there be a wilful intention to evade tax. In support of this position he pointed to the wording of the former 163(1) which referred to "every person who wilfully attempts to evade the payment of tax payable by him" and to the wording of subsection 163(2) which uses the expression "knowingly or under circumstances amounting to gross negligence". These provisions require a mens rea of intent or recklessness. I agree with the Respondent on this point. In my opinion, the omission giving rise to a penalty under subsection 163(1), as it applied to the 1989 taxation year is one of strict liability. [Footnote 1 appended to judgement]. Otherwise, subsection 163(2) would be superfluous. It follows that where the Minister of National Revenue is called upon under subsection 163(3) to justify the imposition of a penalty under subsection 163(1) he meets that onus by establishing that the taxpayer had failed to report an amount of income in one year and that he or she had failed to report an amount in a return for any of the three preceding taxation years. It is not necessary for me to decide in this appeal whether the amounts which the taxpayer fails to report in two or more taxation years need to be similar in nature.
+[Emphasis added.]
+Footnote 1: I am using the term "strict" as opposed to "absolute" in conformity with the distinction drawn by the Supreme Court of Canada in Her Majesty the Queen v. the Corporation of the City of Sault Sainte-Marie, [1978] 2 S.C.R. 1299. A defence of due diligence might have been available to the Appellant but it was not, on the facts, made out.
+[32] More recently, the issue has again been raised in an even more explicit way. In this connection, I believe that the following excerpts from Canada (Attorney General) v. Consolidated Canadian Contractors Inc. (C.A.), [1999] 1 F.C. 209 are highly relevant:
+[...]
+11 A principle submission of the Minister is that Sault Ste-Marie only allows a court to imply a due diligence defence if it identifies a public welfare or regulatory offence that qualifies as a strict liability offence. The Minister argues that the Tax Court lacks jurisdiction to read in a due diligence defence where administrative penalties are concerned. In other words, the Minister alleges that Pillar Oilfield is wrongly decided. Obviously, section 280 of the Excise Tax Act is not a regulatory offence, but an administrative penalty. In my respectful view, however, Sault Ste-Marie does not stand for the proposition cited by the Minister. To gain a proper appreciation of what the Supreme Court was being asked to decide in that case, it is first necessary to outline the law as it existed prior to that decision.
+[...]
+21 In the case before us, the Minister is arguing that the principles of Sault Ste-Marie are only applicable to regulatory offences and, since section 280 does not qualify as a regulatory offence, no due diligence defence is available. In my view, this is too restrictive a reading of Sault Ste-Marie. That case stands for the proposition that due diligence is a legitimate defence in the context of a public welfare offence. It does not address whether administrative penalties entail absolute or strict liability. I know of no common law rule that would disallow a due diligence defence with respect to administrative penalties. For greater certainty, I take the position that there is no valid basis for maintaining absolute liability for all administrative penalties. I would adopt the reasons of Justice Dickson in Sault Ste-Marie, in which he rejected the argument that strict liability was inapplicable to regulatory offences, and apply those reasons to administrative penalties.
+[...]
+36 In my opinion, Justice Dickson's analytical framework for identifying absolute liability offences is largely a reflection of what has become the "modern" approach to statutory interpretation. That approach involves a contextual and purposive analysis of legislation and was officially adopted by the Supreme Court in Stubart Investments, supra, per Estey J., at page 578 quoting from Driedger (2nd), at page 87 [Driedger, E.A. Construction of Statutes, 2nd ed.]. In Sault Ste-Marie, Justice Dickson held that before a statutory breach may be classified in terms of absolute liability, the Court must consider (1) the precision of the statutory language, (2) the importance of the penalty, (3) the subject-matter of the legislation, and (4) the overall regulatory pattern adopted by the legislature. In my view, the last two factors call for a contextual and purposive analysis of the relevant provisions of the legislation. At least, this is the way in which courts have generally applied those factors; see Nickel City Transport, supra. Having regard to the criteria set out in Sault Ste-Marie, I propose to pursue the main issue raised on this judicial review application by applying the following analytical framework.
+37 The principle that there is to be no punishment without fault translates into a rebuttable presumption that Parliament did not "intend" to impose absolute liability. This presumption is also a logical extension of the understanding that penalties serve as an incentive to ensure that persons exercise a minimum standard of care in fulfilling their obligations imposed by law. The idea is to encourage people to exercise reasonable care so they can avoid breaching their legal obligations. If so, then the person being penalized should be able to plead that he or she acted in accordance with the required standard of care. Hence, it seems both fair and logical to assume that Parliament intended strict, not absolute, liability. This presumption, however, will be rebutted if the language chosen by the draftsperson is unequivocal that absolute liability was intended or where the penalty leads to trivial consequences. If the presumption is not rebutted on those grounds, then it is necessary to determine whether the due diligence defence is incompatible with the legislative scheme or whether it frustrates the purposes for which the penalty was imposed.
+38 As much as I reject the idea that unfairness or manifest injustice is a sufficient reason for implying a due diligence defence, I am of the opinion that a court is justified in reading words into an Act to avoid such a result, if it can be shown that the relief being granted is compatible with the legislative scheme and neither frustrates nor undermines its purposes. These restrictions should silence any potential argument that the Court is acting contrary to its proper constitutional role; see Canadian Pacific Airlines Ltd. v. British Columbia [1989] 1 S.C.R. 1133, and Canada v. Nassau Walnut Investments Inc., [1997] 2 F.C. 279 (C.A.).
+[...]
+45 I cannot accept the proposition that a due diligence defence will lead to a breakdown in the administration of the Excise Tax Act for two reasons. First, there is no evidence to support such a doomsday scenario. Second, if the Minister's argument is correct, it is difficult to understand why the Income Tax Act does not provide for the equivalent of a section 280 penalty. It too is a self-reporting and self-assessing system for the payment of both federal and provincial tax. At no time has it been suggested that the scheme under the Income Tax Act is suffering because taxpayers are not automatically penalized each time they fail to properly calculate and remit taxes owing within prescribed timeframes. (How many Canadians miscalculate and underpay income tax each year?). It must be remembered that registrants under the Excise Tax Act also file annual returns under the Income Tax Act and, in the case of businesses, these same persons are responsible for periodic remittances of employee deductions to the Receiver General. Both taxation regimes depend on the integrity and honesty of Canadians. GST may be the most controversial and unpopular tax ever levied on Canadians, but that is no reason to posit that businesses are less faithful in adhering to their legal obligations imposed under the Excise Tax Act than those imposed under the Income Tax Act. In my view, the Minister has failed to establish that the due diligence defence would hinder the effective enforcement of the Excise Tax Act. I turn now to the Minister's second argument: that the due diligence defence would undermine the "incentive" purposes underlying section 280.
+[...]
+47 Theoretically, a penalty and due diligence defence should have no impact on those who are already "conscientious". As Justice Dickson observed in Sault Ste-Marie, if a person is already taking every reasonable precaution, why would a penalty provision compel that person to take additional measures knowing that they will not serve as a defence? It is only with respect to those who are "indifferent" to their legal obligations that one might properly assert that penalties promote adherence to the required standard of care. The question we must address is whether some registrants will consciously decide to remain indifferent to their legal obligations under the Excise Tax Act because they know that due diligence may be pleaded as a defence. I doubt that this will occur. As noted at the outset the costs of non-compliance are much greater than payment of a 6% penalty. There are costs associated with the obligation to pay restitutionary interest as well as the amount of the underpayment, both of which are subject to compound interest. Then there are the costs associated with an appeal from the Minister's assessment to the Tax Court. Even if the restraint is unrepresented by legal counsel, the costs in terms of lost time and personal stress arising from protracted litigation (three years in the present case) suggest that only fools will find consolation in an implied due diligence defence.
+[...]
+58 It would be presumptuous for me to leave the impression that the Minister is not aware of the "mistake of law" issue. It was raised at the trial level in Locator of Missing Heirs Inc., supra, but rejected by Judge Bowman of the Tax Court. Like him, I am of the view that the application of criminal law concepts in the present context is incomplete. A successful plea of due diligence in the context of regulatory offences would negate any form of punishment. By contrast, in cases involving section 280 of the Excise Tax Act, registrants are not seeking to plead mistake of law as a defence to payment of GST that they failed to collect and remit. That registrants remain liable for any underpayment and restitutionary interest has never been questioned. Indeed, the Act provides that registrants have the right to recover any amounts that should have been collected from those responsible for its payment. It is only the 6% automatic penalty that registrants find objectionable.
+[33] Although it is, in principle, to provide explanations that will justify or, at the very least, explain the why of the oversight that lies at the origin of the penalty with the aim of thus possibly obtaining the cancellation of the penalty, the explanations submitted in the instant case do not in any way warrant the cancellation of the penalty. This is not a harmless error, given the size of the Appellant's total income.
+[34] Neither can the Appellant rely on the fact that the person responsible for the error was their spouse, who every year completed their tax returns. In signing her tax returns, the Appellant certified that the information therein was correct.
+[35] The amounts involved were substantial, in view of the income reported. In one case (2001), the amount represented over 40% of her income and in the other case (2002) the amount was in excess of 15% of her declared income.
+[36] I accordingly conclude that the explanation put forward to justify cancellation of the penalty is not admissible. In consequence, I confirm that the penalty is well founded.
+[37] The appeal is accordingly dismissed.
+Signed at Ottawa, Canada, this 13th day of May 2005
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 16th day of March, 2006
+Garth McLeod Translator
+CITATION: 2005TCC201
+COURT FILE NO.: 2004-2881(IT)I
+STYLE OF CAUSE: Diane Lestage Giguère v. The Queen
+PLACE OF HEARING: Quebec City, Quebec
+DATE OF HEARING: March 15, 2005
+REASONS FOR JUDGMENT: The Honourable Judge Alain Tardif
+DATE OF JUDGEMENT: May 13, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Alain Gareau
+SOLICITOR OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

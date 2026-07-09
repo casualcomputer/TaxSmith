@@ -1,0 +1,186 @@
+Title: Wadley v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27219/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-440-27219-wadley-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-08-01
+
+# Wadley v. The Queen
+
+- Citation: 2006 TCC 440
+- Decision date: 2006-08-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 825, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wadley v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-08-01
+Neutral citation
+2006 TCC 440
+File numbers
+2005-3392(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3392(IT)I
+BETWEEN:
+ARLENE WADLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Arlene Wadley (2005-3394(GST)I) on April 26, 2006, at Edmonton, Alberta
+Before: The Honourable Justice Georgette Sheridan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Darcie Charlton
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the reassessment under the Income Tax Act is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Welland, Ontario, this 1st day of August 2006.
+Sheridan J.
+Docket: 2005-3394(GST)I
+BETWEEN:
+ARLENE WADLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Arlene Wadley (2005-3392(IT)I) on April 26, 2006, at Edmonton, Alberta
+Before: The Honourable Justice Georgette Sheridan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Darcie Charlton
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the assessment under the Excise Tax Act is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Welland, Ontario, this 1st day of August 2006.
+"G. Sheridan"
+Sheridan J.
+Citation: 2006TCC440
+Date: 20060801
+Dockets: 2005-3392(IT)I
+2005-3394(GST)I
+BETWEEN:
+ARLENE WADLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Arlene Wadley, is appealing under the Informal Procedure, the decision of the Minister of National Revenue disallowing the deduction under the Income Tax Act of certain expenses claimed against her farm income for 2001 and 2002, and denying Input Tax Credits ("ITC's") related to such expenses under subsection 169(1) of the Excise Tax Act. The basis for these decisions was his assumption that she was not in the "business" of farming under the Income Tax Act, and that her activities did not constitute a "commercial activity" under the Excise Tax Act. The Minister took the position that her 2001 and 2002 income was from property; specifically, pastureland rental and hayfield crop-sharing and allowed expenses related to those activities on that basis. A third activity, the carriage project[1], was assumed to be a hobby or non-commercial activity and accordingly, no expenses or ITC's related to that activity were allowed. The appeals were heard together on common evidence.
+Legislation
+[2] The relevant legislative provisions under the Income Tax Act are set out below:
+9(1) Subject to this Part, a taxpayer's income for a taxation year from a business or property is his profit therefrom for the year.
+18(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+...
+(b) personal or living expenses of the taxpayer, other than travelling expenses incurred by the taxpayer while away from home in the course of carrying on his business;
+...
+248(1) In this Act,
+...
+"personal or living expenses" includes
+(a) the expenses of properties maintained by any person for the use or benefit of the taxpayer or any person connected with the taxpayer by blood relationship, marriage or adoption, and not maintained in connection with a business carried on for profit or with a reasonable expectation of profit ....
+[3] Paragraph 169(1)(a) and subsection 123(1) of the Excise Tax Act read as follows:
+169(1) Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year, [Emphasis added.]
+...
+123(1) "commercial activity" of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) The making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply;
+...
+Case Law
+[4] In the decision of Stewart v. Canada[2], the Supreme Court of Canada set out the approach to be taken in determining whether section 9 of the Act is available to the taxpayer:
+It is clear that in order to apply s. 9, the taxpayer must first determine whether he or she has a source of either business or property income. As has been pointed out, a commercial activity which falls short of being a business, may nevertheless be a source of property income. As well, it is clear that some taxpayer endeavours are neither businesses, nor sources of property income, but are mere personal activities. As such, the following two-stage approach with respect to the source question can be employed:
+(i) Is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavour?
+(ii) If it is not a personal endeavour, is the source of the income a business or property?[3]
+[5] At paragraph 54 of Stewart, the Court restated the first prong of the test as follows:
+... "Does the taxpayer intend to carry on an activity for profit and is there evidence to support that intention?" This requires the taxpayer to establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour.
+[6] In making this determination, the trier of fact is to have regard to the following factors:
+(1) the profit and loss experience in past years;
+(2) the taxpayer's training;
+(3) the taxpayer's intended course of action; and
+(4) the capability of the venture to show a profit.
+Analysis
+[7] For the reasons set out below, I am satisfied that in 2001 and 2002, Mrs. Wadley was carrying on the business of farming with the predominant intention of making a profit.
+[8] In 2001, Mrs. Wadley was 65 years old. She grew up on a farm in Alberta. Her earliest memories are of learning about horses at her father's knee. As a young woman, she married a farmer and until his death in 1975, worked alongside her husband on their farm. She bought and sold farm goods, helped with livestock production and breeding, including artificially inseminating cattle, delivering calves and raising horses. She continued farming until 1987 when she sold the large landholding; in 1992, she purchased the 157-acre property with the intention of continuing to farm, but on a smaller scale.
+[9] The new property was made up of 35 acres of treed pasture ("the Pasture") and 100 acres of hayfield ("the Hayfield"), with the farm residence, barn and storage sheds located on the remaining 25 acres. In the outbuildings were kept her farm equipment and tools, including a 65 hp Ford 4610 tractor, a 2001 Ford 1-ton truck, a stock trailer and flat deck, a set of harrows, a hay mower, rake, baler, the "quad"[4], a rotor beater, and numerous hand tools. These buildings also housed antique carriages, sleds, a cutter and sets of harness. There were fuel tanks to keep a store of fuel on hand for the farm machinery.
+"The Pasture"
+[10] In the taxation years in question, Mrs. Wadley had an agreement with her neighbour whereby, for a monthly fee per head, his cattle were grazed in the Pasture from June to September. Five of her own horses were also pastured in this area. The appeals officer, John Price, testified as to the steps he had taken in considering Mrs. Wadley's objection and the basis upon which he had upheld the auditor's determination that Mrs. Wadley was not actively farming this property. After reading the auditor's report and discussing the nature of her operation with Mrs. Wadley, Mr. Price concluded that Mrs. Wadley's efforts in respect of the Pasture were "a passive activity"[5]. He testified that:
+She'd stated further that she worked approximately an hour a day, two times a week to go out and look at the cattle. Otherwise, the cattle - you know, it's just common sense. They're out there milling around, doing what cows do: eat grass. It doesn't require too much, I guess, involvement, is the way to put it.[6]
+[11] To his credit, Mr. Price was candid in his admission that he personally had no background in farming and that the Wadley matter was his first farm audit. Notwithstanding her invitations to do so, neither he nor the two auditors assigned to the Wadley file, visited her farm. Given his care with the procedural aspect of his duties, I am certain that Mr. Price did his best to analyze what information he did have (in my view, incomplete) in light of the departmental criteria as to what constitutes a business. But the fact remains that Mrs. Wadley was insulted and frustrated by what she felt was the utter disregard for a lifetime of hard work and experience in agriculture. While I am not persuaded by her argument that the officials acted in a discriminatory or malicious way towards her, in the circumstances, I cannot fault her for feeling that her age and gender negatively influenced the Minister's decision.
+[12] Notwithstanding Mr. Price's impressions of the activity, pasturing cattle involves more than hosting some sort of bovine cinq-à-sept. What did it entail for Mrs. Wadley? Each year, she did maintenance work on the corrals used for holding the cattle, and on the fence around the Pasture. She also cut brush and weeds along the fence line. Throughout the summer, she trapped moles in the Pasture; she also had to harrow the Pasture to remove their burrows to keep the livestock from injuring themselves. She kept the water troughs full and the salt supply replenished. She kept a watchful and experienced eye on the cattle and her horses to ensure their general well-being. All of this shows activity that goes well beyond what is normally expected of a landlord in the maintenance of her rental property. During the taxation years, Mrs. Wadley had no cattle; in light of the BSE crisis in Alberta, acquiring livestock of her own did not seem to her to be a sensible idea. Instead, she put the Pasture to good use by making the arrangement with her neighbour. That, in itself, does not justify the conclusion that her farming business had been suddenly converted to the rental of property.
+"The Hayfield"
+[13] Mrs. Wadley had an agreement with her neighbour to crop-share the Hayfield. In 1992, the Hayfield had been seeded with alfalfa, timothy and brome. These plants are perennials and do not need to be reseeded each year; no doubt this was what led the Minister to assume[7] that the hay was "a natural consequence of owning the Land and not a result of an active farming activity". As well as coming as quite a surprise to those Canadians who toil in hayfields, this assumption was proven wrong by the evidence of Mrs. Wadley and her witness Bill Brass.
+[14] Mr. Brass has a Bachelor of Science in Agriculture from the University of Alberta. He has known Mrs. Wadley since he was a student working on her farm in the summer of 1975. He farms near Leduc, Alberta, some 10 miles from Mrs. Wadley's property and is a Pesticides Officer with Health Canada. Mr. Brass gave his evidence not as an expert, but as one with personal knowledge of soil conditions and forage practices in the area. He, like Mrs. Wadley, was a thoroughly credible witness.
+[15] I am satisfied that Mrs. Wadley was actively engaged in making the Hayfield a thriving element of her farming business. She had to fertilize and harrow the Hayfield and decide each year how often the hay should be cut in order to keep the field at maximum production. In 2001 and 2002, Alberta was in the grip of a devastating drought. In 2001 she harvested twenty-three 1200-pound bales and twenty in 2002; in 2005, when the rains returned, the same field produced some 242 bales.
+[16] Because she shared the crop on a 50-50 basis with her neighbour, it follows that she was not as actively involved as she would have been if it had been exclusively her venture. But it cannot be denied that her own sweat went into the project: in addition to the activities above, she cut brush, baled the hay and hauled bales. Counsel for the Respondent made much of the fact that her crop-sharing neighbour was not called as a witness, and that his letter[8] (written to collaborate Mrs. Wadley's evidence of her work in respect of the Hayfield) did not specifically state that she used the equipment. I do not consider these to be determinative factors. First of all, this was an Informal Procedure appeal and Mrs. Wadley was self-represented. In these circumstances, the standards of evidence and procedure are less rigourous than under a General Procedure hearing. Certainly, as counsel for the Respondent submitted, it would have been better if the author of Exhibit A-2 had been called to give his evidence. If nothing else, he could have clarified for the Court whether his use of the passive voice in parts of his letter was a deliberate act meant to avoid saying Mrs. Wadley did not use the equipment herself, or - just the way he writes. With or without the letter, however, I am satisfied that, to some extent, she was personally involved and her own equipment was used in the hay production and harvest. She kept some bales for her horses and sold some through her neighbour for profit. I read nothing into the fact that her neighbour did not charge her a separate "commission" for this service. I am able to infer from the evidence presented that this fee was included in his share of the crop.
+"The Carriage Project"
+[17] The third aspect of Mrs. Wadley's activities on her property was the restoration of antique harness and carriages and the provision of lessons in carriage driving (the "Carriage Project"). Counsel for the Respondent submitted with some vigour that this activity had a "strong personal and hobby element"[9] that disqualified it from being commercial in nature. Counsel argued further that, in any event, the restoration of antique harness and horse-drawn vehicles is not a "farming activity".
+[18] In my view, the evidence does not support the conclusions urged by the Respondent. There is no doubt that Mrs. Wadley, a lifelong horsewoman, took personal pleasure and pride in the restoration of the carriages, cutters and harness and the passing on of the skills needed to drive such vehicles. That fact, however, does not diminish the potential of such an activity to become, ultimately, a profitable venture.
+[19] In 2001 and 2002, conditions for hay and cattle production were less than ideal. It was about that time that Mrs. Wadley turned her attention to her idea of carriage restoration and driving instruction. At that point, the plan was in its infancy. What Mrs. Wadley had in mind was to rescue such heritage vehicles and harness from their abandonment in rural Alberta, restore them to their former glory and sell them or use them in the teaching carriage driving. Given her experience and the raw materials at hand, this was a reasonable plan: she already had most of the necessary equipment and facilities including, a truck and a flat-deck for hauling her acquisitions, outbuildings for their storage and for performing the restoration work on them and lots of tools. She had a schedule flexible enough to permit her to attend sales and auctions around the province. She had horses and harness to pull the restored vehicles she planned to use in her driving lessons. She had contacts through her long association with the Alberta Trail Riders' Association; indeed, that was where she met her first pupil, Shirley McFall, who testified at the hearing. Ms. McFall described how conducive the space and tranquility of Mrs. Wadley's farm was to learning driving skills. Since 1995, Mrs. Wadley had been a member of the Alberta Carriage Driving Association. She attended various fairs and carriage driving competitions where she could gain exposure to her target market and promote her product. Although she did not have a web site or an official advertising campaign, in the context of the nature of the business endeavour, its stage of development and the location where it was to be carried on, relying on these events was not unreasonable. With her long experience as a farmer and in particular, with horses, Mrs. Wadley was well qualified to conduct this aspect of her farming business. She was a novice, however, as to how best to go about establishing this new component in her existing farm business. This explains her lack of a formal business plan, and her confusion as to what was wanted when taken to task for this short-coming by the auditors, the appeals officer and finally, counsel for the Respondent. It also puts in perspective her shyness in charging adequately for her work, something she will have to get over in the future if her business is to succeed.
+[20] In finding that, despite these weaknesses, Mrs. Wadley's plan had the capacity to generate income, I am guided by the cautionary words of Bowman, J.T.C.C. (as he then was) in Nichol v. The Queen[10], cited with approval at paragraph 45 of the Stewart decision:
+[The taxpayer] made what might, in retrospect, be seen as an error in judgment but it was a matter of business judgment and it was not one so patently unreasonable as to entitle this Court or the Minister of National Revenue to substitute its or his judgment for it, or penalize him for having made a judgment call that, with the benefit of 20-20 hindsight, that Monday morning quarterbacks always have, I or the Minister of National Revenue might not make today....
+[21] In support of the Minister's position, counsel for the Respondent referred the Court to Partridge v. Canada[11], a decision of Rip, J. heard under the Informal Procedure and upheld on appeal to the Federal Court of Appeal. On my reading of Justice Rip's Reasons for Judgment, that case is readily distinguishable from the present facts. The Appellant, Mr. Partridge, first purchased a farm after a 30-year career in the military in 1979. By the time he was assessed in 1997, he had had three different rural properties in Quebec and Ontario. He sought to include the cost of home renovations as a farm business expense on the basis that "a farmhouse is an integral asset of a farm business"[12]. Most damning, he admitted that "... he operated the farm not to make a profit but to contribute to the community. The farms, he said, were to provide him with a "livelihood", a "living not a profit", permitting him to consume the products he grew."[13] On this evidence, Rip J. concluded Mr. Partridge was not actively engaged in the farming business.
+[22] Mrs. Wadley, on the other hand, had farmed in the same area in Alberta all her life. Although she lived on different farms throughout these years, her relocations had to do with the natural progression of life: her childhood on her father's farm, her marriage to a farmer, her husband's death in 1975, her having grown older and needing to reduce her holdings in 1992. At all times, Mrs. Wadley saw herself as a farmer engaged in the farming business. In every year since 1975, she filed an income tax return as such. While she sustained losses in the 12-year period[14] reviewed by the Minister[15], that hardly distinguishes her from many across this country who struggle to earn a living on the land. It is true that, at her present age, Mrs. Wadley is now in receipt of certain pensions and investment income but I am unable to see how that, in itself, minimizes her status as a farmer. Indeed, to do so is to penalize her for the years spent contributing to such schemes over the span of her career in agriculture.
+Conclusion
+[23] Mrs. Wadley was not some urban professional seeking to off-set office expenses by dabbling in thoroughbreds on the weekend. She was an experienced farmer with farm land and all that goes with it. In 2001 and 2002, at a time when hay and cattle were not big earners in Alberta, she did her best to exploit her farm's income-producing capacity by diverting some of her time and money to the carriage project. I am satisfied that in 2001 and 2002 Mrs. Wadley was engaged in the business of farming on the property and accordingly, her income was from the farming business. The expenses she incurred in respect of the Pasture, the Hayfield and the Carriage Driving were properly deductible under subsection 9(1) of the Income Tax Act and she was entitled to claim ITC's under subsection 169(1) of the Excise Tax Act in respect of supplies made to those activities. The one exception is a deduction for $120 related to an insurance claim which Mrs. Wadley admitted she had inadvertently included in her return; this amount is, therefore, not deductible.
+[24] The appeals are allowed and the reassessment under the Income Tax Act and the assessment under the Excise Tax Act are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Welland, Ontario, this 1st day of August 2006.
+"G. Sheridan"
+Sheridan J.
+CITATION: 2006TCC440
+COURT FILE NO.: 2005-3392(IT)I
+2005-3394(GST)I
+STYLE OF CAUSE: ARLENE WADLEY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: April 26, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Georgette Sheridan
+DATE OF JUDGMENT: August 1st, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Darcie Charlton
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Described in greater detail below.
+[2] [2002] 2 S.C.R. 645
+[3] Supra, at paragraph 50.
+[4] A four-wheel-drive riding tractor.
+[5] Transcript p. 34, lines 25-26.
+[6] Transcript p. 34, lines 19-25
+[7] Reply to the Notice of Appeal, paragraph 8(m).
+[8] Exhibit A-2.
+[9] Transcript p. 590201 Saskatchewan Ltd., lines 8-9.
+[10] 93 DTC 1216 at p. 1219.
+[11] 2003 F.C.A. No. 296 (F.C.A.); [2001] T.C.J. No. 579 (T.C.C.)
+[12] Supra, at paragraph 9.
+[13] Supra, at paragraph 11.
+[14] From 1990 - 2002.
+[15] Reply to the Notice of Appeal, Schedule ""B".

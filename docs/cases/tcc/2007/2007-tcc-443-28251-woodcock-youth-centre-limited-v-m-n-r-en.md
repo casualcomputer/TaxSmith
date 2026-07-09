@@ -1,0 +1,193 @@
+---
+title: "Woodcock Youth Centre Limited v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28251/index.do"
+last_modified: "2007-09-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 443"
+citation2: ""
+neutral_citation: "2007 TCC 443"
+decision_date: "2007-09-04"
+language: "en"
+item_id: "28251"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2032
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:47:02.519000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5ffc256ffdb4bd3c39c995567a544a481e67f3a513b3b4f3205cf6a496cf56c6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Woodcock Youth Centre Limited v. M.N.R.
+
+- Citation: 2007 TCC 443
+- Decision date: 2007-09-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2032, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Woodcock Youth Centre Limited v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-04
+Neutral citation
+2007 TCC 443
+File numbers
+2006-2450(EI)
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2006-2450(EI)
+BETWEEN:
+WOODCOCK YOUTH CENTRE LIMITED,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Woodcock Youth Centre Limited (2006-2680(CPP)) on
+March 28, 2007, at Kingston, Ontario
+Before: The Honourable Justice G.A. Sheridan
+Appearances:
+Counsel for the Appellant:
+Paul Burgess
+Counsel for the Respondent:
+Pascal Tétrault
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal is allowed, without costs, and the decision of the Minister of National Revenue is vacated on the basis that Ms. McCoy was not engaged in pensionable or insurable employment for the period September 5, 2004 to June 16, 2005.
+Signed at Ottawa, Canada, this 2nd day of August 2007.
+“G.A. Sheridan”
+Sheridan J.
+Docket: 2006-2680(CPP)
+BETWEEN:
+WOODCOCK YOUTH CENTRE LIMITED,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Woodcock Youth Centre Limited (2006-2450(EI)) on
+March 28, 2007, at Kingston, Ontario
+Before: The Honourable Justice G.A. Sheridan
+Appearances:
+Counsel for the Appellant:
+Paul Burgess
+Counsel for the Respondent:
+Pascal Tétrault
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal is allowed, without costs, and the decision of the Minister of National Revenue is vacated on the basis that Ms. McCoy was not engaged in insurable employment for the period September 5, 2004 to June 16, 2005.
+Signed at Ottawa, Canada, this 2nd day of August 2007.
+“G.A. Sheridan”
+Sheridan J.
+Citation: 2007TCC443
+Date: 20070802
+Dockets: 2006-2450(EI)
+2006-2680(CPP)
+BETWEEN:
+WOODCOCK YOUTH CENTRE LIMITED,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Woodcock Youth Centre Limited, is appealing the decision of the Minister of National Revenue that during the period September 5, 2004 to June 16, 2005, the worker, Leslie McCoy, was working as an employee, rather than an independent contractor.
+[2] The Minister’s assessment was based on the assumptions of fact set out in paragraph 11 of the Reply to the Notice of Appeal:
+(a) the Appellant operates a group home for boys funded by the Children's Aid Society;
+(b) the Appellant's sole shareholder is Aliza Woodcock;
+(c) there are two separate facilities, one known as Woodcock Youth Centre and the other as Cedar Haven Youth Centre;
+(d) the Appellant engages the services on individuals known as "Group parents" or "House parents" to provide 24 hour coverage at each facility;
+(e) in addition to the "House parents", the Appellant also utilizes the services of a company known as "Connor Homes" to assist in the operation of their group homes;
+(f) the Worker was hired as "Relief Worker", under a verbal agreement till February 2005 at which time a written agreement was signed;
+(g) the Worker was hired to personally complete duties as a supplement to those performed by the "House parents";
+(h) the Worker performed her duties at different locations;
+(i) the Worker was paid at the rate of $10.00 per hour;
+(j) the Worker was paid by cheque to her personal name, on a monthly basis;
+(k) the Worker's rate of pay was determined by the Appellant's shareholder;
+(l) the Worker worked variable hours between 6:00 am to 11:00 pm as scheduled by the Appellant;
+(m) the Worker's hours of work were recorded on timesheets;
+(n) the timesheets had to be approved by the "House parents" before submitting them to the Appellant's shareholder;
+(o) the Worker was provided with training by Connor Homes;
+(p) the Worker was supervised by the "House parents" on duty at that time;
+(q) the Worker was required to contact the Appellant if she required time off, was ill or requested a change in her scheduled shift;
+(r) the Worker was reimbursed by the Appellant, a mileage rate when using her personal vehicle to drive residents to different locations;
+(s) the Worker was required to comply with the policies and procedures as established by the Appellant;
+(t) the Worker had no investment into the Appellant's business;
+(u) the Worker had to provide her services personally;
+(v) the Worker was performing services exclusively for the Appellant;
+(w) the Appellant had the right to terminate the Worker's services.
+[3] The Appellant disputes many of the above assumptions as being either inaccurate or incomplete. According to the Appellant, when all the facts are taken into account, the evidence supports the finding that Ms. McCoy was working as an independent contractor. I am satisfied that this is indeed the case.
+[4] The four-fold test for the determination of whether a worker is an employee or an independent contractor was developed in Wiebe Door Services Ltd. v. The Minister of National Revenue[1] and applied by the Supreme Court of Canada in 671121 Ontario Ltd. v. Sagaz Industries Canada Inc.[2]:
+[47] Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+[48] It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[5] In addition to the consideration of control, ownership of tools, chance of profit and risk of loss and the degree of integration, the Court may also take into account the intentions of the parties[3].
+[6] The jurisprudence of the common law is clear that no one factor has precedence; rather, they are intended to provide a framework for analysis of the particular facts of each case. I am not persuaded by the Respondent’s submission that the outcome in these appeals ought to be the same as the decisions reached in a series of appeals involving other Ontario youth residential facilities[4]. While the circumstances in those cases are similar to the present case, each payor-worker relationship has its own particular factual context, a principle recognized by the judges in their decisions. In each case, the Court specifically cited to the caution in Sagaz that “[t]he relative weight of each [of the factors] will depend on the particular facts and circumstances of the case”. While after a thorough review of the evidence in respect of each worker’s situation, in most (but not all) cases, the Court held that the workers were employees. The evidence before me, however, does not support the same conclusion.
+[7] Mr. Woodcock testified on behalf of the Appellant. During the relevant period, he was looking after regular operations and maintenance at the two facilities; Aliza Woodcock, the sole shareholder of the Appellant, was responsible for the financial aspects of the business. They both provided emergency backup to the workers at the residential homes if they encountered problems dealing with the youth in the residence.
+[8] It was Mr. Woodcock who met with Ms. McCoy after she submitted her resume for a Relief Worker position. I accept his evidence that he explained among other things the nature of the work, the requirements imposed on such youth residences by the Ontario government and the amount the Appellant was prepared to pay to its workers. I am satisfied that Ms. McCoy understood the terms offered and that they reached an oral agreement that she would provide her services as a Relief Worker as a self-employed independent contractor on the terms discussed. A few weeks later, she signed an agreement to this effect[5]. On cross-examination Ms. McCoy admitted this had been her understanding; indeed, she had filed her income tax returns for the period as a self-employed person. She had had past experience working both as an employee and as a self-employed person and understood the difference between the two. During the period in question, she was also working as a self-employed consultant on a local festival project.
+[9] Ms. McCoy was free to accept or reject shifts at the residences. She admitted there were no negative repercussions if she turned down work. The fact that she had to inform Mr. Woodcock of her intentions in any particular week had to do with scheduling practicalities and as such, is not indicative of the Appellant’s control over her. Her evidence was consistent with Mr. Woodcock’s that during the period, she apportioned her time among the Appellant’s facilities, the festival project, providing childcare for her daughter and personal time. While, as it happened, she worked “exclusively”[6] for the Appellant during this time, she could have worked for other youth residences had she chosen to do so.
+[10] The Respondent took the position that because Ms. McCoy had to comply with the Appellant’s policy and procedures manual, she was under the Appellant’s control. I do not accept this interpretation of the facts. The training required and the practices set out in the manual echoed the statutory obligations imposed on those responsible for the children placed in care by the Government of Ontario. Thus, to the extent each was involved with the children’s care, Mr. Woodcock, the House Parents and the Relief Workers were all equally obliged to comply with these externally imposed requirements. The same was true for the limitations on Ms. McCoy’s ability to ask others to perform her work for her: she was free to do so as long as the replacement worker had the Ministry-required qualifications for such work (just as a lawyer can assign a file to another provincially licenced member of the bar, but would not be entitled to assign it to a lay person). The reality is, however, that there is little financial incentive for the hiring of a replacement worker (as that concept is typically understood) for work that is remunerated at the rate of $10 per hour.
+[11] The children in the residences suffered from a range of behavioural, psychological and other problems and required close supervision and attention. Ms. McCoy’s duties included helping with meal preparation, hygiene, schoolwork, activities and chores in the residence. She was not assigned a particular child or task. Her role was to assess the situation at hand and do what, in her estimation, was needed. She was expected to make decisions on her own, with backup available in emergency situations. Her duties also included completing the various reports required by the provincial ministry. In these circumstances, I am unable to conclude that Ms. McCoy was under the Appellant’s control in the way an employee normally would be.
+[12] The Respondent also argued that because Ms. McCoy was required to complete timesheets showing her hours worked and to have them “approved”[7] by the House Parent, she was under the Appellant’s control. In my view, the timesheets were the equivalent of an invoice. Again, regard must be had to the reality of the situation. The Appellant produced blank standard form time sheets; the Relief Workers completed them during their shifts at the residences, with the on-site House Parent verifying their accuracy. In this way, there was an efficient, inexpensive and reliable process for the Appellant’s payment of Ms. McCoy’s services. The Appellant also reimbursed Ms. McCoy for mileage if she had used her own car to take the children on excursions in the community.
+[13] The Respondent submitted that because Ms. McCoy had no investment in the Appellant’s business, she was an employee. This one factor, however, is not sufficient to tip the scales away from a finding that Ms. McCoy was an independent contractor.
+[14] The question “whose business was it?” must be answered from the perspective of the worker[8]. In answering this query, the reality of today’s precarious workplace demands that such considerations be taken into account:
+120 In our day and age, when a worker decides to keep his freedom to come in and out of a contract almost at will, when the hiring person wants to have no liability towards a worker other than the price of work and when the terms of the contract and its performance reflect those intentions, the contract should generally be characterised as a contract for services. If specific factors have to be identified, I would name lack of job security, disregard for employee-type benefits, freedom of choice and mobility concerns.[9]
+[15] In my view, the tests in the case law are deliberately meant to be flexible to accommodate the ever-changing nature of the workplace and the specific facts of each payor-worker relationship. Which factors are applicable and what weight must be given to each will depend on the context at hand.
+[16] Taken as a whole, the evidence satisfies me that Ms. McCoy was providing her services as a Relief Worker during the relevant period as a self-employed independent contractor. Accordingly, the appeal is allowed, without costs, and the decision of the Minister of National Revenue is vacated on the basis that Ms. McCoy was not engaged in pensionable or insurable employment for the period September 5, 2004 to June 16, 2005.
+Signed at Ottawa, Canada, this 2nd day of August, 2007.
+“G.A. Sheridan”
+Sheridan J.
+CITATION: 2007TCC443
+COURT FILE NOS.: 2006-2450(EI) –and- 2006-2680(CPP)
+STYLE OF CAUSE: WOODCOCK YOUTH CENTRE LIMITED AND THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Kingston, Ontario
+DATE OF HEARING: March 28, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice G.A. Sheridan
+DATE OF JUDGMENT: August 2, 2007
+APPEARANCES:
+Agent for the Appellant:
+Paul Burgess
+Counsel for the Respondent:
+Pascal Tétrault
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 87 DTC 5025.
+[2] [2001] 2 S.C.R. 983.
+[3] Lawrence Wolf v. Her Majesty the Queen, 2002 FCA 96, 2002 DTC 6853; The Royal Winnipeg Ballet v. The Minister of National Revenue, [2006] F.C.J. No. 339.
+[4] 1392644 Ontario Inc. (c.o.b. Connor Homes) v. Canada, [2003] T.C.J. No. 670 (McArthur J.); 1392644 Ontario Inc. (c.o.b. Windswept on the Trent) v. Canada; [2004] T.C.J. No. 214 (Paris J.); 1392644 Ontario Inc. (c.o.b. Connor Homes) v. Canada, [2006] T.C.J. No. 416 (O’Connor J).
+[5] Exhibit A-1.
+[6] Paragraph 11(v) of the Reply to the Notice of Appeal.
+[7] Paragraphs 11(m) and (n) of the Reply to the Notice of Appeal.
+[8] Lawrence Wolf v. Her Majesty the Queen, supra, at paragraph 93.
+[9] Wolf, supra, at paragraph 120.

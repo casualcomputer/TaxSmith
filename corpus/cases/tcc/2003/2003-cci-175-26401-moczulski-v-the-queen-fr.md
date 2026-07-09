@@ -1,0 +1,178 @@
+---
+title: "Moczulski v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26401/index.do"
+last_modified: "2003-03-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 175"
+citation2: ""
+neutral_citation: "2003 CCI 175"
+decision_date: "2003-03-26"
+language: "fr"
+item_id: "26401"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3348
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:24:19.130000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "95e8baecbb87f2d07d7a36207de1ef6820a1d74545129fadbb349d511d405ae0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Moczulski v. The Queen
+
+- Citation: 2003 CCI 175
+- Decision date: 2003-03-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3348, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moczulski v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-26
+Référence neutre
+2003 CCI 175
+Numéro de dossier
+2002-3727(IT)I
+Juges et Officiers taxateurs
+Ronald D. Bell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Date: 20030326
+Dossier: 2002-3727(IT)I
+ENTRE :
+JOSEPH M. MOCZULSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appels entendus sur preuve commune avec l'appel de Lorraine V. Vallee-Moczulski (2002-3726(IT)I) le 15 janvier 2003, à London (Ontario)
+Devant : l'honorable juge R. D. Bell
+Comparutions :
+Représentante de l'appelant :
+Lorraine V. Vallee-Moczulski
+Avocate de l'intimée :
+Me Jennifer Neill
+_______________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu ( « Loi » ) pour les années d'imposition 1998, 1999 et 2000 sont admis et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 26e jour de mars 2003.
+« R. D. Bell »
+J.C.C.I.
+Traduction certifiée conforme
+ce 15e jour de décembre 2004.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Date: 20030326
+Dossier: 2002-3726(IT)I
+ENTRE :
+LORRAINE V. VALLEE MOCZULSKI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appels entendus sur preuve commune avec l'appel de Joseph M. Moczulski
+(2002-3727(IT)I) le 15 janvier 2003, à London (Ontario)
+Devant : l'honorable juge R. D. Bell
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Avocate de l'intimée :
+Me Jennifer Neill
+_______________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu ( « Loi » ) pour les années d'imposition 1998, 1999 et 2000 sont admis et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 26e jour de mars 2003.
+« R. D. Bell »
+J.C.C.I.
+Traduction certifiée conforme
+ce 15e jour de décembre 2004.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI175
+Date: 20030326
+Dossier: 2002-3726(IT)I
+ENTRE :
+LORRAINE V. VALLEE-MOCZULSKI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE :
+2002-3727(IT)I
+JOSEPH M. MOCZULSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bell, C.C.I.
+QUESTION EN LITIGE
+[1] Il s'agit de déterminer si la déduction des pertes d'entreprise des appelants pour les années d'imposition 1998, 1999 et 2000 a été limitée à juste titre sur le fondement du paragraphe 18(12) de la Loi de l'impôt sur le revenu ( « Loi » ).
+FAITS
+[2] En 1994, les appelants, Joseph Moczulski ( « Joseph » ) et Lorraine V. Vallee-Moczulski ( « Lorraine » ) ont acheté un immeuble à trois étages de 10 700 pieds carrés qui servait auparavant de maison de retraite et de soins infirmiers. Au moment de l'achat, l'immeuble était considéré comme un bien commercial, ce qui obligeait les appelants à s'inscrire aux fins de la taxe sur les produits et les services en vertu de la Loi sur la taxe d'accise.
+[3] Lorraine, qui représentait les deux appelants, a témoigné relativement à l'emplacement de l'immeuble, à sa taille et aux installations accessibles aux personnes handicapées. Elle a déclaré au cours de son témoignage que l'immeuble avait été rénové et servait de gîte touristique de même qu'il servait pour les retraites, les réunions, les cérémonies de mariage, les séances de travail et les séminaires.
+[4] Elle a précisé que les chambres d'hôtes se trouvaient au deuxième étage, entièrement séparées du niveau principal. Cet étage-là comprenait la salle à déjeuner, le petit salon commun et le bureau d'affaires ainsi qu'un bureau réservé à l'usage personnel des appelants. Il comprenait également une salle à manger et de réunion réservée pour d'autres fins. Elle a décrit la suite de deux chambres et une salle de bain de l'étage principal que les appelants occupaient. Ils pouvaient accéder à cette suite de chambres de l'entrée principale et du hall principal. Les chambres décrites dans un document déposé en preuve par Lorraine étaient une chambre à coucher qui n'avait pas d'entrée du hall principal, un vestiaire-petit salon qui avait une porte donnant sur le hall principal et une salle de rangement qui avait également une porte donnant sur le hall principal. Une porte de secours située dans le mur extérieur de ces trois pièces donnait sur le vestiaire et un très petit hall où une porte constituait l'unique entrée à la salle de bain. Il y avait un escalier qui commençait au bout du petit hall et menait au deuxième étage. La porte située en haut de cet escalier demeurait fermée. La salle de bain semble faire partie de la salle de rangement, étant séparé du reste de cette salle par un mur. Cette suite ne comprenait ni cuisine ni buanderie. Les appelants utilisaient la cuisine où on préparait les repas pour les hôtes. Ils utilisaient la buanderie pour leur linge et les draps des hôtes. Les hôtes n'avaient le droit d'utiliser ni la cuisine ni la buanderie.
+[5] Lorraine a déclaré que les membres de sa famille assistaient à un dîner familial lors d'un festival annuel. Elle a précisé qu'ils ne passaient pas la nuit car ils savaient bien que l'immeuble était commercial.
+[6] Lorraine a également déclaré au cours de son témoignage que la superficie personnelle totale d'environ 934 pieds carrés, bien qu'elle représente moins de 10 % de la superficie totale en pieds carrés de l'immeuble, était conjuguée avec leur utilisation partagée de la cuisine, de la buanderie et des espaces de rangement, ce qui permettait donc aux appelants de considérer 30 % de l'immeuble comme étant réservés à leur usage personnel.
+[7] Lorraine a également soutenu qu'aucun agent du ministère du Revenu n'a examiné les lieux.
+[8] L'avocate de l'intimée a fait observer que, lorsque le ministre du Revenu national ( « ministre » ) a établi de nouvelles cotisations à l'égard des appelants, il a présumé, aux fins de l'application du paragraphe 18(12), que la propriété entière était un « établissement domestique autonome » au sens du paragraphe 248(1) de la Loi. Il a également présumé que les deux chambres et la salle de bain utilisées par les appelants constituaient leur logement personnel.
+OBSERVATIONS DE L'INTIMÉE
+[9] L'avocate de l'intimée a fait observer que l'immeuble entier était un « établissement autonome » selon la cotisation établie par le ministre et qu'en vertu du paragraphe 18(12) de la Loi, les appelants n'avaient droit à aucune déduction de montants par ailleurs déductibles pour l' « espace de travail » situé dans l' « établissement domestique autonome » où les appelants résidaient, sauf dans la mesure où l' « espace de travail » constituait leur lieu d'affaires principal. Après avoir dit cela, l'avocate a également fait observer qu'aux termes de l'alinéa 18(12)b), le montant déductible pour l' « espace de travail » , que les appelants peuvent déduire du revenu d'entreprise, ne pouvait pas dépasser le revenu d'entreprise annuel.[1]
+[10] L'avocate de l'intimée a fait observer qu'il n'y avait pas d'entrée séparée dans le logement des appelants à part la sortie de secours, qu'ils devaient entrer par la porte principale de la maison, qu'ils accédaient à leur logement du hall principal, qu'ils utilisaient la cuisine et la buanderie de l'entreprise situées au sous-sol, que leur bureau personnel n'était pas annexé à la suite, que l'exploitation du gîte touristique était en fait saisonnière et que les appelants ne résidaient pas uniquement dans l'appartement. L'avocate a également cité un certain nombre de décisions portant sur l'exploitation de gîtes touristiques.[2]
+OBSERVATIONS DES APPELANTS
+[11] En effet, les appelants ont fait observer qu'ils avaient acheté un immeuble commercial dans le but d'exploiter une entreprise, qu'ils vivaient là pour des raisons de commodité et que ce serait un gaspillage d'argent que d'installer une autre cuisine et une autre buanderie pour leur usage personnel.
+ANALYSE ET CONCLUSION
+[12] Le paragraphe 18(12) se lit comme suit :
+(12) Travail à domicile - Malgré les autres dispositions de la présente loi, dans le calcul du revenu d'un particulier tiré d'une entreprise pour une année d'imposition :
+a) un montant n'est déductible pour la partie d'un établissement domestique autonome où le particulier réside que si cette partie d'établissement :
+(i) soit est son principal lieu d'affaires,
+(ii) soit lui sert exclusivement à tirer un revenu d'une entreprise et à rencontrer des clients ou des patients sur une base régulière et continue dans le cadre de l'entreprise;
+b) si une partie de l'établissement domestique autonome où le particulier réside est son principal lieu d'affaires ou lui sert exclusivement à tirer un revenu d'une entreprise et à rencontrer des clients ou des patients sur une base régulière et continue dans le cadre de l'entreprise, le montant déductible pour cette partie d'établissement ne peut dépasser le revenu du particulier tiré de cette entreprise pour l'année, calculé compte non tenu de ce montant et des articles 34.1 et 34.2;
+c) tout montant qui, par le seul effet de l'alinéa b), n'est pas déductible pour une partie d'établissement domestique autonome dans le calcul du revenu d'entreprise du particulier pour l'année d'imposition précédente est déductible dans le calcul du revenu d'entreprise du particulier pour l'année, sous réserve des alinéas a) et b).
+[13] L'expression « établissement domestique autonome » est définie au paragraphe 248(1) comme suit :
+Habitation, appartement ou autre logement de ce genre dans lequel, en règle générale, une personne prend ses repas et couche.
+[14] En examinant l'expression « établissement domestique autonome » , il faut déterminer si l'immeuble entier, qui a été acheté principalement aux fins d'une exploitation commerciale, tomberait dans l'une des trois catégories suivantes, en l'occurrence :
+a) habitation,
+b) appartement,
+ou
+c) autre logement de ce genre
+dans lequel, en règle générale, une personne prend ses repas et couche.
+[15] L'appartement des appelants est, selon moi, un établissement domestique autonome. Le fait qu'ils utilisaient la cuisine pour préparer les plats des hôtes et la buanderie pour laver les draps de ces derniers n'empêche pas cet appartement d'être un « établissement domestique autonome » . Cette définition inclut un appartement ou tout autre logement de ce genre. En règle générale, les appelants couchent dans cet appartement. Rien ne permettait de conclure qu'ils y prenaient leur repas. Toutefois, la définition n'exclut pas un appartement ou un autre logement de ce genre où les occupants ne mangent pas. La définition comporte le qualificatif « en règle générale » .
+[16] Il faut bien retenir l'objectif de cette disposition. Le ministère des Finances a indiqué ce qui suit dans des notes explicatives portant sur les lignes directrices législatives qui se rapportent à un espace utilisé comme bureau ou à tout autre espace de travail situé dans la résidence du contribuable :
+Le nouveau paragraphe 18(12) de la Loi limite la déduction des dépenses engagées par un particulier au titre d'un bureau à domicile. Aucune déduction n'est permise au titre d'un « local professionnel » faisant partie d'un établissement domestique autonome où le particulier réside si certaines conditions ne sont pas réunies. Il faut que le local en question soit le principal lieu d'affaires du particulier ou qu'il lui serve exclusivement pour gagner un revenu d'une entreprise et pour rencontrer des clients ou des patients de façon régulière et continue. Si ces conditions sont réunies, le particulier peut déduire les sommes autrement admissibles, mais uniquement à concurrence du revenu qu'il tire de son entreprise pendant l'année. Dans la mesure où cette dernière condition limite la déduction d'une partie des frais d'un espace de travail pour une année donnée, ces dépenses sont considérées comme des frais d'espace de travail pour l'année suivante, permettant ainsi de reporter indéfiniment les dépenses de ce genre. Cette modification s'applique aux exercices commençant après 1987.
+Notons que la note explicative ci-dessus met l'accent sur un « espace de travail » situé dans un établissement domestique ordinaire. Cela comprend normalement la réservation et l'équipement d'une pièce ou de tout autre espace à des fins commerciales. Les circonstances du présent appel ne tombent pas dans cette catégorie.
+[17] Dans ce cas précis, les appelants ont acheté un immeuble commercial et ont commencé à l'exploiter aux fins des objectifs mentionnés. L'utilisation de l'entrée principale de l'immeuble et du hall principal qui mène au logement des appelants ne minimise pas la qualification de ce dernier comme un établissement domestique autonome. Quant à l'utilisation de la buanderie au même titre que l'entreprise, ces installations sont souvent partagées dans les immeubles d'habitation ordinaires. Il y a beaucoup de gens qui habitent des appartements ou des maisons mais n'y mangent pas parce qu'ils ne s'intéressent guère aux emplettes, à la cuisine, au lavage de la vaisselle ou au nettoyage des lieux après une telle utilisation. On ne peut certainement pas dire qu'ils ne vivent pas dans un établissement domestique autonome.
+[18] Par conséquent, les frais que les appelants ont déduits pour les années en question ne doivent pas être limités en vertu du paragraphe 18(12) de la Loi. L'appel est admis.
+Signé à Ottawa, Canada, ce 26e jour de mars 2003.
+« R. D. Bell »
+J.C.C.I.
+Traduction certifiée conforme
+ce 15e jour de décembre 2004.
+Sophie Debbané, réviseure
+[1] Apparemment, il y a une possibilité de report pour une durée indéterminée des dépenses déductibles de tout revenu d'entreprise éventuel.
+[2] Broderick c. Canada, [2001] A.C.I. no 286; Maitland c. Canada, [2000] A.C.I. no 423; Rudiak c. Canada, C.C.I., no 2001-3489(IT)I, le 7 juin 2002 et Sudbrack c. Canada, [2000] A.C.I. no 625.

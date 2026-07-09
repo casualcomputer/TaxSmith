@@ -1,0 +1,226 @@
+---
+title: "Sangha v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31109/index.do"
+last_modified: "2013-02-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 69"
+citation2: ""
+neutral_citation: "2013 TCC 69"
+decision_date: "2013-02-26"
+language: "en"
+item_id: "31109"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4728
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:15:58.301000+00:00"
+cases_cited_count: 1
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d2b785d766bebbe2ea6029898a7522890769ca7f6493cca28adfcfe189b7ad9c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sangha v. The Queen
+
+- Citation: 2013 TCC 69
+- Decision date: 2013-02-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4728, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sangha v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-02-26
+Neutral citation
+2013 TCC 69
+File numbers
+2011-2930(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-2930(IT)G,
+2011-2929(GST)G,
+BETWEEN:
+PURDEEP SANGHA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2011-2932(IT)G and
+2011-2931(GST)G
+and
+AMANJOTE SEKHON
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+____________________________________________________________________
+Appeals heard on February 15, 2013, at Hamilton, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Nicholas F. Ferguson
+Counsel for the Respondent:
+Jill Chisholm
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2006 taxation year are dismissed.
+The appeals from the reassessments made under the Excise Tax Act for the reporting periods between January 1, 2006 and March 1 2006, by reassessments dated June 16, 2011 are dismissed.
+Costs awarded to the Respondent.
+Signed at Ottawa, Canada, this 26th day of February 2013.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2013 TCC 69
+Date: 20130226
+Docket: 2011-2930(IT)G,
+2011-2929(GST)G,
+BETWEEN:
+PURDEEP SANGHA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2011-2932(IT)G and
+2011-2931(GST)G
+and
+AMANJOTE SEKHON
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] Mr. Sangha and Mr. Sekhon described themselves as such good friends they considered themselves brothers. As young men they ventured into the world of commerce by taking advantage of a hot Vancouver real estate market, acquiring a vacant lot in 2005 with the intent to resell it at a profit in the near future. They did not do that, but instead built a house, claimed to have lived in it for a brief period and sold the lot and the house in early 2006. The Minister of National Revenue (the "Minister") assessed Messrs. Sangha and Sekhon under the Income Tax Act (the "Act") on the ensuing gain as business income from an adventure in the nature of trade. The Appellants maintain it was a capital gain exempt from tax due to the application of the principal residence rules. The Minister also assessed Messrs. Sangha and Sekhon as a partnership under the Excise Tax Act (the "ETA") for Goods and Services Tax ("GST") collectible of $35,474 with allowable Input Tax Credits of $27,302, with a net tax owing of $8,172, on the basis the Appellants were builders and did not use the house principally as a place of residence.
+[2] What is required is a detailed examination of the circumstances surrounding the acquisition of the vacant lot and the occupancy and ultimate disposition of the lot and the house to determine who is right.
+Facts
+[3] The Appellants were in their mid-20s in 2005. Mr. Sangha worked with Van City Credit Union. Mr. Sekhon worked as a corrections officer. Over beers, as Mr. Sangha put it, the two decided to take advantage of a rising Vancouver real estate market, and consequently drove around Surrey looking for a vacant lot they could flip within a few months. That appears to be the extent of their preparation.
+[4] They found a vacant lot for sale on 65th Avenue in Surrey in a new development and bought it with $10,000 down ($5,000 each) and a mortgage of approximately $190,000. The deal was set to close in January 2005 but was delayed until March 15, 2005. An addendum to the contract of purchase and sale stipulated:
+The buyer is/are agree that after completion of this lot purchaser start construction the buyer will market the home with Kulwant Bassi and Sutton Group Medallion Reality. The home shall be listed on the MLS at a mutually agree price for period of not less than six month from the date of listing.
+[5] Before closing the Appellants had an appraisal done for the property if it were to have a house on it. That appraisal came in at $487,000. They also had an architect provide plans for a house, which Mr. Sangha indicated they modified when they decided they would live in the home, primarily by providing for larger rooms. They also obtained a building permit at this time, a step Mr. Sangha suggested was necessary to assist in the sale of the vacant lot. They contacted a builder, a connection through Mr. Sekhon’s family, to help with that permit application. The same builder ultimately constructed the house for them.
+[6] In February 2005, Mr. Sangha and Mr. Sekhon registered for Goods and Services Tax ("GST") purposes under the category of construction of houses.
+[7] The circumstances surrounding the decision to build the house to reside in are somewhat murky. Mr. Sangha suggested that one factor in backing away from selling a vacant lot was that winter was slow for selling vacant lots, though possession was not until mid-March (spring in Vancouver). Indeed, Mr. Sangha and Mr. Sekhon had already taken steps to start the building process. There was no evidence of steps taken to sell the lot. There is no bright line moment that the Appellants identified that they made a business decision to not sell the lot but build a house to reside in. It appears to have just happened.
+[8] The house was built over the summer of 2005. Both Mr. Sangha and Mr. Sekhon frequented the property during construction performing odd jobs and basically observing the progress. Mr. Sangha and his fiancée moved into the property at the end of September, although the Home Warranty Certificate of Possession listed October 10, 2005 as ready for occupancy. Mr. Sangha testified that he moved in a bed, a television, a barbeque, a computer and some clothes.
+[9] Mr. Sekhon and his wife moved in within a couple of weeks of Mr. Sangha. Mr. Sekhon testified that he brought a couch, a bedroom suite, a coffee table, a bar‑fridge, a microwave and some kitchen stuff. There was no regular fridge, no stove and no dishwasher.
+[10] Mr. Sekhon had a friend from work, Mr. Kalirai, also a Sikh, come to bless the house. Mr. Kalirai testified that when he did so he saw no furniture and simply an area rug in the living room.
+[11] On September 22, 2005, Mr. Sangha paid $222 for listing the house for sale on the website Usellahome.com. This would be just prior to when he suggests he in fact moved in. Mr. Sekhon explained that Usellahome.com provided a 360 degree online feature of the property, which their families in Kelowna could access to see the property. In September and October, Mr. Sangha also bought House for Sale signs, which he claimed were really for a neighbour whose property was around the corner. Mr. Sangha suggests that although the signs were put on his and Mr. Sekhon’s property they had an arrow pointing to the neighbour’s property.
+[12] Mr. Sangha’s and Mr. Sekhon’s property was listed on MLS on October 27, 2005, though Mr. Sekhon suggested they did not really want to sell but were helping a realtor friend who needed a listing. Mr. Sekhon suggested they were also simply testing the market.
+[13] Mr. Sangha and Mr. Sekhon both testified that shortly after moving in together with their respective significant others, things began to fall apart. Mr. Sekhon’s wife and Mr. Sangha’s fiancée were bickering to the point that Mr. Sekhon and Mr. Sangha were concerned it would impact on their friendship. The source of discord was that Mr. Sangha’s fiancée was evidently having an affair with Mr. Sekhon’s cousin. Mr. Sangha and his fiancée moved out in November followed shortly by Mr. Sekhon and his wife in early December.
+[14] Mr. Mernagh, the ultimate purchaser of the property from Mr. Sangha and Mr. Sekhon, first saw the property around November 19, 2005. He arranged to view it in late December, though made several visits to the property throughout November and December, walking around the outside and peering in the windows. He never saw any sign of activity and described the property as an empty new home. There was nothing in the home when he got inside. It was in new condition, with stickers still on windows, no appliances, no window coverings, no fences etc. He described the condition of the flooring as brand new, with no evidence of furniture ever having left any marks. He bought the house for $506,000 in February 2006. From the proceeds, a mortgage of $334,674 was paid out, as were miscellaneous expenses, leaving a balance due to Mr. Sangha and Mr. Sekhon of $152,097. Mr. Sangha suggested the mortgage was transferred over to a new property acquired by Mr. Sekhon. Mr. Sekhon, however, testified that he acquired no new property but moved in with his in-laws. Mr. Sangha, when he moved out, had returned to the basement suite that he was living in prior to acquiring the property.
+[15] The Minister assessed Mr. Sangha and Mr. Sekhon under the Act for having earned, after expenses, business income on the sale of the property of $46,864 each. The Minister also assessed Mr. Sangha and Mr. Sekhon under the ETA for net tax of $8,172 each from the supply of property.
+Issue
+[16] The Parties approached the income tax issue from different perspectives. The Respondent argued that the issue was, first, whether the gain on the disposition of the property was on income or capital account and, only if the latter, whether the principal residence rules come into play to exempt the gain. The Appellants’ counsel went directly to the principal residence issue arguing that was the only issue ‑ was the property the Appellants’ principal residence? I prefer the two-step approach of the Respondent.
+[17] With respect to GST, the Appellants position was simply if they won on the income tax matter, they would win on the GST matters and conversely if they lost on one, they would lose on the other. The Respondent’s position was that the issue was whether the Appellants were builders and could only be relieved of GST responsibility if they could prove they used the house primarily as a place of residence.
+Analysis – Income Tax Act
+[18] The case of Happy Valley Farms Ltd. v. Minister of National Revenue[1] is often cited for setting out the test for distinguishing income from a capital gain:
+14 Several tests, many of them similar to those pronounced by the Court in the Taylor case, have been used by the courts in determining whether a gain is of an income or capital nature. These include:
+1. The nature of the property sold. Although virtually any form of property may be acquired to be dealt in, those forms of property, such as manufactured articles, which are generally the subject of trading only are rarely the subject of investment. Property which does not yield to its owner an income or personal enjoyment simply by virtue of its ownership is more likely to have been acquired for the purpose of sale than property that does.
+2. The length of period of ownership. Generally, property meant to be dealt in is realized within a short time after acquisition. Nevertheless, there are many exceptions to this general rule.
+3. The frequency or number of other similar transactions by the taxpayer. If the same sort of property has been sold in succession over a period of years or there are several sales at about the same date, a presumption arises that there has been dealing in respect of the property.
+4. Work expended on or in connection with the property realized. If effort is put into bringing the property into a more marketable condition during the ownership of the taxpayer or if special efforts are made to find or attract purchasers (such as the opening of an office or advertising) there is some evidence of dealing in the property.
+5. The circumstances that were responsible for the sale of the property. There may exist some explanation, such as a sudden emergency or an opportunity calling for ready money, that will preclude a finding that the plan of dealing in the property was what caused the original purchase.
+6. Motive. The motive of the taxpayer is never irrelevant in any of these cases. The intention at the time of acquiring an asset as inferred from surrounding circumstances and direct evidence is one of the most important elements in determining whether a gain is of a capital or income nature.
+15 While all of the above factors have been considered by the courts, it is the last one, the question of motive or intention which has been most developed. That, in addition to consideration of the taxpayer's whole course of conduct while in possession of the asset, is what in the end generally influences the finding of the court.
+16 This test has been carried one step further by Canadian courts into what has generally been referred to as the “secondary intention” test. This has meant, in some cases, that even where it could be established that a taxpayer's main intention was investment, a gain on the sale of the asset would be held taxable as income if the court believed that, at the time of acquisition, the taxpayer had in mind the possibility of selling the asset if his investment project did not, for whatever reason, materialize. In Racine, Demers and Nolan v. Minister of National Revenue, [1965] C.T.C. 150, 65 D.T.C. 5098 (Ex. Ct.) , Noel, J. provided the following summary of the secondary intention test at 159 (D.T.C. 5103):
+... the fact alone that a person buying a property with the aim of using it as capital could be induced to resell it if a sufficiently high price were offered to him, is not sufficient to change an acquisition of capital into an adventure in the nature of trade. In fact, this is not what must be understood by a “secondary intention” if one wants to utilize this term.
+To give to a transaction which involves the acquisition of capital the double character of also being at the same time an adventure in the nature of trade, the purchaser must have in his mind, at the moment of the purchase, the possibility of reselling as an operating motivation for the acquisition; that is to say that he must have had in mind that upon a certain type of circumstances arising he had hopes of being able to resell it at a profit instead of using the thing purchased for purposes of capital. Generally speaking, a decision that such a motivation exists will have to be based on inferences flowing from circumstances surrounding the transaction rather than on direct evidence of what the purchaser had in mind.
+I will address the above factors.
+i) Nature of property
+[19] A house is not in and of itself indicative of capital or inventory. It simply depends on the other circumstances.
+ii) Length of period of ownership
+[20] The Appellants did not live in the property for very long, if at all – a few weeks at most. This suggests a quick turnaround rather than a long term capital holding. The Appellants’ counsel pointed out that for purposes of determining principal residence, the courts (see the case of Solange Palardy v. Her Majesty the Queen[2]) have held even if a person occupies a building for a short time, it can be considered his or her principal residence. This principle though is in the context of the principal residence issue, the second step in the analysis. For purposes of determining whether the gain was on capital or income account, this short holding smacks of income. The Appellants suggest there were reasons for this, which I will turn to shortly.
+iii) Frequency or number of other transactions
+[21] This was an isolated transaction and not part of any series of similar transactions. This suggests capital and not business income though, given the Act’s definition of business includes an adventure in the nature of trade, there is nothing to preclude an isolated transaction from being an adventure.
+iv) Work expended on or in connection with the property
+[22] Little work was expended on the property directly by the Appellants. They made some minor modifications to the plans and observed the construction process. This factor is not determinative.
+v) Circumstances responsible for the sale of the property
+[23] The Appellants claim that the circumstances that led to the sale of property was the falling apart of the relationship between the two young couples. I weigh this evidence against the listing of the property on the internet in September, the purchase of For Sale signs, the lack of furnishings and appliances, and what I will next determine to be a motive for a quick sale and, I find on balance that the growing friction in the household was not what triggered a sale. There may have been tension in the relationship, though I am not entirely satisfied on that point especially given that Mr. Sangha evidently went on to marry the alleged unfaithful fiancée, but I am satisfied that Mr. Sangha and Mr. Sekhon had always intended to make a quick sale, the factor that is key to this matter, and to which I now turn.
+vi) Motive
+[24] Mr. Sangha and Mr. Sekhon maintain that yes they intended a quick flip, but only with respect to the vacant lot. I do not accept this testimony for the following reasons:
+- they gave virtually no testimony other than a weak winter market for such a change in direction. There was no evidence that the Vancouver market slumped in the winter and they were beyond the winter period in any event.
+- there was no corroborating evidence from any other family or friends to purport there was a change of direction by Mr. Sangha and Mr. Sekhon from a quick flip of a lot to residing in a home.
+- they obtained at the outset an appraisal suggesting they could make significantly more if the lot was sold with a house on it.
+- the contract for acquiring the property stipulated they were to build.
+- they got a building permit on the acquisition of the property.
+- they registered for GST for constructing a house before acquiring the property.
+- their actions after the acquisition of the property confirmed their ongoing intent to build and sell quickly:
+- they listed the property for sale before they even stepped foot into it.
+- they acquired For Sale signs upon possession.
+- they never fully moved in (more on that later)
+[25] I do not have to rely on any principle of secondary intention to sell at a profit to find the Appellants were engaged in an adventure in the nature of trade. I conclude that the Appellants may have first planned on selling the lot at a profit but almost immediately switched to a plan of selling the lot and a house at a profit. There is simply too much evidence to suggest otherwise. What started as a commercial venture remained so.
+[26] The Appellants had answers for some of the concerns. First, the early internet listing was just to show their parents in Kelowna the property. In this day and age of iPhones, iPads and any sort of electronic device for sending photos, I do not accept that Mr. Sangha and Mr. Sekhon would spend $222 to send parents a video when the result was their house was listed on the internet as being for sale. The Appellants’ counsel said the men were short of cash; it therefore makes even less sense. It is simply not credible.
+[27] Second, the Appellants say the For Sale signs on their lawn, with an arrow was for the benefit of an unnamed neighbour. There was no corroborating evidence on this point. On balance, I am convinced that the signs on their lawn were there to advertise their own property.
+[28] Third, they argued the provision in the purchase and sale addendum that they were to build was simply a standard clause. Well, it would have to be a standard meaningless clause to accept the Appellants’ interpretation. They were buying in a new development which clearly required construction of a house.
+[29] Fourth, I do not accept their argument that their GST categorization was inaccurate. At the time they registered for GST it appears they were already contemplating building a house. Even if they registered before they decided to build, I do not accept that they had no choice but to indicate house construction on their application.
+[30] No, I find too many convenient answers. I conclude Mr. Sangha and Mr. Sekhon intended to sell the lot and the house for a profit, and that moving in was a feeble attempt to rely on the principal residence exemption. They were clearly engaged in an adventure in the nature of trade from the outset. At the time they closed the deal for the acquisition of the lot, I find they had it in mind to build a house and sell at a profit.
+[31] This would be sufficient to dismiss the Appeals but I wish to address the principal residence issue, had I found the proceeds were on capital and not income account.
+[32] To qualify as a principal residence the definition in the Act requires that the house was ordinarily inhabited by the taxpayers. In this regard, I have the purchaser, Mr. Mernagh’s, testimony that from mid-November on he visited the property on several occasions and saw no signs of inhabitants. When he did get inside he had the impression of a brand new home that had never been occupied.
+[33] The Appellants claimed they lived in the house for a few weeks but had brought limited furnishings with them. Even Mr. Kalirai, who went to bless the house, testified that all he saw was a rug. Even if I accept that the two young couples did spend some time in the house, I find they did not ordinarily inhabit it. They had no appliances. They did not even take stickers off the windows. I conclude that if they did move in, it was simply an attempt to take advantage of the principal residence exemption without fully intending to ever be the two couples’ principal residence. Indeed, when they moved out, Mr. Sekhon and his wife conveniently returned to her parents and Mr. Sangha returned to the basement suite he was living in previously.
+Analysis – Excise Tax Act
+[34] The definition of builder in the ETA is as follows:
+"builder" of a residential complex or of an addition to a multiple unit residential complex means a person who
+(a) at a time when the person has an interest in the real property on which the complex is situated, carries on or engages another person to carry on for the person
+…
+(iii) in any other case, the construction or substantial renovation of the complex,
+…
+but does not include
+(f) an individual described in paragraph (a), (b) or (d) who
+(i) carries on the construction or substantial renovation,
+(ii) engages another person to carry on the construction or substantial renovation for the individual, or
+(iii) acquires the complex or interest in it,
+otherwise than in the course of a business or an adventure or concern in the nature of trade,
+[35] Having found the Appellants were engaged in an adventure in the nature of trade, I conclude they fall under the definition of builder and are subject to collect and remit tax on the sale of the property. However, section 3 of Part I of Schedule V identifying exempt supplies reads:
+3. A supply by way of sale of a residential complex or an interest therein made by an individual who is a builder of the complex or, where the complex is a multiple unit residential complex, an addition thereto, if
+(a) at any time after the construction or substantial renovation of the complex or addition is substantially completed, the complex is used primarily as a place of residence of the individual, an individual related to the individual or a former spouse or common-law partner of the individual, and
+(b) the complex is not used primarily for any other purpose after the construction or substantial renovation is substantially completed and before that time,
+unless the individual claimed an input tax credit in respect of the last acquisition by the individual of the real property included in the complex or in respect of an improvement to the real property acquired, imported or brought into a participating province by the individual after the real property was last acquired by the individual.
+[36] The Respondent argues that the house was never used by Mr. Sangha and Mr. Sekhon primarily as their place of residence and, therefore, the supply is not exempt. Further, if it was never so used, it is unnecessary to get into the self‑supply rules. I agree. The Appellants have not proven that the property was used primarily as a place of residence.
+[37] The GST aspect of this case was not extensively argued; indeed, Appellants’ counsel effectively conceded that if I found the property was not a principal residence to Mr. Sangha and Mr. Sekhon under the auspices of the Act, then they would also be unsuccessful on the GST front. Is there a difference between principal residence requiring a property to be ordinarily inhabited for the Act purposes and the property "used primarily as a place of residence" for GST purposes? This was not raised. I do not see, however, even if there was a difference that it may have helped the Appellants. While the requirement of a property to be used primarily as a place of residence may not require exactly the same elements constituting a principal residence for the Act purposes, it still implies, I would suggest, a level of intention to reside, not just pass through.
+[38] I find the Appellants always intended to simply sell the property, their presence was temporary, they had other places they could live and they effectively treated the house as a hotel not a place of residence as contemplated by the ETA.
+[39] The Appeals under both the Act and the ETA are dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 26th day of February 2013.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2013 TCC 69
+COURT FILE NO.: 2011-2930(IT)G, 2011-2929(GST)G,
+2011-2932(IT)G and 2011-2931(GST)G
+STYLE OF CAUSE: PURDEEP SANGHA AND HER MAJESTY THE QUEEN AND
+AMANJOTE SEKHON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: February 15, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: February 26, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Nicholas F. Ferguson
+Counsel for the Respondent:
+Jill Chisholm
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Nicholas F. Ferguson
+Firm: Chown, Cairns LLP
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1986] 2 C.T.C. 259 (FC).
+[2] 2011 DTC 1188.

@@ -1,0 +1,247 @@
+Title: Cappadoro v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30899/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-267-30899-cappadoro-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-07-25
+
+# Cappadoro v. The Queen
+
+- Citation: 2012 TCC 267
+- Decision date: 2012-07-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7458, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cappadoro v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-07-25
+Neutral citation
+2012 TCC 267
+File numbers
+2010-2000(GST)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-2000(GST)I
+BETWEEN:
+Giuseppe cappadoro,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard June 11, 2012, at Montréal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Virginie Falardeau
+Counsel for the respondent:
+Daniel Cantin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment under the Excise Tax Act the notice of which is dated October 23, 2008, is dismissed, with costs to the respondent.
+Signed at Ottawa, Canada, this 25th day of July 2012.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 7th day of September 2012.
+Elizabeth Tan, Translator
+Citation: 2012 TCC 267
+Date: 20120725
+Docket: 2010-2000(GST)I
+BETWEEN:
+Giuseppe cappadoro,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] This is an appeal from an assessment made October 23, 2008, by the Quebec Minister of Revenue, acting for the Minister of National Revenue (Minister), against the appellant for $32,252.43 under section 325 of the Excise Tax Act (ETA). Section 325 of the ETA states:
+325. (1) Tax liability re transfers not at arm's length — Where at any time a person transfers property, either directly or indirectly, by means of a trust or by any other means to
+(a) the transferor's spouse of common-law partner or an individual who has since become the transferor's spouse or common-law partner,
+(b) an individual who was under eighteen years of age, or
+(c) another person with whom the transferor was not dealing at arm's length,
+the transferee and transferor are jointly and severally liable to pay under this Part an amount equal to the lesser of
+(d) the amount determined by the formula
+A - B
+where
+A is the amount, if any, by which the fair market value of the property at that time exceeds the fair market value at that time of the consideration given by the transferee for the transfer of the property, and
+B is the amount, if any, by which the amount assessed the transferee under subsection 160(2) of the Income Tax Act in respect of the property exceeds the amount paid by the transferor in respect of the amount so assessed, and
+(e) the total of all amounts each of which is
+(i) an amount that the transferor is liable to pay or remit under this Part for the reporting period of the transferor that includes that time or any preceding reporting period of the transferor, or
+(ii) interest or penalty for which the transferor is liable as of that time,
+but nothing in this subsection limits the liability of the transferor under any provision of this Part.
+(1.1) Fair market value of undivided interest — For the purpose of this section, the fair market value at any time of an undivided interest in a property, expressed as a proportionate interest in that property, is, subject to subsection (4), deemed to be equal to the same proportion of the fair market value of that property at that time..
+(2) Assessment — The Minister may at any time assess a transferee in respect of any amount payable by reason of this section, and the provisions of sections 296 to 311 apply, with such modifications as the circumstances require.
+(3) Rules applicable — Where a transferor and transferee have, by reason of subsection (1), become jointly and severally liable in respect of part or all of the liability of the transferor under this Part, the following rules apply:
+(a) a payment by the transferee on account of the transferee’s liability shall, to the extent thereof, discharge the joint liability; and
+(b) a payment by the transferor on account of the transferor’s liability only discharges the transferee’s liability to the extent that the payment operates to reduce the transferor’s liability to an amount less than the amount in respect of which the transferee was, by subsection (1), made jointly and severally liable.
+(4) Transfers to spouse or common-law partner — Despite subsection (1), if at any time an individual transfers property to the individual’s spouse or common-law partner under a decree, order or judgment of a competent tribunal or under a written separation agreement and, at that time, the individual and the individual’s spouse or common-law partner were separated and living apart as a result of the breakdown of their marriage or common-law partnership (as defined in subsection 248(1) of the Income Tax Act), for the purposes of paragraph (1)(d), the fair market value at that time of the property so transferred is deemed to be nil, but nothing in this subsection limits the liability of the individual under any provision of this Part.
+(5) Meaning of "property" — In this section, “property” includes money.
+[2] To establish the assessment, the Minister relied on the facts found at paragraphs 30 to 58 of the Reply to the Notice of Appeal, reproduced here:
+[translation]
+CONTINUING, THE RESPONDENT NOTES THE FOLLOWING:
+(A) TAX PROCEDURE
+30. On October 23, 2008, the respondent issued a notice of assessment to the appellant bearing number PM-14532 in the amount of $32,252.43, pursuant to sections 325(2) [of the ETA] and 160 of the Income Tax Act...;
+31. On October 28, 2008, the appellant sent the respondent a notice of objection...;
+32. On March 19, 2009, the Direction des oppositions rendered a decision and confirmed the assessment...issued to the appellant...;
+33. On July 18, 2008, the respondent issued a notice of assessment bearing number PM-14325 in the amount of $32,818.60 against Carlo Cappadoro, a person who was not dealing with the appellant at arm's length...;
+(B) THE FACTS
+34. On July 12, 2002, the appellant, Giuseppe Cappadoro, and his sons Carlo Cappadoro and Francesco Cappadoro, acquired a commercial building with the street numbers 10,000 and 10,002 London Avenue in Montréal for $295,000...;
+35. According to the July 12, 2002...deed of acquisition, the undivided joint ownership rights of the buyers in the building were distributed as follows:
+- Giuseppe Cappadoro (appellant): 2%;
+- Carlo Cappadoro: 49%;
+- Francesco Cappadoro: 49%
+TOTAL: 100%
+Counter letter
+36. On October 10, 2002, a counter letter applied between Giuseppe Cappadoro and his sons Carlo and Francesco Cappadoro...;
+37. The counter letter...cannot be set up against the respondent and cannot be considered a means of defence against the notice of assessment...;
+(C) CONSTRUCTIONS INTER-BÉTON INC.
+38. On April 22, 2004, Carlo Cappadoro incorporated the company Les Constructions Inter-Béton Inc. (hereinafter called "Inter-Béton") of which he is the director and principal shareholder as indicated in a statement of information from the Registraire des entreprises...;
+39. On September 28, 2007, a judgment was rendered by the Federal Court against Inter-Béton for $28,520.87 for amounts owing under the Excise Tax Act...;
+40. On November 13, 2007, a judgment was rendered by the Superior Court of Québec against Inter-Béton for $135,175.33 for amounts owing under the Act Respecting the Quebec Sales Tax, and source deductions...;
+41. Inter-Béton was liable for the taxes owing under the Excise Tax Act and was assessed for the period of January 1, 2006, to September 21, 2007, as indicated in the September 28, 2007, statement of account...;
+42. Inter-Béton did not appeal from the Federal Court and Superior Court decisions nor did it object to or appeal from the notices of assessment issued against it;
+43. Carlo Cappadoro did not object to or appeal from the notice of assessment...;
+THE DONATION
+44. On August 2, 2007, Carlo Cappadoro made a donation to the appellant of all his rights in the property at 10,000–10,002 London Avenue, Montréal, as indicated in the deed of gift, published August 3, 2007...;
+45. The deed of gift...provides the following provision under the chapter "Special Clauses":
+SPECIAL CLAUSES
+1. The immoveable property and all other property presently given, or that which may subsequently represent it, and the fruits and revenues arising therefrom shall be exempt from seizure for the payment of any debt whatsoever of the Donee.
+2. The immoveable property and all other property given, or that which may subsequently represent it, and the fruits and revenues arising therefrom shall be the private property of the Donee.
+The counter letter cannot be set up against the respondent
+46. The assessment issued by the respondent against the appellant was established in his role as collector and as such, the respondent must be considered a third person in good faith within the meaning of article 1452 of the Civil Code of Québec;
+47. The respondent is a third person in good faith, and therefore the appellant cannot set up the October 10, 2002, counter-letter against it. The respondent is entitled to benefit from the provisions of the July 12, 2002, deed of purchase;
+48. In his tax returns for the 2002, 2003, 2004, 2005 and 2006 taxation years, Carlo Cappadoro claimed a share of the rental income for the property at 10,000–10,002 London Avenue, Montréal, as shown on the rental income declaration forms...;
+49. At all relevant times in this case, Carlo Cappadoro represented himself to the authorities as co-owner, administrator and owner of the rental property and as such, he held a special interest in the property;
+50. The alleged agreements that may have resulted from the October 2, 2002, counter-letter...were never revealed to the tax authorities;
+51. The appellant and Carlo Cappadoro's operations must be qualified as a sham in terms of the tax authorities' rights and the appellant cannot now claim a position he concealed and that is contradictory to the acts taken between July 2, 2002, and August 3, 2007;
+52. On August 3, 2007, Carlo Cappadoro gifted a share of a building in which he had a true interest and he did so for the sole purpose of escaping the tax authorities' collection measures;
+53. The immovables at 10,000–10,000 London Avenue in Montréal were part of Carlo Cappadoro's assets, in accordance with the deed of purchase...;
+54. Carlo Cappadoro, as co-owner of the London Avenue building in Montréal:
+- claimed a share of the income;
+- claimed expenses;
+- claimed losses or benefits according to the outcomes of the operations;
+- collected rent;
+- represented himself as owner;
+- acted as owner;
+- performed the actions of a person who is an owner;
+55. The appellant cannot now claim that the value of the rights transferred on August 2, 2007, was null;
+56. The fair market value of the share of the property transferred belonging to Carlo Cappadoro having been established at $214,424, the appellant cannot claim that the August 2, 2007, transfer was the equivalent of a release discharging the appellant;
+57. The appellant and Carlo Cappadoro have a non-arm's length relationship within the meaning of the Income Tax Act;
+58. As the transferee of property belonging to the transferor Carlo Cappadoro, himself a tax debtor, the appellant became a joint and several debtor for amounts due under the notice of assessment...
+[3] All this indicates that the appellant is liable under section 325 of the ETA for his son Carlo's tax debt, which results from a tax debt owed by the company les Constructions Inter-Béton Inc. (Inter-Béton) of which Carlo was the director and main shareholder, for unpaid Goods and Services Tax (GST). Carlo was assessed under section 323 of the ETA, which states:
+323. (1) Liability of directors — If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+(2) Limitations — A director of a corporation is not liable under subsection (1) unless
+(a) a certificate for the amount of the corporation’s liability referred to in that subsection has been registered in the Federal Court under section 316 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the date of the assignment or bankruptcy order.
+(3) Diligence — A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+(4) Assessment — The Minister may assess any person for any amount payable by the person under this section and, where the Minister sends a notice of assessment, sections 296 to 311 apply, with such modifications as the circumstances require.
+(5) Time limit — An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+(6) Amount recoverable — Where execution referred to in paragraph (2)(a) has issued, the amount recoverable from a director is the amount remaining unsatisfied after execution.
+(7) Preference — Where a director of a corporation pays an amount in respect of a corporation’s liability referred to in subsection (1) that is proved in liquidation, dissolution or bankruptcy proceedings, the director is entitled to any preference that Her Majesty in right of Canada would have been entitled to had the amount not been so paid and, where a certificate that relates to the amount has been registered, the director is entitled to an assignment of the certificate to the extent of the director’s payment, which assignment the Minister is empowered to make.
+(8) Contribution — A director who satisfies a claim under this section is entitled to contribution from the other directors who were liable for the claim.
+Facts raised at the hearing
+[4] Inter-Béton was incorporated under Quebec's Companies Act on April 22, 2004 (Exhibit I-1, tab 7). It operated a commercial and industrial cement floor installation and finishing business. Its majority shareholder, Carlo Cappadoro, went to the École des métiers de la construction to become a "cement finisher". Academically, he did not go past CEGEP (college diploma, pre-university level in Quebec). He had an accountant take care of his business accounting, and had hired a secretary to take care of the company's books, which he then sent to the accountant. The accountant filed the GST returns for the company Inter-Béton. Carlo took care of the sites with his men, but also signed the documents sent to the accountant.
+[5] Carlo submitted to evidence a document showing the list of accounts receivable from Inter-Béton's client contractors as of September 14, 2006 (Exhibit A‑1). He was not the person who prepared the document, however. He explained that a contractor could reserve payment of 10% of the invoice for one year. He also stated that the volume of work had increased in 2006 and consequently, the accounts receivable. He stated that the list established as Exhibit pièce A-1 was not complete.
+[6] On March 24, 2006, Carlo requested a line of credit of $70,000 from a financial institution (Exhibit A-2). In court, Carlo stated that it was denied. He then turned to his friends and relatives to borrow money for his company. His father (the appellant), his mother, his wife and his brother loaned him close to $40,000 between February 8, 2006, and March 29, 2007 (see cheques, Exhibit A-3).
+[7] Carlo said that he finally ceased all operations at the company in the spring of 2007. Inter-Béton was not dissolved, but remained inactive. Carlo then began working for another company. He puts this around June or July 2007.
+[8] Inter-Béton filed tax reports for the reporting periods of October 1, 2005, to December 31, 2006 (Exhibit I-2), but the payments were not all made. In fact, according to the certificate filed in Federal Court on November 7, 2007, pursuant to section 316 of the ETA, the amount of $28,520.87 payable by Inter-Béton under the ETA was still unpaid as of September 29, 2007, and interest was payable as of that date until payment was made (Exhibit I-1, tab 8). Before this certificate was issued, an agreement was entered into on April 27, 2007, between Inter-Béton and the Minister, assessing the tax debt (source deductions, Quebec Sales Tax (QST) and GST) at $124,464,90 and a series of monthly cheques dated July 3, 2007, to November 3, 2008, for $6,920 each, in addition to a first cheque in the amount of $6,913.57 dated June 3, 2007, were issued to the Minister (Exhibit I‑3).
+[9] Carlo explained that at the time, Inter-Béton had ceased all operations and although he had intended on honouring the cheques, this was not the case because he had not received the money from the accounts receivable.
+[10] Carlo said he did not realize the consequences of the company's failing to pay on him personally, until the Minister's representative explained it to him when the April 2007 agreement was signed.
+[11] On July 18, 2008, Carlo was personally assessed for $138,468.04 for the unremitted source deductions and QST (Exhibit I-1, tab 4). According to Roselande Henry, collections officer, this assessment was based on the amounts claimed by Inter-Béton in its returns.
+[12] For the GST, an assessment for $32.252.43 (including interest) was made by Ms. Henry against Carlo on July 18, 2008, under subsection 323(1) of the ETA, again based on the returns filed by Inter-Béton. Carlo did not challenge this assessment. Ms. Henry confirmed it by relying on her authorization report of July 8, 2008 (Exhibit I-5), which uses the balance of GST amounts declared and unpaid by Inter-Béton for the December 31, 2005, to June 30, 2007, period (Exhibit I-4).
+[13] Ms. Henry's method for establishing the amount assessed against Carlo as Inter-Béton's director is found in a document called [translation] "Integrated Debt Collection System" (IDCS) for Inter‑Béton and submitted as Exhibit I-8, at items 117, 118 and 119.
+[14] Moreover, further in the past, on July 12, 2002, two buildings at 10,000 and 10,002 London Avenue, Montréal, were acquired by notarial deed by the appellant and his two sons, Carlo and Francesco, in the respective proportion of 2%, 49% and 49%, for the price of $295,000 (Exhibit I-1, tab 5). A counter letter (not notarized) was signed on October 10, 2002, establishing that the appellant was the sole owner of these two buildings and his two sons were not entitled to encumber or sell their dummy shares in the property and that the appellant could ask them to return their respective shares at any time, without any consideration.
+[15] The appellant explained that he had paid the entire amount for these buildings and he took care of renting them out. He collected all the rental income, although Carlo reported this as income at 50% in his tax return (Exhibit I‑1, tab 12). The appellant explained that he acted this way because he had stopped sharing a life with the mother of his sons on May 29, 2000, and when the buildings were acquired, his divorce had not been resolved. He did not want his ex-wife to have any claim on these two buildings. A divorce judgment was rendered July 6, 2007. I note that in this judgment, he conserves exclusive ownership of the property listed (not including the two buildings acquired with his two sons in 2002) (Exhibit A-4).
+[16] On August 2, 2007, by notarized deed of gift, Carlo gave his father his share in the two buildings located at 10,000 and 10,002 London Avenue (Exhibit I‑1, tab 11). It states, among other things, that all income from these buildings as of that moment will be the property of the Donee. The appellant did not ask his other son Francesco to give back his share. It seems one of the reasons for recovering Carlo's share was his financial problems, and also that the appellant's divorce was settled.
+[17] Further to the deed of gift, the Minister considered that Carlo had transferred his share in the two buildings with no consideration to his father, while he had a personal tax liability for the above-noted amounts.
+[18] On September 16, 2008, Roselande Henry informed the appellant she intended to assess him for his son's tax liability under section 325 of the ETA (see IDCS established for Carlo Cappadoro, Exhibit I-6, No. 43). On September 23, 2008, counsel for the appellant informed the Minister for the first time of the counter letter (Exhibit I-6, No. 44). Since the collection stage had been reached, Roselande Henry did not take this counter letter into consideration and assessed the appellant for $32,252.43 (Exhibit I-1, tab 1), the amount of Carlo's debt. She considered that the market value of the transferred share of the building corresponded to the municipal evaluation, which was higher than the value of the debt.
+[19] The appellant was aware of his son Carlo's financial difficulties at the time of the deed of gift and he stated he had always helped his son. Additionally, Carlo stated he was in his early twenties at the time the two buildings were purchased and he did not have the financial means to finance the share acquired in his name. He also stated that he had not collected rental income even though he had reported them in his tax returns.
+Appellant's arguments
+[20] The appellant first argues that it is the Minister who has the burden of proving the validity of the underlying assessments (assessment established for Inter-Béton and assessment for Carlo Cappadoro) that led to the assessment against the appellant under section 325 of the ETA. The appellant relies on Gestion Yvan Drouin Inc. v. R., 2000 CarswellNat 3035 (TCC), Beaudry v. The Queen, 2003 TCC 464 and Therrien v. The Queen, 2004 TCC 791. According to the case law of this Court, it would be reasonable to ask the Minister to provide prima facie evidence of the tax debt owed by a tax debtor when he applies for recourse against a third person to recover that tax debt. This reasoning is based on the fact that it is the Minister in this case who has a particular knowledge or is in a better position than the third person against which he is exercising recourse, to establish the amount of the tax liability.
+[21] The appellant acknowledges that the Minister assessed Inter-Béton according to the amounts its accountant reported, except for the part corresponding to the period of April 1, 2007, to June 30, 2007, in the amount of $3,129.37. The appellant notes that, according to the evidence, Inter-Béton no longer operated a business during that period and the respondent did not produce a copy of the tax return that would have been filed by Inter-Béton for that period. As for the other tax amounts reported, the appellant claims that the tax payable should have been adjusted to take into consideration the accounts receivable that had not been collected by Inter-Béton. According to the document submitted as Exhibit A-1, there was an accounts receivable amount of $182,130 as of September 14, 2006. This implies that the 7% tax applicable at the time was not collected on this amount, and that the amount assessed for Inter-Béton should have been reduced by at least 7% x $182,130 = $12,749.10 under section 231 of the ETA, which provides for downward tax adjustments for bad debts.
+[22] The appellant also relies on Savoy v. The Queen, 2011 TCC 35, at paragraphs 42, 44 and 50, to support that the assessments [translation] "as produced" are as likely to be challenged as the others, and even more so when the underlying assessment was never challenged by the company.
+[23] As for the assessment against Carlo Cappadoro, the appellant claims Carlo is entitled to raise due diligence to remove himself from the joint responsibility under subsection 323(3) of the ETA. Carlo cannot be faulted for neglecting to remit the taxes on outstanding debts, especially considering the company was entitled to adjustments. Moreover, Carlo is a cement finisher; he does not have particular knowledge in business administration. He was faced with an uncontrollable situation with increased accounts receivable. He tried to obtain a line of credit, but was denied; he did not have the money to consult a professional to defend himself against the assessments made against Inter-Béton and him personally. In good faith, he ceased the company's operations and signed a payment agreement with the Minister, providing cheques, which were not honoured. In The Queen v. Buckingham, 2011 FCA 142, it was found that the standard of care under subsection 323(3) of the ETA is an objective standard, but directors are not required to have absolute responsibility over their company's payments. The director must show he turned his attention to the tax payments and exercised his duty of diligence to prevent a failure by the corporation to remit the concerned amounts (paragraphs 33 and 52). According to the appellant, Carlo exercised this diligence.
+[24] Finally, in regard to the assessment against the appellant himself under section 325 of the ETA, he claims that there was never a transfer of property from Carlo to himself. It is the appellant who financed the purchase of the two buildings in whole, and he took care of the rentals and collected all the rental income. When his divorce was finalized, he asked Carlo to give back his share of the buildings in his name. Carlo never had any rights over these buildings. Haeck v. Québec (Deputy Minister of Revenue), 2001 CarswellQue 3331 (Court of Québec), at paragraph 33, states that once the tax is assessed, the Deputy Minister becomes a third person that can use the apparent deed (in this case the gift) to protect the rights he has against the taxpayer, namely the right to obtain, from the taxpayer's patrimony, payment of the tax actually owed.
+[25] The appellant claims that in this case, Carlo never had the property in his patrimony, he did not dispose of an asset to avoid paying his tax debts. He simply returned to the appellant the title of the building he already owned. For section 325 of the ETA (the equivalent of section 160 of the Income Tax Act (ITA) to apply, the author of the transfer must have had an interest in the property transferred (see Gardner v. MNR, 1988 CarswellNat 443 at paragraph 8 (TCC)), which is not the case with Carlo.
+Respondent's arguments
+[26] Regarding the burden of proof on the validity of the underlying assessments, the respondent claims that the Minister must prove the facts the taxpayer does not have in his possession. In this case, Carlo had all the relevant elements in his possession. Moreover, the Minister did not establish an estimated assessment, but relied solely on the tax returns filed by Inter-Béton (Exhibit I-2).
+[27] According to the respondent, the appellant did not present sufficient proof that unpaid accounts receivable existed to obtain the requested adjustments. The one document submitted did not show (1) amounts that could have been collected or (2) the manner in which these amounts could have been established. In April 2007, Inter‑Béton signed an agreement acknowledging the amount of the debt owing. No objection was filed after that against the assessment.
+[28] Regarding Carlo's diligence, there are reasons to doubt it after noting that the agreement signed with the Minister in 2007 was accompanied by a series of cheques, only one of which was honoured. Carlo was having financial difficulties as of the Spring of 2006 and it can be deduced that at the time he entered into the agreement in April 2007, he was well aware that he would not be able to pay the amounts owing. The evidence does not show that Carlo took any specific steps to prevent the default of the payment, which must be shown.
+[29] However, at the time he signed the agreement with the Minister in April 2007, Carlo was aware of his personal liability. It is therefore not surprising to note the deed of gift in August 2007, transferring Carlo's shared in the appellant's property, specifically to remove this share in the building from his patrimony, to the detriment of the tax authorities. Moreover, the respondent notes that if the true reason for the transfer was that there was no more worry regarding the appellant's ex-wife, it would have been logical for him to recover the shared from his other son Francesco, but he did not. Additionally, there was no evidence of any aggressive measures the appellant's ex‑wife took against the appellant.
+[30] Moreover, Carlo always declared 50% of the rental income and always represented to the tax authorities that he held 50% of these two buildings. According to the respondent, the counter letter was no more or less significant than a sham in regard to the tax authorities. The deed of gift before a notary is essentially to establish the actual situation and specifically indicate that as of that date, the income and benefits of the transferred share in the buildings would be vested in the appellant. It is therefore difficult to establish as the appellant did that Carlo never held any interest in these buildings.
+[31] Moreover, the counter letter was brought to the Minister's attention only in September 2008, almost a year after the certificate was issued by the Federal Court in November 2007 establishing the amount Inter-Béton owed. This counter letter was considered during the tax collection exercise, very late, such that the Minister could be considered a third person in good faith within the meaning of article 1452 of the Civil Code of Québec, which states:
+Art. 1452. Third persons in good faith may, according to their interest, avail themselves of the apparent contract or the counter letter; however, where conflicts of interest arise between then, preference is given to the person who avails himself of the apparent contract.
+[32] Since the appellant played both sides with the tax authorities, the respondent is entitled to not consider the counter letter (see Dussault-Zaidi v. Québec (Deputy Minister of Revenue) [1996] J.Q. No. 2969 (QL), [1996] R.D.F.Q. 73 (CAQ)).
+[33] The respondent concluded that there was a transfer with no consideration for the appellant, thereby initiating his joint and several liability.
+Analysis
+[34] The appellant's first argument is that the respondent has the burden of proving the outstanding tax debt of Inter-Béton and Carlo Cappadoro. In particular, he relies on Gestion Yvan Drouin Inc., supra. Archambault J. stated that when the Minister exercises recourse against a third party to recover the tax debt it is owed by the tax debtor, it is reasonable for the Minister to have he responsibility to provide prima facie evidence of the tax debt. The judge added that it was not sufficient to provide the notice of assessment against the tax debtor, unless the amount established by the Minister in the assessment corresponds to that indicated by the tax debtor in his income tax return (this was an assessment made under the Income Tax Act). The judge also stated that if the amount the Minister established in the assessment corresponds to the amount determined by the taxpayer himself, the Minister has provided prima facie evidence of the tax debt, and the burden is then on the transferee to present evidence to the contrary (Gestion Yvan Drouin Inc., paragraphs 114 to 116).
+[35] In this case, according to the testimony given by Ms. Henry, who made the assessment, the amounts in the assessment against Carlo Cappadoro as director of Inter-Béton corresponded to the balance of its reported and unpaid GST. This is shown by the returns Inter-Béton filed for the periods between October 1, 2005, and December 31, 2006, and submitted as Exhibit I-2. As for the period of January 1, 2007, to March 31, 2007, there was no return, and according to the evidence, no assessment for this period. For the period of April 1, 2007, to June 30, 2007, all indications are that Inter-Béton was assessed according to amounts it reported (I refer to the statement established September 28, 2007, regarding GST in Inter-Béton's file, at Exhibit I-1, tab 10, and the account summary produced for Inter-Béton under Exhibit I-4 presenting the report produced July 30, 2007, for the period ending June 30, 2007).
+[36] According to the IDCS for Inter-Béton, the last GST report produced "involves" June 2007 (exhibit I-8, No. 99). Also according to this document, the licence for Inter-Béton was cancelled August 7, 2007 (Exhibit I-8, No. 69). Also, a list of accounts receivable was allegedly given to the investigator on February 1, 2007, totalling $164,000 (Exhibit I-8, No. 40). A verification indicates that the clients whose names appear in the list the appellant provided as Exhibit A-1 confirmed, in writing, that they no longer owe any money to Inter-Béton (Exhibit I-8, Nos. 90, 92, 100 and 101).
+[37] Estelle Darbouze, who also intervened in the Inter-Béton case as collections officer, testified that further to the breach of the agreement entered into with Carlo, in which he recognized that Inter-Béton's tax debt (including GST) was $124,464.90 as of April 26, 2007, she undertook steps to register a certificate at the Federal Court pursuant to section 316 of the ETA establishing that Inter‑Béton still owed an amount of $28,520.87 as of September 29, 2007, and interest was payable as of that date until payment was made (Exhibit I-1, tab 8). Once registered, this certificate had the same effect as if a judgment had been rendered by the Federal Court against the debtor for the amount certified therein (see Canada v. Barrett, 2012 FCA 33, at paragraph 3).
+[38] The IDCS established for Inter-Béton (Exhibit I-8) also indicated that the company had been non-compliant since 2005 for its income tax returns and remitting taxes. It is also of note that Carlo Cappadoro increasingly postponed his meetings with the Minister's investigator in the weeks preceding the August 2, 2007, deed of gift.
+[39] I consider the respondent's evidence sufficient to be considered prima facie evidence of the validity of Inter-Béton's tax debt under the ETA for the entire period in question.
+[40] As for the appellant's argument that the amount of this debt should have been reduced by the accounts receivable listed in Exhibit A-1, I feel that the documentation submitted by the respondent establishes some evidence that the Minister analyzed the list of accounts receivable but dismissed it. It is the appellant's responsibility to provide more extensive evidence about the existence of these unpaid accounts receivable, which he did not. Carlo Cappadoro simply stated that this list was prepared by the accountant, who was not present in court to testify on the subject. Moreover, Carlo did not submit any record that might support the existence of these accounts receivable. Additionally, one of the IDCS reports produced as evidenced indicates that certain creditors listed in Exhibit A-1, stated they no longer owe money to Inter-Béton. Lastly, Carlo Cappadoro, as shareholder and director of Inter-Béton, did not consider it relevant to challenge the amounts at the time the amounts were assessed. Rather, he acknowledged the existence of the debt in an agreement entered into with the Minister on April 27, 2007.
+[41] As for the due diligence defence raised to remove Carlo Cappadoro from his joint and several liability, under subsection 323(3) of the ETA, I cannot adopt it. Buckingham, supra, states that directors must establish that they were concerned with the required payments and exercised their duty of care, diligence and skill to prevent a failure by the corporation to remit the concerned amounts.
+[42] In this case, the documents the respondent submitted to evidence (IDCS) tend to indicate a delinquent negligence by Carlo Cappadoro. At any rate, he did not feel it was relevant to challenge the assessment against him, as director of the company under section 323 of the ETA, and did not present me with any new element that would lead me to find he had exercised his duty to care, diligence and skill to prevent the failure to remit.
+[43] Lastly, what is the appellant's responsibility? He claims he was always the owner of the two buildings for which the official legal title was in a proportion of 49% in Carlo's name, 49% also in Francesco Cappadoro's name and only 2% in his name.
+[44] The appellant said he paid the entire purchase price, that he always took care of renting the buildings himself and he collected all the rental income.
+[45] The appellant claims that it was to remove the two buildings from his ex-wife's patrimony that he put them in his two sons' names. In doing so, he did not declare rental income from these buildings in his tax return. The evidence showed that Carlo claimed 50% of the income in his own tax return.
+[46] The appellant indicated that these two buildings were never in the patrimony of his two sons. He claims that the Minister cannot rely on the apparent deed of gift unless he wishes to conserve the rights he holds against the taxpayer directly from that taxpayer's patrimony (Haeck, supra, at paragraph 33). Since the buildings were never part of Carlo's patrimony, the respondent cannot rely on the apparent act to claim that Carlo disposed of an asset to avoid paying his tax debts.
+[47] On this, I feel that the evidence shows that the August 2, 2007, deed of gift came at a time when Carlo was in frequent contact with the Minister's representatives regarding the tax debt he owed. It seems to me that it was to avoid the tax debt he owed. I consider that he transferred his indivisible share back to his father in order to withdraw the buildings of which he was the apparent co-owner. At any rate, the actions give this impression.
+[48] The evidence here is different from the situation in Gardner, cited above by the appellant, In that case, the tax debtor made the purchase offer on the building in question as trustee for his spouse ("trustee for the appellant "), who did not have the credit required to finance the purchase. The non-controversial evidence clearly showed that the tax debtor and his spouse never intended for the former to have an interest in the residence, for which the legal title had been put in both names for the sole purpose of obtaining financing.
+[49] Here, even if I accept Carlo's and the appellant's testimony that it was the appellant who financed the buildings in whole, nothing indicates that the appellant did not have the intention of giving his sons a gift from the beginning. The counter letter was signed a few months after the building was acquired. Moreover, as noted by the respondent, the appellant did not present any evidence of the aggressive measures his ex-wife took to obtain ownership of the appellant's buildings. Additionally, the divorce judgment gave ownership of the other buildings to the appellant. Lastly, the official property transfer of August 2, 2007, was done when Carlo had issues with the tax authorities for his company's tax debts, and perplexingly, the appellant did not ask his other son Francesco to return his indivisible share in his name.
+[50] Moreover, by asking Carlo to personally declare the rental income in a proportion of 50% from the time the buildings were acquired, the appellant made it impossible for the tax authorities to know that Carlo was the agent who owned property for another party (this seems required to set up the counter letter against the tax authorities, see Victuni v. Minister of Revenue of Québec, [1980] 1 S.C.R. 580; and Caplan v. Québec (Deputy Minister of Revenue), 2006 QCCA 1322 (CanLII)(CAQ) at paragraph 37). Moreover, it was only in September 2008, when the notice of intention to assess was received, that the appellant finally disclosed this counter letter.
+[51] I share the respondent's opinion that the situation is closer to that in Dussault-Zaidi, supra, where Ms. Zaidi always claimed to be the sole owner of the property by declaring the rental income. She could not later claim, after many years, that she was the co-owner with her husband at the time of the sale, such that each could benefit from the capital gain exemption and thereby eliminate the tax impact of the sale. The Court of Appeal of Québec found these taxpayers could not have it both ways. They could not suddenly claim that the situation described in the public acts in the previous years no longer represented reality.
+[52] The present situation is different from that found in Caplan, supra. In that case, the taxpayer had taken the same consistent position regarding the tax treatment for the building of which he was the true owner, while his son acted as his agent. Even if the building had been registered in his son's name, it is the taxpayer who financed and was responsible for the management and administration of the building. He collected and personally declared the rental income. The evidence is clear in this case that the son acted solely as an agent on behalf of his father, the taxpayer. This led Justice Dufresne of the Quebec Court of Appeal to state the following:
+[translation]
+[45] As a result, the appellant adopted the same consistent position regarding the tax treatment for the building of which he was the true owner, while his son acted as his agent, both during the time he was owner and also following the sale of the building. In short, he always acted towards the tax authorities as the true owner of the building and did not at any time attempt to play both sides by claiming the advantages the apparent contract may have offered and also those of the counter letter. He always presented himself as the true owner to the respondent, evidently by relying on the counter letter. We must recall that additionally, all the costs and expenses associated with keeping and maintaining the building were paid by the appellant and not his son.
+...
+[47] The balance of probabilities shows that the appellant's intention to acquire the building through his son, acting as his agent, is reflected in the counter letter and effectively corresponds to the actual situation the appellant maintained at all times. In the case at bar, the sham theory does not apply because there is no element of deceit in the manner in which the operation was concluded.
+[48] In the circumstances, it is difficult to claim that the respondent has the required interest to invoke the apparent contract when there is no prejudice to the respondent from the tax treatment the appellant chose based on the counter letter. The respondent simply chose the situation that was most beneficial for him.
+[49] It would have been completely different if the evidence had shown that the operation was merely a sham or that the taxpayer had sought an advantage from first the apparent contract, then the counter letter. In this case, the appellant's attitude in reality, from the time the building was acquired to the time it was sold, is consistent and attests significantly to the fact he was the true owner of the building. He also acted as such at all relevant times.
+[50] If the evidence had shown the slightest contradiction in the tax treatment by the taxpayer, the decision in the appeal would have been completely different, but the appellant's evidence in this case remained uncontradicted. Each case is inevitably fact-specific: everything is based on the evidence submitted.
+[51] In short, the lack of a sham or proven attempt that the taxpayer played both sides, the respondent must, in accordance with Shell, supra, make an assessment based on the actual legal situation between the parties, regardless of the content of the apparent contract or counter letter.
+[53] In this case, the evidence shows a contradiction between the counter letter and the approach the tax authorities adopted because it was Carlo and not the appellant who claimed the rental income throughout the years, without mentioning that he was acting as his father's agent.
+[54] I find it useful to refer to article 1452 of the Civil Code of Québec which provides that third persons in good faith may, according to their interest, avail themselves of the apparent contract or counter letter.
+[55] I therefore find that the Minister was entitled to rely on the deed of gift, without considering the counter letter, to find there was a transfer of property with no consideration under section 325 of the ETA.
+[56] The appeal is therefore dismissed, with costs for the respondent.
+Signed at Ottawa, Canada, this 25th day of July 2012.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 7th day of September 2012.
+Elizabeth Tan, Translator
+CITATION: 2012 TCC 267
+COURT FILE NO.: 2010-2000(GST)I
+STYLE OF CAUSE: Giuseppe cappadoro v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: June 11, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: July 25, 2012
+APPEARANCES:
+Counsel for the appellant:
+Virginie Falardeau
+Counsel for the respondent:
+Daniel Cantin
+COUNSEL OF RECORD:
+For the appellant:
+Name: Virginie Falardeau
+Firm: Starnino Mostovac
+Montréal, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

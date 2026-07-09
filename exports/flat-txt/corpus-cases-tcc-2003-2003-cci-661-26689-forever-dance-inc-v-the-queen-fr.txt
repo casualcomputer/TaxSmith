@@ -1,0 +1,104 @@
+Title: Forever Dance Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26689/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-661-26689-forever-dance-inc-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-09-30
+
+# Forever Dance Inc. v. The Queen
+
+- Citation: 2003 CCI 661
+- Decision date: 2003-09-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3435, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Forever Dance Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-30
+Référence neutre
+2003 CCI 661
+Numéro de dossier
+2002-4619(GST)I
+Juges et Officiers taxateurs
+Michael J. Bonner
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002-4619(GST)I
+ENTRE :
+FOREVER DANCE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 août 2003 à Toronto (Ontario)
+Devant : L'honorable juge Michael J. Bonner
+Comparutions
+Représentante de l'appelante :
+Nina De Luca-Ford
+Avocat de l'intimée :
+Me A'Amer Ather
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise est accueilli avec dépens, le cas échéant, et la cotisation est déférée au ministre du Revenu national pour nouvelle cotisation en tenant compte du fait que la taxe, les pénalités et les intérêts n'étaient pas admissibles.
+Signé à Toronto (Ontario), ce 30e jour de septembre 2003.
+« Michael J. Bonner »
+Juge Bonner
+Traduction certifiée conforme
+ce 19e jour de mars 2004.
+Sylvie Sabourin, traductrice
+Référence : 2003CCI661
+Date : 20030930
+Dossier : 2002-4619(GST)I
+ENTRE :
+FOREVER DANCE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bonner
+[1] Le présent appel est interjeté à l'encontre d'une cotisation d'impôt et de pénalités établies en vertu de la partie IX de la Loi sur la taxe d'accise (la « Loi » ). La cotisation porte sur la période allant du 1er janvier 1999 au 31 décembre 2000.
+[2] Pendant la période en litige, l'appelante exploitait une école qui offrait des cours de danse aux étudiants. La cotisation faisant l'objet de l'appel est fondée sur l'hypothèse selon laquelle la fourniture desdits cours était une fourniture taxable. Le ministre a établi la cotisation de taxe à 14 932,44 $ pour la fourniture, a accordé un crédit de taxe sur les intrants et a imposé des pénalités et des intérêts.
+[3] Selon la position de l'appelante, la fourniture était une « fourniture exonérée » couverte par la définition de ce terme prévue par le paragraphe 123(1) de la Loi car c'était une des fournitures énumérées à l'annexe V de la Loi.
+[4] Une brève présentation des textes applicables pourrait s'avérer utile.
+(a) L'article 165 de la Loi impose une taxe sur les fournitures taxables.
+(b) L'expression fourniture taxable est définie au paragraphe 123(1) comme une fourniture effectuée dans le cadre d'une activité commerciale.
+(c) Activité commercialeest définie au paragraphe 123(1) comme une entreprise exploitée par une personne sauf dans la mesure où l'entreprise comporte la réalisation de fournitures exonérées.
+(d) Fourniture exonérée est définie au paragraphe 123(1) comme une fourniture figurant à l'annexe V.
+[5] L'appelante se fonde sur l'article 8 de la partie III de l'annexe V. L'article 8, sous sa forme applicable à la première partie de la période couverte par la cotisation est ainsi rédigé :
+La fourniture, sauf une fourniture détaxée, effectuée par une administration scolaire, une école de formation professionnelle, un collège public ou une université, d'un service consistant à donner à des particuliers des cours ou des examens qui mènent à quelque certificat, diplôme, permis ou acte semblable, ou à des classes ou des grades conférés par un permis, attestant la compétence de particuliers dans l'exercice d'un métier, si, selon le cas :
+a) l'acte, la classe ou le grade est visé par un règlement fédéral ou provincial;
+b) le fournisseur est soumis aux lois fédérales ou provinciales concernant les écoles de formation professionnelle;
+c) le fournisseur est un organisme à but non lucratif ou une institution publique.
+[6] L'article 8 qui a été modifié en 2001 est généralement applicable à des fournitures dont le paiement est devenu dû après le 4 octobre 2000. La nouvelle forme de l'article est ainsi rédigée :
+La fourniture, sauf une fourniture détaxée, effectuée par un gouvernement, une administration scolaire, une école de formation professionnelle, un collège public ou une université, d'un service consistant à donner à des particuliers des cours ou des examens qui mènent à des certificats, diplômes, permis ou documents semblables, ou à des classes ou des grades conférés par un permis, attestant la compétence de particuliers dans l'exercice d'un métier, sauf si le fournisseur a fait un choix en application du présent article en la forme déterminée par le ministre et contenant les renseignements requis par celui-ci.
+[...]
+a) aux fournitures dont la contrepartie devient due après le 4 octobre 2000 ou est payée après cette date sans être devenue due;
+b) aux fournitures dont la contrepartie, même partielle, devient due ou est payée avant le 5 octobre 2000, si aucun montant n'a été exigé ou perçu au titre de la taxe prévue par la partie IX [...] relativement à la fourniture avant cette date; toutefois, en ce qui concerne ces fournitures, il n'est pas tenu compte du passage « sauf si le fournisseur a fait un choix en application du présent article en la forme déterminée par le ministre et contenant les renseignements requis par celui-ci » à l'article 8 de la partie III de l'annexe V [...].
+[7] En l'espèce, le litige est centré sur la question de savoir si l'appelante exploitait une école de formation professionnelle. La définition anglaise de ce terme se trouve à l'article 1 de la partie III de l'annexe V et est libellée de la façon suivante :
+1. In this Part, ...
+"vocational school" means an organization that is established and operated primarily to provide students with correspondence courses, or instruction in courses, that develop or enhance students' occupational skills.
+La version française se lit ainsi :
+1. [Définitions] - Les définitions qui suivent s'appliquent à la présente partie.
+« école de formation professionnelle » Institution établie et administrée principalement pour offrir des cours par correspondance ou des cours de formation qui permettent à l'étudiant d'acquérir ou d'améliorer une compétence professionnelle.
+[8] Par conséquent, le litige est centré sur la question de savoir si la preuve montre que l'école de l'appelante était établie et administrée principalement pour fournir des cours de formation qui permettent à l'étudiant d'acquérir ou d'améliorer des compétences professionnelles.
+[9] Lors de l'audition de l'appel, un témoin, Brandie Bellavance, présidente de l'appelante, a témoigné. Elle a déclaré que les étudiants, lorsqu'ils s'inscrivent à l'école pour la première fois, ont entre trois et dix-huit ans. Ils sont dirigés vers des cours correspondant à leur âge et à leurs capacités. Le programme de l'école ne vise pas exclusivement l'amélioration des compétences des élèves en matière de danse. Il vise également à l'amélioration de leurs connaissances et compétences afin de leur fournir les qualifications nécessaires pour enseigner la danse. Les progrès des étudiants sont mesurés par rapport à des niveaux établis par la British Association of Teachers of Dance (l'Association). L'Association semble jouer le rôle d'une organisation de normes professionnelles. Lorsqu'ils atteignent seize ans, les étudiants deviennent admissibles à s'inscrire à un examen pour le certificat d'enseignement réservé aux étudiants délivré par l'Association. Pour devenir admissible, un candidat doit non seulement posséder des compétences en tant que danseur mais démontrer une connaissance des pas, des mouvements, de l'anatomie et de la façon de tenir compte des limites physiques des danseurs.
+[10] Après des études plus poussées et des progrès supplémentaires, les étudiants peuvent passer des examens en vue d'obtenir des certificats attestant de degrés de qualification croissants. Au niveau le plus élevé, l'étudiant reçoit un certificat d'enseignant remis par l'Association. Un nombre relativement peu élevé d'étudiants atteignent ce niveau. Cependant, ceux qui reçoivent des certificats aux niveaux moins élevés peuvent les utiliser pour prouver leurs compétences comme enseignant de danse. Mme Bellavance a indiqué que les parents de possibles étudiants en danse demandent généralement des preuves des qualifications des instructeurs et que les certificats émis par l'Association sont reconnus dans ces cas. Elle a souligné que l'école exploitée par l'appelante vise principalement à l'éducation d'enseignants. Elle a ajouté, pendant le contre-interrogatoire, que la formation à l'école constitue également une « amélioration » pour les danseurs professionnels.
+[11] L'avocat de l'intimée a centré ses observations sur l'objectif ou le but principal de l'école. Il a fait remarquer que pour correspondre à la définition législative d'école de formation professionnelle, l'organisation doit non seulement être établie mais également être exploitée principalement pour offrir des cours qui permettent aux étudiants d'acquérir ou d'améliorer des compétences professionnelles. L'avocat a continué en ajoutant que parce que la grande majorité des étudiants n'atteignent pas le plus haut niveau (certificat d'enseignant), l'exploitation de l'école vise principalement la majorité des étudiants qui, en fin de compte, se contentent de certificats de réussite à un niveau inférieur. Jusque là, je suis d'accord. Cependant, l'argument semblait assumer que les cours visant à la formation des étudiants qui recherchent des certificats de qualification à des niveaux inférieurs ne sont pas axés sur l'acquisition ou l'amélioration des compétences professionnelles. Je ne suis pas d'accord sur ce point. À mon avis, le libellé de la définition législative recouvre la fourniture de cours de formation qui améliorent les compétences professionnelles à tous les niveaux. Il découle clairement du témoignage de Mme Bellavance que l'école de l'appelante offre des cours de formation qui permettent aux enseignants éventuels de perfectionner leurs compétences professionnelles non seulement au niveau du « certificat d'enseignement » mais également à des niveaux inférieurs. Mme Bellavance a indiqué que les personnes qui possèdent un certificat à un niveau inférieur trouvent généralement un emploi d'instructeurs dans des programmes de danse exploités par des écoles et des organisations de parcs et loisirs communautaires. La cotisation semble donc avoir été fondée sur une mauvaise compréhension de la nature des cours offerts par l'appelante.
+[12] L'appel sera donc accueilli et la cotisation est déférée au ministre pour nouvelle cotisation en tenant compte du fait que la taxe, les pénalités et les intérêts n'étaient pas admissibles.
+Signé à Toronto (Ontario), ce 30e jour de septembre 2003.
+« Michael J. Bonner »
+Juge Bonner
+Traduction certifiée conforme
+ce 19e jour de mars 2004.
+Sylvie Sabourin, traductrice

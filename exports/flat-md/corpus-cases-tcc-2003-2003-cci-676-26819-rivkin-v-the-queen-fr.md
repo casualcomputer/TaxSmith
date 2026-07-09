@@ -1,0 +1,149 @@
+---
+title: "Rivkin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26819/index.do"
+last_modified: "2003-10-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 676"
+citation2: ""
+neutral_citation: "2003 CCI 676"
+decision_date: "2003-10-09"
+language: "fr"
+item_id: "26819"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 690
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:40:54.158000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "207bbfc24f30df61be387045ba7f7a80b85f7bfd0d60b6024308cda50ffb8202"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rivkin v. The Queen
+
+- Citation: 2003 CCI 676
+- Decision date: 2003-10-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 690, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rivkin v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-09
+Référence neutre
+2003 CCI 676
+Numéro de dossier
+2002-4743(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4743(IT)I
+ENTRE :
+RICHARD RIVKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 août 2003 à St. John's (Terre-Neuve)
+Devant : L'honorable juge B. Paris
+Comparutions :
+Représentant de l'appelant :
+Brian Brophy
+Avocate de l'intimée :
+Me Sue McKinney
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 9e jour d'octobre 2003.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 14e jour de juin 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI676
+Date : 20031009
+Dossier : 2002-4743(IT)I
+ENTRE :
+RICHARD RIVKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] L'appelant interjette appel à l'encontre de la cotisation établie pour son année d'imposition 2000 dans laquelle le ministre du Revenu national (le « ministre » ) a refusé sa demande de déduction de 9 740 $ relative à des dépenses engagées pour l'entretien de deux de ses enfants.
+[2] Les faits invoqués par le ministre pour établir une cotisation à l'égard de l'appelant ne sont pas en litige. Ils sont présentés de la façon suivante au paragraphe 11 de la Réponse à l'avis d'appel :
+[traduction]
+a) l'appelant et son ex-conjointe ont trois enfants : Joshua, né le 3 mai 1978, Lauren, née le 3 mai 1978 et Jacob, né le 29 juillet 1985;
+b) le 23 février 1989, l'appelant et son ex-conjointe ont conclu un accord de séparation volontaire et de règlement quant aux biens ( « l'accord » );
+c) l'accord a été conclu dans l'État du Maryland, aux États-Unis;
+d) de par l'accord, l'appelant était tenu de payer une pension alimentaire pour enfants de 175 $ (US) par enfant et par mois jusqu'à ce que chaque enfant atteigne l'âge de 18 ans ou devienne par ailleurs inadmissible;
+e) le montant mensuel de la pension était indexé chaque année sur l'indice des prix à la consommation;
+f) l'accord exigeait aussi que l'appelant et son ex-conjointe assument à parts égales le coût des études supérieures de premier cycle de chaque enfant;
+g) l'accord ne précisait pas que les paragraphes 56.1(2) et 60.1(2) de la Loi de l'impôt sur le revenu s'appliqueraient aux paiements versés par l'appelant pour les études supérieures de premier cycle des enfants;
+h) pendant l'année d'imposition 2000, l'appelant a versé à son ex-conjointe 5 831,69 $ (canadiens) pour subvenir aux besoins de Jacob;
+i) pendant l'année d'imposition 2000, l'appelant a payé au Colgate College des frais de scolarité d'un montant de 1 872,20 $ (canadiens) et un loyer à la Cooperative Collegiate Services (Mead Capital Properties, LLC) d'un montant de 2 522 $ (canadiens) pour les études supérieures de premier cycle de Joshua;
+j) pendant l'année d'imposition 2000, l'appelant a payé à la University of Maryland 4 663,76 $ (canadiens) pour les études supérieures de premier cycle de Lauren.
+[3] La question en l'espèce est la déductibilité des montants visés aux sous-alinéas i) et j) que l'appelant a versés comme frais d'études de Joshua et de Lauren. Cette question exige une décision préalable quant à savoir si l'accord de séparation (l' « accord » ) conclu entre l'appelant et son ex-conjointe prévoyait que les paragraphes 56.1(2) et 60.1(2) de la Loi de l'impôt sur le revenu (la « Loi » ) s'appliqueraient à ces paiements.
+[4] L'appelant a déclaré que lui et son ex-conjointe vivaient dans le Maryland, aux É.-U., lors de la rédaction de l'accord. Selon lui, en vertu du droit fiscal des É.-U., les versements de pension alimentaire ne sont ni déductibles pour le payeur, ni inclus dans le revenu du bénéficiaire, de sorte que l'accord ne fait aucune allusion à leur traitement fiscal. La quatrième partie de l'accord mentionne toutefois que son ex-conjointe a le droit de compter les enfants comme personnes à charge aux fins de l'impôt fédéral, de l'impôt de l'État et de l'impôt municipal.
+[5] L'appelant a déménagé à Terre-Neuve en 1991 et produit ses déclarations de revenus à titre de résident canadien depuis 1992. Lors d'une conversation avec un agent de Revenu Canada, on lui a indiqué que les versements de pension alimentaire étaient déductibles au Canada et on lui a recommandé de présenter une copie de l'accord avec sa déclaration de revenus, ce qu'il a fait. Il a présenté de nouveau l'accord à Revenu Canada en 1993 pour appuyer une demande de modification des retenues à la source.
+[6] En 1996, l'appelant a adressé à Revenu Canada une demande de renseignements par téléphone concernant la déductibilité des frais de scolarité payés au nom de ses enfants et on l'a informé qu'il pouvait déduire ces frais. En 2001, l'Agence des douanes et du revenu du Canada l'a prié de justifier sa demande relative aux déductions déclarées pour l'année d'imposition 2000 et après examen, la demande a été rejetée.
+[7] Les passages pertinents des paragraphes 56.1(2) et 60.1(2) de la Loi sont rédigées ainsi :
+Article 56.1
+(2) Entente. Pour l'application de l'article 56, du présent article et du paragraphe 118(5), le résultat du calcul suivant :
+A - B
+où :
+A représente le total des montants représentant chacun un montant [...] payable par une personne au cours d'une année d'imposition, aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit, au titre d'une dépense [...] engagée au cours de l'année [...] pour subvenir aux besoins d'un contribuable, d'enfants confiés à sa garde ou à la fois du contribuable et de ces enfants, [...] :
+[...]
+B [...] le total [...] :
+a) le total des montants représentant chacun un montant inclus dans le total calculé selon l'élément A relativement à l'acquisition ou à l'amélioration d'un établissement domestique autonome dans lequel le contribuable habite, [...]
+est réputé, lorsque l'ordonnance ou l'accord écrit prévoit que le présent paragraphe et le paragraphe 60.1(2) s'appliquent à un montant payé ou payable à leur titre, être un montant payable au contribuable et à recevoir par lui à titre d'allocation périodique, qu'il peut utiliser à sa discrétion.
+Article 60.1
+(2) Entente. Pour l'application de l'article 60, du présent article et du paragraphe 118(5), le résultat du calcul suivant :
+A - B
+où :
+A représente le total des montants représentant chacun un montant [...] payable par une personne au cours d'une année d'imposition, aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit, au titre d'une dépense [...] engagée au cours de l'année [...] pour subvenir aux besoins d'une personne [...] :
+[...]
+B [...] le total [...] :
+a) le total des montants représentant chacun un montant inclus dans le total calculé selon l'élément A relativement à l'acquisition ou à l'amélioration d'un établissement domestique autonome dans lequel la personne habite, [...]
+[...]
+est réputé, lorsque l'ordonnance ou l'accord écrit prévoit que le présent paragraphe et le paragraphe 56.1(2) s'appliquent à un montant payé ou payable à leur titre, être un montant payable par le contribuable à cette personne et à recevoir par celle-ci à titre d'allocation périodique, que cette personne peut utiliser à sa discrétion.
+[8] Le représentant de l'appelant a admis que l'accord ne prévoit pas l'application des paragraphes 56.1(2) ou 60.1(2) de la Loi aux paiements que l'appelant devait faire en vue de l'éducation de ses enfants. Cependant, il a soutenu qu'étant donné les circonstances particulières de l'affaire, le fait de permettre à l'appelant de déduire les montants n'enfreindrait pas la politique qui sous-tend ces dispositions particulières de la Loi. Selon le représentant de l'appelant, la référence contenue dans l'accord de séparation en l'espèce au sujet de l'ex-conjointe de l'appelant qui déclare les enfants à sa charge était la seule conséquence fiscale pertinente découlant de l'accord et par conséquent, l'accord respectait l'esprit des paragraphes 56.1(2) et 60.1(2) de la Loi.
+[9] Le représentant de l'appelant a aussi soutenu que le ministre était préclus de refuser les déductions, premièrement parce que Revenu Canada avait une copie de l'accord depuis 1992 et avait admis les déductions de l'appelant jusqu'en 1999, et deuxièmement parce que l'appelant avait été informé de la déductibilité des frais de scolarité. Après 1996, il n'était plus possible, à cause des changements survenus dans le traitement fiscal des versements de pension alimentaire, de modifier l'accord pour rendre les frais de scolarité déductibles en incluant une référence précise aux paragraphes 56.1(2) et 60.1(2) de la Loi.
+[10] Je m'occuperai d'abord de l'observation concernant la préclusion. Les tribunaux ont à maintes reprises soutenu que la préclusion ne peut être recevable dans les cas où l'assertion en question en est une de droit et non de fait. La question de savoir si les montants sont déductibles en vertu de la Loi est une question de droit et, par conséquent, les assertions en l'espèce ne pourraient empêcher le ministre d'établir une nouvelle cotisation conformément à la loi (voir Hawkes et al. c. La Reine, C.A.F., nos A-46-96, A-55-96, 23 décembre 1996 (97 D.T.C. 5060)). Le fait que le ministre ait permis les déductions pendant les années antérieures ne l'empêche pas d'adopter une position différente pour l'année visée. Il n'est pas lié par les évaluations précédentes (voir Schumaker v. The Queen, [2002] 3 C.T.C. 2206).
+[11] Je suis d'avis que le premier argument de l'appelant est également voué à l'échec. Plusieurs affaires récentes ont traité des paragraphes 56.1(2) et 60.1(2) de la Loi, ainsi que de la condition selon laquelle l'application de ces paragraphes à tout paiement devant être versé à un tiers doit être stipulée dans l'ordonnance ou dans l'accord. Le juge Mogan, de la Cour, a étudié ces affaires en profondeur dans la décision Carmichael et Sa Majesté la Reine, 2003 TCC 379. Il a souligné que la Cour d'appel fédérale avait adopté une approche plus flexible dans l'affaire Veilleux c. Canada, [2002] A.C.F. no 737, pour déterminer si la formulation d'un accord répondait à la condition des paragraphes 56.1(2) et 60.1(2) de la Loi, mais il ajoutait ceci :
+[traduction]
+Il y a cependant une limite à l'application de l'affaire Veilleux, parce que si elle ne contient pas de référence précise aux paragraphes 56.1(2) et 60.1(2), la convention alimentaire ou l'ordonnance du tribunal doit énoncer que les parties comprennent les conséquences fiscales qui découlent de certains paiements par l'une des parties. Autrement dit, il doit être apparent, d'après le libellé du document, que les deux parties comprennent que la partie payant un certain montant déduira ce montant dans le calcul de son revenu et que l'autre partie inclura ce même montant dans le calcul de son revenu. Voilà, après tout, l'effet pratique de la disposition « déterminative » des paragraphes 56.1(2) et 60.1(2) : « est réputé [...] être un montant payable [...] et à recevoir [...] à titre d'allocation périodique » . (l'italique est de moi)
+[12] Dans la présente espèce, les parties n'ont jamais songé à la question de la déductibilité ni à l'inclusion des frais de scolarité versés à des tiers dans le calcul de leur revenu, parce qu'il n'a jamais été prévu que l'accord entre en vigueur au Canada. Je ne conviens pas que l'appelant respecte l'esprit des dispositions législatives, comme l'a laissé entendre son représentant. Le fait que l'appelant et son ex-conjointe soient confrontés à des conséquences fiscales différentes de celles qu'aurait entraîné leur séparation aux États-Unis est sans rapport. L'accord visé en l'espèce ne prévoit nullement l'inclusion et la déduction des frais de scolarité payés par l'appelant et il n'y a aucune raison de permettre à l'appelant de déduire les montants en question.
+[13] L'appel est donc rejeté.
+Signé à Ottawa, Canada, ce 9e jour d'octobre 2003.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 14e jour de juin 2004.
+Nancy Bouchard, traductrice

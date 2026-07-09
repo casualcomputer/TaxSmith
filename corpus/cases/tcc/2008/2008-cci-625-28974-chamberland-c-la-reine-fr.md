@@ -1,0 +1,167 @@
+---
+title: "Chamberland c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28974/index.do"
+last_modified: "2008-11-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 625"
+citation2: ""
+neutral_citation: "2008 CCI 625"
+decision_date: "2008-11-21"
+language: "fr"
+item_id: "28974"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6784
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:10:54.875000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c178e1fb88d4f26ed866138f72db7010025c5e00c459e31c1a76fcb0a1f0dc57"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chamberland c. La Reine
+
+- Citation: 2008 CCI 625
+- Decision date: 2008-11-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6784, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chamberland c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-21
+Référence neutre
+2008 CCI 625
+Numéro de dossier
+2008-315(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-315(IT)I
+ENTRE :
+MATHIEU CHAMBERLAND,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 31 octobre 2008, à Montréal (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentant de l'appelant :
+Serge Cloutier
+Avocate de l'intimée :
+Me Annick Provencher
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 2002 et 2003 sont rejetés, selon les motifs du jugement ci-joints.
+Signé à Montréal (Québec), ce 21e jour de novembre 2008.
+« François Angers »
+Juge Angers
+Référence : 2008 CCI 625
+Date : 20081121
+Dossier : 2008-315(IT)I
+ENTRE :
+MATHIEU CHAMBERLAND,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] L’appelant interjette appel de deux cotisations établies par le ministre du Revenu national (le « Ministre ») en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour ses années d’imposition 2002 et 2003. Le ministre a établi à zéro la déduction demandée par l’appelant pour « autres dépenses d’emploi » dans le calcul de son revenu à l’égard de l’année d’imposition 2002, a refusé la perte nette d’entreprise déclarée par l’appelant à l’égard de l’année d’imposition 2003 et a révisé cette déclaration pour y ajouter un revenu net d’entreprise de 1 585 $. Le Ministre a également établi, à titre de pénalité pour faute lourde à l’égard des deux années en question, des sommes respectives de 1 107 $ et de 1 096,62 $ en vertu du paragraphe 163(2) de la Loi.
+[2] Dans sa déclaration de revenu pour l’année d’imposition 2002, l’appelant a déclaré du revenu d’emploi de 33 587,06 $ provenant de deux employeurs distincts, soit CNC Solstice Inc. pour 23 810,06 $ et Location Snap Shots Inc. (« Snap Shots ») pour 9 777 $. Il a également reçu 874 $ en prestations d’assurance-emploi. Les dépenses d’emploi déduites par l’appelant sont de 13 189 $ et se rapportent à l’emploi qu’il a occupé chez Snap Shots. L’appelant recevait de Snap Shots une indemnité de déplacement dont le calcul se faisait d’après un taux de 0,35 $ par kilomètre lorsqu’il devait se déplacer et il a reçu pour son année d’imposition 2002 une somme de 841,15 $ de Snap Shots pour ses déplacements.
+[3] Madame Carole Pitre de Snap Shots a fourni à l’appelant, pour les fins de sa déclaration de revenu, le formulaire T2200 dans lequel elle reconnaît lui avoir payé 0,35 $ par kilomètre et la somme de 841,15 $. Elle confirme également qu’en vertu de ses conditions d’emploi, l’appelant ne devait payer aucune autre dépense. Il ne s’agissait pas d’un emploi à temps plein mais d’un emploi régulier à raison d’une à deux prestations de travail par semaine. Tous les outils nécessaires pour accomplir son travail lui étaient fournis et, comme il s’agissait d’un travail qui s’effectuait en grande partie sur des plateaux de tournage cinématographique, il était nourri étant donné que les heures de travail étaient de l’ordre de cinq à treize heures par jour.
+[4] Le montant des dépenses d’emploi déduites par l’appelant est composé de frais juridiques et de frais comptables pour 546,37 $, de repas et de frais de représentation (4 950 x 50%) pour 2 475 $, de frais de déplacement pour 575 $, de frais de stationnement pour 120 $ et de dépenses relatives à son véhicule pour 9 473 $. L’appelant aurait parcouru 24 402 kilomètres dans le but de gagner un revenu sur un nombre total de 25 138 kilomètres.
+[5] Dans sa déclaration de revenu pour l’année d’imposition 2003, l’appelant a déclaré des revenus d’emploi de 22 381,96 $ de son employeur CNC Solstice Inc. et des prestations d’assurance-emploi de 4 543 $. Sous la rubrique « revenus d’entreprise », il a déduit une perte de 14 424,14 $. Son revenu brut d’entreprise était de 1 585 $ et ses dépenses d’entreprises étaient de 16 009,14 $ réparties comme suit :
+$
+achats net
+2 365,70
+assurances
+215,00
+entretien et réparation
+526,38
+frais de gestion et d’administration
+125,00
+repas et frais de représentation
+(4 950 $ x 50%)
+2 475,00
+dépenses relatives aux véhicules
+3 122,60
+frais de bureau
+235,44
+frais comptables, juridiques et autres
+546,37
+frais de voyage
+135,00
+téléphone (sic) et services publics
+928,65
+DPA
+5 334,00
+16 009,14
+[6] L’appelant a parcouru 25 236 kilomètres dans le but de gagner un revenu, ce qui correspond au nombre total de kilomètres parcourus pendant l’année 2003.
+[7] Toutes les dépenses déduites ont été refusées par le Ministre à la suite d’une vérification. Pour ce qui est des dépenses d’entreprise, elles furent refusées au motif que les dites dépenses n’ont pas été encourues pour gagner un revenu d’entreprise. Quant aux dépenses d’emploi, elles furent refusées au motif que l’appelant n’a pu démontrer que les dites dépenses d’emploi furent encourues pour gagner son revenu d’emploi. L’appelant n’a jamais fait parvenir les pièces justificatives ou quoi que ce soit au vérificateur sous prétexte qu’il conservait tout cela au chalet familial mais qu’il y avait eu un cambriolage. On lui aurait alors demandé en décembre 2005 de fournir une copie du rapport de police produit à la suite de ce cambriolage et il aurait alors affirmé au vérificateur que peu de choses avaient été volées et que le cambriolage n’avait pas été déclaré à la police ni aux assureurs.
+[8] L’appelant est armurier, foreur et dynamiteur de formation. Dans son témoignage, il a expliqué ne pas avoir pu présenter aucune pièce justificative au motif qu’il y aurait eu un dégât d’eau après Pâques 2004 au son sous-sol du chalet familial et qu’une mallette contenant des documents importants tels que son grand livre aurait disparu, lors d’un vol dans son garage le 7 mai 2004. Une liste des biens volés a été déposée. Quant au dégât d’eau au chalet familial, aucune demande d’indemnité n’a été soumise à l’assureur.
+[9] En 2002, l’appelant a décidé de lancer sa propre entreprise. Il a aussi déclaré avoir fait le tour de la province du Québec dans le but de visiter les clubs de chasse et de pêche et les magasins d’armes à feu pour offrir ses services. Il voulait établir un réseau de relations commerciales. Il a affirmé qu’il tenait un grand livre et un carnet pour ses rendez-vous. Il aurait remis des documents à son comptable Serge Cloutier pour la préparation de ses déclarations de revenus.
+[10] Il a reconnu ne pas conserver de registre pour son kilométrage et a témoigné que le kilométrage de 2002 n’avait pas été parcouru pour Snap Shots mais pour démarrer son entreprise, tout comme le kilométrage parcouru en 2003 alors qu’il n’était plus employé de Snap Shots.
+[11] L’appelant a déposé en preuve deux factures provenant de son comptable pour ses honoraires professionnels pour chacune des années en question. Il est intéressant de noter que les montants des honoraires sont identiques pour les deux années et qu’une partie des honoraires facturés se rapporte à la recherche de documents manquants, et ce, pour les deux années en question. Des documents manquaient donc avant le cambriolage du 7 mai 2004 puisque les factures sont datées du 14 avril 2003 et du 17 mars 2004.
+[12] Trois autres pièces ont été déposées dont deux se rapportent à du travail effectué par l’appelant pour Snap Shots en 2003 alors qu’il n’était plus un employé de cette entreprise. Ces factures totalisent 1 285 $ et font partie du montant de 1 585 $ déclaré par l’appelant à titre de revenu d’entreprise. L’appelant s’est vu remboursé ses frais de pagette et ses frais de voiture pour ses déplacements. La troisième facture représente un achat de 93,98 $ avant la taxe que l’appelant a fait chez Snap Shots et ferait partie des achats déclarés en 2003 de 2 365,70 $.
+[13] L’appelant a reconnu en contre-interrogatoire qu’il avait obtenu une certaine formation en tenue de livres lorsqu’il a suivi son cours d’armurier au cas où il devait décider de lancer sa propre entreprise. Il aurait d’ailleurs tenté l’expérience en 2001 mais a déclaré que ça n’avait pas marché. Aucun revenu d’entreprise n’a d’ailleurs été déclaré en 2001. Il a cependant déclaré un revenu d’entreprise de 6 590 $ en 2000 sans toutefois déduire aucune dépense, ce qu’il n’a pu expliquer. Parmi ses autres revenus de 2001, l’appelant a été à l’emploi de Snap Shots et de CNC Solstice Inc. et aucune dépense d’emploi n’a été déduite cette année-là.
+[14] Le contre-interrogatoire a permis à la Cour d’apprendre que l’appelant avait changé de comptable en 2002. Il a reconnu avoir payé beaucoup moins d’impôt que les années précédentes avec ce nouveau comptable. En fait, ses remboursements étaient presque 20 fois plus élevés, ce qui l’a amené à admettre qu’il était content du résultat. Il a reconnu également que son travail chez CNC Solstice était régulier et qu’il accumulait en moyenne 40 heures par semaine.
+[15] Questionné sur le kilométrage parcouru en 2002 pour gagner un revenu par rapport au kilométrage total parcouru dans l’année ainsi que sur le kilométrage de 2003 qui est identique, l’appelant a reconnu qu’il était presque impossible que ces kilométrages soient identiques. Il n’a pas soulevé cette question avec son comptable. Il a également témoigné qu’il avait plus d’une voiture et qu’il en aurait utilisé une autre, surtout à la fin de 2003 lorsqu’il est retourné à l’école. Il n’a pas pu expliquer non plus comment il se faisait que ses frais de représentation et de repas étaient identiques, soit 4 950 $ pour les deux années d’imposition en question.
+[16] Il s’agit donc de déterminer si le Ministre a correctement révisé le revenu net d’entreprise de l’appelant pour l’établir à 1 585 $ et, par le fait même, refusé la totalité des dépenses d’entreprise déduits par l’appelant pour l’année d’imposition 2003 et si le Ministre a correctement révisé à zéro la déduction pour « dépenses d’emploi » dans le calcul du revenu de l’appelant à l’égard de l’année d’imposition 2002. Pour les deux années d’imposition, il faut aussi déterminer si le Ministre était justifié d’imposer une pénalité pour faute lourde en vertu du paragraphe 163(2).
+[17] Au début de sa plaidoirie et durant l’audition de la cause, le représentant de l’appelant a reconnu que, pour l’année d’imposition 2002, son bureau avait commis une erreur en déduisant des dépenses d’emploi. Il a soutenu toutefois que l’appelant avait encouru ces dépenses dans le but de démarrer son entreprise d’armurier et qu’elles ont été effectuées en vue de tirer un revenu d’entreprise, tout comme celles de 2003. Sur ce dernier point, je dois dire qu’il est déjà assez étonnant de constater qu’une telle erreur ait pu être commise, mais il est davantage étonnant de constater que l’on ne s’en est rendu compte qu’à l’audition de la cause. De toute évidence, il ne peut s’agir de dépenses d’emploi. Il est peu probable que l’appelant ait encouru autant de dépenses pour une entreprise qui n’a pas rapporté un seul sou de revenu.
+[18] Je ne peux ignorer le fait que l’appelant a été incapable de produire une seule pièce justificative pour étayer ses dépenses, tant à l’étape de la vérification que du procès devant la Cour. Les nombreuses contradictions dans son témoignage et les différentes versions de faits ne pouvaient que miner toute crédibilité qu’il puisse avoir. Il faut se rappeler qu’au moment de la vérification, il n’a jamais mentionné la perte de documents causée par un dégât d’eau au sous-sol du chalet familial. Il s’est contenté de parler, lors d’une conversation avec le vérificateur le 19 décembre 2005, d’un cambriolage afin d’expliquer pourquoi il n’avait pas toutes ses pièces justificatives qui étaient dans des boîtes au chalet. Au procès, il a fait référence à un dégât d’eau survenu au chalet après Pâques 2004 et à un cambriolage survenu le 17 mai 2004 pour expliquer l’absence de pièces justificatives. À mon avis, la question des pièces justificatives manquantes remonte à une période antérieure au cambriolage et au dégât d’eau puisque le comptable de l’appelant a facturé à ce dernier le 14 avril 2003 et le 17 mars 2004 des honoraires pour du temps consacré à demander des documents manquants dans le cadre de la préparation des déclarations de revenus de l’appelant pour les années 2002 et 2003. C’est à se demander si l’appelant possédait réellement de tels documents.
+[19] L’appelant a reconnu avoir bénéficié d’une formation en tenue de livre lors de son cours d’armurier au cas où il voudrait démarrer son entreprise. Quoique le contenu du cours n’ait pas été décrit en détail, il est assez étonnant de constater que l’appelant n’ait pas cru nécessaire de tenir un registre de ses déplacements et surtout de son kilométrage d’affaires par rapport à son kilométrage personnel. Ce n’est qu’une fois questionné sur le kilométrage déclaré dans ses déclarations de revenu qu’il a révélé qu’il possédait plus d’une voiture et qu’il roulait près de cinquante mille kilomètres par année. Il doublait ainsi le kilométrage annuel qu’il avait indiqué dans ses déclarations de revenus.
+[20] Il y a aussi le fait que l’appelant occupait des emplois en 2002 qui devaient sans doute restreindre sa disponibilité à exploiter une entreprise, rendant ainsi invraisemblable sa prétention qu’il aurait fait le tour du Québec pour se faire connaître et visiter les clubs de chasse et pêche. Un tel déploiement d’énergie, à mon avis, aurait dû générer au moins quelques dollars de revenu en deux ans. Il est vrai qu’en 2003, il a généré un revenu d’environ 1 500 $, mais les seules factures produites proviennent de son ancien employeur qui l’avait congédié en 2002 en tant qu’employé et qui, en 2003, avait fait appel à ses services au besoin. De plus, des factures indiquent clairement que ses dépenses d’automobile et de pagette lui étaient remboursées et qu’il était nourri lorsqu’il était présent sur les plateaux de tournage.
+[21] Il est à se demander comment il se fait que l’appelant ait pu dépenser exactement le même montant en frais de représentation et de repas pour les deux années en question. Il a été incapable d’expliquer ce fait ou de fournir des explications à ce sujet. L’appelant a été incapable de s’acquitter du fardeau de la preuve et d’établir par prépondérance des probabilités qu’il avait le droit de déduire des dépenses d’emploi ou d’entreprise pour son année d’imposition 2002 et des dépenses d’entreprise pour son année d’imposition 2003.
+[22] Pour ce qui est de la pénalité imposée en vertu du paragraphe 163(2) de la Loi, ce fardeau repose sur le Ministre d’établir les faits qui justifient son imposition. Le Ministre est justifié d’imposer une telle pénalité lorsqu’il réussit à établir qu’un contribuable a sciemment, ou dans des circonstances équivalentes à faute lourde, fait un faux énoncé ou une omission dans une déclaration pour une année d’imposition, ou y a participé, y a consenti ou y a acquiescé.
+[23] Dans la décision Lucien Venne c. Sa Majesté la Reine, 84 D.T.C. 6247, le juge Strayer a interprété la notion de faute lourde comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui correspond à une action délibérée, une indifférence au respect de la Loi.
+[24] La Cour d’appel fédérale est allée jusqu’à dire, dans l’arrêt Villeneuve c. Canada, 2004 D.T.C. 6077, que la notion de faute lourde peut découler d’un aveuglement volontaire de son auteur.
+[25] En l’espèce, l’appelant n’était pas sans se rendre compte que ses déclarations de revenu pour les années en question lui rapportaient un remboursement d’impôt assez considérable comparativement aux années antérieures et plus particulièrement l’année 2002 où il a travaillé à salaire durant presque toute l’année. Le fait de ne pas poser de questions sur ce changement soudain au moment de signer ses déclarations de revenus démontre son indifférence au respect des lois et à son obligation de s’assurer de fournir des renseignements exacts et complets. Le seul fait de déduire des dépenses d’emploi en 2002 en sachant bien qu’elles n’ont pas été encourues pour son employeur Snap Shots constitue un faux énoncé attribuable à plus qu’un simple défaut de prudence raisonnable.
+[26] À mon avis, l’appelant a fait preuve d’indifférence en ce qui concerne la question du kilométrage parcouru afin de gagner un revenu par rapport à son kilométrage total étant donné qu’il relevait de l’invraisemblance. De même, le fait que les frais de repas et de représentation déduits pendant les deux années en question étaient identiques aurait également dû attirer son attention. Somme toute, l’appelant a voulu profiter de cette nouvelle façon de réduire ses impôts et il n’a pas cru bon de poser des questions au sujet du contenu de sa déclaration de revenus, se soustrayant ainsi à toute responsabilité à l’égard de ses obligations que lui reconnaît la Loi. L’intimé a donc établi le fardeau de preuve qui lui incombe et les pénalités sont maintenues.
+[27] Les appels sont rejetés.
+Signé à Montréal (Québec), ce 21e jour de novembre 2008.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2008 CCI 625
+Nº DU DOSSIER DE LA COUR : 2008-315(IT)I
+INTITULÉ DE LA CAUSE : Mathieu Chamberland v. SMLR
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 31 octobre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 21 novembre 2008
+COMPARUTIONS :
+Représentant de l'appelant :
+Serge Cloutier
+Avocate de l'intimée :
+Me Annick Provencher
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

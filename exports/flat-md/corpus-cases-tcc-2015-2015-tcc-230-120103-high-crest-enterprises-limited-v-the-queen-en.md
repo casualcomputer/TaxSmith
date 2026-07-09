@@ -1,0 +1,355 @@
+---
+title: "High-Crest Enterprises Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/120103/index.do"
+last_modified: "2015-09-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 230"
+citation2: ""
+neutral_citation: "2015 TCC 230"
+decision_date: "2015-09-30"
+language: "en"
+item_id: "120103"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2715
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:10:43.250000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ca49c48bfa73e5e0f6b2606668eadd2f2b170db960f7cfa15d10c9a36447e33b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# High-Crest Enterprises Limited v. The Queen
+
+- Citation: 2015 TCC 230
+- Decision date: 2015-09-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2715, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+High-Crest Enterprises Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-09-30
+Neutral citation
+2015 TCC 230
+File numbers
+2012-3027(GST)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-3027(GST)G
+BETWEEN:
+HIGH-CREST ENTERPRISES LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 26, 2014, at Halifax, Nova Scotia
+Before: The Honourable Justice Gaston Jorré
+Judgment rendered by The Honourable Justice John R. Owen
+Appearances:
+Counsel for the Appellant:
+Maurice P. Chiasson, Q.C.
+Counsel for the Respondent:
+Jan Jensen
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the assessment made under Part IX of the Excise Tax Act for the reporting period from January 1, 2010 to March 31, 2010, notice of which is dated July 16, 2010, is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 30th day of September 2015.
+“J.R. Owen”
+Owen J.
+Citation: 2015 TCC 230
+Date: 20150930
+Docket: 2012-3027(GST)G
+BETWEEN:
+HIGH-CREST ENTERPRISES LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Owen J.
+I. Introduction [1] These reasons address an appeal by High-Crest Enterprises Limited (“High-Crest”) from an assessment (the “Assessment”) under the Excise Tax Act, R.S.C. 1985, c. E-15 (the “ETA”), by notice of assessment dated July 16, 2010, for the reporting period from January 1, 2010 to March 31, 2010 (the “Period”). This appeal was originally heard by Justice Jorré of this Court. With the consent of both parties, the matter is to be decided by me on the basis of the transcript and the record.
+[2] The Assessment imposed harmonized sales tax (“HST”) on High-Crest in respect of a 20-bed addition to a long-term care facility owned by High-Crest and located in Springhill, Nova Scotia. The Assessment calculates the HST by applying section 191.1 of the ETA to the taxable supply (the “self-supply”) deemed to have been made and received by High-Crest in the Period by virtue of subsection 191(4) of the ETA.
+[3] High-Crest says that the HST on the self-supply should have been calculated using the fair market value rule in subsection 191(4) of the ETA and not the rule in section 191.1 of the ETA. The fair market value of the addition and the amount of tax payable under subsection 191(4) of the ETA are not in dispute and the only issue in this appeal is whether the rule in section 191.1 applies to the self-supply.
+[4] Mr. Shannon Stephenson testified on behalf of High-Crest. Mr. Stephenson is the president of High-Crest, a position he has held since 1994.
+II. Facts A. Background [5] High-Crest is a for-profit corporation that owns and operates five long-term senior care facilities in the province of Nova Scotia. Two of the facilities are nursing homes and three are residential care facilities. The facility in Springhill, Nova Scotia (the “Facility”) is one of the two nursing homes.
+[6] The Facility was built in 1993, and prior to the completion of the 20-bed addition described next, housed a total of 56 beds, including one respite bed. Ten of the 55 full-time beds are occupied by individuals under the purview of Veterans Affairs Canada and the remaining 45 full-time beds and the respite bed are occupied by individuals under the purview of the Nova Scotia Department of Health (the “Department”).
+B. The Request for Proposals [7] In March, 2007, the Continuing Care Branch of the Department issued a request for proposals (the “RFP”)[1] to “select an organization or organizations to provide the facilities and services required to support 594 Level II Nursing Home beds and 210 Residential Care Facility (RCF) beds throughout the Province.”[2] Section 1.2 of the RFP, titled “Background”, states in part:
+In May 2006, the Nova Scotia government approved the Continuing Care Strategy for Nova Scotia - Shaping the Future of Continuing Care. In the Strategy, the Government has committed to build new long-term care homes to support the vision of living well in a place you can call home. The Long Term Care Program Requirements and the Space and Design Requirements documents complement one another and were created to provide direction for the development of these new long term care facilities from the perspectives of care and service, as well as physical environment.
+. . .
+We are moving towards the creation of vibrant, nurturing environments for the elderly that support the elimination of loneliness, helplessness, and boredom. The emphasis is on small living areas with residential features such as private bedroom and bath, a living room with a central fireplace, an adjacent open kitchen and dining area, and short halls to the living and dining areas. The emphasis is on organizing care and activities around the resident and not on the institutional schedule . . . .
+[8] The RFP referenced several appendices that were issued in final form on July 25, 2007. Appendix B[3] and Appendix C,[4] titled Long Term Care Facility Requirements and Long Term Care Facility Program Requirements respectively, described in great detail the physical and operational requirements of the new long-term care facilities. Section 3.0 of Appendix B states:
+The Service Provider is being engaged to provide care services to the residents. This document sets out minimum Facility Requirements. It is not intended to be a complete inventory. It is the Service Provider’s responsibility to ensure that the necessary space, equipment and furnishings are available to provide the contracted service.
+[9] Section 2.3.4 of the RFP states that the RFP will lead to the establishment of two agreements with each successful bidder: a Development Agreement and a Service Agreement. The agreements were not attached to the original RFP, but were released in final form on July 25, 2007 as Appendix E1 and Appendix E2 to the RFP.[5]
+[10] According to section 2.3.4 of the RFP, the Development Agreement covers the period of design and construction of the new facility, and the annually renewable Service Agreement has a term of 25 years and addresses the operation of the facility. The successful bidder is identified in each of the agreements as the “Service Provider.”
+[11] Section 3.2.2 of the RFP states that the “financial proposal requirements will be released to Suppliers in draft on June 13, 2007 and in final form on July 25, 2007.”
+[12] Mr. Stephenson explained that the financial compensation to a Service Provider was in the form of a per diem rate that could be charged for the occupancy of a bed supplied in accordance with the RFP. The calculation of the per diem rate is reviewed below in the description of the Service Agreement. In addition to the per diem rate, a Service Provider would also receive an annual payment called a Capital Renewal Reserve.
+[13] High-Crest responded to the RFP with a proposal for a 20-bed addition to the Facility (the “Addition”) that would meet level II nursing home requirements. The proposal was accepted by the Department by a letter dated January 7, 2008.[6] An attachment to the letter (the “Per Diem Attachment”) explained the components of the per diem rate of $264.47 that High-Crest could charge for the occupancy of a bed in the Addition. By a letter dated January 15, 2008,[7] High-Crest accepted this per diem rate and stated that the 20 beds would be built as per the Facility Requirements in Appendix B of the RFP.
+C. The Development Agreement [14] In February 2009, High-Crest entered into the Development Agreement with the Province of Nova Scotia as represented by the Minister of Health.[8] Section 2.1 of the Development Agreement required High-Crest to build the Addition in accordance with the agreement, its attachments and applicable law and to operate and provide services[9] for the 20 beds in the Addition pursuant to the terms of the Service Agreement.
+[15] Section 2.3 of the Development Agreement required High-Crest to obtain mortgage financing in accordance with Schedule “A” at the rate fixed by the Nova Scotia Housing Development Corporation (“NSHDC”) as of August 1, 2007, which was 5.12% per annum. A spreadsheet attached to the draft Development Agreement identifies a capital base for the financing of $5,532,842 (which included $620,775 of HST at 13%), a term of 300 months and an interest rate of 5.12% per annum. The spreadsheet also identifies a Capital Renewal Reserve payable to High-Crest by the Department of $62,700 per annum.
+[16] Mr. Stephenson explained that High-Crest was not required to obtain financing from any particular source as long as the financing was at the approved interest rate for 25 years. Notwithstanding this, High-Crest obtained the financing to fund the cost of the Addition from NSHDC, and it was secured by a first mortgage on the Facility.
+[17] According to the Approved Budget issued by the Department effective January 29, 2010 (the “2010 Budget”), the mortgage with NSHDC had a term of 300 months and a principal amount of $5,533,250.[10] The annual payments on the mortgage were $395,938. As will be seen, this annual cost was factored into the determination of the per diem rate.
+[18] In addition to funding the construction of the Addition, the financing provided by NSHDC was used to discharge a total of $2,027,926.33 owed by High-Crest to the Toronto Dominion Bank and to pay to NSHDC an amount of $40,992.90 that Mr. Stephenson testified had previously been advanced to High-Crest by NSHDC.[11]
+[19] Article 4 of the Development Agreement describes High-Crest’s obligations in respect of the Service Agreement. Section 4.1 required High-Crest to execute the Service Agreement substantially in the form of the agreement to be provided by the Minister of Health. The Service Agreement (and any replacement service agreement) was to include an express continuing obligation on the Minister of Health to provide an Approved Budget and funding conditions. As well, the agreement had to include an express continuing obligation on High-Crest to operate the Facility and provide services to the residents of the Facility.
+[20] The funding conditions are described in section 4.2 of the Development Agreement as follows:
+4.2 Funding Conditions
+(a) The Minister will confirm the Approved Budget for the Service Provider in accordance with the Service Provider proposal in Schedule “B”, subject to:
+(i) an executed Service Agreement; and
+(ii) the issuance of a License to the Service Provider pursuant to Section 3.3.
+(b) Upon the conditions of Section 4.2(a) being met, the Service Provider shall receive Annual Funding from the Minister and may levy the Authorized Accommodation Charge. In the event the Service Provider meets the requirements of Section 4.2(a) (i) and (ii) prior to the Occupancy Date, the Service Provider shall be entitled to receive the Annual Funding and levy the Authorized Accommodation Charge at the earlier date.
+(c) In the event the Service Provider receives an extended Occupancy Date pursuant to Section 2.4(f), the Minister agrees to commence the Annual Funding on the Occupancy Date. For greater certainty, this section only comes into effect where the Occupancy Date delay is equal to the number of days the Minister exceeded the Response Timelines.
+Authorized accommodation charge is defined in the Development Agreement to mean the “portion of the Accommodation Charge for long term care that a Resident is approved to pay in accordance with the Resident Charge Policy of the Policy Manual”. Approved Budget is defined in the Development Agreement to mean the “total combined budget for the Protected and Unprotected Envelopes”. These terms and others relevant to the funding and operation of the Addition are addressed in the review of the Service Agreement below.
+D. The Service Agreement [21] High-Crest and the Minister of Health executed the Service Agreement on February 24, 2009. The copy of the agreement and its attachments entered into evidence is 335 pages long.[12]
+[22] Section 1.1 of the Service Agreement includes the following definitions which are important to understanding the agreement:
+“Annual Funding” is the total funding available to the Service Provider during each annual Term of this Agreement and is provided through the Protected Envelope, the Unprotected Envelope and the Capital Renewal Reserve;
+“Approved Budget” means the combined total budget for the Protected and Unprotected Envelopes;
+“Capital Renewal Reserve” is the reserve received and invested by the Service Provider to support each Facility in the replacement of a Facility Component once the Theoretical Life of that Facility Component, as defined in the policy, has been reached in accordance with the process and definitions contained in Schedule “F”;
+“Occupancy” means the admission of the first Person as a Resident of the Facility and the commencement of the delivery of Services;
+“Protected Envelope” means the portion of the Approved Budget for Health Care Costs and Raw Food Costs that is funded at approved rates prescribed by the Department of Health and in accordance with Schedule “D”;
+“Services” includes accommodation; programs; dietary; goods; social work services; physical, and occupational therapy; and personal and skilled nursing care;
+“Unprotected Envelope” means the portion of the Approved Budget for Facility and Accommodation Services Costs that is funded at a non-prescribed rate and in accordance with Schedule “E”.
+[23] Section 2.1 of the Service Agreement requires High-Crest to operate 20 nursing home beds at the Facility and to operate the Facility and provide the Services at the Facility.
+[24] Section 3.1 of the Service Agreement states that the Minister of Health shall determine an Approved Budget for High-Crest, which is subject to adjustment from time to time in accordance with the terms of the agreement. Section 3.2 states that the Approved Budget will determine the Annual Funding available to High-Crest. Annual Funding is the total compensation available to High-Crest under the Service Agreement and, for the Addition, is comprised of the per diem rate that High-Crest could charge for a bed in the Addition and the annual Capital Renewal Reserve.
+[25] The per diem rate is based on the Approved Budget, which is in turn comprised of the budgets determined by the Department for the Protected Envelope and the Unprotected Envelope.
+[26] Generally speaking, the Department pays at least two-thirds of the per diem rate to High-Crest. The balance, if any, of the per diem rate is paid by the occupant of the bed. The amount paid by the occupant is determined by the Department in accordance with the Resident Charge Policy, which is part of the Department’s Long Term Care Policy Manual attached to the Service Agreement as part of Schedule C thereto. The Resident Charge Policy is reviewed under the next heading.
+[27] The rules for determining the budget for the Protected Envelope services are set out in the Protected Envelope Funding Policy attached as Schedule D to the Service Agreement. In general terms, the budget for the Protected Envelope services is made up of two components.
+[28] The first component is the cost of the raw food required to feed the occupants of the Addition. The second component is the salaries, benefits and operational costs related to the provision of professional health care to the occupants of the Addition. Professional health care includes professional nursing, continuing care by continuing care assistants and program support by dieticians, physiotherapists and occupational therapists.[13]
+[29] In determining the budget for the Protected Envelope the Department uses prescribed rates to determine the cost of the services that fall under that envelope.
+[30] The budget for the Protected Envelope is translated into a per diem rate per bed based on an assumed occupancy rate. If the per diem rate established for the Protected Envelope services proves too high, High-Crest is required repay any surplus it has already received. If the rate proves too low, High-Crest is required to bear the excess cost.[14]
+[31] The rules for determining the budget for the Unprotected Envelope services are set out in the Unprotected Envelope Funding Policy attached as Schedule E to the Service Agreement.
+[32] In general terms, the budget for the Unprotected Envelope services is comprised of two components. The first component is the $395,938 of principal and interest payable each year by High-Crest to NSHDC.
+[33] The second component is called the Accommodation Services Costs, which are defined as the salaries, benefits and operational costs of administering, maintaining and managing the Addition and of providing all dietary, laundry and housekeeping services to the occupants of the Addition.[15] The dietary services do not include the cost of raw food, which is included under the budget for the Protected Envelope.
+[34] Section 4.2(1) of the Service Agreement fixed the per diem rate for the Unprotected Envelope at $113.03, which is $0.14 lower than the per diem stated in the Per Diem Attachment. The Per Diem Attachment indicates that the annual payments of principal and interest to NSHDC accounted for $54.64 of the original per diem of $113.17. The balance of $58.53 was for the Accommodation Services Costs.
+[35] In determining the budget for the Unprotected Envelope, the Department uses non-prescribed rates to determine the cost of the services that fall under that envelope.
+[36] The budget for the Unprotected Envelope is translated into a per diem rate per bed based on the assumed occupancy rate. If the per diem rate established for the Unprotected Envelope proves too high, High-Crest is entitled to retain any surplus. If the rate proves too low, High-Crest is required to bear the excess cost.[16]
+[37] The entitlement to keep any surplus provided High-Crest with an opportunity to profit from the provision of the services falling under the Unprotected Envelope. As the annual cost of the mortgage financing was fixed, any profit would result from the efficient provision of the services described in the definition of Accommodation Services Costs.
+[38] Under section 5.2 of the Service Agreement, the Capital Renewal Reserve is payable in accordance with the Capital Renewal Reserve Policy, which is attached to the agreement as Schedule F. This annual funding had to be used by High-Crest to replace Facility Components that had failed or were about to fail.[17] Facility Component is defined in section 3.0 of the Policy as “a component that is normally capitalized as part of the original construction or generally used to provide service for more than one year”. High-Crest is not required to repay any amount received as a Capital Renewal Reserve payment even if the Service Agreement expires or is terminated.[18]
+E. Funding Provided by the Department to Residents [39] The funding provided by the Department to occupants of a long-term care facility such as a nursing home is explained in detail in the Resident Charge Policy. The document identifies three categories of long-term care facility: nursing homes, residential care facilities and community-based options. The Facility is in the nursing home category.
+[40] The Resident Charge Policy breaks down the cost of staying at a long-term health care facility into two components: the health care costs and the accommodation costs. Although different terminology is used than in the Service Agreement, it appears that the health care costs are those costs falling under the Protected Envelope and the accommodation costs are those costs falling under the Unprotected Envelope.[19]
+[41] The Resident Charge Policy states that, subject to limited exceptions, the Department funds the health care costs and the individual occupying a bed in the facility assumes the accommodation costs.[20] However, the occupant may be entitled to a subsidy from the Department to cover part or all of his or her accommodation costs. As well, the maximum amount payable by the occupant is not based on the actual accommodation costs of the facility but on an average of the accommodation costs of all facilities in the province that are in the same category. In the case of the Facility, the average accommodation costs are lower than the actual accommodation costs.
+[42] To determine the average accommodation costs, the Department first reviews the detailed budget of each long-term health care facility in the province and sets a per diem rate for a bed in each facility sufficient to cover the health care costs and the accommodation costs of the facility. In the case of High-Crest, the per diem rate for a bed in the Addition was initially set at $264.47, but this rate was amended to $286.41 by the 2010 Budget issued at the time the beds in the Addition were first occupied in January 2010.
+[43] The Department then determines the average of the accommodation costs for each of the three categories of facility. This average is used to determine what is called a Standard Accommodation Charge for each category of facility. Effective November 1, 2008, the Standard Accommodation Charge for a bed in a nursing home was $86.50 per day.[21] The Standard Accommodation Charge is amended on November 1 of each year.[22]
+[44] According to the Resident Charge Policy, all individuals requesting admission to a long-term care facility in Nova Scotia must apply to the Department.[23] An individual who is accepted in a long-term care facility but does not seek financial assistance from the Department is required to pay to the facility the Standard Accommodation Charge for that category of facility.
+[45] An individual who obtains financial assistance from the Department is required to pay to the facility the Standard Accommodation Charge less the amount of the assistance given to that individual by the Department. The Department pays the balance directly to the facility. The amount paid by the occupant is referred to as the authorized accommodation charge. This appears to mirror the authorized accommodation charge defined in the Development Agreement.
+F. The Payments to High-Crest [46] The 2010 Budget fixed the annual Unprotected Envelope costs and the annual Protected Envelope costs for the Addition at $855,620 and $1,218,596 respectively, yielding an approved budget for the Addition of $2,074,216 for the year. The budget for the Unprotected Envelope includes the payment of $395,938 of principal and interest to NSHDC.
+[47] The 2010 Budget uses an assumed occupancy rate of 99.2% to arrive at a per diem rate for the occupancy of a bed in the Addition of $286.41. This per diem rate was averaged with the per diem that High-Crest could charge for beds in the rest of the Facility that are funded by the Department ($207.41) to produce an average per diem rate for a bed in the Facility of $229.23.
+[48] Mr. Stephenson testified that the Department makes biweekly payments to High-Crest based on the per diem per bed less the amount that High-Crest is expected to recover from the occupants of the Facility as accommodation charges.[24] The biweekly payments are adjusted quarterly to reflect High-Crest’s actual experience.[25]
+[49] Leaving aside special cases, the Department pays to High-Crest the following amounts:
+• the health care component of the per diem;
+• for each occupant who is subsidized, the subsidized portion of the Standard Accommodation Charge; and
+• the portion of the per diem that represents the difference between the actual accommodation costs budgeted for the beds in the Addition and the Standard Accommodation Charge for a nursing home bed.
+[50] The occupant pays to High-Crest the Standard Accommodation Charge less any subsidy provided to the occupant by the Department.
+[51] The payment of the authorized accommodation charge by the occupant is provided for in a standard contract between High-Crest and the occupant.[26] Section 2.05 of the contract states:
+The Resident and the Guarantor jointly agrees [sic] to pay the daily accommodation charge in an amount that may be determined by the Department of Health from time to time.
+[52] In addition to the per diem, the Department pays High-Crest the Capital Renewal Reserve, which was set at $62,700 per year.
+G. Other Facts [53] High-Crest retained an architect and a contractor to design and build the Addition in accordance with the specifications set out in the RFP and the Development Agreement. The Addition was substantially completed in January 2010 and seniors began to occupy the units in the Addition during that month.
+[54] The Facility employs approximately 110 individuals, who work throughout the Facility. The occupants of the Facility are almost all over 65 years of age. All of the occupants require nursing care but the degree of care varies from individual to individual.
+[55] The Department licenses High-Crest, on an annual basis, to operate the Facility. High-Crest must have a licence to operate the Facility and in order to receive payments from the Department.
+H. Position of the Appellant [56] High-Crest submits that in order for the payments by the Department in respect of the 20-bed addition to be “government funding” as defined in subsection 191.1(1) of the ETA, the amounts must have been paid or payable for the sole purpose of making residential units in the Addition available to seniors. High-Crest admits that the beds in the Addition were residential units made available to seniors, but submits that the predominant character of the supply by High-Crest is the provision of the Services under the Service Agreement and that accommodation is an ancillary component of the Services provided as consideration for the payments.
+[57] High-Crest submits that section 2.1 of the Service Agreement and paragraph 3.0 of Appendix B to the RFP confirm that High-Crest was being retained to provide the Services and that it was High-Crest’s responsibility to ensure that it had a suitable facility to provide the Services. The Addition had not been built at the time the RFP was issued, and once High-Crest was approved as a service provider by the Department High-Crest had to retain an architect and a contractor to construct the Addition at its own cost. To finance the construction, High-Crest had to obtain mortgage financing from NSHDC. Only High-Crest was at risk for these costs.
+[58] High-Crest notes that the RFP required High-Crest to enter into the Development Agreement, covering the period during which the Addition was constructed, and the Service Agreement, covering the period during which the Addition was to be operated. The Development Agreement did not provide for any payments to High-Crest. Only the Service Agreement provided for payments to High-Crest. Although the Service Agreement had an initial 25-year term, a condition of the agreement was the existence of a licence issued by the Department, which was renewable annually. High-Crest’s entitlement to payment was therefore year to year, as the Services were provided under the authority of the annual licence.
+[59] High-Crest submits that section 191.1 of the ETA was not intended to apply to a situation where the grantor is paying a consideration for the supply of something, in this case, the Services. The underlying theme of the section is that the grantor is providing a benefit of sorts to the builder. Here there is no benefit, only a quid pro quo.
+[60] The absence of a benefit is made clear when the various elements of the per diem are examined. The Department pays the health care costs, as it is required to do with all residents in the province. These payments do not benefit High-Crest as it provides the health care services in exchange for the payments. The accommodation charges are funded to varying degrees by the Department but again High-Crest provides the accommodation services in exchange for these payments. Any subsidy with respect to the accommodation charge is a subsidy of the occupant and not High-Crest. Finally, the Capital Renewal Reserve is paid to ensure that High-Crest can continue to provide the Services.
+I. The Position of the Respondent [61] The Respondent submits that the objective of the Province in issuing the RFP was the construction of new long-term care homes. The terms of the RFP clearly spelled out how the funding by the Department would be structured. In January 2008, High-Crest was offered and accepted a per diem rate, at which point it undertook to construct the Addition.
+[62] The Respondent submits that the offer made of per diem funding was clearly predicated on High-Crest constructing the Addition to the Facility. The per diem included the possibility of profit, which in turn provided the incentive for High-Crest to tender a bid to build the Addition. As well, the per diem included a capital component to cover the annual principal and interest payable by High-Crest on the mortgage with NSHDC used to fund the construction of the Addition. While the words used in the definition of “government funding” are broad enough to cover funding that does not include a capital component, the capital component reinforces the view that the payments in this case were “government funding”.
+[63] The Respondent submits that High-Crest’s entitlement to the government funding was established long before the deemed self-supply in January 2010. Accordingly, in January 2010 High-Crest could reasonably expect to receive government funding in respect of the Addition, as required by paragraph 191.1(2)(c) of the ETA.
+III. The Statutory Provisions [64] The provisions of the ETA relevant to the issue in this appeal are set out in Appendix A to these reasons.
+IV. Analysis [65] By way of general background, goods and services tax is paid by the recipient of goods or services. In most cases, the supplier of the goods or services must collect this tax. If the recipient of the goods or services uses them in a commercial activity, the recipient is in turn entitled to claim an input tax credit to offset the tax it paid to acquire the goods or services. The intended result is that tax is imposed on the value added at each stage in the supply of goods or services until they reach the final user or consumer, who bears the full economic burden of the tax. Where the supply is made in a participating province such as Nova Scotia, the tax imposed by the ETA is called the harmonized sales tax, or HST, rather than the goods and services tax, or GST.
+[66] Sections 190 to 192 of the ETA set out special rules applicable to real property. In general terms, subsection 191(4) of the ETA addresses a situation where the builder of a new addition to a multiple unit residential complex[27] that is substantially completed gives a person possession or use of a residential unit in the addition under a lease, licence or similar arrangement for the purpose of occupying the unit as a place of residence and the person is the first person to occupy the unit. Where subsection 191(4) applies, the builder is deemed to have made and received a taxable supply of the addition and is deemed to have paid and collected HST based on the fair market value of the addition at the time of the deemed supply.
+[67] The rule in subsection 191(4) of the ETA is commonly referred to as a self-supply rule because the builder is both the supplier and the recipient of the supply for the purposes of calculating and collecting HST in respect of the addition. The rule places the financial burden of the HST on the builder.[28] However, the builder may claim input tax credits in respect of the cost of constructing the addition, as the addition has been deemed to be the subject of a taxable supply.
+[68] High-Crest agrees that the self-supply rule in subsection 191(4) applied to it in January 2010 when the Addition was substantially completed and individuals began to occupy it. The issue is whether the deeming rule in subsection 191.1(2) of the ETA applies to the self-supply of the Addition. If that rule applies, the HST payable by High-Crest on the self-supply under subsection 191(4) of the ETA is deemed to be equal to the greater of the HST calculated on the fair market value of the Addition at the time of the self-supply and the HST payable by High-Crest in respect of the construction of the Addition.[29] The parties agree that the former amount is $350,000 and the latter amount is $646,304.
+[69] High-Crest agrees that the conditions in paragraphs 191.1(2)(a) and (b) are satisfied in respect of the Addition. Specifically:
+• The Facility is a residential complex and the Addition is an addition to a residential complex;
+• High-Crest is the builder of the Addition;
+• By virtue of subsection 191(4) of the ETA, High-Crest is deemed to have made a self-supply of the Addition in January 2010; and
+• Possession or use of at least 10% of the residential units in the Facility is intended to be given for the purpose of their occupancy as a place of residence or lodging by seniors.
+[70] This leaves only the question of whether High-Crest received or could reasonably expect to receive “government funding in respect of the complex” at the time of the self-supply in January 2010.[30]
+[71] The definition of “government funding” in subsection 191.1(1) of the ETA states:
+“government funding”, in respect of a residential complex, means an amount of money (including a forgivable loan but not including any other loan or a refund or rebate of, or credit in respect of, taxes, duties or fees imposed under any statute) paid or payable by
+(a) a grantor, or
+(b) an organization that received the amount from a grantor or another organization that received the amount from a grantor,
+to a builder of the complex or of an addition thereto for the purpose of making residential units in the complex available to individuals referred to in paragraph (2)(b).
+[72] The definition can be broken down into the following requirements:
+A. There must be a residential complex in respect of which the definition is being applied. “Residential complex” is defined in subsection 123(1) of the ETA to mean, among other things, the part of a building in which one or more “residential units” are located. The definition of “residential unit” makes express reference to a suite or room in a residence for seniors, individuals with a disability or other individuals.[31] The Facility is a residential complex.
+B. There must be an amount of money. “Amount” is defined in subsection 123(1) of the ETA to mean money, property or a service, expressed in terms of the amount of money or the value in terms of money of the property or service. “Money” is defined in subsection 123(1) of the ETA to include any currency, cheque, promissory note, letter of credit, draft, traveller’s cheque, bill of exchange, postal note, money order, postal remittance and other similar instrument, whether Canadian or foreign. Since the definition of money is inclusive, the ordinary meaning of money also applies.
+The use of the words amount and money together means there is overlap as amount means money, etc. However, a reasonable view is that the reference to both amount and money is to ensure that only amounts paid or payable in the form of money are caught by the definition. Amounts that are paid or payable in the form of property[32] or services are not caught even if these amounts are expressed in terms of an amount of money.
+An “amount of money” includes a forgivable loan. However, it does not include any other form of loan nor does it include a refund, rebate or credit in respect of taxes, duties or fees imposed under any statute.
+The loan provided to High-Crest by NSHDC is not forgivable and therefore is not an amount of money. On the other hand, there is no doubt that the biweekly payments made by the Department to High-Crest under the terms of the Service Agreement are amounts of money.
+C. The amount of money must be paid or payable either by a grantor or by an organization that received the amount either from a grantor or from another organization that received the amount from a grantor. “Grantor” is defined to mean, among other things, a government or municipality other than certain corporations.[33] The Department is a department of the government of Nova Scotia and is represented in the Service Agreement by the Minister of Health for Nova Scotia. Accordingly, the Department is a grantor.
+D. The amount of money must be paid or payable either to a builder of the residential complex in respect of which the definition is being applied or to the builder of an addition to that residential complex. The biweekly payments are made by the Department to High-Crest, the builder of the Addition. Accordingly, the amount of money is payable and paid to a builder of an addition to a residential complex in respect of which the definition is being applied.
+E. The amount of money must be paid or payable by the grantor or organization to the builder for the purpose of making residential units in the residential complex available to individuals described in paragraph 191.1(2)(b) of the ETA.
+[73] High-Crest agrees that the requirements of the definition described in A to D above are satisfied, but argues that the requirement described in E is not satisfied. Specifically, the argument is that any amount of money that was payable to High-Crest in January 2010 under the terms of the Service Agreement was not payable by the Department for the purpose of making residential units in the Facility available to seniors. Rather, the amount of money was payable for the purpose of securing the Services that High-Crest was obligated to provide under the terms of the Service Agreement.
+[74] High-Crest argues that this conclusion is supported by three key facts. First, in order to receive the payments, High-Crest had to successfully renew the annual licence issued by the Department. Without the licence, High-Crest could not operate the Facility and therefore would not receive any payments from the Department. Accordingly, the payments were inextricably linked to the ongoing provision of the Services and not to the availability to seniors of units in the Addition.
+[75] Second, the Development Agreement directly addressed the construction of the Addition but did not provide for any funding for that construction. All of the funding of the Addition was provided by High-Crest using the mortgage financing provided to it by NSHDC.
+[76] Third, the occupants of the Addition were liable for the Standard Accommodation Charge, and any subsidy for that charge was provided to the occupant and not to High-Crest. The Standard Accommodation Charge included an amount based on the average amortized cost of constructing long‑term care facilities in Nova Scotia. Accordingly, any money payable to High-Crest for accommodation in the Addition was payable by the occupant and was not payable by the Department for the purpose of making units in the Addition available to seniors.
+[77] To address the Appellant’s position, it is necessary to consider the purpose test in the definition in some detail. The word “purpose” is defined in the Oxford English Dictionary (2nd ed.) as follows:
+That which one sets before oneself as a thing to be done or attained; the object which one has in view.
+[78] The question then is what did the Department set out to achieve when it agreed to pay High-Crest the amounts of money determined in accordance with the terms of the Service Agreement? Was it securing the Services, as contended by the Appellant, or was it making residential units in the residential complex available to seniors, as contended by the Respondent?
+[79] The difficulty in answering this question lies in the fact that, in agreeing to pay High-Crest the amounts specified in the Service Agreement, the Department secured both results. Each is a substantial result that is not incidental, ancillary or remote. However, in my view, only one result is reflective of the purpose behind the arrangements and the payments by the Department to High-Crest that are a part of those arrangements. The other result merely reflects the means by which that purpose was achieved.
+[80] Before explaining this comment, it is helpful to consider the text, context and purpose of the definition of “government funding”. As already stated, the text of the definition requires the court to focus on “the purpose” for which an amount of money was paid or payable by the grantor or organization to the builder. In light of the focus on the purpose of a third party - the grantor or organization - the use of the definite article “the” before the word “purpose” suggests that the definition requires a determination of the main or dominant purpose of the grantor or organization. Otherwise the builder would be faced with the near impossible task of ruling out all other possible purposes.
+[81] The context of the definition is that it is part of section 191.1 of the ETA and the defined term is used in paragraph 191.1(2)(c) of the ETA. The purpose of the definition is to identify the type of funding that the builder must receive or reasonably expect to receive in order to satisfy the condition in paragraph 191.1(2)(c) of the ETA.
+[82] If the conditions in subsection 191.1(2) are satisfied, then the builder must self-assess the HST in a manner that departs from the standard fair market value rule in subsections 191(1) to (4) of the ETA. Given that the definition is pivotal in identifying when to depart from the standard rule, a reasonable degree of certainty in the scope of the definition is to be preferred over an unworkably broad interpretation that accepts any degree of purpose on the part of the grantor or organization. Such an interpretation is also consonant with the general proposition that certainty, predictability and fairness are the preferred outcome in the interpretation of tax law. In effect, the context and purpose confirm that “the purpose” should be interpreted as the dominant purpose of the grantor or organization.[34]
+[83] With respect to how to determine purpose in any given case, in Ludco Enterprises the Supreme Court of Canada stated:[35]
+. . . In the interpretation of the Act, as in other areas of law, where purpose or intention behind actions is to be ascertained, courts should objectively determine the nature of the purpose, guided by both subjective and objective manifestations of purpose . . . .
+[84] In this case, because of the amorphous nature of the grantor and the absence of testimony from a representative of the grantor, the determination of purpose is necessarily based on all of the circumstances leading up to the occupancy of the Addition by seniors in January 2010. This includes, in particular, the content of the RFP, the Development Agreement and the Service Agreement and the various attachments to those documents as well as any communications between the Department and High-Crest regarding the Addition.
+[85] Returning to my earlier comment regarding the two results achieved by the arrangements imposed by the Department, it is important to recognize that the definition of “government funding” does not dictate any particular means by which the described purpose must be achieved. The definition instead focuses on the question of whether the purpose (i.e., aim or object) of the grantor with respect to the amount of money that was paid or payable to the builder was making residential units in a residential complex available to individuals described in paragraph 191.1(2)(b) of the ETA. If that purpose is the driving force behind arrangements that involve payments by the grantor to the builder, then the only reasonable conclusion is that the payments have the same purpose or objective as the arrangements.
+[86] The objective of the Department in entering into the arrangements with High-Crest is described in the background section of the RFP as follows:
+In May 2006, the Nova Scotia government approved the Continuing Care Strategy for Nova Scotia - Shaping the Future of Continuing Care. In the Strategy, the Government has committed to build new long-term care homes to support the vision of living well in a place you can call home. The Long Term Care Program Requirements and the Space and Design Requirements documents complement one another and were created to provide direction for the development of these new long term care facilities from the perspectives of care and service, as well as physical environment. [Emphasis added.]
+[87] The RFP also states that the RFP process is being employed to “select an organization or organizations to provide the facilities and services required to support 594 Level II Nursing Home beds and 210 Residential Care Facility (RCF) beds throughout the Province.” In other words, the province chose to use the arrangements described in the RFP, the Development Agreement and the Service Agreement to achieve its objective of building new long‑term care facilities in Nova Scotia. These arrangements included payments to the successful bidders for the provision of nursing home beds and the accompanying services. In this circumstance, the purpose of the arrangements and the purpose of the payments under those arrangements cannot readily be separated.
+[88] It is true that the means by which the government achieved its objective of supplying additional long‑term care beds to seniors in the province did not involve direct funding of the cost of the Addition. However, direct funding of this cost is not required by the definition of government funding. As already stated, the definition requires that it be determined whether the purpose of the grantor was making residential units in a residential complex available to seniors.
+[89] In this case, the Department’s stated objective in pursuing the arrangements with bidders was “to build new long-term care homes to support the vision of living well in a place you can call home.” This objective is achieved through the arrangements set out in the RFP, the Development Agreement and the Service Agreement, and these arrangements call for significant payments of money by the Department to High-Crest.
+[90] The terms and conditions of the arrangements dictated by the Department in the RFP are extremely detailed, but at their core are the provision of new long‑term care beds by the successful bidder and the establishment of a per diem rate for the occupancy of the new beds, which was to be paid in large part by the Department. For example, the offer by the Department to High-Crest on January 7, 2008 awards High-Crest the 20‑bed addition to its Facility in Springhill and details the per diem payable for the occupancy of those beds. High-Crest is required to accept the per diem in writing within one week of the offer. In its letter of January 15, 2008, High-Crest accepts the per diem and agrees to construct a facility according to the specifications in Appendix B to the RFP.
+[91] The per diem established under the arrangements dictated by the Department covers the cost of building and operating the new facility and provides High-Crest with an opportunity for profit on the non-health care aspect of the operations. At the time of the offer to High-Crest in January 2008, the per diem was fixed at $264.47. The Standard Accommodation Charge (i.e., the portion of the per diem that was the responsibility of the occupant) as of November 1, 2008 was $86.50 according to the Resident Charge Policy included with Schedule C to the Service Agreement. Accordingly, from the outset, the Department had agreed to pay at least 67.3% of the per diem directly to High-Crest. In addition, the Department had agreed to pay High-Crest any subsidy it awarded to an occupant and the Capital Renewal Reserve.
+[92] High-Crest argued that the occupant was responsible for the accommodation charges and that this supported the position that the amounts paid by the Department were not for the purpose of making additional nursing home beds available to seniors. However, the reality is that the Department paid all but the authorized accommodation charge (i.e., the Standard Accommodation Charge less any subsidy provided to the occupant) to High-Crest. The agreement between High-Crest and the occupant reflected this reality as it required the occupant to pay only the amount that the Department permitted High-Crest to charge that particular occupant. In any event, the definition of government funding does not require a tracing of the specific use of the amount of money paid or payable by the grantor to the builder – it only requires a determination of the purpose for which an amount of money is paid or payable to the builder.
+[93] It is also true that High-Crest was required to provide the Services as consideration for the payments it received from the Department. However, this does not alter the fact that the dominant purpose of the Department in entering into these arrangements and agreeing to make these payments was to secure additional long‑term care beds for seniors in Nova Scotia. The immediate result of the payments may have been the provision of the Services but that was not the purpose behind the payments.
+[94] To summarize, the purpose of the arrangements mandated by the Department is clear. The government of Nova Scotia as represented by the Department needed new long‑term care facilities and chose to partner with the private sector to bring that objective to fruition. The means of achieving the desired objective was to provide for successful bidders a guaranteed level of funding, which is payable under the terms of a service contract. This means does not alter the objective that was sought to be achieved by the government in unilaterally establishing the arrangements with successful bidders.
+[95] The fact that High-Crest was subject to an annual licensing requirement does not alter the purpose of the funding provided by the Department to High-Crest. The annual licensing requirement is simply a mechanism used to ensure ongoing compliance with the very detailed operating parameters imposed by the Department in the RFP, the Development Agreement and the Service Agreement.
+[96] As well, the fact that the Development Agreement did not itself provide for funding of the Addition is not indicative of the purpose of the payments under the Service Agreement. The RFP and the Development Agreement each contemplated the execution of the Service Agreement, and section 4.2 of the Development Agreement described the funding conditions. Collectively, these three documents and their many attachments reflect the means by which the Department achieved its objective of building new long-term care facilities in Nova Scotia, and these means included significant payments of money by the Department to High-Crest.
+[97] For the foregoing reasons, the appeal of High-Crest is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 30th day of September 2015.
+“J.R. Owen”
+Owen J.
+Appendix A
+Statutory Provisions
+123(1) - Definitions
+“amount” means money, property or a service, expressed in terms of the amount of money or the value in terms of money of the property or service;
+“builder” of a residential complex or of an addition to a multiple unit residential complex means a person who
+(a) at a time when the person has an interest in the real property on which the complex is situated, carries on or engages another person to carry on for the person
+(i) in the case of an addition to a multiple unit residential complex, the construction of the addition to the multiple unit residential complex, and
+(ii) [Repealed.]
+(iii) in any other case, the construction or substantial renovation of the complex,
+. . .
+“money” includes any currency, cheque, promissory note, letter of credit, draft, traveller’s cheque, bill of exchange, postal note, money order, postal remittance and other similar instrument, whether Canadian or foreign, but does not include currency the fair market value of which exceeds its stated value as legal tender in the country of issuance or currency that is supplied or held for its numismatic value;
+“multiple unit residential complex” means a residential complex that contains more than one residential unit, but does not include a condominium complex;
+“residential complex” means
+(a) that part of a building in which one or more residential units are located, together with
+(i) that part of any common areas and other appurtenances to the building and the land immediately contiguous to the building that is reasonably necessary for the use and enjoyment of the building as a place of residence for individuals, and
+(ii) that proportion of the land subjacent to the building that that part of the building is of the whole building,
+. . .
+“residential unit” means
+(a) a detached house, semi-detached house, rowhouse unit, condominium unit, mobile home, floating home or apartment,
+(b) a suite or room in a hotel, a motel, an inn, a boarding house or a lodging house or in a residence for students, seniors, individuals with a disability or other individuals, or
+(c) any other similar premises,
+or that part thereof that
+(d) is occupied by an individual as a place of residence or lodging,
+(e) is supplied by way of lease, licence or similar arrangement for the occupancy thereof as a place of residence or lodging for individuals,
+(f) is vacant, but was last occupied or supplied as a place of residence or lodging for individuals, or
+(g) has never been used or occupied for any purpose, but is intended to be used as a place of residence or lodging for individuals;
+191(4) Self-supply of addition to multiple unit residential complex — For the purposes of this Part, where
+(a) the construction of an addition to a multiple unit residential complex is substantially completed,
+(b) the builder of the addition
+(i) gives, to a particular person who is not a purchaser under an agreement of purchase and sale of the complex, possession or use of any residential unit in the addition under a lease, licence or similar arrangement entered into for the purpose of the occupancy of the unit by an individual as a place of residence,
+(i.1) gives possession or use of any residential unit in the addition to a particular person under an agreement for
+(A) the supply by way of sale of the building or part thereof forming part of the complex, and
+(B) the supply by way of lease of the land forming part of the complex or the supply of such a lease by way of assignment, or
+(ii) where the builder is an individual, occupies any residential unit in the addition as a place of residence, and
+(c) the builder, the particular person, or an individual who has entered into a lease, licence or similar arrangement in respect of a residential unit in the addition with the particular person, is the first individual to occupy a residential unit in the addition as a place of residence after substantial completion of the construction of the addition,
+the builder shall be deemed
+(d) to have made and received, at the later of the time the construction of the addition is substantially completed and the time possession or use of the unit is so given to the particular person or the unit is so occupied by the builder, a taxable supply by way of sale of the addition, and
+(e) to have paid as a recipient and to have collected as a supplier, at the later of those times, tax in respect of the supply calculated on the fair market value of the addition at the later of those times.
+191.1 (1) Definitions — The definitions in this subsection apply in this section.
+“government funding”, in respect of a residential complex, means an amount of money (including a forgivable loan but not including any other loan or a refund or rebate of, or credit in respect of, taxes, duties or fees imposed under any statute) paid or payable by
+(a) a grantor, or
+(b) an organization that received the amount from a grantor or another organization that received the amount from a grantor,
+to a builder of the complex or of an addition thereto for the purpose of making residential units in the complex available to individuals referred to in paragraph (2)(b).
+“grantor” means
+(a) a government or municipality, other than a corporation all or substantially all of whose activities are commercial activities or the supply of financial services or any combination thereof;
+. . .
+(2) Subsidized residential complexes — For the purposes of subsections 191(1) to (4), where
+(a) a builder of a residential complex or an addition thereto is deemed under any of subsections 191(1) to (4) to have, at any time, made and received a supply of the complex or addition,
+(b) possession or use of at least 10% of the residential units in the complex is intended to be given for the purpose of their occupancy as a place of residence or lodging by
+(i) seniors,
+. . . and
+(c) except where the builder is a government or a municipality, the builder, at or before that time, has received or can reasonably expect to receive government funding in respect of the complex,
+the amount of tax in respect of the supply calculated on the fair market value of the complex or addition, as the case may be, is deemed to be equal to the greater of
+(d) the amount that would, but for this subsection, be the tax calculated on that fair market value, and
+(e) the total of all amounts each of which is tax that was payable by the builder in respect of
+(i) real property that forms part of the complex or addition, as the case may be, or
+(ii) an improvement to that real property.
+CITATION:
+2015 TCC 230
+COURT FILE NO:
+2012-3027(GST)G
+STYLE OF CAUSE:
+HIGH-CREST ENTERPRISES LIMITED v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+February 26, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice John R. Owen
+DATE OF JUDGMENT:
+September 30, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Maurice P. Chiasson, Q.C.
+Counsel for the Respondent:
+Jan Jensen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Maurice P. Chiasson, Q.C.
+Firm:
+Stewart McKelvey
+Halifax, Nova Scotia
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The RFP is at Tab 2 of Exhibit A-1.
+[2] Page 1 of the RFP under the heading “Introduction”.
+[3] Tab 1A of Exhibit A-1.
+[4] Tab 1B of Exhibit A-1.
+[5] The final form of the agreements is found at Tab 1C and Tab 1D of Exhibit A-1.
+[6] Tab 20 of Exhibit A-3.
+[7] Tab 20 of Exhibit A-3
+[8] A draft of this agreement dated February 4, 2009 is found at Tab 5 of Exhibit A-2. Mr. Stephenson testified that he could not find the executed Development Agreement, but said that the draft was “substantially similar” to the executed agreement as it was the template for the executed agreement.
+[9] “Services” is defined in the Development Agreement to include “the provision of accommodation; programs; goods; social work services; physical and occupational therapy; and in the case of Nursing Homes, personal and skilled nursing care”. The definition of this word in the Service Agreement is similar but not identical.
+[10] Exhibit R-1 at page 3 of 7. The document is titled “Nursing Homes and Homes for the Aged Approved Budget and Per Diem Rate”.
+[11] The payments are described in a letter from NSHDC to High-Crest’s lawyer dated April 22, 2009 found at Tab 29 of Exhibit A-3.
+[12] Tab 6 of Exhibit A-2.
+[13] High-Crest had to choose between two costing models to determine the health care costs. High-Crest chose the model referred to as the Augmented Traditional CCA Direct Care Staffing Model.
+[14] Section 5.4 of the Protected Envelope Funding Policy found at Tab 6, page 257 of Exhibit A-2.
+[15] As with the health care costs, the Accommodation Services Costs were based on the Augmented Traditional CCA Direct Care Staffing Model.
+[16] Section 5.3 of the Unprotected Envelope Funding Policy found at Tab 6, page 254 of Exhibit A-2.
+[17] Section 6.2 of the Capital Renewal Reserve Policy found at Tab 6, page 328 of Exhibit A-2.
+[18] Section 6.2.9 of the Capital Renewal Reserve Policy found at Tab 6, page 329 of Exhibit A-2.
+[19] Sections 4.1.2 and 4.1.3 of the Resident Charge Policy found at Tab 6, page 128 of Exhibit A-2.
+[20] Section 4.3.4 of the Resident Charge Policy found at Tab 6, page 130 of Exhibit A-2. Certain individuals covered by settlements, other government agencies or other statutes are required to pay the full per diem rate for the particular long-term health care facility: sections 4.2.1 and 4.2.2 of the Resident Charge Policy found at Tab 6, page 129 of Exhibit A-2.
+[21] Section 4.3.3 of the Resident Charge Policy found at Tab 6, page 130 of Exhibit A-2.
+[22] Mr. Stephenson referred to an accommodation charge for residents of the Addition of $104 per day, which appears to be the Standard Accommodation Charge for the one year period commencing November 1, 2013. Nothing turns on the actual amount of the Standard Accommodation Charge in any given year.
+[23] Section 5.2.1 of the Resident Charge Policy found at Tab 6, page 131 of Exhibit A-2.
+[24] Lines 2 to 6 of page 45 of the Transcript.
+[25] Lines 7 to 12 of page 45 of the Transcript.
+[26] Exhibit A-4.
+[27] A multiple unit residential complex is a residential complex that has more than one residential unit and that is not a condominium complex.
+[28] Residential rents are generally GST exempt under Part I of Schedule V of the ETA. Consequently, if the burden of paying the GST was not placed on the builder, no GST would be paid in respect of the Addition.
+[29] Paragraph 191.1(2)(e) has been amended for self-supplies under subsections 191(1) to (4) made on or after April 1, 2013.
+[30] I note that the text of paragraph 191.1(2)(c) refers to government funding in respect of the complex, which encompasses the entire Facility and not just the Addition.
+[31] The Federal Court of Appeal acknowledged the breadth of the definition of “residential unit” in North Shore Health Region v. The Queen, 2008 FCA 2 at paragraph 47.
+[32] The mandatory definition of “property” in subsection 123(1) of the ETA does not include money.
+[33] Corporations all or substantially all of whose activities are commercial activities or the supply of financial services or any combination thereof are excluded.
+[34] The Supreme Court of Canada in Ludco Enterprises Ltd. v. Canada, [2001] 2 S.C.R. 1082 took a different view of the purpose test in subparagraph 20(1)(c)(i) of the Income Tax Act (Canada). However, that provision focused on the purpose of the taxpayer (not a third party) and, apart from being in a different statute, had an entirely different context and purpose.
+[35]Supra, footnote 34, at paragraph 54.

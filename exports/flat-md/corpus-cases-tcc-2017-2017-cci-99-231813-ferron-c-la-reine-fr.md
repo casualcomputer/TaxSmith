@@ -1,0 +1,198 @@
+---
+title: "Ferron c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/231813/index.do"
+last_modified: "2017-06-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 99"
+citation2: ""
+neutral_citation: "2017 CCI 99"
+decision_date: "2017-06-01"
+language: "fr"
+item_id: "231813"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2142
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:29:29.237000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "568bce37a133d9432ccfe2bb51f43d7b0012ef13801783564dcbc6615308f588"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ferron c. La Reine
+
+- Citation: 2017 CCI 99
+- Decision date: 2017-06-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2142, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ferron c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-06-01
+Référence neutre
+2017 CCI 99
+Numéro de dossier
+2016-3513(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-3513(IT)I
+ENTRE :
+ÉMILIE FERRON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 3 mai 2017, à Miramichi (Nouveau-Brunswick)
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Représentant de l'appelante :
+M. Rhéal Ferron
+Avocate de l'intimée :
+Me Sheherazade Ghorashy
+JUGEMENT
+Les appels de l’appelante à l’encontre des nouvelles cotisations établies pour les années d’imposition 2012 et 2013 sont annulés pour les motifs ci-joints.
+L’appel de l’appelante à l’encontre de la cotisation établie pour l’année d’imposition 2014 est également rejeté, pour les motifs ci-joints.
+Signé à Ottawa, Canada, ce 1er jour de juin 2017.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2017 CCI 99
+Date : 20170601
+Dossier : 2016-3513(IT)I
+ENTRE :
+ÉMILIE FERRON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] L’appelante en appelle des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2012, 2013 et 2014 dans les circonstances décrites ci-après.
+[2] Les 25 avril 2013, 21 novembre 2013 et 31 janvier 2014, le ministre du Revenu national (ci-après le « ministre ») a envoyé à l’appelante des avis de cotisation et de nouvelle cotisation pour l’année d’imposition 2012, lesquels reflétaient les changements suivants :
+Titre
+Déclaré
+Révisé
+Prestations d’assurance-emploi
+0 $
+9 360 $
+Frais de déménagement
+1 286 $
+0 $
+Frais de scolarité, montants pour études et manuels
+0 $
+4 803 $
+Autres déductions
+0 $
+325 $
+[3] L’appelante n’a pas signifié dans le délai imparti, qui était le 1er mai 2014 pour l’année d’imposition 2012, un avis d’opposition à la nouvelle cotisation établie le 31 janvier 2014.
+[4] La preuve démontre que l’appelante n’a pas présenté dans le délai imparti, soit le 1er mai 2015, une demande de prorogation du délai pour signifier un avis d’opposition pour l’année d’imposition 2012.
+[5] Le 1er mai 2014, le ministre a envoyé à l’appelante une notification selon laquelle aucun impôt fédéral n’était payable pour l’année d’imposition 2013, laquelle notification reflétait les changements suivants :
+Titre
+Déclaré
+Révisé
+Prestations d’assurance-emploi
+0 $
+5 377 $
+Frais de scolarité, montants pour études et manuels
+6 206 $
+11 584 $
+[6] Le 16 avril 2015, le ministre a envoyé à l’appelante un avis de cotisation initiale pour l’année d’imposition 2014 dans lequel il réduisait de 3 305 $ à 0 $ le montant des frais de scolarité, le montant relatif aux études et le montant pour manuels dont la déduction avait été demandée par l’appelante.
+[7] Le 8 février 2016, ou vers cette date, l’appelante a signifié au ministre son opposition à cette cotisation.
+[8] Le 18 juillet 2016, le ministre a ratifié la cotisation datée du 16 avril 2015 pour l’année d’imposition 2014.
+[9] Pour établir l’avis de cotisation pour l’année 2014, le ministre a tenu pour acquis les faits suivants :
+a) au 1er janvier 2012, le solde disponible pour le report des frais de scolarité, du montant relatif aux études et [du] montant pour manuels s’élevait à 11 960 $;
+b) pour l’année d’imposition 2012, le montant des frais de scolarité, [du] montant relatif aux études et [du] montant pour manuels était de 7 355 $;
+c) pour l’année d’imposition 2012, l’appelante a transféré à un parent un montant de 5 000 $ [au titre] de frais de scolarité, [du] montant relatif aux études et [du] montant pour manuels;
+d) suite aux diverses corrections apportées aux revenus de l’appelante pour l’année d’imposition 2012, cette dernière était tenue de réclamer un montant de 4 803 $ à titre de frais de scolarité, [de] montant relatif aux études et [de] montant pour manuels afin de maintenir à zéro son impôt fédéral à payer;
+e) les frais de déménagement au montant de 1 286 $ ont été refusés par le ministre car l’appelante, à titre d’étudiante, n’avait aucun revenu provenant de bourses d’études, [de] bourses de perfectionnement, [de] bourses d’entretien, [de] récompenses ou [de] subventions de recherches;
+f) au 1er janvier 2013, le solde disponible pour le report des frais de scolarité, du montant relatif aux études et manuels [du montant pour] s’élevait à 9 512 $;
+g) pour l’année d’imposition 2013, le montant des frais de scolarité, [du] montant relatif aux études et [du] montant pour manuels était de 3 707 $;
+h) suite aux diverses corrections apportées aux revenus de l’appelante pour l’année d’imposition 2013, cette dernière était tenue de réclamer un montant de 11 584 $ à titre de frais de scolarité, [de] montant relatif aux études et [de] montant pour manuels afin de maintenir à zéro son impôt fédéral à payer;
+i) suite aux corrections effectuées, le montant transféré par l’appelante à un parent a été modifié de 3 707 $ à 1 635 $ pour l’année d’imposition 2013;
+j) pour l’année d’imposition 2014, le montant des frais de scolarité, [du] montant relatif aux études et [du montant pour] manuels était de 0 $;
+k) au 1er janvier 2014, le solde disponible pour le report des frais de scolarité, du montant relatif aux études et [du montant pour] manuels s’élevait à 0 $ tel que détaillé ci-dessous :
+Année
+Montant antérieur non appliqué (1er janvier)
+Frais de scol. Mont. Rel. aux études et manuels
+Montant appliqué de l’année courante
+Montant transféré
+Montant appliqué de l’année antérieure
+Montant disponible pour report (31 décembre)
+2012
+11 960 $
+7 355 $
+0 $
+(5 000 $)
+(4 803 $)
+9 512 $
+2013
+9 512 $
+3 707 $
+(2 072 $)
+(1 635 $)
+(9 512 $)
+0 $
+2014
+0 $
+0 $
+0 $
+0 $
+0 $
+0 $
+[10] Au début de l’audience, l’intimée a présenté une requête visant à obtenir une ordonnance qui annulerait les appels pour les années d’imposition 2012 et 2013 pour les raisons suivantes : en ce qui concerne l’année d’imposition 2012, l’appelante n’a pas déposé d’avis d’opposition à la nouvelle cotisation et, en ce qui concerne l’année d’imposition 2013, il s’agit d’une notification par le ministre qu’aucun impôt fédéral n’est payable pour ladite année.
+[11] La preuve démontre que les faits allégués par l’intimée au soutien de sa requête sont véridiques. Il est bien établi que cette Cour n’a pas compétence pour entendre un appel lorsque la partie appelante n’a pas présenté un avis d’opposition en bonne et due forme dans le délai prescrit. Il est également bien établi que cette Cour n’a pas compétence pour entendre un appel d’une cotisation néant. Pour ces raisons, les appels de l’appelante pour les années d’imposition 2012 et 2013 sont annulés.
+[12] Je fais remarquer également que l’appelante n’a fourni aucune preuve qu’elle a engagé des frais de déménagement en 2012 et en 2014. L’appelante a choisi de ne pas témoigner. Son agent, par contre, a témoigné. Il prétendait que le ministre avait accepté les frais de déménagement indiqué dans les déclarations de revenus pour les années d’imposition 2012 et 2014. Évidemment, l’établissement des nouvelles cotisations prouve que ce ne fut pas le cas. Il s’avérait également que le témoin n’avait aucune connaissance personnelle des montants des frais de déménagement que l’appelante aurait engagés. Aucune preuve documentaire ne fut présentée à cet égard. Le fardeau de prouver l’existence des frais de déménagement s’incombe à l’appelante.
+[13] En l’absence de preuve que l’appelante a engagé des frais de déménagement, l’appel de l’appelante pour l’année d’imposition 2014 est rejeté.
+Signé à Ottawa, Canada, ce 1er jour de juin 2017.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE :
+2017 CCI 99
+Nº DU DOSSIER DE LA COUR :
+2016-3513(IT)I
+INTITULÉ DE LA CAUSE :
+ÉMILIE FERRON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Miramichi (Nouveau-Brunswick)
+DATE DE L’AUDIENCE :
+Le 3 mai 2017
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 1er juin 2017
+COMPARUTIONS :
+Représentant de l'appelante :
+M. Rhéal Ferron
+Avocate de l'intimée :
+Me Sheherazade Ghorashy
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

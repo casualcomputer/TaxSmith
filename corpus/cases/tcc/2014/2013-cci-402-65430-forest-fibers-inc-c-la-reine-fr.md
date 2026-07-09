@@ -1,0 +1,245 @@
+---
+title: "Forest Fibers Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/65430/index.do"
+last_modified: "2014-02-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 402"
+citation2: ""
+neutral_citation: "2013 CCI 402"
+decision_date: "2014-02-13"
+language: "fr"
+item_id: "65430"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5979
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:08:23.881000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "08bba227589b9141823290b23668471051942e1f851b6ff6a12b467e1bcf0725"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Forest Fibers Inc. c. La Reine
+
+- Citation: 2013 CCI 402
+- Decision date: 2014-02-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5979, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Forest Fibers Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-02-13
+Référence neutre
+2013 CCI 402
+Numéro de dossier
+2011-3774(GST)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-3774(GST)G
+ENTRE :
+FOREST FIBERS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête en modification de l’avis d’appel présentée en vertu de l’article 54 des Règles de la Cour canadienne de l’impôt (procédure générale) et tranchée sans comparution des avocats, conformément à l’article 69 des
+Règles de la Cour canadienne de l’impôt (procédure générale)
+Avocate de l’appelante :
+Me Caroline Desrosiers
+Avocat de l’intimée :
+Me Jocelyn Mailloux Martin
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l’appelante en vue d’obtenir l’autorisation de déposer un avis d’appel modifié (la « requête »), conformément à l’article 54 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »);
+Après lecture du dossier de requête produit par l’appelante;
+Et après lecture des observations écrites présentées par l’intimée pour s’opposer à la requête de l’appelante;
+La requête de l’appelante est accueillie, et la Cour ordonne :
+− L’avis d’appel modifié sera réputé avoir été déposé à la date de la présente ordonnance;
+− L’intimée disposera d’un délai de 60 jours à compter de la date de la présente ordonnance pour déposer et signifier une réponse à l’avis d’appel modifié;
+− L’intimée pourra procéder à d’autres interrogatoires préalables des représentants de l’appelante concernant les modifications;
+− L’appelante assumera les dépens de la présente requête et ceux liés à la tenue de nouveaux interrogatoires préalables, le cas échéant. Les dépens sont alloués en conformité avec le Tarif B — Sommes pouvant être accordées pour les dépens taxés entre parties;
+− L’appel est ajourné sine die. Les parties communiqueront avec la Cour afin de fixer une nouvelle date d’audience.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2013.
+« Johanne D’Auray »
+Juge D’Auray
+Traduction certifiée conforme
+ce 22e jour d’avril 2014.
+Mario Lagacé, jurilinguiste
+Référence : 2013 CCI 402
+Date : 20131219
+Dossier : 2011-3774(GST)G
+ENTRE :
+FOREST FIBERS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge D’Auray
+1. Introduction
+[1] L’appelante, Forest Fibers inc., a déposé une requête à la Cour en vertu de l’article 54 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») afin d’être autorisée à déposer un avis d’appel modifié (la « requête »).
+[2] L’appelante a également demandé à ce que la requête soit tranchée sans comparution des avocats, en vertu de l’article 69 des Règles. L’appelante a joint ses observations écrites à l’avis de requête.
+[3] L’intimée a déposé des observations écrites pour contester la requête de l’appelante.
+2. La chronologie
+[4] Le 1er décembre 2011, l’appelante a déposé un avis d’appel à la Cour.
+[5] Le 16 février 2012, l’intimée a déposé à la Cour une réponse à l’avis d’appel.
+[6] Le 8 janvier 2013, Mme Nadine Labrecque, administratrice judiciaire de la Cour, a signé une ordonnance fixant l’instruction de l’appel, d’une durée estimée à une journée, au mercredi 13 novembre 2013, à 9 h 30, à Montréal.
+[7] Le 28 octobre 2013, après la clôture des actes de procédure, l’appelante a déposé un avis d’appel modifié.
+[8] Dans une lettre datée du 31 octobre 2013, l’intimée a informé la Cour qu’elle s’opposait au dépôt de l’avis d’appel modifié.
+[9] Le 5 novembre 2013, l’appelante a déposé à la Cour un avis de requête en vue d’obtenir l’autorisation de déposer un avis d’appel modifié. L’appelante a demandé à ce que la Cour tranche la requête sur la base des observations écrites et sans comparution des parties, conformément à l’article 69 des Règles.
+[10] Le 8 novembre 2013, l’intimée a déposé à la Cour des observations écrites en opposition à la requête de l’appelante, conformément au paragraphe 69(3) des Règles.
+3. Le contexte entourant la cotisation
+[11] L’appelante est inscrite aux fins de la TPS et produit des déclarations mensuelles.
+[12] Elle se spécialise dans la vente et la revente de papier et de carton.
+[13] Durant les périodes visées par l’appel, l’appelante a acquis des fournitures taxables dans le cadre de ses activités commerciales.
+[14] Le ministre du Revenu du Québec a accordé, à titre de représentant du ministre du Revenu national (le « ministre »), certains des crédits de taxe sur les intrants (les « CTI ») demandés par l’appelante. Toutefois, le ministre a refusé quelques‑uns des CTI demandés relativement à deux fournisseurs, P.F.G. Management (« P.F.G. ») et Operatech 2000 (« Operatech »).
+[15] En établissant la nouvelle cotisation de l’appelante, le ministre a refusé :
+− des CTI s’élevant à 27 585,75 $, en raison de l’écart constaté entre les livres comptables de l’entreprise et ses déclarations de revenus. Ce montant n’est plus en litige en l’espèce, ainsi que l’appelante l’a reconnu dans l’avis d’appel modifié[1] ;
+− des CTI s’élevant à 22 567,53 $, car les pièces justificatives présentées par l’appelante ne renfermaient pas tous les renseignements exigés. Depuis, sur ces 22 567,53 $ demandés en CTI, l’appelante a renoncé à sa contestation à l’égard de 10 260,07 $. Il s’ensuit que des CTI s’élevant à 12 307,46 $ sont toujours en litige. Cette somme se rapporte à des CTI demandés à l’égard de fournitures prétendument reçues de P.F.G.[2];
+− des CTI s’élevant à 325 248,89 $ relativement à des fournitures prétendument reçues d’Operatech[3]. Cette somme est toujours en litige.
+4. Les dispositions législatives et la jurisprudence applicables
+[16] Suivant l’article 54 des Règles, la Cour jouit d’un large pouvoir discrétionnaire pour ce qui est d’autoriser des modifications; ce faisant, elle « peut imposer les conditions qui lui paraissent appropriées ». Les termes précis de l’article 54 des Règles sont les suivants :
+Une partie peut modifier son acte de procédure, en tout temps avant la clôture des actes de procédure, et subséquemment en déposant le consentement de toutes les autres parties, ou avec l’autorisation de la Cour, et la Cour en accordant l’autorisation peut imposer les conditions qui lui paraissent appropriées.
+[17] Les règles régissant les modifications doivent être interprétées à la lumière du paragraphe 4(1) des Règles, ainsi libellé :
+Les présentes règles doivent recevoir une interprétation large afin d’assurer la résolution équitable sur le fond de chaque instance de la façon la plus expéditive et la moins onéreuse.
+[18] Dans les motifs unanimes qu’il a rédigés au nom de la Cour d’appel fédérale dans l’arrêt Canderel[4], le juge Décary a énoncé la règle générale à suivre pour déterminer s’il y a lieu de permettre une modification. Au paragraphe 10, il s’exprimait ainsi :
+[…] la règle générale est qu’une modification devrait être autorisée à tout stade de l’action aux fins de déterminer les véritables questions litigieuses entre les parties, pourvu, notamment, que cette autorisation ne cause pas d’injustice à l’autre partie que des dépens ne pourraient réparer, et qu’elle serve les intérêts de la justice.
+[19] Au paragraphe 13 de l’arrêt Canderel, la Cour d’appel fédérale a également repris les propos tenus par le juge Bowman dans la décision Continental Bank, confirmant par le fait même que, pour déterminer s’il est dans l’intérêt de la justice d’autoriser une modification, le tribunal devrait tenir compte des facteurs suivants :
+[…] la mesure dans laquelle les modifications proposées retarderaient l’instruction expéditive de l’affaire, la mesure dans laquelle la thèse adoptée à l’origine par une partie a amené une autre partie à suivre dans le litige une ligne de conduite qu’il serait difficile, voire impossible, de modifier, et la mesure dans laquelle les modifications demandées faciliteront l’examen par la Cour du véritable fond du différend[5].
+[20] L’autorisation de faire une modification peut être demandée à n’importe quelle étape de l’instruction; toutefois, au paragraphe 14 des motifs de l’arrêt Canderel, le juge Décary, de la Cour d’appel fédérale, apporte une précision :
+[…] plus tardive est la demande, plus difficile il sera pour le requérant de surmonter le double obstacle que représentent pour lui l’injustice causée à la partie adverse et les intérêts de la justice.
+[21] Sur la question de l’introduction de nouveaux arguments par l’entremise de modifications, le juge Noël, rédigeant les motifs unanimes de la Cour d’appel fédérale dans l’arrêt Elliott, a statué qu’il était permis d’introduire une nouvelle question à toute étape de la procédure, pour autant que cela ne cause pas de préjudice non indemnisable à la partie adverse[6]. Dans le même ordre d’idées, le juge en chef adjoint Bowman, de la Cour, dans la décision Scavuzzo, a permis la modification d’actes de procédure dans le but d’invoquer un nouvel argument après le commencement du procès, après avoir conclu que la partie adverse ne subirait aucun préjudice qui ne puisse être réparé par l’adjudication de dépens[7]. Le juge en chef adjoint Bowman a également souligné que la possibilité que la partie requérante obtienne gain de cause relativement au nouveau point soulevé dans une modification ne constituait pas en soi un préjudice[8].
+[22] Par ailleurs, les tribunaux ont jugé que le fait qu’une requête soit déposée avec beaucoup de retard ne portait pas un coup fatal au requérant, à moins d’entraîner un préjudice pour la partie adverse. L’affaire Loewen illustre bien cette situation : le juge Bowie, de la Cour, a statué que le fait que deux ans se soient écoulés entre le moment où l’information a été découverte et le dépôt de la requête en modification ne portait pas un coup fatal à la requête, car la partie adverse ne subirait aucun préjudice[9]. En revanche, les tribunaux ont jugé qu’un important retard pouvait causer un préjudice si les témoins ou la preuve documentaire deviennent introuvables[10].
+[23] Dans la décision Dello, le juge Bédard, de la Cour, a statué que le fait que la partie requérante aurait pu faire mieux en demandant plus tôt la modification n’était pas déterminant, même si le retard était attribuable à sa négligence ou à son insouciance, à moins qu’il ne cause à la partie adverse un préjudice qui ne saurait être réparé[11].
+5. Analyse
+[24] À l’évidence, la jurisprudence portant sur les modifications pose comme règle générale qu’il y a lieu d’autoriser une demande de modification à toute étape d’un appel en matière fiscale pour permettre de cerner les véritables questions en litige entre les parties, pour autant que cela serve les intérêts de la justice et que cela ne cause pas à la partie adverse de préjudice qui ne puisse être réparé par l’adjudication de dépens.
+[25] Voici la liste des modifications demandées en l’espèce :
+i) L’avis d’appel modifié présente une nouvelle personne‑ressource pour P.F.G.
+[26] L’avis d’appel modifié présente une nouvelle personne‑ressource pour P.F.G. Nommément, M. Pierre-François Gervais y est présenté comme propriétaire et personne‑ressource de P.F.G.[12]
+[27] Dans sa réponse à l’avis d’appel, l’intimée allègue que M. Gervais agit à titre de personne‑ressource de P.F.G. À l’alinéa 33(l), le ministre pose l’hypothèse suivante :
+[traduction]
+[l]e président de l’appelante a déclaré aux représentants de l’intimée que la personne‑ressource de P.F.G. était un certain Pierre Gervais;
+[28] Il s’ensuit que la désignation de M. Gervais comme personne-ressource de P.F.G. ne constitue pas un fait nouveau; l’intimée savait déjà que M. Gervais était aussi personne-ressource de P.F.G. Par conséquent, j’estime que cette modification ne cause pas de préjudice à l’intimée.
+ii) L’avis d’appel modifié clarifie la relation entre l’appelante et les fournisseurs
+[29] L’avis d’appel ne donne pas une description claire de la relation entre, d’un côté, l’appelante, et de l’autre, Operatech et P.F.G. Afin d’illustrer ce manque de clarté, je reproduis ici en entier les passages pertinents de l’avis d’appel :
+[traduction]
+13. L’appelante a demandé des CTI se rapportant à des factures remises par trois de ses fournisseurs, à savoir Operatech 2000 (« Operatech »), Distribution de Papier J.M. (« J.M. ») et Gestions P.F.G. (« P.F.G. »).
+14. Le principal responsable des contrats de l’appelante pour ces trois fournisseurs était Jacques Jarry.
+15. Jacques Jarry était représentant d’Operatech et de P.F.G. ainsi que propriétaire de J.M.
+16. M. Jarry avait de nombreux contacts dans l’industrie papetière; il trouvait des articles en papier pouvant être vendus à l’appelante.
+17. En tant que représentant d’Operatech et de P.F.G., M. Jarry servait toujours d’intermédiaire entre l’appelante et les vendeurs.
+18. En tant que représentant d’Operatech et de P.F.G., M. Jarry négociait la vente d’articles en papier aux clients de ces deux sociétés, notamment à l’appelante.
+19. L’appelante payait Operatech, P.F.G. ou J.M. pour les services rendus par M. Jarry, leur représentant[13].
+[30] Il m’est difficile, à la simple lecture des paragraphes de l’avis d’appel reproduits ci-dessus, de comprendre le rôle des parties aux opérations. L’appelante achetait-elle les articles en papier directement des vendeurs trouvés par M. Jarry en qualité de représentant d’Operatech et de P.F.G.? Ou achetait-elle ces articles directement d’Operatech et de P.F.G.?
+[31] Dans l’avis d’appel modifié, il est déclaré ce qui suit :
+[traduction]
+14. La principale personne‑ressource de l’appelante pour Operatech était Jacques Jarry.
+14.1 Le responsable des contrats pour P.F.G. était soit M. Jarry, soit M. Pierre-Francois Gervais.
+15. Jacques Jarry a dit être représentant d’Operatech.
+16.1 M. Gervais était propriétaire de P.F.G.
+16. MM. Jarry et Gervais avaient de nombreux contacts dans l’industrie papetière; ils trouvaient des articles en papier pouvant être vendus à l’appelante par l’intermédiaire des deux fournisseurs.
+17. Les deux fournisseurs (Operatech et P.F.G.) sont courtiers en articles de papier et ils ont, à ce titre, plusieurs fournisseurs de qui ils achètent des produits qu’ils revendent à profit à leurs propres clients, tels que l’appelante.
+18. Par l’entremise de leur représentant, M. Jarry, les deux courtiers ont discuté avec l’appelante afin de bien saisir ses besoins et lui ont fourni des articles en papier correspondant à ces besoins.
+18.1 Operatech et P.F.G. fournissaient les articles en papier à l’appelante par l’entremise de leur représentant, M. Jarry, ou de M. Gervais.
+19. L’appelante payait Operatech, P.F.G. ou J.M. pour les articles en papier obtenus.
+[32] J’estime que l’avis d’appel modifié précise la nature de la relation entre, d’un côté, l’appelante, et de l’autre, Operatech et P.F.G., et qu’elle permet ainsi à la Cour d’avoir une meilleure compréhension des faits. L’avis d’appel modifié indique qu’Operatech et P.F.G. étaient des courtiers qui achetaient des articles en papier auprès d’autres fournisseurs pour les revendre à l’appelante. Il indique également que les sommes versées par l’appelante à Operatech et P.F.G. l’ont été au titre des articles en papier obtenus, et non, comme on pouvait le lire dans l’avis d’appel, pour les services rendus par M. Jarry.
+[33] À mon sens, l’intimée n’a subi aucun préjudice du fait que les modifications clarifient la nature de la relation entre l’appelante, Operatech et P.F.G. Quoi qu’il en soit, l’intimée pourra procéder à d’autres interrogatoires préalables, ce qui lui permettra de mieux cerner le contexte factuel des opérations qui avaient cours entre les parties en cause.
+[34] Je constate par ailleurs qu’au paragraphe 19 de l’avis d’appel modifié, J.M. est présenté à tort comme l’un des fournisseurs concernés. Depuis, toutes les autres allusions faites à J.M. dans l’avis d’appel ont été supprimées de l’avis d’appel modifié. Je suis disposée à accepter que cette mention ait été laissée par inadvertance. En outre, les paragraphes 16 et 16.1 ont été inversés par erreur dans l’avis d’appel modifié.
+iii) L’avis d’appel modifié renferme une allégation de fait nouvelle portant que l’appelante a fait preuve de diligence
+[35] L’appelante s’est vue imposer des pénalités pour faute lourde au titre de l’article 285 de la Loi sur la taxe d’accise (la « LTA ») en raison de faux énoncés ou d’omissions.
+[36] Aux dires de l’intimée, [traduction] « le paragraphe 27.1 de l’"EXPOSÉ DES FAITS" [de l’avis d’appel modifié] présente une nouvelle allégation de fait selon laquelle l’appelante aurait fait preuve de diligence »[14]. Il est vrai que, dans l’avis d’appel original, l’appelante n’affirme pas qu’elle a agi avec diligence dans son [traduction] « EXPOSÉ DES FAITS »; cependant, dans les [traduction] « MOYENS SUR LESQUELS L’APPELANTE ENTEND SE FONDER », elle déclare ce qui suit :
+[traduction]
+L’appelante affirme avoir fait preuve de diligence lorsqu’elle a demandé les CTI susmentionnés et, pour ce motif, elle n’aurait pas dû se voir imposer des pénalités au titre de l’article 285 [de la LTA][15].
+[37] L’intimée était déjà au courant du fait que le moyen de défense fondé sur la diligence raisonnable serait invoqué et par conséquent, cette modification ne lui cause aucun préjudice.
+iv) L’avis d’appel modifié renferme un nouvel argument selon lequel le ministre n’avait pas le pouvoir d’établir une nouvelle cotisation à l’égard de l’appelante après l’expiration du délai normal prévu par la LTA
+[38] L’avis d’appel modifié renferme un nouveau [traduction] « POINT EN LITIGE » selon lequel le ministre n’avait pas le pouvoir d’établir une nouvelle cotisation à l’égard de l’appelante après l’expiration de la période normale, nommément pour la période du 1er juin 2002 au 30 avril 2004[16].
+[39] S’il est vrai que, dans l’avis d’appel original, le pouvoir du ministre d’établir une cotisation après l’expiration de la période normale de cotisation ne constituait pas un [traduction] « POINT EN LITIGE», on peut y lire, dans la section relative aux [traduction] « MOYENS SUR LESQUELS L’APPELANTE ENTEND SE FONDER » :
+[traduction]
+L’appelante a produit ses déclarations conformément à ce qu’elle croyait sincèrement après avoir examiné attentivement et soigneusement les exigences législatives régissant les remboursements susmentionnés et, pour ce motif, elle n’aurait pas dû se voir imposer des pénalités au titre de l’article 298 de la LTA[17].
+[40] L’intimée savait que l’appelante contestait le pouvoir du ministre d’établir une nouvelle cotisation après l’expiration de la période normale de cotisation. En outre, dans sa réponse à l’avis d’appel, elle note que la question de savoir si [traduction] « le ministre était en droit d’établir des cotisations à l’égard de l’appelante pour les périodes de déclaration s’échelonnant du 1er juin 2002 au 31 mars 2004 après l’expiration de la période normale de cotisation »[18] constitue un [traduction] « POINT EN LITIGE ». Cette modification ne lui cause donc aucun préjudice.
+v) L’appelante fait valoir, dans l’avis d’appel modifié, que pour prouver qu’elle a droit aux CTI, il lui suffit d’établir qu’elle a respecté les exigences de l’article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants
+[41] L’avis d’appel modifié renferme, sous les rubriques [traduction] « POINTS EN LITIGE » et [traduction] « MOYENS SUR LESQUELS L’APPELANTE ENTEND SE FONDER », un nouvel argument selon lequel un inscrit a droit à un CTI dès qu’il présente des factures conformes aux exigences de l’article 3 du règlement et qu’il prouve l’existence du service. Il semble que cet argument repose sur des factures déjà produites par l’appelante. Par conséquent, je ne crois pas que l’intimée subira un préjudice si cet argument est ajouté.
+6. Conclusion
+[42] Dans l’ensemble, j’estime que la plupart des modifications ne changent rien à la position de l’intimée et qu’elles ne lui causent, par conséquent, aucun préjudice.
+[43] De plus, il convient de souligner que, dans les observations écrites qu’elle a soumises pour s’opposer à la requête, l’intimée n’a pas fait valoir qu’elle subirait un préjudice non indemnisable si la Cour acceptait les modifications.
+[44] Bien que j’estime qu’au moment du dépôt de l’avis d’appel, l’appelante connaissait personnellement les faits justifiant les modifications ou aurait dû les connaître, le retard, même s’il est attribuable à l’incurie de l’appelante, n’a pas d’effet déterminant, à moins qu’il ne cause un préjudice à l’intimée. Ce n’est pas le cas en l’espèce.
+[45] Je remarque également que certains des paragraphes de l’affidavit de Mme Desrosiers déposé au soutien de la requête en modification renvoient à des faits dont la preuve n’a pas encore été faite en cour ou dont elle n’a pas eu connaissance personnellement. Je rends mon ordonnance en faisant abstraction de ces faits.
+[46] À mon sens, les modifications figurant dans l’avis d’appel modifié ne causent à l’intimée aucun préjudice que des dépens ne sauraient réparer. Il est dans l’intérêt de la justice d’autoriser l’appelante à déposer l’avis d’appel modifié.
+[47] En accordant à l’appelante l’autorisation de déposer l’avis d’appel modifié suivant l’article 54 des Règles, je peux imposer les conditions qui me paraissent appropriées.
+[48] Ainsi, j’impose les conditions suivantes :
+− L’avis d’appel modifié sera réputé avoir été déposé à la date de la présente ordonnance;
+− L’intimée disposera d’un délai de 60 jours à compter de la date de la présente ordonnance pour déposer et signifier une réponse à l’avis d’appel modifié;
+− L’intimée pourra procéder à d’autres interrogatoires préalables des représentants de l’appelante concernant ces modifications;
+− L’appelante assumera les dépens de la présente requête et ceux liés à la tenue de nouveaux interrogatoires préalables, le cas échéant. Les dépens sont alloués en conformité avec le Tarif B — Sommes pouvant être accordées pour les dépens taxés entre parties;
+− L’appel est ajourné sine die. Les parties communiqueront avec la Cour afin de fixer une nouvelle date d’audience.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2013.
+« Johanne D’Auray »
+Juge D’Auray
+Traduction certifiée conforme
+ce 22e jour d’avril 2014.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2013 CCI 402
+No DU DOSSIER DE LA COUR : 2011-3774(GST)G
+INTITULÉ : FOREST FIBERS INC. c. LA REINE
+LIEU DE L’AUDIENCE :
+DATE DE L’AUDIENCE :
+MOTIFS DE L’ORDONNANCE : L’honorable juge Johanne D’Auray
+DATE DE L’ORDONNANCE : Le 19 décembre 2013
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Caroline Desrosiers
+Avocat de l’intimée :
+Me Jocelyn Mailloux Martin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Caroline Desrosiers
+Cabinet : Spiegel Sohmer Inc.
+Montréal (Québec)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Avis d’appel modifié, au paragraphe 7.1.
+[2] Avis d’appel modifié, au paragraphe 7.1.
+[3] Réponse à l’avis d’appel, au paragraphe 39.
+[4] Canderel v. The Queen, [1993] 2 CTC 213 (CAF).
+[5] Canderel v. The Queen, [1993] 2 CTC 213 (CAF), au paragraphe 13, citant la décision Continental Bank Leasing Corp. v. Canada, [1993] 1 CTC 2306 (CCI).
+[6] Elliott c. La Reine, 2012 CAF 154, au paragraphe 11 : « Il est toujours loisible au juge du procès d’autoriser qu’une nouvelle question soit plaidée même après la clôture de la preuve, pour autant toutefois qu’il s’assure qu’aucun préjudice ne soit ainsi causé à l’autre partie […] »
+[7] Scavuzzo c. La Reine, 2004 CCI 806, au paragraphe 8.
+[8] Scavuzzo c. La Reine, 2004 CCI 806, au paragraphe 10.
+[9] Loewen c. R., 2007 CCI 703 (CCI), au paragraphe 26.
+[10] Voir, par exemple, les observations du juge Bédard, au paragraphe 13 de la décision Dello c. La Reine, 2004 CCI 754.
+[11] Dello c. La Reine, 2004 CCI 754, au paragraphe 13.
+[12] Avis d’appel modifié, aux paragraphes 14.1 et 16.1.
+[13] Avis d’appel, aux paragraphes 13 à 19.
+[14] Paragraphe 13c) des observations écrites présentées à l’encontre de la requête en modification de l’avis d’appel de l’appelante.
+[15] Avis d’appel, au paragraphe 37.
+[16] Avis d’appel modifié, à l’alinéa 28d).
+[17] Avis d’appel, au paragraphe 36.
+[18] Réponse à l’avis d’appel, au paragraphe 35. Aux dires de l’appelante, la période non comprise dans la période normale de nouvelle cotisation va du 1er juin 2002 au 30 avril 2004, alors que, selon l’intimée, cette période va du 1er juin 2002 au 31 mars 2004.

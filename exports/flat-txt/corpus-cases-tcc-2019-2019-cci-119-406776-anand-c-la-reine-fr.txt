@@ -1,0 +1,234 @@
+Title: Anand c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/406776/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-119-406776-anand-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-05-23
+
+# Anand c. La Reine
+
+- Citation: 2019 CCI 119
+- Decision date: 2019-05-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4390, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Anand c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-05-23
+Référence neutre
+2019 CCI 119
+Numéro de dossier
+2015-5217(GST)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2015-5217(GST)G
+ENTRE :
+SUTIKSHAN ANAND,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 11 et 12 octobre 2017, à Hamilton (Ontario) Observations écrites reçues de l’intimée le 25 avril 2019 et de l’appelant le 25 mai 2019
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l’appelant :
+Me John P. McLaughlin
+Avocat de l’intimée :
+Me Stan W. McDonald
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation à la taxe sur les produits et services et à la taxe de vente harmonisée pour la période s’écoulant du 10 novembre 2010 au 31 décembre 2012 est accueilli et la cotisation est annulée. Les dépens sont adjugés à l’appelant.
+Signé à Ottawa, Canada, ce 23e jour de mai 2019.
+« Robert J. Hogan »
+Le juge Hogan
+Traduction certifiée conforme
+ce 16e jour d'avril 2020.
+François Brunet, réviseur
+Référence : 2019 CCI 119
+Date : 20190523
+Dossier : 2015-5217(GST)G
+ENTRE :
+SUTIKSHAN ANAND,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] Le ministre du Revenu national (le « ministre ») a établi une cotisation à l’égard de montants nets de la taxe sur les produits et services et de la taxe de vente harmonisée (« TPS/TVH ») de l’appelant pour des services qu’il a assurés relativement à la construction d’une maison sur mesure à Burlington en Ontario (« le projet de construction de la résidence ») durant la période s’écoulant du 10 novembre 2010 au 31 décembre 2012.
+[2] Dans la cotisation visée par l’appel, le ministre a conclu que l’appelant aurait dû percevoir la somme de 178 318,59 $ à titre de TPS/TVH. En l’occurrence, le ministre a autorisé l’appelant à réclamer 57 835,76 $ à titre de crédit de taxe sur les intrants (« CTI ») relativement aux factures qu’il a payées pour des services et des matériaux de construction fournis par d’autres inscrits. Le montant de la TPS/TVH contestée après le calcul du CTI s’élève ainsi à la somme approximative de 120 482,83 $.
+[3] Le ministre a également imposé des pénalités pour faute lourde pour les périodes visées par l’appel en application de l’article 285 de la Loi sur la taxe d’accise (la « Loi »). L’avocat de l’intimée a reconnu à l’audience que l’intimée avait omis d’établir les circonstances justifiant l’imposition de pénalités pour faute lourde et a consenti à un jugement en faveur de l’appelant à ce chapitre.
+[4] L’intimée a établi une cotisation à l’égard de l’appelant au motif qu’il avait œuvré à titre d’entrepreneur général. Elle s’appuie ainsi sur son interprétation de l’entente écrite conclue entre l’appelant et les propriétaires, le Dr Gupta et son épouse, la Dre Khanna (les « propriétaires »), pour la construction de leur maison.
+[5] Selon l’intimée, l’appelant a accepté de construire la résidence pour la somme de 1 550 000 $, incluant la TPS/TVH.
+[6] L’intimée soutient que l’appelant a acheté tous les matériaux nécessaires pour construire la maison entièrement à son propre nom, puis qu’il a embauché des sous-traitants pour l’aider pour la construction de la résidence, conformément aux plans fournis par les propriétaires.
+[7] Dans ses observations écrites présentées à la Cour le 25 avril 2019, l’intimée avance que l’appelant invite notre Cour à examiner l’imposante preuve extrinsèque présentée à l’audience afin d’expliquer l’intention alléguée des parties dans le contrat qu’elles ont conclu. L’intimée soutient que cette preuve n’est pas admissible.
+[8] L’appelant conteste la définition du ministre de l’entente en cause dans le présent appel. Selon lui, il a seulement œuvré à titre de gestionnaire dans le cadre du projet de construction de la résidence, tandis que son épouse a été embauchée par les propriétaires pour leur assurer des services de décoration intérieure. Ensemble, ils ont gagné un revenu de 150 000 $ sur une période de trois ans en échange de leurs services. Il était entendu qu’ils se partageraient cette somme à parts égales. L’appelant et son épouse ont déclaré un revenu de 25 000 $ pour ces services pour chacune des années d’imposition 2010, 2011 et 2012. Selon l’appelant, son épouse et lui n’étaient pas tenus de réclamer la TPS sur les honoraires facturés aux propriétaires, car ils étaient de « petits fournisseurs » au sens de la Loi.
+[9] L’appelant soutient que la preuve extrinsèque présentée par ses témoins est admissible, car le contrat écrit comporte des ambiguïtés qui peuvent seulement être clarifiées par la prise en compte de cette preuve.
+I. Faits
+[10] L’appelant a cité le Dr Gupta à témoigner. Le Dr Gupta a expliqué que lui et son épouse avaient acheté une résidence existante située au 1344, promenade Beaufort à Burlington, en Ontario. La résidence était située sur un grand terrain dans un quartier cossu. Au moment de l’achat, le couple avait prévu de la démolir et de construire une nouvelle résidence sur mesure sur le terrain. Ils ont payé environ 650 000 $ pour le terrain et la résidence.
+[11] Le Dr Gupta a ensuite embauché un architecte pour dessiner les plans détaillés de la nouvelle résidence de sa famille. C’est un ami proche de la famille qui, en apprenant son projet, a suggéré au Dr Gupta qu’il embauche son ami, l’appelant, à titre de superviseur du projet de construction de la résidence. Le Dr Gupta et son épouse sont dentistes, à l’horaire chargé. Il a expliqué que leur clinique dentaire était bien occupée, ce qui leur laissait très peu de temps pour gérer le projet de construction de la résidence. De plus, ils n’avaient pas beaucoup de connaissances dans ce domaine. Il connaissait l’appelant personnellement, car il était un ami proche de l’oncle de son épouse.
+[12] L’appelant a reçu une formation d’ingénieur à l’étranger, mais il n’est pas autorisé à exercer cette profession au Canada. L’appelant exerçait les fonctions de vendeur avant le début du projet de construction. Il avait déjà supervisé la construction de sa propre résidence familiale à Oakville, en Ontario. L’épouse de l’appelant avait réalisé la décoration intérieure de leur résidence.
+[13] Le Dr Gupta avait été impressionné par la qualité de la résidence actuelle de l’appelant. Il était sûr que l’appelant pourrait superviser la construction de sa résidence. À ce titre, il a expliqué qu’il avait embauché l’appelant afin qu’il l’aide à réaliser les tâches suivantes :
+1) la définition d’un budget;
+2) l’embauche de gens de métier qualifiés;
+3) l’achat de tous les matériaux et fournitures;
+4) la supervision de tous les travaux pour toute la durée du chantier;
+5) la décoration intérieure de la résidence.
+[14] Le Dr Gupta a témoigné que l’épouse de l’appelant avait réalisé la décoration intérieure de sa résidence. L’épouse de l’appelant, Bindu Anand, a aidé la Dre Khanna avec la décoration intérieure et l’aspect général de la nouvelle résidence.
+[15] Le Dr Gupta et son épouse ont accepté de verser la somme de 150 000 $, en trois versements égaux sur la période de construction de trois ans, à l’appelant et à son épouse en échange des services susmentionnés.
+[16] Le Dr Gupta a expliqué qu’il faisait confiance à l’appelant en raison de ses liens personnels avec un membre de sa famille rapprochée et qu’ils s’étaient entendus pratiquement sur une [traduction] « simple poignée de main ». Ceci dit, il voulait que les parties concluent une entente définissant le travail devant être réalisé dans le cadre du projet de construction de la résidence. Il ne pouvait pas se souvenir si c’était lui ou l’appelant qui avait déniché le gabarit utilisé pour rédiger leur entente. Il pourrait l’avoir trouvé en effectuant une recherche sur le Web.
+[17] Selon le Dr Gupta, l’entente a servi à définir le budget du projet. Son épouse et lui avaient souscrit un emprunt pour la construction de la résidence et ils voulaient avoir la garantie que les coûts réels ne dépasseraient pas le montant du prêt consenti par la banque. Le Dr Gupta voulait également fixer le montant qui serait versé à l’appelant et à son épouse en échange de services précis. Comme mentionné dans les présentes, le Dr Gupta a accepté de verser la somme forfaitaire de 150 000 $, incluant la TPS/TVH, à l’appelant pour la supervision du projet de construction ainsi que pour les services de décoration intérieure de l’épouse de celui-ci. Il affirme n’avoir jamais vu l’appelant faire des travaux de construction lui-même, et ce, à quelque moment que ce soit durant la construction. L’appelant a plutôt entièrement fait appel à des sous-traitants.
+[18] Durant son témoignage, le Dr Gupta a confirmé qu’il était responsable de tout dépassement de coût. En fait, le projet a, au final, coûté plus cher que le budget prévu. Le Dr Gupta a aussi témoigné qu’il payait les sous-traitants soit directement, soit indirectement par l’entremise de l’appelant qui, lui, payait les sous-traitants à l’aide des sommes versées par le Dr Gupta.
+[19] Le témoignage de l’appelant corroborait celui du Dr Gupta. L’appelant a expliqué que c’était l’oncle du Dr Gupta qui lui avait demandé s’il souhaitait intervenir à titre de gestionnaire du projet de construction. Il a expliqué qu’il avait commencé par aider le Dr Gupta et son épouse à définir le budget pour le projet. Il a ensuite rencontré des sous-traitants souhaitant participer au projet et il s’est entendu avec eux sur un budget en échange de leurs services. Les sous-traitants rencontraient ensuite les propriétaires pour obtenir leur assentiment final avant d’être embauchés. Son épouse et lui ont également aidé le couple à choisir les armoires de cuisine, les moulures, les fournitures de salle de bain, les tuiles et les autres matériaux intérieurs. Il présentait régulièrement un rapport aux propriétaires sur l’état d’avancement des travaux. La plupart du temps, les propriétaires transféraient des fonds à l’appelant afin qu’il paie les biens et les services fournis aux propriétaires par les sous-traitants et les autres fournisseurs. A quelques occasions, le Dr Gupta a payé les fournisseurs directement.
+[20] L’appelant a produit un document de la Banque privée BMO Harris expliquant que le prêt consenti pour la construction s’élevait à 1 395 000 $. Le Dr Gupta et la Dre Khanna ont effectué des transferts de fonds à l’appelant des montants suivants, soit 198 000 $, 569 000 $, 198 000 $, 107 000 $ et 98 000 $. Il ressort des preuves que l’appelant a reçu 1 170 000 $ en tout, ce qui inférieur à la somme de 1 550 000 $ estimée par le vérificateur de l’Agence du revenu du Canada à titre de paiement à l’appelant.
+[21] L’appelant et son épouse ont témoigné avoir déclaré un revenu de 25 000 $ pour ces services pour chacune des années d’imposition 2010, 2011 et 2012. Son épouse a confirmé qu’elle a déclaré le même montant pour chaque année d’imposition susmentionnée. Elle a corroboré le témoignage de son mari voulant qu’ils travaillaient en équipe au projet de construction de la résidence; qu’elle avait répondu aux besoins de décoration intérieure des propriétaires; et que son mari avait assuré des services de gestion de projet relativement au projet de construction de la résidence.
+[22] L’appelant a cité Katie Benoit, vérificatrice de l’Agence du revenu du Canada (« Agence ») à témoigner, qui était chargée de son dossier. Son témoignage ne fait nul doute qu’elle avait conclu que l’appelant était intervenu en qualité d’entrepreneur général dans le cadre du projet de construction de la résidence et qu’elle s’était appuyée presque exclusivement sur son interprétation du contrat signé entre l’appelant et les propriétaires pour parvenir à cette conclusion [1] .
+[23] Mme Benoit a subi un long contre-interrogatoire au cours duquel l’avocat de l’appelant l’a questionnée en maints détails sur les modalités du contrat. Par exemple, il lui a fait remarquer que le préambule de l’annexe F (intitulé [traduction] « Description du travail ») du contrat prévoit que Sutikshan Anand et les sous-traitants devaient assurer des services au propriétaire en contrepartie du prix convenu selon le contrat, soit 1 550 000 $. Ce préambule était suivi d’une liste de services devant être assurés. Ces questions visaient essentiellement à démontrer qu’aucun des services énumérés n’était véritablement assuré par l’appelant, ce qui était contraire à la l’interprétation de Mme Benoit voulant que l’appelant fût intervenu à titre de mandant et eût embauché des sous-traitants pour réaliser le projet en son nom. Il ressort plutôt du texte de l’annexe que les sous-traitants assuraient leurs services directement aux propriétaires.
+[24] Il était manifeste, vu le témoignage de Mme Benoit, qu’elle ne s’était pas adressée aux propriétaires pour déterminer leur compréhension de l’entente. Comme nous l’avons signalé plus haut, le témoignage du Dr Gupta correspondait à celui de l’appelant; c’est-à-dire que ce dernier est intervenu uniquement à titre de gestionnaire de projet dans le cadre de la construction de la résidence.
+[25] L’avocat de l’appelant a présenté d’autres éléments de preuve contraires à la position retenue par Mme Benoît, qui a recommandé l’établissement de la cotisation en cause dans l’espèce. Par exemple, il a fait remarquer à Mme Benoit que les paiements reçus par l’appelant ne s’élevaient pas à 1 550 000 $. Elle avait présumé que l’appelant avait reçu la somme entière. Toutefois, à sa défense, l’appelant n’a pas été en mesure de fournir tous ses relevés bancaires à Mme Benoît pour toute la période du projet de construction.
+[26] L’avocat de l’appelant a également souligné que le Dr Gupta avait témoigné qu’il avait payé certains fournisseurs directement. À ce titre, l’avocat a signalé une facture de 73 111 $ pour l’achat des fenêtres qui était adressée au Dr Gupta et non à l’appelant. Ces éléments correspondent davantage à la version de l’appelant voulant que les sous-traitants assuraient leurs services aux propriétaires, et non à l’appelant. Finalement, l’avocat de l’appelant a soutenu devant le témoin que l’appelant n’avait pas personnellement exécuté quelque service que ce soit en lien avec le projet de construction de la résidence, autre que l’organisation et la supervision du projet. La témoin n’a pas contesté cette thèse.
+II. Questions en litige
+[27] En l’espèce, il faut d'abord rechercher si la preuve extrinsèque est admissible et, le cas échéant, dans quelle mesure elle est utile quant à l’interprétation du contrat conclu entre les parties et utilisé par le ministre pour établir la cotisation à l’encontre de l’appelant.
+[28] Cette preuve servira ensuite à déterminer le rôle de l’appelant dans la prestation de services de construction aux propriétaires. Est-il intervenu à titre de gestionnaire de projet, ce qui aurait possiblement fait de lui le mandataire de l’appelant, ou à titre d’entrepreneur général comme l’a conclu le ministre? S’il est conclu qu’il était gestionnaire de projet, cela signifie-t-il que l’appelant était le mandataire des propriétaires?
+III. Analyse
+A. La preuve extrinsèque peut-elle être utilisée afin de rechercher si l’appelant était gestionnaire de projet ou entrepreneur général agissant pour le compte des propriétaires?
+[29] La règle d’exclusion de la preuve extrinsèque est une règle de droit des contrats qui exclut les éléments de preuve extrinsèques pour [traduction] « modifier, moduler, ou interpréter de quelques façons que ce soit les mots utilisés dans la rédaction du contrat [2] ». Selon le juge Sopinka, cette notion repose sur la présomption voulant que « lorsque les parties mettent un accord par écrit, elles y incluent toutes les conditions et détails nécessaires et elles veulent que le contrat écrit renferme la totalité des conditions [3] ». La règle vise à [traduction] « empêcher l’utilisation de négociations extrinsèques fabriquées ou douteuses pour attaquer des contrats écrits en bonne et due forme [4] ». En outre, il s’agit d’éviter que les contrats ne puissent pas être acceptés tels quels, ce qui susciterait de l’incertitude dans les milieux commerciaux [5] .
+[30] Je constate que, en l’espèce, la preuve extrinsèque n’a pas été présentée à cette fin. Or, plutôt que d’attaquer la validité du contrat qu’ils ont signé, l’appelant et le Dr Gupta veulent utiliser la preuve extrinsèque afin d’établir que le contrat formel qu’ils ont signé ne correspondait pas exactement à l’entente et à la relation juridique sous-jacente qui les liait.
+B. Quand peut-on utiliser une preuve extrinsèque?
+[31] La règle d’exclusion de la preuve extrinsèque n’est pas absolue : cette preuve peut être utilisée pour éliminer les ambiguïtés [6] . Les ambiguïtés peuvent être patentes ou latentes [7] . Une ambiguïté patente s’entend de l'ambiguïté résidant dans le contrat en soi; plus particulièrement lorsqu’une clause ou le libellé utilisé dans le contrat est susceptible de plus d’une interprétation raisonnable [8] . En contrepartie, une ambiguïté latente n’est pas manifeste dans le contrat en soi; elle se révèle lorsqu’on tient compte du contexte ou de l'ensemble des faits [9] .
+[32] Considérant les deux types d’ambiguïtés, la jurisprudence a consacré deux approches opposées pour déterminer l’admissibilité de la preuve extrinsèque lorsqu’il est question de clarifier des ambiguïtés dans l’interprétation d’un contrat. Selon la démarche dite « textuelle », la preuve extrinsèque est seulement admissible lorsque les mots ou les modalités de l’entente sont ambigus (c’est-à-dire, qu’il y a une ambiguïté patente). La démarche « contextuelle », par contre, permet la prise en compte de la preuve extrinsèque en présence d’une ambiguïté latente, ce qui permet l’examen des faits entourant le contrat au moment de sa formation.
+[33] La démarche textuelle est tirée de la réflexion du juge Iacobucci dans l’arrêt Eli Lilly & Co. c. Novopharm Ltd [10] . Dans cet arrêt, il a retenu la position voulant qu’aucune preuve extrinsèque ne devait être prise en compte lorsque « le document est, à première vue, clair et sans ambiguïté ». Plus particulièrement, il s’est exprimé ainsi [11] :
+[...] L’intention des parties contractantes doit être déterminée en fonction des mots qu’elles ont employés en rédigeant le document, éventuellement interprétés à la lumière des circonstances du moment. La preuve de l’intention subjective d’une partie n’occupe aucune place indépendante dans cette décision.
+En fait, il n’est pas nécessaire de prendre en considération quelque preuve extrinsèque que ce soit lorsque le document est, à première vue, clair et sans ambiguïté. Pour reprendre les propos de lord Atkinson dans Lampson c. Ville de Québec (1920), 54 D.L.R. 344 (C.P.), à la p. 350 :
+[traduction]… l’intention qu’il faut rechercher en interprétant l’acte est celle des parties telle qu’elle se dégage des termes qu’elles ont utilisés dans l’acte lui-même. [...] [S]i la signification de l’acte, selon le sens ordinaire des mots qui y sont employés, est claire et sans ambiguïté, il n’est pas permis aux parties à cet acte, aussi longtemps qu’il n’est pas modifié, de venir affirmer devant une cour de justice : « Notre intention était tout à fait différente de celle qui est exprimée par les termes de l’acte [...]. » [12]
+[34] En matière de droit fiscal, le juge Nadon a appliqué le critère plus rigoureux. S’exprimant pour la majorité dans l'arrêt GM [13] rendu par la Cour d’appel fédérale, il a observé :
+[...] Premièrement, s’il ne décèle aucune ambiguïté dans le document à l’examen, le tribunal ne peut tenir compte d’éléments de preuve extrinsèques. Deuxièmement, les éléments de preuve dont on peut effectivement tenir compte doivent se rapporter aux « circonstances du moment ». Troisièmement, même lorsqu’il y a une ambiguïté, les éléments de preuve portant uniquement sur l’intention subjective d’une personne ne sont pas admissibles [14] .
+[35] Le juge Nadon a conclu que le juge de la Cour canadienne de l’impôt avait commis une erreur en concluant à l’existence d’une ambiguïté à partir de la preuve extrinsèque présentée par les parties; elle aurait dû procédé à l'analyse du texte même de l’entente en cause.
+[36] Mon collègue, le juge Campbell, a suivi ce raisonnement dans la décision Online Finance c. La Reine [15] .
+[37] La démarche contextuelle s’appuie sur une doctrine consacrée par une jurisprudence anglaise plus récente que celle examinée par le juge Iacobucci dans l’arrêt Eli Lilly. Elle vise à promouvoir davantage de certitude commerciale et à protéger les attentes raisonnables des parties.
+[38] Cette démarche a d’abord été retenue par l'arrêt Dumbrell v. The Regional Group of Companies Inc. (Dumbrell). [16] Selon le juge Doherty, bien que la signification ordinaire des mots [traduction] « est importante, voire souvent déterminante pour établir la signification du document », l'examen du [traduction] « contexte objectif » dans lequel l’accord écrit a été établi fait [traduction] « partie intégrante du processus d’interprétation et non seulement un élément à prendre en compte lorsque les mots, pris individuellement, laissent place à une certaine ambiguïté » [17] . Par conséquent, il a conclu que la prise en compte de la preuve extrinsèque ne doit pas se limiter aux cas d’ambiguïté patente.
+[39] J’ai fait les propos observations suivantes sur la démarche contextuelle dans la décision River Hills Ranch Ltd. c. La Reine [18] :
+Des décisions judiciaires plus récentes ont clarifié la pertinence des « circonstances du moment » et donné ouverture à une approche différente de celle qui est exposée dans l’arrêt GM. Par exemple, dans l’arrêt Dumbrell c. Regional Group of Companies Inc. (« Dumbrell ») [19] , après avoir fait référence à l’opinion de lord Hoffmann dans la décision Investors Compensation Scheme Ltd v. West Bromwich Building Society [20] , le juge Doherty, de la Cour d’appel de l’Ontario, a signalé : [traduction] « il convient de distinguer la signification du contrat écrit de la signification lexicographique et syntaxique des termes qui y sont employés ». Selon le juge Doherty, bien que la signification ordinaire des mots [traduction] « sera importante, voire souvent déterminante pour établir la signification du document », un [traduction] « examen du contexte objectif [21] » dans lequel l’accord écrit a été établi sera partie intégrante du processus d’interprétation et non seulement un élément à prendre en compte lorsque les mots, pris individuellement, laissent place à une certaine ambiguïté.
+[40] La démarche contextuelle a également été suivie par mon collègue, le juge Miller à l'occasion de l'affaire Henco Industries Ltd. c. La Reine [22] . L’affaire Henco portait sur la classification à titre de revenu ou de capital de la vente d’une propriété d’un promoteur immobilier au gouvernement ontarien. L’interprétation de l’accord de vente était au cœur du différend, la vente s’étend produite en raison d’un mouvement de protestation important de la part de membres des Premières Nations, certains ayant été jusqu’à barricader la propriété.
+[41] Le juge Miller a conclu qu’il ne s’agissait pas d’une transaction intervenue entre deux parties non liées parvenant à une décision commerciale raisonnable, et procédant à la consignation de celle-ci par écrit [23] . La transaction était plutôt le résultat de circonstances exceptionnelles et il était impératif de déterminer l’incidence de ces circonstances, ou la matrice factuelle, sur l’entente conclue entre les parties [24] .
+[42] Le juge Miller a également fait remarquer que la mission de la Cour canadienne de l’impôt consistait à établir l’exactitude d’une cotisation fiscale pourrait aboutir à un assouplissement à l’égard de la règle d’exclusion de la preuve extrinsèque [25] .
+[43] En l’espèce, il n'est pas controversé entre les parties que le contrat ne reflète pas exactement leur entente. En outre, le Dr Gupta a témoigné qu’il avait eu l’intention d’embaucher l’appelant à titre de gestionnaire de projet en raison de la confiance que lui inspiraient leurs liens familiaux. De plus, l’appelant a témoigné qu’il avait signé le contrat sans le lire. Néanmoins, le contrat demeure un élément de preuve important en soi qui constitue un point de départ raisonnable pour déterminer s’il y a des ambiguïtés qui appelleraient l’examen de la preuve extrinsèque.
+[44] La vérificatrice de l’Agence a conclu que l’appelant n’avait pas la qualité de mandataire en se fondant sur son interprétation du contrat lequel, selon elle, portait que l’appelant avait signé l’entente à titre d’entrepreneur général acceptant de construire une maison pour un prix fixe. Cette conclusion était fondée, en partie, sur le [traduction] « montant fixe établi » de 1 550 000 $ figurant sous la rubrique [traduction] « Modalités de paiement » du contrat, ainsi que de la liste des paiements effectués par les propriétaires à l’appelant figurant à l’annexe [traduction] « Calendrier des versements » du contrat, laquelle annonce une série d’étapes fondées sur le montant convenu.
+[45] Le jugement Jo/Vi Ltd. v. Balmoral Developments Inc. [26] expose une définition d’un contrat à prix fixe :
+[traduction]
+Les contrats à prix fixe appartiennent à une catégorie spéciale de contrats en droit de la construction. En vertu de tels contrats, l’entrepreneur accepte d’effectuer tous les travaux nécessaires à la construction en contrepartie d’un montant fixe. L’entrepreneur prend ainsi un risque calculé; le coût réel des travaux pouvant être plus élevé que prévu. En outre, il doit réaliser les travaux en entier, et ce, peu importe la charge de travail nécessaire, puis il recevra la somme convenue, mais aucun montant supplémentaire.
+[46] À l’annexe F du contrat, les frais de gestion et de décoration sont établis à 150 000 $, un montant présumément équivalent au profit que le Dr Gupta avait prévu remettre à l’appelant en lien avec le projet. Or, ce montant ne correspondant pas aux dispositions sur les (modalités de paiement) qui semblent, à première vue, indiquer qu’il s’agissait d’un contrat à prix fixe, dans le cadre duquel l’appelant aurait agi à titre d’entrepreneur général. Il ne correspond pas non plus à la conclusion de la vérificatrice de l’Agence voulant qu’il agisse d’un contrat à prix fixe conclu avec un entrepreneur général.
+[47] En effet, comme le mentionne l’extrait précité de la décision Jo/Vi Ltd., la caractéristique déterminante d’un contrat à tarif fixe est la suivante : en offrant un prix fixe, l’entrepreneur assume le risque de perdre une part de ses profits si les coûts du projet sont plus élevés que prévu. Parallèlement, il peut obtenir une marge de profit plus élevée si les coûts sont finalement moins élevés que prévu. Quoi qu’il en soit, le client n’est pas préoccupé par le profit gagné par l’entrepreneur, car il est protégé par le prix fixé, qui n’est nullement influencé par la marge de profit de l’entrepreneur.
+[48] En revanche, dans un contrat de gestion de projet, le gestionnaire de projet facture soit un tarif fixe, soit un tarif horaire fondé sur le nombre d’heures consacrées à la supervision du projet. L’entente financière conclue entre les propriétaires et l’appelant correspond à un contrat de gestion de projet classique.
+[49] Dans l’annexe F, intitulée [traduction] « Description du travail », il est également indiqué que [traduction] « Sutikshan Anand et les sous-traitants fourniront les services suivants au propriétaire, lesquels sont compris dans le prix du contrat, soit 1 550 000 $ », puis on retrouve une longue liste de services. Habituellement, dans un contrat de service conclu avec un entrepreneur général, il est précisé que les services sont exclusivement offerts par l’entrepreneur général, puis les factures des coûts des biens et des services offerts par les sous-traitants sont majorées par l’entrepreneur avant d’être facturées au client final.
+[50] L’appelant et le Dr Gupta ont également témoigné que les sous-traitants ont été payés soit par l’appelant (au moyen de fonds provenant des propriétaires) soit directement par le Dr Gupta. Bien qu’un grand nombre de factures de sous-traitants soient adressées à l’appelant, l’avocat de l’appelant a attiré l'attention de notre Cour sur une facture adressée au Dr Gupta d’un montant de 73 111 $ pour des fenêtres. Il semble également y avoir une autre facture adressée aux propriétaires, pour un système de sécurité résidentiel, parmi les factures présentées à la Cour [27] .
+[51] Il ressort de ces faits, combinés au montant de 150 000 $ en frais de gestion et de décoration qui figure dans le contrat, un certain degré de cloisonnement. En outre, l’appelant devait réaliser une tâche précise (soit la supervision de la construction) parmi les autres composantes du projet de construction de la résidence dans son ensemble. Ceci est d’autant plus clair que les diagrammes figurant au contrat affichent le sceau d’approbation d’un ingénieur. Or, bien que l’appelant soit ingénieur de formation, il n’est pas ingénieur au Canada. En conséquence, il n’est pas en mesure de certifier de tels plans.
+[52] Durant l’audience, l’appelant a témoigné qu’il avait été en mesure d’obtenir des réductions de la part de plusieurs fournisseurs, desquelles le Dr Gupta a ensuite profité. Il y aurait là comportement inhabituel de la part d’un entrepreneur général. En effet, l’entrepreneur général aurait déjà tenu compte des réductions que lui offrent les fournisseurs dans l’établissement du prix fixe et dans ses prévisions de profit en lien avec le projet.
+[53] Les incohérences susmentionnées me permettent de conclure que le contrat est ambigu, même si l’on suit la démarche textuelle plus conservatrice. Par la suite, l’examen de la matrice factuelle élargie de l’entente (comme l’exige la démarche contextuelle) révèle d’autres ambiguïtés. Par conséquent, je partage l’avis de l’appelant : la preuve extrinsèque, incluse dans son propre témoignage ainsi que dans ceux du Dr Gupta et de son épouse, est admissible en raison de l’ambiguïté patente du contrat énoncé précédemment.
+[54] Quant à la question de déterminer l’admissibilité d'éléments particuliers de la preuve extrinsèque, et malgré l’assouplissement de la règle d’exclusion de la preuve extrinsèque en matière fiscale consacré par la jurisprudence Henco, il n’en demeure pas moins qu’on ne peut pas admettre une preuve extrinsèque seulement pour développer l’intention subjective des parties. En outre, la Cour d’appel fédérale a récemment réitéré ce point en matière fiscale dans la décision Club Intrawest c. La Reine (il s'agissait aussi d'ailleurs d'une affaire de mandat); la Cour a alors conclu que le témoignage du mandant allégué voulant qu’il ne sache pas que l’appelante se présentait comme son mandataire n’était pas admissible, étant contraire à la règle d’exclusion de la preuve extrinsèque [28] .
+[55] En revanche, la preuve avancée dans l’espèce par l’appelant, son épouse et le Dr Gupta porte sur des faits objectifs; ce qui est admissible comme l’a confirmé le juge Rothstein dans l’arrêt Creston Moly Corp. [29] .
+[56] Comme il est observé dans le jugement Henco, la fiscalité ne s’apprécie pas en vase clos. On prend souvent en compte la preuve extrinsèque afin d’établir la véritable relation juridique qui unit les parties dans un contrat. Le juge Miller a donné de nombreux exemples à ce titre dans le jugement Henco, incluant, comme nous l’avons signalé plus haut, la détermination du statut d’employé ou d’entrepreneur indépendant de quelqu’un, laquelle est très semblable à la question de l’existence, ou non, d’une relation de mandant à mandataire.
+[57] En l’espèce, la position de l’intimée semble manifestement injuste. L’intimée m'invite à faire abstraction de la preuve extrinsèque de l’appelant dans le cadre de mon interprétation de l’entente. Il est clair, lorsque je tiens compte du contexte factuel de la négociation de l’entente, ainsi que de la conduite ultérieure des parties, que l’entente ne correspond pas exactement à leur véritable intention. Les parties ont été négligentes dans la documentation de leur entente; toutefois, vu les incohérences de l'entente, son interprétation est difficile sans la preuve extrinsèque produite par l’appelant.
+C. Deuxième question : l’appelant était-il un mandataire?
+[58] La Cour d’appel fédérale a consacré le principe suivant dans l'arrêt La Reine c. Merchant Law Group quant à la définition du mandataire :
+[...] une condition essentielle de la relation de mandataire [est] la capacité d’influer sur la situation juridique du mandant relativement à l’opération en cause [30] .
+[59] Plus précisément, la relation de mandant à mandataire appelle la réunion de trois éléments [31] :
+(a) Le contrôle par le mandant des actes du mandataire;
+(b) Le consentement du mandant et du mandataire;
+(c) Le pouvoir du mandataire d’influer sur la situation juridique du mandant [32] .
+[60] En ce qui a trait à la preuve nécessaire pour établir l’existence d’une relation de mandant à mandataire lorsque deux parties ne qualifient pas leur relation comme telle et qu’il n’y a eu aucune nomination expresse de l’un à titre de mandataire de l’autre, j’ai fait les observations suivantes dans la décision Fourney c. La Reine [33] :
+[...] [...] le critère permettant de conclure à l’existence d’un mandat, en l’absence d’une entente écrite, est un critère restrictif qui exige la preuve de la conduite nécessaire.
+[61] J’ai ensuite exposé certains des principes du mandat implicite [34] :
+(a) [...] en l’absence d’une entente écrite, la Cour doit examiner minutieusement la conduite des parties afin de savoir s’il existait une intention implicite de créer un mandat [...] [35]
+(b) Une considération cruciale, lorsqu’il s’agit d’examiner la conduite du mandant prétendu et de ses mandataires, consiste à établir le degré de contrôle exercé par le mandant sur le mandataire [36] .
+(c) Le degré de contrôle exercé par le mandant allégué sur les actions du mandataire allégué peut se manifester dans le pouvoir accordé par le premier au second. En d’autres mots, les concepts d’autorité et de contrôle se chevauchement parfois [37] .
+[62] Comme l’a observé la Cour canadienne de l’impôt dans la décision Club Intrawest c. La Reine [38] :
+[...] Lorsque le mandataire intervient pour le mandant principal lors de l’acquisition d’un bien ou d’un service d’un fournisseur tiers, le mandataire n’effectue pas une fourniture du bien ou du service à son mandant, il intervient tout simplement comme relais.
+[63] Je suis d'avis, à la lumière de la preuve extrinsèque, que l’appelant n’a pas accepté d’intervenir à titre d’entrepreneur général. Il intervenait plutôt à titre de gestionnaire de projet. À ce titre, il représentait les propriétaires lorsqu’il embauchait, payait et supervisait les sous-traitants en leur nom, ainsi que lorsqu’ils achetaient des matériaux pour la construction de la résidence. Dans les deux cas, ces dépenses ont été remboursées à l’appelant par les propriétaires. En d’autres mots, il s’agit d’une relation de mandat implicite, car l’appelant intervenait à titre d’intermédiaire entre les fournisseurs et les propriétaires.
+[64] Ainsi, en qualité de petit fournisseur en application de l’article 166 de la Loi, l’appelant n’était pas tenu de s’inscrire aux termes de la Loi et de percevoir la TPS/TVH à l’égard de ses honoraires de 75 000 $ pour la gestion du projet.
+[65] Pour tous ces motifs, l’appel est accueilli et la cotisation est annulée.
+Signé à Ottawa, Canada, ce 23e jour de mai 2019.
+« Robert J. Hogan »
+Le juge Hogan
+Traduction certifiée conforme
+ce 16e jour d'avril 2020.
+François Brunet, réviseur
+RÉFÉRENCE :
+2019 CCI 119
+NO DU DOSSIER DE LA COUR :
+2015-5217(GST)G
+INTITULÉ :
+SUTIKSHAN ANAND c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Les 11 et 12 octobre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 23 mai 2019
+COMPARUTIONS :
+Avocat de l’appelant :
+Me John P. McLaughlin
+Avocat de l’intimée :
+Me Stan W. McDonald
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me John P. McLaughlin
+Avocat
+Cabinet :
+2135, ch. Lakeshore Ouest
+Oakville (Ontario) L6L 1H1
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Le contrat a été produit à titre de pièce R-2.
+[2] G.H.L. Fridman, The Law of Contract in Canada, 6e éd., 2011, Carswell, Toronto, p. 440.
+[3] Voir United Brotherhood of Carpenters and Joiners of America, Local 579 c. Bradco Construction Ltd., [1993] 2 R.C.S. 316 (QL), au paragraphe 42 (Bradco).
+[4] Ibid.
+[5] Leeds Neckware Inc. c. Sous-ministre du Revenu national, 1998 CarswellNat 6114 (Tribunal canadien du commerce extérieur).
+[6] Voir King c. Operating Engineers Training Institute of Manitoba Inc., 2011 MBCA 80, au paragraphe 34 ff. et Gallen et al. c. Allstate Grain Co. Ltd. et al., (1984), 9 D.L.R. (4th) 496 (B.C.C.A.) à la page 506.
+[7] Voir Bradco, précité à la note 3, au paragraphe 43 et La Reine c. General Motors of Canada Ltd., 2008 CAF 142 (GM)
+[8] Bradco, précité, note 3, au paragraphe 43; GM, précitée, note 7, au paragraphe 34.
+[9] Bradco, précité, note 3, au paragraphe 43; Bovey v. Bovey Estate, [1991] B.C.J. no 3370 (QL).
+[10] [1998] 2 R.C.S. 129 (Eli Lilly).
+[11] Ibid, aux paragraphes 54 et 55.
+[12] Voir la note en bas de page précédente.
+[13] 2008 CAF 142 (C.A.F.).
+[14] GM, précité, note 7, au paragraphe 36.
+[15] 2010 CCI 117.
+[16] Dumbrell c. The Regional Group of Companies Inc., 2007 ONCA 59, [2007] O.J. No. 298 (QL), 85 O.R. (3d) 616, aux paragraphes 51 à 55.
+[17] Ibid. aux paragraphes 52 à 56.
+[18] 2013 CCI 248, au paragraphe 42.
+[19] Dumbrell, précité, note 16, aux paragraphes 51 à 56.
+[20] [1998] 1 All E.R. 98.
+[21] Dumbrell, précité, note 16, au paragraphe 56, citant le lord juge Steyn.
+[22] 2014 CCI 192 (Henco).
+[23] Ibid., au paragraphe 92.
+[24] Ibid.
+[25] Ibid, aux paragraphes 89 et 90.
+[26] Jo/Vi Ltd. v. Balmoral Developments Inc., 2014 ONSC 6803, 2014 CarswellOnt 17299, 247 A.C.W.S. (3d) 559, au paragraphe 22 (Jo/Vi Ltd.)
+[27] Pièce R-1, onglet 4, page 18.
+[28] Club Intrawest c. La Reine, 2017 CAF 151, 2017 CarswellNat 3241, au paragraphe 61.
+[29] Sattva Capital Corp. c. Creston Moly Corp., 2014 CSC 53, [2014] 2 R.C.S. 633, au paragraphe 58.
+[30] La Reine c. Merchant Law Group, 2010 CAF 206, au paragraphe 28.
+[31] Grosvenor Canada Ltd. v. South Coast British Columbia Transportation Authority, 2015 BCSC 177; 2015 CarswellBC 285, au paragraphe 58.
+[32] Creston Moly Corp. c. Sattva Capital Corp., 2014 CSC 53, 2014, au paragraphe 57
+[33] Fourney c. La Reine, 2011 CCI 520, au paragraphe 39.
+[34] Ibid., au paragraphe 43.
+[35] Ibid., au paragraphe 44.
+[36] Ibid., au paragraphe 45.
+[37] Ibid., au paragraphe 46.
+[38] Club Intrawest c. La Reine, 2016 CCI 149, 2016 CarswellNat 2327, [2016] G.S.T.C. 59 (procédure générale), au paragraphe 71.

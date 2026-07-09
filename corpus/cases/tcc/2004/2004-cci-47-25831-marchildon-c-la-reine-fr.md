@@ -1,0 +1,257 @@
+---
+title: "Marchildon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25831/index.do"
+last_modified: "2004-01-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 47"
+citation2: ""
+neutral_citation: "2004 CCI 47"
+decision_date: "2004-01-16"
+language: "fr"
+item_id: "25831"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3902
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:06:10.059000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b2cfa36ddba8744ef1a12c621309f660a115c1bf0e9cb2a3d4478fae3eac56c2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Marchildon c. La Reine
+
+- Citation: 2004 CCI 47
+- Decision date: 2004-01-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3902, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marchildon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-16
+Référence neutre
+2004 CCI 47
+Numéro de dossier
+2003-796(IT)I, 2003-798(GST)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2003-796(IT)I
+2003-798(GST)I
+ENTRE :
+YVETTE MARCHILDON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Nancy Marchildon (2003-803(IT)I) et (2003-804(GST)I) et Louis Marchildon (2003-793(IT)I) et (2003-794(GST)I) le 29 septembre 2003 à Montréal (Québec).
+Devant : L'honorable juge G. Rip
+Comparutions :
+Représentant de l'appelante :
+Gilles Gratton, c.a.
+Avocate de l'intimée :
+Me Justine Malone
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1996, 1997 et 1998 et de la Loi sur la taxe d'accise sont admis, sans frais, et les cotisations sont déférées au ministre du Revenu national « ministre » pour nouvel examen afin que le ministre puisse cotiser de nouveau en réduisant le montant des fournitures taxables de la nourriture et des repas du restaurant de 9 030,65 $ à 3 000 $ et afin que le ministre réduise les pénalités de l'article 285 de la L.T.A. à l'égard de ce montant; les pénalités et le revenu pour les fins de la L.I.R., s'ils s'appliquent, seront réduits en conséquence.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2004.
+« Gerald J. Rip »
+Rip, J.
+Dossiers : 2003-803(IT)I
+2003-804(GST)I
+ENTRE :
+NANCY MARCHILDON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Yvette Marchildon (2003-796(IT)I) et (2003-798(GST)I) et Louis Marchildon (2003-793(IT)I) et (2003-794(GST)I) le 29 septembre 2003 à Montréal (Québec).
+Devant : L'honorable juge G. Rip
+Comparutions :
+Représentant de l'appelante :
+Gilles Gratton, c.a.
+Avocate de l'intimée :
+Me Justine Malone
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1996 et 1997 et de la Loi sur la taxe d'accise sont admis, sans frais, et les cotisations sont déférées au ministre du Revenu national « ministre » pour nouvel examen afin que le ministre puisse cotiser de nouveau en réduisant le montant des fournitures taxables de la nourriture et des repas du restaurant de 9 030,65 $ à 3 000 $ et afin que le ministre réduise les pénalités de l'article 285 de la L.T.A. à l'égard de ce montant; les pénalités et le revenu pour les fins de la L.I.R., s'ils s'appliquent, seront réduits en conséquence.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2004.
+« Gerald G. Rip »
+Rip, J.
+Dossiers : 2003-793(IT)I
+2003-794(GST)I
+ENTRE :
+LOUIS MARCHILDON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Yvette Marchildon (2003-796(IT)I) et (2003-798(GST)I) et Nancy Marchildon (2003-803(IT)I) et (2003-804(GST)I) le 29 septembre 2003 à Montréal (Québec).
+Devant : L'honorable juge G. Rip
+Comparutions :
+Représentant de l'appelant :
+Gilles Gratton, c.a.
+Avocate de l'intimée :
+Me Justine Malone
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1996 et 1997 et de la Loi sur la taxe d'accise sont admis, sans frais, et les cotisations sont déférées au ministre du Revenu national « ministre » pour nouvel examen afin que le ministre puisse cotiser de nouveau en réduisant le montant des fournitures taxables de la nourriture et des repas du restaurant de 9 030,65 $ à 3 000 $ et afin que le ministre réduise les pénalités de l'article 285 de la L.T.A. à l'égard de ce montant; les pénalités et le revenu pour les fins de la L.I.R., s'ils s'appliquent, seront réduits en conséquence.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2004.
+« Gerald G. Rip »
+Rip, J.
+Référence : 2004CCI47
+Date: 20040116
+Dossiers : 2003-796(IT)I
+2003-798(GST)I
+ENTRE :
+YVETTE MARCHILDON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+Dossiers: 2003-803(IT)I
+2003-804(GST)I
+ENTRE :
+NANCY MARCHILDON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+Dossiers: 2003-793(IT)I
+2003-794(GST)I
+ENTRE :
+LOUIS MARCHILDON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] Yvette Marchildon, Nancy Marchildon et Louis Marchildon interjettent appels à l'encontre des cotisations d'impôt sur le revenu pour les années d'imposition 1996 et 1997 et à l'encontre des cotisations de la taxe d'accise ( « taxe sur les produits et services » ou « TPS » ) pour la période du 1 janvier 1996 au 31 décembre 1998.
+[2] Les trois appelants s'opposent à l'inclusion de montants non déclarés à titre de revenus et contestent les impositions des pénalités du paragraphe 163(2) de la Loi de l'impôt sur le revenu ( « L.I.R. » ) pour les années d'imposition 1996 et 1997. Madame Yvette Marchildon réclame aussi contre l'année d'imposition 1998.
+[3] Les appelants s'opposent également à la cotisation par le ministre du Revenu national « ministre » de montants pour fins de TPS qui n'auraient pas été remis de même qu'à l'imposition des pénalités en vertu de l'article 285 de la Loi sur la taxe d'accise ( « L.T.A. » ).
+[4] Les appels ont été entendus en vertu de la même preuve.
+[5] En établissant ses nouvelles cotisations, le ministre s'est fondé sur les faits suivants:
+(a) Les appelants opéraient un restaurant;
+(b) Le restaurant était opéré en co-propriété à parts égales entre Louis, Yvette et Nancy Marchildon pendant les années 1996 et 1997; Yvette Marchildon avait opéré le restaurant comme seule propriétaire pendant 1998;
+(c) Des machines de vidéo-poker étaient opérées sur les lieux du restaurant pour le bénéfice des appelants Louis et Nancy Marchildon pendant les années 1996 et 1997 et pour le bénéfice de l'appelante Yvette Marchildon pendant 1998;
+(d) Les machines de vidéo-poker étaient la propriété de Grand Prix Amusement Ltd. (ci-après « le fournisseur » );
+(e) Les appelants n'ont pas déclaré de revenu relativement aux machines de vidéo-poker pour les années ou les périodes lorsqu'ils étaient propriétaires du restaurant;
+(f) La Police provincial de l'Ontario a effectué une perquisition de la propriété du fournisseur, le 24 février 1998;
+(g) Les livres du fournisseur ont été trouvés lors de la perquisition;
+(h) Des revenus de machines de vidéo-poker étaient inscrits aux livres du fournisseur;
+(i) Les appelants ont omis de déclarer les revenus provenant des machines de vidéo-poker pour les années qu'ils étaient les propriétaires du restaurant;
+(j) Les appelants ou la personne faisant les déclarations de revenus pour les années que les appelants étaient propriétaires du restaurant, les appelants ont effectué une présentation erronée des faits, par négligence, inattention ou omission volontaire;[1] et
+(k) Les appelants savaient ou auraient du savoir qu'en faisant des fausses déclarations ou des déclarations erronées des faits, l'impôt payable serait moindre qu'il ne l'aurait été n'eut été de ses fausses déclarations ou déclarations erronées.[2]
+[6] En établissant ses nouvelles cotisations dans les dossiers de taxe d'accise, le ministre s'est également fondé sur les faits suivants:
+(a) Yvette Marchildon opérait le restaurant à titre de propriétaire unique pour l'année d'imposition de 1998;
+(b) Les appelants n'ont déclaré aucun montant à titre de TPS relatif à leurs parts des machines de vidéo-poker;
+(c) Les montants de TPS attribuables aux machines de vidéo-poker ont été trouvés dans les livres du fournisseur; et
+(d) Les appelants ont omis de déclarer la TPS sur toutes les fournitures taxables.
+Position des appelants
+[7] Les appelants soutiennent que le montant de revenu non-déclaré provenant des machines de vidéo-poker est beaucoup trop élevé. Tout au plus, les appelants estiment que les machines ont généré un revenu total de 20 000 $ à 22 000 $ pour les deux années d'imposition 1996 et 1997. Au-delà de ces sommes, il ne s'agissait que d'amusement n'entraînant pas de réelle transaction commerciale.
+[8] Les appelants soutiennent également que les fournitures taxables n'ont pas été taxées par inadvertance et étaient de l'ordre de 3 000 $ et non de 9 030,65 $. La TPS sur ces fournitures taxables devrait être calculée en fonction de ce montant.
+[9] De plus, ils affirment que les intérêts ne devraient pas être imposés ou devraient être imposés sur un montant moindre en raison du paragraphe précédent. Les appelants ajoutent que les pénalités ne devraient pas être imposées puisqu'ils ignoraient que certaines fournitures n'étaient pas taxées. De l'aveu de leur représentant, monsieur Gilles Gratton, ils ont été négligents, mais ils n'ont pas été grossièrement négligents.
+Position de l'intimée
+[10] À l'opposé, l'intimée allègue que les appelants ont omis de déclarer les revenus provenant des machines de vidéo-poker.
+[11] Les appelants ont omis de payer la TPS sur certaines fournitures taxables en raison d'erreurs de lecture de caisse de même que sur les revenus provenant des machines de vidéo-poker. Les appelants ont admis que la somme de 3 000 $ à titre de ventes du restaurant était taxable et conséquemment que ce montant de TPS était dû. L'avocate du ministre est d'accord avec ce montant.
+[12] Le ministre est d'accord que le montant de TPS relatif aux revenus provenant des machines de vidéo-poker dépendra de mes conclusions à l'égard de revenu non déclaré.
+[13] L'intimée déclare que les appelants ont été grossièrement négligents de manière à ce que des pénalités s'imposent. Cependant, l'intimée reconnaît qu'il y a absence de négligence grossière à l'égard des montants de TPS impayés reliés aux erreurs de lecture de caisse et par conséquent, que les pénalités de l'article 285 L.T.A. ne seront pas imposées sur ces montants. Par ailleurs, les intérêts et pénalités de base sont dus sur les pleins montants en litige.
+Témoignages de Nancy et Louis Marchildon
+[14] Les appelants Nancy Marchildon et Louis Marchildon ont témoigné lors de l'audition. L'appelante Yvette Marchildon n'a pas témoigné, bien qu'elle était présente à l'audition.
+[15] Nancy Marchildon en était à sa première expérience de tenue de livres. Pour ce faire, elle s'en remettait aux lectures de la caisse enregistreuse. Certaines fournitures n'étaient pas taxées par la caisse enregistreuse, tels que les spéciaux du jour. Nancy Marchildon a affirmé ne pas avoir su, à cette époque, que ces fournitures n'étaient pas taxées. Elle a dit savoir que la TPS est une taxe de 7%, mais ne pas savoir que les lectures de caisse devaient coïncider avec une taxation de 7%. Nancy Marchildon a admis que les appelants devaient un montant d'environ 3 000 $, contrairement au montant de 9 030,65 $ réclamé par l'intimée.
+[16] L'appelante a témoigné à l'effet que Louis Marchildon, Yvette Marchildon et elle-même savaient que l'exploitation de machines de vidéo-poker était illégale en Ontario, en raison des paris qui étaient impliqués dans l'utilisation de ces machines. Elle a également témoigné qu'elle et Louis Marchildon jouaient régulièrement aux machines de vidéo-poker. Ils ouvraient les machines à l'aide des clefs laissées à leur disposition et jouaient avec les argents trouvés dans les machines ou encore, ils augmentaient les crédits de par l'intérieur et jouaient jusqu'à l'épuisement des crédits. Nancy Marchildon a expliqué que le fournisseur avait remarqué que les sommes trouvées dans les machines de vidéo-poker ne coïncidaient pas avec les lectures des machines. Le fournisseur lui avait semblé mécontent de ces incohérences.
+[17] D'après Nancy Marchildon, les revenus des machines de vidéo-poker étaient distincts des revenus du restaurant que les appelants opéraient. Les profits des machines de vidéo-poker demeuraient dans les machines. Les appelants n'auraient pas déclaré les recettes des machines de vidéo-poker parce que celles-ci étaient trop peu élevées. Or, l'appelante a révélé avoir déclaré des revenus aussi faibles que 10 $ à 20 $ pour une période de huit mois reliés aux distributrices d'arachides trouvées dans le restaurant. De ses dires, si les revenus des machines de vidéo-poker avaient été plus élevés, il aurait été impossible de dissimuler ces montants et ils auraient été tenus de les déclarer. Enfin, Nancy Marchildon a affirmé avoir consulté leur comptable afin de savoir si elle devait déclarer les montants provenant des machines de vidéo-poker. Ce dernier lui aurait répondu par la négative. Nancy Marchildon n'a remis aucun document concernant les machines de vidéo-poker au comptable puisqu'elle n'en détenait aucun.
+[18] Louis Marchildon a témoigné avoir joué près de trois heures en soirée et quelques heures durant la nuit et ce, quotidiennement. Il a admis qu'il soit possible qu'il ait joué pour un montant équivalent de 40 000 $ à 50 000 $.
+[19] Louis Marchildon a expliqué que les recettes des machines de vidéo-poker étaient partagées de la façon suivante: une semaine sur cinq les appelants conservaient les profits dans leur totalité et les quatre autres semaines, les profits étaient partagés entre les appelants et le fournisseur des machines de vidéo-poker. Selon Louis Marchildon, il ne s'agissait pas de revenus mais bien de cadeaux que leur faisait le fournisseur. Lorsque Louis Marchildon fut interrogé sur la nature des fractions ajoutées à la main sur le contrat liant les appelants et le fournisseur des machines de vidéo-poker, soit 60/40 et 1/5, il a affirmé ne pas pouvoir expliquer ces fractions.
+[20] Louis Marchildon a estimé à 200 $ par semaine les montants dont les appelants ont bénéficiés. Il reconnaît donc que les appelants doivent la somme de 20 000 $ à 22 000 $. Les appelants auraient utilisé ces sommes afin de payer des menues dépenses telle que l'essence pour la voiture.
+Témoignage d'Éric D'Amour
+[21] Le ministre n'a appelé qu'un seul témoin soit Éric d'Amour, enquêteur de l'Agence des douanes et revenu Canada. Monsieur D'Amour était enquêteur dans les dossiers des appelants. Ce dernier a déposé, comme pièce I-2, les feuilles de travail qu'il a utilisées lors de la vérification. Il a témoigné à l'effet que ses conclusions étaient basées sur les pièces de réconciliation fournies par la Police provinciale de l'Ontario. La Police provinciale de l'Ontario aurait obtenu ces documents lors de la perquisition de la propriété du fournisseur en février 1998. Les pièces de réconciliation indiquaient les revenus des machines de vidéo-poker qui étaient attribuables aux commerçants et au fournisseur. Ces pièces ont été constituées à l'aide des feuilles de route trouvées dans les compteurs des machines de vidéo-poker. Le montant indiqué sous l'expression "money in" constituait le revenu généré par la machine de vidéo-poker. Il s'agissait de la différence entre les entrées et sorties d'argent résultant de gains des joueurs. Ces feuilles de route étaient le seul moyen pour le fournisseur de connaître les sommes que devaient contenir les machines puisque les commerçants avaient accès aux machines de vidéo-poker.
+[22] Également, monsieur D'Amour a affirmé que les abréviations VS et NS signifiaient « vôtre » et « nôtre » . La part « vôtre » était la part du commerçant alors que la part « nôtre » était la part du fournisseur.
+[23] Enfin, monsieur D'Amour a expliqué qu'à la suite de ses constatations, il a effectué une entrevue avec les appelants. Cette entrevue aurait confirmé que les revenus des machines de vidéo-poker n'avaient pas été déclarés. Conséquemment et considérant l'importance des montants non-déclarés, monsieur D'Amour a recommandé qu'une pénalité additionnelle soit imposée. Selon monsieur D'Amour, les appelants étaient pleinement conscients de leur défaut de déclarer les revenus des machines de vidéo-poker et ils auraient ainsi agi de façon volontaire.
+[24] Les questions en litige sont les suivantes :
+(a) Les recettes des machines de vidéo-poker constituent-elles des revenus pour les appelants et des recettes de la vente de fournitures taxables?
+(b) Dans l'affirmative, les pénalités en vertu du paragraphe 163(2) L.I.R. et de l'article 285 L.T.A. doivent-elles être imposées en regard des recettes des machines de vidéo-poker?
+Recettes des machines de vidéo-poker
+[25] Les appelants admettent avoir tiré des machines de vidéo-poker un équivalent de 20 000 à 22 000 $, afin de subvenir à leur besoin. Au-delà de ces montants, ils affirment qu'il n'y avait pas de réelle transaction commerciale puisque ce n'était que de l'amusement.
+[26] À l'égard de machines de vidéo-poker, une transaction commerciale s'effectue lorsqu'une personne insère une pièce de monnaie dans la machine et reçoit en contrepartie, une partie de poker virtuelle avec la possibilité d'un gain ou d'une perte. En l'espèce, les appelants inséraient les pièces de monnaies qui se trouvaient déjà dans les machines ou faisaient grimper les crédits à même les machines de vidéo-poker et jouaient. L'élément qui pousse les appelants à croire qu'il n'y avait pas de transaction commerciale est le fait qu'ils détenaient les clefs donnant accès aux machines. Or, aucune preuve n'a été apportée expliquant pourquoi les appelants détenaient ces clefs. Seuls les témoignages des appelants Louis et Nancy Marchildon qui, avouons-le, étaient peu crédibles. Les clefs auraient pu leur être confiées afin qu'ils aient accès à leurs parts des profits ou encore, en cas de bris mécaniques. Si le fournisseur était enclin à permettre aux appelants de jouer gratuitement, pourquoi était-il mécontent du fait que les chiffres ne coïncidaient pas avec les sommes trouvées dans les machines? Aucune preuve n'a été apportée à cet effet par les appelants. Il me semble plus probable que les clefs étaient un accès aux machines et non un accès illimité au jeu.
+[27] Les appelants devaient démontrer par prépondérance de preuve, que les recettes des machines de vidéo-poker n'étaient pas des revenus pour eux ou que le ministre a erré dans le calcul de ces recettes. Les appelants n'ont pas rempli ce fardeau de preuve. Les compteurs permettent de déterminer les recettes tirées des machines de vidéo-poker pour les années en litige, alors que les fractions (60/40 et 1/5) permettent de calculer la part de ces recettes attribuable aux appelants. Une semaine sur cinq les appelants conservaient la totalité des profits, alors que les quatre autres semaines, ils conservaient 60% des profits. En l'absence de preuve que les appelants pouvaient jouer aux machines de vidéo-poker sans payer, il est juste de considérer que les lectures des compteurs des machines de vidéo-poker illustrent correctement les revenus tirés de ces machines. Les appelants ont bénéficiés de ces profits en partie en argent comptant et en partie en temps de jeu. Le fait que les appelants aient choisi de jouer leurs profits ne change pas le fait qu'ils ont bénéficié de tels revenus.
+[28] Dans l'affaire Huot c. Canada, [2000] A.C.I. no 164, il était également question de déterminer si certaines sommes provenant de machines de vidéo-poker avaient été correctement ajoutées aux revenus de l'appelant Huot. Les revenus non-déclarés avaient été fixés à l'aide des livres de comptabilité obtenus du propriétaire des machines de vidéo-poker. L'appelant s'opposait à ce que ces livres servent à déterminer le montant des revenus imposables. Selon lui, il ne s'agissait pas d'une preuve tangible de compteur comme ne l'auraient été, par exemple, les lectures fournies par les machines de vidéo-poker elles-mêmes. La juge Lamarre-Proulx a conclu comme suit, au paragraphe 31:
+Les affirmations de l'intimée dans la Réponse à l'avis d'appel ont été entièrement prouvées par les témoins qui étaient les agents du Ministre et corroborées par les témoins qui étaient à l'emploi de Wiltron. Ces témoins ont témoigné en l'absence des autres témoins. L'appelant était au courant de la preuve que l'intimée apporterait. Il n'a fait aucune preuve contraire. Par exemple il n'a pas posé de questions ni à monsieur Gosselin ni à monsieur Miron en ce qui concerne le montant approximatif des recettes provenant des machines installées dans son dépanneur. Monsieur Miron qui a été le percepteur attitré à son dépanneur pour plusieurs années aurait pu se souvenir du montant approximatif des recettes moyennes mensuelles. Il ne lui a posé aucune question. On ne peut que penser par ailleurs que le montant suggéré de 117 $ par mois n'est pas raisonnable. Il n'est guère plausible qu'une entreprise de location de machine de vidéo-poker mette en place tout un système de location et de perception impliquant plusieurs employés pour le maigre revenu suggéré par l'appelant.
+[29] En l'espèce, non seulement l'intimée s'est fondée sur une preuve tangible de compteur, mais les appelants, tout comme Huot, n'ont pas su apporter de preuve réfutant les chiffres prélevés des compteurs ou expliquant les fractions (60/40 et 1/5) ajoutées au contrat entre les appelants et le fournisseur.
+[30] Je suis d'accord avec l'avocate de l'intimée. Les recettes des machines de vidéo-poker sont les montants que les joueurs de ces machines ont payées pour jouer au poker. En plus d'être des revenus non déclarés, ces recettes sont des fournitures taxables non déclarées.
+Pénalités
+[31] Le paragraphe 163(2) L.I.R. et l'article 285 L.T.A. prévoient qu'un contribuable qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, demande, formulaire, etc. sera passible d'une pénalité. Le fardeau de preuve à l'égard de ces pénalités repose sur l'intimée.
+[32] Les appelants ont-ils agi sciemment ou dans des circonstances équivalant à faute lourde?
+[33] Les appelants savaient que les machines ou du moins le pari, était illégal. Nancy Marchildon a témoigné que si les sommes avaient été plus importantes, elle aurait été tenue de les déclarer autrement, il aurait été impossible pour eux d'utiliser ces argents. Pourtant, les appelants déclaraient les revenus provenant des distributrices d'arachides qui étaient d'environ 20 $ par huit mois, mais ne déclaraient pas une somme de 200 $ par semaine. Nancy Marchildon a affirmé avoir demandé au comptable si elle devait inclure ces sommes. Cela démontre, à tout le moins, qu'elle se doutait que les sommes étaient imposables et ce geste à lui seul ne rend pas le comportement des appelants excusable. Enfin, croire que les montants laissés par le fournisseur n'étaient pas des revenus, mais bien des gratuités est certainement un comportement assimilable à une faute lourde. Une personne raisonnable exploitant un commerce aurait su qu'il ne s'agissait pas d'une gratuité et si tel était le cas, une personne raisonnable aurait demandé une preuve écrite. Les appelants n'ont apporté aucune preuve expliquant ces soi-disant cadeaux. Il est plus probable qu'il s'agissait d'un partage des profits et non de simples gratuités.
+[34] De tous les faits, seul l'interrogation auprès du comptable aurait pu venir en aide aux appelants. Cependant, aucun document n'a été remis au comptable, faute de détenir de tels documents. Les appelants ont-ils fourni toutes les informations nécessaires afin que le comptable puisse émettre une opinion éclairée? Cette question demeure sans réponse. Les appelants n'ont apporté aucune preuve, outre le témoignage de Nancy Marchildon, pour soutenir l'affirmation qu'ils ont consulté leur comptable. Tout au plus, si les appelants ont consulté leur comptable, il s'agit d'aveuglement volontaire équivalent à une faute lourde. Le juge Marceau, dans Cloutier c. La Reine, [1978] A.C.F. no 917 au paragraphe 10, expliquait:
+La question qui se pose est celle de savoir si les circonstances dans lesquelles l'omission a eu lieu sont telles qu'une faute lourde puisse être imputée au contribuable, faute lourde s'entendant d'une faute de comportement relativement grave, difficile à expliquer et socialement intolérable.
+[35] Il est difficile d'expliquer comment trois personnes auraient pu sincèrement croire que les montants d'argent qu'elles soutiraient des machines à vidéo-poker ne constituaient pas des revenus pour eux. Dans 410812 Ontario Ltd. c. Canada, [2002] A.C.I. no 176, au paragraphe 36, le Juge Bowman est d'avis que s'il est possible que le contribuable se soit fié à tord sur son comptable et que l'hypothèse est plausible, la cour doit lui donner le bénéfice du doute:
+Pour en revenir à la question de la pénalité imposée à l'appelant en vertu de l'article 285, la position de M. Brown me semble bien fondée, c'est-à-dire que M. Crittenden savait ou aurait dû savoir que la TPS s'appliquait aux paiements aux tiers et que le défaut de déclarer la TPS équivalait à une faute lourde. Cette hypothèse est raisonnable et pourrait bien réussir, mais la preuve est tout aussi conforme à une autre hypothèse raisonnable et qui pourrait réussir, c'est-à-dire que M. Crittenden s'est fié - peut-être de façon déraisonnable ou négligente - à l'opinion de son comptable qu'aucune TPS n'était payable, ou qu'il s'est peut-être fait une opinion erronée du droit applicable. Je crois que M. Crittenden a été négligent, mais la preuve est conforme avec l'hypothèse qui n'implique pas de faute lourde telle que décrit dans les arrêts cités au début des présents motifs. Conséquemment, l'appelant a droit au bénéfice du doute.
+[Traduction]
+[36] Mais, dans ces appels, il n'y aucune suggestion que le comptable faisait partie de cette négligence grave. Les appelants ont déclarés les revenus des distributrices d'arachides, aussi faibles que 20 $ par huit mois. Il est donc difficile de retenir la prétention voulant que les appelants croyaient ne pas devoir déclarer des revenus avoués de 200 $ par semaine provenant des machines à vidéo-poker et payer, par le fait même la TPS sur ces fournitures taxables. Enfin, la situation des appelants est bien différente de celle de Lucien Venne dans Venne c. Canada[3], où la cour a refusé les pénalités aux motifs que le contribuable s'était fié à son comptable:
+. . . Le contribuable, en l'espèce, est un homme qui a fini sa cinquième année d'études; il travaille et paye des impôts dans une langue qui n'est pas sa première langue ni de culture, ni d'enseignement, un homme qui est plus à l'aise dans un garage que dans un bureau. Ces facteurs non seulement militent à l'encontre d'une conclusion selon laquelle il aurait fait sciemment les faux énoncés contenus dans ses déclarations, mais aussi tout son comportement n'est pas celui d'une personne qui avait délibérément cherché à dissimuler de grandes quantités de revenus imposables. Il tenait des dossiers qui semblaient tout à fait complets sur ses ventes commerciales, et il les remettait au teneur de livres. Pour autant que la preuve le montre, toutes les recettes de l'entreprise, ou pratiquement, ont été déposées à la banque, là où les fonds pouvaient être retracés très facilement. Il a aussi confié toutes ses créances hypothécaires, sauf une ou deux, à des banques et à des sociétés de fiducie qui tenaient des dossiers très soignés sur les revenus provenant de ces hypothèques entiercées. Il est peu probable qu'une personne qui cherche à dissimuler son revenu ait mené ses affaires de cette façon. Qui plus est, il est difficile de croire qu'il surveillait consciemment et effectivement ses teneurs de livres puisque bon nombre des erreurs commises dans ses déclarations étaient en fait en sa défaveur, bien que la plupart d'entre elles aient été à son avantage. Je ne puis donc conclure que les faux énoncés dans les déclarations aient été faits sciemment par le demandeur.[4]
+[37] En ce qui concerne l'appelante Yvette Marchildon, cette dernière n'a pas témoigné bien qu'elle était présente à l'audition. Je ne connais pas ses devoirs ou ses responsabilités dans le restaurant. Elle a entendu le témoignage de monsieur D'amour, mais elle n'a pas essayé d'offrir une réplique. Donc, je dois conclure que son témoignage ne m'aiderait pas.
+Décision
+[38] Les fournitures taxables non déclarées pour le restaurant, soit la vente de nourriture et de repas, sont établies, en raison d'une admission de la part des appelants, à un montant de 3 000 $. L'avocate du ministre est d'accord avec ce montant.
+[39] En ce qui concerne l'inclusion et la taxation de sommes tirées des machines de vidéo-poker, il est juste de conclure que les appelants n'ont pas rempli leur fardeau de preuve. Ils n'ont pas su prouver que les recettes des machines de vidéo-poker ne constituaient pas des revenus et des fournitures taxables à leur égard ou que les revenus et fournitures taxables étaient d'un montant moindre que celui fixé par l'intimée. Les sommes tirées des machines de vidéo-poker sont donc imposables à titre de revenus pour les fins de la L.I.R. ainsi que taxables à titre de fournitures pour les fins de la L.T.A. Il y a donc lieu de rejeter les appels à cet égard.
+[40] Je trouve aussi que tous les appelants ont fait une présentation erronée des faits, par négligence, inattention ou omission volontaire ou ont commis quelque fraude en produisant leurs déclarations sous le régime de la L.I.R. et aussi, pour les fins de la L.T.A. Les pénalités imposées par les deux lois, à l'égard des revenus et fournitures taxables provenant des machines de vidéo-poker, sont valides.
+[41] Donc, les appels des appelants sont admis, mais seulement afin que le ministre puisse cotiser de nouveau en réduisant le montant des fournitures taxables de la nourriture et des repas du restaurant de 9 030,65 $ à 3 000 $ et afin que le ministre réduise les pénalités de l'article 285 de la L.T.A. à l'égard de ce montant; les pénalités et le revenu pour les fins de la L.I.R., s'ils s'appliquent, seront réduits en conséquence.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2004.
+__________ « Gerald J. Rip » _________
+Rip, J.
+Nos DES DOSSIERS DE LA COUR
+2003-796(IT)I et 2003-798(GST)I
+2003-803(IT)I et 2003-804(GST)I
+2003-793(IT)I et 2003-794(GST)I
+INTITULÉS DES CAUSES : Yvette Marchildon et La Reine
+Nancy Marchildon et La Reine
+Louis Marchildon et La Reine
+LIEU DE L'AUDIENCE : Montréal, (Québec)
+DATE DE L'AUDIENCE : le 29 septembre 2003
+MOTIFS DE JUGEMENT PAR : l'honorable juge Gerald Rip
+DATE DU JUGEMENT : le 16 janvier 2004
+COMPARUTIONS :
+Représentant des appelants : Gilles Gratton, c.a.
+Avocate de l'intimée : Me Justine Malone
+AVOCAT(E) INSCRIT(E) AUX DOSSIERS :
+Pour les appelants :
+Nom : Deloitte & Touche LLP
+300, rue McGill
+Hawkesbury (Ontario) K6A 1P8
+Pour l'intimée : Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le paragraphe 152(4) de la L.I.R. et le paragraphe 298(4) de la L.T.A.
+[2] Le paragraphe 163(2) de la L.I.R. et l'article 285 de la L.T.A.
+[3] [1984] A.C.F. no 314.
+[4] Ibid, au paragraphe 36.

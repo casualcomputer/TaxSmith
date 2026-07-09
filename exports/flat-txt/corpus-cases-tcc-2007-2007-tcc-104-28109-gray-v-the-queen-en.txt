@@ -1,0 +1,99 @@
+Title: Gray v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28109/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-104-28109-gray-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-01-18
+
+# Gray v. The Queen
+
+- Citation: 2007 TCC 104
+- Decision date: 2007-01-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1662, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gray v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-01-18
+Neutral citation
+2007 TCC 104
+File numbers
+2006-614(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Court File No. 2006‑614(IT)I
+TAX COURT OF CANADA
+BETWEEN:
+JAMES D. GRAY
+Appellant
+‑ and ‑
+HER MAJESTY THE QUEEN
+Respondent
+* * * * *
+HEARD BEFORE MR. JUSTICE PARIS
+in the Courts Administration Service, Courtroom "C",
+180 Queen Street West,
+Toronto, Ontario
+on Thursday, January 18, 2007 at 9:37 a.m.
+* * * * *
+APPEARANCES:
+James Gray Self-represented
+Josh Hunter For the Respondent
+Also present:
+William O'Brien Court registrar
+Linda O'Brien Court reporter
+A.S.A.P. Reporting Services Inc. 8 (2007)
+200 Elgin Street, Suite 1004 130 King Street West, Suite 1800
+Ottawa, Ontario K2P 1L5 Toronto, Ontario M5H 1E3
+(613) 564-2727 (416) 861-8720
+8
+JUSTICE PARIS: These are the reasons for judgement in the appeal of James Gray v. The Queen, 2006‑614(IT)I.
+The issue in this case is the deductibility of support amounts paid by Mr. Gray, the appellant, in respect of the 2000 and 2001 taxation years. The deduction for support is found in paragraph 60 of the Income Tax Act. In particular, the calculation of the amount of support deductible in a year by a taxpayer is set out in paragraph 60(b) of the Income Tax Act.
+The formula involves a calculation of the total amount of support paid by a taxpayer after 1996 less the amount of child support paid under subparagraph B of that definition.
+For the purposes of this appeal only that part of paragraph 60(b)B is relevant. The provision reads:
+"There may be deducted in computing a taxpayer's income for a taxation year such of the following amounts as are applicable:
+"(b) total of all amounts each of which is an amount determined by the formula A ‑ (B + C) where,
+"A the total amount of support --
+"B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day."
+In this case, the dispute arises as a result of there being a number of orders made with respect to payment of support from the appellant to his ex‑spouse, both spousal support and child support. The original order was made prior to May 1997, and subsequent orders were made as set out in the reply to the notice of appeal.
+The subsequent orders replaced the initial order. The original order was replaced by an order dated June 13th, 1997. As counsel for the respondent points out, this is a replacement order. It doesn't speak to any variation of the original order.
+That order in turn was replaced by an order in May 1998, an order made under the Divorce Act for corollary relief. That order again was a replacement order rather than any order varying a prior order by the terms of the order itself and under the provisions of the Divorce Act so that the May 1998 order replaced the June 13th, 1997 order.
+Subsequently, in February 2002 an order was made varying the May 1998 order with respect to the payment of child support to require the appellant to pay additional amounts in respect of private school fees and camp fees for the daughter.
+The question is: What was the commencement day of the February 2002 order according to the definition of commencement day in paragraph 56.1(4) of the Act.
+The respondent alleges that the commencement day of that order was the date, first date, at which the pre May 1997 order was replaced by another order, either June 13th, 1997 or May 1998, and that therefore payments made under the February 2002 order were made under an order with a commencement day of either June 13th, 1997 or May 1998.
+The respondent argues that the orders must be considered as a chain of orders that arise from the original pre May 1997 order for support, and, therefore, where such a chain of orders dealing with support exists, I have to look in the definition of commencement day at paragraph (b) to determine commencement day through the entire chain of orders up to the February 2002 order.
+In my view, this submission is not founded in the wording of the definition of commencement day, paragraph (b) in particular.
+What paragraph (b) attempts to do is set the commencement day of an order made before May 1997, and it looks, in doing so, at the day the order was made or where it was varied or replaced, the date of the variation or the first replacement of that order. That gives us a different day for the pre May 1997 order.
+Once, however, there is a subsequent replacement of a replacement of a pre May 1997 order the chain is broken. There is no requirement to consider a subsequent replacement order as being relevant for the purposes of determining a commencement day of an order made before May 1997. This is a new order of which the commencement day must be looked at under paragraph (a) of the definition of commencement day.
+The second replacement order in this case in May 1998 gave rise to a commencement day calculated or determined under paragraph (a) of the definition of commencement day.
+The subsequent variation in February of 2002 is an order and it is an order made after April 1997, and so according to the definition of commencement day, the February 2002 order would also have a commencement day determined under paragraph (a) of that definition.
+No provision is made in paragraph (a) to take into account variations of orders for the purposes of establishing the commencement day of the variation of another order. This February 2002 order is an order on its face. The fact that it varies a prior order does not prevent it from being an order, and, therefore, in my view, it has a commencement day on the date that it is made as it is made after April 1997.
+The question then becomes what was the day on which the February 2002 order was made. This becomes an issue because the February 2002 order required the appellant to pay amounts of child support retroactive to earlier dates prior to 2002.
+Is the fact that the order required retroactive payments of child support relevant to the determination of the date the order was made? In my view, it is not.
+The fact that an order provides for retroactive payments of support does not cause the order itself to be made on the date that the retroactive child support was required to be paid.
+This is supported in part by the rules of the Ontario Court Family Law Rules, rule 25, which states:
+"An order is effective from the day on which it is made unless it states otherwise."
+This is an indication that the date on which an order is effective is different from the date on which it is made. The Court rules distinguish between the effective date of an order and the date on which it is made, and in this case the retroactive portion of the February 2002 order is the effective date of that portion of the order. It is not though the date on which that order was made.
+Further support for the position that an order is made as of the date on which it is pronounced and signed is found in the case of The Queen v. Larsson, 97 DTC 5425. The case dealt with support payments. I refer to the comment of Mr. Justice MacDonald before the court at page 5428:
+"It is the usual rule that an order of a court is effective from the date on which it is made unless it provides otherwise. Thus, where a court does not explicitly state that it intends for its order to apply retroactively, it will be assumed that the order does not so apply."
+Again, this echos the rule of the Ontario Courts that effective dates may differ from the date on which an order is made.
+Construing the language of paragraph (a) of the definition of commencement day according to its ordinary meaning would in my view lead to the conclusion that an order of a court is made on the date that the order is signed by the court.
+In this case, the February 2002 order was pronounced Monday, the 11th day of February 2002 on its face and, therefore, is the date on which the order was made.
+That then becomes the commencement day of the order and by virtue of paragraph 60(b), the calculation formula for support amounts deductible, the amounts paid under that order are not amounts to be taken into account or the obligation to pay the child support retroactively does not become an obligation to be taken into the calculation of the appellant's support deductions for 2001 and 2002 because the commencement day began after those taxation years.
+In order to be taken into consideration in the calculation of support, only amounts that are payable on or after the commencement day of the order are added into the calculation. In this case, as the commencement day of the order of February 2002 is February 11th, 2002, no amounts payable before that date can be taken into account in calculating the support and child support payable by the appellant for those two years.
+So to summarize, the commencement day for the February 2002 order is determined under paragraph 56.1(4), the definition of commencement day, paragraph (a) the date that the order is made. The date the order was made was February 11th, 2002, and, therefore, only amounts that became payable on or after that commencement day are amounts to be considered under (b) of section 60, subparagraph B of the Act to calculate the total amount of the child support payments that must be taken into account in the calculation of support for that year.
+On that basis, the appeal is allowed and Mr. Gray is entitled to his costS, if any, of the hearing.
+THE REGISTRAR: Order. Please rise.
+MR. GRAY: Thank you, Your Honour.
+THE REGISTRAR: This court is now adjourned until 2:00.
+‑‑‑ Whereupon the proceedings adjourned
+at 12:46 p.m.

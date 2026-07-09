@@ -1,0 +1,129 @@
+Title: Naeini c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28459/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-87-28459-naeini-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-02-06
+
+# Naeini c. La Reine
+
+- Citation: 2008 CCI 87
+- Decision date: 2008-02-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1192, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Naeini c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-02-06
+Référence neutre
+2008 CCI 87
+Numéro de dossier
+2005-4305(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-4305(IT)G
+ENTRE :
+AMID AGHAHOSSEINI NAEINI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 29 janvier 2008, à Toronto (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelant :
+Me David J. Rotfleisch
+Avocat de l’intimée :
+Me Craig Maw
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des nouvelles cotisations établies sous le régime de la Loi de l’impôt sur le revenu pour les années d’imposition 2001 et 2002 sont rejetés.
+Les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 6e jour de février 2008.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 29 jour de février 2008.
+D. Laberge, LL.L.
+Référence : 2008CCI87
+Date : 20080206
+Dossier : 2005-4305(IT)G
+ENTRE :
+AMID AGHAHOSSEINI NAEINI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] M. Amid Aghahosseini Naeini interjette appel de la cotisation établie par le ministre du Revenu national (le « ministre ») relativement à ses années d’imposition 2001 et 2002 parce que le ministre a, à tort, inclus dans son revenu des intérêts de 71 015 $ pour 2001 et de 61 117 $ pour 2002. M. Naeini soutient que les intérêts portent sur des sommes appartenant à sa belle‑mère, Mehlagha Mostafavi Shirazi.
+[2] En 1995, M. Naeini et son épouse ont quitté l’Iran pour immigrer au Canada. Ils sont ensuite retournés brièvement en Iran avant de revenir au Canada en 1998. M. Naeini était journaliste et écrivain en Iran. Il a exposé de façon relativement détaillée ses difficultés avec les autorités iraniennes après la révolution, lesquelles ont mené à son emprisonnement pendant une assez longue période en 2001 et à la perte de la plupart des actifs de son entreprise relative à un journal.
+[3] Madame Naeini a qualifié sa mère, Mme Shirazi, de [traduction] « fortunée ». Cette dernière a dirigé une école de beauté à Téhéran jusqu’au moment de la révolution, puis elle a travaillé pendant quelques années à son domicile. Après le décès de son mari, la fortune de Mme Shirazi s’est accrue. Selon Mme Naeini, sa mère souhaitait transférer cette fortune de l’Iran en Amérique en vue d’acquérir un terrain aux États‑Unis, ce qui lui aurait en fin de compte permis d’obtenir une carte verte et de vivre aux États‑Unis. Sa mère est victime de dépression depuis quelques années. Mme Naeini a qualifié la situation en Iran de difficile, en particulier pour les femmes. Il était ardu pour ces dernières d’obtenir des visas et de quitter le pays. Il était également difficile de sortir ouvertement des fonds du pays. Mme Shirazi avait des amis et des parents en Californie.
+[4] Dans son témoignage, M. Naeini a déclaré qu’il avait offert à sa belle‑mère de l’aider à transférer sa fortune aux États-Unis en ouvrant des comptes américains à la Bank of America, à San Francisco. De 1999 à 2006, il a ouvert à cette institution financière plusieurs comptes placés sous son contrôle. Pendant une certaine période en 2001, M. Naeini a été dans l’impossibilité de s’occuper des affaires financières de sa belle‑mère puisqu’il était emprisonné en Iran.
+[5] D’après Mme Naeini, sa mère a liquidé sa fortune en vendant ses bijoux et ses antiquités. Mme Shirazi vendait ces biens chez elle et recevait en contrepartie des espèces ou ce que M. Naeini a appelé des [traduction] « chèques‑liquidité » [cheque money], instrument qui s’apparente à un mandat ou à un effet de commerce de ce genre. Mme Shirazi encaissait alors ces effets et les déposait dans une banque à Téhéran ou elle les accumulait et les déposait auprès d’un bureau de change. L’interprète a employé l’expression « lieu de change » pour désigner l’endroit où, selon M. et Mme Naeini, Mme Shirazi apportait les fonds pour les faire parvenir aux États‑Unis. Selon M. Naeini, le lieu de change recevait les chèques‑liquidité ou les espèces et procédait ensuite à leur transfert, par l’entremise d’un bureau situé à Dubay, aux comptes ouverts par M. Naeini à la Bank of America, à San Francisco. Il a en outre déclaré pendant son témoignage qu’on ne pouvait tout simplement pas s’adresser aux banques en Iran pour transférer de l’argent : les choses ne se faisaient pas ouvertement.
+[6] M. Naeini a ouvert les comptes à la Bank of America, à San Francisco, au début de 1999 avec un dépôt de 500 $. Il affirme que sa belle‑mère pouvait ainsi, d’une part, déposer des fonds dans ces comptes en vue de l’acquisition d’un terrain aux États‑Unis et, d’autre part, établir des antécédents pour lui permettre d’ultérieurement obtenir un visa. Selon M. Naeini, les comptes ne pouvaient être ouverts au nom de Mme Shirazi parce qu’elle ne se trouvait pas aux États‑Unis. De même, il lui était impossible de signer des documents bancaires puisqu’il fallait obtenir une confirmation d’une ambassade américaine et que l’Iran n’en compte pas. Selon M. Naeini, Mme Shirazi souffrait de dépression et n’était pas en mesure d’obtenir un visa pour entrer aux États‑Unis. En fait, elle n’avait visité le Canada qu’une seule fois.
+[7] En mars 1999, un dépôt de 100 000 $ a été effectué dans le compte ouvert par M. Naeini en son propre nom à la Bank of America. L’état de compte établi pour ce mois par la Bank of America mentionne ce qui suit :
+[TRADUCTION] 03/08 Fonds transférés, réf. : NTA06720261, source : expéditeur Fedwire, réf. : G0090670610201, bénéf. : M. Amid A Naeini, Orig. : Abbas Aghahosseini Naeini
+[8] M. Abbas Naeini est le frère de l’appelant. Selon M. Naeini, son frère Abbas a aidé Mme Shirazi à procéder au premier transfert. M. Naeini a signalé que, pour les nombreux transferts subséquents, sa belle‑mère a reçu l’aide d’amis et de membres de sa famille à Téhéran parce qu’elle ne se portait pas assez bien pour s’en charger elle‑même.
+[9] L’intimée a produit environ 600 pages tirées d’états de compte délivrés par la Bank of America pour la période allant de 1999 à 2006, soit sept comptes Investment CD, un compte Interest Maximizer et un compte Prima, tous établis au nom de M. Naeini. Pendant cette période, plus de 4 000 000 $ ont été déposés dans ces comptes. Comme plusieurs états de compte mensuels étaient manquants, il est difficile de connaître avec certitude le montant total exact des dépôts effectués. M. et Mme Naeini ont tous deux insisté sur le fait que les fonds appartenaient à Mme Shirazi, qu’ils provenaient de la vente des biens personnels de cette dernière et qu’ils avaient ensuite été déposés dans ces différents comptes.
+[10] Bien que de nombreux dépôts dans les comptes figurent au fil des ans dans les états de compte, seuls quelques retraits ont eu lieu. M. Naeini a laissé entendre que l’un de ces retraits, qui s’élevait à 5 000 $, avait servi à aider un ami dans le besoin. Il a affirmé qu’il avait demandé l’approbation de sa belle‑mère avant d’utiliser les fonds et qu’il avait déposé 5 000 $ à la banque de sa belle‑mère à Téhéran quelques mois plus tard. Un autre retrait, de 15 000 $ celui‑là, n’a pu être expliqué par M. Naeini, qui ne se souvenait pas à quoi l’argent avait servi. De même, aucune explication n’a été donnée relativement à des chèques de 100 000 $, de 400 000 $ et de 500 000 $. M. Naeini soutient que, de manière générale, tout l’argent qui était déposé dans les comptes y demeurait pour sa belle‑mère, même si certains transferts ont pu avoir lieu entre les comptes. En novembre 2006, 4 256 990 $ ont été transférés de la Bank of America et portés au crédit de sa belle‑mère dans un compte bancaire suisse.
+[11] M. Naeini a reconnu qu’il s’occupait de la gestion des comptes, notamment en informant la banque de l’échéance des certificats de dépôt. Il a ajouté que sa belle‑mère ne comprenait pas la différence entre les divers comptes et qu’elle laissait ces questions à sa discrétion. D’après M. Naeini, Mme Shirazi ne voulait pas qu’on touche à l’argent et elle était disposée à laisser dormir les fonds dans des comptes qui procuraient un faible rendement. M. Naeini a ajouté que, si l’argent avait été le sien, il aurait tenté d’obtenir de meilleurs rendements.
+[12] Lorsqu’on lui a demandé s’il avait de quelconques documents relatifs aux virements télégraphiques d’Iran à Dubay, ou de quelconques éléments établissant les retraits effectués sur les comptes bancaires de sa belle‑mère à Téhéran, M. Naeini a répondu que ces transferts reposaient sur la confiance et que c’est ainsi que les choses doivent se passer en Iran : il était impossible d’effectuer ces opérations par l’intermédiaire des banques iraniennes.
+[13] L’instruction a été reportée pour permettre à M. Naeini de prendre les mesures nécessaires afin qu’un représentant de la Bank of America puisse fournir des éléments de preuve. Ses tentatives en ce sens ont été infructueuses.
+[14] Enfin, les déclarations de revenu de M. Naeini pour 2000, 2001 et 2002 mentionnent qu’il était propriétaire de cinq ou six biens locatifs produisant un revenu de location brut annuel d’environ 120 000 $ et un revenu net annuel d’environ 15 000 $.
+[15] En janvier et en mai 2005, le ministre a établi à l’égard de M. Naeini de nouvelles cotisations visant ses années d’imposition 2001 et 2002, respectivement, afin d’inclure dans son revenu les intérêts de 71 015 $ et de 61 117 $ versés au titre des comptes détenus à la Bank of America.
+[16] La Cour doit simplement se demander si le revenu en intérêts constitue, pour M. Naeini, un revenu assujetti à l’impôt au Canada. Cette décision repose entièrement sur les faits.
+[17] La façon dont M. et Mme Naeini décrivent la situation en Iran après la révolution évoque une sombre image de répression et de censure. Il est difficile pour des Canadiens d’apprécier pleinement comment fonctionne une telle société. On ne peut donc hâtivement tirer une inférence défavorable lorsque M. Naeini fait état de transferts de fonds à l’étranger effectués secrètement et reposant sur la confiance, sans les traces documentaires auxquelles un Nord‑Américain pourrait s’attendre. Néanmoins, certaines opérations ont eu lieu en Amérique du Nord ou au sein des milieux financiers internationaux, à l’extérieur de l’Iran, et, selon moi, elles auraient dû laisser des traces documentaires. En réalité, ce dont je suis saisi, c’est le témoignage de M. et de Mme Naeini voulant que Mme Shirazi ait confié ses propres fonds à M. Naeini pour qu’il les investisse aux États-Unis dans l’attente qu’ils soient utilisés pour acquérir un terrain dans ce pays. Les seuls documents présentés devant moi consistent en les états de comptes bancaires incomplets montrant que tous les comptes sont ouverts au nom de M. Naeini. Des millions de dollars ont été déposés dans ces comptes entre 1999 et 2006, principalement par l’intermédiaire de ce qu’on a appelé les « International Media Services », censément à Dubay, et, en 2006, 4 2000 000 $ ont été retirés et portés au crédit de Mme Shirazi. Aucune des parties n’a fourni une quelconque réconciliation susceptible de me convaincre que les fonds déposés correspondaient à la somme qui, en fin de compte, a été remise à Mme Shirazi plus les intérêts accumulés.
+[18] Le récit de M. Naeini soulève à mes yeux les préoccupations suivantes :
+a) En qualité de propriétaire inscrit de plusieurs comptes à la Bank of America, M. Naeini avait la maîtrise complète des investissements. Aucun élément ne permet de croire qu’il recevait de Mme Shirazi de quelconques instructions périodiques. De même, on n’a produit aucune correspondance et, à plus forte raison, aucune entente, régissant la façon dont M. Naeini devait gérer les millions de dollars pour le compte de sa belle‑mère.
+b) La plupart des fonds étaient transférés par l’intermédiaire de ce qu’on a appelé les « International Media Services ». À la lumière du témoignage de M. Naeini selon lequel l’argent passait par Dubay, je conclus que les International Media Services avaient un lien quelconque avec Dubay. On n’a pas laissé entendre que Dubay était sous l’emprise d’un régime répressif analogue à celui existant en Iran de sorte qu’il aurait été impossible d’avoir accès aux documents délivrés par une institution financière à Dubay.
+c) Dans leur témoignage, M. et Mme Naeini ont déclaré que Mme Shirazi voulait acquérir un bien réel aux États-Unis et qu’au moins une acquisition éventuelle avait été envisagée, mais que la transaction avait échoué en raison de problèmes liés à la présence d’amiante. L’appelant a jugé inutile de présenter des documents pour étayer l’existence d’une possible transaction immobilière.
+d) Même si j’accepte que Mme Shirazi ait pu être trop souffrante et que les obstacles aient pu être trop nombreux pour qu’elle vienne au Canada pour témoigner, l’absence totale de corroboration de sa part est préoccupante.
+e) Bien que j’aie reçu environ 600 pages tirées d’états de comptes bancaires mensuels couvrant la période de 1999 à 2006, les lacunes étaient considérables. Que s’est‑il passé pendant les mois manquants? Des fonds ont‑ils été retirés? Des fonds provenant de différentes sources ont‑ils été déposés? Il aurait été très utile que l’appelant s’efforce de brosser un tableau clair des fonds déposés, de l’intérêt accumulé et des fonds retirés. Au lieu de cela, je ne peux que formuler des hypothèses sur ce qui s’est produit pour que les soldes ne balancent pas. Plus important encore, on ne m’a offert aucune explication relativement aux chèques de 100 000 $, de 400 000 $ et de 500 000 $ émis pendant l’année 2000. Ces sommes ont‑elles toutes été investies à nouveau? Ont‑elles toutes été versées à M. Naeini? Aucune explication ne m’a été donnée.
+f) Je reconnais que les opérations commerciales en Iran peuvent se dérouler suivant des normes différentes de celles auxquelles on s’attend au Canada, en particulier en ce qui touche les transferts de fonds à l’étranger. Néanmoins, j’estime que l’explication voulant que des gens se soient rendus à la maison de Mme Shirazi pour acheter des bijoux et des antiquités qu’ils payaient en espèces ou au moyen de [traduction] « chèques‑liquidité » se chiffrant à des millions de dollars est fort douteuse. On me demande de croire que Mme Shirazi déposait rarement les fonds dans des banques et qu’elle s’adressait plutôt à des membres de la famille pour qu’ils transportent les fonds au lieu de change, à partir duquel l’argent était ensuite acheminé à Dubay et non aux États‑Unis. Il s’agit d’un récit remarquable.
+[19] Il convient de soupeser ces préoccupations avec les témoignages de M. et Mme Naeini suivant lesquels les sommes auraient été déposées au nom de Mme Shirazi si elle avait été en mesure de remplir les documents nécessaires, que ce soit aux États‑Unis ou en Iran. Tout bien considéré, je conclus que M. Naeini n’a pas réussi à prouver que les sommes appartenaient à sa belle‑mère. Comme aucune autre explication n’a été avancée pour établir qui est propriétaire de l’argent, j’arrive à la conclusion que celui‑ci appartient à la personne au nom de laquelle les comptes bancaires ont été ouverts, soit M. Naeini.
+[20] La présente affaire n’est pas facile à trancher. Il y a toutefois trop de lacunes et de chèques inexpliqués, et pas assez d’éléments pouvant corroborer les affirmations, par de la preuve documentaire ou autre, pour faire droit aux appels interjetés par M. Naeini.
+[21] Même si j’étais arrivé à la conclusion que Mme Shirazi avait réellement envoyé son argent à M. Naeini, il aurait néanmoins fallu examiner plusieurs autres hypothèses possibles, à savoir :
+a) L’argent aurait toujours appartenu à Mme Shirazi, comme le soutient M. Naeini.
+b) Mme Shirazi aurait simplement donné l’argent à son gendre et à sa fille.
+c) Mme Shirazi aurait prêté l’argent à M. Naeini à la condition d’être remboursée sur demande.
+d) Mme Shirazi aurait conclu un arrangement financier familial dans le cadre duquel M. Naeini aurait eu la maîtrise des fonds sous réserve d’un quelconque droit de rappel que Mme Shirazi aurait pu exercer relativement à la totalité ou à une partie des fonds.
+[22] La preuve présentée à l’appui de la thèse voulant que l’argent soit demeuré la propriété de Mme Shirazi tient principalement au fait que 4 200 000 $ ont été envoyés à cette dernière en 2006. Toutefois, on n’a pas établi si cette somme constituait la totalité des fonds qu’elle a déposés dans les comptes, plus l’intérêt. Comme il a déjà été mentionné, on a émis au cours de la seule année 2000 des chèques totalisant 1 000 000 $ qui n’ont pu être expliqués de manière satisfaisante. Ce fait, conjugué aux lacunes observées dans les états de compte mensuels, ne permet pas d’établir si Mme Shirazi a récupéré la totalité de l’argent qu’elle a versé, plus l’intérêt. Les documents sont tout aussi compatibles avec l’existence d’un prêt consenti à M. Naeini qu’avec l’existence d’un arrangement familial qui conférait à ce dernier le droit d’utiliser les fonds jusqu’à ce que Mme Shirazi demande à les récupérer en tout ou en partie. Les familles peuvent conclure des arrangements financiers particuliers pour différentes raisons. À mon sens, le fait que 4 200 000 $ ont été transférés dans un compte établi au nom de Mme Shirazi ne permet pas de conclure que l’argent lui a toujours appartenu. Comme l’a signalé la Couronne, ce transfert a eu lieu après qu’ont été interjetés les présents appels.
+[23] M. Naeini ne m’a pas convaincu que les faits favorisent une interprétation plus que l’autre. En réalité, la maîtrise qu’exerçait M. Naeini sur les comptes, y compris le pouvoir d’émettre des chèques, dont certains n’ont pas été justifiés, m’incite plutôt à conclure que l’arrangement familial, quel qu’il ait pu être, faisait en sorte que l’argent appartenait à l’appelant en ce qui concerne la possibilité d’en tirer un revenu. Il incombait à M. Naeini de détruire l’hypothèse du ministre voulant qu’il ait reçu de l’intérêt en 2001 et en 2002 à titre de propriétaire inscrit des comptes détenus à la Bank of America. Il n’a pas réussi à s’acquitter de l’obligation à cet égard. L’affaire est rejetée, avec dépens.
+Signé à Ottawa, Canada, ce 6e jour de février 2008.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 29 jour de février 2008.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2008CCI87
+No DU DOSSIER DE LA COUR : 2005-4305(IT)G
+INTITULÉ : Amid Aghahosseini Naeini c. La Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 29 janvier 2008
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 6 février 2008
+COMPARUTIONS :
+Avocat de l’appelant :
+Me David J. Rotfleisch
+Avocat de l’intimée :
+Me Craig Maw
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me David J. Rotfleisch
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

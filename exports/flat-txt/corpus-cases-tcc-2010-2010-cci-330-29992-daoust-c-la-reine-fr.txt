@@ -1,0 +1,131 @@
+Title: Daoust c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29992/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-330-29992-daoust-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-04-09
+
+# Daoust c. La Reine
+
+- Citation: 2010 CCI 330
+- Decision date: 2010-04-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7999, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Daoust c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-04-09
+Référence neutre
+2010 CCI 330
+Numéro de dossier
+2009-2868(IT)I
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2868(IT)I
+ENTRE :
+MIKE DAOUST,
+appelant,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Devant : L’honorable juge Steven K. D’Arcy
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Rachelle Nadeau
+____________________________________________________________________
+TRANSCRIPTION RÉVISÉE
+DES MOTIFS DU JUGEMENT
+Que la transcription révisée ci-jointe des motifs du jugement que j’ai prononcés à l’audience tenue à Winnipeg (Manitoba) le 9 avril 2010 soit déposée. J’ai révisé la transcription (certifiée par le sténographe judiciaire) par souci de stylistique, de clarté et d’exactitude. Je n’y ai apporté aucune modification quant au fond.
+Signé à Ottawa, Canada, ce 17e jour de juin 2010.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 15e jour de novembre 2010.
+Marie-Christine Gervais
+Référence : 2010 CCI 330
+Date : 20100427
+Dossier : 2009-2868(IT)I
+ENTRE :
+MIKE DAOUST,
+appelant,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+TRANSCRIPTION RÉVISÉE
+DES MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience à Winnipeg (Manitoba), le 9 avril 2010)
+Le juge D’Arcy
+[1] L’appelant, Mike Daoust, a interjeté appel des nouvelles cotisations d’impôt sur le revenu établies à l’égard de ses années d’imposition 2005 et 2006. Voici les motifs du jugement que j’ai prononcés oralement.
+[2] L’appel concerne des pertes locatives qui se rapportent à un chalet situé à Moth Lake, au Manitoba, (que j’appellerai le « chalet ») et que l’appelant a déduites dans le calcul de son revenu pour les années pertinentes.
+[3] Dans les déclarations de revenus qu’il a produites pour les années d’imposition 2005 et 2006, l’appelant a déduit des pertes locatives s’élevant respectivement à 9 173,77 $ et 6 506,38 $. Les pertes locatives déduites ont été refusées dans les nouvelles cotisations.
+[4] Je résumerai d’abord les faits.
+[5] L’appelant a acheté le chalet en 2004. Il a déclaré au cours de son témoignage qu’il avait acheté la propriété tant comme source de revenu que comme investissement de capitaux. Il a cru qu’il pourrait tirer un revenu du chalet en le louant à des membres de la famille, à des amis et à des collègues. Il estimait que la propriété était très attirante, parce qu’elle était située dans un endroit très retiré tout en se trouvant à proximité de Winnipeg. Le chalet était aménagé pour l’hiver et pouvait être loué tout au long de l’année.
+[6] L’appelant a cru qu’il pourrait louer le chalet à un prix de 1 600 $ par semaine, même s’il reconnaissait que les taux de location relatifs à des propriétés comparables étaient nettement inférieurs. Apparemment, le coût de location d’une propriété « haut de gamme » s’élevait à 1 500 $ par semaine. Or, le chalet n’était pas une propriété « haut de gamme ».
+[7] L’appelant a passé deux mois en 2004 à préparer le chalet afin de le louer. Dès 2005, le chalet était prêt à être loué. L’appelant a déclaré qu’en plus d’offrir la propriété à des membres de la famille, à des amis et à des collègues, il l’a annoncée afin de tenter de la louer à des personnes qu’il ne connaissait pas. Il a annoncé la propriété dans un quotidien de Winnipeg, dans un site web consacré à la location en ligne, sur des affiches placardées à différents endroits situés près du chalet et dans le journal local de Kenora.
+[8] L’appelant n’a pas eu de succès en ce qui concerne la location du chalet, lequel n’a pas été loué en 2005. En 2006, l’appelant l’a loué pour une période de deux semaines, soit une semaine à un ami de longue date et une autre à son frère. En 2007, l’appelant a loué la propriété pour une période d’une semaine à un tiers qu’il ne connaissait pas. Ces locations ont généré un revenu de location total de 4 400 $.
+[9] L’appelant a déclaré des pertes élevées découlant de la location du chalet. Il a calculé les pertes en attribuant un pourcentage de 50 pour cent pour ce qui est de l’utilisation du chalet à des fins personnelles au cours des années en question. En se fondant sur une utilisation de 50 pour cent du chalet comme bien locatif, l’appelant a obtenu des pertes de 9 193,77 $ en 2005, de 6 506,38 $ en 2006 et de 8 025 $ en 2007, soit un total de 23 725,15 $ pour les trois années.
+[10] En 2009, le chalet a été vendu au prix de 315 000 $, ce qui a donné lieu à un gain en capital de 80 000 $.
+[11] La question que je dois trancher est de savoir si le chalet constituait une source de revenu. Le raisonnement à suivre pour répondre à cette question est énoncé dans la décision que
+la Cour suprême du Canada a rendue en 2002 dans Stewart c. Canada, [2002] 2 R.C.S. 645.
+[12] Aux paragraphes 52 à 55 de son jugement,
+la Cour suprême du Canada a souligné que, dans les situations où l’activité en cause comporte un aspect personnel ou récréatif, il faut appliquer le critère de l’existence d’une source « en vue de réaliser un profit ».
+[13] Au paragraphe 54,
+la Cour suprême du Canada a décrit le critère en ces termes :
+[14]
+La Cour suprême a fourni la liste non exhaustive suivante des facteurs objectifs à prendre en compte :
+- l’état des profits et pertes pour les années antérieures;
+- la formation du contribuable;
+- la voie sur laquelle il entend s’engager;
+- la capacité de l’entreprise de réaliser un profit.
+[15]
+La Cour suprême a précisé que, même si l’expectative raisonnable de profits constitue un facteur à prendre en considération, elle n’est ni le seul facteur, ni un facteur déterminant. Essentiellement, il faut déterminer si le contribuable exerce l’activité d’une manière commerciale sans évaluer après coup son sens des affaires.
+[16] Étant donné que l’activité en cause comportait un élément personnel, je dois appliquer le critère de l’existence d’une source « en vue de réaliser un profit ». Bref, je dois décider si l’intention prédominante de l’appelant était de tirer profit de la location du chalet et si cette activité de location a été exercée conformément à des normes objectives de comportement d’homme d’affaires sérieux.
+[17] Dans la présente affaire, il est possible de trancher la question en examinant les quatre facteurs mentionnés dans l’arrêt Stewart.
+[18] Selon l’état des profits et pertes pour les années antérieures, il semble que l’intention prédominante de l’appelant n’était pas de tirer profit de la location du chalet. Cette location n’a jamais été rentable et, tel qu’il est mentionné plus haut, elle a donné lieu à de faibles revenus et à des pertes très élevées.
+[19] Si j’accepte le témoignage de l’appelant, il semblerait que celui-ci voulait tirer un profit de la location du chalet. Cependant, il a fourni très peu d’éléments de preuve à l’appui de son témoignage. Il n’a produit aucune copie des annonces qu’il a utilisées ni même un simple plan d’affaires.
+[20] De plus, il n’a pas expliqué pourquoi le coût de la location avait été fixé à un taux hebdomadaire qui ne semblait pas réaliste, soit un taux qui a donné lieu à un nombre peu élevé de locations à l’égard d’une propriété qui semblait avoir un excellent potentiel comme bien locatif.
+[21] Ces faits m’amènent à me demander si l’appelant avait vraiment l’intention de louer le chalet régulièrement.
+[22] À mon avis, étant donné que l’appelant a fixé le prix de location à un taux très élevé et qu’il s’est limité à cibler des amis et des membres de sa famille pour louer le chalet, la location ne pouvait être rentable.
+[23] Je conviens avec l’avocate de l’intimée que l’intention prédominante de l’appelant était d’utiliser le chalet à des fins personnelles et de le louer à l’occasion afin de réduire les frais d’entretien s’y rapportant.
+[24] En résumé, l’intention prédominante de l’appelant n’était pas de tirer profit de la location du chalet, lequel ne constituait pas une source de revenu.
+[25] Pour les motifs exposés ci-dessus, l’appel est rejeté sans dépens.
+54 […] « Le contribuable a-t-il l’intention d’exercer une activité en vue de réaliser un profit et existe-t-il des éléments de preuve étayant cette intention? » Cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l’activité et que cette activité a été exercée conformément à des normes objectives de comportement d’homme d’affaires sérieux.
+Juge D’Arcy
+Traduction certifiée conforme
+ce 15e jour de novembre 2010.
+Marie-Christine Gervais
+RÉFÉRENCE : 2010 CCI 330
+NO DU DOSSIER DE
+LA COUR : 2009-2868(IT)I
+INTITULÉ : MIKE DAOUST c. SA MAJESTÉ
+LA REINE
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATES DE L’AUDIENCE : Les 7 et 9 avril 2010
+MOTIFS DU JUGEMENT : L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT : Le 27 avril 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Rachelle Nadeau
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant : S/O
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

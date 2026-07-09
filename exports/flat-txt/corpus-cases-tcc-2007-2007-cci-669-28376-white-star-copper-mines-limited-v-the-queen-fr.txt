@@ -1,0 +1,126 @@
+Title: White Star Copper Mines Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28376/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-669-28376-white-star-copper-mines-limited-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-10-25
+
+# White Star Copper Mines Limited v. The Queen
+
+- Citation: 2007 CCI 669
+- Decision date: 2007-10-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1895, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+White Star Copper Mines Limited v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-25
+Référence neutre
+2007 CCI 669
+Numéro de dossier
+2007-3810(IT)G
+Juges et Officiers taxateurs
+Eugene P. Rossiter
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3810(IT)G
+ENTRE :
+WHITE STAR COPPER MINES LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête présentée par l’appelante en vue d’obtenir une ordonnance l’autorisant à se faire représenter par un dirigeant de l’appelante entendue le 25 octobre 2007, à Toronto (Ontario)
+Devant : L’honorable juge E.P. Rossiter
+Comparutions :
+Représentant de l’appelante :
+John Patrick Sheridan
+Avocate de l’intimée :
+Me Samantha Hurst
+____________________________________________________________________
+ORDONNANCE
+Vu la requête visant à permettre à l’appelante de se faire représenter par John Patrick Sheridan, ingénieur, le président de l’appelante et un administrateur de celle‑ci, pour l’audition de l’appel;
+Et vu les observations des parties et les documents déposés par celles‑ci;
+LA COUR ORDONNE :
+1. La requête est rejetée sans ordonnance quant aux dépens, conformément aux motifs de l’ordonnance ci‑joints.
+2. L’intimée aura 60 jours à compter de la date de la présente ordonnance pour déposer une réponse à l’avis d’appel.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2007.
+« E. P. Rossiter »
+Juge Rossiter
+Traduction certifiée conforme
+ce 10e jour de décembre 2007.
+Marie-Christine Gervais, traductrice
+Référence : 2007CCI669
+Date : 20071107
+Dossier : 2007-3810(IT)G
+ENTRE :
+WHITE STAR COPPER MINES LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Rossiter
+Point en litige
+[1] L’appelante demande à la Cour l’autorisation d’être représentée par John Patrick Sheridan, ingénieur, le président de l’appelante et un administrateur de celle‑ci, pour l’audition de l’appel.
+Analyse
+[2] Le paragraphe 30(2) des Règles de la Cour canadienne de l’impôt (procédure générale) indique ce qui suit :
+(2) La partie à une instance qui n’est pas une personne physique se fait représenter par un avocat, sauf avec l’autorisation de la Cour et sous réserve des conditions que celle‑ci fixe.
+[3] Diverses affaires m’aident à statuer sur la requête, en particulier Pratts Wholesale Ltd. c. Canada, [1998] A.C.I. no 171, une décision où le juge Beaubier a cité les propos suivants que le juge Muldoon a tenus dans Kobetek Systems Ltd. c. Canada, [1998] A.C.F. no 16 :
+6 Il appert de ces décisions que, pour déterminer si des circonstances spéciales existent, il convient d'examiner les facteurs suivants, soit les questions de savoir si l'entreprise peut s'offrir les services d'un avocat, si le représentant proposé sera tenu de comparaître comme porte‑parole et comme témoin, si les questions de droit à trancher sont complexes (et, par conséquent, si le représentant semble être en mesure de débattre les questions de droit) et si l'action peut se poursuivre de manière expéditive.
+Le juge Beaubier a mentionné ce qui suit au paragraphe 7 :
+7 Il existe un facteur primordial que la Cour estime des plus importants : une personne morale est une création de la loi, formée pour conférer un avantage technique à ses actionnaires, administrateurs et dirigeants. Cet avantage peut être historique, comme la responsabilité limitée, ou il peut être plus actuel, aux fins de l'impôt sur le revenu ou d'autres fins fiscales, par exemple. Ainsi, la question en litige dans l'appel en l'instance se rapporte à une demande relative aux dépenses effectuées pour la recherche scientifique et le développement expérimental. Donc, une entreprise constituée en personne morale offre certains avantages dont un particulier ne peut peut-être pas se prévaloir. Pour compenser cela, on prévoit certaines obligations, comme celle d'adopter des résolutions ou celle, pour l'entité qui a été créée par la loi, de se faire représenter par un avocat. Parce qu'elle est une création technique de la loi, et de par sa nature même, une personne morale devrait se faire représenter par un avocat dans toute instance devant la Cour, sauf dans des circonstances très exceptionnelles.
+[4] Il existe en fait quatre facteurs pour établir s’il y a présence de circonstances spéciales :
+1. La société peut‑elle s’offrir les services d’un avocat?;
+2. Le représentant proposé sera‑t‑il tenu de comparaître comme porte‑parole et comme témoin?;
+3. Les questions de droit à trancher sont‑elles complexes (et, par conséquent, le représentant semble‑t‑il en mesure de débattre les questions de droit)?;
+4. L’action peut‑elle se poursuivre de manière expéditive?
+[5] Le juge Beaubier a ajouté, comme facteur prépondérant, la nature particulière d’une société, et a indiqué que, de par sa nature particulière, une société devrait se faire représenter par un avocat dans toute instance devant la Cour, sauf dans des circonstances très exceptionnelles. Dans la décision RFA Natural Gas Inc. c. Canada, [2000] A.C.I. no 327, le juge Bowie a ajouté un cinquième facteur – soit la question de savoir si le procureur général du Canada avait choisi que l’appel, qui avait été interjeté sous le régime de la procédure informelle, soit régi par la procédure générale.
+[6] Le juge en chef adjoint Bowman, tel était alors son titre, et le juge Little ont mentionné ces facteurs et se sont fondés sur eux dans Chase Bryant Inc. c. Canada, [2002] A.C.I. no 663, et dans Thomson Motors Co. c. Canada, [2002] A.C.I. no 366, respectivement. Dans la dernière affaire, le juge Little a ajouté un sixième facteur, soit la question de savoir si un dirigeant est aussi l’administrateur et l’unique actionnaire de la société.
+[7] Y a‑t‑il des éléments de preuve montrant qu’il existe des circonstances spéciales justifiant que la Cour exerce son pouvoir discrétionnaire et permette à un non‑juriste de représenter la société?
+[8] La Cour est consciente des coûts que représente une procédure pour les plaideurs. Le fait est que nous avons des règles qui sont en place pour assurer la bonne administration des affaires devant la Cour et que des facteurs ont été établis pour l’application des règles applicables en la matière.
+[9] Un de ces facteurs est la question de savoir si la société peut s’offrir les services d’un avocat. Les éléments de preuve relatifs à la capacité de la société de payer un avocat sont les suivants :
+1. la société possède des biens;
+2. selon le président de la société, M. Sheridan, les biens ont une très grande valeur;
+3. la société a suffisamment d’argent pour payer ses impôts;
+4. la société ne veut pas grever ses biens pour financer son appel.
+[10] Aucun élément de preuve n’a été présenté concernant les efforts que la société a déployés afin de réunir des fonds pour engager un avocat ou en ce qui concerne les finances ou les états financiers de la société, si ce n’est la déclaration secondaire selon laquelle la société disposait d’assez d’argent pour payer ses impôts. La société était cotée en bourse, mais sa cote a été radiée vers 1998. La société a de 500 à 600 actionnaires. M. Sheridan est le président et l’un des trois administrateurs de la société et ne détient pas d’actions de la société. Selon le président, la société ne veut pas grever ses biens pour aller devant la Cour. Il ressort de la preuve que l’appelante a les moyens de s’offrir les services d’un avocat en raison de la grande valeur, selon le président, des biens fonciers de la société à Timmins (Ontario) et dans les environs.
+[11] En l’espèce, nous n’avons pas de renseignements nous permettant de savoir si le représentant, M. Sheridan, comparaîtra comme porte‑parole et comme témoin, mais je crois fortement qu’il le fera. Le vérificateur/comptable de l’appelante est décédé. Le président, M. Sheridan, a donné l’impression, en tant que témoin, qu’il contrôlait très bien les affaires de l’appelante. La complexité de l’affaire n’est pas une question à trancher en l’espèce, selon l’intimée, mais le point de vue de l’avocate de l’intimée concernant le niveau de complexité peut être différent de celui de l’appelante. Rien dans la preuve n’indique que l’affaire peut vraiment être traitée de façon plus expéditive, avec ou sans avocat, quoique j’ai l’impression que l’affaire pourra se poursuivre de manière plus expéditive avec un avocat. Le cinquième facteur n’est pas mis en doute. Le représentant pour la présente affaire est le président et l’un des trois administrateurs de la société, et il n’est pas un de ses actionnaires.
+[12] L’appelante n’a pas présenté suffisamment d’éléments de preuve pour me convaincre que les circonstances spéciales nécessaires existaient pour justifier que la Cour exerce son pouvoir discrétionnaire et permette à M. Sheridan de représenter l’appelante.
+[13] La requête est rejetée sans ordonnance quant aux dépens. J’accorde à l’intimée 60 jours à compter de la date de la présente ordonnance pour déposer une réponse à l’avis d’appel.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2007.
+« E. P. Rossiter »
+Juge Rossiter
+Traduction certifiée conforme
+ce 10e jour de décembre 2007.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2007CCI669
+NO DU DOSSIER : 2007-3810(IT)G
+INTITULÉ : WHITE STAR COPPER MINES LIMITED c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 25 octobre 2007
+MOTIFS DE L’ORDONNANCE
+PAR : L’honorable juge E.P. Rossiter
+DATE DE L’ORDONNANCE : Le 7 novembre 2007
+COMPARUTIONS :
+Représentant de l’appelante :
+John Patrick Sheridan
+Avocate de l’intimée :
+Me Samantha Hurst
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

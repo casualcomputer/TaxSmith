@@ -1,0 +1,106 @@
+Title: Scott c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29117/index.do
+Corpus path: corpus/cases/tcc/2008/2009-cci-115-29117-scott-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-11-28
+
+# Scott c. La Reine
+
+- Citation: 2009 CCI 115
+- Decision date: 2008-11-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6650, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scott c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-28
+Référence neutre
+2009 CCI 115
+Numéro de dossier
+2006-707(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2009 CCI 115
+Date : 20090224
+Dossier : 2006-707(IT)G
+ENTRE :
+JAMES M. SCOTT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Avocat de l'appelant : Me Patrick Spinks
+Avocate de l'intimée : Me Karen A. Truscott
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à Kelowna (Colombie‑Britannique), le 20 novembre 2008.)
+Le juge McArthur
+[1] Il s'agit d'un appel d'une nouvelle cotisation établie à l'égard de l'année d'imposition 2003 de l'appelant. Le ministre du Revenu national a refusé la déduction de 60 000 $ demandée par l'appelant pour une pension alimentaire versée à son ancienne conjointe, Barbara McColl. La décision du ministre est fondée sur le fait que le montant n'était pas payé de façon périodique, comme l'exigent l'alinéa 60b) et le paragraphe 56.1(4) de la Loi de l'impôt sur le revenu. Seul l'appelant, le docteur Scott, a témoigné; il a également déposé un affidavit pour le compte de son ancien avocat[1] qui, parce qu'il était gravement malade, n'a pas pu se présenter. Je retiens le témoignage oral du docteur Scott. Je conclus qu'il n'est pas nécessaire de traiter des questions que l'avocate de l'intimée a soulevées au sujet de la preuve par affidavit.
+[2] Dans l'ensemble, les faits ne sont pas contestés. L'appelant est radiologue; il réside maintenant à Saskatoon. Au mois de novembre 1999, le couple a mis fin à une relation qui durait depuis sept ans. Le 1er novembre 2000, le protonotaire Groves, de la Cour suprême de la Colombie‑Britannique, a enjoint à l'appelant, ex parte, de verser une pension alimentaire pour enfants ainsi qu'une pension alimentaire à son ancienne conjointe. Lorsque l'ordonnance a été portée à sa connaissance, l'appelant a retenu les services d'un avocat pour demander la modification de l'ordonnance. Le protonotaire Groves, lorsqu'il a entendu la demande de modification, a de fait modifié l'ordonnance initiale, l'appelant devant uniquement verser un montant mensuel de 5 000 $ au titre de la pension alimentaire à payer à son ancienne conjointe.
+[3] L'appelant a interjeté appel de cette seconde ordonnance provisoire et n'a effectué aucun paiement en vertu de cette ordonnance. Par la suite, Mme McColl a commencé à vivre avec un nouveau conjoint et elle est devenue autosuffisante. Avant l'audition de l'appel concernant l'ordonnance provisoire, les parties ont réglé le différend, aux conditions énoncées dans un consentement sans comparution, qui est devenu une ordonnance définitive[2] approuvée par le juge Brooke, de la Cour suprême de la Colombie‑Britannique. Les dispositions pertinentes sont notamment les suivantes :
+[TRADUCTION]
+1. L'appel interjeté par le défendeur de l'ordonnance du protonotaire Groves, rendue le 27 juillet 2001, est par les présentes rejeté.
+2. Le total des arriérés de la pension alimentaire pour conjoint à ce jour est par les présentes fixé à 60 000 $. Après la date des présentes, le défendeur n'aura plus aucune obligation envers la demanderesse au titre de la pension alimentaire pour conjoint.
+3. Le défendeur versera les arriérés de la pension alimentaire pour conjoint mentionnés à l'alinéa b) en versant 30 000 $ à la demanderesse et un montant de 5 000 $ par mois, payable en versements égaux, du 1er juillet au 31 décembre 2003, date à laquelle la totalité des arriérés aura été payée.
+4. Si le défendeur fait défaut à l'égard du paiement des arriérés de la pension alimentaire pour conjoint mentionnés à l'alinéa c), la présente ordonnance sera considérée comme nulle et non avenue, sauf pour ce qui est du rejet de l'appel de l'ordonnance du protonotaire Groves du 27 juillet 2001 interjeté par le défendeur, et le plein montant des arriérés qui se seront accumulés depuis l'ordonnance rendue par le protonotaire Groves sera rétabli et continuera à s'accumuler tant qu'une autre ordonnance de la Cour ne sera pas rendue, tant qu'il n'y aura pas d'accord entre les parties ou tant que les arriérés n'auront pas été payés au complet.
+5. Lorsque les arriérés de la pension alimentaire pour conjoint mentionnés à l'alinéa b) auront été payés au complet, la demanderesse et le défendeur produiront de nouveau leurs déclarations de revenus pour les années 2000 et 2001. La demanderesse déclarera, pour l'année 2000, le montant de 10 000 $ que le défendeur lui aura versé au titre de la pension alimentaire pour conjoint. Le défendeur déduira pour l'année 2000 le montant de 10 000 $ qu'il aura versé à la demanderesse au titre de la pension alimentaire pour conjoint. La demanderesse déclarera, au titre du revenu de l'année 2001, le montant de 50 000 $ que le défendeur lui aura versé au titre de la pension alimentaire pour conjoint pour la période allant du mois de janvier au mois d'octobre 2001. Le défendeur déduira pour l'année 2001 le montant de 50 000 $ qu'il aura versé à la demanderesse au titre de la pension alimentaire pour conjoint pour la même période.
+Selon une disposition additionnelle de l'ordonnance rendue sur consentement, le docteur Scott devait être tenu responsable de la moitié des créances de Mme McColl.
+[4] Comme il en a été fait mention, avant que l'ordonnance soit rendue le 22 juillet 2003, l'appelant n'avait pas effectué de paiements. Il a effectué tous les paiements exigés dans l'ordonnance rendue sur consentement. Aucun paiement périodique n'a été fait. Il est difficile de conclure que la somme forfaitaire fixe de 60 000 $ était un paiement de rattrapage de la pension alimentaire périodique pour conjoint prévue dans l'ordonnance provisoire.
+[5] La position prise par l'appelant constitue l'intention des parties et il s'agit probablement d'une approche fondée sur le sens commun, mais je ne puis rien changer aux faits quant au droit. Selon le paragraphe 4 de l'ordonnance définitive, les parties devaient produire de nouveau leurs déclarations de revenus afin de permettre à l'appelant de déduire les 60 000 $ et à Mme McColl d'inclure dans son revenu un montant de 10 000 $ pour l'année 2000 et un montant de 50 000 $ pour l'année 2001. Nous ne savons pas si Mme McColl a inclus ces montants dans son revenu. Il n'y a pas de désaccord entre les avocats, ceux‑ci s'entendant pour dire qu'une ordonnance judiciaire ou l'intention des parties ne peuvent pas modifier la loi fiscale pertinente. Je dois interpréter la Loi telle qu'elle est rédigée.
+[6] La question de la déductibilité du montant de 60 000 $ doit être tranchée conformément aux dispositions de la Loi de l'impôt sur le revenu, et non de la façon dont on a tenté de le faire au paragraphe 4 de l'ordonnance définitive. Si l'ordonnance provisoire s'était appliquée, les arriérés auraient été de plus de 100 000 $. La question de savoir si une somme forfaitaire est un paiement périodique a été débattue à maintes reprises au fil des ans. L'appelant peut‑il déduire la somme forfaitaire de 60 000 $ qu'il a versée à son ancienne conjointe? La décision la plus souvent citée est la décision R. c. McKimmon[3], dans laquelle la Cour d'appel fédérale a énoncé des lignes directrices qui sont utiles en l'espèce. La ligne directrice la plus pertinente est la suivante : « Les paiements sont‑ils censés libérer le débiteur de toute obligation future de verser une pension alimentaire? »
+[7] En ce qui concerne le paiement de 60 000 $, le docteur Scott a de fait été libéré de toute obligation future de verser une pension alimentaire. Or, si la personne en cause effectue un paiement pour être libérée d'une obligation, il est conclu dans la plupart des décisions que le paiement est imputable au capital et qu'il n'est pas déductible. Il est inutile de tirer une conclusion au sujet de l'objet du paiement, mais je ne doute pas que l'appelant ait eu l'intention d'effectuer un paiement unique sous la forme d'une somme forfaitaire en vue d'avoir finalement la paix et d'être libéré de toute obligation. Le paiement était vraiment de la nature du capital plutôt que d'un revenu. L'appelant s'est opposé, pendant plusieurs années, à effectuer les paiements périodiques.
+[8] Dans son recueil de jurisprudence et de doctrine, l'intimée a soumis 22 décisions, mais heureusement elle en a mentionné expressément trois ou quatre seulement en vue d'établir son mantra, et j'emploie ce terme dans un sens favorable, à savoir que si une personne a effectué le paiement afin de se libérer d'une obligation et que ce paiement met fin à toutes les obligations envers un ancien conjoint, ce paiement est imputable au capital et ne constitue pas un paiement périodique.
+[9] J'ai du moins examiné les sommaires des 22 décisions; dans la décision Glazier c. La Reine[4], où les faits étaient semblables à ceux de la présente espèce, le juge Sarchuk a conclu que le paiement forfaitaire, qui était inférieur au total des arriérés, était une contrepartie versée pour libérer le contribuable d'obligations futures, de sorte que le paiement n'était pas visé à l'alinéa 60b) de la Loi. Plus tôt dans ses motifs, le juge avait reconnu que la nature des paiements ne change pas pour la seule raison qu'ils ne sont pas effectués à temps, en citant, comme l'a fait l'avocat de l'appelant, les décisions R. c. Sills[5] et Soldera c. M.R.N.[6].
+[10] En ce qui concerne les prétentions de l'appelant, le contribuable, dans l'affaire Sills, avait versé une somme forfaitaire à titre de paiement de rattrapage afin de payer l'arriéré de la pension alimentaire pour conjoint. La Cour d'appel fédérale a conclu que le paiement forfaitaire ne changeait rien à la nature du paiement au sens de l'alinéa 56(1)b). À l'appui de sa position, l'appelant a également mentionné la décision Sills en tant que décision faisant autorité. Or, il est possible de faire une distinction entre cette affaire et la présente espèce, en ce sens que dans l'affaire Sills, le contribuable n'avait pas obtenu une libération définitive pour des obligations futures. Il en va de même pour d'autres décisions citées par l'appelant, notamment la décision Baylis c. La Reine[7], qui comportait un autre aspect. Si je me souviens bien, dans l'affaire Baylis, la somme forfaitaire ne comprenait pas vraiment les arriérés de la pension alimentaire pour conjoint.
+[11] L'appelant s'est également fondé sur l'affaire Soldera, dans laquelle le paiement effectué par l'appelant représentait une partie des arriérés de la pension alimentaire, qui constituaient une allocation payable sur une base périodique aux termes d'une ordonnance rendue en 1983 et qui, selon ce que le juge Geroff avait conclu, était donc déductible au complet dans le calcul du revenu de l'appelant pour l'année d'imposition 1986. Ici encore, il n'y avait pas eu libération définitive à l'égard de paiements futurs.
+[12] À l'heure actuelle, les 60 000 $ ne constituent pas à mon avis un paiement périodique. Il s'agissait d'un paiement unique. Dans l'affaire Ostrowski c. La Reine[8], à l'onglet 4 du recueil de jurisprudence et de doctrine de l'appelant, un paiement unique effectué par le contribuable avait pour effet de le libérer de paiements futurs à concurrence du total du montant forfaitaire qui était dû au moment du paiement. Le contribuable n'avait pas obtenu de libération absolue.
+[13] Dans l'affaire Salzmann c. La Reine[9], à l'onglet 5 du recueil de jurisprudence et de doctrine de l'appelant, la somme forfaitaire de 90 000 $ versée par le contribuable représentait exactement l'équivalent de ses arriérés, contrairement à ce qui se produit en l'espèce; il a été conclu qu'il s'agissait du paiement de l'arriéré et une déduction a été admise jusqu'à la date du paiement. Toutefois, le contribuable continuait à être redevable des paiements futurs. Il est possible de faire une distinction entre ces faits et ceux de l'espèce.
+[14] Il en va de même pour la décision Stephenson c. La Reine[10], à l'onglet 8 du recueil de jurisprudence et de doctrine de l'appelant. Dans la décision Stephenson, il est fait mention de l'intention des parties. Or, comme il en a ci‑dessus été fait mention, l'intention des parties n'a pas pour effet de modifier la Loi, en particulier l'alinéa 60b) et le paragraphe 56.1(4). Je comprends bien l'appelant, et la solution à retenir consisterait peut‑être à respecter l'intention claire des parties, mais conclure que l'appelant a effectué des paiements périodiques ne ferait qu'élargir beaucoup trop les faits et la Loi.
+[15] J'aimerais faire une remarque générale : il est possible de triturer les faits et l'analyse, de façon que les décisions Sills, Soldera, Salzmann et Stephenson, et peut‑être d'autres décisions, s'appliquent, mais à l'heure actuelle, le montant ne représente pas un montant précis de paiements périodiques. Dans l'ordonnance portant règlement, il n'est pas question de ramener à 60 000 $ les arriérés de plus de 100 000 $.
+[16] Devant le protonotaire Groves, l'appelant a nié l'existence d'une relation conjugale. Pendant toute la durée de leur relation, les parties avaient toujours conservé leurs résidences distinctes, sauf pendant six mois. Aux yeux de l'appelant, il n'existait aucune obligation de verser une pension alimentaire. L'appelant avait effectué le paiement en vue de ne plus être obligé d'avoir affaire aux avocats et aux tribunaux. À mon avis, ce paiement est certes imputable au capital.
+[17] Malgré les savants arguments de l'avocat de l'appelant, l'appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 24e jour de février 2009.
+« C. H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 16e jour de juin 2009.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2009 CCI 115
+No DU DOSSIER DE LA COUR : 2006-707(IT)G
+INTITULÉ : JAMES M. SCOTT c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Kelowna (Colombie-Britannique)
+DATE DE L'AUDIENCE : Le 20 novembre 2008
+MOTIFS DU JUGEMENT : L'honorable C.H. McArthur
+DATE DU JUGEMENT : Le 28 novembre 2008
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Patrick Spinks
+Avocate de l'intimée :
+Me Karen A. Truscott
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Patrick Spinks
+Cabinet : Rush Ihas LLP
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A‑2.
+[2] Pièce A‑1, onglet 4.
+[3] [1990] 1 C.F. 600, 90 D.T.C. 6088.
+[4] 2003 CCI 2.
+[5] [1985] 2 C.F. 200, 85 D.T.C. 5096.
+[6] no 90‑1497(IT), 26 février 1991, [1991] A.C.I. no 142 (QL).
+[7] 2007 CCI 387.
+[8] no 1999‑3938(IT)G, 12 février 2001.
+[9] 2008 CCI 527.
+[10] 2007 CCI 559.

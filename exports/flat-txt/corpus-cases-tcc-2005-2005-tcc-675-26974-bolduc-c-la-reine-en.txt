@@ -1,0 +1,159 @@
+Title: Bolduc c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26974/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-675-26974-bolduc-c-la-reine-en.md
+Document type: case_law
+Last modified: 2005-10-26
+
+# Bolduc c. La Reine
+
+- Citation: 2005 TCC 675
+- Decision date: 2005-10-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 550, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bolduc c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-26
+Neutral citation
+2005 TCC 675
+File numbers
+2004-915(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2004-915(IT)I
+BETWEEN:
+CLAUDE BOLDUC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 20, 2005, at Montreal, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Pierre Hémond
+Counsel for the Respondent:
+Nathalie Labbé
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the taxation years 1999 and 2000 are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of October 2005.
+« Louise Lamarre Proulx »
+Lamarre Proulx J.
+[OFFICIAL ENGLISH TRANSLATION]
+Citation: 2005TCC675
+Date: 20051026
+Docket: 2004-915(IT)I
+BETWEEN:
+CLAUDE BOLDUC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] These are appeals for the taxation years 1999 and 2000.
+[2] The issue is whether the amounts of $2,854.48 and $7,942.37 respectively are to be included in the calculation of the appellant’s income as benefits deemed to have been received from the company Habitations Durab Inc. (the “Company”), within the meaning of Section 80.4 of the Income Tax Act (the “Act”).
+[3] The facts on which the reassessments by the Minister of National Revenue (the “Minister”) are based are outlined in paragraph 12 of the Reply to the Notice of Appeal and read as follows:
+[TRANSLATION]
+a) the company “Habitations Durab Inc.” operated a residential construction and renovation business during the fiscal years ending on December 31, 1999 and December 31, 2000;
+b) the Appellant was a shareholder and employee of the company “Habitations Durab Inc.” during the taxation years in question;
+c) the Minister audited the accounting records of the company Habitations Durab Inc. and the Appellant’s personal bank accounts;
+d) during the fiscal years of “Habitations Durab Inc.” ending on December 3, 1999 and December 3, 2000, the annual balance of advances granted to the Appellant by the said company are as follows :
+i) on January 1, 1999 $24,500.86
+ii) on December 31, 1999 $134,394.55
+iii) on December 31, 2000 $90,273.00;
+e) the Appelant did not pay any amount for interest to the company Habitations Durab Inc. during the years in question;
+f) to calculate the annual benefit deemed to have been received by the Appellant, the Minister used the interest rates 5% and 6% respectively for the taxation years 1999 and 2000.
+[4] From the Notice of Appeal, I quote paragraphs 2 to 8 and 16 which read as follows:
+[TRANSLATION]
+2. On July 11, 1997, the Appellant personally borrowed from the Caisse populaire Desjardins du Vieux-Québec an amount totalling one hundred and twenty thousand dollars ($120,000), by two (2) separate loan agreements in the amount of sixty thousand dollars ($60,000) each, as can be seen from a copy of the mortgage agreements, which copy will be submitted in the Court file as Document A-1;
+3. The total amount of the loans, that is the sum of one hundred and twenty thousand dollars ($120,000), was to serve to cover the costs of construction of two semi-detached homes to be built on de Chamerolles Street, in Neufchâtel, as can be seen from a letter dated June 2, 1997 from the Caisse populaire Desjardins du Vieux-Québec to which the offer of financing was attached, which documents are to be submitted in the Court file as Document A-2;
+4. According to the offer of financing, one of the loans in the amount of sixty thousand dollars ($60,000) was to be secured by a first mortgage on the building situated at 9725 de Chamerolles Street, in Neufchâtel;
+5. The lots on which the semi-detached homes were to be built were purchased not by the Appellant, but by Les Habitations Durab Inc., by an agreement of sale reached with la Fédération des Caisses populaires Desjardins de Québec dated August 19, 1997, copy of which will be submitted in the Court file as Document A-3;
+6. The entire amount totalling one hundred and twenty thousand dollars ($120,000) having been loaned by the Caisse populaire Desjardins du Vieux-Québec was paid out to the Appellant, as can be seen from the disbursement slips, copies of which will be submitted in the Court file as Document A-4;
+7. The amount totalling one hundred and twenty thousand dollars ($120,000) which was paid out to the Appellant was subsequently deposited in instalments in the operations account of the company Les Habitations Durab Inc., for which evidence will be submitted;
+8. The entire amount totalling one hundred and twenty thousand dollars ($120,000) which was personally borrowed by the Appellant served to pay the construction costs of the semi-detached homes on the lots owned by Les Habitations Durab Inc.;
+…
+16. The reassessments issued to the Appellant for the taxation years 1999 and 2000 as well as the Minister’s decision to confirm them are without basis and are erroneous for the following reasons:
+a) The Appellant himself paid, on behalf of the company Les Habitations Durab Inc., all the interest payable on the loans totalling one hundred and twenty thousand dollars ($120,000) taken out with the Caisse populaire Desjardins du Vieux-Québec, up until November 15, 2000, at which date the Caisse populaire Desjardins du Vieux-Québec acknowledged having received all the amounts owed by the Appellant on account of the mortgage loans made to him on July 11, 1997, as can be clearly seen on a discharge from the Caisse populaire Desjardins du Vieux-Québec, copy of which will be submitted in the Court file as Document A-9;
+b) The mortgage loans taken out by the Appellant for the benefit of Les Habitations Durab Inc. bore interest at a rate varying from 5.2% per year to 6.75 % per year;
+c) Moreover, up to the time of the discharge, the Appellant himself made, on behalf of Les Habitations Durab Inc., all the mortgage payments owed to the said financial institution, for which evidence will be submitted;
+d) The amounts that the Appellant borrowed for the benefit of Les Habitations Durab Inc. totalling one hundred and twenty thousand dollars ($120,000), as well as the interest that he paid on those loans from July 11, 1997 on, constituted a loan to the benefit of Les Habitations Durab Inc., the principal and interest were therefore to be considered as being an amount owed to the Appellant;
+e) The financial statements of the company Les Habitations Durab Inc. for the fiscal periods ending on December 31, 1999 and December 31, 2000 clearly show as liabilities loans in the amount of one hundred and twenty thousand dollars ($120,000) which were in fact taken out personally by the Appellant;
+f) It is in error that the loans totalling one hundred and twenty thousand dollars ($120,000) appear in the financial statements of the company Les Habitations Durab Inc., since these should have been shown as an amount owed to a director, bearing interest at the rate agreed to with the Caisse populaire Desjardins du Vieux-Québec;
+g) As can be seen in the calculation document Exhibit A-6, Louise Laroche, the Respondent’s employee, acknowledged that the sum of one hundred and twenty thousand dollars ($120,000) owed on the houses in stock should have been applied against the advances owed by the Appellant to Les Habitations Durab Inc.;
+h) The Respondent’s employee erred however, since she should have applied in favour of the Appellant personally, a credit of one hundred and twenty thousand dollars ($120,000), and that from the date when the latter took out these loans, namely from July 11, 1997, as well as all the interest that the latter paid on the said loans, since this amount was as a matter of fact borrowed on that date and was owed to the Appellant from that date;
+i) If the Respondent had correctly credited to the Appellant the amounts that were owed to him as principal and interest from July 11, 1997, the assessments with regard to the interest demanded from the Appellant would have been null.
+[5] As can be read in the Notice of Appeal, the Appellant claims that he himself took on the obligations related to the mortgage loan and that in advancing funds to him, the Company was simply compensating him for the debt it owed him. We shall see that that is not what was revealed by the evidence. The evidence revealed that the entire principal as well as the remaining interest were reimbursed by the Company after the sale of the houses that the Company had built on the lots. During the term of the loan, did the Appellant pay certain amounts of interest related to the mortgage debt? The evidence is not clear. However, the evidence clearly revealed that if the Appellant did pay some, he was reimbursed for all of it by the Company.
+[6] The Appellant was one of the shareholders of the Company which operated in the area of residential construction.
+[7] On July 11, 1997, the Appellant personally obtained from the Caisse populaire Desjardins two loans in the amount of $60,000 each, guaranteed by a mortgage on the lots and the houses under construction on them having civic numbers 9725 and 9735 des Chamerolles, Quebec. The total loan was for $120,000.
+[8] A representative of the Caisse came to explain to the court that the Caisse would not have made a loan to the Appellant if it had known that it was not the latter that had become the owner of the lots against which the mortgage was made.
+[9] In any case, the lots and the houses are the property of the company as of August 19, 1997. It is also at that time that the monies were paid out by the Caisse through a notary. The notary paid the purchase price of the lots and turned over an amount of $48,059.27 to the Company. Subsequently, the balance of the loan was also turned over to the Company.
+[10] The Respondent accepts that a certain amount of interest on the loan may have been paid by the Appellant. In fact, at the time of the sale of the houses, a payment of $24,000 was made to the Appellant by the Company as a reimbursement for interest. This amount was accepted by the Minister as a reimbursement of a debt owed to the Appellant by the Company. There is an entry in the books indicating a payment in the amount of $24,000. There is no document which explains its exact significance.
+[11] According to the financial statements, it is the Company that took on the responsibility for repayment of the principal and interest on these loans. It always considered the mortgage as its own debt.
+[12] The financial statements (Exhibit A-14) show that the amounts [TRANSLATION] “Advances without interest to a director” at the end of 1999 and 2000 are $134,395 and $108,416. These amounts are identical to those mentioned by the auditor on her worksheets (Tab 1 of Exhibit I-1). She made a detailed calculation of the amounts of interest imposed pursuant to Section 80.4 of the Act on the basis of the entries in the Company’s books relative to advances made to a director.
+Arguments
+[13] The calculation of interest is not contested by the Appellant. The Appellant’s claim is that he advanced to the Company an amount of $120,000 which compensates for the amounts that were advanced to him. Counsel for the Appellant contends that in calculating the benefit, the Respondent should have taken into account as of the end of December 1997 a credit in favour of the Appellant in the amount of $120,000.
+[14] According to the document showing the calculation of the interest (Exhibit A-6), the amount of the advances made to the Appellant by the Company as of January 1, 1999 was $24,500.86. Counsel suggests that the true situation was different, since in his view, at that date, it was rather the Company that owed the Appellant the sum of $107,865.10.
+[15] Counsel for the Appellant refers to the concept of compensation in Section 1672 of the Civil Code of Quebec (the “Code”) which provides that: “Where two persons are reciprocally debtor and creditor of each other, the debts for which they are liable are extinguished by compensation, up to the amount of the lesser debt.”
+[16] Section 1673 of the Code stipulates that: “Compensation is effected by operation of law upon the coexistence of debts that are certain, liquid and exigible and the object of both of which is a sum of money … A person may apply for judicial liquidation of a debt in order to set it up for compensation.”
+[17] The Company owed the Appellant, as of the end of 1997, amounts totalling $120,000 plus interest, amounts which were used by the Company to purchase the lots and to build the residences. The Company advanced money to the Appellant. The debts for which the two parties were liable were extinguished by compensation.
+[18] Finally, according to the provisions of Section 80.5 of the Act, the benefit deemed to have been received by the taxpayer during a taxation year is deemed, for the application of the provisions of subparagraph 8(1)(j)(i) and of paragraph 20(1)(c), to represent interest paid during a year in compliance with a legal obligation to pay interest on borrowed money. Thus, the Respondent errs in taxing the taxpayer on such interest as a deemed benefit, since this interest, according to Section 80.5 of the Act could be deducted by the taxpayer as interest charges, since this interest was incurred in order to earn income from property.
+[19] For her part, Counsel for the Respondent recalls certain facts. During the taxation years in question, the Appellant was a shareholder and director of the Company. The advances granted to the Appellant did not bear interest. Interest totalling $2,854.48 and $7,942.37 were assessed to the Appellant for the taxation years 1999 and 2000 respectively.
+[20] According to Note 5 of the Company’s financial statements, the item [TRANSLATION] “Owed on buildings for resale” includes two loans totalling $120,000 guaranteed by first mortgages on the buildings located at 9725 and 9735, des Chamerolles Street in Québec. The Company’s financial statements for the years 1998 and 1999 do not show any modification. The Company sold the residences on June 15 and 28, 2000 (Exhibit A‑11). On November 15, 2000, the Company paid the balances of the loans taken out by the Appellant with the Caisse populaire. The balance on loan #1 was $57,800.66 and the balance on loan #2 was $57,971.46, for a total of $115,772.12 (Exhibit A‑10, last page).
+[21] There was no agreement between the Company and the Appellant as to the terms of repayment of the two loans totalling $120,000.
+[22] On December 31, 2000, the Company’s financial statements indicate an item [TRANSLATION] “Advances without interest to directors” in the amount of $108,416. In her analysis of the amounts advanced by the Company to the Appellant, the auditor took into account the reimbursement made by the Company for the interest paid by the Appellant. As of December 31, 2000, she indicated a credit of $24,216 for [TRANSLATION] “Int. Taken on by Claude houses sold” (Exhibit I‑1, Tab 1, page 5).
+[23] Counsel for the Respondent emphasizes that in this case, no agreement between the Company and the Appellant was submitted as evidence to indicate the terms of repayment of the debts. The terms and conditions of repayment are not known. Consequently, since the two debts were not exigible, compensation between them could not be effected between July 1997 and November 2000. Moreover, after the sale of the houses in June 2000, the financial statements as of December 31, 2000 contain an item [TRANSLATION] “Advances without interest to directors” in the amount of $108,416. However the item [TRANSLATION] “Owed on buildings” does not appear in the Company’s financial statements of December 31, 2000. This indicates that there was no compensation of the two debts.
+[24] In reply to the Appellant’s argument regarding application of Section 80.5, the Respondent contends that this provision does not apply automatically. The Appellant must prove that the sums advanced fulfill the conditions for application of subparagraph 8(1)(j)(i) or of paragraph 20(1)(c). Such is not the case here. As regards subparagraph 8(1)(j)(i), the Appellant did not show that the advances granted by the Company were used to purchase a motor vehicle used in the performance of his office, his duties or his employment. As regards paragraph 20(1)(c), the Appellant did not show that the advances were granted for the purpose of earning income from a business or from property. In fact, the Appellant did not submit any evidence as to the purpose or purposes for which the Company advanced monies to him during the taxation years in question.
+Conclusion
+[25] The concept of compensation signifies the extinction of two reciprocal debts between the same persons up to the amount of the lesser debt.
+[26] According to this concept, as the Company made advances to the Appellant, the Company’s debt should have been progressively extinguished. That is evidently not the case. In advancing monies to the director, the Company did not diminish its debt of $120,000. It paid it in its entirety to the Caisse after the sale of the two houses. There was no extinction of the Company’s debt. It was paid back to the bank by the Company according to the terms of the loan contract.
+[27] The Company did not act as if it was a debtor to the Appellant. It acted as having taken on the Appellant’s mortgage. The Appellant did not act as if he was the creditor of a debt owed to him by the Company. There was no loan agreement by one or the other.
+[28] Consequently, compensation cannot be claimed. It is clearly a matter of two separate accounts.
+[29] The Appellant’s theory is that he had loaned money to the Company which had loaned him some in return. Did the Company benefit from money which in fact was the Appellant’s? There would have had to be an agreement between the Appellant and the Company specifying the terms of repayment. Contrary to this claim, what in fact took place is that the Company took on the Appellant’s debt.
+[30] It was always a matter of two accounts shown separately in the Company’s financial statements. One was a debt owed by the Company to the Caisse, the other an account receivable based on the advances without interest granted to a director. The payments were made according to this presentation of accounts. There were in fact two separate accounts.
+[31] Consequently, the Appellant cannot rely on the effect of compensation with respect to the advances that the Company granted to him during the years in question.
+[32] As to the application of Section 80.5 of the Act, it is my view that it cannot apply for the reasons given by Counsel for the Respondent as stated above.
+[33] As a result, the appeals are dismissed.
+Signed at Ottawa, Canada, this 26th day of October 2005.
+« Louise Lamarre Proulx »
+Lamarre Proulx, J.
+Translation certified true
+on this 22th day of February 2004.
+Jean Mongenais, Translator
+CITATION: 2005TCC675
+COURT FILE NO.: 2004-915(IT)I
+STYLE OF CAUSE: Claude Bolduc v. Her Majesty the Queen
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: May 20, 2005
+REASONS FOR JUDGMENT BY : The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT : October 26, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Pierre Hémond
+Counsel for the Respondent:
+Nathalie Labbé
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Pierre Hémond
+Firm:
+Brochet Dussault Lemieux Larochelle
+Sainte-Foy, (Quebec)
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

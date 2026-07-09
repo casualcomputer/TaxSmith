@@ -1,0 +1,238 @@
+---
+title: "O'Neill v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28896/index.do"
+last_modified: "2008-09-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 548"
+citation2: ""
+neutral_citation: "2008 TCC 548"
+decision_date: "2008-09-29"
+language: "en"
+item_id: "28896"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1404
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:47:35.245000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "90402711b82875bfd4fe71571bccb64233079957eb778b7393ce0572ff4e60ff"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# O'Neill v. The Queen
+
+- Citation: 2008 TCC 548
+- Decision date: 2008-09-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1404, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+O'Neill v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-09-29
+Neutral citation
+2008 TCC 548
+File numbers
+2008-1290(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1290(IT)I
+BETWEEN:
+PATRICK O’NEILL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on September 23, 2008,
+at St. John’s, Newfoundland and Labrador.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Toks C. Omisade
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeals in relation to the assessment of his tax liability for 1997, 1998, 1999, 2000, 2001, 2002, 2003 and 2004 are quashed, without costs.
+The Appellant’s appeals in relation to the assessment of his tax liability for 2005 and 2006 are dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 29th day of September 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC548
+Date: 20080929
+Docket: 2008-1290(IT)I
+BETWEEN:
+PATRICK O’NEILL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] These appeals arise as a result of a request by the Appellant for a disability tax credit in relation to the Appellant’s cousin, Katherine Walsh. The Appellant has requested this credit in relation to his 1997 to 2006 taxation years.
+[2] The Notices of Assessment for the Appellant’s 1997 to 2004 taxation years were introduced as Exhibits and the Notice of Reassessment for the Appellant’s 2002 taxation year was introduced. The dates of these Notices of Assessment (and the Notice of Reassessment for 2002) are as follows:
+Taxation Year
+Date of the Notice of Assessment (and the Date of the Notice of Reassessment for 2002)
+1997
+May 14, 1998
+1998
+June 10, 1999
+1999
+May 23, 2000
+2000
+June 7, 2001
+2001
+May 9, 2002
+2002
+September 5, 2003 (and December 8, 2003)
+2003
+July 8, 2004
+2004
+April 25, 2005
+[3] The Appellant did not file any Notice of Objection to the assessment or reassessment of his tax liability for any of the taxation years from 1997 to 2004 until after April 25, 2007. This would be after the expiration of the time period within which the Appellant had the right to file a Notice of Objection and after the expiration of the time period within which the Appellant could have requested an extension of time within which to file a Notice of Objection. The applicable sections of the Income Tax Act (the “Act”) are sections 165, 166.1, and 169 and these sections provide as follows:
+165. (1) A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) where the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a testamentary trust, on or before the later of
+(i) the day that is one year after the taxpayer's filing-due date for the year, and
+(ii) the day that is 90 days after the day of mailing of the notice of assessment; and
+(b) in any other case, on or before the day that is 90 days after the day of mailing of the notice of assessment.
+166.1 (1) Where no notice of objection to an assessment has been served under section 165, nor any request under subsection 245(6) made, within the time limited by those provisions for doing so, the taxpayer may apply to the Minister to extend the time for serving the notice of objection or making the request.
+(2) An application made under subsection (1) shall set out the reasons why the notice of objection or the request was not served or made, as the case may be, within the time otherwise limited by this Act for doing so.
+(3) An application under subsection (1) shall be made by being addressed to the Chief of Appeals in a District Office or a Taxation Centre of the Canada Revenue Agency and delivered or mailed to that Office or Centre, accompanied by a copy of the notice of objection or a copy of the request, as the case may be.
+(4) The Minister may accept an application under this section that was not made in the manner required by subsection (3).
+(5) On receipt of an application made under subsection (1), the Minister shall, with all due dispatch, consider the application and grant or refuse it, and shall thereupon notify the taxpayer in writing of the Minister's decision.
+(6) Where an application made under subsection (1) is granted, the notice of objection or the request, as the case may be, shall be deemed to have been served or made on the day the decision of the Minister is mailed to the taxpayer.
+(7) No application shall be granted under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by this Act for serving such a notice or making such a request, as the case may be, the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer's name, or
+(B) had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made as soon as circumstances permitted.
+169. (1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+(emphasis added)
+[4] In Bormann v. The Queen, 2006 DTC 6147, the Federal Court of Appeal stated as follows:
+3 Section 169(1) of the Income Tax Act obliges a taxpayer to serve Notice of Objection in order to appeal an assessment. In other words, service of a Notice is a condition precedent to the institution of an appeal.
+4 As mentioned, the appellant did not serve a Notice of Objection nor is there evidence that the appellant made an application to the Ministry to extend the time to file a Notice of Objection.
+5 Once it is clear that no application for an extension of time was made, the law is clear that there is no jurisdiction in the Tax Court to further extend the time for equitable reasons.
+Minuteman Press of Canada Company Limited v. M.N.R., 88 DTC 6278, (F.C.A.).
+6 As a result, there is no basis upon which it can be said that the Tax Court Judge erred in quashing the appellant's appeals for the 1992 to 1998 taxation years.
+[5] In this case the Appellant had not filed any Notice of Objection to the assessment of his tax liability for the taxation years 1997 to 2004 until after the expiration of the time period within which a Notice of Objection could have been filed nor did the Appellant request an extension of time within which to file a Notice of Objection for any of these years until after the expiration of the time period within which such a request could have been made. Since there is no valid Notice of Objection in relation to the assessment of the Appellant’s tax liability for any of the 1997 to 2004 taxation years, the Appellant’s appeals in relation to these years are quashed.
+[6] The issue in relation to the appeals related to the 2005 and 2006 taxation years is whether the Appellant is entitled to a disability tax credit in relation to his cousin, Katherine Walsh. When Katherine Walsh was 12 years old (which would have been in the 1940’s), her nightdress caught on fire and she suffered burns to 80% of her body. She has required care since this tragic incident and has been in a nursing home since 1983. There is no dispute in this case that Katherine Walsh has a severe and prolonged mental or physical disability.
+[7] The Appellant has submitted that he and Katherine Walsh lived together when they were growing up in the same household and grew up as brother and sister. Katherine Walsh’s mother lived with the Appellant’s mother. The Appellant’s father was in the merchant navy and would be away a lot and since Katherine Walsh required extra care, the Appellant’s mother moved into the same household as Katherine Walsh’s mother. The Appellant’s mother and Katherine Walsh’s mother were sisters.
+[8] Katherine Walsh’s mother passed away several years ago and now the Appellant is the only living close relative of Katherine Walsh. The Appellant looks after Katherine Walsh’s affairs. Katherine Walsh receives an amount each month as a U.S. Social Security payment and also receives a monthly amount from Health and Community Services. These amounts are used to pay the costs of the nursing home.
+[9] The Appellant stated that he was requesting a transfer of Katherine Walsh’s disability tax credit. The right to transfer a disability tax credit is in subsection 118.3(2) of the Act. This subsection provides as follows:
+(2) Where
+(a) an individual has, in respect of a person (other than a person in respect of whom the person's spouse or common-law partner deducts for a taxation year an amount under section 118 or 118.8) who is resident in Canada at any time in the year and who is entitled to deduct an amount under subsection (1) for the year,
+(i) claimed for the year a deduction under subsection 118(1) because of
+(A) paragraph (b) of the description of B in that subsection, or
+(B) paragraph (c.1) or (d) of that description where the person is a parent, grandparent, child, grandchild, brother, sister, aunt, uncle, nephew or niece of the individual, or of the individual's spouse or common-law partner, or
+(ii) could have claimed for the year a deduction referred to in subparagraph (i) in respect of the person if
+(A) the person had no income for the year and had attained the age of 18 years before the end of the year, and
+(B) in the case of a deduction referred to in clause (i)(A), the individual were not married or not in a common-law partnership, and
+(b) no amount in respect of remuneration for an attendant, or care in a nursing home, because of that person's mental or physical impairment, is included in calculating a deduction under section 118.2 (otherwise than under paragraph 118.2(2)(b.1)) for the year by the individual or by any other person,
+there may be deducted, for the purpose of computing the tax payable under this Part by the individual for the year, the amount, if any, by which
+(c) the amount deductible under subsection (1) in computing that person's tax payable under this Part for the year
+exceeds
+(d) the amount of that person's tax payable under this Part for the year computed before any deductions under this Division (other than sections 118 and 118.7).
+(emphasis added)
+[10] The Appellant will only be entitled to claim a transfer of Katherine Walsh’s unused disability tax credit if he was entitled to claim a deduction under subsection 118(1) of the Act for the reasons listed in clauses 118.3(2)(a)(i)(A) and (B) of the Act (or could have made such claim if Katherine Walsh had no income, since she had attained the age of 18 years before the end of 2005).
+[11] Paragraph (b) of the description of B in subsection 118(1) of the Act provides as follows:
+(b) in the case of an individual who does not claim a deduction for the year because of paragraph (a) and who, at any time in the year,
+(i) is
+(A) a person who is unmarried and who does not live in a common-law partnership, or
+(B) a person who is married or in a common-law partnership, who neither supported nor lived with their spouse or common-law partner and who is not supported by that spouse or common-law partner, and
+(ii) whether alone or jointly with one or more other persons, maintains a self-contained domestic establishment (in which the individual lives) and actually supports in that establishment a person who, at that time, is
+(A) except in the case of a child of the individual, resident in Canada,
+(B) wholly dependent for support on the individual, or the individual and the other person or persons, as the case may be,
+(C) related to the individual, and
+(D) except in the case of a parent or grandparent of the individual, either under 18 years of age or so dependent by reason of mental or physical infirmity,
+an amount equal to the total of
+(iii) $7,131*, and
+(iv) the amount determined by the formula
+$6,055* – D
+where
+D is the dependent person's income for the year,
+[12] Since Katherine Walsh was living in a nursing home in 2005 and 2006 (and has been since 1983) and therefore was not living in the self-contained domestic establishment maintained by the Appellant, the Appellant would not have been entitled to claim a deduction in computing his tax payable pursuant to paragraph (b) of the description of B in subsection 118(1) of the Act even if Katherine Walsh would not have had any income in 2005 or 2006. As well since related persons for the purposes of the Act, as defined in section 251 of the Act, do not include cousins, Katherine Walsh is not related to the Appellant for the purposes of the Act.
+[13] Paragraph (c.1) of the description of B in subsection 118(1) of the Act provides as follows:
+(c.1) in the case of an individual who, at any time in the year alone or jointly with one or more persons, maintains a self-contained domestic establishment which is the ordinary place of residence of the individual and of a particular person
+(i) who has attained the age of 18 years before that time,
+(ii) who is
+(A) the individual's child or grandchild, or
+(B) resident in Canada and is the parent, grandparent, brother, sister, aunt, uncle, nephew or niece of the individual or of the individual's spouse or common-law partner, and
+(iii) who is
+(A) the individual's parent or grandparent and has attained the age of 65 years before that time, or
+(B) dependent on the individual because of the particular person's mental or physical infirmity,
+the amount determined by the formula
+$15,453* – D.1
+where
+D.1 is the greater of $11,953* and the particular person's income for the year,
+[14] Since Katherine Walsh was living in a nursing home in 2005 and 2006 (and has been since 1983) and therefore the self-contained domestic establishment maintained by the Appellant was not the ordinary place of residence of Katherine Walsh in 2005 or 2006, the Appellant would not have been entitled to claim a deduction in computing his tax payable pursuant to paragraph (c.1) of the description of B in subsection 118(1) even if Katherine Walsh would not have had any income in 2005 or 2006. As well since Katherine Walsh is a cousin of the Appellant and not one of the relatives included in the list of eligible relatives in subparagraph (c.1)(ii) of the description of B in subsection 118(1) of the Act, this condition is also not satisfied. All of the conditions as set out in subparagraphs (c.1)(i), (ii) and (iii) of the description of B in subsection 118(1) of the Act must be satisfied in order for the Appellant to be able to make a claim under this paragraph (c.1) of the description of B in subsection 118(1) of the Act.
+[15] Paragraph (d) of the description of B in subsection 118(1) of the Act provides as follows:
+(d) for each dependant of the individual for the year who
+(i) attained the age of 18 years before the end of the year, and
+(ii) was dependent on the individual because of mental or physical infirmity,
+the amount determined by the formula
+$8,466* – E
+where
+E is the greater of $4,966* and the dependant's income for the year, and
+[16] Subsection 118(6) of the Act provides as follows:
+(6) For the purposes of paragraphs (d) and (e) of the description of B in subsection (1) and paragraph (4)(e), “dependant” of an individual for a taxation year means a person who at any time in the year is dependent on the individual for support and is
+(a) the child or grandchild of the individual or of the individual's spouse or common-law partner; or
+(b) the parent, grandparent, brother, sister, uncle, aunt, niece or nephew, if resident in Canada at any time in the year, of the individual or of the individual's spouse or common-law partner.
+[17] Since Katherine Walsh is not one of the eligible relatives listed in subsection 118(6) of the Act, she is not a dependent of the Appellant as defined in subsection 118(6) of the Act (and was not a dependent in 2005 or 2006) and therefore the Appellant is not entitled to claim any amount pursuant to paragraph (d) of the description of B in subsection 118(1) of the Act.
+[18] Since the Appellant was not entitled to claim a deduction under subsection 118(1) of the Act for the reasons listed in clauses 118.3(2)(a)(i)(A) and (B) of the Act (nor could he have made such claim if Katherine Walsh had no income) the Appellant is not entitled to claim a transfer of Katherine Walsh’s unused disability tax credit.
+[19] In Leidal v. The Queen, 2003 TCC 671, [2004] 1 C.T.C. 2297, Associate Chief Justice Bowman (as he then was) dealt with a situation where a taxpayer was claiming a disability tax credit in relation to an unrelated individual that the taxpayer, in that case, had described as an “adopted brother by-fact”. Associate Chief Justice Bowman (as he then was) stated that:
+8 In law there is no such thing as adopting a brother. One can adopt a child in fact but one cannot adopt an adult as a brother or sister.
+[20] Since the Appellant could not have adopted Katherine Walsh as his sister, Katherine Walsh cannot be treated as a sister of the Appellant for the purposes of the Act unless she had been adopted by the Appellant’s mother. There was nothing in this case to suggest that the Appellant’s mother had adopted Katherine Walsh as Katherine Walsh’s mother lived with the Appellant’s mother while the Appellant and Katherine Walsh were growing up and, as noted in the letter from the owner of Walsh’s Personal Care Home, Katherine Walsh’s mother, before she died, placed Katherine Walsh in the nursing home in 1983.
+[21] Since Katherine Walsh is not one of the eligible relatives as listed in the provisions referred to above, the Appellant cannot succeed in relation to his claim for a transfer of Katherine Walsh’s unused disability tax credit. The Appellant is also not entitled to claim any deduction pursuant to subsection 118(1) of the Act in computing his tax payable in relation to Katherine Walsh. This Court cannot expand the list of eligible persons to whom an unused disability tax credit may be transferred nor the list of eligible persons in respect of whom an amount may be claimed pursuant to subsection 118(1) of the Act. It is only Parliament that can expand the list of such eligible persons.
+[22] The Appellant’s appeals in relation to the assessment of his tax liability for 2005 and 2006 are dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 29th day of September 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC548
+COURT FILE NO.: 2008-1290(IT)I
+STYLE OF CAUSE: PATRICK O’NEILL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: St. John’s, Newfoundland and Labrador
+DATE OF HEARING: September 23, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: September 29, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Toks C. Omisade
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

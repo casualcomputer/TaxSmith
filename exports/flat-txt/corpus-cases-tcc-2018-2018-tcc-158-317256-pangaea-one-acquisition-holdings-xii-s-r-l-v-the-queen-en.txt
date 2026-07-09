@@ -1,0 +1,392 @@
+Title: Pangaea One Acquisition Holdings XII S.À.R.L. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/317256/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-158-317256-pangaea-one-acquisition-holdings-xii-s-r-l-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-07-31
+
+# Pangaea One Acquisition Holdings XII S.À.R.L. v. The Queen
+
+- Citation: 2018 TCC 158
+- Decision date: 2018-07-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4941, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pangaea One Acquisition Holdings XII S.À.R.L. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-07-31
+Neutral citation
+2018 TCC 158
+File numbers
+2016-1480(IT)G
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-1480(IT)G
+BETWEEN:
+PANGAEA ONE ACQUISITION
+HOLDINGS XII S.À.R.L.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 16, 2018, at Montreal, Quebec.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+Pierre Martel
+Nicholas Grenier
+Counsel for the Respondent:
+Yanick Houle
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the assessment pertaining to Part XIII of the Income Tax Act is dismissed, with costs to the Respondent, to be calculated in accordance with Tariff B.
+Signed at Ottawa, Canada, this 31st day of July 2018.
+“Guy Smith”
+Smith J.
+Citation: 2018 TCC 158
+Date: 20180731
+Docket: 2016-1480(IT)G
+BETWEEN:
+PANGAEA ONE ACQUISITION HOLDINGS XII S.À.R.L.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Smith J.
+I. Introduction
+[1] Pangaea One Acquisition Holdings XII S.À.R.L. (“Pangaea” or the “Appellant”) was incorporated under laws of Luxemburg and is a non‑resident of Canada for income tax purposes.
+[2] It appeals from an assessment made pursuant to Part XIII of the Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.) (the “Act”) wherein the Minister of National Revenue (the “Minister”) denied its application for a refund of $750,000 withheld from a payment made by a resident of Canada.
+[3] The issue in this appeal is whether the payment was properly characterized as a “restrictive covenant” pursuant to subsection 56.4(2) of the Act and whether the amount paid to the Receiver General of Canada, as noted above, was properly withheld pursuant to paragraph 212(1)(i) of the Act.
+II. The facts
+[4] The material facts are not in dispute and the parties prepared the Partial Agreed Statement of Facts attached hereto as Schedule “A”.
+[5] Pangaea, Thomvest Seed Capital Inc. (“Thomvest”) and Mr. William T. Dodds (“Dodds”) owned all the issued and outstanding shares of Public Mobile Holdings Inc. (“Public Mobile”) that were sold to Telus Communications Inc. (“Telus”).
+[6] Pangaea, Thomvest and Dodds were signatories to a Unanimous Shareholder Agreement (“USA”) dated June 5, 2013 which governed the ownership of shares held in Public Mobile. It provided, inter alia, that the shares could not be transferred without the prior written consent of the “Special Majority Shareholders”. Pangaea was one of those shareholders.
+[7] In the context of the discussions and negotiations that led to the sale of the shares of Public Mobile to Telus, Pangaea and Thomvest entered into an agreement on September 23, 2013 (the “Letter Agreement”). It provided that Thomvest would pay a certain amount of money (the “Payment Amount”) as consideration for Pangaea’s agreement to execute the share purchase agreement (“SPA”) involving the sale of the subject shares to Telus.
+[8] It was clear on the face of the Letter Agreement that the Payment Amount was to be paid by Thomvest “as consideration for Pangaea’s agreement to execute the SPA”. The amount was established on closing to be $3,000,000.
+[9] On September 30, 2013, the shareholders, including Pangaea, executed the SPA with Telus and the transaction closed on November 29, 2013.
+[10] The Letter Agreement, as described above, included a provision that Thomvest would “withhold from the Payment Amount, the amount required by applicable law to be withheld and remit same to the appropriate governmental authority (…)”. Thomvest did so and on December 16, 2013, remitted the sum of $750,000 (representing 25% of the Payment Amount) to the Receiver General of Canada pursuant to subsection 215(1) of the Act.
+[11] Thereafter, on January 16, 2014, Pangaea filed an application for a refund of the tax withheld under Part XIII of the Act, indicating that the amount had been a “payment under 56.4 of the Income Tax Act” and that the reason for the request for a refund was that it was “entitled to a treaty exemption under Article #7 as a resident of Luxemburg at the time of payment”.
+[12] The Minister eventually issued an assessment pursuant to subsection 227(7) of the Act, denying the refund on the basis “that the payment was a restrictive covenant payment per subsection 56.4(1) of the Act” that did “not benefit from any treaty relief”.
+III. Position of the Parties
+A. Position of the Appellant
+[13] The Appellant acknowledges that subsection 56.4(2) of the Act requires that the grantor of a “restrictive covenant” include the full amount received as income and that where the amount is paid to a non‑resident of Canada, paragraph 212(1)(i) imposes a 25% withholding tax.
+[14] The Appellant argues, however, that this excludes “an agreement or undertaking (…) that disposes of the taxpayer’s property” relying on paragraph 56.4(1)(a). The Appellant argues that the Letter Agreement is an agreement that “affects or is intended to affect (…) the acquisition or provision of its property or services”, being the shares in Public Mobile. As such, it is excluded from the definition of a restrictive covenant”. The rationale for this is that the gain is subject to taxation as a capital gain.
+[15] The Appellant also argues that the definition of “property” in subsection 248(1) includes “a right of any kind whatever, a share or a chose in action”, and also includes the veto rights established by the USA.
+[16] The Appellant relies on RCI Environmental, infra (in particular paras. 69‑71) and argues that since the veto rights were exclusive to the Appellant, they were “property” for the purposes of the Act. The disposition of such rights and the consideration received should be treated as a disposition of property resulting in a capital gain.
+[17] The Appellant argues, finally, that the property disposed of is not a “taxable Canadian property” as defined in subsection 248(1) of the Act and as such the gain is not taxable in Canada pursuant to paragraph 2(3)(c).
+B. Position of the Respondent
+[18] The Respondent argues that by entering into the Letter Agreement, the Appellant waived its right under the USA to block the sale of shares in Public Mobile to Telus. In that sense, the Letter Agreement “affected (…) the provision of property” by the Appellant to Telus. As a result, the Payment Amount received in exchange for the Appellant’s waiver of its veto rights is subject to Part XIII tax pursuant to paragraph 212(1)(a) and subsection 56.4(2).
+[19] The Respondent argues that the enactment of subsection 56.4(2) was intended to address concerns arising out of certain decisions (as noted below) that an amount received in respect of a restrictive covenant was neither income nor property for income tax purposes.
+[20] The Respondent argues that the definition of a restrictive covenant was intended to be broadly construed to include not just negative covenants but also a positive promise to do a particular act. In the end, the Respondent argues that the enactment of subsection 56.4(2) was intended to capture payments received by a taxpayer that are not otherwise included in income.
+[21] The Respondent argues that the Letter Agreement is not an “agreement or undertaking (…) that disposes of property” and therefore is not excluded from the definition of “restrictive covenant”. Rather, the Appellant’s waiver of its right to block the sale of the shares in Public Mobile was a covenant that affected the acquisition or provision of property, being the shares of Public Mobile.
+[22] The Respondent refers to paragraph 12(1)(x) of the Act which seeks to tax amounts received by a taxpayer “in the course of earning income from a business or property” that are paid as an “inducement”, as further defined therein. By virtue of subparagraph 12(1)(x)(v.1), amounts paid as a restrictive covenant and taxable pursuant to subsection 56.4(2) are excluded. The Respondent argues that the Payment Amount was not received by the Appellant “in the course of earning income from a business or property” such that it is not taxable pursuant to that provision. Subsection 56.4(2) was intended to fill the gap and capture the subject payment which could otherwise be characterized as an “inducement”.
+IV. The Relevant Statutory Provisions
+[23] Part XIII of the Act is titled “Tax on Income from Canada of Non‑resident Persons”. Subsection 212(1) provides as follows:
+212(1) Every non-resident person shall pay an income tax of 25% on every amount that a person resident in Canada pays or credits, or is deemed by Part I to pay or credit, to the non-resident person as, on account or in lieu of payment of, or in satisfaction of, (…)
+[24] This provision imposes a tax of 25% (often reduced by tax treaty) on a wide variety of payments to non‑residents including management fees, interest, rent, royalties, pension benefits, as further defined therein, and includes “restrictive covenants”. Paragraph 212(1)(i) provides as follows:
+212(1)(i) — an amount that would, if the non-resident person had been resident in Canada throughout the taxation year in which the amount was received or receivable, be required by paragraph 56(1)(m) or subsection 56.4(2) to be included in computing the non-resident person’s income for the taxation year;
+[25] Subsection 56.4(2) is located in Part 1 of the Act under Subdivision d titled “Other Sources of Income”. It provides as follows:
+56.4(2) There is to be included in computing a taxpayer’s income for a taxation year the total of all amounts each of which is an amount in respect of a restrictive covenant of the taxpayer that is received or receivable in the taxation year by the taxpayer or by a taxpayer with whom the taxpayer does not deal at arm’s length (other than an amount that has been included in computing the taxpayer’s income because of this subsection for a preceding taxation year or in the taxpayer’s eligible corporation’s income because of this subsection for the taxation year or a preceding taxation year).
+[26] The term “restrictive covenant” is defined in subsection 56.4(1):
+restrictive covenant, of a taxpayer, means an agreement entered into, an undertaking made, or a waiver of an advantage or right by the taxpayer, whether legally enforceable or not, that affects, or is intended to affect, in any way whatever, the acquisition or provision of property or services by the taxpayer or by another taxpayer that does not deal at arm’s length with the taxpayer, other than an agreement or undertaking
+(a) that disposes of the taxpayer’s property; or
+(b) that is in satisfaction of an obligation described in section 49.1 that is not a disposition except where the obligation being satisfied is in respect of a right to property or services that the taxpayer acquired for less than its fair market value. (clause restrictive)
+[27] It is worth noting that the above‑noted provision was first introduced on October 7, 2003 but the final bill only received Royal Assent on June 26, 2013. A full version is attached as Schedule “B”.
+[28] Where an amount is to be paid by “a person resident in Canada” to a “non‑resident person” pursuant to subsection 212(1), subsection 215(1) (also located in Part XIII of the Act) provides that the payee shall “deduct or withhold from it the tax and forthwith remit that amount to the Receiver General on behalf of the non‑resident person (…)” who may then file an application, as Pangaea has done in this instance, requesting a refund of the tax paid on its behalf.
+[29] Where the Minister is not satisfied that “the person was not liable to pay any tax (…)”, she shall assess an amount payable and send a notice of assessment, as was done in this case, resulting in the assessment of December 11, 2014 that is the subject of this appeal.
+V. The Relevant Case Law
+[30] There have been few, if any, reported decisions on subsection 56.4(2) but at least three decisions that pre‑date the provision are relevant to this analysis.
+[31] In Fortino v. R., [1997] 2 C.T.C. 2184 (confirmed by the Federal Court of Appeal: [2000] 1 C.T.C. 349) (“Fortino”), the appellants had sold their shares in a business to an entity controlled by the grocery‑store Loblaws and executed non‑competition agreements (“NCA”) in exchange for which they each received a payment (“NCA payment”). The consideration received for the sale of shares was reported as a capital gain but the NCA payment was not reported.
+[32] The appellants were reassessed and at the hearing of the appeal the Minister argued that the NCA payment should be taxed as income pursuant to section 3 of the Act; alternatively as eligible capital property under subsection 14(1) and in the further alternative as capital gains. The appellants argued that there was no provision in the Act which rendered the payments taxable.
+[33] Justice Lamarre (as she then was) stated that the initial step to determine whether the receipt was taxable as income, was “to establish the nature and character of the receipt” (para. 37), noting that section 3 of the Act identifies “five primary sources from which income can be derived: office, employment, business, property or capital gains” (para. 29). She found that by giving the covenant not to compete, the appellants had “surrendered a potential source of profit” (para. 49) and therefore that “the amounts should not be taxable under section 3” (para. 53).
+[34] Justice Lamarre then considered whether the NCA payment should be treated as eligible capital property, indicating that this required a finding that the payments were made “for the purpose of gaining or producing income from a business” as set out in subsection 14(1). Since it was the corporation whose shares had been sold, and not the individual shareholders, who operated the business, she concluded that the payments could not be considered eligible capital property.
+[35] The respondent argued that the NCA payment “constituted disguised proceeds of disposition of the shares” (para. 78) and should taxed as capital gains pursuant to sections 38 and 39 of the Act. Justice Lamarre declined to consider that argument since it had not been properly pleaded and concluded, in dictum, that the payments “were more in the nature of a capital receipt” (para. 54). In the end, she concluded that the NCA payments were non‑taxable receipts.
+[36] In the later decision of Manrell v. R., [2002] 1 C.T.C. 2543, 2002 D.T.C. 1222 (“Manrell”) the appellant and others had sold their shares in an operating business and agreed to execute NCAs for which they received a payment. Relying on Fortino, supra, the appellants argued that the payment given in exchange for their agreement not to compete was non‑taxable.
+[37] McArthur J. of this Court, found that the NCAs were “property” within the meaning of subsection 248(1) of the Act. He found that the appellants had disposed of their right to compete which was “inextricably connected to the payment for the shares” (para. 22), resulting in a taxable capital gain.
+[38] The Federal Court of Appeal did not agree (Manrell v. R., 2003 FCA 128), and found that an agreement not to compete does not constitute property. The court noted that the definition of “property” in subsection 248(1), which includes “a right of any kind whatever, share or a chose in action”, does not extend the common law meaning of property.
+[39] Sharlow J.A. found in particular that while the word “property” had “a very broad meaning” (…) it was “not a word of infinite meaning” and could not “include every conceivable right” (para. 50). Noting that the result was unsatisfactory from a policy point of view, she nonetheless concluded that there was no basis upon which to conclude that “payments received under the non‑competition agreements were proceeds of disposition” (para. 68). As a result the payments were found to be “non‑taxable capital receipts” (para. 69).
+[40] In the decision of RCI Environment Inc. v. R., 2007 TCC 687 (“RCI”), the appellants had acquired business assets and obtained a NCA from the vendors. As a result of a merger with a US based company, the vendors were later found to be in breach of the NCA. Following an out-of-court settlement, it was agreed that the appellants would receive a payment of $12,000,000 to terminate the NCA.
+[41] At issue was the tax treatment of the amount received. The appellants claimed that the amount received was neither business income nor a taxable capital receipt noting that the NCAs “were not property (…) and that there had been no disposition for purposes of the Act” (para. 14).
+[42] Archambault J. observed that “the purpose of the non‑competition agreements was to preserve the goodwill acquired” and that this was “an advantage of an enduring nature” and on that basis should be viewed as “a capital asset” (para. 28). Having rejected the further argument that the NCA payment was a non‑taxable windfall gain, he concluded that it was taxable as an eligible capital property pursuant to subsection 14(1).
+[43] On appeal to the Federal Court of Appeal (2008 FCA 419), the court agreed that the NCA was property since it “clearly resulted in preserving the goodwill acquired (…)” (para. 38). Noël J.A. (as he then was) added that:
+39 As to the notion of "property" under the Act, it has been recognized for a long time that the concept of "property" under the Act is a large one that can extend to contractual rights (Canada v. Golden, [1986] 1 S.C.R. 209, at page 214). A number of decisions rendered since have applied the concept of property to contractual and even personal rights (see, for example, Valley Equipment Ltd. v. The Queen, 2008 FCA 65, paragraph 26; Nadeau v. The Queen, 2003 FCA 400, paragraph 28; Kieboom v. M.R.N., [1992] 3 F.C. 488 (F.C.A.), pages 499 and 500; Sani Sport Inc. c. La Reine, [1990] 2 C.T.C. 15 (C.A.F.), page 23; La Capitale, Cie D'assurance générale v. The Queen, 98 DTC 6215 (F.C.A.), page 6221; Rapistan Canada Ltd. v. M.R.N., [1974] 1 F.C. 739 (F.C.A.), page 742; Pe Ben Industries Co. v. The Queen, 88 DTC 6347 (F.C.T.D.), page 6351, 3rd paragraph before the end).
+40 Moreover, as explained by the TCC judge, this Court's decision in Manrell v. The Queen, 2003 FCA 128, [2003] 3 F.C. 727, does not help counsel for RCI (2006) at all (Reasons, paragraphs 61 to 63). The principle arising from that decision is that only a right that makes it possible to make a claim against someone else is "property". The right given to RCI and CTVNS under the non-competition agreements was clearly of that nature.
+41 As to the concept of "disposition", the TCC judge did not err in referring to that word's usual meaning for the application of section 14. That is what the Supreme Court did in Compagnie Immobilière BCN, cited above, where it decided that the word "disposition" in English ("aliéné" in French) was sufficiently broad to include the extinguishment of a right granted by a lease (ibidem, pages 878 to 879).
+42 The TCC judge was correct from the outset to conclude that, for the purposes of the provisions relating to capital gain, there had been a "disposition" according to the definition provided in paragraph 54(a), according to which this word includes "any ... event entitling a taxpayer to proceeds of disposition of property". I would add that, in terms of tax policy and principles, there is no reason to treat the concept of "disposition" differently depending on whether the property in question falls under section 38 or section 14.
+(My Emphasis.)
+VI. Analysis
+i) Statutory Interpretation
+[44] Since subsection 56.4(2) has not been judicially considered to date, it is worth noting at the outset, the oft‑repeated rule of statutory interpretation that “the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament (Elmer A. Dreidger, Construction of Statutes, 2nd ed., Toronto, Butterworths, 1983, at p. 87).
+[45] It is now well‑established that a textual, contextual and purposive analysis also applies to tax statues, “[h]owever, because of the degree of precision and detail characteristic of many tax provisions, a greater emphasis has often been placed on textual interpretation where taxation statutes are concerned”: Placer Dome Canada Ltd. v. Ontario (Minister of Finance), [2006] 1 S.C.R. 715, (para. 21).
+[46] The above is consistent with section 12 of the Interpretation Act, R.S.C. 1985, c. I‑21, which provides that “every enactment is deemed remedial, and shall be given such fair, large and liberal construction and interpretation as best ensures the attainment of its objects”.
+ii) Was there an agreement?
+[47] A “restrictive covenant”, as defined by subsection 56.4(1), can be characterized as follows:
+i) an agreement entered into, an undertaking made, or a waiver of an advantage or right by the taxpayer, whether legally enforceable or not;
+ii) that affects, or is intended to affect, in any way whatever, the acquisition or provision of property or services by the taxpayer or by another taxpayer that does not deal at arm’s length with the taxpayer;
+iii) excluding an agreement or undertaking that disposes of the taxpayer’s property;
+iv) and excluding an agreement of undertaking that is in satisfaction of an obligation described in section 49.1 (none of which has been raised in this instance).
+[48] A plain reading of this provision suggests firstly, that there must be either “an agreement”, “an undertaking” or “a waiver of an advantage or right”. The listing is disjunctive such that it can be one or the other.
+[49] It is not disputed that the Letter Agreement was “an agreement” between the Appellant and Thomvest, pursuant to which the Appellant agreed “to execute the SPA” involving the sale of shares in Public Mobile to Telus. The agreement to execute the SPA was given “in consideration of the respective promises, covenants and agreements” therein contained and included “other good and valuable consideration” including Thomvest’s agreement to deliver the Payment Amount on closing representing “an amount payable for Pangaea agreeing to execute the SPA”.
+[50] While it could also be said that the Appellant “undertook” to execute the SPA, it is sufficient for the purposes hereof, to conclude that the Letter Agreement constitutes “an agreement”, without further analysis to determine whether it also qualifies as “an undertaking”. That issue can be left for another day.
+[51] The Letter Agreement itself does not expressly refer to the Appellant’s right to block the sale of shares as a “Special Majority Shareholder”, but it was clear from the documentary and testimonial evidence that the Appellant was initially opposed to the proposed sale of shares of Public Mobile to Telus. It communicated its objection and suggested that it might avail itself of what has come to be described as its “veto right” before finally agreeing to execute the Letter Agreement waiving that right.
+[52] On the basis of the above, I conclude that the Letter Agreement can be viewed as either “an agreement” or “a waiver of an advantage or right”.
+[53] It should also be mentioned that the latter part of the first requirement includes the words “whether legally enforceable or not”. This suggests that “an agreement” or “an undertaking” or “a waiver of an advantage or right” that is not legally enforceable, would still be captured by this provision. In any event, for the purposes hereof, I will assume that the Letter Agreement was legally enforceable.
+iii) Does it affect the acquisition or provision of property?
+[54] The second requirement is that the agreement must affect or be intended to affect, in any way whatever, the acquisition or provision of property or services by the taxpayer. This suggests that there must be an obvious link or nexus between the agreement and the acquisition or provision of property or services in question.
+[55] In this instance, the Appellant argues that the veto right falls within the definition of property in subsection 248(1) of the Act and that the Appellant was in fact disposing of that right giving rise to a capital gain. It relies on RCI, supra, to support the notion that the concept of property extends to contractual rights and that, by virtue of the Letter Agreement, the Appellant disposed of its veto right giving rise to proceeds of disposition and hence to a capital gain. As a result, the Letter Agreement is not captured by the definition of a “restrictive covenant”.
+[56] I find that this is an attempt to re‑characterize the nature of the transaction. In particular, I find that there is no evidence to support the proposition that the veto right had been disposed of. There was no evidence of an actual transfer or conveyance or even of an assignment of that right to a third party.
+[57] The commercial reality of the transaction and the evidence indicates that Thomvest did not acquire the veto right. It agreed to deliver the Payment Amount in consideration of which the Appellant agreed to waive that right and execute the SPA with Telus. The Letter Agreement did not have the effect of disposing of the veto right nor did it result in its extinguishment. The veto right was waived by the Appellant and it was only once the transaction involving the sale of shares to Telus was consummated, that the veto right was extinguished. Telus acquired 100% of the issued and outstanding shares in Public Mobile and having done so, there was no need for it to acquire the Appellant’s veto right. In any event, that right arose from an agreement between the shareholders of which it was never a party.
+[58] On the basis of the evidence before me, I find that there was an obvious nexus between the Letter Agreement and the disposition of the shares to Telus. In fact the preamble of the Letter Agreement provides that the Appellant “proposes to, concurrently with the entering into of this letter agreement (…) enter into a share purchase agreement (…)”. I find that this is sufficient to establish that the Letter Agreement affected or was intended to affect the “provision of property”, being the sale of the shares of Public Mobile to Telus.
+iv) Does the agreement or undertaking dispose of the taxpayer’s property?
+[59] The remaining issue is whether the “agreement” or “undertaking” or “waiver of an advantage or right” in fact “disposes of a taxpayer’s property”. If so, then it will not be captured by the definition of a “restrictive covenant” and the proceeds of disposition will not have to be included as income pursuant to subsection 56.4(2) of the Act.
+[60] I would interpret this exception to mean that where a taxpayer enters into a agreement that is intended to dispose of his property, be it all the assets required to operate a business or all the shares of an operating company, and all the monetary consideration is allocated to that property, then the “restrictive covenant” provision will not be triggered. This would be the case where, for example, in a transaction involving a sale of all the shares of an operating company, the principal enters into a NCA, but all the monetary consideration is allocated to the shares. In that instance, the “restrictive covenant” provision would not be triggered as the proceeds of disposition would generally be taxed as a capital gain. There would certainly be other variations of such a transaction but in most instances there would need to be evidence in the form of a deed or indenture to substantiate the conveyance and the consideration paid.
+[61] The Appellant argues that the Letter Agreement is not a “restrictive covenant” since there was a conveyance or disposition of its veto right. This argument is separate from the argument made above, but the analysis remains the same.
+[62] I find that there is no evidence of a conveyance or disposition of the Appellant’s veto right — even if it can properly be characterized as “property”. As noted above, there was no evidence of a deed or indenture or of an assignment of the veto right to a third party, which would allow the Appellant to avail itself of the exception relating to a disposition “of the taxpayer’s property”. The Letter Agreement was a distinct agreement pursuant to which the Appellant waived its veto right but there was no evidence of an actual disposition.
+[63] The Appellant relies on the conclusion reached in RCI, supra, where the count determined that a contractual right was “property”. But the facts in that case were quite different. The appellant had received a large sum of money to extinguish an existing NCA. The trial judge found that this “contractual right” was “property” and that its disposition was taxable as eligible capital property pursuant to subsection 14(1). The Federal Court of Appeal agreed with this analysis. Although it is not necessary for me to do so in the context of this appeal, I am inclined to believe that the result in RCI would likely be the same today, despite the introduction of subsection 56.4(2), since the court concluded that there was evidence of an actual disposition of the appellants’ property.
+VII. Conclusion
+[64] In this instance, the essential nature, character and substance of the transaction was a sale of shares from the Appellant and the other shareholders of Public Mobile to Telus. The Letter Agreement by which the Appellant agreed to waive its veto right, was not a necessary precondition to that transaction though it was required to settle a disagreement between Thomvest and the Appellant. In that sense it “affected” or was “intended to affect” the proposed disposition of shares. On that basis, I find that it was a “restrictive covenant” as defined in subsection 56.4(1).
+[65] For all the foregoing reasons, the appeal is dismissed with costs to the Respondent, to be calculated in accordance with Tariff B.
+Signed at Ottawa, Canada, this 31st day of July 2018.
+“Guy Smith”
+Smith J.
+SCHEDULE “A”
+SCHEDULE “B”
+SUBDIVISION D
+Other Sources of Income
+SOUS-SECTION D
+Autres sources de revenu
+. . .
+. . .
+Restrictive Covenants
+Clauses restrictives
+Definitions
+Définitions
+56.4 (1) The following definitions apply in this section.
+56.4 (1) Les définitions qui suivent s’appliquent au présent article.
+eligible corporation, of a taxpayer, means a taxable Canadian corporation of which the taxpayer holds, directly or indirectly, shares of the capital stock. (société admissible)
+eligible individual, in respect of a vendor, at any time means an individual (other than a trust) who is related to the vendor and who has attained the age of 18 years at or before that time. (particulier admissible)
+eligible interest, of a taxpayer, means capital property of the taxpayer that is
+(a) a partnership interest in a partnership that carries on a business;
+(b) a share of the capital stock of a corporation that carries on a business; or
+(c) a share of the capital stock of a corporation 90% or more of the fair market value of which is attributable to eligible interests in one other corporation. (participation admissible)
+goodwill amount, of a taxpayer, is an amount the taxpayer has or may become entitled to receive that would, if this Act were read without reference to this section, be required to be included in the proceeds of disposition of a property included in Class 14.1 of Schedule II to the Income Tax Regulations, or is an amount to which subsection 13(38) applies, in respect of a business carried on by the taxpayer through a permanent establishment located in Canada. (montant pour achalandage)
+permanent establishment means a permanent establishment as defined for the purpose of subsection 16.1(1). (établissement stable)
+restrictive covenant, of a taxpayer, means an agreement entered into, an undertaking made, or a waiver of an advantage or right by the taxpayer, whether legally enforceable or not, that affects, or is intended to affect, in any way whatever, the acquisition or provision of property or services by the taxpayer or by another taxpayer that does not deal at arm’s length with the taxpayer, other than an agreement or undertaking
+(a) that disposes of the taxpayer’s property; or
+(b) that is in satisfaction of an obligation described in section 49.1 that is not a disposition except where the obligation being satisfied is in respect of a right to property or services that the taxpayer acquired for less than its fair market value. (clause restrictive)
+taxpayer includes a partnership. (contribuable)
+clause restrictive En ce qui concerne un contribuable, accord, engagement ou renonciation à un avantage ou à un droit, ayant force exécutoire ou non, qui est conclu, pris ou consenti par lui et qui influe, ou vise à influer, de quelque manière que ce soit, sur l’acquisition ou la fourniture de biens ou de services par lui ou par un autre contribuable avec lequel il a un lien de dépendance, à l’exception d’un accord ou d’un engagement qui, selon le cas :
+a) dispose des biens du contribuable;
+b) a pour objet l’exécution d’une obligation visée à l’article 49.1 qui ne constitue pas une disposition, sauf si l’obligation se rapporte à un droit sur des biens ou des services que le contribuable a acquis pour une somme inférieure à leur juste valeur marchande. (restrictive covenant)
+contribuable Y sont assimilées les sociétés de personnes. (taxpayer)
+établissement stable S’entend au sens qui est donné à ce terme pour l’application du paragraphe 16.1(1). (permanent establishment)
+montant pour achalandage Est le montant pour achalandage d’un contribuable la somme qu’il a reçue ou peut devenir en droit de recevoir qui serait, en l’absence du présent article, à inclure dans le produit de disposition d’un bien compris dans la catégorie 14.1 de l’annexe II du Règlement de l’impôt sur le revenu, ou une somme à laquelle le paragraphe 13(38) s’applique, relativement à une entreprise qu’il exploite par l’entremise d’un établissement stable situé au Canada. (goodwill amount)
+participation admissible Immobilisation d’un contribuable qui est :
+a) une participation dans une société de personnes qui exploite une entreprise;
+b) une action du capital-actions d’une société qui exploite une entreprise;
+c) une action du capital-actions d’une société dont au moins 90 % de la juste valeur marchande est attribuable à des participations admissibles dans une autre société. (eligible interest)
+particulier admissible S’entend, relativement à un vendeur à un moment donné, d’un particulier, à l’exception d’une fiducie, qui est lié au vendeur et qui est âgé d’au moins 18 ans à ce moment. (eligible individual)
+société admissible Est une société admissible d’un contribuable toute société canadienne imposable dont il détient, directement ou indirectement, des actions du capital-actions. (eligible corporation)
+Income — restrictive covenants
+Revenu — clause restrictive
+(2) There is to be included in computing a taxpayer’s income for a taxation year the total of all amounts each of which is an amount in respect of a restrictive covenant of the taxpayer that is received or receivable in the taxation year by the taxpayer or by a taxpayer with whom the taxpayer does not deal at arm’s length (other than an amount that has been included in computing the taxpayer’s income because of this subsection for a preceding taxation year or in the taxpayer’s eligible corporation’s income because of this subsection for the taxation year or a preceding taxation year).
+(2) Est à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition le total des sommes dont chacune a trait à une clause restrictive du contribuable et est reçue ou à recevoir au cours de l’année par le contribuable ou par un contribuable avec lequel il a un lien de dépendance, à l’exception de toute somme qui a été incluse soit dans le calcul du revenu du contribuable par l’effet du présent paragraphe pour une année d’imposition antérieure, soit dans le revenu de la société admissible du contribuable par l’effet du présent paragraphe pour l’année ou pour une année d’imposition antérieure.
+Non-application of subsection (2)
+Non-application du paragraphe (2)
+(3) Subsection (2) does not apply to an amount received or receivable by a particular taxpayer in a taxation year in respect of a restrictive covenant granted by the particular taxpayer to another taxpayer (referred to in this subsection and subsection (4) as the “purchaser”) with whom the particular taxpayer deals at arm’s length (determined without reference to paragraph 251(5)(b)), if
+(3) Le paragraphe (2) ne s’applique pas à la somme reçue ou à recevoir par un contribuable donné au cours d’une année d’imposition au titre d’une clause restrictive qu’il a accordée à un autre contribuable (appelé « acheteur » au présent paragraphe et au paragraphe (4)) avec lequel il n’a aucun lien de dépendance (déterminé compte non tenu de l’alinéa 251(5)b)) si l’un des faits ci‑après se vérifie :
+(a) section 5 or 6 applied to include the amount in computing the particular taxpayer’s income for the taxation year or would have so applied if the amount had been received in the taxation year;
+a) la somme a été incluse, en application des articles 5 ou 6, dans le calcul du revenu du contribuable donné pour l’année, ou l’aurait été si elle avait été reçue au cours de cette année;
+(b) the amount would, if this Act were read without reference to this section, be required to be included in the proceeds of disposition of a property included in Class 14.1 of Schedule II to the Income Tax Regulations, or is an amount to which subsection 13(38) applies, in respect of the business to which the restrictive covenant relates, and the particular taxpayer elects (or if the amount is payable by the purchaser in respect of a business carried on in Canada by the purchaser, the particular taxpayer and the purchaser jointly elect) in prescribed form to apply this paragraph in respect of the amount; or
+b) la somme serait, en l’absence du présent article, à inclure dans le produit de disposition d’un bien compris dans la catégorie 14.1 de l’annexe II du Règlement de l’impôt sur le revenu, ou est une somme à laquelle le paragraphe 13(38) s’applique, relativement à l’entreprise à laquelle la clause restrictive se rapporte, et le contribuable donné fait le choix sur le formulaire prescrit, à titre individuel ou conjointement avec l’acheteur si la somme est payable par ce dernier relativement à une entreprise qu’il exploite au Canada, d’appliquer le présent alinéa relativement à la somme;
+(c) subject to subsection (9), the amount directly relates to the particular taxpayer’s disposition of property that is, at the time of the disposition, an eligible interest in the partnership or corporation that carries on the business to which the restrictive covenant relates, or that is at that time an eligible interest by virtue of paragraph (c) of the definition eligible interest in subsection (1) where the other corporation referred to in that paragraph carries on the business to which the restrictive covenant relates, and
+c) sous réserve du paragraphe (9), la somme se rapporte directement à la disposition, par le contribuable donné, d’un bien qui est, au moment de la disposition, soit une participation admissible dans la société de personnes ou la société qui exploite l’entreprise à laquelle la clause restrictive se rapporte, soit une participation admissible par l’effet de l’alinéa c) de la définition de participation admissible au paragraphe (1) lorsque l’entreprise à laquelle la clause restrictive se rapporte est exploitée par l’autre société visée à cet alinéa, et, à la fois :
+(i) the disposition is to the purchaser (or to a person related to the purchaser),
+(i) la disposition est effectuée en faveur de l’acheteur ou d’une personne qui lui est liée,
+(ii) the amount is consideration for an undertaking by the particular taxpayer not to provide, directly or indirectly, property or services in competition with the property or services provided or to be provided by the purchaser (or by a person related to the purchaser),
+(ii) la somme représente la contrepartie de l’engagement du contribuable donné de ne pas fournir, directement ou indirectement, de biens ou de services sous un régime de concurrence avec les biens ou services fournis ou à fournir par l’acheteur ou par une personne qui lui est liée,
+(iii) the restrictive covenant may reasonably be considered to have been granted to maintain or preserve the value of the eligible interest disposed of to the purchaser;
+(iii) il est raisonnable de considérer que la clause restrictive a été accordée dans le but de maintenir ou de protéger la valeur de la participation admissible dont il est disposé en faveur de l’acheteur,
+(iv) if the restrictive covenant is granted on or after July 18, 2005, subsection 84(3) does not apply to the disposition,
+(iv) si la clause restrictive est accordée après le 17 juillet 2005, le paragraphe 84(3) ne s’applique pas à la disposition,
+(v) the amount is added to the particular taxpayer’s proceeds of disposition, as defined by section 54, for the purpose of applying this Act to the disposition of the particular taxpayer’s eligible interest, and
+(v) la somme est ajoutée au produit de disposition, au sens de l’article 54, du contribuable donné pour ce qui est de l’application de la présente loi à la disposition de la participation admissible de ce contribuable,
+(vi) the particular taxpayer and the purchaser elect in prescribed form to apply this paragraph in respect of the amount.
+(vi) le contribuable et l’acheteur font, sur le formulaire prescrit, le choix d’appliquer le présent alinéa relativement à la somme.
+Treatment of purchaser
+Somme payée ou payable par l’acheteur
+(4) An amount paid or payable by a purchaser for a restrictive covenant is
+(4) La somme payée ou payable par un acheteur relativement à une clause restrictive fait l’objet du traitement suivant :
+(a) if the amount is required because of section 5 or 6 to be included in computing the income of an employee of the purchaser, to be considered to be wages paid or payable by the purchaser to the employee;
+a) si elle est à inclure dans le calcul du revenu d’un employé de l’acheteur par l’effet des articles 5 ou 6, elle est considérée comme un salaire versé ou à verser à l’employé par l’acheteur;
+(b) if an election has been made under paragraph (3)(b) in respect of the amount, to be considered to be incurred by the purchaser on account of capital for the purpose of determining the cost of the property or for the purposes of subsection 13(35), as the case may be, and not to be an amount paid or payable for all other purposes of the Act; and
+b) si le choix prévu à l’alinéa (3)b) a été fait à son égard, elle est considérée comme étant engagée par l’acheteur à titre de capital aux fins du calcul du coût du bien ou pour l’application du paragraphe 13(35), selon le cas, et comme n’étant pas une somme payée ou payable pour l’application des autres dispositions de la présente loi;
+(c) if an election has been made under paragraph (3)(c), in respect of the amount and the amount relates to the purchaser’s acquisition of property that is, immediately after the acquisition, an eligible interest of the purchaser, to be included in computing the cost to the purchaser of that eligible interest and considered not to be an amount paid or payable for all other purposes of the Act.
+c) si le choix prévu à l’alinéa (3)c) a été fait à son égard et qu’elle a trait à l’acquisition par l’acheteur d’un bien qui, aussitôt acquis, est une participation admissible pour lui, elle est à inclure dans le calcul du coût de cette participation pour lui et est considérée comme n’étant pas une somme payée ou payable pour l’application des autres dispositions de la présente loi.
+Non-application of section 68
+Non-application de l’article 68
+(5) If this subsection applies to a restrictive covenant granted by a taxpayer, section 68 does not apply to deem consideration to be received or receivable by the taxpayer for the restrictive covenant.
+(5) En cas d’application du présent paragraphe à une clause restrictive accordée par un contribuable, l’article 68 ne s’applique pas de manière qu’une contrepartie soit réputée être reçue ou à recevoir par le contribuable pour la clause restrictive.
+Application of subsection (5) — if employee provides covenant
+Application du paragraphe (5) — clause restrictive accordée par l’employé
+(6) Subsection (5) applies to a restrictive covenant if
+(6) Le paragraphe (5) s’applique à une clause restrictive si les conditions ci-après sont réunies :
+(a) the restrictive covenant is granted by an individual to another taxpayer with whom the individual deals at arm’s length (referred to in this subsection as the “purchaser”);
+a) la clause restrictive est accordée par un particulier à un autre contribuable (appelé « acheteur » au présent paragraphe) avec lequel il n’a aucun lien de dépendance;
+(b) the restrictive covenant directly relates to the acquisition from one or more other persons (in this subsection and subsection (12) referred to as the “vendors”) by the purchaser of an interest, or for civil law purposes a right, in the individual’s employer, in a corporation related to that employer or in a business carried on by that employer;
+b) la clause restrictive se rapporte directement à l’acquisition par l’acheteur d’une ou de plusieurs autres personnes (appelées « vendeurs » au présent paragraphe et au paragraphe (12)) d’un intérêt ou, pour l’application du droit civil, d’un droit sur l’employeur du particulier, sur une société liée à cet employeur ou sur une entreprise exploitée par cet employeur;
+(c) the individual deals at arm’s length with the employer and with the vendors;
+c) le particulier n’a de lien de dépendance ni avec l’employeur, ni avec les vendeurs;
+(d) the restrictive covenant is an undertaking by the individual not to provide, directly or indirectly, property or services in competition with property or services provided or to be provided by the purchaser (or by a person related to the purchaser) in the course of carrying on the business to which the restrictive covenant relates;
+d) la clause restrictive est un engagement du particulier de ne pas fournir, directement ou indirectement, de biens ou de services sous un régime de concurrence avec les biens ou services fournis ou à fournir par l’acheteur, ou par une personne qui lui est liée, dans le cadre de l’exploitation de l’entreprise à laquelle la clause restrictive se rapporte;
+(e) no proceeds are received or receivable by the individual for granting the restrictive covenant; and
+e) aucun produit n’est reçu ou à recevoir par le particulier pour avoir accordé la clause restrictive;
+(f) the amount that can reasonably be regarded to be consideration for the restrictive covenant is received or receivable only by the vendors.
+f) la somme qu’il est raisonnable de considérer comme étant la contrepartie de la clause restrictive n’est reçue ou n’est à recevoir que par les vendeurs.
+Application of subsection (5) — realization of goodwill amount and disposition of property
+Application du paragraphe (5) — réalisation du montant pour achalandage et disposition d’un bien
+(7) Subject to subsection (10), subsection (5) applies to a restrictive covenant granted by a taxpayer if
+(7) Sous réserve du paragraphe (10), le paragraphe (5) s’applique à une clause restrictive accordée par un contribuable si les conditions ci-après sont réunies :
+(a) the restrictive covenant is granted by the taxpayer (in this subsection and subsection (8) referred to as the “vendor”) to
+a) la clause restrictive est accordée par le contribuable (appelé « vendeur » au présent paragraphe et au paragraphe (8)) :
+(i) another taxpayer (in this subsection referred to as the “purchaser”) with whom the vendor deals at arm’s length (determined without reference to paragraph 251(5)(b)) at the time of the grant of the restrictive covenant, or
+(i) soit à un autre contribuable (appelé « acheteur » au présent paragraphe) avec lequel il n’a aucun lien de dépendance (déterminé compte non tenu de l’alinéa 251(5)b)) au moment où la clause restrictive est accordée,
+(ii) another person who is an eligible individual in respect of the vendor at the time of the grant of the restrictive covenant;
+(ii) soit à une autre personne qui est un particulier admissible relativement à lui au moment où la clause restrictive est accordée;
+(b) where subparagraph (a)(i) applies, the restrictive covenant is an undertaking of the vendor not to provide, directly or indirectly, property or services in competition with the property or services provided or to be provided by the purchaser (or by a person related to the purchaser) in the course of carrying on the business to which the restrictive covenant relates, and
+b) en cas d’application du sous-alinéa a)(i), la clause restrictive est un engagement du vendeur de ne pas fournir, directement ou indirectement, de biens ou de services sous un régime de concurrence avec les biens ou services fournis ou à fournir par l’acheteur, ou par une personne liée à celui-ci, dans le cadre de l’exploitation de l’entreprise à laquelle la clause restrictive se rapporte et, selon le cas :
+(i) the amount that can reasonably be regarded as being consideration for the restrictive covenant is
+(i) la somme qu’il est raisonnable de considérer comme étant la contrepartie de la clause restrictive est :
+(A) included by the vendor in computing a goodwill amount of the vendor, or
+(A) soit incluse par le vendeur dans le calcul d’un montant pour achalandage quant à lui,
+(B) received or receivable by a corporation that was an eligible corporation of the vendor when the restrictive covenant was granted and included by the eligible corporation in computing a goodwill amount of the eligible corporation in respect of the business to which the restrictive covenant relates, or
+(B) soit reçue ou à recevoir par une société qui était une société admissible du vendeur au moment où la clause restrictive a été accordée, et incluse par cette société dans le calcul d’un montant pour achalandage quant à elle relativement à l’entreprise à laquelle la clause restrictive se rapporte,
+(ii) it is reasonable to conclude that the restrictive covenant is integral to an agreement in writing,
+(ii) il est raisonnable de conclure que la clause restrictive fait partie intégrante d’une convention écrite aux termes de laquelle, selon le cas :
+(A) under which the vendor or the vendor’s eligible corporation disposes of property (other than property described in clause (B) or subparagraph (i)) to the purchaser, or the purchaser’s eligible corporation, for consideration that is received or receivable by the vendor, or the vendor’s eligible corporation, as the case may be, or
+(A) le vendeur ou sa société admissible dispose de biens (sauf des biens visés à la division (B) ou au sous-alinéa (i)) en faveur de l’acheteur ou de la société admissible de celui-ci pour une contrepartie reçue ou à recevoir par le vendeur ou par sa société admissible, selon le cas,
+(B) under which shares of the capital stock of a corporation (in this subsection and subsection (12) referred to as the “target corporation”) are disposed of to the purchaser or to another person that is related to the purchaser and with whom the vendor deals at arm’s length (determined without reference to paragraph 251(5)(b)),
+(B) il est disposé d’actions du capital-actions d’une société (appelée « société cible » au présent paragraphe et au paragraphe (12)) en faveur de l’acheteur ou d’une autre personne qui lui est liée et avec laquelle le vendeur n’a aucun lien de dépendance (déterminé compte non tenu de l’alinéa 251(5)b));
+(c) where subparagraph (a)(ii) applies, the restrictive covenant is an undertaking of the vendor not to provide, directly or indirectly, property or services in competition with the property or services provided or to be provided by the eligible individual (or by an eligible corporation of the eligible individual) in the course of carrying on the business to which the restrictive covenant relates, and
+c) en cas d’application du sous-alinéa a)(ii), la clause restrictive est un engagement du vendeur de ne pas fournir, directement ou indirectement, de biens ou de services sous un régime de concurrence avec les biens ou services fournis ou à fournir par le particulier admissible, ou par une société admissible de celui-ci, dans le cadre de l’exploitation de l’entreprise à laquelle la clause restrictive se rapporte et, à la fois :
+(i) either
+(i) selon le cas :
+(A) the amount that can reasonably be regarded as being consideration for the restrictive covenant is
+(A) la somme qu’il est raisonnable de considérer comme étant la contrepartie de la clause restrictive est :
+(I) included by the vendor in computing a goodwill amount of the vendor, or
+(I) soit incluse par le vendeur dans le calcul d’un montant pour achalandage quant à lui,
+(II) received or receivable by a corporation that was an eligible corporation of the vendor when the restrictive covenant was granted and included by the eligible corporation in computing a goodwill amount of the eligible corporation in respect of the business to which the restrictive covenant relates, or
+(II) soit reçue ou à recevoir par une société qui était une société admissible du vendeur au moment où la clause restrictive a été accordée, et incluse par cette société dans le calcul d’un montant pour achalandage quant à elle relativement à l’entreprise à laquelle la clause restrictive se rapporte,
+(B) it is reasonable to conclude that the restrictive covenant is integral to an agreement in writing
+(B) il est raisonnable de conclure que la clause restrictive fait partie intégrante d’une convention écrite aux termes de laquelle, selon le cas :
+(I) under which the vendor or the vendor’s eligible corporation disposes of property (other than property described in subclause (II) or clause (A)) to the eligible individual, or the eligible individual’s corporation, for consideration that is received or receivable by the vendor, or the vendor’s eligible corporation, as the case may be, or
+(I) le vendeur ou sa société admissible dispose de biens (sauf des biens visés à la subdivision (II) ou à la division (A)) en faveur du particulier admissible ou de la société admissible de celui-ci pour une contrepartie reçue ou à recevoir par le vendeur ou par sa société admissible, selon le cas,
+(II) under which shares of the capital stock of the vendor’s eligible corporation (in this subsection and subsection (12) referred to as the “family corporation”) are disposed of to the eligible individual or the eligible individual’s eligible corporation,
+(II) il est disposé d’actions du capital-actions de la société admissible du vendeur (appelée « société familiale » au présent paragraphe et au paragraphe (12)) en faveur du particulier admissible ou de la société admissible de celui-ci,
+(ii) the vendor is resident in Canada at the time of the grant of the restrictive covenant and the disposition referred to in clause (i)(B), and
+(ii) le vendeur réside au Canada au moment de l’octroi de la clause restrictive et de la disposition mentionnée à la division (i)(B),
+(iii) the vendor does not, at any time after the grant of the restrictive covenant and whether directly or indirectly in any manner whatever, have an interest, or for civil law a right, in the family corporation or in the eligible corporation of the eligible individual, as the case may be;
+(iii) le vendeur n’a pas, directement ou indirectement, de quelque manière que ce soit, d’intérêt ou, pour l’application du droit civil, de droit sur la société familiale ou sur la société admissible du particulier admissible, selon le cas, après l’octroi de la clause restrictive;
+(d) no proceeds are received or receivable by the vendor for granting the restrictive covenant;
+d) aucun produit n’est reçu ou à recevoir par le vendeur pour avoir accordé la clause restrictive;
+(e) subsection 84(3) does not apply in respect of the disposition of a share of the target corporation or family corporation, as the case may be;
+e) le paragraphe 84(3) ne s’applique pas à la disposition d’une action de la société cible ou de la société familiale, selon le cas;
+(f) the restrictive covenant can reasonably be regarded to have been granted to maintain or preserve the fair market value of any of
+f) il est raisonnable de considérer que la clause restrictive a été accordée dans le but de maintenir ou de protéger la juste valeur marchande :
+(i) the benefit of the expenditure derived from the goodwill amount referred to in subparagraph (b)(i) or clause (c)(i)(A) and for which a joint election referred to in paragraph (g) was made,
+(i) de l’avantage de la dépense qui découle du montant pour achalandage visé au sous-alinéa b)(i) ou à la division c)(i)(A) et à l’égard duquel le choix conjoint prévu à l’alinéa g) a été fait,
+(ii) the property referred to in clause (b)(ii)(A) or subclause (c)(i)(B)(I), or
+(ii) des biens visés à la division b)(ii)(A) ou à la subdivision c)(i)(B)(I),
+(iii) the shares referred to in clause (b)(ii)(B) or subclause (c)(i)(B)(II); and
+(iii) des actions mentionnées à la division b)(ii)(B) ou à la subdivision c)(i)(B)(II);
+(g) a joint election in prescribed form to apply subsection (5) to the amount referred to in subparagraph (b)(i) or clause (c)(i)(A), if otherwise applicable, is made by
+g) un choix conjoint afin que le paragraphe (5) s’applique à la somme mentionnée au sous-alinéa b)(i) ou à la division c)(i)(A), dans le cas où ce paragraphe s’applique par ailleurs, est fait sur le formulaire prescrit :
+(i) in the case of subparagraph (b)(i), the vendor, or the vendor’s eligible corporation, if it is required to include the goodwill amount in computing its income, and the purchaser, or the purchaser’s eligible corporation, if it incurs the expenditure that is the goodwill amount to the vendor or the vendor’s eligible corporation, as the case may be, or
+(i) dans le cas du sous-alinéa b)(i), par celui du vendeur ou de sa société admissible qui est tenu d’inclure le montant pour achalandage dans le calcul de son revenu, et par celui de l’acheteur ou sa société admissible qui engage la dépense qui représente le montant pour achalandage pour le vendeur ou pour sa société admissible, selon le cas,
+(ii) in the case of clause (c)(i)(A), the vendor, or the vendor’s eligible corporation, if it is required to include the goodwill amount in computing its income, and the eligible individual, or the eligible individual’s eligible corporation, if it incurs the expenditure that is the goodwill amount to the vendor or the vendor’s eligible corporation, as the case may be.
+(ii) dans le cas de la division c)(i)(A), par celui du vendeur ou de sa société admissible qui est tenu d’inclure le montant pour achalandage dans le calcul de son revenu, et par celui du particulier admissible ou de sa société admissible qui engage la dépense qui représente le montant pour achalandage pour le vendeur ou pour sa société admissible, selon le cas.
+Application of subsection (7) and section 69 — special rules
+Application du paragraphe (7) et de l’article 69 — règles spéciales
+(8) For the purpose
+(8) Les règles ci-après s’appliquent dans les cas suivants :
+(a) of applying subsection (7), clause (7)(b)(ii)(A) and subclause (7)(c)(i)(B)(I) apply to a grant of a restrictive covenant only if
+a) pour l’application du paragraphe (7), la division (7)b)(ii)(A) et la subdivision (7)c)(i)(B)(I) ne s’appliquent à l’octroi d’une clause restrictive que si les conditions ci-après sont réunies :
+(i) the consideration that can reasonably be regarded as being in part the consideration for the restrictive covenant is received or receivable by the vendor or the vendor’s eligible corporation, as the case may be, as consideration for the disposition of the property, and
+(i) la contrepartie qu’il est raisonnable de considérer comme étant en partie la contrepartie de la clause restrictive est reçue ou à recevoir par le vendeur ou par sa société admissible, selon le cas, en contrepartie de la disposition du bien,
+(ii) if all or a part of the consideration can reasonably be regarded as being for a goodwill amount, subsection (2), paragraph (3)(b), subparagraph (7)(b)(i) or clause (7)(c)(i)(A) applies to that consideration; and
+(ii) dans le cas où il est raisonnable de considérer que la totalité ou une partie de la contrepartie se rapporte à un montant pour achalandage, le paragraphe (2), l’alinéa (3)b), le sous-alinéa (7)b)(i) ou la division (7)c)(i)(A) s’appliquent à cette contrepartie;
+(b) of determining if the conditions described in paragraph (7)(c) have been met, and for the purpose of applying section 69, in respect of a restrictive covenant granted by a vendor, the fair market value of a property is the amount that can reasonably be regarded as being the fair market value of the property if the restrictive covenant were part of the property.
+b) lorsqu’il s’agit de déterminer si les conditions énoncées à l’alinéa (7)c) sont remplies, et pour l’application de l’article 69, relativement à une clause restrictive accordée par un vendeur, la juste valeur marchande d’un bien correspond à la somme qu’il serait raisonnable de considérer comme étant la juste valeur marchande du bien si la clause restrictive faisait partie de celui-ci.
+Anti-avoidance rule — non-application of paragraph (3)(c)
+Règle anti-évitement — non-application de l’alinéa (3)c)
+(9) Paragraph (3)(c) does not apply to an amount that would, if this Act were read without reference to subsections (2) to (14), be included in computing a taxpayer’s income from a source that is an office or employment or a business or property under paragraph 3(a).
+(9) L’alinéa (3)c) ne s’applique pas à la somme qui, en l’absence des paragraphes (2) à (14), serait incluse dans le calcul du revenu d’un contribuable provenant d’une source qui est une charge, un emploi, une entreprise ou un bien selon l’alinéa 3a).
+Anti-avoidance — non-application of subsection (7)
+Anti-évitement — non-application du paragraphe (7)
+(10) Subsection (7) does not apply in respect of a taxpayer’s grant of a restrictive covenant if one of the results of not applying section 68 to the consideration received or receivable in respect of the taxpayer’s grant of the restrictive covenant would be that paragraph 3(a) would not apply to consideration that would, if this Act were read without reference to subsections (2) to (14), be included in computing a taxpayer’s income from a source that is an office or employment or a business or property.
+(10) Le paragraphe (7) ne s’applique pas relativement à l’octroi d’une clause restrictive par un contribuable dans le cas où le fait de ne pas appliquer l’article 68 à la contrepartie reçue ou à recevoir pour avoir accordé la clause restrictive aurait notamment pour résultat que l’alinéa 3a) ne s’appliquerait pas à toute contrepartie qui, en l’absence des paragraphes (2) à (14), serait incluse dans le calcul du revenu d’un contribuable provenant d’une source qui est une charge, un emploi, une entreprise ou un bien.
+Clarification if subsection (2) applies — where another person receives the amount
+Précision en cas d’application du paragraphe (2) — somme reçue par une autre personne
+(11) For greater certainty, if subsection (2) applies to include in computing a taxpayer’s income an amount received or receivable by another taxpayer, that amount is not to be included in computing the income of that other taxpayer.
+(11) Il est entendu que toute somme reçue ou à recevoir par un contribuable qui est incluse, par l’effet du paragraphe (2), dans le calcul du revenu d’un autre contribuable n’est pas à inclure dans le calcul du revenu du premier contribuable.
+Clarification if subsection (5) applies
+Précision en cas d’application du paragraphe (5)
+(12) For greater certainty, if subsection (5) applies in respect of a restrictive covenant,
+(12) Il est entendu que, si le paragraphe (5) s’applique relativement à une clause restrictive :
+(a) the amount referred to in paragraph (6)(f) is to be added in computing the amount received or receivable by the vendors as consideration for the disposition of the interest or right referred to in paragraph (6)(b); and
+a) la somme visée à l’alinéa (6)f) est à ajouter dans le calcul de la somme reçue ou à recevoir par les vendeurs en contrepartie de la disposition de l’intérêt ou du droit visé à l’alinéa (6)b);
+(b) the amount that can reasonably be regarded as being in part consideration received or receivable for a restrictive covenant to which clause (7)(b)(ii)(B) or subclause (7)(c)(i)(B)(II) applies is to be added in computing the consideration that is received or receivable by each taxpayer who disposes of shares of the target corporation, or shares of the family corporation, as the case may be, to the extent of the portion of the consideration that is received or receivable by that taxpayer.
+b) la somme qu’il est raisonnable de considérer comme étant en partie la contrepartie reçue ou à recevoir pour une clause restrictive à laquelle la division (7)b)(ii)(B) ou la subdivision (7)c)(i)(B)(II) s’applique est à ajouter dans le calcul de la contrepartie qui est reçue ou à recevoir par chaque contribuable qui dispose d’actions de la société cible ou d’actions de la société familiale, selon le cas, jusqu’à concurrence de la partie de la contrepartie qui est reçue ou à recevoir par le contribuable.
+Filing of prescribed form
+Production du formulaire prescrit
+(13) For the purpose of paragraphs (3)(b) and (c) and subsection (7), an election in prescribed form filed under any of those provisions is to include a copy of the restrictive covenant and be filed
+(13) Pour l’application des alinéas (3)b) et c) et du paragraphe (7), le choix présenté sur le formulaire prescrit selon ces dispositions doit être accompagné d’une copie de la clause restrictive et être produit selon les modalités suivantes :
+(a) if the person who granted the restrictive covenant was a person resident in Canada when the restrictive covenant was granted, by the person with the Minister on or before the person’s filing-due date for the taxation year that includes the day on which the restrictive covenant was granted; and
+a) si la personne ayant accordé la clause restrictive résidait au Canada au moment où celle-ci a été accordée, le choix est présenté par la personne au ministre au plus tard à la date d’échéance de production qui lui est applicable pour l’année d’imposition qui comprend le jour où la clause restrictive a été accordée;
+(b) in any other case, with the Minister on or before the day that is six months after the day on which the restrictive covenant is granted.
+b) dans les autres cas, le choix est présenté au ministre au plus tard le jour qui suit de six mois le jour où la clause restrictive est accordée.
+Non-application of section 42
+Non-application de l’article 42
+(14) Section 42 does not apply to an amount received or receivable as consideration for a restrictive covenant.
+(14) L’article 42 ne s’applique pas à la somme reçue ou à recevoir en contrepartie d’une clause restrictive.
+CITATION:
+2018 TCC 158
+COURT FILE NO.:
+2016-1480(IT)G
+STYLE OF CAUSE:
+PANGAEA ONE ACQUISITION HOLDINGS XII S.À.R.L. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+January 16, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+July 31, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Pierre Martel
+Nicholas Grenier
+Counsel for the Respondent:
+Yanick Houle
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Pierre Martel
+Nicholas Grenier
+Firm:
+Stikeman Elliott LLP
+Montreal, Quebec
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

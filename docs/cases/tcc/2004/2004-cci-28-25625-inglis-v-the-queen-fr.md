@@ -1,0 +1,130 @@
+---
+title: "Inglis v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25625/index.do"
+last_modified: "2004-01-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 28"
+citation2: ""
+neutral_citation: "2004 CCI 28"
+decision_date: "2004-01-09"
+language: "fr"
+item_id: "25625"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2431
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:08:46.333000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3bfcd78a86f704555df9adcf5a1c2f4f307a7b9a919dff00c4667de4ee8065f3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Inglis v. The Queen
+
+- Citation: 2004 CCI 28
+- Decision date: 2004-01-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2431, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Inglis v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-09
+Référence neutre
+2004 CCI 28
+Numéro de dossier
+2003-2975(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2975(IT)I
+ENTRE :
+BRUCE INGLIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 6 janvier 2004 à Vancouver (Colombie-Britannique)
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Gavin Laird
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est accueilli, sans dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, accordant à l'appelant une déduction supplémentaire au montant de 65,53 $, selon les motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 9e jour de janvier 2004.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 5e jour de mai 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2004CCI28
+Date : 20040109
+Dossier : 2003-2975(IT)I
+ENTRE :
+BRUCE INGLIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] En 1993, l'appelant et deux associés ont acheté un bien à Nanaimo, en Colombie-Britannique (le « bien » ). Le bien contenait quatre unités locatives.
+[2] Le prix payé pour le bien était de 251 500 $.
+[3] Les acheteurs ont obtenu une hypothèque (l' « hypothèque » ) au montant de 188 625 $. Le solde du prix d'achat a été payé en espèces par l'appelant et ses associés.
+[4] L'appelant a payé 9 300 $ en espèces pour acheter un intérêt de 12,5 p. 100 dans le bien.
+[5] Au long des années, les unités du bien ont été louées à de nombreux locataires.
+[6] En juin 2000, le bien a été vendu au prix de 183 000 $. La responsabilité de l'hypothèque de l'appelant, ainsi que celle de ses associés, a été assumée par l'acheteur. L'appelant n'a reçu aucune liquidité lors de la vente du bien.
+[7] Quand l'appelant a produit sa déclaration de revenus pour l'année d'imposition 2000, il a rempli le formulaire sur les pertes terminales fourni par l'Agence des douanes et du revenu du Canada ( « ADRC » ) et il a conclu qu'il avait le droit de demander une perte terminale au montant de 16 012 $.
+[8] Des agents de l'ADRC ont vérifié la déclaration de revenus de l'appelant correspondant à l'année 2000. Ils ont conclu que la perte terminale subie par l'appelant lors de la vente du bien était de 10 864,88 $. L'ADRC a émis un Avis de nouvelle cotisation où il a réduit la perte terminale subie par l'appelant à 10 864,88 $.
+[9] L'appelant a déposé un Avis d'opposition à l'encontre de la nouvelle cotisation.
+[10] Un agent de la Section des appels de l'ADRC a conclu que la perte terminale subie par l'appelant lors de la vente du bien était de 9 300 $.
+B. QUESTION EN LITIGE
+[11] La perte terminale de 9 300 $ établie par les agents de l'ADRC, a-t-elle été calculée convenablement?
+C. ANALYSE
+[12] Pendant l'audience, l'appelant a fait valoir que, pour calculer le coût du bien qui sert de base au calcul de la perte terminale qu'il a subie, il n'est pas tenu de tenir compte de l'hypothèque obtenue lors de l'achat du bien.
+[13] Je ne peux être d'accord. Pour déterminer la signification ordinaire de l'expression « coût ou prix d'achat » qui sert de base pour calculer la perte terminale subie au moment de la vente du bien, il est nécessaire d'inclure tout l'argent versé en espèces, plus la valeur de l'hypothèque.
+[14] J'ai examiné attentivement les calculs utilisés par l'ADRC pour déterminer la perte terminale pouvant être demandée par l'appelant. J'ai conclu que les calculs du ministre sont corrects, notamment, que la perte terminale subie par l'appelant était de 9 300 $.
+[15] Pendant l'audience, l'avocat de l'intimée a concédé que l'appelant avait le droit de déduire un montant supplémentaire de 65,53 $ qui représente 12,5 p. 100 des 524,30 $ de la TPS versée à l'avocat quand le bien a été vendu.
+[16] La perte terminale subie par l'appelant au moment de la vente du bien doit être calculée ainsi :
+Perte terminale
+Calculée par l'ADRC
+9 300,00 $
+Somme concédée par l'avocat de l'intimée
+65,53 $
+Perte terminale totale à accorder
+9 365,53 $
+[17] L'appel sera accueilli, sans dépens, afin d'accorder à l'appelant une déduction supplémentaire au montant de 65,53 $.
+Signé à Vancouver (Colombie-Britannique) ce 9e jour de janvier 2004.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 5e jour de mai 2004.
+Ingrid B. Miranda, traductrice

@@ -1,0 +1,225 @@
+Title: Larkin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/484717/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-98-484717-larkin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-09-01
+
+# Larkin c. La Reine
+
+- Citation: 2020 CCI 98
+- Decision date: 2020-09-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4572, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Larkin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-09-01
+Référence neutre
+2020 CCI 98
+Numéro de dossier
+2019-328(IT)I
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-328(IT)I
+ENTRE :
+DANIEL B. LARKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 9 mars 2020, à Ottawa (Ontario).
+Devant : L’honorable juge suppléant Rommel G. Masse
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Ahmed Ali
+Me Christopher Kitchen
+JUGEMENT
+L’appel interjeté à l’encontre d’une cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2011 est accueilli en partie, et l’affaire est renvoyée au ministre aux fins de réexamen et d’établissement d’une nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Kingston (Ontario), ce 1er jour de septembre 2020.
+« Rommel G. Masse »
+Le juge suppléant Masse
+Référence : 2020 CCI 98
+Date : 20200901
+Dossier : 2019-328(IT)I
+ENTRE :
+DANIEL B. LARKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Masse
+[1] L’appelant, M. Daniel Larkin, interjette appel d’une nouvelle cotisation établie aux termes de la Loi de l’impôt sur le revenu, LRC (1985), ch. 1 (5e suppl.) (la Loi) pour son année d’imposition 2011. Cet appel concerne des déductions de 20 156 $ réclamées au titre de frais professionnels qui ont été refusées par le ministre du Revenu national (le ministre).
+Résumé des faits
+[2] Par lettre datée du 10 janvier 2013, le ministre a demandé à l’appelant de déposer ses déclarations fiscales pour les années d’imposition 2008 à 2011. C’est ce qu’il a fait. Dans le calcul de son revenu net pour 2011, l’appelant a réclamé, entre autres déductions, la somme de 12 000 $ au titre de frais professionnels liés à son travail de géologue, de prospecteur et d’inventeur. Le 19 mars 2015, le ministre a initialement établi la cotisation pour l’année d’imposition 2011 conformément à la déclaration produite. Par lettre datée du 3 septembre 2015, le ministre a demandé des pièces justificatives concernant les déductions de frais professionnels de 12 000 $ demandées pour l’année d’imposition 2011. Le 3 mars 2016, le ministre a émis un avis de nouvelle cotisation pour l’année d’imposition 2011, dans lequel il refusait les déductions de 12 000 $ demandées par l’appelant au titre des frais professionnels. L’appelant a déposé un avis d’opposition que le ministre a reçu le 12 mai 2016. L’appelant cherchait notamment à faire passer à 20 156 $ ses déductions pour frais professionnels, alors qu’il avait initialement demandé 12 000 $. Après examen, le ministre a confirmé la nouvelle cotisation et en a informé M. Larkin par un avis de confirmation daté du 5 octobre 2018. M. Larkin conteste maintenant la décision du ministre de refuser ces frais professionnels. D’où l’appel interjeté devant la Cour.
+[3] M. Larkin est âgé de 76 ans et réside à Arnprior, en Ontario. Il a travaillé dans l’industrie de l’extraction de ressources pendant presque toute sa vie. Il était le seul à témoigner à l’audience. J’ai conclu qu’il était un témoin crédible. C’était un témoin instruit, clair, intelligent et honnête.
+[4] M. Larkin est géologue de formation et de profession. Il est géologue professionnel et membre de la Association of Professional Engineers and Geoscientists of Alberta (APEGA). Il a obtenu une licence en géologie à l’Université d’Ottawa, puis une maîtrise en administration des affaires (MBA) à la Schulich School of Business de l’Université York, à la fin des années 1970. Il a passé sa carrière à travailler en tant que prospecteur, entrepreneur et inventeur. L’exposé qu’il a fait de ses expériences personnelles témoigne d’une vie très intéressante ponctuée d’expériences nombreuses et variées.
+[5] Il a témoigné qu’au cours de l’année d’imposition 2011 et pendant un certain temps avant et après 2011, il a travaillé sur divers projets entrepreneuriaux. Il a établi que ces activités étaient de nature commerciale et qu’elles visaient à réaliser des bénéfices.
+[6] La pièce A-1 présente des descriptions sommaires de ses projets.
+Graphite/Graphène expansé/Graphène
+[7] Le graphène est un dérivé du graphite qui, selon M. Larkin, présente un grand potentiel et a des applications technologiques illimitées. Selon la pièce A-1, cette nouvelle technologie va bouleverser le monde. En 2010, M. Larkin a visité d’anciennes mines de graphite afin d’acquérir des ressources de graphite (concessions minières). Cependant, son premier choix n’était plus possible en raison du développement de la région. Les droits miniers de son second choix ont été limités trois semaines avant qu’il ne visite le site. Il a recensé une autre très bonne ressource de graphite, qu’il garde secrète, et il cherche des fonds pour acquérir le terrain. Il dit avoir acquis, auprès d’un scientifique à la retraite, une technologie qui lui permettra de réduire les coûts et d’augmenter la qualité; cette technologie de production de graphite expansé se révèle par ailleurs plus écologique. En 2011, lui et son beau-frère ont construit un prototype qui, espère-t-il, aboutira à un processus de production de graphène. Il s’attend à ce que son projet de graphite soit couronné de succès et qu’il génère des revenus importants. Il examine actuellement la possibilité de conclure une entente avec une université canadienne qui travaille dans ce domaine technologique.
+Sables bitumineux
+[8] En 2011, il a continué à chercher du financement pour exploiter un nouveau site de sables bitumineux récemment découvert. Même s’il restait des travaux d’exploration à faire, on a estimé qu’il serait possible d’obtenir au moins 66 milliards de barils de bitume. Il a essayé d’obtenir un financement auprès d’intérêts chinois et a également exploré les possibilités de conclure une entente avec Valero Energy Corporation (Valero), une société de raffinage du Texas qui, selon lui, conviendrait bien à ce projet en tant que coentreprise. La pièce A-3 est une lettre de proposition préliminaire adressée à Valero, exposant le rendement attendu des sables bitumineux, les conditions de la coentreprise et un calendrier de développement du projet jusqu’au stade de la production. Cette lettre de proposition invite à poursuivre les négociations.
+Traitement du minerai
+[9] M. Larkin continue de mettre au point une nouvelle technique pour libérer le minerai des gisements minéraux obtenus dans son gisement de nickel.
+Séparation de l’eau de fond de trou
+[10] M. Larkin déclare qu’il a acquis des droits de brevet et d’autres actifs relatifs à des méthodes et des appareils de production d’hydrocarbures et d’élimination de l’eau. Il s’agit notamment de rapports et de connaissances liés à la technologie, à toute technique visée et à toute autre propriété intellectuelle associée à la technologie qui sont détenus par le propriétaire original du brevet et par d’autres personnes. Au cours de ses voyages au Canada, y compris en 2011, il a visité et examiné des puits de pétrole qui « s’irriguent » afin de déterminer s’ils pourraient être utiles pour l’application de la technologie. Les possibilités de conclure des ententes n’existent qu’en Saskatchewan et au Manitoba, où les agriculteurs et les particuliers possèdent des puits. Les grandes entreprises situées en Alberta n’envisagent de vendre des puits de pétrole que par centaines, ce qui n’est ni faisable ni abordable pour lui.
+Gisement minier de kérogène
+[11] En 2011, M. Larkin a exploré un gisement minier connu sous le nom de Mines Albert au Nouveau-Brunswick, et a fait des efforts pour en obtenir les droits d’exploitation. Le kérogène est un précurseur du pétrole et relève de la Loi sur les ressources pétrolières. Les droits du gisement ont fait l’objet d’un appel d’offres. Il y a eu trois soumissionnaires; la soumission de M. Larkin était de 3 000 000 $ pour des travaux de développement et il s’était engagé à investir ce montant. Malheureusement, son offre n’a pas été retenue et il a perdu à seulement 50 000 $ près. Les travaux de développement proposés prévoyaient le recours à une nouvelle technologie allemande pour la transformation du kérogène en pétrole de grande valeur.
+Concessions de nickel
+[12] En 2011, M. Larkin était en pourparlers avec Synotech, la principale société minière chinoise.
+[13] Toutes les entreprises à l’égard desquelles M. Larkin a témoigné sont très risquées et hautement spéculatives; c’est la nature des activités qu’il a choisies.
+Questions en litige
+[14] Les questions en litige en l’espèce peuvent être résumées simplement :
+L’appelant exploitait-il une entreprise durant l’année d’imposition 2011?
+Si tel est le cas, l’appelant a-t-il en toute légitimité réclamé les frais professionnels de 20 156 $ engagés durant cette année-là?
+Thèse des parties
+[15] M. Larkin estime que les frais réclamés étaient des frais professionnels légitimes liés à ses activités commerciales en tant que géologue, prospecteur et inventeur au cours de l’année d’imposition 2011. Ces frais ont été engagés dans le but de gagner ou de produire des revenus découlant de ces activités commerciales. Ils n’étaient pas liés à des frais personnels ou de subsistance. Par conséquent, l’appelant demande à la Cour d’accueillir l’appel et de renvoyer l’affaire au ministre pour nouvelle cotisation au motif que les dépenses déclarées étaient des dépenses d’entreprises valides.
+[16] L’intimée est d’avis que le degré de commercialité des activités de l’appelant n’était pas suffisant pour qu’elles constituent une source de revenu d’entreprise au sens du paragraphe 9(2) de la Loi. Par conséquent, les frais déclarés n’étaient pas des dépenses déductibles aux fins de calcul de l’impôt puisque l’appelant n’exerçait pas d’activité commerciale. L’intimée soutient subsidiairement que si les activités de l’appelant constituaient réellement une entreprise, les dépenses déclarées n’ont par contre pas été engagées dans un but de gagner ou de générer du revenu. Il s’agissait de frais personnels ou de subsistance qui n’étaient donc pas déductibles aux fins de calcul de l’impôt. En outre, les frais réclamés n’étaient pas raisonnables compte tenu de toutes les circonstances. L’intimée demande donc à la Cour de rejeter l’appel.
+Discussion
+Principes généraux
+[17] L’article 3 de La Loi divise le revenu du contribuable en plusieurs sources : charge, emploi, entreprise et bien.
+[18] Un contribuable qui cherche à déduire une dépense d’un revenu d’entreprise doit d’abord établir qu’il a une source de revenus provenant d’une entreprise.
+[19] Le paragraphe 248(1) de la Loi donne une définition très large du mot « entreprise ». Une « entreprise » comprend « les professions, métiers, commerces, industries ou activités de quelque genre que ce soit » et inclut généralement « les projets comportant un risque ou les affaires de caractère commercial ».
+[20] Le calcul du revenu ou de la perte provenant d’une entreprise est présenté dans les dispositions de l’article 9 de la Loi, qui prévoit ce qui suit :
+Revenu 9 (1) Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+Perte (2) Sous réserve de l’article 31, la perte subie par un contribuable au cours d’une année d’imposition relativement à une entreprise ou à un bien est le montant de sa perte subie au cours de l’année relativement à cette entreprise ou à ce bien, calculée par l’application, avec les adaptations nécessaires, des dispositions de la présente loi afférentes au calcul du revenu tiré de cette entreprise ou de ce bien.
+[21] Aux termes de l’article 9 de la Loi, un contribuable peut déduire les dépenses engagées pour gagner ce bénéfice, sous réserve des exceptions prévues par la Loi. L’article 18 de la Loi fixe des exceptions d’ordre général quant aux déductions. L’alinéa 18(1)a) prévoit qu’une dépense n’est déductible que dans la mesure où elle a été engagée par le contribuable dans le but de tirer un revenu de l’entreprise. L’alinéa 18(1)h) interdit de déduire du revenu d’entreprise les frais personnels ou de subsistance. Les dispositions de ces deux alinéas sont rédigées ainsi :
+Exceptions d’ordre général
+18(1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+b) […]
+[…]
+Frais personnels ou de subsistance
+h) le montant des frais personnels ou de subsistance du contribuable — à l’exception des frais de déplacement engagés par celui-ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui [...]
+[22] L’article 248 de la Loi définit ainsi les « frais personnels ou de subsistance » :
+248(1) Les définitions qui suivent s’appliquent à la présente loi.
+[…]
+frais personnels ou de subsistance Sont compris parmi les frais personnels ou de subsistance :
+a) les dépenses inhérentes aux biens entretenus par toute personne pour l’usage ou l’avantage du contribuable ou de toute personne unie à ce dernier par les liens du sang, du mariage, de l’union de fait ou de l’adoption, et non entretenus dans le but ou avec l’espoir raisonnable de tirer un profit de l’exploitation d’une entreprise [...]
+[23] En outre, aux termes de l’article 67 de la Loi, un contribuable ne peut pas déduire une dépense « déraisonnable », même si cette dépense est par ailleurs déductible conformément à la Loi. Voici ce que prévoit l’article 67 de la Loi :
+67. Dans le calcul du revenu, aucune déduction ne peut être faite relativement à une dépense à l’égard de laquelle une somme est déductible par ailleurs en vertu de la présente loi, sauf dans la mesure où cette dépense était raisonnable dans les circonstances.
+L’appelant exploitait-il une entreprise?
+[24] Dans l’arrêt Stewart c. Canada, [2002] 2 R.C.S. 645, la Cour suprême du Canada a adopté le critère de la « recherche d’un profit » plutôt que celui de l’« expectative raisonnable de profit » pour faire une distinction entre les activités commerciales et les activités personnelles. La Cour a établi un critère en deux étapes pour déterminer la source de revenus :
+L’activité est-elle exercée en vue de réaliser un profit, ou s’agit-il d’une démarche personnelle?
+S’il ne s’agit pas d’une démarche personnelle, la source du revenu est-elle une entreprise ou un bien?
+[25] Le premier volet du critère vise la question générale de savoir s’il y a ou non une source de revenus. Son objectif est simplement de faire la distinction entre les activités commerciales et les activités personnelles. Dans le deuxième volet, on qualifie la source d’entreprise ou de bien. Lorsque la nature de l’entreprise du contribuable comporte des aspects indiquant qu’elle pourrait être considérée comme un passe-temps ou une autre activité personnelle, cette entreprise sera considérée comme une source de revenus aux fins d’application de la Loi si l’entreprise est exploitée d’une manière suffisamment commerciale (arrêt Stewart, au paragraphe 52).
+[26] Lorsqu’une activité est manifestement de nature commerciale, il n’est pas nécessaire d’analyser les décisions commerciales du contribuable. De telles entreprises impliquent nécessairement la recherche du profit et il existe donc, par définition, une source de revenus. Il n’est pas nécessaire de pousser l’examen plus loin (arrêt Stewart, au paragraphe 53).
+[27] La Cour a ajouté ce qui suit, au paragraphe 54 de l’arrêt Stewart :
+[...] pour qu’une activité soit qualifiée de commerciale par nature, le contribuable doit avoir l’intention subjective de réaliser un profit, il faut aussi [...] que cette détermination se fasse en fonction de divers facteurs objectifs. [...] Cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l’activité et que cette activité a été exercée conformément à des normes objectives de comportement d’homme d’affaires sérieux.
+[Non souligné dans l’original.]
+[28] L’« expectative raisonnable de profit », qui était le critère que les tribunaux adoptaient avant l’arrêt Stewart, est un indice possible de commercialité qui doit être pris en considération si l’activité en question comporte un élément personnel ou est liée à un passe-temps. Même si l’expectative raisonnable de profit constitue un facteur à prendre en considération, elle n’est ni le seul facteur, ni un facteur déterminant de la question en litige. Il faut déterminer globalement si le contribuable exerce l’activité d’une manière commerciale.
+[29] Au paragraphe 55 de l’arrêt Stewart, la Cour suprême poursuit en faisant siens les critères objectifs décrivant un comportement à caractère commercial énumérés par le juge Dickson dans l’arrêt Moldowan c. Ministère du revenu national, [1978] 1 R.C.S. 480, à la page 486, pour déterminer s’il existe une intention subjective de réaliser un profit. Ces critères sont les suivants :
+1) l’état des profits et pertes pour les années antérieures;
+2) la formation du contribuable;
+3) la voie sur laquelle il entend s’engager;
+4) la capacité de l’entreprise de réaliser un profit.
+Ces critères ne sont pas exhaustifs et seront différents selon la nature et la portée de l’entreprise. La Cour suprême, au paragraphe 55 de l’arrêt Stewart, met en garde contre le fait qu’il ne lui appartient pas d’évaluer le sens des affaires du contribuable ou d’évaluer après coup les décisions commerciales du contribuable.
+[30] La Cour observe, au paragraphe 56 de l’arrêt Stewart, qu’il faut distinguer l’activité que le contribuable qualifie de source de revenus des déductions particulières qu’il associe à cette source. Une tentative de déduire ce qui est essentiellement une dépense personnelle n’a pas d’effet sur la qualification de la source à laquelle cette déduction se rapporte.
+[31] La Cour poursuit, aux paragraphes 60 et 61 de l’arrêt Stewart, en résumant ainsi les critères élaborés :
+[60] En résumé, la question de savoir si le contribuable a ou non une source de revenus doit être tranchée en fonction de la commercialité de l’activité en cause. Lorsque l’activité ne comporte aucun aspect personnel et qu’elle est manifestement commerciale, il n’est pas nécessaire de pousser l’examen plus loin. Lorsque l’activité peut être qualifiée de personnelle, il faut alors déterminer si cette activité est ou non exercée d’une manière suffisamment commerciale pour constituer une source de revenus. [...]
+[61] Comme nous l’avons vu, la question de savoir si l’activité exercée par un contribuable constitue une source de revenus est tranchée en se demandant si le contribuable a l’intention d’exercer cette activité en vue de réaliser un profit et s’il existe des éléments de preuve étayant cette intention. De même, lorsqu’une activité est nettement commerciale et ne comporte aucun aspect personnel, il n’est pas nécessaire d’aller plus loin. De telles activités sont des sources de revenus.
+[32] Pour répondre à la question « Le contribuable a-t-il l’intention d’exercer une activité en vue de réaliser un profit et existe-t-il des éléments de preuve étayant cette intention? », le contribuable doit établir que son intention prédominante était de tirer profit de l’activité et que cette activité a été exercée conformément à un comportement d’homme d’affaires sérieux.
+[33] L’intimée fait valoir que M. Larkin n’exerçait aucune activité commerciale. Il n’a produit aucun plan d’affaires. Il n’a produit aucun itinéraire de voyage relatif à des dates ou à des projets précis. Il n’a pas indiqué l’identité des personnes auxquelles il a rendu visite ou avec lesquelles il est entré en contact. Il n’a produit aucun journal de ses réunions d’affaires, aucune correspondance de suivi, aucune prévision budgétaire ni aucun carnet de voyage. M. Larkin n’a produit aucun document de marketing ou de recherche concernant ses activités. En outre, il n’a pas perçu de revenus commerciaux au cours de l’année d’imposition 2011.
+[34] Bien que M. Larkin n’ait effectivement gagné aucun revenu d’entreprise au cours de l’année d’imposition 2011, il affirme qu’il peut falloir des années pour réaliser des profits dans le cadre de ses activités. En effet, il n’est pas rare que des entreprises très risquées et hautement spéculatives telles que la prospection, l’exploitation minière, l’extraction de ressources et bien d’autres activités entrepreneuriales ne dégagent aucun profit pendant de nombreuses années. Le risque est tel qu’il est possible qu’aucun profit ne soit généré. D’un autre côté, un entrepreneur peut faire fortune et gagner des revenus considérables. Mon collègue le juge Hogan, de notre Cour, a commenté la nature spéculative de telles activités ainsi que la difficulté à en tirer des profits dans la décision Michaud c. La Reine, 2014 CCI 83, au paragraphe 14 :
+La prospection est une des premières étapes qui précède l’investissement de capitaux en vue d’entreprendre les travaux d’exploitation minière. Du minerai doit être trouvé en quantité suffisante avant que des capitaux soient investis en vue de la mise en valeur minière et de la production. La plupart du temps, les activités de prospection ne sont pas fructueuses. Beaucoup de temps peut s’écouler entre les étapes de la prospection, de la mise en valeur minière et de la production en tant que telle.
+On peut en dire autant d’un grand nombre d’entreprises.
+[35] Dans la décision Newell c. La Reine, 2010 CCI 196, le juge Margeson a conclu que bien que le contribuable n’ait pas gagné de revenus durant les années faisant l’objet de l’examen, ce facteur n’était pas concluant (au paragraphe 143). L’arrêt Stewart confirme cette proposition, à savoir que l’inexistence de revenus n’est pas un facteur déterminant pour savoir si les activités d’un contribuable constituent une source de revenus.
+[36] M. Larkin a connu du succès dans le passé et il a gagné des sommes importantes; il a payé beaucoup d’impôts sur les revenus de ses entreprises passées. Il continue de rechercher des occasions similaires dans l’espoir de renouer avec le succès. Son expérience antérieure en matière de pertes et de profits dans ses entreprises milite en faveur d’une conclusion selon laquelle il exploitait une entreprise.
+[37] Les qualifications de M. Larkin pour exercer des activités commerciales dans l’industrie des ressources naturelles ne sont pas remises en question, étant donné qu’il a obtenu une licence en géologie et qu’il a travaillé dans l’industrie des ressources naturelles pendant la majeure partie de sa vie professionnelle. Il a également une connaissance des pratiques commerciales puisqu’il a obtenu un MBA. Il a consacré beaucoup de temps et de ressources à la recherche d’occasions dans ce secteur économique et il continuera probablement à le faire. Sa formation et son expérience militent en faveur d’une conclusion selon laquelle il dirigeait une entreprise.
+[38] Le plan d’action prévu par M. Larkin, ou son plan d’affaires, n’est pas complexe. Ses activités passées consistaient principalement à établir des réseaux et à rechercher des occasions d’affaires. Il a assisté à des réunions, à des conférences et à des conventions et il a par ailleurs établi des réseaux et créé des contacts. Ses activités consistaient à tirer un profit pécuniaire des ressources. Il était et est toujours à l’affût de concessions minières et d’occasions. Il semblerait que les activités de M. Larkin aient porté sur la recherche et la préparation et non techniquement sur l’extraction des ressources des concessions qu’il cherchait à exploiter. Ses activités visaient à mettre en relation les investisseurs et les actifs en ressources naturelles qui devaient être exploités au fil du temps; M. Larkin partagerait ensuite les profits. Certains de ses projets sont prometteurs de récompenses futures, mais tous les éléments propres à une réussite ne sont pas encore en place. C’est le cas du projet de graphène, pour lequel il a la technologie et le savoir-faire nécessaires, mais ne dispose pas encore de source de graphite ni de financement pour développer le projet. Son plan d’affaires est axé sur la recherche et l’exploitation d’occasions. Ses activités représentent des efforts soutenus de sa part pour s’assurer des possibilités de profits. La voie sur laquelle il entend s’engager milite en faveur d’une conclusion selon laquelle il dirigeait une entreprise.
+[39] Il ne fait aucun doute que les activités de M. Larkin peuvent générer des profits et la preuve en est qu’il en a effectivement réalisé dans le passé. Par conséquent, M. Larkin a démontré qu’il avait une expectative raisonnable de profit.
+[40] En conclusion, j’estime que M. Larkin a démontré son intention de poursuivre ses activités dans le but de réaliser un profit et qu’il a mené ces activités avec un niveau de commercialité suffisant pour constituer une entreprise. Il pourrait certainement faire preuve de meilleures pratiques commerciales et je constate que sa tenue de registres laisse beaucoup à désirer, mais je conclus tout de même qu’il a mené ses activités avec un niveau de commercialité suffisant pour que celles-ci constituent une entreprise. Ses activités représentaient des efforts soutenus de sa part pour s’assurer des possibilités de profits. Ses entreprises ont connu des succès antérieurs et il a réalisé des profits dans le passé. Il continue de rechercher des occasions similaires dans l’espoir de renouer avec le succès qu’il a connu antérieurement.
+Les dépenses réclamées sont-elles déductibles en tant que frais professionnels?
+[41] L’appelant a produit la pièce A-2 à l’appui de ses frais réclamés pour l’année d’imposition 2011. Cette pièce est constituée de 13 pages de feuilles de calcul présentant environ 390 postes de dépenses distincts, classés par ordre chronologique et fournissant des détails sur le montant payé, le poste payé, l’emplacement, le pourcentage réclamé en tant que frais professionnels et un numéro de référence de dossier. Cette pièce indique un total général de 20 155,96 $, le montant contesté en l’espèce. Les dépenses n’ont pas été classées par catégories et on n’a pas fourni à la Cour de sous-totaux des catégories de dépenses.
+[42] M. Larkin n’a produit aucun document source relatif aux frais réclamés; il a seulement produit ses feuilles de calcul. Cependant, l’avocat de l’intimée admet que les dépenses en question ont en fait été engagées par l’appelant, mais qu’elles ne sont tout simplement pas déductibles en tant que frais professionnels. Par conséquent, compte tenu du fait que les dépenses ont été effectivement engagées, il n’est pas nécessaire de produire des documents sources originaux.
+[43] Les frais professionnels réclamés par M. Larkin ne sont légitimes que s’il peut être démontré que ces frais ont été engagés en vue de tirer un revenu de l’entreprise (alinéa 18(1)a) de la Loi), qu’ils n’ont pas été engagés au titre de frais personnels ou de subsistance du contribuable (alinéa 18(1)h) de la Loi) et qu’ils étaient raisonnables dans les circonstances (article 67 de la Loi).
+[44] L’intimée est d’avis que ces frais n’ont pas été engagés pour gagner un revenu d’entreprise, qu’ils étaient de nature personnelle, qu’ils ont été engagés en tant que frais de subsistance ou qu’ils étaient déraisonnables.
+[45] M. Larkin concède que certains des frais énumérés ont une composante d’utilisation personnelle. Il a fourni une estimation du pourcentage de répartition entre l’utilisation professionnelle et l’utilisation personnelle, que voici :
+Poste
+Utilisation professionnelle (%)
+Vêtements
+10 %
+Maison
+15 %
+Ligne de crédit personnelle
+10 %
+Internet et appels interurbains Primus
+60 %
+Électricité
+15 %
+Ligne téléphonique Bell no 9781
+80 %
+Ligne téléphonique Bell no 7562
+30 %
+Bell Mobilité
+95 %
+Automobile
+30 %
+Divertissement
+50 %
+[46] Un taux de 100 % est indiqué pour les autres dépenses figurant sur cette feuille de calcul. Il s’agit notamment de frais de déplacement et d’hébergement, de frais de participation à des conférences ou à des programmes éducatifs, de repas, ainsi que de frais liés à Virgin Mobile et à Postes Canada. J’ai examiné tous les éléments de la pièce A-2 et je suis disposé à autoriser toutes les dépenses énumérées comme frais professionnels, sauf les suivantes :
+a. Repas – L’appelant avait initialement demandé une déduction de 100 % de tous les frais de repas. Il concède maintenant qu’il ne peut demander que 50 % de ces frais comme déduction aux termes du paragraphe 67.1(1) de la Loi.
+b. Frais d’automobile – L’appelant prétend que 30 % de l’utilisation de son automobile personnelle est liée à une activité professionnelle. Toutefois, il convient de noter que la quasi-totalité des déplacements liés à l’activité professionnelle se fait à l’extérieur de la province, ce qui nécessiterait un transport par avion. De plus, l’appelant n’a utilisé aucun journal de bord pour déterminer la proportion du trajet parcourue dans son véhicule pour son usage personnel et celle parcourue dans le cadre de ses activités d’entreprise. Il n’a pas tenu de registre de la distance parcourue pour affaires, des lieux visités, du but de chaque visite, etc. Faute d’un tel registre ou d’un autre élément de preuve montrant la proportion de ces dépenses imputable aux activités professionnelles, ces dépenses ne devraient pas être autorisées.
+c. Ligne de crédit personnelle – L’appelant réclame 10 % de tous les intérêts payés sur sa ligne de crédit personnelle en tant que frais professionnels. Aucun relevé bancaire n’a été produit indiquant les sommes empruntées ou remboursées sur la ligne de crédit, ni le taux d’intérêt appliqué. Je ne sais absolument pas quelle part de ce qu’il a emprunté a été consacrée à ses activités commerciales. Il n’indique pas comment il a calculé que 10 % des intérêts payés étaient attribuables à un usage commercial.
+d. Vêtements – L’appelant prétend que 10 % de tout ce qu’il a dépensé en vêtements est attribuable à un usage commercial. Je ne sais pas du tout de quels vêtements il s’agit. Plutôt que de réclamer arbitrairement un pourcentage du total dépensé en vêtements, si des vêtements sont nécessaires pour ce genre de travail, alors c’est l’article de vêtement ou l’équipement précis qui devrait être réclamé au titre des frais professionnels. Les frais réclamés pour les vêtements (s’il y en a effectivement eu, puisque je n’ai vu aucun vêtement dans la pièce A-2) sont refusés.
+e. Services téléphoniques – Il semblerait que l’appelant ait utilisé jusqu’à trois téléphones différents à la fois pour son usage personnel et professionnel :
+i. la ligne téléphonique terrestre no 9781 de Bell, dont il prétend que 80 % de l’usage était destiné à des fins professionnelles;
+ii. la ligne téléphonique terrestre no 7562 de Bell, dont il prétend que 30 % de l’usage était destiné à des fins professionnelles;
+iii. le téléphone cellulaire de Virgin Mobile dont il a déclaré que 100 % de l’usage était à des fins professionnelles.
+[47] Il n’est pas raisonnable d’avoir trois téléphones différents qui sont utilisés à la fois pour un usage personnel et professionnel. Si l’on doit avoir plus d’un téléphone, il est plus raisonnable de consacrer un téléphone à un usage personnel et l’autre à un usage professionnel. Cela facilite la tenue des registres. Les activités professionnelles de M. Larkin étaient en grande partie menées hors de son domicile, dans tout le Canada. Il est donc raisonnable qu’il utilise son téléphone cellulaire à des fins professionnelles, à l’exclusion des autres téléphones qui peuvent être consacrés à un usage personnel. Je ne suis pas convaincu qu’il était raisonnable ou nécessaire que M. Larkin utilise trois téléphones à des fins professionnelles. S’il dispose de trois téléphones, il peut en choisir un qui sera consacré à ses activités professionnelles. Les dépenses pour les deux lignes téléphoniques de Bell sont refusées.
+Conclusion
+[48] En conclusion, l’appel interjeté à l’encontre de la nouvelle cotisation établie aux termes de la Loi de l’impôt sur le revenu pour l’année d’imposition 2011 est accueilli, en partie, et l’affaire est renvoyée au ministre pour réexamen et établissement d’une nouvelle cotisation conformément aux motifs suivants :
+L’appelant ne se voit accorder, au titre des frais professionnels, que 50 % des sommes dépensées tout au long de l’année d’imposition 2011 pour des repas;
+Toutes les dépenses réclamées au titre des frais d’automobile tout au long de l’année d’imposition 2011 sont refusées;
+Toutes les dépenses réclamées au titre des intérêts payés sur les sommes empruntées sur la ligne de crédit de l’appelant sont refusées;
+Toutes les dépenses réclamées au titre des vêtements sont refusées;
+Toutes les dépenses réclamées pour les lignes téléphoniques Bell nos 9781 et 7562 sont refusées.
+[49] Toutes les autres dépenses réclamées sont accueillies.
+Signé à Kingston (Ontario), ce 1er jour de septembre 2020.
+« Rommel G. Masse »
+Le juge suppléant Masse
+RÉFÉRENCE :
+2020 CCI 98
+NO DU DOSSIER DE LA COUR :
+2019-328(IT)I
+INTITULÉ :
+DANIEL B. LARKIN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDITION :
+Le 9 mars 2020
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Rommel G. Masse
+DATE DU JUGEMENT :
+Le 1er septembre 2020
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Ahmed Ali
+Me Christopher Kitchen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

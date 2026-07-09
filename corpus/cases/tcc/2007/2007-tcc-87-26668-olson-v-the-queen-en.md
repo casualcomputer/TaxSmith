@@ -1,0 +1,231 @@
+---
+title: "Olson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26668/index.do"
+last_modified: "2007-02-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 87"
+citation2: ""
+neutral_citation: "2007 TCC 87"
+decision_date: "2007-02-20"
+language: "en"
+item_id: "26668"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3610
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:22:39.463000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5d260790010664341c4a5acc0b6e8f12ad0f6bdf383baafa53109305e2065e37"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Olson v. The Queen
+
+- Citation: 2007 TCC 87
+- Decision date: 2007-02-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3610, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Olson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-02-20
+Neutral citation
+2007 TCC 87
+File numbers
+2005-3454(IT)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3454(IT)G
+BETWEEN:
+SHANE E. OLSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 23, 24 and February 12, 2007
+at Saskatoon, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne Jinnouchi
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2000, 2001 and 2002 taxation years is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Costs are awarded to the Respondent.
+Signed at Saskatoon, Saskatchewan this 21st day of February 2007.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2007TCC87
+Date: 20070220
+Docket: 2005-3454(IT)G
+BETWEEN:
+SHANE E. OLSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the General Procedure was heard at Saskatoon, Saskatchewan on January 23 and 24 and February 12, 2007. The Appellant is self-represented. He testified in chief on January 23 and 24 and on February 12, 2007. On January 24, he applied to file as Exhibits several assemblies of documents in support of his appeal. The Court reviewed his List of Documents filed with the Court, in which item 2 described the following:
+2. Personal Bank/Visa statements, reconciliation 00, 01, 02
+The Court then reviewed Rule 84. No Examination for Discovery of the Appellant was undertaken by Respondent's counsel to elicit detail from the Appellant as to what item 2 consisted of. As a result, the Court ruled that the Appellant could file those specific documents (namely, receipts, cheques and reconciliation) which fell within the bounds of the pleadings filed in this appeal. The Notice of Appeal is general. The Reply is detailed; in particular, the only item that the Appellant had not already dealt with related to expenses for his farming operation described in subparagraph 12(e) of the Reply and detailed in Schedule A. Using the 2000 year as an example, the audit allowed $65,558.91 and disallowed $81,047.29. Crown counsel advised that the auditor had given the Appellant a detailed list of the $65,588.91 allowed. Therefore, the Court advised the Appellant that it would allow the Appellant to file documents detailing the $81,047.29 for 2000 and similar farm expense documents for 2001 and 2002. Court was adjourned to February 12, 2007 to allow the Appellant to prepare his documents for evidence in chief for this limited purpose. On February 12, 2007, the Appellant concluded his testimony and Respondent's counsel called the auditor on the file, Robert Berger, C.M.A..
+[2] Paragraph 12 of the Reply to the Notice of Appeal details the items in issue. The entire list of the matters in dispute is set out in paragraphs 4 to 12 and in Sections C and D of the Reply. They read:
+4. In computing income for the 2000, 2001, 2002 and 2003 taxation years, the Appellant reported his taxable income as follows:
+2000
+2001
+2002
+2003
+21,950.80
+21,464.00
+39,345.39
+37,705.00
+5. On June 8, 2004, the Minister of National Revenue (the "Minister") reassessed the Appellant for the 2000, 2001 and 2002 taxation years and increased the Appellant's total income by $106,606, $60,976 and $28,522, respectively, calculated as set out in the attached Schedule "A". Any differences are due to rounding.
+6. The Appellant objected to the 2000, 2001, and 2002 Reassessments dated June 8, 2004 by Notice dated September 7, 2004.
+7. On July 25, 2005, the Minister reassessed the Appellant for the 2000 and 2001 taxation years to reduce the taxable income that had previously been assessed by $3,434 and $52,929, respectively, calculated as set out in the attached Schedule "A". Any differences are due to rounding.
+8. The Minister confirmed the reassessment of the Appellant's 2002 taxation year.
+9. On December 6, 2004, the Minister reassessed the Appellant for the 2003 taxation year to include in the Appellant's income an unreported patronage dividend from the Saskatoon Co-operative Association Ltd. of $1,056.
+10. The Appellant did not file a Notice of Objection to the Minister's December 6, 2004 reassessment of his 2003 taxation year.
+11. In reassessing the Appellant for the 2000, 2001, 2002 and 2003 taxation years, the Minister made the following assumptions of fact:
+a) At all relevant times, the Appellant was involved in farming;
+b) At all relevant times, the Appellant lived in Saskatoon, Saskatchewan;
+c) The Appellant's farm is in Melfort, Saskatchewan;
+d) In the 2000 taxation year, the Appellant reported his farming income on a cash basis;
+e) In the 2001 and 2002 taxation years, the Appellant reported his farming income on an accrual basis;
+f) At all relevant times, the Appellant was the sole shareholder of Shercom Industries Inc. ("Shercom");
+g) Shercom is a corporation incorporated under The Business Corporations Act (Saskatchewan);
+h) The head office of Shercom is located in Saskatoon, Saskatchewan;
+i) The balance in the Appellant's shareholder loan account with Shercom was ($4,634.12) on January 1, 2000;
+j) The balance in the Appellant's shareholder loan account with Shercom was ($111,520.64) on December 31, 2002, which was an increase of $100,735 in 3 years;
+k) At least $51,653.76 of the increase to the credit balance of the Appellant's shareholder loan account was interest paid by Shercom to the Appellant.
+l) In the 2000 taxation year, Shercom credited $13,657.35 in interest payments to the Appellant's shareholder loan account;
+m) In the 2001 taxation year, Shercom credited $23,426.34 in interest payments to the Appellant's shareholder loan account;
+n) In the 2002 taxation year, Shercom credited $14,570.07 in interest payments to the Appellant's shareholder loan account;
+o) Shercom claimed deductions for the interest that it credited to the Appellant's shareholder loan account in the 2000, 2001 and 2002 taxation years;
+p) The Appellant did not report the interest he received from Shercom in his income for the 2000, 2001 and 2002 taxation years;
+q) At all relevant times, the Appellant was an employee of Shercom;
+r) Shercom leased a 1998 Ford Windstar on June 9, 1999;
+s) Shercom traded in the 1998 Ford Windstar and leased a 2000 Ford Windstar on April 20, 2001;
+t) Shercom made the 1998 and 2000 Ford Windstars available to the Appellant (the "Vans");
+u) The Vans were available for the personal use and benefit of the Appellant;
+v) The Appellant drove the 1998 Ford van approximately 46,540 kilometres in the 680 days Shercom had the vehicle;
+w) The average daily kilometres that the 1998 Ford van was driven was 61.57;
+x) The Appellant drove the 2000 Ford van approximately 46,540 kilometres in 665 days;
+y) The average daily kilometres that the 2000 Ford van was driven was 69.85;
+z) The Vans were made available to the Appellant 365 days in each of the 2000, 2001 and 2002 taxation years;
+aa) The Appellant drove the 1998 Ford van approximately 24,585 kilometres in the 2000 taxation year;
+bb) The Appellant drove the Vans approximately 25,495 kilometres in the 2001 taxation year;
+cc) The Appellant drove the 2000 Ford van approximately 25,495 kilometres in the 2002 taxation year;
+dd) In the 2000 taxation year, approximately 14,796 kilometres or 60% of the distance the Appellant traveled in the 1998 Ford van was in the course of his employment with Shercom;
+ee) In the 2001 taxation year, approximately 18,322 kilometres or 72% of the distance the Appellant traveled in the Vans was in the course of his employment with Shercom;
+ff) In the 2002 taxation year, approximately 15,549 kilometres or 61% of the distance the Appellant traveled in the 2000 Ford van was in the course of his employment with Shercom;
+gg) The Appellant was not required by Shercom to pay expenses pertaining to the use and maintenance of the Vans;
+hh) The Appellant did not pay any amount to Shercom for his personal use of the Vans;
+ii) Shercom did not include in the Appellant's T4 slip for the 2000, 2001 or 2002 taxation years any benefit in respect of the Appellant's use of the Vans;
+jj) In its taxation year ending July 31, 2001, Shercom paid the Appellant rent of $16,429 by way of two cheques (the "Rent");
+kk) The Rent related to the lease of a 92 Freightliner;
+ll) At its year end of July 31, 2001, Shercom reduced the rent that was paid to the Appellant by $8,000 by debiting the Appellant's shareholder loan account for that amount;
+mm) The Appellant did not report the rent of $8,429 that he received from Shercom;
+nn) The Appellant incurred expenses of no more than $7,098.06 with respect to renting the 92 Freightliner to Shercom;
+oo) The Appellant failed to report net rental revenue of $1,330.94 in the 2001 taxation year;
+pp) The Appellant sought to deduct expenses, including capital cost allowance, of $146,606.20 when calculating his net farming income for the 2000 taxation year;
+qq) The Appellant's calculation of his expenses for the 2000 taxation year was $12,921.13 less than the expenses he sought to deduct on his Statement of Farming Activities;
+rr) The Appellant had documentation to support no more than $80,710.90 of the expenses the Appellant sought to deduct for the 2000 taxation year;
+ss) Approximately $4,727.25 of the expenses the Appellant sought to deduct for the 2000 taxation year related to Shercom's business and were credited to the Appellant's shareholder loan account with Shercom;
+tt) The Appellant did not incur expenses, including capital cost allowance, of more than $81,047.09 in order to gain or produce farming income in the 2000 taxation year;
+uu) The Appellant deducted expenses, including capital cost allowance, of $159,087.00 when calculating his net farm income for the 2001 taxation year;
+vv) The Appellant had documentation to support expenses of no more than $205,289.50 for the 2001 taxation year;
+ww) The Appellant sought to deduct expenses of $16,171.05 in addition to the expenses allowed by the Minister for the 2001 taxation year (the "Additional Expenses");
+xx) At least $5,583.58 of the Additional Expenses related to Shercom's business and were credited to the Appellant's shareholder loan account with Shercom or were already allowed;
+yy) $9,151.05 of the Additional Expenses incurred for the purchase of fertilizer and chemicals was not incurred by the Appellant for the purpose of earning income from the Appellant's farming operation;
+zz) The Appellant did not incur expenses, including capital cost allowance, of more than $205,388.84 in order to gain or produce farming income in the 2001 taxation year;
+aaa) The Appellant sought to deduct expenses, including capital cost allowance, of $32,401.00 when calculating his net farm income for the 2002 taxation year;
+bbb) At least $7,098.00 of the expenses the Appellant sought to deduct for the 2002 taxation year related to Shercom's business and were accounted for by Shercom; and
+ccc) The Appellant did not incur expenses, including capital cost allowance, of more than $25,303.00 in order to gain or produce farming income in the 2002 taxation year.
+B. ISSUES TO BE DECIDED
+12. The issues to be decided in this appeal are:
+a) whether the appeal filed by the Appellant with respect to the 2003 taxation year is properly before the Court;
+b) whether $13,657.35, $23,426.34 and $14,570.07 should be included in the Appellant's income as amounts received or receivable by the Appellant as, on account of, in lieu of payment or in satisfaction of, interest, in the 2000, 2001 and 2002 taxation years respectively;
+c) what is the amount of the benefit the Appellant is required to include in his taxable income for the 2000, 2001 and 2002 taxation years with respect to his personal use of the Vans;
+d) whether the Appellant is required to include in his income for the 2001 taxation year net rental revenue of $1,330.94; and
+e) whether the Appellant is entitled to deduct expenses, including capital cost allowance, in excess of amounts allowed by the Minister in the 2000, 2001 and 2002 taxation years.
+C. STATUTORY PROVISIONS RELIED ON
+He relies on sections 3, 9, 15 and 166.1, subsections 6(2), 12(1), 18(1), 165(1) and 248(1) and paragraph 6(1)(e) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the "Act").
+D. GROUNDS RELIED ON AND RELIEF SOUGHT
+1. It is submitted that the Appellant did not file an objection to the Notice of Reassessment dated December 6, 2004 for the 2003 taxation year within the 90 day period specified in subsection 165(1) of the Act. Nor did the Appellant file with the Minister a request for an extension of time to file an objection to the Notice of Reassessment dated December 6, 2004 within the time period specified in section 166.1(7) of the Act. As a result, the Appellant has not satisfied the conditions in subsection 165(1) and section 166.1 of the Act and his Notice of Appeal is not properly before the Court. Accordingly, the Appellant's appeal should be quashed.
+2. Further, it is submitted that if the Appellant's appeal is properly before the Court, which is not admitted but is denied, the Minister properly assessed the Appellant's net tax for the 2003 taxation year.
+3. It is submitted that the amounts of $13,657.35, $23,426.34 and $14,570.07 were properly included in the Appellant's income in the 2000, 2001 and 2002 taxation years, respectively, pursuant to paragraph 12(1)(c) of the Act since each amount was received or was receivable by the Appellant on account of or in satisfaction of interest.
+4. It is submitted that at least 40%, 28% and 39% of the kilometres put on the Vans in the 2000, 2001 and 2002 taxation years, respectively, related to the Appellant's personal use of the 1998 and 2000 Ford vans and were not in connection with or in the course of the Appellant's employment with Shercom.
+5. It is submitted that the Appellant's reasonable standby charge in respect of the 1998 and 2000 Ford vans in the 2000, 2001 and 2002 taxation years was correctly calculated in accordance with paragraph 6(1)(e) and subsection 6(2) of the Act.
+6. It is submitted that the Appellant failed to report net rental revenue of $1,330.94 in the 2001 taxation year.
+7. It is submitted that the Appellant did not incur expenses, including capital cost allowance, of more than $81,047.09, $205,388.84 and $25,303.00 in the 2000, 2001 and 2002 taxation years, respectively, for the purpose of gaining or producing farming income pursuant to paragraph 18(1)(a) of the Act.
+8. He requests that the appeal be dismissed with costs.
+[3] Assumptions 11(a) to (oo), inclusive, were not refuted by the Appellant in his evidence in chief on January 23 and 24. In particular, he stated that his four children, his wife and he were travelling illegally in a smaller vehicle when Shercom no longer had the vans, implying personal use of the vans. The 1998 van was purchased and owned by Shercom. Both the Appellant's and Shercom's names are on the offer to purchase the 2000 van, but Shercom depreciated 100% of it; therefore, the Court finds that it is Shercom's too. Moreover, Shercom transferred the 2000 van to the Appellant in 2003. The Appellant's evidence did not refute the assumptions in support of issue 12(c). Therefore his appeal relating to these issues is dismissed.
+[4] Respecting issue 12(a), the Appellant admitted that he had not filed a Notice of Objection for his 2003 taxation year. Therefore, the purported appeal for that year is quashed.
+[5] Respecting issue 12(b), the Appellant stated in his testimony in chief that the interest assessed had been issued to him in respect to shareholder's loans to Shercom on the advice of his accountant. He also claimed that he had loaned large sums of money in each of the years in question to Shercom. But he said that he had not received any money from Shercom. However, the Appellant and Shercom had instituted the interest charges in order to benefit from a loss of opportunity claim in Shercom's legal action against the manufacturer of a defective tire-shredding machine purchased by Shercom for use in its tire recycling business.
+[6] Two problems arise in this appeal and they were both caused by the Appellant himself. The first is that he did not distinguish between himself and Shercom in business operations, purchases or anything else. He continued this practice during his testimony, although the Court pointed out the difference and the reasons for it. The second is that in 2000 he was on a cash basis. However, after that he was short of cash so he went on an accrual basis. As a result, at times he did not pay bills and yet deducted them while he continued to receive income. This problem was exacerbated when the Appellant returned to the stand on February 12, 2007 and proposed he claim a deduction for bills that he had paid in 2001 and 2002, but which had already been claimed on the accrual basis.
+[7] The Appellant's claims for farm expenses in respect to some items were conceded by Respondent's counsel. The Appellant and the Respondent's auditor went through them in detail on February 12, 2007. The following are allowed as particularized by year and exhibit number:
+(1) 2000 - Exhibit A-13 - ALLOWED $414.50 LESS GST
+- Princess Auto Nov 13, as above, allowed $414.50 less GST.
+- In particular, his claim for an office in the home is new and is not sufficiently particularized to be allowed.
+(2) 2001 - Exhibit A-14 - ALLOWED $9,151.05
+- Paragraph 9g, allowed, as above, by consent $9,151.05.
+- He also claimed a further $1,500 rent paid. However, one $1,500 claim was allowed and without full documentation distinguishing these two, his second claim is not allowed.
+- Two other Agri condo claims of $1,126.28 and $1,148.31 were also put forward by the Appellant. However, without the documents and clear proof by the Appellant that they have not already been allowed, they are denied.
+- The Appellant's claim to deduct $1,728 insurance fee on a 1992 Freightliner in order that Shercom could use it to haul tires is denied. He testified that he and Shercom each owned an interest in it; Mr. Olson, for farm use, for which he had paid a lower insurance premium and Shercom, for commercial use. He stated that the $1,728 was the extra insurance premium so that Shercom could use it, therefore it is a Shercom expense.
+- "interest to Ruud" $3,600 - this claim has no documentary support at all. The Appellant alleges that he paid interest to Mr. Ruud, who purchased two ¼ sections of farmland for him. Mr. Ruud is a relative, therefore without suitable documentation this claim is denied.
+- Finally, he claimed two Princess Auto amounts of $620.59 and $1,615.97. Both of these were already claimed by Shercom.
+(3) 2002 - Exhibit A-16
+- Canada Revenue Agency disallowed $7,098. The auditor testified that this consisted of two Freightliner payments of $3,459.03 each. They were denied to the Appellant because he had no farm revenue in 2002. He had quit farming. The Appellant did not give any detailed evidence as to dates of leaving farming, equipment, grain sales or any detail of income amounts. As a result, this claim fails. He has not satisfied the onus of proof on him.
+[8] As a result, the appeal is allowed in respect to issue 12(e) only as to those items detailed in paragraph [7] hereof.
+[9] The Appellant's evidence did not refute the assumptions in support of issue 12(d). As a result, the appeal respecting this issue is denied.
+[10] The appeal is allowed and the matter is remitted to the Minister for reconsideration and reassessment pursuant to the particulars contained in paragraphs [7] and [8] hereof.
+[11] The Respondent is awarded party and party costs on account of this appeal.
+Signed at Saskatoon, Saskatchewan this 21st day of February 2007.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2007TCC87
+COURT FILE NO.: 2005-3454(IT)G
+STYLE OF CAUSE: Shane E. Olson v. The Queen
+PLACE OF HEARING: Saskatoon, Saskatchewan
+DATE OF HEARING: January 23 and 24 and February 12, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: February 20, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brooke Sittler
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

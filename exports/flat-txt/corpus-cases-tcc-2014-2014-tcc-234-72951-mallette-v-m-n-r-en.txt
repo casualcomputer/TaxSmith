@@ -1,0 +1,170 @@
+Title: Mallette v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/72951/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-234-72951-mallette-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2014-07-22
+
+# Mallette v. M.N.R.
+
+- Citation: 2014 TCC 234
+- Decision date: 2014-07-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5276, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mallette v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-07-22
+Neutral citation
+2014 TCC 234
+File numbers
+2012-2499(EI)
+Judges and Taxing Officers
+Rommel G. Masse
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2012-2499(EI)
+BETWEEN:
+MARIE-ANDRÉE MALLETTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on March 21, 2014, at Montréal, Quebec.
+Before: The Honourable Rommel G. Masse, Deputy Judge
+Appearances:
+Agents for the appellant:
+Catherine Jobin, Student-at-Law Catherine Boilard, Student-at-Law
+Counsel for the respondent:
+Sara Jahanbakhsh
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Kingston, Ontario, this 22nd day of July 2014.
+“Rommel G. Masse”
+Masse D.J.
+Translation certified true
+on this 5th day of September 2014
+Margarita Gorbounova, Translator
+Citation: 2014 TCC 234
+Date: 20140722
+Docket: 2012-2499(EI)
+BETWEEN:
+MARIE-ANDRÉE MALLETTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Masse D.J.
+[1] Does a person who sits on an advisory committee hold an office included as insurable employment within the meaning of the Employment Insurance Act, S.C. 1996, c. 23?
+[2] In this case, this is an appeal from a decision of the Minister of National Revenue (the Minister) dated May 23, 2012, under the Employment Insurance Act, S.C. 1996, c. 23, as amended (the Act), concerning the insurability of employment for the period from January 1, 2010, to February 7, 2011 (the period).
+[3] The appellant is appealing that decision.
+Factual background [4] The salient facts are undisputed. The payer is the Government of Canada, Treasury Board Secretariat (the Secretariat). The appellant has been a lawyer since 1986 and is self-employed. She operates a law firm under the name “Marie‑Andrée Mallette, Avocate‑Lawyer”. The firm is located in Châteauguay, Quebec. The appellant specializes in commercial and corporate law, international transactions, real-estate law, agricultural law and civil litigation.
+[5] Under section 16.21 of the Financial Administration Act, R.S.C. 1985, c. F‑11 (FAA), the Secretariat appointed the appellant as a member of the Treasury Board Secretariat of Canada’s Audit Committee (the Committee) as of April 10, 2008. The Committee’s role is to [Translation] “provide independent and objective advice and recommendations to the deputy head with regard to the completeness, quality and results of assurance on the adequacy and functioning of the Department’s risk management, control and governance frameworks and processes (including accountability and auditing systems)” (see Exhibit A‑1, tab 5). The Committee is a strategic resource for the deputy head. At the deputy head’s request, the Committee may provide advice and recommendations and prepare reports on departmental priorities, concerns, and risks with a view to improving the responsible management of public funds and accountability. The deputy head may use this information to manage risks and improve the department’s performance. The committee members are recruited from outside federal public administration. The Committee has no decision-making power. The Committee’s role is strictly advisory. The Committee may make recommendations and draft legal opinions on the risks to be identified in the Deputy Minister’s internal audit reports. Those recommendations are not binding on the Deputy Minister. The Committee members do not represent anybody, and they are not accountable to anybody.
+[6] The appellant was not governed by the collective agreement of Crown employees, and she was not an employee. During the period, the appellant continued to practise as a lawyer. The appellant and the Secretariat considered the appellant’s appointment as a member of the Committee to not be insurable.
+[7] The Committee members are appointed by the Treasury Board through an Order in Council on the recommendation of the Treasury Board President. The appointees hold their positions “at pleasure”, but it is a four-year term, renewable only once. The appointment may be terminated at any time without prior notice and without any further compensation. The Treasury Board’s appointees are deemed to be government officials for the purposes of the Policy on Legal Assistance and Indemnification. Audit Committee members’ fees are established at $1,500 per day or $200 per hour. Travel and related expenses are reimbursed. Appointees must attend and participate in audit committee meetings, which are usually held in the National Capital region, a minimum of four times per year, as arranged by the President of the Treasury Board. Appointees must also attend and participate in other meetings or teleconferences as needed. Appointees must also prepare written presentations, reports and analyses; participate in presentations, information sessions and evaluations; and perform other related functions as needed.
+Statutory provisions [8] The statutory provisions of the Act read as follows:
+5. (1) Subject to subsection (2), insurable employment is
+. . .
+(d) employment included by regulations made under subsection (4) or (5); and
+. . .
+(4) The Commission may, with the approval of the Governor in Council, make regulations for including in insurable employment
+. . .
+(g) the tenure of an office as defined in subsection 2(1) of the Canada Pension Plan.
+[9] The relevant provisions in the Regulations read as follows:
+6. Employment in any of the following employments, unless it is excluded from insurable employment by any provision of these Regulations, is included in insurable employment:
+(f) employment of a person who holds an office, as defined in subsection 2(1) of the Canada Pension Plan,
+(i) in or under any department or other portion of the federal public administration set out in Schedule I, II, III, IV or V to the Financial Administration Act,
+[10] The Plan defines an office as follows:
+2(1) In this Act,
+. . .
+“office” and “officer” “office” means the position of an individual entitling him to a fixed or ascertainable stipend or remuneration. and includes a judicial office, the office of a minister of the Crown, the office of a lieutenant governor, the office of a member of the Senate or House of Commons, a member of a legislative assembly or a member of a legislative or executive council and any other office the incumbent of which is elected by popular vote or is elected or appointed in a representative capacity, and also includes the position of a corporation director, and “officer” means a person holding such an office;
+[11] The relevant provisions of the FAA read as follows:
+16.1 The deputy head or chief executive officer of a department is responsible for ensuring an internal audit capacity appropriate to the needs of the department.
+16.2 Subject to and except as otherwise provided in any directives issued by the Treasury Board under paragraph 7(1)(e.2), the deputy head or chief executive officer of a department shall establish an audit committee for the department.
+16.21 (1) A person who does not occupy a position in the federal public administration but who meets the qualifications established by directive of the Treasury Board may be appointed to an audit committee by the Treasury Board on the recommendation of the President of the Treasury Board.
+(2) A member of an audit committee so appointed holds office during pleasure for a term not exceeding four years, which may be renewed for a second term.
+(3) A member of an audit committee so appointed shall be paid the remuneration and expenses fixed by the Treasury Board.
+[12] The Treasury Board is listed in Schedule I of the FAA.
+Position of the parties [13] The appellant maintains that she does not hold an office within the meaning of paragraph 5(4)(g) of the Act. She stated that paragraph 6(f) of the Employment Insurance Regulations SOR/96-332 (the Regulations), which refers to the definition of “office” in subsection 2(1) of the Canada Pension Plan, R.S.C. 1985, c. C‑8 (the Plan) does not refer to the mandate of the Committee members. The members are not elected or appointed to an authoritative governance position, a public service position, a position of director of a corporation or a position of a representative. The Committee members represent nobody, assume only an advisory role and have no decision-making or administrative power. The list of mandates in subsection 2(1) of the Plan is more similar to a board of directors’ position. In addition, the appellant argues that her mandate is not insurable employment because it is casual employment for purposes other than the employer’s business. Her mandate is not the employer’s main activity. Therefore, according to the appellant, the appeal should be allowed.
+[14] The respondent argues that the appellant, as a member of the committee, held a position entitling her to a fixed or ascertainable stipend or remuneration within the meaning of the definition of “office” in subsection 2(1) of the Plan. The respondent also argues that this office was held with a department listed in Schedule I of the FAA, in this case, the Treasury Board. Therefore, the respondent correctly decided that the appellant held an office included as insurable employment, in accordance with paragraphs 5(1)(d) and 5(4)(g) of the Act because the conditions in subparagraph 6(f)(i) of the Regulations have all been met. Thus, the respondent submits that the appeal should be dismissed.
+Analysis [15] It cannot be disputed that there is no relationship of subordination between the appellant and the Secretariat. The appellant and the Secretariat were not bound by a contract of employment under the common law or the civil law. The appellant is not an employee of the Secretariat.
+[16] The central issue to be determined is whether the appellant held an office within the meaning of subsection 2(1) of the Plan. If she held an office within the meaning of subsection 2(1) of the Plan, she held pensionable employment under the Plan.
+[17] In Vachon Estate v. R., 2009 FCA 375, [2009] F.C.J. No. 1630 (QL), 2010 D.T.C. 5032, Justice Noël of the Federal Court of Appeal had to discuss the meaning of the word “office” within the meaning of subsection 248(1) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) (the ITA). The wording of subsection 248(1) of the ITA is very similar to that of subsection 2(1) of the Plan. Justice Noël explained at paragraph 36 that the legal tests underlying the existence of an office are two-fold:
+[36] In this case, the relevant legal tests underlying the existence of an office are twofold: first, the individuals involved must hold an “office, the incumbent of which is elected by popular vote or is elected or appointed in a representative capacity” and, second, the position in question must entitle the individual to a fixed or ascertainable stipend or remuneration.
+[Emphasis added.]
+[18] In Ontario v. Canada (Minister of National Revenue - M.N.R.), 2011 FCA 314, [2011] F.C.J. No. 1616 (QL), 427 N.R. 357, the Minister had determined that two members of the Ontario Judicial Appointments Committee, established by the government of Ontario in accordance with the Courts of Justice Act, R.S.O. 1990, c. C.43, held pensionable employment under the Plan. Ontario succeeded before the Tax Court of Canada, and the Minister appealed to the Federal Court of Appeal. The mandate of the Committee is to recruit, interview and recommend to the Attorney General candidates who are qualified and suitable to be appointed as judges of the Ontario Court of Justice. The Committee reviews applications for such appointments, conducts reference checks and interviews, and provides the Attorney General with a ranked list of qualified candidates. Appointments must be made from that list. The Committee is independent of the Ministry of the Attorney General and the provincial government. The Committee’s tasks were strictly advisory, not administrative. They received a daily rate set by Order in Council. The two members of the Committee were not employees of Ontario. Rather, they were holders of an office. The question before the Court was whether an entitlement to remuneration based on a stated amount of money for each day of service is “fixed or ascertainable”. The Federal Court of Appeal, per Justice Sharlow, decided that an entitlement to remuneration based on a pre‑established daily rate is sufficiently “fixed or ascertainable” to meet regulatory criteria. The Court therefore allowed the Minister’s appeal. The Federal Court of Appeal came to the same conclusion in Real Estate Council of Alberta v. Canada (Minister of Revenue), 2012 FCA 121, [2012] F.C.J. No. 680 (QL), 434 N.R. 32.
+[19] In this case, the appellant received a daily rate of pay of $1,500 per day or $200 per hour. The rate was known in advance. Therefore, I agree with the respondent that the conditions of the stipend or remuneration established or known in advance were “fixed or ascertainable”. Thus, one of the legal tests to which Justice Noël referred in Vachon, supra, was fulfilled.
+[20] In Ontario, supra, and Real Estate Council of Alberta, supra, the first criterion of an “. . . office the incumbent of which is elected . . . or appointed in a representative capacity” was not disputed. The Federal Court of Appeal examined only the second criterion, that is, “entitling him to a fixed or ascertainable stipend or remuneration”.
+[21] However, the other criterion characterizes the definition of “office” in a significant way. It is to be noted that the Federal Court in Ontario, supra, and Real Estate Council of Alberta, supra, did not rule on the scope of the following wording found in section 2 of the Plan:
+. . . includes a judicial office, the office of a minister of the Crown, the office of a lieutenant governor, the office of a member of the Senate or House of Commons, a member of a legislative assembly or a member of a legislative or executive council and any other office the incumbent of which is elected by popular vote or is elected or appointed in a representative capacity, and also includes the position of a corporation director, . . . .
+[Emphasis added.]
+[22] If I understand correctly, the appellant’s argument is based on the second criterion. The appellant argues that the Committee members are not part of the list of people found in the definition of the word “office”. The appellant contends that the list is specific in its inclusion of elected or appointed persons in an authoritative governance position or public service role and cannot be taken to include persons in a mere advisory capacity as the Committee members are. More specifically, the appellant argues that the Committee members were not appointed in a representative capacity. She is relying on the definition of “representative” found in various dictionaries in support of this claim. The Dictionnaire de Droit Québécois et Canadien, 4th edition, defines “représentant, (ante)” as “Personne qui accomplit un acte au nom, à la place et pour le compte d’une autre personne, le représenté, en vertu d’un pouvoir qui lui a été conféré par la loi, par une décision du tribunal ou par une convention”. “Représentatif, (ive)” is defined as “Se dit d’un organe qui exprime l’opinion de l’ensemble de la population ou d’un groupe de personnes déterminé. Ex. Le Barreau est représentatif de ses membres.” Black’s Law Dictionary, Fifth Edition, an American dictionary, defines “representative” as “One who represents or stands in the place of another. One who represents others or another in a special capacity, as an agent, and term is interchangeable with “agent”. A person chosen by the people to represent their several interests in a legislative body; e.g. representative elected to serve in Congress from a state congressional district. “Representative” includes an agent, an officer of a corporation or association, and a trustee, executor or administrator of an estate, or any other person empowered to act for another”.
+[23] Unfortunately, this argument cannot help the appellant. In my view, there is nothing in the wording of subsection 2(1) of the Plan that leads to the conclusion that advisory committee members are excluded from the definition of “office”. Based on the normal rules of interpretation, the definition given in legislation is not exhaustive when it is followed by the word “includes”: Zellers Inc. v. New Brunswick (Minister of Finance), [1998] 3 C.T.C. 55 (B.R.N.B.); Séguin v. R., [1996] T.C.J. No. 1643 (QL), [1998] 1 C.T.C. 2453 (T.C.C.).
+[24] My learned colleague, Justice Hershfield, considered the same argument in Nuclear Waste Management Organization v. Canada (Minister of National Revenue – M.N.R.), 2012 TCC 217, [2012] T.C.J. No. 167 (QL). Justice Hershfield had to decide whether members of the advisory council of the Nuclear Waste Management Organization held an office. As in this case, it was an advisory committee, not a board of directors. The committee members did not hold an authoritative governance position or a public service position. Justice Hershfield observed that the definition of the word “office” in subsection 2(1) of the Plan starts off with a broad definition followed by some expressly enumerated examples. Acknowledging that the presumption against tautology dictates that Parliament avoids meaningless words, Justice Hershfield concluded that the list of positions specifically enumerated is simply added “for greater certainty to include specific persons that due to their public service or somewhat unique way of attaining their position may have been seen as falling outside the initial broad definition of ‘office’” (see paragraphs 24 to 26).
+[25] Justice Hershfield referred to the words “means” and “includes”, found in the English version of subsection 2(1) of the Plan, which reads as follows:
+2(1) In this Act,
+. . .
+“office” means the position of an individual entitling him to a fixes or ascertainable stipend or remuneration and includes a judicial office, the office of a minister of the Crown, the office of a lieutenant governor, the office of a member of the Senate or House of Commons, a member of a legislative assembly or a member of a legislative or executive council and any other office the incumbent of which is elected by popular vote or is elected or appointed in a representative capacity, and also includes the position of a corporation director, and “officer” means a person holding such an office.
+[Emphasis added.]
+[26] Justice Hershfield expressed himself with such eloquence and concision in his Reasons for Judgment that I can do no better than to repeat his dictum. Justice Hershfield explains as follows:
+[21] Nonetheless, it strikes me that while the definition of “office” may reflect a less than precise drafting style, it does not invite the construction advanced by the Appellant.
+[22] The definition of the term “office” starts off with the word “means”. Generally, if a definition is introduced by the word “means” then that which is enumerated is exhaustive. On the other hand, if a definition is introduced by the word “includes” it is simply illustrating examples and an enumerating list is not exhaustive.
+[23] The problem with the definition of “officer” here is that it uses both terms “means” and “includes”. There are two different components to the definition of an officer. The first component is far reaching and broad but is exhaustive in terms of the criterion for inclusion: “a position of an individual entitling him to a fixed or ascertainable stipend or remuneration”. Under that definition the Advisory Council members hold an “office”. While, generally at least, that might be the end of the construction exercise, we are faced with a further, more specific, type of position that Parliament seemingly meant to be applied using the expressio unius est exclusio alterius rule.
+[24] The inclusion in the definition of “office” of this more specific group, limited in its membership to those expressly enumerated, appears to be redundant since its members appear to fall into the broader group embraced by the first part of that definition. However, the presumption against tautology dictates that their secondary inclusion cannot be seen as redundant. To eliminate the redundancy, the more specific group, a special public service group, must, by virtue of special mention, be seen as effectively divorced from the broadly defined group and brought back in as, and only as, specifically included in that special public service group. Hence, the Governor General is carved out because that position is not included in the list of “offices” within the additional group. This result is achieved by applying the limiting ejusdem generis rule to the list but not to the broader group that precedes it.
+[25] One might also find support for this construction under the microscope of the noscitur a sociis or associated meaning rule of construction. There is something about the “colour” of the enumerated list that strikes me as narrowing the broader definition of “office” in respect of a particular category of person without undermining the broadness of the broader definition in respect of persons not in that particular category.
+[26] Lest this reasoning appears too tortured, I suggest that this special public service group is simply added for greater certainty to include specific persons that due to their public service or somewhat unique way of attaining their position may have been seen as falling outside the initial broad definition of “office”. This conclusion is in conformity with giving the words “means” and “includes” used in sequence their ordinary meaning. Regardless, the effect is the same - the Advisory Council members hold an “office”.
+. . .
+[29] It also needs to be mentioned that the Appellant’s counsel took me through various enactments in the attempt to persuade me that a purposive construction of the definition of “office” in the Plan would require my finding that the Advisory Council members were not meant to be included as persons having a role that made them persons having pensionable employment. The argument is rooted, however, in the fact that the role played by the Advisory Council members was not similar to that of the listed inclusions in the definition of “office”. The enumerated positions were descriptive of persons such as judges, Ministers of government departments and corporate directors who all have real authority. That is, their “office” reflects an “officer” as a person with authority. The Advisory Council members do not enjoy any authority.
+[30] With respect, that argument, even coupled with capable submissions on the difficulties of working with words such as “means” and “includes” does not persuade me to find in favour of the Appellant.
+[31] The Advisory Council members have a role to perform and receive remuneration for performance of that role. I am satisfied that in their appointed position, being entitled to such remuneration, they enjoyed the tenure of an office. They were, therefore, engaged in pensionable employment throughout the subject periods.
+. . .
+[38] Accordingly, for all these reasons, the appeal is dismissed, without costs.
+[27] In my view, Justice Hershfield’s analysis in Nuclear Waste Management Organization, supra, provides a complete and determinative response to the appellant’s arguments.
+Conclusion [28] I find that the appellant, as a member of the Committee, held an office within the meaning of subsection 2(1) of the Plan and, thus, held insurable employment within the meaning of subparagraph 6(f)(i) of the Regulations, in accordance with paragraphs 5(1)(d) and 5(4)(g) of the Act.
+[29] For these reasons, the appeal is dismissed.
+Signed at Kingston, Ontario, this 22nd day of July 2014.
+“Rommel G. Masse”
+Masse D.J.
+Translation certified true
+on this 5th day of September 2014
+Margarita Gorbounova, Translator
+CITATION:
+2014 TCC 234
+COURT FILE NO.:
+2012-2499(EI)
+STYLE OF CAUSE:
+MARIE-ANDRÉE MALLETTE v. M.N.R.
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+March 21, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Rommel G. Masse, Deputy Judge
+DATE OF JUDGMENT:
+July 22, 2014
+APPEARANCES:
+Agents for the appellant:
+Catherine Jobin, Student-at-Law Catherine Boilard, Student-at-Law
+Counsel for the respondent:
+Sara Jahanbakhsh
+COUNSEL OF RECORD:
+For the appellant:
+Names
+Catherine Jobin, Student-at-Law Catherine Boilard, Student-at-Law
+Firm:
+Faculté de droit – Université Laval
+Québec, Quebec
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

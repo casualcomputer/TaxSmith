@@ -1,0 +1,154 @@
+Title: Mueller c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31049/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-3-31049-mueller-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-01-08
+
+# Mueller c. La Reine
+
+- Citation: 2013 CCI 3
+- Decision date: 2013-01-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4872, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mueller c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-01-08
+Référence neutre
+2013 CCI 3
+Numéro de dossier
+2012-1403(IT)I, 2012-1404(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1403(IT)I
+ENTRE :
+KELLY MUELLER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel
+de Brittany Mueller (2012-1404(IT)I) le 5 décembre 2012, à Toronto (Ontario).
+Devant : L’honorable juge J. M. Woods
+Comparutions :
+Représentante de l’appelante :
+Mme Kathryn Mueller
+Pour l’intimée :
+Mme Nicole Walton (stagiaire en droit)
+Me Rishma Bhimji
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 est rejeté.
+Signé à Ottawa (Ontario), ce 8e jour de janvier 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 8e jour de février 2013.
+Alya Kaddour‑Lord, traductrice
+Dossier : 2012-1404(IT)I
+ENTRE :
+BRITTANY MUELLER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel
+de Kelly Mueller (2012-1403(IT)I) le 5 décembre 2012, à Toronto (Ontario).
+Devant : L’honorable juge J. M. Woods
+Comparutions :
+Représentante de l’appelante :
+Mme Kathryn Mueller
+Pour l’intimée :
+Mme Nicole Walton (stagiaire en droit)
+Me Rishma Bhimji
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 est rejeté.
+Signé à Ottawa (Ontario), ce 8e jour de janvier 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 8e jour de février 2013.
+Alya Kaddour‑Lord, traductrice
+Référence : 2013CCI3
+Date : 20130108
+Dossier : 2012-1403(IT)I
+ENTRE :
+KELLY MUELLER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2012-1404(IT)I
+ET ENTRE :
+BRITTANY MUELLER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Les appelantes, Kelly et Brittany Mueller, ont emprunté de l’argent au moyen d’une marge de crédit spécialement destinée aux étudiants offerte par la Banque de Montréal (BMO). La question en litige est de savoir si le crédit d’impôt pour prêts aux étudiants prévu par l’article 118.62 de la Loi de l’impôt sur le revenu (la Loi) s’applique aux intérêts que les appelantes ont payés sur l’argent emprunté au moyen de cette marge de crédit.
+[2] Les appels ont trait à des nouvelles cotisations établies à l’égard des appelantes pour l’année d’imposition 2010. Le montant des intérêts en cause s’élève à 2 885 $ pour Kelly Mueller et à 2 001 $ pour Brittany Mueller.
+[3] L’article 118.62 de la Loi est reproduit ci‑dessous.
+118.62. Crédit pour intérêts sur les prêts aux étudiants – Le montant obtenu par la formule suivante est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+A x B
+où :
+A représente le taux de base pour l’année;
+B le total des montants (sauf un montant versé en paiement intégral ou partiel d’un jugement) représentant chacun un montant d’intérêt payé au cours de l’année (ou d’une des cinq années d’imposition précédentes postérieures à 1997, dans la mesure où il n’a pas été inclus, pour une autre année d’imposition, dans le calcul de la déduction prévue par le présent article) par le particulier ou une personne qui lui est liée sur un prêt consenti au particulier, ou tout autre montant dont il est débiteur, en vertu de la Loi fédérale sur les prêts aux étudiants, de la Loi fédérale sur l’aide financière aux étudiants ou d’une loi provinciale régissant l’octroi d’aide financière aux étudiants de niveau postsecondaire.
+[4] Les appelantes, qui sont sœurs, étaient représentées à l’audience par leur mère, Kathryn Mueller.
+Le contexte factuel
+[5] En vue de financer leurs études postsecondaires, les appelantes ont toutes deux pris une marge de crédit à la BMO, qui offrait un programme spécialement conçu pour les étudiants. Dans le passé, les appelantes s’étaient vu refuser l’accès au programme de prêts aux étudiants du gouvernement fédéral au motif que le revenu de leurs parents était trop élevé.
+[6] Le programme offert par la BMO s’appelait la Marge-crédit aux étudiants. Dans la publicité qu’elle a faite pour promouvoir ce programme, la BMO faisait valoir que le taux d’intérêt était inférieur à celui qui s’appliquait aux prêts aux étudiants, et qu’aucun remboursement du capital n’était exigé dans la première année suivant l’obtention du diplôme. Il était possible d’emprunter jusqu’à 45 000 $.
+[7] Kathryn Mueller a déclaré que quelqu’un de la BMO l’avait informée que ces emprunts pouvaient donner droit à des déductions d’impôt. Il n’est pas fait mention de cette information dans le matériel publicitaire de la BMO qui a été présenté en preuve, et aucun représentant de la BMO n’a été cité à comparaître.
+Analyse
+[8] Le crédit d’impôt pour intérêts sur les prêts aux étudiants prévu par l’article 118.62 de la Loi s’applique aux prêts consentis en vertu de lois visant l’octroi d’aide financière aux étudiants de niveau postsecondaire.
+[9] En l’espèce, la difficulté a trait au fait que la loi exige que les prêts aient été consentis en vertu « de la Loi fédérale sur les prêts aux étudiants, de la Loi fédérale sur l’aide financière aux étudiants ou d’une loi provinciale régissant l’octroi d’aide financière aux étudiants ».
+[10] Dans leurs avis d’appel, les appelantes ont admis que les prêts n’étaient reconnus par aucun programme gouvernemental. Cela porte un coup fatal à leur demande.
+[11] Les appelantes laissent entendre que les prêts doivent être visés par une loi quelconque, parce que la BMO est une institution assujettie à la réglementation fédérale. Cet argument ne leur est d’aucune assistance. Les seules lois fédérales qui s’appliquent aux fins de l’obtention du crédit d’impôt sont la Loi fédérale sur les prêts aux étudiants et la Loi fédérale sur l’aide financière aux étudiants. Aucune de ces deux lois ne s’applique aux prêts en cause.
+[12] Étant donné que les prêts en cause ne satisfont pas aux conditions énoncées à l’article 118.62 de la Loi, la Cour ne peut accorder aucune réparation.
+[13] Pour finir, je tiens à souligner que, dans la démarche qui m’a conduite à la présente conclusion, j’ai été troublée par le fait que la Couronne n’ait pas, dans ses réponses, examiné de manière satisfaisante toutes les exigences de l’article 118.62, vu qu’elle n’a fait aucune mention de la législation provinciale. Si les prêts avaient été consentis en vertu d’une loi provinciale, les appelantes auraient peut-être pu avoir droit au crédit. Il est vrai que les réponses de la Couronne auraient dû être exhaustives, mais je suis tout de même convaincue que les appelantes n’ont pas subi de préjudice du fait de cette omission, étant donné qu’elles ont reconnu dans leurs avis d’appel que les prêts en cause ne relevaient d’aucun programme gouvernemental.
+[14] Les appels seront rejetés.
+Signé à Ottawa (Ontario), ce 8e jour de janvier 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 8e jour de février 2013.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2013 CCI 3
+NOS DES DOSSIERS DE LA COUR : 2012-1403(IT)I et
+2012-1404(IT)I
+INTITULÉS : Kelly Mueller c. Sa Majesté la Reine et
+Brittany Mueller c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 5 décembre 2012
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DES JUGEMENTS : Le 8 janvier 2013
+COMPARUTIONS :
+Représentante des appelantes :
+Mme Kathryn Mueller
+Pour l’intimée :
+Mme Nicole Walton (stagiaire en droit)
+Me Rishma Bhimji
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

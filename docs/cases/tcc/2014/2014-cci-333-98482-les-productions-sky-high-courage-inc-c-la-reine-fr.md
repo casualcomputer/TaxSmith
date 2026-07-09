@@ -1,0 +1,245 @@
+---
+title: "Les Productions Sky High Courage inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/98482/index.do"
+last_modified: "2014-11-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 333"
+citation2: ""
+neutral_citation: "2014 CCI 333"
+decision_date: "2014-11-07"
+language: "fr"
+item_id: "98482"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5265
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:40:09.840000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7323bb578c9447672821b4b5f4c6000c2ee65f519b571200e0ce2d91a08b2cfd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Les Productions Sky High Courage inc. c. La Reine
+
+- Citation: 2014 CCI 333
+- Decision date: 2014-11-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5265, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Productions Sky High Courage inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-11-07
+Référence neutre
+2014 CCI 333
+Numéro de dossier
+2011-1939(IT)G, 2011-2338(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-1939(IT)G
+ENTRE :
+LES PRODUCTIONS SKY HIGH COURAGE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Requête entendue sur preuve commune avec la requête de la
+fiducie familiale Samson (2011-2338(IT)G)
+le 19 juillet 2013, à Québec (Québec).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Avocat de l’appelante :
+Me Louis Sirois
+Avocat de l’intimée :
+Me Martin Lamoureux
+JUGEMENT
+Selon les motifs ci-joints, la requête est accueillie et l’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est rejeté.
+L’appelante paiera les dépens de l’intimée relatifs à la requête ainsi que tous les dépens dans la cause encourus après le 12 septembre 2012. Je fixe ces dépens à 1 000 $ que Productions Sky High Courage devra payer à l’intimée avant le 1er janvier 2015.
+Signé à Ottawa (Ontario), ce 7e jour de novembre 2014.
+« Gaston Jorré »
+Juge Jorré
+Dossier : 2011-2338(IT)G
+ENTRE :
+FIDUCIE FAMILIALE SAMSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Requête entendue sur preuve commune avec la requête de
+Les Productions Sky High Courage inc. (2011-1939(IT)G)
+le 19 juillet 2013, à Québec (Québec).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Avocat de l’appelante :
+Me Louis Sirois
+Avocat de l’intimée :
+Me Martin Lamoureux
+ORDONNANCE
+Selon les motifs ci-joints, la requête est accueillie en partie et la Cour ordonne ce qui suit :
+1. L’instruction de la cause est suspendue, et
+a) si l’appel de Carl Samson est rejeté et que toute période pour appeler de la décision est épuisée, l’intimée pourra faire une requête en rejet, et l’appel sera rejeté du moment que la Cour est satisfaite que l’appel de Carl Samson a été rejeté et que la période d’appel est épuisée, ou
+b) si l’appel de Carl Samson est ultimement accueilli, la fiducie pourra poursuivre son appel, mais uniquement pour faire valoir que l’ajustement de la dette de Carl Samson a pour conséquence qu’il faut ajuster ou annuler la cotisation de la fiducie; la fiducie ne pourra invoquer aucun autre motif à l’appui de son appel. Par exemple, elle ne pourra pas invoquer qu’il n’y a aucun lien entre la fiducie et Carl Samson.
+2. La fiducie paiera 4 000 $ en dépens à l’intimée avant le 1er janvier 2015.
+Signé à Ottawa (Ontario), ce 7e jour de novembre 2014.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2014 CCI 333
+Date : 20141107
+Dossiers : 2011-1939(IT)G
+2011-2338(IT)G
+ENTRE :
+LES PRODUCTIONS SKY HIGH COURAGE INC.,
+FIDUCIE FAMILIALE SAMSON,
+appelantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DES DÉCISIONS
+Le juge Jorré
+[1] Les Productions Sky High Courage inc. appelle d’une cotisation où le ministre a réduit le montant de crédit d’impôt accordé pour la production cinématographique réclamé par l’appelante d’un montant approximatif de 227 000 $.
+[2] La fiducie familiale Samson appelle d’une cotisation en vertu de l’article 160 de la Loi de l’impôt sur le revenu (Loi). Le ministre allègue que Carl Samson a transféré une maison à la fiducie, qu’il y avait un lien de dépendance entre la fiducie et Carl Samson, que la juste valeur marchande de la résidence était de 296 000 $ et qu’au moment du transfert Carl Samson était redevable de montants en vertu de la Loi totalisant environ 594 000 $.
+[3] Dans son avis d’appel, la fiducie prétend, entre autres, que Carl Samson n’est aucunement lié à la fiducie.
+[4] Je note que Carl Samson et Armand Samson ont également déposé des appels devant cette cour.
+[5] Dans chacun des deux appels (fiducie et Productions Sky High Courage), l’intimée a fait une requête en rejet d’appel, avec dépens pour la requête et pour l’appel sur le fond. L’intimée prétend que chaque appelante ne s’est pas conformée aux ordonnances de la Cour et n’a pas poursuivi son appel avec promptitude[1].
+[6] Les deux appels ont été entendus en même temps et sont liés. Il y a certains éléments en commun; toutefois il y en a aussi certains qui sont différents entre les deux cas.
+[7] L’intimée a fait sa preuve en déposant plusieurs déclarations sous serment. Les appelantes n’ont pas déposé de déclaration sous serment, mais j’ai permis aux appelantes de faire témoigner Carl Samson et Armand Samson.
+[8] Dans chacun des dossiers, il y a une ordonnance en date du 16 février 2012 qui ordonne, entre autres, que :
+a) les parties doivent préparer une liste de documents (communication partielle) et signifier cette liste à la partie opposée au plus tard le 15 août 2012,
+b) les engagements découlant des interrogatoires préalables doivent être respectés au plus tard le 15 octobre 2012.
+[9] L’intimée prétend que les deux appelantes ne lui avaient pas signifié leur liste de documents dans le délai prévu et ne l’avaient toujours pas fait au moment de l’audience, soit le 19 juillet 2013.
+[10] Les déclarations sous serment produites par l’intimée ne traitent pas de cette question. Toutefois, la règle 81 des Règles de la Cour canadienne de l’impôt (procédure générale) (Règles) prévoit non seulement que la liste doit être signifiée à l’autre partie, mais qu’elle doit être produite à la Cour. Je ne vois pas d’indice qu’elle a été produite dans les deux dossiers et, à l’audition, les appelantes n’ont pas contesté cette allégation. Vu que l’intimée a commencé des interrogatoires préalables sans avoir reçu la liste de documents de chacune des deux appelantes, je ne crois pas que cela, en soi, soit significatif.
+[11] La fiducie n’a pas respecté la date du 15 octobre 2012 en ce qui concerne les engagements qu’elle a pris à l’interrogatoire préalable; au moment de l’audience, elle n’avait toujours pas rempli ses engagements.
+[12] L’interrogatoire préalable de la fiducie a eu lieu le 13 septembre 2012. Carl Samson, un fiduciaire de la fiducie, a été interrogé.
+[13] Selon la déclaration sous serment de François Bernier assermenté le 10 octobre 2012, Carl Samson, quelques minutes avant son interrogatoire du 13 septembre 2012, a fait une déclaration selon laquelle il avait donné le mandat à la procureure de l’appelante de s’objecter à toute question importante.
+[14] Au cours de la preuve, cette affirmation de M. Bernier n’a pas été contestée.
+[15] Au cours de l’interrogatoire préalable, Carl Samson a refusé de répondre à de très nombreuses questions et il a également refusé de s’engager à produire de nombreux documents qui ont été demandés[2].
+[16] Parmi les questions refusées, il y a l’identité du constituant de l’appelante, l’identité des autres fiduciaires, l’identité des bénéficiaires et l’objet de la fiducie. Parmi les engagements refusés, il y a le refus de produire l’acte de fiducie.
+[17] L’intimée a déposé une requête enjoignant Carl Samson à répondre aux questions refusées et à fournir les documents demandés.
+[18] Sans décider la requête, je ferai l’observation qu’il est surprenant que, dans une cause où une question importante est l’existence, ou non, d’un lien entre Carl Samson et la fiducie, il y ait les objections que je viens d’énumérer.
+[19] Cette requête devait être entendue le 26 février 2013, mais entre‑temps l’avocate des deux appelantes, de Carl Samson et d’Armand Samson a déposé une requête demandant l’autorisation de cesser de s’occuper des quatre appelants.
+[20] La requête pour cesser d’occuper a été entendue le 25 février 2013 par conférence téléphonique et a été accueillie. L’ordonnance du 11 mars 2013 a également :
+a) ajourné l’audience du 26 février 2013 relative aux deux requêtes de l’intimée,
+b) ordonné que les deux appelantes soient représentées par un avocat et que le nouvel avocat comparaisse en leur nom auprès de la Cour au plus tard le 25 mars 2013,
+c) ordonné aux quatre appelants de payer à l’intimée des dépens de 1 500 $ sur réception de l’ordonnance.
+[21] Le nouvel avocat des deux appelantes a comparu avec quelques jours de retard par rapport au délai du 25 mars 2013. Par contre, non seulement les appelantes n’ont pas payé les dépens de 1 500 $ sur réception de l’ordonnance, mais ils n’étaient toujours pas payés au moment de l’audience quatre mois et demi plus tard.
+[22] Dans son témoignage, Carl Samson a dit que c’était son avocate de l’époque qui s’occupait des engagements de la fiducie et qu’elle ne lui avait jamais demandé par écrit ou verbalement de répondre aux engagements.
+[23] Quant au non-paiement des 1 500 $ en dépens sur réception de l’ordonnance, il a témoigné ce qui suit :
+Ça ne m’a pas été présenté. Le détail de la facture de quinze cents piastres (1 500 $) ou qu’est-ce que la juge a fait, ça ne m’a pas été présenté[3].
+[24] Sur ces questions, je ne peux accepter le témoignage, car j’ai de la difficulté avec la crédibilité du témoin, non seulement parce qu’il est peu probable que son avocate de l’époque n’ait pas soulevé la question des engagements avec son client, mais également parce que je ne peux croire qu’il n’était pas au courant de l’obligation de payer 1 500 $ vu les faits suivants.
+[25] L’ordonnance du 11 mars 2003 est applicable aux quatre appels, c’est‑à‑dire à la fiducie, à Productions Sky High Courage, à Carl Samson et à Armand Samson. L’en-tête de l’ordonnance contient le nom et le numéro de dossier de ces quatre appels et le contenu est identique pour les quatre appels. L’ordonnance dit très clairement :
+L’audition sur la gestion des instances et la requête de l’intimée ont été ajournées, avec dépens au montant de 1 500 $, payables par les appelants à l’intimée sur réception de la présente ordonnance. […]
+[26] Quand on consulte le dossier de la Cour y compris la partie électronique, on constate que dans le cas de la fiducie le greffe a envoyé une copie de la décision à la fiducie, que dans le cas de Productions Sky High Courage le greffe a envoyé une copie de la décision à Productions Sky High Courage, que dans le cas de Carl Samson une copie de l’ordonnance a été envoyée à Carl Samson et que dans le cas d’Armand Samson une copie de l’ordonnance a été envoyée à Armand Samson.
+[27] Il y a une troisième raison qui me mène à ne pas accepter le témoignage; elle est soulevée ci-dessous quand il est question de ce qui s’est passé à l’interrogatoire préalable de Productions Sky High Courage.
+[28] Le comportement de la fiducie que je viens de décrire n’est pas le comportement d’une partie qui poursuit son appel avec promptitude.
+[29] La fiducie ne s’est pas conformée aux ordonnances de la Cour quant à certains délais. Je note que ce n’est vraiment pas compliqué de payer 1 500 $ en dépens à l’autre partie et, vu que je n’accepte pas que la fiducie n’était pas au courant de cette obligation, il n’y a absolument aucune justification pour le non‑paiement des dépens.
+[30] Il y a un élément qui est encore plus important. En donnant des instructions à son avocat de ne pas répondre à toute question importante à l’interrogatoire préalable, la fiducie a démontré une volonté de consciemment retarder et prolonger l’instruction de l’appel.
+[31] Dans les circonstances, je suis d’accord avec l’intimée qu’il serait approprié de rejeter l’appel[4] sauf pour une hésitation.
+[32] Mon hésitation est la suivante. Un des éléments nécessaires à la cotisation en vertu de l’article 160 est l’existence de la dette de Carl Samson. Or, au moment de l’audition, il y avait toujours devant cette cour l’appel de Carl Samson qui contestait sa cotisation.
+[33] Si ultimement Carl Samson avait gain de cause à un degré tel que logiquement il faudrait réduire la cotisation de la fiducie, il me semblait qu’il serait injuste que la cotisation de la fiducie ne soit pas ajustée ou annulée en conséquence[5].
+[34] L’intimée a fait des observations selon lesquelles si je rejetais l’appel de la fiducie et qu’ultimement Carl Samson avait gain de cause avec la conséquence logique qu’il faudrait ajuster la cotisation de la fiducie, il y aurait un remède disponible à la fiducie par voie de contrôle judiciaire vu la nature de l’article 160 de la Loi qui est un mécanisme de perception et, en particulier, de l’alinéa 160(3)b) qui prévoit que le paiement, à un degré suffisant, de Carl Samson aurait pour effet de réduire la dette de la fiducie.
+[35] J’ai conclu qu’il n’était pas nécessaire que je décide si la fiducie aurait un autre remède si je rejetais l’appel mais que le résultat ultime dans l’appel de Carl Samson était tel qu’il serait logique d’ajuster la cotisation de la fiducie.
+[36] Bien que cette cour est une cour statutaire, elle est également une cour supérieure d’archives[6]. Il est bien établi qu’une cour possède un pouvoir inhérent de contrôler son processus. Évidemment, ce pouvoir est encadré par toute disposition statutaire qui s’applique à la cour et par les règles de la cour. Toutefois, ce pouvoir de contrôler son processus reste néanmoins très important, notamment dans les situations qui ne sont pas prévues par les règles[7].
+[37] En conséquence, cette cour peut émettre une ordonnance qui a pour effet de sanctionner la fiducie d’une façon dont l’effet pratique est presque le même que le rejet de l’appel, tout en gardant la possibilité d’ajuster la cotisation si Carl Samson avait gain de cause à un degré qui rendrait logique l’ajustement de la cotisation de la fiducie.
+[38] En conséquence, relativement à la fiducie familiale Samson, la Cour ordonne ce qui suit :
+L’instruction de la cause est suspendue, et
+a) si l’appel de Carl Samson est rejeté et que toute période pour appeler de la décision est épuisée, l’intimée pourra faire une requête en rejet, et l’appel sera rejeté du moment que la Cour est satisfaite que l’appel de Carl Samson a été rejeté et que la période d’appel est épuisée, ou
+b) si l’appel de Carl Samson est ultimement accueilli, la fiducie pourra poursuivre son appel, mais uniquement pour faire valoir que l’ajustement de la dette de Carl Samson a pour conséquence qu’il faut ajuster ou annuler la cotisation de la fiducie; la fiducie ne pourra invoquer aucun autre motif à l’appui de son appel. Par exemple, elle ne pourra pas invoquer qu’il n’y a aucun lien entre la fiducie et Carl Samson.
+[39] L’intimée a demandé ses dépens non seulement pour la requête, mais également pour toute action. Cela est tout à fait approprié dans les circonstances. Je fixe ces dépens à 4 000 $ payables avant le 1er janvier 2015.
+[40] Dans le cas de Productions Sky High Courage, il y a certains éléments qui sont essentiellement les mêmes que dans l’appel de la fiducie. Notamment, la situation est la même quant à la liste de documents, quant au léger retard dans la nomination d’un nouvel avocat après l’ordonnance du 11 mars 2013 et quant au non-paiement des dépens de 1 500 $ ordonnés dans ladite ordonnance.
+[41] Toutefois, il y a un élément très différent. L’interrogatoire préalable de Productions Sky High Courage, de Carl Samson et d’Armand Samson a eu lieu le 12 septembre 2012 et dit très clairement que, dans le cas de Productions Sky High Courage, les parties se sont entendues que Productions Sky High Courage se désistait sans frais. À la page 64 de la transcription de l’interrogatoire préalable, on lit ce qui suit :
+Me Louise Lévesque
+pour les appelants :
+Alors, à la suite des discussions, qu’il y a eu entre les procureurs et les parties, donc, Les Productions Sky High Courage inc. se désiste, sans frais, O.K., de son opposition.
+Me Martin Lamoureux
+pour l’intimée :
+De son avis d’appel.
+Me Louise Lévesque
+pour les appelants :
+De son avis d’appel
+C’est tout!
+[42] À la suite de ce désistement, l’intimée n’a pas poursuivi l’interrogatoire préalable de Productions Sky High Courage.
+[43] Par lettre du 19 septembre 2012, l’intimée a demandé à Me Lévesque, entre autres, qu’elle lui envoie un avis de désistement sans frais pour signature et dépôt à la Cour.
+[44] Par lettre du 1er novembre 2012 écrite au nom de toutes les parties par les avocats de l’intimée, il était fait mention de l’état des appels et du désistement de Productions Sky High Courage. Une copie de cette lettre a été envoyée à Me Lévesque.
+[45] Relativement au désistement ci-dessus, Carl Samson a témoigné que l’instruction qu’il aurait donnée à Me Lévesque était conditionnelle, et que Productions Sky High Courage laisserait tomber son appel à condition qu’il y ait un règlement satisfaisant dans les appels de la fiducie, de Carl Samson et d’Armand Samson[8].
+[46] En contre-interrogatoire, Carl Samson a confirmé qu’il était présent à l’interrogatoire préalable, mais qu’il ne se rappelle pas avoir entendu Me Lévesque dire que Productions Sky High Courage se désistait[9].
+[47] Armand Samson, qui était également présent, ne se souvient pas non plus que Me Lévesque a dit que Productions Sky High Courage se désistait.
+[48] Je regrette, mais je ne peux accepter que Carl Samson et Armand Samson n’aient pas entendu Me Lévesque. En conséquence, je n’accepte pas leur témoignage sur cette question[10].
+[49] Il y a donc certains retards de la part de Productions Sky High Courage et, surtout, le défaut de paiement des dépens, quelque chose qui n’est pas difficile à faire.
+[50] De plus, il y a le fait que Productions Sky High Courage s’est désistée et que, vu le passage cité, il y avait accord avec l’intimée que Productions Sky High Courage pouvait se désister sans frais.
+[51] Dans les circonstances, je ne vois pas comment je pourrais conclure que Productions Sky High Courage poursuit son appel avec promptitude vu qu’elle a décidé de se désister[11].
+[52] En conséquence, l’appel de Productions Sky High Courage est rejeté.
+[53] L’intimée demande les dépens relatifs à la requête et à la cause.
+[54] Dans ces circonstances, il est approprié d’accorder des dépens à l’intimée, mais vu qu’il y avait une entente selon laquelle Productions Sky High Courage pouvait se désister sans frais, les dépens seront limités à la période après le 12 septembre 2012. Je dois également tenir compte du fait que la requête a été entendue en même temps que celle de la fiducie. En conséquence, je fixe ces dépens à 1 000 $ que Productions Sky High Courage devra payer à l’intimée avant le 1er janvier 2015.
+Signé à Ottawa (Ontario), ce 7e jour de novembre 2014.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE :
+2014 CCI 333
+NOS DES DOSSIERS DE LA COUR :
+2011-1939(IT)G
+2011-2338(IT)G
+INTITULÉ DE LA CAUSE :
+LES PRODUCTIONS SKY HIGH COURAGE INC.,
+FIDUCIE FAMILIALE SAMSON,
+c. LA REINE
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+Le 19 juillet 2013
+DATE DES OBSERVATIONS ÉCRITES ADDITIONNELLES :
+Les 15 et 16 août 2013
+MOTIFS DES DÉCISIONS PAR :
+L’honorable juge Gaston Jorré
+DATE DU JUGEMENT DANS 2011‑1939(IT)G :
+Le 7 novembre 2014
+DATE DE L’ORDONNANCE DANS 2011-2338(IT)G :
+Le 7 novembre 2014
+COMPARUTIONS :
+Avocat des appelantes :
+Me Louis Sirois
+Avocat de l’intimée :
+Me Martin Lamoureux
+AVOCATS INSCRITS AUX DOSSIERS :
+Pour les appelantes :
+Me Louis Sirois
+Cabinet :
+Sirois, Tremblay et associée
+Québec (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Voir la règle 64 des Règles de la Cour canadienne de l’impôt (procédure générale).
+[2] Voir les paragraphes 6 et 8 de la déclaration sous serment de M. Bernier ainsi que la pièce 1 jointe à la déclaration.
+[3] Transcription, page 38.
+[4] Voir la décision de la juge Lamarre dans Bourque c. La Reine, 2002 CanLII 809 (CCI), aux paragraphes 38 à 42. Je note que l’intimée n’a pas allégué préjudice. Bien que cela soit une considération dans une telle requête, l’existence d’un préjudice n’est pas un élément requis pour rejeter une cause. Voir, par exemple, dans un contexte différent, la décision de la Cour d’appel de l’Ontario dans 1196158 Ontario Inc. v. 6274013 Canada Ltd., 2012 ONCA 544, notamment aux paragraphes 19 à 33.
+[5] À un certain moment je croyais qu’il ne serait peut-être pas nécessaire que je décide cette question. J’ai appris par le greffe qu’il y avait des requêtes dans les appels de Carl Samson et d’Armand Samson et que ces requêtes comprenaient des requêtes en rejet d’appel. Les parties avaient suggéré au greffe qu’il serait efficace si je pouvais être le juge à entendre ces requêtes. Pour des raisons pratiques, cela n’était pas possible et les requêtes ont été entendues par un autre juge. Après l’audition de ces requêtes, cette cour a rejeté les appels de Carl Samson et d’Armand Samson; toutefois la question reste toujours pertinente parce que les appelants ont porté les décisions de cette cour devant la Cour d’appel fédérale.
+[6] Loi sur la Cour canadienne de l’impôt, article 3.
+[7] Ceci est reflété, entre autres, dans la règle 4(2) des Règles de la Cour canadienne de l’impôt (procédure générale). Je note également que la règle 70 prévoit qu’une requête peut être accueillie en partie.
+[8] Transcription, pages 27 à 29 et 32 à 33.
+[9] Transcription, page 40, question 40.
+[10] On voit à la page 64 de la transcription qu’il est clairement indiqué que le passage cité ci-dessus a eu lieu juste après la « reprise de l’interrogatoire » et que juste après le passage cité il est écrit « et le déposant ne dit plus rien pour le moment ». Tout de suite après cela, à la page 65, il y a la certification du sténotypiste officielle. Je ne peux croire qu’ils n’aient pas entendu ce très court et très simple dialogue.
+[11] Bien que la requête dans Productions Sky High Courage n’était pas une requête demandant à la Cour d’assurer l’exécution d’un règlement, je note que cette cour a le pouvoir d’assurer l’exécution d’un règlement; voir la décision de la juge D’Auray dans SoftSim Technologies inc. c. La Reine, 2012 CCI 181. La preuve devant moi est claire que le désistement était également un règlement puisque l’intimée a accepté qu’il n’y ait pas de frais.

@@ -1,0 +1,250 @@
+---
+title: "Granaas v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29489/index.do"
+last_modified: "2009-10-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 547"
+citation2: ""
+neutral_citation: "2009 TCC 547"
+decision_date: "2009-10-26"
+language: "en"
+item_id: "29489"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6307
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:48:56.593000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "123acd84b63bbb89ae2e57f14811675206ea231840353b717366da371291c36b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Granaas v. The Queen
+
+- Citation: 2009 TCC 547
+- Decision date: 2009-10-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6307, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Granaas v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-26
+Neutral citation
+2009 TCC 547
+File numbers
+2007-4356(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4356(IT)I
+BETWEEN:
+CAPTAIN TORE R. GRANAAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 5, 2009, at Montreal, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Philip Aspler
+Counsel for the Respondent:
+Julie David
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2005 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of October 2009.
+“Paul Bédard”
+Bédard J.
+Citation: 2009 TCC 547
+Date: 20091026
+Docket: 2007-4356(IT)I
+BETWEEN:
+CAPTAIN TORE R. GRANAAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal of a reassessment dated August 13, 2007 with respect to the 2005 taxation year of the Appellant.
+[2] The Appellant, a non‑resident of Canada, was hired by the International Air Transport Association (IATA), an international non-governmental organization. Throughout his employment with the IATA, the Appellant benefited from a deduction pursuant to subparagraph 110(1)(f)(iv) of the Income Tax Act (the Act). Upon his retirement from the IATA, the Appellant began receiving superannuation from a Canadian source arising from his service with the IATA. The dispute between the Appellant and the Respondent concerns the tax treatment of the superannuation received. The Appellant submits that superannuation is income from employment, while the Minister argues that superannuation is other income. For taxation purposes, the Appellant made an election pursuant to section 217 to be taxed under Part I of the Act.
+Appellant’s position
+[3] The Appellant submits that superannuation is income from employment within the meaning of subparagraph 110(1)(f)(iv) of the Act and therefore can be deducted from net income. According to the Appellant, the phrase “income from” must be expanded to include income “attributable to” or “originating or derived from”. The Appellant submits that superannuation income is part of his “income of employment” package with the IATA and should be treated as income from employment for tax purposes.
+Respondent’s position
+[4] The Respondent submits that superannuation is not income from employment but, rather, income from other sources and cannot be exempted from taxation by the application of subparagraph 110(1)(f)(iv) of the Act.
+Issue and Analysis
+[5] The parties agree that the sole issue is whether superannuation must be considered as income from employment within the meaning of subparagraph 110(1)(f)(iv) of the Act.
+[6] The relevant provisions of the Act are as follows:
+2. (3) Tax payable by non-resident persons
+Where a person who is not taxable under subsection (1) for a taxation year
+(a) was employed in Canada,
+(b) carried on a business in Canada, or
+(c) disposed of a taxable Canadian property,
+at any time in the year or a previous year, an income tax shall be paid, as required by this Act, on the person’s taxable income earned in Canada for the year determined in accordance with Division D.
+5. (1) Income from office or employment
+Subject to this Part, a taxpayer’s income for a taxation year from an office or employment is the salary, wages and other remuneration, including gratuities, received by the taxpayer in the year.
+6. (1) Amounts to be included as income from office or employment
+There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as applicable:
+(g) Employee benefit plan benefits – the total of all amounts each of which is an amount received by the taxpayer in the year out of or under an employee benefit plan or from the disposition of any interest in any such plan, other than the portion thereof that is
+(iii) a superannuation or pension benefit attributable to services rendered by a person in a period throughout which the person was not resident in Canada.
+56. (1) Amounts to be included in income for year
+Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+(a) Pension benefits, unemployment insurance benefits, etc. – any amount received by the taxpayer in the year as, on account or in lieu of payment of, or in satisfactions of,
+(i) a superannuation or pension benefit including, without limiting the generality of the foregoing,
+110. (1) Deductions permitted
+For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such of the following amounts as are applicable:
+(f) Deductions for payments – any social assistance payment made on the basis of a means, needs or income test and included because of clause 56(1)(a)(i)(A) or paragraph 56(1)(u) in computing the taxpayer’s income for the year or any amount that is
+(iv) the taxpayer’s income from employment with a prescribed international non‑governmental organization, where the taxpayer
+(A) was not, at any time in the year, a Canadian citizen,
+(B) was a non-resident person immediately before beginning that employment in Canada, and
+(C) if the taxpayer is resident in Canada, became resident in Canada solely for the purpose of that employment.
+115. (1) Non-resident’s taxable income in Canada
+For the purposes of this Act, the taxable income earned in Canada for a taxation year of a person who at no time in the year is resident in Canada is the amount, if any, by which the amount that would be the non-resident person’s income for the year under section 3 if
+(a) the non-resident person had no income other than
+(i) incomes from the duties of offices and employments performed by the non-resident person in Canada and, if the person was resident in Canada at the time the person performed the duties, outside Canada
+212. (1) Tax
+Every non-resident person shall pay an income tax of 25% on every amount that a person resident in Canada pays or credits, or is deemed by Part I to pay or credit, to the non-resident person as, on account or in lieu of payment of, or in satisfaction of,
+(h) Pension benefits – a payment of a superannuation or pension benefit, other than
+(iii.2) an amount referred to in paragraph 110(1)(f) to the extent that the amount would, if the non-resident person had been resident in Canada throughout the taxation year in which the amount was paid, be deductible in computing that person’s taxable income or that of the spouse or common-law partner of that person.
+217. (1) Alternative re Canadian benefits
+In this section, a non-resident person’s “Canadian benefits” for a taxation year is the total of all amounts each of which is an amount paid or credited in the year and in respect of which tax under this Part would, but for this section, be payable by the person because of any of paragraphs 212(1)(h), (j) to (m) and (q).
+(2) Part I return
+No tax is payable under this Part in respect of a non-resident person’s Canadian benefits for a taxation year if the person
+(a) files with the Minister, within 6 months after the end of the year, a return of income under Part I for the year; and
+(b) elects in the return to have this section apply for the year.
+(3) Taxable income earned in Canada
+Where a non-resident person elects under paragraph (2)(b) for a taxation year, for the purposes of Part I
+(a) the person is deemed to have been employed in Canada in the year; and
+(b) the person’s taxable income earned in Canada for the year is deemed to be the greater of
+(i) the amount that would, but for subparagraph (ii), be the person’s taxable income earned in Canada for the year if
+(A) paragraph 115(1)(a) included the following subparagraph after subparagraph (i):
+(i.1) the non-resident person’s Canadian benefits for the year, within the meaning assigned by subsection 217(1);
+248. (1)
+“superannuation or pension benefit” includes any amount received out or under a superannuation or pension fund or plan and, without restricting the generality of the foregoing, includes any payment made to a beneficiary under the fund or plan or to an employer or former employer of the beneficiary thereunder
+(a) in accordance with the terms of the fund or plan;
+(b) resulting from an amendment to or modification of the fund or plan, or
+(c) resulting from the termination of the fund or plan.
+The relevant provisions of section 8900 of the Income Tax Regulations are as follows:
+8900(2) International Non-governmental Organizations
+For the purpose of subparagraph 110(1)(f)(iv) of the Act, the following international non-governmental organizations are prescribed:
+(a) the International Air Transport Association.
+[7] The issue between the Appellant and the Respondent concerns the interpretation of subparagraph 110(1)(f)(iv), that is, whether the meaning of the words “income from employment” in that provision can be extended to encompass superannuation benefits.
+[8] The rules for interpreting tax legislation have been formulated in the following terms by Gonthier J. in the decision of the Supreme Court of Canada in Corporation Notre‑Dame de Bon-Secours v. Communauté Urbaine de Québec[1]:
+The interpretation of tax legislation should follow the ordinary rules of interpretation;
+A legislative provision should be given a strict or liberal interpretation depending on the purpose underlying it, and that purpose must be identified in light of the context of the statute, its objective and the legislative intent; this is the teleological approach;
+The teleological approach will favour the taxpayer or the tax department depending solely on the legislative provision in question, and not on the existence of predetermined presumptions;
+Substance should be given precedence over form to the extent that this is consistent with the wording and objective of the statute;
+Only a reasonable doubt, not resolved by the ordinary rules of interpretation, will be settled by recourse to the residual presumption in favour of the taxpayer.
+[9] As a general rule, tax legislation is subject to the ordinary rules of interpretation. It is no longer subject to a strict literal interpretation, but rather should be interpreted in the same way as other types of legislation using a contextual, purposive or historical approach. If required, substance should be given precedence over form in order to achieve the purpose of the legislation. If a reasonable doubt as to the meaning of an enactment remains, then the interpretation based on the legislator’s intent should be favoured. As the Supreme Court noted in The Queen v. Golden[2], the construction of tax legislation is not confined to a literal interpretation where a broader construction will result in a conclusion which is in line with the purpose of the Act.
+[10] In Construction of Statues[3], Driedger summarized the basic principle of interpretation whereby “the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament”. Accordingly, the task is to discern the legislator’s intent by studying the words in the context of the enactment, i.e. by discerning the purpose of the specific provisions and of the Act as a whole. However, where words used in a statute are clear and unambiguous, there is no need to interpret them: a simple reading suffices.[4]
+[11] One must consider the specific facts of the present case in the light of subparagraph 110(1)(f)(iv) of the Act in order to come to a decision regarding interpretation. However, where the legislative intent is clear, the Court should not substitute its own opinion.
+[12] Also, it should be noted that the Court is not to be guided by equity considerations. In Avitan v. M.N.R., 87 DTC 336, this Court stated that:
+The Court cannot be guided by considerations of equity in the application of a clearly worded unambiguous tax statute. To use the words of Estey, J. of the Supreme Court of Canada in the case of The Queen v. Malloney's Studio Limited, 79 DTC 5124 at page 5129:
+Indeed, “fairness and realism” have never been the governing criteria for the interpretation of taxing statutes. Lord Cairns in Partington v. Attorney-General (1869), L.R. 4 H.L. 100 at p. 122 put it this way:
+I am not at all sure that, in a case of this kind ‑ a fiscal case ‑ form is not amply sufficient; because, as I understand the principle of all fiscal legislation, it is this: if the person sought to be taxed comes within the letter of the law he must be taxed, however great the hardship may appear to the judicial mind to be. On the other hand, if the Crown, seeking to recover the tax, cannot bring the subject within the letter of the law, the subject is free, however apparently within the spirit of the law the case might otherwise appear to be. In other words, if there be admissible, in any statute, what is called equitable construction, certainly such a construction is not admissible in a taxing statute where imply adhere to the words of the statute.
+[13] The preposition “from” has been defined as follows:
+The Shorter Oxford English Dictionary
+… indicating a starting point
+The Canadian Oxford Dictionary
+“from”
+… prep. Expressing separation or origin … 3a a source …
+[14] The question of what constitutes income from employment has been addressed by the courts on at various occasions. In Robertson v. The Queen,[5] the Minister sought to extend the meaning of “income from an office or employment” beyond the normal concept of “salary, wages and other remuneration, including gratuities” by including “benefits of any kind whatever” which an employee received “in respect of, in the course of, or by virtue of” an office or employment. The Federal Court (Trial Division) referred to The Queen v. Savage, 83 DTC 5409, in stressing that the meaning of “benefits of any kind whatever” is quite broad, and to Nowegijick v. The Queen, 83 DTC 5041, in which the Supreme Court of Canada stated that:
+The words “in respect of” are, in my opinion, words of the widest possible scope. They import such meanings as “in relation to”, “with reference to” or “in connection with”. The phrase “in respect of” is probably the widest of any expression intended to convey some connection between two related subject matters.
+[15] Moreover, in order for income to be considered as being from employment, it is no longer necessary that it be paid by the employer. According to Waffle,[6] it does not follow “… from the fact that the person paying the cost is not an employer of the recipient, that such payment does not accrue to the recipient in respect of, in the course of, or by virtue of his office or employment”. In that case, Mr. Waffle received a taxable benefit, namely a trip, the cost of which was included as income from employment.
+[16] The Appellant submits that superannuation income received is income from employment. He emphasizes that there is a nexus between his tax-free employment with the IATA and the superannuation he received and that a practical and broad interpretation of subparagraph 110(1)(f)(iv) of the Act should be preferred. He also submits that subsections 3(a) and 5(1) of the Act are broad enough to include superannuation income within their ambit.
+[17] The Appellant relies on Touchette v. The Queen,[7] a case in which this Court adopted a broad view of the term “income from employment”. In Touchette, the taxpayer was required to include in income disability benefits received “in respect of” or “by virtue of” an office or employment. The Court referred to Cutmore et al. v. M.N.R., 86 DTC 1146, another decision of this Court, in which it is stated that:
+It was at one time erroneously thought that in order for a benefit to be within the ambit of these words it must have been received as remuneration for services rendered as an employee [Phaneuf Estate v. M.N.R., 78 DTC 6001].
+. . .
+The misconception referred to was rectified in The Queen v. Savage, 83 DTC 5409. Dickson J. . . . said at page 5414: I do not agree . . . that, to be received in the capacity of employee, the payment must partake of the character of remuneration for services . . . Our Act contains the stipulation, not found in the English statutes referred to, “benefits of any kind whatever . . . in respect of, in the course of, or by virtue of an office or employment”. The meaning of “benefit of whatever kind” is clearly quite broad . . .[8]
+The Court also referred in Touchette, to The Queen v. Savage and to the following comments by Dickson J. regarding R. v. Poyton, [1972] 3 O.R. 727:[9]
+I agree with what was said by Evans J.A. . . . speaking of benefits received or enjoyed in respect of, in the course of, or by virtue of an office or employment:
+I do not believe the language to be restricted to benefits that are related to the office or employment in the sense that they represent a form of remuneration for services rendered. If it is a material acquisition which confers an economic benefit on the taxpayer and does not constitute an exemption, e.g. loan or gift, then it is within the all-embracing definition of section 3.
+[18] The Appellant also relies on the decision in Canada v. Fairey,[10] in which the Federal Court (Trial Division) accepted the argument that certain amounts retained by the employer for contributions to a superannuation plan constituted taxable income for the employee. That case dealt with employer contributions, not benefits received from a superannuation fund.
+[19] The Appellant relies as well on the Blauer v. Canada[11] case, in which this Court gave the word “from” a broad construction. In Blauer, Ms. Blauer, a non‑resident of Canada, received wage loss replacement payments from a Canadian source. The Court noted that a broad construction should be applied to the word “from” in the phrase “income from the duties of offices and employments performed by the non-resident”, and that “from” required the determination of a “relevant nexus” with a source of payment. Referring to Datex Semiconductor Inc. v. Canada,[12] this Court expressed support for the view that “the place of administering or generating payments can be considered as a relevant nexus in determining where a payment has been made “from””:
+With respect to the argument that the words “incomes from the duties of offices and employments performed by the non-resident” require a broader definition of the word “from”; . . . I applied broad construction of the meaning of the word “from” finding that it meant the source of the payment.[13]
+[20] The Minister asserts that superannuation is not paid in consideration of services rendered but in consideration of premiums paid. The amounts paid out to the Appellant by Royal Trust Co. are not income from “duties” performed. The Minister relies on the Blauer decision, in which this Court concluded that the meaning of the phrase “income from” cannot be expanded to include income “attributable to” or “originating or derived from” a source that was the performance of the duties and that the nexus was too tenuous to establish the necessary link. By analogy with Blauer, the Minister considers that the meaning of the phrase “income from employment” in subparagraph 110(1)(f)(iv) is not broad enough to include superannuation received by the taxpayer from Royal Trust Co.
+[21] “superannuation” and “pension” have been defined as follows:
+The Shorter Oxford English Dictionary
+“superannuation” . . . The allowance or pension granted to one who is discharged on account of age
+“pension” An annuity or other periodical payment made . . . in consideration of past services
+And the following definitions have been given for the French terms “retraite” and “pension”:
+Le Grand Robert de la Langue Française
+“retraite” Situation d’une personne qui cesse d’exercer une fonction, un emploi . . . et qui a droit à une somme d’argent régulièrement versée
+“pension” Allocation périodique qui est payée à une personne pour assurer son existence, pour la récompenser de services rendus, pour l’indemniser
+[22] In The Queen v. Herman,[14] the question was whether monthly instalments received by a former United Nations employee, who was a Canadian resident, from a pension fund registered in Canada were pension benefits. The employment income received by Mr. Herman during his employment with the UN was exempt from tax in Canada. The Federal Court of Appeal decided as follows:
+. . . While the learned Chairman clearly states that he realizes that there is no equity in tax law and that he is not basing his decision on that ground, I cannot agree that a pension fund must be limited to one to which contributions are deductible for tax purposes when made. Certainly there was a superannuation or pension fund here . . . and I can find no justification either in the definitions of superannuation or pension benefit in . . . (section 248(1) of the present Act) which refers to any amount paid out of a “superannuation or pension fund” in accordance with the terms of the fund, nor elsewhere in either Act, for breaking down such a fund into its elements and holding it is not such a fund with respect to the payments made by a taxpayer into it and not deductible by him from income tax when made, but is nevertheless a superannuation or pension fund with respect to payments made by the employer. . . .
+. . .
+In taxing superannuation or pension income the Act appears to make no distinction as to the origin of it. It merely taxes all of it when received by a taxpayer resident in Canada and liable to Canadian income tax. . . .
+[23] In Watts v. Canada,[15] Associate Chief Justice Bowman held that Canada Pension Plan disability benefits paid to a non-resident were not taxable income from an office or employment under the Income Tax Act, but were, rather, pension benefits.
+[24] In Abrahamson v. Canada,[16] Judge Rip made the following comments with respect to the meaning of “superannuation or pension benefit” in subparagraph 56(1)(a)(i) of the Act:
+Hence, the words “superannuation or pension benefit” in subparagraph 56(1)(a)(i) contemplate a payment of a fixed or determinable allowance paid at regular intervals to a person usually, but not always, as a result of the termination of employment for the purpose of providing that person with a minimum means of existence; the formal program for the payment of the specified benefits, or the way the benefits are to be carried out, must be organized or promoted by a person other than the beneficiary since the beneficiary's right to receive the superannuation or pension benefits is determined by the superannuation or pension plan contemplated by subparagraph 56(1)(a)(i). In other words, the regularity and amount of the payments are made according to the terms of a plan and not at the discretion or direction of the beneficiary.
+[25] The language of subparagraph 110(1)(f)(iv) of the Act is quite clear and unambiguous. The legislator’s intent was to permit a deduction for “income from employment” received by a taxpayer from a prescribed non-governmental organization. It is not a case where it is possible to expand the meaning of the phrase “income from” to include income “attributable to” or “originating” or “derived” from a source that was the performance of employment duties. Also, strictly limiting the meaning of income from employment to income derived directly from the source for duties performed does not lead to an absurd result.
+[26] The Appellant receives superannuation benefits in accordance with the terms of his superannuation plan because premiums were paid into the Royal Trust Co. fund with a view to receiving payments in the future, not in consideration of services rendered. By analogy with Blauer, the fact that services were performed in consideration of an employer’s contributing to the Royal Trust Co. fund with the expectation that superannuation payments would be received by the employee upon termination of employment does not make the superannuation benefits received income from employment. The superannuation benefits received by the Appellant come within the relevant definition in subsection 248(1) of the Act and do not constitute income from employment.
+[27] For non-resident taxpayers, superannuation income does not constitute income from employment pursuant to subsection 115(1)(a)(i) of the Act, which deals with incomes from the duties of offices and employments performed by an non‑resident in Canada. Rather, superannuation benefits are taxed under Part XIII of the Act, a specific provision — paragraph 212(1)(h) — of which requires that tax be paid on superannuation received by a non-resident from a Canadian source. Moreover, section 217 of the Act allows a non-resident to make an election to be taxed under Part I of the Act on superannuation benefits received. As a general rule, specific statutory provisions override general ones.
+[28] Moreover, under Part I of the Act, which is applicable to resident tax payers, superannuation benefits are considered as other sources of income pursuant to subparagraph 56(1)(a)(i) and not as income from an office or employment pursuant to subsection 5(1) and paragraph 6(1)(g) of the Act.
+[29] The application of the unified, textual, contextual and purposive approach to the interpretation of the Act shows that the legislative purpose is to tax superannuation benefits as such and not as income from employment. There can be no reasonable doubt that the meaning of “income from employment” in subparagraph 110(1)(f)(iv) of the Act is not broad enough to include such superannuation benefits and that to expand the meaning of “income from employment” in that provision so as to include superannuation received would be to interpret the provision so broadly as to stretch it beyond recognition.
+[30] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 26th day of October 2009.
+“Paul Bédard”
+Bédard J.
+CITATION: 2009 TCC 547
+COURT FILE NO.: 2007-4356(IT)I
+STYLE OF CAUSE: CAPTAIN TORE R. GRANAAS v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: June 5, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: October 26, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Philip Aspler
+Counsel for the Respondent:
+Julie David
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Philip Aspler
+Firm: Aspler & Associates
+Montreal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Corporation Notre-Dame de Bon-Secours v. Communauté Urbaine de Québec, 95 DTC 5017, 5023.
+[2] The Queen v. Golden, [1986] 1 S.C.R. 209, referring to Stubart Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536.
+[3] DRIEDGER, Elmer A., Construction of Statutes, 2nd ed. 1983, p. 87.
+[4] CÔTÉ, Pierre-André, The Interpretation of Legislation in Canada, (1984), page 2; see also R. v. Multiform Manufacturing Co. et al. (1990), 58 C.C.C. (3d) 257, 262.
+[5] Robertson v. Canada, 88 DTC 6071.
+[6] Waffle v. M.N.R., 69 DTC 5007.
+[7] Touchette v. Canada, [1994] T.C.J. No. 174.
+[8] Touchette, supra, para. 22.
+[9] Id., para. 24.
+[10] Canada v. Fairey, [1991] F.C.J. No. 254.
+[11] Blauer v. Canada, 2007 TCC 706.
+[12] Datex Semiconductor Inc. v. Canada, [2007] T.C.J. No. 128.
+[13] Id., para. 14.
+[14] The Queen v. Herman, [1978] 2 F.C. 756.
+[15] Watts v. Canada, 2004 TCC 535.
+[16] Abrahamson v. M.N.R., 91 D.T.C. 213.

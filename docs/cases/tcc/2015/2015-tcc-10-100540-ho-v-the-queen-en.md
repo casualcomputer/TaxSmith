@@ -1,0 +1,186 @@
+---
+title: "Ho v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/100540/index.do"
+last_modified: "2015-01-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 10"
+citation2: ""
+neutral_citation: "2015 TCC 10"
+decision_date: "2015-01-16"
+language: "en"
+item_id: "100540"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2794
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:32:57.158000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2238d683311b8015e964045bbdec51f40867ed04222ed16cedca38c4f9f3001f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ho v. The Queen
+
+- Citation: 2015 TCC 10
+- Decision date: 2015-01-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2794, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ho v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-01-16
+Neutral citation
+2015 TCC 10
+File numbers
+2013-2423(GST)I
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-2423(GST)I
+BETWEEN:
+TONY HO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 7, 2014, at Toronto, Ontario, continued on March 18, 2014 by conference call, and April 16, 2014 at Toronto, Ontario and written submissions filed on June 12, 2014, June 30, 2014 and September 2, 2014.
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+Yan Wang
+Counsel for the Respondent:
+Tony Cheung
+JUDGMENT
+In accordance with the attached reasons for judgment:
+The appeal from the assessment with regard to a GST/HST new housing rebate made under the Excise Tax Act, notice of which is dated June 6, 2012, is dismissed, without costs.
+Signed at Ottawa, Canada, this 16th day of January 2015.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2015 TCC 10
+Date: 20150116
+Docket: 2013-2423(GST)I
+BETWEEN:
+TONY HO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Arcy J.
+[1] The issue in this appeal is whether the purchasers of a new home located in Ontario were entitled to the two new housing rebates (the “New Housing Rebates”) provided for in Part IX of the Excise Tax Act (the “GST Legislation”).
+Summary of Facts [2] On August 4, 2009, the Appellant, Tony Ho, entered into an agreement of purchase and sale with respect to the purchase of a new home to be constructed on property located on Woodbine Avenue ByPass in Markham, Ontario (the “Woodbine Property”). The purchase price for the Woodbine Property was $403,900 (tax included), with a closing date in April 2011. Mr. Ho paid a $40,000 deposit in respect of the purchase.
+[3] On November 6, 2009, the Appellant’s cousin, Kwinson Ho, Kwinson Ho‘s spouse, Chun Sim Yip, and Kwinson Ho’s mother entered into an agreement of purchase and sale with respect to the purchase of a new home to be constructed on property located on George Heenan Street in Markham, Ontario (the “Heenan Property”). The purchase price for the Heenan Property was $549,900 (tax included), with a closing date in October 2011.
+[4] Unfortunately, Mr. Ho subsequently lost his job and he realized by late 2010 that he did not have the financial ability to complete the purchase. He then turned to his cousin, Kwinson Ho, for assistance.
+[5] Sometime in January 2011, the parties amended the agreement of purchase and sale for the Woodbine Property to add Kwinson Ho and Chun Sim Yip as purchasers.
+[6] On April 14, 2011, Tony Ho, Kwinson Ho and Chun Sim Yip closed the purchase of the Woodbine Property. Immediately after closing, Kwinson Ho, Chun Sim Yip and Kwinson Ho’s mother resided in the Woodbine Property.
+[7] On April 29, 2011, Kwinson Ho and Chun Sim Yip listed the Heenan Property for sale.
+[8] On June 8, 2011, Kwinson Ho and Chun Sim Yip listed the Woodbine Property for sale.
+[9] On June 29, 2011, Kwinson Ho and Chun Sim Yip sold the Woodbine Property. The sale closed on September 15, 2011.
+[10] In October 2011, Kwinson Ho, Chun Sim Yip and Kwinson Ho’s mother closed the purchase of the Heenan Property and began to reside in that property.
+Summary of Law [11] Under the GST Legislation, taxable supplies that are considered to be made in a province that is not participating in the federal value-added tax system are taxed at a 5% rate (the 5% rate is referred to as the GST), unless the taxable supply is zero‑rated.[1] A taxable supply that is considered to be made in a province that is participating in the value-added tax system is taxed at both the 5% rate and the rate applicable for supplies made in the particular participating province (the combined rate is referred to as the HST), unless the taxable supply is zero-rated.[2]
+[12] Under the GST Legislation, the tax is imposed on sales of new homes. Homes situated in Ontario are taxed at the HST rate of 13%.[3]
+[13] The GST Legislation contains two rebates that a purchaser of a new home situated in Ontario may claim. The first rebate represents a portion of the 5% component of the tax levied under subsection 165(1) (the “First Rebate”). The second rebate represents a portion of the 8% component of the tax levied under subsection 165(2) (the “Second Rebate”).
+The First Rebate [14] Purchasers are entitled to claim the First Rebate if they satisfy the numerous conditions set out in subsection 254(2).
+[15] The wording of subsection 254(2) refers to the sale of a single-unit residential complex to a particular individual. However, subsection 262(3) extends the application of subsection 254(2) to situations where two or more individuals acquire the single-unit residential complex.
+[16] Subsection 262(3) states, in part, that if a supply of a residential complex (such as the Woodbine Property) is made to two or more individuals, the references in section 254 to a particular individual shall be read as references to all of those individuals as a group, but only one of those individuals may apply for the rebate under section 254 in respect of the complex.
+[17] The evidence before me is that a builder sold the Woodbine Property to a group of individuals. Specifically, the statement of adjustments (Exhibit A-7) shows Tony Ho, Kwinson Ho and Chun Sim Yip as the purchasers of the Woodbine Property. I will refer to these three individuals as the “Purchasing Group”. Exhibit A-7 is consistent with page 1 of Exhibit R-1, which shows each of Tony Ho, Kwinson Ho and Chun Sim Yip granting a mortgage charge on the Woodbine Property.
+[18] At the time of closing, Tony Ho applied for the New Housing Rebates on behalf of the Purchasing Group. Specifically, Tony Ho is shown on the rebate application as the claimant. Kwinson Ho and Chun Sim Yip are shown on the rebate application as other owners of the property. The Purchasing Group assigned the rebates to the builder of the Woodbine Property, who deducted them from the tax-included purchase price of the home.
+[19] The Purchasing Group will qualify for the rebate relating to the 5% federal portion of the HST provided the conditions in subsection 254(2), as modified by subsection 262(3), are satisfied. I will discuss each of these conditions as they apply to the facts in this appeal.
+A. The First Condition [20] The first condition is contained in paragraph 254(2)(a), as modified by subsection 262(3). It requires that a builder (as defined in the GST Legislation) of a single-unit residential complex have made a taxable supply of the complex to all of the individuals as a group.
+[21] This condition was satisfied, since a builder sold the Woodbine Property to the Purchasing Group.
+B. The Second Condition [22] Paragraph 254(2)(b) contains the following requirement: at the time the particular individual became liable or assumed liability under the agreement of purchase and sale of the complex, the particular individual was acquiring the complex for use as the primary place of residence of the particular individual or a relation of the particular individual.
+[23] After the application of subsection 262(3) to that paragraph, the condition reads as follows: at the time all of the individuals as a group became liable or assumed liability under the agreement of purchase and sale of the complex, all of the individuals as a group were acquiring the complex for use as the primary place of residence of all of the individuals as a group or a relation of all of the individuals as a group.
+[24] This Court has consistently held (see for example Davidson v. The Queen, [2002] G.S.T.C. 25 and Goyer v. The Queen, 2010 TCC 511, 2010 G.S.T.C 163) that paragraph 254(2)(b), as modified by subsection 262(3), requires that each member of the group, at the time he or she assumes liability under the agreement of purchase and sale, intends to acquire the complex for use as his/her primary place of residence.
+[25] It is the Respondent’s position that Tony Ho did not acquire the Woodbine Property for use as his primary place of residence. In my view, the evidence does not support the Respondent’s position.
+[26] Tony Ho testified that, in August 2009, he was living with his parents and wanted to move out and live in his own home. As a result, he entered into the agreement of purchase and sale with respect to the purchase of the Woodbine Property.
+[27] Kwinson Ho testified that, after his cousin approached him for help, he sat down with his spouse and discussed which home they should purchase: the Woodbine Property or the Heenan Property. He testified that they preferred the Woodbine Property, since it was roughly the same size as the Heenan Property but had a substantially lower purchase price. A lawyer subsequently advised Kwinson Ho and his spouse that the agreement of purchase and sale for the Woodbine Property should be amended to add their names as purchasers.
+[28] Tony Ho testified that in, January 2011, the agreement of purchase and sale was amended to add Kwinson Ho and Chun Sim Yip as purchasers. Tony Ho testified that, at that point in time, he intended to live in the Woodbine Property with Kwinson Ho, Chun Sim Yip and Kwinson Ho’s mother. Kwinson Ho’s testimony was to the effect that, at the time he and Chun Sim Yip were added as purchasers under the agreement of purchase and sale, all three members of the Purchasing Group intended to live in the Woodbine Property.
+[29] Kwinson Ho stated that he and Chun Sim Yip intended to sell the Heenan Property. In fact, they listed the property for sale on April 29, 2011. Kwinson Ho and Chun Sim Yip became concerned when the Heenan Property did not sell within six weeks of it being listed for sale. Kwinson Ho explained that the Heenan Property purchase was scheduled for closing in October 2011 and that, for financial reasons, they had to sell one of the homes prior to this October 2011 closing date. As a result, on June 8, 2011 they listed the Woodbine Property for sale.
+[30] The Woodbine Property sold shortly thereafter. Kwinson Ho, Chun Sim Yip and Kwinson Ho’s mother then closed the purchase of the Heenan Property and began to reside in this home.
+[31] I accept the testimony of Tony Ho and Kwinson Ho that, at the time each of the members of the Purchasing Group assumed liability under the agreement of purchase and sale for the Woodbine Property, each intended to use the Woodbine property as his/her primary place of residence. As a result, the second condition has been satisfied.
+C. The Third Condition and Fourth Condition [32] Paragraph 254(2)(c) provides that the total consideration for the supply to the group of individuals of the complex must be less than $450,000. Paragraph 254(2)(d) provides that the group of individuals must actually have paid the HST in respect of the purchase of the complex.
+[33] Both of these conditions have been satisfied. Exhibit A-7 evidences the fact that the purchase price of the Woodbine Property before HST was $388,364.78, and the GST in respect of the purchase price was paid on closing.
+D. The Fifth Condition [34] Paragraph 254(2)(e) provides that ownership of the complex must be transferred to the group of individuals after the construction thereof is substantially completed.
+[35] Exhibits A-7 and R-1 evidence the fact that the builder transferred ownership of the Woodbine Property to each of the members of the Purchasing Group. It is clear from the testimony of Kwinson Ho that construction of the Woodbine Property was substantially completed at the time ownership was transferred.
+E. The Sixth Condition [36] Paragraph 254(2)(f) provides that, after the construction is substantially completed and before possession of the complex is given to the group of individuals under the agreement of purchase and sale of the complex, the property must not be occupied by any individual as a place of residence or lodging.
+[37] The evidence before me is that the house was not occupied by any individual before it was sold to the Purchasing Group and before the group was given possession.
+F. The Seventh Condition [38] Clause 254(2)(g)(i)(A) contains the following requirement: the first individual to occupy the complex as a place of residence at any time after substantial completion of the construction must be the particular individual or a relation of the particular individual.
+[39] After the application of subsection 262(3) to clause 254(2)(g)(i)(A), the condition reads as follows: the first individual to occupy the complex as a place of residence at any time after substantial completion of the construction must be all of the individuals as a group or a relation of all of the individuals as a group.
+[40] It is the Appellant’s position that the seventh condition is satisfied if any member of the Purchasing Group occupied the Woodbine Property as a place of residence after construction of the home was substantially completed.
+[41] It is the Respondent’s position that, in order for the seventh condition to be satisfied, all of the members of the Purchasing Group had to occupy the Woodbine Property as a place of residence after construction of the home was substantially completed.
+[42] I agree with the Respondent.
+[43] Clause 254(2)(g)(i)(A) as modified by subsection 262(3) does not contain any ambiguities. It clearly states that all of the individuals as a group must occupy the complex as a place of residence. Further, this is consistent with paragraph 254(2)(b), which requires all of the members of the group to have the intention, at the time they acquire the complex, to use the complex as their primary place of residence.
+[44] Further, if one ignores subsection 262(3), subsection 254(2) requires an individual to have acquired the complex with the intention of using it as his/her primary place of residence and then to actually occupy it as his/her residence. Subsection 262(3) merely places that same requirement on all of the individuals who comprise the group.
+[45] The Appellant relies on this Court’s decision in Hamel v. The Queen, 2004 TCC 315, 2005 G.S.T.C. 75. In my view, this decision is distinguishable, since my colleague Justice Tardif found that all of the members of the group either occupied the residence at the time the rebate application was made or intended to occupy the residence.
+[46] Unfortunately, this is not the fact situation before me. Tony Ho, one of the members of the Purchasing Group, did not reside at the Woodbine Property nor did he intend to reside at the property. The only residents of the Woodbine Property were Kwinson Ho, his spouse and his mother.
+[47] Further, neither Kwinson Ho, nor his spouse, nor his mother is a relation of Tony Ho for the purposes of the GST Legislation.
+[48] As a result, the Purchasing Group is not entitled to the First Rebate.
+The Second Rebate [49] The Purchasing Group will qualify for the Second Rebate, relating to the 8% portion of the HST, provided the conditions in subsection 256.21(1) and the related regulations are satisfied.
+[50] Subsection 256.21(1) provides that, if a sales tax harmonization agreement with the government of a participating province allows for rebates in respect of residential property relating to the new harmonized value-added tax system in respect of that participating province, the Minister shall pay in prescribed circumstances a rebate in respect of prescribed property to a prescribed person, or a person of a prescribed class, equal to an amount determined in prescribed manner.
+[51] Ontario is a participating province. Further it appears that the agreement between the federal government and Ontario with respect to the application of the HST under the GST Legislation provides for a rebate in respect of residential property.
+[52] The relevant regulations are contained in Part 8 of the New Harmonized Value-added Tax System Regulations, No. 2 (the “Regulations”). Subsection 41(2) of the Regulations contains the tests that must be satisfied before the purchase of the Woodbine Property will qualify for the Second Rebate.
+[53] The wording in subsection 41(2) refers to an individual. However, section 40 of the Regulations extends the application of subsection 41(2) to a group of individuals.
+[54] Section 40 of the Regulations states, in part, that if a supply of a residential complex is made to two or more individuals, the references in section 41 of the Regulations and the references in section 256.21 of the GST Legislation to an individual are to be read as references to all of those individuals as a group. However, only one of the individuals may apply for the rebate.
+[55] As discussed previously, the Purchasing Group purchased the Woodbine Property. Therefore subsection 41(2) as modified by section 40 of the Regulations applies to the sale of the Woodbine Property.
+[56] The subsection as modified provides that, if a group of individuals is entitled to claim a rebate under subsection 254(2) in respect of a single-unit residential complex acquired for use in Ontario as the primary place of residence of the group of individuals or a relation of the group of individuals, the group of individuals is a prescribed person for the purposes of subsection 256.21(1). This will be the result provided the total consideration in respect of the complex is less than $450,000.
+[57] Since the Purchasing Group is not entitled to claim a rebate under subsection 254(2), it is also not entitled to claim a rebate under subsection 256.21(1) and the related regulations.
+[58] For the foregoing reasons the appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 16th day of January 2015.
+“S. D’Arcy”
+D'Arcy J.
+CITATION:
+2015 TCC 10
+COURT FILE NO.:
+2013-2423(GST)I
+STYLE OF CAUSE:
+TONY HO v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario and by conference call
+DATES OF HEARING:
+March 7, 2014, March 18, 2014 and April 16, 2014, with written submissions filed with the Court on June 12, 2014, June 30, 2014 and September 2, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT:
+January 16, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Yan Wang
+Counsel for the Respondent:
+Tony Cheung
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Yan Wang
+Firm:
+Hodder Barristers
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Subsections 165(1) and 165(3).
+[2] Subsections 165(1), (2) and (3).
+[3] Subsections 165(1) and 165(2), section 1 of Part IV of Schedule IX, and Schedule VIII.

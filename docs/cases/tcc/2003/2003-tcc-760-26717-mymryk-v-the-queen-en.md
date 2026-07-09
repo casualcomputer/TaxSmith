@@ -1,0 +1,230 @@
+---
+title: "Mymryk v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26717/index.do"
+last_modified: "2003-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 760"
+citation2: ""
+neutral_citation: "2003 TCC 760"
+decision_date: "2003-10-24"
+language: "en"
+item_id: "26717"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3398
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:35:18.098000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8428ef7d96c91a0c889dd26d9b178faf63c3cf2134820f37d292088e9a76c89a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mymryk v. The Queen
+
+- Citation: 2003 TCC 760
+- Decision date: 2003-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3398, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mymryk v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-24
+Neutral citation
+2003 TCC 760
+File numbers
+2002-1108(IT)I
+Judges and Taxing Officers
+Alban Garon
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-1108(IT)I
+BETWEEN:
+CLIFF MYMRYK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 25, 2002 in Winnipeg, Manitoba,
+by way of conference call on May 5, 2003 in Ottawa, Ontario, and
+on September 25, 2003 in Winnipeg, Manitoba.
+Before: The Honourable Alban Garon, Chief Justice
+Appearances:
+Agent for the Appellant:
+Richard Guy Gamble
+Counsel for the Respondent:
+Michael Van Dam
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2000 taxation year is dismissed.
+Signed at Ottawa, Canada, this 24th day of October 2003.
+"Alban Garon"
+Garon, C.J.
+Citation: 2003TCC760
+Date: 20031024
+Docket: 2002-1108(IT)I
+BETWEEN:
+CLIFF MYMRYK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+GARON, C.J.
+[1] This is an appeal from an income tax reassessment for the 2000 taxation year. By his reassessment, the Minister of National Revenue disallowed the equivalent to spousal tax credit claimed by the Appellant in respect of his son under paragraph 118(1)(b) of the Income Tax Act (the "Act").
+[2] In reassessing the Appellant in respect of the year 2000, the Minister of National Revenue made the following assumptions of fact set out in paragraph 7 of the Reply to the Notice of Appeal. Paragraph 7 reads as follows:
+7. In so reassessing the Appellant, the Minister made the following assumptions of fact:
+(a) the facts stated in paragraphs 4 and 6 above;
+(b) the Appellant and Lynnette Mymryk, (hereinafter the "former spouse") are the parents of two children of their marriage, . . . *[hereinafter referred as the daughter and son];
+(c) pursuant to a Consent Interim Order made on May 6, 1992 (the "Consent Interim Order"), the Appellant was required to pay to the former spouse, interim maintenance for the support of the former spouse and the children of the marriage, being [the daughter and son], in the amount of $1,000.00 per month, commencing February 15, 1992;
+(d) pursuant to a Consent Interim Variation Order made August 4, 1993, the Consent Interim Order was amended to change the support that the Appellant was required to pay to the former spouse in respect of herself and the children of the marriage, to $700.00 per month, commencing September 15, 1992;
+(e) pursuant to a Separation Agreement made on December 28, 1993, the Appellant agreed to pay to the former spouse, child support in respect of [the daughter and son] in the amount of $700.00 per month, commencing October 1, 1993;
+(f) the Appellant and the former spouse became divorced by Divorce Judgment pronounced April 10, 1997;
+(g) pursuant to a Consent Judgment made on April 10, 1997, the Appellant was required to pay to the former spouse child support in respect of [the daughter and son] in the amount of $250.00 per month per child, for a total of $500.00 per month, commencing April 1, 1997;
+(h) [the son] commenced living with the Appellant in or about January, 2000;
+(i) pursuant to a statutory declaration made on January 22, 2000, the former spouse agreed that she only required child support for one child in the amount of $250.00 per month commencing January 30, 2000;
+(j) the Appellant made child support payments in the amount of $3,800.00 in the 2000 taxation year;
+(k) in respect of the child support made in the 2000 taxation year, $3,050.00 was on account of current child support owing for the 2000 taxation year and $750.00 was on account of arrears child support owing prior to the 2000 taxation year;
+(l) the arrears child support in the amount of $750.00 that was paid by the Appellant in the 2000 taxation year included amounts owing in respect of [the son]; and
+(m) the Appellant was living separate and apart from his former spouse throughout the 2000 taxation year because of a breakdown of their marriage.
+*[The words in brackets in paragraph 7 of the Reply to the Notice of Appeal are substituted for the names of the children.]
+[3] Since subparagraph 7(a) of the Reply to the Notice of Appeal indicates that the Minister of National Revenue assumed, inter alia, the facts stated in paragraphs 4 and 6 of the said Reply to the Notice of Appeal, these latter two paragraphs should be reproduced:
+4. In computing his income tax liability for the 2000 taxation year, the Appellant claimed:
+(a) a deduction for child support in the amount of $3,800.00; and
+(b) a personal credit in respect of the amount for wholly dependent person (the "Credit") for his son, . . ., in the amount of $6,140.00, 17% of which is the actual non-refundable tax credit for the year.
+. . .
+6. In reassessing the Appellant for the 2000 taxation year on July 6, 2001, the Minister allowed the Appellant a deduction for child support in the amount of $3,800.00.
+[4] The Appellant and Mr. Richard Guy Gamble, C.A., were the only witnesses at the hearing of this appeal.
+[5] The Appellant denied subparagraph 7(l) of the Reply to the Notice of Appeal and admitted the allegations set out in the remaining subparagraphs of this pleading, including subparagraph 7(a), which expressly incorporates paragraphs 4 and 6 of the Reply to the Notice of Appeal.
+[6] At the Court's request, written submissions were made by both parties following the first segment of the hearing of this appeal. In these submissions, reference was made to seven documents, which had not previously been filed with the Court. In these circumstances, I decided to reopen the hearing of this appeal conducted by way of a telephone conference for the purpose of filing with the Court this additional material subject to any objection that one of the parties may have with respect to the filing of any document by the opposite party. The parties were also permitted to advance any additional arguments arising out of the additional evidence that the parties were to be permitted to adduce before the Court.
+[7] Following this telephone conference at which seven exhibits were filed and additional arguments were heard, it became apparent that the Court needed additional evidence to dispose of the case. Fresh evidence was required in connection with five specific questions that were outlined in a Court's letter dated May 8, 2003. For that purpose, a further hearing in open court was held recently. In the latter segment of the hearing, seven additional exhibits were filed in the course of the deposition of the Appellant's representative, Mr. Richard Guy Gamble, C.A.
+[8] The evidence of the Appellant in general terms is that the payment of $750 made in the year 2000 represented arrears of support but these payments were not made to his ex-wife but to the Minister of Finance of Manitoba. When he was asked by the Court to which of his two children the payment of $750 related, the Appellant was unable to answer precisely, as appears from the following passage:
+HIS HONOUR: -- was in respect of who?
+THE WITNESS: That I'm not sure, it could have been in respect all of my daughter, because there were payments made, it could be for my daughter. The payments could be for my daughter.
+HIS HONOUR: And it could be for both, I suppose?
+THE WITNESS: I guess it could be, yes.
+HIS HONOUR: I see. So you do not know really what that amount of $750.00 represents? You know it represents arrears, but you do not know in respect of which of your children this amount was paid in the year 2000?
+. . .
+THE WITNESS: Yes, that's clear, that's true. But also, the payments in the year 2000 were not made to my children, they were made to the Minister of Finance - -
+[Transcript of October 25, 2002, at page 18, lines 2 to 17 incl.]
+[9] With regard to the balance of the evidence, it seems to me to be useful to reproduce portions of the evidence of the Appellant's representative, Mr. Gamble, given in the last segment of the hearing which deal with some specific questions posed by the Court in its letter of May 8, 2003 referred to earlier.
+Question 1: When did the $750 of support paid by the Appellant in 2000, first become due? That is, how late was his payment?
+Answer (transcript of September 25, 2003 at page 10):
+EVIDENCE BY MR. GAMBLE:
+THE WITNESS: . . .
+And that $750.00 were payments Mr. Mymryk made during 2000 under the consent default order and they form a part of the $4,817.00 and with a result of arrears between April 1, 1995 and April 1, 1997.
+Question 2: What Order or Judgment required the Appellant to make the $750 payment? Was it the Consent Judgment of April 10, 1997 or some other Order? Please file a copy of the applicable Order or Judgment, if any, at the next hearing.
+Answer (transcript of September 25, 2003 at page 11):
+HIS HONOUR: So the answer to the second question is that it was the consent order, dated?
+THE WITNESS: April 22, 1999.
+. . .
+THE WITNESS: I gather it was signed by Master Ring on May 10, 1999.
+Question 3: The Court has copies of two assignments dated December 10, 1996. If some other assignment applies to the $750 at issue, please file it with the Court.
+Regarding this question, it appears, although it is not too clear, that the witness stated that in addition to the two assignments dated December 10, 1996 reference should be made to a document entitled "Termination of Assignment" dated April 1, 1997, which is Exhibit A-9.
+Question 4. The Court has a copy of a Termination of Assignment dated April 1, 1997. If another Termination of Assignment applies, please file it with the Court.
+Answer (transcript of September 25, 2003 at page 14):
+. . . There is no other termination that we're aware of.
+Question 5. Please submit evidence linking the $750 payment to one or both of the Appellant's children.
+Answer (transcript of September 25, 2003 at page 14):
+. . . I would have to admit, it's impossible to link it to one of the children.
+HIS HONOUR: Impossible.
+THE WITNESS: The payments made during the support period always exceeded the amount for one child but they're not linked to a child.
+Analysis
+[10] The general question in issue is whether the Appellant is entitled regarding the year 2000 to the equivalent to spousal tax credit in respect of his son. This tax credit is set out in paragraph 118(1)(b) of the Act, as mentioned earlier. This credit is also described in the Act as a tax credit in respect of a wholly dependent person.
+[11] It is not disputed that all the criteria spelled out in paragraph 118(1)(b) of the Act in respect of the entitlement to this credit are applicable in the Appellant's case with respect to the year 2000. Among other components of this provision, the Appellant was during the year 2000 an unmarried person who maintained a self-contained domestic establishment and who actually supported his son. However, subsection 118(5) of the Act denies an individual in specific circumstances the tax credit provided by any of the paragraphs of subsection 118(1) of the Act, including paragraph 118(1)(b), which is in issue in the present case. The impact of subsection 118(5) of the Act must therefore be looked into.
+[12] Subsection 118(5) of the Act as it applied to the year in issue reads:
+No amount may be deducted under subsection (1) in computing an individual's tax payable under this Part for a taxation year in respect of a person where the individual is required to pay a support amount (as defined in subsection 56.1(4)) to the individual's spouse or former spouse in respect of the person and the individual
+(a) lives separate and apart from the spouse or former spouse throughout the year because of the breakdown of their marriage; or
+(b) claims a deduction for the year because of section 60 in respect of a support amount paid to the spouse or former spouse.
+[13] In brief general terms, this subsection provides that a taxpayer may not claim any credit for a taxation year under subsection 118(1) of the Act, including the credit with which the Court is presently concerned, in respect of a wholly dependent child, if the taxpayer is required to pay a support amount in respect of that particular child.
+[14] The phrase "support amount" referred to in subsection 118(5) of the Act is defined in subsection 56.1(4) of the Act:
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or former spouse of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[15] I must therefore determine if subsection 118(5) of the Act precludes the Appellant in the circumstances of this case from claiming the tax credit provided by paragraph 118(1)(b) of the Act.
+[16] Having regard to the respective positions of the parties, I am called upon to deal with two general questions:
+1. Was the Appellant required in the year 2000 to pay to his former spouse a support amount as provided by subsection 118(5) of the Act?
+2. If the answer to the preceding question is in the affirmative, was the support amount in question payable in respect of the Appellant's son?
+[17] In view of the contents of Exhibit A-6 and the deposition of Mr. Gamble, it is clear that the payment of $750 that was made in the year 2000 by the Appellant represented arrears of support that had accumulated between the period of April 1, 1995 and April 30, 1997. More generally, it is beyond dispute from the whole of the evidence that the Appellant was required in the year 2000 to pay arrears of support to his former spouse. In this connection, it is of interest to refer to the Consent Default Order dated May 10, 1999, where it is set out inter alia that the arrears of maintenance accumulated to the date of April 22, 1999 (some 8 months prior to the beginning of the year 2000, the year in issue), were declared to be $4,817.66. Pursuant to the same Order, the periodic payments of maintenance (at the semi-monthly rate of $50), which were to commence on June 1st, 1999, were payable to the Appellant's ex-spouse and were to be sent to the Designated Officer of the Maintenance Enforcement Program of the Manitoba Government. However, there is no evidence as to the precise amount of support arrears that was owing by the Appellant in respect of his children throughout the year 2000.
+[18] In connection with the first question, two arguments were made on behalf of the Appellant in support of the proposition that the Appellant was not required in the year in issue to pay a support amount to his former wife.
+[19] On behalf of the Appellant, it was contended that because of the existence of the Assignments of support arrears referred to earlier, the support arrears were not payable by the Appellant to his former wife but to the Manitoba Government. Consequently, according to the Appellant, subsection 118(5) of the Act is not applicable.
+[20] It is true that the support arrears were the subject of two assignments respectively dated December 10, 1996 and February 3, 1997 (Exhibits A-2 and A-11), where the assignee is the Executive Director of Social Services of the Manitoba Government. The first assignment covers the period of April 1st, 1995 up to and including December 5, 1996 and the second assignment relates to the period beginning on December 1st, 1996 and ending on February 3, 1997. I do not have to determine which of the two assignments is applicable to the amount of $750 paid by the Appellant in the year 2000 since the relevant operative part of each assignment is couched in the same terms, which provides as follows: "Therefore, I, Lynnette Mymryk [the Appellant's former spouse] do hereby assign to the Executive Director of Social Services all rights to the arrears of support for that period during which I was in receipt of Social Allowances benefits." [Words in brackets added.]
+[21] Reference was also made by the Appellant to an Exhibit (A-4)[1] entitled "Termination of Assignment" dated April 1st, 1997. This "Termination of Assignment" has no effect on the operation of the two assignments of support arrears since there is a stipulation in the "Termination of Assignment", which reads: "The Executive Director of Social Services hereby also maintains a claim to arrears of support which accumulated between April 1, 1995 and April 30, 1997."
+[22] In considering this first argument propounded by the Appellant, it is clearly implied that under the two Court Orders mentioned in the two Assignments, which Court Orders were not filed with the Court, the payments were to be made by the Appellant to his former spouse. Also, the payments made by the Appellant under these two Assignments to the Executive Director of Social Services must be considered to have been made to his former spouse since they were made pursuant to her consent and direction. See subsection 56(2) of the Act regarding indirect payments.
+[23] I am therefore of the opinion that the first argument put forward by the Appellant is not well-founded.
+[24] I shall now turn to the Appellant's second argument according to which the Appellant's ex-spouse had no discretion as to the use of the support arrears in question.
+[25] In view of the fact that the Appellant was obligated to make payments of arrears of support to the Executive Director of Social Services, under the Court Orders (referred to in the two assignments), respectively dated September 14, 1993 and April 12, 1996, the Appellant contends that the Appellant's ex-spouse did not have discretion as to the use of the support amount that was payable in the year 2000. In the Appellant's view, the support arrears do not meet the definition of support amount in subsection 56.1(4) of the Act.
+[26] In support of his position, the Appellant relied on the decision of Judge Kempo of this Court in the case C. Bishop v. M.N.R., [1993] 1 C.T.C. 2333. This was a case where Mrs. Bishop did not receive any support payments that her former husband was required to make pursuant to a Court Order. In order to support herself and her children, she was forced to seek social assistance. Because of this situation, she assigned to the (Ontario) Minister of Community and Social Services her right to receive support payments. The Court decided in that case that Mrs. Bishop had divested herself of all her rights to the support payments from her ex-husband and therefore had no discretion as to the use of the amounts paid by Mr. Bishop. According to Judge Kempo, Mrs. Bishop's right to receive social assistance benefits arose from the Ontario social assistance legislation and not from the assignment.
+[27] I did not follow the Bishop decision in the case Pepper v. R., [1997] C.T.C. 2716. In the Pepper decision, I stated that I could not see how a person entitled to receive maintenance payments could by her own act deprive the payor of such payments of the benefit of the deduction to which he would otherwise be entitled under the relevant paragraphs of section 60 of the Act, by simply making an assignment to a third party. Likewise, in the present case, it would not be logical and fair that his former spouse can prevent the Appellant from treating as support amount any amount paid or payable to the Executive Director of Social Services under the two assignments mentioned earlier. In this respect, it is noteworthy that the Appellant in computing his income for the 2000 taxation year deducted, and the Minister of National Revenue allowed as a deduction, the amount of $750, which represented support arrears paid by the Appellant in the year 2000.
+[28] I have not been referred to any restrictions in the two Court Orders mentioned in the Assignments of support arrears pursuant to which the Appellant was required to pay a support amount. In view of the conclusion at which I have arrived on this question, I have not found it necessary to consider the impact on the Assignments mentioned earlier, if any, of the Consent Default Order dated May 10, 1999.
+[29] I therefore conclude that the Appellant's second argument according to which the Appellant's ex-spouse had no discretion as to the use of the support amount cannot be accepted.
+[30] I will now turn to the second general question of whether the Appellant was required in the year 2000 to pay a support amount to his former wife in respect of his son.
+[31] It is common ground that the payment of $750 represented arrears of support in respect of either one of the Appellant's children or both of them. From the evidence, the arrears of support with which the Court is concerned, as indicated earlier, refer to a period beginning in April 1995 and ending in April 1997.
+[32] The Appellant stated in his testimony that he did not know if any portion of the amount of $750 paid by him in the year 2000 represented support arrears in respect of his son.
+[33] Mr. Gamble asserted in his deposition that it is impossible to determine if any portion of the amount of $750 paid by the Appellant as support amount was in respect of the Appellant's son.
+[34] Counsel for the Respondent (at page 35 of the transcript of the proceedings of September 2003) indicated that he had no evidence to contradict the possibility that the payment of $750 could relate to the Appellant's daughter only. He appeared to have recognized the validity of Mr. Gamble's assertion in this respect. However, he did not state that the assumption made by the Minister of National Revenue in subparagraph 7(l) of the Reply to the Notice of Appeal was wrong.
+[35] Most questions posed in the Court's letter of May 8, 2003, mentioned earlier, related to the payment of support arrears in the amount of $750 that was made by the Appellant in the year 2000. I now believe I was wrong in restricting these questions to the subject payment of $750 in view of the wording of subsection 118(5) of the Act, which speaks of situations "where the individual is required to pay a support amount . . . to the individual's spouse or former spouse." [Emphasis added]. I should have referred to the broader question whether the Appellant was required in the year 2000 to pay any support amount, irrespective of the precise figure, to his former spouse in respect of his son.
+[36] As indicated earlier, the evidence does not disclose the exact amount of support arrears owed by the Appellant throughout the year 2000. However, the evidence reveals, as it appears from the Consent Default Order dated May 10, 1999, that a) the arrears of maintenance accumulated to the date of April 22nd, 1999 amounted to $4,817.66 and b) that such arrears of maintenance were to be paid at the rate of $50 semi-monthly commencing on June 1st, 1999. It is also clear from the evidence that the payment of $750 paid in the year 2000 represented a portion of such arrears.
+[37] Having regard to the above, it is likely that the amount of arrears of maintenance owing by the Appellant at the beginning of the year 2000 was close to $4,000 or at the very least substantially greater than $750. Mr. Gamble also mentioned in his evidence that "the payments made during the support period always exceeded the amount for one child but they are not linked to a child." (Transcript - September 25, 2003 - page 14).
+[38] The idea that the payments in arrears were only paid in respect of the daughter is baseless. In my view, the payments in arrears were, in part, made in respect of the Appellant's son. During the period between April 1995 and April 1997, the period during which arrears had accumulated, the monthly payments to be made by the Appellant were in the amount of $700 per month. There has been no suggestion that the Appellant wrote two cheques one in respect of his son's maintenance and one in respect of his daughter's maintenance. Furthermore, when he defaulted on his support obligations during the above-mentioned period and paid less than the required amount, there is no suggestion that the Appellant specifically apportion a fraction of the amount between his son and daughter, assuming that such apportionment would have been valid. Accordingly, it is reasonable to suggest that when the arrears payments are made they are intended to benefit both children equally. Thus, the payments in arrears were, in part, paid in respect of the Appellant's son.
+[39] Looking at the evidence as a whole, I find that it is likely that the Appellant was required in the year 2000 to pay a support amount in respect of his son.
+CONCLUSION
+[40] Since I have determined that the Appellant was required in the year 2000 to pay a support amount to his former spouse and that a portion of the support was in respect of the Appellant's son it follows that the Appellant is precluded by subsection 118(5) of the Act from claiming the equivalent to spousal tax credit referred to in paragraph 118(1)(b) of the Act.
+[41] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 24th day of October 2003.
+"Alban Garon"
+Garon, C.J.
+CITATION:
+2003TCC760
+COURT FILE NO.:
+2002-1108(IT)I
+STYLE OF CAUSE:
+Cliff Mymryk and
+Her Majesty The Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+October 25, 2002
+May 5, 2003
+September 25, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Alban Garon
+Chief Justice
+DATE OF JUDGMENT:
+October 24, 2003
+APPEARANCES:
+Agent for the Appellant:
+Richard Guy Gamble
+Counsel for the Respondent:
+Michael Van Dam
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Copy of the same document was also filed a second time as Exhibit A-9.

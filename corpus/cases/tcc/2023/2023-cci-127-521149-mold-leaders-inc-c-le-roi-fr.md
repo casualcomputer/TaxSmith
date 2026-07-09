@@ -1,0 +1,307 @@
+---
+title: "Mold Leaders Inc. c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521149/index.do"
+last_modified: "2023-08-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 CCI 127"
+citation2: ""
+neutral_citation: "2023 CCI 127"
+decision_date: "2023-08-21"
+language: "fr"
+item_id: "521149"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5678
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:43:37.470000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9406aee5475322b0be2b836c15e85ade2399f2ff83eaa71e5c54048b13996d78"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mold Leaders Inc. c. Le Roi
+
+- Citation: 2023 CCI 127
+- Decision date: 2023-08-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5678, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mold Leaders Inc. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-11-06
+Référence neutre
+2023 CCI 127
+Numéro de dossier
+2019-3354(IT)G
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-3354(IT)G
+ENTRE :
+MOLD LEADERS INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 7 juillet 2022, à Ottawa (Ontario).
+Devant : l’honorable juge Bruce Russell.
+Comparutions :
+Avocat de l’appelante :
+Me Jonathan Garbutt
+Avocate de l’intimé :
+Me Dominique Gallant
+JUGEMENT
+L’appel est rejeté avec dépens. Les parties disposent d’un délai de 30 jours à compter de la date du présent jugement pour déposer des observations sur les dépens d’au plus 15 pages chacune, au cas où elles n’auraient pas résolu entre elles la question des dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 21e jour d’août 2023.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 17e jour de février 2025.
+Mylène Boudreau, jurilinguiste principale
+Référence : 2023 CCI 127
+Date : 20231106
+Dossier : 2019-3354(IT)G
+ENTRE :
+MOLD LEADERS INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Russell
+Introduction
+[1] L’appelante, Mold Leaders Inc. (« ML »), a interjeté appel de la nouvelle cotisation établie pour son année d’imposition 2016 et de la cotisation établie pour son année d’imposition 2017, toutes deux établies le 1er novembre 2018 en vertu de la Loi de l’impôt sur le revenu (la « Loi »). Dans la cotisation et la nouvelle cotisation portées en appel, le ministre du Revenu national (le « ministre ») a refusé les déductions réclamées pour des dépenses de recherche scientifique et développement expérimental (« RS&DE ») et les crédits d’impôt à l’investissement (« CII ») correspondants prévus par la Loi.
+[2] Pendant la période en cause, ML, située à Georgetown, en Ontario, était une entreprise spécialisée dans la fabrication de moules à injection, dans l’usinage à commande numérique par ordinateur et dans la fabrication de moules prototypes pour une clientèle provenant notamment du secteur automobile. Ces travaux comprenaient la conception et le développement de moules nouveaux ou améliorés et des activités de recherche connexes.
+[3] En 2016 et 2017, ML a participé à plus de 300 projets, dont huit pour lesquels elle a présenté une demande pour ses dépenses de RS&DE. Pour l’année d’imposition 2016, ML a demandé une déduction de 44 356 $ pour ses dépenses de RS&DE et un CII remboursable de 17 618 $. Pour l’année d’imposition 2017, ML a demandé une déduction de 156 524 $ pour ses dépenses de RS&DE et un CII remboursable de 70 868 $.
+[4] ML affirme que le ministre a rejeté à tort les huit demandes qu’elle avait présentées pour ses dépenses de RS&DE.
+I. Question en litige [5] La question qui se pose pour chacun des huit projets est celle de savoir si les demandes de ML pour ses dépenses de RS&DE sont valables.
+II. Loi et jurisprudence applicables [6] L’expression « activités de recherche scientifique et de développement expérimental » est définie au paragraphe 248(1) de la Loi :
+activités de recherche scientifique et de développement expérimental Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+a) la recherche pure, à savoir les travaux entrepris pour l’avancement de la science sans aucune application pratique en vue;
+b) la recherche appliquée, à savoir les travaux entrepris pour l’avancement de la science avec application pratique en vue;
+c) le développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent.
+Pour l’application de la présente définition à un contribuable, sont compris parmi les activités de recherche scientifique et de développement expérimental :
+d) les travaux entrepris par le contribuable ou pour son compte relativement aux travaux de génie, à la conception, à la recherche opérationnelle, à l’analyse mathématique, à la programmation informatique, à la collecte de données, aux essais et à la recherche psychologique, lorsque ces travaux sont proportionnels aux besoins des travaux visés aux alinéas a), b) ou c) qui sont entrepris au Canada par le contribuable ou pour son compte et servent à les appuyer directement.
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+e) l’étude du marché et la promotion des ventes;
+f) le contrôle de la qualité ou la mise à l’essai normale des matériaux, dispositifs, produits ou procédés;
+g) la recherche dans les sciences sociales ou humaines;
+h) la prospection, l’exploration et le forage fait en vue de la découverte de minéraux, de pétrole ou de gaz naturel et leur production;
+i) la production commerciale d’un matériau, d’un dispositif ou d’un produit nouveau ou amélioré, et l’utilisation commerciale d’un procédé nouveau ou amélioré;
+j) les modifications de style;
+k) la collecte normale de données.
+[7] La décision faisant autorité sur la question de savoir en quoi consistent des activités de RS&DE est la décision Northwest Hydraulic Consultants Ltd. c. La Reine, 1998 CanLII 553 (CCI). Dans cette décision, le juge Bowman (plus tard juge en chef) a établi le critère en cinq volets pour déterminer ce qu’on entend par RS&DE :
+1. Existe-t-il un risque ou une incertitude technologique?
+a. Lorsqu’on parle de « risque ou [d’]incertitude technologique » dans ce contexte, on laisse implicitement entendre qu’il doit exister une incertitude quelconque qui ne peut pas être éliminée par les études techniques courantes ou par les procédures habituelles. Je ne parle pas du fait que dès qu’un problème est décelé, il peut exister un certain doute au sujet de la façon dont il sera réglé. Si la résolution du problème est raisonnablement prévisible à l’aide de la procédure habituelle ou des études techniques courantes, il n’y a pas d’incertitude technologique telle que cette expression est utilisée dans ce contexte.
+b. Qu’entend-on par « études techniques courantes »? C’est cette question (ainsi que celle qui se rapporte au progrès technologique) qui semble avoir divisé les experts plus que toute autre. En résumé, cela se rapporte aux techniques, aux procédures et aux données qui sont généralement accessibles aux spécialistes compétents dans le domaine.
+2. La personne qui prétend se livrer à de la RS & DE a-t-elle formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique? La chose comporte un processus à cinq étapes :
+a. l’observation de l’objet du problème;
+b. la formulation d’un objectif clair;
+c. la détermination et la formulation de l’incertitude technologique;
+d. la formulation d’une hypothèse ou d’hypothèses destinées à réduire ou à éliminer l’incertitude;
+e. la vérification méthodique et systématique des hypothèses. […]
+3. Les procédures adoptées sont-elles conformes aux principes établis et aux principes objectifs de la méthode scientifique, définis par l’observation scientifique systématique, la mesure et l’expérimentation, ainsi que la formulation, la vérification et la modification d’hypothèses?
+a. Il est important de reconnaître que même si la méthodologie susmentionnée décrit les aspects essentiels de la RS & DE, la créativité intuitive et même l’ingéniosité peuvent avoir un rôle crucial dans le processus aux fins de la définition de la RS & DE. Toutefois, ces éléments doivent exister dans le cadre de la méthode scientifique dans son ensemble.
+b. Ce qui peut sembler habituel et évident après coup ne l’était peut-être pas au début des travaux. Ce n’est pas uniquement l’adhésion à des pratiques systématiques qui distingue l’activité courante des méthodes nécessaires selon la définition de la RS & DE figurant à l’article 2900 du Règlement, mais l’adoption de la méthode scientifique décrite ci-dessus dans son ensemble, en vue d’éliminer une incertitude technologique au moyen de la formulation et de la vérification d’hypothèses innovatrices non vérifiées.
+4. Le processus a-t-il abouti à un progrès technologique, c’est-à-dire à un progrès en ce qui concerne la compréhension générale?
+a. Je veux dire par là quelque chose que les personnes qui s’y connaissent dans le domaine savent ou qu’elles peuvent de toute façon savoir. Je ne parle pas d’un élément de connaissance que quelqu’un, quelque part, peut connaître. La collectivité scientifique est étendue, et elle publie des documents dans de nombreuses langues. Un progrès technologique au Canada ne cesse pas d’être tel simplement parce qu’il existe un[e] possibilité théorique qu’un chercheur, disons, en Chine, a peut-être fait le même progrès, mais que ses travaux ne sont généralement pas connus.
+b. Le rejet, après l’essai d’une hypothèse, constitue néanmoins un progrès en ce sens qu’il élimine une hypothèse jusque[-]là non vérifiée. Une bonne partie de la recherche scientifique vise justement à cela. Le fait que l’objectif initial n’est pas atteint n’invalide ni l’hypothèse qui a été émise ni les méthodes qui ont été employées. Au contraire, il est possible que l’échec même renforce le degré d’incertitude technologique.
+5. La Loi et son règlement d’application ne le prévoient pas expressément, mais il semble évident qu’un compte rendu détaillé des hypothèses, des essais et des résultats, doive être fait, et ce, au fur et à mesure de l’avancement des travaux.
+[8] Récemment, dans l’arrêt National R&D Inc. c. Canada, 2022 CAF 72, [2022] 2 R.C.F. F-5, au paragraphe 2, la Cour d’appel fédérale (la « CAF ») a accepté le résumé suivant des cinq critères mentionnés plus haut pour déterminer si des activités sont des activités de RS&DE :
+1. Existait-il un risque ou une incertitude technologique qui ne pouvait être éliminé par les procédures habituelles ou les études techniques courantes?
+2. La personne qui prétend se livrer à de la RS & DE a-t-elle formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique?
+3. La procédure adoptée était-elle complètement conforme à la discipline de la méthode scientifique, notamment dans la formulation, la vérification et la modification des hypothèses?
+4. Le processus a-t-il abouti à un progrès technologique?
+5. Un compte rendu détaillé des hypothèses vérifiées et des résultats a-t-il été fait au fur et à mesure de l’avancement des travaux?
+III. Les huit projets [9] M. David Duong était le principal témoin de l’appelante, ML. Il en est le propriétaire et le président. Je l’ai trouvé bien informé et crédible. Il a témoigné en anglais, sa quatrième langue. Après l’école secondaire, il a obtenu un diplôme au terme d’un programme de techniques de génie mécanique de deux ans au Humber College de Toronto. Il y a appris la CFAO et l’usinage à commande numérique par ordinateur.
+[10] Par CFAO, on entend la conception et la fabrication assistées par ordinateur. M. Duong a travaillé pendant cinq ans dans une entreprise qui l’a initié à la fabrication de moules et où il est devenu chef du service de l’usinage à commande numérique par ordinateur.
+[11] M. Duong s’est ensuite joint à une entreprise nouvellement créée qui s’est rapidement développée dans le domaine de la fabrication de moules, ce qui l’a incité à créer sa propre entreprise de fabrication de moules en 2002, à savoir l’appelante, ML. ML a consacré beaucoup de temps à l’usinage de haute précision pour la fabrication de moules et d’articles connexes. Au cours des années 2016 et 2017, ML a pris part à environ 320 projets demandés par des clients. Bien qu’elle n’ait pas mené ces projets dans l’optique de se livrer à des activités de RS&DE, elle a par la suite présenté des demandes pour des dépenses de RS&DE à l’égard de huit de ces projets. Ces demandes sont en litige dans le présent appel.
+[12] À l’heure actuelle, M. Duong dirige ML, qui compte sept personnes, dont lui-même. Il décrit ML comme étant principalement un concepteur sur mesure et un fabricant de moules à injection de précision. ML n’est pas le mouleur; elle fabrique des moules que les clients utilisent pour produire leurs pièces (généralement en plastique).
+[13] M. Duong, qui a témoigné pour ML, était le seul témoin à avoir une connaissance directe des huit projets en question.
+[14] Dans les paragraphes suivants, j’énumère les huit projets pour lesquels ML a présenté une demande pour des dépenses de RS&DE, et je fournis des extraits du témoignage de M. Duong.
+[15] Projet 1 : ce projet a débuté par un contrat conclu en 2016 entre ML et un client, Dynaplas, pour la conception et la fabrication d’un moule à quatre cavités destiné à la production d’une valve utilisée dans les systèmes de freinage antiblocage du secteur automobile.
+[16] Le moule devait s’ouvrir et éjecter la pièce une fois solidifiée. Au départ, de l’acier H13 avait été utilisé pour fabriquer le moule. La pièce était en plastique, mais durcie avec 30 % de verre, ce qui rendait le plastique plus dur que ce à quoi ML était habituée. Le premier moule réalisé avec de l’acier H13 ne convenait pas. Les essais effectués par le client sur le moule ont révélé un désalignement après une courte période. Après d’autres travaux, ML et Dynaplas ont convenu d’utiliser de l’acier W360, dont la dureté est supérieure à celle de l’acier H13. ML n’avait jamais travaillé avec de l’acier W360. Elle s’en est procurée auprès d’une entreprise européenne.
+[17] ML a dû apprendre à travailler avec de l’acier W360, qu’elle ne connaissait pas. L’acier W360 est plus difficile à couper et à meuler, c’est-à-dire à fraiser. Finalement, le client (et non ML) a testé huit versions du moule et a renvoyé six fois le moule à ML en lui donnant ses commentaires sur les points à améliorer. Finalement, un moule a été accepté.
+[18] L’avocat de ML, lorsqu’il a interrogé M. Duong, lui a demandé ce que ML avait réalisé [traduction] « en ce qui concerne la technologie » grâce à ses travaux sur ce projet :
+[traduction]
+Q : Mais en ce qui concerne la technologie, quels ont été vos progrès? Qu’avez-vous accompli, qu’avez-vous réalisé? [Non souligné dans l’original.]
+R : Nous avons appris que le fraisage de matériau dur est comme – c’est comme une science, vous mettez trop – beaucoup de choses ensemble et vous pouvez y arriver.
+Q : D’accord. Mais au début, vous avez dit que vous aviez – que vous seriez en mesure de tenter votre chance. Mais comment – quels problèmes aviez‑vous prévus relativement à ce qu’ils ont été en réalité? Était-ce – à quel point – à quel point était-ce difficile comparativement à ce que vous aviez prévu?
+R : Nous ne nous attendions pas à devoir faire face à ce genre de problèmes. C’était une sorte de – quelque chose qui vous tire, qui nous a pris au dépourvu. Mais c’est ce qu’on voulait – nous ne voulons pas continuer à faire ces projets qui ne nous mènent nulle part. Nous voulons donc déléguer certaines tâches et nous devons accepter des défis ou adopter une nouvelle approche afin de mettre en valeur notre expérience, afin d’être compétitifs dans ce (inaudible). Nous avons donc appris à nos dépens, oui, c’est ce que – je dois dire.
+Q : Vous avez appris à vos dépens?
+R. : Oui.
+Q : D’accord, après tous ces tâtonnements. D’accord, je vais donc – [non souligné dans l’original.]
+R : Je n’y ai pas encore laissé ma chemise[1].
+[19] En répondant à la question de savoir ce que ML a réalisé, M. Duong n’a pas été en mesure de nommer un progrès technologique. Il convient également de noter que l’avocat de ML, lorsqu’il a parlé des travaux de sa cliente, a utilisé l’expression [traduction] « tous ces tâtonnements ».
+[20] Projet 2 : le deuxième projet a également été réalisé à la demande de Dynaplas. Cette dernière a demandé à ML de fabriquer un moule destiné à la production de supports, droit et gauche, d’une longueur de cinq pouces chacun, comprenant une cavité pour l’installation d’une caméra à l’avant d’un véhicule. Dynaplas a fourni les dessins et les caractéristiques techniques des supports à mouler. ML a fabriqué ces moules et les a livrés à Dynaplas pour qu’elle les mette à l’essai. Dynaplas a constaté que la conception des parties destinées aux supports posait un problème lors de l’éjection des supports fraîchement moulés. Le moule a été modifié et renvoyé six fois à Dynaplas pour qu’elle fasse des essais. Finalement, la dernière version a été jugée acceptable[2].
+[21] L’avocat de ML a posé les questions suivantes à M. Duong :
+[traduction]
+Q : [...] je vais donc vous demander : qu’avez-vous réellement accompli? Qu’avez-vous réalisé comme progrès dans ce projet?
+[22] Dans sa réponse, M. Duong a déclaré que ML continuait d’apprendre à fabriquer des moules avec de nouveaux équipements, mais n’a pas fait référence à un progrès technologique ni à une tentative de progrès technologique.
+[traduction]
+R : Nous avons réalisé beaucoup de progrès en ce qui concerne le moulage de ces types de matériaux. On parle également d’un demi-million. Mais, comme je l’ai dit, nous avions déjà appris le processus avant même notre premier projet. Nous l’avons appris, mais on ne s’est jamais vraiment mis à jour. Ce que nous avons appris avant d’emménager dans cette nouvelle installation, c’est que nous étions très limités en ce qui concerne les anciens équipements. C’est pourquoi nous voulons – et la capacité. Ils n’étaient même pas capables de parler de ce type de travaux. D’après mon expérience, je sais que je peux y arriver. Mais qui va vous confier un projet de 50 000 $ ou 90 000 $, quand vous ne pouvez compter que sur deux personnes? Vous risquez de ne pas l’obtenir. D’ailleurs, vous n’avez même aucune chance.
+Q : Très bien.
+R : Nous avons déménagé dans cette nouvelle installation, c’était un apprentissage – je suis revenu à une machinerie et conception solide (inaudible), c’est grâce à ma scolarité et à ma carrière, donc une fois que j’ai déménagé à cet endroit, je savais déjà – nous n’avions pas ce côté international – des entreprises américaines, nous en avons quelques-unes. Nous savions donc que nous devions le faire pour survivre. Nous voulions servir les clients. Nous ne cherchions donc pas vraiment du travail tous les jours[3].
+[23] Projet 3 : le troisième projet, toujours pour le compte de Dynaplas, consistait à fabriquer un moule destiné à la production d’un capteur de bouchon de réservoir à carburant, c’est-à-dire un couvercle d’un diamètre de trois pouces pour un capteur d’automobile. Là encore, Dynaplas a fourni les dessins et les caractéristiques techniques. ML a envoyé le moule à Dynaplas pour qu’elle procède à des essais dans ses installations. Cette dernière a renvoyé le moule, indiquant qu’il valait mieux l’adapter à la planéité du capteur de bouchon de réservoir, avec une tolérance d’un millième de pouce. Comme la pièce en résine plastique contenait 30 % de graphite, elle était collante au moment du démoulage, ce qui entraînait un gauchissement.
+[24] Afin de résoudre les problèmes d’adhérence et de gauchissement, ML a choisi d’ajouter d’autres [traduction] « entrées » au moule, pour qu’il y ait trois emplacements au lieu d’un pour l’injection des composants dans le moule. Cette technique, appelée [traduction] « séquencement », permet de compenser le gauchissement en choisissant de placer d’abord une, puis deux entrées supplémentaires. Plusieurs moules ayant des entrées supplémentaires ont été envoyés par ML et ont été testés par Dynaplas (quatre fois) avant que celle-ci donne son approbation. Le nombre d’entrées (trois) était acceptable, du fait de la forme unique de la pièce, et permettait d’obtenir la planéité requise (sans gauchissement).
+[25] En interrogatoire principal, l’avocat de ML a posé la question suivante à M. Duong :
+[traduction]
+Q : Donc – vous avez fini par obtenir la bonne planéité, n’est-ce pas? Qu’avez-vous appris, quels ont été vos progrès dans ce projet, de votre point de vue?
+R : Nous avons appris que ce matériau contenait également 30 % de verre, qu’une seule entrée ne fonctionnait pas, alors nous avons fait [...] je l’ai déjà dit, nous avons fait une entrée et c’était presque parfait, mais ce n’était toujours pas acceptable. Nous avons appris que la réaction de ce moule n’est pas celle que l’on observe habituellement avec les produits de consommation. Il y a tellement de types de moules différents que personne sur terre [...] ne peut fabriquer n’importe quel type de moule, personne. Vous choisissez simplement la catégorie que vous êtes capable de fabriquer, ou vous pouvez explorer autre chose. Il ne faut pas mettre tous ses œufs dans le même panier[4].
+[26] En contre-interrogatoire, on a demandé à M. Duong :
+[traduction]
+Q : D’accord. Quelles recherches avez-vous effectuées pour vous familiariser avec l’utilisation de cette résine à haute teneur en graphite?
+R : Nous sommes revenus (inaudible) à la toute première que nous avons essayée sur Internet, elle n’était – elle n’était pas vraiment utile, mais nous avons simplement continué à travailler[5].
+Nous avons appris que ce matériau peut facilement faire des bavures malgré sa dureté, le graphite (inaudible). Lorsqu’on le frappe avec un objet chaud, il fait le même bruit qu’un morceau de verre, c’est ce que c’est, mais il n’est pas facile à casser comme un morceau de verre, mais il peut facilement faire des bavures. Et comme (inaudible) 5/10, ce qui est comme – je ne sais pas ce que c’est en – comme en microns, comme 25 microns plus ou moins, c’est rapide.
+Ainsi, ils permettent (inaudible) les lignes de joint qui se forment à la jonction des parties du moule, ils nous autorisent ces lignes dans une certaine mesure. Parce que le (inaudible) ne fait pas si facilement de bavures comparativement à ce polypropylène, vous devez donc avoir au plus un millième de pouce pour l’évacuation de l’air. Ce qui se passe, c’est que tous les (inaudible) doivent être dégazés. Sinon, lorsque vous essayez d’injecter le plastique à l’intérieur, il est tout compact avec de l’air et vous ne pouvez pas le remplir. Il faut donc permettre l’aération, mais l’évent ne doit pas être trop gros, sinon la matière se mettra à faire des bavures[6].
+[...]
+Q : Et les bavures, c’est quand vous obtenez ces lignes – quand la matière sort un peu du moule, est-ce que c’est (inaudible/voix qui se chevauchent) –
+R : C’est exact. Lorsque les lignes de joint du moule ne sont pas parfaites, vous (inaudible) un bouchon, par exemple, il y aura un petit morceau qui dépassera au bas du bouchon[7].
+[27] Là encore, il n’y a pas d’incertitude technologique apparente. ML a simplement développé ses connaissances, notamment en travaillant avec de la résine à haute teneur en graphite.
+[28] Projet 4 : un client, Intropac International, avait des problèmes avec un moule à 16 cavités servant au moulage par injection d’un bâton ou d’un contenant de désodorisant d’une longueur de quatre pouces. Intropac a fourni les dessins et les caractéristiques techniques. Le moule avait été conçu pour être rempli de désodorisant par le bas plutôt que par le haut. Chacune des 16 cavités était munie d’un noyau en acier destiné à évider l’intérieur du bâton qui était en train d’être moulé et qui devait être rempli de produit à refroidir. Le moule a été renvoyé en raison de la fissuration de la fine paroi des noyaux causée par le passage de l’eau de refroidissement, dont la contrainte a entraîné des fuites dans le produit. Tout d’abord, ML a changé le type d’acier pour de l’acier H13. Elle a également augmenté d’un millimètre l’épaisseur de la paroi du passage de l’eau. Pour finir, ML a utilisé des tiges de poussée qui ont permis d’éjecter la pièce du moule sans endommager les autres composants au fil du temps.
+[29] Lors de son interrogatoire principal par l’avocat de l’appelante, M. Duong a déclaré ce qui suit :
+[traduction]
+Q : D’accord. Quelle était donc votre idée? Quelle idée avez-vous eue?
+R : Eh bien, le (inaudible) de 16 cavités, vous avez besoin de 16 noyaux, j’ai – au cours des dernières années, je leur ai fait un ensemble complet de noyaux, comme (inaudible) et j’y allais – deux ou quatre chaque année. À la fin, je devais faire quelque chose, alors j’ai réfléchi, et au lieu de faire un gros trou dans le noyau pour pousser la pièce, j’ai utilisé une tige, comme une tige de poussée, c’est un 7/8, j’ai utilisé une tige, d’un demi‑pouce seulement, j’ai pris la goupille, alors j’ai pu faire le trou dans le noyau plus petit. Mais à l’avant, j’ai dû trouver une sorte de vis à tête bombée, je l’ai vissée, puis j’ai trouvé un (inaudible) pour que ma goupille ne tourne pas et que je puisse la bloquer de cette façon. Le trou central est donc réduit de – vous avez un trou de 7/8 de pouce; j’ai pris une épingle, mais pour la partie inférieure, il faut être un peu (inaudible), vous ne voulez pas qu’elles se touchent sur toute la longueur. Personne ne peut faire un trou aussi droit et précis. Nous devons donc créer un petit espace à l’avant, là où le plastique est moulé, afin que le plastique ne coule pas à travers le trou [...][8].
+[30] L’avocat a également demandé ce qui suit : [traduction] « Quels sont les progrès que vous avez réalisés dans ce projet? Selon vous... qu’avez-vous appris de cette expérience? »
+[31] M. Duong a répondu :
+[traduction]
+R : Eh bien, je – vous savez, (inaudible) et je lui reviens, et je me sens si... Désolé. Je suis très fier, oui.
+Q : Vous êtes fier des progrès que vous avez réalisés parce que vous avez résolu le problème de votre client?
+R. Oui[9].
+[32] Là encore, il ne semble pas y avoir de progrès technologique pour l’industrie internationale de la fabrication de moules. Ce projet a simplement permis à ML d’élargir ses connaissances et ses capacités.
+[33] Projet 5 : Dynaplas, en tant que client, a demandé à faire fabriquer un moule à deux cavités servant au moulage par injection d’un tube de cinq pouces, désigné comme un ondulateur, pour le secteur automobile. Un moule a été réalisé à partir des dessins et des caractéristiques techniques fournis par le client. La pièce à mouler était composée de résine mélangée à 40 % à du graphite. Elle comportait une fente de deux millimètres ayant une profondeur de 38 millimètres. Le moule a été envoyé au client pour qu’il le mette à l’essai, puis ce dernier l’a renvoyé à ML en lui donnant ses commentaires sur les points à améliorer. Le problème venait surtout de l’outil d’usinage que ML avait acquis pour ce projet. ML avait peu d’expérience des machines et de la technique pour effectuer ce travail et atteindre la tolérance requise de 0,005 millimètre pour la fente.
+[34] L’un des problèmes de ML était que les dispositifs de coupe (un outil) utilisés se brisaient. ML a appris sur Internet la meilleure façon de s’en servir, en [traduction] « jouant avec » les paramètres de l’outil.
+[35] Lors de l’interrogatoire principal, M. Duong a répondu à la question suivante :
+[traduction]
+Q : D’accord. Et donc, la version suivante consistait à changer les supports, comme vous l’avez dit, et – d’accord. Et comment cela s’est-il passé?
+R : Cela fonctionnait mieux. Nous avons ensuite appliqué les paramètres de coupe pour voir ce qui était le mieux. Cela ne fonctionne pas si – vous ne pouvez pas faire un travail lorsque vous dépensez 1 000 $ ou 2 000 $ en outils. Je faisais mieux de revenir à l’ancienne méthode, d’installer la machine d’usinage par étincelage et de la laisser chauffer. En général, cela dure de six à huit heures. Nous avons tout mis en commun. Nous avons laissé la machine fonctionner pendant la nuit, car c’est généralement assez sûr, mais ça prend du temps. On essaie donc de faire avancer les choses, mais on ne veut pas dépasser les coûts de mise au point. Cela ne marchera pas.
+Q : Exactement. Il faut donc –
+R. : Oui. C’est tout – il s’agit d’un processus expérimental.
+Q : D’accord. Avez-vous repris le travail ou que s’est-il passé?
+R : Lentement, étape par étape, nous faisons des essais – nous jouons avec tous les paramètres de coupe. Évidemment, nous brisons beaucoup d’outils, et le fait de peser l’outil est beaucoup plus rapide qu’il ne devrait l’être, alors nous utilisons une carte de débit et le cadre de montage de la fenêtre. Cela permet de trouver le bon paramètre pour chaque taille d’outil, c’est-à-dire qu’il faut commencer par un outil de deux millimètres, vous savez, pour faire sortir la plupart de la matière, mais cet outil est plus grand.
+[...]
+Q : Oui, d’accord. Et donc, encore une question. Vous avez utilisé l’expression « jouer avec », d’accord. Qu’entendez-vous par « jouer avec »?
+R : C’est le terme que nous utilisons toujours, c’est-à-dire que nous devons élaborer des théories. Lorsque vous coupez à ce nombre de tours par minute et à cette vitesse d’alimentation avec cette quantité de matière, quelle sera la durée de vie de l’outil? C’est très important, car le plus outil de cette longueur affectera vos rapports de longueur.
+Faire fonctionner l’outil à un tour par minute coûtera une fortune. C’est si facile, comme un cure-dent. Il brise tellement facilement, alors il faut y aller de façon à ce que l’outil dure, mais aussi à ce que la finition soit bonne. On ne veut pas payer le polisseur pour éliminer toutes les aspérités, alors on ne va nulle part. Pour réussir, il faut donc réunir tous ces paramètres.
+Q : D’accord. Donc, quand vous dites « jouer avec », vous –
+R : Il s’agit de tous les rajustements, d’élaborer des théories et d’examiner tous les – pas seulement – nous aimons utiliser les – projets de ce client parce qu’ils sont, en général, les – projets de ce client – ces projets, ce sont tous les matériaux, la dureté et les exigences en matière de tolérance et tout ceci est important pour qu’on puisse faire nos recherches scientifiques. Maintenant, je fais des recherches scientifiques. De nombreuses entreprises le font simplement parce que, comme le ministère de la Défense, la Défense nationale, ils apportent – ils dépensent des milliards et des milliards de dollars. D’autres entreprises, comme LG et Samsung, font la même chose[10].
+[36] Là encore, il semble que l’accent ait été mis sur ce que ML a appris plutôt que sur un quelconque progrès technologique pour le secteur en général.
+[37] Projet 6 : le sixième projet était une commande de 2017 d’Intrapac pour la fabrication d’un moule à 24 cavités servant au moulage par injection d’une plaque de fixation conçue pour l’emballage d’un antisudorifique solide. La planéité de la plaque a constitué un défi pour l’usinage du moule. L’échantillon test du moule, à une seule cavité, a été envoyé plusieurs fois au client pour que celui-ci procède à des essais. En fin de compte, le client a été satisfait. Un moule de 24 cavités a ensuite été préparé.
+[38] Lors de l’interrogatoire principal, l’avocat de l’appelante a demandé à M. Duong ce qu’il avait réalisé ou appris dans ce projet :
+[traduction]
+Q : Et donc, en résumé, qu’avez-vous accompli? Qu’avez-vous appris de cette expérience?
+R : Il s’agit de notre nouveau concept de pièce, une pièce aussi large. En général, la finition n’est pas aussi large. C’est la norme. La pièce est donc plus courte, de sorte que la force d’éjection ne pose pas trop de problèmes. Nous avons donc appris que ce projet – nous pensions qu’il pourrait être réalisé de la même manière que le projet précédent, mais ce n’était absolument pas le cas, ils voulaient un emballage plus large – le volume est plus important. Pour le poids total, il doit y avoir plus d’ouvertures. Dans le cas d’un projet plus petit, la pièce sera évidemment plus solide, car elle n’est pas fragile[11].
+[39] Là encore, M. Duong n’a pas démontré que le projet a abouti à un progrès technologique pour le secteur. Il a simplement démontré que ML a continué d’enrichir ses connaissances.
+[40] Projet 7 : le septième projet était une commande du client Delmo Molds (un autre fabricant de moules) pour la fabrication d’un moule à quatre cavités destiné au moulage par injection d’un couvercle pour une bouteille de café d’un diamètre de trois pouces. Le couvercle comprend un anneau qui entoure le goulot de la bouteille, qu’on appelle couvercle « à cape ». ML a produit un moule. Après avoir testé le moule, le client l’a renvoyé à ML en lui donnant ses commentaires. La charnière du couvercle, une fine bande de plastique reliée à l’anneau qui entoure la bouteille, a présenté des difficultés au stade du moulage. Les masses comparées du couvercle et de l’anneau d’étanchéité entraînaient des taux de rétrécissement différents au stade du moulage, ce qui provoquait un mauvais alignement des deux extrémités reliées par la fine charnière en plastique.
+[41] Lors de l’interrogatoire principal, M. Duong a décrit ce que ML a fait :
+[traduction]
+Q : Quel a été le premier problème auquel vous vous êtes heurté?
+R : Nous avons été confrontés à des incertitudes, ce qui n’est pas comparable à ce que les – les autres charnières que nous – nous avons toujours appris au cours des dernières années, ce qui est très courant. Et pour celui-ci, nous avons dû déterminer quelles étaient les charnières – la hauteur et l’épaisseur pour que la matière passe à travers et l’espace entre les charnières, de sorte que lorsqu’on les ferme, elles s’alignent, n’est-ce pas?
+[...]
+R : J’essaie de voir – on émet une hypothèse – ce qui est important ici. Était-ce le flux ou – si vous avez une charnière trop épaisse, vous savez qu’elle ne fonctionnera pas bien. Vous aurez du mal à la presser. La matière s’écoulera aussi, mais vous aurez du mal à le fermer. Si la charnière est trop fine, la matière ne tombe pas vraiment de l’autre côté. Vous l’injectez de ce côté et devez passer par la charnière pour remplir l’autre côté[12].
+[42] M. Duong a déclaré [traduction] : « La première fois, nous avons essayé d’éloigner le couvercle pour qu’il ne se coince pas et qu’il se referme. » Il a ajouté qu’ils avaient [traduction] « apporté quelques modifications » et qu’au [traduction] « deuxième essai, [le couvercle] s’était abaissé davantage, mais ne s’était pas enclenché. Il ne s’enclenchait pas à cause de la différence de hauteur[13] ».
+[43] L’interrogatoire principal a révélé que d’autres rajustements étaient nécessaires, notamment en ce qui concerne la longueur, pour parvenir à une solution réalisable. Le projet n’a pas abouti.
+[44] L’avocat de ML a demandé ce qui suit à M. Duong [traduction] : « Qu’avez-vous accompli? » Voici ce qu’il a répondu :
+[traduction]
+R : Je ne sais pas si je peux dire ce que j’ai appris. À la fin, j’ai appris que la charnière est très importante pour quelques éléments, l’espace entre les deux, l’épaisseur pour l’écoulement et la rigidité. Si vous avez une charnière d’une épaisseur de 25 000, vous aurez du mal à la fermer. Une charnière de 10 000 est facile à remplir. Celle-ci ne dépasse probablement pas 10 000. De 10 000 à 12 000 tout au plus. C’est donc ce que nous avons vu bon nombre de fois[14].
+[45] M. Duong a reconnu que ce cas de charnière était [traduction] « différent du cas typique ». Il a ajouté que [traduction] « l’épaisseur de la charnière était vraiment le principal problème[15] ».
+[46] Rien de tout cela ne constitue un progrès technologique pour le secteur. ML a simplement enrichi ses connaissances.
+[47] Projet 8 : le huitième projet concernait l’exécution d’une commande du client Centennial Plastic pour la fabrication d’une plaque à noyau à deux cavités destinée à la production d’une pièce d’automobile cylindrique. La plaque devait être munie d’un joint torique, exempt de bavure, avec des plis réfléchissants à deux degrés et une tolérance de 0,0002 pouce. La plaque est une surface d’assemblage de tous les composants du moule qui s’insèrent et se retirent lors de la fabrication de la pièce moulée. ML avait déjà travaillé sur des plaques à noyau. Pour ce projet, les composants de la plaque de moulage devaient pouvoir s’incliner pour que la pièce nouvellement moulée se détache du moule.
+[48] Le moule lui-même était fait d’acier inoxydable SS4140, qui est très dur. La pièce à mouler était complexe et le moule à noyau conçu et fabriqué par ML pesait 400 livres. La tolérance requise a été difficile à atteindre en raison des vibrations, bien que le fournisseur de la nouvelle machine à cinq axes utilisée pour la fabrication de la plaque à noyau avait formé ML à son utilisation.
+[49] M. Duong a déclaré en contre-interrogatoire que les compétences et les connaissances de l’opérateur de la machine étaient importantes pour atteindre la tolérance. Il ne s’agissait pas uniquement de la machine utilisée. Comme il l’a dit [traduction] : « Tout le monde sait conduire une voiture de nos jours (inaudible), mais cela ne veut pas dire que vous pouvez conduire une Formule 1[16]. »
+[50] ML a remis le moule au client et a continué d’y apporter des corrections et des améliorations l’année suivante.
+[51] Rien n’indique non plus que ce projet ait abouti à un progrès technologique. ML a simplement enrichi ses connaissances.
+IV. Autres éléments de preuve [52] Ceci conclut la liste des huit projets. Après le témoignage de M. Duong, ML a appelé un autre témoin, M. Amit Saini. Ce dernier est ingénieur et comptable professionnel agréé. Il est également président de National R&D Inc. (« National R&D »). Il a décrit cette société comme étant principalement un cabinet fiscal spécialisé dans la recherche et le développement. Ni lui ni National R&D n’ont participé aux projets en question pendant que ML y travaillait. C’est dans les derniers mois de 2017 que National R&D a communiqué avec ML pour lui offrir ses services. Dans son témoignage, M. Saini a cherché à critiquer la vérification de l’Agence du revenu du Canada (l’« ARC ») qui a mené à l’établissement de la cotisation et de la nouvelle cotisation portées en appel. L’avocate de l’intimé s’y est opposée à juste titre au motif que la conduite d’une vérification fiscale n’est pas pertinente pour déterminer si la cotisation ou la nouvelle cotisation qui en découle est fondée.
+[53] ML a retenu les services de National R&D pour l’aider à présenter une demande pour ses dépenses de RS&DE. ML n’a réalisé aucun des huit projets en question dans l’intention de présenter pareille demande. National R&D a aidé ML à sélectionner ces huit projets, à partir d’un examen de plus de 300 projets réalisés par ML en 2016 et 2017, pour le dépôt des demandes de RS&DE. National R&D a participé à la préparation de ces demandes pour les présenter au ministre. Le ministre a vérifié ces demandes et les a toutes rejetées. Avec l’aide de National R&D, ML a donc signifié des avis d’opposition et a ensuite interjeté le présent appel sans attendre que la Division des appels de l’ARC traite les avis d’opposition.
+[54] Je fais également remarquer que ML a appelé comme premier témoin dans la présente instance une personne cherchant à se faire reconnaître comme témoin expert de l’industrie du moulage par injection de plastique. Le premier jour de l’audience, un voir‑dire a été tenu pour savoir si ce témoin pouvait être reconnu comme expert. Dans une décision rendue oralement, j’ai conclu qu’il n’avait pas suffisamment d’expérience dans l’industrie du moulage par injection de plastique pour être reconnu comme expert dans ce domaine. En conséquence, le témoin n’a pas été reconnu comme expert et son rapport d’expertise n’a pas été admis en preuve.
+V. Discussion [55] La première question à se poser pour déterminer si une entreprise peut bénéficier des encouragements fiscaux pour RS&DE est de savoir si le projet visé comporte un risque ou une incertitude technologique. Comme je le mentionne plus haut, notre Cour a déclaré dans la décision Northwest Hydraulic que l’expression « risque ou incertitude technologique » renvoyait à « une incertitude quelconque qui ne peut pas être éliminée par les études techniques courantes ou par les procédures habituelles ».
+[56] L’incertitude technologique se rapporte à l’industrie concernée, plutôt qu’à un seul acteur de cette industrie. L’incertitude doit porter sur l’avancement des connaissances de l’industrie en général (en l’espèce l’industrie de la fabrication de moules) plutôt que sur les connaissances d’un seul acteur de cette industrie.
+[57] Dans la décision Logix Data Products Inc. c. La Reine, 2021 CCI 36, la juge Monaghan de notre Cour a fait observer ce qui suit (par. 69) :
+[…] L’incertitude technologique ne résulte pas du simple fait que l’appelante n’a pas les connaissances requises. Il s’agit de savoir si l’incertitude cernée par l’appelante constitue une incertitude pour les personnes bien informées et expérimentées dans le domaine en question.
+[58] De même, dans la décision Dave’s Diesel Inc. c. La Reine, 2022 CCI 62, mon collègue le juge Spiro a précisé que le critère de l’incertitude technologique n’est pas subjectif. Il a écrit au paragraphe 28 que, « [s]il l’était, un élève d’école primaire cherchant à construire un moteur électrique simple y satisferait ».
+[59] En l’espèce, aucune preuve de l’état général des connaissances du secteur n’a été présentée relativement à l’un ou l’autre des huit projets.
+[60] À l’alinéa 24kkkk) de la réponse de l’intimé, il est allégué que le ministre a supposé, lorsqu’il a établi la cotisation et la nouvelle cotisation portées en appel, que [traduction] « l’appelante n’avait pas fait face à une incertitude technologique qui ne pouvait être éliminée par les connaissances de l’appelante ». Cette hypothèse n’a pas été démentie.
+[61] Les extraits du témoignage de M. Duong concernant les huit projets montrent généralement que le succès ou les progrès de ML relativement à ces projets reposaient sur une démarche par tâtonnement dans laquelle ML suivait une méthode qu’elle connaissait bien. Cette démarche ne cadre pas avec le risque ou l’incertitude technologique qui doit exister lorsqu’il est question de RS&DE. En effet, il s’agit d’une méthode normale ou courante, et non d’une démarche scientifique visant à traiter un risque ou une incertitude technologique. Aucune preuve n’a été présentée pour démontrer que les travaux de ML n’étaient pas des travaux de réflexion.
+[62] La deuxième des cinq exigences en matière de RS&DE consiste à savoir si la personne qui a présenté une demande pour ses dépenses de RS&DE a formulé des hypothèses visant expressément à réduire ou à éliminer les inconnues technologiques. À l’alinéa 24mmmm) de la réponse, on allègue que le ministre a supposé que [traduction] « l’appelante n’avait pas formulé ni tenté de formuler une hypothèse ». Aucune hypothèse de ML n’a été révélée dans la preuve, ce qui confirme qu’elle a procédé par tâtonnement plutôt que sur une base scientifique et théorique.
+[63] En ce qui concerne la troisième des cinq exigences en matière de RS&DE, il faut se poser la question suivante : les procédures adoptées sont-elles conformes aux principes établis et aux principes objectifs de la méthode scientifique, définis par l’observation scientifique systématique, la mesure et l’expérimentation, ainsi que la formulation, la vérification et la modification d’hypothèses? La réponse en l’espèce est négative. La démarche privilégiée par ML consistait globalement à essayer les différentes options disponibles, en partant du principe que l’une d’entre elles fonctionnerait probablement; il s’agit d’une démarche par « tâtonnement ». L’expression a d’ailleurs été utilisée par l’avocat de ML en ce qui concerne le projet 1 lors de l’interrogatoire de M. Duong sur les mesures prises par ML.
+[64] La quatrième condition est que le processus doit avoir abouti à un progrès technologique, c’est‑à‑dire à un progrès en ce qui concerne la compréhension générale. Il n’a pas non plus été satisfait à cette exigence, comme je le mentionne plus haut, parce qu’aucun risque ni incertitude technologique n’a été cerné à la base.
+[65] La dernière exigence est qu’un compte rendu détaillé des hypothèses, des essais et des résultats doit être fait au fur et à mesure de l’avancement des travaux. Il s’agit d’une exigence moins rigoureuse. Je ne dirais pas que l’appelante n’a pas satisfait à cette exigence, bien qu’elle n’ait formulé aucune hypothèse et n’ait effectué elle‑même aucun essai, alors qu’il s’agit d’un élément fondamental de la méthodologie scientifique.
+VI. Conclusion [66] L’appel est rejeté avec dépens. Les parties disposent d’un délai de 30 jours à compter de la date du jugement pour déposer des observations sur les dépens d’au plus 15 pages chacune, au cas où elles n’auraient pas résolu entre elles la question des dépens.
+Les présents motifs du jugement modifiés remplacent les motifs datés du 21 août 2023 afin de corriger le mot souligné au premier paragraphe des présents motifs.
+Signé à Halifax (Nouvelle-Écosse), ce 6e jour de novembre 2023.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 17e jour de février 2025.
+Mylène Boudreau, jurilinguiste principale
+RÉFÉRENCE :
+2023 CCI 127
+NO DU DOSSIER DE LA COUR :
+2019-3354(IT)G
+INTITULÉ :
+MOLD LEADERS INC. c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 7 juillet 2022
+MOTIFS DU JUGEMENT MODIFIÉS :
+L’honorable juge Bruce Russell
+DATE DU JUGEMENT MODIFIÉ :
+Le 6 novembre 2023
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Jonathan Garbutt
+Avocate de l’intimé :
+Me Dominique Gallant
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Jonathan Garbutt
+Cabinet :
+Dominion Tax Law
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Transcription, p. 229 et 230.
+[2] Transcription, p. 247.
+[3] Transcription, p. 246.
+[4] Transcription, p. 266.
+[5] Transcription, p. 483.
+[6] Transcription, p. 484.
+[7] Transcription, p. 485.
+[8] Transcription, p. 279 et 280.
+[9] Transcription, p. 287 et 288.
+[10] Transcription, p. 309 à 313.
+[11] Transcription, p. 329.
+[12] Transcription, p. 336.
+[13] Transcription, p. 338.
+[14] Transcription, p. 341.
+[15] Transcription, p. 341 et 342.
+[16] Transcription, p. 520.

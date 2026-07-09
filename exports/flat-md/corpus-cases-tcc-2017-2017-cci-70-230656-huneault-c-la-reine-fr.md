@@ -1,0 +1,159 @@
+---
+title: "Huneault c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/230656/index.do"
+last_modified: "2017-04-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 70"
+citation2: ""
+neutral_citation: "2017 CCI 70"
+decision_date: "2017-04-28"
+language: "fr"
+item_id: "230656"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2312
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:31:51.923000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "88380f87a7fe39512b309f2a823a9948e4929393bb824cde814d40a15ecd1639"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Huneault c. La Reine
+
+- Citation: 2017 CCI 70
+- Decision date: 2017-04-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2312, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Huneault c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-04-28
+Référence neutre
+2017 CCI 70
+Numéro de dossier
+2016-5106(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-5106(IT)I
+ENTRE :
+STÉPHANE HUNEAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu et décision rendue oralement à l’audience
+le 29 mars 2017 à Ottawa (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Représentants de l’appelant :
+Aaron Van Tassel (stagiaire en droit)
+Valentine Gurfinkel (stagiaire en droit)
+Albert Brunet (stagiaire en droit)
+Avocat de l’intimée :
+Me Cédric Renaud-Lafrance
+JUGEMENT
+Pour les motifs ci-joints, prononcés oralement à l’audience, l’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2014 est rejeté sans frais.
+Signé à Ottawa (Ontario), ce 28e jour d’avril 2017.
+« Patrick Boyle »
+Juge Boyle
+Dossier : 2016-5106(IT)I
+ENTRE :
+STÉPHANE HUNEAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+VERSION RÉVISÉE DE LA TRANSCRIPTION DES MOTIFS
+DU JUGEMENT PRONONCÉS DE VIVE VOIX
+Je requiers que soit déposée la transcription révisée ci-jointe des motifs du jugement prononcés de vive voix à l’audience, le 29 mars 2017, à Ottawa, en Ontario. J’ai révisé la transcription (certifiée par le sténographe judiciaire) sur le plan du style et de la clarté, et pour y apporter des corrections mineures seulement. Je n’y ai fait aucune modification quant au fond.
+Signé à Ottawa (Ontario), ce 28e jour d’avril 2017.
+« Patrick Boyle »
+Juge Boyle
+Référence : 2017 CCI 70
+Date : 20170428
+Dossier : 2016-5106(IT)I
+ENTRE :
+STÉPHANE HUNEAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Appel entendu et décision rendue oralement à l’audience le
+29 mars 2017 à Ottawa (Ontario))
+Le juge Boyle
+[1] La question visée par la procédure d’appel informelle de ce matin porte sur les circonstances dans lesquelles les parents ayant la garde partagée ont le droit de traiter un enfant comme une personne à charge admissible. Elle met en cause les paragraphes 118(5) et (5.1) de la Loi de l’impôt sur le revenu. Ces questions et ces dispositions ont été examinées par la Cour à de nombreuses reprises, ainsi que par la Cour d’appel fédérale dans l’arrêt Verones c. Canada, 2013 CAF 69.
+[2] Je me vois contraint de rejeter l’appel de M. Huneault, puisque je suis convaincu que M. Huneault est le seul parent tenu de payer une pension alimentaire pour enfants aux termes de l’accord de séparation modifié.
+[3] Il m’est impossible d’interpréter cet accord clair — quoique sans doute imparfait — comme imposant à Mme Plouffe l’obligation de payer une pension alimentaire pour enfants à M. Huneault. Cette constatation s’applique tant à l’accord original de 2008 qu’à l’accord modifié de 2011.
+[4] En ce qui concerne l’accord, je ferais remarquer ce qui suit :
+[5] Premièrement, les modifications apportées à l’accord en 2011 ont été rédigées par l’avocat de M. Huneault, et le libellé de la clause sur la pension alimentaire pour enfants n’a pas changé de quelque façon importante que ce soit, bien que la garde soit maintenant partagée depuis 2011.
+[6] Deuxièmement, la méthode utilisée par les deux parents pour calculer chaque année le montant de l’obligation incombant à M. Huneault n’a pas changé après la modification de l’accord.
+[7] Troisièmement, l’obligation de M. Huneault est énoncée clairement dans les accords signés par les parents. Les accords en tant que tels ne donnent pas le moindre indice d’une obligation imposée à Mme Plouffe de payer une pension alimentaire pour enfants à M. Huneault. En effet, la définition des faits emportant résiliation qui sont applicables à l’obligation de M. Huneault ne comprend même pas le cas où Mme Plouffe commencerait à gagner un revenu supérieur à celui de M. Huneault.
+[8] Quatrièmement, à mon avis, la clause distincte dans l’accord modifié de 2011 qui stipule que chaque parent aura le droit d’inscrire un des deux enfants comme personne à charge à des fins fiscales, ne crée – et encore moins ne résout – aucune ambiguïté. Il s’agit, tout au plus, de la preuve d’une intention de prendre tous les moyens pour que chaque parent puisse inscrire une personne à charge; ce n’est pas la preuve que les mesures nécessaires ont été prises. Cette clause démontre une connaissance limitée de l’exigence relative aux obligations mutuelles, ce qui n’est pas surprenant. Elle ne peut pas créer une obligation qui n’existe pas.
+[9] Cinquièmement, il est impossible de conclure que les paiements versés à M. Huneault par Mme Plouffe les années où le calcul effectué au mois d’avril a permis de conclure que M. Huneault avait fait des paiements en trop au cours des trois premiers mois de l’année civile étaient autre chose que le remboursement de la pension alimentaire pour enfants payée en trop en janvier, février et mars. Il ne s’agissait pas d’une pension alimentaire pour enfants payée à M. Huneault.
+[10] Bref, ma décision en l’espèce repose donc sur l’arrêt Verones, dans lequel la Cour d’appel fédérale a conclu que la compensation des montants à payer au titre des lignes directrices sur la pension alimentaire pour enfants n’est d’aucune utilité s’il n’y a en réalité qu’un parent tenu de payer une pension alimentaire pour enfants aux termes de l’accord. La disposition législative est rédigée de cette façon et a été interprétée ainsi par la Cour d’appel fédérale et la présente cour.
+[11] Bien que je ne sois pas insensible aux plaintes selon lesquelles cette interprétation n’est peut-être pas sensée ou ne fait peut-être avancer aucune politique sous-jacente, je suis juge à la Cour canadienne de l’impôt. Je ne peux pas modifier la loi, je ne peux pas modifier l’accord, et je ne peux pas interpréter la loi différemment de la Cour d’appel fédérale.
+[12] Voilà les motifs pour lesquels j’ai dû rejeter l’appel ce matin.
+Signé à Ottawa (Ontario), ce 28e jour d’avril 2017.
+« Patrick Boyle »
+Juge Boyle
+RÉFÉRENCE :
+2017 CCI 70
+No DU DOSSIER DE LA COUR :
+2016-5106(IT)I
+INTITULÉ :
+STÉPHANE HUNEAULT c. LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 29 mars 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 28 avril 2017
+COMPARUTIONS :
+[BLANK/ EN BLANC]
+Représentants de l’appelant :
+Aaron Van Tassel (stagiaire en droit)
+Valentine Gurfinkel (stagiaire en droit)
+Albert Brunet (stagiaire en droit)
+Avocat de l’intimée :
+Me Cédric Renaud-Lafrance
+AVOCATS INSCRITS AU DOSSIER :
+[BLANK / EN BLANC]
+Pour l’appelant :
+[BLANK / EN BLANC]
+Cabinet :
+[BLANK / EN BLANC]
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

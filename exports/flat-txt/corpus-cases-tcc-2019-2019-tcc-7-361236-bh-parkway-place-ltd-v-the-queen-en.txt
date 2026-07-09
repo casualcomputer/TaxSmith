@@ -1,0 +1,214 @@
+Title: BH Parkway Place Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/361236/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-7-361236-bh-parkway-place-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-01-14
+
+# BH Parkway Place Ltd. v. The Queen
+
+- Citation: 2019 TCC 7
+- Decision date: 2019-01-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4332, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+BH Parkway Place Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-01-14
+Neutral citation
+2019 TCC 7
+File numbers
+2015-2873(GST)I
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2015-2873(GST)I
+BETWEEN:
+BH PARKWAY PLACE LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 2, 2018, at Toronto, Ontario.
+Written submissions filed by the Appellant on November 24, 2018 and by the Respondent on December 4, 2018.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Agent for the Appellant:
+Bruno Harilaid
+Counsel for the Respondent:
+Elizabeth Koudys
+Carol Calabrese
+JUDGMENT
+The appeal from the reassessment made under Part IX of the Excise Tax Act, notice of which is dated September 3, 2013, for the period of July 1, 2009 to December 31, 2011, is allowed in accordance with the attached reasons for judgment, without costs.
+Signed at Montreal, Quebec, this 14th day of January 2019.
+“Johanne D’Auray”
+D’Auray J.
+Citation: 2019 TCC 7
+Date: 20190114
+Docket: 2015-2873(GST)I
+BETWEEN:
+BH PARKWAY PLACE LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D’Auray J.
+I. Introduction
+[1] There were five issues in this appeal:
+(a) Was the amount of $260,000 that BH Parkway Place Ltd. (“BH Parkway”) received from Trillium College Inc. (“Trillium College”) as a consequence of the breach of a commercial lease?
+(b) Was BH Parkway entitled to claim an input tax credit (“ITC”) of $8,404.89 with respect to the acquisition of a sport utility vehicle (“SUV”)?
+(c) Was BH Parkway entitled to claim an ITC with respect to the Cogeco cable that it paid for the personal residence of one of its employees?
+(d) Was BH Parkway entitled to claim an ITC with respect to amounts paid for food, beverage and entertainment when it invited clients to its suite at the Peterborough Memorial Centre?
+(e) Did the Court have jurisdiction to cancel the interest assessed by the Minister of National Revenue (the “Minister”)?
+[2] During the hearing, BH Parkway conceded the last three issues. The only issues remaining are issues (a) and (b). Contrary to what is stated in the Respondent’s written submissions, I do not agree that BH Parkway conceded issue (b). Therefore, my Reasons will address issues (a) and (b).
+A. Issue (a) - Was the amount of $260,000 that BH Parkway received from Trillium College as a consequence of the breach of a commercial lease?
+[3] During the periods under appeal, BH Parkway owned a shopping mall in Peterborough, Ontario with about 50 commercial and retail units for rent.
+[4] BH Parkway’s principal is Mr. Bruno Harilaid.
+[5] On May 9, 2006, BH Parkway executed a written agreement to lease a commercial unit to Trillium College.
+[6] On October 5, 2009, Trillium College obtained an ex parte interim injunction from the Ontario Superior Court of Justice. Justice Shaughnessy’s Order stated as follows:
+- THIS COURT ORDERS that Defendant [BH Parkway] is restrained from entering the Plaintiff’s [Trillium College] unit or taking action that would restrict or interfere with the Plaintiff in the operation of its College at the premises municipally known as 1135 Lansdowne Street Peterborough, Ontario until further order of the Court or signed agreement between the parties.
+- That this motion will return before the Court on October 15, 2009.
+- That the Plaintiff will serve the Claim along with this Order and the Motion Record on the Defendant forthwith.
+[7] On October 26, 2009, Trillium College vacated the commercial unit before the expiration of the lease.
+[8] Trillium College filed an action before the Ontario Superior Court of Justice against BH Parkway, claiming that BH Parkway, its principals and employees had interfered with the operations of the school, its employees and students. According to Mr. Harilaid the principal of BH Parkway, Trillium College asked for damages of $500,000. Mr. Harilaid also stated that Trillium College’s statement of claim alleged that he had harassed Ms. Sandra Anderson, the school manager at Trillium College. Trillium College’s statement of claim was not filed in evidence.
+[9] On October 27, 2009, following a motion filed by BH Parkway, Justice Locke of the Ontario Superior Court issued an order, whereby it was stated that:
+1. THIS COURT ORDERS that the ex parte Order of Justice Shaughnessy dated October 5, 2009 has expired.
+2. THIS COURT ORDERS that during the adjournment, the defendant by Counterclaim, Trillium College Inc., its directors, officers, employees or anyone acting on its instructions be restrained from removing from the lease premises known municipally as 1135 Lansdowne Street West, Unit 201 A, Peterborough, Ontario any and all fixtures, chattels, good, furniture and equipment.
+3. THIS COURT ORDERS that during the adjournment, the defendant by Counterclaim, Trillium College Inc., its directors and officers immediately provide the plaintiff by Counterclaim with a list of all fixtures, chattels, goods, furniture and equipment removed from the leased premises.
+4. THIS COURT ORDERS that during the adjournment, the defendant by Counterclaim, Trillium College Inc., its directors and officers immediately disclose the current location of the fixtures, chattels, goods, furniture and equipment removed from the premises.
+5. THIS COURT ORDERS that during the adjournment, the defendant by Counterclaim, Trillium College Inc., its directors, officers and employees preserve the fixtures, chattels, goods, furniture and equipment pending further Order of this Court.
+6. THIS COURT ORDERS that the plaintiff by Counterclaim, BH Parkway Place Ltd., be granted leave to amend its Counterclaim to add Christopher Russel, Andrew Jones, Lincoln E. Frank, Andrew Kaplan and Daniel P. Neuwirth as party defendants and to assert a claim against then for tortuous interference with contractual relations and a penalty pursuant to section 50 of the Commercial Tenancies Act.
+7. THIS COURT ORDERS that the defendant by Counterclaim, Trillium College Inc., pay the plaintiff by Counterclaim, BH Parkway Place Ltd. its costs for today’s appearance fixer in the sum or $3,000.00.
+[10] On December 16, 2010, BH Parkway filed an amended statement of defence and a counterclaim.
+[11] BH Parkway’s amended statement of defence and counterclaim added as party defendants Christopher Russel, Andrew Jones, Lincoln E. Frank, Andrew Kaplan and Daniel P. Neuwirth, and asserted a claim against them for tortious interference with contractual relations and a penalty pursuant to section 50 of the Ontario’s Commercial Tenancies Act. BH Parkway’s amended statement of defence and counterclaim alleged that on October 23, 2009 during non-business hours, Trillium College, with the assistance and direction of its directors and other undisclosed individuals, secretly removed all fixtures, chattels, goods, equipment and furniture from the leased premises. It also alleged that on October 24, 2009, BH Parkway discovered that Trillium College’s exterior signs had been removed and a sign was posted giving the new address for Trillium College.
+[12] In its amended statement of defence and counterclaim, BH Parkway also requested that Trillium College’s interim injunction be set aside since Trillium College had deliberately mislead the Court by making false harassment claims against Mr. Harilaid and the management personnel of BH Parkway.
+[13] BH Parkway asked the Ontario Superior Court of Justice for the following relief:
+(a) an interim and permanent injunction restraining the defendants by counterclaim, its directors, officers, employees or any one acting on its instructions from removing from the leased premises known municipally as 1135 Lansdowne Street West, Unit 201 A, Peterborough, Ontario any and all fixtures, chattels, goods, furniture and equipment;
+(b) an Order requiring the directors and officers of the defendant by counterclaim, Trillium College Inc., to immediately provide the plaintiff by counterclaim with a list of all fixtures, chattels, goods, furniture and equipment removed from the leased premises;
+(c) an Order requiring the directors and officers of the defendant by counterclaim, Trillium College Inc., to immediately disclose the current location of the fixtures, chattels, goods, furniture and equipment so removed;
+(d) an interim and permanent Order requiring the directors, officers and employee of the defendant by counterclaim, Trillium College Inc., to preserve the fixtures, chattels, goods, furniture and equipment pending further Order of this Court;
+(e) damages for abandonment, breach of contract, conversion and intentional interference with contract relations, the present value of the unpaid rent for the unexpired term of the commercial lease, the sum of $231,000.00;
+(f) damages for fraudulent removal of goods, the sum of $500,000.00;
+(g) damages for physical damages or alterations of the leased premises including disposal costs, the sum of $25,000.00;
+(h) pre-judgment interest pursuant to the Courts of Justice Act;
+(i) post-judgment interest pursuant to the Courts of Justice Act;
+(j) its costs on a substantial indemnity basis together with Goods and Services Tax;
+(k) such further and other relief as this Honourable Court deems just.
+[14] The examination for discovery was to be held on March 10, 2010. According to the testimony of Mr. Harilaid, at the examination for discovery, Ms. Sandra Anderson stated that she could no longer continue to pretend that she had been harassed by Mr. Harilaid or the personnel of BH Parkway. Mr. Harilaid testified that BH Parkway was then asked to come up with a reasonable amount and that Trillium College would consent to judgment accordingly.
+[15] On March 20, 2010, BH Parkway and Trillium College reached a settlement agreement. Trillium College agreed to pay an amount of $260,000 to BH Parkway. Of the $260,000, an amount of $100,000 was received by BH Parkway during the periods under appeal, namely $70,000 (during the period ending on September 30, 2011) and $30,000 (during the period ending on December 31, 2011).
+[16] On August 31, 2011, Trillium College and BH Parkway signed the minutes of settlement.
+II. Position of the parties
+[17] After the trial, Mr. Harilaid asked if he could submit written representations on behalf of BH Parkway. Mr. Harilaid stated that in light of his physical conditions, he was too tired at trial to argue the appeal of BH Parkway cogently, I accepted this request. That said, the written submissions were to be restricted to the evidence submitted at trial. In its written submissions, BH Parkway raised a new argument that the original lease agreement involved a loan of $30,000 and that the loan should not be taxed. This argument was not made at trial and the Respondent did not cross examine Mr. Harilaid with respect to such a loan. In addition, no evidence was submitted to substantiate the loan. I will not entertain this new argument.
+[18] BH Parkway argues that the settlement proceeds were punitive damages for defamation in light of the harassment claim. It also argues that part of the amount received from Trillium College was for a penalty pursuant to section 50 of the Commercial Tenancies Act. BH Parkway submits that subsection 182(1) of the Excise Tax Act (the “ETA”) does not apply. Therefore, BH Parkway does not have to remit HST on the amount received from Trillium College.
+[19] The Respondent argues that the settlement proceeds received by BH Parkway fall within the ambit of subsection 182(1) of the ETA and that BH Parkway is deemed to have collected tax at the rate of 13/113 of the amounts received. She argues that the language in the minutes of settlement is clear. The amount of $260,000 was paid as consideration for BH Parkway to consent to “the dismissal of any and all claims against it and to dismiss all of the claims made under the counterclaim”. There is no mention of any sort of additional damages being considered outside of those mentioned in the counterclaim. Based on the counterclaim, the Respondent argues that the payment was made to address physical damage to the property, unpaid rent, breach of contract, abandonment of contract, conversion and intentional interference with contractual relations. The Respondent therefore submits that the settlement payment was not made to compensate BH Parkway for defamation as alleged by Mr. Harilaid.
+III. Analysis
+[20] Subsection 182(1) of the ETA states that where an amount is paid to an HST registrant by a person for a breach of an agreement for a taxable supply of a property or a service to the registrant, upon receipt of such amount, the registrant is deemed to have collected all the tax involved with that supply. [1]
+[21] For subsection 182(1) of the ETA to apply:
+- the registrant had to provide a taxable supply to a person. This condition is met since BH Parkway supplied to Trillium College a commercial lease;
+- the payment must be for a breach of contract linked to the taxable supply. This condition will be met if I were to find that the payments made by Trillium College to BH Parkway were as a consequence of the breach of the lease; and
+- the payment by Trillium College must have been paid to BH Parkway not in consideration for the supply (i.e., the lease). This condition is met since the payment was received to settle the actions before the Court.
+[22] If the amount of $260,000, or part of this amount, was paid for contractual damages linked to the supply of the lease, it will fall under the ambit of subsection 182(1) of the ETA. On the other hand, if the amount of $260,000, or part of it, was received by BH Parkway for defamation or punitive damages, it would not fall under 182(1) of the ETA since such amount would have not been received as consequence of the breach of the lease.
+[23] The minutes of settlement state:
+Whereas the parties have agreed to settle all claims and counterclaims made or which could have been made in this proceeding between them (the “Action”), in accordance with the terms of this agreement.
+. . .
+The said release executed by BH Parkway, together with a consent from BH Parkway to the dismissal of any and all claims against the Proposed Defendants by Counterclaim (Trillium College) . . .
+[24] Pursuant to the counterclaim, BH Parkway is claiming:
+(e) damages for abandonment, breach of contract, conversion and intentional interference with contract relations, the present value of the unpaid rent for the unexpired term of the commercial lease, the sum of $231,000.00;
+(f) damages for fraudulent removal of goods, the sum of $500,000.00;
+(g) damages for physical damages or alterations of the leased premises including disposal costs, the sum of $25,000.00;
+[25] The Respondent relies on paragraphs (e) and (g) to state that the amount of $260,000 was paid as a consequence of the breach of the lease. However, the Respondent does not take into account that BH Parkway in its counterclaim was also requesting an amount of $500,000 for fraudulent removal of goods, part of which arose because of section 50 of the Commercial Tenancies Act. Section 50 provides that:
+If a tenant so fraudulently removes, conveys away or carries off the tenant’s goods or chattels, or if any person wilfully and knowingly aids or assists the tenant in so doing, or in concealing them, every person so offending shall forfeit and pay to the landlord double the value of such goods or chattels, to be recovered by action in any court of competent jurisdiction.
+[My emphasis]
+[26] As noted by Justice Kristjanson of the Ontario Superior Court of Justice in 1694879 Ontario Inc. v Krilavicius: [2]
+Section 50 is a penalty provision imposed upon parties who wilfully and knowingly assist a tenant in removing its goods from a premise to defeat a landlord’s ability to distrain them.
+[My emphasis]
+[27] I agree with the Respondent that the amounts claimed under paragraphs (e) and (g) fall within subsection 182(1) of the ETA, as they were paid as a consequence of the breach of the lease. However, under paragraph (f) above, half of the amount claimed is for a penalty arising as a consequence of the operation of a provincial statute rather than as a consequence of the breach of the lease.
+[28] According to the counterclaim at paragraphs 56 to 59, the value of the goods removed by Trillium College was at least $250,000. Therefore, pursuant to section 50 of the Commercial Tenancies Act, BH Parkway is entitled to claim double the value of the goods removed, $500,000. Accordingly, half of the amount claimed, namely, the penalty in the amount of $250,000 does not fall within the ambit of subsection 182(1) of the ETA.
+[29] Mr. Harilaid argues that I should not only rely on the counterclaim and the minutes of settlement, since after the settlement BH Parkway discovered damages to the leased premises totalling at least $1,000,000. I do not agree. I have to take into account of the facts at the time of the settlement and not what happened after the settlement was reached.
+[30] I also cannot find, as argued by Mr. Harilaid, that the amount of $260,000 was paid for defamation. In the counterclaim filed by BH Parkway, no amount is requested for defamation. The minutes of settlement are also silent with respect to defamation. In addition, I do not have any evidence as to what amount would have been awarded for defamation, if any. Mr. Harilaid has not established that the amount of $260,000, or part of it, was received for defamation.
+[31] Based on the counterclaim, BH Parkway is claiming a total amount of $756,000. [3] As I stated earlier, the amounts under paragraphs (e) and (g) and half the amount under (f), for a total of $506,000 have been received by BH Parkway as a consequence of the breach of the lease and subsection 182(1) of the ETA applies.
+[32] On a pro rata basis, 67% of the amounts received have been received as a consequence of the breach of the lease. Accordingly, for the periods under appeal since the amount received by BH Parkway was $100,000, an amount of $67,000 falls within the ambit of section 182(1) of the ETA. However, subsection 182(1) of the ETA does not apply to 33% of the amounts received, namely an amount of $250,000 since it was received as punitive damages pursuant to section 50 of the Commercial Tenancies Act.
+B. Issue (b) - Was BH Parkway entitled to claim an ITC of $8,404.89 with respect to the acquisition of the SUV?
+[33] In September 2010, BH Parkway purchased a SUV - Mercedez Benz ML 350, for $73,057.60 including taxes.
+[34] Mr. Harilaid testified that he was the only one using the BH Parkway vehicle and that it was used 99% of the time for business purposes.
+[35] Mr. Harilaid testified that the vehicle was used to transport equipment and goods for BH Parkway’s business. With the rear seats folded, he stated that he could put as much material in the SUV as in a pick-up truck.
+[36] Mr. Harilaid, who was then in his eighties, explained that due to his physical condition, it was the only vehicle he could get in and out of without too much difficulty. At the time of the trial, Mr. Harilaid was in a wheelchair. Mr. Harilaid also testified that he had two other vehicles that he used for personal purposes. He added that most of the time, he left the vehicle at BH Parkway’s place of business.
+[37] Mr. Mikhel Harilaid also testified. He is the son of Mr. Harilaid, he confirmed the testimony of his father, namely; that it was the only vehicle that his father could get in and out of without too much difficulty and that could also carry an impressive amount of goods and equipment. He also testified that the vehicle was used exclusively for business purposes since his father had two other vehicles for personal use.
+[38] BH Parkway’s position is that it is entitled to claim the full amount of the ITC since the vehicle was used exclusively for business purposes.
+[39] The Respondent argues that BH Parkway has not established that the vehicle was used all or substantially all, namely for more than 90% of the time, in the course of gaining or producing income, pursuant to the definition of an automobile under subsection 248(1) of the Income Tax Act (the “ITA”). [4] Accordingly, the Minister properly capped the price of the vehicle at $30,000 for the purposes of claiming an ITC pursuant to section 201 of the ETA, the definition of an automobile under subsection 248(1) of the ITA, and paragraph 7307(1)(b) of the Income Tax Regulations.
+[40] The Respondent, therefore, submits that the Minister correctly assessed the Appellant by allowing an ITC in the amount $3,900.
+IV. Analysis
+[41] Pursuant to the definition of an automobile under subsection 248(1) of the ITA, an automobile does not include a motor vehicle that is a van or pick–up truck, or a similar vehicle that is used all or substantially all for the transportation of goods, equipment or passengers in the course of gaining or producing income. A SUV is recognized by the Canada Revenue Agency as a similar vehicle.
+[42] Accordingly, if I were to find that BH Parkway’s vehicle was used all or substantially all for gaining income from a business, the $30,000 [5] cap limit for the purposes of calculating the ITCs for passenger vehicles would not apply in this appeal.
+[43] In Distribution S.C.T. Inc. v R, [6] Justice Tardif states at para 16 that:
+When a person decides to purchase a vehicle with features that raise questions, the person must make careful, attentive and disciplined use of the vehicle so that he or she can ultimately provide persuasive evidence that the vehicle was used exclusively for business purposes.
+[44] This appeal has an unusual set of facts. It was clear that due to his physical condition, Mr. Harilaid was restrained in his movements. As he stated, he had issues finding a vehicle that he could get in and out of without too much difficulty and at the same time ensuring that it could carry a large quantity of material. It was established in evidence that Mr. Harilaid had two other vehicles that he could use for personal purposes. It was also established that the vehicle was left at the place of business most of the time. Mr. Harilaid stated that he sent approximately two hundred invoices to the auditor of the Canada Revenue Agency in order to show that numerous trips were made for business purposes. In addition, the invoices showed at trial demonstrated that Mr. Harilaid was making many trips using the SUV to transport material for the BH Parkway’s shopping mall.
+[45] In light of the evidence, I am convinced that the vehicle was used all or substantially all for gaining or producing income from business. Accordingly, BH Parkway is entitled to claim an ITC in the amount of $8,404.89.
+V. Disposition
+[46] For the periods under appeal, the appeal of BH Parkway is allowed, on the following basis:
+BH Parkway has received, pursuant to section 182 of the ETA, an amount of $67,000. Accordingly, BH Parkway is deemed to have collected tax at the rate of 13/113 of the amount received, namely, $7,707.96.
+BH Parkway is entitled to claim an ITC in the amount of $8,404.89 with respect to its vehicle.
+[47] Without costs.
+Signed at Montreal, Quebec, this 14th day of January 2019.
+“Johanne D’Auray”
+D’Auray J.
+ANNEX 1
+Forfeiture, extinguished debt, etc.
+182 (1) For the purposes of this Part, where at any time, as a consequence of the breach, modification or termination after 1990 of an agreement for the making of a taxable supply (other than a zero-rated supply) of property or a service in Canada by a registrant to a person, an amount is paid or forfeited to the registrant otherwise than as consideration for the supply, or a debt or other obligation of the registrant is reduced or extinguished without payment on account of the debt or obligation,
+(a) the person is deemed to have paid, at that time, an amount of consideration for the supply equal to the amount determined by the formula
+(A/B) × C
+where
+A
+is 100%,
+B
+is
+(i) if tax under subsection 165(2) was payable in respect of the supply, the total of 100%, the rate set out in subsection 165(1) and the tax rate for the participating province in which the supply was made, and
+(ii) in any other case, the total of 100% and the rate set out in subsection 165(1), and
+C
+is the amount paid, forfeited or extinguished, or by which the debt or obligation was reduced, as the case may be; and
+(b) the registrant is deemed to have collected, and the person is deemed to have paid, at that time, all tax in respect of the supply that is calculated on that consideration, which is deemed to be equal to
+(i) where tax under subsection 165(2) was payable in respect of the supply, the total of the tax under that subsection and under subsection 165(1) calculated on that consideration, and
+(ii) in any other case, tax under subsection 165(1) calculated on that consideration.
+CITATION:
+2019 TCC 7
+COURT FILE NO.:
+2015-2873(GST)I
+STYLE OF CAUSE:
+BH PARKWAY PLACE LTD. v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 2, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT:
+January 14, 2019
+APPEARANCES:
+Agent for the Appellant:
+Bruno Harilaid
+Counsel for the Respondent:
+Elizabeth Koudys
+Carol Calabrese
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] I have attached in Annex 1 to my Reasons for Judgment, subsection 182(1) of the ETA.
+[2] 2017 ONSC 2396.
+[3] The total amount claimed is $756,000. Of this amount, $506,000 ($231,000+ $250,000+$25,000) is for damages for breach of a contract. Therefore, the proportion in percentage is 67% for damages as a consequence of the breach of a contract and 33% for a penalty arising from the operation of a provincial statute. I apply these percentages to the amount in issue, $100,000.
+[4] The definition of a “passenger vehicle” in subsection 123(1) of the ETA refers to the definition of a “passenger vehicle” in subsection 248(1) of the ITA. The ITA’s definition of a “passenger vehicle” refers to the definition of an “automobile”, which is also a defined term in subsection 248(1) of the ITA.
+[5] See: section 201 of the ETA and paragraph 7307(1)(v) of the Income Tax Regulations.
+[6] 2006 TCC 482.

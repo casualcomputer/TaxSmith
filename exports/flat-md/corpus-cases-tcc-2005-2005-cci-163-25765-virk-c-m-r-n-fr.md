@@ -1,0 +1,162 @@
+---
+title: "Virk c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25765/index.do"
+last_modified: "2005-02-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 163"
+citation2: ""
+neutral_citation: "2005 CCI 163"
+decision_date: "2005-02-28"
+language: "fr"
+item_id: "25765"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3793
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:11:56.871000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bf7da82692f1fd716f0d081da79ba911948942c0ccfcea99d7bf3232749307d7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Virk c. M.R.N.
+
+- Citation: 2005 CCI 163
+- Decision date: 2005-02-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3793, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Virk c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-28
+Référence neutre
+2005 CCI 163
+Numéro de dossier
+2004-3042(EI)
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi sur l'assurance-emploi
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2004-3042(EI)
+ENTRE :
+DARSHAN KAUR VIRK,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Vancouver (Colombie-Britannique), le 31 janvier 2005
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Représentante de l’appelante :
+Mme Gurcharan Dhillon
+Avocate de l’intimé :
+Me Shawna Cruz
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+L’appel est accueilli sans frais et la décision du ministre est annulée, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 28e jour de février 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 11e jour de juillet 2006.
+Christian Laroche, LL.B..
+Référence : 2005CCI163
+Date : 20050228
+Dossier : 2004-3042(EI)
+ENTRE :
+DARSHAN KAUR VIRK,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Little
+A. LES FAITS :
+[1] L’appelante est née en Inde. Elle est déménagée au Canada en 1997.
+[2] L’appelante soutient qu’elle a été une employée de Keen Farm Labour Force Enterprises (l’« entrepreneure ») du 17 septembre 2001 au 15 décembre 2001 (la « période »).
+[3] L’entrepreneure fournissait des ouvriers agricoles pour aider à la récolte de baies, de fruits et de légumes.
+[4] Les registres de l’entrepreneure indiquent qu’elle avait embauché l’appelante et six autres ouvriers agricoles pour une partie de l’année 2001 (voir les pièces A-3 et R-6).
+[5] L’appelante a témoigné, avec l’aide d’un interprète, qu’elle avait travaillé à titre d’ouvrière agricole pour l’entrepreneure à deux ou trois endroits différents pendant la période.
+[6] Après avoir effectué un examen complet des dossiers financiers de l’entrepreneure et après s’être entretenus avec diverses personnes, des fonctionnaires du bureau du ministre du Revenu national (le « ministre ») ont rendu une décision (la « décision ») le 12 février 2003, dans laquelle il est déclaré que l’appelante n’occupait pas un emploi assurable chez l’entrepreneure pendant quelque partie que ce soit de la période du 17 septembre 2001 au 15 décembre 2001.
+[7] L’appelante a interjeté appel de la décision et le ministre a décidé qu’elle n’occupait pas un emploi assurable chez l’entrepreneure pendant la période.
+B. LA QUESTION EN LITIGE :
+[8] La question en litige est celle de savoir si l’appelante a exécuté des services pour l’entrepreneure au cours de la période.
+C. ANALYSE :
+[9] L’avocate de l’intimé a présenté un certain nombre de documents dans une tentative manifeste d’étayer la position adoptée par le ministre.
+[10] L’avocate de l’intimé a appelé Kiram Kumari Banwaite, un employeur à DRHC, à témoigner. Mme Banwaite a affirmé qu’elle avait obtenu des renseignements météorologiques de la région de la vallée du Fraser concernant un certain nombre de jours durant la période. On l’avait avisée que le vent avait soufflé entre 29,92 et 48,33 milles à l’heure pendant certains jours de la période. Elle a affirmé avoir fait cette analyse dans le but de déterminer s’il était possible de travailler comme ouvrier agricole lorsqu’il pleuvait beaucoup ou que les vents étaient très forts. Ces renseignements se trouvent dans la pièce R-4.
+[11] J’ai comparé le nombre d’heures qu’avait déclarées l’appelante pour ces journées où les vents étaient très forts avec le nombre d’heures déclarées par les autres employés de l’entrepreneure pour ces mêmes « jours de grands vents ». J’ai remarqué que l’appelante et les autres employés de l’entrepreneure avaient déclaré à peu près le même nombre d’heures. J’ai donc conclu qu’on ne pouvait pas accorder de poids aux renseignements contenus dans la pièce R-4, ni établir leur pertinence.
+[12] Mme Dhillon, la représentante de l’appelante, a déposé la pièce A-1 qui est constituée de photocopies de chèques à l’ordre de l’appelante. La pièce A-1 contient les renseignements suivants tirés de chèques émis à l’appelante par l’entrepreneure :
+1. 22 septembre 2001 337,05 $
+2. 6 octobre 2001 758,77 $
+3. 20 octobre 2001 746,68 $
+4. 3 novembre 2001 752,73 $
+5. 17 novembre 2001 811,35 $
+6. 1er décembre 2001 776,92 $
+7. 15 décembre 2001 752,73 $
+4 936,23 $
+[13] Mme Dhillon a aussi présenté une copie du relevé bancaire de l’appelante (pièce A-2) qui mentionnait que des chèques d’une somme totale de 1 095,82 $ avaient été déposés dans le compte le 3 novembre 2001 et que des chèques d’une somme totale de 3 840,41 $ avaient été déposés le 19 décembre 2001, ce qui donne un dépôt total de 4 936,23 $. Autrement dit, tous les chèques indiqués au paragraphe [12] ont été déposés dans le compte.
+(Remarque : Aucune preuve n’a été présentée à la Cour venant indiquer que l’appelante avait retiré les montants déposés dans son compte et les avait donnés à d’autres parties.)
+[14] Mme Dhillon a affirmé que, selon son analyse, l’appelante était la seule employée de l’entrepreneure pendant la période qui n’était pas reconnue comme une employée par le ministre.
+[15] L’avocate de l’intimé a affirmé qu’il y avait de nombreuses contradictions dans le témoignage présenté à la Cour et dans celui fourni par l’appelante aux employés de DRHC et de l’ARC. L’avocate de l’intimé a affirmé qu’en raison de ces contradictions, je devrais conclure que, selon la prépondérance de la preuve, l’appelante n’avait pas travaillé pour l’entrepreneure pendant la période.
+[16] J’ai examiné attentivement l’ensemble des éléments de preuve ainsi que le témoignage sous serment présentés à la Cour et j’ai conclu que l’appelante était une employée de l’entrepreneure et qu’elle avait reçu une rémunération assurable pendant la période du 17 septembre 2001 au 1er décembre 2001. En raison de certaines contradictions dans le témoignage, je ne suis pas convaincu, selon la prépondérance de la preuve, que l’appelante avait travaillé pour l’entrepreneure pendant la période du 2 décembre 2001 au 15 décembre 2001.
+[17] L’appel est accueilli sans frais et l’appelante est réputée avoir travaillé pour l’entrepreneure, selon les heures énoncées dans la pièce A‑3, pendant la période du 17 septembre 2001 au 1er décembre 2001.
+Signé à Vancouver (Colombie-Britannique), ce 28e jour de février 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 11e jour de juillet 2006.
+Christian Laroche, LL.B..
+RÉFÉRENCE :
+2005CCI163
+DOSSIER DE LA COUR :
+2004-3042(EI)
+INTITULÉ :
+Darshan Kaur Virk c.
+Le Ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 31 janvier 2005
+MOTIFS DU JUGEMENT :
+L’honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 28 février 2005
+COMPARUTIONS :
+Représentante de l’appelante :
+Mme Gurcharan Dhillon
+Avocate de l’intimé :
+Mme Shawna Cruz
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

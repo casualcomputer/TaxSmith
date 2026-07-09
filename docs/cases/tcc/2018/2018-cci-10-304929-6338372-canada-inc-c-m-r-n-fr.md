@@ -1,0 +1,164 @@
+---
+title: "6338372 Canada Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/304929/index.do"
+last_modified: "2018-01-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 10"
+citation2: ""
+neutral_citation: "2018 CCI 10"
+decision_date: "2018-01-11"
+language: "fr"
+item_id: "304929"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7232
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:02:44.654000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c623322f503ee89685a7592a45c1e7b1fbda1ea65d5ecf4512f881928bbd4ca6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 6338372 Canada Inc. c. M.R.N.
+
+- Citation: 2018 CCI 10
+- Decision date: 2018-01-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7232, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+6338372 Canada Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-01-11
+Référence neutre
+2018 CCI 10
+Numéro de dossier
+2017-1197(EI)
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2017-1197(EI)
+ENTRE :
+6338372 CANADA INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+Appel entendu le 9 janvier 2018, à Ottawa (Ontario)
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Représentant de l’appelante :
+Taki Hasson
+Avocat de l’intimé :
+Me Alexander Nguyen
+JUGEMENT
+L’appel interjeté à l’encontre de la décision du ministre du Revenu national en date du 22 décembre 2016 est rejeté, et la décision du ministre est confirmée conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour de janvier 2018.
+« Robert J. Hogan »
+Le juge Hogan
+Référence : 2018 CCI 10
+Date : 20180111
+Dossier : 2017-1197(EI)
+ENTRE :
+6338372 CANADA INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+MOTIFS MODIFIÉS DU JUGEMENT
+Le juge Hogan
+[1] Service Canada a mené une enquête concernant l’admissibilité de Mme Najat Aboulmaid (la travailleuse) à des prestations d’assurance-emploi après la perte de son emploi au sein de la société 6338372 Canada Inc. (l’appelante). Au cours de son enquête, Service Canada a demandé qu’une décision soit rendue afin de déterminer si l’emploi de la travailleuse auprès de l’appelante était assurable du 24 février 2013 au 21 février 2014 (la période pertinente).
+[2] La Division de l’admissibilité au Régime de pensions du Canada et à l’Assurance-emploi a conclu que l’emploi de la travailleuse auprès de l’appelante n’était pas assurable. L’agent des décisions a conclu que la travailleuse et l’appelante avaient un lien de dépendance et que les conditions d’emploi conclues entre la travailleuse et l’appelante n’étaient pas essentiellement similaires à celles dont les parties auraient convenu si elles n’avaient pas eu de lien de dépendance.
+[3] L’appelante n’était pas d’accord avec cette décision et elle a interjeté appel auprès du ministre.
+[4] Lorsqu’il a confirmé la décision initiale, le ministre s’en est remis, notamment, aux hypothèses de faits suivantes :
+a) l’appelante exploitait une entreprise de vente au détail dans le secteur de la mode pour femmes;
+b) l’époux de la travailleuse détenait l’ensemble des actions émises et en circulation de l’appelante pendant toute la période pertinente;
+c) l’appelante a embauché la travailleuse à titre de directrice des ventes;
+d) le poste n’a pas été affiché. La travailleuse a été embauchée parce qu’elle était l’épouse de l’unique actionnaire de l’appelante;
+e) pendant toute la période pertinente, la travailleuse a été payée au salaire minimum de l’Ontario;
+f) les fonctions de la travailleuse comprenaient la vente aux clients, la commercialisation, l’établissement des prix et la supervision du personnel de vente;
+g) le salaire gagné par la travailleuse était considérablement inférieur au salaire moyen de 28,57 $ l’heure versé aux directeurs des ventes en gros et au détail. Selon le ministre, le plus faible salaire versé à un employé occupant ce poste était de 14 $ l’heure;
+h) la travailleuse a souvent attendu avant de déposer les chèques de paie qu’elle recevait de l’appelante, jusqu’à ce que son mari l’informe qu’il avait suffisamment de fonds disponibles pour honorer les chèques;
+i) la travailleuse a continué d’offrir gratuitement ses services à l’appelante alors qu’elle percevait des prestations d’assurance-emploi.
+I. Discussion
+[5] Il n’est pas contesté que les parties avaient un lien de dépendance.
+[6] Les dispositions législatives pertinentes sont reproduites ci-dessous :
+5. Restriction
+(2) N’est pas un emploi assurable :
+[...]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+Personnes liées
+(3) Pour l’application de l’alinéa (2)i) :
+A) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[7] Il s’agit de rechercher s’il était raisonnable pour le ministre de conclure que la travailleuse et l’appelante n’auraient pas conclu un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance.
+[8] Selon les éléments de preuve présentés à l’audition, je conclus que la décision du ministre était raisonnable.
+[9] Je suis d’avis que les éléments de preuve démontrent que la travailleuse était sous-payée pour les services offerts à l’appelante. Comme je l’ai déjà mentionné, elle a perçu le salaire minimum pour ses services, alors que le salaire moyen en Ontario pour les employés offrant des services semblables est beaucoup plus élevé. Les éléments de preuve démontrent également qu’elle a perçu le même salaire que d’autres membres du personnel de vente, alors qu’elle accomplissait plus de tâches et qu’elle assumait des responsabilités plus importantes dans son emploi auprès de l’appelante.
+[10] M. Taki Hasson, l’unique actionnaire de l’appelante et l’époux de la travailleuse, a témoigné pour le compte de l’appelante. Il a soutenu que son épouse n’était pas l’employée de la société ayant le plus d’ancienneté. Selon le témoin, Mme Anne Abdul-Rahman a été embauchée par l’appelante avant la travailleuse et elle accomplissait des fonctions semblables à celles de cette dernière. Elle percevait également le salaire minimum pour ses services.
+[11] Le témoignage de M. Hasson a été contredit en partie par son épouse, qui a également témoigné pour le compte de l’appelante. Elle a admis qu’elle a travaillé pour l’appelante pendant plus longtemps que Mme Abdul-Rahman.
+[12] L’intimé a produit la pièce R-5, un résumé imprimé des renseignements sur la rémunération payée figurant sur les feuillets T4 produits par l’appelante auprès de l’Agence du revenu du Canada pour les années d’imposition 2005, 2013 et 2014. L’imprimé indique que l’appelante n’a pas produit de feuillet T4 pour Mme Abdul-Rahman pour ces années d’imposition.
+[13] Compte tenu de ce qui précède, je conclus que le témoignage de M. Hasson concernant la similitude des postes occupés par la travailleuse et Mme Abdul-Rahman auprès de l’appelante n’est pas crédible.
+[14] L’appelante aurait pu appeler Mme Abdul-Rahman comme témoin afin de corroborer le témoignage de M. Hasson sur la question. Je tire une conclusion défavorable de la décision de l’appelante de ne pas appeler Mme Abdul-Rahman comme témoin pour corroborer le témoignage de M. Hasson.
+[15] L’intimé a produit des renseignements comptables montrant le salaire versé à la travailleuse sur une période de 53 semaines et les relevés bancaires de la travailleuse, qui indiquent à quelles dates elle a déposé les chèques de paie dans son compte bancaire. Ces relevés indiquent que la travailleuse a souvent attendu avant d’encaisser ses chèques de paie. Dans certains cas, elle a attendu plus de trois mois avant de déposer un chèque de paie. Ces éléments de preuve corroborent la conclusion de l’agent des décisions selon laquelle M. Hasson a souvent demandé à son épouse de ne pas encaisser ses chèques de paie lorsque l’appelante n’avait pas suffisamment de fonds pour respecter ses obligations salariales. Je souscris à l’observation de l’intimé selon laquelle un employé non lié n’aurait pas accepté de reporter le dépôt d’un chèque de paie dans des circonstances semblables.
+[16] Enfin, selon les éléments de preuve, je conclus que la travailleuse a offert certains services à l’appelante gratuitement. Cela n’est pas typique d’une relation entre parties sans lien de dépendance.
+[17] Il est bien établi que je ne peux pas substituer ma décision à celle du ministre lorsqu’il n’a pas été démontré que les faits sur lesquels il s’est appuyé sont incorrects et qu’il n’existe aucun nouveau fait qui aurait pu modifier sa décision selon laquelle l’emploi de la travailleuse auprès de l’appelante n’était pas régi par des conditions d’emploi entre parties sans lien de dépendance.
+[18] L’appel est rejeté pour l’ensemble de ces motifs.
+Signé à Ottawa, Canada, ce 29e jour de janvier 2018.
+« Robert J. Hogan »
+Le juge Hogan
+Traduction certifiée conforme
+Ce 12e jour d’août 2019
+Lionbridge
+RÉFÉRENCE :
+2018 CCI 10
+No DU DOSSIER DE LA COUR :
+2017-1197(EI)
+INTITULÉ :
+6338372 CANADA INC. C. M. N. R.
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATE DE L’AUDIENCE :
+Le 9 janvier 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 11 janvier 2018
+COMPARUTIONS :
+Représentant de l’appelante :
+Taki Hasson
+Avocat de l’intimé :
+Me Alexander Nguyen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

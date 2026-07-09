@@ -1,0 +1,411 @@
+---
+title: "He v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521225/index.do"
+last_modified: "2024-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 21"
+citation2: ""
+neutral_citation: "2024 TCC 21"
+decision_date: "2024-02-16"
+language: "en"
+item_id: "521225"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5735
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:08:45.354000+00:00"
+cases_cited_count: 12
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c0cdb5644626dde7d1f067c5b79981bd185e79d89fa94d6fbdd623bfaecb73b4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# He v. The King
+
+- Citation: 2024 TCC 21
+- Decision date: 2024-02-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5735, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+He v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-02-16
+Neutral citation
+2024 TCC 21
+File numbers
+2018-4775(IT)G
+Judges and Taxing Officers
+Dominique Lafleur
+Decision Content
+Docket: 2018-4775(IT)G
+BETWEEN:
+YU XING HE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on October 30 and 31, 2023, and November 1 and 2, 2023 at Toronto, Ontario
+Before: The Honourable Justice Dominique Lafleur
+Appearances:
+Counsel for the Appellant:
+David M. Piccolo
+Counsel for the Respondent:
+Benjamin Chamberland
+Katie Beahen
+JUDGMENT
+IN ACCORDANCE with the attached Reasons for Judgment;
+IT IS ORDERED as follows:
+The Minister of National Revenue (the “Minister”) has met his burden to reassess the Appellant beyond the normal reassessment period under subparagraph 152(4)(a)(i) of the Income Tax Act (the “Act”) for the 2009 to 2012 taxation years, and to assess penalties under subsection 163(2) of the Act;
+The appeal from the reassessments made under the Act for the 2009 to 2012 taxation years is allowed, and the matter is referred back to the Minister for reconsideration and reassessment on the basis that the unreported income of the Appellant is to be reduced by taking into account the following adjustments to be made to the net worth calculations (which amounts include concessions made by the Respondent at the hearing and additional adjustments described below):
+For 2009
+Schedule I (Balance Sheet – Assets): add the deposit on the Splendid China Square Property for $46,275 (as it was included in 2008);
+Schedule II (Balance Sheet – Liabilities): add a loan from Mr. Chen for $80,000 (as it was included in 2008);
+Schedule III (Calculation of Discrepancy in Total Income per Net Worth): add deductions for $4,269.95 (cheque from the Government of Canada) and for $6,615 (non-taxable portion of the Appellant’s spouse’s capital gain on the sale of the Telegram Mews Property); and
+Additional adjustments to the 2008 taxation year (as described below).
+For 2010
+Schedule I (Balance Sheet – Assets): add the deposit on the Splendid China Square Property for $46,275 (as it was included in 2008) and the deposit on the Fulham Property for $20,000;
+Schedule II (Balance Sheet – Liabilities): add a loan from Mr. Chen for $60,000 (as the original loan was partially reimbursed) and a loan from Mr. Guo Lin He for $12,000; and
+Schedule IV (Summary of Personal Expenditures) (with corresponding adjustments to Schedule III (Calculation of Discrepancy in Total Income per Net Worth)): reduce by an aggregate amount of $43,033, consisting of $20,000 (deposit on the Fulham Property), $20,000 (partial reimbursement of a loan from Mr. Chen) and $3,033 (Budget Rent-A-Car payments).
+For 2011
+Schedule II (Balance Sheet – Liabilities): add a loan from Mr. Yang for $5,300;
+Schedule III (Calculation of Discrepancy in Total Income per Net Worth): add a deduction for $46,275 (refund of deposit on the Splendid China Square Property); and
+Schedule IV (Summary of Personal Expenditures) (with corresponding adjustments to Schedule III (Calculation of Discrepancy in Total Income per Net Worth)): reduce by an aggregate amount of $146,524, consisting of $60,000 (reimbursement of the balance of a loan from Mr. Chen), $12,000 (reimbursement of a loan from Mr. Guo Lin He), $10,000 (reimbursement of a loan from Mr. Yang), $35,000 (amount paid to Mr. Chen) and $29,524 (Costco payments).
+For 2012
+Schedule II (Balance Sheet – Liabilities): add a loan from Mr. Yang for $5,300 (as it was included in 2011);
+Schedule III (Calculation of Discrepancy in Total Income per Net Worth): add a deduction for $421 (non-taxable portion of the Appellant’s spouse’s capital gain on the sale of the Singer Property) and for $17,700 (gifts received by the Appellant); and
+Schedule IV (Summary of Personal Expenditures) (with corresponding adjustments to Schedule III (Calculation of Discrepancy in Total Income per Net Worth)): reduce by an aggregate amount of $153,766, consisting of $20,000 (reimbursement of a loan from Mr. Yang), $23,314 (Costco payments) and $110,452 (representing a deposit for a property located at 4903‑14th Avenue, in Markham, Ontario).
+3. Penalties assessed under subsection 163(2) of the Act shall be adjusted accordingly;
+4. Additional assets and liabilities shall be added to Schedule I (Balance Sheet – Assets) and to Schedule II (Balance Sheet – Liabilities) for the 2008 taxation year (which year is not under appeal) to take into account concessions made by the Respondent at the hearing and additional adjustments described below:
+Schedule I (Balance Sheet – Assets): Purcell Property for $493,000, deposit on the Telegram Mews Property for $89,120 and deposit on the Splendid China Square Property for $46,275; and
+Schedule II (Balance Sheet – Liabilities): loan from Mr. Chen for $80,000 and liability (mortgage) in respect of the Purcell Property for $432,562.
+5. Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 16th day of February 2024.
+“Dominique Lafleur”
+Lafleur J.
+Citation: 2024 TCC 21
+Date: 20240216
+Docket: 2018-4775(IT)G
+BETWEEN:
+YU XING HE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on October 30 and 31, 2023, and November 1 and 2, 2023 at Toronto, Ontario
+Before: The Honourable Justice Dominique Lafleur
+Appearances:
+Counsel for the Appellant:
+David M. Piccolo
+Counsel for the Respondent:
+Benjamin Chamberland
+Katie Beahen
+REASONS FOR JUDGMENT
+Lafleur J.
+I. REASSESSMENTS AND CONCESSIONS
+[1] The Minister of National Revenue (the “Minister”) reassessed Mr. Yu Xing He (the “Appellant” or “Mr. He”) under the Income Tax Act (the “Act”) beyond the normal reassessment period pursuant to subparagraph 152(4)(a)(i) of the Act for the 2009 to 2012 taxation years. Applying the net worth method, the Minister added additional net business income totalling $6,281,338 in the calculation of Mr. He’s income. Furthermore, the Minister assessed penalties under subsection 163(2) of the Act for all taxation years.
+[2] Following the Appellant’s objection, the Minister varied the reassessments by decreasing the unreported business income by an amount of approximately $3.6M to an aggregate of $2,658,753, namely: $352,662; $1,096,986; $637,631; and $571,474, for the 2009 to 2012 taxation years respectively. In varying the reassessments, the Minister determined that gains on real estate dispositions were to be considered on a capital account rather than on an income account. Some further adjustments were made to take into account additional assets, additional gifts, a change in the value of a shareholder’s’ loan account (reduction), and an additional reduction by taking into account the non-taxable portion of capital gains on the disposition of assets. Penalties assessed under subsection 163(2) of the Act were also adjusted accordingly.
+[3] At the hearing, the parties jointly submitted a partial agreed statement of facts (Exhibit RA-1 – Partial Agreed Statement of Facts, attached to these reasons as Schedule A). These include specific facts regarding the Appellant’s background, reported income, assets and liabilities for the net worth analysis, and the calculation of discrepancy in total income per the net worth analysis. However, the parties did not agree on facts regarding various loans and gifts the Appellant alleged he received during the taxation years under appeal, the amount the Appellant contributed to the shareholders’ loan account of 2225903 Ontario Inc. (“Seasons”), and whether specific withdrawals found in various bank accounts were business expenses incurred for Seasons or personal expenditures of the Appellant.
+[4] Under Exhibit R-6, the Respondent produced amended schedules, consisting of Schedule I (Balance Sheet – Assets), Schedule II (Balance Sheet – Liabilities), Schedule III (Calculation of Discrepancy in Total Income per Net Worth), Schedule IV (Summary of Personal Expenditures) and Schedule V (Analysis of Income Tax Discrepancy per Net Worth). These schedules were produced to replace the various schedules attached to the Reply to the Notice of Appeal and took into account various concessions made by the Respondent at the beginning and in the course of the trial, which I will describe below.
+[5] At the beginning of the trial, the Respondent made the following concessions:
+i)An amount of $493,000 representing the cost of a property located at 147 Purcell Square, in Toronto, Ontario (the “Purcell Property”), shall be added as an asset on Schedule I (Balance Sheet – Assets) for 2008, with a corresponding long term liability of $432,562 as a mortgage to be added to Schedule II (Balance Sheet – Liabilities) for 2008;
+ii)An amount of $17,700 representing two gifts received by Mr. He shall be added to the deductions listed on Schedule III (Calculation of Discrepancy in Total Income per Net Worth) for 2012 (see Exhibit RA‑1, paras. 122–123); and
+iii)An amount of $110,452 shall reduce the item “other” in the personal expenditures calculation in Schedule IV (Summary of Personal Expenditures) for 2012, which amount was already included in the asset section of the Balance Sheet (Schedule I: Balance Sheet – Assets) in respect of a property located at 4903-14th Avenue, in Markham, Ontario.
+[6] Furthermore, during the trial, the Respondent conceded the following:
+i)An amount of $89,120 representing the total deposits made for the purchase of a property located at 3610-25 Telegram Mews, in Toronto, Ontario (the “Telegram Mews Property”), shall be added as an asset on Schedule I (Balance Sheet – Assets) for 2008;
+ii)An amount of $6,615, representing the non-taxable portion of Mr. He’s spouse’s capital gain on the sale of the Telegram Mews Property, shall be added to the deductions listed on Schedule III (Calculation of Discrepancy in Total Income per Net Worth) for 2009; and
+iii)An amount of $421, representing the non-taxable portion of Mr. He’s spouse’s capital gain on the sale of a property located at 1911-33 Singer Court (the “Singer Property”), shall be added to the deductions listed on Schedule III (Calculation of Discrepancy in Total Income per Net Worth) for 2012.
+[7] Given the above concessions, and according to the Respondent, the Appellant’s unreported business income using the net worth assessment method for the 2009 to 2012 taxation years was respectively established at $196,490; $1,096,986; $637,631; and $442,901, for a total of $2,374,008.
+[8] At trial, Mr. He testified, as did Mr. Benjamin Battiste, the Canada Revenue Agency (the “CRA”) appeal officer who reviewed Mr. He’s files at the CRA’s appeal level. Furthermore, Mr. He called the following individuals to testify: Mr. Fei Chen (Mr. He’s nephew), Mr. Guo Lin He (Mr. He’s cousin), and Mr. Hui Min Shi (Mr. He’s brother-in-law).
+[9] All statutory references that follow in these reasons are to the Act unless otherwise stated.
+II. BACKGROUND
+[10] Mr. He immigrated to Canada in 2003, after completing his high school education in China. His first job in Canada was in a supermarket, around 2007. In 2009, he planned to open a supermarket with partners. Between 2009 and 2012, Mr. He was married and living with his spouse and two minor children in Scarborough, Toronto, Ontario.
+[11] Since 2004, he and his spouse have jointly owned the Purcell Property, part of which has been rented out since its purchase. Mr. He has also been involved in the purchase and sale of multiple pre-construction properties.
+[12] Mr. He and his spouse reported the following net income for income tax purposes (see Exhibit RA-1, Partial Agreed Statements of Facts, paras. 7–42):
+2009: $19,458 (including taxable capital gains and net rental income);
+2010: $22,301 (including net rental income and net business income);
+2011: $25,189 (including taxable capital gains and net rental income); and
+2012: $20,570 (for Mr. He only, including net rental income and employment income; no evidence was adduced at trial on the net income reported by his spouse, but she reported net rental income of $6,857).
+[13] As mentioned above, the reassessments at issue were determined by a net worth analysis. This method is “based on an assumption that if one subtracts a taxpayer’s net worth at the beginning of a year from that at the end, adds the taxpayers expenditures in the year, deletes non-taxable receipts and accretions to value of existing assets, the net result, less any amount declared by the taxpayer, must be attributable to unreported income earned in the year, unless the taxpayer can demonstrate otherwise” (see Bigayan v. R (1999), [2000] 1 CTC 2229, 2000 DTC 1619 [Bigayan], at para. 2).
+[14] The personal expenditures of Mr. He were determined by the CRA by adding all withdrawals, cheques, drafts and debit memos found in various bank accounts statements and credit cards statements, and deducting all transfers made between bank accounts and all business expenses paid through these bank accounts.
+[15] Mr. He attributes the discrepancy between his reported income and his net worth to various loans he had received from friends and family over the years, as well as large gifts mostly from his father-in-law, who lives in China.
+III. ISSUES
+[16] The issues arising from this appeal are as follows:
+i)Given the concessions made by the Respondent at the hearing, has unreported income been properly determined for the 2009 to 2012 taxation years as being respectively $196,490; $1,096,986; $637,631; and $442,901, for a total of $2,374,008?
+ii)Were the 2009 to 2012 taxation years properly reassessed beyond the normal reassessment period pursuant to subparagraph 152(4)(a)(i)?
+iii)Were penalties under subsection 163(2) properly assessed for the 2009 to 2012 taxation years?
+IV. POSITIONS OF THE PARTIES
+A. The Respondent’s position
+[17] The examination of the various bank accounts shows that the Mr. He did not report all of his income, the source of which is unknown to the Minister. As the Appellant is unable to offer a credible explanation for the source of these funds, the Minister has met his burden to reassess the Appellant beyond the normal reassessment period under subparagraph 152(4)(a)(i) as well as to assess penalties under subsection 163(2). The evidence also showed that Mr. He was given opportunities to make representations in that respect.
+[18] The amount of unreported income, as calculated and detailed in the various schedules found under Exhibit R-6, should be included in the calculation of Mr. He’s income.
+[19] Mr. Battiste’s testimony was clear that a thorough analysis of the Appellant’s records was made, with no need for estimates.
+[20] Mr. He lacks credibility when he claims that he had received various loans and gifts over the years, as the issue of these loans and gifts was not raised at audit or on appeal, but only during discovery.
+[21] Further, no credible evidence was adduced at trial to allow the Court to conclude that Mr. He did receive these loans and gifts.
+[22] Apart from concessions already made by the Respondent at trial, no other adjustments should be made to the net worth calculations.
+B. The Appellant’s position
+[23] The requirements for reassessing beyond the normal reassessment period were not met by the Minister as the evidence showed that Mr. He carefully reviewed his tax returns before filing them, and that he knew gifts and loans were not taxable. The Court has to take into account the fact that Mr. He was a recent immigrant, having arrived in Canada in 2004. Mr. He did not show any carelessness or neglect in filing his tax returns, and it cannot be concluded that he willfully underreported his income. The evidence showed that Mr. He actively sought his accountant’s advice. Furthermore, for the same reasons, the Minister did not meet his burden in respect of penalties assessed under subsection 163(2).
+[24] However, if the Court is satisfied that the Minister met the requirements for reassessing Mr. He beyond the normal reassessment period under subparagraph 152(4)(a)(i), 38 adjustments (including adjustments referred to in the concessions made by the Respondent as described above) to the schedules attached to the Reply to the Notice of Appeal should be made to arrive at unreported income totalling $998,916, specifically: (-$752); $315,405; $460,406; and $223,857 for the 2009 to 2012 taxation years respectively. These adjustments to the net worth calculations include the various loans and gifts Mr. He allegedly received from friends and family members, including his father-in-law.
+V. CONCLUSION
+[25] In accordance with these reasons, I find that the Minister has met his burden to reassess Mr. He beyond the normal reassessment period under subparagraph 152(4)(a)(i) for the 2009 to 2012 taxation years, and to assess penalties under subsection 163(2).
+[26] Further, in accordance with these reasons, the appeal from the reassessments made under the Act for the 2009 to 2012 taxation years is allowed, with costs to the Respondent, and the matter is referred back to the Minister for reconsideration and reassessment on the basis that the unreported income of Mr. He is to be reduced by taking into account the following adjustments to be made to the net worth calculations (which amounts include concessions made by the Respondent at the hearing and additional adjustments described below):
+For 2009
+Schedule I (Balance Sheet – Assets): add the deposit on the Splendid China Square Property for $46,275 (as it was included in 2008);
+Schedule II (Balance Sheet – Liabilities): add a loan from Mr. Chen for $80,000 (as it was included in 2008);
+Schedule III (Calculation of Discrepancy in Total Income per Net Worth): add deductions for $4,269.95 (cheque from the Government of Canada) and for $6,615 (non-taxable portion of Mr. He’s spouse’s capital gain on the sale of the Telegram Mews Property); and
+Additional adjustments to the 2008 taxation year (as described below).
+For 2010
+Schedule I (Balance Sheet – Assets): add the deposit on the Splendid China Square Property for $46,275 (as it was included in 2008) and the deposit on Fulham Property for $20,000;
+Schedule II (Balance Sheet – Liabilities): add a loan from Mr. Chen for $60,000 (as the original loan was partially reimbursed) and a loan from Mr. Guo Lin He for $12,000; and
+Schedule IV (Summary of Personal Expenditures) (with corresponding adjustments to Schedule III (Calculation of Discrepancy in Total Income per Net Worth)): reduce by an aggregate amount of $43,033, consisting of $20,000 (deposit on the Fulham Property), $20,000 (partial reimbursement of a loan from Mr. Chen) and $3,033 (Budget Rent-A-Car payments).
+For 2011
+Schedule II (Balance Sheet – Liabilities): add a loan from Mr. Yang for $5,300;
+Schedule III (Calculation of Discrepancy in Total Income per Net Worth): add a deduction for $46,275 (refund of deposit on the Splendid China Square Property); and
+Schedule IV (Summary of Personal Expenditures) (with corresponding adjustments to Schedule III (Calculation of Discrepancy in Total Income per Net Worth)): reduce by an aggregate amount of $146,524, consisting of $60,000 (reimbursement of the balance of a loan from Mr. Chen), $12,000 (reimbursement of a loan from Mr. Guo Lin He), $10,000 (reimbursement of a loan from Mr. Yang), $35,000 (amount paid to Mr. Chen) and $29,524 (Costco payments).
+For 2012
+Schedule II (Balance Sheet – Liabilities): add a loan from Mr. Yang for $5,300 (as it was included in 2011);
+Schedule III (Calculation of Discrepancy in Total Income per Net Worth): add a deduction for $421 (non-taxable portion of Mr. He’s spouse’s capital gain on the sale of the Singer Property) and for $17,700 (gifts received by Mr. He); and
+Schedule IV (Summary of Personal Expenditures) (with corresponding adjustments to Schedule III (Calculation of Discrepancy in Total Income per Net Worth)): reduce by an aggregate amount of $153,766, consisting of $20,000 (reimbursement of a loan from Mr. Yang), $23,314 (Costco payments) and $110,452 (representing a deposit for a property located at 4903-14th Avenue, in Markham, Ontario).
+[27] Penalties assessed under subsection 163(2) shall be adjusted accordingly.
+[28] In accordance with these reasons, I also find that additional assets and liabilities shall be added to Schedule I (Balance Sheet – Assets) and to Schedule II (Balance Sheet – Liabilities) for the 2008 taxation year (which year is not under appeal) to take into account concessions made by the Respondent at the hearing and additional adjustments described below:
+Schedule I (Balance Sheet – Assets): Purcell Property for $493,000, deposit on the Telegram Mews Property for $89,120 and deposit on the Splendid China Square Property for $46,275; and
+Schedule II (Balance Sheet – Liabilities): loan from Mr. Chen for $80,000 and liability (mortgage) in respect of the Purcell Property for $432,562.
+VI. ANALYSIS
+A. The net worth method
+[29] The Minister is not bound by a return or information supplied by a taxpayer, or on his or her behalf, and may use an alternative audit method to assess the tax payable (subsection 152(7)).
+[30] As indicated above, the Minister used a net worth method to reassess Mr. He for the 2009 to 2012 taxation years. Mr. Battiste, the CRA appeal officer, testified that the audit conducted by the CRA was a thorough review of financial records, as no estimates or statistics were used to determine the unreported income. The bank withdrawal method was used under the net worth analysis. The auditor obtained various bank accounts statements (including line of credit statements) and credit card statements through the CRA’s power to obtain information and did a withdrawal analysis. The CRA was able to identify 10 bank accounts and lines of credits held by Mr. He and his spouse. Mr. He did not provide any bank statements or credit cards statements to the CRA. Under the withdrawal analysis, specific amounts were recognized as business expenses, and inter-account transfers and mortgage payments were identified, and these amounts were removed from the calculation of personal expenditures found in Schedule IV (Summary of Personal Expenditures) to avoid any double counting of amounts.
+[31] I found that the testimony of Mr. Battiste was clear and credible.
+[32] As a general rule, in an appeal to this Court, the burden of proof rests on the taxpayer. A taxpayer thus bears the burden of demolishing the Minister’s assumptions of fact and proving, on a balance of probabilities, the facts justifying his or her position. On the other hand, the Minister has the burden of proving, on a balance of probabilities, the facts justifying the assessment of penalties under subsection 163(2) (subsection 163(3)) and the facts justifying reassessment beyond the normal reassessment period (subparagraph 152(4)(a)(i)).
+[33] In the case at bar, reassessments were made beyond the normal reassessment period. The Minister will discharge his burden under subparagraph 152(4)(a)(i) if he establishes that “there is a discrepancy . . . between a taxpayer’s assets and his expenses, and that discrepancy continues to be unexplained and inexplicable” (see Molenaar v. Canada, 2004 FCA 349 at para. 4, cited with approval in Lacroix v. The Queen, 2008 FCA 241 [Lacroix], at para. 33).
+[34] Further, as stated in Lacroix (at para. 32):
+[i]nsofar as the Tax Court of Canada is satisfied that the taxpayer earned unreported income and did not provide a credible explanation for the discrepancy between his or her reported income and his or her net worth, the Minister has discharged the burden of proof on him within the meaning of subparagraph 152(4)(a)(i) and subsection 162(3) [sic].
+[35] If the Minister discharges his burden under subparagraph 152(4)(a)(i), it will then be on Mr. He to identify the source of the income and to show, on a balance of probabilities, that the income is not taxable. Mr. He will have to prove, on a balance of probabilities, the facts justifying his position. Mr. He can also challenge the net worth reassessment by establishing that the net worth method was inherently flawed (see Bigayan, supra, at paras. 3–4).
+[36] In order to successfully challenge the reassessments at issue, Mr. He must present detailed and cogent testimony, and supporting evidence where possible, to explain the various withdrawals found in his bank accounts and why they should not be included in the calculation of the personal expenditures. Mr. He can also succeed either by establishing, on a balance of probabilities, new facts, not considered by the Minister, showing that the unreported income was not taxable (for example, by proving he had received various gifts and loans), or by demonstrating that the Minister’s assumptions of fact are wrong. For example, Mr. He can present evidence supporting he owned additional assets and incurred more liabilities.
+[37] It is possible that Mr. He’s burden will not be met if the Respondent successfully challenges the evidence adduced at the hearing, if the evidence is contradictory or if the Court draws a negative inference from Mr. He’s failure to produce evidence or to call witnesses to establish a central facts relied upon by him.
+[38] Thus, Mr. He’s credibility and the sufficiency of his evidence will be determinative (Landry v. The Queen, 2009 TCC 399, at paragraph 47; Roy v. The Queen, 2006 TCC 226). This Court, however, may also consider the overall reasonableness of the reassessments in its determination of whether to allow the appeal.
+[39] Courts have recognized that a net worth assessment is an arbitrary and imprecise approximation of a taxpayer’s income. However, the Federal Court of Appeal noted the following in Hsu v. The Queen, 2001 FCA 240, at para. 30:
+Any perceived unfairness relating to this type of assessment is resolved by recognizing that the taxpayer is in the best position to know his or her own taxable income. Where the factual basis of the Minister’s estimation is inaccurate, it should be a simple matter for the taxpayer to correct the Minister’s error to the satisfaction of the Court.
+[40] For the following reasons, which I will elaborate upon later herein, I find that the Minister has established, on a balance of probabilities, facts justifying the reassessments made beyond the normal reassessment period for the 2009 to 2012 taxation years and facts justifying the assessment of penalties under subsection 163(2). I find that Mr. He had earned unreported income that he failed to report. Further, I also find that Mr. He did not provide credible explanations for the discrepancy between his reported income and his net worth. Some parts of Mr. He’s testimony were credible, and, as such, I find that some adjustments must be made to the Minister’s calculations under the net worth assessment. However, I also find that other parts of Mr. He’s testimony were not credible and, as such, I did not accept all the adjustments raised by the Appellant.
+B. Credibility of Mr. He, reassessment beyond the normal reassessment period and penalties
+(1) Credibility of Mr. He
+[41] When assessing the credibility of a witness, I can consider inconsistencies, the attitude and demeanour of the witness, motives the witness may have to fabricate evidence, and the “overall sense of the evidence”. As stated by Justice Valerie Miller in Nichols v. The Queen, 2009 TCC 334:
+[23] In assessing credibility I can consider inconsistencies or weaknesses in the evidence of witnesses, including internal inconsistencies (that is, whether the testimony changed while on the stand or from that given at discovery), prior inconsistent statements, and external inconsistencies (that is, whether the evidence of the witness is inconsistent with independent evidence which has been accepted by me). Second, I can assess the attitude and demeanour of the witness. Third, I can assess whether the witness has a motive to fabricate evidence or to mislead the court. Finally, I can consider the overall sense of the evidence. That is, when common sense is applied to the testimony, does it suggest that the evidence is impossible or highly improbable.
+[42] In assessing the evidence adduced at trial, I can accept all, some or reject all of a witness testimony and I can also accept part of a witness evidence and reject other parts (see Ha v. The Queen, 2011 TCC 271, at para. 21).
+[43] According to the Respondent, Mr. He lacks credibility. Mr. He had motive to mislead the Court, as he does not want to pay the taxes at issue. Mr. He alleges that the income as reported was correct, but his explanations as to how he sustains his family of four in Toronto is based on large gifts received from his father-in-law, and loans received from friends and family members, but no documentary evidence was adduced in that respect. Further, there were inconsistencies and weaknesses in his testimony.
+[44] I agree with the Respondent. For the following reasons, I find that Mr. He’s testimony regarding the alleged large gifts received from his father-in-law was not credible, and I totally reject that part of Mr. He’s testimony. Among other things, there was no corroboration and no supporting documentation produced at trial; further, there were inconsistencies between his testimony at trial and his answers on discovery; and finally, the issues of the gifts from Mr. He’s father-in-law were not raised at audit, or at the objection level, but only at trial.
+[45] According to Mr. He, he received approximately $30,000 as a gift from his father-in-law every year, and his spouse also received gifts from her father every year.
+[46] More particularly, Mr. He testified that he had received the following gifts from his father-in-law:
+-in 2009: $30,000, but according to Mr. He’s undertakings, he received $22,280 (see Exhibit R-4, Respondent’s Read-Ins, p. 13);
+-in 2010: $100,000 (according to Mr. He’s undertakings – Exhibit R‑4, Respondent’s Read-Ins, p. 15);
+-in 2011: Mr. He did not remember the exact amount received (according to Mr. He’s undertakings, he would have received $47,536 – Exhibit R‑4, Respondent’s Read-Ins, p. 15); and
+-in 2012: $68,000 (according to Mr. He’s undertakings – Exhibit R-4, Respondent’s Read-Ins, p. 17).
+[47] Mr. He testified that it was his spouse who received the funds purported to be gifts from his father-in-law and deposited these amounts in one of their bank accounts. However, at the hearing, Mr. He was not able to show in which bank accounts these funds were deposited. Furthermore, Mr. He testified that the funds were not sent directly to his spouse by his father-in-law, who lives in China, because of transfer difficulties between China and Canada. He testified that some friends of his spouse’s sister who live in Canada transferred the funds to his spouse. Then, his father-in-law reimbursed the families of these friends in China. Mr. He did not remember the names of any of these friends. Mr. He testified that gifts from his father-in-law were always delivered to him and his spouse in the same manner.
+[48] Mr. He testified that no formal documentation was prepared as these were transfers between family members.
+[49] At the hearing, the Respondent asked the Court to draw an adverse inference from the failure to call Mr. He’s spouse to testify, because her testimony would have been central to establishing that gifts were received from Mr. He’s father-in-law over the years.
+[50] As stated by the Federal Court of Appeal in Imperial Pacific Greenhouses Ltd. v. The Queen, 2011 FCA 79 [Imperial Pacific] (at para. 14), a Tax Court judge can draw an adverse inference from a party’s failure to call a witness, especially if the witness’s evidence would have been central to establishing an important fact.
+[51] In the case at bar, the testimony of Mr. He’s spouse was central to establishing the existence of these large gifts from Mr. He’s father-in-law, and particularly, in showing how funds were transferred from her father (indirectly through her sister’s friends) to their bank accounts. I did not receive any explanation justifying Mr. He’s spouse’s absence at trial. I find that I should draw an adverse inference from Mr. He’s failure to call his spouse at the hearing, and I find that her testimony would have been unfavourable to Mr. He.
+[52] For all these reasons, no adjustments shall be made to the net worth calculations in respect of those alleged gifts from Mr. He’s father-in-law.
+[53] Furthermore, I have significant concerns about Mr. He’s testimony regarding various funds allegedly received as loans from friends and family. As indicated below, I accept that he had received some funds during the 2009 to 2012 taxation years as loans, but not to the extent that would justify the discrepancy between his reported income and his net worth.
+[54] At audit and the CRA’s appeal, Mr. He did not raise the fact that he had received specific funds as loans from friends and family. It was only on discovery and at trial that Mr. He raised these alleged specific loans from friends and family.
+[55] At audit and the CRA’s appeal, Mr. He maintained that he participated in a traditional Chinese loan arrangement called “Fujian Arrangement” (Exhibit R-1, Respondent’s Book of Documents, Tab 20 - Letter from Mr. He’s agent dated May 15, 2015, and addressed to the CRA auditor) and that would justify in part the discrepancy between his reported income and his net worth.
+[56] However, Mr. He did not participate in a traditional Chinese lending program during the 2009 to 2012 period (Exhibit RA-1, Partial Agreed Statement of Facts, para. 127).
+[57] At trial, Mr. He testified that the reference to the Fujian Arrangement by his representative at the time of audit was just given as an example. Mr. He testified that he was not participating in such an arrangement during the 2009 to 2012 taxation years. However, the letter from Mr. He’s representative clearly states that “Mr. He participated in a number of these mutual lending groups”, referring to the Fujian Arrangement (see Exhibit R-1, Respondent’s Book of Documents, Tab 20, p. 180) to justify the discrepancy between his reported income and his net worth.
+[58] Again, I have significant concerns about Mr. He’s evidence regarding the various funds he had received as loans, given the above-described inconsistencies and the justification changing at trial from what was advanced at audit and at CRA appeal.
+[59] For these reasons, only particular loans, as alleged by Mr. He, that were sufficiently supported through corroborating testimony at trial will be accepted to reduce Mr. He’s unreported income as determined by the net worth assessment. These acceptable loans will be enumerated below. However, the acceptance of these particular loans do not justify the discrepancy between Mr. He’s reported income and his net worth.
+(2) Reassessment beyond the normal reassessment period
+[60] The relevant portion of subparagraph 152(4)(a)(i) reads as follows:
+152(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer . . . , except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return . . . .
+[61] As indicated above, the Minister has the onus to establish, on a balance of probabilities, the facts required to justify reassessing after the expiration of the normal reassessment period. The Minister must show to the Court, on a balance of probabilities, that Mr. He made a misrepresentation in filing his returns and that this misrepresentation was attributable to neglect, carelessness or wilful default. The Respondent did not raise fraud in this appeal.
+[62] In order to make a determination under subparagraph 152(4)(a)(i), the Court must assess all of the evidence admitted during the hearing (see Vine Estate v. Canada, 2015 FCA 125, at paras. 24–25).
+[63] The Appellant argues that if the Court is satisfied that Mr. He earned unreported income and did not give a credible explanation for the discrepancy between his reported income and his net worth, then the Minister has met his burden under subparagraph 152(4)(a)(i) (see Lacroix, at para. 32).
+[64] For the following reasons, I find that the Minister has discharged his burden to reassess Mr. He beyond the normal reassessment period for the 2009 to 2012 taxation years (see Lacroix, at para. 32). I find that all requirements in subparagraph 152(4)(a)(i) are met in the case at bar.
+[65] Firstly, Mr. He made a misrepresentation in filing his returns for 2009 to 2012. The case law holds that an incorrect statement in an income tax return amounts to a misrepresentation (Nesbitt v. The Queen, 96 D.T.C. 6045, [1996] F.C.J. No. 19 (F.C.T.D.) (QL); D’Andrea v. The Queen, 2011 TCC 298, at para. 35).
+[66] Because I do not accept Mr. He’s testimony on the alleged large gifts received from his father-in-law and on various alleged funds received as loans from friends and family (other than some loans as will be discussed below), and as I am drawing an adverse inference from the failure to call Mr. He’s spouse to testify, I conclude that, on a balance of probabilities, Mr. He must have earned income he had not reported in filing his returns and hence made a misrepresentation in filing his returns.
+[67] I also conclude, on a balance of probabilities, that Mr. He would not have had sufficient revenue to support a family of four living in Toronto during the 2009 to 2012 taxation years. This conclusion reinforces my finding that Mr. He must have earned income he had not reported, which would explain the discrepancy between his reported income and his net worth.
+[68] At first, in making his arguments, the Respondent referred only to Mr. He’s reported net income for income tax purposes. However, at trial, I asked the Respondent to redo his calculations, as Mr. He would have had funds available to him from the sale of properties and from the renting of properties. Furthermore, I asked the Respondent to consider in his calculations other amounts received by Mr. He and his spouse during that time (for example, the amount received under the Canada Child Benefit). On that revised basis, considering capital contributions made to Seasons during those years, as well as expenses incurred on mortgages (capital and interests), tuition fees and rental expenses, Mr. He would have had very little to nominal revenue to sustain his family needs during the 2009 to 2012 taxation years.
+[69] Secondly, I have to determine whether that misrepresentation was attributable to neglect, carelessness or wilful default. For the following reasons, I find that the misrepresentation was attributable to wilful default.
+[70] According to the Appellant, when Mr. He reviewed his tax returns, he made sure to report all taxable income earned. Discrepancies in his net worth came from the borrowing of funds, gifts he received and proceeds from the sale of properties. The Appellant also took the position that Mr. He could not have wilfully made a misrepresentation when filing his returns, as he was a new immigrant to Canada at the time, having been in Canada for only five years in 2009. Furthermore, Mr. He did not speak the language and still needed interpretation at the hearing of this appeal. In addition, as Mr. He had carefully reviewed his tax returns, he could not be found to have been careless or neglectful.
+[71] According to the Respondent, the evidence showed that Mr. He had made a misrepresentation attributable to wilful default, or at the very least, he had made misrepresentation attributable to neglect or carelessness. Mr. He testified that he was aware of his obligations to accurately report his income under the Act. When asked the question, he testified that because of the language barrier, he simply signed his tax returns without reviewing them. However, when pressed, he testified that he had his accountant review the content of his tax returns and explain the numbers. According to the Respondent, these two answers cannot co-exist. Hence, that showed Mr. He was aware of the importance of accurately reporting income under the Act. Further, that conflicting testimony also undermines Mr. He’s credibility.
+[72] I agree with the Respondent that the evidence showed that Mr. He had made a misrepresentation attributable to wilful default. Because Mr. He must have known he had unreported income and chose not to report it, he knew he was making a false statement in filing his income tax returns, and that was intentional.
+[73] Further, even if I were to accept all the Appellant’s requested adjustments to the net worth calculations (which for the reasons below I do not), Mr. He would still have earned substantial unreported income totalling approximately $999,000 in the 2009 to 2012 taxation years.
+(3) Penalties
+[74] Subsection 163(2) provides that “[e]very person who, knowingly, or under circumstances amounting to gross negligence, has made . . . a false statement or omission in a return” is liable to a penalty.
+[75] The burden of establishing the facts justifying the assessment of the penalty is on the Minister, under subsection 163(3).
+[76] The penalties assessed under subsection 163(2) of the Act must be imposed only where the evidence clearly justifies it. If the evidence leaves any doubt that the penalties should be applied in the circumstances of the appeal, then the only fair conclusion is that the taxpayer must receive the benefit of the doubt in those circumstances (see Farm Business Consultants Inc. v. The Queen, [1994] 2 C.T.C. 2450, 95 D.T.C. 200, at para. 27).
+[77] According to the very wording of subsection 163(2) of the Act, two elements are required for a penalty to apply: (1) a mental element (“knowingly, or under circumstances amounting to gross negligence”) and (2) a material element (“has made . . . a false statement or omission in a return”).
+[78] Regarding the material element, as indicated above, the case law holds that an incorrect statement in an income tax return amounts to a misrepresentation. Here, it was established that Mr. He filed his income tax returns for the 2009 to 2012 taxation years. Furthermore, it was established, on a balance of probabilities, that Mr. He did not report all of his income for all taxation years. Thus, the material element exists in the case at bar.
+[79] Regarding the mental element, two possible scenarios have to be examined for penalties to apply: did Mr. He knowingly make a false statement or omission, or did he make a false statement under circumstances amounting to gross negligence?
+[80] Here, as indicated above, I found that Mr. He had made a false statement in his returns by not reporting all of his income. Furthermore, I was not satisfied with his explanations justifying the discrepancy in his reported income and his net worth, as I found that some parts of his testimony were not credible.
+[81] Hence, Mr. He must have known he had a source of income he did not report and therefore knowingly filed incorrect returns.
+[82] As indicated by the Federal Court of Appeal in Deyab v. The Queen, 2020 FCA 222 (at para. 69, referring to Lacroix), the failure to provide a credible explanation is sufficient to justify the assessment of the penalty under subsection 163(2) of the Act.
+[83] Here, it is not appropriate to give the benefit of the doubt to Mr. He, as I did find that his explanations on the various gifts and loans, which would allegedly justify the discrepancy in his income and his net worth, were not credible. Having assessed all the evidence submitted at trial, I find that large amounts of income remain unexplained.
+[84] For the foregoing reasons, the penalties, as adjusted to take into account adjustments to the net worth calculations and the Respondent’s concessions, shall be upheld.
+C. Adjustments to the net worth calculations
+[85] I will now turn to the adjustments the Appellant argued should be made to the net worth calculations.
+(1) Additional Assets (Schedule I – Balance Sheet – Asset) and corresponding adjustments
+[86] Mr. He testified that two properties were missing from the list established by the CRA during audit, namely, a small store located in Chinatown he was planning to open in 2005, called the “Splendid China Square Property” and a warehouse located at 20 Rolark Drive, in Toronto, Ontario (the “Warehouse”), purchased in 2012.
+[87] Furthermore, according to the Appellant, a deposit made by Mr. He for the purchase of a property located at 9 Fulham Street (the “Fulham Property”) should be taken into account, and various adjustments should be made to the value of the shareholders’ loan account of Seasons.
+· Investment of $46,275 in the Splendid China Square Property
+[88] In 2005, Mr. He made a deposit totalling $46,275 to buy a commercial condominium in a development called Splendid China Square (see Exhibit A-1, Appellant’s Book of Documents, Tab 10, p. 262). Because the building was never built, the builder refunded the amount of the deposit to Mr. He and paid interest on deposit totalling $3,123.31 (see Exhibit A-1, Appellant’s Book of Documents, Tab 10, pp. 260 and 261 for a copy of two cheques dated August 22, 2011: one for $46,275 and one for $3,123.31, totalling $49,398.31). These amounts were deposited in Mr. He’s RBC bank account (#5699) in 2011 (Exhibit R-1, Respondent’s Book of Documents, Tab 50, p. 615). In August 2011, Mr. He and the builder entered into an agreement entitled “Mutual Release and Termination Agreement” (see Exhibit A‑1, Appellant’s Book of Documents, Tab 10, p. 258).
+[89] According to the Appellant, the deposit on Splendid China Square Property should be added, as an asset of $46,275, to Schedule I (Balance Sheet – Assets) in 2008, 2009 and 2010. Furthermore, an amount of $46,275 should be added to the deductions listed on Schedule III (Calculation of Discrepancy in Total Income per Net Worth) for 2011.
+[90] I agree with the Appellant that the above adjustments to the net worth calculations in respect of the Splendid China Square Property shall be made.
+· The Warehouse
+[91] Mr. He testified that the Warehouse was bought in 2012, with two partners (Mr. Guo Lin He and Mr. Kai Chen), each contributing 33% of the purchase price. Mr. He testified that the purchase was made through a corporation.
+[92] Mr. He further testified that he financed his contribution by borrowing money from Mr. Guo Lin He, roughly $100,000, but he did not remember specifics of the loan, such as how the funds were transferred, and there was no documentation associated with this loan. The Appellant produced Exhibit A-2, a money order of $101,919 from Mr. He to Kai Wing Tsang in trust, who was the lawyer who handle the purchase of the Warehouse.
+[93] According to the Appellant, as the loan from Mr. Guo Lin He to Mr. He for the purchase of the Warehouse was made in 2012, and the purchase of the Warehouse was also concluded in 2012, these transactions would have a neutral effect on the net worth calculations, and no adjustments will have to be made to the net worth calculations.
+[94] Accordingly, there will be no adjustments to the net worth calculations in respect of the Warehouse and the loan from Mr. Guo Lin He.
+· Deposit of $20,000 for the purchase of the “Fulham Property”
+[95] The Appellant produced a Purchase & Sale Agreement dated November 28, 2010, between Mr. He as purchaser and Adam Bholat as vendor in respect of the purchase of the Fulham Property (see Exhibit A-1, Appellant’s Book of Documents, Tab 24, p. 279). By virtue of this agreement, Mr. He agreed to make a deposit totalling $20,000 by cheque made to “Michal Hasek Real Estate Ltd. Brokerage” in anticipation of the purchase of the Fulham Property. The statement of adjustments also refers to a deposit of $20,000 (see Exhibit A-1, Appellant’s Book of Documents, Tab 24, p. 280).
+[96] The withdrawal analysis of the Royal Bank of Canada account (#5699) shows that two cheques went through the account on December 1, 2010 (Exhibit R-1, Respondent’s Book of Documents, Tab 15, p. 108). Mr. Battiste testified that this amount was included in the personal expenditures calculations.
+[97] According to the Appellant, the deposit on the Fulham Property should be added as an asset of $20,000 to Schedule I (Balance Sheet – Assets) in 2010. Furthermore, the personal expenditures in Schedule IV (Summary of Personal Expenditures) should be reduced by an amount of $20,000, with corresponding adjustments in Schedule III (Calculation of Discrepancy in Total Income per Net Worth) for the same year.
+[98] I agree with the Appellant that the above adjustments to the net worth calculations shall be made.
+· Shareholders’ Loan Account in Seasons
+[99] Schedule I (Balance Sheet – Assets) includes an asset consisting of the balance of the shareholders’ loan account in Seasons at the end of a given year, in the following amounts for the years 2009 to 2012 respectively: $74,975; $958,573; $943,426 and $1,096,456.
+[100] The evidence showed that the shareholders’ loan account balance in Seasons was in the following amounts for the 2009 to 2012 taxation years respectively: $299,900; $3,834,290; $3,813,705 and $4,385,822 (see Exhibit R-1, Respondent’s Book of Documents, Tabs 26, 27, 30, 31, and 32).
+[101] Mr. He testified that around 2009, Mr. Shang Hui Zeng, Mr. Guo Lin He, Mr. Xun Gen Zheng and himself constituted Seasons in order to complete the purchase of an old market in Brampton and carry on the business of a new supermarket. Mr. He testified that he got involved in Seasons after his cousin, Mr. Guo Lin He, asked him to join in the venture. Mr. Guo Lin He had experience in that field and had immigrated to Canada before Mr. He. The supermarket opened on June 18, 2010.
+[102] According to Mr. He, the partners had estimated that they needed $4M to buy the former market, to renovate the building where the new supermarket would be located and to start operating the business, each partner being responsible for investing $1M in the capital of Seasons. The evidence is silent as to when the investment had to be made.
+[103] The evidence showed that Mr. He owns shares in Seasons, in the following proportion: 25% in 2009, 20% in 2010 and 2011 and 32% in 2012 (Exhibit RA‑1, Partial Agreed Statement of Facts, Paras. 81 to 84).
+[104] Mr. He testified that although he had legal title to 25% of the shares, he owned a beneficial interest of only 8% and had invested approximately $320,000 in the capital of Seasons over the years. According to Mr. He, the balance of capital needed in Seasons was provided by his family (12% together by his spouse’s sister and his brother and sister) as well as by an investor (5% by Mr. Zeng Min Fei).
+[105] As indicated by Mr. He, Mr. Guo Lin He also testified that each shareholder was responsible for contributing $1M to the capital of Seasons. According to Mr. Guo Lin He, the partners had to borrow from relatives and friends to assist with the financing. Mr. Xun Gen Zheng, one of Seasons’ shareholders, was the person responsible for tracking the amounts contributed by each shareholder. In 2011, another person became a shareholder of Seasons, namely, Mr. Minfei Zheng.
+[106] As mentioned above, on appeal, Mr. Battiste concluded that it was reasonable to attribute only 25% of the balance of the shareholders’ loan account to Mr. He and not the totality of it, as Mr. He owned 25% of the shares of Seasons. Consequently, Mr. Battiste reduced the value of that asset accordingly in the net worth calculations.
+[107] However, according to the Appellant, the shareholders’ loan account balance attributable to Mr. He should be the aggregate of the funds actually transferred by Mr. He over the years to Seasons’ bank account, and no more, as the net worth is a calculation of Mr. He’s net worth. The ownership of shares in Seasons is not relevant, and only contributions of capital made by Mr. He over the years are relevant.
+[108] As argued by the Appellant, and conceded by the Respondent, I find that for the purposes of the net worth calculations, the percentage of shares owned by Mr. He is not a relevant factor, as the relevant amount to be included as an asset under the shareholders’ loan account in Seasons is the aggregate contributions of capital made by Mr. He to the capital of Seasons.
+[109] For that purpose, the Appellant asks the Court to count only the following transfers from Mr. He’s accounts to Seasons’ bank accounts as found by the CRA during audit. At audit, the CRA found that Mr. He had transferred funds totalling $360,050 from his bank accounts to Seasons’ bank account during the 2009 to 2012 taxation years (see Exhibit A-1, Appellant’s Book of Documents, Tab 26), as follows:
+-in 2009: two transfers totalling $65,000 from his TD bank account (#0532);
+-in 2010: various transfers totalling $255,050 from his TD bank account (#0677), RBC bank account (#5699) and CIBC bank account (#6531);
+-in 2012: one transfer for $40,000 from his RBC bank account (#5699).
+[110] The CRA could not trace any transfers made by Mr. He to Seasons’ bank account in 2011.
+[111] However, Mr. He never provided copies of any records or ledgers detailing the shareholders’ loan account in Seasons, although requested by the CRA, including Mr. Battiste.
+[112] Then, at trial, Mr. He did not provide any documentary evidence for the calculation of the shareholders’ loan account. Furthermore, according to Mr. Guo Lin He’s testimony, Mr. He never requested a copy of the shareholders’ loan account ledger. In addition, Mr. Xun Gen Zheng, the shareholder responsible for keeping track of funds invested by Seasons’ shareholders, did not testify at the hearing.
+[113] I find that Mr. He should have been able to provide the Court with documentary evidence to support his position. I find that Mr. He should have produced documentary evidence showing the capital contributions he had made over the years to the capital of Seasons. I cannot conclude that the CRA, in the course of the audit, was able to determine all capital contributions made by Mr. He to the capital of Seasons, given that Mr. He never provided any documents to the CRA in the course of the audit in respect of his capital contributions.
+[114] Also, Mr. He should have called Mr. Xun Gen Zheng to testify. I agree with the Respondent that I should draw a negative inference from the failure by Mr. He to call Mr. Zheng to testify at the hearing (see Imperial Pacific, supra, at para. 14). I find that Mr. Zheng’s testimony would not have been favourable to Mr. He’s position.
+[115] Given the lack of credible and reliable evidence adduced at the hearing and the negative inference drawn from the failure to call Mr. Zheng to testify, I find that no adjustment shall be made to the net worth calculations in respect of the shareholders’ loan account in Seasons.
+(2) Additional liabilities (Schedule II – Balance Sheet – Liabilities) and corresponding adjustments
+[116] Mr. He claimed that he had received funds as loans from various persons. At trial, Mr. He was unable to provide any loan documentation, as he testified personal loans were never documented because they were transactions with friends and family. However, for some of the alleged loans, Mr. He was able to produce evidence in the form of cheques or other documents. Furthermore, witnesses testified in respect of some of the loans. In those circumstances, where the provided evidence was credible and reliable, I did find that adjustments had to be made to the net worth calculations to take into account these operations.
+· Loan from Banxin Chen
+[117] Mr. He testified that in 2009, he received an amount of $28,000 from a friend, Mr. Banxin Chen, in order to help him make capital contributions to Seasons.
+[118] Mr. He produced in evidence a cheque made out to him by Ocean Linksys Inc., a corporation owned by Mr. Chen, for $28,000 (Exhibit A-1, Appellant’s Book of Documents, Tab 11). Mr. He testified that his father-in-law reimbursed Mr. Chen’s father in China.
+[119] Mr. He was unable to provide any loan documentation. Further, Mr. He was not able to say in which bank account those funds were deposited, but the evidence showed that these funds were deposited in Mr. He’s bank account at RBC (#5699) (see Exhibit R-1, Respondent’s Book of Documents, Tab 50, p. 610).
+[120] According to the Appellant, Ocean Linksys Inc. had no reason to write Mr. He a cheque, other than to make a loan to him. Further, according to the Appellant, in 2009, it would have been reasonable for Mr. He to reach out to friends and family in order to capitalize Seasons. For these reasons, according to the Appellant, an amount of $28,000 should be added as a liability on Schedule II (Balance Sheet – Liabilities) for 2009 to 2012.
+[121] The Appellant did not satisfy me, on a balance of probabilities, that the amount of $28,000 should be added as a liability for 2009 to 2012. The evidence is not clear as to when or if the amount of $28,000 was ever repaid. Mr. He testified that his father-in-law reimbursed Mr. Chen’s father in China, without providing any details in that respect. Further, Mr. He did not refer to that loan in his answers to undertakings (Exhibit R-4, Respondent’s Read Ins, page 13). Given the lack of evidence adduced at the hearing, I find that Mr. He did not meet his burden to show that his position should prevail. I therefore find that no adjustment shall be made to the net worth calculations in that respect.
+· Loan from Xue Yu Chen
+[122] Mr. He testified that he had borrowed $80,000 from Mr. Chen in 2008 or before. According to Mr. He, these funds were deposited in one of his bank accounts, but he could not say in which account.
+[123] Mr. He adduced into evidence two cheques he wrote to Mr. Chen: one cheque dated August 5, 2010, for $20,000 (Exhibit A-1, Appellant’s Book of Documents, Tab 12, p. 265) and one cheque dated May 2, 2011, for $60,000 (Exhibit A-1, Appellant’s Book of Documents, Tab 13, p. 266). Mr. He testified that these cheques were issued in repayment of the loan.
+[124] Mr. Battiste testified that the amounts of $60,000 and $20,000 were added to the personal expenditures calculation on Schedule IV (Summary of Personal Expenditures) in 2011 and 2010, respectively (Exhibit R-1, Respondent’s Book of Documents, Tab 16, p. 133 and Tab 15, p. 108).
+[125] According to the Appellant, a liability of $80,000 should be added to Schedule II (Balance Sheet – Liabilities) in 2008 and 2009. As partial repayment was made in 2010, the liability on Schedule II (Balance Sheet – Liabilities) should be in the amount of $60,000 instead of $80,000 in 2010. In addition, the personal expenditures on Schedule IV (Summary of Personal Expenditures) and the corresponding additions to Schedule III (Calculation of Discrepancy in Total Income per Net Worth) should be reduced by an amount of $20,000 in 2010.
+[126] Furthermore, according to the Appellant, as the final repayment of the loan was made in 2011, no amount should appear as a liability on Schedule II (Balance Sheet – Liabilities) in respect of that loan in 2011. In addition, the personal expenditures on Schedule IV (Summary of Personal Expenditures) and the corresponding additions to Schedule III (Calculation of Discrepancy in Total Income per Net Worth) should be reduced by an amount of $60,000 in 2011.
+[127] Since credible documentary evidence was adduced at trial to establish the existence of a loan and the repayment of it, I find that the Appellant’s position must prevail, and therefore, the above-mentioned adjustments requested by the Appellant shall be made to the net worth calculations.
+· Loan from Lan Lin
+[128] Mr. He testified that he had received a loan for $10,000 from Mr. Lan Lin, a friend of his spouse, in 2010. However, at trial, Mr. He was unable to provide any particulars in respect of that loan. No loan documentation was produced at the hearing. According to Mr. He, that amount was deposited in a bank account, but Mr. He was not able to indicate in which bank account the sum was deposited.
+[129] Mr. He testified that on May 5, 2011, he issued a cheque to Mr. Lin in the amount of $10,000 (see a copy of the cheque in Exhibit A-1, Appellant’s Book of Documents, Tab 14, p. 267) in repayment of the loan.
+[130] Mr. Battiste testified that this amount was added to the calculation of personal expenditures on Schedule IV (Summary of Personal Expenditures) in 2011 (Exhibit R-1, Respondent’s Book of Documents, Tab 16, p. 133).
+[131] According to the Appellant, a liability of $10,000 should be added to Schedule II (Balance Sheet – Liabilities) in 2010. In 2011, as the final repayment of the loan was made, no amount should appear as a liability on Schedule II (Balance Sheet – Liabilities) in respect of that loan. In addition, the personal expenditures on Schedule IV (Summary of Personal Expenditures) and the corresponding additions to Schedule III (Calculation of Discrepancy in Total Income per Net Worth) should be reduced by an amount of $10,000 in 2011.
+[132] I find that as that alleged loan was linked to Mr. He’s spouse, Mr. He should have called his spouse to testify. Because of Mr. He’s failure to call his spouse to testify, I find that her testimony would have been unfavourable to Mr. He’s position (see Imperial Pacific, supra, at para. 14). I also find that Mr. He’s testimony was not persuasive. For these reasons, I find that no adjustment shall be made to the net worth calculations in that respect.
+· Loan from Guo Lin He (in 2010)
+[133] Both Mr. Guo Lin He and Mr. He testified that Mr. Guo Lin He lent Mr. He a sum of $12,000 around 2009 or 2010. No loan documentation was provided at the hearing. Similar to Mr. He’s testimony, Mr. Guo Lin He testified that since this loan was between family members, they did not prepare any loan documentation, and the money was loaned without interest.
+[134] Mr. He was unable to provide any particulars relating to the original loan, such as when exactly or how it was made.
+[135] A copy of a cheque for $12,000 dated March 7, 2011, issued by Mr. He to his cousin, Mr. Guo Lin He, was adduced at the hearing (Exhibit A-1, Appellant’s Book of Documents, Tab 15, p. 268). Mr. He testified that the cheque was issued to repay the loan.
+[136] According to the Appellant, a liability for $12,000 should be added to Schedule II (Balance Sheet – Liabilities) in 2010. In 2011, as the final repayment of the loan was made, no amount should appear as a liability on Schedule II (Balance Sheet – Liabilities) in respect of that loan. Furthermore, the personal expenditures in Schedule IV (Summary of Personal Expenditures) should be reduced by an amount of $12,000 in 2011, with corresponding adjustments to Schedule III (Calculation of Discrepancy in Total Income per Net Worth).
+[137] Since Mr. He’s testimony was largely corroborated by his cousin’s testimony, I find that the Appellant’s position must prevail, and therefore, the above-mentioned adjustments requested by the Appellant shall be made to the net worth calculations.
+· Loans from Biao Yang (or Bill Yang)
+[138] Mr. He testified that in 2011, he had received an amount of $15,300 as a loan from a friend, Mr. Yang, who is a real estate agent (Exhibit A-1, Appellant’s Book of Documents, Tab 17, p. 270: cheque dated February 25, 2011). In that same year, the evidence showed that Mr. He made a cheque to Mr. Yang for $10,000 (Exhibit A-3, cheque dated June 28, 2011). Mr. He testified that the cheque was issued in partial repayment of the loan.
+[139] At the hearing, the Respondent agreed that the amount of $10,000 was added to the personal expenditures calculation. Mr. Battiste testified it was so included in 2011 (Exhibit R-1, Respondent’s Book of Documents, Tab 16, p. 134).
+[140] According to the Appellant, in 2011 and 2012, the net result would be to add in Schedule II (Balance Sheet – Liabilities) a liability in the net amount of $5,300 and to reduce the personal expenditures in Schedule IV (Summary of Personal Expenditures) in the amount of $10,000, with corresponding adjustments in Schedule III (Calculation of Discrepancy in Total Income per Net Worth) for 2011.
+[141] Furthermore, Mr. He testified that in 2012, he had received an amount of $20,000 as an additional loan from Mr. Yang (Exhibit A-1, Appellant’s Book of Documents, Tab 18, p. 271: cheque dated February 28, 2012). In that same year, Mr. He made a cheque to Mr. Yang for the same amount (Exhibit A-1, Appellant’s Book of Documents, Tab 17, p.272: cheque dated May 23, 2012).
+[142] Mr. Battiste testified that the amount of $20,000 was added to the personal expenditures calculation for 2012 (Exhibit R-1, Respondent’s Book of Documents, Tab 17, p. 158).
+[143] According to the Appellant, no amount should be added to the liability section in Schedule II (Balance Sheet – Liabilities) for 2012, as the loan and the repayment were made within the same year. However, the personal expenditures in Schedule IV (Summary of Personal Expenditures) should be reduced by an amount of $20,000, with corresponding adjustments in Schedule III (Calculation of Discrepancy in Total Income per Net Worth).
+[144] I agree with the Appellant’s position. Since credible documentary evidence was adduced at trial to establish the existence of the loans and the repayment of the loans, I find that the Appellant’s position must prevail, and therefore, the above-mentioned adjustments requested by the Appellant shall be made to the net worth calculations.
+(3) Additional adjustments to the calculation of personal expenditures (Schedule IV)
+· Transfer to Fei Chen totalling $35,000
+[145] The evidence showed that Mr. He wrote two cheques to Mr. Chen, his nephew, in 2011:
+-a cheque dated January 10, 2011, for $18,000 (Exhibit A-1, Appellant’s Book of Documents, Tab 20, p. 274); and
+-a cheque dated January 10, 2011, for $17,000 (Exhibit R-1, Respondent’s Book of Documents, Tab 53, p. 995).
+[146] Mr. Battiste testified that these amounts were included in the calculation of personal expenditures for 2011 (Exhibit R-1, Respondent’s Book of Documents, Tab 16, pp. 129 and 133) in Schedule IV (Summary of Personal Expenditures).
+[147] Mr. He testified that he issued those two cheques totalling $35,000 to his nephew to assist him in purchasing a house. According to the Appellant, Mr. He acted as a conduit as Mr. Chen’s family in China reimbursed his father-in-law in China.
+[148] Mr. Chen testified that his parents, who lived in China, arranged everything with his uncle, so Mr. He would transfer money to Mr. Chen to assist him in purchasing a house. Mr. Chen testified that his parents transferred funds to a person in China; in return, someone in Canada gave money to Mr. He so Mr. He would transfer funds to him. It was faster to proceed this way, and fees were less than if money was transferred directly from China.
+[149] According to the Appellant, the personal expenditures in Schedule IV –(Summary of Personal Expenditures) should be reduced by an amount of $35,000, with corresponding adjustments in Schedule III (Calculation of Discrepancy in Total Income per Net Worth) in 2011.
+[150] Although the testimony of both Mr. He and Mr. Chen was unclear, given the documentary evidence adduced at the hearing, I find that the Appellant’s position must prevail, and therefore, the above-mentioned adjustments requested by the Appellant shall be made to the net worth calculations.
+· Money order for $153,000 to Hui Ming Shi
+[151] Mr. He testified that he ordered his bank to issue a bank draft for $153,000 to Mr. Shi, his brother-in-law, in July 2009 (see the bank draft under Exhibit A‑1, Appellant’s Book of Documents, Tab 23). The bank draft was endorsed by Mr. Shi and is stamped July 15, 2009. Mr. He testified that this amount was likely a loan repayment. However, Mr. He testified that he was not able to provide any specific information and was uncertain of the nature of this amount, stating that his spouse may have been responsible for this amount.
+[152] However, at discovery, Mr. He stated that his father-in-law had him transfer that amount to his son in order to equalize money he had previously given to both his son and daughter (Answer to undertaking 8(b), Exhibit R-4, Respondent’s Reads-In, p. 92).
+[153] At the hearing, Mr. Shi testified that the amount represented a loan from his brother-in-law to assist him in the purchase of a house. There were no repayment terms, nor was any loan documentation prepared in that respect. According to Mr. Shi’s testimony, his father would take care of repaying that amount to Mr. He on his behalf. Mr. Shi never followed up with his father as to whether that amount had been reimbursed to Mr. He.
+[154] Further, Mr. Shi testified that there were no business dealings between him and his uncle.
+[155] The amount of the bank draft for $153,000 was considered a cash withdrawal by the CRA auditor and was included in the calculation of the personal expenditures for 2009 (Exhibit R-1, Respondent’s Book of Documents, Tab 50, p. 609) in Schedule IV (Summary of Personal Expenditures).
+[156] According to the Appellant, the amount of $153,000 should not be included in the calculation of the personal expenditures as either Mr. He was acting as a conduit to bring money from his father-in-law into Canada or that amount represents the repayment of a loan. In both cases, the personal expenditures in Schedule IV (Summary of Personal Expenditures) should be reduced by an amount of $153,000, with corresponding adjustments to Schedule III (Calculation of Discrepancy in Total Income per Net Worth) in 2009.
+[157] For the following reasons, no adjustments will be made to the net worth calculations in respect of the bank draft. Mr. Shi and Mr. He gave conflicting testimonies on the nature of this transfer. Furthermore, Mr. He gave inconsistent statements during discovery regarding the nature of that same transfer. Owing to the conflicting testimonies, the Appellant did not satisfy me, on a balance of probabilities, that this amount should reduce the personal expenditures calculations.
+· Payments totalling $3,033 made by Mr. He to Budget Rent-A-Car in 2010
+[158] The evidence showed that between July 2010 and December 2010, Mr. He rented a truck at the Budget Rent-A-Car branch located in Brampton and incurred expenses totalling $3,033 (Exhibit A-1, Appellant’s Book of Documents, Tab 19, p. 273, and Exhibit R-1, Respondent’s Book of Documents, Tab 15, pp. 100 and 101; Tab 62, pp.1362, 1365, 1370, 1373, 1379 and 1383).
+[159] At the hearing, the Respondent stated that that amount was included in the calculation of Mr. He’s personal expenditures for 2010 (Exhibit R-1, Respondent’s Book of Documents, Tab 15, pp. 100–101).
+[160] Mr. He testified that he was involved in the supermarket’s management and was responsible for the frozen goods and dairy products. His partners were involved in other areas of the supermarket (vegetables, fruits, meat, fish, grocery, etc.). Being responsible for the dairy products and frozen goods, Mr. He had to visit suppliers, order goods, price them and organize shelves.
+[161] Mr. He testified that as Seasons had only one truck available for its business, he often had to rent a truck from Budget Rent-A-Car in Brampton to be able to visit suppliers and pick up and transport goods to the supermarket. He would pay these expenses with his VISA credit card (Exhibit R-1, Respondent’s Book of Documents, Tab 62, for the VISA credit card statements).
+[162] According to the Appellant, these amounts represent business expenses and should not be included in the calculation of the personal expenditures of Mr. He.
+[163] According to the Respondent, the evidence adduced at the hearing is not reliable, as Mr. He testified he had receipts from Seasons for these expenses but did not produce them at the hearing.
+[164] For the following reasons, I find Mr. He’s evidence to be reliable and credible. Firstly, the truck was rented every week, in a constant manner. Also, the truck was rented from a Budget Rent-A-Car branch located in Brampton, near the supermarket, and not on the other side of Toronto in Scarborough, where Mr. He lives. Further, no amounts were expended before the supermarket opened in June of 2010.
+[165] Therefore, it is more likely than not these expenses are business expenses and not personal expenses for Mr. He. Accordingly, the personal expenditures in Schedule IV (Summary of Personal Expenditures) shall be reduced by an amount of $3,033 in 2010, with corresponding adjustments in Schedule III (Calculation of Discrepancy in Total Income per Net Worth) for the same year.
+· Payments made by Mr. He to Costco totalling $29,524 in 2011 and $23,314 in 2012
+[166] The evidence showed that Mr. He incurred expenses on his Costco AMEX credit card totalling $29,524 in 2011 and $23,314 in 2012 at a Costco branch located in Brampton.
+[167] At the hearing, the Respondent stated that that amount was included in the calculation of Mr. He’s personal expenditures for 2011 and 2012 (Exhibit R-1, Respondent’s Book of Documents, Tab 16, p. 127; Tab 17, pp.151–152). The Costco AMEX credit card statements were adduced under Exhibit R-1, Respondent’s Book of Documents, Tab 65.
+[168] Mr. He testified that he would personally go to Costco to buy products for resale at the supermarket, because prices at Costco were often lower than those offered by his own suppliers. At Costco, Mr. He would pay with his personal AMEX Costco credit card, as Seasons was not in a financial position to have credit cards for its shareholders, being a newly incorporated corporation.
+[169] Mr. He would most of time go to the Costco store located in Brampton, which is close to the supermarket. Mr. He testified that the Costco purchases were actually purchases of goods for the supermarket and not for his personal use.
+[170] According to the Appellant, these amounts represent business expenses and should not be included in the calculation of the personal expenditures of Mr. He.
+[171] According to the Respondent, the evidence adduced at the hearing is not reliable, as Mr. He testified he had receipts from Seasons for these expenses but did not produce them at hearing.
+[172] For the following reasons, I find Mr. He’s evidence to be reliable and credible. Firstly, I note that no amounts were expended in that respect before the supermarket was opened. Further, the expenses were incurred in Brampton, where the supermarket is located, and not in Scarborough, where Mr. He lives.
+[173] Therefore, it is more likely than not that these expenses are business expenses and not personal expenses. Accordingly, the personal expenditures in Schedule IV (Summary of Personal Expenditures) shall be reduced by an amount of $29,524 in 2011 and $23,314 in 2012, with corresponding adjustments in Schedule III (Calculation of Discrepancy in Total Income per Net Worth) for the same years.
+(4) Additional adjustments to Schedule III (Calculation of Discrepancy in Total Income per Net Worth)
+· Cheque for $4,269.95 issued by the Government of Canada in 2009
+[174] Evidence showed that Mr. He received a cheque for $4,269.95 from the Government of Canada in August 2009 (Exhibit R-1, Respondent’s Book of Documents, Tab 53, p. 885). The cheque was deposited in Mr. He’s CIBC account (#6151) (Exhibit A-1, Appellant’s Book of Documents, Tab 22, p. 277).
+[175] The cheque seems to be a GST rebate payment made by the Government of Canada to Mr. He in respect of the Telegram Mews Property. Upon the sale of the Telegram Mews Property, that amount was included in the calculation of outlays and expenses (see Exhibit R-1, Respondent’s Book of Documents, Tab 10, p. 46).
+[176] According to the Appellant, that amount should be considered an additional deduction on Schedule III (Calculation of Discrepancy in Total Income per Net Worth) in 2009. However, the Respondent argued that since that amount had reduced the capital gains on the sale of Telegram Mews Property, it should not be taken into account as a deduction.
+[177] I agree with the Appellant. The amount of $4,269.95 is a refund received by Mr. He and shall be taken into account as an additional deduction on Schedule III (Calculation of Discrepancy in Total Income per Net Worth) in 2009.
+Signed at Ottawa, Canada, this 16th day of February 2024.
+“Dominique Lafleur”
+Lafleur J.
+Schedule A
+CITATION:
+2024 TCC 21
+COURT FILE NO.:
+2018-4775(IT)G
+STYLE OF CAUSE:
+Yu Xing He v. His Majesty The King
+PLACE OF HEARING:
+Toronto , Ontario
+DATE OF HEARING:
+October 30 and 31, 2023; November 1 and 2, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Dominique Lafleur
+DATE OF JUDGMENT:
+February 16, 2024
+APPEARANCES:
+Counsel for the Appellant:
+David M. Piccolo
+Counsel for the Respondent:
+Benjamin Chamberland
+Katie Beahen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David M. Piccolo
+Firm:
+TaxChambers LLP Toronto, Ontario
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

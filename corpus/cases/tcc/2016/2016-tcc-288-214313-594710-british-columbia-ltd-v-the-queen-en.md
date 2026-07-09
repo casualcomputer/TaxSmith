@@ -1,0 +1,683 @@
+---
+title: "594710 British Columbia Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/214313/index.do"
+last_modified: "2016-12-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 288"
+citation2: ""
+neutral_citation: "2016 TCC 288"
+decision_date: "2016-12-15"
+language: "en"
+item_id: "214313"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2953
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:34:28.352000+00:00"
+cases_cited_count: 55
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3726fe9f4ba0d1567f35f93bd700095cc4e099ff6d8e1564a181104298175bf0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 594710 British Columbia Ltd. v. The Queen
+
+- Citation: 2016 TCC 288
+- Decision date: 2016-12-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2953, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+594710 British Columbia Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-12-15
+Neutral citation
+2016 TCC 288
+File numbers
+2013-4033(IT)G
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-4033(IT)G
+BETWEEN:
+594710 BRITISH COLUMBIA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 9 to 12, 2016, at Vancouver, British Columbia
+Before: The Honourable Eugene P. Rossiter, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Steven Cook
+S. Natasha Reid
+Counsel for the Respondent:
+Robert Carvalho
+Perry Derksen
+Whitney Dunn
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2006 taxation year is allowed and the decision of the Minister of National Revenue is vacated with costs to the Appellant.
+Signed at Ottawa, Canada, this 15th day of December, 2016.
+“E.P. Rossiter”
+Rossiter C.J.
+Outline of Reasons
+I. Overview: 1
+II. Facts: 2
+A. General: 2
+B. The Partnerco Reassessment: 14
+C. The Appellant’s Reassessment: 14
+III. Issues: 15
+IV. Analysis: 16
+A. Compliance with the Large Corporation Rules: 16
+B. Compliance of Assessments with applicable limitation period: 19
+C. Other Questions as to Validity of the Assessments: 22
+D. Application of the GAAR: 24
+(1) General Principles 24
+(2) Partnerco Reassessment 28
+(a) Existence of a Tax Benefit 28
+(b) Existence of an Avoidance Transaction 30
+(c) Misuse or abuse 30
+(i) Section 111 31
+(ii) Subsections 69(11) & 83(2.1) 36
+(iii) Section 103 37
+(iv) Other Provisions 38
+(d) Reasonable tax consequences 41
+(3) Holdco Assessment 43
+(a) Existence of a Tax Benefit 43
+(i) Issuance of stock dividends 44
+(ii) Redemption of the preferred shares 45
+(iii) Purchase of Partnerco and the Nuinsco Loan 47
+(b) Existence of an Avoidance Transaction 50
+(c) Misuse or abuse 50
+(i) The Purpose of Section 160 50
+(ii) Abuse of section 160 53
+V. Conclusion 56
+Citation: 2016 TCC 288
+Date: 20161215
+Docket: 2013-4033(IT)G
+BETWEEN:
+594710 BRITISH COLUMBIA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rossiter C.J.
+I. Overview:
+[1] This case concerns a tax plan allegedly straddling the line between astute and abusive tax avoidance.
+[2] This tax plan involved a host of players. At the bottom was a partnership engaged in the business of real estate. The partnership had four corporate limited partners and one general partner. Each limited partner was wholly owned by a different holding corporation. The holding corporations in turn were wholly owned, each by a different member of the De Cotiis family. The Appellant is one of these holding corporations.
+[3] In the absence of any planning, the partnership’s income would have been allocated to its corporate partners, who would have paid tax thereon. Instead, the plan allowed the cash from the partnership to be extracted tax-free to the holding corporations, while for tax purposes the partnership’s income was allocated almost entirely to an arm’s length corporation. This arm’s length corporation had accumulated losses and resource expenses sufficient to reduce the tax payable on that income.
+[4] In deciding the outcome of this case, I have to determine the correctness of two applications by the Minister of the general anti-avoidance rule (“GAAR”), contained in section 245 of the Income Tax Act (“the Act”). [1] The first application occurred at the limited partner level, where the Minister applied the GAAR on the basis that the tax plan abused a general policy in the Act against “reverse loss trading” or “reverse resource deduction trading”. As a result, the Minister allocated the partnership income back to the limited partners. On the basis of the consequent tax debt arising in the hands of the limited partners, the Minister applied the GAAR at the holding corporation level, reassessing the Appellant under the GAAR on the basis that the Appellant circumvented and abused section 160 of the Act, which, had it applied, would have caused the Appellant to be jointly and severally liable for the tax debt of its wholly owned subsidiary (who was a limited partner). As a result, the Minister applied the GAAR to hold the Appellant so liable under section 160 of the Act.
+[5] The Appellant’s tax liability under its GAAR reassessment is predicated on the GAAR having been applied correctly in the reassessment of the limited partner, of which it was the owner. The correctness of both reassessments is at issue. The Respondent must win on both in order for the appeal to be dismissed.
+[6] For the reasons that follow, I would allow the appeal and vacate the assessment of the Appellant.
+II. Facts:
+A. General:
+[7] The parties filed an Agreed Statement of Facts on April 28, 2016, which was supplemented during the course of the trial by brief viva voce evidence and a few discovery read-ins.
+[8] Onni Halifax Development Limited Partnership (“HLP”) was a limited partnership created on July 16, 2003, to carry out a strata development project called the Marquis Grande.
+[9] The Marquis Grande was a project of the Onni Group, a group of companies in business of real estate development. The principals of the Onni Group are the four De Cotiis siblings and their father. One of the siblings, Rossano De Cotiis, wholly owned the Appellant, a Canadian-controlled private corporation (“CCPC”) incorporated in 1999. The Appellant in turn wholly owned 671705 British Columbia Ltd., incorporated on June 17, 2003. 671705 British Columbia Ltd. held a 24.975 percent limited partnership interest in HLP, entitling it to a corresponding percent of HLP’s income or loss. It had three other limited partners, each indirectly owned by another sibling using an analogous ownership structure to Rossano’s. The sole business of each of the partner corporations was participation in HLP.
+[10] The general partner of HLP was Onni Development (Halifax) Corp (“GPCo”). GPCo was wholly owned by Rossano and held a 0.1 percent general partnership interest in HLP.
+[11] In summary, there were four separate limited partners, each owning a 24.975 percent limited partnership interest in HLP. “Partnercos” in the plural refers to these limited partners collectively, while “Partnerco” in the singular refers to 671705 British Columbia Ltd. Each of the Partnercos was wholly owned by a separate holding corporation, one of which was the Appellant. “Holdcos” in the plural refers to these holding corporations collectively. The ownership structure may be described as follows:
+Ownership structure
+Individual owners
+Sibling 1
+↓
+Sibling 2
+↓
+Sibling 3
+↓
+Sibling 4
+↓
+Holding corporations (“Holdcos”)
+594710 BC Ltd. (Appellant)
+↓
+↓
+594702 BC Ltd
+↓
+594705 BC Ltd
+↓
+594708 BC Ltd
+↓
+Partner corporations
+(“Partnercos”)
+671705 BC Ltd. (Partnerco)
+↓
+GPCo
+↓
+Onni Deal
+671711 BC Ltd
+↓
+671709 BC Ltd
+↓
+671706 BC Ltd
+↓
+Limited partnership
+HLP
+[12] 0757588 B.C. Ltd. (“Onni Newco”) was incorporated on May 12, 2006 and its shares were held equally by the Holdcos.
+[13] Nuinsco Resources Limited (“Nuinsco”) is a Canadian public corporation that eventually purchased all the shares of the Partnercos. Nuinsco’s business was mining. The parties are agreed that it dealt at arm’s length with the Holdcos at all material times. At the beginning of its taxation year ending December 31, 2006, Nuinsco had non-capital losses of approximately $3.4 million and resource‑related deductions of approximately $18.85 million available from prior taxation years. Nuinsco’s resource-related deductions were from Canadian exploration expenses (“CEE”) and Canadian development expenses (“CDE”). During its 2006 taxation year, Nuinsco incurred additional CEE of $3.6 million. These amounts are collectively referred to as the “tax pools”.
+[14] The fiscal year ends of the entities involved were as follows:
+Holdcos December 31
+Partnercos April 30
+HLP May 31
+Nuinsco December 31
+[15] As of May 25, 2006, six of the strata units developed in the Marquis Grande remained unsold. HLP’s income for the 2006 fiscal period as of May 25, 2006 was projected to be $12,999,076. These projections were made up of accrued income of $12,136,180, plus projected income of at least $863,546 from the sale of six remaining units. If this income was allocated directly to the Partnercos at HLP’s fiscal year end, then each Partnerco would have realized $3,246,694 of income, resulting in tax payable of $1,107,772. In other words, net of tax, each Partnerco would have received $2,138,922.
+[16] Instead, the following transactions were undertaken: [2]
+Step 1: On May 25, 2006 the Appellant subscribed for ten additional common shares of Partnerco for $15,391, paid for by set-off against a debt owed by Partnerco to the Appellant.
+The Appellant
+Partnerco
+Partnerco
+Additional common shares issued in payment of debt owing $15,931
+But for the application of the GAAR, the tax consequence arising from the capitalization of the $15,931 debt owing by Partnerco to the Appellant would have been to increase the ACB of the common shares held by the Appellant in Partnerco by $15,931.
+Step 2: On May 25, 2006, HLP lent $2,118,510 in cash to each Partnerco (the “Partnerco Loan”). The four Partnerco Loans totalled $8,474,040.
+Step 3: Partnerco declared and paid a series of sequential stock dividends to the Appellant, totalling 2,118,510 Class A Preferred Shares to the Appellant, each with paid-up capital and redemption amount of $1.00 per share (the “First Stock Dividend”).
+The aggregate amount of the First Stock Dividend ($2,118,510) represented the estimated after-tax value of the issued shares of Partnerco and was approximately equal to Partnerco’s after-tax share of HLP’s projected income.
+The parties agree that the Partnerco Loan was made before the First Stock Dividend was issued. [3] The parties also agree that at the time the assessment of the Appellant, the Minister accepted that the fair market value of the First Stock Dividend was $2,118,510, which was equivalent to the estimated fair market value of the issued common shares of each Partnerco as of May 25, 2006.
+Before After
+The Appellant
+The Appellant
+The Appellant
+The Appellant
+p/s c/s p/s
+Partnerco
+Partnerco
+Partnerco
+Partnerco
+But for the application of the GAAR, the tax consequences arising on the payment of the First Stock Dividend were as follows:
+a) the issuance of Class A Preferred Shares resulted in a dividend to the Appellant of $2,118,510;
+b) the amount of the dividend was includable in the taxable income of the Appellant, but also deductible in computing taxable income as an intercorporate dividend;
+c) the Appellant was deemed to have acquired the Class A Preferred Shares at an ACB of $2,118,510.
+Step 4: On May 25, 2006 Partnerco used the proceeds from the Partnerco Loan to redeem the Class A Preferred Shares issued in the First Stock Dividend for $2,118,510.
+Before After
+The Appellant
+The Appellant
+The Appellant
+The Appellant
+Redemption of 2,118,510
+Class A shares by payment of
+$2,118,510
+Partnerco
+Partnerco
+Partnerco
+Partnerco
+c/s p/s c/s
+HLP
+HLP
+Loan of $2,118,510
+But for the application of GAAR, the tax consequences of redemption of the Class A Preferred shares were as follows:
+a) there was no deemed dividend received by the Appellant;
+b) the Appellant disposed of its Class A Preferred shares with ACB of $2,118,510 for proceeds of disposition of $2,118,510, resulting in no gain or loss.
+Step 5: The following additional transactions were undertaken:
+a) On May 25, 2006, Onni Development loaned $3,051,400 to HLP (the “ODC Loan”). The unsold strata units held by HLP were provided as security for the ODC Loan.
+b) On May 25, 2006, HLP entered into a management agreement with Onni Property Management, a member of the Onni Group, under which Onni Property Management would provide certain marketing and management services to HLP relating to, inter alia, the sale of the unsold strata units and remedial work.
+c) On May 29, 2006, HLP entered into a Put Agreement (the “Put Agreement”) with Onni Newco, under which HLP acquired an option to sell its remaining inventory of strata units to Onni Newco at an aggregate price of $3,051,400.
+Step 6: On May 26, 2006, Partnerco declared a stock dividend to the Appellant, paid by issuing 851,863 Class A Preferred Shares with aggregate paid-up capital and a redemption amount of $851,863 (the “Second Stock Dividend”).
+Similar to the issuance of the First Stock Dividend, the tax consequences but for the application of the GAAR were as follows:
+a) the issuance of the Second Stock Dividend resulted in a dividend to the Appellant of $851,863. This amount was includable in the income of the Appellant, but also deductible in computing taxable income as an intercorporate dividend;
+b) the Appellant was deemed to have acquired the Class A Preferred Shares at an ACB of $851,863.
+Step 7: The Nuinsco Acquisition
+On May 29, 2006, each Holdco (including the Appellant) sold all of the shares of its respective Partnerco to Nuinsco (the “Nuinsco Acquisition”). In particular, each Holdco sold its Class A Preferred Shares received from the Second Stock Dividend for $851,863 and the common shares of its Partnerco for $15,391. Concurrently, Nuinsco acquired all of the shares of GPco for $1.
+The aggregate cost to Nuinsco of the share purchases was $3,469,017. [4]
+Step 8: At the time of the Nuinsco Acquisition, Halifax LP had cash on hand of $4,443,957. On May 29, 2006, HLP agreed to loan this amount to Nuinsco, and on May 30, 2006, advanced such amount (the “Nuinsco Loan”).
+At all material times, Nuinsco was not related to, and dealt at arm’s length with, the Holdcos for the purposes of the Act.
+Before After
+The Appellant
+The Appellant
+$851,863 + $15,391
+Nuinsco
+Nuinsco
+Sale of common and Class A
+Preferred Shares
+Partnerco
+Partnerco
+Partnerco
+Partnerco
+Halifax LP
+Halifax LP
+$4,443,397 cash on hand $4,443,397 cash on hand
+6 strata units 6 strata units
+But for the application of the GAAR, the following tax consequences arose:
+a) The Appellant realized proceeds of $851,863 for its Class A Preferred Shares of Partnerco and proceeds of $15,931 for its common shares of Partnerco, but no gain or loss was realized since the ACB equaled the proceeds of disposition for both classes of shares;
+b) There was an acquisition of control of Partnerco by Nuinsco on May 29, 2006 such that Partnerco had a deemed year end on May 28, 2006; and,
+c) No income from HLP was allocable to Partnerco for its taxation year now ending May 28, 2006.
+Step 9: On May 30, 2006, each Partnerco was wound up into Nuinsco. Consequently, Nuinsco assumed the liabilities of each Partnerco and was admitted as the sole limited partner of HLP. Nuinsco’s indebtedness to HLP totalled $12,917,997. [5]
+Step 10: On May 31, 2006, HLP allocated its net income of $12,136,180 to Nuinsco and GPCo in accordance with their partnership interests.
+But for the application of GAAR, the tax consequences would be as follows:
+a) $12,124,045 or 99.9% would be allocated to Nuinsco;
+b) Nuinsco would be entitled to deduct CEE of $9,198,443 when determining income and also entitled to deduct available non-capital losses of $3,398,699 when computing taxable income for its 2006 year.
+c) $12,136 or 0.1% would be allocated to GPCo.
+Nuinsco
+a) May 30 Wind up of Partnercos into Nuinsco
+Partnerco
+Partnerco
+671709
+671709
+671708
+671708
+671706
+671706
+99.9%
+b) May 31 Nuinsco is
+HLP
+allocated HLP income:
+$12,124,045 (99.9% of $12,136,180)
+Step 11: On June 1, 2006 each Partnerco was dissolved.
+Step 12: On June 1, 2006, HLP declared distributions to Nuinsco and GPCo as follows:
+$12,041,997 was distributed to Nuinsco, satisfied by set-off against the debt owing by Nuinsco to HLP, which would reduce the debt to $876,000; and,
+$12,054 was distributed to GPCo, satisfied by assigning a portion of Nuinsco’s indebtedness to GPCo (this would further reduce Nuinsco’s indebtedness to HLP to $863,946)
+Step 13: Between June 14 and 16, 2006, HLP sold its remaining six units by transferring one unit to an arm’s length purchaser and exercising its option to sell the other five units to Onni Newco. Consequently, HLP realized net income of $863,546, as projected, in its fiscal year starting June 1, 2006.
+HLP allocated the net income of $863,546 to Nuinsco and GPCo in accordance with their partnership interests (99.9% to Nuinsco and 0.1% to GPCo).
+Step 14: On June 26, 2006, HLP declared the following distributions:
+· $400 to Nuinsco as a return of capital contribution
+· $862,683 to Nuinsco, satisfied by set-off against Nuinsco’s indebtedness to the HLP
+· $863 to GPCo, satisfied by assigning to GPCo Nuinsco’s indebtedness to HLP.
+The result of these distributions was to reduce Nuinsco’s debt to HLP to nil, and to increase Nuinsco’s debt to GPCo to $12,917.
+Step 15: On June 28, 2006, GPCo declared a dividend to Nuinsco of $8,483, paid by set-off against Nuinsco’s debt of $12,917. The remaining $4,434 owed to GPCo represented GPCo’s estimated tax liability on its 0.1% share of the HLP income.
+Step 16: On June 28, 2006, HLP was dissolved.
+[17] The Minister assumed that these transactions formed a pre-ordained series of transactions. Additionally, the Minister assumed that all of the aforementioned steps were avoidance transactions. [6] The parties agree that the following steps formed a series of transactions for the purposes of the GAAR: steps 1, 2, 3, 4, 5a, 5b, 5c, 6, 7, 8, 9, 10, 11, the exercise of the Put Agreement and the allocation of HLP’s income from the sale of its remaining inventory in step 13, 14, and 16.
+[18] Evidence was given by Mr. Les Fovenyi, the current Chief Operating Officer of the Onni Group, in relation to the strategies of the Onni Group before 2000 and after 2011, those being the periods of time during which he was involved with the Onni Group. He was not employed by the Onni Group during the period of time during which the transactions occurred.
+[19] Based on his testimony and supporting documentary evidence, it appears that the limited partnership structure was adopted from the beginning and throughout the years in question for several reasons:
+A. The use of a corporation instead of a partnership in the past was problematic because dissenting shareholders could cause severe financial problems;
+B. There was a desire to mitigate the risk as to which parties would participate in which project;
+C. A general Partnerco could exercise a fair degree of control over the development and ensure the project was finished.
+D. There were nuances put into the limited partnership agreement, since the partners were family. There was a provision regarding excess capital, whereby any partner who refused to put up additional capital that might be required for a project, agreed to allow other partners to contribute that capital for them and to earn a 20 percent return on that excess capital injection. There was a provision prohibiting any partner from placing any lien on the project at any time for any reason prior to its completion.
+E. The individual principals held shares of the Partnercos through a holding corporation to mitigate risk, since the principals were very hands-on throughout their participation in various development projects.
+F. Capital preservation, financing, and flexibility was important. There were multiple risks involved in projects, from market risk to financing risk, so there was a need for a structure known in secondary lending markets in case capital needed to be raised quickly.
+[20] As the Appellant has sought to argue that both the reassessment of Partnerco and the assessment of the Appellant were statute-barred, I will set out the facts relating to both reassessments.
+B. The Partnerco Reassessment:
+[21] The parties agree that there was an acquisition of control of Partnerco by Nuinsco on May 29, 2006. But for the application of the GAAR, Partnerco would have had a shortened taxation year from May 1, 2006 to May 28, 2006 (the “Initial Period”) pursuant to subsection 249(4) of the Act.
+[22] Partnerco duly filed a tax return for the Initial Period, reporting no income. The Minister initially assessed this fiscal period on December 21, 2006. The parties agree that, but for the application of GAAR, the normal reassessment period for this fiscal period expired on December 21, 2009.
+[23] As Partnerco was dissolved on June 1, 2006, a tax return was also filed for the period from May 29, 2006 to June 1, 2006 (the “Second Period”), in which no income was reported. The Minister initially assessed this fiscal period on February 27, 2007.
+[24] Throughout the Second Period, Partnerco was no longer a CCPC, as it was owned by Nuinsco, a public corporation.
+[25] The Minister reassessed Partnerco on February 23, 2011 (the “Partnerco Reassessment”). In it, the Minister applied GAAR to include what would have been Partnerco’s share of HLP’s income had the tax plan not been carried out. This income inclusion totalled $3,246,694. This income was included for a notional taxation period purporting to span from May 1, 2006 to June 1, 2006.
+C. The Appellant’s Reassessment:
+[26] In its tax return for the year ending December 31, 2006, the Appellant reported nil income from the First and Second Stock Dividends and from the disposition of its shares of Partnerco to Nuinsco.
+[27] The Appellant was initially assessed on August 15, 2007. Consequently, the normal reassessment period expired on August 15, 2010.
+[28] On August 3, 2010, the Appellant filed a waiver of the normal reassessment period pursuant to subparagraph 152(4)(a)(ii) of the Act.
+[29] On November 7, 2011, the Appellant filed a notice of revocation of waiver, and the Minister acknowledged receipt of such notice on November 14, 2011. Pursuant to subsection 152(4.1) of the Act, the revocation became effective on May 7, 2012.
+[30] The Minister assessed the Appellant again on July 11, 2013 (the “Holdco Assessment”). It is this assessment that is under appeal. In it, the Minister applied GAAR on the basis that the Appellant abused section 160 of the Act. In the result, section 160 was applied to the Appellant to hold it jointly and severally liable for Partnerco’s tax debt under the Partnerco Reassessment. The Appellant’s Reassessment assessed an aggregate amount of $1,801,406.62 of tax, interest, and penalties.
+[31] The Appellant filed a Notice of Objection on July 23, 2013. The Appellant was a large corporation during its 2006 taxation year.
+III. Issues:
+[32] The issues that I must decide are:
+· Whether the Appellant’s failure to raise the issue of the validity of the Partnerco Reassessment or the Holdco Assessment in its Notice of Objection precludes it from raising this issue before the Court;
+· If not, whether the Partnerco Reassessment or the Holdco Assessment is statute-barred;
+· Whether the GAAR was applied properly in the Partnerco Reassessment to include $3,246,694 in Partnerco’s income; and,
+· If so, whether the GAAR was applied properly in the Holdco Assessment to cause the Appellant to be liable under subsection 160(1) for Partnerco’s tax liability.
+[33] If the Appellant wins on any of the last three issues, the appeal must be allowed and the Holdco Assessment vacated.
+IV. Analysis:
+A. Compliance with the Large Corporation Rules:
+[34] The Appellant has raised the question of whether the Partnerco and Holdco assessments were issued outside the normal reassessment period for their respective taxpayers. If so, the Appellant submits that they would be void absent compliance with subsection 152(4).
+[35] The Respondent has objected to the Appellant’s raising this argument on the basis that it did not form part of the issues raised in its Notice of Objection. As the issue in question was not provided for in the manner stipulated by subsection 165(1.11) of the Act, the Appellant is alleged to be precluded from raising on appeal whether the reassessments were statute-barred, pursuant to subsection 169(2.1).
+[36] The relevant provisions of the Act read as follows:
+Assessment and reassessment
+152(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+(ii) has filed with the Minister a waiver in prescribed form within the normal reassessment period for the taxpayer in respect of the year; or
+(b) the assessment, reassessment or additional assessment is made before the day that is 3 years after the end of the normal reassessment period for the taxpayer in respect of the year and
+(i) is required pursuant to subsection (6) or would be so required if the taxpayer had claimed an amount by filing the prescribed form referred to in that subsection on or before the day referred to therein,
+(ii) is made as a consequence of the assessment or reassessment pursuant to this paragraph or subsection (6) of tax payable by another taxpayer,
+(iii) is made as a consequence of a transaction involving the taxpayer and a non-resident person with whom the taxpayer was not dealing at arm’s length,
+(iii.1) is made, if the taxpayer is non-resident and carries on a business in Canada, as a consequence of
+(A) an allocation by the taxpayer of revenues or expenses as amounts in respect of the Canadian business (other than revenues and expenses that relate solely to the Canadian business, that are recorded in the books of account of the Canadian business, and the documentation in support of which is kept in Canada), or
+(B) a notional transaction between the taxpayer and its Canadian business, where the transaction is recognized for the purposes of the computation of an amount under this Act or an applicable tax treaty.
+(iv) is made as a consequence of a payment or reimbursement of any income or profits tax to or by the government of a country other than Canada or a government of a state, province or other political subdivision of any such country,
+(v) is made as a consequence of a reduction under subsection 66(12.73) of an amount purported to be renounced under section 66, or
+(vi) is made in order to give effect to the application of subsection 118.1(15) or (16).
+…
+Objections by large corporations
+165(1.11) Where a corporation that was a large corporation in a taxation year (within the meaning assigned by subsection 225.1(8)) objects to an assessment under this Part for the year, the notice of objection shall
+(a) reasonably describe each issue to be decided;
+(b) specify in respect of each issue, the relief sought, expressed as the amount of a change in a balance (within the meaning assigned by subsection 152(4.4)) or a balance of undeducted outlays, expenses or other amounts of the corporation; and
+(c) provide facts and reasons relied on by the corporation in respect of each issue.
+…
+Limitation on appeals by large corporations
+169(2.1) Notwithstanding subsections (1) and (2), where a corporation that was a large corporation in a taxation year (within the meaning assigned by subsection 225.1(8)) served a notice of objection to an assessment under this Part for the year, the corporation may appeal to the Tax Court of Canada to have the assessment vacated or varied only with respect to
+(a) an issue in respect of which the corporation has complied with subsection 165(1.11) in the notice, or
+(b) an issue described in subsection 165(1.14) where the corporation did not, because of subsection 165(7), serve a notice of objection to the assessment that gave rise to the issue
+and, in the case of an issue described in paragraph (a), the corporation may so appeal only with respect to the relief sought in respect of the issue as specified by the corporation in the notice.
+[37] In Blackburn Radio [7] and in Canadian Marconi [8] the FCA confirms that an out of time assessment is void. Section 169.1 is only aimed at precluding the TCC from doing anything but vacating or varying an assessment or reassessment. The TCC cannot vary or vacate an assessment or reassessment if it is void because it is void from the beginning and does not exist – the assessment or reassessment is simply not given effect.
+[38] Also subsection 152(8) does not apply to an out of time assessment as per Lornport Investments. [9]
+B. Compliance of Assessments with applicable limitation period:
+[39] The Appellant would contend that the Partnerco reassessment is statute‑barred. The issue is a relatively straight-forward matter of statutory interpretation and its application to the facts.
+[40] The Appellant’s position on this issue is that subsection 152(4) limits the Minister’s power to raise a reassessment “after the taxpayer’s normal reassessment period in respect of the year”. The Appellant submits that the Partnerco reassessment is in respect of Partnerco’s two taxation periods up to June 1, 2006. While the Appellant’s arguments seek to interpret the phrase “in respect of” so as to show that the Partnerco reassessment is in respect of the Initial Period, this approaches the question without the full context of subsection 152(4).
+[41] Subsection 152(4) reads as follows:
+Assessment and reassessment
+(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+(ii) has filed with the Minister a waiver in prescribed form within the normal reassessment period for the taxpayer in respect of the year; or
+(b) the assessment, reassessment or additional assessment is made before the day that is 3 years after the end of the normal reassessment period for the taxpayer in respect of the year and
+(i) is required pursuant to subsection (6) or would be so required if the taxpayer had claimed an amount by filing the prescribed form referred to in that subsection on or before the day referred to therein,
+(ii) is made as a consequence of the assessment or reassessment pursuant to this paragraph or subsection (6) of tax payable by another taxpayer,
+(iii) is made as a consequence of a transaction involving the taxpayer and a non-resident person with whom the taxpayer was not dealing at arm’s length,
+(iii.1) is made, if the taxpayer is non-resident and carries on a business in Canada, as a consequence of
+(A) an allocation by the taxpayer of revenues or expenses as amounts in respect of the Canadian business (other than revenues and expenses that relate solely to the Canadian business, that are recorded in the books of account of the Canadian business, and the documentation in support of which is kept in Canada), or
+(B) a notional transaction between the taxpayer and its Canadian business, where the transaction is recognized for the purposes of the computation of an amount under this Act or an applicable tax treaty.
+(iv) is made as a consequence of a payment or reimbursement of any income or profits tax to or by the government of a country other than Canada or a government of a state, province or other political subdivision of any such country,
+(v) is made as a consequence of a reduction under subsection 66(12.73) of an amount purported to be renounced under section 66, or
+(vi) is made in order to give effect to the application of subsection 118.1(15) or (16).
+[42] The numerous references to "the year" in this provision all refer to the same year; specifically, "the year" takes its meaning from the beginning of the subsection, which refers to the "taxation year" for which the Minister may otherwise "at any time make an assessment, reassessment […, etc.]". Thus, when the subsection refers to a “year” in respect of which the Minister may be precluded from assessing after the normal reassessment period, it is referring to this taxation year (in our case, the Partnerco taxation year ending June 1, 2006).
+[43] The question then becomes whether the Partnerco reassessment is also a reassessment for the Initial Period. The language “in respect of” may only be of use to the Appellant if it is first demonstrated that the Partnerco reassessment amounts to a reassessment of both the Initial Period and the Notional Period.
+[44] The Partnerco reassessment is unquestionably a reassessment for Partnerco’s taxation year ending June 1, 2006. In invoking the GAAR to determine the tax consequences to Partnerco as if that taxation year had begun on May 1, 2006, was the Minister assessing for a different taxation year than that assessed on February 27, 2007?
+[45] The Partnerco reassessment is a reassessment for the taxation year ending June 1, 2006, and this is not altered by the fact that the Minister has reassessed Partnerco to include the tax consequences of transactions that would have otherwise fallen outside of the taxation year.
+[46] The Partnerco reassessment is not a reassessment of Partnerco’s taxation year ending May 28, 2006. As a result, the issuance of the Partnerco reassessment, if it is a reassessment for the year ending June 1, 2006, and not an additional assessment, nullifies the assessment dated February 27, 2007. [10] It does not have the effect of nullifying the assessment of Partnerco made December 21, 2006, for the taxation year ending May 28, 2006. As there was no income declared by Partnerco in that period, it is not necessary to consider how the Minister ought to take into account taxes owing under another assessment in determining the reasonable tax consequences of a proper GAAR reassessment.
+[47] I would have therefore concluded that the Partnerco reassessment was valid and timely.
+[48] The Appellant also contends that the Holdco Assessment was a reassessment of its 2006 taxation year and not an assessment under section 160. As such, the Appellant submits that it was issued outside of the normal reassessment period, which it submits is contained in section 152. For reasons elaborated in the next section, I find this argument linked to the “stacking” of GAAR assessments on top of each other, and I deal with it below.
+C. Other Questions as to Validity of the Assessments:
+[49] The Appellant has submitted that the reassessment made of it is invalid for several additional reasons. Among other reasons, it has submitted that it cannot be assessed for liability under GAAR as a consequence of an amount of tax owing due to the invocation of the GAAR against another taxpayer.
+[50] More specifically, the Appellant points to the wording of subsection 245(2) of the Act, noting that the tax consequences to be determined as a result of its operation should deny a tax benefit that, “but for this section, would result, directly or indirectly, from that [avoidance] transaction or from a series of transactions that includes that transaction.” The Appellant is of the view that this mandates the Court to apply the GAAR to it in a manner that ignores the application of section 245 to Partnerco (or, presumably, any other taxpayer).
+[51] I disagree. The Appellant overlooks the fact that the Minister is to assess or reassess each taxpayer separately under the Act, even related parties. While the Minister cannot stack GAAR assessments with respect to the same taxpayer, the Appellant’s interpretation would require the Court to take notice of how the Act applies to a third party to the proceeding in interpreting how the Act applies to the taxpayer before the Court without any explicit mandate to do so. Simply because the Appellant is entitled in this derivative liability assessment to contest the validity of the Partnerco reassessment does not mean that the Appellant is thereby entitled to conflate the two assessments in interpreting the Act.
+[52] The Supreme Court of Canada, in Copthorne, identified the framework through which the GAAR should be applied, as follows: [11]
+72 The analysis will then lead to a finding of abusive tax avoidance: (1) where the transaction achieves an outcome the statutory provision was intended to prevent; (2) where the transaction defeats the underlying rationale of the provision; or (3) where the transaction circumvents the provision in a manner that frustrates or defeats its object, spirit or purpose (Trustco, at para. 45; Lipson, at para. 40). These considerations are not independent of one another and may overlap. At this stage, the Minister must clearly demonstrate that the transaction is an abuse of the Act, and the benefit of the doubt is given to the taxpayer.
+[53] The question is therefore whether, read without reference to subsection 245(2) of the Act, there would be a tax benefit accruing to the Appellant as a result of an avoidance transaction or as a result of a series of transactions of which an avoidance transaction is part. The Appellant’s interpretation could result in the Minister being unable to prevent abusive tax avoidance so long as it is subsidiary to and arising out of another abusive tax avoidance transaction.
+[54] The phrase “but for this section” contained in section 245 provides that the assessment of any tax benefit is done without factoring in the automatic application of subsection 245(2). This avoids the internal contradiction that would otherwise arise.
+[55] Furthermore, I accept that the tax consequences of the application of the GAAR to the Appellant may only be determined through the methods cited in subsection 245(7) of the Act. One of them can conceivably be an assessment under subsection 160(2) of the Act. By invoking the GAAR, the Minister is able to ensure that the Appellant is rendered liable under subsection 160(1) for the tax debt of Partnerco as part of the reasonable tax consequences designed to prevent the abusive tax avoidance in question. Following the recognition of this liability, the Minister may properly assess the Appellant under subsection 160(2). This is what the Minister did in this case.
+D. Application of the GAAR:
+(1) General Principles
+[56] One of the most recent concise summaries of the applicable principles involving the GAAR is contained in the decision of the Ontario Court of Appeal in Inter-Leasing: [12]
+49 For the GAAR to apply, there must be:
+(1) a tax benefit resulting from a transaction or part of a series of transactions;
+(2) an avoidance transaction in the sense that the transaction cannot be said to have been reasonably undertaken or arranged primarily for a bona fide purpose other than to obtain a tax benefit and
+(3) abusive tax avoidance in the sense that it cannot be reasonably concluded that a tax benefit would be consistent with the object, spirit or purpose of the provisions relied on by the taxpayer.
+50 The onus is on the Respondent to establish that the tax avoidance was abusive. If the existence of abusive tax avoidance is unclear, the benefit of the doubt goes to the taxpayer.
+51 As explained at para. 66 of Canada Trustco, courts must apply a purposive approach in interpreting the provisions giving rise to the tax benefit:
+4. The courts proceed by conducting a unified textual, contextual and purposive analysis of the provisions giving rise to the tax benefit in order to determine why they were put in place and why the benefit was conferred. The goal is to arrive at a purposive interpretation that is harmonious with the provisions of the Act that confer the tax benefit, read in the context of the whole Act.
+52 After the object, spirit or purpose of a section is determined, a transaction may be found to be abusive in one of three ways described in Lipson, at para. 40:
+where the result of the avoidance transaction (a) is an outcome that the provisions relied on seek to prevent; (b) defeats the underlying rationale of the provisions relied on; or (c) circumvents certain provisions in a manner that frustrates the object, spirit or purpose of those provisions. [Citations omitted.]
+[57] In Canada Trustco, McLachlin C.J. and Major J. emphasized that the GAAR is to be used as a provision of last resort. [13] Since non-tax purposes to a transaction may exist in what may otherwise appear to be an avoidance transaction, the Court must weigh the totality of the evidence with a view to making an objective finding of which purposes were primary based on the reasonableness of that evidence. The mere assertion however by the taxpayer that non-tax purposes were of primary concern is insufficient to discharge the evidentiary burden on that taxpayer. [14]
+[58] As held by the Supreme Court in Copthorne, “it is necessary to determine if there was a series, which transactions make up the series, and whether the tax benefit resulted from the series” if the Minister assumes that the tax benefit resulted from a series of transactions. [15] A series of transactions resulting in a tax benefit “will be caught by s. 245(3) unless each transaction within the series could ‘reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain [a] tax benefit’. If any transaction within the series is not undertaken primarily for a bona fide non-tax purpose, that transaction will be an avoidance transaction.” [16]
+[59] In Triad Gestco TCC, [17] the taxpayer, which was directed and controlled by one Mr. Cohen and which had realized a capital gain of approximately $8 million, transferred $8 million of assets to a newly-incorporated subsidiary in consideration for the issuance of common shares. This subsidiary declared a stock dividend of $1 on its common shares, which was payable through the issuance of 80,000 non-voting preferred shares with an aggregate redemption price of $8,000,000. An unrelated individual settled, with $100, a trust of which Mr. Cohen was a beneficiary, so that under the "affiliate" definition then in effect it was an un-affiliated trust. The taxpayer then sold its common shares of the subsidiary to the trust for $65 and claimed a capital loss of $7,999,935, which permitted it to offset the realized capital gain through a loss carry-back.
+[60] The Tax Court found that the declaration by the subsidiary of a stock dividend payable in preferred shares was an avoidance transaction undertaken to shift the value of the subsidiary out of the common shares and into the preferred shares. This would allow for a latent capital loss that could be claimed on the disposition of the common shares later in the series of transactions. The Court also concluded that the settlement of the trust and the subsequent sale of the common shares to the trust were both avoidance transactions designed to realize a capital loss on the sale of the common shares while avoiding the application of the stop loss rules in subparagraph 40(2)(g)(i) of the Act. [18] On appeal, Noël JA (as he then was) noted that the parties had conceded that the Tax Court had correctly concluded on the existence of an avoidance transaction. [19]
+[61] In Global Equity, [20] the taxpayer subscribed for common shares of a new subsidiary for approximately $5.6 million, which then declared a stock dividend in the form of preferred shares having $56 of paid-up capital and a $5.6 million redemption price. Consequently, the value of the common shares was largely eliminated. The taxpayer's subscription for an additional $200,000 was acknowledged to be "window dressing" to give the common shares some value. The taxpayer, which was involved in the business of trading securities, disposed of the common shares in consideration for their depleted value and reported a loss. The Tax Court concluded that these were avoidance transactions, despite the assertions of the taxpayer that creditor protection was the primary motivation. [21] While Mainville JA reversed the Tax Court on its conclusion as to the application of the GAAR, he noted that the taxpayer had not contested the existence of the avoidance transactions and that there was ample evidence on the nature of the transactions in question. [22]
+[62] In 1207192 Ontario, the Federal Court of Appeal gave further instruction on the identification of an avoidance transaction. It noted that subsection “245(3) requires a determination of the primary purpose of the transaction or series of transactions that is alleged to comprise the avoidance transaction. […] The burden is on the taxpayer to establish that a particular transaction or series of transactions was undertaken or arranged primarily for bona fide purposes other than to obtain a tax benefit [Canada Trustco] at paragraph 66).” [23] This Court must determine “the purpose of the series of transactions on an objective basis - that is, by ascertaining objectively the purpose of each step by reference to its consequences - rather than on the basis of the subjective motivation of” the parties or their subjective understanding of what may or may not have been required to achieve a given bona fide non-tax purpose. [24]
+[63] An established principle arising out of Canada Trustco is that in cases other than a reduction in taxable income, the existence of a tax benefit can be established by comparison with an alternative arrangement. The magnitude of any such benefit is irrelevant at this stage of the analysis. [25] The burden is on the taxpayer to refute the Minister’s assumption of a tax benefit. [26]
+[64] A tax benefit may be found even if no reduction in tax payable occurs during the year under appeal. For instance, the taxpayer in Triad was benefited insofar as it could carry back the capital loss incurred to a previous tax year.
+[65] The Supreme Court in Copthorne held that the analysis must be linked to alternative arrangements that would have been reasonable to carry out:
+35 As found in Trustco, the existence of a tax benefit can be established by comparison of the taxpayer's situation with an alternative arrangement (para. 20). If a comparison approach is used, the alternative arrangement must be one that "might reasonably have been carried out but for the existence of the tax benefit" (D. G. Duff, et al., Canadian Income Tax Law (3rd ed. 2009), at p. 187). By considering what a corporation would have done if it did not stand to gain from the tax benefit, this test attempts to isolate the effect of the tax benefit from the non-tax purpose of the taxpayer. [27]
+(2) Partnerco Reassessment
+[66] I will deal with the Partnerco Assessment first, since the Holdco Assessment is predicated on the GAAR having been properly applied in the Partnerco Assessment to cause Partnerco to have a tax debt. If Partnerco did not properly have a tax debt, then the Holdco Assessment cannot give rise to a tax liability for the Appellant.
+(a) Existence of a Tax Benefit
+[67] The Appellant submits that this Court should conduct the analysis of whether a tax benefit arose on the facts by comparing this situation to one in which Nuinsco had acquired Partnerco without being able to utilize its tax attributes to shelter the income received from HLP. It submits that the tax benefit arising out of the Transactions accrued to Nuinsco insofar as it would have been unable to shelter the income received from HLP without winding up the Partnercos before June 1.
+[68] The Respondent submits that the comparison should be made with the alternative in which Nuinsco never acquired Partnerco. In such a situation, Partnerco would have received and paid tax on the distributions from HLP. The Respondent states that the only net benefit received by Nuinsco was the deal fees paid to it by the Appellant. [28]
+[69] Furthermore, the Respondent submits that Partnerco would have been liable for the tax payable on amounts received from HLP, making Partnerco a tax debtor during the tax period in which it would have received such amounts. As a result, the Appellant would have been liable for this unpaid tax debt up to and including the amounts transferred to it from Partnerco during that same or a following tax period. As a result, the Respondent submits that the Appellant avoided the application of section 160 of the Act by engaging in a series of transactions leading to the change of control of Partnerco and the consequent deemed year end prior to the distribution of income from HLP.
+[70] I note the wording of “tax benefit” in subsection 245(1) of the Act, as well as the wording of subsection 245(2). In neither provision does it explicitly require that the “tax benefit” in question accrue to the person to whom the tax consequences are re-determined by virtue of the invocation of the GAAR.
+[71] I also note the decision of Justice Bell in Univar. [29] In that case, the taxpayer incorporated a Barbados subsidiary using borrowed money to subscribe for the shares of that subsidiary, which in turn used the proceeds to purchase from the American parent of the taxpayer an interest-bearing note owing to that parent by one of its wholly-owned European subsidiaries. Bell J. accepted evidence of the taxpayer's officers that there was never any intent for the taxpayer to itself acquire the note. Accordingly, there was no tax avoided through the incorporation of the Barbados subsidiary and the receipt of tax-free dividends by the taxpayer from that subsidiary, funded out of the interest payments made on the note.
+[72] I conclude, like he did, that the “only alternate arrangement that can be considered is the possibility of the alleged avoidance transaction not having occurred.” [30] The Appellant has failed to demonstrate how the scenario in which Nuinsco acquires the Partnercos and does not utilize its tax attributes to shelter the income from HLP is a reasonable one on the facts. It is likely that the deal fees would have been much higher in such an eventuality in order to compensate Nuinsco for the tax debt arising out of the tax payable on the Partnercos’ HLP income. If such were the case, then this presumably would have affected at a certain point the willingness of the Appellant to enter into the transaction. Absent the potential access to Nuinsco’s tax attributes to shelter the income from HLP, there is insufficient evidence before me to conclude that the Appellant and Nuinsco would have conducted the transactions at issue.
+[73] If the alleged avoidance transaction had not occurred, the distributions from HLP would have been taxable in the hands of Partnerco. The taxation of these amounts in the hands of Nuinsco created a tax benefit. As a result, I conclude that a tax benefit arose out of these transactions.
+(b) Existence of an Avoidance Transaction
+[74] As set out earlier, the parties agree that many of the transactions form a series of transactions for the purposes of the GAAR.
+[75] The avoidance transaction requirement will be met if the series resulted in a tax benefit and if even one of the transactions in this series cannot reasonably be considered to have been undertaken for a bona fide non-tax purpose.
+[76] The Minister has assumed that every transaction in the series was not carried out for a bona fide non-tax purpose. The Appellant does not appear to argue otherwise, but instead submits that the series of transactions did not result in a tax benefit. Since I have already found that there was a tax benefit, this argument is accordingly rejected as well.
+[77] Apart from this, the Appellant does single out one aspect of the series. According to the Appellant, the Respondent asserts that the selection of May 29, 2006 as a closing date was an avoidance transaction, an assertion that must be rejected because the choice of date on which a transaction is completed is not a “transaction” at all. However, this mischaracterizes the Respondent’s argument. The Respondent’s actual argument is that, among the other transactions in the series, the sale of the shares of Partnerco by the Appellant to Nuinsco was an avoidance transaction, and that the timing of that share sale supports this argument. I would agree. On the evidence, I cannot conclude that Nuinsco and the Appellant would have undertaken the share sale but for the possibility of using Nuinsco's tax attributes, nor has the Appellant argued otherwise.
+(c) Misuse or abuse
+[78] As outlined earlier, this step proceeds in two parts: first, the provisions giving rise to the tax benefit are interpreted textually, contextually and purposively in order to determine their object, spirit or purpose. Next, I am to determine whether that object, spirit or purpose has been abused in this case.
+[79] Here, the Respondent bears the onus.
+[80] The Respondent alleges that there is a general policy in the Act aimed at preventing loss sharing between unrelated taxpayers, and that the transactions at issue circumvent this policy. In the course of laying out this argument, the Respondent analyzes several statutory provisions, which I will in turn outline.
+[81] However, I note at the outset a fatal shortcoming of the Respondent's argument; it fails to fully analyze the provisions associated with the obtaining of the tax benefit. It is those provisions that must be interpreted textually, contextually and purposively. As held in Copthorne, "[w]hat is not permissible is basing a finding of abuse on some broad statement of policy, such as anti-surplus stripping, which is not attached to the provisions at issue." [31] LeBel J. in Lipson emphasized again the importance of identifying the provisions associated with the tax benefit and to consider whether those provisions were abused. [32]
+(i) Section 111
+[82] As a starting point, the Respondent refers to subsections 66.7(10) and 111(5).
+[83] I will analyze only subsection 111(5), a more general loss streaming provision, as subsection 66.7(10) is an analogous provision dealing with resource expenses.
+[84] Subsections 111(1) and 111(5) of the Act read as follows:
+111(1) Losses deductible - For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such portion as the taxpayer may claim of the taxpayer’s
+(a) non-capital losses - non-capital losses for the 20 taxation years immediately preceding and the 3 taxation years immediately following the year;
+(b) net capital losses - net capital losses for taxation years preceding and the three taxation years immediately following the year;
+(c) restricted farm losses - restricted farm losses for the 20 taxation years immediately preceding and the 3 taxation years immediately following the year, but no amount is deductible for the year in respect of restricted farm losses except to the extent of the taxpayer’s incomes for the year from all farming businesses carried on by the taxpayer;
+(d) farm losses - farm losses for the 20 taxation years immediately preceding and the 3 taxation years immediately following the year; and
+(e) limited partnership losses - limited partnership losses in respect of a partnership for taxation years preceding the year, but no amount is deductible for the year in respect of a limited partnership loss except to the extent of the amount by which
+(i) the taxpayer’s at-risk amount in respect of the partnership (within the meaning assigned by subsection 96(2.2)) at the end of the last fiscal period of the partnership ending in the taxation year
+exceeds
+(ii) the total of all amounts each of which is
+(A) the amount required by subsection 127(8) in respect of the partnership to be added in computing the investment tax credit of the taxpayer for the taxation year,
+(B) the taxpayer’s share of any losses of the partnership for that fiscal period from a business or property, or
+(C) the taxpayer’s share of
+(I) the foreign resource pool expenses, if any, incurred by the partnership in that fiscal period,
+(II) the Canadian exploration expense, if any, incurred by the partnership in that fiscal period,
+(III) the Canadian development expense, if any, incurred by the partnership in that fiscal period, and
+(IV) the Canadian oil and gas property expense, if any, incurred by the partnership in that fiscal period.
+…
+111(5) Idem [business or property losses] - Where, at any time, control of a corporation has been acquired by a person or group of persons, no amount in respect of its non-capital loss or farm loss for a taxation year ending before that time is deductible by the corporation for a taxation year ending after that time and no amount in respect of its non‑capital loss or farm loss for a taxation year ending after that time is deductible by the corporation for a taxation year ending before that time except that
+(a) such portion of the corporation’s non-capital loss or farm loss, as the case may be, for a taxation year ending before that time as may reasonably be regarded as its loss from carrying on a business and, where a business was carried on by the corporation in that year, such portion of the non‑capital loss as may reasonably be regarded as being in respect of an amount deductible under paragraph 110(1)(k) in computing its taxable income for the year is deductible by the corporation for a particular taxation year ending after that time
+(i) only if that business was carried on by the corporation for profit or with a reasonable expectation of profit throughout the particular year, and
+(ii) only to the extent of the total of the corporation’s income for the particular year from that business and, where properties were sold, leased, rented or developed or services rendered in the course of carrying on that business before that time, from any other business substantially all the income of which was derived from the sale, leasing, rental or development, as the case may be, of similar properties or the rendering of similar services; and
+(b) such portion of the corporation’s non-capital loss or farm loss, as the case may be, for a taxation year ending after that time as may reasonably be regarded as its loss from carrying on a business and, where a business was carried on by the corporation in that year, such portion of the non‑capital loss as may reasonably be regarded as being in respect of an amount deductible under paragraph 110(1)(k) in computing its taxable income for the year is deductible by the corporation for a particular year ending before that time
+(i) only if throughout the taxation year and in the particular year that business was carried on by the corporation for profit or with a reasonable expectation of profit, and
+(ii) only to the extent of the corporation’s income for the particular year from that business and, where properties were sold, leased, rented or developed or services rendered in the course of carrying on that business before that time, from any other business substantially all the income of which was derived from the sale, leasing, rental or development, as the case may be, of similar properties or the rendering of similar services.
+[85] Losses can be carried forward or backward under paragraph 111(1)(a). The ability to do so is limited by subsection 111(5) where there is a change of control. Specifically, non-capital losses may not be carried forward following an acquisition of control unless the business in which the losses were incurred continues to be carried on for profit or with a reasonable expectation of profit, and then only to the extent of income from that particular business or a similar business. The relevant portion of the definition of "loss restriction event", found in subsection 251.2(2), refers to the situation where "the taxpayer is a corporation and at that time control of the corporation is acquired by a person or group of persons".
+[86] The Respondent provides a textual, contextual and purposive analysis of subsection 111(5). The Respondent is of the view that the application of subsection 111(5) was circumvented in circumstances where it should have applied. My review of that analysis leads me to conclude that subsection 111(5) was not relied on in the transactions in question and was not circumvented. As a result, I cannot accord to it the primary importance ascribed to it in the Respondent’s arguments.
+[87] Subsection 111(5) was never contemplated to apply to a situation where it is the entity with accrued losses (Nuinsco) that acquires another entity. To put it another way, I am unconvinced that subsection 111(5) applies to profit trading with a loss corporation acquirer such that it can even be said that the parties relied on subsection 111(5) in transacting as they did.
+[88] Subsection 111(5) restricts the loss carryforward of a target corporation's pre-acquisition losses to offset the same corporation's post-acquisition income, or the carryback of the target corporation's post-acquisition losses to offset its pre‑acquisition income. These appear to me to be specific circumstances in which the corporation being acquired cannot use its own losses to offset its own income. In our case, Nuinsco carried forward its losses from before it acquired Partnerco to offset its later income, allocated to itself by virtue of it becoming a partner of HLP after acquiring and winding up Partnerco. Nuinsco is the acquiring corporation rather than the target corporation—it did not undergo a loss restriction event. The application of subsection 111(5) is entirely predicated on finding such an event to have occurred.
+[89] Partnerco did undergo a loss restriction event, but there is no indication in subsection 111(5) that it was meant to prevent the acquiring party from using its own losses against post-acquisition income allocable to that acquiring corporation indirectly due to its acquisition of the target corporation. The attribution of the income from HLP to Nuinsco and its utilization of its prior non-capital losses against such income did not circumvent subsection 111(5), and Partnerco complied with the wording of the subsection but did not rely on its effect.
+[90] While I admit that the distinction is a fine one between a transaction that offends the purpose or rationale of a provision in a manner that circumvents it and a transaction that falls outside the scope of that provision altogether, the representations of both parties have convinced me that this is the latter case. Briefly said, subsection 111(5) precludes certain forms of loss trading. It does not deal with profit or gain trading, except insofar as it generally precludes the target’s own post-acquisition losses from offsetting pre-acquisition income. As a result, this is distinguishable from the situation in which a taxpayer unexpectedly relies on a loophole contained in a provision so as to circumvent the provision’s attempt to implement the policy that Parliament intended, either by its enactment or by that of the wider legislative scheme of which it is a component.
+[91] I am reinforced in this conclusion by considering the purpose of subsection 111(5), as outlined in the parties’ submissions and in the caselaw. In noting the broadest ambit of that with which subsection 111(5) could be said to deal, the SCC stated that “the general purpose of s. 111(5) may be to prevent the transfer of non-capital losses from one corporation to another”. [33] To draw the net of subsection 111(5) wider still would be to expand subsection 111(5) to cover both the transfer of losses and of income from one corporation to another. Justice Campbell in Loyens rejected a similar overbroad interpretation of the purpose of subsection 111(5). [34]
+[92] The Respondent refers to OSFC Holdings, where the FCA found that a general policy against loss trading among corporations had been abused. [35] However, our case does not involve loss trading like that seen in OSFC Holdings. In OSFC Holdings, a corporation transferred accrued losses on a portfolio to another corporation, and this latter corporation used those losses to offset its own income. In our case, a corporation with accrued losses acquired a corporation in order to become a partner and be allocated partnership income, against which it deducted those accrued losses. Our situation is a case of profit trading rather than loss trading. While, as noted above, subsection 111(5) is important to the broader GAAR analysis, the transactions in question do not rely on that provision. The Supreme Court has been clear, most recently in Copthorne, that the GAAR analysis seeks to interpret the provisions actually relied on by the taxpayer with a view to discerning their underlying purpose.
+[93] Therefore, the usefulness of subsection 111(5) to the Respondent's position is limited to showing the broader context of the Act together with the provisions actually relied on by Partnerco, and that subsection 111(5) is evidence of a general policy against loss trading that was abused by the transactions at issue.
+(ii) Subsections 69(11) & 83(2.1)
+[94] The Respondent also refers to subsections 69(11) and 83(2.1).
+[95] Subsection 69(11) prevents the tax-deferred transfer of property to an unaffiliated person where that transfer is made for the purpose of having accrued gains on the property sheltered by deductions available to the unaffiliated person. Subsection 69(11) is specific in its application, requiring an initial disposition of property at less than fair market value and a subsequent disposition within three years of that property or substituted property. Subsection 83(2.1) is an anti‑avoidance rule targeting situations where shares of a corporation are acquired for the purpose of receiving a capital dividend.
+[96] I do not find these provisions relevant to the case at bar. These provisions were not relied upon by Partnerco or Nuinsco to obtain the tax benefit, nor has the Respondent convinced me that they form part of the context in the textual, contextual, and purposive analysis of the provisions relied on in any meaningful way. As stated in Copthorne, "not every other section of the Act will be relevant in understanding the context of the provision at issue. Rather, relevant provisions are related 'because they are grouped together' or because they “work together to give effect to a plausible and coherent plan”. [36]
+(iii) Section 103
+[97] The Respondent also referred to subsections 103(1) and 103(1.1). These are anti-avoidance provisions allowing the Minister to reallocate partnership income or losses (or other relevant amounts) in a manner different than that set out in the partnership agreement. Looking at subsection 103(1), the Minister is permitted to do this where “the principal reason for the agreement may reasonably be considered to be the reduction or postponement of the tax that might otherwise have been or become payable under this Act”. These provisions also were not relied upon in obtaining the tax benefit, but they clearly do form part of the context of the partnership provisions.
+[98] These provisions target partnership agreements that are tax-motivated or that are unreasonable. This Court refused to apply subsection 103(1) to a situation where the allocation initially specified in the partnership agreement was not tax-motivated but a subsequent acquisition of a partnership interest was tax‑motivated. [37] On the other hand, this Court has also found that upon the entry of a new member to a partnership, the reasonableness of an allocation scheme should be determined based on how the members at that time use the scheme, even if the allocation scheme was the same before and after the entry. [38]
+[99] In this case, the allocation scheme in the HLP partnership agreement had not changed since the creation of the partnership. According to the scheme, profit and losses would be allocated according to the capital contributions of the partners. There is no indication that this scheme was chosen for tax purposes or that it was unreasonable.
+[100] After Nuinsco became a limited partner of HLP, the membership at that time consisted of Nuinsco as a 99.9% limited partner and GPCo (who was wholly owned by Nuinsco) as a 0.1% general partner. Income was allocated in proportion to the parties’ interests in the partnerships. There is no indication that, as between Nuinsco and GPCo, this would have been unreasonable.
+[101] Where the problem would potentially lie is the allocation scheme as between new and former partners. The partnership’s cash ended up in the hands of a former partner’s parent (the Appellant), while the partnership’s income was allocated to the new member. Is section 103 indicative of a general policy against allocating profit in this way? The Appellant argues that section 103 does not concern allocation to former members. I note however paragraph 96(1.01)(a), which deems a partner who ceases to be a member of a partnership partway through a fiscal period to be a member of the partnership at the end of the fiscal period for the purposes of several sections, one of which is 103. To date, paragraph 96(1.01)(a) has not received judicial consideration. It was open to the Respondent to argue that the combination of paragraph 96(1.01)(a) and section 103 demonstrate a general policy against profit trading between new and former members; having failed to do so, it is not for me to expand the lis of the parties.
+[102] I conclude that subsections 103(1) and 103(1.1) do not help the Respondent establish a general policy against profit trading.
+(iv) Other Provisions
+[103] I now turn to the provisions that, in my view, actually were relied on to obtain the tax benefit. The transactions directly relied on the operation of subsections 96(1) and 111(1), as well as the related provisions in section 66.7 permitting the carryover of Canadian exploration expenses and Canadian development expenses. The onus was on the Respondent to show that the object, spirit or purpose of these provisions was abused. The Respondent has failed to do so and therefore has failed to justify the Partnerco reassessment.
+[104] Subsection 96(1) was used to allocate the partnership income to Nuinsco at HLP’s fiscal year end. The Respondent did not provide an analysis of the subsection so as to establish the object, spirit or purpose of this provision. While this would end my inquiry, I would also note my own view that the object, spirit, or purpose of section 96 was not abused.
+[105] Subsection 96(1) sets out the flow-through structure of partnerships. The income of the partnership is computed as if the partnership were a separate person [39] and as if its taxation year was its fiscal period. [40] The partnership's income or loss is flowed through to its partners in accordance with their share of the partnership, and a partner includes his or her portion of the partnership's income or loss in his or her taxation year containing the partnership's fiscal year end. [41]
+[106] Generally, the partnership's income is allocated according to the partnership agreement. This means that, as in this case, the partnership regime allows the partnership's income to be allocated to an entity that becomes a partner partway through the fiscal period. In other words, the identity of the partners may change throughout the fiscal year through the purchase and sale of partnership interests, but the allocation of income can be made at the fiscal year end based on membership of the partnership at that time, provided the partnership agreement specifies this.
+[107] Textually, this treatment arises from paragraph 96(1)(f), which provides that a partner's income will be computed as if
+"the amount of the income of the partnership for a taxation year from any source or from sources in a particular place were the income of the taxpayer from that source or from sources in that particular place, as the case may be, for the taxation year of the taxpayer in which the partnership’s taxation year ends, to the extent of the taxpayer’s share thereof;
+[Emphasis added]
+[108] "The taxpayer's share thereof" would be determined in accordance with the partnership agreement.
+[109] The context of the partnership regime supports this. Apart from certain provisions governing allocations made to former partners and the anti-avoidance rules in section 103 (previously discussed), nothing in the partnership regime prevents a partnership agreement from basing its allocation of income on the membership at its fiscal year-end. An example of a provision dealing with income allocation to a former member is subsection 96(1.01). Paragraph 96(1.01)(a) deems a taxpayer who ceases to be a member of a partnership during a fiscal period to be a member of the partnership at the end of that fiscal period. However, though deemed to be a partner, the former member's allocation of partnership income would still be calculated in accordance with the partnership agreement, subject to the potential application of section 103.
+[110] The purpose of the partnership provisions was canvassed in Mathew, where McLachlin C.J. and Major J. stated that the partnership provisions permit loss sharing among partners in order to promote an organizational structure that allows partners to carry on a business in common. [42] This reasoning would presumably apply to profit sharing as well. However, this neither supports nor negates the notion that the partnership provisions intend that partnership income can be allocated based on membership at the fiscal year end.
+[111] The tax plan in Mathew was the same as the one in OSFC Holdings. The plan used the partnership rules in section 96 in conjunction with subsection 18(13), a stop-loss rule that allowed a portfolio of loans with accrued losses to be transferred to a partnership at cost. McLachlin C.J. and Major J. found that both provisions had been abused. They grounded the abuse on the premise that subsection 18(13) intends those accrued losses to be realized by a non-arm’s length transferee, while they had in fact been transferred to an arm's length party. A partnership structure was used as a vehicle to transfer these losses in a way that was wholly unintended by subsection 18(13). They held that, "Parliament could not have intended that the combined effect of the partnership rules and s. 18(13) would preserve and transfer a loss to be realized by a taxpayer who deals at arm's length with the transferor. To use these provisions to preserve and sell an unrealized loss to an arm's length party results in abusive tax avoidance under s. 245(4). Such transactions do not fall within the spirit and purpose of s. 18(13) and s. 96, properly construed." [43]
+[112] The abuse in Mathew of the partnership rules was linked to the abuse of subsection 18(13) and identified in light of the acknowledged general legislative policy of prohibiting loss transfers between taxpayers, subject to specific exceptions. In our case, section 96 for the most part stands alone and the legislative context highlighted by the Respondent does not clearly evidence a policy against profit trading. The partnership provisions and subsection 111(1) were relied on by the parties to the transaction, but I am unconvinced that either set of provisions, acting alone or in concert, has been abused. This distinguishes our case quite clearly from Mathew.
+[113] Subsection 111(1) permitted Nuinsco to offset the partnership income with previous losses. Paragraph 111(1)(a) itself contains no restrictions on the sources of income against which previous losses can be offset. Nuinsco using existing non-capital losses to offset the partnership income does not offend paragraph 111(1)(a). Subsection 111(5) does restrict the use of prior losses where there is an acquisition of control of the corporation that has accrued (or will accrue) those losses, but subsection 111(5) contains specific conditions to its application and, as noted above, it does not evidence a general policy in the Act against profit trading.
+[114] To sum up, I do not find in the section 96 partnership provisions, subsection 111(1), subsection 111(5), or any of the other provisions, the general policy proposed by the Respondent. As I have found that the policy alleged to be abused has not been made out, it follows that the requisite abuse has also not been made out. This is especially so once one remembers that the Respondent bears the onus of proving abuse, and that "if the existence of abusive tax avoidance is unclear, the benefit of the doubt goes to the taxpayer". [44] The Respondent has failed to discharge that onus, so the taxpayer is certainly entitled to the benefit of the doubt.
+[115] Given that I am of the view that the general policy put forwarded by the Respondent is unable to be demonstrated, I find it of little use to go on to consider whether the transactions at issue offended the hypothetical policy proposed by the Respondent. The absence of evidence of such a policy being my primary concern, it would be improper of me to speculate as to what I would have done had such evidence been before me.
+(d) Reasonable tax consequences
+[116] I would however like to address one more area of disagreement between the parties regarding the Partnerco Reassessment. The Appellant argues that if the three requirements of the GAAR are met, then the Minister still erred by failing to determine reasonable tax consequences, contrary to subsection 245(2).
+[117] Specifically, the Appellant argues that it was not reasonable for the Minister to ignore the deemed year end arising from Partnerco’s acquisition by Nuinsco, since the Minister could have denied the tax benefit obtained by Partnerco without doing so. The Minister could have either (1) assessed Nuinsco to deny the deductions it claimed against the partnership income, or (2) included HLP's income in Partnerco’s stub period from May 29 to June 1, 2006, rather than ignoring the deemed year end and including the partnership income in a notional period spanning May 1, 2006 to June 1, 2006. According to the Appellant, the Minister sought to ignore the deemed year end for the purpose of being able to generate a factual foundation for assessing the Appellant under the GAAR and section 160. [45]
+[118] The first proposed alternative would be dependent on my finding that the tax benefit accrued to Nuinsco rather than Partnerco. As I have found that Partnerco received a tax benefit, I accordingly reject this argument.
+[119] I find the second alternative compelling. According to subsection 245(2), the Minister is to determine the tax consequences that are reasonable in the circumstances in order to deny the tax benefit resulting from the abusive series of transactions. The broad definition of “tax consequences” in subsection 245(1), combined with paragraph 245(5)(d), would allow the Minister to ignore the deemed year end in the proper circumstances. Chief Justice Bowman in XCO Investments held that what is reasonable must depend on all of the circumstances, but that the Minister’s determination is not to be afforded the deference attributable to a discretionary decision. [46]
+[120] In responding to this question, I must keep in mind the goal of the redetermination as being the denial, in whole or in part, of the tax benefit at issue. The reasonableness of each determination by the Minister must be evaluated with a view to the end goal in pursuit of which the action is made. From the text of subsection 245(2), it becomes clear what is reasonable is based on the circumstances giving rise to the tax benefit, since the inquiry looks at the actions that would have been reasonable to deny that tax benefit. I previously found that the tax benefit was the diversion of income from Partnerco to Nuinsco, ultimately reducing the amount of tax paid on the partnership income.
+[121] I agree with the Appellant that the Minister could have denied this tax benefit by allocating the partnership income back to Partnerco without ignoring the deemed year end. Ignoring the deemed year end had no effect on the particular tax benefit identified in the GAAR assessment of Partnerco. The income reallocated to Partnerco through GAAR did not change from ignoring the deemed year end. Viewed from the lens of the tax benefit as contemplated in the Partnerco reassessment, there was no reason to ignore the deemed year end. Therefore, I find that doing so was unreasonable.
+[122] This is strengthened by the notion that the Minister could have acknowledged the deemed year end without being prevented adopting a different treatment in the Holdco Assessment. The deemed year end could be ignored as a reasonable tax consequence in applying GAAR to the Appellant, thus paving the way for section 160 to also be applied as a result of GAAR. This is because the tax benefit obtained by the Appellant was the avoidance of section 160, such avoidance being made possible because of the deemed year end. Therefore, it would be reasonable for the Minister to ignore the deemed year end as a reasonable tax consequence in denying the Appellant’s tax benefit.
+[123] Therefore, the Holdco Assessment could still have been maintained if the GAAR had been properly applied to Partnerco so as to create the tax debt in question.
+(3) Holdco Assessment
+[124] The Appellant has been further assessed under the GAAR on the basis that the transactions in question constitute an abuse of section 160 of the Act.
+(a) Existence of a Tax Benefit
+[125] The Appellant disputes whether a tax benefit arose to it a result of the alleged avoidance transactions. In so doing, it highlighted the transactions involving the Appellant and Partnerco that are submitted by the Respondent to be avoidance transactions:
+1. The issuance of stock dividends to the Appellant by Partnerco;
+2. The redemption in cash of the preferred shares distributed to the Appellant by Partnerco; and,
+3. The agreement to lend funds to Nuinsco sufficient to purchase the outstanding shares of Partnerco, the purchase of the shares of Partnerco by Nuinsco, and the Nuinsco Loan.
+[126] The Appellant maintains that none of these transactions gave rise to a tax benefit. With respect to the issuance of the stock dividend, the Appellant maintains that the law is clear that a stock dividend does not give rise to a transfer of property within the meaning of subsection 160(1). [47] Insofar as the Appellant had its preferred shares redeemed by Partnerco, the Appellant says it provided FMV for the cash received for the surrender of its preferred shares.
+[127] With respect to the loaning of funds, the Appellant denied that that any such transaction took place. In addition, any such loan would not be a transfer of property to Nuinsco given the issuance of a promissory note for that amount by Nuinsco, while the sale of the shares of Partnerco held by the Appellant was for fair market value. The loaning of funds by HLP to Nuinsco was therefore not a transfer of property from Partnerco to it.
+(i) Issuance of stock dividends
+[128] The stock dividend must constitute a transfer of property in common law in order for section 160 to have a hope of otherwise applying to this particular aspect of the series of transactions (but for the deemed year end). I agree with the holding of Rip J. in Algoa Trust on whether the issuance of a stock dividend is a transfer of property. I would further note that the Federal Court of Appeal dealt with a similar issue in Biderman. [48]
+[129] In Biderman, a tax debtor was both the executor of the estate and entitled to a share in the estate under the Will of his wife, the deceased. He formally executed a disclaimer of his interest in the estate and transferred property out of the estate to the other beneficiaries (their children). The Minister assessed the children under subsection 160(1), alleging that the disclaimer of his interest in the estate acted as a “transfer” of his share to the other beneficiaries.
+[130] The Federal Court of Appeal dismissed the taxpayer’s appeal on the basis that the tax debtor had not validly disclaimed his interest. After having provided extracts from the leading jurisprudence on section 160, the Court stated that it “is clear that, in all these cases, the transferor owned the property that was the subject of the transfer and that a transfer of property under subsection 160(1) requires that the transferred asset be the "property" of the transferor. […] However, the situation is different in the case of a valid disclaimer of a gift.” [49]
+[131] As in the case of Algoa Trust and stock dividends, a “disclaimer does not involve a vesting and divesting of property. Consequently, where there is a valid disclaimer, there is, in my view, no transfer of property, direct or indirect, and paragraph 160(1)(c) cannot apply to the person who so disclaims.” [50]
+[132] In order for subsection 160(1) to apply on this point, the stock dividend must therefore constitute a divesting of property. As in Algoa Trust, I conclude that Partnerco did not divest itself of its property when it issued the preferred shares to the Appellant.
+(ii) Redemption of the preferred shares
+[133] The share redemptions did involve a transfer of property from the Partnerco to the Appellant but the FMV of those shares was equivalent to the cash paid for them. I find that the Appellant has demonstrated that the Minister’s assumption that Partnerco did not receive fair market consideration for redeeming the preference shares is incorrect. I would consider the tax attributes of those shares as agreed to by the parties, the assets of Partnerco at the time of the redemption insofar as they support the likelihood that Partnerco would be able to pay the redemption value, and the ability of Partnerco to satisfy the tax liability that could arise as of the end of HLP’s year-end without rendering it unable to redeem the shares. These facts lead me to conclude that the shares issued in the First Stock Dividend were redeemed for fair market consideration. As a result, no liability would be established under subsection 160(1) due to this redemption.
+[134] The Respondent has submitted that I should interpret the phrase “fair market value […] of the consideration given for the property [transferred from the tax debtor]” in a nuanced way that would render nominal the surrender of the shares arising out of a stock dividend. The Respondent has however failed to show how the text, context and purpose of section 160 lead to such a conclusion. Submissions dealing with this point were limited in their scope except in respect of the purpose of section 160. If I may characterize the Respondent’s submissions on this point, they would be frustration at the notion that a benefit may be conferred on a related party without a transfer of property that could give rise to liability under section 160. The purposive argument of the Respondent seems concerned with convincing the Court that a purposive interpretation of these two concepts should make them identical regardless of the text used by Parliament.
+[135] To take another example, say we were in a similar fact scenario to that in Biderman. If the interest that the executor disclaimed and which therefore was conferred on his children consisted of redeemable preference shares in a company in which the debtor held a residual interest, it may be that subsequent action involving those shares could change the form of the property held by the children (say the redemption of the shares for cash) but not its fair market value. [51] It could also effect a reduction in the value of the interest of the tax debtor. Must I therefore conclude that the surrender of the old property for the new property deems the old property to have no fair market value because of the circumstances in which it was originally acquired? I do not accept the Respondent’s proposed interpretation of the phrase in question. I conclude that the redemption price of the shares in question represents their fair market value when considered en bloc with the control exercised by the Appellant over Partnerco. [52]
+(iii) Purchase of Partnerco and the Nuinsco Loan
+[136] The purchase by Nuinsco of the common shares and the preference shares issued in the Second Stock Dividend is, in my view, an indirect transfer of property from Partnerco to the Appellant, when considered in conjunction with the steps leading to and including the Nuinsco Loan.
+[137] HLP loaned an amount in question to Nuinsco that would have been otherwise able to be distributed to Partnerco and its fellow partners. As a result, the Partnercos indirectly transferred property to Nuinsco and then on to the Appellant and the other Holdcos. I accept that the use of an intermediary does not make this any less an indirect transfer of property, “by any other means whatever”, from Partnerco to the Appellant. I recall the decision in Strachan, wherein Chief Justice Rip (as he then was) held that a transfer of property made by the private corporation of a tax debtor would still be a transfer in any manner whatever by that tax debtor under section 160. [53] Similarly, that HLP transferred the funds to Nuinsco so as to purchase the Partnerco shares does not avoid the fact that it resulted in a transfer of property to the Appellant from Partnerco.
+[138] The question is therefore whether Partnerco transferred this property for less than FMV. The direct result of the transfer for Partnerco was that HLP received a promissory note from Nuinsco for the amount of the loan. Unquestionably, the end result of this set of transactions was that the purchase price for the Partnerco shares exceeded the amount by which the value of the assets still held by Partnerco exceeded the full amount of its latent tax liability.
+[139] The Minister had assumed that the fair market value of the Partnerco shares, being both the redeemable preference shares and the common shares sold as a bloc, was nominal as of May 29, 2006. This was so because of the embedded tax liability associated with those shares due to Partnerco’s status as a limited member of HLP. While HLP held either cash on hand of $4.4 million or the promissory note from Nuinsco for that amount at the relevant time, it cannot be ignored that ownership of a partnership interest in HLP as of its year-end carried with it tax consequences on amounts allocable at that year-end.
+[140] Caselaw in both the tax context and in the context of determining “fair value” under the Canada Business Corporations Act has accepted the notion that it can be appropriate to include embedded tax liabilities in certain circumstances. [54]
+[141] In the VIH Logging case, Woods J. (as she then was) was faced with a case where the shares of a wholly-owned and profitable private corporation (“Old VIH”) were exchanged for shares of a newly incorporated private corporation (“VIH”). Old VIH then sold all of its assets to its parent, VIH, retaining only enough funds to pay its anticipated tax liability on its profits. Old VIH then paid cash and stock dividends to its parent. Old VIH would then go on to buy seismic data in a transaction that allowed it to defer the tax liability to another year.
+[142] Woods J. accepted the uncontradicted expert valuation of the shares of Old VIH between the time of the dividends and the time of the seismic data purchase (two days). She found that the value of the shares of Old VIH was nominal because its cash on hand exactly corresponded to its anticipated tax liability. [55]
+[143] In another case, the deceased taxpayer was the sole shareholder of a holding company that in turn held a 50% share in a Canadian operating company and a 33% share in an American operating company. Campbell J. concluded that the imbedded capital gains that would arise on a distribution by the holding company of its shares in the operating companies should be taken into account in valuing the FMV of the holding company’s shares. [56]
+[144] I view it as appropriate for the Minister to have factored in the tax liability arising out of the allocation of the partnership income to the partners at HLP’s year-end. In so doing, the Minister assumed that the FMV of the Partnerco shares (both the common and the preferred shares) purchased by Nuinsco was nominal. This can be contrasted from the situation where solely the preference shares were sold to an arm’s-length purchaser. The Appellant has not demolished the Minister’s assumption.
+[145] Furthermore, it would seem that this is one of those instances in which common sense, when confronted with the redemption value of the preferred shares, would suggest that a sale to any other third party would require a sale of both the common and preferred shares as a bloc to maximize the sale price. [57] The absence of the control granted by the common shares would have been keenly felt by the buyer of the preference shares, who would be presumably hard pressed to convince Partnerco to redeem the preferred shares in light of the tax liability. The lack of any assets to satisfy the return of capital of those common shares after satisfying the preference shares also suggests that the transfer would have not been for FMV. As I have concluded that the Minister’s assumption has not been rebutted, the Respondent was not absolutely required to address this.
+[146] While these points go to determining the fair market value of the Partnerco shares transferred from the Appellant, they do not go to assessing the value of the promissory note issued by Nuinsco in favour of HLP. The fact is that HLP replaced cash on hand with indebtedness of equal value. The Minister did not assume that the FMV of the promissory note held by HLP was less than the Nuinsco loan itself. Whether or not Nuinsco in turn overpaid the Appellant for its shares is irrelevant to the assessment of the fair market value of the consideration for the loan, since the value of the promissory note was not dependent on the value of the Partnerco shares but rather on the funds borrowed by Nuinsco.
+[147] I conclude that Partnerco transferred $867,254 to the Appellant indirectly by way of the loan to Nuinsco on the understanding that it would, at the very least, replace funds used by Nuinsco to purchase the outstanding shares of Partnerco for more than their fair market value. The Appellant has failed to rebut the Ministerial assumption on this point. However, this is not decisive and does not demonstrate that section 160 would have otherwise applied. The Appellant has shown that at the end of this series of transactions, Partnerco was left none the poorer. It remained a limited partner in HLP right upon until its winding-up, while the assets of HLP changed from cash to a promissory note of the same value. As a result, I cannot conclude that there would have been an underlying liability under section 160.
+[148] Without Nuinsco’s purchase of Partnerco, there would have been no deemed year end for Partnerco and no winding-up, so that the partnership income would have been allocated to Partnerco as of June 1, 2006. While this would have made Partnerco a tax debtor (albeit potentially one able to meet its liabilities), the Appellant has demonstrated that there was no transfer of property from Partnerco to the Appellant for less than FMV.
+[149] While I have concluded that there was no tax benefit arising to the Appellant, I will go on to consider the rest of the GAAR analysis on this matter in the event that I have erred. For this purpose, I will assume that the transactions produced a tax benefit within the meaning of the GAAR that was occasioned by the on-loaning of funds to Nuinsco and its use by Nuinsco to either purchase the Appellant’s shares or to replace funds used for that purchase.
+(b) Existence of an Avoidance Transaction
+[150] Given the above-stated analysis of the series of transactions, which are covered in the Agreed Statement of Facts, it is clear that an avoidance transaction existed. In particular, the sale of the Appellant’s interest in Partnerco is one of the avoidance transactions featured in the analysis of the Partnerco assessment. It also demonstrates the existence of an avoidance transaction here.
+(c) Misuse or abuse
+(i) The Purpose of Section 160
+[151] The Respondent has provided a detailed legislative history of section 160 of the Act, beginning with its enactment in 1951. It submits that its main purpose is to enable the Minister to collect the tax debt of one person from another.
+[152] It is undisputed between the parties that section 160 is part of the powers provided to the Minister to collect taxes owed that would otherwise not be obtainable in situations where tax debtors evade their creditors. [58] The purpose of section 160 is to protect the integrity of a tax debtor's assets against a transfer of that person's property to non-arm's length persons where that transfer thwarts, or could thwart, collection of a tax debt. The concepts of “transfer” and of “property”, when read in conjunction with the phrase “either directly or indirectly, by means of a trust or by any other means whatever”, in section 160 are of wide ambit, [59] which reflects the jurisprudential recognition of this purpose. The statement in Addison & Leyen that long delays before the Minister assesses under section 160 do not in of themselves warrant judicial intervention reflects in part the significance of Parliament having provided no limitation period on a section 160 assessment. [60]
+[153] The Federal Court of Appeal in Livingston stated that the “very purpose of subsection 160(1) is to preserve the value of the existing assets in the taxpayer for collection by the CRA. Where those assets are entirely divested, subsection 160(1) provides that the CRA's rights to those assets can be exercised against the transferee of the property.” [61] This purpose is reflected in the limitation of joint and severable liability in section 160 to the amount the transferor is liable to pay under the Act in or in respect of the taxation year (or any preceding taxation year) in which the property was transferred.
+[154] As part of the explanation of the legislative history of section 160, the Respondent has noted that prior to 1983 the relevant date for making a determination as to whether the transferor was a tax debtor was at the time of transfer. Amendments made to the Act in 1983 would henceforth provide that section 160 would apply to transfers occurring in the same taxation year as the moment where the transferor incurs the tax liability.
+[155] Furthermore, the Respondent correctly notes that both before and after the 1983 amendment, the Act imposes liability for income tax the moment the income in question is earned. As noted by C. Noël ACJ in Simard-Beaudry:
+20 As to his second argument, namely that the debt arising from re‑assessment of the taxpayer dates only from the time that the taxpayer is assessed, and that it did not, accordingly, exist at the time the agreement was made, it seems to me that the answer to this is that the general scheme of the Income Tax Act indicates that the taxpayer's debt is created by his taxable income, not by an assessment or re-assessment. In fact, the taxpayer's liability results from the Act and not from the assessment. In principle, the debt comes into existence the moment the income is earned, and even if the assessment is made one or more years after the taxable income is earned, the debt is supposed to originate at that point. Here the re-assessments issued on August 14, 1969, for income earned in previous years seem to me to be at most a confirmation or acknowledgment of the amounts owing for these earlier years. Indeed, in my opinion, the assessment does not create the debt, but is at most a confirmation of its existence. It also seems to me that the Court must assume that Simard & Frères Cie Ltée owes the amounts for which it was assessed, since these amounts have not been challenged by the taxpayer, nor, moreover, by the defendant in this action, who could, however, have done so, since copies of the re-assessments in respect of the mise en cause were supplied to defendant the same day as they were delivered to the mise en cause. The amounts so assessed, which were not challenged, are thus debts owed by the taxpayer as from the end of each of the years in question. [62]
+[Emphasis added]
+[156] In the context of section 160 as it now reads, I note the decision of Justice Lamarre Proulx in Jurak, where she held that it “is a recognized principle in tax law that it is not the assessment that creates a tax liability, but the application of the Act. The assessment merely recognizes the debt.” [63] The example of Heavyside, in which the Federal Court of Appeal concluded that section 160 applies to a transfer from a husband to a wife where the husband was liable to pay tax even if the husband went bankrupt before either he or his wife were assessed, further demonstrates this point. [64]
+[157] The Respondent has made submissions on the fact that Parliament has limited the ambit of section 160, speculating that it may exist since, in respect of subsequent taxation years, a connection between a transfer of property for inadequate consideration and the transferor’s tax liability is weaker.
+[158] It submits that the definition of “fiscal period” contained in section 249.1 of the Act has existed, in one form or another, since the enactment of what is now section 160. It is argued that this definition was taken into account when converting the underlying policy concerns driving the enactment of section 160 into the provision itself. The Respondent also notes that the modification of a fiscal period, where available, is not to be done lightly and can only be done on consent of the Minister.
+[159] The Respondent finally highlights the effect of subsection 249(4) of the Act, which deems a corporation, the control of which has changed, to end its taxation year immediately before the change of control occurs. This deemed year‑end rule fixes the time at which the corporation's gains and losses must be reconciled for future recognition and utilization. That corporation will begin a new taxation year immediately after the acquisition of control, and it may use a new fiscal year-end independent of the prior fiscal periods that may have been applicable at the change of control. The Respondent submits the Technical Notes accompanying the introduction of subsection 249(4) and a Finance press release as evidence of the proposition that its enactment was part of Finance’s prevention of the “inappropriate transfer of unusable tax deductions and credits to unrelated taxpayers.” [65] The Respondent views subsection 249(4) as a key component of a broader interlocking mechanism within the Act designed to prevent arm’s length taxpayers from buying and selling tax losses, deductions or credits.
+[160] The Respondent submits, on this basis, that the Nuinsco transactions were abusive of section 160.
+(ii) Abuse of section 160
+[161] The Respondent has maintained that the Appellant used the effect of the deemed year end rules to avoid the application of section 160, thereby circumventing it and frustrating its purpose. While the Respondent acknowledges that there was no reliance by the Appellant on section 249.1 and that there may have nothing improper in of itself in the dividends paid by the Partnercos to the Holdcos, the subsequent sale of the shares of the Partnercos prior to the Partnercos’ year-end made the previous transactions problematic. The Respondent cites the criteria for an abuse established by LeBel J. in Lipson; namely, that an abusive transaction must achieve an outcome that the statutory provision was intended to prevent, defeat the underlying rationale of the provision or circumvent the provision in a manner that frustrates or defeats its object, spirit or purpose. [66]
+[162] The Respondent says that “the Partnercos turned to subsection 249(4) of the Act in order to circumvent section 160 in circumstances where its application would be in accord with its purpose and its circumvention frustrates that purpose”. [67] In so doing, the Respondent draws an analogy to the Mathew appeal, where, as previously mentioned, the Supreme Court found that the transactions defeated the purpose of both subsection 18(13) and section 96.
+[163] The Respondent highlights the comments of Rothstein JA (as he then was) in dissent in the judgment of the FCA that led to the Supreme Court's decision in Addison & Leyen. [68] Notably, his dissent was later cited with approval in Addison & Leyen, where the Supreme Court quoted the following paragraph:
+92 […] [Section 160] only affects transfers of property to persons in specified relationships or capacities and only when the transfer is for less than fair market value. Having regard to the application of subsection 160(1) in specific and limited circumstances, Parliament's intent is not obscure. Parliament intended that the Minister be able to recover amounts transferred in these limited circumstances for the purpose of satisfying the tax liability of the primary taxpayer transferor.
+[164] The Appellant submits that a finding of abuse should be approached cautiously, mindful of the effect that the invocation of the GAAR can have on the legitimate tax planning of other taxpayers. It proffers the observation by the Supreme Court that “Parliament intends taxpayers to take full advantage of the provisions of the Income Tax Act that confer tax benefits. Indeed, achieving the various policies that the Income Tax Act seeks to promote is dependent on taxpayers doing so.” [69] This point is, however, dependent on determining Parliamentary intent on whether the tax benefit in question was intended to be conferred or whether it goes against the policy that the Act seeks to promote.
+[165] Furthermore, I consider that the jurisprudence provides protection against thwarting Parliamentary intent in the manner contemplated by the Supreme Court. I note the holding by the Federal Court of Appeal in Lehigh that: [70]
+37 […] the fact that an exemption may be claimed in an unforeseen or novel manner, as may have occurred in this case, does not necessarily mean that the claim is a misuse of the exemption. It follows that the Crown cannot discharge the burden of establishing that a transaction results in the misuse of an exemption merely by asserting that the transaction was not foreseen or that it exploits a previously unnoticed legislative gap. As I read Canada Trustco, the Crown must establish by evidence and reasoned argument that the result of the impugned transaction is inconsistent with the purpose of the exemption, determined on the basis of a textual, contextual and purposive interpretation of the exemption.
+[Emphasis added]
+[166] Indeed, in Lehigh and in Gwartz the Crown failed to discharge that burden of demonstrating that the appeal in that case involved such a result. The analogy that the Crown seeks to draw is between the case at bar and the exemptions at play in those appeals, where there was no ambiguity as to whether the taxpayer qualified for the exemption. In Lehigh, for instance, the FCA stated that a transaction could abuse such a bright line test. [71]
+[167] I accept the position of the Respondent that the GAAR may apply when dealing with a provision, the scope of which Parliament has chosen to restrict or limit so as to exempt certain transactions that might otherwise be caught by more general language. In this case, a fair reading of section 160 of the Act with regard to its text, context and purpose leads to the conclusion that it supports the position provided by the Respondent. As held in Canada Trustco, such a policy must arise out of an analysis anchored in a textual, contextual and purposive interpretation of the provisions at issue. [72] But such an analysis seeks to identify what the underlying policy of the provisions at issue is, rather than the “traditional statutory interpretation” issue of how a purposive reading affects the interpretation of the provision’s meaning. The Supreme Court has made that distinction clear when it noted that “[w]hen the Minister invokes the GAAR, he is conceding that the words of the statute do not cover the series of transactions at issue” or do not otherwise restrict the behaviour alleged to be abusive. [73] In this case, I find that the Respondent has sufficiently demonstrated the existence of an underlying policy against allowing those who incur liability for income tax from reducing, through transfers to non-arm’s length parties at a time where the transferor is so liable or reasonably likely to anticipate incurring such liability, the pool of assets with which they may satisfy that tax debt.
+[168] Furthermore, I am convinced that the manner in which the series of transactions operated so as to allow for the transfer of cash from HLP indirectly to the Appellant while footing Nuinsco or Partnerco itself with the tax liability due to the operation of the deemed year end rules was abusive of section 160. But for the deemed year end, section 160 would have applied to make the Appellant liable for Partnerco’s tax debt due to the indirect transfer to the Appellant during the same taxation year. This was thwarted by the divorcing of the actual partnership income from the allocation of it for tax purposes and abused section 160 in so doing.
+[169] My consideration of these matters is tempered however by my recognition that the assessment of the Appellant should still be vacated since there is no underlying tax debt owing by Partnerco. My conclusion as to the lack of a tax benefit to the Appellant similarly tempers these observations. I have not considered the issue of the timing of the income arising out of the exercise of the Put Agreement, given my conclusions above.
+V. Conclusion
+[170] For the reasons stated above, I would vacate the assessment under appeal, with costs to the Appellant.
+[171] I would be remiss if I did not thank counsel for well-organized, well‑argued information and overall excellent presentations on this appeal.
+Signed at Ottawa, Canada, this 15th day of December, 2016.
+“E.P. Rossiter”
+Rossiter C.J.
+CITATION:
+2016 TCC 288
+COURT FILE NO.:
+2013-4033(IT)G
+STYLE OF CAUSE:
+594710 BRITISH COLUMBIA LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+May 9, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Eugene P. Rossiter,
+Chief Justice
+DATE OF JUDGMENT:
+December 15, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Steven Cook and S. Natasha Reid
+Counsel for the Respondent:
+Robert Carvalho, Perry Derksen and Whitney Dunn
+COUNSEL OF RECORD:
+For the :
+Name:
+Steven Cook and S. Natasha Reid
+Firm:
+Thorsteinssons LLP
+Vancouver, B.C.
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] RSC 1985, c 1 (5th Supp.).
+[2] Steps that are described as being carried out by Partnerco or the Appellant were carried out identically by the other Partnercos or Holdcos. Where appropriate, a schematic of the transaction is provided and the tax consequences but for the application of the GAAR are set out.
+[3] Statement of Agreed Facts, at para 39.
+[4] Calculated as ($851,863 x 4) + ($15,391 x 4) + $1.
+[5] $8,474,040 from the assumption of the Partnerco loans and $4,443,957 from the Nuinsco Loan.
+[6] Paragraph 21(eeee) of the Amended Reply. The Minister had assumed, at paragraph 22(mmm) of the Amended Reply, that HLP was to be dissolved as of June 26 rather than June 28. The Minister also assumed that the filing positions of the Partnerco, Nuinsco and the Appellant in their tax returns for the relevant periods also formed part of this series of avoidance transactions (paragraphs 22(rrr)-(xxx) of the Amended Reply).
+[7] Blackburn Radio Inc. v The Queen, 2012 TCC 255, 2012 DTC 1213 [Blackburn Radio].
+[8] The Queen v Canadian Marconi Co., [1992] 1 FC 655 (FCA) [Canadian Marconi].
+[9] Lornport Investments Ltd. et al v The Queen, [1992] 1 CTC 351 (FCA) [Lornport Investments].
+[10] Abrahams v Minister of National Revenue, [1967] 1 ExCR 333, 66 DTC 5451 at para 10; TransCanada Pipelines Ltd. v The Queen, 2001 FCA 314, 2001 DTC 5625, at para 12.
+[11] Copthorne Holdings Ltd. v Canada, 2011 SCC 63, [2011] 3 SCR 721, at para 72 [Copthorne].
+[12] Inter-Leasing Inc. v Ontario (Minister of Revenue), 2014 ONCA 575 [Inter-Leasing]. Leave to appeal dismissed, [2014] SCCA No 443.
+[13] Canada Trustco Mortgage Co. v Canada, 2005 SCC 54, [2005] 2 SCR 601, at para 21 [Canada Trustco].
+[14] Ibid, at paras 27-29.
+[15] Copthorne, para 40.
+[16] Ibid.
+[17] Triad Gestco Ltd. v The Queen, 2011 TCC 259, 2011 DTC 1254 [Triad TCC]. Affirmed on appeal to the Federal Court of Appeal, 2012 FCA 258, 2012 DTC 5156 [Triad FCA].
+[18] Ibid, at paras 72-75.
+[19] Triad FCA, supra, at para 37.
+[20] Global Equity Fund Ltd. v The Queen, 2011 TCC 507, 2011 DTC 1350 [Global Equity TCC]. Reversed in part on appeal to the Federal Court of Appeal, 2012 FCA 272, 2013 DTC 5007 [Global Equity FCA].
+[21] This can be contrasted with McClarty Family Trust v The Queen, 2012 TCC 80, 2012 DTC 1123, at paras 43 and 53 where the Court found that creditor protection was the primary purpose of the transactions at issue.
+[22] Global Equity FCA, at para 10.
+[23] 1207192 Ontario Ltd. v The Queen, 2012 FCA 259, 2012 DTC 5157, at para 6 [1207192 Ontario]. Leave to appeal denied, [2012] SCCA No 520.
+[24] Ibid, at para 20.
+[25] Canada Trustco, supra, at paras 19-20.
+[26] Copthorne, supra, at para 34.
+[27] Ibid at para 35.
+[28] These fees were alleged to arise out of the difference in value between the Nuinsco Loan and the amount paid to the Holdco for their respective Partnerco shares.
+[29] Univar Canada Ltd. v The Queen, 2005 TCC 723, 2005 DTC 1478 [Univar].
+[30] Ibid, at para 43.
+[31] Copthorne, supra, at para 118.
+[32] Lipson v Canada, 2009 SCC 1, [2009] 1 SCR 3, at para 28 [Lipson].
+[33] Duha Printers (Western) Ltd. v Canada, [1998] 1 SCR 795 at para 88. The SCC went on to state that the impugned transactions in that case did not offend the wording of subsection 111(5) and complied with its text. It did not deal with any invocation of the GAAR. I find this characterization of the provision at its broadest sense to be useful in distinguishing certain provisions, the operation or non-application was relied on for the success of the transactions, from those provisions that merely provide the contextual backdrop for provisions actually associated with obtaining the tax benefit. I see subsection 111(5) as primarily of contextual value in this case, where no change of control of the party seeking to claim non‑capital losses occurred.
+[34] Loyens v The Queen, 2003 TCC 214, 2003 DTC 355 [Loyens].
+[35] OSFC Holdings Ltd v The Queen, 2001 FCA 260, 2001 DTC 5471 [OSFC Holdings].
+[36] Copthorne, supra, at para 91.
+[37] See Stow v The Queen, 2010 TCC 406, 2010 DTC 1275.
+[38] See Penn West Petroleum Ltd. v The Queen, 2007 TCC 190, 2007 DTC 715, at para 46.
+[39] Paragraph 96(1)(a).
+[40] Paragraph 96(1)(b).
+[41] Paragraphs 96(1)(f) and (g).
+[42] Mathew, supra, at paras 51-53.
+[43] Ibid at para 58.
+[44] Canada Trustco, supra, at para 66.
+[45] I note that it would have been necessary to ignore the deemed year end in order to reassess the Appellant under section 160, but not under GAAR (although if it can be shown that steps were taken for the sole purpose of avoiding the application of section 160, this would support a finding of abuse under GAAR). Moreover, the Minister could have chosen to ignore the deemed year end of Partnerco in reassessing the Appellant, rather than in the Partnerco reassessment. It would be much easier to show that ignoring the deemed year end is reasonable in order to deny the alleged tax benefit obtained by the Appellant, namely, the avoidance of section 160.
+[46] XCO Investments Ltd. v The Queen, 2005 TCC 655, 2005 DTC 1731 at para 39. Appeal dismissed, 2007 FCA 53, 2007 DTC 5146.
+[47] Citing Algoa Trust v The Queen, [1993] TCJ No. 15, 93 DTC 405 [Algoa Trust], appeal to the FCA dismissed, February 4, 1998 (Court docket A-201-93).
+[48] Biderman v The Queen, [2000] FCJ No. 194, 2000 DTC 6149 [Biderman]. Leave to appeal dismissed, [2000] SCCA No. 163.
+[49] Ibid, at paras 44-45.
+[50] Ibid, at para 46.
+[51] While I have tried to make this example as close an amalgam of Biderman and this case as I think reasonable, other instances involving the conferral of some form of benefit on a related party that does not constitute a transfer but, by virtue of the holding of the benefit, can also give rise to a transformation of the form but not the fair market value of the benefit so held can be imagined.
+[52] As in Attorney-General of Ceylon v Mackie, [1952] 2 All ER 775 at 777-778, 31 ATC 435 (PC) [Mackie], the value of the preferred shares can be considered in light of the control exercised by the Appellant over Partnerco, which allowed it to decide when the shares would be redeemed. See also Marina Québec Inc. v Minister of National Revenue, [1990] TCJ No. 1124, 92 DTC 1392, at para 502.
+[53] Strachan v The Queen, 2013 TCC 362, 2014 DTC 1025, at para 38.
+[54] See, for instance, VIH Logging Ltd. v The Queen, 2003 TCC 732, 2004 DTC 2090. Affirmed on appeal, 2005 FCA 36, 2005 DTC 5095.
+The relevant provision of the CBCA discusses “fair value”, which Canadian jurisprudence has ruled is a different enquiry than FMV. However, as the trial judge in 1234 Mountain Realty Corp. c Ioanidis, [2000] QJ No 264 (Que. C.S.) stated at para 6, “fair value” departs from FMV insofar as it excludes any minority discount and may add a premium for the ‘squeezing‑out’ of the minority shareholder. The principles on embedded taxes remain applicable.
+[55] Ibid, at paras 64-65.
+[56] Zeller Estate v The Queen, 2008 TCC 426, 2008 DTC 4441 at paras 69-71.
+[57] As in Mackie, supra, at 777-778, the sale of the Partnerco shares should be considered en bloc, as it is hard to imagine that Holdco could have maximized the sale price by selling the common shares to a different buyer from that of the preferred shares.
+[58] Livingston v The Queen, 2008 FCA 89, 2008 DTC 6233 at para 1 [Livingston]. Leave to appeal dismissed, [2008] SCCA No 196.
+[59] Medland v The Queen, [1998] FCJ No. 708, 98 DTC 6358 (FCA).
+[60] Canada v Addison & Leyen Ltd, 2007 SCC 33, [2007] 2 SCR 793 at para 9.
+[61] Livingston, supra, at para 27.
+[62] Canada v Simard-Beaudry Inc., [1971] FCJ No. 33, 71 DTC 5511 at 5515.
+[63] Jurak v The Queen, [2001] TCJ No. 838, 2002 DTC 1236 at para 39 (TCC). Affirmed on appeal at 2003 FCA 58, 2003 DTC 5145 and leave to appeal dismissed at [2003] CSCR No 143. Also, Canada v. Riendeau, [1991] FCJ No. 559, 91 DTC 5416.
+[64] Heavyside v The Queen, [1996] FCJ No. 1608, 97 DTC 5026 (FCA).
+[65] Press Release issued by the Honourable Michael Wilson, dated January 15, 1987, as reproduced in part at paragraph 322 of the Respondent’s Written Submissions.
+[66] Lipson, supra, at para 40.
+[67] Respondent’s Written Submissions at para 338.
+[68] Addison & Leyen Ltd. v The Queen, 2006 FCA 107, 2006 DTC 6248 at para 92. Reversed on appeal, 2007 SCC 33, [2007] 2 SCR 793 [Addison & Leyen].
+[69] Canada Trustco, supra, at para 31; reiterated with approval in Copthorne, supra, at para 67.
+[70] Lehigh Cement Ltd v The Queen, 2010 FCA 124, 2010 DTC 5081 [Lehigh]. Leave to appeal dismissed, [2010] SCCA No 273. A similar holding arises out of the decision of Justice Hogan in Gwartz v The Queen, 2013 TCC 86, 2013 DTC 1122 [Gwartz] at paras 47-53, where he reaffirmed that the GAAR cannot be invoked to fill a legislative gap and that the Act does not have a broad policy against surplus stripping or income splitting.
+[71] Lehigh, supra, at para 37.
+[72] Canada Trustco, supra, at paras 41 and 42.
+[73] Copthorne, supra, at para 109.

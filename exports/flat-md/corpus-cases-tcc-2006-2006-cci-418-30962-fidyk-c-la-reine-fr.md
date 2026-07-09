@@ -1,0 +1,247 @@
+---
+title: "Fidyk c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30962/index.do"
+last_modified: "2006-07-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 418"
+citation2: ""
+neutral_citation: "2006 CCI 418"
+decision_date: "2006-07-21"
+language: "fr"
+item_id: "30962"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4836
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:53:06.927000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "98652226492cfb1491bf7d33b255d35c03e642e879d3939514e37c95ccaaea17"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fidyk c. La Reine
+
+- Citation: 2006 CCI 418
+- Decision date: 2006-07-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4836, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fidyk c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-21
+Référence neutre
+2006 CCI 418
+Numéro de dossier
+2003-3638(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3638(IT)G
+ENTRE :
+GARY FIDYK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 11 avril 2006, à Saskatoon (Saskatchewan)
+Devant : L’honorable juge G. Sheridan
+Comparutions :
+Avocat de l’appelant :
+Me Grant Carson
+Avocate de l’intimée :
+Me Penny L. Piper
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2001 est annulé. Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi pour les années d’imposition 1998 et 1999 sont accueillis avec dépens, et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations conformément aux motifs du jugement ci‑joints en tenant compte de ce qui suit :
+1. l’appelant a engagé des frais judiciaires de 14 094 $ au cours de l’année d’imposition 2001 aux fins de la disposition de sa participation dans Reed Drilling Ltd. et 590201 Saskatchewan Ltd. (les « sociétés »), et ceux‑ci sont déductibles en application du sous‑alinéa 40(1)b)(i) de la Loi;
+2. en 2001, Reed Drilling Ltd. et 590201 Saskatchewan Ltd. devaient 90 024 $ à l’appelant pour des prêts que celui‑ci avait accordés aux sociétés;
+3. en date du 18 juillet 2001, l’appelant ne devait rien à Reed Drilling Ltd. ou à 590201 Saskatchewan Ltd.
+Signé à Sudbury (Ontario), ce 21e jour de juillet 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 27e jour de décembre 2006.
+Mario Lagacé, jurilinguiste
+Référence : 2006CCI418
+Date : 20060721
+Dossier : 2003-3638(IT)G
+ENTRE :
+GARY FIDYK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, Gary Fidyk, appelle des nouvelles cotisations établies par le ministre du Revenu national pour les années d’imposition 1998, 1999 et 2001. Le ministre a refusé l’inclusion d’une perte déductible au titre d’un placement d’entreprise dans le calcul du revenu de l’appelant pour 2001, à l’égard de laquelle l’appelant avait demandé une déduction pour perte autre qu’une perte en capital pour les années d’imposition 1998 et 1999. L’appelant avait déduit environ 183 000 $ pour des montants qu’il avait prêtés à Reed Drilling Ltd. et à 590201 Saskatchewan Ltd.[1] (les « sociétés ») entre 1989 et 1999 et qui demeuraient impayés en 2001. Pour refuser la déduction de la perte, le ministre s’est fondé sur le manque d’éléments de preuve concluants concernant l’endettement des sociétés envers l’appelant. La nouvelle cotisation pour 2001 a entraîné une cotisation « portant qu'aucun impôt n'était payable »[2]. Comme il n’y avait aucune perte autre qu’une perte en capital à reporter sur une année antérieure, les déductions demandées pour 1998 et 1999 ont été refusées.
+Les appels visant les années 1998 et 1999
+[2] Reed Drilling Ltd. et 590201 Saskatchewan Ltd. ont été fondées par l’oncle de l’appelant, Dale Reed. L’appelant a commencé à travailler pour Reed Drilling Ltd en 1982 en tant qu’homme à tout faire. En 1992, il a acheté des actions de Reed Drilling Ltd. et, plus tard, de 590201 Saskatchewan Ltd. Croyant comprendre qu’il achèterait un jour la participation de son oncle dans les sociétés, l’appelant a consacré temps et argent au développement des entreprises qui lui appartiendraient dans l’avenir. Toutefois, en 1999, l’appelant ne croyait plus que cet objectif se réaliserait un jour. Les entreprises périclitaient. Malgré ses contributions continues, l’appelant ne progressait pas. Entre‑temps, le contrôle des sociétés demeurait la chasse gardée de M. Reed, qui se montrait de plus en plus réticent.
+[3] En mars 1999, les choses sont arrivées à un point critique et l’appelant a cessé d’être employé par les sociétés. En 2001, l’appelant a, en sa qualité d’actionnaire, présenté une requête en cas d’abus en vertu de la Business Corporations Act (Saskatchewan) afin de recouvrer de M. Reed sa participation dans les sociétés[3]. L’affaire a finalement été réglée à l’amiable. Conformément au règlement amiable daté du 18 juillet 2001[4], l’appelant a reçu un montant de 70 000 $ en [traduction] « remboursement de la totalité de sa participation dans Reed Drilling Ltd et 590201 Saskatchewan Ltd, soit ses actions et les prêts qu’il a consentis aux sociétés en tant qu’actionnaire »[5]. L’appelant a transféré toutes ses actions des sociétés à M. Reed.
+[4] La question en l’espèce est de savoir quels montants, s’il y a lieu, l’appelant a prêtés aux sociétés à des fins commerciales. Selon moi, la réponse se trouve quelque part entre les montants approximatifs de 34 000 $ (pour Reed Drilling Ltd.) et de 14 000 $ (pour 590201 Saskatchewan Ltd.) acceptés par le ministre et le montant de 183 000 $ déduit par l’appelant. Étant donné la nature factuelle de la décision à prendre, la crédibilité des témoins est d’une importance primordiale.
+[5] J’ai conclu que l’appelant et son comptable, M. Bulmer, étaient bien informés, que leurs témoignages étaient francs et qu’ils étaient tout à fait crédibles.
+[6] La Couronne a appelé M. Bradley, l’agent des appels qui s’est occupé de l’opposition de l’appelant aux nouvelles cotisations établies par le ministre, et M. Reed, l’oncle de l’appelant et l’âme dirigeante de Reed Drilling Ltd. et de 590201 Saskatchewan Ltd. Le maillon faible était M. Reed. Non seulement c’est lui qui a fourni à contrecœur les dossiers peu nombreux sur lesquels M. Bradley et le vérificateur[6] se sont fondés, mais son témoignage a mis en évidence le genre de tempérament tyrannique et obstructionniste qui a sans aucun doute poussé l’appelant, malgré son investissement important dans les sociétés, à mettre un terme à sa participation. M. Reed avait tendance à adapter son témoignage de façon à se montrer sous son meilleur jour. Je n’ai aucune raison de penser qu’il a adopté une façon de faire différente en ce qui concerne la tenue des dossiers des sociétés. J’ai en outre été préoccupée par le fait que certains des documents financiers qu’il n’avait pas fournis à l’appelant et qui étaient « non disponibles » lors de la vérification ont subitement[7] été repérés à sa résidence. Par conséquent, sauf dans la mesure où il corroborait le témoignage de l’appelant concernant la façon dont son oncle le traitait quand il travaillait pour lui, le témoignage de M. Reed n’était pas du tout convaincant.
+[7] Pour établir la cotisation, le ministre a tenu pour acquis que le solde des prêts consentis par l’appelant en qualité d’actionnaire à Reed Drilling Ltd. était de 34 916 $; et que le solde des prêts consentis à 590201 Saskatchewan Ltd. était de 14 488 $[8]. Le ministre a également tenu pour acquis que l’appelant devait 13 787 $ à Reed Drilling Ltd. Ces chiffres provenaient des bilans des sociétés, lesquels ne comportaient aucun renseignement expliquant ce qui était inclus dans les chiffres. Comme M. Bradley l’a expliqué lors du réinterrogatoire : [traduction] « […] tout ce que [la comptable] aurait vraiment utilisé c’est les imprimés du grand livre général pour chaque année et […] elle n’avait pas de documents de travail analysant de façon plus approfondie le compte de prêts consentis par un actionnaire »[9]. De plus, aucun document original n’avait été mis à la disposition du vérificateur à l’égard du montant de 34 916 $[10]. Même s’il a admis que [traduction] « [ce chiffre] n’avait pas été vérifié », M. Bradley a toutefois expliqué que [traduction] « […] il était considéré que le risque que le chiffre ne soit pas exact était faible parce que les documents avaient été établis par un comptable et qu’ils étaient examinés à l’externe chaque année par un comptable »[11].
+[8] L’avocate de l’intimée a fait valoir, à juste titre, qu’il incombe au contribuable de prouver selon la prépondérance des probabilités que le ministre a commis une erreur lorsqu’il a établi la cotisation[12]. Elle a allégué que, compte tenu des éléments de preuve présentés, l’appelant n’avait pas prouvé qu’il avait subi la perte déductible au titre d’un placement d’entreprise qu'il avait déclarée. Toutefois, il est utile de signaler que le juge en chef Bowman a abordé la question de savoir ce que le contribuable doit faire pour s’acquitter de ce fardeau de preuve dans la décision récente Benjamin v. The Queen[13] :
+[...]
+[6] Même si l’ARC a pour politique d’exiger des documents étayant une dépense, un paiement ou une déduction, il ne s’agit pas d’un principe qu’applique la Cour, à moins que les dispositions fiscales ne l’exigent expressément (par exemple, dans le cas des dons de bienfaisance). Si un contribuable peut prouver à l’audience, au moyen d’un témoignage crédible, qu’un paiement a été fait ou qu’une dépense a été effectuée, la Cour doit en tirer une conclusion et l’appliquer. La Cour ne peut se soustraire à sa responsabilité de fonder ses conclusions sur les éléments de preuve portés à sa connaissance et déclarer au contribuable que, finalement, même si son témoignage est crédible, en l’absence de documents, il doit nécessairement échouer.
+[7] La jurisprudence citée par l’intimée n’appuie pas les arguments avancés par l’intimée. Elle énonce simplement que, si un appelant ne présente pas de preuves documentaires, il lui est plus difficile de s’acquitter de son fardeau de preuve. Si l’appelant a pu présenter, au moyen d’un témoignage crédible, une preuve prima facie qui n’est pas réfutée, il devrait avoir gain de cause. Dans les arrêts où l’appel n’a pas été accueilli, il n’y avait ni documentation ni crédibilité.
+[8] Dans l’arrêt Bullas v. R. [2002] 3 C.T.C. 467, le juge Evans, au nom de la Cour d’appel fédérale, a rejeté un appel faisant suite à une décision du juge Brulé et s’est exprimé en ces termes :
+Comme le juge l’a indiqué lorsqu’il a rejeté l’appel de M. Bullas, les contribuables sont légalement tenus de conserver des pièces justifiant les déductions qu’ils réclament et ils se placent dans une situation très difficile lorsqu’ils ne respectent pas cette obligation. Néanmoins, la Cour de l’impôt peut accepter d’autres éléments que des preuves documentaires. Néanmoins, c’est au juge de la Cour de l’impôt, en qualité de juge des faits, d’examiner l’ensemble des éléments de preuve présentés et d’en apprécier la force probante en vue de déterminer si le contribuable a démontré que le ministre avait commis une erreur lorsqu’il a refusé les déductions demandées.
+[9] En l’espèce, malgré les bâtons que son oncle lui a mis dans les roues, avant de produire sa déclaration de revenu de 2001, l’appelant a passé plusieurs mois à chercher des documents relatifs aux sociétés dans ses dossiers personnels. Tout ce qu’il a trouvé a été dûment remis à M. Bulmer pour qu’il puisse établir la déclaration de revenu de l’appelant pour 2001. M. Bulmer est si rigoureux que, suivant ses conseils, l’appelant a choisi de ne pas inclure certains montants pour lesquels il ne pouvait pas obtenir les documents originaux. Lorsque la vérification a été entreprise, l’appelant et M. Bulmer ont immédiatement répondu à la demande de justification des montants demandés présentée par le vérificateur. Ce dernier a été avisé qu’ils avaient présenté des demandes de renseignements supplémentaires au comptable des sociétés et qu’ils avaient obtenu un succès limité. Le vérificateur a été renvoyé à M. Reed qui, disons‑le poliment, a refusé de l’aider dans ses démarches. Malgré tout, le vérificateur et, en bout de ligne, l’agent des appels ont refusé les déductions de l’appelant en se fondant sur les soldes des prêts consentis par un actionnaire indiqués dans les bilans des sociétés. Dans son rapport, le vérificateur a écrit que [traduction] « [la] cause probable de la différence entre les renseignements fournis par M. Fidyk au sujet de l’investissement total et le solde du compte de prêts consentis par un actionnaire est que M. Fidyk n’a pas indiqué de retrait de son compte de prêts consentis par un actionnaire »[14]. Toutefois, lors du contre‑interrogatoire, M. Bradley, l’agent des appels, a dit ce qui suit concernant le fondement de ce que le vérificateur a affirmé :
+[traduction]
+Q Maintenant, quel élément de preuve vous a été présenté par M. Fidyk ou le comptable de la société ou qui que ce soit d’autre pour vous permettre de penser que M. Fidyk a effectué un retrait?
+R Aucun élément de preuve de ce genre ne m’a été présenté.
+Q Si c’est le cas, alors pourquoi n’avez‑vous pas accepté que ce que M. Fidyk vous avait dit était vrai étant donné ce que M. Connery avait conclu? Ne voyez‑vous pas que si vous acceptez ce que le vérificateur a affirmé et que vous n’avez aucune preuve que des retraits ont été effectués, vous devez en quelque sorte accepter ce que M. Fidyk a dit?
+R Si M. Fidyk effectuait un retrait de son compte de prêts consentis par un actionnaire, cela aurait pour effet de réduire le montant que la société lui doit.
+Q Oui.
+R Donc, cela réduirait ce que la société lui doit.
+Q Mais, en l’absence de preuve de retrait, comment avez‑vous pu conclure que c’était la raison pour laquelle il y avait un écart entre le montant de 34 000 $ et le montant de 183 016 $?
+R Je n’ai vu aucun élément de preuve indiquant qu’il y avait eu un retrait ou qu’il n’y en avait pas eu, je ne peux donc pas faire d’hypothèse à cet égard.
+Q Mais quelqu’un a bien dû faire ces hypothèses, n’est‑ce pas?
+R Nous n’avons vu aucune preuve de retrait – de quelque retrait que ce soit[15].
+Cela correspond au témoignage fourni par M. Reed lors du contre‑interrogatoire :
+[traduction]
+Q Bien, dites‑moi, si cette affirmation est exacte, quels sont les retraits dont nous n’avons pas été mis au courant? Dites‑moi quels sont les retraits qui expliquent l’écart.
+R Tous les retraits – de quels retraits parlons‑nous, de ceux relatifs à la société à numéro ou de ceux relatifs à Reed Drilling?
+Q Eh bien, de ceux relatifs à l’une ou l’autre des sociétés.
+R Les retraits relatifs à Reed Drilling imputés à la carte de crédit étaient déduits des salaires. Si le retrait n’était pas déduit du salaire, il était déduit des prêts consentis par un actionnaire. Et, pour ce qui est de la société à numéro, je ne suis au courant d’aucun retrait.
+Q M. Reed, êtes‑vous capable d’indiquer un seul retrait effectué par M. Fidyk relativement à l’une ou l’autre de ces sociétés autre que son salaire ou le remboursement de ses dépenses?
+R Oui.
+Q Dites-moi lesquels.
+R Des expéditions de pêche, une bâche à bateau, un voyage.
+Q Est-ce que c’est tout?
+R C’est une partie des retraits effectués. Il faudrait que je passe en revue les documents comptables. Les retraits remontent à plusieurs années.
+Q Avez‑vous des documents que vous pouvez produire pour montrer que ces retraits constituaient des montants déduits des prêts qu’il a consentis en qualité d’actionnaire, avez‑vous quoi que ce soit que vous puissiez produire maintenant?
+R Non[16].
+[10] Concrètement, la façon dont l’appelant a été traité par l’Agence a eu pour effet de mettre celui‑ci dans une situation inhabituelle où il était pénalisé parce qu’il avait tout mis en œuvre pour fournir des registres qu’il n’aurait raisonnablement pas pu établir en tant qu’actionnaire et employé, et auxquels la personne responsable lui refusait l’accès. La Loi de l’impôt sur le revenu (la « Loi ») impose aux contribuables l’obligation de tenir des registres adéquats; et, dans les circonstances, l’appelant a fait plus que remplir cette exigence. Compte tenu des documents qu’il a été en mesure de produire, ainsi que de son témoignage et de celui de M. Bulmer, je suis convaincue que l’appelant a réussi à prouver qu’il avait consenti des prêts à Reed Drilling Ltd. et à 590201 Saskatchewan Ltd à des fins commerciales.
+[11] Les montants particuliers que l’appelant a déduits dans sa déclaration de revenu pour 2001 sont énoncés à l’alinéa 16l) de la réponse à l’avis d’appel :
+[traduction]
+Date
+Montant
+Source selon l’appelant
+Juin 1989
+25 000 $
+CIBC
+Février 1990
+33 000 $
+CIBC
+Déc. 1991 – déc. 1992
+6 101 $
+Fonds personnels
+Août 1992
+32 000 $
+Banque Royale
+Août 1992
+7 000 $
+Fonds personnels
+Mars 1994
+25 000 $
+Fonds personnels
+Novembre 1994
+20 992 $
+Credit Union
+Octobre 1995
+30 000 $
+Banque Scotia
+Juin 1999
+3 923 $
+Banque Royale
+Total :
+183 016 $
+[12] Lors de l’audience, l’avocate de l’intimée a reconnu le droit de l’appelant de déduire le montant de 3 923 $ pour le prêt de la Banque Royale fait en juin 1999. L’intimée a également reconnu le droit de l’appelant de déduire les frais judiciaires de 14 094 $ pour 2001. Les prêts de 32 000 $ et de 7 000 $ faits en 1992 avaient servi à l’acquisition des actions de l’appelant dans Reed Drilling Ltd.
+[13] Pour ce qui est du reste des montants énoncés ci‑dessus, je conclus qu'en 2001 les sociétés devaient les montants suivants à l’appelant :
+1. 15 000 $ du montant de 25 000 $ emprunté à la CIBC en juin 1989 : l’appelant a personnellement emprunté 25 000 $[17] et a prêté ce montant à 590201 Saskatchewan Ltd. pour lui permettre d’acheter des actions d’une société pétrolière de l’Alberta connue sous le nom de « Pioneer Inc. of Alberta ». Après la disposition d’une partie ou de la totalité de ces actions, en mars 1994, 590201 Saskatchewan Ltd. a versé 35 000 $ à l’appelant, dont 25 000 $ ont immédiatement été prêtés personnellement à M. Reed à titre de prêt à Reed Drilling Ltd.[18]. Rien dans la preuve ne montre que les 10 000 $ restants n’ont pas été conservés par l’appelant personnellement. Par conséquent, ce montant doit être porté en réduction du montant de 25 000 $ que l’appelant avait prêté à la société en 1989, ce qui laisse un solde impayé de 15 000 $;
+2. la totalité du montant de 25 000 $ prêté par l’appelant à partir de ses fonds personnels en mars 1994 : je suis convaincue que le montant de 25 000 $ prêté à Reed Drilling Ltd. par l’intermédiaire de M. Reed n’a pas été remboursé à l’appelant;
+3. la totalité du montant de 6 101 $ prêté par l’appelant à partir de ses fonds personnels, de décembre 1991 à décembre 1992 : l’appelant a prêté ce montant à 590201 Saskatchewan Ltd.[19] à titre d’avances de fonds diverses, suivant les besoins, et il n’a pas été remboursé;
+4. la totalité du montant de 30 000 $ emprunté à la Banque Scotia en octobre 1995 : l’appelant a personnellement contracté un emprunt de 30 000 $, avec le cautionnement de sa femme, afin d’améliorer les ratios d’endettement de Reed Drilling Ltd., et ce montant n’a pas été remboursé.
+[14] En ce qui concerne les deux derniers montants de 33 000 $ (février 1990) et de 20 992 $ (novembre 1994), je conclus ce qui suit :
+1. pour ce qui est du montant de 33 000 $ que l'appelant a déduit, il n’y a pas suffisamment d’éléments de preuve pour établir que l’appelant a personnellement emprunté le montant de 33 000 $ pour permettre à 590201 Saskatchewan Ltd. d’acheter l’atelier utilisé dans le cadre de l’exploitation de l’entreprise. Toutefois, j’accepte le témoignage de l’appelant selon lequel il a personnellement investi 5 000 $ dans cette société pour réparer et remettre en état l’atelier et ce montant n’a pas été remboursé. Même si l’avocate de l’intimée a allégué que l’appelant ne devrait pas avoir le droit de déduire de montant à ce stade de l’instance, je suis d’avis que la justice est mieux servie si, en l’espèce, je suis la méthode adoptée dans la décision Benjamin[20]. Même indépendamment du chèque payé[21] de 5 000 $ produit lors de l’audience, j’accepte le témoignage de l’appelant selon lequel il a payé ce montant de la manière indiquée et celui‑ci ne lui a jamais été remboursé;
+2. pour ce qui est du montant de 20 992 $, j’accepte le témoignage de l’appelant selon lequel, en raison des problèmes fiscaux de Reed Drilling Ltd., il a été décidé que l’achat du véhicule à quatre roues motrices Chevrolet de 1993 serait financé au nom de l’appelant. Même si je suis convaincue que l’appelant a personnellement fait le versement initial de 5 000 $ et que ce montant ne lui a pas été remboursé, il n’y a pas suffisamment d’éléments de preuve pour établir qu’il a payé le solde résiduel de 13 917 $[22]. L’appelant n’a pas été capable de réfuter l’hypothèse du ministre selon laquelle les paiements mensuels d’environ 440 $ lui avaient été remboursés. Par conséquent, Reed Drilling Ltd. devait 5 000 $ à l’appelant à l’égard du véhicule à quatre roues motrices Chevrolet de 1993.
+[15] Il y a une autre question que je dois examiner, et il s’agit de l’inclusion par le ministre d’un montant de 13 787 $ dans le calcul de la perte autre qu’une perte en capital de l’appelant, et ce, parce qu’il avait tenu pour acquis qu’il s’agissait d’un montant que l’appelant devait à Reed Drilling Ltd. J’accepte l’argument de l’avocat de l’appelant selon lequel ce montant n’avait pas été porté en réduction des montants que Reed Drilling Ltd. devait à l’appelant comme il aurait dû l’être. Cette dette, si elle existait[23], avait été remboursée en totalité selon les conditions du règlement amiable du 18 juillet 2001. Par conséquent, ce montant n’aurait pas dû être déduit des montants que les sociétés devaient à l’appelant.
+[16] Pour tous ces motifs, je suis convaincue qu’en 2001 Reed Drilling Ltd. et 590201 Saskatchewan Ltd. devaient à l’appelant les montants établis ci‑dessus.
+L’appel visant l’année 2001
+[17] J’accepte l’argument de la Couronne selon lequel aucun appel ne peut être interjeté à l’égard de l’année d’imposition 2001, étant donné que l’établissement de la nouvelle cotisation pour cette année‑là a donné lieu à une cotisation « portant qu'aucun impôt n'était payable ». L’avocate de l’intimée a allégué que, si l’appelant obtient gain de cause dans les appels relatifs aux années d’imposition 1998 et 1999, il pourra (au cas où le ministre n’établit pas une nouvelle cotisation par suite du présent jugement) demander la détermination d’une perte au ministre en vertu du paragraphe 152(1.1) de la Loi. Elle a renvoyé à la décision Aallcann Wood Suppliers Inc. v. Canada[24], dans laquelle le juge Bowman (maintenant juge en chef de la Cour) a examiné les rouages de la disposition en question :
+Il convient pour commencer de régler un point représentant une question de procédure ou peut‑être de compétence. Au départ, l'appelante a demandé à la Cour de déterminer la perte qu'elle avait déclarée pour 1988, car le montant de cette perte influait sur son revenu imposable pour 1985, 1986 et 1987. L'intimée a fait valoir que, dans les appels portant sur les années 1985, 1986 et 1987, l'appelante ne pouvait contester le calcul que le ministre avait fait de la perte relative à 1988 puisqu'elle ne lui avait pas demandé de procéder à une détermination de cette perte.
+L'appelante a accepté cet argument et a demandé au ministre une détermination de la perte relative à 1988 en vertu du paragraphe 152(1.1) de la Loi de l'impôt sur le revenu. Le ministre a procédé à une détermination de la perte, un avis d'opposition a été déposé, la détermination a été confirmée, et un appel à l'encontre de cette détermination a été interjeté devant la Cour.
+La position que le ministre a adoptée dans la réponse initiale à l'avis d'appel et selon laquelle le calcul qu'il fait d'une perte pour une année d'imposition particulière est immuable à moins qu'une détermination de la perte ne soit faite en vertu du paragraphe 152(1.1) est toutefois erronée. Il est vrai que la Cour ne peut procéder à une détermination de la perte en vertu du paragraphe 152(1.1). Cette fonction incombe au ministre. Si une telle détermination est faite, elle est réputée être valide et exécutoire, mais elle peut être contestée par la voie d'un avis d'opposition ou d'un appel et, si elle est confirmée en appel, sa validité est reconnue. Le paragraphe 152(1.1) a pour objet de permettre à un contribuable de demander au ministre une détermination d'une perte déclarée pour une année donnée, détermination dont il peut appeler à la Cour. Une des raisons sous-jacentes à l'adoption du paragraphe 152(1.1) est qu'on ne peut appeler d'une cotisation portant qu'aucun impôt n'est payable. En l'absence d'une détermination exécutoire faite en vertu du paragraphe 152(1.1), un contribuable peut contester le calcul du ministre concernant une perte relative à une année particulière dans un appel portant sur une autre année lorsque le montant du revenu imposable du contribuable est influencé par le montant de la perte pouvant être reportée prospectivement en vertu de l'article 111. En contestant la cotisation portant sur une année pour laquelle de l'impôt est payable au motif que le ministre a incorrectement calculé le montant d'une perte relative à une année antérieure ou subséquente qui peut être déduite en vertu de l'article 111 dans le calcul du revenu imposable du contribuable pour l'année en question dans l'appel, le contribuable demande à la Cour de faire précisément ce que prévoient les dispositions de la Loi de l'impôt sur le revenu en matière d'appel : déterminer l'exactitude d'une cotisation d'impôt en examinant la justesse d'un ou de plusieurs de ses éléments constituants, soit en l'espèce le montant d'une perte d'une autre année pouvant être déduite. La Cour n'a pas à déterminer la perte en vertu du paragraphe 152(1.1) ni à entendre un appel concernant une cotisation portant qu'aucun impôt n'est payable. Elle doit simplement établir l'exactitude de la cotisation portant sur l'année en question dans l'appel dont elle est saisie.
+[18] Par conséquent, l’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi pour l’année d’imposition 2001 est annulé. Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi pour les années d’imposition 1998 et 1999 sont accueillis avec dépens, et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte de ce qui suit :
+1. l’appelant a engagé des frais judiciaires de 14 094 $ au cours de l’année d’imposition 2001 aux fins de la disposition de sa participation dans Reed Drilling Ltd. et 590201 Saskatchewan Ltd., et ceux‑ci sont déductibles en application du sous‑alinéa 40(1)b)(i) de la Loi;
+2. en 2001, Reed Drilling Ltd. et 590201 Saskatchewan Ltd. devaient 90 024 $ à l’appelant pour des prêts que celui‑ci avait accordés aux sociétés;
+3. en date du 18 juillet 2001, l’appelant ne devait rien à Reed Drilling Ltd. ou à 590201 Saskatchewan Ltd.
+Signé à Sudbury (Ontario), ce 21e jour de juillet 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 27e jour de décembre 2006.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2006CCI418
+NO DU DOSSIER DE LA COUR : 2003-3638(IT)G
+INTITULÉ DE LA CAUSE : GARY FIDYK
+c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE : Le 11 avril 2006
+MOTIFS DU JUGEMENT PAR : L’honorable juge G. Sheridan
+DATE DU JUGEMENT : Le 21 juillet 2006
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Grant Carson
+Avocate de l’intimée :
+Me Penny L. Piper
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelant :
+Nom : Me Grant Carson
+Cabinet : Carson & Co.
+Melfort (Saskatchewan)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les deux sociétés sont des sociétés privées sous contrôle canadien au sens du paragraphe 125(7) de la Loi de l’impôt sur le revenu.
+[2] Lors de l’audience, l’avocate de l’intimée a présenté une requête en annulation de l’appel pour 2001 au motif qu’on ne peut pas interjeter appel à l’encontre d’une cotisation « portant qu'aucun impôt n'était payable ». La question est traitée à la fin des présents motifs du jugement.
+[3] C’est à l’égard de cette action que l’appelant a engagé les frais judiciaires de 14 094 $.
+[4] Pièce A‑1, onglet 5.
+[5] Pièce A‑1, onglet 5.
+[6] Le vérificateur n’était plus un employé de l’Agence du revenu du Canada au moment de l’audience.
+[7] En même temps que la remise d’un subpoena du ministre quelques jours avant l’audience.
+[8] Réponse à l’avis d’appel, alinéas 16g) et i).
+[9] Transcription, p. 226, lignes 9 à 12.
+[10] Transcription, p. 213, lignes 16 à 18.
+[11] Transcription, p. 211, lignes 21 à 24. Cette justification indiquant pourquoi les chiffres de M. Reed ont été acceptés sans être vérifiés est répétée dans la transcription, à la p. 212, aux lignes 5 à 9 et aux lignes 9 à 15.
+[12] Kornelow v. Canada (Minister of National Revenue - M.N.R.), 91 DTC 431; voir aussi Johnston c. Ministre du Revenu national - M.R.N.), [1948] R.C.S. 486.
+[13] 2006 DTC 2265 (C.C.I.).
+[14] Pièce R‑1, onglet 20.
+[15] Transcription, p. 219, lignes 10 à 25, et p. 220, lignes 1 à 13.
+[16] Transcription, p. 174, lignes 14 à 25, et p. 175, lignes 1 à 16.
+[17] Pièce R‑1, onglet 27.
+[18] Pièce R‑1, onglet 31, et pièce R‑2, onglet 44.
+[19] Pièce A‑1, onglet 21.
+[20] Précitée.
+[21] Pièce A‑1, onglet 20.
+[22] Pièce A‑1, onglet 19.
+[23] Et, étant donné la nature incomplète des documents comptables des sociétés, je ne suis pas du tout convaincue qu’elle existait.
+[24] 94 DTC 1475, à la p. 1475.

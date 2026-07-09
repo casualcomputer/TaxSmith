@@ -1,0 +1,136 @@
+Title: Alan W. Cockeram and E. Anne Cockeram Trustees of the Cockeram Family Trust v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26333/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-307-26333-alan-w-cockeram-and-e-anne-cockeram-trustees-of-the-cockeram-family-trust-v-the--fr.md
+Document type: case_law
+Last modified: 2004-05-06
+
+# Alan W. Cockeram and E. Anne Cockeram Trustees of the Cockeram Family Trust v. The Queen
+
+- Citation: 2004 CCI 307
+- Decision date: 2004-05-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3280, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alan W. Cockeram and E. Anne Cockeram Trustees of the Cockeram Family Trust v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-06
+Référence neutre
+2004 CCI 307
+Numéro de dossier
+2001-3047(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2001-3047(IT)G
+ENTRE :
+ALAN W. COCKERAM ET E. ANNE COCKERAM,
+FIDUCIAIRES DE LA FIDUCIE FAMILIALE COCKERAM,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 14 avril 2004 à Saint John (Nouveau-Brunswick)
+Devant : L'honorable juge Diane Campbell
+Comparutions :
+Avocate de l'appelante :
+Me Nicole L. Gallant
+Avocat de l'intimée :
+Me Cecil Woon
+____________________________________________________________________
+JUGEMENT
+L'appel à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1996 est rejeté avec dépens, en conformité avec les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 6e jour de mai 2004.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+Suzanne M. Gauthier, trad. a., LL.L.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2004CCI307
+Date : 20040506
+Dossier : 2001-3047(IT)G
+ENTRE :
+ALAN W. COCKERAM ET E. ANNE COCKERAM,
+FIDUCIAIRES DE LA FIDUCIE FAMILIALE COCKERAM,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Il faut décider en l'espèce si la fiducie familiale Cockeram (la « fiducie » ) a le droit de déduire un montant de 49 200 $ dans le calcul de son revenu pour l'année d'imposition 1996 en vertu du paragraphe 104(6) de la Loi de l'impôt sur le revenu (la « Loi » ). À cette fin, il faut déterminer si un chalet acheté en 1995 est un bien appartenant à la fiducie ou un bien personnel appartenant à Alan et à Anne Cockeram.
+[2] Alors que l'avis d'appel indiquait que les appelants étaient [TRADUCTION] « Alan W. Cockeram et E. Anne Cockeram, fiduciaires de la fiducie familiale Cockeram » , les avocats de l'appelante et de l'intimée ont convenu que l'appelant devait être la fiducie elle-même. Par ailleurs, l'avis d'appel a été modifié avant l'audience afin de supprimer l'appel concernant l'année d'imposition 1997.
+Faits
+[3] Le docteur Alan Cockeram a été la seule personne à témoigner. Il a indiqué dans son témoignage que la fiducie a été créée en novembre 1994. Lui et son épouse, Anne, en étaient les fiduciaires désignés et leurs deux enfants mineurs, les bénéficiaires.
+[4] L'acte créant la fiducie (onglet 2 de la pièce R-1) permettait aux fiduciaires d'investir dans des biens meubles et dans des biens immeubles pour le compte de la fiducie (alinéa 9a)). Les fiduciaires pouvaient exercer ce pouvoir à leur entière discrétion, que les biens soient productifs ou non de revenus et qu'ils soient susceptibles ou non de prendre de la valeur. Le docteur Cockeram a indiqué qu'il n'était pas explicitement prévu que la fiducie possède ses propres immeubles au moment de sa création.
+[5] À l'été 1995, Alan et Anne Cockeram ont acheté un chalet dans le Maine, aux États-Unis. Selon le docteur Cockeram, même s'il y avait, dans la fiducie, des fonds qui auraient pu être utilisés pour cet achat, ils ont décidé qu'il serait plus facile d'utiliser les fonds américains qu'ils tireraient de la vente d'une autre propriété située dans le Montana qui leur appartenait en propre. Lorsque cette propriété a été vendue, les Cockeram ont reçu 19 000 $ comptant et ont obtenu une hypothèque garantissant le solde. Le chalet situé dans le Maine avait un prix d'achat de 75 000 $US, payable de la manière suivante : versement d'un dépôt de 5 000 $US, paiement d'une somme de 12 367 $US au moment de la clôture de l'opération et hypothèque consentie à la banque pour le solde. Les Cockeram ont utilisé l'argent comptant obtenu lors de la vente de la propriété du Montana pour payer le dépôt et ont hypothéqué le chalet pour garantir le paiement du solde.
+[6] L'acte de garantie daté du 26 octobre 1995 prévoyait la cession du chalet du Maine à Alan et à Anne Cockeram personnellement et conjointement. Le docteur Cockeram a indiqué que toute l'opération s'est faite sans conseiller juridique. Les Cockeram ont parlé à la courtière immobilière lorsqu'ils ont décidé d'acheter le chalet. À l'époque, ils avaient l'intention de mettre le chalet au nom de la fiducie. La courtière américaine les a dirigés vers un courtier en hypothèques qui leur a appris qu'une fiducie ne pouvait pas légalement consentir une hypothèque dans l'État du Maine. Le docteur Cockeram a mentionné qu'ils se sont fiés à cet avis et que, après avoir demandé à la courtière américaine d'enregistrer le chalet au nom de la fiducie, ils ont décidé de l'inscrire à leur propre nom et de consentir eux-mêmes l'hypothèque. Les Cockeram ont ensuite signé un acte hypothécaire de 60 000 $US, et l'assurance de titres a été souscrite à leur nom personnel. Tous les versements hypothécaires mensuels ont été faits par les Cockeram personnellement, sur leur propre compte. Lorsque le prêt garanti par l'hypothèque qu'ils détenaient sur la propriété située au Montana a été payé en entier, ils ont utilisé ces fonds pour payer la banque et obtenir la mainlevée de l'hypothèque grevant le chalet du Maine. Depuis l'achat, les Cockeram ont continué de se charger personnellement de toutes les dépenses relatives au chalet, notamment les réparations, les assurances, les taxes et les impôts, etc. Le docteur Cockeram a indiqué dans son témoignage qu'ils voulaient investir pour le compte de la fiducie lorsqu'il ont acheté le chalet, mais qu'ils ont considéré qu'il était juste et raisonnable de payer une partie des dépenses liées à celui-ci puisqu'ils l'utilisaient et en jouissaient avec les bénéficiaires.
+[7] Le docteur Cockeram a dit également que la fiducie leur a remboursé le prix d'achat (75 000 $US), mais non les dépenses d'entretien et les intérêts hypothécaires qu'ils avaient payés. Il a ajouté que ce prix équivalait à 100 000 $CAN environ à l'époque, et que la fiducie a remboursé la moitié de ce montant - 49 200 $ - à Anne Cockeram, par chèque, le 7 février 1996. Un montant identique avait été transféré de la société professionnelle du docteur Cockeram (la « société » ) au compte de la fiducie le 2 février 1996 (onglet 1 de la pièce R-1).
+[8] La fiducie détenait des actions ordinaires de la société à toutes les époques pertinentes. Cette société est utilisée par le docteur Cockeram pour exercer sa profession de médecin. Le docteur Cockeram a expliqué que, sur l'avis de comptables, la société versait des dividendes à la fiducie de temps à autre. Les investissements de la fiducie étaient principalement destinés à l'éducation des bénéficiaires. Le docteur Cockeram a indiqué qu'une très petite partie des investissements avait été utilisée, sauf pour ce qui est de l'achat du chalet et d'une boîte de rangement pour les skis à installer sur le toit de leur véhicule. Le 2 février 1996, la société a versé des dividendes de 49 200 $ à la fiducie. Ce montant est identique à celui payé par la fiducie à Anne Cockeram quelques jours plus tard, soit le 7 février 1996. La fiducie a attribué ce montant aux bénéficiaires dans sa déclaration de revenus de 1996 et a demandé une déduction pour un montant équivalent. Le ministre du Revenu national (le « ministre » ) a refusé la déduction parce qu'il ne disposait pas de preuve démontrant que la somme de 49 200 $ avait été payée aux bénéficiaires en 1996. L'intimée a plutôt considéré que le montant exact du dividende avait été versé à l'une des fiduciaires afin de lui rembourser les sommes qu'elles avait personnellement dépensées relativement au chalet situé dans le Maine.
+Thèse de l'appelante
+[9] L'appelante prétend que le chalet est un bien de la fiducie même si celle-ci n'en a jamais détenu le titre légal. Les Cockeram détenaient ce titre personnellement mais aussi en qualité de fiduciaires. Des dépenses comme les réparations, les assurances, les versements hypothécaires et les taxes et impôts ont été payées à titre personnel, mais les Cockeram ont toujours eu l'intention d'acheter ce chalet pour le compte de la fiducie. Comme celle-ci ne pouvait pas consentir une hypothèque, les Cockeram ont détenu le chalet en propre de sorte qu'ils ont pu consentir une hypothèque à leur établissement de crédit. Ils pensaient que c'était là la seule solution, mais ils n'ont pas mesuré les problèmes qui pouvaient en résulter. Comme ils utilisaient également le chalet pendant l'été, ils estimaient qu'ils aidaient la fiducie en ne demandant pas le remboursement des intérêts hypothécaires qu'ils payaient ou des dépenses qu'ils supportaient. À leurs yeux, ils ont toujours agi de manière juste et raisonnable.
+Thèse de l'intimée
+[10] La fiducie n'a pas le droit de déduire le montant de 49 200 $ parce que le chalet appartenait en propre aux Cockeram. Tous les documents étayent la thèse de l'intimée. Le seul témoignage du docteur Cockeram sur l'intention n'est pas suffisant en soi pour modifier la nature de cette opération aux fins de l'impôt. Comme il a été payé relativement à un bien qui n'appartenait pas à la fiducie, le montant de 49 200 $ n'a pas été payé aux bénéficiaires de la fiducie, ni directement ni indirectement. L'avocat de l'intimée a également soutenu que la fiducie ne pouvait pas déduire ce montant parce qu'elle ne l'avait pas payé aux bénéficiaires en 1996, contrairement à ce que prévoient les paragraphes 104(6) et 104(24) de la Loi, mais plutôt à Anne Cockeram afin de lui rembourser une partie du prix d'achat qu'elle avait payé pour le chalet. Peu importe que la fiducie ait été ou non propriétaire du chalet ou que le montant ait ou non réellement profité aux bénéficiaires, la condition prévue au paragraphe 104(24) n'est pas remplie puisque le montant de 49 200 $ n'a pas été payé aux bénéficiaires en 1996.
+Analyse
+[11] L'appelante souhaite bénéficier de la déduction offerte aux fiducies à l'alinéa 104(6)b) de la Loi. Cette disposition prévoit qu'une fiducie peut déduire dans le calcul de son revenu tout montant payable par elle à un bénéficiaire au cours de l'année. Pour qu'une fiducie obtienne la déduction, il faut qu'un montant soit payable à un bénéficiaire au cours de l'année ou que le bénéficiaire ait le droit d'en exiger le paiement conformément au paragraphe 104(24). Or, il ne fait aucun doute que les bénéficiaires n'avaient pas le droit d'exiger un paiement en l'espèce. La disposition ne s'applique donc pas.
+[12] La partie pertinente de l'alinéa 104(6)b) prévoit :
+104(6) Pour l'application de la présente partie, il peut être déduit dans le calcul du revenu d'une fiducie, pour une année d'imposition : [...]
+b) dans les autres cas, le montant dont la fiducie demande la déduction et ne dépassant pas l'excédent éventuel :
+(i) de la partie du montant qui [...] représenterait le revenu de la fiducie pour l'année, qui est devenue payable à un bénéficiaire au cours de l'année [...]
+[13] Le paragraphe 104(24) prévoit quant à lui :
+104(24) Pour l'application du [...] paragraphe (6) [...], un montant n'est réputé être devenu payable par une fiducie au cours d'une année d'imposition que si la fiducie l'a payé au cours de l'année au bénéficiaire auquel il était payable ou que si ce bénéficiaire avait le droit au cours de l'année d'en exiger le paiement.
+[14] Il incombe à l'appelante d'établir que le chalet est un bien de la fiducie et que celle-ci a le droit de déduire le montant de 49 200 $ dans le calcul de son revenu pour 1996, conformément aux dispositions pertinentes. Il ressort clairement de l'acte créant la fiducie que les fiduciaires avaient le pouvoir discrétionnaire d'acheter le chalet en tant qu'investissement de la fiducie. Le docteur Cockeram a indiqué dans son témoignage que, dans l'esprit des fiduciaires, l'achat du chalet constituait un investissement de la fiducie, mais le titre de propriété a été établi au nom des Cockeram à titre personnel parce que la fiducie ne pouvait pas consentir une hypothèque dans l'État du Maine. À l'exception du témoignage oral de M. Cockeram, aucun autre élément prouvant l'intention des Cockeram n'a été produit. Le contrat de vente n'a pas été produit non plus, mais les deux parties ont reconnu qu'il avait été signé par les fiduciaires en leur qualité personnelle, sans qu'il soit fait mention de la fiducie. Il n'est pas fait mention non plus de la fiducie, des fiduciaires ou des bénéficiaires dans les documents subséquents, que ce soit les demandes d'hypothèque, l'acte créant la fiducie, l'hypothèque, la police d'assurance de titres, les états de compte annuels du prêt hypothécaire ou le formulaire de mainlevée d'hypothèque. Tous les documents présentés en preuve à la Cour contredisent les déclarations du docteur Cockeram concernant l'intention.
+[15] L'avocat de l'intimée a porté à mon attention la décision Friedberg v. The Queen, 92 DTC 6031, où la Cour a statué qu'une simple intention subjective ne suffisait pas en soi à modifier la caractérisation d'une opération aux fins de l'impôt. La forme a de l'importance lorsque des opérations ont des conséquences fiscales. Il ne fait aucun doute que la preuve de l'intention peut être prise en compte pour déterminer la véritable nature d'une opération, mais cette preuve seule sera cependant rarement déterminante. Je n'ai aucune raison de ne pas ajouter foi au témoignage du docteur Cockeram concernant son intention, mais les seules déclarations d'intention ne sont pas suffisantes pour faire contrepoids aux nombreux documents qui indiquent clairement que les Cockeram étaient les propriétaires du chalet à titre personnel, à la fois sur le plan juridique et sur le plan bénéficiaire. Si un contribuable veut organiser ses affaires personnelles de façon à obtenir certains avantages fiscaux, il faut que les opérations soient documentées. S'il en était autrement, les tribunaux en seraient réduits à deviner la véritable nature d'une multitude de tentatives de réorganisation et le véritable but de celles-ci.
+[16] De plus, la conduite des Cockeram avant et après l'achat du chalet montre clairement qu'ils agissaient comme si celui-ci leur appartenait en propre. Ainsi, ils ont financé son achat et ont remboursé le prêt hypothécaire avec des fonds tirés de la vente de leur propriété du Montana, même si la fiducie avait des fonds dans son compte. Ils ont fait les versements hypothécaires jusqu'à ce que le prêt garanti par une hypothèque sur leur propriété du Montana soit payé et ont ensuite utilisé ce produit pour faire lever l'hypothèque grevant le chalet. Ils ont continué de se charger de toutes les dépenses relatives au chalet depuis qu'ils l'ont acheté, et celui-ci est toujours enregistré à leur nom.
+[17] Je ne peux tout simplement pas faire abstraction des nombreux éléments de preuve qui, à l'exception des déclarations du docteur Cockeram, indiquent sans équivoque que le chalet est un bien personnel des Cockeram. J'ai entendu le témoignage du docteur Cockeram selon lequel il n'avait aucune expertise juridique et ne comprenait pas les effets des différents documents juridiques, mais les contribuables ont la responsabilité de veiller à ce que leurs actes soient conformes aux dispositions mêmes de la Loi qu'ils souhaitent invoquer. Si leur intention était de faire en sorte que le chalet appartienne à la fiducie, les fiduciaires auraient dû à tout le moins demander un avis juridique à un moment donné. Différentes solutions s'offraient à eux pour faire valoir leur prétendue intention. Ils auraient pu, par exemple, prévoir dans un contrat de fiducie séparé que le chalet serait transféré à la fiducie immédiatement après l'obtention de la mainlevée de l'hypothèque ou enregistrer un acte au nom de la fiducie au moment de cette mainlevée. Le docteur Cockeram aimerait transférer rétroactivement le chalet à la fiducie, malgré le fait que le traitement réservé à celui-ci depuis son achat montre bien qu'il appartenait en propre aux Cockeram. Je ne doute pas de la sincérité du docteur Cockeram et je ne crois pas qu'il ait voulu que quelque chose de fâcheux survienne. Toutefois, il y a certaines responsabilités qui se rattachent à la fonction de fiduciaire, en particulier dans le cas d'une fiducie familiale comme celle en cause en l'espèce. Lorsque les bénéficiaires et les fiduciaires sont réputés avoir entre eux un lien de dépendance suivant l'alinéa 251(1)a) de la Loi, il incombe au contribuable d'étayer sa prétendue intention par des documents écrits. Or, non seulement de tels documents n'ont pas été produits en l'espèce, mais tous les documents mènent clairement à la conclusion opposée.
+[18] L'avocate de l'appelante a présenté une lettre non datée d'Ann Ruel (pièce A-1), la courtière américaine qui a participé à l'achat du chalet. Ce document, qui a été transmis par télécopieur par Mme Ruel le 22 décembre 2001, énonce que les Cockeram avaient l'intention d'acquérir le chalet au nom de la fiducie. Je ne suis pas disposée à accorder beaucoup d'importance à cette lettre parce qu'elle semble avoir été écrite après le fait, peut-être même des années plus tard, et parce que la partie qui l'a fournie était absente et n'a pas pu être contre-interrogée. Même si j'avais pu lui accorder plus de poids, cette lettre ne serait tout simplement pas suffisante pour faire oublier les autres éléments de preuve qui appuient la conclusion opposée.
+[19] Revenons aux dispositions qui régissent les déductions auxquelles une fiducie a droit dans le calcul de son revenu. La preuve démontre que le montant de 49 200 $ a été payé par la société à la fiducie et déposé dans le compte de celle-ci avant d'être retiré par chèque payable à Anne Cockeram plusieurs jours plus tard. Selon le témoignage du docteur Cockeram, ce montant constituait le remboursement d'une partie des paiements faits par les Cockeram relativement à l'achat du chalet. Il est vrai que ce montant aurait pu être utilisé pour rembourser partiellement les Cockeram, mais je ne peux pas conclure que les bénéficiaires ont profité indirectement de l'opération parce que le chalet n'est tout simplement pas un bien appartenant à la fiducie. Rien dans la preuve n'indique qu'une somme de 49 200 $ a été payée aux bénéficiaires au cours de l'année. En fait, les relevés bancaires montrent qu'Anne Cockeram a reçu cette somme de la fiducie, alors que les paragraphes 104(6) et 104(24) de la Loi exigent que le montant dont la déduction est demandée par la fiducie ait été payé au bénéficiaire au cours de l'année. L'intimée prétendait que, même si la fiducie détenait le titre légal du chalet, les conditions prévues par ces dispositions n'étaient pas remplies parce que la somme n'avait pas été payée aux bénéficiaires. L'avocat a rappelé la décision Howard Langer Family Trust v. M.N.R., 92 DTC 1055, où la Cour a statué que les conditions ne sont pas remplies si une somme n'est pas versée directement à un bénéficiaire, même si celui-ci en tire profit. Compte tenu des faits en l'espèce, il ne peut y avoir aucun avantage direct ou indirect pour les bénéficiaires si la fiducie n'avait aucun droit, légal ou autre, au chalet. Par conséquent, l'argument selon lequel les bénéficiaires ont profité indirectement du paiement fait à Anne Cockeram ne s'applique pas en l'espèce. Je ne verrais par contre aucune raison de refuser la déduction de paiements faits à des tiers qui profitent aux bénéficiaires parce qu'ils permettent de préserver un bien qui appartient à la fiducie ou qui est devenu un bien de la fiducie dans la mesure où les documents nécessaires sont produits.
+[20] L'appelante n'a pas réussi à démontrer que les hypothèses du ministre étaient erronées et qu'il en était de même, en conséquence, de la cotisation. Elle a traité le bien en cause d'une façon qui empêchait la fiducie d'obtenir les déductions prévues au paragraphe 104(6). L'appelante est simplement allée trop loin dans cette voie pour pouvoir revenir en arrière et réorganiser l'opération. Les documents juridiques, les relevés et la conduite des Cockeram mènent tous à la conclusion opposée à celle qu'elle espère relativement à la prétendue intention de ces derniers.
+[21] Pour ces motifs, l'appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 6e jour de mai 2004.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+Suzanne M. Gauthier, trad. a., LL.L.
+RÉFÉRENCE :
+2004CCI307
+NUMÉRO DU DOSSIER
+DE LA COUR :
+2001-3047(IT)G
+INTITULÉ :
+Alan W. Cockeram et E. Anne Cockeram,
+fiduciaires de la fiducie familiale Cockeram,
+et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Saint John (Nouveau-Brunswick)
+DATE DE L'AUDIENCE :
+Le 14 avril 2004
+MOTIFS DU JUGEMENT :
+L'honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 6 mai 2004
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Nicole L. Gallant
+Avocat de l'intimée :
+Me Cecil Woon
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me Nicole L. Gallant
+Cabinet :
+Patterson Palmer
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

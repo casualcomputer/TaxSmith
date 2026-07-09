@@ -1,0 +1,72 @@
+---
+title: "ETSL81 Increases to air travellers security charge rates effective May 1, 2024"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/etsl81/increases-to-air-travellers-security-charge-rates-effective-may-1-2024.html
+last_modified: 2026-06-08
+---
+# ETSL81 Increases to air travellers security charge rates effective May 1, 2024
+
+Excise Taxes and Other Levies Notice
+
+February 2024
+
+This notice provides information relating to increases to the air travellers security charge rates on air transportation services that include a chargeable emplanement on or after May 1, 2024, for which any payment is made on or after that date.
+
+Except as otherwise noted, all statutory references in this notice are to the provisions of the *Air Travellers Security Charge Act*. The information in this notice does not replace the law found in the Act and its regulations.
+
+If this information does not completely address your situation, refer to the Act or regulations or call 1-866-330-3304 for additional information.
+
+## Overview
+
+The air travellers security charge (ATSC) was announced in Budget 2001 to fund enhanced air transportation security measures. The ATSC applies to air transportation services that include a chargeable emplanement. A chargeable emplanement generally means an embarkation on an aircraft by an individual at an airport that is listed in the schedule to the *Air Travellers Security Charge Act*. However, an embarkation that is a reboarding to resume a direct flight, that is for the purpose of transferring to a connecting flight, or that results from the provision of emergency or ground services, is not considered a chargeable emplanement. The ATSC is payable by a person acquiring an air transportation service that includes a chargeable emplanement at the time any consideration is paid or payable for the service. Where no consideration is paid or payable, the ATSC is payable at the time the ticket is issued for the service. The ATSC is collected by the air carrier and remitted to the Canada Revenue Agency.
+
+The Government of Canada has introduced amendments to section 12 of the Act to increase the ATSC rates. The amendments were included in [Bill C-47, Budget Implementation Act, 2023, No. 1](https://www.parl.ca/legisinfo/en/bill/44-1/c-47), which received royal assent on June 22, 2023. The new ATSC rates will apply to air transportation services that include a chargeable emplanement on or after May 1, 2024, if any consideration is paid on or after that date. Where no consideration is paid or payable, the new ATSC rates will apply to air transportation services that include a chargeable emplanement on or after May 1, 2024, if a ticket is issued on or after that date.
+
+## ATSC rates
+
+In general, every person that acquires an air transportation service that includes a chargeable emplanement must pay an amount of ATSC as determined under section 12 of the Act. Section 12 sets out the different ATSC rates based on various factors:
+
+- whether the air transportation service is acquired in or outside Canada
+
+- whether the air transportation service is subject to the GST/HST in accordance with subsection 165(1) of the *Excise Tax Act*
+
+- whether the destination of the air transportation service is:
+
+    - in Canada
+
+    - a transborder destination (that is, a destination in the United States except Hawaii, or in the Islands of St. Pierre and Miquelon)
+
+    - another international destination (that is, a destination that is not in Canada, in the United States other than Hawaii, or in the Islands of St. Pierre and Miquelon)
+
+The tables below summarize the ATSC rates effective May 1, 2024. For the current ATSC rates, go to [Air travellers security charge (ATSC) rates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/atscrates/air-travellers-security-charge-atsc-rates.html).
+
+| **Destination** | **GST/HST** | **Minimum rate of ATSC** | **Maximum rate of ATSC** |
+
+| --- | --- | --- | --- |
+
+| In Canada | Applies | $9.46 for each chargeable emplanement | Up to a maximum of $18.92 |
+
+| In Canada | Does not apply | $9.94 for each chargeable emplanement | Up to a maximum of $19.87 |
+
+| Transborder | Applies | $16.08 for each chargeable emplanement | Up to a maximum of $32.16 |
+
+| Transborder | Does not apply | $16.89 for each chargeable emplanement | Up to a maximum of $33.77 |
+
+| Other international | Does not apply | $34.42 | $34.42 |
+
+| **Destination** | **GST/HST** | **Minimum rate of ATSC** | **Maximum rate of ATSC** |
+
+| --- | --- | --- | --- |
+
+| Transborder | Applies | $16.08 for each chargeable emplanement | Up to a maximum of $32.16 |
+
+| Transborder | Does not apply | $16.89 for each chargeable emplanement | Up to a maximum of $33.77 |
+
+| Other international | Does not apply | $34.42 | $34.42 |
+
+## Further information
+
+For all technical publications related to the *Air Travellers Security Charge Act* and its regulations, go to [Air travellers security charge technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/individuals-air-travellers-security-charge-atsc.html).
+
+For information on how to make a general or technical enquiry on the air travellers security charge, go to [Contact information – Excise and Specialty Tax Directorate](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/excise-taxes-contacts.html).
+
+For information on how to request a ruling or interpretation related to the air travellers security charge, go to [Requesting an excise and specialty tax ruling or interpretation](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/requesting-excise-specialty-tax-ruling-interpretation.html).

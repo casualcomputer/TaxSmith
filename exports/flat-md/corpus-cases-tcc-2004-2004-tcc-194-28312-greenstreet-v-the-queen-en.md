@@ -1,0 +1,133 @@
+---
+title: "Greenstreet v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28312/index.do"
+last_modified: "2004-03-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 194"
+citation2: ""
+neutral_citation: "2004 TCC 194"
+decision_date: "2004-03-30"
+language: "en"
+item_id: "28312"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1831
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:38:55.878000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b31abe7e9c4a3b32e3129549a59816465870d6694f8953944af2587a2736fa05"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Greenstreet v. The Queen
+
+- Citation: 2004 TCC 194
+- Decision date: 2004-03-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1831, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Greenstreet v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-30
+Neutral citation
+2004 TCC 194
+File numbers
+2003-3521(IT)APP
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC194
+Date: 20040330
+Docket: 2003-3521(IT)APP
+BETWEEN:
+RICK GREENSTREET
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+For the Applicant: The Applicant himself
+Counsel for the Respondent: Marlyse Dumel
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on
+January 7, 2004, at Kingston, Ontario)
+McArthur J.
+[1] Mr. Greenstreet applied for an Order extending the time within which he could file a Notice of Appeal with respect to his 1995 taxation year. This arises from unusual, if not unique circumstances. This is the Applicant's second appeal process for the same year. Judge Sarchuk of this Court heard his first appeal from an assessment for the 1995 taxation year, which appeal was dismissed by a Judgment dated March 24, 1999.
+[2] Subsequently, on July 4, 1999, the Applicant submitted an amended income tax return for the same 1995 taxation year. The Minister of National Revenue reviewed this amended return under subsection 152(4.2) of the Income Tax Act. There was confusion in the Minister's office. Upon receipt of the amended return, the Minister's officer, reviewing it, apparently did not realize that the Applicant's 1995 taxation year had been appealed and ruled on by the Tax Court (Judge Sarchuk on March 24, 1999). By letter dated March 5, 2002 [1] the Minister advised the Applicant that his subsequent return was correct. The Applicant states he believed there was no need to object and awaited a refund cheque from the Minister. Yet by letter dated March 15, 2002, [2] the Minister wrote the Applicant stating:
+The confusion stems from our initial dealing in this matter when we were led to believe that a request for adjustment to your 1995 return had been requested by yourself and not dealt with by the Agency. We were unaware at that time that the matter had actually been dealt with, both under a Notice of Objection and subsequently adjudicated at the Tax Court of Canada. As we now know, the Tax Court of Canada dismissed your appeal for an allowable business investment loss and noted that the losses claimed could not be applied against your employment income on your return, rather could only be applied against capital gains. You have sought an adjustment to your return eliminating the "other employment income" in the amount of $18,000 reported in your original return.
+CCRA refers to confusion and, indeed, there was a good deal of confusion. I accept the Minister's position in the letter of May 27, 2002 (Exhibit R-4) when he states:
+We will therefore close out our file without making any changes to your 1995 T1 return.
+where he was referring to the first original return and not the amended version filed in 1999.
+[3] The position of the Minister is that the Applicant's 1995 taxation year was dealt with conclusively by Judge Sarchuk and the July 4, 1999 issues raised by the Applicant are res judicata. Also, the Applicant's 1995 taxation year is statute‑barred. The assessment was dated June 20, 1996 and the three-year limitation period in the Act ended on June 20, 1999. The Applicant's revised return was dated July 4, 1999, 14 days beyond the limitation. The Minister added that he exercised his discretion only in reviewing the amended return pursuant to subsection 152(4.2).
+[4] I will deal with the Minister's primary submissions: firstly, res judicata, that is, have the issues raised by the Applicant been previously dealt with by the Court. In his second return, the Applicant deleted an amount of $18,000 reported on his first return. The $18,000 appears to be the Applicant's share in the distribution of assets including the contents of a bank account upon the dissolution of a partnership. The Applicant's proposed Notice of Appeal is of little assistance in determining why the Applicant originally included the $18,000 in his first return and deleted it in his second return. I believe he stated it is in keeping with the Court Judgment in that, if the $32,000 is capital, the $18,000 is capital and should not have been included as income. This, for reasons that will follow, is not accurate.
+[5] In dismissing the Applicant's appeal, Judge Sarchuk, at paragraphs 11 and 12 of the decision, stated the following:
+11 Allowable business investment losses are certain types of losses which are afforded preferential treatment under the Act …
+12 … The result is that the Applicant has a net capital loss which can be used to reduce capital gains in other years. …
+[6] The Applicant did not focus on the fact that his previous appeal for the 1995 taxation year was dismissed without reservation. Counsel for the Minister referred to Chevron Canada Resources v The Queen, [1997] 2 C.T.C. 2624, where Justice Noël states clearly at paragraphs 36 and 37:
+36 … the position of the Respondent that the only issues that have been conclusively determined are those that have been specifically decided is untenable if the doctrine of res judicata, insofar as it bars further litigation with respect to undecided but related matters, applies. …
+37 … The rule is that a party who under these conditions omits to raise an issue is forever barred from raising it again. To the extent that this rule applies, the matter of the computation of the Respondent's resource allowance must be held to have been conclusively determined by the Consent Judgment.
+He also quoted with approval the Privy Council in Thomas v Trinidad & Tobago (Attorney General), (1990), 115 N.R. 313, as follows:
+… It is in the public interest that there should be finality to litigation and that no person should be subjected to action at the instance of the same individual more than once in relation to the same issue. The principle applies not only where the remedy sought and the grounds therefore are the same in the second action as in the first but also where, the subject matter of the two actions being the same, it is sought to raise in the second action matters of fact or law directly related to the subject matter which could have been but were not raised in the first. …
+… the Court requires that the parties to that litigation bring forward their whole case, …
+It is clear that the above statements apply equally to the present situation. The Judgment dated March 24, 1999 was a final disposition of the Applicant's 1995 taxation year unless he appealed the decision to the Federal Court of Appeal which he did not.
+[7] The Applicant is attempting, in this instance, to raise issues that were or should have been part of the previous litigation and should have been raised at that time and no special circumstances exist in this case that would permit me to re-open the hearing. I conclude that the doctrine of res judicata applies. For this reason alone, I would deny the application.
+[8] While it is not necessary to proceed further, I believe that the Minister's second argument ably presented by counsel is also valid. I agree that the 1995 assessment was statute-barred in July 1999 when the Applicant filed a revised return deleting $18,000 in income referred to in his first return. Subsection 152(4.2) provides that the Minister may reassess beyond the normal reassessment period and this is a discretionary power of the Minister and if he fails to exercise it to the taxpayer's satisfaction, the taxpayer has no recourse in this Court. The Applicant's action to the Tax Court of Canada's Judgment was to appeal to the Federal Court of Appeal. He originally considered that approach and decided it was not economically viable so he is attempting to have the Tax Court hear the same year again. Further, the Applicant did not file a Notice of Objection within the statutory time limit in section 165.
+[9] The Applicant raised several issues that do not advance his position but I will refer to them briefly. He states that CCRA made a ruling supporting the Applicant's calculations and he waited for the return of the money. He went on to say: CCRA commenced collection proceedings so the Applicant filed a Notice of Objection yet CCRA garnished his wages despite prohibition in the Act and the Minister continued to "steal" the Applicant's wages. He also referred to other errors of CCRA officials including, apparently, a reversal of the March 5, 2002 decision. It is well-founded in law that estoppel cannot override the law. A mistake by an officer of CCRA does not override the law and the law is as described earlier in this decision.
+[10] For these reasons, the application for extension of time to file a Notice of Appeal with respect to he Applicant's 1995 taxation year is denied.
+Signed at Ottawa, Canada, this 30th day of March, 2004.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2004TCC194
+COURT FILE NO.:
+2003-3521(IT)APP
+STYLE OF CAUSE:
+Rick Greenstreet and Her Majesty the Queen
+PLACE OF HEARING:
+Kingston, Ontario
+DATE OF HEARING:
+January 6, 2004
+REASONS FOR ORDER BY:
+The Honourable Justice C.H. McArthur
+DATE OF ORDER:
+January 14, 2004
+APPEARANCES:
+For the Applicant
+The Applicant himself
+Counsel for the Respondent:
+Marlyse Dumel
+COUNSEL OF RECORD:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This letter dated March 5, 2002 has been lost or misplaced.
+[2] It is also referred to as a letter being dated March 17, 2002 (Exhibit R-3).

@@ -1,0 +1,129 @@
+---
+title: "Ballard v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26529/index.do"
+last_modified: "2005-07-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 466"
+citation2: ""
+neutral_citation: "2005 TCC 466"
+decision_date: "2005-07-22"
+language: "en"
+item_id: "26529"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3212
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:32:53.575000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "70f0e5d5d45d7885f3b62d4260a7baae45f82d148bf0e0a0307f64d367de1c2e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ballard v. The Queen
+
+- Citation: 2005 TCC 466
+- Decision date: 2005-07-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3212, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ballard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-07-22
+Neutral citation
+2005 TCC 466
+File numbers
+96-1883(IT)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 96-1883(IT)G
+Citation No: 2005TCC466
+Date: 20050722
+BETWEEN:
+WILLIAM O.S. BALLARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard by telephone conference call on July 19, 2005
+By: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+George E.H. Cadman, Q.C.
+Counsel for the Respondent:
+S. Patricia Lee, Eric Noble,
+Robert Carvalho and Gavin Laird
+____________________________________________________________________
+REASONS FOR ORDER AND ORDER
+[1] This motion by the Respondent is for an order to require the Appellant to inquire of "Mr. John Perkins", a law partner and admitted agent and business advisor of the Appellant in this and other matters as to:
+1. (a) due diligence he conducted on behalf of the Appellant in the "Claridge" transaction;
+(b) whether he received or reviewed three volumes of promotional material;
+(c) what information he has about his calculations as to money the Appellant would make from his investment on the Claridge; and
+(d) what asset the Appellant disposed of in 1988 that caused a capital gain and if Mr. Perkins or Barry Witkin (the Appellant's former accountant) have any records in that regard.
+2. An order that the Appellant ask Messrs. Perkins and Witkin to produce these records and that the Appellant produce them.
+Etc.
+[2] The motion is brought under sub rules 95(2) and 105(2). They read:
+95. (2) Prior to the examination for discovery, the person to be examined shall make all reasonable inquiries regarding the matters in issue from all of the party's officers, servants, agents and employees, past or present, either within or outside Canada and, if necessary, the person being examined for discovery may be required to become better informed and for that purpose the examination may be adjourned.
+105. (2) Where a person admits, on an examination, that he or she has possession or control of or power over any other document that relates to a matter in issue in the proceeding and that is not privileged, the person shall produce it for inspection by the examining party forthwith, if the person has the document at the examination, and if not, within ten days thereafter, unless the Court directs otherwise.
+[3] Appellant's counsel and the Appellant objected to this on the basis that:
+1. These documents are not in the Appellant's control.
+2. The Appellant is under no obligation to make such inquiry of Mr. Perkins. The Respondent is given full freedom to inquire directly of Mr. Perkins.
+3. Responses would be of hearsay from Mr. Perkins.
+4. The records respecting the asset disposed of 16 years ago are likely non-existent; and that is irrelevant.
+[4] All that is being asked is that the Appellant make these inquiries and produce his and his agent's or accountant's records, These are reasonable requests for reasonable inquiries and for his own documents, since they go to the heart of the issue in dispute in this appeal - all as set forth in sub rule 95(2) which describes the Appellant's duties in respect to his examination for discovery. They are important to the Respondent because his answers in examination for discovery are binding on the Appellant. But sub rule 95(2) does not require the Appellant to ask for the documents of third parties.
+[5] With respect to the 16 year old disposition or dispositions, they are recorded in the millions of dollars and relate to the motive or intention of the Appellant in acquiring a loss for income tax purposes in Canada. That is a reasonable query in this case which is an appeal of an assessment disallowing the loss claimed by the Appellant on his Claridge investments. As for the Appellant's "16 year" concern, that occurred because the Appellant agreed to postpone proceedings in this appeal pending the outcome of the Nichols and Witkin appeals respecting Claridge investments. That took a number of years. Thus any time lapse occurred at the express wish of the Appellant.
+[6] With respect to the particular wording of the Respondent's motion dated July 7, 2005, the Court orders:
+1. Paragraph 1 is ordered as worded. These are reasonable inquiries which the Appellant should undertake of his agent and of his accountant pursuant to sub rule 95(2).
+2. Paragraph 2 is denied. Sub rule 95(2) does not require the Appellant to ask for Mr. Perkins or Mr. Witkins documents. Such documents may or may not be accessible by the Appellant, depending on the nature of the agency contract of the third parties. As proposed by Appellant's counsel, Respondent's counsel may make appropriate inquiries of these third parties.
+[7] The Appellant is ordered to attend the examination for discovery to comply with this order, and each party is to pay its own expenses.
+[8] Costs are in the cause.
+Signed at Saskatoon, Saskatchewan, this 22nd day of July 2005.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2005TCC466
+COURT FILE NOS.: 96-1883(IT)G
+STYLE OF CAUSE: William O.S. Ballard v. The Queen
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: July 19, 2005
+ORDER AND REASONS FOR
+ORDER BY: The Honourable Justice D.W. Beaubier
+DATE OF ORDER AND
+REASONS FOR ORDER: July 22, 2005
+APPEARANCES:
+For the Appellant:
+George Cadman, Q.C.
+Counsel for the Respondent:
+Patricia Lee, Eric Noble, Robert Carvalho
+and Gavin Laird
+COUNSEL OF RECORD:
+For the Appellant:
+Name: George Cadman, Q.C.
+Firm: Boughton Peterson Yang Anderson Law
+Corporation
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

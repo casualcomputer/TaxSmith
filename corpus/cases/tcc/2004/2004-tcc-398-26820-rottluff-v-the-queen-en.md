@@ -1,0 +1,150 @@
+---
+title: "Rottluff v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26820/index.do"
+last_modified: "2004-06-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 398"
+citation2: ""
+neutral_citation: "2004 TCC 398"
+decision_date: "2004-06-08"
+language: "en"
+item_id: "26820"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 691
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:22:14.361000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "595027746a3ee0c2bbfa8946abbdf10538f5ddd70a8bab95bbdf6438eeacf783"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rottluff v. The Queen
+
+- Citation: 2004 TCC 398
+- Decision date: 2004-06-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 691, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rottluff v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-08
+Neutral citation
+2004 TCC 398
+File numbers
+2003-2718(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2718(IT)I
+BETWEEN:
+JERRY ROTTLUFF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 6, 2004 at Kamloops, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Nadine Rottluff
+Counsel for the Respondent:
+Shawna Cruz
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 8th day of June 2004.
+"L.M. Little"
+Little J.
+Citation: 2004TCC398
+Date: 20040608
+Docket: 2003-2718(IT)I
+BETWEEN:
+JERRY ROTTLUFF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS:
+[1] In the relevant years the Appellant was employed as a retail clerk by Canada Safeway Ltd. in a retail store located at 1033 Austin Avenue, Coquitlam, British Columbia.
+[2] In September 1996 the Appellant and his spouse sold their home in Aldergrove, British Columbia and moved their personal possessions to a rented storage facility located at Scotch Creek, British Columbia.
+[3] After the family home was sold the Appellant, his spouse and their two children lived in the basement of a house owned by Don and Laura Clark in Langley, British Columbia. Don and Laura Clark are the parents of the Appellant's spouse.
+[4] In the fall of 1996 the Appellant and his spouse purchased a house in Celista, British Columbia. Celista is located between Salmon Arm and Chase, in the Province of British Columbia.
+[5] In March 1997, the Appellant, his spouse and their children moved to the house located in Celista. The Appellant also moved the family's personal possessions from the storage facility in Scotch Creek to the house located in Celista.
+[6] The Appellant testified that he attempted to have his employer, Canada Safeway Ltd., transfer him to one of their retail stores either in Salmon Arm or Kamloops but he was unsuccessful.
+[7] The Appellant enrolled in a real estate course at the University of British Columbia and on April 3, 2000 qualified as a Property Manager (Exhibit A-7).
+[8] In April 2001, the Appellant was retained as a property manager by Century 21 Lakeside Resort Ltd. ("Century 21") in Celista.
+[9] The Appellant resigned as a property manager for Century 21 in September 2001 and returned to his employment position at Canada Safeway Ltd. in the Coquitlam store.
+[10] The Appellant said that from April 1997 to the present time his wife and their two children have continuously lived in their home in Celista. The Appellant also stated that he has worked continuously with Canada Safeway except for the several months in 1991 when he was retained as a property manager by Century 21.
+[11] The Appellant said that after his wife and children moved to the Celista home in April 1997, he lived with his in-laws in Aldergrove. The Appellant said that he would usually commute to Celista every 10 days, stay in Celista with his wife and children for four days and then return to the in-law's house in Langley.
+[12] The Appellant incurred moving expenses in the amount of $4,547.00 in 1997 in connection with the move of his family to Celista.
+[13] When the Appellant filed his income tax return for the 2001 taxation year he deducted moving expenses in the amount of $4,547.00.
+[14] The Appellant's wife incurred moving expenses in the amount of $13,891.00 in 1997. The Appellant's wife claimed and was allowed to deduct moving expenses of $13,891.00 in determining her income for the 1998 taxation year (the Appellant's wife had no income in the 1997 taxation year and the moving expenses were carried forward to the 1998 taxation year).
+B. ISSUE:
+[15] The issue is whether the Appellant is entitled to deduct moving expenses in the amount of $4,547.00 that he paid in 1996 and 1997 in determining his income for the 2001 taxation year.
+C. ANALYSIS:
+[16] Subsection 62(1) of the Income Tax Act (the "Act") permits a taxpayer who moves from one residence in Canada to another residence in Canada to deduct certain moving expenses if the move is made in connection with the commencement of a business or employment at a particular location in Canada. The taxpayer's new residence must be at least 40 kilometres closer to the new place of employment or place of business.
+[17] The moving expenses are only deductible to the extent of the taxpayer's business or employment income at the new location.
+[18] Moving expenses of a taxpayer may be deducted in the year of the move or, if they cannot be deducted in the year of the move, the expenses may be deducted in the following taxation year.
+[19] It is clear from the words of the Act that in order to deduct moving expenses a taxpayer must commence to be employed at the new location in Canada.
+[20] The Appellant maintains that he should be allowed to deduct the moving expense of $4,547.00 that he paid in 1996 and 1997 in determining his income for the 2001 taxation year because he accepted employment with Century 21 as a property manager at Celista in 2001.
+[21] In my opinion the Appellant cannot come within the words of the Act because all of the moving expenses claimed were paid in 1996 and 1997, i.e. some four to five years before he obtained a position with Century 21.
+[22] I have concluded that the Minister of National Revenue correctly disallowed the deduction of the expenses claimed by the Appellant in the 2001 taxation year because the expenses that were claimed were not incurred in the 2001 taxation year or the preceding year as required by section 62 of the Act.
+[23] The appeal is dismissed without costs.
+Signed at Vancouver, British Columbia, this 8th day of June 2004.
+"L.M. Little"
+Little J.
+CITATION:
+2004TCC398
+COURT FILE NO.:
+2003-2718(IT)I
+STYLE OF CAUSE:
+Jerry Rottluff and
+Her Majesty the Queen
+PLACE OF HEARING:
+Kamloops, British Columbia
+DATE OF HEARING:
+February 6, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+June 8, 2004
+APPEARANCES:
+Agent for the Appellant:
+Nadine Rottluff
+Counsel for the Respondent:
+Shawna Cruz
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,103 @@
+---
+title: "Filipek v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29683/index.do"
+last_modified: "2010-03-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 152"
+citation2: ""
+neutral_citation: "2010 TCC 152"
+decision_date: "2010-03-15"
+language: "en"
+item_id: "29683"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6249
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:33:04.290000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "39444708506c4880684fb5669169ab5b93d85f361dfadecd44bf2d60b13a7415"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Filipek v. The Queen
+
+- Citation: 2010 TCC 152
+- Decision date: 2010-03-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6249, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Filipek v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-15
+Neutral citation
+2010 TCC 152
+File numbers
+2004-1682(IT)G
+Judges and Taxing Officers
+Roula Eatrides
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1682(IT)G
+BETWEEN:
+NEIL FILIPEK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+CERTIFICATE OF COSTS
+I CERTIFY that I have taxed the party and party costs of the Respondent in this proceeding under the authority of subsection 153(1) of the Tax Court of Canada Rules (General Procedure) and I ALLOW THE SUM of $13,294.01.
+Signed at Ottawa, Ontario, this 15th day of March 2010.
+“Roula Eatrides”
+Taxing Officer
+Citation: 2010 TCC 152
+Date: 20100315
+Docket: 2004-1682(IT)G
+BETWEEN:
+NEIL FILIPEK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR TAXATION
+Roula Eatrides, Registrar, T.C.C.
+[1] This matter was heard in person on Wednesday, March 3, 2010. It follows a Judgment of the Honourable Justice Campbell Miller of this Court issued on June 16, 2008, dismissing the appeal, with costs to the Respondent.
+[2] The Appellant was represented by Ms. Frances M. Viele, and the Respondent was represented by Mr. Ernest Wheeler and Mr. Steven Leckie.
+[3] At the hearing, counsel for the Respondent conceded that GST in the amount of $97.97 was claimed in error and should be removed from the Bill of Costs.
+[4] The only items in dispute between the parties are Item No. B1(1)(h), costs of second counsel, and Item No. B1(1)(2), printing costs.
+Item No. B1(1)(h) – Costs of Second Counsel
+[5] Counsel for the Appellant submitted that the amount in Item No. B1(1)(h) of $3,000 for second counsel should not be allowed. First, she submitted that the issue was not complex and therefore second counsel was not required. Ms. Viele is a sole practitioner. While she brought a retired lawyer, Ms. Pam Owen-LaFrance, with her to the hearing, she did not charge the Appellant for Ms. Owen-LaFrance’s services. Ms. Viele conducted the trial alone and submits that one lawyer would have been more than capable. She asserted that it was a simple fact finding exercise as to whether the Appellant was a resident, in which the burden rested with her client. She also submitted that while the trial was conducted over three and a half days, the discovery lasted less than 4 hours. Second, she submitted that while Mr. Leckie attended the hearing in Vancouver, Mr. Wheeler had carriage of the file, conducted all cross-examinations and made final submissions. She submitted that Mr. Leckie did not actively participate and that he was not essential to the conduct of the hearing. Counsel for the Appellant submitted that detailed note taking could have been performed by someone who is not counsel.
+[6] Counsel for the Respondent argued that Ms. Owen-La France reasonably appeared to be second counsel for the Appellant: she was gowned, sat at the counsel table, spoke with witnesses at the trial and was listed as counsel of record. Counsel for the Respondent also submitted that Mr. Leckie was present, gowned throughout the trial and took detailed notes on his laptop. Mr. Wheeler asserted that Mr. Leckie’s assistance was invaluable to the process. Second, counsel to the Respondent asserted that while the hearing was not legally complex, it was factually complex. He rebutted that Mr. Leckie took long and detailed cross-examination notes and worked long hours cross-referencing testimony and documentation to point out inconsistencies. Counsel for the Respondent also submitted that the tariff is for trial, not discovery and hence the duration of the discovery is irrelevant.
+[7] Concerning Item No. B1(1)(h), I am in agreement with counsel for the Respondent. It would reasonably appear that Ms. Owen-LaFrance was second counsel to the Appellant. I also agree with the Respondent that Mr. Leckie was present and contributed to the litigation process. In Jolly Farmer Products Inc. v. Her Majesty the Queen 2008 CarswellNat 4737, it was held:
+I see no basis for the Crown’s position that a junior counsel fee should not be awarded because the junior counsel did not lead evidence or argue. He was present, gowned and assisting throughout. The Crown had two counsel. The Court routinely awards multiple counsel fees and our tariff contemplates it, even though it is always the case that only one counsel per party will be on their feet or talking at a time. The presence and contribution of both of the taxpayer’s counsel are being considered in my fixing of costs in this matter.
+[8] In keeping with the above decision, Item No. B1(1)(h) is allowed as claimed at $3,000.00.
+Item No. B1(1)(2) – Photocopy Costs
+[9] Counsel for the Appellant submitted that the full amount of photocopy costs incurred by the Respondent, in the amount of $731.24, should not be allowed. She submitted that the disbursements incurred for producing 3 copies of the 4 volumes of the Books of Documents, at $0.25 per page, were excessive. Counsel for the Appellant asserted that counsel for the Respondent should have attempted to obtain the best possible price for the copies and that $450-500 would have been more reasonable. She further submitted that she obtained an alternative cost of $266.65 for the same work. Counsel for the Appellant also noted that the printing was done on February 22, 2005 and that the trial was not held until 2008. She further submitted that at the hearing of the appeal, the Crown relied upon the Book of Documents prepared by the Appellant and that the Respondent did not provide any documents to the court.
+[10] Counsel for the Respondent rebutted the argument that the cost per page was too high by referring to the Jolly Farm Products case, in which the court granted the party its actual outsourced copying disbursements. It was submitted that the photocopied Book of Documents was voluminous as it contained everything the Canada Revenue Agency held on file due to the factual complexity of the case. Counsel for the Respondent asserted that the Department of Justice uses competitive pricing whenever printing is outsourced. Furthermore, the documentation was used for oral discovery in 2005, which preceded the trial held in 2008, but which was still part of the litigation process. He also asserted that there was no express agreement between the parties with respect to documentation to be used during the trial and that counsel for the Respondent did not know which documents they should be bringing to court.
+[11] The disbursement claimed for photocopies was supported by a copy of the invoice from Bradda Printing Services Inc. While the amount claimed for photocopies is substantial, I do not find it to be unreasonable. I accept Mr. Wheeler’s explanation that the photocopies were used during oral discovery and the hearing of the appeal which took place over several days, with numerous exhibits filed. I am satisfied that the expense is reasonable and was incurred for the purpose of the litigation. I will allow the full amount claimed for photocopies.
+[12] As there was no challenge to the other Items claimed, they will be allowed as submitted, with the reduction of GST as discussed above.
+[13] The Bill of Costs is taxed, and I allow the sum of $13,294.01.
+Signed at Ottawa, Ontario, this 15th day of March 2010.
+“Roula Eatrides”
+Taxing Officer

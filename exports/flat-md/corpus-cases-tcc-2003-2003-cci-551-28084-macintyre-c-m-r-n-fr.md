@@ -1,0 +1,235 @@
+---
+title: "MacIntyre c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28084/index.do"
+last_modified: "2003-08-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 551"
+citation2: ""
+neutral_citation: "2003 CCI 551"
+decision_date: "2003-08-01"
+language: "fr"
+item_id: "28084"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1669
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:54:44.901000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bfe8441744d405240c7a3857bc6ec776e9604e6b4d9ccf320d1a8399d44c4b3d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# MacIntyre c. M.R.N.
+
+- Citation: 2003 CCI 551
+- Decision date: 2003-08-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1669, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacIntyre c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-08-01
+Référence neutre
+2003 CCI 551
+Numéro de dossier
+2002-4201(EI)
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-4201(EI)
+ENTRE :
+DONALD MACINTYRE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MAUREEN MACINTYRE, FAISANT AFFAIRE SOUS LA RAISON SOCIALE DE MAC’S CABINETS,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Maureen MacIntyre, faisant affaire sous la raison sociale de Mac’s Cabinets (2002‑4235(EI)), le 25 juin 2003, à Sudbury (Ontario)
+Devant : L’honorable juge Gerald J. Rip
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me George Boyd Aitken
+Pour l’intervenante :
+L’intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+L’appel formé en application du paragraphe 103(1) de la Loi sur l’assurance-emploi est rejeté, et la décision rendue par le ministre à la suite du recours déposé devant lui en application de l’article 91 de la Loi est confirmée.
+Fait à Ottawa, Canada, ce 1er jour d’août 2003.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 11e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+Dossier : 2002-4235(EI)
+ENTRE :
+MAUREEN MACINTYRE, FAISANT AFFAIRE SOUS LA RAISON SOCIALE DE MAC’S CABINETS,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+DONALD MACINTYRE,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Donald MacIntyre (2002-4201(EI))
+le 25 juin 2003, à Sudbury (Ontario)
+Devant : L’honorable juge Gerald J. Rip
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me George Boyd Aitken
+Pour l’intervenant :
+L’intervenant lui-même
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en application du paragraphe 103(1) de la Loi sur l’assurance-emploi est rejeté, et la décision rendue par le ministre à la suite du recours déposé devant lui en application de l’article 91 de la Loi est confirmée.
+Fait à Ottawa, Canada, ce 1er jour d’août 2003.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 11e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2003CCI551
+Date : 20030801
+Dossier : 2002-4201(EI)
+ENTRE :
+DONALD MACINTYRE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MAUREEN MACINTYRE, FAISANT AFFAIRE SOUS LA RAISON SOCIALE DE MAC’S CABINETS,
+intervenante.
+ET
+Référence : 2003CCI554
+Dossier : 2002-4235(EI)
+ENTRE :
+MAUREEN MACINTYRE FAISANT AFFAIRE SOUS LA RAISON SOCIALE DE MAC’S CABINETS,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+DONALD MACINTYRE,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] Donald MacIntyre et son épouse, Maureen MacIntyre, font appel d’une décision du ministre du Revenu national, en date du 24 septembre 2002, pour qui l’emploi de Donald MacIntyre auprès de Maureen MacIntyre, du 26 février 2001 au 6 avril 2001 (la période), n’était pas un emploi assurable, au sens du paragraphe 5(1) de la Loi sur l’assurance-emploi, au motif que les appelants avaient un lien de dépendance et qu’il était raisonnable de conclure qu’ils n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance durant la période : alinéas 5(2)i) et 5(3)b) de la Loi.
+[2] Chacun des appelants est intervenu dans l’appel de l’autre; les appels ont été entendus sur preuve commune.
+[3] Dans un appel formé contre une décision rendue par le ministre en application de l’alinéa 5(3)b) de la Loi, un juge de la Cour doit d’abord évaluer la légalité de la décision du ministre, c’est-à-dire se demander si le ministre a validement exercé son pouvoir discrétionnaire en rendant sa décision. Si le ministre a exercé son pouvoir discrétionnaire conformément au droit, alors, quand bien même le juge ne souscrirait-il pas à la décision du ministre, il doit acquiescer à cette décision[1]. Dans l’arrêt Jencan, le juge en chef de la Cour d’appel fédérale, à l’époque, écrivait que le pouvoir de la Cour canadienne de l’impôt de contrôler la décision rendue par le ministre en vertu du sous-alinéa 3(2)c)(ii) est circonscrit par le pouvoir discrétionnaire accordé au ministre de rendre une telle décision. Cependant, même un pouvoir discrétionnaire, ajoutait le juge en chef, peut être l’objet d’un contrôle judiciaire, qui permettra de dire s’il a été exercé d’une manière conforme au droit. Lorsqu’elle évalue la manière dont le ministre a exercé son pouvoir discrétionnaire, la Cour canadienne de l’impôt, ajoutait le juge en chef, peut tenir compte des faits qui ont été portés à son attention au cours de l’audition de l’appel.
+[4] La Cour canadienne de l’impôt peut intervenir et examiner le bien-fondé de la décision du ministre si l’un des motifs suivants d’intervention est établi : a) le ministre a agi de mauvaise foi ou dans un but ou un mobile illicites; b) il n’a pas tenu compte de toutes les circonstances pertinentes, comme l’exigent expressément les sous‑alinéas 3(2)c)(ii) ou (iii); c) il a tenu compte d’un facteur non pertinent[2].
+[5] Pour rendre sa décision en application de l’alinéa 5(3)b) de la Loi, le ministre s’est fondé sur les faits suivants, qu’il a tenus pour avérés :
+a) l’appelante [Mme MacIntyre] est l’épouse du travailleur [M. MacIntyre];
+b) l’appelante exploite une entreprise qui consiste à fabriquer et installer des placards en bois dans les habitations et les édifices commerciaux;
+c) les tâches du travailleur consistaient à enlever les anciens placards et à en fabriquer et installer de nouveaux;
+d) durant l’époque pertinente, l’appelante n’a décroché qu’un seul petit contrat d’installation d’armoires dans une habitation;
+e) en 2001, le travailleur était l’unique employé de l’appelante;
+f) l’appelante travaillait à temps plein ailleurs et exerçait peu de surveillance, voire aucune, sur le travailleur, ce qui n’est pas courant lorsque deux personnes n’ont pas de lien de dépendance;
+g) le travailleur exécutait son travail en partie dans un atelier se trouvant chez lui, et en partie dans les locaux du client;
+h) le travailleur était rémunéré à raison d’une semaine de 40 heures, sans égard au nombre d’heures effectivement travaillées;
+i) le travailleur n’était pas toujours payé à la date normalement prévue, ce qui n’est pas courant quand deux personnes n’ont pas de lien de dépendance;
+j) le travailleur et l’appelante ont un lien de dépendance.
+[6] M. MacIntyre est un charpentier d’expérience qui, à la suite de difficultés professionnelles il y a 17 ans, s’est joint à la section locale de Sudbury du syndicat des charpentiers et s’est mis à exercer son métier à Sudbury et dans d’autres régions de l’Ontario. Au cours de la période, la section locale avait des ententes dans le secteur de la construction industrielle, commerciale et institutionnelle et dans le secteur de la construction lourde; elle avait aussi une entente avec Hydro‑Ontario. La section locale n’avait pas alors d’entente dans le secteur de la construction résidentielle. Le taux de rémunération horaire d’un charpentier dépendait du secteur de la construction où il travaillait : le secteur de la construction industrielle, commerciale et institutionnelle (le secteur de la construction I.C.I.) était le plus rémunérateur, et le secteur de la construction résidentielle (à Toronto) le moins rémunérateur.
+[7] En 2001, selon M. MacIntyre, le taux horaire syndical dans le secteur de la construction I.C.I. variait entre 20 $ et 25 $.
+[8] Mme MacIntyre exploitait l’entreprise Mac’s Cabinets, qui consistait en la fabrication et l’installation de placards en bois dans les habitations et les édifices commerciaux. En 1999, elle a aussi confectionné et installé, en tant que sous‑traitant pour la Société des loteries de l’Ontario, des panonceaux dans la salle des machines à sous de l’hippodrome Sudbury Downs, à Sudbury (Ontario).
+[9] En 1999, Mme MacIntyre a signé une lettre d’accord avec le syndicat des charpentiers. Les membres du syndicat ont confectionné et installé les panonceaux à l’hippodrome Sudbury Downs. À l’époque où Mme MacIntyre a entrepris l’exécution du contrat à Sudbury Downs, M. MacIntyre était sans travail. Il a expliqué que son épouse avait téléphoné au bureau de placement syndical pour obtenir des travailleurs et que trois ou quatre travailleurs syndiqués avaient été envoyés sur les lieux et s’étaient présentés au contremaître. Le contremaître et les charpentiers étaient des employés de Mme MacIntyre. Les charpentiers se voient attribuer des tâches selon l’ordre dans lequel leurs noms figurent sur une liste d’embauchage. L’employeur peut embaucher un charpentier qui ne figure pas sur la liste; Mme MacIntyre avait embauché M. Blinder, le contremaître. C’est quatre semaines après le début des travaux à Sudbury Downs que le nom de M. MacIntyre fut choisi sur la liste d’embauchage, et, durant dix jours, il a travaillé pour son épouse à Sudbury Downs.
+[10] Au début de 2001, M. MacIntyre était temporairement sans travail et il recevait des prestations d’assurance-emploi. Son épouse avait un contrat avec un certain Robert DeForge, pour la confection et l’installation d’armoires de cuisine au domicile de M. DeForge. Mme MacIntyre a engagé son mari pour faire le travail, moyennant une rémunération de 18 $ l’heure. M. MacIntyre a dit qu’il ne travaillait pas pour moins de 18 $ l’heure, le taux qui était payé à l’époque à Toronto pour des travaux dans le secteur résidentiel. Il a reconnu que des avantages de la santé et du bien-être sont ajoutés au taux horaire syndical, mais ces avantages ne figuraient pas dans la rétribution qu’il recevait de son épouse.
+[11] Le contrat conclu avec M. DeForge était chiffré à 6 420 $, dont 1 000 $ payé lorsque le contrat fut signé par M. DeForge le 24 février 2001, le solde devant être payé à raison de 2 420 $ au moment de la livraison des matériaux, et de 3 000 $ à l’achèvement des travaux. Mme MacIntyre a dit que les travaux avaient nécessité environ [traduction] « cinq à six semaines » et avaient pris fin vers le 3 avril 2001, date à laquelle la somme de 3 000 $ fut déposée dans le compte bancaire de Mac’s Cabinets. Mme MacIntyre s’est souvenue que [traduction] « quelques retouches » avaient été faites plus tard, qui avaient nécessité environ deux ou trois jours.
+[12] À l’époque du contrat DeForge et durant la quasi-totalité des années 2000 et 2001, Mme MacIntyre a travaillé sporadiquement pour le gouvernement fédéral et, lorsqu’elle travaillait, elle était payée toutes les deux semaines. Elle devait parfois attendre 30 jours pour avoir son premier chèque de paie du gouvernement. Elle a aussi eu d’autres emplois, et il lui arrivait d’en avoir deux en même temps. Elle prévoyait de payer M. MacIntyre toutes les deux semaines. Les travailleurs syndiqués sont payés chaque semaine. Mme MacIntyre a été en retard [traduction] « à cinq ou six occasions ». Elle finissait par payer M. MacIntyre, [traduction] « mais parfois [la situation] était difficile à gérer », et M. MacIntyre devait [traduction] « exercer des pressions pour se faire payer ». Lorsque M. MacIntyre ne reçoit pas son salaire dans des emplois syndiqués, il en réfère à l’agent syndical. Il y a eu des cas, a-t-il dit, où un entrepreneur déclare faillite, et alors il n’est pas rémunéré pour son travail.
+[13] M. MacIntyre a dit qu’il avait travaillé chaque jour pour son épouse durant la période, à savoir du lundi au vendredi, de 8 heures à 16 h 30. Il prenait toutes les deux heures une pause rémunérée de 15 minutes, et une autre d’une demi-heure pour le dîner, pour laquelle il n’était pas rémunéré. Il travaillait 40 heures par semaine.
+[14] Personne ne supervisait M. MacIntyre lorsqu’il travaillait pour Mme MacIntyre. Il ne consignait pas ses heures. À la fin de la semaine, il disait à son épouse le nombre d’heures travaillées. Mme MacIntyre a dit qu’elle consignait les heures de son mari sur des feuilles de présence, [traduction] « probablement » lorsque [traduction] « le travail était terminé » pour la semaine. Même dans un emploi syndiqué, il ne pointe ni à l’arrivée ni à la sortie, a déclaré M. MacIntyre. [traduction] « On me voit travailler… on me fait confiance… » M. MacIntyre a dit qu’on lui assigne des tâches et qu’il les exécute. [traduction] « Presque tous mes gestes sont visibles », de telle sorte que l’employeur le voit travailler. Il s’est plaint qu’un questionnaire que lui a envoyé l’Agence des douanes et du revenu du Canada [traduction] « ne tienne aucun compte de la structure dans laquelle je travaille ». Il a ajouté que, lorsqu’on embauche un compagnon charpentier, [traduction] « vous n’allez pas contrôler tous ses faits et gestes… il n’est pas un apprenti… » Lorsqu’il confectionne des armoires, il ne compte pas être surveillé.
+[15] L’avocat de l’intimé s’est demandé pourquoi M. MacIntyre tardait à encaisser les chèques de paie que lui remettait Mme MacIntyre. Par exemple, des chèques, chacun au montant de 1 164,97 $, datés du 1er mai et du 15 mai 2001, ont tous deux été encaissés le 23 mai 2001. M. MacIntyre a expliqué qu’il a pour habitude d’attendre pour encaisser ses chèques, bien qu’il insiste pour recevoir les chèques à temps. Il a déclaré qu’il n’a pas un besoin immédiat d’argent et qu’il ne court pas à la banque; il se présente à sa banque rarement.
+[16] Je relève que, le 1er mai et le 15 mai 2001, il y avait des fonds suffisants dans le compte bancaire de Mac’s Cabinets pour que les chèques soient honorés.
+[17] Parmi les pièces produites par l’intimé, il y avait un reçu présumé, daté du 17 avril 2001, pour la somme de 1 164,97 $, représentant la rémunération nette de M. MacIntyre en espèces, pour la période de deux semaines allant du 26 février au 9 mars 2001. Le reçu n’est pas signé par M. MacIntyre, mais par « Mac’s Cabinets ... Maureen MacIntyre », l’épouse de M. MacIntyre. M. MacIntyre a dit qu’il n’était [traduction] « pas rare qu’on soit payé en espèces ». J’observe que le compte bancaire de Mac’s Cabinets avait un solde de 3 204,93 $ le 3 avril 2001; ce compte n’a été l’objet d’aucun chèque ni d’aucun retrait de fonds durant la période allant du 4 au 30 avril 2001.
+[18] Mme MacIntyre a témoigné que M. DeForge avait fait en espèces les deux premiers paiements prévus par le contrat et qu’elle avait appliqué la somme reçue à l’achat de matériaux pour l’exécution du contrat. Elle a reconnu qu’elle n’avait payé son mari qu’en mai. Le 17 avril 2001, elle l’avait payé pour le travail qu’il avait fait en février; elle a dit qu’elle devait [traduction] « attendre les rentrées d’argent ». Elle n’a pas indiqué la source des fonds employés pour payer son mari le 17 avril 2001. L’argent n’était pas sorti de son compte bancaire.
+[19] Mme MacIntyre a enregistré le 8 septembre 1999 la raison sociale de son entreprise, Mac’s Cabinets. Elle a fait insérer une annonce dans les pages jaunes de l’annuaire téléphonique de 2001. Elle a des téléphones distincts pour l’entreprise et pour la famille. Récemment, l’entreprise a été mise [traduction] « en suspens » jusqu’à l’issue du présent appel. Mme MacIntyre [traduction] « voudrait savoir à quoi [s’]en tenir » quant à la possibilité pour son mari d’occuper pour elle un emploi assurable.
+[20] Il semble que Mme MacIntyre n’a pas exploité de manière continue l’entreprise de Mac’s Cabinets. Elle n’a obtenu que deux contrats depuis qu’elle a établi son entreprise, l’un avec la Société des loteries de l’Ontario en 1999 et l’autre avec M. DeForge en 2001.
+[21] Mme MacIntyre a affirmé qu’elle était propriétaire des outils de l’atelier de menuiserie, dans le sous-sol de sa maison. Il s’agissait de petits outils, par exemple une varlope, un rabot et une ponceuse. M. et Mme MacIntyre achetaient tous deux des outils, et il était [traduction] « difficile de savoir qui était propriétaire de quoi », a-t-elle déclaré.
+[22] Les outils de M. MacIntyre étaient sa ceinture à outils, son marteau, ses pinces, ses tournevis et autres outils à main dont les charpentiers sont habituellement équipés.
+[23] Selon la preuve produite, le ministre a commis une erreur dans sa décision en tenant pour avérés les faits suivants :
+a) Mme MacIntyre exerçait peu de surveillance, voire aucune, sur M. MacIntyre, ce qui n’est pas courant lorsque deux personnes n’ont pas de lien de dépendance.
+La preuve, qui n’a été contredite par aucun témoin, était que, même dans des emplois syndiqués et sans lien de dépendance, M. MacIntyre n’est l’objet d’aucune supervision.
+b) M. MacIntyre était rémunéré à raison d’une semaine de 40 heures, sans égard au nombre d’heures effectivement travaillées.
+Ce fait a été énergiquement nié par M. MacIntyre. Il a dit qu’il était payé pour ses heures effectivement travaillées. L’intimé n’a pas présenté de preuve indiquant le contraire.
+[24] Les appels devraient être rejetés pour le motif indiqué dans l’alinéa 5(2)i) et le paragraphe 5(3) de la Loi : M. et Mme MacIntyre avaient un lien de dépendance au cours de la période et, vu la preuve produite durant l’instruction, il était raisonnable pour le ministre de conclure qu’ils n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[25] Il y a évidemment, dans le contrat de travail conclu entre M. et Mme MacIntyre, des modalités que le ministre a laissées de côté, à savoir le fait qu’il était acceptable que M. MacIntyre ne soit pas supervisé même lorsqu’il occupait des emplois syndiqués normaux, et le fait qu’il était probable qu’il travaillait 40 heures par semaine pour Mme MacIntyre.
+[26] Cependant, ce qui selon moi est capital dans la conclusion à laquelle j’arrive, c’est le témoignage de Mme MacIntyre selon lequel elle n’exploitera son entreprise que si M. MacIntyre peut faire le travail pour elle. C’est la raison pour laquelle, a‑t‑elle dit, l’entreprise a été mise [traduction] « en suspens ». Si Mme MacIntyre exploitait véritablement une entreprise, elle ne mettrait pas l’entreprise [traduction] « en suspens » en attendant de voir si, aux fins de la Loi, l’emploi occupé auprès d’elle par son mari est un emploi assurable. Il n’est pas établi que Mme MacIntyre, durant la période, était disposée à conclure un contrat de travail à peu près semblable avec un charpentier ayant les mêmes qualifications que son mari, mais avec lequel elle n’aurait pas eu un lien de dépendance. C’est ce qu’elle a fait en 1999, lorsqu’elle a obtenu un contrat de sous-traitance – son premier contrat – pour des travaux à l’hippodrome Sudbury Downs, mais elle n’était pas disposée en 2001 à conclure un tel contrat, je regrette de devoir le dire. Simultanément, M. MacIntyre était disposé à renoncer à ses droits à des avantages de la santé et autres avantages syndicaux pendant qu’il travaillait pour Mme MacIntyre; il se contentait d’une rémunération de 18 $ l’heure, pour autant que l’emploi puisse compter en vue de prestations d’assurance-emploi.
+[27] Les appels sont rejetés.
+Fait à Ottawa, Canada, ce 1er jour d’août 2003.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 11e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCES :
+2003CCI551
+2003CCI554
+Nos DES DOSSIERS DE LA COUR :
+2002-4201
+2002-4235
+INTITULÉ :
+Donald MacIntyre et le Ministre du Revenu national et Maureen MacIntyre,
+faisant affaire sous la raison sociale de Mac’s Cabinets
+LIEU DE L’AUDIENCE :
+Sudbury (Ontario)
+DATE DE L’AUDIENCE :
+Le 25 juin 2003
+MOTIFS DU JUGEMENT :
+L’honorable juge Gerald J. Rip
+DATE DU JUGEMENT :
+Le 1er août 2003
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocat de l’intimé :
+Me Joanna Hill
+Pour les intervenants :
+Les appelants eux-mêmes
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Miller c. Canada, [2002] A.C.F. n° 1498, paragraphes 2, 3 et 4; Canada c. Jencan Ltd., [1998] 1 C.F. 187, et Tignish Auto Parts Inc. c. M.R.N., (1994) A.C.F. n° 1130.
+[2] Arrêt Jencan, supra, paragraphes 37 et 50, cité dans l’arrêt Miller, au paragraphe 4.

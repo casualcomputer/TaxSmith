@@ -1,0 +1,173 @@
+Title: Haniff c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30220/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-112-30220-haniff-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-02-18
+
+# Haniff c. La Reine
+
+- Citation: 2011 CCI 112
+- Decision date: 2011-02-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7762, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Haniff c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-02-18
+Référence neutre
+2011 CCI 112
+Numéro de dossier
+2008-3837(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3837(IT)G
+ENTRE :
+SYLVIA HANIFF,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Sylvia Haniff (2008‑3838(GST)G), le 9 février 2011, à Toronto (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelante :
+Me Osborne G. Barnwell
+Avocat de l’intimée :
+Me Justin Kutyan
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu relativement aux années d’imposition 2002, 2003 et 2004 de l’appelante est accueilli en partie, mais uniquement dans la mesure où l’appelante a le droit de déduire des dépenses d’entreprise additionnelles de 1 450,97 $ en 2002, de 379,64 $ en 2003 et de 31,70 $ en 2004.
+La question des dépens sera examinée séparément à la suite d’observations écrites, qui doivent être reçues au plus tard le 21 mars 2011.
+Signé à Ottawa, Canada, ce 18e jour de février 2011.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 2e jour de mai 2011.
+Mario Lagacé, jurilinguiste
+Dossier : 2008-3838(GST)G
+ENTRE :
+SYLVIA HANIFF,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Sylvia Haniff (2008‑3837(IT)G), le 9 février 2011, à Toronto (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelante :
+Me Osborne G. Barnwell
+Avocat de l’intimée :
+Me Justin Kutyan
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi sur la taxe d’accise, dont les avis sont datés du 16 mars 2007, pour la période du 1er janvier 2002 au 31 décembre 2004, est accueilli en partie, mais uniquement pour tenir compte de la taxe payée sur des fournitures additionnelles de 1 450,97 $ en 2002, de 379,64 $ en 2003 et de 31,70 $ en 2004.
+La question des dépens sera examinée séparément à la suite d’observations écrites, qui doivent être reçues au plus tard le 21 mars 2011.
+Signé à Ottawa, Canada, ce 18e jour de février 2011.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 2e jour de mai 2011.
+Mario Lagacé, jurilinguiste
+Référence : 2011 CCI 112
+Date : 20110218
+Dossiers : 2008-3837(IT)G
+2008-3838(GST)G
+ENTRE :
+SYLVIA HANIFF,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Les appels interjetés par Mme Haniff à l’encontre des cotisations établies à l’égard de l’impôt sur le revenu et de la taxe sur les produits et services (la « TPS ») pour les années 2002 à 2004 ont été entendus ensemble. Pendant ces années, elle était employée à temps plein et, de plus, elle exploitait un salon de coiffure et d’esthétique à Toronto. Les nouvelles cotisations contestées portent sur le revenu non déclaré, des dépenses sans pièces justificatives et la TPS applicable aux activités de son salon de coiffure, ainsi que les pertes locatives liées à la location de son sous‑sol à sa mère.
+[2] Au début de l’instruction, les parties ont convenu que les seules dépenses additionnelles qui seraient admises étaient les suivantes : 1 450,97 $ pour 2002, 379,64 $ pour 2003 et 31,70 $ pour 2004. Cela entraînera aussi des augmentations correspondantes pour ce qui est de ses crédits de taxe sur les intrants au titre de la TPS. La contribuable a reconnu que l’année 2002 n’était pas prescrite. Les pertes locatives et les frais de location contestés dans l’avis d’appel ont été abandonnés par la contribuable au début de l’audience. Par conséquent, les seules questions qu’il reste à trancher concernent le revenu non déclaré de la contribuable pour les trois années visées par les cotisations et la question de savoir si les pénalités pour faute lourde ont été imposées à juste titre pour les montants faisant l’objet des nouvelles cotisations.
+[3] Le salon de coiffure de la contribuable, Glo‑Hair House of Beauty (« Glo‑Hair »), n’était pas muni de caisse enregistreuse. Mme Haniff n’a conservé ni factures de ventes, ni factures d’achats, ni reçus, ni aucun autre registre pendant la période en question pour son entreprise. Elle a toujours déclaré des pertes d’entreprise. Pour chaque année en question, Mme Haniff a déduit des pertes d’entreprise avoisinant les 40 000 $ et des pertes locatives avoisinant les 10 000 $. Pendant de nombreuses années précédant les années en question, elle a déduit des pertes d’entreprise et des pertes locatives de montants comparables. Par conséquent, la vérification de l’Agence du revenu du Canada (l’« ARC ») a été effectuée au moyen d’une méthode de vérification indirecte du revenu. Plus précisément, afin de vérifier les revenus de 2002 et de 2003, l’ARC a fait une analyse des dépôts effectués dans le compte bancaire de l’entreprise et, comme l’appelante avait expliqué qu’elle faisait aussi des dépôts dans ses comptes bancaires personnels, dans les comptes personnels dont elle avait informé l’ARC. Cependant, puisqu’aucun relevé bancaire n’avait été reçu pour 2004, l’approche utilisée par l’ARC consistait à extrapoler ses revenus en fonction du montant de TPS perçu qu’elle avait déclaré dans l’une de ses déclarations de TPS. Il s’agit d’une méthode encore plus inexacte d’évaluation du revenu d’une personne, d’autant plus que la déclaration de la TPS de la contribuable pour chaque année n’était pas uniforme parce qu’elle avait déduit différents montants dans ses déclarations de TPS que ceux qui figuraient dans ses déclarations de revenus ou dans ses feuilles de calcul électronique Excel.
+[4] Le jour, Mme Haniff travaillait comme programmeuse informatique. Sa tâche consistait à écrire des programmes informatiques. Elle avait précédemment fait l’objet d’une vérification et d’une nouvelle cotisation par l’ARC. Toutefois, le seul registre de ses revenus et dépenses d’entreprise pour chacune des années en question était une seule feuille de calcul Excel présentant des totaux mensuels qui, selon elle, avaient été inscrits au fur et à mesure. Dans son témoignage, elle a déclaré avoir utilisé ces feuilles de calcul pour préparer et produire chaque année ses déclarations de revenus relativement à l’entreprise. Je ne peux pas accepter que ces feuilles de calcul ont été préparées pendant les années en question et achevées avant la production des déclarations de revenus, chaque année. J’appuie mon opinion sur le fait qu’il est impossible d’expliquer que, pour l’une des trois années, elle a produit trois versions très différentes de la même feuille de calcul, une pour le vérificateur de l’ARC, une pour l’agent d’appels et une autre pour la Cour. Non seulement je ne peux pas accepter que ces feuilles de calcul Excel ont été préparées pendant les années en question, mais je suis aussi incapable, par conséquent, d’attribuer aux chiffres qu’elles contiennent quelque fiabilité que ce soit. En outre, le témoignage de l’appelante à ce sujet et les feuilles de calcul connexes minent la crédibilité générale de l’appelante et la valeur de l’ensemble de son témoignage et me portent à examiner avec soin la preuve à l’appui ou la preuve corroborante qu’elle a présentée.
+[5] Mme Haniff était la seule personne à témoigner. Elle n’a pas appelé son époux à témoigner pour qu’il corrobore son témoignage, même si celui‑ci le concernait. Son compte personnel était un compte conjoint qu’elle détenait avec son époux et, d’après ses explications, plusieurs des dépôts non corroborés étaient des loyers de son époux pour un bien locatif qu’il avait choisi de déposer dans ce compte conjoint qu’elle contrôlait et non dans l’un des multiples comptes qu’il détenait à l’égard desquels la Cour ne détenait aucune preuve documentaire. Cela, compte non tenu du fait qu’il était présent dans la salle d’audience. Elle n’a pas non plus appelé à témoigner sa mère, de qui, selon l’appelante, provenaient aussi des dépôts non expliqués, ni produit les chèques qu’elle dit avoir faits à son ordre à la place de sa mère et pour payer la location de son sous‑sol par sa mère, ce qui aurait entraîné la déduction pour perte locative qui a été abandonnée. Elle n’a pas non plus fait témoigner ses enfants adultes, même si leur pension et leur loyer étaient considérés les sources des autres dépôts en espèces mensuels effectués régulièrement dans son compte personnel. Je n’ai vu aucune copie du bail du bien locatif, mais j’ai par contre reçu un bail pour sa mère logeant dans son sous‑sol.
+[6] Dans son avis d’appel, il est écrit [traduction] qu’« elle a utilisé son compte personnel pour déposer les recettes de l’entreprise ». Dans son avis d’appel, on mentionne aussi que [traduction] « [p]our chacune des années en question, elle a fourni ses registres à son comptable, qui préparait ses déclarations ». Selon son témoignage, il est clair qu’elle n’a rien confié à son comptable. Elle a préparé elle‑même ses déclarations et y a apposé sa signature, comme le confirment son témoignage et ses déclarations.
+[7] Dans sa déclaration de revenus pour chaque année, elle a dit qu’elle était célibataire. En fait, elle a reconnu qu’elle a actuellement et avait pendant les années en question un conjoint de fait.
+[8] Pendant l’audience, elle a expliqué qu’un dépôt de plus de 4 000 $ correspondait peut‑être au remboursement d’un assureur pour un véhicule qui aurait fait l’objet d’un accident pendant l’année en question. Aucun élément de preuve corroborant ce fait n’a été présenté sous forme de facture de réparation, de chèque d’assurance ou de document de cette nature.
+[9] Lors du contre‑interrogatoire, Mme Haniff a reconnu qu’elle avait au moins deux autres comptes bancaires personnels dont elle n’avait pas parlé à l’ARC au moment de la vérification et qui, à l’occasion, étaient aussi utilisés pour l’entreprise. L’ARC n’avait pas fait de demande relativement à ses relevés bancaires, mais avait accepté ce qu’elle avait fourni pour la vérification. Elle a tenté d’expliquer que d’autres dépôts étaient des remboursements relatifs à son régime d’achat d’obligations d’épargne du Canada, mais elle n’a fourni aucune preuve corroborante de remboursements d’obligations d’épargne du Canada, ni de preuve qu’elle détenait de telles obligations. Cela est certainement plausible et constitue une explication possible compte tenu des acronymes obscurs de la banque; toutefois, ni la liste de définitions des acronymes de la banque ni les termes qui accompagnent régulièrement les relevés et les livrets bancaires n’ont été fournis pour confirmer le remboursement. L’appelante a aussi tenté d’expliquer qu’un dépôt dans son compte personnel était un transfert effectué à partir de sa marge de crédit; toutefois, même si les montants correspondaient, les dates de retrait et de dépôt étaient à plus d’un mois d’intervalle et, s’il s’agissait de l’explication complète, la banque aurait présenté un déficit de 5 500 $ pendant plus d’un mois jusqu’à ce qu’elle inscrive le débit correspondant à la marge de crédit. Cela laisse supposer qu’il y a anguille sous roche et que les documents produits en preuve et le témoignage de l’appelante n’ont pas tout révélé.
+[10] Notons aussi que, dans le cadre de son entreprise, la contribuable recevait des montants d’argent importants et que sa preuve, qu’elle a appuyé au moyen de deux reçus qui semblent avoir été générés par deux entreprises apparemment non liées à une période plus ou moins différente et au moyen du même programme/modèle informatique, était qu’elle avait aussi payé d’importantes dépenses d’entreprises en espèces. Cependant, il n’y avait aucune correspondance entre les dépenses qu’elle a déclarées et les montants en espèces provenant d’une quelconque source.
+[11] Plusieurs des montants déposés dans son compte personnel pouvaient être expliqués et ont été acceptés par l’ARC lors de la vérification comme provenant clairement de transferts effectués entre les comptes de l’appelante.
+[12] Lorsque l’appelante a expliqué les dépôts apparaissant dans ses relevés bancaires, son témoignage était ponctué de termes comme [traduction] « pouvait » ou [traduction] « peut », laissant supposer une incertitude quant à ce qu’elle soulevait. Cela était le cas presque invariablement, sauf pour ce qui est du montant approximatif de 1 800 $ déposé assez régulièrement chaque mois, dans les dix premiers jours du mois. Au sujet de ces montants, elle a dit dans son témoignage avec une certaine certitude dans son esprit qu’il s’agissait des loyers relatifs au bien locatif de son époux. Si on n’accorde pas de crédit pour ces montants dans l’établissement de ses cotisations et qu’ils sont traités comme des encaissements de Glo‑Hair, et si son témoignage est exact et que les loyers ont déjà été déclarés par son époux et qu’il a déjà été imposé sur ceux‑ci, il existe un risque inquiétant de double taxation de ces montants. Cependant, comme il est mentionné plus haut, je n’ai reçu aucune preuve corroborante concernant cette question. Il incombait à la contribuable ou alors à son avocat de prévoir qu’une corroboration serait nécessaire.
+[13] Pour ce qui est d’une cotisation fondée sur la valeur nette ou d’une cotisation fondée sur une vérification indirecte, il est loisible à la contribuable de contester le fait qu’une telle méthode d’établissement de la cotisation est nécessaire ou s’il s’agit de la méthode la plus appropriée pour calculer le revenu de toute provenance de la contribuable. En l’espèce, la contribuable n’a pas contesté l’approche adoptée. Si un contribuable conteste la nécessité d’établir une cotisation fondée sur la valeur nette ou le fait qu’il s’agisse de la méthode la plus appropriée, il doit prouver à la Cour au moyen des registres existants et de tout autre élément de preuve crédible, quel était le revenu qu’il avait tiré des sources en question. La contribuable ne s’est pas acquittée de ce fardeau et elle n’a pas non plus jeté les bases permettant d’établir cette preuve. L’option de rechange est que la contribuable conteste des aspects précis du calcul de la cotisation fondée sur la valeur nette ou de la cotisation fondée sur une vérification indirecte.
+[14] Selon la dernière approche, il incombe à la contribuable de démontrer à la Cour au moyen d’une preuve crédible et cohérente corroborée que ses explications sont probables. Dans la mesure où elle est incapable de convaincre la Cour qu’elle s’acquitte de son fardeau en fournissant des versions plausibles et possibles des événements, son attitude à l’égard de la production des déclarations, de la tenue de registres appropriés et en général du respect des lois fiscales rend l’appelante responsable de son propre malheur.
+[15] En l’espèce, la contribuable conteste les quatre montants suivants :
+1. Les 5 531 $ déposés dans un compte personnel provenant d’une augmentation correspondante de sa marge de crédit
+[16] J’ai déjà parlé de cette question plus haut. Même s’il est possible que la marge de crédit ait été la source de ce dépôt inexpliqué, la preuve ne montre pas que cela est probable. Ce qui est probable, c’est que la question ne se résume pas à ce qui a été dit pour expliquer la période de cinq semaines qui s’est écoulée entre le dépôt dans son compte personnel et le retrait du montant de sa marge de crédit. Je ne crois pas qu’on m’ait tout dit à ce sujet. Je conclus qu’il n’y a pas de rajustement nécessaire en ce qui concerne ce montant.
+2. Les loyers reçus à l’égard du bien locatif
+[17] La contribuable soutient que la plupart des dépôts inexpliqués ayant été faits dans son compte personnel correspondaient aux loyers mensuels de 1 800 $ reçus pour le bien locatif de son époux, aux 600 $ reçus chaque mois de sa mère, pour lesquels elle s’est payée en se faisant un chèque à elle‑même à partir du compte de sa mère, et aux 300 $ par mois reçus pour chambre et pension de ses deux enfants, soit pour chacun d’eux soit pour les deux. Elle a reconnu que le montant qu’elle recevait pour chambre et pension variait d’un mois à l’autre, selon la situation financière de ses enfants. Il n’y a aucun élément de preuve corroborant les montants qu’elle aurait reçus de ses enfants, et encore moins de preuve qui pourrait établir une correspondance entre de tels montants reçus et n’importe quel autre dépôt effectué n’importe quel mois. Il est impossible d’inférer que le montant de dépôts particuliers pouvait représenter le montant reçu pour chambre et pension. Pour cette raison, je ne suis pas convaincu qu’un rajustement des cotisations est nécessaire pour illustrer tout montant que l’appelante aurait reçu de ses enfants. En ce qui concerne sa mère habitant dans son logement au sous‑sol, j’en arrive à la même conclusion pour des raisons semblables. Pour les raisons susmentionnées, je ne suis pas non plus convaincu, selon la prépondérance des probabilités, qu’un rajustement est nécessaire pour ce qui est des loyers relatifs au bien locatif.
+3. Le compte en fiducie de la fille de l’appelante
+[18] L’un des comptes en banque en question était détenu par la contribuable et son époux et constituait un compte en fiducie pour leur fille adulte. Tous les dépôts faits dans ce compte ont été inclus par l’ARC comme étant des encaissements de l’entreprise Glo‑Hair. La contribuable a soutenu que certains de ces dépôts devraient refléter le fait que sa fille avait un revenu modeste à l’occasion pendant les années en question. Cela est possible mais, encore une fois, je n’ai aucune preuve qui démontre que sa fille a utilisé le compte en fiducie en question, ni aucune explication quant à la raison pour laquelle ce compte est au nom des parents mais en fiducie pour leur fille. Je ne sais pas non plus si la fille possédait également son propre compte bancaire pour déposer ses revenus et payer ses dépenses personnelles (notamment le montant pour chambre et pension qu’elle a payé dans les faits). Je ne possède pas non plus de preuve de ses revenus. Pour ces motifs, je ne suis pas convaincu qu’un rajustement est nécessaire pour ce qui est des montants déposés dans ce compte en fiducie.
+4. Le produit de l’assurance d’un véhicule
+[19] Une fois de plus, compte tenu du manque d’éléments de preuve corroborante pour soutenir son témoignage voulant qu’un dépôt pourrait être composé d’un produit d’assurance ou du remboursement pour des dommages à un véhicule précis, comme nous l’avons décrit plus haut, je ne suis pas non plus convaincu, selon la prépondérance des probabilités, qu’un rajustement est nécessaire pour ce dépôt.
+[20] Dans la décision 620247 Ontario Ltd. v. Canada, [1995] G.S.T.C. 22, le juge Bowman, tel était alors son titre, a dit :
+8 La cotisation se fonde sur l’hypothèse que les dépôts bancaires constituent probablement la meilleure indication des ventes qu’on puisse obtenir, car cette appelante ne tenait pas de livres et n’avait pour seul registre des ventes que les reçus de caisse, qui étaient incomplets et essentiellement dans un état insatisfaisant. Il est peut-être juste de présumer que certains des dépôts bancaires provenaient de sources autres que des ventes, mais la preuve n’en établit tout simplement pas le montant. Dans un cas de ce genre, dans lequel le ministère du Revenu national doit tenter de faire une reconstitution détaillée de l’entreprise du contribuable, il incombe au contribuable de contester l’exactitude des conclusions du ministère avec un degré de précision raisonnable, ce qui n’a pas été fait en l’espèce. On ne peut simplement affirmer que les ventes n’auraient pu être aussi élevées ou qu’une partie indéterminée des dépôts bancaires provenait d’autres sources. J’ai la vague impression que le montant des ventes calculé par le ministre est probablement un peu élevé, mais dans une mesure dont l’importance est indéfinie. Je ne saurais accueillir l’appel pour ce simple motif. Si je renvoyais la question pour nouvel examen et nouvelle cotisation, on se retrouverait dans la même impasse sur le plan de la preuve. Je dois donc conclure que cette appelante ne s’est pas acquittée de la charge qui lui incombait de prouver que la cotisation était erronée.
+[…]
+12 […] Il se peut bien qu’il y ait des erreurs dans les calculs du ministre, mais, vu l’état insatisfaisant des registres de cette appelante, il est difficile de voir comment le ministre aurait pu déterminer un montant différent et, bien que je ne sois pas tenu d’appliquer les critères plutôt rigides exigés par le ministre, aucun élément de preuve ne me permet de parvenir à un chiffre différent.
+[21] De même, dans la décision Baker c. La Reine, 2007 CCI 106, [2007] G.S.T.C. 22, le juge Bédard a écrit :
+24 Le paragraphe 286(1) de la Loi énonce l’obligation de toute personne qui exploite une entreprise de tenir des registres suffisants pour permettre au ministre de déterminer les obligations, les responsabilités et les droits de cette personne en vertu de la Partie IX. Si les renseignements exigés ne sont pas adéquats ou disponibles, la Loi précise, au paragraphe 299(1), que le ministre n’est pas lié par les déclarations et peut établir sa propre cotisation. Comme les renseignements exigés n’étaient pas adéquats ou disponibles, le vérificateur, en dernier recours, a utilisé la méthode des dépôts bancaires pour établir les ventes de l’appelant liées à l’exploitation de son entreprise pendant la période pertinente en y apportant les ajustements nécessaires. Dans ces circonstances, cette approche était acceptable même nécessaire.
+25 En l’espèce, l’appelant devait démontrer selon la prépondérance de probabilités, que les chiffres du ministre étaient erronés, et ce, par le biais de documents et de pièces justificatives ou encore par le témoignage de personnes indépendantes et crédibles. Il appartient au contribuable d’établir, selon la prépondérance des probabilités, que la cotisation est trop élevée en regard du droit applicable et des faits pertinents. Il ne suffit pas que le contribuable démontre qu’il est concevable que la cotisation est trop élevée. Le contribuable ne peut utiliser une autre méthode tout aussi arbitraire pour démontrer que le montant de la taxe nette établi par le ministre était trop élevé. […]
+[22] Ces commentaires, qui ont été faits par les juges Bowman et Bédard, s’appliquent entièrement à la présente affaire.
+[23] Je rejette l’appel de la contribuable en ce qui concerne le montant de revenu non déclaré tiré de l’entreprise Glo‑Hair.
+Pénalités
+[24] La question qui demeure en litige est de déterminer si les pénalités imposées aux fins de l’impôt sur le revenu et de la TPS étaient justifiées.
+[25] La description classique des circonstances dans lesquelles ce qu’on appelle des pénalités pour faute lourde sont justifiées est établie dans l’arrêt Venne v. The Queen, 84 DTC 6247, de la Cour d’appel fédérale,:
+[…] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. […]
+[26] Ayant entendu le témoignage de Mme Haniff et ayant considéré les registres de l’entreprise et autres dossiers financiers produits en preuve, je suis tout à fait convaincu que son défaut d’avoir une caisse enregistreuse ou bien de conserver des registres des encaissements, des factures de ventes, des factures d’achats ou presque tout type de document financier pour son entreprise Glo‑Hair découle de son intention précise de frauder le fisc. Ni elle ni son avocat n’ont été en mesure de fournir une autre raison pour justifier l’adoption d’une attitude aussi cavalière à l’égard des obligations de l’appelante en matière de tenue de dossiers. En fait, certains Canadiens pourraient se demander pourquoi elle n’a pas été poursuivie.
+[27] L’avocat de la contribuable a raison de souligner qu’il incombe à la Couronne de prouver la faute lourde pour justifier l’imposition de pénalités. Cependant, comme l’a mentionné avec justesse le juge Pelletier dans l’arrêt Lacroix c. Canada, 2008 CAF 241, 2009 DTC 5029 de la Cour d’appel fédérale :
+29 […] En l’instance, le ministre constate un revenu non déclaré qu’il demande au contribuable de justifier. Celui-ci fournit une explication que ni le ministre ni la Cour canadienne de l’impôt ne jugent crédible. Il n’y a donc pas d’hypothèse viable et raisonnable qui pourrait porter le décideur à accorder le bénéfice du doute au contribuable. La seule hypothèse offerte est jugée non crédible.
+30 Les faits en preuve, dans un tel cas, sont que la déclaration de revenu du contribuable fait une présentation erronée des faits et que la seule explication offerte par le contribuable est jugée non crédible. Évidemment, il doit y avoir une autre explication pour ce revenu. Il faut donc conclure que le contribuable a une source de revenu qu’il n’a pas déclarée, qu’il est au courant de cette source et qu’il refuse de la divulguer puisque les explications qu’il a offertes n’ont pas été jugées crédibles. En de telles circonstances, la conclusion que la fausse déclaration de revenu a été produite sciemment ou dans des circonstances équivalant à faute lourde me semble inéluctable. Cela justifie non seulement l’imposition d’une pénalité mais aussi l’établissement de la nouvelle cotisation hors de la période statutaire.
+[…]
+32 Qu’en est-il alors du fardeau du ministre? Comment s’en acquitte-t-il? Il se peut que dans certaines circonstances, le ministre soit en mesure de faire une preuve directe de l’état d’esprit du contribuable lorsque ce dernier a produit sa déclaration de revenu. Mais dans la grande majorité des cas, le ministre ne pourra que miner la crédibilité du contribuable, soit par des éléments de preuve qu’il apporte, soit en contre-interrogatoire du contribuable. Dans la mesure où la Cour canadienne de l’impôt est persuadée que le contribuable touche un revenu qu’il n’a pas déclaré et que l’explication offerte par le contribuable pour l’écart constaté entre son revenu déclaré et l’accroissement de son actif est non crédible, le ministre s’est acquitté du fardeau de preuve qui lui incombe aux termes du sous-alinéa 152(4)(a)(i) et du paragraphe 162(3).
+33 Comme le dit si bien le juge Létourneau dans Molenaar c. Canada, 2004 CAF 349, 2004 D.T.C. 6688, au paragraphe 4 :
+4 À partir du moment où le ministère établit selon des données fiables un écart, substantiel dans le cas présent, entre les actifs d’un contribuable et ses dépenses et où cet écart demeure inexpliqué et inexplicable, le ministère a assumé son fardeau de preuve. Il appartient alors au contribuable d’identifier la source et d’établir la nature non imposable de ses revenus.
+[Non souligné dans l’original.]
+[28] Les commentaires du juge Pelletier dans l’arrêt Lacroix et ceux du juge Létourneau dans l’arrêt Molenaar s’appliquent tous à la présente affaire.
+[29] Pour ces motifs, les appels de la contribuable sont rejetés, sauf en ce qui concerne les dépenses additionnelles établies plus haut qui ont été acceptées.
+[30] À la demande des parties, celles‑ci sont invitées à soumettre des observations écrites au sujet de l’adjudication des dépens qui serait appropriée en l’espèce, dans les 30 jours suivant le présent jugement.
+Signé à Ottawa, Canada, ce 18e jour de février 2011.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 2e jour de mai 2011.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2011 CCI 112
+Nos DES DOSSIERS DE LA COUR : 2008-3837(IT)G, 2008-3838(GST)G
+INTITULÉ : SYLVIA HANIFF c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 9 février 2011
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 18 février 2011
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Osborne G. Barnwell
+Avocat de l’intimée :
+Me Justin Kutyan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Osborne G. Barnwell
+Cabinet :
+Toronto (Ontario)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

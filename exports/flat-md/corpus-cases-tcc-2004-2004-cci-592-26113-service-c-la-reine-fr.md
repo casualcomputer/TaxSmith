@@ -1,0 +1,185 @@
+---
+title: "Service c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26113/index.do"
+last_modified: "2004-09-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 592"
+citation2: ""
+neutral_citation: "2004 CCI 592"
+decision_date: "2004-09-16"
+language: "fr"
+item_id: "26113"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4174
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:02:47.525000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "71beb9d22a6531c4a859f180c2f9e72d5414edd2cb54da3234cb3ebf76110489"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Service c. La Reine
+
+- Citation: 2004 CCI 592
+- Decision date: 2004-09-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4174, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Service c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-16
+Référence neutre
+2004 CCI 592
+Numéro de dossier
+2002-4956(IT)G
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI592
+Date : 20040916
+Dossier : 2002-4956(IT)G
+ENTRE :
+JAMES D. SERVICE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE] ____________________________________________________________________
+Pour l’appelant : L’appelant lui-même Avocate de l’intimée : Me Eleanor H. Thorn
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience
+à Toronto (Ontario), le 29 juillet 2004)
+Le juge Sarchuk
+[1] Il s’agit d’un appel d’une cotisation fiscale relative à l’année d’imposition 1995 de l’appelant. La question précise qui est en litige se rapporte au rejet par le ministre du Revenu national de l’assertion selon laquelle l’appelant avait le droit de déduire une perte déductible au titre d’un placement d’entreprise à l’égard d’un prêt qu’il avait consenti à une société, Prescient Incorporated, dont l’unique actionnaire était son épouse.
+[2] On a demandé à l’appelant d’admettre l’exactitude de certains faits pour les besoins de la présente instance. Il a accepté, quoique en faisant certaines réserves, et il a admis ce qui suit :
+[traduction]
+a) pendant la période pertinente, l’appelant était actionnaire de Homage Investments Corp. (la « société »);
+b) la société a été constituée le 22 décembre 1988; elle a renoncé à sa charte le 23 juillet 1994. L’appelant a alors disposé des biens qu’il possédait dans la société, à savoir sa part du capital-actions de la société et la créance qu’il avait sur la société;
+c) l’exercice de la société prenait fin le 15 juin; la dernière déclaration de revenu produite par la société était celle qui se rapportait à l’année d’imposition 1991;
+d) la société avait 2 000 actions entièrement libérées émises au prix de 20 $;
+e) les actionnaires de la société étaient :
+l’appelant – 320 actions (certificats 001, 002 et 003);
+Prescient Incorporated - 680 actions (certificat 004);
+Ferdinand A. Wagner – 1 000 actions (certificat 005);
+f) en 1989, la société a acheté une parcelle de terre située au 2349, rue Queen Est, Toronto (Ontario) (la « propriété ») pour la somme de 587 000 $, l’achat étant financé au moyen d’une première hypothèque de 440 000 $ consentie par Monarch Trust Company, d’une seconde hypothèque de 54 500 $ consentie par Monte Denaburg, et d’un emprunt ne portant pas intérêt.
+Je crois que le prêt dont le témoin, l’appelant, a fait mention s’élevait à environ 100 000 $.
+g) l’appelant et M. Wagner s’étaient portés garants des hypothèques;
+h) la propriété a été vendue au mois de juin 1995 en vertu d’un pouvoir de vente détenu par le séquestre de Monarch Trust Company, Coopers & Lybrand Limited;
+i) ni la société, ni M. Wagner, ni l’appelant n’étaient tenus de rembourser le solde impayé des hypothèques;
+j) Prescient a été constituée le 12 mai 1974. Elle a été dissoute; elle a ensuite été rétablie le 7 mars 1989, elle a encore une fois été dissoute le 24 décembre 1994 et elle a de nouveau été rétablie le 8 janvier 1988;
+k) l’exercice de Prescient prenait fin le 31 mai;
+l) depuis le 17 mars 1989, l’unique actionnaire de Prescient était l’épouse de l’appelant, Josephine Service;
+m) de 1989 à 1994, Prescient a consenti des prêts ne portant pas intérêt à la société; la société devait à Prescient une somme de 149 150 $ en tout pendant l’exercice 1994;
+n) sur les conseils de l’appelant, le prêt ne portant pas intérêt consenti à la société par Prescient, lequel s’élevait à 149 150 $ en tout, a été radié par Prescient dans son exercice 1995;
+o) de 1992 à 1995, la société, au moyen d’écritures de journal, a augmenté le montant des capitaux empruntés de l’appelant et a diminué le montant des capitaux empruntés de Prescient alors qu’aucune avance additionnelle n’avait en fait été reçue de l’appelant et que les prêts n’avaient pas en fait été remboursés à Prescient;
+p) le tableau suivant figure dans les états financiers de Prescient et de la société.
+Prescient
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+Montant dû à Homage
+La société
+89 500 $
+145 250 $
+149 150 $
+149 150 $
+0 $
+Montant dû à un actionnaire
+24 081 $
+45 931 $
+67 065 $
+Montant dû à James Service actionnaire
+208 544 $
+221 212 $
+223 495 $
+225 777 $
+Montant dû à une société liée
+36 500 $
+96 500 $
+6 250 $
+9 650 $
+13 650 $
+13 650 $
+Les autres prêts enregistrés par la société avaient été consentis par Ican Corporation, Nora Smith, Jane McGivern, et l’autre actionnaire, F. Wagner.
+q) par suite des écritures de journal susmentionnées, les prêts consentis à la société par Prescient, lesquels s’élevaient à 149 150 $ en tout, ont été éliminés des registres de la société et l’on a inscrit dans le compte de prêt consenti à la société par l’appelant, en sa qualité d’actionnaire, un montant correspondant de 149 150 $, de sorte que le solde s’élevait à 225 777 $ en 1995;
+r) pendant la période pertinente, Prescient a également enregistré la réception de prêts ne portant pas intérêt consentis par l’appelant. Le montant du prêt consenti par l’appelant enregistré par Prescient au 31 mai 1995 était de 78 628 $;
+[3] L’appelant avait avec Prescient un lien de dépendance; le seul différend qui oppose les parties est de savoir si l’appelant a le droit de déduire une perte au titre d’un placement d’entreprise pour le prêt consenti à Prescient, dont le montant a été enregistré par Prescient comme s’élevant à 78 628 $ au 31 mai 1995.
+[4] Selon la position prise par l’appelant, la preuve qui a été produite satisfait pleinement aux exigences de l’alinéa 39(1)c), du sous‑alinéa 40(2)g)(ii) et du paragraphe 50(1) de la Loi de l’impôt sur le revenu. Il n’est pas contesté qu’afin d’éviter la perte nulle prévue au sous‑alinéa 40(2)g)(ii), la créance doit avoir été acquise en vue de tirer un revenu d’une entreprise ou d’un bien.
+[5] L’appelant a fondamentalement soutenu que la production d’un revenu n’a pas à être le but exclusif ou même le but primordial du prêt, dans la mesure où il s’agit d’une des fins, et qu’il suffirait de satisfaire aux exigences de la disposition législative. L’appelant a cité comme exemple l’arrêt Rich v. The Queen, 2003 DTC 5115, dans lequel la Cour d’appel fédérale a conclu ce qui suit :
+[traduction]
+[...] Dans la mesure où la réalisation d’un revenu était l’un des objectifs du prêt (quoique pas nécessairement l’objectif premier), il avait été satisfait à l’exigence du sous‑alinéa 40(2)g)(ii) de la Loi. Voir Ludco Enterprises c. La Reine, Cour suprême du Canada. Le juge de la Cour de l’impôt a conclu que l’« objectif premier » du prêt était d’aider le fils du contribuable, mais en fait il avait été satisfait aux exigences du sous‑alinéa 40(2)g)(ii) en l’espèce. Le prêt portait intérêt, et le contribuable (en sa qualité d’actionnaire de DSM) avait droit à des dividendes. [...]
+[6] Il a également été fait mention d’un certain nombre d’autres décisions dans lesquelles il était question de prêts ne portant pas intérêt. Ainsi, dans la décision Steckel v. M.N.R., 92 DTC 1904, la Cour a décidé que M. Steckel, qui avait garanti les emprunts contractés par une société dans laquelle il avait des intérêts, avait droit à une PDTPE. Dans cette décision, le juge Mogan a mentionné la remarque suivante que le juge Rip avait faite dans la décision Business Art Inc. v. M.N.R., 86 DTC 1842 :
+Cependant, si aucun intérêt n’a été demandé, je ne crois pas que cela porterait un coup fatal à la deuxième prétention de l’appelante. Le fait qu’aucun intérêt n’ait été demandé sur les créances en cause n’est pas pertinent au fait de savoir si elles ont été acquises en vue de tirer ou de faire produire un revenu. [...]
+[...] Il n’est pas inhabituel pour une personne de faire des placements dans une société en souscrivant à un capital-actions et en prêtant de l’argent sans intérêt; en ce qui la concerne, les actions et ses prêts constituent un seul placement et si par la suite, on lui demande d’avancer d’autres fonds sans intérêt, elle ne fait qu’augmenter son placement. Je ne puis souscrire au principe selon lequel dans un exemple de ce genre, les prêts qui ne portent pas intérêt ne sont pas engagés en vue de tirer un revenu d’un bien; si les prêts n’avaient pas été avancés, la société aurait pu faire faillite et les actions auraient perdu toute valeur. Il est clair que les prêts ont été consentis pour tirer un revenu d’un bien, c’est-à-dire placer la société dans une situation où elle ferait des bénéfices et paierait des dividendes.
+[7] L’appelant a également mentionné plusieurs autres décisions similaires. Ainsi, je note que dans l’affaire Allen c. Canada, [2000] A.C.I. no 231, les appelants avaient déduit une PDTPE pour des pertes subies à l’égard d’avances consenties à une société dans laquelle ils étaient actionnaires. Dans l’affaire Air Rock Drilling Co. Ltd. et al v. The Queen, 99 DTC 617, les contribuables individuels possédaient toutes les actions d’une société à dénomination numérique qui possédait toutes les actions d’Air Rock. Il existait donc un lien qui permettait à la Cour, dans cet appel, de conclure expressément que les prêts en question avaient été consentis afin de produire un revenu, même s’ils ne portaient pas intérêt. La décision rendue par la Cour d’appel fédérale dans l’affaire Byram c. Canada, [1999] A.C.F. no 92, est particulièrement pertinente à mon avis, et les remarques qui y sont faites doivent donc, selon moi, s’appliquer en l’espèce. Je citerai expressément les paragraphes 21 et 22, qui sont rédigés comme suit :
+21 Il est aussi clair que la perspective de toucher un revenu de dividendes ne saurait être trop éloignée. C’est un principe élémentaire que les articles 3 et 4 de la Loi, combinés aux règles établies dans les subdivisions a) à d) de la division B, portent que le revenu du contribuable doit être établi selon sa source. De plus, les déductions permises par la Loi, notamment celle prévue au sous-alinéa 40(2)g)(ii), exigent que l’on tienne compte de la source du revenu pouvant donner lieu à une déduction. Par conséquent, une déduction ne peut être tellement éloignée du flux de revenu correspondant que son lien avec la perspective de revenu est, au mieux, ténu. Cela n’empêche pas le contribuable de déduire la perte en capital découlant d’un prêt sans intérêt qu’il a consenti à une société à laquelle il est lié lorsqu’il s’attend légitimement à recevoir un revenu sous forme de dividendes accrus générés par l’injection de capital.
+22 Il existe un lien direct entre, d’une part, les actionnaires d’une société et, d’autre part, les gains futurs de la société et les dividendes qu’elle versera. Lorsqu’un actionnaire fournit une garantie ou un prêt sans intérêt à la société dans le but de lui fournir du capital, il existe assurément un lien entre le contribuable et le revenu futur éventuel. Lorsqu’un prêt est consenti en vue de gagner un revenu sous forme de dividendes, ce lien est suffisant pour que soit remplie la condition liée au but fixée par le sous-alinéa 40(2)g)(ii).
+Dans l’arrêt Byram, la Cour d’appel fédérale a également fait remarquer ce qui suit :
+23 Dans les cas où le contribuable ne possède pas de capital-actions de la société débitrice, mais est actionnaire de la société mère ou d’une autre société actionnaire de la société débitrice, il n’a pas le droit de recevoir un revenu de dividendes directement de la société débitrice. Règle générale, la preuve de l’existence d’un lien suffisant entre le contribuable et le revenu de dividendes sera beaucoup plus difficile à faire. La question de savoir s’il existe un lien suffisant entre le contribuable et les gains éventuels de la société débitrice est tranchée au cas par cas, en fonction des faits propres à l’affaire.
+[8] Dans le cas qui nous occupe, l’appelant cherchait principalement à garder sa société, Homage, « en vie » comme il l’a dit, de façon qu’elle puisse devenir une entreprise rentable à titre de promoteur et d’entrepreneur, entreprise qui comportait un élément de vente, puisque la propriété devait être vendue à l’« hôtel de ville ». Le contribuable a également déclaré qu’il s’attendait à ce que, dans le cas où Homage continuait à exister, il obtiendrait un rendement lorsque Homage vendrait ses parts et créerait des dividendes. Il a également ajouté qu’il était avocat et qu’il s’occupait de dossiers généraux, et qu’il aurait donc tiré avantage de la situation en ce sens qu’il aurait gagné un revenu par suite de la vente de la propriété et qu’il s’attendait également à toucher des frais de gestion ou encore à avoir une part comparable à celle des investisseurs. Il a également soutenu que cela constituerait pour lui un avantage, étant donné qu’un dividende serait transmis de Homage à Prescient, lorsque les ventes auraient lieu; il a déclaré que ce dividende lui serait finalement revenu en sa qualité d’actionnaire de Homage.
+[9] À mon avis, cela n’est pas un arrangement de prêt viable. Selon moi, un arrangement de prêt viable comporte l’existence d’une relation contractuelle légale comprenant des conditions de remboursement du capital et des paiements périodiques d’intérêts. En l’absence de paiements au titre des intérêts ou même de la mention d’intérêts, il faut établir l’existence d’une expectative, en ce qui concerne la réalisation d’un revenu découlant de ce prêt. L’appelant a la charge de démontrer l’existence d’un lien entre le placement et la production d’un revenu. Or, selon la preuve mise à ma disposition, je puis uniquement conclure que le prêt ne constitue pas, à mon avis, un arrangement de prêt pour l’application des dispositions pertinentes de la Loi de l’impôt sur le revenu. Par conséquent, l’appel est rejeté.
+[10] L’avocate de l’intimée n’a pas vraiment présenté d’argument au sujet des dépens. Je suis porté à ne pas adjuger de dépens eu égard aux circonstances de l’espèce. Il aurait fallu traiter de cette question au moment opportun.
+Signé à Ottawa, Canada, ce 16e jour de septembre 2004.
+« A.A. Sarchuk »
+Juge Sarchuk
+Traduction certifiée conforme
+ce 15e jour de juin 2005.
+Sara Tasset
+RÉFÉRENCE :
+2004CCI592
+No DU DOSSIER DE LA COUR :
+2002-4956(IT)G
+INTITULÉ :
+James D. Service et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 27 juillet 2004
+MOTIFS DU JUGEMENT :
+L’honorable A.A. Sarchuk
+DATE DU JUGEMENT :
+Le 6 août 2004
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Eleanor H. Thorn
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+s/o
+Cabinet :
+s/o
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

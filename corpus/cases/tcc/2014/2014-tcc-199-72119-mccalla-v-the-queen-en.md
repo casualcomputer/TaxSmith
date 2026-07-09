@@ -1,0 +1,187 @@
+---
+title: "McCalla v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/72119/index.do"
+last_modified: "2014-06-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 199"
+citation2: ""
+neutral_citation: "2014 TCC 199"
+decision_date: "2014-06-11"
+language: "en"
+item_id: "72119"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5339
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:42:05.080000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bd2232aa18fc28b7576d46b9f16b03476e7750958b9e5fe277afef1bace9d2dc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McCalla v. The Queen
+
+- Citation: 2014 TCC 199
+- Decision date: 2014-06-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5339, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McCalla v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-06-11
+Neutral citation
+2014 TCC 199
+File numbers
+2013-1753(IT)I, 2013-1757(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2014 TCC 199
+Date: 20140618
+Docket: 2013-1753(IT)I
+2013-1757(IT)I
+BETWEEN:
+PAULINE MCCALLA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+BETWEEN:
+HOWARD MCCALLA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+ORAL REASONS FOR JUDGMENT
+(Delivered orally by conference call on June 18, 2014, in Ottawa, Ontario.)
+Bocock J.
+[1] The two Appellants, Pauline and Howard McCalla are spouses of each other. Their evidence, testimony and submissions were heard together. In turn, the Respondent’s evidence and submissions were heard together with this appeal as well together with the appeal of Nana Ampomah (matter no. 2013-1050(IT)I). The Court will render a separate judgment and reasons for judgment in the Ampomah matter in keeping with its indication at the conclusion of the hearing; neither the McCallas nor Ms. Ampomah gave evidence in respect of the others’ appeals and so such Appellants’ evidence should not be commingled. However, the Respondent’s evidence and legal submissions is common to all appeals.
+I. Specific Facts of this Appeal: [2] The McCallas appeal the disallowance of charitable tax credits in the following amounts: which amounts are provided together with other salient reported information and calculations from reported income:
+Tax Payer
+Tax year
+Net Income
+Claimed Charitable Donations to Jesus Healing Centre
+Percentage Donations to Income
+Other Expenses of Living
+Pauline McCalla
+2007
+$37,301
+$3,950
+11%
+Mortgage and Two Children
+Pauline McCalla
+2008
+$40,667
+$4,100
+8%
+Mortgage and Two Children
+Howard McCalla
+2007
+$47,724
+$2,150
+5%
+Mortgage and Two Children
+[3] Both attended the Jesus Healing Center, a church and at the time, a registered charitable organization, approximately twice a month in 2007. Mr. McCalla’s attendance waned in 2008, which he claims reflects a reduced 2008 donation level and the absence of any receipt.
+[4] Mr. McCalla, who appeared as agent for his wife and was the sole witness for both Appellants, testified that all donations were made in cash, utilizing Jesus Healing Center provided envelopes, in varying amounts. Jesus Healing Center would then allocate the donations to various uses: Offertory, Mission, Building Fund, Evangelism and Thanksgiving.
+[5] A post CRA reassessment summary of donations was provided by the Jesus Healing Center disclosing such allocations and confirming the donations were made. The allocation of such donations among the categories would have required awkward combined amounts of banknotes and coins: amounts such as $108, $68 and $61.
+[6] The testimony concerning the location and facilities was vague and somewhat inaccurate when compared to that of the CRA Team Leader for Charities Audit. This was apparent to such an extent that there was disputed evidence as to whether the room of worship was on the main floor or second floor of the suburban wholesale commercial mall.
+[7] As to the source of the donations, Mr. McCalla indicated he would give “whatever cash I had on me”. No bank statements, withdrawal slips, donation envelopes or other evidence of the cash donations were produced, save and except for the charitable receipts.
+[8] The Receipts themselves in 2008 and 2007 contained deficiencies in that:
+a) each spelled the charities’ name incorrectly: “Center” as apposed to Centre (its official name registered with the Minister);
+b) the date of issuance for the receipt was missing;
+c) the locality or place of issuance for the receipt was missing;
+d) no middle initial was used, Mr. McCalla testified that he had one; and
+e) in 2007 only, there was no statement that the receipt was “an official receipt for Income Tax Act purposes”.
+[9] The evidence of one Mr. Huenemoeder, CRA Team Leader-Charities Audit, indicated that the Jesus Healing Center had failed to keep any meaningful books and records, issued $3 million in donation receipts in just over 2 years, but only deposited some $18,000 into its bank accounts during the same period. The Pastors of the Jesus Healing Center admitted that no sum ever approaching the 3 million dollars was received and that charitable donation receipts were fabricated. Although some donations were received, the amounts were a small fraction (less than 7%) of the amounts receipted. No donation envelopes, receipt records or other evidence of any donations were ever produced or revealed during the CRA Audit. None of the 400 purported donors could provide collaborative or supporting proof of the donations.
+II. Appellant’s Submissions: [10] On behalf of he and his spouse, Mr. McCalla made several arguments;
+a) While it was clear that the Jesus Healing Center was a discredited and disregistered organization run by a dishonest man, this should not be the responsibility of the McCallas who obtained official donation receipts;
+b) The Canada Revenue Agency Team Leader’s visited the Jesus Healing Center some months after the relevant time and it is likely the configuration of the worship area had changed; and
+c) The technical deficiencies of the receipts are not the responsibility of the Appellants and they should not bear the brunt of such deficiencies.
+III. The Law Generally: a) Regarding the Charitable Tax Receipts
+[11] The Court will deal first with the receipts in response to Mr. McCalla’s assertion that the negligence, dishonesty and poor record keeping of the Jesus Healing Center in the issuance receipts should not affect the Appellants.
+[12] Statutorily the Income Tax Act (“Act”) provide as follows:
+[18] Section 118.1(2)(a) of the Income Tax Act (the “Act”) reads:
+118.1(2) A gift shall not be included in the total charitable gifts, total Crown gifts, total cultural gifts or total ecological gifts of an individual unless the making of the gift is proven by filing with the Minister
+(a) a receipt for the gift that contains prescribed information;
+[…]
+[13] In turn, in subsection 3501(1) of the Income Tax Regulation (the “Regulation”) sets out the requirements for the charitable donation receipt the applicable sections relevant to these appeals are as follows:
+3501(1) Every official receipt issued by a registered organization shall contain a statement that it is an official receipt for income tax purposes and shall show clearly in such a manner that it cannot readily be altered,
+(a) the name and address in Canada of the organization as recorded with the Minister;
+[…]
+(d) the place or locality where the receipt was issued;
+(e) […]
+(f) the day on which the receipt was issued where that day differs from the day referred to in paragraph (e) or (e.1);
+(g) the name and address of the donor including, in the case of an individual, his first name and initial;
+[…]
+[14] The Appellants, Mr. and Mrs. McCalla, must understand there are numerous decisions of this Court which have held unequivocally that deficiencies relating to those items detailed above render the donation receipt invalid for the purposes of subsection 118.1(2) and under the prescribed information required under the Regulation which information must appear in the donation receipt. A recent decision of this Court, Sowah v Canada, 2013 TCC 297, reflects this where C. Miller, J. states:
+[16] […]
+Case law is clear that these requirements are mandatory and are to be strictly adhered to (see for example the cases for Afovia v. The Queen, Sklowdowski v The Queen, Plante v Canada).
+[17] […] First, the receipt does not contain the statement that it is an official receipt for income tax purposes. In the case of Ehiozomwangie v R,[4] Justice Campbell made it clear that the requirement that the receipt indicate that it is an official receipt for income tax purposes is one of the mandatory requirements. I agree. There can be no clearer reassurance to a taxpayer on the face of a receipt than an indication that it is an official receipt for tax purposes. Failure to meet this simple qualification casts real suspicion on the credibility of the receipt. It is a mandatory condition that has not been met in this case.
+[18] Second, another simple requirement is the date on which the receipt was issued. On Ms. Sowah’s receipt no date is given, only the year (January to December 2006). Again, this is a mandatory condition that simply has not been met.
+[19] Third, the receipt must show the locality or place where the receipt was issued. This is a separate requirement from the address of the organization as recorded with the Minister. Here, while we might presume the address of the organization is the same place as where the receipt was issued, this should not be left to presumption. Maybe there are several Jesus Healing Centers throughout Toronto. It should be clear on the receipt from which place the receipt is issued. It is not. Again, a requirement has not been met.
+[15] To be clear, it is not a matter of fault, responsibility, good faith or bad faith. It is a mandatory requirement of the Act and the Regulation. There are other mandatory requirements, some people feel too many perhaps, but this is certainly one which, in this case, has not been met. For this clear and obvious breach of this mandatory requirement, these appeals must be dismissed.
+[16] Although unnecessary, I will briefly turn to the onus of the Appellants to provide evidence on the balance of probabilities (that is more likely than not) that he or she donated the money. Quite apart from the physical layout of the premises, which is frankly not a particularly important point since both parties may well be somewhat correct given the time sequence differences, the following evidence remains uncontroverted before the Court;
+a) Not one of the 400 members of the Jesus Healing Center who purported to give these large donations to the Jesus Healing Center has ever produced a cheque, an ATM withdrawal slip, donation log or donation envelope relevant to the donations to the CRA;
+b) The amounts of the donations are very large, although oddly symmetrical as to amounts given each week and yet oddly asymmetrical as to a logical and convenient amount someone would likely give by cash each week, especially where such amounts always consisted of the cash “I had on me”;
+c) The Pastor, or former Pastor, admitted to CRA auditors the donation receipts were, at best, widely exaggerated and, at worst, bogus; and
+d) These Appellants specifically offered no evidence of having more likely than not given the money: no ATM slips, no bank statements and no donation envelopes (not even an example).
+[17] It is perhaps stated best by Sheridan, J. in Patel v Canada, 2011 TCC 555 at paragraph 16, in turn citing Tardif, J. of this Court as noted below.
+The Appellant pointed out to me that there was nothing illegal about making a donation in cash. This is quite true: paragraph 3501(1)(e) of the Regulations specifically contemplates that possibility. However, when a taxpayer chooses to deal only in cash, whether for charitable donations or any other matters likely to come under the scrutiny of the Minister of National Revenue, she imposes on herself the burden of having some means of verifying the otherwise untraceable transactions. The present case provides a perfect illustration of why the Act strictly regulates the conditions of eligibility for charitable donation deductions. As Tardif J. explained in Plante v. The Queen, [1999] T.C.J. No. 51:
+[46] The requirements in question are not frivolous or unimportant; on the contrary, the information required is fundamental, and absolutely necessary for checking both that the indicated value is accurate and that the gift was actually made.
+[47] The purpose of such requirements is to prevent abuses of any kind. They are the minimum requirements for defining the kind of gift that can qualify the taxpayer making it for a tax deduction.
+[18] Aside from the countervailing evidence offered by the Respondent’s witness, which remains uncontroverted, by not providing any objective evidence to confront the Minister’s assumption that the cash donations were not made, the Appellants have not discharged on the balance of probabilities the onus they have before this Court. It is possible that some nominal cash may have been given, but on the basis of the evidence, not even remotely close to the claimed amount otherwise reflected in the deficient donation receipts.
+[19] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Ontario, this 19th day of June 2014.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2014 TCC 199
+COURT FILE NO.:
+2013-1753(IT)
+STYLE OF CAUSE:
+PAULINE MCCALLA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 11, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+June 19, 2014
+APPEARANCES:
+Agent for the Appellant:
+Howard McCalla
+Counsel for the Respondent:
+Rickey Y.M. Tang
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

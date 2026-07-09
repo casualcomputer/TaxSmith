@@ -1,0 +1,180 @@
+---
+title: "Li c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521106/index.do"
+last_modified: "2023-05-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 CCI 77"
+citation2: ""
+neutral_citation: "2023 CCI 77"
+decision_date: "2023-05-25"
+language: "fr"
+item_id: "521106"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5830
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:14:50.448000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1addffdbeb2d6faaa4bba5281b65c9be0e866590e6569d1e9ddc610d7fae1b7c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Li c. Le Roi
+
+- Citation: 2023 CCI 77
+- Decision date: 2023-05-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5830, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Li c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-05-25
+Référence neutre
+2023 CCI 77
+Numéro de dossier
+2019-4394(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-4394(IT)I
+ENTRE :
+YIN LI,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 21 mars 2023, à Toronto (Ontario)
+Devant : L’honorable juge Bruce Russell
+Comparutions :
+Représentant de l’appelant :
+Oliver Xing
+Avocats de l’intimé :
+Me Christopher Ware
+Me Tianjian Wang
+JUGEMENT
+L’appel interjeté à l’égard des deux nouvelles cotisations du 14 janvier 2019 pour les années d’imposition 2015 et 2016 de l’appelant est rejeté.
+Signé à Halifax (Nouvelle-Écosse), ce 25e jour de mai 2023.
+« B. Russell »
+Le juge Russell
+Référence : 2023 CCI 77
+Date : Le 25 mai 2023
+Dossier : 2019-4394(IT)I
+ENTRE :
+YIN LI,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+I. Introduction : [1] L’appelant, Yin Li, interjette appel du refus, en application de la Loi de l’impôt sur le revenu fédérale (la « Loi »), de dépenses d’emploi s’élevant respectivement à 55 945 $ et à 50 793 $ qu’il a déduites pour ses années d’imposition 2015 et 2016.
+[2] Pour chaque année, M. Li a déduit trois catégories de dépenses d’emploi, à savoir :
+a) 24 000 $ de salaire d’adjoint pour un membre de la famille ayant un lien de dépendance pour chacune des années d’imposition 2015 et 2016;
+b) les frais afférents à un véhicule à moteur pour 2015 s’élevant à 15 857 $ pour la location d’une voiture et le stationnement, à 7 240 $ pour le carburant et à 5 998 $ pour l’assurance; et, pour 2016, totalisant 14 558 $ pour la location d’une voiture et le stationnement, 6 850 $ pour le carburant et 5 385 $ pour l’assurance;
+c) des fournitures de bureau (une Apple Watch et un ordinateur portable Apple) totalisant 2 850 $ pour l’année d’imposition 2016.
+[3] Pendant toute la période pertinente, M. Li résidait avec sa femme, sa belle-mère et ses enfants à son domicile dans la région du Grand Toronto.
+[4] Au cours de ses années d’imposition 2015 et 2016, M. Li était employé par une société numérotée de l’Ontario qui possédait et exploitait une concession d’automobiles (le « concessionnaire ») à Toronto. M. Li a occupé simultanément deux postes de direction chez ce concessionnaire : directeur général des ventes et directeur des services financiers.
+[5] Au cours de ces deux années, il a perçu un revenu d’emploi annuel de l’ordre de 110 000 $, y compris des commissions annuelles de l’ordre de 75 000 $.
+II. Dispositions applicables : [6] À l’article 8 de la Loi, il est question des dépenses d’emploi déductibles. Le paragraphe 8(2) interdit les déductions de dépenses d’emploi autres que celles prévues à l’article 8.
+[7] L’alinéa 8(1)h.1), le sous-alinéa 8(1)i)(ii) et le paragraphe 8(10) de la Loi sont rédigés en ces termes dans leur partie pertinente (soulignement ajouté) :
+Éléments déductibles
+8 (1) : Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+Frais afférents à un véhicule à moteur
+h.1) dans le cas où le contribuable, au cours de l’année, a été habituellement tenu d’accomplir les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits et a été tenu, aux termes de son contrat d’emploi, d’acquitter les frais afférents à un véhicule à moteur qu’il a engagés dans l’accomplissement des fonctions de sa charge ou de son emploi, les sommes qu’il a dépensées au cours de l’année au titre des frais afférents à un véhicule à moteur pour se déplacer dans l’exercice des fonctions de son emploi, sauf s’il a, selon le cas :(i) reçu une allocation pour frais afférents à un véhicule à moteur qui, par l’effet de l’alinéa 6(1)b), n’est pas incluse dans le calcul de son revenu pour l’année, (ii) demandé une déduction pour l’année en application de l’alinéa f);
+Cotisations et autres dépenses liées à l’exercice de fonctions
+i) les sommes payées par le contribuable au cours de l’année, ou les sommes payées pour son compte au cours de l’année [...], au titre :
+(ii) du loyer de bureau ou du salaire d’un adjoint ou remplaçant que le contrat d’emploi du cadre ou de l’employé l’obligeait à payer [...]
+Attestation de l’employeur
+8(10) Un contribuable ne peut déduire un montant pour une année d’imposition en application des alinéas (1)c), f), h) ou h.1) ou des sous-alinéas (1)i)(ii) ou (iii) que s’il joint à sa déclaration de revenus pour l’année un formulaire prescrit, signé par son employeur, qui atteste que les conditions énoncées à la disposition applicable ont été remplies quant au contribuable au cours de l’année.
+III. Salaires des adjointes : [8] La première des trois catégories de dépenses mentionnées est la demande de remboursement de 24 000 $ pour chacune des deux années au titre du salaire d’un adjoint. En 2015, il a demandé à sa belle-mère, qui vivait sous le même toit, d’effectuer certaines tâches à l’aide d’un ordinateur portable personnel doté d’une connexion RPV aux dossiers de son bureau. Ce travail consistait à remplir et à clôturer le dossier de chaque vente, location ou financement de véhicule au fur et à mesure, ce qui incluait la saisie de renseignements confidentiels relatifs aux clients et au concessionnaire, avant que le dossier complet ne soit transmis au comptable du concessionnaire.
+[9] M. Li a témoigné qu’avec ses deux emplois au sein de la direction chez le concessionnaire, il n’avait pas le temps de faire ce travail lui-même et qu’il avait besoin de quelqu’un, comme sa belle-mère, à qui il pouvait confier ces renseignements sensibles, pour clôturer chaque dossier transactionnel avant de le soumettre au comptable du concessionnaire afin qu’il le comptabilise. Sa belle-mère effectuait ce travail à domicile. Cette année-là dans le monde automobile a connu des périodes de forte activité et des périodes creuses, et le travail pouvait nécessiter un nombre variable d’heures à temps partiel par semaine. Naturellement, sa belle-mère travaillait lentement au début, mais avec le temps, elle parvenait à effectuer plus rapidement la clôture des dossiers.
+[10] M. Li a demandé une déduction de 24 000 $ de ses revenus d’emploi de 2015 pour le salaire versé à sa belle-mère pour ce travail. Il a déclaré qu’il n’avait pas versé à sa belle-mère les 2 000 $ par mois. En revanche, il a déduit ce montant du loyer mensuel de sa maison, des frais de nourriture et de transport, de même que de frais non précisés de carte de crédit ou d’autres frais. Aucun document corroborant ce crédit n’a été produit comme preuve. Le montant du prétendu loyer mensuel n’a pas été indiqué et la belle-mère de M. Li n’a pas témoigné. Aucun registre des heures travaillées n’a été tenu. Selon la preuve produite, elle n’était pas payée à l’heure.
+[11] Au cours du contre-interrogatoire, on a indiqué que la connaissance de l’anglais de sa belle-mère était médiocre, ce à quoi M. Li a répondu qu’elle avait suivi une formation en anglais langue étrangère et que le travail qu’il lui demandait de faire n’impliquait pas tant la connaissance de la langue anglaise que la simple capacité à additionner et à soustraire.
+[12] En 2016, cette situation s’est répétée, sauf que cette année-là, son adjointe était son épouse. Il a été expliqué qu’en 2015, elle n’avait pas fait ce travail, car elle avait eu un bébé en juillet de cette année-là. Sa rémunération était également de 2 000 $ par mois, soit 24 000 $ au total. Là encore, aucun document n’a été fourni concernant les heures travaillées.
+[13] Son épouse était payée au moyen de paiements mensuels de 2 000 $ versés sur un compte conjoint détenu par les deux conjoints. On a posé à M. Li, au cours de son contre-interrogatoire, la question suivante : [TRADUCTION] « Est-il exact que vous avez payé votre épouse sur un compte conjoint et qu’il n’y a eu aucun transfert effectif de fonds? » M. Li a répondu : [traduction] « C’est exact ».[1]
+[14] L’épouse de M. Li n’a pas témoigné. Comme pour l’année 2015, aucun document relatif au paiement ou aux heures travaillées n’a été conservé ou, quoi qu’il en soit, produit en preuve pour ce travail effectué en 2016.
+[15] Le paragraphe 8(10) et le sous-alinéa 8(1)(i)(ii) de la Loi prévoient ensemble que la déduction du salaire versé à un adjoint exige que le paiement par l’employé du salaire à un adjoint soit requis par le contrat de travail de l’employé et qu’un formulaire T2200 (intitulé « Déclaration des conditions de travail ») dûment rempli soit soumis.
+[16] Rien ne prouve que le contrat de travail de M. Li ait exigé qu’il verse un salaire à un adjoint. En outre, aucun des formulaires T2200 pour les deux années d’imposition présentées en preuve n’était « signé par [l’]employeur [du contribuable] », comme l’exige explicitement le paragraphe 8(10). Il n’y a aucune preuve ou indication que des versions signées de ces documents aient été jointes à la déclaration de M. Li pour l’une ou l’autre de ces deux années d’imposition.
+[17] En outre, aucun élément de preuve documentaire n’a été présenté pour justifier le paiement effectif du salaire allégué de 24 000 $ pour 2015 et 2016, respectivement.
+[18] Le versement du montant mensuel sur un compte conjoint constitue-t-il un paiement par l’un des titulaires du compte conjoint à l’autre? Dans l’affaire Blott c. La Reine, 2018 CCI 1, cette situation a été examinée. Quant à savoir si cela constituait un paiement aux fins du sous-alinéa 8(1)i)(ii), le juge C. Miller a écrit ce qui suit (aux paragraphes 11 et 13) :
+11. Alors, la somme de 12 000 $ a‑t‑elle été payée [...] par M. Blott? Aucun chèque n’a été émis au nom de Mme Thériault [épouse de M. Blott]. Le revenu de M. Blott était déposé dans le compte conjoint et Mme Thériault pouvait simplement y avoir accès. Dans ces circonstances, une somme a-t-elle été payée à Mme Thériault? Je conclus que cela n’a pas été le cas. Mme Thériault, à titre de titulaire conjointe du compte, pouvait en fait retirer toutes les sommes qu’elle souhaitait, bien au-delà de 12 000 $ par année. En effet, elle-même ou M. Blott pouvait retirer n’importe quelle somme du compte. Dans ces circonstances, je ne vois pas comment il pourrait être considéré qu’une somme a été payée à Mme Thériault ou dépensée à son intention. Elle n’a reçu rien de plus que ce qu’elle avait déjà.
+13. Pour établir l’existence d’une relation de travail employeur-employé dans le cadre d’une situation avec lien de dépendance, il est important qu’il y ait certains éléments preuve d’un salaire payé, du fait que le bénéficiaire d’un traitement a réellement reçu un avantage au-delà de ce qui pourrait découler du cadre ordinaire du partage par un époux et une épouse d’un compte conjoint. En outre, M. Blott n’a remis aucun feuillet T4 à son épouse. Selon la prépondérance des probabilités, je conclus qu’aucun salaire n’a été payé à Mme Thériault, selon ce que prévoit la Loi. [Non souligné dans l’original.]
+[19] Ainsi, la réponse dans la décision Blott était que le fait que le montant du salaire soit placé sur un compte conjoint détenu par les deux conjoints ne constituait pas le paiement par le conjoint A d’un salaire au conjoint B en tant qu’adjoint. Il en va de même dans la situation de M. Li en ce qui concerne le versement en 2016 d’un salaire à son épouse en tant qu’adjointe.
+[20] Quant à l’imputation des sommes sur les dépenses de sa belle-mère, aucune preuve n’a été fournie confirmant que ces paiements ont été imputés sur ces dépenses. Il n’a pas non plus été prouvé que M. Li facturait normalement à sa belle-mère le loyer, la nourriture, le transport, etc.
+[21] Dans l’affaire Burlando c. La Reine, 2014 CCI 92, la juge V. Miller de notre Cour a observé ce qui suit (aux paragraphes 12, 13 et 16) :
+12. Il ne m’a été soumis en preuve aucun document confirmant que l’appelant ait versé un salaire à Bonita. Il a dit dans son témoignage qu’il la payait en appliquant en réduction de son salaire les montants qu’elle payait avec sa carte de crédit, mais aucun reçu n’a été produit à l’appui de son assertion. À mon avis, il a choisi au hasard des montants sur ses relevés bancaires et déclaré qu’il s’agissait du salaire de Bonita. Par exemple, certains mois, il incluait les frais d’adhésion de sa fille à un gymnase dans le salaire de Bonita et dans d’autres mois, les frais d’adhésion au gymnase ne faisaient pas partie du salaire de son épouse. En 2008, les montants choisis comme correspondant au salaire de Bonita totalisaient 21 407,60 $ en 2008 et 17 204,72 $ en 2009. Aucun document n’a été produit pour confirmer que les dépenses payées par carte de crédit, les paiements par carte de débit ou les retraits en espèces ont été faits par Bonita.
+13. L’avocat de l’appelant a déclaré que les circonstances du présent appel étaient analogues à celles de Noël c. La Reine, 2011 CCI 27. Je ne suis pas d’accord. Dans la décision Noël, le juge Hogan de la Cour a conclu que Mme Noël possédait les compétences pour exécuter les fonctions dont elle était responsable et que, en outre, elle était payée par chèque pour les services qu’elle rendait au cabinet juridique de son époux. La question de savoir si Mme Noël avait bel et bien travaillé dans l’entreprise de son époux n’a jamais fait de doute.
+16. En conclusion, j’estime que l’appelant ne s’est pas acquitté du fardeau qui lui incombait de prouver que la nouvelle cotisation était erronée. Il n’a pas établi que Bonita travaillait vraiment pour lui et qu’il lui avait versé un salaire. En pareil cas, s’il existe une présumée relation professionnelle entre parties ayant un lien de dépendance, la Cour devrait disposer de documents ou d’éléments de preuve indépendants à l’appui de cette relation professionnelle. En l’espèce, nous n’avons rien obtenu de cela. [Non souligné dans l’original.]
+[22] À l’instar de Burlando, et compte tenu de l’absence d’éléments de preuve documentaires en l’espèce, de même que de l’absence de témoignage de la belle-mère de M. Li, je ne suis pas en mesure de conclure que les sommes mensuelles de 2 000 $ ont été effectivement « versées » à la belle-mère de M. Li. En outre, et comme il est indiqué, il n’y a aucune preuve que les frais prétendument crédités, tels que le loyer, la nourriture et le transport, étaient des frais que M. Li demandait normalement à sa belle-mère de payer.
+[23] Je m’interroge également sur le caractère raisonnable de ces paiements. Comment la somme annuelle de 24 000 $ a-t-elle été déterminée? Elle n’était pas fondée sur le nombre d’heures travaillées. On a également demandé à M. Li, au cours de son interrogatoire principal, pourquoi le paiement s’élevait à 24 000 $. M. Li a répondu ce qui suit : [traduction] « C’est ce que nous avions prévu, 2 000 $ par mois pour mon épouse ».[2]
+[24] En l’absence d’éléments de preuve indiquant le contraire, la somme de 24 000 $ pour chacune des deux années me semble être un montant arbitraire et trop généreux pour effectuer des heures de travail à temps partiel sur un ordinateur portable tout au long de l’année. Je conclus que le salaire annuel de 24 000 $ n’était pas raisonnable pour l’une ou l’autre année.
+[25] Enfin, pour établir que la belle-mère et l’épouse de M. Li avaient effectué le travail déclaré, elles auraient dû témoigner. Pour que cela constitue une base valable de déduction d’une dépense d’emploi pour chacune des deux années, il fallait que des registres soient tenus et produits et que les paiements soient effectivement effectués et que leur montant total soit raisonnable. En outre, comme il est indiqué ci-dessus, cette dépense d’emploi consistant à verser un salaire à un adjoint n’a pas été justifiée comme l’exige le formulaire T2200 fondé sur le paragraphe 8(10) signé par l’employeur de l’appelant; le paiement de ce salaire par M. Li n’était pas non plus prévu dans le contrat de travail de M. Li lui-même.
+[26] Par conséquent, la déduction annuelle de 24 000 $ demandée pour chacune des deux années à titre de salaire est refusée.
+IV. Frais de véhicule à moteur : [27] La deuxième catégorie de dépenses déclarées est celle des frais de véhicule à moteur. À cet égard, M. Li a déclaré des frais de location, d’assurance, de carburant et de stationnement pour chacun des deux véhicules suivants : une BMW et une Toyota.
+[28] Au cours de son contre-interrogatoire, il a admis que les frais liés à la Toyota (location, stationnement, assurance, carburant) devaient être exclus, car ce véhicule était utilisé essentiellement à des fins récréatives.
+[29] En ce qui concerne la BMW, il a finalement admis que 50 % des frais connexes étaient d’ordre personnel et non professionnel, et qu’ils n’auraient donc pas dû être déclarés. En outre, il ne disposait pas d’un registre du kilométrage pour la BMW. En ce qui concerne le carburant et le stationnement, il n’a apporté aucun reçu à la Cour.
+[30] Les 50 % des frais pour affaires correspondent au trajet aller-retour de 20 kilomètres qu’il a déclaré devoir effectuer presque tous les jours entre le concessionnaire et un bureau provincial d’immatriculation des véhicules, afin d’obtenir rapidement l’immatriculation des véhicules que le concessionnaire venait de vendre, de louer ou de financer. Il a insisté sur le fait qu’il devait faire ce trajet, car, au bureau d’immatriculation, une personne moins expérimentée n’aurait pas le pouvoir d’autoriser des modifications ni les connaissances nécessaires à cet égard, en ce qui concerne les questions et les situations éventuelles.
+[31] Il a également déclaré qu’il y avait d’autres courses de nature professionnelle à faire avec la BMW, mais il n’a pas précisé de quoi il s’agissait. Ces 50 % de frais d’utilisation professionnelle n’étaient qu’une estimation approximative de sa part, au cours de l’audition. Je ne suis pas convaincu que ces 20 kilomètres par jour, plus d’autres courses occasionnelles, représentent 50 % de l’utilisation totale à des fins professionnelles. Pour chacun de ces jours, il se rendait également chez le concessionnaire depuis son domicile dans la région du Grand Toronto, ce qui, bien entendu, n’est pas une conduite à des fins professionnelles. La BMW a également été utilisée à des fins récréatives. Tel qu’il est indiqué ci-dessus, il n’y avait pas de registre de kilométrage à consulter. Par ailleurs, comme il est indiqué, aucun reçu de carburant ou de stationnement n’a été présenté comme élément de preuve.
+[32] M. Li a reçu une allocation mensuelle pour véhicule à moteur de 400 $, totalisant 4 800 $ par an pour chacune des deux années d’imposition concernées, incluse dans ses feuillets T4 pour ces années.
+[33] Lors de son contre-interrogatoire, M. Li était d’accord avec l’affirmation selon laquelle il avait [traduction] « déclaré les frais de carburant de toute [sa] famille ». Il a expliqué que cela était dû au fait que [traduction] « les membres de [sa] famille [étaient] également impliqués dans [son] travail »[3]. La seule preuve à cet égard est que sa belle-mère et son épouse ont effectué le travail sur ordinateur portable mentionné précédemment à la maison, sans avoir à se déplacer. Par conséquent, il n’était pas justifié de déclarer le montant total des frais de carburant.
+[34] Les frais de véhicule à moteur peuvent être déclarés aux termes de l’alinéa 8(1)h.1), comme il est indiqué ci-dessus. Toutefois, conformément au paragraphe 8(10) ci-dessus, ces dépenses ne peuvent être déduites que si elles sont indiquées dans le formulaire T2200 « Déclaration des conditions de travail » signé par l’employeur ou en son nom. Aucune preuve de ce formulaire T2200 signé par l’employeur n’a été produite.
+[35] Pour ces motifs, les frais de véhicule à moteur déclarés ne peuvent pas être déduits.
+V. Fournitures de bureau : [36] Enfin, sous la rubrique [traduction] « Fournitures de bureau », M. Li a demandé la déduction des dépenses engagées pour l’achat d’une Apple Watch et d’un ordinateur portable Apple. Tous deux étaient considérés comme des ordinateurs.
+[37] Outre la question de l’utilisation personnelle, plus précisément l’Apple Watch, les deux produits Apple revendiqués sont considérés par l’intimé comme des immobilisations et ne sont donc pas déductibles comme il l’a demandé. J’abonde dans le même sens. Par conséquent, la déduction des dépenses réelles liées à l’acquisition de chacun de ces deux éléments est refusée.
+VI. Conclusion : [38] L’appel interjeté à l’égard des nouvelles cotisations du 14 janvier 2019 pour les années d’imposition 2015 et 2016 de M. Li sera rejeté.
+Signé à Halifax (Nouvelle-Écosse), ce 25e jour de mai 2023.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2023 CCI 77
+No DU DOSSIER DE LA COUR :
+2019-4394(IT)I
+INTITULÉ :
+YIN LI c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 21 mars 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge Bruce Russell
+DATE DU JUGEMENT :
+Le 25 mai 2023
+COMPARUTIONS :
+Représentant de l’appelant :
+Oliver Xing
+Avocats de l’intimé :
+Me Christopher Ware
+Me Tianjian Wang
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Transcription, p. 47.
+[2] Transcription, p. 12.
+[3] Transcription, p. 72 et 73.

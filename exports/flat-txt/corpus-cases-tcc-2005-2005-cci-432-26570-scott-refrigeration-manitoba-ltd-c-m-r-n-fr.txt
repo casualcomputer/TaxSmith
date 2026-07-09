@@ -1,0 +1,184 @@
+Title: Scott Refrigeration (Manitoba) Ltd. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26570/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-432-26570-scott-refrigeration-manitoba-ltd-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-08-16
+
+# Scott Refrigeration (Manitoba) Ltd. c. M.R.N.
+
+- Citation: 2005 CCI 432
+- Decision date: 2005-08-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3578, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scott Refrigeration (Manitoba) Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-16
+Référence neutre
+2005 CCI 432
+Numéro de dossier
+2005-147(EI)
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005‑147(EI)
+ENTRE :
+SCOTT REFRIGERATION (MANITOBA) LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Winnipeg (Manitoba), le 28 juin 2005
+Devant : L’honorable juge T. O’Connor
+Comparutions :
+Avocat de l’appelante :
+Me Deryk Coward
+Avocate de l’intimé :
+Me Penny Piper
+____________________________________________________________________
+JUGEMENT
+L’appel de la décision rendue par le ministre du Revenu national en application de la Loi sur l’assurance‑emploi (la « Loi ») est accueilli et la décision portant que Mark Adams (le « travailleur ») occupait un emploi assurable auprès de Scott Refrigeration (Manitoba) Ltd. (l’« employeur ») pendant la période allant du 1er janvier 2000 au 31 décembre 2003 est annulée.
+Signé à Ottawa, Canada, ce 16e jour d’août 2005.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 6e jour d’avril 2006.
+Christian Laroche, LL.B.
+Référence : 2005CCI432
+Date : 20050816
+Dossier : 2005‑147(EI)
+ENTRE :
+SCOTT REFRIGERATION (MANITOBA) LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O’Connor
+[1] Il s’agit d’un appel interjeté par l’employeur à l’encontre de la décision du ministre du Revenu national portant que le travailleur occupait un emploi assurable aux fins de l’application de la Loi pendant la période allant du 1er janvier 2000 au 31 décembre 2003. Selon cette décision, peu importe le lien de dépendance qui existait entre eux, le travailleur et l’employeur auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance. L’employeur prétend que la décision est erronée, que le travailleur n’était pas assurable et que, en conséquence, les cotisations d’assurance‑emploi devraient être remboursées.
+[2] La décision du ministre était fondée sur les alinéas 5(2)i) et 5(3)b) de la Loi, dont les passages pertinents sont reproduits ci‑dessous :
+5(2) N’est pas un emploi assurable :
+a) […]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+5(3) Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[3] Il n’est pas contesté que le travailleur et l’employeur sont liés, le travailleur étant le fils de Dwight Adams et de Nancy Adams, lesquels possédaient ensemble la totalité des actions de l’employeur. Ce qui est contesté dans le présent appel, c’est la décision du ministre selon laquelle il était convaincu qu’il était raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, que l’employeur et le travailleur auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance. Il s’ensuit que, malgré l’existence d’un lien de dépendance entre l’employeur et le travailleur, ce dernier était assurable et les cotisations ont été correctement payées.
+[4] Le droit a beaucoup évolué dans ce domaine, comme il ressort en particulier de certains arrêts de la Cour d’appel fédérale. Dans les premiers arrêts, celle‑ci a statué que l’opinion du ministre ne pouvait pas être modifiée dans le cadre d’un appel à la Cour canadienne de l’impôt, sauf si l’on pouvait démontrer que le ministre avait commis ce qui pouvait être qualifié d’« erreur de droit administratif » en formant son opinion. Comme la Loi confère un pouvoir discrétionnaire au ministre, la Cour canadienne de l’impôt ne pouvait pas substituer simplement son opinion à celle de ce dernier. Toutefois, si, au cours de l’audition d’un appel, l’appelant était en mesure de démontrer que le ministre avait commis une erreur de droit en formant son opinion, la Cour devait rendre une décision de novo sur la question de savoir si les modalités du contrat de travail pouvaient raisonnablement être considérées comme étant celles sur lesquelles des parties sans lien de dépendance se seraient entendues. En d’autres termes, ce n’est qu’après avoir conclu que la décision du ministre était viciée par une erreur de droit administratif que la Cour canadienne de l’impôt pouvait substituer son opinion à celle du ministre.
+[5] Dans l’arrêt Légaré c. Canada, [1999] A.C.F. no 878, le juge Marceau, qui s’exprimait également au nom des juges Desjardins et Noël, a dit ce qui suit au paragraphe 4 :
+4 La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L’expression utilisée introduit une sorte d’élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu’il s’agit sans doute d’un pouvoir dont l’exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n’est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l’impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n’est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c’est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[6] Il semble que l’arrêt Légaré, précité, a infirmé les arrêts rendus auparavant. Par exemple, dans l’arrêt Pérusse c. Canada, [2000] A.C.F. no 310, le juge Marceau a écrit ce qui suit, avec le concours du juge Décary :
+13 Il est clair, en lisant les motifs de la décision, que pour le président du tribunal l’objet de son enquête était de savoir si le ministre avait « judicieusement », selon l’expression consacrée, exercé la discrétion que la Loi lui accorde de « reconnaître la non‑exclusion » d’un contrat entre personnes liées. Il lui fallait donc examiner si la décision avait été prise de bonne foi, sur la base de faits pertinents révélés par une enquête sérieuse, et non sous l’influence indue de considérations étrangères. Ainsi, dès le départ, à la page 3 de ses motifs, le juge écrit :
+La détermination dont fait l’objet le présent appel résulte du pouvoir discrétionnaire prévu par les dispositions de l’article 3(2)(c) de la Loi qui se lit comme suit :
+[...]
+L’appelante devait relever, par prépondérance de la preuve, le fardeau de preuve B l’effet que l’intimé n’avait pas, lors de l’évaluation du dossier, respecté les règles de l’art relatives B la discrétion ministérielle, une réponse négative ayant pour effet d’empêcher toute intervention de ce tribunal.
+Et finalement sa conclusion, B la page 16 :
+Pour ce qui est de l’appel, je ne puis y faire droit étant donné que l’appelante n’a pas fait la preuve que l’intimé avait mal exercé sa discrétion.
+[...]
+[7] Dans la décision Birkland c. M.R.N., 2005 CCI 291, le juge Bowie a résumé ainsi l’état actuel du droit :
+Si je comprends bien ces arrêts, le rôle de la Cour canadienne de l’impôt consiste à mener un procès au cours duquel les deux parties peuvent produire des éléments de preuve concernant les modalités aux termes desquelles l’appelant était employé, les modalités aux termes desquelles des personnes sans lien de dépendance, effectuant le même travail que l’appelant, étaient employées par le même employeur et les conditions d’emploi prévalant dans l’industrie pour le même genre de travail, au même moment et au même endroit. Des éléments de preuve relatifs à la relation existant entre l’appelant et l’employeur peuvent évidemment être produits également. À la lumière de tous ces éléments de preuve et de l’opinion du juge sur la crédibilité des témoins, la Cour doit ensuite déterminer si le ministre aurait pu raisonnablement, en ayant connaissance de l’ensemble de cette preuve, ne pas conclure que l’employeur et une personne avec laquelle il n’avait pas de lien de dépendance auraient conclu entre eux un contrat de travail à peu près semblable. Si je comprends bien, c’est là le degré de retenue judiciaire accordé à l’avis du ministre du fait de l’emploi, par le législateur, de l’expression « […] si le ministre du Revenu national est convaincu […] » à l’alinéa 5(3)b).
+[Renvois omis.]
+Les faits
+[8] Les principales hypothèses de fait contenues dans la réponse à l’avis d’appel sont les suivantes :
+[...]
+a) l’appelante exploite une entreprise d’installation et d’entretien de matériel de réfrigération, de climatisation et de chauffage;
+[...]
+e) le travailleur et l’appelante sont des personnes liées au sens de la Loi de l’impôt sur le revenu, L.R.C. 1985 (5e suppl.), ch. 1, et ses modifications (la « Loi »);
+[...]
+h) le travailleur a travaillé pour l’appelante pendant huit ans;
+i) le travailleur travaillait généralement pour l’appelante du mois de mai au mois d’août de chaque année;
+[...]
+l) dans le cadre de ses fonctions, le travailleur installait et entretenait du matériel de réfrigération, de climatisation et de chauffage;
+m) pendant la période en question, il n’y avait aucun autre travailleur au sein de l’appelante qui effectuait des fonctions semblables à celle du travailleur;
+n) le travailleur n’a jamais exécuté du travail pour l’appelante sans être rémunéré;
+o) le travailleur ne remettait pas de feuilles de temps à l’appelante, celle‑ci n’en exigeant pas;
+p) les heures du travailleur étaient inscrites sur les bons de travail des clients plutôt que sur des feuilles de temps;
+q) le travailleur travaillait généralement 8 heures par jour, du lundi au vendredi;
+r) les heures de travail du travailleur étaient déterminées par l’appelante;
+s) pendant la période en question, le travailleur était payé à un taux horaire de 21,88 $ en 2000, de 25,00 $ en 2001 et en 2002, ainsi que de 27,00 $ en 2003;
+t) le taux de rémunération du travailleur était déterminé par l’appelante et était basé sur les directives du syndicat local no 254, ainsi que sur les compétences du travailleur;
+u) le travailleur n’a reçu aucune prime;
+v) le travailleur était toujours rémunéré pour les heures qu’il travaillait;
+w) s’il faisait des heures supplémentaires, le travailleur était rémunéré conformément aux taux du syndicat;
+x) le travailleur recevait une paye de vacances de 6 p. 100;
+y) le travailleur était toujours payé à la date prévue;
+z) le travailleur ne déposait jamais ses chèques de paye dans le compte d’affaires de l’appelante;
+aa) le travailleur ne pouvait pas embaucher et payer ses propres assistants ou remplaçants;
+bb) toutes les dépenses engagées par le travailleur dans le cadre de l’exécution de ses fonctions étaient remboursées par l’appelante;
+cc) le travailleur fournissait ses propres petits outils à main conformément aux normes syndicales du secteur; l’appelante fournissait les autres outils et pièces d’équipement dont le travailleur avait besoin;
+dd) en tant que compagnon, on s’attendait à ce que le travailleur travaille sans supervision;
+ee) le travailleur était capable de déterminer le type de travail à effectuer pour les clients, d’établir des devis et d’exécuter ensuite le travail;
+[...]
+ii) le travailleur devait obtenir la permission de l’appelante s’il voulait prendre des congés;
+jj) le travailleur ne pouvait aller et venir comme il le voulait;
+kk) le travailleur disposait d’une certaine latitude quant à ses heures de travail; il pouvait par exemple commencer sa journée de travail plus tôt de façon à pouvoir partir plus tôt, pourvu que cela ne cause pas de problème aux clients de l’appelante;
+ll) le travailleur ne recevait aucun avantage de l’appelante;
+mm) le travailleur aurait pu être congédié par l’appelante;
+nn) le travailleur n’avait aucun pouvoir de signature au regard des comptes de banque de l’appelante;
+oo) le travailleur n’a fait aucun investissement dans l’entreprise de l’appelante et n’a personnellement garanti aucun prêt pour celle‑ci;
+pp) le ministre a pris en considération tous les faits pertinents qui lui ont été présentés, y compris la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli;
+qq) le ministre était convaincu qu’il était raisonnable de conclure que le travailleur et l’appelante auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+Dans son témoignage, le travailleur a contesté les alinéas n), v) et w) et a clarifié l’alinéa dd) en affirmant que le ministère du Travail s’attendait à ce qu’une supervision soit exercée dans l’industrie.
+[9] L’avocat de l’employeur fait valoir que ce dernier et le travailleur ont un lien de dépendance, qu’ils sont exclus de l’application de la Loi pour cette raison et que les cotisations d’assurance‑emploi qui ont été payées doivent être remboursées. Pour sa part, l’avocate de l’intimé prétend, en se fondant principalement sur le questionnaire qui a été rempli par le travailleur et qui a été déposé sous la cote R‑1, que, malgré l’existence d’un lien de dépendance entre le travailleur et l’employeur, ce dernier aurait conclu un contrat de travail à peu près semblable avec une partie avec laquelle il n’aurait pas eu de lien de dépendance.
+[10] Le témoignage du travailleur (la seule personne appelée à témoigner) a mis en lumière les principaux faits suivants :
+le salaire du travailleur était basé sur une semaine de 40 heures; le travailleur ne recevait aucune rémunération pour les heures supplémentaires, malgré le fait qu’il travaillait de 12 à 20 heures de plus par semaine; il a déjà travaillé pendant 100 heures supplémentaires durant une période de 10 jours à l’été 2003;
+le travailleur a expliqué que, dans l’industrie, les compagnons reçoivent une fois et demie leur salaire pour les heures supplémentaires, et parfois davantage, qu’ils remplissent des feuilles de temps, ce que lui ne faisait pas, qu’il n’a reçu aucun avantage comme une assurance médicale ou une assurance pour les soins dentaires, mais qu’il touchait une paye de vacances;
+Il était souvent « en attente » sans être payé, ce qui n’est pas courant dans l’industrie.
+[11] Le travailleur a expliqué pourquoi il ne demandait pas à être payé pour ses heures supplémentaires dans l’extrait suivant de son témoignage :
+[TRADUCTION]
+Q C’est ce que je vous demande. Pourquoi n’étiez‑vous pas rémunéré pour les heures que vous travailliez?
+R C’est mon père et j’ai pensé que je lui donnais un coup de main dans l’entreprise familiale. Et un jour, j’achèterais la compagnie. J’ai vu ça comme un échange, vous savez – c’est comme ça que nous voyions les choses.
+Q Si vous aviez travaillé pour une autre compagnie, petite ou grande, n’appartenant pas à votre père –
+R Oui?
+Q – auriez‑vous travaillé de 12 à 20 heures par semaine sans être rémunéré?
+R Jamais.
+Q En êtes‑vous certain?
+R Oui.
+[12] Le travailleur a ajouté qu’il se servait de la carte de crédit et des chèques en blanc de l’employeur pour acheter les pièces dont il avait besoin.
+[13] L’avocate de l’intimé a passé en revue le questionnaire avec le travailleur et a attiré son attention sur certaines réponses qui contredisaient son témoignage, en particulier au regard des heures supplémentaires travaillées mais non rémunérées. Le travailleur a déclaré qu’il avait dit la vérité devant la Cour et que certaines des réponses inscrites dans le questionnaire avaient pour but de faire en sorte que son père n’ait pas d’ennuis avec le ministère du Travail.
+[14] Ayant examiné la preuve et pris en considération les hypothèses du ministre, le questionnaire et les explications données par le travailleur à ce sujet, j’arrive à la conclusion que la décision du ministre était erronée principalement pour les motifs suivants :
+1. j’estime que le travailleur et les raisons qu’il a données pour expliquer pourquoi ses réponses figurant dans le questionnaire étaient différentes du témoignage qu’il a fait sous serment devant la Cour étaient crédibles;
+2. je suis d’accord avec l’avocat de l’employeur lorsqu’il prétend qu’un travailleur n’ayant pas de lien de dépendance avec l’employeur n’aurait pas travaillé autant d’heures supplémentaires que le travailleur en cause en l’espèce sans être rémunéré;
+3. j’affirme en outre que le fait, pour un travailleur, de ne pas recevoir d’avantages, d’être en attente sans être payé et de se servir de la carte de crédit et des chèques en blanc de l’employeur n’est pas une indication d’un contrat de travail conclu avec un employeur avec lequel il n’a pas de lien de dépendance.
+[15] Pour les motifs qui précèdent, je conclus que les modalités de l’emploi du travailleur n’étaient pas à peu près semblables à ce qu’elles auraient été si le travailleur et l’employeur n’avaient pas eu de lien de dépendance.
+[16] En conséquence, l’appel est accueilli et la décision rendue par le ministre selon laquelle le travailleur, Mark Adams, occupait un emploi assurable chez l’employeur, Scott Refrigeration (Manitoba) Ltd., pendant la période allant du 1er janvier 2000 au 31 décembre 2003 est annulée.
+[17] Lors de l’audition du présent appel, j’ai rendu une décision préliminaire selon laquelle l’appel devait être rejeté. Il s’agissait d’une erreur et cette décision préliminaire est remplacée par le jugement qui précède, portant que l’appel est accueilli.
+Signé à Ottawa, Canada, ce 16e jour d’août 2005.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 6e jour d’avril 2006.
+Christian Laroche, LL.B.
+RÉFÉRENCE : 2005CCI432
+NO DU DOSSIER DE LA COUR : 2005‑147(EI)
+INTITULÉ : Scott Refrigeration (Manitoba) Ltd. c.
+Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 28 juin 2005
+MOTIFS DU JUGEMENT : L’honorable juge T. O’Connor
+DATE DU JUGEMENT : Le 16 août 2005
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Deryk Coward
+Avocate de l’intimé :
+Me Penny Piper
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Deryk Coward
+Cabinet : D’Arcy & Deacon LLP
+Winnipeg (Manitoba)
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

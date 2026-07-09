@@ -1,0 +1,252 @@
+---
+title: "Marra v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/127827/index.do"
+last_modified: "2016-01-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 24"
+citation2: ""
+neutral_citation: "2016 TCC 24"
+decision_date: "2016-01-26"
+language: "en"
+item_id: "127827"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3063
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:01:12.403000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1d50da35349ee85f47218562a9742545f481cf73b8ca7e94c9fb21328a773354"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Marra v. The Queen
+
+- Citation: 2016 TCC 24
+- Decision date: 2016-01-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3063, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marra v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-01-26
+Neutral citation
+2016 TCC 24
+File numbers
+2014-1356(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-1356(IT)G
+2014-1357(GST)G
+BETWEEN:
+NANCY MARRA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on November 12, 2015, at Toronto, Ontario.
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellant:
+Justin Kutyan
+Adam Gotfried
+Counsel for the Respondent:
+Laurent Bartleman
+JUDGMENT
+The appeal from the assessment made pursuant to section 227.1(1) of the Income Tax Act is allowed and the assessment is vacated.
+The appeal from the assessment made pursuant to section 323(1) of the Excise Tax Act is allowed and the assessment is vacated.
+Once set of costs is awarded to the appellant for both appeals.
+Signed at Ottawa, Canada, this 26th day of January 2016.
+“Gerald J. Rip”
+Rip J.
+Citation: 2016 TCC 24
+Date: 20160126
+Dockets: 2014-1356(IT)G
+2014-1357(GST)G
+BETWEEN:
+NANCY MARRA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip J.
+[1] Nancy Marra appeals assessments of tax levied pursuant to section 227.1 of the Income Tax Act (“ITA”) and section 323 of the Excise Tax Act (“ETA”), both assessments made on the basis that she was a director of Sani-Clean Systems Incorporated (“Sani-Clean”) at times that the corporation failed to remit tax to the Receiver General of Canada.[1]
+[2] Ms. Marra’s reasons for her appeal are that:
+a) any action or proceeding to recover amounts payable by her as director were commenced more than two years after she ceased to be a director of Sani-Clean: subsections 227.1(4) of the ITA and 323(5) of the ETA;
+b) she exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances: subsections 227.1(3) of the ITA and 323(3) of the ETA; and
+c) the Minister incorrectly determined Sani-Clean’s tax liability under the Acts and has not satisfied the conditions precedent for imposing liability on her pursuant to subsections 227.1(2) of the ITA and 323(2) of the ETA.
+[3] Section 227.1 of the ITA and section 323 of the ETA are not identical, but they are similar. For ease of the reader I cite the relevant portions of section 227.1 and footnote any substantial differences:
+227.1(1) Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or 135.1(7) or section 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay that amount and any interest or penalties relating to it.
+227.1(1) Lorsqu’une société a omis de déduire ou de retenir une somme, tel que prévu aux paragraphes 135(3) ou 135.1(7) ou aux articles 153 ou 215, ou a omis de verser cette somme ou a omis de payer un montant d’impôt en vertu de la partie VII ou VIII pour une année d’imposition, les administrateurs de la société, au moment où celle-ci était tenue de déduire, de retenir, de verser ou de payer la somme, sont solidairement responsables, avec la société, du paiement de cette somme, y compris les intérêts et les pénalités s’y rapportant.
+(2) A director is not liable under subsection 227.1(1), unless
+(2) Un administrateur n’encourt la responsabilité prévue au paragraphe (1) que dans l’un ou l’autre des cas suivants :
+(a) a certificate for the amount of the corporation’s liability referred to in that subsection has been registered in the Federal Court under section 223 and execution for that amount has been returned unsatisfied in whole or in part;
+a) un certificat précisant la somme pour laquelle la société est responsable selon ce paragraphe a été enregistré à la Cour fédérale en application de l’article 223 et il y a eu défaut d’exécution totale ou partielle à l’égard de cette somme;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation’s liability referred to in that subsection has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+b) la société a engagé des procédures de liquidation ou de dissolution ou elle a fait l’objet d’une dissolution et l’existence de la créance à l’égard de laquelle elle encourt la responsabilité en vertu de ce paragraphe a été établie dans les six mois suivant le premier en date du jour où les procédures ont été engagées et du jour de la dissolution;
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation’s liability referred to in that subsection has been proved within six months after the date of the assignment or bankruptcy order.
+c) la société a fait une cession ou une ordonnance de faillite a été rendue contre elle en vertu de la Loi sur la faillite et l’insolvabilité et l’existence de la créance à l’égard de laquelle elle encourt la responsabilité en vertu de ce paragraphe a été établie dans les six mois suivant la date de la cession ou de l’ordonnance de faillite.
+(3) A director is not liable for a failure under subsection 227.1(1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+(3) Un administrateur n’est pas responsable de l’omission visée au paragraphe (1) lorsqu’il a agi avec le degré de soin, de diligence et d’habileté pour prévenir le manquement qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+(4) No action or proceedings to recover any amount payable by a director of a corporation under subsection 227.1(1) shall be commenced more than two years after the director last ceased to be a director of that corporation.[2]
+(4) L’action ou les procédures visant le recouvrement d’une somme payable par un administrateur d’une société en vertu du paragraphe (1) se prescrivent par deux ans à compter de la date à laquelle l’administrateur cesse pour la dernière fois d’être un administrateur de cette société.
+[4] The notice of the income tax assessment is dated January 17, 2013; the ETA assessment is dated January 14, 2013. Sani-Clean is alleged to have missed making relevant income tax payments in 2007 and 2008 and payments under the ETA for the reporting periods August 1, 2005 to July 31, 2009.
+FACTS The Appellant [5] Nancy Marra attended York University for one year and left to attend the Fashion Institute from which she graduated in 1978. She then worked 14 years at Eaton’s as a display person. Once she had children, she stayed at home for a while and then joined her husband who operated a banquet hall known as “Royalton”.
+[6] Mr. Marra studied Business Administration in college for three years and had other work experience before entering the banquet hall business. In 1985, he a cousin and a friend opened a banquet hall, called La Pineta. Later in 1996, he and another cousin, Mario Sili, opened Royalton Banquet Hall in 1996 and operated it for 10 years. In 1999, he and Mr. Sili purchased a second banquet hall (Regency) which they renovated, operated and sold in 2001 or 2002. The Royalton Banquet Hall was closed in 2005 and the business was moved to the Bellevue Manor. Unfortunately, Mr. Sili developed brain cancer and had to leave the business. His wife, Sylvana Sili now “runs the front end” of the Bellevue Manor banquet hall. Ms. Marra has worked since 2007 at Bellevue Manor as a wedding and event planner. Her husband, she said, runs the business.
+[7] Ms. Marra’s exposure with Sani-Clean started in 1999 when a “gentleman from whom we bought cleaning products for Royalton” wanted to start a company. The company, Sani-Clean would and did, lease washing or cleaning equipment such as dishwashers, products for the equipment, as well as maintenance and cleaning supplies to restaurants and hotels in the Toronto area. The person who initiated discussions was John Manankil. Ms. Marra described her husband’s role in the new proposed company as the “financial backer” but “did not know about cleaning products” and neither she nor he were “involved” in the company.
+[8] Sani‑Clean was incorporated under the Ontario Business Corporation Act (“OBCA”) by Articles of Incorporation dated September 27, 1999. The first director and incorporator was Claudio Polsinelli, the lawyer for Mr. and Ms. Marra. The company’s registered head office was at the address of the Marras’ banquet hall at the time. There appears to have been no change of registered office since incorporation.
+[9] On September 27, 1999, 300 common shares of Sani‑Clean were issued, 150 to a Joe Canario and 150 to Les Breuer. Mr. Polsinelli, the sole director, elected Mr. Canario as President and Mr. Breuer as Secretary‑Treasurer. A year later, on October 17, 2000, Messrs. Canario and Breuer transferred 150 shares to Ms. Marra and 50 shares to Mr. Manankil. On the same day Ms. Marra transferred 37.5 shares to Silvana Sili so that the shareholding was as follows:
+Name
+Shares
+Joe Canario
+50
+Les Breuer
+50
+John Manankil
+50
+Nancy Marra
+112.5
+Silvana Sili
+37.5
+[10] Also on October 17, 2000 Messrs. Canario, Breuer, Manankil and Ms. Marra and Ms. Sili were elected directors. Mr. Canario was elected President and Mr. Breuer Secretary‑Treasurer.
+[11] Ms. Marra transferred 25 percent of her shares to Ms. Sili for no consideration. Ms. Sili’s husband owned 25 percent of “everything we opened”, said Mr. Marra. Mr. Sili was not involved in the company’s business.
+[12] Ms. Marra held the shares because, as Mr. Marra explained it, he was having “problems” with a landlord of one of the banquet halls at the time and “I decided to put everything in Nancy’s name”.
+[13] The shareholders of Sani‑Clean, except for Ms. Marra, each had some experience to contribute to the company. Ms. Marra said Mr. Canario was “more of a technician”. He serviced dishwashers and related equipment. Mr. Breuer was a “laundry” person. Mr. Manankil “kind of looked after everything” as well as sales. Mr. Mara said that Mr. Manankil also had knowledge of the chemical waste business. Mr. Manankil’s wife worked in the office. Mr. Marra’s role in the company was to finance its operation. Mr. Marra invested approximately $200,000 to $250,000, the other shareholders, nothing. However, the “main guy” running the business was Mr. Manankil, according to Mr. Marra. There were also two or three employees who delivered chemicals and helped Mr. Canario.
+[14] Ms. Marra stated she became a director of Sani‑Clean because her husband asked her. In a question put to her by her counsel, she declared she did not understand her responsibilities as a director under any of the Income Tax, Canada Pension Plan and Employment Insurance Acts and did not seek legal advice.
+[15] Sani‑Clean’s business, said Ms. Marra, was operated by Messrs. Canario, Breuer and Manankil. Two of the three could sign cheques according to Mr. Marra. Ms. Marra repeated she was not involved at all. Sani‑Clean’s premises were near the airport and she visited the premises once, when opened. She stated she was busy with two banquet halls and had no time for Sani‑Clean. She also insisted she did not know any of the three men before the Sani‑Clean venture.
+[16] Mr. Marra corroborated much of his wife’s evidence about the origins of Sani‑Clean, inasmuch as she knew anything. Mr. Marra described Mr. Manankil as distraught with his employer in 1999 and wanted to start his own business. They “got along at the time”. Mr. Manankil had serviced one of the banquet halls.
+[17] In the early years, Mr. Marra recalled, the company “was doing a good job making money”. Clients included the Woodbine Race Track, a number of hotels and “most of the banquet halls in Toronto” as well as restaurants.
+[18] Mr. Breuer was diagnosed with cancer and died in 2002 or 2003. Shortly thereafter, Mr. Marra recalled, “Joe [Canario] came to me and said he couldn’t get along with John [Maninkil]”. Mr. Marra described Mr. Manankil as having a strong and controlling personality. Mr. Canario left Sani‑Clean about two or three months after Mr. Breuer’s death.
+[19] Day to day operations continued to be carried on by Mr. Manankil and his wife until Mr. Marra “realized expenses were higher than we were used to”. Mr. Marra hired a Mr. Valente to look after his interests in Sani‑Clean. Mr. Valente attended Sani‑Clean “for a bit” but did not get along with Mr. Manankil. Mr. Marra told Mr. Manankil that Mr. Valente would co‑sign cheques. Mr. Manankil was not happy, said Mr. Marra, and left the company about a month after they had a discussion in December 2006.
+[20] “Once I saw what was happening with John”, Mr. Marra sated, “I told Nancy to call Claudio … Claudio took care of Royalton, Sani‑Clean and a lot of personal stuff.”
+[21] Mr. Marra acknowledged that he was aware of his wife’s potential liability as a director under the Income Tax, Canada Pension Plan and Employment Insurance Acts when he told her to telephone Mr. Polsinelli to discuss resigning. Mr. Marra does not know if any other director was aware of Ms. Marra’s resignation or if a change of director form was filed with the Ministry of Government and Consumer Services (“Ministry”).
+[22] Ms. Marra declared that the reasons for resigning as director were that her husband was not happy with what was going on. Mr. Manankil’s wife was Sani‑Clean’s bookkeeper and “we had no idea what she was doing” and Mr. Marra thought it would be better if she resigned. The Marras also caused Sani‑Clean to initiate legal action against Mr. Manankil for appropriating company funds for personal purposes, among other things. By Notice of Motion dated January 26, 2007, Sani‑Clean sought an injunction to prevent Mr. Manankil from soliciting Sani‑Clean’s customers. A preliminary injunction was obtained on February 7, 2007. Examples of appropriation of funds by Mr. Manankil, according to Mr. Marra, was the purchase of a refrigerator for home use as well as automobile expenses.
+[23] In the meantime, once Mr. Manankil had left Sani‑Clean he started his own business and, Mr. Marra said, “pulled customers from us, first Woodbine” … That crippled us.” The Statement of Claims filed in the litigation against Mr. Manankil is dated December 13, 2006. By then Mr. Marra had told the appellant that there were problems. The Statement of Claim by Sani‑Clean against Mr. and Mrs. Maninkil and the company they incorporated, Sani‑Care Industries Inc., claimed, among other things, exemplary and punitive damages, breach of fiduciary duty, an accounting of funds and an injunction to limit operations of Sani‑Care Industries Inc.
+[24] Ms. Marra agreed that Mr. Marra urged her to call Mr. Polsinelli, their lawyer, and lawyer for Sani‑Clean, to resign because, she related, he feared that she may have some financial liability concerning Sani‑Clean. She acknowledged that she did not inquire what her liability might be. Based on her husband’s information concerning Mr. Manankil she lost confidence in, and no longer trusted, Mr. Manankil.
+[25] Ms. Marra got in touch by phone with Claudio Polsinelli on January 3, 2007, according to Mr. Polsinelli’s notes. She asked Mr. Polsinelli how she could resign. He told her she had to resign formally in writing.
+[26] The following were typed by an employee at the banquet office and signed by Ms. Marra:
+January 7, 2007
+Claudio Polsinelli
+3700 Steeles Avenue West
+Woodbridge, Ontario
+L4L 8K8
+Dear Claudio:
+I have been considering the discussion we had a few days ago regarding the Director’s liability and my role in Sani‑Clean.
+As I have indicated to you, I do not trust John Manninkil, and for this reason, I have decided to resign my position as a Director.
+I have attached my resignation letter confirming this.
+Sincerely,
+Nancy Marra
+…..
+(Attachment):
+January 7, 2007
+TO SANI‑CLEAN SYSTEMS INC. AND ITS DIRECTORS
+I hereby resign as a Director of Sani‑Clean Systems Inc. effective immediately.
+(signed)
+Nancy Marra
+[27] The Marras were leaving on vacation and asked an employee of the banquet hall to deliver the letter to Mr. Polsinelli’s office.
+[28] On their return to Toronto, Ms. Marra “did not follow up” the resignation, assuming Mr. Polsinelli had taken care of it. The Marras never followed up anything with Mr. Polsinelli, she said. No other director of Sani‑Clean was informed of Ms. Marra’s resignation. Apparently, according to Mr. Marra, the only director was Mr. Manankil who was being sued by the Marras and Sani‑Clean. (There is no evidence when or if Ms. Sili resigned as director.) No Notice of Change of Directors was sent as required by the Ontario Corporations Information Act (“OCIA”).
+[29] Respondent’s counsel also questioned Ms. Marra about the litigation with Mr. Manankil. However, Ms. Marra was not able to answer the questions either because Mr. Marra was the person directing the litigation or she had no knowledge, or both.
+[30] Ms. Marra insisted she had no idea of Sani‑Clean’s financial affairs before her husband informed her that there were problems at Sani‑Clean. She made no inquiries as to whether the corporation was withholding or remitting tax and Goods and Services Tax to the Government. In cross‑examination she said she did nothing to prevent any default by Sani‑Clean in not remitting taxes.
+[31] In 2010 Ms. Marra began receiving correspondence from the Canada Revenue Agency (CRA). She said that she did not know the reason the CRA was sending her these letters and gave them to her husband. She did not indicate to the CRA that she resigned as a director of Sani‑Clean until she filed a notice of objection. In cross‑examination, she stated she has no idea what a notice of objection is; all was left to Mr. Marra.
+[32] Mr. Marra gave the CRA correspondence sent to Ms. Marra to Mr. Frank Sacucci “to take care of”. Mr. Saccucci was hired by Mr. Marra to assist with Sani‑Clean. Mr. Marra did speak on the telephone to a CRA official.
+[33] After initiating the lawsuit against Mr. Manankil, Mr. Marra hired another person to look after the business but the company “went south and we left it”.
+[34] Mr. Polsinelli believes he has represented the Marras since the late 1990s. He described himself as a family and corporate lawyer who, if he cannot give the advice sought, will consult another lawyer.
+[35] Sani‑Clean was incorporated by Mr. Polsinelli and he was its lawyer until its dissolution. He prepared minutes of meetings of shareholders and directors and tried to keep the minute book up to date, but was not always successful. He stated that he was the corporate lawyer for Sani‑Clean from incorporation to dissolution, “anything of a legal nature [was] channeled through my office.” However, Sani‑Clean’s head office was never at his office, Mr. Polsinelli said. He avoided having corporate offices in his office because he did not want to receive the usual mail, such as government notices, sent to corporations.
+[36] Initially, Mr. Polsinelli had possession of Sani‑Clean’s minute book but because of the litigation with Mr. Manankil he gave the minute book to another lawyer, Mr. J. Lo Faso. He, Mr. Lo Faso and three other lawyers shared office space, library and receptionist. Each had their own assistant. Mr. La Foso was acting as litigation counsel for Sani‑Clean against Mr. Manankil.
+[37] Mr. Polsinelli kept notes in a Hillary Notebook that was kept beside his office telephone. He recorded telephone discussions into the notebook. The notebook essentially contained all matters pertaining to clients. He recalled the telephone conversation with Ms. Marra in January 2007 and “probably said ‘Just send me a note that you’re resigning’.” He stated that the resignation letter was prepared “on my advice.”
+[38] Ms. Marra’s letter of resignation sent to Mr. Polsinelli was never placed in the company’s minute book since the minute book was in Mr. La Foso’s office, Mr. Polsinelli explained. He confirmed that no notice of resignation by Ms. Marra was filed with the Ministry. He said he would “probably” have placed the letter in the minute book when it was to be returned by Mr. La Foso and then file a notice with the Ministry. When the minute book was returned “nobody recalled the letter” and no notice of change of director was sent to the Ministry.
+Submissions [39] The appellant’s principal submission is that she resigned as director of Sani‑Clean by notice dated January 7, 2007 which was “received” by Sani‑Clean by its corporate counsel on January 11, 2007. Subsection 323(5) of the ETA and subsection 227.1(4) of the ITA provide that no assessment, for ETA purposes, and no action or proceeding, for ITA purposes, to recover any amount otherwise payable by a director shall be commenced more than two years after the person ceased to be a director. The notices of assessment pursuant to subsection 323(1) of the ETA and subsection 227.1(1) of the ITA, dated January 14 and 17, 2013, respectively, were made more than two years after Ms. Marra last ceased to be a director of the corporation.
+[40] Ms. Marra’s second submission is that a director shall not be liable for a corporation’s failure to remit taxes where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised.
+[41] Ms. Marra’s submissions are set out in paragraph 2 of these reasons. No evidence was lead with respect to her third submission. Thus I shall consider whether she resigned as director of Sani‑Clean more than two years before any assessment, action or proceeding was commenced and if not, whether she exercised the degree of care, diligence and skill required by subsections 323(3) of the ETA and 227.1(3) of the ITA.
+Resignation [42] Section 121 of the OBCA, the statute under which Sani‑Clean was incorporated, states:
+(1) A director of a corporation ceases to hold office when he or she
+a) dies, or subject to subsection 119(2) resigns;[3]
+(2) A resignation of a director becomes effective at the time a written resignation is received by the corporation or at the time specified in the resignation, whichever is later.
+[43] Subsection 4(1) of the OCIA states that
+(1) Every corporation shall file with the Minister a notice of change for every change in the information filed under this Act, within 15 days after the day the change takes place.[4]
+[44] Failure to file a notice of change of director does not negate the change of director or director’s resignation; Laprise v. Julio’s Pizza & Spaghetti Parlour.[5] The consequences for failing to file such notice may include penalties and fines.[6]
+[45] The issue these appeals are concerned with is did Sani‑Clean receive Ms. Marra’s resignation on January 11, 2007, or, on the facts, is receipt of a letter of resignation by a lawyer for the corporation receipt of the resignation by the corporation? The alternative submission by the appellant was whether she was duly diligent in preventing Sani‑Clean’s failures to remit tax.
+[46] In January 2007, the Marras and Sani‑Clean were involved with legal action against Mr. Manankil, who, along with Ms. Sili, were the two directors of Sani‑Clean. Ms. Sili, according to the appellant, was not an active director and was not involved in the operation of Sani‑Clean. Therefore, the appellant claims, it would be useless to send the letter of resignation to a director against whom you have taken legal action or to a director who had absolutely no involvement with the company. Mr. Polsinelli advised Ms. Marra to send the letter of resignation to him. In the appellant’s view the delivery of the letter of resignation to Mr. Polsinelli as corporate counsel was the best available method to notify Sani‑Clean of her resignation.
+[47] Counsel referred to Hart v. Lefebvre[7] where Mesbur J. of the Ontario Superior Court of Justice considered section 108 of the Canada Business Corporation Act, that resignation of a director is effective at the time a written resignation is sent to a corporation. There is no requirement where the resignation is to be sent and the trial judge assumed “the underlying principle is one of notice or meaningful communication with the corporation”. In Hart, the letter of resignation was sent to the Trustee in bankruptcy which, the trial judge found, “was the best available method for the defendant to actually notify the corporation” since “the Trustee was the only entity with any remaining connection to or for the corporation”. The trial judge therefore held that the letter of resignation sent to the Trustee on May 17, 1991 was effectively sent to the corporation on that date and the date of resignation was May 17, 1991.
+[48] When Mr. Polsinelli received the letter of resignation so did Sani‑Clean, insists the appellant’s counsel. He was agent for Sani‑Clean. The lawyer‑client relationship is an agent‑principal relationship, he argued, and, therefore, corporate counsel’s knowledge is imputed to Sani‑Clean, delivery to corporate counsel is delivery to Sani‑Clean. Counsel cited Sommers v. Poirier for the Nova Scotia Supreme Court’s view that: [8]
+Lawyers are agents for their clients. When lawyers speak, they speak on behalf of their clients. When they agree, they agree on behalf of their clients. The Justice system would fall apart if these basic principles did not apply.
+[49] I note that the comment in Sommers, supra, concerned a lawyer’s comments during negotiation of a settlement of an action in law. The Court held that the lawyer had authority to conclude a settlement even if the client had no knowledge of the agreement the lawyer entered into. This is quite a different situation from that at bar where the terms of any agency agreement between Mr. Polsinelli and Sani‑Clean are not in evidence. It is not automatic that in all circumstances a lawyer is agent of the client. In the case at bar, for example, there is no evidence of any agreement that Sani‑Clean authorized Mr. Polsinelli to accept delivery of any director’s resignation on its behalf. Indeed, Mr. Polsinelli testified he avoided corporate clients from having their registered office at his office because he did not want to be bothered with corporate mail.
+[50] The respondent’s position is that the appellant’s “purported” resignation was ineffective as Sani‑Clean never received it. The letter of resignation was not sent to the corporation’s registered head office or any other place where the corporation operated, nor was the letter ever sent to an officer or director of Sani‑Clean and no officer or director was informed of the resignation. It was, submits respondent’s counsel, a “secret resignation”, not at all similar to a situation where a person resigns orally before all directors, officers and principals who become aware of the resignation[9].
+Analysis [51] So let’s be practical, look at the law and put ourselves in Ms. Marra’s shoes. Her husband tells her there is trouble with Sani‑Clean and that she may be liable on account of these problems, and that she should get in touch with their lawyer who is also Sani‑Clean’s lawyer. The lawyer tells her she has to resign. She could send a letter of resignation to either of the two remaining directors, one is Ms. Sili who probably has no idea what is occurring. The other director is Mr. Manankil who is being sued by the Marras and Sani‑Clean. He also has jumped ship as far as Sani‑Clean is concerned. No comfort would be gained in sending the letter of resignation to him.
+[52] The only alternative, therefore, is to send the letter of resignation to the lawyer who has always acted for Sani‑Clean and who has, or should have, possession of Sani‑Clean’s corporate records. This is not necessarily a question of whether Mr. Polsinelli is agent of Sani‑Clean; it is a question of wanting to resign as director and sending the letter of resignation to the person who has any remaining responsible connection with Sani‑Clean and, in the circumstances, that was Mr. Polsinelli, Sani‑Clean’s lawyer.
+[53] Ms. Marra’s letter of resignation as director of Sani‑Clean was effective as at the date it was received by Mr. Polsinelli. There is no reason to consider the appellant’s alternate submission that she exercised the degree of care, diligence and skill to prevent Sani‑Clean’s failures to remit tax.
+[54] During consideration of this matter I requested counsel’s views whether a letter sent to a lawyer who, on receipt, places the letter in the client’s file becomes property of the client and thus “received” by the client, bearing in mind that the content of a lawyer’s file are property of the client: Aggio v. Rosenberg.[10] For the reasons already given, I need not consider arguments of counsel in this area of law.
+[55] The appeals are allowed. One set of costs is awarded to the appellant for both appeals.
+Signed at Ottawa, Canada, this 26th day of January 2016.
+“Gerald J. Rip”
+Rip J.
+CITATION:
+2016 TCC 24
+COURT FILE NOS.:
+2014-1356(IT)G
+2014-1357(GST)G
+STYLE OF CAUSE:
+NANCY MARRA
+v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 12, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT:
+January 26, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Justin Kutyan
+Adam Gotfried
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Justin Kutyan
+Adam Gotfried
+Firm:
+KPMG Law LLP
+Toronto, Ontario.
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] For some reason, not apparent to me, the respondent pleaded provisions of the Canada Pension Plan and the Employment Insurance Act, notwithstanding the appellant’s Notices of Appeal from both the ITA and ETA assessments do not include appeals from any assessment under these Acts. Also, the respondent’s Reply to the Notice of Appeal from the assessment under the ETA contains a laundry list of provisions under the ETA and its regulations that are not necessary. Both Replies relied on the Ontario Business Corporations Act (“OBCA”) but not to any particular provision of the OBCA. The Minister’s assumptions of fact included far more than only material facts on which the Crown relied: Zelinski v. The Queen, [2001] TCJ No. 774 (QL), 2002 DTC 1204, at pars. 4 and 5. The reader may also wish to read Holmested and Watson, Ontario Civil Procedure, (Carswell, Toronto) vol. 3, pages 25-20 to 25-21. It appears the writer of the Reply simply copied the assessor’s and/or appeal officer’s reports without bothering to cull the facts.
+[2] Subsection 323(5) of the ETA reads as follows:
+(5) An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+(5) L’établissement d’une telle cotisation pour un montant payable par un administrateur se prescrit par deux ans après qu’il a cessé pour la dernière fois d’être administrateur.
+[3] Subsection 119(2) deals with a resignation of incorporating directors at the first meeting of shareholders.
+[4] The change includes change of directors and the date on which a person has ceased to be a director.
+[5] 1986 CarswellNet 225 (Ont Prov Ct.).
+[6] Sections 13-18 of OCIA.
+[7] 1999 CarswellOnt 4678, 2 B.L.R. (3d) 84, par. 5. See also Walsh v. The Queen, 2009 TCC 557, 2009 DTC 1372, par. 38.
+[8] 2008 NSSC 342, par. 27.
+[9] Gariepy v. R., 2014 CarswellNat 3162, par. 22.
+[10] [1981] O.J. No. 2229 (QL).

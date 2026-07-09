@@ -1,0 +1,173 @@
+---
+title: "Farah c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31058/index.do"
+last_modified: "2013-01-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 16"
+citation2: ""
+neutral_citation: "2013 CCI 16"
+decision_date: "2013-01-09"
+language: "fr"
+item_id: "31058"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4698
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:34:27.388000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e361b47f1abad0fc79bb3f1f8f79788cb14430b2dcbfe8d0f6de59d16c56664f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Farah c. La Reine
+
+- Citation: 2013 CCI 16
+- Decision date: 2013-01-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4698, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Farah c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-01-09
+Référence neutre
+2013 CCI 16
+Numéro de dossier
+2012-1649(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1649(IT)I
+ENTRE :
+Abdeltif Farah,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Khadija Dakiri, 2012-2694(IT)I, le 9 janvier 2013, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi sur l’impôt sur le revenu (LIR) par le ministre du Revenu national (ministre) en date du 11 avril 2011 pour l’année d’imposition 2010 indiquant un solde à payer nul, est rejeté.
+L’appel de la détermination du ministre en date du 5 juillet 2011 refusant l’octroi du crédit de taxe sur les produits et services pour la période de juillet 2011 à juin 2012 (année de base 2010) aux termes de l’article 122.5 de la LIR, est rejeté.
+Signé à Ottawa, Canada, ce 17e jour de janvier 2013.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2013 CCI 16
+Date : 20130117
+Dossier : 2012-1649(IT)I
+ENTRE :
+Abdeltif Farah,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelant en appelle de la nouvelle cotisation datée du 11 avril 2011 établie en vertu de la Loi de l’impôt sur le revenu (LIR) par le ministre du revenu National (ministre) pour l’année d’imposition 2010, qui indique un solde nul.
+[2] L’appelant en appelle également d’une détermination émise par le ministre le 5 juillet 2011 à l’égard du crédit de taxe sur les produits et services (TPS) pour la période de juillet 2011 à juin 2012 (année de base 2010). Selon cette détermination, l’appelant n’aurait pas droit au crédit de TPS pour cette période, car son revenu familial était trop élevé dépassant la limite de 45 740 $ en 2010[1].
+[3] De fait, le revenu de l’appelant s’élève à 90 763 $ pour l’année d’imposition 2010 et sa conjointe n’avait aucun revenu pour cette même année. Ils avaient un enfant à charge de moins de 19 ans qui vivait avec eux durant cette même année.
+[4] L’appelant conteste cette cotisation et cette détermination au motif que la grande partie de son revenu de 90 758,36 $ reçue en 2010 provient de l’indemnité de remplacement de revenu qu’il a obtenue de la Commission de la santé et de la sécurité du travail (CSST) pour les années 2007 à 2010 inclusivement, tel qu’en fait foi le document qu’il a déposé sous la cote A-1.
+[5] Il soutient qu’il subit une injustice personnelle en se faisant retirer le droit à son crédit pour TPS parce que son revenu pour l’année 2010 ne reflète pas la réalité mais correspond plutôt à une somme forfaitaire globale des indemnités annuelles qui lui revenaient pour la période de 2007 à 2010 inclusivement.
+[6] Malheureusement pour l’appelant, je ne peux accéder à sa demande.
+[7] Le crédit de TPS auquel un particulier admissible a droit est calculé quatre fois par année, à chaque mois déterminé, selon le revenu rajusté de l’année de base. Pour l’année de base 2010, les mois déterminés sont les mois de juillet et octobre 2011 et les mois de janvier et avril 2012 (paragraphe 122.5(4) LIR).
+[8] Pour déterminer le droit au crédit de TPS, il faut établir le revenu rajusté de l’année de base. Selon la définition du paragraphe 122.5(1), le revenu rajusté est le total du revenu du contribuable et de son proche admissible (ici Madame Khadija Dakiri) pour l’année. Le revenu est le revenu tel que calculé à la section B de la Partie 1 de la LIR, à l’article 3. Il ne s’agit pas du revenu imposable tel que calculé à la section C de la Partie 1 de la LIR.
+[9] Les dispositions législatives pertinentes sont reproduites ci-après :
+LOI DE L’IMPÔT SUR LE REVENU
+PARTIE I — IMPÔT SUR LE REVENU
+Section A — Assujettissement à l’impôt
+2. (1) Impôt payable par les personnes résidant au Canada — Un impôt sur le revenu doit être payé, ainsi qu’il est prévu par la présente loi, pour chaque année d’imposition, sur le revenu imposable de toute personne résidant au Canada à un moment donné au cours de l’année.
+2. (2) Revenu imposable — Le revenu imposable d’un contribuable pour une année d’imposition est son revenu pour l’année plus les ajouts prévus à la section C et moins les déductions qui y sont permises.
+[…]
+Section B — Calcul du revenu
+Règles fondamentales
+Article 3. Revenu pour l’année d’imposition — Pour déterminer le revenu d’un contribuable pour une année d’imposition, pour l’application de la présente partie, les calculs suivants sont à effectuer :
+a) le calcul du total des sommes qui constituent chacune le revenu du contribuable pour l’année (autre qu’un gain en capital imposable résultant de la disposition d’un bien) dont la source se situe au Canada ou à l’étranger, y compris, sans que soit limitée la portée générale de ce qui précède, le revenu tiré de chaque charge, emploi, entreprise et bien;
+b) le calcul de l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii):
+(i) le total des montants suivants :
+(A) ses gains en capital imposables pour l’année tirés de la disposition de biens, autres que des biens meubles déterminés,
+(B) son gain net imposable pour l’année tiré de la disposition de biens meubles déterminés,
+(ii) l’excédent éventuel de ses pertes en capital déductibles pour l’année, résultant de la disposition de biens autres que des biens meubles déterminés sur les pertes déductibles au titre d’un placement d’entreprise pour l’année, subies par le contribuable;
+c) le calcul de l’excédent éventuel du total établi selon l’alinéa a) plus le montant établi selon l’alinéa b) sur le total des déductions permises par la sous-section e dans le calcul du revenu du contribuable pour l’année (sauf dans la mesure où il a été tenu compte de ces déductions dans le calcul du total visé à l’alinéa a));
+d) le calcul de l’excédent éventuel de l’excédent calculé selon l’alinéa c) sur le total des pertes subies par le contribuable pour l’année qui résultent d’une charge, d’un emploi, d’une entreprise ou d’un bien et des pertes déductibles au titre d’un placement d’entreprise subies par le contribuable pour l’année;
+Pour l’application de la présente partie, les règles suivantes s’appliquent :
+e) si un montant est calculé selon l’alinéa d) à l’égard du contribuable pour l’année, le revenu du contribuable pour l’année correspond à ce montant;
+f) sinon, le revenu du contribuable pour l’année est réputé égal à zéro.
+[…]
+Sous-section d — Autres sources de revenu
+Article 56. (1) Sommes à inclure dans le revenu de l’année — Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+[…]
+v) Indemnité d’accident du travail — une indemnité reçue en vertu d’une loi sur les accidents du travail du Canada ou d’une province à l’égard d’une blessure, d’une invalidité ou d’un décès;
+[…]
+Section C — Calcul du revenu imposable
+110. (1) Déductions — Pour le calcul du revenu imposable d’un contribuable pour une année d’imposition, il peut être déduit celles des sommes suivantes qui sont appropriées :
+[…]
+f) Déduction des paiements — toute prestation d’assistance sociale payée après examen des ressources, des besoins ou du revenu et incluse en application de la division 56(1)a)(i)(A) ou de l’alinéa 56(1)u) dans le calcul du revenu du contribuable pour l’année ou toute somme dans la mesure où elle a été incluse dans le calcul du revenu du contribuable pour l’année, représentant, selon le cas :
+[…]
+(ii) une indemnité reçue aux termes d’une loi fédérale ou provinciale sur les accidents du travail pour blessure, invalidité ou décès, à l’exception d’une indemnité qu’une personne reçoit à titre d’employeur ou d’ancien employeur de la personne pour laquelle une indemnité pour blessure, invalidité ou décès a été payée;
+Section E – Calcul de l’impôt
+Sous-section a – Règles applicables aux particuliers
+Article 122.5 : définitions
+(1) Les définitions qui suivent s’appliquent au présent article.
+« revenu rajusté » — « revenu rajusté » En ce qui concerne un particulier pour une année d’imposition par rapport à un mois déterminé de l’année, le total de son revenu pour l’année et du revenu pour l’année de son proche admissible par rapport à ce mois, calculés chacun comme si, dans le calcul de ce revenu, aucune somme n’était incluse en application de l’alinéa 56(1)q.1) ou du paragraphe 56(6) ou au titre d’un gain provenant d’une disposition de bien à laquelle s’applique l’article 79 et comme si aucune somme n’était déductible en application des alinéas 60y) ou z) dans le calcul de ce même revenu.
+122.5(4) Mois déterminés. Pour l’application du présent article, les mois déterminés d’une année d’imposition sont juillet et octobre de l’année d’imposition suivante et janvier et avril de la deuxième année d’imposition suivante.
+[10] Ainsi, l’article 2 (inclus à la section A de la Partie 1 de la LIR, sur l’assujettissement à l’impôt) fait bien la distinction entre le revenu d’un contribuable et le revenu imposable sur lequel l’impôt à payer est calculé.
+[11] Par la suite, les articles 3 et suivants de la section B traitent du calcul du revenu, auquel on fait référence dans la définition du revenu rajusté à l’article 122.5.
+[12] Ainsi, l’indemnité reçue par l’appelant en 2010 doit être incluse dans son revenu en vertu de l’alinéa 56(1)v) de la LIR qui fait partie de la section B sur le calcul du revenu.
+[13] L’appelant a mentionné avoir remboursé un montant de 35 000 $ de prestations d’assistance sociale reçues au cours des années antérieures. Cette somme est tenue en compte dans la déduction permise dans le calcul du revenu imposable de l’année 2010 aux termes du sous-alinéa 110(1)f) (ii) de la LIR.
+[14] Même si le revenu imposable est réduit par l’effet de cette déduction, cela n’a aucun impact sur le crédit de TPS qui est déterminé en fonction du revenu (tel qu’il se calcule selon la section B de la LIR) et non en fonction du revenu imposable (tel que calculé selon la section C de la LIR qui comprend la déduction sous le sous-alinéa 110(1)f)(ii)).
+[15] L’intimée a donc raison de ne pas accorder de crédit de TPS au motif que le revenu de l’appelant en 2010 était trop élevé par rapport à la limite permise.
+[16] L’appelant considère qu’il souffre de discrimination et d’injustice. Ce dernier n’a pas fait la preuve de discrimination par rapport à un groupe déterminé. Il s’agit de l’application des dispositions fiscales adoptées par le législateur et qui s’appliquent à tous également se retrouvant dans la même situation.
+[17] Pour ces raisons, je me dois de rejeter à la fois l’appel de la nouvelle cotisation néant établie pour l’année 2010[2] et l’appel de la détermination refusant le crédit de TPS.
+Signé à Ottawa, Canada, ce 17e jour de janvier 2013.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2013 CCI 16
+Nº DU DOSSIER DE LA COUR : 2012-1649(IT)I
+INTITULÉ DE LA CAUSE : Abdeltif Farah c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 9 janvier 2013
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 17 janvier 2013
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Stéphanie Côté
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le seuil de 45 740 $ est un montant établi selon un calcul effectué aux termes du paragraphe 122.5(3) de la LIR. Ce calcul ne semble pas faire l'objet de contestation. Je comprends de l'argumentation de l'appelant qu'il conteste le calcul du revenu rajusté dont on tient compte pour établir le crédit de TPS.
+[2] Pour lequel il n’y a pas d’appel possible : voir Interior Savings Credit Union c. La Reine, 2007 CAF 151

@@ -1,0 +1,165 @@
+---
+title: "Grondin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110630/index.do"
+last_modified: "2015-07-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 169"
+citation2: ""
+neutral_citation: "2015 TCC 169"
+decision_date: "2015-07-03"
+language: "en"
+item_id: "110630"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2664
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:17:12.721000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d44ec63476c891e788dd50b406aa7daf15e8378dcd507a2c7ce7622bb224ca5d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Grondin v. The Queen
+
+- Citation: 2015 TCC 169
+- Decision date: 2015-07-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2664, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grondin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-07-03
+Neutral citation
+2015 TCC 169
+File numbers
+2014-931(GST)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2014-931(GST)I
+BETWEEN:
+CARL GRONDIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on February 26, 2015, at Ottawa, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Gabrielle White
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated January 14, 2014, is dismissed, without costs, in accordance with the attached reasons for judgment.
+Signed at Toronto, Canada, this 3rd day of July 2015.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 14th day of August 2015
+Janine Anderson, Translator
+Citation: 2015 TCC 169
+Date: 20150703
+Docket: 2014-931(GST)I
+BETWEEN:
+CARL GRONDIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Paris J.
+[1] This is an appeal from an assessment by the Minister of National Revenue (Minister), under the Excise Tax Act (Act), denying a goods and services tax/harmonized sales tax (GST/HST) rebate in the amount of $12,090 paid by the appellant on the purchase of vacant land.
+[2] The appellant was the only person to testify.
+Facts [3] The appellant, a non-registrant for the purposes of the Act, acquired a plot of vacant land in Rockland, Ontario, on November 30, 2010, for consideration of $93,000, plus $12,090 in GST/HST.
+[4] The land was previously part of a block of land that was used for agricultural activities. Later, the block of land was divided up for resale.
+[5] The appellant acquired the land to build a personal residence on it. The appellant admitted that he never carried on a business or made any improvements to the land at all material times.
+[6] Subsequently, the appellant’s plans changed and he decided to sell the land. To this end, he communicated with a construction company interested in acquiring the land for commercial purposes. The company told the appellant that he could not claim GST/HST from it because the Canada Revenue Agency (CRA) would reimburse him the GST/HST amount that he paid when he purchased the land on November 30, 2010.
+[7] The appellant stated, in his testimony, that he then contacted the CRA office to ensure that he would receive a GST/HST rebate further to the sale of the land. Following the advice of a CRA employee, the appellant filed form GST22 “Real Property – Election to Make Certain Sales Taxable”, under paragraph 9(2)(b) of Part I of Schedule V of the Act. The appellant filed that form on May 28, 2012.
+[8] On September 27, 2012, the appellant sold the land to the buyer, for consideration of $93,000, without GST/HST.
+[9] In a letter dated October 11, 2012, the CRA declined to give effect to form GST22 and to make the sale of the land taxable on the ground that the appellant did not sell the land in the course of a business or an adventure.
+[10] In November 2012, the appellant filed form GST189 “General Application for Rebate of GST/HST – Option 7” for a rebate of the GST/HST he paid when he acquired the land. That form applies to rebates pursuant to subsection 257(1) of the Act.
+[11] On December 18, 2012, by notice of assessment, the CRA also declined to give effect to form GST189 and to allow the application for rebate because the sale was not a taxable supply by the appellant.
+[12] The appellant testified that he would not have sold the land for less than what he had paid including the GST/HST if he had known that he was not entitled to a rebate of the GST/HST that he had already paid.
+Analysis [13] Subsection 257(1) of the Act sets out that a person who is not a registrant and who makes a particular taxable supply of real property by way of a sale is entitled to a tax rebate. It reads as follows:
+257. (1) Non-registrant sale of real property -- If a person who is not a registrant makes a particular taxable supply of real property by way of sale, the Minister shall, subject to subsections (1.1) and (2), pay a rebate to the person equal to the lesser of
+(a) the basic tax content of the property at the particular time, and
+(b) the tax that is or would, in the absence of section 167 or 167.11, be payable in respect of the particular supply.
+[14] It is clear from the wording of this provision that the non-registrant must have made the taxable supply of real property to be entitled to the rebate set out in section 257. Taxable supply means a supply that is made in the course of a commercial activity, according to the definition of this expression in subsection 123(1) of the Act.
+[15] The expression “commercial activity” is also defined in subsection 123(1) of the Act, which states the following:
+“commercial activity” of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply;
+[16] By that definition, the making of exempt supplies is excluded from commercial activity.
+[17] Subsection 9(2) of Part I of Schedule V sets out that the sale of real property by an individual is an exempt supply, except in the circumstances listed in subsections 9(2)(a) to (f).
+[18] One of the exceptions, at subparagraph 9(2)(b)(ii) of Part I of Schedule V of the Act, sets out that the supply of real property made in the course of an adventure or concern in the nature of trade is not an exempt supply if the individual filed an election with the Minister containing prescribed information. The election is made on form GST22. That election makes the supply of real property taxable and allows a non-registrant to claim a rebate under subsection 257(1) of the Act. Subparagraph 9(2)(b)(ii) reads as follows:
+9 (2) A supply of real property made by way of sale by an individual or a personal trust, other than
+. . .
+(b) a supply of real property made
+. . .
+(ii) where the individual or trust has filed an election with the Minister in prescribed form and manner and containing prescribed information, in the course of an adventure or concern in the nature of trade of the individual or trust;
+[19] In this case, there is no question that subparagraph 9(2)(b)(ii) does not apply in the circumstances because the appellant was not exercising an adventure or concern in the nature of trade with respect to the land. Therefore, the appellant could not choose to treat the supply as a taxable supply and was not entitled to the rebate. Clearly, the CRA officer’s advice to the appellant to submit that form was erroneous.
+[20] The appellant’s main argument is based on considerations of fairness. The appellant argued that he made inquiries with the CRA about the possibility of obtaining a rebate of the taxes that he paid when he acquired the land. He sold his land based on the advice provided by the CRA. At the hearing, the respondent did not dispute that the appellant was mislead by CRA representatives.
+[21] However, the Court cannot be bound by erroneous departmental interpretations. In Moulton v. The Queen, [2002] 2 CTC 2395, Associate Chief Judge Bowman (as he was then) stated the following at paragraph 11:
+The appellant argues with great conviction that he should be entitled to rely on advice given by the CCRA and relied upon by him in good faith. I agree that the result may seem a little shocking to taxpayers who seek guidance from government officials whom they expect to be able to give correct advice. Unfortunately such officials are not infallible and the court cannot be bound by erroneous departmental interpretations. Any other conclusion would lead to inconsistency and confusion. . . .
+[22] As a result, the appeal is dismissed.
+[23] In consideration of the erroneous advice that the appellant received from the CRA, this is a case where he might consider seeking a remission order under the Financial Administration Act. It must also be noted that, in this case, it is quite likely that the government will collect the GST/HST on the real property on two occasions: first during its sale to the appellant and then during its sale by the buyer, the construction company, which has used the land for its homebuilding company. That result would seem to go against the policy of the Act to tax the disposition of property only once.
+Signed at Toronto, Canada, this 3rd day of July 2015.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 14th day of August 2015
+Janine Anderson, Translator
+CITATION:
+2015 TCC 169
+COURT FILE NO:
+2014-931(GST)I
+STYLE OF CAUSE:
+CARL GRONDIN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+February 26, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+July 3, 2015
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Gabrielle White
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

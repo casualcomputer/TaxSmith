@@ -1,0 +1,156 @@
+---
+title: "Lalwani v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/420936/index.do"
+last_modified: "2019-08-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 180"
+citation2: ""
+neutral_citation: "2019 TCC 180"
+decision_date: "2019-08-28"
+language: "en"
+item_id: "420936"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4232
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:04:50.577000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bf5a67dda756ec00eac75539e9b0627e895296fa96bb5479b1d79ab3e1ea4a33"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lalwani v. The Queen
+
+- Citation: 2019 TCC 180
+- Decision date: 2019-08-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4232, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lalwani v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-08-28
+Neutral citation
+2019 TCC 180
+File numbers
+2017-3579(GST)I
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2017-3579(GST)I
+BETWEEN:
+CHANDRU LALWANI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 21, 2019, at Toronto, Ontario
+Before: The Honourable Justice Susan Wong
+Appearances:
+Agent for the Appellant:
+Punit Lalwani
+Counsel for the Respondent:
+Kevin Hong
+JUDGMENT
+The appeal from the May 9, 2016 notice of assessment made under Part IX of the Excise Tax Act with respect to a GST/HST New Residential Rental Property Rebate application is dismissed, without costs.
+Signed at Ottawa, Canada, this 28th day of August 2019.
+“Susan Wong”
+Wong J.
+Citation: 2019 TCC 180
+Date: 20190828
+Docket: 2017-3579(GST)I
+BETWEEN:
+CHANDRU LALWANI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Wong J.
+Introduction
+[1] The appellant Chandru Lalwani appeals the Minister of National Revenue’s May 9, 2016 decision denying his application for the New Residential Rental Property Rebate with respect to the purchase of a condominium unit, being 1908-4070 Confederation Parkway in Mississauga (the “Property”).
+[2] The Minister denied his rebate application on the basis that the application was filed after the two-year time limit set out in subparagraph 256.2(7)(a)(iii) of the Excise Tax Act (the “Act”).
+[3] The appellant testified on his own behalf. The respondent relied on the affidavit of Hanaa Farag (Canada Revenue Agency litigation officer), filed in advance of the hearing under section 335 of the Act. No other witnesses testified.
+Issue
+[4] The issue is whether the appellant filed the rebate application before the expiration of the two-year time limit. If not, this court does not have the ability to waive or extend the time for doing so, and the appeal must be dismissed.
+Factual Background
+[5] In August 2010, the appellant purchased the Property from a builder on a pre-sale basis and took possession on June 19, 2013. Ownership was transferred to him on February 25, 2014.
+[6] He testified that before taking possession of the Property, he lived in Cambridge where he operated a restaurant. He stated that upon taking possession of the Property, he lived there for a few days and realized that the commute from Mississauga to Cambridge was too long.
+[7] He testified that he then decided to rent the Property out instead. On June 23, 2013, he signed a lease agreement with a holding company for one year beginning on July 1, 2013 (Exhibit R-2).
+[8] He stated that he mailed his rebate application on February 27, 2014, and in March 2016, he received a telephone call from a CRA officer inquiring as to why they had not received his application yet. He stated that he then resubmitted his application on March 31, 2016, which was date-stamped by CRA on April 8, 2016 (Exhibit R-2).
+[9] The appellant also tendered a copy of his original application (Exhibit A‑1). It is dated February 24, 2014, and there is a handwritten notation by the appellant indicating that it was mailed on February 27, 2014. He testified that when he resubmitted his application, he completed a fresh form rather than re-sending the original. He stated that the dollar amounts were entered differently on the two versions of the application because he decided to follow the real estate closing documents the second time.
+[10] He testified that CRA officers gave him incorrect advice, which he relied on to his detriment. Specifically, he stated that when he decided to rent the Property, he called CRA and was told that he did not need to submit a new application.
+[11] Based on paragraphs 8 and 9 of the reply to the notice of appeal, an application for the GST/HST New Housing Rebate was filed on May 22, 2014, and the Minister issued a notice of assessment denying that rebate on March 14, 2016. No evidence was introduced by either party with respect to this event.
+Legislation
+[12] As indicated above, the deadline to apply for the New Residential Rental Property Rebate is two years after the end of the month in which GST first becomes payable on the purchase: see subparagraph 256.2(7)(a)(iii).
+[13] The two-year time limit is strict and there is nothing in the Act which gives this court the power to waive or extend the time for filing the application.
+Analysis
+[14] On a balance of probabilities, it seems very unlikely that a CRA officer would call the appellant (or any taxpayer) to remind them to file a document. Canada’s tax system is self-assessing, so the responsibility to meet deadlines and report accurately falls on its individual citizens.
+[15] I believe that it is more likely the appellant’s submission of the March 31, 2016 New Residential Rental Property Rebate application (Exhibit R-2) was triggered by receipt of the March 14, 2016 notice of assessment denying the New Housing Rebate. I also believe that the appellant sought advice from one or more CRA officers over the telephone at various points in time.
+[16] The appellant testified that he relied on incorrect advice given to him by CRA officers when he telephoned the Agency’s help line. However, this court cannot be influenced by CRA’s advice or interpretations. In Grondin v. Her Majesty the Queen, 2015 TCC 169 at paragraph 21, Justice Paris said:
+[T]he Court cannot be bound by erroneous departmental interpretations. In Moulton v. The Queen, [2002] 2 CTC 2395, Associate Chief Justice Bowman (as he was then) stated the following at paragraph 11:
+The appellant argues with great conviction that he should be entitled to rely on advice given by the CCRA and relied upon by him in good faith. I agree that the result may seem a little shocking to taxpayers who seek guidance from government officials whom they expect to be able to give correct advice. Unfortunately such officials are not infallible and the court cannot be bound by erroneous departmental interpretations. Any other conclusion would lead to inconsistency and confusion. …
+[17] There were also meaningful discrepancies between the narratives set out in the appellant’s notice of objection (Exhibit R-2), notice of appeal, and oral testimony.
+[18] In his notices of appeal and objection, he said that when he decided his commute would be too long, he telephoned CRA and was advised that he did not have to file another rebate application. He stated that he was surprised to subsequently receive the March 2016 notice of assessment denying the rebate, telephoned CRA again, and was advised to (and did) submit a New Residential Rental Property Rebate application.
+[19] In his oral testimony, the appellant stated that he first submitted the New Residential Rental Property Rebate application in February 2014 and then received a call from CRA in March 2016 saying that they had not received his application. He testified that he told the CRA officer he had already sent it and the officer asked him to send it again as soon as possible.
+[20] It is difficult to accept the appellant’s oral version of events because the timeline does not include the ordinary steps of the assessment process. For example, the appellant testified that the triggering event for resubmitting his rebate application was a telephone inquiry from CRA in March 2016, and there is no mention of the March 14, 2016 notice of assessment.
+[21] On a balance of probabilities, I find that the appellant filed only one application for the New Residential Rental Property Rebate, i.e. the one dated March 31, 2016 (Exhibit R-2).
+[22] I also note that the form number on the original rebate application (Exhibit A-1) is “GST524 E (16)”. I believe that the number 16 refers to the year in which the form was revised, i.e. 2016. Therefore, it seems unlikely that the original application from 2014 was prepared on a 2016 version of the form. However, this point was not raised by the respondent and I have not relied on it.
+Conclusion
+[23] Based on the transfer of ownership on February 25, 2014, the time for the appellant to file his application for the New Residential Rental Property Rebate expired at the end of February 2016.
+[24] Therefore, the rebate application was filed late and this court is unable to order that the deadline be extended or waived.
+[25] The appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 28th day of August 2019.
+“Susan Wong”
+Wong J.
+CITATION:
+2019 TCC 180
+COURT FILE NO.:
+2017-3579(GST)I
+STYLE OF CAUSE:
+CHANDRU LALWANI and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 21, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+August 28, 2019
+APPEARANCES:
+Agent for the Appellant:
+Punit Lalwani
+Counsel for the Respondent:
+Kevin Hong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+[blank]
+Firm:
+[blank]
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,111 @@
+Title: Dreaver c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30532/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-443-30532-dreaver-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-09-29
+
+# Dreaver c. La Reine
+
+- Citation: 2011 CCI 443
+- Decision date: 2011-09-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7335, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dreaver c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-09-29
+Référence neutre
+2011 CCI 443
+Numéro de dossier
+2007-1821(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1821(IT)I
+ENRE :
+JOE DREAVER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 6 septembre 2011 à Saskatoon (Saskatchewan).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me John Krowina
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 de l’appelant est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 29e jour de septembre 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 10e jour de novembre 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 443
+Date : 20110929
+Dossier : 2007-1821(IT)I
+ENTRE :
+JOE DREAVER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, Joe Dreaver, interjette appel de la nouvelle cotisation établie par le ministre du Revenu national (le « ministre ») pour son année d’imposition 2001. M. Dreaver fait partie des nombreux anciens employés de la société O.I. Employee Leasing Inc. (« O.I. Employee Leasing ») à l’égard desquels de nouvelles cotisations ont été établies au motif que leur revenu d’emploi n’était pas exonéré de l’impôt sur le revenu au titre de l’alinéa 87(1)b) de la Loi sur les Indiens et de l’alinéa 81(1)a) de la Loi de l’impôt sur le revenu.
+[2] O.I. Employee Leasing est une société appartenant à Roger Obonsawin, un Indien inscrit. Le siège social de la société est situé dans la réserve des Six nations de rivière Grand, en Ontario. En 2001, O.I. Employee Leasing engageait des Indiens inscrits qu’elle plaçait dans des entreprises et des organisations (« agences de placement ») dans l’ensemble du Canada. O.I. Employee Leasing déduisait du salaire des employés des frais pour ses services de placement. Le but de cet arrangement était de permettre aux employés de demander une exemption de taxation à l’égard de leur revenu d’emploi. Malheureusement, bien des employés qui ont accepté d’être engagés par O.I. Employee Leasing n’étaient pas au courant de cette manœuvre frauduleuse ni de la loi régissant l’assujettissement à l’impôt de leur revenu hors réserve. En raison de cette situation, nombre d’entre eux se sont retrouvés, depuis, aux prises avec un avis d’imposition inattendu et n’ont pas reçu d’aide de leur ancien employeur.
+[3] M. Dreaver s’est représenté lui‑même et il était le seul témoin à l’audience. Il a décrit avec franchise les circonstances de son emploi en 2001. Il n’est pas contesté que M. Dreaver était un employé d’O.I. Employee Leasing et que cette société était située dans une réserve, ou que le revenu de M. Dreaver était le « bien meuble d’un Indien » au sens de l’alinéa 87(1)b) de la Loi sur les Indiens. La seule question en litige est de savoir si le lien entre l’emploi de M. Dreaver et une réserve est suffisant pour que cet emploi soit considéré comme « situé sur une réserve » en vertu de cette disposition, et que, de cette façon, il soit exonéré d’impôt en vertu de l’alinéa 81(1)a) de la Loi de l’impôt sur le revenu.
+[4] La détermination de ce lien dépend des faits particuliers de chaque cas, examiné selon l’approche suivante exposée dans la décision rendue par la Cour suprême du Canada dans l’arrêt Williams c. Canada, [1992] 1 R.C.S. 877, aux pages 899 et 900 :
+Dans le contexte de l’exemption fiscale prévue dans la Loi sur les Indiens, il y a trois facteurs importants : l’objet de l’exemption, la nature du bien en question et l’incidence fiscale sur ce bien. Compte tenu de l’objet de l’exemption, il s’agit, en fin de compte, de déterminer dans quelle mesure chaque facteur est pertinent pour décider si le fait d’imposer d’une certaine manière ce type de bien particulier porterait atteinte au droit d’un Indien à titre d’Indien de détenir des biens personnels sur la réserve.
+[5] En résumé, les facteurs de rattachement comprennent l’emplacement de l’employeur; le lieu et la nature du travail de l’employé, y compris tout avantage qu’en tire la réserve; et le lieu de résidence de l’employé.
+[6] En 2001, M. Dreaver travaillait pour la société Grizzly Well Servicing (Grand Centre) Ltd.[1] (la « Grizzly Well Servicing ») dans les champs pétroliers de l’Alberta. M. Dreaver était basé à Cold Lake. Il avait commencé à travailler pour la société comme [traduction] « ouvrier de plancher de forage », position qu’il a décrite comme étant située au bas de l’échelle dans les champs pétroliers. En 2001, il avait atteint le niveau d’[traduction] « accrocheur » et avait obtenu la certification nécessaire pour accomplir toutes les tâches liées à l’appareil de forage.
+[7] Au printemps 2001, la Grizzly Well Servicing a suggéré à M. Dreaver de transférer son emploi chez elle à O.I. Employee Leasing. Jeune et inexpérimenté, M. Dreaver a accepté sans les remettre en question les déclarations de la société selon lesquelles, en tant qu’Indien inscrit, il travaillerait sur des terres de réserve au moins pour une partie du temps, et le transfert de son emploi à O.I. Employee Leasing lui permettrait de gagner 500 $ supplémentaires toutes les deux semaines. La Grizzly Well Servicing a procédé à toutes les modifications administratives, et M. Dreaver a commencé à recevoir sa rémunération d’O.I. Employee Leasing. Toutefois, le statut de M. Dreaver n’a subi aucun changement important, sauf en ce qui concerne le nom de l’employeur : M. Dreaver a continué à effectuer exactement les mêmes tâches qu’avant son transfert. Il ne rendait compte à personne chez O.I. Employee Leasing, et cette dernière ne lui a donné aucune formation. Et, comme cela avait été le cas chez la Grizzly Well Servicing, O.I. Employee Leasing déposait le salaire de M. Dreaver directement dans le compte bancaire de ce dernier à la CIBC, à Cold Lake, en Alberta.
+[8] Il s’est révélé que M. Dreaver n’a pas tardé à constater que les nouvelles conditions n’étaient pas satisfaisantes. Contrairement à la Grizzly Well Servicing, O.I. Employee Leasing avait des pratiques relatives à la paie qui n’étaient pas fiables; M. Dreaver ne savait jamais quand il recevrait son chèque de paie. M. Dreaver a donc demandé à la Grizzly Well Servicing de reprendre leur entente initiale. La Grizzly Well Servicing a tardé à répondre à M. Dreaver, et celui‑ci avait commencé un autre emploi avant que les changements nécessaires ne fussent finalement faits.
+[9] M. Dreaver a déclaré qu’à sa connaissance, aucun des dirigeants de la Grizzly Well Servicing n’était un Indien inscrit. M. Dreaver avait cru comprendre que les bureaux de la société n’étaient pas situés sur des terres de réserve, et il a admis l’allégation de l’avocat de l’intimée selon laquelle le siège social de la Grizzly Well Servicing était vraisemblablement situé à Edmonton, en Alberta. Et, contrairement à ce que la Grizzly Well Servicing avait dit à M. Dreaver lorsque celui‑ci avait transféré son emploi à O.I. Employee Leasing, M. Dreaver s’était plus tard mis à croire que de manière générale, la Grizzly Well Servicing accomplissait ses travaux sur des terres hors réserve appartenant à Imperial Oil.
+[10] Quant au lieu de résidence de M. Dreaver, bien qu’au fil des ans ce dernier ait passé du temps dans des réserves pour rendre visite à des parents, il n’a jamais vécu dans une réserve. Lorsqu’il travaillait pour la Grizzly Well Servicing en tant qu’employé d’O.I. Employee Leasing, M. Dreaver habitait à Cold Lake; il ne se rendait à une réserve des environs que pour acheter des produits du tabac.
+[11] Dans ces circonstances, je ne peux pas conclure à l’existence d’un lien suffisant entre l’emploi de M. Dreaver auprès d’O.I. Employee Leasing et une réserve pour que le revenu de M. Dreaver soit exonéré d’impôt. Les seuls facteurs ayant un lien avec une réserve étaient les bureaux d’O.I. Employee Leasing situés dans la réserve des Six nations et la partie du revenu d’emploi que M. Dreaver avait utilisé pour acheter des cigarettes. M. Dreaver vivait, travaillait et recevait ses gains hors réserve. Il n’y avait aucun élément de preuve pour soutenir que le travail de M. Dreaver à l’installation de forage pétrolier était d’une manière ou d’une autre différent des tâches qui étaient accomplies par ses homologues non autochtones dans les champs pétroliers de l’Alberta.
+[12] Dans ses observations présentées à la Cour, M. Dreaver a demandé s’il pouvait tout au moins bénéficier d’un allègement de l’obligation de payer les intérêts qui avaient couru sur les montants ayant fait l’objet d’une cotisation pour l’année d’imposition 2001. M. Dreaver a signalé qu’en tout temps, avant et durant les huit mois où il avait travaillé pour O.I. Employee Leasing, il avait déclaré et payé l’impôt sur ses revenus gagnés hors réserve. Il est regrettable que je ne puisse pas venir en aide à M. Dreaver : à mon avis, il a été mal informé par O.I. Employee Leasing (et peut‑être aussi la Grizzly Well Servicing), et ces sociétés semblent avoir toutes deux profité du fait qu’il était jeune et sans expérience. Toutefois, en vertu de la Loi de l’impôt sur le revenu, seul le ministre a le pouvoir discrétionnaire de réduire ou d’éliminer les intérêts qui ont été calculés à juste titre relativement à une nouvelle cotisation valide.
+[13] L’appel interjeté à l’encontre de la nouvelle cotisation établie à l’égard de l’année d’imposition 2001 est donc rejeté. Aucuns dépens ne sont adjugés à l’encontre de M. Dreaver.
+[14] Signé à Ottawa, Canada, ce 29e jour de septembre 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 10e jour de novembre 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 443
+NO DU DOSSIER D E LA COUR : 2009-2547(EI)
+INTITULÉ : JOE DREAVER
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE : Le 6 septembre 2011
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 29 septembre 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me John Krowina
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce R‑2.

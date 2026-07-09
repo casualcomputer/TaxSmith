@@ -1,0 +1,136 @@
+---
+title: "Yakubowicz v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30188/index.do"
+last_modified: "2011-02-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 64"
+citation2: ""
+neutral_citation: "2011 TCC 64"
+decision_date: "2011-02-03"
+language: "en"
+item_id: "30188"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7734
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:54:04.532000+00:00"
+cases_cited_count: 7
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "de55c9322e6959b124c2502cb3f2b5249cf265361576198eed9caf99546d41a1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Yakubowicz v. The Queen
+
+- Citation: 2011 TCC 64
+- Decision date: 2011-02-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7734, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yakubowicz v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-02-03
+Neutral citation
+2011 TCC 64
+File numbers
+2010-1597(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-1597(IT)I
+BETWEEN:
+JESSICA YAKUBOWICZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 21, 2011, at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Agent for the Appellant:
+Adam Scherer
+Counsel for the Respondent:
+Rishma Bhimji
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act with respect to the Appellant’s 2007 taxation year is dismissed without costs in accordance with the Reasons for Judgment attached hereto.
+Signed at Toronto, Ontario, this 3rd day of February 2011.
+"Patrick Boyle"
+Boyle J.
+Citation: 2011 TCC 64
+Date: 20110203
+Docket: 2010-1597(IT)I
+BETWEEN:
+JESSICA YAKUBOWICZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] Jessica Yakubowicz attended post‑graduate level studies in Art Business at Sotheby’s Institute of Art New York (“Sotheby’s Institute”) in New York City in 2006 and 2007. Sotheby’s Institute did not at that time have degree‑granting powers. Rather, under an agreement with the University of Manchester in the United Kingdom, Sotheby’s Institute credits, together with a thesis subsequently completed under the supervision of Sotheby’s Institute of Art in London, would be recognized by the University of Manchester and would qualify the student for a degree of Masters of Arts in Art Business granted by the University of Manchester.
+[2] At the time, Sotheby’s Institute was accredited by the United States National Association of Schools of Art and Design. In addition, its MA programme was accredited by the University of Manchester. While Sotheby’s Institute was also listed in the U.S. Department of Education Database of Accredited Postsecondary Institutions and Programs, it is not identified as a degree‑granting institution.
+[3] Ms. Yakubowicz paid Sotheby’s Institute for her studies at the institute and, under its arrangement with the University of Manchester, Sotheby’s Institute paid a per‑student fee to the University of Manchester.
+[4] Ms. Yakubowicz completed her school year of studies at Sotheby’s Institute in New York, transferred her credits from that institution and, upon completing her master thesis, was granted her MA in Art Business by the University of Manchester.
+[5] In 2007 Ms. Yakubowicz claimed a tuition credit under section 118.5 of the Income Tax Act (the “Act”) and an education and textbook credit under subsection 118.6 in respect of the tuition paid to Sotheby’s Institute and her attendance at its New York courses. The Canada Revenue Agency (“CRA”) denied her these credits on the basis that Sotheby’s Institute was not a university.
+[6] Since Jessica Yakubowicz completed her studies, Sotheby’s Institute has been granted degree‑granting powers by the New York State Education Department. This was effective in 2010.
+[7] The tuition credit in paragraph 118.5(1)(b) for studies outside Canada is only available in respect of tuition paid to a university outside Canada. Unlike the tuition credit for studies in Canada under paragraph 118.5(1)(a), it is not also available in respect of tuition paid for attendance at colleges or other post‑secondary institutions. This was a clear and specific choice by Parliament.
+[8] While the term “university” in not defined in the Act, the Federal Court of Appeal in Klassen v. The Queen, 2007 FCA 339, 2007 DTC 5612, upheld the approach taken in numerous earlier cases by this Court, and the position taken by the CRA, that in order to be a university an educational institution must itself have degree‑granting powers at, at least, the baccalaureate or bachelor’s level. It is not sufficient that the credits earned at the school to which the tuition is paid can result in a degree issued by an affiliated university. In Klassen, above, Noël J. wrote:
+17 The expression “university outside Canada” must be read in context, according to its ordinary sense, harmoniously with the scheme of the ITA, its object and the intention of Parliament. At the same time, it is important to pay particular attention to the textual meaning of the words when attempting to construe detailed provisions of the ITA such as the ones here in issue (A.Y.S.A. Amateur Youth Soccer Association v. Canada (Revenue Agency), 2007 SCC 42, at para. 16).
+18 The common feature which runs through the above quoted definitions is that a university is an institution of higher learning which confers degrees attesting to some definite proficiency. A bachelor degree is generally recognized as a minimum requirement for the pursuit of higher studies (usually referred to as “graduate” studies) leading to masters and doctorate degrees.
+19 It is significant that in the case of educational institutions located in Canada, and in the case of cross-border commuters (i.e., those who commute daily to an educational institution in the United States), the benefit of the credits extends not only to those enrolled in a university, but also in a “college or other educational institution providing courses at a post-secondary school level, ...” (see subparagraphs 118.5(1)(a)(i), 118.5(1)(c)(i) and paragraph 118.6(1)(c)). It seems clear that Parliament, in extending the benefit of the credits in those two instances, drew a distinction between a “university” on the one hand, and the other educational institutions referred to in that phrase, on the other.
+20 I agree with the statement made by Mogan J. in Gilbert supra, (at para. 21) and adopted by McArthur J. in Cleveland supra (at para. 16) that Parliament in limiting the application of paragraphs 118.5(1)(b) and 118.6(1)(b) to a “university outside Canada” opted for a more restrictive approach with respect to foreign institutions. This was done in order to allow the Minister to exercise some measure of control over the type and level of education supported by the credits. In giving effect to the distinction drawn by Parliament, the most salient feature which distinguishes a “university” is the type of degree which a university grants and in particular the baccalaureate degree, which is the threshold requirement imposed by universities for the pursuit of graduate studies. I can think of no other reliable or objectively ascertainable criteria on which the distinction drawn by Parliament could rest.
+21 I therefore conclude that the expression “university outside Canada” refers to an educational institution which confers degrees usually granted by universities, that is a doctorate degree, a master degree or at minimum degrees at the baccalaureate level or its equivalent. The degree granted by MSU‑Bottineau in this case (i.e., the “associate degree”) attests to the successful completion of a two year undergraduate program. As this is the highest degree which MSU‑Bottineau can confer, it does not qualify as a “university outside Canada”. The fact that MSU‑Bottineau calls itself a university cannot alter this conclusion.
+22 If MSU‑Bottineau is not itself a qualifying university, the appellant submits that it should be viewed as part and parcel of M.S.U., which, as earlier noted, grants baccalaureate degrees and post‑graduate degrees, and is a “designated educational institution”.
+23 In support of his submission, the appellant relies in particular on the fact that although MSU‑Bottineau operates on a different campus (some 100 kilometres away from the MSU campus), it is governed by the same President and seven member governing board. Furthermore, the Dean of MSU‑Bottineau reports to the President of MSU and any general education course taken at MSU‑Bottineau is deemed to have been taken at MSU. Students who successfully complete the two year general education requirements at MSU‑Bottineau can transfer to MSU (or any other university) to complete the four year baccalaureate program.
+24 I agree that the MSU‑Bottineau educational program is integrated with MSU’s baccalaureate program and that from this perspective MSU‑Bottineau might be viewed as an extension of MSU. However, I do not believe that this alone can provide the appellant with the relief which she seeks.
+25 According to paragraph 118.5(1)(b), the tuition credit is computed by reference to the tuition paid “to the university”. As was noted by the Tax Court Judge, MSU‑Bottineau and MSU are distinct corporate bodies, and the record shows they have separate registrars and collect tuition independently. It follows that even if MSU‑Bottineau could be viewed as an extension of MSU, the tuition was not paid “to the university” as required by paragraph 118.5(1)(b).
+[9] I am bound by the interpretation given to the term university by the Federal Court of Appeal in Klassen. It is clear that when Ms. Yakubowicz paid her tuition to Sotheby’s Institute in respect of her 2006-2007 school year, Sotheby’s Institute was not a university. While Sotheby’s Institute may have been on its way in 2007 to becoming a university, it could not, in the years which the Appellant attended and for which she paid tuition, be considered to meet the definition of university set out by the Federal Court of Appeal in Klassen. The fact that Sotheby’s Institute has, since that time, obtained degree‑granting powers is not relevant to section 118.5 or the meaning of the term university. For this reason, Ms. Yakubowicz’s appeal in respect of her tuition tax credit cannot succeed.
+[10] The taxpayer’s position is not assisted by the decision of Webb J. in Laprairie v. The Queen, 2007 TCC 135, 2007 DTC 528, which involved the payment of tuition to one university for attendance and courses which qualified towards a degree granted by a different university. In that case, both institutions were universities. In this case, Sotheby’s Institute was not a university when Ms. Yakubowicz attended. Similarly, the taxpayer is not assisted by the decision of Lamarre Proulx J. in Shea v. The Queen, 2008 TCC 184, 2008 DTC 3376, since the London School of Economics (“LSE”) was a constituent college forming part of the University of London and both the LSE and the University of London had degree‑granting powers.
+[11] The education credit under subsection 118.6(2) is also only available in respect of study periods outside of Canada at universities. The textbook credit under subsection 118.6(2.1) is only available if the education credit is available. Since Sotheby’s Institute does not qualify for the tuition tax credit, the Appellant’s studies cannot qualify for the education and textbook credit.
+[12] The appeal is dismissed.
+Signed at Toronto, Ontario, this 3rd day of February 2011.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2011 TCC 64
+COURT FILE NO.: 2010-1597(IT)I
+STYLE OF CAUSE: JESSICA YAKUBOWICZ v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 21, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: February 3, 2011
+APPEARANCES:
+Agent for the Appellant:
+Adam Scherer
+Counsel for the Respondent:
+Rishma Bhimji
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

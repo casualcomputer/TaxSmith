@@ -1,0 +1,155 @@
+Title: Kandiah v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/73381/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-276-73381-kandiah-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-09-17
+
+# Kandiah v. The Queen
+
+- Citation: 2014 TCC 276
+- Decision date: 2014-09-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5160, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kandiah v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-09-17
+Neutral citation
+2014 TCC 276
+File numbers
+2013-4066(GST)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-4066(GST)I
+BETWEEN:
+MAHENDRAN KANDIAH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 4, 2014, at Toronto, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Osborne G. Barnwell
+Counsel for the Respondent:
+Kathleen Beahen, Leo Elias
+JUDGMENT
+The Appeal from an assessment made under Part IX of the Excise Tax Act with respect to a GST/HST New Housing Rebate, notice of which was dated March 28, 2012, is dismissed.
+Signed at Ottawa, Canada, this 17th day of September 2014.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2014 TCC 276
+Date: 20140917
+Docket: 2013-4066(GST)I
+BETWEEN:
+MAHENDRAN KANDIAH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] Mr. Mahendran Kandiah appeals by way of the informal procedure the Minister of National Revenue (the “Minister”) assessment denying Mr. Kandiah the GST/HST New Housing Rebate (the “Rebate”) of $24,000 in connection with the purchase of 50 Minerva Avenue in Toronto. To qualify for this Rebate, which is an Ontario rebate, it is still necessary for Mr. Kandiah to bring himself within the requirements of section 254 of the Excise Tax Act (the “Act”), which reads:
+(2) Where
+(a) a builder of a single unit residential complex or a residential condominium unit makes a taxable supply by way of sale of the complex or unit to a particular individual,
+(b) at the time the particular individual becomes liable or assumes liability under an agreement of purchase and sale of the complex or unit entered into between the builder and the particular individual, the particular individual is acquiring the complex or unit for use as the primary place of residence of the particular individual or a relation of the particular individual,
+(c) the total (in this subsection referred to as the “total consideration”) of all amounts, each of which is the consideration payable for the supply to the particular individual of the complex or unit or for any other taxable supply to the particular individual of an interest in the complex or unit, is less than $450,000,
+(d) the particular individual has paid all of the tax under Division II payable in respect of the supply of the complex or unit and in respect of any other supply to the individual of an interest in the complex or unit (the total of which tax under subsection 165(1) is referred to in this subsection as the “total tax paid by the particular individual”),
+(e) ownership of the complex or unit is transferred to the particular individual after the construction or substantial renovation thereof is substantially completed,
+(f) after the construction or substantial renovation is substantially completed and before possession of the complex or unit is given to the particular individual under the agreement of purchase and sale of the complex or unit
+(i) in the case of a single unit residential complex, the complex was not occupied by any individual as a place of residence or lodging, and
+(ii) in the case of a residential condominium unit, the unit was not occupied by an individual as a place of residence or lodging unless, throughout the time the complex or unit was so occupied, it was occupied as a place of residence by an individual, or a relation of an individual, who was at the time of that occupancy a purchaser of the unit under an agreement of purchase and sale of the unit, and
+(g) either
+(i) the first individual to occupy the complex or unit as a place of residence at any time after substantial completion of the construction or renovation is
+(A) in the case of a single unit residential complex, the particular individual or a relation of the particular individual, and
+(B) in the case of a residential condominium unit, an individual, or a relation of an individual, who was at that time a purchaser of the unit under an agreement of purchase and sale of the unit, or
+(ii) the particular individual makes an exempt supply by way of sale of the complex or unit and ownership thereof is transferred to the recipient of the supply before the complex or unit is occupied by any individual as a place of residence or lodging,
+…
+Facts [2] Mr. Kandiah, his wife, brother and one of his daughters testified. While there were some inconsistencies, the primary thrust of their story surrounding the Rebate was quite similar.
+[3] The Kandiahs bought a property at 132 Kearney Drive in Ajax, Ontario in 2004. Shortly after moving in they discovered plumbing problems in the basement, which resulted in dirty water and a bad smell. This appeared to be due to some pipe blockage. Mr. Kandiah testified this was a recurrent problem which caused him to contact the Town of Ajax every couple of months to deal with the issue. Records obtained from Ajax indicate just three visits with regard to this problem, one in 2005, one in 2009 and the last in April 2010.
+[4] Mr. Kandiah indicated that he fought with both the Town and the builder of the property to fix the plumbing problem. The builder suggested it would cost $10,000 to $12,000 to resolve the issue. Mr. Kandiah had no documents to verify the builder’s position. He indicated that one of his daughters had written to the builder to obtain any copies of correspondence dealing with this issue. None was produced. The daughter who purportedly dealt with the Town of Ajax did not testify.
+[5] Mr. Kandiah was unsure when the problem was ultimately fixed, but the family maintained that the problem caused them to look for a new home. The repairs ultimately involved removing the front porch to get at the pipes below: the front porch could not be replaced for a year, which the Kandiahs did at their own expense. Mr. Kandiah’s daughter who did testify, Renu Mahendran, stated that she believed the repair work was later in 2010 and, perhaps, into 2011. No one appeared certain of when events in connection with the plumbing problem actually occurred.
+[6] Mr. Kandiah entered an agreement in August 2009 with Monarch Developments for the construction of a new property at 50 Minerva Avenue in Toronto, with the closing to be a year later in September 2010. The price was $525,990.
+[7] Mr. Kandiah stated that he started trying to sell 132 Kearney Drive in 2010, though did not list with a real estate agent so as to save on commission. His wife seemed to recall they did contact an agent. They both testified they tried to sell mainly by telling their friends.
+[8] On August 2, 2010, Mr. Kandiah’s wife signed, as vendor, an Agreement of Purchase and Sale of the property at 132 Kearney Drive in Ajax with Mr. Ponniah, described as an acquaintance of the family. Mrs. Kandiah could not recall this document, when it was presented to her. On August 6, four days later, she and Mr. Ponniah signed a release, effectively allowing Mr. Ponniah to walk away from the deal. Mr. Kandiah testified that Mr. Ponniah obtained an inspection report in the interim that brought the plumbing problem to light, though has been unable to produce a copy of any such report. Mrs. Kandiah testified that they were simply being honest in telling Mr. Ponniah about the problem. There was no further evidence of attempts to sell 132 Kearney Drive. Mr. Kandiah suggested that he did not try to sell 132 Kearney Drive in 2009 for fear the family would not have anywhere to move into until September 2010.
+[9] On the closing of the purchase of 50 Minerva Avenue in September 2010, title of the property was put in Mrs. Kandiah’s name. She suggested this was because she had a better credit rating at her bank for purposes of securing a mortgage. She also testified the house was bought with family money.
+[10] In September 2010, Mr. Kandiah and his daughter, Renu, started to live in the new house at 50 Minerva Avenue, in a fashion I will soon describe. Mr. Kandiah’s brother testified that he helped Mr. Kandiah move, a move that involved taking two mattresses, a small stove, fridge and kettle to the new home. He also indicated there was a Hindu ceremony at the new premises. Mr. Kandiah stated that he and his daughter also took a couple of towels and a couple of plates and cups. When asked where she ate, given there was no table, the daughter suggested she ate simply sitting on her bed.
+[11] Mrs. Kandiah and the rest of the family remained at 132 Kearney Drive in Ajax as did most of Mr. Kandiah’s belongings.
+[12] Renu, the daughter, was pleased with the new accommodation as it saved her a couple of hours a day commuting to Ryerson University, given its closer proximity to Ryerson than the Ajax home. She stated they stayed in this arrangement for about five months.
+[13] Coincidently with occupying the new home at 50 Minerva Avenue, Mr. Kandiah sought possible tenants. Within a couple of weeks, by October 5, 2010, he had also listed 50 Minerva Avenue for sale. The listing indicated “brand new never lived in.” The property sold for approximately $558,675 in December 2010 with possession given in March 2011.
+[14] Mr. Kandiah submitted to the builder of 50 Minerva Avenue the GST/HST New Housing Rebate Application claiming a rebate in the amount of $24,000. The builder submitted the rebate application with its GST/HST return. The builder was allowed a credit for the $24,000, reducing its net tax owing on its GST/HST return.
+[15] Mrs. Kandiah and her daughter acquired a condo in the fall of 2011 where the daughter lived for a brief period of time, but could not continue to afford the mortgage payment, so that property is now rented. The Kandiahs have since sold the Ajax property and bought a new property in Toronto, taking possession in June 2012. They claimed the $24,000 Rebate on their new home.
+Issue [16] Is Mr. Kandiah required to return the $24,000 Rebate? He is required to return the Rebate unless he can bring himself within the requirements of subsection 254(2) of the Act, specifically paragraphs (b) and (e).
+[17] So the question is whether at the time Mr. Kandiah entered the Agreement of Purchase and Sale for 50 Minerva Avenue, was he acquiring the property for use as the primary place of residence of him or a relation (paragraph 254(2)(b)) and, secondly, was “ownership” transferred to him (paragraph 254(2)(e)).
+(i) Intention on September 2009 [18] The onus is on the Appellant to satisfy me on the balance of probabilities that in September 2009 he agreed to acquire 50 Minerva Avenue with the intent it would be his family’s primary place of residence. As Former Chief Justice Bowman stated in Coburn Realty Ltd. v Canada:[1]
+10. Statements by a taxpayer of his or her subjective purpose and intent are not necessarily in every case the most reliable basis upon which such a question can be determined. The actual use is frequently the best evidence of the purpose of the acquisition. In 510628 Ontario Limited v. The Queen, [2000] T.C.J. No. 451, 2000 G.S.T.C. 58, the following was said:
+[11] It should be noted that the expression “for use primarily …” (en vue d’être utilisé) requires the determination of the purpose of the acquisition, not the actual use. Nonetheless, I should think that as a practical matter if property is in fact used primarily for commercial purposes it is a reasonable inference that it was acquired for that purpose.
+[19] Given certain inconsistencies in the family’s story, and indeed some incongruity in rationale for certain decisions, I give little weight to Mr. Kandiah’s stated intention, but find it necessary to explore the surrounding circumstances and behaviour. I start, as suggested by Former Chief Justice Bowman, by looking at the actual use of 50 Minerva Avenue, when Mr. Kandiah was able to take possession in September 2010. Was the property used at that time as the family’s primary place of residence? No, it was not.
+[20] On a preliminary point, I find that if there was any intent, it was an intent that applied to the whole family, not just Mr. Kandiah or his daughter. In considering actual use of the property, it follows I should consider whether the actual use matches intended use, that is, primary residence for the whole family. It does not. Only Mr. Kandiah and one daughter stayed at the new residence. And even then, I question whether what they did was use 50 Minerva Avenue as a primary place of residence, which I will now address.
+[21] Taking a few belongings (mattresses and towel for example), leaving behind virtually all of your other belongings and furnishings in the family home, does not constitute actual use of 50 Minerva Avenue as the primary place of residence for the family. At best, I would describe Mr. Kandiah’s and his daughter’s arrangement as camping, not residing – certainly not residing as a primary place of residence.
+[22] Mr. Kandiah’s counsel argued it is inappropriate to consider the quality of residing – squalor or opulence – but simply the fact of residing. I do not necessarily disagree. But there must still be the element of use as a residence, and, indeed residing as a primary place of residence. Mr. Kandiah gave no evidence of time spent at 50 Minerva Avenue, eating arrangements, or any of his comings and goings. There was no place to eat evidenced by the daughter suggesting she would simply have tea on her bed. The evidence falls far short of proving to me he actually resided there as one would normally view residing in the context of using the property as your primary place of residence.
+[23] Further proof in this regard is the real estate listing which describes the property specifically as brand new, never been lived in. The factor of actual use does not help prove Mr. Kandiah’s intention.
+[24] It becomes necessary then to determine whether actual use as a primary residence was frustrated by surrounding circumstances. Mr. Kandiah’s counsel argues that the inability to sell 132 Kearney Drive frustrated the intention to acquire 50 Minerva Avenue as the primary residence. In cases where a taxpayer could not take up actual residence in a new home, there has been a clear and understandable frustrating event (see for example the cases of Boucher v Canada,[2] where a spouse could not find work, Gagné v Canada,[3] where the frustrating event was for medical reasons and Hamel v Canada,[4] where there were family integration issues). Is an inability to sell one property such a frustration event? In this case, I do not believe so for the following reasons:
+1. No effort was put into selling the property on Kearney Drive – no listing, no agent, no evidence of price reduction to reflect the need for repair work.
+2. The credibility of the purported offer by Mr. Ponniah, an acquaintance. Four days after the offer, it is effectively rescinded. Mr. Kandiah’s and his wife’s testimony are not similar as to why; Mr. Kandiah claiming an inspection in the intervening four days brought the problem to light, while Mrs. Kandiah claims they had been honest with Mr. Ponniah and he backed out. Mr. Ponniah did not testify. I put little weight on this offer as evidence of any serious efforts to sell the property.
+3. Mr. Kandiah testified he did not start to try and sell the property until later in 2010, as he did not want to be left without a place to live, the new home not being ready until September 2010. This is counterintuitive thinking at best. The use of later possession dates could have assisted him. Running a risk of having two properties to fund is simply not logical. His story does not hold water.
+[25] Are there any factors that might assist Mr. Kandiah? Primarily the fact that the family had a plumbing problem at the Kearney home, which they had had for several years: by 2009 they were fed up. They claim they were motivated to move. This was a consistent theme from the three family members.
+[26] The report from the Town of Ajax does confirm there were plumbing problems, but it refers to only three occasions when the Town actually attended to the problem. The Kandiahs suggested there were many more visits.
+[27] While I believe there were plumbing problems at the old residence, I do not accord this a great deal of weight in proving Mr. Kandiah’s intent in September of 2009 vis-à-vis the property at 50 Minerva Avenue. Mr. Kandiah had the option of repairing the problem which he ultimately did. The timing of this is, as indicated earlier, fuzzy.
+[28] Are there any other factors that work against a finding of an intent to acquire 50 Miverna Avenue as the primary residence? Yes.
+i. As soon as 50 Minerva Avenue was ready to be occupied, Mr. Kandiah sought to lease the property and then sell it. Although a year after the time for determining intention, this is some indication there never was such an intention.
+ii. If the plumbing problem was being fixed, the motivating factor for moving evaporated.
+iii. The fact the Kandiahs did not use an agent for the sale of 132 Kearney Drive nor gave evidence of any other bona fide efforts to sell the property, again suggests 132 Kearney Drive was to remain the primary family residence, not 50 Minerva Avenue.
+[29] In summary, Mr. Kandiah’s and his family’s testimony regarding the motivation for acquiring a new primary residence is insufficient to prove on balance that it was Mr. Kandiah’s intention, at the time he signed the Agreement of Purchase and Sale, to acquire a new primary residence for his family. The surrounding circumstances, primarily a lack of effort in attempting to sell Kearney Drive, do not support such an intention. The Appeal can be dismissed on this basis.
+(ii) “Ownership” [30] Had I found that Mr. Kandiah did have the requisite intention, I would need to address the second issue, being whether the fact title went into Mrs. Kandiah’s name, not Mr. Kandiah’s name, is fatal to Mr. Kandiah’s case. Paragraph 254(2)(e) of the Act requires “ownership” must be transferred to Mr. Kandiah.
+[31] His counsel relies, not surprisingly, on comments I made in the case of Rochefort v Canada[5] where I discussed the concept of ownership. The case of Rochefort was an exceptional situation, with different circumstances than facing me with Mr. Kandiah. While I did not equate ownership to title in Rochefort, I do recognize that title remains a significant factor in determining ownership. Has “ownership” been transferred to Mr. Kandiah? That is, did he acquire sufficient rights in the property to constitute “ownership”, notwithstanding his name did not go on title?
+[32] One of the key rights identified in Rochefort that weighed heavily in the determination of ownership, was the right to convey title. In Rochefort, as both the husband and wife lived in the property it was the matrimonial home subject to the Family Law Act. Pursuant to that Act a spouse had certain rights with respect to conveyance. It cannot be said that 50 Minerva Avenue was ever the Kandiahs’ matrimonial home. Mr. Kandiah had no right in connection with conveyance.
+[33] Further, in the case of Rochefort, evidence of the unusual circumstances was sufficient for me to conclude on balance that Mrs. Rochefort had a beneficial interest in the property, though not on title. Evidence of the Kandiahs has not convinced me there was any such beneficial ownership arrangement between the Kandiahs. No, ownership was not transferred to Mr. Kandiah.
+[34] For this reason as well, I would dismiss Mr. Kandiah’s Appeal.
+Signed at Ottawa, Canada, this 17th day of September 2014.
+“Campbell J. Miller”
+C. Miller J.
+CITATION:
+2014 TCC 276
+COURT FILE NO.:
+2013-4066(GST)I
+STYLE OF CAUSE:
+MAHENDRAN KANDIAH AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 4, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+September 17, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Osborne G. Barnwell
+Counsel for the Respondent:
+Kathleen Beahen, Leo Elias
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Osborne G. Barnwell
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2006 TCC 245.
+[2] 2004 G.T.C. 23.
+[3] 2007 TCC 175.
+[4] 2004 TCC 315.
+[5] 2014 TCC 34.

@@ -1,0 +1,309 @@
+Title: Baribeau v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30628/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-544-30628-baribeau-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-12-05
+
+# Baribeau v. The Queen
+
+- Citation: 2011 TCC 544
+- Decision date: 2011-12-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7123, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Baribeau v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-12-05
+Neutral citation
+2011 TCC 544
+File numbers
+2011-1073(GST)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-1073(GST)I
+BETWEEN:
+PIERRETTE BARIBEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Liboire Beaulieu (2011‑1075(GST)I), on September 15, 2011, at Rimouski, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the appellant:
+Daniel LeBlond
+Counsel for the respondent:
+Philippe Morin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated March 4. 2010, and in respect of the period from July 1, 2006, to September 22, 2009, is allowed in part, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Without costs.
+Signed at Ottawa, Canada, this 5th day of December 2011.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+on this 18th day of January 2012.
+Daniela Possamai, Translator
+Docket: 2011-1075(GST)I
+BETWEEN:
+LIBOIRE BEAULIEU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Pierrette Baribeau (2011‑1073(GST)I), on September 15, 2011, at Rimouski, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the appellant:
+Daniel LeBlond
+Counsel for the respondent:
+Philippe Morin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated March 4. 2010, and in respect of the period from July 1, 2006, to September 22, 2009, is allowed in part, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Without costs.
+Signed at Ottawa, Canada, this 5th day of December 2011.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+on this 18th day of January 2012.
+Daniela Possamai, Translator
+Citation: 2011 TCC 544
+Date: 20111205
+Docket: 2011-1073(GST)I
+BETWEEN:
+PIERRETTE BARIBEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND:
+Docket: 2011-1075(GST)I
+BETWEEN :
+LIBOIRE BEAULIEU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+INTRODUCTION
+[1] On March 4, 2010, Liboire Beaulieu and his wife Pierrette Baribeau (the “appellants”) were each assessed in the amount of $20,563.32 for the goods and services tax (GST), which, with interest and penalties, totalled $23,898.14. In issuing the assessment, the Minister of National Revenue (the Minister) made the assumption that the appellant sold 9,644 cartons of 200 contraband cigarettes between January 1, 2006, and September 22, 2009. Each of the assessments against the appellants is based on the same taxable supplies. Furthermore, the uncollected and claimed GST was calculated by assuming consideration that included $20.60 per carton sold as tax under the Tobacco Tax Act (Quebec).
+[2] The appeals were heard on common evidence.
+THE FACTS
+[3] In assessing the appellant Liboire Beaulieu, the Minister relied on the following assumptions of fact:
+[Translation]
+(a) On September 23, 2009, a search of the appellant’s residence, situated at 19 Gauvreau Street, Trois-Pistoles, and vehicle, a Chevrolet Venture bearing licence plate number ZSP647, was conducted;
+(b) At the time of the search, 49 packs of 200 unstamped cigarettes each were seized, that is, a total of 9,800 cigarettes;
+(c) The appellant told the police that he had been selling unstamped tobacco de Gaston Parent for 3 to 4 years with his wife, Pierrette Baribeau, for $25 per pack;
+(d) The appellant also stated to the police that in early June 2009 he started selling unstamped cigarettes with Ulric Jalbert;
+(e) During the period in issue, the appellant purchased two cases of 50 packs of 200 unstamped cigarettes on a weekly basis and the tobacco was stored at his residence and sold by his wife, Ms. Pierrette Baribeau, for $28 per pack of 200 cigarettes;
+(f) The police investigation shows that both the appellant and his wife, Pierrette Baribeau, unlawfully sold cigarettes during the period from January 1, 2006, to September 22, 2009;
+(g) During the period from January 1, 2006, to June 30, 2009, the appellant sold 200 packs of 200 cigarettes per month and 400 packs of 200 cigarettes per month during the period from July 1, 2009, to September 22, 2009, that is, a total of $9,644 packs of 200 cigarettes sold, as appears in the following table:
+January 1, 2006, to June 30, 2009
+41 months X 200
+8,200 packs
+July 1, 2009, to August 31, 2009
+3 months X 400
+1,200 packs
+September 1, 2009, to September 22, 2009
+244 packs
+400 X 22 / 30 = 293 – 49 packs seized = 244
+(h) The tobacco tax for the period in issue, is $0.103 per cigarette or $20.60 for one pack;
+(i) The GST for the period from August 1, 2006, to December 31, 2007, is 6% and for the period from January 1, 2008, to September 22, 2009, it is 5%;
+(j) The selling price for one pack of 200 cigarettes for the period from January 1, 2006, to May 31, 2009, was $25 and $28 until the end of the period in issue;
+(k) Accordingly, following taxable sales of $155,040 at the rate of 6% for the period from August 1, 2006, to December 31, 2007, the appellant ought to have collected GST in the amount of $9,302.40;
+(l) For the period from January 1, 2008, to September 22, 2009, the appellant made taxable sales of $225,218.40 and at the rate of 5% ought to have collected GST in the amount of $11,260.92;
+(m) Accordingly, the appellant was assessed for an amount of $20,563.32 in GST.
+[4] In assessing the appellant Pierrette Baribeau, the Minister relied on the following assumptions of fact:
+[Translation]
+(a) On September 23, 2009, a search of the appellant’s residence, situated at 19 Gauvreau Street, Trois-Pistoles, and a vehicle, a Chevrolet Venture bearing licence plate number ZSP647, was conducted;
+(b) At the time of the search, 49 packs of 200 unstamped cigarettes each were seized, that is, a total of 9,800 cigarettes;
+(c) The appellant’s husband told the police that he had been selling unstamped tobacco de Gaston Parent for 3 to 4 years with his wife, appellant Pierrette Baribeau, for $25 per pack;
+(d) The appellant’s husband also stated to the police that in early June 2009 he started selling unstamped cigarettes with Ulric Jalbert;
+(e) During the period in issue, the appellant’s husband, Liboire Beaulieu, purchased two cases of 50 packs of 200 unstamped cigarettes on a weekly basis and the tobacco was stored at his residence and sold by the appellant for $28 per pack of 200 cigarettes;
+(f) The police investigation shows that both the appellant and her husband, Liboire Beaulieu, unlawfully sold cigarettes during the period from January 1, 2006, to September 22, 2009;
+(g) During the period from January 1, 2006, to June 30, 2009, the appellant sold 200 packs of 200 cigarettes per month and 400 packs of 200 cigarettes per month during the period from July 1, 2009, to September 22, 2009, that is, a total of $9,644 packs of 200 cigarettes sold, as appears in the following table:
+January 1, 2006, to June 30, 2009
+41 months X 200
+8,200 packs
+July 1, 2009, to August 31, 2009
+3 months X 400
+1,200 packs
+September 1, 2009, to September 22, 2009
+244 packs
+400 X 22 / 30 = 293 – 49 packs seized = 244
+(h) The tobacco tax for the period in issue, is $0.103 per cigarette or $20.60 for one pack;
+(i) The GST for the period from August 1, 2006, to December 31, 2007, is 6% and for the period from January 1, 2008, to September 22, 2009, it is 5%;
+(j) The selling price for one pack of 200 cigarettes for the period from January 1, 2006, to May 31, 2009, was $25 and $28 until the end of the period in issue;
+(k) Accordingly, following taxable sales of $155,040 at the rate of 6% for the period from August 1, 2006, to December 31, 2007, the appellant ought to have collected GST in the amount of $9,302.40;
+(l) For the period from January 1, 2008, to September 22, 2009, the appellant made taxable sales of $225,218.40 and at the rate of 5% ought to have collected GST in the amount of $11,260.92;
+(m) Accordingly, the appellant was assessed for an amount of $20,563.32 in GST.
+ISSUES
+[5] In the case at bar, the following issues arise:
+(a) Whether the appellants met their initial burden of demolishing the assumptions made by the Minister in his assessment.
+(b) Whether the amount of consideration on which the GST not collected and not remitted to the Receiver General is calculated includes the duty on tobacco products within the meaning of the Excise Tax Act.[1]
+(c) Whether the respondent can amend her Reply to the Notice to the Notice of Appeal, inter alia to claim that the appellants are jointly and severally liable for the assessments.
+ANALYSIS
+[6] It is trite law that in taxation the standard of proof is the civil balance of probabilities. . ,[2] and that within balance of probabilities, there can be varying degrees of proof required in order to discharge the onus, depending on the subject matter.[3] The Minister, in making assessments, proceeds on assumptions. . . and the initial onus is on the taxpayer to "demolish" the Minister's assumptions in the assessment. The initial burden is only to "demolish" the exact assumptions made by the Minister but no more.[4] This initial onus of "demolishing" the Minister's exact assumptions is met where the appellant makes out at least a prima facie case. [5]
+The first issue
+[7] In this case, it is appropriate to deal with the following matter: whether the appellants met their initial onus of “demolishing” the assumptions underpinning the Minister’s assessment.
+[8] In my view, the answer is no owing to the numerous contradictions in the testimonies of the witnesses called by the appellants.
+The testimony of Gaston Parent
+[9] Counsel for the appellants began presenting their case with testimony of Gaston Parent, who was the subject of a search on November 4, 2008, during which police officers found 3,000 contraband cigarettes at his residence.
+[10] Although Mr. Parent pleaded guilty on April 15, 2010, to two charges laid by the RCMP related to cigarette contraband, one of the charges was that he was in possession of 74,400 cigarettes between January 1 and November 3, 2008, he appears to have claimed in the Tax Court of Canada that he only pleaded guilty to the charge relating to the 3,000 cigarettes found during the search of November 4, 2008.
+[11] Moreover, Mr. Parent admitted during his examination that he had planned to acquire 74,400 cigarettes on November 22, 2008, had he not been the subject of a police operation. However, when asked about it, he seemed unable to explain to the Court the way in which he disposed of his stocks. Mr. Parent stated that he sold all of his goods without anyone’s help and that he was able to find on his own close to 180 different clients in the city of Trois-Pistoles alone.
+[12] What is particularly odd is that Mr. Parent claimed to have been threatened by the police officers who arrested him on November 4, 2008. The police officers also allegedly offered to pay him $400 if he agreed to identify his supplier. Clearly, that statement was later denied by the police officers in the case.
+[13] Finally, although at first glance Mr. Parent clearly stated that he never sold contraband cigarettes to Mr. Beaulieu or Ms. Baribeau, it is certainly permissible to analyze the man’s credibility. Mr. Parent has known the appellants for over 30 years. Moreover, it must be noted that he declared bankruptcy toward the end of December 2010 or in early January 2011 and that he no longer had anything to fear in this case.
+The testimony of Liboire Beaulieu
+[14] Counsel for the appellants then probed Mr. Beaulieu. There is no denying that the credibility of Mr. Beaulieu is significantly diminished by a testimony fraught with confusion and inconsistencies.
+[15] From the outset, a major shortcoming in the credibility of Mr. Beaulieu stemmed from the fact that that he repudiated a voluntary statement he gave to the police on September 23, 2009. Although he at times recognized his signature or initials on the written statement issued to the police, he denied their authenticity elsewhere in the document. The appellant even stated that he signed the documents without looking at them, that the statement was a figment of the police’s imagination and that it resulted from anonymous tips, and that he remained completely silent at both the police stations in Trois-Pistoles and in Rivière-du-Loup.
+[16] The voluntary statement made to the police on September 23, 2009, contains the following admissions:
+· Mr. Beaulieu purchased contraband tobacco from Gaston Parent for 3 years, until November 2008.
+· He purchased 50 cartons of 200 cigarettes per week and his wife was in charge of selling them at the house. He paid $18 a carton and resold them $25.
+· Mr. Beaulieu stopped purchasing to Mr. Parent when the police officers searched his home in November 2008.
+· Ulric Jalbert subsequently met with Mr. Beaulieu at the wharf to ask him if he wanted to sell tobacco with him.
+· They went to the Indian reserve once a week to purchase 100 cartons of 200 cigarettes. Ulric Jalbert paid $950 for a box of 50 cartons. The appellants sold the cigarettes purchased from Mr. Jalbert from June 2009 to September 22, 2009.
+· It was Ms. Baribeau who was in charge of selling 100 cartons of cigarettes per week for $28.
+· The appellants received 4 cartons of cigarettes each per month in addition to $1 for each carton sold.
+[17] During his examination, Mr. Beaulieu formally denied having sold cigarettes purchased from Gaston Parent, or even having purchased cigarettes from him. It is nevertheless odd that the appellant admits having driven clients to Mr. Parent’s home with his own car so that they could purchase contraband cigarettes. At the time, Mr. Beaulieu, according to him, purchased his cigarettes at the restaurant and drove individuals who wished to purchase cigarettes at Mr. Parent’s home simply to accommodate them.
+[18] Mr. Beaulieu then stated, against all logic, that prior to the search of his home on November 4, 2008, he did not know that Mr. Parent sold contraband cigarettes. Caught in a trap when asked to specify the exact moment at which he took clients to Mr. Parent’s home so that they could get cigarettes, the appellant finally admitted that he had made a [Translation] “mistake.”
+[19] Mr. Beaulieu also mentioned that he had only known Ulric Jalbert since 2009 and that he met him during a visit with Mr. Jalbert’s mother. That statement is contrary to the statement made to police that he met Mr. Jalbert at the wharf, a statement also confirmed by Mr. Jalbert himself.
+[20] Mr. Beaulieu stated that he only accompanied Mr. Jalbert five or six times to the Indian reserve and that it was usually on Fridays. There most certainly seems to be some confusion on that point, as Mr. Jalbert, for his part, submits that the trips to Kanesatake were made on Saturdays and that Mr. Beaulieu accompanied him during each trip.
+[21] Mr. Beaulieu stated that the two men would go to Kanesatake twice a month and that each time they would purchase one container of cigarettes for $475. He then corrected himself by changing the price to $950. Mr. Jalbert, for his part, claimed that he and his co-conspirator only went to the Indian reserve once a month to purchase one container of cigarettes for $750. As mentioned earlier, the statement provided to police indicated that the two individuals went to the Indian reserve once a week to get two containers of cigarettes for $950 each.
+[22] Mr. Beaulieu admitted that he and his wife each received four cartons of cigarettes per month but denied that they received $1 per package sold.
+[23] Finally, Mr. Beaulieu denied that his wife received the money directly form the clients. Mr. Beaulieu swore that the clients paid Mr. Jalbert in person before picking up the tobacco at his house. However, Mr. Beaulieu seemed unable to explain to the Court how, for example, Ms. Baribeau knew whether the clients had actually paid Mr. Jalbert for the packs they sought from him.
+The examination of Ulric Jalbert
+[24] Although Mr. Jalbert formally denied remitting $1 per pack sold to the appellants, and although he confirmed, on the one hand, that the cigarettes found during the search of September 23, 2009, at the appellants’ home belonged to him, and, on the other hand, that the clients always paid him directly without the appellants’ having to handle the money, again the credibility of the testimony is still questionable.
+[25] First, it seems to me redundant to revisit the numerous inconsistencies between the testimony of Mr. Jalbert and that of Mr. Beaulieu.
+[26] Furthermore, it seems to me relevant to note that Mr. Jalbert also declared bankruptcy owing to court proceedings against him related to cigarette contraband and that he had nothing to fear by stating that the illegal sales were made by him rather than the appellants.
+Examination of Pierrette Baribeau
+[27] Before completing the presentation of his evidence with the testimonies of the police officers involved in the case and that of the official who prepared the notices of assessment, counsel for the appellants examined Ms. Baribeau.
+[28] Let us recall that when examined, Mr. Beaulieu claimed that clients would go get their cartons of cigarettes at the house but specified that his wife never handled the money. Ms. Baribeau went further, claiming that except for Mr. Jalbert’s mother and brother, no one ever came knocking at her door for cigarettes. According to her, it was only clients who wanted to purchase marine worms.
+The second issue
+[29] We must now address the second issue: whether the amount of the consideration on which GST not collected and not remitted to the Receiver General is calculated includes, within the meaning of the Excise Tax Act (the ETA), the duty on tobacco products.
+[30] First, it is important to note that subsection 165(1) of the ETA states as follows:
+Subject to this Part, every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada tax in respect of the supply calculated at the rate of 5% on the value of the consideration for the supply.
+[31] “Consideration” is therefore crucial to the calculation of the amount of GST to be paid by the receiver of a taxable supply and to be collected by the supplier.
+[32] Sections 152 to 165 of the ETA complement the short definition of the term “consideration” set out in subsection 123(1) of the ETA, which reads as follows:
+“consideration” includes any amount that is payable for a supply by operation of law.
+[33] Section 154 of the ETA is relevant in determining whether the federal and provincial duties on tobacco products are within the term “consideration.” The section reads in part as follows:
+154(1) In this section, “provincial levy” means a tax, duty or fee imposed under an Act of the legislature of a province in respect of the supply, consumption or use of property or a service.
+(2) For the purposes of this Part, the consideration for a supply of property or a service includes
+(a) any tax, duty or fee imposed under an Act of Parliament that is payable by the recipient, or payable or collectible by the supplier, in respect of that supply or in respect of the production, importation, consumption or use of the property or service, other than tax under this Part that is payable by the recipient;
+(b) any provincial levy that is payable by the recipient, or payable or collectible by the supplier, in respect of that supply or in respect of the consumption or use of the property or service, other than a prescribed provincial levy that is payable by the recipient; and
+(c) any other amount that is collectible by the supplier under an Act of the legislature of a province and that is equal to, or is collectible on account of or in lieu of, a provincial levy, except where the amount is payable by the recipient and the provincial levy is a prescribed provincial levy.
+[34] In practice, section 154 of the ETA provides that for the purposes of computing the tax payable for a supply of property or a service, the consideration includes any tax, duty or fee provided for by an Act or Parliament or an Act of the legislature of a province that is imposed on the supplier or the recipient. Taxes, duties and fees under the Taxes, Duties and Fees (GST/HST) Regulations[6] are, however, excluded.
+[35] Three sections of the Tobacco Tax Act[7] involve provincial duties relevant to this appeal, namely, sections 8, 7.1.1 and 11.
+[36] In short, section 11 of the TTA provides that every retail vendor shall collect, as a mandatary of the Minister, the tax provided for in section 8 of the TTA, that is, $20.60 for one carton of 200 cigarettes at the relevant time.
+[37] Thus, it is possible to observe not only that the TTA imposes provincial duties when tobacco is sold by retail sale, but also that the TTA provides, in section 7.1.1, that no person may sell tobacco at retail for a price that is lower than the aggregate, in respect of the tobacco, of the excise duty applicable under the Excise Act, 2001, the tobacco tax applicable under the TTA and the tax applicable under Part IX of the ETA computed on the aggregate of the excise duty and the tobacco tax.
+[38] Seeing as the tobacco tax under the TTA is a provincial levy collectible by the appellants in respect of each of their transactions in their capacity as suppliers of a taxable supply, subsection 154(2)(b) of the ETA is applicable and the amount of $20.60 is part of the consideration for one carton of 200 cigarettes.
+[39] Thus, it is my opinion that the Minister was right to include $20.60 in the consideration in computing the GST not collected and not remitted to the Receiver General for each sale of contraband cigarettes under appeal.
+The third issue
+[40] Finally, let us address the third issue: whether the respondent can amend her Reply to the Notice to the Notice of Appeal, inter alia to claim that the appellants are jointly and severally liable for the assessments
+[41] In her Reply to the Notice of Appeal, the respondent never stated that the appellants carried on a business or partnership or that they were jointly and severally liable for the assessments. Moreover, in her Reply to the Notice of Appeal, the respondent simply assumed that each of the appellants made 100% of the sales of the cigarettes so assessed. The respondent failed to submit that it was a partnership made up of the two appellants which made the sales of the cigarettes which led to the assessments in issue. It was only in her written submissions provided after I so requested at the hearing that the respondent finally explained to the Court the foundation of the joint assessment as to the uncollected GST.
+[42] Subsection 298(6.1) of the ETA, which came into force in 2000, specifically provides that the Minister may advance an alternative argument in support of an assessment.
+[43] In effect, subsection 298(6.1) of the ETA, as well as its counterpart subsection 152(9) of the ITA, were added following the decision of the Supreme Court of Canada in The Queen v. Continental Bank of Canada,[8] in which the Supreme Court stated that the Minister should not be allowed to advance alternative reasons for an assessment after the limitation period has expired.
+[44] The Department of Finance published an explanatory note in December 1999 as to the purpose of that provision:
+New subsection 298(6.1) is added to clarify that the Crown has the right, on an appeal of a GST/HST assessment, to advance an alternative argument in support of that assessment even if the normal reassessment period has expired. The amendment is made in light of remarks by the Supreme Court of Canada in the case of The Queen v. Continental Bank of Canada, which might otherwise have been interpreted as calling this right into question. The provision expressly recognizes the Court protection afforded taxpayers that an alternative argument nevertheless cannot be advanced to the prejudice of the right of a taxpayer to introduce relevant evidence to rebut the argument.
+Subsection 298(6.1) applies to any assessment in respect of which an appeal is disposed of after the day on which this subclause is assented to, regardless of when the appeal was instituted.
+[45] Subsection 298(6.1) of the ETA reads as follows:
+The Minister may advance an alternative argument in support of an assessment of a person at any time after the period otherwise limited by subsection (1) or (2) for making the assessment unless, on an appeal under this Part,
+(a) there is relevant evidence that the person is no longer able to adduce
+without leave of the court; and
+(b) it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+[46] A cursory examination shows that there is an extensive body of case law on subsections 298(6.1) of the ETA and 152(9) of the ITA. The decision of the Federal Court of Appeal in Walsh v. Canada[9] is particularly instructive on the application of such subsections; Richard C.J. (as he then was) established certain conditions for the application of such provisions:
+The following conditions apply when the Minister seeks to rely on subsection 152(9) of the Act:
+1) the Minister cannot include transactions which did not form the basis of the taxpayer's reassessment;
+2) the right of the Minister to present an alternative argument in support of an assessment is subject to paragraphs 152(9)(a) and (b), which speak to the prejudice to the taxpayer; and
+3) the Minister cannot use subsection 152(9) to reassess outside the time limitations in subsection 152(4) of the Act, or to collect tax exceeding the amount in the assessment under appeal.[10]
+[47] However, Walsh v. Canada, like many other decisions rendered with respect to subsections 298(6.1) of the ETA and 152(9) of the ITA, involves a motion by the Minister to amend the Reply to the Notice of Appeal to include an additional legal argument in support of the assessments in issue.
+[48] In the case at bar, the respondent did not request that her pleadings be amended and the case law clearly indicates that the respondent should not be in a better position than if such a request would have been made.[11]
+[49] As stated by Hugessen J. of the Federal Court of Appeal in R. v. Bowens, “unpleaded assumptions have no effect on the burden of proof one way or the other.”[12]
+[50] Moreover, in Hickman Motors Ltd. v. Canada, Heureux-Dubé J. indicates that the initial burden is only to "demolish" the exact assumptions made by the Minister but no more.[13]
+[51] According to Bowman J., formerly Chief Justice of the Tax Court of Canada, procedural fairness requires that in cases governed by the informal procedure the Crown not be permitted at the 11th hour to spring a brand new argument on a taxpayer:
+Neither of these arguments was pleaded or advanced. In the circumstances, I am allowing the appeals on the basis of the appellant's evidence that he paid $7,200 in each of the years in satisfaction of his liability for 1994, 1995, 1996 and 1997, as required by the Order of the Ontario District Court. See Tsiaprailis v. The Queen, 2005 DTC 5119; R. v. Sills, 85 DTC 5096.
+To permit the respondent to rely for the first time at trial on a brand new basis of disallowance would violate a fundamental rule of procedural fairness. . . .
+. . .
+Here, the Crown did not ask for an amendment and, for the reasons given in Poulton, I would probably not have granted it. However, I do not think the Crown can be in a better position by raising an unpleaded issue at trial than it would be if it had asked for and been denied an adjournment.[14]
+[52] In Adler v. The Queen, supra, the Tax Court of Canada had to decide an issue very similar to the one in this case.[15] Webb J. had to decide whether the respondent could, during closing arguments, raise an additional basis for the denial of the taxpayer’s expenses. He stated as follows:
+It is not appropriate for counsel for the Respondent, during closing arguments, to raise a particular provision of the Act as a basis for reassessment when there is no indication in the Reply that the particular provision formed the basis for the reassessment or was an alternative basis for the reassessment.
+Paragraph 6 of the Tax Court of Canada Rules (Informal Procedure) provides that:
+6.(1) Every reply to a notice of appeal shall contain a statement of
+(a) the facts that are admitted,
+(b) the facts that are denied,
+(c) the facts of which the respondent has no knowledge and puts in issue,
+(d) the findings or assumptions of fact made by the Minister when making the assessment,
+(e) any other material facts,
+(f) the issues to be decided,
+(g) the statutory provisions relied on,
+(h) the reasons the respondent intends to rely on, and
+(i) the relief sought.
+. . .
+In Walsh v. The Queen,[16] Chief Justice Richard (as he then was) of the Federal Court of Appeal made the following comments in relation to subsection 152(9) of the Act:
+[18] The following conditions apply when the Minister seeks to rely on subsection 152(9) of the Act:
+1) the Minister cannot include transactions which did not form the basis of the taxpayer's reassessment;
+2) the right of the Minister to present an alternative argument in support of an assessment is subject to paragraphs 152(9)(a) and (b), which speak to the prejudice to the taxpayer; and
+3) the Minister cannot use subsection 152(9) to reassess outside the time limitations in subsection 152(4) of the Act, or to collect tax exceeding the amount in the assessment under appeal.
+It seems to me that in addition to the conditions as set out above, the Minister should not be able to circumvent procedural fairness by raising a basis for reassessment during closing arguments that was not disclosed in the Reply. Procedural fairness would dictate that the proper procedure for the Respondent to have followed, if the Respondent had wanted to advance a new basis for the reassessment, would have been for the Respondent to have brought a Motion, prior to the commencement of the hearing, to amend the Reply to include the new basis. It does not seem to me that the provisions of subsection 152(9) of the Act should be interpreted as dispensing with the procedural requirement of amending pleadings to include a new argument. Subsection 152(9) of the Act provides that the Minister may advance an alternative argument at any time but it seems to me that such argument must be advanced in compliance with the rules of this Court and the rules of procedural fairness.[17]
+[53] According to the decision in Rijonta, cited with approval in Adler, procedural fairness requires that I dismiss the respondent’s argument raised for the first time in argument. For these reasons, I find that the respondent cannot claim that the appellants are jointly and severally liable for the uncollected GST. Seeing as such an argument must be dismissed, I believe each of the appellants is responsible for the GST for half of the sales, in the absence of better evidence as to the manner in which the sales must be divided between them.
+CONCLUSION
+[54] The appellants have not adduced a prima facie case displacing the Minister’s assumptions of fact. The testimonies of the appellants, as those of Mr. Parent and Mr. Jalbert, are fraught with inconsistencies and confusion.
+[55] However, the respondent did not claim in the Reply to the Notice of Appeal that the appellants carried on a business or that they were jointly and severally liable for the assessments. Nor did the respondent seek to amend her pleadings so as to include an additional legal argument in support of the assessments in issue. The case law clearly indicates that the Minister cannot circumvent procedural fairness by raising a basis for assessment during closing arguments that was not disclosed in the Reply to the Notice of Appeal.
+[56] In the absence of better evidence, I conclude that half of the sales so assessed must be attributed to each of the appellants. However, each of the appellants is entitled to benefit from the fact that they are a small supplier with the result that only the sales that were made when the appellants were not small suppliers are subject to the duties imposed by the assessments in issue.
+Signed at Ottawa, Canada, this 5th day of December 2011.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+on this 18th day of January 2012.
+Daniela Possamai, Translator
+CITATION: 2011 TCC 544
+COURT FILE NOS.: 2011-1073(GST)I, 2011-1075(GST)I
+STYLES OF CAUSE: PIERRETTE BARIBEAU v. HER MAJESTY THE QUEEN AND LIBOIRE BEAULIEU v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Rimouski, Quebec
+DATE OF HEARING: September 15, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: December 5, 2011
+APPEARANCES:
+Counsel for the appellants:
+Daniel LeBlond
+Counsel for the respondent:
+Philippe Morin
+COUNSEL OF RECORD:
+For the appellants:
+Name: Daniel LeBlond
+Firm: Giroux, LeBlond, Gaudette
+Rivière-du-Loup, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C., 1985, c. E-15.
+[2] Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336; Dobieco Ltd. v. Minister of National Revenue, [1966] S.C.R. 95.
+[3] Continental Insurance Co. v. Dalton Cartage Co. [1982] 1 S.C.R. 164.
+[4] Hickman Motors Ltd, supra.
+[5] Ibid., at para. 93.
+[6] SOR/91-34.
+[7] RSQ, c. I-2.
+[8] Continental Bank of Canada v. Canada, [1998] 2 S.C.R. 358.
+[9] 2007 FCA 222.
+[10] Ibid., at para. 18.
+[11] Adler v. The Queen, 2009 TCC 613, at para. 13.
+[12] No. A-507-94, February 20, 1996 (F.C.A.).
+[13] [1997] 2 S.C.R. 336, at para. 92.
+[14] Ritonja v. The Queen, 2006 TCC 346, paras. 9 to 11.
+[15] Adler, supra, paras. 5, 6, 9 and 10.
+[16] 2007 FCA 222.
+[17] Adler, supra, paras. 5, 6, 9 and 10.

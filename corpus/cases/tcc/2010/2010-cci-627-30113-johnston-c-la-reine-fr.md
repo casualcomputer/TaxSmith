@@ -1,0 +1,172 @@
+---
+title: "Johnston c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30113/index.do"
+last_modified: "2010-12-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 627"
+citation2: ""
+neutral_citation: "2010 CCI 627"
+decision_date: "2010-12-07"
+language: "fr"
+item_id: "30113"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7635
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:22:29.793000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "69bbd1b5a9f865a2b9c8194492a2d5c7d58e727ea180b97c167edebafecce054"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Johnston c. La Reine
+
+- Citation: 2010 CCI 627
+- Decision date: 2010-12-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7635, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnston c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-12-07
+Référence neutre
+2010 CCI 627
+Numéro de dossier
+2007-1899(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1899(IT)I
+ENTRE :
+ROZELLA JOHNSTON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 12 octobre 2010 à Toronto (Ontario).
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocats de l’intimée :
+Me Brandon Siegal
+Me Andrea Jackett
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2004 et 2005 sont rejetés sans dépens.
+Signé à Toronto (Ontario), ce 7e jour de décembre 2010.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 20e jour de janvier 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 627
+Date : Le 7 décembre 2010
+Dossier : 2007-1899(IT)I
+ENTRE :
+ROZELLA JOHNSTON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le Juge Little
+A. LES FAITS
+[1] L’appelante a exprimé le souhait de voir sa déclaration versée au dossier.
+[2] L’appelante a déclaré qu’elle était travailleuse de soutien sur place auprès de la Ontario Federation of Indian Friendship Centres.
+[3] L’appelante a affirmé qu’elle était originaire du territoire non cédé de la Première nation des Chippewas de Nawash.
+[4] L’appelante a déclaré qu’elle n’était pas citoyenne canadienne.
+[5] Les points suivants font également partie de la déclaration de l’appelante :
+a) Bien que la revendication territoriale des Ojibway de Saugeen soit toujours en cours, la question de l’assujettissement à l’impôt n’a jamais fait l’objet de discussions ni de négociations avec la Nation;
+b) Les terres de l’appelante demeurent distinctes durant le processus des traités avec le Canada;
+c) Elle comprenait qu’en l’espèce, j’avais une marge de manœuvre limitée, et que j’étais tenu par la politique du gouvernement;
+d) Elle a alors fait les commentaires suivants :
+[traduction]
+Je n’ai qu’une chose à dire sur les politiques du Canada au sujet des tentatives d’imposition à mon égard et à l’égard de mon peuple : le fait de chercher à imposer la population la plus pauvre de ce pays est une honte.
+(Transcription, à la page 70, lignes 8 à 12)
+Je ne peux tout simplement pas l’accepter ni y consentir. Je reconnais que cet acte juridique n’a pas été bien pensé. Toujours à ma connaissance, la question de l’imposition n’a jamais fait l’objet de discussions avec les dirigeants de ma Nation. J’ose espérer que vous procéderez à un nouvel examen de ces actes et que vous demanderez au ministre de respecter les droits issus des traités. Ce que je demande ne peut pas être difficile à faire. Je le fais tous les jours.
+(Transcription, à la page 71, lignes 13 à 20)
+[6] Me Siegal, l’avocat de l’intimée, a déclaré ce qui suit :
+[traduction]
+La première chose que je tiens à souligner est que ce qui nous amène ici aujourd’hui est la question de savoir si l’appelante a droit à une exonération d’impôt sur le revenu au titre de l’article 87 de la Loi sur les Indiens. L’acte de procédure qui a été déposé à la Cour, pour nous, c’est l’avis d’appel modifié. La question de savoir si ce revenu est exonéré d’impôt est une question nouvelle. La jurisprudence est claire à se sujet. Il existe un critère bien établi qui s’appelle le critère des facteurs de rattachement.
+(Transcription, de la page 73, ligne 18 à la page 74, ligne 1)
+Je ferais remarquer que Mme Johnston a choisi de ne présenter aucun élément de preuve relativement à ses facteurs de rattachement, a choisi de ne soumettre aucun argument à l’égard de ces facteurs et n’a soumis aucun argument que ce soit selon [le nouvel] avis d’appel modifié. Nous en sommes aujourd’hui à débattre de questions dont la Cour n’est pas saisie et qui ne sont pas visées par l’appel de l’appelante.
+(Transcription, à la page 74 lignes 9 à 17)
+B. ANALYSE ET DÉCISION
+[7] La Cour canadienne de l’impôt (la « Cour ») a été constituée par une loi fédérale, la Loi sur la Cour canadienne de l’impôt, L.R.C. 1985, ch. T-2. La Cour a été créée en 1983
+[8] La compétence de la Cour est énoncée à l’article 12 de la Loi sur la Cour canadienne de l’impôt.
+[9] Le paragraphe 12(1) de la Loi sur la Cour canadienne de l’impôt prévoit ce qui suit :
+12(1) La Cour a compétence exclusive pour entendre les renvois et les appels portés devant elle sur les questions découlant de l’application de la Loi sur le droit pour la sécurité des passagers du transport aérien, du Régime de pensions du Canada, de la Loi sur l’exportation et l’importation de biens culturels, de la partie V.1 de la Loi sur les douanes, de la Loi sur l’assurance-emploi, de la Loi de 2001 sur l’accise, de la partie IX de la Loi sur la taxe d’accise, de la Loi de l’impôt sur le revenu, de la Loi sur la sécurité de la vieillesse, de la Loi de l’impôt sur les revenus pétroliers et de la Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre, dans la mesure où ces lois prévoient un droit de renvoi ou d’appel devant elle.
+[Non souligné dans l’original.]
+[10] Les réparations que la Cour peut accorder relativement aux appels interjetés en vertu de la Loi de l’impôt sur le revenu (la « Loi ») sont énoncées à l’article 171, qui prévoit notamment ce qui suit :
+171(1) Règlement d’un appel. La Cour canadienne de l’impôt peut statuer sur un appel :
+a) en le rejetant;
+b) en l’admettant et en :
+(i) annulant la cotisation,
+(ii) modifiant la cotisation,
+(iii) déférant la cotisation au ministre pour nouvel examen et nouvelle cotisation.
+[11] La Cour n’a pas compétence pour obliger l’intimée à avoir recours à un autre processus pour régler un différend relatif à des impôts payables en vertu de la Loi.
+[12] L’appelante n’a présenté aucun élément de preuve et n’a soulevé aucun argument juridique relativement aux nouvelles cotisations portées en appel devant la Cour. De plus, l’appelante n’a aucunement tenté de faire une distinction entre sa cause et d’autres causes sur lesquelles il a déjà été statué relativement à des personnes qui étaient des employées de Native Leasing Services ou d’une société liée, à savoir :
+1. The Queen v. Shilling, 2001 D.T.C. 5420 (CAF). La demande d’autorisation d’appel de cette décision auprès de la Cour suprême du Canada a été refusée ([2001] S.C.C.A. no 434);
+2. Horn et al v. The Queen, 2007 D.T.C. 5589 (CF). Les appels interjetés auprès de la CAF ont été rejetés (2008 CAF 352, 2008 D.T.C 6743). La demande d’autorisation d’appel de cette décision auprès de la Cour suprême du Canada a été refusée ([2009] S.C.C.A. no 8);
+3. Roe et al c. La Reine, 2008 CCI 667, 2009 D.T.C. 1020, (9 appelants);
+4. Googoo et al v. the Queen, 2009 D.T.C. 1061;
+5. McIvor et al. c. La Reine, 2009 CCI 469, 2009 D.T.C. 1330, (6 appelants);
+6. Sarah B. Doxtator/Joanna Wemigwans v. The Queen, 2010 D.T.C. 1291, (Répertoriée : Lafontaine c. La Reine).
+Il convient de noter que tous les appelants susmentionnés soutenaient que leur revenu était exonéré d’impôt en vertu de l’article 87 de la Loi sur les Indiens, L.R.C. 1985, ch. I-5. Tous les appels ont été rejetés.
+(Note : En plus des 19 appels susmentionnés, de nombreux appels avaient été formés par des personnes qui étaient des employées de Native Leasing Services. Au moment de l’audition de ces appels devant la Cour, ces personnes n’ont pas comparu et n’avaient pas mandaté d’avocat ni de représentant pour agir pour leur compte. Les appels ont été rejetés pour défaut de poursuite.)
+C. CONCLUSION
+[13] Étant donné que l’appelante n’a présenté à la Cour aucune preuve et aucun argument juridique relativement à la nouvelle cotisation établie en vertu de la Loi pour les années d’imposition 2004 et 2005, les appels de l’appelante sont rejetés sans dépens.
+Signé à Toronto (Ontario), ce 7e jour de décembre 2010.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 20e jour de janvier 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010 CCI 627
+No DU DOSSIER DE LA COUR : 2007-1899(IT)I
+INTITULÉ : ROZELLA JOHNSTON
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 12 octobre 2010
+MOTIFS DU JUGEMENT : L’honorable juge L.M. Little
+DATE DU JUGEMENT : Le 7 décembre 2010
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocats de l’intimée :
+Me Brandon Siegal
+Me Andrea Jackett
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Canada)

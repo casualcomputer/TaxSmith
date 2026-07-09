@@ -1,0 +1,157 @@
+---
+title: "Todd v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26617/index.do"
+last_modified: "2005-08-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 573"
+citation2: ""
+neutral_citation: "2005 TCC 573"
+decision_date: "2005-08-26"
+language: "en"
+item_id: "26617"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3625
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:25:27.437000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f4a0f48c89dbfde18250a9f0fc42047a95bdfc5ea7e246f50842fbe18f6bff66"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Todd v. The Queen
+
+- Citation: 2005 TCC 573
+- Decision date: 2005-08-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3625, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Todd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-26
+Neutral citation
+2005 TCC 573
+File numbers
+2004-4338(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4338(IT)I
+BETWEEN:
+ROBERT TODD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on August 17, 2005 at Halifax, Nova Scotia
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Agent for the Appellant:
+Jerry Findlay
+Counsel for the Respondent:
+Edward Sawa
+Korinda McLaine, Student-at-Law
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1998 and 1999 taxation years are allowed, without costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+1. Mr. Todd's failure to report his commission income of $12,000 in 1998 amounted to a misrepresentation within the meaning of subsection 152(4) thereby entitling the Minister to reassess the 1998 taxation year beyond the normal reassessment period;
+2. he understated his income by $12,000 in 1998 and $22,738.55 in 1999; and
+3. he did not knowingly, or in circumstances amounting to gross negligence omit his commissions for 1998 and 1999 in his returns so as to render him liable for gross negligence penalties under subsection 163(2),
+in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of August, 2005
+"G. Sheridan"
+Sheridan, J.
+Citation: 2005TCC573
+Date:20050826
+Docket: 2004-4338(IT)I
+BETWEEN:
+ROBERT TODD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Robert Todd, appealed reassessments by the Minister of National Revenue under the Income Tax Act in which it was determined that Mr. Todd had understated his income in 1998 and 1999. Gross negligence penalties were also imposed for each year under subsection 163(2). In respect of the 1998 taxation year only, the reassessment was done after the normal reassessment period; accordingly, the Minister was barred by the statute from reassessing unless he could satisfy the Court that Mr. Todd's conduct was attributable to "neglect, carelessness or wilful default" within the meaning of subsection 152(4) of the Act.
+1. Unreported Income for 1998 And 1999
+[2] In 1998, Mr. Todd got into the business of selling used cars, operating as "Todd's Auto Sales". Mr. Todd had had no prior experience in the used car business. He hoped to make money buying used cars as cheaply as possible, repairing them to roadworthy condition and selling them for a higher price. In his first year, he earned commissions of $12,000; in 1999, $22,738.55. For reasons that will be explained below, his commissions were paid by Sidhu Investments Ltd., a neighbouring business, which was also selling used cars. Mr. Todd did not have a dealer's license, a prerequisite to purchasing used car inventory at dealers' auctions. Mr. Ken Sidhu, the principal of Sidhu Investments Ltd., was licensed and he arranged for Mr. Todd's name to be added to his license, thereby enabling Mr. Todd to attend auctions and bid on inventory for both businesses. All of the vehicles were paid for by Sidhu Investments Ltd. After Mr. Todd sold one of his cars, he turned the sale proceeds over to Sidhu Investments Ltd. Mr. Sidhu deducted the amount his company had paid for the car at auction plus any other expenses it had incurred, such as repairs and advertising costs. The amount remaining was divided equally between Sidhu Investments Ltd. and Mr. Todd; Sidhu Investments Ltd. retained its share and issued a company cheque to Mr. Todd for his. Mr. Todd claimed that he was responsible for the cost of any repairs to the cars sold at Todd's Auto Sales and that he paid for them out of his share of the sale proceeds.
+[3] It was on this latter point, the question of who did what repairs to the cars sold at Todd's Auto Sales, that there was some dispute. The Minister assumed[1] that Mr. Todd had incurred no expenses in respect of his unreported commission income. Mr. Todd testified that he had the repairs done through Major Discount Muffler & Brakes, a business owned by his friend Curtis MacLeod and located in the same building as Todd's Auto Sales. Mr. MacLeod insisted on being paid in cash. Mr. Todd arrived at the hearing with a sheaf of original "merchant's" carbon copies[2] of Major Discount Muffler & Brakes invoices which he tendered as evidence in support of his claim. He said he had obtained them from Carrie MacLeod, the widow of Curtis MacLeod. Ms. MacLeod is one of two directors of a numbered company incorporated by Mr. Todd in 2002 currently operating as "Major Discount Complete Auto Service – Sackville". This business is the reincarnation of the now‑defunct Major Discount Muffler & Brakes. Ms. MacLeod was not called as a witness.
+[4] Mr. Sidhu, called by the Appellant, testified that it was his "understanding" that Sidhu Investments Ltd. had paid for all the necessary repairs. He also used Major Discount Muffler & Brakes for repairs; on cross-examination, he verified photocopies of some invoices for repairs[3] issued to Mr. Sidhu's used car business, operating as "Major Discount Auto", in 1999. Mr. Sidhu had apparently provided his copies to the auditor during the audit of his businesses in support of his expense claims.
+[5] The identity of the creator (or creators) of the respective invoices being unknown and their authenticity indeterminable, they were of limited evidentiary value even under the Informal Procedure. Further, a comparison of these two sets of documents revealed certain discrepancies. Although both bear dates throughout 1999, the numbers on the Todd's Auto Sales invoices do not form part of the same sequence as those for Mr. Sidhu's company. For example, the invoice numbers for Todd's Auto Sales for the period January 27 to February 3, 1999 run from 18983 to 19398; the Sidhu invoices from January 26 to February 26, 1999 are numbered 1012 to 1429. On cross‑examination, Mr. Todd speculated that Mr. MacLeod might have used one set of invoices for cash and another for other kinds of payment, but otherwise could not explain the different series of invoices. There was also an unexplained lack of consistency between the handwriting and the method of itemizing the parts and labour shown in the two sets of invoices. Mr. Sidhu's testimony shed no light on either of these puzzles. Finally, perhaps as a tribute to Mr. Sidhu's greater experience in business, his invoices showed a markedly lower average repair cost than those of Todd's Auto Sales. All things considered, I found Exhibit A-1 and Exhibit R-1 to be so fundamentally unreliable that I gave little weight to either set of documents.
+[6] On balance, however, I am not satisfied that Mr. Todd met his evidentiary onus of proving wrong the Minister's assumption that he had not incurred any expenses in respect of the cars sold. While there is nothing wrong with cash transactions in principle, those adopting the practice must take extra measures to ensure they can be substantiated. Mr. Todd had no receipts or any other proof of payment. He testified that in addition to the repairs, he had expenses for his cell phone and office phone. Again, he was unable to produce receipts for either because of his records having been retained by his tax preparer. The Act requires taxpayers to keep books and records adequate to substantiate the claims made. This, Mr. Todd failed to do and was unable to refute the Minister's reassessment of his unreported commission income in 1998 and 1999.
+2. Reassessment Beyond the Normal Reassessment Period – 1998 Only
+[7] In respect of the 1998 reassessment, the Minister was entitled to reassess for that year only if he established that Mr. Todd's conduct fell within the meaning of subparagraph 152(4)(a)(i) of the Act:
+(4) Assessment and reassessment. The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer's normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+...
+[8] There is no question that the $12,000 commission did not appear in the computer print-out[4] of the information reported in Mr. Todd's e-filed 1998 income tax return. To succeed under subsection 152(4), however, the Minister had to show that the omission of Mr. Todd's commission income was attributable to "neglect, carelessness or wilful default". The Respondent referred the Court to Venne v. Her Majesty the Queen[5] in which Strayer, J. held that negligence is established where the taxpayer has failed to exercise reasonable care in the completion and filing of his income tax return. What is reasonable in any particular circumstances will depend on the facts.
+[9] I accept Mr. Todd's evidence that in 1998 he was new to the idea of being in business for himself. Until that time he had been employed as an electrician. He was used to having his employer making and remitting deductions on his behalf. At tax time, all he had to do was hand over his T-4 and other slips to H&R Block for filing. His foray into used car sales evolved from his relationship with the more experienced Mr. Sidhu. Like many others embarking on a small business venture, his future success was based more on high hopes than a firm business plan. As it turned out, he had to give up on Todd's Auto Sales because he was not making any money. At the beginning, however, the business did generate some revenue. Towards the end of the first year, he received three cheques totalling $12,000: one dated October 26th and two in November, dated the 3rd and the 20th. These amounts were not reported in his 1998 income tax return; only his employment income from his T-4 of $28,989 and Employment Insurance earnings of $11,745 are shown in the return. His unreported income represented approximately 30 per cent of the total income reported. Applying the test in Venne[6], it is hard to imagine how Mr. Todd, exercising a reasonable degree of care, could have omitted such a significant portion of his total income for the year. Mr. Todd testified that he did not become aware of the omission until the audit of Sidhu Investments Ltd. and the subsequent inquiries into his own business activities. Prior to that time, he assumed that "Mike"[7] at the company that prepared his return[8] had included the commission income. Such a belief, even if established, does not relieve Mr. Todd of the ultimate responsibility imposed on him by the Act to certify the accuracy of the information filed on his behalf. On a balance of probabilities, the Minister satisfied his evidentiary onus that Mr. Todd's omission of his 1998 commissions was attributable, at least, to carelessness; accordingly, the Minister was entitled to reassess beyond the normal reassessment period for that year.
+3. Imposition of Gross Negligence Penalties – 1998 and 1999
+[10] For Mr. Todd to be liable for gross negligence penalties, the Minister had to establish that the omission of his commissions from his income tax returns in 1998 and 1999 was done "knowingly, or under circumstances amounting to gross negligence" under subsection 163(2) of the Act:
+Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of ...
+[11] In Farm Business Consultants Inc. v. The Queen[9], after making an extensive review of the case law, Bowman, J. (as he then was) set out the approach to be taken by the Court where the Minister seeks to impose gross negligence penalties:
+A court must be extremely cautious in sanctioning the imposition of penalties under subsection 163(2). Conduct that warrants reopening a statute-barred year does not automatically justify a penalty and the routine imposition of penalties by the Minister is to be discouraged. Conduct of the type contemplated in paragraph 152(4)(a)(i) may in some circumstances also be used as the basis of a penalty under subsection 163(2), which involves the penalizing of conduct that requires a higher degree of reprehensibility. In such a case a court must, even in applying a civil standard of proof, scrutinize the evidence with great care and look for a higher degree of probability than would be expected where allegations of a less serious nature are sought to be established. … Moreover, where a penalty is imposed under subsection 163(2) although a civil standard of proof is required, if a taxpayer's conduct is consistent with two viable and reasonable hypotheses, one justifying the penalty and one not, the benefit of the doubt must be given to the taxpayer and the penalty must be deleted.
+[12] In support of its position that this was an appropriate case for the imposition of gross negligence penalties, the Respondent called as a witness the auditor who proposed them, Mr. Hashem Abou-Shalah. He did not conduct the initial audit of Todd's Auto Sales. His recommendation was based on the file he inherited from the first auditor; in particular, on the size of the unreported income. He explained that in determining whether gross negligence penalties were called for, the department looks to certain factors. In this case, it was upon the "materiality" factor that the decision to recommend gross negligence penalties was based. The departmental rule of thumb is that unreported income of 20 per cent or more of the taxpayer's total income is "material"; in such circumstances, gross negligence penalties are recommended. When asked for clarification by the Court, he stated that this had been the only consideration influencing his recommendation in Mr. Todd's case.
+[13] Mindful of the approach endorsed by Chief Justice Bowman in Farm Business Consultants Inc.[10], I am not satisfied that the Minister made his case for the imposition of gross negligence penalties. Although not sufficient to shield his 1998 taxation year from reassessment under subsection 152(4), Mr. Todd's belief that his tax preparer had accurately completed and filed his 1998 and 1999 returns provided a "viable and reasonable" alternative to the Minister's assumption that he acted deliberately to avoid the payment of tax on his commissions. While the mathematical analysis presented by Mr. Abou-Shalah was not without merit, it represented only one aspect of all the circumstances of the case. In view of such other facts as Mr. Todd's lack of business experience and his naïve reliance on those whose expertise seems to have been barely greater than his own, I am satisfied that there is sufficient evidence to warrant his being given the benefit of the doubt. That being said, Mr. Todd ought not to interpret my decision as an endorsement of the way he handled his business affairs. Unless he adopts better administrative practices and chooses with greater care the accounting and tax professionals upon whose advice he relies, he will no doubt have the pleasure of future encounters with the Canada Revenue Agency.
+[14] The appeals are allowed, without costs, and the reassessments are referred back to the Minister for reconsideration and reassessment on the basis that:
+1. Mr. Todd's failure to report his commission income of $12,000 in 1998 amounted to a misrepresentation within the meaning of subsection 152(4) thereby entitling the Minister to reassess the 1998 taxation year beyond the normal reassessment period;
+2. he understated his income by $12,000 in 1998 and $22,738.55 in 1999; and
+3. he did not knowingly, or in circumstances amounting to gross negligence omit his commissions for 1998 and 1999 in his returns so as to render him liable for gross negligence penalties under subsection 163(2) of the Act.
+Signed at Ottawa, Canada, this 26th day of August, 2005.
+"G. Sheridan"
+Sheridan, J.
+CITATION: 2005TCC573
+COURT FILE NO.: 2004-4338(IT)I
+STYLE OF CAUSE: Robert Todd v. H.M.Q.
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: August 17, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice G. Sheridan
+DATE OF JUDGMENT: August 26, 2005
+APPEARANCES:
+Agent for the Appellant:
+Jerry Findlay
+Counsel for the Respondent:
+Edward Sawa
+Korinda McLaine, Student-at-Law
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Paragraph 9(f) of the Reply to the Notice of Appeal.
+[2] Exhibit A-1.
+[3] Exhibit R-1.
+[4] Exhibit R-7.
+[5] 84 DTC 6247.
+[6] (supra).
+[7] Last name now forgotten and current whereabouts unknown.
+[8] Not H&R Block.
+[9] 95 DTC 200 (T.C.C.) at page 205.
+[10] (supra).

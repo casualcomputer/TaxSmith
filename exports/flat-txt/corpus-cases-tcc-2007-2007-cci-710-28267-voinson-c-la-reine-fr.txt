@@ -1,0 +1,113 @@
+Title: Voinson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28267/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-710-28267-voinson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-12-05
+
+# Voinson c. La Reine
+
+- Citation: 2007 CCI 710
+- Decision date: 2007-12-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2048, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Voinson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-12-05
+Référence neutre
+2007 CCI 710
+Numéro de dossier
+2007-2708(GST)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007-2708(GST)I
+ENTRE :
+LUC VOINSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 1er novembre 2007, à Montréal (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Brigitte Landry
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, pour la période du 1er août 2004 au 31 décembre 2005, dont l'avis daté du 15 novembre 2006 porte le numéro DE‑3944 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 5e jour de décembre 2007.
+« Alain Tardif »
+Juge Tardif
+Référence : 2007CCI710
+Date : 20071205
+Dossier : 2007-2708(GST)I
+ENTRE :
+LUC VOINSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de l'appel d'une cotisation en vertu de la partie IX de la Loi sur la taxe d'accise (la « LTA »), établie le 15 novembre 2006.pour la période du 1er août 2004 au 31 décembre 2005 et portant le numéro DE-3944.
+[2] Les faits sur lesquels s'est fondé le ministre du Revenu national (le « ministre ») pour établir la cotisation sont énumérés au paragraphe 18 de la réponse à l'avis d'appel. Ces faits sont les suivants :
+a) les faits admis ci-dessus;
+b) l'appelant était, pendant la période visée, un non‑inscrit aux fins de la partie IX de la Loi sur la taxe d'accise, L.R.C. (1985) c. E‑15 (ci‑après « LTA »);
+c) tel qu'allégué dans l'avis d'appel, l'appelant exploitait, durant la période en litige, une entreprise de rénovation et d'entretien;
+d) tel qu'allégué dans l'avis d'appel, le revenus bruts de l'appelant étaient de 17 110 $ en 2003 et de 44 861 $ en 2004;
+e) l'intimée a considéré qu'en 2003, les revenus bruts de l'appelant étaient de 17 110 $, soit 4 277,50 $ par trimestre;
+f) l'intimée a considéré qu'en 2004, les revenus bruts de l'appelant étaient de 44 861 $, soit 11 215,25 $ par trimestre;
+g) l'intimée a considéré que l'appelant n'était plus un petit fournisseur à compter du 1er août 2004 puisque la totalité des fournitures des 4 trimestres précédents celui débuté le 1er juillet 2004 totalisait plus de 30 000 $;
+h) dès lors, à compter du 1er août 2004, toutes les fournitures effectuées par l'appelant dans le cadre des activités commerciales de son entreprise exercées pendant la période visée constituaient des fournitures taxables pour lesquelles une taxe au taux de 7% sur la valeur de la contrepartie de la fourniture était payable par les acquéreurs de l'appelant qui devait la percevoir et la remettre aux représentants de l'intimée;
+i) l'intimée a considéré que l'appelant pouvait être un inscrit déterminé puisqu'il rencontrait les conditions prescrites;
+j) l'intimée a appliqué la méthode de comptabilité abrégée pour déterminer la taxe nette de l'appelant pour la période visée;
+[3] La question en litige est formulée par l'intimée comme suit :
+La question en litige consiste donc à savoir, si l'appelant a cessé d'être un petit fournisseur à compter du 1er août 2004 et a fait défaut de percevoir et de remettre la TPS sur les fournitures effectuées durant la période visée.
+[4] L'appelant, une personne fort sympathique, a expliqué avoir dû traverser une période extrêmement difficile. Il a dû faire face à de nombreux problèmes de santé. Très scolarisé, il a choisi de gagner sa vie en utilisant ses talents de menuisier plutôt qu'en comptant sur sa formation universitaire.
+[5] Après une période de turbulence ayant plusieurs causes, l’appelant a pris la sage décision de clarifier la gestion de ses affaires. Ainsi, il a pris l’initiative de déclarer des revenus d'entreprise pour les années 2003 et 2004; à la suite de sa déclaration, il a fait l'objet d'une cotisation établie à partir des chiffres que l'appelant a lui‑même déclarés.
+[6] L'appelant a expliqué qu'une partie des revenus qu'il s'avait déclarés pour l'année 2004 aurait sans doute dû être déclarée l'année précédente, en 2003, où les revenus déclarés avaient été de 17 110 $, alors que ceux de 2004 totalisaient 44 861 $, soit un total pour les deux années de 61 971 $, ce qui représente une moyenne quelque peu supérieure à 30 000 $, qui est le seuil à partir duquel un contribuable a l'obligation de s'inscrire. Dans une telle situation, l'appelant aurait, de toute évidence, échappé à la cotisation. Il voudrait par son appel refaire en quelque sorte rétroactivement sa déclaration pour éviter la cotisation.
+[7] En l'espèce, la cotisation a été établie à partir des hypothèses qui s'avéraient les plus avantageuses pour l'appelant, et cela, tant pour le capital, les intérêts et les pénalités, eu égard sans doute à l'aspect quelque peu particulier du dossier et au côté sympathique de l'appelant. En d'autres termes, la cotisation a été établie à partir des hypothèses s'avérant le plus avantageux pour l'appelant.
+[8] Cette même cotisation a cependant été établie en conformité avec les dispositions de la Loi, notamment les articles 123, 148, 165, 221, 225, 228, 240, 296 et 299 de la LTA.
+[9] Les arguments dont les fondements sont l'ignorance, l'incapacité liée à des problèmes de santé ou autres de nature à susciter une grande sympathie ne sont pas pertinents et ne peuvent être pris en considération quant au bien‑fondé d'une cotisation.
+[10] Malheureusement, il s'agit là d'éléments qui ne peuvent pas être pris en compte et cela, notamment pour des motifs d'équité à l'endroit de tous les autres contribuables canadiens.
+[11] Lorsqu'une personne décide de gagner sa vie en exploitant une entreprise ou, comme en l'espèce, en travaillant comme travailleur autonome, elle doit respecter toutes les lois et tous les règlements qui s'appliquent à son activité.
+[12] Lorsqu'une personne est incapable, soit pour cause de maladie ou par ignorance, de s'y conformer, elle doit tout simplement mandater quelqu'un d'autre de le faire pour elle.
+[13] En l'espèce, l'appelant, comme travailleur autonome, devait savoir que, si son chiffre d'affaires dépassait un certain seuil, il devait s'inscrire et devenir ainsi mandataire pour la perception des taxes établies par le législateur.
+[14] Même si l’appelant a affirmé avoir eu des raisons qui inspirent la sympathie pour avoir négligé de faire face à ses responsabilités fiscales et même si le tout a été tiré au clair à la suite de sa propre initiative, cela n’a aucun effet quant au bien‑fondé de la cotisation.
+[15] En effet, la cotisation est tout à fait conforme aux dispositions de la Loi. De plus, elle a été établie à partir des chiffres donnés par l’appelant lui‑même.
+[16] Pour ces raisons, je dois rejeter l'appel et confirmer le bien‑fondé de la cotisation étant donné que l'appelant a cessé d'être un petit fournisseur à compter du 1er août 2004 et a omis de percevoir et de verser la TPS sur les fournitures effectuées.
+Signé à Ottawa, Canada, ce 5e jour de décembre 2007.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2007CCI710
+Nº DU DOSSIER DE LA COUR : 2007-2708(GST)I
+INTITULÉ DE LA CAUSE : Luc Voinson et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 1er novembre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 5 décembre 2007
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Brigitte Landry
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant:
+Nom :
+Étude :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

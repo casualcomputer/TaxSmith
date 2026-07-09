@@ -1,0 +1,215 @@
+---
+title: "Reny v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/126634/index.do"
+last_modified: "2015-11-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 279"
+citation2: ""
+neutral_citation: "2015 TCC 279"
+decision_date: "2015-11-18"
+language: "en"
+item_id: "126634"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2685
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:06:42.494000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "adaaece6dedaea2d9a113cd923787df9b55c9c3f22f810a94b2c1b47a63f03f5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Reny v. The Queen
+
+- Citation: 2015 TCC 279
+- Decision date: 2015-11-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2685, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Reny v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-11-18
+Neutral citation
+2015 TCC 279
+File numbers
+2015-128(GST)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2015-128(GST)I
+BETWEEN:
+LUC RENY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on October 21, 2015, at Québec, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Isabelle Drouin-Lessard
+Counsel for the respondent:
+Eric Labbé
+JUDGMENT
+The appeal from the assessment made on March 21, 2014, under the Excise Tax Act for the reporting periods from October 1, 2009, to December 31, 2009; from October 1, 2010, to December 31, 2010; and from October 1, 2011, to December 31, 2011, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Canada, this 18th day of November 2015.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 29th day of December 2015
+Michael Palles, Translator
+Citation: 2015 TCC 279
+Date: 20151118
+Docket: 2015-128(GST)I
+BETWEEN:
+LUC RENY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The appellant brought an appeal before this Court, under the informal procedure, against an assessment made by Revenu Québec, acting as agent for the Minister of National Revenue (the Minister) under Part IX of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the ETA), dated March 21, 2014, for the reporting periods from October 1, 2009, to December 31, 2009; from October 1, 2010, to December 31, 2010; and from October 1, 2011, to December 31, 2011 (the period at issue).
+[2] Pursuant to the assessment dated March 21, 2014, the Minister is claiming a total of $5,169.65 from the appellant for net tax ($4,377), interest, and penalties for failing to file ($175.08).
+[3] The Minister made the assessment on the basis of, among other things, the following findings and assumptions of fact:
+(a) The appellant has been a drug dealer for many years;
+(b) On November 4, 2011, he was arrested in connection with an investigation by the Sûreté du Québec in the regional county municipality of Etchemins;
+(c)The appellant pleaded guilty to two counts of trafficking in narcotics and two counts of possession for the purpose of trafficking;
+(d) He was sentenced to one year's imprisonment;
+(e) The appellant never reported the income he earned from his drug dealing business;
+(f) Unable to access any accounting records kept by the appellant, the respondent used an alternative method to determine the appellant's income, namely, the net worth method, a recognized method that serves to uncover how much a taxpayer's wealth increases from one year to the next;
+(g) The net worth method was applied to the appellant only, as his ex-spouse did not pay for any household expenses when they lived together;
+(h) The auditor spoke to both the appellant and his ex-spouse as part of his audit of the appellant;
+(i) The respondent considered, among other things, the appellant's purchases, including several vehicles, pieces of furniture and immovables, as well as the tax paid on his other sources of income, his personal expenses and some unexplained withdrawals;
+(j) The amounts not reported by the appellant for the years audited are as follows:
+i) 2008: $15,671
+ii) 2009: $32,682
+iii) 2010: $25,501
+iv) 2011: $59,365
+(k) On the basis that the income was business income, the Minister assessed the appellant pursuant to the Excise Tax Act;
+(l) Given that he could be considered to be a small supplier, he was not assessed for 2008 and was assessed on only part of his income for 2009;
+(m) The amounts assessed are as follows:
+Period
+Nature of amendment
+Statutory basis for penalty
+Taxable amount
+GST
+From 01.01.09 to 21.12.09
+Unreported supplies
+280.1 ETA
+$2,682
+$134
+From 01.01.10 to 31.12.10
+Unreported supplies
+280.1 ETA
+$25,501
+$1,275
+From 01.01.11 to 31.12.11
+Unreported supplies
+280.1 ETA
+$59,365
+$2,968
+Total
+$4,377
+(n) The appellant was assessed a penalty under section 280.1 of the Excise Tax Act for failing to file his returns;
+[4] The appellant is challenging the validity of the assessment for the following reasons set out in paragraphs 9 to 13 of his notice of appeal:
+[translation]
+9. The net worth method used by the respondent does not take into account the expenses paid by Ms. Rainville, instead considering that only the appellant paid all the family's expenses;
+10. Ms. Rainville paid for, among other things, the groceries, telephone, cable, drugstore items, medical expenses, her clothing, the alternative medical care she received and the expenses related to her vehicle;
+11. The expenses paid by Ms. Rainville were thus paid out of the income added to the appellant by the respondent;
+12. Therefore, the income added to the appellant must be reduced by at least half, in light of the explanations above;
+13. Furthermore, the appellant received gifts from his father over the years at issue, which also reduces the business income added by the respondent;
+[5] Ms. Rainville testified at the hearing, and all the statements from her personal account at the National Bank of Canada for the period from October 6, 2008, to November 3, 2011, were filed in evidence. When questioned about the source of the deposits made to that account (other than the monthly support payments of $307.33 that she received from the father of her first daughter, the Canada child benefit in the amount of $442.77 a month, and the provincial family benefit in the amount of $812.25, payable quarterly), Ms. Rainville was unable to give any explanation whatsoever, stating that she could not remember. According to her, she did not have any other sources of income. She acknowledged that she had a massage studio in the basement of the appellant's home but claimed that she gave only two massages for pay, all in all. Ms. Rainville stated that she paid for her own personal expenses, such as her hairstyling, clothing, medical expenses, drugstore items, alternative medical care and expenses related to her vehicle. She also stated that she paid a share of the expenses related to the house's furnishings, the spa, the trailer and two cars, a Ford Mustang and a Hyundai Tucson, although she noted that the appellant had paid a larger share of these expenses than she had.
+[6] Ms. Rainville explained that she had kept the trailer, the Ford Mustang and the Hyundai Tucson after separating from the appellant in 2011. She stated that she had paid part of the cost of these items using a $21,000 line of credit that she had with her ex-spouse, although she could no longer recall any details about that line of credit. She also said that she owned the two vehicles because they were registered in her name.
+[7] According to her, all the expenses related to their home were paid by her ex‑spouse.
+[8] On cross-examination, counsel for the respondent filed in evidence two statements by Ms. Rainville, one dated March 21, 2013, and the other dated August 29, 2013.
+[9] In the statement dated March 21, 2013, Ms. Rainville stated as follows, and I quote:
+[translation]
+Further to a previous discussion with Dany Harvey and Claude Thériault, auditors for Revenu Québec, I freely, voluntarily and without pressure declare the following facts to be true: my family allowances, GST/QST refunds and support payments were not intended to pay the daily household expenses. Luc Reny alone contributed to the household expenses and paid for everything. Once a month, we spent the weekend at the Hôtel Québec, in Québec, and we dined out in restaurants twice a week, always at Luc's expense. I confirm that these facts occurred during the years audited.
+[10] In the statement dated August 29, 2013, Ms. Rainville stated as follows:
+[translation]
+Further to a previous discussion with Dany Harvey, an auditor for Revenu Québec, I freely, voluntarily and without pressure declare the following facts to be true: Luc Reny gave me a $3,000 gift certificate from Dr. Ferland’s dental clinic and paid for jewellery from jewellery stores Bijouterie du Lac and Bijouterie Mozart. In addition, the loan for the Hyundai Tucson was $8,000 and was paid off after selling the Harley. After that, I am not sure, but I think that we made a $5,000 cash down payment on the 2005 Wild Travel trailer. Regarding the furniture from J. Veilleux, I paid for about half of the furniture. As for the items from Dumoulin, I paid for the television only; Luc paid for the home theatre system.
+[11] On cross-examination, Ms. Rainville repeated that she did not work in the years 2008 to 2011 and that her only sources of income were her family allowances, tax refunds, support payments and Canadian tax benefits. She also stated that her ex-spouse did not give her money every month, that both parents paid for her daughter's clothes and school supplies, and that her ex-spouse paid for the groceries. Finally, she stated that she did not take any vacations down south when she lived with her ex-spouse.
+[12] The appellant, too, testified at the hearing. He explained that from 2008 to 2011, he worked as a roof truss installer for Toitures Fecteau. He earned $28,000 to $31,000 a year and was entitled to receive unemployment benefits for one to two months a year. He did not contest the estimated income from drug dealing, but he stated that he left the baggies of drugs with his ex-spouse, who in turn gave them to the clients who came to pick them up at the house. His ex-spouse collected the money from the clients and kept it for herself. According to the appellant, his ex-spouse did not reimburse him for the drugs sold.
+[13] According to the appellant, the household expenses were divided in half, and his ex-spouse used one of his credit cards because she did not have any in her own name. When they separated, his ex-spouse left with all the furniture in the house, except for the home theatre system, as well as the trailer and the two vehicles, of which each of the spouses had paid about half the cost. The Hyundai was financed and paid for using the joint line of credit.
+[14] Counsel for the appellant filed a statement dated November 4, 2011, that the appellant had made at the police station after being arrested for trafficking in narcotics and possession for the purpose of trafficking. The following is an excerpt from that statement:
+[translation]
+. . . Nancy does not work. I am the breadwinner. I clear about $450 a week. So that is why I decided to sell drugs to make ends meet and pay for a few little extras for my family. With that money, I paid for dinners in restaurants and treats. . . . As for the money, well, when my girlfriend and I separated on July 25, 2011, I had very little money. Nancy left with a trailer, a 2004 Mustang and a 2005 Jeep. She also left with all the household items. She really took everything. I had a couple of plates left. Everything was in her name as far as the vehicles are concerned. . . .
+[15] The appellant explained that during the years 2008 to 2011, he had received gifts from his father in the neighbourhood of $200 a month and $1,000 at Christmas.
+[16] On cross-examination, the appellant acknowledged that he had pleaded guilty to charges of trafficking in and possession of narcotics, was sentenced to one year's imprisonment and served two months and three weeks of that sentence before being released.
+[17] Counsel for the respondent filed an intake interview questionnaire that the appellant had filled out on March 6, 2013, while he was in prison. In section 2, entitled [translation] "Non-taxable income", the appellant stated that he had not received any gifts or inheritances. In section 4, entitled [translation] "Miscellaneous", the appellant stated that the 2005 Wild Travel trailer belonged to his ex-spouse, who had financed it with the National Bank's St-Prosper branch, and that the Hyundai Tucson and the 2004 Ford Mustang, which were registered in Nancy Rainville's name, had been paid for by him and Nancy.
+[18] Dany Harvey, an auditor at Revenu Québec, testified at the hearing, and his audit report and his calculation of the appellant's net worth were entered in evidence. Mr. Harvey noted that the appellant's income was lower than the value of his assets. He explained that he had not taken Ms. Rainville's assets into account when establishing the appellant's net worth because she had told him that the family's only income came from the appellant and that the appellant paid all the family's expenses. However, the payments made by the appellant in respect of the assets belonging to Ms. Rainville were added to the appellant's balance sheets. For example, in 2011, the cost of the furniture bought from Ameublements J. Veilleux totalled $11,844, but as Ms. Rainville stated that she had paid 50% of the bill, only $5,922 was added to the appellant's balance sheets for 2011. Another example concerns the 2005 Wild Travel trailer belonging to Ms. Rainville. The trailer was purchased in 2010 with a cash payment of $5,000. According to Ms. Rainville, the appellant contributed half of the cash payment. As the trailer is not included in the appellant's assets, the $2,500 payment he made was treated as an additional expense to the appellant's cost of living.
+[19] During Mr. Harvey's testimony, counsel for the respondent filed a document stating the income of the appellant's father for the 1995 to 2014 taxation years. For the years 2008 to 2011, the appellant's father's income ranged from $14,500 to $18,200 a year.
+Appellant's position
+[20] According to counsel for the appellant, the appellant's net worth was not computed correctly because the calculations do not take Ms. Rainville's assets and income into account. Ms. Rainville testified that she had paid for numerous household expenses and had made payments on her trailer and her two vehicles. Her reported income was clearly insufficient to cover all these expenses. She did not report her income from her massage studio or from the drug dealing at the house. Furthermore, Ms. Rainville was unable to explain where the deposits to her personal bank account came from.
+[21] The appellant's net worth is also inaccurate because the gifts from the appellant's father were not taken into account.
+Respondent's position
+[22] According to counsel for the respondent, only the expenses mentioned in paragraph 10 of the notice of appeal are at issue, namely, the groceries, telephone, cable, drugstore expenses, medical expenses, clothing, Ms. Rainville's alternative medical care and the expenses related to her vehicles.
+[23] In the respondent's view, the appellant did not provide any evidence regarding the amounts actually paid by Ms. Rainville for the expenses set out in the preceding paragraph, and the vehicles belonging to Ms. Rainville were excluded from the appellant's net worth. The appellant did not submit any evidence of the gifts from his father, and his father was not called as a witness to corroborate the gifts in question.
+Analysis
+[24] In this case, the use of the net worth method to determine the appellant's income in the years from 2008 to 2011 was entirely justified, given that the appellant did not report his income from drug dealing and that there are no financial records whatsoever regarding this business activity. The appellant did not dispute the estimated income from drug dealing.
+[25] Nor did the appellant dispute the attribution of all the drug dealing income to him alone. The quantity of narcotics seized when he was arrested was considerable, and he was the owner.
+[26] In the circumstances, the Minister has discharged his burden of proof, having established, on the basis of reliable data, a substantial discrepancy between the appellant's assets and his expenses that is both unexplained and unexplainable. The onus is therefore on the appellant to identify the source and non-taxable nature of his income.
+[27] In my opinion, all the evidence heard at the hearing shows, on a balance of probabilities, that during the relevant period the appellant earned significant amounts from trafficking in narcotics and that these activities represent the source of all the appellant's unreported taxable income.
+[28] The appellant alleges that the Minister miscalculated his net worth by failing to take into account certain expenses paid by Ms. Rainville. As no evidence that Ms. Rainville paid these expenses was filed at the hearing, this allegation by the appellant is based solely on the testimony given by Ms. Rainville at the hearing, which testimony completely contradicts her statement dated March 21, 2013, in which she stated that the appellant paid for all the household expenses, including trips to Québec and restaurant meals.
+[29] Moreover, Ms. Rainville was unable to explain where the money deposited in her personal bank account came from. Her income from her first daughter's support payments, Canada child benefits and provincial family benefits were clearly insufficient to cover the expenses listed in paragraph 10 of the notice of appeal. According to Ms. Rainville, she had no other sources of income. In the circumstances, the only plausible explanation is that the money deposited in Ms. Rainville's personal bank account came from her ex-spouse's illegal activities and that, in reality, he was the one who indirectly paid the household expenses.
+[30] Finally, the appellant's allegation that he had received gifts from his father must be rejected because the appellant did not submit any documentary evidence of the gifts or provide any testimony corroborating them. It is unlikely that the income of the appellant's father in the years 2008 to 2011 was sufficient to allow him to make such gifts to the appellant.
+[31] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 18th day of November 2015.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 29th day of December 2015.
+Michael Palles, Translator
+CITATION:
+2015 TCC 279
+COURT FILE NO.:
+2015-128(GST)I
+STYLE OF CAUSE:
+Luc Reny and Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+October 21, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+November 18, 2015
+APPEARANCES:
+Counsel for the appellant:
+Isabelle Drouin-Lessard
+Counsel for the respondent:
+Eric Labbé
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Isabelle Drouin-Lessard
+Firm:
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

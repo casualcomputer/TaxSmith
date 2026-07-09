@@ -1,0 +1,252 @@
+---
+title: "Castro c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521207/index.do"
+last_modified: "2024-01-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 3"
+citation2: ""
+neutral_citation: "2024 CCI 3"
+decision_date: "2024-01-17"
+language: "fr"
+item_id: "521207"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5659
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:36:42.515000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "33c58f132c380fa6afd0db53de67b1f5d458d7c4099a1b707daa212e54cdd36a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Castro c. Le Roi
+
+- Citation: 2024 CCI 3
+- Decision date: 2024-01-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5659, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Castro c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-01-17
+Référence neutre
+2024 CCI 3
+Numéro de dossier
+2021-1049(GST)G
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2021-1049(GST)G
+ENTRE :
+WILFREDO CASTRO,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu le 22 mars 2023, à Montréal (Québec)
+Devant : L'honorable juge Guy R. Smith
+Comparutions:
+Avocat de l’appelant:
+Me Richard Seers
+Avocats de l'intimé:
+Me Stéphanie Douville
+Me Pierre G. Zemaitis
+JUGEMENT
+Selon les motifs du jugement ci-joints, l’appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise pour la période du 1er janvier 2018 au 31 mars 2018 est rejeté. Les dépens sont adjugés en faveur de l’intimé.
+Signé à Ottawa, Canada, ce 17e jour de janvier 2024.
+« Guy Smith »
+Juge Smith
+Référence : 2024 CCI 3
+Date : 20240117
+Dossier : 2021-1049(GST)G
+ENTRE :
+WILFREDO CASTRO,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Smith
+I. INTRODUCTION
+[1] Wilfredo Castro, l’appelant dans la présente instance, interjette appel d’une cotisation établie par l’Agence du revenu du Québec (ci-après « le ministre ») au nom de l’intimé, le 30 novembre 2018, en vertu de la partie IX de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E-15 (ci-après la « LTA »), pour la période allant du 1er janvier 2018 au 31 mars 2018 (ci-après la « période visée »).
+[2] Dans le calcul de sa taxe nette, l’appelant a réclamé un rajustement pour une créance jugée irrécouvrable relativement à la cession d’un immeuble.
+[3] Le ministre a refusé de faire droit à la demande de rajustement aux motifs que l’appelant avait un lien de dépendance avec l’acquéreur de l’immeuble et que la taxe exigible à ce moment-là, n’avait pas été incluse dans le calcul de la taxe nette pour la période visée et n’avait pas été versée, et ce, contrairement aux exigences de l’article 231 et du paragraphe 231(1.1) de la LTA.
+[4] Pour les motifs qui suivent, l’appel doit être rejeté.
+II. LES QUESTIONS EN LITIGE
+[5] Les questions en litige sont les suivantes:
+Est-ce à bon droit que le ministre a refusé le rajustement au motif que l’appelant avait un lien de dépendance avec l’acquéreur de l’immeuble, soit la société 9221-2240 Québec Inc.(ci-après la « société »)?
+Est-ce à bon droit que le ministre a refusé le rajustement aux motifs que la taxe exigible pour la période visée n’avait pas été incluse dans le calcul de la taxe nette et n’avait pas été versée?
+III. LES DISPOSITIONS LÉGISLATIVES PERTINENTES
+[6] Les dispositions législatives pertinentes sont les suivantes :
+Partie IX de la Loi sur la taxe d’accise, (L.R.C. (1985), ch. E-15)
+Personnes liées, personnes associées, personnes distinctes et résidence
+Lien de dépendance
+126 (1) Pour l’application de la présente partie, les personnes liées sont réputées avoir un lien de dépendance. La question de savoir si des personnes non liées entre elles sont sans lien de dépendance à un moment donné en est une de fait.
+Personnes liées
+(2) Les paragraphes 251(2) à (6) de la Loi de l’impôt sur le revenu s’appliquent aux fins de déterminer si des personnes sont liées pour l’application de la présente partie.
+[…]
+SOUS-SECTION A
+Perception
+221 (1) La personne qui effectue une fourniture taxable doit, à titre de mandataire de Sa Majesté du chef du Canada, percevoir la taxe payable par l’acquéreur en vertu de la section II.
+[…]
+SOUS-SECTION B
+Versement de la taxe
+[…]
+Calcul de la taxe nette
+228 (1) La personne tenue de produire une déclaration en application de la présente section doit y calculer sa taxe nette pour la période de déclaration qui y est visée, sauf si les paragraphes (2.1) ou (2.3) s’appliquent à la période de déclaration.
+[…]
+Créance irrécouvrable — déduction de la taxe nette
+231 (1) Si un fournisseur a effectué une fourniture taxable, sauf une fourniture détaxée, pour une contrepartie au profit d’un acquéreur avec lequel il n’a aucun lien de dépendance, qu’il est établi que tout ou partie du total de la contrepartie et de la taxe payable relativement à la fourniture est devenu une créance irrécouvrable et que le fournisseur radie cette créance de ses livres comptables à un moment donné, le déclarant de la fourniture peut déduire, dans le calcul de sa taxe nette pour la période de déclaration qui comprend ce moment ou pour une période de déclaration postérieure, le montant obtenu par la formule suivante :
+A × B/C
+où :
+A représente la taxe relative à la fourniture;
+B le total de la contrepartie, de la taxe et de la taxe provinciale applicable, qui demeure impayé relativement à la fourniture et qui a été radié à ce moment à titre de créance irrécouvrable;
+C le total de la contrepartie, de la taxe et de la taxe provinciale applicable relatives à la fourniture.
+Conditions de déclaration et de versement
+231 (1.1) Le déclarant ne peut déduire un montant en application du paragraphe (1) relativement à une fourniture que si, à la fois :
+a) la taxe percevable relativement à la fourniture est incluse dans le calcul de la taxe nette indiquée dans la déclaration qu’il produit aux termes de la présente section pour la période de déclaration au cours de laquelle la taxe est devenue percevable;
+b) la totalité de la taxe nette à verser selon cette déclaration est versée.
+[…]
+Loi de l’impôt sur le revenu (L.R.C. (1985), ch. E-15)
+Lien de dépendance
+251 (1) Pour l’application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+b) un contribuable et une fiducie personnelle (sauf une fiducie visée à l’un des alinéas a) à e.1) de la définition de fiducie au paragraphe 108(1)) sont réputés avoir entre eux un lien de dépendance dans le cas où le contribuable, ou une personne avec laquelle il a un tel lien, aurait un droit de bénéficiaire dans la fiducie si le paragraphe 248(25) s’appliquait compte non tenu de ses subdivisions b)(iii)(A)(II) à (IV);
+c) dans les autres cas, la question de savoir si des personnes non liées entre elles n’ont aucun lien de dépendance à un moment donné est une question de fait.
+Définition de personnes liées
+2) Pour l’application de la présente loi, sont des personnes liées ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage, de l’union de fait ou de l’adoption;
+b) une société et :
+(i) une personne qui contrôle la société si cette dernière est contrôlée par une personne,
+(ii) une personne qui est membre d’un groupe lié qui contrôle la société,
+(iii) toute personne liée à une personne visée au sous-alinéa (i) ou (ii);
+[…]
+Sociétés associées
+256 (1) Pour l’application de la présente loi, deux sociétés sont associées l’une à l’autre au cours d’une année d’imposition si, à un moment donné de l’année :
+a) l’une contrôle l’autre, directement ou indirectement, de quelque manière que ce soit;
+b) la même personne ou le même groupe de personnes contrôle les deux sociétés, directement ou indirectement, de quelque manière que ce soit;
+[…]
+Contrôle de fait
+(5.11) Pour l’application de la présente loi, lorsqu’il s’agit de déterminer si un contribuable a, relativement à une société, une influence directe ou indirecte dont l’exercice entraînerait le contrôle de fait de la société :
+a) il est tenu compte de la totalité des critères qui sont applicables dans les circonstances;
+b) il n’est pas tenu compte uniquement de la question — qui n’a pas à être l’un des critères applicables à la détermination — de savoir si le contribuable a un droit ayant force exécutoire, ou la capacité, de faire modifier le conseil d’administration de la société ou les pouvoirs de celui-ci ou d’exercer une influence sur l’actionnaire ou les actionnaires qui ont ce droit ou cette capacité.
+[…]
+IV. LES FAITS PERTINENTS
+A. Mise en contexte
+[7] L’appelant et son épouse, Andréa Castro (ci-après, « les Castro »), sont des inscrits en vertu de la partie IX de la LTA.
+[8] Le 27 avril 2010, ils acquièrent de l’Université Concordia un immeuble situé au 1463, rue Bishop, à Montréal, Québec (ci-après « l’immeuble ») pour la somme de 3 250 000,00 $. L’immeuble est utilisé comme centre administratif, mais les Castro désirent entreprendre des rénovations majeures afin d’y aménager trente-deux (32) unités de logement locatif.
+[9] À ce moment-là, les Castro sont administrateurs et détiennent chacun cinquante pour cent (50%) des actions avec droit de vote de la société, constituée le 12 avril 2010. Celle-ci n’a pas d’activité commerciale et n’est pas inscrite en vertu de la LTA.
+[10] Ayant débuté le projet de rénovation de l’immeuble, les Castro ont besoin de financement additionnel afin de pouvoir poursuivre les travaux et c’est dans ce contexte qu’ils acceptent une lettre d’offre de financement datée du 15 décembre 2011 (ci-après la « lettre d’offre ») de la société Capital Corporation (« Capital »), un prêteur privé, pour un prêt de 3 400 000,00 $.
+[11] Selon les dispositions de la lettre d’offre, le prêt doit être garanti par une hypothèque de premier rang sur l’immeuble, par un certain nombre d’hypothèques collatérales et par un cautionnement personnel de l’appelant et de son épouse de 1 000 000 $ chacun. Il est prévu que l’immeuble doit être transféré à la société et que les actions avec droit de vote de celle-ci, alors détenues par les Castro, doivent faire l’objet d’une mise en gage au profit de Capital.
+[12] La lettre d’offre prévoit que la prise de garantie, la cession de l’immeuble et le déboursement des fonds doivent être faits devant le notaire désigné par Capital et que les travaux doivent être exécutés par l’entrepreneur général également désigné par Capital ou ses sociétés affiliées.
+[13] Par acte de cession notarié daté du 16 février 2012, les Castro cèdent l’immeuble à la société pour la somme de 1,00 $ (ci-après la « cession »).
+[14] En vertu du contrat de cession préparé par le notaire désigné, l’appelant et son épouse déclarent que l’immeuble est utilisé à titre résidentiel, qu’il n’a pas fait l’objet de rénovations majeures, qu’aucun crédit de taxe sur les intrants n’a été réclamé relativement à son acquisition, et que, par conséquent, la vente est exonérée de taxes. À cette même date, les documents de garantie sont exécutés, dont l’hypothèque mobilière avec dépossession des actions avec droit de vote de la société en faveur de Capital.
+[15] Cependant, le projet de rénovation connaît maintes difficultés. Capital entame une procédure pour la vente en justice de l’immeuble tandis que les Castro entament une poursuite en dommages-intérêts. Il y a éventuellement un règlement et le tout se solde par une entente signée le 10 décembre 2013 selon laquelle les Castro cèdent leurs actions avec droit de vote de la société à une nouvelle société contrôlée par Capital et ses sociétés affiliées, pour la somme de 1,00 $. En échange, ils sont libérés des garanties données en vertu de la lettre d’offre, dont les cautionnements personnels de 1 000,000 $. Quelque temps plus tard, ils signent une quittance en faveur de la société, laquelle est homologuée par la Cour du Québec le 5 mai 2016.
+B. La cotisation pour la taxe non déclarée
+[16] Entre-temps, le ministre entame une vérification et conclut que la cession était une fourniture taxable puisque l’immeuble ne servait pas à des fins résidentielles et les rénovations n’étaient pas suffisamment avancées pour permettre une telle utilisation. Le ministre conclut donc que les Castro, à titre d’inscrits, devaient percevoir la taxe calculée sur la juste valeur marchande de l’immeuble au moment de la cession, et ce en vertu du paragraphe 221(1) de la LTA.
+[17] Une cotisation est établie le 10 novembre 2016 pour la période visée à l’égard de la taxe que les Castro étaient tenus de déclarer dans leur déclaration trimestrielle, soit une taxe de 85 050,00 $ chacun, excluant le montant de la taxe provinciale (TVQ). Cette cotisation est portée en appel devant la présente Cour dans le dossier 2017-4748(GST)G. Cependant, un avis de désistement est déposé le 2 mars 2020, mettant ainsi fin au litige. Il en est de même de la cotisation pour la TVQ.
+C. Les démarches pour récupérer la taxe non déclarée
+[18] Ayant reçu la cotisation du 10 novembre 2016, les Castro entreprennent des démarches, à titre de mandataires du ministre, pour récupérer la TPS-TVQ relativement à la cession de l’immeuble le 16 février 2012.
+[19] Cependant, ces démarches sont infructueuses. Les procureurs de la nouvelle société soutiennent que la demande de remboursement est frivole puisque « le contrat notarié était un acte authentique faisant preuve que (…) le transfert de l’immeuble à la Société est une fourniture exonérée ». Les Castro reçoivent une dernière lettre le 28 février 2018, rejetant leur demande et c’est à ce moment-là qu’ils arrivent à la conclusion que la créance est irrécouvrable.
+[20] Dans sa déclaration de TPS pour la période visée, l’appelant déduit de sa taxe nette la somme de 81 250,00 $, soit le montant de la créance jugée irrécouvrable.
+[21] En établissant la cotisation du 30 novembre 2018 dont il est ici question, le ministre a refusé de donner droit à la demande de rajustement pour ladite créance.
+D. La perte en capital découlant de la vente des actions
+[22] Ayant conclu qu’ils avaient subi une perte en capital équivalant à la juste de valeur marchande des actions avec droit de vote de la société en raison de la transaction du 10 décembre 2013 et de la quittance du 19 avril, 2016, l’appelant et son épouse entreprennent des démarches auprès de l’Agence de revenu du Québec pour qu’elle reconnaisse la perte en capital relativement à la cession des actions de la société. Au mois de mars 2018, Revenu Québec reconnaît que l’appelant et sa conjointe ont subi une perte en capital de 1 780 777 $.
+V. ANALYSE
+[23] Avant qu’un contribuable puisse demander une déduction pour une créance jugée irrécouvrable en vertu de l’article 231 de la LTA, certaines conditions doivent être remplies. Dans le cas qui nous occupe, les conditions suivantes, telles que prévues aux paragraphes 231(1) et 231(1.1) de la LTA, font l’objet d’un différend entre les parties:
+Les deux parties à la transaction n’ont aucun lien de dépendance;
+Tout ou une partie de la contrepartie et de la taxe est devenu irrécouvrable;
+La taxe percevable relativement à la fourniture est incluse dans le calcul de la taxe nette dans la déclaration qui est produite pour la période de déclaration au cours de laquelle la taxe est devenue percevable;
+La totalité de la taxe nette à verser selon cette déclaration est versée.
+[24] Ces conditions sont toutes obligatoires et cumulatives, de sorte que le non-respect de l’une d’entre elles constitue un obstacle à la déduction en question : Equinox Realty Ltd. c. La Reine, 1997 CanLII 105 (CCI) (par. 7) (décision « Equinox ») et 9267-9075 Québec Inc. c. La Reine, 2020 CCI 53 (par. 42) (décision « 9267-9075 »).
+A. Le lien de dépendance
+[25] Selon l’appelant, la cession de l’immeuble à la société était une condition essentielle de la lettre d’offre de financement donnant lieu à un contrat de prêt.
+[26] Puisqu’ils étaient obligés d’effectuer la cession et « de consentir une hypothèque mobilière avec dépossession sur les actions », les Castro soutiennent qu’ils ont perdu le contrôle de droit et de fait de la société parce qu’ils ont été privés « de leurs véritables pouvoirs décisionnels et donc de leur contrôle effectif au sein même de la Société. »
+[27] L’intimé nie que les Castro aient perdu le contrôle de droit ou le contrôle de fait de la société puisqu’ils étaient actionnaires majoritaires au moment de la cession et la convention de prêt prévoyait qu’ils conservaient leur droit de vote et leur droit aux dividendes. Selon l’intimé, « il subsistait un lien de dépendance entre l’acquéreur et le fournisseur lors de la vente du 16 février 2012 » au sens des paragraphes 126(1) et 126(2) de la LTA et l’appelant « n’a pas réussi à repousser la présomption édictée à l’article 251(1) de la Loi sur les impôts à l’effet que des personnes liées sont réputées avoir entre elles un lien de dépendance. »
+[28] Pour déterminer si des personnes sont liées, le paragraphe 126(1) de la LTA prévoit que « les personnes liées sont réputées avoir entre elles un lien de dépendance ». Le paragraphe 126(2) prévoit ensuite que les paragraphes 251(2) à (6) de la Loi de l’impôt sur le revenu (L.R.C. (1985), ch. E-15) (la « LIR ») s’appliquent pour « déterminer si des personnes sont liées pour l’application de la présente. »
+[29] Le sous-alinéa 251(2)b) de la LIR prévoit notamment que « sont des personnes liées ou des personnes liées entre elles » (…) « une société » et « i) une personne qui contrôle la société si cette dernière est contrôlée par une personne » ou « ii) une personne qui est membre d’un groupe lié qui contrôle la société » ou encore « iii) toute personne liée à une personne visée au sous-alinéa i) ou ii. »
+[30] Le paragraphe 251(4) de la LIR définit l’expression “groupe lié” comme un “groupe de personnes dont chaque membre est lié à chaque autre membre du groupe”. Comme l’appelant et sa conjointe sont mariés, ils sont des personnes liées en vertu de l’alinéa 251(2)a) de la LIR. Ils constituent donc un groupe lié au sens du paragraphe 251(4) de la LIR.
+[31] Selon la jurisprudence, si la Cour devait conclure que des personnes sont liées, cette disposition crée une présomption « irréfutable » ou même « irréfragable » qu’ils ont un lien de dépendance : Simard c. Canada (ministre du Revenu national – M.R.N.) [1994] A.C.I. no 1202 (par. 6) (décision « Simard ») et Lash c. Canada (ministre du Revenu national – M.R.N.) [2004] A.C.I. no 2004 (par. 9) (décision « Lash »).
+[32] Ainsi, si l’appelant et son épouse contrôlaient la société, ensemble ou individuellement, ils étaient tous deux liés à la Société au sens de la loi.
+[33] La notion de « contrôle » a été revue dans l’arrêt Besse Syndics inc. c. Canada, 2021 CAF 115, où la Cour d’appel fédérale a indiqué ce qui suit :
+[22] Les critères de contrôle de droit et de contrôle de fait visent tous deux à déterminer quelle personne exerce un contrôle sur la composition du conseil d'administration d’une société, et donc sur la société elle-même (Buckerfield’s Limited c. Minister of National Revenue, 1964 CanLII 1187 (CA EXC), 64 DTC 5301 [Buckerfield’s Limited]; Silicon Graphics au par. 67). [...]
+[23] La différence entre ces deux critères se limite à l’étendue des facteurs pouvant être pris en considération afin de déterminer qui contrôle une société donnée (McGillivray aux par. 47 et 48). Il est bien établi que le contrôle de droit réside entre les mains de ceux ou celles qui ont le pouvoir de nommer les membres du conseil d’administration. En règle générale, ce sont les actionnaires majoritaires. Cependant, certains documents peuvent modifier ou restreindre leur pouvoir. L’analyse du contrôle de droit porte ainsi sur toute restriction interne – dans les actes constitutifs de la société ou dans une convention unanime des actionnaires – au pouvoir de ces actionnaires d’élire les membres du conseil d’administration ou de limiter la capacité du conseil d’administration de gérer les affaires de la société (Duha Printers (Western) Ltd. c. Canada, 1998 CanLII 827 (CSC), [1998] 1 R.C.S. 795 [Duha Printers] aux par. 36 et 37 (…)
+(Non surligné dans l’original)
+[34] Cette décision confirme que le contrôle de droit réside entre les mains des personnes qui peuvent nommer les membres du conseil d’administration, en l’occurrence l’appelant et son épouse. À mon avis, le contrat de prêt et la mise en gage des actions ne peuvent constituer des documents pouvant modifier ou restreindre leur pouvoir de nommer les membres du conseil d’administration.
+[35] Tel que l’enseignent les professeurs Aurore Benadiba et Jacques Deslauriers dans « Titre II – Les hypothèques conventionnelles », Les sûretés au Québec, 2e éd., Montréal (QC), Wilson Lafleur, 2018, 295, à la page 399 :
+1120. Le débiteur conserve le droit de propriété dans le bien gagé (art. 2733 C.c.Q.). Par exemple, même en les hypothéquant avec dépossession, un actionnaire conserve la propriété de ses actions. Les restrictions auxquelles est assujetti le transfert de certaines actions ne s’appliquent pas à leur mise en gage, le titre de propriété n’en étant pas transféré. De là le maintien du droit de vote du débiteur qui aurait donné des actions en gage à moins que la dette ne soit pour le prix d’acquisition de ces actions et que le contrat de vente ne contienne une clause à cet effet.
+(Non surligné dans l’original)
+[36] Le contrôle de fait n’est pas pertinent à cette analyse et donc il n’est pas nécessaire de savoir si Capital avait « une influence directe ou indirecte dont l’exercice entraînerait le contrôle de fait de la société », selon les termes énoncés au paragraphe 256(5.11) de la LIR.
+[37] En dépit du contrôle exercé par Capital, comme relaté par les Castro lors de leur témoignage, la Cour doit conclure que ces derniers constituaient un groupe lié puisqu’ils possédaient 100% des actions avec droit de vote de la société. Ils étaient ainsi tous deux liés à la société en vertu du sous-alinéa 251(2)b)(ii) de la LIR.
+[38] Ils sont donc réputés avoir un lien de dépendance avec la société en vertu de l’article 126 de la LTA et cette conclusion suffit, à elle seule, pour disposer de l’appel. Je vais néanmoins revoir les conditions restantes.
+B. La créance jugée irrécouvrable
+[39] L’appelant maintient que la taxe nette qu’il aurait dû percevoir au moment de la cession et qu’il a reconnue par l’avis de désistement déposé dans le dossier d’appel 2017-4748(GST)G est devenue irrécouvrable et qu’il était en droit de la radier de ses livres comptables pour la période visée.
+[40] Bien que l’intimé n’admet pas que la dette était irrécouvrable, la Cour est d’avis que l’appelant et son épouse n’avaient pas à épuiser toutes les voies de recours contre Capital pour conclure que la créance était bel et bien irrécouvrable.
+[41] D’ailleurs l’intimé a reconnu que les Castro avaient droit à une perte en capital en raison de la cession de leurs actions pour une contrepartie de 1,00 $. La Cour est d’avis que cela suffit pour conclure que la créance en question était irrécouvrable au sens de l’article 231 de la LTA.
+C. Les conditions prévues au paragraphe 231(1.1)
+[42] Les deux autres conditions sont prévues au paragraphe 231(1.1) de la LTA, soit que la taxe ait été incluse dans le calcul de la taxe nette indiqué dans la déclaration pour la période visée et que la taxe ait été versée.
+[43] Comme l’indiqué les décisions Equinox et 9267-9075 susmentionnées, il s’agit de conditions essentielles. Puisqu’il la taxe nette exigible n’a pas été déclarée et n’a pas été versée, l’appelant n’a pas droit à la déduction réclamée.
+VI. CONCLUSION
+[44] Le paragraphe 231(1) de la LTA vise à prévenir une situation où il y a une fourniture taxable et, selon la disposition, « tout ou une partie de la contrepartie et de la taxe payable » n’est pas payé par l’acquéreur de la fourniture.
+[45] Si la créance est jugée irrécouvrable et radiée de ses livres comptables, l’inscrit peut demander une déduction dans le calcul de sa taxe nette. Autrement dit, dans l’éventualité où l’inscrit n’est pas payé, en tout ou en partie, et que la créance est radiée de ses livres comptables, il peut réclamer un rajustement.
+[46] Cependant, le paragraphe 231(1.1) impose comme conditions que « la taxe percevable relativement à la fourniture (…) pour la période de déclaration au cours de laquelle la taxe est devenue percevable » soit incluse dans le calcul de la taxe nette et que « la totalité de la taxe nette » soit versée. En fin de compte, ces dispositions permettent à l’inscrit de réclamer un remboursement de la taxe nette qui a été déclarée et versée, mais qui est devenue irrécouvrable.
+[47] Dans cette instance, les Castro ont été mal avisés quant à leur obligation de percevoir la taxe lors de la cession du 16 février 2012. Ils n’ont pas déclaré la taxe nette et celle-ci n’a pas été versée. Ce n’est que plusieurs années plus tard, lorsque la cotisation pour la taxe percevable est devenue définitive, qu’ils ont tenté de recouvrer la créance auprès de Capital, l’actionnaire subséquent de la société.
+[48] Je ne crois pas que le législateur, en créant la déduction à l’article 231 de la LTA, souhaitait la rendre disponible aux inscrits qui se retrouvent dans la situation des Castro. Ajoutons à cela que l’élargissement de la déduction aux situations semblables à celle-ci pourrait avoir des conséquences importantes. Il serait trop facile de se soustraire à l’obligation de payer la taxe s’il suffisait de ne pas l’inclure dans sa déclaration et ensuite d’attendre plusieurs années que les autorités fiscales établissent une cotisation, uniquement pour réclamer une déduction à ce moment-là parce que le passage des années a rendu la créance irrécouvrable.
+[49] La situation qui a été exposée par les Castro est certainement malencontreuse et il est manifeste qu’ils ont été manipulés par leur partenaire d’affaires et mal avisés par le notaire désigné par le prêteur. Malheureusement, l’erreur de droit, quelle que soit sa source, ne peut constituer une justification valable pour donner droit à la demande de rajustement en vertu du paragraphe 231(1) de la LTA.
+[50] Pour ces motifs, l’appel doit être rejeté.
+Signé à Ottawa, Canada, ce 17e jour de janvier 2024.
+« Guy Smith »
+Juge Smith
+RÉFÉRENCE:
+2024 CCI 3
+Nº DU DOSSIER DE LA COUR:
+2021-1049(GST)G
+INTITULÉ DE LA CAUSE:
+WILFREDO CASTRO ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE:
+Le 22 mars 2023
+MOTIFS DE JUGEMENT PAR:
+L'honorable juge Guy R. Smith
+DATE DU JUGEMENT:
+Le 17 janvier 2024
+COMPARUTIONS:
+Avocat de l’appelant:
+Me Richard Seers
+Avocats de l'intimé:
+Me Stéphanie Douville
+Me Pierre G. Zemaitis
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant:
+Nom:
+Me Richard Seers
+Cabinet:
+Richard Seers Avocat Inc.
+Pour l’intimé:
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada

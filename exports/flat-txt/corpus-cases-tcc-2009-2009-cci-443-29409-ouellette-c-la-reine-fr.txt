@@ -1,0 +1,119 @@
+Title: Ouellette c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29409/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-443-29409-ouellette-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-09-17
+
+# Ouellette c. La Reine
+
+- Citation: 2009 CCI 443
+- Decision date: 2009-09-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6961, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ouellette c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-17
+Référence neutre
+2009 CCI 443
+Numéro de dossier
+2007-3789(GST)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2007-3789(GST)G
+2007-3790(GST)G
+ENTRE :
+JOSÉE OUELLETTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 24 août 2009, à Montréal (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelante :
+Me Jean-Pierre Gagné
+Avocat de l'intimée :
+Me Gérald Danis
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation pour la période du 1er janvier 2002 au 31 décembre 2003, établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 11 mai 2006, est rejeté avec dépens, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 17e jour de septembre 2009.
+« François Angers »
+Juge Angers
+Référence : 2009 CCI 443
+Date : 20090917
+Dossiers : 2007-3789(GST)G
+2007-3790(GST)G
+ENTRE :
+JOSÉE OUELLETTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] L'appelante interjette appel d'une cotisation établie le 11 mai 2006, en vertu de la Loi sur la taxe d'accise (la « Loi »), pour la période du 1er janvier 2002 au 31 décembre 2003. Il faut préciser ici que l'appelante a déposé deux avis d'appel visant chacune des années en question. Puisqu'un seul avis d'appel était suffisant pour interjeter son appel, je fais droit à la demande de l'intimée et je rejette l'appel 2007-3790(GST)G. L'avis d'appel du dossier 2007-3789(GST)G couvre donc la période visée par l'avis de cotisation.
+[2] L'appelante a donc été cotisée à la suite d'une vérification faite par un agent de l'intimée, pour ne pas avoir déclaré les fournitures taxables qu'elles a effectuées dans le cadre d'activités commerciales se rapportant à la vente de stupéfiants pour laquelle elle aurait dû percevoir et verser au receveur général la taxe sur les produits et services (« TPS »).
+[3] Le 5 novembre 2003, plus de 300 policiers appartenant à 12 organisations policières ont procédé à 38 perquisitions auprès des membres de différentes groupes liés aux Hells Angels de la région de l'Outaouais. Cette vaste opération a permis d'arrêter 31 personnes. Cette opération, surnommée « Ouragan », avait fait suite à une enquête amorcée en 2002 par l'Escouade régionale mixte (ERM) de l'Outaouais. Le 15 décembre 2004, les policiers de l'ERM procédaient à la troisième phase de l'opération Ouragan qui visait l'arrestation de six personnes liées au trafic de stupéfiants dans la MRC Antoine Labelle, dont l'appelante.
+[4] La preuve recueillie par les policiers de l'ERM provient d'agents informateurs civils. C'est de l'un de ceux-ci que l'appelante achetait ses stupéfiants pour la revente. Un tableau des achats effectués par l'appelante durant la période en question a été déposé en preuve (pièce I-1). L'appelante s'est approvisionnée en stupéfiants de cet agent informateur à partir du 30 mars 2002 jusqu'au 23 septembre 2003. En 2002, elle a acheté des stupéfiants pour la somme de 139 400 $ et, en 2003, pour la somme de 173 915 $.
+[5] Toujours selon la preuve avancée par l'intimée, les stupéfiants achetés par l'appelante ont été vendus selon les prix de revente ayant cours dans ce domaine d'activité illégale, c'est-à-dire en tenant compte d'une marge de profit de 20%. L'appelante a donc effectué des ventes lui rapportant 167 280 $ au cours de l'année se terminant le 31 décembre 2002 et 208 698 $ au cours de l'année se terminant le 31 décembre 2003. La taxe nette impayée se chiffre à 26 318,46 $.
+[6] L'appelante a reconnu avoir plaidé coupable à des accusations de complot pour commettre un acte criminel, soit le trafic de cocaïne, et d'avoir fait le trafic de cocaïne et de cannabis durant la période en question. Elle a également reconnu avoir écopé d'une peine d'emprisonnement.
+[7] L'intimée a également imposé à l'appelante des pénalités vu la nature et la source de l'omission, soit la non-déclaration et le non-versement des taxes, de même que des intérêts vu le temps qui s'est écoulé à partir de la naissance de l'obligation du versement.
+[8] Au début du procès, l'appelante a informé la Cour qu'elle limitait son opposition à la cotisation à deux points, à savoir que son obligation de percevoir la taxe en tant que mandataire du Ministre du Revenu était viciée par le fait qu'elle agissait sous la contrainte de menaces et, subsidiairement, qu'elle n'a pas vendu les quantités de cocaïne que prétend l'intimée.
+[9] L'appelante a témoigné au sujet de sa relation tumultueuse avec son ex-conjoint, relation qui a duré 17 ans. En 2000, elle a mis fin à cette relation en raison du fait que ce dernier était un joueur compulsif, qu'il consommait de la drogue et qu'il était parfois violent. Environ deux ans plus tard, elle fut accostée par un dénommé André Bernier qui était connu comme étant le fournisseur de drogue de Mont‑Laurier et dont la vraie identité en tant qu'agent informateur n'a été découverte par l'appelante qu'après sa mise en état d'arrestation en décembre 2004.
+[10] Selon l'appelante, André Bernier lui aurait demandé de rembourser la dette de son ex-conjoint envers lui soit une somme de 3 800 $. Lorsque l'appelante a refusé de lui rembourser cette dette, il aurait alors déclaré à l'appelante, en regardant l'enfant de cette dernière, qu'« un œil, c'est vite parti ». Il aurait aussi menacé verbalement l'appelante et aurait brandi un bâton et une arme à feu en lui expliquant ce qui arrive lorsque quelqu'un ne paie pas.
+[11] Elle a donc accepté de vendre de la drogue pour payer la dette de son ex-conjoint. Au cours de cette aventure qui a duré presque deux ans, elle a reçu l'aide de sa conjointe qui, elle aussi, plaida coupable à des accusations similaires.
+[12] Toujours selon l'appelante, Bernier ne voulait pas qu'elle arrête ses activités. Elle déclare lui avoir remis la somme de 14 000 $ en 2003, à raison de paiements de 100 $ ou 200 $ par semaine, de même qu'un montant de 5 000 $ ou 5 500 $ qu'elle a reçu de la SAAQ à la suite d'un accident d'automobile.
+[13] L'appelante a admis en contre-interrogatoire être en contact avec son ex-conjoint en raison des enfants. Elle a cependant avoué ne pas savoir où il était de 2000 à 2002.
+[14] Durant la période en question, l'appelante rencontrait Bernier une fois par semaine. Il lui avait désigné une taverne où elle se rendait 4 à 5 fois par semaine pour vendre la drogue. Elle reconnaît y avoir mis ce qu'elle a appelé un « 3½ de coupe » et qu'elle répartissait la drogue dans de petits sachets de 14 grammes. Ses ventes lui permettaient de réaliser un profit.
+[15] La conjointe de l'appelante est venue confirmer que l'appelante a été victime de menaces de la part de Bernier en raison du fait que son ex-conjoint ne payait pas ses dettes et que Bernier avait exigé que l'appelante lui rembourse l'argent qui lui était dû.
+[16] Il s'agit donc de déterminer si la cotisation du 11 mai 2006 a été établie conformément aux dispositions applicables de la partie IX de la LTA et si, en raisons des circonstances invoquées par l'appelante, son obligation de percevoir la taxe payable par l'acquéreur et de la verser à titre de mandataire du ministre est viciée.
+[17] Cette cour a déjà statué que des revenus provenant de la culture de marijuana étaient des revenus imposables en vertu de la Loi de l'impôt sur le revenu et que les fournitures de marijuana constituent des « fournitures taxables » aux fins de la Loi (voir John Molenaar c. la Reine, 2003 CCI 468). Il en va donc de soi pour la vente de tous autres types de drogues ou substances illicites. En vertu de la Loi, une « activité commerciale » se définit comme suit:
+« activité commerciale » Constituent des activités commerciales exercées par une personne :
+a) l'exploitation d'une entreprise (à l'exception d'une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l'ensemble des associés sont des particuliers), sauf dans la mesure où l'entreprise comporte la réalisation par la personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial (à l'exception de quelque projet ou affaire qu'entreprend, sans attente raisonnable de profit, un particulier, une fiducie personnelle ou une société de personnes dont l'ensemble des associés sont des particuliers), sauf dans la mesure où le projet ou l'affaire comporte la réalisation par la personne de fournitures exonérées;
+c) la réalisation de fournitures (sauf des fournitures exonérées) d'immeubles appartenant à la personne, y compris les actes qu'elle accomplit dans le cadre ou à l'occasion des fournitures.
+Le mot « entreprise » est défini comme suit:
+« entreprise » Sont compris parmi les entreprises les commerces, les industries, les professions et toutes affaires quelconques avec ou sans but lucratif, ainsi que les activités exercées de façon régulière ou continue qui comportent la fourniture de biens par bail, licence ou accord semblable. En sont exclus les charges et les emplois.
+[18] Le mot « fourniture » est défini sous réserve des articles 133 et 134 comme étant la livraison de biens ou la prestation de services, notamment par vente, transfert, troc, échange, louage, licence, donation ou aliénation et une fourniture taxable en est une effectuée dans le cadre d'une activité commerciale. Le paragraphe 221(1) de la Loi prévoit que la personne qui effectue une fourniture taxable doit, à titre de mandataire de Sa Majesté du chef du Canada, percevoir la taxe payable par l'acquéreur en vertu de la section II et de verser au receveur général le montant positif de sa taxe nette en vertu du paragraphe 228(2) de la Loi. Une personne qui effectue une telle fourniture est tenue d'être inscrite (paragraphe 240(1) de la Loi).
+[19] Il ne fait aucun doute que les activités auxquelles s'est livré l'appelante sont de nature commerciale et qu'elle effectuait une fourniture taxable au sens de la Loi. Elle devait donc percevoir la taxe payable et verser le montant positif de la taxe nette au receveur général. Ce n'est pas parce qu'une activité commerciale est illégale qu'une personne peut se soustraire de l'obligation que lui impose toute loi de nature fiscale. Les autorités fiscales n'ont pas à tenir compte de la légalité d'une activité (voir 65302 British Columbia Limited c. Canada, [1999] 3 R.C.S. 804 C.S.C.).
+[20] L'appelante était donc, durant la période en question, mandataire de Sa Majesté du chef du Canada et elle avait l'obligation de percevoir et de verser la TPS au receveur général. Je ne peux souscrire à l'argument de son avocat qui soutient qu'en raison des contraintes imposées par Bernier, la relation mandant et mandataire prescrite par la Loi était viciée par ce fait même. Il est difficile de croire que l'appelante ait agi sous la contrainte durant toute la période en question. Elle « coupait » et répartissait la cocaïne pour réaliser des profits et elle a avoué utiliser le profit de ses ventes pour payer son essence et ses boissons gazeuses de même que pour rembourser Bernier. Où était son ex-conjoint de 2000 à 2002 et pourquoi aurait-elle payé 14 000 $ à Bernier pour une dette de 3 800 $? Cette histoire est parfumée d'invraisemblances minant la crédibilité de l'appelante.
+[21] Il en va de même en ce qui concerne la preuve avancée par l'appelante quant à la quantité de stupéfiants qu'elle a vendue. La seule preuve avancée par l'appelante est à l'effet que ses ventes de stupéfiants ne lui auraient rapporté que 8 500 $ (14 000 $ – 5 500 $), soit une partie du montant versé à Bernier. L'appelante a été incapable de donner plus de précisions sur ses ventes contrairement à l'intimée qui a fourni une preuve très bien documentée de tous les achats de stupéfiants faits par l'appelante pour les fins de revente.
+[22] L'appelante ne s'est donc pas acquittée du fardeau de la preuve. L'appelante n'a pas fourni non plus aucune preuve pouvant lui donner droit à des crédits de taxe sur intrants. Les intérêts et les pénalités sont amplement justifiés en l'espèce.
+[23] L'appel est donc rejeté avec frais.
+Signé à Ottawa, Canada, ce 17e jour de septembre 2009.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2009 CCI 443
+Nºs DES DOSSIERS DE LA COUR : 2007-3789(GST)G et 2007-3790(GST)G
+INTITULÉ DE LA CAUSE : Josée Ouellette et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 24 août 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 17 septembre 2009
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jean-Pierre Gagné
+Avocat de l'intimée :
+Me Gérald Danis
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Jean-Pierre Gagné
+Cabinet : Me Jean-Pierre Gagné S.A.
+Avocat et fiscaliste
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

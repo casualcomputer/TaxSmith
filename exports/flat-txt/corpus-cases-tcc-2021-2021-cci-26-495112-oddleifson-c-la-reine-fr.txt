@@ -1,0 +1,197 @@
+Title: Oddleifson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/495112/index.do
+Corpus path: corpus/cases/tcc/2021/2021-cci-26-495112-oddleifson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2021-03-31
+
+# Oddleifson c. La Reine
+
+- Citation: 2021 CCI 26
+- Decision date: 2021-03-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4625, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Oddleifson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-03-31
+Référence neutre
+2021 CCI 26
+Numéro de dossier
+2017-2382(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-2382(IT)G
+ENTRE :
+ENID D. ODDLEIFSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue par vidéoconférence le 8 mars 2021, à Ottawa (Ontario).
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Avocat de l’appelante :
+Me Jeff D. Pniowsky
+Avocate de l’intimée :
+Me Ainslie Schroeder
+ORDONNANCE
+La requête de l’intimée en vue d’obtenir l’annulation des appels est accueillie. Les appels interjetés par l’appelante à l’encontre des nouvelles cotisations établies pour les années d’imposition 2005, 2006, 2007, 2010 et 2011 sont annulés par la présente.
+Les dépens sont adjugés à l’intimée conformément au tarif B de l’annexe II des Règles de la Cour canadienne de l’impôt (procédure générale).
+Signé à Ottawa, Canada, ce 31e jour de mars 2021.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 17e jour de mai 2021.
+François Brunet, réviseur
+Référence : 2021 CCI 26
+Date : 20210331
+Dossier : 2017-2382(IT)G
+ENTRE :
+ENID D. ODDLEIFSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Graham
+[1] Enid Oddleifson a demandé des crédits d’impôt pour des dons qu’elle affirme avoir faits par le truchement d’un abri fiscal connu sous le nom de la Global Learning Gifting Initiative (« la GLGI »). Le ministre du Revenu national a établi de nouvelles cotisations à l’égard de Mme Oddleifson, dans lesquelles il a refusé ces crédits. Mme Oddleifson a interjeté appel à l’encontre de ces refus.
+[2] L’intimée a déposé une requête en annulation de ces appels, au motif que Mme Oddleifson avait renoncé à son droit d’interjeter appel auprès de la Cour à l’encontre des nouvelles cotisations.
+A. Résumé des faits
+[3] Des dizaines de milliers d’autres contribuables ont demandé des crédits d’impôt pour des dons prétendument faits à la GLGI. Le ministre a établi de nouvelles cotisations à l’égard de ces contribuables, dans lesquelles il a refusé ces crédits. Beaucoup d’entre eux ont déposé des avis d’opposition.
+[4] Certains de ceux qui avaient déposé des avis d’opposition ont interjeté appel auprès de la Cour. Quatre causes types ont été sélectionnées pour être entendues.
+[5] Le ministre a envoyé une lettre aux autres contribuables qui avaient déposé un avis d’opposition (la « lettre de présentation des options »). Dans cette lettre, le ministre propose aux contribuables plusieurs options.
+[6] L’une de ces options consiste à accepter une offre de règlement et à signer une renonciation à son droit d’appel. Un contrat à cet effet est joint à la lettre de présentation des options. J’appellerai ce contrat et la renonciation correspondante le « contrat de règlement ».
+[7] Une autre option consiste à signer un contrat par lequel on accepte de se soumettre à l'issue des causes types et, en conséquence, à renoncer à son droit d’appel si le ministre établit de nouvelles cotisations en conformité avec cette issue. Un contrat en ce sens est joint à la lettre de présentation des options. J’appellerai ce contrat et la renonciation correspondante le « contrat d’acceptation d’être lié ». Plusieurs contribuables ont signé le contrat d’acceptation d’être lié. Mme Oddleifson en fait partie.
+[8] Au final, seules deux causes types ont été entendues. Dans la décision Mariano c. La Reine (« la décision Mariano »), le juge Pizzitelli a rejeté les appels [1] .
+[9] Le ministre a établi en conséquence de nouvelles cotisations à l’égard des contribuables qui avaient signé le contrat d’acceptation d’être lié. Plusieurs de ces contribuables ont néanmoins interjeté appel auprès de la Cour. Mme Oddleifson en fait partie.
+B. Abdalla c. La Reine
+[10] La Couronne a déposé des requêtes en annulation des appels de 27 contribuables qui avaient signé le contrat d’acceptation d’être lié. Dans sa décision intitulée Abdalla c. La Reine, le juge en chef Rossiter a accueilli les requêtes de la Couronne [2] .
+[11] En se fondant sur l’arrêt de principe de la Cour suprême du Canada en matière de renonciations (Saskatchewan River Bungalows Ltd. c. La Maritime, Compagnie d’assurance-vie [3] ), ainsi que sur le paragraphe 169(2.2) de la Loi de l’impôt sur le revenu, le juge en chef a conclu que pour que la renonciation d’un contribuable à son droit d’appel soit valide :
+(a) la renonciation doit avoir été faite par écrit;
+(b) le contribuable doit avoir eu pleine connaissance de ses droits;
+(c) il doit y avoir eu une intention consciente et sans équivoque d’abandonner ces droits.
+[12] Le juge en chef a analysé minutieusement la lettre de présentation des options, le contrat de règlement et le contrat d’acceptation d’être lié. Il en a conclu ce qui suit :
+(a) les contribuables ont pu choisir entre quatre options;
+(i) accepter d’être liés par l'issue des causes types,
+(ii) accepter l’offre de règlement,
+(iii) ne rien faire et courir le risque que le ministre prenne d’autres mesures sans préavis,
+(iv) interjeter appel directement auprès de la Cour;
+(b) cette lettre comportait suffisamment d’explications adéquates pour que l'intéressé ait pleine connaissance des droits auxquelles il renonçait en signant le contrat d’acceptation d’être lié.
+[13] Comme l’a observé le juge en chef [4] :
+La lettre […] était, nul doute, a) mal rédigée; b) mal formulée; et c) erronée jusqu’à un certain point, car elle mentionnait deux options pour l’appelante, alors qu’il y en avait plutôt quatre. Néanmoins, il est évident à la lecture de la lettre en son entier qu’elle comporte suffisamment d’explications adéquates pour qu’une personne ait la pleine connaissance des droits auxquels elle renonce. La lettre comprend des renseignements contextuels expliquant le problème en lien avec le numéro d’abri fiscal utilisé à des fins d’identification seulement. On fait également référence à des dossiers semblables et à des décisions rendues par la Cour d’appel fédérale. Il y a des précisions quant à la vérification menée par l’ARC et le refus de toutes les déductions effectuées en lien avec le programme de dons de GLGI auquel participait l’appelante.
+L’ARC poursuit, dans [la lettre de présentation des options], en abordant les déductions d’impôts pour dons de l’appelante […] et la façon dont les dons ont été effectués. L’auteur commet ensuite une erreur en mentionnant seulement deux options, alors que la lettre comprend plutôt quatre options. Cependant, ces options font référence, à plusieurs reprises et comme soutenu par l’intimée, à une renonciation aux droits d’appel. L’option 1 est intitulée [traduction] « Avis de confirmation et renonciation aux droits d’appel » et ce paragraphe fait référence à la renonciation aux droits d’opposition et d’appel, laquelle devait être transmise dans les 30 jours de la lettre. Les mots « référence » et « renonciation » y sont répétés tout au long et elle comprend une explication détaillée de l’option 1. L’option 2, laquelle n’a pas été décrite comme telle, est la mention selon laquelle l’appelante peut interjeter directement appel à la Cour canadienne de l’impôt au cas où elle ne souscrit pas à l’option 1. L’option 3, identifiée comme l’option 2, était de refuser l’option 1 et de signer et retourner l’acceptation et la renonciation aux droits d’opposition et d’appel. L’option 4 était plutôt de refuser les options 1 et 3, avec la conséquence que l’ARC procéderait eu égard à son opposition sans autre préavis.
+[14] Le juge en chef en a conclu ce qui suit [5] :
+[…] La lettre aurait pu être mieux rédigée, comme mentionné précédemment. Elle comprend quelques erreurs, mais à la lecture de celle-ci dans son ensemble, ainsi que des formulaires qui y sont joints, j’ai du mal à conclure que l’appelante ne comprenait pas pleinement qu’elle renonçait à ses droits.
+[15] Compte tenu de tout ce qui précède, le juge en chef a conclu que Mme Abdalla avait renoncé à son droit d’appel auprès de la Cour. En conséquence, il a annulé l’appel de Mme Abdalla.
+[16] Mme Abdalla a interjeté appel de la décision du juge en chef auprès de la Cour d’appel fédérale. La Cour d’appel fédérale a confirmé cette décision [6] . Elle a conclu que le juge en chef Rossiter avait correctement cerné les exigences juridiques en matière de renonciation et qu’il était « pleinement loisible » à la Cour de conclure que les critères étaient satisfaits [7] .
+[17] Mme Abdalla a demandé l’autorisation d’interjeter appel à la Cour suprême du Canada. Sa demande a été rejetée [8] .
+C. Application de la jurisprudence Abdalla à l’appel de Mme Oddleifson
+[18] Comme je l’ai indiqué ci-dessus, la décision Abdalla a consacré trois critères auxquels la renonciation au droit d’appel d’un contribuable doit satisfaire pour être valide. La renonciation doit avoir été faite par écrit, le contribuable doit avoir eu la pleine connaissance de ses droits et il doit y avoir eu intention consciente et sans équivoque d’abandonner ses droits.
+[19] Mme Oddleifson a signé le contrat d’acceptation d’être lié. Ce contrat comprend une renonciation au droit d’appel. Elle admet par conséquent que le premier critère est satisfait.
+[20] Mme Oddleifson affirme que le deuxième critère n’est pas satisfait. Elle affirme ne pas avoir eu pleine connaissance de ses droits.
+[21] Si je conclus que le deuxième critère est satisfait, Mme Oddleifson admet que le troisième critère est lui aussi satisfait. Elle aura eu l’intention consciente et sans équivoque d’abandonner ses droits. Par conséquent, je suis appelé à décider si Mme Oddleifson avait pleine connaissance de ses droits.
+D. Fardeau de la preuve et contre-interrogatoire
+[22] Mme Oddleifson soutient qu’il incombe à l’intimée de démontrer que Mme Oddleifson avait pleine connaissance de ses droits. J'abonde dans son sens.
+[23] Cela étant dit, je souscris également à l’analyse de la lettre de présentation des options, du contrat de règlement et du contrat d’acceptation d’être lié qu’a faite le juge en chef Rossiter, ainsi qu’à sa conclusion selon laquelle une personne ayant lu les documents aurait eu la pleine connaissance des droits auxquels elle renonçait [9] .
+[24] En ce qui concerne la présente requête, Mme Oddleifson a été confrontée à ce que l’on qualifie parfois de fardeau tactique. Elle connaissait les conclusions du juge en chef exposées dans la décision Abdalla. Elle savait que la Cour d’appel fédérale avait confirmé ces conclusions et que je souscrirais probablement moi aussi à ces conclusions. Par conséquent, même si le fardeau de la preuve incombait à l’intimée, Mme Oddleifson savait que l’intimée parviendrait certainement à démontrer ce fait en se fondant simplement sur les documents eux-mêmes. Par conséquent, même si Mme Oddleifson n’était pas tenue de démontrer quoi que ce soit, elle risquait de ne pas obtenir gain de cause si elle ne prenait pas la décision tactique de présenter suffisamment d’éléments de preuve à l'appui de sa thèse.
+[25] Je soulève ce point, car l’avocat de Mme Oddleifson a mentionné à plusieurs reprises ce qu’il estime être une omission de la part l’intimée de contre-interroger Mme Oddleifson au sujet de son témoignage rendu par affidavit. Il fait valoir qu’à moins de conclure que le témoignage de Mme Oddleifson est [traduction] « fondamentalement impossible à croire », je dois le retenir. Je ne souscris pas à ces arguments pour deux raisons.
+[26] Premièrement, je ne suis pas tenu de retenir un témoignage au simple motif qu’ils n’a pas été attaqué au cours de son contre-interrogatoire. Je retiens les témoignages que je juge crédibles et fiables. Le contre-interrogatoire est un moyen permettant à une partie opposée d'attaquer la crédibilité ou la fiabilité d’un témoignage, mais l’absence de contre-interrogatoire au sujet d’un affidavit ne signifie pas que la partie opposée admet la véracité de son contenu [10] , et cela ne me contraint en aucun cas à retenir le témoignage du déposant.
+[27] Deuxièmement, comme je l’ai signalé plus haut, l’intimée a déjà présenté suffisamment d’éléments de preuve pour obtenir gain de cause. Dans la mesure où le témoignage de Mme Oddleifson comprend des lacunes, il n’incombe pas à l’intimée de signaler les éléments manquants lors d’un contre-interrogatoire. Si Mme Oddleifson souhaitait que je me fonde sur des éléments de preuve pour appuyer sa thèse, elle aurait dû les intégrer à son affidavit. Elle ne peut pas me demander de déduire la vérité à partir d’éléments de preuve manquants en raison d’une absence alléguée de contre-interrogatoire.
+E. La pleine connaissance des droits de Mme Oddleifson
+[28] Comme je l’ai signalé précédemment, le juge en chef Rossiter a conclu que la lettre de présentation des options avait offert aux contribuables quatre options : accepter l’offre de règlement, accepter d’être lié aux causes types, interjeter appel directement auprès de la Cour ou ne rien faire.
+[29] Dans ses observations écrites, l’avocat de Mme Oddleifson fait valoir que [traduction] « [l]oin d’une “pleine connaissance” de ses droits, l’appelante s’était manifestement méprise en pensant n’avoir que la moitié de ses droits, c’est-à-dire n’avoir que deux possibilités, et non les quatre qui sont prévus par la loi [11] ». Les éléments de preuve ne corroborent pas cet argument.
+[30] Dans son affidavit, Mme Oddleifson ne mentionne pas son droit d’interjeter appel directement auprès de la Cour. Ce droit est prévu par l’alinéa 169(1)b) de la Loi de l’impôt sur le revenu et il est mentionné dans la lettre de présentation des options. La lettre de présentation des options est rédigée précisément comme suit [12] :
+[traduction]
+Si vous souhaitez refuser l’offre, l’étape suivante du règlement de ce contentieux consiste à porter l’affaire devant la Cour canadienne de l’impôt (CCI). Vous pouvez interjeter appel directement auprès de la CCI, car plus de 90 jours se sont écoulés depuis que vous avez présenté votre opposition.
+[31] Si Mme Oddleifson souhaitait que je conclue qu’elle n’avait pas pour autant conscience de son droit d’interjeter appel auprès de la Cour, elle aurait dû présenter des éléments de preuve me permettant de conclure ainsi. Il n’incombe pas à l’intimée de défendre les intérêts de Mme Oddleifson à sa place lors d’un contre-interrogatoire. En l’absence d’éléments de preuve en la matière, je conclus que Mme Oddleifson avait pleine connaissance de ce droit.
+[32] Je tiens à être clair. Je ne tire pas une conclusion défavorable à l’égard de Mme Oddleifson pour le motif qu’elle n’a pas présenté ces éléments de preuve et je ne conclus pas qu’elle savait avoir le droit d’interjeter appel directement auprès de la Cour. J’examine simplement les éléments de preuve dont je dispose. Mme Oddleifson a lu la lettre de présentation des options. Il est indiqué dans cette lettre qu’elle pouvait interjeter appel directement auprès de la Cour. Mme Oddleifson n’a pas affirmé ne pas avoir su qu’elle disposait de cette option et elle n’a pas non plus affirmé avoir laissé passer ou mal compris ce point. Elle n’a rien dit. Compte tenu de tout ce qui précède, je conclus qu’il est plus probable que Mme Oddleifson a eu connaissance de l’option consistant à interjeter appel directement auprès de la Cour.
+[33] Dans son affidavit, Mme Oddleifson déclare [traduction] « [qu’a]ucune “troisième option” n’était exposée […] pour rejeter l’offre de l’ARC sans pour autant accepter d’être liée [13] ». Son propre témoignage contredit pourtant sa thèse. Ailleurs dans son affidavit, elle mentionne une partie de la lettre de présentation des options dans laquelle il est précisément expliqué les conséquences si [traduction] « […] vous décidez de rejeter l’offre et refusez d’être liée […] » [14] . En outre, Mme Oddleifson décrit longuement son impression à l’égard de la troisième option, le fait qu’elle l’a envisagée avant de prendre sa décision et les raisons pour lesquelles cette option lui a déplu [15] . Compte tenu de ce qui précède, je conclus que Mme Oddleifson savait qu’elle disposait de l’option de ne rien faire.
+[34] Le véritable différend de Mme Oddleifson concerne sa compréhension des conséquences de l’option de ne rien faire. Dans la lettre de présentation des options, il est indiqué que si un contribuable refuse l’offre de règlement ou refuse d’être lié par les causes types, l’ARC demandera à la Cour de lier l’opposition de cette personne aux causes types, sans préavis. La lettre de présentation des options prévient le destinataire des conséquences financières éventuelles de cette procédure. Mme Oddleifson affirme avoir cru en toute honnêteté que l’ARC prendrait les mesures qu’elle menaçait de prendre [16] .
+[35] Bien que l’ARC n’ait pas exposé dans sa lettre de présentation des options les mesures qu’elle envisageait de prendre, il n'est pas controversé entre les parties que l’ARC prévoyait de déposer une demande en application du paragraphe 174(1) de la Loi de l’impôt sur le revenu. Le paragraphe 174(1) permet au ministre de demander à la Cour de se prononcer sur une question s’il est d'avis qu’elle se rapporte à des cotisations relatives à plusieurs contribuables et qu’il s’agit d’une question tenant à des opérations sensiblement semblables. L’alinéa 174(3)b) dispose que les contribuables désignés dans une demande fondée sur l’article 174 peuvent être joints à un appel en cours à la discrétion du juge qui instruit la demande.
+[36] Le ministre a fait exactement ce qu’il avait indiqué. Environ 17 000 contribuables qui s’étaient opposés à leurs nouvelles cotisations concernant la GLGI n’ont accepté ni l’offre de règlement ni d’être liés par l'issue des causes types. Le ministre a déposé une demande aux termes du paragraphe 174(1) afin d’essayer de lier ces 17 000 personnes aux autres contribuables qui ont interjeté appel directement auprès de la Cour.
+[37] Le ministre a finalement retiré sa demande et, dans la décision Le Ministre du revenu national c. McMahon [17] , j’ai adjugé les dépens à certains contribuables que la ministre avait nommés dans sa demande. Mme Oddleifson se fonde largement sur les paragraphes 41 à 45 de ma décision. Dans ces paragraphes, je conclus que [traduction] « […] le ministre a commis une erreur en décidant de présenter cette demande. Il aurait dû lui sembler évident et manifeste qu’il ne serait jamais possible d’y donner suite [18] ». J’ai ajouté que [traduction] « [s]i le ministre avait tenu compte du fait que tous les contribuables nommés dans la demande auraient le droit de participer au processus, il n’aurait jamais présenté cette demande » [19] .
+[38] Mme Oddleifson soutient, en substance, que l’ARC aurait dû la prévenir que la demande que le ministre menaçait de présenter en application du paragraphe 174(1) était vouée à l’échec; sans ce renseignement, Mme Oddleifson n’avait pas la pleine connaissance de ses droits. Je rejette cet argument, pour plusieurs raisons.
+[39] Premièrement, il n’est pas indiqué dans la lettre de présentation des options que l’ARC parviendrait à lier l’opposition de Mme Oddleifson aux causes types. Il est indiqué que [traduction] « l’ARC envisage de demander à la CCI de lier l’opposition [de Mme Oddleifson] aux causes types, comme le lui permet la Loi ». Mme Oddleifson a conclu par elle-même que l’ARC obtiendrait gain de cause. L’ARC a annoncé exactement ce qu’elle avait l’intention de faire. Elle a présenté une demande.
+[40] Deuxièmement, le droit que Mme Oddleifson devait comprendre était son droit de ne rien faire. La lettre de présentation des options fait état de ce droit. L’ARC est allée plus loin en informant Mme Oddleifson de ses intentions si cette dernière exerçait ce droit. Aucun élément de preuve ne permet de conclure que l’ARC a fait preuve de mauvaise foi en agissant de la sorte et encore moins qu’elle a essayé d’induire en erreur Mme Oddleifson. Mme Oddleifson ne peut pas reprocher à l’ARC de ne pas l’avoir prévenue que la demande était vouée à l’échec, pas plus qu’elle ne peut lui reprocher de ne pas l’avoir prévenue que la Couronne obtiendrait finalement gain de cause dans l’affaire Mariano.
+[41] Troisièmement, au moment où l’ARC a rédigé la lettre de présentation des options, elle ne connaissait pas le nombre de contribuables qui accepteraient l’offre de règlement ou le nombre de ceux qui accepteraient d’être liés au résultat des causes types. Par conséquent, même si l’ARC estimait qu’il lui serait impossible d’aller de l’avant en application du paragraphe 174(1) si le nombre de contribuables était trop élevé, au moment où elle a envoyé la lettre de présentation des options, elle ne pouvait pas savoir que la demande concernerait un grand nombre de contribuables.
+[42] Tout cela est suffisant pour me permettre de conclure que Mme Oddleifson avait la pleine connaissance de ses droits et, par conséquent, que la renonciation qu’elle a signée est valide. Toutefois, l’avocat de Mme Oddleifson a souligné plusieurs autres points dans ses observations écrites. Même s’il m’a assuré les avoir soulevés afin de [traduction] « donner du contexte », j’estime néanmoins devoir y répondre.
+[43] Dans la lettre de présentation des options, il est indiqué que l’offre de règlement vaut pendant 30 jours. Il est également demandé à Mme Oddleifson d’informer l’ARC dans un délai de 30 jours de sa décision d’être liée ou non aux causes types. Aucun délai n’est évidemment imposé en ce qui concerne les options de ne rien faire ou d’interjeter appel directement auprès de la Cour. Dans la décision Abdalla, le juge en chef Rossiter a conclu qu’un délai de 30 jours était adéquat pour demander des conseils [20] . J'abonde dans son sens.
+[44] Mme Oddleifson soutient que ce délai de 30 jours lui a fait subir une pression la contraignant à prendre une décision sans obtenir de conseils au préalable. La lettre de présentation des options est datée du 10 décembre 2014. Dans son affidavit, Mme Oddleifson déclare s’être sentie dans l’incapacité de faire appel à un avocat et de bénéficier de ses conseils sous 30 jours, en particulier pendant la période des vacances de Noël [21] . Elle n’a pas indiqué, toutefois, avoir essayé d’obtenir les conseils d’un professionnel ou s’être trouvée dans l’incapacité de le faire.
+[45] L’époux de Mme Oddleifson est décédé en avril 2013. Dans son affidavit, Mme Oddleifson indique qu’en temps normal, elle aurait compté sur son époux pour gérer l’affaire de la GLGI ou pour choisir un avocat, mais elle n’indique pas s’être trouvée dans l’incapacité de le faire par elle-même. Au contraire, il ressort des éléments de preuve qu’au cours des 20 mois qui ont suivi le décès de son époux et précédé la réception de la lettre de présentation des options, Mme Oddleifson a déposé deux avis d’opposition à l’encontre de deux nouvelles cotisations qu’elle avait reçues concernant la GLGI. Qu’elle l’ait fait seule ou avec l’aide d’un conseiller, elle avait manifestement les moyens de gérer l’affaire de la GLGI par elle-même [22] .
+[46] Mme Oddleifson se définit comme une personne simple, mais les éléments de preuve ne vont pas dans ce sens. Au moment où elle a signé le contrat d’acceptation d’être lié, Mme Oddleifson avait une cinquantaine d’années. Elle était titulaire d’un baccalauréat de l’Université du Manitoba et elle exploitait une entreprise de vente de produits de santé et de bien-être. Mme Oddleifson a déclaré un revenu d’entreprise net compris entre 39 911 $ et 105 972 $ au cours des années visées par l’appel. Par le passé, elle s’était représentée elle-même lors d’interactions avec l’ARC concernant son entreprise.
+[47] Dans son affidavit, Mme Oddleifson ne mentionne pas non plus de mesures qu’elle aurait éventuellement prises pour essayer d’obtenir une prorogation du délai de 30 jours. Les registres de l’ARC ne mentionnent aucune communication avec Mme Oddleifson concernant la lettre de présentation des options, que ce soit avant ou après l’échéance.
+[48] Pour finir, Mme Oddleifson ne mentionne pas non plus dans son affidavit de mesures qu’elle aurait éventuellement prises pour essayer d’obtenir des conseils après la fin du délai de 30 jours. J’aurais compris la situation différemment si Mme Oddleifson avait signé le contrat d’acceptation d’être lié en pensant être sous pression, puis si, après avoir cherché à obtenir les conseils d’un professionnel, elle avait conclu avoir commis une erreur. Dans ce cas, si Mme Oddleifson avait communiqué avec l’ARC pour résilier son contrat, j’aurais été bien plus disposé à retenir sa thèse. Or, ce n’est pas ce qui s’est produit en l’espèce. Mme Oddleifson a fait un choix. Elle s’est tenue à ce choix. Elle doit en assumer les conséquences.
+[49] Compte tenu de tout ce qui précède, dans la mesure où Mme Oddleifson se fonde sur le délai de réponse de 30 jours pour alléguer que sa renonciation est invalide, je conclus, d’après les éléments de preuve qui m’ont été présentés, que le délai de réponse dans les 30 jours était adéquat.
+F. Conclusion
+[50] Compte tenu de tout ce qui précède, la requête de l’intimée est accueillie. Les appels interjetés par l’appelante à l’encontre des nouvelles cotisations établies pour les années d’imposition 2005, 2006, 2007, 2010 et 2011 sont annulés.
+G. Dépens
+[51] Les dépens sont adjugés à l’intimée. L’intimée a indiqué à la Cour demander les dépens en application du tarif B de l’annexe II des Règles de la Cour canadienne de l’impôt (procédure générale). Les dépens lui sont adjugés en conséquence.
+Signé à Ottawa, Canada, ce 31e jour de mars 2021.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 17e jour de mai 2021.
+François Brunet, réviseur
+RÉFÉRENCE :
+2021 CCI 26
+NO DU DOSSIER DE LA COUR :
+2017-2382(IT)G
+INTITULÉ :
+ENID D. ODDLEIFSON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 8 mars 2021
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge David E. Graham
+DATE DE L’ORDONNANCE :
+Le 31 mars 2021
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Jeff D. Pniowsky
+Avocate de l’intimée :
+Me Ainslie Schroeder
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Jeff D. Pniowsky
+Cabinet :
+Thompson Dorfman Sweatman LLP
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] 2015 CCI 244.
+[2] 2017 CCI 222.
+[3] [1994] 2 R.C.S. 490.
+[4] Décision Abdalla (CCI), par. 19 et 20.
+[5] Décision Abdalla (CCI), par. 21.
+[6] 2019 CAF 5.
+[7] Arrêt Abdalla (CAF), par. 4.
+[8] 2019 CarswellNat 2472.
+[9] Il n'est pas controversé entre les parties qu’il n’y a aucune différence importante entre la lettre de présentation des options, le contrat d’acceptation d’être lié et le contrat de règlement qu’a reçus Mme Abdalla, d’une part, et ceux qu’a reçus Mme Oddleifson, d’autre part.
+[10] Voir Exeter c. Canada (Procureur général), 2015 CAF 260, par. 9.
+[11] Observations écrites de l’appelante, par. 4.
+[12] Affidavit de Norman Yuan (8 octobre 2019), pièce H.
+[13] Affidavit d’Enid Oddleifson daté du 25 octobre 2019, par. 25.
+[14] Affidavit d’Enid Oddleifson, par. 22.
+[15] Affidavit d’Enid Oddleifson, par. 23 et 24.
+[16] Affidavit d’Enid Oddleifson, par. 23.
+[17] 2020 CCI 104.
+[18] Décision McMahon, par. 41.
+[19] Ibid., par. 45.
+[20] Abdalla (CCI), par. 22.
+[21] Affidavit d’Enid Oddleifson, par. 20.
+[22] Les éléments de preuve n’apportent aucun renseignement concernant le fait que Mme Oddleifson a rempli ou non, au cours de ces 20 mois, sa déclaration de revenu de 2013 et celle de son époux pour l’année du décès de ce dernier. Par conséquent, je ne peux tirer aucune conclusion concernant le fait qu’elle ait été en mesure de gérer ou non ses affaires fiscales en général.

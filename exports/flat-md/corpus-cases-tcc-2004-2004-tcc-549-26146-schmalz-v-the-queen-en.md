@@ -1,0 +1,150 @@
+---
+title: "Schmalz v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26146/index.do"
+last_modified: "2004-08-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 549"
+citation2: ""
+neutral_citation: "2004 TCC 549"
+decision_date: "2004-08-27"
+language: "en"
+item_id: "26146"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4141
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:06:54.128000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "85530826d71b944408ae210c1f5b07ef160b359165d1d5fa6542556d6ac4833a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Schmalz v. The Queen
+
+- Citation: 2004 TCC 549
+- Decision date: 2004-08-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4141, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schmalz v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-08-27
+Neutral citation
+2004 TCC 549
+File numbers
+2002-4041(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC549
+Date: 20040827
+Docket: 2002-4041(IT)I
+BETWEEN:
+MARKUS SCHMALZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(delivered orally from the Bench at
+Calgary, Alberta, on June 17, 2004)
+[1] This appeal pursuant to the Informal Procedure was heard at Calgary, Alberta on June 15, 2004. The Appellant was the only witness.
+[2] Paragraphs 5 to 16 inclusive of the Reply to the Notice of Appeal outline the matters in dispute. They read:
+5. By Notice of Assessment dated August 17, 2001, the Minister assessed the Appellant for the 2000 taxation year to, inter alia:
+a) Disallow the Appellant's claim for an ABIL of $135,707.25; and
+b) Disallow, in the calculation of the Appellant's tax payable, tax deductions at source of $2,247.53.
+6. On October 24, 2001, the Appellant filed a Notice of Objection on the basis that:
+a) Tax deductions at source of $2,247.53 should be allowed; and
+b) The Appellant should be allowed an ABIL of $66,110.00, calculated as follows:
+Proceeds
+$ --.
+Due to shareholder
+99,176.00
+Less - Share Capital
+(10.00)
+Business Investment Loss
+$99,166.00
+X 2/3
+ABIL
+$66,110.00
+7. By Notice of Reassessment dated July 22, 2002, the Minister reassessed the Appellant for the 2000 taxation year to allow, in the computation of his tax payable, tax deductions at source of $2,247.53.
+8. In so assessing the Appellant for the Appellant's 2000 taxation year, the Minister relied on the following assumptions of fact:
+a) On June 4, 1996, MUC was incorporated as 698494 Alberta Ltd.
+b) MUC was engaged in the business of forestry operations.
+c) The Appellant was married to Ursula Schmalz in the Appellant's 2000 taxation year.
+d) At all material times, the Appellant held 38% of the voting shares of MUC.
+e) At all material times, Ursula Schmalz held 38% of the voting shares of MUC.
+f) At all material times, Clinton Roszell held 25% of the voting shares of MUC.
+g) The Appellant did not deal with MUC at arm's length.
+h) On October 14, 1997, the Appellant executed a personal guarantee in respect of MUC's indebtedness to Canadian Western Bank (the "Appellant's Guarantee").
+i) Ursula Schmalz executed a personal guarantee of the indebtedness of MUC to Canadian Western Bank.
+j) The Appellant did not pay any amount under the Appellant's Guarantee in respect of the indebtedness of MUC to Canadian Western Bank.
+k) No debt was owing to the Appellant by MUC at the end of the Appellant's 2000 taxation year in respect of the indebtedness of MUC to Canadian Western Bank.
+l) No debt was owing to the Appellant by MUC at the end of the Appellant's 2000 taxation year in respect of any legal obligation of the Appellant to pay amounts in respect of the indebtedness of MUC.
+m) No debt was owing to the Appellant by MUC at the end of the Appellant's 2000 taxation year in respect of personal funds loaned by the Appellant to MUC as a shareholder loan or in respect of any other outstanding shareholder loan or outstanding shareholder loans made by the Appellant to MUC.
+n) No debt was owing to the Appellant by MUC at the end of the Appellant's 2000 taxation year in respect of any other loan or transfer of funds by the Appellant to MUC.
+o) If a debt was owing to the Appellant by MUC at the end of the Appellant's 2000 taxation year, which is denied, no debts were established by the Appellant to have become bad debts in respect of MUC in the Appellant's 2000 taxation year.
+p) If the Appellant incurred a loss in the Appellant's 2000 taxation year, which is denied, such a loss was not in respect of the disposition of a debt or other right to receive an amount that was acquired by the Appellant for the purpose of gaining or producing income from a business or property or as consideration for the disposition of capital property to a person the Appellant was dealing with at arm's length.
+q) The Appellant's ordinary business during the Appellant's 2000 taxation year did not include the lending of money.
+r) MUC did not cease permanently to carry on business in the Appellant's 2000 taxation year.
+s) MUC was dissolved on December 2, 2001.
+B. ISSUES TO BE DECIDED
+9. The issue are:
+a) Whether, in computing income for the Appellant's 2000 taxation year, the Appellant is entitled to deduction in respect of an ABIL calculated in respect of a business investment loss of $99,166.00; and
+b) If the Appellant is entitled to deduction in respect of an ABIL for the Appellant's 2000 taxation year, which is denied, which period the business investment loss was incurred and, as such, which fraction applies to the Appellant under paragraph 38(c) of the Act.
+C. STATUTORY PROVISIONS RELIED ON
+10. He relies on sections 3, 38, 39, 110.6 and 251, subsections 50(1), 125(7), and 248(1), paragraphs 20(1)(p), and subparagraph 40(1)(g)(ii) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the "Act").
+D. GROUNDS RELIED ON AND RELEIF SOUGHT
+11. He submits that the Appellant did not incur a business investment loss of $99,166.00 and is therefore not entitled to an allowable business investment loss of $66,110.00 pursuant to paragraphs 38(c) and 39(1)(c) of the Act.
+12. He respectfully submits that the Appellant did not have a capital loss in the Appellant's 2000 taxation year; therefore, there is no loss to consider in the calculation of a business investment loss; therefore, paragraph 39(1)(c) of the Act is not applicable to the Appellant in respect of the Appellant's 2000 taxation year.
+13. He further submits that no debt was owing to the Appellant by MUC at the end of the Appellant's 2000 taxation year; therefore, the Appellant had no debt that could be established by the Appellant to have become a bad debt in respect of MUC within the meaning of subsection 50(1) of the Act in the Appellant's 2000 taxation year.
+14. He further submits that, even if a debt was owing to the Appellant by MUC at the end of the Appellant's 2000 taxation year, which is denied, no debt was established by the Appellant to have become a bad debt in the Appellant's 2000 taxation year pursuant to subsection 50(1) of the Act.
+15. He further submits that the Appellant did not elect in his return of income for the Appellant's 2000 taxation year to have subsection 50(1) of the Act apply in respect of the alleged debt owing to the Appellant by MUC; therefore, the Appellant is not deemed to have disposed of the alleged debt at the end of the Appellant's 2000 taxation year for proceeds equal to nil and will not have reacquired the alleged debt immediately after the end of 2000 at a cost equal to nil, pursuant to subsection 50(1) of the Act.
+16. He further submits that the loss claimed by the Appellant was not in respect of the disposition of a debt or other right to receive an amount that was acquired by the Appellant for the purpose of gaining or producing income from a business or property or as consideration for the disposition of capital property to a person the Appellant was dealing with at arm's length; therefore the Appellant's capital loss, if any, arising from the disposition of that debt would be nil, pursuant to subparagraph 40(2)(g)(ii) of the Act; accordingly, for the purpose of section 3 of the Act, the Appellant had no business investment loss within the meaning of paragraph 39(1)(c) of the Act.
+[3] Assumptions 8 a), b), c), g), h) and i) were not refuted.
+[4] Respecting the remaining assumptions in paragraph 8:
+d), e) and f) The shareholdings until December 30, 1999 were:
+Markus 37.5%
+Clint 25 %
+Ursula 37.5%
+On December 30, 1999, by a buy-sell agreement, Markus acquired 100 percent of the shares.
+j) December 22, 1999 Markus paid MUC's trustee in bankruptcy $40,000 in trust for MUC's creditor Canadian Western Bank. Trust conditions were satisfied on January 5, 2000, when the $40,000 was paid out as follows:
+(1) Canadian Western Bank $37,500
+(2) Trustee fees $2,500 (Exhibit A-2)
+In December, 1996 or in early 1997 Markus loaned the sum of $35,046 to MUC which was never repaid. (Exhibit A-2).
+In October, 1998, Ursula Schmalz loaned the sum of $8,000 to MUC. (Exhibit A-2).
+k), l), m) and n) In the evidence, MUC owed the Appellant himself $75,046 at the end of 2000, of which $40,000 related directly to the indebtedness of MUC to Canadian Western Bank. All of these were shareholder loans to MUC and were elected as ABILs by the Appellant in the year 2000, the same year in and for which he elected to declare them as bad debts.
+o) All of these debts were bad. On the evidence any debts factually became bad debts when MUC's forestry equipment was surrendered to Canadian Western Bank on April 21, 1999 after which MUC was defunct and could not recover. (Exhibit A-1).
+p) The Appellant's bad debts respecting MUC were incurred for the purpose of gaining or producing income from his shares in MUC.
+q) Is correct.
+r) MUC did cease permanently to carry on business in the Appellant's 2000 tax year.
+[5] Thus, respecting the amounts in question:
+(1) $35,046 factually became a bad debt on April 21, 1999 and was so elected in 2000. Therefore it qualifies as a bad debt and an ABIL at any time thereafter chosen by the Appellant, namely in 2000.
+(2) $40,000 was a bad debt on January 5, 2000 when it was released from trust conditions by the trustee. It was elected as a bad debt and ABIL in 2000. The Appellant's taxation year end is not in evidence, but he is an individual and it is assumed (but not so found) that his 2000 taxation year end is December 31. The fraction to be applied shall be reassessed in accordance with these findings.
+[6] This appeal is referred to the Minister of National Revenue for reconsideration and reassessment accordingly. The Appellant is awarded his disbursements incurred in respect to this appeal which are fixed at $200.
+Signed at Saskatoon, Saskatchewan, this 27th day of August 2004.
+"D.W. Beaubier"
+Beaubier, J.

@@ -1,0 +1,174 @@
+---
+title: "Grant v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28557/index.do"
+last_modified: "2008-03-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 163"
+citation2: ""
+neutral_citation: "2008 TCC 163"
+decision_date: "2008-03-20"
+language: "en"
+item_id: "28557"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1090
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:25:10.396000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "efd14d02b1eb7cedd13f7ca733c977d69edafd7e2c5d94b4534ccf4bfa4303b7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Grant v. The Queen
+
+- Citation: 2008 TCC 163
+- Decision date: 2008-03-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1090, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grant v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-03-20
+Neutral citation
+2008 TCC 163
+File numbers
+2007-2386(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2386(IT)I
+BETWEEN:
+MARTIN R. GRANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 29, 2008, at Kelowna, British Columbia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Michael W. Baldwin
+Counsel for the Respondent:
+Andrew Majawa
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2004 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of March 2008.
+“Campbell J. Miller
+Campbell Miller J.
+Citation: 2008TCC163
+Date: 20080320
+Docket: 2007-2386(IT)I
+BETWEEN:
+MARTIN R. GRANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Mr. Martin Grant appeals, by way of the Informal Procedure, the Minister of National Revenue’s (the “Minister”) assessment of his 2004 taxation year. The Minister included in Mr. Grant’s income $35,000 on the basis that such amount constituted a retiring allowance as defined in section 248 of the Income Tax Act (the “Act”). Mr. Grant contends that the amount represents damages that were not in respect of a loss of employment, but were in connection with a wrong arising from misrepresentations made by his former employer, Weyerhaeuser Canada (“Weyerhaeuser”).
+[2] Mr. Grant commenced working for Weyerhaeuser in 1999 in Vancouver. He and his wife resided in Langley, in what he described as a booming real estate market. In 2001, Weyerhaeuser approached Mr. Grant asking him to move to their plant in Grande Cache, Alberta. According to Mr. Grant, Weyerhaeuser offered this position as Maintenance Manager in Grande Cache as a means for potential advancement within the company, providing job security for the next five years. No written contract was entered into as such, though Mr. Grant indicated he received a letter from Weyerhaeuser confirming the arrangement, though he did not produce the letter at trial. Mr. Grant started working in Grande Cache in March 2002, and bought a house there in May 2002 for $152,000.
+[3] In November 2003, Weyerhaeuser announced it would be closing the Grande Cache plant. Mr. Grant was given three months’ working notice and advised he would receive one month per year of service as severance. Mr. Grant was unhappy with this offer especially as, due to the announced closure, real estate prices in Grande Cache had declined. He also felt such severance would not cover losses arising from having sold his Langley house, having had to forego his wife’s income in Langley and having lost any promised job security. He sought legal advice and approached Mr. Baldwin.
+[4] In a letter dated February 10, 1994, Mr. Baldwin wrote to Weyerhaeuser in part, as follows:
+Mr. Grant can muster a very convincing argument to show that his contract of employment is indeed a 5-year, fixed-term employment contract. While there does not appear to be a written employment contract between the parties, my assessment is based upon the fact that his engagement letter expressly commits him to a 5-year term, with no corresponding commitment to employ him beyond the 5 years.
+…
+The usual remedial principles entitle Mr. Grant to the full performance cost of the contract with no duty to mitigate (3.5 years’ salary), and any consequential damages that reasonably flow from the breach. All told, I expect the foregoing to be legally compensable on the following accounting:
+· Full Performance of the Contract: $210,000
+· Foregone Capital Gain on Vancouver Home: $ 50,000
+· Capital Loss on Grande Cache Home: $ 30,000
+· Soft Costs to sell Grande Cache Home: $ 5,000
+· Soft Costs to purchase new Home: $ 8,000
+· Relocation Costs $ 5,000
+· Loss of Family Income $ 40,500
+Total Loss $ 348,500
+[5] In a letter of March 3, 2004, Weyerhaeuser offered:
+…
+1. An amount equivalent to 7 months’ salary plus 18% for loss of all benefits to be paid by salary continuance subject to a payment of 50% of the remainder if he receives alternative employment (i.e. per Alternative # 1 as set out in our original offer letter) or a lump sum amount equivalent to 90% of the above (i.e. per Alternative # 2 as set out in our original offer letter);
+2. An additional amount of $35,000 payable as a lump sum.
+…
+[6] There followed a series of correspondences between Weyerhaeuser and Mr. Baldwin regarding the tax affect of the lump sum payment of $35,000. Mr. Baldwin took the position that it was not taxable, while Weyerhaeuser believed it was caught by subsection 6(19) or 6(22) of the Income Tax Act, or was indeed a retiring allowance. In his letter of March 8, 2004, Mr. Baldwin raises for the first time the issue of misrepresentation when he writes:
+…
+Having said all that, the better and actual reason for the $35,000 being negotiated as a net amount (and it was), is that the entire ITA and ITR are not relevant to this portion of the proposed settlement because it represents the compromise of a claim for damages for misrepresentation and detrimental reliance (tort, that is), that included lost opportunity costs on the Grant’s house in Vancouver, his wife’s income loss, and costs to acquire temporary lodging in Vancouver well after cessation of the employment relationship. I have been alive to this characterization issue from the outset, have carefully drafted my correspondence accordingly, and have made all proposals under that assumption.
+…
+[7] Mr. Grant ultimately instructed Mr. Baldwin to accept Weyerhaeuser’s position that the amount was a retiring allowance on the basis that he intended to contest this categorization with Canada Revenue Agency (“CRA”) and not with his former employer. Mr. Grant proceeded to sign the release which released Weyerhaeuser from all claims:
+…in any way connected with my employment with Weyerhaeuser or its termination…
+[8] Mr. Grant’s position is that the $35,000 lump sum was received as a compromise for the tort of negligent or fraudulent misrepresentation, and not with respect to the breach of the employment contract. The severance of three months’ working notice and salary in lieu of seven months’ notice was a generous severance payment: anything beyond that must necessarily be for something other than severance. Mr. Baldwin, acting for Mr. Grant, relied upon comments of the Supreme Court of Canada in The Queen v. Cognos,[1] for the proposition that actions against an employer by an employee are not limited to breach of employment contracts, but an employee may sue the employer in tort for negligent misrepresentation. He then goes on to answer the two critical questions in this type of case as follows:
+(i) But for the loss of employment would the amount have been received? Yes.
+(ii) Was the purpose of the payment to compensate for a loss of employment? No.
+[9] The Respondent’s position is that the Appellant has not proven the payment was with respect to a possible tort. But, even if I found the damages related to the tort of negligent misrepresentation, the wording of the definition of “retiring allowance” is sufficiently broad to still capture this payment within its ambit. The Respondent goes on to answer the two questions completely contrary to the Appellant’s answers; in effect, but for the loss of employment Mr. Grant would not have received damages.
+Analysis
+[10] The definition of “retiring allowance” is found in section 248 of the Act and reads as follows:
+“retiring allowance” means an amount (other than a superannuation or pension benefit, an amount received as a consequence of the death of an employee or a benefit described in subparagraph 6(1)(a)(iv)) received
+(a) on or after retirement of a taxpayer from an office or employment in recognition of the taxpayer’s long service, or
+(b) in respect of a loss of an office or employment of a tax payer, whether or not received as, on account or in lieu of payment of, damages or pursuant to an order or judgment of a competent tribunal,
+by the taxpayer or, after the taxpayer’s death, by a dependant or a relation of the taxpayer or by the legal representative of the taxpayer;
+[11] The test that has developed around this definition, as it pertains to the categorization of damages, as had been stated earlier, is two-fold (see, for example, the cases of Overin v. R.[2] and Ahmad v. R.[3]):
+(i) But for the loss of employment would the amount have been received?
+(ii) Was the purpose of the payment to compensate for a loss of employment?
+With respect to the first question I find Mr. Grant would not have received the $35,000 but for his loss of income. I have not been convinced the payment was, as the Appellant contends, to compromise a tort of negligent misrepresentation. I do accept that an employee can have a separate cause of action against an employer, as enunciated in Cognos, but the Supreme Court of Canada in that case clarified their position with respect to the tort of negligent misrepresentation in an employment setting as follows:
+… More particularly, the fact that the alleged negligent misrepresentations are made in a pre-contractual setting, such as during negotiations or in the course of an employment hiring interview, and the fact that a contract is subsequently entered into by the parties do not, in themselves bar an action in tort for damages caused by said misrepresentations: see, for example Eddo Petroleum, supra, and the cases cited above dealing specifically with pre-employment misrepresentation.
+This is not to say that the contract in such a case is irrelevant and that a court should dispose of the plaintiff’s tort claim independently of the contractual arrangement. On the contrary, depending on the circumstances, the subsequent contract may play a very important role in determining whether or not, and to what extent, a claim for negligent misrepresentation shall succeed. Indeed, as evidenced by my conclusion in BG Checo, such a contract can have the effect of negating the action in tort and of confining the plaintiff to whatever remedies are available under the law of contract.
+…
+When considering the effect of the subsequent contract on the representee’s tort action, everything revolves around the nature of the contractual obligations assumed by the parties and the nature of the alleged negligent misrepresentation. The first and foremost question should be whether there is a specific contractual duty created by an express terms of the contract which is co-extensive with the common law duty of care which the representee alleges the representor has breached. Put another way, did the pre-contractual representation relied on by the plaintiff become an express term of the subsequent contract? If so, absent any overriding considerations arising from the context in which the transaction occurred, the plaintiff cannot bring a concurrent action in tort for negligent misrepresentation and is confined to whatever remedies are available under the law of contract. The authorities supporting this proposition, including the decision of this Court in Central Trust Co. v. Rafuse, [1986] 2 S.C.R. 147, are fully canvassed in my reasons in BG Checo. …
+[12] In effect, if the pre-contractual representations went to something that did not become part of the employment contract, then it may be a separate cause of action. But I do not find that is the case before me. The representations Mr. Grant complains of are the company’s offer of job security in the form of a five-year tenure plus advancement within the company. How can the representation of work for five years not be part of the employment contract? It is regrettable Mr. Grant did not produce the letter confirming the arrangement. However, based on his testimony and the correspondence which I had reviewed, I conclude Mr. Grant had a five-year employment contract and that this representation is subsumed into such contract, denying Mr. Grant a separate tort action.
+[13] With respect to the representation of advancement within the company, this was not described in great detail so it remains somewhat vague. For one employer to suggest to an employee that if you relocate it will enhance your opportunities within the company may be nothing more than mere puffery. I certainly would not assume relocating would hinder one’s future with the employer. However, if I were to consider this representation a negligent misrepresentation, it clearly remains closely connected to the employment itself. It is not at all like the situation in Ahmed, where Dr. Ahmed was truly wronged by a third party – a wrong for which he could be compensated without loss of employment. The representations Mr. Grant relied upon are not separate and apart from the very essence of his employment contract.
+[14] What is important to note in addressing the “but for” test is not whether or not the damages arise from a breach of employment contract or from the tort of negligent misrepresentation, but whether, for purposes of the definition of retiring allowance, the damages are an amount received “in respect of a loss of employment”. So, even if I accept that there might be some possibility of a separate cause of action, it remains the care that failure to advance within the company comes about as a result of a loss of employment, and the damages are integrally connected to that employment. They are certainly “in respect of” the loss of employment.
+[15] This is further confirmed for me by the form of release. Mr. Grant released Weyerhaeuser from any claim connected with his employment or its termination.
+[16] It is unnecessary to address the second question of the test as Mr. Grant has been unable to past the “but for” test.
+[17] I do, however, wish to address one element of the purpose test, as part of Mr. Baldwin’s argument was that, given Mr. Grant got a generous severance package, without taking into account the $35,000, the $35,000 was paid for some other purpose. While I accept Mr. Grant’s 10 months’ notice was appropriate for a middle-manager with less than ten years seniority, I do not accept that this detaches the $35,000 from his loss of employment. In the case of Fawkes v. R,[4] Justice Hershfield addressed this very same issue, though with respect to a potential human rights claim, as opposed to a claim for negligent misrepresentation, and concluded:
+…What he negotiated as her agent is not reflective of compensatory damages unrelated to the loss of employment. Indeed what he got was a very good severance payment based on a variety of claims all related, directly related, to the Appellant’s loss of employment. The claim relating to a human rights violation was couched by her lawyer in various ways but in particular it was advanced in the February Reply as a claim for reinstatement – the release from which is inextricably linked to damages for loss of employment.
+…
+[18] I find Mr. Grant was in exactly the same position: any claim related to negligent misrepresentation is inextricably linked to damages for loss of employment.
+[19] Finally, the Respondent raised the applicability of subsection 6(19) of the Act. Given my finding that the $35,000 falls squarely within the definition of “retiring allowance”, it is unnecessary to address subsection 6(19).
+[20] The appeal is dismissed.
+Signed at Ottawa, Canada, this 20th day of March 2008.
+“Campbell J. Miller”
+Campbell Miller J.
+CITATION: 2008TCC163
+COURT FILE NO.: 2007-2386(IT)I
+STYLE OF CAUSE: Martin R. Grant v. The Queen
+PLACE OF HEARING: Kelowna, British Columbia
+DATE OF HEARING: February 29, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: March 20, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Michael W. Baldwin
+Counsel for the Respondent:
+Andrew Majawa
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Michael W. Baldwin
+Firm: Nixon Wegner LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1993], 1 S.C.R. 87.
+[2] 98 DTC 1299 (T.C.C.).
+[3] [2002] 4 CTC 2497 (T.C.C.).
+[4] 2004 TCC 653.

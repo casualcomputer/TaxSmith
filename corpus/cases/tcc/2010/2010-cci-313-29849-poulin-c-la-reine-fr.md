@@ -1,0 +1,311 @@
+---
+title: "Poulin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29849/index.do"
+last_modified: "2010-06-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 313"
+citation2: ""
+neutral_citation: "2010 CCI 313"
+decision_date: "2010-06-15"
+language: "fr"
+item_id: "29849"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6435
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:53:41.027000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4e7a75a931cc2d4b7935fd9866eb374f423844a103db14fd3ca3d90c7449a058"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Poulin c. La Reine
+
+- Citation: 2010 CCI 313
+- Decision date: 2010-06-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6435, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poulin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-15
+Référence neutre
+2010 CCI 313
+Numéro de dossier
+2008-514(IT)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-514(IT)G
+ENTRE :
+RICHARD POULIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Komutel Inc. (2008-515(IT)G), le 5 juin 2009, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelant :
+Me Jean-François Bertrand
+Avocate de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2003 et 2004 est accueilli, sans frais, selon les motifs du jugement ci-joint.
+Signé à Ottawa, Canada, ce 15e jour de juin 2010.
+« Alain Tardif »
+Juge Tardif
+Référence : 2010 CCI 313
+Date : 20100615
+Dossier : 2008-514(IT)G
+ENTRE :
+RICHARD POULIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel où l’appelant est également intéressé dans le dossier Komutel c. La Reine 2008-515(IT)G en sa qualité d’actionnaire unique. Les appels ont été entendus séparément malgré une certaine connexité.
+[2] L’appelant a initié son appel au moyen d’un avis dont le contenu est le suivant :
+Année 2003
+3. L’appelant est administrateur, président, secrétaire et actionnaire majoritaire de la compagnie 9098-5854 Québec inc., le tout tel qu’il appert du relevé du Registraire des entreprises, pièce P-1;
+4. L’appelant est également administrateur, président, secrétaire et actionnaire majoritaire de la compagnie Komutel inc. anciennement B2C Web Support inc., le tout tel qu’il appert du relevé du Registraire des entreprises, pièce P-2;
+5. Lors de l’exercice financier de la compagnie 9098-5854 Québec inc. se terminant le 31 mars 2003, le comptable responsable de la tenue des livres de l’entreprise, monsieur Pierrot Poulin, a commis une erreur dans l’écriture de régularisation aux livres comptables;
+6. En effet, monsieur Pierrot Poulin a fait l’inscription suivante :
+Débit
+Crédit
+Immobilisation
+26 835,00 $
+Avances à un administrateur
+26 835,00 $
+7. Or, cette inscription avait pour objectif de comptabiliser le transfert par l’appelant de certains actifs personnels en faveur de son entreprise;
+8. Toutefois, contrairement à ce qui a été inscrit aux livres comptables, le transfert a été fait en faveur de la compagnie B2C Web Support inc. et cette inscription de transfert a donc également été effectuée dans les livres comptables de cette compagnie;
+9. Suivant cette inscription comptable, l’Agence a ajouté le montant de vingt-six mille huit cent trente-cinq dollars (26 835,00 $) porté au compte d’avances à un administrateur au revenu imposable de l’appelant;
+Année 2004
+10. Un montant de trente-sept mille sept cent trente-deux dollars (37 732,00 $) a été ajouté par l’Agence ai revenu imposable de l’appelant pour l’année 2004;
+11. Le montant ainsi ajouté était représenté par deux inscriptions de régularisations comptables inscrites au compte « avances à un administrateur » de la compagnie 9098-5854 Québec inc., soit une écriture au montant de treize mille neuf cent trente-deux dollars (13 932,00 $) et une seconde au montant de vingt-trois mille huit cents dollars (23 800,00 $);
+[3] L’intimée a répliqué que la cotisation était justifiée à partir des hypothèses de faits suivantes :
+a) L’appelant possédait une technologie fonctionnelle destinée au service à la clientèle sur le web/internet et était à la recherche de partenaires financiers.
+b) La société Capital Vision (« Capital Vision ») avait la volonté et le capital afin d’investir en technologie.
+c) Le 4 avril 2001, Capital Vision, représentée par son président Benoît Beaudin et l’appelant, entrepreneur indépendant, signent une entente prévoyant notamment :
+i) un contrat de travail pour Richard Poulin selon les conditions prévues à l’entente;
+ii) un engagement de Capital Vision à créer une entreprise (et à constituer à cette fin une société selon le régime fédéral) dont les actions ordinaires votantes seront détenues à 51 % par Capital Vision et à 49 % par Richard Poulin et les actions privilégiées non-votantes seront détenues à 49 % par Capital Vision et à 51 % par Richard Poulin;
+iii) un investissement de 350 000 $ par Capital Vision soit :
+· 200 000 $ en mise de fond pour l’entreprise selon un échéancier allant d’avril à septembre 2001.
+· 100 000 $ versés à la société à constituer, sous forme d’avance remboursable par les profits.
+· 50 000 $ versés comptant à Richard Poulin selon des modalités à déterminer.
+d) La société 9098-5854, une société de gestion, a été constituée le 4 décembre 2000 selon la partie IA de la Loi sur les compagnies du Québec.
+e) Durant les années en litige, l’appelant est actionnaire unique, président et administrateur de la société 9098-5854.
+f) L’appelant était également actionnaire unique, président et administrateur de la société B2C WEB Support inc., cette dernière étant maintenant connue sous le nom de Komutel inc. (ci-après « Komutel »), laquelle a été constituée le 23 avril 2001 en vertu de la Loi sur les sociétés par actions.
+g) Il n’y a pas eu de véritable vérification externe des états financiers de 9098-5854 et de Komutel pour les exercices financiers se terminant les 31 mars 2003 et 2004.
+h) Les états financiers de 9098-5854 et de Komutel pour l’exercice financier se terminant le 31 mars 2004 ont été préparés pas « Gestion Zéro Huit » appartenant à Pierrot Poulin.
+i) Pierrot Poulin est également le comptable qui a tenu les livres de 9098-5854 et de Komutel pour l’exercice financier se terminant le 31 mars 2004.
+j) Au cours de ses exercices financiers se terminant les 31 mars 2003 et 2004, la société 9098-5854, par le biais d’écritures comptables, a inscrit des avances de fonds qu’elle a faites à l’appelant, ainsi que des avances de fonds faites par l’appelant à 9098-5854.
+k) La vérification effectuée par l’Agence du revenu du Canada a notamment porté sur une analyse du poste « avances par un administrateur » des états financiers et des écritures de régularisation de 9098-5854 pour chacun des exercices financiers se terminant les 31 mars 2003 et 2004 (voir détail en Annexe I).
+L’avance de 26 835 $
+l) Au cours de l’exercice financier se terminant le 31 mars 2003, 9098-5854 a effectué l’achat d’équipements de bureau pour la somme de 26 835 $.
+m) Une facture au montant de 26 835 $ a été émise au nom de 9098-5854 et le paiement a été effectué par chèque par Komutel.
+n) Ces équipements n’ont servi qu’aux activités de Komutel, et non à celles de 9098-5854.
+o) La valeur de ces équipements a été incluse dans les actifs de Komutel et de 9098-5854.
+p) L’écriture de régularisation suivante a été inscrite aux livres comptables de 9098-5854 pour l’exercice financier se terminant le 31 mars 2003 :
+Débit
+Crédit
+Immobilisation
+26 835,00 $
+Avances à un administrateur
+26 835,00 $
+q) La société 9098-5854 a déclaré des dépenses d’amortissement liées auxdits équipements aux montants de 2 684 $ et de 4 830 $ pour chacune des exercices financiers se terminant les 31 mars 2003 et 2004 respectivement.
+r) Bien que la somme de 26 835 $ ait été créditée au poste d’ « avances des administrateurs » aux états financiers de la société, cette somme n’a jamais été payée par l’appelant.
+L’avance de 23 800 $
+s) Durant l’année d’imposition 2004, la société 9098-5854 a versé à l’appelant un montant de 23 800 $.
+t) Lors de la vérification, aucune justification n’a été donnée pour le versement du montant de 23 800 $ à l’appelant.
+u) Au stade de l’opposition, le représentant de l’appelant a soutenu que la somme de 23 800 $ représentait les salaires dus à l’appelant.
+L’avance de 13 392 $
+v) Suivant une entente conclue avec l’appelant, Capital Vision a investi des sommes dans les sociétés 9098-5854 et Komutel.
+w) La société 9098-5854 était endettée envers Capital Vision d’un montant de 13 392 $ pour l’exercice financier de l’année 2004.
+x) Ce montant de 13 392 $ représente la différence entre une avance de 130 500 $ de Capital Vision et une souscription à recevoir de 116 568 $ de Capital Vision.
+y) Lors de la vérification, le vérificateur a constaté que le montant de 13 392 $ dû à Capital Vision par 9098-5854 était inclus dans les montants débités au journal de régularisations de la société à titre d’ « avances des administrateurs ».
+z) Aucune pièce n’a démontré que la somme de 13 392 $ avait effectivement été avancée par l’appelant à 9098-5854.
+[4] En substance, l’appelant a admis qu’une erreur s’était glissée lors de l’enregistrement d’une facture attestant l’achat de meubles. Il s’agissait d’un montant de 26 835 $ inscrit aux livres comptables de deux sociétés. Il a indiqué avoir immédiatement corrigé l’erreur découverte par le vérificateur.
+[5] Il a également affirmé que certains changements dans la comptabilité avaient été faits suite à la recommandation d’un vérificateur du dossier dans le cadre de crédit pour la recherche et développement. Il a affirmé avec assurance qu’une partie des montants cotisés avait fait partie de son salaire bien que non déboursé étant donné que la société était incapable de payer ajoutant que les impôts sur ce salaire non payé avaient cependant été acquittés.
+[6] Quant au montant de 13 931 $, l’appelant n’a pas été en mesure de fournir des explications.
+[7] Pour ce qui est des faits, ils m’apparaissent assez bien décrits à la réponse à l’avis d’appel. Tout comme dans l’autre dossier Komutel 2008-515(IT)G, le débat a pour origine des manquements dans la tenue de livres, auxquels les parties n’accordent pas la même portée, et qui ont conduit le ministre à ajouter des sommes aux revenus du contribuable, à titre d’avantage, en vertu du paragraphe 15(1) de la Loi de l’impôt sur le revenu (LIR), soit 26 835 $ en 2003 et 37 731,64 $ en 2004.
+[8] Le premier différend abordé découle d’un achat de meubles, au terme d’une transaction initiée et planifiée par Beaudin à l’origine des mises de fond très importantes dans le dossier connexe; selon l’appelant, le prix demandé était quelque peu abusif.
+[9] Ce dernier explique que B2C Web Support inc. (devenue « Komutel Inc.») n’ayant pas de liquidités suffisantes au moment de l’achat, le mobilier a été facturé et payé par la société 9098 et, plus tard, remboursé à cette dernière par B2C d’où la double inscription par erreur dans les registres. L’achat de 26 835 $ a donc été comptabilisé à titre de dépense dans les deux sociétés.
+[10] L’appelant a reconnu que c’est le vérificateur de l’Agence du revenu du Canada, qui a découvert l’irrégularité; il a indiqué avoir admis sur le champ que la dépense était inscrite à deux endroits et, dès lors, fait le nécessaire pour que les corrections appropriées soient effectuées.
+[11] Il a affirmé que l’erreur a découlé du fait qu’il réunissait dans la même boîte ses données financières personnelles, celles de 9098 et celle de B2C, à l’attention de son comptable; ce dernier a omis de faire le partage correctement.
+[12] Quant au deuxième différent, l’appelant a expliqué qu’il provenait de changements effectués dans le but de maximiser les crédits en recherche et développement, le tout lui ayant été conseillé par un autre vérificateur de l’agence. À cet effet, il a soumis que les 33 951 $ de revenus d’emplois constatés dans son T4 de 2003 incluaient le 25 143,65 $ d’avantage imposé en 2004.
+[13] Il a ajouté que les impôts sur cette somme avaient été payés, même si la somme ne lui a pas été versée, étant donné que la compagnie n’avait pas d’argent pour ce faire, d’où le tout a été comptabilisé comme une « avance à l’actionnaire ».
+[14] Le vérificateur a expliqué les raisons qui l’ont amené à cotiser le contribuable pour 26 835 $ en 2003, en vertu de 15(1) LIR. Il déclare que la facture reliée à l’achat de meubles avait été faite au nom d’une compagnie, que le chèque avait été fait par l’autre compagnie confirmant ainsi le témoignage de l’appelant sur ce point.
+[15] Après avoir noté que ces biens apparaissaient aux états financiers de B2C et de 9098, il soumet que l’appelant lui a indiqué qu’ils seraient enlevés des actifs de 9098, puisque cela ne reflétait pas la réalité. Interrogé sur ce qu’il a alors fait, le vérificateur s’est exprimé comme suit :
+« Q. Qu’est-ce que vos avez faits à ce moment-là pour corriger et pour enlever des livres de 9098 l’achat d’actif ?
+R. L’actif avait été mis en avance à l’administrateur, donc il fallait enlever l’actif des livres puis on a enlever les actifs qu’ils y avait pour 26 835 $ puis l’écriture d’avance à l’administrateur, c’est un montant qui pouvait être par la suite sorti sans aucun impact fiscal par monsieur Poulin. Ça fait que c’est pour ça qu’on a utilisé 15(1) pour imposer sur ce montant là dans l’année 2003 »
+[16] Pour ce qui est de l’année 2004, le vérificateur explique, à l’aide de sa feuille de travail avoir constaté dans la comptabilité du contribuable des montants élevés à titre de salaires impayés, d’encaissements par l’actionnaire (24,000 $) et d’écritures de régularisation (45 424,01 $). Les montants ont été ajoutés aux revenus du contribuable en vertu de 15(1) LIR, au motif qu’ils « pourraient être sortis sans impact fiscal par l’actionnaire pour les années futures »; et en l’absence d’explications acceptables de la part de Poulin, il a considéré ces derniers au désavantage du contribuable.
+[17] Il y a lieu de reproduire ci-dessous l’extrait du document d’analyse à partir duquel le vérificateur témoigne :
+«
+Date
+E/F
+ARC
+Analyse
+04-avr-01
+0,00$
+0,00$
+Début de la compagnie
+31-mars-02
+4,323.00$
+4,323.00$
+Perte de la compagnie absorbée par l’actionnaire
+_________________________________________________
+31-mars-02
+4,323,00$
+4,323.00$
+Solde au 31 mars 2002
+================================================
+31-mars-03
+26,835,00$
+0,00$
+Achat d’actifs déjà inclut dans B2C Web Support
+31-mars-03
+1,819,00$
+1,819,00$
+Taxes payés par l’actionnaire et à recevoir par la compagnie
+31-mars-03
+-12,976,00
+-12976,00$
+Bénéfice de la compagnie pour l’année
+_________________________________________________
+31-mars-03
+20,001.00$
+-6,834,00$
+Solde au 31 mars 2003
+Différence de 26,835$ au 31 mars 2003
+================================================
+31-mars-04
+0,00$
+7,492,37$
+Avance de l’actionnaire venant de B2C Web
+31-mars-04
+25,143,65$
+0,00$
+Salaire non payé (écriture manquante pour inscrire les ventes)
+31-mars-04
+45,424,01$
+0,00$
+Plug confirmée par le comptable
+31-mars-04
+0.00$
+0,00$
+Dette à Groupe Capital Vision
+31-mars-04
+712.00$
+712.00$
+Paiement impôt RQ
+31-mars-04
+783.00$
+783.00$
+Paiement impôt RC
+31-mars-04
+73.49$
+73.49$
+Paiement impôt RC
+31-mars-04
+0.00$
+23,800$
+Montants encaissés par l’actionnaire
+31-mars-04
+-100.00$
+-100.00$
+Souscription à recevoir
+31-mars-04
+-1,726.45$
+-1,726.45$
+Conciliation Banque Nationale
+31-mars-04
+-24,000.00$
+-24,000.00$
+Encaisse par l’actionnaire
+31-mars-04
+-1,879.37$
+-1,879.37$
+Taxe à recevoir 2003
+_________________________________________________
+31-mars-04
+64,491,33$
+-1,618.96$
+Solde au 31 mars 2004
+Différence de 64,566.64 (26,835$ + 13,931.64$ + 23,800$)
+Conclusion : L’actionnaire pourrait donc s’attribuer des sommes supplémentaires pour un montant de 64,566.64 $. Nous pourrons donc imposer ce montant comme un avantage imposable par 15(1). » [1]
+[18] Quant au montant de 24 000 $, le vérificateur a affirmé que l’appelant en avait déjà tenu compte; il a donc décidé de lui accorder sur la base qu’il avait besoin d’un minimum pour vivre.
+[19] Il a affirmé avoir obtenu plusieurs relevés de l’appelant; certains étaient inexistants; la preuve documentaire, selon le vérificateur, ne permettait pas d’établir une cohérence entre le salaire payé en 2003 et les montants de 23 800 $. Il a également soutenu que l’appelant ne lui avait jamais fait de lien entre les encaissements de 2004 et du salaire impayé en 2003.
+[20] Le témoignage du vérificateur est très loin d’être clair et cohérent. Il a notamment nié avoir reçu et accepté certaines explications de l’appelant. Il a aussi affirmé avoir fait certains constats à partir du dossier de l’agent des appels alors que ses propres notes semblaient contraires à son témoignage.
+[21] L’intimée a reconnu que les notes du vérificateur n’indiquent aucun montant, qu’elles ne mentionnent qu’une diminution de la cotisation et qu’en tout état de cause, elles ne sont pas très claires.
+[22] Le témoignage du vérificateur n’est pas un exemple de clarté et cohérence. Pour soutenir le bien-fondé de la cotisation, ce dernier s’accroche à des détails à l’effet que le comptable supposément auteur de l’erreur n’a pas témoigné et que l’appelant est le seul actionnaire des deux sociétés concernées.
+[23] Selon l’intimée, le fait que l’appelant soit à l’origine de la remise des documents à son comptable empêche de qualifier la double inscription d’erreur comptable. Certes, il s’agissait-là d’une conduite pouvant être qualifiée de négligente, d’autant plus qu’elle compliquait le travail du comptable et augmentait les risques d’erreurs ce qui s’est d’ailleurs produit. Par contre, l’appelant a spontanément reconnu l’erreur et s’est empressé de la corriger.
+[24] Bien que particulières, les explications de l’appelant m’apparaissent crédibles et raisonnables d’autant plus que le témoignage du vérificateur a été pour le moins curieux. D’entrée de jeu, il a indiqué, avec raison d’ailleurs, que le fardeau de la preuve incombait à l’appelant. Une telle réalité justifierait-elle un témoignage un peu confus, incomplet sur certains aspects et contradictoire quant aux autres éléments?
+[25] Pour soutenir leur position respective, les parties se sont référées à quelques décisions. Non pas que ces décisions ne sont pas pertinentes, mais je crois important d’indiquer que la seule preuve d’une erreur ne signifie pas automatiquement des conséquences sur le plan fiscal. Il peut s’agir d’une erreur volontaire ou involontaire. Il peut s’agir d’une erreur cléricale, chaque dossier doit faire l’objet d’une analyse particulière d’où la jurisprudence doit être prise en compte avec une certaine réserve.
+[26] De façon générale, un comptable doit assumer les conséquences de ses erreurs au même titre que tous les professionnels encore faut-il qu’il s’agisse d’une erreur qui découle du non respect des règles de l’art.
+[27] Si l’erreur résulte d’un certain désordre ou de confusion possible au niveau des documents, il se peut que l’erreur puisse être corrigée sans sanction fiscale.
+[28] En l’espèce, je crois qu’il s’agissait d’une erreur involontaire du comptable conséquente à la remise de documents qui pouvaient porter à confusion. D’autre part, la preuve circonstancielle dans ce dossier est à l’effet que monsieur Poulin était dépassé par les évènements devant composer avec plusieurs contraintes dans la gestion d’un projet possiblement prometteur mais lent et difficile au niveau de la croissance et de la profitabilité.
+[29] La preuve démontre qu’après avoir recueilli les explications de l’appelant au sujet de l’acquisition de meubles par 9098 et leur paiement par B2C, le vérificateur n’a pas poussé plus loin son investigation sur ce point.
+[30] L’achat de meubles par 9098 a donné lieu à une revente de ceux-ci à B2C; bien que la façon de faire et les inscriptions aux divers registres justifient la conclusion retenue par le vérificateur, les explications rapides et spontanées de l’appelant auraient dû être prises en compte étant donné le contexte de la situation.
+[31] Tout comme le dossier Komutel, l’approche du vérificateur a consisté à identifier certains faits ou élément permettant de justifier une cotisation en tenant pour acquis que l’appelant n’aurait qu’à démontrer qu’elle n’était pas bien fondée. De plus, il semble bien que le vérificateur avait, sans raison, des doutes quant à la bonne foi de l’appelant.
+[32] Le vérificateur était en droit d’exiger des explications sur toute partie de la comptabilité du contribuable, et là où des sorties d’argent inexpliquées survenaient, présumer que celles-ci constituaient des transferts assujettis à 15(1) LIR, si cela était logique. Cependant, dans son témoignage, le vérificateur ne prétend même pas que les sommes demeurant inexpliquées, et retenues au détriment de monsieur Poulin dans son calcul, ont été transférées à monsieur Poulin. L’eut-il fait qu’il aurait mis monsieur Poulin dans l’obligation de se justifier pour éviter le maintien de cette partie de la cotisation. Encore là, c’est parce qu’il prétendait que monsieur Poulin pourrait retirer cette somme qu’il a jugé nécessaire de les inclure dans son revenu en vertu du paragraphe 15(1) de la LIR.
+[33] Manifestement le vérificateur était méfiant et septique à l’endroit des explications fournies par l’appelant. Les incohérences ou explications confuses ou nébuleuses validaient cette méfiance au point de ne pas lui accorder de crédibilité.
+[34] Bien que la confusion assez généralisée qui caractérisait tant le présent dossier que celui de Komutel pouvait susciter une certaine méfiance, il eut été préférable que le vérificateur investisse davantage dans l’examen du dossier plutôt que de s’en retirer sous prétexte que le fardeau de la preuve lui incombait devant le tribunal.
+[35] Contrairement à l’interprétation du vérificateur, je crois que les explications soumises de façon spontanée sont crédibles. Si l’appelant avait voulu maquiller les faits ou délibérément cacher certaines réalités, il aurait de tout évidence agit autrement. D’ailleurs, il a reconnu ne pas être en mesure d’expliquer certains éléments dont notamment le montant de 13 931 $ que l’intimée a d’ailleurs relevé dans ses arguments finaux.
+[36] L’appelant a été spontané et transparent dans ses explications. Le vérificateur a reconnu avoir obtenu la collaboration de l’appelant. Il a interprété les variables au niveau des explications soumises comme étant des tentatives de se soustraire à ses obligations fiscales.
+[37] La prépondérance de la preuve est à l’effet que l’appelant a été quelque peu négligeant quant à sa responsabilité de tenir une comptabilité claire soutenue par une preuve documentaire appropriée.
+[38] Il a cependant fait la démonstration de sa bonne foi, validée par une collaboration sans reproche. Bien que la preuve dont il avait le fardeau ne soit pas parfaite, loin de là, elle permet de conclure que les explications soumises sont crédibles au point qu’il m’apparait raisonnable de conclure qu’elles sont probables.
+[39] Par contre, sur un élément, les prétentions de l’intimée sont exactes à savoir que l’appelant n’a soumis aucune explication quant au montant de 13 931 $.
+[40] Pour tous ces motifs, l’appel est accueilli en partie et le dossier sera retourné à l’agence pour qu’une nouvelle cotisation soit établie en tenant pour acquis que l’appelant a reçu pour l’année d’imposition 2004 de la société 9098-5854, un avantage au montant de 13 931 $ en vertu du paragraphe 15(1) de la LIR. Le tout sans frais.
+Signé à Ottawa, Canada, ce 15e jour de juin 2010.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2010 CCI 313
+Nº DU DOSSIER DE LA COUR : 2008-514(IT)G
+INTITULÉ DE LA CAUSE : RICHARD POULIN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 5 juin 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 15 juin 2010
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Jean-François Bertrand
+Avocate de l'intimée :
+Me Anne Poirier
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Jean-François Bertrand
+Cabinet : Tassé Avocats
+Ville : Québec (QC)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce I-1 onglet 8, ou Annexe 1 de la Réponse à l’avis d’appel.

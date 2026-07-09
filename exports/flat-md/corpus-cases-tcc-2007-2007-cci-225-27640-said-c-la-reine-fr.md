@@ -1,0 +1,338 @@
+---
+title: "Said c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27640/index.do"
+last_modified: "2007-04-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 225"
+citation2: ""
+neutral_citation: "2007 CCI 225"
+decision_date: "2007-04-18"
+language: "fr"
+item_id: "27640"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 396
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:45:27.727000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7b6f8023a3050d26e08fd8cfe7db4f3a49ee04f00c19ab7976d765baa503e3f4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Said c. La Reine
+
+- Citation: 2007 CCI 225
+- Decision date: 2007-04-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 396, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Said c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-18
+Référence neutre
+2007 CCI 225
+Numéro de dossier
+2006-2813(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2813(IT)I
+ENTRE :
+TAHER ABOU SAID,
+Appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus les 12, 14 et 15 février 2007, à Ottawa (Canada).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Andrew Miller
+____________________________________________________________________
+JUGEMENT
+Les appels concernant les nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2000, 2001 et 2002 sont accueillis en partie et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et établissement d’une nouvelle cotisation au motif que le revenu de l’appelant pour chacune de ces années s’établit comme suit :
+2000
+2001
+2002
+Revenu inscrit dans les déclarations
+10 038 $
+7 562 $
+7 795 $
+Nouvelle cotisation : revenu sous-déclaré
+21 778,34 $
+50 328,23 $
+23 203,57 $
+Rajustements découlant du jugement
+(8 089,87 $)
+(33 482,70 $)
+(3 764,61 $)
+Revenu révisé
+23 726,47 $
+24 407,53 $
+27 233,96 $
+Les pénalités imposées en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu sont réduites en fonction des impôts révisés payables sur le revenu de l’appelant, selon les corrections indiquées ci-dessus, mais elles sont autrement confirmées.
+Signé à Ottawa (Ontario), ce 18e jour d’avril 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 26e jour de mars 2008.
+Maurice Audet, réviseur
+Référence : 2007CCI225
+Date : 20070418
+Dossier : 2006-2813(IT)I
+ENTRE :
+TAHER ABOU SAID,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] L’appelant a fait des études d’ingénieur professionnel, mais comme il n’a pas réussi à trouver du travail comme ingénieur après avoir immigré au Canada, il a travaillé comme chauffeur de taxi en 2000, 2001 et 2002. Dans les déclarations d’impôt qu’il a produites en son nom, les montants suivants ont été déclarés comme revenu brut et comme revenu net provenant de son entreprise de taxi pour chacune des années suivantes :
+Année d’imposition
+Revenu brut
+Revenu net
+2000
+24 520 $
+6 638,69 $
+2001
+24 520 $
+7 562,37 $
+2002
+23 490 $
+6 275,06 $
+[2] L’Agence du revenu du Canada (l’« ARC ») a procédé à une nouvelle cotisation en se fondant sur une analyse de la valeur nette de l’appelant, a inclus les montants suivants dans son revenu comme étant un revenu non déclaré et a calculé les pénalités suivantes aux termes du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi ») :
+Année d’imposition
+Montant ajouté à titre de « revenu non déclaré »
+Pénalités
+2000
+21 778,34 $
+1 916,04 $
+2001
+50 328,23 $
+3 988,20 $
+2002
+23 203,57 $
+1 150,09 $
+[3] Les nouvelles cotisations ont été confirmées par le ministre du Revenu national le 19 juin 2006.
+[4] Le juge Bowman a fait les observations suivantes sur la méthode de la valeur nette utilisée pour déterminer le revenu d’un contribuable dans l’affaire Bigayan [2000] 1 C.T.C. 2229, 2000 DTC 1619 :
+2 La méthode de la valeur nette est, comme on le faisait observer dans l'affaire Ramey v. The Queen, 93 D.T.C. 791, une solution de dernier recours que l'on emploie lorsque tout le reste a échoué. On l'utilise souvent lorsqu'un contribuable a omis de produire des déclarations de revenus ou n'a pas conservé de documents. C'est un instrument imprécis, exact à l'intérieur d'un registre dont le champ est indéterminé. Elle repose sur le postulat selon lequel, si l'on soustrait la valeur nette d'un contribuable en début d'année à sa valeur nette en fin d'année, si l'on ajoute les dépenses du contribuable durant l'année et si l'on soustrait les encaissements non imposables et les plus-values d'actifs existants, alors le résultat net, après déduction de toute somme déclarée par le contribuable, doit être attribuable au revenu non déclaré gagné durant l'année, sauf si le contribuable peut apporter une preuve contraire. C'est au mieux une méthode insatisfaisante, qui est arbitraire et inexacte, mais quelquefois c'est le seul moyen d'arriver à un chiffre qui se rapproche du revenu d'un contribuable.
+3 Le meilleur moyen de contester une cotisation fondée sur la valeur nette est de produire la preuve de ce qu'est véritablement le revenu du contribuable. Un moyen moins satisfaisant, mais néanmoins acceptable, est décrit par le juge Cameron dans l'affaire Chernenkoff v. Minister of National Revenue, 49 D.T.C. 680, à la page 683 :
+[Traduction]
+En l'absence de documents, l'autre moyen offert à l'appelant consistait à prouver que, même après une application en règle de la formule de la valeur nette, les cotisations étaient erronées.
+4 Ce moyen de contester une cotisation fondée sur la valeur nette est reconnu, mais, même après que l'on a procédé aux rajustements, on reste avec le sentiment trouble que la vérité n'a pas été pleinement découverte. Il est peu probable que l'on rende parfait en le modifiant un instrument qui, par nature, est imparfait.
+[5] L’appelant n’a pas présenté de preuve pour établir que le revenu pour chacune des années en cause était bien le montant indiqué dans les déclarations d’impôt produites en son nom. Quand on lui a demandé directement comment le revenu brut avait été déterminé pour chacune de ces années, l’appelant n’a pu fournir d’explication. Le seul document qu’il a produit relativement au calcul du revenu tiré de son entreprise de taxi pour chacune des trois années en cause est un bref document établi pour l’année 2001, énumérant de façon sommaire plusieurs paiements faits cette année-là. Ce document ne comportait aucune mention d’un revenu quelconque gagné en 2001. L’appelant a travaillé comme chauffeur de taxi et a vraisemblablement reçu des montants différents provenant des courses en taxi, et pourtant il a déclaré exactement le même revenu brut pour 2000 et 2001.
+[6] En outre, l’appelant n’a pas préparé ses propres états de valeur nette. Il a plutôt choisi de contester simplement la valeur nette établie par l’ARC. C’est un autre moyen dont pouvait se prévaloir l’appelant mais, comme dans le cas de l’autre méthode qui consiste à établir que « même après une application en règle de la formule de la valeur nette, les cotisations étaient erronées », il en résulte, comme le juge Bowman l’a noté ci-dessus, « le sentiment trouble que la vérité n’a pas été pleinement découverte ».
+[7] À l’ouverture de l’audience, l’avocat de l’intimée a noté que, dans l’analyse de la valeur nette pour 2001, une somme de 1 600 $ devait être déduite étant donné qu’elle avait été incluse deux fois – une fois à titre d’estimation du prix d’un billet d’avion (1 600 $) et une fois comme prix réel du billet d’avion (1 530 $). De même, il convient de noter que les chiffres établis pour l’impôt sur le revenu de 2001 et 2002 étaient inclus deux fois dans l’analyse de la valeur nette et par conséquent, des montants de 1 480,01 $ devraient être déduits pour 2001 et de 296,23 $, pour 2002.
+[8] L’analyse de la valeur nette a été effectuée en trois parties – l’actif à la fin de l’année de base (1999) et à la fin de chacune des années visées a été consigné, le passif à la fin de chacune de ces années a été calculé et les dépenses personnelles pour chacune des trois années à l’étude (2000, 2001 et 2002) ont été évaluées. Ont également été pris en compte à titre de dépenses personnelles pour 2000 et 2001 des montants identifiés comme « dépenses additionnelles selon l’analyse des retraits ».
+L’actif
+[9] L’actif personnel pour chacune des années a été indiqué à l’annexe A de la réponse à l’avis d’appel déposée par l’intimée. Concernant l’actif inscrit dans cette annexe, l’appelant n’a produit aucune preuve qui laisse entendre que son actif pour chacune des années visées (1999, 2000, 2001 et 2002) était différent des chiffres figurant dans cette annexe et, par conséquent, aucun rajustement ne sera apporté à cette annexe qui contient la liste de l’actif de l’appelant pour ces années.
+Le passif
+[10] Le passif pour chacune des années figurait également à l’annexe A de la réponse à l’avis d’appel déposée par l’intimée. Pour ce qui est du passif indiqué dans cette annexe, l’appelant n’a produit aucune preuve qui laisse entendre que son passif pour l’une des années visées (1999, 2000, 2001 et 2002) était autre que les chiffres indiqués dans cette annexe. Le niveau du passif pour ces années va de 10,20 $ en 1999 à 675,17 $ en 2001. Aucun rajustement ne sera fait à l’annexe établissant le passif de l’appelant pour ces années.
+Les dépenses personnelles
+[11] Le principal point en litige porte sur les montants identifiés comme dépenses personnelles pour les années 2000, 2001 et 2002.
+[12] La nourriture constitue la première dépense personnelle. L’appelant a déclaré dans son témoignage qu’il mangeait souvent à l’extérieur au cours des années en question, à la boulangerie Mediterranean et dans une pizzeria. Il buvait également du café. Selon les estimations de l’appelant, il ne dépensait que 5 $ par jour pour sa nourriture au cours de chacune de ces années. Les montants établis dans l’analyse de la valeur nette étaient de 4 875,37 $ pour 2000, de 4 934,66 $ pour 2001 et de 4 987,81 $ pour 2002, soit une moyenne de 13,36 $ par jour pour 2000, de 13,52 $ par jour pour 2001 et de 13,67 $ par jour pour 2002. Les chiffres utilisés dans l’analyse de la valeur nette se fondent sur des renseignements de Statistique Canada. Comme l’appelant a déclaré qu’il mangeait fréquemment à l’extérieur et aussi qu’il avait dépensé beaucoup plus que 5 $ par jour pour se nourrir au cours d’un voyage à Saskatoon en 2001, aucun rajustement ne sera apporté à l’analyse de la valeur nette étant donné que les chiffres utilisés n’étaient que de 13,36 $ par jour pour 2000, de 13,52 $ par jour pour 2001 et de 13,67 $ par jour pour 2002.
+[13] Les montants se rapportant au logement étaient de 3 570, 05 $ pour 2000, de 3 661,27 $ pour 2001 et de 3 743,05 $ pour 2002, tous fondés sur des renseignements de Statistique Canada. L’appelant vivait avec Carol Simpson au cours des années en question et il a déclaré qu’il ne payait pas de loyer – il ne payait que son stationnement. Carol Simpson a également témoigné et a confirmé que l’appelant ne payait que le stationnement. L’appelant a déclaré qu’il payait 40 $ par mois de stationnement. Carol Simpson a déclaré dans son témoignage que le chèque de 600 $ que lui a fait l’appelant en date du 21 juin 2001 était destiné au paiement du stationnement. Si l’on se fonde sur une somme de 40 $ par mois, cela représenterait un paiement de 15 mois de stationnement. Étant donné que le montant de 600 $ est divisible par 40, cela est compatible avec un paiement d’un multiple de 40 $.
+[14] Carol Simpson a également déclaré que le chèque de 300 $ qu’elle avait reçu de l’appelant en date du 29 août 2001 lui avait été versé pour rembourser certaines dépenses qu’elle avait engagées au cours d’un déplacement à Granby; le chèque de 650 $ de l’appelant en date du 19 décembre 2001 visait à lui rembourser certaines dépenses ayant trait à des vacances du Nouvel An; et le chèque de 1 000 $ de l’appelant daté du 8 novembre 2002 se rapportait à l’achat d’un divan. L’établissement de ces chèques a amené l’intimée à conclure que l’appelant payait pour son hébergement. Bien que les montants n’aient pas été versés pour l’hébergement en soi, mais qu’ils n’ont pas été inclus ailleurs, ils demeureront comme dépenses personnelles sous la rubrique « hébergement ». La qualification d’une dépense personnelle particulière à titre d’hébergement ou de toute autre dépense personnelle n’a pas d’impact sur l’analyse de la valeur nette.
+[15] Par conséquent, je conclus que le montant à utiliser pour l’hébergement aurait dû être de 480 $ par année pour le stationnement, plus les trois chèques mentionnés ci-dessus (300 $ + 650 $ pour 2001 et 1 000 $ pour 2002) et par conséquent la cotisation devrait être réduite des sommes suivantes au titre de l’hébergement :
+Année
+Montant utilisé pour l’hébergement
+Montant révisé pour l’hébergement
+Réduction
+2000
+3 570,05 $
+480 $
+3 090,05 $
+2001
+3 661,27 $
+1 430 $
+2 231,27 $
+2002
+3 743,05 $
+1 480 $
+2 263,05 $
+[16] Le poste de dépenses suivant a été identifié comme « dépenses du ménage » et était constitué de frais de téléphone. L’appelant a déclaré qu’il avait un téléphone cellulaire et un accès Internet à distance. Il n’a pas produit de preuve pour contester les montants inscrits pour les « dépenses du ménage » et par conséquent aucun rajustement ne sera fait au titre de ces montants. L’appelant a déclaré qu’il utilisait son téléphone cellulaire pour son entreprise de taxi. Le pourcentage d’utilisation du téléphone pour son entreprise était, selon l’appelant, de 99 à 100 p. 100. Toutefois, aucune somme n’a été réclamée dans sa déclaration d’impôt à titre de dépenses d’entreprise pour le téléphone. Des copies des chèques établis à l’ordre de Bell Mobilité ont été déposées en preuve et le montant de ces chèques variait de 43 $ à 48 $ environ. Étant donné que l’appelant n’avait qu’un téléphone et que son témoignage sur le pourcentage d’utilisation était assez général, j’autoriserai une somme de 250 $ par année pour le coût du téléphone à titre de dépense d’entreprise.
+[17] Les montants utilisés pour l’habillement étaient de 467,29 $ pour 2000, de 479,23 $ pour 2001 et de 489,93 $ pour 2002. L’appelant a déclaré qu’il ne dépensait pas autant d’argent pour s’habiller et qu’il n’achetait que quelques articles en solde. Il a également déclaré qu’il avait peut-être acheté quelques chemises avant de se rendre au Liban en 2001. Il n’a pas produit de reçu à cet égard et son témoignage sur ce point était de nature générale. En contre-interrogatoire, on a montré à l’appelant son relevé American Express en date du 9 août 2000, qui incluait un peu moins de 400 $ pour des articles qui semblaient être des vêtements, tous achetés les 5 et 6 août 2000. Par conséquent, aucun rajustement ne sera fait pour le montant inclus pour l’habillement.
+[18] Les montants ayant trait au transport ont donné lieu à une preuve assez contradictoire et confuse. L’appelant a déclaré qu’il n’utilisait pas son propre véhicule pour son entreprise de taxi. Il changeait plutôt de voiture avec Garish Beri et utilisait l’automobile de M. Beri, pour laquelle il lui payait des frais quotidiens de 50 $ pour la période de janvier à juin 2001 et de 60 $ par jour pour la période de septembre à décembre 2001. L’appelant rencontrait M. Beri à une station-service où ils échangeaient les voitures et M. Beri rentrait chez lui au volant de la voiture de l’appelant. Celui-ci ramenait la voiture de M. Beri au domicile de ce dernier quand son quart de travail était terminé et y reprenait la sienne.
+[19] L’appelant a déclaré qu’il avait remis à son comptable une liste de toutes les dépenses qu’il avait engagées dans l’entreprise de taxi et une copie de la liste pour 2001 a été déposée en preuve sous la pièce A-6. Cette liste inclut les postes suivants :
+1-Ingénieurs professionnels de l’Ontario : 160,50 $
+2-Permis de conduire pour taxi : 144,00 $
+Garish Beri (frais de location de taxi)
+a-Tarif de 50 $ par jour
+3-De janvier au 13 juin (6*4*5*50 + 2*4*6*50) = 8 400 $
+b-Tarif de 60 $ par jour
+4-Du 15 septembre au 21 décembre
+(2*6*60 + 2*4*6*60 + 3*6*60) 5 400 $
+(Le montant indiqué dans l’annexe au dernier poste est de 5 400 $, mais le résultat mathématique des chiffres entre parenthèses est de 4 680 $.)
+[20] Aucun montant ne figure dans cette annexe au titre de l’essence ou pour l’entretien et les réparations. Toutefois, dans la déclaration d’impôt qui a été produite au nom de l’appelant pour 2001, les montants suivants ont été réclamés comme dépenses :
+Taxes d’affaires, frais, permis (etc.) 145 $
+Dépenses d’un véhicule automobile 2 312,63 $
+Location 14 500 $
+[21] Même en utilisant les montants de 8 400 $ et de 5 400 $ indiqués ci-dessus, on n’obtient qu’un total de 13 800 $ pour la location. Si l’on utilise le montant corrigé de 4 680 $, les paiements de location ne totalisent que 13 080 $.
+[22] Le véhicule utilisé pour l’entreprise de taxi était le véhicule de M. Beri et non la voiture de l’appelant. Celui-ci a déclaré que, quand la voiture de M. Beri lui était remise, le réservoir d’essence était plein et qu’il devait refaire le plein lorsqu’il ramenait le véhicule. Aucune preuve produite ne permet de croire que l’appelant était responsable de l’entretien et des réparations du véhicule de M. Beri, et pourtant un montant de 2 250 $ (rajusté pour utilisation commerciale) a été réclamé dans la déclaration d’impôt produite pour l’appelant en 2002.
+[23] De même, les relevés joints à la déclaration d’impôt de l’appelant pour chacune des années comportent un tableau de répartition pour calculer le pourcentage d’utilisation commerciale d’un véhicule automobile. Étant donné que le véhicule utilisé dans l’entreprise de taxi était la voiture de M. Beri, et non pas celle de l’appelant, la pertinence de ce tableau de répartition n’est pas claire. L’appelant payait des frais pour l’utilisation du véhicule de M. Beri et ces frais ont été réclamés comme dépenses. D’après le témoignage de l’appelant et celui de M. Beri, ce véhicule aurait dû être utilisé entièrement pour l’entreprise de taxi de l’appelant. La voiture de l’appelant n’était pas utilisée dans l’entreprise de taxi, sauf peut-être en vertu d’une clause de l’entente prévoyant que M. Beri pouvait utiliser cette voiture pour rentrer chez lui après avoir remis sa propre voiture à l’appelant. Même en acceptant qu’il s’agisse d’une utilisation commerciale, cela n’équivaut pas au nombre de kilomètres parcourus à des fins commerciales, selon les relevés joints aux déclarations d’impôt. M. Beri a déclaré qu’il vivait à seulement 10 ou 15 kilomètres du lieu où il rencontrait l’appelant. En utilisant les chiffres de 2001 tirés de la pièce A-6 pour le nombre de jours indiqués, cette utilisation ne représenterait qu’environ 3 420 kilomètres, ce qui est beaucoup moins que les 37 520 kilomètres indiqués dans le tableau de la déclaration d’impôt produite pour l’appelant en 2001 comme étant le nombre de kilomètres parcourus dans le cadre de son entreprise.
+[24] Par conséquent, l’appelant ne s’est pas acquitté du fardeau qui lui incombait d’établir, d’après la prépondérance des probabilités, que le montant relatif au transport (à titre de dépenses personnelles) est inexact et aucun rajustement ne lui sera accordé à ce titre.
+[25] Le poste suivant est celui des soins personnels. L’appelant a déclaré qu’il ne dépensait pas plus de 100 $ par année en articles de soins personnels et environ 10 $ tous les deux mois pour une coupe de cheveux. J’accepte son témoignage pour ce qui est des montants dépensés pour les soins personnels et les coupes de cheveux et, par conséquent, le montant établi pour les soins personnels est réduit à 160 $ pour chacune des trois années.
+[26] Il y a un petit montant (63,42 $) pour des loisirs en 2002 et puisqu’aucune preuve n’a été présentée à ce sujet, aucun rajustement ne sera accordé.
+[27] L’appelant a déclaré qu’en 2000, 2001 et 2002, il n’a pas acheté de journaux, de livres ou de magazines, se contentant de lire les journaux sur Internet ou d’emprunter un livre à la bibliothèque. J’accepte le témoignage de l’appelant sur ce point et, par conséquent, les montants pour la lecture et les autres documents imprimés devraient être ramenés à zéro pour chaque année.
+[28] L’appelant n’a pas contesté les chiffres établis au titre de l’éducation, c’est‑à‑dire 3 955,57 $ en 2000. L’appelant a déclaré qu’il s’agissait de frais de scolarité payés à l’Université de Toronto. Un montant de 1 148,87 $ a été réclamé au titre des frais de scolarité admissibles pour 2000 à l’annexe 1 de la déclaration d’impôt sur le revenu produite pour l’appelant en 2000. Aucune preuve n’a été déposée pour expliquer la différence entre les 3 955,57 $ et le montant de 1 148,87 $ réclamé.
+[29] L’appelant n’a pas contesté le montant de 480 $ par année pour l’alcool et le tabac.
+[30] Les montants indiqués sous la rubrique Sécurité sont les cotisations versées au Régime de pensions du Canada qui figurent sur les déclarations d’impôt produites par l’appelant pour chacune des années et, par conséquent, aucun rajustement ne sera accordé au titre de ces montants.
+[31] Le montant au titre des cadeaux et contributions se fonde sur un débit équivalent passé sur la carte American Express de l’appelant et identifié comme « cadeaux » sur le relevé de la carte de crédit en date du 9 août 2000. Aucun rajustement ne sera fait pour ce montant.
+[32] La catégorie Divers comprenait deux montants – un montant pour une cotisation professionnelle de 432 $ et l’autre de 170 $ pour des billets de loterie. Les mêmes montants ont été utilisés pour les trois années. Le reçu des Ingénieurs professionnels de l’Ontario en date d’août 2000 a été joint à la déclaration d’impôt produite pour l’appelant en 2000 et indiquait que la cotisation était de 139,10 $ (TPS incluse) pour cette année-là. Ce montant (de même que les 10 $ versés à la Fondation pour la formation des ingénieurs professionnels de l’Ontario) a été réclamé à titre de « cotisation professionnelle » dans cette déclaration. Le montant versé à la Fondation pour la formation aurait dû être réclamé comme don de charité. Étant donné que l’appelant a déclaré qu’il n’avait pas touché de revenu à titre d’ingénieur professionnel en 2000, le montant réclamé pour la cotisation professionnelle n’est pas déductible en vertu de l’article 8 de la Loi.
+[33] La pièce A-6 produite par l’appelant indiquait une cotisation professionnelle de 160,50 $ en 2001. Aucune preuve n’a été fournie à l’égard de la cotisation professionnelle pour 2002; toutefois, l’appelant a produit un reçu en date du 9 août 2005 indiquant que la cotisation s’élevait à 214 $ (TPS incluse) pour cette année-là. Cela signifierait que les frais sont passés de 160,50 $ en 2001 à 214 $ en 2005, soit une hausse moyenne de quelque 13,37 $ par année. Par conséquent, le montant qui aurait dû être utilisé pour la cotisation professionnelle en 2002 devrait être de 174 $.
+[34] Étant donné que les cotisations professionnelles ne pouvaient être déduites pour aucune de ces années puisque l’appelant ne tirait aucun revenu de sa profession d’ingénieur, les montants doivent être inclus dans l’analyse de la valeur nette.
+[35] L’appelant a également déclaré qu’il dépensait environ 10 $ par mois en billets de loterie.
+[36] Les montants indiqués dans la catégorie Divers auraient dû être les suivants pour chacune des années en cause :
+Année
+Montant utilisé pour dépenses diverses
+Montant révisé pour dépenses diverses
+Réduction
+2000
+602 $
+259,10 $
+342,90 $
+2001
+602 $
+280,50 $
+321,50 $
+2002
+602 $
+294 $
+308 $
+[37] Pour ce qui est des frais de déplacement, l’appelant a déclaré que son frère lui avait donné 4 000 $ comptant pour l’achat de billets d’avion en 2000 et qu’il avait payé le reste des billets en 2000 à même ses propres ressources. J’accepte le témoignage de l’appelant pour ce qui est de la somme de 4 000 $ donnée par son frère et, par conséquent, le montant des frais de voyage pour 2000 devrait être réduit de 4 000 $.
+[38] Sont également inclus dans les frais de voyage des montants de 675,17 $ en 2001, pour le prix d’un billet d’avion pour un voyage à Saskatoon, et de 218,74 $ en 2002 pour une chambre d’hôtel à Saskatoon. L’appelant a déclaré qu’il s’était rendu à Saskatoon en janvier 2002 pour une entrevue d’emploi et qu’il avait été remboursé des dépenses engagées. J’accepte son témoignage à cet égard et les montants pour les déplacements de 2001 devraient être réduits de 675,17 $ et de 218,74 $ pour 2002.
+[39] Il y a également un montant de 6 000 $ qui se rapporte au voyage de l’appelant au Liban en 2001 et qui devait refléter l’argent qu’il a dépensé pendant son séjour dans ce pays. L’appelant a déclaré qu’il était demeuré dans sa famille au Liban et qu’il n’avait pas dépensé 6 000 $ pendant son séjour là-bas. Il a déclaré qu’il n’avait pas dépensé plus de 2 000 $ pendant qu’il se trouvait au Liban et j’accepte son témoignage sur ce point. Par conséquent, le montant de 6 000 $ pour 2001 sera réduit à 2 000 $.
+[40] Était également inclus dans la catégorie Voyages un montant de 4 000 $ qui, selon les allégations de l’intimée, a été donné par l’appelant à M. Beri. Toutefois, M. Beri et l’appelant ont tout deux déclaré que l’appelant avait avancé à M. Beri cette somme de 4 000 $ au moyen de trois chèques tous datés du 13 septembre 2001 (deux chèques de 1 500 $ chacun et un de 1 000 $). Cette avance a été remboursée par compensation en appliquant les frais de location que l’appelant devait à M. Beri pour l’utilisation de la voiture de ce dernier dans son entreprise de taxi. D’après l’annexe déposée sous la pièce A-6, ces montants auraient été remboursés à la fin de 2001 (d’après la preuve qu’il y a eu compensation au moyen des montants payables par l’appelant pour les frais de location du taxi). Par conséquent, il ne s’agissait pas d’un cadeau, mais bien d’une avance ou d’un prêt et le montant pour les déplacements de 2001 devrait être réduit de 4 000 $.
+[41] L’appelant a déclaré qu’il a payé les autres montants inclus dans les frais de voyage et par conséquent ces autres montants sont confirmés.
+Dépenses personnelles additionnelles selon l’analyse des retraits
+[42] Après avoir estimé les dépenses personnelles, l’ARC a fait une analyse des retraits effectués sur les comptes de l’appelant pendant les années en question. Le vérificateur de l’ARC a déclaré qu’il avait tenu compte dans cette analyse des virements entre les comptes bancaires et que ceux-ci n’avaient pas été traités comme des retraits nets. L’analyse avait pour but de déterminer si les dépenses personnelles estimées étaient confirmées par les retraits nets des comptes. Si ceux-ci excédaient les dépenses personnelles établies par ailleurs, cela aurait voulu dire qu’il pouvait y avoir des dépenses personnelles additionnelles qui n’avaient pas été prises en compte dans l’analyse des dépenses personnelles.
+[43] Il incombait à l’appelant d’expliquer les retraits nets importants en 2000 et 2001. Il a déclaré dans son témoignage qu’il avait retiré de très grosses sommes avant son voyage au Liban en 2001. Cela a été confirmé par des copies de justificatifs de crédit pour 12 966 $ (US) et 24 428 $ (CA) en date du 21 juin 2001.
+[44] L’appelant a déclaré avoir laissé une partie de cet argent dans son compte bancaire au Liban, mais il n’a pu fournir de preuve du montant qu’il y avait laissé. Puisque aucun montant n’a été inclus dans l’actif de l’appelant à la fin de chaque année pour des fonds se trouvant dans un compte bancaire au Liban, même si l’appelant pouvait établir la somme qu’il a laissée au Liban, cela n’aurait aucun impact sur l’analyse de la valeur nette étant donné que ce montant serait déduit des dépenses personnelles additionnelles établies d’après l’analyse des retraits et le même montant serait ajouté à l’actif à la fin de l’année.
+[45] Dans les documents de l’intimée, il y a un chèque de 12 000 $ (US) tiré sur la Banque Chase en date du 23 août 2001, à l’ordre de l’appelant. Les notes du vérificateur dans le résumé détaillé des dépôts et des retraits indiquent que ce chèque a servi à acheter des fonds communs de placement et qu’aucun crédit n’a été donné à l’appelant pour ces fonds communs payés avec ce chèque. L’appelant a déclaré qu’il s’agissait d’une partie de l’argent qu’il avait emporté au Liban. L’intimée avait laissé entendre (sans fournir de preuve autre que les déclarations de l’appelant) que ce dernier avait une entreprise au Liban et que les fonds qu’il avait rapportés provenaient de cette entreprise. Dans son témoignage, l’appelant a déclaré qu’il n’avait pas d’entreprise au Liban pendant les années à l’étude. De même, il n’a fait qu’un seul voyage au Liban pendant les trois années visées (ce qui laisse entendre qu’il est peu probable qu’il ait eu une entreprise là-bas), et ce montant est inférieur aux fonds qu’il a retirés le 21 juin 2001. Le fardeau de la preuve qui incombe à l’appelant repose sur la norme de la prépondérance des probabilités et j’accepte son témoignage selon lequel ce montant (12 000 $US) est simplement une partie des fonds qu’il avait retirés le 21 juin 2001.
+[46] Par conséquent, le montant de 12 000 $US aurait dû être déduit pour déterminer les retraits nets. D’après les documents présentés par l’intimée, le taux de change au 27 août 2001 était de 1,5422 et par conséquent les 12 000 $US équivaudraient à 18 506,40 $.
+[47] Outre le chèque de 12 000 $US dont il est question ci-dessus, l’appelant a déclaré qu’il avait à son retour 6 000 $US comptant sur lui. Bien qu’il soit fait expressément mention, dans l’analyse révisée des retraits préparée par le vérificateur, des fonds communs de placement achetés avec le chèque de 12 000 $US dont il est question ci-dessus (et par conséquent ces fonds communs de placement auraient dû être inclus comme élément d’actif pour l’appelant), il n’y a pas de mention semblable de fonds communs de placement qui auraient été achetés avec les 6 000 $US comptant ou d’un dépôt de cette somme. L’appelant n’a pu relier cet argent comptant à aucun dépôt ni à aucun achat de fonds communs de placement et par conséquent il ne s’est pas acquitté du fardeau qui lui incombait de démontrer que les 6 000 $US avaient été pris en compte dans la détermination de son actif à la fin de 2001 et qu’ils devraient être déduits dans le calcul des dépenses personnelles additionnelles effectué dans l’analyse des retraits nets. Par conséquent, aucun redressement ne sera fait concernant la somme de 6 000 $US comptant.
+[48] Par conséquent, voici un résumé des rajustements à faire au revenu de l’appelant pour chacune des années visées :
+Poste
+2000
+2001
+2002
+Billet d’avion inclus deux fois
+1 600 $
+Impôt sur le revenu inclus deux fois
+1 480,01 $
+296,23 $
+Hébergement
+3 090,05 $
+2 231,27 $
+2 263,05 $
+Frais de téléphone
+250 $
+250 $
+250 $
+Soins personnels
+205,43 $
+211,71 $
+217,33 $
+Livres et magazines
+201,49 $
+206,64 $
+211,26 $
+Divers
+342,90 $
+321,50 $
+308 $
+Voyages – Argent comptant reçu du frère de l’appelant
+4 000 $
+Voyage à Saskatoon
+675,17 $
+218,74 $
+Voyage au Liban
+4 000 $
+Prêt à M. Beri (identifié comme don à un ami)
+4 000 $
+Fonds recrédités au compte (rajustement à l’analyse des retraits)
+18 506,40 $
+8 089,87 $
+33 482,70 $
+3 764,61 $
+[49] Le résultat net concernant le revenu réévalué est le suivant :
+2000
+2001
+2002
+Revenu inscrit dans les déclarations
+10 038 $
+7 562 $
+7 795 $
+Nouvelle cotisation : revenu sous-déclaré
+21 778,34 $
+50 328,23 $
+23 203,57 $
+Rajustements découlant du jugement
+(8 089,87 $)
+(33 482,70 $)
+(3 764,61 $)
+Revenu révisé
+23 726,47 $
+24 407,53 $
+27 233,96 $
+Pénalités
+[50] Le revenu révisé représente des sommes importantes quand on le compare au revenu déclaré. L’appelant a fait valoir qu’il n’avait pas signé les déclarations d’impôt sur le revenu qui ont été produites en preuve. Les pages de signature étaient incluses dans les déclarations d’impôt de 2001 et de 2002 et aucune de ces déclarations n’a été signée par l’appelant. La page de signature ne figurait pas dans la déclaration d’impôt pour 2000.
+[51] Toutefois, l’appelant a retenu les services d’un cabinet comptable pour préparer ses déclarations en son nom et elles ont été produites auprès de l’ARC. Comme il l’a déclaré à plusieurs reprises au cours de l’audience, l’appelant a fait des études d’ingénieur professionnel. Il aurait donc dû savoir qu’il avait la responsabilité de produire une déclaration d’impôt sur le revenu et en fait il a retenu les services d’un cabinet comptable pour le faire. Les déclarations d’impôt non signées auraient pu être rejetées par l’ARC, mais elles ne l’ont pas été. Si les déclarations non signées ne sont pas les déclarations d’impôt de l’appelant, alors celui-ci a omis de s’acquitter de son obligation de produire ses déclarations d’impôt aux termes de l’article 150 de la Loi. Puisque les déclarations ont manifestement été produites auprès de l’ARC, je conclus que les déclarations d’impôt qui ont été produites sur les instructions de l’appelant sont celles de l’appelant pour chacune des années en question.
+[52] Au cours du contre-interrogatoire, l’avocat de l’intimée a attiré l’attention de l’appelant sur l’annexe 5 des déclarations d’impôt pour 2001 et 2002. Pour chacune de ces années, l’annexe 5 était partiellement remplie et indiquait que l’appelant avait une fille. Aucun prénom n’a été indiqué, pas plus que la date de naissance, mais un montant a été réclamé pour une personne à charge admissible à l’annexe 1, comme si cette fille existait. L’appelant a nié fermement avoir une fille, mais il n’a pas pu expliquer pourquoi il a réclamé un montant pour cette fille inexistante, sauf qu’il a blâmé les comptables qui n’étaient pas présents.
+[53] Dans la décision Venne c. La Reine, [1984] C.T.C. 223, 84 DTC 6247, le juge Strayer, de la Section de première instance de la Cour fédérale, a fait les observations suivantes sur le sens à donner à la faute lourde pour les fins des pénalités imposées en vertu du paragraphe 163(2) de la Loi :
+La "faute lourde" doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi.
+[54] En l’espèce, l’intimée s’est acquittée du fardeau de la preuve qui lui incombait aux termes du paragraphe 163(3) de la Loi. Les déclarations d’impôt produites au nom de l’appelant incluaient une déduction pour une fille inexistante. L’appelant n’avait aucun document pour étayer le montant indiqué comme revenu dans ses déclarations d’impôt et il n’a pu fournir d’explication sur la façon dont ce revenu a été déterminé. Le seul document qu’il a produit au sujet des dépenses était une liste d’une demi-page répertoriant les différents postes de dépenses. L’appelant qui exploitait une entreprise de taxi, dont le montant des courses n’était jamais le même, a déclaré exactement le même montant comme revenu pour deux des trois années visées. Il n’y avait ni livres ni registres pour l’entreprise de taxi. Par conséquent, l’appelant a fait preuve d’« indifférence au respect de la Loi » et les pénalités établies aux termes du paragraphe 163(3) de la Loi sont maintenues et seront appliquées au montant révisé qui a été fixé comme étant la responsabilité fiscale de l’appelant pour chacune des années, compte tenu des rajustements à son revenu qui ont été décidés en l’espèce.
+Signé à Ottawa, Canada, ce 18e jour d’avril 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 26e jour de mars 2008.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2007CCI225
+No DU DOSSIER DE LA COUR : 2006-2813(IT)I
+INTITULÉ : Taher Abou Said
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Ottawa (Canada)
+DATES DE L’AUDIENCE : Les 12, 14 et 15 février 2007
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 18 avril 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Andrew Miller
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)

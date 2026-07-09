@@ -1,0 +1,111 @@
+Title: Sport Collection Paris Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27208/index.do
+Corpus path: corpus/cases/tcc/2007/2006-cci-394-27208-sport-collection-paris-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-09-06
+
+# Sport Collection Paris Inc. c. La Reine
+
+- Citation: 2006 CCI 394
+- Decision date: 2007-09-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 814, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sport Collection Paris Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-06
+Référence neutre
+2006 CCI 394
+Numéro de dossier
+2005-2982(GST)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-2982(GST)G
+ENTRE :
+SPORT COLLECTION PARIS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 28 et 29 juin 2006, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocats de l'appelante :
+Me Louis-Frédérick Côté et Me Josée Massicotte
+Avocat de l'intimée :
+Me Denis Émond
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise ( « LTA » ), dont l'avis est daté du 23 décembre 2004 et porte le numéro 0311010536 pour la période du 1er décembre 2000 au 30 novembre 2003 est admis avec dépens et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que l'appelante a droit aux crédits de taxe sur les intrants réclamés au montant de 736 524,90 $, aux termes de l'article 169 de la LTA. La pénalité et les intérêts sont en conséquence annulés.
+Signé à Ottawa, Canada, ce 12e jour de juillet 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2006CCI394
+Date : 20060712
+Dossier : 2005-2982(GST)G
+ENTRE :
+SPORT COLLECTION PARIS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Par cotisation en vertu de la partie IX de la Loi sur la taxe d'accise ( « LTA » ), le ministre du Revenu national ( « Ministre » ) a refusé des crédits de taxe sur les intrants ( « CTI » ) au montant de 736 524,90 $ en sus d'imposer des pénalités et intérêts pour la période du 1er décembre 2000 au 30 novembre 2003.
+[2] Le Ministre a refusé les CTI au motif que la taxe sur laquelle l'appelante réclame ces CTI a été versée à des sous-traitants qui, selon le Ministre, émettaient des factures d'accommodation puisque, soit ces sous-traitants n'avaient pas la capacité de production nécessaire pour rendre les services requis, soit, ils n'agissaient pas à titre d'intermédiaire (voir paragraphe 24 d) de la Réponse à l'avis d'appel).
+[3] L'appelante exploite une entreprise qui conçoit et fabrique des vêtements pour dames. Elle achète les tissus et donne la confection en sous-traitance. Au cours de la période en litige, l'appelante a transigé avec 80 sous-traitants différents. Le Ministre conteste les factures établies par 26 de ces 80 sous-traitants.
+[4] Le Ministre reconnaît que la confection des vêtements a bien été effectuée et que les sous-traitants ont retourné la marchandise à l'appelante selon les spécifications requises par l'appelante. Le Ministre reconnaît également que l'appelante a acquitté auprès de chaque sous-traitant la taxe sur le coût établi pour la confection des vêtements. Le Ministre reconnaît aussi que l'appelante n'a pas reçu de ristourne sur la taxe ainsi versée.
+[5] L'intimée conteste le droit à l'appelante à ses CTI au motif que les services de confection ont été rendus par des personnes autres que les sous-traitants qui ont établi les factures. Dans les faits, il semble que la majorité des 26 sous-traitants en question n'ont pas remis au gouvernement la taxe perçue. Dans certains cas, le sous-traitant aurait sous-contracté avec un autre sous-contractant, lequel n'aurait pas remis la taxe au gouvernement.
+[6] Sans prétendre avoir la preuve que l'appelante était de collusion avec les 26 sous-traitants en question, le Ministre soutient que l'appelante a en quelque sorte, fait preuve d'aveuglement volontaire en acceptant de sous-traiter avec des sous-contractants, sans trop s'informer si ces derniers remettraient au gouvernement la taxe perçue. Le Ministre soutient que la taxe perçue de l'appelante par ces sous-contractants a servi à payer des employés au noir, et que l'appelante en est responsable puisqu'elle n'a pas démontré que ces sous-traitants avaient réellement rendu les services facturés ou agi comme intermédiaires aux fins de la perception de la taxe sur les produits et services ( « TPS ). Pour ces raisons, le Ministre conclut que l'appelante n'a donc pas droit aux CTI. L'avocat de l'intimée soutient que le Ministre, n'étant pas partie au contrat conclu entre l'appelante et les sous-contractants, n'est pas en mesure d'établir que l'appelante était réellement étrangère à ce stratagème. Il soutient que l'appelante avait l'obligation d'assigner les sous-traitants en question à témoigner devant la Cour afin de prouver qu'elle était totalement de bonne foi en leur donnant les contrats de confection et en leur versant la taxe. Il soutient que l'appelante n'a pas prouvé qu'elle connaissait tous et chacun des sous-traitants et qu'elle a réellement passé des contrats avec eux. Il soutient que l'appelante doit prouver que les sous-traitants exploitaient vraiment des activités commerciales.
+[7] Je suis d'avis que l'appelante a amplement démontré qu'elle avait contracté avec les 80 sous-contractants, incluant les 26 en litige, en procédant toujours de la même façon dans chaque cas.
+[8] J'ai entendu les témoignages de monsieur Phil Cohen, lequel contrôle l'appelante, de même que des employés travaillant à l'époque en litige dans la production (ceux qui fixaient les prix et choisissaient les contracteurs), des employés s'occupant de l'administration, et des employées en charge du contrôle de la qualité des vêtements. Ils ont tous expliqué la méthode suivie pour donner en sous-traitance les travaux de confection des vêtements. L'appelante, par le biais de ses employés, exigeait de ses sous-contractants du travail de qualité, le respect des délais et un prix raisonnable.
+[9] L'appelante s'assurait de se procurer les certificats de constitution des sous-traitants corporatifs, et les déclarations d'immatriculation de chaque sous-traitant. Elle vérifiait également sur une base mensuelle auprès de Revenu Québec que chaque sous-contractant possédait un numéro d'inscription aux fins de la TPS et de la taxe de vente du Québec ( « TVQ » ). Tout ceci a été démontré avec documents à l'appui. Revenu Québec a d'ailleurs fait parvenir des lettres à l'appelante dans lesquelles on confirmait la validité des numéros de TPS et de TVQ des sous-traitants. C'était tout ce que pouvait faire l'appelante car toute information concernant le versement de la taxe par le fournisseur de service est une information confidentielle qui ne peut être divulguée à l'appelante. Ceci est confirmé par le rapport de vérification déposé sous la pièce A-1, onglet 4, page 6.
+[10] Il est même arrivé que l'appelante ait établi des chèques au nom des sous-contractants et du ministère du Revenu du Québec conjointement, lorsque l'appelante a eu vent que les remises de taxe n'étaient pas toutes faites. Le contrôleur de l'appelante a également confirmé certaines mesures de précaution qui étaient prises. Ainsi, on faisait des listes des sous-contractants avec leurs adresses et leurs numéros de téléphone qu'on mettait à jour sur une base régulière (une à deux fois par année environ). Les anciennes listes devenaient désuètes à partir du moment où l'on procédait aux changements sur les nouvelles listes.
+[11] Les employées en charge du contrôle de la qualité des produits se rendaient chez les sous-contractants. Elles constataient et approuvaient le travail de finition. La couture était, semble-t-il, sous-contractée par les sous-contractants mais les employées de l'appelante n'ont pu vérifier ceci. Les vêtements confectionnés étaient livrés chez l'appelante, une fois approuvés par ses employées.
+[12] La vérificatrice de Revenu Québec, madame France Lamontagne, a reconnu que l'appelante tenait une comptabilité conforme et adéquate. Elle a reconnu que l'appelante n'avait reçu aucune ristourne sur la taxe versée et qu'elle n'avait pas de preuve au dossier sur la mauvaise foi de l'appelante, ou que cette dernière était au courant qu'elle faisait affaires avec des entreprises fictives. Son rapport de vérification fait allusion à plusieurs autres dossiers de vérification pour lesquels elle n'a aucune connaissance personnelle. Il n'y a eu aucun autre témoin pour l'intimée. L'avocat de l'intimée n'a pas mis en doute la crédibilité de chacun des témoins de l'appelante en contre-interrogatoire, ne posant peu ou aucune question à chacun des témoins. La vérificatrice n'a pas questionné les employés de l'appelante au cours de sa vérification.
+[13] Cette cause ressemble à la situation de faits qui prévalait dans l'affaire Joseph Ribkoff Inc. c. R., [2003] G.S.T.C. 104 (CCI). La juge Lamarre Proulx disait ceci aux paragraphes 100 et 101 :
+100 L'appelante a payé la taxe sur les services au mandataire de Sa Majesté. Il s'agissait de sociétés valides. C'est leur comportement qui n'était pas valide. Je suis d'avis que ce n'est pas à elle à supporter le fardeau économique de la tromperie organisée par les mandataires de Sa Majesté, en me fondant sur la décision de cette cour dans Manke (supra) [[1998] A.C.I. No. 759 (T.C.C.) au paragraphe 19] qui elle-même se rapporte à d'autres décisions et à la décision que j'ai rendue dans Centre de la Cité Pointe Claire c. R., [2001] T.C.J. No. 674, [2001] G.S.T.C. 119 (Fr.), [2003] G.S.T.C. 76 (Eng.) (T.C.C. [Informal Procedure]) décision à laquelle m'a référée l'avocat de l'appelante.
+101 S'il y avait eu connaissance, connivence ou collusion, de la part de l'appelante, comme l'avaient pensé les enquêteurs au départ, la décision serait tout autre. L'entente sur les faits est claire : il n'y a aucune preuve de connaissance, connivence ou collusion entre l'appelante et ces sociétés.
+[14] Dans « l'éditorial comment » qui suit cette décision, David Sherman dit ce qui suit :
+In my view, this is the correct decision. If a supplier is GST-registered, provides real service and issues an invoice with a valid registration number, and the purchaser pays the GST, the purchaser should not have to worry about whether the supplier is remitting the GST. The entire GST system is invoice-driven, specifically so that purchasers need not worry about whether suppliers are filing and remitting their net tax. It would do violence to the GST system, and interfere with the orderly conduct of business, to require purchasers to investigate whether vendors are remitting GST, or whether vendors are subcontracting their work to others.
+[15] Dans Les Voitures Orly Inc. c. R., 2005 CAF 425, la Cour d'appel fédérale dit ce qui suit au paragraphe 26 :
+[26] En outre, nous convenons avec le juge en chef adjoint que, lorsque l'opération qui fonde la demande de CTI est fictive et que les sommes censément payées au titre de la TPS ne l'ont jamais été ou ont été réacheminées au réclamant, celui-ci ne peut fonder une réclamation sur le fait que la taxe est devenue payable. Le juge en chef adjoint a conclu, au vu de la preuve, que l'appelante participait à de telles opérations fictives. La Loi et le Règlement ont été conçus pour les opérations de bonne foi entre commerçants de bonne foi. Ils n'ont jamais visé à permettre aux participants à un stratagème impliquant des opérations fictives de tirer doublement partie de ces opérations fictives en demandant avec succès des crédits d'intrants sur la taxe payable.
+[16] La Cour d'appel fédérale reconnaît implicitement qu'en l'absence de preuve de connivence ou de collusion, ou d'opérations fictives où la taxe dite payable est réacheminée au réclamant, celui qui a payé la taxe a le droit aux CTI.
+[17] Ici, l'appelante a démontré que les sous-contractants remplissaient les commandes puisque les produits finis étaient approuvés et livrés chez l'appelante. Des employées de l'appelante se rendaient sur les lieux de l'entreprise des sous-contractants pour vérifier et contrôler la finition des produits. Le contre-interrogatoire de la part de l'intimée n'a pas mis en doute ces faits. Rien n'indique qu'en sous-contractant, l'appelante exigeait que le sous-contractant exécute lui-même le travail. Une entreprise à son compte a tout le loisir de sous-contracter à nouveau si son contrat avec l'appelante ne l'en empêche pas. L'intimée n'a pas contredit ces points. Le Ministre n'a pas allégué qu'il y avait collusion ou fraude dans ses motifs de cotisation. La vérificatrice a d'ailleurs concédé qu'elle n'avait pu établir la preuve à ce sujet. Je suis d'avis que l'appelante a su démontrer selon la prépondérance des probabilités (ce qui est le fardeau de preuve exigé en matière civile) qu'elle a versé de bonne foi la taxe aux 26 sous-contractants de la même façon qu'elle le faisait avec la totalité des 80 sous-contractants avec qui elle faisait affaires, et qu'elle a donc droit aux CTI sur cette taxe.
+[18] L'appel est admis avec dépens et la cotisation est déférée au Ministre pour nouvel examen et nouvelle cotisation en tenant compte du fait que l'appelante a droit aux CTI réclamés au montant de 736 524,90 $, celle-ci s'étant conformée à toutes les conditions édictées par l'article 169 de la LTA. La pénalité et les intérêts imposés par la cotisation sous appel seront annulés en conséquence.
+Signé à Ottawa, Canada, ce 12e jour de juillet 2006.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2006CCI394
+N º DU DOSSIER DE LA COUR : 2005-2982(GST)G
+INTITULÉ DE LA CAUSE : SPORT COLLECTION PARIS INC. c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : les 28 et 29 juin 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 12 juillet 2006
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Louis-Frédérick Côté et
+Me Josée Massicotte
+Avocat de l'intimée :
+Me Denis Émond
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Louis-Frédérick Côté et
+Me Josée Massicotte
+Étude : McMillan Binch Mendelsohn
+Montréal (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

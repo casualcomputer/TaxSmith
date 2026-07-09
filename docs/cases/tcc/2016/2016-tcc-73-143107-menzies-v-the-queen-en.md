@@ -1,0 +1,211 @@
+---
+title: "Menzies v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/143107/index.do"
+last_modified: "2016-03-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 73"
+citation2: ""
+neutral_citation: "2016 TCC 73"
+decision_date: "2016-03-22"
+language: "en"
+item_id: "143107"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3105
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:55:59.094000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a5754c280f0d34f4d3070e565399de745c3ef3d818c89deb3d8bc97c0eabf4fb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Menzies v. The Queen
+
+- Citation: 2016 TCC 73
+- Decision date: 2016-03-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3105, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Menzies v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-03-22
+Neutral citation
+2016 TCC 73
+File numbers
+2014-4055(IT)I
+Judges and Taxing Officers
+Dominique Lafleur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-4055(IT)I
+BETWEEN:
+MARILENA MENZIES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 14, 2016, at Windsor, Ontario.
+Before: The Honourable Justice Dominique Lafleur
+Appearances:
+Agent for the Appellant:
+Alexander R. Menzies
+Counsel for the Respondent:
+George Boyd Aitken
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2001 taxation year is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 22nd day of March 2016.
+“Dominique Lafleur”
+Lafleur J.
+Citation: 2016 TCC 73
+Date: 20160322
+Docket: 2014-4055(IT)I
+BETWEEN:
+MARILENA MENZIES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lafleur J.
+[1] This is an appeal by Marilena Menzies (the “Appellant”) from an income tax reassessment by the Minister of National Revenue (the “Minister”) pursuant to a Notice of Redetermination for the 2001 fiscal period of Grosvenor Services 2001 Limited Partnership (“Grosvenor”) dated April 2, 2012, by Notice of Reassessment dated November 13, 2012. In reassessing the Appellant, the Minister reduced the deduction previously allowed in respect of the limited partnership loss in Grosvenor to an amount of $67,610. In computing her income for the 2001 taxation year, the Appellant originally claimed a limited partnership loss in respect of Grosvenor in the amount of $88,745. By Notice of Assessment dated May 6, 2002, the Minister allowed said deduction.
+[2] The Appellant filed a Notice of Appeal for her 2001 and 2003 taxation years to this Court beyond the time limit prescribed by subsection 169(1) of the Income Tax Act, R.S.C., 1985, c. 1 (5th supp.), as amended (the “Act”) and applied to this Court for an order to extend the time to appeal in respect of both taxation years. By order dated May 28, 2015, Justice Jorré of our Court granted the application to extend the time to appeal for the 2001 taxation year but dismissed the application for the 2003 taxation year – accordingly, this appeal is restricted to the 2001 taxation year of the Appellant.
+THE FACTS [3] In determining the Appellant’s liability to tax for the 2001 taxation year, the Minister assumed the following facts:
+a) at all relevant and material times, the Appellant was a limited partner in Grosvenor, a limited partnership of which 1444932 Ontario Limited (“1444932 Ontario”) was the general partner;
+b) at all relevant and material times, the fiscal period of Grosvenor ended on December 31;
+c) Grosvenor claimed and was allowed a net business loss in the amount of $255,788,405 for the 2001 fiscal period;
+d) by Notice of Determination dated March 30, 2005, the Minister determined a net business loss amount of $134,913,329 for the 2001 fiscal period of Grosvenor, and reduced the “at‑risk” amounts of all limited partners of Grosvenor and the production services limited partnerships carrying on business (the “pslps”) by an amount of $222,563,102;
+e) by Notice of Objection dated June 22, 2005, and under the authority of Grosvenor, 1444932 Ontario objected to the determination referred to in subparagraph d) above;
+f) pursuant to the Notice of Objection, the Minister, 1444932 Ontario, and the pslps entered into Minutes of Settlement dated November 15, 2011, to allow a net business loss in the amount of $194,882,215 for the 2001 fiscal period of Grosvenor;
+g) by Notice of Redetermination dated April 2, 2012, the Minister redetermined a net business loss in the amount of $194,876,572 for the 2001 fiscal period of Grosvenor pursuant to and in accordance with the Minutes of Settlement referred to in subparagraph f) above.[1]
+[4] At the hearing, the Appellant was represented by her spouse and agent, Mr. Alexander R. Menzies. The Appellant and her agent testified. The Appellant recognized that she was a limited partner of Grosvenor in 2001.
+[5] The Appellant and her agent admitted that all assumption of facts relied upon by the Minister to reassess the Appellant for her 2001 taxation year were true.
+[6] However, the Appellant declared before this Court that she did not receive the Letter from the Canada Revenue Agency Appeal Officer dated April 3, 2012 (the “Letter”) to which was attached the Notice of Determination dated March, 30, 2005, and the Notice of Redetermination dated April 2, 2012 (referred to above).
+[7] At the hearing, the Respondent filed Exhibit R‑1 – Confidential Offering Memorandum. Schedule “A” to this document entitled Subscription and Power of Attorney Form was recognized by the Appellant. She admitted that she had signed it.
+[8] The Respondent also filed Exhibit R‑2 – Affidavit by Colette Poisson, auditor at the Tax Services Office of the Canada Revenue Agency (the “CRA”) in Windsor. In this Affidavit, Ms. Poisson testified as follows:
+i) the Notice of Determination dated March 30, 2005 in respect of Grosvenor was issued by the Minister and is dated March 30, 2005;
+ii) the Notice of Redetermination dated April 2, 2012 in respect of Grosvenor was issued by the Minister and is dated April 2, 2012;
+iii) the Appellant’s Notice of Reassessment dated November 13, 2012 was issued by the Minister.
+[9] At paragraph 5 of the Affidavit, Ms. Poisson also declares:
+My examination of the records indicates that the Canada Revenue Agency sent copies of the Notices of Determination and Redermination to Marilena Menzies by letter dated April 3, 2012. Attached as Exhibit “C” to my Affidavit is a true copy of the letter sent by Mark Okonski, Team Leader Appeals, Canada Revenue Agency on April 3, 2012.
+[10] Ms. Poisson did not testify at the hearing.
+[11] The Appeal Officer who signed the Letter is no longer employed by the CRA.
+THE ISSUES [12] I have to determine whether this Court has jurisdiction under the fairness provisions of the Act and whether the Appellant was properly reassessed for her 2001 taxation year by Notice of Reassessment dated November 13, 2012 in respect of Grosvenor’s limited partnership loss.
+THE APPELLANT’S POSITION [13] The Appellant argued that since she did not receive the Letter and the Minister cannot prove that it sent the Notice of Determination and Notice of Redetermination to her as required under subsection 152(1.5) of the Act, the reassessment of the Appellant by Notice of Reassessment dated November 13, 2012 is invalid. Furthermore, the Appellant stated that she did not give the general partner of Grosvenor the authority to negotiate with the Minister and enter into the Minutes of Settlement dated November 15, 2011 on her behalf and that gives rise to a conflict of interest. In addition, the Appellant is asking for a reduction of interest charges because, in her view, the Minister did not act in a timely fashion and that resulted in interest being charged for 7 years (the Minister having exercised its discretion to reduce interest for 3 years only).
+THE RESPONDENT’S POSITION [14] The Respondent submitted that this Court does not have equitable jurisdiction and that its jurisdiction is limited by section 12 of the Tax Court of Canada Act, R.S.C., 1985, c. T‑2 (the “TCC Act”). Accordingly, this Court does not have jurisdiction to render decisions based on fairness and hence, it may not grant a reduction of the interest charged.
+[15] The Respondent took the position that the Letter was sent to the Appellant and accordingly, pursuant to subsection 152(1.7) of the Act, the redetermination of the net business loss for the 2001 fiscal period of Grosvenor is binding on the Appellant and within the time limitation set out in paragraph 152(1.7)(b) of the Act.
+DISCUSSION A. JURISDICTION OF THIS COURT [16] Since the jurisdiction of this Court under section 12 of the TCC Act is statutory, limited and specific, this Court is not able to grant the relief sought by the Appellant, that is, a reduction of the interest charged on the basis that the Minister did not act properly and in a timely fashion:
+12(1) Jurisdiction — The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the Air Travellers Security Charge Act, the Canada Pension Plan, the Cultural Property Export and Import Act, Part V.1 of the Customs Act, the Employment Insurance Act, the Excise Act, 2001, Part IX of the Excise Tax Act, the Income Tax Act, the Old Age Security Act, the Petroleum and Gas Revenue Tax Act and the Softwood Lumber Products Export Charge Act, 2006 when references or appeals to the Court are provided for in those Acts.
+. . .
+12(1) Compétence — La Cour a compétence exclusive pour entendre les renvois et les appels portés devant elle sur les questions découlant de l’application de la Loi sur le droit pour la sécurité des passagers du transport aérien, du Régime de pensions du Canada, de la Loi sur l’exportation et l’importation de biens culturels, de la partie V.1 de la Loi sur les douanes, de la Loi sur l’assurance-emploi, de la Loi de 2001 sur l’accise, de la partie IX de la Loi sur la taxe d’accise, de la Loi de l’impôt sur le revenu, de la Loi sur la sécurité de la vieillesse, de la Loi de l’impôt sur les revenus pétroliers et de la Loi de 2006 sur les droits d’exportation de produits de bois d’œuvre, dans la mesure où ces lois prévoient un droit de renvoi ou d’appel devant elle.
+[…]
+[17] The case law has largely confirmed that principle.
+[18] In Canada (National Revenue) v JP Morgan Asset Management (Canada) Inc., 2013 FCA 250, 2014 DTC 5001, the Federal Court of Appeal held that:
+[83] The Tax Court does not have jurisdiction on an appeal to set aside an assessment on the basis of reprehensible conduct by the Minister leading up to the assessment, such as abuse of power or unfairness . . . If an assessment is correct on the facts and the law, the taxpayer is liable for the tax. . . .
+[19] Also, in Ereiser v Canada, 2013 FCA 20, 2013 DTC 5036, Justice Sharlow stated that:
+[31] [T]he role of the Tax Court of Canada in an appeal of an income tax assessment is to determine the validity and correctness of the assessment based on the relevant provisions of the Income Tax Act and the facts giving rise to the taxpayer’s statutory liability. Logically, the conduct of a tax official who authorizes an assessment is not relevant to the determination of that statutory liability. . . . [Emphasis added]
+B. INCOME TAX REASSESSMENT OF THE APPELLANT FOR THE 2001 TAXATION YEAR [20] Before examining the tax liability of the Appellant, I wish to address the argument raised by the Appellant to the effect that she did not give the general partner of Grosvenor the authority to negotiate with the Minister and enter into the Minutes of Settlement dated November 15, 2011 on her behalf. In my opinion, that argument is not sound. As indicated in Schedule “A” to the Confidential Offering Memorandum filed as Exhibit R‑1 which was executed by the Appellant, the Appellant had irrevocably constituted and appointed the general partner of Grosvenor (namely, 1444932 Ontario) “with full power of substitution, as his or her true and lawful attorney and agent, with full power and authority in his or her name, place and stead and for his or her benefit to:”
+. . .
+3.01(iii) execute, deliver and file all elections, determinations, or designations under the Tax Act or any other taxation or other legislation or laws of Canada or any other jurisdiction in respect of the affairs of the Limited Partnership or a limited partner’s interest in the Limited Partnership or the dissolution of the Limited Partnership, including any appropriate tax election forms which are, in the opinion of the General Partner, appropriate in the circumstances;
+[21] Given the power of attorney executed by the Appellant, the Appellant cannot argue that the general partner did not have authority to negotiate with the tax authorities on her behalf. It is the usual practice when investments are made as a limited partner that the general partner be given vast powers to deal with the tax authorities on behalf of the limited partners.
+[22] I will now examine the tax liability of the Appellant for the 2001 taxation year.
+[23] The relevant provisions of the Act read as follows:
+152(1.4) Determination in respect of a partnership — The Minister may, within 3 years after the day that is the later of
+(a) the day on or before which a member of a partnership is, or but for subsection 220(2.1) would be, required under section 229 of the Income Tax Regulations to make an information return for a fiscal period of the partnership, and
+(b) the day the return is filed,
+determine any income or loss of the partnership for the fiscal period and any deduction or other amount, or any other matter, in respect of the partnership for the fiscal period that is relevant in determining the income, taxable income or taxable income earned in Canada of, tax or other amount payable by, or any amount refundable to or deemed to have been paid or to have been an overpayment by, any member of the partnership for any taxation year under this Part.
+(1.5) Notice of determination — Where a determination is made under subsection 152(1.4) in respect of a partnership for a fiscal period, the Minister shall send a notice of the determination to the partnership and to each person who was a member of the partnership during the fiscal period.
+(1.6) Absence of notification — No determination made under subsection 152(1.4) in respect of a partnership for a fiscal period is invalid solely because one or more persons who were members of the partnership during the period did not receive a notice of the determination.
+(1.7) Binding effect of determination — Where the Minister makes a determination under subsection 152(1.4) or a redetermination in respect of a partnership,
+(a) subject to the rights of objection and appeal of the member of the partnership referred to in subsection 165(1.15) in respect of the determination or redetermination, the determination or redetermination is binding on the Minister and each member of the partnership for the purposes of calculating the income, taxable income or taxable income earned in Canada of, tax or other amount payable by, or any amount refundable to or deemed to have been paid or to have been an overpayment by, the members for any taxation year under this Part; and
+(b) notwithstanding subsections 152(4), 152(4.01), 152(4.1) and 152(5), the Minister may, before the end of the day that is one year after the day on which all rights of objection and appeal expire or are determined in respect of the determination or redetermination, assess the tax, interest, penalties or other amounts payable and determine an amount deemed to have been paid or to have been an overpayment under this Part in respect of any member of the partnership and any other taxpayer for any taxation year as may be necessary to give effect to the determination or redetermination or a decision of the Tax Court of Canada, the Federal Court of Appeal or the Supreme Court of Canada.
+152(1.4) Montant déterminé relativement à une société de personnes — Le ministre peut déterminer le revenu ou la perte d’une société de personnes pour un exercice de celle-ci ainsi que toute déduction ou tout autre montant, ou toute autre question, se rapportant à elle pour l’exercice qui est à prendre en compte dans le calcul, pour une année d’imposition, du revenu, du revenu imposable ou du revenu imposable gagné au Canada d’un de ses associés, de l’impôt ou d’un autre montant payable par celui-ci, d’un montant qui lui est remboursable ou d’un montant réputé avoir été payé, ou payé en trop, par lui, en vertu de la présente partie. Cette détermination se fait dans les trois ans suivant le dernier en date des jours suivants :
+a) le jour où, au plus tard, un associé de la société de personnes est tenu par l’article 229 du Règlement de l’impôt sur le revenu de remplir une déclaration de renseignements pour l’exercice, ou serait ainsi tenu si ce n’était le paragraphe 220(2.1);
+b) le jour où la déclaration est produite.
+(1.5) Avis de détermination — Le ministre envoie un avis de la détermination effectuée en application du paragraphe (1.4) à la société de personnes concernée et à chaque personne qui en était un associé au cours de l’exercice.
+(1.6) Absence d’avis — La détermination effectuée en application du paragraphe (1.4) pour un exercice n’est pas invalidée du seul fait qu’une ou plusieurs personnes qui étaient des associés de la société de personnes concernée au cours de l’exercice n’ont pas reçu d’avis de détermination.
+(1.7) Ministre et associés liés — Les règles suivantes s’appliquent lorsque le ministre détermine un montant en application du paragraphe (1.4) ou détermine un montant de nouveau relativement à une société de personnes :
+a) sous réserve des droits d’opposition et d’appel de l’associé de la société de personnes visé au paragraphe 165(1.15) relativement au montant déterminé ou déterminé de nouveau, la détermination ou nouvelle détermination lie le ministre ainsi que les associés de la société de personnes pour ce qui est du calcul, pour une année d’imposition, du revenu, du revenu imposable ou du revenu imposable gagné au Canada des associés, de l’impôt ou d’un autre montant payable par ceux-ci, d’un montant qui leur est remboursable ou d’un montant réputé avoir été payé, ou payé en trop, par eux, en vertu de la présente partie;
+b) malgré les paragraphes (4), (4.01), (4.1) et (5), le ministre peut, avant la fin du jour qui tombe un an après l’extinction ou la détermination des droits d’opposition et d’appel relativement au montant déterminé ou déterminé de nouveau, établir les cotisations voulues concernant l’impôt, les intérêts, les pénalités ou d’autres montants payables et déterminer les montants réputés avoir été payés, ou payés en trop, en vertu de la présente partie relativement à un associé de la société de personnes et à tout autre contribuable pour une année d’imposition pour tenir compte du montant déterminé ou déterminé de nouveau ou d’une décision de la Cour canadienne de l’impôt, de la Cour d’appel fédérale ou de la Cour suprême du Canada.
+[24] The sole issue I have to decide is whether the Minister has sent to the Appellant the Notice of Determination and Notice of Redetermination with the Letter in accordance with subsection 152(1.5) of the Act. It is common ground between the parties that the Notice of Determination dated March 30, 2005 and the Notice of Redetermination dated April 2, 2012 were sent to Grosvenor and that the time limits provided by subsections 152(1.4) and 152(1.7) of the Act were met in the case at bar. The Appellant submits that since she did not receive the Letter and the Minister cannot prove that it had sent the Letter to her, the reassessment which is under appeal is invalid.
+[25] Subsection 244(20) of the Act is a deeming provision; it reads as follows:
+244(20) Members of partnerships — For the purposes of this Act,
+(a) a reference in any notice or other document to the firm name of a partnership shall be read as a reference to all the members thereof; and
+(b) any notice or other document shall be deemed to have been provided to each member of a partnership if the notice or other document is mailed to, served on or otherwise sent to the partnership
+(i) at its latest known address or place of business, or
+(ii) at the latest known address
+(A) where it is a limited partnership, of any member thereof whose liability as a member is not limited, or
+(B) in any other case, of any member thereof.
+[Emphasis added]
+244(20) Associés — Les règles suivantes s’appliquent dans le cadre de la présente loi :
+a) la mention de la dénomination d’une société de personnes dans un avis ou autre document vaut mention de tous les associés de la société de personnes;
+b) un avis ou autre document est réputé remis à chaque associé de la société de personnes si l’avis ou le document est posté, signifié ou autrement envoyé à la société de personnes :
+(i) à sa dernière adresse connue ou à son dernier lieu d’affaires connu,
+(ii) à la dernière adresse connue :
+(A) s’il s’agit d’une société de personnes en commandite, de l’un de ses associés dont la responsabilité, à titre d’associé, n’est pas limitée,
+(B) dans les autres cas, de l’un de ses associés.
+[Notre soulignement]
+[26] The technical notes issued by the Minister of Finance (May 1991 TN) on subsection 244(20) read as follows:
+New subsection 244(20) provides that every member of a partnership is to be treated as having been named in any notice or document which contains a reference to the firm name of the partnership. This subsection also provides that all notices or documents mailed, served or sent to a partnership at the last known address or place of business of the partnership or any member thereof (or, in the case of a limited partnership, of any member thereof whose liability is not limited) shall be considered to have been provided to each member of the partnership. This amendment provides a more efficient manner in which to administer and enforce the Act, especially in cases where a partnership has a large number of members [emphasis added].
+[27] I am of the view that the presumption found in subsection 244(20) of the Act is conclusive on the basis of the reasoning of this Court in H and L Kushnir v MNR, [1985] 1 CTC 2301 (TCC) (para 15), and in The Queen v Shafer, 2000 DTC 6542, a case decided by the Federal Court of Appeal. In Shafer, the Court decided that the deeming provision found in subsection 334(1) of Part IX of the Excise Tax Act, R.S.C., 1985, c. E‑15, is absolute and does not create a rebuttable presumption, since inter alia, the Minister has to be provided with efficient tools to administer the fiscal legislation.
+[28] The Notice of Determination dated March 30, 2005 and the Notice of Redetermination dated April 2, 2012 were sent to the general partner, namely 1444932 Ontario (see Exhibit R‑2). Pursuant to clause 244(20)(b)(ii)(A) of the Act, each limited partner of Grosvenor, including the Appellant, is deemed to have been provided with said Notices.
+[29] Subsection 152(1.5) of the Act provides that the notice shall be sent by the Minister and does not provide that it has to be mailed; accordingly, in view of the applicable presumption, I conclude that the Notice of Determination dated March 30, 2005 and the Notice of Redetermination dated April 2, 2012 have indeed been provided to the Appellant since they were sent to 1444932 Ontario, the general partner of Grosvenor. Accordingly, it is clear that the argument of the Appellant cannot stand and her appeal shall be dismissed.
+[30] However, even if I were to conclude that the above‑noted presumption is rebuttable, I am of the view that the reassessment under appeal is valid and the appeal shall be dismissed, for the following reasons.
+[31] I am not persuaded by the allegation of the Appellant to the effect that she did not receive the Letter. She admitted that she had received the Notice of Reassessment dated November 13, 2012; the address indicated in the Notice of Reassessment is the same as the one indicated in the Letter. Furthermore, the Notice of Reassessment referred to the Letter. In my view the Appellant is not credible when she declared that she did not receive the Letter.
+[32] As Justice Valerie Miller held in Nicholls v The Queen, 2011 TCC 39, 2011 DTC 1063, in a case where an applicant had filed an application for an extension of time to appeal, the Crown “only has the onus to prove the assessments were sent if the Applicant alleges that he has not received the assessments and that allegation is credible.” (para 15). I am of the view that these principles should apply in this case.
+[33] Since I do not find the allegation of the Appellant to be credible, the Respondent does not have to prove that the Letter (together with the Notice of Determination dated March 30, 2005 and the Notice of Redetermination dated April 2, 2012) were sent to the Appellant.
+[34] Furthermore, the language of subsection 152(1.6) of the Act is clear – whether one or more limited partners have received the notice of determination or not is not relevant for the validity of a notice of determination issued in accordance with subsection 152(1.4) of the Act.
+[35] Finally, all the assumption of facts relied upon by the Minister to reassess the Appellant were admitted by the Appellant and her agent. The real issue in this appeal is the time it took the Minister to reassess the Appellant – fairness is an issue which is not within the jurisdiction of this Court.
+[36] For all these reasons, the appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 22nd day of March 2016.
+“Dominique Lafleur”
+Lafleur J.
+CITATION:
+2016 TCC 73
+COURT FILE No.:
+2014-4055(IT)I
+STYLE OF CAUSE:
+MARILENA MENZIES AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Windsor, Ontario
+DATE OF HEARING:
+January 14, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Dominique Lafleur
+DATE OF JUDGMENT:
+March 22, 2016
+APPEARANCES:
+Agent for the Appellant:
+Alexander R. Menzies
+Counsel for the Respondent:
+George Boyd Aitken
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] No evidence was adduced at the hearing to explain the different amount.

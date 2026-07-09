@@ -1,0 +1,282 @@
+Title: Gleig c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/110968/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-191-110968-gleig-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-07-29
+
+# Gleig c. La Reine
+
+- Citation: 2015 CCI 191
+- Decision date: 2015-07-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2618, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gleig c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-07-29
+Référence neutre
+2015 CCI 191
+Numéro de dossier
+2013-1335(IT)I, 2013-1336(IT)I, 2013-1337(IT)I
+Juges et Officiers taxateurs
+Kathleen T. Lyons
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-1335(IT)I
+ENTRE :
+THOMAS GLEIG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de Joana Barbulescu – 2013‑1336(IT)I et d’Andrew Nick – 2013‑1337(IT)I le 25 septembre 2014, à Vancouver (Colombie‑Britannique),
+avec observations écrites conclues le 15 janvier 2015
+Devant : L’honorable juge K. Lyons
+Comparutions :
+Avocat des appelants :
+Me John Drove
+Avocat de l’intimée :
+Me Shankar Kamath
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2002 est rejeté. Un seul ensemble de dépens entre parties est accordé à l’intimée.
+Signé à Nanaimo (Colombie‑Britannique), ce 29e jour de juillet 2015.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 4e jour de septembre 2015.
+Mylène Boudreau, traductrice
+Dossier : 2013‑1336(IT)I
+ENTRE :
+JOANA BARBULESCU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de Thomas Gleig – 2013‑1335(IT)I et Andrew Nick – 2013‑1337(IT)I
+le 25 septembre 2014, à Vancouver (Colombie‑Britannique),
+avec observations écrites conclues le 15 janvier 2015
+Devant : L’honorable juge K. Lyons
+Comparutions :
+Avocats des appelants :
+Me John Drove
+Avocats de l’intimée :
+Me Shankar Kamath
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2002 est rejeté. Un seul ensemble de dépens entre parties est accordé à l’intimée.
+Signé à Nanaimo (Colombie‑Britannique), ce 29e jour de juillet 2015.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 4e jour de septembre 2015.
+Mylène Boudreau, traductrice
+Dossier : 2013‑1337(IT)I
+ENTRE :
+ANDREW NICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de Thomas Gleig – 2013‑1335(IT)I et Joana Barbulescu – 2013-1336(IT)I
+le 25 septembre 2014, à Vancouver (Colombie‑Britannique),
+avec observations écrites conclues le 15 janvier 2015
+Devant : L’honorable juge K. Lyons
+Comparutions :
+Avocat des appelants :
+Me John Drove
+Avocat de l’intimée :
+Me Shankar Kamath
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2002 est rejeté. Un seul ensemble de dépens entre parties est accordé à l’intimée.
+Signé à Nanaimo (Colombie‑Britannique), ce 29e jour de juillet 2015.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 4e jour de septembre 2015.
+Mylène Boudreau, traductrice
+Référence : 2015 CCI 191
+Date : 20150729
+Dossier : 2013-1335(IT)I
+ENTRE :
+THOMAS GLEIG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2013-1336(IT)I
+ET ENTRE :
+JOANA BARBULESCU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2013-1337(IT)I
+ET ENTRE :
+ANDREW NICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Lyons
+[1] Thomas Gleig, Joana Barbulescu et Andrew Nick, les appelants, ont tous interjeté appel des nouvelles cotisations du ministre du Revenu national pour l’année d’imposition 2002, dans lesquelles le ministre du Revenu national (le « ministre ») a refusé les frais de ressources au Canada (les « FRC ») réclamés par chaque appelant. Le ministre soutient que Blue Hill Bay Management Inc. (« Blue Hill ») était le promoteur d’un abri fiscal non enregistré lié à la vente à des acquéreurs éventuels d’une part dans des concessions minières (les « concessions ») appartenant à Blue Hill.
+[2] En 2002, Blue Hill et chacun des appelants, ainsi que d’autres investisseurs, ont conclu une convention d’option distincte et une convention de services de consultation distincte (les « conventions »). Suivant les conventions d’option, les appelants devaient acquérir chacun une part de 0,2 % dans les concessions en payant 2 $ à la signature des conventions et en participant à un programme de travail (en embauchant Blue Hill pour leur compte) pour engager et payer les FRC ultérieurement à certaines dates en vertu d’un billet à ordre (le « billet ») d’un montant convenu indiqué dans la convention d’option. Bien qu’il n’en soit pas question dans les conventions, chaque appelant a effectué un paiement direct équivalant à 25 % de son montant convenu respectif. En remplissant sa déclaration de revenus respective pour 2002, chaque appelant a réclamé la totalité du montant convenu à titre de FRC.
+[3] Les trois appels ont été entendus sur preuve commune. Chaque appelant a témoigné pour son propre compte. Walter Barnscher et Ann Chong, une vérificatrice de l’Agence du revenu du Canada (l’« ARC »), ont témoigné pour le compte de l’intimée. Dans l’ensemble, j’accepte le témoignage plus détaillé de M. Barnscher, le jugeant préférable et plus fiable que celui des appelants.
+I. Questions en litige [4] Les questions en litige sont les suivantes :
+a) Les appelants ont‑ils investi dans un « abri fiscal » au sens de l’article 237.1 de la Loi de l’impôt sur le revenu (la « Loi »)?
+b) À titre subsidiaire, les transactions entre Blue Hill et les appelants constituaient‑elles un stratagème et, dans l’affirmative, les appelants ont‑ils fait des fausses déclarations attribuables à la négligence, à l’insouciance ou à une omission volontaire dans leur déclaration de revenus de 2002?
+II. Contexte factuel [5] Blue Hill a été constituée en société en Colombie‑Britannique le 8 avril 1998. En 2002, elle détenait un intérêt bénéficiaire dans des concessions situées à Anyox et Kitsault, en Colombie‑Britannique, comme l’indique l’annexe « A » des conventions d’option.
+[6] Walter Barnscher était l’âme dirigeante ainsi que le seul employé de Blue Hill et il agissait au nom de l’entreprise[1].
+[7] À la fin de 2001 ou au début de 2002, chaque appelant a rencontré individuellement Walter Barnscher à une occasion pour discuter de l’achat possible d’une option pour acquérir une part dans les concessions ainsi que des étapes de l’arrangement, y compris la possibilité de déduire le montant convenu dans leur déclaration de revenus de 2002.
+[8] Les appelants – ainsi que d’autres investisseurs – devaient conclure les arrangements suivants avec Blue Hill pour obtenir une option afin d’acquérir une part dans les concessions, ce qu’ils ont fait.
+Convention d’option
+[9] En vertu de leur convention d’option respective (les « conventions d’option »), les appelants se sont vu consentir une option pour acquérir une part (0,2 %) dans les concessions (la « part ») en prenant les mesures suivantes :
+i) payer 2 $ à la signature de la convention d’option;
+ii) participer à un programme de travail et engager des FRC admissibles d’un montant convenu pour chacun au plus tard le 31 décembre 2002;
+iii) payer leur montant convenu respectif à Blue Hill au plus tard le 31 décembre 2003.
+[10] Les montants convenus étaient de 40 000 $, de 28 000 $ et de 32 000 $, engagés respectivement par Thomas Gleig, Joana Barbulescu et Andrew Nick (le ou les « montants »).
+Convention de services de consultation
+[11] En vertu de leur convention de services de consultation respective (les « conventions de services de consultation »), les appelants ont embauché Blue Hill pour entreprendre les travaux, à titre d’exploitant et de gestionnaire de projet, dans le cadre du programme de travail. Blue Hill a acheté des crédits pour l’exploration auprès de Tenton Resources et d’autres entités et a donné en sous‑traitance les travaux d’exploration à une société affiliée, Hidden Rock Drilling Inc., et à d’autres entités.
+[12] Les appelants ont tous affirmé qu’ils avaient supposé que Blue Hill avait entrepris le programme de travail et engagé les FRC admissibles.
+Billet à ordre
+[13] Les travaux réalisés par Blue Hill seraient payables par chaque appelant conformément à un billet comprenant une promesse de payer Blue Hill ou sur demande pour le montant convenu, précisé dans la convention d’option, plus des intérêts de 6 % par année.
+[14] Les conventions et les billets entraient en vigueur le 1er janvier 2002.
+Paiement direct
+[15] Monsieur Barnscher a affirmé que pour participer à l’arrangement, chaque appelant devait faire un paiement direct (c.‑à‑d. un dépôt) équivalant à 25 % du montant, ce qu’ils ont fait par chèque entre octobre et décembre 2002. Le paiement direct n’était pas mentionné dans les conventions.
+Facture
+[16] Une facture datée du 31 décembre 2002 a été transmise par Blue Hill à chaque appelant relativement au programme de travail. Chaque facture comprend le montant, moins le « dépôt » reçu, et le solde dû.
+[17] Chaque appelant a réclamé la totalité de son montant à titre de FRC (qui comprend les frais d’aménagement au Canada (les « FAC ») et les frais d’exploration au Canada (les « FEC »)) conformément à l’article 66.3 de la Loi au cours de l’année d’imposition 2002.
+[18] Walter Barnscher a admis que Blue Hill n’avait pas directement effectué de FAC ou de FEC et avait acheté des crédits pour des concessions minières auprès de Tenton Resources et avait consulté Hidden Rock Drilling Inc. pour remplir ses obligations conformément à la convention de services de consultation. Blue Hill n’était pas une entité intermédiaire.
+[19] Les nouvelles cotisations des appelants découlent de la vérification de Blue Hill par l’ARC et ont été établies le 8 mars 2009, trois ans après la période normale de nouvelle cotisation de chaque appelant indiquée dans les paragraphes 152(3.1) et 152(4) de la Loi.
+[20] Blue Hill n’a pas enregistré le bien comme abri fiscal. Elle s’est vu imposer une pénalité conformément au paragraphe 237.1(7.4) de la Loi et n’a pas payé cette pénalité.
+[21] Avant de constituer Blue Hill en société, M. Barnscher avait fait la promotion d’un arrangement semblable pour le compte de Hidden Rock Drilling Ltd., dans lequel les investisseurs devaient embaucher et payer Hidden Rock Drilling Ltd. pour affecter ou engager des FEC en leur nom.
+III. Dispositions législatives [22] Tous les renvois à des dispositions législatives dans les présents motifs visent les dispositions de la Loi applicables à l’année d’imposition 2002, à moins d’indication contraire.
+[23] Les paragraphes 237.1(1), (2), (6.1), (6.2) et (7.4) sont les dispositions applicables, lesquelles sont rédigées comme suit :
+237.1 (1) Définitions – Les définitions qui suivent s’appliquent au présent article.
+« abri fiscal » bien (y compris, pour plus de certitude, le droit à un revenu) pour lequel il est raisonnable de considérer, compte tenu de déclarations ou d’annonces faites ou envisagées relativement au bien, que, si une personne acquérait une part dans le bien, le montant visé à l’alinéa a) serait, à la fin d’une année d’imposition qui se termine dans les quatre ans suivant le jour où la part est acquise, égal ou supérieur au montant visé à l’alinéa b) :
+a) le total des montants représentant chacun :
+(i) un montant ou, dans le cas d’une part dans une société de personnes, une perte qui est annoncé comme étant déductible dans le calcul du revenu au titre de la part (y compris, si le bien est un droit à un revenu, un montant ou une perte afférent à ce droit qui est annoncé comme étant déductible) et qui pourrait être engagé ou subie par la personne ou attribué à celle-ci pour l’année ou pour une année d’imposition antérieure,
+(ii) un autre montant qui est annoncé comme étant déductible dans le calcul du revenu ou du revenu imposable au titre de la part et qui pourrait être engagé par la personne ou attribué à celle-ci pour l’année ou pour une année d’imposition antérieure, à l’exclusion d’un montant inclus dans le calcul d’une perte visée au sous-alinéa (i);
+b) l’excédent éventuel du montant visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
+(i) le coût de la part pour la personne à la fin de l’année, déterminé compte non tenu de l’article 143.2,
+(ii) la valeur totale des avantages visés par règlement que la personne ou toute personne avec laquelle elle a un lien de dépendance pourrait recevoir, directement ou indirectement, au titre de la part.
+Les actions accréditives et les biens visés par règlement ne sont pas considérés comme des abris fiscaux.
+« promoteur » Personne qui, quant à un abri fiscal et dans le cours des activités d’une entreprise :
+a) émet ou vend l’abri fiscal ou fait la promotion de son émission, de sa vente ou de son acquisition;
+b) agit, à titre de mandataire ou de conseiller, en ce qui concerne l’émission ou la vente de l’abri fiscal ou la promotion de son émission, de sa vente ou de son acquisition;
+c) accepte, à titre de principal ou de mandataire, une contrepartie relativement à l’abri fiscal.
+Au même abri fiscal peut correspondre plus d’un promoteur d’abris fiscaux.
+(2) Demande de numéro d’inscription – Tout promoteur doit, quant à un abri fiscal, demander au ministre, sur le formulaire prescrit contenant les renseignements prescrits, d’attribuer un numéro d’inscription à cet abri fiscal, sauf si demande en a déjà été faite.
+[…]
+(6.1) Déductions refusées en cas de pénalité – Une personne ne peut demander ou déduire un montant pour une année d’imposition au titre de son abri fiscal si une personne est passible de la pénalité prévue aux paragraphes (7.4) ou 162(9) relativement à l’abri fiscal, ou est redevable d’intérêts sur cette pénalité, et si :
+a) la pénalité ou les intérêts n’ont pas été payés;
+b) la pénalité et les intérêts ont été payés, mais un montant au titre de la pénalité ou des intérêts a été remboursé aux termes du paragraphe 164(1.1) ou imputé selon le paragraphe 164(2).
+(6.2) Cotisations – Malgré les paragraphes 152(4) à (5), le ministre peut établir les cotisations voulues et déterminer ou déterminer de nouveau les montants voulus pour l’application du paragraphe (6.1).
+[…]
+(7.4) Pénalité – Toute personne qui, relativement à un abri fiscal, fournit des renseignements faux ou trompeurs au ministre dans la demande visée au paragraphe (2) ou contrevient au paragraphe (4) est passible d’une pénalité égale au plus élevé des montants suivants :
+a) 500 $;
+b) 25 % du total des montants représentant chacun la contrepartie reçue ou à recevoir d’une personne relativement à l’abri fiscal avant que les renseignements corrigés aient été fournis au ministre ou avant qu’un numéro d’inscription ait été attribué à l’abri fiscal, selon le cas […]
+[Non souligné dans l’original.]
+IV. Thèse
+[24] La thèse des appelants est qu’ils ont tous conclu les conventions pour avoir l’option d’acquérir leur part respective qu’ils considéraient comme une affaire rentable et viable. Ils ont payé 25 % de la valeur nominale des billets et avaient l’intention de payer le solde à la demande de Blue Hill et, par conséquent, ils ont droit aux FRC réclamés. La participation au programme de travail était secondaire dans leur décision d’acquérir une part dans les concessions.
+[25] En outre, les appelants soutiennent que les transactions ne sont pas des stratagèmes et qu’ils n’ont fait aucune assertion attribuable à la négligence, à l’insouciance ou à une omission volontaire ni commis une fraude en remplissant leur déclaration de revenus respective ou en fournissant des renseignements au ministre en vertu de la Loi.
+[26] La thèse de l’intimée est que Blue Hill a fait la promotion, avec son âme dirigeante Walter Barnscher, de la vente de parts à des acquéreurs éventuels, y compris les appelants. Tous les éléments constitutifs sont présents pour répondre à la définition d’« abri fiscal » au paragraphe 237.1(1). Puisqu’il s’agissait d’un abri fiscal non enregistré et faisant l’objet d’une pénalité impayée, les appelants ne peuvent déduire quelque montant que ce soit conformément au paragraphe 237.1(6.1) et ne sont pas frappés de prescription en vertu du paragraphe (6.2).
+[27] Subsidiairement, les billets et factures constituaient un stratagème puisque personne n’a jamais exigé que les appelants paient les montants ou prennent des mesures en ce sens.
+V. Analyse Abri fiscal
+[28] L’abri fiscal au sens de l’article 237.1 fait référence à tout « bien » ayant comme condition préalable de faire l’objet de déclarations ou d’annonces liées à l’acquisition présumée du bien avant l’achat réel par un éventuel acheteur. Les éléments de la définition d’abri fiscal se composent de tout « bien » mis en vente lorsque des déclarations ou des annonces relativement au bien :
+a) sont faites ou proposées d’être faites avant la vente du bien;
+b) par un vendeur éventuel, ou un mandataire, à un acheteur éventuel pour encourager ou inciter à acquérir le bien;
+c) qui communique ou annonce un montant déductible, relativement au bien, et qui pourrait être engagé ou subi par l’acheteur éventuel ou attribué à celui-ci pour le calcul du revenu par suite de l’acquisition du bien;
+d) il est possible de déterminer objectivement que dans un certain laps de temps (présenté plus en détail au paragraphe 40 des présents motifs), le montant annoncé comme étant déductible est égal ou supérieur au coût de cette acquisition, déterminé à la fin de cette année d’imposition, moins le montant de tous les « avantages visés par règlement » que l’acquéreur éventuel pourrait recevoir, directement ou indirectement, au titre de ce bien[2].
+[29] La définition d’abri fiscal présuppose que les déclarations ou les annonces soient faites par un vendeur ou pour le compte de celui-ci (Blue Hill et Walter Barnscher, respectivement) à un acheteur éventuel.
+Bien
+[30] Les appelants ont soutenu que les conventions et les billets constituent le « bien » pour l’application de la définition d’abri fiscal. À mon avis, il s’agit d’une mauvaise qualification. Ce sont les parts éventuelles dans les concessions qui ont été commercialisées par Blue Hill auprès des investisseurs éventuels qui constituent le bien, non les conventions ou les billets.
+Déclarations et annonces relatives au montant déductible
+[31] Dans l’arrêt Baxter, le juge Ryer affirme, au paragraphe 11, qu’il doit y avoir une communication aux acquéreurs éventuels, peu importe sa forme, pour les informer que chacun d’eux pourrait avoir droit à une déduction par suite de l’acquisition du bien offert en vente.
+[32] Les appelants ont soutenu que l’intimée n’a pas allégué que Blue Hill ou M. Barnscher avait informé les appelants de ce qui suit :
+i) le montant des dépenses que les appelants pouvaient déduire à la suite des investissements (ni si ces dépenses constitueraient des pertes déductibles dans le calcul du revenu);
+ii) les revenus prévus de Blue Hill;
+iii) le montant des pertes prévues et si celles-ci seraient déductibles pour 2002.
+[33] Selon les appelants, rien ne démontrait qu’avant l’acquisition de leur part respective dans les concessions, Blue Hill ou M. Barnscher a fait de telles déclarations ni que le montant était déductible. Il a plutôt [traduction] « rencontré une fois les appelants en disant à chacun d’eux qu’ils avaient l’occasion d’acquérir une option et d’acheter une part dans les concessions minières » et a « expliqué à chacun des appelants que s’ils réalisaient l’investissement et acquéraient l’option d’achat des concessions minières, ils pourraient déduire leurs dépenses admissibles à titre de frais de ressources au Canada conformément à la convention de services de consultation conclue entre Blue Hill et chacun des appelants ».
+[34] J’ai conclu que l’argument des appelants ne peut être retenu parce qu’il est axé, à tort, sur les acquisitions réelles plutôt que sur les acquisitions présumées concernant les acheteurs éventuels. Aux paragraphes 36 et 52 de l’arrêt Baxter, la Cour a conclu que la phrase « si une personne acquérait une part dans le bien » démontre que la définition d’abri fiscal est « prospective » et vise une acquisition présumée du bien en cause par un acquéreur éventuel.
+[35] Walter Barnscher a affirmé avoir dit aux investisseurs éventuels que s’ils participaient à l’arrangement, l’argent qu’ils recevraient aux fins de l’impôt équivaudrait à quatre fois le montant direct qu’ils ont versé. Il a aussi informé les investisseurs éventuels qu’ils pourraient réclamer des frais de 40 000 $ sur leur déclaration de revenus s’ils effectuaient un paiement direct de 10 000 $. Cet arrangement exigeait que les investisseurs, y compris chacun des appelants, prennent les mesures suivantes :
+a) conclure les conventions avec Blue Hill;
+b) payer 2 $ à la signature de la convention d’option, entreprendre un programme de travail pour engager les FRC admissibles d’un montant convenu au plus tard le 31 décembre 2002 et verser le montant convenu, indiqué dans la convention d’option, à Blue Hill au plus tard le 31 décembre 2003;
+c) signer un billet d’un montant convenu payable à Blue Hill que les investisseurs n’avaient pas à payer;
+d) effectuer un paiement direct équivalant à 25 % du montant convenu;
+e) déduire le montant convenu dans leur déclaration de revenus.
+[36] Après avoir rencontré les appelants, y compris d’autres investisseurs, M. Barnscher a envoyé les conventions (accompagnées d’une demande à savoir qu’ils devaient les signer et les retourner à Blue Hill) et les billets, antidatés du 1er janvier 2002. Il a aussi envoyé une facture datée du 31 décembre 2002 faisant état du montant convenu payable pour les travaux à réaliser ainsi qu’un modèle d’État des résultats des activités d’une entreprise dans une trousse comprenant une note de service, présentée comme pièce R-4, décrivant aux appelants comment passer en charge la totalité du montant sur leur déclaration de revenus.
+[37] Bien que les appelants aient affirmé qu’ils avaient reçu une facture pour le programme de travail vers la fin de 2002, cela contredit le témoignage de M. Barnscher selon lequel il avait envoyé la facture dans la trousse après avoir rencontré les appelants à la fin de 2001 ou au début de 2002.
+[38] La déclaration de M. Barnscher selon laquelle un montant – équivalant à quatre fois le paiement direct qu’ils ont versé – serait déductible d’impôt dans le calcul du revenu a été faite dans le contexte d’une acquisition présumée du bien par les investisseurs éventuels avant l’acquisition du bien et relativement à celui‑ci. Elle traite aussi des conséquences proposées sur l’impôt de l’acquisition présumée. La confirmation de cette déclaration a été fournie dans l’ensemble de documents transmis après la rencontre. Je conclus que cela répond à l’exigence selon laquelle le montant doit être « annoncé comme étant déductible dans le calcul du revenu » en vertu du sous‑alinéa 237.1(1)a)(i) de la définition d’abri fiscal[3].
+Montant devant être engagé
+[39] En ce qui concerne la seconde partie du sous‑alinéa 237.1(1)a)(i), un montant « qui pourrait être engagé […] par la personne » serait considéré comme une conséquence de l’acquisition présumée d’une part dans le bien à titre de montant qui peut être engagé par un acheteur éventuel (c’est‑à‑dire les appelants).
+[40] Au paragraphe 14 de l’arrêt Baxter, la Cour affirme que la question posée consiste à savoir si, à la lumière des déclarations ou des annonces communiquées, il est possible de considérer raisonnablement qu’à la fin d’une année d’imposition donnée de l’acheteur éventuel qui se termine pendant la période de quatre ans, le montant qui a été annoncé ou communiqué comme étant déductible pour l’acheteur éventuel du bien par suite de l’acquisition éventuelle du bien est égal ou supérieur au coût de cette acquisition, déterminé à la fin de l’année d’imposition donnée en question, moins le montant correspondant à tous les « avantages visés par règlement » que l’acheteur potentiel devrait recevoir ou dont il devrait jouir, directement ou indirectement, relativement au bien.
+Avantages visés par règlement
+[41] À titre d’exemple, la facture remise à M. Gleig montre les 40 000 $ (le montant) engagés, les 10 000 $ (paiement direct ou dépôt) reçus et le solde payable de 30 000 $. Les appelants ont affirmé que même s’ils n’avaient pas payé le solde dû conformément aux billets, ils croyaient qu’ils devaient le payer, et ils l’auraient payé, s’ils avaient reçu une demande de la part de Blue Hill, à défaut de quoi ils auraient perdu leur part respective.
+[42] Monsieur Barnscher a confirmé que ni le solde dû, ni la part prévus par les billets n’avaient été payés par l’un ou l’autre des appelants ou d’autres investisseurs, ni qu’ils avaient demandé des renseignements sur le solde dû. Il a indiqué que les appelants n’avaient pas à payer le solde dû énoncé dans les factures ou les billets et a confirmé que Blue Hill n’avait pas tenté de communiquer avec les appelants pour demander le paiement des billets. J’accepte l’explication de M. Barnscher et rejette les allégations des appelants selon lesquelles ils croyaient qu’ils devaient payer le montant. Je conclus que le solde dû conformément aux billets constitue un avantage visé par règlement au sens du paragraphe 231(6) du Règlement de l’impôt sur le revenu, CRC, c. 945, pour l’application de la définition d’abri fiscal au paragraphe 237.1(1)[4].
+[43] Dans les circonstances de M. Gleig, en vertu du sous‑alinéa 237.1(1)a)(i), le montant annoncé comme étant déductible dans le calcul du revenu pour l’année d’imposition 2002 et qui devait être engagé s’élevait à 40 000 $.
+[44] Puisque ce montant excède le montant de 10 000 $ décrit à l’alinéa 237.1(1)b), il est raisonnable de considérer que le calcul utilisé dans la définition d’abri fiscal au paragraphe 237.1(1) est respecté[5].
+[45] Blue Hill répond à la définition de « promoteur » à l’alinéa 237.1(1)a)[6]. Les dispositions des paragraphes 237.1(2) et (4) exigent que le promoteur d’un abri fiscal obtienne un numéro d’identification du ministre avant qu’il puisse y avoir vente d’un bien constituant un abri fiscal[7]. Il est évident que Blue Hill n’a pas demandé de numéro d’identification au ministre relativement aux parts commercialisées et une pénalité a été imposée, qui n’a toujours pas été payée[8].
+VI. Conclusion [46] Dans les circonstances, Blue Hill, en tant que promoteur, par l’intermédiaire de M. Barnscher, a commercialisé la vente des parts à des investisseurs. La déduction fiscale attendue par les acheteurs des parts était un élément de marketing avantageux. Les annonces ont été faites à des investisseurs éventuels pour le compte de Blue Hill, leur communiquant ou leur annonçant que s’ils souhaitaient acheter une part, le coût d’acquisition de la part serait entièrement déductible dans le calcul du revenu, même si seulement 25 % du coût avait été payé. La trousse d’information a été utilisée pendant la campagne de vente. À mon avis, les parts commercialisées, y compris les parts acquises par les appelants, respectent les éléments constituant la définition d’abri fiscal et un numéro d’identification de l’abri fiscal aurait dû être obtenu avant qu’une quelconque part soit vendue. Comme l’abri fiscal n’était pas enregistré et que la pénalité demeure impayée, il est interdit aux appelants de déduire quelque montant que ce soit. Par conséquent, le ministre a correctement refusé les FRC réclamés en 2002 par chaque appelant qui ont entraîné une perte d’entreprise nette.
+[47] La conséquence de ma conclusion selon laquelle les parts commercialisées étaient des abris fiscaux est que, en vertu du paragraphe 237.1(6.1), les appelants ne peuvent réclamer de déduction liée au coût d’acquisition de leurs parts respectives parce qu’aucun montant ne peut être déduit par quelqu’un (les appelants) relativement à un abri fiscal lorsqu’une personne (Blue Hill) est responsable d’une telle pénalité qui demeure impayée.
+[48] Nonobstant les délais de prescription généraux prévus au paragraphe 152(4) concernant les cotisations et les nouvelles cotisations, le paragraphe 237.1(6.2) confère au ministre le pouvoir d’établir une nouvelle cotisation après ces délais pour donner effet au paragraphe 237.1(6.1).
+[49] Comme ces conclusions suffisent pour trancher les appels, il est inutile d’examiner les autres questions et arguments.
+VII. Mesure de redressement [50] Les appels sont rejetés.
+[51] Un seul ensemble de dépens entre parties est accordé à l’intimée.
+Signé à Nanaimo (Colombie‑Britannique), ce 29e jour de juillet 2015.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 4e jour de septembre 2015.
+Mylène Boudreau, traductrice
+RÉFÉRENCE :
+2015 CCI 191
+Nos DES DOSSIERS DE LA COUR :
+2013‑1335(IT)I, 2013‑1336(IT)I et 2013‑1337(IT)I
+INTITULÉS :
+THOMAS GLEIG et SA MAJESTÉ LA REINE
+JOANA BARBULESCU et SA MAJESTÉ LA REINE
+ANDREW NICK et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 25 septembre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge K. Lyons
+DATE DU JUGEMENT :
+Le 29 juillet 2015
+COMPARUTIONS :
+Avocat des appelants :
+Me John Drove
+Avocat de l’intimée :
+Me Shankar Kamath
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me John Drove
+Cabinet :
+John Drove Law Corporation
+Vancouver (Colombie‑Britannique)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le 23 octobre 2001, le seul directeur et agent responsable de Blue Hill, Walter Barnscher, a été remplacé par sa conjointe, Joan Barnscher. À cette date, chacun des actionnaires suivants détenait 200 actions ordinaires : Walter Barnscher, Joan Barnscher, Matthew Barnscher (fils), Shawna Barnscher (fille), Carson Barnscher et Austin Barnscher étaient actionnaires. Walter Barnscher était le seul employé.
+[2] Baxter c Canada, 2007 CAF 172, 2007 DTC 5199 (CAF) [Baxter], aux paragraphes 9 à 13. Plus récemment dans l’arrêt Canada c. O’Dwyer, 2013 CAF 200, 2013 DTC 5156 (CAF), la Cour a affirmé que les pertes réellement subies ne sont pas pertinentes.
+[3] Selon la loi, le montant déductible pourrait être le coût d’acquisition, un montant engagé pour obtenir le bien ou un montant alloué au détenteur du bien.
+[4] Selon le paragraphe 231(6) du Règlement de l’impôt sur le revenu, un avantage visé par règlement s’entend de toute somme dont il est raisonnable de s’attendre qu’elle ait pour conséquence de réduire l’effet de toute perte que l’acheteur peut subir relativement à la part dans le bien.
+[5] Le montant de 10 000 $ représente la différence entre les sous‑alinéas b)(i) et (ii), comprenant le montant de 40 000 $ pour le coût de la part et les 30 000 $ comme avantage visé par règlement pour le solde dû, respectivement.
+[6] Le promoteur doit aussi remplir une déclaration de renseignements pour l’année indiquant le nom et l’adresse de chaque investisseur ainsi que le montant payé et doit fournir aux investisseurs deux copies de la déclaration qui leur est propre.
+[7] S’il refuse de respecter ces dispositions, le promoteur qui vend ou émet des abris fiscaux avant que le ministre émette un numéro d’identification est passible d’une pénalité de 25 % de toutes les contreparties reçues ou à recevoir relativement à ces abris fiscaux.
+[8] Le paragraphe 237.1(6) exige aussi que les appelants fournissent au ministre le formulaire et le numéro de l’abri fiscal prescrits.

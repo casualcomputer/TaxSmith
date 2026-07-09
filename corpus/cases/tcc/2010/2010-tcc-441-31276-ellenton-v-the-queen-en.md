@@ -1,0 +1,136 @@
+---
+title: "Ellenton v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31276/index.do"
+last_modified: "2010-07-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 441"
+citation2: ""
+neutral_citation: "2010 TCC 441"
+decision_date: "2010-07-08"
+language: "en"
+item_id: "31276"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5117
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:11:15.147000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0044965c37c1e76dddfd71c88e96dbb6156692d25254ad5a4bfa4bd2a3005bff"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ellenton v. The Queen
+
+- Citation: 2010 TCC 441
+- Decision date: 2010-07-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5117, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ellenton v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-07-08
+Neutral citation
+2010 TCC 441
+File numbers
+2010-702(IT)APP
+Judges and Taxing Officers
+Frank J. Pizzitelli
+Subjects
+Income Tax Act
+Decision Content
+CITATION: 2010 TCC 441
+2010-702(IT)APP
+2010-1479(GST)APP
+BETWEEN:
+GEORGE FRANCIS ELLENTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+TRANSCRIPT OF
+REASONS FOR JUDGMENT
+Let the attached revised transcript of the Reasons for Judgment delivered orally from the Bench at
+Vancouver ,
+British Columbia
+, on July 8, 2010, be filed. This certified transcript was modified for clarity and accuracy.
+_______________”F.J. Pizzitelli”______________
+Pizzitelli J.
+Signed at
+Ottawa ,
+Canada
+, on August 27, 2010.
+IN THE TAX COURT OF CANADA
+2010-702(IT)APP;
+2010-1479(GST)APP
+BETWEEN:
+GEORGE FRANCIS ELLENTON,
+Appellant;
+- and –
+-
+HER MAJESTY THE QUEEN,
+Respondent.
+--------------
+Oral Reasons of Mr. Justice Pizzitelli held at the Courts Administration Service, Courtroom No. 603, 6th Floor,
+701 West Georgia Street ,
+Vancouver
+, B.C., on Thursday, July 8, 2010
+--------------
+APPEARANCES:
+Mr. G. Ellenton, Appearing On His Own Behalf;
+Ms. H. Popenia, Appearing for the Respondent.
+--------------
+THE REGISTRAR: F. Richard
+--------------
+Allwest Reporting Ltd.
+12th Floor -
+1125 Howe Street
+Vancouver
+, B.C.
+V6Z 2K8
+Per: K. Bemister
+PROCEEDINGS
+(PROCEEDINGS RESUMED AT 12:36 P.M.)
+JUSTICE: This is my oral judgment in the above two matters, both the IT and GST matters, which were heard at the same time.
+Both these applications deal with an application for extension of time to file a notice of objection under sections 166.2 and 304 respectively of the Income Tax Act and Excise Tax Act.
+The taxpayer was reassessed for the taxation years 2005 and 2006 under the Income Tax Act on September 3, 2008. On December 7, 2009, CRA received a letter from the Appellant dated November 28, 2009, and postmarked December 4, 2009, objecting to the reassessment which the Minister of National Revenue, pursuant to its letter of March 3, 2010 addressed to the Appellant, treated as an application to extend time to file a notice of objection before the Minister pursuant to section 166.1 of the Income Tax Act. On February 8, 2010, the Minister notified the Appellant that his application for an extension of time was not granted as having been filed outside the time limits of the Act and the Appellant applied to this Court for such extension pursuant to section 166.2 of the Income Tax Act.
+With respect to the GST appeal for the period September 1, 2004 to August 31, 2006, the Minister assessed the Appellant by notice of assessment dated July 22, 2008. On January 14, 2010, the Minister received a letter dated January 12, 2010 advising the Minister that he was having trouble obtaining his records from his accountant and asking for the Minister's patience, which the Minister treated as an application for an extension of time to file a notice of objection under subsection 303(1) of the Excise Tax Act. On April 7, 2010, the Minister advised the Appellant that it could not grant the application and on May 3, 2010, the Appellant applied to the Tax Court for an extension of time to file the notice of objection pursuant to section 304 of the Excise Tax Act.
+The law applicable to these applications is similar in wording and in effect. Both section 165 of the Income Tax Act and subsection 301(1.1) of the Excise Tax Act effectively grant the taxpayer 90 days to file a notice of objection from the date of receiving the reassessment notice. There is no dispute that the Appellant therefore had until December 2, 2008 and until October 20, 2008 to file notices of objection under the Income Tax Act and Excise Tax Act respectively. No such notices were filed within such 90 days.
+Under section 166.1 of the Income Tax Act and section 303 of the Excise Tax Act, a taxpayer who has not filed a notice of objection within the 90-day time limits referred to above may file an application to the Minister to extend the time for filing such notices of objection. In the case here, as above mentioned, the Appellant was treated as having made those requests by his letter received by CRA on December 7, 2009 under the Income Tax Act and by his letter received by CRA on January 14, 2010 under the Excise Tax Act. As stated above, the Minister declined to grant an extension for filing a notice of objection for both on the grounds the Appellant was out of time.
+Under paragraph 166.1(7)(a) of the Income Tax Act, no application can be granted by the Minister where the application is made more than one year following the 90-day period the Appellant originally had to file the notice of objection, which in this case would have been December 2, 2009. The Appellant's letter of November 28, 2009 which was postmarked December 4, 2009, and stamped "Received" by CRA on December 7, 2009, is outside that limit -- granted, by only a few days.
+Under paragraph 303(7)(a) of the Excise Tax Act, a similar provision to the Income Tax Act paragraph 166.1(7)(a) above, no application could be granted by the Minister when the application is made more than one year following the 90-day period the Appellant originally had to file the notice of objection, which in this case would have been September 20, 2009. The Appellant's letter of January 12, 2010 received by the CRA on January 14, 2010, was clearly well beyond that limit.
+Likewise, the similar provisions of paragraph 166.2(5)(a) of the Income Tax Act and paragraph 304(7)(a) of the Excise Tax Act provide that the Court shall not grant an application where the application to the Minister was not made within the same time requirements, i.e., by December 2, 2009 in the case of the Income Tax Act and September 20, 2009 in the case of the Excise Tax Act.
+The Appellant admitted during the trial that he did not meet the technical time limits of the Acts, but argues he hired an accountant, one Debra Webb, to make his filings and prepare the objections and relied on her to do so. There was ample evidence he submitted a large volume of documentation to her under the mistaken impression she had done so, having confirmed this to him orally throughout the process. Regrettably, there is no evidence she filed notices of objection within the 90-day periods above referred to and confirmed by the affidavits of a CRA officer. The only evidence is that such accountant may have filed notices of objection by the accountant's letter of June 22, 2009 addressed to the Chief of Appeals, which CRA had no record of receiving and the Appellant provided no proof it was sent, other than testifying he was told it was and believes CRA erred in its affidavit that it was not received. In any event, even if the accountant's letter was received, it was still outside the 90-day limit for filing the notices of objection and contains no application for an extension of time or makes any reference to reasons for late filing at all, and hence, could not be considered an application for extension to the Minister in any event.
+The Appellant was a very credible witness and the evidence is that he in fact did retain his accountant to represent him, but such accountant ceased to practice on or about July 31, 2009, which he only discovered after complaining to the
+Institute of
+Certified General Accountants of
+British Columbia
+, having received no notice from her directly. After several efforts to contact her and obtain the return of his files, he was only finally successful in recovering his nine boxes of files in early January of 2010. The evidence is that he kept CRA aware of his difficulties in contacting his accountant in writing and that it was CRA itself who notified him it discovered she was no longer practicing. The taxpayer was, as he described it, a victim of circumstances beyond his control and the evidence clearly supports his position. As I said, he admits he may have been technically outside the time limits for filing the application, but under the circumstances which I agree were clearly beyond his control asks the Court for fairness and to not penalize him for the actions of his accountant but give him the opportunity to further his appeal.
+Regrettably for the Appellant, this Court has no power to grant an application for an extension of time to file a notice of objection when such application is made beyond one year following the 90-day period normally allowed to file a notice of objection under paragraph 166.2(5)(a) of the Income Tax Act and paragraph 304(7)(a) of the Excise Tax Act, as those time limits are mandatory. That is confirmed numerous times with the Federal Court of Appeal, including in Aztec Industries Inc. v. Canada, 95 DTC 5235 (F.C.A.), Pereira v. Canada, 2008 DTC 6709 (F.C.A.), and Canada v. Carlson, 2002 DTC 6893 (F.C.A.), where Nadon, J.A., succinctly put the law in paragraph 13:
+13 … As this Court has held on numerous occasions, when a taxpayer is unable to meet the deadline prescribed by the Act, even by reason of a failure of the postal system, neither the Minister nor the Tax Court of Canada can come to his help. …
+As for his plea for fairness, I would certainly agree that if there was ever a situation where the Minister and Court should show understanding and allow the taxpayer to proceed to have his objection filed and day in court if necessary, this would be one. However, I am tied by the law, which denies me the right to assist the taxpayer in this situation. As the Respondent pointed out, the Federal Court of Appeal confirmed in Chia v. Canada, 2004 DTC 6676 (F.C.A.), that such grounds are not within the power of this Court.
+In paragraph 4 of the decision, Rothstein, J.A., as he then was, stated:
+4 … It is not open to the Court to make exceptions to statutory provisions on the ground of fairness or equity. If the applicant considers the law unfair, his remedy is with Parliament, not with the Court. …
+Aside from seeking remedy against his former advisor or an attempt for redress from the Fairness Commission of the CRA, the Appellant would appear to have no redress from this Court. Accordingly, the application is denied.
+Sir, it is with deep regret that I deny your application. I must say that, had I had the power and the equitable jurisdiction to grant it, I would have. Thank you.
+(PROCEEDINGS ADJOURNED AT 12:45 P.M.)

@@ -1,0 +1,157 @@
+Title: Yang c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30297/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-187-30297-yang-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-04-06
+
+# Yang c. La Reine
+
+- Citation: 2011 CCI 187
+- Decision date: 2011-04-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8066, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yang c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-04-06
+Référence neutre
+2011 CCI 187
+Numéro de dossier
+2010-1826(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-1826(IT)I
+ENTRE :
+MINHONG YANG,
+appelante,
+et
+SA MAJESTÉ LA REINE
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 13 janvier 2011, à London (Ontario).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Représentant de l’appelante :
+M. Hui Zhu
+Avocat de l’intimée :
+Me Hong Ky (Eric) Luu
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu relativement à l’année d’imposition 2007 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 6e jour d’avril 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 26e jour de mai 2011.
+Marie-Christine Gervais
+Référence : 2011CCI187
+Date : 20110406
+Dossier : 2010-1826(IT)I
+ENTRE :
+MINHONG YANG,
+appelante,
+et
+SA MAJESTÉ LA REINE
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] La question en litige dans le présent appel est celle de savoir si le ministre du Revenu national (le « ministre ») a, à juste titre, inclus dans le revenu de l’appelante, Minhong Yang, la juste valeur marchande d’actions qu’une société établie aux Bermudes – Tyco International Ltd. (« Tyco International ») – lui a distribuées à la suite d’une réorganisation de son portefeuille d’actions en 2007.
+[2] Le 13 janvier 2006, le conseil d’administration de Tyco International a approuvé la scission de ses activités commerciales liées à l’électronique et aux soins de santé au bénéfice de ses filiales en propriété exclusive, Tyco Electronics Ltd. (« Tyco Electronics ») et Covidien Ltd. (« Covidien »), respectivement, tandis qu’elle continuait elle‑même d’exercer les activités commerciales touchant les incendies, la sécurité ainsi que les produits et services spécialisés. Tout s’est déroulé comme prévu et, le 29 juin 2007, Tyco International a distribué à ses actionnaires, dont l’appelante, ses actions de Tyco Electronics et de Covidien.
+[3] De plus amples détails sont fournis dans les hypothèses de fait et les autres faits importants allégués par le ministre aux paragraphes 7 et 8 de la réponse à l’avis d’appel :
+[traduction]
+7. Pour déterminer la dette fiscale de l’appelante pour l’année d’imposition 2007, le ministre a formulé les hypothèses de fait suivantes :
+a) l’appelante détenait 464 actions de Tyco International Ltd. en 2007;
+b) en 2007, dans le cadre d’une distribution d’actions, l’appelante a reçu de Tyco International Ltd. consistant en les titres suivants :
+i) 116 actions de Tyco Electronics Ltd.,
+ii) 116 actions de Covidien Ltd.;
+c) à ce moment, la juste valeur marchande des actions de Tyco International Ltd. reçues par l’appelante s’élevait à 10 248 $ (9 535,20 $US);
+d) à tous les moments pertinents, Tyco International Ltd., Tyco Electronics Ltd. et Covidien Ltd. étaient constituées en société sous le régime des lois des Bermudes;
+e) Tyco International Ltd., Tyco Electronics Ltd. et Covidien Ltd. n’étaient, à aucun moment pertinent, des sociétés résidentes des États-Unis d’Amérique;
+f) les Bermudes n’étaient, à aucun moment pertinent, signataires d’une convention fiscale avec le Canada;
+g) l’appelante a reçu d’autres dividendes de sociétés étrangères s’élevant à 837 $ (778,66 $US) dans le cadre de distributions;
+h) dans la déclaration de revenus qu’elle a produite pour l’année d’imposition 2007, l’appelante a sous‑estimé son revenu pour cette année‑là d’une somme de 11 085 $ (10 313,86 $US);
+i) Tyco International Ltd. n’a, à aucun moment, fourni au ministre les renseignements requis aux termes de l’alinéa 86.1(2)e) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), et ses modifications (la « Loi »), en ce qui concerne la distribution à ses actionnaires des actions de Tyco Electronics Ltd. et de Covidien Ltd.
+8. Il s’appuie en outre sur les faits importants suivants :
+a) le 13 janvier 2006, le conseil d’administration de Tyco International Ltd. a approuvé un projet de scission selon lequel :
+i) les activités commerciales de Tyco International Ltd. touchant l’électronique seraient poursuivies par une nouvelle société appelée Tyco Electronics Ltd.,
+ii) les activités commerciales de Tyco International Ltd. touchant les soins de santé seraient poursuivies par une nouvelle société appelée Covidien Ltd.;
+b) après avoir scindé ses activités commerciales touchant l’électronique et les soins de santé pour les transférer aux sociétés Tyco Electronics Ltd. et Covidien Ltd. respectivement, Tyco International Ltd. a continué d’exercer ses activités commerciales relatives aux incendies, à la sécurité et aux produits et services spécialisés;
+c) Tyco International Ltd., Tyco Electronics Ltd. et Covidien Ltd. ne sont pas des sociétés résidant au Canada;
+d) le 29 juin 2007, Tyco International Ltd. a distribué à ses actionnaires, à titre de dividende en nature, ses actions de Tyco Electronics Ltd. et de Covidien Ltd.;
+e) par suite de la distribution à titre de dividende en nature de Tyco International Ltd. le 29 juin 2007, chacun de ses actionnaires a reçu ce qui suit :
+i) 0,25 action de Tyco Electronics Ltd. pour chaque action de Tyco International Ltd.;
+ii) 0,25 action de Covidien Ltd. pour chaque action de Tyco International Ltd.
+f) Tyco International Ltd. détenait la totalité des actions de Tyco Electronic Ltd. et de Covidien Ltd. immédiatement avant leur distribution aux actionnaires;
+[4] Le ministre a qualifié la distribution effectuée par Tyco International de ses actions de Tyco Electronics et de Covidien de [traduction] « distribution d’actions » et a traité ces actions comme s’il s’agissait d’un [traduction] « dividende en nature » que l’appelante aurait reçu d’une société non résidante. Comme les Bermudes n’ont pas conclu de convention fiscale avec le Canada, la distribution des actions ne pouvait pas être considérée comme une « distribution admissible » au sens de l’alinéa 86.1(2)d), et le ministre a donc inclus la juste valeur marchande des actions dans le revenu de l’appelante en application des paragraphes 52(2) et 90(1) et de l’alinéa 12(1)k) de la Loi de l’impôt sur le revenu (la « Loi »).
+[5] L’appelante reconnaît que l’article 86.1 ne s’applique pas à son cas, mais elle avance que les actions de Tyco Electronics et de Covidien ne devraient pas être traitées comme un revenu parce qu’elle n’a pas, dans les faits, reçu quelque chose de valeur par suite de la distribution. Son représentant et époux, Hui Zhu, a soutenu que les actions de Tyco Electronics et de Covidien tenaient uniquement lieu de remplacement d’un bien en immobilisation existant, c’est‑à‑dire, des actions de Tyco International détenues avant la réorganisation du 29 juin 2007. Il a affirmé, en fait, qu’immédiatement après la distribution, la valeur des avoirs de l’appelante avait légèrement décrue. Dans ces conditions, a demandé M. Zhu, quel fondement factuel ou logique pourrait bien justifier de traiter les actions de Tyco Electronics et de Covidien comme un revenu?
+[6] Cette même question a été posée avec tout autant de stupéfaction indignée dans les décisions Hamley v. Canada, 2010 TCC 459, et Capancini c. Canada, 2010 CCI 581. Il s’agit d’appels interjetés par deux autres contribuables qui ont été touchés de façon analogue par la réorganisation de Tyco International. Comme en l’espèce, les appels ont été entendus sous le régime de la procédure informelle et les contribuables n’étaient pas représentés par un avocat. Dans la décision Hamley, la Cour a rejeté l’appel de la contribuable tandis que, dans la décision Capancini, l’appel a été accueilli. Cette divergence dans l’issue des appels découle des différentes conclusions de fait tirées dans chacune des affaires. Lorsqu’il a rendu son jugement de vive voix dans l’affaire Hamley, M. le juge Hershfield a énoncé les conclusions suivantes :
+[traduction]
+[3] Les faits admis ou les faits établis […] les conclusions suivantes. Premièrement, la distribution effectuée par Tyco faisait partie d’une réorganisation de ses avoirs par laquelle deux de ses entreprises commerciales ont, dans le jargon propre au financement des entreprises et à l’impôt sur les sociétés, été scindées en deux personnes morales distinctes de sorte qu’elle‑même, Tyco, détienne des actions dans chacune de ces entités distinctes. Ces actions ont ensuite été distribuées aux actionnaires de Tyco[1].
+[7] Compte tenu de ces conclusions, la Cour a statué ce qui suit :
+[traduction]
+[12] Les distributions d’actions en cause constituaient donc des dividendes en nature ayant une valeur et cette valeur, qui est un revenu tiré d’un bien, est imposable. […] [À] titre de dividendes reçus d’une société étrangère, ces distributions sont expressément visées par l’alinéa 12(1)k) et l’article 90 de la Loi et elles doivent être incluses dans le revenu en application de ces dispositions, comme il est énoncé dans les observations écrites et le recueil de jurisprudence et de doctrine produits par l’intimée[2].
+[8] Dans la décision Capancini, M. le juge Bowie a ainsi résumé ainsi les faits découlant de la réorganisation de Tyco International :
+[2] Avant le 29 juin 2007, M. Capancini détenait 225 actions de Tyco International Ltd. (« Tyco I »), une grande société diversifiée, dont le siège social est situé aux Bermudes et qui exerce ses activités aux États-Unis ainsi que dans d’autres pays. À cette date, Tyco I a fait l’objet d’une réorganisation avec dérivation; lors de cette réorganisation, deux secteurs de la société ont été transférés à de nouvelles sociétés, Tyco Electronics Ltd. (« Tyco E ») et Covidien Ltd (« Covidien »), et un regroupement d’actions a été effectué. Tyco E et Covidien étaient aussi des sociétés constituées en vertu des lois des Bermudes. Dans le cadre de cette réorganisation, chaque actionnaire de Tyco I a reçu une action de Tyco E, une action de Covidien et une nouvelle action de Tyco I pour chaque quatre anciennes actions de Tyco I qu’il détenait. Pour les fractions qui dépassaient un multiple de quatre, les actionnaires ont reçu un paiement au comptant. Par conséquent, l’appelant a reçu 56 actions de Tyco E, 56 actions de Covidien, 56 nouvelles actions de Tyco I, ainsi qu’un petit paiement au comptant en remplacement de ses 225 anciennes actions de Tyco I.[3]
+[9] Après avoir examiné la jurisprudence et, en particulier, la décision Morasse c. R., 2004 CCI 239, le juge Bowie a accueilli l’appel sur le fondement suivant :
+[13] On ne peut établir de distinction entre les faits de l’affaire Morasse c. La Reine[4] et l’affaire dont je suis saisi ici. Le contribuable possédait 400 actions d’une société mexicaine qui avait fait l’objet d’une réorganisation selon laquelle une partie distincte de la société avait été détachée afin de créer une nouvelle société. L’actif et le passif de cette partie de la société d’origine sont devenus l’actif et le passif de la nouvelle société. Chaque actionnaire a reçu une action de la nouvelle société pour chaque action qu’il détenait dans la société d’origine. Comme en l’espèce, le courtier de l’appelante a décrit les actions de la nouvelle société comme un dividende en actions et a établi un feuillet T5 pour la valeur marchande des actions à la date d’émission. Le juge Miller a conclu qu’il ne s’agissait pas d’une question déterminante pour trancher la question. Je suis d’accord avec lui et je souscris à sa conclusion selon laquelle, dans de telles circonstances, les nouvelles actions ne sont pas des dividendes en actions parce qu’elles ne sont pas des actions de la société d’origine. Elles ne sont pas des dividendes en nature, comme c’est le cas lorsqu’une filiale en propriété exclusive fait l’objet d’une réorganisation par scission au moyen de la distribution de ses actions aux actionnaires de la société mère. En l’espèce, les actions de Tyco E et de Covidien n’ont jamais été possédées par Tyco I. Elles ont été créées dans le cadre d’une réorganisation et, au même titre que les nouvelles actions de Tyco I, elles constituent simplement les actions d’origine de Tyco I sous une forme différente.[5] [Non souligné dans l’original.]
+[10] À juste titre, M. Zhu a soutenu que l’affaire de l’appelante était en tous points identique à celle dont le tribunal était saisi dans la décision Capancini. À l’appui de son argument, il a produit en preuve sous la cote A‑1 un recueil de documents relatifs à la réorganisation de Tyco International. Malheureusement, un grand nombre de ces documents ne consistent qu’en quelques feuilles mobiles provenant d’autres documents. Je ne fais aucun reproche à M. Zhu à cet égard; il n’est pas avocat, l’affaire a été entendue dans le cadre de la procédure informelle et un grand nombre des documents visés sont très volumineux. Toutefois, il n’est pas contesté que les documents pertinents invoqués par l’appelante font partie d’une trousse d’information élaborée par Tyco International afin d’expliquer à ses actionnaires comment la réorganisation proposée allait être mise en œuvre. Selon les renseignements fournis aux onglets 2 et 4 de la pièce A‑1, Tyco Electronics et Covidien étaient des filiales en propriété exclusive de Tyco International qui avaient été constituées en société aux Bermudes en 2000. Les opérations qui ont donné lieu à la distribution des actions de Covidien et de Tyco Electronics le 29 juin 2007 sont explicitées de la façon suivante :
+[traduction]
+[…] Dans le cadre d’un projet visant à scinder son entreprise en trois sociétés distinctes, Tyco International a transféré les titres de participation des entités qui détenaient l’ensemble de l’actif et du passif de ses entreprises de soins de santé à Covidien et, le 29 juin 2007, elle a distribué la totalité de ses actions de Covidien à ses propres actionnaires. [Non souligné dans l’original.]
+[11] Ces précisions sont compatibles avec les assertions formulées dans les documents du ministre, c’est‑à‑dire les pièces R‑1, R‑2 et R‑3.
+[12] La pièce R‑1 consiste en un communiqué de presse de Tyco International qui a été publié environ trois semaines avant la distribution proposée et qui annonce notamment ce qui suit :
+[traduction]
+[…] Dans le cadre des distributions de dividendes, chacun des actionnaires de Tyco International recevra une action ordinaire de Covidien Ltd. et une action ordinaire de Tyco Electronics pour chaque bloc de quatre actions ordinaires de Tyco International qu’il détient à la fermeture des bureaux le [29 juin 2007]. […] Immédiatement après les distributions, les actionnaires de Tyco International détiendront 100 pour 100 des actions ordinaires de Covidien et de Tyco Electronics.
+Les distributions ont été structurées de sorte qu’elles constituent, aux fins de l’impôt fédéral des États-Unis, des dividendes libres d’impôt entre les mains des actionnaires de Tyco International. […] Il est vivement conseillé aux actionnaires de consulter leur fiscaliste‑conseil au sujet des conséquences précises de la distribution à leur égard. […] Immédiatement après les distributions, chaque bloc de quatre actions ordinaires de Tyco International sera converti en une action ordinaire de Tyco International.
+[13] Si je résume brièvement, la pièce R‑2 consiste en une décision de [traduction] « l’organisme local de réglementation des valeurs mobilières » de diverses provinces canadiennes rendue par suite d’une demande présentée par Tyco International afin d’obtenir un certain allégement relativement à la distribution proposée. Au paragraphe 4.2 de ce document, Tyco International précisait qu’avant la scission, Tyco Electronics et Covidien étaient ses filiales en propriété exclusive. Aux paragraphes 1.1 et 1.2, Tyco International mentionnait que la distribution proposée de [traduction] « ses » actions ordinaires de Tyco Electronics et de Covidien aux actionnaires de Tyco International résidant au Canada serait effectuée [traduction] « au moyen d’un dividende en nature établi au prorata »[6].
+[14] La pièce R‑3 consiste en un exemplaire complet de la [traduction] « Convention de scission et de distribution » intervenue entre Tyco International, Covidien et Tyco Electronics, soit le même document auquel on renvoie souvent dans la pièce A‑1. Le troisième paragraphe du préambule de cette convention fait état de la décision du conseil d’administration de Tyco International [traduction] « de distribuer au prorata aux détenteurs d’actions ordinaires de [Tyco International] […] la totalité des actions ordinaires en circulation […] de […] [Covidien] et de […] [Tyco Electronics] ».
+[15] Tout ce qui précède incite à établir une distinction entre les faits en l’espèce et ceux des affaires Capancini et Morasse où, dans chaque cas, la Cour a conclu que les actions reçues par les contribuables n’avaient jamais appartenu à la société mère distributrice et ne pouvaient donc pas être assimilées à un « dividende en nature ». Dans le présent appel, la preuve documentaire ne contribue nullement à réfuter l’hypothèse du ministre voulant que Tyco International ait effectivement détenu les actions de Tyco Electronics et de Covidien qu’elle a finalement distribuées, ce qui permet d’identifier le fondement factuel de la présente affaire avec celui de la décision Hamley et d’y appliquer l’analyse effectuée par le juge Hershfield, laquelle est exposée plus haut au paragraphe 7 des présents motifs. Dans ces circonstances, rien ne justifie la Cour d’intervenir à l’égard de la nouvelle cotisation établie par le ministre.
+[16] J’arrive à cette conclusion en gardant à l’esprit à quel point elle pourra paraître injuste et illogique aux yeux de l’appelante (et plus particulièrement de son représentant, M. Zhu). Lorsqu’il a fait état des sentiments analogues manifestés par la contribuable déboutée dans la décision Hamley, le juge Hershfield a offert les précisions suivantes qui, même si elles ne sont probablement pas d’un grand réconfort, résument l’objectif visé par le législateur :
+[traduction]
+Malheureusement pour l’appelante – et malgré sa logique –, ce n’est pas ainsi que le système fonctionne. La Loi ne […] se fonde pas sur le principe selon lequel un simple changement de forme d’une participation ne constitue pas une opération imposable. En réalité, elle se fonde sur le principe voulant que chaque changement apporté à une participation qui se traduit, pour le détenteur, en une chose différente de ce qu’il avait auparavant constitue une opération imposable, même si sa situation financière nette n’en est pas modifiée et si aucune somme qui aurait pu donner à penser que quelque chose de valeur a été reçu n’est réellement versée.
+[…] [L]e législateur peut ainsi exercer un contrôle sur les exceptions qu’il juge appropriées d’un certain nombre de points de vue possibles, parmi lesquels, à titre d’exemple, le point de vue fondé sur une théorie fiscale, celui fondé sur l’incitation économique ou celui fondé sur la prévention des lacunes fiscales, en particulier dans un contexte international ou un contexte de paradis fiscal, ou encore dans le cadre d’un point de vue qui se fonde simplement sur le maintien de l’ordre.
+En ce qui concerne les réorganisations étrangères découlant d’une scission et les distributions d’actions aux entités scindées auxquelles elles donnent lieu et qui sont traitées comme des dividendes, la Loi ne fait aucune exception à la règle générale qui consiste à imposer la rentrée de fonds de la même façon que s’il s’agissait d’une distribution de fonds au comptant, sous réserve des exceptions que j’ai déjà examinées et qui sont prévues à l’article 86.1. Or, ces exceptions ne s’appliquent pas en l’espèce puisque les exigences dont elles sont assorties n’ont, à de nombreux égards, pas été remplies[7].
+[17] L’appel interjeté à l’égard de la nouvelle cotisation visant l’année d’imposition 2007 de l’appelante est rejeté.
+Signé à Ottawa, Canada, ce 6e jour d’avril 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 26e jour de mai 2011.
+Marie-Christine Gervais
+RÉFÉRENCE : 2011CCI187
+No DU DOSSIER DE LA COUR : 2010-1826(IT)I
+INTITULÉ : Minhong Yang c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 13 janvier 2011
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 6 avril 2011
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Hui Zhu
+Avocat de l’intimée :
+Me Hong Ky (Eric) Luu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Paragraphe 3.
+[2] Paragraphe 12.
+[3] Paragraphe 2.
+[4] Note de bas de page originale supprimée du texte.
+[5] Paragraphe 13.
+[6] Pièce R-2, paragraphes 1.1 et 1.2.
+[7] Paragraphes 16, 17 et 18.

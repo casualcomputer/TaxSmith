@@ -1,0 +1,252 @@
+---
+title: "Entreprises Une affaire d'anglais inc c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29888/index.do"
+last_modified: "2008-09-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 524"
+citation2: ""
+neutral_citation: "2008 TCC 524"
+decision_date: "2008-09-25"
+language: "en"
+item_id: "29888"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6381
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:48:12.497000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5a6818302da18e63e219da08e5ce6081ec26cc66c301b26e862f0abbfcaf9501"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Entreprises Une affaire d'anglais inc c. M.R.N.
+
+- Citation: 2008 TCC 524
+- Decision date: 2008-09-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6381, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Entreprises Une affaire d'anglais inc c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-09-25
+Neutral citation
+2008 TCC 524
+File numbers
+2007-622(EI)
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-622(EI)
+BETWEEN:
+LES ENTREPRISES UNE AFFAIRE
+D'ANGLAIS INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+JOHN CHEETHAM,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on November 29, 2007, and January 28 and 29, 2008,
+at Québec, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Sarto Veilleux
+Counsel for the respondent:
+Benoit Mandeville
+For the intervener:
+The intervener himself
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the decision by the Minister of National Revenue is vacated, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of September 2008.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 5th day of July 2010.
+Elizabeth Tan, Translator
+Citation: 2008 TCC 524
+Date: 20080925
+Docket: 2007-622(EI)
+BETWEEN:
+LES ENTREPRISES UNE AFFAIRE D'ANGLAIS INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+JOHN CHEETHAM,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal by Les Entreprises Une Affaire d’Anglais Inc. (Une Affaire d’Anglais) from a decision by the Minister of National Revenue (the Minister) that John Robert Cheetham (the worker) held insurable employment with Une Affaire d’Anglais during the period of June 30, 2004, to June 30, 2005, because this employment was carried out under a contract of service within the meaning of paragraph 5(1)(a) of the Employment Insurance Act, S.C. (1996), c. 23, as amended (the Act).
+[2] The Minister determined that the worker was employed by Une Affaire d’Anglais under a contract of service, relying on the following presumptions of fact stated at paragraph 21 of the Reply to the Notice of Appeal:
+[translation]
+(a) the appellant was incorporated on July 15, 1993; (admitted)
+(b) the appellant offered language training in English and other languages to business people and professionals; (admitted)
+(c) the appellant had 9 employees, including full-time trainers, and 35 to 40 part-time trainers, which the appellant considered sub-contractors; (admitted)
+(d) the appellant had developed an original training program called "Go-Ahead"; (denied)
+(e) the language courses were given at the offices of the appellant's clients; (denied as written because courses were given outside the appellant's offices)
+(f) the worker is Australian, and immigrated to Canada in 1998; (no knowledge)
+(g) the worker had a bachelor's degree in history and a teaching licence; (no knowledge)
+(h) the appellant hired the worker in 2001; this was his first job in Canada; (denied)
+(i) the worker did not sign a contract with the appellant, but on September 18, 2003, the parties signed a non-solicitation and confidentiality agreement; (admitted)
+(j) the worker was an English trainer; (admitted)
+(k) the worker's duties were to give 90-minute classes to the appellant's clients; (denied as written because the length of the classes varied)
+(l) when he was hired, the worker took a 2-day training session given by the appellant; (admitted)
+(m) later, the worker took a 3- or 4-day training session to expand the "Go-Ahead" learning method; (denied)
+(n) these training sessions were mandatory for all new teachers, and at the beginning of each year, the worker was required to take a number of workshops to improve his skills and learn about the training plans; (denied because the training was not mandatory)
+(o) the worker had the support of the appellant's technical team and a mentor appointed for a probationary period of 2 to 4 months; (denied)
+(p) the training hours, training locations, students to train and training objectives were established by the appellant; (denied)
+(q) training was generally given at the offices of the appellant's clients; (admitted)
+(r) the worker had to use the teaching method developed by the appellant; (denied)
+(s) the worker had to attend mandatory meetings to discuss objectives and ongoing problems; (denied)
+(t) the appellant provided the teaching material and exercises; (denied)
+(u) the worker had access to the appellant's offices to make photocopies (1000 per month), to access the library and the teachers' room for research and class preparation; (admitted)
+(v) the worker had to assess the students at the end of each session according to an evaluation grid and criteria established by the appellant; (admitted)
+(w) the worker had to carry out his duties personally, and could not hire a replacement at any time to give the course in his place; (denied)
+(x) the worker reported regularly to the appellant, including billing, attendance lists and class operations according to the teaching plan; (denied)
+(y) the appellant, not the worker, was responsible for quality control and would receive any complaints from the clients; (denied)
+(z) the appellant trained the worker and provided specific instructions on how to carry out his work; (denied)
+(aa) the worker billed the appellant at a rate of $22 per hour; (admitted)
+(bb) the worker worked thirty-some hours per week for the appellant; (denied)
+(cc) the appellant had asked the worker to register a corporate name and submit an invoice for services once a month; (denied)
+(dd) on January 28, 2002, the worker registered a sole proprietorship with the corporate name "JohJoh"; (admitted)
+(ee) the mandatory training courses were billed under "Various expenses"; (denied as written)
+(ff) the appellant reimbursed the travel expenses (mileage and meals) for trainers outside a 20 kilometre radius; (denied as written)
+(gg) the worker received an allowance for travel time and was reimbursed for beer and wine taken with the students at the end of the session; (admitted)
+(hh) in 2003 and in 2004, the worker asked the appellant to be considered an employee; (denied)
+(ii) the worker complained to the Commission des normes du Travail, which, on April 25, 2006, sent a formal demand notice to the appellant for $5,978.78 including $3,416.80 for unpaid wages. (admitted because it is being challenged)
+[3] The appellant feels that the Minister's decision is unfounded in fact and in law, for the following reasons, indicated at paragraphs 7 to 32 of the Notice of Appeal:
+[translation]
+7. The appellant is certified by Emploi‑Québec as a training organization for the purposes of the Act to promote workforce skills development and recognition (R.S.Q., c. D-7.1 [sic]*)…in accordance with the Regulation respecting the accreditation of training bodies, training instructors and training services (R.R.Q., c. D-7.1, r.1.) (hereinafter the Regulations), as indicated in the copy of the list of trainers and a copy of the Regulations;
+8. This certification granted by Emploi-Québec is mandatory for all organizations that offer training services when their clients wish to benefit from the special tax treatment that applies to the mandatory investment of 1% of total payroll for employee training;
+9. To maintain its certification at all times, the appellant must always comply with the Regulations;
+10. The appellant must agree to give training only by trainers with Emploi-Québec certification, in accordance with the Regulations and with the required experience and skill;
+11. To do so, the appellant must ensure that its trainers have minimum work experience in each of the fields in which training is offered and that they have accumulated the training hours pursuant to the following stipulations in the Regulations;
+12. Under the Regulations, these trainers may be employees of the certified body or contract workers, despite the training the appellant must give them before courses begin, in accordance with the Regulations;
+13. The Regulations also require that the trainers provide certain documents at the end of the training session, to ensure that the courses qualify for the clients' tax credits;
+14. It is therefore imperative that the appellant respect the conditions in the Regulations; this does not affect the status of self-employed trainers working for the appellant;
+15. Mr. Cheetham is a certified trainer, as indicated by the list of trainers;
+16. At all times relevant to the claim, the appellant operated its business in the same way, it would first enter into second-language training contracts with its clients and then give a sub-contract for these training contracts to certified trainers who are self-employed workers;
+17. The appellant would contact the trainers listed in the databank and offer them the opportunity to give the course set out in the contract; they were free to accept or refuse;
+18. There is no contract between the appellant and these trainers, aside from an agreement of non-solicitation of the appellant's clients and confidentiality, as indicated in a copy of the non-solicitation and confidentiality agreement signed by Mr. Cheetham;
+19. These non-solicitation and confidentiality agreements are not considered non-competition or exclusivity agreements, nor are they considered contracts of employment;
+20. So, in accordance with the Regulations, the appellant provides training to independent trainers whose services it relies on, which, in itself, does not make them the appellant's employees;
+21. Moreover, these trainers are not subject to any control by the appellant, other than the regulatory obligations imposed on the appellant as a certified body, and on certified trainers;
+22. While carrying out their services, the trainers provide the language courses directly in the offices of the appellant's clients, who have entered into training contracts for the benefit of their employees;
+23. Moreover, the trainers are free to choose and establish their specific training plans, as well as the design, programming and implementation of activities, and they supply the material, equipment and software, subject to the contract signed between the appellant and its clients;
+24. The trainers manage the work assignments (work schedule), after reaching an agreement directly with the clients or their employees. Therefore, the trainers have no obligation to go to the appellant's place of business;
+25. The trainers are also free to cease offering their services at any time during a session;
+26. Moreover, these trainers may replace themselves with another certified trainer of their choice when they so choose. The appellant's only obligation is to ensure the conditions of the Regulations and those in the contract with the client are met;
+27. At the end of each session, to comply with the requirements of the Regulations, the trainers give the appellant the attendance sheets as evidence of the duration of the training, the employees who participated in the training, and the employees' success rates;
+28. Moreover, the trainers' services are not provided exclusively to the appellant and they can also offer their services to the appellant's main competitors who work in the same sector. They are also free to offer their services to other companies while respecting their agreement of non-solicitation of the appellant's clients;
+29. Mr. Cheetham uses the name Johjoh [sic] for his language consultation activities, as shown in a copy of the CIDREQ enterprise register report;
+30. However, if this trainer were an employee with a contract for services as the respondent is claiming, it is unthinkable that he would also work for the appellant's main competitors at the same time he worked for the appellant, without it citing the duty of loyalty, which exists in every employer-employee relationship;
+31. Mr. Cheetham is therefore clearly a self-employed worker and the respondent's decision regarding the insurability of his employment based on the existence of a contract for services is completely unjustified and unfounded in fact and in law;
+32. The appellant and Mr. Cheetham had been carrying out their activities in the above-noted context for many years without any debates about his status, until he ended his working relationship with the appellant.
+ANALYSIS
+[4] The applicable law in this case can be found at articles 2085 to 2097 of the Civil Code of Québec (the Civil Code) for the "contract of employment" and at articles 2098 to 2129 of the Civil Code for the "contract for services".
+[5] The "contract of employment" is defined as follows at article 2085 of the Civil Code:
+A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+[6] The "contract of enterprise or for services" is defined as follows at article 2098 of the Civil Code:
+A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+[7] The definition of "contract of enterprise or for service" at article 2098 of the Civil Code is completed by article 2099 of the Civil Code, which provides the main characteristic of a contract of enterprise or for services:
+The contractor or provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[8] The fundamental distinction between a contract for services and a contract of employment is the absence of a relationship of subordination between the provider of services and the client. In this case, it must be determined whether there was a relationship of subordination between the appellant and the worker during the period in question.
+[9] The appellant has the burden of proving, on a balance of probabilities, facts that would lead to the Minister's decision being vacated. With no written contract, the common intention of the parties and their behaviour must be examined.
+[10] Many witnesses were heard at the hearing. In addition to Diane Ippersiel, 95% owner of the appellant, and John Cheetham, the worker, the following individuals testified on the appellant's method of operations:
+— Julie Marcoux: head of accounting for the appellant;
+— Duncan Flowers: human resources coordinator for the appellant;
+— Olivier May: trainer;
+— Gregory Hogg: director of special projects for the appellant;
+— David Ballam: trainer;
+— Peter Darbyshire: trainer.
+[11] The following, from this testimony and the documents submitted to evidence, indicate the lack of a relationship of subordination between the appellant and the worker:
+(a) the worker created a language consultation company under the name "JohJoh" on January 28, 2002, and asked the appellant for his monthly invoices to be paid directly to JohJoh's bank account starting in February 2002;
+(b) the worker has an office at his residence and covered the costs for his computer, cell phone and material used to prepare and give his classes; he did not have an office at the appellant's workplace;
+(c) the worker notified the appellant of his availability and was free to accept or refuse the appellant's offers of work; there were no sanctions for refusing a contract;
+(d) the worker did not give the appellant exclusivity and he did provide his services to other clients;
+(e) the worker was able to negotiate the amount of his fees and he had the right to be reimbursed for certain costs incurred for the benefit of the appellant's clients, such as beer, chips, wine, etc.;
+(f) the worker did not have the obligation to go to the appellant's workplace since courses were given at the appellant's clients' offices;
+(g) the worker was the sole person responsible for course preparation, method of presentation, choice of educational material; course content did not need to be approved by the appellant;
+(h) the worker was also responsible for coming to an agreement with the clients about his work schedule; he could cancel classes, reschedule them and even replace himself with another teacher he himself would find, all without the appellant's prior approval;
+(i) the worker controlled his work schedule and was not required to work a minimum number of hours per week, month or session; moreover, he chose his days off and vacation times; the worker did not have to produce any reports on his use of time;
+(j) the worker was not required to provide weekly or other reports on the progress of his work and the methods used to give his classes;
+(k) during the period in question, the worker's work was not supervised by the appellant and no disciplinary measures were taken against him;
+(l) the worker was paid monthly on production of an invoice showing the name of the clients to whom he gave classes during the month, the level, the days classes were given and the number of teaching hours; these invoices also included reimbursement requests for items such as transportation, meals and parking;
+(m) the worker did not have the right to any benefits usually associated with a workload or job, such as a pension plan, vacation pay, sick leave or group insurance. The appellant did not make any source deductions for income tax on the amounts paid to the worker;
+(n) in 2005, the appellant had 8 or 9 employees mainly involved in the administration of the company, and one trainer who, for family reasons, asked for employee status.
+[12] The following, also from the testimony and documents submitted to evidence, would indicate the existence of a relationship of subordination between the appellant and the worker:
+(a) on September 18, 2003, the worker entered into an agreement that included non‑solicitation and confidentiality clauses and clauses regarding the ownership of intellectual property rights developed or created while carrying out his work;
+(b) the appellant received a copy of the student evaluations at the end of each session, in accordance with the Emploi-Québec requirements;
+(c) in accordance with the Emploi-Québec requirements, the worker was to give the appellant his attendance sheets at the end of each session, to indicate the duration of the training, the students who participated and the success rate of the courses;
+(d) the worker participated in the training workshops for new trainers given by the appellant, and a few other sessions after that; during the period in question, he attended three workshops and was paid for his time there, at a rate of $8 an hour;
+(e) the appellant reimbursed certain expenses, such as transportation and parking.
+[13] The worker claimed employee status with the appellant after ending his business relationship with the appellant in August 2005. He was a founding member of the Coopérative linguistique du Québec, a new coop of workers offering English as a second language courses to businesses, and also translation services. This new coop began operating in September 2006.
+[14] The appellant was very conscious of the significance of the tax status of the trainers and, without exception, solely dealt with people who agreed to be self‑employed workers. Moreover, one of the appellant's workshops was specifically on the taxation of self-employed workers. The fact the worker had registered a corporate name in February 2002 and asked for the payment of his invoices to be deposited to his company's bank account clearly shows, in my opinion, that he had accepted his status as a self-employed worker.
+[15] In regard to the concept of "control", the important factor is not determining the extent of the actual control exerted but the power of control the appellant has over the worker, as described in 9041-6868 Québec Inc. v. Canada, 2004 TCC 648. In the present case, it is quite clear that the appellant did not exercise control over the worker. The issue is whether the appellant had the right to exercise such control over the worker. According to the parties' respective obligations, I do not believe the appellant had the ability or power to control the worker. What control could a company really exercise over a worker who could, at any time and with no advance notice, end the business relationship? If the appellant had control, it would be a control over the work results, not over the worker or the execution of the worker's duties as a trainer. Moreover, as Létourneau J.A. of the Federal Court of Appeal stated at paragraph 16 of Poulin v. Canada, 2003 FCA 50, even contracts for services are subject to some type of control:
+…the notion of control is not necessarily lacking in the contract for service.
+…
+The work performed by contract for services is also subject to some performance, productivity and quality controls.
+[16] As for the criteria stated by the Federal Court of Appeal in Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025, namely the degree or lack of control the appellant exercised, the ownership of the work tools, the chance of profit and risk of loss and the integration of the worker in the appellant's business, these criteria are not of great use in this case. The concept of control was reviewed in the preceding paragraphs; the ownership of the tools required to carry out the work is not very relevant considering the nature of the services rendered, the needs met and the few work tools used; the chance of profit and risk of loss are almost nonexistent and the integration in the business activities is relied on less and less considering workers' specializations.
+[17] For these reasons, I find that the worker did not hold insurable employment with the appellant for the relevant period. I must state, however, that each case in this matter is a specific case, and a decision on the status of the worker does not necessarily mean the appellant's other workers have the same status as that of the worker.
+[18] Accordingly, the appeal is allowed.
+Signed at Ottawa, Canada, this 25th day of September 2008.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 5th day of July 2010.
+Elizabeth Tan, Translator
+CITATION: 2008 TCC 524
+COURT FILE NO.: 2007-622(EI)
+STYLE OF CAUSE: Les Entreprises Une Affaire D'anglais Inc. and M.N.R. and John Cheetham
+PLACE OF HEARING: Montréal*, Quebec
+DATE OF HEARING: November 29, 2007, and
+January 28 and 29, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: September 25, 2008
+APPEARANCES:
+Counsel for the appellant:
+Sarto Veilleux
+Counsel for the respondent:
+Benoit Mandeville
+For the intervener:
+The intervener himself
+COUNSEL OF RECORD:
+For the appellant:
+Name: Sarto Veilleux
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the intervener:
+* Translator's note: should read "R.S.Q., c. D-8.3".
+* Translator's note: Place of hearing is Québec, Quebec at the beginning of the judgment.

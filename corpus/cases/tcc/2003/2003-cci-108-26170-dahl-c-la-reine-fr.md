@@ -1,0 +1,116 @@
+---
+title: "Dahl c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26170/index.do"
+last_modified: "2003-03-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 108"
+citation2: ""
+neutral_citation: "2003 CCI 108"
+decision_date: "2003-03-18"
+language: "fr"
+item_id: "26170"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3968
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:26:27.149000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fd3fd32742b75c2515593d328d659acce1100309b027f81ca5617d64c1f95ace"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dahl c. La Reine
+
+- Citation: 2003 CCI 108
+- Decision date: 2003-03-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3968, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dahl c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-18
+Référence neutre
+2003 CCI 108
+Numéro de dossier
+2002-2985(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2003CCI108
+Date : 20030318
+Dossier : 2002-2985(IT)I
+ENTRE :
+DAVID DAHL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à
+Vancouver (Colombie-Britannique), le 9 janvier 2003.)
+Le juge Beaubier, C.C.I.
+[1] Le présent appel, interjeté sous le régime de la procédure informelle, a été entendu à Vancouver (Colombie-Britannique), le 7 janvier 2003. L'appelant a témoigné. L'intimée a cité comme témoins le vérificateur assigné au dossier, Bhupendra Gill, et l'agent des appels, Ravinder Sandhu.
+[2] À la suite de la requête de l'appelant, il est ordonné que l'adresse de l'appelant soit modifiée comme suit : 4948-196B Street, Langley (Colombie-Britannique), V3A 7N7.
+[3] Les paragraphes 5, 6 et 7 de la Réponse à l'avis d'appel se lisent comme suit :
+[TRADUCTION]
+5. Par un avis de nouvelle cotisation daté du 11 juillet 2002, le ministre a établi une nouvelle cotisation à l'égard de l'appelant pour l'année d'imposition 2000 afin de réduire son revenu d'entreprise net de 960 $, le faisant ainsi passer à 33 182 $ (le « revenu d'entreprise net révisé » ), tel que présenté à l'annexe A ci-jointe.
+6. Pour établir cette nouvelle cotisation à l'égard de l'appelant, le ministre s'est fondé sur les hypothèses de fait suivantes :
+a) dans le calcul de son revenu d'entreprise net, l'appelant a demandé la déduction de dépenses pour les activités suivantes :
+(i) la vente de suppléments alimentaires pour E.D. Internal Health (les « activités de vente de suppléments » );
+(ii) la vente de crème glacée à Cuba (les « activités de vente de crème glacée » );
+b) l'entreprise de l'appelant avait comme raison sociale « Off Balance Marketing » ;
+c) l'appelant n'a jamais démarré ses activités de vente de crème glacée;
+d) l'appelant n'avait aucune possibilité de tirer un revenu de ses activités de vente de crème glacée au cours de l'année d'imposition 2000;
+e) le nom de l'appelant ne figure pas sur les factures qu'il a produites relativement à l'achat d'une machine à crème glacée;
+f) l'appelant n'a pas signé de contrat exécutoire ni obtenu de promesses d'achat lui permettant de démarrer ses activités de vente de crème glacée à Cuba;
+g) la déduction de frais de déplacement de 12 900 $ a été demandée relativement aux activités de vente de crème glacée;
+h) les frais pour le service téléphonique de base de la résidence personnelle de l'appelant n'ont pas été engagés en vue de tirer un revenu d'une entreprise ou d'un bien;
+i) plus de 10 % des frais pour des appels interurbains étaient de nature personnelle;
+j) l'appelant a fait usage d'une voiture Dodge Caravan de l'année 1994 à des fins personnelles et commerciales;
+k) l'appelant n'a pas tenu de registre de la distance parcourue;
+l) les frais d'assurance demandés étaient liés à la résidence personnelle de l'appelant;
+m) les dépenses excédant celles admises par le ministre n'ont pas été engagées ou, subsidiairement, si elles l'ont été, elles ne l'ont pas été en vue de tirer un revenu d'une entreprise ou d'un bien; il s'agissait plutôt de dépenses personnelles ou de subsistance de l'appelant.
+B. QUESTIONS EN LITIGE
+7. La question à trancher est de savoir si le ministre a convenablement fixé le montant du revenu d'entreprise net révisé.
+[4] Les hypothèses 6(a), (b), (c), (d), (e), (f), (g), (h), (i), (j), (k), (l) et (m) n'ont pas été réfutées.
+[5] Plus précisément, en ce qui a trait aux activités de vente de crème glacée :
+1. L'appelant a demandé la déduction de dépenses à titre personnel que l'intimée a refusée car elle a conclu qu'il n'y avait pas encore d'entreprise. En définitive, la Cour considère que cela est exact.
+2. Toutefois, la Cour estime également que la preuve a établi que les activités de vente de crème glacée n'étaient pas celles de l'appelant. D'après les documents, il est possible que ces activités étaient exercées par une société dénommée Yoggi Inc. L'appelant a soutenu qu'il avait des coentrepreneurs non nommés et a refusé de produire des chèques et des dossiers bancaires car il ne voulait pas révéler leur identité. Il est un homme d'affaires expérimenté. Il a témoigné que Yoggi Inc. n'était pas constituée en société et qu'il ne s'agissait que de son appellation commerciale. La Cour n'accepte pas ce témoignage. Un homme d'affaires expérimenté n'utiliserait pas la dénomination d'une société à moins qu'elle ne soit enregistrée. Compte tenu de l'imprécision du témoignage de l'appelant et des divers documents au sujet de la partie qui tentait d'entreprendre les « activités de vente de crème glacée » , la Cour estime que les activités en cause auraient pu être celles de Yoggi Inc., d'une société de personnes ou d'une coentreprise, mais qu'il ne s'agissait pas des activités de l'appelant.
+[6] La Cour conclut en outre que les dépenses alléguées, engagées pour les prétendues activités exercées à Cuba, étaient liées à des vacances personnelles ou à une activité similaire de nature personnelle à Cuba. En particulier, l'appelant a demandé la déduction de frais engagés pour le voyage de ses deux enfants à Cuba en l'an 2000. Cela ne représente en aucune façon une dépense d'entreprise, et démolit tout argument que lesdites dépenses ne comportaient pas d'élément de nature personnelle. Par conséquent, la Cour considère objectivement qu'aucune entreprise n'existait pour les raisons suivantes :
+1. Il n'existait jusqu'alors aucun produit.
+2. Il n'existait pas de contrat ou d'opérations pour la production de cornets de yaourt.
+3. Il n'existait pas de contrat après les prétendues promotions débutant en 1998.
+4. Rien n'est encore en place, et une firme envisagée, Rumballs, a été « en attente » pendant deux ans après l'an 2000.
+[7] Pour ce qui est des autres dépenses, l'appelant n'a pas réussi à justifier les autres montants refusés par l'agent d'appel. Plus particulièrement, il convient de remarquer qu'il est un vendeur à commission expérimenté et que, malgré cela, il n'a pas tenu de registre de l'usage de son véhicule et n'a pas détaillé et ventilé les dépenses alléguées selon les catégories « véhicule » , « divertissements » , « cadeaux et promotions » , et ainsi de suite. Au contraire, les dépenses étaient présentées de manière désordonnée et sous une forme manquant de crédibilité. Il a également omis d'établir une distinction claire entre l'usage personnel et l'usage commercial de son véhicule.
+[8] Ainsi, la preuve qu'il a produite n'était pas crédible et n'a pas permis de réfuter les conclusions claires et détaillées de l'intimée en l'espèce.
+[9] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 18e jour de mars 2003.
+« D. W. Beaubier »
+J.C.C.I.
+Traduction certifiée conforme
+ce 22e jour de février 2005.
+Yves Bellefeuille, réviseur

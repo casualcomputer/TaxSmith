@@ -1,0 +1,145 @@
+---
+title: "Ruparel c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30893/index.do"
+last_modified: "2012-07-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 268"
+citation2: ""
+neutral_citation: "2012 CCI 268"
+decision_date: "2012-07-24"
+language: "fr"
+item_id: "30893"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7452
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:29:08.648000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cd43242c7d1713133e43994d3ceec9edc1deb79784fb3462585c3cfa7d58ef56"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ruparel c. La Reine
+
+- Citation: 2012 CCI 268
+- Decision date: 2012-07-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7452, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ruparel c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-07-24
+Référence neutre
+2012 CCI 268
+Numéro de dossier
+2011-3033(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3033(IT)I
+ENTRE :
+CHARULATA RUPAREL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 22 juin 2012 à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentante de l’appelant :
+Mme Neha Tiku
+Avocate de l’intimée :
+Me Iris Kingston
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie à l’égard de l’appelante concernant sa dette fiscale pour l’année d’imposition 2008 est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 24e jour de juillet 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 17e jour de septembre 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2012 CCI 268
+Date : 20120724
+Dossier : 2011-3033(IT)I
+ENTRE :
+CHARULATA RUPAREL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] La question en litige dans le présent appel est de savoir si, pour l’application de la Loi de l’impôt sur le revenu (la « Loi »), l’appelante est tenue d’inclure dans le calcul de son revenu (sans aucune déduction) pour 2008 le montant qu’elle a reçu en 2008 de l’assurance nationale du Royaume‑Uni (le « R.‑U. ») au titre de prestations de pension.
+[2] L’appelante et son époux avaient résidé au Royaume‑Uni avant de s’installer au Canada. L’époux de l’appelante a établi que, pour avoir droit à des prestations de pension du Royaume‑Uni, il devait effectuer des cotisations supplémentaires volontaires de catégorie 3 à l’assurance nationale du R.‑U. pendant qu’il résidait au Canada. Au moyen d’une lettre datée du 29 mars 2001 émanant de l’époux de l’appelante et adressée à l’Inland Revenue, NI Contribution Office, l’époux de l’appelante a indiqué qu’il effectuerait des versements supplémentaires volontaires de 6,55 £ par semaine (340,60 £ par année).
+[3] En 2008, l’appelante a reçu du gouvernement du R.‑U. des prestations de pension de 39,68 £ par semaine qui étaient fonction des cotisations de son époux à l’assurance nationale du R.‑U. En 2008, elle a reçu un montant de 2 406 $. Elle a inclus ce montant dans le calcul de son revenu, mais elle a également demandé une déduction pour le même montant; par conséquent, le montant net qu’elle avait inclus dans son revenu était nul. L’Agence du revenu du Canada (l’ « ARC ») a refusé la demande de déduction de 2 406 $.
+[4] L’alinéa 56(1)a) de la Loi prévoit en partie ce qui suit :
+56(1) Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition,
+a) toute somme reçue par le contribuable au cours de l’année au titre, ou en paiement intégral ou partiel :
+(i) d’une prestation de retraite ou de pension […]
+[5] La prestation de retraite ou de pension est en partie définie à l’article 248(1) de la Loi de la manière suivante :
+« prestation de retraite ou de pension » Sont compris dans les prestations de retraite ou de pension les sommes reçues dans le cadre d’une caisse ou d’un régime de retraite ou de pension [...]
+[6] L’argument présenté par l’appelante n’est pas tout à fait clair. Il semble que l’appelante a d’abord avancé qu’aucune partie de la prestation de pension provenant du R.‑U. ne devrait jamais être incluse dans son revenu. Je déduis de son argument qu’elle soutenait aussi que, subsidiairement, elle ne devrait pas être tenue d’inclure dans son revenu la partie du montant qu’elle avait reçu à titre de prestation de pension de l’assurance nationale du R.‑U. qui représenterait le remboursement des cotisations volontaires faites par son époux. L’époux de l’appelante avait fait des cotisations volontaires à ce régime au moyen d’un revenu net d’impôt étant donné qu’il n’a pas demandé de déduction dans le calcul de son revenu au Canada relativement à ses cotisations versées à l’assurance nationale du R.‑U.
+[7] Dans la décision Revenue and Customs Commissioners v. Kearney, [2008] EWHC 842 (Ch), le juge Lewison a fait les observations suivantes :
+[traduction]
+1. L’assurance nationale est une des pierres angulaires de l’État providence, instaurée par le premier gouvernement travailliste de l’après‑guerre dans la foulée du Rapport Beveridge établi en temps de guerre. Comme son nom l’indique, il s’agissait d’un régime d’assurance en vertu duquel les participants effectuaient des versements périodiques réguliers en contrepartie d’une variété de prestations indépendantes des ressources auxquelles ils auraient droit. Ces prestations comprenaient les soins de santé gratuits du National Health Service, des prestations de maladie ainsi qu’une pension de retraite.
+[8] La pension de retraite est la prestation qui a été versée à l’appelante en 2008. Rien ne permet de soutenir un quelconque argument selon lequel aucune partie de la prestation de pension reçue du R.‑U. ne devrait jamais être incluse dans le revenu de l’appelante étant donné que les dispositions de l’alinéa 56(1)a) de la Loi prévoient clairement que les montants reçus au titre d’une prestation de pension sont à inclure dans le calcul du revenu de l’appelante (ce qu’elle a fait). De plus, l’article 17 de la convention fiscale entre le Canada et le R.‑U. n’est d’aucun secours pour l’appelante étant donné qu’il prévoit que la pension provenant du R.‑U. et qui est versée à un résident du Canada est imposée au Canada.
+[9] Comme cela a été déjà mentionné, l’interprétation que je fais de l’argument de l’appelante est que celle‑ci soutenait également qu’elle ne devrait pas être imposée au Canada sur la partie des montants reçus à titre de prestation de pension de l’assurance nationale du R.‑U. qui représenterait un remboursement des cotisations volontaires faites par son époux. On ne connaît pas très bien le montant total des cotisations faites par l’époux de l’appelante pendant qu’il était un résident du Canada. Il semble que les cotisations volontaires aient commencé en 2001, bien qu’il soit fait mention, dans la lettre datée du 29 mars 2001 de l’année d’imposition débutant le 6 avril 1994. Il a été déclaré que le montant payable était de 6,55 £ par semaine (340,60 £ par année). Il ressort de la lettre datée du 2 septembre 2005 provenant de HM Revenue & Customs que l’année d’imposition 2004‑2005 est la dernière année pour laquelle des cotisations volontaires étaient payables par l’époux de l’appelante. Le montant payable pour cette année était de 371,80 £ (7,15 £ par semaine).
+[10] En supposant que les cotisations volontaires ont été faites pour les années d’imposition allant de 1994‑1995 à 2004‑2005, inclusivement, cela voudrait dire que des cotisations volontaires ont été faites pendant 11 ans. Étant donné que les cotisations variaient de 340,60 £ à 371.80 £ par année, supposons que la moyenne des cotisations faites pendant les 11 années était de 356,20 £ par année. Compte tenu de ces suppositions, le montant total des cotisations volontaires serait de 3 918,20 £. Comme l’appelante a reçu 39,68 £ par semaine (2 063,36 £ par année), en moins de deux ans, elle recevrait un montant supérieur aux cotisations volontaires faites par son époux pendant qu’il était un résident du Canada.
+[11] L’appelante soutient essentiellement que tant qu’elle n’aura pas reçu un montant supérieur aux cotisations volontaires versées par son époux, le montant de pension qu’elle reçoit du R.‑U. ne devrait pas être imposable au Canada. En utilisant les montants établis ci‑dessus (qui sont fondés sur des suppositions faites à partir de fort peu de faits), l’appelante soutient que la première tranche de 3 918,20 £ (ou le montant réel des cotisations de l’époux de l’appelante) qu’elle reçoit ne devrait pas être imposable au Canada. L’argument qu’elle avance tient au fait qu’il s’agirait d’un remboursement des montants versés par son époux et provenant de son revenu net d’impôt au Canada (étant donné qu’il n’a pas demandé de déduction à l’égard de ces cotisations dans le calcul de son revenu ou de son revenu imposable en vertu de la Loi). Je comprends la logique de l’argument de l’appelante, mais la Loi n’a malheureusement pas prévu de disposition qui permettrait d’exclure un tel montant du revenu ou qui autoriserait une telle déduction. Selon l’alinéa 56(1)a) de la Loi, la somme que l’appelante a reçue au titre d’une prestation de pension doit être incluse dans le calcul de son revenu. Par conséquent, l’appelante est tenue d’inclure dans son revenu le montant total de la pension qu’elle a reçue du R.‑U. (ce qu’elle a fait).
+[12] Dans la décision Yates v. The Queen, [2001] 3 C.T.C. 2565, 2001 DTC 761, la juge Campbell a confirmé que les cotisations volontaires à l’assurance nationale de catégorie 3 du R.-U. faites par le contribuable n’étaient pas déductibles dans le calcul de son revenu pour l’application de la Loi. Étant donné que ces cotisations ne peuvent pas être déduites par la personne qui les a faites, elles ne pourraient pas être déduites par l’épouse de la personne qui les a versées. L’appelante n’a donc droit à aucune déduction relativement aux cotisations à l’assurance nationale de catégorie 3 du R.-U. faites par son époux.
+[13] Pour les montants reçus en tant que rente, le bénéficiaire du montant est tenu de l’inclure dans son revenu selon l’alinéa 56(1)d) de la Loi, mais la personne a également droit à une déduction de la partie représentant le capital d’une telle rente en vertu de l’alinéa 60a) de la Loi. Il n’y a pas de disposition semblable qui autorise une déduction pour la partie représentant le capital des prestations de pension.
+[14] C’est une situation malheureuse pour l’appelante, qui est tenue d’inclure dans son revenu des montants qui pourraient être considérés comme un remboursement des cotisations faites par son époux au moyen de dollars après impôt; toutefois, si cette question doit être examinée, c’est au législateur que revient la tâche. La décision quant à l’appel interjeté par l’appelante doit être rendue selon la Loi telle qu’elle est énoncée.
+[15] Par conséquent, l’appel interjeté par l’appelante est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 24e jour de juillet 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 17e jour de septembre 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2012 CCI 268
+No DU DOSSIER DE LA COUR : 2011-3033(IT)I
+INTITULÉ : CHARULATA RUPAREL c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 22 juin 2012
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 24 juillet 2012
+COMPARUTIONS :
+Représentante de l’appelante :
+Mme Neha Tiku
+Avocate de l’intimée :
+Me Iris Kingston
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

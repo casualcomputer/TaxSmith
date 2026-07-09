@@ -1,0 +1,160 @@
+---
+title: "Reynolds c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29461/index.do"
+last_modified: "2009-09-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 470"
+citation2: ""
+neutral_citation: "2009 CCI 470"
+decision_date: "2009-09-17"
+language: "fr"
+item_id: "29461"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6951
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:34:02.327000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8423dab3f87073a5f478314bd0b60fcff4793247f12d44968e08b320ab7fe1e7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Reynolds c. La Reine
+
+- Citation: 2009 CCI 470
+- Decision date: 2009-09-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6951, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Reynolds c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-17
+Référence neutre
+2009 CCI 470
+Numéro de dossier
+2008-3798(GST)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-3798(GST)I
+ENTRE :
+DON WALLACE REYNOLDS
+et PAUL PO HUI PEI,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 3 juillet 2009, à Toronto (Ontario).
+Devant : L’honorable juge B. Paris
+Comparutions :
+Représentant des appelants :
+Martin R. Wasserman
+Avocat de l’intimée :
+Me Thang Trieu
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie à l’égard des appelants en vertu de la Loi sur la taxe d’accise, par avis d’appel daté du 20 août 2007, est rejeté.
+Signé à Ottawa, Canada, ce 18e jour de septembre 2009.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 16e jour d’octobre 2009.
+Alya Kaddour-Lord, traductrice
+Référence : 2009 CCI 470
+Date : 20090918
+Dossier : 2008-3798(GST)I
+ENTRE :
+DON WALLACE REYNOLDS
+et PAUL PO HUI PEI,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] En l’espèce, la question est de savoir si les appelants ont droit au remboursement transitoire de la taxe sur les produits et services (la « TPS ») prévu par le paragraphe 256.3(1) de la Loi sur la taxe d’accise (la « Loi »). Sous réserve de satisfaire à certaines conditions, l’acheteur d’un immeuble d’habitation a droit à un remboursement égal à 1 % du prix d’achat de l’immeuble. Ce remboursement découle de la réduction du taux de la TPS de 7 % à 6 %, qui est entrée en vigueur le 1er juillet 2006.
+[2] Au nombre des conditions à satisfaire pour avoir droit à ce remboursement, l’alinéa 256.3(1)a) de la Loi exige que la propriété et la possession de l’immeuble d’habitation aient été transférées aux appelants après juin 2006. Le paragraphe 256.3(1) est ainsi rédigé :
+256.3(1) Sous réserve du paragraphe 7, le ministre rembourse une personne, sauf une coopérative d’habitation, dans le cas où, à la fois :
+a) selon un contrat de vente constaté par écrit et conclu avant le 3 mai 2006, la personne est l’acquéreur de la fourniture taxable par vente, effectuée par une autre personne, d’un immeuble d’habitation dont la propriété et la possession aux termes du contrat lui sont transférées après juin 2006;
+b) la personne a payé la totalité de la taxe prévue au paragraphe 165(1) relativement à la fourniture au taux de 7 %;
+c) la personne n’a pas droit à un crédit de taxe sur les intrants ni à un remboursement (sauf celui prévu au présent paragraphe) au titre de cette taxe.
+Le montant remboursable est égal au montant représentant 1 % de la valeur de la contrepartie de la fourniture.
+[Non souligné dans l’original.]
+[3] En l’espèce, le ministre du Revenu national (le « ministre ») a refusé le remboursement aux appelants au motif qu’ils ont pris possession de leur nouveau logement en copropriété avant juin 2006.
+[4] MM. Reynolds et Pei ont conclu l’achat de leur nouveau logement en copropriété le 17 mars 2006 et ont commencé à l’occuper le 28 mars 2006, date à laquelle il était achevé en grande partie. Toutefois, le titre de propriété ne leur a pas été transféré avant le 24 octobre 2006.
+[5] Les appelants soutiennent que même s’ils ont emménagé dans le logement en copropriété en mars 2006, ils ne l’occupaient qu’en vertu d’un permis accordé par le constructeur, et qu’ils n’ont pris possession dudit logement que lorsque le titre leur a été transféré. L’annexe C du contrat de vente prévoyait qu’en échange du paiement des montants requis, au plus tard à la date de conclusion de la vente, le vendeur accorderait à MM. Reynolds et Pei un [traduction] « permis d’occupation du logement » entre la date de conclusion de la vente et la date de transfert du logement. Le contrat prévoyait également que les appelants devraient payer des [traduction] « frais d’occupation » mensuels et établissait la formule de calcul des montants en question. MM. Reynolds et Pei ont versé tous ces montants.
+[6] Les appelants prétendent également qu’ils occupaient le logement en copropriété, mais qu’ils n’en avaient pas la possession entière parce que le constructeur continuait d’exercer un contrôle important sur les entrées et les sorties. D’après le paragraphe 23 du contrat de vente, le vendeur et les personnes autorisées par celui‑ci disposaient d’un droit d’accès au logement des appelants afin d’y procéder à une inspection ou d’effectuer les travaux requis. Ce paragraphe est ainsi rédigé :
+[traduction]
+Le droit d’accès
+23 Nonobstant le fait que l’Acheteur occupe le logement à la date de conclusion ou à la date de conclusion de la transaction et de livraison du titre au logement de l’Acheteur, selon la date applicable, le Vendeur ou toute personne autorisée par celui‑ci disposera d’un droit d’accès au logement et aux parties communes, en tout temps raisonnables et sous réserve d’avoir donné un préavis raisonnable à l’Acheteur, afin d’y procéder à des inspections ou d’effectuer tous travaux ou réparations jugées nécessaires par le Vendeur relativement au logement ou aux parties communes, et ce droit viendra s’ajouter à tous les droits et servitudes prévus par la Loi. Le Vendeur pourra se voir accorder un droit d’accès similaire dans l’acte de transfert [final], et ce, pour une période n’excédant pas cinq ans, ledit acte de transfert étant fourni à la date de transfert du logement et consenti par l’Acheteur à la seule discrétion du Vendeur.
+[7] M. Reynolds a déclaré qu’après que M. Pei et lui eurent emménagé, des travailleurs ont fréquemment demandé à avoir accès à leur logement afin de corriger des anomalies de construction, ce qui a nui à leur jouissance du logement. M. Reynolds a affirmé qu’à deux reprises, et ce pendant plusieurs jours, M. Pei et lui avaient dû quitter le logement afin que les sols soient refaits. Les travaux continuaient également dans les parties communes de l’immeuble.
+Analyse
+[8] La Loi ne définit pas le terme « possession ». Dans l’arrêt North Shore Health Region c. Canada[1], la Cour d’appel fédérale s’est penchée sur l’interprétation du terme « possession » au sens de l’article 191 de la Loi, qui traite du principe de la « fourniture à soi même ». Dans l’arrêt North Shore, une des questions visait à établir si les occupants d’un établissement de soins de santé s’étaient vus transférer la possession des chambres qu’ils occupaient. Quand elle s’est penchée sur le sens à donner au terme « possession » dans la disposition, la Cour d’appel fédérale a déclaré que [traduction] « lorsqu’il est employé dans un contexte juridique, le terme “possession” se caractérise en règle générale par des notions de maîtrise et d’exclusivité ». Au paragraphe 44, la Cour d’appel fédérale a ajouté :
+À mon avis, dans le contexte du sous-alinéa 191(3)b)(i) de la Loi sur la taxe d’accise, le mot « possession » s’entend du droit de possession qui est équivalent ou analogue au droit de possession dont jouit normalement, par exemple, le locataire d’un appartement résidentiel, ce qui laisserait entrevoir, de manière générale, un droit à l’usage et à la jouissance exclusifs d’un appartement déterminé pour une période de temps défini à titre résidentiel, un droit auquel on ne peut faire échec durant la période prévue sauf en cas de violation, par le locataire, des modalités de son bail. […]
+J’accepte l’interprétation voulant que le terme « possession » employé au paragraphe 256.3(1) de la Loi puisse aussi s’entendre de la possession exclusive.
+[9] Afin d’étayer leur position voulant qu’ils n’aient pas eu la possession exclusive du logement avant le 24 octobre 2006, les appelants ont décrit leur droit d’occuper les lieux comme un « permis ». Ils ont affirmé qu’un permis d’occuper les lieux n’entraînait pas nécessairement l’octroi d’un droit de possession exclusive. Toutefois, il est clair que la nature du droit conféré aux appelants est une question de formulation du contrat, les termes employés par les parties n’étant pas déterminants.
+[10] Bien que l’annexe C du contrat de vente, qui accordait aux appelants le droit d’occuper le logement dans la période comprise entre la date de conclusion de la vente et la date de transfert du titre de propriété, ne stipule pas explicitement que les appelants se voient accorder la possession exclusive du logement, je crois que c’est ce qu’on peut déduire du reste du contrat et de l’ensemble des circonstances.
+[11] Premièrement, la réserve faite au vendeur à l’égard de son droit d’accès au logement, limité à des fins de réparations ou d’inspection des lieux, implique que les parties voulaient que la possession transférée aux appelants soit exclusive par ailleurs.
+[12] Deuxièmement, le droit d’accès au logement accordé au vendeur et à ses représentants par le contrat de vente n’est pas incompatible avec le droit de possession exclusive des appelants. Ce droit d’accès est limité par nature et il n’est pas différent du droit d’accès à un logement loué qui est accordé au propriétaire afin qu’il y effectue des réparations. Dans l’arrêt Radiach v. Smith[2], il a été décidé qu’un tel droit n’était pas incompatible avec le transfert de la possession exclusive :
+[traduction]
+Une réserve faite au propriétaire, prévue par contrat ou par la loi, tout comme un droit d’accès limité, par exemple aux fins d’inspection ou de réparation, n’est bien sûr pas incompatible avec l’octroi de la propriété exclusive. Nonobstant ces réserves, un locataire pour une durée déterminée, ou d’année en année ou à vie ou pour plus d’une vie, peut exclure son propriétaire aussi bien que les étrangers des lieux loués. […]
+La Cour supérieure de justice de l’Ontario a adopté cette conclusion dans l’arrêt Arsandco Investments Ltd. v. Municipal Property Assessment Corporation et al[3], au paragraphe 21.
+[13] Finalement, la preuve a montré que les appelants ont emménagé dans le logement, qui est devenu leur résidence, le 28 mars 2006, et à l’exception de deux courtes périodes, ils ont continué d’y résider. Au cours du contre-interrogatoire, M. Reynolds a admis que depuis lors, ils avaient le contrôle des personnes qui avaient accès au logement. Il m’apparaît également que les deux fois où ils ont quitté les lieux, c’était d’un mutuel accord avec le constructeur, afin qu’il puisse effectuer plus facilement les réparations qui s’avéraient nécessaires. Rien n’indique que le constructeur avait le droit d’exiger unilatéralement des appelants qu’ils quittent le logement. En outre, les appelants ont laissé leurs biens dans le logement en tout temps après le 28 mars 2006, et j’en déduis que les appelants ont gardé le contrôle du logement, y compris pendant les périodes où les réparations ont été effectuées.
+[14] Ces faits distinguent la présente affaire de l’arrêt North Shore, dans lequel l’exploitant de l’établissement pouvait reprendre possession des chambres des patients en tout temps, et ce, à sa seule discrétion. En l’espèce, les deux interruptions non anticipées et temporaires de l’occupation du logement par les appelants ainsi que le fait que des travailleurs ont eu accès au logement n’ont pas eu pour effet de voir les appelants perdre possession du logement après le 28 mars 2006.
+[15] Par conséquent, je conclus que le vendeur a transféré la possession du logement en copropriété aux appelants le 28 mars 2006, au sens de l’alinéa 256.3(1)a) de la Loi.
+[16] Le représentant des appelants a également suggéré que même si la Cour concluait que les appelants avaient pris possession de leur logement en copropriété avant juillet 2006, cela ne signifierait pas pour autant qu’ils n’ont pas droit au remboursement. Je pense que la formulation de l’alinéa 256.3(1)a) de la Loi ne va pas dans ce sens, étant donné que la disposition exige que « la propriété et la possession » de l’immeuble résidentiel soient transférées aux appelants avant juillet 2006 afin qu’ils puissent avoir droit au remboursement. Il est clair que le transfert de ces deux éléments doit avoir eu lieu au plus tard le 1er juillet 2006, et j’ai déjà conclu que ce n’était pas le cas en l’espèce.
+[17] Pour l’ensemble des présents motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 18e jour de septembre 2009.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 16e jour d’octobre 2009.
+Alya Kaddour-Lord, traductrice
+RÉFÉRENCE : 2009 CCI 470
+NO DU DOSSIER DE LA COUR : 2008-3798(GST)I
+INTITULÉ : Don Wallace Reynolds et Paul Po Hui Pei et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 3 juillet 2009
+MOTIFS DU JUGEMENT : L’honorable juge B. Paris
+DATE DU JUGEMENT : Le 17 septembre 2009
+COMPARUTIONS :
+Représentant des appelants :
+Martin R. Wasserman
+Avocat de l’intimée :
+Me Thang Trieu
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 2008 CAF 2.
+[2] (1959), 101 C.L.R. 209 (H.C. Aust.), à la page 222.
+[3] (2007) 279 D.L.R. (4e) 160.

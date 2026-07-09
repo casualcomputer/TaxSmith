@@ -1,0 +1,166 @@
+---
+title: "Kayll v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25856/index.do"
+last_modified: "2004-05-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 365"
+citation2: ""
+neutral_citation: "2004 TCC 365"
+decision_date: "2004-05-12"
+language: "en"
+item_id: "25856"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3883
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:28:07.819000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f68e4535782e7b945b2651cc8ecb00621c8e2e6d26b74f45a620b911ad1e1011"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kayll v. The Queen
+
+- Citation: 2004 TCC 365
+- Decision date: 2004-05-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3883, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kayll v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-12
+Neutral citation
+2004 TCC 365
+File numbers
+2003-3010(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3010(IT)I
+BETWEEN:
+LANCE KAYLL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 6, 2004 at Prince George, British Columbia
+By: The Honourable Justice D.W. Beaubier
+Appearances:
+Agent for the Appellant:
+Richard Martin
+Counsel for the Respondent:
+Susan Wong
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2001 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan, this 12th day of May 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2004TCC365
+Date:20040512
+Docket: 2003-3010(IT)I
+BETWEEN:
+LANCE KAYLL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Prince George, British Columbia on May 6, 2004. No evidence was called and the appeal was conducted respecting the law relating to subsection 6(6) of the Income Tax Act only.
+[2] In these circumstances, the assumptions in paragraph 10 of the Reply to the Notice of Appeal are the facts in this case. Paragraphs 5 to 12 of the Reply read:
+5. The Minister of National Revenue initially assessed the Appellant for the 2001 taxation year on April 8, 2002.
+6. In computing income for the 2001 taxation year the Appellant deducted the amount of $2,907.00 as employment expenses, comprised of the following:
+(a) Travel $2,364.88
+(b) Meals 115.50 (being 50% of $231.00)
+(c) Lodging 427.52
+Total $2,907.90
+(collectively, the "Expenses").
+7. In reassessing the Appellant for the 2001 taxation year, the Minster disallowed the deduction of Expenses.
+8. The Appellant filed a Notice of Objection dated October 31, 2002, received by the Minister on November 8, 2002.
+9. On May 30, 2003, the Minister confirmed the reassessment.
+10. In reassessing and confirming, the Minister relied on the following assumptions:
+a) at all material times, the Appellant was employed by Kemess Mines Ltd. (the "Employer");
+b) the Appellant was not employed in the year in connection with the selling of property or negotiating of contracts for the Employer;
+c) under the contract of employment, the Appellant was required to pay his own expenses, if any;
+d) under the contract of employment, the Appellant did not receive an allowance from the Employer;
+e) in order to perform the duties of his employment, the Appellant travelled from his personal residence to a pre-arranged departure point, at his own expenses;
+f) from the pre-arranged departure point, the Appellant was transported at the Employer's expense to a remote mine site;
+g) while at the remote mine site, the Appellant received board and lodging from the Employer, at the Employer's expense;
+h) the Employer's place of business was the remote mine site;
+i) the Appellant was not ordinarily required to carry on the duties of his employment away from the Employer's place of business; and
+j) the Appellant was not ordinarily required to carry on the duties of his employment in different places.
+B. ISSUES TO BE DECIDED
+11. The issue is whether the Appellant is entitled to deduct the Expenses in the 2001 taxation year.
+C. STATUTORY PROVISIONS RELIED ON
+12. He relies on section 3, 5, 6, 8, 67, 67.I, 248 and, particularly, on subsections 6(6), 8(2), 8(4), 8(10) and paragraphs 8(1)(h), 8(1)(h.1) of the Income Tax Act.
+[3] Subsection 6(6) of the Income Tax Act reads:
+(6) Notwithstanding subsection (1), in computing the income of a taxpayer for a taxation year from an office or employment, there shall not be included any amount received or enjoyed by the taxpayer in respect of, in the course or by virtue of the office or employment that is the value of, or an allowance (not in excess of a reasonable amount) in respect of expenses the taxpayer has incurred for,
+(a) the taxpayer's board and lodging for a period at
+(i) a special work site, being a location at which the duties performed by the taxpayer were of a temporary nature, if the taxpayer maintained at another location a self-contained domestic establishment as the taxpayer's principal place of residence
+(A) that was, throughout the period, available for the taxpayer's occupancy and not rented by the taxpayer to any other person, and
+(B) to which, by reason of distance, the taxpayer could not reasonably be expected to have returned daily from the special work site, or
+(ii) a location at which, by virtue of its remoteness from any established community, the taxpayer could not reasonably be expected to establish and maintain a self-contained domestic establishment,
+if the period during which the taxpayer was required by the taxpayer's duties to be away from the taxpayer's principal place of residence, or to be at the special work site or location, was not less than 36 hours; or
+(b) transportation between
+(i) the principal place of residence and the special work site referred to in subparagraph (a)(i), or
+(ii) the location referred to in subparagraph (a)(ii) and a location in Canada or a location in the country in which the taxpayer is employed,
+in respect of a period described in paragraph (a) during which the taxpayer received board and lodging, or a reasonable allowance in respect of board and lodging, from the taxpayer's employer.
+[4] The evidence is that the Appellant drives from his principal residence to a departure point. (13(e)). From there, the employer transports him to a remote mine site (13(f)). The remote mine site is the employer's place of business (13(h)). That is where the employee's duties of employment were. (13(i)).
+[5] On these facts, the departure point was not a "remote location" because the Appellant was not employed there, contrary to subparagraph 6(6)(b)(ii). Rather, he was transported by the employer from the departure point to the remote mine site where he was employed.
+[6] For these reasons, the Appellant does not fall within the clear wording of subsection 6(6).
+[7] The appeal is dismissed.
+Signed at Saskatoon, Saskatchewan, this 12th day of May 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC365
+COURT FILE NO.:
+2003-3010(IT)
+STYLE OF CAUSE:
+Lance Kayll v. The Queen
+PLACE OF HEARING:
+Prince George, British Columbia
+DATE OF HEARING:
+May 6, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF JUDGMENT:
+May 12, 2004
+APPEARANCES:
+Agent for the Appellant:
+Richard Martin
+Counsel for the Respondent:
+Susan Wong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

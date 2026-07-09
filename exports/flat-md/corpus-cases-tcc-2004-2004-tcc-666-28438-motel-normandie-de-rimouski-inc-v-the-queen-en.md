@@ -1,0 +1,225 @@
+---
+title: "Motel Normandie de Rimouski Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28438/index.do"
+last_modified: "2004-11-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 666"
+citation2: ""
+neutral_citation: "2004 TCC 666"
+decision_date: "2004-11-16"
+language: "en"
+item_id: "28438"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1204
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:50:15.959000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "63360780037c0589106ba3565cbae4e18efefa74b76fab4a2e2bab1344730280"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Motel Normandie de Rimouski Inc. v. The Queen
+
+- Citation: 2004 TCC 666
+- Decision date: 2004-11-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1204, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Motel Normandie de Rimouski Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-11-16
+Neutral citation
+2004 TCC 666
+File numbers
+2003-234(GST)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-234(GST)G
+BETWEEN:
+SAMSON BÉLAIR DELOITTE & TOUCHE INC.,
+IN ITS CAPACITY AS TRUSTEE TO THE BANKRUPTCY
+OF MOTEL NORMANDIE DE RIMOUSKI INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 5, 2004, at Québec, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Maurice Dussault
+Counsel for the Respondent:
+Michel Morel
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act bearing number 0254412 and dated October 18, 2002, for the period of December 31, 1998, to October 31, 1999, is allowed with costs, in accordance with attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of November 2004.
+“François Angers”
+Angers J.
+Translation certified true
+on this 9th day of February 2005.
+Julie Oliveira, Translator
+Partially revised in 2012
+Citation: 2004TCC666
+Date: 20041116
+Docket: 2003-234(GST)G
+BETWEEN:
+SAMSON BÉLAIR DELOITTE & TOUCHE INC.,
+IN ITS CAPACITY AS TRUSTEE TO THE BANKRUPTCY
+OF MOTEL NORMANDIE DE RIMOUSKI INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] On October 18, 2002, the Minister of National Revenue (“the Minister”) sent a notice of assessment to the trustee in the bankruptcy, Samson Bélair Deloitte & Touche Inc. (“Samson Bélair”), regarding Motel Normandie de Rimouski Inc. (Motel Normandie). This assessment, made under the Excise Tax Act (“ETA”) regarding the period of December 31, 1998, to October 31, 1999 (“the period”), was a decision on the Appellant’s objection and adjusted the amount of net tax that was previously determined by reducing it to $42,790 with $512.65 in interest and a penalty of $640.79. The new assessment was varied because the Minister reduced the fair market value of the building. The Appellant is thus appealing this new assessment and requests that it be vacated because it was not required to do a self‑assessment in 1999 since the conversion of its commercial building into a residential building was done prior to the period at issue.
+[2] Motel Normandie operated a commercial building in the Municipality of Rimouski consisting of a hotel complex with 83 rooms, a restaurant and a bar. In July 1997, Motel Normandie hired Gestion hôtelière M.B. Ass. Inc. (“Gestion M.B.”) to conduct an analysis of this company. Gestion M.B. was an administrator in the tourism, hotel and restaurant industries. Michel Bélanger, the company’s representative, therefore prepared a business plan and transformational analysis that he presented to Motel Normandie on November 17, 1997. His main recommendation and the recommendation accepted by Motel Normandie was that the motel be converted into a residence for independent retirees. The recommendation was adopted at a shareholders’ meeting in January 1998.
+[3] In the winter of 1998, some model apartments were converted, and in March 1998, the public was invited to see them. A press conference followed, and in April 1998, 11 leases were signed, with occupancy planned for July 1, and negotiations were underway regarding 22 other leases, with occupancy beginning on the same date. A renovation permit was requested in May and the conversion contracts were granted. In May and June 1998, all reservations for marriage receptions, banquets, conferences and others were cancelled. The restaurant remained open for business until May 31 and then no longer served meals except to the residents. This was necessary because, according to Mr. Bélanger, such activities were not appropriate for the establishment’s new clientele. The employees working in the hotel industry were gradually dismissed beginning in September, and at the beginning of October, nurses were hired.
+[4] The financial statements filed into evidence indeed reflect this conversion. It is also apparent that the rent coming from the apartments in the residence became the main source of income in the fall of 1998, and the revenue from the motel rooms dropped. The same applied in terms of food. An internal document showed the occupancy of the building in December 1998 by residents in apartments, and also included information on rooms rented by guests or by others, as well as the names of the residents at that time. No part of the building was used as a motel.
+[5] On October 22, 1998, most of the conversion work was completed. This conversion required putting in place a security system including cameras, a television, motion detectors and medical alert necklaces or bracelets for emergency situations, installing an elevator, renovating the kitchen, creating a public space and installing a big screen television. At the end of December 1998, according to Mr. Bélanger, there was only about $40,000 of the $725,000 in renovations left to be done. The renovations consisted of converting from 16 to 27 rooms into apartments. Mr. Bélanger had been unable to specify the exact number of rooms that had to be converted by the end of December 1998, but said that 27 was the maximum.
+[6] According to Michel Landry, the representative of Samson Bélair, the conversion was nearly completed by December 31, 1998, and approximately 38 apartments were rented. As for the work to be done after this date, it was minimal and involved installing a fire door, doing the work and the painting, according to the tenants’ preference.
+[7] Strong competition and environmental problems essentially caused the Motel Normandie to go bankrupt. Samson Bélair was appointed trustee to the bankruptcy on December 30, 1998. The environmental problems surfaced in the summer of 1998. A study was done on their impact and the costs to deal with them were too high for the company to afford. However, some remedial work was done, beginning in 1998, and continued by the manager appointed by the trustee after the bankruptcy. The costs associated with these environmental problems were approximately $200,000.
+[8] After being appointed trustee, Michel Landry, from Samson Bélair, called a creditors’ meeting and reviewed the situation with them. That is how the decision to continue with the operations was made and a management contract was granted to Gestion M.B. with the agreement of the main creditors. According to Mr. Landry, since the conversion was done, there was no discussion of this point at the meeting. According to Mr. Landry, the trustee did not have any rooms converted, except for some work done in response to notice of defective construction.
+[9] However, Mr. Landry acknowledged that $57,166 in revenue from renting the rooms is included in the 1999 financial statements. The rental of rooms to friends or parents of the residents made up 90% of this. In December 1999, $752 in revenue was generated from the rental of about 15 rooms. The Goods and Services Tax (GST) for the rental of these rooms was collected and refunded.
+[10] Jacques Cimon is the auditor appointed to the Appellant’s file. At the beginning of 1999, he went to the premises to determine the Appellant’s activities among other things. He was given a copy of 38 long‑term leases for apartments occupied as residences by seniors. He later made, under subsection 190(1) of the ETA, an assessment for Motel Normandie for the GST on the market value of the 38 units, because the motel had failed to meet its obligation to conduct a self‑assessment after supplying, through leases, a residential complex for the period ending on December 30, 1998. During the same visit, he even noted that 56 units were completed, with the major work having been done, leaving only the painting of the rooms, the flooring and the repairing of some defects.
+[11] On February 28, 2000, after seniors moved into the new apartments, the GST was reassessed on the market value of 30 new units that were converted out of 83 possible ones during the period of December 31, 1998, to October 31, 1999. The auditor allegedly noted during his visit in January 2000 that certain rooms still had not been converted. One thing that is certain is that 68 of the total 83 rooms were rented. He therefore assessed 30 additional units, basing this assessment on a market value. The assessment was later modified after being objected to, and a re‑assessment dated October 18, 2002, was made based on a value representing 30/83 of $1,875,000. Motel Normandie obviously did not conduct a self‑assessment at all. This re‑assessment was conducted by Annick Martineau, Trustee, Samson Bélair, for Motel Normandie.
+[12] The Respondent’s counsel argued that the Appellant having converted its commercial building into a residential complex, is deemed to have engaged in the construction of a residential complex and to have made substantial renovations to the building. The Appellant failed to conduct a self‑assessment, in accordance with subsection 191(3) of the ETA, after supplying, through leases, a residential complex in 1999. The counsel also argued that under subsections 206(4) and 206(5) of the ETA, the Appellant, who had ceased use of the building for its commercial activities, was deemed to have made a taxable supply of its building or a part of it and to have collected the tax in respect of the supply.
+[13] The Appellant’s counsel pointed out that paragraph 190(1)(b) of the ETA applies in this case. In his opinion, this provision triggers a self‑assessment on the date that the first resident’s lease became effective, that is, on July 1, 1998, in this case, and, consequently, the Appellant did not have to conduct a self‑assessment for the time period at issue. He added that the provisions of subsections 206(4) and (5) of the ETA regarding a change in use do not apply in this case due to subsection 195.1(1) of the ETA. This subsection provides that the self‑supply rules listed in section 191 of the ETA take precedence over those regarding a change in use.
+[14] In light of the parties’ respective positions, what needs to be determined is when the self‑supply rules became applicable in this case. The relevant legislative provisions are as follows:
+123(1) "substantial renovation" of a residential complex means the renovation or alteration of a building to such an extent that all or substantially all of the building that existed immediately before the renovation or alteration was begun, other than the foundation, external walls, interior supporting walls, floors, roof and staircases, has been removed or replaced where, after completion of the renovation or alteration, the building is, or forms part of, a residential complex.
+"residential unit" means
+(a) a detached house, semi‑detached house, rowhouse unit, condominium unit, mobile home, floating home or apartment,
+(b) a suite or room in a hotel, a motel, an inn, a boarding house or a lodging house or in a residence for students, seniors, individuals with a disability or other individuals, or
+(c) any other similar premises,
+or that part thereof that
+(d) is occupied by an individual as a place of residence or lodging,
+(e) is supplied by way of lease, licence or similar arrangement for the occupancy thereof as a place of residence or lodging for individuals,
+(f) is vacant, but was last occupied or supplied as a place of residence or lodging for individuals, or
+(g) has never been used or occupied for any purpose, but is intended to be used as a place of residence or lodging for individuals.
+"residential complex" means
+(a) that part of a building in which one or more residential units are located, together with:
+(i) that part of any common areas and other appurtenances to the building and the land immediately contiguous to the building that is reasonably necessary for the use and enjoyment of the building as a place of residence for individuals, and
+(ii) that proportion of the land subjacent to the building that that part of the building is of the whole building,
+(b) that part of a building that is the whole or part of a semi‑detached house, rowhouse unit, residential condominium unit or other similar premises that is, or is intended to be:
+(i) a separate parcel or other division of real property owned, or intended to be owned, apart from any other unit in the building,
+(ii) a residential unit,
+together with that proportion of any common areas and other appurtenances to the building and the land subjacent or immediately contiguous to the building that is attributable to the unit and that is reasonably necessary for its use and enjoyment as a place of residence for individuals,
+(c) the whole of a building described in paragraph (a), or the whole of a premises described in subparagraph (b)(i), that is owned by or has been supplied by way of sale to an individual and that is used primarily as a place of residence of the individual, an individual related to the individual or a former spouse or common‑law partner of the individual, together with
+(i) in the case of a building described in paragraph (a), any appurtenances to the building, the land subjacent to the building and that part of the land immediately contiguous to the building, that are reasonably necessary for the use and enjoyment of the building, and
+(ii) in the case of a premises described in subparagraph (b)(i), that part of any common areas and other appurtenances to the building and the land subjacent or immediately contiguous to the building that is attributable to the unit and that is reasonably necessary for the use and enjoyment of the unit,
+(d) a mobile home, together with any appurtenances to the home and, where the home is affixed to land (other than a site in a residential trailer park) for the purpose of its use and enjoyment as a place of residence for individuals, the land subjacent or immediately contiguous to the home that is attributable to the home and is reasonably necessary for that purpose, and
+(e) a floating home,
+but does not include a building, or that part of a building, that is a hotel, a motel, an inn, a boarding house, a lodging house or other similar premises, or the land and appurtenances attributable to the building or part, where the building is not described in paragraph (c) and all or substantially all of the leases, licences or similar arrangements, under which residential units in the building or part are supplied, provide, or are expected to provide, for periods of continuous possession or use of less than sixty days.
+"multiple unit residential complex" means a residential complex that contains more than one residential unit, but does not include a condominium complex.
+"single unit residential complex" means a residential complex that does not contain more than one residential unit, but does not include a residential condominium unit.
+190(1) Where at any time a person begins to hold or use real property as a residential complex and
+(a) the property was
+(i) last acquired by the person to hold or use as a residential complex, or
+(ii) immediately before that time, held for supply, or used or held for use as capital property, in a business or commercial activity of the person,
+(b) immediately before that time, the property was not a residential complex, and
+(c) the person did not engage in the construction or substantial renovation of, and is not, but for this section, a builder of, the complex, for the purposes of this Part,
+(d) the person shall be deemed to have substantially renovated the complex,
+(e) the renovation shall be deemed to have begun at that time and to have been substantially completed at the earlier of the time the complex is occupied by any individual as a place of residence or lodging and the time the person transfers ownership of the complex to another person, and
+(f) except where the person is
+(i) a particular individual who acquires the property at that time to hold or use exclusively as a place of residence of the particular individual or another individual who is related to the particular individual or who is a former spouse or common‑law partner of the particular individual, or
+(ii) a personal trust that acquires the property at that time to hold or use exclusively as a place of residence of an individual who is a beneficiary of the trust.
+191(1) Self‑supply of single unit residential complex or residential condominium unit - for the purposes of this Part, where:
+(a) the construction or substantial renovation of a residential complex that is a single unit residential complex or a residential condominium unit is substantially completed,
+. . .
+(3) Self‑supply of single unit residential complex or residential condominium unit - for the purposes of this Part, where:
+(a) the construction or substantial renovation of a residential complex that is a single unit residential complex or a residential condominium unit is substantially completed,
+(b) the builder of the complex
+(i) gives possession of the complex to a particular person under a lease, licence or similar arrangement (other than an arrangement, under or arising as a consequence of an agreement of purchase and sale of the complex, for the possession or occupancy of the complex until ownership of the complex is transferred to the purchaser under the agreement) entered into for the purpose of its occupancy by an individual as a place of residence,
+(ii) gives possession of the complex to a particular person under an agreement for:
+(A) the supply by way of sale of the building or part thereof in which the residential unit forming part of the complex is located, and
+(B) the supply by way of lease of the land forming part of the complex or the supply of such a lease by way of assignment,
+(iii) where the builder is an individual, occupies the complex as a place of residence, and,
+(c) the builder, the particular person or an individual who is a tenant or licensee of the particular person is the first individual to occupy the complex as a place of residence after substantial completion of the construction or renovation,
+the builder shall be deemed:
+(d) to have made and received, at the later of the time the construction or substantial renovation is substantially completed and the time possession of the complex is so given to the particular person or the complex is so occupied by the builder, a taxable supply by way of sale of the complex, and
+(e) to have paid as a recipient and to have collected as a supplier, at the later of those times, tax in respect of the supply calculated on the fair market value of the complex at the later of those times.
+[15] In this case, the description of the work done to convert Motel Normandie into a residential complex does not appear to satisfy the requirements of the definition for substantial renovations. In McLean v. Canada, [1998] T.C.J. No. 435 (Q.L.), this definition was described as restrictive and severe. Beaubier J. in Hole v. Canada, [1998] T.C.J. No. 332 (Q.L.), said that the question is whether, other than the foundation, exterior walls, interior supporting walls, floors, roof and stair cases, “all” or “substantially all” of the residential complex had been replaced and that, according to the definition, it is rather a question of whether substantially all of the interior had been replaced. In this case, it was a conversion for security and esthetic purposes to meet the seniors’ needs. It was not a case where the interior was completely renovated.
+[16] That being said, the fact that a person who has begun using a residential complex that was previously used for his or her commercial activities will lead to the presumptions set out in subsection 190(1) of the ETA. This person shall be deemed to have substantially renovated the residential complex, the renovation shall be deemed to have begun at that time and to have been substantially completed at the earlier of the time the complex is occupied by any individual as a place of residence or lodging and the time the person transfers ownership of the complex to another person and finally, the person shall be deemed to be a builder of the complex.
+[17] In this case, the Appellant is in this very situation and is deemed to have substantially completed the renovations by the end of June 1998, or, more specifically, July 1, when the residential complex was occupied as a residence under paragraph 190(1)(b). Subsection 190(1) triggers the self‑supply rules set out in subsection 191(3) because “residential complex” in this case is a multiple unit residential complex. As I said in Immeubles Le Séjour Inc. v. Canada, [2002] T.C.J. No. 424 (Q.L.), [2003] G.S.T.C. 180, the purpose of the provisions in the ETA on self‑assessment is to avoid giving a person who is the builder of that person’s own construction project any advantage over a person who purchases a residential complex from a builder and who is required to pay the GST on that purchase.
+[18] In this case, the self‑supply rules became applicable under paragraph 191(3)(d) of the ETA on the later of the following two events: at the time the construction or substantial renovation is substantially completed and the time possession of the unit is so given to the person or the unit is so occupied by the builder. In both cases, and based on the evidence put forward, the rules became applicable on July 1, 1998. Even if the date to retain is later than that, it is certain, based on the evidence put forward, that the work was substantially completed before the end of 1998; thus, before the period in question.
+[19] At that time, the Appellant should have been assessed or should have conducted a self‑assessment, both based on the fair market value of the entire residential complex based on paragraph 191(3)(e) of the ETA. In 398722 Alberta Ltd v. Canada, [2000] F.C.J. No. 644 (Q.L.), the Federal Court of Appeal applied subsection 191(3) of the ETA as follows at paragraph 17:
+Subsection 191(3) of the Excise Tax Act, the "self‑supply rule", was triggered in February of 1993 when the first tenant of one of the apartments took possession.
+[20] In this case, the Respondent completed the assessment of the conversion of each hotel room at the seniors’ residence for the period in question so that each of these rooms had to be a residential complex within the meaning of the ETA. Moreover, this approach is clear upon reading paragraph 16(o) of the amended Reply to the Notice of Appeal, which reads as follows:
+[Translation]
+the new residential buildings were rented in 1999.
+[21] However, the Respondent completed the assessment under subsection 191(3) of the ETA, which sets out the self‑supply rules of a “multiple unit residential complex.” It should have perhaps done this under subsection 191(1) for it to be consistent with its position.
+[22] In my opinion, the definition of residential complex provides that, in some cases, a “residence” can be a residential complex. However, such a residence with one room in a seniors’ residence must, to be considered a “residential complex”, correspond to a semi‑detached house, rowhouse unit, residential condominium unit or other similar premises that is, or is intended to be, a separate parcel or other division of real property owned, or intended to be owned, apart from any other unit in the building (see definition above).
+[23] Not all “residences” can be considered “residential complexes.” Subparagraphs (i) and (ii) of paragraph (b) in the definition of “residential complex” are cumulative, that is, the conditions listed in (i) and (ii) must be combined so that paragraph (b) can apply and so that part of the building can be considered a “residential complex.” The legislator’s use of the words “d’une part” at sub‑paragraph (i) of paragraph (b) of the same definition and of the words “d’autre part” at sub‑paragraph (ii) of paragraph (b) of the definition support my opinion (see the English version of the definition). A room in a seniors’ residence cannot, in my opinion, constitute a “residential complex” within the meaning of the definition of this expression at subsection 123(1) of the ETA.
+[24] The Respondent’s alternative argument regarding the application of subsections 206(4) and 206(5) of the ETA are irrelevant in this case. Suffice it to quote the example in the GST/HST Memoranda Series, Chapter 19.4.2 “Commercial Real Property‑Deemed Supplies,” at paragraph 60.
+Example 2
+A person converts a hotel that is not a residential complex into a rooming house. As a result of this conversion, the property becomes a residential complex. The residential units in the rooming house are leased for periods of continuous possession or use of more than one month. The renovations undertaken for the conversion are not extensive enough to be classed as a substantial renovation of the building. When leasing the first unit of the rooming house, the person is uncertain whether he/she is required to self‑assess tax under subsection 191(3) (self supply of a multiple unit residential complex) or under the change‑in‑use provisions (ceasing use in commercial activities).
+Because the rooming house is neither newly constructed nor substantially renovated, an analysis of this situation might first suggest that the person is not required to self‑supply under subsection 191(3). It could also suggest that the change‑in‑use provisions governing ceasing use in commercial activities apply.
+However, subsection 190(1) (conversion to residential complex) applies in this case and under paragraph 190(1)(d) deems the person to have substantially renovated the residential complex. The person is also deemed to be the builder of the complex under paragraph 190(1)(f). Consequently, subsection 191(3) applies. Since the provisions of section 195.1 deem the property not to be capital property of the builder from the time of the conversion until after the deemed builder either receives a taxable supply under 191 or receives an exempt supply of the complex, the change‑in‑use provisions governing ceasing use in commercial activities do not apply.
+[25] On these grounds, I find that the self‑supply rules became applicable in the period prior to the one in question and that it was at that time that the Respondent should have made an assessment for the Appellant based on the fair market value of the entire residential complex. The appeal is allowed and the assessment is therefore vacated. The Appellant is entitled to costs.
+Signed at Ottawa, Canada, this 16th day of November 2004.
+“François Angers”
+Angers J.
+Translation certified true
+on this 9th day of February 2005.
+Julie Oliveira, Translator
+Partially revised in 2012
+CITATION:
+2004TCC666
+COURT FILE NO.:
+2003-234(GST)G
+STYLE OF CAUSE:
+Samson Bélair Deloitte & Touche Inc., in its capacity as trustee to the bankruptcy of Motel Normandie de Rimouski Inc. v. Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+May 5, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice François Angers
+DATE OF JUDGMENT:
+November 16, 2004
+APPEARANCES:
+For the Appellant:
+Maurice Dussault
+For the Respondent:
+Michel Morel
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Maurice Dussault
+Firm:
+Brochet Dussault Larochelle
+S.E.N.C.
+Sainte-Foy, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

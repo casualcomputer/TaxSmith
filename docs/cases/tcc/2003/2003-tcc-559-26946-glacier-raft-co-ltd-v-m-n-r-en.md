@@ -1,0 +1,250 @@
+---
+title: "Glacier Raft Co. Ltd v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26946/index.do"
+last_modified: "2003-08-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 559"
+citation2: ""
+neutral_citation: "2003 TCC 559"
+decision_date: "2003-08-13"
+language: "en"
+item_id: "26946"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 556
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:51:02.562000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "62ac2975a370d63ed9e601ba1bfa92f588ddf65aa48c32299c3c1b2485ee07ba"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Glacier Raft Co. Ltd v. M.N.R.
+
+- Citation: 2003 TCC 559
+- Decision date: 2003-08-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 556, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Glacier Raft Co. Ltd v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-08-13
+Neutral citation
+2003 TCC 559
+File numbers
+2001-4528(EI)
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2001-4528(EI)
+BETWEEN:
+GLACIER RAFT CO. LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Bridget Murphy
+(2001-4529(EI)), Anne Duquette(2001-4530(EI)) and Elizabeth Murphy
+(2002-895(EI)) on April 7, 2003, at Cranbrook, British Columbia,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Agent for the Appellant:
+James Murphy
+Counsel for the Respondent:
+Victor Caux
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue, on the appeal made to him under section 92 of that Act, is confirmed.
+Signed at Ottawa, Canada, this 13th day of August, 2003.
+"E.A. Bowie"
+Bowie J.
+Docket: 2001-4529(EI)
+BETWEEN:
+BRIDGET MURPHY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Glacier Raft Co. Ltd.
+(2001-4528(EI)), Anne Duquette(2001-4530(EI)) and Elizabeth Murphy
+(2002-895(EI)) on April 7, 2003, at Cranbrook, British Columbia,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Agent for the Appellant:
+James Murphy
+Counsel for the Respondent:
+Victor Caux
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister, on the appeal made to him under section 91 of that Act, is confirmed.
+Signed at Ottawa, Canada, this 13th day of August, 2003.
+"E.A. Bowie"
+Bowie J.
+Docket: 2001-4530(EI)
+BETWEEN:
+ANNE DUQUETTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Glacier Raft Co. Ltd.
+(2001-4528(EI)), Bridget Murphy (2001-4529(EI)), and Elizabeth Murphy
+(2002-895(EI)) on April 7, 2003, at Cranbrook, British Columbia,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Agent for the Appellant:
+James Murphy
+Counsel for the Respondent:
+Victor Caux
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister, on the appeal made to him under section 91 of that Act, is confirmed.
+Signed at Ottawa, Canada, this 13th day of August, 2003.
+"E.A. Bowie"
+Bowie J.
+Docket: 2002-895(EI)
+BETWEEN:
+ELIZABETH MURPHY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Glacier Raft Co. Ltd.
+(2001-4528(EI)), Bridget Murphy (2001-4529(EI)), and Anne Duquette
+(2001-4530(EI)) on April 7, 2003, at Cranbrook, British Columbia,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Agent for the Appellant:
+James Murphy
+Counsel for the Respondent:
+Victor Caux
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister, on the appeal made to him under section 91 of that Act, is confirmed.
+Signed at Ottawa, Canada, this 13th day of August, 2003.
+"E.A. Bowie"
+Bowie J.
+Citation: 2003TCC559
+Date: 20030813
+Docket: 2001-4528(EI), 2001-4529(EI)
+2001-4530(EI), 2002-895(EI)
+BETWEEN:
+GLACIER RAFT CO. LTD.,
+BRIDGET MURPHY,
+ANNE DUQUETTE,
+ELIZABETH MURPHY,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+REASONS FOR JUDGMENT
+Bowie J.
+[1] These four appeals are from decisions made by the Minister of National Revenue (the Minister) under the Employment Insurance Act[1] (the Act). They were heard together on common evidence by agreement of all the parties. James Murphy acted as the agent for all the Appellants. The appeals concern the employment of the three individual Appellants by the corporate Appellant (Glacier) during the period between May 15, 2000 and August 31, 2000 (the period). Glacier operates a white-water rafting business on the Kicking Horse River in British Columbia each summer. James Murphy owns all the shares of Glacier. He is also the father of the three individual Appellants, all of whom were employed by Glacier during the period. When they later applied for benefits under the Act they were ruled ineligible, on the basis that their employment by Glacier was not insurable employment by reason of paragraphs 5(2)(i) and 5(3)(b) of the Act, which read as follows.
+5(2) Insurable employment does not include
+...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+5(3) For the purposes of paragraph (2)(i),
+...
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[2] There is no question that the individual Appellants are related to Glacier; the issue for the Minister to decide under paragraph 5(3)(b) was whether, having regard to all the circumstances, it was reasonable to conclude that Glacier and the individual Appellants would have entered into a similar contract of employment if they had been dealing with each other at arm’s length. The duty of the Minister in making his decisions under the Act, and the role of this Court in reviewing those decisions, have been the subject of several decisions of the Federal Court of Appeal in recent years. It was put this way by Marceau J.A. in Légaré v. Canada:[2]
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+This description of the roles of the Minister and the Court was repeated in Pérusse v. Canada,[3] and was recently reaffirmed in Valente v. Canada,[4] where Sharlow J.A., speaking as well for Létourneau J.A. and Nadon J.A., described it as:
+…a departure from earlier decisions in defining the role of the Tax Court in considering appeals from ministerial determinations under paragraph 5(3)(b) of the … Act.
+It is surprising that the Federal Court of Appeal would overrule its several earlier decisions[5] dealing with the nature of the review by this Court of the Minister’s decision under paragraph 5(3)(b) without specific reference to them, but that appears to be the result.
+[3] I understand what Marceau J.A. referred to as “… what is discovered in an inquiry carried out in the presence of all interested parties” to mean simply the facts found by the trial judge following a hearing in the nature of a trial de novo, and not the product of an inquisitorial procedure of the kind carried out by commissions of inquiry and the courts of some countries that do not operate under the Anglo-American tradition. If it were intended to make any such fundamental change in the way that facts are to be established in a proceeding before this Court, then I have no doubt that Parliament would have made that clear, and that the Federal Court of Appeal would have addressed that aspect of the matter in greater depth. I therefore consider that the decision as to what evidence should be led before this Court remains a matter for the parties to decide,[6] rather than the presiding judge.
+[4] There is no record before me of the kind that is generally available to courts that have to carry out the function of reviewing the correctness of a ministerial or judicial decision. Nothing of the sort is provided for either in the Act or in the Tax Court of Canada Rules of Procedure Respecting the Employment Insurance Act. The Rules do require that the Minister respond to a Notice of Appeal by delivering a Reply, which, among other things, must indicate which facts alleged in the Notice of Appeal are admitted and which are not, and must set out any other allegations of fact on which the Minister intends to rely. Although not required by the Rules, a practice has grown up whereby the Minister pleads, as assumptions of fact, those facts upon which her assessment is based. Without any access to the evidentiary record that led the Minister to reach these factual conclusions, however, it is impossible for this Court to decide whether the material that was before her is sufficient to support them. That may be of little consequence, however, given the do novo nature of the hearing. What is important is that prior to the hearing in this Court, the Appellants had notice of the precise factual and legal bases upon which the Minister’s decisions were grounded, and they had the opportunity at the hearing to present evidence and argument to displace them.
+[5] Anne and Elizabeth Murphy both worked for Glacier as river guides during the period, and the Replies filed by the Minister in their appeals are identical. Bridget Murphy worked as the office manager during the same period. The Reply filed in her appeal is almost identical to those in her sisters’ appeals, varying only as to the nature of the duties that she performed. Essentially, the same assumptions of fact are pleaded in the appeal of Glacier. I reproduce here in their entirety those assumptions of fact as they appear in the Replies filed in the appeals of Anne Murphy and Elizabeth Murphy.
+5. In making his decision referred to in paragraph 4 herein, the Respondent relied upon the following assumptions of fact:
+(a) Glacier is a corporation;
+(b) the sole shareholder of Glacier is James Murphy ("James");
+(c) James is the Appellant's father;
+(d) during the Period, Glacier operated a white water rafting tour business on the Kicking Horse River;
+(e) the Appellant is a qualified river guide as well as a qualified trip leader with many years of experience in the business;
+(f) the Appellant was employed by Glacier in the Period as a river guide, occasionally working in the office if necessary;
+(g) during the Period, the Appellant could work as many as 10 hours per day, 6 days per week, depending on the number of customers, the weather, etc.
+(h) no record was kept of the number of hours worked by the Appellant in the Period;
+(i) the Appellant was to be paid a monthly salary of $2,000.00;
+(j) the Appellant was not paid regularly but could request advances as needed with final settlement to be made at the end of the season;
+(k) Glacier employed other river guides, both full time and part time, and they were paid a daily rate, ranging from $80.00 to $170.00, based on their level of experience;
+(l) the other river guides were paid monthly by cheque;
+(m) the T4 issued by Glacier to the Appellant for the 2000 year indicates that her gross salary from Glacier was $7,000.00 and indicates deductions for Canada Pension Plan contributions and Employment Insurance premiums;
+(n) the Record of Employment issued by Glacier to the Appellant in respect of the Period indicated that she had 940 insurable hours and insurable earnings of $7,000.00;
+(o) the Appellant received two cheques, one dated August 9, 2000 for $5,000.00 and one in September for $2,000.00;
+(p) the Appellant was paid less for her services than the other river guides;
+(q) the Appellant was paid less than she would have received for her qualifications and her years of experience;
+(r) the Appellant provided services to Glacier both before and after the Period for no remuneration;
+(s) during the Period, the Appellant was related to Glacier within the meaning of the Income Tax Act;
+(t) during the Period, the Appellant and Glacier were not dealing with each other at arms length; and
+(u) having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is not reasonable to conclude that the Appellant and Glacier would have entered into a substantially similar contract of employment if they had been dealing with each other at arms length.
+Subparagraphs (s), (t) and (u) obviously do not state facts at all, but conclusions of law (or mixed fact and law). They should not be pleaded as assumptions of fact, and I shall ignore them.
+[6] James Murphy gave evidence for the Appellants, as did Anne and Elizabeth. The Appellants also led evidence from Yvon Sabourin, an experienced rafting guide who worked for Glacier as river manager at the relevant time, and Kurt Swanson, also an experienced rafting guide who has worked for a number of companies in the industry, including Glacier. They all described at some length what is involved in the operation of a white water rafting company, from early morning when the equipment is checked and transported to the starting point on the river and lunches are prepared for the customers and staff, until the end of the day when the rafts are removed from the water, inspected, patched if need be, and the equipment is all stowed. Overall supervision of operations is the job of the river manager. Each raft has one or more guides in it during the trip on the river, and each party has a trip leader, who is a top level experienced guide. The duties of a guide are extensive and varied, and it is clear from the evidence that Anne and Elizabeth did all the work that the other guides did, and more. They and Bridget had all worked for Glacier in one capacity or another for many years. In fact, Mr. Murphy testified that when he bought the company in 1995 he felt confident in doing so only because his three daughters had among them many years of experience working for the company in several capacities under its previous owner. I accept also the evidence that the individual Appellants all had a good work ethic, and were not just willing but eager to do as much work as the other guides, or more. The Minister has pleaded that they did work outside the period for no remuneration, and they do not dispute that. I do not find that to be a significant factor, however, in considering their terms of employment; considering all the evidence, I think it is a fair conclusion that this extra work amounted to no more than some telephone answering and the like before the season began and after it ended, and that it was not done by them qua employee, but simply as members of the family.
+[7] The real dispute in this case comes down to whether the individual Appellants were paid for their work on the same basis as the other employees, or in the somewhat convoluted words of the Act, would it have been reasonable to conclude that they and Glacier would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length. It is not disputed that the guides, other than the Appellants, were paid on a per trip basis, anywhere from $80 to $120 per trip, depending on experience, which is normal in the industry. Other than the individual Appellants, only the river guide was offered the option of being paid a salary, but he chose to be paid on the basis of $170 per day. There is no way of knowing at the beginning of a season whether it will be a busy one with a lot of trips, or a quiet one with fewer trips. Obviously, the guides who are paid by the trip will make more money in a busy summer than in a quiet one. A number of factors, including natural ones such as the weather and the water level, have a considerable effect on the volume of business in this industry, and so contribute to determining how much money a guide who is paid by the trip can make during the season. Before the season opened in 2000, Mr. Murphy, as the overall manager of Glacier, gave the three individual Appellants the option of being paid a salary of $7,000 for the season, in installments. The alternative for Anne and Elizabeth was to be paid on the same per trip basis as the other guides. It is not entirely clear what alternative system of remuneration would have been made available to Bridget as the office manager. The evidence does not reveal what rates were paid at that time to people doing comparable office work in similar operations. It is clear, however, that all three were offered salaried employment only because they were Mr. Murphy’s daughters.
+[8] All three individual Appellants agreed with their father that they would be paid a salary of $7,000 for the season, with some amount to be paid during the summer, and the balance at the end. In fact they were all paid $5,000 by a cheque dated August 9, 2000, and the balance of $2,000 by a second cheque at the end of the season. There is no evidence to suggest that this method of payment, rather than regular paycheques on a weekly or monthly basis, is usual in the industry. I accept that there were advantages to Glacier, and also to the three individual Appellants, in the arrangement they made. Glacier, by not having to pay the workers until late in the season, was able to conserve what was probably scarce working capital. Anne and Elizabeth were able to avoid the risk of a poor summer in which their total earnings might have been much less than $7,000. Conceivably, Bridget, too, might have been laid off, or had her hours curtailed, if the volume of business was less than expected. I have not overlooked the fact that the individual Appellants all said that they would have been willing to work for another company on exactly the same terms as they had with Glacier. The question for the Minister, however, was whether Glacier and an arm’s length person would likely have entered into a contract in essentially the same terms. The Minister was not satisfied that they would have, and on the evidence before me, I cannot say that she was wrong in that. The appeals must be dismissed.
+[9] I should make it clear that although I am bound to dismiss the appeals, I was impressed with all the witnesses, and in particular with Anne Duquette, as she now is, Elizabeth Murphy, and James Murphy. I have no doubt that Anne and Elizabeth worked as hard as, and probably harder than, the other guides. Nor do I doubt that Mr. Murphy relied heavily on their experience, not only when he bought the company in 1995, but thereafter as well. This is certainly not a case of employment of convenience being created for the benefit of members of the family so that they could take unfair advantage of the employment insurance system. Nevertheless, the terms of the Act are reasonably clear, and when related parties enter into employment contracts they must be scrupulous to see that the terms do not differ from those on which the employer employs other workers, or on which the workers could find work with other employers, if they wish the employment to be insurable under the Act.
+Signed at Ottawa, Canada, this 13th day of August, 2003.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2003TCC559
+COURT FILE NO.:
+2001-4528(EI), 2001-4529(EI),
+2001-4530(EI) and 2002-895(EI)
+STYLE OF CAUSE:
+Glacier Raft Co. Ltd.,
+Bridget Murphy, Anne Duquette and Elizabeth Murphy and The Minister of National Revenue
+PLACE OF HEARING:
+Cranbrook, British Columbia
+DATE OF HEARING:
+April 7, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT:
+August 13, 2003
+APPEARANCES:
+Agent for the Appellants:
+James Murphy
+Counsel for the Respondent:
+Victor Caux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] S.C. 1996, c. 23.
+[2] (1999) 246 N.R. 176 at para. 4.
+[3] (2000) 261 N.R. 150 at para. 14.
+[4] 2003 FCA 132.
+[5] Tignish Auto Parts Inc. v. Canada, (1994) 185 N.R. 73 (F.C.A.); Canada v. Jencan Ltd., [1998] 1 F.C. 187 (F.C.A.); Bayside Drive-In Ltd. v. Canada, [1997] F.C.J. 1019 (F.C.A.).
+[6] Farrar v. Farrar, (2003) 63 O.R. (3d) 141, per Charron J.A. at paragraphs [23] to [27].

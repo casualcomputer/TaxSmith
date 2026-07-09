@@ -1,0 +1,156 @@
+---
+title: "Anthony c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30957/index.do"
+last_modified: "2012-09-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 334"
+citation2: ""
+neutral_citation: "2012 CCI 334"
+decision_date: "2012-09-21"
+language: "fr"
+item_id: "30957"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4831
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:24:12.561000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "702ed6b726650d4cbfed0e528926cc339256130c6a40dcc0467abc7493d48de6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Anthony c. La Reine
+
+- Citation: 2012 CCI 334
+- Decision date: 2012-09-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4831, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Anthony c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-09-21
+Référence neutre
+2012 CCI 334
+Numéro de dossier
+2012-589(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-589(IT)I
+ENTRE :
+DARLENE ANTHONY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 13 septembre 2012, à Kingston (Ontario).
+Devant : L’honorable juge J. M. Woods
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocats de l’intimée :
+Me Christopher Kitchen
+Me Jack Warren
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2009 est rejeté. Chaque partie assumera ses propres dépens.
+Signé à Toronto (Ontario), ce 21e jour de septembre 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 25e jour d’octobre 2012.
+Alya Kaddour, traductrice
+Référence : 2012CCI334
+Date : 20120921
+Dossier : 2012-589(IT)I
+ENTRE :
+DARLENE ANTHONY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] L’appelante, Darlene Anthony, a acheté une cuve thermale sur recommandation de ses médecins. Le fait d’avoir recours à un tel équipement a soulagé ses douleurs chroniques graves au point que sa capacité de marcher s’en est trouvée améliorée. Le présent appel porte sur le refus qui lui a été fait de déduire le coût de la cuve thermale, qui s’élevait à 7 063 $, de son revenu au titre du crédit d’impôt pour frais médicaux (CIFM).
+[2] La nouvelle cotisation en cause a été établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2009.
+Le contexte législatif
+[3] En l’espèce, on m’a renvoyée à deux types de dépenses susceptibles de donner droit à un CIFM.
+[4] Le paragraphe 118.2(2)(l.2) de la Loi s’applique aux frais payés pour rénover une habitation en vue de permettre à un particulier de s’y déplacer plus facilement. Cette disposition est ainsi rédigée :
+(2) Frais médicaux – Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+[…]
+(l.2) pour les frais raisonnables afférents à des rénovations ou transformations apportées à l’habitation du particulier, de son époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a) – ne jouissant pas d’un développement physique normal ou ayant un handicap moteur grave et prolongé – pour lui permettre d’avoir accès à son habitation, de s’y déplacer ou d’y accomplir les tâches de la vie quotidienne, pourvu que ces frais, à la fois :
+(i) ne soient pas d’un type dont on pourrait normalement s’attendre à ce qu’ils aient pour effet d’augmenter la valeur de l’habitation,
+(ii) soient d’un type que n’engagerait pas normalement la personne jouissant d’un développement physique normal ou n’ayant pas un handicap moteur grave et prolongé;
+[Non souligné dans l’original.]
+[5] L’alinéa 118.2(2)m) de la Loi s’applique aux dispositifs ou équipements décrits à l’article 5700 du Règlement de l’impôt sur le revenu prescrits par un médecin. En l’espèce, la disposition pertinente est l’alinéa i), qui est ainsi rédigé :
+5700. Les dispositifs ou équipements suivants sont prescrits pour l’application de l’alinéa 118.2(2)m) de la Loi :
+[…]
+i) tout dispositif qui est conçu exclusivement à l’intention du particulier à mobilité réduite pour l’aider à marcher;
+[Non souligné dans l’original.]
+Analyse
+[6] Le fait que Mme Anthony souffre de douleurs chroniques graves et que la cuve thermale l’a aidée à marcher n’est pas contesté.
+[7] La Couronne soutient qu’il ne suffit pas que la dépense engagée l’aide à marcher. L’avocat de l’intimée laisse entendre que la cuve thermale ne constitue pas une dépense déductible parce qu’il s’agit d’un type de bien communément acheté par des personnes ne souffrant pas d’un handicap grave et qui n’est pas conçu exclusivement pour aider les personnes à mobilité réduite à marcher. J’ai souligné les éléments pertinents de la Loi et du règlement connexe ci‑dessus.
+[8] Je souscris aux observations de la Couronne.
+[9] Mme Anthony s’est efforcée de trouver une cuve thermale dont le prix était raisonnable et qui disposait de jets adéquatement situés au niveau de son cou, ce qui était nécessaire pour atténuer ses symptômes de douleurs dorsales. Le seul équipement qu’elle a trouvé qui répondait à ces critères était une cuve thermale qu’elle a achetée chez Costco. La cuve comptait cinq sièges et les jets du siège d’angle répondaient à ses besoins.
+[10] La Cour a récemment formulé des commentaires à l’égard d’une situation similaire, dans la décision Johnston c La Reine, 2012 CCI 177. Je souscris aux commentaires que le juge Boyle a formulés dans cette affaire, au paragraphe 12 :
+[12] […] Aucun élément de preuve n’a été présenté dans un sens ou dans l’autre, mais je dois prendre connaissance d’office du fait qu’un grand nombre de Canadiens bien portants installent des cuves thermales similaires dans leurs maisons et dans leurs cours. À mon avis, les cuves thermales habituelles généralement offertes sur le marché de détail, telles que celle des Johnston, ne peuvent pas satisfaire à cette dernière exigence.
+[11] Bien que les faits de l’espèce invitent à faire preuve d’empathie, je dois rejeter le présent appel, considérant que l’intention du législateur est claire en ce qui a trait au fait que le type de frais en cause n’est pas déductible à titre de CIFM.
+[12] Pour finir, je voudrais rapidement souligner qu’au début de l’audience, j’ai informé les parties que le fardeau de la preuve devrait incomber à la Couronne en ce qui a trait à une des hypothèses. L’hypothèse en question se trouve à l’alinéa 9d) de la réponse à l’avis d’appel et est ainsi formulée :
+[traduction]
+9. Pour calculer la dette fiscale de l’appelante pour l’année d’imposition 2009, le ministre s’est fondé sur les hypothèses de fait suivantes :
+[…]
+d) l’appelante n’a pas payé de frais médicaux supérieurs à 209 $.
+[13] Si les hypothèses du ministre sont énoncées dans la réponse à l’avis d’appel, c’est dans le but d’informer les contribuables des faits qu’ils devront établir au procès. Dans cette optique, l’hypothèse reproduite ci‑dessus n’est absolument pas éloquente. Nonobstant cette lacune, l’exigence de conception exclusive a été mentionnée ailleurs dans la réponse. Par conséquent, j’ai conclu que la question avait été correctement soulevée dans les actes de procédure, mais qu’il convenait de faire porter le fardeau de la preuve à la Couronne, vu que l’hypothèse n’était pas suffisamment explicite. Il s’est avéré que le fait de faire porter le fardeau de la preuve à l’intimée n’a pas changé l’issue de l’appel.
+[14] L’appel est rejeté et chaque partie assumera ses propres dépens.
+Signé à Toronto (Ontario), ce 21e jour de septembre 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 25e jour d’octobre 2012.
+Alya Kaddour, traductrice
+RÉFÉRENCE : 2012 CCI 334
+NO DU DOSSIER DE LA COUR : 2012-589(IT)I
+INTITULÉ : Darlene Anthony c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Kingston (Ontario)
+DATE DE L’AUDIENCE : Le 13 septembre 2012
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 21 septembre 2012
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocats de l’intimée :
+Me Christopher Kitchen
+Me Jack Warren
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa (Ontario)

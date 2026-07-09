@@ -1,0 +1,247 @@
+---
+title: "Jones v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26346/index.do"
+last_modified: "2004-04-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 251"
+citation2: ""
+neutral_citation: "2004 CCI 251"
+decision_date: "2004-04-16"
+language: "fr"
+item_id: "26346"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3326
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:34:46.310000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e48706a8f58e8036718a355b913e5e5dd189790f6511263122d64683db43d2e2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jones v. The Queen
+
+- Citation: 2004 CCI 251
+- Decision date: 2004-04-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3326, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jones v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-16
+Référence neutre
+2004 CCI 251
+Numéro de dossier
+2003-1494(GST)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-1494(GST)I
+ENTRE :
+ELLIE JONES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Nanaïmo (Colombie-Britannique), le 24 mars 2004.
+Devant : L'honorable D.W. Beaubier, juge
+Comparutions :
+Avocat de l'appelante :
+Me Timothy J. Huntsman
+Avocat de l'intimée :
+Me Stacey Michael Repas
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 5 juillet 2002 et porte le numéro 76697, est accueilli avec dépens et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs de jugement ci-joints.
+Signé à Saskatoon (Saskatchewan), ce 16e jour d'avril 2004.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+Référence : 2004CCI251
+Date : 20040416
+Dossier : 2003-1494(GST)I
+ENTRE :
+ELLIE JONES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Cet appel, qui a été interjeté sous le régime de la procédure informelle, a été entendu à Nanaïmo (Colombie-Britannique) le 24 mars 2004. L'appelante a témoigné ainsi que son mari, Kenneth Jones, et Victor Sweett, un évaluateur. L'intimée a cité Warren Bentley, l'agent de perception responsable du dossier, et Parmjeet Uppal, un évaluateur.
+[2] Les questions en litige sont exposées aux paragraphes 10 à 14 de la réponse à l'avis d'appel, qui sont ainsi libellés :
+[traduction]
+10. Le 5 juillet 2002, le ministre a établi une nouvelle cotisation à l'égard de l'appelante en vue de ramener le montant à 13 845,70 $, de façon à admettre en partie l'opposition et, par conséquent, de délivrer un avis à cette date.
+11. En établissant ainsi la nouvelle cotisation de l'appelante, le ministre s'est fondé sur les hypothèses de fait ci-après énoncées :
+a) la personne morale a été constituée le 24 mars 1994;
+b) la personne morale exploitait une station-service Payless;
+c) la personne morale était inscrite en vertu de la partie IX de la Loi, à compter du 20 avril 1994, et s'est vu attribuer le numéro d'enregistrement 137756805;
+d) la personne morale était tenue de produire des déclarations de TPS trimestrielles et de verser la taxe à chaque trimestre;
+e) pendant la période pertinente, la totalité, ou presque, des fournitures de la personne morale étaient taxables au taux de 7 p. 100;
+f) pour les périodes de déclaration allant du 20 avril 1994 au 28 août 1997 (la « période » ), la personne morale a produit des déclarations de TPS, mais elle a omis de verser la taxe nette y afférente;
+g) pendant la période, la personne morale était tenue de verser une taxe nette d'un montant de 26 277,06 $ à l'égard de la TPS perçue en vertu du paragraphe 228(2) de la Loi, mais elle a omis de verser cette taxe nette de 26 277,06 $ plus la pénalité et les intérêts applicables comme elle devait le faire (la « dette » );
+h) le 7 juin 2000, le ministre a certifié l'existence de la dette devant la Cour fédérale et le bref concernant la dette a été retourné le 3 octobre 2000, avec la mention « impossible de trouver des actifs exigibles » ;
+i) le 1er décembre 2000, le ministre a établi à l'égard du conjoint une cotisation indiquant une taxe nette de 26 277,06 $, plus une pénalité de 9 024,88 $ et des intérêts de 7 073,45 $ à l'égard de la TPS non versée par la personne morale pendant la période;
+j) le conjoint était l'unique administrateur de la personne morale au moment où la dette a été accumulée;
+k) le conjoint est responsable en vertu du paragraphe 323(1) de la Loi à l'égard de la dette de 42 375,39 $, qui comprend une taxe nette de 26 277,06 $, une pénalité de 9 024,88 $ et des intérêts de 7 073,45 $, par suite de l'omission de la personne morale de verser le montant de la taxe nette;
+l) le conjoint n'a pas déposé d'avis d'opposition à l'encontre de la cotisation qui avait été établie à son égard en sa qualité d'administrateur de la personne morale;
+m) avant le 28 mai 1993, le conjoint et l'appelante étaient copropriétaires de la propriété;
+n) le 28 mai 1993 ou vers cette date, une hypothèque de 104 000 $ consentie par la Banque Royale du Canada a été enregistrée sur la propriété, le conjoint et l'appelante étant inscrits à titre d'emprunteurs en leur qualité de copropriétaires;
+o) le 15 février 1996, le conjoint a transféré à l'appelante, moyennant une contrepartie de 1 $, la part de 50 p. 100 qu'il possédait dans la propriété;
+p) le conjoint a fait faillite le 6 mars 2001;
+q) au moment où le conjoint a transféré à l'appelante sa part de 50 p. 100 dans la propriété, il était au courant de l'existence de son obligation fiscale;
+r) l'obligation existante du conjoint pour la taxe nette, les pénalités et les intérêts, au moment du transfert, s'élevait à au moins 13 845,70 $;
+s) la juste valeur marchande de la propriété au moment du transfert était de 140 000 $;
+t) le solde impayé qui était dû à l'égard de l'hypothèque consentie par la Banque Royale sur la propriété au moment du transfert était de 98 883,51 $;
+u) la valeur nette de la part de 50 p. 100 que le conjoint possédait dans la propriété au moment du transfert était d'au moins 20 558,25 $, soit 50 p. 100 de 140 000 $ - 98 883,51 $.
+B. QUESTION À TRANCHER
+12. Il s'agit de savoir si l'appelante est solidairement responsable avec son conjoint à l'égard du montant de 13 845,70 $ plus le montant additionnel des intérêts établi en vertu du paragraphe 325(1) de la Loi.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES
+13. Il se fonde sur les articles 123, 126, 165, 169, 221, 225, 228, 238, 280, 296, 298, 299, 315, 316, 321, 323 et 325 de la Loi et sur les dispositions de la Company Act de la Colombie-Britannique.
+D. MOTIFS INVOQUÉS ET RÉPARATION
+DEMANDÉE
+14. Il soutient respectueusement que l'appelante est solidairement responsable à l'égard du montant de 13 845,70 $ plus les intérêts applicables, parce que son conjoint lui a transféré la part de 50 p. 100 qu'il possédait dans la propriété à un moment où la juste valeur marchande de sa part excédait la contrepartie donnée par l'appelante d'un montant supérieur à ce montant.
+[3] Les seules hypothèses qui ont été réfutées étaient celles qui figurent aux alinéas 11s) et 11u), c'est-à-dire les hypothèses concernant la valeur nette de la maison de l'appelante, au 7465, Andrea Crescent, Lantzville (Colombie-Britannique), une banlieue de Nanaïmo, au 14 février 1996, date à laquelle Kenneth a transféré à Ellie sa part de 50 p. 100.
+[4] Au départ, la Cour croit Ellie lorsqu'elle a témoigné qu'elle voulait que la maison soit enregistrée en son nom parce qu'elle craignait de la perdre si Kenneth était tué dans un accident. La Cour croit également l'ensemble de son témoignage. En particulier, Ellie a témoigné que leur situation financière était toujours précaire et qu'une fois que Kenneth a pris en main l'exploitation de l'entreprise sous son nom de personne morale, il lui a simplement dit que le chiffre d'affaires avait baissé et qu'il n'y avait pas d'argent et il ne lui a pas fait part de tous les problèmes qui commençaient à se poser. Pendant une longue période lorsque les choses allaient fort mal, le couple et leurs trois jeunes enfants mangeaient tout au plus du macaroni et il est clair que les parents de Kenneth les aidaient du mieux qu'ils le pouvaient. Vers la fin, il y a longtemps eu beaucoup de tension et les conjoints ne se parlaient tout simplement pas. Ellie a finalement trouvé du travail chez Wal-Mart afin d'avoir de l'argent pour la famille. Environ un an après le transfert de la maison, il a fallu remplacer le toit et la cheminée. Les deux évaluateurs ont témoigné que la maison était dans un état [traduction] « passable » et qu'elle n'était pas conforme à la norme dans cette rue. La Cour conclut que c'était également le cas au moment du transfert. Le couple n'avait pas le temps ni l'argent nécessaires pour l'entretenir. Kenneth travaillait à la station-service au moins dix heures par jour, sept jour sur sept, et Ellie essayait de prendre soin de trois jeunes enfants sans avoir d'argent. Le père de Kenneth a payé une somme de 4 700 $ pour le nouveau toit, l'ancien toit devant être remplacé parce qu'il coulait. Des étincelles et des flammes provenant du poêle à bois sortaient de la cheminée et il fallu payer un montant de 1 500 $ pour le remplacer. Par suite de ces événements, Kenneth et Ellie se sont séparés et Ellie vit avec leurs enfants dans la maison.
+[5] Les deux évaluateurs étaient dignes de foi, mais ils ont tous deux vu la propriété, au 7465, Andrea Crescent (le « 7465 » ), bien longtemps après 1996. La Cour conclut que la maison située de l'autre côté de la rue, au 7464, Andrea Crescent, que M. Uppal a choisie était la meilleure propriété comparable. Cette maison a été vendue pour un montant de 136 000 $ au mois de janvier 1996. Il y avait un abri à voitures; la maison de l'appelante comportait un garage. Il y avait un foyer alors qu'il n'y en avait pas dans la maison de l'appelante. Cependant, les propriétés étaient sur les autres points similaires. Un acheteur et un vendeur s'y connaissant auraient été au courant de l'état du toit et de la cheminée au 7465. Compte tenu de la preuve présentée au sujet de la situation financière des Jones à ce moment-là, la Cour conclut que le 7465 n'était pas en bon état au moment du transfert. Pour ces raisons, la Cour conclut que la valeur du 7465 au moment du transfert était celle mentionnée par M. Sweett, à savoir 131 000 $. M. Sweett a tenu compte du coût de remplacement du toit, mais non de celui de la cheminée. Par conséquent, un montant de 1 500 $ est accepté pour la cheminée, de sorte que la valeur du 7465 au moment du transfert à laquelle est arrivée la Cour est de 129 500 $.
+[6] Sur ce montant de 129 500 $, l'appelante demande également une réduction additionnelle correspondant à la valeur de deux hypothèques. Les deux actes hypothécaires ont en fait été signés après la date du transfert, mais des garanties de 12 000 $ ont été fournies par Ellie et Kenneth avant cette date. Il s'agit des garanties suivantes :
+1. 12 000 $ - Garantie fournie à la Banque Royale du Canada à l'appui d'une lettre de garantie de la Banque Royale à Payless lorsque Kenneth a commencé à exploiter la station-service. La garantie a été invoquée par Shell, qui avait acheté Payless, cinq jours après la saisie de la station-service, au mois de février 1997. À ce moment-là, la Banque Royale a donné à Ellie le choix de consentir à une hypothèque ou de vendre le 7465. Ellie a consenti à l'hypothèque.
+2. 10 000 $ - Il s'agissait d'un prêt de la Banque Royale que Kenneth avait obtenu afin de payer les salaires, mais il semble que le prêt ait été consenti après le transfert de la maison. Le prêt était également garanti au moyen d'une hypothèque sur le 7465.
+[7] La prise en compte de ces deux éléments suscite un certain nombre de questions :
+1. L'appelante n'a jamais produit de copies du titre hypothécaire, de façon qu'il soit possible d'en connaître la date.
+2. Ellie signait tout ce qu'on lui demandait de signer, en tentant de conserver sa maison.
+3. La Cour ne croit pas qu'un avocat qui aurait agi au nom d'Ellie ou qui aurait interrogé Ellie au sujet des hypothèques de 12 000 $ et de 10 000 $ aurait laissé Ellie signer les actes hypothécaires eu égard aux circonstances, à moins que les garanties fournies à la Banque ne l'eussent exigé ou n'aient déjà constitué un type de charge.
+4. La considération finale se rapporte à l'hypothèse figurant à l'alinéa 11t) selon laquelle l'hypothèque de la Banque Royale s'élevait à 98 883,51 $ au moment du transfert. Cependant, ni l'un ni l'autre évaluateur n'a effectué de recherche de titre à l'égard du 7465.
+[8] La Cour accepte les divers éléments de preuve soumis par l'appelante au sujet de la garantie de 12 000 $ fournie à la Banque Royale pour le compte de Payless et conclut que la garantie a été rédigée et signée sous la forme d'une charge grevant la maison avant le transfert, soit avant le 14 février 1996. La valeur totale de la charge grevant le 7465 le 14 février 1996 était donc :
+12 000,00 $
++ 98 883,51 $
+110 883,51 $
+[9] La valeur nette que Kenneth a transférée à Ellie le 14 février 1996 était :
+129 500,00 $
+- 110 883,51 $
+12 x 18 616,49 $ = 9 308,25 $
+[10] L'avocat de l'appelante a affirmé que Kenneth avait fait preuve d'une diligence raisonnable en tentant de payer la TPS en question. La Cour conclut que Kenneth n'a pas du tout été diligent alors qu'il aurait dû l'être - au moment où les acomptes provisionnels étaient dus. Il n'a payé qu'un seul acompte lorsqu'il était dû. Il n'a jamais payé un autre acompte et, habituellement, il produisait ses déclarations trimestrielles en retard. L'avocat de l'intimée a allégué que Kenneth finançait l'entreprise à l'aide de la TPS. La Cour conclut que ce n'est pas clair. Payless et Shell exerçaient énormément de contrôle sur l'entreprise au point de vue financier et il n'est pas clair qu'à part les ventes au comptant, Kenneth ait reçu beaucoup d'argent sur lequel il aurait exercé un contrôle. Kenneth devait acheter tous ses stocks de ces sociétés ou de sociétés liées et il n'existe aucun élément de preuve au sujet de la façon dont ces sociétés traitaient les montants qu'il leur devait, si ce n'est qu'à la fin, Shell recouvrait les sommes chaque semaine ou procédait à une inspection chaque semaine. Néanmoins, Kenneth exploitait directement l'entreprise et il était au courant de la situation financière quotidienne. Ce n'est que lorsqu'il est devenu apparent que sa société allait perdre l'entreprise que Kenneth a commencé à s'inquiéter de la TPS en souffrance. Il était alors trop tard pour être « diligent » et la preuve montre clairement qu'il n'y avait aucune chance que l'entreprise puisse payer la TPS qui étaie due. Même alors, Kenneth a produit en retard les déclarations relatives à la TPS.
+[11] L'avocat de l'appelante a invoqué un troisième point qu'il convient d'examiner. Ce point est fondé sur les faits suivants qui ont été établis :
+1. 29 mai 2000 - Le ministre a délivré à Shell Canada Limitée deux avis d' « ordre de paiement » à l'égard des sommes payables à Jones Service Station Ltd. (pièces A-3 et A-4). Un avis se rapportait à la TPS en question et l'autre se rapportait aux retenues à la source.
+2. 7 juin 2000 - La Cour fédérale a délivré au shérif de la Colombie-Britannique un bref de saisie et de vente à l'égard de Jones Service Station Ltd. (pièce R-6).
+3. 2 octobre 2000 - Le shérif a retourné le bref, sur lequel il avait inscrit [traduction] « impossible de trouver des actifs exigibles à l'égard de ce bref » (pièce R-6).
+4. 1er décembre 2000 - Kenneth Jones a fait l'objet d'une cotisation d'un montant de 42 375,39 $ en vertu de la Loi sur la taxe d'accise. (pièce R-7).
+[12] Selon la preuve mise à la disposition de la Cour, l'intimée ne possède aucun document montrant que Shell Canada Limitée ait répondu à l'un ou l'autre ordre de paiement, c'est-à-dire aux pièces A-3 et A-4.
+[13] Kenneth Jones a témoigné que lorsque Shell Canada Limitée a saisi les actifs de Jones Service Station Limited au mois de février 1997, il y avait des stocks d'une valeur de 47 000 $. Shell a contraint Kenneth à s'en aller et a procédé à une vérification des stocks, ceux-ci étant évalués à 25 000 $. Shell n'a pas permis à Kenneth ou à ses représentants de revenir vérifier le montant auquel elle était arrivée. Kenneth s'est ensuite rendu chez un avocat afin d'engager des poursuites contre Shell relativement à cette question. L'avocat a informé Kenneth que les poursuites dureraient plusieurs années et coûteraient fort cher, alors que Kenneth n'avait pas d'argent. L'avocat a conseillé à Kenneth de faire faillite et c'est ce que Kenneth a fait.
+[14] Par conséquent, malgré le certificat du shérif (pièce R-6), l'intimée n'a pas reçu de réponse de Shell Canada Limitée à la suite de la délivrance des ordres de paiement (pièces A-3 et A-4). Selon le témoignage de Kenneth, qui n'a aucunement été contredit, Shell Canada Limitée a saisi les stocks et a accordé à Jones Service Station Limited un crédit de 25 000 $, soit 22 000 $ de moins que le montant auquel était arrivée Jones Service Station Limited. Ce montant de 22 000 $ est suffisant pour payer la TPS initiale demandée par l'intimée et libérerait l'appelante de toute responsabilité à la date de la saisie.
+[15] L'ordre de paiement de la TPS (pièce A-3) a été délivré le 29 mai 2000 à Shell Canada Limitée conformément à l'article 317 de la Loi sur la taxe d'accise, qui est ainsi libellé :
+317. (1) Dans le cas où le ministre sait ou soupçonne qu'une personne donnée est ou sera tenue, dans les douze mois, de faire un paiement à une autre personne - appelée « débiteur fiscal » au présent paragraphe et aux paragraphes (2), (3), (6) et (11) - qui elle-même est redevable d'un montant en vertu de la présente partie, il peut, par avis écrit, exiger de la personne donnée que tout ou partie des sommes par ailleurs payables au débiteur fiscal soient versées, immédiatement si les sommes sont alors payables, sinon, dès qu'elles le deviennent, au receveur général au titre du montant dont le débiteur fiscal est redevable selon la présente partie.
+(2) Sans restreindre la portée générale du paragraphe (1), lorsque le ministre sait ou soupçonne que, dans les 90 jours, selon le cas :
+a) une banque, une caisse de crédit, une compagnie de fiducie ou une personne semblable - appelée « institution » au présent article - prêtera ou avancera une somme au débiteur fiscal qui a une dette envers l'institution et qui a donné à celle-ci une garantie pour cette dette, ou effectuera un paiement au nom d'un tel débiteur ou au titre d'un effet de commerce émis par un tel débiteur;
+b) une personne autre qu'une institution prêtera ou avancera une somme à un débiteur fiscal, ou effectuera un paiement au nom d'un débiteur fiscal, que le ministre sait ou soupçonne :
+(i) être le salarié de cette personne, ou prestataire de biens ou de services à cette personne, ou qu'il l'a été ou le sera dans les 90 jours,
+(ii) lorsque cette personne est une personne morale, avoir un lien de dépendance avec cette personne,
+il peut, par avis écrit, obliger cette institution ou cette personne à verser au receveur général au titre de l'obligation du débiteur fiscal en vertu de la présente partie tout ou partie de la somme qui serait autrement ainsi prêtée, avancée ou payée. La somme ainsi versée est réputée avoir été prêtée, avancée ou payée au débiteur fiscal.
+(3) Malgré les autres dispositions de la présente partie, tout texte législatif fédéral à l'exception de la Loi sur la faillite et l'insolvabilité, tout texte législatif provincial et toute règle de droit, si le ministre sait ou soupçonne qu'une personne est ou deviendra, dans les douze mois, débitrice d'une somme à un débiteur fiscal, ou à un créancier garanti qui, grâce à un droit en garantie en sa faveur, a le droit de recevoir la somme autrement payable au débiteur fiscal, il peut, par avis écrit, obliger la personne à verser au receveur général tout ou partie de cette somme, immédiatement si la somme est alors payable, sinon dès qu'elle le devient, au titre du montant dont le débiteur fiscal est redevable selon la présente partie. Sur réception par la personne de l'avis, la somme qui y est indiquée comme devant être versée devient, malgré tout autre droit en garantie au titre de cette somme, la propriété de Sa Majesté du chef du Canada, jusqu'à concurrence du montant dont le débiteur fiscal est ainsi redevable selon la cotisation du ministre, et doit être versée au receveur général par priorité sur tout autre droit en garantie au titre de cette somme.
+(4) [Abrogé, 2000, ch. 30, art. 95]
+(5) Le récépissé du ministre relatif à des sommes versées, comme l'exige le présent article, constitue une quittance valable et suffisante de l'obligation initiale jusqu'à concurrence du paiement.
+(6) L'obligation, imposée par le ministre aux termes du présent article, d'une personne de verser au receveur général, au titre d'un montant dont un débiteur fiscal est redevable selon la présente partie, des sommes payables par ailleurs par cette personne au débiteur fiscal à titre d'intérêts, de loyer, de rémunération, de dividende, de rente ou autre paiement périodique s'applique à tous les paiements analogues à être effectués par la personne au débiteur fiscal tant que le montant dont celui-ci est redevable n'est pas acquitté. De plus, l'obligation exige que des paiements soient faits au receveur général sur chacun de ces versements, selon le montant que le ministre fixe dans un avis écrit.
+(7) Toute personne qui ne se conforme pas à une exigence du paragraphe (1), (3) ou (6) est redevable à Sa Majesté du chef du Canada d'un montant égal à celui qu'elle était tenue de verser au receveur général en application d'un de ces paragraphes.
+(8) Toute institution ou personne qui ne se conforme pas à une exigence du paragraphe (2) est redevable à Sa Majesté du chef du Canada, à l'égard des sommes à prêter, à avancer ou à payer, d'un montant égal au moins élevé des montants suivants :
+a) le total des sommes ainsi prêtées, avancées ou payées;
+b) le montant qu'elle était tenue de verser au receveur général en application de ce paragraphe.
+(9) Le ministre peut établir une cotisation pour un montant qu'une personne doit payer au receveur général en vertu du présent article. Dès l'envoi de l'avis de cotisation, les articles 296 à 311 s'appliquent, compte tenu des adaptations de circonstance.
+(10) La cotisation ne peut être établie plus de quatre ans suivant la réception par la personne de l'avis exigeant le paiement du montant.
+(11) La personne qui, conformément à un avis que le ministre a délivré aux termes du présent article ou à une cotisation établie en application du paragraphe (9), paie au receveur général un montant qui aurait par ailleurs été payable à un débiteur fiscal, ou pour son compte, est réputée, à toutes fins utiles, payer le montant au débiteur fiscal ou pour son compte.
+(12) Les dispositions de la présente partie prévoyant qu'une personne doit payer au receveur général, en exécution d'une obligation en ce sens imposée par le ministre, un montant qui serait par ailleurs prêté, avancé ou payé soit à une personne redevable d'un paiement aux termes de la présente partie, soit à son créancier garanti, s'appliquent à Sa Majesté du chef d'une province.
+[16] Conformément au paragraphe 317(3), sur réception de la pièce A-3 par Shell Canada Limitée, le montant devant être payé au receveur général devient la propriété de Sa Majesté et doit être versé au receveur général. Le paragraphe 317(7) impose l'obligation à Shell Canada Limitée si elle ne se conforme pas à l'ordre de paiement. Le ministre peut alors établir une cotisation à l'égard de Shell Canada Limitée dans les quatre ans qui suivent la réception de la pièce A-3. Il n'existe aucun élément de preuve montrant que Shell Canada Limitée ait fait l'objet d'une cotisation jusqu'à maintenant. C'est plutôt l'appelante qui en a fait l'objet. Il semble que le ministre ait le droit de faire ce choix.
+[17] Dans son argumentation, l'avocat de l'appelante a également invoqué les dispositions de la Court Order Enforcement Act de la Colombie-Britannique, [RSBC 1996] chapitre 78, concernant le transfert du montant de 9 308,22 $ de Kenneth à Ellie, le 14 février 1996. Les articles 71 à 71.2 de cette loi sont ainsi libellés :
+[traduction]
+Bien meubles du débiteur
+71(1) Sous réserve des paragraphes (2) et (4) du présent article et de l'article 71.2, les biens meubles suivants sont exclus, au choix du débiteur, d'une saisie ou d'une vente forcée effectuée en droit ou en équité :
+a) les vêtements nécessaires du débiteur et des personnes à sa charge;
+b) le mobilier et les appareils dont la valeur n'excède pas un montant prescrit;
+c) un véhicule à moteur dont la valeur n'excède pas un montant prescrit;
+d) les outils et autres biens meubles du débiteur que le débiteur utilise afin de tirer un revenu de sa profession dont la valeur n'excède pas un montant prescrit;
+e) les appareils médicaux et dentaires dont le débiteur et les personnes à sa charge ont besoin;
+f) tout bien meuble prescrit par règlement dont la valeur n'excède pas un montant prescrit.
+(2) Aucune disposition du présent article n'exclut un bien d'une saisie effectuée en paiement d'une dette contractée afin d'acquérir un bien par ailleurs exclu conformément au paragraphe (1).
+(3) Aucune disposition du présent article ne permet à un commerçant de demander l'exclusion de biens et de marchandises faisant partie de son fonds de commerce.
+(4) Aucune disposition du présent article ne s'applique à une personne morale débitrice.
+Résidence principale du débiteur
+71.1(1) Sous réserve de l'article 71.2, la résidence principale du débiteur est exclue d'une saisie ou d'une vente forcée effectuée en droit ou en équité si la valeur nette de la résidence n'excède pas un montant prescrit.
+(2) Aucune disposition du présent article ne s'applique :
+a) à une personne morale débitrice;
+b) à un débiteur qui est partie à une instance concernant une hypothèque.
+Bien excédant la valeur exclue
+71.2(1) Le bien visé aux paragraphes 71(1) ou 71.1(1) dont la valeur excède le montant prescrit peut être saisi et vendu en vertu de la présente loi.
+(2) À moins d'une disposition contraire de la loi ou d'une entente entre toutes les parties intéressées, le shérif ou autre officier distribue le produit de la vente d'un bien visé au paragraphe (1) :
+a) en versant d'abord au créancier garanti le montant dû par le débiteur si les conditions suivantes sont remplies au moment de la saisie :
+(i) un état de financement est enregistré en vertu de la Personal Property Security Act;
+(ii) un droit de gage est enregistré en vertu de la Land Title Act;
+b) en versant ensuite au débiteur un montant n'excédant pas le montant prescrit.
+(3) La somme reçue par le débiteur en vertu de l'alinéa (2)b) ne peut pas faire l'objet d'une saisie-arrêt.
+(4) Aucune disposition du présent article ne modifie le rang d'une ordonnance alimentaire rendue en vertu de la Family Maintenance Enforcement Act.
+(5) Un paiement effectué conformément au paragraphe (2) ne modifie par le rang de la créance d'une personne visée au paragraphe (2).
+La disposition applicable du Court Order Enforcement Exemption Regulation (Règ. 28/98 de la Colombie-Britannique) est l'alinéa 3b), selon lequel le montant de la valeur nette est de 9 000 $. Toutefois, la question de l'exécution du présent jugement et de sa réalisation dépend du paragraphe 321(7) de la Loi sur la taxe d'accise et de son application en Colombie-Britannique, compte tenu des décisions rendues par la Cour d'appel fédérale dans les affaires Marcoux c. Canada [2001] A.C.F. no 493 (C.A.F.) et Millette c. Canada, [2001] A.C.F. no 492 (C.A.F.).
+[18] Dans ces conditions, l'affaire est renvoyée au ministre pour nouvel examen et nouvelle cotisation à établir à l'égard d'Ellie Jones, le montant de la cotisation devant être de 9 308,25 $.
+[19] L'appelante aura droit à ses frais et dépens taxables à l'égard de la présente instance. Étant donné que l'audience a duré de 9 h 30 jusqu'à environ 19 h 07, les frais d'audience de l'appelante doivent être taxés comme si l'audience avait duré une journée et demie.
+Signé à Saskatoon (Saskatchewan), ce 16e jour d'avril 2004.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI251
+No DU DOSSIER DE LA COUR :
+2003-1494(GST)I
+INTITULÉ :
+Ellie Jones c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Nanaïmo (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 24 mars 2004
+MOTIFS DU JUGEMENT :
+M. le juge D.W. Beaubier
+DATE DU JUGEMENT :
+Le 16 avril 2004
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Timothy J. Huntsman
+Avocat de l'intimée :
+Me Stacey Michael Repas
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Timothy J. Huntsman
+Cabinet :
+Hunter Garrett
+Nanaïmo (Colombie-Britannique)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

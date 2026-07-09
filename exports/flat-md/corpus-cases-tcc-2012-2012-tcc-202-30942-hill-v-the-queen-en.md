@@ -1,0 +1,220 @@
+---
+title: "Hill v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30942/index.do"
+last_modified: "2012-06-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 202"
+citation2: ""
+neutral_citation: "2012 TCC 202"
+decision_date: "2012-06-07"
+language: "en"
+item_id: "30942"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7438
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:22:01.416000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aab530a017dcb3af6fcb93adc48907d46204c815e8f1090a780c32e0c7fa0c3d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hill v. The Queen
+
+- Citation: 2012 TCC 202
+- Decision date: 2012-06-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7438, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hill v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-06-07
+Neutral citation
+2012 TCC 202
+File numbers
+2011-3973(IT)APP
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-3973(IT)APP
+BETWEEN:
+SEDWICK HILL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application for extension of time heard on March 21, 2012,
+at Toronto, Ontario
+Before: The Honourable Justice B. Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tony Cheung
+____________________________________________________________________
+ORDER
+The application for an order extending the time within which a notice of appeal to the reassessments made under the Income Tax Act for his taxation years 2000, 2001, 2003, 2004, 2005 and 2006 is dismissed.
+Signed at Ottawa, Canada, this 7th day of June 2012.
+“B. Paris”
+Paris J.
+Citation: 2012TCC202
+Date: 20120607
+Docket: 2011-3973(IT)APP
+BETWEEN:
+SEDWICK HILL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Paris J.
+[1] Mr. Hill is applying under section 167 of the Income Tax Act (“ITA”) for an order extending the time limit for filing a notice of appeal to reassessments of his 2000, 2001, 2003, 2004, 2005 and 2006 taxation years. At the hearing, Mr. Hill also referred to a reassessment of his 1999 taxation year, but that year was not before the Court.
+2005 and 2006 Taxation Years
+[2] Mr. Hill filed tax returns for his 2005 and 2006 taxation years on May 15, 2009, and they were assessed by the Minister on October 5, 2010. Mr. Hill filed a notice of objection to those assessments on November 20, 2010, but the Minister has not responded to the objection. While the Respondent does not oppose Mr. Hill’s application to extend the time for filing a notice of appeal as it relates to the 2005 and 2006 taxation years, it would not be appropriate to grant an order, in this situation because the time limit for filing a notice of appeal has not yet expired. Mr. Hill presently has the right under subsection 169(1) of the ITA to appeal to this Court and no extension of time to file an appeal in respect of the 2005 and 2006 taxation years is required. He should now file a notice of appeal along with any required filing fee with the Court.
+2000, 2001, 2003 and 2004 Taxation Years
+[3] Mr. Hill’s 2000 and 2001 taxation years were initially assessed on January 27, 2003. These assessments were arbitrary assessments made under subsection 152(7) of the ITA because Mr. Hill had not filed returns for those years. He subsequently filed returns for 2000 and 2001 on March 1, 2005, and March 7, 2005, respectively, and those years were reassessed on October 22, 2007.
+[4] The evidence does not show when Mr. Hill filed his 2003 and 2004 tax returns but those years were initially assessed by the Minister on April 14, 2005 and then reassessed on October 27, 2007.
+[5] The October 2007 reassessments for the 2000, 2001, 2003 and 2004 taxation years increased Mr. Hill’s income in total by approximately $1 million. The reassessments also included penalties and interest. Mr. Hill objected to those reassessments on November 2, 2007.
+[6] Some time around December 29, 2008, Mr. Hill retained Mr. Gianni De Micco to represent him on the objections. Mr. De Micco made submissions to the CRA appeals officer, Mr. Ron Tammer, between January and March 2009.
+[7] On March 4, 2009, Mr. De Micco sent the following email to Mr. Hill:
+Hi Sedwick,
+I have great news for you. Mr. Ron Tammer finally caved in and granted the bulk of most of the changes we requested in our representation letter of February 2009, our latest one.
+We had asked for a reduction of about $ 254,984 (which includes lawyer loan, refinancing Maple, losses real‑estate, Carl Lewis).
+He will send to our office a revised settlement offer with these new changes. We will send you a copy in PDF file once we receive it.
+He has asked that it be signed by Friday of this week for this new offer to be accepted.
+Mr. Ron Tammer also said that the tax years 2005 and 2006 were arbitrarily assessed and he is willing to accept your originals on this, if you give them to him by April 30, 2008, he will treat it in objections and annul arbitrary amounts. It is to your advantage to file them.
+I said that I would ask for your intentions on this. Do you want us to do your 2005 and 2006 returns? If yes, send us the documentation.
+Mr. Hill responded:
+Thats great to hear, Yes I want to file the 2005 and 2006. I will put that info together soon for you. Thanks.
+Sedwick Hill
+[8] The offer as presented by Mr. Tammer reduced the reassessments by approximately $400,000 in total. As a condition of the settlement, the CRA required Mr. Hill to waive his right to object to or appeal in respect of the issues dealt with in the settlement. That waiver read as follows:
+WAIVER OF RIGHT OF OBEJCTION OR APPEAL
+Subsection 165(1.2)
+Limitation on objections. Notwithstanding subsections (1) and (1.1), no objection may be made by taxpayer to an assessment made under subsection 152(4.2), 169(3) or 220(3.1) nor, for greater certainty, in respect of an issue for which the right of objection has been waived in writing by the taxpayer.
+Subsection 169(2.2)
+Waived issues. Notwithstanding subsection (1) and (2), for greater certainty a taxpayer may not appeal to the Tax Court of Canada to have an assessment under this Part vacated or varied in respect of an issue for which the right of objection or appeal has been waived in writing by the taxpayer.
+Taxation Years – 1999, 2000, 2001, 2003, and 2004
+I waive any right of objection or appeal in respect of:
+• Unreported Income
+• Disallowed Expenses
+• Denied Non‑Capital Loss
+if Canada Revenue Agency reassesses as follows
+Gross Business Income
+1999
+2000
+2001
+2003
+2005
+Appeals Proposed Changes
+-3,700.00
+-19,492.00
+-59,698.63
+-67,785.63
+-258,841.34
+I have read the above subsections of the Income Tax Act and understand that I will be precluded from filing an objection or an appeal with respect to the above noted taxation years.
+It is agreed and understood that this agreement is binding on my heirs, executors, trustees, administrators, and any other person who might become liable for the taxes, interest and penalties which will ensue from this agreement.
+__________________________
+Signature of taxpayer
+Sedwick Hill, SIN XXXXXX XXX
+__________________________
+Date
+[9] At the hearing, Mr. Hill testified that he felt extremely pressured because of the short time period he was given by Mr. Tammer to accept the settlement offer. He said that he was told by Mr. Tammer that he could take it or leave it but that if he did not accept it, he would be required to pay tax on the additional $1 million of income that had been reassessed. Mr. Hill testified that Mr. De Micco told him as well that if he didn’t sign the settlement that they would lose the offer. Mr. De Micco apparently also told Mr. Hill that they could fight over the remaining $600,000 covered by the reassessments “later”.
+[10] Mr. Hill said that he signed the settlement offer and wrote in “signed under duress” or words to that effect on the form and returned it to Mr. De Micco. Mr. De Micco responded to Mr. Hill by email dated March 11, 2009, saying:
+Hi Sedwick,
+We received your fax with signed signature. Of Course, we cannot use the signature under duress otherwise, there is no deal. We sent signature without duress. Document was faxed to Mr. Ron Tammer today and we obtained confirmation that fax was sent.
+We will now move on to your next issue of filing 2005 and 2006.
+Also, we will need to file 2008 to claim huge ABIL.
+YSIS needs to file corporate returns too.
+Sedwick, we would also like to bring your account up to date given that one invoice is close to 60 days outstanding. Kindly mail to us a check of $ 1,504.13 made payable to “Urgent Solutions Inc.”. You can date the check for the 15th of March 2009 as discussed previously.
+Best regards.
+Gianni De Micco, B. Comm.
+[11] Mr. Hill responded to this email[1] as follows:
+Thanks Gianni, will do.
+Sedwick
+[12] The Respondent challenged Mr. Hill’s testimony that he had written anything on the settlement offer to indicate that it was signed under duress. However, in light of the email from Mr. De Micco to Mr. Hill, which appears genuine, and which refers to Mr. Hill’s “signature under distress”, I accept that Mr. Hill did qualify his signature of the offer as he said, and that the additional words were somehow deleted by Mr. De Micco before the settlement document was returned to Mr. Tammer.
+[13] Mr. Hill was reassessed in accordance with the settlement agreement. Those reassessments were dated April 9, 2009.
+[14] Mr. Hill’s testimony about what took place next was vague. While he said that he has raised the issue of the waivers been signed under duress with the CRA continuously since the issuance of those reassessments, he was unable to provide any particulars of his dealings with the CRA prior to June 2010 when he wrote to the Minister. He had no copies of any correspondence with the CRA prior to the letter to the Minister, nor did he have a record of any communication with Mr. De Micco after April 2009.
+[15] In October 2009, Mr. Hill did send a letter to the Registry of this Court. It was addressed “To: CRA” and set out that he wanted “to object to the arbitrary imposed tax by CRA auditors on [his] income.” The letter did not refer to the settlement agreement dated March 9, 2009 or to the reassessments dated April 9, 2009, nor was there any reference to entering into a settlement under duress.
+[16] The Registry advised Mr. Hill on November 6, 2009 that his Notice of Appeal failed to set out the date of the reassessment, confirmation or decision to which he was objecting. The Registry also advised Mr. Hill of the 90 day time limit under the ITA for filing an appeal, and stated that, if he was outside the 90 day period, he could apply for a time extension. He was provided with the forms for preparing an application as well as appeal and was asked to respond within 15 days. The Registry wrote him again in February 2010 and June 2010 advising that it was still awaiting his documents, and that if nothing was received within 15 days, no further steps would be taken by the Registry.
+[17] It does not appear that anything further was received by the Registry from Mr. Hill until the present application was filed on December 16, 2011.
+[18] However, Mr. Hill testified that in February 2010 he had a friend mail in a Notice of Appeal to the Tax Court that he had prepared. He also provided an affidavit sworn by Sandra Tulshi, stating that she mailed some documents to the Tax Court on behalf of Mr. Hill. Ms. Tulshi was not called as a witness at the hearing nor did Mr Hill have a copy of what was allegedly sent to the Court.
+[19] Mr. Hill also said he called the Tax Court, possibly in June 2010, and was advised that the Registry had not received anything from him. In the present application, Mr. Hill wrote that he did not follow up on the matter because he was negotiating with various parts of CRA in hopes of a resolution without the courts.
+[20] Mr. Hill wrote to the Minister of National Revenue in June 10, 2010 raising the duress issue and seeking the Minister’s intervention. The Minister responded on August 16, 2010 and stated that Mr. Hill had waived his right to appeal the reassessments and that the matter would not be revisited.
+[21] In August 2010, Mr. Hill filed amended tax returns with CRA for his 2001, 2003 and 2004 taxation years requesting adjustments to items unrelated to the issues dealt with in the March 2009 settlement agreement. According to an affidavit sworn by an officer of the CRA, the amended returns were considered to be an application under subsection 152(4.2) of the ITA because the normal reassessment period for those returns had expired. Subsection 152(4.2) gives the Minister the power to reassess a taxation year for which the ordinary reassessment period has expired, where the taxpayer requests an adjustment. Objection and appeal rights for such reassessments are abrogated by subsections 165(1.2) and 169(2.2) of the ITA. Subsection 152(4.2) reads as follows:
+(4.2) Reassessment with taxpayer's consent -- Notwithstanding subsections (4), (4.1) and (5), for the purpose of determining, at any time after the end of the normal reassessment period of a taxpayer who is an individual (other than a trust) or a testamentary trust in respect of a taxation year, the amount of any refund to which the taxpayer is entitled at that time for the year, or a reduction of an amount payable under this Part by the taxpayer for the year, the Minister may, if the taxpayer makes an application for that determination on or before the day that is ten calendar years after the end of that taxation year,
+(a) reassess tax, interest or penalties payable under this Part by the taxpayer in respect of that year; and
+(b) redetermine the amount, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 122.7(2) or (3), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year or deemed by subsection 122.61(1) to be an overpayment on account of the taxpayer's liability under this Part for the year.
+[22] The Minister allowed certain of the adjustments requested by Mr. Hill and issued notices of reassessment for those years pursuant to subsection 152(4.2) on October 5, 2010.
+[23] On November 30, 2010, Mr. Hill requested further adjustments to the 2001, 2003 and 2004 taxation years relating to the items that were covered by the settlement agreement. The Minister treated the request as a request for an administrative review of the October 5, 2010 decision to reassess those years and refused the adjustments on August 8, 2011.
+[24] Mr. Hill again wrote to the CRA on September 14, 2011, apparently repeating his request of November 30, 2010, and the CRA, by letter dated October 27, 2011 refused the request.
+[25] Mr. Hill filed the present application with the Court on December 16, 2011.
+Issue
+[26] The issue to be decided in this application is whether the March 9, 2009 waiver signed by Mr. Hill precludes him from appealing the issues set out in the waiver. Mr. Hill maintains that he signed the waiver under duress and that he should be able to challenge all of the amounts reassessed for those years.
+Analysis
+[27] The law is clear that a party may repudiate an otherwise valid contract on the basis that the party’s consent to the contract was obtained by duress. According to G.H.L. Fridman in The Law of Contract in Canada (5th ed.) 2006 at page 308:
+The essential idea behind the plea of duress is that improper, wrongful pressure has been brought to bear by one person upon another so as to make the latter unwillingly do something against his interest.
+[28] I must decide in this case is whether the CRA appeals officer exerted improper or undue pressure on Mr. Hill to sign the waiver. This is a question of fact.
+[29] According to the evidence, Mr. Hill was told about the settlement offer in an email from Mr. De Micco on Wednesday, March 4, 2009. In that email, Mr. De Micco wrote that the CRA appeals officer “asked that [the settlement offer] be signed by Friday of this week for this new offer to be accepted.” Mr. Hill said that he was told that if he didn’t accept the offer, the file would be closed with no adjustment and that he would owe tax on $1 million of income that had been reassessed.
+[30] In my view, the actions of the CRA appeals officer as described by Mr. Hill do not amount to improper or illegitimate pressure. It appears to me that the terms of the settlement offer would not have been a complete surprise to Mr. Hill. According to Mr. De Micco’s March 4, 2009 email to Mr. Hill, the proposed settlement largely reflected what Mr. De Micco had proposed on behalf of Mr. Hill. The relevant portion of Mr. De Micco’s email read as follows:
+I have great news for your. Mr. Ron Tammer [the CRA auditor] finally caved in and granted the bulk of most of the changes we requested in our representation letter of February 2009, our latest one.
+(my emphasis)
+[31] In this light, as referred to in Mr. De Micco’s emails, the short deadline for responding to the offer does not appear unreasonable. Furthermore, the deadline was apparently somewhat flexible, since Mr. Hill did not sign and return the waiver to Mr. De Micco until the Wednesday of the following week, which was March 11, 2009. I also note that Mr. Hill did not attempt to have the deadline extended.
+[32] In all of these circumstances I am not persuaded that the waiver was obtained as the result of any improper or illegitimate pressure exerted by the CRA auditor on Mr. Hill. The imposition of a short deadline for accepting a settlement offer and a “take it or leave it” approach does not amount to the kind of pressure of threat that would enable Mr. Hill to treat the agreement as void.
+[33] This result is consistent with the jurisprudence in cases where taxpayers have alleged that waivers they gave to CRA were given under duress.
+[34] In Smerchanski v. Minister of National Revenue, [1977] 2 S.C.R. 23, the Supreme Court of Canada held that a waiver agreement obtained from a taxpayer under a threat of prosecution for tax evasion was enforceable, since the tax department had good grounds for proceeding with a prosecution, and this was conceded by the taxpayer. Therefore, the threat of prosecution in that case was held to have been not improper or illegitimate.
+[35] In Anthony v. The Queen, 2007 TCC 606, this Court held that pressure on a taxpayer to sign a waiver by an auditor who wanted to “close the file” was not sufficient evidence of duress.
+[36] Furthermore, the statement by the appeals officer that Mr. Hill would have to pay all of the amounts reassessed if he did not accept the settlement does not appear to me to be a “threat”. It was simply a statement of legal consequences that would have flowed from the reassessments if there was no settlement. It should also be noted that if the offer was not accepted, Mr. Hill would have still had his right to appeal the reassessments to the Tax Court.
+[37] Even if I had concluded that the waiver here had been obtained by means of duress, I agree with the Respondent’s counsel that Mr. Hill, by his conduct subsequent to the signing of the waiver, ratified the agreement. Since a contract effected by duress is voidable, rather than void from the start[2], there will still be an enforceable agreement if the agreement is ratified after the alleged duress has ended[3].
+[38] Here, Mr. Hill was not able to show that he took any immediate steps to advise Mr. De Micco or the CRA auditor that he was not in agreement with the settlement after Mr. De Micco sent in the signed agreement. In fact, Mr. Hill, in his response to Mr. De Micco’s email advising that the agreement had been sent to the CRA “without duress” did not even mention the issue of duress nor did he indicate any disagreement with what Mr. De Micco had done.
+[39] In this case there was no evidence of any direction by Mr. Hill to Mr. De Micco to withdraw the acceptance. I also note that the notice of appeal Mr. Hill sent to the Tax Court in October 2009 did not refer to the waiver or duress issue at all. Therefore, Mr. Hill has not shown that he took steps as soon as possible after the alleged duress ended to have the settlement agreement and waiver voided.
+[40] For these reasons, I find that it is not open to Mr. Hill to now treat the agreement and waiver as void. Since he is precluded by subsection 169(2.2) of the ITA from appealing the resulting reassessments of his 2000, 2001, 2003 and 2004 taxation years, this application to extend time to appeal from those reassessments must be dismissed.
+[41] For the reasons I have already given, the application in respect of the 2005 and 2006 taxation years will also be dismissed, and Mr. Hill may file a notice of appeal to this Court from the reassessments for those years, along with the required filing fee.
+Signed at Ottawa, Canada, this 7th day of June 2012.
+“B. Paris”
+Paris J.
+CITATION: 2012TCC202
+COURT FILE NO.: 2011-3973(IT)APP
+STYLE OF CAUSE: SEDWICK HILL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 21, 2012
+REASONS FOR ORDER BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: June 7, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tony Cheung
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Although the time shown on Mr. Hill’s March 9, 2009 email to Mr. De Micco is earlier Mr. De Micco’s email to Mr. Hill on the same day, it is apparent that Mr. Hill was responding to Mr. De Micco’s email. A review of each of the earlier emails in Exhibit A‑2 show that the time of Mr. Hill’s email responses to Mr. De Micco’s emails is always earlier than that of the email to which he is responding. I therefore infer that Mr. Hill’s email system or computer clock did not, for some reason, show the correct time.
+[2] See Byle v. Byle, [1990] 65 D.L.R. (4th) 641 at 649 (B.C.C.A.)
+[3] Chitty on Contracts, 30th ed. (2008) at pp. 621-622.

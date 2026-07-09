@@ -1,0 +1,123 @@
+Title: Blades v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27973/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-530-27973-blades-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-09-06
+
+# Blades v. The Queen
+
+- Citation: 2007 TCC 530
+- Decision date: 2007-09-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1821, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blades v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-06
+Neutral citation
+2007 TCC 530
+File numbers
+2004-2593(GST)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-2593(GST)I
+BETWEEN:
+LOVITTE J. BLADES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on August 27, 2007, at Yarmouth, Nova Scotia.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Deanna M. Frappier
+____________________________________________________________________
+JUDGMENT
+The appeal from the Notice of Assessment No. 01CB-888266541-02 under the Excise Tax Act of the Appellant as a director of Southernmost Points Enterprises Limited for unremitted HST is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 6th day of September 2007.
+“Wyman W. Webb”
+Webb J.
+Citation: 2007TCC530
+Date: 20070906
+Docket: 2004-2593(GST)I
+BETWEEN:
+LOVITTE J. BLADES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in this appeal is whether the Appellant is liable, as a director of Southernmost Points Enterprises Limited (“Company”), for the unremitted HST of the Company.
+[2] The Company was carrying on a restaurant business in or near Clark’s Harbour, Nova Scotia. The Appellant became involved with the Company at the request of the owner of the Company who lived in New Jersey and who asked him to help with the Company after the woman who was going to look after the Company left the country for immigration reasons. The Appellant indicated that this was shortly after the Company commenced operations although he could not recall the exact year. In the Reply it is stated that the first year for which there is any unremitted HST was 1997. The Appellant acknowledged that it was probably in 1997 that he became involved with the Company. Therefore I find that the Appellant became involved in 1997.
+[3] The Appellant indicated that he did not recall becoming a director of the Company. However, he wrote a letter dated January 19, 2004 to the Canada Revenue Agency (“CRA”) in which he stated that “as of October 1st, 2001, my wife and I resigned as directors of Southernmost Point Enterprises Ltd. through our lawyer, Donald S. Miller, Port Saxon, Shelburne County, N. S.”. Therefore it seems clear that the Appellant knew that he was a director. As well one of the assumptions that was made by the Respondent was that the Appellant was a director of the Company at all relevant times. In Hickman Motors Limited v. Her Majesty The Queen, 1997 CarswellNat 3046, (sub nom. Hickman Motors Ltd. v. Canada) 148 D.L.R. (4th) 1, (sub nom. Hickman Motors Ltd. v. Minister of National Revenue) 213 N.R. 81, [1997] 2 S.C.R. 336, (sub nom. Hickman Motors Ltd. v. Minister of National Revenue) 131 F.T.R. 317 (note), [1998] 1 C.T.C. 213, 97 D.T.C. 5363, Justice L'Heureux-Dubé of the Supreme Court of Canada made the following comments in relation to the assumptions made by the Minister:
+92 … The Minister, in making assessments, proceeds on assumptions (Bayridge Estates Ltd. v. Minister of National Revenue (1959), 59 D.T.C. 1098 (Can. Ex. Ct.), at p. 1101) and the initial onus is on the taxpayer to “demolish” the Minister's assumptions in the assessment (Johnston v. Minister of National Revenue, [1948] S.C.R. 486 (S.C.C.); Kennedy v. Minister of National Revenue (1973), 73 D.T.C. 5359 (Fed. C.A.), at p. 5361). The initial burden is only to “demolish” the exact assumptions made by the Minister but no more: First Fund Genesis Corp. v. R. (1990), 90 D.T.C. 6337 (Fed. T.D.), at p. 6340.
+93 This initial onus of “demolishing” the Minister's exact assumptions is met where the appellant makes out at least a prima facie case: Kamin v. Minister of National Revenue (1992), 93 D.T.C. 62 (T.C.C.); Goodwin v. Minister of National Revenue (1982), 82 D.T.C. 1679 (T.R.B.).
+Since there is no other evidence in relation to whether the Appellant was a director, I find that the Appellant has failed to “demolish” this assumption and therefore I find that he was a director of the Company at the relevant times for this appeal.
+[4] The Company carried on the restaurant business until the business was closed in 2001. The Company filed for bankruptcy on February 26, 2002.
+[5] The unremitted HST related to the years ending December 31, 1997, December 31, 1998, December 31, 1999, and December 31, 2000 and for each month during the period from January 1, 2001 to August 31, 2001. There is a table in the Reply which sets out the amounts in issue for these periods. Presumably the Company switched from an annual reporting period to a monthly reporting period commencing in January 2001.
+[6] It is also noted in the Reply, and which is not disputed by the Appellant, that:
+10 e) the Minister requested the Appellant to file the HST returns for the periods December 31, 1997 and December 31, 1998 in March 1999 and July 1999, respectively.
+f) The GST/HST returns for the periods ending December 31, 1997 and December 31, 1998 were received in February of 2001;
+[7] Therefore the returns for these two years were not received until some time after they were due. The net tax owing for 1997 is $16,700.06. The net tax owing for 1998 is $22,326.62. The total amount of the net tax owing for all periods (including the 1997 and 1998 years) is $58,298.41. Therefore approximately 67% of the unremitted tax relates to these two years for which the returns were not even filed until several months had passed from the date that they were requested, which already was several months after the returns were due. As a result it seems obvious that no one was taking any steps to ensure that the HST was being remitted.
+[8] The Appellant indicated that a bookkeeper was hired to look after this and he assumed that the bookkeeper was dealing with the HST that was to be remitted. It certainly would have been obvious after he received the requests to file the HST returns in 1999 that no one was looking after this matter.
+[9] The main argument for the Appellant was that the bank would not permit the payment of the HST amounts. There was no indication of any time when the Appellant attempted to make a payment and the bank refused. The Appellant indicated that in the spring of 2001 he had a meeting with the manager of the bank for the Company and the bank manager indicated to him that the bank would no longer honour any cheques drawn on the Company’s account. Notwithstanding this information the Appellant still chose to continue to operate the business in the summer of 2001 in the hopes that the business would turn around and that all the creditors could be paid.
+[10] The liability of directors is set out in section 323 of the Excise Tax Act (“Act”). Subsections (1) and (3) of this Act for the periods under appeal read as follows:
+(1) Where a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3), the directors of the corporation at the time the corporation was required to remit the amount are jointly and severally liable, together with the corporation, to pay that amount and any interest thereon or penalties relating thereto.
+...
+(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[11] The Federal Court of Appeal in Worrell v. R., 2000 CarswellNat 2344, [2000] G.S.T.C. 91, stated:
+68. In my opinion, it is essential to keep in mind the relevant question in this appeal: did the directors exercise due diligence to prevent the company’s failure to remit? This is not necessarily the same as asking whether it was reasonable from a business point of view for the directors to continue to operate the business. In order to avail themselves of the defence provided by subsection 227.1(3) directors must normally have taken positive steps which, if successful, could have prevented the company’s failure to remit from occurring. The question then is whether what the directors did to prevent the failure meets the standard of the care, diligence and skill that would have been exercised by a reasonably prudent person in comparable circumstances.
+69. It will normally not be sufficient for the directors simply to have carried on the business, knowing that a failure to remit was likely but hoping that the company's fortunes would revive with an upturn in the economy or in their market position. In such circumstances directors will generally be held to have assumed the risk that the company will subsequently be able to make its remittances. Taxpayers are not required involuntarily to underwrite this risk, no matter how reasonable it may have been from a business perspective for the directors to have continued the business without doing anything to prevent future failures to remit.
+70. This point was recently made in Ruffo c. R. (1997), [1998] 2 C.T.C. 2203 (T.C.C.), affirmed by this Court on April 13, 2000 (A-429-97), where Lamarre-Proulx J.T.C.C. stated at paragraph [20]:
+I am of the opinion that the case law of the Court is consistent on the diligence that the director of a corporation must show to avoid the liability prescribed in subsection 227.1(3) of the Act. It is the diligence that is concerned with preventing the failure that can, in many instances, differ from the diligence that the director must exercise toward the corporation.
+71. She went on to cite with approval the following statements by Rip J.T.C.C. in Merson v. Minister of National Revenue (1998), 89 DTC 22 (T.C.C.), where he said (at page 28):
+The prudence required by subsection 227.1(3) in the exercise of care diligence and skill is different from that required by a director performing his duties, under corporate law, notwithstanding that subsection 227.1(3) and subsection 122(1)(b) of the Canadian Business Corporations Act, for example, both use identical words. The exercise of care, diligence and skill by the director contemplated by subsection 227.1(3) is not founded on the director's obligations to the corporation; it is based on one of the corporation's obligations under the Act and the failure of the corporation to fulfil such obligation. A director who manages a business is expected to take risks to increase the profitability of the business and the duties of care, diligence and skill are measured by this expectation. The degree of prudence required by subsection 227.1(3) leaves no room for risk.
+72. I do not understand Rip J.T.C.C.'s statement that the "degree of prudence required by subsection 227.1(3) leaves no room for risk" to mean that section 227.1 imposes strict liability on directors whose company ultimately proves to be unable to make good defaults in its remittances. Such a view would clearly be contrary to subsection 227.1(3), which only becomes relevant when Revenue Canada is unable to recover the money that the company ought to have remitted.
+73 Rather, I take him to have meant that, if directors decide to continue the business in the expectation that the company will turn around and will be able to make good its remittance defaults after they have occurred, if the company nonetheless fails without paying its tax debts, it is no defence for the directors to say that the risk that they took would have been taken by a reasonable person. The subsection 227.1(3) defence only applies if it can be demonstrated that the directors exercised the care, diligence and skill that a reasonably prudent business person in comparable circumstances would have exercised to prevent a future default.
+(emphasis added)
+[12] In Worrell the Federal Court of Appeal held that the fact that the bank had taken control of the finances of the company did not exempt the directors from their potential liability for unremitted source deductions and unremitted GST but that this could be a factor in determining whether the directors met the requirements of the due diligence defence. In discussing this due diligence defence in relation to the control by the bank of the finances of a company the Federal Court of Appeal made the following comments:
+77 Given the limitations placed upon them by the bank's de facto control of the company's finances, I am satisfied that, on the facts of this case, the directors exercised the degree of care, diligence and skill to prevent failures to remit that would have been shown by a reasonably prudent person in comparable circumstances. That Ms. McKinnon continued to prepare remittance cheques, admittedly without a realistic hope that the bank would honour them all, also indicates that the directors were not unmindful of the company's debt to Revenue Canada.
+78 Much more important, in my view, were Mr. Humphreys' continued efforts to find a new investor, given his belief that the company could then quickly be turned around. He told the directors that he was confident that a new investor could be found. Indeed, he identified potential investors within two weeks of being hired, spoke with twelve people who expressed an interest in investing in Abel and produced one who was willing to invest, but who proved unacceptable to the bank for reasons that are not disclosed.
+79 As long as these efforts were being made in good faith by a person with a successful track record in rescuing companies in the construction industry, the directors of Abel could reasonably say that, if an investor were found and approved by the bank, the company would obtain bonding and be in a position to bid on lucrative contracts, which might well have persuaded the bank to increase its line of credit again or, at least, to honour Abel's next remittance cheque.
+[13] In this case, unlike in Worrell, there was no evidence of the Appellant taking any further actions to prevent the failure to remit the HST other than to continue to operate the business. There was no evidence of any attempt by the Appellant to locate any investors or to take any steps to prevent the Company from continuing to fail to remit HST after the bank had indicated that they would not honour any cheques.
+[14] In this case there is very little evidence of the steps taken by the director to ensure that the HST would be remitted. In fact the HST returns for 1997 and 1998 were not filed until February of 2001. The unremitted HST from these returns represented approximately two-thirds of the total amount of unremitted HST for the entire periods. The Appellant testified that the only time that the Company had made any money was in the early years, either the first or second year, but it seems obvious that no attempt was made even when the Company had funds to remit HST. As a result the Appellant has failed to establish that he took the positive steps that would be required of him to satisfy the requirements of subsection 323(3) of the Act and therefore he has not satisfied the requirements of the due diligence defence under this subsection.
+[15] The Appellant had also raised the issue of whether he had ceased to be a director more than two years before he had been assessed for the unremitted HST. Subsection 323(5) of the Act provides as follows:
+(5) An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+[16] The Appellant indicated that he received some form of correspondence from the CRA indicating that this defence was available to him. However, he did not produce the correspondence. In this case the Notice of Assessment was filed as an Exhibit and the date on the Notice of Assessment was March 10, 2003. As noted previously the Appellant, in his own letter to the CRA, indicated that he had resigned as a director as of October 1, 2001. Therefore the assessment of him as a director was made within two years of the time that he ceased to be a director and the provisions of subsection 323(5) do not apply.
+[17] As a result the appeal in relation to the assessment of the director of the Company for the unremitted HST is dismissed without costs.
+Signed at Halifax, Nova Scotia, this 6th day of September 2007.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2007TCC530
+COURT FILE NO.: 2004-2593(GST)I
+STYLE OF CAUSE: LOVITTE J. BLADES AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Yarmouth, Nova Scotia
+DATE OF HEARING: August 27, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: September 6, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Deanna M. Frappier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

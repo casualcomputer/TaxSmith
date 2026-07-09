@@ -1,0 +1,149 @@
+---
+title: "Erickson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31017/index.do"
+last_modified: "2012-11-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 398"
+citation2: ""
+neutral_citation: "2012 TCC 398"
+decision_date: "2012-11-13"
+language: "en"
+item_id: "31017"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4899
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:02:19.734000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1812a9e89acc3098cd66ec3b01f7bd4d16491cd44c938914f578f41a5c1c1676"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Erickson v. The Queen
+
+- Citation: 2012 TCC 398
+- Decision date: 2012-11-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4899, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Erickson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-11-13
+Neutral citation
+2012 TCC 398
+File numbers
+2011-2294(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-2294(IT)I
+BETWEEN:
+WALFRED ERICKSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 13, 2012, at Vancouver, British Columbia.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Zachary Froese
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act with respect to the appellant’s 2005 and 2006 taxation years are allowed and the reassessments are referred back to the Minister for reconsideration and reassessment in accordance with the attached Reasons for Judgment and the attached partial Consent to Judgment executed by the parties on September 17, 2012.
+Signed at Ottawa, Canada, this 13th day of November 2012.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2012 TCC 398
+Date: 20121113
+Docket: 2011-2294(IT)I
+BETWEEN:
+WALFRED ERICKSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. Introduction
+[1] The appellant, Walfred Erickson, instituted these appeals in respect of reassessments made under the Income Tax Act (Canada) (the “ITA”) for the 2005 and 2006 taxation years.
+[2] Prior to the hearing, the parties entered into a consent to partial judgment covering all of the matters under appeal save for the matter described below.[1]
+[3] In 2005, the appellant acquired a fishing boat called the LCM 8 which became available for use by the appellant for commercial fishing in August of 2006. The LCM 8 was being refurbished and was not used in that year by the appellant. The parties agree that the appellant is entitled to claim capital cost allowance (“CCA”) with respect to the LCM 8 as of 2006. Their dispute is centred on the “half-year rule”, which, when it applies, limits a taxpayer’s CCA claim to 50% of the amount that could otherwise be claimed.
+II. Analysis
+[4] Relying on a Canada Revenue Agency (“CRA”) publication, the appellant argues that the 50% restriction does not apply here. The excerpt which he relies on reads as follows:
+. . . The half-year rule does not apply when the available for use rules . . . denies [sic] a CCA claim until the second tax year after the year you acquire the property.[2]
+[5] The respondent points out that this passage does not help the appellant because he acquired the LCM 8 in 2005 and his CCA claim was deferred only until 2006, which was the first taxation year that followed the acquisition of the LCM 8 and not 2007, which would be the second taxation year following its acquisition.
+[6] The “half-year rule” at issue in this appeal is implemented by subsections 1100(2) and (2.4) of the Income Tax Regulations (the “Regulations”). Subsection 1100(2) of the Regulations provides that a taxpayer must reduce the undepreciated capital cost of depreciable property for which CCA is claimed in respect of a particular year by 50% of the net additions to property of that class for that year. This amount works out to one-half of the amount by which property that is acquired in the year, or that becomes “available for use” in the year, exceeds the proceeds of disposition of property of that class disposed of in the year.
+[7] Subsection 1100(2) reads as follows:
+Property Acquired in the Year
+(2) The amount that a taxpayer may deduct for a taxation year under subsection (1) in respect of property of a class in Schedule II is to be determined as if the undepreciated capital cost to the taxpayer at the end of the taxation year (before making any deduction under subsection (1) for the taxation year) of property of the class were reduced by an amount equal to 50 percent of the amount, if any, by which
+(a) the total of all amounts, each of which is an amount added
+(i) because of element A in the definition “undepreciated capital cost” in subsection 13(21) of the Act in respect of property that was acquired in the year or that became available for use by the taxpayer in the year, or
+(ii) because of element C or D in the definition “undepreciated capital cost” in subsection 13(21) of the Act in respect of an amount that was repaid in the year,
+to the undepreciated capital cost to the taxpayer of property of a class in Schedule II, other than
+(iii) property included in paragraph 1(v), in paragraph (w) of Class 10 or in any of paragraphs (a) to (c), (e) to (i), (k), (l) and (p) to (s) of Class 12,
+(iv) property included in any of Classes 13, 14, 15, 23, 24, 27, 29, 34 and 52,
+(v) where the taxpayer was a corporation described in subsection (16) throughout the year, property that was specified leasing property of the taxpayer at that time,
+(vi) property that was deemed to have been acquired by the taxpayer in preceding taxation year by reason of the application of paragraph 16.1(1)(b) of the Act in respect of a lease to which the property was subject immediately before the time at which the taxpayer last acquired the property, and
+(vii) property considered to have become available for use by the taxpayer in the year by reason of paragraph 13(27)(b) or 28(c) of the Act
+exceeds
+(b) the total of all amounts, each of which is an amount deducted from the undepreciated capital cost to the taxpayer of property of the class
+(i) because of element F or G in the definition “undepreciated capital cost” in subsection 13(21) of the Act in respect of property disposed of in the year, or
+(ii) because of element J in the definition “undepreciated capital cost” in subsection 13(21) of the Act in respect of an amount the taxpayer received or was entitled to receive in the year.
+[Emphasis added.]
+[8] The 50% restriction, however, does not apply to property that is deemed to have become “available for use” by the taxpayer by reason of paragraph 13(27)(b) or (28)(c) of the ITA. Those provisions deem property to become available for use in the second taxation year following the acquisition of the property.
+[9] The appellant was entitled to claim CCA starting in 2006, which is the first taxation year following the acquisition of the LCM 8. As a result, I conclude that the “half-year rule” does apply to limit the appellant’s CCA claim in respect of the LCM 8 for 2006.
+III. Conclusion
+[10] The appeal from the reassessment made under the ITA for the 2005 taxation year is allowed and the reassessment is referred back to the Minister for reconsideration and reassessment in accordance with these Reasons for Judgment and the consent for partial judgment filed at the hearing.
+[11] The appeal from the reassessment made under the ITA with respect to the appellant’s 2006 taxation year is allowed and the reassessment is referred back to the Minister for reconsideration and reassessment in accordance with these Reasons for Judgment and the consent for partial judgment filed at the hearing.
+Signed at Ottawa, Canada, this 13th day of November 2012.
+“Robert J. Hogan”
+Hogan J.
+SCHEDULE A
+CITATION: 2012 TCC 398
+COURT FILE NO.: 2011-2294(IT)I
+STYLE OF CAUSE: WALFRED ERICKSON v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: September 13, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: November 13, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Zachary Froese
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] A copy of the partial Consent to Judgment executed by the parties on September 17, 2012 is attached to these Reasons for Judgment as Schedule A.
+[2] “Fishing Income” guide T4004 (E) Rev. 11, p. 29.

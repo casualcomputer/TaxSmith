@@ -1,0 +1,217 @@
+---
+title: "1770200 Ontario Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30223/index.do"
+last_modified: "2011-02-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 65"
+citation2: ""
+neutral_citation: "2011 TCC 65"
+decision_date: "2011-02-21"
+language: "en"
+item_id: "30223"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7759
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:50:38.476000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6214898682d64ceee05b4cbaa5a0c2b343b1be0b959456fa6c23bee97d043d86"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1770200 Ontario Inc. v. M.N.R.
+
+- Citation: 2011 TCC 65
+- Decision date: 2011-02-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7759, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1770200 Ontario Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-02-21
+Neutral citation
+2011 TCC 65
+File numbers
+2009-3679(EI)
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2009-3679(EI)
+2009-3680(CPP)
+BETWEEN:
+1770200 ONTARIO INC.
+O/A BAKER REAL ESTATE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of
+1770200 Ontario Inc. o/a Baker Real Estate 2009-3681(EI)
+and 2009-3682(CPP) on December 17, 2010, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Peter Aprile
+Counsel for the Respondent:
+Christian Cheong
+Sandra K.S. Tsui
+____________________________________________________________________
+JUDGMENT
+The appeals from the decisions made under the Employment Insurance Act and the Canada Pension Plan for the period from May 16, 2007 to January 13, 2009 are dismissed and the decisions of the Minister of National Revenue are confirmed.
+Signed at Ottawa, Canada, this 21st day of February 2011.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2009-3681(EI)
+2009-3682(CPP)
+BETWEEN:
+1770200 ONTARIO INC.
+O/A BAKER REAL ESTATE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of
+1770200 Ontario Inc. o/a Baker Real Estate 2009-3679(EI)
+and 2009-3680(CPP) on December 17, 2010, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Peter Aprile
+Counsel for the Respondent:
+Christian Cheong
+Sandra K.S. Tsui
+____________________________________________________________________
+JUDGMENT
+The appeals from the decisions made under the Employment Insurance Act and the Canada Pension Plan for the period from April 1, 2007 to October 1, 2008 are dismissed and the decisions of the Minister of National Revenue are confirmed.
+Signed at Ottawa, Canada, this 21st day of February 2011.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2011TCC65
+Date: 20110209
+Docket: 2009-3679(EI)
+BETWEEN:
+1770200 ONTARIO INC.
+O/A BAKER REAL ESTATE,
+Appellant,
+and
+THE MINSTER OF NATIONAL REVENUE,
+Respondent,
+Docket: 2009-3680(CPP)
+BETWEEN:
+1770200 ONTARIO INC.
+O/A BAKER REAL ESTATE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+Docket: 2009-3681(EI)
+BETWEEN:
+1770200 ONTARIO INC.
+O/A BAKER REAL ESTATE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+Docket: 2009-3682(CPP)
+BETWEEN:
+1770200 ONTARIO INC.
+O/A BAKER REAL ESTATE,
+Appellant,
+and
+THE MINSTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issue in these appeals is whether Vanessa Al-Jbouri (Vanessa) and Amanda Mercer (Amanda) were employed by the Appellant under a contract of service for purposes of the Employment Insurance Act and the Canada Pension Plan. The relevant period of work for Vanessa was May 16, 2007 to January 13, 2009 and the relevant period of work for Amanda was April 1, 2007 to October 1, 2008. The appeals were heard on common evidence. The witnesses at the hearing were Vanessa and Barbara Lawlor, President of the Appellant.
+[2] The Respondent brought a motion, at the start of the hearing, to amend the Reply to Notice of Appeal in each of the appeals to include alternative statutory provisions which had not been relied on by the Minister of National Revenue (the “Minister”) when he made his assessments in these appeals. In the proposed Amended Replies, the assumptions of fact remained the same and no new facts were pled. The Minister submitted, in the alternative, that the Appellant was the deemed employer of Vanessa and Amanda (the “Workers”) within the meaning of subsections 1(2) and 10(1) of the Insurable Earnings and Collection of Premiums Regulations (IECPR) and subsection 8.1(1) of the Canada Pension Plan Regulations (CPPR).
+[3] Counsel for the Appellant opposed the motion on the grounds that the amendment raised an entirely new basis for the assessment and he was given only six days notice of this proposed amendment.
+[4] After a review of the submissions made by both counsel and the circumstances of these appeals, I have concluded that the motion to amend the pleadings should not be granted. To grant the motion to amend the Replies on the eve of trial would be procedurally unfair to the Appellant[1]. The Respondent filed its Reply to Notice of Appeal on February 19, 2010 and on April 23, 2010, the parties were directed to file and serve a list of documents on the other party on or before May 23, 2010. The Notice of Hearing for these appeals was issued by the Court on September 27, 2010. During this period, the Respondent had sufficient time to review the pleadings which had been filed by its agent and to bring a motion to amend the Reply. If the Appellant had sufficient notice of the proposed amendment, counsel for the Appellant might have called evidence to rebut the assertion that the Appellant was the deemed employer of the Workers.
+[5] Counsel for the Appellant has likened these appeals to walking through an art gallery. He has stated that the relationships in these appeals must be appreciated beyond the tests listed in the jurisprudence just as the paintings in a gallery must be appreciated for the techniques used and the history of the paintings. With this in mind, I will review the facts in these appeals.
+[6] The Appellant is in the business of real estate marketing and sales. Many of its clients are developers of high-rise condominium buildings. The developers contract with the Appellant who brings the new building to the marketplace. The developers usually build a sales office and the Appellant staffs it with a Project Manager, a Project Administrator, a receptionist and licensed sales people. The sales office operates until sufficient condominiums are sold; at which time, it is demolished so that the condominium building can be constructed. After the sales office is demolished, most of the remaining sales are done out of the Appellant’s head office.
+[7] The Appellant, in consultation with the developer, decides the number of staff employed at a sales office on a regular basis and for special events. The Appellant must consult with the developer as it ultimately pays for the services provided. It was Ms. Lawlor’s evidence that, if the condominiums are not selling, the developers can instruct the Appellant to reduce the number of staff at a sales office.
+[8] The Workers were hired by the Appellant as Project Administrators to provide administration services for one particular condominium project. Amanda was hired to provide services at the marketing and sales office of Chestnut Hill Homes which was the developer of the San Francisco Bay project. Vanessa was engaged by the Appellant to provide services to The Ritz-Carlton Hotel Company LLC. She is still employed in this capacity.
+[9] The Workers’ duties included data entry such as completing standard purchase and sale agreements and amendments thereto; arranging delivery of purchasers’ cheques and purchase and sale agreements; ordering materials and supplies; assembling marketing kits; answering the phones and inquiries from potential purchasers; booking appointments for the Appellant’s real estate agents; maintaining and updating information in the Appellant’s database; preparing weekly status reports; and, filing. The Appellant paid the Workers by cheque on a semi-monthly basis. They received $18 per hour.
+[10] The question is whether the Workers were engaged by the Appellant as employees or independent contractors. Barbara Lawlor testified that it was the Appellant’s intention that the Workers were hired as independent contractors. Vanessa testified that it was her intention that she was hired as an independent contractor.
+[11] To determine whether the Workers were employees or independent contractors while employed by the Appellant, it is necessary to determine if the Workers were performing the services as persons in business on their own account. The factors from Wiebe Door[2] are used to analyze the work relationship between the Workers and the Appellant. Those factors are control, ownership of tools, chance of profit and risk of loss. In Combined Insurance Company of America v M.N.R.[3], Nadon, J.A. reviewed the case law and stated the principles to be applied as follows:
+[35] In my view, the following principles emerge from these decisions:
+1. The relevant facts, including the parties’ intent regarding the nature of their contractual relationship, must be looked at in the light of the factors in Wiebe Door, supra, and in the light of any factor which may prove to be relevant in the particular circumstances of the case;
+2. There is no predetermined way of applying the relevant factors and their importance will depend on the circumstances and the particular facts of the case.
+Although as a general rule the control test is of special importance, the tests developed in Wiebe Door and Sagaz, supra, will nevertheless be useful in determining the real nature of the contract.
+[12] The test that was stated in Sagaz[4]is as follows:
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+Control
+[13] The Appellant told the Workers not only what their duties were but also how they were to perform their duties. The Appellant trained the Workers at its headquarters. It gave the Workers detailed instructions on how to open and close the sales office; how to dress; how to greet and register clients; how to record registrations; how and when to use the Appellant’s database; how to answer the telephone; and, how to prepare Agreements of Purchase and Sale and amendments to same. The Workers prepared their own timesheets and sent them to the Appellant’s payroll department. The Project Managers, who were employed by the Appellant, reviewed and approved the timesheets[5].
+[14] Although Ms. Lawlor stated that the Workers were not supervised, I find that they were closely supervised in their duties. The Project Managers strictly monitored the work performed by the Workers. They checked that the data entered into the computer was correct as that data formed the basis of the reports that the Appellant used for its weekly meetings with the developers. They also checked the Purchase and Sale Agreements to ensure the accuracy of the data before the agreement was executed.
+[15] The Workers were required to wear the Appellant’s name tags at all times while they were in the sales office.
+[16] Ms. Lawlor stated that the Workers could take time off whenever they chose. However, they first had to give notice so that the Appellant could find a replacement for them. The Workers could not hire someone to replace them nor could they hire an assistant.
+[17] The Appellant determined that the Workers’ wages would be $18 per hour. There was no negotiation concerning wages between the Appellant and the Workers. If there was any negotiation with respect to the Workers’ hourly rate, it was between the Appellant and the developer. In fact, Ms. Lawlor testified that if the Appellant was pleased with an administrator’s services, the Appellant might ask the developer for an increase in the hourly rate.
+[18] While employed by the Appellant, the Workers were only free to work elsewhere when they were not performing their duties at the sales office.
+[19] The Appellant, in consultation with the developers, determined the hours that the sales offices were open for business. The sales office for The Ritz-Carlton Hotel Company LLC was open from 12:00 to 6:00 on Monday through Thursday and 12:00 to 5:00 on Saturday to Sunday. Vanessa worked these hours.
+[20] Based on my review of the above, I have concluded that the Workers were subject to the control and supervision of the Appellant. This factor indicates that the Workers were employees.
+Ownership of Tools
+[21] The developer provided all of the tools which the Workers required to complete their duties except the database which was the property of the Appellant. The Workers provided no tools.
+[22] The fact that the only tool provided by the Appellant was its database would normally indicate that the Workers were independent contractors. However, the Workers provided no tools; and, without getting too technical as to the source of the tools, I find that this points to the Workers being employees[6].
+Chance of Profit/Risk of Loss
+[23] The Workers had no chance of profit or risk of loss. They were paid a fixed hourly wage and they had no expenses. The fact that the Workers could work elsewhere when they were not required to be at the sales office does not indicate that they had a chance of profit with the Appellant. There is a difference between increased earnings and profit from a business[7]. This factor also points to the Workers being employees.
+[24] When I consider all of the factors, I conclude that the Workers are not performing their services as persons in business for themselves. Although the parties intended that the Workers would be independent contractors, the terms of their relationship, when analyzed against the Wiebe Door factors, do not support this intention.
+[25] The appeals are dismissed.
+Signed at Ottawa, Canada, this 21st day of February 2011.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2011TCC65
+COURT FILE NO.: 2009-3679(EI)
+2009-3680(CPP)
+2009-3681(EI)
+2009-3682(CPP)
+STYLE OF CAUSE: 1770200 ONTARIO INC.
+O/A BAKER REAL ESTATE
+AND M.N.R.
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: December 17, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: February 21, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Peter Aprile
+Counsel for the Respondent:
+Christian Cheong
+Sandra K.S. Tsui
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Peter Aprile
+Firm: Aprile Law
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Poulton v Canada, [2002] 2 C.T.C. 2405
+[2] Wiebe Door Services Ltd. v M.N.R., [1986] 3 F.C. 553 (FCA)
+[3] [2007] F.C.J. No. 124 at paragraph 35
+[4] 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59
+[5] Exhibit R-1 at page 12
+[6] 1483740 Ontario Ltd. v M.N.R., 2007 TCC 258
+[7] Hennick v. M.N.R., [1995] F.C.J. No.294 (FCA)

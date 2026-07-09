@@ -1,0 +1,199 @@
+---
+title: "Raynald Bouchard Automobile inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30215/index.do"
+last_modified: "2011-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 104"
+citation2: ""
+neutral_citation: "2011 CCI 104"
+decision_date: "2011-02-16"
+language: "fr"
+item_id: "30215"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7767
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:06:36.904000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "53c731f08d09f5f7fd4e75d2a32bd487113263e66db220518ac0aa0c1f35675b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Raynald Bouchard Automobile inc. c. M.R.N.
+
+- Citation: 2011 CCI 104
+- Decision date: 2011-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7767, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Raynald Bouchard Automobile inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-02-16
+Référence neutre
+2011 CCI 104
+Numéro de dossier
+2010-2212(EI)
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2010-2212(EI)
+ENTRE :
+RAYNALD BOUCHARD AUTOMOBILE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Guylaine Plourde 2010-2213(EI)
+le 11 janvier 2011, à Québec (Québec)
+Devant : L'honorable juge B. Paris
+Comparutions :
+Avocat de l'appelante :
+Me Frédéric St-Jean
+Avocate de l'intimé :
+Me Marie-France Dompierre
+____________________________________________________________________
+JUGEMENT
+L’appel en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi est accueilli et la décision que le ministre du Revenu national a rendue le 9 juin 2010 est modifiée de façon à reconnaître que madame Guylaine Plourde avait exercé un emploi assurable du 15 janvier 2007 au 14 décembre 2007, du 3 février 2008 au 13 décembre 2008 et du 3 mai 2009 au 27 novembre 2009.
+Signé à Ottawa, Canada, ce 16e jour de février 2011.
+"Brent Paris"
+Juge Paris
+Dossier : 2010-2213(EI)
+ENTRE :
+GUYLAINE PLOURDE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Raynald Bouchard Automobile Inc., 2010-2212(EI)
+le 11 janvier 2011, à Québec (Québec)
+Devant : L'honorable juge B. Paris
+Comparutions :
+Avocat de l'appelante :
+Me Frédéric St-Jean
+Avocate de l'intimé :
+Me Marie-France Dompierre
+____________________________________________________________________
+JUGEMENT
+L’appel en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi est accueilli et la décision que le ministre du Revenu national a rendue le 9 juin 2010 est modifiée de façon à reconnaître que l’appelante avait exercé un emploi assurable du 15 janvier 2007 au 14 décembre 2007, du 3 février 2008 au 13 décembre 2008 et du 3 mai 2009 au 27 novembre 2009.
+Signé à Ottawa, Canada, ce 16e jour de février 2011.
+"Brent Paris"
+Juge Paris
+Référence : 2011 CCI 104
+Date : 20110216
+Dossier : 2010-2212(EI)
+2210-2213(EI)
+ENTRE :
+RAYNALD BOUCHARD AUTOMOBILE INC.,
+GUYLAINE PLOURDE
+appelantes,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Les appelantes interjettent appel de la décision de l’intimé que l’emploi de l’appelante, Guylaine Plourde, par l’appelante Raynald Bouchard Automobile Inc. (le « payeur ») n’était pas un emploi assurable pour l’application de la Loi sur l’assurance‑emploi (la « Loi »). Le ministre a décidé que son emploi était un emploi exclu en vertu de l’alinéa 5(2)i) de la Loi pour les périodes suivantes : du 15 janvier au 14 décembre 2007, du 3 février au 13 décembre 2008 et du 3 mai au 27 novembre 2009.
+[2] L’alinéa 5(2)i) de la Loi dispose que « l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance » n’est pas un emploi assurable. Il n’est pas contesté que l’appelante et le payeur avaient un lien de dépendance entre eux. Raynald Bouchard, le conjoint de madame Plourde, détenait toutes les actions du payeur.
+[3] Toutefois, en appliquant l’alinéa 5(2)i), le ministre peut tenir compte de l’exception prévue à l’alinéa 5(3)b) de la Loi qui se lit comme suit :
+5(3) Pour l’application de l’alinéa (2)i) :
+. . .
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[4] En l’espèce, le ministre a décidé qu’il n’était pas raisonnable de conclure que l’appelante et le payeur auraient conclu un contrat à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[5] La seule question que la Cour doit trancher en l’espèce est de savoir si la conclusion du ministre était raisonnable. À cette fin, je dois « vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, […] décider si la conclusion dont le ministre était “convaincu” paraît toujours raisonnable »[1].
+[6] Pour rendre sa décision, l’intimé s'est basé sur les faits suivants énoncés aux paragraphes 6 des deux réponses aux avis d’appel :
+6) Le ministre a déterminé que [madame Plourde] et le payeur avaient un lien de dépendance entre eux dans le cadre de l’emploi. En effet, le ministre a été convaincu qu’il n’était pas raisonnable de conclure que [madame Plourde] et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes :
+a) le payeur a été constitué en société le 7 février 1990;
+b) le payeur exploitait un garage de réparation et d’entretien mécanique pour automobile;
+c) le payeur offrait les services de vente de pneus, d’inspection d’air conditionné, la réparation de vitre Duro-Vitre, de remorquage en moins de 30 minutes dans la région de l’ouest de la vallée;
+d) le garage du payeur a trois portes et peut contenir 3 véhicules;
+e) l’unique actionnaire du payeur est Raynald Bourchard;
+f) les activités du payeur s’échelonnent à longueur d’année, mais sont plus intenses de la mi-octobre à la fin novembre à cause de la pose de pneus;
+g) les heures d’affaires du payeur sont de 8 h à 17 h du lundi au vendredi et de 8h à midi le samedi;
+h) le payeur embauchait, en plus de l’actionnaire, 2 employés pour la mécanique et [madame Plourde];
+i) une seule signature est requise pour les chèques du payeur;
+j) les chèques du payeur étaient signés, en majorité, par l’actionnaire qui s’occupait aussi de la préparation des paies des employés, complétait les factures et les soumissions pour les clients, s’occupait en exclusivité de l’inventaire des pièces ainsi que du service de remorquage;
+k) lorsque l’actionnaire s’absentait pour le remorquage, les appels du payeur étaient transférés sur son cellulaire pendant les heures d’ouverture du garage et chez lui lorsque fermé;
+l) le payeur confiait à une personne extérieure la tenue de livres, soit Brigitte Roy;
+m) madame Roy se rendait chez le payeur 4 à 5 jours par mois pour faire la tenue de livres;
+n) madame Roy était payée par le payeur au tarif horaire de 12 $;
+o) [madame Plourde] est au service du payeur depuis environ 18 ans;
+p) [madame Plourde] est autorisée à signer les chèques du payeur;
+q) les fonctions de [madame Plourde] était de répondre au téléphone, entrer à l’ordinateur les factures des fournisseurs, soit le numéro de téléphone du compte et le montant excluant les taxes, classer les factures par ordre alphabétique, encaisser les paiements des clients, plier les états de compte, entrer les inventaires, soit le nom du fournisseur et les quantités, à l’occasion elle allait chercher des pièces, prendre le courrier au bureau de poste, tant le personnel que celui du garage, un peu de ménage, soit l’époussetage du comptoir, prendre les rendez-vous pour les clients;
+r) bien que diversifié, le travail de [madame Plourde] est minime et souvent occasionnel;
+s) bien que le payeur affirme que le travail de [madame Plourde] était accumulé afin de fournir un volume de travail pour une semaine complète, il appert que la majorité des tâches de [madame Plourde] sont requises journellement;
+t) les parties s’accordent à dire que les périodes d’emploi de [madame Plourde] étaient réparties de la façon suivante au cours d’une année :
+· De janvier à avril : 1 semaine au 2 mois
+· De mai à septembre : 1 semaine par mois, sauf 2 ou 3 semaines consécutives en fin d’été, et
+· D’octobre à décembre : à plein temps, puisqu’en période de pointe ;
+u) les livres de paies de 2007 et 2009 démontrent qu’il n’en a pas été ainsi, car [madame Plourde] a travaillé une semaine par mois de janvier à mai 2007 et aucune semaine pour la même période en 2009, car l’actionnaire suffisait à la tâche;
+v) en 2009, [madame Plourde] travaille moins de semaine, alors que l’unique actionnaire a été malade à l’été 2009;
+w) [madame Plourde] recevait une rémunération hebdomadaire brute de 390 $ + 4% pendant les périodes en litige, soit 11,15 $ de l’heure;
+x) le mécanicien du payeur reçoit 12 $ de l’heure, celui en formation, 10,50 $ et la teneur de livres, 12 $;
+y) compte tenu de sa non spécialisation, le payeur explique le salaire élevé de [madame Plourde] par le fait qu’elle est plus qu’une simple réceptionniste, mais une employée polyvalente et de confiance;
+z) en 2007, des chèques ont été émis par le payeur à [madame Plourde] pour les semaines se terminant le 17 mars, le 28 avril et le 12 mai, alors qu’elle n’est pas inscrite au livre de paie;
+[7] La plupart de ces faits n’ont pas été contestés par les appelantes.
+[8] Par rapport à l’alinéa f), monsieur Bouchard a expliqué que la période de pointe pour l’entreprise pouvait commencer au mois de septembre, dépendamment de la météo. Il a dit que, dès l’arrivée de l’automne, les clients commandaient des pneus et cherchaient des conseils. De plus, il fallait préparer l’inventaire des pneus.
+[9] Monsieur Bouchard a ajouté, relativement au paragraphe j), que madame Plourde l’aidait à faire l’inventaire des pièces à la fin juin ou au début juillet.
+[10] En ce qui concerne l’alinéa k), monsieur Bouchard a précisé que, lorsque madame Plourde travaillait, elle prenait des messages au lieu de transférer les appels téléphoniques au cellulaire de monsieur Bouchard.
+[11] Quant aux alinéas q), r), et s), monsieur Bouchard et madame Plourde ont tous les deux insisté sur le fait que madame Plourde a travaillé fort pendant toutes les semaines où elle a travaillé pour le payeur et que son travail était important pour lui. Ils ont montré à la Cour une liste de 22 tâches de madame Plourde qu’ils avaient donnée à l’agent des appels de l’Agence du revenu Canada au moment de l’enquête. En plus des tâches notées au paragraphe q), madame Plourde commandait des pièces selon les instructions de monsieur Bouchard et avisait les clients lorsque les pièces arrivaient, faisait le tri des pièces reçues des fournisseurs, faisait des factures simples et commençait les factures plus complexes que monsieur Bouchard terminait, faisait les dépôts à la banque, aidait avec l’inventaire et faisait le suivi des comptes clients.
+[12] Ils ont aussi dit que, pendant les mois où madame Plourde n’a pas travaillé toutes les semaines, une partie de son travail, tel que le classement des documents et le saisie des données à l’ordinateur, a été accumulée par le payeur. Le reste de son travail consistait à accomplir les tâches quotidiennes que monsieur Bouchard aurait autrement eues à accomplir lui-même. Selon lui et madame Plourde, il travaillait de 70 à 90 heures par semaine dans l’entreprise et avait besoin d’aide pendant les semaines où elle a travaillé afin de le libérer de certaines tâches et de lui permettre de se concentrer sur le travail administratif qui s’accumulait.
+[13] Monsieur Bouchard a admis que madame Plourde n’a pas travaillé du tout de janvier à mai 2009. Il a expliqué que, pendant cette période, sa charge de travail était réduite et qu’il n’avait pas besoin d’aide. Normalement, au début de l’année, le payeur renégocie des contrats avec des sociétés d’assurance-automobile, mais en 2009 les contrats ont été renouvelés sans changement. L’hiver de 2009 avait été plus clément que d’habitude, ce qui a eu une incidence sur les revenus du payeur. Le payeur a aussi perdu, au début de 2009 un contrat de réparation de pneus d’une usine locale. Finalement, en raison des pertes de près de 13 000 $ qu’il avait subies l’année précédente le payeur a donné moins d’ouvrage à madame Plourde.
+[14] En ce qui concerne le tarif horaire de l’appellante, monsieur Bouchard a témoigné que les deux mécaniciens gagnaient effectivement entre 12,72 $ et 13 $ de l’heure parce que, en plus de leur tarif horaire, ils recevaient des commissions. Il a dit que, selon ses recherches, le tarif courant pour une réceptionniste était 12 $ de l’heure.
+[15] Monsieur Bouchard a aussi témoigné que les trois chèques de paie de madame Plourde mentionnés au paragraphe z) ont été omis du livre de paie par erreur et que l’erreur a été corrigée.
+Analyse
+[16] L’avocat des appelantes a soutenu que le ministre, en arrivant à sa décision, a omis de tenir compte de tous les faits pertinents relatifs à la nature, à l’importance, à la durée et aux modalités du travail fait par madame Plourde et à la rétribution qui lui a été versée. Selon lui, la preuve a démontré qu’elle a travaillé seulement lorsque le payeur avait besoin d’elle. Son salaire était inférieur à celui des autres personnes qui travaillaient pour le payeur, et son tarif était raisonnable compte tenu de son expérience et de sa disponibilité pour travailler de façon intermittente une bonne partie de l’année.
+[17] Je suis d’accord avec l’avocat des appelantes. Il me semble qu’en l’espèce le ministre n’a pas tenu compte de faits importants qui permettent de comprendre le rôle de madame Plourde dans l’entreprise du payeur. Le ministre a reconnu que le payeur avait besoin de madame Plourde pendant la période de pointe en automne, mais a conclu que, pour le reste de l’année, il n’y avait pas suffisamment de travail pour justifier son embauche. Pourtant, le ministre n’a pas compris que le payeur engageait madame Plourde en dehors de la période de pointe non pas seulement pour faire du classement et pour entrer des données accumulées, mais aussi pour dépanner monsieur Bouchard, pour le libérer de tâches quotidiennes pendant une semaine à la fois, de façon à lui donner le temps de se concentrer sur l’administration de l’entreprise. C’est ce qui ressort du témoignage de monsieur Bouchard et de madame Plourde et leur crédibilité n’a pas été contestée. J’admets que monsieur Bouchard ait travaillé de très longues heures pour assurer le succès de l’entreprise. En outre, il me semble qu’il était tout à fait raisonnable qu’il délègue occasionnellement une partie de ses tâches à une employée temporaire. J’admets aussi que c’est à cause de circonstances hors de l’ordinaire que le payeur n’a pas eu besoin des services de madame Plourde pour la période de janvier à mai 2009.
+[18] Il me semble aussi que le ministre n’a pas tenu compte de toutes les tâches accomplies par madame Plourde pour le payeur. En plus des tâches énumérées au paragraphe q) de la Réponse, madame Plourde faisait de la facturation, s’occupait des commandes et de la réception des pièces, et aidait avec l’inventaire et la perception des comptes. Lorsque l’on considère l’ensemble des responsabilités de madame Plourde, l’on ne peut pas les qualifier de « minimes et occasionnelles ».
+[19] Finalement, je conclus que le taux horaire de madame Plourde n’était pas excessif par rapport à ses tâches, à ses responsabilités et à son expérience. La preuve démontre que son tarif était inférieur au montant que le payeur donnait aux autres employés, et était dans la norme pour une réceptionniste dans la région.
+[20] Pour tous ces motifs, je suis d’avis, après l’examen de toute la preuve, que la conclusion du ministre en l’espèce n’était pas raisonnable. En examinant le contexte de l’emploi de madame Plourde auprès du payeur, je suis convaincu que l’appelante et le payeur auraient conclu un contrat à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[21] L’appel est accueilli.
+Signé à Ottawa, Canada, ce 16e jour de février 2011.
+"Brent Paris"
+Juge Paris
+RÉFÉRENCE : 2011 CCI 104
+Nºs DES DOSSIERS DE LA COUR : 2010-2212(EI)
+2010-2213(EI)
+INTITULÉ DE LA CAUSE : RAYNALD BOUCHARD AUTOMOBILE INC., GUYLAINE PLOURDE c. M.R.N.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 11 janvier 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge B. Paris
+DATE DU JUGEMENT : le 16 février 2011
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Frédéric St-Jean
+Avocat de l'intimé :
+Me Marie-France Dompierre
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Frédéric St-Jean
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Selon le juge Marceau de la Cour d’appel fédérale dans l’arrêt Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878 (Q.L.), paragraphe 4.

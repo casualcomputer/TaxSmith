@@ -1,0 +1,218 @@
+---
+title: "Santerre v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27521/index.do"
+last_modified: "2005-09-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 606"
+citation2: ""
+neutral_citation: "2005 TCC 606"
+decision_date: "2005-09-20"
+language: "en"
+item_id: "27521"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 16
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:19:16.363000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8a3ae3bdccdee1d79f6591d6e1515b67b64e5900a293b5d2ce7b9342f8bfe9a9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Santerre v. The Queen
+
+- Citation: 2005 TCC 606
+- Decision date: 2005-09-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 16, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Santerre v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-20
+Neutral citation
+2005 TCC 606
+File numbers
+2005-227(IT)I
+Judges and Taxing Officers
+Pierre R. Dussault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-227(IT)I
+BETWEEN:
+RENAUD SANTERRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeals heard on September 2, 2005, at Québec, Quebec
+Before: The Honourable Justice Pierre Dussault
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Martin Gentile
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act concerning the 1995 and 1996 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of September 2005.
+"P. R. Dussault"
+Dussault J.
+Translation certified true
+on this 9th day of January 2006.
+Sharlene Cooper, Translator
+Citation: 2005TCC606
+Date: 20050920
+Docket: 2005-227(IT)I
+BETWEEN:
+RENAUD SANTERRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Dussault J.
+[1] These are appeals from assessments made under the Income Tax Act (the "Act") concerning the 1995 and 1996 taxation years.
+[2] During the years at issue, the Appellant was a full professor at Université Laval. He took a year-long sabbatical from September 1, 1995 to August 31, 1996. In relation to this sabbatical year, he obtained a research grant of $14,084 from Université Laval, of which $8,000 was received in 1995 and $6,084 was received in 1996.
+[3] In addition, based on the settlement of a series of grievances on January 11, 1996, Université Laval agreed to pay the Appellant a sum of $10,000 [translation] "to be paid in the form of a research grant as part of the salary" (Exhibit I-4, page 3, paragraph 7).
+[4] On his 1995 income tax return, the Appellant reported a total of $1,875 as "copyrights." No expenses were claimed in relation to this amount. The $8,000 research grant received from Université Laval was reported as "gross" professional income, in relation to which the Appellant deducted expenses totalling $9,895.50; therefore, there was a loss of $1,895.50 (Exhibit I-1).
+[5] In a December 14, 1998 assessment concerning 1995, the Minister of National Revenue (the "Minister") disallowed the Appellant's deduction of $1,895.50, representing expenses exceeding the $8,000 "research grant" received during the year from Université Laval. In this regard, the Reply to the Notice of Appeal (the "Reply") is incorrect, because it refers to a sum of $1,875, which had been disallowed (refer to paragraphs 2, 3 and 10 of the Reply).
+[6] On his 1996 income tax return, the Appellant reported a total of $1,211 as copyrights. In addition, he reported the sum of $6,084 as well as $10,000, for a total of $16,084, as "gross" professional income, in relation to which he claimed expenses totalling $15,803.50, for a balance of $280.50, as "net" professional income (Exhibit I-2).
+[7] In a December 14, 1998 assessment concerning 1996, the Minister treated the sum of $10,000, which the Appellant received in settlement of a series of grievances, as "other income", not as a "research grant". Subparagraph 7(f) of the Reply reads as follows:
+[translation]
+(f) The Minister determined that the sum of $10,000 was received in consideration for the non-performance of a contract for services and treated it as "other income";
+According to paragraph 11 of the Reply, [translation] "the sum of $10,000 was correctly included in the calculation of the Appellant's income, as "Other income", under sections 3 and 5 of the Act."
+[8] On February 11, 1999, the Appellant served on the Minister a notice of objection to the assessments made for 1995 and 1996. As the result of a March 16, 1999 meeting with Claude Soulard from Revenue Canada, during which the Appellant stated the reasons for his objection to the assessments, he sent him a letter on April 6, 1999, summarizing his position (Exhibit A-1). He stated the following:
+[translation]
+. . .
+Dear Sir:
+As agreed during our meeting at your offices on Tuesday, March 16, 1999, I am sending you a short memorandum related to my tax returns for the 1995 and 1996 taxation years, and to the reassessments for these two years, which were sent to me in late December 1998.
+Although the heart of the explanations lies in the concept of copyright, which both cases involve, I will treat each case separately in relation to the documents that I submitted to you immediately and the attachments to both of my returns.
+1995 return
+My 1995 return contains an error. On page 1 of the form, the sum appearing at line 130, that is, $1,875 for copyrights, is correct; however, a loss of $1,895.50 was incorrectly reported at line 137, an amount that was disallowed in the reassessment sent in December 1998.
+This erroneous submission confuses two separate things: the research grant ($8,000), which was part of my salary for my sabbatical year (01/09/95 -31/08/96), for which no loss is allowable, and the total of my copyrights and fees, which represented $1,874.96 in 1995. The details concerning this amount are as follows, as they appear in the attachments to my return:
+Laval University Press (LUP):
+$1,782.11
+The writer's union:
+45.85
+Union des écrivaines et écrivains québécois (UNEQ):
+22.00
+Council for the Arts:
+25.00
+Total copyrights in 1995:
+$1,874.96
+The $1,895.50 loss (refer to the appended "Statement of Professional Activities") is due to excess expenses ($1,895.50) concerning my sabbatical research grant ($8,000).
+With regard to my copyrights, a statement of expenses is missing concerning my activities as the author of teaching manuals, for which I sporadically collect fees. The following is a reconstruction (four years later) of these expenses for 1995:
+Meals and entertainment:
+$177.50
+Motor vehicle expenses:
+$931.00
+Supplies (documentation, postal, paper, photocopying, telephone, etc.):
+$766.50
+Total copyright expenses:
+$1,875.00
+This statement of expenses should have been attached to my 1995 return; it would therefore have offset the specific income for these authoring activities.
+This is what should apply based on a review of my 1993 return, which was accepted, in which authoring income totalling $1,236 appears on the first page of the form, with supporting documentation attached (LUP: $1,235.85), and is offset by allowable expenses in the same amount (refer to the appropriate appendix).
+1996 return
+The reassessment for 1996 rests on the refusal of your department to accept the sum of $10,000 as a research grant that is part of my salary, obtained from Université Laval in settlement of a copyright grievance concerning the educational guide for a distance education course entitled Vieillir à travers le monde.
+I immediately provided you with a copy of this settlement, signed on 11/01/1996, which clearly states that this sum of $10,000 is paid as a research grant that is part of my salary, similar to the $14,804 research grant that was paid for my sabbatical year (01/09/95 - 31/08/96), for which $8,000 applied to the 1995 fiscal year and the remainder ($6,084) applied to 1996.
+The $10,000 grievance settlement was determined on the basis of $10 for each student who took this distance education course from 1992 to 1995. A total of 1,076 distance education students enrolled in this course during the relevant period, and they purchased the educational guide, for which a copyright had been claimed. The sum of $10,760 (1,076 x $10), constituting the copyright, was rounded off to $10,000.
+With regard to the grievance settlement, the tax experts I consulted differentiate between three cases:
+1* A settlement to compensate for lost wages (fully taxable).
+2* A settlement for moral damages and/or damage to reputation (non-taxable).
+3* A settlement to compensate for professional income (taxable after deduction of allowable expenses).
+This last case applies here, although you continue to reject this settlement as a research grant that is part of my salary as it was developed and signed based on the sabbatical grant model. In either case, eligible expenses can be applied against additional income generated in this manner.
+This is the procedure I followed for the 1996 fiscal year; I submitted to the University's Finance Department my financial report for the sabbatical year, as well as the original supporting documents, where your department was fully free to audit them.
+This is how, without the originals, I am able to recreate the expenses for the 1996 fiscal year (different period than the sabbatical year) that I may apply against this $10,000 copyright amount, if you must consider it as such.
+May I remind you that with regard to all of the 1996 expenses, separating those relating to the sabbatical from those relating to authoring activities is a judgment call (i.e. arbitrary), because my activity as a professor on sabbatical specifically consists of writing teaching manuals and educational guides, to which copyrights apply. For example, is my trip to Louvain-la-Neuve, Belgium in May/June 1996 attributable to the sabbatical, authoring expenses or both?
+At the risk of splitting hairs, here is a list of the 1996 expenses that I can apply against the $10,000 authoring income:
+Plane, Québec-Paris:
+$579.00
+Car, France-Belgium:
+$919.00
+Car, Québec:
+$2,979.00
+Hotel in France and in Quebec:
+$540.00
+Meals in Europe (56 days x $50):
+$2,800.00
+Meals in Canada
+$805.00
+Documentation (Europe + Quebec):
+$1,546.10
+Total:
+$10,168.73
+Most of the supporting documents relating to these expenses are with the Finance Department at Université Laval, where they may be audited. I only have a few originals and my summary reports.
+Naturally, I am available for any additional information or clarification that you may require.
+I trust that this brief memorandum sheds sufficient light on a complex issue.
+Sincerely,
+. . .
+[9] With regard to this letter, the Appellant received no acknowledgement of receipt, reply, reassessment or notice of confirmation until he received a letter dated September 17, 2004, signed by Jean-Claude Fortier, appeals officer, concerning his objection to the reassessments made concerning 1995 and 1996 (Exhibit A-3). This letter reads as follows:
+[translation]
+. . .
+SUBJECT: Objection concerning 1995 and 1996
+Dear Sir:
+As you probably know, on February 12, 1994, the Canadian Federal Court of Appeal rendered a decision in Edward Ghali v. The Queen. The purpose of this case was to determine whether or not the sums that Université Laval paid to certain professors on sabbatical leave constituted a research grant within the meaning of paragraph 56(1)(o) of Canada's Income Tax Act.
+Due to the fact that this case served as a test case for all of the professors involved in this dispute and that this judgment affirms the position of the Canada Revenue Agency, we intend to uphold, without modification, the reassessments issued for the aforementioned years.
+If we do not receive your written submissions within fifteen (15) days, we will presume that you accept this decision.
+. . .
+[10] Confirmation of the assessments made concerning 1995 and 1996 occurred on November 12, 2004 (Exhibit I-5). The Notice of Confirmation reads as follows:
+[translation]
+NOTICE OF CONFIRMATION BY THE MINISTER
+The objections you filed with respect to the income tax assessments issued for the 1995 and 1996 taxation years have been carefully considered, in accordance with subsection 165(3) of the Income Tax Act.
+Upon reviewing the reasons provided in your objections and all of the relevant facts, the Minister of National Revenue hereby confirms the above-mentioned assessments, deeming them to comply with the Income Tax Act for the following reasons:
+1995
+Under paragraph 56(1)(o), the sum of $1,895 claimed as expenses against a research grant cannot exceed the total of the said grant included in your income.
+1996
+The sum of $10,000 that you received from "Université Laval" constitutes income from a business under subsection 9(1). It has been included in your income, in accordance with section 3.
+. . .
+[11] Regarding the letter dated September 17, 1999, and the delay between the time that the Appellant's notice of objection was received and the confirmation, Counsel for the Respondent admitted that an error had been made, that the Federal Court of Appeal's decision in Ghali v. The Queen (2004 D.T.C. 6107) was not relevant to the case at bar and that the Appellant's docket was inadvertently deemed to be similar to other cases involving "research grants" that Université Laval had given to other professors, including Mr. Ghali. Therefore, it was in error that the Appellant's docket was delayed, pending a decision in Ghali.
+[12] First, the Appellant claims that the assessments are statute-barred because it took tax authorities more than five and a half years to reply to his objection to the assessments for 1995 and 1996. He argues that the Minister failed to comply with the obligation imposed on the Minister by subsection 165(3) of the Act, which specifies that on receipt of a notice of objection under this section, the Minister shall, with all due dispatch, reconsider the assessment and vacate, confirm or vary the assessment or reassess. Consequently, the Appellant requests that the assessments be vacated.
+[13] First, the assessments concerning 1995 and 1996 which are at issue in this case, were made on December 14, 1998, that is, obviously under the normal reassessment period of three years set out in subsection 152(3.1) of the Act. Therefore, there is no limitation period, even if the confirmation did not occur until several years later.
+[14] As I mentioned previously, Counsel for the Respondent explained that the Appellant's docket had been inadvertently grouped with other dockets of professors at Université Laval, involving research grants awarded by this institution, but with respect to which the issue differed.
+[15] Clearly, the way in which the Appellant's docket was processed is deplorable and it is necessary to acknowledge a degree of negligence on the part of tax authorities in this regard. I understand why the Appellant may feel that he was treated unfairly. However, I am not in a position to grant him the remedy sought, that is, to vacate the assessments. Indeed, the Federal Court of Appeal decisions in Bolton v. The Queen, 96 D.T.C. 6413, [1996] 3 C.T.C. 3, and James v. Canada (Minister of National Revenue - M.N.R.), [2000] F.C.J. No. 2135, 2001 D.T.C. 5075, reiterate the principle that an assessment can only be vacated if the Minister did not act with all due dispatch on receipt of a notice of objection. In James v. Canada, supra, the Federal Court of Appeal affirmed at paragraph 12 of the decision that Bolton v. The Queen, (1996), 200 N.R. 303, 96 D.T.C. 6413, [1996] 3 C.T.C. 3 (F.C.A.), was the leading authority on that question. The Court added the following at paragraphs 20 and 21:
+20 It was argued on behalf of Mr. James that the Bolton interpretation of paragraph 165(3)(b) imposes a statutory duty on the Minister but gives no effective weapon to taxpayers by which they can compel the Minister to comply. It is true that under Bolton, a taxpayer cannot claim the right to have a reassessment vacated because it is under objection for an unduly long period of time. However, it does not follow that the taxpayer has no effective remedy. The taxpayer may appeal to the Tax Court under paragraph 169(1)(b), or commence proceedings in the Federal Court to compel the Minister to consider the objection and deal with it. There is jurisprudence relating to such applications in the context of other income tax provisions imposing an obligation on the Minister to act with all due dispatch: Burnet v. Canada, 98 D.T.C. 6205, [1999] 3 C.T.C. 60, [1998] F.C.J. No. 364 (QL) (F.C.A.); Merlis Investments Ltd. v. Canada, [2000] F.C.J. No. 1746 (QL) (F.C.T.D.).
+21 We conclude that there is no basis for departing from the decision of this Court in Bolton, and that the Trial Judge was correct to dismiss the motion to set aside or vary the notices of reassessments.
+[16] At the hearing, the Appellant claimed that the excess expenses totalling $1,895.50, relating to the research grant received from Université Laval in 1995, were actually copyright expenses totalling $1,875, received in the year, a position that clearly differs from the one expressed in his letter of April 6, 1999, when he argued that the additional expenses of $1,875, that were not claimed on his tax return for that year, offset in some respects the income totalling $1,875, which was reported as copyrights (Exhibit A-1). In this letter, the Appellant clearly distinguishes these copyright expenses, totalling $1,875, from the excess expenses totalling $1,895.50, associated with the $8,000 research grant received during the year (Exhibit A-1).
+[17] The assessment concerning 1995 is essentially based on paragraph 56(1)(o) of the Act, which indirectly limits research expenses to the amount of a research grant received in the year. In this respect, I feel that the Minister was justified in disallowing the excess expenses totalling $1,895.50, which the Appellant himself considered to be associated with the $8,000 research grant, even though he reported this amount as professional income. The assessment was never made based on the additional expenses, totalling $1,875, that the Appellant claimed with regard to his copyrights totalling $1,875, in his letter dated April 6, 1999 (Exhibit A-1). The assessment was simply confirmed because paragraph 56(1)(o) of the Act did not authorize the deduction of research expenses that exceeded the grant received by $1,895.50 (refer to the Notice of Confirmation, Exhibit I-5). The new expense claim of $1,875 for copyrights in the same amount was not reassessed following the Appellant's objection. Therefore, I am of the opinion that I must limit myself to the established assessment and that, under the circumstances, I have no choice but to confirm that assessment.
+[18] The Appellant received a T4A-1996 slip for 1996 from Université Laval, indicating in Box 28, "Other income," the sum of $16,084. The same slip also reports $16,084 in research grants (Exhibit I-2). I note that the Appellant reported this amount as "gross" professional income and the sum of $280.50 as net professional income. The Minister deemed the sum of $6,084 to be a research grant and he allowed the deduction of an equivalent amount in research expenses.
+[19] However, the Minister did not deem the $10,000 that the Appellant had received from Université Laval to be a research grant. He sometimes described it as being [translation] "in consideration for the non-performance of a contract for services" and as [translation] "Other income," under sections 3 and 5 of the Act (refer to subparagraph 7(f) and to paragraph 11 of the Reply to the Notice of Appeal), sometimes as income from a business, under subsection 9(1) and section 3 of the Act (refer to the Notice of Confirmation, Exhibit I-5). At the hearing, Counsel for the Respondent pointed out that the sum of $10,000 did not constitute a research grant, but actually "copyrights" or "royalties." The true issue in this dispute goes beyond the specific description of the sum of $10,000. Under the assessment of December 14, 1998, the sum of $10,000, which is part of the total sum of $16,084 identified as a research grant on the T4A-1996 slip produced by Université Laval, was not recognized as a research grant and was included in the Appellant's income, without allowing any expenses against this income.
+[20] In addition, it was in these terms that the issue had been addressed during the meeting between Mr. Soulard and the Appellant in March 1999, as evidenced by the Appellant's letter dated April 6, 1999 (Exhibit A-1, pages 2 and 3).
+[21] It is by relying on the settlement of the grievances that the Appellant filed against Université Laval, a settlement that occurred on January 11, 1996 (Exhibit I-4, page 3, paragraph 7), as well as on the Appellant's specific request to that effect, dated November 6, 1995 (Exhibit I-3), that Counsel for the Respondent argues that the $10,000 that the Appellant received from Université Laval constituted copyrights or royalties and not a "research grant" as the University had indicated on the T4A-1996 slip that had been issued to the Appellant (Exhibit I-2). According to Counsel for the Respondent, there is no relationship between this amount and the expenses that the Appellant claimed in excess of $6,084, deemed to be a "research grant."
+[22] The subject of the letter that the Appellant sent to the Vice Rector, Research at Université Laval on November 6, 1995, was clearly the copyrights that the Appellant claimed in relation to an educational guide that he had designed for a correspondence course that he had developed several years earlier, a course in which more than 1,000 students had enrolled between 1992 and 1995. He claimed royalties of $10 per student for the educational guide that each of the students purchased (Exhibit I-3). The settlement of this specific claim gave rise to the $10,000 payment, indicated in paragraph 7 of the settlement made on January 11, 1996, because the paragraph makes specific reference to this claim (Exhibit I-4).
+[23] Paragraph 7 reads as follows:
+[translation]
+7. In order to extinguish the claim of November 6, 1995, and any other claim that may arise from the creation of the first correspondence course and from its delivery on nine occasions since the Winter 1992 session, up to Fall 1995, the University awards the Professor a sum of 10,000 dollars, to be paid in the form of a research grant as part of the salary;
+[24] It seems obvious to me that a single sum received in settlement of a copyright claim in relation to a specific book, in this case an educational guide, does not constitute an actual research grant, in spite of the agreement between the parties that the $10,000 was to be paid in this form. Thus, the Appellant received the sum of $10,000 in final settlement of his copyright claim concerning the educational guide that was designed several years earlier, not as a research grant. I agree with Counsel for the Respondent that there is no relationship between this amount and the expenses that the Appellant claimed in 1999 in excess of the sum of $6,084, deemed to be a research grant. Nor is there a relationship with the expenses totalling $10,168.73, which he claimed against the $10,000 that he had received, in his letter dated April 6, 1999 to Claude Soulard from Revenue Canada.
+[25] Finally, I note that on his 1996 income tax return, the Appellant reported copyrights totalling $1,211, in relation to which no expenses had been claimed (Exhibit I-2). Therefore, it is difficult to accept the Appellant's argument that the expenses claimed in 1996 were related to his ongoing activities as an author, when initially no expenses of this type had been claimed against the sole amount of $1,211 reported as copyrights.
+[26] Consequently, the appeals from the assessments made concerning the 1995 and 1996 taxation years are dismissed.
+Signed at Ottawa, Canada, this 20th day of September 2005.
+"P. R. Dussault"
+Dussault J.
+Translation certified true
+on this 9th day of January 2006.
+Sharlene Cooper, Translator

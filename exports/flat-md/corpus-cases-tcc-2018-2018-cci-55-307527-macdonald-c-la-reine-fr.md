@@ -1,0 +1,433 @@
+---
+title: "MacDonald c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/307527/index.do"
+last_modified: "2018-03-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 55"
+citation2: ""
+neutral_citation: "2018 CCI 55"
+decision_date: "2018-03-16"
+language: "fr"
+item_id: "307527"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7489
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:59:17.723000+00:00"
+cases_cited_count: 65
+cases_citing_count: 7
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "403941a86e6a398fe84f3c09a91ea8e1713e42644f4a973fe835cdedeec7544b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# MacDonald c. La Reine
+
+- Citation: 2018 CCI 55
+- Decision date: 2018-03-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7489, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacDonald c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-03-16
+Référence neutre
+2018 CCI 55
+Numéro de dossier
+2013-4032(IT)G
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013‑4032(IT)G
+ENTRE :
+JAMES S.A. MACDONALD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête relative aux dépens présentée par voie d’observations écrites
+Devant : L’honorable juge Dominique Lafleur
+Comparutions :
+Avocats de l’appelant :
+Me James Bunting
+Me Elie Roth
+Me Stephen S. Ruby
+Avocate de l’intimée :
+Me Suzanie Chua
+ORDONNANCE
+APRÈS avoir lu l’avis de requête relative aux dépens, daté du 16 octobre 2017, déposé au nom de l’appelant (la « requête ») conformément aux Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), par laquelle il demande une ordonnance :
+prorogeant, si nécessaire, le délai imparti pour présenter la requête, en application des articles 7 et 9 et du paragraphe 12(1) des Règles;
+adjugeant à l’appelant des dépens d’indemnisation partielle, représentant 60 % des frais qu’il a payés à partir du 19 septembre 2013, soit le jour où il a commencé à préparer l’avis d’appel en l’espèce, jusqu’au 18 juin 2015, soit le jour précédant la date à laquelle il a signifié sa première offre de règlement à l’intimée, en plus de dépens indemnitaires substantiels pour la période commençant le 19 juin 2015 et se terminant à la date de la requête, plus les débours;
+accordant toute réparation considérée comme juste par la Cour;
+ET APRÈS avoir lu les observations écrites des parties au sujet des dépens dans la présente affaire;
+LA COUR ORDONNE que la requête soit accordée et que les dépens soient adjugés à l’appelant, conformément aux motifs de l’ordonnance ci‑joints, de la manière suivante :
+période postérieure au règlement : dépens indemnitaires substantiels de 300 712 $;
+période antérieure au règlement : dépens sous forme de sommeglobale de 50 000 $;
+débours : une somme de 37 550 $ pour le rapport d’expert et le dépôt de l’avis d’appel ainsi qu’une somme de 1 711,35 $ pour Neesons (sténographie) et une somme de 222,35 $ représentant la TVH de 13 % payable sur cette somme;
+TVH : une somme de 45 592,56 $ représentant la TVH de 13 % payable sur les honoraires professionnels totalisant 350 712 $;
+période qui suit la période postérieure au règlement, y compris la requête : chaque partie assume ses propres dépens.
+Signé à Ottawa, Canada, ce 16e jour de mars 2018.
+« Dominique Lafleur »
+Juge Lafleur
+Traduction certifiée conforme
+ce 23e jour d’avril 2019.
+Elisabeth Ross, jurilinguiste
+Référence : 2018 CCI 55
+Date : 20180316
+Dossier : 2013‑4032(IT)G
+ENTRE :
+JAMES S.A. MACDONALD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+Intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Lafleur
+I. APERÇU
+[1] Les présents motifs concernent l’adjudication des dépens relatifs au jugement que j’ai rendu dans l’affaire MacDonald c La Reine, 2017 CCI 157, [2017] ACI no 121 (QL), entièrement en faveur de l’appelant, avec dépens, daté du 8 août 2017 (le « jugement »). L’intimée a interjeté appel de ce jugement devant la Cour d’appel fédérale. En date d’aujourd’hui, cet appel est toujours en instance.
+[2] L’appel devant la Cour a entraîné un procès de quatre jours, qui s’est tenu à Toronto du 13 au 16 février 2017; trois témoins ont témoigné : l’appelant, un témoin expert convoqué par l’appelant et un témoin expert convoqué par l’intimée. La seule question en litige au procès était de savoir si les paiements totalisant 9 956 837 $ faits par l’appelant à l’égard des années d’imposition 2004, 2005 et 2006 en règlement partiel et définitif d’un contrat à terme de gré à gré étaient imputables au revenu et avaient donné lieu à des pertes d’entreprise, ou si ces paiements étaient imputables au capital et avaient donné lieu à des pertes en capital. Avant l’audience, les parties ont consenti au jugement sur deux points. De plus, avant l’audition de l’appel, les parties s’étaient entendues sur plusieurs des faits pertinents, et avaient produit un exposé conjoint des faits partiel. Elles avaient aussi produit un recueil conjoint de documents. À la fin de l’audience, aucune des parties n’a manifesté l’intention de présenter des observations s’il y avait adjudication de dépens.
+II. LA REQUÊTE RELATIVE AUX DÉPENS
+[3] Le 13 septembre 2017, les avocats de l’appelant ont écrit à la Cour pour qu’elle leur transmette des [traduction] « instructions sur la procédure appropriée à suivre » pour déposer des observations sur la question des dépens. Dans une lettre datée du 18 septembre 2017, l’avocate de l’intimée a fait valoir que la demande de l’appelant a été déposée trop tard, puisque le délai de trente jours prévu au paragraphe 147(7) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») était échu. L’intimée a aussi fait valoir que les avocats de l’appelant n’avaient pas fait savoir pendant l’audience que des dépens excédant ceux prévus au tarif (annexe II, tarif B des Règles, le « tarif ») seraient demandés si l’appel était accueilli. Le 19 septembre 2017, les avocats de l’appelant ont à nouveau écrit à la Cour notamment pour contester l’applicabilité du paragraphe 147(7) des Règles. Le 20 septembre 2017, la Cour, par écrit, a invité l’appelant à présenter une requête en ordonnance prorogeant le délai prescrit au paragraphe 147(7) des Règles pour lui permettre de présenter des observations sur les dépens et demander à la Cour de réexaminer la question des dépens. L’avocate de l’intimée n’a pas consenti à cette prorogation du délai.
+[4] Le 16 octobre 2017, l’appelant a déposé un avis de requête relative aux dépens (la « requête ») par laquelle il demande une ordonnance :
+prorogeant, si nécessaire, le délai imparti pour présenter la requête, en application des articles 7 et 9 et du paragraphe 12(1) des Règles;
+adjugeant à l’appelant des dépens d’indemnisation partielle, représentant 60 % des frais qu’il a payés à partir du 19 septembre 2013, soit le jour où il a commencé à préparer l’avis d’appel en l’espèce, jusqu’au 18 juin 2015, soit le jour précédant la date à laquelle il a signifié sa première offre de règlement à l’intimée, en plus de dépens indemnitaires substantiels pour la période commençant le 19 juin 2015 et se terminant à la date de la requête, plus les débours;
+accordant toute réparation considérée comme juste par la Cour.
+[5] Plus précisément, l’appelant demande des dépens excédant ceux prévus au tarif. Il soutient que les dépens prévus au tarif sont manifestement inadéquats compte tenu des circonstances particulières de l’appel en l’espèce et que des dépens d’indemnisation partielle et d’indemnisation substantielle devraient lui être adjugés, de la façon indiquée ci‑dessus.
+[6] L’appelant demande des dépens et des débours totalisant 529 020,51 $, ventilés ainsi : des dépens pour la période du 19 septembre 2013 au 19 juin 2015 de 85 391,90 $; des dépens pour la période postérieure à la première offre de règlement de 347 826,40 $ (y compris des dépens de 23 180 $ pour la période commençant à la date de la réception du jugement, le 11 août 2017, et se terminant le 12 octobre 2017); en plus de débours exempts de taxes de 37 550 $, de débours non exempts de taxes de 1 711,35 $, de la TVH, payable sur des honoraires, totalisant 56 318,38 $ et de la TVH, payable sur les débours non exempts de taxes, totalisant 222,48 $.
+[7] L’intimée estime que je ne devrais pas exercer mon pouvoir discrétionnaire pour accorder à l’appelant une prorogation du délai de présentation d’observations sur les dépens. Subsidiairement, l’appelant ne devrait avoir droit qu’aux dépens prévus au tarif, pour deux avocats. Également à titre subsidiaire, si la Cour conclut qu’elle doit adjuger des dépens majorés, ils ne devraient pas dépasser 70 000 $, soit le montant prévu au tarif pour un avocat, multiplié par six, plus les débours.
+III. LA CONFÉRENCE TÉLÉPHONIQUE DU 18 DÉCEMBRE 2017
+[8] Le 18 décembre 2017, lors d’une conférence téléphonique, j’ai informé les parties que j’avais décidé d’accorder à l’appelant une prorogation de délai pour lui permettre de présenter des observations supplémentaires sur les dépens, et que les motifs de cette décision leur seraient fournis par écrit ultérieurement. Les parties ont également été invitées à présenter des observations supplémentaires tenant compte du fait que j’estime que, pour l’application du paragraphe 147(3.1) des Règles, l’offre de règlement datée du 20 janvier 2016 (la « deuxième offre de règlement ») est la seule offre de règlement valide. La première offre de règlement (qui est datée du 19 juin 2015) n’est pas, pour l’application de ce paragraphe, une offre de règlement valide, pour les motifs exposés ci‑dessous.
+[9] L’appelant a présenté des observations supplémentaires et il demande maintenant des dépens et des débours totalisant 521 993,15 $, ventilés ainsi : des dépens pour la période du 19 septembre 2013 au 19 juin 2016, représentant 60 % des frais réellement payés au cours de cette période, soit 103 107 $; pour la période du 20 janvier 2016 au 12 octobre 2017, y compris pour la requête, des dépens indemnitaires substantiels, représentant 80 % des frais réellement payés au cours de cette période, soit 323 892,40 $ (y compris des dépens de 23 180 $ pour la période commençant à la date de la réception du jugement, le 11 août 2017, et se terminant le 12 octobre 2017); en plus de débours exempts de taxes de 37 550 $, de débours non exempts de taxes de 1 711,35 $, de la TVH, payable sur des honoraires, totalisant 55 509,92 $, et de la TVH, payable sur les débours non exempts de taxes, totalisant 222,48 $.
+[10] L’intimée a présenté des observations supplémentaires dans lesquelles elle soulève des doutes quant à l’imprécision du mémoire de dépens et aux honoraires de plus de 1 000 $ l’heure de l’avocat principal, inscrits dans le mémoire des dépens.
+IV. LES QUESTIONS EN LITIGE
+[11] La requête soulève les questions suivantes, que j’examinerai ci‑dessous :
+le délai de trente jours prévu au paragraphe 147(7) des Règles s’applique-t-il en l’espèce?
+dans l’éventualité où je conclurais que le délai de trente jours prévu au paragraphe 147(7) des Règles s’applique, convient-il que j’accorde à l’appelant une prorogation du délai pour présenter la requête à la Cour?
+si le délai de trente jours prévu au paragraphe 147(7) des Règles ne s’applique pas ou si je décidais de faire usage de mon pouvoir discrétionnaire pour accorder une prorogation du délai de dépôt de la requête, des dépens majorés devraient-ils être adjugés à l’appelant et, le cas échéant, quel en serait le montant?
+V. DISCUSSION
+1. Le délai prévu pour la présentation d’observations sur les dépens
+[12] Les paragraphes 147(3.1) et 147(7) des Règles sont reproduits ci‑dessous :
+147(3.1) Sauf directive contraire de la Cour, lorsque l’appelant fait une offre de règlement et qu’il obtient un jugement qui est au moins aussi favorable que l’offre de règlement, l’appelant a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+[…]
+147(7) Une partie peut :
+a) dans les trente jours suivant la date à laquelle elle a pris connaissance du jugement;
+b) après que la Cour a décidé du jugement à prononcer, au moment de la présentation de la requête pour jugement,
+que le jugement règle ou non la question des dépens, demander à la Cour que des directives soient données à l’officier taxateur à l’égard des questions visées au présent article ou aux articles 148 à 152 ou qu’elle reconsidère son adjudication des dépens.
+147(3.1) Unless otherwise ordered by the Court, if an appellant makes an offer of settlement and obtains a judgment as favourable as or more favourable than the terms of the offer of settlement, the appellant is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+. . .
+147(7) Any party may,
+(a) within thirty days after the party has knowledge of the judgment, or
+(b) after the Court has reached a conclusion as to the judgment to be pronounced, at the time of the return of the motion for judgment,
+whether or not the judgment included any direction concerning costs, apply to the Court to request that directions be given to the taxing officer respecting any matter referred to in this section or in sections 148 to 152 or that the Court reconsider its award of costs.
+[Non souligné dans l’original.]
+1.1 La thèse de l’appelant
+[13] L’appelant considère que le paragraphe 147(7) des Règles ne s’applique pas et que, par conséquent, sa demande de dépens majorés présentée sur le fondement du paragraphe 147(3.1) des Règles n’est pas prescrite, puisque cette disposition ne fixe aucun délai pour la présentation d’observations sur les dépens et que la Cour n’a pas déclaré qu’il n’avait pas droit à des dépens indemnitaires substantiels en application du paragraphe 147(3.1) des Règles.
+[14] Selon l’appelant, le paragraphe 147(7) des Règles ne s’applique que lorsqu’une partie demande que des directives soient données à l’officier taxateur dans des circonstances où des dépens entre parties doivent être taxés selon l’article 154 des Règles, ou lorsqu’une partie demande à la Cour de reconsidérer l’adjudication des dépens. Ni l’une ni l’autre de ces situations ne s’est produite en l’espèce. Comme l’appelant avait droit, en vertu du paragraphe 147(3.1) des Règles, à des dépens indemnitaires substantiels à compter de la date de signification de la première offre de règlement, seule la Cour a le droit d’adjuger des dépens; l’officier taxateur ne pourrait pas le faire.
+[15] Par ailleurs, dans les circonstances du présent appel, selon l’appelant, il n’avait aucune raison de demander à la Cour, sur le fondement du paragraphe 147(7) des Règles, de « reconsi[dérer] son adjudication des dépens » puisqu’il avait obtenu un jugement au moins aussi favorable que la première offre de règlement et que, en application du paragraphe 147(3.1) des Règles, il aurait donc [traduction] « en principe droit à des dépens indemnitaires substantiels après la date de signification d’une offre de règlement dans des circonstances où l’appelant obtient un jugement au moins aussi favorable que l’offre de règlement ».
+[16] Puisqu’il n’y a pas de délai précis pour demander des dépens majorés, l’appelant est d’avis que la disposition pertinente est le paragraphe 156(1) des Règles, qui exige que la partie ayant droit à des dépens dépose un mémoire des dépens dans un délai raisonnable. Comme les avocats de l’appelant ont communiqué avec la Cour le 13 septembre 2017, soit trente‑six jours après la date du jugement, et compte tenu du fait qu’on était alors [traduction] « au plus fort de la période estivale, comprenant la longue fin de semaine de la fête du Travail, il n’y a pas eu de retard déraisonnable ».
+1.2 La thèse de l’intimée
+[17] Selon l’intimée, une demande d’adjudication de dépens excédant ceux qui sont prévus par le tarif, y compris des dépens indemnitaires substantiels visés au paragraphe 147(3.1) des Règles, peut seulement être présentée en vertu du paragraphe 147(7) des Règles. L’intimée s’appuie sur les décisions McKenzie c La Reine, 2012 CCI 329, 2012 DTC 1291 [McKenzie], et Sport Collection Paris Inc c La Reine, 2007 CCI 216, [2008] GSTC 96.
+[18] De plus, l’intimée soutient que le droit est bien fixé : le paragraphe 147(3.1) des Règles est une règle supplétive – son application n’est ni automatique ni obligatoire et elle ne limite pas le pouvoir discrétionnaire général des juges quant à l’adjudication des dépens. Selon l’intimée, la thèse de l’appelant selon laquelle le paragraphe 147(3.1) des Règles s’applique par défaut est sans fondement.
+1.3 Discussion
+[19] Comme l’a fait valoir l’intimée, il faut présenter les requêtes relatives à des dépens majorés à la Cour dans le délai prescrit au paragraphe 147(7) des Règles, c’est‑à‑dire dans les trente jours suivant la date à laquelle la partie a pris connaissance du jugement (Surrey City Centre Mall Ltd c La Reine, 2013 CCI 148, au par. 4, [2013] GSTC 64 [Surrey City Centre]; Bibby c La Reine, 2010 CCI 111, au par. 7, 2010 DTC 1108 [Bibby]). Je suis d’avis que la même règle s’applique lorsqu’une partie demande des dépens indemnitaires substantiels en vertu du paragraphe 147(3.1) des Règles (McKenzie, précitée, aux par. 8 et 9). Par conséquent, je conclus que le délai de trente jours prescrit au paragraphe 147(7) des Règles s’applique en l’espèce.
+[20] Le paragraphe 147(3.1) des Règles ne dispose pas qu’il s’applique malgré le paragraphe 147(7).
+[21] Lorsque j’ai accueilli l’appel avec dépens, j’ai adjugé les dépens à l’appelant conformément au tarif. J’ai donc rendu une décision sur les dépens. Si une partie souhaite que la Cour réexamine l’adjudication des dépens, la procédure prévue au paragraphe 147(7) des Règles doit être suivie. De plus, il est important de noter qu’en l’espèce les avocats de l’appelant n’ont pas demandé la permission de présenter des observations sur les dépens à la fin de l’audience du 16 février 2017.
+[22] Toutefois, je conviens avec l’appelant que la partie ayant fait une offre de règlement valide et ayant obtenu un jugement au moins aussi favorable que l’offre de règlement a en principe le droit de se voir octroyer des dépens indemnitaires substantiels.
+[23] Dans l’arrêt Venngo Inc c Concierge Connection Inc (Perkopolis), 2017 CAF 96, 146 CPR (4th) 182 [Venngo], lors de son examen de l’article 420 des Règles des Cours fédérales, dont le libellé est semblable à celui du paragraphe 147(7) des Règles, la Cour d’appel fédérale a déclaré ce qui suit :
+88 Comme Venngo, je suis d’avis que la Cour fédérale a commis une erreur de droit dans son analyse de l’offre écrite de règlement faite par CCI le 23 octobre 2015. La Cour fédérale a eu raison de noter qu’une offre qui répond aux conditions de l’article 420 des Règles donne en principe au défendeur qui obtient gain de cause le droit au doublement des dépens à compter de la date de son offre, lorsque cette offre est refusée par le demandeur et que celui‑ci obtient un jugement moins avantageux que les conditions de l’offre, mais la Cour fédérale n’a pas eu raison de conclure que la règle s’appliquait eu égard aux circonstances de l’affaire, étant donné que l’offre de CCI ne répondait pas aux critères énoncés dans la jurisprudence et dans les Règles.
+[Non souligné dans l’original.]
+[24] Comme la question des dépens a été tranchée au moment du prononcé du jugement, l’appelant doit suivre la procédure prévue au paragraphe 147(7) des Règles s’il veut que la Cour reconsidère l’adjudication des dépens, et ce, même si je suis arrivée à la conclusion que le paragraphe 147(3.1) des Règles donne, en principe, à l’appelant le droit de se voir octroyer des dépens indemnitaires substantiels. Il s’agit de l’un des facteurs qui sera pris en compte dans la décision d’accorder ou non une prorogation du délai pour la présentation d’observations sur les dépens, comme il sera expliqué de façon plus détaillée dans la prochaine section des présents motifs.
+[25] Le jugement est daté du 8 août 2017. Il a été transmis aux parties par courriel et par courrier recommandé le 8 août 2017. On peut présumer que les parties ont eu connaissance du jugement le 8 août 2017. Il est clair que le délai de trente jours prévu au paragraphe 147(7) des Règles était expiré lorsque les avocats de l’appelant ont écrit à la Cour le 13 septembre 2017 pour demander des [traduction] « directives sur la procédure appropriée à suivre » pour présenter des observations sur les dépens; le délai de trente jours expirait le 7 septembre 2017.
+[26] Par conséquent, si l’appelant souhaitait demander à la Cour de reconsidérer l’adjudication des dépens, il devait présenter à la Cour une requête en prorogation du délai (voir Bibby, précitée, au par. 10). Comme je l’ai indiqué précédemment, l’appelant a présenté sa requête le 16 octobre 2017.
+2. La demande de prorogation du délai
+2.1 La thèse de l’appelant
+[27] L’appelant soutient que je devrais exercer mon pouvoir discrétionnaire d’accorder une prorogation du délai en application des articles 7, 9 et 12 des Règles pour lui permettre de présenter des observations supplémentaires sur les dépens. Plusieurs raisons peuvent justifier cette prorogation, dont les suivantes : l’intimée n’a pu subir un préjudice à cause d’un retard de cinq ou six jours; la Cour ne devrait pas laisser des détails de procédure empêcher qu’une affaire soit jugée au fond (La Reine c Carew, 92 DTC 6608, [1992] ACF no1020 (QL)); il est dans l’intérêt de la justice que la Cour puisse tenir compte des intérêts de l’appelant (Sport Maska Inc c Bauer Hockey Corp, 2016 CAF 44, au par. 43, 140 CPR (4th) 11); et les Règles indiquent clairement que l’intérêt de la justice et l’objectif d’assurer la juste résolution de la question en litige devraient l’emporter sur un manquement à la stricte application des Règles (art. 7 et 9 des Règles).
+2.2 La thèse de l’intimée
+[28] L’intimée soutient que je devrais rejeter la demande de prorogation du délai pour la présentation d’observations sur les dépens dans la présente affaire parce qu’aucune explication raisonnable n’a été fournie pour justifier le retard de l’appelant, que rien ne permet de conclure que l’appelant avait l’intention d’agir dans le délai de trente jours prévu au paragraphe 147(7) des Règles, que l’intérêt de la justice n’exige pas une prorogation de délai et qu’accueillir la demande contreviendrait au principe du caractère définitif des décisions.
+2.3 Discussion
+[29] Il ressort de la jurisprudence que les facteurs habituellement pris en compte dans l’examen d’une requête en prorogation de délai sont : i) l’intention d’intenter le recours dans le délai prescrit; ii) l’existence d’une cause défendable; iii) la cause et la durée réelle du retard (ou une explication raisonnable pour le retard); iv) la question de savoir si le retard a causé un préjudice (Rosen c La Reine, [2000] 2 CTC 422, au par. 5, [2000] ACF no 415 (QL); Tomas c La Reine, 2007 CAF 86, au par. 11, 2007 DTC 5178; Canada (Procureur général) c Hennelly, 244 NR 399, [1999] ACF no 846 (QL); Marshall c La Reine, 2002 CAF 172, 289 NR 187; Surrey City Centre, précitée, au par. 5).
+[30] Le poids à accorder à chacun de ces facteurs peut varier en fonction des circonstances de chaque affaire (Canada Trustco Mortgage Company c La Reine, 2008 CAF 382, au par. 14, 2009 DTC 5018).
+[31] De plus, comme l’a déclaré la Cour d’appel fédérale dans l’arrêt Canada (Développement des ressources humaines) c Hogervorst, 2007 CAF 41, 359 NR 156 [Hogervorst], « une prorogation de délai peut être accordée même si l’un des volets du critère n’est pas respecté » :
+33 Ce critère ne va pas à l’encontre de la déclaration formulée par la Cour il y a plus de vingt (20) ans dans la l’arrêt Grewal c. Canada (Ministre de l’Emploi et de l’Immigration), [1985] 2 C.F. 263, selon laquelle l’aspect fondamental à prendre en considération dans une demande de prorogation de délai consiste à s’assurer que justice est faite entre les parties. Le critère à quatre volets susmentionné sert d’appui à l’application de cet aspect fondamental. Il s’ensuit qu’une prorogation de délai peut être accordée même si l’un des volets du critère n’est pas respecté; voir Grewal c. Canada, précité, aux pages 278 et 279.
+[Non souligné dans l’original.]
+[32] Dans l’arrêt Maytag Corp c Whirlpool Corp, 2001 CAF 250, 274 NR 187, la Cour d’appel fédérale devait se prononcer sur une requête en dépens majorés présentée plus de deux ans après l’expiration du délai prévu dans les règles applicables. La juge Sharlow a expliqué l’objet du délai de trente jours prévu par les règles en question :
+10 L’objet visé par le délai de 30 jours et les raisons susceptibles de justifier la prorogation de celui‑ci sont énoncés par le juge en chef Jackett dans l’arrêt Smerchanski c. M.R.N, [1979] 1 C.F. 801 (C.A.), à la page 805 :
+Du rapprochement des Règles 344(7) et 337(5), il résulte à mon sens que la demande d’instructions pour augmenter le montant des dépens doit être présentée tandis que l’affaire est assez récente pour que la Cour puisse juger si les circonstances de l’espèce justifient une dérogation aux Règles normales du tarif; de plus, selon moi, seules des raisons très spéciales justifient une longue prorogation du délai imparti par la Règle 344(7) comme celle qui serait nécessaire en l’espèce.
+[Non souligné dans l’original.]
+[33] Je suis d’avis que cet objet, que décrit la juge Sharlow, est aussi l’objet visé par les Règles de la Cour.
+[34] Après appréciation des quatre facteurs mentionnés ci‑dessus, et compte tenu de l’objet du délai de trente jours et compte tenu des articles 9 et 12 des Règles, je choisis d’exercer mon pouvoir discrétionnaire et j’accorde à l’appelant une prorogation du délai pour la présentation d’observations sur l’adjudication de dépens majorés dans les circonstances particulières du présent appel.
+[35] Les avocats de l’appelant ont écrit à la Cour le 13 septembre 2017, soit six jours après l’expiration du délai de trente jours prévu au paragraphe 147(7) des Règles. Il est raisonnable de conclure de ce court retard que l’appelant a toujours eu l’intention de demander des dépens majorés. De plus, je ne vois pas en quoi un retard de six jours a porté préjudice à l’intimée, qui savait que des offres de règlement avaient fait l’objet de discussions entre les parties et que l’appelant demanderait sans doute des dépens majorés.
+[36] De plus, je prends note que, par une lettre datée du 19 septembre 2017, soit douze jours après l’expiration du délai pour ce faire, les avocats de l’appelant ont demandé à la Cour une prorogation du délai pour demander des dépens majorés. Par ailleurs, la requête a été présentée à la Cour le 16 octobre 2017, soit avec trente‑neuf jours de retard. Je ne vois pas en quoi ces retards ont porté préjudice à l’intimée.
+[37] Ces retards étant assez courts, je conclus que l’intérêt de la justice l’emporte sur le principe du caractère définitif des décisions invoqué par l’intimée.
+[38] L’absence d’explication raisonnable justifiant le retard n’est pas fatale à la demande de l’appelant, puisque la Cour d’appel fédérale a jugé dans l’arrêt Hogervorst, précité, qu’une prorogation de délai pouvait être accordée même s’il n’était pas satisfait à l’un des critères.
+[39] De plus, je suis d’avis que le fait que l’appelant ait établi qu’il a une cause défendable est un facteur important justifiant l’octroi de la prorogation du délai. Dans la présente section de mes motifs, je n’examine pas le bien‑fondé de la requête en dépens majorés, mais plutôt la question de savoir si l’appelant a une cause défendable à présenter à la Cour. À mon avis, l’appelant a établi qu’il a une cause défendable puisque, comme je l’ai mentionné ci-dessus, une partie qui a gain de cause a en principe droit à des dépens indemnitaires substantiels, pourvu qu’il soit satisfait à toutes les exigences énoncées au paragraphe 147(3.1) des Règles (Venngo, précité).
+[40] Je suis également d’avis qu’il faut prendre en considération l’objet du paragraphe 147(3.1) des Règles, qui est d’encourager les parties à en arriver à un règlement dans la mesure du possible (Sun Life du Canada, Compagnie d’assurance-vie c La Reine, 2015 CCI 171, au paragraphe 8, 2015 DTC 1159 [Sun Life]).
+[41] Pour ces motifs, et pour que justice soit rendue entre les parties – qui est la considération sous‑jacente d’une demande de prorogation de délai –, j’accueille la requête en prorogation du délai pour la présentation d’observations concernant l’adjudication de dépens majorés, présentée par l’appelant.
+3. L’adjudication des dépens
+3.1 Généralités
+[42] L’article 147 des Règles donne à la Cour beaucoup de latitude dans l’exercice de son pouvoir discrétionnaire en matière d’adjudication des dépens (voir l’article 147 des Règles reproduit à l’annexe A des présents motifs). Cependant, la Cour doit exercer son pouvoir discrétionnaire dans le respect de principes et non pas de façon arbitraire (La Reine c Lau, 2004 CAF 10, au par. 5, [2004] GSTC 5, et La Reine c Landry, 2010 CAF 135, aux par. 22 et 54, 2010 DTC 5106).
+[43] Aucun des facteurs énoncés au paragraphe 147(3) n’est décisif et la Cour doit prendre en compte tous les facteurs pertinents dans l’exercice de son pouvoir discrétionnaire (Velcro Canada Inc c La Reine, 2012 CCI 273, aux par. 12 et 13, [2012] 6 CTC 2049 [Velcro]).
+[44] Généralement, l’adjudication des dépens ne vise pas à indemniser une partie de tous les frais qu’elle a réellement supportés (Velcro, précitée, au par. 29). Elle se veut compensatoire et contributive, et non punitive (Mariano et al c La Reine, 2016 CCI 161, aux par. 23 et 27, 2016 DTC 1146).
+[45] Comme l’a expliqué le juge Boyle dans la décision Martin c La Reine, 2014 CCI 50, 2014 DTC 1070 (au par. 14) :
+14 […] La question qu’il faut se poser est la suivante : quelle serait la contribution appropriée de la partie déboutée aux dépens de la partie ayant eu gain de cause dans l’appel où la position de cette dernière l’a emporté?
+[…]
+[Non souligné dans l’original.]
+[46] Les observations de la juge Campbell dans la décision Invesco Canada Ltd c La Reine, 2015 CCI 92, [2015] GSTC 52 (au par. 5), sont aussi instructives :
+5 […] Le juge Boyle, à l’occasion de l’affaire Spruce Credit Union c La Reine, 2014 CCI 42, 2014 DTC 1063, s’est livré à un examen exhaustif de la jurisprudence à ce jour en matière d’adjudication des dépens. Les grands principes qui ont été soulignés dans ces motifs sont notamment les suivants :
+a) une somme forfaitaire peut être adjugée au regard des sommes en cause, de la complexité et de l’importance des questions en litige, de la charge de travail et de l’issue de l’instance (Scavuzzo c La Reine, 2006 CCI 90, 2006 DTC 2311, Dickie c La Reine, 2012 CCI 327, 2012 DTC 1276, et Blackburn Radio Inc. c La Reine, 2013 CCI 98, 2013 DTC 1098);
+b) la Cour doit tenir compte des facteurs énoncés au paragraphe 147(3) bien que les sommes en cause et la complexité des questions en litige ne constituent pas en elles‑mêmes une raison de s’écarter du tarif (Jolly Farmer Products Inc. c La Reine, 2008 CCI 693, 2009 DTC 1040);
+c) les circonstances doivent être sérieuses pour que le juge étudie la possibilité d’adjuger des dépens procureur‑client (Sommerer c La Reine, 2011 CCI 212, transcription des motifs rendus oralement par conférence téléphonique le 14 juillet 2011);
+d) la majoration des dépens varie généralement de 50 à 75 pour 100 des dépens procureur‑client (Zeller (Succession) c La Reine, 2009 CCI 135, 2009 DTC 1106);
+e) la majoration des dépens n’a pas un caractère punitif (General Electric Capital Canada Inc. v The Queen, 2010 TCC 490, 2010 DTC 1353), mais l’adjudication des dépens n’est pas limitée aux cas d’inconduite (Teelucksingh v The Queen, 2011 TCC 253, [2011] TCJ No 476);
+f) l’existence de circonstances exceptionnelles n’est pas nécessaire pour adjuger des dépens supplémentaires à ceux que prévoit le tarif (Velcro Canada Inc. c La Reine, 2012 CCI 273, [2012] ACI nº 219).
+[47] Les paragraphes 147(3.1) à 147(3.8) des Règles, qui prévoient des dépens indemnitaires substantiels dans certaines circonstances et lorsque les parties se sont échangé des offres de règlement, ont été ajoutés aux Règles et sont en vigueur depuis le 7 février 2014 (et ces modifications reflètent la directive sur la procédure no 18 publiée le 31 janvier 2011). Comme je l’ai mentionné précédemment, le paragraphe 147(3.1) des Règles « est une règle supplétive qui s’applique lorsqu’une offre de règlement conforme aux exigences applicables a été faite, mais a été rejetée et que le requérant a obtenu un jugement qui présente un rapport avec la teneur de l’offre et qui est au moins aussi favorable que l’offre » (Sun Life, précitée, au par. 8).
+[48] Néanmoins, la Cour conserve un large pouvoir discrétionnaire à l’égard de l’établissement des dépens, même dans le contexte du paragraphe 147(3.1) des Règles (Ike Enterprises Inc c La Reine, 2017 CCI 160, au par. 19, [2017] GSTC 67). De plus, comme dans le cas du pouvoir discrétionnaire des juges quant à l’adjudication des dépens en général, les juges ne doivent exercer leur pouvoir discrétionnaire de déroger à la règle supplétive établie au paragraphe 147(3.1) qu’en s’appuyant sur des principes établis (Sun Life, précitée, aux par. 9, 10 et 11).
+3.2 Les offres de règlement
+[49] Avant de déterminer le montant approprié des dépens, je dois déterminer si la première offre de règlement satisfaisait aux exigences du paragraphe 147(3.1) des Règles. Pour les motifs exposés ci‑dessous, je suis d’avis qu’elle ne répondait pas à ces exigences, puisqu’elle « n’était pas claire et sans équivoque ».
+[50] Dans l’arrêt Syntex Pharmaceuticals International Ltd c Apotex Inc, 2001 CAF 137, 273 NR 217, la Cour d’appel fédérale a conclu qu’une offre de règlement doit être claire et sans équivoque pour satisfaire au paragraphe 420(1) des Règles des Cours fédérales :
+10 Pour que le généreux avantage prévu par la règle 420(1) soit accordé au demandeur, l’offre de règlement doit être claire et sans équivoque, c’est‑à‑dire qu’elle ne doit laisser à la partie adverse que l’alternative de l’accepter ou de la refuser. Ce n’était pas le cas de la lettre du 3 juillet 1998, dans laquelle les avocats de l’intimée ne faisaient qu’indiquer qu’ils étaient disposés à recommander à leur cliente de régler de la façon exposée dans la lettre. Dès lors, même si les appelantes avaient répondu favorablement à la lettre, il n’y aurait pas nécessairement eu de règlement puisque l’intimée aurait encore pu accepter ou rejeter la recommandation de ses avocats. Si les avocats avaient déclaré dans la lettre du 3 juillet 1998 « qu’ils étaient autorisés par leur cliente à présenter l’offre suivante » et que la lettre constituait par ailleurs une offre claire et sans équivoque, nous aurions été en présence d’une « offre de règlement » au sens de la règle 420(1).
+[Non souligné dans l’original.]
+[51] Comme je l’ai indiqué précédemment, le libellé de l’article 420 des Règles des Cours fédérales est semblable à celui du paragraphe 147(3.1) des Règles. J’estime que les mêmes principes devraient s’appliquer en l’espèce.
+[52] Il est donc évident que la première offre de règlement ne satisfaisait pas aux exigences du paragraphe 147(3.1) des Règles, puisqu’elle n’était pas claire et sans équivoque. Le dernier paragraphe de la première offre de règlement précise que [traduction] « […] nous sommes disposés à recommander ce règlement à M. MacDonald ». Ainsi, même si l’intimée avait accepté l’offre, il n’y aurait pas eu de règlement puisque M. MacDonald aurait encore pu accepter ou refuser la recommandation de ses avocats.
+[53] Cependant, la deuxième offre de règlement, datée du 20 janvier 2016, satisfait aux exigences du paragraphe 147(3.1) des Règles : elle est claire et sans équivoque.
+[54] De plus, la deuxième offre de règlement satisfait à toutes les exigences du paragraphe 147(3.3) des Règles : elle a été faite par écrit, elle a été signifiée au moins trente jours après la clôture de la procédure écrite et au moins quatre‑vingt‑dix jours avant le début de l’audience, elle n’a pas été retirée et elle n’a pas expiré moins de trente jours avant le début de l’audience. L’intimée ne conteste pas ces faits.
+[55] Par ailleurs, il est manifeste que la deuxième offre de règlement aurait pu être acceptée par l’intimée, puisqu’elle était justifiable au regard des faits et du droit (CIBC World Markets Inc c La Reine, 2012 CAF 3, aux par. 15 et 22, 426 NR 182). L’intimée ne conteste pas cette conclusion.
+[56] Cependant, l’intimée invoque le principe qu’une offre de règlement doit trancher les questions en litige à l’origine de l’appel pour être prise en considération dans l’adjudication des dépens et, à cet égard, elle s’appuie sur la décision de notre Cour IPAX Canada Limited et al c La Reine, 2011 TTC 50, 2011 DTC 1077 (au par. 11) [IPAX]. Selon l’intimée, la deuxième offre de règlement ne tranche pas les questions en litige à l’origine de l’appel, puisque la proposition sur laquelle elle se fonde n’a pas été invoquée à titre subsidiaire au procès. Au procès, l’appelant a plutôt fait valoir une [traduction] « thèse “à prendre ou à laisser” ».
+[57] Je ne souscris pas à ce point de vue. Je conviens que l’appelant n’a présenté aucune thèse subsidiaire lors du procès. Néanmoins, la deuxième offre de règlement aurait pu être acceptée par le ministre du Revenu national; aussi, la Cour aurait pu conclure que seulement une partie des actions de la BNE (au sens du jugement) faisait partie des actifs couverts, et qu’une partie du montant payé en règlement partiel du contrat à terme de gré à gré (au sens du jugement) était imputable au capital alors que le solde était imputable au revenu. Il est manifeste que la deuxième offre de règlement tranche les questions en litige à l’origine de l’appel. Dans la décision IPAX, précitée, les faits étaient différents : les deux offres faites par l’appelant ne tranchaient pas les questions en litige à l’origine de l’appel.
+[58] Je suis par conséquent d’avis que la deuxième offre de règlement satisfait aux exigences énoncées aux paragraphes 147(3.3) et 147(3.4) des Règles.
+3.3 L’adjudication des dépens pour la période du 21 janvier 2016 au 16 février 2017 (la « période postérieure au règlement »)
+[59] J’examinerai d’abord les dépens relatifs à la période postérieure au règlement, à l’exclusion des dépens pour la période suivant la période postérieure au règlement, y compris pour la présente requête, que j’examinerai plus loin sous une rubrique distincte.
+[60] Comme je l’ai indiqué précédemment, l’appelant demande des dépens indemnitaires substantiels totalisant 300 712 $ pour la période postérieure au règlement (à l’exclusion des dépens relatifs à la requête), représentant 394,6 heures de travail effectué par différents avocats et 80 % du montant réel des dépens établis sur une base procureur‑client, soit 375 890,50 $, comme le prévoit le paragraphe 147(3.5) des Règles. Les avocats de l’appelant ont confirmé que le mémoire des dépens [traduction] « a été établi en fonction des frais payés par M. MacDonald ».
+[61] L’intimée a soulevé des doutes quant à l’imprécision du mémoire des dépens et aux honoraires de plus de 1 000 $ l’heure de l’avocat principal figurant dans le mémoire des dépens et, à cet égard, elle s’est référée à deux décisions récentes dans lesquelles la Cour a accepté des honoraires variant de 330 $ à 800 $ l’heure pour des avocats principaux (Standard Life Assurance Company of Canada v La Reine, 2015 TTC 138, au par. 16(j), 2015 DTC 1150, et Sun Life, précitée, aux par. 30 à 32).
+[62] Le total des coûts raisonnablement payés constitue le point de départ du calcul des dépens indemnitaires substantiels au titre du paragraphe 147(3.1) des Règles :
+21 En ce qui concerne le calcul des dépens sur une base procureur‑client, sur lequel se fondent les dépens indemnitaires substantiels, la règle de base veut que ces dépens procurent une indemnité complète de tous les coûts raisonnablement engagés. Le juge Cattanach a énoncé ce principe comme suit dans la décision Scott Paper Co. v. Minnesota Mining and Manufacturing Co., [1982] F.C.J. No. 917(QL) :
+[traduction] L’objectif que sous‑tend l’adjudication de dépens sur une base procureur‑client est de rembourser intégralement les frais, y compris les honoraires et les débours, qui ont été raisonnablement engagés dans le cadre d’une action intentée ou contestée, à l’exclusion des frais afférents à des services supplémentaires qui ne sont pas raisonnablement nécessaires.
+22 Les dépens accordés en vertu du par. 147(3.1) des Règles correspondent à 80 % des dépens sur une base procureur‑client. Étant donné l’escompte automatique de 20 % intégré à la règle, il est approprié d’adopter comme point de départ tous les coûts raisonnablement engagés.
+[Sun Life, précitée; non souligné dans l’original.]
+[63] Comme l’a déclaré la Cour dans la décision Sun Life, précitée (au par. 23), « [i]l n’appartient pas à la Cour de profiter du recul pour remettre en question le jugement des avocats quant au temps consacré à un appel », et je refuse de le faire en l’espèce : je n’examinerai pas le nombre d’heures de travail consacrées au dossier de l’appelant.
+[64] Par conséquent, je dois décider si les taux horaires facturés par les avocats figurant dans le mémoire des dépens devraient être réduits. Dans la décision Sun Life, précitée, la Cour a pris en compte les résultats du sondage annuel sur les taux horaires des avocats mené par la revue Canadian Lawyer pour déterminer ce qui constituait un taux horaire raisonnable pour les différents professionnels ayant travaillé au litige parce qu’il avait été établi dans cette affaire que l’appelant et ses avocats avaient adopté une formule de détermination des honoraires en fonction des résultats.
+[65] En l’espèce, les faits sont différents. Les avocats de l’appelant ont confirmé que le mémoire des dépens a été établi en fonction des frais payés par l’appelant, leur client. Je conclus donc que les taux horaires facturés par les avocats sont raisonnables et qu’ils représentent des frais raisonnables pour les services fournis à l’appelant à Toronto, la ville où ils ont été rendus.
+[66] De plus, l’intimée a fait observer que l’écart entre les dernières offres de règlement échangées entre les parties n’était que de 14 %, ce qui représentait approximativement 150 220 $ d’impôt. Ainsi, selon l’intimée, la demande de l’appelant d’obtenir des dépens indemnitaires substantiels est tout à fait disproportionnée compte tenu de la différence pécuniaire entre les offres de règlement respectives des parties, de sorte que la Cour devrait exercer son pouvoir discrétionnaire de ne pas adjuger des dépens en vertu du paragraphe 147(3.1) des règles.
+[67] Je ne partage pas l’avis de l’intimée. Je suis d’avis que la différence pécuniaire entre les offres de règlement respectives des parties n’est pas un facteur pertinent pour déterminer le montant des dépens indemnitaires substantiels auxquels l’appelant a droit en application du paragraphe 147(3.1) des Règles. Je ne me prononcerai pas sur le calcul effectué par l’intimée en l’espèce, si ce n’est pour dire qu’il me semble, vu que le montant d’impôt en jeu s’élevait à approximativement 2,3 millions de dollars, qu’une différence de 14 % équivaudrait à près de 325 000 $ et non à 150 000 $. De plus, ce calcul ne tient pas compte de la nature différente de la perte selon qu’elle est imputable au revenu ou au capital.
+[68] Par conséquent, j’adjuge à l’appelant des dépens indemnitaires substantiels pour la période postérieure au règlement de 300 712 $ en application du paragraphe 147(3.1) des Règles.
+3.4 L’adjudication des dépens pour la période du 19 septembre 2013 au 20 janvier 2016 (la « période antérieure au règlement »)
+[69] Comme je l’ai indiqué précédemment, pour la période antérieure au règlement, l’appelant demande des dépens d’indemnisation partielle de 103 107 $, représentant 60 % des frais réellement payés, soit, précise-t-il, une somme se situant dans la fourchette de 50 % à 75 % appliquée dans les décisions Zeller (Succession) c La Reine, 2009 CCI 135, 2009 DTC 1106 (au par. 9), et Spruce Credit, précitée (au par. 29).
+[70] Compte tenu de tous les facteurs énumérés au paragraphe 147(3) des Règles, je conclus qu’il convient que j’exerce mon pouvoir discrétionnaire pour adjuger à l’appelant des dépens excédant ceux du tarif pour la période antérieure au règlement. L’octroi de dépens représentant approximativement 30 % des frais réellement payés me semble raisonnable, approprié et équitable dans les circonstances. Pour ces motifs, une somme globale de 50 000 $ est adjugée à l’appelant à titre de dépens pour la période antérieure au règlement.
+a) Le résultat de l’instance
+[71] L’appelant a entièrement obtenu gain de cause dans le présent appel.
+b) Les sommes en cause
+[72] La somme en cause dans le présent appel totalisait 9 956 837 $ et concernait trois années d’imposition. Le montant d’impôt en jeu s’élevait à environ 2,3 millions de dollars. Je suis d’avis que cela représente un montant important, étant donné que l’appelant est un particulier.
+[73] À titre de comparaison, dans la décision Guibord et al c La Reine, 2011 CCI 53, au paragraphe 16, 2011 DTC 1076 (confirmée par la CAF dans Guibord c La Reine, 2011 CAF 346, 2012 DTC 5030), la juge V.A. Miller a déclaré que les sommes en cause, y compris les taxes et les pénalités, de 499 960,02 $ au titre de la Loi de l’impôt sur le revenu (LRC 1985, c 1 (5e supp), et ses modifications) et de 114 034,83 $ au titre de la Loi sur la taxe d’accise étaient « importantes ».
+[74] De plus, dans la décision Scavuzzo c La Reine, 2006 CCI 90, [2006] 2 CTC 2457, au paragraphe 9, le juge en chef Bowman (tel était alors son titre) a conclu que « le montant en cause était considérable. Il s’agissait d’un montant de plus de 2 000 000 $. »
+c) L’importance de la question en litige
+[75] L’appelant fait valoir que, compte tenu de l’importance de la somme en cause, la question en litige revêtait beaucoup d’importance pour lui et justifiait amplement les dépenses qu’il a faites dans le présent appel. Je ne suis pas d’accord.
+[76] Le facteur de l’importance de la question en litige concerne l’existence de questions d’interprétation législative, de questions constitutionnelles ou de questions sérieuses d’intérêt public. L’importance ne se mesure pas du point de vue de l’appelant, mais plutôt du point de vue juridique.
+[77] Une question peut revêtir une importance fondamentale pour une partie sans que cela signifie pour autant que la décision rendue dans le dossier a une valeur jurisprudentielle, comme l’a si bien expliqué le juge Hogan dans la décision Klemen c La Reine, 2014 CCI 369, [2015] 3 CTC 2114, au paragraphe 18 :
+18 L’appelant avance qu’étant donné que les questions soulevées en appel revêtaient, pour lui, beaucoup d’importance sur le plan financier, ce facteur milite en faveur d’une adjudication de dépens plus élevés à son endroit. Toutefois, la jurisprudence semble indiquer que la question n’est pas de savoir à quel point les questions soulevées sont importantes pour le contribuable (on pourrait s’attendre à ce qu’un contribuable qui interjette appel devant la Cour canadienne de l’impôt considérerait sa cause comme revêtant une importance capitale sur le plan personnel), mais bien de savoir si la décision concernant les questions soulevées aura une valeur jurisprudentielle importante. Par exemple, voir les décisions Henco [2014 CCI 278, aux par. 7 à 11] et General Electric Capital Canada Inc. v. The Queen [2010 CCI 490, 2010 DTC 1353, aux par. 32 et 33].
+[Non souligné dans l’original.]
+[78] La juge Campbell, dans la décision ACSIS EHR (Electronic Health Record) Inc c La Reine, 2016 CCI 50, 2016 DTC 1047, au paragraphe 13, a déclaré ce qui suit : « Ma conclusion était fondée principalement sur des constatations de fait, et donc ce facteur seul ne justifie pas des dépens plus élevés ou est neutre. »
+[79] Par conséquent, comme ma conclusion sur la nature des paiements faits par l’appelant en règlement d’un contrat à terme de gré à gré se fonde essentiellement sur des constatations de fait, ce facteur ne justifie pas l’octroi de dépens majorés à l’appelant.
+d) Toute offre de règlement présentée par écrit
+[80] Ce facteur ne justifie pas l’octroi de dépens majorés puisque son effet sera pris en compte relativement à l’application du paragraphe 147(3.1) des Règles pour la période postérieure au règlement (Repsol Canada Ltd c La Reine, 2015 CCI 154, au par. 13, 2015 DTC 1151 [Repsol]; confirmée par La Reine c Repsol Canada Ltd, 2017 CAF 193, [2017] ACF no 883 (QL)).
+e) La charge de travail et la complexité des questions en litige
+[81] On donne généralement plus d’importance à ce facteur dans l’adjudication des dépens. Comme l’a expliqué la juge Woods dans la décision Blackburn Radio Inc c La Reine, 2013 CCI 98, 2013 DTC 1098, au paragraphe 14 :
+14 Dans les litiges de nature fiscale, le travail que comportent ces derniers entre de plus en plus en ligne de compte lors de l’adjudication des dépens. Cette question a également été étudiée dans un litige en matière de propriété intellectuelle : Consorzio Del Prosciutto Di Parma c. Maple Leaf Meats Inc., 2002 CAF 417 (Maple Leaf Meats).
+[82] En l’espèce, l’audience a duré quatre jours et trois témoins ont été entendus, soit l’appelant et deux témoins experts, dont l’un (M. Kurgan) a été appelé par l’appelant et l’autre (M. Klein) par l’intimée. Les experts ont présenté leurs rapports ainsi que des rapports de réfutation. Ceux‑ci étaient volumineux et très techniques. M. Kurgan a témoigné pendant près d’une journée et M. Klein, un peu plus d’une journée entière.
+[83] Approximativement 585 heures ont été facturées par les avocats de l’appelant, ce qui ne comprend pas le temps consacré à la requête, pour laquelle 45 heures ont été facturées. Je suis d’avis que le total de ces heures représente un volume élevé de travail.
+[84] L’appelant a soutenu que la charge de travail était à la fois considérable et complexe compte tenu de l’évolution récente du droit pertinent et, à cet égard, il s’appuie sur la décision de notre Cour George Weston Limited c La Reine, 2015 CCI 42, 2015 DTC 1079 [George Weston]. Selon l’appelant, avant le prononcé de cette décision, l’Agence du revenu du Canada (l’« ARC ») soutenait qu’[traduction] « aux fins du calcul de l’impôt, un contribuable ne pouvait que “couvrir” les risques liés à une opération, comme la vente d’un bien ou le remboursement d’une dette libellée en devises étrangères ». Dans la décision George Weston, précitée, la Cour a conclu que la conception étroite qu’avait l’ARC de ce qu’est une opération de couverture ne trouvait aucun fondement en droit, avant de conclure que le recours par le contribuable à des crédits croisés pour protéger le ratio emprunts/capitaux propres du bilan consolidé constituait, dans les circonstances de l’espèce, une opération de couverture à des fins fiscales. Selon l’appelant, la décision George Weston, précitée, a étendu la portée de l’opération de couverture à des fins fiscales, qui dorénavant englobe non seulement les transactions, mais aussi les instruments. Par conséquent, l’appelant a dû convaincre la Cour que son intention était d’utiliser le contrat à terme de gré à gré pour réaliser des profits sur la diminution prévue, de courte durée, de la valeur des actions de la BNE et non pour couvrir cette diminution de valeur. Ainsi, l’appelant a dû rassembler, analyser et produire de nombreux éléments de preuve lors du procès, dont une preuve d’expert, sur toutes ses activités boursières afin de prouver son intention déclarée.
+[85] L’intimée soutient que la question fiscale en litige, à savoir si la perte était imputable au revenu ou au capital, n’est aucunement nouvelle ou inédite. Elle soutient que [traduction] « les règles de droit régissant les instruments dérivés financiers utilisés à titre d’instruments de couverture ainsi que le critère juridique servant à déterminer si une activité est un projet comportant un risque ou une affaire de caractère commercial sont bien établis ».
+[86] Je ne partage pas l’avis de l’intimée. J’estime que la présente affaire était passablement complexe et qu’elle soulevait des questions ardues. Je conviens avec l’appelant que la charge de travail était à la fois considérable et complexe.
+[87] Je suis d’avis que ce facteur justifie l’octroi de dépens majorés à l’appelant.
+f) La conduite des parties
+[88] L’appelant n’a pas présenté d’observations à la Cour au sujet du facteur relatif à la conduite des parties.
+[89] Cependant, les mesures suivantes ont été prises par l’intimée pour accélérer le déroulement de l’instance :
+[traduction]
+i) Le dépôt d’un jugement sur consentement partiel;
+ii) la préparation du recueil conjoint de documents;
+iii) la préparation des annexes à l’exposé conjoint des faits partiel présenté par les parties dans lesquelles figure la chronologie des événements et la comparaison de différentes opérations en fonction des sommes en jeu et du moment où elles ont été effectuées.
+[90] De plus, je suis d’avis que la conduite de l’appelant et de l’intimée à l’audience a été très productive et professionnelle.
+[91] J’estime que ce facteur, à lui seul, ne justifie pas l’octroi de dépens majorés à l’appelant.
+g) La nécessité des témoignages d’experts
+[92] L’appelant n’a pas présenté d’observations à la Cour au sujet du facteur relatif au caractère nécessaire des témoignages d’experts.
+[93] Les parties ne semblent pas contester l’utilité des témoignages d’experts. L’intimée a cependant soutenu que le témoignage présenté par le témoin expert de l’appelant [traduction] « n’était pas complexe et qu’il a duré environ une demi‑journée ».
+[94] Je suis d’avis que le témoignage des experts et leurs rapports étaient nécessaires en l’espèce et qu’ils ont été extrêmement utiles compte tenu du caractère complexe des contrats à terme de gré à gré et de l’importance de la somme en litige. Comme je l’ai indiqué précédemment, les témoignages des experts ont duré deux jours; M. Kurgan a témoigné pendant près d’une journée. Le point de vue de l’intimée ne peut être retenu.
+[95] J’estime que ce facteur justifie l’octroi de dépens majorés à l’appelant.
+3.5 L’adjudication des dépens pour la période suivant la période postérieure au règlement, y compris pour la requête
+[96] L’appelant demande également des dépens indemnitaires substantiels de 23 180 $ à l’égard de la requête.
+[97] L’intimée affirme qu’il n’y a pas lieu d’adjuger des dépens à l’appelant pour la requête puisque l’alinéa 151(1)b) des Règles prévoit que les dépens d’une demande de prorogation de délai doivent être supportés par la partie qui fait la demande.
+[98] L’alinéa 151(1)b) est rédigé ainsi :
+151(1) Dispositions spéciales […]
+b) les frais entraînés directement ou indirectement par une demande de prolongation du délai fixé par les présentes règles ou par des directives pour l’accomplissement de tout autre acte doivent être supportés par la partie qui fait la demande;
+[…]
+151(1) Special Provisions . . .
+(b) the costs of or occasioned by an application to extend the time fixed by these rules or by a direction for doing an act, shall be borne by the party making the application,
+. . .
+[99] Dans la décision Repsol, précitée, la Cour est arrivée à la conclusion que, compte tenu du libellé du paragraphe 147(3.1) des Règles, qui autorise l’octroi de dépens indemnitaires substantiels après la date de l’offre de règlement, et non seulement jusqu’à la date du jugement, les dépens indemnitaires substantiels couvraient les dépens de la requête relative aux dépens des appelants.
+[100] Cependant, en l’espèce, l’appelant a dû présenter une demande de prorogation de délai pour présenter la requête. Par conséquent, conformément à l’alinéa 151(1)b) des Règles, je ne lui adjugerai pas de dépens pour la période suivant la période postérieure au règlement, y compris pour la requête.
+[101] Chaque partie assumera ses propres dépens pour la période suivant le 16 février 2017.
+3.6 Les débours
+[102] L’intimée n’a pas contesté les débours réclamés par l’appelant.
+[103] Le paragraphe 147(3.1) des Règles permet l’octroi d’une somme pour les débours raisonnables et les taxes applicables. J’accorde donc les débours réclamés par l’appelant : 37 550 $ pour le rapport d’expert et le dépôt d’un avis d’appel ainsi que 1 711,35 $ pour Neesons (sténographie), en plus de la TVH applicable. Des dépens de 45 592,56 $ seront aussi adjugés à l’appelant, représentant la TVH de 13 % applicable aux honoraires professionnels s’élevant à 350 712 $.
+VI. CONCLUSION
+En conclusion, la requête est accueillie et les dépens sont adjugés à l’appelant de la manière suivante :
+période postérieure au règlement : dépens indemnitaires substantiels de 300 712 $;
+période antérieure au règlement : dépens, sous forme de sommeglobale, de 50 000 $;
+débours : 37 550 $ pour le rapport d’expert et le dépôt de l’avis d’appel ainsi que 1 711,35 $ pour Neesons (sténographie) et 222,35 $ représentant la TVH de 13 % applicable à cette somme;
+TVH : 45 592,56 $, représentant la TVH de 13 % applicable aux honoraires professionnels s’élevant à 350 712 $;
+période qui suit la période postérieure au règlement, y compris la requête : chaque partie assume ses propres dépens.
+Signée à Ottawa, Canada, ce 16e jour de mars 2018.
+« Dominique Lafleur »
+Juge Lafleur
+Traduction certifiée conforme
+ce 23e jour d’avril 2019.
+Elisabeth Ross, jurilinguiste
+ANNEXE A
+147(1) Règles générales — La Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter.
+(2) Des dépens peuvent être adjugés à la Couronne ou contre elle.
+(3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+i.1) de la question de savoir si les dépenses engagées pour la déposition d’un témoin expert étaient justifiées compte tenu de l’un ou l’autre des facteurs suivants :
+(i) la nature du litige, son importance pour le public et la nécessité de clarifier le droit,
+(ii) le nombre, la complexité ou la nature des questions en litige,
+(iii) la somme en litige;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+(3.1) Sauf directive contraire de la Cour, lorsque l’appelant fait une offre de règlement et qu’il obtient un jugement qui est au moins aussi favorable que l’offre de règlement, l’appelant a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+(3.2) Sauf directive contraire de la Cour, lorsque l’intimée fait une offre de règlement et que l’appelant obtient un jugement qui n’est pas plus favorable que l’offre de règlement, ou que l’appel est rejeté, l’intimée a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+(3.3) Les paragraphes (3.1) et (3.2) ne s’appliquent que si l’offre de règlement :
+a) est faite par écrit;
+b) est signifiée au moins trente jours après la clôture de la procédure écrite et au moins quatre‑vingt‑dix jours avant le début de l’audience;
+c) n’est pas retirée;
+d) n’expire pas moins de trente jours avant le début de l’audience.
+(3.4) Il incombe à la partie qui invoque le paragraphe (3.1) ou (3.2) de prouver :
+a) qu’il existe un rapport entre la teneur de l’offre de règlement et le jugement;
+b) que le jugement est au moins aussi favorable que l’offre de règlement ou qu’il n’est pas plus favorable que l’offre de règlement, selon le cas.
+(3.5) Pour l’application du présent article, les dépens indemnitaires substantiels correspondent à 80 % des dépens établis sur une base procureur‑client.
+(3.6) Lorsqu’elle détermine que le jugement accordé est au moins aussi favorable que l’offre de règlement visée au paragraphe (3.1) ou qu’il n’est pas plus favorable que l’offre de règlement visée au paragraphe (3.2), la Cour ne tient pas compte des dépens qui sont accordés dans le jugement ou qui seraient par ailleurs accordés, si l’offre de règlement ne prévoit pas le règlement de la question des dépens.
+(3.7) Il est entendu que si une offre de règlement qui ne prévoit pas le règlement des dépens est acceptée, une partie au règlement peut demander à la Cour une ordonnance quant aux dépens.
+(3.8) Tant qu’une décision n’aura pas été rendue sur toutes les questions en litige, à l’exception de celle relative aux dépens, aucune communication concernant une offre de règlement n’est faite à la Cour, sauf à un juge qui préside une conférence dans le cadre d’une instance et qui n’est pas celui qui présidera l’audition de cet appel.
+(4) La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+(5) Nonobstant toute autre disposition des présentes règles, la Cour peut, à sa discrétion :
+a) adjuger ou refuser d’adjuger les dépens à l’égard d’une question ou d’une partie de l’instance particulière;
+b) adjuger l’ensemble ou un pourcentage des dépens taxés jusqu’à et y compris une certaine étape de l’instance;
+c) adjuger la totalité ou partie des dépens sur une base procureur‑client.
+(6) La Cour peut, dans toute instance, donner des directives à l’officier taxateur, notamment en vue :
+a) d’accorder des sommes supplémentaires à celles prévues pour les postes mentionnés au tarif B de l’annexe II;
+b) de tenir compte des services rendus ou des débours effectués qui ne sont pas inclus dans le tarif B de l’annexe II;
+c) de permettre à l’officier taxateur de prendre en considération, pour la taxation des dépens, des facteurs autres que ceux précisés à l’article 154.
+(7) Une partie peut :
+a) dans les trente jours suivant la date à laquelle elle a pris connaissance du jugement;
+b) après que la Cour a décidé du jugement à prononcer, au moment de la présentation de la requête pour jugement,
+que le jugement règle ou non la question des dépens, demander à la Cour que des directives soient données à l’officier taxateur à l’égard des questions visées au présent article ou aux articles 148 à 152 ou qu’elle reconsidère son adjudication des dépens.
+147(1) General Principles — The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+(2) Costs may be awarded to or against the Crown.
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(i.1) whether the expense required to have an expert witness give evidence was justified given
+(i) the nature of the proceeding, its public significance and any need to clarify the law,
+(ii) the number, complexity or technical nature of the issues in dispute, or
+(iii) the amount in dispute; and
+(j) any other matter relevant to the question of costs.
+(3.1) Unless otherwise ordered by the Court, if an appellant makes an offer of settlement and obtains a judgment as favourable as or more favourable than the terms of the offer of settlement, the appellant is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+(3.2) Unless otherwise ordered by the Court, if a respondent makes an offer of settlement and the appellant obtains a judgment as favourable as or less favourable than the terms of the offer of settlement or fails to obtain judgment, the respondent is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+(3.3) Subsections (3.1) and (3.2) do not apply unless the offer of settlement
+(a) is in writing;
+(b) is served no earlier than 30 days after the close of pleadings and at least 90 days before the commencement of the hearing;
+(c) is not withdrawn; and
+(d) does not expire earlier than 30 days before the commencement of the hearing.
+(3.4) A party who is relying on subsection (3.1) or (3.2) has the burden of proving that
+(a) there is a relationship between the terms of the offer of settlement and the judgment; and
+(b) the judgment is as favourable as or more favourable than the terms of the offer of settlement, or as favourable or less favourable, as the case may be.
+(3.5) For the purposes of this section, substantial indemnity costs means 80% of solicitor and client costs.
+(3.6) In ascertaining whether the judgment granted is as favourable as or more favourable than the offer of settlement for the purposes of applying subsection (3.1) or as favourable as or less favourable than the offer of settlement for the purposes of applying subsection (3.2), the Court shall not have regard to costs awarded in the judgment or that would otherwise be awarded, if an offer of settlement does not provide for the settlement of the issue of costs.
+(3.7) For greater certainty, if an offer of settlement that does not provide for the settlement of the issue of costs is accepted, a party to the offer may apply to the Court for an order determining the amount of costs.
+(3.8) No communication respecting an offer of settlement shall be made to the Court, other than to a judge in a litigation process conference who is not the judge at the hearing, until all of the issues, other than costs, have been determined.
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+(5) Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) to award or refuse costs in respect of a particular issue or part of a proceeding,
+(b) to award a percentage of taxed costs or award taxed costs up to and for a particular stage of a proceeding, or
+(c) to award all or part of the costs on a solicitor and client basis.
+(6) Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) respecting increases over the amounts specified for the items in Schedule II, Tariff B,
+(b) respecting services rendered or disbursements incurred that are not included in Schedule II, Tariff B, and
+(c) to permit the taxing officer to consider factors other than those specified in section 154 when the costs are taxed.
+(7) Any party may,
+(a) within thirty days after the party has knowledge of the judgment, or
+(b) after the Court has reached a conclusion as to the judgment to be pronounced, at the time of the return of the motion for judgment,
+whether or not the judgment included any direction concerning costs, apply to the Court to request that directions be given to the taxing officer respecting any matter referred to in this section or in sections 148 to 152 or that the Court reconsider its award of costs.
+RÉFÉRENCE :
+2018 CCI 55
+No DU DOSSIER DE LA COUR :
+2013‑4032(IT)G
+INTITULÉ :
+JAMES S.A. MACDONALD
+ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATES DE L’AUDIENCE :
+Les 13, 14, 15 et 16 février 2017
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Dominique Lafleur
+DATE DE L’ORDONNANCE :
+Le 16 mars 2018
+COMPARUTIONS :
+Avocats de l’appelant :
+Me James Bunting
+Me Elie Roth
+Me Stephen S. Ruby
+Avocate de l’intimée :
+Me Suzanie Chua
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me James Bunting
+Me Elie Roth
+Me Stephen S. Ruby
+Cabinet :
+Davies Ward Phillips & Vineberg, S.E.N.C.R.L., s.r.l., Toronto (Ontario)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada

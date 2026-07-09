@@ -1,0 +1,250 @@
+Title: Brown v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/489229/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-123-489229-brown-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-11-25
+
+# Brown v. The Queen
+
+- Citation: 2020 TCC 123
+- Decision date: 2020-11-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4650, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brown v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-11-25
+Neutral citation
+2020 TCC 123
+File numbers
+2017-3892(IT)G
+Judges and Taxing Officers
+Sylvain Ouimet
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-3892(IT)G
+BETWEEN:
+DARRELL L. BROWN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 23, 2019, at Toronto, Ontario.
+Before: The Honourable Justice Sylvain Ouimet
+Appearances:
+For the Appellant:
+The Appellant himself
+For the Respondent:
+Alisa Apostle
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act from reassessments made by the Minister of National Revenue in respect of the Appellant’s 2011, 2012 and 2013 taxation years is dismissed, with costs in accordance with the attached reasons.
+Signed at Ottawa, Canada, this 25th day of November 2020.
+“Sylvain Ouimet”
+Ouimet J.
+Citation: 2020 TCC 123
+Date: 20201125
+Docket: 2017-3892(IT)G
+BETWEEN:
+DARRELL L. BROWN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Ouimet J.
+I. INTRODUCTION
+[1] This is an appeal by Mr. Darrell Brown (“Mr. Brown”) from reassessments made by the Minister of National Revenue (the “Minister”) in respect of his 2011, 2012 and 2013 taxation years. On March 10, 2016, the Minister reassessed Mr. Brown to disallow business losses claimed by Mr. Brown for each of these taxation years. All of the losses related to an alleged business activity of Mr. Brown that consisted of providing management services. The source of these losses are the expenses incurred by Mr. Brown in order to provide services to a client, the Bezpala Brown Gallery (the “Gallery”). [1]
+[2] For the 2011, 2012 and 2013 taxation years, Mr. Brown claimed the following business expenses:
+Taxation years
+Business expenses
+2011
+$90,832 [2]
+2012
+$115,273 [3]
+2013
+$113,932 [4]
+[3] For the 2011, 2012 and 2013 taxation years, Mr. Brown claimed the following business losses:
+Taxation years
+Business Losses [5]
+2011
+$90,696
+2012
+$115,200
+2013
+$113,932
+[4] During the trial, Mr. Brown conceded that, for the 2011 and the 2012 taxation year, the business expenses and losses should be reduced by $41,610 for the 2011 taxation year and $69,743 for the 2012 taxation year. [6] Therefore, the amount of business losses at issue in this appeal are $49,086 and $45,457 for the 2011 and 2012 taxation years respectively.
+[5] For each taxation year, the Minister disallowed Mr. Brown’s business losses for the following reasons:
+1. The business losses did not come from a business source within the meaning of the Income Tax Act (“ITA”) because Mr. Brown could not reasonably expect to make a profit from the activity;
+2. The expenses claimed by Mr. Brown were not business expenses as they were not claimed for the purpose of gaining or producing income from the activity; and
+3. The business expenses were unreasonable because they did not relate to the business for which they were claimed. [7]
+II. ISSUE
+[6] The issue in this appeal is as follows:
+Did the Minister correctly determine that for the 2011, 2012 and 2013 taxation years, the business losses claimed by Mr. Brown should be disallowed?
+[7] In answering these questions, the Court will conduct an analysis to determine the following:
+1. Whether during the 2011, 2012 and 2013 taxation years, Mr. Brown had a source of business income pursuant to section 9 of the ITA?
+2. Whether the business expenses claimed by Mr. Brown for the 2011, 2012 and 2013 taxation years were incurred for the purpose of gaining or producing income from a business and if they were therefore deductible pursuant to subsection 18(1)a) of the ITA?
+3. Whether these business expenses were not reasonable under the circumstances and therefore not deductible pursuant to Section 67 of the ITA?
+III. THE RELEVANT LEGISLATIVE PROVISIONS
+[8] The key applicable provisions of the ITA are:
+Income or Loss from a Business or Property
+Basic Rules
+Income
+9 (1) Subject to this Part, a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from that business or property for the year.
+Loss
+(2) Subject to section 31, a taxpayer’s loss for a taxation year from a business or property is the amount of the taxpayer’s loss, if any, for the taxation year from that source computed by applying the provisions of this Act respecting computation of income from that source with such modifications as the circumstances require
+. . .
+Deductions
+General limitations
+18 (1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+General limitation
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+. . .
+General limitation re expenses
+67 In computing income, no deduction shall be made in respect of an outlay or expense in respect of which any amount is otherwise deductible under this Act, except to the extent that the outlay or expense was reasonable in the circumstances.
+IV. THE FACTS
+[9] Mr. Brown is a lawyer. He testified that, over the last three decades, he has worked extensively in providing consulting and management services in Canada and in the United States of America. He has also worked as a consultant for international development projects in Eastern Europe, Central and Southeast Asia.
+[10] In September 2008, Mr. Brown returned to Canada after being overseas for 11 years. Upon their return to Canada, Mr. Brown and his spouse, Bezpala Brown (“Mrs. Brown”) intended to pursue a business venture. They decided to do so because Mrs. Brown could not be employed in Canada at that time. Therefore, in order for her to work, they decided to find an activity that she could engage in with the goal of making a profit while doing so. Mrs. Brown, being a visual artist and an art historian, decided to open an art gallery. Additionally, this would give them the opportunity to help a friend, Mr. Fariz Ahmadov (“Mr. Ahmadov”), by giving him the opportunity to work for the gallery upon his arrival to Canada as a refugee from Azerbaijan. According to Mr. Brown, Mr. Ahmadov was a talented artist and an economist in his home country. For the purpose of operating the future gallery, Mr. and Mrs. Brown incorporated 2185928 Ontario Inc. Mr. Brown owned 51% common shareholder of 2185928 Ontario Inc and Mrs. Brown owned the other 49%. The future gallery would be operating under the name Bezpala Brown Gallery (the "Gallery").
+[11] In 2009, Mr. and Mrs. Brown envisioned to open a gallery that would be selling the works of distinguished international artists not known in Canada, as well of those of emerging Canadian artists. Mrs. Brown and Mr. Ahmadov conducted extensive market research to determine the likelihood of success for the envisioned gallery. [8] Based on their research, Mrs. Brown and Mr. Ahmadov determined that there was a niche for this kind of gallery in Toronto. Their research also suggested that it would take five years and considerable investment to break even. As for Mr. Brown, he did not participate in conducting the research. [9] However, Mr. Brown had worked in over fifteen countries over the years. During that time, he had done some philanthropic work and thereby met distinguished international artists. He believed that the envisioned gallery would be successful as he believed that the work of these artists and others might sell well in Canada. [10] After a while, they identified a location for the future gallery on Front Street in Toronto.
+[12] In the fall of 2009, Mr. Brown met with the principal of Rotveil Technologies in order to obtain financing for the project. The principal of Rotveil Technologies was the brother of Mrs. Brown. [11] He agreed to finance in the Gallery.
+[13] The Gallery opened its doors in April 2010. Mr. and Ms. Brown testified to the uncharacteristically warm reception the Gallery received by the art community. The Gallery received reviews in newspapers, and it attracted prestigious attendees at events.
+[14] At that time, Mr. Brown was not providing any extensive services to the Gallery. [12] His law practice was keeping him very busy. He was a partner at the law firm Goldblatt Mitchell LLP. [13] Nonetheless, he provided the Gallery some managerial and administrative services, including marketing, transportation, advertising, promotion, systems administration and bookkeeping amongst others. [14]
+[15] In September 2010, Mrs. Brown became ill and unable to run the Gallery as planned. [15] Mr. Brown began working evenings and weekends at the Gallery to do what his wife could not do because of her illness. In addition to Mrs. Brown’s illness, she became pregnant in the fall of 2010. This unexpected event required him to become more involved than he had initially anticipated. [16] Mr. Ahmadov took up most of her tasks, but struggled with the considerable amount of work that had to be done on his own. [17] Mr. Brown took on more by performing managerial and administrative activities in the evenings and additionally worked on-site at the Gallery during weekends. He took time away from his work to attend out of town exhibitions, transport artwork and arrange logistics during exhibitions. Meanwhile, according to Mr. Brown, Rotveil Technologies paid all of the Gallery’s expenses for 2010. [18] Rotveil Technologies transferred to the Gallery $118,000 for that purpose. In 2010, the Gallery ran a loss of $108,000.
+[16] At the beginning of 2011, it became apparent to M. Brown that Mr. Ahmadov was becoming increasingly stressed because the pressure was on him to perform the day-to-day activities of the Gallery without the assistance of Mrs. Brown. Mr. Brown also learned that Rotveil Technologies would not be providing funds on an ongoing basis as they had expected. The Gallery was incurring significant expenses above the revenue it was generating. Mr. Brown had been personally funding much of the expenses related to the management and administration of the Gallery as well as performing a large portion of the personal hours required to complete them. It became apparent to Mr. Brown that he was going to have to step in to find funding to keep the Gallery afloat, otherwise it would have to be closed. If that happened, he would be personally liable for the commercial lease of the Gallery and, as a result, facing losses of between $300,000 to $330,000.
+[17] The situation led Mr. Brown to suggest to his wife that he enter into an agreement with 2185928 Ontario Inc. whereby he would provide management services to the Gallery with compensation to be paid on a percentage of gross revenues. Mr. Brown said this was the only way he could keep the Gallery going.
+[18] On January 4, 2011, the Board of directors of 2185928 Ontario Inc. issued a resolution in which it was resolved that Mr. Brown be retained on a contract or services basis to provide the following assets and services to 2185928 Ontario Inc.:
+a) Office equipment, computers, furniture, music, amplification and sound equipment;
+b) Automobiles required by the Client for use in the business;
+c) Accounting, tax filling and payroll services;
+d) Filing and general clerical services;
+e) Delivery services;
+f) Purchasing and inventory control;
+g) Systems administration;
+h) Collection of accounts receivable;
+i) Telephone and internet services; and
+j) Such other assets and services as may be reasonably required by the Corporation from time to time.
+[19] According to the resolution, in consideration for the assets and services provided, Mr. Brown was to receive an annual management fee equal to 20% of the Gallery’s annual revenues in excess of $100,000 per year, plus HST if the management fee exceeded $30,000. [19] The resolution also provided that if no fees were payable in 2011, the parties would revisit the Agreement in 2012 to enter into a longer-term arrangement so Mr. Brown could recover the funds expended in the process of providing management services. [20]
+[20] During 2011, Mr. Brown did provide services such as advertising, promotion, bookkeeping, accounting, art delivery, art installations, and other as they arose. Mr. Brown stated that he used a home office for his law practice and to provide services to the Gallery, but says it was mostly for the services to the Gallery. Mr. Brown’s time expended and operating expenses increased. He said that he paid the expenses associated with the activities, he used his personal funds, including his personal credit cards; he also cashed out RRSPs. [21]
+[21] The Gallery’s 2011 financial statement showed that the Gallery had revenue of $37,000 from sales and total revenue of $39,000. The Gallery had expenses of $107,816.60 and net income of -$93,414,92. The financial statement showed a shareholder loan of $81,870.60 with 7% interest from Mr. Brown. [22] The loan was to help pay the Gallery’s operating expenses. [23] Mr. Brown admitted he never collected on the interest or any of the amount of that loan. [24]
+[22] In 2012, Mr. Brown registered a sole proprietorship called BBG Management Services. [25] On October 5, 2012, BBG Management Services entered into a Management Services Agreement with the Gallery. According to the terms of the agreement, BBG Management Services would provide the same assets and services to the Gallery that Mr. Brown had been providing to the Gallery pursuant to the January 4, 2011 agreement. [26] BBG Management Services compensation in exchange for Mr. Brown’s services was also the same that he had received pursuant to the January 4, 2011 agreement that is 20% of annual revenue in excess of $100,000 per annum plus HST. [27]
+[23] The Gallery’s 2012 financial statement showed that the Gallery had revenue of $43,808.89 from sales and $48,513.49 total. The Gallery had expenses of $146,127.89 and net income of -$121,224.42. The financial statement also showed a total shareholder loan of $175,910.00. In 2012, Mr. Brown loaned an additional $94,000 to the Gallery. [28]
+[24] The Gallery’s 2013 financial statement showed a commission income of $89,517.51 from sales and $98,029.24 total. The Gallery had expenses of $112,674.52 and net income of -$77,220.21. The financial statement also showed a total shareholder loan of $267,656.78. In 2013, Mr. Brown loaned an additional $91,746.78 to the Gallery. [29]
+V. ANALYSIS
+1. Did M. Brown have a source of business income during the taxation year under appeal?
+A. The Applicable Law
+[25] Section 9 of the ITA lays down the fundamental rule regarding sources of income consisting of a business or property. It also deals with the loss suffered by a taxpayer in relation to a business or property. Section 9 of the ITA reads as follows:
+Income
+9 (1) Subject to this Part, a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from that business or property for the year.
+Loss
+(2) Subject to section 31, a taxpayer’s loss for a taxation year from a business or property is the amount of the taxpayer’s loss, if any, for the taxation year from that source computed by applying the provisions of this Act respecting computation of income from that source with such modifications as the circumstances require.
+[26] In Stewart v. Canada [30] , the Supreme Court of Canada (the “SCC”) stated that, when applying Section 9 of the ITA, the Court must first determine whether the taxpayer had a source of either business or property income during the relevant taxation year. [31]
+[27] In Stewart, the SCC set out a two-stage approach to determine whether a taxpayer has a source of income consisting of business or property:
+Is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavour?
+If it is not a personal endeavour, is the source of the income a business or property? [32]
+[28] Under the first stage, the general question is whether a source of income exists, while, under the second stage, the question is whether the source is a business or a property. [33] The purpose of the first stage of the test is to distinguish between commercial and personal activities. At this stage, the Court must determine whether the taxpayer's venture contained elements that suggest that it could be considered as a hobby or another personal activity. [34] If the activity do not contained a personal element and is clearly commercial, the Court does not need to conduct further enquiry and the activity will be classified as commercial. [35]
+[29] If there is a personal element to the activity, the Court must determine whether the activity has been carried on in a sufficiently commercial manner to constitute a source of business or property income. [36] This assessment should not be used to second-guess the business judgment of the taxpayer. It is the commercial nature of the taxpayer’s activity that has to be evaluated, not his or her business acumen. [37] The issue of whether or not a taxpayer has a source of business or property income is to be determined by looking at the commerciality of the activity in question. [38] The Court must determine whether the taxpayer intended to carry on the activity for profit and whether there is evidence to support that intention. [39] This requires the taxpayer to establish that his or her predominant intention was to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour. [40] The taxpayer must demonstrate that he or she had the subjective intention to make a profit from the activity and the Court must determine if that was the case by looking at a variety of objective factors. [41] In Stewart, the SCC stated that the objective factors listed by Dickson J. in Moldowan [42] are some of the factors that can be considered by the Court but that the factors will differ depending on the nature and extent of the activity. The factors listed by Dickson J. were (1) the profit and loss experience in past years; (2) the taxpayer’s training; (3) the taxpayer’s intended course of action; and (4) the capability of the venture to show a profit. [43] The Court reiterated Dickson J’s caution that this list was not intended to be exhaustive. Reasonable expectation of profit is only one of the factors that the Court has to take into consideration in determining whether an activity has a sufficient degree of commerciality to be a source of business or property income. [44]
+[30] Finally, if the Court finds the activity is a source of income, the Court moves on to characterize the source as either business or property.
+B. Application of the Law to the Facts of this Case
+[31] Counsel for the Respondent suggested that this Court did not have to determine whether Mr. Brown had a source of income pursuant to section 9 of the ITA. Counsel suggested that the Court could dispose of this appeal by determining first whether the business expenses claimed by Mr. Brown were incurred for gaining or producing income from his business. As the Court told counsel at trial, the Court will not proceed this way. The Court cannot deal with the remoteness of an expense from its source when the deductibility of the expenses is not possible in the first place due to the absence of a source of business income. [45]
+[32] In order to dispose of this appeal, it is necessary to follow the two-stage approach as set out in the Stewart decision.
+[33] The first stage of this approach consists of determining if Mr. Brown provided management services in the pursuit of profit or if it was a personal endeavour. In this case, the evidence clearly showed that during the relevant taxation years, there was a personal element to the activity. The evidence is that Mr. Brown only began providing extensive management services to the Gallery because Mrs. Brown became ill and of her pregnancy. These events made her unable to run the Gallery as they both had planned. According to Mr. Brown, in early January 2011, while Mrs. Brown was still ill, the situation took a turn for the worse because Mr. Ahmadov was no longer able to support the pressure of performing the day-to-day activities of the Gallery by himself.
+[34] Therefore, the Court finds that Mr. Brown only began providing management services because of Mrs. Brown health issues. The evidence is that it was one of the reasons why he continued to provide management services to the Gallery throughout the relevant taxation years. Therefore, there was a personal element to Mr. Brown’s activity during all of the said taxation years.
+[35] Since the Court determined that there was a personal element to Mr. Brown’s activity, the Court must determine whether Mr. Brown provided management services in a sufficiently commercial manner for the activity to constitute a source of business income. The Court must determine whether Mr. Brown intended to provide management services for profit and whether there is evidence to support this intention. Mr. Brown had to establish on the balance of probability that his predominant intention was to make a profit from the activity and that he provided management services in accordance with objective standards of businesslike behaviour.
+[36] The evidence is that Mr. Brown provided management services to the Gallery in order to help Mrs. Brown and to offload as much as possible of the Gallery’s expenses to himself. This was done in order to allow the Gallery to be in operation until it revenues be sufficient to pay all of its expenses. [46] This is what Mr. Brown stated in his testimony. Based on the evidence, this never changed during the relevant taxation year. Clearly, Mr. Brown did not begin providing services and did not continue to do so with the goal of making a profit. On that basis alone, the Court has concluded that Mr. Brown did not establish on the balance of probability that his predominant intention was not to make a profit from the activity and therefore, the activity was not a source of business income during the relevant taxation years.
+[37] Mr. Brown offered evidence to try to establish that he carried on the activity like a businessperson would have. The Court does not accept that submission. First, a businessperson would not have accepted to be compensated for his services as Mr. Brown did. Before beginning providing management services, Mr. Brown knew that his only client, the Gallery, had suffered a loss of $108,000 in 2010. Mr. Brown also knew that Rotveil Technologies would no longer provide funding to the Gallery. He therefore knew that his only client could not paid for its services. Knowing that, Mr. Brown agreed to be paid on an annual fee basis. He also agreed to be paid only if the Gallery’s annual revenues were in excess of $100,000 per year at a rate of 20% of the Gallery’s annual revenue in excess of $100,000. Mr. Brown took that decision knowing that the Gallery’s annual revenue for 2010 were of $39,723,70 and that he was expecting that the Gallery would only be profitable after 5 years. [47] Given the financial situation of the Gallery, a businessperson would not have accepted to be compensated according to the modalities accepted by Mr. Brown.
+[38] Mr. Brown attempted to convince the Court that it was an acceptable way of being compensated because he expected the Gallery to be successful in the primary and secondary market of art sales. With respect to the primary market, he testified that the Gallery had 45 artists under contract on a consignment basis to provide artwork for exhibitions and walk-in sales on the primary market. He provided a list of the artists with whom the Gallery had contracted with, but none of the contracts were submitted into evidence. [48] He also said there were other contracts from significant eastern European artists but they were not on the list. [49] None of these contracts were offered in evidence. These contracts were on his list of documents and he did not provide an explanation as to why they were not offered in evidence. [50]
+[39] With respect to the secondary market, Mr. Brown testified that he expected to make profit from the activity because he believed the Gallery would be successful on that market. According to Mr. Brown, the main source of revenue of art galleries does not flow from exhibitions or related walk-in sales (i.e., the primary market sales) but from the secondary market sales. In that market, a gallery facilitates the sale of significant pieces for high prices, sometimes splitting commissions with other brokers or auction houses. [51] At the beginning of his own testimony, Mr. Brown said that the Gallery would be selling the works of distinguished international artists not known in Canada, as well of those of emerging Canadian artists. A market research was conducted by Mrs. Brown with that market in mind for the Gallery. Mr. Brown never mentioned that the Gallery would be involved in the secondary market. The evidence does not show on the balance of probability that such a market even existed for the Gallery. Furthermore, Mr. Brown did not offer any evidence, nor included on his list of documents any documentary evidence concerning the secondary art sales for the artworks listed in his book of documents, even though he maintained the documentation existed. [52] Mr. Brown described from memory the nature of the contracts in general terms. At best, the evidence is that the Gallery tried to enter into the secondary market hoping for a big payday without much success. The evidence is not to the effect that Mr. Brown knew that the Gallery could be successful in this market when he decided to offer management services to the Gallery and that, therefore, he could expect a big paid day based on the way his compensation was set out.
+[40] Finally, Mr. Brown attempted to establish that he expected to make a profit from the activity by testifying that he had other clients to whom he had provided services. During the relevant taxation years, Mr. Brown did not claim any expenses with respect to these services and they did not generate any revenue. He made references to negotiating the purchase of an MRI machine for a Ukrainian clinic, assisting in the creation of a not-for-profit, the Business Arts and Cultural Innovation Centre, and consulting for the Association in Defence of the Wrongly Convicted (now, Innocence Canada). Mr. Brown also stated that he provided services to the Canadian National Exhibition Association and Foundation, Genmo and the Canadian Federation of Pensioners. Mr. Brown did not offer credible evidence to support these facts. Therefore, the Court could not even conclude on the balance of probability that Mr. Brown did offer these services. Furthermore, these services have nothing in common with the type of services provided to the Gallery and Mr. Brown did not attempt to explain to the Court why they should be considered as being part of the same activity. As previously stated, at the beginning of his testimony, Mr. Brown said that he only began to provide management services to the Gallery and only to the Gallery in order to offload some of the Gallery’s expense to himself. Mr. Brown never mentioned that he wanted to offer any other types of services to other clients, this came only much later into his testimony.
+VI. CONCLUSION
+[41] The Court concludes, on the balance of probability, that Mr. Brown’s activity contained elements that suggest that it was a personal activity. The Court also concludes that the activity was not carried on in a sufficiently commercial manner to constitute a source of business. Mr. Brown did not show that his predominant intention was to make a profit from the activity. Therefore, the Minister correctly determined that the business losses claimed by Mr. Brown for the 2011, 2012 and 2013 taxation years had to be disallowed.
+[42] Since the Court can dispose of Mr. Brown's appeal on the basis of this conclusion alone, the Court does not need to reach a conclusion on the other issues in dispute.
+[43] For all these reasons, the appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 25th day of November 2020.
+“Sylvain Ouimet”
+Ouimet J.
+CITATION:
+2020 TCC 123
+COURT FILE NO.:
+2017-3892(IT)G
+STYLE OF CAUSE:
+DARRELL L. BROWN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 23, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Sylvain Ouimet
+DATE OF JUDGMENT:
+November 25, 2020
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+For the Respondent:
+Alisa Apostle
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Vol 1 Transcript, page 70, lines 6 – 17.
+[2] Trial transcript, vol. 1, page 12.
+[3] Trial transcript, vol. 1, page 12, line 8 – 10.
+[4] Trial transcript, vol 1 page 12, line 11 - line 27.
+[5] Trial transcript, vol 1, page 10, line 10-14.
+[6] Trial transcript, vol 1, page 102-104.
+[7] Trial transcript, vol 1, page 90 & 92.
+[8] Vol 1 Transcript, page 30, line 21 - page 31, line 7.
+[9] Vol 1 Transcript, page 31, line 8-9.
+[10] Vol 1 Transcript, page 30, line 21 – page 31, line 7.
+[11] Vol 1 Transcript, page 129, line 22 - 24.
+[12] Vol 1 Transcript, page 33, line 22 – page 34, line 6.
+[13] Vol 1 Transcript, page 5, line 26 – page 6, line 13.
+[14] Correspondence from D. Brown to A. Bottrell with attachments at page 2 (tab 14; Respondent’s Book of Documents; in under the party admissions exception to hearsay).
+[15] Vol 1 Transcript, page 35, line 12-23.
+[16] Vol 1 Transcript, page 115, line 26 – page 116, line 17.
+[17] Vol 1 Transcript, page 35, line 24-28.
+[18] Vol 1 Transcript, page 36, line 22 - 28.
+[19] Vol 1 Transcript, page 39, line 9-19.
+[20] Vol 1 Transcript, page 39, line 20-25.
+[21] Vol 1 Transcript, page 40, line 17 – page 41, line 1.
+[22] Vol 1 Transcript, page 149.
+[23] Vol 1 Transcript, page 150, line 3 - 6.
+[24] Vol 1 Transcript, page 149-150.
+[25] Vol 1 Transcript, page 8, line 1-23.
+[26] Respondent’s Book of Documents tab 4.
+[27] Respondent’s Book of Documents tab 4.
+[28] Respondent’s Book of Documents tab 5.
+[29] Respondent’s Book of Documents tabs 8 and 9.
+[30] Stewart v. Canada, 2002 SCC 46.
+[31] Ibid at para 50.
+[32] Stewart at para 50.
+[33] Ibid.
+[34] Ibid at para 52.
+[35] Ibid at para 60.
+[36] Ibid.
+[37] Ibid at para 55.
+[38] Ibid.
+[39] Stewart par. 54
+[40] Ibid.
+[41] Ibid.
+[42] Moldowan v R, [1997] 1 SCR 480.
+[43] Stewart at para 55.
+[44] Ibid at para 58.
+[45] Motech Moldings Inc. v. R.; 2012 TCC 351 at para. 68. See Vol 2 Transcript, page 309-310.
+[46] Vol 1 Transcript, page 188, lines 8–22; Vol 2 Transcript, page 330, lines 20-23 & pages 335-337.
+[47] Vol 1 Transcript, page 119, line 10-18.
+[48] Vol 1 Transcript, page 119, line 18-21; page 119 line 28 – page 120, line 6.
+[49] Vol 1 Transcript, page 120, line 15-20.
+[50] Vol 1 Transcript, page 124, line 12-13; page 125-128.
+[51] Vol 1 Transcript, page 54, line 15-25.
+[52] Vol 1 Transcript, page 130 - on.

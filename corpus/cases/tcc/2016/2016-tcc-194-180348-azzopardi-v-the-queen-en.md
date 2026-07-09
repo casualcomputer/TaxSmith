@@ -1,0 +1,220 @@
+---
+title: "Azzopardi v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/180348/index.do"
+last_modified: "2016-09-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 194"
+citation2: ""
+neutral_citation: "2016 TCC 194"
+decision_date: "2016-09-14"
+language: "en"
+item_id: "180348"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2888
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:42:25.253000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5513556dcf833674c083df1d1737f13e9daf17f715f7afdc0b4a885b69a780b6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Azzopardi v. The Queen
+
+- Citation: 2016 TCC 194
+- Decision date: 2016-09-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2888, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Azzopardi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-09-14
+Neutral citation
+2016 TCC 194
+File numbers
+2014-3806(IT)APP, 2014-3807(IT)APP
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-3806(IT)APP
+BETWEEN:
+EMMANUEL AZZOPARDI,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on October 27, 2015 at Windsor, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Josh Kumar
+AMENDED ORDER
+IN ACCORDANCE with the consolidated Reasons for Order attached, the applications for an extension of time to file Notices of Appeal are granted for the 2001, 2003, 2005 and 2011 taxation years only and the Notices of Appeal for those taxation years are deemed received as filed.
+The application for an extension of time to file a Notice of Appeal for 2002 taxation year is dismissed.
+This Amended Order and Amended Reasons for Order are issued in substitution of the Order and Reasons for Order dated September 12, 2016.
+Signed at Ottawa, Canada, this 14th day of September 2016.
+“R.S. Bocock”
+Bocock J.
+Docket: 2014-3807(IT)APP
+BETWEEN:
+THOMAS AZZOPARDI,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+___________________________________________________________________
+Application heard on October 27, 2015 at Windsor, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Agent for the Applicant:
+Emmanuel Azzopardi
+Counsel for the Respondent:
+Josh Kumar
+AMENDED ORDER
+IN ACCORDANCE with the consolidated Reasons for Order attached, the applications for an extension of time to file Notices of Appeal are granted for the 2001 and 2002 taxation years only and the Notices of Appeal for those taxation years are deemed received as filed.
+The applications for an extension of time to file a Notice of Appeal for 2011 taxation year and a Notice of Objection for 2012 taxation year are dismissed.
+This Amended Order and Amended Reasons for Order are issued in substitution of the Order and Reasons for Order dated September 12, 2016.
+Signed at Ottawa, Canada, this 14th day of September 2016.
+“R.S. Bocock”
+Bocock J.
+Citation: 2016 TCC 194
+Date: 20160914
+Docket: 2014-3806(IT)APP
+BETWEEN:
+EMMANUEL AZZOPARDI,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2014-3807(IT)APP
+BETWEEN:
+THOMAS AZZOPARDI,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+CONSOLIDATED REASONS FOR ORDER
+Bocock J.
+I. Overview of the Various Applications to Extend Time
+[1] These applications were heard together. They involve two brothers who were reassessed in respect of a common investment in a limited partnership. Both brothers failed to file Notices of Objection and/or Notices of Appeal within the respective 90 day period prescribed under sections 167 and 169 of the Income Tax Act (the “as of right” period) for various taxation years.
+A. Certain Applications allowed on consent
+[2] With respect to certain taxation years, 2001 and 2002 for Thomas and 2001, 2003, 2005 and 2011 for Emmanuel, the Respondent does not oppose the application for an extension of time to file Notices of Appeal. Such applications were clearly brought within the one year discretionary period (the “one year grace period”) after the expiration of the as of right period.
+[3] The Court is satisfied, that Thomas and Emmanuel Azzopardi brought their above-described applications within the one year “grace period” after the expiration of the 90 day “as of right period”. Additionally, they had bona fide intentions to appeal, attempted to do so as soon as circumstances permitted, have reasonable grounds for their appeals and it is just and reasonable to grant the applications. Therefore, the Notices of Appeal as filed for those specific taxation years shall be received by the Court and those appeals shall proceed to hearing by virtue of the Order attached to these reasons.
+B. Years Remaining in Dispute
+[4] The referenced years above do not include all the taxation years which the Azzopardi brothers would like to appeal. For Thomas, 2011 and 2012 and for Emmanuel 2002 remain in dispute. These disputed applications comprise the subject matter of the consolidated reasons for Order which follow.
+[5] The Court shall deal with Thomas’ and Emmanuel’s applications separately since they involve slightly different facts and legal determinations.
+II. Issues in both Applications
+A. Thomas’ application in brief
+[6] Thomas’ applications involve two years. 2011 involves an application to extend the time to file a Notice of Appeal. Although his application does not request it, 2012 involves an application to file a Notice of Objection which has never been filed.
+B. Emmanuel’s application in brief
+[7] For Emmanuel’s 2002 taxation year, the Minister returned an assessment of no tax payable or in common parlance, a “Nil” assessment. Therefore, the Minister asserts that Emmanuel’s previous Notice of Objection and Notice of Appeal are inapplicable since there is no right of appeal from an assessment which does not claim an amount for tax: Babich v. HMQ 2007 FCA 151 at paragraph 7. As described below, during the hearing of the application, Emmanuel indicated he had requested a loss determination under section 152(1.1) of the Act. The Court held its decision in abeyance to learn the Minister’s position. Hence, the extended period between the original hearing date and these reasons.
+C. Analysis and discussion regarding Thomas’ Application for 2011 and 2012 taxation years
+[8] Many decisions of this Court are issued regarding the 90 day “as of right” and the “one year grace” filing periods for Notices of Objection and Notices of Appeal alike. Generally, unless this Court can constructively find that a taxpayer has, more likely than not, filed an objection or appeal with some recognizable and connected authority within the “as of right period” or filed an application to extend within the “one year grace period”, the taxpayer is statutorily barred by Parliament from having her or his appeal determined by this Court. In the absence of such an act or constructive facsimile, this Court has no jurisdiction to grant an order. A clear and mandatory prohibition impressed in the Income Tax Act (or Excise Tax Act) emasculates such authority. The very wording of the sub-section 167(5) clearly states so [explanatory comments in brackets and underscoring are added]:
+(5) No order shall be made under this section [i.e. the one year grace period] unless
+(a) the application is made within one year [the “grace period”] after the expiration of the time limited by section 169 [the “as of right period”] for appealing; and
+(b) the taxpayer demonstrates that,
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted, and
+(iv) there are reasonable grounds for the appeal. [underscoring added]
+[9] The conjunction “and” placed between the one year grace period and the four pronged evidentiary requirement together with the preamble containing the negative mandatory language of “No order shall issue” are plain, clear and fatal. The Federal Court of Appeal has said exactly that on several occasions, none more clearly than in the case of MNR v Minuteman Press, (1988) 88 DTC 6278 where the Court held:
+…Once it has been determined that no application was made for an extension of time to appeal within the one year limit, the question of whether or not it would be just and equitable to grant an extension of time to appeal does not arise.
+[10] If a taxpayer has not brought an application to extend within the one year grace period, the Court has no jurisdiction to move to a consideration of the subsequent four pronged evidentiary factors for exercising its discretion.
+[11] Therefore, in considering any application to extend the time to file a Notice of Appeal or a Notice of Objection, the first issue is: factually did the taxpayer effectively or constructively file an application to extend within the one year grace period. This first step cannot be conflated with the subsequent or second one, namely, do evidentiary grounds exist to grant the extension within the one year grace period?
+[12] Only after the Court concludes the application to extend has been filed within the “one year grace period”, need it be concern with the four pronged evidentiary requirements.
+[13] With respect to the 2011 taxation year of Thomas, a Notice of Confirmation was issued on June 21, 2013. The Minister asserts no Notice of Appeal was filed within the 90 day “as of right period” and that no application to extend was filed within the “one year grace period” pursuant to section 167(5)(a).
+[14] With respect to 2012, the Minister asserts that neither a Notice of Objection nor an application to extend the time to file a notice of objection was ever received by her pursuant to section 169(1). Such subsection requires a notice of objection as a condition precedent to instituting an appeal: Bormann v R, 2006 FCA 83 at paragraph 3 to 5, which states:
+[3] Section 169(1) of the Income Tax Act obliges a taxpayer to serve [a] Notice of Objection in order to appeal an assessment. In other words, service of a Notice is a condition precedent to the institution of an appeal.
+[4] As mentioned, the appellant did not serve a Notice of Objection nor is there evidence that the appellant made an application to the Minister to extend the time to file a Notice of Objection.
+[5] Once it is clear that no application for an extension of time was made, the law is clear that there is no jurisdiction in the Tax Court to further extend the time for equitable reasons.
+[15] It is within this mandatory and binding legal structure that the Court must consider the facts of the 2011 and 2012 applications of Thomas.
+[16] Additional facts were adduced at the hearing on behalf of Thomas through his agent and brother, Emmanuel. During the several years leading up to the hearing of this application, the Applicants had retained various accountants and lawyers to assist with their various assessments and reassessments concerning the underlying limited partnership investments. Correspondence abounded and fogged the process. Many tax years, several different taxpayers, statements of account, requirements to pay, queries from taxpayer’s agents and responses from CRA employees all litter the documentary landscape. Buried within this mound of papers were the 2012 Notice of Assessment dated June 10, 2013 and the 2011 Notice of Confirmation dated June 21, 2013, the subject of these applications.
+[17] Although no Notice of Objection for 2012, no Notice of Appeal for 2011 or any application to extend within the one year grace period may be found for either 2011 or 2012, there were nonetheless certain documents which Thomas asserts constructively comprise those necessary documents or at least demand a standstill of the one year grace period time count.
+[18] The nature, chronology and dates of the documents are relevant to such consideration, bearing in mind that the critical final expiration filing dates for the “one year grace period” for extension applications are September 19, 2014 for the 2011 appeal and April 30, 2015 for the 2012 objection. The events may be summarized as follows:
+i. April 3, 2012 – a letter from CRA to the taxpayer regarding a Notice of Determination of the limited partnership investment arising from certain of Minutes of Settlement concerning a larger group of taxpayers of which Thomas and Emmanuel were two. In that letter, CRA advised the taxpayers to file (or refile) the Notice of Objection or appeal directly to the Tax Court of Canada. This letter precedes the Notice of Confirmation of June 21, 2013 and the Notice of Assessment of June 10, 2013.
+ii. September 23, 2013 – A CRA letter issues confirming that the 2001 and 2002 taxation years (notably not 2011 and 2012) are in dispute and requesting payment in respect of outstanding tax for the 2011 and 2012 taxation years.
+iii. December 2, 2013 – A Request to pay in the amount of $36,753.81 is served on Thomas and his bank.
+iv. February 11, 2014 – A letter from Thomas’ accountant to CRA requests various documentation relating to 2001, 2002 and 2011 taxation years (notably again not 2012). The letter requests the underlying information relating to the partnership loss determination. The letter also suggests individual appeals are “pointless” and that a “test case” be selected and all other matters held in abeyance and thereafter bound by such a result. A request is made that further notices of confirmation be held in abeyance.
+v. March 11, 2014 – A letter of CRA, which appears to be in response to the accountant’s February 11, 2014 letter, provides a response to queries for information, confirms the April 3, 2012 advice that individual partner reassessments would follow. The issue of the general partner’s settlement authority is canvassed. Specifically the letter outlines the basis of reassessment, confirms the partners’ individual reassessment calculations and in the concluding paragraph advises that no Notices of Confirmation would be held in abeyance, but appeals concerning disputes lie to the Tax Court of Canada within 90 days of the receipt of any Notices of Confirmation.
+vi. March 12, 2014 – With serendipitous timing, a CRA statement of account for Thomas arrives, which references a Nil balance owing. The opening balance of approximately $30,000.00 is extinguished if one totals $12,300.00, referencing a new $23,027.04 amount in dispute as of January 30, 2014, adjusting some minor interest and transferring a credit balance to a 2014 installment account. The statement also references $76,174.61 as the disputed amounts for which Notices of Objection have been filed.
+vii. March 14, 2014 – a CRA letter to Thomas returns three post-dated cheques payable to the Receiver-General originally sent by Thomas, each in the amount of $6,150.00.
+[19] Given these facts, Thomas requests his 2011 and 2012 applications be allowed upon the basis that:
+i. CRA’s failure to provide partnership financial and loss documentation prevents the marshalling of a proper appeal or application;
+ii. The information and documents received from CRA mislead Thomas: the statement of account and return of the cheques caused Thomas to believe that 2011 and 2012 taxation years were properly before the CRA and/or the Tax Court of Canada because no further liability was claimed and the disputed amounts were enumerated as the subject to objection in the March 14th, 2014 letter; and
+iii. The March 12th 2014 inscrutable statement of account and the March 14th, 2014 inexplicable return of cheques are constructive acknowledgment by CRA that all taxpayer extension and/or abeyance requests were consented to or, given the general confusion such communications caused, constitute a more equitable start date for the grace period in which to bring an application to extend the time to file a notice of appeal and/or Notice of Objection.
+[20] For the reasons which follow, the applications of Thomas for an extension to file a Notice of Appeal for 2011 and a Notice of Objection for 2012 are dismissed.
+[21] While the inscrutable and non-descript statement of account dated March 12, 2014 and the unexplained return of cheques dated March 14, 2014 are confusing per se, when logically considered against the specifically referable and addressed communications by CRA, especially the specific response letter of March 11th, 2014, any such confusion is resolved.
+[22] In addition, the letter of Thomas’ accountant dated February 11, 2014 is no beacon of clarity. It fails to reference in any way an appeal for the 2012 tax year. It does not request an extension to appeal or object to either the 2011 or 2012 taxation years. Rather, it requests “abeyance” or “rescission” of the notices of confirmation. Whatever was intended, no such procedure exists. The letter concludes by saying …“it seems pointless to expend time and effort on behalf of the CRA and myself objecting and appealing and possibly proceeding to tax court on behalf of these 3 taxpayers when they have the same appeal.” Again, the letter proposes a lead case for Emmanuel. If anything, it suggests no further objections or appeals shall be brought.
+[23] As mentioned, in response to this February 11th proposal letter, on March 11th, the CRA methodically responded to each request: referencing the legal authority for notices of confirmation which conformed to minutes of settlement, providing evidence of same to the taxpayers, directing the representative to the legal authority binding the limited partners to the minutes of settlement and denying the lead case request. Most importantly, the letter states there is no legal authority to rescind or hold the legally issued notices of confirmation in abeyance in the absence of an appeal. Lastly and conclusively, it again directs the representative to appeal to the Tax Court with each client required to initiate separate appeals for each Notice of Assessment or Confirmation. The Court notes that had Thomas’ representative done so at the time, he would have been within the one year grace period for 2011 and the as of right period for 2012.
+[24] Specifically, after the CRA letter of March 11th, Thomas and his professional adviser had another 6 months or so (September 19, 2014 for 2011) to file an extension for an appeal and a month or more to file a notice of appeal or another 13 months (April 30, 2015) to file an application to extend the time to file an objection for 2012. Despite this lengthy and deliberate response of March 11th, 2014, no notice of application is filed. Nothing in the March 12, 2014 statement of account allowed Thomas or his representative to conclude CRA accepted, acknowledged, construed or consented to the receipt of an appeal for 2011 or an objection for 2012 in the face of CRA’s clear and fulsome response just one day before. Similarly, the March 14, 2014 letter referencing no particular tax year (like the cheques enclosed) provides no revocation by CRA of its March 11, 2014 definitive position.
+[25] It was not until October 22, 2014 that Thomas filed an application to extend the time to file a Notice of Appeal for both 2011 and 2012. No application to extend the time to file a notice of objection for 2012 has ever been filed. Again, the critical dates were September 19, 2014 for 2011 (appeal) and April 30, 2015 (objection) for 2012.
+[26] Moreover, the absence of focus on the part of Thomas and his various agents has continued and is further relevant to 2012. The Respondent’s Reply dated January 7, 2015 (dated almost 4 months before the one year grace period for the 2012 application to extend the time for a notice of objection would expire) provided additional warning. In paragraph 24 of the Reply, it provides that the Applicant had until April 30, 2015 to apply for extension to file a notice of objection. The Applicant failed to note this or, in any event, heed it. Thomas also requested two adjournments which were granted by the Court, the last on April 27, 2015 with three days left to file. Notwithstanding all these potential reminders, no request to amend the 2012 application was made by Thomas and, accordingly, no such order was granted during a period while there was jurisdiction for this Court to do so.
+[27] Factually, making some effort, however unfocussed, ill-addressed or malformed may have still allowed a cleft which the Court could grasp. On the other hand, reaching the conclusion that such effort and time would be wasted (as was the case with Thomas’ agent) and not filing such a simple and formulaic notice, subsequent application or amendment provides not such rung. The absence of some such filing robs this Court of jurisdiction under subsection 167(5) and 169(1) and is fatal.
+III. Analysis and Decision regarding Emmanuel’s application for 2002 taxation year
+[28] The sole remaining basis for Emmanuel’s application relates to a requested loss determination for the 2002 taxation year.
+[29] Subsection 152(1.1) of the Act provides as follows [underscoring added]:
+Determination of losses
+Where the Minister ascertains the amount of a taxpayer’s non-capital loss, net capital loss, restricted farm loss, farm loss or limited partnership loss for a taxation year and the taxpayer has not reported that amount as such a loss in the taxpayer’s return of income for that year, the Minister shall, at the request of the taxpayer, determine, with all due dispatch, the amount of the loss and shall send a notice of determination to the person by whom the return was filed.
+[30] During the hearing, Emmanuel advised the Court that an outstanding request for a loss determination had been made to the Minister on August 25th, 2015. The Court issued several Orders to hold the decisions in both these applications in abeyance while the Minister was allowed an opportunity to exercise her discretion to make a loss determination. Written submissions were also requested and received from the parties during that period.
+[31] Subsequently, the Court was advised that the Minister would require more time to respond to the request. An extension was granted. Respondent’s counsel advised the Court on May 26th, 2016 that the Minister considered Emmanuel’s request of August 26th, 2015 to be a request for an adjustment (presumably under sub-section 154(4.1)) and not a loss determination request under sub-section 152(1.1).
+[32] The Court, having undertaken a path to learn the Minister’s position regarding the purported loss determination request finds itself no further ahead. Emmanuel is resolute he is entitled to a loss determination. The Minister refuses to give one because she indicates such a request has not been properly made. The Court is not prepared to delay its decision in these applications further and will decide Emmanuel’s based upon the 2002 assessment before it.
+[33] Perhaps Emmanuel may re-submit his loss determination request, hopefully in a format and referencing claimed losses sufficient to evoke a definitive answer from the Minister, failing which his remedy to compel such a determination will lay elsewhere. At present, the nub of the issue is that the Minister asserts she can discern no difference on record between the quantum of loss deducted by Emmanuel in his 2002 return and that allowed by the Minister on the “as filed” assessment. Simply put, there appears to be no difference between Emmanuel’s filing position and the Minister’s 2002 assessment relating to the loss claimed. Such a difference is the sine qua non and object of any tax dispute.
+[34] On that basis, the determination of this 2002 application to extend the time to file a notice of appeal is premature. There has been no discernable loss determination to date which constitutes a dispute. At present, since only a no tax payable or “Nil assessment” exists, no appeal lies to this Court: Babich v HMQ, 2010 TCC 352, upheld by the Federal Court of Appeal, supra, at paragraph 9. On that basis the application for extension of Emmanuel’s 2002 taxation year is dismissed.
+This Amended Order and Amended Reasons for Order are issued in substitution of the Order and Reasons for Order dated September 12, 2016.
+Signed at Ottawa, Canada, this 14th day of September, 2016.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2016 TCC 194
+COURT FILE NOs.:
+2014-3806(IT)APP, 2014-3807(IT)APP
+STYLE OF CAUSE:
+EMMANUEL AZZOPARDI, THOMAS AZZOPARDI AND THE QUEEN
+PLACE OF HEARING:
+Windsor, Ontario
+DATE OF HEARING:
+October 27, 2015
+REASONS FOR ORDER BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF AMENDED ORDER:
+September 14, 2016
+APPEARANCES:
+Agent for the Applicant:
+Emmanuel Azzopardi
+Counsel for the Respondent:
+Josh Kumar
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

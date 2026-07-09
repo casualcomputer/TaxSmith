@@ -1,0 +1,162 @@
+---
+title: "Benoit v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29785/index.do"
+last_modified: "2010-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 245"
+citation2: ""
+neutral_citation: "2010 TCC 245"
+decision_date: "2010-05-05"
+language: "en"
+item_id: "29785"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6591
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:23:21.713000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7c80ceedbc8de58975e6cd2d2cbb2634f5e9cd4abeca34a8dcba6e0d33f77255"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Benoit v. The Queen
+
+- Citation: 2010 TCC 245
+- Decision date: 2010-05-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6591, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Benoit v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-05
+Neutral citation
+2010 TCC 245
+File numbers
+2007-4191(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4191(IT)G
+BETWEEN:
+JEAN BENOIT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on April 13, 2010, at Montréal, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2003 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of May 2010.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 20th day of July 2010
+François Brunet, Revisor
+Citation: 2010 TCC 245
+Date: 20100505
+Docket: 2007-4191(IT)G
+BETWEEN:
+JEAN BENOIT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The only issue in this case is whether the Minister of National Revenue (the Minister) was correct in imposing a penalty of $27,034 under subsection 163(2) of the Income Tax Act (the Act) for the 2003 taxation year in respect of taxable dividends of $470,032, which the appellant failed to report.
+Background
+[2] On April 26, 2004, the appellant signed his income tax return for the 2003 taxation year. The appellant reported no income in his income tax return for the 2003 taxation year. Louise Benoit, the appellant's sister, died on January 26, 2002. The appellant, as well as his mother, Étiennette Benoit, his brother Luc Benoit, and his niece Chantal Benoit, inherited the shares held by Louise Benoit in the company Marc Benoit inc. (the company). The appellant held preferred shares in the company. At the request of the succession of Louise Benoit (the succession), the company redeemed the 33 common shares held by Louise Benoit for a consideration of a demand note for $1,514,616. As a result of that transaction, the succession received a deemed dividend and decided not to pay tax on the deemed dividend but to transfer it to the four heirs. The appellant (as well as the other three heirs) received from the succession, as a dividend payment, 55 class-2 common shares newly purchased from the company as well as a demand note, for a total value of $376,025. The succession provided each heir with a T3 slip containing the following information:
+(i) Real dividends:
+$376,025
+(ii) Taxable dividends:
+$470,032
+(iii) Federal dividend tax credit:
+$62,670
+The appellant received the T3 slip and knew that a copy of it had been sent to the Minister. The other heirs reported their taxable dividends in their income tax returns for the 2003 taxation year. Luc Benoit, who acted as the liquidator of the succession, and the chartered accountants for the succession oversaw the various steps that led to attributing the taxable dividends to the heirs and issuing the T3 slips.
+[3] The appellant's testimony is as follows:
+a. On October 9, 2003, the heirs attended a meeting called by the accountants and liquidator of the succession. The agenda for that meeting (the agenda) was provided to them. Among other things, the agenda outlined all the steps taken by the succession and the heirs in order for the dividend resulting from the company's redeeming its shares held by the succession to be taxable in the hands of the heirs rather than of the succession. The appellant explained that he had received the T3 slip at the meeting, but that he did not understand the accountants' explanations that he had to report the amount shown on the T3 slip that he had received.
+b. After he had read his sister's will, consulted the tax guide (section on other income) and spoken with information officers from the Canada Customs and Revenue Agency (the Agency), the appellant concluded that the T3 slip had been issued by mistake. In fact, the information obtained from the guide and from the information officers indicated that he did not need to report the property that was transferred to him by the succession. I note that the appellant was unable to name the Agency's information officers with whom he had spoken or to indicate when he had spoken with them. I also note that the appellant admitted that he had not told the Agency's information officers that he had received a T3 slip. I would add that the appellant (though convinced that the slip was issued by mistake) also admitted that he had never brought the error to the attention of the succession's accountants or its liquidator, the Agency or his co-heirs or tried to correct it.
+c. The appellant has a bachelor's degree in industrial relations.
+d. He owned a company of 75 employees for 10 years.
+e. He received taxable dividends from Canadian companies several times, and as a result, received the tax slips related to them.
+Analysis and conclusion
+[4] Subsection 163(2) of the Act imposes a penalty on every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return filed or made in respect of a taxation year. More specifically, the part of subsection 163(2) of the Act that sets out how penalties are calculated reads as follows:
+163(2) False statements or omissions
+Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of . . . .
+Pursuant to subsection 163(3) of the Act, the burden of establishing the facts justifying the assessment of the penalty is on the Minister, not the taxpayer. Subsection 163(3) of the Act reads as follows:
+163(3) Burden of proof in respect of penalties
+Where, in an appeal under this Act, a penalty assessed by the Minister under this section or section 163.2 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[5] As Justice Dussault stated in Prud’homme v. Canada, 2005 TCC 423, at paragraph 47,
+. . . the facts on which the imposition of a penalty for gross negligence under subsection 163(2) of the Act is based must be analysed having regard to their particular context, which means that drawing a comparison with the facts of another situation would be a purely random exercise, if not patently dangerous.
+[6] The concept of "gross negligence" accepted in the case law had been defined by Justice Strayer in Venne v. The Queen, [1984] F.C.J. No. 314 (F.C.T.D):
+. . . "Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. . . .
+[7] In DaCosta v. Canada, 2005 TCC 545, Chief Justice Bowman referred to the decision in Udell v. M.N.R., [1970] Ex.C.R. 176 (Ex. Ct.), and two decisions by Judge Rip (as he then was) and made the following comments:
+9 I have no difficulty in reconciling the decision of Cattanach J. with those of Rip J. They each depend on a finding of fact by the court with respect to the degree of involvement of the taxpayers. The question in every case is, leaving aside the question of wilfulness, which is not suggested here,
+a. "was the taxpayer negligent in making a misstatement or omission in the return?" and
+b. "was the negligence so great as to justify the use of the somewhat pejorative epithet 'gross'?"
+This is, I believe, consistent with the principle enunciated by Strayer J. in Venne v. The Queen, 84 DTC 6247.
+. . .
+11 In drawing the line between "ordinary" negligence or neglect and "gross" negligence a number of factors have to be considered. One of course is the magnitude of the omission in relation to the income declared. Another is the opportunity the taxpayer had to detect the error. Another is the taxpayer's education and apparent intelligence. No single factor predominates. Each must be assigned its proper weight in the context of the overall picture that emerges from the evidence.
+12 What do we have here? A highly intelligent man who declares $30,000.00 in employment income and fails to declare gross sales of about $134,000.00 and net profits of $54,000.00. While of course his accountant must bear some responsibility I do not think it can be said that the appellant can nonchalantly sign his return and turn a blind eye to the omission of an amount that is almost twice as much as that which he declared. So cavalier an attitude goes beyond simple carelessness.
+[8] The Federal Court of Appeal further specified in Villeneuve v. Canada, 2004 FCA 20, that the expression "gross negligence" could encompass wilful blindness in addition to the intentional action and wrongful intent. In that decision, Justice Létourneau made the following comments in that regard at paragraph 6:
+With respect, I think the judge failed to consider the concept of gross negligence that may result from the wrongdoer's willful blindness. Even a wrongful intent, which often takes the form of knowledge of one or more of the ingredients of the alleged act, may be established through proof of willful blindness. In such cases the wrongdoer, while he may not have actual knowledge of the alleged ingredient, will be deemed to have that knowledge.
+[9] In my opinion, the appellant committed gross negligence because he was wilfully blind in this case. The appellant in this case is an intelligent and very educated businessman. In addition, the appellant had received T3 slips several times and reported the dividends indicated on those slips. The appellant maintains that he did not report the taxable dividends in his tax return for the 2003 taxation year because the research he had allegedly done and his communications with the Agency's representatives had led him to conclude that he did not need to report the property he had received from the succession and that therefore the T3 slip had been issued by mistake. The fact that the appellant never indicated to the Agency representatives (with whom he had spoken) that he had received a T3 slip; that he had never pointed out to the accountants, to the liquidator of the succession or to his co-heirs that, to his knowledge, the slip was issued by mistake; and especially that he had never asked those people or the Agency representatives what he had to do to correct that mistake are indicia of wilful blindness, if not deliberate conduct amounting to gross negligence. In fact, given that the appellant is an informed and educated businessman, it is more likely that he had deliberately omitted to ask all of these people the right questions.
+[10] For all these reasons, the appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 5th day of May 2010.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 20th day of July 2010
+François Brunet, Revisor
+CITATION: 2010 TCC 245
+COURT FILE NO.: 2007-4191(IT)G
+STYLE OF CAUSE: JEAN BENOIT AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: April 13, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: May 5, 2010
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Mounes Ayadi
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

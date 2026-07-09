@@ -1,0 +1,434 @@
+---
+title: "Amiripour v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110871/index.do"
+last_modified: "2015-07-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 187"
+citation2: ""
+neutral_citation: "2015 TCC 187"
+decision_date: "2015-07-22"
+language: "en"
+item_id: "110871"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2625
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:15:26.751000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3c9ab659e67884ab507fededc7a5a018e7d11f15168d0d10b44ffb4f60b97740"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Amiripour v. The Queen
+
+- Citation: 2015 TCC 187
+- Decision date: 2015-07-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2625, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Amiripour v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-07-22
+Neutral citation
+2015 TCC 187
+File numbers
+2013-4827(GST)I, 2013-4828(IT)I
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-4827(GST)I
+BETWEEN:
+MORTEZA AMIRIPOUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of Morteza Amiripour, 2013-4828(IT)I on April 16, 2015, at Toronto, Ontario.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Leonard Elias
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated August 31, 2009, for the periods from October 6, 2003 to December 31, 2004 is dismissed.
+Signed at Ottawa, Canada, this 22nd day of July 2015.
+“Johanne D’Auray”
+D’Auray J.
+Docket: 2013-4828(IT)I
+BETWEEN:
+MORTEZA AMIRIPOUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of Morteza Amiripour, 2013-4827(GST)I on April 16, 2015, at Toronto, Ontario.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Leonard Elias
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2003 and 2004 taxation years is allowed on the basis that the appellant is entitled to claim his share of the following expenses incurred by the partnership:
+Purchases
+Partnership
+Appellant’s share
+2003 taxation year
+$4,435
+2,217.50
+Automobile
+2003 taxation year
+$2,232
+$1,116
+2004 taxation year
+$3,572
+$1,786
+Telephone/office expenses
+2003 taxation year
+$280
+$140
+2004 taxation year
+$560
+$280
+The appellant is not entitled to any further relief.
+Signed at Ottawa, Canada, this 22nd day of July 2015.
+“Johanne D’Auray”
+D’Auray J.
+Citation: 2015 TCC 187
+Date: 20150722
+Docket: 2013-4827(GST)I
+Docket: 2013-4828(IT)I
+BETWEEN:
+MORTEZA AMIRIPOUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D’Auray J.
+[1] The appeals of Mr. Amiripour under the Income Tax Act (“ITA”) and the Goods and Services Tax (“GST”) were heard on common evidence.
+[2] The issue in the ITA appeal is whether the Minister of National Revenue (the “Minister”) properly calculated the income of the appellant.
+[3] The issue in the Goods and Services Tax[1] (“GST”) appeal is whether the Minister correctly assessed the appellant’s net tax for the period of October 6, 2003 to December 31, 2004.
+[4] The position of the Minister is that the appeals should be dismissed since the appellant has not demolished the assumptions of fact made by the Minister.
+ITA [5] I will deal first with the ITA appeal.
+[6] The assumptions of fact relied upon by the Minister in reassessing the appellant are set out in paragraph 11 of the respondent’s Reply to Notice of Appeal:
+11. In determining the Appellant’s tax liability for the 2003 and 2004 taxation years, the Minister made the following assumptions of fact:
+a) During 2003, the Appellant operated a business as a sole proprietor;
+b) The Appellant’s sole proprietorship earned not less than $2,610 of business income in the 2003 taxation year;
+c) During 2003 and 2004 the Appellant operated a business in a 50/50 partnership with another individual (the “Partnership”);
+d) The Partnership’s business activities included roofing and handy-man jobs;
+e) The Partnership earned no less than $59,660 and $179,557 in the 2003 and 2004 taxation years, respectively;
+f) The Partnership incurred expenses of not more than $22,190 and $67,002 in the 2003 and 2004 taxation years, respectively;
+g) Alpine Roofing was the Partnership’s major client;
+h) The Partnership earned no less than $54,296 and $186,434, inclusive of goods and services taxes, from Alpine Roofing, in the 2003 and 2004 taxation years, respectively;
+i) The Partnership did not incur expenditures for the amounts claimed as purchases; Alpine Roofing supplied the Partnership with all of the materials needed to do the jobs;
+j) The Partnership’s expenses for subcontractor fees were not more than $12,850 and $54,282 in the 2003 and 2004 taxation years, respectively;
+k) The amounts claimed by the Partnership as an expense for rent were in respect of the Appellant’s personal residence, and were personal expenditures not amounts incurred for the purpose of earning income;
+l) The amounts claimed by the Partnership as an expense for advertising and promotion were in respect of meals, and were personal expenditures not amounts incurred for the purpose of earning income;
+m) The Partnership did not incur auto expenses of more than $521 and $2,500 in the 2003 and 2004 taxation years, respectively;
+n) The amounts claimed by the Partnership as office expense involved personal expenditures that were outside the 2003 and 2004 taxation years, and were not expenditures incurred for the purpose of earning income in the 2003 and 2004 taxation years;
+o) The Partnership did not provide any documentation to support the amount it claimed as a telephone expense was an expenditure incurred for the purpose of earning income, and this amount represents a personal expenditure of the Appellant;
+p) The Partnership’s accounting expenses were not more than $3,927 in the 2004 taxation year;
+q) The Partnership’s claim for capital cost allowance (“CCA”) was in respect of a vehicle that was not purchased until 2004, and for which the Appellant did not apply the half-year rule;
+r) The Partnership’s earned a 40% profit margin from its handy-man jobs; and
+s) In 2003 and 2004, the Partnership earned cash from handy-man jobs of no less than $9,541 and $5,692, inclusive of goods and services taxes, respectively;
+t) In 2003 and 2004, the Partnership incurred expenses relating to its handy-man jobs of not more than $5,350 and $3,192, respectively.
+[7] At my request, the respondent submitted at trial Schedules showing what the appellant reported as income and claimed as expenses and what the Minister added to the appellant’s income and allowed as expenses for income tax purposes for the taxation years under appeal:
+2003
+Partnership Income and the appellant’s handy man income as a sole proprietorship
+Income reported by the appellant from the partnership
+Income assessed by the Minister from the partnership
+In dispute
+Alpine: $54,296
+Handy man work: 9,541
+Income (with GST): 63,837
+(Less GST): 4,177
+Total income from
+partnership: $10,078
+Total income: $59,660
+$ 49,582
+Expenses
+Claimed by the appellant
+Allowed by the Minister
+In dispute
+Subcontractors: $12,850
+$ 12,850
+0
+Purchases: 19,458
+591
+18,867
+Rent: 4,860
+0
+4,860
+Disposal: 1,252
+1,252
+0
+Small tools: 2,133
+2,133
+0
+Advertising: 332
+0
+332
+Automobile: 2,232
+521
+1,711
+Bank charges: 84
+84
+0
+Telephone: 490
+0
+490
+CCA: 2,069
+0
+2,069
+Handy man expenses: 0
+5,350
+0
+Total expenses: $45,760
+$22,781
+$28,329
+Summary 2003
+Appellant
+Allowed
+In dispute
+Income from partnership: $10,078
+Income: $ 59,660
+$49,582
+Expenses: 45,760
+Expenses: 22,781
+22,979
+Net loss: ($35,682)
+Income: $36,879
+$72,561
+Appellant’s share: ($17,841)
+Appellant’s share: $18,439
+$36,280
+Sole proprietorship
+income: 2,610
+2,610
+($17,841)
+$21,049
+$38,890
+2004
+Partnership Income and the appellant’s handy man income as a sole proprietorship
+Income reported by the appellant
+Income assessed by the Minister
+In dispute
+From Alpine: $186,734
+Handy man work: 5,692
+Income (with GST): 192,126
+(Less GST): 12,569
+Partnership income: $24,000
+Total income: $179,557
+$155,5557
+Expenses
+Claimed by the appellant
+Allowed by the Minister
+In dispute
+Subcontractors: $57,492
+$54,282
+321
+Purchases: 23,135
+8,871
+14,264
+Advertising and promotion: 3,893
+0
+3,893
+Automobile: 3,572
+2,500
+1,072
+Bank charges: 388
+388
+0
+Office: 1,378
+0
+1,378
+Accounting: 3,935
+3,927
+8
+CCA: 1,447
+1,033
+414
+Annual labour: 1,680
+1,680
+0
+Handy man expenses: 0
+3,192
+0
+96,920
+75,873
+21,350
+Loss: (72,920)
+Income: 103,684
+176,907
+Appellant’s share: ($36,460)
+Income: $51,842
+$88,453.50
+Partnership-Added Income [8] In cross-examination, the respondent established that the partnership earned, for the work performed for its major client Alpine Roofing, income in the amounts of $54,296 (GST included) and $186,434 (GST included) for the 2003 and 2004 taxation years respectively.
+[9] The appellant was vague when asked why the partnership reported the amounts of $10,078 instead of $59,660 in 2003 and $24,000 instead of $179,557 in 2004, as income from Alpine Roofing and from the handy man work. He explained that his accountant was new and did not have enough experience in preparing income tax returns.
+[10] I have some difficulty with this explanation. The discrepancy between the amounts earned and reported is significant. The appellant had to be aware that he was not reporting all his income earned from Alpine Roofing. At trial, he readily admitted, when presented with the evidence, that his gross income emanating from Alpine Roofing should be increased for both taxation years.
+[11] However, the appellant did not agree that the amounts of $9,541 for 2003 and $5,692 for 2004 should be included in the partnership income for the handyman work that the partnership would have performed.
+[12] With respect to these amounts, the respondent filed in evidence schedules showing all the deposits made in the partnership bank’s account. The deposits were all linked to income earned from the partnership. The appellant did not offer any reason as to why these amounts should not be included in the partnership income. The burden was on him to show that these amounts should not have been included in the partnership income and since he failed to do so, the appellant’s share of these amounts, namely $4,770.50 for 2003 and $2,846 for 2004, was properly included in the appellant’s income.
+[13] Therefore, the Minister correctly established the partnership gross income at $59,660 (appellant’s share $29,830) for the 2003 taxation year and at $179,557 (appellant’s share $89,778.50) for the 2004 taxation year.
+Expenses disallowed [14] At trial, the respondent conceded that the partnership was entitled to deduct as expenses under the heading “Purchases” the amount of $591 for 2003 and the amount of $8,871 for 2004.
+[15] The appellant did not have any documents or invoices to prove the expenses incurred by the partnership. He stated that all the documents were destroyed in a fire in 2008. He stated that before the fire, he gave some documents to the Canada Revenue Agency (CRA). He also stated that his partner and the new accountant for the partnership also gave documents to the CRA to justify the partnership’s expenses. This was confirmed by a letter dated October 30, 2103 from Ms. Rosebush of the CRA in which she acknowledged that the appellant had provided some documents to prove the expenses incurred by the partnership. However, Ms. Rosebush noted that many documents were lacking. In her letter, Ms. Rosebush wrote that she based her adjustments on the additional documentation/information provided by the appellant and on reasonable inferences when the documentation was lacking.
+[16] There is no requirement that vouchers or receipts be provided for all expenditures claimed as deductions provided that the expenditures are proved by other credible evidence. As was stated by Justice Bowman in Chrabalowski v Canada[2] :
+[10] As this court has said on a number of occasions there is no requirement that vouchers or receipts be provided for all expenditures claimed as deductions provided that the expenditures are proved by other credible evidence. I do not however think the appellant has passed even the very modest threshold of proving his case that I consider appropriate. It is worthwhile repeating what was said in Merchant v. The Queen, 98 DTC 1734:
+[7] Where a large number of documents, such as invoices, have to be proved it is a waste of the court's time to put them in evidence seriatim. The approach set out in Wigmore on Evidence (3rd Ed.) Vol IV, at s. 1230 commends itself:
+s.1230(11): . . . Where a fact could be ascertained only by the inspection of a large number of documents made up of very numerous detailed statements - as, the net balance resulting from a year's vouchers of a treasurer or a year's accounts in a bank-ledger - it is obvious that it would often be practically out of the question to apply the present principle by requiring the production of the entire mass of documents and entries to be perused by the jury or read aloud to them. The convenience of trials demands that other evidence be allowed to be offered, in the shape of the testimony of a competent witness who has perused the entire mass and will state summarily the net result. Such a practice is well-established to be proper.
+[8] This passage was cited with approval by Wakeling, J.A. in Sunnyside Nursing Home v. Builders Contract Management Ltd. et al., (1990) 75 S.R. 1 at p. 24 (Sask. C.A.) and by MacPherson, J. in R. v. Fichter, Kaufmann et al., 37 S.R. 128 (Sask. Q.B.) at p. 129. I am in respectful agreement.
+Some form of the method approved by Wigmore would have been appropriate here.
+[17] The appellant’s position was that all the expenses claimed by the partnership should be allowed.
+[18] In line with Chrabalowski v Canada, I will only analyse those expenses that the appellant testified on and where some credible evidence was offered.
+Purchases [19] In light of the concession made by the respondent at trial, the partnership was entitled to deduct $591 in 2003 and $8,871 in 2004. The partnership had claimed as purchases the amounts of $19,458 and $23,135 in 2003 and 2004 respectively.
+[20] The respondent stated that most of the expenses for the partnership to perform its work were covered by Alpine Roofing. That said, the respondent allowed an amount of $8,871 in 2004.
+[21] The appellant testified that Alpine Roofing did not cover all the expenses He stated that the partnership paid $45 per day for nails, which would amount to approximately $9,000 a year.[3]
+[22] The amount of $8,871 conceded by the respondent in 2004 is close to the $9,000 figure advanced by the appellant for the purchase of nails for 2004. I will therefore, not modify these expenses for 2004 since what was allowed by the CRA is reasonable.
+[23] Applying the same reasoning to the 2003 taxation year, the CRA should have allowed an amount of $4,435.50[4] for the purchase of nails, taking into account that the activities of the partnership started in September 2003.
+Automobile expenses [24] The partnership claimed as automobile expenses the amounts of $2,232 for four months in 2003 and $3,572 in 2004 for approximately eight months. The CRA allowed the amounts of $521 in 2003 and $2,500 in 2004 as automobile expenses.
+[25] The appellant stated that the partnership owned a 1997 cargo truck in 2003 and purchased a new cargo truck in 2004. Taking a common sense approach, the automobile expenses were not overstated by the partnership, considering gas, repairs and maintenance expenses on the vehicles for both the 2003 and the 2004 taxation years. Therefore, the expenses claimed by the appellant for the automobile expenses are allowed.
+Telephone [26] The partnership claimed $490 for four months in 2003 for a telephone. The respondent noted that in 2004 the partnership did not claim anything for the telephone. However, in 2004 there was a new heading “office expenses” that did not form part of the 2003 statement of expenditures. It is reasonable to infer that the telephone in 2004 was claimed under the heading office expenses. In any event, the appellant stated during his testimony that the partnership had one phone and a contract with Fido. Again, using a common sense approach, a telephone was needed to operate the partnership in 2003 and 2004. The partnership is claiming an average of $122.50 a month for the phone. I will allow $280 as an expense for the telephone in 2003 ($70 per month for four months) and $560 in 2004 ($70 per month for eight months).
+Other expenses [27] As for the other expenses claimed by the partnership that were partly allowed or disallowed by the CRA, the appellant did not give any cogent explanations that substantiated the expenses claimed.
+GST appeal [28] The Minister’s assumptions of fact with respect to the GST appeal are set out in paragraph eight of the Reply to Notice of Appeal. They read as follows:
+8. In assessing net tax to the Appellant, the Minister relied on, inter alia, the following assumptions:
+a) the facts stated and admitted above;
+b) during the period October 6, 2003 to December 31, 2004, the Appellant operated a business in a 50/50 partnership with another individual (the “Partnership”);
+c) the Partnership’s business activities included roofing and handy-man jobs;
+d) the Partnership is a GST registrant with GST Registration no. 87485 2908 RT0001;
+e) the Partnership was required by the Act to file its GST returns on an annual basis;
+f) the Partnership was required to charge and collect GST on the value of the consideration received from his customers for the supply of roofing services and handy-man jobs at the rate of 7% between October 6, 2003 and December 31, 2004;
+g) between October 6, 2003 and December 31, 2004, the Partnership was required to charge and collect GST of not less than $16,745.75 from its customers;
+h) neither the Appellant nor the Partnership maintained proper books and records for the business;
+i) neither the Partnership nor the Appellant had any documentation to support input tax credits (“ITC’s”) claimed for the periods under the appeal;
+j) Alpine Roofing was the Partnership’s major client;
+k) Alpine Roofing supplied the Partnership with all of the materials needed to do the jobs;
+l) the Partnership claimed ITCs for GST allegedly paid on expenses which were not incurred by it during the periods under appeal, or if incurred, were not incurred in relation to its commercial activities;
+m) neither the Partnership nor the Appellant are entitled to ITC’s in excess of the amounts already allowed by the Minister, which is $824.23 in respect of the reporting period ended December 31, 2004 and $182.11 for the period ended December 31, 2003; and
+n) the Partnership was required to remit net tax of not less than $11,745.20 for the period ended December 31, 2004 and $3,994.21 for the period ended December 31, 2003.
+GST charged and collected [29] The respondent argued that the partnership had to charge and collect GST on the value of the consideration received form his customers for the supply of roofing services and handy man jobs at the rate of 7%. I agree with the respondent. The partnership was registered for GST purposes and it had to charge the GST on the supplies it provided to Alpine Roofing and on its handyman work. The partnership provided $239,217 of supplies in 2003 and 2004, therefore it had to charge and collect GST in the amount of $16,745.19.[5]
+Input tax credits [30] Section 169(4)(a) of the Excise Tax Act (“ETA”) states:
+A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) The registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+. . .
+[31] Under the Input Tax Credit Information Regulations, (the “Regulations”) the prescribed information is as follows:
+PRESCRIBED INFORMATION
+3. For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+(a) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is less than $30,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business,
+(ii) where an invoice is issued in respect of the supply or the supplies, the date of the invoice,
+(iii) where an invoice is not issued in respect of the supply or the supplies, the date on which there is tax paid or payable in respect thereof, and
+(iv) the total amount paid or payable for all of the supplies;
+(b) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more and less than $150,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under subsection 241(1) of the Act to the supplier or the intermediary, as the case may be,
+(ii) the information set out in subparagraphs (a)(ii) to (iv),
+(iii) where the amount paid or payable for the supply or the supplies does not include the amount of tax paid or payable in respect thereof,
+(A) the amount of tax paid or payable in respect of each supply or in respect of all of the supplies, or
+(B) where provincial sales tax is payable in respect of each taxable supply that is not a zero-rated supply and is not payable in respect of any exempt supply or zero-rated supply,
+(I) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of each taxable supply, and a statement to the effect that the total in respect of each taxable supply includes the tax paid or payable under that Division, or
+(II) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of all taxable supplies, and a statement to the effect that the total includes the tax paid or payable under that Division,
+(iv) where the amount paid or payable for the supply or the supplies includes the amount of tax paid or payable in respect thereof and one or more supplies are taxable supplies that are not zero-rated supplies,
+(A) a statement to the effect that tax is included in the amount paid or payable for each taxable supply,
+(B) the total (referred to in this paragraph as the “total tax rate”) of the rates at which tax was paid or payable in respect of each of the taxable supplies that is not a zero-rated supply, and
+(C) the amount paid or payable for each such supply or the total amount paid or payable for all such supplies to which the same total tax rate applies, and
+(v) where the status of two or more supplies is different, an indication of the status of each taxable supply that is not a zero-rated supply; and
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient’s name, the name under which the recipient does business or the name of the recipient’s duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+[32] With respect to the input tax credits (“ITCs”), the respondent stated that the CRA allowed as ITCs the amounts of $824.23 for 2003 and $182.11 for 2004 based on the supporting documentation provided by the partnership.
+[33] The respondent also submitted that it was not clear that the GST was remitted to the Receiver General by the partnership since some of the expenses were paid in cash. This was confirmed by the appellant during his testimony, he stated that the partnership did not issue invoices to the subcontractors since they were paid in cash. He also stated that he and his partner gave the invoices they had to the CRA.
+[34] The respondent argued that in light of requirements under subsection 169(4) of the ETA and on the Regulations, I cannot allow ITCs unless the registrant provides the supporting documentation as prescribed by the Regulations.
+[35] The respondent relied upon the decision of the Federal Court of Appeal in Systematix Technology Consultants Inc v Canada[6] where Justice Sexton agreed with the comments made by Justice Bowie in Key Property Management Corp v R, that the information required under subsection 169(4) of the ETA and under section 3 of the Regulations is mandatory. Justice Sexton stated the following:
+4 We are of the view that the legislation is mandatory in that it requires persons who have paid GST to suppliers to have valid GST registration numbers from those suppliers when claiming input tax credits.
+5 We agree with the comments of Bowie J. in the case of Key Property Management Corp. v. R., [2004] G.S.T.C. 32 (T.C.C. [General Procedure]) where he stated:
+“The whole purpose of paragraph 169(4)(a) and the Regulations is to protect the consolidated revenue fund against both fraudulent and innocent incursions. They cannot succeed in that purpose unless they are considered to be mandatory requirements and strictly enforced. The result of viewing them as merely directory would not simply be inconvenient, it would be a serious breach of the integrity of the statutory scheme [emphasis added].
+6 We also agree with the comments of Campbell J. in Davis v. R., [2004] G.S.T.C. 134 (T.C.C. [Informal Procedure]):
+“Because of the very specific way in which these provisions are worded, I do not believe they can be sidestepped. They are clearly mandatory and the Appellant has simply not met the technical requirements which the Act and the Regulations place upon him as a member of a self-assessing system [emphasis added].
+[36] The appellant also claimed that all the supporting documents were destroyed in a fire in 2008. However, he did not file any evidence for example, an insurance claim or a police report, proving that there had been a fire.
+[37] I therefore agree with the respondent that I cannot allow ITCs over and above those granted by the Minister based on the documentations provided by the partnership. The appellant did not submit any supporting documentation to establish the ITCs that the partnership claimed. The jurisprudence is clear, these provisions (169(4)(a) of the ETA and section 3 of the Regulations on ITCs) are mandatory.
+Disposition of the ITA appeal [38] The appeal is allowed for the 2003 and 2004 taxation years.
+[39] The appellant is entitled to claim his share of the following expenses incurred by the partnership:
+Purchases
+Partnership
+Appellant’s share
+2003 taxation year
+$4,435
+2,217.50
+Automobile
+2003 taxation year
+$2,232
+$1,116
+2004 taxation year
+$3,572
+$1,786
+Telephone/office expenses
+2003 taxation year
+$280
+$140
+2004 taxation year
+$560
+$280
+[40] The appellant is not entitled to any further relief.
+Disposition of the GST appeal [41] The GST appeal is dismissed.
+Signed at Ottawa, Canada, this 22nd day of July 2015.
+“Johanne D’Auray”
+D’Auray J.
+CITATION:
+2015 TCC 187
+COURT FILE NO.:
+2013-4827(GST)I
+2013-4828(IT)I
+STYLE OF CAUSE:
+MORTEZA AMIRIPOUR v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 16, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT:
+July 22, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Leonard Elias
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The GST falls within Part IX of the Excise Tax Act.
+[2] 2004 TCC 644, paragraph 10.
+[3] The appellant testified that he and his partner worked approximately 8 months per year.
+[4] $8,871 ÷ 8 months of work = $1,108.88 X 4 months = $4,435.50
+[5] $239,217 x 7% = $16,745.19
+[6] 2007 FCA 226 at paragraphs 4 to 6.

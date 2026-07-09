@@ -1,0 +1,120 @@
+Title: Pont Rouge Systems Inc c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31232/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-224-31232-pont-rouge-systems-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-07-09
+
+# Pont Rouge Systems Inc c. La Reine
+
+- Citation: 2013 CCI 224
+- Decision date: 2013-07-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5137, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pont Rouge Systems Inc c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-07-09
+Référence neutre
+2013 CCI 224
+Numéro de dossier
+2013-284(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-284(IT)I
+ENTRE :
+PONT ROUGE SYSTEMS INC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 28 juin 2013 à Ottawa (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentant de l’appelante :
+M. Kent Heatherington
+Avocate de l’intimée :
+Me Kira Brezhneva
+JUGEMENT
+L’appel intenté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année ayant pris fin le 31 octobre 1999 est rejeté.
+Signé à Ottawa, Canada, ce 9e jour de juillet 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 14e jour d’août 2013.
+C. Laroche, traducteur
+Référence : 2013 CCI 224
+Date : 20130709
+Dossier : 2013-284(IT)I
+ENTRE :
+PONT ROUGE SYSTEMS INC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Le 9 août 2010, l’appelante a produit une déclaration de revenus auprès du ministre du Revenu national (le « ministre ») pour son année ayant pris fin le 31 octobre 1999 (la « déclaration de 1999 »). Elle a déclaré un revenu net de 65 010 $. Le ministre a établi la cotisation de l’appelante en se fondant sur la déclaration produite et a imposé une pénalité pour production tardive. La question en litige dans le présent appel consiste à savoir si cette pénalité a été imposée à juste titre.
+[2] L’appelante était représentée à l’audience par M. Kent Heatherington, un de ses administrateurs et le seul témoin à l’audience.
+[3] Selon M. Heatherington, l’appelante a mis fin à ses activités en septembre 2010.
+[4] L’appelante a fait valoir qu’elle avait initialement produit sa déclaration de 1999 dans le délai prescrit. À la suggestion d’un vérificateur de Revenu Québec, elle a produit à nouveau ses déclarations relatives aux années 1999, 2000, 2001 et 2002, en vue de rectifier un problème que présentaient les déclarations initiales. M. Heatherington n’a pas donné de détails sur le problème en question. Il n’a pu fournir à la Cour une preuve quelconque que Revenu Québec lui avait demandé de produire à nouveau ses déclarations.
+[5] M. Heatherington a déclaré que l’appelante a produit toutes ses déclarations dans le délai prescrit, à l’exception de celles se rapportant aux années 2002 et 2003. Il a ajouté que les montants d’impôt n’ont jamais été payés dans le délai prescrit, mais qu’il prenait des dispositions avec la Division du recouvrement de l’Agence du revenu du Canada (l’« ARC ») en vue du paiement de ses impôts personnels et de ceux de l’appelante. Il payait toujours les montants d’impôt d’une manière conforme aux dispositions prises.
+[6] À l’appui de sa déclaration selon laquelle l’appelante a payé la totalité des montants d’impôt dus à l’ARC, M. Heatherington a produit une feuille de calcul Excel (pièce A-1) qu’il avait préparée. Cette feuille énumère les paiements qu’il a effectués au titre de ses impôts personnels ainsi qu’au titre des impôts de l’appelante à l’ARC et à Revenu Québec. La feuille comporte plusieurs inscriptions concernant des paiements faits à l’ARC, mais il n’y en a qu’une seule qui se rapporte à un montant que l’appelante a payé à l’ARC, soit 38,12 $, en date du 26 mai 2008. M. Heatherington n’était pas sûr si les autres paiements avaient été faits en règlement de ses arriérés d’impôt personnels ou de ceux de l’appelante. Il ignorait aussi à quelle année d’imposition les paiements s’appliquaient.
+[7] La pièce A-1 n’aide pas l’appelante à défendre sa position.
+[8] M. Heatherington n’avait aucun document qui corroborait sa position selon laquelle la déclaration de 1999 de l’appelante avait été produite dans le délai prescrit. Il a dit que la déclaration aurait été établie par un comptable, mais il n’a pas pu se souvenir de son nom. Il n’a pas pu se rappeler s’il avait produit lui-même la déclaration de 1999 ou si c’était le comptable qui l’avait établie.
+[9] L’affidavit de M. Denis Desloges, un agent du Bureau des litiges du Bureau des services fiscaux de l’ARC à Ottawa, révèle qu’aucune des déclarations de revenus de l’appelante concernant les années 1999 à 2005 inclusivement n’a été soumise au ministre dans les six mois suivant la fin de son année, ainsi que le précise l’alinéa 150(1)a) de la LIR. Les déclarations ont été produites ainsi :
+Fin de l’année d’imposition : 31 octobre
+Date de production
+1999
+9 août 2010
+2000
+29 janvier 2010
+2001
+31 décembre 2002
+2002
+17 novembre 2006
+2003
+17 janvier 2007
+2004
+5 février 2007
+2005
+16 février 2007
+[10] Je suis arrivée à la conclusion que l’appelante n’a pas démontré que la pénalité pour production tardive avait été imposée à tort pour son année d’imposition ayant pris fin le 31 octobre 1999. L’appel est rejeté.
+Signé à Ottawa, Canada, ce 9e jour de juillet 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 14e jour d’août 2013.
+C. Laroche, traducteur
+RÉFÉRENCE : 2013 CCI 224
+No DU DOSSIER DE LA COUR : 2013-284(IT)I
+INTITULÉ : PONT ROUGE SYSTEMS INC ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 28 juin 2013
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 9 juillet 2013
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Kent Heatherington
+Avocate de l’intimée :
+Me Kira Brezhneva
+AVOCATS INSCRITS
+AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

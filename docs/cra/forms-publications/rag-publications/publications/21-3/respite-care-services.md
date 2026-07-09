@@ -1,0 +1,108 @@
+---
+title: "Respite Care Services"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/21-3/respite-care-services.html
+last_modified: 2019-04-15
+---
+# Respite Care Services
+
+GST/HST Memorandum 21-3 January 2019
+
+This memorandum explains the GST/HST exemption for supplies of respite care services under section 3 of Part IV of Schedule V.
+
+All legislative references in this publication are to the *Excise Tax Act* unless otherwise specified. The information in this publication does not replace the law found in the Act and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the Act or relevant regulation, or call GST/HST Rulings at 1-800-959-8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1-800-567-4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1-855-666-5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario and 15% in New Brunswick, Newfoundland and Labrador, Nova Scotia, and Prince Edward Island. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, see [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Respite care services
+
+1. A supply of a service of providing care and supervision to an individual with limited physical or mental capacity for self-supervision and self-care due to an infirmity or disability is exempt under section 3 of Part IV of Schedule V if the service is rendered principally at an establishment of the supplier.
+
+2. An exempt supply of a service of providing care and supervision to an individual with limited physical or mental capacity for self-supervision and self-care due to an infirmity or disability can include lodging at an establishment of the supplier. For more information about the meaning of **lodging**, refer to [GST/HST Memorandum 19-2, Residential Real Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2.html).
+
+An individual with limited mental capacity for self-supervision and self‑care stays at a supplier’s establishment for 2 days a month while the individual’s parents are away. The individual is provided with care and supervised activities during their stay at the establishment. The supply of care and supervision at the establishment is an exempt supply under section 3 of Part IV of Schedule V.
+
+### Individual with limited physical or mental capacity for self-supervision and self-care due to an infirmity or disability
+
+3. An **individual with limited physical or mental capacity for self-supervision and self-care** is an individual who, because of their physical or mental health care needs (for example, chronic diseases or functional disabilities), does not have the ability to independently take care of themselves. The reference to self-care must be read together with self-supervision since an individual’s capacity for self-care is influenced by their capacity for self-supervision. For example, the fact that an individual requires assistance with meal preparation and basic activities of daily living alone is not indicative of the individual having limited physical or mental capacity for self-supervision and self-care.
+
+4. The term **infirmity** is generally understood to mean physical weakness, especially due to age or disease.
+
+5. For purposes of the GST/HST, **disability** generally refers to a long-term impairment that restricts an individual in carrying out their activities of daily living. The individual’s disability may be congenital or the result of an injury, a neuromuscular disorder (such as muscular dystrophy or multiple sclerosis), or another condition (such as cerebral palsy, paraplegia, amputation, pulmonary disease, heart disease, arthritis, diabetes, or a back disorder).
+
+A company provides care and supervision to an individual with limited physical capacity for self‑supervision and self‑care due to a physical disability. The service supplied includes life skills training such as cooking and socialization skills. The individual spends 3 to 4 hours a day, Monday through Friday, at the company’s establishment where the service is rendered. The supply of the service is an exempt supply under section 3 of Part IV of Schedule V.
+
+### Supply of a service rendered principally at an establishment of the supplier
+
+6. A supply of a service of providing care and supervision to individuals with limited physical or mental capacity for self-supervision and self-care due to an infirmity or disability must be rendered principally at an establishment of the supplier in order to be exempt under section 3 of Part IV of Schedule V. For GST/HST purposes, **principally** means primarily. The CRA has defined **primarily** to mean more than 50%.
+
+7. The expression **at an establishment of the supplier** in section 3 of Part IV of Schedule V is interpreted to mean at the premises of the supplier of the service. The following factors, which are not necessarily all-inclusive or of equal significance in any given case, may be used to determine whether a premises is an establishment of a supplier:
+
+- who has authority over making operational decisions in the establishment
+
+- who has control of day-to-day operations of the establishment
+
+- who has presence in the establishment
+
+- the types of activities and routine carried on in the establishment
+
+- the establishment’s operating agreements
+
+- relevant provincial legislation
+
+An individual with limited mental capacity for self-supervision and self-care due to a disability attends a day program provided by ABC Inc. (ABC) as the individual requires care and supervision while their primary caregiver is unavailable. In addition to rendering care and supervision at its establishment Monday to Friday from 9 am to 3 pm, ABC includes day trips twice weekly to places such as museums, bowling alleys, and movie theatres. Since the service of providing care and supervision is rendered principally at ABC’s establishment, the supply made by ABC is an exempt supply under section 3 of Part IV of Schedule V.
+
+### Example 4
+
+A person provides care and supervision to an elderly individual who has limited capacity for self-supervision and self-care due to the effects of Alzheimer’s disease. This service is rendered in the individual’s home 3 times a week and allows the individual’s spouse to run errands and attend personal appointments. Since the service is not rendered principally at an establishment of the supplier, the supply is not an exempt supply under section 3 of Part IV of Schedule V.
+
+## Other exempting provisions
+
+8. A supply of a service of providing care and supervision that is not exempt under section 3 of Part IV of Schedule V may be exempt under another provision in the Act.
+
+For 3 days a week, a charity provides care and supervision in the home of an individual who has limited physical capacity for self-supervision and self-care due to a disability. During these days, the charity prepares meals for the individual and assists them with dressing and other activities of daily living. Although the supply is not exempt under section 3 of Part IV of Schedule V because the supply is not rendered principally at an establishment of the supplier, the supply will be exempt under section 1 of Part V.1 of Schedule V if all requirements of that exemption are met. Refer to [Guide RC4082, GST/HST Information for Charities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4082.html), for more information.
+
+### Example 6
+
+An individual with partial paralysis receives a single supply of a publicly funded home care service from a service provider. In addition to cleaning, laundry, and meal preparation in the individual’s home, the service provider also goes grocery shopping and picks up medications for the individual. Although the supply is not exempt under section 3 of Part IV of Schedule V because the supply is not rendered principally at an establishment of the supplier, the supply will be an exempt home care service under section 13 of Part II of Schedule V if all requirements of that exemption are met. Refer to [GST/HST Info Sheet GI-166, Application of the GST/HST to Home Care Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-166.html), for more information.
+
+## Single supply or multiple supplies
+
+9. When a service is supplied together in combination with other property and/or services, a determination must first be made as to whether the transaction is a single supply or multiple supplies. For information on whether a transaction consisting of several elements constitutes a single supply or multiple supplies, refer to [GST/HST Policy Statement P-077R2, Single and Multiple Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-077r2.html)*.*
+
+10. If a transaction consists of multiple supplies, it is necessary to determine whether one of those supplies is incidental to another and whether it may consequently be deemed to form part of a single supply pursuant to other provisions of the Act (such as section 138, which applies where the main and the incidental supplies are made for a single consideration). For information on whether one supply is incidental to another, refer to [GST/HST Policy Statement P-159R-1, Meaning of the Phrase “Reasonably Regarded as Incidental”](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-159r-1.html), and [GST/HST Policy Statement P-160R, Meaning of the Phrase “Where a Particular Property or Service is Supplied Together with any Other Property or Service”](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-160r.html). For each supply identified, it must then be determined whether the supply is taxable or exempt.
+
+A person operates an establishment where individuals with limited physical or mental capacity for self-supervision and self-care due to a disability spend each day between 10 am and 4 pm. An agreement is entered into where the person agrees to provide, primarily at the establishment, care, supervision, lunch, art supplies, and transportation to and from different activities. Throughout the day, healthy snacks are offered to the individuals at no extra cost.
+
+The transaction consists of multiple elements, namely care and supervision, lunch, art supplies, transportation and snacks. These elements are interdependent and supplied together for one fee. The provision of each element is contingent on the provision of the others. All elements must be acquired and no element can be acquired separately or substituted. The provision of care and supervision is the dominant element of the supply.
+
+Based on the principles set out in [GST/HST Policy Statement P-077R2](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-077r2.html), the transaction between the person who operates the establishment and an individual with a disability constitutes a single supply of a service.
+
+### GST/HST registration
+
+11. Although a supply may be taxable, the supplier does not have to register for GST/HST purposes and collect tax if it is a small supplier. For information on the requirement to register for GST/HST purposes, refer to [GST/HST Memorandum 2-1, Required Registration](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/2-1.html), and [GST/HST Memorandum 2-2, Small Suppliers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/2-2.html).
+
+## Further information
+
+All **GST/HST technical publications** are available at [Technical information – GST/HST](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries,**call Business Enquiries at 1-800-959-5525;
+
+- for **GST/HST technical enquiries,**call GST/HST Rulings at 1-800-959-8287.
+
+If you are located in**Quebec**, call**Revenu Québec**at **1-800-567-4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST - Financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or
+
+- for**general GST/HST**or**QST enquiries**, call**Business Enquiries**at**1-800-959-5525;**
+
+- for**technical GST/HST**or**QST enquiries**, call**GST/HST Rulings SLFI**at**1-855-666-5166.**

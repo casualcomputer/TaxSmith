@@ -1,0 +1,865 @@
+---
+title: "Omer Reshad O/A Kabul Auto Sell c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29156/index.do"
+last_modified: "2009-03-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 158"
+citation2: ""
+neutral_citation: "2009 CCI 158"
+decision_date: "2009-03-23"
+language: "fr"
+item_id: "29156"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6716
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:02:18.738000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c3616945323f5183022971e1d522ed711d68c3945fb9604ae4cf8cfe85a78f9a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Omer Reshad O/A Kabul Auto Sell c. La Reine
+
+- Citation: 2009 CCI 158
+- Decision date: 2009-03-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6716, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Omer Reshad O/A Kabul Auto Sell c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-03-23
+Référence neutre
+2009 CCI 158
+Numéro de dossier
+2008-2734(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2734(IT)I
+ENTRE :
+RESHAD OMER s/n KABUL AUTO SELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec l’appel de Reshad Omer
+(2008-2735(GST)I)), le 27 février 2009, à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentante de l’appelant :
+Mme Narine Persaud
+Avocate de l’intimée :
+Me Nikki Kumar
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2004 et 2005 sont accueillis en partie, avec dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que :
+a) le revenu d’entreprise net de l’appelant pour chacune de ces années était le suivant :
+2004
+2005
+Revenu d’entreprise net indiqué dans les déclarations de revenus de l’appelant
+1 341 $
+3 488 $
+Montant ayant fait l’objet d’une nouvelle cotisation au titre d’un revenu d’entreprise non déclaré
+19 962 $
+15 694 $
+Rajustements à effectuer conformément au présent jugement
+(11 194 $)
+(8 934 $)
+Revenu d’entreprise net révisé
+10 109 $
+10 248 $
+b) les pénalités imposées en vertu du paragraphe 163(2) de la Loi sont supprimées.
+Les droits de dépôt de 100 $ doivent être remboursés à l’appelant.
+Signé à Halifax (Nouvelle-Écosse), le 23e jour de mars 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 22e jour de juin 2009
+David Aubry, LL.B.
+Réviseur
+Dossier : 2008-2735(GST)I
+ENTRE :
+RESHAD OMER s/n KABUL AUTO SELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Reshad Omer (2008-2734(IT)I)), le 27 février 2009, à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentante de l’appelant :
+Mme Narine Persaud
+Avocate de l’intimée :
+Me Nikki Kumar
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi sur la taxe d’accise (la « LTA ») pour la période allant du 1er janvier 2004 au 31 décembre 2005 (la « période ») est accueilli en partie, sans qu’aucuns dépens ne soient adjugés, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que :
+a) la taxe nette payable par l’appelant pour la période est réduite de 1 409 $;
+b) les pénalités imposées en vertu de l’article 285 de la LTA sont supprimées;
+c) les pénalités imposées en vertu de l’article 280 de la LTA sont réduites en vue de correspondre à la taxe nette révisée payable pour la période, mais elles sont par ailleurs confirmées.
+Les droits de dépôt de 100 $ doivent être remboursés à l’appelant.
+Signé à Halifax (Nouvelle‑Écosse), le 23e jour de mars 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 22e jour de juin 2009
+David Aubry, LL.B.
+Réviseur
+Référence : 2009CCI158
+Date : 20090323
+Dossiers : 2008-2734(IT)I
+2008-2735(GST)I
+ENTRE :
+RESHAD OMER s/n KABUL AUTO SELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] L’appelant est concessionnaire de voitures d’occasion; il exploite cette entreprise à titre de propriétaire unique, à Toronto. Pour ses années d’imposition 2004 et 2005, l’appelant a fait l’objet de nouvelles cotisations par lesquelles était inclus un revenu additionnel tiré de son entreprise dans son revenu, tel qu’il était déterminé pour l’application de la Loi de l’impôt sur le revenu (la « Loi »), compte tenu d’une analyse de la valeur nette qui a été effectuée pour sa famille. Cette analyse a également donné lieu à une nouvelle cotisation à l’égard de la taxe nette additionnelle, en vertu de la Loi sur la taxe d’accise (la « LTA »), pour la période allant du 1er janvier 2004 au 31 décembre 2005 (la « période »). Dans la nouvelle cotisation qui avait été établie en vertu de la LTA étaient également refusés les crédits de taxe sur les intrants qui avaient été demandés, au montant de 1 743 $ pour l’année 2004 et de 8 994 $ pour l’année 2005 (soit 10 737 $ en tout). Avant le début de l’audience, les parties se sont rencontrées afin d’examiner les reçus que l’appelant et sa représentante avaient apportés à l’audience. À la suite de cette réunion, la représentante de l’appelant a déclaré que l’appelant n’interjetait plus appel du refus d’accorder les crédits de taxe sur les intrants de 10 737 $.
+[2] Par conséquent, la seule question en litige dans la présente affaire est de savoir si l’appelant avait gagné le montant de revenu non déclaré que l’intimée a déterminé à l’aide de l’analyse de la valeur nette. La seule question soulevée par l’appelant au sujet de l’analyse de la valeur nette se rapporte aux montants déterminés au titre des dépenses personnelles. L’analyse de l’actif et du passif avait uniquement révélé une augmentation de la valeur nette de l’appelant de 3 052,59 $ pour l’année 2004 et de 10 763,27 $ pour l’année 2005. La somme des dépenses personnelles que l’intimée avait déterminé était de 39 770 $ pour l’année 2004 et de 38 293 $ pour l’année 2005.
+[3] Dans la déclaration de revenus de l’appelant pour les années 2004 et 2005, les montants suivants ont été indiqués au titre du revenu brut de l’appelant et du revenu net que l’appelante avait tiré à titre de concessionnaire de voitures d’occasion :
+Année d’imposition
+Revenu brut
+Revenu net
+2004
+55 550 $
+1 341 $
+2005
+171 710 $
+3 488 $
+[4] L’Agence du revenu du Canada (l’« ARC ») a établi de nouvelles cotisations à l’égard de l’appelant en se fondant sur une analyse de la valeur nette et elle a inclus les montants suivants dans le revenu de l’appelant au titre d’un revenu non déclaré; de plus, elle a imposé les pénalités suivantes conformément au paragraphe 163(2) de la Loi :
+Année d’imposition
+Montant ajouté au titre d’un revenu non déclaré
+Pénalités
+2004
+19 962 $
+1 962 $
+2005
+15 694 $
+2 156 $
+[5] En plus des montants inclus dans le revenu de l’appelant pour l’application de la Loi, l’appelant a fait l’objet de nouvelles cotisations en vertu de la LTA, de façon que la taxe nette payable pour la période soit majorée de 2 496 $, compte tenu des montants susmentionnés de revenu non déclaré et de pénalités établies en vertu de l’article 285 de la LTA, de 624 $, sur cette taxe nette additionnelle. Une pénalité a également été établie en vertu de l’article 280 de la LTA.
+[6] Dans la décision Bigayan v. The Queen, [2000] 1 C.T.C. 2229, 2000 DTC 1619, le juge Bowman (tel était alors son titre) a fait les remarques suivantes au sujet de la méthode de la valeur nette visant à déterminer le revenu d’un contribuable :
+[2] La méthode de la valeur nette est, comme on le faisait observer dans l'affaire Ramey v. The Queen, 93 DTC 791, une solution de dernier recours que l'on emploie lorsque tout le reste a échoué. On l'utilise souvent lorsqu'un contribuable a omis de produire des déclarations de revenus ou n'a pas conservé de documents. C'est un instrument imprécis, exact à l'intérieur d'un registre dont le champ est indéterminé. Elle repose sur le postulat selon lequel, si l'on soustrait la valeur nette d'un contribuable en début d'année de sa valeur nette en fin d'année, si l'on ajoute les dépenses du contribuable durant l'année et si l'on soustrait les encaissements non imposables et les plus-values d'actifs existants, alors le résultat net, après déduction de toute somme déclarée par le contribuable, doit être attribuable au revenu non déclaré gagné durant l'année, sauf si le contribuable peut apporter une preuve contraire. C'est au mieux une méthode insatisfaisante, qui est arbitraire et inexacte, mais quelquefois c'est le seul moyen d'arriver à un chiffre qui se rapproche du revenu d'un contribuable.
+[3] Le meilleur moyen de contester une cotisation fondée sur la valeur nette est de produire la preuve de ce qu'est véritablement le revenu du contribuable. Un moyen moins satisfaisant, mais néanmoins acceptable, est décrit par le juge Cameron dans l'affaire Chernenkoff v. Minister of National Revenue, 49 DTC 680, à la page 683 :
+[TRADUCTION]
+En l'absence de documents, l'autre moyen offert à l'appelant consistait à prouver que, même après une application en règle de la formule de la valeur nette, les cotisations étaient erronées.
+[4] Ce moyen de contester une cotisation fondée sur la valeur nette est reconnu, mais, même après que l'on a procédé aux rajustements, on reste avec le sentiment trouble que la vérité n'a pas été pleinement découverte. Il est peu probable que l'on rende parfait en le modifiant un instrument qui, par nature, est imparfait.
+[7] Au cours de l’audience, les parties ont convenu que certains rajustements devaient être apportés à certains montants inclus au titre des dépenses personnelles. Les parties se sont entendues sur les rajustements suivants :
+2004
+Élément
+Montant inclus dans la nouvelle cotisation
+Montant convenu
+Déduction dans l’analyse de la valeur nette
+Eau, combustible et électricité
+1 945 $
+0 $
+1 945 $
+Véhicules de loisirs et bateaux
+527 $
+0 $
+527 $
+Divertissement au foyer (radio, téléviseur, magnétoscope, etc.)
+766 $
+406 $
+360 $
+Total
+2 832 $
+2005
+Élément
+Montant inclus dans la nouvelle cotisation
+Montant convenu
+Déduction dans l’analyse de la valeur nette
+Véhicules de loisirs et bateaux
+527 $
+0 $
+527 $
+Divertissement au foyer (radio, téléviseur, magnétoscope, etc.)
+766 $
+406 $
+360 $
+Total
+887 $
+[8] Les montants utilisés par l’ARC pour les dépenses personnelles étaient tirés de rapports de Statistique Canada sur les dépenses personnelles d’une famille composée de trois personnes, à moins que le montant proposé par l’appelant n’ait été accepté. En l’espèce, l’appelant vivait avec sa femme et leur premier enfant, qui est né au mois de mars 2004. La femme de l’appelant a travaillé dans un cabinet de dentiste pendant une partie des années 2004 et 2005 et son revenu, pour ces années‑là, a été inclus dans l’analyse de la valeur nette. Certains montants, pour des dépenses personnelles, n’ont pas été contestés par l’appelant. La liste qui suit indique les montants inclus pour les dépenses personnelles qui ont été contestées par l’appelant, le montant qui a été utilisé afin de déterminer le revenu non déclaré de l’appelant et le montant proposé par l’appelant :
+2004
+Élément
+Montant inclus dans la nouvelle cotisation
+Montant proposé par l’appelant
+Aliments achetés au restaurant
+1 969,60 $
+0 $
+Logement – autres logements – hébergement des voyageurs
+228,26 $
+0 $
+Téléphone
+914,20 $
+396 $
+Garde d’enfants
+851,85 $
+360 $
+Produits de nettoyage
+340,03 $
+120 $
+Articles en papier, emballages plastiques et métalliques
+365,92 $
+180 $
+Vêtements pour femmes
+1 347,19 $
+180 $
+Vêtements pour hommes
+896,56 $
+240 $
+Tissus pour vêtements, menus articles, blanchisserie
+234,14 $
+100 $
+Carburant pour voitures
+1 737,81 $
+960 $
+Entretien et réparations
+580,05 $
+120 $
+Produits médicaux et pharmaceutiques
+267,08 $
+0 $
+Articles et services pour le soin des yeux
+162,37 $
+0 $
+Soins dentaires
+217,67 $
+0 $
+Assurance-maladie publique et privée
+329,44 $
+0 $
+Articles et accessoires de soins personnels
+810,66 $
+100 $
+Coupes de cheveux, lavages, mises en plis
+378,86 $
+120 $
+Matériel de sport et d’athlétisme
+180,02 $
+0 $
+Jouets, jeux, ordinateur, matériel de loisirs, etc.
+694,18 $
+0 $
+Matériel et services photographiques
+189,43 $
+0 $
+Services récréatifs (événements sportifs, établissements récréatifs et sportifs, forfaits, etc.)
+1 043,63 $
+0 $
+Matériel de lecture
+307,09 $
+0 $
+Éducation
+585,94 $
+0 $
+Dons et contributions en argent
+811,84 $
+0 $
+Autres dons (fleurs, jouets, etc.)
+536,52 $
+0 $
+Dons et contributions – organismes religieux
+171,78 $
+120 $
+Dons et contributions – autres œuvres de bienfaisance
+131,78 $
+0 $
+Loteries organisées par le gouvernement et billets de loterie
+194,14 $
+0 $
+16 478,04 $
+2 996,00 $
+2005
+Élément
+Montant inclus dans la nouvelle cotisation
+Montant proposé par l’appelant
+Aliments achetés au restaurant
+1 969,60 $
+0 $
+Logement – autres logements – hébergement des voyageurs
+228,26 $
+0 $
+Téléphone
+914,20 $
+396 $
+Garde d’enfants
+851,85 $
+480 $
+Produits de nettoyage
+340,03 $
+120 $
+Articles en papier, emballages plastiques et métalliques
+365,92 $
+180 $
+Vêtements pour femmes
+1 347,19 $
+240 $
+Vêtements pour hommes
+896,56 $
+240 $
+Tissus pour vêtements, menus articles, blanchisserie
+234,14 $
+100 $
+Carburant pour voitures
+1 737,81 $
+1 260 $
+Entretien et réparations
+580,05 $
+120 $
+Produits médicaux et pharmaceutiques
+267,08 $
+0 $
+Articles et services pour le soin des yeux
+162,37 $
+0 $
+Soins dentaires
+217,67 $
+0 $
+Assurance-maladie publique et privée
+329,44 $
+0 $
+Articles et accessoires de soins personnels
+810,66 $
+100 $
+Coupes de cheveux, lavages, mises en plis
+378,86 $
+120 $
+Matériel de sport et d’athlétisme
+180,02 $
+0 $
+Jouets, jeux, ordinateur, matériel de loisirs, etc.
+694,18 $
+0 $
+Matériel et services photographiques
+189,43 $
+0 $
+Services récréatifs (événements sportifs, établissements récréatifs et sportifs, forfaits, etc.)
+1 043,63 $
+0 $
+Matériel de lecture
+307,09 $
+0 $
+Éducation
+585,94 $
+0 $
+Dons et contributions en argent
+811,84 $
+0 $
+Autres dons (fleurs, jouets, etc.)
+536,52 $
+0 $
+Dons et contributions – organismes religieux
+171,78 $
+200 $
+Dons et contributions – autres œuvres de bienfaisance
+131,78 $
+0 $
+Loteries organisées par le gouvernement et billets de loterie
+194,14 $
+0 $
+16 478,04 $
+3 556 $
+Aliments achetés au restaurant
+[9] L’appelant a déclaré qu’il n’était pas allé au restaurant au cours des années visées par les appels. Dans la présente affaire, l’appelant se trouve dans la situation difficile où il doit essayer de prouver la négative, c’est‑à‑dire qu’il n’a pas dépensé le montant mentionné pour manger au restaurant. L’intimée ne disposait d’aucun reçu à l’appui des dépenses effectuées par l’appelant dans des restaurants ni d’aucun élément de preuve montrant que l’appelant avait dépensé de l’argent dans des restaurants. Le montant qui a été inclus était uniquement basé sur une moyenne de Statistique Canada. Or, rien n’indiquait si la moyenne de Statistique Canada était basée sur le niveau de revenu. Il semble logique de supposer que les familles à revenu plus élevé vont plus souvent au restaurant que les familles à moindre revenu. Or, le revenu de la femme de l’appelant au cours de chacune de ces années était de 15 974 $ en 2004 et de 19 326 $ en 2005.
+[10] La femme de l’appelant n’a pas témoigné dans la présente affaire. Rien n’indiquait si elle allait au restaurant lorsqu’elle travaillait, en 2004 et en 2005. L’analyse de la valeur nette était fondée sur une famille composée de trois personnes et comprendrait donc des montants que la femme de l’appelant aurait dépensés à divers titres. Puisque la femme de l’appelant n’a pas témoigné, je ne suis pas prêt à accepter que le montant dépensé par l’appelant et sa femme en 2004 et en 2005 était nul. Étant donné que leur fille est née au mois de mars 2004, la femme de l’appelant a uniquement travaillé pendant une partie de l’année, en 2004 et en 2005. J’accepte le témoignage de l’appelant lorsqu’il déclare qu’il n’est pas allé au restaurant en 2004 et en 2005. Toutefois, étant donné que l’analyse de la valeur nette est également basée sur des montants que la femme de l’appelant aurait dépensés, et puisque la femme de l’appelant n’a pas témoigné, il faut estimer le montant qu’elle aurait dépensé. Puisqu’elle a travaillé pendant une partie de chaque année seulement, le montant dépensé dans des restaurants devrait être ramené à 250 $ pour chaque année.
+Logement – autres logements – hébergement des voyageurs
+[11] L’appelant a déclaré ne pas avoir effectué de voyages en 2004 et en 2005, sauf pour assister à des ventes aux enchères en vue d’acheter des voitures. Il s’agissait uniquement de voyages d’une journée et l’appelant retournait chez lui le soir. Je retiens le témoignage de l’appelant et je conclus qu’aucun montant n’aurait dû être inclus dans cette catégorie pour les années 2004 et 2005.
+Téléphone
+[12] L’appelant a déclaré posséder deux téléphones, un téléphone résidentiel et un téléphone cellulaire qu’il utilisait pour l’entreprise. Un tableau indiquant les sommes versées à Bell (pour le téléphone résidentiel) et à Rogers (pour le téléphone cellulaire) a été produit en preuve. Les tableaux montrent que le téléphone résidentiel coûtait environ 30 $ par mois et que les frais mensuels associés au téléphone cellulaire variaient d’environ 32 $ jusqu’à environ 70 $ pour un mois.
+[13] Dans le calcul de son revenu pour l’application de la Loi, l’appelant a demandé la déduction d’un montant de 1 023 $ au titre des frais de téléphone en 2004 et un montant de 819 $ en 2005. Il semble que l’appelant ait demandé la déduction des frais associés aux deux téléphones dans le calcul de son revenu pour l’application de la Loi. L’intimée n’a pas établi de nouvelle cotisation à l’égard de l’appelant en vue de refuser la déduction d’une partie du montant déduit au titre des frais de téléphone et elle n’a pas non plus soumis d’arguments sur ce point. Il me semble qu’une fois qu’un montant a été déduit dans le calcul du revenu d’une personne, il n’est pas approprié d’inclure ce montant dans l’analyse de la valeur nette. Si tout ou partie de ce montant ne doit pas être déduit, l’approche à adopter consiste à établir une nouvelle cotisation en vue de refuser, en totalité ou en partie, la dépense qui n’est pas déductible. Un exemple simple illustrera la chose.
+[14] Supposons que le revenu et les dépenses réels et le revenu et les dépenses déclarés d’un particulier sont les suivants :
+Montant réel
+Montant déclaré
+Revenu
+29 000 $
+20 000 $
+Dépenses
+5 000 $
+12 000 $
+Revenu net
+24 000 $
+8 000 $
+[15] Dans cet exemple, les 5 000 $ représentant les dépenses réelles se rapportent aux dépenses que le particulier a effectuées afin de gagner un revenu. Supposons que le particulier consacre tout le revenu de l’année à des dépenses personnelles de 24 000 $ et à des dépenses d’entreprise de 5 000 $. Supposons que les 12 000 $ dont la déduction est demandée au titre des dépenses comprend 7 000 $ pour les dépenses personnelles que le particulier n’a pas effectuées afin de gagner un revenu.
+[16] Si, dans l’analyse de la valeur nette, le montant de 24 000 $ est inclus au titre des dépenses personnelles (ce qui comprendrait les 7 000 $ pour les dépenses personnelles qui avaient été déduites), le revenu non déclaré du particulier serait alors le suivant :
+Dépenses personnelles 24 000 $
+Moins : Revenu déclaré (8 000 $)
+Revenu non déclaré 16 000 $
+[17] Cela nous amènerait à conclure que le revenu total était de 36 000 $ (le revenu déclaré de 20 000 $, plus le revenu non déclaré de 16 000 $). Si les dépenses qui ont été déduites ne sont pas rajustées (et qu’elles s’établissent toujours à 12 000 $), le revenu net serait exact. Toutefois, en pareil cas, deux erreurs ne font pas une vérité. Le revenu et les dépenses seraient dans les deux cas inexacts. À mon avis, il ne convient pas d’adopter cette approche. Le montant du revenu devrait uniquement être rajusté du montant qui n’a pas été déduit et les dépenses qui ont été déduites devraient être réduites du montant des dépenses personnelles que le particulier n’a pas effectuées afin de gagner un revenu. Si le contribuable devait être imposé, dans cet exemple, compte tenu du fait que son revenu s’élevait à 36 000 $ et que ses dépenses étaient de 12 000 $ (un revenu net de 24 000 $), il serait encore possible que le contribuable fasse l’objet d’une nouvelle cotisation par laquelle serait refusée la partie des dépenses que le contribuable n’a pas effectuées afin de gagner un revenu compte tenu du fait qu’il ne s’agissait pas de la question qui se posait dans l’analyse de la valeur nette qui a été préparée pour déterminer s’il y avait un revenu non déclaré. Le montant qui a été déduit au titre des dépenses est connu puisqu’il est indiqué dans la déclaration de revenus et si ce montant ne visait pas entièrement à permettre au contribuable de gagner un revenu, une nouvelle cotisation devrait être établie en vue de refuser la partie des dépenses que le contribuable n’a pas effectuées afin de gagner un revenu, plutôt qu’une nouvelle cotisation visant à porter le revenu du contribuable à un montant supérieur à son revenu réel.
+[18] Dans cet exemple, les dépenses personnelles, pour les besoins de l’analyse de la valeur nette, seraient de 24 000 $, moins les 7 000 $ qui ont été inclus dans les dépenses dont la déduction était demandée, soit 17 000 $. Les dépenses qui ont été déduites devraient être réduites de la partie des dépenses qui n’est pas déductible, soit de 7 000 $. Dans l’analyse de la valeur nette, le revenu non déclaré serait alors le suivant :
+Dépenses personnelles 17 000 $
+Moins : Revenu déclaré (8 000 $)
+Revenu non déclaré 9 000 $
+[19] Le revenu net serait alors déterminé comme suit :
+Revenu déclaré 20 000 $
+Ajouter : Revenu non déclaré 9 000 $
+Revenu total 29 000 $
+Moins : Dépenses dont la déduction était demandée (12 000 $)
+Ajouter : Dépenses refusées 7 000 $
+Revenu net 24 000 $
+[20] Dans la présente affaire, l’intimée n’a pas soulevé, dans sa réponse, la question de la déductibilité d’une partie des frais de téléphone et, au cours de l’audience, elle n’a pas non plus soulevé d’arguments sur ce point. Si l’intimée avait soulevé, dans sa réponse, la question de la déductibilité du montant déduit au titre des frais de téléphone, l’appelant aurait été informé du problème et il aurait eu la possibilité de prouver que le téléphone résidentiel était utilisé dans le cadre de l’exploitation de l’entreprise. Étant donné que la question n’était pas soulevée dans la réponse, l’appelant n’était pas au courant du problème. Dans une analyse de la valeur nette, la question, en ce qui concerne les frais de téléphone, est de savoir si le montant en question a été dépensé. En ce qui concerne la déductibilité des frais de téléphone, il s’agit de savoir si le contribuable a dépensé le montant afin de gagner un revenu, ce qui exigerait une preuve différente de celle qui serait présentée s’il s’agissait uniquement de savoir si la dépense a été effectuée. Dans ces conditions, il me semble qu’aucun rajustement n’a à être apporté au montant qui a été déduit au titre des frais de téléphone dans le calcul du revenu de l’appelant pour l’application de la Loi.
+[21] Par conséquent, aucun montant n’aurait dû être inclus à l’égard des frais de téléphone dans l’analyse de la valeur nette et aucun rajustement ne devrait être apporté au montant dont la déduction a été demandée au titre des frais de téléphone dans le calcul du revenu de l’appelant pour l’application de la Loi.
+Garde d’enfants
+[22] L’appelant a déclaré qu’au cours de la première année, sa femme était restée à la maison avec le bébé. Lorsque sa femme est retournée travailler, la sœur de l’appelant s’est occupée de la fillette. L’appelant a déclaré qu’il ne versait pas d’argent à sa sœur. Je retiens le témoignage de l’appelant et je conclus que l’estimation de l’appelant, de 360 $ pour l’année 2004 et de 480 $ pour l’année 2005, devrait être utilisée pour les frais de garde.
+Produits de nettoyage
+Articles en papier, emballages plastiques et métalliques
+Tissus pour vêtements, menus articles, blanchisserie
+[23] Comme il en a ci‑dessus été fait mention, l’analyse de la valeur nette était basée sur une estimation des montants que l’appelant et sa femme auraient dépensés. Étant donné que la femme de l’appelant n’a pas témoigné, il est impossible de savoir combien d’argent elle peut avoir dépensé à cet égard. L’appelant a déclaré ne pas accepter qu’ils avaient dépensé le montant moyen mentionné par Statistique Canada, mais en l’absence du témoignage de sa femme, je ne suis pas prêt à accepter le montant qu’il a proposé, de sorte que le montant utilisé à l’égard de ces éléments pour chacune des deux années ne sera pas modifié.
+Vêtements pour femmes
+[24] Quant à cette catégorie en particulier, il aurait été fort important d’entendre le témoignage de la femme de l’appelant. L’estimation proposée par l’appelant, qui ne s’élevait qu’à 15 $ par mois pour l’année 2004, semble faible. En l’absence du témoignage de la femme de l’appelant, je ne suis pas prêt à accepter le montant proposé par l’appelant, de sorte que le montant utilisé à l’égard de cet élément pour chacune des deux années ne sera pas modifié.
+Vêtements pour hommes
+[25] L’appelant estime n’avoir dépensé que 20 $ par mois pour ses vêtements. Je retiens son témoignage, à savoir qu’il dépensait moins que la moyenne statistique, mais il me semble qu’un montant annuel de 240 $ est trop faible. Par conséquent, le montant sera rajusté jusqu’à concurrence de la moyenne des deux montants, soit (896,56 + 240 $)/2 = 568 $ par année.
+Carburant pour voitures, entretien et réparations
+[26] Rien n’indiquait qu’une partie quelconque des montants proposés par l’appelant ait été déduite dans le calcul de son revenu pour l’application de la Loi ni qu’une partie de ces montants soit déductible dans le calcul du revenu de l’appelant. La femme de l’appelant a travaillé pendant une partie de l’année seulement en 2004 et en 2005. Je retiens le témoignage de l’appelant lorsqu’il déclare que les montants dépensés à titre personnel pour ces éléments s’élevaient à 960 $ pour le carburant en 2004, à 120 $ pour l’entretien et les réparations en 2004, à 1 260 $ pour le carburant en 2005 et à 120 $ pour l’entretien et les réparations en 2005.
+Produits médicaux et pharmaceutiques
+Articles et services pour le soin des yeux
+Soins dentaires
+Assurance‑maladie publique et privée
+[27] L’appelant a déclaré ne pas avoir engagé de frais dans cette catégorie. Il me semble que l’appelant devrait savoir si sa femme ou lui‑même ont engagé des frais pour le soin des yeux, les soins dentaires, ou l’assurance‑maladie publique ou privée. En ce qui concerne les produits médicaux et pharmaceutiques, il me semble que certains frais auraient été engagés. L’appelant a reconnu qu’ils auraient acheté du Tylenol; en l’absence du témoignage de sa femme, je ne puis déterminer le montant que celle‑ci aurait dépensé pour des produits médicaux et pharmaceutiques. Je retiens le témoignage de l’appelant lorsqu’il déclare qu’aucune dépense n’a été effectuée à l’égard des articles et services pour le soin des yeux, des soins dentaires ainsi que de l’assurance‑maladie publique et privée. En ce qui concerne les produits médicaux et pharmaceutiques, le montant utilisé devrait être le montant moyen mentionné par Statistique Canada.
+Articles et accessoires de soins personnels
+Coupes de cheveux, lavages et mises en pli
+[28] L’appelant a déclaré que la sœur de sa femme est coiffeuse. Toutefois, en l’absence du témoignage de sa femme, il est impossible de déterminer si celle‑ci versait de l’argent à sa sœur pour qu’elle lui coupe les cheveux. Comme il en a ci‑dessus été fait mention, les montants qui ont été inclus se rapportent aux dépenses effectuées par l’appelant et sa femme, et non simplement par l’appelant. En l’absence du témoignage de la femme de l’appelant, le montant se rattachant aux articles et accessoires de soins personnels sera la moyenne des montants utilisés par l’ARC et du montant proposé par l’appelant (810,66 $ + 100 $)/2 = 455 $). Le montant qui devrait être utilisé pour les coupes de cheveux, les lavages et les mises en pli devrait être inférieur au montant de Statistique Canada étant donné que la belle‑soeur de l’appelant est coiffeuse. Le montant qui sera utilisé pour les coupes de cheveux, les lavages et les mises en pli s’élève à 240 $.
+Matériel de sport et d’athlétisme
+Services récréatifs (événements sportifs, établissements récréatifs et sportifs, forfaits, etc.)
+[29] L’appelant a déclaré ne pas avoir dépensé d’argent à cet égard. Je retiens son témoignage sur ce point et le montant y afférent devrait être ramené à zéro.
+Jouets, jeux, ordinateur, matériel de loisirs, etc.
+Matériel et services photographiques
+[30] L’appelant a déclaré ne pas avoir dépensé d’argent à cet égard, et ce, même si leur premier enfant était né en 2004. En l’absence du témoignage de la femme de l’appelant, je ne puis accepter que l’appelant et sa femme n’ont pas dépensé d’argent pour ces éléments en 2004 ou en 2005. Aucune modification ne sera apportée à ce titre.
+Matériel de lecture
+[31] L’appelant a déclaré ne pas avoir dépensé d’argent pour du matériel de lecture. Toutefois, en l’absence du témoignage de sa femme, je ne suis pas prêt à accepter que ni l’un ni l’autre n’aient dépensé de l’argent pour du matériel de lecture. Le montant qui sera utilisé sera de 150 $.
+Éducation
+[32] L’appelant a déclaré qu’il n’avait pas engagé de frais en matière d’éducation. Je retiens le témoignage de l’appelant sur ce point, étant donné qu’il devrait savoir si sa femme et lui ont suivi des cours. Le montant, pour l’éducation, est ramené à zéro.
+Dons et contributions en argent
+Autres dons (fleurs, jouets, etc.)
+[33] L’appelant a déclaré ne pas avoir dépensé d’argent pour ces éléments. Il a affirmé avoir reçu un grand nombre de cadeaux lorsque le bébé était né. Il ne semble pas logique que l’appelant et sa femme reçoivent un grand nombre de cadeaux de membres de la famille et d’amis, mais que ni l’appelant ni son épouse n’aient dépensé d’argent pour faire des cadeaux à des membres de la famille ou à des amis en 2004 ou en 2005. De plus, en l’absence du témoignage de la femme de l’appelant, il est impossible de savoir comment celle‑ci aurait répondu à la question de savoir combien d’argent ils dépensaient pour des cadeaux. Je retiens le témoignage de l’appelant, à savoir qu’ils auraient dépensé moins que les montants mentionnés par Statistique Canada (lesquels, comme il en a ci‑dessus été fait mention, ne semblent pas tenir compte des niveaux de revenu). Par conséquent, le montant qui doit être utilisé pour chacune de ces catégories devrait s’élever à la moitié de la moyenne de Statistique Canada (406 $ pour les cadeaux et contributions en argent et 268 $ pour les autres (fleurs, jouets, etc.)).
+Organismes religieux
+[34] Pour une année, le montant utilisé par l’ARC était plus élevé que le montant proposé par l’appelant et pour l’autre, il était inférieur au montant proposé par l’appelant. Je retiens le témoignage de l’appelant, à savoir qu’il a donné 120 $ à son église en 2004, de sorte que c’est le montant qui devrait être utilisé pour l’année 2004. Le montant utilisé pour l’année 2005 ne devrait pas être modifié étant donné que l’intimée ne se proposait pas d’augmenter le montant utilisé.
+Autres œuvres de bienfaisance
+Loteries organisées par le gouvernement et billets de loterie
+[35] Je retiens le témoignage de l’appelant, à savoir qu’aucune dépense n’a été effectuée pour l’un ou l’autre de ces éléments en 2004 ou en 2005, de sorte que les montants utilisés seront ramenés à zéro.
+[36] Compte tenu de ce qui précède, un résumé des rajustements à apporter au revenu de l’appelant pour chacune de ces années est donné ci‑dessous :
+2004
+Élément
+Montant inclus dans la nouvelle cotisation
+Montant révisé
+Rajustement
+Aliments achetés au restaurant
+1 970 $
+250 $
+1 720 $
+Logement – autres logements – hébergement des voyageurs
+228 $
+0 $
+228 $
+Téléphone
+914 $
+0 $
+914 $
+Garde d’enfants
+852 $
+360 $
+492 $
+Produits de nettoyage
+340 $
+340 $
+0 $
+Articles en papier, emballages plastiques et métalliques
+366 $
+366 $
+0 $
+Vêtements pour femmes
+1 347 $
+1 347 $
+0 $
+Vêtements pour hommes
+897 $
+568 $
+329 $
+Tissus pour vêtements, menus articles, blanchisserie
+234 $
+234 $
+0 $
+Carburant pour voitures
+1 738 $
+960 $
+778 $
+Entretien et réparations
+580 $
+120 $
+460 $
+Produits médicaux et pharmaceutiques
+267 $
+267 $
+0 $
+Articles et services pour le soin des yeux
+162 $
+0 $
+162 $
+Soins dentaires
+218 $
+0 $
+218 $
+Assurance-maladie publique et privée
+329$
+0 $
+329 $
+Articles et accessoires de soins personnels
+811$
+455 $
+356 $
+Coupes de cheveux, lavages, mises en plis
+379 $
+240 $
+139 $
+Matériel de sport et d’athlétisme
+180 $
+0 $
+180 $
+Jouets, jeux, ordinateur, matériel de loisirs, etc.
+694 $
+694 $
+0 $
+Matériel et services photographiques
+189 $
+189 $
+0 $
+Services récréatifs (événements sportifs, établissements récréatifs et sportifs, forfaits, etc.)
+1 044 $
+0 $
+1 044 $
+Matériel de lecture
+307 $
+150 $
+157 $
+Éducation
+586 $
+0 $
+586 $
+Dons et contributions en argent
+812 $
+406 $
+406 $
+Autres dons (fleurs, jouets, etc.)
+537 $
+268 $
+269 $
+Dons et contributions – organismes religieux
+172 $
+120 $
+52 $
+Dons et contributions – autres œuvres de bienfaisance
+132 $
+0 $
+132 $
+Loteries organisées par le gouvernement et billets de loterie
+194 $
+0 $
+194 $
+16 479 $
+7 334 $
+9 145 $
+2005
+Élément
+Montant inclus dans la nouvelle cotisation
+Montant révisé
+Rajustement
+Aliments achetés au restaurant
+1 970 $
+250 $
+1 720 $
+Logement – autres logements – hébergement des voyageurs
+228 $
+0 $
+228 $
+Téléphone
+914 $
+0 $
+914 $
+Garde d’enfants
+852 $
+480 $
+372 $
+Produits de nettoyage
+340 $
+340 $
+0 $
+Articles en papier, emballages plastiques et métalliques
+366 $
+366 $
+0 $
+Vêtements pour femmes
+1 347 $
+1 347 $
+0 $
+Vêtements pour hommes
+897 $
+568 $
+329 $
+Tissus pour vêtements, menus articles, blanchisserie
+234 $
+234 $
+0 $
+Carburant pour voitures
+1 738 $
+1 260 $
+478 $
+Entretien et réparations
+580 $
+120 $
+460 $
+Produits médicaux et pharmaceutiques
+267 $
+267 $
+0 $
+Articles et services pour le soin des yeux
+162 $
+0 $
+162 $
+Soins dentaires
+218 $
+0 $
+218 $
+Assurance-maladie publique et privée
+329 $
+0 $
+329 $
+Articles et accessoires de soins personnels
+811 $
+455 $
+356 $
+Coupes de cheveux, lavages, mises en plis
+379 $
+240 $
+139 $
+Matériel de sport et d’athlétisme
+180 $
+0 $
+180 $
+Jouets, jeux, ordinateur, matériel de loisirs, etc.
+694 $
+694 $
+0 $
+Matériel et services photographiques
+189 $
+189 $
+0 $
+Services récréatifs (événements sportifs, établissements récréatifs et sportifs, forfaits, etc.)
+1 044 $
+0 $
+1 044 $
+Matériel de lecture
+307 $
+150 $
+157 $
+Éducation
+586 $
+0 $
+586 $
+Dons et contributions en argent
+812 $
+406 $
+406 $
+Autres dons (fleurs, jouets, etc.)
+537 $
+268 $
+269 $
+Dons et contributions – organismes religieux
+172 $
+172 $
+0 $
+Dons et contributions – autres œuvres de bienfaisance
+132 $
+0 $
+132 $
+Loteries organisées par le gouvernement et billets de loterie
+194 $
+0 $
+194 $
+16 479 $
+7 806 $
+8 673 $
+[37] Outre ces rajustements, les rajustements dont les parties ont convenu doivent être pris en compte. Par conséquent, les rajustements s’élèvent en tout aux montants suivants :
+2004
+2005
+Rajustements dont les parties ont convenu
+2 832 $
+887 $
+Rajustements à effectuer selon le présent jugement
+9 145 $
+8 673 $
+Total des rajustements
+11 977 $
+9 560 $
+[38] Ces rajustements réduisent le revenu non déclaré avant déduction de la TPS. En l’espèce, les montants qui ont été déterminés au titre du revenu non déclaré avant déduction de la TPS dans les nouvelles cotisations dont l’appelant a fait l’objet s’élevaient à 21 359 $ pour 2004 et à 16 793 $ pour 2005. Le revenu d’entreprise non déclaré qui a donné lieu à de nouvelles cotisations pour l’application de la Loi a été déterminé comme suit :
+2004
+Revenu d’entreprise non déclaré (basé sur l’analyse de
+la valeur nette) : 21 359 $
+Moins : TPS à verser (7/107 x 21 359 $) : (1 397 $)
+Revenu d’entreprise non déclaré pour l’application de la Loi : 19 962 $
+2005
+Revenu d’entreprise non déclaré (basé sur l’analyse de
+la valeur nette) : 16 793 $
+Moins : TPS à verser (7/107 x 16 793 $) : (1 099 $)
+Revenu d’entreprise non déclaré pour l’application de la Loi : 15 694 $
+[39] Afin de correspondre aux rajustements susmentionnés apportés aux montants des dépenses personnelles, le revenu d’entreprise non déclaré révisé pour l’application de la Loi sera le suivant :
+2004
+Revenu d’entreprise non déclaré (basé sur l’analyse de
+la valeur nette) : 21 359 $
+Moins : rajustements à effectuer selon le présent jugement : (11 977 $)
+Revenu d’entreprise non déclaré révisé : 9 382 $
+Moins : TPS à verser (7/107 x 9 382 $) : (614 $)
+Revenu d’entreprise non déclaré pour l’application de la Loi : 8 768 $
+2005
+Revenu d’entreprise non déclaré (basé sur l’analyse de
+la valeur nette) : 16 793 $
+Moins : rajustements à effectuer selon le présent jugement : (9 560 $)
+Revenu d’entreprise non déclaré révisé : 7 233 $
+Moins : TPS à verser (7/107 x 7 233 $) : (473 $)
+Revenu d’entreprise non déclaré pour l’application de la Loi : 6 760 $
+[40] Il faudra donc apporter les rajustements suivants au montant du revenu non déclaré inclus dans les nouvelles cotisations établies en vertu de la Loi et le rajustement suivant au montant de la taxe nette payable selon les nouvelles cotisations, en vertu de la LTA :
+Loi
+2004
+2005
+Revenu non déclaré qui a fait l’objet de nouvelles cotisations :
+19 962 $
+15 694 $
+Revenu non déclaré déterminé selon le présent jugement :
+8 768 $
+6 760 $
+Rajustement :
+(11 194 $)
+(8 934 $)
+LTA
+TPS incluse dans le revenu non déclaré selon les nouvelles cotisations (1 397 $ + 1 099 $) :
+2 496 $
+TPS incluse dans le revenu non déclaré selon le présent jugement
+(614 $ + 473 $) :
+1 087 $
+Rajustement :
+(1 409 $)
+Les pénalités
+[41] Des pénalités ont été imposées en vertu du paragraphe 163(2) de la Loi ainsi qu’en vertu des articles 280 et 285 de la LTA. Les pénalités imposées en vertu du paragraphe 163(2) de la Loi et de l’article 285 de la LTA exigent qu’il soit conclu que l’appelant « sciemment ou dans des circonstances équivalant à faute lourde » a fait de faux énoncés dans les déclarations de revenus qu’il a produites en vertu de la Loi et dans les déclarations qu’il a produites en vertu de la LTA, du fait qu’il a omis de déclarer le revenu additionnel déterminé selon l’analyse de la valeur nette et qu’il a omis de déclarer la TPS additionnelle perçue sur ce revenu. La cotisation relative aux pénalités établie en vertu de l’article 280 de la LTA est assujettie au moyen de défense fondé sur la diligence raisonnable (Pillar Oilfield Projects Ltd. v. The Queen, [1993] G.S.T.C. 49).
+[42] Dans la décision Venne v. The Queen, [1984] C.T.C. 223, 84 DTC 6247, le juge Stayer, de la Section de première instance de la Cour fédérale, a fait les remarques suivantes au sujet du sens à attribuer à la faute lourde en ce qui concerne les pénalités imposées en vertu du paragraphe 163(2) de la Loi :
+La "faute lourde" doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi.
+[43] Dans la décision Maltais v. The Queen, [1991] 2 C.T.C. 2651, 91 DTC 1385, le juge Bowman (tel était alors son titre), en parlant d’une pénalité imposée conformément au paragraphe 163(1) de la Loi, a dit ce qui suit :
+7. [...] Me Ghan a fait valoir pour le compte de l'intimée que le paragraphe 163(1), tel qu'il s'appliquait en 1989, n'exigeait pas de la part du contribuable l'intention volontaire de se soustraire à l'impôt. À l'appui de cette thèse, il a signalé que, dans sa formulation antérieure, le paragraphe 163(1) parlait de "toute personne qui tente volontairement de se soustraire à l'impôt qu'elle doit payer", tandis que le paragraphe 163(2) employait l'expression "sciemment ou dans des circonstances qui justifient l'imputation d'une faute lourde". Ces dispositions exigent l'existence d'une intention coupable ou d'une négligence.
+[Non souligné dans l’original.]
+[44] Les remarques que le juge Bowman (tel était alors son titre) a faites au sujet du paragraphe 163(2) de la Loi étaient des remarques incidentes, mais elles ont été adoptées par le juge Hamlyn dans la décision Dunleavy v. The Queen, [1993] 1 C.T.C. 2648, 93 DTC 417.
+[45] Dans la décision Boileau v. The Minister of National Revenue, [1989] 2 C.T.C. 2001, 89 DTC 247, la juge Lamarre Proulx a dit ce qui suit :
+20. […] Il est vrai qu’en vertu du paragraphe 163(2) il n’y a ni accusé ni accusation criminelle. Il semblerait donc qu’il ne s’agit pas d’une action criminelle et que cela demeure une action civile. Cependant, l’application du paragraphe en question exige que l’on fasse la preuve d’une intention ou d’une conduite coupable […]
+[Non souligné dans l’original.]
+[46] Il incombe à l’intimée de prouver les faits nécessaires en vue d’établir que l’appelant « sciemment ou dans des circonstances équivalant à faute lourde » a fait de faux énoncés dans les déclarations de revenus qu’il a produites en vertu de la Loi et dans les déclarations qu’il a produites en vertu de la LTA, du fait qu’il n’a pas déclaré le revenu additionnel déterminé selon l’analyse de la valeur nette et qu’il n’a pas déclaré la TPS additionnelle perçue sur ce revenu. L’intimée a cité le vérificateur et l’agente des appels pour témoigner sur ce point. Le vérificateur a déclaré que, lorsqu’il avait initialement rencontré l’appelant au sujet de la vérification projetée, l’appelant avait produit ses reçus et documents dans trois sacs à provisions. Les documents étaient en désordre et il n’y avait pas de feuilles de travail ni de rapprochements.
+[47] L’agente des appels a témoigné qu’en examinant le dossier, elle avait découvert que l’appelant avait en outre engagé les dépenses suivantes pour la réparation et l’entretien des véhicules qu’il avait à revendre :
+Année d’imposition
+Réparations et entretien
+2004
+51 631 $
+2005
+54 105 $
+[48] L’appelant n’avait pas demandé de déductions pour ces dépenses et les montants en cause n’ont pas non plus été ajoutés au coût des stocks. Étant donné que ces dépenses ont été engagées dans le cadre de l’entreprise de l’appelant, elles auraient été pertinentes pour la détermination du revenu net. L’intimée soutenait que l’appelant avait gagné un montant encore plus élevé au titre du revenu non déclaré, mais elle n’a pas pu inclure de montant additionnel dans le revenu de l’appelant étant donné que le ministre ne peut pas interjeter appel de sa propre cotisation (Valdis v. The Queen, [2001] 1 C.T.C. 2827). De plus, étant donné que ces montants n’ont pas été déduits dans le calcul du revenu de l’appelant pour l’application de la Loi et qu’ils auraient été pertinents pour la détermination de son revenu, il ne serait pas approprié de les inclure dans le revenu sans également rajuster le montant des dépenses.
+[49] Toutefois, au lieu de soutenir que l’appelant avait agi intentionnellement ou qu’il s’était montré insouciant, cela donne à entendre que l’appelant ne tenait tout simplement pas de registres adéquats. L’omission d’inclure dans le revenu un montant qui serait compensé par une déduction ou qui serait ajouté aux stocks ne peut pas être invoquée à l’appui d’une conclusion de conduite coupable de la part de l’appelant.
+[50] En l’espèce, les montants imputables au revenu non déclaré en tant que pourcentage du total des montants imputables au revenu brut révisé seraient les suivants :
+Année d’imposition
+Revenu brut
+Revenu non déclaré
+Total du revenu brut révisé
+Montant non déclaré (%)
+2004
+55 550 $
+8 768 $
+64 318 $
+14 %
+2005
+171 710 $
+6 760 $
+178 470 $
+4 %
+[51] Dans la décision Seto c. La Reine, 2007 CCI 489, 2007 DTC 1647 (angl.), [2007] G.S.T.C. 116, [2008] 2 C.T.C. 2364, la juge Campbell a fait les remarques suivantes :
+29 Une question intéressante est soulevée lorsqu’un contribuable échoue dans sa contestation de la cotisation de valeur nette du ministre, mais que la cotisation est ratifiée : le contribuable est‑il passible de pénalités pour faute lourde lorsqu’il est établi que les montants constituent un revenu non déclaré? Dans la décision Wajsfeld v. R., 2005, 4 C.T.C. 2341 (C.C.I. [Procédure générale]), le juge Rip a traité de la question et a conclu que la Couronne doit s’acquitter du fardeau de la preuve qui lui incombe pour imposer des pénalités pour faute lourde, même s’il est conclu que les montants non déclarés doivent être inclus dans le revenu du contribuable. Au paragraphe 56, il a formulé les commentaires suivants :
+[…] Le ministre doit faire plus que tout simplement se fier à l’incapacité d’un contribuable de réfuter une cotisation fondée sur la valeur nette et faire ressortir un montant élevé de revenus non déclarés pour s’acquitter de sa charge en vertu du paragraphe 163(3)
+[…]
+Il ne fait aucun doute qu’il est possible d’établir l’intention coupable ou la faute lourde au moyen de preuves circonstancielles, car l’on peut rarement établir l’un ou l’autre en prouvant directement l’intention du contribuable. Cependant, les preuves devraient être claires et convaincantes […]
+Je suis d’avis que, dans la présente espèce, l’intimé ne s’est pas acquitté convenablement du fardeau de la preuve qui lui incombait, en ce sens qu’il s’est appuyé presque exclusivement sur le fait que l’appelant était incapable de renverser les évaluations de la valeur nette. En fait, le paragraphe 163(3) exige que l’on fasse la preuve de l’intention ou de la faute lourde du contrevenant, chose qui, à mon sens, devrait être faite d’une manière structurée, claire et convaincante.
+30 L’affaire Wajsfeld montre clairement qu’il incombe à la Couronne de prouver qu’il y a eu faute lourde, même si la cotisation est fondée sur la méthode de la valeur nette. Dans ces appels, la Couronne n’a présenté aucun élément de preuve concernant les actes présumés de l’appelant qualifiés de faute lourde. La Couronne n’a pas signalé d’élément de preuve précis ou de circonstance équivalant à faute lourde particulière autre que la différence découlant de la cotisation de valeur nette. Le seul élément sur lequel la Couronne s’est fondée pour imposer les pénalités, conformément au paragraphe 163(2), est le fait que la cotisation de valeur nette indique qu’il y avait des revenus non déclarés dans les déclarations de revenu des particuliers et des sociétés. Si le ministre veut imposer des pénalités pour faute lourde, c’est à la Couronne qu’incombe le fardeau de la preuve, et celle‑ci doit faire davantage que mentionner les montants non déclarés qui ont été ajoutés au revenu du contribuable. En l’espèce, la Couronne a simplement fait valoir que la « différence importante » entre la cotisation de valeur nette et le montant net figurant dans les déclarations révèle qu’il y a eu faute lourde. La jurisprudence pertinente exige davantage. De plus, lorsque les rajustements sont effectués pour inclure le revenu des parents de l’appelant, la différence n’est plus bien importante.
+[52] En l’espèce, le montant imputable au revenu non déclaré, en tant que pourcentage du total du montant imputable au revenu révisé, ne représente que 4 p. 100 pour l’année 2005, et les montants imputables au revenu non déclaré s’élèvent uniquement à 8 768 $ pour 2004 et à 6 760 $ pour 2005. À mon avis, le ministre n’a pas prouvé que l’appelant avait « sciemment ou dans des circonstances équivalant à faute lourde » fait de faux énoncés en produisant ses déclarations de revenus en vertu de la Loi et ses déclarations en vertu de la LTA du fait qu’il avait omis de déclarer le revenu additionnel déterminé selon l’analyse de la valeur nette et qu’il avait omis de déclarer la TPS additionnelle perçue sur ce revenu. Par conséquent, les pénalités imposées conformément au paragraphe 163(2) de la Loi et à l’article 285 de la LTA sont supprimées.
+[53] Toutefois, l’appelant n’a pas établi qu’il avait fait preuve d’une diligence raisonnable. L’état des documents établis par l’appelant ne permet pas de conclure que celui‑ci a fait preuve d’une diligence raisonnable en vue de s’assurer qu’il se conformait aux dispositions de la LTA. Sur ce point, il y a également les crédits de taxe sur les intrants de 10 737 $ qui ont été demandés et qui ensuite ont été refusés par l’ARC (et qui, comme l’appelant l’a reconnu, n’avaient pas été légitimement demandés). Par conséquent, les pénalités imposées conformément au paragraphe 280(1) de la LTA sont confirmées, mais elles sont réduites en vue de correspondre à la taxe nette révisée payable pour la période.
+Conclusion
+[54] Par conséquent, l’appel interjeté en vertu de la Loi est accueilli en partie, avec dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que :
+a) le revenu d’entreprise net de l’appelant pour chacune de ces années était le suivant :
+2004
+2005
+Revenu d’entreprise net indiqué dans les déclarations de revenus de l’appelant
+1 341 $
+3 488 $
+Montant ayant fait l’objet d’une nouvelle cotisation au titre d’un revenu d’entreprise non déclaré
+19 962 $
+15 694 $
+Rajustements à effectuer conformément au présent jugement
+(11 194 $)
+(8 934 $)
+Revenu d’entreprise net révisé
+10 109 $
+10 248 $
+b) les pénalités imposées en vertu du paragraphe 163(2) de la Loi sont supprimées.
+[55] L’appel interjeté en vertu de la LTA pour la période en question est accueilli en partie, sans qu’aucuns dépens ne soient adjugés, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que :
+a) la taxe nette payable par l’appelant pour la période est réduite d’un montant de 1 409 $;
+b) les pénalités imposées en vertu de l’article 285 de la LTA sont supprimées;
+c) les pénalités imposées en vertu de l’article 280 de la LTA sont réduites en vue de correspondre à la taxe nette révisée payable pour la période, mais elles sont par ailleurs confirmées.
+Signé à Halifax (Nouvelle‑Écosse), ce 23e jour de mars 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 22e jour de juin 2009
+David Aubry, LL.B.
+Réviseur
+RÉFÉRENCE : 2009CCI58
+Nos DES DOSSIERS DE LA COUR : 2008-2734(IT)I et 2008-2735(GST)I
+INTITULÉ : Reshad Omer s/n Kabul Auto Sell
+et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 27 février 2009
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 23 mars 2009
+COMPARUTIONS :
+Représentante de l’appelant :
+Mme Narine Persaud
+Avocate de l’intimée :
+Me Nikki Kumar
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

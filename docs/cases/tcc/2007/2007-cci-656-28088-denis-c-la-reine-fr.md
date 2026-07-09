@@ -1,0 +1,1249 @@
+---
+title: "Denis c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28088/index.do"
+last_modified: "2007-11-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 656"
+citation2: ""
+neutral_citation: "2007 CCI 656"
+decision_date: "2007-11-01"
+language: "fr"
+item_id: "28088"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1673
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:07:35.698000+00:00"
+cases_cited_count: 5
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d6c995eb6ddf2964de231798cd54af569fcc4acd79aafa552880e226f16b4c74"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Denis c. La Reine
+
+- Citation: 2007 CCI 656
+- Decision date: 2007-11-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1673, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Denis c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-11-01
+Référence neutre
+2007 CCI 656
+Numéro de dossier
+2006-907(IT)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-907(IT)G
+ENTRE :
+PATRICIA DENIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus avec les appels de Pache Denis (2006‑908(IT)G)
+le 22 octobre 2007 à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge en chef D.G.H. Bowman
+Comparutions :
+Avocat de l’appelante : Me Richard B. Wong
+Avocat de l’intimée : Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en application de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2001 et 2003 sont accueillis avec dépens, et les cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Il ne devrait y avoir qu’un seul ensemble d’honoraires d’avocat pour les deux appelants.
+Signé à Ottawa, Canada, ce 1er jour de novembre 2007.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 7e jour de décembre 2007.
+Hélène Tremblay, traductrice
+Dossier : 2006-908(IT)G
+ENTRE :
+PACHE DENIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus avec les appels de Patricia Denis (2006‑907(IT)G)
+le 22 octobre 2007 à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge en chef D.G.H. Bowman
+Comparutions :
+Avocat de l’appelant : Me Richard B. Wong
+Avocat de l’intimée : Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en application de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2001, 2002 et 2003 sont accueillis avec dépens, et les cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Il ne devrait y avoir qu’un seul ensemble d’honoraires d’avocat pour les deux appelants.
+Signé à Ottawa, Canada, ce 1er jour de novembre 2007.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 7e jour de décembre 2007.
+Hélène Tremblay, traductrice
+Référence : 2007CCI656
+Date : 20071101
+Dossier : 2006-907(IT)G
+ENTRE :
+PATRICIA DENIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+– ET –
+Dossier : 2006-908(IT)G
+ENTRE :
+PACHE DENIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Les présents appels ont été entendus ensemble. M. et Mme Denis sont associés dans une entreprise de gîte touristique (le « gîte ») qu’ils exploitaient à Ashcroft (Colombie‑Britannique). Dans le calcul de ses revenus pour les années d’imposition 2001, 2002 et 2003, M. Denis a inclus les pertes de la société de personnes en partant du principe qu’elle avait subi des pertes autres qu’en capital de 43 598 $, de 41 153 $ et de 35 149 $, respectivement, pour chacune de ces années. Seules les années d’imposition 2001 et 2003 de Mme Denis sont en cause en l’espèce. Pour les trois années, 50 %, 98 % et 60 % des pertes, respectivement, étaient attribuées à M. Pache Denis.
+[2] Le ministre du Revenu national a établi des nouvelles cotisations pour chacune des années en cause :
+a) afin de refuser en partie la déduction des pertes qui avait été demandée en application du paragraphe 18(12) de la Loi de l’impôt sur le revenu (la « Loi »);
+b) afin de répartir les pertes de façon égale entre M. et Mme Denis.
+[3] Les parties s’entendent sur le fait que la répartition appropriée des pertes entre les époux est de 50/50. En outre, personne ne conteste l’exactitude du calcul des revenus, des dépenses et des pertes de la société de personnes, sous la seule réserve de l’application du paragraphe 18(12).
+[4] Le paragraphe 18(12) est rédigé en ces termes :
+(12) Travail à domicile. Malgré les autres dispositions de la présente loi, dans le calcul du revenu d’un particulier tiré d’une entreprise pour une année d’imposition :
+a) un montant n’est déductible pour la partie d’un établissement domestique autonome où le particulier réside que si cette partie d’établissement :
+(i) soit est son principal lieu d’affaires,
+(ii) soit lui sert exclusivement à tirer un revenu d’une entreprise et à rencontrer des clients ou des patients sur une base régulière et continue dans le cadre de l’entreprise;
+b) si une partie de l’établissement domestique autonome où le particulier réside est son principal lieu d’affaires ou lui sert exclusivement à tirer un revenu d’une entreprise et à rencontrer des clients ou des patients sur une base régulière et continue dans le cadre de l’entreprise, le montant déductible pour cette partie d’établissement ne peut dépasser le revenu du particulier tiré de cette entreprise pour l’année, calculé compte non tenu de ce montant et des articles 34.1 et 34.2;
+c) tout montant qui, par le seul effet de l’alinéa b), n’est pas déductible pour une partie d’établissement domestique autonome dans le calcul du revenu d’entreprise du particulier pour l’année d’imposition précédente est déductible dans le calcul du revenu d’entreprise du particulier pour l’année, sous réserve des alinéas a) et b).
+(12) Work space in home — Notwithstanding any other provision of this Act, in computing an individual’s income from a business for a taxation year,
+(a) no amount shall be deducted in respect of an otherwise deductible amount for any part (in this subsection referred to as the “work space”) of a self-contained domestic establishment in which the individual resides, except to the extent that the work space is either
+(i) the individual’s principal place of business, or
+(ii) used exclusively for the purpose of earning income from business and used on a regular and continuous basis for meeting clients, customers or patients of the individual in respect of the business;
+(b) where the conditions set out in subparagraph (a)(i) or (ii) are met, the amount for the work space that is deductible in computing the individual’s income for the year from the business shall not exceed the individual’s income for the year from the business, computed without reference to the amount and sections 34.1 and 34.2; and
+(c) any amount not deductible by reason only of paragraph (b) in computing the individual’s income from the business for the immediately preceding taxation year shall be deemed to be an amount otherwise deductible that, subject to paragraphs (a) and (b), may be deducted for the year for the work space in respect of the business.
+[5] « Établissement domestique autonome » (« self-contained domestic establishment ») est défini en ces termes à l’article 248 :
+« établissement domestique autonome » Habitation, appartement ou autre logement de ce genre dans lequel, en règle générale, une personne prend ses repas et couche.
+"self-contained domestic establishment" means a dwelling-house, apartment or other similar place of residence in which place a person as a general rule sleeps and eats;
+[6] La seule question en litige est de savoir si le ministre a, à juste titre, appliqué le paragraphe 18(12) et limité les pertes pouvant être déduites en fonction de cette disposition.
+[7] Les parties se sont entendues sur un exposé conjoint des faits (l’« ECF »). Il est joint aux présents motifs en annexe A. Le témoignage de M. Denis est venu complémenter l’ECF.
+[8] La Cour a tranché de nombreux litiges portant sur des questions semblables. Je ne vois aucune contradiction entre ces affaires, mais les différents juges ont tiré différentes conclusions selon les faits propres à chacune d’entre elles.
+[9] Il est très évident que le paragraphe 18(12) de la Loi peut, par son libellé clair, s’appliquer à une entreprise de gîte touristique. Pour établir s’il s’applique à un cas en particulier, il faut tirer une conclusion de fait. En l’espèce, la question qui se pose est celle de savoir si les appelants « résidaient » dans tout le bâtiment à deux étages ou, autrement dit, si la maison au complet était un « établissement domestique autonome » ou bien si seuls les 540 pieds carrés décrits par les appelants comme leur section privée réservée à leur usage personnel constituaient l’« établissement domestique autonome ». (Section 1 sur le plan du niveau 1 joint à l’ECF.) Les appelants ont construit le bâtiment dans le but d’y exploiter un gîte touristique.
+[10] Le paragraphe 38 de l’ECF est rédigé en ces termes :
+[traduction]
+38. Le bâtiment a été construit dans le but d’y exploiter une entreprise rentable de gîte touristique. La section privée de 540 pieds carrés a été conçue et construite pour l’usage personnel des Denis et a été construite sans salle de séjour, salle à manger, salle de lavage, cuisine ou salle de rangement privés parce que le fait de construire de telles installations en double dans les 540 pieds carrés privés aurait fait perdre beaucoup d’espace nécessaire à la construction d’un gîte touristique qui, selon les Denis, serait une entreprise rentable.
+[11] Le bâtiment n’a pas été construit pour servir de résidence privée dans laquelle les Denis auraient occupé les 4 448 pieds carrés répartis sur deux étages. Il a plutôt été construit dans le but d’y exploiter une entreprise, mais avait une section prévue pour leur usage personnel. Ce fait distingue cette entreprise de toute autre entreprise de gîte touristique où certaines chambres dans une maison déjà existante sont utilisées aux fins de l’entreprise une fois que les enfants ont quitté le domicile familial.
+[12] La question principale n’est pas de savoir si les 540 pieds carrés que les appelants décrivaient comme leur espace de vie privée constituaient un établissement domestique autonome. La question est plutôt de savoir si le reste des 4 448 pieds carrés d’espace utilisable qui devait être utilisé aux fins de l’entreprise de gîte constituait l’« établissement domestique autonome ». Pour qu’on puisse appliquer les dispositions du paragraphe 18(12), l’espace de travail doit faire partie d’un établissement domestique autonome. J’ai conclu que les appelants ne résidaient pas dans la partie du bâtiment qui servait à accueillir les clients du gîte.
+[13] L’avocat de l’intimée soutient que tout le bâtiment constitue un établissement domestique autonome parce qu’à l’occasion, des amis et des membres de la famille pouvaient occuper gratuitement les chambres réservées aux clients et parfois, lors de fêtes familiales, ils mangeaient dans le salon (10.4). À mon avis, une telle utilisation occasionnelle ne revient pas à dire qu’ils « résidaient » dans tout le bâtiment. Je ne crois pas qu’une utilisation occasionnelle des installations du gîte fasse en sorte que l’endroit était, pour les appelants, un endroit où, en règle générale, ils prenaient leurs repas et se couchaient, selon les dispositions de la Loi. De surcroît, il est assez déraisonnable de laisser entendre que les appelants auraient fait construire un bâtiment de 4 448 pieds carrés répartis sur deux étages pour l’utiliser comme résidence personnelle. Surtout qu’il y a une entrée distincte pour chacune des cinq chambres de clients. Des cinq chambres de clients, il y en a une avec une salle de bain communicante privée, deux sur le premier étage qui partagent une même salle de bain, et deux autres au deuxième étage qui partagent aussi une salle de bain.
+[14] Pour ce qui est de l’utilisation par des membres de la famille et des amis des installations prévues pour les clients, il ne s’agissait que d’une utilisation minime. En 2001, en 2002 et en 2003, des membres de la famille et des amis ont séjourné dans des chambres de clients moins de sept nuits par année (ECF, paragraphe 51).
+[15] Comme je l’ai déjà mentionné, dans la jurisprudence, les affaires semblables ont été tranchées d’un côté ou de l’autre, selon les faits qui leurs étaient propres. L’issue de ces affaires repose sur la question de savoir dans quelle mesure l’entreprise empiète sur les conditions normales de logement de la famille l’exploitant ou bien dans quelle mesure celle‑ci y est intégrée. Par exemple, dans la décision Maitland and Konduc v. The Queen, 2000 DTC 3622, le juge suppléant Porter semble avoir mis l’accent sur la question de savoir si le gîte était une entreprise hôtelière. Toutefois, la conclusion de fait qui a été la clé du rejet de l’appel par le juge suppléant Porter est énoncée au paragraphe 26.
+Après avoir étudié l’ensemble de la preuve, je conclus qu’il ne s’agissait pas d’une entreprise « hôtelière » mais bien d’un service de « chambres d’hôte », au sens habituel de ce terme; autrement dit, les hôtes venaient résider au domicile des appelantes. Il est vrai que l’entreprise avait une dimension commerciale plus prononcée que ce n’est bien souvent le cas. Néanmoins, les appelantes, ainsi que des membres de leur famille, occupaient de façon exclusive une fraction importante du bâtiment et partageaient les aires communes avec les hôtes. Il s’agissait de toute évidence au départ d’une habitation. Elle a été utilisée à d’autres fins mais, durant la période en question, elle a servi de résidence aux appelantes. Lorsque personne d’autre n’y séjournait, elles continuaient de l’utiliser comme résidence. Même si elles avaient d’autres lieux où résider à l’occasion, c’est là que, en règle générale, elles prenaient leurs repas et couchaient. Il s’agissait d’une habitation ou d’un logement de ce genre. Ce n’était pas un immeuble à bureaux ni un motel ou un hôtel tels qu’ils sont construits habituellement. Selon moi, la définition d’« établissement domestique autonome » énoncée dans la LIR s’applique manifestement à ce bâtiment. À mon avis, il n’est pas réaliste de faire une analogie entre cette situation et celle d’un gérant qui occupe un appartement dans un motel ou un hôtel ordinaire. Dans ce dernier cas, il s’agit sans le moindre doute d’un hôtel ou d’un motel, dont le gérant occupe une petite partie. Dans le cas présent, il s’agissait clairement de leur résidence, où elles recevaient des hôtes, et cette situation n’est pas modifiée du fait de la grande qualité de leur entreprise, de tout le travail qu’elles y ont consacré et de leur plan d’origine, qui était d’exploiter une entreprise de chambres d’hôtes.
+[16] La conclusion de fait tirée par le juge suppléant Porter ne s’applique pas en l’espèce, étant donné les preuves et les faits sur lesquels les parties se sont entendues. De toute évidence, le gîte touristique exploité dans cette affaire était situé dans une partie de l’habitation utilisée par les appelantes, Mmes Maitland et Konduc. Ce n’est toutefois pas le cas en l’espèce. Les Denis n’utilisaient pas comme résidence les sections réservées aux clients.
+[17] De la même façon, dans Broderick v. The Queen, 2001 DTC 3722, la juge Campbell a tiré les conclusions de fait suivantes lorsqu’elle a rejeté l’appel :
+[…] Pour ce qui est de l'affaire dont je suis saisie, la fonction principale du bien était de servir de résidence pour l'appelant et sa famille et, pendant une partie de chacune des années en litige, de gîte touristique. Trois chambres à coucher étaient louées, mais, peu importe les raisons, le gîte a fini par devenir une exploitation saisonnière à temps partiel, malgré l'intention et le travail ardu de l'appelant. Lorsque des invités étaient présents, l'appelant et sa famille se confinaient à l'appartement du sous-sol la plupart du temps, mais, sauf pour garder les chambres propres et disponibles, il n'était pas nécessaire de limiter l'accès à l'étage supérieur, particulièrement lorsque des mois passaient sans que des invités ne se présentent ou ne soient susceptibles de le faire. Lorsqu'il y en avait, l'entreprise et la vie de famille se fondaient dans les aires communes de la maison.
+[18] Dans trois autres décisions, des conclusions de fait différentes ont donné des résultats différents. Dans la décision Sudbrack v. The Queen, 2000 DTC 2521, les éléments suivants ont été énoncés à la page 6 :
+[19] Je crois que le meilleur point de vue, selon les faits en l’espèce, est que l’aire habitable distincte de la famille, qui consiste essentiellement en un appartement à l’intérieur de l’auberge, constitue l’établissement domestique autonome. Cela semble être l’approche la plus raisonnable qui est, je crois, plus en accord avec l’objet du paragraphe 18(12). L’avocat de l’appelant a mentionné une décision de la Cour suprême du Canada, Bell c. Ontario (Human Rights Commission) [1971] R.C.S. 756. Cette affaire traitait de la signification de « logement indépendant ». Elle n’est pas très utile en l’espèce, car nous sommes confrontés à une définition législative.
+[20] Selon la Couronne, l’auberge en entier est l’établissement domestique autonome. L’onglet 17 de la pièce R-1 contient un résumé détaillé des ajustements effectués en vertu du paragraphe 18(12). Il établit une distinction entre les dépenses non liées à l’espace de travail et celles qui y sont liées. Aucune contestation n’est faite du calcul arithmétique si l’hypothèse fondamentale selon laquelle l’établissement domestique autonome est l’auberge en entier et l’« espace de travail » à l’intérieur de cet établissement domestique autonome est l’auberge dans son entier est correcte.
+[21] À mon avis, l’hypothèse de base est incorrecte. L’établissement domestique autonome est l’appartement de la famille. En outre, si l’auberge en entier est l’« espace de travail », cet espace de travail est le « principal lieu d’affaires » du particulier. En conséquence, la proportion de 85 p. 100 de l’auberge où la famille ne vit pas est supprimée de la surface à laquelle la restriction de l’alinéa a) s’applique.
+[22] La cuisine, qui avait la fonction double de servir d’espace de cuisine pour la famille et d’espace de cuisine pour le restaurant, et la petite pièce où M. Sudbrack conservait son ordinateur, ses dossiers et le matériel pour les besoins de l’entreprise constituaient l’espace de travail à l’intérieur de l’« établissement domestique autonome » (l’appartement de la famille).
+À mon avis, il serait justifié de tirer la même conclusion en l’espèce, sous réserve de ce que je propose ci‑dessous au sujet de la cuisine et de la salle de lavage.
+[19] Dans Moczulski v. The Queen, 2003 DTC 3982, lorsqu’il a accueilli l’appel, le juge Bell a affirmé ce qui suit :
+[15] L’appartement des appelants est, selon moi, un établissement domestique autonome. Le fait qu’ils utilisaient la cuisine pour préparer les plats des hôtes et la buanderie pour laver les draps de ces derniers n’empêche pas cet appartement d’être un « établissement domestique autonome ». Cette définition inclut un appartement ou tout autre logement de ce genre. En règle générale, les appelants couchent dans cet appartement. Rien ne permettait de conclure qu’ils y prenaient leur repas. Toutefois, la définition n’exclut pas un appartement ou un autre logement de ce genre où les occupants ne mangent pas. La définition comporte le qualificatif « en règle générale ».
+[16] Il faut bien retenir l’objectif de cette disposition. Le ministère des Finances a indiqué ce qui suit dans des notes explicatives portant sur les lignes directrices législatives qui se rapportent à un espace utilisé comme bureau ou à tout autre espace de travail situé dans la résidence du contribuable :
+Le nouveau paragraphe 18(12) de la Loi limite la déduction des dépenses engagées par un particulier au titre d'un bureau à domicile. Aucune déduction n'est permise au titre d'un « local professionnel » faisant partie d'un établissement domestique autonome où le particulier réside si certaines conditions ne sont pas réunies. Il faut que le local en question soit le principal lieu d'affaires du particulier ou qu'il lui serve exclusivement pour gagner un revenu d'une entreprise et pour rencontrer des clients ou des patients de façon régulière et continue. Si ces conditions sont réunies, le particulier peut déduire les sommes autrement admissibles, mais uniquement à concurrence du revenu qu'il tire de son entreprise pendant l'année. Dans la mesure où cette dernière condition limite la déduction d'une partie des frais d'un espace de travail pour une année donnée, ces dépenses sont considérées comme des frais d'espace de travail pour l'année suivante, permettant ainsi de reporter indéfiniment les dépenses de ce genre. Cette modification s'applique aux exercices commençant après 1987.
+Notons que la note explicative ci-dessus met l’accent sur un « espace de travail » situé dans un établissement domestique ordinaire. Cela comprend normalement la réservation et l’équipement d’une pièce ou de tout autre espace à des fins commerciales. Les circonstances du présent appel ne tombent pas dans cette catégorie.
+[17] Dans ce cas précis, les appelants ont acheté un immeuble commercial et ont commencé à l’exploiter aux fins des objectifs mentionnés. L’utilisation de l’entrée principale de l’immeuble et du hall principal qui mène au logement des appelants ne minimise pas la qualification de ce dernier comme un établissement domestique autonome. Quant à l’utilisation de la buanderie au même titre que l’entreprise, ces installations sont souvent partagées dans les immeubles d’habitation ordinaires. Il y a beaucoup de gens qui habitent des appartements ou des maisons mais n’y mangent pas parce qu’ils ne s’intéressent guère aux emplettes, à la cuisine, au lavage de la vaisselle ou au nettoyage des lieux après une telle utilisation. On ne peut certainement pas dire qu’ils ne vivent pas dans un établissement domestique autonome.
+[20] La décision du juge McArthur, Rudiak v. The Queen, 2002 DTC 3901, traite d’une affaire semblable, dans les faits, à l’affaire en l’espèce. Le juge McArthur y a indiqué ce qui suit :
+[…] L'intimée a dressé la liste suivante des parties de la structure globale qui étaient utilisées aux deux fins (je formule mes propres observations après chaque mention) :
+a) le garage servait partiellement d'entrepôt pour le café-couettes; (c'était de toute évidence une utilisation commerciale limitée);
+b) la cuisine était utilisée pour la préparation du petit déjeuner des clients; (les clients n'utilisaient ni n'occupaient la cuisine; le petit déjeuner était servi dans la salle à dîner qui leur est réservée);
+c) la buanderie était utilisée à des fins commerciales et personnelles; (c'est exact, mais je précise à nouveau que les clients ne l'utilisaient pas);
+d) le bureau situé dans l'appartement de l'appelant était utilisé à des fins commerciales et personnelles; (c'était le bureau privé de l'appelant et il était utilisé exclusivement par lui);
+e) pendant deux semaines chaque année, le café-couettes était utilisé pour loger des amis et des membres de la famille; (c'est exact, mais cela est une peccadille par rapport à l'utilisation générale);
+f) quatre mois durant l'année, soit la morte-saison, l'appelant et son épouse avaient accès à l'aire réservée au café-couettes; (mêmes observations qu'au point e));
+g) les services de chauffage et d'électricité étaient les mêmes pour les deux parties de l'immeuble; (je ne crois pas que ce soit un élément important);
+h) nulle mention n'est faite de l'existence d'un appartement séparé dans le compte de taxe municipale de la Ville de Stratford; (qu'est-ce que ça prouve?);
+i) l'appelant était obligé d'habiter dans le café-couettes à proprement dit pour se conformer au règlement de zonage municipal; (non pertinent);
+j) la brochure utilisée par l'appelant pour faire la publicité du café-couettes renfermait les mots « Nous vous souhaitons la bienvenue chez nous »; (battage et privilège publicitaires).
+[21] De quel côté la balance penche-t-elle en l’espèce? À mon avis, il est clair qu’elle penche du côté des décisions Rudiak, Sudbrack et Moczulski. Je tiens à souligner quelques points que je trouve importants.
+a) Les appelants ne résidaient pas dans toute la maison. Ils résidaient dans certaines sections qu’ils avaient désignées, construites et utilisées comme leur demeure personnelle, et non dans les sections qu’ils avaient désignées, construites et utilisées pour l’entreprise de gîte.
+b) L’établissement domestique autonome était la section où ils résidaient, soit les 544 pieds carrés, non pas tout le bâtiment.
+c) Le fait que des amis ou des membres de la famille venaient parfois séjourner dans des chambres de clients ne fait pas en sorte que toute la maison était un établissement domestique autonome.
+d) Le fait qu’ils utilisaient la cuisine et la salle de lavage tant pour l’entreprise que pour leurs besoins personnels ne fait pas de toute la maison un établissement domestique autonome et, inversement, n’empêche pas le fait que la section où ils résidaient (les 544 pieds carrés de la section 1 dans les plans du niveau 1) puisse être désignée comme l’établissement domestique autonome. J’adopte le raisonnement du juge Bell formulé dans Moczulski et celui du juge McArthur dans Rudiak.
+[22] Les appels sont donc accueillis avec dépens, et les cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations conformément aux présents motifs.
+[23] Il ne devrait y avoir qu’un seul ensemble d’honoraires d’avocat pour les deux appelants.
+Signé à Ottawa, Canada, ce 1e jour de novembre 2007.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 8e jour de décembre 2007.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2007CCI656
+Nos DES DOSSIERS : 2006-907(IT)G
+2006-908(IT)G
+INTITULÉ : PATRICIA DENIS ET PACHE DENIS
+C. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 22 octobre 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge en chef D.G.H. Bowman
+DATE DU JUGEMENT : Le 1er novembre 2007
+COMPARUTIONS :
+Avocat des appelants :
+Me Richard B. Wong
+Avocat de l’intimée :
+Me Raj Grewal
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ANNEXE A
+2006-907(1T)G
+2006-908(IT)C
+COUR CANADIENNE DE L'IMPÔT
+ENTRE :
+PATRICIA DENIS,
+PACHE DENIS,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Exposé conjoint des faits
+Adresse des appelants
+Thorsteinssons LIT
+C.P. 49123
+2700 - 595, rue Burrard
+Vancouver (C.-B.) V7X 132
+Me Richard B. Wong
+Avocat des appelants
+Adresse de l'intimée
+Ministère de la Justice
+Bureau régional de la C.-B.
+900 - 840, rue Howe
+Vancouver (C.-B.) V6Z 2S9
+Me Raj Grewal
+Avocat de l'intimée
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Aux fins de l'audition des appels susmentionnés, les appelants et l'intimée conviennent d'être liés par les faits ci-après dont la véracité est par les présentes admise par toutes les parties.
+De plus, les appelants et l'intimée conviennent qu'ils ne présenteront pas, à l’audience des appels susmentionnés, des éléments de preuve factuelle qui contredisent les faits admis dans le présent exposé.
+CONTEXTE FACTUEL
+1. Pache et Patricia Denis sont mariés.
+2. M. et Mme Denis ont exploité une entreprise de gîte touristique à Ashcroft, en Colombie‑Britannique, à titre de partenaires égaux, portant le nom « Willow'n Bed and Breakfast » (l’ « entreprise »). L'entreprise avait un site Web, dont une copie conforme se trouve à l'onglet 1 du recueil conjoint de documents.
+3. La fin de l'exercice financier de l’entreprise correspondait à la fin de l'année civile.
+4. Pendant les années en cause, Pache Denis était employé à titre de surintendant d’écoles pour le district scolaire no 74 (Gold Trail) en 2001, en 2002 et en 2003. Son salaire annuel s'élevait à 105 000 $. M. Denis consacrait environ 60 heures par semaine à ses fonctions de surintendant d’écoles. Il avait droit à dix semaines de vacances annuelles. M. Denis était libre pendant la plupart des congés scolaires et des fins de semaine. À la fin de février 2003, M. Denis était en congé du district pour des raisons politiques et parce qu’il devrait donner des soins à un membre de sa famille et, au début du mois de juin, il touchait une indemnité de départ du district.
+5. Patricia Denis était employée par le district scolaire no 74 (Gold Trail) à titre d'enseignante, mais a été en congé de maladie à compter de septembre 2001 et est demeurée en congé de maladie depuis cette date. Avant de prendre son congé de maladie, elle ne travaillait pas pendant les congés de Noël, de printemps, de Pâques et pendant l'été (juillet et août) et elle ne travaillait pas pendant les fins de semaine ni lors des jours fériés.
+LES NOUVELLES COTISATIONS
+6. En 2001, en 2002 et en 2003, lors du calcul des revenus et des pertes de l’entreprise, certaines dépenses qui avaient été engagées dans le but de tirer un revenu de l'entreprise de gîte touristique ont été déduites et il a été établi que l’entreprise avait subi les pertes d'entreprise suivantes au cours des années pertinentes :
+Exercice
+Pertes d’entreprise
+2001
+(43 598)
+2002
+(41 153)
+2003
+(35 419)
+7. Ces pertes d'entreprise pour les années 2001, 2002 et 2003 ont été attribuées à Pache et à Patricia Denis qui les ont déclarées et réclamées lorsqu'ils ont produit leurs déclarations de revenu pour ces années respectives.
+8. Par des avis de nouvelle cotisation datés du 13 décembre 2004, le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations à l'égard de Pache et de Patricia Denis pour les années d'imposition 2001, 2002 et 2003, réduisant les pertes d'entreprise qu'ils avaient déclarées et réclamées à l'égard de l'entreprise de gîte touristique.
+9. Les nouvelles cotisations et la réduction des pertes d'entreprise qu'elles ont entraînée découlent en partie et principalement de la décision du ministre d'appliquer le paragraphe 18(12) de la Loi de l'impôt sur le revenu pour limiter les dépenses que Pache et Patricia Denis pouvaient déduire dans le calcul du revenu ou des pertes provenant de l'entreprise de gîte touristique.
+10. Pache Denis s'est opposé aux nouvelles cotisations à l'égard des années d'imposition 2001, 2002 et 2003 le concernant par avis daté du 8 mars 2005.
+11. Patricia Denis s'est opposée aux nouvelles cotisations à l'égard des années d'imposition 2001 et 2003 la concernant par avis daté du 8 mars 2005.
+12. Par avis datés du 28 décembre 2005, le ministre a confirmé la nouvelle cotisation à l'égard de Pache Denis pour l'année d'imposition 2003 et a modifié les nouvelles cotisations pour les années d'imposition 2001 et 2002 pour accorder des frais de repas et de représentation.
+13. Par avis datés du 28 décembre 2005, le ministre a confirmé la nouvelle cotisation à l'égard de Patricia Denis pour l'année d'imposition 2003 et a modifié la nouvelle cotisation pour l'année d'imposition 2001 pour accorder des frais de repas et de représentation.
+14. Les documents intitulés [TRADUCTION] « État des activités d'entreprise de Pache et de Patricia Denis pour le Willow'n Bed. and Breakfast » pour les années d'imposition 2001, 2002 et 2003, sous l'onglet 6 du recueil conjoint de documents, présentent avec exactitude les dépenses refusées par le ministre en vertu du paragraphe 18(12) de la Loi de l'impôt sur le revenu dans le calcul du revenu ou des pertes de l’entreprise pour les années d'imposition 2001, 2002 et 2003.
+L’IMMEUBLE
+15. L'entreprise exerce ses activités dans un immeuble appartenant à M. et Mme Denis.
+16. Un plan d'étage exact (le « plan ») de l'immeuble est reproduit à l'onglet 4 du recueil conjoint de documents et à titre d'annexe A au présent exposé conjoint des faits.
+17. Un plan d'étage plus détaillé de l'immeuble est reproduit à l'onglet 5 du recueil conjoint de documents.
+18. M. et Mme Denis ont fait construire l'immeuble avec l'intention d'y exploiter une entreprise de gîte touristique.
+19. L'immeuble compte cinq chambres d'hôte, nommées Wicker (numéro 7 sur le plan), Birdhouse (numéro 8 sur le plan), Willow (numéro 18 sur le plan), Garden (numéro 19 sur le plan) et Gallery (numéro 11 sur le plan).
+20. Pendant les années en cause, M. et Mme Denis n'ont engagé aucune personne ni aucune société pour effectuer le travail lié aux activités de l'entreprise.
+21. L'immeuble comporte deux étages, d'une superficie totale d'environ 4 448 pieds carrés, chaque étage comptant environ 2 224 pieds carrés. Il y a également un garage/atelier de 600 pieds carrés (numéro 2 sur le plan), une surface de terrasse d'environ 1 200 pieds carrés à l’étage supérieur (numéro 10 sur le plan) et une surface de terrasse d'environ 800 pieds carrés à l’étage inférieur (numéro 20 sur le plan).
+22. L'immeuble se situe sur un terrain de 0,3003 hectare ou 0,742 acre. Il y a un pavillon de jardin et un étang de pisciculture avec une chute d’eau, de même que de beaux jardins.
+23. Chaque chambre d'hôte possède une entrée séparée qui s'ouvre vers l'extérieur de l'immeuble. Ces entrées extérieures sont dotées d'un système de penne dormant et peuvent être verrouillées de l'extérieur avec une clé de chambre. Ces portes ne sont pas des portes coulissantes en verre. Des photographies des portes se trouvent à l'onglet 2 du recueil conjoint de documents. Les chambres d'hôte possèdent également des portes qui permettent d'y accéder depuis l'intérieur de l'immeuble.
+24. Les hôtes qui occupent la chambre Wicker ou la chambre Birdhouse (numéros 7 et 8 sur le plan) utilisent habituellement la salle de bain située entre les deux chambres (numéro 10.5 sur le plan).
+25. Les hôtes qui occupent la chambre Willow ou la chambre Garden (numéros 18 et 19 sur le plan) utilisent habituellement la salle de bain située entre les deux chambres (numéro 21 sur le plan).
+26. Les hôtes qui occupent la chambre Gallery utilisent habituellement la salle de bain privée (numéro 11.1 sur le plan) qui est reliée à cette chambre.
+27. Pache et Patricia Denis n'utilisent pas les salles de bain des hôtes (numéros 10.5, 21 et 11.1 sur le plan).
+28. Patricia et Pache Denis sont les seules personnes qui résident en permanence dans l'immeuble.
+29. Patricia et Pache Denis entrent habituellement dans l'immeuble en utilisant l'entrée de garage (numéro 10.6 sur le plan) ou l'entrée distincte de l'espace privé de M. et Mme Denis qui donne sur l'extérieur de l'immeuble (numéro 10.7 sur le plan). Les hôtes utilisent habituellement l'entrée principale (numéro 10.2 sur le plan) et les portes qui donnent accès aux chambres depuis la terrasse. Une photographie de l'entrée principale se trouve à l'onglet 7 du recueil conjoint de documents. Une photographie de l'entrée secondaire se trouve à l'onglet 8 du recueil conjoint de documents. Une photographie de l'entrée de garage se trouve à l'onglet 9 du recueil conjoint de documents.
+30. Les hôtes utilisent parfois l'entrée secondaire (numéro 10.2 sur le plan) lorsqu'ils s'inscrivent et lorsqu'ils reviennent d'une promenade ou pour le petit déjeuner. Les hôtes utiliseront aussi parfois la toilette à proximité de l'entrée secondaire.
+31. Les aires communes de l'immeuble (numéros 6, 10.4, 16 et 17 sur le plan) sont conçues en aires ouvertes pour permettre aux hôtes de socialiser et leur offrir plus d’espace et pour faciliter le service aux hôtes. Chaque chambre à coucher est conçue avec son propre accès de l’extérieur pour permettre aux hôtes d'entrer et de sortir.
+UTILISATION DE L’IMMEUBLE PAR M. ET MME DENIS
+32. M. et Mme Denis dorment habituellement dans l'immeuble dans un espace privé de 540 pieds carrés (numéro 1 sur le plan) situé à l'étage supérieur de l'immeuble. Cet espace contient un lit, une penderie et une salle de bain complète (c'est-à-dire une salle de bain avec toilette, évier, bain et douche). M. et Mme Denis apportent habituellement leur nourriture dans cette pièce de 540 pieds carrés pour la manger, bien que les aliments soient généralement préparés dans la cuisine (numéro 3 sur le plan).
+33. Des photographies de l'intérieur de l'espace privé de 540 pieds carrés se trouvent à l'onglet 3 du recueil conjoint de documents.
+34. L'espace privé de 540 pieds carrés contient un piano, une lampe de piano, deux fauteuils, une chaise, des plateaux pour manger, deux tables de chevet avec lampes, un meuble télé, un lit, un foyer, deux commodes (dont une avec miroir), un meuble télé, un lit, un foyer, deux commodes (dont une avec miroir), un téléviseur, un magnétoscope, un lecteur DVD, deux téléphones, un répondeur téléphonique et divers bibelots.
+35. Le rangement que contient l'espace privé de 540 pieds carrés comprend les deux commodes, une penderie avec étagères, une lingerie, un comptoir intégré, des tiroirs et des bacs de rangement sous le lit.
+36. L'espace privé de 540 pieds carrés ne comporte pas de cuisine. L'immeuble possède une cuisine qui est située à l'extérieur de l'espace privé de 540 pieds carrés (numéro 3 sur le plan) et M. et Mme Denis utilisent cette cuisine pour préparer leurs repas ainsi que les repas des hôtes. En règle générale, la cuisine est interdite aux hôtes de M. et Mme Denis (à l'exception des amis et des membres de la famille).
+37. L'espace privé de 540 pieds carrés ne contient pas de four, de cuisinière ou de réfrigérateur.
+38. L'immeuble a été construit avec l'intention d'exploiter une entreprise de gîte touristique avec efficacité. L'espace privé de 540 pieds carrés a été conçu et construit pour répondre aux besoins personnels de M. et Mme Denis et a été construit sans ses propres salon, salle à manger, salle de lavage privée, cuisine et pièce de rangement parce qu'en reproduisant ces espaces à l'intérieur de l'espace privé de 540 pieds carrés, M. et Mme Denis auraient gaspillé une grande surface qu'ils auraient dû construire pour exploiter ce qu'ils estimaient être une entreprise de gîte touristique rentable.
+39. L'espace privé de 540 pieds carrés ne possède pas ses propres raccordements aux services publics.
+40. L'adresse de l'espace privé de 540 pieds carrés est la même que l'adresse du reste de l'immeuble.
+41. L'espace privé de 540 pieds carrés n'a jamais été loué à des hôtes ni autrement utilisé par eux.
+42. Outre l'espace privé de 540 pieds carrés, les parties suivantes de l'immeuble sont réservées à l'usage exclusif de M. et Mme Denis et ne sont pas utilisées par les hôtes :
+a) la cuisine (numéro 3 sur le plan) (une photographie de la cuisine se trouve à l'onglet 10 du recueil conjoint de documents);
+b) la cave à vin (numéro 14 sur le plan);
+c) les armoires de rangement (numéro 15 sur le plan);
+d) les installations de lavage (numéro 10.3 sur le plan).
+43. Lorsque des amis ou des membres de la famille leur rendent visite ou passent la nuit, M. et Mme Denis utilisent parfois l'endroit où se trouve la table de billard (numéro 16 sur le plan), celui où se trouve le minibar (numéro 13 sur le plan) et les endroits réservés pour manger ou s'asseoir (numéros 5, 6, 10.4, 17 sur le plan) pour des activités sociales comme prendre le café, le thé, un verre ou pour des barbecues ou le dîner. Lorsque personne ne leur rend visite, M. et Mme Denis n'utilisent pas ces endroits.
+44. Les endroits suivants sont la plupart du temps utilisés par M. et Mme Denis, mais également par des hôtes, comme l'indiquent les explications ci-après :
+a) Garage/atelier (numéro 2 sur le plan) — Des hôtes ont à deux reprises garé leur motocyclette dans le garage; les hôtes rangent parfois des denrées périssables dans le réfrigérateur ou le congélateur dans le garage.
+b) Entrée secondaire (numéro 10.2 sur le plan) — Les hôtes utilisent parfois cette entrée lorsqu'ils arrivent pour s’inscrire et lorsqu'ils reviennent d'une promenade ou entrent pour le petit déjeuner et ils utilisent parfois la toilette située à côté de l'entrée secondaire.
+c) Endroit où se trouve l'ordinateur/bureau (numéro 12 sur le plan) — Les hôtes utilisent parfois l'ordinateur à cet endroit pour vérifier leurs courriels, leurs réservations et l'horaire des traversiers.
+45. Patricia et/ou Pache Denis utilisent l'endroit où se trouve l'ordinateur/bureau (numéro 12 sur le plan) presque tous les jours dans le cadre des activités de l'entreprise pour vérifier les courriels, ainsi qu'à des fins personnelles.
+46. L'entretien d'un immeuble de gîte touristique et de son terrain est important et beaucoup de temps est passé, et a été passé, à vérifier que tout paraît bien et est en parfait état. Le garage/atelier (numéro 2 sur le plan) est une partie essentielle du programme d'entretien du terrain et de l'immeuble. Le garage/atelier est utilisé uniquement à des fins de rangement personnel et pour les tâches d'entretien. Le garage/atelier n'est jamais utilisé pour le stationnement des véhicules personnels de M. et Mme Denis.
+47. Les cinq chambres d'hôte de l'immeuble sont utilisées par les hôtes payants de M. et Mme Denis. Toutefois, lorsque des membres de la famille ou des amis leur rendent visite et qu'ils passent la nuit dans l’immeuble, M. et Mme Denis les logent dans les chambres d'hôte. M. et Mme Denis n'utilisent pas les chambres d'hôte pour eux-mêmes.
+48. M. et Mme Denis passent beaucoup de temps dans la cour afin de l'entretenir (presque tous les jours pendant la saison d'été et plusieurs jours par semaine au printemps et à l'automne).
+49. Pache Denis utilise la cuve thermale, qui est située sur la terrasse (numéro 10 sur le plan), ainsi que le barbecue (numéro 10 sur le plan). Patricia Denis n'utilise pas la cuve thermale ni le barbecue.
+ACCUEIL DE MEMBRES DE LA FAMILLE ET D’AMIS
+50. Des membres de la famille et des invités de M. et Mme Denis ont demeuré gratuitement dans les chambres d'hôte de l'immeuble. Cela se produit en moyenne trois ou quatre fois par année.
+51. Les réunions de famille et les visites des amis ou des connaissances de M. et Mme Denis dans l'immeuble ne sont pas bien documentées, M. et Mme Denis n'ayant pas tenu de registre officiel de ces événements. En examinant le livre des invités, M. et Mme Denis se souviennent des visites suivantes au cours des années en cause :
+a) Le père, la mère et le frère de Pache Denis leur ont rendu visite du 20 juillet 2001 au 23 juillet 2001. Ils ont probablement utilisé deux chambres d'hôte pendant leur visite.
+b) Ann McColl et Ivor Miller (des amis de Kelowna) leur ont rendu visite en octobre 2001 (M. et Mme Denis ne connaissent pas la date exacte) et ils ont probablement passé une nuit.
+c) Le père, la mère et le frère de Pache leur ont à nouveau rendu visite le 13 mai 2002, probablement pour les aider à célébrer l'anniversaire de mariage de M. et Mme Denis qui tombe le 13 mai. Ils ont passé la nuit et utilisé deux chambres d'hôte.
+d) Brian et Bev Frankcombe leur ont rendu visite le 3 août 2002. Ils sont des amis de Tasmanie et ont probablement passé une nuit.
+e) Ann McColl et Ivor Miller leur ont à nouveau rendu visite le 9 juillet 2003 et ont passé une nuit.
+f) Le neveu de Pache Denis, John Paul Denis, est resté le 27 décembre 2003 pour une nuit.
+g) La famille immédiate de Pache Denis leur a rendu visite à Noël.
+h) M. et Mme Denis ont sans doute reçu des amis locaux à l'occasion d’un ou deux barbecues, mais ils ne se souviennent pas des dates.
+52. M. et Mme Denis ont pris des repas avec des amis et des membres de la famille dans la cuisine en s'assoyant au comptoir de l’îlot (qui compte quatre tabourets) (numéro 4 sur le plan) ou à l'extérieur, à l'endroit où se trouvent le barbecue et l'endroit pour manger (numéros 9 et 10 sur le plan), ou à l'intérieur dans les endroits réservés pour manger (numéros 5 et 6 sur le plan). La fréquence de ces événements est fournie ci-après au paragraphe 54.
+53. M. et Mme Denis ont également utilisé les salles à manger (numéros 5 et 6 sur le plan) et le salon de l'immeuble (numéro 10.4 sur le plan) pour recevoir des membres de leur famille et des amis. La fréquence de ces événements est fournie ci-après au paragraphe 54.
+54. Au cours des visites d'amis, de membres de la famille ou de connaissances, un repas pris au comptoir de l'îlot de la cuisine (numéro 4 sur le plan) pouvait se produire une demi‑douzaine de fois par année. Un repas pris à l'extérieur (numéros 9 et 10 sur le plan) pouvait se produire deux ou trois fois par année.
+Un repas pris à l'endroit réservé aux repas (numéro 6 sur le plan) pouvait se produire en moyenne deux à trois fois par année.
+55. La cour est utilisée trois ou quatre fois par an pour accueillir des membres de la famille et des amis à l'occasion d’un barbecue ou simplement pour une visite sociale. La cour comprend un étang de pisciculture, des pelouses, une chute d'eau et des jardins.
+56. À l'occasion, des amis rendent visite à M. et Mme Denis à l'immeuble. Dans ce contexte, « à l'occasion » signifie que peut-être une ou deux fois par mois ils recevront la visite d'une personne qui réside à Ashcroft ou à Cache Creek et une ou deux fois par an, ils recevront la visite d'un ami de l'extérieur.
+57. Pendant les années en cause, deux ou trois fois par an, M. et Mme Denis avaient des amis, des membres de la famille ou des connaissances qui leur rendaient visite et qui passaient parfois la nuit. Ces occasions sociales étaient sans formalité aucune et pouvaient comprendre un barbecue ou un dîner plus officiel. À ces occasions, M. et Mme Denis utilisaient les endroits réservés aux repas (numéros 5 et 6 sur le plan), les chambres d'hôte (si les invités passaient la nuit) (numéros 7, 8, 11, 18 et 19 sur le plan), les terrasses et les chaises à l'extérieur (numéros 9 et 20 sur le plan) ou les salles de jeux (numéros 16 et 17 sur le plan).
+58. À l'époque de Noël, la famille de Pache Denis (le frère, la sœur, la mère et le père), le fils, la fille et le petit-enfant de M. et Mme Denis venaient habituellement pour célébrer Noël. Ils ne restaient habituellement que quelques jours et retournaient à la maison le surlendemain de Noël. Les parents de Patricia Denis sont décédés il y a un certain temps et son frère fait rarement des visites sociales; pendant les années en cause, il n'a pas fait de visite sociale ni n'est resté chez sa sœur. M. et Mme Denis n'ont pas les dates exactes des visites des membres de la famille et des amis, car ils ne tiennent pas de registre des hôtes non payants. Les amis leur rendent visite une ou deux fois par mois, mais passent rarement la nuit, car ils ne font habituellement que passer.
+HÔTES PAYANTS
+59. Les préférences des hôtes dictent la chambre qui leur sera louée, sous réserve de sa disponibilité. Plusieurs hôtes ont une chambre préférée et choisissent leur chambre au moment de la réservation et demandent souvent la même chambre lorsqu'ils reviennent. Les hôtes préfèrent avoir de l'espace et de l'intimité, particulièrement en ce qui a trait à l'utilisation de la salle de bain. Le souci de M. et Mme Denis est de répondre à ces préférences lorsqu'ils le peuvent. Cela signifie que les préférences de réservation sont fonction des salles de bain. Ainsi, une personne seule peut choisir une chambre à l'étage inférieur ou supérieur et deux personnes seules peuvent choisir chacune leur étage simplement pour avoir leur espace, leur intimité et leur propre salle de bain.
+60. En règle générale, les hôtes peuvent réserver une chambre pour un séjour de trois manières :
+a) Par Internet - Les hôtes consultent le site Web ou la publicité imprimée et se renseignent sur les tarifs et la disponibilité des chambres par courriel et, s'ils sont satisfaits, ils réservent en communiquant les renseignements de carte de crédit par courriel, téléphone ou télécopieur.
+b) Par téléphone - Les hôtes procèdent de la même manière que ci-dessus, sauf qu'ils communiquent presque toujours les renseignements de carte de crédit par téléphone.
+c) Sans réservation - Les hôtes se présentent à la porte pour vérifier si l'endroit leur convient, la disponibilité des chambres et les tarifs et, s'ils sont satisfaits, ils s’inscrivent.
+61. La procédure d'inscription des hôtes est la suivante :
+a) En règle générale, les hôtes s'inscrivent en se présentant à l'entrée principale de l'immeuble (numéro 10.1 sur le plan).
+b) S'il y a un choix de chambres, ils peuvent les visiter et ensuite choisir. Si une seule chambre est libre, une visite de la chambre leur est offerte.
+c) L'inscription a lieu à l'îlot de la cuisine (numéro 4 sur le plan) où l'hôte remplit la fiche d'inscription et fournit les renseignements de carte de crédit s'ils n'ont pas été communiqués auparavant.
+d) Les hôtes sont ensuite invités à visiter les aires communes (numéros 5, 6, 10.4, 9, 13, 16, 17 et 20 sur le plan) et reçoivent une description des commodités et de leur fonctionnement, si nécessaire.
+e) (sic) On leur indique les aires extérieures ainsi que l’entrée privée de leur chambre, que la plupart des hôtes utilisent pour leurs bagages.
+Les précisions concernant le petit déjeuner (heure, allergies, menu) sont habituellement discutées et décidées à l'avance.
+62. Le tableau qui suit présente toutes les données de vente, les dates de séjour des hôtes, l'étage et la chambre qu'ils ont occupées, ainsi que le montant payé pour les années d'imposition 2001, 2002 et 2003. Les dates (mois, jour) indiquent la date de départ. Les séjours de plusieurs nuits sont exprimés en nuitées (par exemple, 2 nuitées).
+2001
+Ventes du gîte touristique
+Nbre d’hôtes Étage Chambre
+Date
+Clients
+Montant payé
+01 13
+Dodge / Gîte
+1
+2
+Willow
+58,85 $
+01 26
+OMMSA / Rafraîchissements
+39,90 $
+01 27
+Robinson / Gîte, 2 nuitées
+1
+2
+Willow
+117,70 $
+01 28
+UCC / Kershaw / Gîte
+2
+1 et 2 Birdhouse / Garden
+117,70 $
+03 15
+Van Osch / Gîte
+1
+2
+Willow
+58,85 $
+04 01
+Chapplow / Gîte, 2 nuitées
+2
+2
+Willow
+117,70 $
+05 06
+Webster / Nouvelles poignées
+57,00 $
+05 23
+Cargo Control / Gîte, 5 nuitées
+1
+2
+Garden
+294,25 $
+05 24
+Vennard / Gîte
+1
+1re
+Birdhouse
+58,85 $
+05 28
+Vennard / Gîte / 2 chambres
+3
+1
+Birdhouse/Wicker
+58,85 $
+06 01
+Robinson 1 Gîte et lunch / 2 nuitées
+1
+2
+Garden
+137,70 $
+06 09
+Petie / Gîte
+2
+2
+Willow
+58,85 $
+06 17
+Holt / Gîte, 2 nuitées
+2
+1
+Birdhouse
+117,70 $
+06 17
+Forbes / Gîte, 2 nuitées
+2
+2
+Willow
+117,70 $
+06 19
+Cargo Control / Gîte, 6 nuitées
+1
+1
+Garden
+353,10 $
+07 01
+Elson / Gîte
+2
+2
+Garden
+58,85 $
+07 17
+Clayton / Gîte, 4 nuitées
+2
+2
+Birdhouse
+321,00 $
+07 28
+Michels / 2 nuitées / 2 chambres
+3
+2
+Willow/Garden
+235,40 $
+08 05
+Cargo Control / Gîte, 3 nuitées
+1
+1
+Birdhouse
+176,55 $
+08 09
+Cargo Control / Gîte, 2 nuitées
+1
+1
+Birdhouse
+117,70 $
+08 11
+MeDonell / Gîte, 3 nuitées
+1
+1
+Willow
+176,55 $
+08 14
+Cargo Control / Gîte, 2 nuitées
+1
+1
+Birdhouse
+117,70 $
+08 25
+Lasala / Gîte
+2
+1
+Birdhouse
+80,25 $
+09 01
+O'Connell / Gîte, 7 nuitées
+1
+2
+Garden
+262,15 $
+09 03
+Christie / Gîte, 3 nuitées
+2
+2
+Willow
+240,75 $
+09 29
+O'Connell / Gîte, 11 nuitées
+1
+1 et 2 Birdhouse/Garden
+411,95 $
+09 30
+Fihich / Gîte
+2
+1
+Birdhouse
+80,25 $
+10 13
+Miller / Gîte
+2
+1
+Birdhouse
+58,85 $
+10 18
+BC Hydro / Gîte, 2 chambres / 1 nuitée
+2
+2
+Willow/Garden
+139,10 $
+11 01
+O'Connell / Gîte, 6 nuitées
+1
+2
+Garden
+224,70 $
+11 26
+Robinson / Gîte et lunch
+1
+1
+Birdhouse
+81,55 $
+11 27
+O'Connell / Gîte, 7 nuitées
+1
+2
+Garden
+262,15 $
+11 28
+BC Hydro / Gîte, 3 chambres / 1 nuitée
+3
+1 et 2 Willow/Garden/Birdhouse 208,65 $
+12 12
+BC Hydro / Gîte, 2 chambres / 1 nuitée
+2
+2 Willow/Garden
+139,10 $
+12 28
+O'Connell / Gîte, 9 nuitées
+1
+1 et 2 Garden/Birdhouse
+337,05 $
+Total
+5 494,95 $
+2002 Ventes du gîte touristique
+Date Clients
+Nbre d’hôtes Étage Chambre
+Montant payé
+01 31 Cargo Control / Gîte, 2 nuitées
+Birdhouse
+117,70 $
+01 31 O'Connell / Gîte, 7 nuitées
+1
+2
+Garden
+262,15 $
+02 03 Peake / Gîte, 1 nuitée
+2
+2
+Willow
+80,25 $
+02 23 Rideout / Gîte, 2 nuitées
+2
+2
+Willow
+139,10 $
+02 26 O'Connell / Gîte, 6 nuitées
+1
+2
+Garden
+224,70 $
+03 07 Erho / Gîte, 1 nuitée
+2
+2
+Willow
+80,25 $
+03 10 Fibich / Gîte
+1
+1
+Birdhouse
+37,45 $
+03 14 O'Connell / Gîte, 5 nuitées
+1
+2
+Garden
+187,25 $
+03 16 Dunn & Johanson / Gîte, nuitée
+2
+2
+Garden
+69,55 $
+03 17 Plotnikow / Gîte, 1 nuitée
+2
+2
+Willow
+69,55 $
+04 17 O'Connell / Gîte, 4 nuitées
+1
+2
+Garden
+149,80 $
+04 18 Olund / Gîte, 1 nuitée
+1
+2
+Garden
+69,55 $
+04 19 Anderson / Gîte, 1 nuitée
+1
+2
+Willow
+69,55 $
+04 29 Thomson / Gîte, 1 nuitée
+3
+2
+Garden
+80,25 $
+05 04 Cargo Control / Gîte, 2 nuitées
+1
+1
+Birdhouse •
+139,10 $
+05 13 Dennis / Gîte, 2 nuitées
+2
+2
+Garden
+139,10 $
+05 20 Cook / Gîte, 2 chambres 2 nuitées
+3
+2
+Willow/Garden
+192,60 $
+05 23 Robinson / Gîte, 2 nuitées / lunch
+1
+1
+Birdhouse
+149,80 $
+05 27 Webb / Gîte, 1 nuitée
+2
+1
+Birdhouse
+80,25 $
+05 30 O'Connell / Gîte, 6 nuitées
+1
+2
+Garden
+224,70 $
+06 06 Bradford & Shannon / Gîte, 1 nuitée
+2
+1
+Birdhouse
+80,25 $
+06 15 Forbes / Gîte, 2 nuitées
+2
+1
+Birdhouse
+160,50 $
+06 15 Baine / Gîte, 2 nuitées
+2
+2
+Garden
+160,50 $
+06 15 Montgomery Gîte, 12 nuitées
+2
+2
+Willow
+160,50 $
+06 15 Hyatt / Gîte, 2 nuitées
+2
+1
+Wicker
+160,50 $
+06 19 Bimmerst / Gîte, 1 nuitée
+06 25 Legg / Gîte, 1 nuitée
+06 27 Foot & Dejong / Gîte, 2 chambres
+2
+2
+3
+2
+1
+1
+Garden 80,25 $
+Birdhouse 80,25 $
+Wicker / Birdhouse 149,80 $
+06 27 Wilkie / Gîte, 1 nuitée
+2
+2
+Willow
+80,25 $
+06 30 O'Connell / Gîte, 5 nuitées
+1
+2
+Garden
+187,25 $
+07 17 Giesbrecht / Gîte, 1 nuitée
+2
+1
+Birdhouse
+80,25 $
+07 18 O'Connell / Gîte, 4 nuitées
+1
+2
+Garden
+149,80 $
+07 25 Stein Gîte, 12 chambres (sic)
+3
+2
+Willow/Garden
+133,75 $
+07 29 Simon / Gîte, 2 chambres
+3
+2
+Willow/Garden
+90,95 $
+07 31 Kersgaard / Gîte, 1 nuitée
+2
+2
+Garden
+80,25 $
+08 01 Podmore / Gîte, 1 nuitée
+2
+2
+Garden
+80,25 $
+08 02 Christofferson / 1 nuitée
+3
+2
+Willow/Garden
+101,65 $
+08 03 Fix / 2 chambres
+4
+1
+Wicker/Birdhouse
+90,95 $
+08 04 Davidson / Gîte, 1 nuitée
+2
+1
+Birdhouse
+80,25 $
+08 24 Haggarty / Gîte, 1 nuitée
+2
+1
+Birdhouse
+80,25 $
+08 28 O'Connell / Gîte, 4 nuitées
+1
+2
+Garden
+149,80 $
+08 29 Chisholm / Gîte, 1 nuitée
+1
+2
+Garden
+69,55 $
+08 29 Ensemble cadeau du Willow'n
+18,32 $
+08 30 Vanderburgh / Gîte, 1 nuitée
+2
+2
+Garden
+80,25 $
+08 30 Leever / Gîte, 1 nuitée
+2
+2
+Willow
+80,25 $
+09 09 Enderle / Gîte, 1 nuitée
+2
+2
+Garden
+80,25 $
+09 22 Hoffman / Gîte, 1 nuitée
+2
+2
+Garden
+80,25 $
+09 22 Kreye / Gîte, 1 nuitée
+2
+2
+Willow
+80,25 $
+09 30 O'Commell / Gîte, 3 nuitées
+1
+1
+Birdhouse
+112,35 $
+10 27 O'Connell / Gîte, 3 nuitées
+1
+2
+Garden
+112,35 $
+11 24 O'Connell / Gîte, 3 nuitées
+1
+2
+Garden
+112,35 $
+12 23 O'Connell / Gîte, 3 nuitées
+I
+2
+Garden
+112,35 $
+Total
+5 919,37 $
+2003 Ventes du gîte touristique Nbre d’hôtes Étage Chambre
+Date Clients
+01 12 Cargo Control 01 12 Furness
+01 20 O'Comiell, 3 nuitées
+01 29 Furness, 4 nuitées
+02 17 O'Connell, 3 nuitées
+02 18 Furness
+03 30 Brown, 3 nuitées
+04 03 Robinson
+04 07 Kassian
+04 07 Erho/BC Hydro
+04 09 Clayton
+04 14 O'Connell, 3 nuitées
+04 17 Clayton
+04 20 Davis, 3 nuitées
+04 20 Mason, 3 nuitées
+04 20 Garis, 3 nuitées
+05 05 O'Connell, 3 nuitées
+05 16 Simms
+05 17 Dempsey
+05 17 Six
+05 22 Turpie
+05 30 Bradford-Shannon
+05 31 Stevens Wedding Shoot
+06 02 flowat (sic), 2 nuitées
+2 2 Willow
+1 1 Wicker
+1 2 Garden
+1 1 Wicker
+1 2 Garden
+1 1 Wicker
+1 1 Birdhouse
+1 1 Birdhouse
+1 2 Garden
+2 1 et 2 Willow/Garden Wicker
+2 1 Birdhouse
+1 2 Garden
+2 1 Birdhouse
+1 2 Garden
+1 Birdhouse
+1 2 Willow
+1 2 Garden
+4 2 Willow/Garden
+2 2 Willow
+2 2 Garden
+2 1 Birdhouse
+2 2 Garden
+2 Garden
+Montant payé
+69,55 $
+69,55 $
+112,35 $
+187,25 $
+112,35 $
+37,45 $
+112,35 $
+80,25 $
+80,25 $
+240,75 $
+37,45 $
+112,35 $
+37,45 $
+112,35 $
+112,35 $
+112,35 $
+112,35 $
+160,50 $
+80,25 $
+80,25 $
+80,25 $
+80,25 $
+28,63 $
+160,50 $
+06 02 Johnny, 2 nuitées
+1
+2
+Willow
+160,50 $
+06 07 Rae-Bowman, 3 nuitées
+2
+1
+Birdhouse
+240,75 $
+06 07 Glassford
+2
+2
+Garden
+80,25 $
+06 08 Maisons d’oiseaux
+34,35 $
+06 12 Sheehy/Howard, 3 nuitées
+2
+2
+Willow/Garden
+385,20 $
+06 15 Fletcher, 2 nuitées
+2
+2
+Garden
+160,50 $
+06 18 Service à déjeuner GTONS
+5,36 $
+06 19 Srouffe
+2
+1
+Birdhouse
+80,25 $
+06 22 Cook, 2 nuitées
+3
+1
+Wicker/Birdhouse 203,03$
+06 23 Sheehy/Howard, 16 nuitées et 13 nuitées
+2
+2
+Willow/Garden
+1 861,80 $
+06 27 Penfold
+1
+I
+Birdhouse
+80,25 $
+06 29 Nolan
+2
+2
+Garden
+80,25 $
+06 29 Sirop d’érable Maple Crest
+12,88 $
+07 05 Lang
+2
+2
+Willow
+80,25 $
+07 05 Hubbermin
+2
+1
+Birdhouse
+80,25 $
+07 06 Spalding
+2
+1
+Birdhouse
+80,25 $
+07 07 O'Connell, 3 nuitées
+2
+2
+Garden
+112,35 $
+07-08 Elbe
+2
+2
+Willow
+80,25 $
+07 11 Belhin
+2
+2
+Willow
+80,25 $
+07 16 Croft
+2
+2
+Garden
+80,25 $
+07 18 Grant
+2
+2
+Garden
+80,25 $
+07 21 Kassian
+1
+2
+Garden
+80,25 $
+07 26 Workman
+2
+2
+Garden
+80,25 $
+07 26 Jeffrey
+2
+1
+Wicker
+80,25 $
+07 26 Penny
+2
+1
+Birdhouse
+80,25 $
+07 26 Ellis
+2
+2
+Garden
+80,25 $
+07 31 Rendle
+2
+2
+Willow
+80,25 $
+08 02 Pritchard
+2
+1
+Birdhouse
+80,25 $
+08 04 O'Connell, 4 nuitées
+1
+2
+Willow
+149,80 $
+08 06 Jones
+2
+2
+Willow
+80,25 $
+08 06 Warner
+2
+2
+Garden
+90,95 $
+08 09 Scott
+2
+2
+Willow
+80,25 $
+08.17 Aicken-Davidson
+2
+1
+Birdhouse
+80,25 $
+08 20 McKague
+2
+2
+Garden
+80,25 $
+08 21 Temple
+4
+2
+Willow / Garden
+117,70 $
+08 25 Sidhu
+2
+2
+Garden
+80,25 $
+08 26 Kettle
+4
+2
+Garden / Willow
+160,50 $
+09 02 Furness, 2 nuitées
+1
+1
+Wicker
+09 03 Paxton
+2
+2
+Willow
+80,25 $
+09 06 Sutton, 5 nuitées
+2
+2
+Garden
+401,25 $
+09 06 MacMillan, 5 nuitées
+2
+2
+Willow
+401,25 $
+09.06 Herbert
+2
+1
+Wicker
+80,25 $
+09 06 Claudia
+2
+1
+Birdhouse
+80,25 $
+09 07 Olson
+2
+1
+Wicker
+80,25 $
+09 07 Sidhu
+2
+1
+Birdhouse
+80,25 $
+09 08 Furness, 1 nuitée
+2
+1
+Birdhouse
+224,70 $
+09 10 Griffin
+2
+2
+Garden
+80,25 $
+09 13 Graetz
+2
+2
+Willow
+80,25 $
+09 14 O'Connell, 3 nuitées
+1
+2
+Garden
+160,50 $
+09 16 Horsey
+2
+1
+Birdhouse
+80,25 $
+09 16 Harrison
+2
+2
+Garden
+80,25 $
+09 20 Sidhu
+2
+2
+Willow
+80,25 $
+10 03 Knox, 3 nuitées
+2
+1
+Birdhouse
+240,75 $
+10 04 Knox
+2
+1
+Wicker
+80,25 $
+10 10 ARCAS, 11 nuitées
+2
+2
+Willow
+1 530,10 $
+10 13 O'Connell, 3 nuitées
+1
+1
+Birdhouse
+112,35 $
+10 16 ARCAS, 6 nuitées
+1
+2
+Garden
+417,30 $
+10 26 ARCAS, 12 nuitées
+10 29 ARCAS, 3 nuitées
+2
+2
+2
+2
+Garden
+Willow
+1 669,20 $
+417,30 $
+11 02 Omasta
+2
+2
+Garden
+80,25 $
+11 09 Omasta
+2
+2
+Garden
+80,25 $
+11 17 O'Connell, 3 nuitées
+1
+2
+Garden
+112,35 $
+12 21 O'Connell, 3 nuitées
+1
+2
+Garden
+112,35 $
+Total : 14 839,72 $
+63. Il n'y avait pas d'hôtes payants pendant les jours non indiqués ci-dessus.
+64. Tous les hôtes indiqués ci-dessus étaient des hôtes payants. Cargo Control est une entreprise dont le propriétaire est le frère de Patricia Denis. Il était un hôte payant à plusieurs dates car il travaillait dans la région. La belle-sœur de Patricia Denis, Myrna McDonell, a séjourné pendant trois jours en août 2001 et a insisté pour payer.
+65. Tous les faits qui précèdent sont véridiques pour les années 2001, 2002 et 2003, avec les réserves suivantes :
+a) La chambre Gallery (numéro 11 sur le plan) a été achevée à l'été de 2004. Avant 2004, l'espace qu'occupe actuellement la chambre Gallery était utilisé comme atelier de construction pour l'entreprise de gîte touristique et contenait des outils électriques comme des bancs de scie pour les travaux de finition tels que les moulures dans les chambres d'hôte.
+b) La construction du minibar a commencé et pris fin à l'automne de 2003. Avant sa construction, l'espace qu'il occupe à l'heure actuelle était libre.
+Fait dans la ville de Vancouver (Colombie-Britannique), ce /5 I (sic) jour d'octobre 2007.
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Avocat de l'intimé
+[Signature]
+Par : jGrewal
+Représentant de l’intimée
+[Signature]
+Richard B.
+Avocat des appelants
+· Étage 1
+· Étage supérieur
+· 2 224 pieds carrés + 600 pieds carrés pour le garage/atelier
+1. Espace privé de 540 pieds carrés réservé à l'usage des propriétaires
+2. Garage/atelier de 600 pieds carrés
+3. Cuisine
+4. Îlot de cuisine avec tabourets
+5. Table et quatre chaises
+6. Salle à manger
+7. Chambre Wicker
+8. Chambre Birdhouse
+9. Terrasse
+10. Terrasse avec cuve thermale et barbecue
+10.1 Entrée principale
+10.2 Entrée secondaire
+10.3 Installations de lavage
+10.4 Salon
+10.5 Salle de bain d’hôte
+10.6 Entrée du garage
+10.7 Entrée extérieure donnant accès à l'espace privé de 540 pieds carrés
+• ÉTAGE 2
+Étage inférieur
+F
+11. Chambre Gallery avec salle de bain privée (11.1)
+12. Endroit où se trouve l'ordinateur
+13. Minibar
+14. Cave à vin
+15. Armoires de rangement
+16. Table de billard
+17. Aire de divertissement
+18. Chambre Willow
+19. Chambre Garden
+20. Terrasse
+21. Salle de bain d’hôte
+1.

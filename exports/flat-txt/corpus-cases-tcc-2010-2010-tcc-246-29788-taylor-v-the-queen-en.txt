@@ -1,0 +1,207 @@
+Title: Taylor v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29788/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-246-29788-taylor-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-05-05
+
+# Taylor v. The Queen
+
+- Citation: 2010 TCC 246
+- Decision date: 2010-05-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6594, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Taylor v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-05
+Neutral citation
+2010 TCC 246
+File numbers
+2009-1297(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2009-1297(IT)G
+2009-1299(GST)G
+BETWEEN:
+TERRY E. TAYLOR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Reference heard February 17-18, 2010 at Halifax, Nova Scotia
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+M. Gerard Tompkins, Q.C.
+Dennis J. James
+Melissa P. MacAdam
+Counsel for the Respondent:
+Amy Kendell
+____________________________________________________________________
+JUDGMENT
+IN THE MATTER of questions referred to the Court pursuant to section 173 of the Income Tax Act and section 310 of the Excise Tax Act;
+WHEREAS the question under the Income Tax Act is in respect of assessments (1) by notices dated May 7, 2009 for the 2000, 2001, 2002 and 2003 taxation years, and (2) by notice dated July 31, 2006 for the 2005 taxation year;
+AND WHEREAS the question under the Excise Tax Act is in respect of assessments (1) by notices dated November 28, 2006 for the period from January 1, 2000 to December 31, 2001, and (2) by notice dated May 8, 2008 for the period from October 1, 2006 to December 31, 2006;
+AND WHEREAS the question under each statute as framed by the parties is:
+Whether the Settlement Agreement dated January 22, 2009 is valid and binding on the parties so as to prevent the Appellant from appealing the reassessments to this Court.
+IT IS DETERMINED that the answer to the question under each statute is yes. The respondent is entitled to costs.
+Signed at Ottawa, Canada this 5th day of May 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 246
+Date: 20100505
+Dockets: 2009-1297(IT)G
+2009-1299(GST)G
+BETWEEN:
+TERRY E. TAYLOR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] These are applications for determination of a question pursuant to section 173 of the Income Tax Act and section 310 of the Excise Tax Act.
+[2] The question to be determined, as framed by the parties in each of the applications, is:
+Whether the Settlement Agreement dated January 22, 2009 is valid and binding on the parties so as to prevent the Appellant from appealing the reassessments to this Court.
+[3] The assessments to which the reference relates are:
+a) assessments made under the Excise Tax Act (1) by notices dated November 28, 2006 for the period from January 1, 2000 to December 31, 2001, and (2) by notice dated May 8, 2008 for the period from October 1, 2006 to December 31, 2006; and
+b) assessments made under the Income Tax Act (1) by notices dated May 7, 2009 for the 2000, 2001, 2002 and 2003 taxation years, and (2) by notice dated July 31, 2006 for the 2005 taxation year.
+[4] The appellant, Mr. Terry Taylor, submits that the settlement agreement is invalid given the circumstances under which it was made.
+[5] The purported agreement was signed at a settlement meeting held during the objections process. The agreement is reflected in two documents: a settlement offer signed by the appeals officer and a waiver signed by Mr. Taylor.
+[6] The essential elements of the settlement were that gross negligence penalties under the Income Tax Act were to be vacated and the appellant’s right to object or appeal was waived in accordance with subsections 165(1.2) and 169(2.2) of the Income Tax Act and subsections 301(1.6) and 306.1(2) of the Excise Tax Act.
+[7] These legislative provisions are reproduced below.
+Income Tax Act
+165(1.2) Notwithstanding subsections (1) and (1.1), no objection may be made by a taxpayer to an assessment made under subsection 118.1(11), 152(4.2), 169(3) or 220(3.1) nor, for greater certainty, in respect of an issue for which the right of objection has been waived in writing by the taxpayer.
+169(2.2) Notwithstanding subsections (1) and (2), for greater certainty a taxpayer may not appeal to the Tax Court of Canada to have an assessment under this Part vacated or varied in respect of an issue for which the right of objection or appeal has been waived in writing by the taxpayer.
+Excise Tax Act
+301(1.6) Notwithstanding subsection (1.1), no objection may be made by a person in respect of an issue for which the right of objection has been waived in writing by the person.
+306.1(2) Notwithstanding sections 302 and 306, a person may not appeal to the Tax Court to have an assessment vacated or varied in respect of an issue for which the right of objection or appeal has been waived in writing by the person.
+[8] It is useful to have some understanding of the tax issues that were under objection. For this purpose, I have reproduced below a summary of the issues as set out in the appellant’s pre-hearing brief.
+a) Mr. Taylor’s employment relationship with the MacDonnell Group Limited (MGL)
+b) Mr. Taylor’s employment relationship with Advanced Metal Technology Limited
+c) Treatment of certain credit card advances while Mr. Taylor was with MGL
+d) Treatment of business investment losses relating to 1702182 Canada Ltd. (“Canway”)
+e) Treatment of business investment losses relating to Service World Inc.
+f) The assessment of gross negligence penalties by the CRA
+g) The deduction of employment expenses by Mr. Taylor
+h) The deduction of legal fees incurred by Mr. Taylor
+i) The correct amounts of HST payable by Mr. Taylor relating to January 1, 2000-December 31, 2001, and October 1-December 31, 2006.
+Background facts
+[9] At the hearing, testimonial evidence was given by the four individuals who attended the settlement meeting: (1) Mr. Taylor, (2) Mrs. Anne Marie Long, the regional chief of appeals, (3) Mr. Richard AuCoin, the appeals team leader, and (4) Mr. Loren Itterman, the appeals officer. The documentary evidence included the notes of Mr. Itterman taken during the objection process, and the notes of Mrs. Long taken during the settlement meeting.
+[10] Mr. Taylor lives in Lower Sackville, Nova Scotia. He has a professional designation of certified general accountant and has significant business experience in finance and administration.
+[11] On May 5, 2005, officials from the RCMP and the Canada Revenue Agency conducted a search and seizure at Mr. Taylor’s residence in connection with suspected offences under the Income Tax Act.
+[12] The warrant that authorized the search was subsequently quashed on the basis that the information provided to support the warrant was in error and had not been adequately verified. It was also determined that the conduct of the investigating officer was egregious and oppressive: R. v. Taylor, 2006 NSSC 280; 2007 NSSC 56; 2008 NSCA 5.
+[13] No criminal charges were laid, and assessments were subsequently issued without an audit.
+[14] Mr. Taylor prepared a notice of objection to the assessments which was approximately 100 pages in length. It was filed in December 2006. Legal counsel, Mr. Gerard Tompkins, was retained a few months later in connection with the objection process.
+[15] The following paragraphs describe some of the key events in the objection process as far as the evidence reveals. It is not intended to be exhaustive.
+[16] Mr. Itterman was the appeals officer who was assigned the file. He began his review of the notice of objection around June 2007 and had several communications with Mr. Tompkins over the next few months.
+[17] These communications culminated in a meeting on August 22, 2007 between Mr. Itterman and Mr. Tompkins. At the end of the meeting, Mr. Tompkins undertook to work towards obtaining further supporting documentation. It was understood that September 30, 2007 would be the final deadline for submitting information.
+[18] Just before the September 30 deadline, another meeting was held. This time both Mr. Taylor and Mr. Tompkins met with Mr. Itterman. The date for receiving supporting information was extended to October 4, 2007.
+[19] On September 30, 2007, Mr. Taylor sent a 14 page letter addressed to the regional director of the CRA, Mr. Donald Gibson. In general, the letter alleged that the objection process was not being properly conducted by the CRA. Persons inside and outside the CRA were listed as being copied on the letter, including Members of Parliament and the Auditor General of Canada.
+[20] Mr. Itterman responded to the letter on October 17, 2007. He stated that, after discussing the matter with Mr. Gibson, it was decided that Mr. Itterman would document the CRA’s position and Mr. Taylor would be given 30 days to respond. Mr. Itterman sent a detailed letter on October 22, 2007 and Mr. Taylor responded within the 30 days.
+[21] In addition to this correspondence, on November 19, 2007 Mr. Taylor sent a letter addressed to Mr. Gibson, Mr. Itterman, and Mr. AuCoin. A number of high level officials were shown being copied on the letter, including the offices of the Prime Minister of Canada and the Premier of Nova Scotia.
+[22] The general import of the letter is reflected in the following excerpt:
+The CRA will be held accountable to the public and the CRA will be made to pay for their abuse and negligence. Unless a proper audit is performed, or the Appeals Division simply accepts my appeal, I will guaranty the CRA that they will be in the news headlines and be made to pay for their negligence and damages! The CRA will look bad and will be made to pay for their abuse, mistakes, errors, omissions, and negligence. I will also ensure that individuals involved in these CRA negligent decisions are made accountable.
+[23] The Minister of National Revenue followed up on this complaint and a reply was sent by his office on March 14, 2008. The reply was not entered into evidence.
+[24] Meanwhile, Mr. Itterman continued his review of the objection for several months and attempted to obtain further information from various sources. It appears that the review was complete around August, 2008 and a meeting with Mr. Taylor was scheduled in order to communicate the results.
+[25] Mr. Tompkins was informed of the upcoming meeting by Mr. AuCoin, the team leader, during a conversation they had about another file. Mr. Tompkins indicated that he did not want to attend the meeting because he did not want to be called as a witness in the event that the matter went to court.
+[26] The meeting took place on October 7, 2008, with Mr. Taylor, Mr. Itterman and Mr. AuCoin in attendance. Near the end of the meeting, Mr. Taylor broached the subject of a possible settlement. It was agreed that the CRA would provide Mr. Taylor with a breakdown of the amounts at issue to assist him in evaluating a possible settlement and that Mr. Taylor would provide a settlement offer within 10 days after that. The breakdown was sent by Mr. Itterman the following day.
+[27] Extensions of the 10-day deadline were subsequently granted as Mr. Tompkins became involved in this process. The final extension was communicated by a voice mail from Mr. Itterman to Mr. Tompkins. A transcription of the voice mail was entered into evidence (Ex. A-1), and an excerpt is reproduced below.
+Sorry it took me so long to get back to you, but I ended up having to meet with the Chief of Appeals, Anne Marie Long, and Richard AuCoin, my supervisor, and they’ve agreed to allow the extension to December 19th, but they’ve asked that the offer be a serious settlement offer.
+[28] A response was sent by the December 19, 2008 deadline by way of a letter from Mr. Tompkins.
+[29] Mr. Tompkin’s letter was the last straw for Mrs. Long, the chief of appeals, because it failed to make a serious settlement offer.
+[30] Mrs. Long concluded that the objection process was being abused. It had gone on for a long time without Mr. Taylor bringing forward much to support his position. On the other hand, she thought that Mr. Itterman had done a significant amount of work. Her conclusion was that it was appropriate to close the file.
+[31] When Mr. Taylor was informed of this on January 20, 2009, he immediately sent several communications to the CRA in an attempt to keep the file open. He asked for a meeting with Mr. Itterman and Mr. AuCoin and another meeting with Mrs. Long. He wrote: “Let’s finish this final negotiation process and settle as we have agreed.” Some of the communications contained the following: “Please respond directly to me and no one else.”
+[32] The CRA agreed to a meeting and it took place on the morning of January 22, 2009. Mr. Taylor attended without legal counsel. Mrs. Long, Mr. AuCoin and Mr. Itterman represented the CRA.
+[33] Mrs. Long led the meeting for the CRA. She indicated that the file was about to be closed but invited Mr. Taylor to make an offer. Mr. Taylor raised several points for negotiation, but did not make much headway.
+[34] When Mr. Taylor raised the possibility of settling on the basis of waiving penalties and interest, he was informed that there was a separate process for the waiver of interest but that the CRA would be prepared to vacate penalties if Mr. Taylor waived his right to object or appeal. Mr. Taylor agreed to this.
+[35] Mr. Itterman was then instructed to draft settlement documents reflecting this agreement. He left the meeting for a short while to do this and Mrs. Long also left the meeting at this time. When Mr. Itterman returned, the documents were briefly explained by the CRA officials and then they were signed. The meeting was then over, having lasted somewhere between two and three hours.
+[36] Four days after the meeting, on January 26, 2009, Mr. Taylor communicated to the CRA that the settlement was not valid or enforceable because he was under extreme duress at the meeting and he had not been able to obtain legal advice.
+[37] The CRA took the position that the settlement was valid. Mr. Taylor subsequently tried to have the file re-opened but without success.
+[38] Assessments were subsequently issued and appeals were then instituted in this Court. This reference was brought before the respondent filed replies.
+Legal principles referred to
+[39] I was referred to several decisions of this Court that had considered waivers of this nature: Pearce v. The Queen, 2005 TCC 38; Nguyen v. The Queen, 2005 TCC 697, 2008 DTC 2880; McGonagle v. The Queen, 2009 TCC 168; 2009 DTC 1120; and Bauer v. The Queen, Court file no. 2007-4421(IT)G (oral decision delivered on September 9, 2009). In all of the cases, the waivers were determined to be valid.
+[40] Recently, the Tax Court decision in McGonagle was confirmed on appeal (2010 FCA 108).
+[41] In Nguyen, Justice Dussault described the principle to be applied as follows, at paragraph 33:
+It is clear to me that a waiver of the right to object and appeal signed by a taxpayer cannot be set aside except on a preponderance of evidence that the taxpayer did not freely consent to the waiver or was unduly pressured.
+[42] Counsel for the appellant also suggested that assistance could be obtained from court cases dealing with consents in matrimonial and employment contexts. As no specific judicial decisions were referred to, written submissions were received at my request subsequent to the hearing.
+[43] In the employment context, reference was made to Farmer v. Foxridge Homes Ltd., [1992] AJ No. 1040 (Alta QB); [1994] AJ No. 177 (Alta CA). In that case, an employee had agreed to a settlement with his employer shortly after being summarily dismissed. The court found that the settlement was invalid, noting that the employee had no notice, and no opportunity to prepare or to consult legal counsel.
+[44] In response, counsel for the respondent referred to a judicial decision in which a settlement with a dismissed employee was found to be valid notwithstanding that the employee was only given a very short time to consider it: Sapieha v. Intercontinental Packers Ltd., [1985] SJ No. 66, 10 CCEL 87 (Sask QB).
+[45] As for matrimonial law, counsel for the appellant referred to an excerpt from Miglin v. Miglin, [2003] 1 SCR 303, at para. 83:
+[…] the court should be loathe to interfere. In contrast, where the power imbalance did vitiate the bargaining process, the agreement should not be read as expressing the parties’ notion of equitable sharing in their circumstances and the agreement will merit little weight.
+[46] The principle described in Miglin is useful to consider. However, it should be borne in mind that, in the matrimonial context, Parliament has intervened to specifically give courts the right to override settlement agreements.
+[47] Counsel for the appellant also referred to the principle of unconscionable bargains. In Klassen v. Klassen, 2001 BCCA 445, the principle was described as having the following two elements: (1) proof of inequality in the position of the parties arising out of ignorance, need or distress of the weaker, which left him in the power of the stronger, and (2) proof that the purchase was made from the ignorant party at a considerable undervalue (para. 59).
+Analysis
+[48] To a great extent, the appellant’s case depends on his own testimony.
+[49] Below are some examples of Mr. Taylor’s testimony based on a transcript of the proceedings.
+· Mr. Taylor stated that, when he learned on January 20, 2009 that the file was to be closed, it tore him apart, devastated him, and he was totally lost (Transcript, p. 19, 20).
+· Mr. Taylor stated that he became totally lost at the meeting and felt at the CRA’s mercy when he was informed that the amount at issue was $261,000 (Transcript, p. 28).
+· Mr. Taylor testified that he was “scared to death” when Mrs. Long informed him that it would come out in court that he had embezzled funds and that he would have to pay the consequences (Transcript, p. 30).
+· Mr. Taylor testified that Mrs. Long refused to give him more time. He stated (Transcript, p. 31):
+What happened was I was forced into a corner. I had no where to go. I had no where to go that day. I specifically asked for two to three weeks for time to take all of this back to my attorney, Gerard Tompkins, so we could go through this at this point. And, you know, make an offer, which is what I tried to do. I tried to get this back on the table and [Mrs. Long] said, we’re not giving any more time. It has to be done this day before you leave this office. It was said to me once, it was said to me twice, it was said to me three times. So I had to make a multi hundred thousand dollar decision right there.
+· Mr. Taylor also suggested that he did not fully understand the ramifications of the settlement. For example, he described a schedule that was presented at the meeting (Transcript, p. 45):
+I remember seeing a spreadsheet with a bunch of numbers on it. But I mean did I – did I have time to review them or take them to another accountant to understand them, no.
+· Upon being presented with the settlement letter, Mr. Taylor felt that he had no option but to sign (Transcript, p. 35):
+[…] in my mind, I was so convinced by Anne Marie Long that no matter how smart we think we are or how sophisticated we can be, at the end of the day you’re human and when you’re being tackled by three people and forced in the corner, I felt I had to sign that. I had no options.
+[50] The above testimony, which is self-interested, does not ring true when considered in light of the evidence as a whole. It is just not believable that Mr. Taylor felt “lost” or “devastated” at the settlement meeting.
+[51] Mr. Taylor stated that he felt totally lost when he found out that the amount payable was $261,000. He also testified that he did not fully understand the spreadsheet presented at the meeting.
+[52] This testimony defies common sense. Mr. Taylor was an experienced businessman with a financial background. He was also very knowledgeable about the tax issues under dispute and he had been aware of the amounts at issue, including the penalties, for some time. The spreadsheet that was presented at the meeting had previously been provided to Mr. Taylor at his request. It was not difficult to understand.
+[53] Mr. Taylor stated that he was scared to death when informed that he would have to pay the consequences of embezzlement.
+[54] This also does not make sense. Several months earlier, Mr. Taylor had been given detailed information regarding the CRA’s position. It would not be a surprise to Mr. Taylor that the alleged embezzlement would be part of the evidence if the matter went to court.
+[55] Further, Mr. Taylor’s testimony is at odds with the testimony of the three CRA witnesses. According to their testimony, the settlement meeting was cordial and Mr. Taylor was calm. Upon being informed that the CRA was about to close the file, Mr. Taylor indicated that he wanted the matter over with as well. Mr. Taylor immediately accepted the settlement when it was offered, and he did not ask for more time to consider it.
+[56] I accept this version of events.
+[57] The testimony of Mr. Itterman and Mr. AuCoin in particular appeared to be forthright and unbiased. Both gentlemen had a fairly good recollection of what transpired at the meeting, which is not surprising given the acrimonious history of the file.
+[58] As for Mrs. Long’s testimony, it also seemed to be generally reliable. There were a few occasions in which her testimony seemed to be partisan, but for the most part I found her to be a credible witness. Her testimony was generally corroborated by Mr. Itterman and Mr. AuCoin.
+[59] It remains to be considered whether the settlement agreement is invalid considering the evidence as a whole. Was the agreement freely made? Was Mr. Taylor unduly pressured?
+[60] First, I conclude that the agreement was freely made. Mr. Taylor understood what he was agreeing to, and he had ample opportunity to consider his options and consult with his lawyer prior to the meeting. The circumstances are far different from those considered in Farmer, the employee dismissal case referred to by counsel for the appellant.
+[61] I also find that Mr. Taylor was not unduly pressured into making the settlement. Pressure was exerted, but it was not undue.
+[62] The context of the settlement meeting is important. The meeting took place at the request of Mr. Taylor as a last ditch effort after the CRA had concluded, with what appears to be good reason, that the file should be closed. The appeals division had previously conducted an extensive review and their findings had been communicated in detail to Mr. Taylor.
+[63] Although Mrs. Long stated to Mr. Taylor at the meeting that she was not willing to prolong the process, Mr. Taylor responded that he wanted the matter concluded quickly as well. When the offer was made, Mr. Taylor quickly accepted it. I reject Mr. Taylor’s testimony that he asked for more time to consider it.
+[64] The pressure was not undue in the circumstances.
+[65] Counsel for the appellant also submits that this is an appropriate case for the principle of unconscionable bargains to be applied.
+[66] I disagree. The principle of unconscionable bargains requires that: (1) Mr. Taylor was dominated by the CRA in the settlement negotiations by reason of his ignorance, need or distress, and (2) the settlement was clearly in the government’s favour.
+[67] Neither of these elements exists here.
+[68] As for disparity in bargaining power, the evidence does not establish that there was an inequity of bargaining power due to ignorance, need or distress.
+[69] As for the fairness of the settlement, counsel for the appellant submitted that the relinquishment of the right to appeal is worth far more than any reduction of the amount owing. I disagree with this. There is not a sufficient evidentiary foundation for me to conclude that the settlement was more favourable to the government than to Mr. Taylor.
+[70] Finally, I would briefly comment about the form of the waiver letter. Mr. Taylor testified that he did not fully understand the statutory provisions that were referenced in that letter. These provisions are reproduced above.
+[71] The waiver letter was apparently a standard form used by Mr. Itterman. I accept that Mr. Taylor likely did not fully understand all the statutory references that were referenced in the letter, but that does not make the settlement invalid. What is relevant is that Mr. Taylor had a sufficient understanding of the statutory provisions that were relevant to his situation. I find that he did.
+Conclusion
+[72] The conclusion that I have reached is that the settlement agreement is valid and that the answers to the questions in this reference are yes. The respondent is entitled to costs.
+Signed at Ottawa, Canada this 5th day of May 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 246
+COURT FILE NOs.: 2009-1297(IT)G
+2009-1299(GST)G
+STYLE OF CAUSE: TERRY E. TAYLOR and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: February 17, 18, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: May 5, 2010
+APPEARANCES:
+Counsel for the Appellant:
+M. Gerard Tompkins, Q.C.
+Dennis J. James
+Melissa P. MacAdam
+Counsel for the Respondent:
+Amy Kendell
+COUNSEL OF RECORD:
+For the Appellant:
+Name: M. Gerard Tompkins, Q.C.
+Firm: Patterson Law
+Halifax, Nova Scotia
+For the Respondent: Myles Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

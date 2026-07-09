@@ -1,0 +1,151 @@
+---
+title: "Furman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25060/index.do"
+last_modified: "2003-05-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 298"
+citation2: ""
+neutral_citation: "2003 TCC 298"
+decision_date: "2003-05-06"
+language: "en"
+item_id: "25060"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2535
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:12:10.163000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5eb9ffe8dbaa0382bf3adfad3934e5416db3713b8b87267472057db202849f65"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Furman v. The Queen
+
+- Citation: 2003 TCC 298
+- Decision date: 2003-05-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2535, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Furman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-06
+Neutral citation
+2003 TCC 298
+File numbers
+2002-4442(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2003TCC298
+Date: 20030506
+Docket: 2002-4442(IT)I
+BETWEEN:
+MICHAEL FURMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Edmonton, Alberta, on April 9, 2003)
+Miller J.
+[1] Mr. Michael Furman appeals by way of the informal procedure the assessment of his 1998 taxation year by the Minister of National Revenue (the Minister). The Minister disallowed certain employee expenses claimed by Mr. Furman, being meals and entertainment, travel costs and cell phone expenses.
+[2] Mr. Furman is a lawyer. He practiced as an associate of the Edmonton law firm of Hladun & Company from 1987 to 2001. He was, in 1998, an employee of that firm. He was paid by way of a base salary of $5,000 per month, plus a percentage of receipted billings for legal services over and above an average of $10,500 a month. An amount of approximately $10,000 was shown as commission income on Mr. Furman's 1998 T4.
+[3] It was required by Hladun & Company that Mr. Furman generate his own work, which he did, though there were no specific requirements addressed to any particular person or place. Mr. Furman emphasized the need to network, and explained it was for that reason he went on the Executive of a touch football league. He estimated that two-thirds of his day was spent providing legal services, in effect during a normal working day, and one-third of his time was spent promoting. His practice consisted mainly of litigation, both criminal and civil, with a small amount, perhaps 10 per cent, relating to commercial work. His clients were clients of the firm.
+[4] Regarding some of his promotion efforts, Mr. Furman claimed a travel expense of approximately $3,800 on a trip to an expensive conference in Hawaii. This was at the request of a physician from whom he was attempting to get work. While he was too late to register, he did spend time with the physicians and believed this solidified his relationship with the physicians. He acknowledged this would have been far too expensive to attend other than on a business basis. His wife accompanied him on that trip. Mr. Furman had several trips as well attending touch football tournaments in Kelowna, Regina and Saskatoon, with travel costs of approximately $2,400. These too he saw as networking, with many of the 400 members, as well as performing board related duties. According to Mr. Furman, the board work was solely to obtain potential clients.
+[5] Mr. Furman worked in the surrounding area of Edmonton, attending court in Sherwood Park, St. Albert, Vegreville, Camrose and the like. Mileage for such travel was allowed by the Minister. It is only the promotional travel costs that have been disallowed.
+[6] With respect to Mr. Furman's meals and entertainment expenses of $12,414, one-half of which he claimed pursuant to section 67.1 of the Act, he indicated this all related to local promotional wining and dining. Mr. Furman filed a T2200 form and then an Amended T2200 with Canada Customs and Revenue Agency for 1998. The form was prepared by Mr. Furman and signed by Mr. Hladun. The following are some of the questions and answers from those forms.[1]
+1. Did this employee's contract require the employee to pay his or her own expenses?
+The first form said "No", the second said "Yes".
+2. Did you normally require this employee to work away from your place of business or in different places?
+Both said "Yes".
+5 . Did this employee receive a payment of the expenses he or she paid to earn employment income?
+The first said "No", the second said "Yes".
+6. Did you require this employee to pay other expenses for which the employee did not receive any allowance or repayment?
+The first said "No", it was scratched out and checked "Yes", and the second said "Yes".
+7.a) Did you pay this employee wholly or partly by commissions or similar amounts according to the volume of sales made or contracts negotiated?
+Both said "Yes".
+b) If yes, indicate the type of goods sold or contracts negotiated."
+And it was indicated "Legal services".
+The starting point in a review of employment expenses is subsection 8(2) of the Act, which reads as follows:
+Except as permitted by this section, no deductions shall be made in computing a taxpayer's income for a taxation year from an office or employment.
+[7] It is clear that Mr. Furman's expenses must fall within a subsection of section 8 to be deductible. The sections proposed by Mr. Furman that render his expenses eligible for deduction are paragraphs 8(1)(f), (h) and (h.1). Taking them in turn, first paragraph 8(1)(f), which reads as follows:
+8(1)(f) sales expenses - where the taxpayer was employed in the year in connection with the selling of property or negotiating of contracts for the taxpayer's employer, and
+(i) under the contract of employment was required to pay the taxpayer's own expenses;
+(ii) was ordinarily required to carry on the duties of employment away from the employer's place of business;
+(iii) was remunerated in whole or part by commissions or other similar amounts fixed by reference to the volume of the sales made or the contracts negotiated, and
+(iv) was not in receipt of an allowance for travel expenses in respect of the taxation year...
+amounts expended by the taxpayer in the year for the purpose of earning the income from the employment (not exceeding the commissions...)
+It is not necessary for me to read the balance.
+[8] Clearly, there are a number of conditions Mr. Furman must meet to qualify under this subsection. The first is that he was employed in the selling of property or negotiating of contracts. Mr. Furman's argument is that obtaining a client is integral to his practice of law, and that constitutes a negotiation of contracts. With respect, I reject this argument. Every business requires getting the work. To extend that to mean that someone whose revenue is based on the provision of legal services is employed in connection with the negotiation of contracts, distorts the clear meaning of those words. As a lawyer, was Mr. Furman in sales? I do not believe so. I have not been convinced that because Mr. Furman is required to generate clients for the firm that his employment is "in connection with the negotiation of contracts". It is in connection with the provision of legal services. That is what he did, that is what he got paid for.
+[9] Mr. Furman presented the intriguing argument that what if he was employed solely as a rainmaker, providing no legal services and was paid solely on the basis of the volume of clients he obtained? Would he be precluded from paragraph 8(1)(f) deductions by then providing legal services? That might well come down to a matter of degree. It would also require, obviously, an analysis of the other conditions embedded in paragraph 8(1)(f). But I can imagine a lawyer being hired solely to serve as a rainmaker, in effect to get clients signed up for the firm. That is not what is before me, however.
+[10] Mr. Furman was hired as a lawyer to provide legal services. As part of that job he, like so many others in the legal profession, had to help in building up the firm's clientele. But the wining and dining is not what I consider the negotiation of contracts. It is promotion. Mr. Furman was not hammering out details of the terms of engagement while, to use the common legal vernacular, schmoozing. These activities were not negotiation of contracts. That is not to deny they were not part of the job. There was an expectation, certainly. The expectation that lawyers of a firm promote potential clients is not, however, sufficient to cast a new hue on paragraph 8(1)(f) that has been accepted for so many years as pertaining only to those employed in sales. Mr. Furman was not employed in the sale of property, nor in the negotiation of contracts. I conclude his employment is not the type of employment contemplated by paragraph 8(1)(f) and no deductions are available under that section.
+[11] Having reached that conclusion, it is unnecessary for me to address the other arguments Respondent's counsel raised concerning the application of paragraph 8(1)(f), other than to say they would be formidable hurdles for Mr. Furman to overcome. Turning to paragraph 8(1)(h), it reads as follows:
+8(1)(h)...travel expenses - where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay the travel expenses incurred by the taxpayer in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year ... for traveling in the course of the office or employment...
+To be clear, this provision would only apply, if at all, to those travel expenses claimed by Mr. Furman, not to the meals and entertainment expenses, nor the cell phone expenses.
+[12] Again, there are a number of conditions. The first is that he ordinarily be required to carry on duties away from the employer's place of business. The Minister has accepted that Mr. Furman met this requirement by allowing $200 of travel costs on Mr. Furman's trip to Vancouver en route to Hawaii. Those expenses were allowed, recognizing that Mr. Furman's duty of providing legal services required that he work away from the office. But the travel expenses Mr. Furman seeks to claim do not derive from his duties of providing legal services, but, according to Mr. Furman, from his duty to obtain clients.
+[13] The Respondent contends this section simply does not apply to travel costs in drumming up business. Her argument, in part, rests on the proposition that Mr. Furman's promotion efforts were not a requirement of his employment, but were voluntary. I do not see it that way. Mr. Furman did indeed receive a base salary, but to increase his income he had to generate work. It was clear the employer was not about to hand Mr. Furman a full plate of legal work. In fact, the employer was not going to hand Mr. Furman any work. Mr. Furman had to go and find it. The rather unsavory term of "eat what you kill" has developed in the legal industry to describe numerous variations on this arrangement. If Mr. Furman brought in no clients, not only would his income never exceed his base salary, it is unlikely he would have had that base salary for very long. I would not describe getting work under such circumstances as voluntary.
+[14] Relating this back to the requirements of paragraph 8(1)(h), I am satisfied Mr. Furman was ordinarily required to carry on duties of the provision of legal services away from the firm's place of business. I am also satisfied he was required to obtain clients. But where Mr. Furman's argument comes up short is that there was no requirement that he travel away from Edmonton to get those clients. He was not required to go to Hawaii, he was not required to go on his touch football trips. There was no requirement to establish an Alberta-wide or Canada-wide client base. The requirement was simply to keep your plate as full as possible.
+[15] The completion of form 2200 does not assist Mr. Furman, as a requirement to work away from the place of business is not specifically addressed to the promotional side of Mr. Furman's responsibilities. And without further evidence from Mr. Furman's employer, I am not prepared to imply that is how it was intended.
+[16] One final comment on the application of paragraph 8(1)(h). For the amounts to be deducted, they must ultimately be expended "in the course of the employment". There is always a fine line between a lawyer's activities being performed for promotional purposes and consequently within the course of employment and for pleasurable, civic minded, charitable or any number of other purposes. One might altruistically hope that lawyers enter volunteer, charitable, sports or other activities because they are sincerely interested in contributing to the betterment of such organizations, be it as a volunteer, director, coach, teacher, whatever. To suggest such activities are "in the course of the individual's employment as a lawyer" is frankly not how I would like the public to perceive a lawyer's involvement.
+[17] I do not accept Mr. Furman's touch football trips as representing traveling in the course of employment. Similarly, I struggle with finding that a lavish jaunt to Hawaii as primarily being considered travel in the course of employment. I have no doubt Mr. Furman reaped some business benefit from such travel. There was some promotion going on. But not only was such extravagant promotion not a requirement by an employer, it was not in my view expended in the course of employment.
+[18] For these reasons, I dismiss the appeal.
+Signed at Ottawa, Canada, this 6th day of May, 2003.
+"Campbell J. Miller"
+J.T.C.C.
+CITATION:
+2003TCC298
+COURT FILE NO.:
+2002-4442(IT)I
+STYLE OF CAUSE:
+Michael Furman and Her Majesty the Queen
+PLACE OF HEARING
+Edmonton, Alberta
+DATE OF HEARING
+April 8, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge Campbell J. Miller
+DATE OF JUDGMENT
+April 14, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brooke Sittler
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibits A-1 and A-2.

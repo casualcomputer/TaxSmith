@@ -1,0 +1,365 @@
+---
+title: "Ontario Tire Stewardship v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521657/index.do"
+last_modified: "2026-05-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 TCC 77"
+citation2: ""
+neutral_citation: "2026 TCC 77"
+decision_date: "2026-05-07"
+language: "en"
+item_id: "521657"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5238
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-07-01T09:02:51.446000+00:00"
+cases_cited_count: 17
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "154a39accfe532d37fee3af1ab5e79485e29c9c7fa19e8cdac1bd7fffce18a3d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ontario Tire Stewardship v. The King
+
+- Citation: 2026 TCC 77
+- Decision date: 2026-05-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5238, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ontario Tire Stewardship v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-05-07
+Neutral citation
+2026 TCC 77
+File numbers
+2019-1330(GST)G
+Judges and Taxing Officers
+Henry A. Visser
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2019-1330(GST)G
+BETWEEN:
+ONTARIO TIRE STEWARDSHIP,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on September 23, 2024, at Toronto, Ontario
+Before: The Honourable Justice Henry A. Visser
+Appearances:
+Counsel for the Appellant:
+Evert Van Woudenberg
+M. Lee Stratton
+Conal Calvert
+Counsel for the Respondent:
+Sharon Lee
+Zhen Zhou Wu
+AMENDED JUDGMENT
+In accordance with the attached Reasons for Judgment, Ontario Tire Stewardship’s appeal made under Part IX of the Excise Tax Act is allowed and the reassessment dated January 16, 2019, under appeal herein is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Ontario Tire Stewardship is allowed additional input tax credits in the amount of $1,057,793.22 for its December 1-31, 2013, GST/HST reporting period.
+Costs are awarded to the Appellant. The parties shall have 30 days from the date of this judgment to reach an agreement on costs, failing which the Appellant shall have a further 30 days to file written submissions on costs and the Respondent shall have yet a further 30 days to file a written response. The Appellant shall then have a further 10 days to file reply submissions, if any. Any such submissions shall not exceed 15 pages in length, except with leave of the Court. If the parties do not advise the Court that they have reached an agreement and no submissions are received, costs shall be awarded to the Appellant as set out in the Tariff.
+This Amended Judgment is issued in substitution of the Judgment dated May 7, 2026.
+Signed this 8th day of May 2026.
+“Henry A. Visser”
+Visser J.
+Citation: 2026 TCC 77
+Date: 26/05/08
+Docket: 2019-1330(GST)G
+BETWEEN:
+ONTARIO TIRE STEWARDSHIP,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Visser J.
+OVERVIEW
+[1] Ontario Tire Stewardship (“OTS”) was incorporated pursuant to the Corporations Act (Ontario) on September 10, 2003. OTS is one of three corporations that were formed to operate as an “industry funding organization” (“IFO”) under the Waste Diversion Act, 2002 (Ontario) (“WDA”). The other two IFOs were Stewardship Ontario (“SO”) and Ontario Electronic Stewardship (“OES”).
+[2] OTS was designated as the industry funding organization for the waste diversion program for used tires (the “Used Tires Program” or the “Program”) approved by the Minister of the Environment under section 26 of the WDA on April 9, 2009. Upon its designation as the IFO for used tires, OTS entered into a program agreement with Waste Diversion Ontario, the supervisory agency created pursuant to the WDA, as required by WDA, s. 25(3). OTS operated the Used Tires Program from September 2009 to December 31, 2018.
+[3] Pursuant to the Waste Diversion Transition Act, 2016 (Ontario) (“WDTA”) and the Corporations Act (Ontario), OTS is currently in the process of being wound up and Grant Thronton has been appointed as its Liquidator.
+[4] In the course of operating the Used Tires Program, OTS was registered under Part IX of the Excise Tax Act (the “ETA”).[1] OTS generated revenue by charging Stewards’ Fees (the “Stewards’ Fees”) to businesses which were, as determined by the WDA and the regulatory regimes thereunder, responsible for the diversion of used tires. In operating the Program, OTS also incurred and paid Goods and Services Tax (“GST”) and/or Harmonized Sales Tax (“HST”) on its operating expenses and other inputs.
+[5] From the beginning, it was unclear if OTS and the other two IFOs were carrying on a “commercial activity” for the purpose of the ETA. Thus it was unclear if their services were subject to HST and whether they were entitled to claim HST input tax credits (“ITCs”). As a result, the three IFOs sought and obtained a Ruling from the Canada Revenue Agency (the “CRA”). In the Ruling, which was dated October 28, 2013, the Minister of National Revenue (the “Minister”) took the position that the three IFOs could not claim ITCs.
+[6] Because of the uncertainty regarding its HST status, OTS did not claim ITCs for its monthly HST reporting periods from September 2009 to November 2013. However, to preserve its right to claim ITCs, OTS claimed what it believed to be all of those ITCs in its December 1-31, 2013, HST reporting period (the “December 2013 Reporting Period”). The total ITCs claimed in OTS’s HST return for the December 2013 Reporting Period (the “December 2013 Return”) as originally filed was $16,541,253.12 (the “Original ITC Claim”). OTS filed the December 2013 Return on January 30, 2014.[2]
+[7] Pursuant to a Notice of Assessment dated July 17, 2014, the Minister assessed OTS’s December 2013 Reporting Period to deny the Original ITC Claim on the basis that OTS was not carrying on a commercial activity for the purposes of the ETA. In response, OTS filed a Notice of Objection on December 9, 2014. The other two IFOs similarly claimed ITCs which were denied and filed resulting objections with the Minister and appeals with the Tax Court of Canada.
+[8] OTS and the Minister agreed to hold OTS’s objection in abeyance pending the outcome of the appeals filed by SO and OES (the “Abeyance Agreement”). In a decision dated March 21, 2018, and reported as Stewardship Ontario v. Her Majesty the Queen, 2018 TCC 59, Justice D’Arcy (as he then was) allowed SO’s claim for ITCs on the basis that the ITCs were incurred for the purpose of making taxable supplies under the ETA. The Minister did not appeal the Stewardship Ontario decision.
+[9] Following the decision in Stewardship Ontario, the Minister advised OTS on May 16, 2018, that OTS was eligible to claim the Original ITC Claim, subject to audit verification. In the course of preparing for the CRA’s verification audit of the Original ITC Claim, OTS became aware that it had omitted ITCs totalling $1,057,793.22 which arose in its July 1, 2012, to December 31, 2012, HST reporting periods (the “Unclaimed ITCs”). On August 2, 2018, OTS advised the Minister of the Unclaimed ITCs and requested that they be added to the Original ITC Claim in its December 2013 Reporting Period. OTS also made submissions on December 4, 2018, to the Minister regarding the Unclaimed ITCs and submitted an amended HST return for OTS’s December 2013 Reporting Period which included the Unclaimed ITCs.
+[10] By letters dated December 18, 2018, and January 16, 2019, the Minister advised OTS that its claim for the Unclaimed ITCs would be denied. By Notice of Reassessment dated January 16, 2019, the Minister reassessed OTS on the basis that OTS was entitled to claim ITCs in its December 2013 Reporting Period equal to the full amount of the Original ITC Claim, together with refund interest thereon, but that it was not entitled to claim the Unclaimed ITCs.
+[11] OTS has appealed that reassessment to this Court.
+ISSUES
+[12] As previously noted, after losing in Stewardship Ontario, the Minister accepted that OTS made taxable supplies in the course of a commercial activity and is generally entitled to claim ITCs, including the Original ITC Claim. As a result, the sole issue in this appeal is whether OTS was eligible to claim the Unclaimed ITCs in the amount of $1,057,793.22 in its December 2013 Reporting Period pursuant to the ETA. In this respect, I note that the Minister does not dispute that OTS would have been entitled to claim the Unclaimed ITCs had they been included in its December 2013 Return when originally filed. However, the Minister argues that the Unclaimed ITCs are now statute barred by the limitation periods set out in section 225 of the ETA. The Appellant argues that they are not and relies on subsection 296(2) of the ETA in particular. Accordingly, the issue in this Appeal is whether subsection 296(2) of the ETA applies to relieve the application of various limitation periods which may otherwise restrict OTS’s ability to claim the Unclaimed ITCs.
+[13] For the reasons that follow, it is my view that subsection 296(2) of the ETA does apply in all of the circumstances of this Appeal and that OTS was eligible to claim the Unclaimed ITCs in the amount of $1,057,793.22 in its December 2013 Reporting Period pursuant to the ETA.
+BACKGROUND FACTS
+[14] The facts in this case are not in dispute. The parties submitted a Statement of Agreed Facts which is set out at Appendix “A”.[3] The parties also submitted an extensive Joint Book of Documents.[4] The parties did not call any witnesses.
+LAW AND ANALYSIS
+[15] Part IX of the ETA sets out the GST/HST regime in Canada. In its simplest form, it is a relatively straightforward form of value added tax (“VAT”). Suppliers making taxable supplies charge GST/HST, as applicable, on their taxable supplies and recover ITCs on their inputs. This is repeated throughout a supply chain until the supply is purchased by a final consumer who ultimately bears the GST/HST. The GST/HST in Canada, however, contains many exceptions to this simple model. One such exception is the imposition of various time limits within which suppliers must claim ITCs. This case highlights the tension between one of the basic overarching principles behind the GST/HST (the avoidance of cascading of GST/HST) and the time limits imposed under the ETA.
+[16] Pursuant to section 238 of the ETA, every registrant that files HST returns on a monthly basis is required to file a return with the Minister for each reporting period within one month after the end of the reporting period. As a monthly HST filer, OTS was thus required to file a return for each of its September 2009 to December 31, 2013 HST monthly reporting periods. In doing so, it was required to report its “net tax” for each such reporting period computed in accordance with section 225 of the ETA.
+[17] Subsection 225(1) of the ETA provides as follows:
+225. (1) Net tax — Subject to this Subdivision, the net tax for a particular reporting period of a person is the positive or negative amount determined by the formula
+A – B
+where
+A is the total of
+(a) all amounts that became collectible and all other amounts collected by the person in the particular reporting period as or on account of tax under Division II, and
+(b) all amounts that are required under this Part to be added in determining the net tax of the person for the particular reporting period; and
+B is the total of
+(a) all amounts each of which is an input tax credit for the particular reporting period or a preceding reporting period of the person claimed by the person in the return under this Division filed by the person for the particular reporting period, and
+(b) all amounts each of which is an amount that may be deducted by the person under this Part in determining the net tax of the person for the particular reporting period and that is claimed by the person in the return under this Division filed by the person for the particular reporting period. [emphasis added]
+[18] While subsection 225(1) allows registrants to claim ITCs from prior reporting periods, paragraph 225(4)(b) generally imposes a 4-year limitation period on claiming ITCs for most registrants.[5]
+[19] As previously noted, OTS did not become aware until 2018 that it had accidentally overlooked reporting the Unclaimed ITCs (which related to its July 1 – December 31, 2012 HST reporting periods) when it filed its December 2013 Return. By that time, the Unclaimed ITCs were potentially subject to the limitation period set out in subsection 225(4), and therefore OTS would generally not be able to claim them unless subsection 296(2) applies.
+[20] Subsection 296(2) of the ETA is a relieving provision which overrides the limitation periods otherwise set out in the ETA, including those in subsection 225(4), in specified circumstances. It provides as follows:
+296(2) Allowance of unclaimed credit [auditing to net tax] — Where, in assessing the net tax of a person for a particular reporting period of the person, the Minister determines that
+(a) an amount (in this subsection referred to as the “allowable credit”) would have been allowed as an input tax credit for the particular reporting period or as a deduction in determining the net tax for the particular reporting period if it had been claimed in a return under Division V for the particular reporting period filed on the day that is the day on or before which the return for the particular reporting period was required to be filed and the requirements, if any, of subsection 169(4) or 234(1) respecting documentation that apply in respect of the allowable credit had been met,
+(b) the allowable credit was not claimed by the person in a return filed before the day notice of the assessment is sent to the person or was so claimed but was disallowed by the Minister, and
+(c) the allowable credit would be allowed, as an input tax credit or deduction in determining the net tax for a reporting period of the person, if it were claimed in a return under Division V filed on the day notice of the assessment is sent to the person or would be disallowed if it were claimed in that return only because the period for claiming the allowable credit expired before that day,
+the Minister shall take the allowable credit into account in assessing the net tax for the particular reporting period as if the person had claimed the allowable credit in a return filed for the period. [emphasis added]
+[21] Subsection 296(2) requires the Minister to allow certain ITCs and other deductions in determining net tax in specified circumstances, notwithstanding that they may otherwise be subject to a limitation period. The issue in this Appeal is whether subsection 296(2) applies to OTS’s Unclaimed ITCs.
+[22] The Appellant argues that subsection 296(2) applies in the circumstances of this Appeal to require the Minister to allow the Unclaimed ITCs in the course of reassessing OTS’s net tax for its December 2013 Reporting Period. In summary, the Appellant argues that:
+a)The general rules of statutory interpretation favour OTS’s entitlement to claim the Unclaimed ITCs. In particular, as supported by caselaw, the purpose of subsection 296(2) is to prevent the cascading of HST and to allow the obligation to pay HST to flow through to the final consumer. As a result, the Unclaimed ITCs are not statute barred.
+b)In the alternative, the Abeyance Agreement between OTS and the Minister precludes the application of the limitation provisions that would otherwise apply.
+c)This Court has jurisdiction to grant the relief sought by the Appellant.
+[23] The Respondent argues that subsection 296(2) does not apply in the circumstances of this Appeal to require the Minister to allow the Unclaimed ITCs in the course of reassessing OTS’s net tax for its December 2013 Reporting Period. In summary, the Respondent argues that:
+a)The Unclaimed ITCs are statute barred under paragraph 225(4)(b).
+b)Subsection 296(2) does not create an entitlement to the statute barred ITCs because they are not an ITC for the particular reporting period at issue in this Appeal (i.e., the December 2013 Reporting Period). The Respondent argues that subsection 296(2) does not apply to ITCs that could have been carried forward to the December 2013 Reporting Period.
+c)The abeyance agreement does not create an entitlement to the Unclaimed ITCs. In essence, the abeyance agreement does not act to waive the limitation periods that would otherwise apply to the Unclaimed ITCs.
+d)This Court does not have jurisdiction to grant the relief sought by the Appellant.
+[24] This Appeal effectively raises the same issue that was addressed by the Court in Stewardship Ontario. At paragraph 121 of Stewardship Ontario, Justice D’Arcy noted the following:
+The difficulty that I have is that the Respondent is asking me to interpret the relevant provisions of the GST Act in a way that would defeat two of the primary objectives of the GST Act, which are to “prevent the cascading of GST, and to allow the obligation to pay GST to flow through to the ultimate consumer.”[6]
+[25] As in Stewardship Ontario, I note that the Minister’s position in this case is contrary to one of the main purposes of the GST/HST. The Minister’s position results in cascading (or trapped) GST/HST. One of the reasons for replacing the federal sales tax (“FST”) with the GST was to make Canadian businesses more competitive. Cascading GST/HST imposes GST/HST on supply chain intermediaries and damages the Canadian economy by making Canadian businesses less competitive and by increasing costs to Canadian consumers to whom cascading GST/HST is often passed on.[7] As noted in CIBC World Markets Inc. v. Canada, 2011 FCA 270, at paragraphs 14-15:
+14 To achieve the purpose of taxing the final consumers of goods and services, the Act allows tax credits for inputs received by parties to make an onward taxable supply. These credits are called input tax credits.
+15 The input tax credits, as explained above, ensure that the fundamental character of the GST as a consumption tax on final consumers is maintained. In the words of the Minister:
+A fundamental principle underlying the GST/HST is that no tax should be included in the cost of property and services acquired, imported or brought into a participating province by a registrant to make taxable supplies ... in the course of the commercial activities of the registrant. To ensure that a property or service consumed, used or supplied in the course of commercial activities effectively bears no GST/HST, registrants are generally eligible to claim an input tax credit (ITC) for the GST/HST paid or payable on such property or service. Consequently, the ITC enables each registrant to recover the tax incurred in that registrant's stage of the production and distribution process.
+(Canada Revenue Agency, “GST Memorandum 8.1 — General Eligibility Rules” (May 2005) at paragraph 1.) [emphasis added]
+Does Subsection 296(2) apply to ITCs Carried Forward
+[26] As previously noted, the central issue in this Appeal is whether subsection 296(2) applies to ITCs carried forward to a particular reporting period being (re)assessed by the Minister. In this respect, I note that the parties agree on the quantum of the Unclaimed ITCs and agree that they generally qualify as valid ITCs. It is also clear that OTS could have claimed the Unclaimed ITCs in the applicable July 1, 2012, to December 31, 2012, monthly HST reporting periods or in any of its subsequent reporting periods ending within 4 years in accordance with paragraph 225(4)(b). In this case, it is also clear that OTS intended to claim the Unclaimed ITCs in its December 2013 Reporting Period, and had it done so, they would have been allowed following Stewardship Ontario as the Unclaimed ITCs would not have been statute barred had they been reported on OTS’s December 2013 Return.
+[27] In the context of this Appeal, the question is therefore whether subsection 296(2) requires the Minister to allow the Unclaimed ITCs (from 2012) in reassessing OTS’s December 2013 Reporting Period. The Respondent argues that subsection 296(2) only applies to ITCs that arose in OTS’s December 2013 Reporting Period because paragraph 296(2)(a) does not include the phrase “or a preceding reporting period” which is in contrast included in subparagraph 225(1)B(a) of the “net tax” formula. As the Unclaimed ITCs arose in OTS’s July - December 2012 HST reporting periods (i.e., each a preceding reporting period), the Respondent argues that subsection 296(2) does not apply in the context of the Minister’s reassessment of OTS’s December 2013 Reporting Period (i.e., the particular reporting period). I disagree.
+[28] In this case, there is no dispute that OTS’s Unclaimed ITCs meet the requirements of paragraphs 296(2)(b) and (c). It is clear that they were not previously claimed and that they would have been allowed but for the application of a limitation period. The only issue is whether they meet the requirements of paragraph 296(2)(a), which provides as follows:
+(2) Allowance of unclaimed credit [auditing to net tax] — Where, in assessing the net tax of a person for a particular reporting period of the person, the Minister determines that
+(a) an amount (in this subsection referred to as the “allowable credit”) would have been allowed as an input tax credit for the particular reporting period or as a deduction in determining the net tax for the particular reporting period if it had been claimed in a return under Division V for the particular reporting period filed on the day that is the day on or before which the return for the particular reporting period was required to be filed and the requirements, if any, of subsection 169(4) or 234(1) respecting documentation that apply in respect of the allowable credit had been met, [emphasis added]
+[29] As noted above, paragraph B of the formula for “net tax” in subsection 225(1) provides as follows:
+B is the total of
+(a) all amounts each of which is an input tax credit for the particular reporting period or a preceding reporting period of the person claimed by the person in the return under this Division filed by the person for the particular reporting period, and
+(b) all amounts each of which is an amount that may be deducted by the person under this Part in determining the net tax of the person for the particular reporting period and that is claimed by the person in the return under this Division filed by the person for the particular reporting period. [emphasis added]
+[30] The Respondent, citing various legal maxims, argues that the failure of Parliament to include the phrase “or a preceding reporting period” in paragraph 296(2)(a) is fatal to the Appellant’s case. The Respondent argues that Parliament intended to restrict the application of 296(2) to ITCs that arose in the particular reporting period, and chose not to allow any ITCs that might have otherwise been carried forward from a preceding reporting period to the particular reporting period because it did not specifically include a reference to ITCs from a “preceding reporting period” in paragraph 296(2)(a).
+[31] I note that there is little case law relating directly to subsection 296(2), and that the cases that have considered subsection 296(2) have not, for the most part, gone into an in-depth analysis thereof. While the parties raised several decisions in their legal submissions that were somewhat relevant, I note that much of the jurisprudence they referenced expressly noted that subsection 296(2) was not raised or considered therein.[8]
+[32] For example, in Toronto-Dominion Bank, V. Miller J. considered an appellant’s ability to claim ITCs in a 1999 return that related to a 1996 reporting period, under the statutorily imposed 2 year limitation period applicable to specified persons, and specifically noted that subsection 296(2) was not considered because the 1998 reporting period was not before the court.[9] In upholding the Tax Court’s decision, the Federal Court of Appeal determined that the Tax Court properly noted that the 1998 reporting period was not before the Court, thus supporting the Tax Court’s conclusion that subsection 296(2) should not be considered in that case.[10]
+[33] Similarly, both parties raised the decision in Canadevim Ltée, which I note differs greatly from the matter before me.[11] There, subsection 225(4) of the ETA applied to deny ITCs for periods beyond the four-year limitation imposed under the statute. In that case, Lamarre J. (as she then was) noted the following:
+57 In this case, I have just found that the assessment must be vacated as regards the tax. In obiter dictum, I would say that subsection 296(2) allows unclaimed ITCs to be applied beyond the limitation period to reduce the net tax assessed.
+58 In my opinion, once the reassessed amount is cancelled, subsection 296(2) does not apply. In any event, in order to rely on that provision, the Appellant had to prove, under paragraph 296(2)(b) of the ETA, that the credit in question was never claimed. As stated above, the Appellant has not provided such proof.
+[34] While Toronto-Dominion Bank and Canadevim Ltée are distinguishable from this Appeal, they offer examples of the ambiguity left by the jurisprudence cited by the parties. Crucially, the question of how subsection 296(2) operates with regards to ITCs carried forward remains open.
+[35] Having considered the remaining jurisprudence raised by the parties, I note that many of the cited decisions are similarly not relevant or applicable for the purposes of this Appeal.[12] A limited exception to this is Webb J.’s (as he then was) decision in Pawlak.[13] In that respect, I note that it is not directly applicable, as paragraph 296(2)(a) was not at issue in that appeal, but paragraph 296(2)(b) was. However, Webb J.’s (as he then was) consideration of subsection 296(2) is nevertheless instructive. In allowing the appeal, Webb J. (as he then was) rejected a literal interpretation of the provisions within subsection 296(2), finding that a narrow reading of subsection 296(2)(b) would lead to an absurdity and illogical results, finding as follows:[14]
+10 The only evidence that was presented at the hearing of the appeal was the statement of one of the Appellants that the ITCs claimed arose as a result of GST that was paid for imported supplies that were used in carrying on their commercial activity and that there were customs documents that supported the amounts claimed. Since no assumptions were made in relation to the lack of the appropriate documentation to support the ITCs that were claimed and since the only evidence confirmed that there was documentation to support the amounts claimed, there is no basis to deny the Appellants' claim for ITCs based on any lack of documentation. The Appellants were carrying on a commercial activity and were acquiring supplies in the course of carrying on that activity and therefore they would have been allowed the ITCs if the GST returns would have been filed by their due dates. As a result the conditions as set out in paragraph 296(2)(a) of the ETA are satisfied.
+11 Paragraph 296(2)(b) of the ETA provides that:
+(b) the allowable credit was not claimed by the person in a return filed before the day notice of the assessment is sent to the person or was so claimed but was disallowed by the Minister, and
+12 The date that the notice of reassessment was sent to the Appellants was not disclosed in the Reply nor was there any evidence on this point. It seems logical however that the notice of reassessment would have been sent sometime after the date that the GST returns were filed by the Appellants. Therefore on the day that the notice of the reassessment was sent to the Appellants, they had claimed the ITCs in a return and, prior to the reassessment being issued, the ITCs claimed had not been disallowed. A literal interpretation of this paragraph would mean that the Appellants would not satisfy the conditions of this paragraph. However, is this the correct interpretation of this paragraph?
+13 The Supreme Court of Canada in Canada Trustco Mortgage Co. v. R., 2005 SCC 54, 2005 D.T.C. 5523 (Eng.), [2005] 5 C.T.C. 215, 340 N.R. 1, 259 D.L.R. (4th) 193, [2005] 2 S.C.R. 601 (S.C.C.), stated that:
+[10] It has been long established as a matter of statutory interpretation that “the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament”: see 65302 British Columbia Ltd. v. R., [1999] 3 S.C.R. 804 (S.C.C.), at para. 50. The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words play a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provisions of an Act as a harmonious whole.
+14 In Rizzo & Rizzo Shoes Ltd., Re, [1998] 1 S.C.R. 27 (S.C.C.), Justice Iacobucci, writing on behalf of the Supreme Court of Canada, stated that:
+[27] In my opinion, the consequences or effects which result from the Court of Appeal's interpretation of ss. 40 and 40a of the ESA are incompatible with both the object of the Act and with the object of the termination and severance pay provisions themselves. It is a well established principle of statutory interpretation that the legislature does not intend to produce absurd consequences. According to Côté, supra, an interpretation can be considered absurd if it leads to ridiculous or frivolous consequences, if it is extremely unreasonable or inequitable, if it is illogical or incoherent, or if it is incompatible with other provisions or with the object of the legislative enactment (at pp. 378-80). Sullivan echoes these comments noting that a label of absurdity can be attached to interpretations which defeat the purpose of a statute or render some aspect of it pointless or futile (Sullivan, Construction of Statutes, supra, at p. 88).
+15 It seems to me that a literal interpretation of paragraph 296(2)(b) of the ETA will lead to illogical results. Assume, for example, that instead of claiming the ITCs in the GST returns that were filed in 2009, the Appellants would have filed GST returns in which only the GST collectible would have been reported and in a separate letter had identified the amounts expended as GST in relation to supplies that they had purchased. In this example the Appellants would have satisfied the conditions in paragraph (b) because the ITCs would not have been claimed in a return. A literal interpretation would lead to the illogical result that claiming the ITCs in a late filed return would result in the Appellants not being able to receive the benefit of having such ITCs taken into account in determining their net tax but failing to include such ITCs in such a late filed return would mean that the Appellants could receive the benefit of having such ITCs being taken into account in determining their net tax, assuming that the Minister is able to determine such ITCs. As well if an auditor for the Canada Revenue Agency would have found the ITCs in auditing the Appellants the condition would be satisfied but voluntarily disclosing the ITCs in a late filed return would disqualify the person from the benefit of being audited to net tax. It does not seem to me that this is the intended result and it seems to me that a literal interpretation leads to illogical results.
+16 In this case the Respondent did not argue that the Appellants did not satisfy the requirements of paragraph 296(2)(b) of the ETA. In reassessing the Appellants they were allowed ITCs of $1,389.54 for 2003 and $3,246.31 for 2004. Since all of the ITCs were claimed in the same returns, it appears that the Respondent was acknowledging that, at least for these ITCs, the provisions of subsection 296(2) of the ETA were applicable and that the Appellants had satisfied the conditions of paragraph 296(2)(b) of the ETA. Otherwise what was the basis for allowing the Appellants' ITCs of $1,389.54 for 2003 and $3,246.31 for 2004?
+17 If a literal interpretation of paragraph 296(2)(b) of the ETA is applied and an order were to be issued by this Court, as provided in subparagraph 309(1)(b)(ii) of the Act, requiring the Minister to reassess the net tax of the Appellants as provided in subsection 296(2) of the ETA, then, when the Appellants are reassessed in compliance with such an Order, the conditions of subparagraph 296(2)(b) of the ETA would be satisfied as on the date of such reassessment the ITCs claimed would have been previously disallowed. It does not seem to me that it would have been intended that persons affected by an assessment of net tax would be denied the benefit of subsection 296(2) of the ETA only to have the benefit of this provision reinstated as a result of an Order of this Court requiring the Minister to again reassess that person.
+18 It does not seem to me that paragraph (b) should be interpreted to mean that a person would be denied the benefit of the provisions of subsection 296(2) of the ETA if the person reports ITCs in a late filed return but will receive the benefit of this subsection if the ITCs are not reported (and the CRA determines the ITCs as a result of an audit or as a result of a disclosure made outside a return). It would also seem to me that it would not be intended that the conditions as set out in subsection 296(2) of the ETA would not be satisfied because the ITCs were claimed in the return in relation to which the assessment (or reassessment) is issued (which assessment or reassessment disallows such ITCs) but such conditions would be satisfied if the Minister were to subsequently be ordered to reassess the person as a result of an appeal to this Court following such initial assessment (or reassessment).
+19 It seems to me that the purpose of the condition in paragraph 296(2)(b) of the ETA is to ensure that a person has not already been allowed the benefit of such ITCs in determining that person's net tax for any reporting period. Therefore, the condition in paragraph 296(2)(b) of the ETA will be satisfied as long as the ITCs had not been previously allowed as ITCs in computing the net tax of the person for any reporting period. In this case, the Appellants satisfy this condition.
+20 The last condition as set out in paragraph 296(2)(c) of the ETA is that the ITCs would be allowed or only disallowed because of the timing of the claim. Since the only reason stated for denying the ITCs is the timing of the filing of the GST returns, the Appellants satisfy this condition. [emphasis added]
+[36] Overall, these decisions provide some guidance on the scope and application of subsection 296(2). For example, these decisions demonstrate that subsection 296(2) of the ETA is mandatory where its conditions are sufficiently met.[15] Further, they reiterate that the distinct parts of section 296 must not be conflated analytically. However, they do not address the specific issue raised in this Appeal with respect to the interpretation of paragraph 296(2)(a), namely whether ITCs from a preceding reporting period are included in paragraph 296(2)(a) because subsection 225(1) defines net tax for a particular reporting period to include ITCs carried forward from a preceding reporting period. This Appeal must therefore address this question following the principles of statutory interpretation described in Canada Trustco,[16] taking into consideration the text, context, and purpose of subsection 296(2).
+[37] In my view, a textual, contextual, and purposive analysis of subsection 296(2) and the definition of net tax in subsection 225(1) supports the conclusion that subsection 296(2) requires the Minister to take into account ITCs from preceding reporting periods, not solely those arising in the particular reporting period, provided they would otherwise have been available for carry forward had they been claimed in the particular reporting period. When read harmoniously, the provisions form part of a single computational scheme under the ETA. It would be inconsistent with the principles of statutory interpretation to treat subsection 296(2) as narrowing the concept of “net tax” established in subsection 225(1).
+Textual Analysis: Subsection 296(2) and the Definition of Net Tax in Subsection 225(1)
+[38] I note that the definition of “net tax” in subsection 225(1) explicitly provides that “net tax” for a particular reporting period includes ITCs from preceding reporting periods (subject generally to the limitation periods set out in subsection 225(4)). This is a deliberate legislative choice, ensuring that the determination of net tax includes ITCs from both current and prior periods. The language within this subsection is therefore expansive, not restrictive. Parliament selected wording that expressly contemplates ITC carry-forward. This decision must be given meaning and therefore informs the interpretation of other provisions, including subsection 296(2). This is relevant because ITCs may arise in one reporting period but may only be eligible to be claimed in a later period, for example, when a taxpayer has met other requirements under the ETA, including the documentary requirements rules set out in subsection 169(4) and related regulations.
+[39] The Respondent invokes the presumption against tautology, arguing that if Parliament intended subsection 296(2) to include ITCs from a preceding reporting period, it would have utilized the same language as it did in subsection 225(1), and therefore would have included a reference to ITCs from preceding reporting periods in paragraph 296(2)(a). However, this presumption is not determinative in this context. Where one provision operates by reference to an already defined term or formula in an earlier section, it is neither necessary nor reasonably expected for Parliament to repeat every detail. Parliament is presumed to avoid superfluous repetition. Here, the reference to “net tax” in subsection 296(2) imports the full definition of “net tax” from subsection 225(1) as a result.
+[40] To find otherwise would require that I read the phrase “net tax” as bearing one meaning in subsection 225(1) and a narrower, more discrete meaning in subsection 296(2). Absent clear language, I cannot depart from the presumption that identical terms within a statutory scheme carry a consistent meaning. There is no textual basis to infer that subsection 296(2) truncates the definition of “net tax”. I note that section 15 of the Interpretation Act[17] supports this position.
+[41] Overall, it is my view that the text of paragraph 296(2)(a) is not clear as to whether ITCs from preceding reporting periods are included therein. While they would normally be included in the determination of “net tax” for a particular reporting period pursuant to subsection 225(1), the wording of paragraph 296(2)(a) raises some questions. Overall, however, because “net tax” for a particular reporting period determined in accordance with subsection 225(1) includes ITCs from preceding reporting periods, it is my view that the text of paragraph 296(2)(a) favours an interpretation that includes ITCs from a preceding reporting period.
+Contextual Analysis: The Role and Structure of Subsection 296(2)
+[42] The contextual analysis of the provisions related to subsection 296(2) strongly supports the Appellant’s interpretation. As part of a contextual analysis, it is trite that courts must consider the entire scheme of the relevant act and related provisions. The definition of “net tax” within subsection 225(1) thus forms part of the relevant context for interpreting subsection 296(2).
+[43] Subsection 296(2) operates in the context of an assessment or reassessment by the Minister. It provides that, in assessing net tax for a particular reporting period, the Minister must take into account an “allowable credit”. The language refers to a “particular reporting period”, but as the Respondent points out, does not repeat the phrase “preceding reporting period”, as found within the definition of net tax under subsection 225(1).
+[44] This omission or silence does not carry determinative weight when read in conjunction with the definition of net tax in subsection 225(1) that already incorporates ITCs from preceding reporting periods. Parliament did not need to specifically reference ITCs from preceding reporting periods in subsection 296(2) because the reference to net tax inherently imports the full definition from subsection 225(1). Since the “particular reporting period” referenced in subsection 296(2) identifies the reporting period under assessment, it should not be read to redefine the ITCs that may otherwise be included in the determination of net tax as it serves an administrative and not restrictive function.
+[45] Paragraph 296(2)(c) reinforces this interpretation. Notably, this paragraph refers to the allowable credit being allowed for “a reporting period of the person” and therefore does not reference either a “particular reporting period” or a “preceding reporting period”. It effectively includes both. This choice of language is deliberate and supports the view that the allowable credit may be related to ITCs arising in other reporting periods.
+[46] As the Supreme Court emphasized in Placer Dome Canada Ltd., it is crucial to take under consideration each relating provision within a tax statute in interpreting a specific provision so as to avoid adopting an interpretation that renders any portion of the statute redundant.[18] In my view, only the Appellant’s interpretation of these provisions avoids such redundancy.
+Purposive Analysis: The Function of Subsection 296(2) and Legislative Intent
+[47] In my view, a purposive analysis of subsection 296(2) also strongly supports the Appellant’s position. Overall, subsection 296(2) is intended to ensure fairness and accuracy in the assessment process. It is designed to prevent the Minster from ignoring ITCs that a registrant was entitled to claim, despite failing to, provided that the statutory requirements are otherwise met. It is thus a remedial provision, ensuring that the assessment reflects a taxpayer’s true net tax liability and not what was merely claimed or omitted in the initial return. Its function thereby promotes substantive correctness and importantly reduces the risk of cascading of GST/HST.
+[48] The fact that subsection 296(2) does not repeat every detail of subsection 225(1) is a deliberate drafting choice, reflecting the variation in operative purposes as between the two. Whereas subsection 225(1) defines net tax for all purposes, including assessment, subsection 296(2) is a procedural rule for the Minister’s action, not a redefinition of the parameters of the net tax concept. To read the absence of the express use of the words “preceding reporting period” as a deliberate substantive restriction would be to ignore the structure of the ETA as well as the legislative intent behind it.
+TCP Conclusion
+[49] The Respondent points to the Supreme Court’s decision in Markevich[19] for the proposition that limitation periods promote certainty and predictability. While this is true, it is my view that the Appellant’s interpretation of subsection 296(2) better provides for both certainty and predictability. I also note that the Appellant’s interpretation does not open a Pandora’s Box, in that it does not allow for an indefinite and unlimited carry forward of ITCs as the Respondent implies. Rather, the Appellant’s interpretation gives certainty as to the parameters of the allowable carry forward of ITCs, constrained by the provisions of subsection 296(2) of the ETA and the limitation periods otherwise set out in the ETA, including those set out in section 225.
+[50] Further, the Appellant’s approach not only promotes this desired certainty and predictability, but it also supports one of the primary principles underlying the ETA, insofar as it facilitates the prevention of cascading GST/HST. To conclude otherwise would not only fragment the statutory scheme and assign divergent meanings to the same terms therein, but it would also frustrate the corrective function assigned by Parliament to subsection 296(2). For example, in light of the fact that the ETA is specifically designed to allow registrants to carry ITCs forward to future reporting periods for a variety of legitimate reasons, to restrict subsection 296(2), as requested by the Respondent, would increase cascading of GST/HST and undermine the legislative scheme which promotes registrants’ ability to carry forward and claim ITCs.
+[51] In CIBC World Markets[20], Stratas J.A. noted the following on the issue of finality and fiscal certainty:
+36 To the Minister, finality is important. Interpreting the Act to allow only one claim for input tax credits does further the objective of finality or, as the Tax Court called it, “fiscal certainty.”
+37 But “fiscal certainty” is not an objective that suffuses the entire Act. Indeed, various provisions of the Act work against finality or “fiscal certainty.” For example, in the two years after tax has been paid, one may seek a rebate due to mistake or other cause: see Act, section 261.
+38 In support of its conclusion that only one claim for input tax credits is allowed, the Tax Court invoked the objective of finality, noting that “the tax authority will act on [the] information” in the GST registrant's filing. However, the record discloses no evidence that the tax authority will act on the information in the filing in a prejudicial way.
+39 The need for finality and fiscal certainty are achieved through the various deadlines and limitation periods that are set out in the Act. Making more than one claim for input tax credits, provided the deadlines and limitation periods are observed, does not implicate any meaningful policy objectives resident in the Act.
+40 Absent clear wording to the contrary — and there is none here — the Act's objective of allowing GST registrants to obtain relief for recoverable GST through input tax credits should prevail in this case.
+[52] I agree with the foregoing. In this case, there is no clear language that overrides the ETA’s objective of allowing GST/HST registrants to obtain relief pursuant to subsection 296(2) for recoverable ITCs carried forward within the limitation periods that would otherwise have applied but for the failure to claim the ITCs on a timely basis.
+[53] By way of example, I note that OTS could have claimed all of the Original ITC Claim and the Unclaimed ITCs in each of its relevant HST reporting periods between 2009 and 2013. It could then have objected to and appealed from each of the related assessments, resulting in approximately 50 appeals to this Court. Instead, it chose to carry forward the ITCs to its December 2013 Reporting Period, as permitted under the ETA, which resulted in only one appeal to this Court. As a result, I note that OTS is not trying to recover ITCs which it would not otherwise have been able to recover. It is clear that OTS could have recovered the Unclaimed ITCs under section 225 without reference to subsection 296(2) but for its oversight in including them on the December 2013 Return (or in the returns for the relevant preceding reporting periods).
+[54] I also note that this interpretation is consistent with the decision of this Court and the Federal Court of Appeal in Toronto-Dominion Bank as discussed above. In that case, subsection 296(2) was not applied because the ITCs claimed could not otherwise have been carried forward to 1999 because they arose in 1996 and the appellant was otherwise subject to the two-year limited period in subsection 225(4). In other words, they could only have been carried forward to 1998, and that reporting period was not under appeal before the Court.
+Alternative Argument - The Abeyance Agreement
+[55] As an alternative argument, OTS argued that the Abeyance Agreement suspended the application of the relevant statutory limitation period. OTS suggests that when the Abeyance Agreement is read in light of subsection 296(2) and paragraph 298(3)(a) of the ETA, the Minister cannot rely on a limitation period to deny the Unclaimed ITCs.
+[56] The Respondent argues that the Abeyance Agreement does not create an implicit entitlement to ITCs which were not claimed within the statutory limitation period in the first place. Rather, the Abeyance Agreement was simply an agreement between the parties to hold the CRA’s administrative appeals review process in abeyance – nothing more.
+[57] I agree with the Respondent. The ETA does not allow the Minister or a taxpayer, by agreement, to extend the statutory limitation periods therein. The sole mechanism for extending an assessment period by agreement is found in subsection 298(7), through the filing of a waiver. It is important to note, however, that a waiver made under subsection 298(7) extends the time within which the Minister may assess a reporting period of a taxpayer, but does not override the ITC limitation periods set out in the ETA, including those in subsection 225(4). In this case, I also note that the Abeyance Agreement is not a waiver and cannot be said to have any effect on the ITC limitation periods applicable to the Unclaimed ITCs.
+[58] The Appellant has misconstrued the effect of the Abeyance Agreement and its operative consequences in relation to the statutorily imposed ITC limitation periods within the ETA. While the Abeyance Agreement did freeze the administrative appeal review process, this does not extend to an implied freeze, tolling or waiver of the application of the ETA’s limitation periods, as the Appellant suggests. This Court has repeatedly held that the limitation period for claiming ITC’s is substantive and cannot be modified by equitable relief or administrative discretion.[21]
+[59] The Minister abided by the Abeyance Agreement insofar as the Minister held OTS’s objection in abeyance pending the Court’s decision in Stewardship Ontario before reviewing the Appellant’s Original ITC Claim and then issuing the relevant reassessment. Overall, the Abeyance Agreement had no effect on extending the statutory limitation period applicable to the Unclaimed ITCs.
+Alternative Argument - The Jurisdiction Issue - Collections
+[60] At paragraph 22 of the Reply, the Respondent argued that subsection 296(4) of the ETA does not permit a refund for unclaimed ITCs from an earlier reporting period. At trial, this issue was briefly referenced in paragraph 2 of the Respondent’s Amended Memorandum of Fact and Law and was otherwise only referenced nominally by the parties. In this respect, I note that matters dealing with collections and reimbursement of tax under the ETA are generally within the jurisdiction of the Federal Court and are outside the scope of this Court as they are not related to the determination of the correctness of an assessment before this Court.
+[61] Similar to the present appeal, Webb J. (as he then was) in Pawlak noted that while this Court does not have jurisdiction to order the payment of a refund as it is beyond the remedies available on appeals to this Court, that did not preclude him from referring the matter back to the Minister. In this respect, he noted that:
+26 The only remedies that may be granted by this Court if an appeal is allowed are directly related to the assessment. There is no power to order the Minister to pay a refund. Therefore since subsection 296(4) of the ETA does not affect the assessment and only deals with the payment of a refund (in this case), it is beyond the jurisdiction of this Court to determine whether the provisions of this subsection will prevent the Appellants from receiving a refund. Unfortunately for the Appellants, if this matter is to be litigated, it would have to be resolved, in the first instance, by the Federal Court.[22]
+CONCLUSION
+[62] Based on all of the foregoing, Ontario Tire Stewardship’s appeal made under Part IX of the Excise Tax Act is allowed and the reassessment dated January 16, 2019, under appeal herein is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Ontario Tire Stewardship is allowed additional input tax credits in the amount of $1,057,793.22 for its December 1-31, 2013, HST reporting period.
+COSTS
+[63] Costs are awarded to the Appellant. The parties shall have 30 days from the date of this judgment to reach an agreement on costs, failing which the Appellant shall have a further 30 days to file written submissions on costs and the Respondent shall have yet a further 30 days to file a written response. The Appellant shall then have a further 10 days to file reply submissions, if any. Any such submissions shall not exceed 15 pages in length, except with leave of the Court. If the parties do not advise the Court that they have reached an agreement and no submissions are received, costs shall be awarded to the Appellant as set out in the Tariff.
+This Amended Reasons for Judgment is issued in substitution of the Reasons for Judgment dated May 7, 2026.
+Signed this 8th day of May 2026.
+“Henry A. Visser”
+Visser J.
+APPENDIX “A”
+2019-1330(GST)G
+TAX COURT OF CANADA
+B E T W E E N:
+ONTARIO TIRE STEWARDSHIP
+Appellant
+– and –
+HIS MAJESTY THE KING
+Respondent
+STATEMENT OF AGREED FACTS
+September 13, 2024
+ATTORNEY GENERAL OF CANADA GARDINER ROBERTS LLP
+Department of Justice Canada Bay Adelaide Centre, East Tower
+Ontario Regional Office 22 Adelaide Street West, Suite 3600
+National Litigation Sector Toronto ON M5H 4E3
+120 Adelaide Street West Suite #400
+Toronto, ON M5H 1T1
+Sharon Lee Evert Van Woudenberg (LSO# 21894N)
+Tel: (647) 281-1270 Tel: (416) 865-6608
+Email: sharon.lee@justice.gc.ca Email: evanwoudenberg@grllp.com
+Zhen Zhou (Patrick) Wu M. Lee Stratton (LSO# 25558D)
+Tel : (416)522-1459 Tel: (416) 865-6626
+E-mail: zhenzhou.wu@justice.gc.ca Email: lstratton@grllp.com
+Tel: (416) 865-6600
+Fax: (416) 973-0810 Fax: (416) 865-6636
+Counsel for the Respondent Counsel for the Appellant
+Ontario Tire Stewardship
+TO: HIS MAJESTY IN RIGHT OF CANADA
+Attention of the Deputy Attorney General of Canada
+STATEMENT OF AGREED FACTS
+The parties admit, for the purposes of this hearing, the truth of the following facts and the authenticity of all documents in the Joint Book of Documents filed by the parties. The parties admit the truth of the contents of the Joint Book of Documents except to the extent, if any, that they are inconsistent with this Statement of Agreed Facts.
+Appellant’s Prior and Current Corporate Status
+The Appellant, Ontario Tire Stewardship / Société de Gestion des Pneus Usages de l’Ontario (“OTS” or the “Appellant”), is a company which was incorporated pursuant to the Corporations Act (Ontario) on September 10, 2003.[23] When the Notice of Appeal was filed, OTS’s offices were located at 300 The East Mall, Suite 100, Toronto, Ontario M9B 6B7.[24]Since the Notice of Appeal was filed, the Ontario Superior Court of Justice has ordered that OTS be wound up pursuant to the provisions of the Waste Diversion Transition Act, 2016 (Ontario) (“WDTA”) and the Corporations Act and has appointed Grant Thornton Limited as Liquidator of OTS (the “Liquidator”).[25]
+Appellant’s Role in Statutory Scheme for Waste Diversion
+The Appellant was incorporated with the objects of becoming an “industry funding organization” (“IFO”), as that term was defined in the Waste Diversion Act, 2002 (Ontario) (“WDA”) and is carried forward in the WDTA, and acting as the IFO which would operate a waste diversion program for “used tires”, as that term was defined in O. Reg. 84/03.[26] OTS was “designated as the industry funding organization for the waste diversion program for used tires approved by the Minister of the Environment under section 26” of the WDA on April 9, 2009: O. Reg. 157/09.[27]
+The Appellant prepared the waste diversion program for used tires in Ontario (the “Used Tires Program” or the “Program”). Upon its designation as the IFO for used tires, OTS entered into a program agreement with Waste Diversion Ontario, the supervisory agency created pursuant to the WDA, as required by WDA, s. 25(3). OTS operated the Used Tires Program from September 2009 to December 31, 2018.[28]
+GST/HST Status of Appellant’s Activities
+In the course of operating the Used Tires Program, OTS was a registrant under Part IX of the Excise Tax Act (“ETA”). OTS charged Stewards’ Fees (the “Stewards’ Fees”) to businesses which were, as determined under the WDA and the WDTA and the regulatory regimes thereunder, responsible for the diversion of used tires. The Stewards’ Fees funded OTS’s purchases and the costs required to operate the Program. In operating the Program, OTS incurred and paid Goods and Services Tax / Harmonized Sales Tax (“HST”) as it purchased goods and services from its suppliers.
+Initially, the Appellant and two other Ontario IFOs, including Stewardship Ontario, were unclear as to whether their services were subject to HST and whether they were entitled to claim Input Tax Credits (“ITCs”) pursuant to Part IX of the ETA.
+Canada Revenue Agency (“CRA”) issued its Ruling to the three IFOs on October 28, 2013 in which it ruled that Stewards’ Fees paid to the Appellant and the other Ruling applicants were “not consideration for a supply” and that they could not claim ITCs.[29]
+Stewardship Ontario challenged the Ruling by appealing its own Net Tax assessments to the Tax Court of Canada (the “Tax Court”) in 2014.
+Appellant’s ITC Claim Assessment and Objection
+During the period between Sept 2009 and the issuance of the Ruling in October 2013, the Appellant did not claim ITCs in its monthly HST returns. However, in order to preserve its claim to have those amounts which it had paid as HST in the operation of the Used Tires Program treated as ITCs under the ETA, it included in its December 2013 HST return a claim in respect of what it believed at the time to be all of its ITCs for the reporting periods September 2009 to December 2013, for a total ITC claim of $16,541,253.12 (the Original ITC Claim”).
+The Minister assessed the Appellant by Notice of Assessment dated July 17, 2014 for the Appellant’s December 1, 2013 – December 31, 2013 reporting period to increase net tax by disallowing the Original ITC Claim.[30] The Minister denied the ITCs on the basis that the Appellant was “not providing any taxable supplies to stewards in respect of the stewardship fees and therefore… [is] not involved in a commercial activity” and was, therefore, not “entitled to ITCs in respect of any GST/HST incurred in carrying out their obligations under the WDA and their stewardship program plans.”[31]
+The Appellant’s Notice of Objection was dated November 21, 2014 and filed on December 9, 2014 in respect of ITCs in the amount of the Original ITC Claim.[32]OTS and the CRA agreed that the notice of objection would be held in abeyance pending the outcome of Stewardship Ontario’s Tax Court case.[33]
+Tax Court Decision in Stewardship Ontario and CRA Response
+In March 2018, the Tax Court ruled that Stewardship Ontario was engaged in commercial activity under the ETA and that it was entitled to claim ITCs.[34]
+On May 16, 2018, following the Tax Court’s decision in Stewardship Ontario, CRA acknowledged that the Appellant was similarly entitled to claim ITCs and advised that a verification audit of the Appellant’s ITCs would be conducted.[35]
+Appellant’s Unclaimed ITCs Claim
+In the course of preparing for the verification audit OTS became aware of additional input tax credits incurred by it in the operation of the Used Tires Program in the amount of $1,057,793.22 (the “Unclaimed ITCs”[36]).
+The Unclaimed ITCs arose from HST paid or payable by the Appellant during its July 1, 2012 – December 31, 2012 reporting periods.
+The Appellant did not include the Unclaimed ITCs in its original HST return for the reporting period of December 1, 2013 – December 31, 2013.
+On August 2, 2018, OTS advised the CRA about the Unclaimed ITCs and requested that they be added to the ITCs claimed in the December 2013 Return. On August 2, 2018 OTS provided an Executive Summary to CRA in respect thereof and delivered supporting documentation required by the CRA to conduct its verification audit of the Unclaimed ITCs claim amount.[37]
+Appellant’s Further Return and Notice of Objection (Unclaimed ITCs)
+On December 4, 2018, the Appellant made submissions to the CRA regarding the Unclaimed ITCs and included a document styled “Amended Goods and Services Tax / Harmonized Sales Tax (GST/HST) Return” for the December 2013 reporting period. The amended return included the Unclaimed ITCs claim along with a document styled “Amended Notice of Objection” on the basis that the Appellant had not claimed or not included the Unclaimed ITCs in its original December 2013 HST return.
+The Appellant did not file any other HST return setting forth the Unclaimed ITCs claim.
+Final Decision and Notice of Reassessment
+By letters dated December 18, 2018 and January 16, 2019, the CRA advised that the Unclaimed ITCs claim would be denied.[38]
+By Notice of (Re)Assessment dated January 16, 2019[39], the Minister of National Revenue determined the Appellant was entitled to the full Original ITC Claim in the original HST return for the reporting period December 1, 2013 – December 31, 2013 as well as interest thereon pursuant to the provisions of the ETA. The Unclaimed ITCs claim was disallowed.
+Agreement Regarding Unclaimed ITCs
+21. The Appellant and the Respondent have agreed that the Unclaimed ITCs are input tax credits as described in this Statement of Agreed Facts and that they are in the amount of $1,057,793.22.
+___________________________________________________________________
+CITATION:
+2026 TCC 77
+COURT FILE NO.:
+2019-1330(GST)G
+STYLE OF CAUSE:
+ONTARIO TIRE STEWARDSHIP v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 23, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Henry A. Visser
+DATE OF AMENDED JUDGMENT and REASONS FOR JUDGMENT:
+May 8, 2026
+APPEARANCES:
+Counsel for the Appellant:
+Evert Van Woudenberg
+M. Lee Stratton
+Conal Calvert
+Counsel for the Respondent:
+Sharon Lee
+Zhen Zhou Wu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Evert Van Woudenberg
+M. Lee Stratton
+Conal Calvert
+Firm:
+Gardiner Roberts LLP
+Toronto, Ontario
+For the Respondent:
+Marie-Josée Hogue
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C., 1985, c. E-15, as amended. All statutory references herein are to the ETA, unless specified otherwise. References herein to GST or HST include any GST and/or HST exigible pursuant to the ETA.
+[2] See Exhibit J-2, tab 15, at Appendix “C”.
+[3] The Statement of Agreed Facts was entered into evidence as Exhibit J-1.
+[4] The Joint Book of Documents (4 volumes) was entered into evidence as Exhibit J-2.
+[5] “Specified persons” (as defined in subsection 225(4.1)) are generally subject to a two-year ITC limitation period pursuant to paragraph 225(4)(a). In addition, paragraph 225(4)(c) provides a limited exception to the 2- or 4-year limitation periods otherwise set out in subsection 225(4). Those provisions are not relevant for the purposes of this Appeal.
+[6] See also Calgary (City) v. Canada, [2012] 1 S.C.R. 689, 2012 SCC 20, at paragraph 16.
+[7] See generally Goods and Services Tax An Overview, The Honourable Michael Wilson, Minister of Finance, August 1989.
+[8] See for example Layte v. The Queen, 2010 TCC 281.
+[9] Toronto-Dominion Bank, 2009 TCC 264, at para 41, aff’d 2010 FCA 73.
+[10] Ibid, 2010 FCA 73, at para 7.
+[11] Canadevim Ltée v. The Queen, 2010 TCC 160, overturned on other grounds 2011 FCA 128, leave to SCC denied 432 N.R. 393.
+[12] See for example Welch v. The Queen, 2010 TCC 449, affirmed 2011 FCA 330.
+[13] Pawlak v. The Queen, 2012 TCC 355.
+[14] Ibid, at paras 10-20.
+[15] See for example Byrnes v. The Queen, 2008 TCC 57 and Mediclean Incorporated v. The Queen, 2022 TCC 37.
+[16] Canada Trustco Mortgage Co. v. R., 2005 SCC 54.
+[17] R.S.C., 1985, c. I-21.
+[18] Placer Dome Canada Ltd. v. Ontario, 2006 SCC 20, at para 45, which cites Hill v. William Hill (Park Lane) Ld., [1949] A.C. 530 (H.L.), at p. 546, for the referenced proposition.
+[19] Markevich v. Canada, 2003 SCC 9.
+[20] 2011 FCA 270, at paras 36-40.
+[21] See for example Layte v. The Queen, 2010 TCC 281, at para 11, and International Hi Tech Industries Inc. v. The Queen, 2018 TCC 107, at paras 12-13.
+[22] Pawlak v. The Queen, 2012 TCC 355, at para 26.
+[23] Letters Patent dated September 10, 2003 and Ontario Profile Report dated September 8, 2022: Joint Book of Documents Tab 1 and Tab 2
+[24] Notice of Appeal, para. 1
+[25] Order of Justice C. A. Gilmore dated March 16, 2020: Joint Book of Documents Tab 6
+[26] Section 4, item 1 of the Letters Patent: Joint Book of Documents Tab 1
+[27] Section 3 of O. Reg. 84/03 as amended by s. 1 of O. Reg. 157/09: Joint Book of Documents Tab 7
+[28] Notice of Appeal, para. 3 and 4; Reply, para. 15(c) and 15(d)
+[29] GST/HST Ruling Stewardship Fees paid to Industry Funding Organizations, Ruling Letter issued by Canada Revenue Agency Excise and GST/HST Rulings Directorate, Case Number 144133, dated October 28, 2013 at p. 9: Joint Book of Documents Tab 8
+[30] Reply, paragraph 12; Tab 15
+[31] See Appellant’s Notice of Objection dated November 21, 2014, Appendix D to Schedule A to the Notice of Objection, p. 2: Joint Book of Documents Tab 9 Tab 15
+[32] See Appellant’s Notice of Objection dated November 21, 2014, Schedule A to the Notice of Objection and Appendices A to E to Schedule A in respect of the Agency’s denial of the ITCs claimed by the Appellant: Joint Book of Documents Tab 9 Tab 15
+[33] See Appellant’s Notice of Objection dated November 21, 2014, Appendix E to Schedule A to the Notice of Objection: Joint Book of Documents Tab 9 Tab 15 . See communications between CRA Appeals Officers and counsel to the Appellant together with CRA Appeals Officers’ notes of communications with counsel to the Appellant between September 29, 2015 and December 18, 2018: Joint Book of Documents Tab 10 Tab 18
+[34] Stewardship Ontario v R, 2018 TCC 59: Appellant’s Factum
+[35] See CRA Appeals Officer’s notes of communications with counsel to the Appellant dated May 16, 2018: Joint Book of Documents Tab 10 Tab 18(g)
+[36] Referred to as the “Overlooked ITCs” in the Notice of Appeal, para. 15 and following and as “Additional ITCs” in the Reply, para. 15(k) and following
+[37] See Letter to CRA Appeals Officer dated August 2, 2018 and Executive Summary outlining ITCs claim in the amount of $17,599,046.34: Joint Book of Documents Tab 11 Tab 19(a)(b) and (c)
+[38] See Letters dated December 18, 2018 and January 16, 2019 from CRA Appeals Officer: Joint Book of Documents Tabs 15 24, 17 26
+[39] Joint Book of Documents Tab 16 Tab 25

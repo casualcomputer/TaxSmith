@@ -1,0 +1,166 @@
+---
+title: "Inflection Analytics Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109839/index.do"
+last_modified: "2015-04-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 129"
+citation2: ""
+neutral_citation: "2015 CCI 129"
+decision_date: "2015-04-01"
+language: "fr"
+item_id: "109839"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2823
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:37:18.341000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "be564d22367453f1aedfdfacd0710872e1c36daaee6eff06b97aff6e30d9f125"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Inflection Analytics Ltd. c. La Reine
+
+- Citation: 2015 CCI 129
+- Decision date: 2015-04-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2823, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Inflection Analytics Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-04-01
+Référence neutre
+2015 CCI 129
+Numéro de dossier
+2014-332(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014 332(IT)I
+ENTRE :
+INFLECTION ANALYTICS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 1er avril 2015 à Ottawa, Canada.
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Représentants de l’appelante :
+Kent B. Smith
+David Somppi
+Mel Machado
+(PricewaterhouseCoopers LLP)
+Avocat de l’intimée :
+Me Shane (Shubir) Aikat
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2011 de l’appelante est rejeté, en conformité avec les motifs du jugement ci-joints.
+Signé à Ottawa (Canada), ce 22e jour de mai 2015.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 29e jour de juin 2015.
+S. Tasset
+Dossier : 2014 332(IT)I
+ENTRE :
+INFLECTION ANALYTICS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+VERSION RÉVISÉE DE LA TRANSCRIPTION DES MOTIFS DU JUGEMENT PRONONCÉS DE VIVE VOIX
+Je requiers que soit déposée la transcription révisée ci‑jointe des motifs du jugement prononcés de vive voix à l’audience, le 1er avril 2015, à Ottawa, Canada. J’ai révisé la transcription (certifiée par le sténographe judiciaire) sur le plan du style et de la clarté, et pour y apporter des corrections mineures seulement. Je n’y ai fait aucune modification quant au fond.
+Signé à Ottawa (Canada), ce 22e jour de mai 2015.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 29e jour de juin 2015.
+S. Tasset
+Référence : 2015 CCI 129
+Date : 20150522
+Dossier : 2014‑332(IT)I
+ENTRE :
+INFLECTION ANALYTICS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Appel entendu et décision rendue de vive voix, le 1er avril 2015,
+à Ottawa, Canada.)
+Le juge Boyle
+[1] Dans les hypothèses exposées dans la réponse, l’appelante est décrite comme étant une société de logiciel dont l’activité consiste à tirer parti de la recherche et des technologies informatiques concernant la microstructure des marchés en vue de créer des outils aidant les gestionnaires de portefeuille dans l’élaboration de leur stratégie globale de gestion des fonds.
+[2] En 2007, l’appelante a payé pour acheter des données historiques ou pour obtenir une licence lui donnant accès à de telles données, et elle a payé des frais d’abonnement pour avoir accès à des données en temps réel sur les actions ainsi qu’à d’autres données sur les transactions boursières, ce qu’elle définit comme constituant les données électroniques en question. Six fournisseurs/vendeurs sont nommés. Les données électroniques devaient permettre à l’appelante de simuler ses projets en situation réelle. Pour recevoir ces données électroniques, l’appelante n’a pas eu à acheter ou à louer d’équipement supplémentaire. Les données électroniques étaient transmises à l’appelante par Internet.
+[3] La seule question qui se pose en l’espèce est de savoir si les sommes versées à ces vendeurs ou fournisseurs constituent des dépenses courantes correspondant à la location d’équipement servant à la recherche scientifique et au développement expérimental (RS et DE).
+[4] Ni l’une ni l’autre des parties n’a cité de témoins. Il a été convenu que deux accords représentatifs seraient produits en preuve. L’appelante a, en même temps, consenti à ce que la réponse modifiée du ministre soit admise, et les parties se sont entendues sur deux conditions concernant les accords représentatifs. D’abord, dans le cas des deux vendeurs en question, aucun appareil fourni par eux n’a été installé dans les locaux de l’appelante, et, ensuite, l’un des deux n’a même fourni aucun logiciel.
+[5] Selon l’accord Thomson Reuters’ Equis, pour obtenir les informations fournies par le service, l’appelante aurait accès par Internet au service QuoteCenter du vendeur. Dans l’accord, il est partout question du droit d’obtenir des informations.
+[6] Le second accord représentatif est l’accord NASDAQ E‑signal/e‑service. Cet accord décrit à plusieurs reprises l’octroi d’une licence en vertu de laquelle l’appelante aura le droit de recevoir et d’utiliser des données du marché du vendeur du service NASDAQ, qui lui seraient transmises par la voie du site Web e-signal.com. La clause additionnelle décrivant les accords de base conclus par le vendeur précise en termes semblables que les données du marché sont fournies en vue de leur retransmission à l’abonné, en l’occurrence l’appelante.
+[7] Ces deux accords représentatifs semblent nettement être des accords d’abonnement à un service donnant accès à des sites Internet fournissant certaines informations. L’accord concernant le e‑service définit, aux fins de la clause additionnelle, le service assuré par le vendeur comme comprenant de l’équipement, des logiciels et des communications. Mais cela concerne la transmission d’informations à l’abonné, l’appelante en l’espèce, ou la transmission d’informations par l’abonné.
+[8] Les parties conviennent que le vendeur n’a fourni à l’appelante aucun appareil. Mais dans la mesure où l’appelante soutient que cela doit aussi s’entendre de l’équipement utilisé par le vendeur pour assurer l’affichage rapide des données sur son site, je dois dire en toute déférence que je ne suis pas d’avis que les accords en question entraînent le transfert de certains droits du vendeur à l’abonné, en l’occurrence l’appelante.
+[9] L’appelante invoque à l’appui de sa thèse la décision rendue par la juge Lamarre, tel était alors son titre, dans l’affaire Datakinetics. La question dans cette affaire étant de savoir si un appelant obtenant le droit d’accéder à un ordinateur central et de l’utiliser comme il l’entend, obtenant en outre une ligne de télécommunication spécialisée, avait en fait pris cet équipement en location. La juge Lamarre a estimé que c’était effectivement le cas.
+[10] Mais en l’espèce, comme j’en ai décidé, les accords portent sur la transmission de données par l’intermédiaire d’un site Web auquel l’appelante aura accès. Contrairement à ce qu’il en était dans Datakinetics, les accords en question ne confèrent à l’appelante aucun droit sur l’équipement du vendeur, que l’appelante utiliserait alors comme elle l’entend.
+[11] Dans un même ordre d’idées, l’appelante invoque le document de l’ARC exposant sa politique en matière de bande passante. Je relève que ce document évoque spécifiquement à cet égard l’installation de lignes de télécommunication spécialisées. Quoi qu’il en soit, il s’agit d’une politique de l’ARC, et non d’une disposition législative. Or, je dois de trancher le présent appel en fonction de la loi. Soit je ne comprends pas entièrement la politique de l’ARC en matière de bande passante, soit je n'y souscris pas entièrement, mais je suis parvenu à la conclusion que, selon les règles de droit applicables, les deux accords représentatifs produits en preuve en l’espèce n’accordent à l’appelante que le droit, moyennant des frais, d’accéder à des données sur un site Internet. La politique de l’ARC en matière de bande passante ne serait donc en l’occurrence pas applicable de toute façon.
+[12] Cela étant, je ne saurais conclure qu’au regard des dispositions légales applicables, les paiements effectués peuvent être considérés comme des paiements faits aux vendeurs pour la location d'équipement. Je n’ai donc pas à décider si cet équipement a servi à la recherche scientifique et au développement expérimental au Canada, même si je n’ai à cet égard aucune raison de douter que cela a effectivement été le cas.
+[13] Je signerai donc un jugement rejetant l’appel pour les motifs ci‑dessus exposés.
+Signé à Ottawa (Canada), ce 22e jour de mai 2015.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 29e jour de juin 2015.
+S. Tasset
+RÉFÉRENCE :
+2015 CCI 129
+NO DU DOSSIER DE LA COUR :
+2014‑332(IT)I
+INTITULÉ :
+INFLECTION ANALYTICS LTD. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATE DE L’AUDIENCE :
+Le 1er avril 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 22 mai 2015
+COMPARUTIONS :
+Représentants de l’appelante :
+Kent B. Smith
+David Somppi
+Mel Machado
+(PricewaterhouseCoopers LLP)
+Avocat de l’intimée :
+Me Shane (Shubir) Aikat
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

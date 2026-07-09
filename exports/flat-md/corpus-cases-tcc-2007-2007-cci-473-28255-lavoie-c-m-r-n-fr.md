@@ -1,0 +1,183 @@
+---
+title: "Lavoie c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28255/index.do"
+last_modified: "2007-09-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 473"
+citation2: ""
+neutral_citation: "2007 CCI 473"
+decision_date: "2007-09-04"
+language: "fr"
+item_id: "28255"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2036
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:20:31.611000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f742e2bb6434c838d670f6a7bdd0555efb7593b44e2a63a9017fd979a8216ab2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lavoie c. M.R.N.
+
+- Citation: 2007 CCI 473
+- Decision date: 2007-09-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2036, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lavoie c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-04
+Référence neutre
+2007 CCI 473
+Numéro de dossier
+2006-1071(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2006-1071(EI)
+ENTRE :
+JOSÉE LAVOIE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+9153‑6037 QUÉBEC INC.,
+intervenante.
+____________________________________________________________________
+Appel entendu le 8 mai 2007, à Jonquière (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimé :
+Me Vlad Zolia
+Représentant de l'intervenante :
+Pierre Pilotte (absent)
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi (la « Loi ») est rejeté au motif que le travail exécuté par l'appelante du 10 avril au 8 octobre 2005 ne constituait pas un véritable contrat de louage de services au sens de l'alinéa 5(1)a) de la Loi, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 4e jour de septembre 2007.
+« Alain Tardif »
+Juge Tardif
+Référence : 2007CCI473
+Date : 20070904
+Dossier : 2006-1071(EI)
+ENTRE :
+JOSÉE LAVOIE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+9153‑6037 QUÉBEC INC.,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel d'une décision en vertu de l'alinéa 5(2)i), du paragraphe 5(3) et des articles 91 et 93 de la Loi sur l'assurance‑emploi (la « Loi »), en date du 14 février 2006, selon laquelle le travail exécuté par l'appelante du 10 avril au 8 octobre 2005 ne constituait pas un emploi assurable.
+[2] Pour rendre sa décision, le ministre du Revenu national (le « ministre ») s'est fondé sur les hypothèses de fait suivantes :
+L'appelante et le payeur sont des personnes liées au sens de la Loi de l'impôt sur le revenu car :
+a) les actions comportant droit de vote du payeur étaient réparties ainsi :
+- Martin Munger avec 75 % des actions; (admis)
+- l'appelante avec 25 % des actions; (admis)
+b) Martin Munger est le conjoint de l'appelante; (admis)
+c) l'appelante est liée à une personne qui contrôle le payeur. (admis)
+[...]
+a) le payeur exploite le restaurant Le Grillon situé à l'Anse St-Jean; (admis)
+b) le restaurant oeuvre dans la restauration rapide et offre un menu du jour sur une base quotidienne; (admis)
+c) le restaurant est situé à côté d'un terrain de camping; il compte 34 places à l'intérieur où on fait le service aux tables et quelques places à l'extérieur; (admis)
+d) l'appelante a fait l'acquisition du restaurant en 2003 et l'a exploité personnellement durant les saisons 2003 et 2004; (admis)
+e) après avoir effectué des rénovations à l'intérieur et à l'extérieur du restaurant, l'appelante et son conjoint ont constitué, le 1er avril 2005, la société 9153‑6037 Québec inc. pour continuer l'exploitation du restaurant Le Grillon; (admis)
+f) le bâtiment et l'équipement sont demeurés la propriété de l'appelante, mais le payeur lui verse un loyer pour leur utilisation; (admis)
+g) le payeur possède un chiffre d'affaires d'environ 80 000 $ annuellement; (admis)
+h) le payeur exploite le restaurant d'avril à octobre de chaque année et connaît une période de pointe s'étendant de juin à la Fête du travail; (admis)
+i) durant la période de pointe, le payeur ouvre le restaurant 7 jours sur 7, de 7h jusqu'aux environs de minuit; (admis)
+j) en plus de l'appelante, le payeur embauchait 3 autres personnes; (admis)
+k) l'appelante agissait comme gérante du restaurant et ses principales tâches consistaient à :
+- travailler à la cuisine,
+- gérer le personnel
+- faire la tenue des livres comptables,
+- servir aux tables,
+- s'occuper des commandes et de l'inventaire,
+- embaucher le personnel et établir les horaires de travail;
+(admis)
+l) l'appelante signait la majorité des chèques au nom du payeur; une seule signature était requise; (admis)
+m) l'appelante travaillait presque toujours au restaurant mais elle complétait la tenue des livres comptables à sa résidence; (admis)
+n) durant la période en litige, M. Martin Munger occupait un emploi à plein temps chez Bell Canada; (admis)
+o) il rendait occasionnellement des services au payeur, les soirs et fins de semaine, mais n'a jamais reçu de rémunération du payeur; (admis)
+p) au début de la saison, l'appelante recevait une rémunération de 7,55 $ de l'heure, de mai à la mi‑juin, elle recevait 8,00 $ de l'heure et par la suite, son taux horaire est passé à 12,00 $; (admis)
+q) en début de saison, l'appelante était rémunérée pour 20 à 30 heures par semaine et, par la suite, elle recevait une rémunération basée sur 40 heures par semaine; (admis)
+r) l'appelante pouvait faire jusqu'à 14 heures par jour, en moyenne 70 heures par semaine, tout en étant rémunéré que pour 40 heures par semaine; (admis)
+s) entre la période où elle exploitait le restaurant à son compte (saisons 2003 et 2004) et celle où ce restaurant était exploité par le payeur, les tâches de l'appelante sont demeurées les mêmes; (admis)
+t) le 26 janvier 2006, lors d'un entretien téléphonique avec un agent de l'intimé, M. Munger a mentionné qu'il aurait fallu embaucher 2 personnes pour effectuer les mêmes tâches que l'appelante et que, selon lui, personne d'autre que l'appelante n'aurait accepté d'en faire autant s'il n'avait pas été propriétaire; (admis)
+u) les 25 et 26 janvier 2006, lors d'entretiens téléphoniques avec un agent de l'intimé, l'appelante a mentionné qu'un étranger n'aurait jamais pu occuper un poste semblable car un étranger n'aurait jamais accepté de faire autant de bénévolat pour l'entreprise. (admis)
+[3] Monsieur Martin Munger, détenteur de 75 % des actions de la société intervenante, a témoigné, ainsi que l'appelante.
+[4] Avant que l'appelante et son conjoint témoignent, je leur ai longuement expliqué la procédure, ainsi que la nature de la preuve qu'ils devaient soumettre pour réussir. J'ai insisté particulièrement sur le fait que la preuve devrait démontrer que le contrat de travail et les modalités de l'emploi étaient semblables à ceux qui auraient existé si l'employé n'avait pas eu de lien de dépendance.
+[5] J'ai également insisté sur le fait que la décision avec laquelle l'appelante était en désaccord était une décision qui avait résulté de l'exercice d'un pouvoir discrétionnaire; il devenait donc important que l'appelante fasse la preuve que le travail d'enquête et d'analyse avait été incomplet ou entaché d'erreurs ou de failles. En d'autres termes, l'appelante devait démontrer que certains faits avaient été écartés, oubliés ou sous-évalués lors de l'analyse.
+[6] Étant donné la complexité de ces notions, j'ai même pris l'initiative de fournir des exemples pour illustrer l'importance de faire la preuve que le travail en cause aurait eu des modalités semblables si l'employé n'avait pas eu de liens avec le payeur.
+[7] Malgré les explications et aussi les mises en garde, après avoir été assermentée, l'appelante a admis tous les faits tenus pour acquis lors de la décision.
+[8] Les paragraphes admis qui suivent nuisent particulièrement aux conclusions recherchées par l'appelante :
+l) l'appelante signait la majorité des chèques au nom du payeur; une seule signature était requise;
+m) l'appelante travaillait presque toujours au restaurant mais elle complétait la tenue des livres comptables à sa résidence;
+[...]
+p) au début de la saison, l'appelante recevait une rémunération de 7,55 $ de l'heure, de mai à la mi‑juin, elle recevait 8,00 $ de l'heure et par la suite, son taux horaire est passé à 12,00 $;
+q) en début de saison, l'appelante était rémunérée pour 20 à 30 heures par semaine et, par la suite, elle recevait une rémunération basée sur 40 heures par semaine;
+r) l'appelante pouvait faire jusqu'à 14 heures par jour, en moyenne 70 heures par semaine, tout en étant rémunéré que pour 40 heures par semaine;
+[...]
+t) le 26 janvier 2006, lors d'un entretien téléphonique avec un agent de l'intimé, M. Munger a mentionné qu'il aurait fallu embaucher 2 personnes pour effectuer les mêmes tâches que l'appelante et que, selon lui, personne d'autre que l'appelante n'aurait accepté d'en faire autant s'il n'avait pas été propriétaire;
+u) les 25 et 26 janvier 2006, lors d'entretiens téléphoniques avec un agent de l'intimé, l'appelante a mentionné qu'un étranger n'aurait jamais pu occuper un poste semblable car un étranger n'aurait jamais accepté de faire autant de bénévolat pour l'entreprise.
+[9] Très surpris par les aveux, j'ai de nouveau indiqué à l'appelante et à son conjoint que je devais disposer de l'appel selon de la preuve qu'ils soumettraient.
+[10] Ni l'appelante, ni son conjoint n'ont ajouté quoi que ce soit qui soit pertinent. Ils ont évidemment affirmé avoir dit la vérité et avoir été foncièrement honnêtes, ce que le tribunal n'a aucune hésitation à reconnaître.
+[11] Les éléments déterminants de la preuve résultent des aveux non équivoques de l'appelante, d'ailleurs confirmés par son conjoint. Les aveux confirment et justifient en tous points le bien‑fondé de la décision dont il est fait appel; en outre, la preuve soumise n'a fait ressortir aucun fait ou élément susceptible de discréditer le bien‑fondé de la décision à l'origine du présent appel.
+[12] Il n'y a aucun doute qu'une personne sans lien de dépendance n'aurait jamais accepté de faire le même travail aux mêmes conditions. Malgré le partage des actions, l'appelante participait à la gestion de l'entreprise dont son conjoint détenait 75 % des actions exactement comme si elle avait été l'unique actionnaire.
+[13] Pour avoir gain de cause, il aurait fallu que l'appelante fasse la démonstration que la décision à l'origine de l'appel était manifestement mal fondée et que l'exécution du travail en cause avait été effectuée d'une manière semblable à celle qui aurait existé dans le cas d'un tiers.
+[14] Puisque l'appelante n'a pas soumis la preuve requise, l'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 4e jour de septembre 2007.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2007CCI473
+Nº DU DOSSIER DE LA COUR : 2006-1071(EI)
+INTITULÉ DE LA CAUSE : JOSÉE LAVOIE ET MRN
+LIEU DE L’AUDIENCE : Jonquière (Québec)
+DATE DE L’AUDIENCE : le 8 mai 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 4 septembre 2007
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimé :
+Me Vlad Zolia
+Représentant de l'appelante :
+Pierre Pilotte (absent)
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Pour l'intervenante :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

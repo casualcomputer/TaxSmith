@@ -1,0 +1,208 @@
+---
+title: "Michel Trottier Entrepreneur Électricien Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26369/index.do"
+last_modified: "2004-01-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 4"
+citation2: ""
+neutral_citation: "2004 TCC 4"
+decision_date: "2004-01-05"
+language: "en"
+item_id: "26369"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3382
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:58:48.237000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ff23339598a246b8dbc9c3c51e29584fb32364ef73d387338d609b312a25539a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Michel Trottier Entrepreneur Électricien Inc. c. M.R.N.
+
+- Citation: 2004 TCC 4
+- Decision date: 2004-01-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3382, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Michel Trottier Entrepreneur Électricien Inc. c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-05
+Neutral citation
+2004 TCC 4
+File numbers
+2002-4365(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2002-4365(EI)
+BETWEEN:
+MICHEL TROTTIER ENTREPRENEUR ÉLECTRICIEN INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SIMON TROTTIER,
+FRANÇOIS TROTTIER,
+Interveners.
+____________________________________________________________________
+Appeal heard on November 3, 2003 at Trois-Rivières, Quebec
+Before: The Honourable Judge François Angers
+Appearances:
+Counsel for the Appellant:
+François Daigle
+Counsel for the Respondent:
+For the Interveners:
+Claude Lamoureux
+The Interveners themselves
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decisions of the Minister of National Revenue are vacated, in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 5th day of January 2004.
+"François Angers"
+Angers J.
+Certified true translation
+Colette Beaulne
+[OFFICIAL ENGLISH TRANSLATION]
+Citation: 2004TCC4
+Date: 20040105
+Docket: 2002-4365(EI)
+BETWEEN:
+MICHEL TROTTIER ENTREPRENEUR ÉLECTRICIEN INC.,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+And
+SIMON TROTTIER,
+FRANÇOIS TROTTIER,
+Interveners.
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal from decisions of the Minister of National Revenue (the "Minister") dated December 28, 2001, to the effect that the employment of the interveners François and Simon Trottier when they were working for the appellant was insurable employment performed under a contract of service, in accordance with paragraph 5(1)a) of the Employment Insurance Act (the "Act"). According to these decisions, the employment was not excluded from insurable employment, despite the fact that the appellant and the interveners were not dealing with each other at arm's length since, having regard to all the circumstances, a substantially similar employment contract would have been entered into between them if they had been dealing with each other at arm's length within the meaning of paragraph 5(2)i) and 5(3)b) of the Act. The period of employment in respect of which the appeal was brought is from January 1, 2001, to December 28, 2001, in the case of both interveners.
+[2] The appellant alleges in his Notice of Appeal that the interveners' jobs while working for the appellant company were not insurable employment because each of them held more than 40% of the voting shares of this company during the period at issue, such that the provisions of paragraph 5(2)b) of the Act apply. Contrary to the position taken by the Minister, the appellant maintains that there was no true contract of service between the appellant and the interveners and that, had there been, the conditions of employment, among other things, were not similar to those that would otherwise have existed by virtue of the fact that they were not dealing with each other at arm's length, in accordance with the provisions of paragraphs 5(1)a) and 5(2)i) and sub-section 5(3) of the Act.
+[3] The respondent based his decision on the following assumptions of fact, which were admitted or denied by the appellant, as shown below:
+a) the appellant was incorporated on September 24, 1997; (admitted)
+b) during the period at issue, the shareholders of the appellant were:
+Francine Désilets
+30% of the voting shares
+François Trottier
+35% of the voting shares
+Simon Trottier
+35% of the voting shares (denied)
+c) Francine Désilets is the mother of François Trottier and Simon Trottier; (admitted)
+d) the appellant was an electrical contractor in the residential and commercial sectors; (admitted)
+e) in 2001, the appellant hired between 6 and 8 workers; (admitted)
+f) these workers were subject to the collective agreement in force in the construction industry; (admitted)
+g) in 2001, the appellant had a turnover of approximately $450,000; (admitted)
+h) the business was in operation from Monday to Friday from 7 am to 6 pm; (denied)
+i) the appellant's major decisions were taken by the appellant's board; (admitted)
+j) following the death of Michel Trottier on November 17, 2000, one of the appellant's employees, Lucien Gingras, qualified the appellant to obtain his licence as an electrical contractor with La Commission de la Construction du Québec (hereinafter called the C.C.Q.); (admitted)
+FRANÇOIS TROTTIER
+k) the worker FT was an apprentice electrician; (admitted)
+l) the worker FT was in charge of the appellant's administration; (admitted)
+m) the duties of the worker FT consisted of preparing bids, checking the inventory, supervising staff, preparing schedules, looking after purchases, looking after vehicle maintenance (4 to 5 trucks) and looking after customer service; (admitted)
+n) the majority of the services performed by the worker FT were done at the office of the appellant; (denied)
+o) the worker FT worked year-round for the appellant; (admitted)
+p) the worker FT was always entered for 40-hour work weeks in the appellant's pay register, except for 8 weeks of 32 hours and 2 weeks of vacation in July; (denied)
+q) the worker FT was paid a weekly salary of $697.20 from January 1 to August 25, 2001 and of $846.80 from August 27 to December 31; (admitted)
+r) the pay of the worker FT was based on the hourly rate established by the collective agreement; (admitted)
+s) the worker FT was paid by cheque each week; (admitted)
+t) the worker FT was the beneficiary of a pension fund managed by the C.C.Q.; (admitted)
+u) the appellant paid the C.S.S.T. insurance premiums for the worker FT; (denied)
+v) all the worker FT's expenditures for meals and fuel were paid by the appellant; (admitted)
+w) the appellant supplied a truck to the worker FT; (admitted)
+x) the worker FT had given no personal security or guarantee in favour of the appellant; (admitted)
+y) the worker FT had no risk of loss or chance of profit; (denied)
+z) all the tools and equipment which the worker FT used belonged to the appellant; (admitted)
+aa) the services performed by the worker FT formed an integral part of the payer's activities; (denied)
+SIMON TROTTIER
+bb) the worker ST was an apprentice electrician; (admitted)
+cc) the worker ST worked primarily on the sites of the appellant's customers; (denied)
+dd) the worker ST required supervision by an electrician at all times; (denied)
+ee) the duties of the worker ST consisted of preparing bids with the help of Lucien Gingras, in hiring or firing staff and working on the sites; (denied)
+ff) in 2001, the worker ST worked for the appellant from July 3 to December 31; (denied)
+gg) the worker ST was entered for 40-hour work weeks in the appellant's pay register, with the exception of three 32-hour weeks and two weeks of vacation in July; (admitted)
+hh) the worker ST was paid a weekly salary of $697.20 from July 3 to December 31; (admitted)
+ii) the salary of the worker ST was based on the hourly rate established by the collective agreement; (admitted)
+jj) the worker ST was paid by cheque weekly; (admitted)
+kk) the worker ST was a member of a pension fund administered by the C.C.Q.; (admitted)
+ll) the appellant paid the C.S.S.T. insurance premiums for the worker ST; (denied)
+mm) all the expenses for meals and fuel of the worker ST were paid by the appellant; (admitted)
+nn) the appellant supplied the worker ST with a truck; (admitted)
+oo) the worker ST had given no guarantees or personal security in favour of the appellant; (admitted)
+pp) the worker ST had no risk of loss or chance of profit; (denied)
+qq) all the tools and equipment used by the worker ST belonged to the appellant; (admitted)
+rr) the services performed by the worker ST formed an integral part of the appellant's activities; (denied)
+[4] Ms. Francine Désilets testified that her husband Michel Trottier and herself established the appellant's business in October 1997. The certificate of incorporation certifies that 9054-8447 Québec Inc. was incorporated and subsequently became Michel Trottier Entrepreneur Électricien Inc. (the appellant). A third person, Pierre Lavigne, became a shareholder at the time of incorporation. In fact, the class "A" shares were the only ones issued and were held in the following proportions: 79 for Michel Trottier, 20 for Pierre Lavigne and one for Ms. Désilets. Ms. Désilets and her husband did not become the sole shareholders in the appellant until March 1999, holding 20 and 80% respectively of the 100 class "A" shares. No other shares have been issued to date.
+[5] Michel Trottier died in November 2000, as a result of which Ms. Désilets became the sole owner of the 100 class "A" shares issued by the appellant. It was at this point that she decided, after consultation, to transfer her shares to her two sons (the interveners). She explained that, following her husband's death, each of the interveners received 35% of the share capital, i.e., 35 class "A" shares. Without specifying the date, she testified that it was subsequently decided that a larger number of shares should be transferred. She recognized that on December 20, 2001, Directors' Resolutions caused the shares to be distributed in the proportions agreed after the death of her husband, namely 35 class "A" shares for each intervener and 30 for herself. These resolutions were forwarded to the Appeals Officer, Mr. Martin Croteau.
+[6] The transfer of shares in accordance with the resolution of December 20, 2001, was, however, not recorded in the appropriate register of the company. In fact, the only share transfers that were registered following the death of Michel Trottier are those that occurred after it had been decided that 35 shares for each of the interveners was not sufficient. The register of shareholders and the number of shares held by each indicates that, on October 1, 2001, Francine Désilets held 18 class "A" shares and each intervener held 41 class "A" shares, all new shares. As far as the 100 class "A" shares held by Francine Désilets on that date are concerned, she transferred them all to Gestion Francine Désilets Inc.
+[7] In addition, also on that date, Ms. Désilets subscribed for 1000 class "C" shares of the appellant's share capital. All this took place almost two months prior to the resolution of December 20, 2001, which allocates the shares quite differently. It is impossible to claim, according to Ms. Désilets and the interveners, that the decision to allocate 35 shares to each intervener was taken prior to December 20, 2001. In addition, the resolutions of December 20, 2001, were sent to the Appeals Officer on June 19, 2002, but none of the documents dated October 1, 2001, accompanied them and no mention of the changes was made to the officer.
+[8] It is clear to me that Ms. Désilets relied completely on the advice of her consultants and did not ask much in the way of questions. Furthermore, she testified that she did not know why she held 1000 class "C" shares and said that she was unaware that these shares involved voting rights.
+[9] With regard to the operations of the appellant, Ms. Désilets was obliged, following the death of her husband, to rely on the services of her two sons (the interveners). Since both of them were apprentice electricians in the fourth year of their apprenticeship, they were obliged to assume the role that their father had played in the business. Ms. Désilets told the Court how the two interveners were at the office at 6.30 am, some 20 minutes before the other employees arrived, and that François Trottier was there from 6 am to late in the evening, while Simon Trottier answered all the weekend emergency calls. Each of the interveners was paid on the basis of a 40-hour week at the hourly rate established by the agreement of the C.C.Q., notwithstanding the fact that they worked more hours than that each week. The other employees who worked extra hours were paid in accordance with the agreement. Ms. Désilets for her part took care of the office work, did the pay, and answered the telephone on weekends, as the company office was in her house. She worked more than 40 hours a week.
+[10] The interveners testified regarding their new responsibilities in the business following their father's death. François Trottier has been employed by the business since 1997, the year in which he was hired as an apprentice electrician. He accordingly had to be accompanied by a qualified electrician when doing electrical work. After the death of his father, his responsibilities within the company increased considerably. He was assigned responsibility for meeting with customers and evaluating their needs. He supervised the other employees in the business, telling them what work needed to be done and taking care of the billing. He arrived earlier in the morning than the others to organize the company day and to allocate the tasks.
+[11] He declared that, during peak periods in the company, he was on call seven days a week and that he had not had a single free Saturday during the summer. Despite his new responsibilities, he continued to draw a salary based on a 40-hour work week at the hourly rate specified in the agreement. He agreed that this was not the case for the other employees, as they did not work on Saturdays, and if they had to do so they were paid for the extra hours in accordance with the agreement. He added that his brother Simon also worked more than the 40 hours a week for which he was paid. Simon responded to all the emergency calls on weekends, in addition to assuming responsibility for the company's stock.
+[12] According to François Trottier, he has held 41% of the company shares since the death of his father. He was nevertheless not able to specify when this percentage was reached. He is aware of the fact that resolutions were voted by the board in December 2001, resolutions whereby the percentage of the stock he held was only 35%. He recognized, as did his mother, that this was beyond his understanding and said that the notary and the accountant were responsible for looking after it, and that he trusted them.
+[13] Simon Trottier's responsibilities also increased after the death of his father. He confirmed his brother's testimony on this point. Simon Trottier was now working 50 to 60 hours a week and was being paid only for 40. He ordered the stock and supervised the employees. In order to economize with the company finances, he responded to emergency calls on evenings and weekends. Like his brother, he thought that he had 41% of the shares but acknowledges that the resolutions of December 20, 2001, gave him only 35%.
+[14] With regard to the premiums payable to the C.S.S.T., Ms. Désilets stated that her two sons and herself were not covered by the C.S.S.T.'s insurance scheme. François Trottier maintained that he and the company paid the premiums, but Simon Trottier knew nothing about it.
+[15] Counsel for the respondent filed the report on the appeal prepared by the Appeals Officer, Martin Croteau. Mr. Croteau was responsible for determining whether the interveners' employment was insurable and examined the determination made by the Insurability Officer. He contacted the interveners by telephone, as well as their mother and Alain Grenier, the tax accountant whose services the family used. He also consulted the documentation provided by Ms. Désilets and the appellant with a view to analyzing it. These documents included the pay registry, the minutes of the appellant company, the loan files, cheques and bank statements.
+[16] During all the time that he was working on this file, Mr. Croteau was never informed about a share transfer, as a result of which each intervener became the owner of 41% of the voting shares in the appellant company. His report shows that, in a telephone call to the tax accountant, Alain Grenier, on July 2, 2002, Mr. Grenier had spoken of an estate freeze and said that the new shareholders had to be a management company, Ms. Francine Désilets and the two interveners, with the latter each holding 35 class "A" shares. His analysis of the shares based on the company shareholders' register that he received indicates that Michel Trottier was the owner of 80 class "A" shares, and that Francine Désilets was the owner of 20 class "A" shares. The resolutions of December 2001 changed the ownership of the class "A" shares so as to assign each of the interveners 35 class "A" shares and to Francine Désilets 30 class "A" shares and 1000 class "C" shares.
+[17] Mr. Croteau summarized the analysis that he had made in order to determine whether a contract of service existed. He accordingly reviewed the criteria applicable in such a determination and briefly explained the facts on which he had based his conclusions. I shall return to these elements later in my analysis.
+[18] His testimony also covered the analysis that he had made in light of the provisions of paragraph 5(2)i) of the Act. In terms of remuneration, Mr. Croteau confirmed that the interveners were paid for 40 hours a week, whereas they actually worked 60 to 70 hours a week. Their hourly rate was that specified by the agreement and they received their pay regularly.
+[19] Under the heading "conditions of employment" Mr. Croteau noted that the two interveners had no fixed work schedule and that they worked overtime without being paid. The hours worked for customers were the only ones that were counted for billing purposes. With regard to the intervener François Trottier, he had the use of a vehicle belonging to the appellant to meet with customers and for his own use, whereas the intervener Simon Trottier used a vehicle only for the needs of the appellant.
+[20] With regard to the duration of the employment, the report shows that François Trottier worked throughout the entire period at issue, while Simon Trottier worked from July 3 to December 28, 2001. Simon Trottier in fact worked through the year and this is the period to which the appeal refers.
+[21] With regard to the nature and importance of the work performed by the interveners in addition to their administrative duties, supervision and preparation of bids, these were tasks that were essential to the smooth running of the business. According to the report, a person dealing at arm's length with the business could have carried out the same duties.
+[22] Mr. Croteau testified that he had considered the fact that the extra hours worked by the interveners would ultimately be paid to them in the form of a dividend declared by the company or by assigning them a greater percentage of ownership in the business. He also recognized that the interveners' salaries were not governed by the agreement and that this was used only as a guide. He concluded that the mere fact that the interveners worked hours for which they were not paid did not justify the exclusion of their employment because of their status as shareholders.
+[23] The position of the respondent is that the employment of the two interveners during the period at issue was insurable employment because the requirements of a contract of service were met. They are not excluded by virtue of the fact that the interveners did not own more than 41% of the voting shares of the appellant, who had hired them, nor by the fact that they were not dealing with the appellant at arm's length, as the employment contracts between themselves and the appellant are substantially similar to contracts that would have been entered into had there not been such a relationship, with the result that they are deemed to be dealing at arm's length, even though the interveners and the appellant are related within the meaning of the Income Tax Act.
+[24] Responsibility rests with the appellant and the interveners to produce evidence based on the balance of probabilities that would allow this Court to rescind the decision of the Minister or to intervene in exercising his discretionary authority pursuant to paragraph 5(3)a) of the Act.
+[25] With regard to the issue of whether, in the case at bar, the employment contracts that the interveners had with the appellant were contracts of service, I have reviewed the criteria established by the case law, such as control, ownership of tools, chance of profit and risk of loss, and integration. It seems to me clear that, when one applies the criteria of the ownership of tools, the opportunity for and the risk of loss, and integration, the facts in the case can demonstrate none other than the existence of a contract of service. The tools, such as office equipment, motor vehicles and the equipment needed to carry out the work, belonged to the appellant and were provided by the appellant. Since the interveners were paid regularly by the appellant, the appellant is the one who enjoyed the chance of profit and who ran the risk of loss. It is their capacity as shareholders and not the fact of being employees that determines the opportunity for the interveners to profit from their investment. With regard to the integration criterion, their work was an integral part of the appellant's activities.
+[26] With regard to the control criterion, it seems to me evident at first sight that each of the interveners did his work autonomously and without supervision, in particular with regard to the management of the business. On the other hand, when working with electricity, the interveners had to be accompanied on the sites by an electrician who had his competency card. The appellant was obliged to use the business licence of one of its employees in order to continue its activities following the death of Michel Trottier. Even though the interveners appeared to direct the destiny of the appellant without any outside intervention, they nonetheless were obliged to account for their work to the board of the appellant and their respective duties were determined by the decisions of the board. Noël J. of the Federal Court of Appeal in Groupe Desmarais Pinsonneault & Avard Inc. v. Canada, [2002] F.C.J. No. 572 (Q.L.), underlined the importance of the existence of the power of supervision when he said that the fact that a company did not exercise the control or that the workers did not feel subject to it in doing their work did not have the effect of removing, reducing, or limiting the power the company had to intervene through its board of directors. In my view a contract of service accordingly did exist between the interveners and the appellant.
+[27] Were the two jobs at issue insurable employment by virtue of the fact that each of interveners controlled more than 40% of the appellant's voting shares? My answer to this question is no. The testimony of the interveners and of Ms. Désilets, according to which each of the interveners had always owned 41 voting shares in the appellant following the death of Michel Trottier, is not confirmed by the resolutions of December 20, 2001, which they sent to the Appeals Officer on June 19, 2002. The register of shareholders filed by the appellant indicates transactions dated October 1, 2001; this shows that as of this date each of the interveners held 41% of the voting shares. It is nonetheless clear, in my view, that this was an attempt to make retroactive a decision that was not taken until after July 2, 2002. I mention this date, as this is the date on which the appellant's tax accountant and the Appeals Officer had a telephone conversation in which it was confirmed that the shares had been divided, giving 35 class "A" shares to each of the interveners and 30 to Ms. Désilets. I conclude from this that, during the period at issue, the interveners did not control more than 40% of the voting shares, a situation that would make their employment non-insurable pursuant to paragraph 5(2)b).
+[28] This now leads us to the issue of whether the employment is excluded because they were not dealing at arm's length. The interveners and the appellant are related persons within the meaning of the Income Tax Act and this is admitted by the appellant and the interveners. The Minister nonetheless concluded that they were dealing at arm's length in this case because the employment contracts are substantially similar to contracts that would have been entered into had they been dealing with each other at arm's length, and that this employment is accordingly insurable. This finding by the Minister constitutes the exercise of the discretionary power conferred by paragraph 5(3)b) of the Act.
+[29] The task of the appellant in this case is to establish, based on the balance of probabilities, that the Minister exercised his discretion inappropriately in deciding that, having regard to all the circumstances, the interveners and the appellant would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length. According to the Federal Court of Appeal in Canada v. Jencan Ltd., [1997] F.C.J. 876 (Q.L.), [1998] 1 F.C. 187, the appellant must show, depending on the case, that the Minister acted in bad faith or for an improper purpose or motive, that he failed to take account of the relevant circumstances, as is expressly required by paragraph 5(3)b) of the Employment Insurance Act, or that he took into account a non-relevant factor.
+[30] The role played by the Minister and the role that the Court should play have been set out by the Federal Court of Appeal in Légaré v. Canada, [1999] F.C.J. No. 878 (Q.L.). Marceau J. summarized the issue in the following terms at paragraph 4:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this is being called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appropriation of the known or inferred facts. And the Minister's determination is subject to review. In fact the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an enquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and, thus, cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[31] The Federal Court of Appeal, moreover, reiterated its position in Pérusse v. Canada, [2000] F.C.J. No. 310 (Q.L.). Marceau J., referring to the passage from Légaré cited above, added the following at paragraph 15:
+The function of an appellate Judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given to it. The Judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the Judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are not new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[32] In exercising his discretion, the Minister appears to have justified the lack of remuneration of the interveners for all the extra hours they worked, 20 or 30 a week, for the appellant by the fact that they were going, at a certain point, to derive a benefit from it in the form of a dividend because they were shareholders. In fact, as I mentioned earlier, the Minister judged that the fact of not being paid for the extra hours was not sufficient reason to exclude the employment of the interveners from insurable employment, because they were shareholders. It seems to me that the mere fact of being both a shareholder and an employee of a company is not of itself a guarantee of being paid that would justify a person working there as an employee and not being paid. The general rule is that a person who acquires the shares in a company is normally interested in the performance that their investment will generate for them. The employee's concern, on the other hand, is to be paid for the hours devoted to his employment. Concluding that an employee can work 20 to 30 hours per week without being paid would appear to banalize the principle that the employee should be paid for the services he gives to his employer. It must be remembered that a distinction is drawn between a shareholder and an employee. As a general rule, someone does not become an employee in the company in which they hold shares because they are a shareholder. In small companies, on the other hand, it is common for someone to become an employee precisely because they are a shareholder, and in such cases it is normal that the employee who is also a shareholder may obtain favoured treatment that is not given to other employees and that might accordingly render the employment of the employee-shareholder non-insurable if they are not dealing at arm's length or if they hold more than 40% of the voting shares.
+[33] The Minister in the instant case did not take into consideration the fact that, since the death of their father, the two respondents have become the directing minds of the company. They have both shared their father's responsibilities and have invested their time and expended their energies to make the business a success. They have participated with their mother in taking decisions that have enabled the business to function. They agreed to give their services free of charge so that the business could save money, without having received any promises of performance bonuses or other benefits, and without knowing whether the business would make a profit. These are conditions of employment for which acceptance by other employees would be almost impossible to achieve, and these are, in my view, economic considerations which the Minister failed to take into account.
+[34] It is clear to me that the Minister did not take into account the fact that the situation in which two apprentice electricians suddenly found themselves in managerial positions, with increased responsibilities, at a time when neither of them yet had their competency cards as electricians nor electrical contractors' permits, would probably not have occurred had they been dealing with the appellant at arm's length. This relationship between the interveners and the appellant, following the death of their father, was clearly different from that which the appellant would have had with an employee with whom it dealt at arm's length.
+[35] After examining all these factors, which I consider important and relevant and which emerge from the evidence produced during the trial, I have concluded that, if the Minister had considered them, he would not have reached the decision he reached, having regard for the law and for an objective, reasonable point of view.
+[36] For these reasons, I consider that it is possible to move on to the second stage of the appeal process and to determine whether, having regard to all the evidence, the parties to the employment contracts would have entered into substantially similar employment contracts had they been dealing with each other at arm's length, in light of all the circumstances, including those set out at paragraph 5(3)b) of the Act.
+[37] It is true that in terms of the remuneration paid, the hourly rate of the interveners was similar to that provided for in the agreement of the C.C.Q., even though the appellant was not bound by the terms of this agreement. However, the interveners took on additional managerial responsibilities, which required them to be present and to work an additional 20 to 30 hours a week, for which they were not paid.
+[38] It is not impossible for managers to invest time in their work without being paid for it, when their conditions of employment include performance bonuses or other similar benefits. However, there is nothing in this case to indicate that the interveners were entitled to such bonuses. The possibility of receiving dividends by virtue of their being shareholders has nothing to do with the fact that they are employees, for any holder of shares of the class for which a dividend is declared is entitled to that, whether or not they are an employee.
+[39] When one considers the specific context of the relationship that exists between the appellant and the interveners, it is easy to understand that they had no separate economic interests, a situation that is often found in family businesses. This produces the result that the remuneration paid and even the conditions of employment are not those that are found between a stranger and an employer, in other words, between persons dealing at arm's length.
+[40] None of the interveners had a set work schedule and, as managers, they were not supervised. They both acted as head of the company, having, according to the evidence submitted, assumed the responsibilities of their father after his death. Would a person dealing at arm's length with the appellant have assumed and performed these duties with all the conviction that the facts have revealed in this case?
+[41] In my view, it is possible to conclude, as Rowe J. did in Crawford v. Canada, [1996] T.C.J. No. 70 (Q.L.), that the economic interests of the interveners were so closely linked to those of the company that it could not be said to have acted independently. In the arrangements that pertained in the instant case, there was not the type of genuine negotiation that there would have been regarding a contract between persons who were strangers. There was not, with regard to the company and the two interveners, the type of independence of mind or independence in terms of objectives that would warrant the assertion that they were dealing with each other at arm's length.
+[42] I accordingly find that, in this case, it is reasonable to conclude that a similar contract would not have been entered into if the parties to the contracts had been dealing with each other at arm's length. For these reasons, the employment held by the two interveners while working for the appellant is not insurable employment.
+Signed at Edmundston, New Brunswick, this 5th day of January, 2004.
+"François Angers"
+Angers J.
+Certified true translation
+Colette Beaulne

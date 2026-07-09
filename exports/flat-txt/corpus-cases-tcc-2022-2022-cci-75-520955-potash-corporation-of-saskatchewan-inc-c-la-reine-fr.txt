@@ -1,0 +1,731 @@
+Title: Potash Corporation of Saskatchewan Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520955/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-75-520955-potash-corporation-of-saskatchewan-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2022-07-07
+
+# Potash Corporation of Saskatchewan Inc. c. La Reine
+
+- Citation: 2022 CCI 75
+- Decision date: 2022-07-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4512, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Potash Corporation of Saskatchewan Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-07-07
+Référence neutre
+2022 CCI 75
+Numéro de dossier
+2020-208(IT)G
+Juges et Officiers taxateurs
+John R. Owen
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2020-208(IT)G
+ENTRE :
+POTASH CORPORATION OF SASKATCHEWAN INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 21 mars 2022, à Regina (Saskatchewan)
+Devant : L’honorable juge John R. Owen
+Comparutions :
+Avocats de l’appelante :
+Me Nathalie Goyette
+Me Marc Pietro Allard
+Avocates de l’intimée :
+Me Courtney Davidson
+Me Carla Lamash
+JUGEMENT
+APRÈS avoir entendu la preuve et les observations des avocats de l’appelante et de l’intimée;
+CONFORMÉMENT aux motifs du jugement ci-joints, la Cour rejette, avec dépens en faveur de l’intimée, l’appel interjeté à l’encontre des nouvelles cotisations dans lesquelles la déduction dans le calcul du revenu, en application de la Loi de l’impôt sur le revenu, des paiements de base versés à la province de la Saskatchewan aux termes de la Mineral Taxation Act, 1983 (Saskatchewan) a été refusée pour chacune des années d’imposition 1999 à 2002 de l’appelante.
+L’intimée dispose d’un délai de 30 jours suivant la date du présent jugement pour présenter ses observations écrites sur les dépens. L’appelante dispose d’un délai supplémentaire de 30 jours pour soumettre ses observations écrites en réponse aux observations de l’intimée. Les observations écrites des parties ne doivent pas dépasser dix pages.
+Signé à Ottawa, Canada, ce 7e jour de juillet 2022.
+« J.R. Owen »
+Le juge Owen
+Traduction certifiée conforme
+ce 28e jour d’avril 2023.
+François Brunet, réviseur
+Référence : 2022 CCI 75
+Date : 20220707
+Dossier : 2020-208(IT)G
+ENTRE :
+POTASH CORPORATION OF SASKATCHEWAN INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Owen
+I. Introduction [1] Potash Corporation of Saskatchewan Inc. (l’« appelante ») interjette appel des nouvelles cotisations dans lesquelles la déduction dans le calcul du revenu, en application de la Loi de l’impôt sur le revenu (la « LIR »), de certains paiements versés à la province de la Saskatchewan aux termes de la Mineral Taxation Act, 1983 (Saskatchewan) (la « MTA ») a été rejetée pour chacune de ses années d’imposition 1999 à 2002 (les « années d’imposition »).
+II. Faits [2] Au début de l’audience, les parties ont présenté un exposé conjoint (partiel) des faits, qui comprenait deux recueils de documents (l’« ECPF »). J’ai désigné les deux recueils de documents comme étant la pièce AR-1. Je me reporterai aux documents individuels de la pièce AR-1 par leurs numéros d’onglet. L’annexe A aux présents motifs reproduit les faits exposés dans l’ECPF.
+[3] En plus de l’ECPF, Mme Tina Heal a témoigné pour l’appelante. Mme Heal est la directrice principale du service responsable de l’observation fiscale et des déclarations de revenus de l’appelante. Mme Heal n’était pas une employée de l’appelante au cours des années d’imposition, et son témoignage se limitait à expliquer la façon dont l’appelante avait calculé son obligation fiscale au titre de la MTA pour les années d’imposition en cause.
+A. L’exploitation minière de l’appelante [4] Au cours des années d’imposition en cause, l’appelante exerçait ses activités en tant que société intégrée de produits d’engrais et de produits alimentaires et industriels connexes, et exploitait des mines de potasse dans la province de la Saskatchewan. La potasse est le nom courant donné à un groupe de minéraux qui renferment du potassium.
+[5] Les activités d’extraction et de traitement de l’appelante comportaient quatre étapes, lesquelles sont illustrées à l’onglet 1 de la pièce AR-1 :
+l’extraction de la potasse des dépôts souterrains au moyen de foreuses à tarière continue dotées de deux et de quatre rotors;
+le transport du minerai de potasse par convoyeur à courroie, qui achemine le minerai sous terre où il est entreposé dans des bacs;
+le transport du minerai de potasse entreposé vers un puits de mine en faisant remonter le minerai de potasse à la surface. Cette étape marque la fin du processus d’extraction;
+4.le traitement du minerai de potasse en l’écrasant, en le broyant, en le séchant, en le compactant et en le cristallisant. La forme cristallisée de la potasse est le produit vendu par l’appelante.
+[6] L’appelante a produit de la potasse provenant des mines de la Saskatchewan dans l’unique but d’en faire la vente.
+B. L’impôt sur le paiement de base et sur les bénéfices [7] Pour chacune des années d’imposition, l’appelante a versé à la province de la Saskatchewan un paiement de base calculé conformément à l’article 5 de l’annexe intitulée « The Potash Production Tax Schedule » (la « PPTS ») ainsi qu’un impôt sur les bénéfices calculé conformément à l’article 6 de la PPTS et du règlement intitulé The Potash Production Tax Regulations (le « PPTR »).
+[8] Les paiements de base pour les années d’imposition étaient les suivants :
+Année d’imposition
+Paiement de base
+1999
+14 643 226 $
+2000
+16 454 834 $
+2001
+14 673 344 $
+2002
+13 655 538 $
+[9] Je me reporterai à ces sommes, prises isolément, comme étant un « paiement de base » et prises collectivement, comme étant les « paiements de base ».
+[10] Le montant de ces paiements de base n’est pas controversé. L’appelante reconnaît que, dans la mesure où je conclus que les paiements de base sont déductibles dans le calcul de son revenu en application de la LIR, il y a une réduction correspondante des bénéfices modifiés relatifs à des ressources de l’appelante aux fins du calcul de la déduction relative aux ressources de l’appelante pour les années d’imposition en application de l’ancien l’alinéa 20(1)(v.1) de la LIR. Cette concession tient compte de la relation directe entre l’interdiction prévue par l’alinéa 18(1)m) et la déduction relative aux ressources prévue par l’ancien alinéa 20(1)(v.1)[1].
+[11] Les calculs détaillés effectués par l’appelante pour les années d’imposition en question figurent aux onglets 16 à 19 de la pièce AR-1. Mme Heal a expliqué que, pour chacune des années d’imposition, l’appelante a d’abord calculé sa dette fiscale aux fins de l’impôt sur les bénéfices pour l’année concernée. Pour ce faire, il a fallu que l’appelante calcule ses bénéfices de l’année conformément au PPTR[2]. L’appelante s’est également servie du calcul de ses bénéfices de l’année pour calculer le taux d’imposition conformément au paragraphe 5(3) de la PPTS.
+[12] L’appelante a produit ses déclarations de revenus fédérale (T2) pour les années d’imposition en partant du principe que les paiements de base et l’impôt sur les bénéfices qu’elle a versés pour ces années n’étaient pas déductibles dans le calcul de son revenu selon la LIR. À la suite de la publication de la décision Cogema Resources Inc. c. La Reine[3] rendue par la Cour canadienne de l’impôt, l’appelante a modifié sa position et a cherché à déduire les paiements de base. Il ne faut attacher aucune importance au fait que l’appelante a modifié sa position au sujet des paiements de base[4].
+III. Observations des parties A. Les observations de l’appelante [13] L’appelante soutient qu’elle est assujettie à un [traduction] « système complexe de taxes et redevances » qui s’applique à l’industrie des ressources de la Saskatchewan. Certaines de ces sommes sont déductibles dans le calcul du revenu en application de la LIR, et certaines sommes ne le sont pas.
+[14] L’appelante soutient que les paiements de base sont déductibles dans le calcul du revenu en application de la LIR parce que le paiement de base, qui est calculé conformément à l’article 5 de la PPTS, est engagé en vue de tirer ou de gagner un revenu, qu’il n’est pas fonction des bénéfices réalisés par l’appelante ni de la potasse produite, mais de la potasse vendue ou autrement aliénée.
+[15] Selon l’appelante, le paiement de base et l’impôt sur les bénéfices sont des éléments de passif distincts aux termes de la MTA. L’appelante renvoie à la jurisprudence Cogema en ce qui concerne la distinction à faire entre un impôt sur les ventes et un impôt sur la production, et soutient qu’il ressort du calcul du paiement de base qu’il s’agit d’un impôt sur les ventes de potasse, déductible du calcul du revenu aux termes de la LIR.
+[16] Plus précisément, le paiement de base pour une année donnée est calculé en appliquant un taux d’imposition à la quantité de potasse vendue ou autrement aliénée par l’appelante au cours de l’année. Le taux d’imposition est déterminé en divisant un pourcentage réglementaire des bénéfices de l’année de l’appelante par les tonnes de potasse vendue ou autrement aliénée par l’appelante au cours de l’année en question. Le taux d’imposition ne peut être inférieur au taux minimum réglementaire ou supérieur au taux maximum réglementaire. Les bénéfices de l’appelante ne sont donc pertinents qu’en ce qui a trait au taux d’imposition, et non quant au calcul du paiement de base.
+[17] Selon l’appelante, le paiement de base est accessoire à ses activités génératrices de revenus et le calcul du paiement de base indique qu’il est exigible, peu importe qu’elle réalise ou non des bénéfices. En outre, invoquant la jurisprudence Harrods (Buenos Aires), Ltd v Taylor-Gooby (H M Inspector of Taxes)[5], l’appelante affirme que ce paiement n’est donc pas un impôt sur le revenu. En revanche, l’impôt sur les bénéfices n’est exigible que si l’appelante réalise des bénéfices, et il s’apparente à l’impôt provincial sur les mines, examiné par la Cour d’appel de la Colombie-Britannique dans l’arrêt Teck.
+[18] L’appelante soutient que l’alinéa 18(1)m) de la LIR n’exclut pas la déduction des paiements de base. Elle renvoie aux paragraphes 15, 23 et 24 de l’arrêt Mobil à l’appui de sa thèse selon laquelle l’alinéa 18(1)m) s’applique si les deux conditions suivantes sont remplies :
+a. [traduction] Le paiement en cause est de la nature des paiements décrits au sous-alinéa 18(1)m)(ii), c’est-à-dire « à titre de redevance, de taxe [...], de loyer, de prime, ou à titre de somme [...] comme tenant lieu d’une telle somme »;
+b. Le paiement est lié à l’acquisition, à l’aménagement ou à la propriété d’un avoir minier canadien ou à la production au Canada de minerai[6].
+[19] L’appelante soutient que, vu le calcul du paiement de base, la deuxième condition n’est pas remplie parce que le paiement ne vise aucune des activités définies dans cette condition.
+[20] Premièrement, l’acquisition, l’aménagement ou la propriété d’un avoir minier canadien n’entraîne pas d’obligation à l’égard du paiement de base. Deuxièmement, la production de potasse à elle seule n’entraîne pas d’obligation à l’égard du paiement de base. C’est ce qui permet de distinguer le paiement de base de la redevance payable à la Saskatchewan sur l’ensemble de la potasse extraite, récupérée ou produite, découlant des baux consentis par la Saskatchewan.
+[21] Enfin, l’appelante soutient que, contrairement à la thèse soutenue par l’intimée, le libellé et l’effet du paragraphe 92A(4) de la Loi constitutionnelle de 1867 n’exigent pas que, si le paiement de base n’est pas un revenu ou un impôt sur les bénéfices, il doive être un impôt sur la production. Ce texte donne à la Saskatchewan le pouvoir d’adopter des lois sur le prélèvement de deniers par tous modes ou systèmes de taxation relatifs aux ressources naturelles non renouvelables. Ce pouvoir est libellé en termes généraux, et il existe plusieurs exemples d’impôts relatifs aux ressources naturelles non renouvelables prélevés par la Saskatchewan qui ne font partie d’aucune des deux catégories proposées par l’intimée.
+B. Les observations de l’intimée [22] L’intimée soutient que l’historique de la fiscalisation des ressources au Canada et en Saskatchewan constitue un contexte important quant à l’interprétation de la MTA. Avant 1982, les provinces n’avaient que deux méthodes de prélèvement de deniers tirés des ressources naturelles dans la province, soit les redevances sur la production provenant des ressources dans lesquelles la province avait un droit de propriété et le prélèvement d’impôts « directs » sur les producteurs dans la province. En 1982, le paragraphe 92A(4) a été ajouté à la Loi constitutionnelle de 1867 afin d’habiliter chaque province à fiscaliser indirectement la production de ressources dans la province. L’intimée soutient que la Saskatchewan a adopté la PPTS en vue d’imposer l’ensemble de la potasse produite sur son territoire.
+[23] Avant le 6 mai 1974, un payeur pouvait déduire dans le calcul de son revenu, en application de la LIR, une redevance versée à une province, mais ne pouvait pas déduire un revenu ou un impôt sur les bénéfices versé à une province. En vue de protéger l’assiette fiscale fédérale, l’alinéa 18(1)m) de la LIR a été adopté le 6 mai 1974 afin de refuser la déduction dans le calcul du revenu de l’ensemble des redevances provinciales et des impôts provinciaux relatifs à la production des ressources.
+[24] Invoquant l’article 4 de la MTA, l’intimée soutient que la MTA impose une [traduction] « taxe à la production de minéraux » sur la « production ou la vente, ou encore une autre forme d’aliénation de chaque minerai faisant l’objet d’une annexe, produit en Saskatchewan ». Conformément au paragraphe 2(3) de la MTA, l’utilisation ou la consommation d’un minerai faisant l’objet d’une annexe, comme la potasse, est réputée être une vente ou une autre forme d’aliénation de ce minerai.
+[25] La PPTS et le PPTR exposent en détail la façon dont le paiement de base et l’impôt sur les bénéfices sont appliqués et calculés. L’intimée résume ainsi les dispositions pertinentes :
+a. Le paragraphe 3(1) de la PPTS applique les taxes à la production de minéraux imposées par la MTA à l’ensemble de la potasse produite à partir des terres de la Saskatchewan, et qui est vendue ou autrement aliénée à partir du 1er janvier 1990.
+b. Le paragraphe 3(2) de la PPTS dispose que chaque producteur est responsable des taxes à la production de minéraux imposées par la MTA sur la vente ou autre forme d’aliénation de la potasse produite à partir de la mine ou des mines à l’égard desquelles cette personne est un producteur.
+c. Aux alinéas 2a) et d) de la PPTS, les mots [traduction] « mine » et [traduction] « producteur » sont définis. Le mot [traduction] « mine » vise toute ouverture ou excavation des sols de la Saskatchewan à partir desquels la potasse est produite ou est en mesure d’être produite. Le mot [traduction] « producteur » s’entend d’une personne qui a le droit de produire, de vendre ou de disposer autrement de la potasse provenant d’une mine, que cette personne le fasse elle-même ou le fasse faire par une autre personne.
+d. Selon l’alinéa 2(1)x) du PPTR, le mot [traduction] « aliénation » s’entend : i) d’une opération ou d’un événement à l’égard d’un actif qui donne droit au producteur au produit de l’aliénation; ii) d’un transfert d’un actif sous forme de donation; ou iii) de l’enlèvement d’un actif d’une mine, autre que temporairement, pour quelque motif que ce soit.
+e. À l’alinéa 2(1)mm) du PPTR l’expression [traduction] « produit de disposition » est définie dans le sens de la juste valeur marchande de l’actif aliéné dans des circonstances précises, comme dans le cas de l’aliénation, par le producteur, en faveur de personnes ayant un lien de dépendance.
+f. Le paragraphe 2(2) du PPTR dispose que le mot [traduction] « produit » vise la matière extraite du sol et comprend le mot [traduction] « traité » au sens de l’alinéa 2(1)yy), et entreposé et expédié en Saskatchewan ou à l’extérieur de la Saskatchewan, sous réserve de l’autorisation écrite préalable du ministre (au sens de l’alinéa 2(1)h) de la MTA).
+[26] Selon l’intimée, le paiement de base et l’impôt sur les bénéfices sont créés aux termes des mêmes dispositions habilitantes de la MTA. Elle note également que l’article 4 de la PPTS dispose que les [traduction] « taxes à la production de minéraux » imposées par la MTA englobent le paiement de base et l’impôt sur les bénéfices. Le paiement de base est un impôt établi sur 35 % des bénéfices réalisés par le producteur sur la potasse, sous réserve d’une somme minimale et maximale, et n’est versé qu’après la vente ou autre forme d’aliénation de la potasse. Par conséquent, le processus de production de revenu est terminé avant que le paiement de base ne devienne payable par l’appelante.
+[27] L’intimée renvoie aux arrêts Roenisch v M.N.R.[7], First Pioneer Petroleums Ltd c. M.R.N.[8] et Munich Reinsurance Co. (Canada Branch) c. La Reine[9] pour faire valoir que l’alinéa 18(1)a) de la LIR interdit la déduction d’impôt sur le revenu ou d’impôt sur les bénéfices dans le calcul du revenu en application de la LIR, citant les arrêts Quemont Mining Corp v M.N.R.[10], Nickel Rim Mines Ltd v Ontario (Attorney General)[11] et Teck pour soutenir que ce principe s’applique à l’impôt provincial sur les mines, calculé en fonction du revenu ou des bénéfices.
+[28] L’intimée invoque l’arrêt Teck pour soutenir en outre que le législateur n’a pas à calculer le revenu de manière précise pour qu’une taxe soit un impôt sur le revenu. Elle renvoie également à l’arrêt Quemont à l’appui de la thèse selon laquelle une taxe peut être un revenu ou un impôt sur les bénéfices, même si elle est fondée sur une estimation des bénéfices.
+[29] Selon l’intimée, l’appelante commet une erreur en qualifiant le paiement de base d’impôt sur les ventes. La taxe sur les ventes est payée par l’acheteur d’un produit, tandis que le paiement de base est un impôt direct sur le producteur de la potasse en Saskatchewan.
+[30] L’intimée soutient que, même si le paiement de base n’est pas un revenu ou un impôt sur les bénéfices, l’alinéa 18(1)m) de la LIR interdit la déduction du paiement de base dans le calcul du revenu. Elle fait valoir que l’application de l’alinéa 18(1)m) au paiement de base est conforme au texte, au contexte et à l’objet de la disposition.
+[31] Elle soutient en outre que la jurisprudence Cogema ne s’applique pas, car le régime législatif examiné dans cette affaire est différent du régime de la MTA. Plus précisément, le régime examiné dans la décision Cogema ne s’appliquait qu’aux ventes d’uranium, tandis que le régime de la MTA s’applique à l’ensemble de la potasse produite en Saskatchewan, qui est vendue ou autrement disposée, et qui comprend la potasse utilisée ou consommée par le producteur.
+IV. Dispositions législatives A. Les dispositions pertinentes de la LIR [32] Les dispositions de la LIR applicables à la question soulevée dans le présent appel sont reproduites dans la section « Analyse » des présents motifs.
+B. Les dispositions pertinentes de la MTA [33] Les dispositions de la MTA applicables à la question soulevée dans le présent appel sont reproduites à l’annexe B des présents motifs.
+V. Analyse [34] L’appelante fait valoir que les paiements de base sont déductibles dans le calcul de son revenu aux termes du paragraphe 9(1) de la LIR, et que les alinéas 18(1)a) et 18(1)m) de la LIR ne s’appliquent pas aux paiements de base. L’intimée soutient que les paiements de base ne sont pas déductibles dans le calcul du revenu parce que l’un ou l’autre des alinéas 18(1)a) ou 18(1)m) de la LIR, ou les deux à la fois s’appliquent aux paiements de base. J’examinerai donc chacune de ces dispositions de la LIR.
+A. La déduction des dépenses d’entreprise prévue au paragraphe 9(1) et à l’alinéa 18(1)a) de la LIR [35] Le paragraphe 9(1) dispose de ce qui suit :
+9(1) Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+[36] L’alinéa 18(1)a) est ainsi libellé :
+18(1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien[.]
+[37] Dans l’arrêt Symes c. Canada[12], la Cour suprême du Canada a confirmé que, étant donné que le concept de bénéfice est en soi un résultat net, le paragraphe 9(1) autorise la déduction des dépenses d’entreprise, tandis que le paragraphe 18(1) est limitatif seulement. Le juge Iacobucci, s’exprimant au nom de la majorité, a observé :
+En d’autres termes, le concept de « bénéfice » au par. 9(1) est en soi un résultat net qui présuppose des déductions de dépenses d’entreprise. Il est maintenant généralement reconnu que c’est le par. 9(1) qui autorise la déduction des dépenses d’entreprise; le par. 18(1) est limitatif seulement[13].
+[38] Le juge Iacobucci examine ainsi la relation entre le paragraphe 9(1) et l’alinéa 18(1)a) :
+[...] [l]es principes bien reconnus de la pratique courante des affaires visés au par. 9(1) auraient généralement pour effet d’interdire la déduction de dépenses qui n’ont pas pour objet de gagner un revenu ou qui sont des dépenses personnelles, de la même façon que les al. 18(1)a) et h) visent expressément à interdire de telles déductions. Pour ce motif, il est artificiel de dire qu’il faut tout d’abord examiner le par. 9(1) pour déterminer si une déduction est autorisée, et que l’on peut ensuite se fonder sur le par. 18(1) pour procéder à une autre analyse [. . .] .
+En conséquence, bien que les al. 18(1)a) et h) puissent, sur le plan analytique, simplement reprendre ou confirmer les interdictions déjà comprises dans le par. 9(1), ils peuvent servir à renforcer le point déjà mentionné, savoir que le critère visé au par. 9(1) est un critère juridique plutôt qu’un critère comptable. En outre, ces alinéas résument d’une façon utile ce qui pourrait par ailleurs constituer des principes abstraits de la pratique commerciale [. . .].
+Il n’y a pas de doute que, dans certains cas, le par. 9(1) s’appliquera isolément pour l’examen de déductions conformément aux principes bien reconnus de la pratique courante des affaires. À cet égard, je renvoie à des arrêts, également mentionnés par le juge de première instance, dans lesquels la véritable question était de savoir si une méthode comptable particulière pouvait servir à éviter l’assujettissement à l’impôt [. . .] . Cependant, dans d’autres cas, comme en l’espèce, la véritable question est de savoir si une déduction est interdite par les principes bien reconnus de la pratique courante des affaires au motif que la dépense en question n’a pas été engagée en vue de tirer un revenu ou au motif que la dépense constitue des frais personnels ou des frais de subsistance. Dans ces cas, l’examen de la question confondra nécessairement le par. 9(1) et les al. 18(1)a) et h)[14].
+[39] Selon une jurisprudence constant, le montant de l’impôt exigé sur le revenu d’un contribuable n’est pas déductible dans le calcul du revenu de ce contribuable en vertu de la LIR. Dans l’arrêt Munich Reinsurance, la juge Sharlow a ainsi formulé ce principe :
+Au soutien de cette proposition, l’appelante renvoie au principe bien établi selon lequel le paiement d’impôt sur le revenu n’est pas une dépense faite dans le but de tirer un revenu, parce qu’il s’agit d’une dépense faite à l’aide d’un revenu déjà gagné : Roenisch c. M.N.R., [1931] R.C.É. 1 1, [1931] 2 D.L.R. 90, 1 D.T.C. 199, First Pioneer Petroleums Ltd. c. M.R.N [1974] C.T.C. 108, 74 D.T.C. 6109, 43 D.L.R. (3d) 722 (C.F. 1re inst.). Ce principe ne saurait être contesté [. . .][15].
+[Caractères gras et soulignement ajoutés.]
+[40] Une dépense de revenu établie au cours d’une période d’imposition ne peut pas être engagée dans le cadre du processus de production de ce revenu et, par conséquent, va à l’encontre et de la règle de la déductibilité générale prévue au paragraphe 9(1) et de l’interdiction énoncée à l’alinéa 18(1)a).
+[41] Les impôts provinciaux sur le revenu établis par des provinces[16] participantes constituent un exemple particulièrement clair de l’application de ce principe, car ces provinces partent du revenu imposable en application de la LIR, puis appliquent leurs propres règles à l’imposition de cette somme. Par conséquent, il ne fait aucun doute que l’assujettissement à l’impôt provincial suit le processus de production de revenu pour la période d’imposition, et constitue donc une dépense de revenu déjà déterminée pour cette période[17].
+[42] Toutefois, tandis que l’impôt sur le revenu est un bon exemple de punction fiscale qui n’est pas imposée dans le cadre du processus de production de revenu, mais après ce processus, la détermination de la déductibilité d’une dépense qui est assimilable à une punction fiscale ne repose pas sur la qualification de cette dépense comme impôt sur le revenu, mais sur la question plus fondamentale – énoncée à l’alinéa 18(1)a) de la LIR – de savoir si la dépense a été faite ou engagée en vue de tirer un revenu d’une entreprise ou d’un bien.
+[43] Ce principe général a été clairement formulé par la juge Sharlow dans le passage de l’arrêt Munich Reinsurance reproduit ci-dessus. Le juge Sharlow renvoie à une décision de principe de la Cour de l’Échiquier du Canada, Roenisch, dans laquelle le juge Audette dit :
+[TRADUCTION]
+Il va de soi que le montant d’impôt sur le revenu payé à la province ne constitue pas une dépense engagée en vue de tirer un revenu au sens de l’alinéa 6a) [la première version de l’alinéa 18(1)a) de la LIR]. Lorsqu’un tel paiement d’impôts est fait à la province, il ne l’est pas pour gagner un revenu, mais parce qu’un revenu indique que des gains et des bénéfices ont été réalisés[18].
+[Caractères gras ajoutés.]
+[44] En ce qui concerne l’affaire Teck, l’appelante faisait valoir que l’impôt provincial sur les mines était de la nature d’une redevance, et qu’il était donc déductible à titre de dépense engagée dans le but de tirer un gain ou un revenu. La Couronne soutenait que les impôts miniers constituaient un impôt sur le revenu, et qu’une contribution de nature fiscale n’était pas une dépense engagée dans le but de tirer un revenu. Le juge Lowry de la Cour suprême de la Colombie-Britannique et la juge Levine, s’exprimant au nom de la Cour d’appel de la Colombie-Britannique, ont tous deux partagé l’avis de la Couronne.
+[45] Parce que les thèses respectives de l’appelante et de la Couronne portaient sur la qualification des impôts miniers en question, la juge Levine a examiné la qualification juridique correcte de ces impôts[19], et a conclu qu’il s’agissait d’impôts sur le revenu[20]. La juge Levine a alors déclaré ce qui suit :
+[TRADUCTION]
+Par conséquent, je conclus que l’impôt provincial supplémentaire sur les mines constitue de l’impôt sur le revenu qui, conformément au libellé des différentes versions de la loi fédérale et de la jurisprudence, n’était pas déductible dans le calcul du revenu aux termes de l’alinéa 18(1)a) de la loi fédérale parce qu’il ne constituait pas une dépense engagée en vue de tirer un revenu[21].
+[Caractères gras et soulignement ajoutés.]
+[46] Compte tenu de ce qui précède, la question à examiner est de savoir si, comme l’exigent implicitement le paragraphe 9(1) et explicitement l’alinéa 18(1)a) de la LIR, les paiements de base ont été engagés par l’appelante en vue de tirer un revenu de ses activités d’extraction, de production et de vente de potasse. Pour ce faire, il y a lieu de tenir compte des dispositions de la MTA relatives à l’obligation de l’appelante à l’égard des paiements de base. Ces dispositions sont reproduites à l’annexe B.
+[47] Par souci de commodité, je reproduirai ici les principales dispositions d’imposition de la MTA. Les alinéas 2(1)e), k), l) et m), les paragraphes 2(2) et 2(3) et les articles 4 et 5 de la MTA sont ainsi libellés :
+[TRADUCTION]
+Interprétation
+2(1) Les définitions qui suivent s’appliquent à la présente loi :
+[. . .]
+e) « taxe à la production de minéraux » taxe imposée par la présente loi sur la production ou la vente ou encore une autre forme d’aliénation[22] d’un minerai faisant l’objet d’une annexe;
+[. . .]
+k) réglementaire » prescrit par règlement;
+l) « annexe » annexe à la présente loi;
+m) « minerai faisant l’objet d’une annexe » minerai à l’égard duquel une annexe à la présente loi a été adoptée;
+[. . .]
+(2) Les mots ou expressions employés dans la présente loi, mais sans y être définis, peuvent être définis dans la réglementation.
+(3) L’utilisation ou la consommation d’un minerai faisant l’objet d’une annexe par une personne tenue de payer les taxes à la production de minéraux imposées par la présente loi sur la production ou la vente ou encore une autre forme d’aliénation de ce minerai est réputée être une vente ou une autre forme d’aliénation de ce minerai.
+[. . .]
+Taxes à la production de minéraux
+4 Une taxe est par les présentes imposée sur la production ou la vente ou encore une autre forme d’aliénation de chaque minerai faisant l’objet d’une annexe, produit en Saskatchewan.
+Calcul et paiement des taxes
+5 Les taxes à la production de minéraux imposées par la présente loi sur la production ou la vente ou encore une autre forme d’aliénation d’un minerai faisant l’objet d’une annexe doivent être prélevées, calculées et versées de la manière et aux moments exigés aux termes de l’annexe adoptée à l’égard de ce minerai.
+[48] L’article 4 de la MTA crée une taxe sur la « production ou la vente ou encore une autre forme d’aliénation d’un » minerai faisant l’objet d’une annexe, produit en Saskatchewan, et une telle taxe est définie à l’alinéa 2(1)e) de la MTA comme une « taxe à la production de minéraux ».
+[49] L’expression « ou la vente ou encore une autre forme d’aliénation » ne figurait pas dans la MTA au moment de son adoption en 1983, mais a été ajoutée dans le cadre des modifications de la MTAA 1989, lesquelles ont été ajoutées à la deuxième annexe à la MTA, qui impose le chlorure de sodium, et à la PTTS, qui impose la potasse. Conformément aux règles de grammaire, l’emploi du mot « ou » précédant le mot « vente » et le fait que le mot « production » existait de façon indépendante indiquent que l’expression « vente ou autre forme d’aliénation » vise à décrire les événements qui font suite à la production.
+[50] Aux termes de la PPTS, l’application du paiement de base et de l’impôt sur les bénéfices sont conditionnels à deux événements : la production de potasse suivie par la vente ou autre forme d’aliénation de la potasse[23].
+[51] Selon l’ECPF, la production de potasse prend fin après qu’eut été écrasé, haché, séché, compacté et cristallisé le minerai extrait des mines de la Saskatchewan. L’appelante produit l’ensemble de sa potasse dans le but de la vendre.
+[52] Par contraste, la première annexe à la MTA applique les « taxes à la production de minéraux » prévues par l’article 4 de la MTA à la production de l’ensemble du charbon en tenure franche produit en Saskatchewan à partir du 1er janvier 1984[24], puis calcule cette taxe en multipliant, par un taux d’imposition, la valeur nette du charbon en tenure franche provenant d’une mine, qui est [traduction] « vendu, utilisé, consommé ou autrement aliéné »[25].
+[53] Malgré les différences sémantiques entre les dispositions d’imposition du charbon et les dispositions d’imposition du chlorure de sodium et de la potasse, dans chacune des annexes de la MTA, une taxe sur la vente, l’utilisation, la consommation ou une autre forme d’aliénation d’un minerai provenant d’une mine de la Saskatchewan est imposée.
+[54] L’article 4 de la PPTS dispose que les taxes à la production de minéraux imposées par l’article 4 de la MTA « sur la vente ou une autre forme d’aliénation de la potasse » consistent en un paiement de base calculé conformément à l’article 5 de la PPTS ainsi qu’un impôt sur les bénéfices calculé conformément à l’article 6 de la PPTS.
+[55] Aux termes du paragraphe 5(2) de la PPTS, le paiement de base pour une année donnée est calculé en multipliant la quantité de potasse vendue ou autrement aliénée par le producteur au cours de l’année (exprimée en tonnes) par un taux d’imposition qui ne peut être supérieur au taux maximum réglementaire[26] ou inférieur au taux minimum réglementaire[27], puis en déduisant l’ensemble des déductions, des indemnités et des crédits applicables prévus[28] dans la PPTS.
+[56] Aux termes du paragraphe 5(3) de la PPTS, le taux d’imposition calculé (R) est exprimé en dollars par tonne de potasse vendue ou autrement aliénée, et est égal à un pourcentage réglementaire[29] des bénéfices du producteur pour l’année (P), exprimé en dollars et divisé par la quantité de tonnes de potasse vendue ou autrement aliénée par le producteur au cours de cette année-là (Q).
+[57] Les lettres « P », « Q » et « R » sont définies au paragraphe 5(1) de la PPTS. La définition de la lettre « R » contenue à l’alinéa 5(1)c) de la PPTS n’est pas logique parce que le sous-alinéa 5(2)a)(i) renvoie non seulement au taux d’imposition calculé conformément au paragraphe 5(3), mais également aux taux d’imposition maximum et minimum prévus aux paragraphes 5(4) et 5(5). Cette anomalie ne change en rien mon analyse de la PPTS.
+[58] Selon Mme Heal et tel qu’il ressort des onglets 16 à 19 de la pièce AR-1, l’appelante a calculé le taux d’imposition prévu au paragraphe 5(3) de la PPTS en ne tenant pas compte des taux d’imposition maximum et minimum, puis elle a déterminé si les taux maximum et minimum établis aux paragraphes 5(4) et 5(5) remplaçaient le taux d’imposition calculé. Le fait que l’appelante a déterminé le taux d’imposition calculé conformément au paragraphe 5(3) de la PPTS pour chacune des années d’imposition n’est pas en cause.
+[59] Le taux d’imposition qui s’appliquait au calcul du paiement de base au cours de chacune des années d’imposition était le taux maximum prévu par le paragraphe 5(4) de la PPTS et à l’article 13 du PPTR[30]. Je remarque toutefois que, si le taux d’imposition calculé conformément au paragraphe 5(3) de la PPTS s’était appliqué, le paiement de base équivaudrait en fait à 35 % des bénéfices moins les déductions, les indemnités et les crédits autorisés[31].
+[60] Aux termes des paragraphes 5(4) et 5(5) de la PPTS et des articles 13 et 14 du PPTR, les taux d’imposition maximum et minimum sont de 12,33 $ et de 11 $ la tonne, respectivement.
+[61] L’article 5 de la PPTS ne précise pas la façon dont les bénéfices d’un producteur sont déterminés aux fins du calcul effectué aux termes des paragraphes 5(1) à 5(5). Cependant, le sous-alinéa 6(1)a)(i) précise que les bénéfices réalisés sur une période d’un an doivent être calculés conformément au PPTR.
+[62] Si l’on tient compte du contexte de l’article 5 de la PPTS et de la règle d’interprétation prévue par le paragraphe 2(2) de la MTA, l’interprétation la plus sensée est que le législateur de la Saskatchewan a voulu que les bénéfices mentionnés à l’article 5 de la PPTS soient les mêmes que ceux que l’appelante a déterminés conformément au PPTR pour l’application de l’article 6 de la PPTS. Dans son témoignage, Mme Heal a déclaré qu’il s’agissait de la méthode de calcul adoptée par l’appelante.
+[63] Deux des trois éléments[32] servant à calculer le montant d’un paiement de base d’un producteur pour une année sont la quantité de potasse vendue ou autrement aliénée par le producteur au cours d’une année et le taux d’imposition exprimé en dollars par tonne pour l’année. Conformément au paragraphe 2(3) de la MTA, le premier élément comprend non seulement la potasse vendue ou autrement aliénée par le producteur, mais également la potasse utilisée ou consommée par le producteur. Le paragraphe 2(3) garantit que l’expression [traduction] « vendue ou autrement aliénée » englobe toutes les façons dont le producteur traite la potasse extraite et produite en Saskatchewan.
+[64] Pour calculer le montant d’un paiement de base pour une année, le producteur doit d’abord calculer les bénéfices qu’il a réalisés au cours de cette année-là conformément au PPTR. Il en est ainsi parce qu’il n’est pas possible de déterminer le taux d’imposition applicable aux termes du sous-alinéa 5(2)a)(i) de la PPTS, sans au préalable déterminer le taux d’imposition calculé conformément au paragraphe 5(3) de la PPTS. La lettre « P » de la formule utilisée au paragraphe 5(3) désigne [traduction] « le montant en dollars égal au pourcentage réglementaire des bénéfices du producteur pour une année ». Si le producteur n’a réalisé aucun bénéfice sur une période d’un an, le taux d’imposition calculé conformément au paragraphe 5(3) de la PPTS est également nul et le taux d’imposition minimum prévu au paragraphe 5(5) de la PPTS s’applique.
+[65] La responsabilité à l’égard du paiement de base n’existe que relativement à la potasse qui a été [traduction] « vendue ou autrement aliénée » par le producteur, y compris son utilisation ou sa consommation par ce dernier. Cette potasse n’est plus comprise dans les stocks du producteur, qui n’est donc plus en mesure d’en tirer un revenu.
+[66] À mon avis, il ressort de ces deux aspects du paiement de base que le paiement de base ne prend naissance qu’après la fin du processus de production de revenu du producteur relativement à la potasse dont le paiement de base est assujetti à l’impôt. Il en va de même pour l’impôt établi aux termes de la première et de la deuxième annexe de la MTA.
+[67] Plus précisément, il doit y avoir un événement déclencheur (la vente ou une autre forme d’aliénation de la potasse) pour que la responsabilité à l’égard du paiement de base prenne naissance. Par conséquent, le paiement de base ne représente pas une somme versée à la Saskatchewan par un producteur en vue de tirer un revenu de la potasse extraite en Saskatchewan, parce que l’assujettissement à l’impôt n’est ni un préalable ni une exigence à la production d’un revenu d’extraction et de production de potasse en Saskatchewan. Il s’agit plutôt d’une obligation envers la Saskatchewan, qui prend naissance après que le producteur eut utilisé la potasse en la vendant ou en en disposant autrement.
+[68] Ce point est illustré par le fait que la potasse extraite et produite en Saskatchewan, qui est entreposée par le producteur en vue de la vendre ou d’en disposer autrement au cours d’une année future, n’est pas assujettie aux taxes à la production de minéraux imposées par la MTA et la PPTS jusqu’à cette année future. L’assujettissement à la taxe à la production de minéraux sur la potasse suit clairement la production de revenu provenant de l’extraction et de la production de potasse, sans y contribuer.
+[69] En fonction de la structure générale de la MTA et de la PPTS, il est raisonnable de conclure que le paiement de base est imposé sur la quantité de potasse vendue ou aliénée au cours d’une année, plutôt que sur les bénéfices réalisés au cours de cette année-là et ce, afin de garantir que le producteur paie le moins d’impôt possible sur la potasse extraite en Saskatchewan, qu’il a vendue ou aliénée. Par conséquent, le fait qu’aucun bénéfice n’ait été réalisé sur une période d’un an n’a aucune incidence sur la question de savoir si le producteur est responsable du paiement base à l’égard de cette année-là.
+[70] Le paiement de base est établi en fonction de la quantité de potasse, mais cela n’exclut pas que ce paiement constitue un impôt sur le revenu. Comme la juge Levine l’a dit dans l’arrêt Teck :
+[TRADUCTION]
+49 Comme Lord Macnaghten l’a mentionné dans l’arrêt London County Council v. Attorney-General, [1901] A.C. 26 à 35, “l’impôt sur le revenu, on me pardonnera de le dire, est un impôt sur le revenu”. Dans cette affaire, la question en litige était de savoir si une taxe constituait un impôt sur le revenu, même si elle avait été imposée sur la valeur annuelle du terrain. Lord Davey a fait remarquer ce qui suit (à la page 45) :
+En vérité, l’impôt sur le revenu se veut une taxe imposée sur le revenu ou les bénéfices annuels d’une personne, et bien (pour des raisons valables et certaines bonnes) qu’elle soit imposée à l’égard de la valeur annuelle d’un terrain, cet arrangement n’est que le moyen ou le mécanisme que le législateur a conçu pour établir les bénéfices.
+50 Le fait que le revenu, calculé selon les lois provinciales sur les mines, ne tienne pas compte du fait qu’il est calculé conformément à la loi fédérale n’a aucune incidence sur la qualification des impôts miniers comme étant des impôts sur le revenu. [. . .] [33].
+[71] Aux termes du PPTR, le paiement de base est un impôt établi sur une estimation de la valeur que la potasse vendue ou autrement aliénée par le producteur a ajouté à son entreprise et qui s’applique même si le producteur ne réalise pas de profits au cours de l’année. Dans l’arrêt Teck, la juge Levine a fait remarquer ce qui suit :
+[TRADUCTION]
+39 Dans son analyse des impôts miniers du Québec [dans l’arrêt Quemont, conf. par Rio Algom Mines Limited c. Ministre du Revenu national [1970] RCS 511], le juge Cattanach a dit que la formule établie par la loi pour calculer les “bénéfices” comprenait la “valeur brute” du minerai qui avait été “vendu, utilisé ou expédié”, de sorte qu’une partie des bénéfices n’ont peut-être pas été réalisés. Se fondant sur un arrêt de la Cour d’appel de l’Ontario, Nickel Rim Mines Ltd. v. Ontario (Attorney General) (1965), [1966] 1 O.R. 345 (C.A. Ont.), dans lequel le juge en chef Porter a déclaré (à la page 363) : “Bien qu’une partie de l’impôt puisse être établi sur les bénéfices estimés avant la vente réelle, je ne crois pas que la nature de l’impôt soit ainsi touchée [. . .] ”, le juge Cattanach a conclu qu’un impôt sur les bénéfices réalisés et estimés constituait un impôt sur le revenu[34].
+[72] Je conclus également que, selon le régime de la MTA et de la PPTS, le paiement de base et l’impôt sur les bénéfices sont des impôts sur le revenu d’un producteur, provenant de la vente ou d’autres formes d’aliénation de la potasse extraite en Saskatchewan. Le législateur de la Saskatchewan a simplement choisi, dans le cas du paiement de base, de remplacer la quantité de potasse comme indicateur de revenu pour s’assurer qu’un montant minimum d’impôt serait perçu relativement à cette potasse, même si le producteur n’a pas réalisé de bénéfices au cours de l’année, en conformité avec le PPTR[35].
+[73] Même si le paiement de base n’est pas un impôt sur le revenu ou un bénéfice à ce titre, cela ne change rien au fait que le paiement de base n’a pas pour objet, pour l’appelante, de tirer un revenu de ses activités minières de potasse. Il constitue plutôt un impôt qui n’est appliqué que suite à la fin du processus de production d’un revenu tiré de cette activité. Comme je l’ai déjà mentionné, cette conclusion est amplement étayée par le fait que le paiement de base ne s’applique qu’après que l’appelante a vendu ou autrement aliéné la potasse, par le fait que les bénéfices réalisés par l’appelante au cours d’une année d’imposition provenant des mêmes ventes ou des autres mêmes formes d’aliénation de la potasse doivent être calculés avant que le paiement de base ne soit calculé pour cette année-là et également par le fait que le paiement de base n’est pas conditionnel à l’extraction de la potasse en Saskatchewan ou à la production, à la vente ou à la disposition de cette potasse.
+B. L’interdiction prévue par l’alinéa 18(1)m) de la LIR [74] Vu la conclusion qui précède, il n’est pas nécessaire d’examiner l’interdiction énoncée à l’alinéa 18(1)m) de la LIR. Toutefois, par souci d’exhaustivité, j’examinerai ce texte.
+[75] Deux versions de l’alinéa 18(1)m) sont pertinentes quant aux années d’imposition. En ce qui concerne les sommes devenues exigibles au plus tard le 20 décembre 2002, l’alinéa 18(1)m) de la LIR est ainsi rédigé :
+18(1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+[. . .]
+m) toute somme (autre qu’une somme prescrite) payée ou payable en vertu d’une obligation imposée par une loi ou d’une obligation contractuelle remplaçant une obligation imposée par une loi :
+(i) à Sa Majesté du chef du Canada ou d’une province,
+(ii) à un mandataire de Sa Majesté du chef du Canada ou d’une province,
+(iii) à une société, une commission ou une association contrôlée par Sa Majesté du chef du Canada ou d’une province ou par un mandataire de Sa Majesté du chef du Canada ou d’une province,
+à titre de redevance, de taxe (autre qu’une taxe ou fraction de taxe qu’il est raisonnable de considérer comme une taxe municipale ou scolaire), de loyer ou de prime, ou à titre de somme, quelle que soit la façon dont elle est désignée, qu’il est raisonnable de considérer comme tenant lieu d’une telle somme, qu’il est raisonnable de considérer comme rattachée :
+(iv) soit à l’acquisition, à l’aménagement ou à la propriété d’un avoir minier canadien,
+(v) soit à la production au Canada [...] :
+(A) pétrole, gaz naturel ou hydrocarbures connexes, tirés d’un gisement naturel de pétrole ou de gaz naturel (sauf une ressource minérale) ou d’un puits de pétrole ou de gaz, situés au Canada,
+(B) soufre tiré d’un gisement naturel de pétrole ou de gaz naturel, d’un puits de pétrole ou de gaz naturel ou d’une ressource minérale, situés au Canada,
+(C) métaux, minéraux (sauf le fer, le pétrole et les hydrocarbures connexes) ou charbon tirés de ressources minérales situées au Canada, jusqu’à un stade qui ne dépasse pas celui du métal primaire ou son équivalent,
+(D) fer tiré de ressources minérales situées au Canada, jusqu’à un stade qui ne dépasse pas celui de la boulette ou son équivalent,
+(E) pétrole ou hydrocarbures connexes extraits de sables asphaltiques, tirés de ressources minérales situées au Canada, jusqu’à un stade qui ne dépasse pas celui du pétrole brute ou son équivalent [.]
+[76] En ce qui concerne les sommes devenues exigibles après le 20 décembre 2002, l’alinéa 18(1)m) de la LIR est ainsi rédigé :
+18(1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+[. . .]
+m) toute somme (autre qu’une somme prescrite) payée ou payable [au cours d’une année] :
+(A) à Sa Majesté du chef du Canada ou d’une province,
+(B) à un mandataire de Sa Majesté du chef du Canada ou d’une province,
+(C) à une société, une commission ou une association contrôlée par Sa Majesté du chef du Canada ou d’une province ou par un mandataire de Sa Majesté du chef du Canada ou d’une province,
+(ii) [...] qu’il est raisonnable de considérer comme une redevance, une taxe – sauf une taxe ou une fraction de taxe qu’il est raisonnable de considérer comme une taxe municipale ou scolaire –, un loyer ou une prime, peu importe sa désignation, ou comme se rapportant à la réception tardive ou à la non-réception d’une telle somme, rattaché :
+(A) soit à l’acquisition, à l’aménagement ou à la propriété d’un avoir minier canadien de la société,
+(B) soit à la production au Canada :
+(l) de pétrole, de gaz naturel ou d’hydrocarbures connexes extraits d’un gisement naturel de pétrole ou de gaz naturel, sauf une ressource minérale, ou d’un puits de pétrole ou de gaz, situés au Canada [...],
+(II) de soufre extrait d’un gisement naturel de pétrole ou de gaz naturel, d’un puits de pétrole ou de gaz ou d’une ressource minérale, situés au Canada [...],
+(III) de métaux, de minéraux – sauf le fer, le pétrole et les hydrocarbures connexes – ou de charbon extraits d’une ressource minérale située au Canada [...],
+(IV) de fer extrait d’une ressource minérale située au Canada [...], jusqu’à un stade qui ne dépasse pas celui de la boulette ou son équivalent,
+(V) de pétrole ou hydrocarbures connexes extraits d’un gisement de sables bitumineux ou de schistes bitumineux situé au Canada [...][36].
+[77] Les parties se sont concentrées sur la première version de l’alinéa18(1)m), sans doute parce que la deuxième version (la plus récente) ne s’applique qu’aux 10 derniers jours de 2002. Je me concentrerai également sur la première version de l’alinéa 18(1)m). Je remarque toutefois qu’à première vue, la deuxième version a une portée plus large que la première[37].
+[78] Il n’est pas controversé entre les parties que les paiements de base constituent chacun une taxe imposée par une loi, qui est versée par l’appelante à Sa Majesté du chef de la Saskatchewan. Par conséquent, la seule question qui se pose est de savoir si les paiements de base [traduction] « peuvent raisonnablement être considérés comme rattachés à » l’acquisition, à l’aménagement ou à la propriété d’un avoir minier canadien, ou à la production au Canada de minerai, jusqu’à un stade qui ne dépasse pas celui du métal primaire ou son équivalent, extrait d’une ressource minérale située au Canada[38].
+[79] L’appelante se fonde sur la jurisprudence Cogema pour soutenir que le paiement de base exigé par la PPTS est un impôt relatif aux ventes, et non pas un impôt relatif à la production. Je suis d’avis que le paiement de base n’est pas une taxe sur les ventes dans le sens où on l’entend généralement, et qu’il constitue un impôt sur les ventes ou la disposition de potasse d’un producteur, plutôt qu’une taxe sur le consommateur de cette potasse. De plus, l’idée selon laquelle le paiement de base est une taxe sur les ventes n’est d’aucune utilité parce que plusieurs entreprises génèrent leur revenu de la vente de leurs produits, de sorte que la qualification n’aide pas à évaluer la nature juridique du paiement de base. Par exemple, un impôt sur le revenu brut tiré de la vente de biens ou de services pourrait être décrit comme un impôt sur les ventes.
+[80] Même si je retenais l’idée portant que qualifier le paiement de base de taxe sur les ventes est pertinent pour déterminer sa nature juridique, ce qui est une question de droit[39], la jurisprudence Cogema n’est d’aucun secours pour l’appelante parce qu’elle porte sur un régime législatif différent axé uniquement sur les ventes. En raison de l’expression [traduction] « vendue ou autrement aliénée » du sous-alinéa 5(2)a)(ii) de la PPTS et de la règle déterminative du paragraphe 2(3) de la MTA, la MTA et la PPTS s’appliquent à tous les moyens (y compris la consommation ou l’utilisation) par lesquels la potasse extraite en Saskatchewan peut-être utilisée par le producteur. Donc, en réponse à la question posée par le juge de la Cour de l’impôt au paragraphe 12 de la décision Cogema, en l’espèce, la réponse serait afrirmative.
+[81] Le fait que l’appelante ne vende que de la potasse n’est pas pertinent quant à la question de savoir si l’alinéa 18(1)m) de la LIR s’applique au paiement de base imposé par la MTA et la PPTS. Ce sont les dispositions de la MTA et de la PPTS qui déterminent si l’alinéa 18(1)m) de la LIR s’applique à un paiement prévu dans la MTA et la PPTS, et non le comportement du contribuable.
+[82] L’expression « qu’il est raisonnable de considérer comme rattachée » exige que, pour que l’alinéa 18(1)m) de la LIR s’applique aux paiements de base, une évaluation objective des circonstances doit démontrer que chacun des paiements de base est « rattaché à »[40] ([traduction] « a une connexion, une correspondance ou une association »[41] à) la production de potasse au Canada.
+[83] La question est donc de savoir si la [traduction] « vente ou autre forme d’aliénation » de la potasse extraite par l’appelante en Saskatchewan est rattachée à la production de cette potasse. L’appelante soutient que la production de potasse et la « vente ou autre forme d’aliénation de » la potasse sont des événements distincts, et que l’alinéa 18(1)m) de la LIR s’applique à la production de potasse, mais non à la vente ou à une autre forme d’aliénation de cette potasse. Bien que je reconnaisse que cette production et cette vente soient des événements distincts, je rejette l’idée que l’une n’est pas « rattachée » à l’autre.
+[84] Dans la décision Echo Bay Mines Ltd. c. Canada (1re inst.), [1992] 3 C.F. 707 (« Echo Bay »), la Cour a examiné le sens du mot « revenus » [...] tirés de [...] [traduction] « la production et la transformation » dans la définition de « bénéfices bruts relatifs à des ressources » figurant au paragraphe 1204(1) du Règlement de l’impôt sur le revenu (le « RIR »)[42]. La Cour a fait remarquer ce qui suit :
+Or la production n’engendre d’elle-même aucun revenu s’il n’y a pas de vente. Les opérations qui peuvent raisonnablement être reliées à la commercialisation du produit et qui sont entreprises pour garantir que celui-ci soit vendu à un prix satisfaisant, pour produire un revenu avec espoir de bénéfices, sont à mes yeux des activités faisant partie intégrante de la production qui vise à rapporter un revenu et des bénéfices relatifs à des ressources au sens du paragraphe 1204(1) du Règlement[43].
+[Caractères gras ajoutés.]
+[85] Le paragraphe 1204(1) du RIR ne comprend pas de formules conjonctives, tel que « rattaché », et pourtant, dans l’arrêt Echo Bay, le juge n’a eu aucun problème à conclure que les activités interreliées, nécessaires à tirer un revenu de la production, font partie intégrante de la production.
+[86] Je n’ai pas non plus de problème à conclure qu’une [traduction] « vente ou autre forme d’aliénation » de la potasse est une activité rattachée à la production de cette potasse. Il existe un lien direct et immédiat entre la production de potasse et la vente ou la disposition subséquente de cette potasse. Conclure autrement reviendrait à ne pas tenir compte de l’objectif commercial de l’entreprise minière, qui est d’extraire et de produire des minéraux pour obtenir la valeur de ces minéraux grâce à leur vente, leur consommation ou leur utilisation. Le fait que le paiement de base prend naissance à la suite d’une vente ou d’une autre forme d’aliénation de la potasse ne l’empêche pas d’être rattaché à la production de cette potasse[44].
+[87] L’application de l’alinéa 18(1)m) au paiement de base est conforme à l’objet général de cet alinéa, que le ministre des Finances a cerné au moment de l’introduction de la nouvelle règle au Parlement, en mai 1974 :
+[traduction] [. . .] Je propose que les revenus que les autorités provinciales tirent de la production pétrolière ou minière ne soient plus déductibles dans le calcul du revenu de l’exploitant des ressources en question[45].
+[Caractères gras ajoutés.]
+[88] L’application de l’alinéa 18(1)m) aux paiements de base est également conforme à l’observation générale formulée par la juge Sharlow dans l’arrêt Mobil : « l’alinéa 18(1)m) porte essentiellement sur les paiements faits à la Couronne »[46]. Les paiements de base sont des paiements effectués par l’appelante à la Couronne du chef de la Saskatchewan, qui sont inextricablement liés à l’extraction et à la production de potasse en Saskatchewan.
+VI. Conclusion [89] Pour les motifs qui précèdent, l’appel de l’appelante est rejeté avec dépens en faveur de l’intimée. L’intimée a 30 jours à compter de la date du jugement pour présenter des observations écrites sur les dépens, qui ne doivent pas dépasser 10 pages. L’appelante dispose d’un délai supplémentaire de 30 jours pour soumettre ses observations écrites en réponse aux observations de l’intimée. Aucune autre observation de la part de l’une ou l’autre des parties ne doit être présentée.
+Signé à Ottawa, Canada, ce 7e jour de juillet 2022.
+« J.R. Owen »
+Le juge Owen
+Traduction certifiée conforme
+ce 28e jour d’avril 2023.
+François Brunet, réviseur
+ANNEXE A
+Ce qui suit reproduit l’exposé conjoint (partiel) des faits présentés par les parties.
+Identité de l’appelante
+Potash Corporation of Saskatchewan (la « société d’État ») a été initialement créée à titre de société d’État de la Saskatchewan, en 1975.
+Le 2 novembre 1989, la société d’État a été privatisée, et ses actifs ont été transférés à Potash Corporation of Saskatchewan Inc. (« PCS » ou « l’appelante »), et est alors devenue une société ouverte.
+L’appelante est une société prorogée en vertu de la Loi sur les sociétés commerciales canadiennes[47]et une société canadienne imposable pour l’application de la Loi de l’impôt sur le revenu[48].
+Le 1er janvier 2018, Nutrien Ltd. a indirectement acquis les actions de l’appelante et d’Agrium Inc., après la fusion entre égaux, pour devenir la nouvelle société mère cotée en Bourse du groupe fusionné.
+ANNÉES D’IMPOSITION PERTINENTES
+Le présent appel porte sur les années d’imposition qui se sont terminées le 31 décembre
+1999 (l’« année d’imposition 1999 »);
+2000 (l’« année d’imposition 2000 »);
+2001 (l’« année d’imposition 2001 »);
+2002 (l’« année d’imposition 2002 »).
+Ces années d’imposition sont appelées collectivement les « années d’imposition » ou la « période pertinente »).
+L’APPELANTE
+Les activités de l’appelante
+Au cours de la période pertinente, l’appelante était une société intégrée productrice d’engrais, de produits alimentaires et industriels connexes, avec une exploitation minière de potasse dans la province de la Saskatchewan.
+La production de potasse
+La potasse est le nom courant donné à un groupe de minéraux qui contient du potassium, essentiel à toute forme de vie végétale et animale.
+Au cours de la période pertinente, les activités minières de l’appelante consistaient à produire de la potasse.
+La production de potasse s’entend de l’extraction de la potasse du sol et de sa transformation dans les installations minières.
+Plus précisément, la production de potasse peut être décrite ci-dessous, dans un diagramme intitulé [traduction] « Qu’est-ce que la potasse ou d’où provient-elle? »[49] :
+premièrement, la potasse est extraite des dépôts souterrains et se fait au moyen de foreuses à deux à quatre rotors continus;
+deuxièmement, un tapis roulant transporte le minerai de potasse jusqu’aux conteneurs souterrains, où il est entreposé jusqu’à son transport vers les trémies doseuses du treuil d’extraction.
+troisièmement, le minerai de potasse est hissé à la surface en passant par le puits d’exploitation (l’extraction du minerai de potasse est terminée);
+quatrièmement, le minerai de potasse est transformé, notamment en l’écrasant, en le broyant, en le séchant, en le compactant et en le cristallisant (la production de potasse est terminée).
+La potasse est un produit monnayable une fois sous forme cristallisée, à la fin de l’étape de transformation du minerai de potasse (à la fin de la quatrième étape mentionnée ci-dessus).
+L’appelante produisait de la potasse provenant des mines de la Saskatchewan pour unique but d’en faire la vente.
+Droits miniers relatifs à l’extraction du minerai de potasse
+L’appelante s’est vu accorder le droit de produire de la potasse en Saskatchewan au cours de la période pertinente par l’effet combiné de ce qui suit :
+elle a acquis la propriété des droits miniers;
+elle a acquis les baux de la Couronne de la Couronne de la Saskatchewan en vertu de la Crown Minerals Act[50] et du Subsurface MineralRegulations[51] et de leurs prédécesseurs. Par ces baux, la Couronne de la Saskatchewan a accordé à l’appelante le droit d’extraire, de récupérer ou de produire des minéraux (la potasse en l’espèce) se trouvant sur les terres ou dans le sous-sol des terres de la Couronne de la Saskatchewan[52];
+elle a obtenu les baux francs de particuliers (personnes physiques ou morales), qui étaient propriétaires des minéraux sous-terre. Les baux consentis à l’appelante lui donnaient le droit d’extraire, de récupérer ou de produire des minéraux (la potasse en l’espèce)[53].
+Au cours de la période pertinente, l’appelante a également obtenu de la potasse provenant des réserves de minerai près d’Esterhazy, en Saskatchewan (les « réserves de PCS »). Il en est ainsi parce que :
+l’appelante détenait les droits miniers aux réserves de PCS;
+les réserves de PCS sont un avoir minier canadien de l’appelante au sens où l’expression « avoir minier canadien » est définie dans la Loi de l’impôt sur le revenu[54];
+les réserves de PCS ont été entrecoupées avec d’autres réserves de minerai de potasse sur le même site occupé par un tiers, International Minerals & Chemical Corporation (Canada) Limited (« IMC »);
+IMC possédait et exploitait une installation minière à Esterhazy, en Saskatchewan (« la mine Esterhazy ») à partir de laquelle elle extrayait et transformait de la potasse;
+lorsque l’appelante a fait l’acquisition des réserves de PCS, elle et IMC ont conclu une entente d’extraction et de transformation (l’entente d’exploitation minière »)[55];
+l’entente d’exploitation minière (deuxième alinéa 3.01c)) obligeait l’appelante à prendre certaines quantités de potasse transformée par IMC à un prix fixe de 1 $ par tonne plus les coûts réels par tonne du produit fini (article 4.01);
+aux termes de l’article 5.01 de l’entente d’exploitation minière, l’appelante était tenue de payer sa part proportionnelle de dépenses en immobilisations engagées par IMC durant chacune des années, pourvu que la dépense en immobilisations ne vise pas une dépense en immobilisations décrite à l’article VI de l’entente d’exploitation minière.
+En vue de faire rapport à ses actionnaires, l’appelante a inclus dans le calcul de sa capacité annuelle de production de potasse la quantité annuelle maximale qu’elle avait le droit de produire aux termes de l’entente d’exploitation minière conclue avec IMC, à Esterhazy[56].
+Avoir minier canadien
+La potasse produite par l’appelante au cours de la période pertinente, y compris la potasse obtenue aux termes de l’entente d’exploitation minière, provenait d’avoirs miniers canadiens de l’appelante au sens où l’expression « avoir minier canadien » est définie dans la Loi de l’impôt sur le revenu[57].
+PAIEMENT DE BASE
+Les producteurs de potasse de la Saskatchewan sont assujettis aux impôts miniers et aux redevances minières, l’un de ceux-ci étant le paiement de base prévu par laMineral Taxation Act, 1983 (Saskatchewan)[58] (le « paiement de base »).
+Conformément à l’article 4 de la troisième annexe à la Mineral Taxation Act (la « troisième annexe »), l’impôt établi en application de la MineralTaxationAct comprend :
+le paiement de base calculé conformément à l’article 5 de la troisième annexe;
+un « impôt sur les bénéfices » (l’« impôt sur les bénéfices ») calculé conformément à l’article 6 de la troisième annexe.
+L’appelante était tenue de produire les déclarations relatives au paiement de base annuel et à l’impôt sur les bénéfices auprès de la Couronne de la Saskatchewan afin de se conformer à la Mineral Taxation Act.
+L’appelante a produit les déclarations relatives au paiement base annuel et à l’impôt sur les bénéfices pour les années d’imposition[59].
+L’appelante était responsable du paiement de base sur la potasse reçue aux termes de l’entente d’exploitation minière conclue avec IMC, à la mine d’Esterhazy, vendue ou autrement aliénée.
+Le paiement de base sur la potasse que l’appelante a reçue de la mine d’Esterhazy aux termes de l’entente d’exploitation minière est identifié dans les déclarations de l’appelante relatives au paiement de base annuel.
+DÉCLARATION FISCALE ET DEMANDE
+L’appelante a produit des déclarations de revenus et des déclarations de revenus modifiées pour chacune des années d’imposition[60].
+Dans le calcul de son revenu et dans sa déclaration de revenus pour la période pertinente, l’appelante a ajouté, à l’annexe 001 de ses déclarations de revenus, les paiements de base suivants, à titre d’impôts sur les minéraux non déductibles payés ou dus à la Couronne provinciale :
+Année d’imposition
+Paiement de base
+1999
+14 643 226 $
+2000
+16 454 834 $
+2001
+14 673 344 $
+2002
+13 655 538 $
+Les montants des paiements de base décrits au paragraphe 25 étaient payés ou dus à l’égard de la potasse produite, vendue ou autrement aliénée par l’appelante au cours de la période pertinente, provenant des mines de la Saskatchewan, y compris la potasse provenant des réserves de PCS[61].
+Par lettres envoyées en 2005 (pour les années d’imposition 1999, 2000 et 2001) et par lettre envoyée en 2006 (pour l’année d’imposition 2002), l’appelante a demandé de se prévaloir de la déduction, notamment des montants de paiement de base précités, sous réserve d’une réduction de la déduction relative aux ressources[62].
+NOUVELLES COTISATIONS VISÉES PAR L’APPEL
+Les rapports de vérification ont été établis pour chacune des années d’imposition[63].
+Le ministre du Revenu national (le « ministre ») a établi des avis de nouvelles cotisations le 16 juillet 2015 pour les années d’imposition 1999 et 2000, et le 17 mai 2016, pour l’année d’imposition 2001, avis dans lesquels il n’a pas permis la déduction du paiement de base.
+Par avis datés du 13 octobre 2015 (pour les années d’imposition 1999 et 2000) et du 10 août 2016 (pour l’année d’imposition 2001), l’appelante s’est opposée aux avis de nouvelles cotisations.
+Le ministre a établi des avis de confirmation pour les années d’imposition 1999, 2000 et 2001 les 1er, 12 et 20 novembre 2019[64].
+Conformément à une décision concernant l’opposition, le ministre a établi, le 29 novembre 2019, un avis de nouvelle cotisation pour l’année d’imposition 2002[65].
+Par lettres datées du 7 juillet 2015, du 20 décembre 2018 et du 1er novembre 2019 (relativement à l’année d’imposition 1999), du 12 novembre 2019 (relativement à l’année d’imposition 2000) et du 20 novembre 1999 (relativement aux années d’imposition 2001 et 2002), le ministre a répondu aux avis d’opposition de l’appelante, en expliquant sa position au sujet de la déductibilité des paiements de base[66]. Le ministre a résumé sa position dans les rapports d’opposition T-401 préparés à l’égard des années d’imposition[67].
+DIVERS FAITS
+L’appelante vendait sa potasse à trois clients : PCS Sales (Canada) Inc., PCS Sales (USA), Inc. et Canpotex Limited.
+Canpotex Limited était une organisation commerciale dans le domaine des ventes appartenant à parts égales à l’appelante et à deux autres producteurs de potasse de la Saskatchewan.
+PCS Sales (Canada) Inc. était une filiale en propriété exclusive de l’appelante. Elle vendait et distribuait de la potasse au Canada et dans les marchés d’outre-mer.
+PCS Sales (USA) Inc. était une filiale indirecte en propriété exclusive de l’appelante. Elle vendait, commercialisait et distribuait de la potasse aux États-Unis et dans les marchés d’outre-mer.
+PCS Sales (Canada) Inc. n’était pas responsable des impôts établis sous le régime de la Mineral Taxation Act, y compris du paiement de base, sur la potasse qu’elle vendait. L’appelante était responsable du paiement de base calculé en fonction du prix de vente final de la potasse que ses tiers clients payaient à PCS Sales (Canada) Inc.
+PCS Sales (USA) Inc. n’était pas responsable des impôts établis sous le régime de la Mineral Taxation Act, y compris du paiement de base, sur la potasse qu’elle vendait. L’appelante était responsable du paiement de base calculé en fonction du prix de vente final de la potasse que ses tiers clients payaient à PCS Sales (USA) Inc.
+Dans le calcul du revenu aux fins fiscales aux termes de la Loi de l’impôt sur le revenu pour chacune des années d’imposition, à l’égard de ses activités minières, l’appelante,
+calculait les bénéfices modifiés relatifs à des ressources conformément à la partie XII du Règlement de l’impôt sur le revenu (« RIR »);
+Montant calculé en ce qui a trait à la potasse
+Bénéfices modifiés relatifs à des ressources conformément à la partie XII du RIR
+Déduction relative aux ressources en application de l’alinéa 20(1)v.1) de la Loi
+Année d’imposition 1999
+197 928 513 $
+49 482 128 $
+Année d’imposition 2000
+252 767 145 $
+63 191 786 $
+Année d’imposition 2001
+200 059 805 $
+50 014 951 $
+Année d’imposition 2002
+294 745 532 $
+73 686 383 $
+déduisait la déduction relative aux ressources en application de l’alinéa 20(1)v.1) de la Loi de l’impôt sur le revenu, des sommes suivantes[68] :
+IMPÔT SUR LES BÉNÉFICES
+Dans le calcul de son revenu et dans sa déclaration de revenus pour la période pertinente, l’appelante a ajouté, à l’annexe 001 de ses déclarations de revenus, les montants d’impôt sur les bénéfices payés ou dus à la Couronne provinciale suivants, conformément à la troisième annexe, à titre d’impôts sur les minéraux non déductibles[69].
+Année d’imposition
+Impôt sur les bénéfices
+1999
+72 092 574 $
+2000
+65 438 620 $
+2001
+59 379 166 $
+2002
+61 574 892 $
+Par lettres envoyées en 2005 (pour les années d’imposition 1999, 2000 et 2001) et par lettre envoyée en 2006 (pour l’année d’imposition 2002), l’appelante a demandé de se prévaloir de la déduction des montants d’impôt sur les bénéfices énumérés au paragraphe 41 ci-dessus, sous réserve de l’incidence sur la déduction relative aux ressources[70].
+Le ministre a rejeté à la demande de l’appelante.
+AUTRES TAXES ET PRÉLÈVEMENTS IMPOSÉS PAR LA SASKATCHEWAN[71]
+Loyer sur les minéraux
+L’ARC a permis la déduction des montants de loyer suivants sur les minéraux payés ou dus par l’appelante à la Couronne de la Saskatchewan en application de la loi The Crown Minerals Act(« loyer sur les minéraux »)[72] :
+Année d’imposition
+Loyer sur les minéraux
+1999
+586 982 $
+2000
+507 866 $
+2001
+569 264 $
+2002
+694 010 $
+Redevances à la Couronne
+Dans le calcul de son revenu et dans sa déclaration de revenus pour les années d’imposition, l’appelante a ajouté, à l’annexe 001 de ses déclarations de revenus, les sommes suivantes payées ou dues à la Couronne de la Saskatchewan en application de la loi The Crown Minerals Act, à titre de redevances non déductibles (« redevances à la Couronne »)[73] :
+Année d’imposition
+Redevances à la Couronne
+1999
+12 448 074 $
+2000
+12 328 332 $
+2001
+11 169 165 $
+2002
+10 721 160 $
+Dans le calcul de son revenu et dans sa déclaration de revenus pour les années d’imposition 2007 à 2020, l’appelante a réclamé la déduction des redevances à la Couronne, payées ou dues à la Couronne de la Saskatchewan.
+L’ARC n’a pas refusé la déduction des redevances à la Couronne réclamée par l’appelante à l’égard des années d’imposition 2007 à 2020.
+Taxe sur les droits miniers
+L’ARC a permis la déduction des montants de taxe sur les droits miniers suivants (aussi appelés [traduction] « impôt fondé sur la superficie ») payés ou dus par l’appelante à la Couronne de la Saskatchewan en application de la Mineral Taxation Act (« taxe sur les droits miniers »)[74] :
+Année d’imposition
+Taxe sur les droits miniers
+1999
+161 496 $
+2000
+240 391 $
+2001
+236 943 $
+2002
+251 197 $
+Impôt sur le capital
+Dans le calcul de son revenu et dans sa déclaration de revenus pour les années d’imposition, l’appelante a réclamé la déduction des montants d’impôt sur le capital des sociétés suivants, payés ou dus à la Couronne de la Saskatchewan en application de la Corporation Capital Tax Act (« impôt sur le capital »)[75] :
+Année d’imposition
+Impôt sur le capital
+1999
+4 568 492 $
+2000
+8 245 064 $
+2001
+8 756 188 $
+2002
+8 334 352 $
+L’ARC a permis la déduction des montants d’impôt en capital décrits au paragraphe 49.
+Surtaxe
+Dans le calcul de son revenu et dans sa déclaration de revenus pour les années d’imposition, l’appelante a ajouté, à l’annexe 001 de ses déclarations de revenus, à titre de taxe en capital non déductible de surtaxe relative aux ressources, les sommes suivantes, payées ou dues à la Couronne de la Saskatchewan en application de la Corporation Capital Tax Act (« surtaxe »)[76] :
+Année d’imposition
+Surtaxe
+1999
+22 843 839 $
+2000
+19 938 440 $
+2001
+18 177 057 $
+2002
+18 145 356 $
+En 2005 et en 2006, l’appelante a présenté à l’ARC des demandes de déduction des montants de surtaxe, décrits au paragraphe 51 ci-dessus, sous réserve de l’incidence sur la déduction relative aux ressources.
+L’ARC a permis la déduction des montants de surtaxe décrits au paragraphe 51 ci-dessus.
+ANNEXE B
+Dispositions de la
+Mineral Taxation Act, 1983 (Saskatchewan) (la « MTA »),
+du règlement The Potash Production Tax Schedule (la « PPTS ») et[77]
+du règlement The Potash Production Tax Regulations (le « PPTR »)
+La MTA[78]
+PARTIE I
+Titre abrégé et interprétation
+[traduction]
+[. . .]
+Interprétation
+2(1) Les définitions qui suivent s’appliquent à la présente loi :
+[. . .]
+d) « minerai » toute substance non viable issue des processus de la nature, peu importe leur état chimique ou physique avant et après la production, mais ne comprend pas les substances aqueuses, les substances des terres agricoles, les substances de sable ou de gravier ou toute autre substance prévue par règlement;
+[. . .]
+e) « taxe à la production de minéraux » toute taxe imposée par la présente loi sur la production ou la vente ou encore une autre forme d’aliénation d’un minerai faisant l’objet d’une annexe;
+[. . .]
+g) « taxe sur les droits miniers » toute taxe imposée par la présente loi à l’égard un droit minier;
+[. . .]
+(i) « propriétaire » personne qui figure comme détenteur d’un certificat de titre qui comprend les droits miniers ou personne qui est réputée être propriétaire aux termes de l’article 8; [au 24 juin 2001]
+(i) « propriétaire » propriétaire enregistré d’un titre minier, y compris une personne qui est réputée être propriétaire aux termes de l’article 8; [au 25 juin 2001][79]
+j) « personne » personne morale, entreprise, syndicat, fiducie, firme, société de personnes, copropriétaire ou partie, y compris les successeurs, héritiers, exécuteurs, administrateurs ou autres représentants légaux de cette personne;
+k) « réglementaire » prescrit par règlement;
+l) « annexe » annexe à la présente loi;
+m) « minerai faisant l’objet d’une annexe » minerai à l’égard duquel une annexe à la présente loi a été adoptée;
+n) « contribuable » toute personne tenue de payer les impôts établis par la présente loi.
+(2) Les termes ou expressions employés dans la présente loi, mais sans y être définis, peuvent être définis dans la réglementation.
+(3) L’utilisation ou la consommation d’un minerai faisant l’objet d’une annexe par une personne tenue de payer les taxes à la production de minéraux imposées dans la présente loi sur la production ou la vente ou encore une autre forme d’aliénation[80] de ce minerai est réputée être une vente ou une autre forme d’aliénation de ce minerai.
+[. . .]
+PARTIE II
+Taxes à la production de minéraux
+Taxes à la production de minéraux
+4 Une taxe est par les présentes imposée sur la production ou la vente ou encore une autre forme d’aliénation de chaque minerai produit en Saskatchewan, faisant l’objet d’une annexe.
+Calcul et paiement des taxes
+5 Les taxes à la production de minéraux imposées par la présente loi sur la production ou la vente ou encore une autre forme d’aliénation d’un minerai faisant l’objet d’une annexe doivent être prélevées, calculées et versées de la manière et aux moments exigés aux termes de l’annexe adoptée à l’égard de ce minerai.
+Questions à traiter dans les annexes
+6 Sans limiter la portée générale de l’article 5, les questions suivantes concernant les taxes à la production de minéraux imposées par la présente loi sur la production ou la vente ou encore une autre forme d’aliénation d’un minerai faisant l’objet d’une annexe doivent être traitées dans l’annexe adoptée à l’égard de ce minerai :
+a) la détermination des personnes ou des catégories de personnes tenues de payer ou de verser ces taxes;
+b) la base de calcul de ces taxes, y compris les indemnités, crédits ou autres déductions pouvant être établis dans le calcul ou le paiement de ces taxes;
+c) les moments où ces taxes doivent être prélevées, calculées et payées;
+d) les exigences relatives à l’administration ou à la perception de ces taxes pour ce qui concerne les aspects que la présente loi ne couvre pas;
+e) le pouvoir de prendre les règlements nécessaires ou opportuns sur le prélèvement, le calcul, le paiement ou le versement de ces taxes pour ce qui concerne les aspects que la présente loi ne couvre pas;
+PARTIE III
+Taxe sur les droits miniers
+[. . .]
+Taxe sur les droits miniers
+11 Sauf disposition contraire de la présente partie, chaque propriétaire d’un droit minier est assujetti à une taxe annuelle de 960 $ pour chaque section nominale de la superficie totale de tous les droits miniers qu’il détient au cours de l’année, ainsi qu’à un montant proportionnel pour toute superficie des droits miniers qu’il détient et qui ne fait pas partie d’une section nominale complète.
+[. . .]
+PARTIE IV
+Administration et exécution
+DISPOSITIONS GÉNÉRALES
+[. . .]
+Enquêtes
+25(1) Lorsque le ministre l’estime nécessaire pour l’application de la présente loi, le ministre ou un fonctionnaire du ministère dûment autorisé peut, en tout temps, pénétrer dans les locaux pour mener des enquêtes et obtenir des renseignements sur l’administration de la présente loi, et à ces fins, il peut utiliser la machinerie, l’équipement, les appareils et les éléments qui, selon lui, sont nécessaires ou opportuns. Il a le droit de faire ce qui suit :
+a) entrer à sa guise dans tous les bâtiments et toutes les structures qui servent à l’exploitation des installations à partir desquelles ou dans lesquelles les minéraux faisant l’objet d’une annexe sont produits, vendus, autrement aliénés, traités, transformés ou raffinés de quelque manière, ou dans les bâtiments ou bureaux, qu’ils soient occupés ou non par un contribuable, où sont conservés les livres ou les dossiers relatifs à la production, la vente, la disposition, le traitement ou le raffinage des minéraux faisant l’objet d’une annexe;
+[. . .]
+TROISIÈME ANNEXE
+Taxe à la production de potasse
+TITRE ABRÉGÉ ET INTERPRÉTATION
+[traduction] Titre abrégé de l’annexe
+1 La présente annexe peut être citée sous le titre The Potash Production Tax Schedule.
+Interprétation de l’annexe
+2. Les définitions qui suivent s’appliquent à la présente annexe :
+a) « mine » : toute ouverture ou excavation des sols de la Saskatchewan à partir desquels la potasse est produite ou est en mesure d’être produite;
+b) « mois » mois civil;
+c) « potasse » substance non viable :
+(i) issue des processus de la nature,
+(ii) contenant du potassium;
+d) « producteur » personne qui a le droit de produire, de vendre ou de disposer autrement de la potasse provenant d’une mine, que cette personne le fasse elle-même ou le fasse faire par une autre personne;
+e) « trimestre » trimestre civil se terminant le 31 mars, le 30 juin, le 30 septembre ou le 31 décembre de chaque année;
+f) « tonne » tonne métrique;
+g) « année » année civile.
+IMPÔT
+Application
+3(1) Les taxes à la production de minéraux imposées par la présente loi s’appliquent à l’ensemble de la potasse :
+a) produite à partir des terres de la Saskatchewan, sous réserve du paragraphe 5(13);
+b) vendue ou autrement aliénée à partir du 1er janvier 1990.
+(2) Chaque producteur est responsable des taxes à la production de minéraux imposées par la présente loi sur la vente ou une autre forme d’aliénation de la potasse produite à partir de la mine ou des mines à l’égard desquelles cette personne est un producteur.
+(3) Chaque producteur doit calculer et payer les taxes à la production de minéraux imposées par la présente loi de la manière et aux moments prévus dans la présente annexe et dans la réglementation :
+a) en ce qui a trait à la potasse vendue ou autrement aliénée avant le 1er janvier 2002, en fonction de la quantité totale de potasse vendue ou autrement aliénée provenant de chacune des mines à l’égard de laquelle cette personne est un producteur;
+b) en ce qui a trait à la potasse vendue ou autrement aliénée à partir du 1er janvier 2002, en fonction de la quantité totale de potasse vendue ou autrement aliénée provenant de chacune des mines à l’égard de laquelle cette personne est un producteur;
+Composantes de la taxe
+4 Les taxes à la production de minéraux imposées par la présente loi sur la vente ou une autre forme d’aliénation de la potasse comprennent :
+a) un paiement de base calculé conformément à l’article 5;
+b) un impôt sur les bénéfices calculé conformément à l’article 6.
+Paiement de base
+5(1) Dans le présent article :
+a) la lettre « P » désigne le montant en dollars égal au pourcentage réglementaire des bénéfices du producteur pour une année;
+b) la lettre « Q » désigne la quantité de potasse vendue ou autrement aliénée par le producteur au cours de l’année (exprimée en tonnes);
+c) la lettre « R » désigne le taux d’imposition mentionné au sous-alinéa 2a)(i).
+(2) Le paiement de base pour une année représente le montant égal à la différence entre :
+a) le produit :
+(i) du taux d’imposition déterminé conformément au paragraphe (3), (4) ou (5),
+(ii) la quantité de potasse vendue ou autrement aliénée au cours de l’année, exprimée en tonnes;
+b) le total de l’ensemble des déductions, indemnités et crédits applicables, soit :
+(i) établis par règlement, soit
+(ii) prévus dans la présente annexe.
+(3) Sous réserve des paragraphes (4) et (5), aux fins du calcul du paiement de base, le taux d’imposition est le taux exprimé en dollars par tonne de potasse vendue ou autrement aliénée, et correspond au résultat du calcul suivant :
+R = P/Q
+(4) Lorsque le taux d’imposition calculé conformément au paragraphe (3) est supérieur au taux d’imposition maximum réglementaire, le taux d’imposition à utiliser pour calculer le paiement de base est le taux d’imposition maximum réglementaire.
+(5) Lorsque le taux d’imposition calculé conformément au paragraphe (3) est inférieur au taux d’imposition minimum réglementaire, le taux d’imposition à utiliser pour calculer le paiement de base est le taux d’imposition minimum réglementaire.
+(6) Chaque producteur tenu de payer des impôts aux termes de la présente annexe doit verser au ministre un acompte provisionnel relatif au paiement de base à l’égard de chaque mois :
+a) au plus tard le dernier jour du mois qui suit;
+b) calculé conformément aux paragraphes (7) et (8).
+(7) Aux fins du calcul du taux d’imposition applicable à un acompte provisionnel mensuel, le producteur doit, au cours de chaque mois, estimer les valeurs des variables P et Q.
+[. . .]
+(10) Après le dernier jour de chaque année, chaque producteur doit déterminer le montant du paiement de base pour l’année, en prenant le montant réel des bénéfices et la quantité réelle de potasse vendue ou autrement aliénée au cours de cette année-là.
+(11) Sauf si la Loi ou la réglementation en dispose autrement, lorsque le montant du paiement de base déterminé conformément au paragraphe (10) est supérieur au nombre total des acomptes provisionnels payés en application du paragraphe (8), le producteur doit verser au ministre la différence entre ces sommes dans les 90 jours suivant le dernier jour de l’année.
+(12) Lorsque le total des acomptes provisionnels payés en application du paragraphe (8) est supérieur au montant du paiement de base déterminé conformément au paragraphe 10, le ministre doit rembourser au producteur la différence entre ces sommes dans les 30 jours suivant la réception de la dernière déclaration de revenus du producteur pour l’année.
+(13) Le paiement de base ne s’applique qu’à la potasse produite à partir du 1er janvier 1990.
+Impôt sur les bénéfices
+6(1) L’impôt sur les bénéfices pour une année représente le montant égal à la différence entre :
+a) le total des produits :
+(i) des bénéfices de l’année, déterminés conformément à la réglementation dans chacun des créneaux de profits qui sont :
+(A) prescrits par l’alinéa 11c),
+(B) exprimés en dollars par tonne de potasse vendue ou autrement aliénée;
+(ii) le taux d’imposition prévu pour chacun des créneaux de profits;
+b) le total de l’ensemble des déductions, indemnités et crédits applicables, soit :
+(i) établis par règlement, soit
+(ii) prévus dans la présente annexe.
+(2) Sauf si la Loi ou la réglementation en dispose autrement, au plus tard le dernier jour de chaque trimestre au cours d’une année, chaque producteur doit :
+a) estimer ses bénéfices pour cette année-là;
+b) verser au ministre un acompte provisionnel d’impôt sur les bénéfices réalisés au cours de ce trimestre, calculé conformément au paragraphe(3);
+[. . .]
+(5) Après le dernier jour de chaque année, le producteur doit déterminer le montant de l’impôt sur les bénéfices payable pour cette année-là, en fonction du montant réel des bénéfices réalisés cette année-là.
+[. . .]
+The Potash Production Tax Regulations
+CHAPTER M-17.1 REG 6
+Mineral Taxation Act, 1983
+PARTIE I
+Titre et interprétation
+[. . .]
+Interprétation
+2(1) Les définitions qui suivent s’appliquent au présent règlement :
+[. . .]
+(x) « aliénation » en ce qui a trait à un actif :
+(i) opération ou événement à l’égard d’un actif, qui donne droit au producteur au produit de l’aliénation;
+(ii) transfert d’un actif sous forme de donation; ou
+(iii) enlèvement d’un actif d’une mine, autre que temporairement, pour quelque motif que ce soit.
+La présente définition exclut :
+(iv) le transfert d’un actif dans le seul but de garantir une dette ou un prêt;
+(v) le transfert d’un actif servant de garantie d’une dette ou d’un prêt qu’à des fins de rendement pour le créancier; ou
+(vi) le transfert d’un actif découlant d’un changement de propriété en common law de l’actif, mais non d’un changement de propriété exclusive de l’actif;
+[. . .]
+mm) « produit de l’aliénation » :
+(i) le prix de vente ou toute autre contrepartie reçu ou à recevoir par le producteur pour l’aliénation d’un actif, y compris :
+(A) la prise en charge, l’acceptation, l’extinction ou la décharge de l’obligation :
+(I) du producteur; ou
+(II) qui a une incidence sur l’actif aliéné;
+(B) la valeur de l’avantage de quelque nature que ce soit conféré au producteur ou à toute autre personne sous l’autorité du producteur, dans le cadre d’une entente portant sur l’aliénation de l’actif;
+(ii) sous réserve de l’article 28 :
+(A) l’indemnité reçue par un producteur, ou
+(B) la somme versée à un producteur en vertu d’une police d’assurance :
+relativement à un actif perdu, détruit ou pris illégalement;
+(iii) sous réserve de l’article 28 :
+(A) l’indemnité reçue par un producteur, ou
+(B) la somme versée à un producteur en vertu d’une police d’assurance :
+relativement à un actif endommagé, sauf dans la mesure où l’indemnité ou la somme est appliquée pour réduire les coûts d’exploitation en application du sous-alinéa 7(2)a)(ii);
+(iv) sous réserve de l’article 28, une indemnité pour un actif pris conformément à un pouvoir conféré par la loi ou le prix de vente d’un actif vendu à une personne qui a donné son avis d’intention de prendre l’actif conformément au pouvoir que la loi lui a conféré;
+(v) sous réserve de l’article 28, une indemnité pour un actif ayant été gravement endommagé, légalement ou illégalement, ou encore conformément à un pouvoir conféré par la loi;
+(vi) une somme égale à la juste valeur marchande d’un actif aliéné, si l’aliénation est effectuée :
+(A) par un producteur en faveur d’une personne avec laquelle il a un lien de dépendance au moment de l’aliénation,
+(B) en faveur d’une personne morale moyennant répartition et émission de ses actions,
+(C) en faveur d’une société sans capital-actions, d’une organisation, d’un syndicat, d’une association, d’une société de personnes ou d’une coentreprise en contrepartie de l’adhésion de toute personne à titre de membre,
+(D) sous forme de donation, ou
+(E) en retirant l’actif d’une mine, autre que temporairement;
+nn) « production » : quantité de potasse produite provenant d’une mine, y compris la potasse provenant des biens-fonds de minéraux de la Couronne et des biens-fonds de minéraux en tenure franche;
+[. . .]
+yy) « traité » : concentré, raffiné ou transformé :
+(i)en Saskatchewan; ou
+(ii)avec l’approbation écrite préalable du ministre, à l’extérieur de la Saskatchewan [version en date du 20 avril 1999];
+yy) « traité » : concentré, raffiné ou transformé dans une mine ou dans un lieu qui, de l’avis du ministre, est relativement proche d’une mine; [version antérieure au 20 avril 1999].
+[. . .]
+(2) Aux fins de la Loi et de la présente réglementation, le mot « produit » vise la matière extraite du sol et comprend les expressions ou les termes suivants :
+a) traité, tel que ce mot est défini à l’alinéa 1(yy);
+b) entreposé et expédié :
+(i) en Saskatchewan; ou
+(ii) avec l’approbation écrite préalable du ministre, à l’extérieur de la Saskatchewan. [Version en date du 20 avril 1999]
+b) entreposé et expédié si, de l’avis du ministre, l’entreposage et l’expédition se font sur un site minier ou à proximité d’une mine. [Version antérieure au 20 avril 1999]
+RÉFÉRENCE :
+2022 CCI 75
+NO DU DOSSIER DE LA COUR :
+2020-208(IT)G
+INTITULÉ :
+POTASH CORPORATION OF SASKATCHEWAN INC c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Regina (Saskatchewan)
+DATE DE L’AUDIENCE :
+Le 21 mars 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge John R. Owen
+DATE DU JUGEMENT :
+Le 7 juillet 2022
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Nathalie Goyette
+Me Marc Pietro Allard
+Avocates de l’intimée :
+Me Courtney Davidson
+Me Carla Lamash
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Nathalie Goyette
+Cabinet :
+Davies Ward Phillips & Vineberg S.E.N.C.R.L., s.r.l.
+Montréal (Québec)
+Pour l’intimée :
+François Daigle Sous-procureur général du Canada Ottawa, Canada
+[1] Voir les descriptions de l’historique de ces deux alinéas dans Mobil Oil Canada Ltd. c. Canada, 2001 CAF 333 [Mobil], aux par. 11 et 12, et Teck Corp c British Columbia, 2004 BCCA 514 [Teck], autorisation d’interjeter appel devant la Cour suprême du Canada refusée le 28 avril 2005, aux par. 8 à 15.
+[2] Sous-alinéa 6(1)a)(i) de la PPTS.
+[3] 2004 CCI 750 [Cogema], confirmé par 2005 CAF 316.
+[4] Canada c. Imperial Oil Ltd., 2003 CAF 289.
+[5] 41 TC 450 (Eng CA).
+[6] Observations écrites de l’appelante, au paragraphe 57.
+[7] (1930) [1931] Ex CR 1 [Roenisch].
+[8] [1974] C.T.C. 108 (CFPI) [First Pioneer].
+[9] 2001 CAF 365 [Munich Reinsurance].
+[10] (1966) [1967] 2 Ex CR 169 [Quemont].
+[11] (1965) [1966] 1 OR 345 [Nickel Rim].
+[12] [1993] 4 RCS 695 [Symes].
+[13] Ibid, à la page 722. Voir également la page 725 et les motifs de dissidence de la juge L’Heureux-Dubé, à la page 788. Le juge Iacobucci, s’exprimant au nom de la Cour à l’unanimité, a repris les commentaires qu’il avait formulés dans Symes relativement au paragraphe 9(1) de la LIR dans Canderel Ltée c. Canada, [1998] 1 RCS 147, au paragraphe 31.
+[14] Ibid, pages 723h à 725b.
+[15] Munich Reinsurance, par. 26.
+[16] Il s’agit des provinces qui ont conclu une entente avec le gouvernement fédéral sur la perception et l’administration de l’impôt sur le revenu.
+[17] Il est évident que ce revenu gagné (bénéfices non répartis) peut être dépensé au cours d’une période d’imposition ultérieure dans le cadre du processus de production de revenu pour cette période.
+[18] Roenisch, p. 4.
+[19] La juge Levine conclut que [traduction] « la détermination de la nature des impôts miniers met en jeu une question de droit » : Teck, par. 36.
+[20] Teck, par. 48.
+[21] Ibid, par. 51. Voir aussi le paragraphe 32 de l’arrêt Teck, dans lequel la juge Levine dit :
+[traduction] « La jurisprudence enseigne clairement qu’une contribution de nature fiscale n’est pas une dépense engagée dans le but de tirer un revenu, et ne serait donc pas déductible aux termes de l’alinéa 18(1)a) ».
+[22] Le paragraphe 2(3) a été ajouté à la MTA, et l’expression [traduction] « ou la vente ou encore une autre forme d’aliénation » a été ajoutée à l’alinéa 2(1)e) et aux articles 4, 5 et 6 de la MTA par la loi modificatrice The Mineral Taxation Amendment Act, 1989, sanctionnée le 25 août 1989 (la « MTAA 1989 »).
+[23] L’application de la taxe à la production de minéraux imposée par la MTA sur le chlorure de sodium est assujettie aux mêmes conditions : article 3 de la deuxième annexe.
+[24] Article 6 de la première annexe.
+[25] Article 7 de la première annexe.
+[26] Paragraphe 5(4) de la PPTS et article 13 du PPTR.
+[27] Paragraphe 5(5) de la PPTS et article 14 du PPTR.
+[28] Articles 12 et 20 du PPTR.
+[29] Aux termes du paragraphe 10(1) du PPTR, le pourcentage réglementaire est de 35 %.
+[30] Onglets 16 à 19 de la pièce AR-1.
+[31] Il en est ainsi parce que la quantité ayant servi à établir le taux d’imposition calculé et la quantité utilisée pour calculer le paiement de base s’annulent mutuellement, ne laissant que le montant déterminé des bénéfices pour l’année, moins les déductions, indemnités et crédits autorisés.
+[32] Le troisième élément est le total de l’ensemble des déductions, indemnités et crédits applicables prévus par la PPTS.
+[33] Teck, par. 49 et 50.
+[34] Teck, par. 38 et 39.
+[35] Le législateur de la Saskatchewan a adopté la même approche à l’égard de l’imposition du chlorure de sodium aux termes de l’article 4 de la deuxième annexe, qui établit un taux d’imposition sur [traduction] « la quantité de chlorure de sodium sec provenant » d’une mine de la Saskatchewan [traduction] « qui est vendu ou autrement aliéné » par le producteur.
+[36] L’alinéa 18(1)m) a fait l’objet de règles appliquées au prorata de 2003 à 2006, et a été abrogé pour les années d’imposition commençant après 2006.
+[37] Par exemple, la deuxième version ne comporte pas une exigence selon laquelle l’obligation à l’égard de la somme en cause est imposée par une loi ou une obligation contractuelle qui remplace une obligation imposée par une loi.
+[38] La question est essentiellement la même dans la deuxième version, sauf que, pour être retenue, il est nécessaire que le paiement de base [traduction] « puisse raisonnablement être considéré » comme une taxe « rattachée à » l’acquisition, à l’aménagement ou à la propriété d’un avoir minier canadien, ou à la production au Canada de minerai, jusqu’à un stade qui ne dépasse pas celui du métal primaire ou son équivalent, extrait d’une ressource minérale située au Canada.
+[39] Teck, par. 36.
+[40] Mobil, par. 24.
+[41] Voir la définition 3a du mot anglais « relation » dans The Oxford English Dictionary, 2e éd.
+[42] Le calcul des bénéfices bruts relatifs à des ressources est une étape du calcul de la déduction relative aux ressources, autorisée aux termes de l’ancien alinéa 20(1)v.1) de la LIR. Comme il en a été fait mention dans l’analyse de l’historique de l’alinéa 18(1)m) dans les arrêts Mobil et Teck précités, l’alinéa 20(1)v.1) a été adopté en vue d’atténuer l’interdiction énoncée à l’alinéa 18(1)(m). Par conséquent, la définition de l’expression « bénéfices bruts relatifs à des ressources » fait partie du contexte plus large dans lequel se trouve l’alinéa 18(1)m) de la LIR.
+[43] Page 732. La Cour d’appel fédérale a confirmé que cette approche s’appliquait à la définition de « bénéfices bruts relatifs à des ressources » dans l’arrêt La Reine c. 3850625 Canada Inc., 2011 CAF 117 (« 3850625 Canada »), par. 17 à 21.
+[44] 3850625 Canada, par. 24.
+[45] Discours du budget Débats de la Chambre des communes [le Hansard], 29-2 no 2 (6 mai 1974), p. 2080 (l’honorable John Turner, ministre des Finances).
+[46] Mobil, par. 20.
+[47] L.R.C (1985), ch. C-44.
+[48] L.R.C. (1985) (5e suppl.), ch. 1 [la « Loi de l’impôt sur le revenu »].
+[49] Copie du diagramme intitulé « Qu’est-ce que la potasse ou d’où provient-elle? ». Onglet 1 du recueil conjoint de documents.
+[50] SS 1984-85-86, c C-50.2 (la loi « The Crown Minerals Act »).
+[51] 1960, SR 541/67 (le « Subsurface Mining Regs »).
+[52] Par exemple, voir la copie du bail de droits miniers souterrains remis par le gouvernement de la Saskatchewan à la Potash Corporation of Saskatchewan Mining Limited, en date du 20 octobre 1981. Onglet 2 du recueil conjoint de documents.
+[53] Voir, par exemple, la copie de la concession d’exploitation minière franche conclue entre Minerals Ltd. (locateur) et Alwinsal Potash Canada Limited (locataire) en date du 1er mars 1965 à l’onglet 3 du recueil conjoint de documents, et la copie de l’avis de renouvellement du bail transmise à Minerals Ltd. par PCS Mine (successeur en titre d’Alwinsal Potash of Canada Limited), en date du 3 avril 1986 à l’onglet 4 du recueil conjoint de documents.
+[54] Paragraphe 66(15) de la Loi de l’impôt sur le revenu.
+[55] Copie de l’entente révisée d’extraction et de transformation conclue entre IMC et l’appelante (page 6 manquante), en date du 31 janvier 1978; copie du protocole d’entente entre IMC et l’appelante, en date du 21 décembre 1990; copie d’un accord modificateur intervenu entre IMC et l’appelante, en date du 27 août 1998; copie d’un accord de cession et de consentement entre IMC et l’appelante, en date du 31 août 1998. Onglets 5 à 8 du recueil conjoint de documents.
+[56] Copie de la page couverture et des pages 7 et 8 du rapport annuel de l’appelante pour l’année 1999, non daté; pages couvertures (2), pages I-1, I-2, I-3, I-4, I-5, I-6, 1-15 et page de signature du rapport de l’appelante sur le formulaire 10-K pour l’année d’imposition s’étant terminée le 31 décembre 2002, daté du 26 mars 2003. Onglets 9 et 10 du recueil conjoint de documents.
+[57] Paragraphe 66(15) de la Loi de l’impôt sur le revenu.
+[58] SS 1983-84, c M-17.1 (« Mineral Taxation Act »).
+[59] Copies des déclarations relatives au paiement de base annuel et à l’impôt sur les bénéfices pour l’année d’imposition s’étant terminée 31 décembre 1999, accompagnées de notes manuscrites; copies des déclarations relatives au paiement de base annuel et à l’impôt sur les bénéfices pour l’année d’imposition s’étant terminée le 31 décembre 2000, accompagnées de notes manuscrites; copies des déclarations relatives au paiement de base annuel et à l’impôt sur les bénéfices pour l’année d’imposition s’étant terminée le 31 décembre 2001, accompagnées de notes manuscrites; copies des déclarations relatives au paiement de base annuel et à l’impôt sur les bénéfices pour l’année d’imposition s’étant terminée le 31 décembre 2002, accompagnées de notes manuscrites. Onglets 16 à 19 du recueil conjoint de documents.
+[60] Copies d’extraits de la déclaration d’impôt fédéral sur le revenu T2 modifiée pour l’année d’imposition s’étant terminée le 31 décembre 1999, datée du 16 décembre 2014; copies d’extraits de la déclaration d’impôt fédéral sur le revenu T2 modifiée pour l’année d’imposition s’étant terminée le 31 décembre 2000, datée du 16 décembre 2014; copies d’extraits de la déclaration d’impôt fédéral sur le revenu T2 modifiée pour l’année d’imposition s’étant terminée le 31 décembre 2001, datée du 31 mars 2015; copies d’extraits de la déclaration d’impôt fédéral sur le revenu T modifiée pour l’année d’imposition s’étant terminée le 31 décembre 2002, datée du 5 octobre 2015. Onglets 11 à 15 du recueil conjoint de documents.
+[61] Copie du sommaire de l’impôt payé et des dépenses, tel qu’il est inscrit (CA), préparé par l’appelante (1999);
+copie du sommaire de l’impôt payé et des dépenses, tel qu’il est inscrit (CA), préparé par l’appelante (2000);
+copie du sommaire de l’impôt payé et des dépenses, tel qu’il est inscrit (CA), préparé par l’appelante (2001);
+copie du sommaire de l’impôt payé et des dépenses, tel qu’il est inscrit (CA), préparé par l’appelante (2002). Onglets 20 à 23 du recueil conjoint de documents].
+[62] Copies de lettres de PCS (Bill Flahr) à l’Agence du revenu du Canada (l’« ARC ») (Erica Carlton) concernant les années d’imposition 2000, 2001 et 2002 de PCS. Onglets 24 à 26 du recueil conjoint de documents.
+[63] Copie du « formulaire T20, Rapport de vérification pour l’année d’imposition 1999 (6 pages) avec des renseignements caviardés qui ne concernent pas la question de l’appel », en date du 31 août 2004; copie du « formulaire T20, Rapport de vérification pour l’année d’imposition 2000 (6 pages) avec des renseignements caviardés qui ne concernent pas la question de l’appel », en date du 26 mai 2005; copie du « formulaire T20, Rapport de vérification pour l’année d’imposition 2001 (6 pages) avec des renseignements caviardés qui ne concernent pas la question de l’appel », en date du 14 juin 2006; copie du « formulaire T20, Rapport de vérification pour l’année d’imposition 2002 (6 pages) avec des renseignements caviardés qui ne concernent pas la question de l’appel », en date du 30 mars 2007. Onglets 35 à 38 du recueil conjoint de documents.
+[64] Copies de documents intitulés « avis de confirmation » établis par l’ARC à l’égard des années d’imposition 1999, 2000 et 2001 de PCS. Onglets 31 à 33 du recueil conjoint de documents.
+[65] Copie d’une lettre de l’ARC (Michael McIntyre) à PCS (Caroline Engel) concernant l’avis d’opposition daté du 1er novembre 2018 à l’égard de l’année d’imposition 2002. Onglet 34 du recueil conjoint de documents.
+[66] Copie d’une lettre de l’ARC (Ken Insch) à PCS, datée du 7 juillet 2015, au sujet de l’avis d’opposition à l’égard de l’année d’imposition 1999 et copie d’une lettre de l’ARC (Ken Insch) à PCS (Annette Pilipiak), datée du 20 décembre 2018, au sujet de l’avis d’opposition à l’égard de l’année d’imposition 1999Onglets 29 et 30 du recueil conjoint de documents. Voir également les documents énumérés aux notes 17 et 18 ci-dessus, figurant dans les onglets 31 à 34 du recueil conjoint de documents.
+[67] Rapports d’opposition T-401 à l’égard des années d’imposition. Onglets 46 à 49 du recueil conjoint de documents.
+[68] Copies d’extraits de la déclaration d’impôt fédéral sur le revenu T2 modifiée pour les années d’imposition. Onglets 11 à 14 du recueil conjoint de documents.
+[69] Plus précisément, les sommes ont été payées ou étaient dues conformément aux articles 4 et 5 de la Mineral Taxation Act, à l’article 6 de la troisième annexe et à la partie IV du règlement intitulé The Potash Production Tax Regulations, RRS c. M-17.1 Reg 6.
+[70] Voir les documents mentionnés à la note 16.
+[71] Dans sa plaidoirie finale, l’intimée fera valoir que les faits de la présente rubrique ne sont pas pertinents quant aux questions en litige dans le présent appel.
+[72] Paragraphe 20 de la Crown Minerals Act, SS 1984-85-86, c C-50.2.
+[73] Articles 14 et 15 of de la Crown Minerals Act, précitée à la note 23, et article 38 du Subsurface Mineral Regulations, 1960, SR 541/67.
+[74] Partie III de la Mineral Taxation Act.
+[75] Paragraphe 3(1) de la Corporation Capital Tax Act, SS 1979-80, c C-38.1.
+[76] Paragraphe 3(1.1) et article 13.1 de la Corporation Capital Tax Act, précité à la note 29.
+[77]La PPTS fait partie de la MTA, mais il y est fait mention séparément parce qu’elle a ses propres numéros d’articles.
+[78] Les dispositions qui suivent reflètent les modifications apportées par la Mineral Taxation Amendment Act, 1999, qui a été sanctionnée le 6 mai 1999, de même que l’ensemble des modifications antérieures qui ont été apportées.
+[79] La définition du « propriétaire » a été remplacée par l’article 340 de la Land Titles Act, 2000 (SS2000, c L-5.1) le 25 juin 2001.
+[80] Le paragraphe 2(3) a été ajouté à la MTA et l’expression « ou la vente ou encore une autre forme d’aliénation » a été ajoutée à l’alinéa 2(1)e) et aux articles 4, 5 et 6 de la MTA par la loi The Mineral Taxation Amendment Act, 1989, sanctionnée le 25 août 1989.

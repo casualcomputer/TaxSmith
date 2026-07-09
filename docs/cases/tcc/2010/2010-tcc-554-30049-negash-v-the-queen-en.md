@@ -1,0 +1,136 @@
+---
+title: "Negash v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30049/index.do"
+last_modified: "2010-10-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 554"
+citation2: ""
+neutral_citation: "2010 TCC 554"
+decision_date: "2010-10-29"
+language: "en"
+item_id: "30049"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7699
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:53:47.471000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f88424313a731b271f05a7b6f6242bc0b2a6ab74bd2f16a40a3212560a30ccf9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Negash v. The Queen
+
+- Citation: 2010 TCC 554
+- Decision date: 2010-10-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7699, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Negash v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-29
+Neutral citation
+2010 TCC 554
+File numbers
+2010-679(GST)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-679(GST)I
+BETWEEN:
+ASTIER NEGASH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 8, 2010, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Darren Prevost
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to the reassessment under the Excise Tax Act for the period January 1, 2005 to December 31, 2005 is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Reasons for Judgment attached.
+Signed at Ottawa, Canada, this 29th day of October 2010.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2010TCC554
+Date: 20101029
+Docket: 2010-679(GST)I
+BETWEEN:
+ASTIER NEGASH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] This appeal is from a reassessment made under the Excise Tax Act (“the Act”) for the period January 1, 2005 to December 31, 2005 (“the period”).
+[2] The Appellant was assessed for the period by Notice dated July 24, 2007 wherein the Minister of National Revenue (the “Minister”) increased Goods and Services Tax (“GST”) collectible by $1,646; denied Input Tax Credits (“ITC’s”) in the amount of $5,304 and assessed late remittance penalties and interest. On reassessment the Minister allowed additional ITC’s in the amount of $309
+[3] The Appellant operated a business called Oakwood Café (“the Café”) whose main source of revenue was from the sale of alcoholic beverages and snack foods.
+[4] It appears that the Appellant was audited because the amount of gross business income reported on her GST return for the period was different than that reported on her income tax return for her 2005 taxation year. In the GST return, she reported that the Café had sales of $72,228 whereas in her 2005 income tax return, she reported gross business income of $95,774.
+[5] The Appellant was self represented. She testified that the gross business income reported in her 2005 income tax return was incorrect. She took over the operations of the Café in April 2004 and it was impossible that her sales in 2005 was $95,774. Her income tax and GST returns were prepared by Bernard Ukin of Golden Capital Management Inc. and she signed the returns without reviewing them. I infer that she looked only at the bottom line for each return. In her GST return she claimed a refund of $995 and a refund of $371.76 in her income tax return.
+[6] This appeal had been set for hearing earlier this year and the Appellant requested an adjournment so that she could consult with her accountant and get her documents in order. Her attempts to speak to her accountant were futile. He made appointments to meet with her that he did not keep. It was her evidence that he has stopped answering her telephone calls. She stated that she decided not to subpoena him as she didn’t think that it would do any good. As a result, the Appellant had no original records from her business.
+[7] I concluded from the evidence that the Appellant did have some documents at the audit and objection stage of this matter. A letter from the appeals officer (exhibit A-2), referenced his review of the general ledger statement and purchase invoices. He also stated that there were no sales documents and he requested copies of the Appellant’s sales ledger, bank statements and sales invoices.
+[8] From the Appellant’s evidence, I concluded that her record keeping was worse than unsatisfactory. She did not have a bank account; she used her mother’s bank account to pay the bills for the Café. She did not have a cash register. It was her evidence that, when there was a sale, she wrote the amount of the sale on a piece of paper. She gave these pieces of paper to her accountant to prepare her returns. He did not give them back to her.
+[9] In an attempt to have documents to support her position, the Appellant made an access request to the LCBO under the Freedom of Information and Protection of Privacy Act to obtain a copy of the record of her purchases for 2005. This record showed that in 2005, the LCBO had made net sales of $1,768.16 to the Appellant. A similar record from The Beer Store showed that the Appellant paid $6,078.30 for beer. This total included GST in the amount of $368.83. The documents submitted by the Appellant established that, in 2005, she had paid GST of $492.60 on her liquor purchases. The Minister has allowed an ITC of $476 and although the difference is minimal, the Appellant should get the benefit of that difference.
+[10] It was the Appellant’s position that not only was the gross business income reported in her 2005 income tax return incorrect; but, all of the amounts in the Statement of Business Activities were incorrect. The income and expenses reported in the Statement of Business Activities were not those of her business. She submitted copies of her 2004, 2006, 2007, 2008 and 2009 income tax returns, which she said should be compared with her 2005 income tax return. The amounts reported in the 2004 return were illegible.
+[11] In the 2005 return there was a claim for expenses for advertising, delivery, interest, meals and entertainment, motor vehicle, and property taxes. It was the Appellant’s evidence that she did not advertise. She did not have an interest expense; her credit rating was so poor that she could not get a loan. She did not own a motor vehicle. She rented the building where the Café was located and she did not pay property taxes.
+[12] In comparison, there was no claim for any of these types of expenses in 2007, 2008 and 2009. I note as well, that the Appellant’s income tax returns for 2007 to 2009, inclusive were prepared by a different accounting firm. There was a claim for a delivery expense on the 2006 return but no claim for the other expenses listed in paragraph 11 above.
+[13] The gross business income reported by the Appellant was $58,570.73, $31,884.63, $29,296.83 and $36,840.43 in 2006, 2007, 2008 and 2009 respectively.
+[14] After a complete review of the Appellant’s income tax returns and a consideration of her evidence, I have concluded that the Appellant has introduced sufficient evidence to establish on a balance of probabilities that the amounts reported in her 2005 income tax return do not relate to her business. I have concluded that in 2005 the Appellant’s business income was not $95,744.
+[15] The standard and burden of proof in tax cases were described by the Supreme Court of Canada in Hickman Motors ltd. v. Canada[1] as follows:
+92 It is trite law that in taxation the standard of proof is the civil balance of probabilities: Dobieco Ltd. v. Minister of National Revenue, [1966] S.C.R. 95, and that within balance of probabilities, there can be varying degrees of proof required in order to discharge the onus, depending on the subject matter: Continental Insurance Co. v. Dalton Cartage Co., [1982] 1 S.C.R. 164; Pallan v. M.N.R., 90 D.T.C. 1102 (T.C.C.), at p. 1106. The Minister, in making assessments, proceeds on assumptions (Bayridge Estates Ltd. v. M.N.R., 59 D.T.C. 1098 (Ex. Ct.), at p. 1101) and the initial onus is on the taxpayer to “demolish” the Minister’s assumptions in the assessment (Johnston v. Minister of National Revenue, [1948] S.C.R. 486; Kennedy v. M.N.R., 73 D.T.C. 5359 (F.C.A.), at p. 5361). The initial burden is only to “demolish” the exact assumptions made by the Minister but no more: First Fund Genesis Corp. v. The Queen, 90 D.T.C. 6337 (F.C.T.D.), at p. 6340.
+93 This initial onus of “demolishing” the Minister’s exact assumptions is met where the appellant makes out at least a prima facie case: Kamin v. M.N.R., 93 D.T.C. 62 (T.C.C.); Goodwin v. M.N.R., 82 D.T.C. 1679 (T.R.B.).
+[16] In the present case, the Appellant adduced evidence which established a prima facie case to demolish the following assumptions made by the Minister: (g) the appellant’s sales were $95,744; (j) the appellant did not report sales of $23,516; (l) the appellant did not report or remit GST collected in the amount of $1,646. The Appellant’s evidence was unchallenged and uncontradicted.
+[17] For all of the above reasons, the appeal is allowed. The Appellant is entitled to a further ITC in the amount of $16.60 and GST collected is to be reduced by $1,646 so that the net tax assessed is reduced by $1,662.60.
+Signed at Ottawa, Canada, this 29th day of October 2010.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2010TCC554
+COURT FILE NO.: 2010-679(GST)I
+STYLE OF CAUSE: ASTIER NEGASH AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 8, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: October 29, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Darren Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan,
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1997] 2 S.C.R. 336

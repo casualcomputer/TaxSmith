@@ -1,0 +1,204 @@
+Title: Montagnese v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27192/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-91-27192-montagnese-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2006-03-31
+
+# Montagnese v. M.N.R.
+
+- Citation: 2006 TCC 91
+- Decision date: 2006-03-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 995, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Montagnese v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-31
+Neutral citation
+2006 TCC 91
+File numbers
+2005-1312(EI)
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-1312(EI)
+BETWEEN:
+ANTONIO MONTAGNESE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+COMMERCIAL PAVING LTD.,
+Intervenor.
+____________________________________________________________________
+Appeal heard on February 7, 2006, at Calgary, Alberta
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+For the Intervenor:
+Marla Teeling
+No one appeared
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan, this 16th day of February 2006.
+"D.W. Beaubier"
+Beaubier J.
+Citation: 2005TCC91
+Date: 20060216
+Docket: 2005-1312(EI)
+BETWEEN:
+ANTONIO MONTAGNESE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+COMMERCIAL PAVING LTD.,
+Intervenor.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal was heard at Calgary, Alberta, on February 7, 2006. The Appellant testified and called his foreman when he was labouring at paving job sites, Robert Bennett. The Respondent called the Ruling Officer on the file, Dianne Bailey, and the Intervenor, Commercial Paving Ltd. (“CP”), called its founder and director, the Appellant’s father, Salvatore (“Sam”) Montagnese.
+[2] Paragraphs 5-9 inclusive of the Reply to the Notice of Appeal set out the particulars in dispute. They read:
+5. By letter dated March 14, 2005, the Minister advised the Appellant of the Minister’s decision that:
+(a) the Appellant and the Payor were not dealing at arm’s length during the period from April 26, 2004 to November 30, 2004 (hereinafter “the Period”), and
+(b) the Minister was not satisfied that the Appellant and the Payor would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+6. In deciding as the Minister did, the Minister relied on the following assumptions of fact:
+(a) the Payor operated a paving business which completed mainly commercial jobs;
+(b) the Payor business was seasonal and would normally only operate when the ground was not frozen;
+(c) the Payor started paving on March 19, 2003 and on April 12 in 2004;
+(d) the share structure of the Appellant was as follows:
+Salvatore Montagnese 34% (hereinafter “the Shareholder”)
+Joe Montagnese 33%
+the Appellant 33%
+(e) the Appellant was the son of the Shareholder and the brother of Joe Montagnese;
+(f) the Appellant and the Payor were related to each other within the meaning of the Income Tax Act, R.S.C. 1985(5th Supp.) c.1, as amended (the “Act”);
+(g) the Appellant was hired as a labourer and the majority of his duties involved operating paving equipment and raking asphalt;
+(h) the Appellant also performed some purchasing and estimating duties;
+(i) the Appellant performed his services at various job sites and at the Payor’s premises;
+(j) Bennett was a site foreman and had worked for the Payor for many years;
+(k) during the Period, the Appellant was paid a monthly salary of $5,000 per month which was based on the Appellant working 44 hours per week;
+(l) the Payor issued the following cheques (net of deductions) to the Appellant:
+Date Cashed
+Amount
+Gross Amount
+17/5/2004
+$900.74
+$1,000.00
+4/6/2004
+$3,525.65
+$5,000.00
+2/7/2004
+$3,525.65
+$5,000.00
+9/8/2004
+$3,525.65
+$5,000.00
+7/9/2004
+$3,525.65
+$5,000.00
+12/10/2004
+$3,525.65
+$5,000.00
+3/11/2004
+$3,525.65
+$5,000.00
+2/12/2004
+$12,009.07
+$19,000.00
+(m) during the 2003 year the Appellant was paid a monthly salary of $2,600 per month;
+(n) the Payor issued T4s to the Appellant containing the following income:
+2003 $15,600 (6 months work)
+2004 $50,000 (7 months work)
+(o) the Payor’s arm’s length employees were paid an hourly rate of between $10.00 and $19.50 per hour;
+(p) the Payor issued T4s to Bennett containing the following income:
+2002 $15,522
+2003 $19,527
+2004 $23,145
+(q) the Payor issued large lump-sum payments to the Appellant, the Shareholder and Joe Montagnese on November 30, 2004;
+(r) the Appellant’s wage rate was not reasonable;
+(s) the Appellant’s salary increase from the 2003 year to the 2004 year was not reasonable;
+(t) the Appellant normally worked 7:30AM to 4:30PM, Monday to Friday;
+(u) the working hours were dependent on the weather;
+(v) from time to time hours would be made up in the evening or on weekends;
+(w) the Appellant did not keep track of his hours worked on job sites;
+(x) Bennett kept a record of the Appellant’s hours worked on job sites;
+(y) the Payor’s arm’s length employees were required to keep track of their hours worked and complete timesheets;
+(z) the Appellant filed an application for employment insurance benefits which stated that the Appellant was a paver operator, normally worked 44 hours per week, five days per week and was paid $5,000 per month;
+(aa) the Payor issued an ROE to the Appellant which included the following:
+occupation – paver operator/asphalt raker
+period worked – April 26, 2004 to November 30, 2004
+insurable earnings - $50,000
+insurable hours – 1,276
+(bb) Bennett worked an average of 39 hours per week;
+(cc) it is not reasonable that the Payor would be paving until the end of November;
+(dd) the Shareholder was active in the business;
+(ee) the Shareholder operated the paver and did a significant amount of the project management;
+(ff) the Shareholder, the Appellant and Joe Montagnese were the directors of the Payor;
+(gg) the directors, including the Appellant, made major decisions as a group;
+(hh) the Appellant was employed under a contract of service with the Payor;
+(ii) the Appellant had previously worked for the Payor in the 1980’s;
+(jj) the Appellant was laid-off by Unicus Data Systems Ltd. (hereinafter “Unicus”) in March of 2003;
+(kk) the Appellant had been a computer programmer for Unicus;
+(ll) the Appellant had worked in the computer programming field for more than six years;
+(mm) the Payor provided training for the Appellant on the paving equipment;
+(nn) the Minister considered all of the relevant facts that were made available to the Minister, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, and
+(oo) the Minister was satisfied that it was reasonable to conclude that the Appellant and the Payor would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+B. ISSUE TO BE DECIDED
+7. The issue to be decided is whether the Minister properly exercised the use of the Minister’s discretionary authority in deciding that the Appellant was engaged in excluded employment with the Payor.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+8. The Respondent relies on section 93, subsections 2(1) and 5(3) and paragraphs 5(1)(a) and 5(2)(i) of the Employment Insurance Act and section 251 of the Act.
+9. The Respondent submits that the Minister properly exercised the use of the Minster’s discretionary authority in the Minister’s decision that the Appellant and the Payor would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length. Accordingly, the Appellant was engaged in excluded employment with the Payor during the period from April 26, 2004 to November 30, 2004 within the meaning of paragraph 5(2)(i) and subsection 5(3) of the Employment Insurance Act.
+[3] Assumptions 6(a), (c), (d), (e), (f), (i), (j), (l), (n), (o), (p), (q), (v), (w), (x), (y), (z), (aa), (bb), (dd), (ff), (gg), (hh), (ii), (jj), (kk) and (ll) were not refuted. But they are conditioned by the comments that follow in these reasons.
+[4] Respecting the remaining assumptions:
+6(b) The Payor could pave after freeze up on dry frozen ground or surfaces although it did not do so normally.
+6(g) The Appellant was not hired as a labourer in 2004. By then Sam was over 60 and the business was beginning to slow down as he aged. Tony, Joe and Sam met and agreed that starting in 2004 they would each be paid $50,000 per year for each paving season and that Sam would ease off in his duties and Tony and Joe would come in as Project Managers to get work for the Payor, purchase new equipment, estimate jobs under $100,000, manage the business and work as labourers on job sites under Robert Bennett who remained as foreman. Sam would supervise and estimate jobs over $100,000, Sam is more or less illiterate in English and Tony and his sister had written out bids for him as school children. Tony and Joe (Gio) had also laboured in the business throughout their school years. Robert Bennett confirmed the statements that, starting in 2004 when Tony and Joe became Project Managers, the business had improved, whereas before that, it was starting to fail.
+6(h) Tony supervised the Payor’s purchasing and did estimates under $100,000. Sam supervised operations and did estimates over $100,000.
+6(k) Tony’s salary was $50,000 per year for the paving season as was Joe’s and Sam’s.
+6(m) Is correct, but Tony was only a labourer in 2003.
+6(r) Tony’s wage rate was reasonable. In his former job he earned over $50,000 per year in a supervisory position. Sam testified that his understanding of wages when he made his deal with the boys was that similar dutied construction employees were earning $60,000 to $80,000 per year. To leave those jobs and hire on with a failing small paving firm such as the Payor had been in 2003 with a view to putting it on its feet and taking over the Payor would require a wage of at least $50,000 per year and Tony knew the business, had written estimates for his father, had supervised in business for others and had earned higher wages. For the Payor to hire such a person in its circumstances in 2003 and 2004 would require at least $50,000 per year.
+6(s) The change in salary from 2003 to 2004 was reasonable because the duties changed to an even greater degree than the salary did.
+6(t) and (u) are correct, but estimating, bidding, purchasing, managing and advertising the business could be done in bad weather, in off season and after 4:30 p.m. Monday to Friday.
+6(cc) Is incorrect. It is reasonable to pave as long as conditions allow it. In some years that can be after November in Calgary, Alberta, where the Payor was and is located.
+6(ee) In 2004 Sam, the Shareholder, reduced his work load as Tony and Joe began to manage projects, operate equipment, estimate and bid for business.
+6(mm) Tony and Joe had been operating this equipment since they were boys. They hardly needed more than a refresher. However everyone was careful to keep Robert Bennett on as a foreman, since he had started in the Payor’s business when he was a teenager.
+6(nn) and (oo) These subparagraphs express subsection 5(3) of the Employment Insurance Act. They will be dealt with in what follows. However answers 18, 23 and 25 to the Minister’s questionnaire (A-2) state that Tony was not a simple labourer and this was in the Minister’s possession. Answer 11 provided Tony’s business academic training. Other answers stated Tony’s non-labour duties for the Payor.
+[5] The result is that the Payor would have to pay $50,000 per seasonal year to hire someone with Tony’s training and experience to become a Project Manager, working hands-on on site at paving jobs for a small, failing, paving contractor in Calgary, Alberta in 2004 having regard to the terms and conditions of the job, the duration of the job and its importance to the long term survival of the company. The Payor and Tony would have entered into a substantially similar contract if they had been dealing with each other at arm’s length.
+[6] What the Payor was hiring with someone with Tony’s experience, education and training was its future. Without that, the Payor probably would not exist in 2006. It had not had such a position before. Rather Sam was a one-man show, operating the Payor on that basis and the Payor’s business was declining.
+[7] The appeal is allowed. The Minister did not properly exercise his discretionary authority in deciding that the Appellant was engaged in excluded employment with the Payor from April 26, 2004 to November 30, 2004.
+Signed at Saskatoon, Saskatchewan, this 16th day of February 2006.
+"D.W. Beaubier"
+Beaubier J.
+CITATION: 2005TCC91
+COURT FILE NO.: 2005-1312(EI)
+STYLE OF CAUSE: Antonio Montagnese v. The Queen
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: February 7, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: February 16, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Counsel for the Intervenor:
+Marla Teeling
+No one appeared
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

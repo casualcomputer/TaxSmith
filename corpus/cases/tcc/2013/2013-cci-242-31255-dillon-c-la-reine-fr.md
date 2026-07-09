@@ -1,0 +1,141 @@
+---
+title: "Dillon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31255/index.do"
+last_modified: "2013-07-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 242"
+citation2: ""
+neutral_citation: "2013 CCI 242"
+decision_date: "2013-07-30"
+language: "fr"
+item_id: "31255"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5097
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:09:46.498000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b5c9abeaffde156891e070b25de2395f930fdcdc0722b8557c1bc7fb18fdd77c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dillon c. La Reine
+
+- Citation: 2013 CCI 242
+- Decision date: 2013-07-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5097, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dillon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-07-30
+Référence neutre
+2013 CCI 242
+Numéro de dossier
+2013-645(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-645(IT)I
+ENTRE :
+JAIYSON DILLON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 19 juillet 2013, à Toronto (Ontario).
+Par : L’honorable juge Judith M. Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Rishma Bhimji
+____________________________________________________________________
+JUGEMENT
+VU la requête de l’intimée présentée en vue d’obtenir une ordonnance radiant l’avis d’appel et rejetant l’appel avec dépens,
+LA COUR ORDONNE :
+1. la requête est accueillie;
+2. l’acte de procédure de l’appelant formulé comme étant un « AVIS D’APPEL et UN AVIS DE DÉFAUT et UN AVIS DE REFUS et UN AVIS RELATIF AUX CONDITIONS » et qui a été déposé au greffe le 22 février 2013 est radié en intégralité, sans autorisation de le modifier;
+3. l’appel est rejeté,
+4. l’intimée a droit aux dépens, fixés à 1 000 $, que l’appelant devra payer à l’intimée au plus tard le 15 août 2013.
+Signé à Toronto (Ontario), ce 30e jour de juillet 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 6e jour de septembre 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2013 CCI 242
+Date : 20130730
+Dossier : 2013‑645(IT)I
+ENTRE :
+JAIYSON DILLON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] La Couronne présente une requête en vue d’obtenir une ordonnance radiant un avis d’appel qui a été déposé le 22 février 2013 et rejetant l’appel avec dépens.
+[2] La requête est présentée en application de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale). La Couronne soutient que l’avis d’appel constitue un recours abusif à la Cour, étant donné qu’il ne désigne aucune question pertinente à l’égard de laquelle la Cour peut statuer relativement à la cotisation en cause et qu’il ne présente pas d’arguments pertinents quant aux faits à l’appui de l’appel.
+[3] Peu de temps après que l’audience avait commencé par la plaidoirie de la Couronne, l’appelant a indiqué qu’il souhaitait intervenir. Toutefois, je n’ai pas permis l’interruption, parce que l’appelant a refusé, à plusieurs reprises, de se lever pour s’adresser à la Cour, à moins que je descende du banc et que je me tienne debout au même niveau que lui.
+[4] Finalement, il a été conclu, à la clôture de l’audience, que je statuerais sur la requête en tenant compte des documents écrits dont la Cour était saisie, et l’affaire a été prise en délibéré. La Couronne a accepté cette procédure.
+[5] Après la clôture de l’audience et après mon départ de la salle d’audience, j’ai été avisée par le personnel de la Cour que l’appelant avait refusé de se conformer aux demandes de quitter la table des avocats et que, finalement, c’est la police qui avait tiré l’appelant des lieux.
+[6] J’ai donc eu l’occasion d’examiner les documents dont la Cour est saisie.
+[7] L’acte de procédure que l’intimée cherche à faire radier est formulé comme étant un « AVIS D’APPEL et UN AVIS DE DÉFAUT et UN AVIS DE REFUS et UN AVIS RELATIF AUX CONDITIONS ».
+[8] Il est manifeste, compte tenu des termes utilisés dans l’acte de procédure et de la conduite de l’appelant à l’audience, qu’il s’agit d’un litige à caractère vexatoire du même genre que celui qui a été décrit par le juge en chef adjoint Rooke au paragraphe 1 de la décision Meads v Meads, 2012 ABQB 571, de la manière suivante :
+[traduction]
+[1] […] Ces personnes ont recours à un ensemble de techniques et d’arguments promus et vendus par des « gourous » (définis ci‑après) dans le but de perturber le fonctionnement du tribunal et de tenter de contrecarrer les droits reconnus par la loi aux gouvernements, aux sociétés et aux personnes.
+[9] Il s’agirait d’un recours abusif à la Cour que de permettre la poursuite du présent litige. La requête de l’intimée présentée en vue d’obtenir une radiation de l’avis d’appel sans autorisation de le modifier est accueillie et l’appel est rejeté.
+[10] L’intimée a droit aux dépens, fixés à 1 000 $, que l’appelant devra payer à l’intimée au plus tard le 15 août 2013.
+Signé à Toronto (Ontario), ce 30e jour de juillet 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 6e jour de septembre 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE : 2013 CCI 242
+No DU DOSSIER DE LA COUR : 2013-645(IT)I
+INTITULÉ : JAIYSON DILLON c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 19 juillet 2013
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 30 juillet 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Rishma Bhimji
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s/o
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

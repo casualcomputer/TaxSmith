@@ -1,0 +1,135 @@
+Title: Barry c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31231/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-221-31231-barry-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-07-09
+
+# Barry c. La Reine
+
+- Citation: 2013 CCI 221
+- Decision date: 2013-07-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5136, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barry c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-07-09
+Référence neutre
+2013 CCI 221
+Numéro de dossier
+2012-390(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-390(IT)I
+ENTRE :
+PATRICK J. BARRY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 14 février 2013, à St. John’s (Terre-Neuve-et-Labrador)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Jan Jensen
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2008 et 2009 est rejeté.
+Signé à Ottawa, Canada, ce 9e jour de juillet 2013.
+« V.A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 7e jour d’août 2013.
+C. Laroche, traducteur
+Référence : 2013 CCI 221
+Date : 20130709
+Dossier : 2012-390(IT)I
+ENTRE :
+PATRICK J. BARRY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Les points en litige dans le présent appel sont les suivants :
+a) si l’appelant a le droit de déduire ses frais afférents à un véhicule à moteur d’un montant de 6 707,53 $ et de 7 592,06 $ dans les années d’imposition 2008 et 2009, respectivement;
+b) s’il a le droit de déduire ses frais de téléphone cellulaire d’un montant de 410 $ et de 440 $ dans les années d’imposition 2008 et 2009, respectivement;
+c) s’il a droit à un « remboursement de la TPS/TVH à l’intention des salariés et des associés » d’un montant de 564,21 $ et de 696,94 $ aux termes de l’article 253 de la Loi sur la taxe d’accise pour les années d’imposition 2008 et 2009, respectivement.
+[2] En 2008 et 2009, l’appelant exerçait deux emplois : un emploi permanent d’enseignant ainsi qu’un emploi temporaire de conseiller de foyer de groupe auprès de l’Eastern Residential Support Board Inc. (l’« ERSB »), à St. John’s, à Terre‑Neuve. Les questions soulevées dans le présent appel ont trait à l’emploi temporaire que l’appelant exerçait auprès de l’ERSB.
+[3] Dans le cadre du présent appel, le ministre du Revenu national (le « ministre ») s’est fondé sur l’alinéa 8(1)h.1) de la Loi de l’impôt sur le revenu (la « LIR ») pour refuser les frais afférents à un véhicule à moteur que l’appelant avait déduits. Il a déterminé que le contrat de travail que ce dernier avait conclu avec l’ERSB ne l’obligeait pas à acquitter les frais afférents à un véhicule à moteur qu’il engageait dans le cadre de l’accomplissement des fonctions de son emploi. Il a déterminé par ailleurs que le contrat de travail de l’appelant ne l’obligeait pas à avoir un téléphone cellulaire.
+[4] À l’audience, les témoins ont été l’appelant et Allan English, gestionnaire des finances et de l’administration auprès de l’ERSB.
+[5] L’ERSB exploite quatorze foyers de groupe situés dans la région métropolitaine de St. John’s. L’appelant a commencé à travailler comme conseiller de foyer de groupe auprès de l’ERSB en 2000; en 2008 et en 2009, il était [traduction] « en disponibilité » auprès de sept de ces foyers. Il a déclaré q u’il était [traduction] « en disponibilité » toutes les fois où il n’exerçait pas son emploi à temps plein d’enseignant. Il a expliqué qu’il se pouvait qu’on l’appelle pour se présenter au travail à très bref délai. Il avait besoin de son véhicule personnel pour se rendre à temps au travail, car il était peu pratique de prendre l’autobus.
+[6] Dans le cadre des fonctions qu’il accomplissait auprès de l’ERSB, l’appelant accompagnait des pensionnaires des foyers de groupe qui voulaient faire des achats, aller à un rendez-vous chez le médecin ou prendre part à des activités récréatives. Pour ce faire, il se servait de son véhicule personnel; en 2008 et en 2009, l’ERSB lui a fourni des formulaires T‑2200 positifs qui l’autorisaient à déduire ses frais afférents à un véhicule à moteur conformément à l’alinéa 8(1)h.1) de la LIR.
+[7] Selon M. English, le fait de posséder un véhicule à moteur n’était pas une condition d’emploi. En 2008 et 2009, l’ERSB a donné à l’appelant le choix de prendre un taxi, un moyen de transport public ou son véhicule personnel pour amener les pensionnaires à leurs diverses activités. Il a déclaré qu’un employé qui se servait de son véhicule personnel devait détenir une assurance appropriée. Quand un employé se servait de son véhicule personnel pour transporter des pensionnaires, l’ERSB avait pour pratique de lui rembourser le kilométrage qu’il parcourait dans le cadre de ses fonctions ou de lui remettre un formulaire T‑2200 positif, selon celle de ces deux options que l’employé jugeait la plus avantageuse.
+[8] M. English a expliqué ce qui avait amené l’ERSB à remettre des formulaires T‑2200 à ses employés. D’après ce qu’il a compris, des dirigeants de l’ERSB avaient consulté des représentants de l’Agence du revenu du Canada (l’« ARC ») en 2003 et 2004 au sujet de l’utilisation de ce formulaire. L’ERSB a cru comprendre par suite de ces consultations que, si l’on autorisait les employés à se servir de leur véhicule pour accomplir les fonctions de leur emploi et si ces employés acquittaient leurs propres dépenses, l’employeur pouvait dans ce cas leur remettre un formulaire T‑2200.
+[9] De l’avis de M. English, il était avantageux, tant pour les employés que pour l’ERSB, que les employés se servent de leur véhicule personnel. Cette option était plus économique pour l’ERSB et elle procurait plus de mobilité aux pensionnaires des foyers de groupe.
+[10] Quand, en 2010, il a appris que plusieurs employés de l’ERSB s’étaient vu refuser, à la suite d’une vérification, la déduction des frais afférents à un véhicule à moteur, M. English est entré en contact avec un vérificateur de l’ARC. Après avoir discuté avec ce dernier et consulté ensuite l’avocat de l’ERSB, M. English a demandé à l’ERSB de cesser de remettre des formulaires T‑2200 positifs aux employés qui n’étaient pas tenus, de par leur contrat de travail, d’acquitter les frais afférents à un véhicule à moteur qu’ils engageaient dans l’accomplissement des fonctions de leur emploi.
+[11] Pour ce qui est des employés dont l’ARC a refusé la déduction des frais afférents à un véhicule à moteur, l’ERSB a depuis ce temps offert de leur rembourser ces frais en 2008, 2009 et 2010. L’appelant a toutefois décidé de poursuivre le présent appel, plutôt que de présenter une demande de remboursement à son employeur.
+[12] L’appelant a convenu que son contrat de travail ne l’obligeait pas expressément à acquitter les frais afférents à un véhicule à moteur qu’il engageait. Il est toutefois d’avis que son contrat prévoyait implicitement qu’il devait se servir de son véhicule personnel dans le cadre de l’accomplissement de ses fonctions et qu’il lui fallait donc acquitter les frais afférents à un véhicule à moteur. L’ESRB, a-t-il soutenu, voulait que les pensionnaires aient accès à la collectivité, et il était plus à même d’assurer cet accès s’il se servait de son propre véhicule. Il a ajouté qu’il n’était pas commode ou pratique d’utiliser les transports en commun ou de prendre un taxi.
+[13] L’appelant a également exprimé l’avis qu’il devrait avoir le droit de déduire les frais de déplacement qu’il a engagés pour se rendre depuis son domicile jusqu’aux foyers de groupe où il travaillait. Il a déclaré que son véhicule était un outil dont il devait se servir dans le cadre de son emploi. Durant son quart de travail, ce véhicule ne restait pas garé à côté du foyer de groupe. Il était plutôt nécessaire de s’en servir pour permettre aux pensionnaires d’avoir accès à la collectivité.
+[14] L’appelant a déclaré qu’avant d’obtenir son emploi auprès de l’ERSB, il n’avait pas de téléphone cellulaire. Il était essentiel d’en avoir un parce qu’il était [traduction] « en disponibilité ». Il se pouvait qu’on l’appelle pour se rendre au travail à très bref avis. S’il avait refusé de se rendre au travail ou avait manqué un appel trois fois de suite, il aurait perdu son ancienneté auprès de l’ERSB.
+Analyse
+[15] L’alinéa 8(1)h.1) de la LIR est libellé ainsi :
+8(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+h.1) dans le cas où le contribuable, au cours de l’année, a été habituellement tenu d’accomplir les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits et a été tenu, aux termes de son contrat d’emploi, d’acquitter les frais afférents à un véhicule à moteur qu’il a engagés dans l’accomplissement des fonctions de sa charge ou de son emploi, les sommes qu’il a dépensées au cours de l’année au titre des frais afférents à un véhicule à moteur pour se déplacer dans l’exercice des fonctions de son emploi, sauf s’il a, selon le cas :
+(i) reçu une allocation pour frais afférents à un véhicule à moteur qui, par l’effet de l’alinéa 6(1)b), n’est pas incluse dans le calcul de son revenu pour l’année,
+(ii) demandé une déduction pour l’année en application de l’alinéa f); […]
+[16] Selon l’alinéa 8(1)h.1), le contribuable est tenu de remplir les conditions suivantes pour pouvoir déduire les frais afférents à un véhicule à moteur qu’il a engagés :
+1) il a été habituellement tenu d’accomplir les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits;
+2) il a été tenu aux termes de son contrat d’emploi d’acquitter les frais afférents à un véhicule à moteur qu’il a engagés;
+3) les frais afférents à un véhicule à moteur ont été engagés dans l’accomplissement des fonctions de son emploi.
+[17] L’expression « à différents endroits » n’exclut pas un lieu d’affaires et peut s’appliquer à une situation dans laquelle l’employeur a plus qu’un seul lieu d’affaires : Royer v R, [2000] 1 CTC 2688 (CCI); Ménard c R, 2004 CCI 516, au paragraphe 35. Dans les circonstances de l’espèce, je conclus que l’ERSB avait son siège social au numéro 95, avenue Bonaventure, à St. John’s, et qu’elle avait un lieu d’affaires dans chacun des quatorze foyers de groupe.
+[18] L’appelant a déclaré qu’il pouvait être appelé à travailler dans sept foyers de groupe différents en 2008 et 2009. Il n’était pas affecté à un foyer en particulier. De plus, dans le cadre de ses fonctions, il était tenu d’emmener les pensionnaires des foyers de groupe vaquer à diverses occupations au sein de la collectivité. Je conclus que l’appelant était habituellement tenu d’accomplir ses fonctions « à différents endroits » et que la première condition est remplie.
+[19] Cependant, il ressort clairement de la preuve que l’appelant ne remplit pas la deuxième condition que prévoit l’alinéa 8(1)h.1). J’ai conclu d’après la preuve que son contrat de travail n’exigeait pas expressément ou implicitement qu’il acquitte les frais afférents à un véhicule à moteur.
+[20] M. English a déclaré qu’il ne s’agissait pas d’une condition d’emploi que l’appelant se serve de son propre véhicule dans le cadre de son emploi. Il a déclaré que de nombreux employés refusent de le faire pour transporter des pensionnaires et qu’ils prennent plutôt un taxi ou un moyen de transport public. Il a ajouté que les conditions de l’emploi que l’appelant exerçait auprès de l’ERSB figuraient dans la convention collective conclue entre Sa Majesté la Reine du chef de Terre‑Neuve et les Foyers collectifs et la Newfoundland Association of Public Employees (la « convention collective »). M. English ignorait s’il existait une autre entente entre l’appelant et l’ERSB.
+[21] Je signale que l’article 30 de la convention collective confirme que l’appelant n’était pas tenu de se servir de son véhicule personnel dans le cadre de l’accomplissement de ses fonctions et qu’il n’avait donc pas à acquitter les frais afférents à un véhicule à moteur. Comme l’indique cet article :
+[traduction]
+[…]
+b)(i) Si, dans le cadre de ses fonctions, l’employé est tenu de se déplacer pour vaquer aux affaires de l’employeur, ce dernier assure son transport ou peut l’autoriser à se servir de son véhicule et se faire rembourser ainsi […]
+[22] L’appelant a invoqué la décision rendue dans l’affaire Rozen v Canada, [1986] 1 CTC 50 (CF 1re inst) pour faire valoir que son employeur s’attendait à ce qu’il se serve de son véhicule dans le cadre de ses fonctions et qu’il devait supporter les frais liés à l’utilisation de ce véhicule. Il s’agissait, a-t-il soutenu, d’une condition implicite de son contrat. Toutefois, l’affaire Rozen est à distinguer du présent appel. Dans Rozen, il n’y avait pas de contrat écrit entre le contribuable et son employeur, comme c’est le cas en l’espèce. De plus, dans Rozen, contrairement au présent appel, le contribuable était tenu d’utiliser son véhicule dans le cadre de ses fonctions.
+[23] À l’appui de sa position selon laquelle il devrait pouvoir déduire les frais de déplacement qu’il a engagés en se rendant de son domicile jusqu’au foyer de groupe, l’appelant a invoqué l’arrêt Chrapko v MNR, [1988] 2 CTC 342 (CAF), ainsi que la décision Evans v The Queen, 99 DTC 168 (CCI). Dans Chrapko, le contribuable avait pu déduire les frais de déplacement entre son domicile et un lieu de travail situé à une certaine distance de l’endroit où il travaillait « habituellement ». Dans le présent appel, les sept foyers de groupe où travaillait l’appelant étaient ses lieux de travail habituels. Dans Evans, la contribuable avait pu déduire les frais de déplacement qu’elle avait engagés en faisant la navette entre son lieu de travail et son lieu de résidence, parce qu’elle transportait du matériel lié à son travail dans le coffre de son automobile. Dans le présent appel, les frais de déplacement engagés par l’appelant en faisant la navette entre son lieu de travail et son lieu de résidence ne l’ont pas été dans l’accomplissement des fonctions de son emploi.
+[24] Peut-être bien qu’il était plus commode pour l’appelant de se servir de son véhicule personnel en vue d’emmener les pensionnaires des foyers de groupe à leurs activités plutôt que de prendre un taxi ou un moyen de transport public, mais cela ne veut pas dire qu’il était tenu par son contrat de travail d’acquitter les frais afférents à ce véhicule. Je suis arrivée à la conclusion que l’appelant n’a pas établi qu’il avait le droit de déduire ces frais. Ma décision sur cette question tranche également celle qui se rapporte au droit qu’a l’appelant à un remboursement sous le régime de la Loi sur la taxe d’accise.
+[25] Il n’y avait aucune preuve que l’appelant était tenu par son employeur de posséder un téléphone cellulaire. Il était commode pour lui d’en avoir un, mais, à mon avis, les frais liés à la possession du téléphone cellulaire étaient une dépense personnelle.
+[26] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 9e jour de juillet 2013.
+« V.A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 7e jour d’août 2013.
+C. Laroche, traducteur
+RÉFÉRENCE : 2013 CCI 221
+No DU DOSSIER DE LA COUR : 2012-390(IT)I
+INTITULÉ : PATRICK J. BARRY ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : St. John’s (Terre-Neuve-et-Labrador)
+DATE DE L’AUDIENCE : Le 14 février 2013
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 9 juillet 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Jan Jensen
+AVOCATS INSCRITS
+AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

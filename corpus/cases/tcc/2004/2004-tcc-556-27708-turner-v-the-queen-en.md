@@ -1,0 +1,200 @@
+---
+title: "Turner v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27708/index.do"
+last_modified: "2004-08-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 556"
+citation2: ""
+neutral_citation: "2004 TCC 556"
+decision_date: "2004-08-10"
+language: "en"
+item_id: "27708"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 461
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:10:11.781000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2bfdf7bf5b9fea8f62c2981126931510a03e61756f77850bd020e5f4f69d2ecc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Turner v. The Queen
+
+- Citation: 2004 TCC 556
+- Decision date: 2004-08-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 461, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Turner v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-08-10
+Neutral citation
+2004 TCC 556
+File numbers
+2003-4080(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4080(IT)I
+BETWEEN:
+NIGEL TURNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 2, 2004, at Toronto, Ontario, by
+The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Howard Lastman
+Agent for the Respondent:
+Sharon Stewart Guthrie (Student-at-law)
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1999 taxation year is allowed, with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant did not have to report the amount of $19,247 in computing his income for the year.
+Signed at Ottawa, Canada, this 10th day of August, 2004.
+"E.A. Bowie"
+Bowie J.
+Citation: 2004TCC556
+Date: 20040810
+Docket: 2003-4080(IT)I
+BETWEEN:
+NIGEL TURNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] When filing his income tax return for the taxation year 1999, the Appellant did not report an amount of $19,247 that was his share of the income of a partnership known as Goldengate #5 Limited Partnership (the partnership), as reported by it in its statement of partnership income filed to comply with Income Tax Regulation 229. The issue before me is whether the provisions of the Income Tax Act (the Act) required him to do so.
+[2] The facts are not in dispute. The Appellant purchased an interest in the partnership in the early 1980s. It owns and operates one or more multiple-unit residential buildings. On April 16, 1998 the Appellant made an assignment in bankruptcy. By the operation of section 2 of the Bankruptcy and Insolvency Act[1] his partnership interest then vested in his trustee in bankruptcy. On January 16, 1999 the Appellant received an unconditional discharge. The trustee testified that at the time this appeal was heard in June 2004, he had not yet been discharged, but continued to administer the estate for the benefit of the creditors. One of the assets that remained in his hands was the partnership interest. Although there was some suggestion in the evidence that it might have a value of about $3,000, the trustee had not been able to find a buyer for it at any price.
+[3] The final significant piece of evidence is a copy of the statement of partnership income, filed by the partnership, which reported that the Appellant's income from the partnership in the year ending December 31, 1999 was $19,247.16. Neither the Appellant nor the trustee received any distribution of this income from the partnership. The Minister of National Revenue reassessed the Appellant in July 2002 to include this amount in his income for 1999.
+[4] The incidence of income tax in this case is governed by subsection 128(2) of the Act. The relevant parts read as follows:
+128(2) Where an individual has become a bankrupt, the following rules are applicable:
+(a) the trustee in bankruptcy shall be deemed to be the agent of the bankrupt for all purposes of this Act;
+(b) the estate of the bankrupt shall be deemed not to be a trust or an estate for the purposes of this Act;
+(c) the income and the taxable income of the individual for any taxation year during which the individual was a bankrupt and for any subsequent year shall be calculated as if
+(i) the property of the bankrupt did not pass to and vest in the trustee in bankruptcy on the receiving order being made or the assignment filed but remained vested in the bankrupt, and
+(ii) any dealing in the estate of the bankrupt or any act performed in the carrying on of the business of the bankrupt estate by the trustee was done as agent on behalf of the bankrupt and any income of the trustee from such dealing or carrying on is income of the bankrupt and not of the trustee;
+(d) except for the purposes of subsections 146(1), 146.01(4) and 146.02(4) and Part X.1,
+(i) a taxation year of the individual is deemed to have begun at the beginning of the day on which the individual became a bankrupt, and
+(ii) the individual's last taxation year that began before that day is deemed to have ended immediately before that day;
+...
+(e) where the individual was a bankrupt at any time in a calendar year the trustee shall, within 90 days from the end of the year, file a return with the Minister, in prescribed form, on behalf of the individual of the individual's income for any taxation year occurring in the calendar year computed as if
+(i) the only income of the individual for that taxation year was the income for the year, if any, arising from dealings in the estate of the bankrupt or acts performed in the carrying on of the business of the bankrupt by the trustee,
+(ii) in computing the individual's taxable income for that taxation year, no deduction were permitted by Division C, other than
+(A) an amount under any of paragraphs 110(1)(d) to (d.3) and section 110.6 to the extent that the amount is in respect of an amount included in income under subparagraph (i) for that taxation year, and
+(B) an amount under section 111 to the extent that the amount was in respect of a loss of the individual for any taxation year that ended before the individual was discharged absolutely from bankruptcy, and
+(iii) in computing the individual's tax payable under this Part for that taxation year, no deduction were allowed
+(A) under section 118, 118.2, 118.3, 118.5, 118.6, 118.8 or 118.9,
+(B) under section 118.1 with respect to a gift made by the individual on or after the day the individual became bankrupt,
+(B.1) under section 118.62 with respect to interest paid on or after the day on which the individual became bankrupt, and
+(C) under subsection 127(5) with respect to an expenditure incurred or property acquired by the individual in any taxation year that ends after the individual was discharged absolutely from bankruptcy,
+and the trustee is liable to pay any tax so determined for that taxation year;
+(f) notwithstanding paragraph (e), the individual shall file a separate return of the individual's income for any taxation year during which the individual was a bankrupt, computed as if
+(i) the income required to be reported in respect of the year by the trustee under paragraph (e) was not the income of the individual,
+(ii) in computing income, the individual was not entitled to deduct any loss sustained by the trustee in the year in dealing with the estate of the bankrupt or in carrying on the business of the bankrupt,
+(iii) in computing the individual's taxable income for the year, no amount were deductible under any of paragraphs 110(1)(d) to (d.3) and section 110.6 in respect of an amount included in income under subparagraph (e)(i), and no amount were deductible under section 111, and
+(iv) in computing the individual's tax payable under this Part for the year, no amount were deductible under
+(A) section 118.1 in respect of a gift made before the day on which the individual became bankrupt,
+(B) section 118.62 in respect of interest paid before the day on which the individual became bankrupt, or
+(C) section 118.61 or 120.2 or subsection 127(5),
+and the individual is liable to pay any tax so determined for that taxation year;
+(g) ... [irrelevant]
+(h) where, in a taxation year commencing after an order of discharge has been granted in respect of the individual, the trustee deals in the estate of the individual who was a bankrupt or performs any act in the carrying on of the business of the individual, paragraphs (e), (f) and (g) shall apply as if the individual were a bankrupt in the year; and
+(i) [irrelevant]
+128(2) Lorsqu'un particulier est en faillite, les règles suivantes s'appliquent :
+a) pour l'application générale de la présente loi, le syndic de faillite est réputé être le mandataire du failli;
+b) l'actif du failli est, pour l'application de la présente loi, considéré comme ne constituant ni une fiducie ni une succession;
+c) le revenu et le revenu imposable du particulier pour toute année d'imposition au cours de laquelle il était en faillite et pour toute année postérieure doivent être calculés :
+(i) comme si le syndic de faillite n'était ni saisi ni mis en possession des biens du failli dès que l'ordonnance de séquestre est rendue ou que la cession est produite, mais comme si le failli en restait saisi,
+(ii) comme si le syndic accomplissait les opérations portant sur l'actif du failli ou les actes concernant la poursuite des activités de l'entreprise en faillite à titre de mandataire agissant pour le compte du failli et comme si tout revenu du syndic tiré de ces opérations ou actes était le revenu du failli et non du syndic;
+d) sauf pour l'application des paragraphes 146(1), 146.01(4) et 146.02(4) et de la partie X.1 :
+(i) l'année d'imposition du particulier est réputée avoir commencé au début du jour où il est mis en faillite,
+(ii) sa dernière année d'imposition ayant commencé avant ce jour est réputée avoir pris fin immédiatement avant ce jour;
+...
+e) lorsqu'un particulier était en faillite à un moment donné au cours d'une année civile, le syndic doit, dans les 90 jours qui suivent la fin de l'année, présenter au ministre, pour le compte de ce particulier, une déclaration selon le formulaire prescrit indiquant le revenu du particulier pour toute année d'imposition survenant au cours de l'année civile, calculé :
+(i) comme si le seul revenu du particulier pour une telle année d'imposition était le revenu de l'année éventuellement tiré des opérations portant sur l'actif du failli ou des actes dans le cadre de l'exploitation de l'entreprise du failli, accomplis par le syndic,
+(ii) comme si, dans le calcul du revenu imposable du particulier pour l'année d'imposition en question, il n'était permis de déduire selon la section C que les montants suivants :
+(A) un montant prévu par l'un des alinéas 110(1)d) à d.3) ou par l'article 110.6, dans la mesure où il se rapporte à un montant inclus dans le revenu en application du sous-alinéa (i) pour cette année,
+(B) un montant prévu par l'article 111, dans la mesure où il se rapporte à une perte du particulier pour une année d'imposition qui s'est terminée avant sa libération inconditionnelle,
+(iii) comme si, dans le calcul de l'impôt payable en vertu de la présente partie par le particulier pour l'année d'imposition en question, aucune déduction n'était permise en application :
+(A) des articles 118, 118.2, 118.3, 118.5, 118.6, 118.8 ou 118.9,
+(B) de l'article 118.1 au titre d'un don fait par le particulier le jour de sa faillite ou postérieurement,
+(B.1) de l'article 118.62 au titre des intérêts payés le jour de sa faillite ou postérieurement,
+(C) du paragraphe 127(5) au titre d'une dépense engagée par le particulier, ou d'un bien acquis par lui, au cours d'une année d'imposition se terminant après sa libération inconditionnelle;
+le syndic est en outre tenu d'acquitter tout impôt ainsi déterminé pour l'année d'imposition en question;
+f) malgré l'alinéa e), le particulier doit produire une déclaration distincte de son revenu pour toute année d'imposition durant laquelle il a été en faillite, calculé comme si :
+(i) le revenu que le syndic était tenu de déclarer pour l'année sous le régime de l'alinéa e) n'était pas le revenu du particulier,
+(ii) dans le calcul du revenu, le particulier n'avait pas le droit de déduire une perte quelconque subie par le syndic pour l'année dans le cadre de l'administration de l'actif du failli ou de l'exploitation de l'entreprise du failli,
+(iii) dans le calcul du revenu imposable du particulier pour l'année, aucun montant n'était déductible en application de l'un des alinéas 110(1)d) à d.3) ou de l'article 110.6 au titre d'un montant inclus dans le revenu en application du sous-alinéa e)(i), et aucun montant n'était déductible selon l'article 111,
+(iv) dans le calcul de l'impôt payable par le particulier pour l'année en vertu de la présente partie, aucun montant n'était déductible selon les dispositions suivantes :
+(A) l'article 118.1 au titre d'un don effectué avant le jour de la faillite du particulier,
+(B) l'article 118.62 au titre des intérêts payés avant sa faillite,
+(C) les articles 118.61 ou 120.2 ou le paragraphe 127(5);
+le particulier est en outre tenu d'acquitter tout impôt ainsi déterminé pour l'année d'imposition en question;
+g) ... [sans rapport]
+h) lorsque, au cours d'une année d'imposition commençant après qu'une ordonnance de libération a été rendue à l'égard du particulier, le syndic accomplit des opérations portant sur l'actif du particulier qui était en faillite, ou des actes dans le cadre de l'exploitation de l'entreprise de ce dernier, les alinéas e), f) et g) s'appliquent comme si ce particulier avait été en faillite au cours de l'année;
+i) [sans rapport]
+[5] The argument of the agent for the Respondent was nothing if not succinct. Her position was that paragraph 128(2)(c) dictates the result. Unfortunately, she did not go on to analyze the effect of paragraphs 128(2)(e) and (f). The effect of these provisions is to ensure that for any year during any part of which the taxpayer is bankrupt, the trustee is liable to report the income derived from the bankrupt's former business or property, while it is under his control and management, and to pay the tax on it, and the bankrupt is liable to report the remainder of his income for the year, and to pay the tax on it. The aggregate of the income that the trustee and the bankrupt report pursuant to paragraphs 128(2)(e) and (f) makes up the total income of the bankrupt for the year as it is defined in paragraph 128(2)(c). Not only is this scheme clear from the words of the Act in both official languages, it accords as well with common sense. It would be both unfair and illogical if a bankrupt were liable to pay income tax in respect of income that was earned by a business or property that was vested in and being managed by the trustee for the benefit of the creditors.
+[6] In this case the Appellant was discharged on January 16, 1999, so the opening words of paragraph 128(2)(e) are satisfied. The income in question was derived from the partnership in respect of its financial period ending in December 1999; it therefore falls within the words:
+... the income for the year ... arising from the dealings in the estate of the bankrupt or acts performed in the carrying on of the business of the bankrupt by the trustee.
+The income derives from a partnership, and so by definition it is the product of a business carried on by the trustee in common with the other partners. It follows that the trustee was required to file a return within the first 90 days of 2000, reporting the income of $19,247.16 allocated by the partnership to Mr. Turner's interest in it, and he was liable to pay the tax on that income. I note in passing that for years subsequent to 2000, so long as the trustee continues to administer this asset for the benefit of the creditors, the same result will prevail by reason of paragraph 128(2)(h) of the Act.
+[7] The appeal is therefore allowed, with costs.
+Signed at Ottawa, Canada, this 10th day of August, 2004.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2004TCC556
+COURT FILE NO.:
+2003-4080(IT)I
+STYLE OF CAUSE:
+Nigel Turner and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 2, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT:
+August 10, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Howard Lastman
+Agent for the Respondent:
+Sharon Stewart Guthrie (Student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Howard Lastman
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S. c. B - 3

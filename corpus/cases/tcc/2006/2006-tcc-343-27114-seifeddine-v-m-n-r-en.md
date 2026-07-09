@@ -1,0 +1,238 @@
+---
+title: "Seifeddine v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27114/index.do"
+last_modified: "2006-06-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 343"
+citation2: ""
+neutral_citation: "2006 TCC 343"
+decision_date: "2006-06-19"
+language: "en"
+item_id: "27114"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 919
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:00:14.627000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cd969de7a023cb0e9892961489efa151db9558dd8b956e12fd4f2c9b6dc80753"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Seifeddine v. M.N.R.
+
+- Citation: 2006 TCC 343
+- Decision date: 2006-06-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 919, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Seifeddine v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-06-19
+Neutral citation
+2006 TCC 343
+File numbers
+2005-3916(EI)
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-3916(EI)
+BETWEEN:
+SANNA SEIFEDDINE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 5, 2006 at Lethbridge, Alberta
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Agent for the Appellant:
+Neal Seifeddine
+Counsel for the Respondent:
+Mark Heseltine
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan, this 19th day of June, 2006.
+"D. W. Beaubier"
+Beaubier, J.
+Citation: 2006TCC343
+Date: 20060619
+Docket: 2005-3916(EI)
+BETWEEN:
+SANNA SEIFEDDINE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal was heard at Lethbridge, Alberta. The Appellant's husband, Neal, testified and also called Theodore Pedersen, a cook at the restaurant managed by Neal, owned by Neal's parents and where Sanna worked during the time in question at Fort McLeod, Alberta.
+[2] The Appellant's application for Employment Insurance was denied. Paragraphs 5 to 7 inclusive of the Reply to the Notice of Appeal set out the matters in dispute. They read:
+5. By letter dated October 13, 2005, the Minister advised the Appellant of the Minister's decision that:
+(a) the Appellant and the Payor were not dealing at arm's length during the period from January 2, 2005 to May 6, 2005, and
+(b) the Minister was not satisfied that the Appellant and the Payor would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+6. In deciding as the Minister did, the Minister relied on the following assumptions of fact:
+(a) the Payor operated a full menu restaurant and lounge;
+(b) the share structure of the Appellant was as follows:
+Hafex Seifeddine 50%
+Nora Seifeddine 50%
+(c) the Appellant was the daughter-in-law of the shareholders;
+(d) the Appellant and the Payor were related to each other within the meaning of the Income Tax Act, R.S.C. 1985 (5th Supp.) c.1, as amended (the "Act");
+(e) the Appellant's husband (hereinafter "Neal") was managing the business for his parents;
+(f) the Appellant's duties included semi-line cook and prep worker;
+(g) the Appellant had no prior experience as a cook before working for the Payor;
+(h) the Appellant became pregnant in 2004 and had her baby in May of 2005;
+(i) the Appellant was on the Payor's payroll for less than five months;
+(j) the Appellant provided unpaid services to the Payor during the 2004 year;
+(k) the Appellant earned a wage of approximately $8.00 per hour which was increased to $9.00 per hour and then $10.00 per hour;
+(l) the Appellant was paid in a sporadic and random manner;
+(m) the Payor issued only three cheques to the Appellant;
+(n) normally the Appellant and Neal made personal purchases on the Payor's company credit cards and the amounts were counted as the Appellant's wages;
+(o) at least one of the Appellant cheques was deposited back into the Payor's bank account;
+(p) the Appellant's manner of remuneration was unreasonable;
+(q) the Payor's normal business hours were 11:00 AM to 1:00 AM, 7 days a week;
+(r) the Appellant normally worked 5 to 8 hours a day, 6 days a week;
+(s) the Appellant's hours of work were not recorded;
+(t) the Appellant took time-off for meetings with doctors;
+(u) the Appellant did not complete a time sheet;
+(v) the Appellant was normally paid for 96 hours semi-monthly, regardless of the actual hours worked;
+(w) an arm's length employee who was paid by the hour would have their hours recorded;
+(x) the Payor's payroll records showed the Appellant had the following earnings:
+Period
+Hours
+Gross Pay
+Cash Advance
+Cheque Amount
+Jan 1 to 15
+96
+$ 796.00
+$670.12
+Jan 16 to 31
+96
+$ 796.00
+$219.44
+$450.68
+Feb 1 to 15
+96
+$ 796.00
+$670.12
+Feb 16 to 28
+80
+$ 640.00
+Mar 1 to 15
+96
+$ 796.00
+$670.12
+March 15 to 31
+96
+$ 796.00
+$527.60
+owing $142.52
+Apr 1 to 15
+96
+$ 912.00
+$ 47.50
+Apr 16 to 30
+96
+$ 912.00
+$1,500.00
+May 6
+76
+$ 760.00
+$ 657.75
+Total
+$7,204.00
+(y) the Payor's payroll records also showed that the Appellant received $282.56 in vacation pay which was not included in the gross pay;
+(z) the Appellant completed an "Application for Unemployment Benefits" which included the following information:
+First day worked January 2, 2005
+Last day worked May 6, 2005
+Hours normally worked in month 192 hours
+Days normally worked in week 5.5 days
+(aa) the Payor issued a "Record of Employment" to the Appellant which included the following information:
+Pay period semi-monthly
+First day worked January 2, 2005
+Last day worked May 6, 2005
+Total insurable hours 828 hours
+Total insurable earnings $6,888.96
+(bb) Neal controlled the day to day activities of the Payor and made decisions;
+(cc) the Payor instructed, directed and supervised the Appellant;
+(dd) the Appellant was not a director or shareholder of the Payor;
+(ee) the Appellant did not make financial or major decisions for the Payor;
+(ff) the Appellant did not have signing authority for the Payor;
+(gg) the Appellant had to provide her services personally and could not replace herself;
+(hh) the Appellant did not work for others while performing services of the Payor;
+(ii) the Payor provided all of the tools and equipment required;
+(jj) the Appellant did not share in the profits of the Payor's business;
+(kk) the Appellant was not liable for errors or negligence;
+(ll) the Appellant did not incur any expenses in the performance of her duties;
+(mm) the Appellant's services were terminated due to maternity leave;
+(nn) the Appellant was not replaced when she left the Payor;
+(oo) the Appellant and the Payor stated that the an unrelated worker would be treated the same as the Appellant;
+(pp) the Minister considered all of the relevant facts that were made available to the Minister, including the remuneration paid, the terms and conditions, the duration and nature and importance of the work performed, and
+(qq) the Minister was satisfied that it was reasonable to conclude that the Appellant and the Payor would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+B. ISSUE TO BE DECIDED
+7. The issue to be decided is whether the Minister properly exercised the use of the Minister's discretionary authority in deciding that the Appellant was engaged in excluded employment with the Payor.
+[3] All of the assumptions except 6 (j), (n), (o), (p), (s), (t), (u), (v), (bb) and (nn) were not refuted and do not require comment; (pp) and (qq) are the essence of the dispute.
+[4] Respecting the above described assumptions in paragraph 6 of the Reply:
+(j) It appears to have been common that the Payor did not always pay staff who were learning their jobs as new would-be employees. That was Sanna's situation in 2004.
+(n) The credit card was Neal's, not the Payor's. The Payor's purchases were also on Neal's card. In order to collect points, Neal's card was used heavily by all these parties.
+(o) It was not uncommon for employees to cash their cheques at the Payor's or to withdraw cash advances against wages owed and, on occasion, against future wages. FortMcLeod is a small somewhat isolated town, employees are hard to find, and so the Payor had to accommodate them.
+(p) The Appellant's rate of pay was reasonable. She was paid in part when she charged purchases against Neal's credit card. This may have been "unreasonable", but no other employees did this and it was "unusual".
+(s) None of the Seifeddine family recorded their hours. Ted testified that they worked about the same or sometimes more hours than other employees, as did Sanna. He is believed.
+(t) This was also done for other employees.
+(u) For her first learning month, Sanna completed a time sheet. She did not during the period in question. Nor did other Seifeddines.
+(bb)Neal and his brother, Brian, controlled the Payor's activities and made decisions.
+(nn)The Appellant replaced a worker, Wayne, when she was hired in January after two cooks left. When she left in May, she was not replaced.
+[5] Assumptions (pp) and (qq) are the essence of the legal problem before the Court. With respect to them:
+(pp)The remuneration paid Sanna, including her raise, was at a normal rate for this Payor-employer in Fort McLeod. The duration and nature and importance of Sanna's work was also normal for a worker of her experience. The conditions of her employment, generally, were also typical of the Payor's treatment of arm's length employees in FortMcLeod. Sanna was on a monthly salary, but it was at an hourly rate with working hours that were about the same as arm's length employees. However, the manner of payment was not usual. There were two differences: the credits against Neal's credit card, and the $1,500 payment described in assumption 6 (x). Both of these did not occur with other employees, in or out of the Seifeddine family. They are of a nature that could occur in slave-like "employment" situations elsewhere in Canada, or they could occur in a family situation. The extenuating circumstance in Sanna's case is that she could not speak English. She immigrated to Canadain June 2004 from the Middle East and immediately married Neal. She did not know our language, culture, kinds of stores or any of the practice of daily life in Canada; this fact goes a long way towards explaining the use of Neal's credit card.
+However, 4 things - the failure to record hours, the monthly salary, the charges against Neal's credit card, and the sporadic and $1,500 payment were all terms of employment and pay that would not have occurred respecting an employee at arm's length even if that employee had suffered from language difficulties.
+(qq)Thus it is reasonable to conclude that the Appellant and the Payor would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[6] The Minister properly exercised the use of the Minister's discretionary authority in deciding that the Appellant was engaged in excluded employment with the Payor.
+[7] The appeal is dismissed.
+Signed at Saskatoon, Saskatchewan, this 19th day of June, 2006.
+"D. W. Beaubier"
+Beaubier, J.
+CITATION: 2006TCC343
+COURT FILE NO.: 2005-3916(EI)
+STYLE OF CAUSE: Sanna Seifeddine v. MNR
+PLACE OF HEARING: Lethbridge, Alberta
+DATE OF HEARING: June 5, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: June 19, 2006
+APPEARANCES:
+Agent for the Appellant:
+Neal Seifeddine
+Counsel for the Respondent:
+Mark Heseltine
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

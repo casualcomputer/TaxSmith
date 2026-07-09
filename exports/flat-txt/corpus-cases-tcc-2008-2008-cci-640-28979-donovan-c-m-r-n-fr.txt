@@ -1,0 +1,135 @@
+Title: Donovan c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28979/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-640-28979-donovan-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-11-25
+
+# Donovan c. M.R.N.
+
+- Citation: 2008 CCI 640
+- Decision date: 2008-11-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6789, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Donovan c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-25
+Référence neutre
+2008 CCI 640
+Numéro de dossier
+2008-1805(EI)
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-1805(EI)
+ENTRE :
+TAMMY DONOVAN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu à Sydney (Nouvelle‑Écosse), le 6 novembre 2008.
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocate de l’appelante :
+Me Carolyn MacAulay
+Avocat de l’intimé :
+Me Kendrick Douglas
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu de la Loi sur l’assurance‑emploi (la « Loi ») à l’égard de la décision de l’intimé selon laquelle l’emploi exercé par l’appelante durant la période allant du 16 juillet 2007 au 22 septembre 2007 n’était pas un emploi assurable au sens de l’article 5 de la Loi est accueilli, et la question est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelante exerçait un emploi assurable au sens de l’article 5 de la Loi durant la période en cause.
+Signé à Vancouver (Colombie‑Britannique) ce 25e jour de novembre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 12e jour de janvier 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2008 CCI 640
+Date : 20081125
+Dossier : 2008-1805(EI)
+ENTRE :
+TAMMY DONOVAN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Le présent appel porte sur le caractère raisonnable de la décision de l’intimée selon laquelle l’emploi exercé par Tammy Donovan (l’« employée ») pour son père, Hugh Ross Donovan (l’« employeur »), durant la période allant du 16 juillet 2007 au 22 septembre 2007 (la « période d’emploi ») ne constituait pas un emploi assurable pour l’application de la Loi sur l’assurance‑emploi (la « Loi »).
+[2] Le paragraphe 5(2) de la Loi est rédigé de la sorte :
+5(2) N’est pas un emploi assurable :
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+[3] Le paragraphe 5(3) de la Loi est ainsi rédigé :
+(3) Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu ;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[4] Comme l’employeur est le père de l’employée, l’employeur et l’employée étaient des personnes liées. Par conséquent, le litige porte sur le caractère raisonnable de la décision du ministre du Revenu national voulant que l’employeur et l’employée n’auraient pas conclu, pour la période d’emploi, un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[5] Dans Porter c. M.R.N., 2005 CCI 364, la juge Campbell, de la Cour, a examiné les décisions de la Cour et de la Cour d'appel fédérale portant sur le rôle qui incombe à la Cour canadienne de l'impôt dans les appels de cette nature. Au paragraphe 13 de sa décision, la juge Campbell s'est ainsi prononcée :
+[13] En résumé, le rôle de la Cour consiste à vérifier l’existence et l’exactitude des faits sur lesquels le ministre se fonde, à examiner tous les faits mis en preuve devant elle, notamment tout nouveau fait, et à décider ensuite si la décision du ministre paraît toujours « raisonnable » à la lumière des conclusions de fait tirées par la Cour. Elle doit accorder une certaine déférence au ministre dans le cadre de cet exercice.
+[6] L’employeur exploitait une entreprise de pêche. Il était propriétaire d’un bateau qui lui servait à pêcher le homard. Il pêchait aussi le crabe, mais, comme cette pêche se fait en eau plus profonde et qu’elle exige un bateau plus gros, il se servait alors du bateau d’un tiers. En 2007, la saison de pêche au homard a débuté le 15 mai et s’est terminée le 15 juillet, et la saison de pêche au crabe a débuté peu après. L’employée a commencé à travailler quelque temps après la fin de la saison de pêche au homard, et son emploi a pris fin une fois toutes ses tâches accomplies. Elle travaillait dans les locaux de l’employeur, où le bateau de celui‑ci avait été mis à sec après la saison de pêche au homard.
+[7] L’employée devait notamment préparer des cages à homard, repeindre des bouées et réparer et fabriquer des sacs à appâts. De plus, elle a réparé le bateau pendant l’année. Au cours de la période d’emploi, l’employée a aussi ajouté une plateforme de quatre pieds à l’arrière du bateau. Comme cette plateforme était faite de fibre de verre, l’employée ne pouvait travailler que par temps chaud. Au total, l’employée a travaillé environ 10 heures par jours, six jours par semaine durant toute la période d’emploi.
+[8] L’agent des appels a témoigné à l’audience. Il a expliqué que les principales raisons pour lesquelles l’intimé avait conclu que l’employeur et l’employée n’auraient pas conclu un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance étaient les suivantes :
+a) L’employée était rémunérée pour son temps de déplacement entre son domicile et le travail, alors que son conjoint de fait, qui était membre de l’équipage du bateau de pêche au homard de l’employeur, n’était pas rémunéré à cet égard;
+b) Selon les dates indiquées sur les factures pour les fournitures, et particulièrement sur la facture pour la toile de fibre de verre, il semble que le travail ait été fait après la période d’emploi.
+[9] L’employé recevait un salaire hebdomadaire de 750 $. Elle vivait à Dingwall, en Nouvelle‑Écosse, et son père vivait à Ingonish Beach, dans la même province. Le trajet entre Dingwall et Ingonish Beach prend environ 45 minutes, et l’appelante recevait une heure de salaire pour l’aller et une heure de salaire pour le retour. En comptant son temps de déplacement rémunéré, l’employée était payée pour 12 heures de travail par jour. En fonction d’un salaire hebdomadaire de 750 $ pour 12 heures de travail par jour, six jours par semaine, le salaire horaire de l’employée était de 10,42 $. En refaisant le même calcul en fonction de 10 heures de travail par jour, son salaire horaire aurait été de 12,50 $. La rémunération que l’employée recevait pour son temps de déplacement représente donc une augmentation de 20 % par rapport au salaire qu’elle a reçu pour les heures où elle a réellement travaillé.
+[10] Le premier problème soulevé par l’agent des appels est que l’employée était payée pour son temps de déplacement alors que son conjoint de fait, Dale Peter MacKinnon, ne l’était pas. M. MacKinnon était membre de l’équipage du bateau de pêche au homard de l’employeur. Toutefois, bien que M. MacKinnon n’ait pas été rémunéré pour son temps de déplacement, l’employeur lui offrait le gîte et, vraisemblablement, le petit déjeuner chez lui. Comme l’employeur et son équipage partaient à la pêche au homard entre 3 h 30 et 3 h 45 du matin, M. MacKinnon devait se rendre au domicile de l’employeur le soir précédent, y passer la nuit et quitter le domicile le matin venu. Il ne payait rien pour le gîte et le petit déjeuner. Donc, bien qu’il n’ait pas été rémunéré pour son temps de déplacement, il recevait une compensation supplémentaire sous forme de gîte et, vraisemblablement, de petit déjeuner. L’employée et M. MacKinnon recevaient tous deux 750 $ par semaine, mais le salaire de M. MacKinnon a été haussé à 800 $ pour compenser la hausse du prix de l’essence. Il semble toutefois que cette augmentation n’ait été faite qu’en 2008.
+[11] La personne à qui l’employée a été comparée est son conjoint de fait (et l’était tout au long de la période d’emploi); M. MacKinnon et l’employeur sont donc des personnes liées (et l’étaient durant la période d’emploi). Je ne sais pas si l’employeur fournissait le gîte et, vraisemblablement, le petit déjeuner à M. MacKinnon parce qu’il était le conjoint de fait de l’employée ou parce qu’il était membre de l’équipage du bateau de pêche au homard. De toute manière, puisque M. MacKinnon était lié à l’employée, je ne crois pas que ses conditions d’emploi peuvent servir à déterminer si l’employeur et l’employée auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[12] Lorsque l’on considère le salaire versé à l’employée, je suis d’avis qu’il faut tenir compte de l’endroit où se trouve l’employeur. Il habite une petite collectivité isolée se trouvant dans le nord de l’île du Cap‑Breton. Pour donner une bonne idée de l’emplacement et de taille de cette collectivité, mentionnons que, pour se procurer des fournitures, l’employeur doit se rendre à la Victoria Co-operative Fisheries Ltd. (la « coopérative de Victoria »), située à environ 30 minutes de chez lui. S’il n’y trouve pas ce qu’il cherche, il doit aller jusqu’à Cheticamp, North Sydney ou Sydney. Il lui faut entre une heure et demie et deux heures pour se rendre à North Sydney ou à Sydney.
+[13] L’employeur a dit qu’il ne pouvait pas trouver de main-d'œuvre dans sa collectivité. Il a expliqué que la plupart des personnes aptes au travail étaient parties en Alberta. Il semble raisonnable qu’un employeur cherchant à attirer des travailleurs à un endroit isolé rémunère leur temps de déplacement ou ait recours à d’autres mesures incitatives. Comme la période d’emploi de ces travailleurs était très courte – environ dix semaines –, on ne peut pas s’attendre à ce qu’un employé, qu’il ait ou non un lien de dépendance avec l’employeur, déménage dans la collectivité de l’employeur. On peut donc comprendre qu’un employeur qui cherche à attirer des travailleurs dans un endroit éloigné pour une courte période d’emploi doive leur offrir un meilleur salaire ou utiliser d’autres mesures incitatives. Il n’est donc pas déraisonnable que l’employée ait été payée pour son temps de déplacement.
+[14] De plus, comme les journées de travail de l’employée étaient longues, la rémunération de son temps de déplacement représente une partie moins importante de son salaire que si elle n’avait travaillé que sept ou huit heures par jour. Comme je l’ai déjà expliqué, le salaire que l’employée recevait pour son temps de déplacement représentait une augmentation salariale de 20 % par rapport aux heures qu’elle travaillait. Le passage suivant est tiré de ma décision dans Regular c. Ministre du Revenu national, 2007 CCI 664 :
+[15] […] Lorsque le ministre évalue si les modalités d’un contrat de travail sont « à peu près semblables » à celles du contrat qui aurait été conclu si les parties n’avaient pas eu de lien de dépendance, il me semble que le ministre ne devrait pas adopter un sens plus restrictif de l’expression « à peu près » que celui que l’ARC a adopté pour interpréter l’expression « la totalité ou presque ».
+[15] Bien qu’une augmentation salariale de 20 % puisse sembler considérable selon une interprétation voulant que l’expression « la totalité ou presque » signifie 90 % ou plus, je suis d’avis qu’il faut considérer cette augmentation à la lumière de l’ensemble des conditions d’emploi, y compris l’emplacement du lieu de travail. Je ne crois pas qu’une prime salariale de 20 % visant à dédommager l’employée parce que l’employeur se trouve dans une collectivité éloignée fasse que le salaire n’est pas à peu près semblable à celui qui aurait été fixé si l’employeur et l’employée n’avaient pas eu de lien de dépendance. Je crois qu’il serait raisonnable qu’un employeur verse une prime de 10 %, ou peut‑être davantage, à un employé qui n’a aucun lien de dépendance avec lui pour le convaincre de travailler dans une collectivité éloignée. En disant qu’un employé n’ayant pas de lien de dépendance aurait pu recevoir une prime de 10 %, je conclus que la prime de 20 % accordée à l’employée y est à peu près semblable.
+[16] Par conséquent, je crois que l’employée aurait reçu un salaire à peu près semblable si elle et l’employeur n’avaient pas eu de lien de dépendance.
+[17] L’intimé n’a pas par ailleurs mis en doute le caractère raisonnable du salaire versé à l’appelante.
+[18] L’autre problème soulevé par l’agent des appels portait sur la durée de la période d’emploi, et, plus particulièrement, sur le fait que les dates indiquées sur les factures étaient postérieures à la période d’emploi de l’employée.
+[19] L’avocat de l’intimé a fait référence à une facture pour de la toile de fibre de verre, soulignant qu’il était problématique que la facture soit datée du 11/10/07 – il s’agit vraisemblablement du 11 octobre 2007. Toutefois, cette facture a été envoyée à l’employeur par Cape Bald Packers Limited. Elle indique qu’une quantité « 237 » de toile de fibre de verre avait été vendue. Par ailleurs, il existe une facture, datée du 22 septembre 2007, qui a été envoyée à Cape Bald Packers par la coopérative de Victoria pour la même quantité de toile de fibre de verre. Il semble donc que la toile de fibre de verre ait été achetée à la coopérative de Victoria, que celle‑ci ait ensuite facturé cet achat à Cape Bald Packers Limited – l’entreprise qui achetait les homards pêchés par l’employeur – et que cette dernière ait facturé la toile à l’employeur. L’employeur a confirmé que c’est ce qui s’est produit. Lorsque l’employeur achetait des fournitures, la facture était envoyée à l’acheteur de ses homards. Une fois les homards livrés, l’acheteur déduisait le coût des fournitures de la somme qu’il devait verser à l’employeur.
+[20] De plus, l’employeur a expliqué que dans ce cas‑là, il avait pu prendre un rouleau de toile de fibre de verre à la coopérative de Victoria sans devoir payer immédiatement. Le rouleau avait été pesé avant d’être emporté. Après avoir utilisé la quantité de toile dont il avait besoin, l’employeur a rapporté le rouleau à la coopérative, où il a été pesé de nouveau, puis la quantité de toile de fibre de verre utilisée par l’employeur lui a été facturée. La facture n’a donc pas été envoyée avant la fin des travaux. La date indiquée sur la facture de la coopérative de Victoria coïncide avec la fin de la période d’emploi de l’employée.
+[21] D’autres factures, pour des fournitures comme de la peinture, portaient elles aussi une date postérieure à la période d’emploi. L’employeur a dit qu’il achetait ses fournitures d’avance, en prévision de l’année suivante. Comme le principal problème soulevé à l’égard des factures portait sur la facture pour la toile de fibre de verre, il n’y a pas lieu de croire que l’employée ait travaillé après la période d’emploi. Ainsi, la durée du contrat de travail, motif invoqué par l’intimé, ne me semble pas suffire pour conclure que l’employée et l’employeur n’auraient pas conclu un contrat à peu près semblable s’ils n’avaient pas eu de lien de dépendance. À mon avis, dans un tel cas, ils auraient conclu un contrat d’une durée à peu près semblable.
+[22] Par conséquent, je ne peux pas conclure que la décision du ministre semble toujours raisonnable au vu de la preuve présentée et, par conséquent, l'appel interjeté par l'employée en vertu de la Loi est accueilli.
+Signé à Vancouver (Colombie‑Britannique) ce 25e jour de novembre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 12e jour de janvier 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2008 CCI 640
+No DU DOSSIER DE LA COUR :
+2008-1805(EI)
+INTITULÉ :
+Tammy Donovan et
+Le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Sydney (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE :
+Le 8 novembre 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT :
+Le 25 novembre 2008
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Carolyn MacAulay
+Avocat de l’intimé :
+Me Kendrick Douglas
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

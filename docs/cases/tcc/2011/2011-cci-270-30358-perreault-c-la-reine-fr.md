@@ -1,0 +1,178 @@
+---
+title: "Perreault c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30358/index.do"
+last_modified: "2011-05-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 270"
+citation2: ""
+neutral_citation: "2011 CCI 270"
+decision_date: "2011-05-19"
+language: "fr"
+item_id: "30358"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7878
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:51:18.920000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "836b7f19c70525d363c7b1289057113e7c445eabcdea0da5b95d89af7d0fca77"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Perreault c. La Reine
+
+- Citation: 2011 CCI 270
+- Decision date: 2011-05-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7878, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perreault c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-05-19
+Référence neutre
+2011 CCI 270
+Numéro de dossier
+2010-3192(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-3192(IT)I
+ENTRE :
+LISE PERREAULT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 15 février 2011, à Québec (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Représentant de l'appelante :
+David Sicard-Payant
+Avocate de l'intimée :
+Me Marie-France Dompierre
+____________________________________________________________________
+JUGEMENT
+Les appels à l'encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu concernant les années d'imposition 2006 et 2007 sont accueillis en partie et les nouvelles cotisations sont déférées au Ministre du Revenu du Canada pour une nouvelle détermination et nouvelles cotisations afin de permettre la déduction de 50% des dépenses réclamées dans chacune des années d'imposition.
+Signé à Ottawa, Canada, ce 19e jour de mai 2011.
+« Réal Favreau »
+Juge Favreau
+Référence : 2011 CCI 270
+Date : 20110519
+Dossier : 2010-3192(IT)I
+ENTRE :
+LISE PERREAULT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s'agit d'appels par voie de la procédure informelle à l'encontre de nouvelles cotisations établies en date du 23 avril 2009 en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) telle que modifiée (la « Loi »), concernant les années d'imposition 2006 et 2007.
+[2] Le litige ne porte que sur les pertes d'entreprise refusées au montant de 23 640 $ pour l'année 2006 et au montant de 1 076 $ pour l'année 2007.
+[3] Pour établir et maintenir les nouvelles cotisations, le ministre du Revenu national (le « Ministre ») s'est fondé sur les conclusions et hypothèses de fait suivantes énoncées au paragraphe 7 de la réponse à l'avis d'appel :
+a) Entre les mois de juin 2006 à septembre 2007, l'appelante aurait encouru des dépenses relativement au démarrage d'une entreprise virtuelle s'élevant à 24 900 $ pour l'année d'imposition 2006 et à 1 077 $ pour l'année 2007; (admis)
+b) Elle était impliquée avec une entité « Advantage Conference » laquelle recrutait des représentants à partir de leur site internet « Prosper in faith.com » en invitant les internautes potentiels à devenir des associés indépendants; (admis)
+c) « Advantage Conference » serait une entité américaine à paliers multiples dont le but est d'aider au succès financiers (sic) des futurs représentants qu'ils recrutaient par le biais de principes religieux. L'entreprise offrait, en ligne, du tutorat par le truchement de conférences visant, entre autres, la planification financière et le marketing, en promettant aux futurs représentant (sic) le succès financiers (sic); (admis)
+d) l'appelante a choisi le plus haut niveau d'entrée, soit le niveau 3 (sic), qui lui permettait d'obtenir un site Web, lequel procurait des explications quant à la façon d'effectuer des ventes par internet, offrait un système d'auto-réponse intégré qui permettait une pré-qualification des clients potentiels, généralement ciblés auprès de la population croyante religieuse; (admis)
+e) le coût de démarrage était de 10 054 $ u.s., soit 59 $ pour le coût d'adhésion et 9 995 $ pour le coût niveau 3 (sic); (admis)
+f) le travail de l'appelante consistait, lorsqu'un client potentiel était sélectionné, d'effectuer des contacts téléphoniques dans le but de les recruter à tire de représentant; (nié tel que rédigé)
+g) entre les contacts téléphoniques, elle devait gérer le site Web, pour en maximiser le rendement, puisque chaque visite occasionnait des frais; (nié tel que rédigé)
+h) l'appelante s'est engagée dans cette entreprise car elle prévoyait faire de l'argent par l'ajout des ventes de conférences et par l'argent résiduel provenant des associés qu'elle aurait recrutés; (nié tel que rédigé)
+i) en produisant ses déclarations de revenus pour les années en litige, l'appelante a déclaré un revenu brut d'entreprise s'élevant à 1 260 $ pour l'année d'imposition 2006 et n'a déclaré aucun revenu d'entreprise pour l'année 2007; (admis)
+j) durant ces mêmes années, l'appelante a réclamé 100% des dépenses d'entreprise alors que son représentant et conjoint, M. David Sicard-Payant, a affirmé qu'il était propriétaire de l'entreprise, à parts égales, avec l'appelante; (admis)
+k) durant les années d'imposition 2006 et 2007, l'appelante travaillait à temps plein pour la Compagnie de la Baie d'Hudson et a reçu de cette source une rémunération de 63 475 $ pour l'année 2006 et de 65 283 $ pour l'année 2007; (admis)
+l) l'appelante n'avait aucun plan d'affaire précis et a été dans l'impossibilité de démontrer qu'elle avait effectué des efforts sérieux ou raisonnablement continus permettant d'établir que l'activité qu'elle exerçait avait un niveau de commercialisation suffisant. (nié)
+[4] Les paragraphes 7 f), g) et h) de la réponse à l'avis d'appel ont été niés parce que le travail de gestion de l'entreprise, l'établissement de contacts pour recruter des clients et la gestion du site Web étaient effectués par le conjoint de l'appelante et non pas par l'appelante elle-même. L'implication de l'appelante dans l'entreprise a uniquement consisté à contribuer financièrement au frais du démarrage et de développement de l'entreprise du début jusqu'à la fin des activités.
+[5] Le paragraphe 7 l) de la réponse à l'avis d'appel a également été nié et le conjoint de l'appelante, monsieur David Sicard-Payant, a fourni lors de son témoignage des explications concernant :
+i) l'étude de marché qu'il a effectuée dans le but de démarrer une entreprise de commerce électronique;
+ii) le plan d'affaire et les efforts de commercialisation;
+iii) les campagnes de publicité; et
+iv) le temps consacré à l'exploitation de l'entreprise.
+[6] Monsieur Payant a expliqué qu'il n'avait occupé aucun emploi régulier depuis 2004 et que l'appelante était le seul soutien financier de la famille. Monsieur Payant a expliqué qu'il a effectué pendant environ trois mois des recherches via internet pour identifier des entreprises offrant la possibilité d'exploiter un commerce électronique basé à la maison. Il a dit avoir considéré plusieurs entreprises spécialisées dans le commerce électronique dont Advantage Conferences. Il a dit avoir consacré environ un mois à étudier en profondeur tous les aspects du fonctionnement d'Advantage Conferences. Sa conjointe et lui ont décidé d'adhérer à Advantage Conferences parce que le but de l'organisation était de contribuer au succès financier des représentants par le biais de principes d'affaires bibliques.
+[7] Advantage Conferences était une entreprise à paliers multiples (système de vente pyramidale) : de nouveaux représentants indépendants devaient être recrutés pour pouvoir bénéficier des gains mensuels récurrents provenant des ventes de ces derniers. L'autre façon de générer des revenus était par la vente de conférences (Millionaire Mindset Conferences – MMC) comme celle intitulée « formation en gestion et leadership pour entrepreneurs ».
+[8] Le 30 mai 2006, l'appelante et son conjoint ont signé un formulaire d'adhésion pour devenir co-représentants de Advantage Conferences et ont payé à ce moment la somme de 59 dollars américains comme droit d'entrée et la somme de 9 995 dollars américains pour adhérer au niveau MMC-IV. Lors de son témoignage, monsieur Payant a expliqué qu'ils ont opté pour le niveau IV pour éviter de devoir partager les commissions avec les représentants des niveaux supérieurs. Pour le prix de 9 975 dollars américains, l'appelante et son conjoint ont obtenu :
+- le droit de participer à une conférence de deux jours comprenant six séances de mentorat avec des multi-millionnaires;
+- une formation de plus de 100 heures par téléphone concernant des sujets comme la commercialisation, la publicité et le développement de l'entreprise;
+- 52 heures d'appels de télé-mentorat dispensées sur une base hebdomadaire;
+- 10 heures d'entraînement concernant la santé financière et les connaissances en finance à l'aide de disques compacts;
+- un escompte de 90% pour les futures conférences;
+- un site web personnalisé de promotion professionnelle pleinement opérationnel;
+- un accès à un centre de soutien via le Web pour accéder aux formations archivées;
+- un système de répondeur automatisé et de suivi des messages sur une base hebdomadaire pour les visiteurs du site Web qui ont franchi les trois étapes de qualification du système.
+[9] Le site Web comprenait une fonctionnalité qui servait à filtrer les intéressés en leur faisant passer les trois étapes de qualification. L'étape un comprenait l'examen du site Web corporatif, le téléchargement et l'étude d'une trousse électronique contenant une présentation du commerce électronique et/ou l'écoute d'une version audio de cette présentation et le téléchargement du régime de compensation offert par Advantage Conferences. L'étape deux comprenait la participation à une conférence téléphonique concernant des sujets comme prendre en charge ses finances personnelles et la gestion de votre entreprise familiale ou l'écoute d'une bande sonore traitant de ces sujets. L'étape trois était une entrevue téléphonique avec le président de l'organisation pour fournir d'autres informations et pour s'assurer que le candidat avait les qualifications requises pour être un bon représentant.
+[10] Lorsqu'une personne intéressée se rendait à l'étage trois, monsieur Payant en était informé et il devait contacter cette personne pour répondre à toute question supplémentaire et pour le convaincre d'acheter le produit et de devenir lui-même un représentant. Après deux contacts, la personne intéressée signait généralement le formulaire d'adhésion.
+[11] Un représentant de niveau IV pouvait gagner 7 000 dollars américains pour chaque vente de niveau IV et 500 dollars américains pour les ventes de niveaux I et II, sauf que les commissions générées par les deux premières ventes devaient être remises au mentor de niveau IV (i.e. à la personne qui a vendu leur participation). En 2006, l'appelante et son conjoint ont gagné 1 260 $ sous forme de commissions suite à la vente d'une participation de niveau IV, d'une participation de niveau I et d'une participation de niveau II et ils n'ont gagné aucune commission en 2007.
+[12] Concernant la date du début des opérations, monsieur Payant a précisé que les opérations avaient débuté le 19 mai 2006, soit la date à laquelle il a réservé le nom de domaine pour le site Web « Open windows of heaven.com » et non pas le 1er juin comme il l'a d'abord indiqué. Du 19 au 30 mai, il a poursuivi sa lecture des documents fournis par Advantage Conferences. Dans la dernière semaine de mai, il a eu son entrevue avec le président. Dans la même semaine, il a reçu une confirmation que sa candidature était acceptée et qu'il pouvait envoyer le formulaire d'adhésion et les mandats de paiement. Le tout a été transmis le 30 mai 2006. Dans les trois semaines qui ont suivi, il a terminé la présentation du site Web, il s'est familiarisé avec l'utilisation de Google Adwords et les autres techniques de publicité via internet. Le site Web est devenu opérationnel vers la fin du mois de juin 2006.
+[13] Monsieur Payant a affirmé avoir consacré, de quatre à cinq heures par jour, six jours par semaine pendant les quatre derniers mois de 2006, aux activités de Advantage Conferences en effectuant la gestion du site Web, en participant aux appels de conférence de formation, en appelant les clients potentiels (une centaine d'appels par semaine), en déterminant les meilleurs moments et les meilleurs endroits pour faire passer les bandes publicitaires sur Google Adwords et pour identifier d'autres façons d'obtenir de la publicité. Il a précisé avoir suivi le plan d'affaire de Advantage Conferences et d'avoir encouru en 2006 environ 11 000 $ en frais de publicité, dont a) 10 195,94 dollars américains pour un programme de marketing intense de quatre mois avec Google Adwords, b) 212 dollars américains pour établir un lien direct sur le site américain de « Moms of faith », et c) 225 $ pour de la publicité en 2007 dans la publication intitulée « 2007 Community Connection » de l'éditeur « Voice of English-speaking Québec ».
+[14] Monsieur Payant a également témoigné à l'effet que le marché cible était les chrétiens évangélistes qui représentent environ 40% de la population des États‑Unis. Selon ses estimations, des ventes de l'ordre de 2 500 $ par mois étaient nécessaires pour qu'il puisse faire ses frais. Suite à l'ouverture du site Web à l'été de 2006, il a transmis plus de 300 courriels à ses contacts et à ceux de l'appelante pour les inciter à visiter leur nouveau site Web. Il s'agissait du seul site du genre au Québec mais il y en avait d'autres en Ontario.
+[15] La campagne de publicité intensive sur Google Adwords n'a pas donné les résultats escomptés de sorte que l'appelante et son conjoint ont décidé de limiter leurs dépenses de publicité de 2007 et de se restreindre aux seuls frais de publicité prépayés. Les activités du site Web ont cessé au mois de septembre 2007, soit après 14 mois d'opérations.
+Discussion
+[16] Il est bien évident que les activités sur internet de l'appelante et de son conjoint n'ont démontré aucune profitabilité. Les 14 mois d'opérations ont résulté en un maigre revenu brut de 1 260 $. Par contre, la question consiste à déterminer si ces activités peuvent constituer une source de revenu aux fins des articles 3 et 9 de la Loi. La Cour suprême du Canada s'est penché sur la question dans l'arrêt Stewart c. Canada, [2002] 2 R.C.S. 645 et a élaboré les principes suivants aux paragraphes 50 à 55 et 60 :
+50 Il est manifeste que, pour que l'art. 9 s'applique, le contribuable doit d'abord déterminer s'il a une source de revenu constituée soit d'une entreprise, soit d'un bien. Comme nous l'avons vu, une activité commerciale qui ne constitue pas véritablement une entreprise peut néanmoins être une source de revenu constituée d'un bien. De même, il est clair que certaines démarches de contribuables ne sont ni des entreprises, ni des sources de revenu constituées d'un bien, mais sont uniquement des activités personnelles. On peut recourir à la méthode à deux volets suivante pour trancher la question de l'existence d'une source :
+(i) L'activité du contribuable est-elle exercée en vue de réaliser un profit, ou s'agit-il d'une démarche personnelle?
+(ii) S'il ne s'agit pas d'une démarche personnelle, la source du revenu est-elle une entreprise ou un bien?
+Le premier volet du critère vise la question générale de savoir s'il y a ou non une source de revenu; dans le deuxième volet, on qualifie la source d'entreprise ou de bien.
+51 Assimiler la "source de revenu" à une activité exercée "en vue de réaliser un profit" concorde avec la définition traditionnelle du mot "entreprise" qui est donnée en common law, à savoir [TRADUCTION] "tout ce qui occupe le temps, l'attention et les efforts d'un homme et qui a pour objet la réalisation d'un profit" : Smith, précité, p. 258; Terminal Dock, précité. De même, la distinction entre le revenu tiré d'une entreprise et le revenu tiré d'un bien repose généralement sur le fait qu'une entreprise exige un niveau d'activité plus élevé de la part du contribuable : voir Krishna, op. cit., p. 240. Il est donc logique de conclure qu'une activité exercée en vue de réaliser un profit, quel que soit le niveau d'activité du contribuable, sera une source de revenu constituée soit d'une entreprise, soit d'un bien.
+52 Ce premier volet du critère vise simplement à établir une distinction entre les activités commerciales et les activités personnelles et, comme nous l'avons vu, il se peut fort bien que telle ait été à l'origine l'intention du juge Dickson lorsqu'il a mentionné l'« expectative raisonnable de profit »" dans l'arrêt Moldowan. Vus sous cet angle, les critères énoncés par le juge Dickson représentent une tentative de dresser une liste objective de facteurs permettant de déterminer si l'activité en cause est de nature commerciale ou personnelle. Ces facteurs sont ce que le juge Bowman a qualifié d'« indices de commercialité » ou de « caractéristiques commerciales » : Nichol, précité, par. 13. Ainsi, lorsque la nature de l'entreprise du contribuable comporte des aspects indiquant qu'elle pourrait être considérée comme un passe-temps ou une autre activité personnelle, mais que l'entreprise est exploitée d'une manière suffisamment commerciale, cette entreprise sera considérée comme une source de revenu aux fins d'application de la Loi.
+53 Nous soulignons que ce critère de l'existence d'une source « en vue de réaliser un profit » ne doit faire l'objet d'une analyse que dans les situations où l'activité en cause comporte un aspect personnel ou récréatif. En toute déférence, nous estimons que les tribunaux ont commis une erreur, dans le passé, en appliquant le critère de l'ERP à des activités comme l'exercice du droit et la restauration qui ne comportent aucun aspect personnel de cette nature : voir, par exemple, Landry, précité; Sirois, précité; Engler c. Canada, [1994] A.C.F. no 483 (QL) (1re inst.). Lorsqu'une activité est clairement de nature commerciale, il n'est pas nécessaire d'analyser les décisions commerciales du contribuable. De telles démarches comportent nécessairement la recherche d'un profit. Il existe donc par définition une source de revenu et il n'est pas nécessaire de pousser l'examen plus loin.
+54 Il y a également lieu de souligner que la détermination de l'existence d'une source de revenu n'est pas un processus purement subjectif. Outre le fait que, pour qu'une activité soit qualifiée de commerciale par nature, le contribuable doit avoir l'intention subjective de réaliser un profit, il faut aussi, tel que mentionné dans l'arrêt Moldowan, que cette détermination se fasse en fonction de divers facteurs objectifs. Ainsi, sous une forme plus élaborée, le premier volet du critère susmentionné peut être reformulé ainsi : « Le contribuable a-t-il l'intention d'exercer une activité en vue de réaliser un profit et existe-t-il des éléments de preuve étayant cette intention? » Cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l'activité et que cette activité a été exercée conformément à des normes objectives de comportement d'homme d'affaires sérieux.
+55 Les facteurs objectifs énumérés par le juge Dickson dans Moldowan, précité, p. 486, étaient (1) l'état des profits et pertes pour les années antérieures, (2) la formation du contribuable, (3) la voie sur laquelle il entend s'engager, et (4) la capacité de l'entreprise de réaliser un profit. Comme nous le concluons plus loin, il n'est pas nécessaire pour les besoins du présent pourvoi d'ajouter d'autres facteurs à cette liste; nous nous abstenons donc de le faire. Nous tenons cependant à réitérer la mise en garde du juge Dickson selon laquelle cette liste ne se veut pas exhaustive et les facteurs diffèrent selon la nature et l'importance de l'entreprise. Nous tenons également à souligner que, même si l'expectative raisonnable de profit constitue un facteur à prendre en considération à ce stade, elle n'est ni le seul facteur, ni un facteur déterminant. Il faut déterminer globalement si le contribuable exerce l'activité d'une manière commerciale. Cette détermination ne devrait toutefois pas servir à évaluer après coup le sens des affaires du contribuable. C'est la nature commerciale de son activité qui doit être évaluée, et non son sens des affaires.
+[. . .]
+60 En résumé, la question de savoir si le contribuable a ou non une source de revenu doit être tranchée en fonction de la commercialité de l'activité en cause. Lorsque l'activité ne comporte aucun aspect personnel et qu'elle est manifestement commerciale, il n'est pas nécessaire de pousser l'examen plus loin. Lorsque l'activité peut être qualifiée de personnelle, il faut alors déterminer si cette activité est ou non exercée d'une manière suffisamment commerciale pour constituer une source de revenu. Toutefois, refuser la déduction de pertes pour le seul motif que les pertes indiquent l'inexistence d'une entreprise (ou d'un bien) comme source de revenu va à l'encontre du texte et de l'économie de la Loi. La question de savoir s'il existe une entreprise est distincte de celle de la déductibilité des dépenses. Comme l'a laissé entendre l'appelant, refuser des déductions en fonction d'une analyse de l'expectative raisonnable de profit équivaudrait à une règle jurisprudentielle sur la minimisation des pertes, qui serait contraire aux principes d'interprétation établis susmentionnés qui s'appliquent à la Loi. De même, à la différence de nombreuses règles législatives sur la minimisation des pertes, dès que des déductions sont refusées à la suite de l'application du critère de l'ERP, le contribuable ne peut reporter ces pertes sur un revenu futur si jamais l'activité devient rentable. Comme l'a affirmé le juge Bowman, dans la décision Bélec, précitée, par. 16 : "Ce serait [...] inacceptable de permettre au ministre [de dire] au contribuable : "Le fait que tu as perdu de l'argent [...] prouve que tu n'avais pas d'espoir raisonnable de profit, mais dès que tu gagnes de l'argent, ça prouve que maintenant, tu en as"."
+[17] Je ne doute aucunement que l'appelante et son conjoint avaient l'intention subjective de tirer un profit de leurs activités sur internet et je considère que l'exigence de démontrer, que leurs activités ont été exercées conformément à des normes objectives de comportement d'homme d'affaires sérieux, a été satisfaite.
+[18] Monsieur Payant a effectué des recherches sur internet pour identifier les organisations offrant la possibilité à des investisseurs de démarrer leur propre entreprise de commerce électronique à partir de leur résidence. Plusieurs entreprises ont été ainsi analysées. L'appelante et son conjoint ont opté pour Advantage Conferences, une organisation sérieuse en existence depuis plusieurs années. Les valeurs prônées par Advantage Conferences correspondaient à leurs propres valeurs. Advantage Conferences offrait de plus des produits d'entraînement et de formation fort intéressants concernant le leadership et la gestion d'entreprise. Le système d'auto-réponse intégré au site Web représentait un avantage indéniable par rapport à la concurrence parce qu'il permettait d'établir des contacts seulement avec des personnes intéressées par les produits offerts en vente, d'où une augmentation des chances de vente. Un site Web pleinement opérationnel a été mis en place et une somme importante a été investie en frais de publicité lors du démarrage des activités commerciales. Monsieur Payant a consacré les heures nécessaires pour gérer le site Web et pour établir les contacts avec les clients potentiels, en plus de poursuivre sa formation à l'aide des produits offerts par Advantage Conferences.
+[19] Malheureusement pour l'appelante et son conjoint, les expectatives de profit ne se sont pas matérialisées et le site Web a dû être fermé après seulement 14 mois d'opération. L'absence de succès commercial des activités reliées au commerce électronique ne signifie pas nécessairement qu'une source de revenu ou une entreprise n'existait pas.
+[20] L'avocate de l'intimée a tenté de convaincre la Cour que monsieur Payant était un passionné de l'informatique et que les activités reliées à Advantage Conferences ne représentaient pour lui qu'un passe-temps ou une démarche de nature personnelle. Je ne crois pas que ce soit le cas. Monsieur Payant m'est apparu être une personne articulée et très méthodique dans son analyse des propositions d'affaires. L'appelante et son conjoint n'auraient certes pas investi plus de 20 000 $ dans des activités reliées à Advantage Conferences s'ils n'avaient pas cru pouvoir en tirer des profits. L'appelante et son conjoint ont consacré de l'argent, du temps et les énergies nécessaires à l'exploitation des opérations de leur commerce électronique.
+[21] Les facteurs objectifs énumérés par le juge Dickson dans l'arrêt Moldovan c. Ministre du Revenu National, [1997] 1 R.C.S. 480, à la page 486, auxquels la Cour Suprême du Canada a référé au paragraphe 55 dans l'arrêt Stewart, précité, à savoir :
+a) l'état des profits et pertes pour les années antérieures;
+b) la formation du contribuable;
+c) la voie sur laquelle il entend s'engager; et
+d) la capacité de l'entreprise de réaliser un profit,
+ne sont pas déterminants dans le cas présent. L'avocate de l'intimée n'a pas mis en preuve l'état des pertes réclamées par l'appelante et par son conjoint au cours des années antérieures. La formation en informatique du conjoint de l'appelante ne fait pas de doute. La voie sur laquelle l'appelante et son conjoint se sont engagés était prometteuse et l'entreprise avait la capacité de réaliser des profits. L'absence d'un plan d'affaires propre aux activités commerciales de l'appelante et de son conjoint n'est pas non plus déterminante puisqu'ils suivaient à la lettre celui proposé ou imposé par Advantage Conferences. L'absence de registres comptables et d'états financiers en bonne et due forme n'est pas un facteur déterminant dans les circonstances compte tenu de la courte durée des opérations commerciales (seulement 14 mois au total).
+[22] Pour ces motifs, les appels sont accueillis en partie et les nouvelles cotisations sont déférées au ministre du Revenu du Canada pour nouvelle détermination et nouvelles cotisations afin de permettre la déduction de 50% des dépenses réclamées par l'appelante dans chacune des années d'imposition concernées.
+Signé à Ottawa, Canada, ce 19e jour de mai 2011.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2011 CCI 270
+Nº DU DOSSIER DE LA COUR : 2010-3192(IT)I
+INTITULÉ DE LA CAUSE : Lise Perreault et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 15 février 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 19 mai 2011
+COMPARUTIONS :
+Représentant de l'appelant :
+David Sicard-Payant
+Avocate de l'intimée :
+Me Marie-France Dompierre
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

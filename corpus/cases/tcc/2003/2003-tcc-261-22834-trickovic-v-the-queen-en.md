@@ -1,0 +1,201 @@
+---
+title: "Trickovic v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22834/index.do"
+last_modified: "2003-04-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 261"
+citation2: ""
+neutral_citation: "2003 TCC 261"
+decision_date: "2003-04-14"
+language: "en"
+item_id: "22834"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2340
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:17:46.779000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9ce33ccbd49bc7f1c8f3c715ffecaa52bac9f6008289fe0ba0f0847275dc1970"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Trickovic v. The Queen
+
+- Citation: 2003 TCC 261
+- Decision date: 2003-04-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2340, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Trickovic v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-14
+Neutral citation
+2003 TCC 261
+File numbers
+2002-4570(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4570(IT)I
+BETWEEN:
+DRAGOSLAV (DANNY) TRICKOVIC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 25, 2003, at Ottawa, Ontario.
+Before: The Honourable Judge Lucie Lamarre
+Appearances:
+Agent for the Appellant:
+Greg Milanovich
+Counsel for the Respondent:
+Tony Chambers
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is dismissed.
+Signed at Ottawa, Canada, this 14th day of April 2003.
+"Lucie Lamarre"
+J.T.C.C.
+Citation: 2003TCC261
+Date:20030414
+Docket: 2002-4570(IT)I
+BETWEEN:
+DRAGOSLAV (DANNY) TRICKOVIC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre, J.T.C.C.
+[1] The appeal from an assessment made by the Minister of National Revenue ("Minister") for the appellant's 2000 taxation year is dismissed.
+[2] In filing his income tax return for that year, the appellant included in his income an employment benefit of $19,679 resulting from the exercise of options to buy shares in his employer. The appellant subsequently asked the Minister not to include the said amount in his income for 2000 because he had not yet disposed of the shares he received on exercising his options in that year. In reassessing the appellant on November 12, 2002, the Minister, relying on paragraph 110(1)(d) of the Income Tax Act ("Act"), mistakenly allowed the appellant a deduction in the amount of $5,906. However, the Minister refused to defer to a later year, pursuant to subsection 7(8) of the Act, the inclusion in income of the employment benefit in the amount of $13,773 ($19,679 less $5,906).
+[3] Section 7 of the Act governs the taxation of employee stock options. The general rule under paragraph 7(1)(a) provides that where a particular qualifying person (the employer) has agreed to sell or issue its securities (within the meaning of subsection 7(7) of the Act) to an employee, the employee is taxed in the year in which the employee exercises the option and acquires the securities. In the year of acquisition, the employee is deemed to have received a benefit from employment equal to the amount by which the value of the securities at the time of the acquisition exceeds the amount paid by the employee to acquire them (the option price) and the amount, if any, paid to acquire the option. The amount of the deemed employment benefit is added to the adjusted cost base of the securities, when they are acquired (see Canadian Tax Reporter, CCH Canadian Ltd, volume 1, paragraph 2732 o), through the application of paragraph 53(1)(j) of the Act.
+[4] The relevant part of paragraph 7(1)(a) of the Act reads as follows:
+SECTION 7: Agreement to issue securities to employees.
+(1) Subject to subsections (1.1) and (8), where a particular qualifying person has agreed to sell or issue securities of the particular qualifying person (or of a qualifying person with which it does not deal at arm's length) to an employee of the particular qualifying person (or of a qualifying person with which the particular qualifying person does not deal at arm's length),
+(a) if the employee has acquired securities under the agreement, a benefit equal to the amount, if any, by which
+(i) the value of the securities at the time the employee acquired them
+exceeds the total of
+(ii) the amount paid or to be paid to the particular qualifying person by the employee for the securities, and
+(iii) the amount, if any, paid by the employee to acquire the right to acquire the securities
+is deemed to have been received, in the taxation year in which the employee acquired the securities, by the employee because of the employee's employment.
+[5] A security is defined in subsection 7(7) as follows:
+47(7)3
+(7) Definitions. The definitions in this subsection apply in this section and in subsection 47(3), paragraphs 53(1)(j), 110(1)(d) and (d.01) and subsections 110(1.5), (1.6) and (2.1).
+"security" - "security" of a qualifying person means
+(a) if the person is a corporation, a share of the capital stock of the corporation; and
+(b) if the person is a mutual fund trust, a unit of the trust.
+[6] There are two exceptions whereby the recognition of the deemed benefit is deferred until the employee disposes of the securities that were acquired under the option. The first exception applies when the taxpayer has acquired shares from a Canadian-controlled private corporation ("CCPC") pursuant to subsection 7(1.1) of the Act, which is not the case here. The second, announced in the 2000 federal budget, applies where a particular corporation agrees to sell or issue to an employee its publicly listed shares. The deferral in this latter case only applies if the conditions in subsection 7(8) are satisfied.
+[7] Subsection 7(8) reads as follows:
+47(8)3
+(8) Deferral in respect of non-CCPC employee options. Where a particular qualifying person (other than a Canadian-controlled private corporation) has agreed to sell or issue securities of the particular qualifying person (or of a qualifying person with which it does not deal at arm's length) to a taxpayer who is an employee of the particular qualifying person (or of a qualifying person with which the particular qualifying person does not deal at arm's length), in applying paragraph (1)(a) in respect of the taxpayer's acquisition of a security under the agreement, the reference in that paragraph to "the taxation year in which the employee acquired the securities" shall be read as a reference to "the taxation year in which the employee disposed of or exchanged the securities" if
+(a) the acquisition is a qualifying acquisition; and
+(b) the taxpayer elects, in accordance with subsection (10), to have this subsection apply in respect of the acquisition.
+[8] A qualifying acquisition is defined in subsection 7(9), of which the relevant part reads as follows:
+47(9)3
+(9) Meaning of "qualifying acquisition". For the purpose of subsection (8), a taxpayer's acquisition of a security under an agreement made by a particular qualifying person is a qualifying acquisition if
+(a) the acquisition occurs after February 27, 2000;
+(b) the taxpayer would, if this Act were read without reference to subsection (8), be entitled to deduct an amount under paragraph 110(1)(d) in respect of the acquisition in computing income for the taxation year in which the security is acquired;
+History: S. 7(9) was added by S.C. 2001, c. 17, s. 2(9), applicable to the 2000 and subsequent taxation years.
+[9] A taxpayer is entitled to a deduction under paragraph 110(1)(d) if certain conditions are met. The relevant part of paragraph 110(1)(d) reads as follows:
+SECTON 110: Deductions permitted.
+(1) For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such of the following amounts as are applicable:
+4110(1)(d)3
+(d) Employee options - an amount equal to 1/2 of the amount of the benefit deemed by subsection 7(1) to have been received by the taxpayer in the year in respect of a security that a particular qualifying person has agreed after February 15, 1984 to sell or issue under an agreement, or in respect of the transfer or other disposition of rights under the agreement, if
+. . .
+(ii) where rights under the agreement were not acquired by the taxpayer as a result of a disposition of rights to which subsection 7(1.4) applied,
+(A) the amount payable by the taxpayer to acquire the security under the agreement is not less than the amount by which
+(I) the fair market value of the security at the time the agreement was made
+exceeds
+(II) the amount, if any, paid by the taxpayer to acquire the right to acquire the security,
+History: S. 110(1)(d), the portion before subparagraph (i) was amended by S.C. 2001, c. 17, s. 84(1), applicable to the 2000 and subsequent taxation years except that, for the 2000 taxation year, the reference to the fraction "1/2" in the portion of paragraph 110(1)(d) of the Act before subparagraph 110(1)(d)(i) shall be read as a reference to the fraction "1/4", if the transaction, event or circumstance as a result of which a benefit is deemed by subsection 7(1) of the Act to have been received by a taxpayer occurred before February 28, 2000, and the fraction 1/3, if the transaction, event or circumstance as a result of which a benefit is deemed by subsection 7(1), to have been received by a taxpayer occurred after February 27, 2000 and before October 18, 2000.
+[10] Thus, if the option relates to the acquisition of shares of a corporation that are listed on a prescribed stock exchange, i.e. of a corporation that is not a CCPC (as is the case here), the deferral of the deemed benefit will be possible only if the acquisition occurred after February 27, 2000 and if the taxpayer would (if the Act were read without reference to subsection 7(8)) be entitled to deduct an amount under paragraph 110(1)(d) of the Act in respect of that acquisition in computing the taxpayer's income for the taxation year in which the securities were acquired. Such a deduction would be permitted only if, among other conditions, the amount payable for the securities under the option (the option price) was not less than the fair market value of the securities at the time the option was granted. (See Technical Note accompanying the Notice of Ways and Means Motion - Migration Rules, Trust Proposals, Resource Expenditures and Technical Amendments - June 5, 2000.)
+[11] Here the facts are not disputed. They are summarized as follows in paragraph 6 of the Reply to the Notice of Appeal:
+a) During the taxation year 2000, the Appellant was an employee of JDS Uniphase Inc., Ottawa, (hereinafter the "employer").
+b) Pursuant to the 1999 Canadian Employees Stock Purchase Plan, the employer provided the Appellant, with the opportunity to purchase its shares during the September 1, 1999 to August 31, 2001 offering period at 85% of the fair market value at the granting date.
+c) The granting date for the option to purchase shares was September 1, 1999 and the fair market value of the shares at this date was $27.53 US per share.
+d) The Appellant paid NIL for the right to acquire the shares.
+e) The Appellant exercised his first option on January 31, 2000 purchasing 68 shares of the employer at an option price corresponding to 85% of the fair market value at the granting date or $23.40US per share. The fair market value of the shares at the exercise date of January 31, 2000 was $101.97US per share.
+f) The Appellant exercised a second option on July 31, 2000 purchasing 84 shares of the employer at an option price corresponding to 85% of the fair market value at the granting date or $23.40US per share. The fair market value of the shares at the exercise date of July 31, 2000 was $118.13US per share.
+g) The total value of the employment benefit flowing from the purchase of the shares, $19,679.09 CDN, was included by the employer in the Appellant's T4 slip, under box 40 which refers to "other taxable allowances and benefits".
+h) In filing his Income Tax Return for the 2000 taxation year, the Appellant did not claim any deferral or deduction in relation to the value of the benefit included in his income.
+i) The employer's shares are traded publicly on the New York Stock Exchange.
+j) In filing the T4 slip and including the benefit in box 40 rather than in box 53, the employer informed the Minister that no deferral was claimed regarding the inclusion of the stock option benefit in the Appellant's income.
+k) The Minister allowed a deduction in the amount of $5,906 in computing the taxable income of the appellant for the taxation year in litigation.
+[12] The appellant acquired shares of a corporation that was not a CCPC for a price that was less than the fair market value of those securities at the time the option was granted.
+[13] Consequently, the appellant was not entitled to deduct an amount under paragraph 110(1)(d) of the Act, and therefore the acquisition of the shares did not fit within the definition of "qualifying acquisition" in subsection 7(9) of the Act. It is to be noted also that some of the shares were acquired before February 28, 2000 and accordingly, for that reason as well, did not constitute a qualifying acquisition within the meaning of paragraph 7(9)(a) of the Act.
+[14] The fact that the transaction in issue was not a qualifying acquisition precluded the appellant from deferring the inclusion in income of the deemed benefit to the year of the disposition of the shares. The deemed benefit had to be included in his income for the year in which he exercised the option.
+[15] That the appellant was granted a deduction under paragraph 110(1)(d) by mistake does not change the fact that he was not entitled to such a deduction and therefore not entitled to defer the inclusion of the deemed benefit to the year of the disposition of the shares under subsection 7(8) of the Act.
+[16] The appellant argued that this treatment is unfair because he had to include a benefit in his income in 2000 although he still owns the shares and their value has now dropped below the option price. This might be the case but this alone cannot override the clear wording of the Act. I would also add that the taxpayer, in acquiring the shares at the option price, obtained a benefit that another person would not have got if that other person had bought the same shares at their fair market value. In fact, that other person buying the same shares at the same time at a higher price would inevitably have suffered a greater loss than a taxpayer who had purchased the shares through an Employee Stock Purchase Plan at a lower price (even though the benefit received by that taxpayer is taxable in the year of the acquisition of the shares) had the value of the shares dropped thereafter. In that sense, the taxpayer herein definitely received a benefit from his employer in the year of his acquisition of the shares.
+[17] As regards the timing of the taxation of a benefit derived from the acquisition of shares, the different treatment provided for, depending on whether they are shares of a CCPC or publicly listed shares, is something that was deliberately legislated. As a matter of fact, the following De Boo Budget Date Comment (in D.M. Sherman, ed., Income Tax Act Department of Finance Technical Notes, 14th ed. (Toronto: Thomson Carswell, 2002) on the 1977 Notice of Ways and Means Motion for the implementation of favourable measures for CCPCs under paragraph 110(1)(d) of the Act is quite explicit as to the intention of the legislator:
+1977 NWMM: That where an individual is granted an option to acquire shares of a Canadian-controlled private corporation, one-half the difference between the eventual sale proceeds of the shares acquired and the price paid to acquire the shares be included in his income when the shares are sold provided that at the time the option was granted the individual was an employee of the corporation or of a Canadian-controlled private corporation related to it and that he dealt at arm's length with the person or persons who controlled the corporation or corporations, as the case may be.
+1977 De Boo Budget Date Comment: This proposal is intended to put smaller and particularly newer companies which often do not have the financial resources to match higher salaries offered by larger enterprises on a more competitive footing by effecting a change in the treatment of stock options granted by such companies. At present when a taxpayer exercises a stock option granted by his employer, the difference between the fair market value of the shares acquired and the price payable or paid under the option is deemed received by the employee by virtue of his employment in the taxation year in which he acquires the shares.
+Pursuant to the proposed amendment, where an individual is granted an option to acquire shares of a Canadian-controlled private corporation after March 31, 1977 no amount will be included in the individual's income at the time he exercises the option. On an eventual sale, the difference between the option price paid and the proceeds of disposition in such sale will be taxed as a capital gain. It should be noted that the special treatment described above will be limited to cases where the individual receiving the stock dividend is an employee of the Canadian-controlled private corporation whose shares are the subject of the option or a related Canadian-controlled private corporation and such individual deals at arm's length with the person or persons who control the corporation or corporations concerned.
+[18] According to The Budget Plan 2000, tabled in the House of Commons on February 28, 2000, new subsection 7(8) of the Act has extended, with some modifications and limitations, the deferral currently available for CCPC options to options granted by corporations that are not CCPCs. In Annex 7 of The Budget Plan 2000, Tax Measures: Supplementary Information and Notices of Ways and Means Motions, the change is explained as follows at pages 230-31:
+To assist corporations in attracting and retaining high-calibre workers and make our tax treatment of employee stock options more competitive with the United States, the budget proposes to allow employees to defer the income inclusion from exercising employee stock options for publicly listed shares until the disposition of the shares, subject to an annual $100,000 limit (see below). Employees disposing of such shares will be eligible to claim the stock option deduction in the year the benefit is included in income. The new rules will also apply to employee options to acquire units of a mutual fund trust. The proposed rules are generally similar to those for Incentive Stock Options in the United States.
+Employee stock options granted by CCPCs are not affected by the proposed measure.
+. . .
+Eligible Options
+An eligible option is one under which:
+g the share to be acquired is an ordinary common share;
+g the share is of a class of shares traded on a prescribed Canadian or foreign stock exchange; and
+g the total of all amounts payable to acquire the share, including the exercise price and any amount payable to acquire the option, is not less than the fair market value of the share at the time the option is granted.
+The proposal applies to eligible options exercised after February 27, 2000, irrespective of when the option was granted or became vested.
+[19] It is not in the power of this Court to change the terms of the Act and to presume that the intention in drafting the provisions in question was something other than what is clearly stated.
+[20] In Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622, McLachlin J. stated at paragraph 43:
+. . . The Act is a complex statute through which Parliament seeks to balance a myriad of principles. This Court has consistently held that courts must therefore be cautious before finding within the clear provisions of the Act an unexpressed legislative intention: CanderelLtd. v. Canada, [1998] 1 S.C.R. 147, at para. 41, per Iacobucci J.; Royal Bank of Canada v. Sparrow Electric Corp., [1997] 1 S.C.R. 411, at para. 112, per Iacobucci J.; Antosko,supra, at p. 328, per Iacobucci J. Finding unexpressed legislative intentions under the guise of purposive interpretation runs the risk of upsetting the balance Parliament has attempted to strike in the Act.
+[21] For these reasons, I have to dismiss the appeal.
+Signed at Ottawa, Canada, this 14th day of April 2003.
+"Lucie Lamarre"
+J.T.C.C.
+CITATION:
+2003TCC261
+COURT FILE NO.:
+2002-4570(IT)I
+STYLE OF CAUSE:
+Dragoslav (Danny) Trickovic v. The Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+March 25, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge Lucie Lamarre
+DATE OF JUDGMENT:
+April 14, 2003
+APPEARANCES:
+Agent for the Appellant:
+Greg Milanovich
+Counsel for the Respondent:
+Tony Chambers
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,104 @@
+Title: Hynes v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26071/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-534-26071-hynes-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2004-09-21
+
+# Hynes v. M.N.R.
+
+- Citation: 2004 TCC 534
+- Decision date: 2004-09-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4066, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hynes v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-21
+Neutral citation
+2004 TCC 534
+File numbers
+2003-2089(EI)
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-2089(EI)
+BETWEEN:
+RAYMOND HYNES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+__________________________________________________________________
+Appeal heard on April 29, 2004 at Gander, Newfoundland
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Agent for the Appellant:
+Albert O'Rielly
+Counsel for the Respondent:
+Martin Hickey
+__________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of September, 2004.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2004TCC534
+Date: 20040921
+Docket: 2003-2089(EI)
+BETWEEN:
+RAYMOND HYNES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] This is an appeal from a determination by the Minister of National Revenue that the Appellant, Mr. Raymond Hynes, was not employed in insurable employment from July 22, 2002 to October 5, 2002 because he was not working under a contract of service. Mr. Hynes is of the view that, during the period in question, he was under a contract of service with his wife, Mrs. Diane Hynes, doing housing construction and therefore, the work is insurable. There is no dispute that Mr. Hynes was building houses in Goose Bay from July to October 2002. The question is whether he was engaged in that activity on his own behalf as an independent contractor, or as an employee of Mrs. Hynes.
+[2] Both Mr. Hynes and Mrs. Hynes testified. Their evidence was that in July 2002, having heard of the possibility of home construction contracts in Goose Bay, Mrs. Hynes decided to set herself up in the home building business. She had no business experience, nor did she have any experience in construction. She opened a business bank account into which she deposited start-up capital from a line of credit she held jointly with Mr. Hynes. Mr. Hynes was given Power of Attorney over the business account. Mrs. Hynes stated that she hired Mr. Hynes to go to Goose Bay to negotiate on her behalf with Melville Woodworkers and then, to carry out the resulting building contracts. There was no written contract between Melville Woodworkers and Mrs. Hynes or, for that matter, between her and Mr. Hynes. At no time did she have any contact with Melville Woodworkers, nor did she spend any time at the Goose Bay building site. Mr. Hynes testified that he called her almost daily to report on progress and to seek her advice regarding the suitability of contracts being considered. Regular on-site supervision was left to a Melville Woodworkers carpenter. Melville Woodworkers paid Mr. Hynes directly by cheque made payable to him which he then deposited in the business account. Mr. Hynes supplied his own carpentry tools; the cost of scaffolding was paid out of the business account.
+ANALYSIS
+[3] Mr. Hynes has the burden of proving wrong the assumptions upon which the Minister's assumptions were based. The starting point is to determine whether there existed a contract of any kind between Mr. Hynes and the business operated by Mrs. Hynes. Counsel for the Respondent referred the Court to a decision of the Federal Court of Appeal, Fournier v. Canada[1]:
+The tests set out in Wiebe Door can be used as a guide only in cases where the Court has to decide whether the relationship between a payer and a worker is governed by a contract of service or a contract for services. However, in many cases, including the case at bar, the Court's first task is not to distinguish between these two types of contracts, but rather to determine whether there was really a contractual relationship between the parties.
+[4] The evidence presented is not sufficient to establish a contractual relationship between Mrs. Hynes and Mr. Hynes. There was no written agreement between them nor any testimony regarding their respective rights and obligations. Mr. Hynes was paid, not by the business, but by Melville Woodworkers.
+[5] If, however, I am wrong in this conclusion and a contract did exist between Mr. Hynes and Mrs. Hynes, I am of the view that the contract was a contract for services in which case, Mr. Hynes was an independent contractor, not an employee. In making this determination, I am guided by the tests in the case law[2]. The evidence shows that Mrs. Hynes did not exercise any real control over Mr. Hynes in the carrying out of his duties. Mrs. Hynes was not on-site; with no experience in the business, even if she had been, her presence would have been of little utility. Mr. Hynes sought out the projects and based his decisions on whether to accept on his experience and the current practices at the construction site rather than Mrs. Hynes' advice. He was paid directly, in his own name, by Melville Woodworkers for his labours. The line of credit, which had financed the Goose Bay venture, was jointly held by Mr. Hynes and Mrs. Hynes. Any chance of profit or risk of loss was his. He supplied his own tools and essentially, ran his own show.
+[6] For the reasons given, I find that there was no contract of service between Mr. Hynes and Mrs. Hynes. Accordingly, the appeal is dismissed.
+Signed at Ottawa, Canada, this 21st day of September, 2004.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2004TCC534
+COURT FILE NO.:
+2003-2089(EI)
+STYLE OF CAUSE:
+Raymond Hynes v. M.N.R.
+PLACE OF HEARING:
+Gander, Newfoundland
+DATE OF HEARING:
+April 29, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+September 21, 2004
+APPEARANCES:
+Agent for the Appellant:
+Albert O'Rielly
+Counsel for the Respondent:
+Martin Hickey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1997] F.C.J. No. 211 (F.C.A.); Belanger v. Canada, [1995] T.C.J. No. 717 (T.C.C.)
+[2] Wiebe Door Services Ltd. v. Minister of National Revenue, 87 DTC 5025 (F.C.A.); 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 4 C.T.C. 139 (S.C.C.)

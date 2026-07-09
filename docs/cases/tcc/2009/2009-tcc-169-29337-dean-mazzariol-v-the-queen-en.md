@@ -1,0 +1,119 @@
+---
+title: "Dean Mazzariol v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29337/index.do"
+last_modified: "2009-03-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 169"
+citation2: ""
+neutral_citation: "2009 TCC 169"
+decision_date: "2009-03-10"
+language: "en"
+item_id: "29337"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6985
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:28:53.792000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9a99ea9bb23b62dbe62b9f2a6fdd0f16c4d2b4b7047f18d5073b51d613d5ff2d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dean Mazzariol v. The Queen
+
+- Citation: 2009 TCC 169
+- Decision date: 2009-03-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6985, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dean Mazzariol v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-03-10
+Neutral citation
+2009 TCC 169
+File numbers
+2007-2783(GST)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-2783(GST)I
+BETWEEN:
+DEAN MAZZARIOL, ANTHONY BUCCELLA and LIDIA MAZZARIOL Operating as Mazcom Print,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 10, 2009, at Toronto, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+Agent for the Appellant:
+Kay Bond
+Counsel for the Respondent:
+Ian Theil
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated May 18, 2006, and bears number 05DP0125234 for the period January 1, 1994 to December 31, 2001, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of March 2009.
+“B.Paris”
+Paris J.
+Citation: 2009 TCC 169
+Date: 20090324
+Docket: 2007-2783(GST)I
+BETWEEN:
+DEAN MAZZARIOL, ANTHONY BUCCELLA and LIDIA MAZZARIOL Operating as Mazcom Print,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] The Appellant is appealing from an assessment dated May 18, 2006 for unremitted GST, and related interest and penalties for the period January 1, 1994 to December 31, 2001.
+[2] The Appellant contends that the Minister should have waived the penalties and interest that were imposed because the Appellant made a voluntary disclosure to the Minister in February 2004 that tax was owing. The Minister held that the Appellant was not entitled to a waiver of penalties and interest because the voluntary disclosure was only in respect of tax owing under the Income Tax Act and was not made “for GST purposes.”
+[3] It is clear that this Court does not have jurisdiction to review the Minister’s exercise of his discretion under section 281.1 of the Excise Tax Act to waive penalties or interest. The appeal must therefore be dismissed.
+[4] However, I am satisfied that the Appellant intended the voluntary disclosure made in February 2004 to have been made for the purposes of both the Income Tax Act and the Excise Tax Act, and I would therefore strongly recommend that the Minister exercise his discretion to waive penalties and interest in this case for the periods for which it is open to him to do so.
+Signed at Ottawa, Canada, this 24th day of March 2009.
+“B.Paris”
+Paris J.
+CITATION: 2009 TCC 169
+COURT FILE NO.: 2007-2783(GST)I
+STYLE OF CAUSE: DEAN MAZZARIOL, ANTHONY BUCCELLA and LIDIA MAZZARIOL Operating as Mazcom Print AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 10, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: March 24, 2009
+APPEARANCES:
+Agent for the Appellant:
+Kay Bond
+Counsel for the Respondent:
+Ian Theil
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

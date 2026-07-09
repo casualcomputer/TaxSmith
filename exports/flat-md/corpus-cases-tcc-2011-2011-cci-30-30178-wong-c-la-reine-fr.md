@@ -1,0 +1,231 @@
+---
+title: "Wong c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30178/index.do"
+last_modified: "2011-01-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 30"
+citation2: ""
+neutral_citation: "2011 CCI 30"
+decision_date: "2011-01-25"
+language: "fr"
+item_id: "30178"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7744
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:10:52.006000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2d288a16ef0aa0a64f7408a9acc19b705115181a806d8a87b1fd5eb3439875bd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wong c. La Reine
+
+- Citation: 2011 CCI 30
+- Decision date: 2011-01-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7744, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wong c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-01-25
+Référence neutre
+2011 CCI 30
+Numéro de dossier
+2008-3305(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3305(IT)I
+ENTRE :
+SHIU KEUNG FRANKLIN WONG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec l’appel de Shiu Keung Franklin Wong (2008‑3311(GST)I) le 9 juin 2010 à Hamilton (Ontario) et
+Le 20 octobre 2010 à Toronto (Ontario)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Représentant de l’appelant :
+M. Alex Wai
+Avocate de l’intimée :
+Me Sandra K.S. Tsui
+JUGEMENT
+Les appels de cotisations établies en vertu de la Loi de l’impôt sur le revenu relativement aux années d’imposition 1999, 2000, 2001 et 2002 sont accueillis sans dépens, et les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tentant pour acquis que les montants de revenus non déclarés pour les années d’imposition 1999 et 2000 doivent être respectivement de 9 500 $ et de 17 700 $, conformément aux motifs du jugement ci-joints.
+La Cour ordonne en outre que les droits de dépôt de 100 $ versés par l’appelant lui soient remboursés.
+Signé à Vancouver (Colombie-Britannique), ce 25e jour de janvier 2011.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 16e jour de mars 2011.
+Marie‑Christine Gervais
+Dossier : 2008-3311(GST)I
+ENTRE :
+SHIU KEUNG FRANKLIN WONG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec l’appel de Shiu Keung Franklin Wong (2008‑3305(IT)I) le 9 juin 2010 à Hamilton (Ontario) et
+Le 20 octobre 2010 à Toronto (Ontario)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Représentant de l’appelant :
+M. Alex Wai
+Avocate de l’intimée :
+Me Sandra K.S. Tsui
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d’accise (la « LTA »), dont l’avis de cotisation porte le no 05CP0119080 et est daté du 24 mars 2006, est accueilli sans dépens, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant pour acquis qu’il se peut que les montants totaux de l’intérêt et de pénalités dus en vertu de l’article 280 de la LTA doivent être recalculés sur les montants impayés de TPS relativement aux années d’imposition 2001 et 2002 seulement, en conformité avec les motifs du jugement ci‑joints.
+La Cour ordonne en outre que les droits de dépôt de 100 $ versés par l’appelant lui soient remboursés.
+Signé à Vancouver (Colombie-Britannique), ce 25e jour de janvier 2011.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 16e jour de mars 2011.
+Marie‑Christine Gervais
+Référence : 2011 CCI 30
+Date : Le 25 janvier 2011
+Dossiers : 2008-3305(IT)I
+2008-3311(GST)I
+ENTRE :
+SHIU KEUNG FRANKLIN WONG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Ces appels concernent des questions relatives à l’impôt sur le revenu pour les années d’imposition 1999, 2000, 2001 et 2002 de l’appelant ainsi que des questions relatives à la taxe sur les produits et services (« TPS ») pour la période allant du 1er janvier 2001 au 31 décembre 2002. À l’origine, l’appelant avait aussi fait l’objet d’une cotisation en vertu de la Loi sur la taxe d’accise (la « LTA ») pour la période allant du 1er février 1999 au 31 décembre 2000, mais cette cotisation a été annulée depuis. En outre, le ministre du Revenu national (le « ministre ») a réduit les montants de revenus non déclarés pour 1999 et 2000 respectivement à 9 500 $ et à 17 700 $.
+[2] Les présents appels soulèvent quatre questions :
+1. Les paiements que l’appelant a reçus de Canadian Information Technology Inc. (« CITC ») dans les années d’imposition 1999, 2000, 2001 et 2002 doivent-ils être qualifiés de revenus d’entreprise ou de remboursements d’un prêt d’actionnaire ne devant pas être inclus dans le revenu de l’appelant?
+2. Si les paiements constituaient bel et bien des revenus d’entreprise, des pénalités pour faute lourde en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « LIR ») ont-elles été imposées à bon droit au titre du défaut de l’appelant d’inclure ces paiements dans ses revenus d’entreprises pour les années d’imposition 2000, 2001 et 2002?
+3. Les cotisations établies à l’égard de la TPS non versée relativement aux années d’imposition 2001 et 2002 ont‑elles été établies à juste titre par le ministre?
+4. Si les cotisations établies à l’égard de la TPS non versé ont été établies à juste titre, l’appelant est-il tenu de payer de l’intérêt et des pénalités en vertu de l’article 280 de la LTA pour les années 2001 et 2002?
+[3] L’appelant est un ancien ingénieur préposé au service à la clientèle, qui a travaillé pour IBM de 1970 à 1994. Il possède un baccalauréat ès arts de l’Université York. Après avoir pris sa retraite de chez IBM, il a travaillé auprès de différentes sociétés et il a donné des cours d’informatique au collège Seneca et à l’Université Ryerson. En outre, il a démarré plusieurs entreprises dont les activités étaient centrées sur la prestation de services d’enseignement principalement à de nouveaux immigrants au Canada. Entre 1998 et 2002, l’appelant a mis au point quatorze programmes de formation différents que le ministère de l’Éducation de l’Ontario a approuvés à titre de programmes privés menant à un diplôme.
+[4] Une des entreprises qu’il a démarrées, Workplace Technology Inc. (« WTI »), a été rebaptisée Canadian Information Technology College Inc. en 1997. L’appelant et son associé en affaires, Brij Bali, ont lancé CITC pour dispenser de la formation professionnelle en informatique à de nouveaux immigrants à Toronto. En plus d’obtenir l’approbation du ministère de l’Éducation de l’Ontario, l’appelant a également obtenu l’agrément du Régime d’aide financière aux étudiantes et étudiants de l’Ontario (le « RAFEO ») permettant ainsi à ses étudiants d’avoir accès à une aide financière. À l’époque où il exploitait CITC, l’appelant a mis au point un programme de stages dans le domaine des technologies de l’information, qui permettait à des étudiants d’acquérir une expérience de travail au sein de diverses sociétés. Selon l’appelant, ce programme était le [TRADUCTION] « premier en son genre » dans la région de Toronto (transcription, aux pages 321‑322).
+[5] L’Appelant a fourni divers services à CITC. Pour que la société le paye, l’appelant facturait CITC pour des [TRADUCTION] « services de gestion et de soutien technologiques » (pièce R‑1, onglet 14, à la page 190) par l’entremise de son entreprise individuelle, Alliance Computer Services (« ACS »), et il appliquait la TPS aux montants facturés. L’appelant a affirmé que c’était son associé en affaires, Brij Bali, qui avait établi le système de facturation et que les comptables de CITC s’étaient fondés sur ce système aux fins de la tenue des livres de la société.
+[6] L’appelant et M. Bali ont tous deux exploité CITC, mais seul l’appelant a consenti un prêt d’actionnaire à la société. À la fin de 1998, son prêt totalisait 73 000 $, et cette dette est demeurée inchangée jusqu’à la fin de 1999 selon les livres de la société. Un note explicative figurant parmi les notes accompagnant les états financiers de 1999 de CITC datés du 14 juin 2000 (pièce R‑1, onglet 1, page 31) indique que le prêt d’actionnaire ne portait pas intérêt, qu’il n’était pas garanti et qu’il n’était assorti d’aucune modalité de remboursement particulière. La note indiquait également que le remboursement de ce prêt n’avait pas à être remboursé en 2000.
+[7] Au début de 2000, CITC a éprouvé des difficultés financières qui ont amené M. Bali à quitter la société. Vers la fin de 2000, l’appelant a vendu la majorité des actions de CITC à Paxtan Educational Inc. (« Paxtan »), qui était contrôlée par Mme Beck Yu Tan. L’appelant et Mme Tan ne s’entendent apparemment pas quant à la question de savoir si l’appelant est demeuré actionnaire/propriétaire de CITC à 6,25 pour cent ou s’il a respecté les exigences d’une clause d’option d’achat d’actions, stipulée dans l’accord supplémentaire relatif à la convention d’achat d’actions (l’« accord supplémentaire »), et a acquis 30 pour cent des actions après la vente, mais cela n’a aucune incidence sur les questions en litige dans les présents appels.
+[8] L’accord supplémentaire prévoyait que l’appelant toucherait 3 000 $ par mois à titre de salaire et que la clause relative au salaire serait révisée après un certain temps. Mme Tan a affirmé qu’après que Paxtan eut acheté les actions de CITC, l’appelant a continué à facturer ses services à la société, soit personnellement ou par l’intermédiaire de son entreprise, ACS. Bien que le service de la comptabilité ait instauré après la vente un mécanisme visant à maintenir des comptes distincts relativement aux prêts des actionnaires qui étaient maintenant plusieurs, à des fins de suivi exact, la procédure de facturation des services de l’appelant, adoptée avant la vente de CITC, est demeurée inchangée après l’achat par Paxtan. Les feuilles de calculs intitulées [TRADUCTION] « Transactions par compte » de CITC pour les années 2001 et 2002 décrivent généralement le paiement de ces factures comme des paiements d’[TRADUCTION] « honoraires » ou d’[TRADUCTION] « honoraires d’expert‑conseil » dans ces années.
+[9] Jacqueline Lam, qui a été directrice de la comptabilité interne de CITC de 2000 à 2006, a confirmé qu’elle avait fait des chèques à l’ordre de l’appelant à titre personnel ou à l’ordre de son entreprise, ACS, au titre de services rendus par l’appelant, et qu’elle lui avait également remboursé les dépenses qu’il avait faites pour le compte de CITC. Mme Lam a affirmé qu’elle avait fait les chèques en fonction de l’objet précisé sur les factures et que les montants à payer avaient été débités de comptes précis de CITC. Elle a également confirmé qu’un chèque émis et accompagné de la mention [TRADUCTION] « honoraires » n’aurait pas été émis à titre de remboursement d’un prêt d’actionnaire.
+[10] Tammy Lam, la comptable externe de CITC, qui avait commencé à travailler pour CITC avant la vente à Paxtan, a confirmé que, dans les déclarations de revenus de la société pour les années 2000, 2001 et 2002, CITC avait déduit les honoraires d’expert‑conseil en gestion facturés par l’appelant de ses revenus d’entreprise à titre de dépense d’exploitation de la société.
+[11] Le bilan de CITC pour l’année 2000, établi par la comptable externe de CITC, Tammy Lam, le 21 juin 2001, et signé par l’appelant [TRADUCTION] « au nom du conseil », indiquait que le solde de son compte de prêt d’actionnaire était passé de 73 000 $ en 1999 à 88 718 $ au 31 décembre 2000. En 2001, l’appelant a fait d’autres avances à titre d’actionnaire, qui semblent avoir eu pour objet de lever une option d’achat d’actions qui lui avait été offerte suivant l’accord supplémentaire. En 2001, l’appelant a fait plusieurs chèques à CITC, dont les montants variaient de 3 000 $ à 10 000 $, et qui portaient des mentions comme [TRADUCTION] « options d’achat d’actions » ou [TRADUCTION] « options d’achat d’actions – prêt ». Une comptabilité détaillée relative aux avances que l’appelant a faites à titre d’actionnaire en 2001 (pièce R‑1, onglet 8) indique que l’appelant a avancé en tout 50 607,19 $ en 2001. Cette avance s’ajoutait au montant préexistant du prêt d’actionnaire original de 88 718 $. Selon les dossiers de CITC, le 31 décembre 2002, ces soldes demeuraient inchangés.
+[12] À la fin de 2002, l’appelant ne recevait plus de paiements de CITC et, selon son témoignage, CITC l’a congédié en février 2003. Après son départ de CITC, l’appelant a poursuivi avec succès CITC devant la Cour des petites créances au titre de paiements en souffrance de 10 408,24 $ qui lui étaient dus.
+[13] Ranjani Roberts, la vérificatrice de l’Agence du revenu du Canada (d’« ARC »), a affirmé qu’elle avait conclu que les paiements que CITC avait faits à l’appelant étaient des paiements d’honoraires de gestion plutôt qu’un remboursement de son prêt d’actionnaire, et ce, pour plusieurs raisons : elle a pu repérer ces paiements grâce aux écritures faites dans le journal de la société; les factures de l’appelant, qu’il avait présentées à CITC, concernaient des [TRADUCTION] « services convenus de gestion et de soutien technologiques »; des chèques avaient été faits à l’ordre de l’appelant ou de son entreprise, ACS, relativement à ces factures, et ces chèques portaient des mentions indiquant qu’ils visaient à rémunérer des services; l’appelant a encaissé ces chèques; et, de même, tous ces faits concordaient avec les états financiers et les déclarations de revenus de CITC. En outre, il existait une entente en vertu de laquelle un salaire serait versé à l’appelant à compter du 1er novembre 2000 et, après vérification du compte de prêt d’actionnaire, les livres de la société n’indiquaient aucune réduction des soldes des prêts de l’appelant, et il n’y avait aucune entrée inhabituelle que le comptable externe de CITC n’avait pas corrigée.
+[14] Mme Roberts a affirmé que, puisque les services de gestion constituent une fourniture taxable et puisque les factures que l’appelant avait présentées à CITC exigeaient des montants au titre de la TPS, bien que l’appelant ne fût pas un inscrit aux fins de la TPS, elle avait aussi établi une cotisation à l’égard de la TPS relative aux honoraires que l’appelant avait demandés pour les services qu’il avait fournis. Mme Roberts a aussi recommandé l’imposition de pénalités.
+La thèse de l’appelant :
+[15] L’appelant a affirmé que les paiements qu’il avait reçus de CITC constituaient un remboursement de ses prêts d’actionnaire et, pour cette raison, il a soutenu qu’il ne devrait aucun impôt sur le revenu, intérêt ni pénalité sur ces paiements. Il a également soutenu qu’il ne devait pas de TPS, ni l’intérêt et les pénalités y afférents, parce qu’en réalité, il n’avait pas perçu de TPS. Il ne croyait pas qu’il facturait la TPS, bien que celle-ci fût mentionnée sur les factures qu’il avait établies, parce qu’il croyait qu’il recevait de l’argent relativement à ses prêts d’actionnaire. Il a simplement continué à utiliser les mêmes modèles de facture, comportant une mention de la TPS, que son ancien associé en affaires, M. Bali, avait établis avant la vente à Paxtan. En outre, l’appelant a affirmé qu’il pensait que le service de la comptabilité de CITC avait inclus par inadvertance la mention de la TPS sur ses factures, et ce, aussi bien avant qu’après la vente à Paxtan.
+[16] L’appelant a invoqué trois arguments principaux au soutien de sa thèse :
+(1) il n’avait tiré aucun profit de CITC dans ces années;
+(2) il avait toujours eu l’intention de traiter les paiements comme des remboursements de prêt d’actionnaire;
+(3) il ne connaissait rien aux procédures comptables et fiscales.
+La thèse de l’intimée :
+[17] L’intimée a soutenu que les paiements faits à l’appelant visaient à régler des honoraires de gestion ou d’expert-conseil relativement à des services rendus à CITC et non à rembourser le prêt d’actionnaire de l’appelant. Selon l’intimée, il ne suffit pas que l’appelant affirme qu’il a toujours considéré que ces paiements constituaient un remboursement de son prêt, parce que ce ne sont pas les intentions de l’appelant, mais les actes qu’il a réellement posés, qui sont pertinents aux fins de la qualification des paiements.
+[18] L’intimée a également souligné que l’appelant avait appris qu’il aurait pu traiter les paiements comme un remboursement de prêt d’actionnaire, plutôt que comme des revenus, seulement après le début de la vérification. L’appelant aurait pu prendre des dispositions pour que ces paiements constituent un remboursement de son prêt d’actionnaire, mais il ne l’a pas fait, et il n’appartient pas à la Cour de déterminer maintenant le traitement comptable le plus favorable.
+Analyse :
+Première question : La qualification des paiements que CITC a faits à l’appelant
+[19] La détermination de la nature de ces paiements est une question de fait. Dans la décision qu’elle a rendue en 1949 dans Reference Re Income War Tax Act and Walter Crassweller (1949), 1 Tax A.B.C. 1, 1949 CarswellNat 20, la Commission d’appel de l’impôt a formulé le principe selon lequel la vraie nature et le caractère imposable d’un paiement sont déterminées non pas par la description que le payeur fait lui‑même de cette nature, mais plutôt en fonction de la substance des faits et des dispositions de la LIR. Dans la décision qu’elle a rendue en 1967 dans Rossman et al v. M.N.R., 67 D.T.C. 273, la Commission d’appel de l’impôt a appliqué le même principe, et elle a affirmé ce qui suit à la page 274 :
+[TRADUCTION]
+[...] aucun processus de comptabilité employé subséquemment par les vérificateurs de la société n’a pu changer la qualité de revenu qu’avait acquis l’argent que les appelants avaient obtenu.
+[20] Dans Farm Business Consultants Inc. v. The Queen, 95 D.T.C. 200, le juge Bowman, tel était alors son titre, a réitéré que ce n’est pas la description que quelqu’un fait d’un paiement, mais plutôt l’ensemble des faits et les rapports juridiques sous-jacents entre les parties, qui en déterminent la vraie nature. À la page 203, il a affirmé :
+[TRADUCTION]
+[...] On ne peut modifier la nature essentielle d’une opération pour des fins liées à l’impôt sur le revenu en lui donnant un nom différent. C’est la relation juridique véritable qui est déterminante, et non la terminologie employée. C’est le président de l’appelante, M. Ibbotson, qui avait eu l’idée de faire passer les paiements relatifs à la liste des clients pour des honoraires de consultation parce qu’il voulait transformer les paiements relatifs à l’achalandage en des dépenses déductibles au cours des différents exercices. À l’évidence, les Whalls étaient disposés à suivre cette idée, mais leur acquiescement, et le fait qu’ils étaient disposés à inclure les paiements dans leur revenu, n’aident pas la cause de l’appelante, pas plus que le fait que le ministre n’a pas contesté l’inclusion par les Whalls des paiements dans leurs revenus. [...]
+[21] Ces décisions donnent à penser que ni les entrées que CITC a faites dans ses livres, qui indiquaient que les paiements faits à l’appelant visaient à régler des honoraires de gestion ou d’expert-conseil, ni l’affirmation de l’appelant selon laquelle il s’agissait de remboursements de prêts d’actionnaire, ne sont suffisantes, à elles seules, pour déterminer la vraie nature de ces paiements. La nature des paiements doit plutôt être déterminée en fonction de la substance de tous les faits et les éléments de preuve dans les présents appels ainsi que des rapports juridiques sous-jacents entre l’appelant et CITC.
+[22] Le seul élément de preuve dont je dispose qui étaye la thèse de l’appelant selon laquelle les paiements étaient des remboursements de prêts d’actionnaire est le témoignage de vive voix de l’appelant. Cependant, tous les éléments de preuve documentaire indiquent plutôt le contraire. En outre, tous les témoins de l’intimée ont contredit les prétentions de l’appelant concernant ces paiements. L’intimée a présenté les dossiers de CITC, les déclarations T2 et les rapports de vérification de la société, de même que les chèques payés encaissés par l’appelant – qui étayent tous la thèse de l’intimée selon laquelle CITC a fait ces paiements en règlement d’honoraires de gestion ou d’expert-conseil pour des services rendus par l’appelant. Par exemple, les déclarations T2 et les états financiers de CITC pour les années 1999, 2000 et 2001 indiquent que CITC a supporté des frais de gestion et, en 2002, des dépenses au titre d’honoraires d’expert‑conseil. Même les factures de l’appelant lui‑même, aussi bien avant qu’après la vente de CITC à Paxtan, indiquent que les honoraires facturés l’ont été au titre de [TRADUCTION] « services » rendus ou, plus précisément, comme il l’indiquait de 1999 à 2001, au titre de [TRADUCTION] « services de gestion et de soutien technologiques », puis, en 2002, au titre de [TRADUCTION] « services de gestion et d’expert-conseil ». L’appelant a signé ou cosigné certains des chèques faits au titre de ces factures. En 2002, les notes relatives aux chèques indiquent comme objet des paiements d’« honoraires d’expert-conseil ». Après que l’appelant eut été congédié, il a intenté une action devant la Cour des petites créances contre CITC et a ainsi obtenu le paiement de montants dus au titre des services qu’il avait fournis à la société. L’accord supplémentaire stipulait clairement que l’appelant recevrait des paiements mensuels de 3000 $ à titre de [TRADUCTION] « salaire » en échange de ses services pendant six mois, après quoi cette clause serait révisée. En outre, l’accord supplémentaire mentionnait les prêts d’actionnaire de l’appelant dans un paragraphe distinct et stipulait que les prêts soit feraient l’objet d’une renonciation soit seraient cédés à Paxtan et à l’appelant dans des proportions respectives de 70 et de 30 pour cent si l’appelant achetait 30 pour cent des actions en vertu d’une clause d’option d’achat d’actions. L’appelant a confirmé lui-même dans son témoignage qu’il avait fourni les services convenus à CITC, et il a décrit ces paiements qu’il avait reçus en échange de ces services comme un [TRADUCTION] « salaire ». À la page 136 de la transcription, il a confirmé que son salaire mensuel avait été majoré par rapport à son salaire initial de 3 000 $ parce qu’il était trop bas :
+[TRADUCTION]
+Ouais. Je ne peux pas vivre indéfiniment avec ça. Il s’agit d’un salaire très bas pour une personne […]
+(Non souligné dans l’original.)
+(Transcription, page 136, lignes 1‑2)
+Tout cela porte à croire que l’appelant savait qu’il traitait d’honoraires pour services rendus à CITC et non de remboursements de ses prêts.
+[23] L’appelant a soutenu que, du simple fait qu’il avait un important prêt d’actionnaire non remboursé à l’époque où il a reçu les paiements de CITC, il pouvait traiter ces paiements comme des remboursements de prêt. Cependant, il n’y aucune source de droit qui justifie la compensation de plein droit d’un prêt d’actionnaire. La jurisprudence a confirmé que le paiement qu’une société fait à son actionnaire prêteur ne sera pas considéré comme une compensation de plein droit, mais que ce sont plutôt les intentions des parties relativement aux paiements ainsi que l’ensemble des éléments de preuve produits à l’audience qui détermineront la vraie nature des paiements.
+[24] L’intimée a invoqué la décision Docherty v. M.N.R., 91 D.T.C. 537, dans laquelle le juge Brûlé a confirmé qu’il n’y avait pas de droit à compensation de plein droit. À la page 539, citant la décision Massey-Ferguson Limited c. La Reine, le juge Brûlé a affirmé :
+[…] Souvent, il n’y a aucune difficulté, mais lorsqu’il s’en produit, en l’absence de contrats ou autres documents, les cours doivent, à partir d’autres éléments de preuve dignes de foi, établir l’intention des parties et la nature des obligations qui leur incombent.
+Le juge Brulé a ajouté :
+[TRADUCTION]
+Cependant, il se peut qu’un plus grand formalisme soit requis lorsqu’un tiers, comme le ministère de Revenu, est en cause. C’est ce qu’a affirmé le juge Heald dans The Queen v. Peter Neudorf, 75 DTC 5213, à la page 5215 :
+À mon avis, puisqu’une des parties à la convention était une compagnie, on en exige plus de formalités (comme par exemple, des délibérations prises par la compagnie) que des particuliers, spécialement quand il est important à l’égard des tiers comme le ministère du Revenu, de déterminer les liens existants entre les parties.
+[25] Dans son témoignage Mme Tan a affirmé que, selon elle, les paiements faits à l’appelant avaient pour objet la rémunération des services technologiques que l’appelant avait fournis à CITC et non le remboursement de prêts d’actionnaire comme le prétendait l’appelant. En fait, Mme Tan a affirmé qu’aucun chèque n’avait jamais été fait à l’ordre de l’appelant pour réduire le solde de son compte de prêt d’actionnaire. Jacqueline Lam, la comptable interne de CITC, a confirmé que, selon la procédure applicable pour faire de tels paiements à l’appelant relativement à ses prêts d’actionnaire, il aurait fallu que Mme Tan fasse une demande de chèque ou une demande expresse précisant l’objet de ce paiement, et cet objet aurait été consigné dans la note relative au chèque. Mme Lam a ajouté que, s’il y avait eu un remboursement de prêt d’actionnaire, ce remboursement aurait été documenté dans les livres de la société. Tammy Lam, la comptable externe de CITC, a aussi confirmé que, d’après ce qu’elle avait compris, les paiements que CITC avait faits à l’appelant avaient pour objet la rémunération des services que celui-ci fournissait à la société. Mme Lam a affirmé que, lorsqu’elle avait examiné ces paiements avec l’appelant, celui‑ci ne s’était pas opposé à la façon dont les paiements étaient consignés dans les livres de CITC, et il ne lui avait pas posé de questions quant à la façon dont les paiements qu’il recevait devraient être traités. Lorsqu’elle a examiné avec lui le solde de fin d’exercice de son compte de prêt d’actionnaire en 2000, il n’a exprimé aucun désaccord quant au montant de ce solde. En outre, le 10 février 2005, lors d’une rencontre avec la vérificatrice de l’ARC, l’appelant avait mentionné que CITC lui devait encore de l’argent à titre de [TRADUCTION] « salaire impayé ».
+[26] Le témoignage de l’appelant quant à l’intention des parties d’opérer une compensation du prêt d’actionnaire était parfois contradictoire. Il a affirmé que s’il avait demandé à Mme Tan de traiter les paiements comme des remboursements de ses prêts, elle n’y aurait pas consenti. Leur convention relative à la vente d’actions de CITC à Paxtan précisait que l’appelant ferait d’autres avances sous forme de prêts d’actionnaire, mais elle ne prévoyait pas de modalités précises de remboursement de ces prêts. Enfin, l’affirmation de l’appelant selon laquelle il a seulement appris qu’il pourrait peut-être traiter ces paiements comme des remboursements de ses prêts d’actionnaire après le début de la vérification le visant contredit elle aussi son argument relatif à la compensation.
+[27] Compte tenu que les éléments de preuve indiquent clairement que l’appelant fournissait des services technologiques à CITC, les paiements faits à l’appelant me semble constituer une preuve très convaincante que ces paiements avaient pour objet la rémunération de ces services, à moins que des éléments de preuve suffisants soient produits pour justifier une qualification différente de ces paiements. Or, tous les éléments de preuve documentaire, y compris l’accord supplémentaire, le traitement uniforme des paiements par la société et la facturation de l’appelant, de même que les témoignages de Mme Tan, de Jacqueline Lam et de Tammy Lam, sans parler de la description de ces paiements par l’appelant lui-même comme étant un salaire, étayent la conclusion selon laquelle, au moment où les paiements ont été faits, ils étaient censés être traités comme ayant pour objet la rémunération des services que l’appelant, selon son propre témoignage, avait fournis à CITC. Tout cela étaye la conclusion selon laquelle il n’y a jamais eu d’intention commune entre l’appelant et CITC, sa propriétaire majoritaire ou ses comptables interne et externe à l’effet de traiter les paiements comme une réduction du solde du compte de prêt d’actionnaire de l’appelant.
+[28] L’arrêt de la Cour d’appel fédérale dans l’affaire Friedberg v. The Queen (1991), 92 D.T.C. 6031, que l’intimée a invoqué, étaye la thèse selon laquelle, aux fins de l’impôt, une importance primordiale est accordée à la forme qui est donnée à une opération, et le traitement fiscal de ces opérations ne peut pas être requalifié rétroactivement à moins qu’une erreur comptable ait été commise de bonne foi relativement à leur qualification initiale. Or, je ne dispose d’aucun élément de preuve indiquant que ces paiements auraient été mal qualifiés à la suite d’une erreur quelconque. CITC a toujours considéré que ces paiements avaient pour objet le règlement d’honoraires de gestion ou d’expert‑conseil, et elle les a déduits de son revenu à titre de dépenses d’exploitation pour les besoins de l’impôt sur le revenu. Dans les livres de la société et les factures de l’appelant lui‑même, ces paiements ont systématiquement été qualifiés de la même façon. Bien que la comptabilité de CITC ait été supervisée par l’associé en affaires de l’appelant, M. Bali, avant la vente de CITC à Paxtan, puis par le service interne de comptabilité de CITC après la vente, c’est l’appelant qui s’est chargé d’établir les factures qu’il a présentées pour recevoir ses paiements, et ces factures ont été établies exactement sous la même forme de 1999 à 2002. L’appelant les a établies lui-même, et il y a indiqué qu’il demandait le paiement des services qu’il avait fournis à CITC. Il n’a jamais indiqué qu’il demandait un remboursement de son prêt d’actionnaire.
+Deuxième question : Des pénalités ont-elles été imposées à bon droit en vertu du paragraphe 163(2) de la LIR?
+[29] Le paragraphe 163(2) énonce :
+163(2) Faux énoncés ou omissions. Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité […]
+[30] La jurisprudence a clairement établi que le paragraphe 163(2) était une disposition pénale. Une des premières décisions souvent citée à l’appui de cette qualification est l’arrêt de la Cour de l’Échiquier du Canada dans l’affaire Udell v. M.N.R., [1970] Ex C.R. 176, où le juge Cattanach a affirmé, à la page 190 :
+[TRADUCTION]
+Il ne fait aucun doute que le paragraphe 56(2) est une disposition de nature pénale. Lorsque l’on interprète une telle disposition, il convient de tenir compte des propos inattaquables de lord Esher dans l’affaire Tuck & Sons v. Priester, (1887) 19 Q.B.D. 629 : lorsque le libellé d’une disposition de nature pénale est susceptible à la fois d’une interprétation qui mènerait à l’imposition de la pénalité prévue, et d’une autre qui n’y mènerait pas, c’est cette dernière qui prévaut. Voici ce qu’il dit à la page 638 :
+Il faut interpréter cette disposition avec grand soin car elle mène à l’imposition d’une pénalité. S’il existe une interprétation raisonnable qui permettra d’éviter la pénalité dans une cause particulière, c’est celle-là qu’il faut retenir.
+[31] Dans Venne v. The Queen, 84 D.T.C. 6247, le juge Strayer a formulé les commentaires suivants à la page 6256 au sujet de l’expression « faute lourde » :
+[…] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. […]
+[32] Au paragraphe 39 de la décision Dao v. The Queen, 2010 D.T.C. 1086, j’ai affirmé ce qui suit :
+[39] […] Le paragraphe 163(2) exige implicitement l’existence de l’intention de dissimuler une opération en matière fiscale. […] Étant donné que les dispositions du paragraphe 163(2) sont de nature pénale, elles appellent un degré de culpabilité plus élevé, et une pénalité ne doit être imposée que lorsque la preuve le justifie clairement. […]
+[33] C’est à l’intimée qu’il incombe d’établir que le ministre a imposé cette pénalité à juste titre dans les circonstances des présents appels. Les tribunaux hésitent à imposer des pénalités pour faute lourde en l’absence de preuve d’une conduite insouciante hautement répréhensible.
+[34] Aux fins de l’examen de la question de savoir si ces pénalités sont justifiées, la jurisprudence a établi une série non exhaustive de facteurs servant de lignes directrices. La décision DeCosta v. The Queen, 2005 D.T.C. 1436, est particulièrement utile. Le juge en chef Bowman (tel était alors son titre) y a affirmé, au paragraphe 11 :
+[11] Pour établir la distinction entre la faute « ordinaire » ou la négligence et la faute « lourde », il faut examiner plusieurs facteurs. Un de ces facteurs est bien entendu l’importance de l’omission relative au revenu déclaré. Il y a aussi la faculté du contribuable de découvrir l’erreur, ainsi que le niveau d’instruction du contribuable et son intelligence apparente. […]
+[35] Dans les présents appels, l’importance de l’omission relative au revenu déclaré en 2000, en 2001 et en 2002 était considérable. L’appelant a déclaré 4 032 $ de revenus d’emploi en 2000, 8990 $ en 2001 et 0 $ en 2002, alors que le revenu non déclaré qui a été déterminé aux fins de l’établissement de la cotisation pour chacune de ces années d’imposition était de 17 700 $ en 2000, de 45 784 $ en 2001 et de 41 280 $ en 2002. L’appelant est un homme instruit qui possède un diplôme universitaire et une vaste expérience des affaires. Il a démarré plusieurs entreprises après avoir pris sa retraite de chez IBM, et il a mis au point avec succès plusieurs programmes de formation qui devaient être approuvés par le ministère de l’Éducation de l’Ontario aux fins d’agrément et du RAFEQ. Il était au courant de l’obligation de s’inscrire aux fins de la TPS, puisque la preuve démontre qu’il a obtenu et utilisé au moins un numéro d’inscrit aux fins de la TPS pour une de ses entreprises dans des années antérieures.
+[36] Les éléments de preuve donnent à penser que l’appelant est un professionnel compétent et, compte tenu de son niveau d’instruction, de son intelligence et de son expérience de travail, il aurait pu demander conseil afin de déterminer s’il devait déclarer ces paiements de CITC à titre de revenus imposables. Les éléments de preuve indiquent que l’appelant aurait pu s’adresser non seulement à la comptable de la société qui travaillait au sein du service de comptabilité de CITC, mais aussi à la comptable externe de CITC. Ces comptables ont toutes deux confirmé que l’appelant ne s’était jamais opposé à ce que ces paiements soient décrits comme ayant pour objet le règlement d’honoraires de gestion ou d’expert-conseil, même s’il les avait examinés avec au moins une de ces comptables. L’appelant était un actionnaire de CITC, et Mme Tan a affirmé qu’il avait le contrôle des activités quotidiennes de CITC après que Mme Tan eut acheté la majorité des actions par l’intermédiaire de sa société, Paxtan. L’appelant a signé les états financiers et les déclarations T2 relatifs à certaines années, et il a signé et cosigné certains des chèques faits à son ordre et a encaissé ces chèques. Il a établi chacune des factures qu’il a présentées à CITC relativement à ces honoraires. Tout cela s’est produit pendant plusieurs années. Il ne s’agissait pas d’événements isolés. Dans son témoignage, l’appelant lui-même a qualifié ces paiements de [traduction] « salaire ».
+[37] Dans la décision DeCosta, le juge en chef Bowman (tel était alors son titre) a affirmé, au paragraphe 11 :
+[…] Il n’existe aucun facteur qui soit prédominant. Il faut accorder à chacun des facteurs le poids qu’il convient dans le contexte de l’ensemble de la preuve.
+Lorsque j’examine le « tableau d’ensemble » dans les présents appels, je n’ai d’autre choix que de conclure que l’appelant n’a pas simplement négligé de s’acquitter de sa responsabilité de déclarer ses revenus, et les pénalités sont donc justifiées.
+Troisième question : Les cotisations établies à l’égard de la TPS non versée relativement aux années d’imposition 2001 et 2002 ont-elles été établies à juste titre?
+[38] La jurisprudence établit clairement que, lorsqu’un contribuable (fournisseur) facture de la TPS, que celle-ci ait été exigible ou non, la taxe doit être remise au receveur général du Canada. Si les montants ne sont pas remis, le contribuable est tenu de payer le montant de la cotisation établie pour ces paiements (ITA Travel Agency Ltd. v. The Queen, [2001] G.S.T.C. 5, confirmée par la Cour d’appel fédérale dans [2002] G.S.T.C. 58; 800537 Ontario Inc. [Acura West] c. La Reine, [2005] A.C.F. no 1732 (CAF); et Gastown Actors’ Studio c. La Reine, [2000] A.C.F. no 2047 (CAF)). Ce principe est conforme à l’objet qui sous-tend le régime législatif de manière générale et les articles 222 et 225 de la LTA en particulier. Si une erreur a été commise et qu’il s’avère que les services ne sont pas taxables et qu’ils constituent une fourniture exonérée, l’acheteur peut demander un remboursement. Même lorsqu’un contribuable fournisseur n’est pas conscient de l’importance d’inclure la TPS dans une facture, il sera tenu de la verser, à moins que celle-ci ait été incluse par erreur et que des éléments de preuve suffisants soient présentés pour étayer la prétention selon laquelle il n’y avait pas d’intention de facturer la TPS.
+[39] Or, l’appelant n’a présenté aucun élément de preuve démontrant qu’il aurait eu l’intention de ne pas facturer la TPS incluse dans les factures qu’il a présentées à CITC. Il a établi lui-même ses factures pendant plusieurs années, et il y a toujours inclus la TPS, qu’il a toujours perçue de CITC, il a toujours encaissé les chèques, et il a toujours employé tous le produit des chèques. L’appelant était clairement tenu de verser ces montants de TPS. Tous ces montants que l’appelant a perçus ont été perçus « au titre de la taxe », et ils devaient être détenus en fiducie pour l’État en vertu du paragraphe 222(1) de la LTA. Les montants devaient ensuite être inclus dans le calcul de la taxe nette en vertu du paragraphe 225(1), puis remis en vertu du paragraphe 228(2). En bref, peu importe que des montants de TPS aient été exigibles ou non, l’appelant a facturé de la TPS, CITC l’a payée, et l’appelant était tenu de la verser parce que les éléments de preuve démontrent qu’il l’a perçue.
+[40] En ce qui concerne les arguments de l’appelant selon lesquels il n’a pas véritablement facturé de TPS parce qu’il recouvrait un prêt d’actionnaire et le service de comptabilité de CITC avait inclus par inadvertance la note relative à la TPS dans les factures, je dois rejeter ces deux prétentions. L’appelant utilisait ces modèles de facture avant la vente de CITC; il en connaissait évidemment assez au sujet de la TPS pour effectuer le calcul approprié et l’inclure dans ses factures; il avait obtenu auparavant un numéro d’inscription aux fins de la TPS pour une autre de ses entreprises; il a effectué les calculs de TPS et a présenté des factures à CITC pendant au moins quatre ans, chaque mois ou, plus tard, chaque quinzaine, et, dans les rapports de dépenses qu’il présentait à CITC, il calculait et indiquait séparément la TPS. Compte tenu de l’ensemble des éléments de preuve, l’appelant n’a pas le droit d’invoquer une prétendue incompréhension des procédures comptables. Il est clairement l’artisan de son propre malheur.
+[41] Bien que l’intimée n’ait pas interrogé ses témoins au sujet de la question de savoir si CITC avait demandé des crédits de taxe sur les intrants au titre des montants de TPS qu’elle avait payés à l’appelant, et bien que les documents présentés à la Cour ne démontrent pas clairement l’existence d’une demande semblable, compte tenu de l’ensemble des éléments de preuve et de la jurisprudence, l’appelant a perçu les montants de TPS, et il doit les verser. Si l’intimée avait interrogé ses témoins à ce sujet, cela n’aurait peut-être eu comme conséquence que de renforcer son argument sur ce point.
+Quatrième question : De l’intérêt et des pénalités ont-ils été imposés à juste titre en vertu du paragraphe 280(1) de la LTA?
+[42] Je n’ai d’autre choix que de conclure que, puisque le ministre a établi à juste titre une cotisation à l’égard de l’appelant au titre des montants de TPS non versés qui auraient dû l’être en 2001 et en 2002, l’intérêt et les pénalités ont été imposés à bon droit. Bien que l’appelant ait invoqué sa prétendue ignorance ou incompréhension des questions de comptabilité et d’impôt pour expliquer son omission de déclarer et de verser les montants de TPS qu’il avait perçus, j’ai conclu que les éléments de preuve tendaient à le contredire sur ce point. Même si l’appelant avait démontré une telle incompréhension ou ignorance, j’aurais tout de même conclu qu’après avoir facturé ces montants et les avoir perçus, l’appelant n’avait pas fait tout ce qui aurait pu raisonnablement être attendu de lui pour faire en sorte que la TPS soit correctement déclarée et versée. Puisque l’appelant n’a pas produit d’éléments de preuve démontrant qu’il avait fait preuve de diligence raisonnable dans les circonstances, de l’intérêt et des pénalités ont été imposés à bon droit en vertu du paragraphe 280(1) de la LTA.
+Conclusion :
+[43] Les paiements que l’appelant a reçus de CITC ont été considérés à juste titre comme ayant pour objet le règlement d’honoraires de gestion et d’expert-conseil, et ils constituent donc des revenus d’entreprise imposables pour les années d’imposition 1999, 2000, 2001 et 2002. Des pénalités par faute lourdre ont été imposées à bon droit en vertu du paragraphe 163(2) de la LIR relativement aux années d’imposition 2000, 2001 et 2002. L’appelant est tenu de verser les montants de TPS établis dans les cotisations puisqu’il a omis de déclarer et de verser la TPS qui avait été perçue. Le ministre a initialement établi une cotisation à l’égard de l’appelant compte tenu du fait que des montants de TPS étaient exigibles relativement aux années 1999 à 2002 mais, à l’audience, il a concédé qu’il n’y avait eu aucun montant de TPS non versé en 1999 et en 2000. Par conséquent, l’intérêt et les pénalités, bien qu’ils aient été imposés à bon droit en vertu du paragraphe 280(1) de la LTA, doivent être calculés sur les montants de TPS non versés pour les années d’imposition 2001 et 2002 seulement.
+[44] Les appels sont accueillis sans dépens, afin, d’une part, qu’il soit tenu compte de la concession du ministre selon laquelle les montants de revenus non déclarés dans les années d’imposition 1999 et 2000 doivent être respectivement de 9 500 $ et de 17 700 $, et d’autre part, de permettre de nouveaux calculs de l’intérêt et des pénalités prévus à l’article 280 de la LTA sur les montants de TPS non versés relativement aux années d’imposition 2001 et 2002.
+Signé à Vancouver, Colombie-Britannique, ce 25e jour de janvier 2011.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 16e jour de mars 2011.
+Marie‑Christine Gervais
+RÉFÉRENCE : 2011 CCI 30
+No DES DOSSIERS DE LA COUR : 2008-3305(IT)I et 2008-3311(GST)I
+INTITULÉ : SHIU KEUNG FRANKLIN WONG c. SA MAJESTÉ LA REINE
+LIEUX DES AUDIENCES : Hamilton (Ontario) et Toronto (Ontario)
+DATES DES AUDIENCES : Les 9 juin 2010 et le 20 octobre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DU JUGEMENT : Le 25 janvier 2011
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Alex Wai
+Avocate de l’intimée :
+Me Sandra K.S. Tsui
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

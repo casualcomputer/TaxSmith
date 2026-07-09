@@ -1,0 +1,140 @@
+---
+title: "Peddle v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/71812/index.do"
+last_modified: "2014-05-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 177"
+citation2: ""
+neutral_citation: "2014 TCC 177"
+decision_date: "2014-05-27"
+language: "en"
+item_id: "71812"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5385
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:44:34.855000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ecddf73c0c120b06119875d1c02cf79c7069dbd104da9ce6332234eab2e86661"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Peddle v. The Queen
+
+- Citation: 2014 TCC 177
+- Decision date: 2014-05-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5385, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Peddle v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-05-27
+Neutral citation
+2014 TCC 177
+File numbers
+2013-381(GST)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-381(GST)I
+BETWEEN:
+DOUG PEDDLE, NANCY CLEVELAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 26, 2013, at Windsor, Ontario and by telephone conference call on January 22, 2014
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ryan Gellings
+JUDGMENT
+The appeal from the assessment dated March 14, 2012 for the period from November 1, 2011 to December 31, 2011 under the Excise Tax Act is dismissed and the decision of the Minister of National Revenue is confirmed.
+Signed at Ottawa, Canada, this 27th day of May 2014.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2014TCC177
+Date: 20140527
+Docket: 2013-381(GST)I
+BETWEEN:
+DOUG PEDDLE, NANCY CLEVELAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+Preliminary Matter [1] As a preliminary matter, the Respondent brought a motion for an order that the style of cause in this appeal should be changed to the name of the partnership, “Doug Peddle, Nancy Cleveland” as opposed to being just in the name of “Doug Peddle”. The motion was not opposed and the style of cause has been changed.
+[2] The Minister of National Revenue (the “Minister”) disallowed the Appellant’s claim for an Input Tax Credit (“ITC”) of $5,850 on the basis that the Appellant did not have a commercial activity during the period November 1, 2011 to December 31, 2011. In disallowing the claim for an ITC, the Minister also relied on an alternative position that the invoice submitted by the partnership did not contain the supplier’s GST registration number as required by subsection 169(4) of the Excise Tax Act (“ETA”).
+[3] Doug Peddle and Nancy Cleveland are spouses of one another. They wished to participate in Ontario’s micro-Feed-In Tariff Program (“micro-FIT Program”) whereby they would be paid a guaranteed price for all electricity they produced and delivered to Ontario’s electricity grid. To this end, on December 29, 2011, they signed a contract for the purchase of solar panels from Trans Canada Solar Ltd. (“Trans Canada”). The total cost of the solar panels was $50,850.28. They paid a deposit of $22,350.03 which included the HST in the amount of $5,850.03.
+[4] Trans Canada did not deliver the solar panels to the Appellant.
+[5] The question is whether the Appellant had commenced its business under the micro-FIT Program.
+[6] Section 123 of the Excise Tax Act (ETA) provides, in part, that the definition of “commercial activity” is:
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+[7] “Business” is defined in section 123 of the ETA as follows:
+“business” includes a profession, calling, trade, manufacture or undertaking of any kind whatever, whether the activity or undertaking is engaged in for profit, and any activity engaged in on a regular or continuous basis that involves the supply of property by way of lease, licence or similar arrangement, but does not include an office or employment;
+[8] The Appellant’s proposed business was to sell electricity to the Ontario Power Authority (“OPA”) under its micro-FIT Program. In order to be accepted into the micro-FIT Program, the Appellant had to follow the procedure put in place by the OPA. According to the documents submitted in evidence, the Appellant had to sign a contract with its local power authority, En Win Utilities (“En Win”). En Win had to inspect and approve the installation of the solar panels on the Appellant’s roof and only then could the Appellant apply to the OPA under the micro-FIT Program.
+[9] It is my view that the Appellant’s business did not commence during the period November 1, 2011 to December 31, 2011 or at anytime. The only step the Appellant took to commence its business was to purchase the solar panels. One of the essential steps to the carrying on of its business was to sign a contract with En Win: Gartry (WC) v Canada, [1994] 2 CTC 2021 (TCC). This it failed to do.
+[10] At the hearing of this appeal, Doug Peddle stated that he suffered from dyslexia and he was given additional time to read and respond to the cases relied on by counsel for the Respondent. A conference call was held two months after the date of the appeal and Mr. Peddle raised the following issues:
+a) He has been the victim of fraud. The Minister administers the HST and she should have an obligation to investigate persons who are registrants under the ETA.
+b) His rights under section 7 and 15 of the Charter of Rights and Freedoms (“Charter”) have been infringed because of his dyslexia. He should be able to hire someone to do research for him and that person’s fees should be paid for by the government.
+[11] With respect to Mr. Peddle’s first issue, the dispute between him and Trans Canada is a private matter. There was evidence that Mr. Peddle successfully sued Trans Canada in Small Claims Court and was awarded the sum of $22,350.03 plus post judgment interest but he has been unable to collect the total amount. That there was a fraud perpetrated against Mr. Peddle is not an issue between him and the Minister or an issue within the jurisdiction of this Court.
+[12] Mr. Peddle’s section 7 Charter rights have not been infringed. In this case his life, liberty and security of the person were not affected.
+[13] Mr. Peddle has stated that he could not properly present his case because he required assistance with legal research. It was his position that this legal assistance should be paid by the government and failure to provide the resources so he could hire a researcher is an infringement of his section 15 rights under the Charter.
+[14] It is my view that section 15 of the Charter is not engaged in this appeal. There is no general constitutional right to legal counsel or legal assistance in Canada: Christie v British Columbia (Attorney General), 2007 SCC 21.
+[15] In conclusion, the Appellant was not entitled to claim an ITC during the period November 1, 2011 to December 31, 2011 because he did not have a commercial activity. The appeal is dismissed.
+Signed at Ottawa, Canada, this 27th day of May 2014.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2014TCC177
+COURT FILE NO.:
+2013-381(GST)I
+STYLE OF CAUSE:
+DOUG PEDDLE, NANCY CLEVELAND AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Windsor, Ontario
+DATE OF HEARING:
+November 26, 2013
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+May 27, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ryan Gellings
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

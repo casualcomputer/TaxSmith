@@ -1,0 +1,109 @@
+Title: Elwood v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30950/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-313-30950-elwood-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-07-06
+
+# Elwood v. The Queen
+
+- Citation: 2012 TCC 313
+- Decision date: 2012-07-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4824, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Elwood v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-07-06
+Neutral citation
+2012 TCC 313
+File numbers
+2012-507(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2012 TCC 313
+Date: 20120904
+Docket: 2012-507(IT)I
+BETWEEN:
+ROBERT ELWOOD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Edited from the transcript of Reasons for Judgment delivered orally from the Bench on July 6, 2012 at Toronto, Ontario)
+Campbell J.
+[1] Thank you to both Counsel for coming back in this morning. Let the record show that I am delivering reasons in the appeal of Robert Elwood which was heard yesterday.
+[2] The Appellant is seeking a deduction pursuant to paragraph 8(1)(g) of the Income Tax Act (the “Act”) for lunches he consumed while flying as an Air Canada pilot. The appeal is in respect of the 2010 taxation year. The Appellant claimed an amount of $3,264 for expenses incurred and paid for these meals.
+[3] Mr. Elwood is suffering from a disease called hemochromatosis, which requires that he eat low‑iron food. Air Canada was unable to provide the appropriate meals in 2010 but began to provide them recently. Therefore, the Appellant in 2010 made alternative lunch arrangements to ensure he met those dietary requirements in order to control the disease and maintain his health. He is attempting to claim the special meals that he must supply for himself during those times when he is flying for his employer, Air Canada.
+[4] On flights over four hours, the crew, including the pilots, are provided in‑flight meals. However, the Appellant had no choice as to the content of those meals in 2010 and could not eat the meals that were supplied due to his disease. The Appellant therefore either purchased suitable meals or brought his own packed lunch from his home. He is also reimbursed for meals along with lodging on a per diem basis for those meals that he must purchase on layovers away from his home base in Toronto. He is making no claim for deductions in respect of these meal expenses.
+[5] On cross‑examination, the Appellant testified that he would not be able to eat some of the food supplied in the Air Canada meals because they would be fortified with iron, a substance he must avoid to limit the over‑absorption of iron by his body. He gave as an example fortified breakfast cereal served in the Air Canada breakfasts. When asked why he could not eat a vegetarian meal, he stated that this would generally suit his condition, but it might not always be available to him on board a flight. He is able to eat the fruit, yogurt, chicken and fish that come with regular Air Canada meals, but could not eat the main meals if they came with a side dish such as pasta or rice, as it could be iron‑fortified.
+[6] In the Notice of Appeal, the Appellant initially attempted to claim a deduction as a medical expense based on the fact that celiac disease has similarities to his disease. However, this argument was abandoned at the outset of the hearing. Instead, the Appellant wants to deduct the in‑flight meal expenses pursuant to paragraph 8(1)(g). This provision allows employees of transport businesses to deduct their meals and lodging expenses for which they were not compensated by their employer. The Appellant relied on the decision in Kasaboski et al. v The Queen, 2005 D.T.C. 846, 2005 TCC 356, particularly the comments of Justice Bowie at paragraph 9. He argued that he would still be eligible for this deduction under that provision even though he did not make a lodging expense claim.
+[7] The Respondent's primary argument is that the Appellant is not incurring meals and lodging expenses since the in‑flight meal expenses are not connected to the lodging expenses. The Respondent contends that based on the decision in Crawford, et al. v Canada, 2003 D.T.C. 5417, 2003 FCA 251, the word "and" used in this provision must be read conjunctively, meaning both must be incurred during a trip.
+[8] Paragraph 8(1)(g) provides relief to those individuals employed in the transportation industry who are regularly required to be away from their home municipality. It states:
+8.(1) Deductions allowed. In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+…
+(g) Transport employee’s expenses - where the taxpayer was an employee of a person whose principal business was passenger, goods, or passenger and goods transport and the duties of the employment required the taxpayer, regularly,
+(i) to travel, away from the municipality where the employer’s establishment to which the taxpayer reported for work was located and away from the metropolitan area, if there is one, where it was located, on vehicles used by the employer to transport the goods or passengers, and
+(ii) while so away from that municipality and metropolitan area, to make disbursements for meals and lodging,
+amounts so disbursed by the taxpayer in the year to the extent that the taxpayer has not been reimbursed and is not entitled to be reimbursed in respect thereof.
+[9] The preconditions, that must be met if paragraph 8(1)(g) is to be applied, are: (1) The employer's principal business must be transporting passengers, goods or a combination of passengers and goods. (2) The taxpayer is required by his or her duties of employment to regularly travel away from the municipality where the employer's establishment, to which the taxpayer reported to work, was located. (3) The taxpayer must be travelling on vehicles used by the employer to transport those goods or passengers. (4) The taxpayer is required by his or her duties of employment to regularly travel away from the metropolitan area, if there is one, where the employer's establishment, to which the taxpayer reported to work, was located. (5) Finally, the taxpayer is required by his or her duties of employment to make disbursements for meals and lodging while so away from that municipality and metropolitan area. If these preconditions are met, a taxpayer may deduct amounts disbursed to the extent the taxpayer was not reimbursed and is not otherwise entitled to be reimbursed in respect thereof.
+[10] Most meal deductions under the Act are limited by section 67.1 to 50 per cent of the lesser of amounts expended or what is reasonable. The overall statutory context and language of paragraph 8(1)(g) was considered by Justice Bonner in the 1980 decision of Derrien v Minister of National Revenue, 80 D.T.C. 1751. At page 1753, Justice Bonner stated the following:
+In my view the solution becomes apparent when paragraph 8(1)(g) is read as a whole within its statutory context. The approach of the Income Tax Act to deductions from salary or wages in the process of computing income from office or employment is generally restrictive. In this regard, reference should be made to subsection 8(2) of the Act. The exceptions in subsection 8(1) are not to be regarded as having been inserted capriciously. The exception made for transport employees by paragraph 8(1)(g) recognizes that the nature of the work often involves substantial trips away from the area where such employees live and report for work. Such trips impose a burden of expense for meals and lodging not borne by the ordinary worker who can sleep and eat, at least most of the time, at home. The “while so away” qualification and the use of the word “and” in the phrase “disbursements for meals and lodging” tend to support this conclusion. The cost to the ordinary worker of food and shelter is a personal expense. The cost to a transport worker of meals and lodging necessitated by travel in the course of his duties is much more directly related to the income earning process.
+[11] The Federal Court of Appeal interpreted paragraph 8(1)(g) in Crawford, at paragraph 1 of those reasons, in the following manner:
+[1] … The context of paragraph 8(1)(g) of the Income Tax Act, which requires that employees be away from their municipality or metropolitan area, necessarily implies that “meals and lodging” must be read conjunctively. The deduction contemplated is only available when there are disbursements for both meals and lodging.
+[12] In the decision in Kasaboski, truck drivers travelled away from home in a truck owned by their employer, for two‑week periods. They brought meals on the road but were not reimbursed. They slept in the bunk of the truck and took showers at truck stops. Since they did not pay for the lodging and therefore had no disbursements for meals and lodging, the Minister denied the claim for the deduction.
+[13] Justice Bowie allowed the truckers' appeal, and at paragraph 9 addressed his decision and reasons in the Crawford case. Paragraph 9 is lengthy. It states:
+[9] Mr. Penney argued that as the word "and" in paragraph 8(1)(g) is conjunctive, there can be no claim to deduct an amount for meals without an accompanying claim for a deduction for amounts expended for lodging. He relies on my decision in Crawford v. the Queen. In that case four employees of B.C. Ferries claimed to be entitled to deduct amounts for meals that they were required to eat while working away from the municipality where they reported to work. They worked on ferries that carried passengers across the Strait of Georgia, or at least some part of it. None of them were required to spend a night away from home in the course of their employment, although some of them worked quite long days. In that context, I concluded that they were not entitled under paragraph 8(1)(g) to a deduction for their meals, and that decision was affirmed by the Federal Court of Appeal, whose reasons for judgment end with the sentence
+The deduction contemplated is only available when there are disbursements for both meals and lodging.
+The facts of that case are materially different from the present case. The taxpayers in Crawford did not spend a night away from home, whereas the present Appellants are away from home for weeks at a time. That a transport driver sleeps in her vehicle rather than in paid accommodation does not affect the fact that it is impossible for her to eat meals at home during the trip, requiring her to incur the expense of restaurant meals. Clearly the purpose of the conjunctive "and" is to limit the meal deduction to persons whose work requires them to stay away from home overnight, so that the expression "... required ... to make disbursements for meals and lodging", interpreted according to its purpose, is satisfied where the taxpayer is required to eat and to sleep away from home, and has to make disbursements for either of those purposes. In any event, the taxpayers here were required to make disbursements for lodgings. The evidence was that when their rig was being repaired they stayed in a motel, and they were reimbursed by the employer for doing so. Even the most literal reading of paragraph 8(1)(g) does not require that the taxpayer bear the cost of the lodging for it to qualify as being a disbursement for lodging that he was required to make; the concluding words limit the deduction to that which is not reimbursed or to be reimbursed, but it is nonetheless a disbursement that he was required to make, even if it has since been recovered. There also was evidence that the Appellants very occasionally paid for a motel themselves, even though they could not recover it from TransX. The Act does not specifically require that there be a claim for a disbursement for lodging for every day that there is a disbursement for meals claimed. Finally, the claims in respect of the use of showers, which I shall come to presently, is a recurring claim in respect of disbursements for lodging: see Hiscoe v. The Queen.
+[14] What Justice Bowie is saying is that the word "and" in paragraph 8(1)(g) is meant to limit the meal deduction to those transportation employees who have to eat and sleep away from home overnight. A taxpayer will still qualify for a deduction where there was reimbursement because paragraph 8(1)(g) references the deduction to only that part which is not reimbursed. Finally, Justice Bowie stated that the cost for the use of the showers at truck stops was a lodging expense and based his finding on his definition of "lodging" from the case of Hiscoe v The Queen, 2002 D.T.C. 3894, [2002] T.C.J. No. 435.
+[15] Appellant counsel referred me to CRA's administrative position contained in Information Circular 1C73‑21R9. According to this bulletin, CRA is willing to accept a claim for meals only if there were other lodgings used, such as a sleeper cab for a trucker, and will allow a deduction for lunch where a journey of ten hours or less is expected.
+[16] Paragraph 8 of that bulletin discusses meals that are brought from home. It states that the cost of a meal may only be claimed if it has been paid for, and lunches brought from home would not qualify. This policy seems to be implicitly contending that "meal" and "lunch" are two different concepts; a meal being prepared in a restaurant, while a lunch is prepared at home.
+[17] I do not agree with such a refined distinction, and I believe it is simply incorrect. The common sense approach is that lunch is a meal regardless of whether it is prepared in a restaurant or elsewhere. In fact the Oxford Dictionary defines "lunch" as "a light meal at any time of the day." Therefore, if a lunch is prepared while travelling, this could qualify under paragraph 8(1)(g).
+[18] I agree with the Respondent's contention that the word "and" in paragraph 8(1)(g) must be interpreted as conjunctive. This is approved by the Federal Court of Appeal in Crawford, and it simply aligns with common sense and the plain meaning of the wording.
+[19] However, the Respondent's argument fell short when Counsel argued that the meals must be connected in some way to the lodging. Such a requirement is not contained in the legislation. Justice Bowie rejected such a position in paragraph 9, in Kasaboski, where he stated:
+[9] The Act does not specifically require that there be a claim for a disbursement for lodging for every day that there is a disbursement for meals claimed.
+[20] To obtain a deduction under paragraph 8(1)(g), there is no requirement that a taxpayer must establish a connection between meal disbursements and lodging disbursements. Simply put, all an employee is required to show for the deduction are meal disbursements and lodging disbursements. Consequently, if an employer reimburses for only the meal or the lodging expenses, relief is available for the meal or lodging expenses not so reimbursed, under paragraph 8(1)(g). Again, the only requirement is that meal and lodging disbursements have been made.
+[21] If an employee is reimbursed for lodging, for example, but not for meals, paragraph 8(1)(g) allows the employee to deduct those meal expenses not so reimbursed. Theoretically, an employee may qualify for a deduction under paragraph 8(1)(g) regardless of whether there was full reimbursement.
+[22] However, this does not get the Appellant out of the woods with his appeal when I turn my attention to the physical place where he made those meal disbursements. Paragraph 8(1)(g) does not require a taxpayer to eat while travelling, but only to make disbursements for meals while travelling.
+[23] I accept that the Appellant made meal disbursements; also that lunch is a meal contrary to CRA policy statements and that there is no particular requirement that the food be prepared in a restaurant to qualify as a meal, even while travelling. However, paragraph 8(1)(g) imposes two important conditions in respect to this appeal: the requirement to make disbursements for meals; and to make those disbursements while travelling.
+[24] If the Appellant brings food to the flight in the municipality or metropolitan area where he resides, then he has not made disbursements while away from the municipality. This is an important precondition in this appeal.
+[25] Theoretically, it would be possible for the Appellant to stay in a hotel while travelling, purchase food in a grocery store, prepare it prior to flying, bring it to the flight, eat it mid‑flight and still qualify for this deduction. This is so because he has made the disbursement away from the municipality or metropolitan area. Where the food is consumed is not a precondition to obtaining this deduction. The Appellant could obtain a deduction while travelling for meals purchased from a restaurant before a flight if the employer did not reimburse him and also a deduction for a lunch purchased from a grocery store during his travels.
+[26] However, I do not have sufficient evidence before me that would allow me to distinguish or parse between the meals bought in restaurants or grocery stores while travelling, from the expenses that were associated with the food prepared and brought from home. If I had that evidence before me, then I would have allowed the appeal with respect to the restaurant and grocery store amounts expended by the Appellant while travelling. Since I have no such evidence, I cannot establish which food was purchased while away during travel, as required by the provision.
+[27] In summary, paragraph 8(1)(g) does require that disbursements be made for both meals and lodging, although the two items need not be connected. Also, the disbursements must be made while travelling.
+[28] In this appeal, the Appellant makes both meal and lodging disbursements. Since paragraph 8(1)(g) relies on disbursements for meals made while travelling, the Appellant's packed lunches from home were likely acquired by disbursements he made in his home/municipality or metropolitan area. Again, what is important is where the disbursements took place.
+[29] Unfortunately, I do not have the specifics before me that would allow me to determine whether the food was purchased, from restaurants or grocery stores, while away on travel, which would then qualify under paragraph 8(1)(g) or purchased in his home/municipality or metropolitan area, which does not qualify under paragraph 8(1)(g).
+[30] For these reasons, I must dismiss the appeal without costs.
+Signed at Summerside, Prince Edward Island this 4th day of September 2012.
+“Diane Campbell”
+Campbell J.
+CITATION: 2012 TCC 313
+COURT FILE NO.: 2012-507(IT)I
+STYLE OF CAUSE: ROBERT ELWOOD v HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: July 5, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Diane Campbell
+DATE OF ORAL JUDGMENT: July 6, 2012
+APPEARANCES:
+Counsel for the Appellant:
+David M. Piccolo
+Counsel for the Respondent:
+Diana Aird
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David M. Piccolo
+Firm: TaxChambers
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

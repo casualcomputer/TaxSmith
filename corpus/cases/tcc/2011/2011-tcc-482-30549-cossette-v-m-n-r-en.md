@@ -1,0 +1,230 @@
+---
+title: "Cossette v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30549/index.do"
+last_modified: "2011-10-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 482"
+citation2: ""
+neutral_citation: "2011 TCC 482"
+decision_date: "2011-10-17"
+language: "en"
+item_id: "30549"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7319
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:13:38.008000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1c4ef9b1792718d5c1391e4d6e79ac4f1b40d7951d04086062b64960c9b202ab"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cossette v. M.N.R.
+
+- Citation: 2011 TCC 482
+- Decision date: 2011-10-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7319, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cossette v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-10-17
+Neutral citation
+2011 TCC 482
+File numbers
+2010-1464(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2010‑1464(EI)
+BETWEEN:
+FRANCE COSSETTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 17, 2211, at Montréal, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Gilbert Nadon
+Counsel for the Respondent:
+Valérie Messore
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to paragraph 5(2)(i) and subsection 5(3) of the Employment Insurance Act is dismissed, and the decision of the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, on this 17th day of October 2011.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 28th day of November 2011.
+Michael Palles, Translator / Language Adviser
+Citation: 2011 TCC 482
+Date: 20111017
+Docket: 2010‑1464(EI)
+BETWEEN:
+FRANCE COSSETTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is a case involving the insurability of work. The appeal concerns the Respondent's decision to the effect the work performed by France Cossette (the "Appellant") for the company 9190-8582 Québec Inc. during the period from July 7, 2008, to November 29, 2008, was not insurable under paragraph 5(2)(i) and subsection 5(3) of the Employment Insurance Act (the "Act").
+[2] In explaining and justifying the determination under appeal, the Respondent relied on the following assumptions of fact:
+[translation]
+(5) The Appellant and the Payor are related persons within the meaning of the Income Tax Act because:
+(a) the Payor's sole shareholder was Chantal Cossette;
+(b) Chantal Cossette is the Appellant's sister;
+(c) the Appellant is related to a person who controls the Payor.
+[3] The Minister determined that the Appellant and the Payor were not dealing with each other at arm's length in the context of this employment. In fact, the Minister was satisfied that it was not reasonable to conclude that the Appellant and the Payor would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length, in light of the following facts:
+[translation]
+(a) the Payor was incorporated on January 4, 2008; (admitted)
+(b) the Payor operated a business specializing in the retail sale of stains and caulking; (admitted)
+(c) the Payor's place of business is located in the garage of the Appellant's personal home, at 231 St-Joseph Boulevard, St-Tite; (admitted)
+(d) in October 2008, the Payor's shareholder acquired the property located at 231 St-Joseph Boulevard; (admitted)
+(e) the Payor began operating in January 2008; (admitted)
+(f) the Payor's sole shareholder is the manager of a golf course, Club de golf Le St-Rémi; (admitted)
+(g) the Payor's shareholder received monthly updates from the bookkeeper regarding the Payor's activities and called the Appellant regularly to enquire about the status of the line of credit and follow up on the goods; (admitted)
+(h) the Payor's line of credit was guaranteed by the shareholder when it totalled $20,000, but when it rose to $30,000 in May 2008, the Appellant became solidarily liable with the shareholder; (admitted)
+(i) the Appellant had experience in the Payor's activities, since she had been associated with her ex-spouse in a similar business from 1995 to 2007; (admitted)
+(j) the Appellant could not start up a business because she was having financial difficulties, so it was her sister, Chantal Cossette, who became the Payor's sole shareholder; (denied)
+(k) the Appellant owed $13,500 to the main supplier of her former business, Canadian Log Home Supply, which became the Payor's main supplier; (admitted)
+(l) in February 2008, the Appellant obtained a loan for $13,500 and paid back the supplier; (admitted)
+(m) the Appellant used a list of customers from her other business and visited them all between January and July 2008, leaving them the new telephone number of the Payor; (admitted)
+(n) the Payor's first purchases were made in February 2008; (admitted)
+(o) the Payor's first sale was made on March 19, 2008; (admitted)
+(p) from January to July 2008, the Appellant travelled 19,394 kilometres, for which she was reimbursed at rate of $0.05 per kilometre, plus meal expenses; (admitted)
+(q) driving time was estimated at 1,939 hours, to which the time of the each customer visit had to be added, for a total of over 2,000 hours worked; (admitted)
+(r) the Appellant was not compensated for her work as a travelling representative; (admitted)
+(s) an employee dealing at arm's length would have required payment for the hours worked; (denied)
+(t) in July 2008, there were a lot of customers, so someone had to be in the office to prepare the orders and take care of all of the Payor's activities; (admitted)
+(u) the Appellant started being paid in July 2008 and continued to be paid until November 2008; (admitted)
+(v) the Appellant's compensation was based on a 40-hour work week although she worked more; (admitted)
+(w) after she was laid off, the Appellant continued to work for the Payor approximately five hours a week for three weeks, without pay; (admitted)
+(x) from February 3, 2008, to July 6, 2008, the Payor made $154,000 in sales without paying any wages to the Appellant; (admitted)
+(y) without the Appellant, the Payor would have been unable to carry out and maintain its activities and generate revenue; (denied)
+(z) on December 8, 2008, the Payor issued to the Appellant the Record of Employment No. A85872369 stating July 7, 2008, as the first day worked and November 29, 2008, as the last day worked; (admitted)
+(aa) the Appellant's Record of Employment did not reflect the reality of the Payor's activities from January 2008 on; (denied)
+(bb) the Appellant's employment met the entitlement criteria and was therefore insurable; (admitted)
+7. At this stage of the proceedings, the Minister acknowledges that the Appellant's employment was performed under a contract of service; (admitted)
+[4] The Appellant made several admissions, among others, paragraphs 5(a) to (c), subparagraphs 6(a) to (d), (f), (i), (l), (n) to (q), (t), (u), (w), (x), (z) and (bb) and paragraph 7. She also admitted subparagraphs (e), (g), (h), (k), (m), (r) and (v) while reserving the right to supplement and nuance the contents of these subparagraphs.
+[5] Finally, she denied the contents of subparagraphs (j), (s) and (y).
+[6] This is a case subject to special treatment, since the determination was made on the basis of paragraph 5(2)(i) of the Employment Insurance Act, which reads as follows:
+5(2) Excluded employment − Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+[Emphasis added]
+[7] So under this paragraph, this job is not insurable employment, given that the Appellant and her sister, who held all the shares in the employer corporation, were not dealing with each other at arm's length.
+[8] In similar situations, Parliament has provided for and granted a discretionary authority by which the persons responsible for handling cases subject to this provision must analyze all the relevant facts. This purpose of this analysis is to decide or determine whether a contract of service between persons dealing at arm's length would be comparable, in the same context, where the relevant facts are similar. In other words, was the contract governing the services at issue shaped or influenced by the fact that the parties were not dealing with each other at arm's length?
+Arm’s length dealing
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[9] One of the particular features of this case is the jurisdiction of the Court in such a situation. First, the Court must decide whether the analysis carried out when exercising the discretion was done in accordance with the applicable rules, having regard to all the useful and relevant facts. Second, the Court must consider whether the facts analyzed were complete and correctly interpreted and whether the assessment overlooked or underestimated the significance of certain facts.
+[10] The Court's analysis must thoroughly analyze not only the investigation, but also the evidence adduced in court. This requirement was laid down by the Federal Court of Appeal in, among other judgments, Pérusse v. Canada (Minister of National Revenue – M.N.R.) [2000] F.C.J. 310, 261 N.R. 150 and Légaré v. Canada (Minister of National Revenue – M.N.R.) [1999] F.C.J. No. 878, 246 N.R. 176.
+[11] This requirement is all the more easy to understand and accept when we consider that interviews are more often than not conducted through telephone conversations, whereas a trial allows for a new, less restrictive and more thorough approach and makes it possible to analyze other significant factors, such as body language, which is often helpful in assessing credibility.
+[12] Assuming that the analysis and assessment are appropriate, judicious and reasonable, the Court essentially must confirm the correctness of the decision.
+[13] On the other hand, if the evidence shows that the investigation was careless or incomplete, was based on incomplete, distorted or incorrectly interpreted facts or simply ignored or failed to weigh certain relevant pieces of evidence, or if the court hearing brings to light new and relevant evidence, then the Court will have to make a new assessment.
+[14] Assuming that the exercise of discretion was beyond reproach and was done judiciously, as required, the Court cannot intervene, not even if the same facts could have led the Court to a different conclusion.
+[15] In the present case, the Appellant testified, as did her sister, in her capacity as representative of the employer corporation. The Appellant explained that over the years, she had acquired considerable expertise in a highly specialized field, namely, sales and consulting in relation to products for staining, preserving and insulating buildings made of wood, particularly log buildings. These are unique structures that need special maintenance requiring knowledge and expertise.
+[16] She gained her experience through her partnership with her spouse in a business that built this type of building and supplied products for preserving them. At some point, their relationship deteriorated and finally broke down. When the Appellant left this business and marital relationship, she was destitute and without means, to the point where she had to ask her insurer to pay her the cash surrender value of her life insurance policy.
+[17] Since she was on very good terms with her sister, her sister offered to start up a new business and invest $5,000 in it. This new business was essentially of the same nature as the one she worked in with her spouse, except for the construction part.
+[18] When her relationship with her spouse started to go sour, her spouse changed the locks on the place of business and ended all customer service, thereby making it very difficult to start up the new business.
+[19] When she started up the new business, the Appellant's sister had no experience in the field in question. She therefore relied on the Appellant, who at the time had only her knowledge and list of former customers that she had kept.
+[20] Since the closure of the business operated by the Appellant and her ex-spouse, their customers had lost confidence in them, so the Appellant had to travel a lot more and take a number of other steps to win back former customers and find new ones. In the beginning, the Appellant did not receive any wages, although she was reimbursed for her travel and various other expenses, such as meals.
+[21] The Appellant acknowledged that she was the directing mind of the company and worked without compensation; she also stated that she had to work long hours and even occasionally had to meet with customers outside normal business hours.
+[22] The Appellant sold her house to her sister; the company's offices were located in this house. The garage and a large portion of the basement was used to store inventory.
+[23] During the period when she was the owner, the rent was $600 a month, but she did not collect it regularly; in fact, the rent was paid several months late in one lump sum.
+[24] To obtain the goods she needed for her new business, the Appellant personally had to repay a significant debt totalling $13,500 to a supplier who refused to sell any goods to the new business until the debt owed by the previous business she had operated with her spouse, from whom she was now separated, was paid back.
+[25] She therefore borrowed money from a religious community to pay back the debt in question. She stated that the debt in question had not been paid in full at the time of the hearing. Why did her sister's business not pay back this debt? No answer was given.
+[26] She also acknowledged that she had to guarantee a loan to the company by a local organization, adding that she had no choice, since it was normal practice for that organization to require the important employees of any business to which it granted a loan to step in as guarantors. No explanation was given for this alleged practice, which is rather peculiar and highly surprising.
+[27] She described the premises used as an office. She stated that the office had separate telephone services; she had a private line for the residence and a business line for the office. Her cellular telephone was used for both private and business purposes.
+[28] The Appellant stated that she worked between 40 and 60 hours a week. She also mentioned that the business was changing and growing from year to year, to the point that the company now had five employees and operated on a year-round basis without interruption.
+[29] The evidence showed that she had sold her house to her sister to avoid losing it when she had to declare bankruptcy. She bought it back from her sister when her sister was having a difficult time with her own spouse. This facet of the case was touched on only briefly.
+[30] Chantal Cossette testified as well. The main thrust of her testimony essentially validated or confirmed the Appellant’s testimony. Throughout her testimony, she made comparisons with her work as general manager of a golf course.
+[31] She also stated that the Appellant, like her, had a lot of freedom in performing her duties and had to work hard to make the business a success, but it was not necessary or required to keep a record of her hours worked, since she was paid a weekly salary.
+[32] She admitted not being knowledgeable about such goods, adding that her sister, the Appellant, had all the knowledge required to successfully run her business. The testimonies disclosed nothing new about the factors taken into account when the determination now under appeal was made.
+[33] The Appellant and her sister did not raise any new evidence in their testimony that would lead to the conclusion that the officer who reviewed the file overlooked any significant evidence. Their testimony essentially dealt with the facts reproduced in the Notice of Appeal.
+[34] In light of the evidence, the assumption that the Appellant was in fact the true owner of the business could have been substantiated. In light of certain facts, I will limit myself to this observation.
+[35] First of all, the Appellant admitted most of the assumptions of fact. She also admitted other assumptions of fact while reserving the right to add certain elements. These assumptions are in subparagraphs (e), (g), (h), (k), (m), (r) and (v), which again read as follows:
+[translation]
+(e) the Payor began operating in January 2008; (admitted)
+. . .
+(g) the Payor's shareholder received monthly updates from the bookkeeper regarding the Payor's activities and called the Appellant regularly to enquire about the status of the line of credit and follow up on the goods; (admitted)
+(h) the Payor's line of credit was guaranteed by the shareholder when it totalled $20,000, but when it rose to $30,000 in May 2008, the Appellant became solidarily liable with the shareholder; (admitted)
+. . .
+(k) the Appellant owed $13,500 to the main supplier of her former business, Canadian Log Home Supply, which became the Payor's main supplier; (admitted)
+. . .
+(m) the Appellant used a customer list from her other business and visited them all between January and July 2008, leaving them the new telephone number of the Payor; (admitted)
+. . .
+(r) the Appellant was not compensated for her work as a travelling representative; (admitted)
+. . .
+(v) the Appellant's compensation was based on a 40-hour work week although she worked more; (admitted)
+[36] The evidence showed that all the facts considered and assumed to be true were entirely well founded. In other words, the evidence did not introduce or reveal anything that would discredit the quality of the investigation or the analysis of the facts.
+[37] The parties referred inter alia to the judgments of the Federal Court of Appeal in Légaré v. Canada (Minister of National Revenue – M.N.R.), [1999] F.C.J. No. 878, 246 N.R. 176, and Pérusse v. Canada (Minister of National Revenue – M.N.R.), [2000] F.C.J. 310, 261 N.R. 150.
+[38] I note for example the following excerpts, first from Légaré, in which Justice Marseau wrote as follows:
+4. The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+12 I have just said that in our view, these facts by themselves do little to explain and support the response of the Minister or his representative. Under the Unemployment Insurance Act, excepted employment between related persons is clearly based on the idea that it is difficult to rely on the statements of interested parties and that the possibility that jobs may be invented or established with unreal conditions of employment is too great between people who can so easily act together. And the purpose of the 1990 exception was simply to reduce the impact of the presumption of fact by permitting an exception from the penalty (which is only just) in cases in which the fear of abuse is no longer justified. From this perspective, after identifying the true nature of the employment, the importance of the duties and the reasonableness of the compensation, it is difficult in our view to attach the importance the Minister did to the facts he relied on to exclude the application of the exception. It is the essential elements of the employment contract that must be examined to confirm that the fact the contracting parties were not dealing with each other at arm's length did not have undue influence on the determination of the terms and conditions of employment. From this standpoint, the relevance of the facts relied on, even without further detail, seems very questionable. And there is no need to go any further. While the facts relied on might legitimately leave sufficient doubt with respect to an objective basis for the conditions of the applicants' employment contract, placing these facts in the context of the evidence adduced before the Tax Court of Canada—evidence which was almost completely accepted by the Tax Court judge—only serves to highlight the unreasonableness of the Minister's initial conclusion. It was in fact clearly explained and established that the applicants' salary was higher than the minimum wage the other employees received because of the responsibility involved in the duties they performed and that that was the prevailing salary in the industry for similar jobs; it was clearly explained and established that the shareholders had decided to reduce the salary normally due to them to provide for the financial support and development of the business; it was clearly explained and proven that a tornado had destroyed a large number of the buildings of the business in 1994, which led to a period of confusion, and then reconstruction and financial difficulties; last, it was explained and proven that the presence of the children of one of the applicants on the land around the greenhouses was very unlikely to affect the performance of her duties and the provision of the services she agreed to provide.
+[39] In Pérusse, Justice Marceau wrote the following:
+In fact, the judge was acting in the manner apparently prescribed by several previous decisions. However, in a recent judgment this Court undertook to reject that approach, and I take the liberty of citing what I then wrote in this connection in the reasons submitted for the Court:
+· The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+15 The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given to it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[40] The case concerns a period during which a new business was founded. The key persons responsible for starting up this new business are the Appellant, who did the work, and her sister, who was the sole shareholder of the new company. One had the knowledge, expertise and skill in the relevant business field; the other, despite her limitations, was more able to pay and was in a better financial situation. To this point, there is not much that is unusual about this scenario, which seems to be an entirely reasonable and plausible arm’s length relationship.
+[41] It is in the business’s operations that things start to look odd. In this regard, it is clear that the business would have been run in a totally different manner if the Appellant and her sister had been dealing at arm’s length.
+[42] Indeed, a third party would never have agreed to work such long and irregular hours without compensation, act as guarantor, take on full and sole responsibility for a large loan, rent out offices and cover the rent for a long period while she was in a difficult financial situation and so without means that she had to cash in her life insurance policy.
+[43] The court hearing, in which all parties had an opportunity to speak and thoroughly explain the facts, conditions and circumstances surrounding the dispute, did not disclose any new evidence or discredit the facts on which the impugned determination was based.
+[44] Considering the new light shed on this case by the trial, I hold that the Minister’s determination is still reasonable. The burden of proof was on the Appellant, who failed to produce any evidence discrediting the quality of the investigation and analysis work and the reasonable determination resulting from that work. The appeal is therefore dismissed.
+[45] For these reasons, the appeal must be dismissed.
+Signed at Ottawa, Canada, on this 17th day of October 2011.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 28th day of November 2011.
+Michael Palles, Translator / Language Adviser
+CITATION: 2011 TCC 482
+COURT FILE NO.: 2010-4362(EI)
+STYLE OF CAUSE: FRANCE COSSETTE v. M.N.R.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: August 17, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: October 17, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Gilbert Nadon
+Counsel for the Respondent:
+Valérie Messore
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gilbert Nadon
+Firm: Ouellet, Nadon et associés
+Montréal, Quebec
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

@@ -1,0 +1,263 @@
+Title: Hammoud c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521089/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-55-521089-hammoud-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-05-10
+
+# Hammoud c. Le Roi
+
+- Citation: 2023 CCI 55
+- Decision date: 2023-05-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5876, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hammoud c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-05-10
+Référence neutre
+2023 CCI 55
+Numéro de dossier
+2022-1045(GST)I
+Juges et Officiers taxateurs
+Jean Marc Gagnon
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2022-1045(GST)I
+ENTRE :
+SOUAD HAMMOUD,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 24 janvier 2023 à Windsor (Ontario)
+Devant : l’honorable juge Jean Marc Gagnon
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Amanda De Bruyne
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel interjeté à l’égard de l’avis de cotisation daté du 3 juin 2021, lequel a rejeté la demande de remboursement de la taxe sur les produits et services/taxe de vente harmonisée (TPS/TVH) pour les maisons neuves construites par le propriétaire datée du 23 octobre 2020 et présentée par l’appelante, est par les présentes rejeté, sans dépens.
+Signé à Montréal (Québec), ce 10e jour de mai 2023.
+« J.M. Gagnon »
+Le juge Gagnon
+Référence : 2023 CCI 55
+Date : 20230510
+Dossier : 2022-1045(GST)I
+ENTRE :
+SOUAD HAMMOUD,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Gagnon
+I. Introduction
+[1] L’appelante a présenté une demande de remboursement de la taxe sur les produits et services/taxe de vente harmonisée (TPS/TVH) pour les maisons neuves construites par le propriétaire (la « demande ») à l’égard d’un immeuble situé au 4400, promenade Donato, Lasalle (Ontario) (le « bien ») La demande portait sur une somme totale de 22 570,82 $ représentant le remboursement provincial de l’Ontario pour les maisons neuves (le « remboursement »).
+[2] Par un avis de cotisation daté du 3 juin 2021, le ministre du Revenu national (le « ministre ») a refusé le remboursement.
+[3] En déposant son appel devant la Cour, l’appelante a déposé un avis d’appel renvoyant au motif suivant à l’appui de l’appel [non souligné dans l’original] :
+[traduction]
+Appel à l’encontre du remboursement de la TPS/TVH pour maisons neuves
+Conformément au paragraphe 256(2), nous avons personnellement construit cette maison à des fins résidentielles et nous avons décidé de vendre notre maison pour certains motifs. Ces motifs comprennent la perte de mon emploi en raison de la pandémie et la perte d’une possibilité d’emploi par mon conjoint, également en raison de la pandémie. Nous avons pris la décision personnelle de vendre notre maison parce que nous ne pouvions plus faire face à toutes les dépenses. Nous avons construit cette maison nous-mêmes dans le seul but d’en faire notre résidence principale, comme nous en avons fourni tous les éléments de preuve dans notre demande initiale. Nous avons été les premiers à occuper le complexe après la construction, et nous sommes donc admissibles à recevoir ce remboursement. Nous avons fourni tous les éléments de preuve nécessaires et nous sommes prêts à en fournir d’autres au besoin.
+[4] En déposant sa réponse, l’intimé a fait connaître sa position à l’égard de l’avis d’appel de l’appelante [non souligné dans l’original] :
+[traduction]
+1. En ce qui concerne la première phrase de l’avis d’appel, le procureur général :
+a. admet qu’une maison a été construite;
+b. admet que l’appelante et son conjoint ont vendu la maison;
+c. nie que l’appelante et son conjoint aient eu l’intention de vivre dans la maison à titre résidentiel;
+[...]
+4. En ce qui concerne la quatrième phrase de l’avis d’appel, le procureur général admet que l’appelante et son conjoint ont construit la maison, mais nie que le seul but de la construction de la maison est d’en faire leur résidence principale, et déclare que le reste de la phrase est présenté principalement à titre d’argument ou de mesure de redressement demandée et nie toute allégation de fait contenue de manière incidente dans cette phrase.
+[...]
+[5] En outre, l’intimé a confirmé à l’article 13 de la réponse les hypothèses de fait suivantes formulées par le ministre lors de l’évaluation de la demande de l’appelante :
+a) Le 14 mars 2019, l’appelante et son conjoint ont acheté un terrain vacant situé au 4400, promenade Donato, Lasalle (Ontario), N9H 0L5 (le « terrain ») au prix de vente de 210 000 $;
+[admis par l’appelante]
+b) le père de l’appelante est propriétaire de la société Superior Custom Builders;
+[admis par l’appelante]
+c) Le 23 avril 2019, la construction d’une maison sur le terrain a commencé (collectivement, le « bien »);
+[admis par l’appelante]
+d) Superior Custom Builders et Precision Roof Truss Ltd (les « sociétés ») ont payé les dépenses liées à la construction de la maison sur le bien;
+[nié par l’appelante]
+e) Le 20 mars 2020, l’appelante et son conjoint ont mis le bien en vente;
+[admis par l’appelante]
+f) Le 9 juin 2020, l’appelante a perdu son emploi en raison de la pandémie mondiale;
+[admis par l’appelante]
+g) Le 10 juin 2020, la construction de la maison sur le bien a été achevée;
+[admis par l’appelante]
+h) En novembre 2020, l’appelante a vendu le bien à un tiers;
+[admis par l’appelante]
+i) Le revenu annuel d’emploi de l’appelante et de son conjoint n’a pas changé de manière importante en 2020; et
+[nié par l’appelante tel qu’il a été indiqué]
+j) L’appelante et son conjoint ne vivaient pas dans le bien.
+[nié par l’appelante]
+[6] Lorsqu’on lui a demandé de confirmer sa thèse à l’égard de chacune des hypothèses du ministre à l’article 13 de la réponse, l’appelante a admis que la plupart des hypothèses étaient vraies, à l’exception des hypothèses énoncées aux alinéas d), i) et j).
+[7] En substance, Mme Hammoud a rejeté la déclaration de l’alinéa i) ci-dessus parce qu’elle estime que l’expression « de manière importante » n’est pas pertinente. En l’absence d’explications détaillées de la part de l’appelante, la Cour comprend qu’elle est d’avis que leur revenu annuel total pour 2020 a changé davantage que ce que le ministre pensait. Toutefois, aucune preuve crédible n’a été fournie lors de l’audition pour étayer sa thèse à cet égard.
+[8] Les alinéas d) et j) ci-dessus sont rejetés par l’appelante, car elle rejette la thèse du ministre. L’audition a porté sur ces deux points.
+[9] L’appelante a témoigné en sa faveur et a été contre-interrogée par l’intimé. L’appelante a également appelé son conjoint comme témoin. L’interrogatoire principal de son conjoint portait sur quelques questions. Son contre-interrogatoire par l’intimé a été plus long.
+[10] L’intimé n’a fait appel à aucun témoin.
+II. Question en litige
+[11] Le présent appel porte sur le droit de l’appelante au remboursement et, plus précisément, sur la question de savoir si les conditions énoncées aux alinéas 256(2)a) et c) de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15, en sa version modifiée (la « Loi ») et aux alinéas 46(2)a) et b) du Règlement no 2 sur le nouveau régime de la taxe à valeur ajoutée harmonisée, DORS/2010-151 (le « Règlement ») ont été remplies en ce qui concerne le bien.
+[12] Si toutes les conditions sont remplies, il convient de faire droit à l’appel. Toutefois, si l’une de ces conditions n’est pas remplie, l’appel doit être rejeté.
+– Thèse de l’intimé
+[13] L’intimé est d’avis que l’appelante et son conjoint n’ont pas construit la maison pour l’utiliser comme lieu de résidence habituelle aux fins de l’alinéa 256(2)a) de la Loi et de l’alinéa 46(2)a) du Règlement ou, subsidiairement, que l’appelante et son conjoint n’ont pas payé la TVH déclarée dans la demande à l’égard des améliorations apportées à la maison, comme l’exigent les alinéas 256(2)c) de la Loi et 46(2)b) du Règlement. Dans ses observations, l’intimé a décrit les deux arguments comme suit : l’appelante et son conjoint (i) n’avaient pas l’intention d’utiliser la maison comme lieu de résidence habituel et (ii) n’avaient pas payé la taxe sur la fourniture concernant les améliorations apportées à la maison.
+[14] Selon l’intimé, l’appelante doit présenter une preuve prima facie pour démolir les hypothèses de fait du ministre et démontrer, selon la prépondérance des probabilités, que la cotisation n’est pas correcte. Les faits de l’espèce ne permettent pas de conclure en faveur de l’appelante. En outre, l’intimé estime que la TVH n’a pas été payée par l’appelante et que les éléments de preuve documentaire présentés à l’audience n’ont pas étayé le traitement de la TVH revendiqué par l’appelante dans la demande.
+[15] L’intimé n’a pas invoqué d’autres motifs ou conditions pour justifier le rejet de l’appel.
+– Thèse de l’appelante
+[16] Selon la thèse de l’appelante, les deux conditions soulevées par l’intimé sont satisfaites, comme l’exige le paragraphe 256(2) de la Loi. L’appelante et son conjoint ont été les premiers à habiter la maison. Leur intention a toujours été de construire la maison pour l’appelante, son conjoint et leur famille. En outre, l’appelante fait valoir qu’elle a payé la TVH déclarée comme remboursement dans la demande.
+III. Contexte et témoignages à l’audience
+[17] Au début de son témoignage, l’appelante a été invitée à présenter les raisons qui l’ont conduit à interjeter appel [non souligné dans l’original] :
+[traduction]
+D’accord. En fait, mon mari et moi avons construit une maison à partir de 2019, avant la pandémie, et nous l’avons construite pour nous-mêmes avec la seule intention d’en faire notre résidence principale.
+En fin de compte, c’est nous qui avons été touchés par la pandémie. J’avais perdu mon emploi. Au début de l’année 2020, la COVID a commencé à se manifester et, à partir de là, j’ai su que je n’allais probablement pas garder mon emploi, simplement en raison de la situation au travail et dans le domaine de la santé.
+Nous dépendons de nos deux revenus et nous avons donc décidé qu’il valait mieux vendre la maison parce que nous n’étions pas en mesure de payer les factures et les impôts, tout simplement parce que les sommes nécessaires étaient beaucoup plus élevées que ce que nous pensions.
+Et surtout, le fait de n’avoir plus qu’un seul revenu est devenu très difficile, alors nous avons décidé qu’il valait mieux vendre la maison, et nous l’avons vendue avant que le marché ne prenne le mors aux dents. Nous n’étions donc pas sûrs de la façon dont les choses allaient se passer au cours de l’année à cause de la pandémie, parce que c’était à ce moment-là que la situation était la plus incertaine et la plus effrayante, et nous ne savions pas ce qui allait se passer. Nous ne voulions prendre aucun risque et avons donc décidé de vendre la maison.
+Et tout cela, c’était juste pour essayer d’obtenir le remboursement – le remboursement d’impôt sur tous les paiements que nous avons faits pour construire la maison parce que nous avons construit la maison juste nous-mêmes, juste nous deux, moi et mon mari. [...]
+[18] L’appelante et son conjoint ont acheté un terrain vacant à Lasalle, en Ontario, le 14 mars 2019. La maison a été construite par la suite sur ce terrain. Au moment de l’achat du lot vacant, l’appelante et son conjoint vivaient à Windsor, en Ontario. L’achat du terrain vague par l’appelante et son conjoint le 14 mars 2019 n’est pas en litige.
+[19] Lors de l’audience, l’appelante a fait part d’une certaine confusion quant à la thèse de l’intimé dans la réponse, à savoir si l’appelante et son conjoint avaient construit la maison sur le terrain vacant. L’intimé a admis que c’était le cas, mais il a nié que le seul but de la construction de la maison était d’en faire leur lieu de résidence habituelle. La construction de la maison a commencé en avril 2019 et s’est terminée en juin 2020, soit une période de construction totale d’environ 15 mois.
+[20] L’appelante a confirmé lors de son contre-interrogatoire que la date d’occupation du bien était le 15 septembre 2019. L’appelante a confirmé qu’il avait été le premier à vivre dans le bien.
+[21] Au début de la période de construction, l’adresse du domicile de l’appelante et de son mari était toujours 4525 Osaka Circle, Windsor (Ontario).
+[22] Lors de son témoignage, l’appelante a confirmé de nouveau qu’elle avait mis le bien en vente pour la première fois en mars 2020. Plus tard, au cours de son contre-interrogatoire, et bien que l’appelante ait admis d’emblée l’hypothèse du ministre soulevée à l’alinéa 13e) de la réponse selon laquelle le bien a été mis en vente le 20 mars 2020, elle a déclaré qu’elle ne voulait pas se tromper de date, et lorsqu’on lui a demandé si la mise en vente avait eu lieu avant la fin des travaux le 10 juin 2020, elle a répondu qu’elle ne s’en souvenait pas.
+[23] Le 9 juin 2020, l’appelante a perdu son emploi en raison de la pandémie mondiale. L’appelante a été claire sur cette date. Toutefois, lorsqu’on lui a demandé de confirmer la date de son retour au travail, la réponse n’a pas été claire. Elle était sûre de ne pas avoir repris le travail pendant l’été 2020. Très probablement au cours de l’automne 2020, mais elle ne se souvenait pas de la date et ne voulait pas mentionner de période.
+[24] La Cour a été informée que la vente du bien était assujettie à une modification du contrat d’achat et de vente daté du 30 septembre 2020 et, finalement, le bien a été transféré à l’acheteur en novembre 2020.
+[25] Le 23 octobre 2020, l’appelante a déposé la demande et a déclaré le remboursement. Le remboursement concerne exclusivement le remboursement provincial pour maisons neuves de l’Ontario.
+[26] L’appelante a déposé 13 pièces au total lors de l’audience. Sept pièces ont été déposées pour prouver que l’appelante et son conjoint vivaient dans le bien à la date précise mentionnée dans chacune de ces pièces. Seule une pièce contenant un document relatif à l’achat du terrain vague, deux feuilles de devis et deux factures pour un total de 14 166,36 $ a été déposée pour justifier le paiement des factures de construction de la maison.
+[27] Aucune pièce n’a été déposée par l’appelante en même temps que la date de déménagement dans le bien (15 septembre 2019), ni en rapport avec le 4525, Osaka Circle, Windsor (Ontario) qu’elle aurait quitté pour vivre dans le bien. Les fiches d’enquête sur les opérations de compte de dépôt bancaire ont également été déposées à titre de pièces. Ces pièces, même si elles renvoient à un fournisseur, n’ont pas permis à la Cour de tirer des conclusions en l’absence de documents à l’appui des fiches bancaires.
+[28] Au cours du contre-interrogatoire de l’appelante, l’intimé a interrogé l’appelante sur les dépenses déclarées dans la demande en ce qui concerne la construction de la maison. Quinze factures soumises par l’intimé ont été examinées au cours du contre-interrogatoire. La plupart des questions portaient sur l’identité du payeur de la facture, sur l’identité du client figurant sur la facture, sur l’objet et les circonstances de la facture. Dans presque tous les cas, l’intimé a soulevé des questions concernant l’identité du nom du client et du titulaire de la carte de crédit.
+[29] Les pièces produites par l’appelante démontrant que le bien était occupé par l’appelante et son conjoint consistaient en des factures de gaz naturel et d’électricité, des relevés bancaires, un permis de conduire, une plaque d’immatriculation, la correspondance des courtiers d’assurance, le service Internet, un reçu d’ordonnance de la pharmacie et un bordereau d’assurance automobile représentant des dépenses ou des documents indiquant le nom de l’appelante ou le nom du conjoint de l’appelante et l’adresse du bien à l’égard de diverses périodes entre le 28 octobre 2019 et le 19 novembre 2021.
+IV. Analyse
+– Lois applicables
+[30] Pour bénéficier d’un remboursement aux termes de l’article 256 de la Loi et de l’article 46 du Règlement, l’appelant doit satisfaire, entre autres, aux deux conditions en litige et énoncées à l’alinéa 256(2)a) et c) de la Loi et à l’alinéa 46(2)a) et b) du Règlement[1] :
+256
+[...]
+2) Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+a) le particulier, lui-même ou par un intermédiaire, construit un immeuble d’habitation — immeuble d’habitation à logement unique ou logement en copropriété — ou y fait des rénovations majeures, pour qu’il lui serve de résidence habituelle ou serve ainsi à son proche;
+[...]
+c) le particulier a payé la taxe prévue à la section II relativement à la fourniture par vente, effectuée à son profit, du fonds qui fait partie de l’immeuble ou d’un droit sur ce fonds, ou relativement à la fourniture effectuée à son profit, ou à l’importation par lui, d’améliorations à ce fonds ou, dans le cas d’une maison mobile ou d’une maison flottante, de l’immeuble (le total de cette taxe prévue au paragraphe 165(1) et aux articles 212 et 218 étant appelé « total de la taxe payée par le particulier » au présent paragraphe);
+[...]
+Le remboursement est égal au montant suivant :
+[Non souligné dans l’original.]
+46. Remboursement en Ontario
+(2) Dans le cas où les conditions suivantes sont réunies :
+a) un particulier a droit au remboursement prévu au paragraphe 256(2) de la Loi au titre d’un immeuble d’habitation qu’il a construit ou fait construire ou auquel il a fait ou fait faire des rénovations majeures pour qu’il lui serve en Ontario de résidence habituelle ou serve ainsi à son proche, ou aurait droit à ce remboursement si la juste valeur marchande de l’immeuble, au moment où les travaux sont achevés en grande partie, était inférieure à 450 000 $,
+b) le particulier a payé la taxe payable relativement à la fourniture par vente, effectuée à son profit, du fonds qui fait partie de l’immeuble ou d’un droit sur ce fonds ou relativement à la fourniture effectuée à son profit, ou à l’importation ou au transfert en Ontario par lui, d’améliorations à ce fonds ou, dans le cas d’une maison mobile ou d’une maison flottante, de l’immeuble (le total de cette taxe, prévue au paragraphe 165(2) et aux articles 212.1, 218.1 et 220.05 à 220.07 de la Loi, étant appelé « total de la taxe relative à la province » au présent paragraphe et au paragraphe (4)),
+[...]
+[31] Le paragraphe 299(3) de la Loi dispose qu’une cotisation, sous réserve d’être annulée à la suite d’une objection ou d’un appel et sous réserve d’une nouvelle cotisation, est réputée valable et contraignante.
+[32] En règle générale, dans les appels en matière fiscale, le fardeau de preuve incombe à l’appelant. Le fardeau de réfuter les hypothèses de fait formulées par le ministre et de prouver, selon la prépondérance des probabilités, les faits justifiant sa position, y compris que la cotisation ou la nouvelle cotisation est incorrecte, incombe à l’appelante[2].
+[33] Dans l’arrêt Hickman Motors Ltd. c. Canada, [1997] 2 RCS 336, la juge L’Heureux-Dubé confirme que le fardeau initial du contribuable consiste à démolir les hypothèses sur lesquelles le ministre s’est appuyé pour établir la cotisation. Si le contribuable présente au moins une preuve prima facie, le fardeau de la preuve est transféré au ministre, qui doit prouver les hypothèses invoquées et réfuter cette preuve prima facie.
+[34] Une preuve prima facie est celle qui est en règle générale étayée par des éléments de preuve qui créent un tel degré de probabilité en sa faveur que la Cour doit l’accepter si elle y ajoute foi, à moins qu’elle ne soit contredite ou que le contraire ne soit prouvé.
+[35] Dans l’arrêt Eisbrenner, le juge Webb, au nom de la Cour d’appel fédérale, a réaffirmé les conclusions auxquelles il était parvenu dans l’arrêt Sarmadi :
+Dans l’arrêt Sarmadi, j’ai passé en revue les différentes affaires dans lesquelles la question du fardeau de la preuve est examinée. J’ai également examiné le contexte d’un appel interjeté auprès de la Cour de l’impôt. J’ai conclu ce qui suit :
+[61] À mon avis, il devrait incomber à un contribuable de prouver, selon la prépondérance des probabilités, les faits qu’il allègue dans son avis d’appel et qui sont niés par la Couronne. Dans la plupart des cas, ceci devrait mettre un terme à la discussion sur le fardeau de preuve parce que les hypothèses de fait du ministre dans le cadre de l’imposition d’une nouvelle cotisation au contribuable seraient généralement incompatibles avec les faits plaidés par le contribuable relativement aux faits substantiels sur lesquels la nouvelle cotisation a été fondée.
+[62] Si, en imposant une nouvelle cotisation au contribuable, le ministre a présumé de certains faits qui ne sont pas incompatibles avec les faits allégués par le contribuable, il semblerait également logique d’exiger que le contribuable prouve, selon la prépondérance des probabilités, que ces faits présumés par le ministre (qui sont en litige et qui ne relèvent pas de la connaissance exclusive ou particulière du ministre) ne sont pas exacts. L’exigence qu’un contribuable réfute les faits présumés par le ministre dans le cadre de l’imposition d’une nouvelle cotisation ne fait que déplacer le fardeau sur la personne qui a connaissance (ou qui devrait avoir connaissance) des faits. Le fardeau passe également à la personne qui a indirectement affirmé, lors de la production de sa déclaration de revenus, certains faits qui seraient incompatibles avec les faits présumés par le ministre au moment d’imposer une nouvelle cotisation au contribuable.
+[63] Lorsque tous les éléments de preuve ont été présentés, le juge de la Cour de l’impôt devrait alors (et seulement alors) déterminer si le contribuable s’est acquitté de ce fardeau. Si le contribuable a réfuté, selon la prépondérance des probabilités, les faits particuliers présumés par le ministre, en se fondant sur tous les éléments de preuve, aucun fardeau n’est déplacé sur le ministre de réfuter la preuve que le juge de la Cour de l’impôt a estimé avoir été établie par le contribuable. Soit le contribuable a réfuté les faits présumés, soit il ne l’a pas fait.
+[25] Au paragraphe 36 de l’arrêt Sarmadi, j’ai également affirmé que, si le ministre allègue un fait ne relevant pas des hypothèses de fait sur lesquelles il s’est fondé lors de l’établissement ou de la confirmation de la cotisation établie à l’égard d’un contribuable, il aura alors le fardeau de prouver ce fait (Canada c. Loewen, 2004 CAF 146, [2004] A.C.F. no 638 (QL), au paragraphe 11).[3]
+[Non souligné dans l’original.]
+[36] Dans l’arrêt Kufsky, soutenant les motifs du juge Webb dans l’arrêt Eisbrenner, la juge Monaghan a écrit ce qui suit :
+[99] Dans les présents motifs, j’ai choisi de me référer à une preuve prima facie. Cette expression a été utilisée à maintes reprises pour décrire ce que doit faire le contribuable qui conteste les hypothèses du ministre. Il existe de la doctrine selon laquelle la preuve prima facie est censée comporter une norme moins élevée que « la prépondérance des probabilités ». Je ne suis pas convaincue et je souscris à l’approche du juge Webb dans l’arrêt Sarmadi c. Canada, 2017 CAF 131, [2017] A.C.F. no 637 (QL) au para. 61 à 63, répétée dans l’arrêt Eisbrenner c. Canada, 2020 CAF 93, autorisation de pourvoi à la CSC refusée, 2020 C.S.C.R. n° 334 (QL). Cependant, au bénéfice de l’appelante, j’ai supposé que la preuve prima facie nécessitait une norme moins élevée que celle de la prépondérance des probabilités. Malgré cela, elle n’a pu avoir gain de cause.
+[37] Dans l’arrêt Van der Steen, rendu à l’unanimité, la Cour d’appel fédérale confirme l’arrêt Eisbrenner :
+[26] Dans l’arrêt Eisbrenner c. Canada, 2020 CAF 93, notre Cour a confirmé que le contribuable qui plaide un fait donné dans son avis d’appel devant la Cour canadienne de l’impôt a le fardeau de prouver ce fait selon la prépondérance des probabilités lorsque la Couronne le nie. M. van der Steen aurait su s’il avait l’intention libérale requise pour que son versement de 65 000 $ à la CLES soit reconnu comme étant un don de bienfaisance.
+[38] Dans la décision Hong Kong Style Café Ltd. c. La Reine, 2022 CCI 9, le juge Bocock renvoie aux commentaires du juge McPhee dans la décision Xue c. La Reine, 2020 CCI 72, au sujet de l’arrêt Eisbrenner :
+36 À l’occasion de l’affaire Eisbrenner v. Canada (2020 FCA 93), la Cour d’appel fédérale a récemment examiné le fardeau de la preuve qui incombe à l’appelante devant la Cour de l’impôt. Il incombe à un contribuable de prouver les faits qu’il allègue dans son avis d’appel et qui sont niés par l’intimée.
+37 Il convient de noter que la capacité de l’intimée à invoquer les hypothèses formulées par le ministre est propre aux appels en matière d’impôt. Dans un tel cas, pour avoir gain de cause, le contribuable doit réfuter les hypothèses de fait qui nuisent à son appel. Dans la réponse produite en l’espèce, plusieurs hypothèses clés ont été établies et invoquées par l’intimée dans les éléments de preuve qu’elle a présentés. Peu d’hypothèses, voire aucune, n’ont été expressément visées par les éléments de preuve présentés par les appelants.
+[Non souligné dans l’original.]
+[39] Le juge Bowman, tel était alors son titre, dans la décision Cadillac Fairview Corp. Ltd. v. R., [1996] 2 CTC 2197, a écrit ce qui suit :
+[traduction]
+L’appelante affirmait que les paiements avaient été faits en application des garanties, mais cette allégation a été rejetée. L’avocat de l’appelante a fait valoir qu’il incombait au ministre d’établir que les paiements n’avaient pas été faits en application des garanties, puisque le ministre n’a pas plaidé que c’était ce qu’il « présumait ». S’il ne s’agit pas d’une pure question de droit, il s’agit tout au moins d’une question de droit et de fait. Quoi qu’il en soit, l’hypothèse de base qui a été formulée au moment d’établir la cotisation était que l’appelante n’avait pas droit à la déduction demandée pour perte en capital et qu’il lui incombait de prouver les divers éléments juridiques donnant droit à la déduction demandée. [...] Je ne crois pas que la décision rendue dans Minister of National Revenue v. Pillsbury Holdings Ltd. 1964 CanLII 1197 (CA EXC), [1964] C.T.C. 294, [1964] D.T.C. 5184, ait complètement modifié les règles ordinaires de pratique et les actes de procédure. La règle générale – et je ne vois aucune raison pour laquelle elle ne devrait pas s’appliquer dans les appels en matière d’impôt sur le revenu – est celle énoncée dans l’ouvrage d’Odgers, intitulé Principles of Pleading and Practice, 22e édition, à la page 532 :
+Le « fardeau de la preuve » désigne l’obligation pour une partie d’établir le bien-fondé de sa cause. Ce fardeau incombe à la partie A, chaque fois que celle-ci doit présenter des éléments de preuve ou qu’un jugement est prononcé à son encontre. En règle générale (mais pas toujours), le fardeau incombe à la partie qui, dans son acte de procédure, affirme la question en litige, car il est généralement impossible de prouver ce que l’on nie. La preuve incombe à celui qui affirme, et non à celui qui nie. C’est généralement, mais pas nécessairement, la partie qui soulève la première la question en litige qui fait l’affirmation. Par conséquent, il incombe généralement au requérant de démontrer chacun des faits invoqués dans la déclaration, et au défendeur de prouver tous les faits qu’il a plaidés par voie d’acquiescement et d’évitement, tels que la fraude, l’exécution, la renonciation, la résiliation, etc.
+[40] Aux fins des présentes, le résumé qui précède signifie que l’appelante doit établir au procès, selon la prépondérance des probabilités, non seulement les hypothèses de fait du ministre que l’appelante estime non fondées, mais aussi les allégations de fait plaidées dans l’avis d’appel à l’appui de sa thèse, dans la mesure où l’intimé ne les admet pas.
+[41] Pour ces motifs, la Cour peut maintenant décider si l’appelante s’est acquittée du fardeau de la preuve qui lui incombe en application des alinéas 256(2)a) et c) de la Loi et 46(2)a) et b) du Règlement, sachant que si l’une de ces conditions n’est pas remplie, le remboursement doit être refusé.
+– Lieu de résidence habituelle – alinéa 256(2)a) de la Loi/alinéa 46(2)a) du Règlement
+[42] En l’espèce, l’alinéa 256(2)a) de la Loi exige qu’un particulier, lui-même ou par un intermédiaire, construise un « immeuble d’habitation à logement unique » pour qu’il lui serve de résidence habituelle ou serve ainsi à son proche.
+[43] Pour les motifs qui suivent, la Cour estime que l’appelante ne s’est pas acquittée du fardeau de la preuve qui lui incombait en application de l’alinéa 256(2)a) de la Loi.
+[44] Tout d’abord, un particulier doit construire un logement. La version anglaise du paragraphe 123(1) de la Loi définit un « particulier » comme étant une personne physique (« individual means a natural person »). Par conséquent, une personne physique doit construire un immeuble elle-même ou par un intermédiaire (qui peut être une personne autre qu’une personne physique). L’appelante est une personne physique. L’intimé a admis que l’appelante et son conjoint ont construit la maison sur le terrain vacant. Par conséquent, cette condition subsidiaire est satisfaite.
+[45] Deuxièmement, le logement doit être un « immeuble d’habitation à logement unique » qui, selon la définition donnée au paragraphe 256(1) de la Loi, comprend une maison individuelle, une maison individuelle avec suite ou, éventuellement, un duplex. Cette deuxième condition subsidiaire ne pose pas de problème en l’espèce.
+[46] Troisièmement, le but de la construction de l’immeuble par le particulier doit être d’utiliser l’immeuble comme résidence habituelle pour lui-même ou son proche. Le terme « proche » comprend les particuliers unis par les liens du sang, du mariage, de l’union de fait ou de l’adoption. Là encore, l’exigence d’utilisation par un proche ne pose pas de problème en l’espèce.
+[47] La notion de « résidence habituelle » n’est pas définie dans la Loi. La question de savoir si l’appelante avait l’intention requise au moment pertinent est une question de fait. [4] Cette condition subsidiaire sera remplie si l’appelante convainc la Cour qu’elle avait la bonne intention à l’époque pertinente, qu’elle ait ou non donné suite à cette intention. Aux fins de l’alinéa 256(2)a) de la Loi, l’époque pertinente est celle de la construction de la maison. C’est, selon la Cour, la condition subsidiaire que l’appelante n’a pas réussi à prouver selon la prépondérance des probabilités.
+[48] L’utilisation effective du bien peut, dans certains cas, constituer une preuve de l’intention du contribuable, mais elle n’est pas déterminante. [5] La Cour canadienne de l’impôt a conclu que divers indices peuvent être pris en compte pour déterminer si l’intention subjective est confirmée par les points de repère de l’occupation :
+i) la démarcation du lieu de résidence habituelle indiquée par un changement d’adresse;
+ii) la relocalisation d’une quantité suffisante d’effets personnels à la propriété concernée par le remboursement;
+iii) en l’absence d’occupation de la résidence, existe-t-il une preuve forte d’entrave à l’occupation;
+iv) la souscription d’une assurance du propriétaire occupant par opposition à une assurance de résidence secondaire ou de résidence donnée en location;
+v) la mise en possession de la résidence habituelle précédente à un tiers;
+vi) s’il y a occupation double, alors la propriété concernée par le remboursement doit être occupée plus fréquemment, être mieux adaptée aux lieux tiers comme le lieu de travail, comporter davantage de commodités pratiques et convenir davantage aux besoins du contribuable[6].
+[49] Cependant, en fin de compte, voici ce qu’il faut :
+[7] En fin de compte, nombreuses sont les décisions, chacune avec des circonstances propres, quant à l’intention de l’acheteur d’acquérir une habitation comme « lieu de résidence habituelle » aux fins du remboursement. Ce qu’il faut, c’est une intention claire et arrêtée d’occuper les lieux en tant que « lieu de résidence habituelle », compte tenu des circonstances personnelles, familiales et professionnelles d’un particulier. Une intention timide, fugace ou fantaisiste ne suffit pas.
+[8] L’emploi du terme « habituelle » par le législateur donne également à entendre que l’acheteur doit avoir l’intention arrêtée de centrer ses affaires personnelles et familiales sur ce bien ou de les articuler autour de ce dernier. Le remboursement n’est pas à l’égard d’une résidence secondaire ou d’un « pied-à-terre ». Un particulier peut être propriétaire de plusieurs résidences, mais ne doit normalement avoir qu’un « lieu de résidence habituelle »[7].
+[50] Le fait que l’appelante puisse ou non vivre dans la maison se distingue de l’intention qui pourrait motiver l’appelante à construire la maison. En effet, la condition prévue à l’alinéa 256(2)d) de la Loi concerne expressément l’occupation de la maison. C’est la raison pour laquelle le fait inhérent de vivre dans la maison ne suffit pas pour établir que l’appelante avait l’intention appropriée prescrite par l’alinéa 256(2)a) de la Loi.
+[51] Compte tenu de l’examen du fardeau de la preuve ci-dessus et étant donné que l’appelante a ajouté dans son avis d’appel que son intention était de construire la maison dans le seul but d’en faire sa résidence habituelle et que l’intimé a nié ce fait dans sa réponse, il incombe à l’appelante de prouver, selon la prépondérance des probabilités, qu’elle a construit la maison pour en faire sa résidence habituelle.
+[52] Ce n’est qu’une fois que tous les éléments de preuve ont été présentés à l’audience que la Cour peut déterminer si l’appelante s’est acquittée de ce fardeau[8].
+[53] Les témoignages de l’appelante et de son conjoint ont mis de l’avant l’intention de l’appelante. Tous deux ont témoigné avoir construit la maison avec l’intention d’y vivre. Comme nous l’avons déjà mentionné, certains éléments de preuve documentaire ont également été présentés pour montrer qu’ils ont emménagé à une certaine date.
+[54] Cependant, la Cour estime que l’offre de vente du bien en mars 2020 et les questions de crédibilité relatives au témoignage de l’appelante soulevées ci-après ont de graves répercussions sur la conclusion selon laquelle l’appelante s’est acquittée du fardeau de la preuve qui lui incombait.
+[55] La Cour, lorsqu’elle examine le bien-fondé des commentaires supplémentaires formulés par l’appelante au sujet de la mise en vente initiale en mars 2020, rapproche les commentaires de l’appelante de ses déclarations concernant l’impossibilité pour elle de se souvenir de la période pendant laquelle elle est retournée au travail alors qu’elle connaissait très bien la date à laquelle elle a perdu son emploi en juin 2020. Aucun détail n’a été fourni sur sa recherche d’emploi et sa réussite. Cette situation ne permet pas à la Cour de conclure à la transparence totale et à l’objectivité du témoignage de l’appelante, y compris en ce qui concerne les remarques supplémentaires de l’appelante au sujet de la date de mise en vente initiale. La Cour estime que ces positions adoptées par le témoin donnent lieu à une conclusion défavorable sur sa crédibilité.
+[56] Lors de son contre-interrogatoire, l’appelante s’est trompée quant à la carte de crédit utilisée pour payer la plupart des factures de construction déposées comme pièces par l’intimé. Elle a confirmé que la carte de crédit était l’ancienne carte de crédit de son conjoint, tandis que lors de son contre-interrogatoire par l’intimé, son conjoint a confirmé que le titulaire de la carte de crédit était soit son beau-père, soit sa belle-mère (le père et la mère de l’appelante). Selon la Cour, ce facteur a également contribué à tirer une conclusion défavorable sur sa crédibilité.
+[57] De plus, lors de son témoignage, l’appelante a exposé les circonstances et les raisons qui ont incité le couple à faire affaire avec les fournisseurs Superior Custom Builders et Precision Roof Truss Ltd. En résumé, lorsqu’on lui a demandé d’expliquer pourquoi elle et son conjoint seraient responsables de ne pas avoir payé les fournisseurs, elle a indiqué que les fournisseurs appelaient son mari :
+[traduction]
+Même si le nom de Superior Custom Builders était indiqué, cela montre simplement – par exemple, ils mettront « Superior Custom Builders » parce que nous avons simplement donné le nom pour montrer, vous savez, que nous viendrons – en gros, faire affaire comme ça, c’est en quelque sorte dire que nous allons venir la prochaine fois si nous décidons de construire, parce que nous pensions, peut-être plus tard, si jamais nous voulions construire à nouveau [...] c’est en gros ce que nous leur avons dit lorsque nous avons acheté et c’est comme si vous obteniez une réduction mineure juste parce que c’est presque comme une promesse que vous reviendrez et nous achèterons notre revêtement de sol à nouveau chez eux [...][9]. [Non souligné dans l’original.]
+[58] Cette réponse laisse la Cour perplexe quant à l’intention réelle qui sous-tend la construction de la maison et la décision de mettre en vente la maison pendant les travaux en mars 2020. La Cour estime que le dernier paragraphe de la déclaration de l’appelante au paragraphe 17 ci-dessus soulève la même incertitude.
+[59] Dans la décision Martinuzzi, le juge Rip (tel était alors son titre) a estimé que l’appelant, qui avait acheté un terrain et y avait construit une résidence, n’avait pas l’intention de l’utiliser comme lieu de résidence habituelle. [10] La maison était à vendre pendant les travaux et le juge Rip n’a pas « [cru] que l’installation d’un écriteau “À vendre” sur la propriété durant la construction était une “blague” ».
+[60] En l’espèce, l’offre de vente du bien pendant les travaux s’est avérée incompatible avec l’intention de l’utiliser comme lieu de résidence habituelle, comme l’exige la loi applicable.
+[61] La Cour est d’avis que l’appelante n’a pas réussi, selon la prépondérance des probabilités, à établir que son intention de construire la maison était d’en faire son lieu de résidence habituelle.
+[62] Selon la Cour, l’appelante n’est pas parvenue à établir les faits essentiels à l’appui de sa thèse au moyen des éléments de preuve versés au dossier à la fin de l’audience et, pour cette raison, elle n’a pas satisfait aux dispositions de l’alinéa 256(2)a) de la Loi et de l’alinéa 46(2)a) du Règlement.
+[63] En outre, l’appelante a témoigné que les motifs de la vente du bien étaient qu’elle avait perdu son emploi en raison de la pandémie de coronavirus (COVID-19), que son conjoint avait perdu une possibilité d’emploi en raison de la pandémie et qu’ils estimaient ne pas pouvoir faire face à l’ensemble des dépenses, des factures et des impôts, à l’épicerie et au coût de la vie en général. Selon l’appelante, ce n’était pas vraiment raisonnable à ce moment-là.
+[64] Dans la décision Fard, le juge suppléant Masse, renvoyant à la décision Sozio[11], a conclu que, pour invoquer l’entrave comme excuse du défaut d’utiliser réellement l’immeuble visé par le remboursement comme résidence habituelle, les circonstances environnantes doivent être telles que l’événement contrariant est imprévisible, indépendant de la volonté de l’acheteur et résulte en une absence de choix réel telle qu’elle rend impossible de vivre de façon habituelle dans l’immeuble visé par le remboursement[12].
+[65] Les circonstances à prendre en compte pour conclure que l’intention a été contrecarrée doivent être les circonstances qui prévalaient au moment opportun. En l’espèce, le moment opportun est le premier élément de preuve indiquant que l’intention pourrait ne pas être celle annoncée par l’appelante d’utiliser le bien comme lieu de résidence habituelle.
+[66] La Cour estime que la mise en vente en mars 2020, soit environ 11 mois après le début de la construction et trois mois avant la fin de la période de construction, constitue ce premier élément de preuve. À la question claire [traduction] « Mme Hammoud, avez-vous mis en vente en mars 2020 le bien situé au 4400, promenade Donato? », l’appelante a répondu [traduction] « Oui ». Aux yeux de la Cour, les tentatives ultérieures de l’appelante de préciser la date exacte de la mise en vente et la possibilité d’une mise en vente un mois plus tard en 2020 visent plutôt à faire diversion. Les tentatives ultérieures n’étaient pas convaincantes et n’étaient pas étayées par d’autres éléments de preuve ni par des circonstances sur lesquelles la Cour pouvait s’appuyer. L’appelante n’a donné aucune autre date ou période concernant la décision de vendre le bien. La Cour estime que les tentatives de l’appelante étaient trop vagues et peu concluantes.
+[67] En mars 2020, au moment où l’appelante met en vente le bien, les éléments de preuve montrent très peu d’événements imprévisibles pour l’appelante et son conjoint, si ce n’est la déclaration, par l’Organisation mondiale de la santé, de la pandémie de COVID-19 le 11 mars 2020. Les dépenses, taxes et factures relatives au bien étaient prévisibles et il n’y a eu aucune perte d’emploi à ce moment-là. Les factures d’électricité produites comme pièces par l’appelante pour la période du 24 juillet au 24 octobre 2019 (trois factures) font état d’un total de 140 kWh, comparativement à 239 kWh pour la période du 24 février au 17 mars 2020 (aucune facture n’a été produite pour la période du 25 octobre 2019 au 23 février 2020) et comparativement à un total de 1 390 kWh pour la période du 17 août au 23 novembre 2020. Ces factures étant antérieures à mars 2020, elles ne présentent pas de facteurs excédentaires importants à prendre en compte.
+[68] La confirmation de la pandémie en mars 2020 a été source d’incertitude pour de nombreux Canadiens, les répercussions variant probablement d’une personne à l’autre. En l’espèce, l’appelante a dû fournir des éléments de preuve concernant les répercussions directes de la pandémie sur elle dès les premières semaines où la pandémie a été confirmée. Ces éléments de preuve étaient requis parce que le bien a été mis en vente ce mois-là. Tel qu’il est mentionné dans les décisions Fard et Sozio, il incombait à l’appelante de prouver, selon la prépondérance des probabilités, que la pandémie a créé en mars 2020 une situation telle que l’appelante n’avait pas de choix réel et qu’il était impossible de vivre principalement et habituellement dans le bien.
+[69] Dans son avis d’appel déposé auprès de la Cour le 19 avril 2022, l’appelante a renvoyé au fait que la pandémie lui a fait perdre son emploi (ce qui est confirmé par une lettre datée du 9 juin 2020) et que son conjoint a perdu une possibilité d’emploi (aucun détail n’a été fourni lors de l’audience). L’avis d’appel ne comporte aucune autre mention de la « COVID » ni de la « pandémie ».
+[70] Lors de son témoignage, l’appelante a mentionné la « COVID » à deux reprises, d’une part pour justifier sa perte d’emploi et d’autre part pour justifier l’acceptation de la première offre d’achat du bien. Le mot « pandémie » a été prononcé dix fois par l’appelante au cours de l’audience : huit fois au cours de son témoignage et de son contre-interrogatoire, et deux fois au cours de ses observations. Les huit fois où l’appelante a prononcé ce mot étaient en lien avec (i) le fait que la construction de la maison avait commencé avant la pandémie, (ii) la perte de son emploi, (iii) le fait qu’au début de la pandémie, elle n’était pas sûre des répercussions éventuelles de celle-ci sur elle et son conjoint, ce qui a été source d’incertitude, et (iv) les incertitudes après la perte de son emploi et son retour au travail pendant la pandémie. Dans ses observations, l’appelante a mentionné à deux reprises que la perte de son emploi était due à la pandémie.
+[71] Lors du témoignage du conjoint de l’appelante, les mots « COVID » et « pandémie » n’ont pas été prononcés.
+[72] Il ne fait guère de doute que la pandémie a eu des répercussions défavorables sur l’appelante, y compris certains effets sur ses décisions et ses choix. Malheureusement, les éléments de preuve présentés lors de l’audience ne permettent pas à la Cour de cerner des facteurs qui ont eu des répercussions dès mars 2020, y compris en raison de la pandémie, et qui pourraient prouver, selon la prépondérance des probabilités, l’absence de choix réel au point de rendre impossible le fait de vivre principalement et habituellement dans le bien visé par la demande de remboursement. Pendant l’audience, l’appelante a essentiellement lié la pandémie à sa perte d’emploi, qui s’est finalement concrétisée en juin 2020, et à l’incertitude que cela générait pour elle. L’appelante n’a présenté aucun élément de preuve clair ou incontesté pour confirmer l’absence de choix réel de vivre ou non dans le bien. Elle n’a pas prouvé, selon la prépondérance des probabilités, qu’elle n’avait pas eu d’autre choix que de vendre le bien.
+[73] En outre, l’appelante n’a présenté aucun élément de preuve pour justifier une vente rapide du bien ou une vente assujettie à des conditions défavorables pour elle.
+[74] Malheureusement, les éléments de preuve déposés par l’appelante, qu’il s’agisse de documents ou de témoignages, sont globalement peu nombreux et faibles, et amènent la Cour à estimer que l’appelante ne s’est pas acquittée du fardeau de la preuve.
+[75] Compte tenu de ce qui précède, l’argument de l’intimé selon lequel l’appelante n’a pas le droit de demander le remboursement puisque l’appelante et son conjoint n’ont pas construit le bien pour l’utiliser comme lieu de résidence habituelle aux fins des alinéas 256(2)a) de la Loi et 46(2)a) du Règlement l’emporte.
+[76] Pour ces motifs, l’appel de l’appelante ne peut malheureusement pas être accueilli.
+[77] Il n’est pas nécessaire d’examiner la condition énoncée aux alinéas 256(2)c) de la Loi et 46(2)b) du Règlement.
+V. Conclusion [78] Pour l’ensemble des motifs exposés ci-dessus, l’appel interjeté à l’encontre de la cotisation établie à l’égard de l’appelante par avis du 3 juin 2021 est rejeté, sans dépens.
+Signé à Montréal (Québec), ce 10e jour de mai 2023.
+« J.M. Gagnon »
+Le juge Gagnon
+RÉFÉRENCE :
+2023 CCI 55
+NO DU DOSSIER DE LA COUR :
+2022-1045(GST)I
+INTITULÉ :
+SOUAD HAMMOUD c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Windsor (Ontario)
+DATE DE L’AUDIENCE :
+Le 24 janvier 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge Jean Marc Gagnon
+DATE DU JUGEMENT :
+Le 10 mai 2023
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Amanda De Bruyne
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada Ottawa, Canada
+[1] Le Règlement traite du remboursement provincial de l’Ontario pour les maisons neuves. Le Règlement prévoit un remboursement, payable aux termes de l’article 256.21 de la Loi, calculé de la façon prescrite, lorsque le critère énoncé au paragraphe 46(2) du Règlement a été respecté. Le critère énoncé au paragraphe 46(2) du Règlement correspond aux exigences énoncées au paragraphe 256(2) de la Loi.
+[2] Le fardeau de la preuve dans les appels fiscaux a été examiné plus récemment dans diverses décisions de la Cour d’appel fédérale et de la Cour canadienne de l’impôt. Dans l’arrêt Sarmadi c. Canada, 2017 CAF 131 [« Sarmadi »], le juge Webb a examiné le droit relatif au fardeau de la preuve dans les appels en matière fiscale, mais les juges Stratas et Woods ont refusé de fournir une opinion définitive sur cette même question. Dans l’arrêt Eisbrenner c. Canada, 2020 CAF 93 [« Eisbrenner »], le juge Webb, au nom de la Cour d’appel fédérale, a réitéré le même raisonnement en ce qui concerne le fardeau de la preuve dans les appels en matière fiscale. La demande d’autorisation d’interjeter appel devant la Cour suprême du Canada dans l’arrêt Eisbrenner a été rejetée (14 janvier 2021). Depuis l’arrêt Eisbrenner, les motifs du juge Webb sur la question du fardeau de la preuve dans les appels en matière fiscale ont été confirmés ou mentionnés dans au moins quatre autres décisions de la Cour d’appel fédérale : Kufsky c. Canada, 2022 CAF 66 [« Kufsky »], Chibani c. Canada, 2021 CAF 196, European Staffing Inc. c. Canada (Revenu national), 2020 CAF 219 et Van der Steen c. Canada, 2020 CAF 168 [« Van der Steen »]. Les principales décisions de la Cour canadienne de l’impôt sur la même question sont les décisions du juge Owen Morrison c. La Reine, 2018 CCI 220 et Damis Properties Inc. v. The Queen, 2021 TCC 24.
+[3] Dans l’arrêt Commission ontarienne des droits de la personne c. Simpsons-Sears, [1985] 2 RCS 536, la Cour suprême du Canada a confirmé la règle bien établie dans les affaires civiles selon laquelle le fardeau de la preuve appartient à la personne qui allègue. Voir également F.H. c. McDougall, [2008] 3 RCS 41.
+[4] Fiducie Chry-Ca c. La Reine, 2008 CCI 423.
+[5] Kandiah c. La Reine, 2014 CCI 276.
+[6] Fard c. La Reine, 2022 CCI 42.
+[7] Kniazev c. La Reine, 2019 CCI 58.
+[8] Voir l’arrêt Eisbrenner.
+[9] Page 25 des notes de transcription.
+[10] Martinuzzi c. La Reine, 1999 CanLII 302 (CCI) [Martinuzzi].
+[11] Sozio c. La Reine, 2018 CCI 258 [Sozio].
+[12] Fard c. La Reine, 2022 CCI 42 [Fard].

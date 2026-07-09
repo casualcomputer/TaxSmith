@@ -1,0 +1,127 @@
+Title: Canadian Bio Pellet Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30487/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-406-30487-canadian-bio-pellet-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2011-08-26
+
+# Canadian Bio Pellet Inc. c. M.R.N.
+
+- Citation: 2011 CCI 406
+- Decision date: 2011-08-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7287, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Canadian Bio Pellet Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-08-26
+Référence neutre
+2011 CCI 406
+Numéro de dossier
+2011-431(EI), 2011-432(CPP)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2011-431(EI)
+2011-432(CPP)
+ENTRE :
+CANADIAN BIO PELLET INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CHRISTOPHER MAYCOCK,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 19 août 2011, à Hamilton (Ontario)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Représentant de l’appelante :
+M. Stan Stasko
+Avocate de l’intimé :
+Me Annie Paré
+Pour l’intervenant :
+L’intervenant lui-même
+____________________________________________________________________
+JUGEMENT
+L’appel concernant les décisions rendues par le ministre du Revenu national en vertu de la Loi sur l’assurance-emploi et du Régime de pensions du Canada, selon lesquelles Christopher Maycock exerçait un emploi assurable et ouvrant droit à pension auprès de l’appelante du 15 mai 2009 au 1er mars 2010, est rejeté et les décisions sont confirmées. Chaque partie supportera ses propres dépens.
+Signé à Ottawa (Ontario), ce 26e jour d’août 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 12e jour d’octobre 2011.
+Marie-Christine Gervais
+Référence : 2011 CCI 406
+Date : 20110826
+Dossiers : 2011-431(EI)
+2011-432(CPP)
+ENTRE :
+CANADIAN BIO PELLET INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CHRISTOPHER MAYCOCK,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Christopher Maycock a demandé au ministre du Revenu national (le « ministre ») de rendre une décision en vertu de la Loi sur l’assurance-emploi et du Régime de pensions du Canada sur le fait qu’il était employé au service de Canadian Bio Pellet Inc. (« CBP ») pendant la période du 15 mai 2009 au 1er mars 2010.
+[2] Le ministre a conclu que M. Maycock était un employé. CBP fait appel de la décision et M. Maycock intervient.
+[3] La question principale est de savoir si M. Maycock était entrepreneur indépendant lorsqu’il a travaillé pour CBP. Il n’existe pas de critère de démarcation nette. Sont à considérer des facteurs comme le contrôle, les instruments de travail ainsi que les profits et les pertes. Il faut aussi s’assurer de l’existence d’une intention commune et, le cas échéant, établir si la relation entre les deux parties était conforme à cette intention.
+[4] J’appellerai chacun des principaux intéressés dans les présents motifs par leur prénom (Chris, Stan and Dan). Il n’y a aucune intention d’irrespect dans cette façon de procéder : il s’agit d’éviter toute confusion étant donné que deux des personnes portent le même nom de famille.
+Analyse
+[5] Stan et Dan Stasko sont des frères qui ont l’ambition de créer une entreprise de fabrication et de vente de granules de bois. CBP a été constituée en société dans ce but. Un travail considérable a été effectué afin de faire de ce projet une réalité, mais le financement du projet constitue un problème de taille qui n’a toujours pas été réglé.
+[6] Au moment où CBP préparait son plan d’affaires en 2008, l’entreprise a eu besoin d’une personne possédant de l’expérience dans le domaine de la fabrication qui aiderait à la rédaction du plan et deviendrait un jour responsable de l’usine. Chris, un ami de Dan, remplissait ces conditions.
+[7] Chris est venu en aide à CBP pendant environ six mois sans recevoir de rémunération, entre autres, parce qu’il recevait des prestations d’assurance-emploi pendant une partie de cette période. Ensuite, Chris a commencé à recevoir une rémunération à partir du 15 mai 2009. L’insuffisance de fonds rendait impossible une pleine rémunération et Chris a accepté une somme de 5000 $ par mois de façon provisoire. Il a découvert par la suite que les retenues à la source n’avaient pas été effectuées et il a mis fin à sa relation avec CBP le 1er mai 2010.
+[8] À peu près au moment où il a commencé à recevoir une rémunération, CBP a négocié un contrat de travail avec Chris et lui a présenté une entente écrite officielle.
+[9] Deux questions se posent relativement à cette entente, à savoir si celle-ci a été approuvée officiellement par Chris et si elle devait entrer en vigueur avant l’obtention de financement.
+[10] Pour ce qui est de savoir si l’entente a été approuvée officiellement par Chris, j’accepte le témoignage de ce dernier selon lequel ce fut le cas. Stan a témoigné en contre-interrogatoire qu’il ignorait qu’un contrat signé avait été retourné à CBP. Compte tenu de l’ensemble de la preuve, je conclus que le contrat a été approuvé officiellement par Chris. Je souligne, notamment, qu’un contrat signé a été déposé en preuve.
+[11] CBP soutient par ailleurs que le contrat ne devait pas entrer en vigueur avant l’obtention de financement. Le seul élément à l’appui de cette position est le témoignage intéressé de Stan. Le contrat écrit, pour sa part, donne fortement à penser qu’il devait entrer en vigueur indépendamment de l’obtention ou non de financement. Le contrat contenait assurément des conditions, mais le financement n’en faisait pas partie. De plus, l’ensemble de la preuve donne à penser que le contrat n’était pas conditionnel au financement. Je n’accepte pas le témoignage contraire de Stan.
+[12] CBP soutient que Chris aurait dû savoir que le contrat de travail n’était pas en vigueur parce que le montant mensuel fixe de 5000 $ qu’il avait accepté à titre de rémunération réduite donnait à penser que les retenues à la source n’étaient pas effectuées.
+[13] Je ne souscris pas à cet argument. Si CBP avait eu l’intention de ne pas faire de Chris un employé, Stan ou Dan lui en auraient probablement fait part de façon explicite, ce qui n’est pas le cas en l’espèce.
+[14] Je conclus que CBP et Chris voulaient tous les deux que la relation soit une relation employeur-employé.
+[15] Il reste à considérer si la conduite des parties était conforme à cette intention. Compte tenu de la preuve qui m’est présentée, je conclus que c’était bel et bien le cas.
+[16] La capacité de CBP de contrôler les méthodes de travail de Chris constitue un facteur clé pour déterminer la nature de leur relation. Le fait que les parties aient signé un contrat de travail laisse entendre qu’elles s’attendaient à ce que CBP exerce un contrôle sur Chris. Le contrat soutient aussi ce point de vue en stipulant que Chris devait rendre des comptes à Dan. Compte tenu de l’ensemble de la preuve, je conclus que les parties se sont comportées conformément à l’attente selon laquelle CBP était en mesure d’exercer un contrôle sur Chris. Il semble que Dan ait donné à Chris une liberté considérable, mais CBP a toujours conservé la capacité de diriger ce dernier. Je souligne également que Stan était le seul témoin en faveur de CBP. Dan aurait été mieux placé pour témoigner quant à la question du contrôle.
+[17] Les autres facteurs habituellement considérés, comme la propriété des instruments, la possibilité de profit et le risque de perte, sont de moindre importance dans cette affaire et leur influence s’avère neutre.
+[18] La conclusion à laquelle j’arrive est que Christopher Maycock était au service de CBP à titre d’employé pendant la période concernée.
+[19] L’appel est rejeté. Chaque partie supportera ses propres dépens.
+Signé à Ottawa (Ontario), ce 26e jour d’août 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 12e jour d’octobre 2011.
+Marie-Christine Gervais
+RÉFÉRENCE : 2011 CCI 406
+NOS DES DOSSIERS DE LA COUR : 2011-431(EI)
+2011-432(CPP)
+INTITULÉ : CANADIAN BIO PELLET INC. c. LE MINISTRE DU REVENU NATIONAL et CHRISTOPHER MAYCOCK
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 19 août 2011
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 26 août 2011
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Stan Stasko
+Avocate de l’intimé :
+Me Annie Paré
+Pour l’intervenant :
+L’intervenant lui-même
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : S/O
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)

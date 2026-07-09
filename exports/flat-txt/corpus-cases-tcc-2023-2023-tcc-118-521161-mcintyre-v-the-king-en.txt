@@ -1,0 +1,69 @@
+Title: McIntyre v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521161/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-118-521161-mcintyre-v-the-king-en.md
+Document type: case_law
+Last modified: 2023-10-18
+
+# McIntyre v. The King
+
+- Citation: 2023 TCC 118
+- Decision date: 2023-10-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5687, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McIntyre v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-10-18
+Neutral citation
+2023 TCC 118
+File numbers
+2023-1172(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2023 TCC 118
+Date: 20230810
+Docket: 2023-1172(IT)I
+BETWEEN:
+TRACY MCINTYRE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Before: The Honourable Justice Gaston Jorré, Deputy Judge
+ORDER AND REASONS FOR ORDER
+[1] This matter was brought to my attention by the Registry while I was acting as Duty Judge. They inquired as to whether this file, which was opened as an appeal, should be changed to a time extension application.
+[2] The circumstances here are unusual.
+[3] The Appellant has filed both an appeal and, in addition a time extension application to object.
+[4]According to the allegations of the Appellant[1]:
+She has not received and has been unable to obtain copies of the assessments giving rise to the dispute that has resulted in the Canada Revenue Agency saying that she owes some $17,000. The efforts of the Appellant to obtain the assessments include:
+Trying to access her online account. Unfortunately, she has been unable to access her online account since June 2022.
+In a letter dated 30 June 2022 to the CRA addressed to the National Collections/Compliance Centre, she asks for copies of the relevant assessments.
+A request for copies of the Notices of assessment in issue contained in the letter from her counsel to the appeals division of the CRA dated 10 February 2023; that letter was a request for an extension of time to file the Notices of Objection and attached a Notice of Objection.
+[5] It is fundamental to a taxpayer’s ability to exercise her or his rights that they be able to see any assessment made[2].
+[6] The registry of the court wrote to the Department of Justice[3] on 8 June 2023 requesting comments on the time extension application. As of the time of writing of this order no response has been received; however, a consent by the Appellant to the extension of the time for filing a Reply to Notice of appeal until 4 September 2023 was filed on 21 July 2023. That consent was also signed by an agent for the Respondent in Toronto. The Consent makes no mention of the time extension application.
+[7] Given the circumstances described above, in order to facilitate and expedite the hearing of the appeal, the Court on its own motion orders that[4]:
+The Respondent shall, on or before 20 September 2023, provide the Appellant and the court with a statement in writing as to its position with respect to: i) whether or not a time extension is necessary, ii) if it takes the position that a time extension is necessary, whether or not it opposes the time extension and iii) if it opposes a time extension, its reasons for doing so.
+If the Respondent’s Reply to Notice of appeal sets out its position with respect to the matters raised in 1 above, that shall fulfil the requirement set out in 1.
+On or before 20 October 2023, the Respondent shall provide the Appellant:
+with copies of all the assessments or reassessments that led to the balance owing of in excess of $17,000 referred to by the Appellant.
+If the Respondent is unable to provide these assessments in a format that is easy to read and understand (such as how they would look if sent by mail) and the Respondent is obliged to send a printout from the CRA’s electronic database(s) such as what is referred to as “Option C” then the Respondent shall simultaneously provide the name and telephone number of the counsel assigned to the file and who can provide assistance, if necessary, in how to read the printout.
+Unless the Respondent accepts i) that there is either a valid Notice of Objection before the CRA or ii) that there is a valid Notice of Appeal before the Court, given that issues may arise with respect to where the assessments were sent, the respondent shall:
+Provide to the Appellant its complete record of its contact information for the Appellant starting from the information as it was no later than 1 January 2015 and including all changes up to 1 June 2023.
+Unless it is self-evident from the record of the contact information provided, the Respondent shall provide copies of any other record necessary to show where each assessment in issue was sent.
+Signed at Ottawa, Canada, this 10th day of August 2023.
+“Gaston Jorré”
+Jorré D.J.
+[1] See the Notice of Appeal filed by the Appellant on 1 June 2023 and the letter filed by the Appellant on 2 June 2023 seeking a time extension application to object.
+[2] While I am well aware that the CRA is very backlogged for a variety of reasons, I must say that I am surprised that the appellant has been unable to obtain copies of the relevant assessments for a period of a year.
+[3] The Tax Litigation Section in Ottawa.
+[4] See Subsection 18.15(3) of the Tax Court of Canada Act.]

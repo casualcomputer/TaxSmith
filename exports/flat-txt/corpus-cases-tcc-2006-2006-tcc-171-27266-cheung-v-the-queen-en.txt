@@ -1,0 +1,100 @@
+Title: Cheung v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27266/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-171-27266-cheung-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-03-17
+
+# Cheung v. The Queen
+
+- Citation: 2006 TCC 171
+- Decision date: 2006-03-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 807, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cheung v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-17
+Neutral citation
+2006 TCC 171
+File numbers
+2005-1751(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1751(IT)I
+BETWEEN:
+KUK LAN CHEUNG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 6, 2006 at Toronto, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Agent for the Appellant:
+Geoff Kwok
+Counsel for the Respondent:
+Adam Rambert
+(Student-at-Law)
+____________________________________________________________________
+JUDGMENT
+The appeals from the redeterminations made under the Income Tax Act with respect to the Canada Child Tax Benefit for the base taxation years 2000, 2001 and 2002 are dismissed without costs in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of March, 2006.
+"T. O'Connor"
+O'Connor J.
+Citation: 2006TCC171
+Date: 20060317
+Docket: 2005-1751(IT)I
+BETWEEN:
+KUK LAN CHEUNG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] This appeal was heard in Torontoon March 6, 2006. The Appellant appeared and testified with the assistance of an Agent and a Cantonese Interpreter.
+[2] The matter concerns the Canada Child Tax Benefit ("CCTB") contemplated in section 122 of the Income Tax Act ("Act") and relates to the base taxation years 2000, 2001 and 2002 ("relevant years").
+[3] The Notice of Appeal referred to other years, namely 1999, 2003 and 2004 but it was agreed by the parties that this Court could grant no relief with respect to those years since no Notice of Objection had been made.
+[4] The Minister of National Revenue ("Minister") asserts that the Minister had correctly redetermined that there had been an overpayment to the Appellant of the CCTB in the total amount of $7,009.36 in the relevant years. This was because the Appellant had ceased living with her child, Agina Nga Ting Leung ("Child"), in 1999 with the result that the Child was not the Appellant's "qualified dependant" and the Appellant was therefore not the "eligible individual" for the Child as those terms are defined in section 122.6 of the Act. The Minister stated further that the Appellant had acknowledged the foregoing conclusion of the Minister and the only outstanding question was whether the overpayment had actually occurred, that is, did the Appellant actually receive the said sum of $7,009.36? The Minister's further position was that this was strictly a collection matter and that this Court had no jurisdiction to determine that issue, its jurisdiction being limited to the matters set forth in section 169 of the Act and section 12 of the Tax Court of Canada Act.
+[5] Whether or not the Appellant has accepted all of the Minister's conclusions, I am satisfied that the facts assumed by the Minister have been established and it is clear, based on those facts, that the Appellant was not the "eligible individual" in respect of the Child and was therefore not entitled to the CCTB payment of $7009.36.
+[6] The only issue, therefore is whether the said amount of $7,009.36 was actually paid to the Appellant and therefore whether the Minister is entitled to collect the said amount from the Appellant. In this regard the Appellant has stated in her Notice of Appeal that the amount in question had been deposited into a "bank account that does not belong to me and I have no access to it. In this situation, I didn't consider it should be my responsibility to repay the money that I have never received". Further the Appellant annexed to her Notice of Appeal a letter from RBC Financial Group dated February 10, 2005 which states:
+TO WHOM IT MAY CONCERN
+"This letter is to confirm that Ms. Kuk Lan Cheung is not a client of RBC Royal Bank located at 1571 Sandhurst Circle in Scarborough. She does not belong to the account 5006457 between July 2001 and April 2004. As such, she has no access to this account.
+These assertions by the Appellant may well be true, but as the Minister has stated, this is strictly a collection matter and this Court has no jurisdiction. Section 222 of the Act assigns jurisdiction to the Federal Court in these words:
+All taxes, interest, penalties, costs and other amounts payable under this Act are debts due to Her Majesty and recoverable as such in the Federal Court ...
+[7] Consequently, since this Court has no jurisdiction the appeal is dismissed without costs.
+[8] I must add however that if the Appellant has indeed not received the alleged overpayment of the CCTB she may assert her rights in the Federal Court against any attempts to recover the amount in question. As well she may raise the same defence of non-receipt with regard to any other collection attempts or procedures that may be taken by the Minister or the CCRA.
+[9] As stated above the appeal is dismissed without costs, reserving however to the Appellant her right to raise the defence of non-payment.
+Signed at Ottawa, Canada, this 17th day of March, 2006.
+"T. O'Connor"
+O'Connor J.
+CITATION: 2006TCC171
+COURT FILE NO.: 2005-1751(IT)I
+STYLE OF CAUSE: KUK LAN CHEUNG AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 6, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice T. O'Connor
+DATE OF JUDGMENT: March 17, 2006
+APPEARANCES:
+Agent for the Appellant:
+Geoff Kwok
+Counsel for the Respondent:
+Adam Rambert (Student-at-Law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

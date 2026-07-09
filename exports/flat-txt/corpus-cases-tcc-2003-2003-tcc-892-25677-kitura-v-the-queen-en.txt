@@ -1,0 +1,147 @@
+Title: Kitura v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25677/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-892-25677-kitura-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-12-03
+
+# Kitura v. The Queen
+
+- Citation: 2003 TCC 892
+- Decision date: 2003-12-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3835, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kitura v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-03
+Neutral citation
+2003 TCC 892
+File numbers
+2003-964(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-964(IT)I
+BETWEEN:
+GREG KITURA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 17, 2003, at Edmonton, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Julie Rogers-Glabush
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 2000 taxation year is dismissed.
+Signed at Ottawa, Canada, this 3rd day of December, 2003.
+"Campbell J. Miller"
+Miller J.
+Citation: 2003TCC892
+Date: 20031203
+Docket: 2003-964(IT)I
+BETWEEN:
+GREG KITURA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Mr. Greg Kitura appeals, by way of informal procedure, the decision of the Minister of National Revenue (the "Minister") to include in income $10,000 that Mr. Kitura withdrew from his Registered Retirement Savings Plan (RRSP) in 2000, as part of the Lifelong Learning Plan (the "LLP"). The Minister's position is that Mr. Kitura's $10,000 withdrawal did not qualify as an eligible amount, because the educational institution he attended was not a designated education institution, and also because Mr. Kitura was not in full-time attendance, as required by section 146.02(1) of the Income Tax Act. Mr. Kitura disagrees with both of the Minister's reasons.
+[2] Mr. Kitura enrolled in a degree program at California Coast University ("CCU") in October 1998, switching to the MBA program in 1999. He did so because his employer in High Level, Alberta, had previously encouraged senior employees to enroll in that program and some had done so. Mr. Kitura obtained and reviewed a publication from Canada Customs and Revenue Agency ("CCRA") entitled "Lifelong Learning Plan" and based on that review, believed he qualified. He withdrew funds from his RRSP and enrolled in the program on the assumption that his withdrawal from his RRSP would not be brought into income.
+[3] Mr. Kitura had looked at other correspondence courses across Canada but believed the CCU best fit his requirements. The program required nine courses, each for a duration of three months. Mr. Kitura confirmed that he spent approximately 10 to 15 hours a week on his course work. In the year 2000, he took three courses over a nine-month period. During this time, Mr. Kitura continued to work full-time, although he had since moved back to Edmonton from High Level, where he had first started the program. Mr. Kitura has taken eight of nine courses towards his MBA at CCU since starting the program.
+[4] The relevant legislation in connection with the LLP is as follows:
+146.02(1) The definitions in this subsection apply in this section.
+"eligible amount" of an individual means a particular amount received at a particular time in a calendar year by the individual as a benefit out of or under a registered retirement savings plan if
+(a) the particular amount is received after 1998 pursuant to the individual's written request in a prescribed form;
+(b) in respect of the particular amount, the individual designates in the form a person (in this definition referred to as the "designated person") who is the individual or the individual's spouse or common-law partner;
+(c) the total of the particular amount and all other eligible amounts received by the individual at or before the particular time and in the year does not exceed $10,000;
+(d) the total of the particular amount and all other eligible amounts received by the individual at or before the particular time (other than amounts received in participation periods of the individual that ended before the year) does not exceed $20,000;
+(e) the individual did not receive an eligible amount at or before the particular time in respect of which someone other than the designated person was designated (other than an amount received in a participation period of the individual that ended before the year);
+(f) the designated person
+(i) is enrolled at the particular time as a full-time student in a qualifying educational program, or
+(ii) has received written notification before the particular time that the designated person is absolutely or contingently entitled to enrol before March of the following year as a full-time student in a qualifying educational program;
+(g) the individual is resident in Canada throughout the period that begins at the particular time and ends immediately before the earlier of
+(i) the beginning of the following year, and
+(ii) the time of the individual's death;
+(h) except where the individual dies after the particular time and before April of the following year, the designated person is enrolled as a full-time student in a qualifying educational program after the particular time and before March of the following year and
+(i) the designated person completes the program before April of the following year,
+(ii) the designated person does not withdraw from the program before April of the following year, or
+(iii) less than 75% of the tuition paid, after the beginning of the year and before April of the following year, in respect of the designated person and the program is refundable; and
+(i) if an eligible amount was received by the individual before the year, the particular time is neither
+(i) in the individual's repayment period for the individual's participation period that includes the particular time, nor
+(ii) after January (or a later month where the Minister so permits) of the fifth calendar year of that participation period. ...
+"excluded withdrawal" of an individual means
+(a) an eligible amount received by the individual; or
+...
+"qualifying educational program" means a qualifying educational program (as defined in subsection 118.6(1)) at a designated educational institution (as defined in subsection 118.6(1)), except that the definition "qualifying educational program" in subsection 118.6(1) shall be read
+(a) without reference to paragraphs (a) and (b) of that definition; and
+(b) as if the expression "3 consecutive weeks" were "3 consecutive months".
+118.6(1) For the purposes of sections 63 and 64 and this subdivision,
+"designated educational institution" means
+(a) an educational institution in Canada that is ...
+(b) a university outside Canada at which the individual referred to in subsection (2) was enrolled in a course, of not less than 13 consecutive weeks duration, leading to a degree, or
+"qualifying educational program" means a program of not less than 3 consecutive weeks duration that provides that each student taking the program spend not less than 10 hours per week on courses or work in the program and, in respect of a program at an institution described in the definition "designated educational institution" (other than an institution described in subparagraph (a)(ii) thereof), that is a program at a post-secondary school level ...
+146(8) There shall be included in computing a taxpayer's income for a taxation year the total of all amounts received by the taxpayer in the year as benefits out of or under registered retirement savings plans, other than excluded withdrawals (as defined in subsection 146.01(1) or 146.02(1)) of the taxpayer and amounts that are included under paragraph (12)(b) in computing the taxpayer's income.
+56(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+...
+(h) amounts required by section 146 in respect of a registered retirement savings plan or a registered retirement income fund to be included in computing the taxpayer's income for the year;
+[5] There is no dispute that Mr. Kitura's withdrawal from his RRSP meets the criteria set forth in the definition of "eligible amount" in all respects, other than the qualifications that: (i) the institution, CCU, must be a designated educational institution; and (ii) he must be a full-time student.
+[6] The first issue to address is whether CCU is a designated educational institution. The Respondent advises that, in determining whether an institution outside Canada is a designated educational institution, CCRA follows guidelines in Interpretation Bulletin 516R2. Pursuant to these guidelines, a designated educational institution must be recognized by an accrediting body that is nationally accepted in the country of the institution. With respect to the United States, guidelines provide that an institution listed in the current edition of "Accredited Institutions of Postsecondary Education" published by the American Council on Education, and indicated in that publication as being an institution granting degrees at the Bachelor level or higher, will qualify. An institution listed in Schedule VIII of the Income Tax Regulations will also qualify. CCU is not listed in Schedule VIII nor in the American Council's publication. The Minister, through an affidavit of one of his employees, Roxanne Rawluk, also submitted that a search of the website of the Western Association of Schools and Colleges from California did not reveal CCU. Her affidavit evidence did not indicate what other searches, if any, were performed.
+[7] Mr. Kitura provided a copy of the certificate from the Council for Private Postsecondary and Vocational Education[1] issued in accordance with the provisions of California Education Code Section 94310. It stated that:
+California Coast University ... is granted Institutional Approval to provide the following degree programs ... MBA...
+A letter dated November 6, 2003 from CCU to counsel for the Respondent indicated its degree programs are categorized as part-time or half-time by the State of California, Bureau for Private Postsecondary and Vocational Education. I am satisfied that, notwithstanding the form of accreditation CCRA requires for their purposes, CCU was a university outside Canada at which Mr. Kitura was enrolled in a course of not less than 13 consecutive weeks' duration leading to a degree. He also spent more than the required number of hours per week on work in the program. He meets the first criteria of having been enrolled in a qualifying educational program at a designated educational institution.
+[8] The second issue is whether Mr. Kitura was enrolled as a full-time student. There is no doubt that Mr. Kitura spent considerable time on his studies, certainly sufficient to meet the requirement of 10 hours per week. However, he was not a full-time student. He took one three-month course at a time, while carrying on his full-time employment. He was undoubtedly a busy man. But that is the nature and the lot, if you will, of someone returning to education through the sensible route of correspondence courses. They are by their nature not full-time pursuits. This is confirmed by the correspondence from CCU which advises they are only registered as part-time or half-time. Mr. Kitura could not be enrolled full-time even if he wanted.
+[9] Mr. Kitura expressed concern that the package provided by CCRA misled him into believing he would qualify, as it talked in terms of a program of 10 hours per week for three consecutive months, thresholds Mr. Kitura believed he had no trouble meeting. I accept that he met these requirements. But there is the additional requirement that the enrolment be full-time. The publication from CCRA did indicate:
+Normally the enrolment has to be on full-time basis at the educational institution.
+I can appreciate how Mr. Kitura might conclude the criteria cited earlier established the rules for full-time. Unfortunately for Mr. Kitura, they do not. One course at a time by correspondence over a three-month period from a university only authorized to offer programs in a part-time or half-time basis does not constitute "full-time" for purposes of the LLP.
+[10] Mr. Kitura is to be commended for his initiative and hard work. Regrettably, the nature of his studies does not qualify the $10,000 withdrawal from his RRSP as an eligible amount.
+[11] The appeal is dismissed.
+Signed at Ottawa, Canada, this 3rd day of December, 2003.
+"Campbell J. Miller"
+Miller J.
+CITATION:
+2003TCC892
+COURT FILE NO.:
+2003-964(IT)I
+STYLE OF CAUSE:
+Greg Kitura and Her Majesty the Queen
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+September 17, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+December 3, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Julie Rogers-Glabush
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1.

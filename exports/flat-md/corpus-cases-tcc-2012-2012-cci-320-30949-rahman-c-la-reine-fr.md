@@ -1,0 +1,155 @@
+---
+title: "Rahman c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30949/index.do"
+last_modified: "2012-09-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 320"
+citation2: ""
+neutral_citation: "2012 CCI 320"
+decision_date: "2012-09-07"
+language: "fr"
+item_id: "30949"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4823
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:25:16.936000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "deb5af21ad071978dea7c786c047f09f48f1010555c594c5ec8c0b3b8fb25a1d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rahman c. La Reine
+
+- Citation: 2012 CCI 320
+- Decision date: 2012-09-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4823, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rahman c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-09-07
+Référence neutre
+2012 CCI 320
+Numéro de dossier
+2012-538(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-538(IT)I
+ENTRE :
+MOHAMMED RAHMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 27 août 2012, à Toronto (Ontario).
+Devant : L’honorable juge J. M. Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Pour l’intimée :
+Me Ernesto Caceres
+Cameron Baradargohari (stagiaire en droit)
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2006 et 2007 est accueilli, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que :
+1. le revenu que l’appelant a tiré de l’entreprise de taxis pour l’année d’imposition 2006 s’élève à 8 112 $;
+2. selon le calcul du revenu que l’appelant a tiré de l’entreprise de taxis pour l’année d’imposition 2007 : 1) les ventes de l’appelant s’élèvent à 49 779 $, 2) l’appelant a supporté une dépense de 12 000 $ à des fins de location de taxi, et 3) l’appelant a droit à une déduction supplémentaire de 2 500 $ au titre de ses frais d’essence;
+3. les pénalités pour faute lourde doivent être annulées pour les deux années en cause.
+Chaque partie assumera ses propres dépens.
+Signé à Ottawa (Ontario), ce 7e jour de septembre 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 23e jour d’octobre 2012.
+Alya Kaddour, traductrice
+Référence : 2012 CCI 320
+Date : 20120907
+Dossier : 2012-538(IT)I
+ENTRE :
+MOHAMMED RAHMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] L’appelant, Mohammed Rahman, conduisait un taxi à Toronto pendant les années d’imposition 2006 et 2007. Dans ses déclarations de revenus, l’appelant a fait état de revenus d’entreprise tirés de cette activité s’élevant respectivement à 8 112 $ et à 10 093 $.
+[2] M. Rahman a interjeté appel à l’égard des cotisations établies en vertu de la Loi de l’impôt sur le revenu qui majoraient le revenu qu’il a tiré de l’entreprise d’environ 50 000 $ pour 2006 et d’environ 40 000 $ pour 2007. Les cotisations lui imposaient également des pénalités pour faute lourde pour les deux années.
+[3] Au début de l’audience, la Couronne a informé la Cour qu’elle concédait les points suivants :
+- le revenu tel que l’appelant l’a déclaré pour l’année d’imposition 2006,
+- le revenu et la déduction pour location de taxi tels que l’appelant les a déclarés pour l’année d’imposition 2007,
+- l’annulation des pénalités pour faute lourde pour les deux années en cause.
+[4] Les montants pertinents sont énumérés à l’annexe A de la réponse de la Couronne et ne seront pas reproduits dans les présents motifs.
+[5] Les autres questions se rapportent aux déductions que l’appelant a demandées pour l’année d’imposition 2007 au titre des montants qui, selon sa déclaration de revenus, correspondent à des frais payés relativement à l’essence, aux réparations et à l’entretien et à l’assurance ainsi qu’à des frais de courtage.
+[6] M. Rahman était le seul témoin à comparaître à l’audience. Il a affirmé avoir conduit un taxi appartenant à Amir Kahn de 2005 à 2007, précisant que M. Kahn avait recours aux services de courtage de Blue and White Taxi. M. Rahman a déclaré qu’il effectuait les quarts de travail de huit heures que M. Kahn lui attribuait et qu’il conduisait normalement le même taxi, mais qu’il pouvait lui arriver d’en conduire un autre quand son véhicule habituel était en réparation.
+[7] M. Rahman a déclaré avoir versé à M. Kahn une somme de 25 150 $ en 2007 au titre de la location du taxi. L’appelant a affirmé avoir réparti ce montant de la manière suivante dans sa déclaration de revenus : 1) il a dépensé 12 000 $ en frais de location de taxi, 2) il a dépensé 2 350 $ en frais de réparations et d’entretien à l’égard du véhicule, 3) il a versé 5 400 $ à M. Kahn afin de faire assurer le véhicule, et 4) il a payé 5 400 $ au titre des frais de courtage de M. Kahn à l’égard du véhicule. En outre, M. Rahman a affirmé avoir payé des frais d’essence de 13 250 $.
+[8] La Couronne conteste la plupart des frais de réparations (1 975 $), environ un tiers des frais d’essence (4 865 $), l’intégralité des frais d’assurance (5 400 $) et l’intégralité des frais de courtage (5 400 $).
+[9] Je voudrais d’abord souligner le fait que l’avocat de l’intimée a refusé de divulguer à l’audience la raison pour laquelle il avait fait des concessions, malgré le fait que l’appelant l’en ait prié. M. Rahman a laissé entendre que le fait que la Couronne ait fait des concessions pour 2006 venait appuyer sa position à l’égard de l’année 2007 parce que les montants globaux dont il demande la déduction sont très semblables.
+[10] Je ne peux pas souscrire à l’opinion de M. Rahman sur ce point. Les concessions que la Couronne a faites pour l’année 2006 ne sont pas pertinentes dans le contexte des conclusions de fait tirées pour 2007. Il y a beaucoup de raisons possibles pour expliquer le fait que la Couronne ait fait de telles concessions, raisons qui n’ont rien à voir avec les faits réels concernant l’entreprise de M. Rahman. La Couronne a choisi de ne pas divulguer les raisons pour lesquelles elle avait concédé certains points et il s’agit là de sa prérogative.
+[11] En ce qui concerne la preuve relative à l’année 2007, le principal problème que me pose la position de M. Rahman réside dans le fait que ce dernier ne dispose de presque aucun document indiquant que les montants en cause ont été payés. Tous les montants en cause ont été acquittés en liquide, exception faite d’une partie des frais d’essence, la plupart des fournisseurs de l’appelant ayant insisté pour qu’il les paie en liquide et ayant refusé de lui donner des reçus. De plus, tout reçu que M. Rahman avait en sa possession a été perdu. La position de M. Rahman est d’autant plus fragile qu’il n’a pas cité de témoin à comparaître en vue d’étayer ses affirmations.
+[12] Les frais d’essence mis à part, je ne crois pas que M. Rahman ait établi de preuve prima facie lui permettant de réfuter les hypothèses du ministre.
+[13] Pour donner foi au témoignage de M. Rahman, il me faudrait tenir pour acquis les faits suivants :
+- M. Rahman a tiré un très faible revenu (10 000 $) de son entreprise en 2007, et ce, en dépit du fait qu’il a effectué des quarts de travail réguliers tout au long de l’année,
+- M. Rahman a payé des frais de réparations et d’entretien à l’égard du taxi en dépit du fait que ce véhicule était utilisé 24 heures sur 24 et l’appelant ne le conduisait que pendant des périodes de huit heures,
+- tous les documents étayant la position de M. Rahman ont été égarés par son ancien propriétaire.
+[14] Il est possible que toutes ces hypothèses soient fondées, mais je suis d’avis que cela est improbable. En outre, le témoignage de M. Rahman n’était pas assez détaillé pour constituer une preuve prima facie.
+[15] Je voudrais également souligner le fait que M. Rahman a l’obligation légale de tenir des registres et des livres de comptes suffisants pour corroborer les montants qu’il indique dans ses déclarations de revenus. En payant ses fournisseurs en liquide et en n’obtenant pas de reçus, M. Rahman s’est mis en position d’incapacité de s’acquitter de cette obligation.
+[16] Dans les circonstances, la cotisation établie pour 2007 devrait être confirmée en ce qui a trait aux frais de réparations et d’entretien, d’assurance et de courtage.
+[17] En ce qui a trait aux frais d’essence, le ministre a présumé que les frais d’essence étaient constitués à 20 % de frais personnels. Je suis prête à accepter que la partie de ces frais attribuée à des fins personnelles est trop élevée. Je propose d’autoriser une déduction additionnelle de 2 500 $ au titre des frais d’essence que l’appelant a payés.
+[18] Par conséquent, l’appel sera accueilli et les cotisations seront renvoyées au ministre pour nouvelle cotisation, compte tenu des concessions que la Couronne a faites ainsi que d’un montant additionnel de 2 500 $ au titre des frais d’essence pour 2007.
+[19] Chaque partie assumera ses propres dépens.
+Signé à Ottawa (Ontario), ce 7e jour de septembre 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 23e jour d’octobre 2012.
+Alya Kaddour, traductrice
+RÉFÉRENCE : 2012 CCI 320
+NO DU DOSSIER DE LA COUR : 2012-538(IT)I
+INTITULÉ : Mohammed Rahman c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 27 août 2012
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 7 septembre 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Pour l’intimée :
+Me Ernesto Caceres
+Cameron Baradargohari (stagiaire en droit)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s/o
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa (Ontario)

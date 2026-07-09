@@ -1,0 +1,159 @@
+Title: Clitis c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521029/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-164-521029-clitis-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2022-12-15
+
+# Clitis c. Le Roi
+
+- Citation: 2022 CCI 164
+- Decision date: 2022-12-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5794, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Clitis c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-12-15
+Référence neutre
+2022 CCI 164
+Numéro de dossier
+2021-652(GST)APP
+Juges et Officiers taxateurs
+Jean Marc Gagnon
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2021-652(GST)APP
+ENTRE :
+BRUCE LEE CLITIS,
+requérant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Demande de prorogation du délai entendue le
+21 septembre 2022 à Montréal (Québec)
+Devant : L’honorable juge Jean Marc Gagnon
+Comparutions :
+Pour le requérant :
+Le requérant lui-même
+Avocat de l’intimé :
+Me Ryan Allen
+JUGEMENT
+APRÈS lecture de la demande de prorogation du délai pour interjeter appel des cotisations établies en vertu de la Partie IX de la Loi sur la taxe d’accise dont l’avis est daté du 27 février 2018 pour les périodes du 1er octobre 2009 au 31 décembre 2009 et 1er octobre 2012 au 31 décembre 2012 du requérant, et dont l’avis est daté du 6 juin 2019 pour les périodes du 1er octobre 2010 au 31 décembre 2010 et 1er octobre 2011 au 31 décembre 2011 du requérant;
+ET APRÈS avoir entendu les deux parties et lecture des pièces déposées à l’audition;
+La demande est rejetée sans frais conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 15e jour de décembre 2022.
+« J.M. Gagnon »
+Juge Gagnon
+Référence : 2022 CCI 164
+Date : 20221215
+Dossier : 2021-652(GST)APP
+ENTRE :
+BRUCE LEE CLITIS,
+requérant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Gagnon
+I. Contexte
+[1] Monsieur Clitis, qui est le requérant, se représente seul. Il demande à la Cour d’émettre une ordonnance afin de proroger le délai pour interjeter appel des cotisations établies en vertu de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15, telle que modifiée (« LTA »), par l’Agence du revenu du Québec, en qualité de mandataire de la ministre du Revenu national (« Ministre »), et dont les avis adressés au requérant sans numéro sont datés du (i) 27 février 2018 pour les périodes de déclaration du requérant du 1er octobre 2009 au 31 décembre 2009 et du 1er octobre 2012 au 31 décembre 2012 et (ii) 6 juin 2019 pour les périodes de déclaration du requérant du 1er octobre 2010 au 31 décembre 2010 et du 1er octobre 2011 au 31 décembre 2011 (collectivement « Cotisations »).
+[2] La question en litige est de déterminer si les conditions du paragraphe 305(5) LTA sont remplies afin de permettre à la Cour de faire droit à la demande de prorogation du délai d’appel de monsieur Clitis à l’encontre des Cotisations.
+II. Introduction
+[3] Monsieur Clitis est un inscrit aux fins de la taxe sur les produits et services conformément aux dispositions de la LTA. Le requérant dépose un avis d’opposition à l’encontre de l’avis de cotisation daté du 27 février 2018 émis par l’Agence du revenu du Québec mandataire de la Ministre à cette fin (« Mandataire »). La cotisation vise alors 4 périodes de déclaration du requérant soit la période du 1er octobre au 31 décembre de chacune des années 2009, 2010, 2011 et 2012. Une décision sur opposition en date du 14 mai 2019 adressée au requérant confirme la décision de la Mandataire pour deux périodes de déclaration et l’émission d’un avis de nouvelle cotisation concernant les deux autres périodes de déclarations. Les nouvelles cotisations sont émises en date du 6 juin 2019 et visent uniquement la période de déclaration du 1er octobre au 31 décembre de chacune des années 2010 et 2011. La période de déclaration du 1er octobre au 31 décembre de chacune des années 2009 et 2012 n’est pas modifiée et demeure visée par l’avis de cotisation daté du 27 février 2018. Les nouvelles cotisations incluent des ajustements au calcul des crédits de taxe sur les intrants réclamés par le requérant.
+[4] Aucun avis d’opposition ou avis d’appel n’est déposé par monsieur Clitis dans les 90 jours suivant la décision sur opposition datée du 14 mai 2019 ou l’avis de nouvelle cotisation du 6 juin 2019. Le 11 décembre 2020, une demande de prorogation du délai pour interjeter un avis d’appel est présentée par le requérant au greffe de la Cour. Bien que la demande n’indique pas clairement les périodes de déclaration concernées, les pièces au soutien de la demande supportent la position voulant que les 4 périodes de déclaration au soutien des Cotisations soient visées par la demande de prorogation.
+[5] Il s’est alors écoulé depuis l’expiration du délai d’appel de 90 jours jusqu’à la présentation de la demande de prorogation, une période de 487 jours en regard de la décision sur opposition datée du 14 mai 2019 et de 464 jours en regard des cotisations datées du 6 juin 2019. 464 jours représentent approximativement 15 mois ou 1 an et 3 mois. La période peut excéder une année en raison des mesures adoptées en vertu de la Loi concernant des mesures supplémentaires liées à la COVID-19 et la Partie 3 édictant la Loi sur les délais et autres périodes (COVID-19), L.C. 2020, ch. 11, art. 11.
+[6] Le motif invoqué par monsieur Clitis au soutien de sa demande de prorogation est succinct et demande à obtenir une prolongation pour contester la décision de la Mandataire « … puisque le comptable responsable de mon dossier n’a pas procédé au traitement de mon dossier comme convenu dans les délais demandé [sic]. … ». La demande de prorogation ne contient aucun autre motif.
+[7] Seul monsieur Clitis témoigne à l’audition. Du témoignage du requérant, la Cour retient un témoin dont la crédibilité n’est pas sans tache et dont la fiabilité présente des lacunes. Dit autrement, le témoin laisse une impression de sincérité, mais des réponses évasives et des détails factuels importants à des questions centrales sont manquants et soulèvent un doute affectant la franchise des réponses formulées. Tous ces éléments amènent la Cour à reconnaître une faible force probante à son témoignage. De plus, la valeur probante de son récit et la justesse lors de la présentation des faits sont malheureusement déficientes. Il est difficile d’établir une position et une compréhension claires eu égard aux circonstances et aux explications que le témoin avance lors de son témoignage. Cette situation est d’autant plus préjudiciable au requérant en raison de la longue durée de 577 jours au cours de laquelle le requérant est appelé à fournir des explications pour soutenir sa position.
+[8] La Cour comprend de monsieur Clitis qu’il désire obtenir plus de temps de la Mandataire pour lui permettre de recueillir le plus d’informations manquantes possible au soutien de ses périodes de déclaration produites et qu’il tentera à nouveau de faire des démarches auprès des tiers qui détiendraient ces informations. Il désire également que la Mandataire accepte le rapport qu’un comptable aurait préparé, mais qui aurait été transmis malheureusement une fois la décision sur opposition rendue.
+[9] De son côté, l’intimé ne conteste pas la condition de l’alinéa 305(5)a) LTA. Cette condition est consentie et ne fait pas l’objet du présent appel.
+[10] Cependant, l’intimé soutient que les quatre conditions de l’alinéa 305(5)b) LTA n’ont pas été satisfaites par le requérant. Selon l’intimé, ces conditions n’ont pas été prouvées ni alléguées par le requérant. Le requérant n’explique pas entre autres le délai de 577 jours entre la réception de la décision sur opposition et sa demande de prorogation déposée le 11 décembre 2020. Le requérant n’a donc pas satisfait le fardeau qui lui incombe. Selon l’intimé, la demande doit être rejetée.
+III. Analyse
+[11] Pour donner droit à la demande de prorogation dans le présent dossier, les quatre conditions de l’alinéa 305(5)b) LTA doivent être remplies. L’alinéa 305(5)b) LTA stipule qu’il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+305(5). Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) …
+b) la personne démontre ce qui suit :
+(i) dans le délai d’appel par ailleurs imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+(notre soulignement)
+[12] Il incombe au requérant d’établir, selon la balance des probabilités, que chacune de ces quatre conditions est rencontrée en l’espèce, à défaut de quoi la demande de prorogation du requérant doit être rejetée (l’affaire Dewey c Canada, 2004 CAF 82). Ces conditions et les responsabilités en découlant furent discutées avec le requérant à l’audition.
+[13] Afin de déterminer si le requérant a rencontré son fardeau, la Cour dispose de sa demande de prorogation et de son témoignage lors de l’audition.
+[14] La Cour a écouté attentivement le témoignage de monsieur Clitis. Malheureusement, la Cour doit conclure que plusieurs des explications formulées lors de son témoignage demeurent vagues, incomplètes, imprécises, ou sans réponse convaincante. Plusieurs des explications fournies et des propos tenus lors de son témoignage s’avèrent désordonnés et décousus.
+[15] Le témoignage de monsieur Clitis repose davantage sur un amalgame de propos et d’explications en lien avec le déroulement des discussions avec la Mandataire concernant le dépôt des périodes de déclaration réclamées par la Mandataire, la vérification qui a suivi et le processus d’opposition.
+[16] Malgré l’assistance que la Cour a pu apporter à monsieur Clitis, la situation telle qu’exprimée par ce dernier est difficile à saisir et nuit considérablement à convaincre la Cour eu égard aux circonstances qui pourraient au moment de présenter sa preuve lui être favorables.
+A. Sous-alinéa 305(5)b)(i) LTA
+[17] Le sous-alinéa 305(5)b)(i) peut être satisfait si le requérant démontre par prépondérance de preuve qu’il n’a pu ni agir ni mandater quelqu’un pour agir en son nom dans le délai de 90 jours suivant la décision sur opposition datée du 14 mai 2019 et l’avis de cotisation daté du 6 juin 2019, selon le cas, ou qu’il avait véritablement l’intention d’interjeter appel dans ce même délai de 90 jours.
+[18] La preuve du requérant dans le cas présent ne peut être tirée que de son témoignage. Lui seul a eu l’opportunité d’expliquer les faits, les difficultés rencontrées, ses intentions, les initiatives entreprises pour arriver à ses fins.
+[19] Après que monsieur Clitis ait résumé la situation dans laquelle il se trouve, la Cour a demandé à monsieur Clitis s’il était en mesure de décrire son état d’esprit après avoir reçu la décision sur opposition datée du 14 mai 2019 et l’avis de nouvelle cotisation daté du 6 juin 2019. Dans le cadre d’une première partie de réponse monsieur Clitis réfère à une rafale de réflexion qui l’anime incluant qu’il ne pouvait pas accepter la décision rendue, mais qu’il ne savait pas comment faire, ne connaissait pas les façons de faire et n’avais pas les moyens de payer un avocat ou quoi que ce soit pour entrer dans ce dossier. Il déclare lors de cette même réponse avoir été informé lors d’une conversation téléphonique avec la Mandataire, que la Cour comprend concomitante à la décision sur opposition rendue et l’émission de l’avis de nouvelle cotisation, que son droit est de présenter une demande à la Cour s’il est en désaccord avec la décision. Ce témoignage confirme que monsieur Clitis est alors informé et au fait de ce qu’il peut faire pour manifester son désaccord s’il le désire à ce stade.
+[20] En poursuivant son témoignage, monsieur Clitis reconnaît que 18 mois s’écoulent entre juin 2019 (moment de la décision sur opposition rendue et l’émission de l’avis de nouvelle cotisation) et décembre 2020 et pendant cette période il croit que c’est réglé, que le problème est réglé, que la Mandataire a reçu les documents. Mais il est informé finalement par la Mandataire qu’elle n’a pas reçu tous les documents d’un comptable dont il avait retenu les services pour l’assister au cours de la période précédant la décision sur opposition. Monsieur Clitis fait allusion à une ou des lettres reçues de la Mandataire pour tenter de se situer dans le temps bien après le délai d’appel de 90 jours. Toutefois, aucune de ces lettres ou autres correspondances n’est déposée en preuve.
+[21] Au sujet du comptable, monsieur Clitis mentionne avoir retenu ses services aux fins de l’assister dans le processus de préparation et de remise de ses périodes de déclaration de la taxe sur les produits et services à la Mandataire. Le comptable aurait été fautif dans l’accomplissement de son mandat auprès de la Mandataire en omettant de transmettre ledit rapport antérieurement à la décision sur opposition datée du 14 mai 2019. C’est une fois avoir été informé par la Mandataire que le rapport n’aurait pas été remis par le comptable qui le motivera à déposer sa demande de prorogation de délai le 11 décembre 2020.
+[22] Le témoignage de monsieur Clitis ne permet pas d’identifier une manifestation véritable d’intention de monsieur Clitis d’en appeler dans le délai d’appel par ailleurs imparti de 90 jours. Il termine un processus de remise de périodes de déclaration successives, d’une vérification de ces remises et d’opposition qui l’ont tour à tour obligé à poser des gestes et prendre des décisions avec l’assistance d’un conseiller. Ayant maintenant décidé d’agir seul post-opposition, et bien qu’il se serait dit je n’accepte pas leur décision et que la Mandataire lui confirme qu’il peut en appeler de la décision s’il est en désaccord, la preuve ne démontre pas une intention, un geste concret, une démarche, une vérification ou une initiative quelconque, ou une suite à son prétendu désaccord. Il est peu probant pour la Cour de conclure d’une véritable volonté d’interjeter appel lorsque l’on est informé de ses droits, qu’aucun empêchement d’agir n’est présenté et que rien n’est fait. Même une interprétation libérale aussi permissive soit-elle de la condition du sous-alinéa 305(5)b)(i) doit tenir compte de la qualification nécessitant que l’intention soit véritable.
+[23] Au surplus, il précise plus loin dans son témoignage qu’il croit le tout réglé et que ce n’est qu’au moment où il apprend bien après le délai d’appel expiré qu’un rapport n’aurait pas été déposé par un comptable qu’il décide de déposer une demande de prorogation.
+[24] Le témoignage du requérant ne permet d’établir aucune action entreprise par ce dernier au cours de la période de 90 jours bien qu’informé de son droit d’appel au cours de cette période. Son désaccord initial qui serait le fruit d’une réflexion personnelle est sans suite et rien ne sera fait à cet égard. Aux yeux de la Cour, ce désaccord est plus qu’incertain. Son inaction, plus tard confirmée par son témoignage contradictoire que tout est réglé, laisse peu convaincante une personne prétendument engagée à en appeler d’une décision. Similairement à l’affaire Di Modica c La Reine, [2001] A.C.I. no 620, 2002 DTC 1290 (para. 15), il n’est pas possible de prendre note dans la preuve établie par monsieur Clitis d’un quelconque signe clair pouvant soutenir une intention véritable d’interjeter appel pendant le délai imparti de 90 jours et cette situation laisse dans son ensemble une impression insuffisante pour convaincre la Cour qu’il a satisfait son fardeau.
+[25] Si un moment semble justifier ou véritable pour le requérant d’en appeler ce premier moment prend naissance au moment de la production de la demande de prorogation. Il est alors trop tard.
+[26] Monsieur Clitis n’a pas non plus démontré ou présenté quelque explication ou circonstance fiable pouvant laisser croire qu’il n’a pu ni agir ni mandater quelqu’un pour agir en son nom durant ces mêmes 90 jours. La Cour conclut donc à cet égard que monsieur Clitis est en contrôle de la situation tout au long de cette période de 90 jours et en mesure de prendre une décision.
+[27] Dans Sapi c La Reine, 2016 CCI 239, le juge Visser reprend le passage suivant de la décision Kolmar c La Reine, 2003 CCI 829 qui fait certes écho dans le cas présent considérant que les conditions d’application d’une demande de prorogation sont les mêmes aux fins de l’impôt sur le revenu qu’aux fins de la taxe d’accise :
+Une fois que le ministre envoie un avis au contribuable par lequel il confirme la cotisation ou qu’il a établi une nouvelle cotisation après une opposition, le contribuable dispose de 90 jours à partir de la date d’envoi de l’avis pour interjeter appel devant la Cour : paragraphe 169(1). [Le contribuable peut également interjeter appel à l’encontre d’une cotisation si 90 jours se sont écoulés depuis le dépôt de l’avis d’opposition et que le ministre ne l’a pas informé qu’il avait annulé ou confirmé la cotisation ou la nouvelle cotisation.] Pendant cette période de 90 jours, le contribuable doit rassembler toutes ses forces, organiser sa documentation, obtenir des conseils juridiques, etc., pour élaborer un avis d’appel et le déposer devant la Cour. L’article 167 constitue une exception à l’article 169. Toutes les conditions prévues au paragraphe 167(5) doivent être remplies avant qu’une ordonnance de prorogation du délai pour interjeter appel ne puisse être rendue. Le contribuable doit démontrer, entre autres, qu’il n’a pu ni agir ni charger quelqu’un d’agir en son nom ou qu’il avait véritablement l’intention d’interjeter appel dans les 90 jours, mais qu’en raison d’une maladie grave, d’un accident ou d’un malheur ou qu’en raison d’un de ces contretemps inévitables qui surviennent dans la vie, il n’a pu ni agir ni charger quelqu’un d’agir ou de matérialiser son intention d’interjeter appel en temps voulu. Si un contribuable dépose un avis d’appel en retard, il doit agir avec diligence pour présenter une demande de prorogation du délai pour interjeter appel et pour déposer un avis d’appel. Il n’y a pas de zone de confort d’une année pour présenter une demande. Lorsqu’il a promulgué l’article 167, le Parlement n’avait pas l’intention de proroger le droit d’appel de la cotisation d’un contribuable. Une telle interprétation enlèverait toute signification à l’article 169.
+(notre soulignement)
+[28] Malheureusement, la Cour est d’avis que la preuve présentée par le requérant dans le cas présent n’est pas suffisante pour démontrer selon la balance des probabilités que la condition du sous-alinéa 305(5)b)(i) LTA est satisfaite en l’espèce.
+B. Sous-alinéa 305(5)b)(ii) LTA
+[29] Le sous-alinéa 305(5)b)(ii) est satisfait si, compte tenu des raisons indiquées dans la demande de prorogation et des circonstances de l’espèce, le requérant démontre par prépondérance de preuve qu’il est juste et équitable de faire droit à la demande de prorogation.
+[30] La demande de prorogation de monsieur Clitis contient peu d’information en regard des raisons pour lesquelles l’appel n’a pas été interjeté dans le délai imparti. La demande réfère uniquement à un comptable responsable de son dossier qui n’aurait pas procédé au traitement du dossier comme convenu dans les délais demandés.
+[31] Ainsi, la preuve soumise par monsieur Clitis pourrait laisser paraître que l’unique motif mentionné par le requérant dans sa demande de prorogation serait en lien avec un présumé rapport qui n’aurait pas été transmis à la Mandataire par le présumé comptable retenu par le requérant avant la décision sur opposition.
+[32] Le comptable dont les services sont retenus par monsieur Clitis avant la décision sur opposition ne témoigne pas à l’audition et aucun mandat, correspondance, note, courriel, message, démarche, échange, document ou rapport n’est produit en preuve par le requérant au soutien du rôle de ce comptable ou des circonstances du manquement.
+[33] Lors de son contre-interrogatoire, monsieur Clitis confirme que le comptable n’a pas été mandaté pour agir dans le cadre de la procédure d’appel devant cette Cour et qu’il n’était aucunement impliqué dans ce processus. La démarche du requérant devant cette Cour est personnelle, et sans l’implication d’un conseiller externe.
+[34] Dans une décision de la juge Lamarre Proulx (Di Modica c La Reine mentionnée plus haut) et reprise subséquemment dans plusieurs décisions, la juge se penche sur une demande de prorogation de délai pour déposer un avis d’opposition à une cotisation en raison de la présumée négligence de l’avocat de la demanderesse. La condition du sous-alinéa 305(5)b)(ii) étant similaire à la condition du sous-alinéa 166.2(5)b)(ii) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), il est acceptable de se référer à la déclaration de la juge. Elle mentionnera en lien avec les circonstances établissant une négligence des avocats de la demanderesse :
+En deuxième lieu, il y a admission dans les notes de l'avocat qu'il y a eu négligence de la part des avocats et aucun des avocats en cause n'est venu témoigner pour expliquer sa conduite ainsi que les événements de cette affaire. Cette absence de témoignage a aussi comme résultat qu'il n'y a pas de confirmation des affirmations de la requérante que cette dernière voulait en appeler de la cotisation dans les 90 jours qui ont suivi la cotisation.
+(notre soulignement)
+Et ajoutera :
+Je suis d’avis que l’erreur de l’avocat peut être un motif juste et équitable d’accorder une prolongation du délai si l’avocat a par ailleurs exercé la diligence normale d’un avocat. Je ne crois pas que l’état du droit soit tel que la négligence ou le laxisme de l’avocat puissent être des motifs justes et équitables au sens de l’alinéa 166.2(5)b)(ii) de la Loi pour accorder la prolongation demandée.
+(notre soulignement)
+[35] Dans l’affaire Sapi citée plus haut, le juge Visser examine sur preuve commune plusieurs demandes de prorogation de délai pour interjeter appel. Dans cette affaire, il souligne en lien avec le sous-alinéa 167(5)b)(ii) de la Loi de l’impôt sur le revenu citée plus haut (équivalent au sous-alinéa 305(5)b)(ii) LTA) :
+En ce qui concerne le sous-alinéa 167(5)b)(ii), l’intimée soutient que la négligence présumée de M. De Bartolo, qui n’a pas témoigné, ne constitue pas un motif juste et équitable pour accueillir les demandes en l’espèce. L’intimée soutient en outre que les requérants n’ont pas effectué un suivi adéquat après avoir fourni leur avis de confirmation à PAC et note que le juge Tardif a conclu dans l’arrêt 2749807* (une affaire mentionnée par les requérants) que le fait de s’appuyer sur une personne prétendument qualifiée et compétente n’est pas en soi une excuse acceptable pour justifier et expliquer le défaut d’agir dans le délai prescrit. En l’espèce, l’intimée soutient qu’il n’y a aucune preuve de suivi après que les requérants ont transmis leurs avis de confirmation à PAC. [* : 2749807 Canada inc. c La Reine, 2004 CCI 457]
+Je suis d’accord avec l’intimée. Je suis d’avis que les requérants n’ont pas établi qu’il serait juste et équitable de faire droit à leurs demandes compte tenu des motifs exposés dans leurs demandes et des circonstances en l’espèce. À mon avis, le défaut allégué de PAC et de M. De Bartolo de déposer les appels des requérants en temps opportun pendant la période d’appel ne constitue pas une raison juste et équitable pour accueillir les demandes dans les circonstances de l’espèce. Bien qu’il n’y ait pas suffisamment d’éléments de preuve en l’espèce pour établir que M. De Bartolo a été négligent ou insouciant, ou qu’il a même été engagé pour agir au nom des requérants, je suis d’avis que les requérants n’ont pas établi que PAC ou M. De Bartolo avaient agi la diligence raisonnable exigée dans la décision Di Modica.
+(notre soulignement)
+[36] Dans le présent cas, même si une interprétation libérale des explications du requérant pouvait soutenir que les circonstances animant le requérant à présenter un avis d’appel seraient le fait qu’il aurait été informé par la Mandataire à un moment donné (bien que ce moment donné soit postérieur au délai d’appel de 90 jours, la preuve est confuse et ne situe pas le moment exact) qu’un rapport n’avait pas été transmis à la Mandataire par le comptable auquel il est référé plus haut et qu’une autre discussion initiée par la Mandataire permet au requérant de réaliser que son seul recours est maintenant de faire une demande de prorogation, la preuve à l’audition est insuffisante pour permettre à la Cour de conclure qu’un comptable aurait ou a fait preuve ou non de diligence ou de laxisme ou a été ou non négligent de suivre les instructions qui lui auraient été communiquées. L’absence du présumé rapport en preuve, d’une quelconque correspondance, note, courriel, message, échange, document au sujet du rapport, du témoignage du comptable, d’autres témoins et le contexte seulement sommaire lorsque fait allusion au travail du comptable, le cas échéant, ne permettent pas de tirer de conclusion favorable au soutien de la preuve présentée par le requérant. La Cour est malheureusement devant un cas de preuve insuffisante pour trancher en faveur du requérant.
+[37] Le manque d’éléments de preuve incluant les raisons ayant pu motiver l’écoulement du temps de plus de 400 jours place la Cour face à une situation où il n’est pas possible de conclure par prépondérance de preuve qu’il serait juste et équitable de faire droit à la demande de prorogation du requérant. La seule conclusion probante que la Cour réussit à tirer des circonstances est que le manque de diligence du requérant est responsable des longs délais à agir. Même une fois le délai d’appel de 90 jours écoulé, la preuve du requérant ne laisse penser à aucune action, démarche ou initiative concernant son dossier auprès du comptable ou autrement jusqu’au moment où la Mandataire elle-même l’informe d’un présumé manquement du comptable.
+[38] La présente situation s’apparente aux circonstances traitées dans les affaires citées plus haut en regard du sous-alinéa 167(5)b)(ii).
+[39] La preuve offerte ne permet pas d’identifier un motif autre que le manque de diligence du requérant qui aurait pu le motiver à finalement présenter une demande de prorogation. La preuve est aussi incomplète que silencieuse sur des gestes, démarches ou initiatives que le requérant aurait pu poser ou entreprendre pour établir sa position dans son appel, des démarches ou des initiatives qu’il poursuit pour remplir les responsabilités et les obligations que son dossier lui impose, ou une ou des raisons qui l’ont empêché de faire quoi que ce soit, au cours de la période de 15 mois qui s’est écoulée depuis le délai d’appel expiré et le 11 décembre 2020 date à laquelle la demande de prorogation est finalement présentée et dont la date limite de dépôt est le 31 décembre 2020. Un si long délai et des explications si peu exposées en preuve. Un comportement répréhensible ne peut pas défendre qu’il soit juste et équitable de permettre une demande de prorogation.
+[40] La connaissance réduite du requérant des rouages des règles applicables aux recours fiscaux ne peut justifier ce manque de diligence. La Cour accepte que les règles fiscales applicables ne soient pas toujours chose facile pour les contribuables. Cependant, la loi contient des conditions qui doivent être satisfaites pour donner droit au dépôt d’un avis d’appel en retard. Il s’agit d’une exception. Et le contribuable qui désire bénéficier de cette exception doit être en mesure d’établir qu’il satisfait chacune des conditions donnant ouverture. Ce que, par prépondérance de preuve, la preuve ne permet pas d’établir dans le cas présent.
+[41] Pour toutes ces raisons, la Cour est d’avis que monsieur Clitis n’a pas démontré par prépondérance de preuve qu’il est juste et équitable de faire droit à sa demande de prorogation.
+[42] La Cour ne juge pas utile dans les circonstances d’aborder les sous-alinéas 305(5)b)(iii) et (iv) LTA.
+IV. Conclusion
+[43] Considérant ce qui précède, la demande de prorogation du délai pour interjeter appel des cotisations établies en vertu de la Partie IX LTA dont (i) l’avis est daté du 27 février 2018 pour les périodes du 1er octobre 2009 au 31 décembre 2009 et 1er octobre 2012 au 31 décembre 2012 du requérant, et (ii) l’avis est daté du 6 juin 2019 pour les périodes du 1er octobre 2010 au 31 décembre 2010 et 1er octobre 2011 au 31 décembre 2011 du requérant est rejetée, sans frais.
+Signé à Ottawa, Canada, ce 15e jour de décembre 2022.
+« J.M. Gagnon »
+Juge Gagnon
+RÉFÉRENCE :
+2022 CCI 164
+Nº DU DOSSIER DE LA COUR :
+2021-652(GST)APP
+INTITULÉ DE LA CAUSE :
+BRUCE LEE CLITIS ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 21 septembre 2022
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Jean Marc Gagnon
+DATE DU JUGEMENT :
+Le 15 décembre 2022
+COMPARUTIONS :
+Pour le requérant :
+Le requérant lui-même
+Avocat de l’intimé :
+Me Ryan Allen
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’intimé :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada

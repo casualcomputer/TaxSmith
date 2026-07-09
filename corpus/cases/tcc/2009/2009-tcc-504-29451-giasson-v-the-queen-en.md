@@ -1,0 +1,231 @@
+---
+title: "Giasson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29451/index.do"
+last_modified: "2009-10-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 504"
+citation2: ""
+neutral_citation: "2009 TCC 504"
+decision_date: "2009-10-07"
+language: "en"
+item_id: "29451"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6942
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:52:53.859000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "da84704e57929731d14edcf5f9956f642659499b6250fb520a6921a3b4a106a6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Giasson v. The Queen
+
+- Citation: 2009 TCC 504
+- Decision date: 2009-10-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6942, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Giasson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-07
+Neutral citation
+2009 TCC 504
+File numbers
+2007-3644(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3644(IT)G
+BETWEEN:
+JACQUES J. GIASSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 25, 2009, at Montréal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Louis Tassé
+Counsel for the Respondent:
+Nathalie Labbé
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act in respect of the 2003 taxation year is allowed in part and the said assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that a deduction of $66,250 is to be granted on account of an allowable business investment loss.
+The appeals from the reassessments made in respect of the 2000, 2001 and 2004 taxation years and from the assessment made in respect of the 2002 taxation year are dismissed.
+There shall be no award as to costs.
+Signed at Ottawa, Canada, this 7th day of October 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 16th day of March 2010.
+François Brunet, Revisor
+Citation: 2009 TCC 504
+Date: 20091007
+Docket: 2007-3644(IT)G
+BETWEEN:
+JACQUES J. GIASSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] Mr. Giasson is appealing from assessments and reassessments made under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended ("the Act") on the following dates, for the taxation years 2000 through 2004:
+Year
+Assessment
+Date
+2000
+reassessment
+October 11, 2005
+2001
+reassessment
+October 11, 2005
+2002
+assessment
+December 12, 2005
+2003
+assessment
+December 12, 2005
+2004
+reassessment
+July 19, 2007
+[2] In his income tax returns for the taxation years 2000 through 2004, the Appellant claimed the following business losses in relation to the guarantees that he honoured in respect of loans made to Hôtel Le Chanteclerc Inc. ("HCI"):
+Year
+Business loss
+2000
+$20,000
+2001
+$1,259,375
+2002
+$127,500
+2003
+$132,500
+2004
+$1,040,625
+[3] In making the assessments and reassessments in issue, the Minister of National Revenue ("the Minister") disallowed the business losses claimed by the Appellant, and instead took the position that the amounts paid under the guarantees were allowable business investment losses (ABILs) within the meaning of the Act. The Minister granted the following ABILs to the Appellant:
+Taxation years
+2000
+2001
+2002
+2003
+2004
+Total income
+$475,999
+$491,434
+$429,508
+$614,990
+$231,143
+ABIL granted
+$10,000
+$629,688
+$63,750
+$66,250[1]
+$520,313
+Taxable income
+$32,295
+$0
+$170,590
+$432,997
+$0
+[4] Further to the assessments and reassessments in issue, the Appellant's taxable income was reduced to nil for the taxation years 2001 and 2004. Counsel for the Respondent submits that this Court does not have the authority to decide appeals for the 2001 and 2004 taxation years under subsection 171(1) of the Act because no tax, interest or penalty is payable for these taxation years.
+[5] Under an agreement dated September 12, 2001, the Appellant agreed to pay $2,500,000 to the National Bank of Canada ("National Bank") in full settlement of the personal guarantees that were given when loans totalling $5,900,000 were advanced to HCI by the National Bank and by General Trust of Canada between July 19, 1989, and January 10, 1992. Of the agreed amount, $1,250,000 was paid upon the signing of the agreement and the remaining $1,250,000 was paid in monthly instalments ending on April 10, 2005.
+[6] A similar agreement was signed earlier, in December 1998. Under that agreement, the Appellant agreed to pay a total of $300,000 to Société de développement industriel du Québec in full and final settlement of the obligations under the suretyships granted by the Appellant, 2723662 Canada Inc.[2] and Groulx‑Robertson Ltée[3] when the loan to HCI, totalling $1,090,000, was advanced in 1988. Of the agreed amount, $200,000 was paid when the settlement agreement was signed and the remaining $100,000 was paid in five (5) equal and consecutive monthly instalments of $20,000.
+[7] HCI was incorporated under the Canada Business Corporations Act by certificate of incorporation issued on May 10, 1985. On October 30, 1985, HCI acquired from Richard J. Messier, trustee in bankruptcy, the movable and immovable assets of a recreational and tourism complex called Hôtel Le Chanteclerc, in consideration of $1,090,000. The assets of this complex included a hotel, a ski centre and roughly 360 acres of land, of which 340 acres were intended for real estate development.
+[8] In the same year, 1985, HCI acquired several parcels of land, totalling approximately 98 acres, for real estate development. These lands had earlier been acquired by the Appellant, who transferred them to HCI as part of a tax rollover.
+[9] In 1989, HCI acquired an additional 44 acres of land adjacent to the recreational and tourism complex. As a result, HCI held roughly 502 acres of land.
+[10] The management of Hôtel Le Chanteclerc was entrusted to the firm of Laventhol and Horwath from 1984 to 1994, and to Loews Hotel Quebec Inc. from December 1, 1994 until 1995.
+[11] From 1985 to 1990, HCI made roughly $29,500,000 in capital outlays in relation to its hotel facilities and ski centre, including, among other things, the construction of an nine-hole executive golf course with lighting. HCI also built and sold 70 condominium hotel units during this period.
+[12] In 1989, Groupe Giasson Inc., a management company belonging to the Appellant, mandated Landbase Inc., an American company located in Texas ("Landbase"), to conduct a market and feasibility study for the residential development of roughly 153 acres of land adjacent to Hôtel Le Chanteclerc, including an 18-hole, international-calibre golf course, 110 semi-family detached homes and 254 semi‑detached homes. Landbase Inc. also sought to raise roughly $11,000,000 in financing. The project fell through, and HCI did not reimburse the Appellant for the US$52,000 in fees that Landbase billed the Appellant.
+[13] In addition, in the fall of 1990, Groupe Giasson Inc. gave Transact Hotel & Tourism Property Inc. an exclusive mandate to sell Hôtel Le Chanteclerc and find a joint venture partner to operate the future international-calibre golf course and develop the real estate surrounding the golf club. Although negotiations were held with potential purchasers like Club Corporation of America, the sale of assets and the land development fell through.
+Loan recalls
+[14] HCI's financial problems materialized on July 18, 1994, when Banque Nationale de Paris (BNP) demanded the repayment of a total of $7,238,892.75 in defaulting loans. BNP had no personal guarantees from the Appellant, and the hypothecary (mortgage) guarantees that it held were only enforceable against the hotel complex.
+[15] After the failure of negotiations with BNP (aimed at renewing its loans to HCI) and the failure of the search for a lender to replace BNP, the National Bank sent HCI a notice under section 244 of the Bankruptcy and Insolvency Act ("BIA") demanding, in turn, the repayment in full of the loans that it had made to HCI.
+[16] HCI filed a proposal under the BIA on February 15, 1995, and KPMG Inc. was appointed trustee of the proposal, and interim receiver of HCI's property. On March 7, 1995, HCI's creditors agreed to stay the petition in bankruptcy in order to find a buyer for HCI's assets. Since the trustee was unable to find a purchase offer high enough to allow a dividend to be paid to the unsecured creditors, HIC's creditors rejected the proposal when they met again on May 11, 1998.
+[17] On December 17, 1998, HCI's assets were sold to Gouverco Inc. for $5.6 million, an amount markedly lower than the secured creditors' claims.
+[18] The Appellant is an experienced businessman. He studied civil engineering and business administration. Over the course of his career, he sat on the boards of numerous public corporations and was involved in several real estate development projects.
+[19] The Appellant was a shareholder of HCI on a continuous basis from the time of its incorporation in 1985. Except for a six-month period in 1985 and 1986, the Appellant held 99% of the issued and outstanding shares of HCI while the other 1% was held by his lawyer Jean‑Yves Fortin. The Appellant never demanded any fees in exchange for the guarantees that he had to provide so that HCI could obtain the bank loans.
+The parties' positions
+[20] The principal argument advanced by counsel for the Appellant is that the personal guarantees were given to the financial institutions as part of an adventure or concern in the nature of a trade within the definition of "business" in subsection 248(1) of the Act, that is to say, a business of selling lands personally or through HCI.
+[21] In the course of his testimony, the Appellant said he was not interested in acquiring the hotel, and that he only wanted to acquire the lands adjacent to it, so that he could resell them at a profit. The Appellant said he made a first offer to the trustee, an offer that did not include the hotel, in 1985. The trustee refused this offer because he did not want to split the hotel from the adjacent lands. According to the Appellant, the acquisition of this hotel was incidental to his real estate development project. In fact, he says that this is why the management of the hotel was entrusted to specialized firms.
+[22] The Appellant claims that his primary intention was to realize a profit from the sale of undeveloped land for the construction of 444 prestige homes and from the commissions paid by the builders of those homes. He says that his intention is reflected in, among other things, the market and economic feasibility study produced by Landbase and by the exclusive mandate given to TransAct Hotel & Tourism Property Inc. ("TransAct") to search for partners.
+[23] The Appellant submits that he, not HCI, was the one who intended to carry out the real estate development project. He argues that the mandates given to Landbase and TransAct prove this. He states that the invoices issued by Landbase were addressed to the Appellant and were not reimbursed by HCI.
+[24] Counsel for the Respondent submits that HCI has a separate legal personality from its shareholders and that, consequently, the businesses operated by HCI did not belong to the Appellant. HCI owned all of Hôtel Le Chanteclerc's immovable property.
+[25] Counsel for the Respondent submits that the Appellant did not guarantee HCI's loans in the course of a business of granting guarantees for consideration or a business of making loans.
+[26] Counsel for the Respondent also argues that the Appellant did not hold HCI shares as trading assets, since the Appellant is not a trader in shares or other securities. Counsel points out that the Appellant held his HCI shares for more than 10 years.
+Analysis
+[27] The general principles applicable when a company fails to repay a shareholder on personal guarantees that the shareholder granted in order for the company to be able to obtain loans from financial institutions were set out in Easton v. The Queen, 97 DTC. 464 (F.C.A.) at paragraphs 15-17, where Robertson J.A. exposed the general principle and the exceptions thereto as follows:
+As a general proposition, it is safe to conclude that an advance or outlay made by a shareholder to or on behalf of the corporation will be treated as a loan extended for the purpose of providing that corporation with working capital. In the event the loan is not repaid the loss is deemed to be of a capital nature for one of two reasons. Either the loan was given to generate a stream of income for the taxpayer, as is characteristic of an investment, or it was given to enable the corporation to carry on its business such that the shareholder would secure an enduring benefit in the form of dividends or an increase in share value. As the law presumes that shares are acquired for investment purposes it seems only too reasonable to presume that a loss arising from an advance or outlay made by a shareholder is also on capital account. The same considerations apply to shareholder guarantees for loans made to corporations. . . . There is only a rebuttable presumption of such. . . .
+There are two recognized exceptions to the general proposition that losses of the nature described above are on capital account. First, the taxpayer may be able to establish that the loan was made in the ordinary course of the taxpayer's business. The classic example is the taxpayer/shareholder who is in the business of lending money or granting guarantees. . . .
+The second exception is found in Freud. Where a taxpayer holds shares in a corporation as a trading asset and not as an investment then any loss arising from an incidental outlay, including payment on a guarantee, will be on income account. This exception is applicable in the case of those who are held to be traders in shares. For those who do not fall within this category, it will be necessary to establish that the shares were acquired as an adventure in the nature of trade. . . .
+[28] Counsel for the Appellant submits that the Appellant falls within these two exceptions because the guarantees were granted in the course of a business: the real estate development project. He also submits that the Appellant's intention on granting the guarantees was to enable the sale of land adjacent to the hotel at a profit.
+[29] The evidence shows that the Appellant’s line of business did not consist in lending money or granting guarantees. Rather, the Appellant sought to show that he granted the guarantees in the ordinary course of his business. In the Appellant's submission, the real estate development project was his, not HCI's; HCI was merely the vehicle chosen to carry out the project. In other words, the acquisition of the hotel and the lands adjacent thereto was to be considered as a whole, that is to say, as an adventure in the nature of a trade, not an investment project generating an enduring income benefit.
+[30] In the alternative, counsel for the Appellant notes that he did not seek to show that his shareholdings in HCI were a trading asset, which would have meant that the gain or loss from the sale of those holdings would be on account of income, not capital. Moreover, the Appellant has acknowledged, at the time that the guarantees were granted, that he did not intend to resell the HCI shares.
+[31] Whatever the Appellant might have intended when he acquired Hôtel Le Chanteclerc, that intention was never carried out. The international‑calibre golf course and the project to develop real estate on the adjacent lands never came into being.
+[32] The Appellant's original intention had to change as a result of certain events, including the October 1985 fire at the Quebec pavilion (which had to be completely renovated) and the major capital outlays required to operate the ski centre, Hôtel Le Chanteclerc and the Par 3 executive golf course. In addition, the construction of the 70 condominium hotel units was carried out successfully by HCI. What might initially have been an adventure in the nature of a trade gradually turned into a long-term investment aimed at earning dividend interest and increasing the value of HCI's shares. The fact that the Appellant held those shares for 10 years is a very telling sign that the Appellant held them as an investment.
+[33] The personal guarantees were granted in respect of loans taken out by HCI during a period that began in 1988, and ended in 1992, more than three years after HCI acquired Hôtel Le Chanteclerc. The evidence adduced shows that the loans in respect of which the Appellant furnished personal guarantees were not taken out in order to acquire lands adjacent to the hotel. Rather, the loan money was used to bolster HCI's working capital and pay the cost of its capital assets.
+[34] When the guarantees were granted, the Appellant's intention was not to sell HCI's shares, the hotel, or the lands adjacent to the hotel. It was only in 1989 that the Appellant's management company hired Landbase to conduct the market/feasibility study regarding the real estate development. The mandate given to TransAct in the fall of 1990 had two components. The first was the sale of the hotel. The second was to find a joint venture partner to manage the world-class golf course and develop the real estate project. This second component did not pertain to the sale of any assets, but was aimed at finding a financing partner to develop the real estate owned by HCI.
+[35] Contrary to the Appellant's submissions, I am not satisfied that he meets the conditions for the two exceptions set out in Easton, supra. As a well-informed businessman and taxpayer, he knew very well that it could be very advantageous to carry out the real estate development project within HCI, in order to absorb HCI's operating losses and claim accelerated depreciation deductions generated by HCI's capital expenditures. Indeed, the Appellant made no efforts to remove from HCI the lands necessary to carry out the real estate development project in consideration for the loans and advances that he made to HCI. Under the Appellant's usual modus operandi, the real estate development projects were carried out through corporate intermediaries, not by him personally. One example of this was the "Les Dauphins" condominium units acquired between May 1985 and December 1989 and sold between 1990 and 1995 (paragraphs 51 and 52 of the Notice of Appeal). In my view, the evidence before the Court is not sufficient to rebut the presumption that the losses, incurred by a shareholder, following the granting of guarantees for loans taken out by a company, constitute capital losses. It has not been shown, on a balance of probabilities, that the Appellant operated any business whatsoever. Consequently, there cannot be a connection between the granting of the guarantees and the operation of a business by the Appellant.
+[36] With respect to the reassessments made in respect of the 2001 and 2004 taxation years, it is settled law that there is no right to appeal from a notification that no tax is owing ("a nil assessment"): Faucher v. Canada, 94 DTC 1575 (T.C.C.), Interior Savings Credit Union v. Canada, 2007 DTC 5342 (F.C.A.) and Okalta Oils Limited v. M.N.R., 55 DTC 1176 (S.C.C.). Little J.A. articulated the general rule in the following terms in Interior Savings Credit Union v. Canada, 2006 DTC 3351, at paragraphs 25 and 26 of his reasons:
+Under subsection 152(4) of the Act, the Minister may issue to a taxpayer either an "assessment" or a "notification that no tax is owing". This notification is often called a "nil assessment".
+Subsection 169(1) of the Act allows a taxpayer to appeal from an "assessment". A nil assessment is not an "assessment". Therefore, the general rule is that a taxpayer cannot appeal from a nil assessment.
+[37] Over the years, Parliament has legislated exceptions in the Act to allow objections to and appeals from loss determinations made at the taxpayer's request (subsection 152(1.1)) and from determinations that a taxpayer is entitled to a refund (subsection 152(1.2)).
+[38] However, no such exception has been adopted in relation to losses that are deductible on account of a taxpayer's business investment.
+[39] Consequently, the Appellant cannot appeal from the reassessments made in relation to the 2001 and 2004 taxation years.
+[40] For these reasons, the appeal from the assessment made under the Income Tax Act in respect of the 2003 taxation year is allowed in part, and the said assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that a deduction of $66,250 is to be granted on account of an allowable business investment loss. The appeals from the reassessments made in respect of the 2000, 2001 and 2004 taxation years and from the assessment made in respect of the 2002 taxation year are dismissed. There shall be no award as to costs.
+Signed at Ottawa, Canada, this 7th day of October 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 16th day of March 2010.
+François Brunet, Revisor
+CITATION: 2009 TCC 504
+COURT FILE NO.: 2007-3644(IT)G
+STYLE OF CAUSE: Jacques J. Giasson and Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: May 25, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: October 7, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Louis Tassé
+Counsel for the Respondent:
+Nathalie Labbé
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Louis Tassé
+Firm: Fasken Martineau DuMoulin
+Montréal , Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This amount was not allowed when the tax return was processed.
+[2] A company likely controlled by the Appellant.
+[3] A company controlled by the Appellant.

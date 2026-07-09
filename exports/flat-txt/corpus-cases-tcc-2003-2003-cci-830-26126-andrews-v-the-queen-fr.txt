@@ -1,0 +1,117 @@
+Title: Andrews v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26126/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-830-26126-andrews-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-11-07
+
+# Andrews v. The Queen
+
+- Citation: 2003 CCI 830
+- Decision date: 2003-11-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4121, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Andrews v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-07
+Référence neutre
+2003 CCI 830
+Numéro de dossier
+2003-349(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-349(IT)I
+ENTRE :
+LOIS E. ANDREWS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 12 septembre 2003 à Toronto (Ontario)
+Par : L'honorable juge J. M. Woods
+Comparutions
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Craig Maw
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2003.
+« J. M. Woods »
+Juge J. M. Woods
+Traduction certifiée conforme
+ce 18e jour de mars 2004.
+Crystal Lefebvre, traductrice
+Référence : 2003CCI830
+Date : 20031107
+Dossier : 2003-349(IT)I
+ENTRE :
+LOIS E. ANDREWS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Lois Andrews interjette appel à l'encontre de la cotisation établie pour l'année d'imposition 2000 dans laquelle on lui a refusé un crédit d'impôt pour les frais de scolarité payés à un collège situé à Londres, en Angleterre. La question à trancher consiste à savoir si le collège est une université et si le cours suivi vise l'obtention d'un diplôme (degree).
+[2] L'appel a été entendu sous le régime de la procédure informelle.
+Faits
+[3] Emily, la fille de Mme Andrews, souhaitait poursuivre des études de théâtre et de danse. Elle a passé, sans succès, une audition visant l'une des six places offertes par l'École nationale de théâtre du Canada. Par la suite, Emily s'est inscrite à l'académie The London Academy of Music and Dramatic Art à Londres, en Angleterre (l' « Académie » ) et a payé des frais de scolarité d'environ 20 000 $ par année. Après avoir terminé avec succès un cours de trois ans en théâtre, l'Académie lui a remis un diplôme (diploma).
+[4] Emily a obtenu un deuxième diplôme (diploma) découlant de ce cours, qui lui a été remis par un organisme d'accréditation du nom de Trinity College London. Le rôle de cet organisme est de garantir la formation et les normes de qualité et, à ces fins, d'évaluer les cours offerts dans différents collèges et de décerner des diplômes (diploma) de différents niveaux. L'attestation figurant sur le diplôme (diploma) d'Emily était la suivante : « The National Diploma in Professional Acting, Level 4 - National Qualifications Framework » . Le niveau 4 constitue le deuxième niveau le plus élevé des certifications délivrées par l'organisme d'accréditation et est considéré l'équivalent d'un diplôme (degree) de premier cycle.
+[5] Emily Andrews a transféré le crédit d'impôt relatif aux frais de scolarité payés à l'Académie et a désigné sa mère, conformément à l'article 118.81 de la Loi de l'impôt sur le revenu, L.R.C. (1985) ch. 1 (5e suppl.) (la « Loi » ). Lois Andrews a déduit un crédit d'impôt de 850 $ relativement à ce transfert conformément à l'article 118.9, crédit qui a été refusé par le ministre du Revenu national.
+Dispositions législatives
+[6] Les exigences pertinentes pour demander un crédit d'impôt pour frais de scolarité sont énoncées à l'alinéa 118.5(1)b) de la façon suivante :
+(1) Les montants suivants sont déductibles dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition :
+[...]
+b) si, au cours de l'année, le particulier fréquente comme étudiant à plein temps une université située à l'étranger, où il suit des cours conduisant à un diplôme, le produit de la multiplication du taux de base pour l'année par le total des frais de scolarité payés à l'université pour l'année, [...]
+[7] Les articles 118.81 et 18.9 de la Loi permettent de transférer un crédit d'impôt à une autre personne. Ils prévoient ce qui suit pour l'année pertinente :
+118.81. Pour l'application de la présente sous-section, le montant des crédits d'impôt pour frais de scolarité et pour études qu'une personne transfère à un particulier pour une année d'imposition correspond au moins élevé des montants suivants :
+a) le résultat du calcul suivant :
+A - B
+où :
+A représente le moins élevé des montants suivants :
+(i) le total des montants qui peuvent être déduits en application des articles 118.5 ou 118.6 dans le calcul de l'impôt payable par la personne en vertu de la présente partie pour l'année,
+(ii) 850 $
+B le montant qui représenterait l'impôt payable par la personne en vertu de la présente partie pour l'année si aucun montant n'était déductible en vertu de la présente section, à l'exception des montants déductibles en application des articles 118, 118.3, 118.61 ou 118.7;
+b) le montant pour l'année que la personne désigne par écrit pour l'application des articles 118.8 ou 118.9.
+118.9. Dans le cas où, pour une année d'imposition, la personne qui est le père, la mère, le grand-père ou la grand-mère d'un particulier (à l'exception d'un particulier dont l'époux ou le conjoint de fait déduit un montant à son égard pour l'année en application des articles 118 ou 118.8) est la seule que le particulier ait désignée par écrit pour l'année pour l'application du présent article, les crédits d'impôt pour frais de scolarité et pour études que le particulier lui a transférés pour l'année sont déductibles dans le calcul de l'impôt payable par la personne en vertu de la présente partie pour l'année.
+Question en litige
+[8] Il s'agit de savoir si Lois Andrews a droit à un crédit d'impôt en vertu de l'article 118.9 relativement aux frais de scolarité payés à l'Académie par sa fille. La seule question en litige est de savoir si l'Académie est une université et si le cours à laquelle sa fille a assisté est un cours conduisant à un diplôme (degree).
+Positions des parties
+[9] La Couronne a soutenu que les frais de scolarité payés à l'Académie ne répondent pas aux conditions énoncées à l'alinéa 118.5(1)b) parce que l'Académie n'est pas une université et que le cours auquel Emily a assisté ne vise pas l'obtention d'un diplôme (degree). À l'appui, l'avocat de l'intimée a cité les décisions Gilbert c. La Reine[1], Rogutski c. La Reine[2] et Drouin c. La Reine[3].
+[10] Mme Andrews n'a pas remis en question le refus du crédit d'impôt pour des raisons de forme. Au contraire, elle a déclaré qu'il était injuste de limiter l'application du crédit d'impôt à des écoles qui remettent des diplômes (degree). Mme Andrews, influencée par une carrière en éducation, estime qu'il est important de favoriser l'accès à l'enseignement dans plusieurs domaines, y compris le domaine que sa fille a poursuivi.
+Analyse
+[11] Le paragraphe 118.5(1) de la Loi impose certaines conditions qui doivent être satisfaites afin d'avoir droit au crédit d'impôt pour frais de scolarité. Si l'école fréquentée se situe à l'étranger, le crédit d'impôt s'applique uniquement aux frais de scolarité payés à une université. Il n'existe aucune restriction à cet égard si l'école fréquentée se situe au Canada. Le désaccord de Mme Andrews avec cette distinction est compréhensible. La fille de Mme Andrews a fréquenté une école chère à l'étranger parce que l'École nationale de théâtre du Canada offrait uniquement six places dans le domaine d'études de sa fille. Néanmoins, il n'existe pas de fondement sur lequel je peux accorder un redressement à moins que ce soit conforme au libellé du texte de loi.
+[12] Le crédit d'impôt sera accordé uniquement si l'Académie est une université et si le cours suivi vise l'obtention d'un diplôme (degree). Plusieurs décisions auxquelles la Couronne nous a renvoyés indiquent que la caractéristique unique des universités est leur pouvoir de décerner des diplômes (degree). Par conséquent, il s'agit de savoir si l'Académie est une institution qui décerne des diplômes (degree) et si le cours suivi par Emily Andrews visait l'obtention d'un diplôme (degree).
+[13] J'ai conclu que les diplômes (diploma) décernés à Emily Andrews par l'Académie et par l'organisme d'accréditation ne constituent pas des diplômes (degree). Le terme « diplôme » (degree) a évidemment de nombreux sens. Dans ce contexte, la définition suivante du Dictionary of Canadian Law, (2e éd.) peut nous être utile :
+[traduction]
+désigne un document conféré en reconnaissance d'une réussite académique appelé diplôme et comprend le baccalauréat, la maîtrise et le doctorat.
+Le même dictionnaire définit le terme « diplôme » (diploma) de la façon suivante :
+[traduction]
+Une attestation, inférieure à un diplôme [degree], décernée par un collège.
+[14] Je souscris à l'argument de Mme Andrews selon lequel le fait que l'Académie et l'organisme d'accréditation ne qualifient pas l'attestation de diplôme (degree)n'est pas nécessairement déterminante. Le terme « diplôme » (degree)peut avoir une signification différente au Canada et au Royaume-Uni. Toutefois, j'estime que la signification au Royaume-Uni est la même que celle au Canada décrite ci-dessus. Chaque pays interdit qu'un établissement d'enseignement décerne des « diplômes » (degree) à moins que ce droit leur ait été conféré par la loi. Par exemple, la Loi favorisant le choix et l'excellence au niveau postsecondaire de l'Ontario interdit à un établissement d'enseignement de décerner des prix désignés comme des diplômes (degree) à moins qu'il soit dûment autorisé par le gouvernement. Une interdiction semblable est prévue au Royaume-Uni dans la loi Education Reform Act.
+[15] En l'espèce, ni l'Académie ni l'organisme d'accréditation n'ont décerné de diplôme (degree). Bien que l'organisme d'accréditation ait décerné un diplôme (diploma) considéré équivalent à un diplôme (degree), il n'était pas en fait un diplôme (degree) au sens de la signification de ce terme tant au Canada qu'au Royaume-Uni. De plus, même si le diplôme (diploma) décerné par l'organisme d'accréditation était considéré comme un véritable diplôme (degree), cela ne serait pas suffisant pour donner à Mme Andrews le droit de déduire le crédit d'impôt parce que l'on doit également démontrer que l'Académie est une université. Il ressort des faits que l'Académie n'est pas un établissement pouvant décerner un diplôme (degree) et, par conséquent, n'est pas une université.
+[16] Pour ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2003.
+« J. M. Woods »
+Juge J. M. Woods
+Traduction certifiée conforme
+ce 18e jour de mars 2004.
+Crystal Lefebvre, traductrice
+[1] C.C.I., no 98-1487(IT)I, 25 septembre 1998, ([1999] 2 C.T.C. 2127 )
+[2] C.C.I., nos 98-1967(IT)I, 98-1969 (IT)I, 12 mai 1999, ([1999] 3 C.T.C. 2679 )
+[3] C.C.I., no 97-2404(IT)I, 20 avril 1998, ([1999] 2 C.T.C. 2413 )

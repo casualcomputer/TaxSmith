@@ -1,0 +1,315 @@
+Title: Banque Nationale du Canada v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27312/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-363-27312-banque-nationale-du-canada-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-06-23
+
+# Banque Nationale du Canada v. The Queen
+
+- Citation: 2006 CCI 363
+- Decision date: 2006-06-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 852, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Banque Nationale du Canada v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-23
+Référence neutre
+2006 CCI 363
+Numéro de dossier
+2006-348(GST)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-348(GST)G
+ENTRE :
+BANQUE NATIONALE DU CANADA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Requête entendue sur preuve commune avec les requêtes de La Société Canada Trust (2006-497(GST)G), de La Banque Toronto-Dominion (2006-506(GST)G), de Banque Amex du Canada (2006-543(GST)G), de Banque Canadienne Impériale de Commerce (2006-816(GST)G) et de Banque de Montréal (2006-987(GST)G),
+le 1er juin 2006, à Toronto (Ontario).
+Devant : L'honorable juge en chef D. G. H. Bowman
+Comparutions :
+Avocats de l'appelante :
+Me Jacques Bernier
+Me Martin Sorensen
+Avocat de l'intimée :
+Me Michael Ezri
+________________________________________________________________
+ORDONNANCE
+Vu la requête des appelantes en application de l'article 58 des Règles de la Cour canadienne de l'impôt (procédure générale) faite afin que la Cour se prononce sur une question;
+La Cour ordonne que la requête soit rejetée avec dépens. Il y aura un seul mémoire d'honoraires d'avocat pour toutes les requêtes.
+Signé à Ottawa (Ontario), ce 23e jour de juin 2006.
+« D. G. H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 2e jour d'octobre 2006.
+Yves Bellefeuille, réviseur
+Dossier : 2006-497(GST)G
+ENTRE :
+LA SOCIÉTÉ CANADA TRUST,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Requête entendue sur preuve commune avec les requêtes de Banque Nationale du Canada (2006-348(GST)G), de La Banque Toronto-Dominion (2006-506(GST)G), de Banque Amex du Canada (2006-543(GST)G), de Banque Canadienne Impériale de Commerce (2006-816(GST)G) et de Banque de Montréal (2006-987(GST)G),
+le 1er juin 2006, à Toronto (Ontario).
+Devant : L'honorable juge en chef D. G. H. Bowman
+Comparutions :
+Avocats de l'appelante :
+Me Jacques Bernier
+Me Martin Sorensen
+Avocat de l'intimée :
+Me Michael Ezri
+________________________________________________________________
+ORDONNANCE
+Vu la requête des appelantes en application de l'article 58 des Règles de la Cour canadienne de l'impôt (procédure générale) faite afin que la Cour se prononce sur une question;
+La Cour ordonne que la requête soit rejetée avec dépens. Il y aura un seul mémoire d'honoraires d'avocat pour toutes les requêtes.
+Signé à Ottawa (Ontario), ce 23e jour de juin 2006.
+« D. G. H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 2e jour d'octobre 2006.
+Yves Bellefeuille, réviseur
+Dossier : 2006-506(GST)G
+ENTRE :
+LA BANQUE TORONTO-DOMINION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Requête entendue sur preuve commune avec les requêtes de Banque Nationale du Canada (2006-348(GST)G), de La Société Canada Trust (2006-497(GST)G), de Banque Amex du Canada (2006-543(GST)G), de Banque Canadienne Impériale de Commerce (2006-816(GST)G) et de Banque de Montréal (2006-987(GST)G),
+le 1er juin 2006, à Toronto (Ontario).
+Devant : L'honorable juge en chef D. G. H. Bowman
+Comparutions :
+Avocats de l'appelante :
+Me Jacques Bernier
+Me Martin Sorensen
+Avocat de l'intimée :
+Me Michael Ezri
+________________________________________________________________
+ORDONNANCE
+Vu la requête des appelantes en application de l'article 58 des Règles de la Cour canadienne de l'impôt (procédure générale) faite afin que la Cour se prononce sur une question;
+La Cour ordonne que la requête soit rejetée avec dépens. Il y aura un seul mémoire d'honoraires d'avocat pour toutes les requêtes.
+Signé à Ottawa (Ontario), ce 23e jour de juin 2006.
+« D. G. H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 2e jour d'octobre 2006.
+Yves Bellefeuille, réviseur
+Dossier : 2006-543(GST)G
+ENTRE :
+BANQUE AMEX DU CANADA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Requête entendue sur preuve commune avec les requêtes de Banque Nationale du Canada (2006-348(GST)G), de La Société Canada Trust (2006-497(GST)G, de La Banque Toronto-Dominion (2006-506(GST)G), de Banque Canadienne Impériale de Commerce (2006-816(GST)G) et de Banque de Montréal (2006-987(GST)G),
+le 1er juin 2006, à Toronto (Ontario).
+Devant : L'honorable juge en chef D. G. H. Bowman
+Comparutions :
+Avocats de l'appelante :
+Me Jacques Bernier
+Me Martin Sorensen
+Avocat de l'intimée :
+Me Michael Ezri
+________________________________________________________________
+ORDONNANCE
+Vu la requête des appelantes en application de l'article 58 des Règles de la Cour canadienne de l'impôt (procédure générale) faite afin que la Cour se prononce sur une question;
+La Cour ordonne que la requête soit rejetée avec dépens. Il y aura un seul mémoire d'honoraires d'avocat pour toutes les requêtes.
+Signé à Ottawa (Ontario), ce 23e jour de juin 2006.
+« D. G. H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 2e jour d'octobre 2006.
+Yves Bellefeuille, réviseur
+Dossier : 2006-816(GST)G
+ENTRE :
+BANQUE CANADIENNE IMPÉRIALE DE COMMERCE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Requête entendue sur preuve commune avec les requêtes de Banque Nationale du Canada (2006-348(GST)G), de La Société Canada Trust (2006-497(GST)G), de La Banque Toronto-Dominion (2006-506(GST)G), de Banque Amex du Canada (2006-543(GST)G) et de Banque de Montréal (2006-987(GST)G),
+le 1er juin 2006, à Toronto (Ontario).
+Devant : L'honorable juge en chef D. G. H. Bowman
+Comparutions :
+Avocats de l'appelante :
+Me Jacques Bernier
+Me Martin Sorensen
+Avocat de l'intimée :
+Me Michael Ezri
+________________________________________________________________
+ORDONNANCE
+Vu la requête des appelantes en application de l'article 58 des Règles de la Cour canadienne de l'impôt (procédure générale) faite afin que la Cour se prononce sur une question;
+La Cour ordonne que la requête soit rejetée avec dépens. Il y aura un seul mémoire d'honoraires d'avocat pour toutes les requêtes.
+Signé à Ottawa (Ontario), ce 23e jour de juin 2006.
+« D. G. H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 2e jour d'octobre 2006.
+Yves Bellefeuille, réviseur
+Dossier : 2006-987(GST)G
+ENTRE :
+BANQUE DE MONTRÉAL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Requête entendue sur preuve commune avec les requêtes de Banque Nationale du Canada (2006-348(GST)G), de La Société Canada Trust (2006-497(GST)G), de La Banque Toronto-Dominion (2006-506(GST)G), de Banque Amex du Canada (2006-543(GST)G) et de Banque Canadienne Impériale de Commerce (2006-816(GST)G),
+le 1er juin 2006, à Toronto (Ontario).
+Devant : L'honorable juge en chef D. G. H. Bowman
+Comparutions :
+Avocats de l'appelante :
+Me Jacques Bernier
+Me Martin Sorensen
+Avocat de l'intimée :
+Me Michael Ezri
+________________________________________________________________
+ORDONNANCE
+Vu la requête des appelantes en application de l'article 58 des Règles de la Cour canadienne de l'impôt (procédure générale) faite afin que la Cour se prononce sur une question;
+La Cour ordonne que la requête soit rejetée avec dépens. Il y aura un seul mémoire d'honoraires d'avocat pour toutes les requêtes.
+Signé à Ottawa (Ontario), ce 23e jour de juin 2006.
+« D. G. H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 2e jour d'octobre 2006.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI363
+Date : 20060623
+Dossiers : 2006-348(GST)G, 2006-497(GST)G,
+2006-506(GST)G, 2006-543(GST)G,
+2006-816(GST)G et 2006-987(GST)G
+ENTRE :
+BANQUE NATIONALE DU CANADA,
+LA SOCIÉTÉ CANADA TRUST,
+LA BANQUE TORONTO-DOMINION,
+BANQUE AMEX DU CANADA,
+BANQUE CANADIENNE IMPÉRIALE DE COMMERCE,
+BANQUE DE MONTRÉAL,
+appelantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge en chef Bowman
+[1] Les appelantes dans les présentes requêtes seront collectivement désignées comme les « banques » . Elles demandent à la Cour de rendre une ordonnance en vertu de l'article 58 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles » ) pour qu'elle se prononce sur la question suivante :
+[TRADUCTION]
+Est-ce que les services en cause dans le présent appel étaient des « services financiers » au sens du paragraphe 123(1) de la Loi sur la taxe d'accise, L.R.C. (1985), ch. E-15, telle qu'elle est modifiée (la « LTA » )?
+[2] L'article 58 des Règles est ainsi libellé :
+Question de droit, de fait ou de droit et de fait
+58(1) Une partie peut demander à la Cour,
+a) soit de se prononcer, avant l'audience, sur une question de droit, une question de fait ou une question de droit et de fait soulevée dans une instance si la décision pourrait régler l'instance en totalité ou en partie, abréger substantiellement l'audience ou résulter en une économie substantielle des frais;
+b) soit de radier un acte de procédure au motif qu'il ne révèle aucun moyen raisonnable d'appel ou de contestation de l'appel,
+et la Cour peut rendre jugement en conséquence.
+[3] Les moyens invoqués au soutien de la requête sont ainsi rédigés dans l'avis de requête (je tiens la requête et les actes de procédure de la Banque de Montréal pour représentatifs) :
+[TRADUCTION]
+1. La question à trancher a été soulevée par les parties au paragraphe 12 de l'avis d'appel et au paragraphe 9 de la réponse à l'avis d'appel.
+2. L'appelante admet les faits allégués au paragraphe 8 de la réponse à l'avis d'appel.
+3. Compte tenu de l'admission faite par l'appelante au paragraphe précédent et des autres admissions faites dans les actes de procédure, il n'y a pas de désaccord important entre les parties au sujet des faits pertinents à l'égard de la question à trancher.
+4. Le fait de se prononcer sur la question réglera l'appel en totalité ou en partie, abrégera substantiellement l'audience ou résultera en une économie substantielle des frais.
+5. Il est dans l'intérêt de la justice que cette requête soit accueillie et examinée de façon expéditive.
+6. Tout autre moyen que l'avocat invoquera et que l'honorable Cour autorisera.
+[4] La position des banques est que puisque les parties s'entendent sur la question en litige et qu'elles admettent toutes les hypothèses sur lesquelles repose la cotisation, aucune autre preuve n'est requise et le litige peut être tranché en tant que question de droit.
+[5] Le paragraphe 12 de l'avis d'appel est ainsi rédigé :
+[TRADUCTION]
+12. La principale question à trancher est de savoir si les services pour lesquels l'appelante a fait des paiements à diverses agences de recouvrement étaient des « services financiers » au sens du paragraphe 123(1) de la LTA. Dans la mesure où les services en question constituent des services financiers, ils sont des « fournitures exonérées » au sens de la LTA.
+Voici le texte du paragraphe 8 de la réponse à l'avis d'appel :
+[TRADUCTION]
+8. En établissant la cotisation à l'égard de l'appelante et en ratifiant cette cotisation, le ministre s'est fondé sur les hypothèses de fait suivantes :
+a) L'appelante est une institution financière;
+b) L'appelante a passé des contrats avec diverses agences de recouvrement afin de recouvrer des créances impayées;
+c) La tâche des agences de recouvrement était de recouvrer et de déposer les sommes dans un compte en fiducie, dont l'appelante était la bénéficiaire;
+d) Dans la mesure où elles respectaient les directives de l'appelante, les agences de recouvrement pouvaient accepter une somme inférieure à la dette à titre de remboursement définitif;
+e) En contrepartie de ces services, les agences de recouvrement touchent un pourcentage des sommes recouvrées.
+Le paragraphe 9 de la réponse à l'avis d'appel est ainsi rédigé :
+[TRADUCTION]
+9. Est-ce que les services fournis à l'appelante par les agences de recouvrement sont des services financiers au sens du paragraphe 123(1) de la partie IX de la LTA?
+[6] Les banques allèguent que la Cour dispose de tous les faits nécessaires pour pouvoir se prononcer sur la question de droit qui lui est soumise. L'intimée s'oppose à la requête et affirme que le litige doit être instruit de la façon habituelle, en présentant une preuve. L'intimée signale également que la même question a déjà été entendue par le juge Angers lors d'un appel interjeté par la Banque Canadienne Impériale de Commerce. Cette affaire est en délibéré.
+[7] Les arguments de Me Ezri sur ce point sont les suivants :
+[TRADUCTION]
+Il y a trois raisons pour lesquelles les présents litiges doivent être instruits de la façon habituelle plutôt que conformément à l'article 58 des Règles :
+1) La question soulevée dans la présente requête a été l'objet d'un procès complet le 30 novembre 2005, auquel l'une des appelantes était partie. Cette cause était intitulée Banque Canadienne Impériale de Commerce c. La Reine, dossier : 2004-1427(GST)G (ci-après « BCIC n º 1 » ) et a été instruite par le juge Angers de la Cour canadienne de l'impôt. Nous joignons les actes de procédure déposés dans ce dossier. Cette affaire est en délibéré. Dans cette affaire, la Cour canadienne de l'impôt a pu entendre le témoin de l'appelante, lequel a été interrogé et contre-interrogé. La Cour a également reçu une transcription de l'interrogatoire préalable de l'appelante et un recueil conjoint de documents. Nous soutenons qu'il servirait mieux l'intérêt de la justice que la décision sur la question soulevée dans la présente requête soit fondée sur la meilleure preuve possible. Une telle preuve se trouve dans le dossier du procès qui a déjà eu lieu et non pas dans une instance tronquée comme celle envisagée par les appelantes.
+2. Bien que les appelantes aient admis les faits énoncés dans les réponses à l'avis d'appel, il y a une différence entre les faits allégués et la preuve sur laquelle ils reposent ou qui existe indépendamment des faits. Dans les présents appels, le dossier factuel qui serait présenté à la Cour comporte plusieurs lacunes qui font en sorte qu'il n'est pas opportun d'accueillir la requête des appelantes. Quelques exemples de ces questions factuelles sont présentés ci-dessous :
+a) Aucun des contrats de services conclus avec les agences de recouvrement n'a été soumis à l'intimée. Nous constatons à cet égard que, dans l'affaire BCIC n º 1, le ministre du Revenu national a effectué une vérification de la demande de remboursement de TPS présentée par l'appelante et qu'il a examiné les contrats. Dans les présentes causes, aucune vérification n'a été effectuée. Dans l'affaire BCIC n º 1, la tarification établie dans les contrats a servi de fondement à l'argument de l'intimée voulant que des services non financiers aient constitué l'essentiel des fournitures.
+b) L'intimée ne dispose d'aucun renseignement au sujet du pourcentage des dossiers assignés à une agence qui aboutissent à un recouvrement. Il se peut que cette preuve soit pertinente parce que le litige entre les parties porte notamment sur des allégations faites par les appelantes selon lesquelles les agences de recouvrement fournissent des services financiers en débitant et en créditant les comptes des débiteurs. Cependant, pendant le procès dans l'affaire BCIC n º 1, certains témoignages, qui ont été faits en contre-interrogatoire, donnent à penser que les montants recouvrés ne représentent qu'entre 15 % et 20 % des créances. L'intimée a l'intention de poursuivre l'examen de cette question dans les prochains procès afin de déterminer le pourcentage de dossiers assignés qui aboutissent à un recouvrement de sorte qu'un compte est débité ou crédité. Des questions semblables seront soulevées au sujet du nombre de comptes à l'égard desquels un accord est conclu selon lequel une somme inférieure au solde dû est acceptée en tant que paiement intégral (il s'agit de l'argument de l'appelante relatif à la « modification » d'un effet financier).
+Nous joignons à la présente une copie des observations écrites de l'intimée déposées dans l'affaire BCIC n º 1 dans lesquelles l'intimée a fait référence, dans 12 des 19 paragraphes qui exposaient les faits de l'affaire, à des éléments de preuve qui n'avaient pas été mentionnés dans les actes de procédure. Il est injuste de forcer l'intimée à se présenter à une audience sans qu'elle puisse invoquer à l'appui de ses prétentions les mêmes moyens de fait que ceux qu'elle a fait valoir dans l'affaire BCIC n º 1. L'intimée invoque la décision Spencer à l'appui de sa prétention voulant qu'il soit inapproprié de demander à la Cour de prononcer ce qui est essentiellement un jugement sommaire en l'absence d'un fondement factuel suffisant :
+Je ne pense pas qu'il convienne en l'espèce de rendre un jugement en vertu de l'article 170.1 des Règles et d'admettre l'appel en se fondant sur une proposition juridique extraite des réponses aux avis d'appel. Il en est particulièrement ainsi lorsque, comme en l'espèce, aucun fait n'a été établi, aucun document n'a été produit et aucun interrogatoire préalable n'a été tenu. Ce n'est que dans les circonstances les plus évidentes qu'un jugement doit être rendu en vertu de l'article 170.1 des Règles. De telles circonstances n'existent assurément pas en l'espèce.
+Donc, pour ce qui est de la première étape, à peu près le même raisonnement que dans le cas de la question concernant l'article 170.1 des Règles s'applique à la question relative à l'article 58 des Règles. La pertinence d'une détermination selon l'article 58 des Règles doit être claire et nette. La question soulevée par la partie appelante peut en définitive être une question de droit, mais elle s'accompagne de nombreuses questions de fait.
+3. Au moyen de la requête, les appelantes cherchent, semble-t-il, à obtenir un jugement favorable sur le fond et à créer des droits acquis pour se soustraire aux modifications à la Loi sur la taxe d'accise qui sont proposées dans le projet de loi d'exécution du budget élaboré récemment (extrait ci-joint) et qui seraient applicables rétroactivement à partir de 1990 si elles étaient adoptées. Ces modifications confirment que les services offerts par les agences de recouvrement sont assujettis à la TPS. Bien qu'il n'y ait rien d'inapproprié dans l'objectif des appelantes, il ne s'agit pas d'un objectif qui est visé par l'article 58 des Règles. Si, comme l'allègue l'intimée, le recours à l'article 58 des Règles n'est pas approprié en l'espèce compte tenu de la nature de la question soulevée dans les présentes affaires, la requête des appelantes doit être rejetée.
+[8] Si l'on me demandait de me prononcer sur la question de savoir si les services fournis par les agences de recouvrement sont des services financiers, je serais incapable de le faire en me fondant sur les faits allégués ou admis dans les actes de procédure. Pour traiter la question de façon intelligente, j'aurais besoin de savoir ce que font les agences de recouvrement. La question du sens de l'expression « service financier » est une question de droit, mais pour pouvoir se prononcer, la Cour doit disposer d'une preuve suffisante.
+[9] Je ne suis pas d'avis qu'il soit approprié pour la Cour de se prononcer sur une question de droit en vertu de l'article 58 des Règles en l'espèce. Je ne reproche pas aux banques de vouloir faire en sorte que la question soit tranchée avant l'entrée en vigueur des modifications rétroactives qui disposent que les services offerts par les agences de recouvrement ne sont pas des services financiers. Cependant, ma décision n'a rien à voir avec la motivation des banques. Le motif pour lequel je rejette la requête est simplement que la question posée n'est pas purement une question de droit qui puisse être tranchée sans tenir compte des faits. Il suffit de lire la définition de l'expression « service financier » donnée au paragraphe 123(1) de la Loi sur la taxe d'accise (la « Loi » ) pour se rendre compte jusqu'à quel point il est essentiel pour pouvoir décider si cette définition s'applique de tenir compte du fondement factuel ayant trait à la nature des activités de la personne qui demande l'exemption. Il n'est pas nécessaire que je reproduise ici la longue définition donnée au paragraphe 123(1) de la Loi. L'avis d'appel expose avec suffisamment de précision la question de fait qui doit être tranchée avant qu'il soit possible de décider si les services fournis sont des services financiers.
+[10] Le paragraphe 16 de l'avis d'appel de la Banque de Montréal est ainsi rédigé :
+[TRADUCTION]
+16. Les services de recouvrement fournis par les agences de recouvrement constituent des services financiers parce qu'ils sont visés par l'un ou l'autre des alinéas suivants de la définition de « service financier » donnée au paragraphe 123(1) de la LTA :
+a) [...] la réception ou le transfert d'argent, réalisé au moyen d'échange de monnaie, d'opération de crédit ou de débit d'un compte ou autrement; [...]
+d) [...] la modification, le transfert de propriété ou le remboursement d'un effet financier [c.-à-d. les titres de créance donnant lieu aux sommes dues]; [...]
+f) le paiement ou la réception d'argent à titre [...] d'intérêts, de principal [...] ou tout paiement ou réception d'argent semblable, relativement à un effet financier [c.-à-d. les titres de créance donnant lieu aux sommes dues]; [...]
+l) le fait de consentir à effectuer un service visé à l'un des alinéas [reproduits ci-dessus] ou de prendre les mesures en vue de l'effectuer; [...]
+[11] L'avocat de l'intimée a renvoyé à certaines décisions de la Cour dans lesquelles des demandes présentées en application de l'article 58 des Règles ont été examinées : Webster c. La Reine, no 2000-5038(IT)G, 5 juillet 2001, 2001 D.T.C. 738; Spencer c. La Reine, no 2001-811(IT)G, 8 août 2001, 2001 D.T.C. 964. Dans ces deux décisions, les demandes ont été rejetées essentiellement pour le motif que la question posée était entourée de considérations factuelles qu'il était préférable de soumettre à l'examen d'un juge du procès, qui pouvait se prononcer sur les questions de fait et les questions de droit. J'estime qu'il est inapproprié pour moi en tant que juge des requêtes de me prononcer sur une question qui sera soumise à un autre juge en l'absence de preuve à l'appui. Il est possible que le juge du procès estime devoir entendre la preuve.
+[12] Mon intention dans les présents motifs n'est pas de décourager le recours à l'article 58 des Règles. Cette disposition a certainement une utilité dans les circonstances appropriées. Cependant, la question de fait de savoir ce que font les agences de recouvrement est si étroitement liée à la question de savoir si les services fournis par les agences de recouvrement sont des services financiers au sens du paragraphe 128(1) de la Loi qu'il serait inapproprié et même impossible d'y répondre en l'absence de toute preuve.
+[13] Les requêtes sont rejetées avec dépens. L'intimée a droit à un seul mémoire d'honoraires d'avocat pour toutes les requêtes.
+Signé à Ottawa, Canada, ce 23e jour de juin 2006.
+« D. G. H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 2e jour d'octobre 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2006CCI363
+Nos DES DOSSIERS DE LA COUR :
+2006-348(GST)G, 2006-497(GST)G,
+2006-506(GST)G, 2006-543(GST)G,
+2006-816(GST)G et 2006-987(GST)G
+INTITULÉ :
+Banque Nationale du Canada, La Société Canada Trust, La Banque Toronto-Dominion, Banque Amex du Canada, Banque Canadienne Impériale de Commerce et Banque de Montréal c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 1er juin 2006
+MOTIFS DU JUGEMENT :
+L'honorable juge en chef D. G. H. Bowman
+DATE DE L'ORDONNANCE ET DES MOTIFS DE L'ORDONNANCE :
+Le 23 juin 2006
+COMPARUTIONS :
+Avocats des appelantes :
+Me Jacques Bernier
+Me Martin Sorensen
+Avocat de l'intimée :
+Me Michael Ezri
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom :
+Cabinet :
+Bennett Jones SRL
+3400 One First Canadian Place
+Toronto (Ontario) M5X 1A4
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

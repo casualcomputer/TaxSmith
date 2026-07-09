@@ -1,0 +1,150 @@
+Title: Gilbert c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30259/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-155-30259-gilbert-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-03-10
+
+# Gilbert c. La Reine
+
+- Citation: 2011 CCI 155
+- Decision date: 2011-03-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7968, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gilbert c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-03-10
+Référence neutre
+2011 CCI 155
+Numéro de dossier
+2008-3145(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3145(IT)G
+ENTRE :
+JEAN-PIERRE GILBERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 29 avril 2010, à Shawinigan (Québec).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelant :
+l’appelant lui-même
+Avocate de l’intimée :
+Me Antonia Paraherakis
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu en date du 28 janvier 2008 concernant l’année d’imposition 2006 est rejeté avec dépens selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 10e jour de mars 2011.
+« Réal Favreau »
+Juge Favreau
+Référence : 2011 CCI 155
+Date : 20110310
+Dossier : 2008-3145(IT)G
+ENTRE :
+JEAN-PIERRE GILBERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel à l’encontre d’une nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu, L.R.C. 1985 ch. 1 (5e Suppl.), telle que modifiée (la « Loi »), en date du 28 janvier 2008 concernant l’année d’imposition 2006 de l’appelant par laquelle la somme de 112 558 $ a été ajoutée au revenu de l’appelant à titre de revenu d’entreprise.
+[2] Le litige porte sur le traitement fiscal du gain réalisé lors de la vente d’un immeuble situé au 181, rue Beaubien à Trois-Rivières (secteur Pointe-du-Lac) (ci‑après l’« Immeuble Beaubien »).
+[3] En établissant la nouvelle cotisation en litige, le ministre du Revenu national (le « ministre ») s’est basé sur les hypothèses de fait suivantes, décrites au paragraphe 18 de la Réponse à l’avis d’appel;
+a. l’appelant œuvre dans le domaine de la construction depuis plusieurs années;
+b. l’appelant construit et revend des immeubles résidentiels (ci-après les « Immeubles »);
+c. entre 1996 et 2006, l’appelant a construit et a vendu sept Immeubles;
+d. les terrains sur lesquels ont été construits les Immeubles sont tous situés dans le même secteur;
+e. les Immeubles ont tous été vendus à l’appelant par deux sociétés, soit Gestion Del Inc. ou 9056-4998 Québec Inc.;
+f. l’appelant a construit lui-même l’Immeuble Beaubien;
+g. le coût de l’Immeuble Beaubien a été établi à 109 442 $ et a été vendu par l’appelant pour 222 000 $;
+h. l’intention de départ de l’appelant était de vendre l’Immeuble Beaubien pour réaliser un profit;
+i. l’appelant n’a jamais eu l’intention d’habiter dans l’Immeuble Beaubien à long terme;
+j. chacun des immeubles construits par l’appelant a été en sa possession pour une période variant entre six mois et deux ans;
+k. l’appelant habitait chacun des immeubles avant de les vendre;
+l. l’achat et la vente d’immeubles constituaient une source de financement pour l’appelant.
+Position de l’appelant
+[4] Selon l’appelant, la construction de l’Immeuble Beaubien ainsi que son rachat n’ont pas été effectués dans le but de réaliser un profit lors de la vente dudit immeuble mais plutôt dans le but de l’habiter en tant que résidence principale pendant toute la période où il en a été le propriétaire. Son but premier était d’assurer un foyer stable pour ses deux enfants dont il avait la garde légale. Il s’est résigné à vendre ladite résidence en raison des souvenirs qui y étaient rattachés et des malaises dans ses relations avec le voisinage suite aux plaintes au pénal déposées par son ex‑épouse.
+Les faits mis en preuve
+[5] Monsieur Gilbert a témoigné à l’audience et il a fourni les informations suivantes concernant l’Immeuble Beaubien et certains autres évènements contemporains :
+a) le terrain sous-jacent à l’Immeuble Beaubien a été acquis par un acte notarié daté du 2 juin 2003 par l’ex-conjointe de l’appelant, madame Annie Jean, au coût de 10 000 $ payé comptant. Le vendeur était la société 9056-4998 Québec Inc., une société appartenant à monsieur Denis Beaubien;
+b) par un acte de garantie hypothécaire immobilière datée du 30 mai 2003, madame Annie Jean a consenti une hypothèque sur ledit terrain avec la maison en construction s’y trouvant aux Caisses populaires et caisses d’économie Desjardins afin de garantir un contrat de prêt au montant originaire de 72 000 $ consenti le 23 septembre 2002 à madame Annie Jean et à monsieur Jean-Pierre Gilbert. Ce prêt comportait un taux d’intérêt de 25 % l’an;
+c) le 7 avril 2003, un permis de construire une résidence familiale a été émis par la municipalité à madame Annie Jean;
+d) l’appelant a construit lui-même la résidence avec l’aide du père de son ex-conjointe et d’amis. La résidence a été occupée par l’appelant et sa famille à compter du 1er septembre 2003;
+e) alors que la construction de l’Immeuble Beaubien était presque terminée et était habitable, l’appelant a constitué, le 22 septembre 2003, la société Constructions et Habitations GB Inc. dans le but d’effectuer des travaux de construction. L’appelant était administrateur, président et premier actionnaire de cette société à la hauteur de 50 % tandis que la société 9056-4998 Québec Inc. appartenant à monsieur Denis Beaubien, en était le deuxième actionnaire à la hauteur de 50 %;
+f) l’appelant et sa conjointe se sont séparés le 24 novembre 2003 et une procédure de divorce a été intentée par madame Jean en date du 8 janvier 2004. Le jugement de divorce fut prononcé le 7 mars 2005. Aux termes de la convention partielle sur mesures accessoires et de l’annexe à la convention partielle signées par les parties, l’appelant a obtenu la garde légale des deux enfants nés du mariage des parties, alors âgés de 5 et 4 ans;
+g) par un jugement de prise en paiement prononcé le 10 août 2004 par la Cour supérieure du district de Trois-Rivières, la créancière Caisses populaires et caisses d’économie Desjardins est devenue propriétaire de l’Immeuble Beaubien. Un préavis d’exercice d’un droit hypothécaire avait préalablement été signifié à l’appelant et à sa conjointe le 29 mars 2004 pour défaut de paiement d’une créance s’élevant alors à 70 354,37 $;
+h) malgré le jugement de prise en paiement enregistré le 21 septembre 2004, la créancière Caisses populaires et caisses d’économie Desjardins de Trois-Rivières a autorisé l’appelant à continuer d’occuper sur une base temporaire l’Immeuble Beaubien moyennant un loyer mensuel de 500 $;
+i) aux termes d’un acte d’achat en date du 22 décembre 2004, l’appelant s’est porté acquéreur de l’Immeuble Beaubien pour un prix de 83 000 $, alors que la base d’imposition aux fins des droits de mutation était de 167 300 $ (aucune copie signée de cet acte d’achat n’a été mise en preuve);
+j) aux termes d’un acte de main levée en date du 10 novembre 2005, la Garantie des Bâtiments Résidentiels Neufs de l’APCHQ Inc. a radié de l’inscription des droits hypothécaires, l’avis d’hypothèque légale résultant d’un jugement daté du 13 juillet 2005 sur l’Immeuble Beaubien;
+k) le 17 janvier 2006, l’appelant a vendu l’Immeuble Beaubien pour la somme de 222 000 $; la date d’occupation par le nouveau propriétaire a été fixée au 1er mars 2006.
+[6] En contre-interrogatoire, monsieur Gilbert a reconnu avoir effectué les transactions immobilières suivantes :
+a) l’appelant et sa conjointe ont acquis de Gestion Del Inc. au coût de 5 000 $, le 26 octobre 1995, un terrain vacant (lots 196‑76 et 197‑98) situé dans la paroisse de la Visitation de la Pointe‑du‑Lac. Ils y ont construit une résidence qu’ils ont habitée vers la fin du mois de décembre 1996. Ladite résidence sise au 6170, 6e avenue, Place Dubois, Pointe‑du‑Lac a été vendue le 22 avril 1997 au prix de 76 500 $;
+b) le 23 avril 1997, l’appelant et sa conjointe ont acquis de Gestion Del Inc. au coût de 5 900 $ un terrain vacant (lot 199‑98) situé dans la paroisse de la Visitation de la Pointe‑du‑Lac. Ils y ont construit une résidence qu’ils ont habitée vers le 15 juin 1997. Ladite résidence sise au 7070, 7e Avenue, Place Dubois, Pointe‑du‑Lac a été vendue le 16 juin 1998 au prix de 80 000 $;
+c) le 25 mai 1998, l’appelant et sa conjointe ont acquis de Gestion Del Inc. au coût de 8 625 $ un terrain vacant (lot 196‑93) situé dans la paroisse de la Visitation de la Pointe‑du‑Lac. Constructions J.P. Gilbert Inc. a construit une résidence sise au 7181, 7e Avenue, Place Dubois, Pointe‑du‑Lac, laquelle a été vendue à l’appelant et à sa conjointe le 17 juillet 1998 au prix de 67 979 $. L’appelant et sa conjointe ont revendu ladite résidence le 30 novembre 2000 au prix de 110 000 $;
+d) le 1er décembre 2000, Gestion Del Inc. a vendu à Constructions J.P. Gilbert Inc. au coût de 7 000 $ un terrain (lots 197‑138 et 196‑92) situé dans la paroisse de la Visitation de la Pointe‑du‑Lac. Le 7 décembre 2000, Constructions J.P. Gilbert Inc. a vendu à l’appelant et à sa conjointe au prix de 68 496,25 $ une maison modèle sise au 7171, 7e Avenue, Place Dubois, Pointe‑du‑Lac (la maison modèle a été construite avant l’acquisition du terrain). Ladite maison modèle a été vendue le 18 mai 2001 au prix de 85 000 $;
+e) le 30 mai 2001, la société 9056-4998 Québec Inc. a vendu à l’appelant et à sa conjointe au coût de 13 531,84 $ un terrain (lots 1797844 et 2401900) situé au 668, chemin Sainte‑Marguerite, Pointe‑du‑Lac. La résidence a été construite avant l’acquisition du terrain et a été habitée à compter du mois de juin 2001. Par un acte de garantie hypothécaire immobilière datée du 29 mai 2001, l’appelant et sa conjointe ont consenti aux Caisses populaires et caisses d’économie Desjardins une hypothèque sur ledit terrain avec la maison en construction s’y trouvant pour un montant totalisant 119 050,34 $ pour garantir le remboursement de sommes dues en vertu de deux contrats de prêt consentis le 16 juillet 1998 et le 21 avril 1999 au taux de 25 %. Le 23 septembre 2002, l’appelant et sa conjointe ont contracté auprès des Caisses populaires et caisses d’économie Desjardins un emprunt d’un montant de 72 000 $ à un taux fixe de 15 % et ont consenti une hypothèque sur ladite résidence pour garantir le remboursement dudit prêt. Ladite résidence a été vendue le 30 mai 2003 au prix de 190 000 $;
+f) suite à la vente de l’Immeuble Beaubien, l’appelant a acquis, le 15 mai 2006, auprès de la société 9056-4998 Québec Inc. au prix de 10 000 $ un terrain vacant dans le domaine Beaubien, sis au 9663, rue Sainte‑Marguerite à Trois‑Rivières (secteur Pointe‑du‑Lac). L’appelant a demandé son permis pour construire une résidence unifamiliale en mars 2006 et après l’avoir construite, il l’a mis en vente au mois de juin 2007 au prix de 310 000 $.
+[7] La vérificatrice de l’Agence du Revenu du Canada, Stéphanie Leclerc, a témoigné à l’audience. Elle a dit avoir d’abord recherché l’intention de l’appelant au moment de la construction de l’Immeuble Beaubien. Selon elle, l’appelant avait, comme motif déterminant pour faire l’acquisition de l’immeuble, à tout le moins l’intention secondaire de revendre l’immeuble à profit. Par la suite, elle a considéré les autres critères, à savoir les activités antérieures de l’appelant, son mode d’opération, la fréquence et le financement des transactions, la durée de détention des immeubles, les revenus déclarés et les autres sources de revenu de l’appelant.
+[8] La vérificatrice a constaté que l’appelant avait opéré, de 1998 à 2001, sa propre compagnie de construction, soit la société Constructions J.P. Gilbert Inc. et qu’il a constitué, le 22 septembre 2003, la société Constructions et Habitations GB Inc. dans laquelle il détenait 50 % des actions.
+[9] La vérificatrice a révélé que l’appelant avait effectué, de 1996 à 2006, sept transactions immobilières lesquelles ont toutes été réalisées dans le même secteur, soit à Pointe-du-Lac. Les terrains vacants ont tous été vendus à l’appelant par les mêmes personnes, soit Gestion Del Inc. et 9056-4998 Québec Inc.
+[10] La vérificatrice a de plus constaté que la durée de détention et d’habitation des résidences était de courte durée, soit de 6 à 30 mois, ce qui correspond au temps habituellement requis pour compléter la construction de chaque résidence. Le taux d’intérêt de 25 % exigé par les Caisses populaires et caisses d’économie Desjardins pour financer les opérations de l’appelant ne correspondait pas à un taux d’intérêt habituel qu’un acheteur d’une maison neuve à long terme est prêt à payer pour faire l’acquisition d’une telle maison.
+[11] La vérificatrice a également noté que l’appelant n’avait déclaré, de 1996 à 2006, aucun revenu d’entreprise suite à la vente des résidences unifamiliales. Pour 2001 et 2002, l’appelant n’a déclaré que des revenus d’intérêt de 90 $ et de 48 $ respectivement. Pour 2003, l’appelant a déclaré un revenu d’intérêt de 13 $ et un revenu d’emploi de 11 025 $, alors qu’il était un vendeur d’automobiles pour un concessionnaire Honda. Il a été remercié de ses services en novembre 2003.
+[12] La vérificatrice a finalement expliqué que le coût de l’Immeuble Beaubien avait été établi à partir du montant déclaré pour les remboursements de taxes, soit 109 442 $.
+Analyse et conclusion
+[13] Comme je l’ai indiqué dans l’arrêt Ayala c. La Reine, 2010 CCI 206, aux paragraphes 9, 10 et 11, les principes applicables lorsqu’un bien immobilier est vendu sont les suivants :
+[9] […] la Loi ne contient aucun critère permettant de distinguer un gain en capital d’un revenu d’entreprise (y compris un revenu résultant d’une affaire de caractère commercial), ce qui oblige la Cour à référer aux critères élaborés par la jurisprudence. Par contre, il n’existe aucun critère permettant de déterminer avec certitude si une transaction donne lieu à la réalisation d’un gain en capital ou d’un revenu d’entreprise. Chaque situation constitue donc un cas d’espèce à analyser à la lumière des faits.
+[10] Parmi les critères élaborés par la jurisprudence, il y a lieu de mentionner les suivants :
+i. la nature des biens vendus;
+ii. la durée au cours de laquelle le contribuable est demeuré propriétaire des biens;
+iii. la fréquence et le nombre de transactions réalisées par le contribuable;
+iv. les travaux réalisés par le contribuable sur les biens;
+v. les circonstances entourant la vente des biens; et
+vi. l’intention du contribuable lorsqu’il a fait l’acquisition des biens, telle que révélée (sic) par sa conduite.
+[11] En plus de ces critères, les tribunaux canadiens ont développé le critère de "l’intention secondaire" qui peut s’appliquer même lorsqu’il est établi que le contribuable avait comme intention principale de réaliser un investissement à long terme. Ce critère s’applique, si au moment de l’acquisition du bien, le contribuable avait à l’esprit la possibilité de vendre le bien à profit si son projet d’investissement à long terme ne pouvait se réaliser pour quelque raison que ce soit.
+[14] Dans le cas présent, l’appelant est un auto‑constructeur qui a de l’expérience dans ce domaine de même que des antécédents commerciaux. Entre 1996 et 2006 inclusivement, l’appelant a construit sept résidences unifamiliales, qu’il a habituées avant de les vendre. De 1998 à 2001, il avait sa propre compagnie de construction, Construction J.P. Gilbert Inc., et, depuis 2004, l’appelant est actionnaire à 50 % de la société, Constructions et Habitations GB Inc., qui oeuvrent également dans la construction de résidences unifamiliales dans le secteur de Pointe‑du‑Lac.
+[15] Selon la preuve, la façon d’opérer de l’appelant consistait à acheter un terrain vacant à la fois, à y ériger une résidence unifamiliale, à l’habiter quelques mois et à la revendre à profit. Parfois, l’appelant débutait la construction de la résidence avant même d’avoir officiellement acquis le terrain vacant. Les résidences construites par l’appelant étaient toutes situées dans le secteur de Pointe‑du‑Lac, sur la même rue ou sur des rues adjacentes. Les terrains vacants étaient tous achetés des deux mêmes sociétés, soit de Gestion Del Inc. avant l’année 2000 et de 9056‑4998 Québec Inc. par la suite.
+[16] La durée de détention des résidences variait de 6 mois à 24 mois. La résidence sise au 9663 rue Sainte‑Marguerite a été mise en vente 6 mois après la fin de la construction. La résidence du 181 rue Beaubien a été détenue sur une période totale d’environ 30 mois. Lors de cette période, l’appelant a eu des problèmes familiaux et la créancière hypothécaire a dû reprendre la propriété de la résidence suite à la séparation du couple. Le jugement de prise en paiement de la résidence a été enregistré le 21 septembre 2004 mais l’appelant a continué d’y habiter sur une base temporaire moyennant le paiement d’un loyer mensuel de 500 $. Le 22 décembre 2004, l’appelant a acquis ladite résidence pour un prix de 83 000 $ alors que la base d’imposition aux fins des droits de mutation était de 167 300 $. Après voir obtenu le 10 novembre 2005, une main levée de l’hypothèque légale inscrite par la Garantie des Bâtiments Résidentiels Neufs de l’APCHQ, l’appelant a vendu, le 17 janvier 2006, ladite résidence pour la somme de 222 000 $. Dans les circonstances, les problèmes familiaux et légaux que l’appelant a dû surmonter semblent expliquer le délai prolongé entre la construction de la résidence et la vente de celle‑ci.
+[17] Au moment de l’acquisition du terrain sous‑jacent à l’Immeuble Beaubien et de la construction de ladite résidence, l’appelant avait à tout le moins l’intention secondaire, si ce n’est l’intention primaire, de la revendre à profit. L’appelant n’a pas été en mesure de démontrer, à la lumière des circonstances entourant l’acquisition de l’Immeuble Beaubien, qu’il avait l’intention de l’habiter à long terme.
+[18] Lors de l’acquisition de l’Immeuble Beaubien, une hypothèque a été enregistrée sur cet immeuble afin de garantir un prêt de 72 000 $ comportant un taux d’intérêt de 25 %. Ce taux d’intérêt est considéré comme étant très élevé et a sans aucun doute été exigé par l’institution prêteuse en fonction du risque assumé. En soi, cette garantie hypothécaire représente un facteur tendant à démontrer que l’intention de l’appelant n’était pas d’effectuer un investissement à long terme. Il y a lieu d’indiquer ici que l’appelant se servait de son ex‑conjointe comme façade ou prête‑nom pour effectuer certaines transactions parce qu’il faisait l’objet de poursuites de la part de l’APCHQ pour des problèmes associés au roc ferreux.
+[19] L’examen des critères applicables amène à la conclusion qu’il est beaucoup plus plausible que l’appelant ait acquis l’Immeuble Beaubien dans le but de le revendre à profit plutôt que de le considérer comme un investissement à long terme. L’appelant s’est effectivement départi de cette résidence dès que les problèmes légaux découlant de son divorce et de la poursuite de l’APCHQ ont été réglés.
+[20] L’argument présenté par l’appelant à l’effet qu’il désirait assurer une stabilité à ses deux enfants n’est pas vraiment plausible parce que le changement de résidences faisait partie de leur mode de vie. Le premier enfant de l’appelant est né le 13 décembre 1999 et ce dernier a habité dans quatre résidences avant d’occuper celle faisant l’objet du présent litige. De toute façon, comme les résidences construites par l’appelant étaient toutes situées dans le même secteur, ses enfants pouvaient continuer de fréquenter les mêmes amis et la même école et utiliser les mêmes équipements sportifs.
+[21] L’autre argument présenté par l’appelant à l’effet qu’il s’est résigné à vendre l’Immeuble Beaubien en raison des souvenirs qui y étaient rattachés et des malaises dans ses relations avec le voisinage ne tiennent pas la route non plus parce que l’appelant s’est construit une nouvelle résidence dans le même secteur après avoir vendu l’Immeuble Beaubien.
+[22] En terminant, j’aimerais souligner que l’appelant devrait se réjouir du fait que le ministre ait considéré que le coût de l’Immeuble Beaubien était de 109 442 $, puisque d’un point de vue purement technique et légal, le coût aurait dû être 83 000 $, soit le prix qu’il a payé pour faire l’acquisition dudit immeuble aux termes de l’acte d’achat du 22 décembre 2004.
+[23] Pour ces motifs, l’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 10e jour de mars 2011.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2011 CCI 155
+Nº DU DOSSIER DE LA COUR : 2008-3145(IT)G
+INTITULÉ DE LA CAUSE : Jean-Pierre Gilbert et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Shawinigan (Québec)
+DATE DE L’AUDIENCE : le 29 avril 2010
+MOTIFS DU JUGEMENT PAR : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : le 10 mars 2011
+COMPARUTIONS :
+Pour l’appelant :
+l’appelant lui-même
+Avocate de l’intimée :
+Me Antonia Paraherakis
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant:
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

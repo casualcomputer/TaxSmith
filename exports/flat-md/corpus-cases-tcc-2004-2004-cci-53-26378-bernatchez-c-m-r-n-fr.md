@@ -1,0 +1,167 @@
+---
+title: "Bernatchez c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26378/index.do"
+last_modified: "2004-01-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 53"
+citation2: ""
+neutral_citation: "2004 CCI 53"
+decision_date: "2004-01-30"
+language: "fr"
+item_id: "26378"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3391
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:03:40.894000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a33c532f2dc0daee1d46a99052eb6e5f6da3b535a7ef5c0fef9ced0dde0f1225"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bernatchez c. M.R.N.
+
+- Citation: 2004 CCI 53
+- Decision date: 2004-01-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3391, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bernatchez c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-30
+Référence neutre
+2004 CCI 53
+Numéro de dossier
+2003-1952(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-1952(EI)
+ENTRE :
+LUCIENNE BERNATCHEZ,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 9 octobre 2003, à Québec (Québec).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Marie-Aimée Cantin
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 30e jour de janvier 2004.
+« Paul Bédard »
+Juge Bédard
+Référence : 2004CCI53
+Date : 20040130
+Dossier : 2003-1952(EI)
+ENTRE :
+LUCIENNE BERNATCHEZ,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s'agit d'un appel de la décision du 20 février 2003 de l'intimé, selon laquelle l'emploi qu'occupait l'appelante satisfaisait aux exigences d'un contrat de louage de services puisqu'il existait une relation employeur-employée. De plus, il a établi que le montant de la rémunération assurable provenant de cet emploi au cours de la période en litige, soit du 1er juillet au 31 décembre 2001 (la « période en litige » ) s'élevait 8 914,40 $.
+[2] L'intimé s'est appuyé notamment sur l'alinéa 5(1)a) et le paragraphe 93(3) de la Loi sur l'assurance-emploi, L.C. (1996), ch. 23 (la « Loi » ) et sur l'article 3 du Règlement sur la rémunération assurable et la perception des cotisations (le « Règlement » ).
+[3] En rendant sa décision, le ministre du Revenu national (le « ministre » ) s'est notamment appuyé sur les hypothèses de fait suivantes, énoncées au paragraphe 6 de la Réponse à l'avis d'appel :
+a) Le payeur, Les Immeubles G. Gagné Inc., a comme principale activité la gestion d'immeubles résidentiels ainsi que la construction.
+b) Le payeur est propriétaire d'une trentaine d'immeubles qui comptent environ 300 unités de location.
+c) Le payeur a embauché l'appelante à titre d'agente de location.
+d) L'appelante rend des services au payeur depuis mars 1997.
+e) Ses fonctions consistent principalement à s'occuper de la location des logements ce qui implique la visite des logements aux locataires potentiels, les enquêtes de crédit, la préparation des baux, gérer l'entretien et les réparations à effectuer et préparer les soumissions à cet effet.
+f) Des mois de janvier à juillet, l'appelante travaille à temps plein pour le payeur, à raison de 40 à 80 heures par semaine.
+g) Pendant les périodes plus tranquilles, soit des mois de août à décembre, les heures de travail de l'appelante sont réduites à raison de 10 heures par semaine.
+h) Le payeur a soumis un relevé d'emploi à l'appelante en indiquant que le dernier jour payé était le 28 juillet 2001 alors qu'elle a continué de rendre des services au payeur et d'être rémunérée après cette période.
+i) Les registres des salaires et des heures travaillées, soumis par le payeur, indiquent que pendant la période en litige, l'appelante travaillait 10 heures par semaine et qu'elle était rémunérée selon un taux horaire de 9,50 $.
+j) Les registres indiquent aussi que l'appelante n'a rendu aucun service au payeur et n'a reçu aucune rémunération pour les périodes de paie du 9 et du 16 août 2001.
+k) Pendant la période en litige, l'appelante a reçu un boni de location s'élevant à 2 000 $.
+l) Du 1er janvier au 30 juin 2001, la travailleuse a assumé personnellement les coûts mensuels de son logement situé au 1-235 des Bouleaux à Québec.
+m) Du 1er juillet au 31 décembre 2001, le payeur lui a fourni gratuitement un logement situé a 4-690 Des Groseilles à Québec.
+n) Le payeur a établi la valeur de l'avantage du logement fourni à l'appelante à 300 $ par mois.
+o) Durant la période en litige, la rémunération assurable totalisait 8 914,40 $ et se détaillait de la façon suivante :
+Salaire de juillet à décembre 2001 : 5 114,40 $
+Avantage imposable logement (6 X 300 $) : 1 800,00 $
+Bonis de location : 2 000,00 $
+Total : 8 914,40 $.
+[4] Toutefois, la rémunération assurable de 8 914,40 $ a été rajustée à 8 794,40 $ afin de tenir compte d'un avantage imposable, soit le logement, dont la valeur s'élevait à 1 680 $ au lieu de 1 800 $ puisque aucune rétribution en espèces n'a été versée à l'appelante pour les périodes de paie se terminant le 9 et le 16 août 2001.
+[5] En fait, le seul point en litige soulevé par l'appelante est le suivant : elle a soutenu que l'avantage provenant du logement dont elle a joui durant la période en litige aurait dû être ajouté à sa rémunération assurable pour la période de janvier à juillet 2001 (première période) et non pas à celle pour la période en litige.
+[6] L'appelante a témoigné que son contrat d'emploi verbal avec Les Immeubles G. Gagné Inc. prévoyait que celle-ci devait lui fournir un logement gratuitement pendant la première période et qu'elle n'avait pu respecter son engagement à cet égard puisque toutes les unités de logement dont elle était propriétaire étaient louées. L'appelante a alors ajouté qu'elle avait dû louer un logement d'un tiers et en assumer le coût durant la première période. L'appelante a soutenu que son employeur lui avait plutôt fourni gratuitement un logement pour la période en litige à titre de dédommagement pour le non-respect de son obligation contractuelle de lui fournir gratuitement un logement pendant la première période et non en raison de son emploi pendant la période en litige.
+[7] Monsieur Gagné, actionnaire et administrateur de l'employeur, a confirmé dans son témoignage à tous égards la version des faits donnée par l'appelante.
+Analyse
+[8] Je devrai donc déterminer si la valeur de l'avantage du logement reçu par l'appelante durant la période en litige doit être ajoutée à sa rémunération assurable pour cette période. Les dispositions du Règlement qui traitent de cette question se trouvent à l'article 2, qui est ainsi rédigé :
+(1) Pour l'application de la définition de « rémunération assurable » au paragraphe 2(1) de la Loi et pour l'application du présent règlement, le total de la rémunération d'un assuré provenant de tout emploi assurable correspond à l'ensemble des montants suivants :
+a) le montant total, entièrement ou partiellement en espèces, que l'assuré reçoit ou dont il bénéficie et qui lui est versé par l'employeur à l'égard de cet emploi;
+b) le montant de tout pourboire que l'assuré doit déclarer à l'employeur aux termes de la législation provinciale.
+(2) Pour l'application de la présente partie, le total de la rémunération d'un assuré provenant d'un emploi assurable comprend la partie impayée de cette rémunération qui n'a pas été versée à cause de la faillite de l'employeur, de sa mise sous séquestre effective ou imminente ou d'un non-paiement de rétribution à l'égard duquel l'assuré a déposé une plainte auprès de l'organisme fédéral ou provincial de main-d'oeuvre. Est exclu du total de la rémunération tout montant impayé qui se rapporte au temps supplémentaire ou qui aurait été versé en raison de la cessation de l'emploi.
+(3) Pour l'application des paragraphes (1) et (2), sont exclus de la rémunération :
+a) la somme représentant la valeur de la pension, du logement et autres avantages qu'une personne a reçus ou dont elle a joui au cours d'une période de paie au titre de son emploi, si l'employeur ne lui verse aucune rétribution en espèces pour cette période;
+a.1) tout somme qui est exclue du revenu en vertu des alinéas 6(1)a) ou b) ou des paragraphes 6(6) ou (16) de la Loi de l'impôt sur le revenu;
+b) les allocations de retraite;
+c) tout montant supplémentaire versé par l'employeur à une personne afin d'augmenter les indemnités d'accident du travail versées à celle-ci par un organisme provincial;
+d) tout montant supplémentaire versé par l'employeur à une personne afin d'augmenter les indemnités d'assurance-salaire versées à celle-ci par une tierce partie;
+e) les prestations supplémentaires de chômage versées à une personne dans le cadre d'un régime de prestations supplémentaires de chômage visé au paragraphe 37(2) du Règlement sur l'assurance-emploi;
+f) tout montant versé par l'employeur à une personne, soit à titre d'indemnité durant le délai de carence visé à l'article 13 de la Loi, soit pour augmenter les prestations de maternité payables en vertu de l'article 22 de la Loi ou les prestations parentales payables en vertu de l'article 23 de la Loi, si les conditions énoncées à l'article 38 du Règlement sur l'assurance-emploi sont respectées;
+[9] Bien que l'appelante a reçu cet avantage à titre de dédommagement pour la non-exécution d'une obligation antérieure, je suis d'avis qu'en vertu de l'alinéa 3(2)a) du Règlement il faut ajouter à la rémunération assurable de l'appelante, pour la période en litige, la valeur du logement dont elle a joui durant cette période alors qu'elle était rémunérée en tant qu'employée.
+[10] Je suis d'avis que l'avantage reçu à titre de dédommagement doit être traité pour les fins du Règlement de la même façon que l'aurait été l'avantage qu'elle aurait dû recevoir en vertu de l'obligation antérieure. De plus, cet avantage, même s'il a été reçu à titre de dédommagement pour le non-respect d'une obligation antérieure, doit être ajouté à la rémunération assurable de l'appelante au moment de sa réception.
+[11] Certes, l'employeur en ne respectant pas son obligation, a peut-être causé personnellement un préjudice à l'appelante. Toutefois, je n'ai pas à dédommager pour autant l'appelante du préjudice causé par l'employeur en rendant une décision favorable à l'appelante qui irait à l'encontre de la Loi telle qu'elle doit être interprétée.
+[12] Pour ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 30e jour de janvier 2004.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2004CCI53
+No DU DOSSIER DE LA COUR :
+2003-1952(EI)
+INTITULÉ DE LA CAUSE :
+Lucienne Bernatchez et M.R.N.
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+Le 9 octobre 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 30 janvier 2004
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Pour l'intimé :
+Me Marie-Aimée Cantin
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

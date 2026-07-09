@@ -1,0 +1,183 @@
+Title: Popovich v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521250/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-44-521250-popovich-v-the-king-en.md
+Document type: case_law
+Last modified: 2024-02-15
+
+# Popovich v. The King
+
+- Citation: 2024 TCC 44
+- Decision date: 2024-02-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5515, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Popovich v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-02-15
+Neutral citation
+2024 TCC 44
+File numbers
+2023-2064(IT)APP
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2023-2064(IT)APP
+BETWEEN:
+PETER POPOVICH,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Application heard on February 15, 2024 at Vancouver, British Columbia
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Agent for the Applicant:
+Raymond Wiseman
+Counsel for the Respondent:
+Jessica Ko
+ORDER
+WHEREAS THE COURT HAS PUBLISHED its reasons for order on this date;
+NOW THEREFORE THIS COURT ORDERS THAT:
+The application for an extension of time to file a notice of appeal of a notice of confirmation dated June 22, 2022 concerning the 2005 taxation year is dismissed because the application was not filed within the time prescribed under paragraph 167(5)(a) of the Income Tax Act; and,
+There shall be no costs.
+Signed at Toronto, Ontario, this 17th day of April, 2024.
+“R. S. Bocock”
+Bocock J.
+Citation: 2024 TCC 44
+Date: 20240219
+Docket: 2023-2064(IT)APP
+BETWEEN:
+PETER POPOVICH,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+AMENDED REASONS FOR ORDER
+Bocock J.
+Introduction
+[1] This application for an extension of time to file a Notice of Appeal is brought concerning the Applicant’s 2005 taxation year.
+[2] Initially, the Applicant validly objected on June 8, 2009 to the reassessment. In turn, the Minister confirmed the Applicant’s 2005 reassessment by notice of confirmation dated June 22, 2022 (“confirmation”). The Applicant admits he received the confirmation by mail likely no more than 2 days later. The Applicant did not file a notice of appeal within the 90 days as was his right under subsection 169(1) of the Income Tax Act (“ITA”).
+[3] Subsequently, the Applicant’s present agent sent a notice of application to extend the time to file an appeal (“extension application”), together with an attached notice of appeal, to the TCC Registry in Vancouver. The Applicant asserts that the extension application was faxed on September 20, 2023 at 20:24 (8:24 p.m.). An Applicant produced facsimile transmission record in the agent’s possession appears to confirm this. That record referenced 13 pages and took 7 minutes and 58 seconds to transmit. Therefore, the Applicant argues the extension application, in its entirety, was physically in the TCC registry office as evidenced by virtue of the fax transmission report on September 20, 2023 at 20:32 (8:32 p.m.). Sometime the next morning, court registry staff date stamped the extension application as filed, when next in the office, on September 21, 2023.
+Filing Notice of Appeal and Extension Requests
+[4] The parties do not dispute these facts; the parties do however dispute the “effective” date of the confirmation and the filing date of the extension application. Both do so because of the specifically applicable deadlines for filing the extension application.
+[5] Subsection 169(1) of the ITA provides that the taxpayer may appeal a confirmed reassessment, but states no appeal may be initiated if 90 days have elapsed after the confirmation notice has been “sent” to the taxpayer.
+[6] If the taxpayer misses the 90 day period, there is another operative period, a one year grace period. Subsection 167(1) provides that such an extension application may be brought to the Tax Court. Subsection 167(3) states that an extension application is made “by filing … [the extension application]… in the Registry of the Tax Court… in accordance with… the Tax Court of Canada Act.” Upon so filing the extension application, the Tax Court may grant an order extending the time and receiving the notice of appeal, provided however the applicant satisfies certain conditions.
+[7] These conditions are both temporal and qualitative. The temporal or time deadline is mandatory. Subsection 167(5), and specifically paragraph 167(5)(a), state clearly that “No order [for extension] shall be made… unless the application is made within one year after the expiration... ” for filing the notice of appeal (see subsection 169(1) in paragraph 5 above).
+Why the Dates Matter Most In This Application
+[8] And now to the dates concerning this extension application. If the effective date of the notice of confirmation was June 22, 2022, the 90 days under s. 169 expired on September 20, 2022. From that date, the Applicant, under 167(5)(a) was required to “file” his extension application within one year after September 20, 2022: September 20, 2023. As described above, the TCC Registry memorialized the “filing” of the extension application, per its stamp, on September 21, 2023. That was the day after September 20, 2023, the Minister’s asserted deadline. If these dates are correct, the extension application is out of time. Hence the hearing of this application.
+Legal Positions of the Parties
+Applicant
+[9] The Applicant’s agent argues the extension application was on time for two reasons, each in the alternative.
+TCC’s Receipt date of extension application
+[10] First, the agent contends that the extension application was sent by fax, in its entirety, on September 20, 2023. The Tax Court of Canada Rules (the “Rules”) provide for filing by fax. Subsection 4.2(a) provides as follows:
+4.2 Except as otherwise provided in these Rules and unless otherwise directed by the Court, the date of filing of a document is deemed to be
+(a) in the case of a document filed with the Registry or sent by mail or by fax, the date shown by the date received stamp placed on the document by the Registry at the time it is received; or
+[11] The extension application was physically received by the Tax Court Registry on September 20, 2023. This simply reflects the reality: a faxed copy of the extension application was sent by fax to the Tax Court Registry on that date.
+Sending date of confirmation
+[12] Second, the Applicant asserts that the confirmation notice was received by the Applicant no earlier than June 24, 2022. It was sent by express post. It is not factually certain when precisely the confirmation was physically sent. It is known that the confirmation was dated June 22, 2022. Its ultimate receipt by the Applicant is not disputed, just its actual deemed “sending” date.
+[13] Logically, the Applicant contends if the deemed sending date is even June 23, 2022, then the applicable 90 days later would be September 21, 2023 (s. 169) and the applicable last date one year later would be September 21, 2022 (ss. 167(5)). The TCC Registry, even by its own notation, filed the extension application on September 21, 2023.
+Respondent
+[14] In response, the Respondent contends the Income Tax Act and the Tax Court of Canada Rules are clear: the extension application was filed on September 21, 2023 and is out of time. The Court lacks discretion to accept an out of time extension application. Respondent’s counsel did not address the Applicant’s argument concerning alleged uncertainty of the date the confirmation notice was sent.
+Issues
+[15] The issues before the Court are, on what date at law:
+a)was the extension application filed with the TCC Registry (“application filing date”); and,
+b)was the confirmation notice sent by the Minister and deemed received by the Applicant (“sending date of confirmation”), respectively?
+a)Analysis and Decision: Application Filing Date
+Legislation
+[16] The applicable Tax Court of Canada Rules (Informal Procedure) (the “Rules”) provide in sections 4.1 and 4.2 as follows:
+Filing of Other Documents
+4.1 Except as otherwise provided in these Rules and unless otherwise directed by the Court, a document other than a notice of appeal may be filed using one of the following methods:
+(a) depositing it with the Registry;
+(b) sending it by mail to the Registry; or
+(c) sending it by fax or by electronic filing to the Registry.
+Filing Date
+4.2 Except as otherwise provided in these Rules and unless otherwise directed by the Court, the date of filing a document is deemed to be
+(a) in the case of a document filed with the Registry or sent by mail or by fax, the date shown by the date received stamp placed on the document by the Registry at the time it is received; or
+(b) in the case of a document filed by electronic filing, the date shown on the acknowledgement of receipt issued by the Court
+Interpretation
+[17] While no prior authorities have specifically addressed sections Rule 4.1 or Rule 4.2 above, the use of similar language has been previously considered.
+[18] The case of Covic v MNR[1] concerned a similar issue where an application was stamped by the registry three days after the deadline. In that case, Justice Woods held that the deadline was missed. In doing so, Justice Woods applied Rules 5(2) and 5.2 of the Canada Pension Plan Rules of the Tax Court. These are the variants of Rule 4.2 above but applicable to the Canada Pension Plan.
+[19] The Court notes a curious distinction. Rule 4.1 groups e-filing and fax together in the same subsection for service of documents. However, under Rule 4.2, these methods of service are separated, with service via fax being assigned the date when the Registry Office stamps the fax. In contrast, e-filed documents are deemed to be filed on the date shown on the acknowledgment of receipt as issued by the Court.
+[20] The Court can rationalize the distinction. First, there is a logical basis for treating the faxing of documents and e-filing of documents differently regarding the deemed filing date. Under Rule 4.2 (a) faxed documents are to be deemed as filed on the date when they are stamped by the Registry Office. This logically follows since a fax is in paper format and cannot be automatically filed within a document registry system. Whereas, instantaneous filing into the registry system of a document in digital format can occur for an e-filed document. Selectively, the Applicant’s agent chose to file the application via fax after business hours, leaving the Registry Office unable to stamp the application on September 20, 2023, without further physical act of retrieving it from the fax machine. This is akin to opening an envelope and stamping the confirmation, if sent by mail.
+[21] The Rules are clear that the filing date can only be deemed through two forms of evidence depending on the mode of transmission: (i) the stamp of the registry office for mail or fax, or (ii) the acknowledgment receipt issued by the Court for e-filed documents. Neither the Applicant nor his agent received from the Court either of these forms of evidence with a date that would have been within the filing deadline for the extension application. Of critical importance is the fact that the extension application was faxed, not e-filed.
+[22] Lastly, the words “unless otherwise directed by the Court” in the preamble of the Rules s. 4.1 and 4.2, appear at first glance to give the Court broad powers to override the deeming provisions which follow in the sections, if this Court sees fit. The Applicant’s agent argues the discretion should be applied because he faxed the extension application to the Court on a “within time” date. This is insufficient for two reasons: (i) The Rules are clear as they relate to receipt of faxes; and, the date filed is deemed to be the date stamped by the Registry Office.
+[23] As well, the exception states “except as otherwise provided in these Rules and unless otherwise directed by the Court, the date of filing… is deemed to be…” This wording is clearly conjunctive. The Rules must “otherwise provide” so that the Court may apply its discretion and otherwise direct. To be succinct, the Rules do not “otherwise provide” and therefore the Court may not “otherwise direct”.
+[24] On this basis, the filing date for the extension application was, as indicated by the TCC court registry, September 21, 2023.
+a)Analysis and Decision: Sending Date of Confirmation
+Legislation
+[25] The ITA is operable concerning the sending date of the confirmation because that document was sent under the authority of that Act. Subsections 244(14), (15) and subsection 248(7) address the issue of sending and dates received.
+Mailing or sending date
+(14) For the purposes of this Act, where any notice or notification described in subsection 149.1(6.3), 152(3.1), 165(3) or 166.1(5) or any notice of assessment or determination is mailed, or sent electronically, it shall be presumed to be mailed or sent, as the case may be, on the date of that notice or notification.
+Date when assessment made
+(15) If any notice of assessment or determination has been sent by the Minister as required by this Act, the assessment or determination is deemed to have been made on the day of sending of the notice of the assessment or determination.
+Deemed receipt when sent by mail
+(7) For the purposes of this Act,
+(a) anything (other than a remittance or payment described in paragraph 248(7)(b)) sent by first class mail or its equivalent shall be deemed to have been received by the person to whom it was sent on the day it was mailed; and
+(b) the remittance or payment of an amount
+(i) deducted or withheld, or
+(ii) payable by a corporation,
+as required by this Act or a regulation shall be deemed to have been made on the day on which it is received by the Receiver General.
+Interpretation by jurisprudence
+[26] The Minister bears the duty under sections 165 and 169 of the Act to notify the taxpayer of assessments and confirmations. This usually means the mailing of such notifications. The Minister is not required to undertake personal service or even ensure the notification is “received” by the taxpayer; sending a notice by mail is sufficient for the Minister to fulfill her obligations.[2]
+[27] Paragraph 248(7)(a) of the Act is a deeming provision that deems a taxpayer has received a notice from the Minister on the day it was mailed so long as it was sent by first class mail.[3] The deeming provision under paragraph 248(7)(a) is not a rebuttable presumption.[4] Subsection 244(14) of the Act presumes the date of mailing to be the same date as the date appearing on the notice. Schafer further stands for the proposition that where a notice is found to have been mailed the time count begins regardless of when, or for that matter if, it was received by a taxpayer.[5]
+[28] In 741290 Ontario, Justice Rossiter (as he then was) summarized the intersection of subsection 244(14) and paragraph 248(7)(a) of the Act with regard to deeming a taxpayer’s receipt of a notice:
+[14] With respect to mailing, there are several statutory provisions that ease the evidentiary burden on the Respondent to establish that limitation periods have been triggered.
+[15] Subsection 244(14) of the ITA states that where a Notice of Assessment has been mailed it is presumed to be mailed on the date on the Notice of Assessment
+[16] Also, if the assessment was sent by first class mail the ITA deems it to be received by the taxpayer on the date it was sent pursuant to subsection 248(7)
+[17] The presumption that something was received on the date it was mailed is not rebuttable.[6]
+[emphasis added]
+[29] This Court in Laing made the following comments regarding paragraph 248(7)(a) and a taxpayer raising an argument of when a notice was actually received:
+“the only possibility for the Applicant to succeed would have been to establish that the notice of reassessment was not sent or mailed by the CRA on November 14, 2014. Otherwise, paragraph 248(7) ITA deems the notice to have been received and whether the notice is received by the taxpayer becomes irrelevant”[7]
+Interpretation
+[30] The Applicant’s argument concerning conformation date for calculation purposes under sections 169 or 167 of the ITA fails. The date imprinted on the confirmation stands unless the Applicant asserts the notice of confirmation was never sent. The Applicant does not assert that the confirmation was never sent, but merely that the date it was received is later than the date it bears. For the reasons stated, the date of receipt is not relevant.
+Summary
+[31] For the above reasons the TCC’s receipt date of the extension application was September 21, 2023 and the sending date of the confirmation was June 22, 2022. Accordingly, the application is dismissed without costs.
+This Amended Reasons for Order is issued in substitution for the Reasons for Order dated April 17, 2024.
+Signed at Ottawa, Canada, this 19th day of April, 2024.
+“R. S. Bocock”
+Bocock J.
+CITATION:
+2024 TCC 44
+COURT FILE NO.:
+2023-2064(IT)APP
+STYLE OF CAUSE:
+PETER POPOVICH v HIS MAJESTY THE KING
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+February 15, 2024
+REASONS FOR ORDER BY:
+The Honourable Justice R.S. Bocock
+DATE OF ORDER:
+DATE OF AMENDED REASONS FOR ORDER:
+April 17, 2024
+April 19, 2024
+APPEARANCES:
+Agent for the Applicant:
+Raymond Wiseman
+Counsel for the Respondent:
+Jessica Ko
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Raymond Wiseman
+Firm:
+Macrotax Consultants Ltd.
+For the Respondent:
+Jessica Ko Deputy Attorney General of Canada Ottawa, Canada
+[1] Covic v MNR 2014 TCC 105 [Covic]
+[2] Canada v Schafer 54 DTC 6542 (2000) (FCA) [Schafer] at para 9, following Bowen v MNR [1991] 2 CTC 266, 91 DTC 5594 (FCA) at 268
+[3] 741290 Ontario Inc. v The Queen 2008 TCC 55 (Informal Procedure) at para 16 [741290 Ontario]; Laing v The King 2023 TCC 50 (Informal Procedure) at para 37 [Laing]; Woodworth v The Queen 2010 TCC 220 (Application) at para 21 [Woodworth]; see also Vern Krishna, The Fundamentals of Canadian Income Tax, 8th ed. (Toronto: Carswell, 2004) at page 897: “Courier services are generally equivalent to first class mail service”, cited in Skyway Developments Ltd. v The Queen at para 15 [Skyway]
+[4] Supra Woodworth at para 23
+[5] Schafer supra note 2 see paras 9 & 12: Schafer dealt with subsection 301(1.1) of the ETA but this proposition has been followed by subsequent decisions of the Tax Court in applying provisions of the ITA
+[6] Supra note 3 741290 Ontario at paras 14-17
+[7] Supra note 3 Laing at para 37

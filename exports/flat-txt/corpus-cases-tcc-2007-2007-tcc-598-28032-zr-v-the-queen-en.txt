@@ -1,0 +1,172 @@
+Title: ZR v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28032/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-598-28032-zr-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-10-10
+
+# ZR v. The Queen
+
+- Citation: 2007 TCC 598
+- Decision date: 2007-10-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1618, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+ZR v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-10
+Neutral citation
+2007 TCC 598
+File numbers
+2005-3083(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3083(IT)G
+BETWEEN:
+ZR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on June 28, 2007, at Vancouver, British Columbia
+By: The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Susan Wong
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments of tax made under the Income Tax Act for the 2001, 2002 and 2003 taxation years are allowed, with costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that in computing income, the Appellant is entitled to claim a business loss in the amount of $379,206 in 2001, and resulting loss carry forward amounts of $23,293 and $25,643 in 2002 and 2003, respectively.
+Signed at Ottawa, Canada, this 10th day of October, 2007.
+“C.H. McArthur”
+McArthur J.
+Citation: 2007TCC598
+Date: 20071010
+Docket: 2005-3083(IT)G
+BETWEEN:
+ZR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] These appeals concern the 2001, 2002 and 2003 taxation years. In computing her income for the 2001 taxation year, the Appellant claimed a business loss in the amount of $379,206, and resulting non-capital loss carry forward amounts of $23,293 and $25,643 for the 2002 and 2003 taxation years, respectively. The Minister of National Revenue reassessed and disallowed the deductions on the basis that the payments were of a personal nature and were on account of capital.
+[2] The issue is whether a payment made by the Appellant in order to discharge her husband’s bankruptcy was incurred for the purpose of gaining or producing income from a business or property, as required under paragraph 18(1)(a) of the Income Tax Act (“Act”) and may be deducted from her income.
+[3] A Judgment in the amount of $2,764,343 was obtained against the Appellant’s husband (“H”) in Florida, for breach of contract with a U.S. company with the franchise name Red Carpet Inns. The Appellant and H owned and operated three other motels in the State of Florida, apart from Red Carpet Inns. As a result of the Judgment, H declared bankruptcy. The U.S. corporation commenced an action against the Appellant and H in an attempt to collect on its Judgment. The Appellant felt forced to pay the amount of $379,206 to the U.S. corporation in settlement.
+[4] The facts are not seriously in dispute. Some of this summary of facts is taken from the Respondent’s Reply:
+(a) The Appellant and H were in the business of owning and operating hotels in Florida. At all material times, they were sole shareholders of Al-Karim Inc. (“Al-Karim”) and majority shareholder of Maza Hospitality Inc. (“Maza”). Each corporation held one hotel.
+(b) During the years in issue, the Appellant was a resident of Canada and H was a resident of the United States.
+(c) In 1993, H along with seven other individuals became a shareholder of three U.S. corporations: WWM Investment Inc. (“WWM”), Como Investment Inc. (“Como”), and BWIC Inc. (“BWIC”).
+(d) Each partner invested $50,000 in the venture for a total of $400,000 H financed his purchase using money from two bank accounts: Al-Karim’s and a joint account shared with the Appellant.
+(e) The Appellant was not a shareholder in any of these corporations.
+(f) H became president of the corporations and, in his capacity as president, he signed a franchise agreement with Hospitality International Inc. to have Como and WWM operate their hotels as Red Carpet Inns. The third corporation, BWIC, owned a hotel, which was not part of a franchise.
+(g) H personally guaranteed the two franchise agreements as well a mortgage on the BWIC hotel.
+(h) Shortly after the franchise agreements were signed, a tornado destroyed the Como motel. H disagreed with the other investors’ plan to upgrade the hotel into a more upscale facility and he withdrew his investment and verbally resigned his position as president.
+(i) After withdrawing his investment, H ceased all involvement in the corporations. He knew that they were not doing very well and he believed that the franchise agreements had been terminated.
+(j) In January 1994, the shares of BWIC were transferred to the Appellant and H, jointly. The details of this transaction were not explained at trial.
+(k) Unbeknownst to H, the franchise agreements had not been terminated and Como and WWM were not paying their franchise fees. When the properties were eventually sold and the new owners did not wish to have the franchise agreement transferred, Hospitality International Inc. and Red Carpet Inns International Inc. (the “U.S. plaintiffs”) brought an action against WWM, Como and H. In 1999, they obtained a judgment totaling approximately $2.8 million U.S.
+(l) On November 18, 1999, H filed for Chapter 7 bankruptcy in the United States.
+(m) At the time of the bankruptcy, the Appellant and H had the following assets:
+(i) 75% of the shares of BWIC Inc. which had net assets of $750,000 U.S., consisting mainly of a wrap-around mortgage;
+(ii) 100% of the shares of Al-Karim Inc., which had net assets of $275,000 U.S., consisting only of a promissory note and mortgage;
+(iii) 60% of the shares of Maza Hospitality Inc., which had net assets of $0 (there were three mortgages on the property);
+(n) The Appellant testified that in Florida, assets which are jointly owned by husband and wife are “community property” and they cannot be severed. This was not challenged by the Respondent.
+(o) H claimed the properties listed in paragraph [m] as community property and therefore exempt under the bankruptcy laws of Florida.
+(p) On April 27, 2000, the U.S. plaintiffs brought an adversary action against the Appellant and H. The purpose of the action was to object to the exemptions claimed by the husband and to avoid fraudulent transfer of property from the husband to the Appellant.
+(q) The Appellant and her husband determined that their choices were to reach a settlement with the U.S. plaintiffs or liquidate all three corporations and have the Appellant take her half. They estimated that this would leave the Appellant and the U.S. plaintiffs with less than $100,000 U.S each.
+(r) On October 6, 2000, the Appellant and H entered into a settlement agreement with the U.S. plaintiffs. The terms of the agreement provided that, among other things, the Appellant and H would pay the U.S. plaintiffs $10,000 U.S. and would have the Al-Karim promissory note and mortgage, which were valued at $279,803.00, assigned to the U.S. Plaintiffs.
+(s) On October 31, 2001, the Appellant and H entered into a settlement agreement with the bankruptcy trustee, which provided that, among other things, they would pay the bankruptcy trustee $200,000.00 U.S.
+(t) In Canadian dollars, the Appellant’s half of the settlements with the U.S. plaintiffs and the bankruptcy trustee was $379,205.48 (50% of ($279,803.00 + 10,000.00 + 200,000.00 all U.S.) multiplied by the exchange rate of 1.5484).
+(u) The Appellant claimed a business loss in the amount of $379,206 for 2001, and resulting non-capital loss carryforward amounts of $23,293 and $25,643 for 2002 and 2003, respectively.
+[5] The U.S. government has accepted this as a business loss for the Appellant. According to the Appellant, the bottom line of all of this was that she and her husband were able to continue carrying on business, both working very hard to earn income from this business, basically, their only source of income.
+[6] Counsel for the Respondent took the position that the amount paid by the Appellant was done so in order to preserve the assets of Maza and BWIC and was on account of capital and cannot be deducted by virtue of paragraph 18(1)(b) of the Act. Moreover, she submitted that the expenditure by the Appellant was of a personal nature since it was made to help her husband out of bankruptcy, and she was not involved in Como or WWM.
+[7] H, who also acted as the Appellant’s agent at the hearing,[1] argued that franchise fees are allowable business expenses and that any loss arising out of a breach of the franchise agreement would be an allowable business loss, so the bankruptcy settlement should be a business loss as well. He submitted that the Appellant should be entitled to a foreign tax credit with respect to the business losses allowed by the United States, although he did not elaborate on this position.
+Analysis and Conclusion
+[8] In order to be deductible as a business expense, the expenses must have been incurred “for the purpose of gaining or producing income from a business or property” within the meaning of paragraph 18(1)(a) of the Act and can not be “a payment on account of capital” within the meaning of paragraph 18(1)(b) of the Act.
+Whether the expenses were personal or business-related
+[9] I am satisfied that the entire amount paid in the settlement by the Appellant was an outlay or expense made or incurred for the purpose of gaining or producing income from a business, as required by paragraph 18(1)(a). The Respondent’s submission that this was purely a personal expenditure by the Appellant is not an accurate reflection of her business affairs. The Appellant and H were business partners. I find as a fact that they owned all the shares jointly and ran the businesses together. Although the Appellant’s name did not initially appear on the share register of BWIC, Como or WWM, H purchased the shares using money from the couple’s joint bank account and the shares of BWIC were later transferred jointly to both the Appellant and H. Although it was not specifically covered at the hearing, I conclude that the Appellant had an equitable right to 50% of the shares of all three corporations.
+[10] While the Respondent is accurate in stating that the Appellant was under no liability for the breached franchise agreement, she was added by Court Order as a party to the settlement agreements with the bankruptcy trustee and creditors. As the Appellant and H explained at length during the trial, they had only two choices:
+(a) wind-up all three companies and have the Appellant take her half less fees for lawyers and accountants; or
+(b) negotiate a settlement.
+I am satisfied that the Appellant’s decision was a bona fide and reasonable exercise of business judgment, and I agree with the following statement of Lamarre Proulx J., in somewhat similar circumstances in the decision of Nisker v. The Queen,[2] where she states:
+It is not unusual for a person in business to have to make a payment in respect of the obligations of another person or company connected with his own business, in order to protect and promote his own business interests. That is a business decision made to protect goodwill or credit standing or the business itself. (See Pigott Investments Ltd. v. R. (1973), 73 D.T.C. 5507 (Fed. T.D.) and Williams Gold Refining Co. of Canada Ltd. v. R., [2000] 2 C.T.C. 2193, 2000 D.T.C. 1829 (T.C.C. [General Procedure]), at paragraph 17.) It is also of interest to note that American case law is to that effect. (See United States Tax Reporter, Volume 4A, 1624.026 and 1624.027.)
+While I am in agreement with the reasoning in this decision, it is presently under appeal to the Federal Court of Appeal and I will rely on other authorities.
+[11] I find further support for this view in Frappier v. Canada,[3] a decision from Bowman C.J. In that case, a financial adviser was permitted to deduct payments made to clients to reimburse them for losses on securities which she had purchased on their behalf, including two clients who were paid for losses occasioned by the taxpayer’s husband. In considering whether the payments were personal, Bowman C.J. stated at paragraphs 15-16:
+I find a few of these factors somewhat troubling - such as the fact that two of the clients were family members, some were neighbours and in two cases payments were made to persons who arguably lost money because of Mrs. Frappier's husband.
+These considerations are not irrelevant, but they must be put in perspective and view in light of the broader picture of a highly successful and aggressive business person whose principal stock-in-trade is her reputation, her expertise and her relationship with her clientele, some of whom were friends and family. It was important that her clients, who were the source of referrals, be kept happy and that she be perceived as standing behind her advice and the investments she made on their behalf with the discretionary power she had over their investment portfolio. Her reputation in the industry was important to her ongoing business, and this included protecting it against any damage that would be done if her husband were sued. There may well have been, as counsel for the respondent contends, an element of compassion involved, and of loyalty to friends, neighbours and relatives, but the overall picture that emerges is one of a rather tough, hard-headed business person who was not inclined to part with her money without seeing some commercial advantage to her doing so.
+Bowman C.J. also held that the fact that there was no legal obligation to make the payments was not a restriction to their deductibility as a business expense.
+Whether the expenses were on account of income or capital
+[12] The Respondent relied on two cases which deal with the issue of the deductibility of legal fees, Canada v. Jager Homes Ltd.[4] and Muggli v. Canada.[5] These cases can be distinguished on their facts for two reasons: first, they both involved divorce proceedings where one spouse sued for a portion of the family business. Divorce proceedings are of an inherently personal nature and it cannot be said that law suits which follow are a normal part of carrying on business. Second, both cases concerned the deductibility of legal fees and not the deductibility of damages or settlements. While the analysis is similar for both issues, damage awards and legal expenses will not necessarily receive the same tax treatment.[6] When looking at the issue of legal fees, the Court must consider the reason they were incurred. When looking at the issue of damages and settlements, we must also look to the origin of the claim.[7]
+[13] Again, the facts in this case are convoluted. There is a judgment against H for the breach of a franchise agreement; there are bankruptcy proceedings against the Appellant and H because substantially all of their assets were owned jointly; and there is a settlement agreement entered into by both the Appellant and H. During the trial, counsel for the Respondent spent much time exploring why the Appellant and her husband decided to structure the settlement agreement the way they did. In my view, however, this is approaching the problem from the wrong end.
+The origin of the claim
+[14] The origin of this claim was the breach of the franchise agreement. It was not disputed that Como and WWM would have been entitled to deduct damages stemming from the breached franchise agreement pursuant to subsections 3 and 9 of the Act.[8] The franchise agreements were entered into for the purpose of earning income from the hotel business and they were breached in the ordinary course of business.
+[15] I believe in the context of damages, settlements and similar payments, identifying the origin of the claim is sufficient to determine whether the payment was made on account of income or capital. To look to the purpose of making the payment instead of the purpose of the act or omission that led to the claim can give rise to inconsistent results. Consider the situation where the damage award is so high that all of a corporation’s assets are lost, as opposed to a situation where a corporation settles for a lower amount and is able to preserve some of its assets. Following the Respondent’s reasoning, the deduction will be allowed in the first situation since no assets were preserved. In the second situation, however, the deduction may not be allowed because a purpose of making the payment was to preserve some of the corporation’s assets. Where there is more than one method available, Courts should choose the one that makes common sense and does not give rise to inconsistencies. For that reason, identifying the origin of the claim is the preferred approach. Support for this view can be found in Imperial Oil Ltd. v. Canada,[9] 65302 British Columbia Ltd. and McNeill.
+[16] In McNeill, the Federal Court of Appeal allowed the taxpayer, a chartered accountant, to deduct a damage award issued against him for violating the terms of a non-competition clause following the sale of his business. The Court found that the damage award was with respect to lost profits and was on account of income:
+…the finding of fact of the learned Tax Court judge that the appellant's object in breaching the agreement was to keep his clients and business is conclusive. The damages were awarded for lost profits. Further, appellant's counsel explained how each item of the damage award for the losses incurred or that would be incurred by Roe & Co. related to the business that the appellant carried on or would carry on in breach of the agreement.
+In 65302 British Columbia Ltd., the Supreme Court of Canada found that an over‑quota levy imposed on an egg farmer was a deductible business expense and stated at paragraphs 70 and 71:
+The respondent also submits that the over-quota levy was in fact an outlay of capital prohibited by s. 18(1)(b) of the Act because its payment allowed the taxpayer to retain its quota. With respect, I do not find much merit to this argument. Under s. 17(g) of the British Columbia Egg Marketing Board Standing Order, the Board has the discretion to cancel or suspend a producer's license and quota when any provision of a standing order has been violated. Therefore the taxpayer would face the same threat of the loss of its quota if it failed to pay the within-quota levy imposed for each layer kept by a producer. At trial the respondent conceded that this within-quota levy is deductible as a current expense. Given this, I do not see how the characterization of the over-quota levy as a capital outlay can rely upon the consequences of not paying the levy.
+Even without the respondent's concession regarding the within-quota levy, I would not characterize the over-quota levy as a capital outlay. As this Court stated in Canderel, supra, at paragraph 45:
+Rather than trying to discern into which pigeonhole a particular income expenditure falls, the taxpayer's focus should be on attempting to portray his or her income in the manner which best reflects his or her true financial position for the year, that is, which gives an "accurate picture" of profit.
+The fine at issue in the present appeal is assessed on a per-day basis and is meant to remove the profit of over-quota production from the producer. These considerations all point to characterizing the levy as a current expense. The fact that there was a risk that the quota could be revoked upon failure to pay the fine is no more relevant to this analysis than the fact that if a factory's electricity bill is not paid, there is a risk that the utility company will eventually cut off the power to the factory, thereby putting the existence of the business in jeopardy. To declare the cost of electricity as a capital outlay on this basis would not provide an accurate picture of the taxpayer's income for the year.
+[17] Finally, in Imperial Oil Ltd., the Appellant company was permitted to deduct a payment made in settlement of a tort suit. The Appellant was engaged in the manufacture, transportation and marketing of petroleum products. One of its oil tankers collided with and sank another vessel. The owners of the other vessel sued for damages and the claim was eventually settled. In allowing the deduction, Thorson P. stated at page 546:
+It is necessary to look behind the payment and enquire whether the liability which made it necessary – and it make no difference whether the liability was contractual or delictual – was incurred as part of the operation by which the taxpayer earned his income. Where income is earned from certain operations, as it was by the appellant from its marine operations, all the expenses wholly, exclusively and necessarily incidental to such operations must be deducted as the total cost thereof in order that the amount of the profits or gains from such operations that are to be assessed may be computed. Such cost includes not only all the ordinary operations costs but also all moneys paid in discharge of the liabilities normally incurred in the operations. When the nature of the operations is such that the risk of negligence on the part of the taxpayer's servants in the course of their duties or employment is really incidental to such operations, as was the fact in the present case, with its consequential liability to pay damages and costs, then the amount of such damages and costs is properly included as one of the items of the total cost of such operations. It may, therefore, properly be described as a disbursement or expense that is wholly, exclusively and necessarily laid out as part of the process of earning the income from such operations. [emphasis added]
+[18] Imperial Oil was distinguished by the Supreme Court of Canada in 65302 British Columbia Ltd. on the basis that the former was decided pursuant to the Income War Tax Act. Iacobucci J. found the scope of deductible business expenses was broader under paragraph 18(1)(a) than in the Income War Tax Act. Given the differences in wording, he found that it was not necessary that “expenses need be incidental…” in the sense that they were unavoidable, in order to be deductible. In my view, the portion of the judgment that says it is necessary to look behind the payment and examine the liability remains good law and is further support for the contention that it is appropriate to focus on the origin of the claim.
+The purpose of paying the settlement
+[19] As an alternative, I will consider the purpose of the expenses at issue. The Appellant and H found themselves in this situation as the result of a number of poor business decisions, some made by them and many made by the seven other investors. While it is true that the settlement allowed the Appellant and H to preserve the assets in BWIC and Maza, it also allowed them to continue carrying on business, to recoup some of their lost profits, to discharge the husband’s bankruptcy and to protect their reputation. I find that the primary purpose of structuring the settlement in the way they did was to maximize future profits. The settlement at issue was not made for the acquisition of capital; it was laid out as part of the process of profit earning and is deductible pursuant to subsections 3, 9 and 18 of the Act.
+[20] Further, of the two corporations that the Appellant and H were left with after the settlement, only one, BWIC, had net assets. The other corporation, Maza, had so many debts that it was assessed as worthless. I do not see how it can be said that the primary purpose of the settlement was to preserve a capital asset that had no net value.
+[21] Several leading cases have discussed the difficulty of determining whether an expense is on account of income or capital and have consistently found that Courts must take a common sense approach. In MNR v. Algoma Central Railway,[10] the Chief Justice of Canada cited with approval from P. Australia Ltd. v. Commissioner of Taxation of the Commonwealth of Australia:[11]
+The solution to the problem is not to be found by any rigid test or description. It has to be derived from many aspects of the whole set of circumstances some of which may point in one direction, some in the other. One consideration may point so clearly that it dominates other and vaguer indications in the contrary direction. It is a commonsense appreciation of all the guiding features which must provide the ultimate answer.
+[22] In Canada v. Johns Manville Corp.,[12] Estey J. cited with approval from Tucker v. Granada Motorway Services Ltd.:[13]
+It is common in cases which raise the question whether a payment is to be treated as a revenue or as a capital payment for indicia to point different ways. In the end the courts can do little better than form an opinion which way the balance lies. There are a number of tests which have been stated in reported cases which it is useful to apply, but we have been warned more than once not to seek automatically to apply to one case words or formulae which have been found useful in another.... Nevertheless reported cases are the best tools that we have, even if they may sometimes be blunt instruments.
+See also the comments of Iacobucci J. in Canderel Ltd. v. Canada,[14] cited above at paragraph 16 of this judgment.
+[23] The Appellant and H are hard-working business people. Rather than liquidating their businesses to satisfy the U.S. Judgment, they worked out a creative settlement agreement which allowed the creditors to pocket more money and allowed the Appellant and H to continue carrying on business in the motel industry. While it is true that they were able to preserve the assets in BWIC and Maza, I find that this was a secondary purpose. The primary purpose was to maximize future profits.
+[24] The Appellant’s alternative argument was that she should be granted a foreign tax credit under section 126 of the Act with respect to the business losses allowed by the United Statues. In brief, she argued that there is no benefit to the fact that the losses were allowed in the U.S. if she is required to pay tax on the entire amount in Canada. While I sympathize with the Appellant’s arguments, subsection 126(2) is clear that a taxpayer is only allowed a tax credit with respect to “business-income tax paid by the taxpayer” in a country other than Canada. There is no similar credit for deductions or credits allowed outside of Canada, and the Appellant’s argument must fail on this ground.
+[25] For the above reasons, the appeal is allowed, with costs.
+Signed at Ottawa, Canada, this 10th day of October, 2007.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2007TCC598
+COURT FILE NO.: 2005-3083(IT)G
+STYLE OF CAUSE: ZR and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: June 28, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: October 10, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Susan Wong
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Appellant’s husband was not a lawyer, but was permitted by the Court to represent the Appellant.
+[2] 2006 TCC 651 @ para. 34. The decision is presently under appeal to the Federal Court of Appeal.
+[3] [1998] T.C.J. No. 142.
+[4] 88 DTC 6119 (F.C.A.).
+[5] [1994] T.C.J. No. 178.
+[6] See Hassanali Estate v. Canada, [1997] T.C. J. No. 36 @ para. 15.
+[7] See 65302 British Columbia Ltd. v. R., [1999] 3 S.C.R. 804 at para. 39, and Nisker, supra at para. 35.
+[8] 65302 British Columbia Ltd, supra at para. 72, and McNeill v. R., 2000 DTC 6211 (F.C.A.) at para. 17.
+[9] [1947] C.T.C. 353 (Can. Ex. Ct.).
+[10] [1968] S.C.R. 447.
+[11] [1966] A.C. 224.
+[12] [1985] S.C.J. No. 44.
+[13] [1979] 2 All E.R. 801 at para. 30.
+[14] [1998] 1 S.C.R. 147.

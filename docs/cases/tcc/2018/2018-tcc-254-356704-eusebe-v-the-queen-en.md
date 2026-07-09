@@ -1,0 +1,370 @@
+---
+title: "Eusebe v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/356704/index.do"
+last_modified: "2018-12-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 254"
+citation2: ""
+neutral_citation: "2018 TCC 254"
+decision_date: "2018-12-14"
+language: "en"
+item_id: "356704"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4993
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:32:09.065000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "45bdacd1253a317354c8c2b844133352ab5e755d0e2f80b6668883eea9df2ee2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Eusebe v. The Queen
+
+- Citation: 2018 TCC 254
+- Decision date: 2018-12-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4993, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Eusebe v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-12-14
+Neutral citation
+2018 TCC 254
+File numbers
+2016-1781(IT)I, 2016-2645(IT)I, 2016-2646(IT)I, 2016-2710(IT)I, 2016-2736(IT)I, 2016-2793(IT)I, 2016-2814(IT)I, 2016-3210(IT)I, 2016-3225(IT)I, 2016-3280(IT)I, 2016-3284(IT)I, 2016-3811(IT)I, 2016-3812(IT)I, 2016-4350(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-1781(IT)I
+BETWEEN:
+CARMEN EUSEBE
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal called for consolidated hearing on November 23, 2018,
+at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Appellant:
+No Appearance
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+Christopher Kitchen
+Anna-Maria Tarres
+ORDER
+WHEREAS neither the Appellant nor any counsel, agent or other representative of the Appellant was present in the Court when this Appeal was called for a consolidated hearing, although duly notified of the time and place of the show cause hearing, and after 30 minutes no one was in attendance in Court on behalf of the Appellant;
+NOW THEREFORE IN ACCORDANCE WITH THE COMMON REASONS FOR ORDER ATTACHED THIS COURT ORDERS THAT the Appeal from the reassessment made under the Income Tax Act for the Appellant’s 2010 taxation year is dismissed, without costs.
+Signed at Ottawa, Canada, this 14th day of December 2018.
+“R.S. Bocock”
+Bocock J.
+Citation: 2018 TCC 254
+Date: 20181214
+Docket: 2016-1781(IT)I
+BETWEEN:
+CARMEN EUSEBE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-2645(IT)I
+AND BETWEEN:
+BENEDICT KUYE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-2646(IT)I
+AND BETWEEN:
+ANNE KUYE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-2710(IT)I
+AND BETWEEN:
+RUTH KPIEBEWIENG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-2736(IT)I
+AND BETWEEN:
+DARLINGTON ETUMNI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-2793(IT)I
+AND BETWEEN:
+ECHEFULA NWAOKOCHA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-2814(IT)I
+AND BETWEEN:
+MONICA MOULTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-3210(IT)I
+AND BETWEEN:
+EMMANUEL OJO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-3225(IT)I
+AND BETWEEN:
+PRISCILLA UKEH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-3280(IT)I
+AND BETWEEN:
+NIEGELL MYRIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-3284(IT)I
+AND BETWEEN:
+BEVERLEY MYRIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-3811(IT)I
+AND BETWEEN:
+CLAUDINE PERSAD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-4350(IT)I
+AND BETWEEN:
+GEORGE MOULTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-3812(IT)I
+AND BETWEEN:
+NAZIL ALLY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+COMMON REASONS FOR ORDER
+Bocock J.
+[1] These reasons relate to certain case managed Appeals commonly known as the Universal Donation Program (“UDP”). More particularly, the 14 Appeals before the Court on this Motion relate to a further sub-group: Type I Appeals. Type I Appeals have a further unique fact in common: each Appellant made their purported charitable donation to the UDP during the calendar and taxation year 2010. This distinguishes Type I from Type II Appeals. The Type II Appellants made their asserted charitable donations to the UDP during previous calendar and taxation years.
+[2] Both Type I and Type II Appeals have been case managed as a group since late 2016. Since mid-2017, the two types of Appeals have been largely separated.
+[3] With respect to Type I Appeals, there has been a genuine issue concerning the existence and form of documentation reflecting the claimed 2010 donation. The ongoing case management orders identify this issue.
+[4] Relevant to that point, on July 13, 2017, this Court issued an order providing for the following:
+[ … ]
+4. in respect of the Type I Appeals:
+a) on or before October 31, 2017, the Respondent shall serve and file, in respect of each Type I Appeal a reply, or if she so elects a consolidated reply;
+b) on or before December 31, 2017, the Respondent and each appellant shall serve and file a list of relevant documents he or she intends to reply upon at any hearing and, upon request, furnish copies of such document to the other party;
+c) on or before February 28, 2018, the Respondent shall serve and file a proposed motion and/or hearing schedule for the purpose of notifying the appellants and the Court of the number of days and witnesses needed by the Respondent to lead her evidence in chief in respect of the hearing of the appeals or any preliminary applications;
+[ … ]
+[5] Similarly, on December 18, 2017, the Court further ordered:
+[ … ]
+2. a subsequent conference call shall be convened at 10:00 am Ottawa time on Tuesday, February 20, 2018 only among counsel representing parties in the Type II appeals described below.
+2. [sic] the appeals before the Court, for case management identification purposes shall be categorized as follows:
+Type of appeals Taxation year of alleged charitable donation
+Type I Appeals 2010
+Type II Appeals 2005-2009
+For further clarification, alleged charitable donations made in taxation years 2005-2009, but in respect of which a deduction has been carried forward to 2010, shall nonetheless be referred to as Type II appeals;
+3. [sic] in respect of the Type I Appeals, given that the Court previously ordered that on or before October 31, 2017, the Respondent shall serve and file, in respect of each Type I Appeal a reply, there remains the following Court ordered steps with respect to Type I Appeals, namely, that:
+(a) on or before December 31, 2017, the Respondent and each appellant shall serve and file a list of relevant documents he or she intends to rely upon at any hearing and, upon request, furnish copies of such document to the other party; and
+(b) on or before February 28, 2018, the Respondent shall serve and file a proposed motion and/or hearing schedule for the purposes of notifying the appellants and the Court of the number of days and witnesses needed by the Respondent to lead her evidence in chief in respect of the hearing of the appeals or any preliminary applications;
+[6] A further case management Order issued on April 6, 2018 and provided as follows:
+[ … ]
+2. In respect of the Type I Appeals, given that the Court previously ordered that on or before October 31, 2017, the Respondent shall serve and file, in respect of each Type I Appeal a reply, there remains the following Court ordered steps with respect to Type I Appeals which times for compliance are hereby amended, namely, that:
+(a) on or before May 18, 2018, the Respondent and each appellant shall serve and file a list of relevant documents he or she intends to rely upon at any hearing and, upon request, furnish copies of such document to the other party; and
+(b) on or before June 28, 2018, the Respondent shall serve and file a proposed motion and/or hearing schedule for the purposes of notifying the appellants and the Court of the number of days and witnesses needed by the Respondent to lead her evidence in chief in respect of the hearing of the appeals or any preliminary applications; and
+[ … ]
+[7] Lastly the Court, by Order dated September 28, 2018, mandated and directed that a show cause, case management and hearing of the Respondent’s motion to dismiss (the “consolidated hearing”) be held on November 23, 2018, for the following purposes:
+[ … ] SOLELY CONCERNING TYPE I APPEALS THIS COURT ORDERS THAT:
+[ … ]
+2. on November 23, 2018, the Court shall convene a case management conference, show cause hearing and/or a hearing of the Respondent’s motion to dismiss the Type I Appeals (the “consolidated hearing”) at 10:30 am at the Federal Judicial Centre, 180 Queen Street West, 6th Floor, Toronto, Ontario, concerning only all Type I Appeals;
+[ … ]
+8. apart from Appellants Darlington Etumni and George Moulton, all other parties are required to be present in person or represented by counsel or agent at the consolidated hearing; and
+[8] The consolidated hearing proceeded on November 23, 2018, at Toronto. These Reasons for Order are the culmination.
+A. The Non-Appearing Appellants
+[9] The following Appellants failed to appear at the consolidated hearing in person or through an agent or counsel (the “non-appearing Appellants”):
+Carmen Eusebe 2016-1781(IT)I
+Monica Moulton 2016-2814(IT)I
+Emmanuel Ojo 2016-3210(IT)I
+Niegell Myrie 2016-3280(IT)I
+Beverley Myrie 2016-3284(IT)I
+Claudine Persad 2016-3811(IT)I
+George Moulton 2016-4350(IT)I
+Nazil Ally 2016-3812(IT)I
+[10] None of the non-appearing Appellants contacted the Court Registry, Respondent’s Counsel or provided any other form of communication to the Court concerning a reason or excuse for failing to appear.
+[11] The Tax Court of Canada Rule (General Procedure) (the “Rules”) speak directly to the issue of failing to appear at a case management conference or process. Specifically, Rule 126 of the Rules provides:
+126(4) If a party fails to comply with the time requirements set out in a timetable established under this sections or with any requirement of these rules, or fails to attend any case management conference, the case management judge may
+(b) dismiss the appeal or give judgment in favour of the appellant;
+[12] Further with respect to the non-appearing Appellants, the Court notes that only one provided a list of documents prior to the date required, Carmen Eusebe. However, Carmen Eusebe neither appeared at the consolidated hearing nor enumerated a 2010 donation receipt within the list of documents or otherwise provided a copy. All other non-appearing Appellants also did not comply with previous case management orders in that regard.
+[13] This requirement to comply was directed by virtue of two distinct sections under the Rules, first 126(4) as referenced above and second, section 91 of the Rules which provides:
+91 Where a person or party who is required to make discovery of documents under sections 78 to 91 fails or refuses without reasonable excuse to make a list or affidavit of documents: or to disclose a document in a list or affidavit of documents or to produce a document for inspection and copying, or to comply with a judgment of the Court in relation to the production or inspection of documents, the Court may,
+[ …. ]
+(c) except where the failure or refusal is by a person who is not a party, dismiss the appeal or allow the appeal as the case may be,
+[ …. ]
+[14] The Court notes that the list of documents requested was simply that, a list. It was not necessary for an Appellant, until the final Order of September 28, 2018, to produce the donation receipt. Compliance in such a way was sufficient. In contrast, non-delivery of the list was and is not.
+[15] Lastly, within the September 28, 2018 Order, all Appellants were required to provide an affidavit attaching a copy of their charitable donation receipt or attend the consolidated hearing and, under other oath or affirmation, testify to its existence. No non-appearing Appellant did either.
+[16] Therefore, the Appeals of all the non-appearing Appellants are dismissed, without costs. An appellant who seeks to appeal an assessment before this Court is not permitted to simply not appear without excuse or explanation or to fail to comply with reasonable, and in this case, repeated requests to move the appeal along in the litigation process: Wolsey v. Her Majesty the Queen, 2016 TCC 236; Palmer v. Her Majesty the Queen, 2006 TCC 684, and Ghaffar v. Her Majesty the Queen, 2016 FCA 33. Moreover, failure to comply with a court order imposing deadlines is sufficient for dismissal: MacIver v. Her Majesty the Queen, 2009 FCA 89.
+[17] Finally, the sine qua non of the deductibility of an eligible donation amount is the production of a charitable donation receipt: R v. Castro, 2015 FCA 225. This case management/motions Court was not to decide the authenticity, sufficiency or accuracy of a submitted donation receipt. The Court’s quest in this case management process was simply to determine a donation receipt in some amount existed for the 2010 year relevant to each Type I Appeal. There is no evidence any such document exists or ever existed for any of the non-appearing Appellants. That there be one is a necessary requirement under subsection 118.1(2) of the Income Tax Act (“Act”):
+118.1(2) An eligible amount of a gift is not to be included in the total charitable gifts, total cultural gifts or total ecological gifts of an individual unless the making of the gift is evidenced by filing with the Minister
+(a) a receipt for the gift that contains prescribed information;
+(b) in the case of a gift described in the definition total cultural gifts in subsection (1), the certificate issued under subsection 33(1) of the Cultural Property Export and Import Act; and
+(c) in the case of a gift described in the definition total ecological gifts in subsection (1), both certificates referred to in that definition.
+[18] Again, this is not a case of the more nuanced analysis of donation receipt compliance, but rather a determination of the simple existence and production of “a receipt”. The proper inquiry as to the authenticity, sufficiency and compliance under Regulations 3500 and 3501 would have been for a trial judge. Since there is no receipt, this Court cannot direct that the Type I Appeals for the non‑appearing Appellants proceed to trial. There would simply be no subject matter to examine.
+B. The Appellants attending the Consolidated Hearing
+[19] For the balance of the Appellants, all appearing in person and in two cases with counsel or an agent, a process was followed to hear certain evidence at the consolidated hearing. Each Appellant was sworn or affirmed in order to afford an opportunity to provide testimony to the Court concerning the compilation of a list of documents and existence and production of a 2010 receipt. The following is a summary of each such appellant’s testimony and documents in the order each appeared.
+i) Priscilla Ukeh; 2016-3225(IT)I
+[20] Ms. Ukeh was the sole Type I Appellant with counsel. Mr. Cheema had appeared before the Court during 3 of the 4 previous case management conferences. No list of documents had been filed. No list was produced at the consolidated hearing. Mr. Cheema asserted previously that Ms. Ukeh possibly had a Type II Appeal. That issue was resolved just before the consolidated hearing date. Ms. Ukeh’s Appeal is unequivocally a Type I Appeal.
+[21] Ms. Ukeh testified that she had participated in a donation program in 2009. The duplicate charitable receipts produced buttressed this fact. They reflected a cash donation in 2009 for $3000.00. Regrettably, they reflected the “barter currency – Tradebux”. That distinct program is known as the Universal Barter Program. Further, Ms. Ukeh’s donation in 2010, identified in the documents produced reflected a contribution value of $26,000.79 in 2010. There were no corresponding, referential or approximating charitable donation receipt(s) reflective of such an amount donated in the calendar and taxation year 2010. Ms. Ukeh has regrettably failed to produce an original, copy or duplicate of a 2010 charitable donation receipt relating to the donation claimed.
+ii) Benedict Kuye; 2016-2645(IT)I
+[22] Mr. Kuye provided a descriptive memorandum received from the promoter of the donation program (“memo”). He provided a confirmation letter of subscription (“letter”) and a copy of a T5003 - Statement of Tax Shelter Information (“T5003”). He also provided a charitable donation receipt for $65,000.07 related to 2009. He argued that having received a 2009 receipt together with the 2010 memo, letter and T5003 was sufficient evidence that he either received, but had mislaid his 2010 receipt; or, cumulatively such evidence proved his donation in 2010. He produced no 2010 donation receipt.
+iii) Anne Kuye; 2016-2646(IT)I
+[23] Ms. Kuye produced a corresponding memo, T5003 and an essential merchandise certificate (“certificate”). She argued that although no donation receipt could be produced, the donations were made and reflected by virtue of the combined effect of the memo, T5003 and certificate. No 2010 receipt was produced.
+iv) Ruth Kpiebewieng; 2016-2710(IT)I
+[24] Ms. Kpiebewieng was represented by an agent, Mr. Ezekial Ekeh. Ms. Kpiebeweing produced and testified to several T5003s for 2012 related to a different charitable organization. These documents were: a 2012 charitable receipt for the Eastern Orthodox Catholic Church in Canada and the Americas referencing the amount of $9,219.00, a memo (with redacted information) and a screen shot of the donation website of the Hebrew Church of God. Mr. Ekeh made a similar fact argument of sorts. The 2009 and 2012 receipts were evidence that the 2009 and 2012 charitable donations were made and therefore a 2010 donation receipt should be inferred. Tax receipts alone are not determinative and so the absence of a 2010 donation receipt was not fatal.
+v) Darlington Etumni; 2016-2736(IT)G
+[25] Mr. Etumni produced a Deed of Gift dated in 2010 between him and the Hebrew Church of God, a copy of a cheque for $6000.00 (“cheque”), T5003 and a description of the donation program (the “description”). No charitable receipt was produced. Mr. Etumni substituted that:
+a. he should not be penalized because a charitable donation receipt cannot be produced;
+b. the 2009 receipt and cheque exist and reflect a similar process in 2010;
+c. his cheque evidences he paid some amount;
+d. his T5003 constitutes approval by CRA, of the program;
+e. the passage of time makes a duplicate receipt impossible to obtain; and,
+f. the Court should use its discretion not to dismiss, but allow the appeal.
+vi) Echefula Nwaokocha
+[26] Mr. Nwaokocha produced the description, the certificate, the cheque for $4000.00 and a bank draft payable to Destiny Marketing Solution Trust for $500.00 dated December 10, 2010. He argued that there was a trusting relationship because of good faith related to the charitable good works. Further, the certificate and cheque are evidence money was given. The requirement of a receipt is late in time and unfair because the Universal Health Group Trust was a registered tax shelter.
+C. Consolidation of the Appellants’ Arguments
+[27] The Court notes that no attending Type I Appellant produced an original, duplicate or copy of a charitable donation receipt for any amount referable to a charitable gift or donation given in 2010. Each Appellant claimed such a donation as having being made in that year. Most, if not all, claim a charitable donation in that year related to a donation made in that year.
+[28] The requirements of subsection 118.1(2) are mandatory. There must be a charitable donation receipt. It must be produced for the Minister upon request. Such production allows the Minister to undertake the examination of the receipt to determine compliance through inclusion of the prescribed information within it: Regulations 3500 and 3501 of the Act. The collateral information surrounding the receipts is just that: collateral. The charitable donation receipt is an ironclad, baseline requirement: R v. Castro, supra, at paragraphs 59 and 82. The non-existence of a receipt for each appellant is fatal. A trial judge has no evidence from which to determine whether the critical, elemental details, to be included within the receipt reflecting the charitable donation, exist. The charitable receipt is existential to an allowable charitable donation. The second stage inquiry of compliance cannot begin because no prescribed, initial evidence of a charitable donation would be before the trial judge. The Court cannot abide the further utilization of its processes in these appeals where that critical threshold of the existence and production of a donation receipt has not been met.
+[29] For these reasons, all Type I Appeals before this Court on this motion are dismissed, without costs.
+Signed at Ottawa, Canada, this 14th day of December 2018.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2018 TCC 254
+COURT FILE NO.:
+2016-1781(IT)I
+2016-2645(IT)I
+2016-2646(IT)I
+2016-2710(IT)I
+2016-2736(IT)I
+2016-2793(IT)I
+2016-2814(IT)I
+2016-3210(IT)I
+2016-3225(IT)I
+2016-3280(IT)I
+2016-3284(IT)I
+2016-3811(IT)I
+2016-4350(IT)I
+2016-3812(IT)I
+STYLE OF CAUSE:
+CARMEN EUSEBE,
+AND HER MAJESTY THE QUEEN,
+AND
+BETWEEN:
+BENEDICT KUYE,
+AND HER MAJESTY THE QUEEN,
+AND
+BETWEEN:
+ANNE KUYE,
+AND HER MAJESTY THE QUEEN,
+AND
+BETWEEN:
+RUTH KPIEBEWIENG,
+AND HER MAJESTY THE QUEEN,
+AND
+BETWEEN:
+DARLINGTON ETUMNI,
+AND HER MAJESTY THE QUEEN,
+AND
+BETWEEN:
+ECHEFULA NWAOKOCHA,
+AND HER MAJESTY THE QUEEN,
+AND
+BETWEEN:
+MONICA MOUTLON,
+AND HER MAJESTY THE QUEEN,
+AND
+BETWEEN:
+EMMANUEL OJO,
+AND HER MAJESTY THE QUEEN,
+AND
+BETWEEN:
+PRISCILLA UKEH,
+AND HER MAJESTY THE QUEEN,
+AND
+BETWEEN:
+NIEGEL MYRIE,
+AND HER MAJESTY THE QUEEN,
+AND
+BETWEEN:
+BEVERLEY MYRIE,
+AND HER MAJESTY THE QEEN,
+AND
+BETWEEN:
+CLAUDINE PERSAD,
+AND HER MAJESTY THE QUEEN,
+AND
+BETWEEN:
+GEORGRE MOULTON,
+AND HER MAJESTY THE QUEEN,
+AND
+BETWEEN:
+NAZIL ALLY,
+AND HER MAJESTY THE QUEEN.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 23, 2018
+REASONS FOR ORDER BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF ORDER:
+December 14, 2018
+APPEARANCES:
+Counsel for the Respondent:
+Ifeyani Nwachukwu
+Christopher Kitchen
+Anna-Maria Tarres
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

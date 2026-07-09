@@ -1,0 +1,133 @@
+Title: Duxbury c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28500/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-688-28500-duxbury-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-12-18
+
+# Duxbury c. La Reine
+
+- Citation: 2006 CCI 688
+- Decision date: 2006-12-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1297, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duxbury c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-18
+Référence neutre
+2006 CCI 688
+Numéro de dossier
+2004-1828(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-1828(IT)I ENTRE :
+COLIN DUXBURY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 27 novembre 2006 à Nanaimo (Colombie-Britannique)
+Devant : L’honorable juge T. O’Connor
+Comparutions:
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Pavanjit Mahil
+____________________________________________________________________
+JUGEMENT
+En l’espèce, l’avis d’appel visait les années 1986 à 2001 et l’année 2003. La Cour, dans des ordonnances datées du 24 septembre 2004 et du 1er avril 2005, a annulé les appels à l’égard de toutes ces années, exception faite de l’année 2000. Ainsi, seule l’année d’imposition 2000 est en litige. Conformément aux motifs du jugement ci-joints, l’appel à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est rejeté.
+Signé à Ottawa (Canada) ce 18e jour de décembre 2006.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 1er jour de février 2008.
+Jean-François Leclerc-Sirois, LL.L, LL.B.
+Référence : 2006CCI688
+Date : 20061218
+Dossier : 2004-1828(IT)I
+ENTRE :
+COLIN DUXBURY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge O’Connor
+[1] Comme il est mentionné dans le jugement, seule l’année d’imposition 2000 est en litige.
+[2] À l’égard de l’année d’imposition 2000, le ministre du Revenu national (le « ministre ») a tenu pour acquis les faits suivants, qui sont énoncés au paragraphe 23 de la réponse :
+[traduction]
+a) le revenu gagné du contribuable pour l’année d’imposition 2000, aux fins de la détermination de son montant déductible au titre des REER, est nul;
+b) avant 1986, l’appelant et son épouse détenaient en propriété conjointe un bien immeuble qui leur servait de résidence principale (la « résidence »);
+c) l’appelant et son épouse ont hypothéqué la résidence auprès de la Banque de la Colombie-Britannique afin de permettre à l’appelant d’investir dans une société;
+d) l’appelant s’est porté garant de l’hypothèque, et son épouse co-garante;
+e) l’épouse de l’appelant n’était pas membre de la direction de la société dans laquelle l’appelant a investi;
+f) en 1986, l’appelant a réorganisé ses affaires en remboursant l’hypothèque due à la Banque de Colombie-Britannique avec les fonds qu’il a retirés de son REER, afin de se mettre, avec son épouse, à l’abri de leurs créanciers commerciaux. C’est de cette façon que le fiduciaire du REER de l’appelant a acquis une hypothèque à titre d’investissement pour le compte de l’appelant;
+g) après le remboursement de l’hypothèque de la Banque de la Colombie‑Britannique, seule l’épouse de l’appelant était propriétaire de la résidence;
+h) l’appelant a versé des paiements hypothécaires relatifs à la résidence au fiduciaire de son REER;
+i) l’appelant n’a pas cotisé à son REER lors de l’année d’imposition 2000;
+j) l’appelant n’a déduit aucune cotisation à un REER pour l’année d’imposition 2000;
+k) l’appelant a retiré 38 527 $ de son REER auprès de RBC Dominion valeurs mobilières Inc. durant l’année d’imposition 2000;
+l) RBC Dominion valeurs mobilières Inc. a délivré à l’appelant le feuillet d’information T4RSP portant sur les retraits se rapportant à l’année d’imposition 2000 que voici :
+Montant retiré Impôt déduit à la source Régime de l’époux / conjoint de fait
+38 527 $
+3 852,78 $
+Non
+[3] Le ministre soutient que les paiements faits par l’appelant au fiduciaire du REER à l’égard de l’hypothèque grevant le bien de l’épouse ne constituent pas des « primes » au sens du paragraphe 146(1) de la Loi de l’impôt sur le revenu (la « Loi ») et qu’ils ne sont donc pas déductibles en application du paragraphe 146(5) de la Loi.
+[4] Le ministre s’appuie sur le paragraphe 146(8) de la Loi pour faire valoir que c’est à bon droit qu’il a inclus les 38 527 $ retirés par l’appelant de son REER au cours de l’année d’imposition 2000 dans le calcul du revenu de ce dernier.
+[5] Le ministre affirme que l’appelant n’a pas payé trop d’impôt et que les transactions relatives à son REER n’ont pas été doublement imposées, puisque :
+1. L’appelant a déduit les primes versées à son REER durant les années d’imposition pertinentes en vertu du paragraphe 146(5) de la Loi, jusqu’à concurrence du maximum déductible au titre des REER.
+2. Les fonds de l’appelant provenant du REER, qu’on lui a permis de déduire et sur lesquels il n’a pas été imposé, ont servi à acquérir une hypothèque sur le bien de son épouse.
+3. Les revenus obtenus grâce aux actifs détenus en fiducie dans le REER de l’appelant (y compris les investissements admissibles) ne sont pas imposables tant qu’ils sont régis par la fiducie, conformément au paragraphe 146(4) de la Loi.
+4. Les paiements hypothécaires versés par l’appelant au fiduciaire de son REER qui détenait l’hypothèque grevant le bien de l’épouse ne constituent pas des cotisations à un REER, mais plutôt le remboursement d’un emprunt financier.
+[6] La question à trancher à l’égard de l’année d’imposition 2000 est la suivante : le ministre a-t-il eu raison d’inclure les 38 527 $ retirés du REER dans le calcul du revenu de l’appelant et de refuser la déduction de 11 478 $ au titre d’un REER demandée par celui-ci?
+[7] Voici le libellé du paragraphe 146(8) de la Loi :
+(8) Prestations [et retraits] imposables – Est inclus dans le calcul du revenu d’un contribuable pour une année d’imposition le total des montants qu’il a reçus au cours de l’année à titre de prestations dans le cadre de régimes enregistrés d’épargne-retraite, à l’exception des retraits exclus au sens des paragraphes 146.01(1) ou 146.02(1), et des montants qui sont inclus, en application de l’alinéa (12)b), dans le calcul de son revenu.
+[8] Selon les hypothèses de fait du ministre, l’appelant a retiré 38 527 $ de son REER chez RBC Dominion valeurs mobilières Inc. lors de l’année d’imposition 2000. On lui a délivré un feuillet T4RSP qui indiquait les détails du retrait et des 3 852,78 $ d’impôts déduits à la source. Il n’existe aucune disposition spéciale qui permettrait de traiter ce retrait différemment, de façon à le soustraire à la règle ordinaire de l’inclusion dans le revenu. C’est donc à bon droit que le retrait de 38 527 $ du REER du contribuable a été inclus dans le revenu de celui-ci pour l’année d’imposition 2000.
+[9] Quant au refus par le ministre de la déduction au titre d’un REER des 11 478 $ représentant les paiements faits par l’appelant au fiduciaire de son REER à l’égard de l’hypothèque grevant la résidence de l’épouse, je suis d’avis qu’il ne s’agit pas de primes au sens du paragraphe 146(1) de la Loi. La somme n’est donc pas déductible et le refus du ministre était justifié.
+[10] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa (Canada) ce 18e jour de décembre 2006.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 1er jour de février 2008.
+Jean-François Leclerc-Sirois, LL.L, LL.B.
+RÉFÉRENCE :
+2006CCI688
+Nº DU DOSSIER DE LA COUR :
+2004-1828(IT)I
+INTITULÉ :
+Colin Duxbury et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Nanaimo (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 27 novembre 2006
+MOTIFS DU JUGEMENT :
+L’honorable juge T. O’Connor
+DATE DU JUGEMENT :
+Le 18 décembre 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Pavanjit Mahil
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)

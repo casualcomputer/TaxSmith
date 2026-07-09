@@ -1,0 +1,213 @@
+Title: Poirier c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26082/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-632-26082-poirier-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-11-04
+
+# Poirier c. La Reine
+
+- Citation: 2004 CCI 632
+- Decision date: 2004-11-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4110, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poirier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-11-04
+Référence neutre
+2004 CCI 632
+Numéro de dossier
+2003-4201(IT)I
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI632
+Date : 20041104
+Dossier : 2003-4201(IT)I
+ENTRE :
+CAROLE POIRIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+DENIS MARTIN,
+tierce partie.
+MOTIFS DU JUGEMENT
+(Prononcés oralement à l'audience le 4 juin 2004, à Québec (Québec),
+et modifiés pour plus de clarté.)
+Le juge Archambault
+[1] Les appels de madame Carole Poirier visent les nouvelles cotisations établies en date du 24 mars 2003 par le ministre du Revenu national (ministre) à l'égard des années d'imposition 1999, 2000 et 2001. Par ces nouvelles cotisations, le ministre a ajouté les sommes de 13 935 $, de 13 439 $ et de 13 728 $ à titre de pension alimentaire dans le calcul du revenu de madame Poirier pour ces trois années d'imposition. En produisant ses déclarations de revenus pour ces années, madame Poirier n'avait déclaré aucune des sommes en question.
+[2] De toute évidence, le ministre a décidé de les inclure dans le revenu de madame Poirier à la suite de la décision rendue par mon collègue le juge Tardif dans les appels de monsieur Denis Martin à l'égard des années d'imposition 1998, 1999 et 2000. Dans son jugement du 24 février 2003, le juge Tardif a décidé que monsieur Martin avait le droit de déduire la pension alimentaire qu'il avait versée à madame Poirier durant ces années d'imposition-là. Le ministre avait soutenu que la pension alimentaire versée par monsieur Martin au bénéfice de ses enfants n'était pas déductible, et ce, en raison des modifications apportées à la Loi de l'impôt sur le revenu (Loi) qui ont pour objet de défiscaliser les pensions alimentaires versées au bénéfice des enfants (nouvelles règles). Le juge Tardif a conclu que la pension alimentaire versée par monsieur Martin était assujettie à l'ancien régime et non pas aux nouvelles règles.
+[3] Peu de temps avant l'audition des appels de madame Poirier, l'intimée a demandé que monsieur Martin soit joint à ces appels en vertu de l'article 174 de la Loi et que la Cour statue, en plus, sur les questions formulées au paragraphe 3 de la demande de renvoi. Ces questions sont les suivantes :
+a) Denis Martin peut-il déduire, dans le calcul de son revenu pour l'année d'imposition 2001, la somme de 13 728 $ payée à Carole Poirier au cours de l'année à titre de pension alimentaire?
+b) Carole Poirier doit-elle inclure, dans le calcul de son revenu pour l'année d'imposition 2001, la somme de 13 728 $ reçue de Denis Martin au cours de l'année à titre de pension alimentaire?[1]
+[4] Au début de l'audience, la procureure de l'intimée a demandé - et toutes les parties y ont consenti - que des questions semblables soient soulevées à l'égard de l'année d'imposition 2002 puisque monsieur Martin a versé une pension alimentaire en vertu de la même ordonnance de la Cour supérieure que celle qui est pertinente pour les autres années en litige[2].
+[5] Après avoir entendu la preuve et les arguments de chacune des parties, j'ai rendu ma décision sur-le-champ. J'ai alors exposé brièvement les motifs pour lesquels j'en étais venu à la conclusion que la pension alimentaire versée par monsieur Martin était assujettie aux nouvelles règles et que, par conséquent, il ne pouvait la déduire et madame Poirier n'était pas tenue de l'inclure dans son revenu. J'ai alors informé monsieur Martin que, s'il désirait interjeter appel, je lui fournirais des motifs plus détaillés. Or, monsieur Martin, qui s'était représenté lui-même lors de l'audience, a mandaté des procureurs pour étudier l'opportunité d'interjeter appel. D'où ces motifs écrits plus détaillés.
+Faits
+[6] Les faits en litige ne sont pas contestés par les parties. En effet, tous les alinéas énoncés au paragraphe 5 de la réponse à l'avis d'appel ont été admis par toutes les parties à l'exception peut-être de l'alinéa 5o), dont madame Poirier a dit n'avoir aucune connaissance. Je reproduis ces alinéas ici :
+a) l'appelante et monsieur Denis Martin se sont divorcés par jugement prononcé le 20 janvier 1992;
+b) l'appelante et monsieur Denis Martin sont les parents de quatre enfants :
+i) Dominic, né le 20 novembre 1980,
+ii) Émilie, née le 4 mai 1982,
+iii) Audray, née le 24 septembre 1984,
+iv) Joëlle, née le 8 octobre 1986;
+c) lors du divorce, la garde des enfants fut confiée à l'appelante;
+d) le 15 mars 1996, la pension alimentaire a été révisée à une somme de 325 $ par semaine avec indexation annuelle;
+e) le 11 avril 1997, l'enfant Dominic a déménagé chez son père, monsieur Denis Martin;
+f) le 14 avril 1997, monsieur Denis Martin a présenté une requête pour entériner le changement de garde de son fils Dominic et pour obtenir une réduction de la pension alimentaire versée à l'appelante;
+g) le 28 avril 1997, monsieur Denis Martin et l'appelante ont signé une convention dans laquelle il était établi qu'advenant un changement de garde entériné par la Cour, la pension alimentaire payée par monsieur Martin à l'appelante serait réduite à 247,41 $ par semaine et qu'elle demeurera déductible pour monsieur Martin et imposable pour l'appelante;
+h) en vertu de la convention du 28 avril 1997, l'appelante et monsieur Denis Martin ont laissé à la Cour le soin de déterminer la date à laquelle la modification de la pension alimentaire sera en vigueur;
+i) le 1er mai 1997, une ordonnance intérimaire a été rendue qui confiait la garde de Dominic à monsieur Denis Martin, maintenant le statu quo au sujet de la pension alimentaire et reportait l'audition de la requête au 12 juin 1997;
+j) cette ordonnance du 1er mai 1997, indiquait également que « le montant de la pension alimentaire fixé sera rétroactivement à la date de la signification des procédures » ;
+k) le 4 juillet 1997, l'honorable juge Raynald Fréchette, j.c.s., de la Cour supérieure, a rendu une décision en ordonnant une garde partagée, à l'égard de l'enfant Dominic, et en fixant à une somme de 247,41 $[3] par semaine la pension alimentaire modifiée payable par monsieur Martin à ladite appelante, et ce à compter de la date du présent jugement;
+l) étant donné que le jugement daté du 4 juillet 1997 de l'honorable juge Fréchette n'entérinait pas comme telle, selon monsieur Denis Martin et l'appelante, la convention signée le 28 avril 1997, les parties signèrent une nouvelle convention le 20 avril 1998, dans laquelle il est stipulé que monsieur Martin s'engagera à payer à l'appelante pour ses trois enfants mineurs une pension alimentaire mensuelle de 1 072,11 $, que ladite pension alimentaire continuera à être déductible pour monsieur Martin et imposable pour l'appelante et qu'elle sera rétroactive depuis le 4 juillet 1997;
+m) le 5 mai 1998, l'honorable juge Raynald Fréchette, j.c.s., de la Cour supérieure, a rendu une décision corrigée dans laquelle, entre autres, il ordonne que la pension alimentaire soit payable à compter du 1er juillet 1997 et qu'elle demeure imposable pour l'appelante et déductible pour monsieur Denis Martin;
+n) conformément au jugement corrigé du 5 mai 1998, le ministre en avait déduit, selon sa compréhension, que la pension alimentaire versée par monsieur Denis Martin à l'appelante, depuis le 1er juillet 1997, était sujette aux nouvelles règles fiscales puisque le juge Fréchette n'avait pas l'autorité pour lui dicter si une pension alimentaire était déductible et/ou imposable;
+o) suite à l'audition de la cause de l'ex-conjoint de l'appelante, monsieur Denis Martin, devant la Cour canadienne de l'impôt le 23 janvier 2003, il est apparu au juge Alain Tardif, selon sa compréhension du dossier, que la mention dans le jugement corrigé du juge Fréchette, le 5 mai 1998, à l'égard de la déductibilité/imposition de la pension alimentaire, n'avait pas pour but de dicter au ministre comment traiter la question, mais visait essentiellement à entériner la volonté des parties (convention datée du 28 avril 1997);
+p) à l'égard des années en litige, monsieur Denis Martin a réclamé annuellement, dans le calcul de son revenu, les sommes respectives de 13 935 $, de 13 439 $ et de 13 728 $, au titre de pension alimentaire ou autre allocation payable périodiquement, à l'égard des années d'imposition 1999, 2000 et 2001;
+q) suite à la décision prise par l'honorable juge Alain Tardif, le ministre a ajouté les sommes respectives de 13 935 $, de 13 439 $ et de 13 728 $ au titre de pension alimentaire ou autre allocation payable périodiquement, dans le calcul du revenu de l'appelante, à l'égard des années d'imposition 1999, 2000 et 2001.
+[7] Comme cet exposé constitue un excellent résumé des faits pertinents, je me contenterai de n'y ajouter que certains faits provenant en grande partie des documents produits en preuve. Ainsi, on trouve dans la requête en modification des mesures accessoires après jugement de divorce, datée du 14 avril 1997, les détails suivants :
+2. Au cours des années subséquentes audit jugement, de nombreux jugements concernant la pension alimentaire ont été rendus dans le présent dossier;
+3. Finalement, le 15 mars 1996, l'Honorable Juge Pierre Boily rendait un nouveau jugement et condamnait le défendeur à payer, pour ses enfants mineurs, la somme de 325,00 $ par semaine à titre de pension alimentaire, indexable annuellement;
+4. Depuis ce dernier jugement, certains faits sont survenus ayant pour conséquence que les mesures accessoires doivent être maintenant révisées :
+[...]
+6. En conséquence, il demande également que la pension alimentaire hebdomadaire soit diminuée de 329,88 $ à 247,41 $ par semaine et ce, rétroactivement au 11 avril 1997;
+[Je souligne.]
+[8] Parmi les conclusions de cette requête, il y a celle-ci :
+CONDAMNER le défendeur à payer à la demanderesse, pour ses trois (3) enfants mineurs Émilie, Audray et Joëlle, une pension alimentaire mensuelle de 1 071,29 $, indexable annuellement, à être payée en deux (2) versements de 535,64 $, le 15e et dernier jour de chaque mois, et ce rétroactivement au 11 avril 1997, le tout, conformément à la loi facilitant le paiement des pensions alimentaires;
+[Je souligne.]
+[9] De plus, je crois utile de reproduire certains extraits de la convention du 28 avril 1997 :
+Nous, soussigné [sic], Carole Poirier et Denis Martin, reconnaissons qu'une requête visant un changement de garde de notre fils Dominic a été déposée à la Cour Supérieure du district de St-François et qu'elle doit être entendue sous peu devant le tribunal.
+Advenant un changement de garde, nous convenons qu'il y a entente sur les points suivants :
+- réduction de la pension alimentaire de $329.88 à $247.41 par semaine.
+[...]
+- la pension alimentaire demeurera déductible d'impôt pour le père et imposable pour la mère;
+[...]
+Nous acceptons de porter devant le tribunal les points de mésentente suivants :
+- les motifs et le bien-fondé d'un tel changement de garde;
+- la date à laquelle le changement de pension alimentaire doit être effective [sic] et, s'il y a lieu le montant de la rétroactivité;
+- le changement de bénéficiaire des prestations fiscales et des allocations familiales.
+Nous convenons qu'il n'y a aucun intérêt à soumettre le présent litige à l'arbitrage ou à la médiation. De plus, nous souhaitons soustraire la présente entente des nouvelles règles touchant les pensions alimentaires pour l'intérêt des parties en cause.
+[Je souligne.]
+[10] Dans son jugement du 4 juillet 1997, le juge Fréchette de la Cour supérieure du Québec fait le commentaire préliminaire suivant :
+ATTENDU QUE le défendeur présente une requête pour modification des mesures accessoires, soit le changement de garde de l'enfant Dominic présentement âgé de 16 ans, ainsi que des modification [sic] au niveau des droits d'accès et de la pension alimentaire;
+[Je souligne.]
+[11] J'aimerais également citer un extrait de la convention du 20 avril 1998, convention dans le préambule de laquelle madame Poirier et monsieur Martin reconnaissaient ce qui suit :
+ATTENDU QUE les parties avaient signées [sic] en date du 28 avril 1997 une entente à l'effet que suite à la décision du Tribunal sur le montant de cette pension alimentaire celle-ci à être payée par le défendeur à la demanderesse continuerait à être déductible-imposable;
+ATTENDU QUE lors de l'audition du 4 juillet 1997 les parties ont confirmées [sic] au Juge qu'elles voulaient que la pension soit déductible-imposable;
+[Je souligne.]
+[12] Le dernier document auquel j'aimerais faire référence est le Bulletin d'information sur la perception des pensions alimentaires publié par le ministère du Revenu du Québec. Il s'agit de celui de mars 2001 intitulé « La perception des pensions alimentaires » , dans lequel on trouve la mention suivante à la page 2 :
+Le jugement qui accorde la pension alimentaire est indispensable pour le Ministère. Ce jugement doit être le plus explicite possible afin de faciliter le travail des agents qui en font l'étude et qui l'appliquent.
+[Je souligne.]
+Mentionnons tout de suite que cette affirmation est conforme à l'article 1 de la Loi facilitant le paiement des pensions alimentaires (LFPPA), L.R.Q., chap. P-2.2.[4]
+Analyse
+[13] La question importante soulevée par cette affaire est de savoir si la pension alimentaire versée par monsieur Martin durant les années pertinentes est assujettie aux nouvelles règles. Les dispositions pertinentes se trouvent essentiellement aux alinéas 56(1)b) et 60b) ainsi qu'au paragraphe 56.1(4) de la Loi. Le paragraphe 56.1(4) fournit les définitions suivantes de « date d'exécution » , de « pension alimentaire » et de « pension alimentaire pour enfants » :
+56.1(4) Définitions. Les définitions qui suivent s'appliquent au présent article et à l'article 56.[5]
+56.1 (4) Definitions. The definitions in this subsection apply in this section and section 56.
+« date d'exécution » Quant à un accord ou une ordonnance :
+"commencement day" at any time of an agreement or order means
+a) si l'accord ou l'ordonnance est établi après avril 1997, la date de son établissement;
+(a) where the agreement or order is made after April 1997, the day it is made; and
+b) si l'accord ou l'ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l'accord ou de l'ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) si l'accord ou l'ordonnance fait l'objet d'une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d'exécution du premier semblable accord ou de la première semblable ordonnance,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) le jour précisé dans l'accord ou l'ordonnance, ou dans toute modification s'y rapportant, pour l'application de la présente loi.
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+« pension alimentaire pour enfants » Pension alimentaire qui, d'après l'accord ou l'ordonnance aux termes duquel elle est à recevoir, n'est pas destinée uniquement à subvenir aux besoins d'un bénéficiaire qui est soit l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur, soit le père ou la mère d'un enfant dont le payeur est le père naturel ou la mère naturelle.
+"child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common-law partner of the payer or who is a parent of a child of whom the payer is a natural parent.
+[Je souligne.]
+[14] Monsieur Martin soutient que l'ordonnance du 4 juillet 1997 n'a pas modifié l'ordonnance du 15 mars 1996 ou changé le total des montants prévus dans celle-ci, puisqu'il y avait eu un accord, soit celui du 28 avril 1997, qui l'avait déjà fait. Par conséquent, il n'y avait pas de date d'exécution.
+[15] Avec égards pour ceux qui défendent cette position, je crois qu'elle est mal fondée. Il faut d'abord s'interroger si la convention du 28 avril 1997 est bel et bien un « accord » au sens des dispositions pertinentes de la Loi. Pour bien saisir la portée de la notion, il faut analyser sa raison d'être, son utilité dans la Loi. Toute la pertinence de la notion se trouve dans la définition de pension alimentaire citée plus haut. Pour qu'une telle pension soit déductible en vertu de l'alinéa 60b) de la Loi et qu'elle soit incluse dans le revenu d'un bénéficiaire en vertu de l'alinéa 56(1)b), il est essentiel qu'elle ait été versée soit aux termes de l'ordonnance d'un tribunal compétent ou aux termes d'un accord écrit. De toute évidence, un simple accord verbal ne serait pas suffisant pour permettre la déduction d'une pension alimentaire. Il faut nécessairement un accord écrit ou une ordonnance[6] d'un tribunal compétent. Le but évident poursuivi par la Loi est de s'assurer qu'un contribuable est tenu de verser ou a le droit de recevoir une telle pension en raison d'une obligation découlant soit d'une ordonnance d'un tribunal, soit d'un accord qui crée une telle obligation, et que cette obligation est consignée dans un document écrit. Même si, dans la définition de « date d'exécution » il n'est question que d'un « accord » , il s'agit d'un accord écrit. Un accord verbal n'aurait aucune pertinence.
+[16] Non seulement la Loi reconnaît-elle que, pour être déductible, la pension alimentaire n'a pas à être versée en vertu d'une ordonnance d'un tribunal compétent - un simple accord écrit suffit - mais, comme le disait ma collègue la juge Lamarre dans Clermont (citée plus haut), au paragraphe 16, il est « loisible aux parties de modifier une ordonnance de cour établissant une pension alimentaire pour enfants, sans que ce soit nécessaire de faire homologuer cette nouvelle entente par le tribunal » . À l'appui de sa conclusion, elle citait les propos du juge Pierre Dalphond, alors juge à la Cour supérieure du Québec, dans l'affaire R.G. v. L.A., [2000] Q.J. No. 1397 C.S. (Qué.) (Q.L.) :
+[TRADUCTION]
+108 Une fois que la Cour a rendu un jugement de séparation ou de divorce et qu'elle a accordé des mesures accessoires, il n'y a rien qui empêche les parties de régler entre elles-mêmes la façon dont elles veulent exécuter les avantages et les obligations découlant du jugement. Les parties restent libres de négocier en tout temps.
+109 Bien qu'il soit absolument nécessaire, pour qu'un divorce prenne effet, qu'il soit prononcé par un tribunal puisque le mariage déborde les intérêts privés des parties concernées, rien dans la Loi sur le divorce n'empêche deux parties de conclure une entente relative à leurs obligations financières l'une envers l'autre à la suite d'un jugement de divorce. Les lois du Québec, y compris le Code civil du Bas-Canada et le Code civil du Québec, ne le défendent pas non plus.
+[Je souligne.]
+[17] Il aurait donc été loisible à monsieur Martin et à madame Poirier de se contenter de l'accord écrit du 28 avril 1997 pour faire en sorte que la pension alimentaire de 325 $ par semaine qui avait été fixée par le juge Boily le 15 mars 1996 soit réduite à 247,41 $. Toutefois, ce n'est pas ce qu'ils ont fait et j'y vois au moins deux motifs. Tout d'abord, ils ne semblaient pas être d'accord entre eux qu'il était opportun que Dominic aille vivre chez son père. C'est un juge de la Cour supérieure qui devait trancher cette question. Par conséquent, l'obligation de verser une pension alimentaire réduite dépendait de la décision sur cette question. Ainsi, la convention du 28 avril ne créait pas d'obligation de verser une pension alimentaire; c'est la Cour supérieure qui allait la créer.[7]
+[18] Deuxièmement, on désirait que le versement de la pension alimentaire payable par monsieur Martin soit assujetti à la LFPPA, tel que le confirme une des conclusions recherchées par la requête du 14 avril 1997. Or, pour atteindre cet objectif, il était essentiel d'obtenir une ordonnance de la Cour supérieure. Le ministère du Revenu du Québec, qui applique la LFPPA, exige une ordonnance exécutoire d'un tribunal pour qu'il perçoive la pension alimentaire au profit des bénéficiaires. Il n'est donc pas surprenant de constater que, comme cela est aussi indiqué dans la requête du 14 avril 1997, de nombreux jugements concernant la pension alimentaire avaient été rendus par le passé dans le dossier de madame Poirier et de monsieur Martin.
+[19] Cette analyse des faits m'amène à me prononcer sur la nature de la convention signée le 28 avril 1997. Le but de cette convention n'était pas de créer une obligation de la part de monsieur Martin de verser une pension alimentaire à madame Poirier au bénéfice de leurs enfants; le but était plutôt de s'entendre sur certaines des questions qui devaient être débattues devant la Cour supérieure : en particulier, la fixation du montant de la réduction de la pension alimentaire si le tribunal décidait que Dominic pouvait habiter chez son père et la détermination du moment où cette réduction prendrait effet. En d'autres mots, la convention du 28 avril 1997 ne constituait qu'un « consentement partiel à jugement » et non un « accord écrit » visé au paragraphe 56.1(4) de la Loi et créant l'obligation de verser une pension alimentaire.
+[20] Il faut ajouter que les tribunaux ne sont pas tenus d'accepter de tels consentements à jugement. Je suis persuadé que la Cour supérieure aurait pu modifier le montant si elle l'avait trouvé déraisonnable. D'ailleurs, lorsque la requête a été entendue le 1er mai 1997, l'ordonnance intérimaire confiant la garde de Dominic à monsieur Martin a maintenu le statu quo en ce qui a trait à la pension alimentaire, et cela, même si les parents de Dominic s'étaient entendus sur le montant de la réduction de cette pension! Pour que la réduction de la pension alimentaire prenne effet, il fallait tout d'abord que la Cour supérieure fixe le montant de cette réduction. D'ailleurs, monsieur Martin et madame Poirier reconnaissent eux-mêmes dans leur convention du 20 avril 1998 que la pension a été fixée par la Cour supérieure ( « suite à la décision du Tribunal sur le montant de cette pension alimentaire » ).
+[21] En outre, la date d'entrée en vigueur de l'obligation dépendait de la décision de la Cour supérieure, tel que le stipulait la convention du 28 avril 1997. Notons également que, contrairement à ce qui avait été demandé dans la requête du 14 avril 1997, l'obligation réduite quant à la pension alimentaire à verser n'a pris effet qu'à compter du 4 juillet 1997, et non pas à compter du 11 avril 1997.
+[22] Appui pour cette conclusion se trouve également dans le fait que monsieur Martin et madame Poirier ont jugé nécessaire d'obtenir une nouvelle ordonnance, celle en date du 5 mai 1998, pour corriger l'absence dans l'ordonnance du 4 juillet 1997 d'une mention que la pension serait déductible par monsieur Martin et imposable entre les mains de madame Poirier.
+[23] J'en viens donc à la conclusion que la convention du 28 avril 1997 ne constitue pas un « accord » au sens du paragraphe 56.1(4) de la Loi. Ici seule une ordonnance rendue par la Cour supérieure pouvait permettre à monsieur Martin, si les autres conditions étaient par ailleurs réunies, de déduire la pension alimentaire qu'il payait.
+[24] Il faut maintenant porter notre attention sur ces autres conditions. Celle qui pose problème ici est celle relative à la « date d'exécution » . Y avait-il une telle date dans le cas de l'ordonnance de la Cour supérieure? Dans l'affirmative, la pension alimentaire pour enfants serait défiscalisée. Comme j'ai conclu qu'il n'existait pas ici d'accord écrit, mais qu'il y avait uniquement des ordonnances de la Cour supérieure, il devient alors plus facile de trancher cette question. Rappelons les faits. La dernière ordonnance en vigueur avant que Dominic ne décide d'aller vivre chez son père était celle du juge Boily du 15 mars 1996. La première ordonnance est vraisemblablement celle du 20 janvier 1992, également du juge Boily. Ces dates sont antérieures au mois de mai 1997. C'est l'ordonnance du 15 mars 1996 que monsieur Martin voulait faire modifier en avril 1997 et c'est celle-là que le juge Fréchette a modifiée le 4 juillet 1997. Dans son ordonnance, le juge Fréchette a diminué à 247,41 $ la pension alimentaire, et ce, à compter du 4 juillet 1997. Or, la date de l'ordonnance et celle de la prise d'effet de la réduction du montant de la pension alimentaire sont toutes les deux postérieures au 30 avril 1997.
+[25] À mon avis, il y a ici une date d'exécution selon l'alinéa a) ou les sous-alinéas b)(ii) et (iii) de la définition de « date d'exécution » au paragraphe 56.1(4) de la Loi que je reproduis à nouveau en partie :
+« date d'exécution » Quant à un accord ou une ordonnance :
+a) si l'accord ou l'ordonnance est établi après avril 1997, la date de son établissement;
+b) si l'accord ou l'ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+[...]
+(ii) si l'accord ou l'ordonnance fait l'objet d'une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d'exécution du premier semblable accord ou de la première semblable ordonnance,
+[26] J'ai mentionné plus haut qu'il était plus facile de trancher la question en litige ici une fois constatée l'absence d'accord écrit. Toutefois, cela ne signifie pas nécessairement que c'est facile. En effet, le libellé de la définition de « date d'exécution » n'est pas d'une grande clarté. Après l'avoir lue à plusieurs reprises et avoir pris connaissance du bulletin d'interprétation IT-530R portant sur les pensions alimentaires, ma compréhension est la suivante. L'alinéa a) semble viser tout accord écrit ou toute ordonnance établis après le mois d'avril 1997 (qu'il s'agisse ou pas d'un premier accord écrit ou d'une première ordonnance), alors que l'alinéa b) semble viser un accord écrit ou une ordonnance établis avant le mois de mai 1997. Ainsi, si la pension alimentaire peut être considérée comme payable en vertu de l'ordonnance du 4 juillet 1997, la date d'exécution est le 4 juillet 1997, et si elle peut être considérée comme payable en vertu de celle du 20 janvier 1992 ou de celle du 15 mars 1996, il faut alors déterminer si une des situations décrites aux sous-alinéas b)(i) à (iv) est présente et quel est le premier en date des jours qui sont mentionnés à ces sous-alinéas mais qui sont postérieurs à avril 1997.
+[27] Il est manifeste que les sous-alinéas b)(i) et b)(iv) ne sont pas applicables ici puisqu'il n'y a eu aucun choix conjoint présenté au ministre et qu'il n'y a pas de jour de précisé dans l'ordonnance, pour l'application de la Loi. Reste les sous-alinéas b)(ii) et b)(iii). À mon avis, ces deux sous-alinéas peuvent s'appliquer ici puisque, quant au premier, l'ordonnance du 20 janvier 1992 ou celle du 15 mars 1996 ont été établies avant mai 1997; elles ont fait l'objet d'une modification après avril 1997 - au moyen de l'ordonnance du 4 juillet 1997 - laquelle touche le montant de la pension alimentaire pour enfants à être versée à la bénéficiaire. Quant au deuxième, il y a une ordonnance subséquente établie après avril 1997 - celle du 4 juillet 1997 - qui a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables à la bénéficiaire en vertu d'une ordonnance établie avant le mois de mai 1997, soit celle du 20 janvier 1992 ou celle du 15 mars 1996. Dans ce deuxième cas, la date d'exécution est la date d'exécution de l'ordonnance subséquente, soit la date de l'établissement de celle-ci, qui est le 4 juillet 1997. Dans le premier cas, celui visé par le sous-alinéa b)(ii), il s'agirait du jour où le montant modifié était à verser pour la première fois, soit, selon toute vraisemblance, après le 4 juillet 1997. Ici la preuve n'a pas révélé quel était le jour où le montant modifié était à verser pour la première fois. De toute façon, la question ne présente qu'un intérêt théorique puisque la date d'exécution est « le premier en date des jours [mentionnés], postérieur à avril 1997 » , qui serait ici le 4 juillet 1997.
+[28] Ainsi, que la pension soit payable en vertu de l'ordonnance du 4 juillet 1997 ou de celle du 20 janvier 1992 ou du 15 mars 1996, la date d'exécution est la même, soit le 4 juillet 1997. La pension versée en vertu de l'une ou l'autre des ordonnances est assujettie aux nouvelles règles et est défiscalisée.
+[29] Avant de conclure, j'aimerais faire observer que je n'ai aucun doute que madame Poirier et monsieur Martin, lorsqu'ils ont négocié les modalités de l'ordonnance à être rendue par la Cour supérieure, ont clairement établi que la pension alimentaire serait déductible pour monsieur Martin et imposable pour madame Poirier. Il est donc surprenant que madame Poirier n'ait jamais inclus dans son revenu les montants de pension alimentaire que lui a versés monsieur Martin. Toutefois, l'assujettissement d'une pension alimentaire à l'impôt ou le droit de déduire cette pension ne dépend pas de la volonté des parties ni de celle d'un juge, fût-il un juge de cette cour ou d'une autre cour supérieure. C'est la Loi qui détermine les conditions d'assujettissement à l'impôt et qui détermine la mesure dans laquelle un contribuable a le droit de déduire certaines sommes ou est tenu de les inclure dans son revenu. Si la Cour supérieure avait rendu son ordonnance avant le mois de mai 1997 ou si madame Poirier et monsieur Martin avaient signé un accord écrit exécutoire avant cette date, la pension n'aurait pas été assujettie aux nouvelles règles et aurait été déductible par l'un et à inclure dans le revenu de l'autre. Or, étant donné que madame Poirier désirait que la question de la garde soit d'abord tranchée par la Cour supérieure, que monsieur Martin et elle désiraient qu'une ordonnance de la Cour supérieure soit rendue pour que la pension puisse être régie par la LFPPA et puisque, malheureusement pour monsieur Martin, l'ordonnance de ladite cour n'a pu être rendue qu'après le mois d'avril 1997, le résultat que commandent les dispositions de la Loi est que la pension alimentaire versée en vertu de cette ordonnance est défiscalisée.
+[30] Pour tous ces motifs, les appels des nouvelles cotisations établies en vertu de la Loi à l'égard des années d'imposition 1999, 2000 et 2001 sont accueillis et ces cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant pour acquis que la pension alimentaire reçue de monsieur Martin par madame Poirier doit être exclue du revenu de cette dernière.
+[31] De plus, la Cour statue que la pension alimentaire versée par monsieur Martin en 2001 et 2002 n'est pas déductible dans le calcul de son revenu pour ces deux années d'imposition et que cette pension doit être exclue du calcul du revenu madame Poirier pour l'année d'imposition 2002. Madame Poirier et monsieur Martin sont liés par cette décision. Le tout sans dépens.
+Signé à Ottawa, Canada, ce 4e jour de novembre 2004.
+« Pierre Archambault »
+Juge Archambault
+RÉFÉRENCE :
+2004CCI632
+No DU DOSSIER DE LA COUR :
+2003-4201(IT)I
+INTITULÉ DE LA CAUSE :
+Carole Poirier et La Reine
+et Denis Martin, tierce partie
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+4 juin 2004
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Pierre Archambault
+DATE DU JUGEMENT :
+le 15 juillet 2004
+DÉCISION RENDUE
+ORALEMENT :
+le 4 juin 2004
+MOTIFS RÉVISÉS DU JUGEMENT :
+4 novembre 2004
+COMPARUTIONS :
+Pour l'appelante :
+l'appelante elle-même
+Pour l'intimée :
+Me Stéphanie Côté
+Pour la tierce partie :
+la tierce partie elle-même
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] En fait, cette question était déjà soulevée par les appels de madame Poirier.
+[2] Pour les années d'imposition 1998, 1999 et 2000 de monsieur Martin, il est évident qu'il y a chose jugée. Pour ce qui est de la question de savoir si on peut considérer qu'il y a chose jugée à l'égard du droit de déduire sa pension alimentaire pour les années d'imposition 2001 et 2002, question qui n'a pas été soulevée ici, voir la discussion dans la décision que j'ai rendue dans Victoriaville (Commission scolaire) c.R., 2002 G.T.C. 196 et 2002 G.S.T.C. 49. À mon avis, il n'y a pas chose jugée pour les années 2001 et 2002.
+[3] En fait, le libellé de l'ordonnance est « DIMINUE à 247.41 $ par semaine la pension alimentaire payable par le défendeur à la demanderesse et ce, à compter du présent jugement. »
+[4] Voir également la décision de ma collègue la juge Lamarre dans Clermont c.La Reine, 2003 CCI 752, 2003 DTC 1342, 2003 CarswellNat 3255, au paragraphe 6, dans lequel il est dit :
+[...] De fait, la Loi facilitant le paiement des pensions alimentaires ne s'applique qu'au paiement d'aliments accordés sous forme de pension à un créancier alimentaire en vertu d'un jugement exécutoire au Québec (voir article 1 de cette loi).
+[5] Les définitions du paragraphe 56.1(4) s'appliquent à l'article 60 en vertu du paragraphe 60.1(4) de la Loi.
+[6] Toutes les ordonnances d'un tribunal compétent sont consignées également dans un document écrit.
+[7] Pour un exemple d'entente non-exécutoire, voir le récent arrêt de la Cour d'appel fédérale dans Hock v. The Queen, 2004 FCA 336, par. 5, en date du 6 octobre 2004.

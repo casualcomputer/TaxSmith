@@ -1,0 +1,165 @@
+---
+title: "Truong v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30467/index.do"
+last_modified: "2011-08-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 380"
+citation2: ""
+neutral_citation: "2011 TCC 380"
+decision_date: "2011-08-09"
+language: "en"
+item_id: "30467"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7264
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:24:01.454000+00:00"
+cases_cited_count: 5
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d702e816a31e9e4c5875a353894ee243b30f3a1fe4bbd19704306cc6e847875e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Truong v. The Queen
+
+- Citation: 2011 TCC 380
+- Decision date: 2011-08-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7264, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Truong v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-08-09
+Neutral citation
+2011 TCC 380
+File numbers
+2009-2577(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2577(IT)G
+BETWEEN:
+LIEU TRUONG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 9 and 10, 2011, at Vancouver, British Columbia
+Before: The Honourable Justice Diane Campbell
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Laura Zumpano
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act, notice of which is dated May 15, 2008 and bears number 677952, is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Fredericton, New Brunswick, this 9th day of August 2011.
+“Diane Campbell”
+Campbell J.
+Citation: 2011 TCC 380
+Date: August 9, 2011
+Docket: 2009-2577(IT)G
+BETWEEN:
+LIEU TRUONG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+Facts:
+[1] The Appellant was assessed on May 15, 2008 for $36,941.01 pursuant to section 160 of the Income Tax Act (the “Act”) in respect to a transfer of a condominium unit at 323-528 Rochester Avenue in Coquitlam, British Columbia (the “property”), from the Appellant’s spouse, Phat Le, to the Appellant.
+[2] The Appellant has a diploma in chemical technology and was working and living in Edmonton, Alberta when she met Mr. Le in late 1997. They were married in June of 2003 and the Appellant moved to Vancouver in October, 2004 where Mr. Le resided.
+[3] Beginning in early 1998, the Appellant testified that she began loaning money to Mr. Le. She knew that he had financial difficulties which she believed were the result of his divorce. She stated that she withdrew various amounts from her personal account over the years in order to make cash loans to assist Mr. Le. She testified that she kept personal records of these loans but that she left those records behind when she moved to Vancouver in 2004. She did submit bank records for the period 1998 to 2004. These records contained check marks beside those amounts that she believed she withdrew to loan to Mr. Le. These withdrawal amounts were chosen and check marked subsequent to the assessment.
+[4] Prior to her relocation to Vancouver, she resided with her brother and testified that she incurred minimal living expenses. Consequently, she was able to loan a significant portion of her income to Mr. Le during this period.
+[5] After the Appellant married and moved to Vancouver, she contributed toward the rent that Mr. Le was paying on a condominium unit. She stated that she did not request any repayment of the loans at this time as she did not need the money returned and her husband was still having financial difficulties.
+[6] In early 2005, the Appellant began looking for a property to purchase. Her husband arranged for a realtor, a mortgage broker and a notary to assist with a purchase. At this time, she also discovered that her husband had more debt than she originally believed.
+[7] According to the evidence of the realtor, Shaheen Sidi, the first offer was made in the Appellant’s name alone but was unsuccessful. Ms. Sidi recommended that the Appellant obtain pre-approved financing. It was not clear from the evidence whether the Appellant was ever pre-approved or rejected for financing on her own. However, following her first unsuccessful offer, she stated that she added her husband’s name to the offers in order to make it easier to get approval for financing.
+[8] The Appellant’s subsequent offers on two different properties contained Mr. Le’s name. However, these offers were also unsuccessful.
+[9] In April of 2005, the Appellant and her husband successfully made an offer on the subject property. According to the Appellant’s evidence, she viewed the property on several occasions by herself and made the decision to purchase it on her own. She then took her husband to look at the property and inspect it prior to executing the offer. The property was purchased for $210,477.80 and a mortgage for $197,600.00 was registered against the property.
+[10] The Appellant paid the down payment of $10,000.00 as well as the transaction costs. She testified that she wanted to purchase a property in order to ensure that her husband would repay the loans she had made to him by having him make the monthly mortgage payments. Because he was unable to repay the loans to the Appellant, he executed a letter dated June 9, 2005 (Exhibit A-4) in which he acknowledged that he owed her $60,000.00 and that he would repay that amount by making the mortgage payments. This letter was witnessed by Chinh Tran, a friend of Mr. Le, who testified that he knew that Mr. Le owed some money to the Appellant but he had no knowledge of the amount.
+[11] On June 22, 2005, the Appellant and her husband purchased the property and the title documents were registered in both of their names as joint tenants. According to the Appellant’s evidence, she did not understand the significance of registering the title to the property as a joint tenancy. Although she acknowledged that she received advice from the notary public when she executed the title documents, she suggested that she may not have “noticed” this term. She did not inform the notary public that her husband was only involved in the purchase in order to make it easier for her to obtain financing.
+[12] Mr. Le made the monthly mortgage payments to the total amount of $48,000.00. The Appellant paid all other costs of maintaining the property, including utilities, strata fees, painting and re-flooring.
+[13] In 2006, the Appellant considered selling the property and asked Ms. Sidi to show her other properties. After viewing several properties, the Appellant informed Ms. Sidi that her husband was ill and she would, therefore, not be continuing to look for another property at that time.
+[14] On December 22, 2006, Mr. Le signed a transfer agreement in which he transferred his interest in the property to the Appellant for a consideration of $1.00. The transfer documents were registered on January 15, 2007. Following this transfer, Mr. Le continued to reside with the Appellant in this property, remained on the mortgage documentation and continued to make the monthly mortgage payments.
+[15] The Appellant testified that her husband executed the transfer documents because he was ill and did not want to be involved in the possible sale process of the property.
+[16] At the time of the transfer of the property, Mr. Le owed income tax respecting his 2000 to 2005 taxation years. Mr. Le had claimed a Capital Cost Allowance deduction that was disallowed and resulted in approximately $800,000.00 being owed to the Canada Revenue Agency (the “CRA”). Mr. Le did not object to these reassessments and, in fact, in late 2006, he provided the CRA with a garnishee source, enabling recovery by the CRA of approximately $480,000.00. In May 2008, Mr. Le still owed $466,974.36.
+[17] At the time of the transfer of the property to the Appellant, it remained encumbered by a mortgage of $196,117.97. At assumption 18(m), contained in the Reply to the Amended Notice of Appeal, the Minister of National Revenue (the “Minister”) assumed that “as of December 22, 2006, the fair market value of the Property was $270,000.00”. Accordingly, the Minister assumed that the value of the transfer by Mr. Le to the Appellant was $36,941.01 (assumption 18(p)).
+[18] The Appellant stated that she did not know the extent of Mr. Le’s debt to the CRA until she received a copy of his Notice of Bankruptcy dated December 29, 2008.
+Issue:
+[19] The issue is whether the Appellant is liable, pursuant to section 160 of the Act, for the amount of $36,941.01 respecting the transfer of the husband’s interest in the property to the Appellant on January 15, 2007.
+The Appellant’s Position:
+[20] The Appellant’s position is that it is part of the Vietnamese culture to loan cash amounts without any supporting documentation. In addition, she had no knowledge of the amount of the debt to the CRA when she was loaning him large amounts of money. Mr. Le’s name was placed on offer documents and eventually on title and mortgage documents to assist her in obtaining financing and to force him to repay the money that he owed to her by making the mortgage payments. She claimed that it was always her intention to purchase a property on her own and that she eventually removed Mr. Le’s name from the title because he was ill and did not want to be involved in the eventual sale and purchase of a new property. She also pointed out that the funds used to purchase the property were primarily from her own savings.
+The Respondent’s Position:
+[21] The Respondent’s position is that all of the criteria set out in the decision in Livingston v The Queen, 2008 FCA 89, 2008 D.T.C. 6233, have been satisfied. In particular, the Respondent argued that, since a transfer of legal title is sufficient under the test set out in Livingston, the issue of whether the mortgage payments which Mr. Le made were repayments of the loans from the Appellant is irrelevant. Nevertheless, the Respondent submits that Mr. Le did have a beneficial interest in the property because he exercised continued use and possession of the property and bore the usual financial risks associated with ownership. The Respondent also submitted that there was no documentation to support the Appellant’s allegations of her loans to Mr. Le. The Appellant submitted no evidence that would dispute the Minister’s fair market valuation of the property in the amount of $270,000.00 and, in any event, she did not plead alternative grounds in the Amended Notice of Appeal respecting an argument that the assessment amount should be reduced by a reduction in the fair market value.
+Analysis:
+[22] Section 160 of the Act is a tax collection tool which prevents taxpayers who have incurred a tax liability from transferring property to certain non-arm’s length individuals in an attempt to shield the property from the collection of a tax debt. When section 160 is successfully applied, a transferee becomes liable for the transferor’s tax liability owed in the year of the transfer, or any preceding year, to the extent that the fair market value (“FMV”) of the property transferred exceeds the consideration paid and received.
+[23] The Federal Court of Appeal in Livingston set out four conditions that must be satisfied prior to section 160 being engaged:
+[17] In light of the clear meaning of the words of subsection 160(1), the criteria to apply when considering subsection 160(1) are self-evident:
+1) The transferor must be liable to pay tax under the Act at the time of transfer;
+2) There must be a transfer of property, either directly or indirectly, by means of a trust or by any other means whatever;
+3) The transferee must either be:
+i. The transferor's spouse or common-law partner at the time of transfer or a person who has since become the person's spouse or common-law partner;
+ii. A person who was under 18 years of age at the time of transfer; or
+iii. A person with whom the transferor was not dealing at arm's length.
+4) The fair market value of the property transferred must exceed the fair market value of the consideration given by the transferee.
+[18] The purpose of subsection 160(1) of the Act is especially crucial to inform the application of these criteria. In Medland v. Canada 98 DTC 6358 (F.C.A.) ("Medland") this Court concluded that "the object and spirit of subsection 160(1), is to prevent a taxpayer from transferring his property to his spouse [or to a minor or non-arm's length individual] in order to thwart the Minister's efforts to collect the money which is owned to him." See also Heavyside v. Canada [97 DTC 5026] [1996] F.C.J. No. 1608 (C.A.) (QL) ("Heavyside") at paragraph 10. More apposite to this case, the Tax Court of Canada has held that the purpose of subsection 160(1) would be defeated where a transferor allows a transferee to use the money to pay the debts of the transferor for the purpose of preferring certain creditors over the CRA (Raphael v. Canada 2000 DTC 2434 (T.C.C.) at paragraph 19).
+[19] As will be explained below, given the purpose of subsection 160(1), the intention of the parties to defraud the CRA as a creditor can be of relevance in gauging the adequacy of the consideration given. However, I do not wish to be taken as suggesting as there must be an intention to defraud the CRA in order for subsection 160(1) to apply. The provision can apply to a transferee of property who has no intention to assist the primary tax debtor to avoid the payment of tax: see Wannan v. Canada [2003 DTC 5715] 2003 FCA 423 at paragraph 3.
+[24] Paragraph 160(1)(a) is satisfied and is not in dispute. “Related persons” as defined in subsection 251(2) includes individuals connected by marriage or common-law partnership and are those deemed not to be dealing with each other at arm’s length. The Appellant and Mr. Le were married in 2003 and remain spouses. Consequently, during the relevant period, they were not dealing with each other at arm’s length.
+[25] In addition, the condition in subparagraph 160(1)(e)(ii) respecting the transferor’s tax liability is not in dispute. At assumption 18(t) of the Reply, the Minister assumed that, at the date of the assessment on May 15, 2008, Mr. Le’s tax debt was $466,974.36 in respect to his 2000 to 2005 taxation years. Although the Appellant stated that she had no knowledge of what her husband owed or that he owed a tax debt to CRA, she submitted no evidence that would challenge the Minister’s assumption respecting the underlying tax liability. The Federal Court of Appeal decision in Wannan v The Queen, 2003 FCA 423, 2003 D.T.C. 5715, at paragraph 3, is relevant:
+[3] … While not every use of section 160 is unwarranted or unfair, there is always some potential for an unjust result. There is no due diligence defence to the application of section 160. It may apply to a transferee of property who has no intention to assist the primary tax debtor to avoid the payment of tax. Indeed, it may apply to a transferee who has no knowledge of the tax affairs of the primary tax debtor. However, section 160 has been validly enacted as part of the law of Canada. If the Crown seeks to rely on section 160 in a particular case, it must be permitted to do so if the statutory conditions are met.
+[26] The bankruptcy documents (Exhibit A-12) confirmed that Mr. Le had an outstanding tax liability of approximately $500,000.00. He did not object to the assessments by CRA and, in fact, assisted in the collection of over $480,000.00 by providing banking information for the issuance of a requirement to pay. The Minister’s assumption that Mr. Le owed at least $36,941.01 to CRA at the time of the transfer of the property has not been demolished.
+[27] The next condition for the application of section 160, subparagraph 160(1)(e)(i), is that the FMV of the property which Mr. Le transferred to the Appellant in 2007 must exceed the FMV of the consideration given by the Appellant for the transfer. The title documents that transferred Mr. Le’s half interest to the Appellant stated that the consideration for the transfer was $1.00. The Appellant presented no evidence to suggest that the FMV of the property which the Minister assumed to be $270.000.00 was overstated except for her submission of the 2006 property tax assessment (Exhibit A-20) for the property. In addition to the fact that this tax assessment document provides a property value as of July 1, 2005 and is therefore not a contemporaneous document with the date of the transfer, such documents have not generally been accepted by courts as reliable indicators of FMV. While I might accept such a tax assessment document as one of a number of indicators of the FMV of a property, I am not prepared to accept such a document on its own to calculate a valuation different than the FMV assumed by the Minister, particularly where the Appellant has the burden of demolishing this assumption. In any event, the Appellant did not plead that the amount of the liability should be reduced by either a reduction of the FMV which the Minister applied or that the loans to Mr. Le amounted to consideration. Her argument was primarily that she should not be liable under section 160 because she was always the owner of all of the beneficial interest in the property and that Mr. Le’s payment of the monthly mortgage amounts was simply a repayment of the supposed loans she made to him. Therefore, it is necessary to examine whether Mr. Le’s interest in the property included both a legal and beneficial interest where the FMV of his interest would then be $36,941.01, as the Minister assumed.
+[28] The Respondent’s position is that, even if only the legal title in the property was transferred to the Appellant, it is sufficient to capture this transfer pursuant to section 160. The decision in Livingston established that the mere transfer of a legal title constitutes a transfer under section 160. At paragraph 22, the Court stated:
+[22] In addition, there is a transfer of property for the purposes of section 160 even when beneficial ownership has not been transferred. Subsection 160(1) applies to any transfer of property - "by means of a trust or by any other means whatever". Thus, subsection 160(1) categorizes a transfer to a trust as a transfer of property. Certainly, even where the transferor is the beneficiary under the trust, nevertheless, legal title has been transferred to the trustee. Obviously, this constitutes a transfer of property for the purposes of subsection 160(1) which, after all, is designed, inter alia, to prevent the transferor from hiding his or her assets, including behind the veil of a trust, in order to prevent the CRA from attaching the asset. Therefore it is unnecessary to consider the respondent's argument that beneficial title to the funds remained with Ms. Davies.
+[29] In light of this decision, my understanding of the Appellant’s argument is that she believes the value of the legal title to be nil. Prior to the transfer of Mr. Le’s interest in the property to the Appellant, they held the property as joint tenants and, after the transfer, the Appellant owned 100 per cent of the legal title. The Appellant contended that she was the beneficial owner at all times and that Mr. Le became a joint tenant only to facilitate in obtaining financing. Therefore, the 2007 transfer of Mr. Le’s legal title had a nil value.
+[30] Based on the evidence before me, I must conclude that the Appellant’s spouse held not only legal title as a joint tenant but also held a beneficial interest in the property. The facts in the present appeal are similar to those that were before me in Campbell v The Queen, 2009 TCC 431, 2009 D.T.C. 1290. Mr. Le paid the mortgage payments both before and after the 2007 transfer, he enjoyed continued use and possession of the property and, as a co-mortgagor, he bore the usual financial risks associated with this property. In fact, the Appellant testified that she removed her husband’s name from the title to the property because she was interested in selling it and did not want him involved because he was ill. This tends to establish that the Appellant’s spouse had a beneficial interest in the property. He also actively participated in the inspection and purchase of the property and he introduced the Appellant to the realtor, the notary and the mortgage broker, all of whom she eventually enlisted and relied upon in order to complete the purchase.
+[31] Other than the Appellant’s testimony, there were no banking documents produced to support the Appellant’s contention that Mr. Le was added as a co‑mortgagor to enable the Appellant to obtain financing. More importantly, the Appellant’s husband did not appear in court to testify as to his intention and understanding of the transactions in question. Neither was the mortgage broker called to confirm the Appellant’s position that the bank advised her that her husband’s name was necessary as a co-mortgagor because she did not qualify on her own for financing. The Appellant could also have called the notary public to corroborate her evidence concerning the intention behind and the execution of the transfer documents. I am left with many unanswered questions which could have potentially been resolved by having the testimony of all or some of these individuals. There was no explanation provided as to why these individuals were not called and, therefore, this failure results in an adverse inference that the evidence was not produced because it may have adversely affected the Appellant’s outcome in her appeal.
+[32] The Appellant’s contention that her spouse was added as a co-mortgagor to assist in financing is inconsistent with her evidence that she loaned him approximately $60,000.00 because he was in severe financial problems. If that is true, the addition of his name as co-mortgagor would not have assisted the Appellant. Again, Mr. Le’s testimony respecting his understanding of what type of interest he had in the property and eventually transferred in 2007 to his spouse, as well as his evidence of the particulars of the loans that the Appellant testified that she made to him, would have been invaluable. I have only the Appellant’s evidence respecting these loans to Mr. Le. She kept no contemporaneous summary to document the loans other than banking statements containing check marks beside cash withdrawals that she assumed went to Mr. Le. She stated that she made these loans to Mr. Le at a time when she would have little disposable income remaining for herself. Eventually, when she did get concerned about his repayment, she made him a joint tenant on the purchase of the property. There is no evidence that a declaration of trust was ever considered, which would have supported the Appellant’s position. None of the documents submitted into evidence contain any indication that Mr. Le was holding his interest in the property in trust for the Appellant.
+[33] In summary, all of the conditions or prerequisites to the application of section 160 to this transfer of property have been established in the present appeal. For these reasons, the appeal is dismissed, with costs.
+Signed at Fredericton, New Brunswick, this 9th day of August 2011.
+“Diane Campbell”
+Campbell J.
+CITATION: 2011 TCC 380
+COURT FILE NO.: 2009-2577(IT)G
+STYLE OF CAUSE: LIEU TRUONG AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: May 9 and 10, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Diane Campbell
+DATE OF JUDGMENT: August 9, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Laura Zumpano
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

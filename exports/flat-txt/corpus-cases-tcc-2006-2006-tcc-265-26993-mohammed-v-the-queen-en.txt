@@ -1,0 +1,137 @@
+Title: Mohammed v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26993/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-265-26993-mohammed-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-05-26
+
+# Mohammed v. The Queen
+
+- Citation: 2006 TCC 265
+- Decision date: 2006-05-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 538, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mohammed v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-05-26
+Neutral citation
+2006 TCC 265
+File numbers
+2005-2687(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC265
+Date: 20060526
+Docket: 2005-2687(IT)I
+BETWEEN:
+AKIM MOHAMMED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+For the Appellant: The Appellant himself Counsel for the Respondent: Kandia Aird
+____________________________________________________________________
+REASONS FOR ORDER
+(Delivered orally from the Bench at
+Toronto, Ontario, on April 25, 2006)
+BowieJ.
+[1] This is a preliminary motion brought by the Attorney General of Canada to quash Mr. Mohammed's appeals. The grounds of that motion are that the appeals are not properly constituted by reason of the Appellant's failure to deliver a valid notice of objection or notices of objection, within the time limited for doing so in the Income Tax Act.
+[2] Before dealing with the merits of the motion, I think it is appropriate to say that I thoroughly condemn the Respondent's quite unjustified delay in dealing with this matter. The Notice of Appeal in this case was filed with the Court on August 8, 2005. The Tax Court of Canada Act provides that on the filing of a Notice of Appeal, the Respondent has 60 days in which to deliver a Reply. We are now long past 60 days, and no Reply has been delivered, nor was a motion brought attacking the Appellant's right to file the appeal until April 13, 2006, some eight months after the Notice of Appeal was filed.
+[3] There is absolutely no explanation before me of why that amount of time was permitted to elapse. There is certainly no obvious explanation for it, and there is no explanation for the fact that no Reply has been filed. The Notice of Appeal is filed.
+I quite understand that the Minister of National Revenue, or the Attorney General, or those who act on behalf of them, may well take the view that the appeal is not properly constituted because there is no valid notice of objection, which of course under the Income Tax Act is a necessary prerequisite to a valid appeal in this Court.
+There is nothing, however, in the Income Tax Act, the Tax Court of Canada Act or in the Rules that justifies delaying filing a Reply on that account. There is no reason whatever why the Deputy Attorney General of Canada cannot file a Reply, and take the position in that Reply that the appeal is not properly constituted.
+[4] I was offered no explanation for this, and I want to make it quite clear that I thoroughly condemn the way in which the matter has been handled. I take the time to say all of this only because it is far from the first time that I have seen this kind of delay, where the Minister takes the view that the appeal is not properly constituted.
+[5] I recently gave reasons for judgment in another case in which I condemned the practice of bringing motions attempting to quash appeals on grounds that could as easily be raised in the Reply, and then argued at the time of hearing the appeal. I want to make it quite clear that I do not condone the way in which this matter has been brought before the Court. Having said all of that, I turn to the merits of the motion before me.
+[6] The Appellant, Mr. Mohammed, became bankrupt in September 2003 with the result that he has two 2003 taxation years, one ending in September 2003 and the other ending December 31, 2003. His trustee, it seems, filed returns for both of those taxation years, and in due course, assessments issued. For some reason which is not explained, but is not particularly important either, the assessment for the post-bankruptcy period was issued on May 13, 2004, and the assessment for the pre-bankruptcy period was issued more than a month later on June 25, 2004. On July 20, 2004, the trustee was discharged, and I presume the Appellant as well was discharged by that point.
+[7] There has been no reassessment in respect of the pre-bankruptcy period in 2003. There have been reassessments of the post-bankruptcy period. The first of those reassessments took place on May 12, 2005, and the second on March 2, 2006. The immediate question before me is whether, in respect of those two taxation years for 2003, there is a valid notice of objection underpinning the Notice of Appeal. The Notice of Appeal purports to appeal both the pre- and the post-bankruptcy periods.
+[8] The motion is supported by an affidavit made by Warren O'Dwyer on April 12, 2006. Mr. O'Dwyer also gave evidence orally before me. He describes himself as a litigation officer in the Torontolitigation office of Canada Revenue Agency, and says that that gives him personal knowledge of the matters as to which he has deposed, except what is stated to be on information and belief. I am reading the rest of the affidavit and I see nothing that is stated as being based on information and belief. In his affidavit he says that:
+The Appellant filed his 2003 T1 general tax return on April 7, 2004.
+The Minister of National Revenue assessed the Appellant for the 2003 taxation year by notice of assessment dated June 25, 2004.
+The Minister reassessed the Appellant for the 2003 taxation year by notice of reassessment dated May 12, 2005.
+He says that:
+The 90th day following the day of mailing of the notice of reassessment was August 10, 2005.
+He refers to the Notice of Appeal filed in the Court on August 8, and says that:
+After careful examination and search of the records of CRA, I have been unable to find a notice of objection to the Minister's notice of reassessment was received on or before August 10, 2005 being the last day for serving notices of objection following the mailing of the aforementioned notice of reassessment.
+His oral evidence was to much the same effect. He went on to state, in his oral evidence, that he had made a search of the electronic record-keeping system of CRA and found no notice of objection. He did not address at all in that oral evidence how that system works, or how documents filed are input to it. He did state that if a document was delivered to the Minister, that it would be input into that system, but he said nothing about how that would be done, or by whom it would be done, nor how the records are maintained or accessed.
+[9] The fact that his affidavit does not seem to recognize that the Appellant had two taxation years in 2003, and the fact that his affidavit makes no mention of the second reassessment for the post-bankruptcy period that took place in 2006, leaves me with little confidence in the thoroughness of his search, or his understanding of the records that he found in that search.
+[10] The Appellant responded to the motion with an affidavit having attached to it 15 exhibits, the most important of which is the one found at Tab 5 which is a letter with the Appellant's address at the top of it, which is attached to some other documents. It is addressed to, and I quote:
+Canada Customs and Revenue Agency,
+Tax Centre,
+Surrey Tax Centre,
+9755 King George Highway,
+Surrey B.C., V3T 5E1.
+Attached to that, again on Mr. Mohammed's letterhead and with the same address, is a document that says, "Re: Tax return for the year 2003- pre and post bankruptcy", with his name, date of birth and social insurance number. The document is headed "Notice of Objection and for review and reconsideration, or, in alternative, Notice of Appeal". That document is two pages in length and is dated November 18, 2004, which is the same date of the covering letter. The third and fourth pages are again on Mr. Mohammed's letterhead, and destined to the same address in Surrey, British Columbia, dated November 18, 2004 and headed "Re: Tax return for year 2003- post bankruptcy documents enclosed", bears the Appellant's name, date of birth and social insurance number, and below that "(1) Notice of change of address, and (2) Additional post bankruptcy documents enclosed". That document goes on to set out a number of documents from (a) to (j) said to be enclosed. It is signed by Mr. Mohammed and has the notation at the bottom of it, "By: Hand delivery to Kitchener, Ontario local office and by fax to Revenue Canada", with the telephone number (604) 585-5769, which I think it is not disputed is the fax number for the Surrey, British Columbia Taxation Centre.
+[11] Exhibit R-1, which Mr. O'Dwyer identified as having been found in the records of CRA, is what appears to be a photocopy of a fax consisting of the two pages that I have just described as being the third document at Tab 5 of the Appellant's affidavit, followed by a number of receipts and other documents which, if I understand correctly, are the documents described in paragraph 2(a) to 2(j) of the letter of November 18 headed "Tax return for year 2003- post bankruptcy documents enclosed".
+[12] What is absent from that fax is the covering letter and, most importantly, the two-page document that is entitled notice of objection and for review and reconsideration, and so on. Mr. O'Dwyer's evidence was to the effect that Exhibit R-1 was received by fax in the Surrey Tax Centre, but without the all important two pages headed "Notice of Objection". He of course has no personal knowledge of that. He could only say that what he found in the records of CRA was Exhibit R-1, as it appears without those pages.
+[13] The Appellant gave evidence to the effect that he faxed the entire document, including the two pages headed "Notice of Objection", to the Surrey Tax Centre, and also that he hand delivered those documents to the taxation office in Kitchener, Ontario, the fax having been sent on November 18, 2004 and the hand delivery taking place at Kitchener on November 19, 2004.
+[14] I have already observed that Mr. O'Dwyer's evidence is not without its difficulties, and the same can be said of Mr. Mohammed's evidence. It seems quite clear looking at Exhibit R-1, which like most faxes, and as faxes are required to do, has each page numbered at the top of it by the outgoing fax machine, which incidentally bears the date November 18, 2004, and all the pages appear to have been transmitted at 9:53 p.m., but significantly those pages are numbered from 1 to 33 and page 1 is the third of the documents. That is to say the one headed "tax return for the year 2003 post-bankruptcy documents", the third document appearing at Tab 5 of Mr. Mohammed's affidavit, leading to an almost irresistible inference that the two pages that describe themselves as a notice of objection did not form part of the fax sent to the Surrey Tax Centre.
+[15] Mr. Mohammed, of course, was asked about this in cross-examination, and he suggested that he might have sent two faxes that day, and he went on to say that he didn't have a transmittal confirmation sheet for a second fax, or at least not with him. The last page of Tab 5 of Mr. Mohammed's affidavit appears to be the fax transmittal sheet in respect of 33 pages which, of course, is consistent with that fax having not contained the two pages headed notice of objection, and on that transmission verification report it is written in hand, and I take it by Mr. Mohammed, two things. One is, "All documents faxed above", and the second is "November 19, 2004, all documents dropped off at Revenue Canada office at Kitchener".
+[16] Insofar as the fax is concerned, given Mr. Mohammed's care to include the verification report as the last page of Tab 5 in his affidavit, given that there is no other verification report, a matter that Mr. Mohammed attempted to explain by saying that his fax machine was a very old one bought at a garage sale, which did not work terribly well and frequently did not deliver up a verification record in the way that it should, I am not inclined to accept the suggestion that perhaps there was a second fax containing the two pages with the all-important words "notice of objection" on them.
+[17] First of all, if a fax had been sent in two instalments, I should have thought that would be something that Mr. Mohammed would remember with some certainty. Given his care to note the delivery by hand on the verification report that we do have, I would expect that if there had been a second fax, he would have made a note of that on the verification report and perhaps a note explaining why there was no second verification report if, in fact, it had been eaten by the fax machine, as he suggested.
+[18] To the extent that Mr. Mohammed's case for the existence of a notice of objection sent by fax to the Surrey Tax Centre is concerned, my finding of fact is that it did not take place. The document that is Exhibit R-1, or the original of it, I find was faxed, but in exactly the form that it appears in Exhibit R-1. That leaves the question whether there was a delivery of a notice of objection by hand to the Kitchener Taxation Office on November 19. If I did not make this clear before, I should make it clear now that the significance of delivery of a notice of objection on November 19 or 18, as the case might be, is that from the evidence before me, it appears that any such notice of objection would be in time to constitute a valid notice of objection with respect to the pre-bankruptcy 2003 period, because although that notice of assessment is date June 25, I would be inclined to draw the inference that it did not find its way to Mr. Mohammed or even into the mail prior to October 2004.
+[19] The mailing of that notice of assessment is specifically not addressed by Mr. O'Dwyer's affidavit, nor by his oral evidence. Mr. Mohammed says in his affidavit that not having received notices of assessment, he went to look for them on the CRA website. It seems that he found a summary of an assessment, but the first evidence that I have of it coming into his possession would seem to be a letter sent to him on October 8, 2004 from CRA which simply says "You will find attached the information requested. If you have any questions, please call client services ...". And a phone number is attached to that. The attachments to that letter are the two notices of assessment dated May 13, 2004 for the post-bankruptcy period, and June 25, 2004 for the pre-bankruptcy period.
+[20] Absent some evidence of mailing of those documents, and given Mr. Mohammed's evidence in his affidavit, I would conclude that those documents were not mailed on the dates that they bear and, in fact, were not mailed at all until October 8, 2004.
+[21] I return to the matter of Mr. Mohammed's evidence of delivery to the Kitchener Taxation Office, which was simply that he went there on November 19, that he had the document, and by the document he meant a document that would be comprised of the first two documents at Tab 5 of his affidavit and the additional material by way of receipts I have found as pages 3 to 33 of Exhibit R-1. He said he put that document in an envelope provided to him by CRA, and that he took it and left it with the receptionist at the CRA office in Kitchener on November 19. He was cross-examined thoroughly on this point and his evidence was not shaken.
+[22] Given my conclusion that the two pages titled "notice of objection" or I should say three pages titled "notice of objection", because the first page at Tab 5 of Mr. Mohammed's affidavit, as well as the second page, bear the words "Notice of Objection", there is no logical explanation of how they came to be absent from the fax, but would be part of the package delivered by Mr. Mohammed on November 19.
+[23] However, given his sworn testimony to that effect, unshaken as I say on cross-examination, I am inclined to conclude on balance that he did in fact make that delivery on November 19, and that it included the first three pages of Tab 5, as well as all the material making up Exhibit R-1.
+[24] The Respondent's position, of course, is that had the Appellant made such a delivery, Mr. O'Dwyer's search would have turned up that document from the Kitchener Taxation Office. However, it is clear from Mr. O'Dwyer's evidence that he made no inquiries of the Kitchener Taxation Office. He had no specific knowledge of anything that happened or did not happen at the Kitchener Taxation Office. His evidence, in short, amounts to no more than this. If they had got that document in Kitchener, it would have been entered into the electronic system and a search of the electronic system would have turned it up. I do not consider that to be very satisfactory evidence, particularly given that Mr. O'Dwyer's affidavit is said to be based on personal knowledge, and given that his oral evidence was not even scant with respect to how the electronic system works and who would have done the inputting, and so on, as I have alluded to already.
+[25] That however does not end the matter. Ms. Aird referred me in argument to three decisions. Two decisions are of this Court, which in my view are really of no assistance, as they simply turn on specific facts found on specific evidence that was before the two judges in question in those cases. The third case is a decision of the Federal Court of Appeal in McClelland vs. The Queen[1] and that was an appeal from a decision of this Court quashing the Notice of Appeal on the basis that the Appellant had failed to serve a notice of objection on the Minister within the time limits prescribed by subsection 165(1) of the Income Tax Act. That appeal was dismissed, but in the course of giving the reasons for the Court of Appeal for dismissing that appeal, Justice Sexton said this at paragraph 5:
+The Tax Court Judge further found that no valid Notice of Objection had been filed by the Appellant. It had been the Appellant's position that a letter sent by him to a Collection Enforcement Officer relating to his tax arrears for 1998 and subsequent years constituted a valid Notice of Objection for different tax years, namely, 1998, 1999, 2000. The Income Tax Act required that a Notice of Objection must be sent to the Chief of Appeals. Therefore a letter sent to the Collection Enforcement Officer would not suffice.
+[26] I note that Justice Sexton refers specifically to the manner of addressing a notice of objection and that, if I read paragraph 5 correctly, suggests that that was at least as important as, if not more important than, the fact that the letter that the Appellant relied upon related to a different taxation year. I turn to subsection 165(1) of the Act which says that:
+A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection in writing setting out the reasons for the objection and all the relevant facts.
+It goes on to prescribe the time within which that must be done, and for the purposes of the present case, it would be 90 days following the mailing of the notice of assessment. Then it goes to on to provide in subsection (2):
+A notice of objection under this section shall be served by being addressed to the chief of appeals in a district office or a taxation centre of the Canada Customs and Revenue Agency and delivered or mailed to that office or centre.
+One notices at once that the language of subsection (2) is mandatory, and that of course, is reinforced by Justice Sexton's reasons in McClelland. Presumably, the reason that the language is mandatory is because a lot of documents are mailed or delivered to CRA at many offices throughout Canada. A notice of objection is a document of great significance because -- and this isn't in dispute before me -- a valid notice of objection validly served is a necessary prerequisite to an appeal to this Court.
+[27] The importance of the document is obvious, and the importance of the document is the reason for the mandatory language, and that the language is indeed mandatory is affirmed both by the Interpretation Act and by the judgment in McClelland. Subsection 165(6) provides that:
+The Minister may accept the notice of objection served under this section that was not served in the manner required by subsection (2).
+It is inescapable, I think, that that is a discretionary matter with the Minister. The contrast between the mandatory language of subsections (1) and (2) and the permissive language of subsection (6) is no accident of drafting, and if the Minister does not choose in any particular case to accept an irregularly served notice of objection as a valid one, in my view this Court has no power to either overrule his declining to do so, or in any other way to validate an irregularly served notice of objection.
+[28] Returning to Tab 5 of the Appellant's affidavit, I repeat that it is addressed to CRA, Tax Centre, Surrey Tax Centre, at the municipal address of that office. It simply is not addressed to the Chief of Appeals. The result is that there is not in this case a notice of objection that has been validly served, as is required by subsection 165(2), or that has been accepted by the Minister pursuant to subsection 165(6). If I understand correctly, the result of that is that the Appellant is without a notice of objection and is also without the opportunity to remedy that in respect of the pre-bankruptcy period of 2003, and he is without a notice of objection validly served in respect of the post-bankruptcy period.
+[29] The Respondent has said in paragraph 7 of the written representations filed with the motion, and I quote:
+The Appellant filed his notice of appeal within the time limit prescribed by subsection 165(1) of the Income Tax Act for serving a notice of objection and the Respondent will accept the notice of appeal filed on August 8, 2005 as a notice of objection.
+That paragraph does not address the pre-bankruptcy period. Insofar as the post-bankruptcy period is concerned, it is not specifically addressed either in paragraph 7. Indeed whether paragraph 7 is intended to cover both taxation years within 2003, it is hard to say. However, the last reassessment of the post-bankruptcy period took place on March 2, 2006 with the result that the Appellant is still within the 90-day limit to deliver a notice of objection from that notice of assessment. That, however, would require that he deliver a new notice of objection.
+[30] The present appeal is simply not properly constituted and it will be quashed. I am going to make a direction that the filing fee be returned to the Appellant, because it seems that much of his present difficulty can be attributed to the way in which this whole matter has been handled by CRA and by the Deputy Attorney General. The Appellant finds himself in the position of having to file a new appeal, and there is no reason why he should have to pay two filing fees, unless of course when he files a new notice of objection he manages to resolve the matter without having to appeal further. That is not something that I can comment on within the motion that is presently before me.
+[31] Anorder will issue quashing the appeals for both periods of 2003, post- and pre-bankruptcy, and that the Appellant's filing fee be refunded.
+Signed at Ottawa, Canada, this 26th day of May, 2006.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2006TCC265
+COURT FILE NO.:
+2005-2687(IT)I
+STYLE OF CAUSE:
+Akim Mohammed and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 25, 2006
+REASONS FOR ORDER BY:
+The Honourable Justice E.A. Bowie
+DATE OF ORDER:
+May 1, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kandia Aird
+COUNSEL OF RECORD:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2004] 1 C.T.C. 2736.

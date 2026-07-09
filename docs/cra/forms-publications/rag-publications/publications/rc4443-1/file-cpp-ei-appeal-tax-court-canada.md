@@ -1,0 +1,140 @@
+---
+title: "How to file a CPP/EI appeal to the Tax Court of Canada"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4443-1/file-cpp-ei-appeal-tax-court-canada.html
+last_modified: 2022-01-31
+---
+# How to file a CPP/EI appeal to the Tax Court of Canada
+
+RC4443-1(E)
+
+You are entitled to fair treatment in all your dealings with the Canada Revenue Agency (CRA). For further information, visit **canada.ca/taxpayer-rights**.
+
+For complete information on Tax Court of Canada appeals process, please visit the [Tax Court of Canada website](https://www.tcc-cci.ca/) or call **1-800-927-5499**.
+
+If you do not agree with a Canada Pension Plan (CPP) or an employment insurance (EI) decision, you can file an appeal to the Tax Court of Canada (TCC). The Court must receive your appeal no later than 90 days after the mailing date of the Minister of National Revenue's (Minister) decision.
+
+The following information will help you file your appeal to the TCC:
+
+**Who can appeal?**
+
+- The person who filed the appeal to the Minister and anyone notified of the Minister's decision can appeal.
+
+**Representation**
+
+- You can either represent yourself or be represented by a lawyer or by an agent, such as, an accountant.
+
+**Process**
+
+- You do not need to complete a special form. However, your appeals must be in writing.
+
+- You are encouraged to use the Tax Court of Canada's online document-filing facility accessible through their Web site's "Electronic Filing".
+
+- You can send your appeal by fax or by using the TCC online facility as indicated above.
+
+- You can also mail or deliver by hand, the original notice of appeal and two (2) copies to the Registry of the TCC at one of the addresses listed below.
+
+- You should include the following:
+
+    - your full name and your or your company's mailing address, telephone number and fax number (if applicable);
+
+    - if you have a lawyer or an agent, his or her full name, mailing address, telephone number and fax number (if applicable);
+
+    - the date of the Minister's decision issued by the Canada Revenue Agency (CRA);
+
+    - the reasons for your appeal and the relevant facts; and
+
+    - the date of your appeal to the TCC.
+
+- Keep a copy of the Notice of appeal for your records.
+
+**Additional time to file an appeal**
+
+- In certain situations, the TCC may allow you to file an appeal if you cannot do so within 90 days of the mailing date of the Minister's decision. An application for extension of time is to be made to the TCC within 90 days after the initial 90-day period expires.
+
+- The application to extend the time to appeal may be in the form of a letter. The application must include a statement that you are applying to extend the time and you must give the reasons why it was not possible to appeal within the deadline. The original application and two (2) copies, together with the original notice of appeal and two (2) copies, must be sent to the Registry of the TCC.
+
+**The hearing**
+
+- The Registrar of the TCC will inform you at least 30 days before the date you are scheduled to appear in court. Hearings are usually held as close as possible to where you live.
+
+**Change of address**
+
+- If you move at any time, you have to advise the Registrar of the TCC and the CRA of your new address and the telephone number (including the area code) where you can be reached during the day.
+
+**More information**
+
+- You can get details on how to prepare your appeal or get copies of the Tax Court of Canada Rules of Procedure by contact the Registry of the TCC at one of the addresses listed below or by visiting the TCC's "Court Process and Procedures" Web page. You can also get information or view a video on how to prepare for "Your Day in Court" by visiting the TCC's "Court Process and Procedures" Web page.
+
+**Tax Court of Canada**
+
+**Principal Office - Ottawa**200 Kent Street Ottawa ON K1A 0M1
+
+Telephone: 613-992-0901 TDD: 613-943-0946 Fax: 613-957-9034
+
+**Calgary** Canadian Occidental Tower635 Eighth Avenue S.W. 3rd Floor PO Box 14 Calgary AB T2P 3M3
+
+Telephone: 403-292-5556 TDD: 403-292-5879 Fax: 403-292-5329
+
+**Charlottetown**Sir Louis Henry Davies Law Courts42 Water Street PO Box 2000 Charlottetown PEI C1A 8B9
+
+Telephone: 1-800-927-5499 TDD: 902-426-9776 Fax: 902-426-5514
+
+**Edmonton** Scotia Place10060 Jasper AvenueTower 1, Suite 530 PO Box 51 Edmonton AB T5J 3R8
+
+Telephone: 780-495-2513 TDD: 780-495-2428 Fax: 780-495-4681
+
+**Frederiction**82 Westmorland Street Suite 100 Fredericton NB E3B 3L3
+
+Telephone: 506-452-2424 TDD: 506-452-3036 Fax: 506-452-3584
+
+**Halifax**1801 Hollis Street17th Floor, Suite 1720 Halifax NS B3J 3N4
+
+Telephone: 902-426-5372 TDD: 902-426-9776 Fax: 902-426-5514
+
+**Hamilton**50A Jackson Street West Hamilton Hamilton ON L8P 1L4
+
+Telephone: 1-800-927-5499
+
+**Iqaluit**Nunavut Court of JusticeJustice Centre (Building #510) PO Box 297 Iqaluit NU X0A 0H0
+
+Telephone: 1-800-927-5499 TDD: 902-426-9776 Fax: 902-426-5514
+
+**Montréal**30 McGill Street Montréal QC H2Y 3Z7
+
+Telephone: 514-283-9912 Fax: 514-496-1996
+
+**Québec**150 René-Lévesque Boulevard East Suite 150 Québec QC G1R 2B2
+
+Telephone: 418-648-7324 TDD: 418-648-4644 Fax: 418-648-4051
+
+**Regina** The Court House2425 Victoria Avenue Regina SK S4P 3V7
+
+Telephone: 1-800-927-5499
+
+**Saskatoon** The Court House520 Spadina Crescent East Saskatoon SK S7K 3G7
+
+Telephone: 1-800-927-5499
+
+**St. John's**354 Water Street Suite 209 St. John’s NL A1C 1C4
+
+Telephone: 1-800-927-5499
+
+**Toronto**180 Queen Street West Suite 200 Toronto ON M5V 3L6
+
+Telephone: 416-973-9181 Fax: 416-973-5944
+
+**Vancouver** Pacific Centre701 West Georgia Street PO Box 10065 Vancouver BC V7Y 1B6
+
+Telephone: 604-666-7987 Fax: 604-666-7967
+
+**Whitehorse**Andrew A. Phillipsen Law Center2134 Second Avenue PO Box 2703 Whitehorse YT Y1A 2C6
+
+Telephone: 1-800-927-5499
+
+**Winnipeg**363 Broadway Street 4th Floor Winnipeg MB R3C 3N9
+
+Telephone: 204-983-1785 TDD: 204-984-4440 Fax: 204-983-7636
+
+**Yellowknife** The Court House4905 49th Street PO Box 1320 Yellowknife NT Z1A 2L9
+
+Telephone: 1-800-927-5499

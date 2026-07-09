@@ -1,0 +1,162 @@
+Title: Chavez v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29709/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-23-29709-chavez-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2007-02-15
+
+# Chavez v. M.N.R.
+
+- Citation: 2007 TCC 23
+- Decision date: 2007-02-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6214, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chavez v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-02-15
+Neutral citation
+2007 TCC 23
+File numbers
+2006-895(EI)
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-895(EI)
+BETWEEN:
+SERGIO CHAVEZ, ROBIN WENTZEL
+o/a HABITAT ENVIROSCAPING & PROPERTY MAINTENANCE,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 9, 2007, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellants:
+Robert McMechan
+Counsel for the Respondent:
+Andrew Miller
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act ("Act") is allowed, without costs, and the December 12, 2005, determination by the Minister of National Revenue is varied with respect to the 12 workers  Steve Boushey, Remy Clouthier, Clouthier, Gaston Leal, Ramsay Nasrallah, Marc Parenteau, Mario Rivera, Raphael Chavez, Martin Fortier, Tyson Gore, Christopher Levere and Juan Ponce  on the basis that, for the period from January 1, 2002, to June 30, 2004, they were not employed with the appellants under a contract of service within the meaning of paragraph 5(1)(a) of the Act.
+Signed at Ottawa, Canada, this 15th day of February 2007.
+"Lucie Lamarre"
+Lamarre J.
+Docket: 2006-896(CPP)
+BETWEEN:
+SERGIO CHAVEZ, ROBIN WENTZEL
+o/a HABITAT ENVIROSCAPING & PROPERTY MAINTENANCE,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 9, 2007, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellants:
+Robert McMechan
+Counsel for the Respondent:
+Andrew Miller
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 28(1) of the Canada Pension Plan ("Plan") is allowed and the December 12, 2005, determination by the Minister of National Revenue is varied with respect to the 12 workers  Steve Boushey, Remy Clouthier, Carol Cloutier, Gaston Leal, Ramsay Nasrallah, Marc Parenteau, Mario Rivera, Raphael Chavez, Martin Fortier, Tyson Gore, Christopher Levere and Juan Ponce  on the basis that, for the period from January 1, 2002, to June 30, 2004, they were not employed with the appellants in pensionable employment within the meaning of paragraph 6(1)(a) of the Plan.
+Signed at Ottawa, Canada, this 15th day of February 2007.
+"Lucie Lamarre"
+Lamarre J.
+Citation: 2007TCC23
+Date: 20070215
+Dockets: 2006-895(EI)
+2006-896(CPP)
+BETWEEN:
+SERGIO CHAVEZ, ROBIN WENTZEL
+o/a HABITAT ENVIROSCAPING & PROPERTY MAINTENANCE,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] This is an appeal from a December 12, 2005, decision by the Minister of National Revenue ("Minister") that the 12 workers listed below were in insurable and pensionable employment with the appellants for the period from January 1, 2002, to June 30, 2004. These 12 workers are:
+1. Steve Boushey
+2. Remy Clouthier
+3. Carol Cloutier
+4. Gaston Leal
+5. Ramsay Nasrallah
+6. Marc Parenteau
+7. Mario Rivera
+8. Raphael Chavez
+9. Martin Fortier
+10. Tyson Gore
+11. Christopher Levere
+12. Juan Ponce
+[2] Robin Wentzel and Sergio Chavez are equal partners in a landscaping and property maintenance business known as Habitat Enviroscaping & Property Maintenance ("Habitat"). They both testified at the hearing. Mr. Wentzel has a master's degree in environment management and specializes in environmental landscaping and organic lawn care. The business also offers property maintenance services (lawn cutting and trimming, planting, pruning, spring and fall clean‑up, and sodding) and residential and commercial snowblowing services (Exhibit A‑1, Tab A). Mr. Wentzel explained that he and his partner subcontracted any work that they did not have the time or the expertise to perform. They placed newspaper ads for subcontractors or sometimes would simply receive phone calls from people interested in providing their services. During the wintertime, they keep a list of people interested in providing their services and call them when there is a snowfall.
+[3] Habitat signed independent subcontractor agreements with some of the workers herein (several of these agreements were filed as Exhibits A‑2 through A‑6). Mr. Wentzel explained that they used as a model a contract that he had signed when he was previously working for another organic lawn care company. The subcontractor agreements were yearly agreements.
+[4] Mr. Wentzel said that the extra work to be given to the workers was usually written down on work orders that were pinned on the wall at the business's office. Workers that were interested would pick up any work order and perform the work indicated thereon. Usually the workers provided their own tools. They could also rent equipment from Habitat, or simply borrow it if it consisted of small tools. If a worker broke equipment belonging to Habitat, it was his responsibility to repair it at his own expense. Each worker provided his own transportation.
+[5] Habitat signed contracts with clients and the price charged the client was fixed by Habitat (examples of such contracts were filed as Exhibit A‑1, Tab Q). When hiring workers, Habitat negotiated the worker's rate of remuneration according to the price charged the client and the worker's experience. Each worker was paid by cheque upon invoicing Habitat (examples of invoices were filed as Exhibit A‑1, Tab P). Habitat paid the workers every two weeks, provided they had sent in their invoices. Clients would normally complain to Habitat if not satisfied with the work done. Habitat would then ask the worker to go back and redo the work at his own expense. However, if the worker did not comply, Habitat had to bear the cost of redoing the work. In such a case, as I understand it, that worker's services were no longer used. The worker had complete freedom to run his business and work for other clients as long as such activities did not interfere with fulfilling his obligations to Habitat. He could also do extra work for Habitat's clients for his own profit as long as the amount of such work was not too great, since the worker was bound by a non‑competition clause (see, for example, section 7 in the independent subcontractor agreement in Exhibit A‑2).
+[6] Even where the worker had signed a subcontractor agreement, he was not obliged to work for Habitat. It was the worker who decided whether to take work or not, and when he did, he was not supervised in the performance of the work. He did it according to the work order prepared by Mr. Wentzel or Mr. Chavez. Each worker operated according to his own schedule. The worker controlled the amount of his remuneration, as it was he who determined how much work he would do. He was entirely free to accept a work order or not.
+[7] No worker was present in Court to testify. Counsel for the appellants explained that they did not have the workers' addresses anymore. However, from the notice of appeal filed with the Canada Customs and Revenue Agency ("CCRA") on November 25, 2004 (Exhibit A‑1, Tab G), from the questionnaire filled in by the payor for each of the workers on October 1, 2005, at the request of the CCRA (Exhibit A‑1, Tab N), and from Mr. Wentzel's and Mr. Chavez's testimony, the following information emerges for each worker.
+[8] Steve Boushey was hired to do property maintenance and snow removal. He signed a subcontractor agreement (Exhibit A-2). According to Mr. Wentzel, Mr. Boushey had his own business until 2005, at which time Habitat purchased his equipment. Mr. Boushey occasionally rented equipment from Habitat. The rental cost was deducted from the amount Habitat was invoiced for the work done (see as an example the invoice filed as Exhibit A‑1, Tab P, p. 48). Mr. Boushey, at his request, was paid in his own name. It would appear, according to Ms. Stephanie Fong, a litigation officer with the CCRA, that Mr. Boushey declared himself as self‑employed in his 2004 tax return, but declared his income as "other income" in 2002 and 2003. Ms. Fong did not know whether the "other income" was gross or net income. She testified, however, that in 2004 he claimed business expenses.
+[9] Mr. Remy Clouthier, who was working for Home Depot, was offered paving and stonework contracts with Habitat. These contracts were negotiated for a fixed term or, occasionally, his remuneration was based on time worked. He performed the job on his own using a work plan provided by Mr. Wentzel. He also did some snow shovelling during the wintertime. According to Mr. Wentzel, he negotiated a much better rate then Mr. Boushey because he did very good and efficient work. Mr. Clouthier provided his own tools and occasionally rented or borrowed equipment from Habitat. He also signed a subcontractor agreement (Exhibit A‑3).
+[10] Carol Cloutier never worked for Habitat. She simply sold plants to Habitat once, in June 2002, for an amount of $880 (Exhibit A‑1, Tab P, p. 61, Tab N, pp. 74‑76, and Tab G, p. 6).
+[11] Gaston Leal was hired at the request of his father, who was Sergio Chavez's neighbour. He was a technical contractor, providing additional services not usually provided by Habitat (Exhibit A‑1, Tab G, p. 7). According to Mr. Wentzel, Mr. Leal was irregular and called for work at his own convenience. He did not need much equipment and provided his own transportation. He worked for Habitat for a very short period of time. The one invoice filed for him showed that he charged $910 for stonework to repair a patio (Exhibit A‑1, Tab P, p. 42).
+[12] Ramsay Nasrallah worked for a fire protection company. He provided snow-clearing services to Habitat and also contracted with other parties. He was offered a negotiated contract with Habitat and was to be paid at the end of snow storms over the winter period (see Exhibit A‑1, Tab G, p. 7). He provided his own equipment. He had a subcontractor agreement with Habitat (Exhibit A‑4).
+[13] Marc Parenteau worked for Home Depot and for a roofing company. When not busy, he did some property maintenance work for Habitat, which consisted in cutting lawns (Exhibit A‑1, Tab N, p. 258). He too had a subcontractor agreement (Exhibit A‑5).
+[14] Mario Rivera was a mechanic who was hired for the maintenance of small equipment engines as well as heavy equipment and vehicles (Exhibit A‑1, Tab G, p. 8). He had his own business and owned his tools. He also did some gardening for Habitat. He had his own workshop where he stored his maintenance tools. He invoiced either by the job or on a per-hour basis (Exhibit A‑1, Tab N, p. 91). He likewise had a subcontractor agreement (Exhibit A‑6).
+[15] Raphael Chavez is the brother of Sergio Chavez. He lived in Montreal and called his brother Sergio for work. However, he did not do much work for Habitat, just some hedge trimming and gardening. He worked at his own convenience. (See Exhibit A‑1, Tab G, p. 9, and Tab N, pp. 113-121.)
+[16] Martin Fortier had his own business that he wanted to promote. He performed lawn-cutting contracts for Habitat at his own pace and with his own equipment. He only wanted to do a specific number of lawns and he invoiced Habitat every two weeks. He never accepted any other work for Habitat. (See Exhibit A‑1, Tab G, p. 10, and Tab N, pp. 241‑250.)
+[17] Tyson Gore was a teenager who delivered brochures and flyers for Habitat on an occasional basis. He was told in which neighbourhood to deliver but did the work according to his own schedule. He did not submit invoices but was paid according to the number of flyers distributed, as agreed between him and Mr. Chavez. (See Exhibit A‑1, Tab G, p. 10, and Tab N, pp. 202 et seq.)
+[18] Christopher Levere approached Habitat to do some property maintenance work. He worked only for a very short period of three or four weeks doing grass cutting. Mr. Wentzel testified that they received complaints from clients regarding his work and they had to go out to inspect it. Mr. Levere was not offered anymore work thereafter. (See Exhibit A‑1, Tab N, pp. 215 et seq.)
+[19] Juan Ponce worked for a construction company. He was a good stone mason and performed some stonework contracts for Habitat. He would do the work by himself using the layout given to him by Mr. Wentzel. He worked on three job sites. Habitat offered him more work but he declined as he was better paid with the construction company. (See Exhibit A‑1, Tab G, p. 11, and Tab N, pp. 102 et seq.)
+Issue
+[20] The respondent questions the intention of the parties involved (to hire or be hired under subcontractor agreements) on the basis that the workers were not present in Court to testify and that Mr. Chavez only provided the subcontractor agreements the day before the trial. No questionnaires were filed by the workers in question as the CCRA could not locate those workers. Counsel for the respondent submits that the testimony of the appellants is not by itself sufficient for determining the work status of the workers.
+[21] Having so stated, counsel for the respondent analysed the different criteria developed in the case law and concluded, on the basis of his own interpretation of the evidence given by the appellants, that the workers were employees.
+Analysis
+[22] With respect, I do not agree with counsel for the respondent. It is true that the workers were not present to testify, but, as pointed out by counsel for the appellants, it was no easier for the appellants to find the workers than it was for the CCRA, which was unable to locate them. It is also true that the subcontractor agreements were not provided to the CCRA until the day before the trial. Mr. Chavez testified that it was only then that he found them. However, I do not intend to rely heavily on these agreements, as the stated intention therein, considered in the appropriate factual context, must in any event be taken, absent evidence to the contrary, to reflect the legal relationship between the parties. (See Royal Winnipeg Ballet v. MNR, 2006 FCA 87, at paragraph 61, and City Water International Inc. v. MNR, 2006 FCA 350, at paragraph 28.)
+[23] That being so, I will have to rely on the evidence presented before me, keeping in mind that I only have the appellants' version and not the workers'.
+[24] I must say at the outset that I found the testimony of Mr. Wentzel, the principal witness, very credible. He testified to the best of his knowledge and in a very candid way, explaining how the business worked and how they dealt with the workers.
+[25] It is true that we do not know what the workers' intention was when they contracted with Habitat. However, I find that the explanations given by Mr. Wentzel combined with the documentary evidence produced tend to prove on a balance of probabilities that the workers did not consider themselves and were not treated as employees of Habitat.
+[26] In determining whether workers are employed under a contract of employment or as independent contractors, reference must be made to 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983 at paragraph 47, where the Supreme Court of Canada said:
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+[27] Here, it is my understanding that the workers called for work and decided whether or not they would accept a job shown on a work order. Most of them had other jobs elsewhere but agreed to do some work for Habitat as well. They were not controlled as to the manner in which they did their work for Habitat. They had a job to do and Habitat only required that the desired result be achieved. There was no supervision of the work done and, if it was not done properly, the worker had to redo it at his own expense. It is true that in one case Habitat found itself responsible for a redo, but the worker in question was not offered any other work thereafter.
+[28] As the Federal Court of Appeal said in Livreur Plus Inc. v. Canada (MNR), 2004 FCA 68 at paragraph 19:
+. . . the Court should not confuse control over the result or quality of the work with control over its performance by the worker responsible for doing it . . . . As our colleague Décary J.A. said in Charbonneau v. Canada (Minister of National Revenue - M.N.R.) . . . "It is indeed rare for a person to give out work and not to ensure that the work is performed in accordance with his or her requirements and at the locations agreed upon. Monitoring the result must not be confused with controlling the worker".
+[29] Most of the equipment in the present case was provided by the workers. They provided their own transportation. The fact that the appellant provided some tools does not undermine the conclusion that under the above-stated test the workers were independent contractors. In Precision Gutters Ltd v. Canada (MNR), 2002 FCA 207, it was said at paragraph 25:
+It has been held that if the worker owns the tools of the trade which it is reasonable for him to own, this test will point to the conclusion that the individual is an independent contractor even though the alleged employer provides special tools for the particular business
+[30] Each worker's rate of remuneration was negotiated. Habitat fixed a price to be charged the client and the worker asked to be paid at a certain rate; the worker's remuneration was ultimately based on both of these factors. They accepted the work according to their own desire and they worked according to their own schedule, at their own pace.
+[31] Considering all the above elements and answering the central question, as determined in Sagaz, supra, of whether the person was performing the services as a person in business on his own account, I am inclined to say yes. This is a situation where the worker was at total liberty to accept or refuse a job on a case‑by-case basis. It is my understanding that, except for giving some specifications to be complied with on the job to be done when a worker agreed to do it, the appellants had no influence or ascendancy over the workers. This is the case where, as long as the services were rendered, a person is performing the services on his own account and at his own pace. In those circumstances, it is difficult, in my view, to say, that the workers were employees of the appellants.
+[32] I should also add that in the case of Carol Cloutier, she did not even work for the appellants.
+[33] For all these reasons, the appeals are allowed, without costs, and the December 12, 2005, determinations by the Minister of National Revenue are varied on the basis that the 12 workers were not employees of Habitat during the period at issue.
+Signed at Ottawa, Canada, this 15th day of February 2007.
+"Lucie Lamarre"
+Lamarre J.
+CITATION: 2007TCC23
+COURT FILE NOS.: 2006-895(EI); 2006-896(CPP)
+STYLE OF CAUSE: SERGIO CHAVEZ, ROBIN WENTZEL
+o/a HABITAT ENVIROSCAPING & PROPERTY MAINTENANCE v. M.N.R.
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: January 9, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: February 15, 2007
+APPEARANCES:
+Counsel for the Appellants:
+Robert McMechan
+Counsel for the Respondent:
+Andrew Miller
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Robert McMechan
+City: Ottawa, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

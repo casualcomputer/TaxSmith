@@ -1,0 +1,277 @@
+---
+title: "Laliberté v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/109975/index.do"
+last_modified: "2015-06-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 134"
+citation2: ""
+neutral_citation: "2015 TCC 134"
+decision_date: "2015-06-02"
+language: "en"
+item_id: "109975"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2829
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:20:51.974000+00:00"
+cases_cited_count: 13
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6e542905836b09d6b4e09658785d5d13e91f75e83c1b165442e16a308cc0f8dc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Laliberté v. The Queen
+
+- Citation: 2015 TCC 134
+- Decision date: 2015-06-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2829, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laliberté v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-06-02
+Neutral citation
+2015 TCC 134
+File numbers
+2012-4718(IT)I, 2012-4719(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-4718(IT)I
+BETWEEN:
+Jenny Laliberté,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Angie Laliberté (2012-4719(IT)G), on January 21, 2015, at Montreal, Quebec.
+Before: The Honourable Associate Chief Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Gilles Doré
+Victor Chauvelot
+Counsel for the Respondent:
+Emmanuel Jilwan
+JUDGMENT
+The appeal from the assessment made under subsection 160(1) of the Income Tax Act, the notice of which is dated August 17, 2011, and bears number 1473382, is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of June 2015.
+“Lucie Lamarre”
+Lamarre A.C.J.
+Translation certified true
+on this 22nd day of July 2016.
+Erich Klein, Revisor
+Docket: 2012-4719(IT)G
+BETWEEN:
+Angie Laliberté,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Jenny Laliberté (2012-4718(IT)I), on January 21, 2015, at Montreal, Quebec.
+Before: The Honourable Associate Chief Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Gilles Doré
+Victor Chauvelot
+Counsel for the Respondent:
+Emmanuel Jilwan
+JUDGMENT
+The appeal from the assessment made under subsection 160(1) of the Income Tax Act, the notice of which is dated August 17, 2011, and bears number 1473370, is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of June 2015.
+“Lucie Lamarre”
+Lamarre A.C.J.
+Translation certified true
+on this 22nd day of July 2016.
+Erich Klein, Revisor
+Citation: 2015 TCC 134
+Date: 20150602
+Docket: 2012-4718(IT)I
+BETWEEN:
+Jenny Laliberté,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 2012-4719(IT)G
+BETWEEN:
+Angie Laliberté,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre A.C.J.
+Introduction [1] The appellants are appealing from assessments made on August 17, 2011, by the Minister of National Revenue (the Minister) under section 160 of the Income Tax Act (ITA). That section reads in part as follows:
+INCOME TAX ACT
+160. (1) Tax liability re property transferred not at arm’s length — Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse or common-law partner or a person who has since become the person’s spouse or common-law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm’s length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally, or solidarily, liable to pay a part of the transferor’s tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted for it, and
+(e) the transferee and transferor are jointly and severally, or solidarily, liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act (including, for greater certainty, an amount that the transferor is liable to pay under this section, regardless of whether the Minister has made an assessment under subsection (2) for that amount) in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection limits the liability of the transferor under any other provision of this Act or of the transferee for the interest that the transferee is liable to pay under this Act on an assessment in respect of the amount that the transferee is liable to pay because of this subsection.
+. . .
+(4) Special rules re transfer of property to spouse or common-law partner — Notwithstanding subsection 160(1), where at any time a taxpayer has transferred property to the taxpayer’s spouse or common-law partner pursuant to a decree, order or judgment of a competent tribunal or pursuant to a written separation agreement and, at that time, the taxpayer and the spouse or common-law partner were separated and living apart as a result of the breakdown of their marriage or common-law partnership, the following rules apply:
+(a) in respect of property so transferred after February 15, 1984,
+(i) the spouse or common-law partner shall not be liable under subsection 160(1) to pay any amount with respect to any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+(ii) for the purposes of paragraph 160(1)(e), the fair market value of the property at the time it was transferred shall be deemed to be nil, and
+(b) in respect of property so transferred before February 16, 1984, where the spouse or common-law partner would, but for this paragraph, be liable to pay an amount under this Act by virtue of subsection 160(1), the spouse’s or common-law partner’s liability in respect of that amount shall be deemed to have been discharged on February 16, 1984,
+but nothing in this subsection shall operate to reduce the taxpayer’s liability under any other provision of this Act.
+Facts and preliminary remarks [2] The appellants are the daughters of Bertrand Joyal and are therefore related persons under paragraph 251(2)(a) of the ITA.
+[3] Mr. Joyal is an accused person who has been in prison since April 2009. He was also in prison from 1987 to 1990 and from March 2001 to October 2005.
+[4] On January 15, 2015, I signed an order authorizing him to testify at the hearing of these appeals. I agreed in court, at the request of counsel for the appellants, who is also acting as counsel for Bertrand Joyal, that Mr. Joyal’s testimony would be protected under section 5 of the Canada Evidence Act.
+[5] Bertrand Joyal owes the Minister a tax debt totalling approximately $74,000 arising from assessments made for the years 1998, 1999, 2000, 2001, 2002, 2003 and 2006.
+[6] Bertrand Joyal is the youngest in a family of seven children born to Simone Leblanc and Paul-Émile Joyal (the parents), who died together in a car accident on July 21, 2005.
+[7] By will, the parents left everything to their seven children equally.
+[8] Bertrand Joyal and his brother Robert Joyal were the liquidators of the estate.
+[9] On March 21, 2006, Angie Laliberté deposited into her bank account a cheque for $23,000 issued by the Succession Paul-Émile Joyal (the Estate) to the order of Bertrand Joyal and endorsed by him.
+[10] On July 21, 2006, the Estate issued a cheque for $7,500 to Bertrand Joyal. That cheque was endorsed by him and by Jenny Laliberté and she deposited the funds into her personal bank account.
+[11] The Minister was of the opinion that Bertrand Joyal had transferred those sums of money to his two daughters without receiving any consideration from them.
+[12] Accordingly, the Minister maintains that the appellants are solidarily liable for their father’s tax debt, to the extent of the amounts that they respectively received from him, under paragraph 160(1)(e) of the ITA.
+[13] In their notices of objection filed with the Minister (Exhibits I-1 and I-2), as well as in their notices of appeal, the only argument put forward by the appellants was that Bertrand Joyal was never the beneficiary or rightful owner of the inheritance from his parents, but simply served as a [translation] “conduit” so that the inheritance could be given to his daughters in accordance with the wish expressed by his parents during their lifetime. Therefore, according to the appellants, there was no transfer.
+[14] In an affidavit signed on July 24, 2012 (Exhibit I-3), Robert Joyal recognized that his parents’ will stated that in the event of their concurrent deaths all of their assets would go to their seven children equally. He added that his parents had, however, expressed the desire that their children share their inheritance with their grandchildren and, [translation] “more particularly, that they ensure that their woodlot and elk farm stay in the family and that their exploitation continue through certain of their grandchildren” (Exhibit I-3, paras. 6-7). He added that, to his knowledge, [translation] “[his] brother Bertrand had respected that wish by facilitating the purchase and operation of those businesses by his two daughters through the inheritance” (para. 8).
+[15] At the hearing, counsel for the appellants called as witnesses the two appellants; their father Bertrand Joyal and their aunt Aline Joyal. It was apparent from the evidence presented that counsel for the appellants intended to raise a second argument, one not raised to that point, namely, that the appellants had given consideration at least equal to the money received from their father.
+[16] Counsel for the respondent wished to object to that evidence on the ground that he was taken by surprise and that the appellants had not undergone examinations for discovery on that issue. Counsel for the appellants replied that he had told the respondent’s former counsel of his intention to proceed in this way. He also mentioned that he was entitled to present such evidence because one of the Minister’s reasons underlying the two assessments was precisely that the appellants did not provide any consideration.
+[17] I let the appellants present their evidence. I am of the opinion that the appellants were entitled to make that new argument at the hearing because, first, counsel for the appellants had informed the respondent’s former counsel of his intention, which the counsel for the respondent does not deny. Second, one of the appeals is governed by the informal procedure (under that procedure examinations for discovery are not provided for) and the other is governed by the general procedure, but I have no indication that the tax amount in issue is large enough to automatically confer the right to undertake an examination without the consent of both parties (subsection 17.3(1) of the Tax Court of Canada Act).
+Facts revealed at the hearing [18] The grandparents were farmers and sold their farmland in 1978. They kept a woodlot on which they raised elk for pleasure. Bertrand Joyal looked after that land with his parents before being imprisoned in 2001. Subsequently, his daughters helped their grandparents cord wood.
+[19] According to Bertrand Joyal, his parents had always wanted the land to stay in the family, and more specifically, he said they had favoured his daughters (the appellants), who had spent a lot of time there.
+[20] After 1994, Bertrand Joyal had two other children from another relationship.
+[21] His testimony was that the two appellants went to the prison to see their father on a regular basis, generally weekly. They brought him money for the canteen. According to Bertrand Joyal, they gave him $75 per week.
+[22] He also stated that, during his time in prison, Angie looked after the houses from which he received rental income. She collected the rents and made the mortgage payments. Occasionally, she would carry out certain tasks related to the rental of the houses.
+[23] As for Jenny, Bertrand Joyal indicated that she took care of the children from his second relationship on a regular basis.
+[24] Bertrand Joyal made almost daily collect telephone calls to his daughters, the cost of which was, it would appear, borne by the appellants.
+[25] Bertrand Joyal stated that he had made a verbal commitment to them that he would compensate them one day for the services they were rendering to him. He maintains that he did just that by giving them his portion of his parents’ inheritance.
+[26] In cross-examination, Bertrand Joyal acknowledged that his daughters were not named as beneficiaries in his parents’ will. He also stated that in 2006 his daughters incorporated a company, injecting into it the money that he had given them from the inheritance, and that this company then purchased the land from the Estate.
+[27] Bertrand Joyal acknowledged that he never kept a statement of account recording what he believed he owed his daughters for the services they had rendered.
+[28] Angie is a dental assistant and has worked in a clinic since 2005. Starting in 2002, she stated, she regularly went to see her father in prison with her sister Jenny, her half-brother and her half-sister. She confirmed that, starting in 2001, she took care of the house rentals for her father, at the age of 16 (she stated that she was 9 years old in 1994). She collected the rents and paid the mortgages, taxes and electricity. She said she took care of all tenant‑related problems. Because she had a car, she also took her half-brother to his hockey games. Moreover, for the entire period that her father was in prison, and at his request, she would also, as far as possible, spend every weekend cording wood and feeding the animals on the land to help her grandparents. In addition to performing all of those tasks, she went to school and worked in a convenience store.
+[29] She stated that she never calculated the amount to which she was entitled for all of the services she had rendered, but concluded that it was certainly greater than the $23,000 that her father had given her.
+[30] When he was released from prison, Bertrand Joyal apparently went back to work full-time on the land. He received a salary from the company that had been formed by his daughters. He lived with Angie at that time.
+[31] The houses from which he derived rental income were apparently sold as a result of his being incarcerated again in 2009.
+[32] Angie confirmed that her father had always told her that she would be rewarded for the services that she had rendered. Apparently, he said this in his Christmas cards.
+[33] In cross-examination, she stated that she had no copies of the invoices that would establish the telephone expenses that she allegedly assumed during her father’s incarceration. Nor did she have any written documents stating that her father had made a commitment to compensate his daughters for the services they rendered.
+[34] She stated that there were no full-time employees on the land during her father’s imprisonment and that she herself worked full time elsewhere. They have since disposed of the animals.
+[35] As for Jenny Laliberté, she is a pharmacy technical assistant. She obtained her vocational diploma in 2006 and has since been working in her field. She stated that, at her father’s request, during the period he was in prison, she would feed her half-brother and half-sister, do the laundry and take care of yard maintenance at the house where the children lived. She said she looked after the children every weekend without pay. When she got her own car at the age of 17, she went to see her father in prison, with the other children, on a regular basis. She never did the calculation, but considers that the money received from her father does not exceed the amount he owed her for the services that she claims to have rendered to him. She also stated that her father had told her (inter alia in his Christmas cards, which she too had not brought with her) that she would be compensated one day for her services.
+[36] In cross-examination, she acknowledged that it was the mother of the children born of her father’s second relationship who was receiving the child tax benefits for her children. She herself had never asked to be paid a wage by the mother, who, according to Jenny, did not have the means to pay her.
+[37] She also acknowledged that her grandparents had not taken any legal measures, by will or otherwise, to have her sister and her receive an inheritance from their estate or to have the land go to them.
+[38] Aline Joyal, the sister of Bertrand and Robert Joyal, simply stated that her father had told her before his fatal accident that Angie had a lot on her shoulders and that hoped that his son Bertrand would reward her one day.
+[39] Odette Lefebvre, the appeals officer for the Canada Revenue Agency (CRA) who dealt with the appellants’ objections, testified that the fact that the inheritance money had been given to the appellants to compensate them for services they had allegedly rendered to their father had never been brought to her attention. In other words, no argument had been put forward regarding consideration given by the appellants in exchange for the money received from their father. The only argument presented was that the wish of the deceased was to directly bequeath Bertrand Joyal’s portion to his daughters. In her estimation, there was nothing in the document provided that would have enabled her to conclude that such was the case, and she upheld the assessments made under section 160 of the ITA.
+Arguments of the parties [40] Counsel for the appellants argued that the inheritance that Bertrand Joyal received from his parents devolved upon him as support that is exempt from seizure and that, if he had wanted to evade the payment of his tax debt, he could have availed himself of the unseizable nature of that inheritance. He presented nothing in support of that argument.
+[41] The appellants also argue that they received a verbal mandate from their father to perform the services that they rendered and that there was a verbal commitment to compensate them for the services rendered and also for the expenditures made by them on his behalf. That mandate, it was argued, was defined with each action that was taken. According to counsel for the appellants, their testimony was not shaken in cross-examination and it proves the reality of the events. According to him, the credibility of the testimony was not called into question. He therefore considers it to have been proven that the appellants gave consideration in exchange for the amounts received.
+[42] Finally, the appellants contend that those amounts were paid to them to fulfil their grandparents’ wish that the land pass to the appellants’ patrimony. Their father therefore, according to them, had not transferred those amounts to them; rather, they passed to them directly from the Estate.
+[43] The respondent, for her part, argues that there is no provision in the will that makes the appellants the beneficiaries of the Estate and that, as a result, there was a transfer of money by Bertrand Joyal, one of the heirs to the Estate, to his daughters.
+[44] Regarding the issue of the consideration that was allegedly given by the appellants, counsel for the respondent maintains that the appellants’ credibility is tainted by the fact alone of their never having advanced that argument before. That was the first time the issue of mandate was raised. According to counsel, if the mandate had been real, the appellants would not have waited until the trial to bring it up. The mandate claim is all the less credible since they submitted no documentation supporting the existence of a verbal agreement that counsel characterizes as vague and unquantified. According to him, the testimony was purely self-serving in nature and a negative inference must be drawn from it. He concluded, relying on Logiudice v. Canada, [1997] T.C.J. No. 742 (QL), at paragraph 16, that the appellants did not demonstrate that there was a genuine contractual agreement.
+[45] Regarding the services rendered by the appellants for the care of the children of their father’s second relationship, the respondent cited Yates v. Canada, 2009 FCA 50, [2010] 1 F.C.R. 436, [2009] F.C.J. No. 207 (QL), to argue that, if payments made by one spouse to another in satisfaction of an obligation to support his or her family are not consideration within the meaning of section 160 of the ITA, the same reasoning applies to the payments made to Bertrand Joyal’s daughters for the support of their half-brother and half-sister.
+Analysis [46] While it is true that credible testimony does not require any supporting documentation in order to establish a point (Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, para. 87), the Court must still be convinced of the credibility of the testimony heard before it. The appellants had to present a prima facie case showing that the assumptions that the Minister relied on to make the assessments were erroneous.
+[47] In Amiante Spec Inc. v. Canada, 2009 FCA 139, [2009] F.C.J. No. 603 (QL), the Court explained in the following terms what constitutes a prima facie case, at paragraph 23:
+A prima facie case is one “supported by evidence which raises such a degree of probability in its favour that it must be accepted if believed by the Court unless it is rebutted or the contrary is proved. It may be contrasted with conclusive evidence which excludes the possibility of the truth of any other conclusion than the one established by that evidence” (Stewart v. Canada, [2000] T.C.J. No. 53, paragraph 23).
+[48] In the present case, the Minister assumed that Bertrand Joyal transferred the proceeds of his inheritance to the appellants without them giving him any consideration.
+[49] I am of the opinion that the appellants did not make out a prima facie case that the Minister’s assumptions are erroneous.
+Transfer of the proceeds of the inheritance [50] Regarding the matter of the transfer of the inheritance, the appellants’ witnesses all acknowledged that there was nothing in the will providing that the appellants were beneficiaries of the Estate. The appellants themselves confirm this in their notices of appeal, at paragraph 6 iv:
+[translation]
+6. Wishing to re-establish the facts through this appeal, the Appellant respectfully states the following:
+. . .
+iv. Since the Appellant was not a legatee under the will, the cheque was first issued to Bertrand Joyal, who is a universal legatee, and then endorsed by him so that the inheritance could be handed over, as appears from Exhibit P5.
+[51] According to Quebec civil law, the succession of a person opens by his death and the succession devolves according to the prescriptions of the law unless the deceased has, by testamentary provisions, provided otherwise for the devolution of his property (art. 613 of the Civil Code of Québec (CCQ)).
+[52] The successor has the right to accept or to renounce the succession (art. 630 CCQ). Acceptance is express or tacit. It is express where the successor formally assumes the title or quality of heir; it is tacit where the successor performs an act that necessarily implies his intention of accepting (art. 637 CCQ).
+[53] Renunciation, however, cannot be tacit. It must be express and take the form of a notarial act en minute or be made by a judicial declaration which is recorded (art. 646 CCQ).
+[54] Furthermore, acceptance confirms the transmission which took place by operation of law at the time of death (art. 645 CCQ).
+[55] In this case, there is no evidence that Bertrand Joyal renounced his part of his parents’ estate and that he was never the beneficiary or rightful owner of the inheritance from his parents. On the contrary, the Estate, of which he was one of the liquidators, issued two cheques in his name. By endorsing those cheques and then giving them to his daughters, he performed an act that necessarily implied his intention of accepting. In doing so, he confirmed the transmission by his parents of his portion of the inheritance to him, which took place at the time of death, as stated in article 645 of the CCQ.
+[56] By subsequently assigning his portion of the inheritance to his daughters, Bertrand Joyal transferred to them the amounts of money involved. There was a transfer as contemplated by section 160 of the ITA (see Banks v. Canada, 2011 TCC 415, [2011] G.S.T.C. 130, where the Court found that the endorsement of a cheque constituted a transfer under section 160 of the ITA to the person who received the endorsed cheque).
+[57] In fact, the appellants deposited the amounts of the cheques endorsed by their father into their personal bank accounts and then invested those amounts in a company that they incorporated with the aim of purchasing the woodlot from their grandparents’ estate. The evidence does not show that Bertrand Joyal retained any interest in that patrimony and that his daughters acted as his mandataries. On the contrary, the testimony shows that, when he returned to work on the farm after being released from prison, he received a salary from the company. The evidence also shows that Bertrand Joyal indeed intended to give the amounts in question to the appellants for their personal benefit and to assign to them the right to freely dispose of those amounts.
+[58] I am thus of the view that, since the cheques were given to the appellants, there was impoverishment of the patrimony of Bertrand Joyal and enrichment of that of the appellants. There was a transfer of property as contemplated by section 160 of the ITA (see The Queen v. 9101-2310 Québec Inc., 2013 FCA 241, 2013 DTC 5172, paras. 55-61; The Queen v. Lemire, 2013 FCA 242, 2014 DTC 5088, para. 30).
+Exemption from seizure [59] The argument that the inheritance received by Bertrand Joyal was exempt from seizure and that it was beyond the reach of the tax authorities, even after the inheritance was transferred to his daughters, does not hold water.
+[60] The exemption from seizure that the appellants seem to be asserting is that set out in article 553(4) of the Quebec Code of Civil Procedure (CCP). I reproduce hereunder the relevant provisions of article 553 CCP:
+Chapter C-25
+Code OF CIVIL PROCEDURE
+Section III
+Exemptions from seizure
+. . .
+553. The following are exempt from seizure:
+. . .
+(3) Property declared by a donor or testator to be exempt from seizure, which may however be seized by creditors posterior to the gift or to the opening of the legacy, with the permission of the judge and to the extent that he determines;
+(4) Judicially awarded support and sums given or bequeathed as support, even if not declared to be exempt from seizure by the instrument evidencing the gift or bequest;
+. . .
+[61] In enacting section 160 of the ITA, Parliament did not make the Minister subject to the exemption from seizure rules enacted by the provinces, as it did in subsection 225(5) of the ITA, as it read at the relevant time:
+INCOME TAX ACT
+225. (1) Seizure of chattels — Where a person has failed to pay an amount as required by this Act, the Minister may give 30 days notice to the person by registered mail addressed to the person’s latest known address of the Minister’s intention to direct that the person’s goods and chattels be seized and sold, and, if the person fails to make the payment before the expiration of the 30 days, the Minister may issue a certificate of the failure and direct that the person’s goods and chattels be seized.
+. . .
+(5) Exemptions from seizure — Such goods and chattels of any person in default as would be exempt from seizure under a writ of execution issued out of a superior court of the province in which the seizure is made are exempt from seizure under this section.
+[62] It would thus seem that, when Parliament wishes to make its collection measures subject to the exemption from seizure rules enacted by the provinces, it does so expressly (see Bouchard v. Canada (Attorney General), 2009 FCA 321, 2009 DTC 5183, paras. 18‑20).
+[63] Furthermore, the evidence shows that the appellants invested their father’s inheritance in a company. Given that that investment constitutes a reuse, the unseizable nature of the inheritance no longer comes into play, as determined in 6149812 Canada Inc. v. The Queen, 2009 TCC 442, 2010 DTC 1038. In fact, that narrow interpretation is reiterated by the Federal Court of Appeal in Gauthier Estate v. The Queen, 2010 FCA 228, 2010 DTC 5182 at paragraph 10, where it is stated that unseizability is the exception, not the rule:
+In Poulin [v. Serge Morency et Associés Inc., [1999] 3 S.C.R. 351], the Supreme Court refers to articles 2644 and 2645 of the C.C.Q. to state the principle by which seizability is the rule and unseizability the exception (Poulin, paragraph 18). Specifically, the Court indicates that (idem):
+Provisions that depart from the principle must be narrowly construed: . . . In addition, given that [they] affect the rights of the creditors, they may be expected to be worded clearly and precisely.
+[64] Thus, in the absence of clear wording, the appellants cannot invoke the exemption from seizure of the amount received to counter the application of section 160 of the ITA.
+Consideration [65] I agree with counsel for the respondent that the fact that the argument that Bertrand Joyal gave a mandate to his daughters to render him services, for which they were compensated, was made at such a late stage undermines the credibility of their claims. Furthermore, it seems unlikely to me that those two young girls, who were still in school, would have had to perform all of the tasks that they said they did.
+[66] Angie was working in a convenience store while studying to become a dental assistant. It is difficult to believe that, in addition to that, she handled all aspects of the management of the rented houses, drove her half-brother to his sports activities and also went each weekend to cord wood. Angie stated that she was 9 years old in 1994, and she was therefore between 16 and 20 years old during the period in which her father was in prison for the second time (2001‑2005). She purportedly did all of that in addition to advancing $75 per week out of her own pocket to her father, whom she went to visit weekly in prison. She allegedly also paid for his collect phone calls, which she herself characterized as expensive, and she paid for her gas herself.
+[67] This entire story leaves me unconvinced. Not only is it not credible that she had the money needed to cover her father’s expenses in addition to her own, but she was also a student, and very young to be taking on all of those tasks.
+[68] The evidence is no more credible for Jenny, who is younger than Angie. It is very difficult to believe that she had to assume responsibility for two young children while she also was a student. Furthermore, those children had a mother who was receiving tax benefits for the support of her children.
+[69] Given the little probative value that I assign to their testimony, the appellants would have had to support their statements with more solid evidence, such as more detailed accounts of their activities, or bank statements showing the deposits to and withdrawals from their personal accounts, in order to establish that they were giving money that belonged to them to their father. The testimony of the mother of the young children might also have helped their case.
+[70] I am of the view that their testimony alone, and that of their father, does not create such a degree of probability in its favour as to allow me to believe it, because it was unlikely and self-serving. I agree with the respondent that the appellants did not prove the existence of a genuine contractual agreement with their father.
+[71] In that context, they did not present a prima facie case that the Minister’s assumption that they gave no consideration in exchange for the money that was transferred to them by their father was erroneous. Given this conclusion, it is unnecessary for me to address the issue of the application of the Yates decision, which was cited by the respondent in her arguments.
+[72] The assessments made under section 160 of the ITA are therefore well-founded.
+Decision [73] The appeals are dismissed.
+Signed at Ottawa, Canada, this 2nd day of June 2015.
+“Lucie Lamarre”
+Lamarre A.C.J.
+Translation certified true
+on this 22nd day of July 2016.
+Erich Klein, Revisor
+CITATION:
+2015 TCC 134
+COURT FILE NOS.:
+2012-4718(IT)I and 2012-4719(IT)G
+STYLES OF CAUSE:
+Jenny Laliberté v. THE QUEEN and ANGIE LALIBERTÉ v. THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+January 21, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Associate Chief Justice Lucie Lamarre
+DATE OF JUDGMENT:
+June 2, 2015
+APPEARANCES:
+Counsel for the appellants:
+Gilles Doré
+Victor Chauvelot
+Counsel for the respondent:
+Emmanuel Jilwan
+COUNSEL OF RECORD:
+For the appellants:
+Name:
+Gilles Doré
+Victor Chauvelot
+Firm:
+Gilles Doré and Victor Chauvelot, Solicitors, Outremont, Quebec
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,160 @@
+---
+title: "Lindsay Cowan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27286/index.do"
+last_modified: "2006-09-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 512"
+citation2: ""
+neutral_citation: "2006 TCC 512"
+decision_date: "2006-09-20"
+language: "en"
+item_id: "27286"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 893
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:44:51.045000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5587b1ef3ddc254f51084e769729b6c823ae52f4e28dd20e88b214fedce7e452"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lindsay Cowan v. The Queen
+
+- Citation: 2006 TCC 512
+- Decision date: 2006-09-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 893, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lindsay Cowan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-20
+Neutral citation
+2006 TCC 512
+File numbers
+2005-3234(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3234(IT)I
+BETWEEN:
+MARY LINDSAY COWAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 23, 2006, at Montreal, Quebec
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Agent for the Appellant:
+Lorraine Cowan
+Counsel for the Respondent:
+Suzanne Morin
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2003 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment, on the basis that the Appellant is entitled to deduct the amount of $19,437.27 from her 2003 income.
+Signed at Calgary, Alberta, this 20th day of September, 2006.
+"G. Sheridan"
+Sheridan J.
+Citation: 2006TCC512
+Date: 20060920
+Docket: 2005-3234(IT)I
+BETWEEN:
+MARY LINDSAY COWAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Mary Lindsay Cowan, is appealing the reassessment of the Minister of National Revenue of her 2003 taxation year. The Minister disallowed the deduction she had claimed as a repayment of spousal support to her former spouse under subsection 60(c.2) of the Income Tax Act.[1] According to the Minister, what she repaid was not spousal support but rather, an overpayment of the interest paid to her upon the division of her former spouse's pension.
+[2] The Appellant is a retired lady who was assisted by her adult daughter at the hearing of this matter under the Informal Procedure.
+Facts
+[3] The Appellant and her former spouse were retired at the time of their marriage breakdown. Their income was their old age pension plus and, in the case of her former spouse, his pension payments from his former employer. The matrimonial property consisted of the couple's accumulated RRSP's and the pension fund of the Appellant's former spouse.
+[4] On March 29, 1999, the Appellant's former spouse filed a petition for divorce.
+[5] On June 9, 1999, pursuant to an interim order, the Appellant's former spouse was ordered to pay her support of $1,014 per month (half of his $2,028 monthly pension), indexed in accordance with the law.
+[6] By order dated December 17, 2001 ("2001 Order"), the Quebec Superior Court granted the divorce and ordered an equal division of the matrimonial property, retroactive to March 30, 1999, the date on which proceedings were instituted. The Court also ordered that no further support would be payable as of February 1, 2002 since, by that time, the Appellant would be receiving her share of the monthly pension benefits.
+[7] That portion of the 2001 Order concerning the division of the pension plan reads as follows:
+[14] 1. ORDERS The Gazette (a Southam or Can West Company) Mr. Douglas Cowan's employer, from whom he is retired, to pay or transfer to Mrs. Mary Lindsay Cowan, half of the commuted value of the retirement plan held on March the 30th, 1999 and registered under Mr. Douglas Cowan's name; and
+ORDER is given to Mrs. Cathy Trotier, or to the Manager, Benefits Coordinator, Human Resources Department at the The Gazette, to proceed to the above payment or transfer, according to Mrs. Mary Lindsay Cowan's instruction upon service of the present judgment[2];
+[8] Accordingly, the plan administrator paid to the Appellant $132,495.62, half of the value of the pension as of March 30, 1999 and interest thereon of $19,437.27 from that date, in accordance with section 48 of the Regulation respecting supplemental pension plans[3].
+[9] The Appellant's former spouse appealed, claiming that that the amount paid to the Appellant resulted in an inequitable division of assets; namely, the Appellant ought not to have received half of his monthly pension as support for the period March 1999 to January 31, 2002, inclusive, as well as the interest that had accrued on the capital benefits.
+[10] The Quebec Superior Court granted the motion of the Appellant's former spouse and ordered her "to pay [her former spouse] the sum of $19,437.27 with interest from the date of the summons[4]".
+[11] The Appellant promptly paid $20,331.92 ($19,437.27 plus interest) to her former spouse who executed a release in her favour for any claims arising from the 2003 Judgment.
+[12] In her income tax return for 2003, the Appellant deducted the $20,331.92 repayment from her taxable income pursuant to subsection 60(c.2) of the Act.
+Issue
+[13] The issue to be determined in this appeal is whether the amount duly repaid by the Appellant was a repayment of a "support amount" pursuant to subsection 60(c.2).
+Analysis
+[14] It is common ground that the monthly payments the Appellant received between March 1999 and January 2002 constituted a "support amount" under subsection 56.1(4):
+"Support amount" - "support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and ...
+[15] For the Appellant's repayment to be deductible, it must fall within the criteria set out in the relevant portions of subsection 60(c.2):
+Repayment of support payments - an amount paid by the taxpayer in the year or one of the 2 preceding taxation years under a decree, order or judgment of a competent tribunal as a repayment of an amount included under paragraph 56(1)(b) or (c), or under paragraph 56(1)(c.1) (as it applies, in computing the taxpayer's income for the year or a preceding taxation year, to decrees, orders and judgments made before 1993) to the extent that it was not so deducted for a preceding taxation year;
+[16] What subsection 60(c.2) seeks to do is allow for an adjustment where a taxpayer has been required to repay a support amount which was already included in income in a prior year. Subsection 60(c.2) avoids double taxation of that amount by rendering such a repayment deductible from income in the current year.
+[17] The Appellant has the onus of satisfying the four requirements under subsection 60(c.2): (1) that the amount claimed be repaid by the taxpayer in that taxation year; (2) that the repayment be made pursuant to a decree, order or judgment of a competent tribunal; (3) that the repayment be for an amount previously included in the taxpayer's income as a "support amount" under subsections 56(1)(b) or (c), or under subsection 56(1)(c.1); and (4) that the repayment amount not have been already deducted in any preceding year.
+[18] The Appellant repaid an amount to her former spouse in 2003 and that amount had not previously been deducted from the taxpayer's income. The question is whether the amount repaid pursuant to the 2003 judgment was a "support amount" under subsection 60(c.2)
+[19] The Respondent argued that it was not. Counsel for the Respondent submitted, with some vigour, that the amount repaid was purely an overpayment of interest which, because of lack of instruction to the contrary, the plan administrator added to the Appellant's share of her former spouse's pension fund. In support of its position, counsel for the Respondent relied on the following paragraphs in the 2003 Judgment:
+[13] Although counsel must have been aware of the effects of partitioning a pension fund when the entitled party was already receiving a monthly retirement pension during the proceedings, no one thought it appropriate to point this out to the Court or even to the parties because everyone was unaware of the consequences.
+[27] In the instant case, denial of the [Appellant's former spouse's] right to recover the interest paid to the [Appellant] would be contrary to the [2001 Order], since it would mean that the [Appellant] received more from the partition of the [matrimonial assets] than the [Appellant's former spouse] because, during the proceedings, from March 30, 1999 to the date of the partition, the [Appellant's former spouse] paid the [Appellant] the sum of $35,847.94, that is one-half of the $2,028.00 per month in [support payments][5], $1,014.00 per month, plus indexing, although the pension [plan] itself was not indexed.
+[20] The difficulty I have with the Respondent's argument is that it is dependent upon a very narrow view of the facts. While I accept that it was the plan administrator's payment of interest to the Appellant that triggered the 2003 Judgment, I do not see that event as the beginning of the story. To have a complete understanding of the passages cited by counsel for the Respondent, it is necessary to read them in the context of certain other portions of the 2003 Judgment:
+[22] The Court [in the 2001 Order] did not express an opinion concerning the interest because neither the parties nor counsel thought it appropriate to inform it of the effects of a partition of the pension fund when a pension was paid during the proceedings.
+[21] In addition to recognizing that the Court in the 2001 Order did not turn its mind to the interest ramifications of the pension division, in her concluding remarks, Bénard, J.S.C. linked the overpayment to its root cause i.e., the payment of the "alimentary support":
+[28] The defendant accordingly receives one-half of the pension and more as a result of the grant of alimentary support and at the time of the partition, she also received the interest because the plan administrator, in the absence of precise orders on this question, had to apply the law. Only a Court order or the consent of the parties can give it a different effect.
+[29] Since the defendant has, in receiving her alimentary pension, received more than her share of the interest, it would be unfair not to order her to repay to the plaintiff what she received in this regard[6]. [Emphasis added.]
+[22] Counsel for the Respondent reminded the Court, quite correctly, that it has no power to provide equitable relief[7]. As Bénard, J.S.C. noted in her Judgment, it is regrettable that the Court of first instance did not have all the necessary material before it so that all relevant aspects could have been considered at the divorce hearing in 2001. What ought to have been a relatively simple division of not much matrimonial property has wound its way, after much judicial attention, to the Tax Court of Canada. In reaching my decision, I have been guided not by a quest for equity but rather by the evidence presented at the hearing, including the proceedings in the Quebec Superior Court, and my interpretation of the applicable law. If, in that pursuit, an equitable result has been achieved, it cannot be helped.
+[23] The Court making the 2001 Order did not have the benefit of submissions regarding the effect of the alimentary support already received on the interest payable. On my reading of the 2003 Judgment, the overpayment can be traced to the omission of the Court of first instance to take into account the effect of the alimentary pension (support payments) made by the Appellant's former spouse prior to the final division of property; this, in turn, led to the failure to include, in the 2001 Order, instructions to the plan administrator to reduce the amount of interest that would, absent such a direction, be payable by law to the Appellant. It is against this background that in the making its repayment order, the Court in, the 2003 Judgment refers only to the payment of "the sum of $19,437.27 with interest from the date of the summons[8]". There is nothing in the wording of the word to diminish the Court's focus, in the concluding paragraphs of the Judgment, on the support payments as the cause of the overpayment. Certainly, there is no express finding that the payment ordered was in respect of the interest improperly included by the plan administrator in the final division of the pension.
+[24] On the somewhat unusual facts of this Informal Procedure case, I am satisfied that the amount repaid was in respect of payments the Appellant had received from her former spouse for her support and which she duly included in her income. In these circumstances, subsection 60(c.2) operates to allow the adjustment of the Appellant's tax liability to accord with the reality of the situation.
+[25] Accordingly, the appeal of the reassessment of the Minister of National Revenue under the Income Tax Act is allowed, and the reassessment is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to deduct the amount of $19,437.27 from her 2003 income. The interest payable on that amount under the 2003 Judgment was not in respect of the repayment of the support amount and is therefore, not deductible.
+Signed at Calgary, Alberta, this 20th day of September 2006.
+"G. Sheridan"
+Sheridan J.
+CITATION: 2006TCC512
+COURT FILE NO.: 2005-3234(IT)I
+STYLE OF CAUSE: MARY LINDSAY COWAN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: May 23, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice G. Sheridan
+DATE OF JUDGMENT: September 20, 2006
+APPEARANCES:
+Agent for the Appellant:
+Lorraine Cowan
+Counsel for the Respondent:
+Suzanne Morin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 60(C.2) Repayment of support payments - an amount paid by the taxpayer in the year or one of the 2 preceding taxation years under a decree, order or judgment of a competent tribunal as a repayment of an amount included under paragraph 56(1)(b) or (c), or under paragraph 56(1)(c.1) (as it applies, in computing the taxpayer's income for the year or a preceding taxation year, to decrees, orders and judgments made before 1993) to the extent that it was not so deducted for a preceding taxation year;
+[2] Exhibit A-4, paragraph 9.
+[3] c. R-15.1, r.1. [19]
+[4] Exhibit A-4, paragraph 31.
+[5] I have substituted "support payments" for the word "pension" which appears in the translation of the 2003 Judgment to avoid any confusion with the monthly payments received from the pension plan. The word "pension" is used somewhat haphazardly throughout the translation in reference to the pension fund that was divided and the "alimentary pension", meaning the monthly support the former spouse paid to the Appellant.
+[6] Exhibit A-4, paragraphs 28 and 29.
+[7] Maplesden v. Canada (Minister of National Revenue) [1997] F.C.J. 1709.
+[8] Exhibit A-4, paragraph 31.

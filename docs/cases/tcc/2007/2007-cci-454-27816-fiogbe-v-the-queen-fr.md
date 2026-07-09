@@ -1,0 +1,173 @@
+---
+title: "Fiogbe v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27816/index.do"
+last_modified: "2007-06-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 454"
+citation2: ""
+neutral_citation: "2007 CCI 454"
+decision_date: "2007-06-28"
+language: "fr"
+item_id: "27816"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 324
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:31:18.244000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4d93496287eb3d463f0c8e20d7d57263dfbd8650c480d438db9b2c5a8dba803f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fiogbe v. The Queen
+
+- Citation: 2007 CCI 454
+- Decision date: 2007-06-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 324, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fiogbe v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-06-28
+Référence neutre
+2007 CCI 454
+Numéro de dossier
+2006-3248(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3248(IT)I
+ENTRE :
+JOSE FIOGBE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 28 juin 2007, à Edmonton (Alberta).
+Devant : L’honorable juge T. O’Connor
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Julian Malone
+____________________________________________________________________
+JUGEMENT L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour les années de base 2002, 2003 et 2004 relativement à la Prestation fiscale canadienne pour enfants est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 3e jour d’août 2007.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 7e jour de septembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI454
+Date : 20070803
+Dossier : 2006-3248(IT)I
+ENTRE :
+JOSE FIOGBE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O’Connor
+[1] La meilleure façon de communiquer les questions en litige et les faits intéressant le présent appel consiste à citer des extraits de l’avis d’appel de l’appelant et de la réponse à l’avis d’appel :
+Avis d’appel
+[traduction]
+[…]
+Moyen d’appel
+L’Agence du revenu du Canada a refusé de me verser la Prestation fiscale canadienne pour enfants pour l’année 2004. J’avais envoyé les enfants au Sénégal, en Afrique, parce que l’un d’eux était très malade. J’ai payé les soins de santé, l’hébergement et les frais de garde. Étant donné que je travaillais très loin de là, en Australie, il m’était impossible de faire la navette chaque jour entre l’Australie et l’Afrique. Chaque mois, j’allais passer une semaine au Sénégal avec mes enfants, à l’hôpital. Les enfants étaient très malades; ils souffraient de drépanocytose. Le Sénégal a de très bons médecins, qui ont pris soin de mes enfants.
+Je crois que j’étais la personne qui assumait principalement la responsabilité pour le soin et l’éducation de mes enfants; je résidais avec eux car je les avais amenés chez moi après le traitement. Les enfants ne résidaient pas au Sénégal. Ils y étaient de façon temporaire, pour des raisons médicales. Leur résidence se trouvait en Australie, avec leur père. Leur mère, qui n’est ni citoyenne canadienne ni résidente permanente du Canada, demeurait aux États-Unis à cette époque-là et ne pouvait demander la prestation.
+Je suis fortement en désaccord avec l’Agence du revenu du Canada.
+Réponse à l’avis d’appel
+Dans la réponse à l’avis d’appel pour les années de base 2002, 2003 et 2004 relativement à la Prestation fiscale canadienne pour enfants, envoyée à l’intimée le 14 novembre 2006, le sous-procureur général du Canada déclare ce qui suit :
+[traduction]
+A. EXPOSÉ DES FAITS
+1. De ce qui ressort de l’avis d’appel, il admet que les enfants de l’appelant étaient au Sénégal de janvier 2004 à janvier 2005 et que l’appelant lui-même se trouvait en Australie pendant la même période. Il rejette toutes les autres allégations de fait contenues explicitement ou implicitement dans l’avis d’appel.
+2. Au moyen d’avis de détermination de la Prestation fiscale canadienne pour enfants (PFCE) délivrés le 18 novembre 2005 pour les années de base 2002 et 2003, et le 20 janvier 2006 pour l’année de base 2004, le ministre du Revenu national (le « ministre ») a informé l’appelant de ce qui suit :
+a) Pour l’année de base 2002, l’appelant a touché 8 178 $ en trop au titre de la PFCE pour la période allant de juillet 2003 à juin 2004;
+b) Pour l’année de base 2003, l’appelant a touché 7 729 $ en trop au titre de la PFCE pour la période allant de juillet 2004 à juin 2005;
+c) Pour l’année de base 2004, l’appelant a touché un paiement insuffisant de 701,25 $ pour décembre 2005 et il a touché 701,26 $ pour janvier 2006, et sur le total des 1 402,41 $ versés, 1 051,83 $ ont servi à réduire le montant dû par l’appelant.
+3. Dans un avis d’opposition que le ministre a reçu le 26 mars 2006, l’appelant a contesté les avis de détermination délivrés le 18 novembre 2005 pour les années de base 2002 et 2003, et le 20 janvier 2006 pour l’année de base 2004.
+4. Au moyen d’une lettre datée du 22 août 2006, le ministre a avisé l’appelant de la décision qui avait été rendue relativement à l’avis d’opposition, selon laquelle les avis de détermination pour les années de base 2002, 2003 et 2004 seraient modifiés et de nouveaux avis de détermination seraient délivrés sous pli distinct.
+5. Le 20 septembre 2006, le ministre a délivré de nouveaux avis de détermination pour les années de base 2002, 2003 et 2004, lesquels indiquaient ceci :
+a) Pour l’année de base 2002, la somme de 4 089 $ était portée au crédit de l’appelant pour la période d’admissibilité allant de juillet 2003 à décembre 2003;
+b) Pour l’année de base 2003, la somme de 2 755,29 $ était portée au crédit de l’appelant pour la période d’admissibilité allant de mars 2005 à juin 2005;
+c) Pour l’année de base 2004, la somme de 3 505,84 $ était portée au crédit de l’appelant pour la période d’admissibilité allant de juillet 2005 à novembre 2005.
+6. Afin d’établir les avis de détermination pour les années de base 2002, 2003 et 2004, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) L’appelant et Catherine Camara sont les parents de trois enfants :
+i) Vanessa, née le 13 janvier 2001;
+ii) Naomi, née le 13 février 2002;
+iii) Brandon, né le 14 février 2003;
+b) L’appelant est chef de famille monoparentale responsable du soin des enfants;
+c) Pendant la période allant de janvier 2004 à octobre 2005, l’appelant faisait des études supérieures à temps plein à l’Australian National University, à Canberra, en Australie;
+d) Pendant cette période, l’appelant demeurait au 22/85 Derrima Road, à Queanbeyan, en Australie;
+e) Pendant que l’appelant était en Australie, les trois enfants ont été confiés à un gardien (un parent) au Sénégal, en Afrique, de janvier 2004 à janvier 2005;
+f) L’appelant visitait les enfants une fois par mois au Sénégal;
+g) Les trois enfants – Vanessa, Naomi, et Brandon – sont des personnes à charge admissibles de l’appelant;
+h) Pour l’année de base 2004, l’appelant avait droit à la PFCE à titre de particulier admissible à l’égard de personnes à charge admissibles pour la période allant de juillet 2005 à juin 2006.
+B. QUESTIONS À TRANCHER
+7. Le ministre a-t-il correctement conclu que l’appelant n’était pas le particulier admissible à la PFCE à l’égard des personnes à charge admissibles Vanessa, Naomi et Brandon, pour la période allant de janvier 2004 à janvier 2005 et que, par conséquent, l’appelant avait reçu un montant excédentaire au titre de la PFCE pour cette période?
+8. Y a-t-il des questions en litige pour l’année de base 2004?
+C. DISPOSITIONS LÉGISLATIVES, MOYENS INVOQUÉS ET MESURE DE REDRESSEMENT DEMANDÉE
+9. Il s’appuie sur les articles 122.6, 122.61 et 171 de la Loi de l’impôt sur le revenu, L.R.C (1985), ch. 3 (5e suppl.), dans sa version modifiée (la « Loi »).
+10. Il soutient que la Cour canadienne de l’impôt a dû rejeter l’appel visant l’année de base 2004 parce qu’elle n’avait pas compétence pour entendre cet appel, étant donné que, relativement à l’année de base 2004, l’appelant avait reçu le montant maximal de la PFCE auquel il avait droit à titre de particulier admissible pour la période allant de juillet 2005 à juin 2006.
+11. Il soutient que le ministre a correctement conclu que l’appelant n’était pas le particulier admissible pour la période allant de janvier 2004 à juin 2004 pour l’année de base 2002, et pour la période allant de juillet 2004 à janvier 2005 pour l’année de base 2003, à l’égard des personnes à charge admissibles Vanessa, Naomi et Brandon, puisque l’appelant ne résidait pas avec les personnes à charge admissibles de janvier 2004 à janvier 2005, conformément à l’article 122.6 de la Loi.
+12. Il soutient en outre qu’étant donné que l’appelant ne résidait pas avec les personnes à charge admissibles pendant la période allant de janvier 2004 à juin 2004 pour l’année de base 2002, et pendant la période allant de juillet 2004 à janvier 2005 pour l’année de base 2003, le ministre a correctement conclu que l’appelant n’était pas le particulier admissible qui avait droit à la PFCE pour cette période à l’égard des personnes à charge admissibles, et que l’appelant avait par conséquent reçu 4 089 $ en trop pour l’année de base 2002 et 4 970,74 $ en trop pour l’année de base 2003, conformément à l’article 122.61 de la Loi.
+Pour ces raisons, il demande que l’appel soit rejeté.
+[2] L’appelant a témoigné à l’audience et a présenté différents documents, mais son témoignage et les documents ne réussissent ni à réfuter ni à démolir les hypothèses du ministre contenues dans la réponse à l’avis d’appel.
+[3] Pour avoir droit à la Prestation fiscale canadienne pour enfants, le parent doit être la personne qui s’occupe principalement d’une personne à charge admissible et doit résider avec la personne à charge admissible.
+[4] Il appert que l’appelant était bel et bien la personne qui s’occupait principalement de ses deux filles, lesquelles étaient des personnes à charge admissibles. Toutefois, en raison des circonstances exceptionnelles ayant trait aux deux filles et à leur santé, l’appelant n’était pas en mesure de remplir la condition de la résidence. Le troisième enfant, Brandon, n’est pas visé dans le présent appel.
+[5] La question de savoir ce qui constitue une résidence aux fins de la Prestation fiscale canadienne pour enfants a déjà fait l’objet de discussions dans de nombreuses affaires. L’analyse faite par le juge Bonner, de la Cour canadienne de l’impôt, dans la décision S. R. v. R., [2004] 1 C.T.C. 2386, est celle qui est invoquée le plus souvent. La voici :
+[12] L’expression « réside avec », telle qu’elle est utilisée dans la définition du terme « particulier admissible » à l’article 122.6, doit être interprétée de manière à tenir compte de l’objet de la loi. Cette loi visait à mettre en œuvre la prestation fiscale pour enfants. Cette prestation avait été mise en place en 1993 en vue de fournir un paiement mensuel unique non imposable aux conjoints ayant la garde d’un enfant. L’enfant devait être le bénéficiaire de ce paiement, lequel était versé au parent assumant principalement la responsabilité pour son soin et son éducation. Le critère est le fait de résider avec le parent. La présence physique d’un enfant qui vient rendre visite à la résidence d’un parent ne permet pas de remplir la condition imposée par la loi. Le verbe « résider », tel qu’il est utilisé à l’article 122.6, a une connotation de résidence établie et habituelle. L’accord passé par l’appelante et son ancien conjoint relativement à S. F. dénotait le besoin de séparer le lieu de résidence établi et habituel de S. F. de celui de T.
+[6] L’appelant n’a pas réussi à démontrer qu’il résidait avec les enfants concernés pendant les périodes pertinentes, et les hypothèses contenues dans la réponse n’ont été ni réfutées ni démolies. Le fait d’être la personne qui s’occupe principalement des enfants ne suffit pas; la résidence est essentielle. Parce que l’appelant résidait en Australie et que les enfants visés résidaient au Sénégal, confiés soit à l’hôpital, soit à des gardiens, les enfants ne résidaient pas avec l’appelant. Les visites ponctuelles ne permettent pas de remplir la condition. Comme le juge Bonner de la Cour canadienne de l’impôt l’a énoncé dans la décision précitée, il doit y avoir une résidence établie et habituelle. Les séjours à l’hôpital, même prolongés, que doit faire une personne à charge admissible qui résidait avec un particulier admissible ne devraient pas, à mon avis, mener à conclure inéluctablement à la perte de la notion de résidence; cependant, les faits du présent appel ne permettent pas d’établir que tel était le cas. Ces faits sont exposés dans les hypothèses contenues dans la réponse. Comme je l’ai déjà mentionné, les hypothèses n’ont été ni réfutées ni démolies, et elles sont, par conséquent, tenues pour avérées.
+[7] L’appel est rejeté pour tous ces motifs.
+Signé à Ottawa, Canada, ce 3e jour d’août 2007.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 7e jour de septembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI454
+NO DU DOSSIER DE LA COUR : 2006-3248(IT)I
+INTITULÉ : Jose Fiogbe c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 28 juin 2007
+MOTIFS DU JUGEMENT : L’honorable juge T. O’Connor
+DATE DU JUGEMENT : Le 3 août 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Julian Malone
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,150 @@
+Title: Cooper c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29212/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-236-29212-cooper-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-04-01
+
+# Cooper c. La Reine
+
+- Citation: 2009 CCI 236
+- Decision date: 2009-04-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6740, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cooper c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-01
+Référence neutre
+2009 CCI 236
+Numéro de dossier
+2008-2054(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2054(IT)I
+ENTRE :
+DAVID JOHN COOPER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Requête entendue le 1er avril 2009, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Shannon Currie
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée en vertu de l’article 53 et de l’alinéa 58(1)b) des Règles de la Cour canadienne de l’impôt (procédure générale) par l’intimée en vue d’obtenir une ordonnance de radiation de l’avis d’appel de l’appelant compte tenu du fait que la Cour n’a pas compétence pour accorder les conclusions recherchées par l’appelant;
+Et vu les observations des parties;
+La requête de l’intimée est rejetée.
+La Cour ordonne que l’intimée paye des dépens de 250 $ à l’appelant.
+Signé à Ottawa, Canada, ce 30e jour d’avril 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 14e jour de septembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 236
+Date : 20090430
+Dossier : 2008-2054(IT)I
+ENTRE :
+DAVID JOHN COOPER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DE L’ORDONNANCE
+Le juge Boyle
+[1] En l’espèce, le contribuable est un non‑résident du Canada qui a disposé d’un bien canadien imposable en 2006. Il semble que le contribuable se soit conformé à l’article 116 de la Loi de l’impôt sur le revenu (la « Loi ») en obtenant un certificat de décharge d’impôt après avoir versé une portion du produit de la disposition à l’Agence du revenu du Canada (l’« ARC ») au titre de son obligation fiscale finale.
+[2] Le montant de taxe dû par le contribuable à l’égard de la disposition du bien en question a été établi avant la présentation de l’avis d’appel. L’obligation fiscale du contribuable relativement au gain en capital réalisé à la suite de la disposition, après qu’il ait été tenu compte d’une perte en capital reportée d’une année précédente, ne fait pas l’objet du litige. Une partie du prix de vente a été confié à une institution financière, et le contribuable a reçu les intérêts accumulés sur ce montant‑là. La question des retenues exigées par la partie XIII de la Loi pour l’impôt des non‑résidents à l’égard des intérêts versés au contribuable par une institution financière canadienne a aussi été résolue avant la présentation de l’avis d’appel.
+[3] Dans son avis d’appel, le contribuable a soulevé trois questions, relatives aux intérêts, pour lesquelles il recherche des conclusions.
+[4] Premièrement, le contribuable a demandé à l’ARC – et demande maintenant à la Cour dans son avis d’appel – que lui soit remboursée la différence entre (i) le paiement fait à l’égard de l’impôt pour obtenir le certificat de décharge d’impôt et (ii) le montant total d’impôt sur les gains en capital nets dû en application de la partie I de la Loi dont les parties ont convenu. Le contribuable soutient ne pas avoir été complètement remboursé. La question est quelque peu compliquée à l’étape des plaidoiries par le fait que l’ARC semble avoir commis une erreur dès le départ, en retenant le remboursement parce qu’elle croyait que le contribuable avait un solde impayé. La Couronne semble maintenant admettre que le contribuable n’avait pas de solde impayé. Pour ce qui est de cette première conclusion recherchée, le contribuable demande à la Cour de se prononcer sur le calcul et le paiement d’un remboursement d’impôt payé en trop.
+[5] Les deuxième et troisième conclusions recherchées par le contribuable portent sur des demandes relatives à des intérêts.
+[6] La deuxième conclusion recherchée par le contribuable a trait au remboursement qu’il demande en application de la partie I de la Loi. Le contribuable soutien que l’ARC a mal calculé les intérêts qu’elle lui doit à l’égard du solde créditeur de son compte depuis le paiement original fait par le contribuable à l’égard de l’impôt dû. Selon le contribuable, les intérêts calculés pour son remboursement représentaient seulement un taux annuel de 1 %, alors que le taux d’intérêt prescrit à ce moment‑là était de 7 %. Le contribuable a demandé à l’ARC – puis à la Cour dans son avis d’appel – d’appliquer le taux d’intérêt prescrit à son remboursement.
+[7] Troisièmement, le contribuable conteste le calcul des intérêts qui lui ont été imposés dans la cotisation établie à son égard relativement à son obligation de faire des retenues au titre de l’impôt des non‑résidents prévu à la partie XIII de la Loi. Le contribuable affirme que le taux d’intérêt prescrit était de 9 %, mais que les intérêts qui lui ont été imposés représentent presque le double de ce taux‑là. La question est compliquée par le fait que le contribuable semble avoir fait ses calculs en supposant que l’impôt des non‑résidents dû pour une année d’imposition donnée doit être versé au plus tard le 30 avril de l’année suivante. Il s’agit là du délai habituel pour l’impôt sur le revenu, mais la partie XIII de la Loi prévoit que l’impôt des non‑résidents doit être versé sur‑le‑champ, et la politique administrative publiée par l’ARC précise que l’impôt pour un revenu donné doit être payé le 15e jour du mois suivant la réception de ce revenu en question. La situation est aussi compliquée par le fait que la Couronne a dit que l’hypothèse plaidée par l’ARC, quant au moment où l’impôt dû en application de la partie XIII de la Loi, était elle aussi erronée. Pour ce qui est de cette troisième conclusion, le contribuable a clairement demandé à la Cour de réviser un montant d’intérêts imposés par l’ARC au moyen d’un avis de cotisation.
+[8] À ce stade‑ci, il ne semble pas que le calcul des intérêts après cotisation soient en litige, mais je soupçonne que si l’affaire se rendait à procès, un différend semblable surgirait au sujet de la méthode de calcul de ces intérêts.
+I. La requête
+[9] En vertu de l’article 53 et de l’alinéa 58(1)c) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), l’intimée a présenté une requête de radiation de l’avis d’appel du contribuable. L’avis de requête comporte les mentions habituelles voulant que l’avis d’appel est scandaleux, frivole ou vexatoire, qu’il constitue un recours abusif à la Cour, qu’il est [traduction] « évident et manifeste que l’appel ne peut réussir dans la forme où il a été plaidé » et que [traduction] « les allégations exposées dans l’avis d’appel ne peuvent permettre à l’appelant d’obtenir les conclusions recherchées dans son appel ». Par ailleurs, la position de la Couronne peut être résumée en disant qu’elle affirme que la Cour n’a pas compétence pour entendre les questions relatives au calcul de remboursements, au calcul des intérêts relatifs aux remboursements, au paiement de remboursements ou d’intérêts relatifs aux remboursements, ou encore, selon l’avis de requête, aux cotisations imposant le paiement d’intérêts à l’égard de cotisations d’impôt établies par le ministre.
+II. Le critère qui permet de radier un acte de procédure
+[10] La Cour suprême du Canada a décrit le critère applicable au paragraphe 33 de Hunt c. Carey Canada Inc., [1990] 2 R.C.S. 959 :
+[33] […] dans l’hypothèse où les faits mentionnés dans la déclaration peuvent être prouvés, est‑il « évident et manifeste » que la déclaration du demandeur ne révèle aucune cause d’action raisonnable? Comme en Angleterre, s’il y a une chance que le demandeur ait gain de cause, alors il ne devrait pas être « privé d’un jugement ». […] Ce n’est que si l’action est vouée à l’échec parce qu’elle contient un vice fondamental […] que les parties pertinentes de la déclaration du demandeur devraient être radiées […].
+[11] La juge Lamarre de la Cour canadienne de l’impôt a fait l’observation suivante au paragraphe 11 de Hardtke c. La Reine, 2005 CCI 263, 2005 DTC 676 :
+[11] […] pour qu’un acte de procédure puisse être radié, il faut satisfaire à une norme stricte. De fait, il doit être évident et manifeste, ou au‑delà de tout doute raisonnable, que l’acte de procédure en question ne révèle aucune cause d’action raisonnable […].
+[12] Il est donc clair que dans le cas d’une requête comme la présente, la Couronne doit se décharger d’un lourd fardeau. Autrement dit, on ne peut s’attendre à ce que les juges de la Cour privent le contribuable d’un jugement que dans les cas où il n’y a absolument aucun doute que son appel est voué à l’échec.
+[13] En l’espèce, la Couronne soutient que le contribuable n’a aucune chance de voir la Cour lui accorder les conclusions qu’il recherche parce que la Cour n’a pas compétence pour entendre l’affaire. La question est donc simple, il s’agit de mener une analyse juridique des compétences conférées à la Cour par les dispositions pertinentes de la Loi et de la Loi sur la Cour canadienne de l’impôt. Pour trancher la requête de radiation d’un acte de procédure, il n’est pas nécessaire de considérer d’autres allégations voulant que l’appel soit scandaleux, frivole ou vexatoire, ou qu’il constitue un recours abusif à la Cour.
+III. Compétence de la Cour à l’égard des conclusions recherchées
+[14] Manifestement, si les conclusions recherchées dans un avis d’appel outrepassent les compétences de la Cour, on peut s’attendre à ce que celle‑ci rende une ordonnance en vertu des articles 53 ou 58 des Règles pour radier l’avis d’appel. Il faut donc décider si la Cour a compétence dans les cas suivants :
+1) le calcul et le paiement de remboursements;
+2) le calcul et le paiement d’intérêts relatifs aux remboursements dus en application de la Loi;
+3) le montant des intérêts imposés par une cotisation établie par l’ARC.
+[15] Les articles 169 et 171 de la Loi encadrent les appels interjetés en vertu de cette loi‑là. Selon le paragraphe 169(1), le contribuable peut interjeter appel d’une « cotisation » auprès de la Cour à condition d’avoir d’abord signifié un avis d’opposition à cette cotisation‑là conformément à l’article 165 de la Loi. Le paragraphe 165(1) de la Loi prévoit que le contribuable peut s’opposer à une cotisation établie en vertu de la partie I de la Loi en signifiant, par écrit, un avis d’opposition au ministre.
+[16] Selon le paragraphe 152(1) de la Loi, après avoir reçu une déclaration de revenu, le ministre examine la déclaration, « fixe l’impôt pour l’année, ainsi que les intérêts et les pénalités éventuels payables […] ». [Non souligné dans l’original.]
+[17] À la lumière de ces dispositions, il est clair qu’une cotisation établie en vertu du paragraphe 152(1) de la Loi peut faire l’objet d’une opposition, et que tout litige ultérieur peut être porté devant la Cour canadienne de l’impôt. La cotisation prévue au paragraphe 152(1) de la Loi permet au ministre de fixer l’impôt, les intérêts et les pénalités. Il est incontestable que les intérêts imposés par une cotisation établie en vertu de la partie I de la Loi peuvent faire l’objet d’un appel auprès de la Cour.
+[18] Pour ce qui est de M. Cooper, des intérêts lui ont été imposés dans la deuxième cotisation, qui portait sur les retenues pour l’impôt des non‑résidents. Les retenues d’impôt des non‑résidents sont prévues par la partie XIII de la Loi, et non pas par la partie I. Cependant, le paragraphe 227(7) de la Loi précise que, pour les cotisations de retenues d’impôt des non‑résidents, les dispositions pertinentes de la partie I de la Loi ayant trait aux cotisations, aux oppositions, et aux appels auprès de la Cour s’appliquent, avec les adaptations nécessaires.
+[19] Il n’y a aucun doute que, par son avis d’appel, le contribuable conteste le montant des intérêts imposés par la cotisation établie en vertu de la partie XIII de la Loi. La cotisation impose au contribuable non‑résident le paiement de ces intérêts. La Cour a donc compétence pour entendre l’appel du contribuable. La requête de l’intimée ne peut pas être accueillie.
+[20] Le juge en chef Bowman (tel était alors son titre) a déjà tranché cette question‑là de façon claire dans Wright et autres c. La Reine, 2005 CCI 485, 2005 DTC 1211. Le passage suivant est tiré du paragraphe 3 de cette décision‑là :
+[3] […] Les intérêts, tout comme l’impôt et les pénalités, sont des éléments de la cotisation que le ministre est en droit d’établir. L’exactitude du calcul des intérêts ou le bien-fondé de leur imposition est une question qui peut être soulevée dans un appel devant la Cour canadienne de l’impôt.
+[21] Le juge en chef Rip a fait des commentaires semblables dans McFadyen c. La Reine, 2008 CCI 441, 2008 DTC 4513, où il s’est exprimé ainsi au paragraphe 42 :
+[42] Toutefois, dans [l’avis d’appel], il est allégué que le ministre a calculé d’une façon inexacte les intérêts sur l’obligation fiscale. Cette partie ne devrait pas être radiée. Les avis concernant les nouvelles cotisations de 2006 indiquent de fait les intérêts courus sur l’impôt fédéral impayé. Étant donné que de nouveaux montants sont calculés et établis au titre des intérêts, l’appelant devrait être autorisé à contester le calcul des intérêts effectué par le ministre.
+[22] Dans Moledina c. La Reine, 2007 CCI 354, 2007 DTC 1415, l’ancien juge en chef Bowman a fait des observations similaires au paragraphe 5 :
+[5] […] Il est toutefois approprié, à ce stade‑ci, que je me penche brièvement sur la question de la compétence de la Cour à l’égard des intérêts. On dit parfois, à tort selon moi, que la Cour n’a aucune compétence dans les cas où un contribuable s’oppose à ce que soient exigés des intérêts sur l’impôt sur le revenu. Cela va trop loin. Si la question en litige est de savoir si les intérêts ont été calculés correctement, ou bien de savoir s’ils ont été exigés conformément aux dispositions de la Loi, de toute évidence, la Cour de l’impôt a compétence pour entendre l’appel. Les intérêts sont un élément de la cotisation, et la compétence de la Cour de l’impôt comprend le pouvoir d’entendre les appels interjetés à l’encontre de cotisations établies en vertu des diverses lois mentionnées à l’article 12 de la Loi sur la Cour canadienne de l’impôt. Voir l’arrêt Union Gas Limited c. La Reine, Cour d’appel fédérale, A‑585‑87, le 29 octobre 1990, 90 DTC 6659.
+IV. L’acte de procédure
+[23] Le contribuable, qui s’est représenté lui‑même dans la présente affaire, a déposé un avis d’appel des plus clairs, concis et instructifs. L’avis d’appel, qui compte une page et demie, est complété par une annexe d’une demi‑page où sont exposés les calculs du contribuable relativement au remboursement pour les gains en capital et les intérêts afférents, et sur les retenues d’impôts et les intérêts afférents. Selon le contribuable, ces calculs appuient sa position. L’avis d’appel du contribuable est un des meilleurs avis d’appel déposé par un contribuable se représentant lui‑même dans un appel instruit par la Cour sous le régime de la procédure informelle qu’il m’ait été donné de voir. L’avis d’appel est d’une clarté exemplaire.
+[24] Le passage de l’avis d’appel portant sur le litige relatif à la cotisation d’impôt établie à l’égard du contribuable en vertu de la partie XIII de la Loi est ainsi rédigé :
+[traduction]
+J’ai ensuite reçu un avis de cotisation, daté du 12 juillet 2007, par lequel le ministre me réclamait le paiement de 184,12 $ à titre de retenues d’impôt des non‑résidents, et de 6,47 $ à titre d’intérêts. Le montant réclamé au titre des retenues pour l’impôt des non‑résidents était correct, mais les intérêts réclamés ne l’étaient pas, car, lorsque l’impôt était devenu payable – le 30 avril 2007 –, mon compte avait un solde créditeur de 20 000 $. Je tiens aussi à souligner que les intérêts réclamés correspondaient à un taux d’intérêt annuel de 17,57 %, près du double du taux d’intérêt prescrit à ce moment‑là, à savoir 9 %.
+[25] La seule interprétation possible de ce passage est que le contribuable a soulevé deux problèmes distincts à l’égard des intérêts réclamés dans la cotisation établie à son égard en vertu de la partie XIII de la Loi. Le premier problème est que le compte du contribuable avait un solde créditeur. Le second a trait au calcul des intérêts sur l’impôt à payer, et ce, peu importe que le compte du contribuable ait eu un solde créditeur ou non.
+[26] L’intimée a demandé à la Cour de radier l’acte de procédure en entier. Elle n’a pas demandé à ce que seulement certains paragraphes de l’avis d’appel soient radiés. Je n’ai donc pas à me pencher sur la question de la compétence de la Cour pour entendre les litiges relatifs aux remboursements d’intérêts dus par l’ARC à des contribuables, en application de la Loi, à l’égard des remboursements dus par l’ARC. En fait, même si l’intimée avait simplement demandé la radiation des paragraphes portant sur les remboursements et les intérêts afférents, je n’aurais pas été porté à accueillir cette demande, car ces paragraphes ont trait à des aspects faisant partie intégrante du contexte ayant donné lieu au litige sur l’impôt payable en application de la partie XIII de la Loi. De plus, si j’ai bien compris les observations présentées par les parties lors des plaidoiries, il semble que l’omission initiale de l’ARC de rembourser le paiement en trop fait au titre de l’impôt sur les gains en capital était aussi liée à l’impôt réclamé par cotisation et perçu dans le cadre d’un litige sur la sécurité de la vieillesse, lequel avait dû être résolu en faveur du contribuable.
+[27] L’avis de requête de la Couronne et l’exposé qu’elle a fait de ses arguments montrent clairement qu’elle avait aussi interprété le paragraphe de l’avis d’appel portant sur la cotisation établie en vertu de la partie XIII de la Loi comme ayant trait à des « cotisations imposant le paiement d’intérêts à l’égard de cotisations d’impôt établies par le ministre ». (Voir le moyen a)(iii) de l’avis de requête, de même que les alinéas 7b) et 29b) et le paragraphe 30 de l’exposé écrit des arguments de l’intimée.)
+[28] Je tiens à souligner qu’en l’espèce, la Couronne a aussi déposé une réponse à l’avis d’appel. Cette réponse a été rédigée par un agent des litiges de l’ARC. Les questions soulevées par la Couronne dans son avis de requête n’avaient pas été soulevées dans la réponse à l’avis d’appel. Aucune question quant à la compétence de la Cour n’avait été soulevée dans la réponse à l’avis d’appel. Cependant, je ne crois pas que l’absence de compétence constitue une simple irrégularité à laquelle on peut appliquer la règle de la nouvelle démarche.
+V. Conclusion
+[29] La présente requête a été présentée tout juste avant le moment où l’audition de l’appel avait été fixée, longtemps après le dépôt de la réponse à l’avis d’appel de la Couronne. Comme l’a fait remarquer le contribuable, les règles de procédure de la Cour ne traitent pas des requêtes présentées dans le cadre d’un appel instruit sous le régime de la procédure informelle. Cependant, cela n’empêche pas que de telles requêtes soient présentées dans les circonstances appropriées. Si un avis avait été signifié au contribuable, les questions soulevées dans la présente requête auraient pu être tranchées lors de l’audition de l’appel. En fin de compte, la requête de radiation présentée par la Couronne, qui a échoué, a fait en sorte que l’appel, au lieu d’être tranché aujourd’hui, devra être entendu plus tard. Le contribuable devra donc revenir devant la Cour pour obtenir un jugement.
+[30] La requête de l’intimée est rejetée, une nouvelle date d’audition de l’appel sera fixée, et les dépens sont accordés au contribuable à hauteur de 250 $. Compte tenu des circonstances, je rendrai une ordonnance portant que ce sera moi qui entendrai l’appel du contribuable lors de la prochaine plage horaire où je serai disponible à Vancouver. Comme je l’ai expliqué pendant l’audience, je m’attends à ce que les deux parties présentent alors des arguments et des éléments de preuve au sujet de la méthode appropriée pour calculer les intérêts dus en application de la Loi, et au sujet du montant de ces intérêts.
+Signé à Ottawa, Canada, ce 30e jour d’avril 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 14e jour de septembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 236
+No DU DOSSIER DE LA COUR :
+2008-2054(IT)I
+INTITULÉ :
+David John Cooper et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 1er avril 2009
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Patrick Boyle
+DATE DE L’ORDONNANCE :
+Le 30 avril 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Shannon Currie
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

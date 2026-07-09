@@ -1,0 +1,165 @@
+---
+title: "Toews v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27140/index.do"
+last_modified: "2005-09-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 597"
+citation2: ""
+neutral_citation: "2005 TCC 597"
+decision_date: "2005-09-06"
+language: "en"
+item_id: "27140"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 976
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:22:34.071000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "94f2f58e8025aceaee3da463377c702f33bb5c64c0dad023ed0080822c4c8d52"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Toews v. The Queen
+
+- Citation: 2005 TCC 597
+- Decision date: 2005-09-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 976, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Toews v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-06
+Neutral citation
+2005 TCC 597
+File numbers
+2001-4406(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+2001-4406(IT)G
+BETWEEN:
+EDWARD TOEWS,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 2, 2005, at Vancouver, British Columbia,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Paul K. Lail
+Counsel for the Respondent:
+Ron D.F. Wilhelm
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments of tax made under the Income Tax Act for 1995 and 1998 taxation years are dismissed, with costs.
+Signed at Ottawa, Canada, this 6th day of September, 2005.
+"E.A Bowie"
+Bowie J.
+Citation: 2005TCC597
+Date: 20050906
+Docket: 2001-4406(IT)G
+BETWEEN:
+EDWARD TOEWS,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+BowieJ.
+[1] When filing his income tax return for the taxation year 1998, the Appellant claimed a business investment loss of $170,672.00, giving rise to a non-capital loss of $24,949.00 for that year, and a further non-capital loss of $22,493.00 to be carried back to the 1995 taxation year. Initially, he was assessed on that basis. Subsequently, the Minister of National Revenue reassessed him to disallow the claimed non-capital losses on the basis that his claimed business investment loss did not satisfy the requirement of subparagraph 40(2)(g)(ii) of the Income Tax Act[1] (the Act). He now appeals from those reassessments.
+[2] The events giving rise to the Appellant's claimed business investment loss began in June 1995 when he joined with two other individuals to form a company, Apollo Industries Ltd. (Apollo), to build boats. The Appellant operated the company for about three years, but for reasons that I need not go into here the business failed, and on May 28, 1998 it became bankrupt. The Appellant lost his original investment as a result. At the hearing before me the parties filed a Statement of Agreed Facts, together with three documents that were annexed to it. It reads as follows:
+1. From June of 1995 to June 1, 1998, Apollo Industries Ltd. ("Apollo") operated a business building and selling boats.
+2. On May 28, 1998, Apollo declared bankruptcy.
+3. On June 1, 1998, a trustee took over Apollo and its affairs.
+4. At all material times, 3362272 Manitoba Inc. ("Manitoba") owned between 27.8% and 34.7% of the issued Class A shares in the capital of Apollo.
+5. Apollo's Class A shares were voting shares, and entitled Manitoba to dividends.
+6. Manitoba and the Appellant did not control Apollo, and could not unilaterally direct that dividends be paid out to Manitoba.
+7. At all material times, the Toews Family Trust (the "Trust") owned 100% of the issued Class A shares in the capital of Manitoba.
+8. Manitoba's Class A shares were voting shares, and entitled the Trust to dividends.
+9. At all material times, the Appellant, his wife, and two other people served as trustees of the Trust.
+10. At all material times, the Appellant, his wife and their children were the beneficiaries of the Trust.
+11. Under the terms of the Trust:
+(a) any trustee decision respecting it had to be made by a majority decision of the trustees;
+(b) if only one trustee remained, he or she could not act alone except to do something essential for its administration or to appoint another trustee; and
+(c) the trustees had the absolute discretion to pay one beneficiary from it, even to the exclusion of all others.
+12. The Appellant never received any payments from the Trust.
+13. The Appellant claimed a business investment loss of $170,672 in his 1998 taxation year, and a 1995 taxation year non-capital loss carry back of $22,493 arising from that claim.
+14. By May 28, 1998, Manitoba had lent Apollo a total of $152,868 (the "Manitoba Loan") which amount remains unpaid.
+15. By May 28, 1998, the Appellant had lent Apollo a total of $5,592 (the "Appellant's Loan") which amount remains unpaid.
+16. Both the Manitoba Loan and the Appellant's Loan (the "Loans") form part of the Appellant's business investment loss claim.
+17. No interest was paid on the Loans.
+[3] The Appellant testified that he left it to his legal and accounting advisors to arrange the corporate structure, and that he understood that they did it in a way that would be beneficial later for tax purposes. He said that they arranged the structure as they did from the beginning to avoid a later restructuring that might be attacked by Revenue Canada. He also testified that he raised his initial investment in the company by borrowing it from a chartered bank. He appeared to be uncertain as to the exact route by which the money that he borrowed found its way to the operating company, Apollo, but it is clear from the financial statements of Apollo that are annexed to the agreed facts that it owed Manitoba a total of $152,086.86 at the date of the bankruptcy.[2] The inference that I draw is that the Appellant, having borrowed some $150,000.00 from the bank, loaned that amount to Manitoba, which in turn loaned it to Apollo. According to the Appellant's evidence, neither the loan from the Appellant to Manitoba nor that from Manitoba to Apollo bore interest. Manitoba provided management services to Apollo, and those were provided by the efforts of the Appellant.
+[4] As the Statement of Agreed Facts makes clear, the Appellant was not in a position to receive dividend income directly from either Apollo or Manitoba. He could, of course, have received distributions from the Trust if Apollo had been successful and had paid dividends to Manitoba, and if Manitoba in turn had paid dividends to the Trust. It was not within his power, however, to compel the Trust to make any distribution, either to himself or to anyone else.
+[5] For the Appellant to be entitled to claim a business investment loss under section 39 of the Act, he must be able to show that he has suffered a capital loss, which in turn requires that he show a loss from a disposition of property.[3] He claims the loss on the basis that a debt owing to him became uncollectible during the year 1998.[4] The issue raised by the Respondent in these appeals is whether that loss is deemed to be nil by reason of the operation of subparagraph 40(2)(g)(ii) of the Act, the relevant parts of which read as follows:
+40(2) Notwithstanding subsection (1),
+(a) ...
+(g) a taxpayer's loss, if any, from the disposition of a property, to the extent that it is
+(i) ...
+(ii) a loss from the disposition of a debt or other right to receive an amount, unless the debt or right, as the case may be, was acquired by the taxpayer for the purpose of gaining or producing income ...
+is nil;
+[6] The Respondent's position is that the debt in this case was not acquired for the purpose of gaining or producing income from a business or property, and so the loss is deemed to be nil, and this is so whether the debt was owed to the Appellant by Apollo or by Manitoba. Certainly the Appellant did not stand to earn interest on the loan; however, he relies on the principle established by the decision of the Federal Court of Appeal in Byram v. The Queen.[5] In that case, the taxpayer had made loans to an operating company in which he owned shares, both directly and also indirectly through another company whose shares he owned and which owned shares of the operating company. The loans were all made on an interest-free basis. When the operating company failed and was unable to repay any of the loans, he claimed an ABIL based upon both the direct and the indirect loans. He successfully argued before the Federal Court of Appeal that both sets of loans satisfied the requirement of subparagraph 40(2)(g)(ii) of the Act that they be made for the purpose of gaining or producing income. That Court held that commercial reality required it to recognize that the taxpayer could anticipate that if the business of the operating company were successful he could expect to receive dividends as a result, not just from the shares that he owned in the operating company, but also from the shares of the holding company. All that was required to qualify the loans as having been made for the purpose of gaining or producing income was some linkage between the income and the taxpayer. The Appellant says that the necessary nexus exists in the present case. Profits generated by the operating company would produce dividends payable to the holding company. As the Trust owned all the shares of the holding company, it in turn would receive dividend income from the holding company, and the Appellant could anticipate receiving distributions from the Trust.
+[7] In my view, this case does not come within the Byram principle. The terms of the Trust are such that however profitable the operating company might be, the income may never accrue to the benefit of the Appellant. He is only one of four trustees, and only one of four beneficiaries of the Trust. It was open to the trustees to pay any part or all of the income of the Trust to any beneficiary, to the exclusion of all others. There is a nexus between any profits of Apollo and the Trust, but that nexus stops short of the Appellant. In that respect, the present case is on all fours with Service v. Canada.[6] There the Court found that a loan made by the Appellant at no interest to a holding company whose shares were all held by his wife had not been made for the purpose of gaining or producing income, there being no nexus between the shareholder and the operating company. Here too, the Appellant may have had some expectation of receiving some of the profits of the company, had there been any, but he certainly had no right to them. Indeed, he is in a weaker position than the Appellant in Service, who needed only his wife's cooperation in order to gain income from the loan. The Appellant could not secure a distribution from the Trust without the votes of two other trustees in addition to his own. I am not unsympathetic to the position in which the Appellant now finds himself. He passively accepted the corporate structure that his advisors devised for him. It appears that they gave more thought to the consequences of success of the enterprise than to those of its possible failure. The Trust was apparently structured as it was with a view to deciding later where the income, if any, would be directed. However, by doing so they have deprived the Appellant of the opportunity to salvage something from this financial disaster in the form of an allowable business investment loss.
+[8] The appeals are dismissed with costs.
+Signed at Ottawa, Canada, this 6th day of September, 2005.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2005TCC597
+COURT FILE NOS.:
+2001-4406(IT)G
+STYLE OF CAUSE:
+Edward Toews and Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+May 2, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT:
+September 6, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Paul K. Lail
+Counsel for the Respondent:
+Ron D.F. Wilhelm
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Paul K. Lail
+Firm:
+Fritz Lail Shireff & Vickers
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985 c.1 (5th supp.), as amended.
+[2] Paragraph 14 of the Agreed Statement of Facts states that this loan was $152,868.00 at that date. This appears to be a typographic error, but nothing turns on which number is correct.
+[3] See section 39 of the Act.
+[4] See subsection 50(1) of the Act.
+[5] [1999] 2 C.T.C. 149.
+[6] 2004 DTC 3317; affirmed 2005 FCA 163 (CanLII).

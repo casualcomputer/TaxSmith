@@ -1,0 +1,104 @@
+Title: Kaushik v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26806/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-207-26806-kaushik-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-03-23
+
+# Kaushik v. The Queen
+
+- Citation: 2005 TCC 207
+- Decision date: 2005-03-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3486, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kaushik v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-03-23
+Neutral citation
+2005 TCC 207
+File numbers
+2004-1944(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1944(IT)I
+BETWEEN:
+Azad Kumar Kaushik,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 8, 2005, at Kitchener, Ontario
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+April Tate
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeal from the assessment made under the Income Tax Act for the 2002 taxation year is dismissed.
+Signed at Ottawa, Canada, this 23rd day of March 2005.
+“D.G.H. Bowman”
+Bowman, C.J.
+Citation: 2005TCC207
+Date: 20050323
+Docket: 2004-1944(IT)I
+BETWEEN:
+Azad Kumar Kaushik,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] This appeal from an income tax assessment for the 2002 taxation year involves a claim to deduct $1,498.00 in legal fees paid to a lawyer in connection with certain disciplinary proceedings taken against the appellant and $2,440.39 in legal fees incurred to obtain a patent.
+[2] The appellant is a tenured professor of immunology in the Department of Pathobiology at the Ontario Veterinary College in the University of Guelph. A complaint of a very serious nature was made against him by some of his graduate students. If the complaint had been upheld it could have affected his career, his reputation and his professional standing. He fought it vigorously both at the departmental level and the level of the Dean of the Ontario Veterinary College. Numerous letters were written and ultimately the university decided not to proceed with disciplinary action.
+[3] In the course of responding to the complaint, Dr. Kaushik retained the services of counsel, Mr. W. Gerald Punnett of Guelph, Ontario, who advised him with respect to the letters that he wrote to the chairperson of the Department of Pathobiology and the Dean of the Ontario Veterinary College.
+[4] It is the deductibility of the fees paid to Mr. Punnett that are in issue. I commend Dr. Kaushik for bringing this appeal. It involves an important question of principle. Unfortunately I cannot help him. Section 8 of the Income Tax Act sets out certain expenses that are deductible in computing income from employment. Subsection 8(2) provides as follows:
+(2) General limitation. — Except as permitted by this section, no deductions shall be made in computing a taxpayer’s income for a taxation year from an office or employment.
+There is nothing in section 8 that covers expenses of the type involved here which are laid out to protect a professor’s academic reputation. The closest is paragraph 8(1)(b) which reads:
+8. (1) Deductions allowed — In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+. . . . .
+(b) legal expenses of employees — amounts paid by the taxpayer in the year as or on account of legal expenses incurred by the taxpayer to collect or establish a right to salary or wages owed to the taxpayer by the employer or former employer of the taxpayer;
+[5] That provision is of no assistance here. Dr. Kaushik did not retain Mr. Punnett to assist him in collecting salary or wages. He retained him to assist him in defending against an unfounded attack on his professional integrity and competence. Without deciding whether such expenses would be deductible in the context of a business, I cannot find that the payment of the legal fees is deductible in computing employment income.
+[6] I reach this conclusion with some reluctance. The claim to deduct the legal fees is a deserving one but, unfortunately, the law is clear. It is very similar to the claim which I had, reluctantly, to dismiss in Blagdon v. The Queen, 2003 DTC 804. There a Master of a ship had to incur legal fees to defend himself in an accident inquiry. Had the appellant been unsuccessful, he could have lost his Master’s licence. The decision was affirmed by the Federal Court of Appeal 2003 DTC 5491, and followed by Justice Bowie in Blackburn v. The Queen, 2004 DTC 2409.
+[7] The other point in issue is the deductibility of the cost incurred by Dr. Kaushik in obtaining a U.S. patent. It would serve no useful purpose for me to set out in detail a description of the invention or its intended application. The abstract in M.S. Patent No. 6740747 B2 reads as follows:
+ABSTRACT
+The present invention relates to a bovine VDJ cassette (BF1H1) that provides the novel ability to develop chimeric immunoglobulin molecule capable of incorporating both linear T cell epitope(s) (CDR1H and CDR2H) as well as conformational B cell epitope(s) (exceptionally long CDR3H). The antigenized immunoglobulin incoporating both T and B epitopes of interest is especially useful for development of oral vaccines for use in humans apart from other species including cattle. The long CDR3H in BF1H1 VDJ rearrangement originates from long germline D-genes. The novel bovine germline D-genes provide additional opportunities for sustaining the capacity for antibody diversification in cattle essential for immunocompetence via selective breeding strategies that incorporate immunoglobulin gene markers. The novel gene elements, such as D-genes, are unique to cattle and, therefore, are useful in forensic analysis.
+[8] Dr. Kaushik stated that he paid $2,440.39 in 2002 to the firm of patent lawyers Bereskin & Parr to obtain the U.S. patent and that in 2003 and 2004 he paid legal fees of $6,404.85 and $2,374.27 respectively in connection with the Canadian patent application. Initially the University of Guelph, Dr. Kaushik’s employer, owned the patents, evidently because of the employer-employee relationship, but the university assigned the patents to the appellant.
+[9] A patent is, in almost any circumstance that I can think of, a capital asset. The cost of acquiring a patent, whether by application or by purchase, is therefore a capital expenditure. The cost of an unsuccessful patent application is probably an eligible capital expenditure under section 14 of the Act. However, to the extent that such an expenditure is deductible it is deductible in computing income from a business. Here we have a successful patent application which resulted in the acquisition of a capital asset.
+[10] A patent is a Class 14 asset and under Regulation 1100(1)(c) made under the Income Tax Act its cost is deductible over its life. However, it is only deductible in computing income from a business or property. In 2002, 2003 and in 2004, the appellant was not using the patent in a business and he was not licensing the patent to obtain royalties. Accordingly, no capital cost allowance or eligible capital expenditure is deductible in 2002. If at some time in the future Dr. Kaushik starts to use the patent in a business or to earn royalty income from it by licensing it then presumably capital cost allowance will be deductible.
+[11] Accordingly, the appeal is dismissed.
+Signed at Ottawa, Canada, this 23rd day of March, 2005.
+“D.G.H. Bowman”
+Bowman, C.J.
+CITATION: 2005TCC207
+COURT FILE NO.: 2004-1944(IT)I
+STYLE OF CAUSE: Azad Kumar Kaushik and The Queen
+PLACE OF HEARING: Kitchener, Ontario
+DATE OF HEARING: March 8, 2005
+REASONS FOR JUDGEMENT BY: D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT: March 23, 2005
+APPEARANCES:
+For the Appellant::
+The Appellant himself
+Counsel for the Respondent:
+April Tate
+COUNSEL OF RECORD:
+For the :
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

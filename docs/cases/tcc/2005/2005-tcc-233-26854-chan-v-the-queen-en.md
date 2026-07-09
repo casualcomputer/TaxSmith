@@ -1,0 +1,156 @@
+---
+title: "Chan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26854/index.do"
+last_modified: "2005-04-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 233"
+citation2: ""
+neutral_citation: "2005 TCC 233"
+decision_date: "2005-04-11"
+language: "en"
+item_id: "26854"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 660
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:50:47.580000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "86c20925c29cb3b1271b346a2bd05f51c4cdd7b4928add16738066f389a2a098"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chan v. The Queen
+
+- Citation: 2005 TCC 233
+- Decision date: 2005-04-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 660, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-11
+Neutral citation
+2005 TCC 233
+File numbers
+2004-2903(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+2004-2903(IT)I
+BETWEEN:
+DOUGLAS CHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 9, 2004, at Windsor, Ontario,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gatien Fournier and Marie Eve Aubry
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment of tax made under the Income Tax Act for 2002 taxation year is dismissed.
+Signed at Ottawa, Canada, this 11th of April, 2005.
+"E.A. Bowie"
+Bowie J.
+Citation: 2005TCC233
+Date: 20050411
+Docket: 2004-2903(IT)I
+BETWEEN:
+DOUGLAS CHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+BowieJ.
+[1] This appeal is brought from a reassessment of income tax for the taxation year 2002. In his income tax return for that year, the Appellant claimed a deduction from income of $14,000 for child care expenses under section 63 of the Income Tax Act[1] (the Act). Initially the Minister of National Revenue allowed this deduction as claimed when assessing the Appellant. Later he was reassessed to disallow the deduction in its entirety; still later he was reassessed a second time to allow a deduction of $1,700 only. The amount allowed is the fees that Dr. Chan paid to the Montessori School for the younger of his two children. The Minister allowed the Appellant no amount as child care expense in respect of the older child. Although some other issues were explored in the evidence, it is clear that the reason for disallowing any child care expenses for the older child was that, in the Minister's view, the amounts that the Appellant paid in respect of her did not meet the definition of "child care expense" found in subsection 63(3) of the Act, and it is only amounts that come within that definition that may be deducted under subsection (1), unless a saving provision in subsection 63(4) may be invoked in a particular case. The dispute between the parties, put shortly, is whether Dr. Chan may take advantage of subsection (4).
+[2] The relevant words of subsection 63(1) that permit the deduction are:
+... there may be deducted in computing the taxpayer's income for the year such amount as the taxpayer claims not exceeding the total of all amounts each of which is an amount paid, as or on account of child care expenses incurred for services rendered in the year in respect of an eligible child ...
+... est déductible dans le calcul du revenu du contribuable pour l'année le montant qu'il demande, ne dépassant pas le total des montants représentant chacun un montant, au titre des frais de garde d'enfants engagés pour des services rendus au cours de l'année relativement à un enfant admissible du contribuable, ...
+Subsection 63(3) contains a definition of the expression "child care expense", applicable to all of section 63, the relevant part of which reads:
+"child care expense" means an expense incurred in a taxation year for the purpose of providing in Canada, for an eligible child of a taxpayer, child care services ...
+« frais de garde d'enfants » Frais engagés au cours d'une année d'imposition dans le but de faire assurer au Canada la garde de tout enfant admissible du contribuable, en le confiant à des services de garde d'enfants,
+Subsection 63(4) reads:
+63(4) Where in a taxation year a person resides in Canada near the boundary between Canada and the United States and while so resident incurs expenses for child care services that would be child care expenses if
+(a) the definition "child care expense" in subsection (3) were read without reference to the words "in Canada", and
+(b) the reference in paragraph (b) of the definition "child care expense" in subsection (3) to "resident of Canada" were read as "person",
+those expenses (other than expenses paid for a child's attendance at a boarding school or camp outside Canada) shall be deemed to be child care expenses for the purpose of this section if the child care services are provided at a place that is closer to the person's principal place of residence by a reasonably accessible route, having regard to the circumstances, than any place in Canada where such child care services are available and, in respect of those expenses, subsection (1) shall be read without reference to the words "and contains, where the payee is an individual, that individual's Social Insurance Number".
+63(4) Les frais qu'une personne qui réside au Canada, près de la frontière canado-américaine, engage au cours d'une année d'imposition pour des services de garde d'enfants qui seraient des frais de garde d'enfants s'il était fait abstraction des passages « au Canada » à la définition de « frais de garde d'enfants » au paragraphe (3) et « résidant au Canada » à l'alinéa b) de cette définition, sont réputés (sauf s'il s'agit de frais payés pour permettre à un enfant de fréquenter un pensionnat ou une colonie de vacances à l'étranger) constituer des frais de garde d'enfants pour l'application du présent article si les services de garde sont assurés à un endroit situé plus près du lieu principal de résidence de la personne par une route suffisamment accessible, compte tenu des circonstances, que tout autre endroit au Canada où de tels services sont offerts. Pour ce qui est des frais en question, il n'est pas tenu compte, au paragraphe (1), du passage « et portant, lorsque celui-ci est un particulier, le numéro d'assurance sociale de ce particulier » .
+I have added emphasis to the words that give rise to the issue between the parties. Before I deal with the meaning of the statute, however, it is necessary to give some factual context.
+[3] The Appellant and his wife live in the city of Windsor, Ontario, on the border between Canada and the United States. He is a periodontist and she is an orthodontist. They have two daughters. The older one had her fifth birthday and the younger one her second in 2002. They want nothing less than the best possible upbringing and education for their daughters, and their combined family income is such that they can afford to provide that. For that reason their older daughter is enrolled at the Cranbrook School, which is located in Bloomfield Hills, Michigan, in the United States. Cranbrook is an extremely expensive and extremely high quality school, whose aim is to provide the best possible quality of education to the children of those who can afford it, beginning at the age of three and continuing through lower school, middle school and upper school. It occupies a campus of more than 300 acres just outside the city of Detroit. It is replete with streams and lakes, greensward, sports facilities of all kinds, a science museum, an art gallery, and the best of educational facilities. Its early childhood centre has a staff to pupil ratio of approximately five to one. In short, no expense is spared to provide for the education and well-being of every child enrolled there. Given the Appellant's description of the school and its facilities, it is not surprising that the fees for his five-year old daughter to attend senior kindergarten at the Vlasik Family Early Childhood Center at Cranbrook from September 1, 2002 until June 30, 2003 were U$14,290.00, which at the time equated to more than C$22,000.00. The Appellant's younger daughter was not enrolled at Cranbrook during the 2002 year, only because she was not old enough to be admitted. By the time of the hearing of the appeal in December 2004 both children were enrolled there.
+[4] In presenting his case, Dr. Chan made no pretence that child care is not available in the City of Windsor; as I have said, his younger daughter attended the Montessori School there, which is not far from the family home. Indeed, there is a day-care facility on their street. Neither of these, nor any school or day-care in Windsor, approaches either the quality or the cost of Cranbrook, however. It is his position that he is entitled to deduct the cost of sending his daughter to Cranbrook because his situation falls within the literal meaning of the words of subsection 63(4). In particular, he relies on the words "... such child care services ..." that I have emphasized above. He says that the words "child care services" as they appear at the end of subsection (4), because they are modified by the word "such", must be read as referring back to the use of the same words where they first appear in the subsection. The result, he then argues, is that if there are no child care services available in Windsor that are of a standard equal to those child care services that he and his wife chose to engage for their daughter in Michigan, then he is entitled to the benefit of subsection (4) and may deduct the Cranbrook fees.
+[5] The fallacy in Dr. Chan's argument is that the word "such" cannot be read literally to refer back to the child care services where that expression appears earlier, because those child care services are the precise ones for which he has incurred the expense, and they are located in the United States. What Dr. Chan would have it mean is not literally the same services, but services of the same outstanding quality that he can only obtain for his daughter in Michigan. In other words, he would have me read the words "such child care services" to mean "child care services of the same kind and quality". To do so would be to add words to the Act, and that I cannot do.[2]
+[6] Nor does the interpretation that the Appellant proposes accord at all with the purpose of section 63 as a whole, or that of subsection (4). In Symes v. Canada,[3] the Supreme Court of Canada referred to the following extract from the 1969 White Paper on Tax Reform[4] that gave rise to the introduction of section 63 into the Act.
+2.7 We propose to permit deduction of the child care expenses that face many working parents today. The problem of adequately caring for children when both parents are working, or when there is only one parent in the family and she or he is working, is both a personal and a social one. We consider it desirable on social as well as economic grounds to permit a tax deduction for child care expenses, under carefully controlled terms, in addition to the general deduction for children.
+...
+2.9 This new deduction for child care costs would be a major reform. While it is not possible to make an accurate forecast of the number who would benefit from this new deduction, it seems likely to be several hundred thousand families. It would assist many mothers who work or want to work to provide or supplement the family income, but are discouraged by the cost of having their children cared for.
+The object of section 63, then, was to provide, on carefully controlled terms, a deduction that would assist mothers to go to work to supplement the family income. It was never intended to subsidize the well-to-do when they enroll their children in upscale private schools in the United States. Parliament could hardly have intended to provide such a subsidy, and certainly not for only those who reside near the boundary between Canada and the United States, to the exclusion of all those other Canadians who live even an hour or two away. The purpose of subsection (4) is obvious - it is to relieve against the great inconvenience that a few people living in border communities that have no child care facilities would suffer if the requirement that child care facilities must be supplied in Canada to be deductible were applied without exception.
+[7] Having regard to the words of subsection (4) in their context within section 63, and considering also the purpose of both the section as a whole and subsection (4) within it, it is clear that it provides a deduction for the cost of child care in the U.S. only in circumstances where a child care facility is available in the U.S. at less distance from the taxpayer's home than the closest child care facility that is available in Canada. The subsection calls for no comparative analysis of the nature and quality of the child care facilities available in the United States and in Canada. If there is a child care facility in Canada that is closer to the taxpayer's home than the one that the child in fact went to then subsection (4) can have no application. Dr. Chan's argument focused on the word "such" in the English version of the subsection, but I have also considered the French version, and I find no significant difference between them. In either language it would require the addition of several words to the Act to convey the meaning for which the Appellant contends. While this may be thought to render the word "such" ("tel") redundant, it should be regarded simply as a linguistic flourish: see G.S.W. Appliances Limited v. Canada.[5]
+[8] The appeal is dismissed.
+Signed at Ottawa, Canada, this 11th day of April, 2005.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2005TCC233
+COURT FILE NO.:
+2004-2903(IT)I
+STYLE OF CAUSE:
+Douglas Chan and Her Majesty the Queen
+PLACE OF HEARING:
+Windsor, Ontario
+DATES OF HEARING:
+December 9, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT:
+April 11, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gatien Fournier and Marie Eve Aubry
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985 c.1 (5th supp.), as amended.
+[2]
+Friesen v. Canada, [1995] 3 S.C.R. 103 at para. 27.
+[3] [1993] 4 S.C.R. 695.
+[4]
+Proposals for Tax Reform (1969) (E. J. Benson, Minister of Finance).
+[5] 98 DTC 6010, per Linden J.A. at pps. 6012-6013.

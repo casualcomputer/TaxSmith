@@ -1,0 +1,109 @@
+Title: Davis v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26503/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-662-26503-davis-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-10-01
+
+# Davis v. The Queen
+
+- Citation: 2004 TCC 662
+- Decision date: 2004-10-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3251, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Davis v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-01
+Neutral citation
+2004 TCC 662
+File numbers
+2003-4189(GST)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2004TCC662
+Date: 20041001
+Docket: 2003-4189(GST)I
+BETWEEN:
+BRENT DAVIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Edited from the transcript of Reasons for Judgment
+delivered orally July 7, 2004 at Halifax, Nova Scotia)
+Campbell, J.
+[1] This is an appeal from an assessment for goods and services tax/harmonized tax ("GST/HST") arising from adjustments to GST/HST collectible and to input tax credits ("ITCs") claimed, together with penalties and interest in respect to the period January 1, 1999 to December 31, 2000.
+[2] The Appellant is the sole owner and operator of a business called "Mr. D's Small Engine Repair", which repairs lawn and garden equipment and snow blowers. This repair work also included warranty work where local customers would bring in equipment to the Appellant to have repaired and then the Appellant would bill the supplier and manufacturer of the equipment. These manufacturers were sometimes outside of the province and out of the country. In respect to this work the Appellant did not include tax on the out-of-Canada accounts.
+[3] In addition to repair work the business also sold items such as chain saws, trimmers and lawn tractors. These items were left on the business premises by customers and the Appellant for the most part sold the items for these individuals without receipt of any commission for assisting in the sales.
+[4] During the period under appeal, he leased a 1998 Dodge Stratus and owned a Jeep Comanche. The jeep was used 100 percent in the business for deliveries and hauling equipment. The Dodge was used by the Appellant's wife for travelling to and from her work, but was also used to some extent in the business. According to the Appellant's evidence, his vehicle was used for pick-up and delivery of smaller parts, long distance business trips and to make bank deposits and run small errands.
+[5] The Appellant claimed business usage at 92 percent, but the Minister reduced business usage to 15 percent of the time.
+[6] The Appellant maintained one log for both vehicles. He explained that he tracked the total kilometres for both vehicles and at year-end subtracted the Jeep Comanche kilometres, as it was used 100 percent in the business, so that the balance equalled the kilometres used for the Dodge car.
+[7] The Appellant kept two business accounts - one at CIBC and one at the Credit Union. He testified that he received military and DVA pensions and sometimes transferred personal funds to these business accounts to keep the business operating. He did not, however, enter those transactions in his ledger, as he considered it personal. The three amounts relevant to this period were $2,000.00 deposited to CIBC business account on February 25, 2000, $300.00 deposited to the CIBC business account on March 2, 2000 and $200.00 deposited again to the CIBC business account on March 3, 2000. Jacqueline Keating, the appeals officer, testified that the auditor's working papers referred to these three amounts as unidentified deposits, which could not be verified, as the source of these funds could not be determined.
+[8] On January 24, 2000 the Appellant sold a blower belonging to Doug Murdock for $500.00. This amount was deposited to the business account. Before selling it, the Appellant repaired the blower at a cost, including taxes, of $95.00. He did not charge any additional amount for selling this equipment for Doug Murdock. On February 5, 2000 the business issued a cheque to Doug Murdock for the balance being $405.00. He referred to his deposit slip of January 24, 2000 where he deposited $500.00 cash. The $405.00 cheque to Murdock was not properly recorded in the books and cross-referenced.
+[9] I must decide, in this appeal, whether the Appellant is liable for the GST/HST collectible, as calculated by the Minister, and whether the Appellant is entitled to ITCs in excess of the amount the Minister has allowed.
+[10] At the outset, the Appellant pointed out a small error of $21.00 in the deposit totals for July 9, 14 and 20 in the year 1999.
+[11] The Respondent agreed with this error and the resulting error changes the Minister's figures of adjustment to GST/HST collectible from $2,293.00 to $2,272.00. I stand, counsel, to be corrected on that. I had amounts from Wednesday where you had given me a $2,272.00 figure?
+[12] MS. MCINTYRE: I apologize, Madam Justice, I did not bring my notes with me today, but that sounds correct. The $2,271.00 sounds correct, but I am not sure, because I do not have my notes with me.
+[13] MADAM JUSTICE CAMPBELL: I believe it was $21.00, and if that is the case - it is only a dollar, but we might as well get the figures right - that I believe make it $2,272.00 instead of $2,271.00.
+[14] MS. MCINTYRE: That sounds correct.
+[15] MADAM JUSTICE CAMPBELL: As the adjustment to ITCs claimed remain the same, the Minister's figure for net tax becomes - and again it is a change of a dollar there -- $4,598.00 instead of $4,597.00.
+[16] The Respondent's position is that the onus is on the Appellant to disprove the Minister's assessment and that he has not done so, as he has not met the technical requirements and regulations set out in the Act, nor has he kept adequate and proper books and records, again, as required by the Act.
+[17] It is clear that the onus is on the Appellant here. There is no issue of credibility. This case is simply one of sufficient and adequate record keeping.
+[18] The Appellant expressed frustration with the history of acceptability of his accounting methods. He initially hired and paid an accountant to set him up with an acceptable bookkeeping system for the business.
+[19] In an audit completed prior to the present one, the Appellant advised that he was informed by that auditor that his record keeping system was in order. Although I sympathize with the Appellant's comments, I must deal with his appeal with the records as they are presented to me.
+[20] In respect to the claim for ITCs in excess of the amount allowed, Respondent counsel referred me to the decision of Justice McArthur in 1116186 Ontario Inc. v. Canada, [2003] T.C.J. No. 730.
+[21] That case was in respect to ITCs that were denied due to lack of documentary evidence. The transactions were primarily in cash, and the Appellant did not file GST returns. Justice McArthur relied on the comments of Associate Chief Justice Bowman of this Court in Helsi Construction Management Inc. v. Canada, [1997] T.C.J. No. 1194.
+[22] In that case, Justice Bowman concluded that the document requirements referred to in the Regulations are "mandatory", to use his wording, and not "directory".
+[23] I agree with Justice Bowman's conclusions in the Helsi case. Paragraph 169(4)(a) refers to the documentation required to support an ITC claim. Regulation 3 sets out in detail the prescribed information which is necessary to support a claim under that paragraph. These are technical requirements which are clearly set out and referred to in the relevant provisions and Regulations.
+[24] Because of the very specific way in which these provisions are worded, I do not believe they can be sidestepped. They are clearly mandatory and the Appellant has simply not met the technical requirements which the Act and the Regulations place upon him as a member of a self-assessing system.
+[25] I conclude therefore, in respect to this issue, that the Minister properly disallowed ITCs claimed by the Appellant pursuant to subsection 169(1) of the Act.
+[26] The remaining issue relates to the proper calculation of GST/HST. Here I am accepting the Appellant's evidence respecting the three deposits of $2,000.00 on February 25, 2000, $300.00 on March 3, 2000 and $200.00 on March 2, 2000.
+[27] Although the auditor's documentation verified these amounts as deposits on those dates, no source was identified and therefore those amounts were not accepted. The Appellant advised me that he located the three supporting cheques for these amounts only recently, and that they were not available for the auditor's review.
+[28] Respondent counsel agreed, in her summation, that credibility was not at issue. I also agree and therefore accept the Appellant's explanation for these three deposits - that he had to transfer personal funds, at various times, to this business to keep it in operation.
+[29] Similarly, in respect to the $405.00 cheque to Doug Murdock, the Appellant gave a very plausible explanation together with supporting cheque when addressing the $500.00 cash deposit. He lives in a rural area, and as a matter of courtesy, he accommodates customers by selling their items with no remuneration to himself. This is often the case in a rural area where the commercial realities are far removed from those of the more cosmopolitan areas.
+[30] In respect to vehicles, I have no evidence before me that would suggest that the 15 percent usage allocated by the Minister for the second vehicle, the 1998 Dodge, was not reasonable. There is no evidence to suggest it was used beyond the Minister's allocated 15 percent for business purposes. In respect to warranty work performed in Canada for outside companies, it is a taxable supply and HST must be charged.
+[31] The appeal is therefore allowed without costs to permit adjustments to be made to the Minister's calculations for GST/HST collectible based on identification of source of funds for the deposits of $2,000.00, $300.00, $200.00 and $500.00 on February 25, 2000, March 3, 2000, March 2, 2000 and January 24, 2000 respectively. The adjustments shall also reflect an error of $21.00 in the Minister's original calculation of GST/HST collectible.
+Signed at Ottawa, Canada this 1st day of October 2004.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2004TCC662
+COURT FILE NO.:
+2003-4189(GST)I
+STYLE OF CAUSE:
+Brent Davis and
+Her Majesty the Queen
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+July 7, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice
+Diane Campbell
+DATE OF JUDGMENT:
+October 1, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Catherine McIntyre
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+.
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,191 @@
+---
+title: "Kowalczyk c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/344774/index.do"
+last_modified: "2018-09-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 190"
+citation2: ""
+neutral_citation: "2018 CCI 190"
+decision_date: "2018-09-13"
+language: "fr"
+item_id: "344774"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4936
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:45:47.896000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1cdb28c3269b6a1c083c62834e51f5160ecd783b17b2830f4e13ad11c4cf061f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kowalczyk c. La Reine
+
+- Citation: 2018 CCI 190
+- Decision date: 2018-09-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4936, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kowalczyk c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-09-13
+Référence neutre
+2018 CCI 190
+Numéro de dossier
+2018-1827(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-1827(IT)G
+ENTRE :
+BEATA KOWALCZYK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Avocat de l’appelante :
+Me Mieszko Chuchla
+Avocat de l’intimée :
+Me John Bodurtha
+ORDONNANCE
+ATTENDU QUE l’intimée a présenté en vertu de l’article 69 des Règles de la Cour canadienne de l’impôt (procédure générale) une requête visant l’obtention d’une ordonnance portant radiation de l’avis d’appel déposé à la Cour le 18 mai 2018 et permettant à l’appelante de déposer un nouvel avis d’appel conformément aux règles de procédure applicables et permettant à l’intimée de déposer et de signifier une réponse dans les 60 jours suivant la date de signification du nouvel avis d’appel;
+ATTENDU QUE l’avocat de l’appelante s’est opposé à la requête;
+ET VU les observations écrites des parties;
+LA COUR ORDONNE CE QUI SUIT :
+1) l’avis d’appel est radié;
+2) l’appelante peut déposer et signifier un autre nouvel avis d’appel conforme aux Règles au plus tard le 20 novembre 2018;
+3) l’intimée doit déposer et signifier une réponse à l’avis d’appel au plus tard 60 jours après que le nouvel avis d’appel lui aura été signifié;
+4) aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 13e jour de septembre 2018.
+« Gaston Jorré »
+Juge suppléant Jorré
+Traduction certifiée conforme
+ce 10e jour de janvier 2020.
+Erich Klein, réviseur
+Référence : 2018 CCI 190
+Date : 20180913
+Dossier : 2018-1827(IT)G
+ENTRE :
+BEATA KOWALCZYK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge suppléant Jorré
+[1] L’intimée a déposé un avis de requête par écrit visant à faire radier l’avis d’appel en l’espèce, mais permettant à l’appelante de déposer un nouvel avis d’appel et permettant aussi à l’intimée de déposer une réponse dans les 60 jours suivant la date de signification du nouvel avis d’appel. À titre subsidiaire, l’intimée demande que lui soit accordé un délai de 60 jours à partir de la date de l’ordonnance pour signifier et déposer sa réponse.
+[2] Pour situer l’affaire dans son contexte, je fais remarquer ce qui suit. Premièrement, l’appel a initialement été interjeté sous le régime de la procédure informelle. Par la suite, lorsqu’il est venu à la connaissance de l’appelante que le montant en litige était supérieur à la limite établie pour que s’applique la procédure informelle, elle a demandé que l’affaire soit entendue sous le régime de la procédure générale.
+[3] Deuxièmement, quoique l’appelante semble avoir reçu, pour préparer son avis d’appel, l’aide d’une autre personne qui a cosigné l’avis, elle n’a retenu les services d’un avocat que plus tard.
+[4] De façon générale, l’intimée soutient que l’avis d’appel n’est pas conforme aux Règles de la Cour canadienne de l’impôt (procédure générale) parce qu’il n’a pas été établi selon la formule 21(1)a) de celles-ci, qu’il consiste principalement en des arguments, qu’il contient des accusations qui n’ont aucune pertinence relativement à l’instance et qu’il ne révèle aucun motif raisonnable d’appel.
+[5] L’avocat de l’appelante a déposé des observations écrites en date du 16 août 2018 dans lesquelles elle s’oppose à la requête dans ses aspects essentiels. Même si le document est intitulé [traduction] « Affidavit en opposition à la requête », il s’agit clairement d’observations écrites, et non d’un affidavit.
+[6] Une demande directe d’audition de la requête n’est formulée nulle part dans les observations et celles-ci ne donnent pas de raisons pour lesquelles la requête ne peut pas être tranchée sur examen d’observations écrites, quoique la mention, au bas de la deuxième page, de documents ou d’autres éléments de preuve pouvant être utilisés lors de l’audition de la requête laisse penser que l’avocat de l’appelante s’attend à ce qu’une audience soit tenue.
+[7] À supposer que l’avocat de l’appelante ait eu l’intention de demander la tenue d’une audience, je ferais remarquer que l’article 69 est ainsi libellé :
+69 (1) La partie qui dépose un avis de requête peut, au moment du dépôt ou par la suite, présenter une demande écrite pour que la requête soit tranchée sur la base des observations écrites et sans comparution des parties.
+(2) Une copie de la demande et des observations écrites doit être signifiée à toutes les parties visées par l’avis de requête.
+(3) Une partie à qui la requête a été signifiée dispose de vingt jours pour
+a) produire et signifier des observations écrites en opposition à la requête;
+b) déposer et signifier une demande écrite d’audience.
+(4) Lorsque toutes les parties à qui la requête a été signifiée ont donné leur réponse ou que le délai est expiré, la Cour peut
+a) accorder le jugement sans audience;
+b) ordonner la tenue d’une audience;
+c) ordonner le dépôt d’observations écrites.
+[8] Il est clair qu’une fois franchie l’étape prévue au paragraphe (3) de l’article 69, la Cour peut exercer les pouvoirs prévus au paragraphe (4). La tenue d’une audience n’est pas automatiquement requise, même si une partie à qui une demande a été signifiée conformément au paragraphe (2) le demande.
+[9] Les observations écrites de l’appelante énoncent clairement les motifs de son opposition à la requête. Compte tenu de cela et étant donné que l’élément de preuve clé à l’appui de la requête est l’avis d’appel lui-même, je suis convaincu que cette requête peut être tranchée de façon appropriée sans la tenue d’une audience avec ce que cela représenterait en temps additionnel et en coûts additionnels. Mon ordonnance et mes motifs d’ordonnance suivent.
+[10] L’appelante soulève essentiellement quatre objections. En premier lieu, personne ne l’aurait informée qu’un nouvel avis d’appel serait requis ou que l’on s’opposait à l’avis d’appel dans sa forme actuelle. De plus, elle fait remarquer que la Cour a le pouvoir de dispenser de l’observation des Règles. En deuxième lieu, la requête va à l’encontre du mandat de la Cour, qui est « […] d’assurer la résolution équitable sur le fond de chaque instance de la façon la plus expéditive et la moins onéreuse », parce que procéder par voie de requête entraînerait un retard injustifié dans le déroulement de l’instance ainsi que des coûts supplémentaires et injustifiés sous la forme d’un second droit de dépôt à payer. En troisième lieu, le principal objectif de la requête est d’obtenir un délai supplémentaire pour déposer et signifier la réponse, et, en quatrième lieu, les motifs invoqués par l’intimée à l’appui de la requête sont non fondés et ne sont étayés par aucun élément de preuve.
+[11] En ce qui concerne les premier et deuxième points soulevés par l’appelante, je fais remarquer que la Cour n’a pas rendu d’ordonnance dispensant de l’observation des règles applicables aux actes de procédure et qu’à ce stade la requête n’entraînerait pas un retard important. Je fais remarquer en outre que, si la requête était accueillie et que l’appelante était autorisée à déposer un nouvel avis d’appel, elle ne serait pas tenue de payer un second droit de dépôt.
+[12] Certaines des Règles de la Cour concernant la forme des actes de procédure et, plus particulièrement, des avis d’appel sont reproduites ci-dessous :
+21 (1) Toute instance régie par la procédure générale prévue dans la Loi s’introduit par dépôt au greffe d’un acte introductif d’instance établi selon l’une des formules suivantes :
+a) formule 21(1)a) en cas d’appel formé contre une cotisation établie en application de la Loi de l’impôt sur le revenu [...]
+47 (1) Les actes de procédure sont divisés en paragraphes numérotés consécutivement. Dans la mesure du possible, chaque allégation fait l’objet d’un paragraphe distinct.
+(2) Le cas échéant, les détails peuvent être exposés dans un document distinct, annexé à l’acte de procédure.
+48. L’avis d’appel doit se conformer aux formules 21(1)a), d), e) ou f).
+[13] La règle ci-après concernant la radiation des actes de procédure est également pertinente :
+53 (1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+(2) Aucune preuve n’est admissible à l’égard d’une demande présentée en vertu de l’alinéa (1)d).
+(3) [...]
+[14] J’examinerai maintenant le bien-fondé de la requête.
+[15] L’avis d’appel en question est d’environ douze pages et demie, et plusieurs documents y sont joints. Il n’est pas conforme au modèle de la formule 21(1)a). Il n’est pas non plus conforme au paragraphe 47(1) des Règles. Le paragraphe 47(1) est important en ce qu’il est conçu pour permettre le plus possible à la partie adverse d’admettre, de nier ou de ne pas admettre, de façon directe, des allégations de fait prises isolément.
+[16] L’avis d’appel consiste en grande partie en des arguments entremêlés d’allégations de fait. L’avis n’énonce pas clairement les allégations de fait et les questions en litige; il crée souvent de la confusion.
+[17] L’avis d’appel formule également un grand nombre d’allégations concernant la conduite de l’Agence du revenu du Canada. Ces allégations n’ont pas leur place dans l’avis d’appel pour les raisons énoncées ci-après.
+[18] En fin de compte, la question sur laquelle la Cour doit se prononcer est celle du bien-fondé de la cotisation, c.-à-d. qu’elle doit déterminer si le montant d’impôt a été établi correctement ou si un autre montant d’impôt aurait dû être établi. Le rôle de la Cour n’est pas de juger la conduite qu’ont eue les parties pendant la vérification, puisque cette conduite n’a aucune incidence sur le bon montant d’impôt à établir [1] .
+[19] Pour pouvoir répondre à la question de savoir si le montant d’impôt a été établi correctement, ce qui importe, ce sont les faits sous-jacents et le droit applicable. Par exemple, supposons qu’en ce qui concerne le calcul d’un gain réalisé sur la disposition d’un bien, il y ait un différend quant au coût du bien, le ministre ayant tenu pour acquis que ce coût est de 100 $ et l’appelant prétendant qu’il est supérieur, qu’il se chiffre à 200 $. La conduite des parties ne changera pas le coût du bien.
+[20] Bien que je n’accepte pas tous les aspects des observations de l’intimée, l’avis d’appel est plutôt problématique et, dans sa forme actuelle, n’est pas, pour l’essentiel, conforme aux règles applicables aux actes de procédure.
+[21] Je suis convaincu que, dans sa forme actuelle, l’avis d’appel porte souvent à confusion et que cette confusion, conjuguée avec les allégations non pertinentes concernant la conduite et avec le fait de ne pas énoncer clairement les allégations de fait, peut compromettre ou retarder l’audition équitable de l’appel.
+[22] Je suis convaincu également que l’appelante devrait être en mesure de remédier aux déficiences.
+[23] Étant donné la façon dont l’avis d’appel est rédigé, je ne vois pas comment remédier au problème autrement qu’en suivant la suggestion de l’intimée de radier l’avis d’appel dans sa forme actuelle et d’ordonner à l’appelante de déposer un tout nouvel avis d’appel.
+[24] Étant donné que l’appelante est maintenant représentée par un avocat, cela devrait être assez simple.
+[25] L’ordonnance que je rends ne devrait pas retarder indûment l’audience, et, je le répète, il n’y a aucun droit de dépôt additionnel à payer sur dépôt du nouvel avis d’appel.
+[26] Par conséquent, la Cour ordonne ce qui suit :
+l’avis d’appel est radié;
+l’appelante peut déposer et signifier un nouvel avis d’appel conforme aux Règles au plus tard le 20 novembre 2018;
+l’intimée doit déposer et signifier une réponse à l’avis d’appel au plus tard 60 jours après que le nouvel avis d’appel lui aura été signifié.
+[27] Dans les circonstances, aucuns dépens ne seront adjugés [2] .
+Signé à Ottawa, Canada, ce 13e jour de septembre 2018.
+« Gaston Jorré »
+Juge suppléant Jorré
+Traduction certifiée conforme
+ce 10e jour de janvier 2020.
+Erich Klein, réviseur
+RÉFÉRENCE :
+2018 CCI 190
+NO DU DOSSIER DE LA COUR :
+2018-1827(IT)G
+INTITULÉ :
+BEATA KOWALCZYK c. LA REINE
+OBSERVATIONS :
+Dossier de requête comprenant les observations écrites déposé :
+Le 27 juillet 2018
+Observations écrites déposées par l’intimée :
+Dossier renvoyé au juge :
+Le 16 août 2018
+Le 27 août 2018
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Gaston Jorré
+DATE DE L’ORDONNANCE :
+Le 13 septembre 2018
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Mieszko Chuchla
+Avocat de l’intimée :
+Me John Bodurtha
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Mieszko Chuchla
+Cabinet :
+M. Chuchla Law Firm
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Ni les observations ni les actes de procédure déposés ne suggèrent en rien que, d’une manière quelconque, pour des raisons exceptionnelles, la conduite aurait une incidence sur le bon montant d’impôt à établir en l’espèce.
+[2] Les parties voudront peut-être aussi lire le jugement récent rendu par la juge en chef adjointe Lamarre dans l’affaire Olukayode Adebogun c. La Reine, 2018 CCI 181.

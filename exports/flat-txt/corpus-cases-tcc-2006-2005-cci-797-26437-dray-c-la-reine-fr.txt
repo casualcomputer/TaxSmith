@@ -1,0 +1,81 @@
+Title: Dray c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26437/index.do
+Corpus path: corpus/cases/tcc/2006/2005-cci-797-26437-dray-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-01-27
+
+# Dray c. La Reine
+
+- Citation: 2005 CCI 797
+- Decision date: 2006-01-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3188, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dray c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-27
+Référence neutre
+2005 CCI 797
+Numéro de dossier
+2003-18(IT)APP
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI797
+Date : 20060127
+Dossier : 2003-18(IT)APP
+ENTRE :
+DOUG DRAY,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à
+Vancouver (Colombie-Britannique), le 12 mai 2003.)
+Le juge Margeson
+[1] La question dont la Cour est saisie est soulevée au moyen d'une requête. Il s'agit d'une requête faite par le ministre, dans laquelle il demande que l'appel interjeté par l'appelant pour l'année 1997 soit annulé au motif que l'appel est interjeté à l'égard d'une cotisation dite « néant » . Il s'agit d'un concept que les contribuables peuvent avoir de la difficulté à comprendre.
+[2] Les appels dont la Cour canadienne de l'impôt est saisie sont des appels interjetés à l'égard de cotisations. La Loi de l'impôt sur le revenu donne au ministre le droit d'établir des cotisations, mais la Cour ne peut pas établir de cotisations à l'égard de particuliers en fonction de la preuve dont elle dispose. L'appel doit être interjeté à l'égard de la cotisation elle-même.
+[3] Le ministre a déposé un affidavit auquel était jointe une copie de l'avis de nouvelle cotisation. L'affidavit indique qu'il s'agissait d'une cotisation « néant » .
+[4] Lorsque la cotisation établie par le ministre n'exige aucun versement d'impôt, cette cotisation ne peut pas faire l'objet d'un appel. Dans la décision Liampat Holdings Limited v. The Queen, (1995) 96 D.T.C. 6020 (C.F. 1re inst.), à la page 6021, la Cour a soutenu que « selon une jurisprudence abondante, une cotisation "néant" ne peut faire l'objet d'un appel. Dans l'arrêt Okalta Oil Ltd. v. M.N.R., (1955) 55 D.T.C. 1176 (C.S.C.), l'une des premières affaires traitant des cotisations "néant", le juge Fauteux, au nom de la Cour, soulignait que le mot "cotisation" désigne le montant d'impôt réel dont le contribuable est redevable. Si aucun montant n'est réclamé, il n'y a pas de cotisation et, par conséquent, aucun droit d'appel. [...] »
+[5] La Cour a ajouté que « [l]a jurisprudence est claire et, à mon avis, la Cour n'a pas compétence pour examiner la cotisation fiscale "néant" de la demanderesse pour 1982 même si la perte aurait influé sur la détermination subséquente d'une perte. Toutefois, le contribuable a des solutions de rechange. Le paragraphe 152(1.1) prévoit qu'un contribuable peut demander que le ministre détermine le montant de sa perte. » Voici le libellé de ce paragraphe :
+152 (1.1) Lorsque le ministre établit le montant de la perte autre qu'une perte en capital, de la perte en capital nette, de la perte agricole restreinte, de la perte agricole ou de la perte comme commanditaire subie par un contribuable pour une année d'imposition et que le contribuable n'a pas déclaré ce montant comme perte dans sa déclaration de revenu pour cette année, le ministre doit, à la demande du contribuable et avec diligence, déterminer le montant de cette perte et envoyer un avis de détermination à la personne qui a produit la déclaration. »
+[6] La Cour a ajouté que « [s]elon le bulletin d'interprétation IT-512 intitulé Détermination et nouvelle détermination des pertes, cette disposition a été adoptée précisément pour régler les cas où un contribuable n'a pas de droit d'appel en raison d'une cotisation "néant". Je n'ai trouvé aucun délai pour demander une détermination et, dans ses observations écrites, l'avocat de la demanderesse ne m'a pas renvoyé à une telle disposition. En conséquence, la demanderesse ne subira pas injustement un préjudice si je conclus que je n'ai pas compétence pour statuer sur le fond de l'appel de la cotisation de 1982. »
+[7] En l'espèce, à la lumière de la preuve de l'appelant, cette conclusion peut sembler injuste à première vue mais, comme il a été mentionné précédemment, l'appelant ne se trouve pas dépourvu de tout recours. Cependant, la question dont la Cour est saisie aujourd'hui est la question de savoir si l'appelant a le droit d'interjeter appel de la cotisation établie par le ministre.
+[8] La Cour est convaincue que l'appel en question est interjeté à l'égard d'une cotisation « néant » . La loi dit clairement que la Cour n'a pas compétence pour examiner l'appel d'une cotisation « néant » .
+[9] Par conséquent, la Cour devra accueillir la requête du ministre et annuler l'appel, parce qu'il s'agit d'un appel interjeté à l'égard d'une cotisation « néant » .
+Signé à New Glasgow (Nouvelle-Écosse), ce 27e jour de janvier 2006.
+« T.E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 25e jour d'avril 2006.
+Sara Tasset
+RÉFÉRENCE : 2005CCI797
+N º DU DOSSIER DE LA COUR : 2003-18(IT)APP
+INTITULÉ : Doug Dray c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE : Le 12 mai 2003
+MOTIFS DU JUGEMENT : L'honorable juge T.E. Margeson
+DATE DU JUGEMENT : Le 27 janvier 2006
+COMPARUTIONS :
+Pour le requérant :
+Le requérant lui-même
+Avocat de l'intimée :
+Me R. Grewal
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

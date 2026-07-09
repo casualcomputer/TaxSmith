@@ -1,0 +1,150 @@
+---
+title: "Vincent v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30890/index.do"
+last_modified: "2012-07-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 269"
+citation2: ""
+neutral_citation: "2012 TCC 269"
+decision_date: "2012-07-24"
+language: "en"
+item_id: "30890"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7449
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:15:10.711000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9e7b6b443320e89b915d9b6c4453e5da7036ec1b1cec075411b06e8f93265c0e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vincent v. The Queen
+
+- Citation: 2012 TCC 269
+- Decision date: 2012-07-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7449, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vincent v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-07-24
+Neutral citation
+2012 TCC 269
+File numbers
+2011-3395(GST)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-3395(GST)I
+BETWEEN:
+WALTER VINCENT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 22, 2012, at Toronto, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Christian Cheong
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal in relation to the reassessments issued under the Excise Tax Act for the fifteen quarterly reporting periods beginning July 1, 2006 and ending March 31, 2010, is dismissed, without costs.
+Signed at Ottawa, Canada, this 24th day of July, 2012.
+“Wyman W. Webb”
+Webb J.
+Citation: 2012TCC269
+Date: 20120724
+Docket: 2011-3395(GST)I
+BETWEEN:
+WALTER VINCENT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in this appeal is whether the Appellant is entitled to any input tax credits under the Excise Tax Act in excess of the amounts allowed by the Canada Revenue Agency. The Appellant carried on a real estate business. In filing his returns under the Excise Tax Act for the fifteen quarterly reporting periods commencing July 1, 2006 and ending March 31, 2010, the Appellant reported no tax collectible and he claimed input tax credits totalling $18,247.93. As a result of an audit by the Canada Revenue Agency, no change was made to the amount of tax collectible by the Appellant but his input tax credits were reduced by $8,793.42 to a total of $9,454.51.
+[2] The Appellant had property in Saint John, New Brunswick. The Appellant had encountered problems with the City of Saint John which prevented the Appellant from being able to develop the property. The Appellant would make trips from Ontario to New Brunswick every year. The Appellant had not been aware that he could claim input tax credits for the GST/HST he incurred in relation to his business until sometime in 2005 or 2006. In filing his returns under the Excise Tax Act for the reporting periods in issue, the Appellant guessed the amount of GST/HST that he had incurred in the years prior to filing these returns.
+[3] The following is an excerpt from the testimony of the Appellant:
+JUSTICE WEBB: Why do you feel you were entitled to $1,391 for sales taxes for the period ending March 31, 2007?
+THE WITNESS: I tried to even it out. Some payments of GST, or whatever it was, come to $300. That was out of line. In other words, if I took all my costs I had down there -- what is the GST percentage?
+…
+JUSTICE WEBB: But you claimed $1,391. Do you have anything to show how you calculated this amount?
+THE WITNESS: I haven’t hardly any bills.
+JUSTICE WEBB: But do you have anything to show how you came up with this amount?
+THE WITNESS: Just from back taxes, back taxes that I never claimed before.
+JUSTICE WEBB: But do you have anything to show how you came up with that? You claimed $1,391 for the period ending March 31, 2007.
+THE WITNESS: Yes.
+JUSTICE WEBB: Do you have anything to show how you calculated $1,391?
+THE WITNESS: It would have to be something like -- I can go back and try to calculate it. I didn’t have any particular -- I don’t think there is a reference to it. What taxes -- what I did apply for? Was it always $1,300?
+JUSTICE WEBB: No, it varied.
+THE WITNESS: I tried to mix them up. I tried to mix them so they wouldn’t be all the same. Sometimes I would spend more than others, and my costs were $2,000 or $2,500 for the two weeks I was there. I tried to mix them up so that they weren’t all the same. That is all I know.
+JUSTICE WEBB: When we come to the later years, in 2008, 2009 and 2010, larger adjustments were made. Do you have anything to show how you came up with your numbers for those years?
+THE WITNESS: I have nothing. I have difficulty on everything I try to work on because of my eyesight. I have difficulty.
+In September 2006 I didn’t apply for anything, and then I go to $1,991 on March 31. In June I go down to $801, and in September I go to $471. I tried to mix them up. There was no way I could go down there for $471.
+…
+THE WITNESS: That’s all. I estimated it because of the years I had missed before in not applying for GST.
+JUSTICE WEBB: When you say it was just estimated, would that be for all the years we are talking about?
+THE WITNESS: Yes. I just did an estimate for the years I missed when I didn’t even know that I could use that as an expense. I didn’t know that. There’s lots of things I didn’t know.
+[4] Following the testimony of the auditor for the Canada Revenue Agency who explained the adjustments that had been made to the input tax credits that had been claimed by the Appellant, the following exchange took place in relation to the proposed cross-examination of the auditor by the Appellant:
+MR. VINCENT: What I am interested in is whether or not I could use the monies from my -- what do they call that? It is the dollars showing in my account that is supposed to be monies that I had in my account, my losses. It is money that I paid.
+JUSTICE WEBB: The only issue I have right now is under the GST and the amounts you claimed for the GST that you paid out. The only question I have is whether that assessment or reassessment is correct.
+MR. VINCENT: The reassessment? Her assessment?
+JUSTICE WEBB: It is the Canada Revenue Agency’s reassessment of you that reduced the amount of the input tax credits and the amount that you paid out for GST.
+MR. VINCENT: Her assessment is right as far as the taxes that I owed. I am trying to tell you that I tried to –
+JUSTICE WEBB: You are saying that she is correct under the Excise Tax Act?
+MR. VINCENT: She is correct in that she has no choice. She must tell what she can see. What she sees is that there is a lot of tax that should be paid according to the documents that she has. I say that I haven’t got anything to show those documents being anything else but. She is correct. She has come up with some figures that are correct in her documents that I had no way of disputing. I had no way of disputing the amount of documents that she came up with and the dollars that I have lost or stolen or whatever you want to call it. I am just saying that I didn't know if I could use money that I had lost in my business over the years.
+[5] The Appellant’s issue is whether he could use his non-capital losses under the Income Tax Act to reduce his liability under the Excise Tax Act. These are two different statutes. The Income Tax Act is applicable in determining his liability for taxes based on his income and the Excise Tax Act is applicable in determining his liability for net tax (or the amount of his refund) based on the GST/HST collectible (or collected) and the GST/HST payable (or paid) in the course of his commercial activity. The Appellant’s non-capital losses for the purposes of the Income Tax Act are not relevant in determining his liability under the Excise Tax Act.
+[6] Since the Appellant has estimated the GST/HST that he incurred in prior years (and included in filing his returns for the periods under appeal) and has nothing to support the amounts claimed (and actually acknowledged that the auditor for the Canada Revenue Agency was correct), there is no basis to change the amount of input tax credits that have been allowed by the Canada Revenue Agency. The Appellant, since he is not a specified person as defined in subsection 225(4.1) of the Excise Tax Act, did have four years to claim his input tax credits[1]. However, the Appellant would need something more than simply an unsubstantiated estimate of the amount of tax paid (or payable) in the previous four years.
+[7] As a result the Appellant’s appeal in relation to the reassessments issued under the Excise Tax Act for the fifteen quarterly reporting periods beginning July 1, 2006 and ending March 31, 2010, is dismissed, without costs.
+Signed at Ottawa, Canada, this 24th day of July, 2012.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2012TCC269
+COURT FILE NO.: 2011-3395(GST)I
+STYLE OF CAUSE: WALTER VINCENT AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 22, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: July 24, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Christian Cheong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Subsection 225(4) of the Excise Tax Act.

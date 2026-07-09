@@ -1,0 +1,119 @@
+Title: Nolis v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/315546/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-127-315546-nolis-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-06-29
+
+# Nolis v. The Queen
+
+- Citation: 2018 TCC 127
+- Decision date: 2018-06-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4949, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nolis v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-06-29
+Neutral citation
+2018 TCC 127
+File numbers
+2017-3148(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket:2017-3148(IT)I
+BETWEEN:
+CATHY NOLIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 7, 2018, at Toronto, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+Agent for the Appellant:
+Paul Nolis
+Counsel for the Respondent:
+Angelica Buggie
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act (Canada) for the Appellant’s 2013, 2014 and 2015 taxation years is dismissed, without costs.
+Signed at Ottawa, Canada, this 29th day of June 2018.
+“B. Russell”
+Russell J.
+Citation: 2018TCC127
+Date: 20180727
+Docket: 2017-3148(IT)I
+BETWEEN:
+CATHY NOLIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Russell J.
+Introduction:
+[1] The Appellant, Cathy Nolis, has appealed (informal procedure) reassessments made pursuant to the Income Tax Act (Canada) (Act) in respect of each of her 2013, 2014 and 2015 taxation years. In particular the appeals relate to reassessments of an RRSP excess contribution of $14,000 for each of the said taxation years. The total so reassessed for each year, each being for net federal tax, late filing penalty and interest, were (rounded): $1,603 (2013), $1,830 (2014) and $1,666 (2015).
+Background:
+[2] The evidence at hearing, together with unchallenged and or undefeated assumptions of the Minister of National Revenue (Minister) as pleaded in the Respondent’s Reply, establish that the Appellant had been an employee of the Province of Ontario’s Workplace Safety & Insurance Board (WSIB). Upon her retirement in 2013 she received from the WSIB a retiring allowance of $34,172 (rounded). The Minister ascertained that of this amount $14,000 was an eligible portion of the retiring allowance; that is, the Appellant could contribute that portion of the retiring allowance into her registered retirement savings plan (RRSP) - calculated per paragraph 60(j.1) of the Act. The remaining $20,172 was a non-eligible portion of this retiring allowance.
+[3] Further, the Appellant’s 2013 RRSP deduction limit was $14,995. Thus she had total contribution room in her RRSP for 2013 of $28,995 (i.e., $14,000 plus $14,995). Nevertheless, in 2013 she contributed a total of $42,995 to her RRSP, resulting in a $14,000 excess contribution (i.e., $42,995 less $28,995) arising that year.
+[4] In addition the Appellant had not reported her aforementioned 2013 retirement allowance of $34,172 as income in her 2013 return, and the Minister advised the Appellant accordingly by letter dated January 8, 2015. By response letter dated January 18, 2015 the Appellant contested the Minister’s position, although without providing any information to support her differing view.
+[5] As the Appellant had retired, she no longer had any salary or other income includable for purposes of establishing an annual RRSP deduction limit. Thus she had only a zero or nil RRSP deduction limit for each of her 2014 and 2015 taxation years. Neither did the Appellant take steps to withdraw any of this excess contribution (as elaborated upon below) for any of her 2013, 2014 or 2015 taxation years. As a result the $14,000 excess contribution in 2013 could not be accepted in either whole or part as a contribution to the Appellant’s RRSP for either of those two succeeding years. Therefore, the $14,000 excess contribution of 2013 carried forward unabated for each of the Appellant’s 2014 and 2015 taxation years.
+[6] In a letter dated April 27, 2015 to the Appellant from the Minister regarding the 2013 taxation year it was explained that an entire retiring allowance has to be reported as income in two portions - the portion that is an eligible retiring allowance and the remaining portion that would be a non-eligible retiring allowance. It was noted also that the allowed maximum deduction for 2013 was $28,995.
+[7] In a further letter dated August 18, 2016 to the Appellant the Minister informed that for the 2013, 2014 and 2015 years the Appellant may have had excess RRSP contributions that are subject to tax of 1% per month. The Appellant should check her records and advise the Minister of any discrepancy. If no discrepancy then the Appellant must file a T1-OVP return, i.e., “Individual Tax Return for RRSP Excess Contributions”, for each of the three applicable years and pay the tax accordingly. The Minister advised that an option was to leave the excess contribution in the RRSP and continue to pay the monthly 1% tax. If the money is withdrawn then the amount withdrawn is to be reported in a T1 as income for the year in which the withdrawal is made. A further option was, if she was eligible to claim a RRSP deduction, she may withdraw the amount without withholding tax by filing a form T3012A “Tax Deduction Waiver on the Refund of Your Unused RRSP Contributions”.
+[8] The Appellant’s responding letter of August 24, 2016 disputed the Minister’s position but provided no information to support the claim of discrepancies. The Minister on November 24, 2016 in the absence of the requested filing of a T1-OVP form for any of the years in issue, assessed each of those years per subsection 152(7) of the Act (allowing for an assessment not dependent on any return filed by the taxpayer or if no return has been filed) as indicated above.
+[9] At the hearing the Appellant and Paul Nolis (her husband and non-lawyer representative) and Canada Revenue Agency (CRA) officer Raymond Thejo each testified. The Appellant’s case was focused on maintaining that CRA contact with her about these matters was tardy, lacking and even mis-leading. She particularly noted that while her 2013 T1 return had been filed in early 2014, it was not until the Minister’s letter to her of August 18, 2016, i.e. more than two years later, by which time two further taxation year T1 returns had been filed, that the Appellant was made aware there was a problem.
+[10] Mr. Nolis’ summation on behalf of the Appellant was of similar vein, although silent as to any substantive disagreement with the factual and legal bases specifically underlying the appealed reassessments.
+[11] Mr. Nolis toward the end of his submissions expressed some frustration with the process that he and his wife, the Appellant, had gone through. However, the onus was not on CRA to explain to a taxpayer his her or its tax/legal situation; we have in Canada a self-assessment system for tax reporting by which taxpayers have the responsibility to file their required returns and are expected to reliably and knowledgeably do so. Plus, CRA does try to assist with explanation via its website and call-in telephone personnel.
+[12] The Respondent had intended to move to quash the notice of appeal underlying this appeal, but then chose not to do so. Having gone through the hearing, it is my view that the Appellant has not successfully challenged the validity per se of the appealed reassessments. That of course is what the jurisdiction of this Court in respect of the Act is limited to - per section 12 of the Tax Court of Canada Act (Canada). It is well established that perceived or actual conduct, non-conduct and belated conduct by CRA have no bearing upon the validity of assessments.
+Decision/Judgment:
+[13] I conclude that the Appellant has not raised any factual matter or legal argument that defeats the appealed reassessments. In relation again to who bears responsibility for filing tax returns correctly, I note the wording of paragraph 204.3(1)(a) by which Parliament expressly expects a taxpayer to file a T1-OVP return “without notice or demand therefor”. Subsection 204.3(1) provides as follows:
+204.3 (1) Within 90 days after the end of each year after 1975, a taxpayer to whom this Part applies shall
+(a) file with the Minister a return for the year under this Part in prescribed form and containing prescribed information, without notice or demand therefor;
+(b) estimate in the return the amount of tax, if any, payable by the taxpayer under this Part in respect of each month in the year; and
+(c) pay to the Receiver General the amount of tax, if any, payable by the taxpayer under this Part in respect of each month in the year.
+[underlining added]
+[14] The appeal will be dismissed, albeit without costs. Having heard the matter I prefer to render judgment in accordance with the powers of a judge of this Court per subsection 171(1) of the Act rather than now order that the notice of appeal be quashed.
+[15] At the conclusion of the hearing I suggested that the Appellant contemplate a taxpayer relief application per subsection 220(3.1) of the Act for waiver or cancellation by the Minister of penalty and or interest. As also noted, that relief is completely within the discretionary purview of the Minister, and outside the jurisdiction of this Court. No due diligence defence was argued as to the assessed penalty in this matter, which defence in any event was not at least obviously available on the facts of this matter.
+[16] As for relief from the subsection 204.1(2.1) excess contribution tax, subsection 204.1(4) cloaks the Minister, although not this Court, with discretionary authority to waive such tax where the excess was developed through “reasonable error” and that “reasonable steps are being taken to eliminate the excess”. It was not clear that the Appellant had sought to avail herself of this procedure for potential tax relief. Legal advice on any such applications to the Minister for discretionary relief would be advisable.
+This Amended Reasons for Judgment is issued in substitution for the Reasons for Judgment dated June 29th, 2018
+Signed at Ottawa, Canada, this 27th day of July 2018.
+“B. Russell”
+Russell J.
+CITATION:
+2018TCC127
+COURT FILE NO.:
+2017-3148(IT)I
+STYLE OF CAUSE:
+CATHY NOLIS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 7, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+June 29, 2018
+DATE OF AMENDED
+REASONS FOR JUDGMENT: July 27, 2018
+APPEARANCES:
+Agent for the Appellant:
+Paul Nolis
+Counsel for the Respondent:
+Angelica Buggie
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

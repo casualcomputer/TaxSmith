@@ -1,0 +1,158 @@
+---
+title: "Gestion Maryse Benny Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/67366/index.do"
+last_modified: "2014-04-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 89"
+citation2: ""
+neutral_citation: "2014 TCC 89"
+decision_date: "2014-04-07"
+language: "en"
+item_id: "67366"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5318
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:50:42.846000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d79401219ffa6b8aa85d66197767be075c55f22043b19a1ebca4dbd061e43ed1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gestion Maryse Benny Inc. v. M.N.R.
+
+- Citation: 2014 TCC 89
+- Decision date: 2014-04-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5318, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gestion Maryse Benny Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-04-07
+Neutral citation
+2014 TCC 89
+File numbers
+2012-1648(EI)
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2012-1648(EI)
+BETWEEN:
+Gestion Maryse Benny Inc.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 7, 2014, at Montréal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Agent for the appellant:
+Pierre Hardy
+Counsel for the respondent:
+Sara Jahanbakhsh
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act (EIA) is allowed and the decision of the Minister of National Revenue is varied on the basis that Jean-Pierre Aubin was not employed with the appellant within the meaning of paragraph 5(1)(a) of the EIA, during the period from February 1, 2010, to May 15, 2010.
+Signed at Ottawa, Canada, this 7th day of April 2014.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 16th day of May 2014
+Daniela Guglietta, Translator
+Citation: 2014 TCC 89
+Date: 20140407
+Docket: 2012-1648(EI)
+BETWEEN:
+Gestion Maryse Benny Inc.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The appellant is appealing from a decision of the Minister of National Revenue (Minister) whereby he determined that Jean-Pierre Aubin was engaged in insurable employment with the appellant during the period from February 1, 2010, to May 15, 2010, within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (EIA).
+[2] I have heard the testimonies, on behalf of the appellant, of Pierre Hardy, shareholder, director and vice-president of the appellant, and of Nicole Bellemare, supervisor and administrative assistant of the appellant. The respondent had Jean‑Pierre Aubin testify.
+[3] The evidence shows that the appellant is a management corporation which, during the period at issue, operated three rotisserie restaurants, one in Saint‑Jérôme, one in Repentigny and one in Pointe‑aux‑Trembles. Mr. Hardy explained that when the company reached 100 employees, it contacted Emploi-Québec to obtain a grant to hire a human resources director.
+[4] Mr. Aubin, a retiree who had worked as a manager in the banking industry for some thirty years, and who had submitted his curriculum vitae to Emploi-Québec, was referred to the appellant.
+[5] Mr. Aubin stated that he received a call from Mr. Hardy and that they met for an interview, at which Maryse Benny (president of the appellant and Mr. Hardy’s spouse) was also present. They allegedly discussed the company’s human resources management needs (interaction between managers and employees, employee engagement). Mr. Aubin had no experience in food service but, with his knowledge of management, he proposed a game plan. He requested a remuneration of $700 per week, by calculating that he would work 35 hours per week for the business, at a rate of $20 per hour, and his travel expenses ($0.43 per kilometre).
+[6] Mr. Aubin presented an offer of services during his first week of work (Exhibit I-1). In it he explained his mandate (by which he proposed to assume the complete management of human resources), as part of a 12-week contract, based on the above agreed-upon remuneration, upon submission of weekly invoices.
+[7] Mr. Aubin stated that during his mandate, he had met with the managers of the three rotisserie restaurants to develop an assessment method for employees. He set up the meetings together with Ms. Benny and the managers. He organized about five meetings per week. He stated that he spent his days between the three rotisserie restaurants, between approximately 10 a.m. and 5 p.m., every day of the week.
+[8] During this period, the appellant provided him with neither an office, a computer, nor a telephone. He prepared the required documentation, which he transferred onto a USB key at his home, using his own computer. He used the appellant’s photocopier as necessary. He also purportedly attended a union meeting with Ms. Benny regarding a grievance.
+[9] According to the invoices adduced in evidence (Exhibit I-2), he allegedly received gross earnings of $700 per week, in addition to the reimbursement of his travel expenses, for a period of 12 weeks. His contract was apparently extended for three additional weeks (until May 15, 2010), for gross earnings of $500 per week, in addition to his travel expenses. Mr. Aubin reported his income under “Other Income” in his 2010 tax return.
+[10] For the appellant, Mr. Hardy and Ms. Bellemare both explained that they had obtained a grant from Emploi-Québec for the services of Mr. Aubin. According to the grant agreement filed as Exhibit A-1, the appellant received support for human resources management or other consulting mandate so as to be equipped, at the end of the intervention, with tailored and useful management tools to improve the work environment, optimize teamwork and deal with staff turnover. To that end, allowable fees for professional services were expected to total $9,960. From what I understand from the grant agreement and testimony of the appellant’s representatives, the appellant disbursed $9,960 in fees to Mr. Aubin. Emploi-Québec paid that same amount to the appellant at the end of the mandate given to Mr. Aubin on production of a report and invoices sent by Mr. Aubin (referred to as a consultant in the agreement) and proof of payment by the appellant.
+[11] Ms. Bellemare explained that since the amount that had been established in the grant agreement was $9,960, the mandate was extended for a period of three weeks based on remuneration of $500 per week to finalize payment of the grant. Mr. Aubin stated that he then reduced his working time to 25 hours per week.
+[12] Mr. Hardy explained that it was clear for the appellant that Mr. Aubin was being hired as a self-employed worker during the grant period. He stated that Mr. Aubin arranged his work schedule, that he used his own vehicle to travel, that he provided his own computer and his own cellular telephone. Mr. Aubin also acknowledged that his hours of work were not supervised. Ms. Bellemare mentioned that Mr. Aubin had provided reference manuals (a number of binders according to her) which he prepared at his home.
+[13] After the period at issue, the appellant decided to hire Mr. Aubin as human resources director, for the coordination and assessment of employees. A small office was set up for him and a telephone jack was installed. He was provided access to a computer, and provided with a motor vehicle. As of that moment, he was on the payroll. Mr. Aubin explained that from that time onward, he had to become more directly involved in the hiring of employees and become more engaged in the employees’ duties so as to provide a better description of their work. Furthermore, he put in place an inventory method for managers and organized meetings to plan the marketing of products. He agreed to work 40 hours per week.
+[14] According to him, there was no change in supervision during and after the period at issue. He stated that he always worked as a team with Ms. Benny. He admitted, however, that after the period at issue, he had to report his activities and his travel, when he was not asked to do so before.
+Analysis [1] Grimard v. Canada, [2009] F.C.J. No. 167, 2009 FCA 47, at paras. 27 to 35 and para. 43, provides a summary of the distinctions to be made between a contract of employment and a contract for services in Quebec civil law. Thus, article 2085 of the Civil Code of Québec (CCQ) states that, among other things, for a contract of employment to exist, the work must be under the direction or control of an employer. Its equivalent for the contract for services, article 2099 CCQ, requires the lack of any subordination between the contractor and the client in respect of the performance of the contract. Therefore, a contract for services is characterized by a lack of control over the performance of the work. This control must not be confused with the control over quality and result. The CCQ also adds the free choice by the contractor of the means of performing the contract. It is also necessary that the mutual intention of the parties be determined. Nevertheless, the behaviour of the parties in performing the contract must concretely reflect this mutual intention, or else the contract will be characterized on the basis of actual facts.
+[2] Moreover, common law has developed criteria for analyzing the relationship between the parties, that is to say, control, ownership of the tools, chance of profit, risk of loss, and integration of the worker into the business. Said criteria may also be used in characterizing a contract of employment under Quebec civil law. There is no antinomy between the principles established by these two jurisdictions
+[3] Thus, in determining the existence of an employment relationship, one must look for a number of indicia of supervision, such as compulsory attendance at a workplace, the fairly regular assignment of work, imposition of rules of conduct or behaviour, requirement of activity reports, control over the quantity or quality of the work done (Grimard, supra, para. 36).
+[4] Furthermore, in 1392644 Ontario Inc., c.o.b. Connor Homes v. Minister of National Revenue, 2013 FCA 85, at paras. 39 and 40, it was noted that the first step is to ascertain the subjective intent of each party to the relationship. This can be determined by the actual behaviour of each party, such as invoices for services rendered, or certain other items such as registration for goods and services tax (GST) purposes and income tax filings as an independent contractor. The second step is to ascertain whether an objective reality sustains the subjective intent of the parties. It is necessary at this stage to examine the supervision factors noted above so as to determine whether the facts are consistent with the parties’ expressed intention.
+[5] In the present case, it is clear that the appellant’s intention was to hire Mr. Aubin as a self-employed worker during the period at issue. This also appears to be implied by the grant agreement that indicates that it will subsidize the professional fees on production of the invoices of the consultant/self-employed worker, and which also indicates elsewhere that the employees’ salaries are to be paid by the company (Exhibit A-1, 4th page, clause 2.3, and 5th page).
+[6] This intention does not appear as clearly in Mr. Aubin’s testimony. However, he did report his income in the “other income” category on his income tax return because he had not received T-4 slips for employment income. He also was not registered as a self-employed worker for GST purposes. He mentioned that he had taken the job while he was retired, to increase his income. He had worked in the banking industry as a manager for 30 years. He was certainly aware that had he been considered to be an employee from the beginning, the appellant would have had to make all the source deductions, particularly since the appellant had all the accounting in place for all its other employees (about 100 when Mr. Aubin started working for it). I, therefore, consider that Mr. Aubin was well aware that he was not considered to be an employee at the beginning of the three-month period at issue.
+[7] The issue now is to determine the legal relationship between the parties.
+[8] In my view, the appellant demonstrated that the legal relationship was not consistent with an employer-employee relationship. Mr. Aubin stated that he had proposed a game plan and that he drafted his offer of services based on his knowledge of management. He was not subject to any means of performance in respect of his work. He was free to choose the means used to fulfill his contract. Ms. Bellemare noted that Mr. Aubin had provided the appellant with a series of binders, prepared by him at his home, which contained a reference manual for the hiring of employees. He himself stated that he disciplined himself to devote 35 hours of work to the appellant. Thus, he calculated his remuneration based on the number of hours he established for himself at an hourly rate that he deemed reasonable. Because the Emploi-Québec grant was higher, they agreed to extend the mandate granted by three weeks to satisfy the balance of the amount granted. In so doing, his weekly earnings were reduced. Mr. Aubin stated that he had also reduced his hours.
+[9] Mr. Hardy clearly indicated that he did not verify Mr. Aubin’s work schedule. As for Mr. Aubin, he mentioned that he worked with Ms. Benny and the managers to organize meetings with them.
+[10] Moreover, during this period, Mr. Aubin acknowledged that the appellant did not require him to report his travel and activities. However, he was required to do so when he became an employee. Mr. Aubin also himself stated that his work had become more direct from this point on. He had to have knowledge of the employees’ duties, work more hours and produce activity reports. He was also provided with a small office, a computer, a telephone and a motor vehicle.
+[11] In my view, the relationship between the parties changed after the period at issue, when Mr. Aubin was registered as an employee. By providing him with all the tools he did not have before and by requiring a more in-depth knowledge of the company, and therefore, greater involvement on his part, Mr. Aubin was, at that point, integrated into company, under the appellant’s real supervision, which had not been the case during the period at issue.
+[12] I therefore find that Mr. Aubin was not hired pursuant to a contract of service between February 1, 2010, and May 15, 2010.
+[13] The appeal is allowed and the decision of the Minister is varied on the basis that Mr. Aubin was not employed with the appellant within the meaning of paragraph 5(1)(a) of the EIA during this period.
+Signed at Ottawa, Canada, this 7th day of April 2014.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 16th day of May 2014
+Daniela Guglietta, Translator
+CITATION:
+2014 TCC 89
+COURT FILE NO.:
+2012-1648(EI)
+STYLE OF CAUSE:
+Gestion Maryse Benny Inc. v. Minister of National Revenue
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+March 7, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lucie Lamarre
+DATE OF AMENDED JUDGMENT:
+April 7, 2014
+APPEARANCES:
+Agent for the appellant:
+Pierre Hardy
+Counsel for the respondent:
+Sara Jahanbakhsh
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+William F. Pentney
+For the respondent:
+Deputy Attorney General of Canada
+Ottawa, Canada

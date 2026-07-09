@@ -1,0 +1,87 @@
+Title: Leger c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27692/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-103-27692-leger-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-02-12
+
+# Leger c. La Reine
+
+- Citation: 2004 CCI 103
+- Decision date: 2004-02-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 511, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leger c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-02-12
+Référence neutre
+2004 CCI 103
+Numéro de dossier
+2003-1490(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1490(IT)I
+ENTRE :
+CRAIG LEGER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 8 janvier 2004 à Toronto (Ontario).
+Devant : L’honorable juge J. M. Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocates de l’intimée :
+Me Carol Calabrese
+Me Maria Vujnovic
+____________________________________________________________________
+JUGEMENT
+L’appel à l’égard de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est rejeté.
+Signé à Ottawa, Canada, ce 12e jour de février 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 21e jour d’avril 2005.
+Colette Dupuis-Beaulne, traductrice
+Référence : 2004TCC103
+Date : 20040212
+Dossier : 2003-1490(IT)I
+ENTRE :
+CRAIG LEGER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Woods
+[1] Craig Leger interjette appel à l'encontre de la cotisation établie à l’égard d’intérêts sur acomptes provisionnels d’un montant de 191,57 $. Pendant l’année d’imposition 2000, M. Leger a touché des revenus du gouvernement fédéral sur lesquels des retenues à la source auraient dû être effectuées – mais ne l’ont pas été. Si les retenues à la source avaient été effectuées, M. Leger n’aurait pas eu à verser des acomptes provisionnels. M. Leger fait valoir que l’obligation d’effectuer des retenues à la source devrait l’emporter sur les dispositions relatives aux acomptes provisionnels et que les versements d’acomptes provisionnels ne devraient pas être obligatoires dans les circonstances.
+[2] Le revenu qui fait l’objet du litige provient de diverses prestations reçues du gouvernement fédéral, comme des prestations du Régime de pensions du Canada et de la Sécurité de la vieillesse. La Couronne admet que le gouvernement fédéral devait, en vertu de la Loi de l’impôt sur le revenu, effectuer des retenues à la source à l’égard de ces paiements et qu’il ne l’a pas fait pendant les années d’imposition pertinentes. Toutefois, la Couronne fait valoir que les dispositions relatives aux acomptes provisionnels sont claires et que des acomptes provisionnels doivent être versés dans les circonstances.
+Analyse
+[3] Les particuliers doivent verser des acomptes provisionnels conformément au paragraphe 156(1) de la Loi. Le défaut de verser des acomptes provisionnels au plus tard à la date limite donne lieu à l’imposition d’intérêts sur acomptes provisionnels en vertu du paragraphe 161(2).
+[4] Les particuliers sont généralement tenus de verser des acomptes provisionnels, à moins que l’impôt à payer, après déduction de l’impôt déduit ou retenu, ne dépasse pas 2 000 $ pour l’année d’imposition pertinente ou pour chacune des deux années d’imposition précédentes. Les dispositions pertinentes sont l’alinéa 156.1(2)b) et la définition de l’expression « impôt net à payer » donnée au paragraphe 156.1(1). Selon ces dispositions, les acomptes provisionnels peuvent être réduits en fonction des retenues à la source, mais seulement si l’impôt a réellement été déduit ou retenu.
+[5] Dans le cas présent, la Couronne admet que M. Leger n’aurait pas eu besoin de verser d’acomptes provisionnels si le gouvernement fédéral avait effectué les retenues à la source. Malheureusement, les retenues n’avaient pas été effectuées, et en conséquence, les acomptes provisionnels devaient manifestement être versés.
+[6] M. Leger a fait savoir que sa principale préoccupation a trait à l’obligation de verser des acomptes provisionnels alors qu’aucun acompte provisionnel ne devrait être nécessaire. Il soutient que l’obligation du gouvernement fédéral d’effectuer des retenues à la source devrait l’emporter sur les dispositions relatives aux acomptes provisionnels qui s’appliquent aux particuliers. Ses arguments éloquents étaient fondés sur un historique de l’imposition et des retenues à la source remontant jusqu’à l’époque de Napoléon.
+[7] Malgré ma sympathie envers tout particulier qui doit composer avec la complexité des acomptes provisionnels, je ne crois pas qu’il existe un conflit entre les dispositions régissant les retenues à la source et les dispositions régissant les acomptes provisionnels. Les dispositions régissant les acomptes provisionnels sont claires et, malheureusement, M. Leger ne les a pas respectées.
+[8] L’appel est ainsi réglé, mais j’aimerais tout de même signaler qu’au cours de l’audience, M. Leger a exprimé beaucoup de frustration à l’égard de la façon dont l’Agence des douanes et du revenu du Canada a traité son cas. M. Leger a fait savoir que, la première fois où il a reçu un avis concernant les acomptes provisionnels, il a demandé à l’ADRC si les prestations reçues du gouvernement fédéral devaient être assujetties à des retenues à la source. Selon M. Leger, l’ADRC n’a pas tenu compte de sa question, lui répondant seulement qu’il devait verser des acomptes provisionnels. La frustration ressentie par M. Leger s’est sans doute accrue au cours du processus d’appel, parce M. Leger a posé la question de nouveau dans l’avis d’appel, et, encore une fois, la réponse du ministre n’en tenait pas compte. L’avis d’appel avait été préparé par M. Leger avec le plus grand soin, et il est dommage que la question de celui-ci soit restée sans réponse, même si elle ne se rapportait pas directement à la cotisation.
+[9] Pendant l’audience, les avocates de la Couronne ont finalement répondu à la question et ont admis que le gouvernement aurait dû effectuer les retenues à la source à l’égard des paiements en question et qu’il ne l’a pas fait pour les années d’imposition pertinentes. On peut se demander si l’appel aurait pu être évité si l’ADRC avait répondu à la question plus tôt dans le processus.
+[10] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 12e jour de février 2004.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 21e jour d’avril 2005.
+Colette Dupuis-Beaulne, traductrice

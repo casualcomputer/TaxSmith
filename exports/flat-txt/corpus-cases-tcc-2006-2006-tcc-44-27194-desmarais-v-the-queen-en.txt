@@ -1,0 +1,502 @@
+Title: Desmarais v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27194/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-44-27194-desmarais-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-02-16
+
+# Desmarais v. The Queen
+
+- Citation: 2006 TCC 44
+- Decision date: 2006-02-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 997, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desmarais v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-02-16
+Neutral citation
+2006 TCC 44
+File numbers
+2003-2952(IT)G
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2952(IT)G
+BETWEEN:
+CLAUDE DESMARAIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeals heard on September 7, 2005, at Montreal (Quebec).
+Before: The Honourable Judge Pierre Archambault
+Appearances:
+Counsel for the Appellant:
+Serge Fournier
+Counsel for the Respondent:
+Richard Gobeil
+Justine Malone
+______________________________________________________________________________
+JUDGMENT
+The appeals from the assessments issued under the Income Tax Act for the 1997 and 1998 taxation years are dismissed, with costs to the Respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of February 2006.
+__________ "Pierre Archambault" __________
+Archambault J
+Translation certified true
+On this 22nd day of March, 2006.
+Garth McLeod, Translator
+Citation: 2006TCC44
+Date: 20060216
+Docket: 2003-2952(IT)G
+BETWEEN:
+CLAUDE DESMARAIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+REASONS FOR JUDGMENT
+Archambault J
+[1] Claude Desmarais is appealing from income tax assessments issued by the Minister of National Revenue (the Minister) in respect of the 1997 and 1998 taxation years.[1] The Minister included in Mr. Desmarais' income for these taxation years taxable dividends of $112,463 and $41,236 respectively, in accordance with section 245 of the Income Tax Act (the Act).[2]
+[2] According to the Minister, the taxation of these amounts as dividends was a tax consequence determined as reasonable in order to deny the tax benefit resulting from a series of avoidance transactions including the redemption of shares by 6311. The following is the statement made by counsel for the Respondents in paragraph 1 of his written submissions:
+[TRANSLATION]
+As of June 30, 1996, the Appellant was a shareholder of two companies[3] including one that he controlled with his brother that held substantial surpluses. Following a series of transactions that did not have a genuine commercial purpose, the Appellant withdrew $123,000 free of tax from this company. By creating high paid-up capital and by converting what would otherwise have been a taxable dividend of the company into a return of capital, the Appellant appropriated these surpluses free of tax.
+Factual background
+[3] The great majority of the facts do not pose problems in these appeals. In fact, counsel for Mr. Desmarais admitted all the following facts that were assumed by the Minister in issuing the assessment and stated in paragraph 17 of the reply to the notice of appeal, except for those in paragraph (j) and paragraphs (u) to (y):
+[TRANSLATION]
+(a) Comsercom is a taxable Canadian corporation whose share capital consisted until December 10, 1996 of 42 common shares divided among seven shareholders who were not related, including the Appellant;
+(b) the paid-up capital of the 42 common shares of Comsercom was $420;
+(c) until December 13, 1996, the Appellant held 14.28% of the common shares of Comsercom, namely 6 common shares;
+(d) on December 11, 1996, Comsercom amended its share capital at the request of the Appellant or his representatives in order to subdivide the 42 common shares into 420 common shares;
+9044-6311 Québec Inc
+(e) on December 11, 1996, [6311] was incorporated;
+(f) the share capital of [6311] consisted of 100 common shares with a total paid-up capital of $100;
+(g) at all times relevant to the dispute, the Appellant held all the shares issued and outstanding of [6311];
+(h) on December 13, 1996, the Appellant transferred 41 of his 60 common shares of Comsercom, namely 9.76 % of the common shares of Comsercom, to [6311] by means of a rollover under subsection 85(1) of the Income Tax Act ("the Act");
+0 the agreed amount in respect of the 41 shares was $123,000 and the adjusted cost base was $41;
+0 in consideration of the transfer described above, the Appellant received 123,000 class D preferred shares of [6311];
+0 the cash surrender value, cost and paid-up capital of the 123,000 class D preferred shares was $123,000, or $1 per share;
+(i) the Appellant reported a taxable capital gain of $92,219[4] for the 1996 taxation year and claimed a deduction under section 110.6 of the Act;
+(j) the transfer of the common shares of Comsercom was limited to 9.76%[5] in order to circumvent the application of the provisions of section 84.1 of the Act;
+(k) starting on December 13, 1996 and at all subsequent times relevant to the dispute, the Appellant held 19 common shares of Comsercom, or 4.52% of its shares;
+Gestion A.C.D. Inc.
+(l) Gestion is a taxable Canadian corporation whose share capital until June 30, 1996consisted of 1,000 class A shares and 1,000 class B shares;
+(m) until January 6, 1997, the Appellant and his brother, André Desmarais, held equally all the shares of Gestion that were issued and outstanding;[6]
+(n) between June 30, 1996 and January 6, 1997,[7] the shareholders of Gestion exchanged their 2,000 class A and Class B shares for 557 class A shares, 557 class B shares, 443 class C shares and 443 class D shares;
+(o) on January 6, 1997, the Appellant transferred 557 class B shares of Gestion to [6311] by means of a rollover in accordance with subsection 85(1) of the Act;
+0 the agreed amount for the 557 shares was $557 and the adjusted cost base was $557;
+0 in consideration of the transfer of 557 class B shares of Gestion, the Appellant received 520,795 class F preferred shares of [6311] with a redemption value of $520,795 and paid-up capital of $557;[8]
+(p) on March 31, 1997, the Appellant transferred 443 class D shares of Gestion to [6311] by means of a rollover in accordance with subsection 85(1) of the Act;
+0 the agreed amount for the 443 shares was $208,019 and the adjusted cost base was $443;
+0 the Appellant claimed a capital gains deduction in accordance with section 110.6 of the Act in respect of the capital gain resulting from the transfer described above;
+0 in consideration of the transfer of 443 class D shares of Gestion, the Appellant received 414,205 class E preferred shares of [6311] with a redemption value of $414,205 and paid-up capital of $443;[9]
+Redemptions by [6311]
+(q) on January 6, 1997, [6311] redeemed 90,000 class D preferred shares held by the Appellant for consideration of $90,000 in cash;[10]
+(r) on January 5, 1998, [6311] redeemed 33,000 of the remaining class D preferred shares held by the Appellant for consideration of $33,000 in cash;[11]
+(s) the Appellant dealt with the redemptions on January 6, 1997 and January 5, 1998 as follows for tax purposes:
+1997
+1998
+Amount paid on redemption
+$90,000
+$33,000
+Minus paid-up capital
+($90,000)
+($33,000)
+Deemed dividend
+$-
+$-
+Proceeds of disposition
+$90,000
+$33,000
+Minus deemed dividend
+($-)
+($-)
+Revised proceeds of disposition under s. 54
+$90,000
+$33,000
+Minus adjusted cost base
+$90,000
+$33,000
+Capital gain
+$-
+$-
+(t) during the financial years ending May 31, 1997 and May 31, 1998, [6311] received dividends from Gestion in the amounts of $306,497 and $171,906 respectively;
+(u) the dividends received from Gestion financed the redemption of the preferred shares of [6311];
+(v) the following transactions were part of a series of avoidance operations from which a tax benefit arose, directly or indirectly:
+§ the incorporation of [6311];
+§ the reorganization of capital carried out by Comsercom;
+§ the transfer of 9.76% of the shares of Comsercom held by the Appellant to [6311];
+§ the reorganization of capital carried out by Gestion;
+§ the transfer of the shares of Gestion to [6311];
+§ the dividends paid to [6311] by Gestion; and
+§ the redemption of the shares by [6311];
+(w) the tax benefit resulting from these transactions was the tax saving on the Appellant's appropriation of funds of Gestion;
+(x) the transactions described in paragraph (v) above were not concluded primarily for genuine purposes;
+(y) the transactions involved directly or indirectly an abuse in the application of the provisions of the Act read as a whole by permitting the Appellant to appropriate funds free of tax from the companies of which he was a shareholder.
+[4] Only Mr. Desmarais and his tax expert in the accounting firm of Samson Bélair testified at the hearing. Mr. Desmarais described the circumstances surrounding the creation of 6311, to which he transferred his shares of Gestion and Comsercom. Gestion held a substantial share of a partnership that operated an insurance brokerage. The arrival of new partners in this partnership generated substantial liquid assets for Gestion. According to Mr. Desmarais, he and his brother, who held all the shares of Gestion, did not have the same investment objectives for these liquid assets. Furthermore, his brother did not appreciate the investment advisors of whom Mr. Desmarais made use. Consequently, it was decided that it would be in the interests of both brothers to separate their share of the liquid assets of Gestion and, on the advice of Samson Bélair and, in particular, the tax experts in that firm, it was decided that Claude Desmarais would transfer the shares of Gestion that he held to another holding company, 6311, and that his brother André would transfer his to another new holding company, 9044-6295 Québec Inc.
+[5] During his testimony, the tax expert from Samson Bélair described some of the tax aspects of this reorganization. In particular, he spoke about the interest of the Desmarais brothers in "crystallizing" their right to what is commonly called the capital gain "exemption",[12] which they could enjoy with respect to their shares of Gestion and, in the case of Claude Desmarais, with respect to his shares of Comsercom. The latter corporation, established in 1977, operated a residence for seniors. It was a corporation that carried on business actively and whose shares might benefit from the advantageous system of the capital gain exemption. According to Mr. Desmarais, the creation of 6311 allowed him to achieve his objective of placing all his investments in his holding company.
+[6] However, this objective could not be achieved in respect of all his Comsercom shares since the tax expert had seen an opportunity to convert into cash the latent capital gain exemption on the Comsercom shares held by Mr. Desmarais, that is to [TRANSLATION] "act as though they were selling these shares to third parties". On his cross-examination, the tax expert acknowledged that he knew that if 10% or less of the Comsercom shares were transferred to 6311, it would be possible to avoid being required, as under the rule in section 84.1 of the Act, to limit the paid-up capital of the shares issued by 6311 to the amount of the paid-up capital of the shares of Comsercom that Mr. Desmarais transferred to 6311. By acting in this way, Mr. Desmarais could withdraw $123,000 from 6311 free of tax. This was why Mr. Desmarais transferred only 41 common shares of Comsercom, that is 9.76% of all the common shares of the corporation, which, following the transfer, was not connected with 6311 because 6311 held less than 10% of the voting shares, which accounted for less than 10% of the fair market value of all the shares of Comsercom. The tax expert asserted that he could not provide information concerning the redemption of the 123,000 class D shares by 6311 because it was his partner auditor, and not he, who was responsible for this transaction. However, he knew that the redemption price of these shares was equal to their paid-up capital and their adjusted cost base.
+[7] As far as Mr. Desmarais was concerned, he acknowledged that the redemption of the 123,000 class D shares was part of the plan to reorganize his investments and that this had been suggested to him by Samson Bélair. He believed that this redemption was in accordance with the provisions of the Act. He also acknowledged that the transfer of the Comsercom shares to 6311 had been completed "while they were at it". According to him, this transfer would enable him to better manage the dividends that Comsercom might distribute to him. However, he stated that the policy of this corporation was first to repay its debts. Its financial statements indicated that a substantial expansion occurred during the financial year ending June 30, 1996. The cost of the work done and the acquisitions made by Comsercom for this expansion amounted to $1,698,600 in 1996 and to more than $219,000 in 1997. Long-term debt increased by $1,044,259 in 1996 and by $242,164 in 1997 and totalled $2,902,643 at the end of the 1997 financial year.[13] Finally, an analysis of the financial statements of Comsercom for the financial years from 1995 to 1999 indicates that no dividend was paid for the financial years from 1996 to 1998.[14] A capital dividend of $128,058 was paid during the 1995 financial year and a regular dividend of $35,000 was paid in the 1999 financial year. The share of this dividend paid to 6311 accordingly amounted to $3,416 ($35,000 x 9.76%).[15]
+[8] During the 1999 financial year, 6311 redeemed 80,000 class F shares for the sum of $80,000.
+[9] An analysis of the income tax returns[16] of 6311 for the years from 1997 to 2001 (except for 2000, which was not filed) provides us with the following information concerning the dividends it received:
+Dividends received by 6311
+Source of dividends
+1997
+1998
+1999
+2000
+2001
+TOTAL
+Gestion
+306,497
+171,906
+122,000
+600,403
+Comsercom
+0
+0
+0
+3,416[17]
+3,416
+Lévesque Beaubien
+1,461
+1,488
+2,949
+V.M. Desjardins
+405
+1,228
+1,633
+219
+219
+TOTAL
+306,497
+173,772
+124,935
+n/a
+15,847[18]
+621,051
+[10] Although counsel for Mr. Desmarais denied paragraph (u) of the reply to the notice of appeal, which states that the dividends received from Gestion by 6311 financed its redemptions in 1997 and 1998 of the 123,000 class D shares held by Mr. Desmarais, he did not adduce evidence to contradict this fact. On the contrary, the joint books of documents fully establish this.
+[11] First of all, an analysis of the dividends received by 6311 and shown in the table above create a strong inference that it was the dividends paid by Gestion that enabled 6311 to redeem its 123,000 class D shares. One thing is clear: it was not the dividends paid by Comsercom that made possible the redemption of the 90,000 class D shares on January 6, 1997 and the remaining 33,000 class D shares on January 5, 1998. There is more, however. An analysis of the accounting records of 6311, including the adjusting entries made by the accountants, clearly shows that it was the dividends paid by Gestion that enabled 6311 to pay the cost of redeeming these 123,000 class D shares.
+[12] Contrary to what is stated in the written resolutions of the sole director of 6311 dated January 6, 1997 (tab 25), the $90,000 for the redemption of the 90,000 class D shares held by Claude Desmarais was not paid [TRANSLATION] "by the issuance of a cheque by the Company to Claude Desmarais". With respect to this redemption, we find among the accounting documents of 6311 an analysis of the transactions of 6311 at the Caisse populaire St-Thomas d'Aquin (tab 34) as well as the adjusting entries carried forward (tab 35). This analysis shows that, of the total redemption price of $90,000, the sum of $89,137 was paid to Mr. Desmarais in two manual transfers and by a withdrawal at the counter, and not by cheque. The unpaid balance of the redemption price is found in the shareholder loans account.
+[13] The following table contains information concerning the dates on which the dividends received by 6311 from Gestion were deposited and concerning payment of the redemption price by 6311 to Mr. Desmarais:
+Correlation between dividends received from Gestion
+and payment for redemption by 6311[19]
+Dates
+of deposits or
+withdrawals
+Method or source
+of payment
+Dividends
+received from Gestion
+Redemption price paid to Claude D
+Feb. 28, 1997
+Gestion
+12,000
+Feb. 28, 1997
+Manual transfer
+12,000
+April 3, 1997
+Gestion
+55,000
+April 4, 1997
+Manual transfer
+50,000
+April 15, 1997
+Gestion
+26,200
+April 25, 1997
+Withdrawal at counter
+27,137
+TOTAL
+93,200
+89,137
+[14] Concerning the redemption of the remaining 33,000 class D shares by 6311 on January 5, 1998, a similar finding must be made. In fact, contrary to what is stated in the resolution dated January 5, 1998 concerning the redemption of these shares (tab 36), not only was payment not made by cheque but the payment of the redemption price was made prior to the date of the resolution of the board of directors. An analysis of the accounting documents, including the "Caisse populaire St-Thomas d'Aquin Transaction" document (tab 37) and the adjusting entries carried forward (tab 38) provide the following information:
+Correlation between dividends received from Gestion
+and payment for redemption by 6311[20]
+Date
+Dividends
+received from Gestion
+Redemption price*
+paid to Claude D
+June 1997
+3,500
+August 1997
+56,275
+35,000
+10,000
+October 1997
+10,000
+February 1998
+7,500
+7,500
+April 1998
+108,130
+12,000
+TOTAL
+171,905
+78,000
+* of the 33,000 class D shares and the 45,000 class F shares
+Analysis
+[15] The Minister's assessments were based on section 245 of the Act, which provides:
+245(1) [General anti-avoidance rule - GAAR] - In this section,
+"tax benefit" means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act, and includes a reduction, avoidance or deferral of tax or other amount that would be payable under this Act but for a tax treaty or an increase in a refund of tax or other amount under this Act as a result of a tax treaty;
+"tax consequences" to a person means the amount of income, taxable income, or taxable income earned in Canada of the person, tax or other amount payable by or refundable to the person under this Act, or any other amount that is relevant for the purposes of computing that amount;
+"transaction" includes an arrangement or event.
+245(2) General anti-avoidance provision - [GAAR] - Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that includes that transaction.
+245(3) Avoidance transaction - An avoidance transaction means any transaction
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+245(4) Where s. (2) does not apply - Subsection (2) applies to a transaction only if it may reasonably be considered that the transaction
+(a) would, if this Act were read without reference to this section, result directly or indirectly in a misuse of the provisions of any one or more of
+(i) this Act,
+(ii) the Income Tax Regulations,
+(iii) the Income Tax Application Rules,
+(iv) a tax treaty, or
+(v) any other enactment that is relevant in computing tax or any other amount payable by or refundable to a person under this Act or in determining any amount that is relevant for the purposes of that computation; or
+(b) would result directly or indirectly in an abuse having regard to those provisions, other than this section, read as a whole.[21]
+245(5) Determination of tax consequences - Without restricting the generality of subsection (2), and notwithstanding any other enactment,
+(a) any deduction, exemption or exclusion in computing income, taxable income, taxable income earned in Canada or tax payable or any part thereof may be allowed or disallowed in whole or in part,
+(b) any such deduction, exemption or exclusion, any income, loss or other amount or part thereof may be allocated to any person,
+(c) the nature of any payment or other amount may be recharacterized, and
+(d) the tax effects that would otherwise result from the application of other provisions of this Act may be ignored,
+in determining the tax consequences to a person as is reasonable in the circumstances in order to deny a tax benefit that would, but for this section, result, directly or indirectly, from an avoidance transaction.
+[Emphasis added.]
+[16] The enactment of this section in 1988 led to the flow of a great deal of ink in writings concerning its scope and its interpretation. This Court and the Federal Court of Appeal have on several occasions had to express an opinion on the application of this section. Only recently, on October 19, 2005, the Supreme Court of Canada rendered two important decisions clarifying the approach to be taken by this Court in applying section 245. The decisions were Canada Trustco Mortgage Co. v. Canada, [2005] S.C.J. No. 56 (QL), 2005 CarswellNat 3213, 2005 SCC 54 (Trustco), and Mathew v. Canada, [2005] S.C.J. No. 55 (QL), 2005 CarswellNat 3215, 2005 SCC 55. In paragraph 66 of Trustco, the Supreme Court briefly summarized this approach:
+66. The approach to s. 245 of the Income Tax Act may be summarized as follows.
+1. Three requirements must be established to permit application of the GAAR:
+(1) a tax benefit resulting from a transaction or part of a series of transactions (s. 245(1) and (2));
+(2) that the transaction is an avoidance transaction in the sense that it cannot be said to have been reasonably undertaken or arranged primarily for a bona fide purpose other than to obtain a tax benefit; and
+(3) that there was abusive tax avoidance in the sense that it cannot be reasonably concluded that a tax benefit would be consistent with the object, spirit or purpose of the provisions relied upon by the taxpayer.
+2. The burden is on the taxpayer to refute (1) and (2), and on the Minister to establish (3).[22]
+3. If the existence of abusive tax avoidance is unclear, the benefit of the doubt goes to the taxpayer.
+4. The courts proceed by conducting a unified textual, contextual and purposive analysis of the provisions giving rise to the tax benefit in order to determine why they were put in place and why the benefit was conferred. The goal is to arrive at a purposive interpretation that is harmonious with the provisions of the Act that confer the tax benefit, read in the context of the whole Act.
+5. Whether the transactions were motivated by any economic, commercial, family or other non-tax purpose may form part of the factual context that the courts may consider in the analysis of abusive tax avoidance allegations under s. 245(4). However, any finding in this respect would form only one part of the underlying facts of a case, and would be insufficient by itself to establish abusive tax avoidance. The central issue is the proper interpretation of the relevant provisions in light of their context and purpose.
+6. Abusive tax avoidance may be found where the relationships and transactions as expressed in the relevant documentation lack a proper basis relative to the object, spirit or purpose of the provisions that are purported to confer the tax benefit, or where they are wholly dissimilar to the relationships or transactions that are contemplated by the provisions.
+7. Where the Tax Court judge has proceeded on a proper construction of the provisions of the Income Tax Act and on findings supported by the evidence, appellate tribunals should not interfere, absent a palpable and overriding error.
+[Emphasis added.]
+[17] Here, counsel for Mr. Desmarais attempted to establish that the first two conditions did not exist. He maintained that there was no tax benefit because, according to him, Mr. Desmarais had "taxed himself" by including in computing his income the amount of the taxable capital gain resulting from the transfer of the 41 shares of Comsercom to 6311. Counsel did not go into very much detail on the question of the benefit constituted by the right to deduct, under section 110.6 of the Act, an amount equivalent to that of the taxable capital gain that Mr. Desmarais included in his income following the transfer of his shares. In my judgment, this assertion of counsel that his client taxed himself does not reflect reality. It is more accurate to say that, by claiming the deduction granted by section 110.6 of the Act, Mr. Desmarais enjoyed an exemption in respect of the capital gain rather than being subject to tax. It is true, however, that the taxable capital gain was included in his income but he then deducted it in computing his taxable income.
+[18] As far as counsel for the Respondent were concerned, the tax benefit to which they referred was the stripping of the surpluses of Gestion which could be distributed to Mr. Desmarais free of tax through 6311, when the 123,000 class D shares were redeemed. In their view, the series of avoidance transactions that made it possible to obtain such a tax benefit included the transfer of the 41 shares of Comsercom, in respect of which the taxable capital gain was exempt by the effect of section 110.6 of the Act. The stripping was achieved by the payment of dividends by Gestion to 6311 - a payment that, thanks to section 112 of the Act, occurred free of tax - and by the use of the surpluses in question to redeem, free of tax - since the redemption price was equal to the paid up capital and the adjusted cost base - the 123,000 class D shares held by Mr. Desmarais.
+[19] We should note that a tax benefit is defined as consisting of any avoidance or deferral of tax and it must be noted that the surpluses of Gestion were in fact paid to Mr. Desmarais by 6311 free of tax. This tax benefit resulted from a series of transactions of which the transfer of the 41 Comsercom shares to 6311 by Mr. Desmarais and the redemption of the 123,000 class D shares by 6311 were part. As the Supreme Court of Canada has stated, when it must be determined whether a tax benefit exists, "it may be that the existence of a tax benefit can only be established by comparison with an alternative arrangement" (para. 20 of Trustco). Here, if the surpluses of Gestion received as dividends by 6311 had been used to declare a dividend on the shares of 6311 held by Mr. Desmarais or if they had been used to redeem class F shares,[23] these surpluses of Gestion would have been received by Mr. Desmarais as taxable dividends and included in his income under section 82 of the Act, either as a simple dividend in the case of that which would have been paid on the shares of 6311, or as a deemed dividend under subsection 84(3) on the redemption of the class F shares by 6311. If we compare the three mechanisms that 6311 could have used, we find the obvious benefit obtained by Mr. Desmarais because 6311 elected to redeem the 90,000 class D shares in 1997 and the remaining 30,000 class D shares in 1998.
+[20] Furthermore, this tax benefit resulted from a series of transactions that began on December 11, 1996 with the incorporation of 6311 and the splitting of the shares of Comsercom and ended on January 5, 1998, with the redemption of the remaining 33,000 class D shares. According to subsection 248(10) of the Act, a series of transactions includes "any related transactions or events completed in contemplation of the series". Note should also be made of what the Supreme Court of Canada has said: "We would elaborate that 'in contemplation' is read not in the sense of actual knowledge but in the broader sense of 'because of' or 'in relation to' the series. The phrase can be applied to events either before or after the basic avoidance transaction found under s. 245(3)" (para. 26 of Trustco). The fact that 41 of the 60 shares of Comsercom held by Mr. Desmarais were transferred to 6311 two days after the Comsercom shares were split and 6311 was incorporated, on December 13, 1996, and the fact that the redemption of the first group of class D shares occurred three weeks later, on January 6, 1997, the very day on which 557 class B shares of Gestion were transferred by Mr. Desmarais to 6311, clearly indicates that all these transactions were part of a series of transactions concluded for the purpose of obtaining a tax benefit. The remaining 33,000 class D shares were redeemed one year later, on January 5, 1998, to complete this series of transactions, although the redemption price of these shares was paid to Mr. Desmarais in several instalments well before January 5, 1998, starting in June 1997.
+[21] The next step is to determine whether at least one transaction in the series is an avoidance transaction referred to in subsection 245(3) in the sense that it was not "undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit" (paragraph 245(3)(b) of the Act). Here, counsel for Mr. Desmarais maintained that there was no avoidance transaction because the taxpayer was motivated primarily by the reorganization of his patrimony, in particular by separating his share in the liquid assets of Gestion. The objective that Mr. Desmarais sought to attain by transferring his shares of Comsercom and Gestion to 6311 was to combine all his assets in one basket.
+[22] Counsel for the Respondent, for their part, did not have any problem in recognizing as a bona fide purpose the main objective that Mr. Desmarais sought to attain, namely to take his share of the liquid surpluses out of Gestion in order to be able to invest in 6311 in line with his own objectives and differently from his brother.[24] However, they submitted that Mr. Desmarais went further than merely transferring his share of the liquid assets of Gestion to 6311. He succeeded in stripping Gestion of $123,000 without paying any tax, and the redemption of the 123,000 class D shares was not essential to attain his primary purpose. The Supreme Court of Canada noted in paragraph 27 of Trustco that the general anti-avoidance rule does not apply to a transaction that "... may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit". The approach that must be taken to determine whether an avoidance transaction occurred is described in paragraphs 28 and 29 of Trustco:
+28 While the inquiry proceeds on the premise that both tax and non-tax purposes can be identified, these can be intertwined in the particular circumstances of the transaction at issue. It is not helpful to speak of the threshold imposed by s. 245(3) as high or low. The words of the section simply contemplate an objective assessment of the relative importance of the driving forces of the transaction.
+29 Again, this is a factual inquiry. The taxpayer cannot avoid the application of the GAAR by merely stating that the transaction was undertaken or arranged primarily for a non-tax purpose. The Tax Court judge must weigh the evidence to determine whether it is reasonable to conclude that the transaction was not undertaken or arranged primarily for a non-tax purpose. The determination invokes reasonableness, suggesting that the possibility of different interpretations of the events must be objectively considered.
+[Emphasis added.]
+[23] Here, I have no hesitation in concluding that several of the transactions concluded by Mr. Desmarais were primarily for non-tax purposes, one of which was to enable him and his brother to invest their share of the surpluses of Gestion as they intended. Thus, the transfer of the Gestion shares that they held to 6311[25] and the payment of substantial dividends by Gestion to 6311, namely, $306,497 in 1997, $171,906 in 1998 and $122,000 in 1999, were necessary to achieve this investment objective. However, the transaction in which Mr. Desmarais transferred only 41 of his shares of Comsercom, amounting to 9.78% of this company's shares, cannot be considered to have been concluded primarily for bona fide purposes, other than non-tax purposes. In my judgment, this transfer was completed primarily to make it possible to obtain a tax benefit, that of distributing to Mr. Desmarais a sum of $123,000 from Gestion free of tax. This finding is all the more necessary since Mr. Desmarais' goal of combining all his shares in one basket was not achieved by this transaction. In fact, it was essential for him personally to retain at least 17 shares of Comsercom; otherwise, this company would have been connected[26] with 6311 and, because of the application of section 84.1 of the Act,27 the paid-up capital of the class D shares of 6311 would have been equal to the paid-up capital of the shares of Comsercom transferred to 6311, namely $1 per share of Comsercom. In any redemption of the class D shares, a dividend would have been deemed to have been paid and Mr. Desmarais would have been required to add the amount to his income under subsections 82(1) and 84(3) of the Act.
+[24] Furthermore, unlike Gestion, Comsercom did not have substantial liquid assets. On the contrary, this company had completed a major expansion of its seniors' residence and had incurred substantial costs to complete this expansion. Its long-term debt as of June 30, 1997 amounted to $2,902, 643. Mr. Desmarais admitted that one of the priorities of Comsercom's board of directors was to repay its debt. As we have seen, this company did not pay any dividend to 6311 from 1996 to 1998 and merely paid it a dividend of $3,416 in 1999.[28]It is highly unlikely that Mr. Desmarais would have incurred the costs involved in establishing and managing a holding company merely so that it could hold his Comsercom shares. Moreover, he held them himself from 1977 to 1996, that is for 19 years (tab 70). He stated that he had transferred some of these shares to 6311 in December 1996 "while he was at it". I have no hesitation in finding that the transfer of the 41 Comsercom shares to 6311 was an avoidance transaction and, as indicated in paragraph 245(3)(b) of the Act and as the Supreme Court of Canada noted in Trustco at paragraph 34, "[I]f at least one transaction in a series of transactions is an 'avoidance transaction', then the tax benefit that results from the series may be denied under theGAAR".
+[25] However, "Even if an avoidance transaction is established under the s. 245(3) inquiry, the GAAR will not apply to deny the tax benefit if it may be reasonable to consider that it did not result from abusive tax avoidance under s. 245(4)" (para. 35 of Trustco). This brings us to the final step, which is usually the most difficult and which involves determining whether the series of transactions led to abuse in the application of the Act read as a whole. We should reproduce here the statements of the Supreme Court of Canada, especially the following paragraphs:
+5.5.2 Abusive Tax Avoidance: A Unified Interpretative Approach
+44 The heart of the analysis under s. 245(4) lies in a contextual and purposive interpretation of the provisions of the Act that are relied on by the taxpayer, and the application of the properly interpreted provisions to the facts of a given case. The first task is to interpret the provisions giving rise to the tax benefit to determine their object, spirit and purpose. The next task is to determine whether the transaction falls within or frustrates that purpose. The overall inquiry thus involves a mixed question of fact and law. The textual, contextual and purposive interpretation of specific provisions of the Income Tax Act is essentially a question of law but the application of these provisions to the facts of a case is necessarily fact-intensive.
+45 This analysis will lead to a finding of abusive tax avoidance when a taxpayer relies on specific provisions of the Income Tax Act in order to achieve an outcome that those provisions seek to prevent. As well, abusive tax avoidance will occur when a transaction defeats the underlying rationale of the provisions that are relied upon. An abuse may also result from an arrangement that circumvents the application of certain provisions, such as specific anti-avoidance rules, in a manner that frustrates or defeats the object, spirit or purpose of those provisions. By contrast, abuse is not established where it is reasonable to conclude that an avoidance transaction under s. 245(3) was within the object, spirit or purpose of the provisions that confer the tax benefit
+...
+47 The first part of the inquiry under s. 245(4) requires the court to look beyond the mere text of the provisions and undertake a contextual and purposive approach to interpretation in order to find meaning that harmonizes the wording, object, spirit and purpose of the provisions of the Income Tax Act. There is nothing novel in this. Even where the meaning of particular provisions may not appear to be ambiguous at first glance, statutory context and purpose may reveal or resolve latent ambiguities. "After all, language can never be interpreted independently of its context, and legislative purpose is part of the context. It would seem to follow that consideration of legislative purpose may not only resolve patent ambiguity, but may, on occasion, reveal ambiguity in apparently plain language." See P. W. Hogg and J. E. Magee, Principles of Canadian Income Tax Law (4th ed. 2002), at p. 563. In order to reveal and resolve any latent ambiguities in the meaning of provisions of the Income Tax Act, the courts must undertake a unified textual, contextual and purposive approach to statutory interpretation.
+...
+49 In all cases where the applicability of s. 245(4) is at issue, the central question is, having regard to the text, context and purpose of the provisions on which the taxpayer relies, whether the transaction frustrates or defeats the object, spirit or purpose of those provisions. The following points are noteworthy:
+(1) While the Explanatory Notes use the phrase "exploit, misuse or frustrate", we understand these three terms to be synonymous, with their sense most adequately captured by the word "frustrate".
+(2) The Explanatory Notes elaborate that the GAAR is intended to apply where under a literal interpretation of the provisions of the Income Tax Act, the object and purpose of those provisions would be defeated.
+(3) The Explanatory Notes specify that the application of the GAAR must be determined by reference to the facts of a particular case in the context of the scheme of the Income Tax Act.
+(4) The Explanatory Notes also elaborate that the provisions of the Income Tax Act are intended to apply to transactions with real economic substance.
+50 As previously discussed, Parliament sought to address abusive tax avoidance while preserving consistency, predictability and fairness in tax law and the GAAR can only be applied to deny a tax benefit when the abusive nature of the transaction is clear.
+51 The interpretation of the provisions giving rise to the tax benefit must, in the words of s. 245(4) of the Act, have regard to the Act "read as a whole". This means that the specific provisions at issue must be interpreted in their legislative context, together with other related and relevant provisions, in light of the purposes that are promoted by those provisions and their statutory schemes. In this respect, it should not be forgotten that the GAAR itself is part of the Act.
+...
+55 In summary, s. 245(4) imposes a two-part inquiry. The first step is to determine the object, spirit or purpose of the provisions of the Income Tax Act that are relied on for the tax benefit, having regard to the scheme of the Act, the relevant provisions and permissible extrinsic aids. The second step is to examine the factual context of a case in order to determine whether the avoidance transaction defeated or frustrated the object, spirit or purpose of the provisions in issue.
+...
+62 The GAAR may be applied to deny a tax benefit only after it is determined that it was not reasonable to consider the tax benefit to be within the object, spirit or purpose of the provisions relied upon by the taxpayer. The negative language in which s. 245(4) is cast indicates that the starting point for the analysis is the assumption that a tax benefit that would be conferred by the plain words of the Act is not abusive. This means that a finding of abuse is only warranted where the opposite conclusion - that the avoidance transaction was consistent with the object, spirit or purpose of the provisions of the Act that are relied on by the taxpayer - cannot be reasonably entertained. In other words, the abusive nature of the transaction must be clear. The GAAR will not apply to deny a tax benefit where it may reasonably be considered that the transactions were carried out in a manner consistent with the object, spirit or purpose of the provisions of the Act, as interpreted textually, contextually and purposively.
+[26] Here, counsel for Mr. Desmarais submitted that there was no abuse of the Act read as a whole because this was a commercial transaction that was concluded in accordance with the object, letter and spirit of the Act. In particular, he stated that Mr. Desmarais was careful not to exceed the 10% threshold provided for in section 84.1 of the Act. Moreover, a taxpayer is entitled to arrange his affairs in the most effective manner possible from a tax point of view.
+[27] In their arguments, counsel for the Respondent noted that section 245 was a provision of last resort designed to counter abuses that could not be countered by any other provision of the Act because each of these provisions was met. Counsel also pointed out that section 245 was a section of the Act in the same way as other provisions, including section 84.1. They stated that the surpluses of a company distributed to its shareholder as dividends must be including in the shareholder's income in accordance with section 12 and with the calculation set out in section 82. They noted that the increase provided for in paragraph 82(1)(b) of the Act was part of the inclusion mechanism that, together with the tax credit in section 121, is designed to ensure that the profits of a business corporation are not taxed in the hands of the shareholders (who are individuals) without taking into account the taxes already paid by the company. In their written submissions, they stated:
+[TRANSLATION]
+35. The series of transactions undertaken in this case results in abuse of the Act read as a whole because it eliminates any taxation of the withdrawal by the Appellant of the surpluses accumulated in Gestion of which he was one of the principal shareholders and which he controlled with his brother.
+36. The transactions in question in this appeal were all concluded in order to strip Gestion of its surpluses without any tax consequences for the Appellant, which is an abuse of the Act read as a whole.
+[28] According to the Supreme Court of Canada, the first step in the examination as to whether there was abuse of the Act is to determine the object, spirit and purpose of the provisions of the Act that are relied on to obtain the tax benefit. The Respondent submitted that the redemption of the shares in question without any tax impact was an abuse of the Act read as a whole, especially of its rules designed to tax in the hands of a company's shareholders any distribution of its surpluses and of its rules designed to prevent a company from having its surpluses stripped. Sections 84, 84.1 and 212.1 and subsection 85(2.1) of the Act in particular contain such rules. For example, subsection 84(3) of the Act is designed to ensure that any proceeds of disposition in addition to the paid-up capital is treated as a dividend when shares are redeemed by a company resident in Canada. This rule, which is similar to that in the former subsection 81(1) of the Act (R.S.C. 1952, c. 148), in force prior to 1972, requires a taxpayer, in these circumstances, to report a dividend rather than a capital gain. We should note that a capital gain was not taxable until 1972; it could be taxed subsequently, but at a lower rate than that applying to a dividend.
+[29] In my judgment, the most important provision, which must be examined in greater detail and which, in my view, supports the Respondent's position, is section 84.1. Before we embark on a unified textual, contextual and purposive analysis of this provision, it is important to note that the stripping of surpluses is an activity that has been engaged in by certain Canadian taxpayers since the Act has been taxing any distribution of these surpluses in the hands of the shareholders. For example, we should refer to Smythe et al. v. M.N.R., 69 DTC 5361, a decision of the Supreme Court of Canada concerning transactions concluded in 1961. Two years later, in 1963 (S.C. 1963, c. 21, s. 26), subsection 138A(1) was added to the Act (R.S.C. 1952, c. 148) to prevent the stripping of surpluses.[29] In 1972, this subsection became subsection 247(1) of the Act. It was repealed when the general anti-avoidance rule in section 245 was enacted. This is how the authors of the Canada Tax Service[30] describe the purpose of the former anti-avoidance rule:
+In his Budget address of June 13, 1963 the Minister of Finance explained the purpose of this former provision as follows:
+Another type of tax avoidance about which the government is particularly concerned is the proliferation of methods of moving undistributed income from a corporation into the hands of its shareholders without the payment of tax. This abuse, and it is an expensive abuse to the public treasury, has become increasingly prevalent in recent years. It is time it was stopped. I shall therefore propose that, effective tonight, the Income Tax Act be amended to give the Minister of National Revenue power to look through so-called "dividend stripping" transactions and to deem shareholders to have received dividends in these cases.
+With the taxation of capital gains commencing in 1972, there was a reduced incentive for converting corporate surplus to capital gains rather than distributing it as taxable dividends. In recent years, there has not been a significant difference in effective tax rates for an individual receiving capital gains versus dividends so that the threat of subsection 247(1) had diminished in importance. However, with the introduction of the lifetime phased-in capital gains exemption for individuals commencing in 1985 (sec 110.6) and the higher effective tax rate on dividends relative to capital gains in 1987, interest in former subsection 247(1) was revived and the provision was given much broader scope as a result of amendments which were made effective May 24, 1985.
+Repeal
+Subsection 247(1) was repealed[31] following the enactment of the general anti-avoidance rule in section 245. The specific anti-avoidance measure in former subsection 247(1) was no longer considered necessary because of the broad scope of the general anti-avoidance provision. [...]
+[Emphasis added.]
+[30] The objective that Parliament attempted to achieve by enacting section 84.1 of the Act is clearly acknowledged by the authors. We should note in particular the following passage taken from the Canadian Tax Reporter:[32]
+The purpose of section 84.1 is to prevent the removal of corporate surplus as a tax-free capital gain where there is a non-arm's length transfer of shares. The type of transaction which section 84.1 is designed to prevent may best be illustrated through an example. Consider Mr. X who is the sole owner of the shares of Opco. The Opco shares have a paid-up capital and cost base of $100 and a current fair market value of $1,000. Opco also has $1,000 of cash. Rather than paying personal tax on a dividend from Opco, Mr. X forms Holdco and sells the Opco shares to Holdco in return for a $1,000 note, claiming the capital gains exemption. Opco and Holdco are then amalgamated and the note is paid using the cash from Opco.
+To prevent these types of schemes, section 84.1 provides for a reduction in the paid-up capital of any shares issued by the purchaser corporation (paragraph 84.1(1)(a)) or may deem any non-share consideration received from the purchaser corporation to be a dividend (paragraph 84.1(1)(b)).
+[Emphasis added.]
+[31] This description of the objective that this section was designed to achieve reflects the statement by the Minister of Finance when he tabled the amendments to section 84.1 in 1985, as he introduced the new provisions concerning the capital gains exemption:
+Section 84.1 of the Act is an anti-avoidance rule to prevent the removal of the taxable surpluses of a corporation as a tax-free repayment of capital where there is a non-arm's length transfer of shares by an individual resident in Canadato a corporation. While the purpose of this provision is maintained, both the means by which it is achieved and its scope are being changed as a result of the introduction of the new lifetime capital gains exemption.
+Subsection 84.1(1) of the Act presently applies to deem an immediate capital gain or an adjusted cost base reduction on certain non-arm's length transfers of shares of a corporation resident in Canada to another corporation by a taxpayer resident in Canada other than a corporation. Since the net tax on dividends approximated the tax on capital gains, section 84.1 was designed to discourage the use by corporations of certain techniques for stripping surpluses known as "Valuation Day" strips.
+With the introduction of the capital gains exemption, the existing rules in subsection 84.1(1) are no longer appropriate since the gain on the share transfer may be exempt. Consequently, subsection 84.1(1) is being repealed and replaced by a rule that requires a paid-up capital reduction and, in certain circumstances, the immediate recognition of a dividend on certain non-arm's length transfers of shares to a corporation after May 22, 1985. For these purposes, the non-arms' length test currently contained in subsection 84.1(2) is being maintained. The basic rule under new subsection 84.1(1) is that the maximum amount that can be received by the transferor from the transferee corporation as proceeds in the form of any non-share consideration and the paid-up capital of the share consideration is restricted to the greater of the paid-up capital of the transferred shares and what could be called the actual non-arm's length adjusted cost base to the transferor of the shares.
+New paragraph 84.1(1)(a) provides for a paid-up capital reduction for each class of shares of the purchaser corporation for which shares were issued as consideration for its acquisition of shares of another corporation. A paid-up capital reduction must be made in the event of an increase in the legal paid-up capital of the shares of the purchaser corporation arising as a result of the share transfer is more than the excess, if any, of the greater of the paid-up capital of the transferred shares and the adjusted cost base, as modified under new paragraph 84.1(2)(a) or (a.1), to the transferor of the transferred shares over the fair market value of any non-share consideration paid by the purchaser corporation as part of the purchase price for the transferred shares. The paid-up capital reduction is divided among the different share classes of the purchaser corporation on the basis of the legal paid-up capital increases occurring as a result of the share transfer.
+New paragraph 84.1(1)(b) treats the purchaser corporation as having paid a dividend to the transferor where the aggregate of the amount of the increase in the legal paid-up capital of its shares arising as a result of the share transfer and the fair market value of the non-chare consideration given by it for the transferred shares exceeds the total of
+(a) the greater of the adjusted cost base, modified under new paragraph 84.1(2)(a) or (a.1) to the transferor of the transferred shares and the paid-up capital of the transferred shares, and
+(b) the total paid-up capital reductions required by paragraph 84.1(1)(a) to be made by the purchaser corporation.
+The excess is the amount that will be treated as a dividend.
+The amendments to subsection 84.1(1) of the Act are applicable in respect of share dispositions after May 22, 1985 and are illustrated by the examples on page 51.
+[Emphasis added.]
+[32] A textual and contextual analysis of section 84.1 establishes that - and this is consistent with the Technical Notes of the Minister of Finance - Parliament intended to prevent stripping of the surpluses of an operating company when the mechanism used for this stripping was similar to that used here by Mr. Desmarais. This was the mechanism he used to receive surpluses from an operating company free of tax following a transfer of the shares of this company to a holding company and, following redemption, out of the surpluses received from the operating company, of the shares issued in consideration of the shares of the operating company.
+[33] However, there are several exceptions to this anti-stripping rule. One was described by the Minister himself in the technical notes quoted above: "the maximum amount that can be received by the transferor from the transferee corporation [in reality as a return of capital free of tax] is restricted to the greater of the paid-up capital of the transferred shares and what could be called the actual non-arm's length adjusted cost base to the transferor of the shares".
+[34] There is also the following exception, which results from the conditions under which section 84.1 applies. In fact, to the extent that the holding company does not control the operating company and the operating company is not related to the holding company, this section does not apply.[33] Because of its specific wording concerning the conditions under which this section applies, the Act recognizes that the surpluses of an operating company may in certain circumstances be distributed free of tax to a shareholder who is an individual, even though this shareholder receives the capital gain exemption when his shares are transferred from the operating company to the holding company. It can be seen that the Act is not looking for perfection. There is a degree of tolerance. By setting the threshold below which section 84.1 does not apply,[34] that is where the shares of the operating company held by the holding company represent 10% or less of the voting shares and 10% or less of the fair market value of all the shares of the operating company, Parliament assumed that the shareholder would not in that situation be able to exercise a substantial influence that would enable him to strip these surpluses from the operating company. Such influence may, however, be exercised when, as in the case of Gestion, two related shareholders hold all the shares of a company and may more easily agree to distribute the surpluses of this company.
+[35] It must also be noted that the assumption of Parliament that the risk that these surpluses might be stripped is low when the operating company is not related to or controlled is well founded here. Comsercom declared only one dividend to 6311 between 1996 and 1999, $3,416, which could have been distributed tax-free to Mr. Desmarais. This dividend represents less than 3% of the value of the price of redeeming the class D shares. However, in the case of Gestion, they were able in three years to declare $600,403 in dividends to 6311, which enabled Gestion to distribute to Mr. Desmarais, through 6311, the sum of $123,000 free of tax.
+[36] Consequently, if Mr. Desmarais had transferred to 6311 only the Comsercom shares and 6311 had used the dividend of $3,416 received from Comsercom in 2000 to redeem some of the 123,000 class D shares, I do not believe that we could have found, in those circumstances, that there was an abusive application of the Act. In fact, in such a situation, section 84.1 would not have applied to reduce the fiscal paid-up capital of the class D shares to an amount equal to that of the paid-up capital of the Comsercom shares. It would accordingly have been possible to use the surpluses of Comsercom to transfer them free of tax to Mr. Desmarais through the redemption of the class D shares. This result would have been in accordance with the letter and the spirit of section 84.1 of the Act.
+[37] On the other hand, if Mr. Desmarais had transferred to 6311 only his 1,000 shares of Gestion, there would have been no opportunity in that situation to strip the surpluses de Gestion, since, because of the application of section 84.1, the paid-up tax capital of the shares issued by 6311 would have been equal to the paid-up capital of the shares of Gestion, namely $1,000. The redemption price of the shares of 6311 paid in addition to the sum of $1,000 would be deemed to have been received as a dividend, in accordance with subsection 84(3) of the Act.
+[38] What causes a problem here and what constitutes a blatant abuse is the fact that there is a mechanism that circumvents the application of the anti-avoidance rule in section 84.1 in a manner contrary to its purpose and its spirit. This was the mechanism by which 6311 used the surpluses from Gestion to redeem the 123,000 class D shares that had been issued in consideration of the shares of Comsercom. To some extent, the high paid-up capital of the shares given in exchange for those of Comsercom was used to put some of the surpluses of Gestion into the hands of Mr. Desmarais. This situation is abusive for two reasons.
+[39] The first is that it is possible that Comsercom will not be able for several years to distribute substantial dividends to its shareholders, primarily because it will wish to repay its long-term debt. However, because the immediate redemption of the 123,000 class D shares was possible from Gestion's surpluses, it was also possible to avoid the tax that would otherwise have been payable if these surpluses of Gestion had been given directly to Mr. Desmarais through the distribution of a dividend on his shares of 6311 or by redeeming the class E or class F shares. It is true that, if Comsercom distributed some of its surpluses following the redemption of the 123,000 class D shares, this part would probably have been given to Mr. Desmarais, either as regular dividends or as deemed dividends on redemption of the class E or class F shares. At that point, these sums would be taxable. The redemption of the class D shares under these circumstances would have made possible only the deferral of tax that would otherwise have been applicable on the surpluses of Gestion. As we saw in section 245 of the Act, however, this deferral constitutes a "tax benefit" and may in itself involve an abuse in the application of the Act, read as a whole.
+[40] The second reason why abuse occurred is as follows: who is to say that the surpluses of Comsercom will necessarily be distributed to its shareholders? It is possible that no part of the surplus of $123,000 (in addition to the $3,416 paid in June 1999) would ever be given to 6311. That would be the case if Comsercom became bankrupt before being able to declare other dividends. In that event, the postponement of tax would become an avoidance of tax.
+[41] In conclusion, the fact that the funds from Gestion received as dividends by 6311 were used to redeem the class D shares was an abusive circumvention of the rule in section 84.1 and, consequently, all the conditions for the application of section 245 were present.
+[42] It remains for us to consider the tax consequences for Mr. Desmarais determined in such a way as to eliminate the tax benefit arising from the series of transactions he concluded on the advice and with the assistance of his professionals. In my judgment, the tax consequences determined by the Minister seem altogether reasonable; with the exception of a sum of $41, representing the paid-up capital of the shares of Comsercon, the $123,000 was taxed as dividends.[35] This is what counsel for the Respondent said in their statement:
+[TRANSLATION]
+37 The transactions are avoidance transactions in accordance with subsection 245(2) of the Act and paragraph 245(3)(b) of the Act in such a way that the reasonable tax consequences in the circumstances are to add to the Appellant's income for 1997 and 1998, respectively, an amount of deemed dividends of $89,970 and $32,989 resulting from the redemption of the class D shares by 9044.
+Counsel for Mr. Desmarais, for his part, did not argue that these tax consequences were unreasonable and did not suggest others that the Court should accept.
+[43] For all these reasons, the appeals of Mr. Desmarais are dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada, this 16th day of February, 2006.
+"Pierre Archambault"
+Archamb
+class=Section2 >
+ault J
+Translation certified true
+on this 22nd day of March, 2006.
+Garth McLeod, Translator
+CITATION 2006TCC44
+DOCKET No.: 2003-2952(IT)G
+STYLE OF CAUSE: CLAUDE DESMARAIS v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: September 7, 2005
+REASONS FOR JUDGMENT BY: The Honourable Judge Pierre Archambault
+DATE OF JUDGMENT: February 16, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Serge Fournier
+Counsel for the Respondent:
+Richard Gobeil
+Justine Malone
+SOLICITORS OF RECORD:
+For the Appellant:
+Name: Serge Fournier
+Firm: Brouillette Charpentier Fortin, Avocats
+Montreal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] By consent, the parties filed three joint books of documents (Exhibit A-1) containing 72 tabs. No other document was filed. In my analysis of the evidence, I shall simply refer to the numbers of these tabs.
+[2] In fact, in the assessment for 1998 (tab 64), Mr. Desmarais's income was increased by $97,427, representing the total of two taxable dividends (grossed up in accordance with paragraph 82(1)(b) of the Act), the first totalling $41,236 (32,989 + 8,247), added in accordance with section 245, and the second totalling $56,190 (44,952 + 11,238), added in accordance with subsections 82(1) and 84(3) of the Act. The latter dividend resulted from a redemption of 45,000 class F shares in 9044-6311 Québec Inc. (6311). At the time of the redemption, the fiscal paid-up capital (see election form T2057, tab 32, p. 2) of these shares was $48 while the legal paid-up capital (director's resolution when the shares were issued, tab 23) was $45,000. (However, according to the director's resolution when the shares were redeemed, tab 36, p. 3, the legal paid-up capital is shown as $48!) Mr. Desmarais did not include this deemed dividend in his income. According to the draft assessment (tab 59, p. 3), a penalty was to be imposed under subsection 163(2) of the Act, but it seems that the Minister did not take action on this draft penalty. The taxation of the deemed dividend is not in dispute.
+[3] Namely Gestion A.C.D. Inc. (Gestion) and Comsercom Inc.
+[4] The agreed amount of $123,000 - adjusted cost base of $41 = capital gain of $122,959, giving a taxable capital gain of $92,219.
+[5] That is 41 of the 60 shares he held.
+[6] It is more accurate to state that, as can be seen in the following note and the facts set out in paragraph 17(o) of the reply to the notice of appeal, below, André held the 1,000 class A shares and Claude held the 1,000 class B shares.
+[7] According to the directors' resolution at tab 21, this transaction took place on December 13, 1996. It was described as the purchase by Gestion of 443 class B shares belonging to Claude Desmarais and 443 class A shares belonging to André Desmarais. Rather, it was an exchange since Gestion "paid" by issuing 443 class D shares to the former and 443 class C shares to the latter, each group of shares having paid-up capital of $443 and being redeemable at $414,205.
+[8] As was seen in note 2, supra, this was fiscal paid-up capital because the legal paid-up capital was $520,795.
+[9] Here too, this was fiscal paid-up capital (T2057, tab 33) because the legal paid-up capital was $414,205 (tab 29).
+[10] As will be seen below, the consideration in cash was not paid at the time of the redemption.
+[11] As well as the 45,000 class F shares of 6311 referred to in note 2. As will be seen below, the consideration in cash was not paid when the shares were redeemed.
+[12] But which is, in fact, a deduction in computing the taxable income.
+[13] See the statement of changes in the financial situation as of June 30, 1996 and 1997, tab 2, p. 9.
+[14] For the financial statements of Comsercom for the financial years 1996 to 1999, see tabs 1 to 4.
+[15] This dividend is not in 6311's income tax return for 1999. Since Comsercom's financial year ended on June 30 and 6311's on May 31, it is likely that the dividend was paid in June 1999, after the end of 6311's financial year ending May 31, 1999 and thus during its 2000 financial year. All of 6311's income tax returns for the years from 1997 to 2001, with the exception of that for 2000, were filed in evidence.
+[16] Tabs 9 to 12.
+[17] According to paragraph 7 of these reasons.
+[18] Only a computerized summary of the data in the return was filed. This figure occurs on line 320, which corresponds to that in the returns for 1997-1999 where the total dividends received by 6311 and deductible under section 112 are indicated.
+[19] As shown by these adjusting entries (tab 35, number 3) recording the transactions in the Caisse populaire account:
+Debit
+Credit
+Shareholder loan
+89,137
+Dividend income
+93,200
+And those (tab 35, number 12) recording the redemption of shares:
+Shareholder loan
+90,000
+Class D shares
+90,000
+And as is also clear from the spreadsheet data showing the "loans to shareholder" account (tab 35, pages 3 and 4):
+[Opening balance]
+0
+12
+(90,000)
+9
+100
+3
+89,137
+(763)
+Consequently, the payment to redeem the 90,000 class D shares was made by a credit to Mr. Desmarais' "loan" account, and 6311 still owed Mr. Desmarais $763 as of May 31, 1997. The $100 represents payment for Mr. Desmarais' subscription for the class B shares of 6311.
+[20] As shown by the adjusting entries (tab 38, number 3) recording the transactions at the Caisse populaire:
+Debit
+Credit
+Transfer
+78,000
+Dividend income from affiliated corp.
+171,905.50
+And those (tab 38, number 4) recording the redemption of class D and class F shares:
+Transfer
+78,000
+Class D shares 33 000
+33,000
+Class F shares
+45,000
+And as is also clear from the spreadsheet data appearing at page 4 of tab 38 concerning the 1050 "Transfer" account:
+3
+78,000
+4
+(78,000)
+0
+[21] This provision was amended in 2005 but applies to transactions concluded after September 12, 1988 (S.C. 2005, c. 19, s. 52).
+[22] I rather like this expression of Chief Judge Bowman of this Court, who described this onus as a "burden of persuasion" in Evans v. Canada, 2005 TCC 684, [2005] T.C.J. No. 581 (QL), par. 35 (November 28, 2005). See also the reasons of Lamer J. in R. v. Collins, [1987] 1 S.C.R. 265, [1987] S.C.J. No. 15 (QL), at paragraphs 21, 22, 27 and 30.
+[23] That 6311 had acquired on the same day as the redemption in exchange for the shares of Gestion.
+[24] This position differs somewhat from that set out by them in their written submissions and in the reply to the notice of appeal, especially paragraphs 17(v) and (x) of the reply.
+[25] However, the fact that this transfer occurred in two stages - first, the 557 class B shares were transferred on January 6, 1997 and the 443 class D shares on March 31, 1997, in both cases in exchange for shares of 6311 - shows the existence of major tax objectives. However, this part of the tax planning was not essential to the attainment of the tax benefit referred to in the assessments in dispute here.
+[26] Subsection 186(4) provides as follows:
+Corporations connected with particular corporation -- For the purposes of this Part, a payer corporation is connected with a particular corporation at any time in a taxation year (in this subsection referred to as the "particular year") of the particular corporation if
+(a) the payer corporation is controlled (otherwise than by virtue of a right referred to in paragraph 251(5)(b)) by the particular corporation at that time; or
+(b) the particular corporation owned, at that time,
+(i) more than 10% of the issued share capital (having full voting rights under all circumstances) of the payer corporation, and
+(ii) shares of the capital stock of the payer corporation having a fair market value of more than 10% of the fair market value of all of the issued shares of the capital stock of the payer corporation.
+[Emphasis added]
+[27] Section 84.1 provides as follows:
+84.1(1) Non-arm's length sale of shares - Where after May 22, 1985 a taxpayer resident in Canada (other than a corporation) disposes of shares that are capital property of the taxpayer (in this section referred to as the "subject shares") of any class of the capital stock of a corporation resident in Canada (in this section referred to as the "subject corporation") to another corporation (in this section referred to as the "purchaser corporation") with which the taxpayer does not deal at arm's length and, immediately after the disposition, the subject corporation would be connected (within the meaning assigned by subsection 186(4) if the references therein to "payer corporation" and to "particular corporation" were read as "subject corporation" and "purchaser corporation" respectively) with the purchaser corporation,
+(a) where shares (in this section referred to as the "new shares") of the purchaser corporation have been issued as consideration for the subject shares, in computing the paid-up capital, at any particular time after the issue of the new shares, in respect of any particular class of shares of the capital stock of the purchaser corporation, there shall be deducted an amount determined by the formula
+(A - B) x C/A
+where
+A is the increase, if any, determined without reference to this section as it applies to the acquisition of the subject shares, in the paid-up capital in respect of all shares of the capital stock of the purchaser corporation as a result of the issue of the new shares,
+B is the amount, if any, by which the greater of
+(i) the paid-up capital, immediately before the disposition, in respect of the subject shares, and
+(ii) subject to paragraphs 84.1(2)(a) and 84.1(2)(a.1), the adjusted cost base to the taxpayer, immediately before the disposition, of the subject shares,
+exceeds the fair market value, immediately after the disposition, of any consideration (other than the new shares) received by the taxpayer from the purchaser corporation for the subject shares, and
+C is the increase, if any, determined without reference to this section as it applies to the acquisition of the subject shares, in the paid-up capital in respect of the particular class of shares as a result of the issue of the new shares; and
+(b) for the purposes of this Act, a dividend shall be deemed to be paid to the taxpayer by the purchaser corporation and received by the taxpayer from the purchaser corporation at the time of the disposition in an amount determined by the formula
+(A + D) - (E + F)
+where
+A is the increase, if any, determined without reference to this section as it applies to the acquisition of the subject shares, in the paid-up capital in respect of all shares of the capital stock of the purchaser corporation as a result of the issue of the new shares,
+D is the fair market value, immediately after the disposition, of any consideration (other than the new shares) received by the taxpayer from the purchaser corporation for the subject shares,
+E is the greater of
+(i) the paid-up capital, immediately before the disposition, in respect of the subject shares, and
+(ii) subject to paragraphs 84.1(2)(a) and 84.1(2)(a.1), the adjusted cost base to the taxpayer, immediately before the disposition, of the subject shares, and
+F is the total of all amounts each of which is an amount required to be deducted by the purchaser corporation under paragraph 84.1(1)(a) in computing the paid-up capital in respect of any class of shares of its capital stock by virtue of the acquisition of the subject shares.
+[Emphasis add
+ed.]
+[28] Namely, during 6311's 2000 financial year.
+[29] Section 138A provides as follows:
+138A. (1) Where a taxpayer has received an amount in a taxation year,
+(a) as consideration for the sale or other disposition of any shares of a corporation or of any interest in such shares,
+(b) in consequence of a corporation having
+(i) redeemed or acquired any of its shares or reduced its capital stock, or
+(ii) converted any of its shares into shares of another class or into an obligation of the corporation, or
+(c) otherwise, as a payment that would, but for this section, be exempt income,
+which amount was received by the taxpayer as part of a transaction effected or to be effected after June 13, 1963 or as part of a series of transactions each of which was or is to be effected after that day, one of the purposes of which, in the opinion of the Minister, was or is to effect a substantial reduction of, or disappearance of, the assets of a corporation in such a manner that the whole or any part of any tax that might otherwise have been or become payable under the Act in consequence of any distribution of income of a corporation has been or will be avoided, the amount so received by the taxpayer or such part thereof as may be specified by the Minister shall, if the Minister so directs,
+(d) be included in computing the income of the taxpayer for that taxation year, and
+(e) in the case of a taxpayer who is an individual, be deemed to have been received by him as a dividend described in paragraph (a) of subsection (1) of section 38.
+[30] Pages 247-102 and 103 of the CanadaTax Service, Looseleaf, Vol. 13, Toronto: Thomson Carswell.
+[31] Ten years later, in 1998, a new section 247 was added to the Act setting out the transfer pricing rules.
+[32] Canadian Tax Reporter Commentary, CCH TaxWorks, ¶ 10, 384e. Similar comments may be found in the Canada Tax Service, under section 84.1. Subsection 84.1(1) of the Act is reproduced in note 27, above.
+[33] Another exception applies when the shares of an operating company are transferred to a holding company with which the transferor deals at arm's length, in accordance with the broader concept of arm's length dealing in paragraphs 84.1(2)(b) and (d) of the Act. This was not the case here: Mr. Desmarais and 6311 were not dealing at arm's length.
+[34] To the extent, of course, that the holding company does not control the operating company.
+[35] It might even be said that he could have been less generous by taxing the full amount of $123,000 as a dividend, including the $41. To some extent, the Minister permitted use of the taxable surpluses of Gestion to distribute the paid-up capital of the class D shares attributable to the paid-up capital of the shares of Comsercom. All the paid-up capital of the shares of Gestion transferred to 6311 had been recognized in the paid-up capital of the class E and class F shares of 6311. Consequently, the $123,000 of Gestion used by 6311 to redeem the class D shares represented the taxable surpluses. In any event, the $41 was a very minimal amount.
+However, the new tax consequences determined by the Minister and confirmed by this decision pose a problem of future unfairness. As all the class D shares were redeemed, there are no more shares remaining that will allow 6311 to distribute free of tax to Mr. Desmarais the surpluses it received or might receive from Comsercom in the future. Since the question is not relevant for the taxation years in dispute, I do not believe that I have jurisdiction to rule on the tax consequences of such future distributions. (It should be mentioned that this question was not touched upon at all during argument.) However, it follows from the reasons I have expressed here that 6311 could have redeemed the class D shares without any tax consequences for Mr. Desmarais if it had used the surpluses of Comsercom. Thus, a mechanism should be found that would restore this situation. The fact that the Minister has the power to permit 6311 to give Mr. Desmarais free of tax and up to a limit of $122,959 (123,000 - 41) any dividend received from Comsercom would certainly be a reasonable way to achieve this objective. Be that as it may, thought should also be given to amending the Act to ensure fair tax treatment for taxpayers who find themselves in such a situation.

@@ -1,0 +1,263 @@
+---
+title: "Talbot c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31052/index.do"
+last_modified: "2013-01-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 2"
+citation2: ""
+neutral_citation: "2013 CCI 2"
+decision_date: "2013-01-09"
+language: "fr"
+item_id: "31052"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4875
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:34:33.447000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "57f2a6019f1ebb22c9c5eeb2abe0ef1a6c29d431f896947c511b961006275174"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Talbot c. La Reine
+
+- Citation: 2013 CCI 2
+- Decision date: 2013-01-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4875, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Talbot c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-01-09
+Référence neutre
+2013 CCI 2
+Numéro de dossier
+2011-2576(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2576(IT)I
+ENTRE :
+PAUL TALBOT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de
+Lucie Normandin (2011-2601(IT)I), le 30 octobre 2012,
+à Montréal (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Simon Olivier de Launière
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l’année d'imposition 2009 est rejeté, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 9e jour de janvier 2013.
+"Francois Angers"
+Juge Angers
+Dossier : 2011-2601(IT)I
+ENTRE :
+LUCIE NORMANDIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de
+Paul Talbot (2011-2576(IT)I), le 30 octobre 2012,
+à Montréal (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentant de l'appelante :
+Paul Talbot
+Avocat de l'intimée :
+Me Simon Olivier de Launière
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l’année d'imposition 2009 est rejeté, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 9e jour de janvier 2013.
+"Francois Angers"
+Juge Angers
+Référence : 2013 CCI 2
+Date : 20130109
+Dossiers : 2011-2576(IT)I,
+2011-2601(IT)I
+ENTRE :
+PAUL TALBOT,
+LUCIE NORMANDIN,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Ces deux appels ont été entendus sur preuve commune et ils visent tous deux l'année d'imposition 2009 des appelants.
+[2] L'appelant Paul Talbot était un employé d'Hydro‑Québec en 2009. Étant âgé à l’époque de moins de 65 ans, mais de plus de 55 ans, il a demandé à son employeur une retraite progressive en vertu du règlement numéro 734 concernant le régime de retraite d'Hydro-Québec et de l'article 69.1 de la Loi sur les régimes complémentaires de retraite du Québec (ci-après la « Loi»).
+[3] Le comité de retraite d’Hydro‑Québec a accepté la demande de l’appelant le 4 février 2009 et l’en a informé par lettre le 10 février 2009. On l'a donc informé qu'il recevrait, en vertu de l'article 5.6 dudit règlement, un montant forfaitaire de 13 691,82 $ le 13 février 2009. La lettre indiquait également que le paiement de ce montant réduirait les rentes futures lors de la retraite définitive. La date du début de la retraite progressive est le 22 décembre 2008. L’horaire de retraite progressive de l’appelant est de quatre jours de travail par semaine et d’un jour sans solde par semaine.
+[4] L'appelant a par la suite reçu de la Caisse de retraite d'Hydro-Québec un feuillet T4A indiquant qu'un paiement forfaitaire de 13 691 $ lui avait été versé en 2009. L'appelant et sa conjointe ont conjointement effectué le choix visant le fractionnement du revenu en question et ont chacun réclamé le crédit pour pension de 2 000 $. La question en litige est donc de savoir si le paiement forfaitaire de 13 691 $ versé à l'appelant en 2009 est un revenu de pension pouvant être fractionné et donnait ainsi droit au crédit pour pension.
+[5] Les dispositions applicables, soit le paragraphe 5.6 du Règlement et l’article 69.1 de la Loi, se lisent comme suit :
+Règlement numéro 734
+5.6 Retraite progressive – montant annuel
+Le participant dont le salaire est réduit suite à la diminution de son horaire, en application d'une entente conclue avec son employeur et dont l'âge est inférieur de 10 ans ou moins à l'âge normal de la retraite ou qui a atteint ou dépassé cet âge a droit, sur demande, au paiement d'une prestation en un seul versement, à chaque année couverte par l'entente, dont le montant est limité conformément aux législations applicables. Le participant ne peut recevoir, au cours d'une même année, le montant forfaitaire prévu au présent paragraphe et les rentes définies en 5.5 b) et en 5.7. Les droits résiduels du participant qui résultent du versement de la prestation prévue au présent paragraphe sont établis conformément aux législations applicables.
+Loi sur les régimes complémentaires de retraite :
+69.1. Le participant actif dont le temps de travail est réduit en application d'une entente conclue avec son employeur et dont l'âge est inférieur de 10 ans ou moins à l'âge normal de la retraite ou qui a atteint ou dépassé cet âge a droit, sur demande, à chaque année couverte par l'entente, au paiement en un seul versement d'une prestation égale au moindre des montants suivants :
+1° 70% de la réduction de sa rémunération entraînée par la réduction de son temps de travail durant l'année;
+2° 40% du maximum des gains admissibles pour l'année concernée établi en application de la Loi sur le régime de rentes du Québec (chapitre R-9);
+3° la valeur de ses droits au titre du régime établie en supposant qu'il cesse d'être actif à la date où il demande le paiement de la prestation.
+Malgré le deuxième alinéa de l'article 5, le régime ne peut prévoir de dispositions plus avantageuses que celles prévues au premier alinéa. De plus, un participant actif ne peut recevoir, au cours d'une même année, la prestation prévue au présent article et celle prévue à l'article 67.5 ou une rente payable en vertu de l'article 77 ou en remplacement de celle-ci.
+La valeur de la réduction de la rente du participant consécutive au paiement de la prestation prévue au présent article ne peut être supérieure au montant de la prestation. De plus, à moins que cela n'avantage le participant, la rémunération versée pendant la période où il a droit à cette prestation ne peut être prise en considération pour le calcul des prestations relatives aux services reconnus qui ne se rapportent pas à cette période.
+L'employeur doit, dans les 60 jours de la date où il devient partie à une entente visée au premier alinéa, informer le comité de retraite du nom de tout participant visé par cet alinéa.
+[6] Il est à noter que le Règlement 734 prévoit qu'il est possible de conclure une entente pour plus d'une année. Selon le témoignage de Mme Lockhead, chef de l'administration du régime de retraite d'Hydro-Québec, Hydro‑Québec ne signe toutefois jamais d'entente à ce titre sous cette rubrique pour plus d'une année à la fois. L'appelant a donc reçu le paiement pendant trois années après avoir fait trois demandes différentes et cela en vertu du paragraphe 5.6, précité. Mme Lockhead a convenu qu’on pourrait dire qu’il s’agit d'un paiement périodique annuel.
+[7] Le paragraphe 5.6 du Règlement est la seule disposition qui mentionne un montant forfaitaire. Le paragraphe dispose qu'il s'agit du « paiement d'une prestation en un seul versement, à chaque année couverte par l'entente ». L’article 69.1 de la Loi parle du paiement en un seul versement d'une prestation.
+[8] L'appelant soutient que le montant qu'il a reçu est une prestation au sens du paragraphe 69.1 de la Loi et qu’il constitue une rente. L'intimée soutient qu'il ne s'agit pas d'une rente, puisqu’un paiement forfaitaire est distinct d'une rente.
+[9] Selon Mme Lockhead, le paragraphe 5.6 du Règlement ne permet pas de verser un montant sous forme de rente. Pour ce faire, il faut appliquer les dispositions du paragraphe 5.7 du Règlement, qui a été ajouté le 1er janvier 2009 et qui, à date, n'aurait pas encore été appliqué. Monsieur Talbot a pris sa retraite le 31 mai 2010 et ce n'est qu'à partir de ce moment qu'Hydro‑Québec a commencé à lui verser une rente, deux fois par mois. Mme Lockhead est aussi d'accord qu'il s'agit d'une prestation selon le paragraphe 69.1 de la Loi; ce terme la distingue d'une rente et on dit « paiement forfaitaire » au paragraphe 5.6 du Règlement pour la même raison. La différence est la modalité du versement, mais le versement pourrait aussi être qualifié de versement périodique annuel.
+[10] Pour décider si un contribuable qui reçoit un revenu de pension dans une année peut en attribuer une partie à son conjoint, il faut regarder les articles 56, 60, 60.03 et 118 de la Loi de l'impôt sur le revenu (la « LIR»).
+[11] L'article 60.03 énonce les règles qui déterminent le montant de pension qui peut être attribué au conjoint aux fins du fractionnement. Ce montant est ensuite inclus dans le revenu du conjoint cessionnaire selon l'alinéa 56(1)a.2), et est déduit du revenu de conjoint pensionné en vertu de l'alinéa 60c). Finalement, le paragraphe 118(3) prévoit que le conjoint cessionnaire peut bénéficier d'un crédit pour pension selon la formule établie.
+[12] Il est de mise de reproduire les textes législatifs pertinents :
+60.03
+(1) Les définitions qui suivent s'appliquent au présent article.
+« cessionnaire » Est un cessionnaire pour une année d'imposition le particulier qui, à la fois :
+a) réside au Canada à celui des moments suivants qui est applicable :
+(i) s'il décède dans l'année d'imposition, le moment immédiatement avant son décès,
+(ii) dans les autres cas, la fin de l'année civile dans laquelle l'année d'imposition prend fin.
+b) au cours de l’année d’imposition, est l’époux ou le conjoint de fait d’un
+pensionné et ne vit pas séparé de lui, à la fin de l’année d’imposition et
+pendant une période de 90 jours ou plus ayant commencé dans l’année, pour
+cause d’échec de leur mariage ou union de fait.
+« choix conjoint » En ce qui concerne un pensionné et un cessionnaire pour une année d'imposition, choix qu'ils font conjointement sur le formulaire prescrit et qu'ils présentent au ministre, avec leurs déclarations de revenu pour l'année d'imposition visée par le choix, au plus tard à la date d'échéance de production qui leur est applicable respectivement pour l'année.
+« montant de pension fractionné » Est un montant de pension fractionné pour une année d'imposition la somme choisie par un pensionné et un cessionnaire dans un choix conjoint visant l'année, n'excédant pas la somme obtenue par la formule suivante :
+0,5A x B/C
+où
+A représente le revenu de pension déterminé du pensionné pour l'année;
+B le nombre de mois de l'année d'imposition du pensionné au cours desquels il était l'époux ou le conjoint de fait du cessionnaire;
+C le nombre de mois de l'année d'imposition du pensionné.
+« pensionné » Est un pensionné pour une année d'imposition le particulier qui, à la fois :
+a) reçoit un revenu de pension déterminé au cours de l'année d'imposition;
+b) réside au Canada à celui des moments suivants qui est applicable :
+(i) s'il décède dans l'année d'imposition, le moment immédiatement avant son décès,
+(ii) dans les autres cas, la fin de l'année civile dans laquelle l'année d'imposition prend fin.
+« revenu de pension » S'entend au sens de l'article 118.
+« revenu de pension admissible » S'entend au sens de l'article 118.
+« revenu de pension déterminé » S'entend au sens du paragraphe 118(7).
+(2) Pour l'application du paragraphe 118(3), les règles ci-après s'appliquent dans le cas où un pensionné et un cessionnaire font un choix conjoint pour une année d'imposition :
+a) le pensionné est réputé ne pas avoir reçu la partie de son revenu de pension ou revenu de pension admissible, selon le cas, pour l'année qui correspond au montant de pension fractionné pour l'année;
+b) le cessionnaire est réputé avoir reçu le montant de pension fractionné, à la fois :
+(i) à titre de revenu de pension, dans la mesure où le montant de pension fractionné était un revenu de pension pour le pensionné,
+(ii) à titre de revenu de pension admissible, dans la mesure où le montant de pension fractionné était un revenu de pension admissible pour le pensionné.
+(3) Le pensionné ne peut produire plus d'un choix conjoint pour une année d'imposition.
+(4) Le choix conjoint est invalide si le ministre établit que le pensionné ou le cessionnaire ont, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé dans le choix.
+118(3)
+Crédit pour pension
+Le montant déterminé selon la formule suivante est déductible dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition :
+A x B
+où
+A représente le taux de base pour l'année;
+B 2 000 $ ou, s'il est moins élevé, le revenu de pension déterminé du particulier pour l'année.
+[13] Les dispositions législatives suivantes sont aussi pertinentes :
+118(7)
+Sous réserve des paragraphes (8) et (8.1), les définitions qui suivent s'appliquent au présent paragraphe et au paragraphe (3) :
+« revenu de pension » S'agissant du revenu de pension qu'un particulier a reçu au cours d'une année d'imposition, le total des montants suivants :
+a) les montants que le particulier inclut dans le calcul de son revenu pour
+l'année :
+(i) à titre de rente viagère reçue dans le cadre d'un régime de retraite, d'un régime de pension ou d'un régime de pension déterminé,
+(ii) à titre de versement de rente dans le cadre d'un régime enregistré d'épargne-retraite, d'un régime modifié visé au paragraphe 146(12) ou d'une rente au titre de laquelle une somme est incluse dans le calcul du revenu du particulier par application de l'alinéa 56(1)d.2),
+(iii) à titre de paiement prévu par un fonds enregistré de revenu de retraite, ou en provenant, ou prévu par un fonds modifié visé au paragraphe 146.3(11),
+(iv) à titre de versement de rente d'un régime de participation différée aux bénéfices ou d’un régime dont l'enregistrement est révoqué visé au paragraphe 147(15),
+(v) à titre de versement visé au sous-alinéa 147(2)k)(v),
+(vi) à titre d'excédent d'un versement de rente inclus dans le calcul du revenu du particulier pour l'année par application de l'alinéa 56(1)d) sur la partie représentant le capital de ce versement visée à l'alinéa 60a);
+b) les montants inclus dans le calcul du revenu du particulier pour l'année par application de l'article 12.2 de la présente loi ou de l'alinéa 56(1)d.1) de la Loi de l'impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952.
+« revenu de pension admissible » S'agissant du revenu de pension admissible qu'un particulier a reçu au cours d'une année d'imposition, le total des montants suivants inclus dans le calcul de son revenu pour l'année :
+a) les montants visés au sous-alinéa a)(i) de la définition de « revenu de pension » au présent paragraphe;
+b) les montants visés aux sous-alinéas a)(ii) à (vi) et à l'alinéa b) de la définition de « revenu de pension » au présent paragraphe, reçus par le particulier par suite du décès de son époux ou conjoint de fait.
+« revenu de pension déterminé » Le revenu de pension déterminé d'un particulier pour une année d'imposition correspond à ce qui suit :
+a) si le particulier a atteint 65 ans avant la fin de l'année d'imposition, le revenu de pension qu'il a reçu au cours de l'année;
+b) sinon, le revenu de pension admissible qu'il a reçu au cours de l'année d'imposition.
+118(8)
+Pour l'application du paragraphe (7), sont exclues du revenu de pension et du revenu de pension admissible qu'un particulier reçoit au cours d'une année d'imposition les sommes reçues :
+a) au titre de la pension ou du supplément prévu par la Loi sur la sécurité de la vieillesse ou d'un paiement analogue prévu par une loi provinciale;
+b) au titre d'une prestation prévue par le Régime de pensions du Canada ou par un régime provincial de pensions au sens de l'article 3 de cette loi;
+c) à titre de prestation consécutive au décès;
+d) au titre de l'excédent éventuel de la somme visée au sous-alinéa (i) sur la somme visée au sous-alinéa (ii) :
+(i) toute somme à inclure dans le calcul du revenu du particulier pour l'année,
+(ii) l'excédent éventuel de la somme visée au sous-alinéa (i) sur le total des sommes déduites par le particulier pour l'année (sauf celle visée à l'alinéa 60c)) au titre de cette somme;
+e) au titre d'un paiement reçu dans le cadre d'une convention de retraite, d'une entente d'échelonnement du traitement, d'un régime de prestations aux employés ou d'une fiducie d’employés;
+f) au titre d'un paiement (sauf un paiement prévu par la Loi sur les juges ou la Loi sur la pension de retraite des lieutenants-gouverneurs) reçu dans le cadre d'un régime ou mécanisme complémentaire sans capitalisation, à savoir un régime ou mécanisme à l'égard duquel il s'avère, à la fois :
+(i) que le paiement se rapporte à des services que le particulier, son époux ou conjoint de fait ou son ex-époux ou ancien conjoint de fait a rendus, à titre d'employé, à un employeur,
+(ii) que le régime ou mécanisme aurait été une convention de retraite ou un régime de prestations aux employés si l'employeur avait versé, au titre du paiement, une cotisation à une fiducie régie par le régime ou mécanisme.
+118(8.1)
+Pour l'application du paragraphe (7), tout paiement au titre d'une rente viagère prévue par un régime de retraite ou de pension est réputé comprendre un paiement au titre de prestations de raccordement, à savoir des prestations prévues par un régime de pension agréé qui sont payables périodiquement et au moins annuellement à un particulier, dans le cas où, à la fois :
+a) le particulier, son époux ou conjoint de fait ou son ex-époux ou ancien conjoint de fait était un participant, au sens du paragraphe 147.1(1), au régime de pension agréé;
+b) les prestations sont payables pendant une période se terminant au plus tard le jour qui marque la fin du mois suivant celui au cours duquel le participant atteint 65 ans ou aurait atteint cet âge s'il avait survécu jusqu'à ce jour;
+c) le montant, calculé sur une année, des prestations payables au particulier pour une année civile n'excède pas le total du maximum des prestations payables pour cette année en vertu de la partie I de la Loi sur la sécurité de la vieillesse et du maximum des prestations (sauf les prestations pour invalidité, les prestations de décès et les prestations au survivant) payables pour cette année en vertu du Régime de pensions du Canada ou d'un régime provincial de pensions au sens de l'article 3 de cette loi.
+[14] Le terme « rente » est défini comme suit au paragraphe 248(1) de la LIR :
+Sont compris dans les rentes les sommes payables à intervalles réguliers plus longs ou plus courts qu'une année, en vertu d'un contrat, d'un testament, d'une fiducie ou autrement.
+[15] Le montant de pension pouvant faire l'objet du fractionnement est établi au paragraphe 60.03(1) de la LIR. En vertu de ce paragraphe, le « revenu de pension fractionné » dépend d’une formule qui tient compte du « revenu de pension déterminé » du pensionné. Selon ce paragraphe, le « revenu de pension déterminé » s'entend au sens du paragraphe 118(7) de la LIR.
+[16] Selon le paragraphe 118(7) de la LIR, le « revenu de pension déterminé » d'un particulier âgé de moins de 65 ans consiste en son « revenu de pension admissible » reçu au cours de l'année d'imposition.
+[17] Selon le paragraphe 118(7) de la LIR, le « revenu de pension admissible » qu'un particulier a reçu au cours de l'année est le total des montants visés au sous-alinéa a)(i) de la définition de « revenu de pension » ainsi que des montants visés aux sous-alinéas a)(ii) à (vi) et à l'alinéa b), ces derniers n’étant toutefois inclus que s’ils sont reçus par suite du décès du conjoint. Par conséquent, en l'espèce, le seul revenu de l’appelant pouvant faire l'objet du fractionnement en vertu du paragraphe 60.03(1) de la LIR est celui visé au sous-alinéa a)(i) de la définition de « revenu de pension », soit à titre de rente viagère prévue par un régime de retraite ou d’autres pensions, ou en provenant.
+[18] Le paragraphe 118(8) de la LIR exclut certaines sommes du revenu de pension défini au paragraphe 118(7). L'alinéa e) exclut un paiement :
+au titre d'un paiement reçu dans le cadre d'une convention de retraite, d'une entente d'échelonnement du traitement, d'un régime de prestations aux employés ou d'une fiducie d'employés ou d’un régime provincial de pensions visé par règlement;
+[19] À mon avis, tout paiement reçu dans le cadre d'une convention de retraite est expressément exclu de l'application du régime de fractionnement du revenu de pension.
+[20] Le paragraphe 5.6 du Règlement et l’article 69.1 de la Loi, mentionnent expressément un paiement forfaitaire en un seul versement d'une prestation. La prestation doit donc être versée en un seul versement. Selon l'appelant, le Règlement prévoit que plus d’une année peut être « couverte par l’entente »; sa prestation pourrait être qualifiée de périodique et être admissible au fractionnement. Il n'en demeure pas moins qu’en fait, Hydro-Québec avait comme politique de ne signer qu'une entente annuelle et de la renouveler chaque année. Il s'agit donc d'un montant forfaitaire.
+[21] De toute façon, il faut s'en remettre au fait que seuls les revenus de rente viagère provenant d'un régime de retraite ou d’autres pensions peuvent faire l'objet de fractionnement. Il est intéressant de constater que le Code civil du Québec, aux articles 2367 et 2371, définit ce qu'est un contrat constitutif de rente et une rente viagère.
+2367. Le contrat constitutif de rente est celui par lequel une personne, le débirentier, gratuitement ou moyennant l'aliénation à son profit d'un capital, s'oblige à servir périodiquement et pendant un certain temps des redevances à une autre personne, le crédirentier.
+Le capital peut être constitué d'un bien immeuble ou meuble; s'il s'agit d'une somme d'argent, il peut être payé au comptant ou par versements.
+2371. La rente peut être viagère ou non viagère.
+Elle est viagère lorsque la durée de son service est limitée au temps de la vie d'une ou de plusieurs personnes.
+Elle est non viagère lorsque la durée de son service est autrement déterminée.
+[22] En l'espèce, la prestation annuelle qu'a reçue l'appelant n’est pas une rente viagère, de sorte que le paiement forfaitaire de 13 691 $ versé pour l'année d'imposition 2009 ne peut faire l’objet de fractionnement entre conjoints.
+[23] De plus, le paiement de 13 691 $ est expressément exclu de l'application du régime de fractionnement par le paragraphe 118(8) de la LIR.
+[24] À mon avis, le paiement annuel reçu par l'appelant en vertu de l'entente entre lui et son employeur ne peut faire l'objet du fractionnement de revenu de pension entre conjoints et ne donne pas droit au crédit pour pension.
+[25] Les appels sont donc rejetés.
+Signé à Ottawa, Canada, ce 9e jour de janvier 2013.
+"Francois Angers"
+Juge Angers
+RÉFÉRENCE : 2013 CCI 2
+Nos DES DOSSIERS DE LA COUR :2011-2576(IT)I
+2011-2601(IT)I
+INTITULÉS DES CAUSES : Paul Talbot c. Sa Majesté la Reine
+Lucie Normandin c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 30 octobre 2012
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le – janvier 2013
+COMPARUTIONS :
+Pour l'appelant Paul Talbot:
+Représentant de l'appelante Lucie Normandin
+L'appelant lui-même
+Paul Talbot
+Avocat de l'intimée :
+Me Simon Olivier de Launière
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

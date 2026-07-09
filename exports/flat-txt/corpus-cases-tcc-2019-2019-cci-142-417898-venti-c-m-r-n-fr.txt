@@ -1,0 +1,219 @@
+Title: Venti c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/417898/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-142-417898-venti-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2019-06-27
+
+# Venti c. M.R.N.
+
+- Citation: 2019 CCI 142
+- Decision date: 2019-06-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4382, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Venti c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-06-27
+Référence neutre
+2019 CCI 142
+Numéro de dossier
+2016-2865(EI)
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2016-2865(EI)
+ENTRE :
+RITA VENTI,
+appelante,
+et
+LA MINISTRE DU REVENU NATIONAL,
+intimée,
+et
+HANNES LAMOTHE,
+intervenant.
+Appel entendu le 30 avril 2019, à Montréal (Québec)
+Devant : L’honorable juge Dominique Lafleur
+Comparutions :
+Représentant de l’appelante :
+Patrick Demoulin-Dorval
+Avocat de l’intimée :
+Me Emmanuel Jilwan
+Avocate de l’intervenant :
+Me Lucie Roubin
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi est rejeté et la décision que la ministre du Revenu national a rendue le 2 février 2016, à savoir que l’appelante, Mme Rita Venti, n’occupait pas un emploi assurable pendant la période du 24 juin 2014 au 23 juin 2015
+lorsqu’elle était au service de M. Hannes Lamothe, est confirmée, conformément aux motifs du jugement ci-joints.
+Signé à Québec (Québec), le 27e jour de juin 2019.
+« Dominique Lafleur »
+Juge Lafleur
+Référence : 2019 CCI 142
+Date : 20190627
+Dossier : 2016-2865(EI)
+ENTRE :
+RITA VENTI,
+appelante,
+et
+LA MINISTRE DU REVENU NATIONAL,
+intimée,
+et
+HANNES LAMOTHE,
+intervenant.
+MOTIFS DU JUGEMENT
+La juge Lafleur
+I. CONTEXTE
+[1] Mme Rita Venti (« Mme Venti » ou « l’appelante ») interjette appel de la décision de la ministre du Revenu national (la « ministre ») du 9 juin 2016, confirmant la décision du 2 février 2016 de l’Agence du revenu du Canada (l’« ARC »).
+[2] Selon la décision de la ministre, Mme Venti, alors qu’elle agissait à titre d’esthéticienne, n’occupait pas auprès de M. Hannes Lamothe, propriétaire et exploitant de l’Auberge Beaux Rêves et Spa, pendant la période du 24 juin 2014 au 23 juin 2015 (la « période ») un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi (la « Loi »). La ministre a ainsi conclu que, puisque les exigences pour qu’il y ait un contrat de louage de services n’avaient pas été remplies, il n’existait pas de relation employeur-employée entre M. Lamothe et Mme Venti.
+[3] Selon l’appelante, les faits démontrent plutôt qu’elle était employée par M. Lamothe en vertu d’un contrat de louage de services, et donc qu’elle occupait un emploi assurable au sens de la Loi pendant la période.
+[4] Selon la position de l’intimée et celle de M. Lamothe, qui a pris part à l’audience à titre d’intervenant, l’appel interjeté par Mme Venti devrait être rejeté puisque les faits démontrent clairement que Mme Venti était liée à M. Lamothe par un contrat de service et non pas par un contrat de louage de services, et qu’elle agissait donc à titre de « travailleur autonome » lorsqu’elle rendait des services de soins esthétiques sur les lieux de l’Auberge.
+[5] Également, dans le cadre de la plainte pour congédiement sans cause juste et suffisante déposée par Mme Venti en vertu de l’article 124 de la Loi sur les normes du travail (la « LNT »), le Tribunal administratif du travail (Division des relations du travail) a reconnu que, dans l’exercice de ses fonctions d’esthéticienne auprès de l’Auberge, Mme Venti était une « entrepreneure dépendante dont la relation avec l’Auberge était caractérisée par un lien de subordination juridique » (décision en date du 15 aout 2017, paragraphe 112). Mme Venti a donc été qualifiée de « salariée » au sens de la LNT et a pu se prévaloir du recours pour congédiement sans cause juste et suffisante.
+II. LA QUESTION EN LITIGE
+[6] La question en litige est de savoir si Mme Venti occupait auprès de M. Lamothe un emploi assurable à titre d’esthéticienne au sens de l’alinéa 5(1)a) de la Loi au cours de la période. Pour répondre à cette question, il faut déterminer si les exigences du contrat de louage de services (ou du contrat de travail selon le Code civil du Québec (« C.c.Q. »)) ont été remplies.
+III. LES FAITS
+1. L’historique
+[7] M. Lamothe est propriétaire de l’Auberge depuis plus de 20 ans. Les services qui y sont offerts sont les suivants : l’hébergement et la restauration, les soins corporels, y compris massages et soins esthétiques, et des activités tels la motoneige, l’équitation, les traineaux à chiens et le golf. On y trouve également un spa nordique.
+[8] M. Lamothe a témoigné avoir collaboré avec une centaine de thérapeutes dans le cadre des opérations de l’Auberge, et ceux-ci ont toujours été engagés à titre de travailleurs autonomes. Les ententes conclues avec ces thérapeutes étaient semblables à celle conclue avec Mme Venti. Également, M. Lamothe a confirmé que l’ARC a conclu que ces personnes avaient toutes le statut de travailleur autonome.
+[9] Mme Venti a suivi une formation en soins esthétiques dans une école privée en Belgique. Elle a commencé à travailler à l’Auberge en janvier 2008. Elle a signé avec M. Lamothe un contrat de service en 2010, comme celui signé par tous les autres thérapeutes de l’Auberge, dans lequel il est indiqué qu’elle était travailleuse autonome. Ce contrat indique, entre autres, les détails des frais de services payables au thérapeute pour les divers soins offerts et les frais que ce dernier doit payer pour la location de la salle et l’entretien de l’équipement. Ce contrat contient également en annexe diverses directives auxquelles Mme Venti doit se plier, lesquelles portent sur les délais et les méthodes de facturation, les délais pour communiquer à l’Auberge sa disponibilité, l’entretien de la salle, les conditions de remboursement d’un client insatisfait, l’interdiction de fumer et la monnaie pour les pourboires.
+[10] Mme Venti faisait également de l’entretien ménager à l’Auberge, de même qu’à la résidence personnelle de M. Lamothe. À cet égard, l’ARC l’a considérée comme employée de M. Lamothe.
+[11] Mme Venti avait tenté d’ouvrir un salon d’esthétique à sa résidence, mais la municipalité ne permettait pas un tel commerce dans une résidence privée. Également, elle a fait imprimer des cartes professionnelles, mais ne les a jamais utilisées.
+[12] M. Lamothe l’a remerciée en juin 2015, à la suite d’allégations de vol. Mme Venti a vécu cette période très difficilement et a même souffert de problèmes de santé sérieux à la suite de ces événements.
+2. Les conditions, les soins et la rémunération
+[13] Mme Venti a témoigné qu’elle devait être disponible les dimanche, lundi et mardi, de 8 h 30 à 20 h 30, pour offrir des soins esthétiques sur les lieux de l’Auberge. Les soins étaient donnés soit aux personnes qui logeaient à l’Auberge ou encore aux personnes qui se présentaient à l’Auberge pour recevoir des soins seulement. Une autre esthéticienne était disponible le reste de la semaine. Les rendez-vous pour les divers soins étaient pris par l’Auberge. La veille des jours de disponibilité de Mme Venti, l’Auberge communiquait avec elle pour lui confirmer les soins qui seraient à fournir le lendemain.
+[14] Selon Mme Venti, elle devait également demeurer disponible les autres jours de la semaine, au cas où des clients requerraient des soins en duo. Ainsi, il n’était pas possible, selon elle, de travailler ailleurs. En cas d’empêchement, Mme Venti pouvait se faire remplacer par l’autre esthéticienne en demandant à M. Lamothe au préalable, mais cela ne s’est jamais produit. Toutefois, Mme Venti a effectivement remplacé l’autre esthéticienne de temps à autre.
+[15] Selon M. Lamothe, Mme Venti et l’autre esthéticienne répartissaient entre elles la semaine de 7 jours. Si Mme Venti avait indiqué qu’elle était disponible un jour donné et que des personnes demandaient des soins, Mme Venti devait se rendre à l’Auberge à l’heure convenue. Autrement, l’entente ne pouvait tenir. Mme Venti n’était pas obligée de demeurer sur place, mais elle devait être disponible au cas où ses services seraient nécessaires. M. Lamothe a témoigné qu’il tentait d’être accommodant envers les thérapeutes et que Mme Venti pouvait offrir ses services à d’autres endroits. Mme Venti pouvait se faire remplacer sans autorisation préalable, pour autant que la remplaçante soit qualifiée et connaisse la façon dont les choses se faisaient à l’Auberge. Il fallait toutefois aviser l’Auberge en cas de remplacement.
+[16] Mme Venti a témoigné qu’elle devait arriver 20 à 30 minutes avant l’heure prévue pour les soins afin de préparer la salle; ensuite, elle devait rester pour faire le ménage et la lessive. Normalement, selon Mme Venti, des soins d’une durée d’une heure nécessitaient deux heures de son temps. Toutefois, selon M. Lamothe, vu que le laps de temps entre les séances de soins est de 15 minutes, ce calcul de la durée par Mme Venti n’est pas exact.
+[17] Selon Mme Venti, tout le matériel nécessaire était fourni par M. Lamothe et se trouvait sur les lieux de l’Auberge, sauf la musique qu’elle apportait sur son iPod. En fournissant les soins, elle utilisait la méthode qu’elle avait apprise pendant ses études. M. Lamothe a témoigné que tout le matériel pour les esthéticiennes était fourni par l’Auberge, sauf les petits instruments tels les limes, les ciseaux et les instruments de sablage, qui étaient fournis par l’esthéticienne.
+[18] Pendant une période de trois mois en 2014, Mme Venti a travaillé à une commission scolaire pendant ses jours de disponibilité à l’Auberge, après avoir obtenu l’approbation de M. Lamothe. À la commission scolaire, elle a fait un remplacement de 11 h à 15 h.
+[19] Selon M. Lamothe, Mme Venti pouvait accroître ou réduire sa disponibilité. Le 15 de chaque moi, elle devait indiquer sa disponibilité pour le mois suivant. Mme Venti a déjà demandé à réduire sa disponibilité afin de remplir son contrat de remplacement à la commission scolaire, et elle faisait parfois aussi une telle demande pour pouvoir faire des contrats d’entretien ménager.
+[20] Mme Venti était payée à forfait, selon le type de soins fournis. Une somme de 5 $ devait être soustraite du prix forfaitaire des soins, et cette somme était remise à M. Lamothe pour couvrir les frais de location de la salle et les frais de matériel. Mme Venti recevait également une commission de 15% sur les produits qu’elle vendait, ces produits étant fournis par l’Auberge. Si Mme Venti ne donnait pas de soins, elle n’était pas rémunérée. Mme Venti ne bénéficiait d’aucun congé ni de vacances ni d’une assurance quelconque lorsqu’elle travaillait pour l’Auberge.
+[21] Mme Venti a témoigné qu’elle ne remettait pas de factures à M Lamothe, mais qu’elle lui remettait plutôt les originaux des relevés de vente sur lesquels elle notait les soins fournis, les produits vendus et les prix, et elle en conservait un double. Elle n’était pas inscrite aux fins des taxes et donc n’en faisait pas payer.
+[22] Mme Venti était payée aux deux semaines, à la suite de la remise des relevés de vente. Aucune retenue à la source n’était effectuée par M. Lamothe sur les sommes versées à Mme Venti et aucun relevé d’emploi ne lui a été délivré par M. Lamothe.
+[23] Depuis au moins l’année 2011, Mme Venti produisait ses déclarations de revenus en indiquant que les revenus tirés de ses activités à l’Auberge étaient des revenus d’entreprise. Mme Venti a également réclamé la déduction de diverses dépenses dans le calcul de ses revenus.
+[24] Sur la recommandation de M. Lamothe, qui lui avait précisé que ce pourrait être à l’avantage de l’Auberge, Mme Venti a suivi un cours pour les massages aux pierres chaudes. Mme Venti a déboursé une somme de 190 $ pour ce cours. Les frais de déplacement de Mme Venti pour se rendre de sa résidence à l’Auberge ne lui ont jamais été remboursés. Elle n’était pas payée non plus pour le temps de déplacement.
+[25] Depuis 2010, M. Lamothe exigeait qu’elle se rende une fois par année dans un salon qui se tenait au Palais des congrès à Montréal afin de représenter l’Auberge et d’y vendre des forfaits. Elle n’était pas payée pour ce faire ni même remboursée de ses frais de déplacement. M. Lamothe lui disait que ce serait bon pour elle puisqu’elle pourrait avoir plus de rendez-vous pour des soins esthétiques.
+[26] Selon Mme Venti, M. Lamothe la supervisait; il lui demandait d’arriver plus tôt et lui demandait de rendre un excellent service à la clientèle. Afin de vérifier la qualité des services, M. Lamothe a exigé de recevoir des soins sans même la rémunérer. M. Lamothe lui donnait des directives quant à la façon de faire son travail. Elle ne pouvait choisir les clients. Elle devait rendre compte à M. Lamothe ou bien à sa collègue esthéticienne.
+IV. La Loi et la jurisprudence
+[27] L’article 5 de la Loi prévoit expressément ce qu’est un emploi assurable en incluant dans la définition de cette expression un emploi exercé aux termes d’un contrat de louage de services ou d’apprentissage :
+5(1) Sens de emploi assurable — Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[…]
+5(1) Types of insurable employment — Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+. . .
+[Non souligné dans l’original.]
+Rien dans la Loi ne définit ce que constitue un « contrat de louage de services ».
+[28] Puisque les faits dans la présente affaire se sont déroulés au Québec, nous devons faire l’analyse de la relation entre Mme Venti et M. Lamothe au regard du droit privé applicable au Québec.
+[29] Ainsi, il faut appliquer les critères énoncés au C.c.Q. pour déterminer si l’on est en présence d’un contrat de louage de services (ou contrat de travail) ou d’un contrat d’entreprise ou de service. La juge Desjardins s’exprime ainsi dans NCJ Educational Services Limited c. M.R.N., 2009 CAF 131 :
+[49] Comme l’alinéa 5(1)a) de la Loi sur l’assurance-emploi ne contient aucune définition du contrat de louage de services, on doit se référer au principe de complémentarité consacré à l’article 8.1 de la Loi d’interprétation, L.R.C. 1985, ch. I-2, qui indique qu’il faut appliquer les critères prévus par le Code civil du Québec pour décider si un ensemble de faits déterminé crée un contrat de travail. […]
+[30] Les dispositions pertinentes du C.c.Q. sont les articles 2085 et 2086 pour ce qui est du contrat de travail et les articles 2098, 2099 et 2101 pour ce qui est du contrat d’entreprise ou de service :
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s’oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d’une autre personne, l’employeur.
+2086. Le contrat de travail est à durée déterminée ou indéterminée.
+[…]
+2098. Le contrat d’entreprise ou de service est celui par lequel une personne, selon le cas l’entrepreneur ou le prestataire de services, s’engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s’oblige à lui payer.
+2099. L’entrepreneur ou le prestataire de services a le libre choix des moyens d’exécution du contrat et il n’existe entre lui et le client aucun lien de subordination quant à son exécution.
+[…]
+2101. À moins que le contrat n’ait été conclu en considération de ses qualités personnelles ou que cela ne soit incompatible avec la nature même du contrat, l’entrepreneur ou le prestataire de services peut s’adjoindre un tiers pour l’exécuter; il conserve néanmoins la direction et la responsabilité de l’exécution.
+2085. A contract of employment is a contract by which a person, the employee, undertakes, for a limited time and for remuneration, to do work under the direction or control of another person, the employer.
+2086. A contract of employment is for a fixed term or an indeterminate term.
+. . .
+2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to another person, the client, to carry out physical or intellectual work or to supply a service, for a price which the client binds himself to pay to him.
+2099. The contractor or the provider of services is free to choose the means of performing the contract and, with respect to such performance, no relationship of subordination exists between the contractor or the provider of services and the client.
+. . .
+2101. Unless a contract has been entered into in view of his personal qualities or unless the very nature of the contract prevents it, the contractor or the provider of services may obtain the assistance of a third person to perform the contract, but its performance remains under his supervision and responsibility.
+[Non souligné dans l’original.]
+[31] Ainsi, pour qu’il y ait contrat de louage de services au sens de la Loi (ou contrat de travail au sens du C.c.Q.), les trois éléments suivants doivent être réunis (9041-6868 Québec Inc. c. M.R.N., 2005 CAF 334, paragraphe 11), soit :
+Une prestation de travail;
+Une rémunération;
+Un lien de subordination.
+[32] Le lien de subordination (ou le critère de direction ou contrôle) est l’élément déterminant qui distingue un contrat de travail d’un contrat de service en droit québécois. Tel que le précise le juge Archambault, un tribunal n’aura pas d’autre choix « que de conclure à l’existence ou à l’absence d’un lien de subordination pour pouvoir conclure qu’un contrat constitue un contrat de travail ou bien un contrat de service » (Beaucaire c. M.R.N., 2009 CCI 142, paragraphe 24).
+[33] Dans l’analyse qui doit être faite, il faut également considérer les articles 1425 et 1426 du C.c.Q., qui prévoient que l’intention commune des parties doit être recherchée :
+1425. Dans l’interprétation du contrat, on doit rechercher quelle a été la commune intention des parties plutôt que de s’arrêter au sens littéral des termes utilisés.
+1426. On tient compte, dans l’interprétation du contrat, de sa nature, des circonstances dans lesquelles il a été conclu, de l’interprétation que les parties lui ont déjà donnée ou qu’il peut avoir reçue, ainsi que des usages.
+1425. The common intention of the parties rather than adherence to the literal meaning of the words shall be sought in interpreting a contract.
+1426. In interpreting a contract, the nature of the contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage, are all taken into account.
+[34] Dans l’arrêt Grimard c. La Reine, 2009 CAF 47 [Grimard], la Cour d’appel fédérale a précisé qu’il n’est pas erroné de s’inspirer des critères établis par la common law dans l’analyse de la nature juridique de la relation de travail, et ce, afin de déterminer l’existence d’un lien de subordination, indépendamment du fait que l’on doive statuer sous le régime du droit civil québécois :
+[43] En somme, il n’y a pas, à mon avis, d’antinomie entre les principes du droit civil québécois et les soi-disant critères de common law utilisés pour qualifier la nature juridique de la relation de travail entre deux parties. Dans la recherche d’un lien de subordination juridique, c’est-à-dire de ce contrôle du travail, exigé par le droit civil du Québec pour l’existence d’un contrat de travail, aucune erreur ne résulte du fait que le tribunal prenne en compte, comme indices d’encadrement, les autres critères mis de l’avant par la common law, soit la propriété des outils, l’expectative de profits et les risques de pertes, ainsi que l’intégration dans l’entreprise.
+[Non souligné dans l’original.]
+[35] Toutefois, je suis d’avis que les propos tenus par le juge Décary dans l’arrêt 9041-6868 Québec Inc. c. M.R.N., précité (paragraphe 12), sont toujours d’actualité en ce sens que les facteurs autres que la direction ou le contrôle, qui, en droit québécois, est l’élément déterminant, ne seront que des indices à considérer pour faire cette détermination.
+[36] Dans l’arrêt 1392644 Ontario Inc. s/n [Connor Homes] c. M.R.N., 2013 CAF 85, paragraphes 39 et 40 [Connor Homes], le juge Mainville décrit une méthode en deux étapes à suivre afin de répondre à la question centrale, soit celle de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son propre compte (671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, [2001] 2 R.C.S. 983, paragraphe 47).
+[37] Je suis d’avis que cette méthode en deux étapes peut également s’appliquer au Québec, si l’on fait les adaptations nécessaires décrites ci-dessous.
+[38] Dans un premier temps, il faut déterminer l’intention subjective de chacune des parties à la relation : pour ce faire, il faut étudier le contrat, ou encore le comportement effectif des parties. À cet égard, il faut examiner les factures et vérifier s’il y a eu inscription aux fins des taxes et si la personne a produit sa déclaration de revenus en tant qu’entrepreneur indépendant.
+[39] Il est clair qu’en droit québécois, compte tenu des articles 1425 et 1426 du C.c.Q. cités ci-dessus, cette première étape est essentielle. Dans l’interprétation du contrat liant Mme Venti et M. Lamothe, il faudra rechercher la commune intention des parties, et pour ce faire il faudra tenir compte également des circonstances dans lesquelles le contrat a été conclu ainsi que des usages.
+[40] Dans un deuxième temps, il faut déterminer si la réalité objective confirme l’intention subjective des parties. Plus précisément, il faut déterminer si les faits concordent avec l’intention déclarée des parties. Selon le juge Mainville dans Connor Homes, précité, il faudra à cette étape se référer aux critères développés par la jurisprudence, soit le contrôle, la propriété des instruments de travail, les possibilités de profit et les risques de perte, et l’intégration dans l’entreprise du payeur. C’est à cette deuxième étape que je devrai déterminer s’il y avait un lien de subordination entre Mme Venti et M. Lamothe.
+V. ANALYSE
+1. Décision du Tribunal administratif du travail en vertu de la LNT
+[41] Tel qu’il est mentionné ci-dessus, le Tribunal administratif du travail (Division des relations du travail) a reconnu que, dans le cadre de ses fonctions d’esthéticienne auprès de l’Auberge, Mme Venti était une « entrepreneure dépendante dont la relation avec l’Auberge était caractérisée par un lien de subordination juridique » (décision en date du 15 août 2017, paragraphe 112).
+[42] Selon l’appelante, compte tenu de cette décision, je devrais conclure qu’elle était une employée de M. Lamothe aux fins de la Loi et qu’elle occupait un emploi assurable au cours de la période selon cette loi.
+[43] J’ai demandé aux parties de me transmettre leurs observations quant à savoir si la Cour devrait faire preuve de courtoisie judiciaire à l’égard de la décision du Tribunal administratif du travail.
+[44] Selon l’intimée et l’intervenant, la Cour n’est pas liée par cette décision. De plus, le principe de courtoisie judiciaire n’est pas applicable puisque le Tribunal administratif du travail est d’un niveau juridictionnel inférieur à la Cour, qui est maintenue en cour supérieure d’archives (article 3 de la Loi sur la Cour canadienne de l'impôt), et les dispositions législatives applicables sont différentes.
+[45] Je suis d’avis que la position de l’intimée et de l’intervenant doit être privilégiée. En effet, le Tribunal administratif du travail est d’un niveau juridictionnel inférieur à celui de la Cour. De plus, les dispositions législatives applicables sont différentes. Le Tribunal administratif du travail devait déterminer si Mme Venti était une « salariée » aux fins de la LNT. Le terme « salarié » est défini à l’article 1 de la LNT et désigne une personne qui travaille pour un employeur et qui a droit à un salaire, ainsi qu’un entrepreneur dépendant. La notion de « salarié » aux fins de la LNT est donc différente de celle que la Cour doit interpréter aux fins de la Loi et du C.c.Q. Il s’agit en effet, en l’espèce, de rechercher si Mme Venti et M. Lamothe étaient liés par un contrat de travail au sens du droit commun pendant la période. À cet égard, les juges dissidents dans la décision récente de la Cour suprême du Canada dans l’affaire Modern Concept d’entretien inc. c. Comité paritaire de l’entretien d’édifices publics de la région de Québec, 2019 CSC 28, ont dit ceci :
+[127] Par analogie, il est utile de rappeler que certaines lois en matière d’emploi et de travail admettent que des entrepreneurs « dépendants » puissent bénéficier, dans certaines circonstances, des mêmes conditions que les salariés au sens du droit commun (Loi sur les normes du travail, art. 1(10)); Code canadien du travail, L.R.C. 1985, c. L 2, art. 3(1); Loi de 1995 sur les relations de travail, L.O. 1995, c. 1, ann. A, art. 1(1); voir par exemple Dicom, par. 14‑16; McKee c. Reid’s Heritage Homes Ltd., 2009 ONCA 916, 315 D.L.R. (4th) 129, par. 31-36). En vertu de telles lois, un donneur d’ouvrage peut être assimilé à un employeur même en l’absence d’un contrat de travail au sens du droit commun, mais un certain degré de contrôle ou de dépendance économique doit néanmoins être présent. Nous estimons qu’il s’agit aussi du lien minimal requis sous le régime de la LDCC afin qu’il existe un « employeur professionnel ». Il n’est cependant pas essentiel de décider ici si un contrat de travail au sens du droit commun est nécessaire à cette fin.
+[Non souligné dans l’original.]
+2. Relation entre Mme Venti et M. Lamothe
+[46] Je ferai l’analyse de la relation entre Mme Venti et M. Lamothe en utilisant la méthode en deux étapes proposée par le juge Mainville dans l’arrêt Connor Homes, précité, en faisant les adaptations nécessaires.
+[47] Pour les motifs suivants, je conclus que Mme Venti était liée à M. Lamothe en vertu d’un contrat de service et non pas d’un contrat de travail. Ainsi, au cours de la période, lorsque Mme Venti agissait à titre d’esthéticienne, elle n’occupait pas un emploi assurable auprès de M. Lamothe au sens de l’alinéa 5(1)a) de la Loi.
+Intention subjective de chacune des parties à la relation
+[48] La preuve a démontré selon la prépondérance des probabilités que Mme Venti et M. Lamothe avaient chacun l’intention subjective d’être lié par un contrat de service et non par un contrat de travail.
+[49] Le contrat conclu par Mme Venti et M. Lamothe indique que Mme Venti n’était pas une employée de l’Auberge, mais plutôt une travailleuse autonome. Le contrat prévoit un paiement forfaitaire pour les soins, selon le type de services fournis par Mme Venti; de ce paiement devait être déduit un montant de 5 $ pour les frais de location de la salle et pour l’entretien de l’équipement et des locaux. Des factures devaient être remises à l’Auberge afin que Mme Venti soit payée. L’annexe au contrat prévoyant certaines obligations ne modifie pas ma conclusion à cet égard puisqu’il s’agit de règles qui concernent la bonne gestion de l’Auberge.
+[50] Le témoignage rendu à l’audience par M. Lamothe a été clair. Il avait l’intention d’engager Mme Venti à titre de travailleuse autonome et non pas à titre d’employée.
+[51] Quant à Mme Venti, elle a prétendu que son intention était d’être considérée comme une employée. Toutefois, pour les motifs suivants, je suis d’avis que la preuve a plutôt démontré selon la prépondérance des probabilités que son intention était d’être considérée travailleuse autonome et non pas comme une employée.
+[52] À l’audience, Mme Venti a prétendu que son souvenir demeurait vague à l’égard du contrat, mais elle a admis l’avoir signé en 2010. Toutefois, selon Mme Venti, ce contrat ne pouvait avoir une grande valeur à son égard puisque le terme « massothérapeute » est utilisé pour la désigner alors qu’elle n’est pas massothérapeute. Je ne peux souscrire à cet argument. En effet, la Cour doit rechercher l’intention commune des parties au contrat et ne pas s’arrêter au sens littéral des termes utilisés (article 1425 du C.c.Q.). De plus, même si j’acceptais l’argument de l’appelante selon lequel ce contrat n’est pas applicable à elle puisqu’elle n’est pas massothérapeute, ou encore celui selon lequel il ne s’applique pas à cette dernière puisqu’il est daté de 2010 et n’a pas été renouvelé, ou bien celui voulant que l’absence de paraphes sur toutes les pages le rende non valide, je suis d’avis que les éléments de preuve indiquent que les parties avaient conclu un contrat, qu’il soit écrit ou verbal, démontrant que Mme Venti était travailleuse autonome.
+[53] Dans son témoignage, Mme Venti a indiqué qu’elle ignorait la signification de l’expression « travailleur autonome » utilisée dans le contrat puisqu’elle est européenne et qu’elle se considérait plutôt comme une employée. Cette partie du témoignage de Mme Venti n’est pas plausible. En effet, dans la même phrase du contrat qui prévoit que Mme Venti offre ses services à titre de travailleuse autonome, il est précisé spécifiquement qu’elle n’est pas une employée de l’Auberge. Également, Mme Venti a commencé à fournir des soins esthétiques à l’Auberge en 2008, mais le contrat n’a été signé qu’en 2010. Ainsi, il me semble que Mme Venti aurait eu amplement le temps de se renseigner quant aux différences entre le statut d’employé et celui de travailleur autonome avant de signer le contrat.
+[54] Bien que Mme Venti ait témoigné qu’elle établissait non pas des factures, mais plutôt des relevés de vente, des copies de factures ont été produites à l’audience. Ces documents, préparés par Mme Venti, s’intitulent « facture » et ont l’apparence de factures. Je ne vois donc pas comment Mme Venti peut prétendre qu’elle n’établissait pas de factures pour les soins qu’elle fournissait à titre d’esthéticienne.
+[55] La preuve a également démontré que Mme Venti a produit ses déclarations de revenus pour la période à titre de travailleuse autonome. En outre, depuis au moins l’année 2011, elle déduisait dans le calcul de son revenu des dépenses, tels des frais de gestion et d’administration, des frais de véhicule à moteur, des frais de bureau, de fournitures, de téléphone, d’électricité, de chauffage et d’eau, et l’amortissement. À l’audience, Mme Venti a témoigné qu’elle ne se souvenait pas du type de dépenses dont elle demandait la déduction et que c’est sur les conseils de sa comptable que ces dépenses ont été déduites dans le calcul de son revenu. Mme Venti a témoigné que, comme elle ne connaît rien aux déclarations de revenus, elle se fiait entièrement à sa comptable; cette dernière préparait ses déclarations de revenus et les produisait auprès des autorités fiscales sans même que Mme Venti les vérifie. Même si j’accepte le fait que Mme Venti ne connaît rien en matière de déclarations de revenus, cela ne change aucunement le portrait présenté par Mme Venti auprès des autorités fiscales : elle a produit ses déclarations de revenus en indiquant qu’elle avait gagné un revenu d’entreprise et non pas un revenu d’emploi, et elle a réclamé la déduction de dépenses dans le calcul de son revenu. Mme Venti ne peut se cacher derrière sa comptable afin de modifier le portrait présenté dans ses déclarations de revenus.
+[56] La preuve a démontré que Mme Venti était payée aux deux semaines à la suite de la remise des factures. Aucune retenue à la source n’était effectuée par M. Lamothe sur les sommes versées à Mme Venti et aucun relevé d’emploi ne lui a été remis. Cette situation était différente de celle qui existait dans le cas du travail effectué par Mme Venti auprès de la commission scolaire en 2014, pour lequel Mme Venti a reçu un relevé d’emploi.
+[57] Finalement, la preuve a démontré que Mme Venti ne bénéficiait d’aucun avantage social, tel un régime de retraite, d’assurance dentaire ou de soins de santé.
+Intention objective ou lien de subordination juridique
+[58] La preuve a démontré selon la prépondérance des probabilités que M. Lamothe n’avait pas le pouvoir de contrôler le travail effectué par Mme Venti et, ainsi, qu’il n’y avait pas de lien de subordination juridique entre Mme Venti et M. Lamothe. Les éléments suivants démontrent cette absence de contrôle ou de direction de la part de M. Lamothe.
+[59] Mme Venti était la seule responsable de la manière d’exécuter le travail. Elle est une esthéticienne qualifiée, possédant une expertise spécifique. Ni M. Lamothe ni l’Auberge n’exerçait de surveillance directe sur le travail effectué par Mme Venti. Tel que la Cour d’appel fédérale l’a précisé dans l’arrêt Grimard, précité, il ne faut pas oublier la distinction entre le droit de l’employeur de contrôler l’exécution du travail et le droit du client de contrôler la qualité et le résultat du travail (Grimard, précité, paragraphe 31). M. Lamothe ne contrôlait ni les soins ni l’exécution du travail effectué par Mme Venti, mais il contrôlait plutôt la qualité des services rendus par Mme Venti aux clients de l’Auberge. Ainsi, le contrat prévoyait en annexe certaines obligations auxquelles Mme Venti devait se plier. À cet égard, il prévoyait notamment le non-paiement du thérapeute si, en cas de manquement grave de la part du thérapeute, un client insistait pour se faire rembourser des soins reçus. Ces obligations semblent tout à fait appropriées dans le cadre de la fourniture de soins tels les soins esthétiques. M. Lamothe offrait un bassin de clients pour Mme Venti, et, en contrepartie, celle-ci s’engageait à respecter les obligations énoncées dans le contrat et dans l’annexe. Il ressort de la preuve que Mme Venti était complètement autonome dans l’exécution de son travail proprement dit.
+[60] Mme Venti a indiqué que M. Lamothe la supervisait; il lui demandait d’arriver plus tôt et lui demandait de rendre un excellent service à la clientèle. Ces éléments ne sont pas indicatifs d’un contrôle ou d’une direction exercés par un employeur dans le cadre d’un contrat de travail. M. Lamothe ne faisait que s’assurer de la qualité des services offerts et de l’environnement dans lequel les services étaient offerts; M. Lamothe ne contrôlait pas les services comme tels. Mme Venti a témoigné à l’audience qu’elle avait suivi en Europe une formation professionnelle pour les soins esthétiques et qu’elle utilisait les connaissances qu’elle avait ainsi acquises pour rendre les services. Également, Mme Venti devait indiquer sa disponibilité à l’avance pour permettre à M. Lamothe de planifier l’horaire des soins offerts aux clients de l’Auberge ou aux personnes se présentant directement pour des soins. Cet élément n’est pas une caractéristique du contrôle ou de la direction exercés par un employeur. M. Lamothe devait être fixé sur la disponibilité de Mme Venti afin de pouvoir offrir des soins esthétiques à ses clients. Pendant un certain temps, Mme Venti a pu également occuper un poste de remplaçante auprès d’une commission scolaire, ce qui indique une grande flexibilité quant à son horaire à l’Auberge.
+[61] De plus, la preuve a démontré qu’il était possible pour Mme Venti, en avisant préalablement M. Lamothe, de se faire remplacer par une autre esthéticienne pendant ses périodes de disponibilité, mais que cela ne s’était jamais produit.
+[62] L’objet du contrat liant Mme Venti à M. Lamothe était l’exécution des tâches spécifiques d’esthéticienne, selon les rendez-vous pris par les clients de l’Auberge et en fonction de la disponibilité de Mme Venti indiquée par elle, à l’avance. La preuve a démontré que Mme Venti n’était pas tenue de demeurer à l’Auberge lorsque les soins étaient terminés. Elle pouvait aller et venir à son gré, en fonction des rendez-vous fixés pour la journée. La preuve a aussi démontré qu’elle ne recevait aucune rémunération si elle ne fournissait pas de soins.
+[63] Les facteurs décrits ci-dessus indiquent une absence de lien de subordination juridique entre Mme Venti et M. Lamothe dans le cadre de leur entente pour la prestation de services de soins esthétiques.
+[64] Les autres critères élaborés par la common law, qui, en droit québécois, ne constituent que des indices d’encadrement, ne viennent pas modifier cette conclusion.
+[65] L’indice de la propriété des outils est plutôt neutre. En effet, le contrat prévoyait que Mme Venti devait payer 5 $ par séance de soins à titre de frais de loyer, de frais d’entretien des locaux et de frais de matériel et qu’elle ne devait fournir que les petits instruments, tels que les limes à ongles. Compte tenu de la difficulté qu’il y aurait eu à déplacer le matériel, il est tout à fait normal que l’Auberge ait fourni à Mme Venti les outils nécessaires.
+[66] Les indices que sont les possibilités de profit et les risques de perte sont également plutôt neutres, ou favorisent très légèrement la caractérisation du contrat entre Mme Venti et M. Lamothe comme un contrat de service. En effet, puisque Mme Venti recevait 15% de commission sur les ventes de produits, elle pouvait accroître ses revenus par la promotion de ces produits. Mme Venti n’avait aucun revenu garanti puisque ses revenus fluctuaient selon les soins fournis. Toutefois, les risques de perte étaient plutôt minces, puisqu’elle n’engageait pas de dépenses si elle ne fournissait pas de soins. De plus, même si Mme Venti devait débourser pour des frais de formation et engager certaines dépenses pour des déplacements, il est peu probable que ces dépenses aient pu excéder ses revenus.
+[67] Finalement, l’indice de l’intégration est également plutôt neutre. Durant ses jours de disponibilité, Mme Venti devait être disponible de 8 h 30 à 20 h 30. Tel qu’il est mentionné ci-dessus, elle pouvait s’absenter durant ses heures de disponibilité, pour autant qu’elle se présente à l’heure prévue pour les soins. Elle aurait ainsi pu rendre des services de soins esthétiques à d’autres endroits, pourvu qu’elle se présente à l’Auberge au moment prévu pour les soins.
+VI. CONCLUSION
+[68] Selon la prépondérance des probabilités, au cours de la période, Mme Venti n’occupait pas auprès de M. Lamothe un emploi assurable à titre d’esthéticienne au sens de l’alinéa 5(1)a) de la Loi. Les exigences du contrat de louage de services n’ont pas été remplies vu l’intention des parties d’être liées par un contrat de service et vu l’absence de contrôle ou de direction exercés par M. Lamothe sur le travail de Mme Venti à titre d’esthéticienne, de sorte qu’il n’y avait aucun lien de subordination juridique entre eux.
+[69] Pour tous ces motifs, l’appel de Mme Venti est rejeté et la décision de la ministre est confirmée. Bien que Mme Venti ait engagé certains frais dans le cadre de cet appel, compte tenu du rejet de celui-ci et de l’absence de dispositions spécifiques contenues dans les Règles de procédure de la Cour canadienne de l’impôt à l’égard de la Loi sur l’assurance-emploi, permettant à la Cour d’accorder des dépens, aucuns dépens ne lui seront accordés.
+Signé à Québec (Q uébec), le 27e jour de juin 2019.
+« Dominique Lafleur »
+Juge Lafleur
+RÉFÉRENCE :
+2019 CCI 142
+NO DU DOSSIER DE LA COUR :
+2016-2865(EI)
+INTITULÉ DE LA CAUSE :
+RITA VENTI c. LA MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 30 avril 2019
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Dominique Lafleur
+DATE DU JUGEMENT :
+Le 27 juin 2019
+COMPARUTIONS :
+Représentant de l’appelante :
+Patrick Demoulin-Dorval
+Avocat de l’intimée :
+Me Emmanuel Jilwan
+Avocate de l’intervenant :
+Me Lucie Roubin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada

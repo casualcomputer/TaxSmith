@@ -1,0 +1,166 @@
+Title: Lansdowne Equity Ventures Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27322/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-565-27322-lansdowne-equity-ventures-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-10-18
+
+# Lansdowne Equity Ventures Ltd. c. La Reine
+
+- Citation: 2006 CCI 565
+- Decision date: 2006-10-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 862, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lansdowne Equity Ventures Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-18
+Référence neutre
+2006 CCI 565
+Numéro de dossier
+2005-322(IT)G
+Juges et Officiers taxateurs
+Ronald D. Bell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005‑322(IT)G
+ENTRE :
+LANSDOWNE EQUITY VENTURES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 4 octobre 2006 à Calgary (Alberta)
+Devant : L’honorable juge R.D. Bell
+Comparutions :
+Avocat de l’appelante :
+Me H. George McKenzie, c.r.
+Avocat de l’intimée :
+Me John O’Callaghan
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1999 et 2000 sont accueillis, et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+L’adjudication des dépens est différée conformément à ces motifs.
+Signé à Ottawa, Canada, ce 18e jour d’octobre 2006.
+« R.D. Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 20e jour de décembre 2007.
+Jean David Robert, traducteur
+Référence : 2006CCI565
+Date : 20061018
+Dossier : 2005-322(IT)G
+ENTRE :
+LANSDOWNE EQUITY VENTURES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bell
+[1] L’appelante, qui exploite 12 parcs de maisons mobiles ayant approximativement 1 700 plateformes de maisons mobiles de gravier ou de terre, est propriétaire d’environ 1 100 maisons mobiles louées comme des unités de logement résidentielles. Elles ont toutes des cadres en bois, des carrosseries en acier, des essieux, des roues, des dispositifs d’attelage, des freins et des feux de secours.
+[2] Pour ses années d’imposition 1999 et 2000, l’appelante a demandé une déduction pour amortissement (la « DPA ») calculée à un taux de 30 % pour les maisons mobiles en partant du principe qu’elles étaient des remorques visées par la catégorie 10 de l’annexe II du Règlement de l’impôt sur le revenu. Cette catégorie comprend :
+Les biens non compris dans aucune autre catégorie constitués par […] une remorque, y compris celle qui est conçue pour être utilisée sur route et sur rail [...]
+Le ministre du Revenu national a refusé ces déductions et a établi de nouvelles cotisations à l’égard de l’appelante pour les deux années en cause au motif que chacune des unités était, au sens de la catégorie 1 de l’annexe II :
+un bâtiment ou une autre structure, ou toute partie de ceux-ci, y compris les parties constituantes, notamment les fils électriques, la plomberie, les réseaux d’extincteurs automatiques, le matériel de climatisation, les appareils de chauffage, les appareils d’éclairage, les ascenseurs et les escaliers roulants.
+Le taux de la DPA pour ces biens est de 4 %.
+[3] La question en litige est de savoir dans quelle catégorie de l’annexe II sont comprises les maisons mobiles, à savoir :
+la catégorie 10, décrite ci‑dessus, à laquelle s’applique un taux de DPA de 30 %,
+la catégorie 1, décrite ci‑dessus, à laquelle s’applique un taux de DPA de 4 %,
+la catégorie 6 (taux de 10 %), qui comprend les biens non compris dans aucune autre catégorie constitués par
+[…] un édifice construit […] en pans de bois […] y compris les parties constituantes, notamment les fils électriques, la tuyauterie, les réseaux extincteurs, le matériel pour la climatisation, les appareils de chauffage, les luminaires, les ascenseurs et escaliers roulants, pourvu que l’édifice […] n’ait aucune semelle ni autre genre d’appui en fondation sous le niveau du sol […]
+OU
+la catégorie 8 (taux de 20 %), qui comprend :
+Les biens non compris dans les catégories 1 [...] qui sont constitués par :
+[…] une immobilisation matérielle qui n’est pas comprise dans une autre catégorie
+de l’annexe II, à l’exception de certains biens qui n’ont aucun rapport avec les maisons mobiles en cause.
+[4] L’avocat de l’appelante a porté à l’attention de la Cour la norme de l’Association canadienne de normalisation (la « CSA ») qui est décrite dans un document intitulé Exigences véhiculaires pour maisons mobiles et véhicules récréatifs, qui traite des prescriptions relatives aux :
+[…] attelages et attaches des remorques, à leurs feux, matériaux de vitrage, pneus et jantes, ainsi qu’à leurs systèmes de freinage mais ne contient pas de prescriptions […] relatives aux maisons motorisées.
+Le terme « véhicule » est ainsi défini dans cette norme :
+[…] maison mobile, véhicule récréatif ou véhicule équipé d’un campeur amovible ou monté sur châssis.
+L’argument de l’avocat était que ces maisons mobiles sont assujetties à des normes de construction qui s’appliquent aux remorques, et qu’il n’y a aucune distinction entre les maisons mobiles et les remorques. Il a invoqué les normes relatives aux feux et aux freins des véhicules, lesquelles s’appliquent aux maisons mobiles et aux remorques.
+L’avocat de l’appelante a aussi renvoyé la Cour à un document intitulé Exigences relatives au transport des maisons mobiles rédigé par la CSA. Il a souligné qu’une distinction est établie dans la section du document consacrée aux définitions entre une maison mobile, qui est décrite comme un :
+Logement unifamilial déménageable, constitué de une section ou plus [...]
+au moment de sa construction, et une maison modulaire, qui est décrite comme étant des :
+Sections ou sections finies d’une unité complète de logement fabriquées en usine et transportées pour être installées sur place.
+[5] L’avocat a soutenu, en citant d’autres exigences établies dans d’autres normes, que les maisons mobiles sont construites suivant les normes s’appliquant aux remorques, pas aux maisons, et qu’elles peuvent être déplacées. Il a attiré l’attention de la Cour sur des photographies des unités, qui montrent qu’elles sont toujours équipées de dispositifs d’attelage, et il a affirmé que certaines des unités sont déplacées occasionnellement, et qu’aucune n’est fixée à demeure aux fondations.
+[6] Il a ensuite renvoyé aux différentes catégories de biens et a conclu que les unités étaient des remorques, non pas des bâtiments ni des structures, et que, si elles n’étaient aucun de ces biens, elles seraient comprises dans la catégorie 8, la catégorie « fourre‑tout », à laquelle s’applique un taux de DPA de 20 %.
+[7] En ce qui concerne la catégorie 10, l’avocat de l’appelante a dit que, comme le mot « remorque » n’y est pas défini et que l’utilité et la fréquence de déplacement d’une remorque n’y sont pas précisées, ce mot réfère tout simplement à une remorque. Il a déclaré que le sens manifeste et ordinaire du mot « remorque » est « remorque ». Il a affirmé que ce mot est entre autres défini en ces termes dans le Shorter Oxford English Dictionary, cinquième édition, volume 2 :
+[traduction]
+Véhicule destiné à être traîné, tiré par un autre véhicule [...]
+Il a aussi cité ce passage de la définition :
+[traduction]
+[…] terrain de caravaning, parc pour caravanes […] caravane […] autocaravane […] angl. amér. : une maison mobile […]
+[8] L’avocat a également fait référence au Dictionary of Canadian Law, qui définit ainsi le mot « remorque » :
+[traduction]
+Véhicule conçu pour être tracté par un véhicule automobile et destiné au transport des biens ou des personnes; la présente définition vise notamment des remorques conçues, construites et aménagées à titre de local d’habitation ou de lieu pour y vivre ou y dormir, à titre permanent ou temporaire [...] Une remorque, semi‑remorque ou maison mobile utilisée ou destinée à être utilisée comme habitation, bureau ou établissement commercial ou industriel et qui n’est pas devenue un immeuble.
+Il a ajouté que, comme les unités en cause reposaient simplement sur des blocs, elles n’étaient pas devenues des immeubles.
+[9] L’avocat de l’appelante a porté à l’attention de la Cour la décision Dubreuil Brothers Ltd. v. M.N.R., 78 DTC 1584, dans laquelle la Commission de révision de l’impôt (la « Commission ») a conclu que les remorques étaient comprises dans la catégorie 8 de l’annexe II. Dans cette décision, M. Cardin, un membre de la Commission, a affirmé que :
+[…] il semble que le seul point en litige consiste à déterminer « ce qui fait qu’une remorque n’est pas une remorque ».
+M. Cardin a ensuite traité la question posée.
+L’avocat de l’appelante a affirmé que le raisonnement de la Commission était défectueux essentiellement parce que, si un bien est une remorque, il demeure une remorque.
+[10] Il a également attiré l’attention de la Cour sur l’arrêt British Columbia Forest Products Ltd. v. M.N.R., 71 DTC 5178 et, en prévision de l’argument de l’intimée, il a cité les propos suivants tenus par lord Denning dans l’arrêt Cardiff Rating Authority v. Guest, Keen Baldwin’s Iron & Steel Co. Ltd. :
+[traduction]
+Une structure, c’est quelque chose qui est construit, mais les choses construites ne sont pas toutes des structures. Par exemple, les navires sont construits, mais ce ne sont pas des structures. Une structure, c’est une chose de grandes dimensions, construite à partir de pièces distinctes et destinée à demeurer en permanence sur des fondations permanentes […]
+[11] Il a aussi renvoyé à la décision Alberta Agricultural Development Corp. v. Corey Livestock Ltd. [1992] 4 W.W.R. 571, dans laquelle le tribunal a conclu qu’une maison mobile n’était pas une structure. Dans cette affaire, la maison mobile reposait sur des poutres de support en béton sans y être attachée. Elle était raccordée aux services publics offerts et elle était bordée de blocs de béton.
+[12] L’avocat a ensuite signalé à la Cour la décision Farm Credit Corp. v. Klassen, [1989] A.J. nº 109, publiée dans le recueil Alberta Judgments, dans laquelle est citée la disposition suivante d’un acte hypothécaire :
+[traduction]
+ET IL EST PAR LES PRÉSENTES DÉCLARÉ et reconnu que toutes les structures, les bâtiments et les améliorations, fixes ou non, qui se trouvent sur lesdits lieux ou qui y seront installés constituent et constitueront (en plus des autres accessoires fixes se trouvant sur les lieux) des accessoires fixes faisant partie intégrante du bien réel et de la présente sûreté.
+Dans cette décision, la Cour du banc de la Reine de l’Alberta a affirmé que :
+[traduction]
+La maison mobile n’est pas fixée et attachée aux poutres en béton sur lesquelles elle repose et, donc, elle conserve la mobilité qu’évoque son nom.
+Cette cour a conclu que la maison mobile n’était pas une structure, un bâtiment ou une amélioration.
+[13] Dans l’affaire Marshall v. Consol (District), [1983] M.J. nº 54, le terrain en cause appartenait au demandeur et servait de terrain de caravaning, sur lequel se trouvaient des maisons mobiles, qui appartenaient à d’autres personnes. En ce qui concerne la question de savoir si les maisons mobiles étaient des biens personnels ou des biens réels, la Cour du Banc de la Reine du Manitoba a conclu dans cette cause que :
+[traduction]
+Les maisons mobiles sont exactement ce que leur nom évoque, c’est‑à‑dire mobiles, et, à mon avis, elles doivent être considérées comme des biens personnels tout comme le sont des biens tels que des automobiles, des camions et de l’équipement. Le fait que les maisons mobiles peuvent être raccordées aux égouts, à un réseau d’alimentation en eau ou au réseau électrique relève davantage du souci de commodité de l’usager [...] selon moi, elles ne sont pas des bâtiments ou des structures.
+[14] L’avocat de l’appelante a aussi renvoyé à l’arrêt R. c. Springman [1964] R.C.S. 267.
+[15] L’appelante a conclu ses observations en affirmant simplement que les maisons mobiles sont des remorques, et non pas des bâtiments ni des structures, et que, si elles ne sont aucun des ces biens, elles seront comprises dans la catégorie 8 de l’annexe II du Règlement de l’impôt sur le revenu.
+[16] L’avocat de l’intimée a soutenu que les maisons mobiles étaient comprises dans la catégorie 1 en ce qu’elles étaient des structures. Il a concédé qu’elles n’étaient pas des bâtiments. Il a invoqué la décision Dubreuil Brothers Ltd. et il a souscrit à l’affirmation de M. Cardin selon laquelle la question à trancher était de savoir « ce qui fait qu’une remorque n’est pas une remorque ». Il est difficile de comprendre pourquoi l’avocat de l’intimée a prétendu qu’une maison mobile était un « bâtiment » qui était visé par la catégorie 6 compte tenu de sa concession à l’égard de la catégorie 1.
+[17] Je ne considère pas que ce soit la question appropriée à poser en l’espèce. La question qu’il faut se poser est de savoir si la maison mobile est une remorque. Dans la décision Dubreuil Brothers Ltd., M. Cardin a dit que :
+Les deux parties à l’appel admettent que les biens en cause sont des bâtiments ou des constructions qui ne sont pas fixés à demeure au sol, qu’ils peuvent être tirés et déplacés sur leurs propres roues et qu’ils peuvent aussi servir d’habitations.
+Il n’existe aucune admission semblable en l’espèce.
+[18] La catégorie 10 englobe les biens non compris dans aucune autre catégorie constitués par :
+une remorque, y compris celle qui est conçue pour être utilisée sur route et sur rail,
+[19] Je me fonde sur les paragraphes 5 et 6 de l’exposé conjoint des faits, qui énonce que :
+[traduction]
+5. Toutes les maisons mobiles ont des cadres en bois, des carrosseries en acier, des essieux, des roues, des dispositifs d’attelage, des freins et des feux de secours.
+6. L’intérieur et l’extérieur des maisons mobiles sont conçus de telle sorte qu’elles peuvent être remorquées sur une voie publique ou déplacées d’un parc de maisons mobiles à un autre, au besoin.
+À mon avis, ces maisons mobiles sont, au sens ordinaire du mot, des remorques.
+Il est clair que les unités en cause ne sont pas des « bâtiments » puisqu’elles ont été construites comme des maisons mobiles. Pour les motifs exposés ci‑dessus, elles ne sont pas des « structures ». Elles ne sont donc pas comprises dans la catégorie 1 ni dans la catégorie 6. J’arrive à la conclusion que les maisons mobiles sont des remorques auxquelles s’applique un taux de DPA de 30 % du fait que chaque unité constitue, au sens de la catégorie 10 de l’annexe II, un bien qui est :
+[…] une remorque, y compris celle qui est conçue pour être utilisée sur route et sur rail [...]
+[20] À la demande des avocats, je leur laisse le soin d’organiser une conférence téléphonique concernant les dépens.
+Signé à Ottawa, Canada, ce 18e jour d’octobre 2006.
+« R.D. Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 20e jour de décembre 2007.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI565
+Nº DU DOSSIER DE LA COUR : 2005‑322(IT)G
+INTITULÉ : Lansdowne Equity Ventures Ltd. et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 4 octobre 2006
+MOTIFS DU JUGEMENT : L’honorable juge R.D. Bell
+DATE DU JUGEMENT : Le 18 octobre 2006
+COMPARUTIONS :
+Avocat de l’appelante :
+Me H. George McKenzie, c.r.
+Avocat de l’intimée :
+Me John O’Callaghan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me H. George McKenzie, c.r.
+Cabinet : Felesky, Flynn LLP
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

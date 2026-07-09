@@ -1,0 +1,243 @@
+Title: Burwell v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28110/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-628-28110-burwell-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-09-11
+
+# Burwell v. M.N.R.
+
+- Citation: 2003 TCC 628
+- Decision date: 2003-09-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1661, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burwell v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-11
+Neutral citation
+2003 TCC 628
+File numbers
+2002-3384(EI)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-3384(EI)
+BETWEEN:
+RICHARD E. BURWELL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+DALE VENO,
+Intervenor.
+____________________________________________________________________
+Appeal heard on August 5, 2003 at Halifax, Nova Scotia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Cecil Woon
+For the Intervenor:
+The Intervenor himself
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue on the appeal made to him under section 92 of the Act is vacated on the basis that Dale Veno was not engaged in insurable employment within the meaning of paragraph 5(1)(a) of the Act for the period August 1, 2001 to November 3, 2001.
+Signed at Ottawa, Canada this 11th day of September, 2003.
+"Campbell J. Miller"
+Miller J.
+Docket: 2002-3843(EI)
+BETWEEN:
+RICHARD E. BURWELL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 5, 2003 at Halifax, Nova Scotia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Cecil Woon
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue on the appeal made to him under section 92 of the Act is vacated on the basis that Michael Craig was not engaged in insurable employment within the meaning of paragraph 5(1)(a) of the Act for the period August 1, 2001 to November 13, 2001.
+Signed at Ottawa, Canada this 11th day of September, 2003.
+"Campbell J. Miller"
+Miller J.
+Docket: 2002-3936(CPP)
+BETWEEN:
+RICHARD E. BURWELL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+DALE VENO,
+Intervenor.
+____________________________________________________________________
+Appeal heard on August 5, 2003 at Halifax, Nova Scotia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Cecil Woon
+For the Intervenor:
+The Intervenor himself
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to section 28 of the Canada Pension Plan is allowed and the determination of the Minister of National Revenue on the application made to him under section 27.1 of the Plan is vacated on the basis that Dale Veno was not engaged in insurable employment within the meaning of paragraph 5(1)(a) of the Act for the period August 1, 2001 to November 3, 2001.
+Signed at Ottawa, Canada this 11th day of September, 2003.
+"Campbell J. Miller"
+Miller J.
+Docket: 2002-3935(CPP)
+BETWEEN:
+RICHARD E. BURWELL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 5, 2003 at Halifax, Nova Scotia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Cecil Woon
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to section 28 of the Canada Pension Plan is allowed and the determination of the Minister of National Revenue on the application made to him under section 27.1 of the Plan is vacated on the basis that Michael Craig was not engaged in insurable employment within the meaning of paragraph 5(1)(a) of the Act for the period August 1, 2001 to November 13, 2001.
+Signed at Ottawa, Canada this 11th day of September, 2003.
+"Campbell J. Miller"
+Miller J.
+Citation: 2003TCC628
+Date: 20020911
+Docket: 2002-3384(EI)
+BETWEEN:
+RICHARD E. BURWELL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+DALE VENO,
+Intervenor,
+AND BETWEEN:
+Docket: 2002-3843(EI)
+RICHARD E. BURWELL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND BETWEEN:
+Docket: 2002-3936(CPP)
+RICHARD E. BURWELL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+DALE VENO,
+Intervenor,
+AND BETWEEN:
+Docket: 2002-3935(CPP)
+RICHARD E. BURWELL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Miller, J.
+[1] These are four appeals brought by Mr. Burwell in connection with the renovation and preservation work by Mr. Dale Veno and Mr. Michael Craig in 2001 on Mr. Burwell's historic property in Lunenburg, Nova Scotia. The Respondent maintains the workers were in insurable employment for purposes of the Employment Insurance Act and in pensionable employment for purposes of the Canada Pension Plan; in other words, that they were Mr. Burwell's employees. Mr. Burwell's position is that the workers were not his employees, but independent contractors hired to do foundation work on the property in question. Mr. Veno filed a Notice of Intervention; Mr. Craig did not.
+[2] In 2002, Mr. Burwell acquired a historic house on York Street in Lunenburg. Initially, it was acquired as a project for the Burwells' daughter who was university educated in historic preservation, but whose move to the United States left the Burwells themselves having to deal with the property. Mrs. Burwell testified that fixing up houses was "her thing". The ultimate goal of the Burwells was to sell the property to a historical society in the town, possibly as a museum. At one point in their ownership, however, they appreciated the funding would not likely be available for that goal. The Burwells owned three other Nova Scotia properties – one in which they resided during their time in Canada (their principal residence was in New Hampshire); one inherited by Mrs. Burwell in Chester, Nova Scotia; and the third, a rental property in Lunenberg.
+[3] Upon acquisition of the York Street property, a historic building of approximately 20 feet by 30 feet, Mr. Burwell sought someone to carry out the necessary preservation work. He contacted Dale Veno, who at the time was employed with a movie company, to look at the foundation. They agreed that due to the uncertainty of the extent of the work, Mr. Burwell would retain Mr. Veno at a negotiated weekly rate of $18 per hour for a 48-hour week. Mr. Veno referred three of his co-workers to Mr. Burwell. They all met and agreed that Mr. Burwell would pay Mr. Craig at $12 per hour based on a 48-hour week, Renee Holdershaw at $8 per hour for a 48-hour week and Crystal (Mr. Burwell never knew Crystal's last name) at $8 per hour for a 48-hour week. Both Mr. Craig and Mr. Veno testified that they asked about deductions and were advised by Mr. Burwell that they would be looked after.
+[4] The work was initially to be exploratory, determining how the structure held together, and then to proceed with a skilful demolition and renovation, all the time ensuring the historical integrity of the building.
+[5] No formal agreement was entered. For the first payment, one cheque was made to Dale Veno to cover all four workers. Thereafter, upon Mr. Craig's request, Mr. Burwell paid him directly. Mr. Veno was made aware that the Burwells had to return to the United States in mid- to late-November and the work was to be completed by then. Mr. Burwell's understanding was that Mr. Veno and the others were expected to put in their 48-hour weeks, though he established no time constraints as to when those 48 hours were to be worked. Mr. Burwell also agreed to pay for all necessary supplies and set up charge accounts that Mr. Veno could rely upon at local suppliers. Mr. Veno would order supplies but Mr. Burwell would pay for them. Mr. Burwell also looked after the cost of renting equipment, though again Mr. Veno organized the arrangements.
+[6] Mr. Burwell looked to Mr. Veno for his professional advice on what needed to be done, but was also well aware himself of the restrictions in what could or could not be done to ensure compliance with the permit that Mr. Burwell had to get to conduct the work on a heritage site. I am satisfied that Mr. Burwell did not have the expertise to know how to actually do the foundation work, roofing or masonry work, but that he and his wife did know something about preserving historic buildings. They retained a Mr. Penny to draw up plans for the Heritage Group, the licensing body, as well as to visit the site once a week for the four weeks that the Burwells were away during work on the project.
+[7] Mr. Veno, Mr. Craig and the other two workers started work on the project in early August. While there was some considerable testimony from the Burwells and Mr. Veno as to the nature and extent of the work, I would describe it as extensive renovation of foundation, walls, floors, roofing, as well as interior finishing type work. It is also clear that it was not known by Mr. Burwell and Mr. Veno at the outset the extent and nature of work to be performed. The project evolved. The workers got paid. Mr. Burwell wrote cheques to Mr. Veno and Mr. Craig to cover their remuneration and that of the two ladies, who would be paid cash by Mr. Veno or Mr. Craig. No invoices were rendered by Mr. Veno nor any Harmonized Sales Tax charged. No source deductions were taken from any of the payments made by Mr. Burwell to the workers. The work simply moved forward.
+[8] Mr. or Mrs. Burwell visited the site daily, other than for a four-week period while they were away when Mr. Penny visited the site weekly. Mr. Burwell explained that these visits were not in the nature of a foreman overseeing the work, but were to see what Mr. Veno and his crew had done and to discuss what Mr. Veno believed needed to be done in the future. Mr. Burwell, as owner, was clearly also interested in ensuring the historical nature of the property was in no way compromised. For this latter reason, Mr. Penny was asked to visit weekly.
+[9] Renee Holdershaw testified that she did not work on the foundation, but worked on less heavy interior work. She also kept a journal to record, from a historical perspective, the work carried out. Mr. Burwell indicated that she had volunteered to do this. Mr. Veno testified that Renee was asked by Mr. Burwell to do the journal, as he had hoped to write a book about the project. Clearly, Renee maintained the journal for Mr. Burwell's benefit.
+[10] Mr. Veno assisted Mr. Burwell with respect to a couple of other properties though this was not substantial. As the work progressed decisions were made consultatively. Both Mr. Burwell and Mr. Veno understandably tried to describe the relationship in terms smacking of either independent contractor, in Mr. Burwell's case, or employee, in Mr. Veno's case. It was clear to me that Mr. Burwell and Mr. Veno would simply talk about what needed to be done, and that Mr. Veno would proceed to do it as best he knew how.
+[11] From Mr. Veno's perspective, he considered himself a working supervisor. He supervised the whole site. He was a mason and had acted as a contractor on other jobs, though not for Mr. Burwell. He was clearly interested in the project, even doing some of his own historical research. He believed the job to be too complex to get involved other than as an employee. Mr. Veno described the nature of directions Mr. Burwell provided to him as twofold: ensuring compliance with the license and not moving too quickly.
+[12] Mr. Craig made it clear in his testimony that he was a labourer, hired by Mr. Burwell as such. He brought no professional or qualified background other than a strong back to the project. He rendered no invoices and indeed had no business. He was directed by Mr. Veno or Mr. Burwell as to what to do. He provided none of his own tools nor materials. The only tools he used were a couple of picaroons supplied by Mr. Veno.
+[13] With respect to all the workers, Mr. Burwell paid the negotiated weekly rate regardless of the hours actually worked, though there was an expectation that if the hours were not all met during the week, the workers would make them up on Sunday or evenings.
+[14] Things proceeded amicably for several weeks, from early August to October 31. Then disaster struck. A local church suffered severe fire damage. Mr. Veno wanted to help. He asked Mr. Burwell if he could. Mr. Burwell was okay with that on the presumption that work would continue on his property as well. Mr. Veno, in early November, asked for two weeks off. Given Mr. Burwell's impending departure later in November and the expectation that the work would be completed before he left, he declined Mr. Veno's request. The relationship took a definite turn for the worse. Mr. Veno showed up at the Burwells' property less and less and it became clear that the work was not going to be completed. Mr. Burwell was upset.
+[15] It got to the point that Mr. Craig did not know what work to do without Mr. Veno. Mr. Craig's services were terminated. Mr. Burwell also ended the relationship with Mr. Veno, who requested separation papers. Mr. Burwell delivered none. Renee Holdershaw knew what job she was to continue work on, and she agreed with Mr. Burwell to do so. The Burwells offered to pay her to conduct some further work on another property.
+[16] Mr. Burwell hired someone else to close down the project for the winter, when it was clear it was not to be completed.
+[17] Pursuant to both the Employment Insurance and Canada Pension Plan legislation, to qualify as an employee requires an employment contract of service. The law surrounding the issue of employee versus independent contractor was recently reviewed by Justice Major in 671122 Ontario Limited v. Sagaz Industries Inc., [2001] S.C.J. No. 61. He summarized the law in the following manner:
+46 In my opinion, there is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. Lord Denning stated in Stevenson Jordan, supra, that it may be impossible to give a precise definition of the distinction (p. 111) and, similarly, Fleming observed that "no single test seems to yield an invariably clear and acceptable answer to the many variables of ever changing employment relations ..." (p. 416). Further, I agree with MacGuigan J.A. in Wiebe Door, at p. 563, citing Atiyah, supra, at p. 38, that what must always occur is a search for the total relationship of the parties:
+[I]t is exceedingly doubtful whether the search for a formula in the nature of a single test for identifying a contract of service any longer serves a useful purpose.... The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[18] Every case will have its own unique characteristics which will result in some of the above factors bearing greater or lesser weight, or no weight at all, in the final determination. There will also be factors not contemplated by Justice Major in his "non-exhaustive list". The distinction in this case from many cases is that the question "whose business is it?" suggests that I must find either Mr. Burwell or Mr. Veno as being in business. The Crown has admitted, and certainly Mr. Burwell has confirmed, that Mr. Burwell was not in business. So, if Mr. Burwell was not in business does it necessarily follow that Mr. Veno must have been in business. Rather, therefore, than asking the question, "whose business is it?", I prefer framing the central question in terms of whether Mr. Veno or Mr. Craig performed services in business on their own account.
+[19] In this case, a further factor to be considered is the actual nature of the project. I will commence then with the element of control, a factor Justice Major acknowledges will always be relevant in the determination of the issue of employee versus independent contractor.
+Control:
+[20] What level of control did Mr. Burwell have over the workers? The Respondent maintains considerable – the Appellant suggests little. The reality is somewhere between. The Burwells were not strangers to the preservation of old buildings. Mrs. Burwell acknowledged that it was her thing. It seems to have run in the family as their daughter had a degree in historical preservation. So, while I accept Mr. Burwell's evidence that he was not a competent tradesperson, he was knowledgeable about the preservation and restoration of historic buildings. It was this knowledge upon which he relied on his daily visits, not the practical knowledge of how to lift a house, remove a wall, or fix a roof. The permit Mr. Burwell obtained required adherence to certain standards to ensure the preservation of the historical integrity of the building. This is what Mr. Burwell discussed with Mr. Veno. Mr. Veno would advise on the "how to" of the actual demolition and Mr. Burwell would give the go ahead. Mr. Burwell would advise on the measures to best preserve any possible historical significance. It was a joint, consultative approach. Who directed who or who controlled whom vis-à-vis Mr. Burwell and Mr. Veno in regards to the completion of the actual work is a toss-up. The facts in this respect do not fall neatly one way or the other.
+[21] With respect to the other workers, Mr. Craig and Ms. Holdershaw, they both testified that they received instructions from Mr. Burwell, yet Mr. Veno himself testified that he was, in effect, the on-site supervisor. I find that both Mr. Burwell and Mr. Veno gave instructions to the other workers, yet after Mr. Veno's relationship with Mr. Burwell ended, I accept Mr. Burwell's testimony that he did not know what to instruct Mr. Craig to do.
+[22] With respect to hiring Mr. Penny to attend the site on a weekly basis in his absence, I see Mr. Penny's role not usurping Mr.Veno's supervisory role, but being limited to ensuring compliance with the historical preservation requirements. While this is illustrative of some element of control, it is not a level of control over how the entire project is carried out, that swings the pendulum strongly towards a finding that Mr. Burwell exerted any considerable level of control.
+[23] The Respondent pointed to Ms. Holdershaw's journal keeping and recording of hours as examples of the control Mr. Burwell had over the workers. Certainly, Mr. Burwell was interested in a log of the work from a historical perspective, perhaps for eventually writing about it. This is not an exercise of significant control however.
+[24] There did not appear to be any demands from Mr. Burwell that hours be rigid at nine to five; there was an expectation however that the workers put in a 48-hour week.
+[25] To summarize the control factor, Mr. Burwell exercised a control over the workers in respect of the preservation of the historic nature of the property, though not in connection with how the physical work had to be, and was, conducted. Mr. Veno was the expert in that regard. The other workers were not. Mr. Craig simply took directions and instructions from both Mr. Burwell and Mr. Veno. A most telling example of Mr. Burwell's lack of control over Mr. Veno is Mr. Veno's response to Mr. Burwell's denial of his request to leave Mr. Burwell's project to work at the church. Mr. Veno just left anyway. That does not strike me as a typical employee reaction. On balance, I find that Mr. Burwell did not control nor direct Mr. Veno's activities to the extent that an employer-employee relationship has been established on this factor alone.
+Tools and equipment:
+[26] Mr. Craig provided none of his own. Mr. Veno provided his own hand tools, not uncommon for a worker in that industry, regardless of whether he is an employee or an independent contractor. All other equipment and all supplies were provided by Mr. Burwell. Mr. Veno, as supervisor on the project, would order the necessary equipment, but it was at Mr. Burwell's expense. On balance, this factor points to Mr. Veno acting in the capacity of an employee and not as an independent contractor.
+Hiring of helpers:
+[27] Who hired Mr. Craig, Renee Holdershaw and Crystal – Mr. Burwell or Mr. Veno? Mr. Veno certainly referred these three workers to Mr. Burwell as they were his co-workers on the movie project. All the workers and Mr. Burwell met to finalize their arrangement, though the facts are sketchy as to what actually transpired at that meeting. Both Mr. Veno and Mr. Craig indicated that they asked to be employees and inquired into source deductions. Mr. Burwell paid Mr. Veno for his and Renee Holdershaw's services and Mr. Veno in turn paid cash to Ms. Holdershaw. It appears that there was a similar arrangement between Mr. Craig and Crystal. This arrangement can be viewed as equally illustrative of employment or independent contract.
+Degree of financial risk:
+[28] Mr. Veno and Mr. Craig moved from their employment on a movie site to work on Mr. Burwell's project. Not knowing the extent of the work at the outset, Mr. Veno insisted upon an hourly rate contract. This negotiation minimized his financial risk. A fixed price contract would clearly, in Mr. Veno's eyes, have been too risky. Mr. Veno refers to this hourly rate arrangement as employment. I see it more as a reflection of Mr. Veno's desire to reduce his risk on a project, the scope of which was uncertain. It was a key negotiated term of the contract between Mr. Burwell and Mr. Veno. The very fact of such negotiation suggests an independent contractor relationship, more so than employment.
+Degree of responsibility for investment and management:
+[29] Mr. Craig had nothing by way of investment or management in the project. Mr. Veno described himself as being in a supervisory role, a managerial position. Further, his interest in the project extended to carrying out some of his own research on the historical aspect of the project. While he had no capital invested as such, he was certainly investing his time over and above what was required. This suggests something beyond the normal employment arrangement.
+Opportunity for profit:
+[30] If the negotiation of an hourly rate can be seen as supporting an independent contractor approach, the contract, once negotiated, from a profit perspective smacks of employment. There is no opportunity for anything more than 48 hours at $18 per hour on a weekly basis. Mr. Veno could only make more if the contract was extended, yet it was clear from the outset that the contract was to be wound up by the end of November.
+[31] The facts thus far have led to some ambivalence as to what was the true nature of the contract though somewhat more indicative of an independent contractor arrangement. Returning to how the parties themselves viewed the arrangement offers little help. Mr. Veno treated it as a contract of service and Mr. Burwell treated it as a contract for services. I am led, therefore, to simply step back and view the nature of the project generally as a critical factor in this determination.
+[32] The project was for some technical construction-type work on a specific property for a limited period of time at a negotiated weekly rate, regardless of actual hours. This is more in the nature of a homeowner hiring a contractor for certain renovations, than a person in business hiring employees on an ongoing basis. The Respondent analogized to the couple who hire a nanny. The couple are not in business yet the nanny is their employee. There may be cases where a property owner hires employees to work directly under his supervision on a limited time project. This however is not one of them. There are just not enough indices of employment to overcome the overall nature of the work as being more one of an independent contractor. Mr. Veno was a qualified mason, who supervised the project. He made the technical decisions and advised on how the work was to be done. When he left, Mr. Burwell was unable to direct Mr. Craig. I find Mr. Veno was not subject to the control of Mr. Burwell as would be required in a contract of service. This was exemplified in his simply leaving the work, to work elsewhere. Mr. Veno was in business on his own account.
+[33] Mr. Craig, however, was not in business on his own account. The issue with Mr. Craig is, whose employee was he – Mr. Veno's or Mr. Burwell's. I find Mr. Craig took direction from both Mr. Veno and Mr. Burwell. The only tools supplied came from Mr. Veno. He was paid by Mr. Burwell yet the Employment Insurance legislation is quite clear that insurable employment is employment by an employer, whether the earnings are received from the employer or some other person. Further, both Employment Insurance and Canada Pension legislation also indicate that insurable and pensionable employment do not include employment of a casual nature, other than for the purpose of the employer's trade or business. So, even if I found that Mr. Craig was Mr. Burwell's employee, he is excluded from insurable employment and excepted from pensionable employment as his employment was of a casual nature and it was not for Mr. Burwell's trade or business.
+[34] In summary, Mr. Craig was not in insurable or pensionable employment of Mr. Burwell. Mr. Veno was also not in insurable or pensionable employment, but was in business on his own account. I therefore allow the appeal, though in so doing, I in no way condone Mr. Burwell's behaviour in leaving the workers with the impression that deductions would be looked after when he knew full well they would not be. People who hire workers should be straightforward and precise in all aspects of the arrangement. These matters are referred back to the Minister on the basis neither Mr. Veno nor Mr. Craig were in the insurable or pensionable employment of Mr. Burwell.
+Signed at Ottawa, Canada, this 11th day of September, 2003.
+"Campbell J. Miller"
+Miller J.
+CITATION:
+2003TCC628
+COURT FILE NO.:
+2002-3384(EI), 2002-3843(EI),
+2002-3935(CPP) and 2002-3936(CPP)
+STYLE OF CAUSE:
+Richard E. Burwell and the Minister of National Revenue and Dale Veno
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+August 5, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+September 11, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Cecil Woon
+For the Intervenor:
+Dale Veno
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

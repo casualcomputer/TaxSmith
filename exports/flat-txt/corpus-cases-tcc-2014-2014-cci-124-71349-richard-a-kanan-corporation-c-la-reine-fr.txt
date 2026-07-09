@@ -1,0 +1,232 @@
+Title: Richard A. Kanan Corporation c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71349/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-124-71349-richard-a-kanan-corporation-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-04-25
+
+# Richard A. Kanan Corporation c. La Reine
+
+- Citation: 2014 CCI 124
+- Decision date: 2014-04-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5293, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Richard A. Kanan Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-04-25
+Référence neutre
+2014 CCI 124
+Numéro de dossier
+2010-1252(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-1252(IT)I
+ENTRE :
+RICHARD A. KANAN CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 24 novembre 2010, à Calgary (Alberta)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Avocate de l’appelante :
+Me Virginia A. Engel, c.r.
+Avocate de l’intimée :
+Me Marla Teeling
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2006 et 2007 sont accueillis sans frais, et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations afin d’autoriser l’appelante à déduire les honoraires pour services rendus de la manière suivante :
+1) Les honoraires des factures portant les numéros 0504555 et 0606644 sont entièrement déductibles.
+2) Les honoraires des factures portant les numéros 0503135, 0601208, 0601209, 0607089 et 0609074 sont déductibles dans une proportion de 73,3 p. 100 du montant total de chaque facture.
+Les honoraires des factures portant les numéros 0501200 et 0601135 ne sont pas déductibles.
+Le tout, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour d’avril 2014.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 10e jour de juin 2014.
+M.-C. Gervais
+Référence : 2014 CCI 124
+Date : 2014-04-25
+Dossier : 2010-1252(IT)I
+ENTRE :
+RICHARD A. KANAN CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] L’appelante interjette appel à l’encontre des nouvelles cotisations établies pour ses années d’imposition 2006 et 2007. Au cours de ces deux années d’imposition, l’appelante, dans le calcul de son revenu, a déduit les honoraires d’avocat versés au cabinet d’avocats Olson Lemons LLP (« Olson Lemons »), ainsi qu’à Olson Tax Consultants Inc. (« Olson Tax »), entreprise appartenant au cabinet d’avocats et faisant la préparation de déclarations de revenu. Le ministre du Revenu national (le « ministre ») a refusé de déduire l’ensemble des dépenses compte tenu du fait qu’elles avaient été engagées ou faites au profit de Richard Kanan, principal actionnaire de l’appelante, de l'épouse de l’actionnaire et de sociétés liées et qu’elles n’avaient pas été engagées en vue de tirer un revenu de l’entreprise.
+[2] À l’appui de la déductibilité des dépenses, l’appelante a remis au ministre des copies des factures d’honoraires d’avocat et une description générale des services juridiques visés. Lorsque le ministre a informé l’appelante que les renseignements étaient insuffisants pour appuyer les déductions demandées et lui a demandé de fournir plus de précisions sur les services et les conseils juridiques fournis, l’appelante a affirmé que ces renseignements étaient protégés par le privilège du secret professionnel de l’avocat, auquel elle ne renoncerait pas.
+[3] La seule question à trancher est de savoir si nous disposons d’éléments de preuve suffisants, de nature verbale ou documentaire, pour appuyer la déductibilité des honoraires d’avocat visés.
+[4] Bien qu’ils soient entendus sous le régime des Règles de la Cour canadienne de l’impôt (procédure informelle), ces appels ont une longue histoire. Avant l’audition des présents appels, le juge en chef Rip a entendu des appels analogues à Calgary, en mars et en décembre 2010. Bien que les appelantes, dans les appels entendus par le juge en chef Rip, n'aient pas été les mêmes que dans l’affaire qui nous occupe, elles avaient eu recours aux services du même cabinet d’avocats, Olson Lemons, et de la même entreprise de conseils fiscaux, Olson Tax. Par conséquent, la question de déductibilité des dépenses en litige dans ces appels était presque identique à celle que je dois trancher.
+[5] Voici un bref historique des présents appels :
+• L’appelante a déposé un avis d’appel le 23 avril 2010.
+• L’intimée a déposé une réponse le 4 juin 2010.
+• Les appels ont été entendus le 24 novembre 2010 à Calgary.
+• L’appelante et l’intimée ont présenté leurs observations écrites le 21 janvier 2011.
+• J’ai exposé mes motifs provisoires le 15 avril 2011, enjoignant aux parties de se réunir et de reconsidérer quels renseignements pourraient être fournis selon un renoncement limité et partiel au privilège du secret professionnel de l’avocat, et de revenir devant la Cour.
+• L’appelante a fourni certains renseignements supplémentaires, mais les parties n’ont pu parvenir à s’entendre.
+• Le 30 septembre 2011, l’appelante a demandé la réouverture de l’audience pour permettre le dépôt d’éléments de preuve supplémentaires.
+• La Cour a émis une directive le 20 octobre 2011.
+• L’appelante a produit des observations écrites le 31 octobre 2011 à l’appui de la demande de réouverture de l’audience.
+• L’intimée a déposé, le 4 novembre 2011, des observations écrites s’opposant à la demande de réouverture de l’audience présentée par l’appelante.
+• Trois appels, entendus en mars et en décembre 2010 par le juge en chef Rip, faisaient également l’objet d’une demande analogue de réouverture des audiences des appelantes.
+• La demande des appelantes dans les appels entendus par le juge en chef Rip était mise au rôle pour audition, et j’ai ordonné que la demande analogue, dans les appels dont j’étais saisie, soit suspendue en attendant la décision du juge en chef Rip.
+• Le 10 décembre 2012, une journée avant l’audition prévue de la demande par le juge en chef Rip, les appelantes ont retiré leur demande de réouverture des audiences.
+• Le 24 avril 2013, le juge en chef Rip a rendu ses motifs dans les trois appels (Dr. Mike Orth Inc c. La Reine, 2013 CCI 123, 371501 B.C. Ltd. et 440214 B.C. Ltd., 2013 CCI 124).
+• Le 24 mai 2013, les appelantes ont porté les décisions en appel devant la Cour d’appel fédérale.
+• Le 24 juillet 2013, les parties ont été informées que je comptais suspendre ma décision en attendant l’issue de l’affaire devant la Cour d’appel fédérale.
+• Le 5 février 2014, la CAF a maintenu la décision du juge en chef Rip.
+Les faits
+[6] J’ai décrit en détail les faits des présents appels dans mes motifs provisoires, mais je rappelle en bref que l’appelante, entreprise de la Colombie-Britannique, exploite un cabinet dentaire à Invermere (Colombie-Britannique). L’appelante reçoit des conseils juridiques du cabinet Olson Lemons et des conseils fiscaux d’Olson Tax, tous deux établis à Calgary (Alberta).
+[7] Thomas Olson, associé chez Olson Lemons, a été le seul témoin à comparaître pour le compte de l’appelante. Il a déclaré que le contenu des dossiers juridiques concernant les honoraires était protégé par le privilège du secret professionnel de l’avocat. Comme son client n’y avait pas renoncé, il a limité son témoignage aux renseignements non protégés, affirmant que le fardeau imposé à l’appelante n’exigeait pas la divulgation de renseignements à l’égard desquels le secret professionnel est invoqué.
+[8] L’intimée a affirmé que l’appelante n’avait pas fourni des renseignements suffisants sur le travail effectué. Comme ces renseignements ne permettaient pas à l’appelante de s’acquitter du fardeau de la preuve devant la Cour, les dépenses ne devraient pas être déductibles.
+[9] Bien que l’appelante ait produit son registre des procès-verbaux et son grand livre général au cours du processus de vérification, seules ont été déposées en preuve à l’audience les déclarations de revenu des sociétés T2 et les factures des dépenses. Neuf factures sont en litige pour la période en cause. Elles ne comportent pas de description du travail exécuté pour lequel les honoraires étaient réclamés. À l’exception des débours, tout ce qui est mentionné à l’égard du travail sur les factures est [traduction] « honoraires pour services rendus ».
+[10] Au cours de la période visée par l’appel, il y a eu pour l’essentiel trois catégories de dépenses pour lesquelles des factures ont été établies :
+a) Provision générale – catégorie décrite comme étant des honoraires pour conseils généraux quotidiens donnés à l’appelante dans des domaines liés aux affaires fiscales et commerciales (transcription, pages 17 et 18, 59 et 61);
+b) Préparation de déclarations – catégorie décrite comme étant des factures touchant l’impôt et l’observation de l’entreprise, la comptabilité et la tenue de livres, la préparation de déclarations (transcription, pages 105 et 130);
+c) Projets – catégorie décrite comme étant la définition et l’analyse de certaines transactions et questions juridiques et les conseils donnés à l’appelante et à Olson Tax à cet égard, les rapports y faisant suite et la préparation des pièces justificatives (transcription, pages 63 et 64).
+[11] M. Olson a déclaré dans son témoignage que son cabinet concluait avec l’appelante une entente sur le versement d’une provision au début de chaque année. À ce titre, l’appelante avait des coûts fixes établis d’avance à l’égard de services prévus que le cabinet Olson Lemons fournirait au cours de l’année. Le cabinet ne facturait pas les clients à l’heure. Selon M. Olson, les registres de temps tenus n’étaient pas toujours exacts. Ils n’influaient pas d’incidence sur le montant des honoraires, car celui‑ci était convenu d’avance. M. Olson a précisé que les honoraires ne [traduction] « […] ne reposaient sur les registres de temps mais sur mon expérience dans ces dossiers » (transcription, page 116).
+[12] En ce qui a trait aux factures concernant des « projets », M. Olson a précisé qu’en 2006 et en 2007, il s’est occupé de la rémunération à l’égard des actionnaires employés, de questions de dividendes et du versement de primes. Ainsi, en ce qui a trait aux questions de dividendes, les questions commerciales et fiscales concernant ces paiements étaient définies, on préparait des résolutions et d’autres documents visant à garantir la conformité et, pour le compte de l’appelante, on fournissait des conseils à Olson Tax, qui préparait les déclarations de revenu. En 2006, des actions ont été émises et des conseils et des documents ont été fournis pour l’appelante et l’entreprise de préparation des déclarations de revenu, concernant la rémunération et les dividendes, ainsi que l’émission d’actions. M. Olson a déclaré dans son témoignage que les renseignements concernant l’émission d’actions figuraient dans le registre des procès-verbaux remis à l’Agence du revenu Canada (l’« ARC »), mais que M. Olson n’a pas déposé devant la Cour. En 2007, les honoraires liés aux projets avaient trait à la rémunération, aux dividendes et aux modifications aux comptes de capital déclaré.
+[13] Aux dires de M. Olson, les honoraires attribuables aux projets pourraient être ventilés de la manière suivante :
+a) 20 p. 100 pour la prestation de conseils sur la préparation et la production des déclarations de revenu;
+b) deux tiers des 80 p. 100 restant pour la prestation de conseils à l’appelante sur certaines transactions concernant le versement de primes ou de dividendes ou l’émission d’actions, ainsi que la totalité de la documentation connexe;
+c) un tiers des 80 p. 100 restant pour la prestation de conseils en matière de conformité à l’impôt et de conformité de l’entreprise, notamment le calendrier des primes, le versement des retenues faites par l’entreprise et les obligations générales en matière de déclarations.
+Il semblait y avoir un chevauchement apparent entre cette dernière catégorie (le tiers des 80 p. 100) et la catégorie des projets (les 20 p. 100). La preuve n’a pas clarifié ce point.
+Analyse
+[14] En fondant le revenu sur les bénéfices, par opposition aux recettes, le paragraphe 9(1) de la Loi de l’impôt sur le revenu (la « Loi ») permet aux contribuables de déduire les dépenses, par exemple les frais juridiques, dans le calcul de leur revenu. Les déductions permises sont toutefois limitées par l’alinéa 18(1)a). Dans l’arrêt Dr. Mike Orth Inc c. Canada, 2014 CAF 34, de la Cour d’appel fédérale, soit l’un des trois appels entendus au départ par le juge en chef Rip et dont j’ai fait état plus tôt dans les présents motifs, la juge Sharlow a mentionné que le critère à retenir était le « critère de l’objet prévu par la loi », c’est-à-dire la question de savoir si les frais juridiques ont été engagés pour tirer un revenu d’une entreprise ou d’un bien et n’étaient pas des dépenses au titre du capital ou des dépenses personnelles.
+[15] Dans mes motifs provisoires, au paragraphe 29, j’en suis venue à la conclusion suivante quant à la façon dont l’appelante sera tenue de justifier s’il s’agit de frais juridiques déductibles :
+[traduction]
+[29] Lorsqu’un contribuable déduit une dépense de son revenu, il peut être appelé à justifier la déduction, pour convaincre le ministre, ou sinon, la Cour, qu’il s’agit d’une dépense déductible à juste titre. S’il s’agit d’honoraires d’avocat, la preuve requise sera souvent visée par le privilège du secret professionnel de l’avocat. Bien que les présents motifs provisoires n’aient pas pour objet d’offrir à l’ARC un droit d’accès à des renseignements protégés, il est évident qu’un contribuable qui demande une déduction dans sa déclaration doit également accepter qu’à tout le moins, une certaine divulgation sera nécessaire pour décider adéquatement de la déduction demandée.
+[16] Dans la décision Dr. Mike Orth Inc. c. La Reine et les décisions connexes, le juge en chef Rip a examiné en détail la jurisprudence concernant le fardeau de la preuve dont un appelant doit s’acquitter envers la Cour, à savoir établir une preuve prima facie qui « démolit » les hypothèses factuelles sur lesquelles le ministre se fonde pour établir la cotisation. Si l’appelant réussit à démolir ces hypothèses factuelles, il appartient au ministre de réfuter la preuve prima facie de l’appelant et de prouver les hypothèses. Au paragraphe 20, le juge en chef Rip a tiré la conclusion suivante :
+[20] Le contribuable qui souhaite établir une preuve prima facie pour démolir l’ensemble ou une partie des présomptions du ministre doit non seulement présenter une preuve hautement probable qui doit être acceptée par la Cour, mais doit aussi permettre à l’avocat de l’intimée de procéder à un contre‑interrogatoire équitable et transparent à l’égard de la preuve. L’avocat a le droit de contester vivement la preuve du contribuable lors du contre‑interrogatoire. Le contribuable qui invoque le privilège des communications entre client et avocat en contre‑interrogatoire à l’égard de questions qu’il a présentées en interrogatoire principal, limitant ainsi le contre‑interrogatoire, doit tenir compte des conséquences possibles. Le contribuable qui fait valoir le privilège et qui souhaite inverser le fardeau de la preuve doit néanmoins établir une preuve susceptible de résister au contre-interrogatoire.
+[17] Au paragraphe 21 de ses motifs, le juge en chef Rip a souligné que l’une des questions qu’il devait trancher était de savoir « […] si l’appelante, tout en conservant son droit concernant le privilège des communications entre client et avocat, a présenté une preuve qui inverse la charge qui lui incombait du fait des présomptions du ministre ». J’ai à trancher la même question dans les appels dont je suis saisie.
+[18] L’intimée ne conteste pas l’argument de l’appelante selon lequel elle avait le droit de maintenir le privilège du secret professionnel de l’avocat tel que le lui conseillait Olson Lemons. Toutefois, l’intimée affirme qu’en invoquant ce privilège, l’appelante n’a pu s’acquitter du fardeau de la preuve et réfuter les hypothèses. Dans l’arrêt Dr. Mike Orth Inc. c. Canada, au paragraphe 13, en supposant que les revendications concernant le privilège du secret professionnel de l’avocat étaient valides pour les besoins des appels en question, la juge Sharlow a ajouté ce qui suit :
+[traduction]
+[13] […] Cependant, ni le ministre ni la Cour ne sont tenus de trancher un différend quant aux faits en faveur du contribuable simplement parce que ce dernier invoque le privilège du secret professionnel de l’avocat relativement à des éléments de preuve qui permettraient de régler le différend et refuse d’y renoncer.
+[19] Bien que je reconnaisse le droit de l’appelante de se prévaloir du privilège du secret professionnel de l’avocat, j’en suis arrivée à une conclusion assez semblable à celle du juge en chef Rip dans les trois appels analogues, concernant le témoignage de M. Olson. Au paragraphe 49 des motifs dans la décision Dr. Mike Orth Inc. c. La Reine, le juge en chef Rip a déclaré ce qui suit :
+[49] […] Toutefois, l’essentiel du témoignage de M. Olson concernant la description des diverses factures en question, quoiqu’il fût intéressant, n’apporte pas suffisamment de précisions pour que je puisse dire que j’ai réellement compris l’objet pour lequel les honoraires ont été supportés et pour que je puisse tirer une conclusion raisonnable quant à la question de savoir si les frais ont été supportés pour des raisons commerciales ou pour d’autres raisons. [...]
+M. Olson a répondu par des généralités à une bonne partie des questions qui lui étaient posées. Dans nombre de cas, il a affirmé qu’il ne s’en souvenait pas ou qu’il n’était pas certain. Certaines de ses réponses contenaient des estimations. Une partie de son témoignage aurait pu être étayée par la documentation, par exemple le registre des procès-verbaux, qu’il avait remis à l’ARC, mais non à la Cour, laissant l’impression que cela était suffisant pour convaincre la Cour. Lorsqu’il a été invité, lors du contre-interrogatoire, à préciser quels postes concordaient à ceux du grand livre général, il a répondu en faisant des méandres :
+[traduction]
+R. Je - - je ne me souviens pas. Parfois, nous faisons un rapprochement entre sociétés, parfois nous rapprochons les prêts bancaires, mais pas toujours, et souvent non, mais parfois, à la demande du client, nous le faisons, mais je ne me souviens pas quels sont les rapprochements qui ont été demandés.
+(Transcription, pages 83 et 84)
+La réponse portait sur un document (le grand livre général) qui avait été volontiers remis à l’ARC. Il me semble que tout contribuable, et notamment un avocat, aurait raisonnablement dû prévoir ces questions, et être prêt et y répondre volontairement. Lorsqu’il a été invité à confirmer l’exactitude de la structure du capital‑actions autorisée et les changements à la structure de l’entreprise et au capital déclaré, il ne pouvait le faire sans pièce justificative, dont le registre des procès-verbaux, qui n’a pas été déposé en preuve. Il était évident que M. Olson n’avait pas vérifié le document, comme on s’y serait attendu, avant de se présenter devant la Cour pour témoigner.
+[20] En réponse à la question de savoir combien d’employés comptait le cabinet dentaire, M. Olson a déclaré que l’épouse de M. Kanan était [traduction] « participait aux affaires de l’entreprise », et qu’il y avait d’autres personnes, mais qu’il ne savait pas s’il s’agissait d’employés ou d’entrepreneurs (transcription, page 117). Lorsqu’on lui a rappelé que la question initiale était combien d’employés travaillaient pour le cabinet, sa réponse, encore une fois, illustrait à quel point il avait mis peu d’efforts à se préparer pour témoigner pour le compte de l’appelante : [traduction] « […] je suis certain que cela se trouve dans mes dossiers, quelque part, mais je ne m’en souviens pas maintenant » (transcription, page 118). Lors qu’il a été interrogé à propos des primes versées au cours de l’année d’imposition 2006, il n’a pas pu se souvenir de détails précis, ni même si, en fait, elles avaient été comptabilisées et payées cette année-là. À cette réponse, il a ajouté [traduction] « […] mais il s’agirait de renseignements que l’on peut facilement obtenir dans les états financiers. Si j’en avais un exemplaire, je pourrais vous le dire » (transcription, page 141).
+[21] Je n’ai pas été impressionnée par le manque de préparation de M. Olson ou ses réponses désinvoltes. Même si un avocat a le devoir de respecter le refus d’un client de renoncer au privilège du secret professionnel, il reste qu’à de nombreuses de reprises, M. Olson aurait pu fournir des précisions. Il s’agit de renseignements exposés en détail dans le grand livre, les états financiers et le registre des procès‑verbaux, mais M. Olson n’a apparemment pas cru qu’il était essentiel de produire ces documents devant la Cour ou de les consulter pour se préparer à l’audience. Même si sa crédibilité n’est pas remise en doute, M. Olson était loin d’être un témoin idéal.
+[22] Suivant l’observation formulée par la Cour d’appel fédérale dans l’arrêt Dr. Mike Orth Inc. c. Canada, malgré le droit de l’appelante de se prévaloir du privilège du secret professionnel de l’avocat et le devoir de l’ARC de ne pas y porter atteinte lorsqu’il est invoqué, il incombe néanmoins à l’appelante de réfuter les hypothèses du ministre dans les présents appels. Cela dit, je passe maintenant à l’examen des neuf factures pour trancher la question de savoir si les montants qui y figurent peuvent être déduits par l’appelante dans le calcul de son revenu pour les années d’imposition 2006 et 2007.
+Les factures
+Provision générale
+Année d’imposition
+Date
+No de facture
+Montant des honoraires
+Total (débours et taxes y compris)
+2006
+1er février 2005
+0501200
+2 675 $
+2 863,05 $
+6 janvier 2006
+0601135
+2 675 $
+2 864,88 $
+[23] M. Olson a qualifié les honoraires facturés dans ces deux factures comme des honoraires ayant trait à une « provision générale ». Il a dit que la provision concernait les services fournis pour répondre aux questions quotidiennes, mais il n’a pas donné d’autres précisions concernant la nature de ces questions. Par conséquent, je ne dispose de presque aucun élément de preuve me permettant d’apprécier les types de questions posées, les conseils fournis, les personnes à qui ces conseils étaient destinés, ou quel travail serait visé par ces honoraires.
+[24] Dans la décision Dr. Mike Orth Inc c. La Reine, au paragraphe 55i), le juge en chef Rip a rejeté des factures semblables concernant des conseils d’ordre général parce qu’il ne pouvait « établir aucune répartition, ni même déterminer si ces honoraires étaient déductibles dans le calcul du revenu parce que je ne dispose d’aucune preuve […] ». Puisque je ne dispose d’aucun élément de preuve sur la nature des questions, non plus que des services qui en ont résulté, l’appelant n’a pas établi de preuve prima facie que les dépenses visées par les factures 0501200 et 0601135 devraient être déductibles.
+Préparation de déclarations de revenu
+Année d’imposition
+Date
+No de facture
+Montant des honoraires
+Total (débours et taxes y compris)
+2006
+19 avril 2005
+0504555
+4 000 $
+4 280 $
+2007
+6 juin 2006
+0606644
+5 000 $
+5 448,31 $
+[25] M. Olson a déclaré que ces dépenses avaient essentiellement trait à la préparation de déclarations de revenu. Il disait [traduction] « qu’il s’agissait uniquement de la préparation des déclarations de revenu, que nous appelons conformité en matière d’impôt » (transcription, page 105). De plus, des services de comptabilité, notamment la tenue de livres et le rapprochement des comptes, auraient également été fournis. Les conseils juridiques ayant pu être donnés concernant les déclarations de revenu auraient été facturés séparément (transcription, page 130).
+[26] Dans la décision Dr. Mike Orth Inc. c. La Reine, le juge en chef Rip a autorisé l’appelante à déduire les frais relatifs à Olson Tax, lorsque ces frais concernaient des services liés à la conformité et à l’impôt. De la même façon, dans les appels dont je suis saisie, M. Olson a déclaré que les services comprenaient le fait d’être disponible concernant la T2 de l’appelante et les déclarations auxiliaires, ainsi que la tenue de livres et le rapprochement des comptes. Ceci établit une preuve prima facie appuyant la déductibilité de ces dépenses. Bien que M. Olson ait reconnu que l’entreprise avait peut‑être préparé les déclarations de revenu personnelles du Dr Kanan et celles des membres de sa famille, il a déclaré, et je n’ai aucune preuve du contraire, qu’elles ont été préparées sans frais (transcription, page 112 et 113).
+Projets
+Année d’imposition
+Date
+No de facture
+Montant des honoraires
+Total (débours et taxes y compris)
+2006
+11 mars 2005
+0503135
+2 200 $
+2 354 $
+2006
+20 janvier 2006
+0601208
+2 675 $
+2 895,30 $
+2006
+20 janvier 2006
+0601209
+2 500 $
+2 675 $
+2007
+2 août 2006
+0607089
+2 950 $
+3 127 $
+2007
+27 septembre 2006
+0609074
+3 300 $
+3 498 $
+[27] Selon le témoignage de M. Olson, toute tâche exigeant davantage que de simplement prendre le combiné téléphonique et répondre rapidement à une question sort de la catégorie « provision générale » et entre plutôt dans la catégorie des soi‑disant « projets ». Approximativement 20 p. 100 des honoraires de cette catégorie touchent la prestation de conseils et la fourniture d’analyses juridiques à l’égard de transactions précises au cours d’une année donnée, y compris la documentation requise et les rapports nécessaires. M. Olson a subdivisé les 80 p. 100 restant en deux sous-catégories :
+a) 2/3 (53,33 p. 100 du total de 80 p. 100) avait trait à la prestation de conseils sur les questions d’affaires et d’impôt à l’égard de transactions précises, ainsi que la préparation des documents connexes;
+b) 1/3 (26,67 p. 100 du total de 80 p. 100) avait trait à la prestation de conseils en matière de conformité à l’impôt et de conformité de l’entreprise, ainsi que les obligations en matière de déclarations.
+[28] Il semble que le premier 20 p. 100 estimatif des honoraires et le 26,67 p. 100 de la tranche de 80 p. 100 concernent tous les deux des conseils et des analyses juridiques. La distinction entre les deux catégories n’était par contre pas claire et, d’après les éléments de preuve dont je dispose, les deux catégories semblent couvrir les mêmes éléments. M. Olson a essayé d’expliquer que la tranche de 26,67 p. 100 concernait des conseils qui pouvaient être requis concernant le versement de primes, le versement de l’impôt et des taxes et d’autres obligations en matière de déclarations. Même si les communications concernant la prestation de ces conseils font l’objet d’un privilège, puisque je ne dispose d’aucun élément de preuve pour établir la distinction entre les deux catégories ou confirmer que ces catégories constituent des dépenses engagées pour tirer un revenu d’une entreprise ou d’un bien et qu’il semble y avoir un chevauchement des dépenses, je n’accorde que le premier 20 p. 100 du montant total des honoraires inscrits dans ces factures de « projet », mais non les 26,67 p. 100 de l’estimation de 80 p. 100. Pour ce qui est des 53,33 p. 100 qui reste du 80 p. 100, M. Olson a dit dans son témoignage que cela comprend certains conseils juridiques et d’affaires, ainsi que la rédaction de documents à l’égard de transactions précises, comme des questions de rémunération, le versement de dividendes et des rajustements au capital déclaré. La partie de ces 53,33 p. 100 concernant les conseils ou les communications serait, bien sûr, visée par le privilège du secret professionnel de l’avocat. Même s’il n’y a pas eu de tentative d’établir une distinction entre la partie attribuable aux conseils et celle attribuable à la documentation, le résultat de l’analyse du cabinet serait à la portée de l’ARC dans les déclarations de revenu et le registre des procès-verbaux de l’appelante. Par conséquent, j’accorde 53,33 p. 100 des montants des factures, ainsi que le 20 p. 100 initial.
+[29] En bref, les appels de l’appelante pour les années d’imposition 2006 et 2007 sont accueillis sans frais, et les nouvelles cotisations sont déférées au ministre pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations afin d’autoriser l’appelante à déduire les honoraires pour services rendus de la manière suivante :
+1) Les honoraires des factures portant les numéros 0504555 et 0606644 sont entièrement déductibles.
+2) Les honoraires des factures portant les numéros 0503135, 0601208, 0601209, 0607089 et 0609074 sont déductibles dans une proportion de 73,3 p. 100 du montant total de chaque facture.
+Les honoraires des factures portant les numéros 0501200 et 0601135 ne sont pas déductibles.
+Signé à Ottawa, Canada, ce 25e jour d’avril 2014.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 10e jour de juin 2014.
+M.-C. Gervais
+RÉFÉRENCE : 2014 CCI 124
+NO DU DOSSIER DE LA COUR : 2010-1252(IT)I
+INTITULÉ : RICHARD A. KANAN CORPORATION c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 24 novembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DU JUGEMENT : Le 25 avril 2014
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Virginia A. Engel, c.r.
+Avocate de l’intimée :
+Me Marla Teeling
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Virginia A. Engel, c.r.
+Cabinet : Peacock Linder & Halt LLP
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

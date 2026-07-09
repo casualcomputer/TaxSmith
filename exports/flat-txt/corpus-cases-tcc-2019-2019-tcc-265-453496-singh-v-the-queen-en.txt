@@ -1,0 +1,173 @@
+Title: Singh v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/453496/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-265-453496-singh-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-11-26
+
+# Singh v. The Queen
+
+- Citation: 2019 TCC 265
+- Decision date: 2019-11-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4282, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Singh v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-11-26
+Neutral citation
+2019 TCC 265
+File numbers
+2017-2445(IT)G
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-2445(IT)G
+BETWEEN:
+SANTOSH SINGH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 19, 2019, at Toronto, Ontario
+By: The Honourable Justice Ronald MacPhee
+Appearances:
+Counsel for the Appellant:
+Osborne Barnwell
+Counsel for the Respondent:
+Pallavi Gotla
+JUDGMENT
+The Appeal with respect to the assessment dated November 7, 2014 and bearing number 2872886 is dismissed, without costs.
+Signed at Ottawa, Canada, this 26th day of November 2019.
+“R. MacPhee”
+MacPhee J.
+Citation: 2019 TCC 265
+Date: 20191125
+Docket: 2017-2445(IT)G
+BETWEEN:
+SANTOSH SINGH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+MacPhee J.
+OVERVIEW
+[1] The Appeal is from the assessment made by the Minister of National Revenue (the "Minister") under section 160 of the Income Tax Act (the "Act"). For the 2009 taxation year the Appellant was assessed the amount of $60,861 in respect of the transfer to her of property from her husband Gurjit Singh (“Mr. Singh”). The property transferred by Mr. Singh, pursuant to the assessment before the Court, was his beneficial interest in the family home.
+BACKGROUND
+[2] The Appellant lives in Brampton, Ontario. Over the years she has been involved in several businesses. She has both incurred debt and, at various times, felt she had the risk of incurring substantial debts as a result of her business dealings. In order to protect her assets from future judgments, the family home was not in her name from the time of purchase in 1997 up to its transfer to her in 2009.
+[3] The Appellant and Mr. Singh are the parents of three children, Steven, Shannon and Shaun. The children worked throughout their teen years. They all contributed a portion of their earnings to family expenses, including the family home expenses. The children continued to live in the family home, well into their adult years.
+[4] It is not disputed that Mr. Singh was indebted to the Minister for unpaid taxes. Mr. Singh owed a total of $60,861 in tax to the Canada Revenue Agency (the “CRA”) in the 2002 taxation year. This amount, plus accrued interest, remained outstanding in the 2009 taxation year.
+Transfers of title to the Brampton home
+[5] At the time of its purchase in 1997, the family home was initially registered in the names of Mr. Singh and his son Steven Singh. In order to make the initial purchase of the home, the Appellant’s parents provided her with a gift of $215,514, which was used as a down payment on the home. Mr. Singh and his son Steven entered into a mortgage and a line of credit at that time, amounting to $323,281 to pay for the remainder of the cost of the family home and closing costs. At this time Steven Singh was 21 years old and had minimal income. Mr. Singh and Steven held title to the family home as tenants in common, with Mr. Singh holding 90% of the family home and Steven Singh holding 10%.
+[6] In 2002, title to the family home was transferred from Mr. Singh and Steven to a trust in which two other of the Singh children, Shannon Singh and Shaun Singh, were put on title to the property. They were trustees for the beneficial owners of the property. Pursuant to the trust agreement, the beneficial owners were Mr. Singh and the Appellant. As previously noted, Mr. Singh had taxes owing to the CRA at the time of this transfer.
+[7] The trust agreement in issue was signed by Shannon Singh and Shaun Singh on April 22, 2002. The purpose of the trust agreement was clearly to protect Mr. Singh and the Appellant’s interests in the family home. The agreement, which is attached as Exhibit A to this judgment, can be paraphrased as follows:
+- Shannon and Shaun Singh shall hold title to 8 Evergreen Crescent. They are trustees for a trust that has as its beneficiaries Gurjit Singh and Santosh Singh;
+- Gurjit Singh and Santosh Singh are the true owners of 8 Evergreen Crescent;
+- Gurjit Singh and Santosh Singh have contributed all the monies towards the purchase of 8 Evergreen Crescent and the same parties are responsible to make all mortgage payments, tax payments and other costs of owning the home;
+- Gurjit Singh and Santosh Singh are joint tenants of 8 Evergreen Crescent;
+- The trustees shall not mortgage, transfer or otherwise deal with 8 Evergreen without obtaining written consent of Gurjit Singh and Santosh Singh.
+[8] Appellant’s counsel argues that I should give no weight to the terms of the April 22, 2002 trust agreement. He relies upon the Supreme Court of Canada decision in Sattva Capital Corporation, which in part stands for the proposition that in interpreting a contract a court “must read the contract as a whole, giving the words used their ordinary and grammatical meaning, consistent with the surrounding circumstances known to the parties at the time of formation of the contract”. [1]
+[9] Appellant’s counsel, in asking me to ignore the terms of the trust agreement, is asking me to interpret the trust agreement in such a way that the surrounding circumstances overwhelm the words of the trust agreement. I find that the evidence led at trial by the Appellant’s witnesses on the surrounding circumstances around the entering of the trust agreement was scant at best. Most often the witnesses had very little recollection of signing this agreement. Secondly, the Sattva decision expressly prohibits such a result in interpreting a contract. [2]
+[10] As a result of this analysis, I have accepted the plain meaning of the words as set out in the trust agreement. The terms of the April 22, 2002 trust agreement make up important facts that I rely upon in coming to my decision.
+[11] On April 14, 2009, Shannon Singh and Shaun Singh transferred legal title of the family home to Mrs. Singh for consideration of two dollars. The Respondent has assumed that Mr. Singh transferred his beneficial interest in the home to his wife at the same time.
+[12] The Singh children were called to testify. While they appeared honest and sincere in their attempts to answer the questions asked, many of the events in issue occurred while they were still minors or very young adults. Some of the relevant events occurred in 1997, a full 22 years before this trial. The children reasonably did not have clear recollections of what had happened concerning title to the family home nor an understanding as to the trusts they were part of. Overall, their evidence did not provide much assistance.
+ISSUES
+[13] The issue is whether the Appellant is liable to pay the amount of $60,861.20 in respect of the transfer of the family home to the Appellant in 2009, pursuant to section 160 of the Act. In order to answer this question I must review two sub issues, which are:
+1. Did Mr. Singh transfer beneficial interest in the family home to the Appellant, and if so, does section 160 of the Act apply to a transfer of beneficial interest in a home?
+2. Although not an issue argued at trial, I will also briefly deal with whether tax liability under section 160 of the Act can follow multiple transfers of the property.
+LEGAL ANAYSIS
+[14] Section 160 aims to prevent an indebted taxpayer from shielding their assets from the CRA. If a taxpayer transfers property to a non-arm’s length person when the taxpayer had a tax liability, that person becomes liable for the taxpayer’s tax debt. The transferee will owe the lesser of: (a) the fair market value of the property transferred, or (b) the transferor’s debt.
+[15] The leading case on section 160 is Livingston [3] , which describes a four-part test often cited in analysis of section 160 of the Act. There is no need to set out the four-part test in this case, as the Appellant has made clear that the only issue before the Court is whether Mr. Singh transferred any property to the Appellant in 2009.
+Position of the parties
+[16] The Appellant argues that no transfer from her husband took place because she was the sole beneficial owner of the family home at all times despite the various changes in legal title.
+[17] She supports this position on the basis that, if not for the $215,514 gift from her parents, the family home could not have been purchased.
+[18] In the alternative, the Appellant argues that because the family home mortgage was paid by all the family members, there was no beneficial owner of the property. This is based on the premise that her contribution to the costs of the family home, as well as the contributions of the children, are such that Mr. Singh had no beneficial ownership of the family home at any time. This appears to ignore the fact that Mr. Singh is on both the line of credit and the mortgage that helped finance the family home.
+[19] The Minister takes the position that Mrs. Singh is liable for her husband’s debts because Mr. Singh directly transferred his share of the family home to her. An assumption to this effect was made by the Minister.
+Did a transfer of beneficial interest occur and if so, does this constitute a transfer under section 160 of the Act?
+[20] As previously stated, the Appellant’s main argument at trial was that the home at all times beneficially belonged only to her because of the down payment that she received as a gift from her parents and subsequently was used to purchase the family home. Without this payment, she claims that she and Mr. Singh could not have purchased the family home.
+[21] Some background facts are relevant to this position. Prior to moving to the family home, the Appellant, Mr. Singh and their children lived at 14 Morehead in Brampton, Ontario (Morehead), in the Appellant’s parents’ home. This home was sold in 1997. The $215,514 equity from the sale of Morehead was used to purchase the family home.
+[22] The Morehead property had a similar history to the family home in that title to the home was transferred at various times. In 1993, title to the Morehead property was in Mr. Singh’s name alone. In 1996, title to the property was put in all of the Appellant’s sister, brother-in-law and parents’ names. It was while being held by these parties that the Morehead home was sold, with the proceeds being used to purchase the family home.
+[23] I am bound by the assumption that the Appellant’s parents provided a down payment of $215,514.32 for the purchase of the family home. While I would have preferred that there be more evidence on the issue, I will accept the Appellant’s position that this amount was a gift, from the Appellant’s parents to her, which she then used to make a down payment on the family home.
+Beneficial interest/ownership
+[24] In considering beneficial ownership, it is helpful to refer to the analysis of Justice Campbell in the Campbell [4] decision, wherein she quoted a CRA technical bulletin concerning beneficial ownership:
+The Income Tax Act (Act) does not define the term “owned”. In the common law jurisdictions, two forms of property ownership are recognized—legal and beneficial. Normally “legal ownership” exists when title is transferred to, recorded in, registered in or otherwise carried in the name of a person. Legal owners are generally entitled to enforce their ownership rights against all other persons.
+By contrast, the term “beneficial ownership” is used to describe the type of ownership of a person who is entitled to the use and benefit of the property whether or not that person has concurrent legal ownership. The determination of whether a person beneficially owns a property is a question of fact that can only be determined after a review of all the documents and the circumstances applicable to a particular situation.
+The primary attributes of beneficial ownership include possession, use and risk. Therefore, in determining whether a person has beneficial ownership in a property, one should consider such factors as the right to possession, the right to collect rents, the right to call for the mortgaging of the property, the right to transfer title by sale or by will, the obligation to repair, the obligation to pay property taxes and other relevant rights and obligations. [5]
+[25] In determining whether Mr. Singh had beneficial ownership of the family home in the period prior to 2009, overwhelmingly the facts lead me to the conclusion that he did. I base this on the fact that he exercised continued use and possession of the home. Furthermore, the trust agreement signed in 2002 clearly stated he was a beneficial owner having numerous rights and obligations that one would expect of a beneficial owner.
+[26] I also rely on the fact that Mr. Singh initially was on the title deed to the home, and also was on the mortgage documents and line of credit. Although the Appellant has claimed in submissions that the Appellant and her children made the mortgage payments, the evidence does not support this contention.
+[27] I find this because Mr. Singh was the largest income earner in the family up to 2004. As best I understood the evidence, both parents and the children all pooled their income together to ensure all home payments were made.
+[28] Furthermore, even if it were found that the Appellant or her children had made all mortgage payments, this alone will not be a defence to an assessment pursuant to section 160 nor does it support an argument that her husband did not have a beneficial interest. “One needs very cogent evidence that a spouse who is shown as the legal owner of an interest in property is not also the beneficial owner.” [6]
+[29] Cogent evidence to support the proposition that Mr. Singh was never a beneficial owner simply has not been presented. In fact, as is most clearly shown in the 2002 Trust agreement found at Exhibit A, but also supported by the other facts that came out at trial, evidence to the contrary overwhelm this argument made by the Appellant.
+[30] I therefore find that Mr. Singh held a 50% share of the beneficial ownership of the family home up to the date of its transfer to the Appellant in 2009.
+Does section 160 of the Act apply to the transfer of beneficial ownership?
+The transfer of a beneficial interest in property is a “transfer of property” under section 160. The Act broadly defines property as “property of any kind whatever,” including “a right of any kind whatever.” [7] I also note that section 160 describes how to calculate the fair market value of an interest or right in property. [8]
+[31] Section 160 also broadly defines a “transfer” as property transferred “directly or indirectly, by means of a trust or by any other means whatever.” [9] The Exchequer Court of Canada has broadly defined “transfer” in the context of attributing income under the Income War Tax Act in Fasken. This definition has since been cited by courts applying section 160: [10]
+“The word 'transfer' is not a term of art and has not a technical meaning… All that is required is that the husband should so deal with the property as to divest himself of it and vest it in his wife, that is to say, pass the property from himself to her.” [11]
+[32] It is somewhat unusual to find as a fact that someone transferred their beneficial ownership in their family home to a spouse. But, given the facts in this case, I find that Mr. Singh has done just that.
+[33] This conclusion is based on my finding that Mr. Singh had a beneficial ownership in the family home from the time of its purchase up to 2009. The Appellant and Respondent both argue as a fact that Mr. Singh no longer had any beneficial ownership in the family home after April 2009 (the Appellant argues he never possessed this). I also note that the Minister assumed that Mr. Singh transferred his share of the ownership to the family home in 2009. Based on these facts, I accept the Respondent’s position that Mr. Singh transferred the entirety of his beneficial interest in the family home to his wife in April 2009. As a result, he no longer exercised any control over the home. This qualifies as a transfer under section 160. [12]
+[34] Pursuant to the analysis provided in Gagnon, [13] it could be argued that the value of what was transferred by Mr. Singh should be reduced in that Mr. Singh continues to live in the family home. To this I point out that the Appellant made it clear at trial that she was not disputing any valuations being relied upon by the Respondent. I therefore accept that the value of what was transferred was $300,000.
+[35] Given that I have found that Mr. Singh has transferred property to his spouse with a value of $300,000, at a time in which he owed taxes of $60,861.20, I must deny the Appeal.
+Alternative position
+[36] I feel I must comment on an alternative position that was not argued by the Respondent. I would have denied the appeal in question because of the applicability of a cascading assessment against the Appellant.
+[37] A cascading assessment, pursuant to section 160 of the Act, would operate so that the initial transferee becomes a transferor herself for the purpose of the Act. By way of example, if an indebted taxpayer, A, transfers property to a non-arm’s length person, B, when A owed tax, B is now liable to pay A’s debt up to the value of the transfer. If B then transfers property to a non-arm’s length person, C, when B was liable for A’s debt, C becomes liable for A’s debt. C is liable regardless of whether B was assessed under section 160. As a result, A, B, and C are liable for A’s debt. Although B was the initial transferee, B became a transferor under section 160 because it was liable for A’s debt when it transferred property to C. As the Tax Court has stated:
+“The transferee may himself become a transferor subject to subsection 160(1) of the Act if, at the time of the second transfer, he himself is a tax debtor liable either on his own account or jointly and severally with the first transferor.” [14]
+[38] In this instance, Mr. Singh’s tax liability flowed through the children to his wife. More specifically, in 2002, a time in which Mr. Singh had a tax debt owing to the CRA, he transferred legal title of the family home to Shaun Singh and Shannon Singh, with his children bound by the terms of the April 22, 2002 trust agreement.
+[39] Liability for Mr. Singh’s debt flowed as a result of the transfer of the family home. Mr. Singh transferred legal title to his children in trust when Mr. Singh owed tax, leaving the children liable for his debt. [15] Legal and beneficial title to the home was transferred to Mrs. Singh in 2009 when the children were liable for Mr. Singh’s debt, leaving Mrs. Singh liable for her husband’s debt. The children therefore became transferors, even though the children had not been assessed under section 160 when they transferred property to Mrs. Singh.
+[40] In this analysis, the Appellant is liable for her husband’s debt because, at the time of the transfer to Mrs. Singh, the children were liable for Mr. Singh’s debt.
+[41] As noted, the Respondent did not argue this. Therefore, some of the evidence required, such as the value of the family home in 2002, as well as the exact amount of tax debt owing by Mr. Singh at the time of the transfer in 2002, was not clearly led at trial.
+[42] Therefore, my decision to deny the Appeal is based solely on the transfer of the beneficial interest by Mr. Singh to the Appellant in 2009.
+Signed at Ottawa, Canada, this 26th day of November 2019.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2019 TCC 265
+COURT FILE NO.:
+2017-2445(IT)G
+STYLE OF CAUSE:
+SANTOSH SINGH AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 19, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+November 26, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Osborne Barnwell
+Counsel for the Respondent:
+Pallavi Gotla
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Sattva Capital Corporation v Creston Moly Corp, [2014] 2 SCR 633 at para 47, [2014] SCJ No 53.
+[2] Ibid at para 57.
+[3] Canada v Livingston, 2008 FCA 89 at para 22, [2008] FCJ No 360. Of additional interest in the Livingston decision, affirmed by the Federal Court of Appeal, is that the mere transfer of legal title of a home constitutes a transfer under section 160 of the Act. As long as title is transferred, it was found to be irrelevant whether beneficial ownership changed or not.
+[4] Campbell v The Queen, 2009 TCC 431 at para 42, [2009] DTC 1290.
+[5] Ibid.
+[6] MacDougall v R, 98 DTC 2180 at para 25, [1998] TCJ No 599.
+[7] Income Tax Act, RSC 1985, c 1 (5th Supp), s 248(1).
+[8] Ibid, s 160(3.1).
+[9] Ibid, s 160(1).
+[10] See e.g. Strachan v Canada, 2013 TCC 362 at para 34, [2013] TCJ No 330.
+[11] Fasken v Minister of National Revenue (1948), [1948] Ex CJ No 17 at para 36, [1949] 1 DLR 810.
+[12] Luckchardt v Canada (1995), [1995] TCJ No 1787, [1998] 3 CTC 2339. In Luckchardt, the mere transfer of beneficial interest constituted a transfer under section 160. The transferor had acquired a beneficial interest in property pursuant to a separation agreement. He then transferred that property to the transferee. The Tax Court of Canada found that the transfer was valid under section 160. However, the judgment is very brief.
+See also Gardner v Minister of National Revenue, 88 DTC 1649, 1988 CarswellNat 443. In Gardner, the Tax Court was prepared to apply section 160 to a transfer of beneficial interest. The Minister argued that an indebted husband had transferred his beneficial interest in the family home to his wife via a quit claim deed. The Court agreed that section 160 could apply to a transfer of beneficial interest because the scope of section 160 is “extremely broad” (p 1651). However, the Court ultimately found that the husband never had a beneficial interest to transfer since he held the property merely as a trustee for his wife.
+[13] Gagnon v The Queen, 2010 TCC 482, [2010] TCJ No 378.
+[14] Jurak v R, [2001] TCJ No 838 at para 38, 2001 CarswellNat 3949, aff’d 2003 FCA 58, [2003] FCJ No 160.
+[15] See e.g. Parihar v R, 2015 TCC 52, 2015 CarswellNat 430, wherein trustees were also recipients of a transfer.

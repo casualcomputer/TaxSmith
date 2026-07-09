@@ -1,0 +1,902 @@
+---
+title: "Alexander v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521025/index.do"
+last_modified: "2023-10-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 147"
+citation2: ""
+neutral_citation: "2022 TCC 147"
+decision_date: "2023-10-27"
+language: "en"
+item_id: "521025"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5820
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:46:47.007000+00:00"
+cases_cited_count: 13
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d8ec7e96b02b6d3f983c68bafd1cd8c110b5e19dce43098f7e1a30ca22ce17e0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Alexander v. The King
+
+- Citation: 2022 TCC 147
+- Decision date: 2023-10-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5820, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alexander v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-02-16
+Neutral citation
+2022 TCC 147
+File numbers
+2015-3120(IT)G
+Judges and Taxing Officers
+Dominique Lafleur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-3120(IT)G
+BETWEEN:
+SHIRLEY ALEXANDER, Lead Case of
+the Ideas Canada Foundation Group of Appeals which
+includes all appeals listed in Schedule “1” attached hereto,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard by videoconference on September 9, 2022 at Ottawa, Canada
+Before: The Honourable Justice Dominique Lafleur
+Appearances:
+Counsel for the Appellant:
+Jeff Pniowsky
+Matthew Dalloo
+Counsel for the Respondent:
+Arnold Bornstein
+Aaron Tallon
+Jasmeen Mann
+AMENDED ORDER
+UPON reviewing the Notice of Motion dated June 30, 2022, filed by the Appellant pursuant to section 65 of the Tax Court of Canada Rules (General Procedure) (the “Rules”), together with affidavits of Heather Martinez sworn December 10, 2021 and June 30, 2022, and other documentary material (the “Motion”), seeking an order i) compelling the Respondent to comply with its undertaking; ii) indemnifying the Appellant for the costs of the examination for the discovery process to date; and iii) for exemplary and/or punitive costs against the Respondent;
+AND UPON reviewing the affidavit of Mr. Brandon sworn July 12, 2022 filed by the Respondent;
+AND UPON reviewing the written submissions of the parties and hearing the submissions of the parties;
+THIS COURT ORDERS THAT:
+In accordance with the attached Reasons for Order, the Motion is granted in part:
+i)The Respondent shall satisfy the following undertaking on or before December 22, 2022:
+Provide copies of all documents in the Minister of National Revenue’s possession that pertain to the decision to allow the gifts in the first instance, subject to solicitor/client privilege, any relevance or any other privilege, and the existence of such documents.
+ii) Costs for this Motion shall be awarded to the Appellant. The parties shall have 20 days from the date of this Order to reach an agreement on costs for this Motion and to so advise the Court, failing which the Appellant shall have a further 20 days to serve and file written submissions on costs and the Respondent shall have a further 20 days to serve and file a written response. Any such submissions shall not exceed 10 pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received within the applicable time limits, costs for this Motion shall be awarded to the Appellant in accordance with the Tariff.
+The parties shall communicate with the Hearings Coordinator in writing on or before February 15, 2023, to advise the Court whether the case will settle, whether a pre-hearing conference would be beneficial or whether a hearing date should be set. In the latter event, the parties shall file a joint application to fix a time and place for the hearing in accordance with section 123 of the Tax Court of Canada Rules (General Procedure); and
+The lead case and all appeals listed in Schedule “1” attached hereto are bound by this Amended Order and the Amended Reasons for Order attached.
+This Amended Order is issued in substitution of the Order dated November 22, 2022 in order to include the words underscored in the style-of-cause, Schedule “1” and paragraph 3 hereof.
+Signed at Ottawa, Canada, this 16th day of February 2023.
+“Dominique Lafleur”
+Lafleur J.
+SCHEDULE “1”
+Appeal Number
+Appellant
+2014-3571(IT)G
+Lawrence, Gerald
+2014-3679(IT)G
+Semeniuk, Roman
+2014-3680(IT)G
+Semeniuk, Frances
+2014-3802(IT)G
+Stevens, Susan
+2014-3808(IT)G
+Laursen, Poul
+2014-3809(IT)G
+Thorp, Barbara
+2014-3897(IT)G
+Grasby, Susan
+2014-4065(IT)G
+Williams, Janet
+2014-4068(IT)G
+Stevens, Gary
+2014-4071(IT)G
+Lelliott-Barnes, Lynn
+2014-4072(IT)G
+Krutila, Debra Anne
+2014-4086(IT)G
+Gonsalves, Osyth
+2014-4088(IT)G
+Hunwicks, Phyllis
+2014-4089(IT)G
+Verhaeghe, Joseph
+2014-4246(IT)G
+Hart, Sally
+2014-4248(IT)G
+Hart, Herb
+2014-4253(IT)G
+Schenk, Lori
+2014-4254(IT)G
+Schenk, Ronald
+2014-4519(IT)G
+Reed, Maureen
+2014-4598(IT)G
+Wilson, Carol
+2014-4600(IT)G
+Flack, Helena
+2014-4601(IT)G
+Flack, John
+2014-4602(IT)G
+Mansz, Paul
+2014-4604(IT)G
+Scheufler, Peter
+2014-4606(IT)G
+Schiller, John
+2014-4608(IT)G
+Ball, Susan
+2015-1056(IT)G
+Evans, Meredith
+2015-1059(IT)G
+Staig, Marilyn
+2015-1245(IT)G
+Stoyka, Vaughan
+2015-1286(IT)G
+Humphreys, Robin
+2015-1313(IT)G
+Holden, Nancy
+2015-1420(IT)G
+Amar, Albert
+2015-1875(IT)G
+Yuska, Steve
+2015-195(IT)G
+McNab, Harold
+2015-2277(IT)G
+Eveleigh, Phillip Reeve
+2015-2324(IT)G
+Jenkins, David
+2015-2331(IT)G
+Bush, Gary
+2015-2339(IT)G
+Albrecht, Peg
+2015-2340(IT)G
+Rannem, Sigmund
+2015-2342(IT)G
+Maclean, Stephen
+2015-2343(IT)G
+Rodgers, Marilyn
+2015-2360(IT)G
+McIntyre, Elizabeth
+2015-2365(IT)G
+Eveleigh, Beth Marian
+2015-2366(IT)G
+Bush, Janet
+2015-2367(IT)G
+Rodgers, William
+2015-2368(IT)G
+Evans, Steve
+2015-2369(IT)G
+Leblanc, Linda
+2015-2370(IT)G
+Garnhum, Austina
+2015-2371(IT)G
+Jenkins, Sharon
+2015-2372(IT)G
+Hunwicks, Richard
+2015-2373(IT)G
+Beintema, John
+2015-2379(IT)G
+Pasher, Terrence
+2015-2382(IT)G
+Hawkes, Suzanne
+2015-2383(IT)G
+Mongia, Karun
+2015-2386(IT)G
+Bell, Jocelyn
+2015-2388(IT)G
+Harvey, John
+2015-2389(IT)G
+Gowan, Jennifer
+2015-2390(IT)G
+The Estate of the late Kerreigh Ernst
+2015-2391(IT)G
+O'Reilly, Joseph
+2015-2392(IT)G
+Bell, Brian
+2015-2393(IT)G
+Baker, Edward
+2015-2394(IT)G
+Kurktschi, Vladimir
+2015-2395(IT)G
+Milberry, Matthew
+2015-2396(IT)G
+Pasher, Mary
+2015-2397(IT)G
+Barnes, John
+2015-2398(IT)G
+Jones, Andrew
+2015-2410(IT)G
+Bailey, J. Robert
+2015-2478(IT)G
+Dabrowska, Wanda
+2015-2483(IT)G
+Guzman, Rolando
+2015-2495(IT)G
+Dabrowski, Piotr
+2015-2506(IT)G
+Lum, Jeffrey Philip
+2015-2516(IT)G
+Zayac, Kenneth
+2015-2520(IT)G
+Zayac, Carla
+2015-2555(IT)G
+Elliott, David
+2015-2601(IT)G
+Aleshka, Irene
+2015-2602(IT)G
+Aleshka, Alexander
+2015-2605(IT)G
+Globa, Rita
+2015-2606(IT)G
+Globa, Edward
+2015-2729(IT)G
+Santos, Mario
+2015-2734(IT)G
+Couto, Elizabeth
+2015-2915(IT)G
+Evans, Gail
+2015-2916(IT)G
+McCutcheon, David
+2015-2917(IT)G
+McCutcheon, Pat
+2015-297(IT)G
+Verhaeghe, Rebecca
+2015-2982(IT)G
+Thomas, Shane
+2015-3107(IT)G
+Lackey, John
+2015-3114(IT)G
+Alexander, Douglas
+2015-3119(IT)G
+Szlagowski, Chris
+2015-3120(IT)G
+Alexander, Shirley
+2015-3126(IT)G
+Jones, Keith
+2015-3127(IT)G
+Jones, Nancy
+2015-3130(IT)G
+Szlagowski, Sandra
+2015-3348(IT)G
+Fauteux, Ted
+2015-34(IT)G
+Wells, Geoff
+2015-3413(IT)G
+Strecker, John
+2015-3476(IT)G
+Gosling, Thomas
+2015-372(IT)G
+Mei, Jiang-Hai
+2015-373(IT)G
+Welling, Chris
+2015-3738(IT)G
+More, David
+2015-3742(IT)G
+Holden, Fred
+2015-377(IT)G
+Xu, Jun-Sheng
+2015-3786(IT)G
+Strecker, John
+2015-4045(IT)G
+Calvert-Gordon, Susan
+2015-4067(IT)G
+Stoyka, John Michael
+2015-4068(IT)G
+Devries, Dean
+2015-4077(IT)G
+Devries, Yvonne
+2015-4078(IT)G
+Gordon, Terry
+2015-4079(IT)G
+Fusilier, Lane
+2015-4735(IT)G
+Blumbergs, James
+2015-4740(IT)G
+Hickman, Robert
+2015-4742(IT)G
+Botnick, Ian
+2015-4970(IT)G
+Jones, Keith
+2015-4980(IT)G
+Beintema, Martha
+2015-527(IT)G
+Stutt, John
+2015-528(IT)G
+Stutt, Lorraine
+2015-531(IT)G
+Arsenault, Lee
+2015-532(IT)G
+O'Reilly, Cecilia
+2015-63(IT)G
+Turner, Ross
+2015-64(IT)G
+Blommers, Jennifer
+2015-78(IT)G
+Wilson, Douglas
+2015-783(IT)G
+Hannan, Doug
+2015-786(IT)G
+Brown, Andrew
+2015-788(IT)G
+Ball, James
+2015-789(IT)G
+Welling, Chris
+2015-79(IT)G
+Blommers, David
+2015-793(IT)G
+Williams, Janet
+2015-848(IT)G
+Pasher, Mary
+2016-3040(IT)G
+Power, Jennifer
+2016-3253(IT)G
+Szlagowski, Chris
+2016-74(IT)G
+More, David
+2019-4505(IT)G
+Hawkes, Robin
+2022 TCC 147
+Date: 20230216
+Docket: 2015-3120(IT)G
+BETWEEN:
+SHIRLEY ALEXANDER, Lead Case of
+the Ideas Canada Foundation Group of Appeals which
+includes all appeals listed in Schedule “1” attached hereto,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+AMENDED REASONS FOR ORDER
+Lafleur J.
+I. THE MOTION
+[1] A Notice of Motion dated June 30, 2022 was filed by the Appellant pursuant to section 65 of the Tax Court of Canada Rules (General Procedure) (the “Rules”), together with affidavits of Heather Martinez sworn December 10, 2021 (the “December Affidavit”) and June 30, 2022 (the “June Affidavit”) and other documentary material (the “Motion”), seeking an order i) compelling the Respondent to comply with its undertaking; ii) indemnifying the Appellant for the costs of the examination for the discovery process to date; and iii) for exemplary and/or punitive costs against the Respondent.
+[2] The Respondent filed the affidavit of Mr. Philip N. Brandon sworn July 12, 2022 (the “Brandon Affidavit”).
+II. CONCLUSION
+[3] The Motion is granted in part:
+i)The Respondent shall satisfy the following undertaking on or December 22, 2022:
+Provide copies of all documents in the Minister of National Revenue’s possession that pertain to the decision to allow the gifts in the first instance, subject to solicitor/client privilege, any relevance or any other privilege, and the existence of such documents.
+ii)Costs for this Motion shall be awarded to the Appellant. The parties shall have 20 days from the date of this Order to reach an agreement on costs for this Motion and to so advise the Court, failing which the Appellant shall have a further 20 days to serve and file written submissions on costs and the Respondent shall have a further 20 days to serve and file a written response. Any such submissions shall not exceed 10 pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received within the applicable time limits, costs for this Motion shall be awarded to the Appellant in accordance with the Tariff.
+III. CONTEXT
+[4] The Appellant participated in a leveraged donation program promoted by Berkshire Funding Initiatives Limited and Talisker Funding Limited (the “Program”). As a participant in the Program, she made purported donations to Ideas Canada Foundation (“Ideas”) in the amounts of $164,000 in 2000 (the “2000 Donation”) and $446,000 in 2001 (the “2001 Donation”). Said donations were funded by 20% cash from the Appellant and 80% from a 25 year, non-interest bearing loan provided to the Appellant by one of the promoters of the Program.
+[5] In her tax return for the 2000 taxation year, the Appellant claimed a charitable donation tax credit under section 118.1 of the Income Tax Act (R.S.C. 1985, c. 1 (5th Supp)) (the “Act”) in respect of part of the 2000 Donation and transferred the balance of the 2000 Donation to her spouse. In her tax return for the 2001 taxation year, the Appellant also claimed a charitable donation tax credit for part of the 2001 Donation, and carried forward the balance in 2002; she also transferred the balance of the 2001 Donation to her spouse. Hence, in her tax return for the 2002 taxation year, the Appellant claimed a charitable donation tax credit for part of the 2001 Donation.
+[6] The Minister of National Revenue (the “Minister”) disallowed 80% of the charitable donation tax credit claimed by the Appellant and her spouse for each taxation year. In September 2005, the Minister further reassessed the Appellant and her spouse to deny 100% of the charitable donation tax credit claimed by the Appellant and her spouse for the 2001 and 2002 taxation years in respect of the 2001 Donation. For the 2000 taxation year, as it was statute-barred, the Minister did not further reassess the Appellant and her spouse to deny 100% of the charitable donation tax credit claimed in respect of the 2000 Donation.
+[7] The Appeal filed before the Court by the Appellant is a lead case for a group of appellants in related appeals who agreed to be bound by the decision in this Appeal.
+IV. EXAMINATION FOR DISCOVERY
+[8] In accordance with an Order of this Court dated June 17, 2021, examinations for discovery of the Respondent’s nominee, Mr. Salvatore Tringali, took place on July 28, 2021. Mr. Tringali was the Canada Revenue Agency (the “CRA”) Team Leader for the audit of the Program and Manager for Tax Avoidance Toronto Centre. The audit period started around early in 2001, or around midyear. According to Mr. Tringali, initially, the charitable donation tax credit was allowed for the portion of the purported donation representing the cash portion (i.e. 20% of the alleged donation), and, upon further reflection, the Minister took the position that 100% of the charitable donation tax credit had to be disallowed, that is in respect of the whole amount of the purported donation.
+[9] During the course of the discovery, the Appellant asked Mr. Tringali to answer two questions by way of undertaking (December Affidavit, Exhibit A, transcript of the examination for discovery), which undertakings had to be satisfied on or before September 30, 2021, in accordance with the Order of this Court dated June 17, 2021.
+[10] Only the first undertaking is in issue in this Motion. It reads as follows:
+Undertaking No 1: Provide copies of all documents in the Minister of National Revenue’s possession that pertain to the decision to allow the gifts in the first instance, subject to solicitor/client privilege, any relevance or any other privilege, and the existence of such documents.
+[11] The parties understood that the word “documents” was very broad, and would include memorandums, documents, emails, forms T2020, etc. At the examination for discovery, the Respondent agreed to provide such documents.
+[12] In his Response to Undertakings sent to the Appellant on September 29, 2021 (December Affidavit, Exhibit B, Letter dated September 29, 2021), the Respondent stated the following with respect to the undertaking:
+We understand this undertaking as requiring the Respondent to produce documents that explain the Minister’s rationale for allowing the cash portion (20%) of the alleged donations to Ideas. The position paper, which we sent to you on January 15, 2016, sets out the reasoning for the Minister’s position that 80% of the alleged donation ought to be denied. A few other documents also set out the reasoning, and are enclosed under Tab A.
+[13] Documents included within Tab A as referred to by the Respondent in his Response to Undertakings consisted of an email from a CRA officer dated March 31, 2005 which included a document outlining a short summary of the Program, a diagram schematizing the Program, and an excerpt of the auditor’s report concerning the Appellant.
+[14] According to the Brandon Affidavit, on January 15, 2016, the Respondent sent to the Appellant a copy of a 2016 position paper prepared by the auditors responsible for the audit of the Program and the audit reports of the Appellant dated June 21, 2004 and July 11, 2005.
+[15] The Appellant commenced a motion to rectify the above Respondent’s Response to Undertakings by Notice of Motion dated December 10, 2021. On or about February 11, 2022, the Appellant agreed to withdraw the motion following the Respondent’s agreement to submit to further examination.
+[16] Follow-up examinations for discovery of Mr. Tringali were scheduled to take place on or before April 19, 2022. However, given that on April 14, 2022, the Respondent sent additional documents in satisfaction of the undertaking (June Affidavit, Exhibit C, copies of additional documents), examinations for discovery had to be rescheduled to May 19, 2022, in order to give the Appellant time to review the additional documents.
+[17] The additional documents produced by the Respondent on April 14, 2022 in satisfaction of the undertaking include the following copies of documents (June Affidavit, Exhibit C, copies of additional documents):
+-Email from a CRA officer (Mr. Winkelstein) dated March 18, 2004 which includes a template CRA standard letter to be sent to taxpayers who made alleged donations under the Program in 2000 informing them that 80% of the alleged donation claim will be disallowed and a standard T20 audit report;
+-Email from a CRA officer (Mr. Winkelstein) dated March 24, 2004 which includes a revised template CRA standard letter to be sent to taxpayers who made alleged donations under the Program in 2000 informing them that 80% of the alleged donation claim will be disallowed;
+-Email from a CRA officer (Mr. Dervenis) dated February 18, 2004 which includes a template CRA proposal letter for reassessing all taxpayers who made alleged donations under the Program in 2000, 2001 and 2002, to disallow 80% of the donation claim;
+-Email from a CRA officer (Mr. Dervenis) dated February 2, 2005, which includes a revised template CRA proposal letter for reassessing all taxpayers who made alleged donations under the Program in 2002 to disallow 80% of the donation claim;
+-Email from a CRA officer (Mr. Dervenis) dated February 13, 2004, which includes a template CRA proposal letter for reassessing all taxpayers who made alleged donations under the Program to disallow 80% of the donation claim;
+-Memorandum from CRA Manager Tax Avoidance dated April 22, 2003 requesting an authorization to issue directors’ requirements to obtain documentation and information from parties involved in the Program;
+-Memorandum from CRA Head Office (Tax Avoidance and Special Audits) to Toronto Centre TSO dated December 19, 2001, together with the Program details, some case law and some technical interpretations which explained CRA interpretation of the Program.
+[18] At the follow-up examinations for discovery of Mr. Tringali on May 19, 2022, Mr. Tringali stated that in February or March 2004, the Minister was issuing internal communications to allow the charitable donation tax credit in respect of the cash portion of the alleged donation, namely 20% of the alleged donation.
+[19] Dissatisfied with certain answers given at the follow-up examinations for discovery of Mr. Tringali on May 19, 2022, the Appellant adjourned the follow‑up examinations for discovery and brought the Motion to the Court.
+[20] Furthermore, after reviewing the transcript of the follow-up examinations for discovery, Mr. Tringali indicated that he would like to correct his answers given to questions 57-58, as to whether the alleged donors had donative intent with respect to the 20% cash portion of their alleged gift. Questions 57 and 58 read as follows (June Affidavit, Exhibit D, transcript of the examination for discovery of Mr. Tringali):
+57 Q You used the word “condition”. That condition is that they had to have the requisite donative intent, correct?
+A If that was one of the conditions, that was a condition that was met to allow the 20 percent.
+58 Q Okay. You said, “If that was one of the conditions”.
+A Yes.
+[21] As indicated by Counsel for the Respondent in his letter addressed to the Appellant (June Affidavit, Exhibit E, Letter dated June 29, 2022), Mr. Tringali corrected his answers to Questions 57 and 58 as follows:
+Mr. Tringali says that he did not consider or turn his mind to donative intent in making the decision to allow the 20% cash portion. He did not determine whether the alleged donors had or did not have donative intent.
+V. POSITION OF THE PARTIES 4.1 The Appellant’s position: [22] The Respondent deliberately and systematically breached the Rules relating to the discovery process and disregarded its solemn obligations relating to undertakings by, inter alia, re-characterizing the first undertaking. Further, the Respondent’s conduct is in breach of the Orders of this Court.
+[23] The additional documents sent by the Respondent on April 14, 2022, included a limited number of emails dated in the late winter/early spring 2004, which were responsive to the undertaking. No material documents predating the emails were provided to the Appellant, notwithstanding that the decision to allow the cash portion of the alleged donation involved a number of CRA officials, including from Audit, Appeals and Head Office. No material documents in satisfaction of the undertaking were provided from Appeals or Head Office, and no material documents from Audit, but for the additional documents sent on April 14, 2022.
+[24] Furthermore, the Respondent also failed to properly answer questions in the examinations and instead provided evasive, non-responsive and dishonest answers. For example, it was suggested by Mr. Tringali that having donative intent is not a precondition for a valid gift under the Act (June Affidavit, Exhibit E, Letter dated June 29, 2022). However, according to the Appellant, the existence of donative intent is the central factor in this matter.
+[25] Finally, the Appellant seeks costs for this Motion, as well as costs for the examination for discovery process to date and exemplary or punitive costs considering the Respondent’s course of action throughout the discovery process.
+4.2 The Respondent’s position: [26] The Respondent provided all documents that he could find relating to the initial decision of the Minister to allow the charitable donation tax credit in respect of the 20% cash portion of the alleged donation to Ideas, within the time limit ordered by this Court.
+[27] As the Appellant was dissatisfied with the Respondent’s answers to the undertaking, the Respondent did another review of the documents and produced additional documents on April 14, 2022 (June Affidavit, Exhibit C). There did not exist “thousands of pages” of documents pertaining to the discussion on this issue as suggested by the Appellant. Mr. Tringali and other persons involved in the audit generally spoke face-to-face about this issue and did not keep notes about the deliberations.
+[28] Furthermore, by letter dated June 29, 2022 (June Affidavit, Exhibit E), Mr. Tringali properly corrected his answers to the questions as to whether the alleged donors had donative intent.
+[29] As to the costs issue, the Respondent argues that he did not engage in misconduct that warrants solicitor-client costs, since the Respondent fulfilled the two undertakings arising from the examinations for discovery of Mr. Tringali. Furthermore, Mr. Tringali properly corrected his answers given at the follow‑up examinations for discovery.
+VI. ANALYSIS 5.1 Applicable principles: discovery process and undertakings [30] Examinations for discovery are conducted so that binding answers on the examinee party are provided, which will shorten the proceedings and reduce trial expenses. During discovery, it is not the examiner’s role to ask for more information than the answer provided by the examinee, but rather it is the examinee’s role to provide a “full and binding answer” in the examinations for discovery or in response to undertaking (see Jattan v. R., 2008 TCC 203, at paras. 4 and 5). The examinee has to provide answers to the best of the examinee’s knowledge, information and belief, to any proper and relevant question.
+[31] Section 95 of the Rules provides rules applicable to discoveries and it reads as follows:
+95(1) A person examined for discovery shall answer, to the best of that person’s knowledge, information and belief, any proper question relevant to any matter in issue in the proceeding or to any matter made discoverable by subsection (3) and no question may be objected to on the ground that:
+(a) the information sought is evidence or hearsay,
+(b) the question constitutes cross‑examination, unless the question is directed solely to the credibility of the witness, or
+(c) the question constitutes cross‑examination on the affidavit of documents of the party being examined.
+(2) Prior to the examination for discovery, the person to be examined shall make all reasonable inquiries regarding the matters in issue from all of the party’s officers, servants, agents and employees, past or present, either within or outside Canada and, if necessary, the person being examined for discovery may be required to become better informed and for that purpose the examination may be adjourned.
+(3) [Repealed, SOR/2014-26, s. 10]
+(4) A party may on an examination for discovery obtain disclosure of the names and addresses of persons who might reasonably be expected to have knowledge of transactions or occurrences in issue in the proceeding, unless the Court orders otherwise.
+95(1) La personne interrogée au préalable répond, soit au mieux de sa connaissance directe, soit des renseignements qu’elle tient pour véridiques, aux questions pertinentes à une question en litige ou aux questions qui peuvent, aux termes du paragraphe (3), faire l’objet de l’interrogatoire préalable. Elle ne peut refuser de répondre pour les motifs suivants :
+a) le renseignement demandé est un élément de preuve ou du ouï-dire;
+b) la question constitue un contre interrogatoire, à moins qu’elle ne vise uniquement la crédibilité du témoin;
+c) la question constitue un contre‑interrogatoire sur la déclaration sous serment de documents déposée par la partie interrogée.
+(2) Avant l’interrogatoire préalable, la personne interrogée doit faire toutes les recherches raisonnables portant sur les points en litige auprès de tous les dirigeants, préposés, agents et employés, passés ou présents, au Canada ou à l’étranger; si cela est nécessaire, la personne interrogée au préalable peut être tenue de se renseigner davantage et, à cette fin, l’interrogatoire préalable peut être ajourné.
+(3) [Abrogé, DORS/2014-26, art. 10]
+(4) Sauf ordonnance contraire de la Cour, une partie qui interroge au préalable peut obtenir la divulgation des noms et adresses des personnes dont on pourrait raisonnablement s’attendre à ce qu’elles aient connaissance des opérations ou des situations en litige en l’instance.
+[32] In order to be permissible under subsection 95(1) of the Rules, a question must therefore satisfy two conditions: the question must be proper and must be relevant to any matter in issue in the proceeding (Contractor v. R, 2021 TCC 46, at para. 19).
+[33] Further, section 98 of the Rules obligates a party that was examined to change its answer if it discovers its answer was incorrect or incomplete or is no longer correct or complete. Section 98 of the Rules reads as follows:
+98(1) Where a party has been examined for discovery or a person has been examined for discovery on behalf or in place of, or in addition to the party, and the party subsequently discovers that the answer to a question on the examination,
+(a) was incorrect or incomplete when made, or
+(b) is no longer correct and complete,
+the party shall forthwith provide the information in writing to every other party.
+(2) Where a party provides information in writing under subsection (1),
+(a) the adverse party may require that the information be verified by affidavit of the party or be the subject of further examination for discovery, and
+(b) the writing may be treated at a hearing as if it formed part of the original examination of the person examined.
+(3) Where a party has failed to comply with subsection (1) or a requirement under paragraph (2)(a), and the information subsequently discovered is,
+(a) favourable to that party’s case, the party may not introduce the information at the hearing, except with leave of the judge, or
+(b) not favourable to that party’s case, the Court may give such direction as is just.
+98(1) La partie interrogée au préalable, ou la personne qui l’est au nom, à la place ou en plus de cette partie, qui découvre ultérieurement qu’une réponse à une question de l’interrogatoire :
+a) était inexacte ou incomplète;
+b) n’est plus exacte et complète,
+doit fournir immédiatement ce renseignement par écrit à toutes les autres parties.
+(2) Si une partie fournit un renseignement par écrit en application du paragraphe (1) :
+a) une partie opposée peut exiger qu’il soit appuyé d’une déclaration sous serment ou qu’il fasse l’objet d’un nouvel interrogatoire préalable;
+b) ce renseignement peut être traité lors d’une audience comme s’il faisait partie de l’interrogatoire initial de la personne interrogée.
+(3) Si une partie ne se conforme pas au paragraphe (1) ou à l’alinéa (2)a) et que le renseignement obtenu ultérieurement est :
+a) favorable à sa cause, elle ne peut le présenter en preuve à l’instance qu’avec l’autorisation du juge;
+b) défavorable à sa cause, la Cour peut rendre des directives appropriées.
+[34] There is no definition of the term “undertaking” in the Rules. Case law has defined that term as an “unequivocal promise to perform a certain act” (see Towne v. Miller, 2001 CarswellOnt 3828, at para. 9 [Towne]). Furthermore, when an undertaking to produce documents has been given in an examination for discovery, relevance is acknowledged. Indeed, in Towne (at paras. 8 and 9), the Ontario Superior Court of Justice, which was later quoted by this Court in Merchant Law Group v. R., 2008 TCC 49, stated that:
+. . . An undertaking is an acknowledgement that the question is proper and that the subject-matter of the undertaking is relevant. Put crudely, should counsel be permitted to renege on a production-undertaking when he or she subsequently comes to the belief that a document or part thereof is not relevant in the action? This question invades the sanctity of a solicitor’s undertaking.
+An undertaking is an unequivocal promise to perform a certain act. I do not see any material difference between, for example, an undertaking given in the context of a real estate transaction (when lawyers undertake to do, or obtain, something necessary to complete the transaction) and an undertaking given on an examination for discovery. Each involves a promise. In an examination for discovery, the undertaking may be given by the litigant being examined or it may come from his or her counsel. Both are equally binding.
+[Emphasis added].
+[35] This Court followed the approach of Towne in Bathurst Machine Stop Ltd. v. R., 2006 TCC 378, at para. 1, and stated that “. . . once an unqualified undertaking has been given, it is too late to refuse to provide an answer on grounds of relevance . . .”.
+5.2 Undertaking at issue [36] The undertaking given by the Respondent was to provide documents that pertain to the Minister’s decision to allow the cash portion of the alleged donation to Ideas. It is worth repeating it here:
+Undertaking No 1: Provide copies of all documents in the Minister of National Revenue’s possession that pertain to the decision to allow the gifts in the first instance, subject to solicitor/client privilege, any relevance or any other privilege, and the existence of such documents.
+[37] The Respondent is bound by his promise to provide copies of all documents in the Minister’s possession that pertain to the decision to allow the gifts in the first instance, subject to solicitor/client privilege, any relevance or any other privilege, and the existence of such documents. Their relevance at trial will be a matter for the trial judge to decide.
+[38] However, as indicated in the Response to Undertakings sent to the Appellant on September 29, 2021 (December Affidavit, Exhibit B), the Respondent’s understanding of the undertaking was that the documents to be provided were documents that explain the Minister’s rationale for allowing part of the gift (which represents the cash portion of the alleged donations to Ideas, namely 20% of the alleged donation).
+[39] For the following reasons, I find that the Respondent has unilaterally narrowed the undertaking that was given at the examinations for discovery. Indeed, documents that “explain the rationale” for allowing part of the gift would only be a subset of the body of documents that “pertain to the decision” of the Minister to allow the gift in the first instance.
+[40] The term “pertain to” means “related to”. The Oxford English Dictionary defines “as pertains to” as “as regards or concerns, in relation to”[1].
+[41] As indicated by the Supreme Court of Canada in Nowegijick v. The Queen, [1983] 1 SCR 29, at para. 39, the term “relate to” are words of the widest possible scope:
+The words “in respect of” are, in my opinion, words of the widest possible scope. They import such meanings as "in relation to", "with reference to" or "in connection with". The phrase "in respect of" is probably the widest of any expression intended to convey some connection between two related subject matters.
+[42] According to the Brandon Affidavit, on January 15, 2016, the Respondent sent to the Appellant a copy of a 2016 CRA position paper prepared by the auditors responsible for the audit of the Program and the audit reports of the Appellant dated June 21, 2004 and July 11, 2005. Both the December Affidavit (Exhibit B) and the June Affidavit (Exhibit C) produced by the Appellant gave details as to the documents produced by the Respondent in response to the undertaking.
+[43] However, it is not clear whether the Respondent only provided documents that fell within the narrower interpretation of the undertaking, or whether all documents pertaining to the decision of the Minister for allowing part of the gift in the first instance were in fact provided to the Appellant. I would also note that after initially providing “all” the documents required to satisfy the undertaking (December Affidavit, Exhibit B), the Respondent conducted a second review and found more documents to be produced in satisfaction of the undertaking, and did send additional documents to the Appellant on April 14, 2022 (June Affidavit, Exhibit C).
+[44] On the other hand, I do not conclude here that there should be thousands of pages of documents pertaining to the decision to allow part of the gifts in the first instance (i.e. the cash portion equal to 20% of the alleged donation to Ideas) as argued by the Appellant. Indeed, Mr. Tringali stated that two people were involved primarily in the deliberations with respect to the audit of the Program, that is himself and Mr. Peter Dervenis (who reported to Mr. Tringali), and that they also spoke with Bob Westgate from CRA Headquarters. According to Mr. Tringali, deliberations were undertaken face-to-face between Mr. Tringali and Mr. Dervenis. Furthermore, as indicated by Mr. Tringali, he did not keep notes as most of the deliberations were done face-to-face or over the phone with Mr. Westgate. Also, Mr. Tringali confirmed that he did not keep T2020 forms, minutes or memos of his discussions with Mr. Dervenis or Mr. Westgate (June Affidavit, Exhibit D, transcript of the examination for discovery at pp. 40‑47).
+[45] I agree with the Respondent that the Appellant expected without any basis thousands of pages of documents, and that the Appellant ignored the answers Mr. Tringali gave at the follow-up examinations for discovery. However, I find that the Respondent did rephrase the undertaking given at the examination for discovery in his Response to Undertakings sent to the Appellant on September 29, 2021 (December Affidavit, Exhibit B).
+[46] For these reasons, I order the Respondent to conduct another review of the documents in the Minister’s possession to satisfy the undertaking given at the examinations for discovery of Mr. Tringali on or December 22, 2022, that is :
+Provide copies of all documents in the Minister of National Revenue’s possession that pertain to the decision to allow the gifts in the first instance, subject to solicitor/client privilege, any relevance or any other privilege, and the existence of such documents.
+5.3 Costs awards Generality
+[47] Section 147 of the Rules gives the Court a very broad discretion in awarding costs (section 147 of the Rules can be found in Schedule “A” attached to these Reasons for Order). However, the discretion of the Court must be exercised on a principled basis and should not be exercised in an arbitrary manner (The Queen v. Lau, 2004 FCA 10, at para. 5, [2004] GSTC 5, and The Queen v. Landry, 2010 FCA 135, at paras. 22 and 54).
+[48] Costs should be compensatory and contributory, not punitive nor extravagant (Ford Motor Co. of Canada, Ltd. v. R., 2015 TCC 185, at para. 7). However, as an exception to that principle, where a party displays “reprehensible, scandalous or outrageous conduct” or if such award of costs is justified by reasons of public interest, solicitor-client costs may be awarded by the Court (see Canada v. Martin, 2015 FCA 95, para. 26). Furthermore, the Court has the authority to prevent and control any possible abuse of process by awarding costs. Thus, costs awards do not only indemnify the successful party, but also serve to discourage “unnecessary and costly litigation steps” (Bowker v. The Queen, 2022 TCC 43, at para. 19).
+[49] All relevant circumstances should be considered and weighed in a decision to award costs. Factors the Court may consider in awarding costs are listed in subsection 147(3) of the Rules. However, none of the factors listed in subsection 147(3) of the Rules are determinative and the Court should consider all relevant factors in exercising its discretion (Velcro Canada Inc v. The Queen, 2012 TCC 273, at paras. 12-13).
+Costs for the Examination for Discovery Process to Date
+[50] The Appellant argues that the evasive and dishonest answers given during examinations for discovery as well as the suggestion that the existence of donative intent is not a precondition to having a valid gift under the Act are reasons that she should be awarded costs for the examinations for discovery process to date. I also understand that the Appellant seeks costs for the examinations for discovery process to date on the basis that the Respondent narrowed the undertaking in issue in this Motion.
+[51] For the following reasons, I do not agree with the Appellant and no costs will be awarded to the Appellant on these bases at this stage of the proceedings.
+[52] I reviewed the transcript of the examinations for discovery that took place on May 19, 2022 (June Affidavit, Exhibit D). I do not share the Appellant’s view that the answers given by Mr. Tringali were evasive and dishonest or that there was a suggestion that donative intent was not a precondition for a valid gift under the Act.
+[53] At the examinations for discovery that took place on May 19, 2022 (June Affidavit, Exhibit D, transcript at pp. 30-33), the Appellant asked Mr. Tringali whether the Minister assumed that the donors had donative intent with respect to the 20% cash portion of their gifts, which was allowed initially by the Minister. In order to answer the question, Mr. Tringali asked permission to look at the CRA proposal letters, but the Appellant refused his request. Given the refusal, Mr. Tringali stated that if donative intent is a condition for a valid gift, then this condition was met (June Affidavit, Exhibit D, transcript of the examination for discovery, at p. 30). However, upon reviewing the transcript of the examinations for discovery, and as indicated above, Mr. Tringali corrected his answers to confirm that he did not turn his mind to donative intent in making the decision to allow the 20% cash portion, and that he did not determine whether the alleged donors had or did not have donative intent (June Affidavit, Exhibit E, Letter dated June 29, 2022).
+[54] I note that none of the documents produced by the Respondent in satisfaction of the undertaking refers to the expression “donative intent”. According to these documents, because the donors under the Program received consideration for the donation in the form of an economic benefit of a 25-year non interest bearing loan from Talisker which was tied to the donation made to Ideas, 80% of the donation claim should be disallowed on the basis that the donors did not make a valid gift under the Act.
+[55] Furthermore, I agree with the Respondent that the corrections made by Mr. Tringali to his answers provided at the examinations for discovery (June Affidavit, Exhibit E, Letter dated June 29, 2022), is consistent with the audit documents produced by the Respondent in satisfaction of the undertaking. For example, the 2016 Position Paper that sets out the conditions for a valid gift under the Act, does not refer to the expression “donative intent”; the Minister focused on the receipt of a benefit by the taxpayers, in return for their alleged donations (Brandon Affidavit, Exhibit A). In the final draft CRA proposal letter, the Minister also focused on the benefit received by the taxpayers, and not on “donative intent” (June Affidavit, Exhibit C, additional documents produced in satisfaction of the undertaking).
+[56] In my view, there is no real distinction between, on the one hand, considering whether any benefit was received by a donor, and on the other hand, whether the donor had “donative intent” in making a gift. The concept of “donative intent” is a term that eventually became widely used to describe the concept of an “absence of any benefit” received by the donor. The expression “donative intent” describes the requirement that a donor should not receive any benefit or consideration in order to find that he or she had made a valid gift under the Act.
+[57] In 2004, in Webb v. R., 2004 TCC 619 [Webb], at para. 16, the Court stated:
+Much has been written on the subject of charitable donations over the years. The law, however, is in my view quite clear. I am bound by the decision of the Federal Court of Appeal in Friedberg v R. [[1992] 1 CTC 1], among others. These cases make it clear that in order for an amount to be a gift to charity, the amount must be paid without benefit or consideration flowing back to the donor, either directly or indirectly, or anticipation of that. The intent of the donor must, in other words, be entirely donative.
+[Emphasis added]
+[58] In 2015, in Mariano v. The Queen, 2015 TCC 244, at paras. 16 and 17, this Court stated:
+[16] There is no dispute that the ITA does not define what a “gift” is. The definition of gift is found in established case law; namely, from the Federal Court of Appeal decision of Linden J.A. in The Queen v Friedberg, 92 DTC 6031, at page 6032, (affirmed by the Supreme Court of Canada):
+Thus, a gift is a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor ... The tax advantage which is received from gifts is not normally considered a “benefit” within this definition, for to do so would render the charitable donations deductions unavailable to many donors.
+[17] The three requisite elements of a gift thus are that: 1. there must be a voluntary transfer of property; 2. the property transferred must be owned by the donor; and 3. there must be no benefit or consideration to the donor, which element has, in later jurisprudence, been taken to mean that the donor must have had ‘donative intent’.
+[Emphasis added]
+[59] In addition, the Federal Court of Appeal in Kossow v. Canada, 2013 FCA 283, reviewed the Program. In its reasons, the Federal Court of Appeal did not refer to the concept of “donative intent” but concluded that because Ms. Kossow received a benefit in return for making the gift, the gift was vitiated and therefore, Ms. Kossow had not made any gift under section 118.1 of the Act (paras. 23 to 35).
+[60] For these reasons, although I find that whether a donor received a benefit in return for making a gift or whether he or she had “donative intent” are equivalent concepts, I accept that the concept of “donative intent” was not part of Mr. Tringali’s vocabulary at the time of the audit of the Program. Hence, it seems fair to say that Mr. Tringali would not have put his mind to “donative intent” at the time of the audit and the corrections he made to the answers given at the examinations for discovery are proper. However, he would have put his mind as to whether any benefit was received by a donor under the Program.
+Exemplary and/or Punitive Costs
+[61] The Appellant argued that she should be awarded exemplary and punitive costs given the Respondent’s course of action throughout the discovery process.
+[62] As discussed above, I find that there are no reasons of public interest or any “reprehensible, scandalous or outrageous conduct” on the part of the Respondent that would warrant the award of solicitor-client costs.
+Costs for the Motion
+[63] As I have concluded that the Respondent had rephrased the undertaking at issue given at the examinations for discovery and had in fact narrowed the undertaking, I find that costs for the Motion shall be awarded to the Appellant. The parties shall have 20 days from the date of this Order to reach an agreement on costs for the Motion and to so advise the Court, failing which the Appellant shall have a further 20 days to serve and file written submissions on costs for the Motion and the Respondent shall have a further 20 days to serve and file a written response. Any such submissions shall not exceed 10 pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received within the applicable time limits, costs for this Motion shall be awarded to the Appellant in accordance with the Tariff.
+[64] The lead case and all appeals listed in Schedule “1” attached hereto are bound by these Amended Reasons for Order.
+These Amended Reasons for Order are issued in substitution of the Reasons for Order dated November 22, 2022 in order to include the words underscored in the style-of-cause, Schedule “1” and paragraph 64 hereof.
+Signed at Ottawa, Canada, this 16th day of February 2023.
+“Dominique Lafleur”
+Lafleur J.
+SCHEDULE “1”
+Appeal Number
+Appellant
+2014-3571(IT)G
+Lawrence, Gerald
+2014-3679(IT)G
+Semeniuk, Roman
+2014-3680(IT)G
+Semeniuk, Frances
+2014-3802(IT)G
+Stevens, Susan
+2014-3808(IT)G
+Laursen, Poul
+2014-3809(IT)G
+Thorp, Barbara
+2014-3897(IT)G
+Grasby, Susan
+2014-4065(IT)G
+Williams, Janet
+2014-4068(IT)G
+Stevens, Gary
+2014-4071(IT)G
+Lelliott-Barnes, Lynn
+2014-4072(IT)G
+Krutila, Debra Anne
+2014-4086(IT)G
+Gonsalves, Osyth
+2014-4088(IT)G
+Hunwicks, Phyllis
+2014-4089(IT)G
+Verhaeghe, Joseph
+2014-4246(IT)G
+Hart, Sally
+2014-4248(IT)G
+Hart, Herb
+2014-4253(IT)G
+Schenk, Lori
+2014-4254(IT)G
+Schenk, Ronald
+2014-4519(IT)G
+Reed, Maureen
+2014-4598(IT)G
+Wilson, Carol
+2014-4600(IT)G
+Flack, Helena
+2014-4601(IT)G
+Flack, John
+2014-4602(IT)G
+Mansz, Paul
+2014-4604(IT)G
+Scheufler, Peter
+2014-4606(IT)G
+Schiller, John
+2014-4608(IT)G
+Ball, Susan
+2015-1056(IT)G
+Evans, Meredith
+2015-1059(IT)G
+Staig, Marilyn
+2015-1245(IT)G
+Stoyka, Vaughan
+2015-1286(IT)G
+Humphreys, Robin
+2015-1313(IT)G
+Holden, Nancy
+2015-1420(IT)G
+Amar, Albert
+2015-1875(IT)G
+Yuska, Steve
+2015-195(IT)G
+McNab, Harold
+2015-2277(IT)G
+Eveleigh, Phillip Reeve
+2015-2324(IT)G
+Jenkins, David
+2015-2331(IT)G
+Bush, Gary
+2015-2339(IT)G
+Albrecht, Peg
+2015-2340(IT)G
+Rannem, Sigmund
+2015-2342(IT)G
+Maclean, Stephen
+2015-2343(IT)G
+Rodgers, Marilyn
+2015-2360(IT)G
+McIntyre, Elizabeth
+2015-2365(IT)G
+Eveleigh, Beth Marian
+2015-2366(IT)G
+Bush, Janet
+2015-2367(IT)G
+Rodgers, William
+2015-2368(IT)G
+Evans, Steve
+2015-2369(IT)G
+Leblanc, Linda
+2015-2370(IT)G
+Garnhum, Austina
+2015-2371(IT)G
+Jenkins, Sharon
+2015-2372(IT)G
+Hunwicks, Richard
+2015-2373(IT)G
+Beintema, John
+2015-2379(IT)G
+Pasher, Terrence
+2015-2382(IT)G
+Hawkes, Suzanne
+2015-2383(IT)G
+Mongia, Karun
+2015-2386(IT)G
+Bell, Jocelyn
+2015-2388(IT)G
+Harvey, John
+2015-2389(IT)G
+Gowan, Jennifer
+2015-2390(IT)G
+The Estate of the late Kerreigh Ernst
+2015-2391(IT)G
+O'Reilly, Joseph
+2015-2392(IT)G
+Bell, Brian
+2015-2393(IT)G
+Baker, Edward
+2015-2394(IT)G
+Kurktschi, Vladimir
+2015-2395(IT)G
+Milberry, Matthew
+2015-2396(IT)G
+Pasher, Mary
+2015-2397(IT)G
+Barnes, John
+2015-2398(IT)G
+Jones, Andrew
+2015-2410(IT)G
+Bailey, J. Robert
+2015-2478(IT)G
+Dabrowska, Wanda
+2015-2483(IT)G
+Guzman, Rolando
+2015-2495(IT)G
+Dabrowski, Piotr
+2015-2506(IT)G
+Lum, Jeffrey Philip
+2015-2516(IT)G
+Zayac, Kenneth
+2015-2520(IT)G
+Zayac, Carla
+2015-2555(IT)G
+Elliott, David
+2015-2601(IT)G
+Aleshka, Irene
+2015-2602(IT)G
+Aleshka, Alexander
+2015-2605(IT)G
+Globa, Rita
+2015-2606(IT)G
+Globa, Edward
+2015-2729(IT)G
+Santos, Mario
+2015-2734(IT)G
+Couto, Elizabeth
+2015-2915(IT)G
+Evans, Gail
+2015-2916(IT)G
+McCutcheon, David
+2015-2917(IT)G
+McCutcheon, Pat
+2015-297(IT)G
+Verhaeghe, Rebecca
+2015-2982(IT)G
+Thomas, Shane
+2015-3107(IT)G
+Lackey, John
+2015-3114(IT)G
+Alexander, Douglas
+2015-3119(IT)G
+Szlagowski, Chris
+2015-3120(IT)G
+Alexander, Shirley
+2015-3126(IT)G
+Jones, Keith
+2015-3127(IT)G
+Jones, Nancy
+2015-3130(IT)G
+Szlagowski, Sandra
+2015-3348(IT)G
+Fauteux, Ted
+2015-34(IT)G
+Wells, Geoff
+2015-3413(IT)G
+Strecker, John
+2015-3476(IT)G
+Gosling, Thomas
+2015-372(IT)G
+Mei, Jiang-Hai
+2015-373(IT)G
+Welling, Chris
+2015-3738(IT)G
+More, David
+2015-3742(IT)G
+Holden, Fred
+2015-377(IT)G
+Xu, Jun-Sheng
+2015-3786(IT)G
+Strecker, John
+2015-4045(IT)G
+Calvert-Gordon, Susan
+2015-4067(IT)G
+Stoyka, John Michael
+2015-4068(IT)G
+Devries, Dean
+2015-4077(IT)G
+Devries, Yvonne
+2015-4078(IT)G
+Gordon, Terry
+2015-4079(IT)G
+Fusilier, Lane
+2015-4735(IT)G
+Blumbergs, James
+2015-4740(IT)G
+Hickman, Robert
+2015-4742(IT)G
+Botnick, Ian
+2015-4970(IT)G
+Jones, Keith
+2015-4980(IT)G
+Beintema, Martha
+2015-527(IT)G
+Stutt, John
+2015-528(IT)G
+Stutt, Lorraine
+2015-531(IT)G
+Arsenault, Lee
+2015-532(IT)G
+O'Reilly, Cecilia
+2015-63(IT)G
+Turner, Ross
+2015-64(IT)G
+Blommers, Jennifer
+2015-78(IT)G
+Wilson, Douglas
+2015-783(IT)G
+Hannan, Doug
+2015-786(IT)G
+Brown, Andrew
+2015-788(IT)G
+Ball, James
+2015-789(IT)G
+Welling, Chris
+2015-79(IT)G
+Blommers, David
+2015-793(IT)G
+Williams, Janet
+2015-848(IT)G
+Pasher, Mary
+2016-3040(IT)G
+Power, Jennifer
+2016-3253(IT)G
+Szlagowski, Chris
+2016-74(IT)G
+More, David
+2019-4505(IT)G
+Hawkes, Robin
+Schedule A
+147 (1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+(2) Costs may be awarded to or against the Crown.
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(i.1) whether the expense required to have an expert witness give evidence was justified given
+(i) the nature of the proceeding, its public significance and any need to clarify the law,
+(ii) the number, complexity or technical nature of the issues in dispute, or
+(iii) the amount in dispute; and
+(j) any other matter relevant to the question of costs.
+(3.1) Unless otherwise ordered by the Court, if an appellant makes an offer of settlement and obtains a judgment as favourable as or more favourable than the terms of the offer of settlement, the appellant is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+(3.2) Unless otherwise ordered by the Court, if a respondent makes an offer of settlement and the appellant obtains a judgment as favourable as or less favourable than the terms of the offer of settlement or fails to obtain judgment, the respondent is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+(3.3) Subsections (3.1) and (3.2) do not apply unless the offer of settlement
+(a) is in writing;
+(b) is served no earlier than 30 days after the close of pleadings and at least 90 days before the commencement of the hearing;
+(c) is not withdrawn; and
+(d) does not expire earlier than 30 days before the commencement of the hearing.
+(3.4) A party who is relying on subsection (3.1) or (3.2) has the burden of proving that
+(a) there is a relationship between the terms of the offer of settlement and the judgment; and
+(b) the judgment is as favourable as or more favourable than the terms of the offer of settlement, or as favourable or less favourable, as the case may be.
+(3.5) For the purposes of this section, substantial indemnity costs means 80% of solicitor and client costs.
+(3.6) In ascertaining whether the judgment granted is as favourable as or more favourable than the offer of settlement for the purposes of applying subsection (3.1) or as favourable as or less favourable than the offer of settlement for the purposes of applying subsection (3.2), the Court shall not have regard to costs awarded in the judgment or that would otherwise be awarded, if an offer of settlement does not provide for the settlement of the issue of costs.
+(3.7) For greater certainty, if an offer of settlement that does not provide for the settlement of the issue of costs is accepted, a party to the offer may apply to the Court for an order determining the amount of costs.
+(3.8) No communication respecting an offer of settlement shall be made to the Court, other than to a judge in a litigation process conference who is not the judge at the hearing, until all of the issues, other than costs, have been determined.
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+(5) Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) to award or refuse costs in respect of a particular issue or part of a proceeding,
+(b) to award a percentage of taxed costs or award taxed costs up to and for a particular stage of a proceeding, or
+(c) to award all or part of the costs on a solicitor and client basis.
+(6) The Court may give directions to the taxing officer and, without limiting the generality of the foregoing, the Court in any particular proceeding may give directions,
+(a) respecting increases over the amounts specified for the items in Schedule II, Tariff B,
+(b) respecting services rendered or disbursements incurred that are not included in Schedule II, Tariff B, and
+(c) to permit the taxing officer to consider factors other than those specified in section 154 when the costs are taxed.
+(7) Any party may,
+(a) within thirty days after the party has knowledge of the judgment, or
+(b) after the Court has reached a conclusion as to the judgment to be pronounced, at the time of the return of the motion for judgment,
+whether or not the judgment included any direction concerning costs, apply to the Court to request that directions be given to the taxing officer respecting any matter referred to in this section or in sections 148 to 152 or that the Court reconsider its award of costs.
+147 (1) La Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter.
+(2) Des dépens peuvent être adjugés à la Couronne ou contre elle.
+(3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+i.1) de la question de savoir si les dépenses engagées pour la déposition d’un témoin expert étaient justifiées compte tenu de l’un ou l’autre des facteurs suivants :
+(i) la nature du litige, son importance pour le public et la nécessité de clarifier le droit,
+(ii) le nombre, la complexité ou la nature des questions en litige,
+(iii) la somme en litige;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+(3.1) Sauf directive contraire de la Cour, lorsque l’appelant fait une offre de règlement et qu’il obtient un jugement qui est au moins aussi favorable que l’offre de règlement, l’appelant a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+(3.2) Sauf directive contraire de la Cour, lorsque l’intimée fait une offre de règlement et que l’appelant obtient un jugement qui n’est pas plus favorable que l’offre de règlement, ou que l’appel est rejeté, l’intimée a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+(3.3) Les paragraphes (3.1) et (3.2) ne s’appliquent que si l’offre de règlement :
+a) est faite par écrit;
+b) est signifiée au moins trente jours après la clôture de la procédure écrite et au moins quatre-vingt-dix jours avant le début de l’audience;
+c) n’est pas retirée;
+d) n’expire pas moins de trente jours avant le début de l’audience.
+(3.4) Il incombe à la partie qui invoque le paragraphe (3.1) ou (3.2) de prouver :
+a) qu’il existe un rapport entre la teneur de l’offre de règlement et le jugement;
+b) que le jugement est au moins aussi favorable que l’offre de règlement ou qu’il n’est pas plus favorable que l’offre de règlement, selon le cas.
+(3.5) Pour l’application du présent article, les dépens indemnitaires substantiels correspondent à 80 % des dépens établis sur une base procureur-client.
+(3.6) Lorsqu’elle détermine que le jugement accordé est au moins aussi favorable que l’offre de règlement visée au paragraphe (3.1) ou qu’il n’est pas plus favorable que l’offre de règlement visée au paragraphe (3.2), la Cour ne tient pas compte des dépens qui sont accordés dans le jugement ou qui seraient par ailleurs accordés, si l’offre de règlement ne prévoit pas le règlement de la question des dépens.
+(3.7) Il est entendu que si une offre de règlement qui ne prévoit pas le règlement des dépens est acceptée, une partie au règlement peut demander à la Cour une ordonnance quant aux dépens.
+(3.8) Tant qu’une décision n’aura pas été rendue sur toutes les questions en litige, à l’exception de celle relative aux dépens, aucune communication concernant une offre de règlement n’est faite à la Cour, sauf à un juge qui préside une conférence dans le cadre d’une instance et qui n’est pas celui qui présidera l’audition de cet appel.
+(4) La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+(5) Nonobstant toute autre disposition des présentes règles, la Cour peut, à sa discrétion :
+a) adjuger ou refuser d’adjuger les dépens à l’égard d’une question ou d’une partie de l’instance particulière;
+b) adjuger l’ensemble ou un pourcentage des dépens taxés jusqu’à et y compris une certaine étape de l’instance;
+c) adjuger la totalité ou partie des dépens sur une base procureur-client.
+(6) La Cour peut, dans toute instance, donner des directives à l’officier taxateur, notamment en vue :
+a) d’accorder des sommes supplémentaires à celles prévues pour les postes mentionnés au tarif B de l’annexe II;
+b) de tenir compte des services rendus ou des débours effectués qui ne sont pas inclus dans le tarif B de l’annexe II;
+c) de permettre à l’officier taxateur de prendre en considération, pour la taxation des dépens, des facteurs autres que ceux précisés à l’article 154.
+(7) Une partie peut :
+a) dans les trente jours suivant la date à laquelle elle a pris connaissance du jugement;
+b) après que la Cour a décidé du jugement à prononcer, au moment de la présentation de la requête pour jugement,
+que le jugement règle ou non la question des dépens, demander à la Cour que des directives soient données à l’officier taxateur à l’égard des questions visées au présent article ou aux articles 148 à 152 ou qu’elle reconsidère son adjudication des dépens.
+CITATION:
+2022 TCC 147
+COURT FILE NO.:
+2015-3120(IT)G
+STYLE OF CAUSE:
+SHIRLEY ALEXANDER AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Ottawa, Canada
+DATE OF HEARING:
+September 9, 2022
+AMENDED REASONS FOR ORDER BY:
+The Honourable Justice Dominique Lafleur
+DATE OF AMENDED ORDER:
+February 16, 2023
+APPEARANCES:
+Counsel for the Appellant:
+Jeff Pniowsky
+Matthew Dalloo
+Counsel for the Respondent:
+Arnold Bornstein
+Aaron Tallon
+Jasmeen Mann
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jeff Pniowsky
+Matthew Dalloo
+Firm:
+Thompson Dorfman Sweatman LLP Winnipeg, Manitoba
+For the Respondent:
+François Daigle Deputy Attorney General of Canada Ottawa, Canada
+[1] see definition 5(a) at: https://www.oed.com/view/Entry/141585?redirectedFrom=pertain#eid

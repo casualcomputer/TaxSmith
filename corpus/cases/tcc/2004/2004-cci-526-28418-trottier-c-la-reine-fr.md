@@ -1,0 +1,311 @@
+---
+title: "Trottier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28418/index.do"
+last_modified: "2004-08-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 526"
+citation2: ""
+neutral_citation: "2004 CCI 526"
+decision_date: "2004-08-12"
+language: "fr"
+item_id: "28418"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1217
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:10:06.585000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6912aeaa890236a721bd237b772b70915d2aed33e7dcfa86de53db313cd4e432"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Trottier c. La Reine
+
+- Citation: 2004 CCI 526
+- Decision date: 2004-08-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1217, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Trottier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-08-12
+Référence neutre
+2004 CCI 526
+Numéro de dossier
+2002-3217(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-3217(IT)I
+ENTRE :
+JEAN-MARC TROTTIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 18 juin 2004, à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentants de l'appelant :
+Gaston Drolet et
+Stéphanie Morasse, stagiaire en droit
+Avocat de l'intimée :
+Me Alain Gareau
+____________________________________________________________________
+JUGEMENT
+L'appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1998 et 1999 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 12e jour d'août 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI526
+Date : 20040812
+Dossier : 2002-3217(IT)I
+ENTRE :
+JEAN-MARC TROTTIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel de cotisations établies en vertu de la Loi de l'impôt sur le revenu (« Loi ») relativement aux années d'imposition 1998 et 1999. La question en litige consiste à déterminer si le ministre du Revenu national (le « Ministre ») était justifié de refuser à l'appelant le crédit réclamé par ce dernier à la suite d'un don de bienfaisance relatif au reçu de 22 500 $ pour les années d'imposition 1998 et 1999.
+[2] Les parties ont convenu de procéder au moyen d'une seule et même preuve commune au présent dossier et à celui portant le nom et numéro suivant : Louis Laliberté (dossier 2002-1892(IT)I).
+[3] Les cotisations contestées dans le présent appel ont été émises par suite de la prise en considération des hypothèses de fait suivantes :
+a) durant les années d'imposition 1998 et 1999, l'appelant exerçait la profession de notaire;
+b) l'appelant pratiquait sa profession avec Louis Laliberté, sous le nom Trottier Laliberté, notaires (ci-après la « Société »);
+c) l'appelant était l'unique actionnaire de la compagnie Rentinvest Inc. durant les années d'imposition en litige;
+d) l'appelant a joint à sa déclaration de revenu pour l'année d'imposition 1998 un reçu fiscal de l'organisme L'Oasis à Cœur Ouvert (ci-après « l'Oasis ») daté du 3 juillet 1998 et indiquant une somme de 22 500 $; le reçu porte la note : « Référence Coop de l'Échange »;
+e) l'appelant a appliqué 10 305 $ à l'année d'imposition 1998 et 12 194 $ à l'année d'imposition 1999, lesquels montants ont été refusés par le Ministre dans le calcul du crédit pour dons de bienfaisance réclamé pour ces années;
+f) un reçu, également daté du 3 juillet 1998 et indiquant une somme de 22 500 $, a aussi été établi par l'Oasis à l'égard de Louis Laliberté;
+g) en date du 10 décembre 1997, selon le coupon de transaction de la Coop de l'Échange, la Société d'Échange Commercial de Québec Métropolitain (ci-après « SECQM ») a acheté de l'appelant 25 000 unités d'échange;
+h) à la même date (10 décembre 1997), selon le coupon de transaction de la Coop de l'Échange, l'appelant a acheté de la SECQM 25 000 unités d'échange;
+i) en date du 10 décembre 1997, selon un contrat de vente, la SECQM a vendu à l'appelant une réplique d'un squelette de dinosaure en contrepartie de 25 000 unités d'échange commercial Coop de l'Échange;
+j) la juste valeur marchande de ces unités d'échange, en date du 10 décembre 1997 et en date du 29 mai 1998, était nulle;
+k) la juste valeur marchande de la réplique de squelette de dinosaure, qui aurait été reçue en contrepartie des unités d'échange en date du 10 décembre 1997, était nulle;
+l) en date du 29 mai 1998, selon le coupon de transaction de la Coop de l'Échange, la Société a acheté 45 000 unités d'échange de la SECQM;
+m) le 16 août 1998, selon les livres comptables de la Société, celle-ci aurait facturé une somme de 45 000 $ à la compagnie Rentinvest Inc. à titre d'honoraires :
+16-08-98
+Comptes à recevoir
+Honoraires
+TPS à payer
+TVQ à payer
+51 761,00 $
+45 000,00 $
+3 150,00 $
+3 611,25 $
+Facturation d'honoraires Rentinvest Inc.;
+n) le 17 août 1998, selon les livres comptables de la Société, Rentinvest Inc. aurait payé à la Société les honoraires de 45 000 $ avec des chandelles pour une somme de 25 000 $ et avec une toile de dinosaure pour une somme de 20 000 $ :
+17-08-98
+Achats chandelles
+Achat toile (dinosaure)
+TPS
+TVQ
+Comptes à recevoir
+25 000,00 $
+20 000,00 $
+3 150,00 $
+3 611,25 $
+51 761,00 $
+Reçu de Rentinvest des chandelles et une toile en paiement d'honoraires;
+o) le 18 août 1998, selon les livres comptables de la Société, celle-ci aurait vendu à la SECQM des chandelles pour une somme de 25 000 $ et une toile de dinosaure pour une somme de 20 000 $ :
+18-08-98
+Comptes à recevoir
+Vente de chandelles
+Vente d'une toile de dinosaure
+TPS
+TVQ
+51 761,25 $
+25 000,00 $
+20 000,00 $
+3 150,00 $
+3 611,25 $
+Ventes de toiles et de chandelles à la société d'échange;
+p) le 19 août 1998, selon les livres comptables de la Société, celle-ci aurait acheté une toile d'un musée pour une somme de 45 000 $ :
+19-08-98
+Achats d'une toile (Musée)
+TPS
+TVQ
+Comptes à payer
+45 000,00 $
+3 150,00 $
+3 611,25 $
+51 761,25 $
+Achat d'une toile du musée;
+q) aucune facture d'achat d'une toile n'a été soumise;
+r) le 20 août 1998, selon les livres comptables de la Société, le montant dû au musée pour l'acquisition d'une toile pour une somme de 45 000 $ aurait été absorbé par la SECQM :
+20-08-98
+Comptes à payer
+Comptes à recevoir
+51 761,25 $
+51 761,25 $
+Absorption par la société d'échange du montant dû au musée;
+s) le 21 août 1998, selon les livres comptables de la Société, l'appelant et Louis Laliberté auraient facturé des honoraires de 22 500 $ chacun à la Société et fait l'acquisition d'une toile pour 45 000 $ et auraient fait don de cette toile à un musée :
+21-08-98
+Honoraires – Trottier
+Honoraires – Laliberté
+Achat d'une toile
+22 500 $
+22 500 $
+45 000 $
+Don d'une toile au musée;
+t) en date du 27 octobre 2000, le représentant de la Société expliquait au Ministre que les reçus établis par l'Oasis faisaient suite au don d'une réplique de squelette de dinosaure;
+u) en date du 29 août 2001, Louis Laliberté expliquait au Ministre que les dons établis par l'Oasis faisaient suite au don de 45 000 unités d'échange de la SECQM;
+v) selon l'avis d'opposition de l'appelant, il s'agirait plutôt d'un don en argent;
+w) la véritable contrepartie aux reçus de l'Oasis était des unités d'échange de la SECQM, également connues comme étant des points trocs;
+x) les unités d'échange ont été obtenues suite à diverses opérations impliquant la Société, la compagnie Rentinvest Inc. détenue par l'appelant, la Coop de l'Échange et finalement l'appelant et Louis Laliberté personnellement;
+y) le reçu de l'Oasis soumis par l'appelant n'est pas conforme car il mentionne un don en argent alors qu'il s'agirait de biens autres que des espèces; il ne décrit pas le bien en nature et ne donne ni le nom ni l'adresse de l'évaluateur;
+z) les explications que l'appelant a fournies au Ministre, pour expliquer l'origine du reçu de l'Oasis, ne correspondent pas aux écritures comptables de la Société;
+aa) le reçu de l'Oasis soumis par l'appelant porte par ailleurs la date du 3 juillet 1998, soit une date antérieure à la date du don, à savoir le 21 août 1998, inscrite dans les registres comptables de la Société;
+bb) les registres comptables de la Société pour l'année 1997 et ceux de la compagnie Rentinvest Inc. pour 1997 et 1998 n'ont pas été fournis au Ministre, ceux-ci étant apparemment introuvables;
+cc) l'appelant n'a pas fait don, de quelque manière que ce soit, de 22 500 $ en faveur de l'Oasis.
+[4] L'appelant a admis le contenu des alinéas a) à i), l) à o), q), r), u), w), x) et aa). L'alinéa s) a été admis à l'exception de la mention de l'achat d'une toile de 45 000 $, élément qui fut nié. Plusieurs alinéas furent tout simplement niés; il s'agit des alinéas suivants : j), k), p), t), v), y), z), bb) et cc).
+[5] Le notaire, Louis Laliberté et le comptable, Gaston Drolet ont été les seuls témoins.
+[6] Le témoignage du notaire Laliberté a été plutôt sommaire. Il n'était pas celui qui a agi comme le maître d'œuvre des diverses transactions ayant conduit à l'émission des reçus (pièces A-9 et A-10). Le comptable, Gaston Drolet, a été plus explicite.
+[7] D'entrée de jeu, ce dernier a affirmé que toutes les écritures comptables expliquaient et justifiaient les prétentions de l'appelant et il a beaucoup insisté sur ce fait. La cohérence des faits à l'origine des écritures n'était cependant pas aussi limpides.
+[8] Quoique le comptable, qui était responsable du dossier comptable de la société de notaires à laquelle appartenait l'appelant, ait semblé bien connaître le dossier, il a tout de même fait des affirmations fort surprenantes.
+[9] Il a d'abord indiqué qu'il ne s'agissait pas d'une toile, mais d'une réplique de dinosaure, un bien pourtant dominant dans l'histoire du dossier ayant conduit au don. Plus tard, il fut question de points trocs et après d'argent sur la base que les points trocs étaient à toute fin pratique de l'argent.
+[10] Lorsqu'on l'a questionné quant aux différentes démarches effectuées pour s'assurer de la validité du statut d'organisme de bienfaisance, le comptable a d'abord mentionné qu'il ne s'agissait pas là d'une exigence essentielle; il a reconnu ensuite avoir fait certaines démarches qui lui ont confirmé que l'organisme qui a émis le reçu était bel et bien dûment inscrit et autorisé à émettre des reçus. Il a, par contre, admis avoir été informé que l'organisme avait vu son droit révoqué à un moment donné.
+[11] Le comptable a également fourni des explications quant au compte d'honoraires professionnels au montant de 45 000 $. Il a indiqué que l'appelant travaillait physiquement pour la société Rentinvest Inc. qui lui appartenait.
+[12] Comme ce travail avait pour conséquence de réduire sa disponibilité auprès de la société de notaires Trottier Laliberté à laquelle il appartenait, cette même société a donc facturé Rentinvest Inc. pour un montant de 45 000 $, représentant 45 jours à 1000 $ par jour.
+[13] Le comptable a également mentionné, sans doute pour justifier le caractère raisonnable du compte, qu'il aurait pu y avoir un compte beaucoup plus élevé puisque l'appelant avait été absent pendant un nombre de jours plus grand que celui indiqué à la facture.
+[14] Lors de son plaidoyer, l'avocat de l'intimée a soulevé avec raison la question suivante :
+Je vous soumets là-dessus, Monsieur le Juge, que déjà là, je pense que le bât blesse puisqu'on peut facilement se poser la question, en quoi Trottier Laliberté, notaires, peut facturer pour des travaux d'entretien, de rénovations que maître Trottier peut faire dans sa propre entreprise?
+[15] Globalement, l'appelant, tant par le témoignage du notaire Laliberté que par celui du comptable, a fait valoir qu'il n'avait rien caché et que tout avait été déclaré et consigné dans des écritures comptables cohérentes.
+[16] L'essentiel des prétentions de l'appelant principalement exprimé par le comptable a consisté à affirmer, répéter et insister que tout avait été déclaré inscrit au livres comptables dans la plus totale cohérence.
+[17] Le cheminement des faits à l'origine des prétentions de l'appelant est douteux et soulève plusieurs questions au point de s'interroger si certains faits n'ont tout simplement pas été inventés pour permettre la fameuse cohérence comptable dont il était manifestement très fier.
+[18] La fiscalité n'est pas seulement un exercice comptable cohérent. Le respect des dispositions de la Loi et du Règlement de l'impôt sur le revenu est le seul critère qui doit être pris en considération pour déterminer si une cotisation est bien fondée ou non. La cohérence comptable ne peut valider des faits qui commandent des conclusions non conformes aux dispositions de la Loi.
+[19] Pour l'instant, je ne vois pas l'intérêt d'apprécier cet aspect de la preuve puisqu'un reçu pour don de bienfaisance, pour être accepté, doit respecter des conditions très précises et strictes, d'où il y a lieu dans un premier temps d'apprécier le dossier sous cet angle, à savoir si les conditions essentielles ont été respectées.
+[20] En l'espèce, le reçu a été libellé comme suit (pièce A-10) :
+L'OASIS A COEUR OUVERT INC
+278, de la Salle, bureau 00l
+QUÉBEC (Québec) G1K 2T3
+Numéro d'organisme: 89310 8068 RR 0001
+Reçu numéro: 10004
+DATE 3 Juillet 1998
+Reçu de:____________M. Jean-Marc Trottier
+Adresse :__________370, Boul René Lévesque Ouest____________
+Ville/province: _____QUÉBEC (Qc) Code postal: G1S 1R9 NAS: xxx xxx xxx
+La somme de: --- --- Vingt deux milles cinq cent dollars 22 500. $
+Note: Référence Coop de l'Échange
+(signature)
+Jean-Yves Gagnon
+[21] Le reçu produit par l'appelant respecte-t-il les dispositions de l'article 3500 et des paragraphes 3501(1) et (1.1) du Règlement de l'impôt sur le revenu (« Règlement »)? Ces dispositions se lisent comme suit :
+3500 Dans la présente partie,
+« autre bénéficiaire d'un don » s'entend d'une personne à qui un contribuable fait un don, visée à l'un des sous-alinéas 110.1(1)a)(iii) à (vii), aux alinéas 110.1(1)b) ou c), à l'alinéa 110.1(3)b), à la définition de « total des dons à l'État » au paragraphe 118.1(1), à l'alinéa b) de la définition de « total des dons de biens culturels » au paragraphe 118.1(1), à l'un des alinéas c) à g) de la définition de « total des dons de bienfaisance » au paragraphe 118.1(1) ou à l'alinéa 118.1(6)b) de la Loi;
+[...]
+« reçu officiel » s'entend d'un reçu remis pour l'application des paragraphes 110.1(2) ou (3) ou 118.1(2), (6) ou (7) de la Loi, sur lequel figurent les détails exigés par les articles 3501 ou 3502.
+[...]
+3501. (1) Tout reçu officiel délivré par une organisation enregistrée doit énoncer que ledit reçu est un reçu officiel aux fins de l'impôt sur le revenu et indiquer clairement, de façon qu'ils ne puissent être modifiés facilement, les détails suivants :
+a) le nom et l'adresse au Canada de l'organisation ainsi qu'ils sont enregistrés auprès du Ministre;
+b) le numéro d'enregistrement attribué par le Ministre à l'organisation;
+c) le numéro de série du reçu;
+d) le lieu ou l'endroit où le reçu a été délivré;
+e) lorsque le don est un don en espèces, le jour ou l'année où le don a été reçu;
+e.1) lorsque le don est un don de biens autres que des espèces,
+(i) le jour où le don a été reçu,
+(ii) une brève description du bien, et
+(iii) le nom et l'adresse de l'évaluateur du bien si une évaluation a été faite;
+f) le jour où le reçu a été délivré, si ce jour diffère du jour visé à l'alinéa a) ou e.1);
+g) le nom et l'adresse du donateur y compris, dans le cas d'un particulier, son prénom et son initiale;
+h) le montant qui correspond
+(i) au montant du don en espèces, ou
+(ii) lorsque le don est un don de biens autres que des espèces, à la juste valeur marchande du bien au moment où le don a été fait; et
+i) la signature, ainsi qu'il est prévu au paragraphe (2) ou (3), d'un particulier compétent qui a été autorisé par l'organisation à accuser réception des dons.
+[22] Lors d'une décision antérieure, soit dans l'affaire Plante c. Canada, [1999] A.C.I. no 51 (Q.L.), je traitais de la rigidité des exigences requises pour qu'un reçu pour don de bienfaisance soit conforme. Je reproduis ici les paragraphes 40 à 43 de cette affaire :
+40. Le reçu produit par l'appelante était-il conforme aux exigences de la Loi et lui donnait-il droit aux bénéfices de la Loi.
+41. Il s'agit là d'une question fort importante puisque le législateur a prévu que la déduction à la suite d'un don était assujettie à des conditions spécifiques.
+42. Voici ce qu'édicte le paragraphe 118.1(2) de la Loi :
+118.1(2) Aucun don ne peut être inclus dans le total des dons de charité, dans le total des dons à l'État ou dans le total des dons de biens culturels s'il n'est pas attesté par un reçu, contenant les renseignements prescrits, produit au ministre. [je souligne]
+43. L'article 3500 et les paragraphes 3501(1) et (1.1) du Règlement de l'impôt sur le revenu (« Règlement ») disposent ainsi :
+3500. Dans la présente partie,
+« autre bénéficiaire d'un don » s'entend d'une personne visée à l'un des sous-alinéas 110(1)a)(iii) à (vii) à l'alinéa 110(1)b) ou b.1) ou au sous-alinéa 110(2.2)a)(ii) de la Loi, à qui un contribuable fait un don;
+[...]
+« reçu officiel » s'entend d'un reçu pour l'application de l'alinéa 110(1)a), b) ou b.1) ou du paragraphe 110(2.2) de la Loi, où figurent les renseignements prévus par l'article 3501 ou 3502.
+[...]
+3501. (1) Tout reçu officiel délivré par une organisation enregistrée doit énoncer que ledit reçu officiel aux fins de l'impôt sur le revenu et indiquer clairement, de façon qu'ils ne puissent être modifiés facilement, les détails suivants :
+a) le nom et l'adresse au Canada de l'organisation ainsi qu'ils sont enregistrés auprès du Ministre;
+b) le numéro d'enregistrement attribué par le Ministre à l'organisation;
+c) le numéro de série du reçu;
+d) le lieu ou l'endroit où le reçu a été délivré;
+e) lorsque le don est un don en espèces, le jour ou l'année où le don a été reçu;
+e.1) lorsque le don est un don de biens autres que des espèces,
+(i) le jour où le don a été reçu,
+(ii) une brève description du bien, et
+(iii) le nom et l'adresse de l'évaluateur du bien si une évaluation a été faite;
+f) le jour où le reçu a été délivré, si ce jour diffère du jour visé à l'alinéa a) ou e.1);
+g) le nom et l'adresse du donateur y compris, dans le cas d'un particulier, son prénom et son initiale;
+h) le montant qui correspond
+(i) au montant du don en espèces, ou
+(ii) lorsque le don est un don de biens autres que des espèces, à la juste valeur marchande du bien au moment où le don a été fait; et
+i) la signature, ainsi qu'il est prévu au paragraphe (2) ou (3), d'un particulier compétent qui a été autorisé par l'organisation à accuser réception des dons.
+[23] Le libellé même du reçu émis par l'Oasis à cœur ouvert Inc. n'est pas conforme; il fait état d'un don en espèces au montant de 22 500 $ alors qu'il s'agit, selon la preuve, de points trocs attribués par « Coop de l'Échange ».
+[24] Que valent les fameux points trocs auprès d'une société qui fait affaires exclusivement avec ses membres? L'évaluation totalement arbitraire et intéressée du comptable n'était certainement pas la façon d'en établir la juste valeur marchande.
+[25] Un reçu doit contenir une brève description du bien; le reçu produit fait état d'une somme de vingt-deux mille cinq cents dollars en mots et, bien sûr, en chiffres, « 22 500 $ » avec le symbole du dollar.
+[26] Le reçu ne correspond donc pas au bien qui aurait été remis à l'organisme de bienfaisance. D'une part, le reçu ne comprend aucune description du bien, que ce soit la fameuse toile, une réplique de dinosaure ou des points trocs. On y retrouve simplement la mention « Référence Coop de l'Échange » qui, encore là, ne fait pas mention qu'il s'agit de points trocs; d'ailleurs, les fameux points trocs n'ont pas été émis au bénéfice de l'appelant mais à celui de la société à laquelle il appartenait.
+[27] Cohérence comptable n'est pas synonyme de justification à toute épreuve de rectitude fiscale. Les opérations ne doivent pas être essentiellement des entrées accommodantes.
+[28] Pour obtenir le crédit d'impôt découlant d'un don à un organisme accrédité, il est impératif que le reçu soit en tout point conforme aux exigences du Règlement, faute de quoi le donateur ne peut pas réclamer le crédit pour don de bienfaisance prévu à l'article 110.1 de la Loi.
+[29] En l'espèce, les faits à l'origine du don sont demeurés, à la suite de la preuve, nébuleux; de plus, certains faits sont pour le moins douteux.
+[30] En outre, le don n'était pas un don en argent comme le reçu le laisse croire, mais essentiellement un certificat attestant de points trocs délivré par une Coop de l'Échange. Le reçu a été émis à l'appelant personnellement, alors que le don a été fait par la société à laquelle il appartenait.
+[31] Finalement, seuls les membres pouvaient faire affaires avec la Coop de l'Échange, et donc la valeur des points trocs n'était pas comme de l'argent, contrairement à ce qu'a soutenu le comptable Gaston Drolet; je ne souscris pas à son interprétation, qui m'apparaît d'ailleurs sans fondement aucun.
+[32] Outre ces divers éléments qui justifieraient à eux seuls le rejet de l'appel, le reçu soumis à l'appui de la demande de crédit n'est absolument pas conforme aux exigences du paragraphe 3501(1) du Règlement, notamment en ce qui a trait à la description du bien et à sa juste valeur marchande, deux éléments tout à faits essentiels à la conformité d'un reçu devant appuyer une demande de crédit à la suite d'un don de bienfaisance.
+[33] L'appel est donc rejeté.
+Signé à Ottawa, Canada, ce 12e jour d'août 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI526
+No DU DOSSIER DE LA COUR :
+2002-3217(IT)I
+INTITULÉ DE LA CAUSE :
+Jean-Marc Trottier et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec
+DATE DE L'AUDIENCE :
+le 18 juin 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 12 août 2004
+COMPARUTIONS :
+Représentants de l'appelant :
+Gaston Drolet et
+Stéphanie Morasse, stagiaire en droit
+Avocat de l'intimée:
+Me Alain Gareau
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Avocat de l'appelant :
+Étude :
+Ville :
+Me Louis Sirois
+Gosselin Daigle Siroix & Associés
+Québec (QC)
+Pour l'intimée:
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+-

@@ -1,0 +1,160 @@
+---
+title: "Ward v. Human Resources"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28491/index.do"
+last_modified: "2008-01-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 25"
+citation2: ""
+neutral_citation: "2008 TCC 25"
+decision_date: "2008-01-16"
+language: "en"
+item_id: "28491"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1288
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:38:56.132000+00:00"
+cases_cited_count: 3
+cases_citing_count: 9
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "551826408e3742400e949981d33d2ccfa9459ca4e84b2af7a25bb99d60f35fed"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ward v. Human Resources
+
+- Citation: 2008 TCC 25
+- Decision date: 2008-01-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1288, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ward v. Human Resources
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-16
+Neutral citation
+2008 TCC 25
+File numbers
+2007-3096(OAS)
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Old Age Security Act
+Decision Content
+Docket: 2007-3096(OAS)
+BETWEEN:
+ELLEN WARD,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES
+AND SOCIAL DEVELOPMENT CANADA,
+Respondent.
+Appeal heard on January 7, 2008, at Winnipeg, Manitoba
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Belinda Schmid
+JUDGMENT
+The appeal from the determination made under section 28 of the Old Age Security Act regarding the calculation of the Appellant’s entitlement to the Guaranteed Income Supplement is dismissed, without costs, for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of January, 2008.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2008TCC25
+Date: 20080116
+Docket: 2007-3096(OAS)
+BETWEEN:
+ELLEN WARD,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES
+AND SOCIAL DEVELOPMENT CANADA,
+Respondent.
+REASONS FOR JUDGMENT
+(Edited from Reasons for Judgment delivered orally from the Bench
+on January 11, 2008 at Winnipeg, Manitoba)
+Hershfield J.
+[1] This appeal made under section 28 of the Old Age Security Act (the “Act”) concerns a decision of the Minister of Human Resources and Social Development Canada (the “Minister”) regarding the calculation of the Appellant’s entitlement to the Guaranteed Income Supplement (the “GIS”).
+[2] The facts are not in dispute. The Appellant is the annuitant of a Registered Retirement Income Fund (the “RRIF”) as defined and regulated under the Income Tax Act (the “ITA”) from which she received an annual payment of $1,300 each January. It is not in dispute that this is a once a year payment that is the “minimum amount” required under the ITA to be paid out of the RRIF. Further payments or withdrawals are allowed at the discretion of the annuitant. Indeed, the Appellant in this case made such further withdrawals. The first of these additional payments (or at least the first of these that impacts on this appeal) was made in September 2005.
+[3] The additional payment out of the RRIF in 2005 was $7,460. Additional extra payments made to her out of the RRIF were $3,611 in November 2006 and $1,065 in July 2007. The latter withdrawal left a zero balance in her RRIF. It was acknowledged that the extra withdrawals shortened the life of the fund. That is, each additional payment reduced the number of future minimum payments she would receive or reduced the amount of the last minimum payment.
+[4] To put the issue in this appeal in context an overview of the general scheme of the GIS will be helpful. Firstly, the entitlement to the GIS for the 12 month period commencing June 1 of any year and ending July 31 of the next year depends on the income of the applicant in that applicant’s base calendar year which is the taxation year preceding the particular 12 month period in respect of which an application for GIS is being made. That particular 12 month period is referred to as the “current payment period”.[1] To account for certain situations where one’s income is expected to go down during the upcoming GIS payment period and hence leave an applicant in a worse income position than projected by looking at the previous calendar year’s income, applicants are permitted in limited circumstances to make estimates of reduced income so that the Minister can make any necessary adjustments to the amount of the GIS to be paid to that applicant.
+[5] The additional September 2005 payment out of the Appellant’s RRIF increased her 2005 income which reduced her GIS entitlement for the next GIS payment period (June 1, 2006 – July 31, 2007). To avoid this reduction she applied in August 2006 not to have her GIS amount reduced based on her estimated reduction in income for 2006. This was done by filing a required statement wherein she indicated that her RRIF income would go down to $1,300.
+[6] This narrows in on the problem or issue in this appeal. Simply put, the question to be answered is whether the estimated reduction in additional payments out of her RRIF entitled the Appellant to a GIS for the July 2006 – June 2007 period greater than that payable based on her unadjusted income in the 2005 base calendar year. It is not in dispute that the only provision that would assist the Appellant is subsection 14(4) of the Act. The subsection provides as follows:
+Additional statement where loss of pension income in current payment period
+(4) Where in a current payment period a person who is an applicant, or who is an applicant’s spouse or common-law partner who has filed a statement as described in paragraph 15(2)(a), suffers a loss of income due to termination or reduction of pension income, the person may, not later than the end of the payment period immediately after the current payment period, in addition to making the statement of income required by subsection (1) in the case of the applicant or in addition to filing a statement as described in paragraph 15(2)(a) in the case of the applicant’s spouse or common-law partner, file a statement of the person’s estimated income for the calendar year in which the loss is suffered, other than pension income received by that person in that part of that calendar year that is before the month in which the loss is suffered, in which case the person’s income for the base calendar year shall be calculated as the total of
+(a) the person’s income for that calendar year, calculated as though the person had no pension income for that calendar year, and
+(b) any pension income received by the person in that part of that calendar year that is after the month immediately before the month in which the loss is suffered, divided by the number of months in that part of that calendar year and multiplied by 12.
+[7] The statement of the Appellant that showed the estimated reduction in her RRIF receipts was filed in order to increase her payments for the July 2006 - June 2007 payment period. Hence, when reading subsection 14(4), that is the “current payment period” we must refer to. Reducing the subsection to a somewhat simpler form that addresses the context of the present appeal, it says that where:
+- the applicant suffers a loss of income due to reduction of pension income;
+and
+- not later than the end of the payment period July 2007 – June 2008 the applicant files a statement of estimated income for the calendar year in which “the loss is suffered”;
+then
+- the GIS will be adjusted by excluding from income for that calendar year any pension income received prior to the loss suffered and adding, on an annualized basis, the pension income received after that time as if it were payable monthly.
+[8] Looking at this statutory framework, it appears clear that to assist the Appellant, a square peg must be fit into a round hole. However, in the belief that this Court should construe this cumbersome legislation in a manner that would assist the Appellant if there was any way to do so, I challenged many of the Respondent’s counsel’s arguments that supported the Minister’s decision to deny the Appellant the adjustment requested. This is, after all, social welfare legislation which must be construed liberally to favour those who might reasonably be expected to benefit from it. It was after all essentially conceded that this Appellant was economically distressed in terms of having the where-with-all to cover basic living expenses in the current payment period – a situation compounded by the GIS cutback suffered due to her extra RRIF withdrawal in 2005.
+[9] One possible problem with focusing on this economic hardship as the Appellant asks me to do, is that her GIS receipts for the prior payment period, based on her 2004 income, may have been higher than Parliament may have wished to allot her considering the extra income she received in 2005. Those higher GIS payments are in effect being clawed back by the cut-back in the next payment period based on 2005 taxable income. Regardless, it is incumbent on me to see if there is any reasonable way to construe the subject provision of the Act to assist the Appellant.
+[10] Turning to the first of the three components of subsection 14(4) that I have set out above, the Respondent’s counsel argues that the requirement in respect of the first component, that the applicant suffers a loss of income due to reduction of pension income, is not met. She argues that RRIFs are not pensions.
+[11] Section 14 of the Old Age Security Regulations defines pension income as follows:
+14. For the purposes of section 14 of the Act, "pension income" means the aggregate of amounts received as
+(a) annuity payments;
+…
+(f) superannuation or pension payments, other than a benefit received pursuant to the Act or any similar payment received pursuant to a law of a provincial legislature;
+…
+As well, given that section 2 of the Act defines "income" of a person for a calendar year as the person’s income for the year computed in accordance with the ITA, Respondent’s counsel referred me to the definition of “annuity” in the ITA. Under the ITA an “annuity” includes an amount payable on a periodic basis whether payable at intervals longer or shorter than a year and whether payable under a contract, will or trust or otherwise. By this definition a RRIF is an annuity. Further, responding to the argument that payments from a RRIF may not be precluded from being pension income or pension benefits just because they meet the requirements of being an annuity, Respondent’s counsel argued that the ITA makes it clear that pension benefits do not include RRIF payments. Sections 56 and 212 for example refer to pension benefits as being distinct from payments from RRIFs.[2] Drake v. Canada (Minister of Human Resources Development)[3] was also referred as authority for the principle that registered plans were not pensions for the purposes of the Act.
+[12] While these arguments have merit, they fall short of being compelling in my view. The ITA treats pension plans and RRIFs as serving a common purpose. Contributions that ultimately fund each of them are meant for retirement and are cross-referenced in order to ensure no overpayments are permitted. RRIFs are the pension substitute for self-employed persons or they can compliment an employer’s pension plan where there is room to do so. As a matter of common understanding, such persons who have established RRIFs would regard their RRIFs as their pensions.[4] In any event, just because income under the Act is determined under the ITA does not mean that the classification of “pension income” for the purposes of subsection 14(4) is determined under the ITA. Such classification is determined in accordance with the definition of “pension income” in section 14 of the Act. Inferences drawn from the ITA are not required or relevant.
+[13] Assuming that a RRIF is a pension for the purposes of the Act, a question was also raised as to whether the $7,462 paid in September 2005 was pension income even assuming the $1,300 annual amount was pension income. Respondent’s counsel essentially conceded that if a RRIF was a pension, all payments from the RRIF could be taken to be pension income including the extraordinary payments such as the $7,462 paid to the Appellant in September 2005. In making this concession, she relied on Henriques v. Canada (Minister of Human Resources Development)[5] and Mattina v. Canada (Minister of Human Resources Development).[6]
+[14] Having found that Respondent’s counsel’s arguments, that RRIF withdrawals are not pension income under the Act, are not compelling in themselves at least, it is necessary to further analyze subsection 14(4) and to ultimately consider the provision as a whole. Accordingly, I turn to consider the second of the three components of subsection 14(4) that I have set out above; namely, whether the Appellant filed a statement of estimated income for the calendar year in which “the loss is suffered” not later than the end of the payment period July 2007 – June 2008. Meeting this requirement in the present case requires some mental gymnastics but nonetheless, it seems it can be met. The only certain loss here is of future payments of $1,300. The lifetime of the “minimum payment” regime has been cut short but that loss will not occur in the current payment period. Still a reduction in pension income for the current payment period can be forecasted by the Appellant. By virtue of her own resolve and understanding of her situation, she may know that the extra payment of $7,462 taken in 2005 will not be necessary in the upcoming GIS period. Nothing in the subject provision expressly says that she cannot make that forecast at any time in 2005 and use it as the basis for determining that she will have or will suffer a loss of pension income. Predicting this loss for the July 2006 – June 2007 period (the current payment period) she has until the end of the payment period July 2007 – June 2008 to request an adjustment. She clearly complied with the time requirement then by filing her statement in August 2006. Respondent’s counsel did not disagree.
+[15] I turn now to consider the third and last of the three components of subsection 14(4) that I have set out above; namely, the adjustment to be made in effect to the base calendar year income. The formula used, anticipating a “reduction” in pension income in a particular month, forecasts future pension income based on the reduced payment in that particular month by including and annualizing the actual receipt in that particular month and excluding receipts in previous months. Such formula simply does not work where there is no month in the year where there is no actual reduction in pension income. If pension income goes up in a month, the projection formula assumes that the upward adjustment will continue just as it assumes a reduction will continue. Allowing that the forecasted “reduction” occurs in September 2005 when the change (increase) occurs, the section requires annualizing the $7,462 in a manner that forecasts annual pension income of over $22,000 a year.[7] If the loss is said to occur after September 2005, the formula will not only wipe out the $7,462 amount that is the loss forecasted to be suffered but it will wipe out the minimum required payment of $1,300 which is the only amount that the Appellant annuitant will receive with certainty in the next year. The only way it will not be excluded is if the loss is suffered in January 2005 but prior to the January payment of $1,300. Even in that case the formula would still not assist the Appellant as it then takes in both 2005 receipts and she would end up with projected income equal to her actual income. Given the “loss” recognition purpose of the subject provision, it would be nonsensical to think that any of these results were intended by Parliament.
+[16] Clearly then, the subject provision contemplates something other than forecasted pension reductions control over which is entirely in the discretion of the annuitant. The annuitant is required to “suffer” a loss. The loss must be a “fait accompli”. The forecast of a loss over which the annuitant has control to suffer, or not, is not a loss suffered. At no point then in 2005 did the Appellant suffer a loss. The reduction in income if there is one will only be known on the last day of the 2006 year. Applying the formula in subsection 14(4) at that point will again produce a nonsensical result. Accordingly, it is my view that the adjustment in subsection 14(4) cannot apply to changes in payments made under a RRIF where the changes arise from the exercise of the discretionary rights of the annuitant.
+[17] Lastly, I point out, as did Respondent’s counsel, that allowing that discretionary reductions in RRIF payments are reductions suffered for the purposes of subsection 14(4), would allow for some annuitant abuse of the GIS regime. Taking more out of a RRIF in year one, for example, could in that case artificially increase the GIS paid in the payment period that commences in July of the next year. Whether that is subsequently clawed back or not, the subject provision should not readily be interpreted and applied so as to permit such abuse. No assertion has been made here that any such abuse was intended. Indeed, to the contrary, I regret that I have had to come to the conclusion that the appeal must fail. I have no doubt that the economic hardship suffered by the reduction in her GIS was real. Unfortunately, her relatively large withdrawal in 2005 put her in an income range that meant a reduction in her GIS benefits.
+[18] For all these Reasons, the appeal is dismissed without costs. However, before concluding, an additional comment needs to be made. As Justice Bowie suggested in Drake, it may be necessary for the appropriate policy and legislative department of government to revisit the subject provision with a view to ensuring that it operates in a manner that reflects the policies of government in an intelligible way and in a way that does not discriminate against one group of retired persons or give another group an unjustifiable advantage depending on the
+nature of their pension or registered retirement plan or the nature of the payout regimes contemplated or permitted under those plans.
+Signed at Ottawa, Canada, this 16th day of January, 2008.
+"J.E. Hershfield"
+Hershfield J.
+CITATION: 2008TCC25
+COURT FILE NO.: 2007-3096(OAS)
+STYLE OF CAUSE: ELLEN WARD AND THE MINISTER
+OF HUMAN RESOURCES AND SOCIAL
+DEVELOPMENT
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: January 7, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT: January 16, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Belinda Schmid
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Paragraph 2(c) of the Act defines "payment period" in relation to a month, to mean “the period after June 30, 1999 that begins on July 1 of one year and ends on June 30 of the next year, where that period includes the month”. Section 10 of the Act defines “current payment period” to mean “.. the payment period in respect of which an application for a supplement is made by an applicant.” Section 10 of the Act defines “base calendar year” to mean “.. the last calendar year ending before the current payment period”.
+[2] Subparagraph 56(1)(a)(i) includes pension benefits in income. Paragraph 56(1)(h) includes RRIFs. The second inclusion would not be necessary if RRIFs were pensions. Similarly, that paragraph 212(1)(h) includes pension benefits in income does not obviate the need to include RRIFs in income under paragraph 212(1)(q).
+[3] 2005 CarswellNat 2193; 2005 TCC 498.
+[4] Justice Bowie in Drake at the end of paragraph 4 recognizes that an RRSP withdrawal cannot be considered to be “pension income” prior to its maturity. This suggests the view that after maturity when an RRSP converts to an RRIF, withdrawals might well be “pension income”. As well, I note that in calculating personal credits in section 118 of the ITA, pension income is defined in subsection (7) to include a payment in respect of a life annuity out of or under a superannuation or pension plan. Describing the inclusion in this way presumes a life annuity can be part of a pension plan. While all life annuities may not be pensions, clearly a life annuity can exist as part of a pension plan. A discussion of this topic is found in Letarte v. R.. That case involved a Locked in Fund which operated like a RRIF and was treated like a pension. While the Appellant lost that case it was not because the RRIF-like LIF income was not pension income. The Appellant lost because it was not a “qualified pension income”. A similar finding was made in Kennedy v. R.. Without that exclusion being present these cases suggest that payments out of a RRIF can properly be considered to be pension income.
+[5] 2006 CarswellNat 2948; 2006 TCC 506.
+[6] 2006 CarswellNat 2050; 2006 TCC 324.
+[7] The language of the subject provision “any pension income received by the person in that part of that calendar year that is after the month immediately before the month in which the loss is suffered” in this case means “any pension income - $7,462 - received by the person in that part of that calendar year - September 2005 to December 2005 being that part of the year - that is after August 2005 which is the month immediately before the month in which the loss is suffered i.e. September.” Aside from suggesting that the wording of the subject provision might be improved, I suggest that this produces pension income of: ($7,463/4) x 12 = $22,393.

@@ -1,0 +1,144 @@
+---
+title: "Saindon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29253/index.do"
+last_modified: "2009-06-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 302"
+citation2: ""
+neutral_citation: "2009 CCI 302"
+decision_date: "2009-06-04"
+language: "fr"
+item_id: "29253"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6993
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:50:53.747000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "51ee39e1918a8b3197a700bceda18e9cc833f46f624b5d87ce4bd4479aa2742a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Saindon c. La Reine
+
+- Citation: 2009 CCI 302
+- Decision date: 2009-06-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6993, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Saindon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-06-04
+Référence neutre
+2009 CCI 302
+Numéro de dossier
+2006-1776(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1776(IT)G
+ENTRE :
+CLAUDETTE SAINDON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 27 mai 2009, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l'appelante :
+Me Rodrigue E. Lévesque
+Avocat de l'intimée :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1999 est rejeté, avec dépens, le tout selon les motifs de jugement ci-joints.
+Signé à Montréal, Québec, ce 4e jour de juin 2009.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2009 CCI 302
+Date : 20090603
+Dossier : 2006-1776(IT)G
+ENTRE :
+CLAUDETTE SAINDON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelante en appelle d’une cotisation établie par le ministre du Revenu national (le « ministre ») en dehors de la période normale de cotisation, aux termes du sous-alinéa 152(4)a)(i) de la Loi de l’impôt sur le revenu (« LIR ») à l’égard de l’année d’imposition 1999.
+[2] L’appelante reconnaît avoir omis de déclarer un gain en capital de 133 400 $, réalisé en 1999. Elle soumet toutefois, que le ministre est forclos de la recotiser après la période de nouvelle cotisation, au motif qu’il ne peut démontrer que cette omission était le fruit d’une négligence, d’une inattention ou d’une omission volontaire de la part de l’appelante.
+[3] En effet, le ministre doit démontrer ceci pour pouvoir recotiser après l’expiration du délai de prescription de trois ans, prévu au paragraphe 152(3.1) de la LIR. Les dispositions législatives pertinentes se lisent comme suit :
+152(3.1) Période normale de nouvelle cotisation -- Pour l'application des paragraphes (4), (4.01), (4.2), (4.3), (5) et (9), la période normale de nouvelle cotisation applicable à un contribuable pour une année d'imposition s'étend sur les périodes suivantes :
+a) quatre ans suivant soit le jour de mise à la poste d'un avis de première cotisation en vertu de la présente partie le concernant pour l'année, soit, s'il est antérieur, le jour de mise à la poste d'une première notification portant qu'aucun impôt n'est payable par lui pour l'année, si, à la fin de l'année, le contribuable est une fiducie de fonds commun de placement ou une société autre qu'une société privée sous contrôle canadien;
+b) trois ans suivant le premier en date de ces jours, dans les autres cas.
+[…]
+152(4) Cotisation et nouvelle cotisation [délai de prescription] -- Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l'impôt pour une année d'imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu'aucun impôt n'est payable pour l'année à toute personne qui a produit une déclaration de revenu pour une année d'imposition. Pareille cotisation ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[4] Il ressort de la preuve que l’appelante est une femme d’affaires qui a une formation en tenue de livres, en administration et en comptabilité. En 1978, elle a commencé à travailler auprès de la société Bitumar Inc. (« Bitumar »). En 1981, elle a acquis des actions de Bitumar par l’intermédiaire d’une société de placements, 1851-1634 Québec Inc. (« Québec Inc »), dont elle était actionnaire et seule administratrice. Lors de cette transaction, l’appelante a reçu 1 335 actions privilégiées de Québec Inc pour une somme convenue de 100 $ aux termes des dispositions de roulement prévues au paragraphe 85(1) de la LIR.
+[5] Suite à une mésentente avec son associé dans Bitumar, l’appelante a vendu toutes ses actions dans Québec Inc en avril 1999, dont les 1 335 actions privilégiées mentionnées plus haut. Puisque la somme convenue en 1981 était de 100 $, le prix de base rajusté de ces actions était de 100 $. Le produit de disposition de ces actions étant de 133 500 $, l’appelante a donc réalisé un gain en capital de 133 400 $. Toutefois, au moment de préparer sa déclaration de revenu pour l’année 1999, au mois d’avril 2000, le comptable de l’appelante a erronément considéré le coût de ces actions comme étant le même que le produit de disposition, soit 133 500 $, de sorte qu’aucun gain en capital n’a été reporté pour ces actions.
+[6] L’appelante reconnaît maintenant qu’il y a eu erreur, mais estime que cette erreur ne résulte d’aucune erreur de sa part. Elle dit ne pas être fiscaliste de formation et au moment de régler le litige qui l’opposait à son ancien associé, elle s’était fait représenter par un comptable fiscaliste et un avocat. Ce comptable fiscaliste avait fait différents calculs pour évaluer le montant net après impôt qui reviendrait à l’appelante. Selon l’un de ses calculs (Pièce I-1, onglet 9, page 3), il a établi le produit de disposition des 1 335 actions privilégiées à 133 500 $ et le prix de base rajusté à 27 500 $ (selon l’information qui se trouvait aux états financiers, Pièce I-1, onglet 9, page 1, et onglet 8, page 49, note 5 ‑ passif éventuel ‑), pour obtenir un gain en capital de 106 000 $ sur ces actions. Dans ce calcul, il ajoute le gain en capital réalisé sur la vente des actions ordinaires et après exonération du gain en capital de 500 000 $, arrive à un gain en capital imposable estimé de 515 900 $.
+[7] Pour des raisons inexpliquées, ce même comptable (qui n’était pas présent en cour pour témoigner) et qui a complété les déclarations de revenu de l’appelante pour l’année 1999 en avril 2000, a établi le gain en capital sur la vente des actions privilégiées à 0 $. Il a tout simplement omis la transaction de 1981 qui avait donné lieu au transfert de ces actions pour la somme convenue de 100 $ et tenu pour acquis que ces actions avaient été acquises par l’appelante pour la somme de 133 500 $.
+[8] L’appelante dit avoir relu rapidement sa déclaration de revenu avec le comptable au moment de la signer en avril 2000. Elle lui faisait entièrement confiance, puisqu’il était au courant de son dossier. De fait, il avait assisté à toutes les négociations lors du règlement du litige en 1999 et avait lui-même élaboré les calculs établissant le revenu net qui reviendrait à l’appelante après impôt. L’avocat de l’appelante soutient qu’il était difficile pour l’appelante de s’apercevoir que le gain en capital sur les actions privilégiées n’avait pas été déclaré. En effet, le gain en capital imposable apparaissant à la page 2 de sa déclaration de revenu (Pièce I-1, onglet 1, page 2) s’élevait à 528 000 $. Or, selon le calcul fait par le comptable fiscaliste au moment de la transaction en 1999, il arrivait à un gain en capital assujetti à l’impôt de 515 900 $ (Pièce I-1, onglet 9, page 3). Il conclut donc que l’appelante ne peut être considérée négligente de ne pas avoir vu que le gain en capital de 133 400 $ sur la disposition des actions privilégiées n’avait pas été déclaré.
+[9] Je remarque toutefois, que selon cette feuille de calcul, le gain en capital total était de 1 015 900 $ et qu’en réduisant celui-ci de l’exonération du gain en capital (500 000 $), on obtenait un gain en capital imposable de 515 900 $. Si l’on revient à la déclaration de revenu, le montant du gain en capital de 528 000 $ apparaissant à la page 2, ne tient pas compte de l’exonération du gain en capital. Cette exonération est tenue en compte plus loin dans le calcul du revenu imposable au même endroit que la déduction pour les pertes en capital (à la page 25 de la déclaration de revenu, Pièce I-1, onglet 1). Les déductions totales à ce titre sont de l’ordre de 383 100 $. Il y a donc un écart d’environ 500 000 $ entre le gain en capital total approximatif apparaissant sur la feuille de calcul du comptable fiscaliste et ce qu’il a indiqué sur la déclaration de revenu de l’appelante.
+[10] À mon avis, cet écart aurait dû alerter l’appelante. Il n’était pas si compliqué pour elle de s’apercevoir à la lecture de sa déclaration de revenu que son comptable avait inscrit un gain de 0 $ sur la vente de ses 1 335 actions privilégiées à la page 5 de la déclaration de revenu. Elle signait à chaque année les états financiers de Québec Inc, à titre d’administratrice unique, sur lesquels on inscrivait une note aux états financiers au sujet du transfert par roulement des actions au coût de 27 000 $ sous la rubrique « passif éventuel » (Pièce I-1, onglet 8). Son comptable en avait également tenu compte lors des calculs qu’il a effectués lors de la transaction de 1999. (Pièce I-1, onglet 9, pages 1 et 3).
+[11] L’avocat de l’appelante s’est référé à la décision de Bondfield Construction Co, [2005] A.C.I. no 239 (QL), dans laquelle la juge Campbell de cette Cour définit l’expression « diligence raisonnable » pour établir la norme de diligence requise d’un contribuable aux termes du sous-alinéa 152(4)a)(i) de la LIR. Elle s’exprime ainsi au paragraphe 95 :
+[95] L’expression « diligence raisonnable » a encore une fois été définie comme suit par le juge Bowman dans la décision Wong (E) v. Canada, [1996] G.S.T.C. 73-1 (C.C.I.), à la page 73-5 :
+[…] La diligence raisonnable n’est rien de plus que le soin qu’une personne raisonnable prendrait pour assurer le respect de la Loi. Elle ne requiert ni la perfection, ni l’infaillibilité. Elle requiert toutefois plus qu’une demande de renseignements fortuite auprès d’un fonctionnaire du ministère du Revenu. […]
+[12] Dans cette dernière affaire, la juge Campbell a jugé que :
+[104] […] Le ministre n’aurait donc pas pu satisfaire au second volet ou critère et ce, même si j’avais conclu à l’existence d’une présentation erronée des faits. L’appelante a mis en œuvre de nombreux systèmes afin d’assurer la conformité à cette nouvelle législation. Elle a retenu à plein temps les services d’un vérificateur interne qui était comptable agréé, elle avait à son service le personnel comptable que l’on trouve normalement dans une entreprise de cette taille et elle a eu recours à un cabinet comptable externe réputé. Un système comptable et un système logiciel de premier ordre étaient utilisés et le niveau le plus élevé de vérification était employé. […]
+[13] De son côté, le procureur de l’intimée s’appuie sur l’affaire Nesbitt c. Canada, [1996] A.C.F. no 19 (QL), confirmé [1996] A.C.F. no 1470 (QL), dans laquelle le juge Heald de la Cour fédérale du Canada, division de première instance, dit ceci aux paragraphes 25 et 26 :
+[25] À mon avis, les actes du demandeur n’établissent pas qu’il a apporté le soin voulu à la préparation de sa déclaration. Le demandeur, à l’instar de tous les autres contribuables régis par le Loi de l’impôt sur le revenu, doit signer sa déclaration de revenus après avoir attesté "[…] que les renseignements donnés dans cette déclaration et dans tous documents ci-joints sont vrais, exacts et complets sous tous les rapports et révèlent la totalité de mes revenus de toutes provenances". Ce n’est pas une réponse pour un contribuable de rejeter la responsabilité d’un mauvais calcul ou d’une erreur sur le spécialiste qui a préparé sa déclaration de revenus. À mon avis, le présent dossier établit que le demandeur a fait preuve de négligence relativement à la préparation et à la production de sa déclaration de revenu pour 1981.
+[26] L’erreur qui a été commise dans le calcul des gains en capital du demandeur était de l’ordre de 300 000 $ environ. Une erreur de cette ampleur aurait dû sauter aux yeux du demandeur s’il avait été diligent en examinant sa déclaration. Une situation semblable s’est présentée dans l’affaire Venne, précitée. Le juge Strayer a déclaré, à la page 6252 : [L]es erreurs faites dans les déclarations de revenus auraient dû être assez évidentes pour qu’une personne raisonnable, même avec une instruction et une expérience limitées, surtout si elle était apparemment très habile en affaires et en placement, les aient remarquées. […] Je pense qu’il ressort de l’ordre de grandeur de ces montants non déclarés comme revenu, même (avec l’exception de 1974) comme le contribuable l’a estimé, que tout contribuable raisonnable aurait soupçonné que quelque chose n’allait pas dans les déclarations de revenus qu’il signait à cette époque.
+[14] À mon avis, l’intimée a démontré que l’appelante a été négligente en ne posant pas plus de questions à son comptable relativement à la transaction de 1999 au moment de signer sa déclaration de revenu en avril 2000. Si elle avait regardé sa déclaration attentivement, elle aurait remarqué un écart important entre le gain en capital déclaré à la page 2 de sa déclaration et celui calculé par le comptable avant l’exonération de 500 000 $. Elle aurait pu voir qu’aucun gain en capital n’était déclaré sur ses actions privilégiées à la page 5 de sa déclaration de revenu. Elle aurait pu facilement faire le lien avec les calculs qu’elle avait eu de son comptable, et qui montraient un gain en capital de 106 000 $ sur ces actions privilégiées, lors de la transaction de 1999 (Pièce I-1, onglet 9, page 3).
+[15] L’appelante était une femme d’affaires aguerrie qui a su tirer son épingle du jeu lors du règlement du litige qui l’opposait à son ancien associé. Bien que l’on ne requiert pas la perfection d’un contribuable lorsqu’il produit sa déclaration de revenu, il suffit au ministre de démontrer que l’appelante n’a pas fait preuve de diligence raisonnable pour invoquer son pouvoir en vertu du sous-alinéa 152(4)a)(i) (Venne c. Canada, [1984] A.C.F. no 314 (QL)).
+[16] Ici, j’estime que l’appelante n’a pas fait preuve de diligence raisonnable. Elle avait en main les calculs de son comptable faits l’année précédente, et ceux-ci ne correspondaient pas à ce qui a été déclaré dans sa déclaration de revenu. Il aurait suffi pour elle de soulever la question, et son comptable aurait normalement vérifié à nouveau les revenus déclarés.
+[17] Pour ces raisons, je suis d’avis de rejeter l’appel avec dépens.
+Signé à Montréal, Québec, ce 4e jour de juin 2009.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2009 CCI 302
+Nº DU DOSSIER DE LA COUR : 2006-1776(IT)G
+INTITULÉ DE LA CAUSE : CLAUDETTE SAINDON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 27 mai 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 4 juin 2009
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Rodrigue E. Lévesque
+Avocat de l'intimée :
+Me Claude Lamoureux
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Rodrigue E. Lévesque
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

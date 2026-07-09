@@ -1,0 +1,201 @@
+Title: Ellis Vision Incorporated v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25613/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-912-25613-ellis-vision-incorporated-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-12-09
+
+# Ellis Vision Incorporated v. The Queen
+
+- Citation: 2003 TCC 912
+- Decision date: 2003-12-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2421, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ellis Vision Incorporated v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-09
+Neutral citation
+2003 TCC 912
+File numbers
+2000-4873(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-4873(IT)G
+BETWEEN:
+ELLIS VISION INCORPORATED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on July 21, 2003 at Toronto, Ontario.
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellant:
+John C. Yuan and Darryl Cruz
+Counsel for the Respondent:
+Franco Calabrese
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1996 and 1997 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment consistent with the reasons for judgment.
+Signed at Ottawa, Canada, this 9th day of December, 2003.
+"Gerald J. Rip"
+Rip, J.
+Citation: 2003TCC912
+Date: 20031209
+Docket: 2000-4873(IT)G
+BETWEEN:
+ELLIS VISION INCORPORATED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, J.
+[1] Ellis Vision Incorporated has appealed income tax assessments for 1996 and 1997 in which the Minister of National Revenue, among other things, denied the appellant's deductions of a reserve pursuant to paragraph 20(1)(m) of the Income Tax Act ("Act"). The Minister also assessed the appellant's 1997 taxation year reducing the appellant's income to the extent it added to its income for 1997 the amount of the paragraph 20(1)(m) reserve it claimed in its 1996 income tax return. The Attorney General states that in response to representations made on behalf of the appellant, the Minister reassessed the appellant for 1996 and 1997 on the basis that the revenue for income tax purposes be recognized on the "billed basis" of accounting and therefore allowed the appellant to deduct from income amounts not billed as unbilled accounts receivable included in income.
+[2] The appellant carries on the business of producing and licensing documentary programs, primarily wildlife and nature programs, and series, for broadcast television. The appellant earns income from the licensing of the programs and series to broadcasters throughout the world pursuant to licence agreements. The appellant licenses programs that have yet to be produced ("pre-licence" or "pre-production" agreements) as well as programs that have been produced and may have been shown previously on television ("post-production" agreements). Once a licence for a "pre-production" program with an initial broadcaster of that program expires the program becomes part of the appellant's library and the appellant derives further revenue from licensing the programs to broadcasters.
+[3] The productions include stand-alone programs as well as several programs as part of a series. The appellant licenses the programs and series to "on air" or standard television broadcasters as well as to cable broadcasters. The appellant can also distribute programs by licensing the programs for home video sales. In these reasons programs and series are referred to as such or as a "production".
+[4] In carrying on its business, Ellis Vision develops the concept for a program or series and then approaches prospective broadcasting clients for commitments, to acquire a licence to broadcast the productions, once completed. Ellis Vision determines whether to produce the program based on what broadcasters are willing to pay for licences and the number of broadcasters willing to commit. If there is no significant level of commitments, based on the appellant's "own sort of corporate discipline", there is no production, according to Stephen Ellis, president of the appellant.
+[5] If significant commitments are forthcoming, the appellant proceeds to hire the services of cinematographers, writers, designers, music composers, editors and other talented individuals to "put together an original work", in the words of Mr. Ellis.
+[6] The licence fees the appellant receives are from both pre-licence and post-production agreements. In a licensing agreement with Ellis Vision the broadcaster agrees to various terms, such as a time limit on the use of the program, the number of broadcasts which it is entitled to show and the licence fee, among others. In return, the broadcaster obtains the exclusive right to show the program for the term of the licence in that broadcaster's marketplace, in terms of geography and in terms of the type of broadcasting, for example, "on air" or cable television. Typically, Mr. Ellis declared, broadcasters pay more in licence fees for a program yet to be completed than for programs already completed. Ellis Vision attempts to generate as many licences as possible throughout the world.
+[7] Both Mr. Ellis and Ms. Trina McQueen, former president of Discovery Channel in Canada and former chief operating officer of CTV Network, stressed the importance of exclusivity of a production to a broadcaster during the life of a licence. Ms. McQueen stated it is important to the licensed broadcaster that Ellis Vision ensure that nobody other than the licensee can broadcast the production in the licensee's area during the term of the licence. Ms. McQueen described exclusivity as the "key to success" for broadcaster; a broadcaster wants to promote the brand that excites and relates to the viewer. A broadcaster is also influenced by the price and term of the licence in deciding whether to commit to a production.
+[8] The more exclusivity the broadcaster has in the licence, Ms. McQueen asserted, the more it is important to the broadcaster that the licensor have insurance for the production. In particular, as far as Ellis Vision is concerned, the treatment and portrayal of animals requires that the appellant be insured to defend the production, I assume, against any maltreatment of the animals.
+[9] In Ms. McQueen's view, the broadcaster rents - does not buy - programs and during the term of the licence the licensor is expected to provide the broadcaster with materials to promote the attraction. She testified that Ellis Vision owns "every piece of film they shot" and that is a very valuable asset. "Animal programs don't date" as much as the other programs and retain their value.
+[10] The appellant and broadcasters negotiate pre-production licences as though the program were a finished program, Mr. Ellis explained. However, a pre-production agreement would include additional terms to provide the broadcaster with some comfort that the program will meet its standards and that the broadcaster will accept the program when delivered.
+[11] Mr. Ellis estimated that the appellant earns more than 50 percent of licensing fees from pre-production agreements but licenses more program hours for post-production or completed programs.
+[12] Before 1996, according to Mr. Ellis, the appellant reported income for accounting purposes by "simply" accumulating costs on each production and income was recognized in the year when revenues exceeded the costs. The pre-1996 accounting policy is described in Note 1 to the financial statements for 1995 of the appellant:
+All production costs, royalties advanced to cinematographers and revenues (net of any foreign withholding taxes) related to the production of a film or series are deferred until all production efforts have been completed and revenues exceed costs at which time deferred revenue is credited to the income statement as revenue; deferred costs are charged to the income statement as production costs, royalties and distribution costs, as appropriate; and, foreign tax credits are applied against the tax provision. Revenue in excess of production costs is resale revenue.
+[13] For tax purposes the appellant claimed a reserve pursuant to paragraph 20(1)(m) of the Act. In reporting its income for 1996, for example, the appellant added to its income the amount of the reserve it claimed in 1995.
+[14] Arlene Cohen, chartered accountant, was a tax manager of McLean Hunter from 1977 to 1995. MacLean Hunter was the parent company of CFCN Communications Limited who owned 50% of the shares of the appellant, then known as Keg Productions Limited. Ellis Entertainment Corporation, controlled by Mr. Ellis' father, also held 50% of the shares of the appellant. She prepared tax returns for the appellant until its fiscal year end of December 31, 1993. In preparing the tax returns, Ms. Cohen reviewed the internal contracts and licence agreements to ascertain an appropriate basis for determining income for tax purposes. She reviewed the term of each contract and the exclusivity feature of each contract and amortized the contract revenue value over the licence period. She prepared a schedule that reflected the appropriate income that would be period-averaged over the life of each contract and determined the income earned in the year and to be earned in the future. The appellant claimed a paragraph 20(1)(m) reserve with respect to the income Ms. Cohen believed would be earned in future years.
+[15] In the Ellis Vision's 1996 financial statements, the appellant's auditor, KPMG, reported that the appellant:
+altered its accounting policy in respect of revenue recognition and production cost amortization to concur with the guidance offered by Financial Accounting Standards. No. 53, Financial Reporting by Producers and Distributors of motion picture films.
+[16] The Financial Accounting Standards No. 53 ["FASB Statement No. 53"] apparently were accounting standards proposed for use in the United States. Mr. Ellis testified the appellant "adopted it for our purposes", but acknowledged that "there is no standard per se in Canada for accounting in our particular sector of business". Counsel stated that the U.S. accounting standards are not relevant for purposes of these appeals, although appellant's counsel stated that it does give one an insight into how the appellant calculated income for accounting purposes. I was advised later at trial that FASB Statement No. 53 was subsequently rescinded.[1]
+[17] The appellant's revenues from the licence fees in 1996 and 1997 included the amounts of $4,659,350 and $11,560,443, respectively. The amounts were calculated in accordance with FASB Statement No. 53. In filing its tax return for 1996, the appellant added back to income the amount of $1,700,000 it claimed as a paragraph 20(1)(m) reserve in 1995 and claimed a reserve for 1996 in the amount of $1,975,060. However, in preparing its 1997 tax return, the appellant appears not to have added to income any amount of the $1,975,060 it deducted in 1996 but claimed a paragraph 20(1)(m) reserve of $3,975,060, representing the $1,975,060 from 1996 and $2,000,000 of additional amounts claimed as a reserve for 1997.
+[18] The reserves for 1996 and 1997, Mr. Ellis testified, represented income reported for the year in accordance with FASB Statement No. 53 but which had not been earned in the particular year.[2] A paragraph 20(1)(m) reserve was claimed for tax purposes so that revenues that "relate to the future years would be removed from the calculation" of income since "we wanted to ultimately be taxed on the revenue that we'd earned during the period in which we were reporting". These reserves were disallowed by the Minister.
+[19] Counsel for the appellant queried Mr. Ellis as to the terms of a "pre-production" of a "pre-licence" agreement, referring to a specific, but standard, agreement in 1995 between the appellant and the Discovery Channel, an American cable network ("Discovery Agreement"). Agreements with other broadcasters contain similar obligations and on discovery of the respondent, his representative, Mr. Cray Ellis, acknowledged that the agreements are substantially similar.
+[20] Before the appellant entered into a licence agreement, such as that with Discovery, principals of the appellant determined broadcasters' interest in the particular production and the number of titles in a series broadcasters would be prepared to acquire. Usually the appellant had on-going business relations with potential licensees. Discovery, for example, had licensed Ellis Vision productions in the past.
+[21] Under the Discovery Agreement, the appellant licensed to Discovery four programs (not in existence at the time) to be included in a series entitled "Profiles of Natures" for the period April 1, 1996 to March 31, 1999. The programs were original works to be created by Ellis Vision. Discovery had the option to extend the period for an additional one or two years, at its discretion. Mr. Ellis said licences can range for up to seven years. Where there is a shorter period, there is usually an option period. Delivery dates in the Discovery Agreement were January 20, 1996 for program rough-cuts[3] and February 14, 1996 for all remaining program materials. Because this was a "pre-production" agreement, Mr. Ellis explained, the customer, Discovery, expected to be able to look at the programs at a state before the production was completed.
+[22] The four programs were ultimately produced and shown on television.
+[23] In the agreement with Discovery, the appellant agreed that during the period of the licence (including the option period) none of the programs, nor any elements or versions, shall be shown on any form of television within Discovery's territory, unless authorized by Discovery. Mr. Ellis explained that exclusivity is "important in order to ensure that the channel's brand is clear in the minds of the public that will be tuning them as to what they may be expected to see on that channel" and not elsewhere.
+[24] Discovery agreed to pay a sum of money as a licence fee payable in eight equal payments, the first payment within twenty days after the execution of the agreement by the parties, the second payment within twenty days after "delivery to and consultation with" Discovery with respect the program rough-cuts, the third payment within thirty days after delivery to and acceptance by Discovery of all the program materials, and the next five payments on July 20, 1996, October 20, 1996, January 20, 1997, April 20, 1997 and September 20, 1997. Further quarterly payments were to be made by Discovery on the exercise of the option.
+[25] The Discovery Agreement also gave Discovery the right to creative and editorial consultation through all the phases of pre-production, production, post-production and editorial completion of the programs. This is the right for Discovery to look at programs before completion, which Mr. Ellis referred to earlier. The appellant agreed to exercise its best efforts to satisfy Discovery. Upon expiration or termination of the Agreement, Discovery was to erase and destroy all copies of the programs in its possession.
+[26] Exhibit A to the Discovery Agreement describes Discovery's territory and sets out the warranties by the appellant. The appellant is obligated to protect the copyright of each program in Discovery's territory during the licence period and to secure an errors and omissions liability insurance for the final 12 months of the Agreement to the exhibition of the programs. Mr. Ellis stated that usually the licensor is obliged to carry insurance for the life of the licence. During the life of the licence, Mr. Ellis explained, Ellis Vision is "expected to support the licence agreement should [the broadcaster] have needs that come up that are beyond the requirements of the initial materials delivered" by Ellis Vision to the broadcaster. This includes material to publicize the programs, photos for advertising and also participation in press conferences and interviews. Ideally, the appellant tries to discharge its obligation to provide the material and services at the beginning of the licence period. Usually the appellant absorbs the cost of these materials. Mr. Ellis could not recall a time when a broadcaster was asked to pay for the added services.
+[27] Also, during the term of the licence, Ellis Vision is to protect all copyrights pertaining to each program delivered to the licensee from infringement and is to take action to prevent any unauthorized use of the program. This, Ms. McQueen insisted, is very important to a licensee. The appellant also has to purchase an error and omissions liability insurance policy applicable to the exhibition of the production; in the Discovery agreement, the policy was for the first 12 months of the term.
+[28] In the appellant's view it does not sell broadcast rights, as claimed by the Minister. The broadcast rights to the various programs remain the appellant's property. The broadcaster makes use only of intellectual property during the period of the licence and at the end of the licence period, the intellectual property reverts to the appellant, according to the appellant. I agree.
+[29] During cross-examination Mr. Ellis confirmed that the appellant had no restriction on how it may use the fees received under a licence agreement. He noted, however, that the appellant is expected to deliver on the terms of the licence agreements throughout the term and that there may be situations when a licensee asks the appellant to take action, for example, to protect copyright, and in such a case the appellant has to spend money. The appellant has some financial risk concerning the timely delivery of a program; in such a case the appellant may have to reimburse any fees already paid. Historically, this has not been an issue for the appellant.
+[30] The issue before me is to decide whether the appellant is entitled to claim a reserve under subparagraph 20(1)(m) for its 1996 and 1997 taxation years in respect of licence fees received for the use of a production for a future period.
+[31] These appeals turn on the application of subsection 9(1) and paragraphs 12(1)(a) and 20(1)(m) of the Act. Subsection 9(1) states that:
+Subject to this Part, a taxpayer's income for a taxation year from a business or property is the taxpayer's profit from that business or property for the year.
+Sous réserve des autres dispositions de la présente partie, le revenu qu'un contribuable tire d'une entreprise ou d'un bien pour une année d'imposition est le bénéfice qu'il en tire pour cette année.
+[32] The following amounts are to be included in computing a taxpayer's income for a taxation year from a business or property by virtue of subparagraph 12(1)(a)(i):
+any amount received by the taxpayer in the year in the course of a business that is on account of services not rendered or goods not delivered before the end of the year or that, for any other reason, may be regarded as not having been earned in the year or a previous year, or ...
+les sommes reçues au cours de l'année par le contribuable dans le cours des activités d'une entreprise soit qui sont au titre de services non rendus ou de marchandises non livrées avant la fin de l'année ou qui, pour toute autre raison, peuvent être considérées comme n'ayant pas été gagnées durant cette année ou une année antérieure, ...
+[33] Subparagraphs 20(1)(m)(ii) and (iii) provide that notwithstanding paragraphs 18(1)(a), (b) and (h), in computing its income for a taxation year from a business or a property, a taxpayer may deduct the following amounts:
+... subject to subsection (6), where amounts described in paragraph 12(1)(a) have been included in computing the taxpayer's income from a business for the year or a previous year, a reasonable amount as a reserve in respect of ...
+(ii) services that it is reasonably anticipated will have to be rendered after the end of the year,
+(iii) periods for which rent or other amounts for the possession or use of land or chattels have been paid in advance, or
+... sous réserve du paragraphe (6), lorsque des sommes visées à l'alinéa 12(1)a) ont été incluses dans le calcul du revenu tiré par un contribuable d'une entreprise, pour l'année ou une année antérieure, une somme raisonnable à titre de provision dans le cas : ...
+(ii) de services qui, selon ce qu'il est raisonnable de prévoir, devront être rendus après la fin de l'année,
+(iii) de périodes pour lesquelles le loyer ou d'autres sommes relatives à la possession ou à l'usage d'un fonds de terre ou de biens meubles, ont été payées à l'avance,
+[34] These provisions must be analyzed on the basis that, as in Vauban Productions v. The Queen,[4] the transfer of an exclusive right for a limited period of time to show certain films on a broadcaster's television station is not a sale of the right, as suggested at one time by the respondent, but can be described as a lease or the transfer to the licensee of the right to use the production.
+[35] According to the respondent, the revenues the appellant billed or received in its 1996 and 1997 taxation years from the licences acquired the "quality of income" to the appellant in those years and, therefore, these amounts are to be included in calculating the appellant's profits in these years pursuant to subsection 9(1); the appellant's income for the year from its business was its profits from the business for the year. Revenue less expenditures result in profit.[5] And profits must be taken into account or assessed in the year that the amount is ascertained.[6]
+[36] Amounts become taxable as income in the taxation year that the amounts received exhibit the nature and quality of income. An amount has the "quality of income" when a taxpayer's right to it is absolute and under no restrictions, contractual or otherwise, as to its disposition, use or enjoyment.[7] An amount may have the "quality of income", respondent's counsel argued, even though the amount is not actually received by the taxpayer, but only "realized" in accordance with the accrual method of accounting. If the amount is free of conditions or restrictions upon its use, it is taxable in the year that it is received or realized, subject to any contrary provision in the Act or other rule of law.[8]
+[37] Respondent's counsel also argued that the appellant "is not being asked to include in its income any amount that it is not also being permitted to claim as deductions in respect of ... capital cost allowance". Capital cost allowance had been claimed on the older post-production programs and was entitled to capital cost allowance (at the rate of 100%) on the newer pre-licensing programs it was working on in 1996 and 1997. The respondent's calculation requires the appellant to take into income amounts attributable to the production but at the same time the appellant is entitled to deduct the capital cost associated with the newer productions. The end result, counsel declares, is that the respondent's calculation provides an accurate picture of the appellant's income position in 1996 and 1997. Counsel relies on the comments of Iacobucci, J. in Ikea[9], who doubted whether, in the circumstances of that case, the amortization of tenant inducement payments could possibly yield a truer picture of income than its immediate deduction.
+[38] Under the various licensing agreements in the appeals at bar, Ellis Vision was entitled to receive fees or bill for fees at, or soon after, execution of the licence or delivery of the production or by dates specified in the agreements. At the happening of any such event, respondent's counsel declared, Ellis Vision did all it was required to do to be entitled to the fee that it received or for which it was permitted to bill: the fees received or billed in each of these circumstances were received or realized by the appellant free of conditions or restrictions upon their use and therefore are taxable in the year received or billed.
+[39] In any event, respondent declares, to the extent that the broadcasters had recourse against Ellis Vision under the licence agreements, such liabilities were contingent and did not affect the taxability of the fees. The fact that the appellant may be under an obligation to repay any amount received, does not change the character of the receipt from income to liability.[10]
+[40] It is the respondent's view that if the amount billed or received by the appellant in 1996 or 1997 constitutes income that is included in the calculation of the appellant's profit for each of the years under section 9 of the Act, then paragraph 12(1)(a) cannot apply. Paragraph 12(1)(a) only serves to identify additional amounts to be included in the income calculation otherwise provided for under section 9.[11]
+[41] In any event, counsel adds, the facts at bar do not fit the wording of paragraph 12(1)(a). Under the licensing agreements, once Ellis Vision was entitled to bill or receive amounts under the agreements it was no longer required to provide services or goods pursuant to the agreements.
+[42] Also, in counsel for the respondent's view, the amounts received or billed by the appellant were received in the year they were received or billed; they had the "quality of income" in that year, contrary to subparagraph 12(1)(a)(i), which applies in situations when the amounts "may be regarded as not having been earned in the year". The appellant did not receive unearned income during the years in appeal. The appellant did all it had to do under the licence agreements when it billed or received the licence fees.
+[43] Appellant's counsel argued that the licence fees received by Ellis Vision were not all earned when received; the fees are earned as the contracts progress and ultimately come to their conclusion. The amounts received should be recognized rateably over the term of the licence.
+[44] Finally, the respondent argued that the appellant does not qualify for the paragraph 20(1)(m) reserve since subparagraph (iii) refers to advanced payments of rent or other amounts for the use of chattels and the grant of right to the use of a production is not a chattel; it is an incorporeal property. Had Parliament intended to reserve in subparagraph 20(m)(iii) to be available in such circumstances, Parliament would have used the word "property" as defined in the Act, not the word "chattels".[12]
+[45] Notwithstanding that the amounts the appellant received in its 1996 and 1997 taxation years from broadcasters under the licence agreements may have been included in computing the appellant's profits for those years under subsection 9(1) of the Act, I cannot find any prohibition in the Act that precludes the appellant from taking advantage of paragraph 20(1)(m) and claiming a reserve.
+[46] All amounts that are received or receivable in a taxation year by a taxpayer in the course of a business are to be included in the taxpayer's income for that year. However paragraph 20(1)(m), among other provisions in the Act, recognizes that a taxpayer may have been prepaid an amount that is or was required to be included in computing income for the year or previous year. In such circumstances the recipient of the amount may be eligible to deduct a reasonable reserve.
+[47] I do not agree with the respondent's position that if a taxpayer's income from a business is its profits from that business pursuant to subsection 9(1), one is foreclosed from considering amounts described in subsection 12(1)(a). Amounts included in income for purposes of subsection 9(1) may be described in paragraph 12(1)(a): services not rendered or goods not delivered before the end of the year or rent or other amounts for possession or use of chattels, for example, paid in advance are amounts described in paragraph 12(1)(a). Paragraph 20(1)(m) permits a reasonable reserve when amounts that are "described" in paragraph 12(1)(a) have been included in computing the taxpayer's income from a business for the year, or previous year, and rents or other amounts have been paid in advance, or services may reasonably be anticipated to be rendered in a future year. I agree with appellant's counsel: the word "described" in paragraph 20(1)(m) means just what it says it does. The word in the French version of the Act is "visées", which, in the context of paragraph 20(1)(m), is analogous to the words "referred to", or "directed at" in English.[13]The "amounts described in paragraph 12(1)(a)" do not mean only amounts that were included in income "by virtue of" paragraph 12(1)(a); the amounts may be included in income by virtue of paragraph 12(1)(a) and the amounts may also be included in income as profit from a business in accordance with subsection 9(1).
+[48] The parties agree that section 12 includes in the income of a taxpayer amounts that would not otherwise be included in profit under subsection 9(1). Paragraph 12(1)(a) includes certain amounts of income that the taxpayer has received in the year that are subject to a future obligation or are "regarded as not having been earned in the year or previous year". In Blue Mountain Resorts Limited v. The Queen,[14] a ski hill operator sold season passes in one year for use of a ski lift in the next year. There was no obligation to return to any ski pass income to its customers. The taxpayer claimed a paragraph 20(1)(m) reserve in the year of sale on account services were not rendered before the end of the year of sale. Beaubier, J. held that using the words of paragraph 12(1)(a), the amount received by the taxpayer in the year in the course of business was on account of services not rendered before the end of the year. Accordingly, pursuant to subparagraph 20(1)(m)(ii), the taxpayer was entitled to a reserve since an amount described in paragraph 12(1)(a) had been included in computing the taxpayer's income from a business for the years in respect of services it is reasonably anticipated will have to be rendered after the end of the year. This is similar to the appeals at bar.
+[49] The appellant claims that it has obligations under the licence agreements that continue during the term of the licence. The fees it received at the beginning of the term of the licence, in its view, "may be regarded as not having been earned in the year"; this is an amount "described" in paragraph 12(1)(a).
+[50] Broadcasters pay the appellant a "rent", appellant's counsel submitted, for the use of the property over a term and the licence fees that the appellant attributed to subsequent years represented fees allocable to the use of intellectual property in the production during periods occurring within such subsequent taxation years. I agree. In Sussex Square Apartments Ltd. v. The Queen,[15] Bowman, J., as he then was, explained, at paragraph 32, that amounts received for a sublease of property are rent and where the rent for the entire period of the sublease is paid at the beginning of the term of the sublease they must be included in income under paragraph 12(1)(a).
+[51] Bowman, J. acknowledged that paragraph 12(1)(a) does not refer to rent specifically but,
+... it applies to rent and that the words following 'for any other reason' are not to be construed eiusdem generis. I draw this inference from subparagraph 20(1)(m) ...[16]
+and he concluded that
+it is clear that subparagraph 20(1)(m)(iii) is premised upon the assumption that paragraph 12(1)(a) covers rent for periods beyond the year of receipt.[17]
+[52] A production licensed by Ellis Vision is a one-of-a-kind property; it is the culmination of an intellectual process. The licensee has exclusive right to the production during the term of the licence. Ellis Vision cannot license the licenced production to other persons in the territory described in the licence during its term and is obliged to protect the licensee's exclusive use of the production in that territory during the term of the licence. Ellis Vision may never in fact have to honour its obligation under the licence. However, Ellis Vision did have future and absolute obligations under the licence to ensure exclusivity of the production to the licensee, among other things, and it is certain it would have to fulfill those obligations if called upon. These obligations were not conditional or dependant on some event.
+[53] I am also of the view that the right to the production licensed to a broadcaster is a chattel. The French version of subparagraph 20(1)(m)(iii) uses the words "de biens meubles" for "chattels" in the English version. The Civil Code of Quebec divides property, whether corporeal or incorporeal, into immoveables and moveables, that is, "les biens" (properties) are divided among "immeubles" (immoveables) and "meubles" (moveables).[18] Moveables are things which can be moved either by themselves or by an extrinsic force. Property that is not immoveable, either by nature or by destination or accession, is moveable property if not otherwise qualified by law.
+[54] Subsection 248(1) defines "property" and "biens" for purposes of the Act as any kind of property
+whether real or personal or corporeal or incorporeal ...
+meubles ou immeubles, corporels ou incorporels ...
+and, without restricting the generality of the foregoing, includes
+a) a right of any kind whatever ...
+a) les droits de quelque nature qu'ils soient ...
+What are "chattels" in common law are "biens meubles", or "moveable property" in the civil law. An incorporeal property, including a right to use a production, is a chattel for the purposes of subsection 20(1)(m).
+[55] Ellis Vision is entitled to deduct an amount as a reserve in accordance with paragraph 20(1)(m). Ellis had transferred the right to use a production in a defined area for a specific term to a licensee. To the extent the licensee pays in advance to enjoy this right, Ellis Vision is entitled to a reasonable reserve in respect of the amount it so received. The amount is described in paragraph 12(1)(a): it is either on account of a service that, in the main, is not rendered before the end of the year or is not earned in the year of receipt or a previous year in the course of Ellis Vision's business, or as an amount for the use of a chattel that was paid in advance.[19]
+[56] The appeals will be allowed, with costs, and the reassessments will be referred back to the Minister of National Revenue for reconsideration and to assess in a manner consistent with these reasons.
+Signed at Ottawa, Canada, this 9th day of December, 2003.
+"Gerald J. Rip"
+Rip, J.
+CITATION:
+2003TCC912
+COURT FILE NO.:
+2000-4873(IT)G
+STYLE OF CAUSE:
+Ellis Vision Incorporation v. Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 21, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT:
+December 9, 2003
+APPEARANCES:
+Counsel for the Appellant:
+John C. Yuan and Darryl Cruz
+Counsel for the Respondent:
+Franco Calabrese
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John C. Yuan and Darryl Cruz
+Firm:
+McCarthy, Tetrault
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] No copy of FASB Statement No. 53 was produced at trial. What was produced as Exhibit R-1 was a copy of a draft document entitled "Proposed Statement of Financial Accounting Standards: Rescission of FASB Statement No. 53. This draft was issued by the Financial Accounting Standards Board of the Financial Accounting Foundation for public comment and is dated October 16, 1998. Mr. Ellis understood that FASB Statement No. 53 required the appellant to treat the entire license fee under a licensing agreement as income in the year, provided all of the following conditions were met:
+(a) an executed licence agreement existed;
+(b) the production had to be completed and delivered to the broadcaster;
+(c) the licence period had to have begun;
+(d) gross revenue for the production under the licence agreement had to be fixed or determined; and,
+(e) collection of the revenue had to be reasonable assured.
+These five conditions are also found in a summary of the draft document and at page 15, paragraph 6 of the draft under the title Conclusions, Revenue Recognition.
+[2] To the extent it may be relevant, the "billed basis" of accounting, adopted by the Minister in assessing, does not appear to be in accordance with FASB Statement No. 53.
+[3] A "rough-cut" of a program is typically longer than the finished length of the program. (It is at this stage, for example, when a music composer starts to create the original music that would ultimately be synchronized with the finished length.) This is offered to the customer so that it can be assured that the program meets its expectations.
+[4] 79 DTC 5186 (F.C.A.), per Pratte, J.
+[5]
+Canderel Limited v. The Queen, [1998] 2 C.T.C. 35 paragraphs 49 to 53 (S.C.C.).
+[6] Ikea Limited v. The Queen, [1998] 2 C.T.C. 61 (S.C.C.), paragraph 34, M.N.R. v. Benaby Realties Limited, [1967] C.T.C. 4l8 (S.C.C.), at p. 421.
+[7] Ikea Limited, supra, paragraphs 35 and 36, Foothills Pipe Lines (Yukon) Ltd. v. Canada, [1990] 2 C.T.C. 448 (F.C.A.) at p. 455 and Kenneth B. S. Robertson Ltd. v. M.N.R., [1944] C.T.C. 75 (Ex.Ct.), at pp. 90-91.
+[8] Ikea Limited, supra, at paragraph 37.
+[9]
+supra, p. 77.
+[10] Foothills Pipe Lines (Yukon) Ltd., supra, pages 458-59, Commonwealth Construction Limited v. The Queen, [1984] C.T.C 338 (F.C.A.) at p. 342
+[11] See, for example, Maritime Telegraph and Telephone Company v. The Queen, [1992] 1 C.T.C. 264 (F.C.A.) at pp. 176-177.
+[12] See infra
+[13] Le Grand Robert de la langue française, 10e éd. tome IX, gives the following example in defining the word "visé, visée": Les articles du Code visés dans un arrêt, un jugement ceux auxquels on se réfère.
+[14] 2002 DTC 1886 (T.C.C. - Informal), 1889-90
+[15] 99 DTC 443 (T.C.C.), aff'd 2000 DTC 6548.
+[16] supra, para. 33.
+[17] supra, para. 34.
+[18] Articles 899 to 907.
+[19]
+Notwithstanding that according to the license agreements, Ellis Vision was obligated to render services after the year it received payment for services, based on Ellis Vision's past experience, I find it doubtful that Ellis Vision could have reasonable anticipated it would have to render some of the obligations at all, for example, to defend the licensee from unauthorized use of the production during the term of the license or take action for encroachment of copyright. To the extent, the calculation of the reserve considered obligations such as these, the amount of the reserve should be reduced.

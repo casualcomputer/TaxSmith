@@ -1,0 +1,151 @@
+---
+title: "Medvedev v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30109/index.do"
+last_modified: "2010-12-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 629"
+citation2: ""
+neutral_citation: "2010 TCC 629"
+decision_date: "2010-12-06"
+language: "en"
+item_id: "30109"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7639
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:46:59.497000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e5c61ebf80a863217d06f7102804c16075e37a18f6a362d5210dc352f3c56304"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Medvedev v. The Queen
+
+- Citation: 2010 TCC 629
+- Decision date: 2010-12-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7639, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Medvedev v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-12-06
+Neutral citation
+2010 TCC 629
+File numbers
+2007-4705(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4705(IT)G
+BETWEEN:
+MIKHAÏL MEDVEDEV,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 1, 2010, at Montréal, Québec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2002 and 2003 taxation years is allowed, without costs, and the reassessments are vacated.
+The appeal from the reassessment made under the Income Tax Act for the 2001 taxation year is dismissed, without costs, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 6th day of December 2010.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2010 TCC 629
+Date: 20101206
+Docket: 2007-4705(IT)G
+BETWEEN:
+MIKHAÏL MEDVEDEV,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+Introduction
+[1] By notices of reassessment dated November 9, 2005, the Minister of National Revenue (the “Minister”) increased the income tax liability of the Appellant through the addition of undeclared income together with interest and penalties. The Minister used the deposit method to add $81,570, $87,533 and $168,403 to the Appellant’s income for the 2001, 2002 and 2003 taxation years respectively.
+[2] The issues to be determined in this appeal are as follows:
+1. Is the Appellant liable for the additional income tax determined by the Minister on unreported income in the amount of $81,570, $87,533 and $168,403 for the 2001, 2002 and 2003 taxation years?
+2. Is the Appellant liable, pursuant to subsection 163(2) of the Income Tax Act, to penalties for the relevant taxation years?
+Factual Background
+[3] The Appellant, Mikhaïl Medvedev, immigrated to Canada from Russia in 1991. In Russia he worked as a civil engineer. He could not find similar employment in Canada. He testified in Russian at trial and his testimony was translated into English by a qualified Russian translator.
+[4] The Appellant explained that he held various low-skilled jobs when he first arrived in Canada because of his limited English language speaking abilities. In the late 1990s, he returned to Russia to explore whether there were opportunities for him to start an import/export business between Russia and Canada. At that time, the Russian economy was growing quickly as a result of the government’s adoption of free-market measures.
+[5] Russians were quickly acquiring a taste for Western-produced consumer goods. As an engineer, the Appellant felt confident enough to launch a business involving the procurement of used cars and spare parts in Canada for export to Russia. According to the Appellant, competition in that field was very strong as his Russian clients could also acquire used cars and spare parts through suppliers located in the United States. The Appellant claims that his net margin on sales was limited to a range of 4% to 5% because of the competitive market conditions that the business operated in.
+[6] Initially, the Appellant operated under a business name. On the advice of a customs broker, he incorporated the business in June 2001 under the name 9105‑6085 Québec Inc. (the “Company”) in order to limit his liability for product defects and other things. He became the sole shareholder, officer and employee of the Company.
+[7] The Appellant expressed his frustration with the audit methods used by Aïcha Hkim, the Canada Revenue Agency (the “CRA”) auditor who ultimately prepared the reassessments issued against him. According to the Appellant, during or immediately after his initial interview, he had explained to Ms. Hkim that he was receiving financial help from his father-in-law, who was a successful businessman in Russia. According to the Appellant, his wife’s parents were planning on joining their daughter in Canada. His father-in-law encouraged him to acquire a home where the family could live.
+[8] In October 2001, the Appellant found a townhouse listed for sale as a result of the recent separation of the couple that owned it. Because the separation was not friendly, the selling process was delayed. A court order had to be obtained to allow the sale to go forward. The agreed purchase price was $210,000. The Appellant quickly learned that his mortgage lender required a 50% cash down payment to approve a $105,000 mortgage loan. He claims he turned to his father‑in‑law for financial help. He opened a U.S. dollar personal bank account in early October 2001 to receive wire transfers from his father-in-law. He received the Canadian dollar equivalent of $105,000 through U.S. dollar wire transfers from his father‑in‑law. When the funds were received they were immediately withdrawn and the Appellant used local currency traders to purchase Canadian dollars, which he deposited in his Canadian dollar account. He did so because, he claims, independent currency traders offered better exchange rates than banks.
+[9] The Appellant testified that the townhouse he purchased was destroyed in a fire in April 2002. The Appellant and his family were forced to relocate to an apartment that they rented for $1,500 a month. According to the Appellant, the fire disrupted the Company’s business activities because the business was carried on from his home. All of the Company’s business records were destroyed by the fire. The insurance company delayed payment of the insurance proceeds, causing the Appellant and his family further financial hardship. The Respondent did not dispute that the Company’s business records up to the date of the fire were destroyed in that fire.
+[10] According to the Appellant, his father-in-law continued to send funds to him in 2002 and 2003, which were used by him to finance the Company’s operations. The money received in those years was used to purchase used cars and spare parts that were sold to Russian clients. According to the Appellant, because the funds received by his father-in-law were used to acquire inventory sold in the course of the Company’s business, they were reported as gross revenue of the business when the goods financed with the borrowed money were sold.
+[11] The Appellant claims that the CRA auditor ignored his explanation and treated all of the funds deposited in his U.S. dollar personal account as undeclared revenue allegedly earned from sales of used cars and spare parts by him and not his Company. The Appellant claims he was asked at the objection stage to obtain documentary evidence that the wire transfers to his U.S. dollar account were made by his father‑in‑law. He produced documentary evidence translated into English that purports to show that his father-in-law sold over the years sufficient shares in a joint stock company to fund the advances received by the Appellant. Furthermore, the Appellant alleged that the Company was audited by the CRA auditor and only minor discrepancies were found, which were resolved to the satisfaction of both parties.
+[12] Ms. Hkim testified for the Respondent. She explained that the Appellant and the Company were selected by the CRA for an audit, which was conducted by the application of indirect audit techniques. Following an initial meeting between the Appellant, Ms. Hkim and her direct superior, Ms. Hkim prepared an analysis of the sources of the combined revenue and cash flow of the Appellant and his Company and an analysis of their combined disbursements for 2001, 2002 and 2003.
+[13] According to Ms. Hkim, this was done on the basis of the revenue reported by both the Company and the Appellant and the costs reported by the Company in its tax returns, plus the down payment for the townhouse and an estimate of the Appellant’s living expenses. Her documentary analysis was introduced as Exhibit I‑1. She claims that she questioned the Appellant on the preliminary cash flow analysis that she prepared. She claims that it was only following this second interview that he told her about his U.S. dollar bank account and the funds received from his father-in-law. She did not accept the Appellant’s explanations for the discrepancies that she found. She concluded that all of the funds deposited by the Appellant in his personal U.S. dollar account represented undeclared gross revenue.
+[14] On cross-examination, Ms. Hkim admitted that the gross revenue reported by the Company for 2002 and 2003 exceeded the funds deposited in the Company’s bank account by approximately the same amount that she treated as the Appellant’s undisclosed income for 2002 and 2003. She further admitted that she knew that the Appellant had tried to convince the Respondent’s counsel, in settlement discussions that took place before the trial, that all funds deposited in his personal accounts in 2002 and 2003 were reported as revenue of the Company. While Ms. Hkim admitted that it was possible that the amounts attributed to the Appellant as undeclared income were in fact reported as revenue by the Company, she was not prepared to go any further because it was still possible that the Company had other unreported sources of revenue. She did not offer any explanation as to why the Company was not reassessed if indeed such was the case.
+[15] Farah De Vito, the CRA officer from the Appeals Division who considered the Appellant’s objections to the reassessments, testified that she did not accept the documentary evidence produced by the Appellant regarding his father‑in‑law’s financial means because she had no direct confirmation from an independent financial institution that the funds received by the Appellant were transferred to him by his father‑in‑law. According to Ms. De Vito, while the Appellant may have established that his father‑in‑law had the wherewithal to loan him the funds transferred to his accounts, there is still no direct evidence to show that the wire transfers originated from him.
+Analysis
+[16] The audit method selected by the CRA to make the reassessments has a direct bearing on the evidence that must be led by the Appellant to discharge his evidentiary burden. The CRA itself recognizes this by outlining a hierarchy among the three indirect methods most commonly employed to determine discrepancies between reported and unreported income. In its audit manual dated March 2008, the CRA states that the net worth method must be considered and used first unless it is impossible to obtain the information required in order to complete the net worth statement showing the evolution of the taxpayer’s assets and liabilities and personal living expenses over the relevant period. On this subject, the manual states the following:
+13.3.1 – General Comments
+The sections that follow discuss the CRA policy with respect to the use of Indirect Verification of Income (IVI) as an assessing technique where a taxpayer/registrant’s books and records are non-existent or inadequate, or where audit findings indicate that revenue has not been accurately recorded in the books and records.
+The IVI techniques discussed are:
+13.4.0 Net Worth;
+13.5.0 Auditing Unidentified Bank Deposits;
+13.6.0 Assessments Based on Projections.
+The most frequently used IVI technique is the Net Worth Statement and is the primary IVI technique used by the CRA. Auditors are expected to use the net worth method whenever the information is available to allow proper preparation of the document.
+The team leader must be consulted and approve the appropriate IVI technique for the audit as part of the Audit Plan.
+[Emphasis added.]
+[17] At trial, I asked Ms. Hkim why she did not resort to the net worth method to determine the Appellant’s undeclared income. My question did not elicit a clear response from Ms. Hkim. The CRA audit manual takes 25 pages to describe the methodology to be applied by a CRA auditor to complete a net worth audit. Two pages are devoted to describing the techniques of a deposit audit. It is obvious that the net worth audit will produce a more reliable picture of the taxpayer’s financial situation and discrepancies between his lifestyle and spending habits and his reported income than will the other methods described in the manual. Given the lack of a response to my question, I am left to conclude that Ms. Hkim found the elaborate methodology of the net worth method daunting in light of the Appellant’s limited English speaking abilities.
+[18] The Appellant’s evidentiary burden is defined by the assumptions relied on by the Minister in making the reassessments. Ms. Hkim testified that she assumed that all the funds deposited in the Appellant’s personal bank accounts in 2001, 2002 and 2003 constituted undeclared income. She did not accept the Appellant’s explanation that he received loans from his father‑in‑law which were used in 2001, 2002 and 2003 to fund the Company’s business operations. On cross‑examination, however, she admitted that the gross revenue reported by the Company for 2002 and 2003 was equal to all the funds deposited in the Company’s and the Appellant’s bank accounts for each of those years. While the Appellant’s evidence is not perfect, I conclude that it is more likely than not that the funds were used to finance the Company’s business operations and were ultimately reported as gross revenue by the Company. In other words, the Appellant received loans from his father‑in‑law in 2002 and 2003 that were used by the Company to acquire inventory and that were reported as gross revenue when the inventory was sold by the Company. Had the CRA based its findings on a net worth audit, it may have been able to prove that the funds were used by the Appellant for other purposes.
+[19] Counsel for the Respondent suggested that I should discard the Appellant’s testimony because the evidence of Ms. Hkim and Ms. De Vito shows that his story was inconsistent. I do not believe this to be the case. In my view, the parties had great difficulty understanding each other because of the significant language barrier that made the CRA’s audit more difficult in this case. The Appellant should not be penalized for that.
+[20] I arrive at a different finding, however, with respect to the explanation given by the Appellant regarding the funds deposited in his U.S. dollar account in 2001. The Appellant claims that his father‑in‑law transferred to him funds required to pay the $105,000 down payment on the townhouse. A review of the Appellant’s bank statements for 2001 shows that the deposits made in that year were for uneven amounts received throughout the year. For example, amounts of US$7,997, US$1,990, US$2,890 and US$20,597 were deposited in the Appellant’s account on October 10, 2001, October 11, 2001, October 18, 2001 and October 26, 2001 respectively.
+[21] Why would the Appellant’s father‑in‑law make unequal deposits on numerous dates if the purpose of the wire transfers was to finance the sum of $105,000 due on the townhouse? The more likely conclusion is that these funds were also tied to the operation or financing of the Company’s business. As the Appellant failed to lead evidence to show that the funding was in fact used, and reported as gross revenue, by the Company, the reassessment for 2001 must stand.
+Conclusion
+[22] For the reasons noted above, the appeal for the 2002 and 2003 taxation years is allowed and the reassessments for both years are vacated. The appeal for the 2001 taxation year is dismissed. There is no award of costs for either party in light of this split result.
+Signed at Ottawa, Canada, this 6th day of December 2010.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2010 TCC 629
+COURT FILE NO.: 2007-4705(IT)G
+STYLE OF CAUSE: MIKHAÏL MEDVEDEV v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Québec
+DATE OF HEARING: November 1, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: December 6, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

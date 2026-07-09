@@ -1,0 +1,130 @@
+Title: Apic c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/110971/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-192-110971-apic-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-07-29
+
+# Apic c. La Reine
+
+- Citation: 2015 CCI 192
+- Decision date: 2015-07-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2619, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Apic c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-07-29
+Référence neutre
+2015 CCI 192
+Numéro de dossier
+2015-1189(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-1189(IT)APP
+ENTRE :
+PATRICK APIC,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue le 16 juillet 2015, à Toronto (Ontario)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Représentante du demandeur :
+Mme Biserka Clark
+Avocat de l’intimée :
+Me Christopher Bartlett
+ORDONNANCE
+La demande présentée en vue d’obtenir une ordonnance prorogeant le délai imparti pour interjeter appel à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2007 et 2008 est accueillie, et l’avis d’appel joint à la demande est réputé être un avis d’appel valide déposé à la date de la présente ordonnance. Chaque partie assumera ses propres frais.
+Signé à Ottawa (Ontario), ce 29e jour de juillet 2015.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 2e jour de septembre 2015.
+Johanne Matte, LL.L, D.D.N., B.A. Trad.
+Référence : 2015 CCI 192
+Date : 20150729
+Dossier : 2015-1189(IT)APP
+ENTRE :
+PATRICK APIC,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Woods
+[1] Le demandeur, Patrick Apic, sollicite une prorogation de délai pour interjeter appel à l’encontre de cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2007 et 2008.
+[2] Les conditions énoncées au paragraphe 167(5) de la Loi doivent être remplies pour qu’il puisse être fait droit à une demande de prorogation de délai. Cette disposition est libellée ainsi :
+167(5) Acceptation de la demande – Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) La demande a été présentée dans l’année suivant l’expiration du délai imparti en vertu de l’article 169 pour interjeter appel;
+b) Le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention d’interjeter appel.
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+[3] L’intimée s’oppose à la demande au motif que les conditions prévues aux sous-alinéas 167(5)b)(i) et (iii) susmentionnés n’ont pas été remplies. Il incombe au demandeur d’établir qu’il a respecté ces conditions.
+[4] J’hésite habituellement à rejeter une demande de prorogation de délai en ce qui a trait aux conditions énoncées aux sous-alinéas 167(5)b)(i) et (iii), sauf s’il est clair que celles-ci n’ont pas été respectées. Ces conditions portent sur la procédure d’appel. Les contribuables éprouvent souvent de la difficulté à s’y retrouver en ce qui a trait à la procédure d’appel, et l’inobservation d’une condition énoncée au paragraphe 167(5) entraîne une pénalité très lourde. Le législateur a adopté la Loi, et celle-ci doit être appliquée, mais il convient de faire preuve de souplesse en ce qui a trait à l’application sous‑alinéas 167(5)b)(i) et (iii) en particulier.
+[5] Mme Biserka Clark, qui s’occupe de la tenue de livres pour M. Apic, est la seule personne qui a témoigné pour lui à l’audience. Elle a également représenté le demandeur dans le cadre de l’audience. Je vais d’abord formuler quelques observations sur la fiabilité du témoignage de Mme Clark.
+[6] Dans le cadre de son témoignage, Mme Clark a expliqué que le demandeur a manifesté l’intention d’interjeter appel des nouvelles cotisations peu de temps après avoir reçu celles-ci. Mme Clark a souligné qu’elle et M. Apic n’ont examiné les documents que six mois plus tard, car ils croyaient que le délai imparti pour interjeter appel était de 18 mois. Le délai, en fait, est de 90 jours.
+[7] Mme Clark a témoigné que leur interprétation du délai découlait des renseignements qu’ils avaient obtenus en consultant le site Web de la Cour et en communiquant avec le personnel de la Cour, par téléphone, à deux ou trois reprises. Mme Clark explique que ce n’est que lorsque la réponse de l’intimée a été reçue, en juin, qu’elle et M. Apic ont réalisé que le délai était écoulé.
+[8] L’avocat de l’intimée fait valoir que le témoignage de Mme Clark n’est pas crédible à certains égards. Je suis d’accord avec lui sur ce point. Le témoignage a été très bref et, à certains moments, il n’était pas plausible.
+[9] Par exemple, Mme Clark a témoigné que jusqu’à ce que la réponse soit reçue, elle et le demandeur croyaient que celui-ci avait 18 mois pour interjeter appel. Ce témoignage ne tient pas debout. Le demandeur avait auparavant demandé une prorogation de délai et fourni une raison à cet égard. Il n’aurait pas été logique pour lui de procéder de cette façon s’il croyait pouvoir respecter le délai. Dans l’ensemble, ce témoignage n’était tout simplement pas crédible.
+[10] Le témoignage de Mme Clark n’est pas tout à fait vraisemblable, mais je crois qu’elle et le demandeur ont probablement pensé que leur façon de procéder quant au dépôt ne posait aucun problème. Je soulignerais que l’extrait du site Web de la Cour, qui a été présenté en preuve, ne fait aucunement référence aux conditions énoncées au paragraphe 167(5), et le formulaire de demande de prorogation de délai de la Cour non plus. Dans ces circonstances, il est logique que Mme Clark et le demandeur aient été surpris lorsque la réponse a été reçue et qu’ils ont pris connaissance des conditions à respecter. Le demandeur savait probablement qu’il aurait besoin d’une prorogation de délai, mais avant de recevoir la réponse, il pensait probablement aussi que cela n’allait pas prêter à controverse.
+[11] Maintenant, en ce qui a trait à la première condition en litige, le sous‑alinéa 167(5)b)(i) exige que le demandeur établisse qu’il n’a pu interjeter appel dans un délai de 90 jours, ou qu’il avait l’intention d’interjeter appel dans ce délai.
+[12] Mme Clark a témoigné qu’elle et le demandeur ont pris la décision d’interjeter appel peu de temps après l’établissement de nouvelles cotisations en réponse à un avis d’opposition. L’avocat de l’intimée a fait valoir que ce témoignage n’est pas logique, car six autres mois se sont écoulés avant qu’un avis d’appel ne soit déposé.
+[13] Lorsque je considère la preuve dans son ensemble, j’en conclus que le demandeur a eu l’intention d’interjeter appel lorsqu’il a reçu les nouvelles cotisations.
+[14] Lors du contre-interrogatoire, Mme Clark a expliqué le cheminement qui a mené à la décision d’interjeter appel, et qui a débuté à l’étape de l’opposition, lorsque la question a fait l’objet d’une discussion avec l’agent des appels. Je reconnais que la question de l’appel était envisagée par le demandeur dès le début, et que celui-ci a eu l’intention d’interjeter appel lorsqu’il a pris connaissance des montants élevés qu’il était tenu de payer figurant dans les avis de nouvelle cotisation envoyés en réponse à l’avis d’opposition.
+[15] J’estime qu’il est raisonnable que le demandeur n’ait pas déposé immédiatement un avis d’appel. La préparation et le dépôt d’un avis d’appel peuvent prendre un certain temps, surtout lorsque le contribuable ne connaît pas bien la procédure. Il n’était pas réaliste de penser qu’un avis d’appel serait nécessairement déposé immédiatement.
+[16] Il convient d’accorder le bénéfice de doute au demandeur sur cette question, et de conclure que la condition prévue au sous-alinéa 167(5)b)(i) est respectée.
+[17] En ce qui a trait à la condition prévue au sous-alinéa 167(5)b)(iii), il incombe au demandeur d’établir qu’il a déposé une demande de prorogation de délai dès que les circonstances le permettaient.
+[18] Lors d’un très bref témoignage, Mme Clark a expliqué que le demandeur, au cours de la période visée, avait dû se déplacer pour son travail et déménager son bureau. Il y a eu peu de suivi, sinon aucun, quant à ce témoignage lors du contre-interrogatoire. Dans les circonstances, je suis disposée à reconnaître que ce témoignage constitue une réponse satisfaisante à la condition énoncée au sous‑alinéa 167(5)b)(iii).
+[19] En outre j’accepte que le demandeur se soit fondé sur le site Web de la Cour pour comprendre la procédure de dépôt. Cela est raisonnable. Le demandeur a fourni un extrait du site Web sur lequel il s’est fondé. Sur ce site, le lecteur n’est pas informé des conditions particulières énoncées au paragraphe 167(5), et plus précisément de la condition selon laquelle la demande de prorogation de délai doit être présentée dès que les circonstances le permettent. L’ignorance de la loi n’est pas une excuse, mais le sous‑alinéa 167(5)b)(iii) lui-même prévoit la prise en compte des circonstances. Je conclus qu’il était raisonnable que la demande ait été déposée environ six mois après que les nouvelles cotisations eurent été établies, soit « dès que les circonstances le permettaient », comme l’exige la Loi.
+[20] Je conclus que la demande doit être accueillie. J’ai de la difficulté à accepter certaines parties du témoignage de Mme Clark, mais il existe suffisamment d’éléments de preuve fiables pour justifier que la demande soit accueillie. J’aimerais également souligner que l’intimée concède que les motifs de l’avis d’appel ne sont pas futiles. Il est juste et équitable que la demande soit accueillie.
+[21] Une ordonnance prorogeant le délai imparti sera rendue. Compte tenu de toutes les circonstances prévalant en l’espèce, je conclus que les parties doivent assumer leurs propres frais.
+Signé à Ottawa (Ontario), ce 29e jour de juillet 2015.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 2e jour de septembre 2015.
+Johanne Matte, LL.L, D.D.N., B.A. Trad.
+RÉFÉRENCE :
+2015 CCI 192
+Nº DU DOSSIER DE LA COUR :
+2015-1189(IT)APP
+INTITULÉ :
+PATRICK APIC et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 16 juillet 2015
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Judith Woods
+DATE DE L’ORDONNANCE :
+Le 29 juillet 2015
+COMPARUTIONS :
+Représentante du demandeur :
+Mme Biserka Clark
+Avocat de l’intimée :
+Me Christopher Bartlett
+AVOCATS INSCRITS AU DOSSIER :
+Pour le demandeur :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l’intimée:
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

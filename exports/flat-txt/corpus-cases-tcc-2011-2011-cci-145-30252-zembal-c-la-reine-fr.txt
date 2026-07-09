@@ -1,0 +1,125 @@
+Title: Zembal c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30252/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-145-30252-zembal-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-03-08
+
+# Zembal c. La Reine
+
+- Citation: 2011 CCI 145
+- Decision date: 2011-03-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7994, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zembal c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-03-08
+Référence neutre
+2011 CCI 145
+Numéro de dossier
+2009-3763(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3763(IT)I
+ENTRE :
+LARRY ZEMBAL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 14 janvier 2011 à London (Ontario).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Représentant de l’appelant :
+M.Wayne Chartrand
+Avocat de l’intimée :
+Me Hong Ky (Eric) Luu
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2005 et 2006 sont accueillis, et les affaires sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 8e jour de mars 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 27e jour d’avril 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 145
+Date : 20110308
+Dossier : 2009-3763(IT)I
+ENTRE :
+LARRY ZEMBAL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] La question en litige dans le présent appel porte sur la déductibilité des frais afférents à un véhicule à moteur engagés par l’appelant, Larry Zembal, pour les années d’imposition 2005 et 2006.
+[2] Pour établir la dette fiscale de l’appelant pour les années d’imposition 2005 et 2006, le ministre du Revenu national (le « ministre ») a formulé les hypothèses de fait suivantes énoncées au paragraphe 23 de la réponse à l’avis d’appel :
+[traduction]
+i) pendant toute la période en cause, l’appelant était employé par Con‑Drain Company (1983) Ltd. (« Con‑Drain ») comme conducteur de bulldozer;
+ii) aux termes de son contrat d’emploi conclu avec Con-Drain, l’appelant était tenu d’acquitter ses propres frais afférents à un véhicule à moteur et il ne recevait pas d’allocation ni de remboursement;
+iii) l’appelant se déplaçait dans la région du sud de l’Ontario dans le cadre de son emploi en 2005 et en 2006;
+iv) l’appelant était tenu de se rendre au lieu de travail qui lui avait été assigné tant qu’il était tenu de travailler à cet endroit;
+v) les frais dont la déduction a été refusée n’ont pas été supportés ou engagés ou, s’ils ont été engagés, l’appelant ne les a pas engagés en vue de tirer un revenu de son emploi auprès de Con-Drain;
+vi) les outils, le matériel et l’équipement dont avait besoin l’appelant pour accomplir les fonctions de son emploi étaient généralement disposés à l’avance au lieu de travail précis où il devait travailler;
+vii) l’appelant n’était pas habituellement tenu d’accomplir les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits;
+viii) l’appelant ne se déplaçait pas entre les lieux de travail au cours de la journée;
+ix) l’appelant a demandé la déduction de frais afférents à un véhicule à moteur de 4 099,37 $ et de 6 267,08 $ pour les années d’imposition 2005 et 2006, respectivement, qu’il avait calculés comme constituant des frais de déplacement pour se rendre de sa résidence à chaque lieu de travail et pour en revenir;
+x) si les frais dont la déduction a été refusée ont été engagés, il s’agissait de frais personnels ou de frais de subsistance de l’appelant.
+[3] Il incombait à l’appelant de réfuter les hypothèses ci‑dessus. L’appelant a contesté en particulier les alinéas vi), vii) et viii) du paragraphe 23. Malgré l’hypothèse contenue à l’alinéa 23v) selon laquelle [traduction] « les frais dont la déduction a été refusée n’ont pas été supportés ou engagés », telle n’a pas été à mon avis la position du ministre à l’audience. L’intimée n’a pas non plus contesté le fait que l’appelant était habituellement tenu d’accomplir les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits, comme cela a été supposé à l’alinéa 23vii).
+[4] La seule question en litige est de savoir si, compte tenu des faits, l’appelant peut satisfaire aux critères contenus au sous‑alinéa 8(1)h.1)(ii) de la Loi de l’impôt sur le revenu (la « Loi ») dont les parties pertinentes sont ainsi libellées :
+Frais afférents à un véhicule à moteur
+h.1) dans le cas où le contribuable, au cours de l’année, a été habituellement tenu d’accomplir les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits et a été tenu, aux termes de son contrat d’emploi, d’acquitter les frais afférents à un véhicule à moteur qu’il a engagés dans l’accomplissement des fonctions de sa charge ou de son emploi, les sommes qu’il a dépensées au cours de l’année au titre des frais afférents à un véhicule à moteur pour se déplacer dans l’exercice des fonctions de son emploi, […]
+[5] L’appelant est un conducteur de bulldozer expérimenté. En 2005 et en 2006, il travaillait à des projets de la société Con‑Drain Company (1983) Ltd. (la société « Con-Drain ») pour l’installation des égouts collecteurs et des canalisations d’eau dans des ensembles résidentiels situés au nord de Toronto. L’appelant résidait à Kleinburg, en Ontario, à 15 minutes en voiture du bureau d’affaires de son employeur, mais les parties avaient convenu que l’appelant se rende directement à un chantier suivant les instructions du contremaître de Con‑Drain. L’appelant partait de son domicile pour se rendre aux divers chantiers dans son camion.
+[6] En tant que conducteur de bulldozer, l’appelant avait pour tâches de dégager le terrain pour la construction, de construire les routes et de les garder dégagées pour les véhicules qui circulaient sur le chantier, de couvrir les réseaux d’égouts et de distribution d’eau nouvellement installés, et d’aplanir le terrain. En tant que conducteur principal ayant plusieurs années d’expérience en conduite d’équipement lourd, l’appelant était aussi appelé à aider les conducteurs débutants de Con‑Drain relativement à d’autres projets dont la société s’occupait dans la région.
+[7] L’employeur fournissait les bulldozers que l’appelant utilisait, mais ce dernier était responsable de l’entretien de ces bulldozers; il s’agissait principalement de nettoyer et de lubrifier la machine ainsi que de maintenir le niveau d’huile et des liquides des bulldozers. Pour ce faire, l’appelant avait besoin d’une pelle pour enlever la boue des bulldozers et d’autres débris accumulés sur les bulldozers lors de leur utilisation, et d’une pompe à graisse pour la lubrification quotidienne. L’appelant a la responsabilité de remplacer les outils volés. Il y avait des roulottes sur le chantier, mais elles étaient réservées aux manœuvres, qui y rangeaient de petits objets de peu de valeur ou y prenaient leur repas. L’appelant, qui était un conducteur d’équipement lourd, ne faisait pas partie de ce groupe. La cabine de son bulldozer était son « coin repas ». Pour cette raison et parce qu’il passait quelque 10 heures par jour dans un espace exigu, l’appelant préférait ne pas entreposer la pelle et la pompe à graisse dans la cabine. Une autre raison était que, souvent, l’équipement lourd laissé sur le chantier de construction était saccagé ou on y accédait de force. Le vol était un risque constant sur le chantier. Comme l’appelant ne disposait d’aucune installation d’entreposage protégée, il n’avait d’autre choix que de garder ses outils dans son camion. En outre, l’appelant avait besoin de garder les outils à portée de la main au cas où il lui serait demandé de se rendre à un autre chantier. Ainsi, même si l’appelant a reconnu que son employeur ne lui avait jamais demandé directement d’avoir ses outils à portée de main, en pratique, il s’agissait d’une exigence liée à son travail.
+Analyse
+[8] L’appelant était le seul témoin à comparaître à l’audience. J’estime que l’appelant est un témoin franc et je n’ai aucune raison de douter de son témoignage. Je suis convaincue que la situation de l’appelant tombe sous le coup du sous‑alinéa 8(1)h.1)(ii) de la Loi.
+[9] L’avocat de l’intimée a soutenu que lorsqu’il conduisait de sa résidence aux divers chantiers de travail, l’appelant était dans la même situation que tout autre employé qui se rendait de sa résidence à son lieu de travail, et que, par conséquent, l’appelant ne devrait pas déduire ses frais, voir Hogg c. R., 2002 CAF 177. L’avocat de l’intimée a demandé avec insistance que la Cour suive la décision rendue dans Colavecchia c. R., 2010 CCI 194, un autre appel interjeté sous le régime de la procédure informelle et mettant en cause un employé de Con‑Drain, dans laquelle l’appel du contribuable a été rejeté.
+[10] À mon avis, cependant, il y a lieu de faire aisément une distinction entre l’affaire Colavecchia et celle qui nous occupe. Dans Colavecchia, le juge Margeson était confronté à la difficulté liée à la crédibilité du contribuable. Une telle question ne se pose pas en l’espèce. Il y a aussi des différences de nature factuelle importantes : dans Colavecchia, le contribuable était un « aide-poseur de tuyaux » qui pouvait prendre ses repas et se changer dans la roulotte fournie, et j’en déduis qu’il était un manœuvre plutôt qu’un conducteur qualifié. À part le fait qu’on lui avait confié des « tâches précises »[1], il n’est pas clairement établi quelles étaient ses fonctions. Il n’est fait mention d’aucun outil. Le juge Margeson a signalé au paragraphe 77 de la décision Colavecchia qu’« […] il n’a nullement été établi que le contribuable faisait autre chose que se déplacer de son domicile à son lieu de travail […] », et, pendant ces déplacements, le contribuable ne « fournissait aucun service pour son employeur ».
+[11] En l’espèce, il ressort clairement de la preuve que la nature spécialisée des fonctions de l’appelant l’obligeaient expressément à être disponible, à la demande de son employeur, pour se rendre sur différents chantiers afin d’aider les autres conducteurs de bulldozer qui travaillaient pour Con‑Drain. Le fait que cette situation se soit rarement produite pendant la période de deux ans sur laquelle porte l’appel ne réduit en rien l’obligation de l’appelant de se tenir prêt à répondre à la demande de son employeur. Je suis également convaincue que l’appelant avait l’obligation tacite d’avoir avec lui sa pelle et sa pompe à graisse. En pareilles circonstances, le camion était le seul moyen raisonnable de transport et le seul lieu raisonnable d’entreposage d’un tel matériel.
+[12] À cet égard, les faits de l’espèce sont plutôt semblables à ceux de la décision Evans v. R., [1999] 1 C.T.C. 2609, dans laquelle, dans le cadre d’un appel interjeté sous le régime de la procédure informelle, les frais afférents à un véhicule à moteur engagés par une psychologue scolaire itinérante ont été accordés. Tout comme l’appelant, la psychologue scolaire était tenue de garder certains documents dont elle avait besoin pour son travail dans le coffre de la voiture qu’elle utilisait pour se déplacer entre sa résidence et les écoles de la zone qui lui avait été assignée. N’eût été les fonctions de son emploi, elle n’aurait eu aucune raison de garder ce matériel dans sa voiture. L’appelant était dans la même situation. Comme l’appelant devait fournir son propre moyen de transport pour se rendre aux autres chantiers de l’employeur pendant les jours de travail et avoir avec lui les outils nécessaires pour son travail, le déplacement de l’appelant « suppose dans les faits la prestation d’un service et […] ne consiste pas simplement [pour lui] à se rendre au lieu de travail », selon la décision O’Neil, au paragraphe 24; passage cité et approuvé par la Cour d’appel fédérale dans l’arrêt Hogg, au paragraphe 11.
+[13] Dans ces circonstances, je suis convaincue que l’appelant a droit à une déduction des frais afférents à un véhicule à moteur au titre du sous‑alinéa 8(1)h.1) ii). Toutefois, je souscris à la position subsidiaire prise par l’intimée, selon laquelle le montant total demandé doit être réduit pour tenir compte de la distance que l’appelant aurait parcourue entre sa résidence et le lieu d’affaires de son employeur. L’appelant a estimé à 15 minutes la durée du déplacement pour se rendre de sa résidence au bureau de la société Con‑Drain et à environ 45 minutes la durée des déplacements pour se rendre aux divers chantiers, en fonction de la circulation. Compte tenu de ces chiffres, j’accorde à l’appelant les deux tiers du total des montants dont la déduction est demandée pour 2005 et 2006.
+[14] Pour les motifs exposés ci-dessus, les appels interjetés à l’encontre des nouvelles cotisations établies pour les années d’imposition 2005 et 2006 sont accueillis, et les affaires sont déférées au ministre pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 8e jour de mars 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 27e jour d’avril 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 145
+No DU DOSSIER DE LA COUR : 2009-3763(IT)I
+INTITULÉ : LARRY ZEMBAL
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 14 janvier 2011
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 8 mars 2011
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Wayne Chartrand
+Avocat de l’intimée :
+Me Hong Ky (Eric) Luu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Au paragraphe 9.

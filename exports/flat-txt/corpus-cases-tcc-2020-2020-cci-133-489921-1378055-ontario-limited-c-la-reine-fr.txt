@@ -1,0 +1,145 @@
+Title: 1378055 Ontario Limited c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/489921/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-133-489921-1378055-ontario-limited-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-12-09
+
+# 1378055 Ontario Limited c. La Reine
+
+- Citation: 2020 CCI 133
+- Decision date: 2020-12-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4654, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1378055 Ontario Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-12-09
+Référence neutre
+2020 CCI 133
+Numéro de dossier
+2016-3232(GST)G
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016-3232(GST)G
+ENTRE :
+1378055 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Devant : L’honorable juge Don R. Sommerfeldt
+ORDONNANCE RELATIVE AUX DÉPENS
+Les dépens, fixés à 4 000 $, sont adjugés à l’appelante, conformément aux motifs de l’ordonnance relative aux dépens ci-joints.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2020.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Traduction certifiée conforme
+ce 31e jour de mars 2021.
+François Brunet, réviseur
+Référence : 2020 CCI 133
+Date : Le 9 décembre 2020
+Dossier : 2016-3232(GST)G
+ENTRE :
+1378055 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE RELATIVE AUX DÉPENS
+Le juge Sommerfeldt
+I. INTRODUCTION
+[1] Les présents motifs concernent l’adjudication des dépens relativement aux présents appels.
+II. FAITS ET PROCÉDURES
+[2] Le 16 juillet 2019, j’ai rendu un jugement par lequel j’ai accueilli les présents appels et renvoyé les nouvelles cotisations faisant l’objet de ces appels au ministre du Revenu national (le « ministre ») pour nouvel examen et nouvelles cotisations, au motif que la société 1378055 Ontario Limited (la « société 137 ») avait droit à une partie des crédits de taxe sur les intrants (« CTI ») qu’elle avait demandés pour certaines périodes de déclaration en 2013, 2014 et 2015. Les conclusions de fait générales sur lesquelles était fondé le jugement étaient les suivantes :
+a) 25 % des services que Deborah Foley a assurés à la société 137 se rapportaient aux activités commerciales de la société 137 et 75 % aux activités de location résidentielle de la société 137;
+b) 75 % des services que Mark Foley a assurés à la société 137 se rapportaient aux activités commerciales de la société 137, et 25 % aux activités de location résidentielle de la société 137;
+c) 75 % des services de locaux et autres services connexes du [traduction] « forfait bureau » que Lanmark Management Limited (Lanmark) a assurés à la société 137, en 2013 et 2015, se rapportaient aux activités commerciales de la société 137, et 25 % aux activités de location résidentielle de la société 137;
+d) 100 % des services de recherche de terrains à aménager que Lanmark a assurés à la société 137, en 2013 et 2015, se rapportaient aux activités commerciales de la société 137.
+Plus particulièrement, j’ai conclu que la société 137 ne pouvait pas demander de CTI relativement aux services que Cole Foley ou Lanmark lui avait assurés en 2014, puisque les factures de ces services qui ont été présentées ne faisaient pas état de tous les renseignements visés par le paragraphe 169(4) de la Loi sur la taxe d’accise et à l’article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH).
+[3] Dans les observations sur les dépens présentées à la Cour par l’avocat de la société 137 [1] , il a indiqué que le 29 avril 2018, il avait envoyé une offre de règlement écrite à l’avocate de la Couronne qui était très semblable à la conclusion tirée dans le jugement, à tout le moins en ce qui concerne les pourcentages de ventilation. Cependant, comme il était prévu dans l’offre de règlement que la société 137 puisse demander des CTI pour les services fournis par Cole Foley et Lanmark en 2014, le jugement était légèrement moins favorable à la société 137 que l’offre de règlement. L’avocat de la société 137 a soutenu que la société 137 avait essentiellement réussi à obtenir le règlement proposé et a soutenu que les dépens équivalant au double du montant du tarif devraient être accordés. L’avocat de la société 137 a informé la Cour que le montant des dépens calculés selon le tarif s’élèverait à 3 635 $.
+[4] L’avocate de la Couronne a soutenu que chaque partie devait assumer ses propres dépens (c’était mon idée première quand j’ai prononcé le jugement et les motifs du jugement), ou, subsidiairement, que les dépens devaient être accordés conformément au tarif (plutôt qu’au double du tarif).
+III. DISCUSSION
+A. Principes
+[5] Il est confirmé aux paragraphes 147(1) et (3) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») que la Cour a le pouvoir discrétionnaire de fixer le montant des dépens à adjuger. Le paragraphe 147(3.1) des Règles prévoit que, sauf directive contraire de la Cour, lorsque l’appelant fait une offre de règlement et qu’il obtient un jugement qui est au moins aussi favorable que l’offre de règlement, l’appelant a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels. Même si le jugement correspondait largement à l’offre de règlement du 29 avril 2018, il était moins favorable que l’offre de règlement, de telle sorte que le paragraphe 147(3.1) ne joue pas en l’espèce. Par conséquent, il est nécessaire d’examiner les différents critères énumérés au paragraphe 147(3) des Règles.
+[6] Aux termes du paragraphe 147(3) des Règles, en exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou sa négligence ou son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+i.1) [ne s’applique pas, puisqu’aucun témoin expert n’a été appelé à témoigner];
+j) de toute autre question pouvant influer sur la détermination des dépens.
+B. Application du paragraphe 147(3)
+[7] Les critères énoncés au paragraphe 147(3) des Règles sont examinés ci-dessous.
+1) Résultat de l’instance
+[8] Les détails de la décision ou de l’issue de la présente affaire sont exposés plus haut. Comme il est indiqué au paragraphe 80 des motifs du jugement, les deux parties ont eu en partie gain de cause. Une partie des CTI demandés ont été accordés. D’autres CTI n’ont pas été autorisés.
+2) Sommes en cause
+[9] Le total des CTI demandés s’élevait à 65 137,07 $. Les CTI accordés s’élevaient à 37 830 $, ce qui constitue environ 58 % de la somme demandée.
+3) Importance des questions en litige
+[10] Les questions en litige portaient sur les faits, et même si elles étaient importantes pour la société 137, elles n’avaient ni une importance nationale ni une importance pour les fiscalistes en général.
+4) Offres de règlement présentées par écrit
+[11] La société 137 a présenté trois offres de règlement par écrit, chacune rejetée par la Couronne. Comme je l’ai signalé ci-dessus, l’offre datée du 29 avril 2018 (qui était en fait la deuxième offre) était simplement un peu plus favorable à la société 137 que le jugement. Selon les observations relatives aux dépens présentées à la Cour par l’avocate de la Couronne, cette offre équivalait au montant des CTI, soit 41 047,50 $ [2] .
+5) Charge de travail
+[12] Les appels ont été entendus lors d’une audience d’une journée, qui a été suivie d’observations écrites et d’une conférence de gestion de l’instance après l’audience. À mon avis, la charge de travail concernant ces appels ne sortait pas de l’ordinaire.
+6) Complexité des questions en litige
+[13] Les questions en litige dans les présents appels n’étaient ni simples ni complexes. Pour régler ces questions, il a fallu procéder à une analyse des factures présentées pour appuyer les CTI demandés et décider de la ventilation appropriée des services figurant sur ces factures entre les activités commerciales de la société 137 et ses activités de location résidentielle.
+7) Conduite d’une partie ayant abrégé ou prolongé la durée de l’instance
+[14] Je n’ai connaissance d’aucune conduite d’une partie qui aurait abrégé la durée de l’instance. L’omission involontaire de l’avocat de l’appelante lorsqu’il a préparé le recueil de documents de l’appelante, qui a résulté en l’oubli des factures de l’année 2014, a quelque peu prolongé la procédure puisque des observations écrites et une conférence de gestion de l’instance après l’audience ont été nécessaires.
+8) Dénégation d’un fait par une partie ou refus de l’admettre
+[15] Ce critère n’était pas pertinent en l’espèce.
+9) Étapes inappropriées, vexatoires, inutiles ou accomplies avec trop de circonspection
+[16] Ce critère n’était pas pertinent en l’espèce.
+10) Preuve d’expert
+[17] Les parties n’ont cité aucun témoin expert.
+11) Autres questions pertinentes
+[18] Je suis troublé de ce qu’aucune des factures remises par Mark Foley, Deborah Foley, Cole Foley ou Lanmark à la société 137 en 2013, 2014 ou 2015 ne contenait une ventilation des services en cause entre les activités commerciales et les activités de location résidentielle de la société 137. Ce n’est qu’après avoir fait l’objet d’une nouvelle cotisation, et afin de tenter de régler les appels, que la société 137 a reconnu qu’une partie de ces services se rapportait aux activités de location résidentielle et n’étaient donc pas admissibles à des CTI.
+C. Révision
+[19] Après avoir examiné les observations présentées par les deux parties, et après avoir réfléchi à nouveau sur mon idée première, j’ai changé d’avis. Je suis maintenant enclin à adjuger des dépens. Comme la société 137 a eu en partie gain de cause, et étant donné qu’elle s’est efforcée de régler les présents appels d’une manière qui n’était pas déraisonnable (l’offre de règlement la plus favorable à la Couronne n’était que de 3 217,50 $ de plus que montant des CTI confirmé dans le jugement (soit 41 047,50 $ - 37 830,00 $)), je suis d’avis que les dépens doivent être adjugés à la société 137. Toutefois, plutôt que d’adjuger les dépens équivalant au montant du tarif (comme l’a indiqué l’avocate de la Couronne), ou équivalant au double du montant du tarif (comme l’a demandé l’avocat de la société 137), j’adjuge, au titre des dépens, 4 000 $, pour les motifs susmentionnés ci-dessus, en particulier aux paragraphes 8, 9, 11, 14 et 18.
+IV. CONCLUSION
+[20] Comme je l’ai observé au paragraphe précédent, des dépens de 4 000 $ sont adjugés à la société 137.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2020.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Traduction certifiée conforme
+ce 31e jour de mars 2021.
+François Brunet, réviseur
+RÉFÉRENCE :
+2020 CCI 133
+Nº DU DOSSIER DE LA COUR :
+2016-3232(GST)G
+INTITULÉ :
+1378055 ONTARIO LIMITED c. SA MAJESTÉ LA REINE
+MOTIFS DE L’ORDONNANCE RELATIVE AUX DÉPENS
+L’honorable juge Don R. Sommerfeldt
+DATE DE L’ORDONNANCE :
+Le 9 décembre 2020
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me James N. Aitchison
+Cabinet :
+Aitchison Law Office
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)
+[1] Observations sur les dépens présentées par l’appelante, datées du 10 septembre 2019 et déposées le 12 septembre 2019, page 1, aux paragraphes 2 et 3.
+[2] Observations sur les dépens de l’intimée, déposées le 4 octobre 2019, page 4, au paragraphe 14.d.ii.

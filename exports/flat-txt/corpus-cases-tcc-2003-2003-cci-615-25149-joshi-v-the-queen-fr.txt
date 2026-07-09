@@ -1,0 +1,84 @@
+Title: Joshi v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25149/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-615-25149-joshi-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-09-04
+
+# Joshi v. The Queen
+
+- Citation: 2003 CCI 615
+- Decision date: 2003-09-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2595, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Joshi v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-04
+Référence neutre
+2003 CCI 615
+Numéro de dossier
+2003-1605(IT)I
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2003-1605(IT)I
+ENTRE :
+HANSA JOSHI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue le 23 juin 2003 à Toronto (Ontario)
+Devant : L'honorable juge J. E. Hershfield
+Comparutions :
+Représentant de l'appelante :
+Navin Joshi
+Représentante de l'intimée :
+Rachel Furey
+(stagiaire)
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l'intimée en vue d'obtenir une ordonnance annulant l'appel de l'appelante pour l'année d'imposition 2000 et annulant l'appel de l'appelante quant aux frais de déménagement pour l'année d'imposition 2001;
+Et vu la requête de l'intimée pour prolonger le délai pour déposer une réponse à l'avis d'appel;
+La requête en annulation visant l'année 2000 est accueillie. La requête visant l'année d'imposition 2001 est rejetée, sans frais, et l'intimée a 60 jours à compter de la date des présentes pour déposer une réponse à l'avis d'appel, selon les motifs de l'ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 4e jour de septembre 2003.
+« J. E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 13e jour de juin 2005.
+Mario Lagacé, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI615
+Date: 20030904
+Dossier: 2003-1605(IT)I
+ENTRE :
+HANSA JOSHI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Hershfield
+[1] La présente ordonnance fait suite à une ordonnance intérimaire que j'ai rendue le 26 juin 2003. L'ordonnance intérimaire mentionne les motifs pour lesquels j'ai différé ma décision sur une requête de l'intimée en vue d'obtenir une ordonnance annulant l'appel de l'appelante pour l'année d'imposition 2000 et annulant en partie l'appel de l'appelante pour l'année d'imposition 2001. L'ordonnance intérimaire exigeait notamment le dépôt d'observations écrites sur plusieurs questions soulevées lors de l'audition de la requête.
+[2] Les questions soulevées par la requête ont été circonscrites.
+[3] Premièrement, quant à l'année d'imposition 2000, la seule question soulevée par le représentant de l'appelante vise le droit de l'appelante à la prestation fiscale pour enfants de la Saskatchewan. L'intimée allègue que cette cour n'a pas compétence pour instruire cet appel. L'intimée a raison. Cette cour n'a pas compétence pour instruire de tels appels. Voir les décisions Bowater Mersey Paper Co. c. La Reine, C.A.F., no A-320-86, 8 mai 1987 ([1987] 2 C.T.C. 159); Hennick c. La Reine, C.C.I., no 97-1154(IT)I, 25 juin 1998([1998] 4 C.T.C. 2855); et Gardner c. La Reine, C.C.I., no 1999-4042(IT)I, 25 septembre 2000 ([2000] 4 C.T.C. 2531) et Gardner c. Canada (Procureur général),C.A.F., no A-663-00, 31 décembre 2001 ([2002] 1 C.T.C. 302) (demande de pourvoi refusée, 2002 CarswellNat 2541 (C.S.C.)). À titre de question accessoire, l'appelante demande à cette cour de déterminer si elle a compétence pour décider si l'appelante était résidente de la Saskatchewan en 2000. Je suis convaincu qu'il ne s'agit pas d'une question sur laquelle cette cour a compétence. Aux fins de l'Income Tax Act de la Saskatchewan, la notion de résidence, aux fins de l'application de cette loi, est une question qui doit être décidée par la Cour du Banc de la Reine de la Saskatchewan. Ceci est clairement prévu à l'alinéa 98(2)(a) et au paragraphe 99(1) de l'Income Tax Act de la Saskatchewan qui exigent que les appels en matière de résidence soient déposés à la cour ( « the court » ), laquelle est définie comme étant la Cour du Banc de la Reine à l'alinéa 2(i) de l'Income Tax Act de la Saskatchewan.
+[4] En conséquence, la requête en annulation de l'avis d'appel pour l'année 2000 est accueillie.
+[5] Deuxièmement, une question est soulevée quant à savoir si la Cour a compétence pour instruire la portion de l'appel de l'appelante pour l'année d'imposition 2001 qui vise la déduction de ses frais de déménagement pour ladite année, étant donné qu'une cotisation portant qu'aucun impôt n'était payable a été établie pour 2001. L'intimée consent à ce que l'appelante soit autorisée à poursuivre son appel quant à l'année d'imposition 2001 en ce qui concerne la prestation fiscale canadienne pour enfants et le crédit pour la taxe sur les biens et services de ladite année. Par contre, l'intimée n'admet pas que l'appelante puisse déduire certains frais de déménagement reportés en 2001, une année pour laquelle une cotisation a été établie et prescrivant qu'aucun impôt n'était payable, bien que l'appelante ait plaidé que la cotisation prescrivant qu'aucun impôt n'était payable a été établie ainsi parce que l'intimée a inclus dans sa cotisation certains autres crédits d'impôt, particulièrement certains crédits pour études. Le représentant de l'appelante plaide que, si ces autres crédits n'avaient pas été inclus dans la cotisation, l'intention de l'appelante ayant été de ne pas les déduire en 2001, la cotisation ne serait pas une cotisation portant qu'aucun impôt n'était payable, ce qui permet donc à l'appelante de former un appel pour les frais de déménagement. Le représentant de l'appelante plaide également que les frais de déménagement en litige ne sont déductibles que dans l'année où ils ont été engagés et dans l'année suivante (voir l'alinéa 62(1)b) de la Loi de l'impôt sur le revenu (la « Loi » ), tandis que les crédits pour études en litige, soit le crédit d'impôt pour frais de scolarité prévu aux articles 118.5 et 118.61 de la Loi et le crédit d'impôt pour études prévu aux articles 118.6 et 118.61 de la Loi, ne comportent pas les mêmes restrictions. Ainsi, l'application de ces crédits pour arriver à une cotisation portant qu'aucun impôt n'était payable équivaut à refuser la déduction des frais de déménagement dans la dernière année pour laquelle la Loi prévoit que cette déduction est admissible.
+[6] L'intimée n'a pas soumis d'arguments convaincants sur la question soulevée par l'appelante. Elle a cité la jurisprudence qui dit qu'il n'y a pas d'appel d'une cotisation portant qu'aucun impôt n'est payable. Cette jurisprudence ne concerne pas la question du crédit d'impôt. Quand une question de crédit d'impôt est soulevée, elle soulève une question d'assujettissement à l'impôt que la Cour est habilitée à entendre. Les crédits d'impôt pour études ne réduisent l'impôt payable que s'ils sont demandés. L'appelante maintient qu'elle ne les a pas demandés. Dans la décision Martins v. M.N.R., 88 DTC 1382, cette cour a décidé que l'existence d'une cotisation portant qu'aucun impôt n'était payable n'entraîne pas l'irrecevabilité d'un appel portant sur le calcul d'un crédit d'impôt remboursable. L'intimée allègue que cette affaire ne s'applique qu'aux crédits que la Loi traite comme des paiements présumés d'impôt, ce qui limite l'application du jugement aux faits précis de cette affaire. Je ne vois rien qui puisse justifier d'ainsi limiter les conclusions de la décision Martins. Le jugement ne contient rien qui permette de faire une distinction entre les crédits qui réduisent les impôts à payer des crédits présumés avoir été payés à titre d'impôt (ce dernier cas constituant une façon de traiter les crédits remboursables). Le jugement pose le principe que les crédits peuvent faire l'objet d'un appel pour une année à l'égard de laquelle une cotisation portant qu'aucun impôt n'était payable a été établie. Je souligne également que le refus de permettre, en règle générale, les appels pour les années à l'égard desquelles une cotisation portant qu'aucun impôt n'est payable n'entraîne pas l'irrecevabilité d'un appel réel formé pour une année ultérieure. En l'espèce, la porte que l'appelante cherche à ouvrir en contestant le crédit constitue sa dernière occasion de déduire la fraction inutilisée des frais de déménagement engagés pendant son année d'imposition 2000. Quoi qu'il en soit, le fardeau de la requête interlocutoire qui est devant moi repose sur l'intimée et je ne suis pas convaincu qu'aucun des aspects de l'appel de 2001 doive être annulé. L'appel devrait donc aller de l'avant et, si des questions concernant la compétence de cette cour sont soulevées au fond, il appartiendra au juge du fond de les trancher. Il n'est pas nécessaire de statuer définitivement sur ces questions au stade interlocutoire. Par conséquent, la requête de l'intimée quant à l'année d'imposition 2001 est rejetée et un délai de 60 jours est accordé à l'intimée, à compter de la date des présentes, pour déposer une réponse à l'avis d'appel.
+Signé à Ottawa, Canada, ce 4e jour de septembre 2003.
+« J. E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 13e jour de juin 2005.
+Mario Lagacé, réviseur

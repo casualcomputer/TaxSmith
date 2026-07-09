@@ -1,0 +1,161 @@
+Title: Heydary Green Professional Corporation v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521613/index.do
+Corpus path: corpus/cases/tcc/2026/2026-tcc-69-521613-heydary-green-professional-corporation-v-the-king.md
+Document type: case_law
+Last modified: 2026-04-14
+
+# Heydary Green Professional Corporation v. The King
+
+- Citation: 2026 TCC 69
+- Decision date: 2026-04-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5526, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Heydary Green Professional Corporation v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-04-14
+Neutral citation
+2026 TCC 69
+File numbers
+2020-992(GST)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2020-992(GST)I
+BETWEEN:
+HEYDARY GREEN PROFESSIONAL CORPORATION,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on March 18 & 19, 2025, at Toronto, Ontario
+Written submissions received on April 2 and 15, 2025
+Before: The Honourable Justice Bruce Russell
+Appearances:
+Counsel for the Appellant:
+Michael Cochrane
+Counsel for the Respondent:
+Devlin Williams
+Katie Beahen
+JUDGMENT
+The appeal of the assessment raised October 23, 2018 under the Excise Tax Act of the appellant’s April 1 to June 30, 2017 reporting period is dismissed, without costs as not sought by the respondent.
+Signed this 14th day of April 2026.
+“B. Russell”
+Russell J.
+Citation: 2026 TCC 69
+Date: 20260417
+Docket: 2020-992(GST)I
+BETWEEN:
+HEYDARY GREEN PROFESSIONAL CORPORATION,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Russell J.
+I. Introduction: [1] The appellant, Heydary Green Professional Corporation (HGPC), a former law firm, filed a GST/HST return for its April 1, 2017 to June 30, 2017 reporting period per the Excise Tax Act (Act), claiming in the return per subsection 231(1) of the Act a “bad debt” formulaic adjustment (deduction) of $37,283.11 to net tax payable.
+[2] On October 23, 2018, the Minister of National Revenue (Minister) assessed the appellant’s said reporting period, disallowing the claimed deduction.
+[3] The appellant objected to the assessment, which on January 31, 2020 the Minister confirmed.
+[4] The appellant now appeals the assessment and in particular the Minister’s disallowance of the claimed deduction of net HST payable, in respect of bad debts.
+[5] In this appeal the respondent’s position is based on the Minister’s three reasons for having raised the appealed assessment which disallowed the appellant’s claimed “bad debt” deduction. The Minister’s three reasons are for so doing are:
+a)the appellant did not make sufficient collection efforts to justify styling its unpaid invoices for legal services as bad debts (per subsection 231(1));
+b)the appellant did not write off in its books of account any unpaid invoices for legal services per subsection 231(1); and
+c)the appellant did not remit all net HST reported for its two quarterly reporting periods ending September 30, 2013 and December 31, 2013 (per subsection 231(1.1)) when the alleged bad debts had first been rendered.
+[6] The appellant’s position regarding these three matters are:
+a)it did undertake collection efforts sufficient for it to conclude that its unpaid accounts billed to clients for legal services were bad debts.
+b)it could not write off these debts in its books of account as bad debts as those accounting books had been transferred to the Law Society of Ontario (LSO) under trusteeship because the lawyer who had founded the appellant law firm and several related firms, had absconded in November 2013 with trust funds of more than $3 million;
+c)the appellant has remitted amounts of net tax - $16,716.22 and $81,000 including interest and penalties - paid relatively promptly subsequent to the June 30, 2017 claim for bad debts deduction.
+[7] At the late November 2013 commencement of the LSO trusteeship the appellant had 137 outstanding receivables amounting to $539,559.94 including HST of $62,843.63. Those receivables all had been rendered in 2013.
+[8] In the appellant’s notice of objection Mr. Cochrane (counsel for the appellant and one of four lawyers of the appellant firm) states that he eventually determined that fifty of the appellant’s receivables could not be recovered. These remaining receivables amounted to $324,076.26 including HST of $37,283.11.
+[9] Mr. Cochrane determined that it would be “impractical and fruitless” to attempt to recover the remaining receivables through the courts, due to procedures which Ontario lawyers must follow to collect their accounts.
+II. Law and Analysis: [10] Subsections 231(1) and 231(1.1) of the Act provide:
+231(1) Bad debt - deduction from net tax
+If a supplier has made a taxable supply (other than a zero-rated supply) for consideration to a recipient with whom the supplier was dealing at arm’s length, it is established that all or a part of the total of the consideration and tax payable in respect of the supply has become a bad debt and the supplier at any time writes off the bad debt in the supplier’s books of account, the reporting entity for the supply may, in determining the reporting entity’s net tax for the reporting period that includes that time or for a subsequent reporting period, deduct the amount determined by the formula AxB/C where…
+231(1.1) Reporting and remittance conditions
+A reporting entity [is not entitled to deduct an amount under subsection (1) in respect of a supply unless the tax collectible in respect of the supply is included in determining the amount of net tax reported in the reporting entity’s return under this Division for the reporting period in which the tax became collectible; and all net tax remittable, if any, as reported in that return is remitted. (underlining added)
+Were debts “bad”?
+[11] In raising the appealed assessment the Minister determined that the appellant had not shown that the claimed adjustment (deduction) of $37,282.11 of HST per subsection 231(1) was in respect of actual “bad” debts per subsection 231(1). That provision, set out above, only applies where a supplier (here, the appellant) has made, for consideration, a taxable supply (here, of legal services), to an arm’s length recipient (here, a client), and shows that all or part of the law firm’s unpaid billing to the client including HST “has become a bad debt”.
+[12] The question becomes, for subsection 231(1) purposes, how does a debt (being “all or part of the consideration and tax payable” owed the supplier by the recipient) become a “bad debt”?
+[13] This question has been judicially addressed in various decisions, including L’univers Gym Fitness Inc. v. R., 2015 TCC 216, in which LaFleur J. of this Court stated:
+[60] In Davies v. R., [1998] GSTC 58 (TCC), Judge Hamlin of this Court denied an input tax credit in respect of a bad debt, particularly because the appellant did not take the appropriate steps to recover the amount of the debt:
+[13] The test of whether a debt is bad is essentially a subjective determination, that is, did the Appellant find the debt to be bad. As in all cases, the determination must not be contrived and the finding must be reasonable on the facts. Towards this end, the Appellant must show the Court whether he considered the amount to be uncollectible and unrecoverable.
+[...]
+[18] In particular, the Appellant did little to attempt to collect the debt. He made a few phone calls and wrote letters while at the same time the Appellant carried on his franchise operation and recorded his liabilities (royalties) owed to the franchisor as they were incurred on the books of his business. He made no attempt to take legal redress action nor did he seek settlement from those monies owed to him by the franchisor or against those monies owed by him to the franchisor. I find the evidence is weak, that the Appellant took no reasonable steps to determine if the debts were uncollectible and unrecoverable, and as such has not met the onus that the debts were bad. (underlining added)
+[14] I take from this that a debt becomes “bad” when, despite reasonable steps having been taken to collect, the debt remains uncollected. I find this also in Ministic Air Ltd. v. R., 2008 TCC 296, para. 12; per Bowie J. of this Court:
+[12] It is a question of fact whether a debt has been established to be uncollectible. It is not sufficient that the debt has been outstanding for a long period of time. The taxpayer must have taken reasonable measures to collect the debt, without success, and have concluded that it is unlikely that it will be paid. In the present case, there is little evidence as to the actual measures taken by the appellant to collect any specific debt. The appellant’s evidence was general as to the unwillingness of its debtors to pay their accounts, particularly those who were owed money by Garden Hill. They, perhaps understandably, were unwilling to pay their accounts to a corporation whose shares were almost all owned by Garden Hill. I do not consider the generalizations that made-up the evidence of Ms. Fraser and Mr. Brotherston on this issue to be sufficient. The debts must be considered and found to be uncollectible on an individual basis, and the evidence simply did not demonstrate that that had ever been done. Instead, Ms. Fraser simply decided that sometime after the company ceased operating that all its receivables should be written off. (underlining added)
+[15] As stated in this key Ministic paragraph, “reasonable measures to collect the debt without success [and conclusion] that it is unlikely that it will be paid” will indicate a bad debt. But as well, the “debts must be considered and found to be uncollectible on an individual basis”.
+[16] In the present matter, the relevant specific debts were not individually identified or discussed on an individual basis. The appellant’s counsel Mr. Cochrane (as stated being one of the former appellant law firm’s four member lawyers), referred to the debts of the appellant (totaling $324,076.32) as being “at least fifty” in number.[1] These were the debts claimed by the appellant as “bad”, and underlying the appellant’s sought $37,282.11 net HST adjustment (i.e., subsection 231(1) deduction).
+[17] The phrase “at least fifty” suggests that Mr. Cochrane, a principal for the appellant, was unaware of specifically how many of its debts the appellant had been caused to label as “bad”.
+[18] In addition to the debts alleged as “bad” remaining unidentified, the appellant in its written submissions, does not identify specific collection efforts for specific debts, in seeking to establish that the debts were “bad”.
+[19] Rather, the appellant in its written submissions (para. 10) describes only generally and summarily its collection efforts, as follows:
+[10] Cochrane and Green [member lawyers of the appellant] undertook collection efforts with respect to unbilled work in progress and accounts receivable of HGPC. Those efforts included, retaining a former employee… of Octagon Law Group Inc. [a related corporation] to gather information and sort through records and unpaid account information, personally making telephone calls to clients, sending letters to clients, explaining the agreement with the Law Society to clients, transferring client files, obtaining authorizations and directions, issuing claims in small claims and Superior Court, commencing assessments of client accounts in both Toronto and Milton, mediations, and forcing a client into a consumer proposal. There is probative evidence that many of the accounts receivable were already over 90 days and therefore would be likely more difficult to collect.
+[20] I note also the respondent’s written submissions (paras. 21, 22) referencing Mr. Cochrane’s cross-examination testimony that the appellant had at least fifty unrecoverable receivables, totaling $324,076. There was little if anything more specific in terms of individually identifying receivables. The appellant, per Exhibit A-8, put in evidence sample materials as to collection efforts, for the at least fifty receivables, which materials consisted only of four emails seeking payments and two statements of claim regarding the “at least fifty” accounts receivable labelled “bad”.
+[21] Thus, the appellant has not reasonably described how the accounts receivable debts were individually and significantly pursued by collection efforts, as Ministic Air requires. That leaves me unable to find that the subject at least 50 debts were individually or significantly pursued.
+[22] Consequently, I am without evidence establishing that these debts were, in whole or part, bad debts. Except for two, these debts apparently were not pursued in court - whether in superior or inferior courts. The appellant (ironically a law firm) asserts that taking the court route is too difficult because purportedly often the defendant clients will counter with an allegation that the legal services were negligently provided, which brings in law firm insurers. Also, an accounting of the particular account might be pursued by the ex-client, adding expenses.
+[23] The fact that it may be uninviting to pursue client accounts receivable in the courts is not reason to identify such accounts receivable as bad. A bad debt is established when steps to collect are taken fruitlessly; not when a law firm itself chooses not to pursue its accounts receivable in court.
+[24] Here we have no actual awareness of these at least fifty accounts receivable, nor as to what step or steps for collection were taken in each case. They do not become bad debts because the appellant is unwilling to properly pursue them with phone calls, letters and court proceedings if necessary. I note again the appellant’s paragraph 10 written submissions which gives mere samples of what was done, including four letters and two ventures to court.
+[25] I accordingly find that the appellant has not successfully identified its subject debts, unknown as to actual number other than being at least fifty, as being bad debts for subsection 231(1) purposes. As well no evidence has been provided as to what individually, on a debt-by-debt basis, was done in seeking to collect.
+Were bad debts “written off”?
+[26] The second issue is, did the appellant establish that per subsection 231(1) it had written off in its books of account its claimed “at least fifty” bad debts amounting to $324,076.26, including HST of $37,283.11?
+[27] Subsection 231(1) permits a deduction from net tax for a bad debt. The subsection requires that each such bad debt has been written off in the supplier’s books of account, as a precondition to ability to deduct the prescribed adjusted amount of the reporting entity’s net HST for the reporting period during which the write-off occurred, or for any subsequent reporting period.
+[28] I find there was no evidence that such writing off occurred.
+[29] The appellant says it could not do this as its books of account had been turned over under trusteeship to the Law Society of Ontario (LSO). However, I heard no evidence of the appellant simply approaching the LSO about this statutory requirement. I definitely doubt that the LSO would not have responded co-operatively and positively to a request from the appellant that it provide the appellant temporary - and if necessary monitored - access to its books of account, to enable the appellant to make the “write off” entries required by subsection 231(1).
+[30] Nor was there evidence of any dated “bad debt” entries made in any of the accounts receivable related documentation that the appellant itself did possess, apart from its “books of account” (the term used in subsection 231(1)) held by the LSO. The appellant submits that such documentation should be considered as “equivalent” to its books of account. I do not agree. However, the appellant put no actual such documentation in evidence in seeking to prove that this specified subsection 231(1) condition was somehow met.
+[31] In any event that proposition is inconsistent with the subsection 231(1) wording, where as here the actual “books of account” did exist, albeit temporarily under LSO trusteeship. Also, I observe that the appellant had a positive relationship with the LSO while under trusteeship, as indicated by written statements of the LSO at conclusion of the trusteeship.
+[32] In conclusion, with no documentation entered in evidence at all on this point, I am unable to conclude that this subsection 231(1) condition that specific notifications be made in books of account of “at least 50” debts asserted as being “bad” was satisfied.
+Had all reported net tax payable been remitted?
+[33] The third and final issue is, had the appellant, at the time of the claiming the bad debt adjustment (i.e. June 30, 2017), remitted all outstanding net tax reported as payable for the reporting periods ending September 30, 2013 (Q3 2013) and December 31, 2013 (Q4 2013)?
+[34] Subsection 231(1.1) provides that a subsection 231(1) amount for deduction regarding a supply cannot be deducted unless the tax collectible for that supply was included for the reporting period when the tax became collectible and that all net tax remittable reported in that return has been remitted.
+[35] Here, the HST deduction due to bad debts was claimed June 30, 2017. By that date the appellant had to have remitted all of HST owing for Q3 and Q4 2013, totaling $53,999. But this amount nor any portion thereof was remitted by that deadline.
+[36] Subsection 231(1.1) (set out above) is addressed by Justice Tardif of this Court in Vivaconcept International Inc. v. R., 2013 TCC 336, paras. 41, 47- 49:
+[41]Subsection 231(1.1) imposes two additional conditions for the adjustment request for bad debt. First, the tax collectible for the supply must be included in the determination of the net tax reported in a return for the reporting period in which the tax became collectible.
+[47] The second condition in subsection 231(1.1) requires that the total net tax remittable based on the return for the period during which the tax became collectible be remitted. In other words, as indicated in Explanatory Notes, “…the... reporting entity... must also satisfy the requirement to remit any positive amount of net tax reported in [the] return”.
+[48] In Ministic Air, the claim for the bad debt deduction was made in March 2001. Yet, at that time, the GST for the supplies recorded in the return still remained unpaid. It was paid only in August 2001 through the use of assets seized by the Canada Revenue Agency, which does not satisfy the requirement.
+[49] In short, the positive amount of net tax relative to the period when the tax on supplies became collectible must be paid to the Minister before the deduction claim is made.
+[37] Thus, in the matter before me, the appellant had to have remitted the entirety of the $53,999.33 GST total owing for Q3 and Q4 of 2013 by June 30, 2017, to have met the subsection 231(1.1) remittance requirement.
+[38] The law is clear that the paying of net tax subsequent to the time at which the deduction claim is filed does not satisfy the requirement specified in subsection 231(1.1) respecting timeliness of remittance. The affidavit of Sopheak Ly and the admissions in cross-examination of the appellants’ witnesses Mr. Cochran and accountant Mr. K. Ruprai confirm that no remittance by June 30, 2017 occurred.
+[39] In this matter the statutory language is clear. As Bowie J. stated in Ministic, para. 24,
+[24] The GST paid on the latter accounts could have been recovered if the appellant had written those debts off in a business - like way, and if it had claimed the refund after doing so, as the Act requires. However, as I said earlier, I have no jurisdiction to waive any of the strict requirements of the Act. The scheme of the Act is complex, and the requirements that are prerequisite to obtaining a refund were enacted to guard against abuse and fraud. I am not suggesting that there is any abuse or attempted fraud involved in this case, but as I pointed out earlier, I have no jurisdiction to relieve an appellant of the obligation of strict compliance. I must apply the Act as Parliament wrote it, and I therefore have no alternative but to dismiss the appeal.
+III. Conclusion [40] The appeal of the Minister’s assessment of the appellant’s April 1 to June 30, 2017 reporting period raised October 23, 2018 will be denied.
+This Amended Reasons for Judgment amends, as underscored in paragraphs 16 and 25, the Reasons for Judgment dated April 14, 2026.
+Signed this 17th day of April 2026.
+“B. Russell”
+Russell J.
+CITATION:
+2026 TCC 69
+COURT FILE NO.:
+2020-992(GST)I
+STYLE OF CAUSE:
+HEYDARY GREEN PROFESSIONAL CORPORATION AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 18 & 19, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Bruce Russell
+DATE OF JUDGMENT:
+April 17, 2026
+APPEARANCES:
+Counsel for the Appellant:
+Michael Cochrane
+Counsel for the Respondent:
+Devlin Williams
+Katie Beahen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Michael Cochrane
+Firm:
+Brauti Thorning LLP
+For the Respondent:
+Marie-Josée Hogue Deputy Attorney General of Canada Ottawa, Canada
+[1] Transcript, March 18, 2025, p. 158

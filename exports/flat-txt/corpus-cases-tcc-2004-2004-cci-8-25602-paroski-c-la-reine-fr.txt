@@ -1,0 +1,334 @@
+Title: Paroski c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25602/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-8-25602-paroski-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-01-08
+
+# Paroski c. La Reine
+
+- Citation: 2004 CCI 8
+- Decision date: 2004-01-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2476, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paroski c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-08
+Référence neutre
+2004 CCI 8
+Numéro de dossier
+2001-1358(IT)G
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001‑1358(IT)G
+ENTRE :
+RADA PAROSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Vidosava Paroski (2001‑1361(IT)G) les 18 et 19 novembre 2002 à London (Ontario)
+par l’honorable juge M. A. Mogan
+Comparutions :
+Avocat de l’appelant :
+Me Nicholas E. Gehl
+Avocats de l’intimée :
+Me Daniel Bougeois et Me Jade Boucher
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de l’article 160 de la Loi de l’impôt sur le revenu, dont l’avis est daté du 15 janvier 2001 et porte le numéro 00648, est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que l’obligation fiscale de l’appelant en vertu de l’article 160 est réduite à 421 500 $.
+Signé à Ottawa, Canada, ce 8e jour de janvier 2004.
+« M. A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+ce 26e jour d’avril 2004.
+Ingrid B. Miranda, traductrice
+Dossier : 2001‑1361(IT)G
+ENTRE :
+VIDOSAVA PAROSKI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Rada Paroski (2001‑1358(IT)G) les 18 et 19 novembre 2002 à London (Ontario)
+par l’honorable juge M. A. Mogan
+Comparutions :
+Avocat de l’appelante :
+Me Nicholas E. Gehl
+Avocats de l’intimée :
+Me Daniel Bougeois et Me Jade Boucher
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de l’article 160 de la Loi de l’impôt sur le revenu, dont l’avis est daté du 28 février 1996 et porte le numéro 07374, est accueilli et la cotisation est annulée.
+Signé à Ottawa, Canada, ce 8e jour de janvier 2004.
+« M. A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+ce 26e jour d’avril 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2004CCI8
+Date : 20040108
+Dossiers : 2001‑1358(IT)G
+2001‑1361(IT)G
+ENTRE :
+RADA PAROSKI et VIDOSAVA PAROSKI,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Mogan
+[1] L’appel de Rada Paroski c. La Reine (no du greffe 2001‑1358(IT)G) a été entendu sur preuve commune avec l’appel de Vidosava Paroski c. La Reine, (no du greffe 2001‑1361(IT)G). Rada Paroski est l’époux de Vidosava Paroski. Parce que le terme « Appellant » (appelant et appelante en anglais sont désignés par le même mot) peut être employé dans les deux cas et que cela pourrait porter à confusion, j’utiliserai le prénom « Rada » pour faire référence à l’époux qui a interjeté appel et le prénom « Vidosava » pour faire référence à l’épouse qui a interjeté appel. Rada et Vidosava ont un fils, Michael, née en 1962. En 1990, Michael a transféré un bien précis à ses deux parents, puis il a transféré trois autres biens à son père seulement. Au moment des transferts, Michael devait au ministre du Revenu national un montant considérable d’impôt et d’intérêt relativement à des taxes impayées en vertu de la Loi de l’impôt sur le revenu. En application de l’article 160 de la Loi et afin d’essayer de percevoir au moins une partie des impôts et des intérêts dus par Michael, le ministre a émis des cotisations à Rada et à Vidosava en tant que bénéficiaires du transfert de un ou de plusieurs biens mentionnés plus haut. Rada et Vidosava ont interjeté appel à l’encontre de ces cotisations.
+[2] La principale question en litige soulevée dans le cadre des deux présents appels est de savoir si les appelants sont soumis à l’imposition en vertu du paragraphe 160(1) de la Loi. Voici les dispositions pertinentes du paragraphe 160(1) :
+160(1) Lorsqu'une personne a […] transféré des biens, directement ou indirectement, au moyen d'une fiducie ou de toute autre façon à l'une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s'appliquent :
+d) […]
+e) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d'un montant égal au moins élevé des montants suivants :
+(i) l'excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l'auteur du transfert doit payer en vertu de la présente loi au cours de l'année d'imposition dans laquelle les biens ont été transférés ou d'une année d'imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n'est toutefois réputée limiter la responsabilité de l'auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[3] La jurisprudence récente de cette Cour et celle de la Cour d’appel fédérale ont établi quatre conditions devant être satisfaites pour que l’alinéa 160(1)c) soit applicable :
+(i) il doit y avoir eu un transfert de biens;
+(ii) il faut que l’auteur et le bénéficiaire du transfert aient un lien de dépendance;
+(iii) le bénéficiaire du transfert n’a pas donné de contrepartie à l’auteur du transfert (ou lui a donné une contrepartie insuffisante);
+(iv) l’auteur du transfert doit payer un montant en vertu de la Loi au cours de l’année dans laquelle les biens ont été transférés ou d’une année antérieure.
+En tenant compte de ces conditions, les appelants admettent que, pendant l’année 1990, Michael a transféré un bien aux deux appelants et trois autres biens à Rada seulement. Les appelants admettent qu’entre eux et leur fils, Michael, il existe des liens de dépendance. Puis, les appelants admettent que Michael avait des obligations fiscales considérables sous le régime de la Loi par rapport à l’année 1990 et/ou à une année d’imposition antérieure. En d’autres termes, les appelants admettent que les conditions (i), (ii) et (iv) ci‑dessus étaient satisfaites dans le cadre des deux présents appels. Le point en litige est la condition (iii). Les appelants se fondent sur le libellé du sous‑alinéa 160(1)e)(i) pour faire valoir que la juste valeur marchande de la contrepartie qu’ils ont donnée à Michael pour chacun des biens était égale (ou supérieure) à la juste valeur marchande dudit bien au moment du transfert. L’audition des présents appels a porté sur les questions suivantes :
+1. Quelle était la juste valeur marchande de chacun de ces quatre biens au moment où chacun d’eux a été transféré?
+2. Les appelants ont‑ils donné ensemble à Michael ou Rada a‑t‑il donné une contrepartie pour au moins l’un de ces quatre biens transférés?
+3. S’il y a eu contrepartie pour au moins l’un des quatre biens transférés, quelle était la juste valeur marchande de ladite contrepartie au moment du transfert particulier?
+[4] Rada et Vidosava étaient les seuls témoins des appelants. Rada a témoigné pendant environ quatre heures et demie et Vidosava l’a fait pendant 25 minutes. L’avocat des appelants a déposé en preuve documents. Certains de ces documents ont été déposés sur consentement. D’autres ont fait l’objet d’une forte opposition de la part des avocats de l’intimée. Je parlerai de ces derniers objets plus tard dans mes motifs. Ce qui suit est un résumé de la preuve présentée par Rada et d’un grand nombre des documents auxquels il a fait référence.
+La preuve de Rada
+[5] Tout au long de la période pertinente, les appelants et Michael résidaient à Waterloo, en Ontario. Les quatre biens transférés sont situés à Waterloo. Les quatre transferts de biens qui constituent le centre des deux présents appels peuvent être schématisés ainsi :
+Date
+Description
+Auteur du transfert
+Bénéficiaire du transfert
+Pièce
+5 janvier 1990
+594 Stonebury Cres., Lot 23, Plan 1695
+Michael
+Rada et Vidosava
+A‑1, onglet 2
+R‑1, onglet 11
+12 octobre 1990
+606 Stonebury Cres.,
+Lot 29, Plan 1695
+Michael
+Rada
+A‑1, onglet 5
+R‑1, onglet 21
+12 octobre 1990
+590 Stonebury Cres.,
+Lot 21, Plan 1695
+Michael
+Rada
+A‑1, onglet 3
+R‑1, onglet 16
+12 octobre 1990
+610 Stonebury Cres.,
+Lot 31, Plan 1695
+Michael
+Rada
+A‑1, onglet 4
+R‑1, onglet 18
+[6] Les appelants allèguent qu’ensemble ou Rada seul ont acheté les quatre biens mentionnés plus haut auprès de Michael aux prix suivants :
+594 Stonebury Cres., acheté par Rada et Vidosava pour 305 000 $;
+606 Stonebury Cres., acheté par Rada pour 305 000 $;
+590 Stonebury Cres., acheté par Rada pour 77 000 $;
+610 Stonebury Cres., acheté par Rada pour 77 000 $.
+Les biens situés au 590 et au 610 étaient des lots non aménagés, mais sur chacun des biens situés au 594 et au 606, on avait construit une nouvelle maison. L’intimée prétend que le montant total de la contrepartie versé pour chaque propriété était de 2 $ plus « amour et affection ».
+[7] Sur consentement, les appelants ont produit sous la cote A‑3 le rapport d’évaluation de Harry DeGroot, AACI, évaluateur accrédité engagé par les appelants, pour fournir son avis sur la juste valeur marchande du 590 et du 610, respectivement, au 12 octobre 1990. M. DeGroot est d’avis que la juste valeur marchande du 590 Stonebury était de 74 000 $ et que la juste valeur marchande du 610 Stoney était de 77 500 $. Sur consentement aussi, les appelants ont produit sous la cote A‑4 le rapport d’évaluation de Ron Duda, AACI, évaluateur accrédité engagé par l’intimée pour donner son avis sur la juste valeur marchande du « 594 » au 2 janvier 1990 et du « 606 » au 12 octobre 1990. Selon M. Duda, la juste valeur marchande du 594 Stonebury était de 315 000 $ au 2 janvier 1990 et la juste valeur marchande du 606 Stonebury était de 305 000 $ au 12 octobre 1990. Selon l’acte de procédure de l’intimée, au moment d’établir les cotisations contestées en appel, le ministre du Revenu national a présupposé que la juste valeur marchande des biens respectifs était la suivante :
+594 Stonebury Cres. 350 000 $, au 5 janvier 1990
+606 Stonebury Cres. 330 000 $, au 12 octobre 1990
+590 Stonebury Cres. 74 000 $, au 12 octobre 1990
+610 Stonebury Cres. 77 500 $, au 12 octobre 1990
+[8] Par une lettre datée du 7 novembre 2000 et envoyée par Revenu Canada (« ADRC ») à Michael Paroski (pièce A‑2), l’intimée a accepté les justes valeurs marchandes du « 590 » et du « 610 » estimés par M. DeGroot. Je conclus en conséquence que le 12 octobre 1990, la juste valeur marchande du 590 Stonebury Cres. était de 74 000 $ et la juste valeur marchande du 610 Stonebury Cres. était de 77 500 $. L’avis de l’évaluateur de l’intimée (M. Duda), formulé dans la pièce A‑4, est que les justes valeurs marchandes du « 594 » et du « 606 » étaient inférieures aux montants présupposées par le ministre pour établir la cotisation. Je conclus donc que la juste valeur marchande du 594 Stonebury Cres. le 5 janvier 1990 était de 315 000 $ et que la juste valeur marchande du 606 Stonebury Cres. le 12 octobre 1990 était de 305 000 $. Eu égard à la première question figurant dans la liste du paragraphe 3 ci‑dessus, au sujet de la juste valeur marchande, je conclus que la juste valeur marchande de chacun des biens le jour de son transfert respectif, était la suivante :
+594 Stonebury Cres. 315 000 $ 5 janvier 1990
+606 Stonebury Cres. 305 000 $ 12 octobre 1990
+590 Stonebury Cres. 74 000 $ 12 octobre 1990
+610 Stonebury Cres. 77 500 $ 12 octobre 1990
+[9] Tous les documents qui démontrent l’existence des transferts sont des actes formalistes de transfert qui décrivent chaque bien par rapport au numéro du lot situé sur le Plan 1695. Cependant, pour des raisons de commodité, je ferai référence à chaque bien en employant son adresse municipale et la date de son transfert :
+Pièce
+Bien
+Date de transfert
+A‑1, onglet 2
+I‑1, onglet 11
+594 Stonebury Cres.
+5 janvier 1990
+A‑1, onglet 5
+I‑1, onglet 21
+606 Stonebury Cres.
+12 octobre 1990
+A‑1, onglet 3
+I‑1, onglet 16
+590 Stonebury Cres.
+12 octobre 1990
+A‑1, onglet 4
+I‑1, onglet 18
+610 Stonebury Cres.
+12 octobre 1990
+Chaque acte formaliste de transfert figurant dans la liste de pièces ci‑dessus est un formulaire standard ayant la fonction de consigner des renseignements. Dans la case no 4, au titre de « contrepartie », on retrouve l’information suivante : « amour et affection – 2 $ ». De plus, chaque acte est accompagné d’un affidavit afférent aux droits de cession immobilière de l’Ontario. Tous les affidavits sont remplis et signés, puis précisent que la contrepartie monétaire est nulle ou nominale (2 $) et que le transfert est effectué d’un fils vers son père ou mère. Si l’on regarde les actes et les affidavits afférents aux droits de cession immobilière de l’Ontario, on ne peut que conclure que Michael a transféré 594 Stonebury Cres. à ses parents sans recevoir de contrepartie et puis qu’il a transféré les trois autres biens (606, 590 et 610) à son père seulement, sans recevoir de contrepartie. À première vue, les documents enregistrés au Bureau d’enregistrement immobilier de l’Ontario appuient les cotisations du ministre, fondées sur le fait qu’il n’y a pas eu de contrepartie versée par les bénéficiaires du transfert relativement à aucun des transferts.
+[10] Les appelants (ou Rada, selon le cas) prétendent qu’en fait ils ont payé une véritable contrepartie lors de chaque transfert. Voici les allégations qui apparaissent dans l’Avis d’appel de Rada, aux paragraphes respectifs :
+[traduction]
+10) Pendant toute la période pertinente, Michael vivait avec ses parents.
+11) Quand Michael a atteint ses 18 ans, ses parents lui ont dit qu’il pourrait continuer à résider avec eux, cependant il devrait payer sa part. Ils ont conclu que Michael paierait une partie proportionnelle des dépenses.
+12) À ce moment, Michael n’avait pas une source de capital considérable, mais il a accepté de consigner toutes les dépenses que ses parents effectueraient à son compte et de leur rembourser sa part des frais de subsistance.
+13) Avec le temps, Michael s’est engagé dans la construction et dans la vente de résidences personnelles.
+14) Michael exploitait une entreprise de construction résidentielle sous le nom de Westview Homes, une entreprise à propriétaire unique sans personnalité morale.
+15) Westview Homes se consacrait à l’achat de terrains constructibles, à la construction de résidences unifamiliales et à la vente de ces résidences à Kitchener et à Waterloo.
+16) Les activités commerciales de Westview Homes ont été financées de temps à autre au moyen de prêts et d’avances de l’appelant et de son épouse.
+[...]
+18) La contrepartie versée par l’appelant et par son épouse pour 594 Stonebury Crescent est la somme de 220 000 $ versée à Michael le 2 janvier 1990, accompagnée d’un crédit couvrant les dettes actives de Michael avec l’appelant et son épouse.
+[...]
+22) La contrepartie fournie par l’appelant pour les propriétés décrites comme les 606, 610 et 590 Stonebury Crescent comprenait un crédit pour les sommes dues par Michael à l’appelant et à son épouse, relativement aux frais de subsistance engagés à son compte et relativement aux avances de liquide effectuées par l’appelant et son épouse en faveur de Michael.
+23) Le solde restant dû à Michael par l’appelant et par son épouse relativement à tous les biens reçus de Michael a été réglé par des paiements ultérieurs et par les frais de subsistance dépensés au compte de Michael.
+24) L’appelant déclare que l’appelant a payé à Michael, ou a reçu crédit en contrepartie des dettes de Michael, une somme équivalente à la juste valeur marchande du bien reçu de Michael.
+[11] L’intimée n’accepte aucune des allégations ci‑dessus et rejette certaines d’entre elles. À l’appui de ces allégations, les appelants ont produit 13 pièces dans lesquelles Michael est censé reconnaître que l’un de ses parents ou les deux, ont payé une partie de ses frais de subsistance à partir de l’année 1981 jusqu’à l’année 1993, inclusivement. Les 13 pièces sont pareilles en matière de forme et de contenu, à l’exception des montants demandés pour les frais de subsistance, lesquels montants changent selon l’année. Par exemple, voici la pièce A‑5, transcrite intégralement :
+[traduction] Le 31 janvier 1982
+Je, soussigné, Michael Paroski, reconnais que Rada Paroski a dépensé vingt et un mille vingt‑trois dollars canadiens (21 023 $) pour mes frais de subsistance, pendant l’année 1981, y compris, sans toutefois s’y limiter, le loyer de l’appartement, les taxes foncières, le gaz, l’électricité, l’eau, l’assurance‑maison, la câblotélévision, les vêtements, la nourriture, le linge de maison et les accessoires de nettoyage.
+« Michael Paroski »
+Les 12 autres pièces contiennent le même libellé et ne diffèrent que sur trois points : (i) elles sont datées du 31 janvier de plusieurs années consécutives, (ii) le montant demandé pour les frais de subsistance change d’année en année et (iii) le montant de la dette correspond à chaque année antérieure. Eu égard au contenu de la pièce A‑5 exposé ci‑dessus, toutes les 13 pièces sont pareilles, à l’exception des entrées suivantes :
+Pièce no
+Date inscrite
+sur la pièce
+Montant des frais de subsistance
+Année où les dépenses ont été engagées
+A‑5
+31 janvier 1982
+21 023 $
+1981
+A‑6
+31 janvier 1983
+20 492 $
+1982
+A‑7
+31 janvier 1984
+20 600 $
+1983
+A‑8
+31 janvier 1985
+20 729 $
+1984
+A‑9
+31 janvier 1986
+21 127 $
+1985
+A‑10
+31 janvier 1987
+21 320 $
+1986
+A 11
+31 janvier 1988
+20 473 $
+1987
+A 12
+31 janvier 1989
+17 925 $
+1988
+A 13
+31 janvier 1990
+18 498 $
+1989
+A 14
+31 janvier 1991
+17 017 $
+1990
+A 15
+31 janvier 1992
+19 976 $
+1991
+A 30
+31 janvier 1993
+22 516 $
+1992
+A 17
+31 janvier 1994
+19 164 $
+1993
+[12] Les avocats de l’intimée se sont opposés à ce que ces 13 documents soient déposés en preuve, parce que les documents originaux n’ont pas été produits à la Cour (les 13 pièces n’étaient que des photocopies) et la seule personne qui avait signé les documents (Michael, le fils des deux appelants) ne s’est pas présentée au tribunal pour authentifier sa signature ou témoigner par rapport à leur contenu. En dépit des oppositions bien fondées de l’intimée et tout en tenant compte de son consentement ultérieur, j’ai autorisé le dépôt en preuve de ces documents. Rada a identifié la signature de son fils sur les documents, et il a déclaré que ces derniers représentaient une entente conclue entre Michael et les appelants en 1982 quand leur fils avait 20 ans. Rada a dit qu’il ne se souvenait pas du moment où il avait photocopié les originaux. Rada a ajouté, comme explication, qu’au moment où les appelants ont déménagé à 594 Stonebury Crescent, en 1990, le nivellement n’avait pas été effectué. Il a plu considérablement et le sous‑sol a été inondé. Ainsi, beaucoup de documents mouillés ont été jetés; la pièce A‑5 a pu être jetée.
+[13] Après avoir autorisé la production de ces 13 documents en preuve et après avoir entendu le débat des avocats des deux parties, je voudrais faire quelques observations, poser quelques questions et tirer quelques conclusions relativement à ces 13 documents. Ils sont tous écrits à la main. Bien qu’il s’agisse de photocopies, il semble qu’ils aient été écrits sur du papier ligné, comme un bloc de papier 8½ po sur 11 po. L’écriture est à la même place sur chaque page. Parce qu’ils portent tous la date du 31 janvier de 13 années consécutives, il a dû s’agir d’un auteur très discipliné, pour s’asseoir tous les ans, précisément à la même date, pour s’écrire ce mémo à lui‑même. S’ils n’ont pas vraiment été écrits précisément à la même date, pourquoi les mémos en portent‑ils tous la même? Ils ne sont pas destinés à une deuxième partie, mais Rada dit ne pas se souvenir du moment où il a photocopié les originaux. Une personne suffisamment bien organisée et disciplinée pour écrire le même type de mémo chaque année, environ à la même date, ne perdrait probablement pas les originaux, ni ne permettrait qu’ils soient endommagés par l’eau et qu’ils soient jetés. Si le sous‑sol de 594 Stonebury Crescent a été inondé en 1990, qu’est‑il arrivé avec les originaux des pièces A‑14, A‑15, A‑30 et A‑17 datées du 31 janvier des années 1991, 1992, 1993 et 1994, respectivement? Rada n’a pas été capable d’expliquer comment les sommes mentionnées dans les 13 pièces avaient été calculées. Il n’a pas maintenu de livre de comptes, de note de service, ni aucun autre document pour consigner les dépenses de la famille. Il n’y a aucune preuve montrant comment les montants apposés aux 13 pièces ont été calculés ou auraient pu être calculés. Pourquoi les appelants n’ont pas appelé leur fils afin qu’il élucide ces 13 documents?
+[14] Les 13 pièces décrites aux paragraphes 11, 12 et 13 se ressemblent de manière troublante. Elles ne semblent pas véridiques. Il n’y a pas beaucoup de parents qui concluraient un arrangement financier si précis avec leur fils unique. En l’absence des originaux et en l’absence de toute explication incompatible de l’auteur (Michael), je conclus que les 13 pièces ont été écrites par une même personne, un jour précis, sur un bloc de papier de 8½ po sur 11 po. Je déduis qu’ils ont été écrits après que Revenu Canada avait entamé la vérification des transactions commerciales de Michael et, probablement, après que Revenu Canada avait fait appel à l’article 160 de la Loi pour établir une cotisation à l’égard des parents de Michael. La fonction des 13 pièces aurait été de démontrer que Michael avait des obligations financières considérables envers ses parents (les appelants) mais, sans le témoignage de Michael, ces 13 pièces n’ont pas beaucoup de valeur probante. Je ne considère pas que Michael ait des obligations financières envers ses parents relativement à ses frais de subsistance pour la période allant de 1981 à 1993, inclusivement.
+[15] Indépendamment du fait que Michael n’a pas témoigné, il n’y a pas eu de preuve documentaire présentée par Rada ou par Vidosava, selon laquelle ils avaient les moyens de débourser les frais de subsistance de Michael, qui s’élevaient environ à 20 000 $ par an, dans la période allant de 1981 à 1993. Le témoignage de Rada démontre qu’il a travaillé comme boucher dès leur arrivée au Canada en 1965, mais il a été blessé en 1978, puis en 1983. Les onglets 1 et 3 de la pièce R‑1 sont les déclarations de revenus de Rada pour les années 1989 et 1990, respectivement. Lors de chacune de ces années, le revenu net de Rada qui y est inscrit est inférieur à 5 000 $. La pièce R‑1, l’onglet 2, est la déclaration de revenus de Vidosava pour l’année 1989 et indique un revenu nul. Ces trois déclarations de revenus confirment mon impression que les 13 documents figurant au paragraphe 11 ci‑dessus contiennent 13 mensonges maladroits, portant sur le paiement des frais de subsistance allégués de Michael.
+[16] Rada a témoigné que Michael voulait devenir constructeur de maisons. En 1987, Michael avait fréquenté le Conestoga Community College et avait 25 ans. Rada désirait aider Michael et a donné suite à ce désir en lui donnant l’argent nécessaire pour l’achat des lots et des matériaux de construction. Rada dit qu’il a comptabilisé l’argent qu’il a prêté à Michael. La pièce A‑18 contient une liste de 17 sommes que Rada a prêtées à Michael entre le 8 avril et le 24 décembre 1987. Le total présenté est de 97 698 $ mais, selon mes calculs, il devrait être de 97 335 $. À l’appui de la liste, il y a 17 copies de documents portant soit le logotype, soit le symbole de « Canada Trust », dans chacun desquels apparaît un montant de prêt correspondant versé à la date correspondante. Si je tiens compte du fait que Michael n’avait que 24 ans pendant la plus grande partie de l’année 1987 (son anniversaire étant en novembre), ainsi que de la majorité des documents justificatifs de Canada Trust qui font référence au nom de son entreprise « Westview Construction », j’accepte le témoignage de Rada qu’il a prêté à Michael environ 97 000 $ en 1987.
+[17] À partir de 1981, Rada et Vidosava étaient propriétaires de leur résidence familiale située au 482 Anndale Road à Waterloo. Le 15 mai 1987, ils ont obtenu un prêt de 70 000 $ et ils ont consenti une hypothèque à la Compagnie Montréal Trust (contre le bien situé au 482 Anndale Road) pour garantir le prêt. La pièce A‑20 contient une copie de l’hypothèque. Rada et Vidosava ont employé le capital de l’hypothèque pour financer un grand nombre des prêts qu’ils ont avancés à Michael en 1987. L’hypothèque de 70 000 $ afférente à la résidence familiale a été libérée le 24 mars 1989. La libération apparaît à la pièce A‑1, à la première page de l’onglet 1. L’existence de cette hypothèque m’a convaincu qu’après le 15 mai 1987, les appelants (ou Rada tout seul) disposaient de capitaux qu’ils pouvaient prêter à Michael. Il semble que l’hypothèque de 70 000 $ peut avoir été la principale source de capitaux des 97 000 $ prêtés à Michael en 1987, comme cela est décrit au paragraphe 16 ci‑dessus.
+[18] Le 2 janvier 1990, Rada et Vidosava ont vendu leur résidence familiale située au 482 Anndale Road pour le prix de 229 500 $. Voir la pièce A‑1, onglet 1. Le 3 janvier 1990, Rada et Vidosava ont accepté d’acheter de Michael le bien situé au 594 Stonebury Crescent, au prix de 305 000 $. La convention d’achat manuscrite constitue la pièce A‑22. Bien que la pièce A‑22 soit rédigée comme si elle avait été signée le 3 janvier 1990, elle contient la disposition ci‑dessous :
+[traduction]
+3. L’acheteur et le vendeur conviennent que tous les frais de subsistance de Michael Paroski payés par Rada Paroski ou Vidosava Paroski avant la date de clôture constituent un crédit applicable au prix d’achat.
+En tenant compte de mes déclarations au sujet des « frais de subsistance » allégués de Michael (voir les paragraphes 11 à 15 ci‑dessus), je doute que la pièce A‑22 ait été signée ou ait même existé le 3 janvier 1990. La pièce A‑22 contient, cependant, la disposition suivante :
+[traduction]
+5. L’acheteur et le vendeur conviennent que les deux cent vingt‑deux mille dollars canadiens (220 000 $) versés à Michael Paroski par Rada et Vidosava Paroski le 2 janvier 1990 constituent un crédit applicable au prix d’achat.
+Il semble que Rada et Vidosava aient employé le capital net (220 000 $) de la vente du bien situé du 482 Anndale Road pour payer en partie le prix d’achat de 594 Stonebury Crescent.
+[19] Rada a déclaré qu’il a obtenu la somme supplémentaire de 80 000 $ pour l’achat de 594 Stonebury Crescent en empruntant 40 000 $ à chacune des deux sœurs de Vidosava qui habitaient à Kitchener, en Ontario, en 1990. La pièce A‑23 contient des documents qui montrent que 40 000 $ ont été empruntés à Milena Djurakov et que 40 000 $ ont été empruntés à Nada Djurakov les 2 et 3 janvier 1990, respectivement. La pièce A‑23 montre aussi un dépôt de 80 000 $ dans le compte bancaire de Westview Homes (nom de l’entreprise de Michael) le 3 janvier 1990. J’admets le témoignage de Rada selon lequel Vidosava et lui ont payé 300 000 $, en liquide, du prix d’achat (305 000 $) de 594 Stonebury Crescent le 5 janvier 1990, parce qu’ils avaient reçu peu avant 220 000 $ de la vente du bien situé au 482 Anndale Road et qu’ils avaient emprunté peu avant 80 000 $ des deux sœurs de Vidosava.
+Analyse
+[20] Le bien au 594 Stonebury Crescent est différent des trois autres biens transférés (606, 590 et 610) dans le sens que 594 est devenu la résidence familiale de Rada et de Vidosava jusqu’à ce qu’il soit vendu en février 1992 au prix de 310 000 $ dans une transaction sans lien de dépendance. Il existe des accords manuscrits d’achat et de vente concernant les trois autres biens (606, 590 et 610) qui ont été tous transférés le 12 octobre 1990. Voir la pièce A‑25 pour le bien au 606, la pièce A‑24 pour le bien au 590 et la pièce A‑26 pour le bien au 610. Les trois accords contiennent une disposition au sujet des « frais de subsistance » de Michael, comme celle portant le no 3 énoncée au paragraphe 18 ci‑dessus. De nouveau, si l’on tient compte de mes déclarations au sujet des « frais de subsistance » allégués de Michael (voir les paragraphes 11 à 15 ci‑dessus), je doute que les pièces A‑24, A‑25 et A‑26 aient été signées en octobre 1990. Il est plus probable qu’elles aient été écrites et signées après que Revenu Canada avait entamé sa vérification au sujet de Michael ou après sa décision d’employer l’article 160 de la Loi pour établir une cotisation à l’égard des parents de Michael. Bien que les pièces A‑22, A‑25 et A‑26 ne soient que des photocopies, elles semblent avoir été écrites sur le même type de papier ligné (8½ po sur 11 po) que les 13 pièces figurant au paragraphe 11 ci‑dessus.
+[21] À mon avis, il existe de bonnes raisons de douter de la crédibilité des quatre accords manuscrits d’achat et de vente des quatre biens transférés (pièces A‑22, A‑24, A‑25 et A‑26). Chaque accord contient la disposition suivante :
+[traduction]
+4. L’acheteur et le vendeur conviennent que tous les coûts et frais juridiques visant à prévoir, à prolonger et à libérer tous les paiements mensuels de la première hypothèque de soixante‑dix mille dollars canadiens (70 000 $) consentie à Montréal Trust, en ce qui a trait au bien connu comme le Lot no 1, du plan enregistré 1422 de la ville de Waterloo, coûts que Michael Paroski a accepté de payer, mais qui, en fait, ont été payés par Rada Paroski ou par Vidosava Paroski avant la date de clôture, constituent un crédit applicable au prix d’achat.
+Comment cela se fait‑il que tous les coûts et frais juridiques ainsi que les paiements mensuels de l’hypothèque de 70 000 $ consentie à Montréal Trust ont été crédités au prix d’achat de quatre biens très différents? Comment cela se fait‑il que ces coûts, frais juridiques et paiements mensuels doivent être crédités au prix d’achat (305 000 $) du 594 Stonebury Crescent, alors que Rada a déclaré dans son témoignage que lui‑même et Vidosava avaient payé le prix du 594 avec le produits nets (220 000 $) issus de la vente du bien situé au 482 Anndale Road et les deux prêts (total de 80 000 $) des sœurs de Vidosava? La pièce A‑28 est la photocopie d’un chèque de 69 090 $ émis par Michael le 12 janvier 1989, au nom de Montréal Trust, pour rembourser l’hypothèque grevant 482 Anndale Road. La disposition au paragraphe no 4, mentionnée plus haut, était parfaitement inutile, parce que l’hypothèque de Montréal Trust avait déjà été éteinte en 1989, longtemps avant que les transferts qui font l’objet des deux présents appels n’aient eu lieu en 1990.
+[22] Au paragraphe 16 ci‑dessus, j’ai accepté le témoignage de Rada (appuyé par la pièce A‑18) selon lequel il avait prêté environ 97 000 $ à Michael en 1987. La pièce A‑19 et le témoignage de Rada montrent que Rada a prêté 90 000 $ à Michael, le 3 octobre 1987, et que Michael a remboursé les 90 000 $ au moyen de cinq paiements versés entre le 27 octobre et le 28 décembre 1987. Je considère ce prêt de 90 000 $ du 3 octobre 1987, ainsi que les cinq paiements, comme une transaction sans effet fiscal. J’accepte les documents de la pièce A‑27 comme preuve que Rada a prêté 12 000 $ à Michael en 1988. Et, finalement, il semble d’après la pièce A‑28 que Michael ait remboursé une très grande partie de l’hypothèque de Montréal Trust grevant 482 Anndale Road. Le 12 janvier 1989, Michael a émis un chèque de 69 090,16 $ à Montréal Trust, encaissé le 16 janvier 1989. La pièce A‑1, l’onglet 1, montre que l’hypothèque a, en fait, été libérée le 24 mars 1989. Pour résumer les transactions mentionnées ci‑dessus, je conclus que les prêts nets de Rada à Michael, dans la période allant de 1987 à 1989, sont les suivants :
+Prêts en 1987
+97 335 $
+Deux prêts en 1988
+12 000 $
+Total partiel
+109 335 $
+Michael a payé à Montréal Trust
+69 090 $
+Prêts nets de Rada à Michael
+40 245 $
+[23] Il y a des preuves montrant l’existence d’autres plus petites transactions; cependant, sans le témoignage de Michael, je n’attribue pas beaucoup de poids aux souvenirs plutôt flous de Rada à l’égard d’événements qui se sont déroulés 12 ans avant l’audition des présents appels. Afin de conférer aux appelants le bénéfice du doute pour ce qui est des plus petites transactions, je vais arrondir le montant de 40 245 $ du paragraphe précédent à 50 000 $ et conclure que Michael devait 50 000 $ à Rada au moment de démarrer son entreprise, le 12 octobre 1990.
+[24] Je peux maintenant résumer mes conclusions relativement aux transferts des quatre biens.
+594 Stonebury Crescent
+Transféré par Michael à Rada et à Vidosava le 5 janvier 1990.
+Juste valeur marchande le 5 janvier 1990 : 315 000 $.
+Contrepartie payée en liquide par Rada et Vidosava : 300 000 $, étant les produits nets (220 000 $) découlant de la vente du bien situé au 482 Anndale Road, plus 80 000 $ empruntés aux deux sœurs de Vidosava.
+La juste valeur marchande dépasse la contrepartie liquide de 15 000 $ (315 000 $ moins 300 000 $).
+L’excédent (15 000 $) réduit le montant (50 000 $) par ailleurs dû par Michael à Rada, soit un solde de 35 000 $.
+Le résultat est que les appelants ont payé la pleine juste valeur marchande du 594 Stonebury Crescent et que l’on ne peut pas établir de cotisation en vertu de l’article 160 de la Loi, relativement à ce transfert. Je ne confère aucun poids à l’affidavit afférent aux droits de cession immobilière en ce qui concerne ce bien.
+606 Stonebury Crescent
+590 Stonebury Crescent
+610 Stonebury Crescent
+Transférés par Michael à Rada seulement, le 12 octobre 1990.
+Les justes valeurs marchandes à cette date étaient les suivantes :
+606
+305 000 $
+590
+74 000 $
+610
+77 500 $
+Total des valeurs
+456 500 $
+Il n’y a pas de preuve documentaire que le 12 octobre 1990 il y ait eu échange de contrepartie liquide. Dans la convention d’achat du 606 Stonebury Crescent, on fait référence à un billet à ordre de 229 314 $ remis par Rada à Michael, mais il n’y a pas de preuve documentaire montrant l’existence de paiements par rapport à ce billet. Par conséquent, je conclus que Rada n’a effectué aucun paiement direct relatif à aucun des trois biens qui lui ont été transférés le 12 octobre 1990. Cependant, il avait un crédit en sa faveur s’élevant à 35 000 $ (50 000 $ moins 15 000 $). Les affidavits afférents aux droits de cession immobilière ayant trait à ces trois biens sont probablement véridiques.
+[25] Le montant maximal de l’obligation de Rada en application de l’article 160 de la Loi ne peut dépasser 456 500 $, ce chiffre étant la somme des justes valeurs marchandes des trois biens le 12 octobre 1990. Après application du crédit de 35 000 $, son obligation est réduite ainsi :
+Justes valeurs marchandes maximales
+456 500 $
+Moins le montant dû par Michael à Rada
+35 000 $
+Obligation nette de Rada en application de l’article 160
+421 500 $
+[26] Le seul bien transféré à Vidosava était le « 594 ». Elle et Rada ont payé la juste valeur marchande complète de ce bien. Par conséquent, l’appel de Vidosava sera accueilli et la cotisation établie à son égard en vertu de l’article 160, sera annulée.
+[27] Selon la pièce R‑1, onglet 8, la cotisation établie à l’égard de Rada en vertu de l’article 160 s’élève à 656 493 $. En tenant compte de ma conclusion selon laquelle Rada et Vidosava ont payé la juste valeur marchande complète de 594 Stonebury Crescent, ce montant devra être réduit. Par référence au paragraphe 25 ci‑dessus, j’accueillerais en partie l’appel de Rada et réduirais son obligation visée par l’article 160 à 421 500 $. Je suis prêt à entendre les soumissions des avocats (s’il y en a) en matière de dépens.
+Signé à Ottawa, Canada, ce 8e jour de janvier 2004.
+« M. A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+ce 26e jour d’avril 2004.
+Ingrid B. Miranda, traductrice

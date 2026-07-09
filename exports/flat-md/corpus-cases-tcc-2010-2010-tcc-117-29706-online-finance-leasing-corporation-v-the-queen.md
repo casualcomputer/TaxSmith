@@ -1,0 +1,224 @@
+---
+title: "OnLine Finance & Leasing Corporation v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29706/index.do"
+last_modified: "2010-03-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 117"
+citation2: ""
+neutral_citation: "2010 TCC 117"
+decision_date: "2010-03-02"
+language: "en"
+item_id: "29706"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6211
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:36:45.406000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5f4e9e01d6332fb36dbc73d1170d5780eca32a126c8d7e1a3e574da2cfc0fe87"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# OnLine Finance & Leasing Corporation v. The Queen
+
+- Citation: 2010 TCC 117
+- Decision date: 2010-03-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6211, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+OnLine Finance & Leasing Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-02
+Neutral citation
+2010 TCC 117
+File numbers
+2006-2175(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2175(IT)G
+BETWEEN:
+ON-LINE FINANCE & LEASING CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on November 16 and 17, 2009 at
+Vancouver, British Columbia
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+John C. Drove
+Counsel for the Respondent:
+Carl Januszczak
+Andrew Majawa
+____________________________________________________________________
+ORDER
+Upon preliminary motion brought by Respondent counsel at the commencement of the hearing in these appeals for a ruling respecting the admissibility/exclusion of all documents/evidence extrinsic to various leasing agreements between the Appellant and Municipal Finance Authority of British Columbia;
+And Upon hearing what was alleged by the parties;
+And Upon review of the written submissions provided by both parties;
+It is Ordered that the Appellant will not be permitted to introduce extrinsic evidence to assist in explaining the documents at issue.
+It is also concluded that:
+(1) A court is not required to make a ruling on the parol evidence rule at the time such objection is made and GM Canada does not stand for that proposition;
+(2) The courts’ use of the term “consider” rather than “admit” in GM Canada implies that a court may hear extrinsic evidence and then assign it weight, if any;
+(3) With ample time to examine the documents, I conclude that objectively there is no ambiguity contained in the documents making the introduction of extrinsic evidence now unnecessary; and
+(4) The evidence sought to be introduced by the Appellant is subjective intention evidence, which may never be introduced.
+Signed at Kelowna, British Columbia, this 2nd day of March 2010.
+"Diane Campbell"
+Campbell J.
+Citation: 2010 TCC 117
+Date: 20100302
+Docket: 2006-2175(IT)G
+BETWEEN:
+ON-LINE FINANCE & LEASING CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Campbell J.
+[1] The hearing in these appeals came before me in Vancouver, British Columbia on November 16, 2009. At the commencement of the hearing, Respondent counsel brought a preliminary motion for a ruling respecting the admissibility/exclusion of all documents/evidence extrinsic to various leasing agreements between the Appellant and Municipal Finance Authority of British Columbia (the “MFA”). The Respondent’s motion was in anticipation of the Appellant’s attempt to introduce such evidence for the purpose of interpreting these leasing agreements. Because of the nature of these appeals and the issues involved, a decision in respect of this motion has significant implications in shaping the future course and scope of the hearing.
+[2] I adjourned the hearing until the following day so that I could consider the motion which involved the application of the parol evidence rule and to give myself time to peruse the various agreements comprising the leasing program.
+[3] I did not provide a ruling the following day because I had insufficient time to adequately review the agreements and research the law. In addition, there was no basis for an objection based on the parol evidence rule at that point in time because there had been no attempt to introduce extrinsic evidence.
+[4] The hearing re-commenced on the condition that Respondent counsel would be entitled to renew its motion at the appropriate point in the evidence. When the Appellant sought to introduce into evidence correspondence between the Appellant and MFA, the Respondent objected to its admissibility on the basis that it violated the parol evidence rule. Respondent counsel submitted that this correspondence related to the negotiation stage of the dealings between the parties and was being tendered as evidence of their intentions for the purpose of interpreting the leasing agreements.
+[5] Although it appears that Appellant counsel had notice, several days prior to the hearing, that opposing counsel intended to bring this motion, he seemed unprepared to deal with it and because of the potentially severe restrictions which the outcome of the motion might place upon the Appellant’s case, I adjourned the hearing to my next sitting in Vancouver. In the interim, I requested that the parties file written submissions specifically to address several questions which had been posed during our initial discussions.
+[6] A brief summary of the facts is essential to understand the importance of the outcome of the motion in respect to both parties. The issue central to these appeals is whether the Appellant received rental revenue from various lessees and whether that revenue is properly included in computing the Appellant’s income. How these lease payments will be treated is key to the outcome of these appeals.
+[7] Four written agreements governed the relationship between the Appellant and MFA:
+(a) Services Agreement dated April 1, 1995;
+(b) Pricing Agreement dated April 7, 1998;
+(c) Leasing Program Agreement dated April 5, 2000; and
+(d) Assignment of Lease Agreements dated October 30, 2002.
+The parties agree that the 1995 Services Agreement was effectively renewed when the Appellant and MFA entered into the 2000 Leasing Program Agreement.
+[8] Basically, the arrangement between the Appellant and MFA involved the following:
+(a) MFA would advance funds to the Appellant via a line of credit so that the Appellant could purchase specific assets requested by Canadian municipalities;
+(b) The Appellant would purchase the requested assets and lease them to the municipalities, while retaining full ownership and legal title; and
+(c) The Appellant would then assign the assets, lease agreements and lease revenue to MFA (the “assignment”).
+[9] The issue in these appeals arises as the result of the assignment referred to in (c) above. The Respondent’s position is that the assignment should be characterized as security for the Appellant’s indebtedness to MFA. Consequently, the debt would be on-going and each payment from the municipality would be applied to the outstanding balance. The Appellant’s position is that the funds received from MFA to purchase the assets were interim loans which were immediately repaid through the assignment. Consequently, the debt would be extinguished through the absolute assignment.
+[10] The Order which I issued on November 30, 2009 requested the parties to address two specific questions:
+(a) Does the Court have to deal with a parol evidence objection at the time the objection is raised or may the Court hear it first and then deal with it at a later time or in the reasons for judgment?; and
+(b) If the Court must deal with the objection at the time it is raised, are the written agreements between the Appellant and MFA ambiguous?
+[11] This motion is critical as it will impact how and what the Appellant may adduce to support its position. Specifically, the Appellant seeks to use the written agreements along with other extrinsic documents/evidence to demonstrate that the assignments to MFA, in fact, repaid the interim loan made by MFA to purchase the assets, thereby extinguishing any debt and further right to receive income under the lease agreements.
+The Respondent’s Position:
+[12] The Respondent relies primarily on the Federal Court of Appeal decision in The Queen v. General Motors of Canada Limited (“GM Canada”), 2008 FCA 142, 2008 D.T.C. 6381, to argue that the parol evidence rule must be applied and dealt with at the time it is raised, not at a later date in the hearing. This requires a court to examine written documents to first determine if an ambiguity exists. Only where an ambiguity within the documents exists, can the court admit extrinsic evidence which will assist with an interpretation of the ambiguous wording in the documents. As a matter of trial procedure, before any evidence can be considered, it must first be admitted. The Respondent suggests that the decision in GM Canada stands for the proposition that extrinsic evidence may not be examined until a ruling on the parol evidence objection has been made.
+[13] With respect to the second question posed in my Order, the Respondent’s position is that there is no ambiguity in the leasing documents and points to recital D and clause 1 of the Assignment of Lease Agreements dated October 30, 2002 as supporting that position. Those clauses specifically state that the assignment of the lease agreements (payments and assets) to MFA are “security for the advance of funds or financing” which was provided to the Appellant to secure the assets.
+The Appellant’s Position:
+[14] The Appellant’s submissions were disappointing and simply claimed significant prejudice resulting from this motion. The Appellant’s claim that the Respondent should have somehow included this within its Reply is simply incorrect. Part of proper trial preparation is anticipation of such issues, particularly when it is the Appellant that wishes to introduce such evidence. Aside from this, the Appellant appears to have had several days’ notice of the Respondent’s intention to bring this motion at the commencement of the hearing. If any prejudice could be claimed, I believe the Appellant was fairly permitted time to respond in writing when I delayed the hearing of the appeals. Therefore, I do not believe it is in any way helpful for the Appellant to make this claim at this stage. Counsel could have better spent his time addressing the questions for which I directed a written response. Other than the prejudice claim, the Appellant seemed to be saying that a court must always examine the context, background and surrounding circumstances at the time a contract is made.
+When Must the Court Rule on Parol Evidence Objections?
+[15] The Respondent argues that, as a matter of trial procedure, when an objection is made on the basis of the parol evidence rule, that objection must be dealt with immediately, resulting in a determination of the admissibility of extrinsic evidence. There is, of course, some authority that suggests that the parol evidence rule, despite its name, is not a rule of evidence at all but rather substantive contract law. For example, the British Columbia Court of Appeal in Zippy Print Enterprises Ltd. v. Pawliuk, [1994] B.C.J. No. 2778, at paragraph 36, stated:
+The representations in this case were made on behalf of Zippy Print in order to induce Mr. Pawliuk and Mrs. Peniuk to enter into the license agreement. To exclude evidence of the representations on the basis of the Parol Evidence Rule, which is no longer, in the context of trials conducted by judges without juries, a rule of evidence at all, would be absurd. …
+[16] In Wigmore on Evidence, vol. 9 (Boston: Little, Brown and Company, 1981), J.H. Chadbourn, ed., at page 4, the following comments were made:
+(1) First and foremost, the rule is in no sense a rule of evidence, but a rule of substantive law. It does not exclude certain data because they are for one or another reason untrustworthy or undesirable means of evidencing some fact to be proved. It does not concern a probative mental process – the process of believing one fact on the faith of another. What the rule does is to declare that certain kinds of fact are legally ineffective in the substantive law; and this of course … results in forbidding the fact to be proved at all. …
+[17] If this viewpoint were adopted, the Respondent’s argument would fail because a judge would not be offending the laws of evidence by admitting inadmissible evidence. Instead, as a substantive rule of law, a judge would have full discretion to examine it and then assign it weight, if any.
+[18] The Respondent’s position relied primarily on the GM Canada decision in which the Federal Court of Appeal held that C. Miller J. erred in finding certain collective agreement documents to be ambiguous and then considered extrinsic evidence to assist with interpretation.
+[19] In overturning the Tax Court decision in GM Canada, the Federal Court of Appeal examined a number of authorities regarding the parol evidence rule, including the Supreme Court of Canada decisions in Eli Lilly & Co. v. Novopharm Ltd., [1998] 2 S.C.R. 129, and United Brotherhood of Carpenters and Joiners of America, Local 579 v. Bradco Construction Ltd., [1993] 2 S.C.R. 316. At paragraphs 54 to 59 of Eli Lilly & Co., Iacobucci J. stated the following:
+54 The trial judge appeared to take Consolidated-Bathurst to stand for the proposition that the ultimate goal of contractual interpretation should be to ascertain the true intent of the parties at the time of entry into the contract, and that, in undertaking this inquiry, it is open to the trier of fact to admit extrinsic evidence as to the subjective intentions of the parties at that time. In my view, this approach is not quite accurate. The contractual intent of the parties is to be determined by reference to the words they used in drafting the document, possibly read in light of the surrounding circumstances which were prevalent at the time. Evidence of one party's subjective intention has no independent place in this determination.
+55 Indeed, it is unnecessary to consider any extrinsic evidence at all when the document is clear and unambiguous on its face. In the words of Lord Atkinson in Lampson v. City of Quebec (1920), 54 D.L.R. 344 (P.C.), at p. 350:
+... the intention by which the deed is to be construed is that of the parties as revealed by the language they have chosen to use in the deed itself .... [I]f the meaning of the deed, reading its words in their ordinary sense, be plain and unambiguous it is not permissible for the parties to it, while it stands unreformed, to come into a Court of justice and say: "Our intention was wholly different from that which the language of our deed expresses... ."
+56 … to interpret a plainly worded document in accordance with the true contractual intent of the parties is not difficult, if it is presumed that the parties intended the legal consequences of their words. This is consistent with the following dictum of this Court, in Joy Oil Co. v. The King, [1951] S.C.R. 624, at p. 641:
+... in construing a written document, the question is not as to the meaning of the words alone, nor the meaning of the writer alone, but the meaning of the words as used by the writer.
+57 … the parties' intentions are clear on the face of the agreement. Accordingly, it cannot properly be said, in my view, that the supply agreement contains any ambiguity that cannot be resolved by reference to its text. No further interpretive aids are necessary.
+58 More specifically, there is no need to resort to any of the evidence tendered by either Apotex or Novopharm as to the subjective intentions of their principals at the time of drafting. Consequently, I find this evidence to be inadmissible by virtue of the parol evidence rule: see Indian Molybdenum Ltd. v. The King, [1951] 3 D.L.R. 497 (S.C.C.), at pp. 502-3.
+59 Moreover, even if such evidence were required, that is not the character of the evidence tendered in this case, which sheds no light at all on the surrounding circumstances. It consisted only of the subjective intentions of the parties …
+[20] Sopinka J. made the following comments in CJA, Local 579 at pages 341 to 342:
+The general rule prohibiting the use of extrinsic evidence to interpret collective agreements originates from the parol evidence rule in contract law. The rule developed from the desire to have finality and certainty in contractual obligations. It is generally presumed that when parties reduce an agreement to writing they will have included all the necessary terms and circumstances and that the intention of the parties is that the written contract is to be the embodiment of all the terms. Furthermore, the rule is designed to prevent the use of fabricated or unreliable extrinsic negotiations to attack formal written contracts.
+One of the exceptions to the parol evidence rule has always been that where there is ambiguity in the written contract itself, extrinsic evidence may be admitted to clarify the meaning of the ambiguous term. (See Leggatt v. Brown (1899), 30 O.R. 225 (Div. Ct.).) However, determining when one falls within the scope of this exception is far from easy, as even what can be said to constitute a patent ambiguity is unclear. Some authorities have held that there must be more than the arguability of different constructions of the agreement (Re Milk & Bread Drivers, Local 647, and Silverwood Dairies Ltd. (1969), 20 L.A.C. 406), while others suggest that the appropriate test is a lack of clear preponderance of meaning stemming from the words and structure of the agreement (Re Int'l Ass'n of Machinists, Local 1740, and John Bertram & Sons Co. (1967), 18 L.A.C. 362). An ambiguity is to be distinguished from an inaccuracy, a novel result or a mere difficulty in construction. …
+[21] In summing up some of Sopinka J.’s remarks, Nadon J. in GM Canada, at paragraph 34, stated the following:
+[34] After stating that extrinsic evidence is admissible where there is ambiguity in the contract, Sopinka, J. writes that determining whether a provision is ambiguous is "far from easy". Although Sopinka, J. indicates that some cases have sown doubt as to whether arguability of different constructions of a contract constitutes ambiguity, the prevailing case law seems agreed that ambiguity exists when a contractual provision or words thereof are capable of being understood in more ways than one (see G.H.L. Fridman, The Law of Contract in Canada, 5th ed. (Toronto, Thomson Carswell, 2006), p 446, Note 43). In that regard, G.H.L. Fridman, summarizing the relevant case law, says at pp. 445-446:
+... the court should not strain to create an ambiguity that does not exist. It must be an ambiguity that exists in the language as it stands, and not one that is itself created by the evidence that is sought to be adduced.
+However, it can be said with certainty that ambiguity in a written document does not result simply because the document at issue poses difficulties in interpretation.
+[22] Nadon J., at paragraph 35, went on to quote Saunders J. in Gilchrist v. Western Star Trucks Inc. (2000), 73 B.C.L.R. (3d) 102, at page 108, where the relevant principles were summarized as follows:
+…
+The goal in interpreting an agreement is to discover, objectively, the parties' intentions at the time the contract was made. The most significant tool is the language of the agreement itself. The language must be read in the context of the surrounding circumstances prevalent at the time of contracting. Only when the words, viewed objectively, bear two or more reasonable interpretations may the Court consider other matters such as the post-contracting conduct of the parties.
+(Emphasis added)
+[23] At paragraph 36 of GM Canada, Nadon J. summarized three propositions which arise from the authorities:
+[36] A number of propositions emerge from the above authorities. First, failing a finding of ambiguity in the document under consideration, it is not open to the Court to consider extrinsic evidence. Second, where extrinsic evidence may be considered, that evidence must pertain to the "surrounding circumstances which were prevalent at the time". Third, even where there is ambiguity, evidence only of a party's subjective intention is not admissible.
+[24] The Respondent submits that the Federal Court of Appeal in GM Canada uses the terms “admissibility” and “consideration” interchangeably when discussing extrinsic evidence because that evidence would already be before the trial judge. Consequently, according to the Respondent, there is no need to make a distinction between these terms.
+[25] However, I do not agree with the Respondent’s submissions because I believe the Federal Court of Appeal has been consistent with its choice of terminology. Nadon J.’s reasons were consistent throughout in the use of the term “consider” when referencing the parol evidence rule. The decision is replete with examples throughout when the Court discussed whether a judge might “consider” extrinsic evidence. In contrast, when the Court uses the term “admissibility”, it is either referring to the fact that:
+(a) even where extrinsic evidence is permitted to be used, evidence of the subjective intention of the parties remains “inadmissible”; or
+(b) the Court is adopting the terminology of the Supreme Court of Canada; or
+(c) the Court is discussing the “admissibility” of extrinsic evidence as a whole.
+[26] Therefore, I reject the Respondent’s submission that the GM Canada decision stands for the proposition that judges must immediately rule on objections involving the parol evidence rule. Instead, I believe that GM Canada simply and clearly states that judges may only “consider” extrinsic evidence if they determine that written documentation is actually ambiguous. Use of the term “consider” rather than “admit” implies that judges will be free to look at extrinsic evidence and assign it the proper weight once a decision is made respecting the ambiguity of the written agreements. In all cases, however, that evidence which relates to subjective intent of the parties will always be inadmissible, that is, it may not be examined. I do agree that, if the Federal Court of Appeal had used the term “admit” where it chose to use the word “consider” then, I would have concluded differently. In that case, it would have implied that judges could not look at extrinsic evidence because it would first have to be “admitted” which would necessitate an immediate ruling by a judge on the ambiguity of the documents.
+[27] Unlike the view of the Respondent, I believe the Federal Court of Appeal was most careful in its use of the term “consider” and, in summary, I conclude that the decision does not contain any specific statements that direct a judge on such an objection to immediately examine the language of written agreements to determine the existence or not of ambiguity from which flows the decision on the use of extrinsic evidence. After all, judges every day examine evidence with a view to assigning varying degrees of weight, depending on the circumstances of the case. I do not see how invoking the parol evidence rule changes this in any way. In addition, there may well be cases where the volume of documents to be examined by a judge to determine ambiguity would make it prohibitive to do so over a short recess period. A quick from-the-hip assessment of the ambiguity of written documents, so essential to the outcome of a case, can never have been intended. Postponement of an objection respecting the parol evidence rule does not imply that a court would take into account this evidence once it is admitted. Judges hear evidence and constantly make determinations with respect to the proper weight at a later date. I believe that the main principle to be gleaned from the GM Canada decision is straightforward: extrinsic evidence/materials may not be considered absent an ambiguity in written agreements.
+[28] Although there does not appear to be a consensus in the approach taken by Canadian courts to the issue of parol evidence, most courts appear to have admitted the evidence to be heard, followed by an analysis in which weight, if any, was assigned to it later on or in the judgment itself (VSA Highway Maintenance Ltd. v. British Columbia, [2000] B.C.J. No. 1545; Shearwater Marine Ltd. v. Guardian Insurance Co. of Canada, [1997] B.C.J. No. 519; Osooli-Talesh v. Emami, [2008] B.C.J. No. 155).
+[29] In conclusion, I do not believe that judges are bound to rule immediately on the admissibility of extrinsic evidence at the time of an objection based on the parol evidence rule and may, depending on the circumstances, determine that it be admitted and assigned the proper weight, if any, at a later date. This is simply in keeping with what judges do every day. It may be that a judge, faced with a short concise document, could make an immediate determination respecting ambiguity at the time of the objection. In other instances, that may not be expedient due to the voluminous number of documents to be reviewed and assessed.
+[30] Therefore, I conclude that I would have been correct in admitting the extrinsic evidence/materials proposed by the Appellant when the objection was made and assessed the weight, if any, to be assigned once I had determined the existence or not of ambiguity in the leasing program documents. However, since I have requested submissions and I have had ample time to review those leasing documents, it is only fair to both parties that I provide a ruling on the objection in these Reasons.
+Are the Written Agreements Ambiguous?
+[31] After examining the Supreme Court of Canada decision in CJA, Local 579, the Federal Court of Appeal in GM Canada stated at paragraph 34 that:
+… the prevailing case law seems agreed that ambiguity exists when a contractual provision or words thereof are capable of being understood in more ways than one …
+I believe the decision of the Federal Court of Appeal provides five further general guidelines in determining whether ambiguity exists:
+(1) The Court should not strain to find ambiguity that does not exist;
+(2) The ambiguity must exist in the word/document itself, not from further evidence;
+(3) Complexity in interpreting a contract does not amount to ambiguity;
+(4) The words must be ambiguous when reviewed objectively; and
+(5) Evidence relating to the subjective intention of the parties may not be admitted as evidence.
+[32] According to the Federal Court of Appeal, C. Miller J.’s error was in failing to heed guideline number two above – that is, he found ambiguity not in the words/documents themselves but rather from further evidence which the parties presented. At paragraph 46, Nadon J. stated:
+… In my respectful view, the Judge fell in the trap which Fridman refers to in The Law of Contract in Canada, above, when he says at page 446, that "the ambiguity found by the court must not be one that results from the evidence which the parties wish to present". …
+[33] Consequently, I do not believe the Respondent is correct when he states:
+… The proposition we say that [GM Canada] stands for is that a court should not easily find that a term is ambiguous. …
+(Transcript, page 68)
+On the contrary, it would appear that the Federal Court of Appeal in GM Canada was merely highlighting some of the traps that may cause a judge to err when making a determination respecting ambiguity.
+[34] In the present appeals, to determine whether the leasing program agreements are ambiguous, it is necessary to determine if the terms of these agreements can be interpreted to mean both that:
+(1) the assignment of assets, lease agreements and lease revenue was completed by the Appellant as security for its indebtedness to MFA; and
+(2) the assignment of assets, lease agreements and lease revenue was an absolute assignment by the Appellant as repayment of its indebtedness to MFA.
+[35] The Respondent’s position is that the assignment was completed as security and cited several examples of wording within the documents to support this submission:
+(a) “assign all accounts … as security for financing;
+(b) assign all lease agreements … as security for the funding; and
+(c) On-Line hereby grants … a continuing and specific security interest in …”.
+[36] The Appellant did not, either at trial or in his written submissions, address the examples cited by the Respondent. Instead, he simply stated that the Respondent had misinterpreted and misrepresented the Appellant’s written agreements. I believe that it is telling that, despite having two months to examine this issue and prepare submissions, the Appellant did not attempt to explain why the contracts are ambiguous nor did he attempt to rebut the Respondent’s arguments.
+[37] An argument could be made that the phrase “security for the funding” could be interpreted to mean that the assignment was made as security for the benefit of MFA for the funding which requires interpreting the word “security” as being a reference to the relationship between MFA and the lessees, the various municipalities. However, if I seriously entertained this possible second interpretation, I would be clearly violating the guideline set down in GM Canada which states that a court should not strain to find ambiguity. In my opinion, the leasing program documents contain no ambiguity and, therefore, the Appellant will not be permitted to introduce extrinsic evidence to assist in explaining the documents.
+[38] More specifically, at the hearing, the Appellant attempted to introduce correspondence “… between the two parties, the principal players representing the two parties to the agreement, setting out what their initial discussions were … [h]ow this agreement developed” (Transcript, page 104). I do not believe this correspondence could now be admitted for two reasons: my conclusion that the leasing documents on their face are not ambiguous and also this correspondence is clearly evidence of subjective intent of the parties, which is never admitted.
+[39] If I had pursued a different course of action when the objection was made during the hearing, then I would have allowed the evidence in and dealt with it in my reasons. The only difference is that it would have been at the end of the day before I assigned the extrinsic evidence no weight. With the submissions and the time period I have had to adequately examine and review the documents for ambiguity, it is not necessary now to admit this evidence.
+[40] In summary, I have concluded the following:
+(1) A court is not required to make a ruling on the parol evidence rule at the time such objection is made and GM Canada does not stand for that proposition;
+(2) The courts’ use of the term “consider” rather than “admit” in GM Canada implies that a court may hear extrinsic evidence and then assign it weight, if any;
+(3) With the ample time to examine the documents, I conclude that objectively there is no ambiguity contained in the documents making the introduction of extrinsic evidence now unnecessary; and
+(4) The evidence sought to be introduced by the Appellant is subjective intention evidence, which may never be introduced.
+[41] The hearing shall resume at 9:30 a.m. on Tuesday, April 13, 2010.
+Signed at Kelowna, British Columbia, this 2nd day of March 2010.
+"Diane Campbell"
+Campbell J.
+CITATION: 2010 TCC 117
+COURT FILE NO.: 2006-2175(IT)G
+STYLE OF CAUSE: On-Line Finance & Leasing Corporation and Her Majesty The Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATES OF HEARING: November 16 and 17, 2009
+REASONS FOR ORDER BY: The Honourable Justice Diane Campbell
+DATE OF ORDER: March 2, 2010
+APPEARANCES:
+Counsel for the Appellant:
+John C. Drove
+Counsel for the Respondent:
+Carl Januszczak
+Andrew Majawa
+COUNSEL OF RECORD:
+For the Appellant:
+Name: John C. Drove
+Firm: John Drove Law Corporation
+Vancouver, British Columbia
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

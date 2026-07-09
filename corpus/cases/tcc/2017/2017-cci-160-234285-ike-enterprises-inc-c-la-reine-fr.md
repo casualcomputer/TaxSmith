@@ -1,0 +1,268 @@
+---
+title: "Ike Enterprises Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/234285/index.do"
+last_modified: "2017-08-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 160"
+citation2: ""
+neutral_citation: "2017 CCI 160"
+decision_date: "2017-08-25"
+language: "fr"
+item_id: "234285"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2187
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:24:35.942000+00:00"
+cases_cited_count: 9
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b43a0d21945f9961362739fdb035b2d3e479ea55a07626de43e77bb7e488b133"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ike Enterprises Inc. c. La Reine
+
+- Citation: 2017 CCI 160
+- Decision date: 2017-08-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2187, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ike Enterprises Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-08-25
+Référence neutre
+2017 CCI 160
+Numéro de dossier
+2013-4000(GST)G
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2013-4000(GST)G
+ENTRE :
+IKE ENTERPRISES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 5 octobre 2016, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Avocats de l’appelante :
+Me Michel Bourque
+Me Jacqueline A. Fehr
+Avocats de l’intimée :
+Me Victor Caux
+Me Matthew Turnell
+ORDONNANCE
+Des dépens de 95 109 $ sont adjugés à l’appelante, conformément aux motifs de l’ordonnance relative aux dépens ci-joints.
+Signé à Ottawa, Canada, ce 25e jour d’août 2017.
+« Guy Smith »
+Le juge Smith
+Traduction certifiée conforme
+ce 25e jour de juin 2019.
+Mario Lagacé, jurilinguiste
+Référence : 2017 CCI 160
+Date : 20170825
+Dossier : 2013-4000(GST)G
+ENTRE :
+IKE ENTERPRISES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE RELATIVE AUX FRAIS ET DÉPENS
+Le juge Smith
+I. Aperçu
+[1] Les motifs du jugement dans le présent appel ont été rendus le 12 avril 2017 (2017 CCI 59), et des frais et dépens ont été adjugés en faveur de l’appelante. Les parties n’ont pas été en mesure de s’entendre sur le montant des frais et dépens et ont maintenant présenté des observations à la Cour.
+[2] L’appelante demande des dépens indemnitaires substantiels au titre du paragraphe 147(3.1) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») parce qu’elle a signifié une offre de règlement aussi favorable que le jugement rendu. Elle réclame 90 882 $, ce qui représente 80 % des dépens établis sur une base procureur‑client engagés après la date de l’offre.
+[3] L’intimée s’oppose au montant des dépens indemnitaires substantiels demandés au motif qu’ils n’ont pas été raisonnablement engagés et que, de toute façon, l’appelante a conclu avec son avocat un arrangement en matière d’honoraires qui limite le montant de ses dépens établis sur une base procureur‑client à 19 432 $ (à l’exclusion des débours). Par conséquent, l’appelante ne devrait pas avoir droit à plus de 80 % de ce montant.
+[4] Le droit de l’appelante à des dépens indemnitaires substantiels à la suite de l’offre de règlement n’est pas contesté, et la question principale est entièrement liée au montant des dépens adjugés.
+II. Contexte et faits pertinents
+[5] À l’audition de l’appel, la question était de savoir si trois catégories de produits alimentaires étaient des fournitures détaxées aux fins de la Loi sur la taxe d’accise, L.R.C., 1985, ch. E‑15. Le montant total de la TPS/TVH en litige était de 63 949 $.
+[6] La Cour a conclu que seulement deux des trois produits étaient détaxés, et l’affaire a été renvoyée au ministre du Revenu national pour réexamen et nouvelle cotisation pour ce motif. Sous réserve de cette cotisation finale, l’appelante a droit à un remboursement de 38 865 $ plus les intérêts et les pénalités.
+[7] Dans le cadre de leurs observations sur les frais et dépens, les parties ont informé la Cour que le jugement rendu était aussi favorable que l’offre de règlement faite par l’appelante le 3 juin 2014, laquelle avait été rejetée par l’intimée. L’intimée n’a pas suggéré de contre-offre.
+[8] La Cour a également été avisée que les avocats de l’appelante avaient conclu avec l’appelante un arrangement en matière d’honoraires comprenant deux stipulations que je décrirais de la façon suivante :
+1. Des « honoraires fixes variables » d’un montant de 7 500 $ pour le temps consacré à l’affaire, plus 5 000 $ si l’affaire était instruite, quel que soit le résultat, plus un montant de 2 500 $ si le recouvrement dépassait 10 000 $ et 50 % de tout recouvrement supérieur à 30 000 $;
+2. Si la Cour adjugeait des dépens en sus du tarif B (les « dépens majorés »), le montant ainsi ordonné, le cas échéant, mis à part le fait que les honoraires fixes variables susmentionnés devaient être réduits de 20 % à 90 % en fonction du montant de l’adjudication.
+[9] Étant donné que l’appelante avait droit à un remboursement de 38 865 $, comme il est indiqué ci-dessus, cela entraînerait des honoraires fixes variables de 19 433 $. Ce montant pourrait être réduit jusqu’à 90 % ou ramené à aussi peu que 1 943 $ si la Cour allouait des dépens majorés.
+[10] KPMG Law a présenté un mémoire de frais pour 272,90 heures qui indiquait que 229,80 de ces heures concernaient des services rendus après la signification de l’offre de règlement. La différence (43,10) représente les services rendus depuis le début du contrat en septembre 2013 jusqu’à la remise de l’offre le 3 juin 2014.
+[11] L’avocat de l’appelante a présenté une copie de ses feuilles de temps et a indiqué que certains rajustements avaient été apportés lors de la préparation du mémoire de frais (c.-à-d. le temps de déplacement a été exclu), et certains taux horaires ont été réduits. Par exemple, celui de Me Michel Bourque est passé de 1 065 $ à 800 $ l’heure, et celui de Me Jacqueline Fehr, de 860 $ à 450 $ (2015) et à 475 $ (2016). D’autres avocats et stagiaires en droit sont intervenus, et de plus amples détails ont été fournis dans les exposés. Au bout du compte, les heures enregistrées après le 3 juin 2014 étaient les suivantes :
+[EN BLANC]
+100 %
+80 %
+M. Meredith (Ont. 1985*) 1,2 heure / 950 $
+1 140 $
+912 $
+G. Grenon (Alb. 1995) 2,8 heures / 800 $
+2 240 $
+1 792 $
+M. Bourque (N.‑B. 1997*) 51,3 heures / 800 $
+41 040 $
+32 832 $
+J. Fehr (C.‑B. 2011) 110,6 heures / divers
+48 367 $
+38 693 $
+W. House (C.‑B. 2014) 52,4 heures / 350 $
+18 340 $
+14 672 $
+M. Angel (stagiaire) 11,5 / 250 $
+2 875 $
+2 300 $
+Total
+114 002 $
+90 882 $
+*première date d’admission au barreau; également membre d’un autre barreau.
+[12] Les chiffres ne concordent pas parfaitement (il y a un écart de 320 $), mais quoi qu’il en soit, il est clair que les dépens indemnitaires substantiels réclamés par l’appelante sont de 90 882 $ (selon un taux de 80 % plus ou moins) sur un total de 114 002 $. L’appelante demande également 525 $ conformément au tarif B ainsi que des frais remboursables.
+[13] Même s’il n’est pas tout à fait clair quels frais juridiques ont été à ce jour facturés à l’appelante, il semble clair que la facture finale n’a pas encore été préparée.
+III. Le droit applicable
+[14] L’appelante prétend avoir droit à des dépens indemnitaires substantiels au titre des paragraphes 147(3.1) à (3.8) qui ont été ajoutés aux Règles le 7 février 2014 (et ces changements correspondent à la Directive sur la procédure no 18 diffusée le 31 janvier 2011). Ces paragraphes prévoient ce qui suit :
+(3.1) Sauf directive contraire de la Cour, lorsque l’appelant fait une offre de règlement et qu’il obtient un jugement qui est au moins aussi favorable que l’offre de règlement, l’appelant a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+(3.2) Sauf directive contraire de la Cour, lorsque l’intimée fait une offre de règlement et que l’appelant obtient un jugement qui n’est pas plus favorable que l’offre de règlement, ou que l’appel est rejeté, l’intimée a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+(3.3) Les paragraphes (3.1) et (3.2) ne s’appliquent que si l’offre de règlement :
+a) est faite par écrit;
+b) est signifiée au moins trente jours après la clôture de la procédure écrite et au moins quatre-vingt-dix jours avant le début de l’audience;
+c) n’est pas retirée;
+d) n’expire pas moins de trente jours avant le début de l’audience.
+(3.4) Il incombe à la partie qui invoque le paragraphe (3.1) ou (3.2) de prouver :
+a) qu’il existe un rapport entre la teneur de l’offre de règlement et le jugement;
+b) que le jugement est au moins aussi favorable que l’offre de règlement ou qu’il n’est pas plus favorable que l’offre de règlement, selon le cas.
+(3.5) Pour l’application du présent article, les dépens indemnitaires substantiels correspondent à 80 % des dépens établis sur une base procureur-client.
+[…]
+(3.8) Tant qu’une décision n’aura pas été rendue sur toutes les questions en litige, à l’exception de celle relative aux dépens, aucune communication concernant une offre de règlement n’est faite à la Cour, sauf à un juge qui préside une conférence dans le cadre d’une instance et qui n’est pas celui qui présidera l’audition de cet appel.
+[Non souligné dans l’original.]
+[15] Il semble évident que l’objectif de cette règle est d’encourager les parties à évaluer la solidité de leurs causes respectives et d’envisager un règlement à un stade précoce. Elle le fait en établissant un droit par défaut à 80 % des dépens établis sur une base procureur‑client engagés après la date de l’offre sans qu’il soit nécessaire de démontrer que les actes d’une partie étaient quelque peu malveillants, vexatoires, inappropriés ou inutiles.
+[16] Le but des dépens indemnitaires substantiels et, au bout du compte, le rôle de la Cour dans la taxation de ces dépens, est d’accorder une pleine indemnisation pour la totalité des frais et dépens, y compris les honoraires et débours raisonnablement engagés par la partie qui a gain de cause (Scott Paper Co. v. Minnesota Mining and Manufacturing Co., [1982] O.J. 917, au par. 4; Colombie-Britannique (Ministre des Forêts) c. Bande indienne Okanagan, 2003 CSC 71 (« arrêt Okanagan »), au par. 21; et Sun Life du Canada, compagnie d’assurance-vie c. La Reine, 2015 CCI 171) (« décision Sun Life »), au par. 71).
+[17] J’ajouterai que, même si le principe de l’indemnisation complète des frais et dépens et, en particulier, des dépens établis sur une base procureur‑client, a traditionnellement été perçu comme la « considération primordiale » (arrêt Okanagan, au par. 23) dans l’adjudication de dépens, cette perception s’est élargie au fil des ans. En effet, plus récemment, les dépens ont été reconnus comme un moyen d’encourager le règlement des affaires, de décourager les actions et les défenses frivoles et de décourager les litiges inutiles (Fellowes, McNeil v. Kansa International Insurance Co. (1997), 37 O.R. (3e) 464 (Div. gén.) (« décision Fellowes »), au par. 10; et Acsis EHR (Electronic Health Record) Inc. c. La Reine, 2016 CCI 50 (« décision Acsis »), au par. 26).
+A. Pouvoir discrétionnaire de la Cour
+[18] Le préambule « [s]auf directive contraire de la Cour » et l’expression « dépens indemnitaires substantiels que fixe la Cour » qui figurent aux paragraphes 147(3.1) et (3.2) donnent à penser que la Cour conserve un vaste pouvoir discrétionnaire au moment d’évaluer et de déterminer le montant des dépens indemnitaires substantiels, malgré la définition claire des « dépens indemnitaires substantiels » au paragraphe 147(3.5).
+[19] Plusieurs décisions récentes de la Cour ont confirmé que, même lorsqu’on peut dire qu’une partie a obtenu « un jugement qui est au moins aussi favorable que l’offre de règlement », comme il est énoncé aux paragraphes 147(3.1) or (3.2), la Cour conserve un vaste pouvoir discrétionnaire au moment de taxer les dépens établis sur une base procureur‑client en vue de déterminer le montant approprié des dépens indemnitaires substantiels (Golini c. La Reine, 2016 CCI 247, au par. 5; Compagnie d’assurance Standard Life du Canada c. La Reine, 2015 CCI 138, au par. 4; et décision Sun Life, précitée, au par. 9). En effet, si la Cour estime que ce sont des « actes douteux » de la part d’une partie ou « le caractère flagrant des actes » qui a indûment prolongé l’instance, la Cour peut adjuger des dépens indemnitaires substantiels dépassant 80 % (mais il faut « agir avec prudence ») (Repsol Canada Ltd. c. La Reine, 2015 CCI 154, au par. 10).
+B. Arrangements en matière d’honoraires
+[20] Dans l’exercice de son pouvoir discrétionnaire à l’égard des frais et dépens, la Cour peut devoir tenir compte de l’incidence d’un arrangement en matière d’honoraires entre une partie qui a gain de cause et son avocat et, ce faisant, déterminer s’il s’agit d’un arrangement en matière d’honoraires conditionnels en fonction des résultats obtenus à l’instance ou s’il s’agit d’un arrangement qui limite l’obligation d’une partie qui a gain de cause à l’égard de dépens établis sur une base procureur‑client.
+[21] Un arrangement en matière d’honoraires conditionnels comprend généralement une prime de risque, et la « condition » ou l’événement déclencheur est normalement lié au succès ou aux résultats obtenus au procès. L’avocat de la partie qui a gain de cause aura droit à des honoraires fondés sur un pourcentage convenu des résultats obtenus (selon la réglementation des divers barreaux provinciaux). Comme nous le verrons ci-dessous, un tel arrangement en matière d’honoraires ne sera probablement pas pertinent pour une taxation des dépens établis sur une base procureur‑client.
+[22] Dans l’arrêt Walker c. Ritchie, 2006 CSC 45, [2006] 2 R.C.S 428 (« Walker c. Ritchie »), la Cour suprême du Canada a examiné une convention d’honoraires conditionnels et, dans le contexte d’une adjudication des dépens, a conclu ce qui suit (par. 28) :
+[…] Les défendeurs qui succombent doivent pouvoir supposer qu’ils seront condamnés, au titre des dépens, à des sommes similaires à celles accordées dans des litiges analogues montrant des similarités relativement à la conduite des parties et aux avocats en présence, et ce, quels que soient les arrangements conclus par les demandeurs et leurs avocats.
+[Non souligné dans l’original.]
+[23] La Cour a appliqué cette décision dans la décision Sun Life, où l’appelante qui a gain de cause a demandé des dépens indemnitaires substantiels après avoir signifié une offre de règlement plus favorable que le jugement obtenu. L’appelante a déposé un mémoire de frais tout en reconnaissant que les honoraires facturés par l’avocat étaient beaucoup plus élevés et calculés à environ 25 % des impôts recouvrés à l’audience. Le juge Owen a déclaré que le rôle de la Cour consistait à déterminer si les dépens établis sur une base procureur‑client ont été raisonnablement engagés sans tenir compte de l’arrangement en matière d’honoraires conditionnels qu’il a qualifié d’« arrangement spécial négocié par les parties » que l’intimée ne pouvait être tenue de rembourser (décision Sun Life, précitée, au par. 26).
+[24] Toutefois, comme il est indiqué ci-dessus, des considérations différentes peuvent survenir si un arrangement en matière d’honoraires limite l’obligation d’une partie qui a gain de cause à l’égard des dépens établis sur une base procureur‑client. Cela découle du principe selon lequel une partie doit avoir réellement contracté une obligation légale de payer les services qu’elle a obtenus de la part d’un avocat (W. H. Brady Co. c. Letraset Canada Ltd. (C.A.) (1991), 2 C.F. 226, au par. 9).
+[25] Le juge Roy a récemment abordé cette question dans l’arrêt Hervé Pomerleau Ont. Inc. v. The City of Ottawa, 2014 ONSC 1496 (« Hervé Pomerleau »), où les avocats de la partie qui a gain de cause avaient accepté un [TRADUCTION] « taux pondéré de 171 $ l’heure » (par. 6). Dans une demande de dépens indemnitaires substantiels, la partie qui succombe a soutenu qu’elle ne devrait pas être responsable d’un montant supérieur à celui établi :
+[TRADUCTION]
+[9] En fait, il ressort très clairement de la jurisprudence qu’une partie qui a gain de cause n’a pas droit à des frais et dépens supérieurs à son obligation envers son client. Dans l’arrêt Clark c. Nash, [1990] B.C.J. 727, la Cour d’appel de la Colombie-Britannique a dit, et je cite :
+[TRADUCTION]
+Au bout du compte, les avocats ne sont pas en désaccord sur le droit. Ils conviennent que le droit aux dépens tient à l’obligation pour le client de payer le procureur. L’adjudication de frais et dépens constitue une indemnisation relativement à cette obligation. Les frais et dépens ne peuvent pas dépasser le montant de l’obligation.
+Ce principe a été approuvé par nos tribunaux, notamment la Cour d’appel […]
+[Non souligné dans l’original.]
+[26] Le juge Roy a fixé à 250 000 $ les dépens établis sur une base procureur‑client et les a ensuite réduits à 188 000 $, montant déterminé comme étant [TRADUCTION] « l’obligation du défendeur envers ses avocats » (par. 15).
+[27] Il n’y a aucune raison de douter que ce principe s’applique à la Cour. Cependant, la Cour doit être convaincue que l’arrangement en matière d’honoraires limite réellement l’obligation du client à l’égard des frais et dépens. Si ce n’est pas clairement le cas, la Cour devrait certainement se montrer réticente à limiter l’adjudication des dépens établis sur une base procureur‑client dans ces conditions.
+[28] À titre d’exemple, dans la décision Zeleny v. Zeleny, 69 O.R. 287, (2004) O.J. 138, (« la décision Zeleny »), l’avocat dans un litige matrimonial avait conclu un arrangement financier aux termes duquel il facturait tous les services juridiques rendus [TRADUCTION] « à un taux horaire de 90 $ l’heure […] ou les coûts réels recouvrés, selon le montant le plus élevé » (par. 4).
+[29] Dans la décision Zeleny, le client a finalement eu gain de cause, et l’avocat a demandé une adjudication de frais et dépens au taux horaire de 195 $. La Cour a jugé que ce montant était un taux horaire acceptable et a ajouté que [TRADUCTION] « […] afin de répondre à l’objectif fondamental d’encourager les règlements, on ne devrait pas interpréter l’arrangement en matière d’honoraires comme constituant une limite supérieure des frais et dépens entre parties autrement payables à la partie ayant gain de cause » (par. 18). Je considérerais ces commentaires comme étant conformes aux points de vue exprimés dans l’arrêt Okanagan et les décisions Fellowes et Acsis, mentionnés ci-dessus.
+IV. Analyse et conclusion
+A. Quelle était la nature de l’arrangement en matière d’honoraires?
+[30] Comme il est indiqué ci-dessus, l’intimée soutient que l’arrangement en matière d’honoraires entre l’appelante et son avocat limite les dépens établis sur une base procureur‑client pour lesquels l’appelante peut être responsable et qu’en conséquence, elle ne peut être responsable de plus de 80 % cette somme. Je ne souscris pas à cette interprétation.
+[31] J’estime que l’arrangement en matière d’honoraires ne visait pas à limiter la responsabilité de l’appelante à l’égard des dépens établis sur une base procureur‑client si l’appel était accueilli, comme il l’a été au bout du compte.
+[32] J’interprète plutôt l’arrangement en matière d’honoraires comme signifiant que l’appelante serait responsable des honoraires du procureur et des frais outre les honoraires fixes variables, à condition que l’appel ait été accueilli et que ces frais aient été engagés, comme en font foi les feuilles de temps et comme la Cour l’a par ailleurs confirmé dans le processus de taxation des dépens.
+[33] L’intimée a laissé entendre que les dépens établis sur une base procureur‑client au-delà des honoraires fixes variables (et des débours) n’existaient pas en l’absence d’une adjudication de frais et dépens par la Cour. Je ne suis pas d’accord et j’estime que c’est une analyse trop simpliste. L’appelante ne vient pas simplement quémander et demander une adjudication de frais et dépens. Elle a présenté un mémoire de frais étayé par des feuilles de temps et a demandé des dépens indemnitaires substantiels, comme elle a le droit de le faire en invoquant l’offre de règlement.
+[34] À mon avis, la Cour doit tenir compte de la réalité commerciale de la relation entre un avocat et son client dans laquelle des services sont rendus, toutes les heures sont enregistrées, et une facture finale est préparée et rajustée en fonction d’une foule de facteurs, comme les résultats obtenus, le montant en jeu et l’importance de l’affaire pour le client. Il pourrait y avoir d’autres facteurs, mais au bout du compte, la facture finale constituera les dépens établis sur une base procureur‑client, comme c’est le cas entre l’avocat et son client.
+[35] La facture finale décrite ci-dessus donnera lieu à une obligation juridique de payer. Si un client n’est pas satisfait du montant de la facture finale, il pourrait décider de la contester en la faisant taxer par un officier taxateur nommé par la cour supérieure appropriée. Un avocat peut aussi, par excès d’équité ou pour résoudre un différend, offrir que la facture finale soit taxée de cette manière et qu’il soit lié par les résultats. Or, le processus de taxation d’une facture d’honoraires juridiques ne modifie pas la nature fondamentale de la relation entre un avocat et son client.
+[36] En l’espèce, l’avocat de l’appelante avait accepté, de façon prospective (c.‑à‑d. au début du contrat), de faire taxer par la Cour ses dépens établis sur une base procureur‑client, probablement parce qu’il prévoyait que l’appelante pourrait se voir allouer des frais et dépens au-delà des sommes prévues au tarif B, comme ils lui ont été accordés d’ailleurs. Le fait que la Cour soit maintenant engagée dans le processus de détermination des dépens indemnitaires substantiels ne signifie pas que les frais et dépens soient complètement distincts de l’obligation ou de la responsabilité de l’appelante à l’égard des dépens établis sur une base procureur‑client.
+[37] En d’autres termes, il est clair pour la Cour que, peu importe le montant qui pourrait être taxé au titre de dépens indemnitaires substantiels, l’avocat de l’appelante a accepté d’être lié par cette taxation et de facturer le montant à l’appelante en conséquence. Je considérerais cela comme l’accord réciproque des parties.
+[38] Tout comme la situation dans l’affaire Zeleny mentionnée ci-dessus, l’arrangement en matière d’honoraires (et notamment les honoraires fixes) visait à limiter le montant des dépens sur la base procureur‑client que l’appelante serait tenue de payer si l’appel était rejeté, tout en garantissant un montant minimum d’honoraires pour l’avocat. Cet arrangement l’a fait en prévoyant que l’appelante ne serait responsable que de frais et dépens de 12 500 $ (7 500 $ plus 5 000 $).
+[39] L’arrangement en matière d’honoraires prévoyait également que, si l’appel était accueilli, les honoraires fixes variables seraient rajustés à la hausse en fonction du montant de l’impôt recouvré (ce qui n’est pas contesté par l’intimée). L’avocat demanderait également à la Cour d’adjuger des frais et dépens, et le montant ainsi alloué, le cas échéant, constituerait les « dépens majorés » qui seraient facturés à l’appelante. À mon avis, cela ne va pas à l’encontre du principe de l’indemnisation pour des frais réellement engagés.
+[40] Contrairement à la position adoptée par l’intimée, je ne suis pas d’avis que les dépens majorés soient « théoriques » ou « hypothétiques » puisque le montant des frais et dépens alloués par la Cour sera facturé à l’appelante. Il faut distinguer cela de la situation exposée dans l’affaire Sun Life, précitée, où la partie ayant gain de cause avait déjà accepté de payer un pourcentage des impôts recouvrés, ce qui a amené le juge Owen à conclure que les taux horaires étaient des « taux hypothétiques » (par. 26). Ce n’est pas le cas en l’espèce.
+[41] Pour la plupart des mêmes raisons, je ne suis pas d’accord avec l’intimée pour dire que la Cour devrait simplement faire fi de la disposition sur les dépens majorés au motif que les frais et dépens appartiennent à l’appelante et que seul l’avocat, et non l’appelante, profitera de l’adjudication de dépens indemnitaires substantiels au-delà des honoraires fixes variables.
+[42] Au bout du compte, j’admets l’argument de l’appelante selon lequel l’arrangement en matière d’honoraires n’avait pas pour but de modifier l’obligation juridique de l’appelante de payer pour les services juridiques rendus si l’appel était accueilli. Il visait à faire en sorte que l’appelante soit en mesure d’obtenir une représentation juridique appropriée et était structuré de manière à limiter l’exposition de l’appelante à des dépens advenant le rejet de l’appel. Je dois partir du principe que l’avocat de l’appelante était prêt à accepter le risque qu’une grande partie de ses heures enregistrées soit radiée si l’appel était finalement rejeté. C’était l’accord convenu entre les deux parties.
+[43] J’ajouterai seulement que les arrangements en matière d’honoraires et, en particulier, les arrangements en matière d’honoraires conditionnels, sont généralement réglementés par les divers barreaux. Puisque cette affaire a été instruite en Colombie-Britannique, je dois présumer que la Legal Profession Act (S.B.C. 1998, ch. 9), s’appliquerait. Conformément à cette loi, il existe diverses limites et restrictions et, dans certains cas, l’arrangement est sujet à l’approbation de la Cour supérieure, bien que la Cour n’ait reçu aucune observation au sujet de cette dernière question et qu’aucune n’ait été sollicitée. Ce point est simplement soulevé pour préciser que la Cour n’exprime aucune opinion sur la conformité ou non de l’arrangement en matière d’honoraires dont il est question. Quoi qu’il en soit, je suis d’avis que ces facteurs ne sont pas directement liés à la tâche consistant à taxer les dépens sur la base procureur‑client en fonction du mémoire de frais et des feuilles de temps soumis.
+[44] Pour conclure sur cette question, je suis convaincu que l’arrangement en matière d’honoraires, notamment les honoraires fixes variables, ne limite pas l’obligation de l’appelante de payer des dépens en ce qui concerne sa relation avec son avocat si l’appel est finalement accueilli, comme il l’a été, et que les dépens majorés décrits dans l’arrangement en matière d’honoraires ne sont ni théoriques ni hypothétiques, car il existe un lien clair avec les dépens sur la base procureur‑client réellement engagés. La question restante est de savoir si ces frais et dépens ont été raisonnablement engagés.
+B. Les frais et dépens ont-ils été raisonnablement engagés?
+[45] Puisque j’ai déjà conclu que l’arrangement en matière d’honoraires ne limite pas les dépens sur la base procureur‑client de l’appelante si l’appel est accueilli, il n’est pas nécessaire d’examiner les divers arguments avancés par l’intimée selon lesquels l’adjudication de frais et dépens, outre les 21 000 $, serait assimilable à des « dommages-intérêts punitifs » et que ces frais et dépens ne pourraient être accordés que si la Cour concluait [TRADUCTION] « qu’il y a eu conduite répréhensible, scandaleuse ou outrageante d’une des parties » (paragraphes 28 et 30 des observations de l’intimée). Ces considérations ne sont pas pertinentes.
+[46] L’intimée soutient également que le montant total en cause était relativement faible (un remboursement d’impôt potentiel de 63 949 $) et que [TRADUCTION] « aucune partie qui succombe ne pouvait raisonnablement s’attendre à devoir assumer des dépens correspondant à 180 % du montant en cause ». Bien que cela semble refléter le principe selon lequel « [l]es défendeurs qui succombent doivent pouvoir supposer qu’ils seront condamnés, au titre des dépens, à des sommes similaires à celles accordées dans des litiges analogues montrant des similarités relativement à la conduite des parties et aux avocats en présence […] » (arrêt Walker c. Ritchie, par. 28), je suis d’avis que les mots « dans des litiges analogues » ne devraient pas se limiter au montant en cause. Différents contribuables seront motivés par différentes considérations.
+[47] Si la seule considération était le montant d’un éventuel remboursement d’impôt, l’intimée pourrait rejeter toutes les offres de règlement en toute impunité, déployer ses vastes ressources là où elle estimait que des considérations stratégiques étaient en jeu et, si elle échouait, faire valoir qu’elle ne devrait pas être tenue de payer des dépens indemnitaires substantiels à l’égard d’un si petit montant.
+[48] Bien que la Cour ne soit pas en désaccord avec la notion selon laquelle le montant des frais et dépens doit être déterminé par rapport à [TRADUCTION] « l’attente raisonnable de la partie qui succombe » (décision Hervé Pomerleau, par. 12), la Cour doit d’abord établir quelle serait une attente raisonnable en l’espèce.
+[49] L’intimée savait que l’appelante était représentée par un cabinet d’avocats national et qu’il participait inévitablement à toutes les étapes de l’instruction. Faute d’observations particulières, je dois supposer que les feuilles de temps de l’intimée sont très semblables à celles de l’appelante. Et bien que les taux horaires puissent différer considérablement, j’ai conclu que les taux horaires facturés par l’avocat de l’appelante ne sont pas incompatibles avec ceux d’un avocat principal comparable.
+[50] Puisque la règle des dépens indemnitaires substantiels comprend déjà un escompte automatique de 20 %, il convient de partir du principe que tous les frais et dépens ont été raisonnablement engagés et que la Cour devrait résister à la tentation de remettre en question l’évaluation de l’avocat concernant le temps consacré à un appel. De plus, le pouvoir discrétionnaire de la Cour de passer outre au droit à des dépens indemnitaires substantiels ne devrait être exercé qu’avec parcimonie et uniquement selon des principes établis (décision Sun Life, précitée, par. 22, 23 et 10).
+[51] Comme il est indiqué ci-dessus, les paragraphes 147(3.1) et (3.2) et la disposition relative aux dépens indemnitaires substantiels, le paragraphe 147(3.5), visent à encourager les parties à évaluer la solidité de leurs positions respectives et à envisager un règlement à un stade précoce de l’instance. Il s’ensuit qu’une partie qui rejette une offre de règlement doit assumer les risques et supporte toutes les conséquences de cette décision.
+[52] Dans la présente affaire, la Cour considère que l’offre de règlement en cause est à la fois approfondie et exhaustive. Elle contient un examen complet et un exposé justificatif convaincant des faits et des questions de droit sur cinq pages et représente une tentative sérieuse de règlement à un stade précoce de l’instance.
+C. Les dépens indemnitaires substantiels
+[53] La taxation des dépens n’est pas une science exacte, mais la Cour se penchera généralement sur les diverses considérations énoncées aux alinéas 147(3)a) à j) des Règles, afin de voir s’il y a lieu de rajuster les dépens établis sur la base procureur‑client qui sont réclamés. Après avoir examiné ces dispositions, la Cour conclut qu’il n’y a pas de principes établis permettant de réduire de quelque manière importante que ce soit les dépens établis sur la base procureur‑client qui sont réclamés.
+[54] Compte tenu du pouvoir discrétionnaire prépondérant de la Cour, comme il est indiqué ci-dessus, et du caractère exhaustif de l’offre de règlement, le fait qu’elle ait été remise peu après la clôture des actes de procédure et plus de 24 mois avant la date de l’audience, je taxerais les dépens établis sur la base procureur‑client à 112 500 $, ce qui entraînerait des dépens indemnitaires substantiels de 90 000 $ (80 %), conformément aux paragraphes 147(3.1) et (3.5) des Règles.
+[55] L’appelante a également droit aux dépens et débours prévus au tarif B, y compris un montant additionnel de 3 500 $ pour la préparation des exposés au sujet des frais et dépens.
+[56] En conclusion, l’appelante a droit aux frais et dépens, selon les calculs suivants :
+1.
+Tarif B – alinéa 1(1)a)
+525 $
+2.
+Droit de dépôt
+400 $
+3.
+Honoraires de l’interrogateur (interrogatoire préalable)
+684 $
+4.
+Dépens indemnitaires substantiels
+90 000 $
+5.
+Frais relatifs aux exposés au sujet des frais et dépens
+3 500 $
+Total (à l’exclusion des taxes applicables)
+95 109 $
+Signé à Ottawa, Canada, ce 25e jour d’août 2017.
+« Guy Smith »
+Le juge Smith
+Traduction certifiée conforme
+ce 25e jour de juin 2019.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2017 CCI 160
+NO DU DOSSIER DE LA COUR :
+2013-4000(GST)G
+INTITULÉ :
+IKE ENTERPRISES INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 5 octobre 2016
+MOTIFS DE L’ORDONNANCE RELATIVE AUX DÉPENS :
+L’honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+Le 25 août 2017
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Michel Bourque
+Me Jacqueline A. Fehr
+Avocats de l’intimée :
+Me Victor Caux
+Me Matthew Turnell
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Michel Bourque
+Me Jacqueline A. Fehr
+Cabinet :
+KPMG Law LLP
+Vancouver (Colombie-Britannique)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada

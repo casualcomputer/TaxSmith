@@ -1,0 +1,250 @@
+Title: Mediclean Incorporated v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29321/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-340-29321-mediclean-incorporated-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2009-04-22
+
+# Mediclean Incorporated v. M.N.R.
+
+- Citation: 2009 TCC 340
+- Decision date: 2009-04-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7061, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mediclean Incorporated v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-22
+Neutral citation
+2009 TCC 340
+File numbers
+2008-2305(EI)
+Judges and Taxing Officers
+Norris Weisman
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2009TCC340
+Dockets: 2008-2305(EI); 2008-3235(CPP);
+2008-3234(EI); 2008-2307(CPP)
+BETWEEN:
+MEDICLEAN INCORPORATED,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+TANIA HEADLEY, MABEL MINTO,
+SIVAKUMARAN MUTHUCUMARU, JUAN ALFONZO,
+Interveners.
+CERTIFICATION OF TRANSCRIPT OF
+REASONS FOR JUDGMENT
+Let the attached certified transcript of my Reasons for Judgment delivered orally from the Bench at Toronto, Ontario, on April 22, 2009, be filed.
+“N. Weisman”
+Weisman, D.J.
+Signed in Toronto, Ontario, this 17th day of July 2009.
+Court File Nos. 2008-2305(EI); 2008-3235(CPP);
+2008-2334(EI); 2008-2307(CPP).
+TAX COURT OF CANADA
+IN RE: the Excise Tax Act and the Canada Pension Plan
+BETWEEN:
+MEDICLEAN INCORPORATED
+Appellant
+- and -
+THE MINISTER OF NATIONAL REVENUE
+Respondent
+- and -
+TANIA HEADLEY, MABEL MINTO, SIVAKUMARAN MUTHUCAMARU
+and JUAN ALFONZO
+Interveners
+********
+ORAL REASONS OF THE HONOURABLE MR. JUSTICE WEISMAN
+in the Courts Administration Service, Courtroom 6C,
+Federal Judicial Centre, 180 Queen Street West, Toronto, Ontario
+on Wednesday, April 22, 2009 at 2:02 p.m.
+********
+APPEARANCES:
+Ms Louise R. Summerhill for the Appellant
+Mr. Hong Ky (Eric) Luu for the Respondent
+Also Present:
+Ms Mabel Minto self-represented Intervener
+Mr. William O'Brien Court Registrar
+Mr. Robert Lee Court Reporter
+A.S.A.P. Reporting Services Inc. © 2009
+200 Elgin St., Suite 1105 130 King Street West, Suite 1800
+Ottawa, Ontario K2P 1L5 Toronto, Ontario M5X 1E3
+(613) 564-2727 (416) 861-8720
+Toronto, Ontario
+--- Upon commencing the Oral Reasons on Wednesday,
+April 22, 2009 at 2:02 p.m.
+JUSTICE WEISMAN: This trial involved four appeals against determinations by the respondent Minister of National Revenue that various cleaners performing janitorial and related services in hotels and medical centres for the appellant were engaged in insurable and pensionable employment, and therefore the appellant was liable to deduct and remit employment insurance premiums and Canada Pension Plan contributions on the workers' earnings.
+Fernandes Villegas is one such worker. He was engaged by the appellant from November 15, 2006 to August 4, 2007, a period of some eight months. The other workers in question are 239 in number, four of whom intervened in these proceedings, namely, Tania Headley, Sivakumaran Muthucumaru, Juan Alfonzo and Mabel Minto, although only the latter individual appeared to participate in these proceedings.
+The 239 workers were engaged by the appellants during the three years, 2004, 2005 and 2006.
+The appellant contests the respondent Minister's assessments on the grounds that all 240 workers were independent contractors under contracts for services and not employees under contracts of service during the periods under review.
+At the beginning of these proceedings, it was agreed by all counsel that all workers were subject to the same terms and conditions in their working relationship with the payer appellant, so by agreement, all the appeals were heard together on common evidence.
+In his submissions, counsel for the Minister, having originally agreed as aforesaid, attempted to distinguish workers like Ali Allalou, who he now concedes was in a different working relationship with the appellant and was indeed an independent contractor.
+That causes difficulties because I find that the counsel for the Minister is bound by his original agreement that all workers worked under the same terms and conditions and all had the same working relationship. Should we depart from that, there is no choice but to individually examine all 240 workers. That was not the agreement; it is not an economical and efficient way to conduct these proceedings. Therefore, when I viewed the evidence throughout the trial I viewed it according to the original agreement.
+In order to resolve the fundamental issue as to whether these workers were employees or independent contractors, the combined force of the whole scheme of operations between the appellant and the involved workers must be examined to discern the true working relationship between the parties.
+To this end, the fourfold guidelines originally articulated in Montreal Locomotive, [1947] 1 DLR 161, which was followed in Wiebe Door Services, (1986) 87 DTC 5025 (FCA), as further elucidated upon in 671122 Ontario Limited v. Sagaz Industries, [2001] 2 SCR 983, and further amplified as to intent in Wolf, [2002] FCJ No. 375 (FCA) and Royal Winnipeg Ballet, [2006] FCA 87, and as varied in Légaré and Pérusse, the first of which is cited at [1999] FCJ No. 878, and the latter, [2000] FCJ No. 310.
+As I said, the fourfold guidelines adumbrated in those cases has to be followed. The four facets of this time-honoured test are the appellant's right to control the workers, which includes an examination of whether they were in a subordinate as opposed to an independent relationship with the appellant; which of the parties owned the tools used by the workers in performing their duties and therefore who could direct and control how those tools were to be used; the worker's chance of profit in their relationship with the appellant and their risk of loss if any in that relationship.
+Adverting first to the level of control the payer has over the worker, which the jurisprudence says will always be a factor in these determinations, that was pronounced by Justice Major in Sagaz, at paragraph 17. I note that what is important is not so much the actual or de facto control the payer has over the worker, but his or her right to control the worker as was indicated by Mr. Luu on behalf of the Minister.
+I find in this matter that while the appellant certainly had the right to control the workers, the level or extent of that right was no more than would exist if the cleaners were all independent contractors. By that, I mean that in either case the appellant could dismiss the worker for theft or tardiness or poor workmanship, whether they were independent contractors or employees.
+Of greater significance is the determination of whether what the appellant was doing was controlling the workers as opposed to monitoring them. There is a series of cases saying that monitoring the result must not be confused with controlling the worker. When I say there was a series of cases, they start with Charbonneau, [1996] FCJ No. 1337 (FCA). There is Vulcain Alarme Incorporated, [1999] FCJ No. 749, paragraph 10; also in the Federal Court of Appeal, Livreur Plus, paragraph 19 and 20, [2004] FCJ No. 267; D&J Driveways, [2003] CAF No. 453 and City Water v. the Minister, [2006] FCA 350 at paragraph 18.
+There is a related concept found in the jurisprudence that states that where the worker is in standard employment as opposed to having specialized expertise, an employer and employee relationship requires the payer to have the right or power to tell the worker not only what to do but how to do it. That was originally decided in 1858 by Baron Bramwell in R. v Walker, at 27 LJMC 207. How I have distinguished standard employment from expert employment is that an expert is one who has such specialized knowledge that it exceeds the ability of his or her payer or supervisor to direct and control how he does what he or she does. In these cases, an employer-employee relationship can exist even though the worker can only be told what to do and not how to do it.
+In the matter before me, the evidence satisfies me that the appellant payer had no supervisor on site with the workers. There was a lead worker, usually one involved in heavy-duty work, like carrying out heavy kitchen garbage, floor-stripping and waxing, carpet-cleaning, and marble restoration, who was paid extra for assisting new workers in orientation. That involved showing them where the tools and supplies were to be found in each jobsite. That lead worker was also responsible for finding replacements in case some work did not show up for any reason.
+The workers involved I would classify as standard workers. If you look at the case of Wolf I previously cited, that involved a highly specialized IT computer person.
+In the matter before me, these individuals were merely janitors and cleaners with the exception of the few people, as I understand it, who had the expertise to refinish marble floors and strip and wax floors. Neither one of those were beyond the ability of the representative of the appellant to supervise, direct and control.
+Because in my view we are dealing with standard workers, in order for them to be held to be employees the evidence must indicate that the payer had the right to tell them not only what to do but how to do it.
+Here, on the evidence, all the workers were experienced janitors and cleaners; some had full-time cleaning positions. For example, Mabel Minto had a full-time job cleaning rooms at the Sheraton Hotel and merely worked nights with the appellant for a given number of hours. In other words, they all knew how to vacuum the room and dust and dispose of garbage. The tasks of that level were well within the ability of the payer and the lead workers to direct.
+So far as the distinction between monitoring the result and controlling the worker, pursuant to Charbonneau and the series of cases that followed it, I am satisfied that the lead worker and the appellant's representative, Mr. John Procopoudis, were not controlling the workers or supervising them because, in the case of the lead worker, he was there working on the site much the same as whichever worker was working with him, that Mr. Procopoudis was not working on the site, that he only periodically visited at each of the many sites with which his company had contracts. The purpose of his visits was to monitor the results and to respond to any client complaints about the quality of work that was being done.
+Both Mabel Minto, with reference to Mr. Procopoudis, and Marquita Knight, with reference to a person named "Chris", both thought that they were being subjected to supervision and control. Having listened to the evidence, I find that what in fact was happening was mere monitoring. In the case of anyone who was new to the position, it involved as well orientation as to what had to be done, where the tools with which to do it could be found.
+Lest anyone think that these matters are not complicated, there are two more considerations with reference to control to which I must address myself. The first is that the evidence is clear that the workers had the right to refuse any given assignment, for whatever reason. One that was specifically elucidated in the evidence is that the proposed project was too far from her home. The evidence of Mabel Minto was that she could just say no, which was consistent with the same evidence that came from Mr. Procopoudis.
+This is of importance because of the jurisprudence. There is, again, a number of cases that talk about the importance of the worker's ability to refuse assignments. I will start with Precision Gutters v. the Minister, [2002] FCJ No. 771, at paragraph 27. Justice Sexton, on behalf of the Court says:
+"In my view, the ability to negotiate the terms of a contract entails a chance of profit and a risk of loss, in the same way in allowing an individual the right to accept or decline to take a job entails a chance of profit and a risk of loss."
+Obviously, I will return to this theme when I come to discuss profit and loss. As you well know, profit and loss are two of the four guidelines set out in Wiebe Door. This was the first of the cases that tends to indicate that where one can refuse an assignment, that by itself is a chance of profit and a risk of loss which indicates that the worker is an independent contractor.
+That was a rather oblique reference to the point. If you read 10Tation Event Catering Inc., which is 2008 TCC 562, there is a clearer quotation from Livreur Plus, which I previously cited. At paragraph 41, it says:
+"Together with the right to refuse or decline offers of services, these are factors which this Court has regarded as indicating a contract of enterprise or for services and rather than one of employment."
+You will find words to the same effect in D & J Driveway, [2003] CAF No. 453.
+The second consideration with reference to control to which I have averted is that the evidence is clear that the workers had the right to hire helpers or replacements if they were ill. I understand from the evidence that the difference is that a helper is someone who works with the worker at the worker's expense, whereas the replacement is someone that the worker would locate and pay should the worker have to be very temporarily absent due to sickness or death in the family or whatever. I do understand that the evidence is that if a worker was going to be away for a long time, then the appellant would find a replacement for that period of time and pay the replacement instead of the worker.
+But the law is clear and the law to which I am referring is called Ready Mixed Concrete Southeast Limited v. the Minister of Pensions, [1968] 1 All-England Law Reports, 433 at page 422, where the Court says, and it is Mr. Justice McKenna:
+"A servant must be obliged to provide his own work and skill. Freedom to do a job either by one's own hands or by another's is inconsistent with a contract of service."
+The evidence in this regard I have said was clear, because we have evidence from Robbie Persad that he in fact did – it wasn't a theoretical right – hire a replacement. We know that right existed, notwithstanding the evidence of the two witnesses for the Minister, Mabel Minto and Marquita Knight, who both clearly said that their understanding was that they could not hire assistants or replacements if they were ill, and that their personal services were required.
+Having drawn everyone's attention to that discrepant evidence, I must digress to say a word about credibility. I found all witnesses to be truthful and unbiased, but not equally credible. That was mainly because some were very sophisticated business people, like Mr. Procopoudis, and others were very unsophisticated in business matters, like the two ladies, Mabel Minto and Marquita Knight. For example, Mabel Minto had no appreciation of the difference between a T4 and a T4A, let alone the complicated distinction between an employee and an independent contractor. While I didn’t doubt the ladies' veracity, I did doubt their understanding of the issues before the Court of the terms and conditions of their working relationship with the appellant and therefore their credibility.
+Going back to the right to hire helpers, as I have already said it was agreed at the beginning of these proceedings that all workers had the same terms and conditions in their working relationship with the appellant. Therefore, the matter proceeded on common evidence, meaning that the evidence of one worker applied equally to all 240. I have said that there was very clear evidence, which I accepted, that Robbie Persad could and did hire replacements. Since there is agreement that they all had the same terms and conditions it must follow that the two ladies have to be found to have enjoyed the same freedom, notwithstanding Mabel Minto's impression after her first interview with Mr. Procopoudis that she was told that she was not permitted to hire or find replacements. I conclude that she was simply in error in that regard.
+Further, from a common-sense point of view, it made no sense to me that people like Robbie Persad, who I would categorize as a heavy worker as opposed to a light worker -- and I draw that distinction from the evidence of Mr. Procopoudis, that a heavy worker was the one who was more likely to be the lead worker on the job, who had extra tasks to do aside from normal cleaning, such as floor-stripping and waxing, such as polishing marble -- that if people like that had the right to hire helpers and to replace themselves, surely it would be common sense, there would be no reason for the appellant or Mr. Procopoudis to restrict normal janitorial cleaners from doing the same.
+Next, I have to discuss the topic of subordination. Subordination is a word that is not found in the common-law cases, except in those cases where it has been imported from the employment insurance cases under the Civil Code of Quebec where, in Article 2099, it is set out that an important element of a principal agent relationship is that there is no relationship of subordination as opposed to one of independence. I personally find that a useful guideline as to who is an employee and who is an independent contractor; anyone who has read my decisions will see it referred to.
+Looking at this case to see if there is a relationship of subordination between the workers and the appellant, I note that there was a rule that the workers had to wear the company shirt and the company logo and had to pay for it. They were obliged to wear black pants and black shoes, all of which were at their own expense.
+This is control. Not only is it control, there is a case called Rousselle, [1990] FCJ No. 990 (FCA), that introduces a concept which I call cultural integration. It is a case that holds that a worker is integrated into a business in that his or her comings and goings are aligned with those of the employees of the business. This sounds to me like where a worker is obliged to wear a company shirt with a company logo on it, it sounds like the person is culturally integrated into the business, which tends to indicate that they were an employee.
+Having said that, the evidence is that this uniform had another purpose, and that was one of security. It was on the evidence of Mr. Procopoudis, that it was the requirement of the client that they be able to identify those people who were coming and going in the night, with some keys and codes. Therefore, the uniform had a number of purposes, some of which tend to indicate that the wearer was an employee and others that do not.
+As I suggested to Mr. Procopoudis, a simple card which the worker could wear with or without their identifying photograph on it would have done the job of satisfying the security issue without going so far as to be an indicia of control and cultural integration.
+On balance, I found that this uniform requirement was an element of control and which tended to indicate that the wearers, the workers, were employees.
+I introduced this topic under the rubric of subordination. What I am saying is that I also found that a facet of subordination is being obliged to wear a uniform.
+Still under the heading of control, I am trying to weigh the evidence pro and con with reference to control. I still have one more observation to make. I note that all witnesses advised that they had to go back and remedy any errors they made on their own time and at their own expense and that they were financially responsible for any damage they or their helpers or their replacements did while cleaning.
+To me, this indicates that they were independent contractors. Employees still get their pay even though they must spend time rectifying their errors.
+To conclude with reference to control, this mass of considerations, even though there are one or more that tend to indicate that the workers were employees, the overwhelming conclusion is that the control factor indicates that these workers were independent contractors despite the requirement that they wear this uniform and despite its indication of a degree of subordination and cultural integration.
+I can be considerably more brief when it comes to the tools. It is clear that all necessary tools, mops, buckets, brooms, carts, vacuum cleaners, marble grinders, floor strippers and buffers were provided by the payer, with the sole exception of the uniforms which, as aforesaid, were paid for by the employees.
+There was evidence that some of the heavy-duty workers had their own equipment and could, if they wanted, bring it. But that in my mind did not detract from the fact that in all times the appellant had all the necessary equipment and it was available for the workers to use.
+The actual cleaning products, the evidence indicates, were provided by the client. I find that Marquita Knight was in error in this regard when she testified to the contrary, except that there was evidence when it came to cleaning kitchens, it was indeed the appellant that provided the kitchen cleaners. By and large, the evidence was quite overwhelming that the tools were provided by the appellant, which indicates that the workers were employees.
+For those who are interested, I have read the reason that the ownership of tools has relevance; this comes from the American Restatement. It is that he or she who owns the tools has the right to dictate and direct how they are to be used. That is what gets to the issue of control.
+Let me pass on to the chance of profit. To start with my conclusion, the evidence with reference to a chance of profit, clearly it indicated that the workers were independent contractors. In the first place, they had a right to refuse assignments; I have already read to you the quote from Precision Gutters:
+"The ability to negotiate the terms of a contract entails a chance of profit and a risk of loss in the same way that allowing an individual the right to accept or decline to take a job entails a chance of profit and a risk of loss."
+From a common-sense point of view, the more jobs you decline the less profit you are going to earn and the more jobs you accept the more profit you are going to earn.
+This might be the logical time to delve into the word, "negotiate." I have now twice read from paragraph 27 of the decision:
+"In my view, the ability to negotiate the terms of a contract entails a chance of profit and a risk of loss."
+The evidence is clear that the workers could not and did not negotiate the remuneration involved in their work with the appellant. Rather, the appellant would go to the jobsite, would assess the square footage and, in Mr. Procopoudis's experience, would see what tasks were required to be performed. With his experience, he would know how many workers were required, how long it would take. He would quote on the job, add a 10 per cent mark-up, which was his, and then the rest would go to the workers. They could either take it or leave it, which tends to indicate that the workers were employees.
+Continuing on with the profit and loss theme, there is another sentence that follows the sentence I have now read a number of times, from paragraph 27 of the decision, and it says:
+"The installers were not given any set time for performance of the contract and hence the efficient performance might well lead to more profits."
+That is prophetic when viewed with the facts that I have heard. Throughout the hearing, it has been repeatedly pointed out that if a worker was given a set amount of money to complete a project, which I find was the case with all the workers involved, then obviously, if they worked quickly and completed the project in less time than they were being paid for, that was profit. If they were slow and, indeed, Mabel Minto indicated that she never completed any project in the time that she was given and worked overtime without pay – let me digress: That indicates an independent contractor; workers who work overtime get paid.
+Someone who is slow and always goes over the time stand to make less profit. The fast people can either go home or can find gainful employment for whatever time they save. In other words, they are in a position to profit by sound management. That is a key phrase that recurs in the cases. You will see it in Montreal Locomotive, you will see it in Wiebe Door; the ability to profit by sound management indicates an independent contractor.
+Thirdly, with reference to the chance of profit, where one has the right to hire a helper or a replacement, that automatically entails the chance of profit and indeed a risk of loss. Again, Robbie Persad is a perfect example. He was paid $60 for a project. He needed a replacement to whom he paid $40 to $45, and quote, he "keeps a little something" for himself. That is profit, clear and simple, which indicates an independent contractor.
+I conclude that these workers had a chance of profit. But I must express disagreement with Ms Summerhill, who argued that the heavy workers had a chance of profit because, over and above their normal project contract price or contract price for a given project, they could earn extra by doing marble floors or cleaning carpets or whatever. I certainly understand the argument. But following the Federal Court of Appeal in Hennick, [1995] FCJ No. 294, one must distinguish profit from increased earnings; they are not the same. In Hennick, we had a recalcitrant schoolteacher who could earn more, the more hours she worked; she worked by the hour and got paid by the hour. The Federal Court of Appeal held that may be more earnings, but it is not profit in a business sense.
+The same goes for one who works on a piecework basis. If you turn out more pieces, you can make more money, but that is not profit. What we are talking about in the case of Robbie Persad is profit.
+I see from my notes that having commented on the fact that the remuneration was not negotiated with these workers, it was on a take-it-or-leave-it basis, I should go on to say that I found that the ladies – by "ladies", I mean Ms Knight and Ms Minto -- were confused. I find as a fact that they, like everyone else, were each given a set amount, such as $60 for a project, which usually took more or less than six hours. Therefore, they concluded that they were being paid $10 or, in Ms Minto's case, $9.50 per hour.
+The only possible problem with that is that if that was indeed the case, why is it necessary to have the worker log in and log out times, rather than just sign in their name? I specifically put that question to Mr. Procopoudis; I accept his answer that while merely having them sign to acknowledge their presence might be good enough, it was better if they actually signed in the time and signed out the time.
+Let me pass on to risk of loss. This was equally clear as the chance of profit, despite the fact that these workers had few expenses. They had no vehicle expense. They were required to spend virtually no monies – none for tools and very little for uniforms. Even though they were not reimbursed, they were responsible for damages. They did have to buy in some cases construction boots as well as black shoes and black pants. The boots were the heavy-duty workers'.
+Notwithstanding the fact that their out-of-pocket expenditures wouldn't, in my view, be sufficient to constitute a risk of loss, as I have already indicated, the ability to reject jobs is a chance of loss, as is this quick-worker-versus-slow-worker phenomenon, when they are given a fixed amount of money to do a project. I need not repeat what I said earlier except that I would add, going back to Robbie Persad, that hiring a helper or a replacement involves a risk of loss just as well as it did in Robbie's one example of the chance of profit because, in an emergency, he could well have been obligated to pay $70 or $75 for that helper-replacement. The risk of loss clearly indicates that these workers are independent contractors.
+All these guidelines are all in aid of helping me ascertain the total relationship between the parties. In that regard, I would highlight six of the most important pieces of evidence that in my view determine what the relationship was.
+The first is the right to refuse assignments. That goes to a lack of subordination, which I have mentioned earlier. As well, there is a chance of profit and a risk of loss.
+Secondly, the freedom to hire someone to help or replace you, that runs squarely into Ready Mixed Concrete; it is inconsistent with a contract of service.
+Thirdly, that right to refuse, no 1, and no. 2, the freedom to hire, they constitute a chance of profit and a risk of loss.
+No. 4, I have found that there is an absence of supervision and control. What was going on was monitoring the result, which one is entitled to do whether it is employee or an independent contractor involved.
+Fifthly, I note that most of these workers had prior full-time employment when they came to the appellant. An example: Mabel Minto was a full-time cleaner of rooms at the Sheraton Hotel. It was clear from the beginning that their working relationship with the appellant was not exclusive. They had the right to work for others, which indicates that they are independent contractors.
+Sixthly, the evidence is, again from Ms Minto, that they were not paid for overtime, which indicates independent contractor.
+There is actually a seventh item that I wanted to mention under the rubric of the total relationship, and that is the topic of intent. The law is quite clear that the intent of the parties is less important as the four Wiebe Door Guidelines get more conclusive, as is the case here. That was established in Wolf, which I quoted earlier, and Royal Winnipeg Ballet, which I quoted earlier.
+Also, in the Goodale case, which I have not previously read – no, I don’t mean the Goodale case.
+Yes, I meant the Kilbride case that I have not previously read that was brought to my attention by counsel for the Minister. It is 2008 FCA 335, paragraph 11:
+"This is not a close case where the Wiebe Door test is inconclusive, requiring the Court to give greater weight to the intention of the parties."
+That is why I have not gone into the issue of intent; the Wiebe guidelines were quite conclusive.
+In these matters, the burden is on the appellant to demolish the assumptions set out in the Minister's Reply to the Notice of Appeal. Counsel, Ms Summerhill, took Mr. Procopoudis through paragraph 17 of the Minister's Reply which contains the Minister's assumptions, some of which were not controversial at all, and others of which were probative of the issues put before the Court.
+Of the probative ones, Mr. Procopoudis disagreed with assumption 17(f):
+"The workers reported to the appellant on a daily basis."
+He demolished that assumption. As I have said, there was periodic monitoring.
+Similarly, in paragraph 17(g), I found that it wasn't so much that the appellant supervised the workers by checking the work and making recommendations; it was a matter of the property manager and the lead worker or Mr. Procopoudis periodically walking around and monitoring the result, usually at the instance of the client, which was not supervision and control.
+Paragraph 17(i), it was both agreed with and disagreed with. The appellant's regular hours of operation were Monday to Friday, nine to five. That was disagreed with because it gives you the impression that the workers were required to be on the job nine to five. But the evidence of Mr. Procopoudis is that it did not run like an office.
+But the second part was agreed to, that the company offered cleaning services to its clients 24 hours a day.
+In paragraph 17(k):
+"The workers' hours of work were determined by the appellant."
+The evidence was that the hours were determined by the client, that there weren't set hours of work; there were parameters. As I understand, when it came to hotels, the parameters were between eleven in the evening and five the morning, when the cooks appeared for work. In the case of medical offices, it was from six in the evening to six in the morning. As I have said too many times, it was totally up to the worker what part of those parameters they used in doing their work.
+Paragraph 17(m):
+"The workers were required to work a certain number of hours in a given period."
+There was no evidence of that. Again, they were given a set contract price for a set project; they could profit if they were quick and they could lose if they were slow. They were free to establish their own hours within the time span set by the client.
+Paragraph 17(n) was also partly true. The appellant trained the workers and paid them during their training period. The evidence was that they were not trained; these were experienced janitor-cleaners. They were oriented, because each medical suite and each hotel had its tools and equipment and cleaning supplies in different places. Some needed floors done and some did not. It took up to three to four hours in some cases to orient the workers as to what was required.
+As far as paying them is concerned, the evidence was that originally they were paid soon after the orientation. But experienced proved that some people were only interested in getting paid for the orientation and did not return. Therefore, the system was changed; they were put on a three-month probationary period. Then, if they stayed, they were they paid for this orientation session.
+This brings me down to paragraph 17(r):
+"The appellant covered the cost of redoing the work."
+The evidence was clearly to the contrary.
+Paragraphs 17(s) and 17(t), this gets me back to Ready Mixed Concrete; they were not required to perform their services personally and they could hire helpers.
+Paragraph 17(u), this was one of those propositions which was partly true:
+"The appellant was responsible for paying helpers and replacements."
+I have already said that the only ones that the appellant paid for were the long-term replacements; the worker was docked accordingly.
+It is the same with paragraph 17(v):
+"The appellant provided all the required tools ... and materials at no cost to the worker."
+The true part was the tools; the false part was the materials.
+Paragraph 17(x):
+"The appellant was responsible for maintenance and repairs of the tools and equipment."
+Not true. I would be quick to say that I have never really heard such a provision in an employment contract before; I think it is onerous and unreasonable, but that is a personal view. The evidence was clear that that is what the agreement provided that, if a belt on the vacuum cleaner went or it needed some repair, it was up to the worker to pay for the cost of repairing the appellant's equipment. In any event, assumption 17(x) was demolished.
+Paragraph 17(z):
+"The workers did not incur any expenses."
+There were not many but, I repeat, there were some uniforms, there were some damages and there was curing faulty work or breakage on their own time and expense.
+Paragraph 17(cc):
+"The workers were paid $5 to $11 an hour."
+That was demolished. Paragraph 17(dd):
+"The appellant determined the rates of pay."
+That is basically established. The only exception to that was the evidence of Mr. Procopoudis, that heavy workers sometimes demanded more than he offered. If he had the margin, he would give it to them. But I would say that 17(dd) was basically established.
+Jencan Ltd., [1997] FCJ No. 875 (FCA), says that even if the appellant doesn’t demolish all the Minister's assumptions, the assumptions that remain not demolished have to be sufficient to support the Minister's determination. It is my finding that sufficient of the assumptions in paragraph 17 have been successfully demolished by the appellant such that the remaining ones do not support the Minister's determination.
+Before concluding, I would like to agree with Mr. Luu that people like Ms Minto and Ms Knight are not sophisticated business folk like Mr. Procopoudis. Therefore, they have been proceeding on the basis that they were employees, when I have found that they were independent contractors.
+I need to explain to Ms Minto, who is here, and to whoever cares to read these Reasons, that the difference or distinction between an independent contractor and an employee is a matter of law because the rights of third parties are affected; it is not just what is fair between the worker and the payer.
+If I can quote from the Supreme Court of Canada in Sagaz Industries, at paragraph 36, they say:
+"The distinction between an employee and an independent contractor applies not only in vicarious liability but also to the application of various forms of employment legislation, the availability of an action for wrongful dismissal, the assessment of business and income taxes, the priority taken upon an employer's insolvency and the application of contractual rights."
+Much as I have sympathy for Ms Minto and Ms Knight, this decision or determination that I have to make is a matter of law. I will continue to follow this law until such time as a higher court says that the test is no longer objective, but it is subjective.
+I have investigated all the facts of the parties and the witnesses called on the parties' behalf to testify under oath for the first time. I have found new facts and indications that the facts inferred or relied upon by the Minister were unreal or were incorrect and essentially misunderstood. I find these workers were carrying on business in their own right as janitors or cleaners.
+The Minister's conclusions are accordingly objectively unreasonable.
+I would distinguish this case and the evidence that I have heard from Justice Porter's decision in Goodale, 2001 TCJ No. 261, which on a cursory reading seems to be factually on all fours with the matter before me, but there are important distinctions.
+In Goodale, some of the workers were paid by the hour; in Goodale, the workers were required to perform their services personally; in Goodale, there is no evidence that the workers had the right to refuse assignments, and I could see no chance of profit or risk of loss in that case, as opposed to this one.
+In the result the appellant's appeals are allowed and the decisions of the Minister are vacated.
+Thank you all for your assistance. I will adjourn Court.
+THE REGISTRAR: This sitting of the Tax Court of Canada in Toronto is now concluded.
+--- Whereupon the excerpt concluded at 3:25 p.m.
+I HEREBY CERTIFY THAT I have, to the best
+of my skill and ability, accurately recorded
+by Stenomask and transcribed therefrom, the
+foregoing proceeding.
+Robert Lee, Certified Court Reporter
+CITATION:
+2009TCC340
+COURT FILE NO.’S:
+2008-2305(EI); 2008-3235(CPP); 2008-3234(EI); 2008-2307(CPP)
+STYLE OF CAUSE:
+Mediclean Incorporated and The Minister of National Revenue and Tania Headley, Mabel Minto, Sivakumaran Muthucumaru,
+Juan Alfonzo
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 22, 2009
+REASONS FOR JUDGMENT BY:
+The Honourable N. Weisman,
+Deputy Judge
+DATE OF ORAL JUDGMENT:
+April 22, 2009
+APPEARANCES:
+For the Appellant:
+Louise R. Summerhill
+Counsel for the Respondent:
+For the Interveners:
+Hong Ky (Eric) Luu
+Mabel Minto (self-represented)
+No one appeared for the remainder
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,236 @@
+---
+title: "Maxi Maid Services (1998) Ltd. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/142335/index.do"
+last_modified: "2016-02-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 30"
+citation2: ""
+neutral_citation: "2016 CCI 30"
+decision_date: "2016-02-05"
+language: "fr"
+item_id: "142335"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3008
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:11:14.727000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8fafdc3955ed47f68af2833fb692a482561b671df34fa486adfedad83699e2d8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Maxi Maid Services (1998) Ltd. c. M.R.N.
+
+- Citation: 2016 CCI 30
+- Decision date: 2016-02-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3008, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maxi Maid Services (1998) Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-02-05
+Référence neutre
+2016 CCI 30
+Numéro de dossier
+2014-3581(CPP)
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2014-3581(CPP)
+ENTRE :
+MAXI MAID SERVICES (1998) LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé
+[TRADUCTION FRANÇAISE]
+Appel entendu le 23 septembre 2015, à Kelowna (Colombie-Britannique).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Représentant de l’appelante :
+M. Darren Umeris
+Avocat de l’intimé :
+Me Kristian DeJong
+JUGEMENT
+En raison des motifs de jugement ci-joints, l’appel interjeté en vertu du Régime de pensions du Canada est accueilli, et la cotisation établie à l’égard de l’appelante relative à Dora Eytcheson est annulée.
+Signé à Vancouver (Colombie-Britannique) ce 5e jour de février 2016.
+« Patrick Boyle »
+Juge Boyle
+Référence : 2016 CCI 30
+Date : 20160205
+Dossier : 2014-3581(CPP)
+ENTRE :
+MAXI MAID SERVICES (1998) LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Boyle
+Introduction [1] Le présent appel relatif au Régime de pensions du Canada (« RPC ») est interjeté sous le régime de la procédure informelle de la Cour. Les faits ne sont pas contestés.
+[2] Dora Eytcheson est septuagénaire. Son mari est décédé en 2002, à l’âge de 58 ans, et depuis, elle a reçu régulièrement des montants de prestation du RPC en tant que survivante. Elle travaille toujours comme employée de ménage chez les particuliers. Elle s’entend bien avec son employeur. Depuis qu’elle a atteint l’âge de 65 ans, elle tente de recevoir sa propre pension de retraite du RPC et de cesser de cotiser au RPC à partir de son revenu d’emploi. Bien qu’elle perçoive finalement sa pension de retraite du RPC (malgré un délai d’attente d’un peu plus de six ans), un montant est toujours retenu par son employeur pour le RPC.
+[3] Maxi Maid est une petite entreprise canadienne gérée par le propriétaire. Comme son nom le suggère, il s’agit d’une entreprise de nettoyage à domicile située à Kelowna, en Colombie-Britannique. Mme Eytcheson est employée au sein de cette entreprise depuis un certain nombre d’années. M. Umeris, le propriétaire exploitant de Maxi Maid, et Mme Eytcheson ont une relation professionnelle saine, et il est clair que M. Umeris a tenté d’aider Mme Eytcheson dans le cadre de ses démarches en matière de RPC auprès de Service Canada et de l’Agence du revenu du Canada (l’« ARC »).
+La preuve [4] Les faits en l’espèce ne sont ni démentis ni contestés. Mme Eytcheson et M. Umeris ont témoigné pour le compte de l’appelante. Les contre-interrogatoires de l’intimé étaient très brefs et n’ont contesté aucun de leurs témoignages. J’accepte entièrement et sans réserve leurs témoignages sur les faits, et je note que concernant certaines parties, ils ont indiqué clairement qu’ils n’étaient pas complètement certains. Dans tous les cas, aucune version contradictoire des faits n’a été présentée.
+[5] L’intimé n’a fait appel à aucun témoin. L’intimé a déposé un affidavit de Julie Hamelin, de l’ARC, sur les renseignements contenus dans les dossiers de l’ARC. Il est à noter qu’il s’agit également de l’officier support aux litiges de la Division des appels RPC/AE de l’ARC qui a signé et déposé la réponse de l’intimé à l’avis d’appel. L’affidavit est d’une utilité limitée pour la Cour, car il décrit uniquement les renseignements à l’appui de la position de l’intimé dans le litige, soit que Mme Eytcheson n’a pas perçu ses propres prestations de retraite du RPC depuis certaines années. L’affidavit indique également que Mme Eytcheson a fait le choix en 2013 de cesser de cotiser au RPC (le « choix de 2013 »). L’affidavit n’indique pas si une communication ou un choix antérieurs ont été déposés. Malgré le fait que l’appelante ait annexé un choix datant de novembre 2011 (le « choix de 2011 ») à son avis d’appel et qu’elle mentionne ce choix de 2011 dans son paragraphe d’introduction, l’affidavit ne mentionne rien; il n’indique pas qu’il n’y a aucune trace du choix de 2011 ni que le choix de 2013 a été le seul choix reçu. J’y reviendrai.
+Les faits [6] Mme Eytcheson a reçu une lettre du RPC avant son 65e anniversaire, en avril 2009, qui l’informait de la nécessité de communiquer avec le RPC pour obtenir les documents nécessaires si elle souhaitait commencer à recevoir sa pension du RPC à 65 ans.
+[7] Mme Eytcheson avait commencé à recevoir régulièrement des montants des prestations du RPC sept ans auparavant à titre de survivante de son mari.
+[8] Selon le souvenir et la compréhension de Mme Eytcheson en ce qui concerne son appel téléphonique visant à obtenir la documentation nécessaire pour percevoir ses propres montants réguliers des prestations du RPC, son interlocutrice lui a dit que puisqu’elle avait téléphoné pour prendre des dispositions afin de recevoir sa pension du RPC, aucun autre renseignement n’était requis, puisqu’ils avaient déjà tous ses renseignements requis au dossier et que son propre RPC commencerait à lui être versé après son 65e anniversaire.
+[9] Durant cet appel, elle a également compris que dès qu’elle commencerait à recevoir sa propre pension du RPC, sa pension de survivante serait réduite d’une certaine façon.
+[10] Je ne sais rien d’autre à propos de cet appel. Cela dit, Mme Eytcheson me semble être une bonne communicatrice. Il est évident, selon son témoignage, qu’elle parle clairement, qu’elle écoute bien, qu’elle fait part de ses préoccupations et qu’elle répond clairement aux questions. Puisque Mme Eytcheson a compris la lettre de Service Canada et qu’en réponse à celle-ci, elle a téléphoné à Service Canada pour commencer à recevoir sa propre pension du RPC à 65 ans et qu’elle a discuté de sa pension de survivante durant cet appel téléphonique, je n’ai aucun doute qu’il n’était pas déraisonnable pour elle de croire, à la fin de l’appel, que tout était en ordre pour qu’elle obtienne ce pourquoi elle appelait.
+[11] Lorsque Mme Eycheson a reçu son chèque du RPC après ses 65 ans, le montant était légèrement plus élevé que celui des prestations qu’elle recevait jusque-là. Elle était déçue de constater une augmentation aussi peu importante, de moins de 100 dollars, mais elle a supposé qu’il s’agissait du résultat d’une formule de recouvrement pour quelqu’un touchant deux pensions du RPC : leur propre pension et celle de leur conjoint(e) décédé(e). Elle ne s’est pas posé plus de questions.
+[12] Mme Eytcheson semble avoir supposé à ce moment-là que les retenues sur son salaire pour le RPC cesseraient, et elle n’a pris aucune mesure précise à ce moment-là pour s’assurer que les retenues cessent.
+[13] En 2011, Mme Eytcheson a constaté qu’un montant était toujours retenu sur ses chèques de paie pour le RPC, et elle en a discuté avec M. Umeris. M. Umeris a ensuite communiqué avec Service Canada pour discuter de la volonté de Mme Eytcheson de cesser de verser des cotisations, et on lui a dit de consulter le formulaire CPT30 de l’ARC intitulé « Choix de cesser de verser des cotisations au Régime de pensions du Canada, ou révocation d’un choix antérieur ». Mme Eytcheson a rempli ce formulaire, puis elle l’a envoyé à l’ARC, conformément aux directives figurant sur le formulaire. Lorsqu’elle a indiqué à M. Umeris qu’elle avait soumis le formulaire requis et qu’elle lui a demandé de cesser de retenir des montants sur son salaire de Maxi Maid, il s’est avéré qu’elle n’avait ni conservé une copie ni fait une copie pour Maxi Maid. Elle a donc dû remplir un second formulaire, le déposer auprès de l’ARC et fournir une copie du formulaire à Maxi Maid. Ce deuxième formulaire constitue la preuve désignée dans la présente comme étant le « choix de 2011 ». (Il est clair que le choix de 2011 antérieur n’est pas pertinent.)
+[14] Après avoir reçu sa copie du choix de 2011 en novembre 2011, Maxi Maid a cessé de retenir des cotisations au RPC sur les chèques de paie de Mme Eytcheson.
+[15] En décembre 2013, deux ans seulement après la soumission du choix de 2011, l’entreprise Maxi Maid a été informée par Service Canada ou l’ARC que Mme Eytcheson n’avait pas répondu aux conditions légales préalables pour faire un choix. L’ARC a décidé que la bonne mesure à prendre en vertu du RPC consistait à établir une nouvelle cotisation à l’égard de Maxi Maid pour avoir omis de verser des cotisations de l’employeur et avoir omis de retenir et de remettre les cotisations de Mme Eytcheson, ainsi qu’à évaluer les pénalités imposables pour ces omissions.
+[16] Il s’avère qu’en dépit de la bonne foi de Mme Eytcheson et de sa conviction raisonnable qu’elle avait commencé à recevoir sa propre pension du RPC en 2009 en plus de sa pension de survivante du RPC, et malgré ses communications avec Service Canada en 2009, elle avait en fait continué de recevoir uniquement une pension de survivante. Il semblerait que le montant accru qui a commencé à être versé immédiatement après son 65e anniversaire constituait simplement un rajustement à cette pension de survivante.
+[17] Tout le monde reconnaît et accepte désormais que Mme Eytcheson ne recevait pas sa propre pension de retraite du RPC lorsqu’elle a soumis le choix de 2011, mais qu’elle recevait toujours uniquement sa pension de survivante du RPC.
+[18] Aucune preuve n’a été présentée par l’intimé pour justifier pourquoi il a fallu plus de deux ans à l’ARC après la soumission du choix de 2011 pour déterminer si Mme Eytcheson répondait ou non aux trois conditions préalables permettant d’avoir le droit de soumettre un choix valide :
+1. qu’elle était âgée d’au moins 65 ans;
+2. qu’elle recevait une pension de retraite du RPC (c.-à-d. en propre) de l’ARC;
+3. qu’elle avait rempli le formulaire prescrit et qu’elle l’avait soumis à l’ARC.
+[19] Par ailleurs, aucune explication n’a été offerte pour indiquer pourquoi l’ARC s’attendrait à ce que Maxi Maid ait une capacité quelconque de vérifier ces conditions préalables, et encore moins de les vérifier avant l’émission du chèque de paie à venir de Mme Eytcheson; cela dit, tel qu’il est décrit ci-dessous, l’ARC indique aux employeurs de cesser immédiatement de retenir des cotisations au RPC dès la réception du formulaire.
+[20] Enfin, aucune preuve n’a été soumise pour appuyer une intention du législateur quelconque de rendre les employeurs strictement responsables de la part des cotisations retenues de leurs employés pour le RPC ainsi que pour les pénalités s’ajoutant à leur part des cotisations au RPC à titre d’employeurs dans des circonstances où un employé a, innocemment ou intentionnellement, déposé un formulaire de choix CPT30 dans des circonstances où il n’avait pas le droit de le faire. Cette question devra donc être résolue par un examen du texte sur les dispositions précises de la loi sur le RPC. Cet examen sera éclairé par le contexte des dispositions connexes du RPC, et il sera pris en compte dans le contexte de l’administration de ces dispositions par Service Canada et l’ARC et dans le cadre de l’atteinte des objectifs du RPC.
+La loi [21] Les articles 8 et 9 du RPC décrivent les cotisations au RPC par l’employeur et l’employé, respectivement, à titre de fonction des « traitement et salaire cotisables » de l’employé.
+[22] L’article 11.1 du RPC décrit le taux de cotisation à titre de fonction de pourcentage des « traitement et salaire cotisables ».[1]
+[23] L’article 2 du RPC définit le terme « traitement et salaire cotisables » comme étant un montant calculé conformément à l’article 12.
+[24] L’article 12 de la loi sur le RPC est présenté comme suit :
+12(1) Le montant des traitement et salaire cotisables d’une personne pour une année est le revenu qu’elle retire pour l’année d’un emploi ouvrant droit à pension, calculé en conformité avec la....... mais ne comprend aucun revenu de cette nature reçu par cette personne :
+...
+(c) soit après avoir atteint l’âge de soixante-cinq ans, si
+(i) une pension de retraite lui est payable aux termes de la présente loi ou d’un régime provincial de pensions et que,
+(ii) sous réserve du paragraphe (1.1), elle a fait le choix d’exclure le revenu;
+...
+(1.1) Le choix visé à l’alinéa (1)(c)(ii)
+(a) doit être fait ou révoqué selon les modalités prescrites;
+(b) prend effet le premier jour du mois suivant le mois au cours duquel il a été fait;
+(c) cesse d’avoir effet le premier jour du mois suivant le mois au cours duquel il a été révoqué;
+(d) ne peut être fait qu’une fois par année;
+(e) ne peut être révoqué au cours de l’année au cours de laquelle il a été fait;
+(f) ne peut être fait au cours de l’année au cours de laquelle un choix a été révoqué;
+(g) est réputé s’appliquer aux revenus provenant de l’ensemble des emplois ouvrant droit à pension de la personne et aux gains provenant de tout travail qu’elle exécute pour son propre compte.
+(1.2) Si la personne ne révoque pas, relativement à un employeur, le choix selon les modalités prescrites, les revenus provenant de l’emploi qu’elle exerce auprès de cet employeur sont, pour l’application des alinéas 8(1)a) et 9(1)a), exclus de ses traitement et salaire cotisables....
+[25] L’article 2 du RPC définit également une « pension » comme étant une pension payable en vertu de la loi sur le RPC. Les pensions de survivant sont abordées dans les articles 58, 72 et 73 du RPC. Des dispositions sur la retraite figurent aux articles 46 à 54, 67 et 68 du RPC.
+[26] Après avoir lu ces dispositions législatives, il est clair qu’une [TRADUCTION] « pension de survivant » désigne une pension visée par la loi sur le RPC. En outre, il semble clair en lisant la disposition qu’une « pension de survivant » diffère d’une « pension de retraite » dans la loi sur le RPC.
+[27] L’obligation d’un employeur de retenir et remettre les cotisations requises de l’employé et de verser les cotisations requises de l’employeur est décrite dans le paragraphe 21(1) de la section C de la loi sur le RPC.
+[28] Le paragraphe 21(2) stipule qu’un employeur est personnellement responsable s’il ne déduit ou ne remet pas la cotisation de l’employeur.
+[29] Le paragraphe 21(7) stipule qu’un employeur qui ne remet pas les montants requis est passible d’une pénalité. Une pénalité automatique de 10 % s’applique si la remise accuse un retard de plus d’une semaine. Cette pénalité s’élève à 20 % si le fait de ne pas avoir remis un montant est volontaire ou commis dans des circonstances équivalant à faute lourde.[2]
+[30] Le paragraphe 21(3) stipule qu’un employeur n’est pas responsable de ne pas avoir retenu ni remis un montant et n’est pas responsable des pénalités si une décision rendue est par la suite jugée comme n’ayant pas été valablement rendue, à moins que la décision ait été fondée sur des renseignements inexacts fournis par l’employeur.
+[31] La réduction des montants de la pension du RPC pour toute personne recevant une pension de retraite et une pension de survivant est abordée dans les paragraphes 46(5) et 58(2).
+[32] L’article 60 de la loi sur le RPC stipule qu’aucune prestation n’est payable à une personne, sauf si une demande en a été faite et a été approuvée. Le règlement 43 stipule qu’une demande « doit » être formulée par écrit à tout bureau d’Emploi et Développement social Canada.
+[33] La définition à l’article 2 de « prescrit » dans le cas d’une formule signifie qu’une formule est autorisée par le ministre responsable de la partie pertinente de la loi sur le RPC.
+Formulaire de choix CPT30 [34] Le choix de 2011 est une preuve désignée comme étant la pièce R­1. Le formulaire CPT30 est un formulaire prescrit par la loi sur le RPC. Les renseignements, le choix, la certification et la date figurent tous sur une page du formulaire de l’ARC, et seule cette page constitue une preuve. Il est clair que le formulaire contenait de plus amples renseignements au verso, mais la deuxième page ne constitue pas un élément de preuve. L’intimé a annexé les deux côtés d’une version vierge du formulaire CPT30 de 2014 à titre de pièce A dans ses observations écrites.
+[35] Le choix de 2011, ou la version de 2011 du formulaire, précise notamment ce qui suit :
+[Traduction] Vous devez fournir une copie de ce formulaire dûment rempli à tous vos employeurs actuels et futurs. Envoyez le formulaire original au Centre fiscal de Winnipeg à l’adresse figurant au verso de ce formulaire, et conservez une copie pour vous-même.
+Si vous choisissez de cesser de cotiser au RPC, le choix entrera en vigueur le premier jour du mois suivant la date à laquelle vous avez remis ce formulaire à votre employeur.
+[36] L’énoncé sur le choix et la certification choisis par Mme Eytcheson, qui figure directement au-dessus de sa signature sur le formulaire de choix de 2011, se lisent comme suit :
+[Traduction] Je choisis de cesser de cotiser au RPC. J’ai démontré dans la partie B que je suis admissible à faire ce choix. Je fournirai une copie de ce formulaire à mon employeur ou mes employeurs, selon le cas, d’ici la fin du mois indiqué ci-dessous.
+[37] La version de 2014 du formulaire comprend l’énoncé suivant au verso du formulaire seulement :
+Une fois que vous aurez rempli ce formulaire, donnez-en une copie à votre employeur sans tarder. Votre choix s’appliquera à tous vos revenus tirés d’un emploi ouvrant droit à une pension, y compris les revenus tirés d’un travail indépendant. Si vous avez plus d’un employeur, vous devez remettre à chacun une copie du formulaire rempli. Envoyez l’original du formulaire rempli au Centre fiscal de Winnipeg à l’adresse qui se trouve à la page 2 de ce formulaire. Conservez-en une copie pour vos dossiers afin de pouvoir en fournir une à chacun de vos futurs employeurs.
+Choix de cesser de cotiser au RPC
+Si vous voulez cesser de faire des cotisations au RPC, remplissez les parties A et B et si vous y avez droit, la partie C. Ce choix entre en vigueur le premier jour du mois qui suit le mois de la date que vous avez inscrite à la partie C. Votre choix demeurera en vigueur jusqu’à ce que vous le révoquiez.
+Comment puis-je faire le choix de cesser de faire des cotisations au RPC?
+Remplissez les parties A, B et C de ce formulaire et remettez-en une copie à votre employeur accompagnée d’une preuve d’âge et d’une preuve que vous recevez une pension de retraite du RPC ou du RRQ. Si vous travaillez ou allez travailler pour plus d’un employeur, remettez une copie de ce formulaire rempli à chacun d’eux. […]
+Quand mon choix entre-t-il en vigueur?
+Votre choix entre en vigueur le premier jour du mois qui suit la date à laquelle vous avez remis une copie de ce formulaire à votre employeur. Votre employeur devrait cesser de retenir les cotisations au RPC à partir de la première paie du mois qui suit le mois où vous lui avez remis ce formulaire.
+Instructions pour remplir et envoyer le formulaire
+Remplissez les sections de ce formulaire qui vous concernent. Remettez une copie du formulaire à votre employeur le même mois que vous l’aurez signé et daté. Si vous avez plus d’un employeur, remettez une copie de ce formulaire à chacun d’eux. Conservez une copie du formulaire dans vos dossiers, et envoyez l’original à l’Agence du revenu du Canada à l’adresse suivante :..
+[38] Tel qu’il a été mentionné, le verso du formulaire de choix de 2011 ne constitue pas un élément de preuve. Étant donné les changements importants qui ont été apportés à l’énoncé de certification du choix dans le formulaire de choix de 2011 et dans les formulaires de choix les plus récents qui sont accessibles, il serait inapproprié pour la Cour de présumer ou de conclure que les versos de ces formulaires comprennent le même texte qu’en 2011.
+Directives de l’ARC à l’intention des employeurs [39] Dans ses observations écrites fournies à la Cour à la suite de l’audience, l’intimé a mentionné et fourni une copie de deux pages d’une publication électronique qui figure actuellement sur le site Web de l’ARC, et il s’est fié à celle-ci. Il est clair selon la première page des documents soumis à quels endroits ces pages figurent dans cette publication électronique qui éclaire les entreprises calculant les déductions des paies pour le RPC. La Cour a ainsi examiné le reste de ces directives de l’ARC. Il est également à noter que les pages auxquelles l’intimé s’est fié figurent sous l’en-tête [TRADUCTION] « Changements pour les employeurs/Changements apportés aux règles de retenue des cotisations au Régime de pensions du Canada », et la première phrase du texte stipule ce qui suit : « En 2012, les règles de retenue des cotisations au RPC ont changé. » La Cour n’a reçu aucun renseignement sur le moment auquel les règles ont changé en 2012, les règles qui ont changé ou la façon dont d’autres parties de cette publication électronique peuvent avoir changé. Il est uniquement raisonnable de conclure que les renseignements figurant sous l’en-tête décrivant les changements de 2012 n’étaient pas accessibles à Maxi Maid en 2011, lorsque Mme Eytcheson a fourni à Maxi Maid une copie de son choix de 2011.
+[40] Dans cette publication électronique, le tout premier paragraphe situé sous l’en-tête « Régime de pensions du Canada (RPC) » traite de l’obligation de l’employeur de déduire des cotisations au RPC. Il comprend la phrase suivante :
+Exception : ne retenez pas de cotisations au RPC si l’employé est âgé de 65 à 70 ans et vous remet le formulaire CPT30, Choix de cesser de verser des cotisations au Régime de pensions du Canada, ou révocation d’un choix antérieur avec les parties A, B et C complétées.
+Immédiatement sous cette phrase, on retrouve un lien : « Pour en savoir plus, lisez Commencer à retenir ou cesser de retenir les cotisations au RPC. »
+[41] Sous l’en-tête « Commencer à retenir ou cesser de retenir les cotisations au RPC », des situations spéciales sont présentées. L’une des situations est la suivante : « Votre employé vous remet un formulaire CPT30 complété. » Le texte se poursuit :
+Cesser de verser des cotisations au RPC
+Un employé a le droit de cesser de verser des cotisations au RPC s’il remplit toutes les conditions suivantes :
+• il est âgé de 65 à 70 ans;
+• il reçoit une pension de retraite du RPC ou du RRQ;
+• il reçoit ou recevra des revenus d’emploi ouvrant droit à pension desquels il faut retenir des cotisations au RPC;
+• il vous a remis une copie du formulaire CPT30 avec les parties A, B et C complétées. En remplissant le formulaire de cette façon, l’employé fait un « choix ».
+Ce « choix » entre en vigueur le premier jour du mois après la date où vous avez reçu une copie remplie de ce formulaire. Vous retiendrez les cotisations au RPC jusqu’à la dernière paie du mois dans lequel l’employé vous donne le formulaire. Lorsque vous faites la répartition proportionnelle, utilisez le nombre de mois jusqu’au mois avant que le choix entre en vigueur (lisez l’exemple 3).
+[42] L’exemple 3 se lit comme suit :
+Catherine est âgée de 64 ans et reçoit une pension de retraite du RPC. Le 23 juillet 2015, elle célèbre ses 65 ans et choisit de cesser de verser des cotisations au RPC. Elle vous remet ce jour-là un formulaire CPT30, Choix de cesser de verser des cotisations au Régime de pensions du Canada, ou révocation d’un choix antérieur complété et signé.
+Cet exemple permet de clarifier qu’« aucune cotisation au RPC » n’est versée pour les jours travaillés suivant la remise du choix à l’employeur.
+[43] Sous l’en-tête « Changements apportés aux règles de retenue des cotisations au Régime de pensions du Canada », qui traite des changements de 2012, le texte suivant s’affiche et est utilisé par l’intimé dans ses observations écrites :
+Avant de cesser de verser des cotisations au RPC – Admissibilité des employés
+Avant de cesser de retenir les cotisations au RPC sur les gains ouvrant droit à pension d’un employé, vous devez vous assurer que l’employé a le droit de faire le choix de cesser de verser des cotisations. L’employé a le droit de faire le choix de cesser de verser des cotisations au RPC s’il remplit toutes les conditions suivantes :
+• il est employé et reçoit des gains ouvrant droit à pension;
+• il est âgé d’au moins 65 ans, mais de moins de 70 ans;
+• il reçoit une pension de retraite du RPC ou du RRQ;
+• il n’a pas déjà rempli le formulaire CPT30... et n’a pas fait un choix de cesser de contribuer au RPC qui est présentement en vigueur...
+Vous devriez demander à l’employé de fournir tout ce qui suit :
+• une preuve qu’il reçoit une pension de retraite du RPC ou du RRQ (par exemple, une copie de la lettre d’approbation);
+• une preuve d’âge...;
+• une copie du formulaire CPT30 rempli et signé.
+Il peut être réaffirmé que ce texte n’aurait pas fait partie de cette publication électronique en 2011.
+Analyse [44] Tout d’abord, il est à noter que l’ARC saurait immédiatement, dès la réception d’un formulaire CPT30, si la personne certifiant et déposant le formulaire était réellement âgée de 65 ans et si elle recevait réellement une pension de retraite. En effet, l’ARC gère le système fiscal et est responsable des prestations de retraite du RPC. Par contre, l’employeur n’aurait aucune façon de vérifier l’exactitude de ces renseignements fournis par un employé ou d’éliminer le risque qu’un employé, en toute innocence ou intentionnellement, fournisse des renseignements ou des documents inexacts.
+[45] La question soulevée par ces faits consiste à savoir si l’employeur court légalement le risque qu’un employé déposant un formulaire de choix CPT30 auprès de l’ARC et fournissant une copie à l’employeur, ce qui certifie que l’employé est admissible, qu’il s’est effectivement trompé ou qu’il n’est autrement pas admissible à faire un tel choix.
+[46] La question visant à savoir si l’employeur devrait également assumer un plus grand risque de pénalités n’a pas à être examinée, puisque l’intimé a sagement reconnu que l’évaluation d’une pénalité n’était pas appropriée dans la présente affaire.
+[47] D’après la preuve, je conclus que la lettre rédigée à Mme Eytcheson en 2009 par Service Canada et que sa conversation téléphonique avec Service Canada en 2009 correspondaient aux descriptions fournies par Mme Eytcheson. D’après la preuve, je conclus également qu’en 2011, elle a envoyé par la poste deux formulaires de choix CPT30 dûment remplis à l’ARC, le premier étant le formulaire de choix de 2011 (dont elle n’a pas conservé de copie ni fourni de copie à son employeur, tel qu’il était indiqué sur le formulaire) et le second étant le formulaire de choix de 2011 servant de preuve.
+[48] Étant donné le manque total de renseignements dans l’affidavit d’Hamelin sur l’échange de 2009 et les formulaires de choix CPT30 de 2011 susmentionnés, et étant donné que lorsque ce point a été mentionné à l’avocat de l’intimé, il n’a ni demandé l’occasion ni offert de compléter la preuve de l’affidavit, l’ensemble de la preuve me permet de conclure que les communications de 2009 et les deux choix de 2011 étaient bel et bien conformes au témoignage de Mme Eytcheson[3]. Ainsi, ce point signifie que la raison pour laquelle Mme Eytcheson n’a pas reçu sa pension de retraite du RPC à ses 65 ans était, à tout le moins, tant la faute de l’intimé que la sienne.
+[49] Le texte de l’article 21, qui impose une responsabilité à l’employeur pour la collecte des cotisations de l’employé, et le texte de l’article 9, qui décrit les cotisations de l’employeur, imposent tous deux clairement ces obligations en renvoyant aux « traitement et salaire cotisables » de l’employé.
+[50] Le texte de l’article 12 de la loi exclut clairement du montant constituant les « traitement et salaire cotisables » les montants reçus par une personne après ses 65 ans si elle reçoit une pension de retraite et qu’elle fait le choix d’exclure le revenu. Le paragraphe 12(1.1) stipule que le choix doit être fait selon la forme prescrite et qu’il entre en vigueur le premier jour du mois suivant le mois où le choix a été fait. Ni le texte de l’article 12 ni le formulaire prescrit en soi n’affirment, voire ne laissent entendre, qu’un employeur doit être responsable de l’exactitude ou du caractère juste de l’information certifiée qui figure dans un formulaire dûment rempli. Ils ne laissent pas entendre non plus qu’un employeur doit recevoir ou obtenir des documents d’appui ou de confirmation ou encore d’autres renseignements.
+[51] Le texte du paragraphe 12(1.2) est tout aussi clair : Si la personne ne révoque pas le choix, relativement à un employeur, les revenus provenant de l’emploi qu’elle exerce auprès de cet employeur sont, pour l’application des articles 8 et 9, exclus de ses traitement et salaire cotisables.
+[52] Si l’on se tourne vers le contexte de ces dispositions du RPC, il peut être noté que le texte du formulaire CPT30 prescrit (et le texte de la publication du site Web) est rempli d’énoncés absolus qui indiquent que l’employeur doit cesser de verser des cotisations au RPC après avoir reçu un formulaire CPT30. En outre, aucun texte ne figure sur le formulaire (ou ne figurait sur la version électronique du formulaire avant 2012) indiquant la nécessité pour l’employeur d’obtenir des documents pertinents auprès d’un employé. (Il peut être noté que même le texte sur les changements de 2012 n’est pas très important dans l’ensemble de la publication.)
+[53] Il est évident dans le paragraphe 21(3) que la loi sur le RPC cherche à acquitter les employeurs innocents de décisions rendues incorrectement qui ne sont pas fondées sur des renseignements inexacts de l’employeur.
+[54] L’objectif général du RPC consiste à établir un régime de pension obligatoire pour les Canadiens qui fournit, entre autres choses, des prestations de retraite avec des droits de survivant et qui sera financé par l’entremise de cotisations de l’employeur et de l’employé. De toute évidence, l’un des objectifs de cette loi consiste à impartir en bonne partie la collecte (retenues et remises) aux employeurs canadiens dans le but de financer le RPC. Au contraire, rien ne porte à croire que le but ou l’objectif du RPC consiste à impartir aux employeurs la fonction de vérification des droits et obligations des employés par rapport au RPC.
+Conclusion [55] Il est donc insensé d’interpréter la loi, y compris le formulaire prescrit ci-dessous, d’une manière qui impose une stricte responsabilité à l’employeur pour le caractère juste, l’exactitude, l’honnêteté ou l’intégrité d’un formulaire de choix CPT30 dûment rempli et signé qu’il reçoit de l’un de ses employés. On ne retrouve aucun texte législatif qui exige des documents de confirmation pour appuyer le choix, et le formulaire de choix ne le laisse pas sous-tendre non plus.
+[56] Il est entièrement raisonnable de croire que, faute d’exigences législatives ou de directives précises figurant sur un formulaire prescrit, Maxi Maid a pu se fier aux certifications détaillées et précises de Mme Eytcheson qu’elle avait au moins 65 ans et recevait une pension de retraite du RPC. Il est tout aussi raisonnable de croire un employé qui affirme avoir envoyé par la poste la copie originale du formulaire prescrit à l’ARC, tel qu’il est requis par le formulaire. L’intimé ne va pas jusqu’à laisser entendre qu’il est irraisonnable de se fier à un employé qui vous indique avoir déposé un formulaire, et qu’il est plutôt nécessaire de les accompagner jusqu’à la boîte aux lettres ou au bureau de poste.
+[57] Qui plus est, dans tous les cas, l’employeur n’a aucun pouvoir permettant de confirmer l’exactitude ou l’authenticité de l’information figurant dans les documents fournis par ses employés. Au contraire, l’ARC a un accès pratiquement direct qui lui permet de vérifier, d’une part, si la personne ayant déposé le choix est âgée d’au moins 65 ans et, d’autre part, si elle reçoit une pension de retraite du RPC, puisque l’ARC administre les prestations du RPC ainsi que le régime fiscal.
+[58] Par conséquent, la Cour conclut qu’à la suite d’une interprétation et application adéquates de l’article 12, afin de déterminer les obligations d’un employeur de retenir et de remettre les cotisations au RPC de l’employé, de verser des cotisations d’employeur ou d’être assujetti à des pénalités sous les dispositions susmentionnées du RPC, la définition des traitement et salaire cotisables ne comprend pas les montants pour lesquels une copie d’un formulaire de choix CTP30 certifié, dûment rempli, signé et daté a été fournie à l’employeur par l’employé et pour lesquels l’employé a indiqué à l’employeur qu’il ou elle a envoyé le formulaire par la poste à l’ARC.
+[59] En raison des motifs ci-dessus, l’appel est accueilli.
+[60] Par l’entremise d’un post-scriptum, il est devenu apparent que Maxi Maid continue toujours de retenir et de remettre des cotisations au RPC au nom de Mme Eytcheson. Depuis 2013, lorsqu’un deuxième choix a été déposé auprès de l’ARC, cette dernière a accepté que Mme Eytcheson ne soit plus assujettie au RPC en ce qui concerne ses revenus provenant de Maxi Maid. Je suppose que les montants retenus et remis par Maxi Maid lui seront remboursés dans le cadre du processus normal de déclaration des revenus qui a lieu chaque année. On ignore pourquoi Maxi Maid continue de faire des retenues; peut-être que Mme Eytcheson n’a jamais fourni à Maxi Maid une copie du choix de 2013, document n’a pas été présenté à la Cour. Peut-être que Maxi Maid préfère laisser le risque lié aux retenues de l’employé à l’ARC et à Mme Eytcheson. En effet, peut-être que l’entreprise adopte une approche « en cas de doute, retenir » au lieu d’accepter un risque incontrôlable qui, selon elle, est tout aussi insensé. (La Cour ignore si Maxi Maid a continué de verser des cotisations de l’employeur, mais c’est probablement le cas.) Je ne sais pas comment ou si ces cotisations seront retournées ou remboursées à Maxi Maid. J’espère que, nonobstant le succès de l’intimé cet appel précis, le gouvernement sera en mesure de mettre correctement de l’ordre dans les cotisations au RPC de Mme Eytcheson à l’avenir ainsi que pour la période cumulative à ce jour.
+Signé à Vancouver (Colombie-Britannique), ce 5e jour de février 2016.
+« Patrick Boyle »
+Juge Boyle
+RÉFÉRENCE :
+2016 CCI 30
+NO DU DOSSIER DE LA COUR :
+2014-3581(CPP)
+INTITULÉ :
+MAXI MAID SERVICES (1998) LTD., c. MRN
+LIEU DE L’AUDIENCE :
+Kelowna (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 23 septembre 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 5 février 2016
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Darren Umeris
+Avocat de l’intimé :
+Me Kristian DeJong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Cabinet :
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’erreur de rédaction qui figure dans la version anglaise ne figure pas dans la version française. Elle soulève toutefois pour le lecteur certaines préoccupations concernant la rédaction générale du RPC. Elle rappelle un texte rédigé par la Cour suprême du Canada sur la loi d’accompagnement du RPC sur la l’assurance-emploi dans Gagnon c. C.E.I.C., [1998] 2 R.C.S. 29 : [TRADUCTION] « Le moins qu’on puisse dire, c’est que la Loi n’est pas d’une clarté éblouissante et que son interprétation n’en est pas de ce fait rendue facile. ».
+[2] Les pénalités imposées en l’espèce ne cadrent pas avec les pourcentages de pénalités. Cela n’est pas pertinent en l’espèce, puisque durant l’argumentation, l’intimé a reconnu que les pénalités seraient annulées.
+[3] Les juges de première instance tirent des conclusions selon l’ensemble de la preuve que les parties choisissent de présenter. Par définition, une telle conclusion, qui est invariablement défavorable à une partie et favorable à l’autre, ne constitue pas une conclusion sur le plan de la certitude. Le juge de première instance tire donc sa conclusion selon ce qu’il lui semble le plus probable, ou encore, plus probable qu’improbable. Une conclusion déduite par suite du manque de renseignements dans la preuve d’une partie peut, en réalité, être totalement fausse, et l’une des autres possibilités plus favorables, plus charitables et plus inoffensives qui semblaient moins probables au juge de première instance pourrait en fait être reconnue comme étant correcte et véridique par un observateur omniprésent qui voit tout et qui sait tout. Les juges de première instance ne sont pas investis de tels pouvoirs lorsqu’ils prêtent serment; ils reçoivent seulement, du moins dans mon cas, des copies de la Loi de l’impôt sur le revenu et l’autre Bible sur laquelle j’ai prêté serment, un marteau et la plume cérémoniale. Les juges de première instance dorment la nuit grâce aux probabilités ou passent la nuit debout à les examiner.

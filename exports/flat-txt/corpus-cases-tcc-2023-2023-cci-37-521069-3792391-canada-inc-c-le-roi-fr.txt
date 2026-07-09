@@ -1,0 +1,199 @@
+Title: 3792391 Canada Inc. c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521069/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-37-521069-3792391-canada-inc-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-03-30
+
+# 3792391 Canada Inc. c. Le Roi
+
+- Citation: 2023 CCI 37
+- Decision date: 2023-03-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5858, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+3792391 Canada Inc. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-03-30
+Référence neutre
+2023 CCI 37
+Numéro de dossier
+2021-1804(IT)I
+Juges et Officiers taxateurs
+Gabrielle St-Hilaire
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2021-1804(IT)I
+ENTRE :
+3792391 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 8 mars 2023 et 13 mars 2023
+à Montréal (Québec).
+Devant : L’honorable juge Gabrielle St-Hilaire
+Comparutions :
+Avocat de l’appelante :
+Me Hong Ky (Eric) Luu
+Avocates de l’intimé :
+Me Samantha Jackmino
+Me Janie Payette
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel interjeté à l’encontre des cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2011, 2012, 2013, 2014, 2015 et 2016 de l’appelante est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 30e jour de mars 2023.
+« Gabrielle St-Hilaire »
+La juge St-Hilaire
+Référence : 2023 CCI 37
+Date : 20230330
+Dossier : 2021-1804(IT)I
+ENTRE :
+3792391 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+La juge St-Hilaire
+I. Introduction
+[1] Notre Cour est saisie d’un appel interjeté par 3792391 Canada Inc. (ci-après, 391 ou l’appelante) à l’encontre des cotisations établies sous le régime de la partie XIII de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), (la « Loi »), à l’égard des années d’imposition de 2011 à 2016. Aux termes du régime législatif énoncé dans la partie XIII, la Loi dispose que l’impôt doit être payé par les personnes non-résidentes qui reçoivent un revenu provenant d’un bien de résidents canadiens et impose aux résidents l’obligation de retenir et de remettre l’impôt payable par le non-résident.
+[2] David Siscoe, un spécialiste de l’exercice physique, est actionnaire de l’appelante, qui exploite la salle de sport Siscoe Gym. M. Siscoe a conclu un bail pour les locaux situés au 501-4175 Sainte-Catherine Ouest à Westmount, Québec (unité 501). Bien qu’il ait été locataire de l’unité 501, l’appelante a payé le loyer en son nom au cours des années d’imposition frappées d’appel.
+[3] Dans un avis daté du 26 octobre 2018, le ministre du Revenu national (le « ministre ») a établi une cotisation à l’égard de l’appelante parce qu’elle a omis de retenir et de remettre l’impôt de la partie XIII à payer sur les revenus de location reçus par Sebastiana Trimarchi, propriétaire de l’unité 501 pendant la période pertinente, ainsi que les intérêts et les pénalités, pour le motif que Mme Trimarchi était une non-résidente.
+II. Questions préliminaires
+[4] Au début de l’audience, chaque avocat des parties a présenté une requête à la Cour.
+Requête de l’appelante en vue d’obtenir la radiation d’une partie de la réponse
+[5] L’avocat de l’appelante a présenté une requête en vue d’obtenir la radiation des parties des hypothèses de fait du ministre dans la réponse pour le motif que les hypothèses des paragraphes 11 c), d), e) et f) contiennent des conclusions de droit. Les paragraphes pertinents sont rédigés comme suit : [traduction]
+11. Pour établir l’obligation fiscale de l’appelante à l’égard des personnes non-résidentes pour les années d’imposition 2011, 2012, 2013, 2014, 2015 et 2016, conformément à l’article 215 de la partie XIII, le ministre s’est fondé sur les hypothèses de fait suivantes :
+[...]
+c) le condo appartenait à Sebastiana Trimarchi (la « personne non-résidente »);
+d) Sebastiana Trimarchi est une personne non-résidente vivant en Italie;
+e) au cours des années d’imposition 2011, 2012, 2013, 2014, 2015 et 2016, l’appelante a versé les sommes suivantes à une personne non-résidente […];
+f) après le paiement des loyers bruts à la personne non-résidente, l’appelante n’a effectué aucune retenue, en application la partie XIII de la Loi;
+[6] L’appelante a fait valoir que les hypothèses de fait jouent un rôle essentiel dans les contentieux fiscaux compte tenu de leur incidence sur le fardeau de la preuve qui lui incombe. L’avocat de l’appelante a soutenu que les hypothèses selon lesquelles Sebastiana Trimarchi est une personne non-résidente comprennent des conclusions de droit. Il a prétendu que le ministre peut conclure que Mme Trimarchi est une personne non-résidente, mais qu’il doit énoncer les faits sur lesquels cette conclusion est fondée. L’avocat s’est appuyé sur une décision récente de notre Cour, Bluecove Management Ltd v R, 2022 TCC 126 [Bluecove], dans laquelle la juge Lafleur a conclu que le ministre doit extraire les éléments de fait d’une conclusion mixte de fait et de droit. Dans l’arrêt Canada c. Anchor Pointe Energy Ltée, 2003 CAF 294, par. 25 et 26, auxquels renvoie la décision Bluecove, par. 29, la Cour d’appel fédérale a fait valoir qu’en alléguant des hypothèses de fait, le ministre ne peut alléguer des conclusions de droit. La Cour d’appel fédérale a ajouté que le ministre peut seulement présumer les éléments de fait d’une conclusion mixte de fait et de droit de façon à ce que le contribuable sache exactement quelles hypothèses de fait il doit réfuter pour avoir gain de cause.
+[7] La question de résidence est une question qu’une Cour tranche en se fondant sur l’application de règles à un ensemble de circonstances de sorte que la conclusion de résidence ou de non-résidence est une conclusion de droit fondée sur un ensemble de faits. Par conséquent, je suis d’accord avec l’avocat de l’appelante que les hypothèses du ministre comprennent une conclusion de droit. Dans les circonstances, j’ai accepté de supprimer les mots « personne non-résidente » des paragraphes 11 c) et d) de la réponse. Aux paragraphes 11 e) et f), les mots « personne non-résidente » ont été supprimés et remplacés par Sebastiana Trimarchi.
+La requête de l’intimé en vue de modifier le paragraphe 11e) de la réponse
+[8] L’avocate de l’intimé a présenté une requête en vue de modifier le paragraphe 11 e) de la réponse afin de corriger les montants de loyer brut que l’appelante a payés en 2011 et 2016. Avec le consentement de l’avocat de l’appelante, la requête a été accueillie. Par conséquent, les montants exacts des loyers bruts versés par l’appelante au cours des années d’imposition 2011 à 2016 sont les suivants :
+Année d’imposition
+Loyer brut
+2011
+16 650 $
+2012
+33 650 $
+2013
+33 900 $
+2014
+33 900 $
+2015
+33 900 $
+2016
+22 600 $
+III. Question en litige
+[9] La question en litige dans le présent appel consiste à savoir si le ministre a eu raison d’imposer l’impôt de la partie XIII à l’appelante pour son omission de retenir et de remettre l’impôt sur les sommes qu’elle a payées à titre de loyer à Sebastiana Trimarchi. Plus précisément, la question est de savoir si l’appelante a payé un loyer à une personne non-résidente de sorte qu’elle est responsable de l’omission de retenir et de remettre l’impôt à payer sur les revenus de location pour le compte de la personne non-résidente.
+IV. Contexte
+[10] David Siscoe est le locataire qui occupait l’unité 501 comme résidence personnelle. Il a d’abord signé un bail pour les locaux avec Anjar Investments Ltd. (« Anjar ») en mai 1996. Joseph Trimarchi a signé le bail au nom d’Anjar. M. Siscoe a déclaré lors de son témoignage qu’il avait payé le loyer à Joseph Trimarchi pendant un certain temps, mais qu’à un moment donné, Joseph lui avait demandé de payer dorénavant le loyer à l’un de ses frères.
+[11] Je fais remarquer que selon les renseignements déposés auprès du Registraire des entreprises du Québec (pièce A-1, onglet 6), Anjar compte trois actionnaires, soit Joseph Trimarchi, Graziella Trimarchi et Sebastiana Trimarchi. Natalina Mandato Trimarchi est l’administratrice d’Anjar.
+[12] En janvier 2006, Anjar et Natalina Mandato Trimarchi ont vendu l’unité 501 à Sebastiana Trimarchi (pièce A-1, onglet 3). M. Siscoe a déclaré lors de son témoignage qu’il ne savait pas que Sebastiana Trimarchi était propriétaire de l’unité 501 depuis 2006.
+[13] En mai 2010, M. Siscoe a conclu un bail de trois ans pour l’unité 501 avec Sebastiana Trimarchi qui a signé en qualité de propriétaire. Dans la section désignant la « propriétaire (locatrice) », elle inscrit son adresse au 439, boul. de l’Île, à Pincourt. Cependant, dans la section des signatures, juste au-dessus de la signature de M. Siscoe indiquant qu’il a signé le bail le 12 mai 2010 à Montréal, il est indiqué que Sebastiana Trimarchi a signé le bail le 1er mai 2010 en Italie. De plus, elle a fourni deux numéros de téléphone, un numéro de Montréal et un numéro international. M. Siscoe a déclaré lors de son témoignage qu’il doute fort qu’il ait prêté attention à l’un ou l’autre de ces numéros. Je fais remarquer que le numéro international est le numéro auquel l’auditrice a joint Sebastiana Trimarchi en octobre 2018 (pièce R-11).
+[14] M. Siscoe a déclaré lors de son témoignage qu’il avait vu Sebastiana Trimarchi en personne trois ou quatre fois au cours des années. Il l’a vue en 2010 lorsqu’elle est venue avec le bail, une fois en 2014 ou 2015 lorsqu’elle est venue accompagnée d’enfants et une autre fois lorsqu’elle est venue seule vers 2017. M. Siscoe a précisé que les rencontres se sont déroulées sans incident.
+[15] M. Siscoe a déclaré qu’en 2011, 391 a commencé à payer le loyer de l’unité 501 en son nom parce que [traduction] « c’était plus facile du point de vue de la comptabilité » et que cela était comptabilisé dans le compte de prêt aux actionnaires. Le compte bancaire de l’entreprise montre que des chèques ont été libellés à l’ordre de Sebastiana Trimarchi par 391 chaque mois à partir de juillet 2011 jusqu’en janvier 2016, le dernier relevé bancaire déposé en preuve.
+[16] Peu de choses peuvent être tirées des courriels échangés entre M. Siscoe et Sebastiana Trimarchi produits en preuve autre que le fait que son adresse de courriel se terminait par .it plutôt que par .ca ou .com et le fait qu’un courriel contient un langage que M. Siscoe a reconnu comme très probablement de l’italien, déclarant qu’il parle italien, mais pas très bien.
+[17] M. Siscoe a affirmé catégoriquement qu’il n’avait jamais été informé que Sebastiana Trimarchi vivait en Italie ou au Canada. Il a reconnu que ni 391 ni lui n’avaient retenu l’impôt de la partie XIII.
+V. Régime de la partie XIII
+[18] La partie XIII de la Loi prélève un impôt sur certains types de revenus versés à des personnes non-résidentes par une personne résidente du Canada. L’article 212 est une disposition d’assujettissement visant à imposer une obligation de payer un impôt de 25 % sur certaines sommes qu’une personne non-résidente reçoit d’un résident canadien. Plus précisément, l’alinéa 212(1)d) impose une obligation de payer un impôt de 25 % sur le loyer brut payé pour utiliser ou obtenir le droit d’utiliser, au Canada, tout bien appartenant à une personne non-résidente.
+[19] Afin d’assurer la perception de l’impôt payable par une personne non-résidente, le paragraphe 215(1) de la Loi exige que le résident canadien retienne l’impôt et le remette au receveur général du Canada. Dans les cas où un mandataire verse une somme à la personne non-résidente au nom d’un débiteur, le paragraphe 215(2) exige que le mandataire retienne l’impôt et le remette. Aux termes du paragraphe 215(6), une personne qui omet de déduire et de retenir l’impôt ainsi que la pénalité et les intérêts conformément aux paragraphes 227(8) et (8.3).
+[20] Je m’empresse d’ajouter que l’article 216 autorise une personne non-résidente à choisir de payer l’impôt de la partie I sur le revenu net de location de biens immeubles au Canada plutôt que l’impôt au taux fixe de 25 % sur les loyers bruts. Généralement, la différence entre l’impôt établi aux termes de la partie XIII et celui établi aux termes de la partie I est telle que le choix déclenche un remboursement à la personne non-résidente. Aucun choix de ce genre n’a été fait dans les circonstances de l’espèce avant les cotisations de 2018 établies à l’encontre de l’appelante.
+[21] Dans ses commentaires sur la partie XIII de la Loi, le professeur Krishna a défini le régime de la retenue d’impôt comme un [traduction] « compromis délicat » et le [traduction] « seul moyen réaliste d’imposer le revenu des personnes non-résidentes qui n’exploitent pas une entreprise au Canada » (Vern Krishna, Fundamentals of Canadian Income Tax (Toronto: Thomson Reuters, 2018), vol. 2, pages 580 et 581).
+VI. Les thèses des parties
+La thèse de l’appelante
+[22] L’appelante prétend qu’elle n’est pas assujettie à l’impôt de la partie XIII parce qu’elle a réfuté la conclusion du ministre selon laquelle Sebastiana Trimarchi était une personne non-résidente du Canada pendant la période pertinente et que les éléments de preuve qu’elle a présentés sont suffisants pour démontrer que Sebastiana Trimarchi vivait au Canada. Dans ces circonstances, l’appelante prétend qu’il incombe à l’intimé de démontrer que Sebastiana Trimarchi était une personne non-résidente.
+[23] En outre, l’appelante prétend que pour que l’article 215 s’applique, le payeur résident canadien doit savoir que le bénéficiaire était une personne non-résidente. De plus, une interprétation selon laquelle la connaissance ne joue pas de rôle dans l’application de l’article 215 engendrerait une injustice envers les locataires. Selon l’appelante, puisque David Siscoe ne savait pas que Sebastiana Trimarchi était une personne non-résidente, l’article 215 ne devrait pas s’appliquer à lui. Enfin, l’appelante affirme que les pénalités ne devraient pas s’appliquer parce que Sebastiana Trimarchi a activement dissimulé son statut de personne non-résidente.
+La thèse de l’intimé
+[24] L’intimé prétend qu’aux termes du paragraphe 215(1), l’appelante était tenue de retenir et de remettre l’impôt de la partie XIII sur le loyer payé à Sebastiana Trimarchi parce qu’elle était une personne non-résidente. Par conséquent, l’intimé prétend qu’en application du paragraphe 215(6), l’appelante est assujettie à l’impôt de la partie XIII, aux pénalités et aux intérêts connexes en application des paragraphes 227(8) et (8.3).
+[25] En réponse à l’argument de l’appelante selon lequel le ministre a été [traduction] « indulgent » à l’égard de Mme Trimarchi, mais [traduction] « rigoureux » à l’égard de l’appelante, l’avocate de l’intimé a déclaré que tous avaient fait l’objet d’une cotisation comme le permet expressément la Loi. L’intimé a fait valoir que le ministre peut établir une cotisation à l’égard d’un contribuable résident parce qu’il a omis de retenir et de verser l’impôt de la partie XIII et établir également une cotisation à l’égard du contribuable non résident pour l’impôt de la partie XIII. Pour appuyer sa thèse, elle a renvoyé à la décision Solomon c. La Reine, 2007 CCI 654, par. 9, dans laquelle la juge Miller, alors juge, a conclu que le paragraphe 215(6) ne transfère pas le fardeau fiscal du bénéficiaire non résident au payeur résident. À mon avis, le paragraphe 215(6) ne transfère pas non plus le fardeau du payeur résident au bénéficiaire non résident, qui peut faire l’objet d’une cotisation à l’égard de l’impôt de la partie XIII.
+VII. Analyse
+[26] L’avocate de l’intimé a prétendu que pour que le paragraphe 215(6) s’applique, il y a essentiellement trois conditions : i) un résident du Canada a omis de retenir et de verser l’impôt; ii) sur une somme imposable aux termes de la partie XIII; iii) une somme a été payée à une personne non-résidente. L’intimé a fait valoir que personne ne conteste le fait que l’appelante est une résidente du Canada et, en outre, qu’elle a omis de retenir et de remettre l’impôt de la partie XIII sur le loyer payé à Sebastiana Trimarchi. Les éléments de preuve présentés au procès, notamment le grand livre général et les relevés bancaires de l’appelante, démontrent clairement que l’appelante a payé un loyer à Sebastiana Trimarchi pendant la période pertinente. Je conclus que l’appelante tombe sous le coup des exigences i) et ii) mentionnées ci-dessus en tant que résidente canadienne qui a effectué des paiements de loyer au nom de David Siscoe et qu’elle a omis de faire la retenue et le paiement. L’élément de l’article 215 sur lequel les parties sont en désaccord est de savoir si Sebastiana Trimarchi était une personne non-résidente du Canada de 2011 à 2016.
+Résidence
+[27] Les avocats des deux parties ont renvoyé à l’arrêt de principe Thomson v MNR, [1946] SCR 209, par. 47, dans lequel la Cour suprême du Canada a conclu que le terme [traduction] « résidence » ne correspond pas à des éléments invariables, il est plutôt très souple et ses nuances nombreuses varient selon le contexte. Il est tout à fait impossible d’en donner une définition précise et applicable à tous les cas. La Cour suprême a ajouté que la résidence [traduction] « dépend essentiellement du point jusqu’auquel une personne s’établit en pensée et en fait, ou conserve ou centralise son mode de vie habituel avec son cortège de relations sociales, d’intérêts et de convenances, au lieu en question » (Thomson, par. 50).
+[28] L’avocat de l’appelante a prétendu que la détermination de la résidence peut être complexe et a renvoyé à la décision de notre Cour Biya c. La Reine, 2020 CCI 113, pour illustrer tous les facteurs qu’une Cour peut prendre en compte pour déterminer un lieu de résidence. En examinant les facteurs pertinents aux circonstances particulières de l’espèce, l’avocat de l’appelante a prétendu que la Cour devrait conclure que Sebastiana Trimarchi était une résidente du Canada vu ses liens avec ce pays et l’absence de liens avec l’Italie. L’appelante a affirmé que les éléments suivants démontrent que Sebastiana Trimarchi avait des liens avec le Canada et constituent le fondement pour conclure qu’elle était une résidente du Canada : [traduction]
+· Sebastiana avait de la famille au Canada d’après les éléments de preuve indiquant que sa mère Natalina et son frère Joseph vivaient à Montréal (pièce R-11 et transcription [sic] 14).
+Plusieurs documents indiquaient que Sebastiana avait une adresse au Canada. Par exemple :
+o selon les renseignements déposés auprès du Registraire des entreprises du Québec, son adresse comme actionnaire d’Anjar indique une adresse de Montréal, soit 4040, rue Jean-B.-Meilleur (pièce A-1, onglet 6);
+o l’acte de vente de 2006 de l’unité 501 par Anjar à Sebastiana indique que son adresse est l’unité 1402, au 4175, rue Sainte-Catherine Ouest, à Montréal (pièce A-1, onglet 3);
+o sur le bail conclu avec David Siscoe en 2010, Sebastiana indique avoir signé en Italie, mais donne une adresse à Pincourt, Québec (pièce A-1, onglet 2);
+· Sebastiana avait un compte bancaire au Canada, car les chèques de loyer étaient déposés dans un compte de TD Canada Trust à une succursale de Montréal (pièce R-6);
+· Sebastiana avait un numéro d’assurance sociale indiquant qu’elle était résidente du Canada à un moment donné et il n’y a aucun élément de preuve démontrant qu’elle a cessé d’être résidente.
+[29] L’avocat a reconnu que ces liens étaient [traduction] « peu de choses » et a ajouté [traduction] « mais c’est tout ce que nous avons » (transcription, vol 2, [sic] 22). L’avocat a soutenu que l’appelante avait réfuté avec succès l’hypothèse du ministre selon laquelle Sebastiana vivait en Italie, de sorte qu’il incombait à l’intimé d’établir sa cause.
+[30] En examinant la question de savoir si Sebastiana Trimarchi était une résidente du Canada, l’intimé a présenté une preuve par l’intermédiaire de la vérificatrice, Choumele Jiofack. Mme Jiofack a déclaré lors de son témoignage qu’elle avait participé à la vérification de l’appelante et a expliqué qu’il s’agissait d’une vérification secondaire à celle de la vérification principale de David Siscoe. La vérification principale a mené la vérificatrice à demander les relevés de grand livre et du compte bancaire de l’appelante. À la lumière des renseignements qui y sont contenus, la vérificatrice a conclu que l’appelante payait le loyer de David Siscoe à Sebastiana Trimarchi et, en outre, que le loyer était payé à une personne non-résidente.
+[31] Dans le cadre de ses procédures de vérification, Mme Jiofack a vérifié si Sebastiana Trimarchi, la bénéficiaire des loyers, déclarait ce revenu. Elle a découvert que Sebastiana Trimarchi possédait un numéro d’assurance sociale, mais n’avait produit aucune déclaration d’impôt sur le revenu et n’avait trouvé aucune déclaration de renseignements, comme celles liées aux revenus d’emploi ou d’intérêts. De plus, mise à part l’adresse fournie, soit le 1402-4175, Sainte-Catherine Ouest, le rapport Equifax demandé par la vérificatrice lui a été retourné avec la mention « vide ». Mme Jiofack a déclaré lors de son témoignage qu’après avoir consulté le registre foncier, elle n’a pas pu trouver d’immeuble, autre que l’unité 501, liant Sebastiana au Canada.
+[32] Grâce aux renseignements qu’elle a obtenus auprès de membres de sa famille, Mme Jiofack a pu joindre Sebastiana Trimarchi en Italie. Je fais remarquer que le numéro de téléphone utilisé est le même que celui fourni par Sebastiana sur le bail qu’elle a signé en 2010. Au cours de cette conversation, Sebastiana a déclaré qu’elle vivait en Italie. Mme Jiofack a déclaré lors de son témoignage qu’il n’y avait aucune contestation ni aucune ambiguïté sur le fait que Sebastiana vivait en Italie et qu’elles ont eu une discussion sur les obligations fiscales de Sebastiana en tant que personne non-résidente.
+[33] L’intimé a déposé en preuve une ordonnance de la Cour fédérale accordant une requête en cautionnement pour dépens relativement à la demande de Sebastiana Trimarchi à la Cour fédérale en vue d’obtenir le contrôle judiciaire d’une décision du ministre refusant sa demande de prorogation du délai pour produire des déclarations de revenus conformément à l’article 216 de la Loi pour les années 2008 à 2015. À la lumière de l’objection de l’avocat de l’appelante, mais avec son consentement, seule une partie de la demande de contrôle judiciaire a été autorisée à être déposée en preuve. L’avocate de l’intimé a soutenu que la partie admise en preuve démontrait que, par l’intermédiaire de son avocat, Sebastiana Trimarchi demandait le contrôle judiciaire d’une décision par laquelle le ministre avait rejeté sa demande de prorogation du délai de production en application de l’article 216, une disposition qui s’applique aux personnes non-résidentes.
+[34] En ce qui concerne l’adresse au Canada que Sebastiana a indiquée sur l’acte de vente de 2006 de l’unité 501, l’avocat de l’appelante a affirmé que cela devrait être considéré comme sa véritable adresse puisque le notaire n’a pas contesté l’adresse et a procédé à la vente. En réponse à cet argument, l’avocate de l’intimé a fait valoir que la Cour n’a été saisie d’aucun élément de preuve indiquant que le notaire était tenu de vérifier la validité de son adresse en tant qu’acheteuse de l’unité. L’avocate de l’intimé a affirmé que les autres adresses au Canada fournies par Sebastiana Trimarchi pourraient être des adresses aux fins de signification puisqu’il s’agissait des mêmes adresses que celles de parents. L’adresse fournie était la même que celle de Graziella Trimarchi sur les renseignements inscrits au Bureau du registraire des entreprises et la même que celle de sa mère sur l’acte d’achat et de vente de l’unité 501. Pour appuyer sa thèse selon laquelle ces adresses ne devraient pas être acceptées comme éléments de preuve indiquant que Sebastiana Trimarchi vivait au Canada, l’avocate de l’intimé a renvoyé à la décision de notre Cour Kau c. La Reine, 2018 CCI 156, par. 20 à 22. Dans cette décision, le juge Russell a conclu que les déclarations relatives à la résidence peuvent être fausses, que ce soit intentionnel ou non, et ne devraient pas être acceptées inconditionnellement lorsqu’il n’y a pas eu de recherche pour savoir si l’adresse fournie était une indication de la résidence. Je conclus que les déclarations non solennelles de Sebastiana Trimarchi pour lesquelles il n’y a eu aucune enquête ne sont pas nécessairement concluantes quant à ses adresses résidentielles au cours des années pertinentes.
+[35] D’après les éléments de preuve examinés ci-dessus, je conclus qu’il est plus probable qu’improbable que Sebastiana Trimarchi était une personne non-résidente du Canada au cours des années d’imposition pertinentes. Je fais référence plus précisément aux éléments de preuve suivants comme révélateurs de la non-résidence de Sebastiana Trimarchi, sans ordre précis :
+elle n’a produit aucune déclaration d’impôt sur le revenu et n’avait aucune déclaration de renseignements indiquant des revenus comme des revenus d’emploi ou d’intérêts;
+l’absence de tout lien avec un bien au Canada autre que l’unité 501 qui était louée;
+un rapport d’Equifax « vide »;
+le numéro de téléphone auquel la vérificatrice l’a jointe en Italie était le même que celui qu’elle a fourni sur le bail qu’elle a signé avec David Siscoe en 2010;
+ses déclarations à la vérificatrice selon lesquelles elle vivait en Italie;
+les adresses qu’elle a fournies sur divers documents n’ont fait l’objet d’aucune enquête et étaient les mêmes que celles des membres de la famille vivant au Canada;
+la demande de contrôle judiciaire déposée auprès la Cour fédérale à l’encontre du rejet par le ministre de sa demande de prorogation du délai de production des déclarations aux termes de l’article 216 de la Loi pour les années 2008 à 2015, une disposition qui s’applique aux personnes non-résidentes;
+la correspondance par courriel entre elle et David Siscoe en 2014 et 2015 indiquant qu’elle avait une adresse courriel italienne.
+Exigence relative à la connaissance pour l’impôt de la partie XIII
+[36] L’avocat de l’appelante a soutenu que la connaissance est requise pour que le paragraphe 215(6) s’applique. Plus précisément, il a soutenu que si le payeur ne sait pas que le bénéficiaire est un non-résident, il ne devrait pas avoir à assumer les conséquences de la partie XIII. Pour appuyer ses conclusions, l’appelante s’est fondée sur la décision de notre Cour Curragh Inc c. R, 94 DTC 1894 (Curragh). En toute déférence, je conclus que la décision Curragh ne s’applique pas aux circonstances de l’espèce pour trois raisons : i) dans les circonstances de l’espèce, le paiement a été fait à un résident canadien qui était le mandataire de la bénéficiaire non résidente et il n’y a pas de mandataire dans le présent appel; ii) dans la décision Curragh, le payeur savait effectivement que le bénéficiaire était une personne non-résidente; (iii) le juge Mogan a affirmé que 215(6) dépendait de la connaissance du payeur, mais a ajouté qu’il n’était pas tenu de trancher cette question précise sur les faits de cette affaire. Par conséquent, à mon avis, la décision Curragh ne peut appuyer la thèse selon laquelle la connaissance est requise pour que le paragraphe 215(6) s’applique.
+[37] L’appelante a en outre soutenu qu’une interprétation selon laquelle le paragraphe 215(6) s’applique pour assujettir à l’impôt de la partie XIII un locataire qui ignore que la propriétaire est une personne non-résidente serait injuste et a prétendu que cela ne saurait traduire l’intention du législateur. Elle a imploré à la Cour de choisir une interprétation sensée, que les gens peuvent accepter, plutôt qu’une interprétation qui cause une injustice. L’avocat a reconnu que le texte de la disposition ne comporte pas d’exigence imposant au payeur d’avoir connaissance que le bénéficiaire est une personne non-résidente et a déclaré qu’il n’avait aucune preuve de l’intention du législateur.
+[38] L’appelante a affirmé que l’obligation générale en matière de retenue et de paiement devrait être interprétée comme une possibilité d’invoquer la défense fondée sur la diligence raisonnable, comme cela a été reconnu dans la jurisprudence pour l’interprétation de certaines dispositions qui prévoient une pénalité. Je suis d’accord que la jurisprudence a toujours conclu qu’un contribuable peut présenter une défense fondée sur la diligence raisonnable à l’égard de certaines dispositions qui prévoient une pénalité, mais je ne suis pas d’accord qu’une défense fondée sur la diligence raisonnable puisse être invoquée à l’égard de l’obligation en matière de retenue et de paiement aux termes du paragraphe 215 (6). Ce point de vue est étayé dans la décision du juge Hogan J.K. Reed Engineering Ltd c. La Reine, 2014 CCI 309, par. 17 dans laquelle il a déclaré : « Le paragraphe 215(6) de la Loi est une disposition d’assujettissement à l’impôt qui rend le payeur responsable du paiement de l’impôt du bénéficiaire si, au moment du paiement, le payeur omet de déduire ou de retenir l’impôt payable par le bénéficiaire. Par contre, le paragraphe 227(8) de la Loi est une disposition qui prévoit une pénalité. Le moyen de défense fondé sur la diligence raisonnable peut être invoqué à l’encontre de la seconde disposition, mais non la première ». Il convient de rappeler que le paragraphe 227(8) de la Loi est une disposition qui prévoit une pénalité réelle en raison de l’omission de retenir et de remettre toute somme exigée par l’article 215, qui a été ajoutée pour soutenir la perception de l’impôt imposé par la disposition d’assujettissement à l’impôt. J’ajouterai qu’en tout état de cause, en l’espèce, l’appelante n’a pas invoqué la diligence raisonnable ni déposé d’élément de preuve à cet égard.
+[39] Pour résumer le raisonnement de l’appelante, puisque David Siscoe ne savait pas que Sebastiana Trimarchi était une personne non-résidente et qu’il n’avait aucune raison de le croire, l’article 215 ne devrait pas s’appliquer à l’appelante.
+[40] L’avocate de l’intimé a fait valoir que l’obligation aux termes du paragraphe 215(6) ne dépend pas du fait que le contribuable sache que des paiements ont été faits à une personne non-résidente. Elle a prétendu qu’en appliquant l’interprétation textuelle, contextuelle et téléologique prescrite par la Cour suprême du Canada dans l’arrêt Hypothèques Trustco Canada c. Canada, 2005 CSC 54, il est clair qu’aucun élément de connaissance n’est requis pour imposer une obligation aux termes du paragraphe 215(6).
+[41] Je suis d’accord avec les commentaires du juge Mogan dans la décision Curragh, supra, par. 24 où il a affirmé que [traduction] « l’article 215 est clair et non ambigu. Aucune aide ne lui est nécessaire quant à l’interprétation. Je vais néanmoins examiner l’historique de la disposition déposée sous la forme du projet de loi 96 en 1933 (projet de loi C-96, Loi modifiant la Loi de l’impôt de guerre sur le revenu, 4e session, 17e législature, 1933, ch. 12 (première lecture le 5 mai 1933). Selon les renseignements figurant au projet de loi 96, le prédécesseur de l’article 215 a été ajouté pour soutenir l’application de la disposition d’assujettissement à l’impôt aux personnes non-résidentes, elle-même applicable depuis 1923. En première lecture, le projet de loi 96 disposait de ce qui suit : [traduction]
+12. L’article vingt-sept de cette loi est modifié par l’ajout des paragraphes suivants :
+« (3) Toute personne qui effectue un paiement, par quelque moyen que ce soit, à une personne non-résidente au titre d’une chose donnée à louer, louée ou utilisée au Canada, ou au titre de redevances pour une chose utilisée ou vendue au Canada, doit déduire de chacun de ces paiements douze et un demi-pour cent de celui-ci.
+(4) Le montant ainsi déduit est remis au receveur général du Canada en même temps que le paiement est effectué ou porté au crédit de la personne non-résidente et est accompagné d’une déclaration sous la forme prescrite par le ministre […] ».
+12. Le présent article est une disposition habilitante pour appuyer l’article 27 de la Loi, en vertu duquel toutes les personnes non-résidentes depuis 1923 sont assujetties à l’impôt sur le revenu canadien sur tous les loyers et toutes les redevances. Les dispositions de cet article 27 édictées en 1924 et applicables à la période d’imposition de 1923 dans la mesure où elles traitent des locations et des redevances sont libellées ainsi;
+« 27 […]. Ou toute personne non-résidente qui donne à louer ou loue une chose utilisée au Canada ou qui reçoit une redevance ou un autre paiement semblable pour une chose utilisée ou vendue au Canada, est réputée exploiter une entreprise au Canada et gagner une partie proportionnelle du revenu qui en sont dérivés au Canada ».
+La difficulté à appliquer cet article est que, bien que les personnes non-résidentes soient assujetties à l’impôt sur les loyers et les redevances depuis 1923, dans la majorité des cas, ces personnes non-résidentes ont apparemment pris tous les moyens possibles pour éviter de fournir des renseignements, de produire des déclarations ou d’admettre toute responsabilité aux termes de la Loi, même si elles avaient droit à un crédit dans leur propre pays à l’égard de tout impôt sur le revenu payé au Canada. En retenant un pourcentage des loyers et des redevances à la source, les personnes non-résidentes souhaiteront produire leur déclaration indiquant leur revenu de source canadienne, ainsi que les déductions au titre des dépenses applicables à ces revenus canadiens, afin que le montant exact de leur impôt canadien puisse être établi, car un crédit appliqué à l’impôt à payer sera accordé pour tout montant retenu et des rajustements seront apportés en conséquence.
+[42] L’ancien paragraphe 215(6), ajouté à la Loi en 1960 en vertu du paragraphe 109(5) (Loi de l’impôt sur le revenu, L.R.C., 1952, ch. 148 dans sa version modifiée par 1960, ch. 43, paragraphe 29(2)) est pratiquement identique à la version actuelle. Il n’y avait aucune exigence relative à la connaissance dans la disposition relative à la retenue lorsqu’elle a été déposée pour la première fois et aucune n’a été ajoutée au texte depuis. De plus, lorsque le législateur veut limiter l’assujettissement d’un résident aux circonstances dont il a une connaissance ou une croyance, il le fait expressément. Le paragraphe 116(5) en est un exemple.
+[43] Relativement à la pénalité imposée en l’espèce, je suis d’accord avec l’appelante qu’une défense fondée sur la diligence raisonnable peut être invoquée, mais bien sûr, cette défense doit être établie. L’appelante n’a pas prouvé qu’elle a fait preuve de diligence raisonnable pour s’assurer du respect de ses obligations. Les Cours ont conclu que pour réussir à opposer une défense à l’imposition d’une pénalité, on s’attend à ce que le contribuable qui cherche à invoquer une défense de diligence raisonnable doive démontrer qu’il a fait preuve de toute la diligence possible pour se conformer à ses obligations en vertu de la Loi (voir par exemple, Ogden Palladium Services (Canada) Inc c. La Reine, 2001 DTC 345). Dans les circonstances de l’espèce, l’appelante n’a pris aucune mesure pour s’assurer du respect de ses obligations en matière de retenue. L’avocat a soutenu que l’appelante était justifiée de ne pas prendre de mesures pour s’assurer de la conformité parce qu’elle n’avait aucune raison de croire que Sebastiana Trimarchi était une personne non-résidente. Malheureusement, cela ne suffit pas pour satisfaire à la norme d’un haut degré de diligence. Je conclus donc que le ministre était justifié d’imposer la pénalité prévue à l’article 227(8) de la Loi.
+VIII. Conclusion
+[44] D’après l’analyse qui précède, je conclus que le paragraphe 215(6) n’exige pas que le payeur sache que le bénéficiaire est une personne non-résidente. La disposition énonce clairement que lorsqu’une personne a omis de faire les déductions et les remises comme prévu, elle est assujettie à l’impôt de la partie XIII. Ayant conclu que Sebastiana Trimarchi était une personne non-résidente au cours des années pertinentes et que les éléments de preuve ont démontré que l’appelante a omis de retenir et de remettre l’impôt de 25 % à payer sur le loyer qui lui a été versé, l’appelante est assujettie à l’impôt de la partie XIII. De plus, l’appelante est passible des pénalités et des intérêts prévus aux paragraphes 227(8) et (8.3).
+[45] Mon examen du régime prévu à la partie XIII de la Loi m’amène à conclure qu’il contient un ensemble intégré de dispositions visant à imposer les personnes non-résidentes sur des revenus comme les loyers et à assurer la perception de l’impôt dû. Comme l’a soutenu l’appelante, la partie XIII peut avoir de graves conséquences, et dans certains cas, plus encore que dans d’autres. Toutefois, au regard de l’objet du régime, je suis convaincu que le paragraphe 215(6) est censé s’appliquer de manière à imposer une obligation au payeur résident, comme l’appelante, qui a omis de faire la retenue et le versement.
+[46] L’appel est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 30e jour de mars 2023.
+« Gabrielle St-Hilaire »
+La juge St-Hilaire
+RÉFÉRENCE :
+2023 CCI 37
+NO DU DOSSIER DE LA COUR :
+2021-1804(IT)I
+INTITULÉ :
+3792391 CANADA INC., ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 8 mars 2023
+Le 13 mars 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge Gabrielle St-Hilaire
+DATE DU JUGEMENT :
+Le 30 mars 2023
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Hong Ky (Eric) Luu
+Avocates de l’intimé :
+Me Samantha Jackmino
+Me Janie Payette
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Hong Ky (Eric) Luu
+Cabinet :
+HKL Tax Law
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada Ottawa, Canada

@@ -1,0 +1,189 @@
+---
+title: "Hovhannessian c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28928/index.do"
+last_modified: "2008-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 584"
+citation2: ""
+neutral_citation: "2008 CCI 584"
+decision_date: "2008-10-24"
+language: "fr"
+item_id: "28928"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1370
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:16:55.026000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0eeb345a521b0d49858e841d455f029e6799175c3feb6ac94dbf5be38406bbc9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hovhannessian c. La Reine
+
+- Citation: 2008 CCI 584
+- Decision date: 2008-10-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1370, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hovhannessian c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-10-24
+Référence neutre
+2008 CCI 584
+Numéro de dossier
+2007-4909(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4909(IT)I
+ENTRE :
+ZEVART HOVHANNESSIAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 20 octobre 2008, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Avocate de l’intimée :
+Me Sarom Bahk
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu à l'égard des années d’imposition 2001, 2002 et 2003 sont rejetés.
+Signé à Montréal (Québec), ce 24e jour d'octobre 2008.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2008 CCI 584
+Date : 20081024
+Dossier : 2007-4909(IT)I
+ENTRE :
+ZEVART HOVHANNESSIAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelante en appelle de cotisations établies par le ministre du Revenu national (ministre) pour les années d’imposition 2001, 2002 et 2003. Le ministre a ajouté au revenu de l’appelante pour ces années des sommes additionnelles, en chiffres arrondis, de 18 647 $ en 2001, 19 183 $ en 2002 et de 26 470 $ en 2003.
+[2] L’appelante exploitait pendant ces années une entreprise de confection de vêtements dont elle était l’unique propriétaire. En 2001, elle a déclaré, en chiffres arrondis, un revenu brut de cette entreprise de 239 600 $ et une perte finale de 7 031 $; en 2002, un revenu brut de 510 509 $ et un revenu net de 1 649 $; et en 2003, un revenu brut de 463 953 $ et un revenu net de 3 762 $ (pièce I-3).
+[3] Le ministre a vérifié les revenus de l’appelante en utilisant la méthode de l’avoir net, puisque le revenu net familial semblait peu élevé.
+[4] Pour reconstituer les revenus selon la pièce I-4, le ministre a déterminé l’accroissement de l’actif net familial entre la fin de l’année 2000 et la fin de l’année 2003, auquel il a ajouté les dépenses personnelles de la famille. De ce total, il a déduit les montants de taxe remboursés (taxe sur les produits et services et taxe de vente du Québec), les remboursements d’impôt sur le revenu (incluant la prestation fiscale canadienne pour enfants), et un montant non imposable de 7 718,50 $ reçu du frère de l’appelante en novembre 2002. Cet exercice a permis au ministre de calculer un revenu total familial imposable de 34 671,77 $ en 2001, 43 712,02 $ en 2002 et de 53 992,06 $ en 2003.
+[5] Le ministre a ensuite diminué ce revenu total familial imposable, du revenu familial déclaré, pour arriver à un revenu net familial imposable non déclaré de 18 646,77 $ en 2001, de 19 183,02 $ en 2002 et de 26 470,06 $ en 2003.
+[6] Puisque le conjoint de l’appelante recevait un revenu d’emploi, qu’il a totalement déclaré selon les feuillets T-4 émis par son employeur, qu’il n’y avait pas d’autres sources de revenu déclarées dans la famille que l’entreprise de l’appelante, le ministre a ajouté le revenu familial non déclaré dans le revenu de l’appelante, la seule propriétaire de l’entreprise. Le ministre a également imposé une pénalité sous le paragraphe 163(2) de la Loi de l’impôt sur le revenu sur ces montants non déclarés.
+[7] Voici un tableau sommaire de ce que je viens d’expliquer ci-haut pour établir les sommes additionnelles que le ministre a incluses dans le revenu de l’appelante.
+2001
+2002
+2003
+Accroissement de l’actif net
+3 387,98
+7 814,91
+(6 516,28)
+plus
+Dépenses personnelles
+36 686,29
+47 395,01
+64 645,91
+Total
+40 074,27
+55 209,92
+58 129,63
+moins
+Déductions (TPS + TVQ reçues, somme reçue du frère (2002), remboursements d’impôt)
+5 402,50
+11 497,90
+4 137,57
+Revenu total familial imposable selon l’avoir net
+34 671,77
+43 712,02
+53 992,06
+moins
+Revenu déclaré
+appelante
+(7 031,00)
+1 649,00
+3 762,00
+conjoint
+23 056,00
+22 880,00
+23 760,00
+Revenu total imposable non déclaré et cotisé
+18 646,77
+19 183,02
+26 470,06
+[8] Dans ce tableau sommaire, l’appelante conteste principalement le montant des dépenses personnelles. Selon deux rapports de la vérificatrice (pièces I‑5 et I‑6), les montants des dépenses personnelles proviennent des relevés de cartes de crédit, relevés bancaires et des feuilles de coût de vie remplies et signées par l’appelante à la demande de l’Agence de Revenu du Canada (ARC). J’ai revu avec l’appelante la description de ces dépenses établies par le ministre (pièces I-1 et I-2), et elle a indiqué les dépenses particulières avec lesquelles elle n’était pas d’accord. Je vais traiter de ces dépenses uniquement.
+Les dépenses au restaurant
+[9] Le ministre a établi un montant de 1 000 $ par année. L’appelante dit qu’elle ne va jamais au restaurant. Selon le tableau des dépenses personnelles (pièce I-2), il y a une dépense en septembre 2002 qui a été payée par une carte de crédit Visa TD pour un montant de 138,12 $ à l’hôtel Waltham, dans le Maine aux États-Unis. Il y a d’autres dépenses de restaurant payées avec la carte de crédit American Express de 100,38 $ en juin 2003 et de 102,34 $ en octobre 2003.
+[10] Madame Gaétanne Rodgers, chef d’équipe à la vérification à l’ARC, est venue témoigner en l’absence de la vérificatrice, qui est en congé de maternité. Elle a expliqué que ces dépenses sur cartes de crédit démontraient que ce n’était pas vrai que l’appelante n’allait jamais au restaurant avec sa famille. L’appelante a ensuite dit que ces dépenses étaient des frais d’entreprise. Toutefois, il n’y a aucune dépense de repas qui a été réclamée par l’appelante dans les états des revenus et dépenses de son entreprise fournis avec les déclarations de revenu de cette dernière (pièce I-3). La vérificatrice en a donc conclu que l’appelante et sa famille avaient des dépenses de restaurant et a estimé un coût de 1 000 $ par an, selon les chiffres établis par Statistique Canada, pour un couple ayant un enfant, qui était âgé de 10 ans en 2001.
+Vêtements
+[11] Le ministre a établi à 4 000 $ en 2001, à 4 200 $ en 2002 et à 4 613,35 $ en 2003 les dépenses familiales à ce sujet. Madame Rodgers a expliqué que ces montants provenaient des dépenses faites par cartes de crédit et des retraits bancaires associés à des magasins de vêtements. Une comparaison a ensuite été effectuée avec le chiffre établi par Statistique Canada. L’appelante a mentionné que souvent elle payait pour ses sœurs qui lui remboursaient par la suite. Aucune d’elles n’était présente pour confirmer ce point. Apparemment, au moins l’une d’elles demeure au Liban.
+L’essence
+[12] Le ministre a établi à ce titre, des dépenses de 1 623,44 $ en 2001, de 1 659,71 $ en 2002 et de 1 705,73 $ en 2003. L’appelante dit qu’elle n’a pas dépensé plus que 1 000 $ par année en essence. L’automobile familiale est une Sunfire 1995. Lors de la vérification, on a retracé des dépenses sur cartes de crédit et on a estimé le montant final selon les chiffres de Statistique Canada. L’appelante n’a rien déposé en Cour pour justifier son chiffre annuel de 1 000 $.
+Loisirs
+[13] Le ministre a établi des dépenses totales de 974,95 $ en 2001, de 996,72 $ en 2002 et de 1 024,36 $ en 2003. On a retracé des montants payés par cartes de crédit pour des activités sportives et on a établi le chiffre final selon un estimé de Statistique Canada. L’appelante a mentionné que son fils travaillait depuis l’âge de 13 ans pour payer ses activités personnelles et sportives. Toutefois, au cours des années en litige, le fils n’avait pas encore atteint l’âge de 13 ans.
+Alcool et tabac
+[14] Le ministre a mis un montant de 200 $ par année à ce sujet. L’appelante dit que personne ne fume et ne boit d’alcool dans la famille. Toutefois, on a retracé une dépense faite par carte de crédit (American Express) à la Société des alcools du Québec de 136,95 $ en décembre 2003. La vérificatrice a donc estimé une dépense annuelle de 200 $ à ce titre.
+Primes d’assurance-vie
+[15] Le ministre a établi une dépense annuelle de 840 $, alors que l’appelante a dit en Cour que c’était 720 $. Elle n’a toutefois pas donné la documentation à ce sujet.
+Cadeaux en argent
+[16] Le ministre a établi un chiffre de 758,41 $ en 2001, de 775,35 $ en 2002 et de 796,86 $ en 2003. La vérificatrice se serait appuyée sur les chiffres estimatifs de Statistique Canada. L’appelante dit qu’elle n’a pas fait de cadeaux.
+Permis et immatriculation
+[17] Le ministre a inscrit un chiffre annuel de 682 $ à ce titre. Ce point apparaît dans la rubrique « Other » et madame Rodgers a expliqué que dans cette rubrique, il ne s’agit pas d’estimés, mais de dépenses retracées effectivement payées. L’appelante n’a fourni aucun document à ce sujet.
+Vidéotron
+[18] Le ministre a établi un montant de 480 $ juste en 2001. L’appelante dit qu’elle n’a jamais été abonnée à Vidéotron. Or, on retrace des dépenses faites à Vidéotron dans le relevé bancaire BMO (Banque de Montréal) de 502,64 $ en 2001 (pièce I‑2, p. 7/7).
+[19] Outre la question des dépenses personnelles, l’appelante soutient de plus que les écarts établis par l’avoir net s’expliquent par des dons qu’elle aurait reçus en argent de sa famille au Liban. Elle a produit une lettre qu’elle avait remise à la vérificatrice, signée par sa sœur mais non datée, où celle-ci déclare avoir donné 5 000 $US à l’appelante en juillet 2001 (pièce I-7). Selon cette lettre, cette sœur de l’appelante travaille à la « Social Welfare Agency » depuis 1971. On ne sait pas si c’est au Canada ou au Liban. La vérificatrice n’a pas retenu ce document comme preuve, car elle n’a pu retracer d’entrées d’argent équivalentes dans le compte bancaire de l’appelante. Celle-ci a dit que sa sœur était au Liban et ne pouvait venir témoigner. Toutefois, si je comprends bien, cette dernière était présente au Canada au mois d’août 2008 avec ses propres carnets bancaires, mais l’appelante dit qu’elle n’a pas pensé lui faire faire des copies. Elle a aussi dit qu’elle recevait de l’argent d’autres personnes du Liban, mais qu’elle ne déposait pas ces sommes en banque.
+[20] En contre-interrogatoire, l’appelante a reconnu qu’elle avait elle-même fourni à la vérificatrice les renseignements servant à établir son coût de vie. Elle a également répondu qu’elle n’avait pas l’habitude de demander des reconnaissances écrites des sommes d’argent qu’elle dit avoir reçues.
+[21] En argumentation, l’appelante invoque que la vérificatrice a établi ses dépenses personnelles en partie par les dépenses que l’on retrouve sur ses cartes de crédit. Toutefois, elle a mentionné qu’il faut aussi tenir compte des dettes impayées sur les cartes de crédit. En réponse à cet argument, on peut constater que ceci a été tenu en compte dans le passif de l’avoir net dans les prêts (pièce I‑4).
+[22] L’appelante dit aussi qu’elle a reçu des prestations fiscales canadiennes pour enfants non imposables. Ceci a également été tenu en compte dans les déductions sous le titre PFE (pièce I‑4).
+[23] L’avocate de l’intimée s’appuie sur la récente décision de la Cour d’appel fédérale (CAF) dans Lacroix c. Canada, [2008] A.C.F. no 1092 (QL). On rappelle dans cette décision que dans la mesure où le ministre présume que le revenu constaté par l’application de la méthode de l’avoir net est un revenu imposable, il revient au contribuable de démolir cette présomption. Si aucune preuve crédible n’est apportée par ce dernier, le ministre n’est pas dans l’obligation de déposer une preuve de l’existence de ce revenu (paragraphe 20).
+[24] De plus, la Cour ajoute que si le contribuable n’apporte pas cette preuve crédible, il faut en conclure inéluctablement que ce dernier a sciemment produit une fausse déclaration dans des circonstances équivalant à faute lourde (paragraphe 30).
+[25] Par ailleurs, l’avocate de l’intimée a également cité une autre décision de la CAF, Hsu c. Canada, [2001] A.C.F. no 1174 (QL), où l’on dit :
+[30] Par sa nature, une évaluation de la valeur nette est une estimation arbitraire et imprécise du revenu du contribuable. Toute iniquité perçue se rapportant à ce genre d'évaluation est réglée en reconnaissant que le contribuable est celui qui est le mieux placé pour connaître son revenu imposable. Lorsque le fondement factuel de l'estimation du ministre est inexact, il devrait être simple pour le contribuable de corriger à la satisfaction de la Cour l'erreur que le ministre a commise.
+[26] L’appelante conteste le montant des dépenses personnelles établi par le ministre. Pourtant, ce montant a d’abord été établi à partir des montants fournis par l’appelante dans les formulaires de coût de vie qu’elle a signés et remis à la vérificatrice. Il est vrai que certains de ces montants semblent avoir été établis en s’appuyant sur des valeurs estimées par Statistique Canada. Ces montants m’apparaissent toutefois raisonnables pour une famille de trois personnes, dont un enfant âgé de 10 à 12 ans dans les années en litige. Le témoignage de l’appelante a été contredit à quelques reprises par les documents déposés en preuve et cela met en doute la crédibilité de son témoignage. Il aurait fallu dans les circonstances qu’elle apporte avec elle des documents prouvant de façon plus explicite les motifs de contestation qu’elle avançait. Ceci n’a pas été fait. Le même raisonnement s’applique pour les dons que l’appelante dit avoir reçus de sa famille au Liban et qui n’ont pas été acceptés par le ministre. Elle n’a pas établi de façon probante l’existence de tels dons.
+[27] Compte tenu de la preuve devant moi et de la jurisprudence citée, je me vois donc dans l’obligation de rejeter les appels en totalité, confirmant ainsi les cotisations sous appel, incluant les pénalités.
+Signé à Montréal (Québec), ce 24e jour d'octobre 2008.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2008 CCI 584
+Nº DU DOSSIER DE LA COUR : 2007-4909(IT)I
+INTITULÉ DE LA CAUSE : ZEVART HOVHANNESSIAN c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 20 octobre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 24 octobre 2008
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Pour l’intimée :
+Me Sarom Bahk
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

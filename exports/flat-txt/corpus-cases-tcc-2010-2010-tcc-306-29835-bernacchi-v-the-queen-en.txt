@@ -1,0 +1,159 @@
+Title: Bernacchi v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29835/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-306-29835-bernacchi-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-06-04
+
+# Bernacchi v. The Queen
+
+- Citation: 2010 TCC 306
+- Decision date: 2010-06-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6577, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bernacchi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-04
+Neutral citation
+2010 TCC 306
+File numbers
+2009-2798(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2798(IT)I
+BETWEEN:
+BRUNA BERNACCHI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on February 4, 2010, at Toronto, Ontario
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Agent for the Appellant:
+Danny Mitonides
+Counsel for the Respondent:
+Toks C. Omisade
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2005, 2006 and 2007 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of June, 2010.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2010TCC306
+Date: 20100604
+Docket: 2009-2798(IT)I
+BETWEEN:
+BRUNA BERNACCHI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Bruna Bernacchi, is appealing the reassessments of her 2005, 2006 and 2007 taxation years. At the hearing, the Appellant abandoned her claim for an allowable business investment loss; the only issue in dispute is her entitlement to an interest expense deduction for amounts advanced from a line of credit to Maple Gate Bakeries Inc. (the “Bakery”), a business in which her former spouse held shares.
+[2] In reassessing the Appellant’s 2005, 2006 and 2007 taxation years, the Minister relied on the assumptions of fact set out in paragraph 15 of the Reply to the Notice of Appeal:
+a) in filing her return of income for the 2006 taxation year, the appellant claimed a deduction for an allowable business investment loss (“ABIL”) in the amount of $77,500;
+b) the ABIL claimed was in respect of investments in a corporation, Maple Gate Bakeries Inc. (“Maple Gate”) and was calculated as follows:
+share purchase amount financed from joint line of credit
+$ 52,500
+share purchases financed by promissory notes
+20,000
+interest paid to a third party from whom shares were bought with a promissory note
+5,000
+total claimed
+$ 77,500
+c) in preparing her returns of income, the appellant claimed deductions in the amounts of $3,001.29, $5,742.90 and $8,406.37 as interest expenses incurred in the 2005, 2006 and 2007 taxation years, respectively;
+d) the interest expenses claimed in each of the years under appeal were in respect of investments in Maple Gate made by the appellant’s former spouse in the form of share purchases;
+e) Maple Gate went bankrupt on December 1, 2006;
+f) the appellant was never a shareholder of Maple Gate;
+g) the appellant’s former spouse was a shareholder of Maple Gate;
+h) the appellant’s former spouse used a combination of interest-bearing promissory notes and funds from a secured line of credit held jointly with the appellant to purchase his shares of Maple Gate from a third party;
+i) the appellant’s former spouse acquired his shares in Maple Gate prior to the years under appeal;
+j) the appellant and her former spouse became separated in 2004 and signed a formal separation agreement in September 2005;
+k) at the time of the separation, the matrimonial home had two mortgages, one of which being the secured line of credit, a part of which had been used to finance the purchase of the Maple Gate shares owned by the appellant’s former spouse;
+l) as part of the division of marital assets and in accordance with the separation agreement:
+i) the appellant assumed responsibility for the mortgage and the secured line of credit;
+ii) the appellant’s former spouse relinquished any claim on the matrimonial home;
+iii) the appellant’s former spouse assumed responsibility for repayment of an outstanding promissory note to a third party from whom his shares were purchased;
+iv) the appellant waived any interest she had or might have in her former spouse’s interest in Maple Gate; and
+v) the appellant was released from any obligation to pay spousal support to her former spouse;
+m) the interest expenses claimed as deductions by the appellant were primarily incurred in respect of the secured line of credit.
+[3] The Minister disallowed the Appellant’s claim for an interest expense deduction under subparagraph 20(1)(c)(i) of the Income Tax Act because she “… did not acquire the debt for the purpose of gaining or producing income from a business or a property, but rather as part of her separation agreement with her former spouse”[1].
+[4] With the exception of assumption 15(e), the Appellant does not dispute the facts assumed by the Minister but asserts they are incomplete and/or ignore the reality of the situation. She admitted, however, the facts set out in assumptions 15(d), (h) and (k):
+(d) the interest expenses claimed in each of the years under appeal were in respect of investments in Maple Gate made by the appellant’s former spouse in the form of share purchases;
+…
+(h) the appellant’s former spouse used a combination of interest-bearing promissory notes and funds from a secured line of credit held jointly with the appellant to purchase his shares of Maple Gate from a third party;
+…
+(k) at the time of the separation, the matrimonial home had two mortgages, one of which being the secured line of credit, a part of which had been used to finance the purchase of the Maple Gate shares owned by the appellant’s former spouse;
+[5] While acknowledging that the joint line of credit had been used to purchase her former spouse’s shares in the Bakery and that the legal documents governing the acquisition of the business were in his name only, the Appellant testified that it was her money that kept the failing Bakery afloat: she had full-time employment outside the Bakery and her earnings were put into the business; she also invested sweat equity in the Bakery selling cakes, paying suppliers, doing the books and managing its staffing needs. Further, the matrimonial home was in the Appellant’s name only and was used to secure the line of credit that financed her former spouse’s purchase of the Bakery shares. It was also for that reason that the landlord of the Bakery premises refused to agree to the lease unless the Appellant signed as a guarantor[2].
+[6] Adding insult to injury, at a certain point, her former spouse’s enthusiasm for the Bakery was diverted to other pursuits, leaving her to carry on as best she could given all of her other responsibilities. In these circumstances, the Appellant’s position is that she ought to be entitled to deduct the interest paid on the joint line of credit.
+[7] I must say I found the Appellant’s story a compelling one. If I were able to decide this case on moral or equitable grounds, I would have no hesitation in allowing the appeals. However, the correctness of the Minister’s reassessments must be determined under subparagraph 20(1)(c)(i) of the Income Tax Act:
+20(1) Deductions permitted in computing income from business or property – Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing a taxpayer’s income for a taxation year from a business … , there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+…
+(c) interest – an amount paid in the year … pursuant to a legal obligation to pay interest on
+(i) borrowed money used for the purpose of earning income from a business …
+[8] Counsel for the Respondent referred the Court to Bronfman Trust v. R.[3] in which the Supreme Court of Canada held that an interest expense deduction under subparagraph 20(1)(c)(i) is available only where the taxpayer can establish a link between the interest paid on the borrowed money and an income-earning purpose. This approach was later adopted by the Court in Shell Canada Ltd. v. R.[4] and reaffirmed in Singleton v. R.[5] in which it was held that “… the inquiry must be centered on the use to which the taxpayer put the borrowed funds”[6] [Emphasis added.]. More recently, this test was applied by the Federal Court of Appeal in Scragg v. R.[7] and restated by Noël, J.A. as: “A taxpayer cannot deduct interest on borrowed money unless the money is actually used to produce income.”[8]
+[9] This is the hurdle faced by the Appellant in the present case. She explained how she came to take on sole responsibility for the joint line of credit:
+THE WITNESS: Basically, what happened was that in 2005, when we legally separated, I assumed the line of credit for the Maple Gate Bakery. It also released me from any further expenses of the Maple Gate Bakery. He continued, and I didn't have anything to do with it. This is how we separated.
+MR. MITONIDES:
+Q. Up until this Agreement to waive your interest in the company, what expenses were you responsible for?
+A. What was the question, I am sorry?
+Q. Up to this point when you waived your interest in Maple Gate Bakery, what expenses were you responsible for?
+A. Up until before the Separation Agreement? Before the Separation Agreement I was responsible for making payments on the credit line. Up until the Separation Agreement I made sure, as much as possible, that everything was working the way it should be.[9]
+[10] In support of her testimony, the Appellant put in evidence a letter[10] from the lawyer who represented her in the matrimonial dispute. He summarized the nature of their agreement as follows:
+…
+I wish to confirm that after review of the Separation Agreement and the file, I wish to advise you of the following:
+1. In the Separation Agreement, your husband fully and completely waived any right for spousal support against you now or in the future regardless of his health or financial circumstances.
+2. Your husband transferred his interest in the matrimonial home to you completely.
+3. In consideration of him providing you with all the equity in the matrimonial home and further, of him waiving and releasing your legal obligation to pay spousal support to him, you agreed to be responsible for the payment of the mortgage and release him from that along with being responsible for the payment of the joint line of credit which was utilized for business purposes.
+4. I wish to confirm that at the time of the drafting, negotiations, and execution of the Separation Agreement, you were concerned with respect to your husband’s financial viability and if the bakery did fail or his income decreased drastically, you did not want to be responsible to pay him spousal support which would be your legal obligation to do so pursuant to the provisions of the Divorce Act and the Family Law Act of Ontario.
+Accordingly, from my review of the file and the Separation Agreement, you did accept responsibility of the mortgage on the matrimonial home and the joint line of credit which was utilized for the business, in order to extinguish any legal obligation that you may have to your husband for spousal support.
+[11] Although the Appellant spoke above of being “responsible” for the Bakery expenses, she took on that obligation voluntarily in the best interest of what she considered a family business operation. She ought not to be faulted for that. But it is not sufficient for the purposes of subparagraph 20(1)(c)(i). To qualify for a deduction under that provision, the Appellant must also show that she used the money borrowed from the line of credit to finance a business that would generate income for her. While she hoped, one day, to reap some benefit from the time and money she had ploughed into the Bakery, because of the way the business was structured, only her former spouse stood to earn income from it. She had no legal status as either a shareholder or investor in the Bakery: she had no right to earn dividend income; nor was there any evidence of an agreement between her and the company and/or her former spouse pursuant to which she could earn income on the amounts she had contributed to his share purchase or to keep the business going.
+[12] The Appellant’s agent, Mr. Mitonides, argued because the matrimonial home was in her name only and had been used to secure the joint line of credit and to guarantee the Bakery lease, the Appellant’s appeal should succeed. Even if I accepted the Appellant’s evidence with regard to the ownership of the house (a contention neither supported by paragraph 6.01(1) of the Separation Agreement[11] nor independently documented by a certificate of title), that, in itself, does not establish that the Appellant earned income from the Bakery. Equally flawed is his further argument that because under paragraph 8.06 of the Separation Agreement the Appellant released any interest she might have had in the Bakery, she must have had an interest in the business. It does not follow that because the Appellant had certain claims on matrimonial property under the Ontario Family Law Act that she had an income-earning interest in the Bakery as contemplated by the Income Tax Act.
+[13] All in all, I am unable to conclude that there is a link between the interest paid by the Appellant and an income-earning purpose. While in 2005, 2006 and 2007 she paid interest on the line of credit pursuant to a legal obligation to do so, that obligation is traceable to the equalization arrangements under the Separation Agreement[12] rather her use of that money to earn income from a business in her own right. The interest paid was on borrowed money used, not by her, but by her former spouse to purchase shares in his Bakery business. Accordingly, the criteria under subparagraph 20(1)(c)(i) are not satisfied and the appeals must be dismissed.
+Signed at Ottawa, Canada, this 4th day of June, 2010.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2010TCC306
+COURT FILE NO.: 2009-2798(IT)I
+STYLE OF CAUSE: BRUNA BERNACCHI AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 4, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: June 4, 2010
+APPEARANCES:
+Agent for the Appellant:
+Danny Mitonides
+Counsel for the Respondent:
+Toks C. Omisade
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Respondent’s Submissions at paragraph 17.
+[2] Exhibit A-3, page 4, “LEASE OF PREMISES AT 9505 KEELE STREET” at second paragraph.
+[3] [1987] 1 C.T.C. 117. (S.C.C.).
+[4] [1999] 3 S.C.R. 622. (S.C.C.).
+[5] 2001 SCC 61; [2002] 1 C.T.C. 121. (S.C.C.).
+[6] Above, at paragraph 26.
+[7] [2009] 5 C.T.C. 39. (F.C.A.).
+[8] Above, at paragraph 13.
+[9] Transcript, page 31, lines 24 and 25; and page 32, lines 1-20, inclusive.
+[10] Exhibit A-9.
+[11] Exhibit R-1.
+[12] Exhibit R-1; paragraphs 6.02, 6.04, 8.03 and 8.06.

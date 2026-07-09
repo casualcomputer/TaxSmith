@@ -1,0 +1,190 @@
+---
+title: "Bosveld c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/459733/index.do"
+last_modified: "2020-01-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 2"
+citation2: ""
+neutral_citation: "2020 CCI 2"
+decision_date: "2020-01-08"
+language: "fr"
+item_id: "459733"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4242
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T07:08:52.591000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "69873091487f5b4ce01f9baa4567db5444482a119edfe4184a3eff11e3534f5a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bosveld c. M.R.N.
+
+- Citation: 2020 CCI 2
+- Decision date: 2020-01-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4242, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bosveld c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-01-08
+Référence neutre
+2020 CCI 2
+Numéro de dossier
+2018-2611(CPP), 2018-2612(EI), 2018-2614(EI), 2018-2615(CPP), 2018-2616(EI)
+Juges et Officiers taxateurs
+Jean Gilles Lebel
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2018-2611(CPP), 2018-2612(EI),
+2018-2613(CPP), 2018-2614(EI),
+2018-2615(CPP), 2018-2616(EI)
+ENTRE :
+CHRISTOPHER BOSVELD
+et
+KATELYN BOSVELD
+et
+LINDSAY BOSVELD,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 2 octobre 2019, à Hamilton (Ontario)
+Devant : L’honorable juge suppléant Jean-Gilles Lebel
+Comparutions :
+Représentants des appelants :
+John Calvin Bosveld
+John VanderVelde
+Avocat de l’intimé :
+Me Tokunbo Omisade
+JUGEMENT
+Les appels déposés aux termes du paragraphe 103(1) de la Loi sur l’assurance-emploi et de l’article 27 du Régime de pensions du Canada concernant les décisions du ministre du Revenu national (ministre) datées du 13 avril 2018 sont accueillis. Les décisions du ministre sont quant à elles modifiées pour le motif que Christopher Bosveld, Katelyn Bosveld et Lindsay Bosveld n’exerçaient pas un emploi assurable ou un emploi ouvrant droit à pension au sein de Serve Media inc. entre le 1er janvier 2017 et le 11 octobre 2017 (pour Christopher Bosveld) et entre le 1er janvier 2017 et le 8 novembre 2017 (pour Katelyn Bosveld et Lyndsay Bosveld).
+Signé à North Bay, Canada, le 8e jour de janvier 2020.
+« Jean-Gilles Lebel »
+J.G. Lebel, juge suppléant
+Référence : 2020 CCI 2
+Date : Le 6 janvier 2020
+Dossiers : 2018-2611(RPC), 2018-2612(EI),
+2018-2613(CPP), 2018-2614(EI),
+2018-2615(CPP), 2018-2616(EI)
+ENTRE :
+CHRISTOPHER BOSVELD
+et
+KATELYN BOSVELD
+et
+LINDSAY BOSVELD,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+J.G. Lebel, juge suppléant
+[1] Au départ, les parties ont convenu que tous les appels seraient entendus ensemble. En outre, la Couronne a affirmé que la crédibilité n’était pas en cause. Je partage cet avis.
+[2] Les appelants ont appelé deux témoins : John Calvin Bosveld et l’appelant Christopher Bosveld. Les appelantes Katelyn et Lindsay Bosveld n’ont pas comparu, et aucun affidavit n’a été produit en leur nom.
+[3] La seule question dont la Cour est saisie est celle de savoir si, au cours des périodes en question, les appelants exerçaient un emploi assurable ou ouvrant droit à pension auprès du payeur.
+[4] Dans le cas des appelantes Katelyn et Lindsay Bosveld, la période en question va du 1er janvier 2017 au 8 novembre 2017. Dans le cas de l’appelant Christopher Bosveld, la période en question va du 1er janvier 2017 au 11 octobre 2017.
+[5] Le payeur était Serve media Inc. (la société). Ses actionnaires étaient Calvin et Kelly Bosveld, parents des appelants. Les activités de la société consistaient à fournir des services de marketing en ligne au moyen de Kijiji et de Google, ainsi que d’autres outils de marketing.
+[6] La société affirme que les appelants étaient des travailleurs autonomes liés par contrat d’entreprise, plutôt que des employés aux termes d’un contrat de louage de services. Les contrats en question n’étaient pas écrits.
+[7] En 2012, l’appelant Christopher était employé à titre d’entrepreneur indépendant. À l’époque, il avait 21 ans et étudiait à l’université Laurier, à Waterloo.
+[8] En 2012, les appelantes Katelyn et Lindsay étaient employées à titre d’entrepreneures indépendantes. Elles étaient respectivement âgées de 15 ans et 13 ans et vivaient avec leurs parents.
+[9] L’appelant Christopher a été embauché par la société, à titre d’employé de service, en 2015 et 2016. La société lui a remis des feuillets T4 pendant cette période. Au mois d’août 2016, il est devenu pompier à temps plein pour la ville de Hamilton et a cessé d’être employé de service au sein de la société.
+[10] Du 1er janvier 2017 au 11 octobre 2017, il habitait avec ses parents et il a été réembauché à titre d’entrepreneur indépendant. Pendant cette période, il a également négocié des contrats d’entreprise avec d’autres personnes, à savoir une entreprise de déneigement et un collègue. En 2019, il a également réalisé des travaux liés aux systèmes solaires, à titre d’entrepreneur indépendant. Les faits relativement à ces autres entités ou personnes, autres que les travaux menés par la société, ne sont pas contestés.
+[11] Du 7 janvier au 13 octobre 2017, l’appelant Christopher a facturé 12 032,50 $ à la société. Les factures en question ont été cotées et déposées au dossier comme pièce R-1 (A).
+[12] De janvier à novembre 2017, l’appelante Katelyn a facturé 8 735,50 $ à la société. Les factures en question ont été cotées et déposées au dossier comme pièce R-1 (B).
+[13] De janvier à novembre 2017, l’appelante Lindsay a facturé 16 350,50 $ à la société. Les factures en question ont été cotées et déposées au dossier comme pièce R-1 (C).
+[14] Les tâches attribuées aux appelants pendant la période en question consistaient à publier et à republier des annonces sur Kijiji, pour le compte des clients de la société. Les appelants étaient rémunérés au taux d’un dollar par publication et de 50 cents par republication. Comme il a été observé précédemment, les appelants ont facturé la société pour le travail réalisé.
+[15] Pendant la période en question, l’appelant Christopher a bonifié les services fournis à la société. Il a commencé à faire plus de marketing par courriel. Par exemple, une entreprise comme Brian’s Auctions envoie en courriel avant chaque vente aux enchères. Il devait rédiger ces courriels et les envoyer selon un calendrier établi à sa guise.
+[16] Les éléments de preuve présentés par les appelants au cours du procès sont crédibles, dignes de foi et fiables. Comme je l’ai indiqué, nul ne conteste la crédibilité des témoins. Les éléments de preuve n’ont pas été contredits, à l’exception des hypothèses de fait formulées dans la réponse des répondants aux avis d’appel.
+[17] Après avoir examiné la transcription des éléments de preuve, je tire les conclusions de fait suivantes :
+[18] Outre l’attribution des tâches, la société n’a fourni aucune directive ni formation aux appelants quant à la manière de réaliser leurs tâches. Les trois appelants savaient très bien comme accéder à Kijiji.
+[19] Christopher a appris comment utiliser Google et les courriels comme outils de marketing. Il a appris comment utiliser ces outils, par lui-même, à ses frais, sans aucun apport de la société.
+[20] Calvin Bosveld dirigeait les activités quotidiennes de la société, notamment la recherche de clients, l’embauche et le congédiement des travailleurs et des entrepreneurs indépendants, ainsi que l’établissement de l’orientation des activités.
+[21] Les appelants ont été embauchés par la société aux termes d’un contrat verbal.
+[22] Les tâches des appelants comprenaient la création d’annonces en ligne, ainsi que la modification et la gestion du contenu du site Web.
+[23] L’engagement des appelants à l’égard de la société n’était pas de nature continue, car il fluctuait en fonction du nombre de clients.
+[24] La société embauchait également d’autres entrepreneurs indépendants distincts qui exécutaient des tâches identiques ou semblables à celles des appelants.
+[25] La société ne supervisait pas les appelants.
+[26] La société ne donnait aux appelants aucune directive au sujet des tâches nouvelles, difficiles ou inhabituelles. Elle n’a jamais formé les appelants.
+[27] La société établissait les priorités et les échéances des appelants, comme c’est le cas lorsqu’on embauche des entrepreneurs indépendants.
+[28] La société n’examinait pas le travail des appelants.
+[29] Les appelants n’étaient pas tenus de communiquer avec la société par téléphone ou en personne.
+[30] Les appelants n’étaient pas tenus d’obtenir l’autorisation de la société avant de réaliser certaines tâches.
+[31] Les appelants établissaient leur propre horaire de travail et consignaient leurs propres heures de travail.
+[32] La société ne rémunérait pas les appelants selon un taux horaire ou un taux forfaitaire.
+[33] Si les appelants commettaient une erreur, ils devaient la corriger eux-mêmes, à leurs frais, et non aux frais de la société.
+[34] Les appelants étaient payés par chèques émis à leur nom.
+[35] La société ne fournissait aucune chaise ni aucun bureau aux appelants pour qu’ils accomplissent leurs tâches. Ils utilisaient leur ordinateur ou leur ordinateur portatif scolaire lorsqu’ils travaillaient à la maison. Lorsqu’ils étaient à la maison, ils utilisaient le service Internet payé par leurs parents.
+[36] Les appelants n’étaient pas tenus de fournir eux-mêmes leurs services à la société. La société devait engager et payer des remplaçants lorsque les appelants n’étaient pas en mesure d’exécuter leurs tâches ou lorsqu’ils refusaient de le faire.
+[37] Les appelants pouvaient engager des dépenses minimales pour fournir leurs services à la société.
+[38] La société n’offrait aucune garantie aux appelants quant au travail ni au coût des erreurs des appelants.
+[39] La société devait répondre aux plaintes des clients.
+[40] Les appelants n’avaient pas de nom commercial, de compte d’affaires ni de publicité.
+[41] Les appelants n’ont pas reçu de feuillets T4 pour les périodes en question.
+[42] Dès le départ, la société et les appelants souhaitaient être liés par un contrat d’entreprise. Compte tenu de mes conclusions de fait, je suis d’avis que la réalité objective des présentes confirme l’intention subjective des parties.
+[43] La société n’exerçait aucun contrôle sur l’horaire des appelants ni sur leur manière d’exécuter les travaux. Le fait que les ordinateurs et les ordinateurs portables aient été fournis aux appelants pour leurs études n’a qu’une faible incidence sur la question en litige.
+[44] Les appelants auraient pu embaucher leurs propres aides, s’ils le souhaitaient. Toutefois, compte tenu du volume de travail, cela n’aurait pas été pratique. Quoique le risque financier pour les appelants ait été presque inexistant, il était certainement possible de tirer parti de la saine gestion quant à l’exécution de leurs tâches.
+[45] Ayant examiné les affaires soumises par la Couronne et appliqué les faits au droit énoncé dans la décision Wiebe Door Services Ltd. v. M.N.R., 87 D.T.C. 5025 (CCI), et dans l’arrêt 1392644 Ontario Inc. (Connor Homes) c. Canada (Revenu National), 2013 CAF 85, je conclus que les appelants étaient liés à la société par un contrat d’entreprise.
+[46] Les appels sont accueillis. Par conséquent, les appelants n’ont pas d’emploi ouvrant droit à pension ni d’emploi assurable.
+Signé à North Bay (Ontario), le 8e jour de janvier 2020.
+« Jean-Gilles Lebel »
+J.G. Lebel, juge suppléant
+RÉFÉRENCE :
+2020 CCI 2
+NO DU DOSSIER DE LA COUR :
+2018-2611(RPC), 2018-2612(AE), 2018(RPC), 2018-2614(AE),
+2018-2615(CPP), 2018-2616(EI)
+INTITULÉ :
+CHRISTOPHER BOSVELD,
+KATELYN BOSVELD et
+LINDSAY BOSVELD
+et
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 2 octobre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Jean-Gilles Lebel
+DATE DU JUGEMENT :
+Le 8 janvier 2020
+COMPARUTIONS :
+Représentants des appelants :
+John Calvin Bosveld
+John VanderVelde
+Avocat de l’intimé :
+Me Tokunbo Omisade
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimé :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

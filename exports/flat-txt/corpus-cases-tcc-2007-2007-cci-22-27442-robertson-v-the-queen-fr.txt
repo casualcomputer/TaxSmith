@@ -1,0 +1,133 @@
+Title: Robertson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27442/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-22-27442-robertson-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-01-16
+
+# Robertson v. The Queen
+
+- Citation: 2007 CCI 22
+- Decision date: 2007-01-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 198, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robertson v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-01-16
+Référence neutre
+2007 CCI 22
+Numéro de dossier
+2006-1462(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1462(IT)I
+ENTRE :
+LLOYD ROBERTSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 2 novembre 2006 à Prince Albert (Saskatchewan)
+Devant : L’honorable juge G. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Anne Jinnouchi
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle détermination établie en vertu de la Loi de l’impôt sur le revenu relativement à la Prestation fiscale canadienne pour enfants pour l’année de base 2003 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2007.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 24e jour de janvier 2008.
+Jean David Robert, traducteur
+Référence : 2007CCI22
+Date : 20070116
+Dossier : 2006-1462(IT)I
+ENTRE :
+LLOYD ROBERTSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, Lloyd Robertson, interjette appel de la nouvelle détermination du ministre du Revenu national selon laquelle il n’était pas admissible à la Prestation fiscale canadienne pour enfants (la « PFCE ») pour l’année de base 2003. Le ministre a fondé sa conclusion sur l’hypothèse voulant que la fille de l’appelant n’ait pas résidé avec lui et qu’il n’ait pas été la personne qui assumait principalement la responsabilité pour le soin et l’éducation de celle‑ci, comme l’exige la Loi de l’impôt sur le revenu (la « Loi »).
+[2] Je vais commencer par examiner la question de la résidence. À cet égard, les dispositions législatives pertinentes sont reproduites ci‑dessous :
+Article 122.6 de la Loi de l’impôt sur le revenu :
+« particulier admissible » S’agissant, à un moment donné, du particulier admissible à l’égard d’une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne – père ou mère de la personne à charge – qui assume principalement la responsabilité pour le soin et l’éducation de cette dernière;
+[…]
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l’éducation d’une personne.
+[3] Les « critères prévus par règlement » auxquels renvoie l’alinéa 122.6h) sont énoncés à l’article 6302 du Règlement de l’impôt sur le revenu (le « Règlement »), qui est ainsi rédigé :
+Pour l’application de l’alinéa h) de la définition de « particulier admissible » à l’article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l’éducation d’une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d’un milieu sécuritaire là où elle réside;
+c) l’obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l’organisation pour elle d’activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu’elle est malade ou a besoin de l’assistance d’une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d’être présent auprès d’elle et de la guider;
+h) l’existence d’une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[4] L’appelant admet les hypothèses de fait suivantes[1] :
+[traduction]
+a) l’appelant est le père de Teela;
+b) Lisa Dhoedt est la mère de Teela;
+c) la date de naissance de Teela est le 24 septembre 1991;
+d) l’appelant résidait à La Ronge, en Saskatchewan;
+e) Lisa Dhoedt résidait à Edmonton, en Alberta;
+f) l’appelant vivait séparé de Lisa Dhoedt;
+g) un jugement de la Cour du Banc de la Reine du centre judiciaire de Prince Albert, en date du 2 février 2001, prescrivait entre autres que l’appelant ait la garde exclusive de Teela;
+h) l’appelant et Lisa Dhoedt ont convenu que, pour l’année scolaire 2004-2005, Teela irait à l’école à Edmonton;
+[…]
+[5] L’appelant s’est représenté lui‑même et il a été le seul témoin à comparaître à l’audience, en l’espèce, régie par la procédure informelle. En ce qui concerne l’hypothèse 8h), il a expliqué que, pour aller à l’école à Edmonton, sa fille de 13 ans avait besoin d’un endroit pour vivre. Selon l’appelant, la mère de Teela (Mme Dhoedt) s’était engagée à l’héberger et à la nourrir en échange de la renonciation, de la part de l’appelant, au remboursement d’un prêt qu’il lui avait consenti en mars 1991, quelques mois avant la naissance de leur fille. Bien qu’au fil des années Mme Dhoedt ait tenté de le rembourser, à l’époque où Teela voulait aller à l’école à Edmonton, la dette était toujours impayée. Par conséquent, ils ont conclu un accord qui donnait à l’appelant l’hébergement qu’il sollicitait pour sa fille, tout en libérant Mme Dhoedt de ses obligations financières à l’endroit de l’appelant. C’est dans le cadre de cet accord, plutôt que d’un devoir parental, que Teela est allée vivre avec sa mère et que cette dernière est devenue responsable de ses besoins quotidiens.
+[6] Compte tenu de ces faits, l’appelant soutient que Teela n’a jamais cessé de résider avec lui. Il était, en fait, dans la même position qu’un parent qui a la garde de son enfant et qui l’envoie dans un pensionnat – pendant que Teela était partie de la résidence de son père pour aller à l’école, il a payé la mère de celle‑ci pour qu’elle héberge leur fille et en assure le soin et l’éducation. À l’appui de sa position, il a invoqué la décision Penner c. Sa Majesté la Reine[2], dans laquelle il a été statué qu’une grand‑mère qui avait la garde de sa petite fille et qui l’avait placée chez une famille, pour la période pendant laquelle l’enfant allait à l’école dans une autre ville, avait droit à la PFCE. Dans cette affaire, il s’agissait d’une conclusion de fait que la grand‑mère avait payé 400 $ par mois pour que sa petite fille soit logée et nourrie.
+[7] Je suis convaincue, compte tenu de l’argument de l’appelant, que le raisonnement employé dans la décision Penner pourrait tout aussi bien s’appliquer à son propre appel. Cependant, en l’espèce, je ne peux pas conclure qu’il existait un tel accord en matière d’hébergement et de repas, faute de preuves suffisantes. L’appelant a le fardeau de prouver les faits appuyant sa position. Mme Dhoedt n’a pas été appelée à témoigner pour corroborer la version des faits de l’appelant concernant ce qui s’était passé entre eux. Quant aux documents sur lesquels s’est fondé l’appelant, ils sont loin d’établir l’existence d’une dette : la pièce A‑3 est une copie d’un document intitulé [traduction] « CONTRAT ÉTABLISSANT UN PRÊT DE LA SOCIÉTÉ À UN EMPLOYÉ » daté du 12 mars 1991[3]. Les parties désignées dans cet accord sont la [traduction] « débitrice », Lisa White (qui est maintenant Lisa Dhoedt selon le témoignage de l’appelant), et, à titre de [traduction] « créancière », une entité appelée « Hawkeye Associates ». Le document porte la signature de l’appelant, mais, apparemment, en sa qualité de représentant de cette entité. À première vue, il n’y a rien dans l’accord pour montrer que celui‑ci a été conclu entre la personne maintenant connue sous le nom de Lisa Dhoedt et l’appelant, à titre personnel. L’appelant a aussi déposé en preuve une copie d’un document daté du 10 mai 2003 qui semble être un relevé de compte établissant le montant d’une dette contractée par « Lisa Dhoedt (White) » auprès de Hawkeye Associates[4]. Selon ce document, la somme impayée est seulement décrite par la mention [traduction] « conformément au contrat ». Encore une fois, même sous les règles de la procédure informelle, qui sont plus souples, il n’y a aucun lien clair entre ce document ambigu, qui est possiblement intéressé, et la dette qui aurait été contractée, selon les dires de l’appelant, en 1991. Finalement, il y a la pièce A‑5 : l’appelant a produit en preuve une copie d’un document intitulé [traduction] « Accord concernant Teela Robertson conclu entre Lloyd Robertson et Lisa Dhoedt (White) », en date du 28 juin 2004[5]. Bien que l’accord énonce expressément la condition selon laquelle l’appelant doit payer les coûts relatifs à l’école (paragraphe 3 : [traduction] « Lloyd doit payer tous les frais facturés par l’école Victoria pour l’éducation de Teela à cette école »), il n’y est pas mentionné qu’il a aussi des obligations relativement à l’hébergement de sa fille. Au contraire, cette responsabilité est clairement attribuée à Mme Dhoedt (paragraphe 4 : [traduction] « Lisa doit fournir l’hébergement et faire tout travail bénévole assigné par l’école dans le cadre de sa programmation spéciale »). Il n’est pas indiqué qu’elle se soit acquittée de ces obligations en contrepartie de la renonciation par l’appelant au remboursement de la dette qu’elle avait envers lui.
+[8] À mon avis, la preuve justifie la conclusion selon laquelle l’appelant a judicieusement reconnu que sa fille, qui faisait montre d’un talent artistique, gagnerait à fréquenter l’école d’enseignement spécialisé située à Edmonton. Ne voulant pas rater cette possibilité d’instruction simplement parce que l’école était loin de chez lui, l’appelant et la mère de Teela ont eu la sagesse de convenir de partager les coûts liés à l’école et à l’hébergement, chacun selon ses propres moyens : l’appelant avait les moyens financiers de payer les frais de scolarité et, quant à Mme Dhoedt, elle avait une résidence à Edmonton ainsi que le temps d’assurer le soin et l’éducation de sa fille. Il ne fait aucun doute que Teela était présente physiquement dans la résidence de sa mère pendant l’année scolaire : c’est là qu’elle prenait ses repas, qu’elle dormait, qu’elle gardait ses effets personnels, qu’elle faisait ses devoirs et qu’elle vivait sa vie. Il faut également considérer que, pendant cette période, l’appelant lui‑même ne vivait pas dans sa résidence parce qu’il fréquentait un collège situé à Calgary.
+[9] La PFCE vise à assurer le bien‑être de l’enfant. La Loi est à même de le faire en mettant des ressources financières additionnelles entre les mains de celui des parents avec qui l’enfant réside et qui subvient à ses besoins quotidiens. Pour l’année de base 2003, cette personne était la mère de Teela. À la lumière de cette conclusion et compte tenu de l’admission de l’appelant selon laquelle Mme Dhoedt subvenait aux besoins de leur fille pendant que celle‑ci était à Edmonton, il ne m’est pas nécessaire d’examiner le critère concernant « le soin et l’éducation » établi à l’article 6302 du Règlement. L’appel est rejeté.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2007.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 24e jour de janvier 2008.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2007CCI22
+Nº DU DOSSIER DE LA COUR : 2006-1462(IT)I
+INTITULÉ : Lloyd Robertson et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Prince Albert (Saskatchewan)
+DATE DE L’AUDIENCE : Le 2 novembre 2006
+MOTIFS DU JUGEMENT : L’honorable juge G. Sheridan
+DATE DU JUGEMENT : Le 16 janvier 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Anne Jinnouchi
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Les alinéas i) à l) du paragraphe 8 sont des conclusions de droit, qui n’ont pas été correctement incluses dans les hypothèses de fait du ministre.
+[2] 2006CCI413.
+[3] Pièce A-3.
+[4] Pièce A-4.
+[5] Pièce A-5.

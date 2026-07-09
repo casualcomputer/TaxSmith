@@ -1,0 +1,203 @@
+Title: Javaid c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109217/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-94-109217-javaid-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-04-17
+
+# Javaid c. La Reine
+
+- Citation: 2015 CCI 94
+- Decision date: 2015-04-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2867, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Javaid c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-04-17
+Référence neutre
+2015 CCI 94
+Numéro de dossier
+2014-1802(GST)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2014-1802(GST)I
+ENTRE :
+FAISAL JAVAID,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 11 mars 2015, à Toronto (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat de l’appelant :
+Me Bobby B. Solhi
+Avocats de l’intimée :
+Me Aaron Tallon
+Me Laurent Bartleman
+JUGEMENT
+L’appel relatif à une cotisation établie en vertu de la Loi sur la taxe d’accise par avis daté du 20 septembre 2012 est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant pour acquis que l’appelant a droit à un remboursement pour habitation neuve relativement à un bien situé au 2922 Elgin Mills Road East, à Markham, en Ontario. L’appelant a droit aux dépens conformément au tarif applicable.
+Signé à Ottawa (Ontario), ce 17e jour d’avril 2015.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 2e jour de juin 2015.
+S. Tasset
+Référence : 2015 CCI 94
+Date : 20150417
+Dossier : 2014-1802(GST)I
+ENTRE :
+FAISAL JAVAID,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+(Dernière page modifiée en ce qui concerne les avocats inscrits au dossier.)
+La juge Woods
+[1] Le présent appel concerne le refus d’une demande de remboursement pour habitation neuve faite par Faisal Javaid en vertu de la Loi sur la taxe d’accise (la « Loi ». Le remboursement demandé s'élève à 24 000 $.
+[2] Le 3 juin 2010, M. Javaid a conclu un contrat de vente avec un constructeur, Monarch Construction, pour acheter une maison qui allait être bâtie au 2922 Elgin Mills Road East, à Markham, en Ontario (« le bien situé à Markham »). La vente a été conclue le 1er décembre 2011.
+[3] La Couronne conteste le droit de M. Javaid au remboursement pour deux motifs.
+[4] Premièrement, la Couronne soutient qu’un des acheteurs, Hasan Zia, ne remplissait pas certaines des conditions requises pour avoir droit au remboursement, notamment parce qu’il n’avait pas l’intention de faire du bien son lieu de résidence habituelle.
+[5] M. Javaid convient que M. Zia ne remplit pas les conditions. Il soutient cependant que les conditions relatives au remboursement ne s’appliquent pas à M. Zia parce que le bien ne lui a pas été fourni.
+[6] Deuxièmement, la Couronne soutient que M. Javaid lui-même n’a pas rempli toutes les conditions relatives au remboursement parce qu’il n’a pas démontré une intention de faire du bien son lieu de résidence habituelle.
+[7] M. Javaid soutient que cette condition a été remplie. Comme je l’expliquerai plus loin, la question de savoir si la Couronne n’aurait pas soulevé cette question trop tard se pose également.
+Dispositions législatives pertinentes [8] Les actes de procédure n’indiquent pas clairement quel article de la Loi prévoit le remboursement dont il est ici question. Comme le montant du remboursement est de 24 000 $, j’ai présumé que la disposition pertinente est la disposition relative au remboursement en Ontario payable en vertu du paragraphe 41(2) du Règlement no 2 sur le nouveau régime de la taxe à valeur ajoutée harmonisée (le « Règlement »). Cette disposition est ainsi rédigée :
+41.(2) Remboursement en Ontario – Dans le cas où un particulier a droit au remboursement prévu au paragraphe 254(2) de la Loi au titre d’un immeuble d’habitation qui est un immeuble d’habitation à logement unique ou un logement en copropriété acquis en vue de servir en Ontario de résidence habituelle du particulier ou de son proche ou aurait droit à ce remboursement si la contrepartie totale, au sens de l’alinéa 254(2)c) de la Loi, relative à l’immeuble était inférieure à 450 000 $, pour l’application du paragraphe 256.21(1) de la Loi, le particulier est une personne visée et le montant du remboursement versé au titre de l’immeuble selon ce paragraphe est égal au montant obtenu par la formule suivante, jusqu’à concurrence de 24 000 $ :
+A × B
+où :
+A représente 75 %;
+B le total de la taxe payée en vertu du paragraphe 165(2) de la Loi relativement à la fourniture de l’immeuble au profit du particulier ou relativement à toute autre fourniture, effectuée au profit de celui-ci, d’un droit sur l’immeuble.
+[9] Pour avoir droit à ce remboursement, une personne doit être un « particulier » visé à l’alinéa 254(2)a) de la Loi et doit remplir les conditions énoncées aux alinéas 254(2)b) à g). Ces dispositions sont reproduites ci-dessous.
+254.(2) Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+a) le constructeur d’un immeuble d’habitation à logement unique ou d’un logement en copropriété en effectue, par vente, la fourniture taxable au profit du particulier;
+b) au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui-ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche;
+c) le total des montants — appelé « contrepartie totale » au présent paragraphe — dont chacun représente la contrepartie payable pour la fourniture de l’immeuble ou du logement et pour toute autre fourniture taxable, effectuée au profit du particulier, d’un droit sur l’immeuble ou le logement est inférieur à 450 000 $;
+d) le particulier a payé la totalité de la taxe prévue à la section II relativement à la fourniture et à toute autre fourniture, effectuée à son profit, d’un droit sur l’immeuble ou le logement (le total de cette taxe prévue au paragraphe 165(1) étant appelé « total de la taxe payée par le particulier » au présent paragraphe);
+e) la propriété de l’immeuble ou du logement est transférée au particulier une fois la construction ou les rénovations majeures de ceux-ci achevées en grande partie;
+f) entre le moment où les travaux sont achevés en grande partie et celui où la possession de l’immeuble ou du logement est transférée au particulier en vertu du contrat de vente :
+(i) l’immeuble n’a pas été occupé à titre résidentiel ou d’hébergement,
+(ii) le logement n’a pas été occupé à titre résidentiel ou d’hébergement, sauf s’il a été occupé à titre résidentiel par le particulier, ou son proche, qui était alors l’acheteur du logement aux termes d’un contrat de vente;
+g) selon le cas :
+(i) e premier particulier à occuper l’immeuble ou le logement à titre résidentiel, à un moment après que les travaux sont achevés en grande partie, est :
+(A) dans le cas de l’immeuble, le particulier ou son proche,
+(B) dans le cas du logement, le particulier, ou son proche, qui, à ce moment, en était l’acheteur aux termes d’un contrat de vente,
+(ii) le particulier effectue par vente une fourniture exonérée de l’immeuble ou du logement, et la propriété de l’un ou l’autre est transférée à l’acquéreur de cette fourniture avant que l’immeuble ou le logement n’ait été occupé à titre résidentiel ou d’hébergement.
+[…]
+[10] Si le bien est fourni à plusieurs particuliers, tous les particuliers doivent remplir les conditions relatives au remboursement. À l’audience, les parties ont invoqué le paragraphe 262(2) de la Loi, mais je crois que la disposition applicable est plutôt l’article 40 du Règlement. (Je suis reconnaissante envers l’auteur David Sherman d’avoir souligné cela dans GST and HST Case Notes, Carswell, mars 2015.)
+[11] L’article 40 est ainsi rédigé :
+40. Groupe de particuliers - Si la fourniture d’un immeuble d’habitation ou d’une part du capital social d’une coopérative d’habitation est effectuée au profit de plusieurs particuliers ou que plusieurs particuliers construisent ou font construire un immeuble d’habitation ou y font ou y font faire des rénovations majeures, la mention d’un particulier aux articles 41, 43, 45 et 46 ainsi qu’à l’article 256.21 de la Loi vaut mention de l’ensemble de ces particuliers en tant que groupe. Toutefois, seulement l’un d’entre eux peut demander un remboursement en application du paragraphe 256.21(1) de la Loi relativement à l’immeuble ou à la part, dont le montant est déterminé selon les articles 41, 43, 45 ou 46.
+[12] Pour déterminer qui a reçu une fourniture au titre de l’alinéa 254(2)a), la définition d’« acquéreur » au paragraphe 123(1) de la Loi est pertinente. Elle énonce que c’est l’acquéreur, tel que ce terme est défini, qui a reçu la fourniture. La disposition est ainsi rédigée :
+« acquéreur »
+a) Personne qui est tenue, aux termes d’une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+b) personne qui est tenue, autrement qu’aux termes d’une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+c) si nulle contrepartie n’est payable pour une fourniture :
+(i) personne à qui un bien, fourni par vente, est livré ou à la disposition de qui le bien est mis,
+(ii) personne à qui la possession ou l’utilisation d’un bien, fourni autrement que par vente, est transférée ou à la disposition de qui le bien est mis,
+(iii) personne à qui un service est rendu.
+Par ailleurs, la mention d’une personne au profit de laquelle une fourniture est effectuée vaut mention de l’acquéreur de la fourniture.
+[Non souligné dans l’original]
+[13] L’article 133 de la Loi est également pertinent. Il énonce qu’une fourniture réputée d’un bien a lieu lors de la conclusion d’une convention ayant pour objet de fournir le bien. Cette disposition énonce également que la fourniture du bien n’est pas une fourniture distincte et fait partie de la fourniture réputée. L’article 133 est reproduit ci-dessous.
+133. Pour l’application de la présente partie, la fourniture objet d’une convention est réputée effectuée à la date de conclusion de la convention. La livraison du bien ou la prestation du service aux termes de la convention est réputée faire partie de la fourniture et ne pas constituer une fourniture distincte.
+1ère question en litige : les conditions relatives au remboursement s’appliquent-elles à M. Zia? A. Contexte factuel
+[14] Une des questions en litige est celle de savoir si M. Zia doit remplir les conditions relatives au remboursement. Les conditions relatives au remboursement doivent être remplies par les particuliers à qui un bien est fourni par vente et qui sont donc des « particuliers » visés à l’alinéa 254(2)a).
+[15] Le rôle de M. Zia dans la transaction en cause était celui de « garant » proposé d’un prêt hypothécaire qui financerait l’achat du bien par M. Javaid. Le contexte de la participation de M. Zia est exposé ci-dessous.
+[16] Afin de financer l’achat, M. Javaid avait besoin d’un « garant » parce qu’il ne disposait pas des ressources financières nécessaires pour obtenir un prêt hypothécaire en son seul nom. Il a donc été prévu que le « garant » signerait le contrat de vente à titre de coacquéreur et prendrait le titre en tant que copropriétaire. Il n’y a aucun élément de preuve qui indique pourquoi la garantie a été structurée de cette manière.
+[17] M. Abbas, un parent de M. Javaid, avait initialement accepté d’agir comme garant, mais il s’est désisté avant la conclusion de la vente. Il a été remplacé par M. Zia, qui était un ami. M. Zia s’est lui aussi désisté avant la conclusion de la vente. Il a été remplacé comme garant par Farrukh Riaz, un autre ami. M. Riaz est effectivement devenu le « garant ».
+[18] Le contrat de vente a initialement été signé seulement par M. Javaid. Les garants proposés ont été ajoutés au contrat à titre d’acquéreurs additionnels au moyen d’une série de modifications, mais le remplacement de M. Zia par M. Riaz n’a jamais été constaté dans le contrat. Monarch Corporation exigeait que la participation de M. Riaz soit documentée par l'intermédiaire d’un avocat lors de la conclusion de la vente.
+[19] Étant donné ce qui précède, M. Javaid et M. Zia étaient encore désignés comme acheteurs dans le contrat au moment de la conclusion de la vente. Ils ont donné des instructions pour que le titre soit aux noms de M. Javaid et M. Riaz.
+[20] Certains de ces détails sont énoncés dans les présomptions suivantes du ministre énoncées aux alinéas 10e) à m) de la réponse, qui sont ainsi rédigés :
+[TRADUCTION]
+e) le 31 mai 2010, l’appelant a conclu un contrat de vente avec le constructeur pour la construction du bien;
+f) le contrat de vente a été modifié comme suit :
+(i) le 4 juillet 2010, par l’ajout des noms de l’appelant et de Raja Aneed Abas à titre d’acheteurs du bien;
+(ii) le 29 août 2010, par l’ajout des noms de l’appelant, de Raja Aneed Abas et de Hasan Ahmed Zia à titre d’acheteurs du bien;
+(iii) le 8 décembre 2010, par le retrait du nom de Raja Aneed Abbas du contrat et par l’ajout des noms de l’appelant et de Hasan Ahmed Zia à titre d’acheteurs du bien;
+g) le 2 novembre 2010, Hasan Zia a signé une déclaration de fiducie et d’engagement aux termes de laquelle il s’engageait à cosigner à titre de garant les documents relatifs à l’hypothèque qui grèverait le bien pour aider l’appelant à satisfaire aux exigences relatives à l’hypothèque;
+h) le 3 novembre 2011, Farrukh Riaz a signé une déclaration de fiducie et d’engagement aux termes de laquelle il s’engageait à cosigner à titre de garant les documents relatifs à l’hypothèque qui grèverait le bien pour aider l’appelant à satisfaire aux exigences relatives à l’hypothèque;
+i) l’appelant, Hasan Zia et Farrukh Riaz sont les propriétaires légaux du bien;
+j) le bien a été revendu le 30 mars 2012;
+k) à toutes les époques pertinentes, Hasan Zia et Farrukh Riaz avaient une résidence personnelle autre que le bien dans laquelle ils résidaient ;
+l) ni Hasan Zia ni Farrukh Riaz n’ont acquis le bien en vue de l’utiliser comme leur lieu de résidence habituelle ou comme lieu de résidence habituelle d’un de leurs proches;
+m) à la suite de l’achat du bien, ni Hasan Zia ni Farrukh Riaz ni aucun de leurs proches n’ont jamais occupé le bien comme lieu de résidence.
+[21] Les éléments de preuve étayent les présomptions qui précèdent, à l’exception de la présomption énoncée à l’alinéa 10i). Les propriétaires légaux du bien étaient M. Javaid et Farrukh Riaz. M. Zia n’est pas devenu un propriétaire légal du bien.
+B. Analyse
+[22] La Couronne soutient que M. Zia doit remplir les conditions relatives au remboursement en qualité de « particulier » visé à l’alinéa 254(2)a). La Couronne soutient que le bien a été fourni à M. Zia lorsque celui-ci a signé le contrat de vente (article 133), et qu’il était un « acquéreur », au sens de la définition de la Loi, parce qu’il était tenu de payer la contrepartie aux termes du contrat. La Couronne soutient qu’il est indifférent que M. Zia se soit retiré de la transaction avant la conclusion de la vente.
+[23] Je trouve cette prétention problématique parce que M. Zia agissait seulement en qualité de mandataire lorsqu’il a signé le contrat de vente. Cela ressort clairement de la preuve puisque le mandat a été constaté par écrit dans une déclaration de fiducie et d’engagement.
+[24] L’avocat de M. Javaid a porté à mon attention une position administrative de l’Agence du revenu du Canada qui énonce qu’un mandataire n’est pas un acquéreur (Mémorandum sur la TPS/TVH 8.1). Le passage pertinent du Mémorandum est reproduit ci-dessous.
+69. Même s'il peut sembler que le mandataire soit l'acquéreur de la fourniture étant donné qu'il est identifié comme l'acquéreur sur la fourniture, c'est le mandant qui est tenu de payer la contrepartie, ce qui fait en sorte que c'est le mandant qui est l'acquéreur de la fourniture.
+[25] En outre, les dispositions relatives au remboursement n’auraient pas de sens si le mandataire qui signait un contrat de vente était tenu de se conformer aux exigences d’occupation de la disposition relative au remboursement. J’hésiterais à admettre les prétentions de la Couronne sur ce point à moins que les dispositions législatives soient très claires, ce qu’elles ne sont pas.
+[26] Bien que cela soit suffisant pour trancher cette question, j’aimerais aussi commenter brièvement l’argument principal de M. Javaid.
+[27] Selon ce que je comprends, M. Javaid soutient que l’alinéa c) de la définition d’« acquéreur » s’applique parce qu’aucune contrepartie n’était due au moment où M. Zia a signé le contrat de vente. M. Zia n’est pas un acquéreur au titre de cet alinéa parce qu’il n’a jamais acquis le bien.
+[28] Cet argument pose problème parce que l’alinéa c) s’applique seulement s’il n’y a aucune contrepartie payable pour la fourniture du bien. Dans ce cas-ci, il y a une contrepartie payable pour la fourniture du bien. Il est indifférent que la contrepartie n’ait pas été due lorsque M. Zia a signé le contrat.
+[29] L’avocat de M. Javaid invoque au soutien de ses prétentions le paragraphe 168(5) de la Loi. Cette disposition est ainsi rédigée :
+168.(5) Vente d’un immeuble - Par dérogation aux paragraphes (1) et (2), la taxe prévue à la présente section relativement à la fourniture taxable d’un immeuble par vente est payable :
+a) s’il s’agit de la fourniture d’un logement en copropriété dont la possession est transférée à l’acquéreur, après 1990 et avant l’enregistrement de l’immeuble d’habitation en copropriété dans lequel le logement est situé, aux termes de la convention relative à la fourniture, au premier en date du jour où la propriété du logement est transférée à l’acquéreur et du soixantième jour après le jour d’enregistrement;
+b) dans les autres cas, au premier en date du jour du transfert à l’acquéreur de la propriété du bien et du jour du transfert à celui-ci de la possession du bien aux termes de la convention portant sur la fourniture.
+[30] Le paragraphe 168(5) emploie le mot « payable » dans un sens différent que dans la définition d’« acquéreur ». Au paragraphe 168(5), le mot « payable » est employé dans le contexte de la détermination du moment où la taxe est payable. Cette disposition n’aide pas à interpréter la définition d’« acquéreur ». Un montant peut être payable au sens de la définition d’« acquéreur » même s’il n’est pas dû présentement.
+[31] En conséquence, je ne pense pas que l’alinéa c) de la définition d’ « acquéreur » s’applique en l’espèce.
+[32] Enfin, il n’est pas clair que les conditions relatives au remboursement s’appliquent à quelqu’un qui signe un contrat de vente et ne devient jamais un propriétaire du bien. En fin de compte, M. Zia s’est retiré de la transaction. La définition d’« acquéreur » permet de déterminer la personne qui est tenue de payer la contrepartie. J’ai peine à admettre qu’un particulier devrait se conformer aux conditions relatives au remboursement s’il s’est retiré de la transaction avant la conclusion de la vente.
+[33] Selon le sens commun, les conditions relatives au remboursement devraient s’appliquer aux particuliers qui deviennent propriétaires. Je noterais également que cette interprétation est compatible avec l’exigence énoncée à l’alinéa 254(2)a) selon laquelle il doit y avoir une fourniture « par vente ». Il n’y a eu aucune vente à M. Zia.
+[34] Toutefois, je n’ai connaissance d’aucune jurisprudence à l’appui de cette interprétation. Je note, par exemple, que, dans la décision Rochefort c. La Reine, 2014 CCI 34, au paragraphe 11, mon collègue le juge C. Miller affirme qu’un bien est fourni à un particulier qui signe un contrat de vente et il ajoute qu’un bien n’est pas fourni à un propriétaire qui ne signe pas le contrat. Je noterais que l’article 133 (l’alinéa 133(b) de la version anglaise) énonce que la livraison du bien fait partie de la fourniture.
+[35] Il n’est pas nécessaire que je tranche cette question étant donné ma conclusion selon laquelle M. Zia agissait uniquement comme mandataire. Cette question pourra être tranchée dans d’autres circonstances.
+[36] En conséquence, je conclurais que M. Zia n’est pas un particulier visé à l’alinéa 254(2)a) et qu’il n’est pas nécessaire qu’il remplisse les conditions relatives au remboursement.
+2e question en litige – M. Javaid avait-il l’intention de faire du bien son lieu de résidence habituelle? [37] La Couronne soutient également que le remboursement devrait être refusé parce que M. Javaid n’avait pas l’intention d’utiliser le bien situé à Markham pour qu’il lui serve de lieu de résidence habituelle, comme l’exige l’alinéa 254(2)b) de la Loi. Cette disposition est ainsi rédigée :
+254.(2) Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+[…]
+b) au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui-ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche;
+[38] La Couronne a soulevé cette question au début de l’audience, et elle ne l’avait pas mentionnée comme question en litige dans sa réponse.
+[39] L’avocat de M. Javaid m’a informée que la Couronne avait soulevé cette question quelques jours avant l’audition. À mon avis, ce préavis était tout simplement trop court pour permettre à M. Javaid de se préparer à répondre à cette question au procès.
+[40] La difficulté que pose la préparation d’une réponse à cette question à si brève échéance est clairement apparue à l’audience. Par exemple, l’avocat de M. Javaid a mentionné que la Couronne l’avait informé que M. Javaid avait le fardeau de prouver son intention de résidence.
+[41] Ce fardeau n’incombe pas à M. Javaid. Le seul fardeau qui incombe à M. Javaid est celui de réfuter les présomptions que le ministre a formulées lorsqu’il a calculé la dette fiscale (Hickman Motors Ltd. c. Canada, [1997] 2 RCS 336, 97 D.T.C. 5363, à la p. 5376). Ces présomptions sont énoncées au paragraphe 10 de la réponse, et elles ne traitent pas de la résidence de M. Javaid.
+[42] À mon avis, il n’est pas équitable que la Couronne soulève cette question à ce stade tardif, et je n’ai pas l’intention de l’examiner.
+Conclusion [43] L’appel sera accueilli, et les dépens seront adjugés à M. Javaid selon le tarif applicable.
+Les présents motifs du jugement modifiés remplacent les motifs du jugement datés du 17 avril 2015.
+Signé à Toronto (Ontario), ce 28e jour d’avril 2015.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 2e jour de juin 2015.
+S. Tasset
+RÉFÉRENCE :
+2015 CCI 94
+NO DU DOSSIER DE LA COUR :
+2014-1802(GST)I
+INTITULÉ :
+FAISAL JAVAID et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 11 mars 2015
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Judith Woods
+DATE DU JUGEMENT :
+Le 17 avril 2015
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Bobby B. Solhi
+Avocats de l’intimée :
+Me Aaron Tallon
+Me Laurent Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Bobby B. Solhi
+Cabinet :
+Tax Chambers LLP
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

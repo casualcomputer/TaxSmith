@@ -1,0 +1,189 @@
+Title: Phillips v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26096/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-24-26096-phillips-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-01-30
+
+# Phillips v. The Queen
+
+- Citation: 2006 CCI 24
+- Decision date: 2006-01-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4157, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Phillips v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-30
+Référence neutre
+2006 CCI 24
+Numéro de dossier
+2004-694(GST)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-694(GST)I
+ENTRE :
+RONALD SYDNEY PHILLIPS,
+appelant,
+et
+SA MAJETÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 12 janvier 2006, à Winnipeg (Manitoba).
+Devant : L'honorable juge B. Paris
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Penny L. Piper
+____________________________________________________________________
+JUGEMENT L'appel à l'encontre de la nouvelle cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis porte le numéro 09CR0100071 et est daté du 29 janvier 2003, est accueilli en partie, conformément aux motifs du jugement ci-joints.
+Signé à Toronto (Ontario) ce 30e jour de janvier 2006.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 6e jour de juillet 2006.
+Nathalie Boudreau, traductrice
+Référence : 2006CCI24
+Date : 20060130
+Dossier : 2004-694(GST)I
+ENTRE :
+RONALD SYDNEY PHILLIPS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris,
+[1] Il s'agit d'un appel à l'encontre d'une nouvelle cotisation à l'égard de la taxe sur les produits et services (la « TPS » ) sur les fournitures effectuées par l'appelant entre le 1er juillet 1997 et le 30 juin 2001. L'appelant a fait l'objet d'une nouvelle cotisation au motif qu'il avait omis de verser la TPS qu'il avait perçue sur les droits de participation aux diverses conférences éducatives qu'il a organisées à Winnipeg pendant la période en litige.
+[2] L'appelant dit qu'il n'a pas facturé de TPS sur les droits de participation qu'il recevait pour les conférences et que la plupart des droits de participation avaient été payés par des bandes d'Indiens ou par des entités mandatées par une bande qui étaient exemptées de la TPS en vertu de l'article 87 de la Loi sur les Indiens.
+[3] Les questions en litige dans le présent appel sont de savoir :
+1) si tous les droits de participation facturés par l'appelant pendant la période en litige comprenaient la TPS que l'appelant a omis de verser;
+2) dans la négative, si les bandes d'Indiens ou les entités mandatées par une bande qui ont payé des droits de participation à l'appelant étaient exemptées de la TPS relativement à ces droits en vertu de l'article 87 de la Loi sur les Indiens.
+Faits
+[4] L'appelant organisait des conférences qui consistaient en des ateliers et des séances de formation portant sur des questions d'intérêt particulier pour les Indiens travaillant dans les domaines des soins de santé, de l'éducation et de l'administration. Certaines des conférences avaient lieu sur les réserves, mais celles qui ont donné lieu au présent appel ont eu lieu en dehors des réserves. Le ministre du Revenu national (le « ministre » ) a accepté le fait qu'aucune TPS n'était payable en vertu de l'article 87 de la Loi sur les Indiens relativement aux droits reçus pour les Indiens participant aux conférences qui avaient eu lieu sur les réserves.
+[5] Voici ce sur quoi portaient certaines des conférences de l'appelant qui ont eu lieu en dehors des réserves pendant la période en litige :
+stratégies efficaces pour faire pression sur les gouvernements : réussite pour les Premières nations;
+renforcement de la position des comités de santé des Premières nations;
+création des possibilités économiques et des emplois;
+obtention du financement pour des projets communautaires et pour le développement communautaire;
+ateliers sur la santé et l'éducation dans les collectivités autochtones;
+planification en matière de santé dans les collectivités autochtones;
+justice réparatrice;
+enfants et jeunes autochtones : autonomisation et autodétermination;
+formation à l'intention des conseils scolaires des Premières nations : planification et budgétisation;
+questions actuelles en matière d'éducation des Autochtones;
+respect des traditions : intégration des valeurs et des traditions autochtones et des langues autochtones dans le système éducatif.
+[6] De façon générale, les conférences duraient de trois à cinq jours et étaient principalement composées de courts ateliers d'un à trois jours offerts par des animateurs embauchés par l'appelant. L'appelant distribuait des documents aux personnes participant aux conférences.
+[7] Les brochures et les formulaires d'inscription aux conférences de l'appelant indiquent les frais d'inscription exigibles pour la conférence ou pour les ateliers choisis. Les brochures relatives aux conférences tenues avant le mois d'avril 2001 n'indiquent rien au sujet de la TPS. Les formulaires de paiement distribués à partir du mois d'avril 2001 comprennent une ligne permettant d'ajouter la TPS aux droits de participation aux conférences ou aux ateliers et portent la mention suivante : [traduction] « les entités mandatées par une bande [...] doivent indiquer qu'elles sont exemptées de la TPS quant aux services destinés aux activités de gestion exercées à l'extérieur d'une réserve » .
+[8] L'appelant a expliqué qu'il ne facturait jamais de TPS sur les droits de participation parce qu'il croyait que la grande majorité de ses clients, étant donné qu'ils étaient des Indiens ou des entités mandatées par une bande, étaient exemptés de la TPS. Son raisonnement à ce sujet était fondé sur les lignes directrices administratives contenues dans le bulletin d'information publié par l'ARC intitulé « Politique administrative de la TPS/TVH : Application de la TPS/TVH aux Indiens » [1]. Dans ces lignes directrices, il est plus précisément indiqué ce qui suit :
+Les services qu'une bande indienne ou une entité mandatée par une bande (dotée ou non de la personnalité morale) acquiert dans une réserve, ou à l'extérieur de celle-ci, et qui sont destinés aux activités de gestion de la bande ou qui seront utilisés relativement à des immeubles situés sur la réserve ne sont pas assujettis à la TPS/TVH[2].
+[9] Il a dit qu'étant donné que les bandes d'Indiens et les entités mandatées par une bande n'étaient pas tenues de payer la TPS sur les droits de participation (selon les lignes directrices), il était beaucoup plus simple, pour la tenue de ses livres, de ne pas facturer de TPS aux participants, même si quelques-uns d'entre eux n'étaient pas exemptés de la TPS, et de payer toute TPS exigible de sa poche.
+[10] Les reçus pour les frais d'inscription délivrés par l'appelant comportaient certaines incohérences. Tous les reçus indiquaient un montant total reçu (total en chiffres ronds), écrit en toutes lettres et en chiffres. Dans certains cas, pour les paiements reçus d'une personne ou d'un organisme non exempté de la TPS, un montant de TPS était indiqué. Sur plusieurs autres reçus relatifs à des frais payés par des bandes d'Indiens ou des entités mandatées par une bande, il y avait la mention [TRADUCTION] « TPS 0,00 » . Toutefois, sur la plupart des reçus, il n'y avait aucune mention de la TPS.
+[11] Pour ce qui est des reçus sur lesquels un montant de TPS était indiqué, l'appelant a expliqué qu'à l'occasion, des personnes inscrites à ses conférences qui n'étaient pas exemptées de la TPS envoyaient leurs frais d'inscription et précisaient sur leurs chèques que le paiement comprenait un montant de TPS. Dans ces cas, l'appelant considérait le paiement total reçu comme comprenant le montant de TPS indiqué par le participant. Il a dit que même si son intention n'était pas que les frais d'inscription qu'il facturait comprennent la TPS, il avait choisi de ne pas communiquer avec ces participants (c.-à-d. les personnes qui avaient considéré le prix comme comprenant la TPS) au sujet de l'insuffisance des paiements parce que les montants étaient peu élevés, généralement de moins de 20 $.
+[12] L'appelant a présenté en preuve des certificats d'exemption des diverses bandes d'Indiens ou entités mandatées par une bande (comme des conseils de bande, des autorités scolaires et des fournisseurs de soins de santé) qui avaient envoyé des participants à ses conférences pendant les années en litige. Ces certificats indiquaient que les biens ou les services acquis de l'appelant se rapportaient à des activités de gestion de bande et que la fourniture n'était pas assujettie à la TPS. Les formulaires avaient été signés par des représentants autorisés des bandes ou des entités mandatées par une bande. Les certificats d'exemption étaient établis dans la forme prescrite par le Bulletin d'information technique sur la TPS/TVH B-039, qui indique ce qui suit :
+Documents du vendeur
+Bandes indiennes et entités mandatées par une bande
+Lorsque l'acquéreur est une bande indienne ou une entité mandatée par une bande, il doit fournir au vendeur une attestation affirmant que les biens sont acquis par une bande indienne ou une entité mandatée par une bande pour des activités de gestion de la bande. Le vendeur doit conserver de telles attestations.
+Le montant des droits de participation payés à l'appelant visés par les certificats d'exemption présentés en preuve s'élève à 693 818,30 $.
+Argumentation
+Premier point en litige
+[13] L'appelant allègue qu'il n'a pas facturé de TPS sur les droits qu'il a perçus des bandes d'Indiens en raison de la politique administrative de l'ARC, selon laquelle les services fournis à l'extérieur de la réserve pour des activités de gestion de la bande sont exemptés de la TPS. Il a invoqué les certificats d'exemption qu'il avait obtenus des diverses bandes et entités mandatées par une bande à l'appui de sa position.
+[14] Toutefois, l'appelant admet qu'il aurait dû percevoir la TPS sur les droits payés par les participants qui ne participaient pas à ses conférences au nom d'une bande d'Indiens ou d'une entité mandatée par une bande et qui ne travaillaient pas dans une réserve, et il admet qu'il est tenu de payer ce montant qu'il ait perçu la taxe de ses clients ou non. La seule partie de la nouvelle cotisation en litige dans le présent appel se rapporte aux droits payés par les bandes d'Indiens et les entités mandatées par une bande pour la participation aux conférences des Indiens travaillant sur les réserves et dans les domaines précisés ci-dessus.
+[15] L'intimée allègue que les inscriptions au sujet de la TPS figurant sur certains des reçus étaient suffisantes pour montrer que l'intention de l'appelant était que les droits facturés comprennent la TPS. Étant donné que les droits facturés comprenaient la TPS, l'appelant était tenu de verser ces montants, et ce, que les clients de l'appelant aient payé la TPS par erreur ou non.
+Deuxième point en litige
+[16] L'avocate de l'intimée a fait valoir que l'appelant fournissait des « droits d'entrée » aux conférences qu'il organisait et que selon la définition de l'expression « droit d'entrée » contenue dans la Loi sur la taxe d'accise (la « Loi » ), les droits d'entrée sont des biens meubles incorporels. La définition de l'expression se trouve à l'article 123 de la Loi et est rédigée en ces termes :
+123.(1) Définitions - Les définitions qui suivent s'appliquent à l'article 121, à la présente partie et aux annexes V à X.
+[...]
+« droit d'entrée » Droit d'accès à un lieu de divertissement, un colloque, une activité ou un événement ou droit d'y entrer ou d'y assister.
+[17] Étant donné que la fourniture effectuée par l'appelant était une fourniture d'un bien meuble incorporel et que la fourniture a été effectuée à l'extérieur de la réserve, elle n'était pas exemptée de la TPS en vertu de l'article 87 de la Loi sur les Indiens. L'exemption visée par cet article ne s'applique qu'aux biens meubles d'Indien situé sur une réserve.
+[18] L'avocate a soutenu subsidiairement que même si les conférences organisées par l'appelant constituaient une fourniture d'un service plutôt que d'un bien, la fourniture serait quand même taxable et ne serait pas exonérée parce que l'article 87 de la Loi sur les Indiens n'exempte pas les services acquis par les Indiens, même ceux qui sont acquis sur une réserve.
+[19] L'appelant a quant à lui invoqué la politique administrative de l'ARC contenue dans le bulletin d'information technique sur la TPS B-039R et a soutenu que cette politique fournit une interprétation juste de l'exemption de TPS en ce qui concerne les fournitures effectuées pour des activités de gestion de la bande. Il a donc dit que les droits payés à l'égard des participants exerçant des activités de gestion de la bande dans les réserves étaient exemptés de la TPS.
+Analyse
+Premier point en litige
+[20] La question de savoir si l'appelant avait perçu, mais omis de verser, la TPS sur les droits de participation qu'il avait reçus des bandes d'Indiens ou des entités mandatées par une bande est une question de fait.
+[21] À la lumière de la preuve présentée, je suis convaincu que l'appelant n'avait pas perçu de TPS sur les droits de participation en question. Pour arriver à cette conclusion, j'ai tenu compte du fait que jusqu'au mois d'avril 2001, il n'était pas indiqué sur les brochures de l'appelant ou ailleurs que la TPS était comprise dans le montant facturé, et j'accepte que l'appelant n'avait jamais voulu que la TPS soit comprise dans ce montant. Le témoignage de l'appelant selon lequel il avait choisi de ne pas percevoir de TPS sur les droits payés par les bandes n'a pas été contesté en contre-interrogatoire, et je n'ai aucune raison de ne pas le croire. J'accepte que l'omission de percevoir la TPS s'expliquait par la volonté de l'appelant de suivre les lignes directrices publiées par l'ARC dans le bulletin d'information technique B-039R.
+[22] Le fait qu'à quelques occasions l'appelant ait accepté certains paiements en donnant l'impression qu'ils comprenaient la TPS ne change rien à la prépondérance de la preuve selon laquelle l'appelant ne percevait pas de TPS sur les droits de participation qu'il facturait. Je crois aussi que le fait que les bandes et les entités mandatées par une bande comprenaient que les droits qu'elles payaient à l'appelant n'incluaient pas la TPS est lui aussi important.
+[23] De plus, les brochures distribuées à compter du mois d'avril 2001 indiquaient que la TPS, si elle s'appliquait, devait être ajoutée aux droits facturés pour les conférences et les ateliers et que les frais indiqués ne comprenaient pas la TPS. Cela tend à étayer la position de l'appelant selon laquelle la TPS n'était pas comprise dans les droits indiqués sur les brochures distribuées avant le mois d'avril 2001.
+Deuxième point en litige
+[24] Il faut encore déterminer si les bandes et les entités mandatées par une bande qui ont payé des droits de participation à l'appelant étaient exemptées de la TPS sur ces droits. Si elles ne l'étaient pas, l'appelant sera quand même tenu de payer la TPS sur ces fournitures, même s'il a omis de percevoir cette taxe. Par ailleurs, en vertu de l'article 224 de la Loi, il pourrait intenter une action en recouvrement de la taxe impayée contre les bandes et les entités mandatées par une bande.
+[25] Pour décider si l'appelant peut se prévaloir d'une exemption fiscale visée à l'article 87 de la Loi sur les Indiens, il faut d'abord examiner le libellé de la disposition d'exemption. Le voici :
+(1) Biens exempts de taxation - Nonobstant toute autre loi fédérale ou provinciale, mais sous réserve de l'article 83, les biens suivants sont exemptés de taxation :
+a) le droit d'un Indien ou d'une bande sur une réserve ou des terres cédées;
+b) les biens meubles d'un Indien ou d'une bande situés sur une réserve.
+(2) Idem - Nul Indien ou bande n'est assujetti à une taxation concernant la propriété, l'occupation, la possession ou l'usage d'un bien mentionné aux alinéas (1)a) ou b) ni autrement soumis à une taxation quant à l'un de ces biens.
+[...]
+[26] Selon l'article 87, une personne peut se prévaloir de l'exemption de taxation si le bien à l'égard duquel l'exemption est demandée répond à l'une des conditions suivantes :
+(i) il s'agit d'un droit d'un Indien sur une réserve ou sur des terres cédées;
+(ii) il s'agit d'un bien meuble d'un Indien ou d'une bande situé sur une réserve.
+[27] La première question à trancher est donc de savoir quelle est la nature du bien à l'égard duquel l'exemption est demandée dans le présent appel.
+[28] L'appelant n'a pas précisé dans quelle catégorie de biens exemptés de la TPS tombaient les droits de participation aux conférences en cause. Il a dit qu'il fournissait des services éducatifs ou de formation et qu'il a simplement tenu pour acquis que les lignes directrices administratives précédemment mentionnées dans les présents motifs énonçaient la façon correcte d'interpréter la disposition d'exemption, au moins en ce qui concerne les services fournis pour des activités de gestion d'une bande.
+[29] L'intimée a allégué que l'appelant fournissait des « droits d'entrée » à ses conférences, droits qui sont réputés, par le paragraphe 123(1) de la Loi, être des droits d'assister aux conférences et qui sont donc des biens meubles incorporels. Selon l'avocate, ces biens n'étaient pas situés sur une réserve et, par conséquent, n'étaient pas exemptés de la TPS en vertu de l'article 87.
+[30] Pour ce qui est de la question de savoir si l'appelant fournissait un service ou un bien, je souscris à la conclusion de l'intimée, mais je ne vois pas en quoi la définition de « droit d'entrée » contenue au paragraphe 123(1) de la Loi est pertinente pour arriver à cette conclusion. Cette définition précise le sens à donner à l'expression « droit d'entrée » à l'article 121, à la partie IX et aux annexes V à X de la Loi. Aucune des dispositions de la Loi ou de ses annexes dans lesquelles apparaît l'expression « droit d'entrée » ne s'applique à la situation de l'appelant, et rien dans la Loi n'indique que le paiement de droits de participation à une conférence est réputé être un achat d'un droit d'entrée.
+[31] Toutefois, je crois qu'en vertu du contrat entre l'appelant et ses clients, le paiement des droits de participation aux conférences donnait aux clients le droit de participer à la conférence à une date ultérieure. Même si les conférences elles-mêmes correspondent à la fourniture d'un service, au moment où les bandes ou les entités mandatées par une bande faisaient des paiements à l'appelant, ils acquéraient le droit de se prévaloir d'un service à une date ultérieure.
+[32] Les droits de participation étaient payés par les participants ou (en l'espèce) par leurs employeurs pour que les participants puissent assister aux conférences ou aux ateliers organisés par l'appelant aux dates prévues. Les droits étaient établis en fonction des ateliers particuliers auxquels les participants voulaient assister et étaient payés à l'avance. Selon l'appelant, les diverses bandes d'Indiens ou entités mandatées par une bande payaient souvent les droits pour plus d'une personne et décidaient par la suite qui participerait aux conférences. Il semble donc que le droit de participer aux conférences pouvait être transféré d'une personne à une autre. Les formulaires d'inscription précisaient que les personnes inscrites qui ne souhaitaient pas participer à la conférence et qui voulaient obtenir un remboursement devaient demander celui-ci plus d'une semaine avant la date de la conférence. L'obligation de payer n'était donc pas subordonnée à la réception du service.
+[33] Je conclus qu'en l'espèce, au moment où elles ont été effectuées, les fournitures consistaient en des droits d'assister aux conférences.
+[34] Un tel droit contractuel serait un bien meuble incorporel et répondrait à la définition du terme « bien » contenue au paragraphe 123(1) de la Loi, qui est ainsi libellée :
+« Bien » À l'exclusion d'argent, tous biens - meubles ou immeubles - tant corporels qu'incorporels, y compris un droit quelconque, une action ou une part; [non souligné dans l'original.]
+[35] Pour décider si ce bien était exempté de taxation, il reste à déterminer s'il était situé sur une réserve comme l'exige l'article 87.
+[36] Le critère à appliquer pour déterminer le situs d'un bien incorporel, soit le « critère des facteurs de rattachement » , a été établi par la Cour suprême du Canada dans l'arrêt Williams c. Canada[3], où le juge Gonthier a dit ce qui suit au paragraphe 61 :
+Pour déterminer le situs d'un bien personnel incorporel, un tribunal doit évaluer divers facteurs de rattachement qui relient le bien à un endroit ou à l'autre. Dans le contexte de l'exemption fiscale prévue dans la Loi sur les Indiens, il y a trois facteurs importants : l'objet de l'exemption, la nature du bien en question et l'incidence fiscale sur ce bien. Compte tenu de l'objet de l'exemption, il s'agit, en fin de compte, de déterminer dans quelle mesure chaque facteur est pertinent pour décider si le fait d'imposer d'une certaine manière ce type de bien particulier porterait atteinte au droit d'un Indien à titre d'Indien de détenir des biens personnels sur la réserve.
+[37] L'exemption prévue par l'article 87 a pour but de « préserver les droits des Indiens sur leurs terres réservées et à assurer que la capacité des gouvernements d'imposer des taxes, ou celle des créanciers de saisir, ne porte pas atteinte à l'utilisation de leurs biens situés sur leurs terres réservées » [4].
+[38] Je le répète, les biens en cause dans le présent appel sont des droits incorporels. Ces droits constituent des biens meubles des bandes et des entités mandatées par une bande qui les ont acquis.
+[39] La taxe qu'on cherche à imposer sur ces biens, la TPS, est généralement considérée comme étant une taxe de consommation, mais une taxe de consommation qui s'applique au moment où le bien ou le service est acquis plutôt qu'au moment où il est consommé ou utilisé. La disposition d'application pour la TPS est le paragraphe 165(1) de la Loi, qui est rédigé en ces termes :
+Taux de la taxe sur les produits et services - Sous réserve des autres dispositions de la présente partie, l'acquéreur d'une fourniture taxable effectuée au Canada est tenu de payer à Sa Majesté du chef du Canada une taxe calculée au taux de 7 % sur la valeur de la contrepartie de la fourniture.
+[40] La taxe est imposée à l'acquéreur d'une fourniture taxable, et le terme « fourniture » est défini comme étant la « livraison de biens ou [la] prestation de services, notamment par vente, transfert, troc, échange, louage, licence, donation ou aliénation » [5]. La taxe s'applique à un moment particulier, c'est-à-dire lorsque le bien est livré ou le service est fourni à l'acquéreur, et, en l'espèce, si ce n'était de l'exemption de taxe, elle s'appliquerait au moment où les bandes d'Indiens ou les entités mandatées par une bande ont acquis les droits. Par conséquent, on peut dire qu'il s'agit d'une taxation « quant à » [6]la propriété d'un bien, et, en vertu du paragraphe 87(2) de la Loi sur les Indiens, les biens meubles des Indiens ou des bandes d'Indiens situés sur une réserve ne sont assujettis à aucune taxation.
+[41] Voici les facteurs dont il faudrait tenir compte pour décider si les biens incorporels en litige étaient situés sur une réserve : l'endroit où se trouve l'acheteur du bien, l'endroit où se trouve le vendeur du bien et la raison de l'acquisition du bien par les bandes d'Indiens et par les entités mandatées par une bande.
+[42] Les facteurs qui lient les biens à la réserve sont l'endroit où se trouvent les acheteurs sur les réserves et la raison de l'acquisition des biens. Les biens ont été acquis par diverses bandes d'Indiens et entités mandatées par une bande pour l'exploitation de centres éducatifs et de santé et pour l'exercice d'activités de gestion sur leurs réserves. Les biens ont aussi été acquis pour améliorer la qualité de la vie des Indiens sur les réserves ou pour favoriser une meilleure administration des réserves.
+[43] L'acquisition des droits est physiquement liée à la réserve par le fait que les bandes d'Indiens et les entités mandatées par une bande se trouvaient sur la réserve au moment où elles ont acquis les droits, et elle est aussi liée à la réserve en raison du but de l'acquisition des droits, soit l'amélioration des institutions sociales, éducatives et administratives de la réserve et le renforcement de la réserve à titre de base sociale des Indiens qui y vivent. Cela montre qu'il existe un lien étroit entre le bien et le fait que les bandes d'Indiens et les entités mandatées par une bande occupaient une réserve.
+[44] Toutefois, l'endroit où se trouvait l'appelant au moment de la fourniture militerait contre une conclusion voulant que le bien fût situé sur une réserve au moment de l'imposition de la taxe.
+[45] Après avoir examiné tous les facteurs susmentionnés et donné à chaque facteur le poids nécessaire, je suis d'avis que les droits de participer aux conférences de l'appelant étaient situés sur la réserve au moment de leur acquisition. Dans l'arrêt Monias c. La Reine[7], la Cour d'appel fédérale a dit qu'au moment de déterminer l'endroit où se trouve le bien incorporel, « c'est le situs de son acquisition qui est particulièrement important » . Dans les circonstances de la présente affaire, le bien a été acquis par des bandes d'Indiens ou des entités mandatées par une bande sur une réserve. Pour ce motif et à la lumière du lien étroit qui existe entre le bien et l'utilisation et l'occupation des réserves, je conclus que le bien était détenu en vertu des droits conférés aux Indiens à titre d'Indiens sur une réserve.
+[46] Pour tous ces motifs, je conclus que la fourniture des services de conférence par l'appelant aux bandes d'Indiens était exemptée de la TPS. L'appelant a présenté des éléments de preuve démontrant que des droits de participation s'élevant à 693 818,30 $ ont été payés par des bandes d'Indiens et que ces droits sont donc exemptés de taxation. En l'absence de preuve voulant que la balance des droits de participation de 812 120 $ reçus par l'appelant relativement aux conférences qui ont eu lieu à l'extérieur des réserves ont été payés par des bandes d'Indiens ou par des entités mandatées par une bande, ces droits seront assujettis à la TPS.
+[47] L'appel est donc accueilli en partie. Étant donné que le montant de TPS en cause dépasse 7 000 $, aucuns dépens ne seront adjugés.
+Signé à Toronto (Ontario) ce 30e jour de janvier 2006.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 6e jour de juillet 2006.
+Nathalie Boudreau, traductrice
+RÉFÉRENCE : 2006CCI24
+NO DU DOSSIER : 2004-694(GST)I
+INTITULÉ : RONALD SYDNEY PHILLIPS ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Winnipeg (Manitoba)
+DATE DE L'AUDIENCE : Le 12 janvier 2005
+MOTIFS DU JUGEMENT PAR : L'honorable juge B. Paris
+DATE DU JUGEMENT : Le 30 janvier 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Penny L. Piper
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Bulletin d'information technique B-039R, daté du 25 novembre 1993.
+[2] Le bulletin B-039R dit également ce qui suit :
+« Activités de gestion de la bande » S'entend des activités ou des programmes entrepris par une bande ou par une entité mandatée par une bande qui ne sont pas des activités commerciales pour lesquelles elle aurait autrement droit à un crédit de taxe sur les intrants. Pour déterminer si l'acquisition d'une fourniture est destinée à la gestion de la bande, le résultat de l'activité ou du programme constituera le facteur déterminant par opposition aux objectifs de l'activité ou du programme. Par exemple, l'objectif ou le programme de la bande peut viser à fournir de l'emploi ou de la formation aux membres de la bande. Pour atteindre cet objectif, la bande peut former une entreprise commerciale qui offrira la formation sur place et qui créera également de l'emploi. Bien que l'objectif de la bande vise la formation des personnes, il en résulte une activité commerciale qui donne droit aux crédits de taxe sur les intrants. Donc, les fournitures acquises pour être utilisées dans le cadre du programme de bande en question ne sont pas réputées avoir été acquises pour être utilisées dans les activités de gestion de la bande.
+[...]
+« Entité mandatée par une bande » S'entend d'une personne morale, d'une commission, d'un conseil, d'une association, d'une société ou d'une autre organisation, qui appartient à une bande, un conseil de tribu ou un groupe de bandes, sauf un conseil de tribu, ou que ces derniers contrôlent. La présente politique s'applique aux entités mandatées par une bande qui sont situées dans une réserve. Une entité mandatée par une bande est considérée être située dans une réserve si elle y maintient une présence.
+[3] [1992] 1 R.C.S. 877.
+.
+[4] Williams c. Canada, précité, au paragraphe 16.
+[5] Définition de « fourniture » contenue au paragraphe 123(1) de la Loi sur la taxe d'accise.
+[6] Nowegijick c. La Reine, [1983]1 R.C.S. 29, à la page 30.
+[7] [2002] 1 C.F. 51 au paragraphe 66

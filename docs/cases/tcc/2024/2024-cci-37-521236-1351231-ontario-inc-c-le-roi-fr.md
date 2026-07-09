@@ -1,0 +1,272 @@
+---
+title: "1351231 Ontario Inc. c. Le Roi"
+source: "https://norma.lexum.com/tcc-cci/decisions/fr/item/521236/index.do"
+last_modified: "2024-03-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 37"
+citation2: ""
+neutral_citation: "2024 CCI 37"
+decision_date: "2024-03-15"
+language: "fr"
+item_id: "521236"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5490
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-01-09T09:04:26.669000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4f4446f198671a3186e0314b8c480d04a8bdace7a418009220ab8877be04a520"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1351231 Ontario Inc. c. Le Roi
+
+- Citation: 2024 CCI 37
+- Decision date: 2024-03-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5490, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1351231 Ontario Inc. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-03-15
+Référence neutre
+2024 CCI 37
+Numéro de dossier
+2020-2170(GST)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2020-2170(GST)G
+ENTRE :
+1351231 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[traduction française officielle]
+Appel entendu le 19 septembre 2023, à Ottawa (Ontario).
+Devant : l’honorable juge Steven K. D’Arcy.
+Comparutions :
+Avocats de l’appelante :
+Me Bobby Solhi
+Me Frédérique Duchesne
+Avocat de l’intimé :
+Me Robert Zsigo
+JUGEMENT
+Conformément à mes motifs du jugement :
+L’appel interjeté à l’encontre d’une cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 14 janvier 2019, est rejeté avec dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 15e jour de mars 2024.
+« S. D’Arcy »
+Le juge D’Arcy
+Traduction certifiée conforme
+ce 23e jour de décembre 2025.
+Guillaume Chénard, jurilinguiste principal
+Référence : 2024 CCI 37
+Date : 20240315
+Dossier : 2020-2170(GST)G
+ENTRE :
+1351231 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] Le présent appel porte sur la vente d’une unité en copropriété usagée que l’appelante a acquise à titre de bien de placement. Pendant les neuf premières années où elle a été propriétaire de l’unité en copropriété, l’appelante l’a louée à des tiers en vertu de baux à long terme. Toutefois, pendant la majeure partie des 14 derniers mois où elle a été propriétaire de l’unité en copropriété, l’appelante a loué le bien pour des séjours de courte durée par l’entremise de la plateforme Airbnb. La question dont la Cour est saisie est celle de savoir si, en l’espèce, la vente de l’unité en copropriété était assujettie à la TPS/TVH.
+[2] Les parties ont déposé un exposé conjoint des faits (l’« ECF ») et un recueil conjoint des documents. Les parties conviennent que les documents inclus dans le recueil conjoint des documents sont des copies authentiques des documents originaux et conviennent de la véracité du contenu de ces derniers. Sur la foi de cette entente, j’ai déposé le recueil de documents en tant que pièce AR-1[1].
+[3] Aucune partie n’a appelé de témoin à l’audience.
+Résumé des faits [4] L’appelante est inscrite aux fins de l’application de la TPS sous le régime de la partie IX de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E‑15 (la « Loi sur la TPS »). Elle est une déclarante annuelle dont la période de déclaration se termine le 31 mai de chaque année. Elle appartient en parts égales aux frères David et Dean Ross, qui sont les seuls actionnaires et administrateurs de l’appelante.
+[5] Le 29 février 2008, l’appelante a acheté une unité en copropriété usagée située au 2204-179, rue George, à Ottawa.
+[6] Entre février 2008 et février 2017, l’appelante a loué l’unité en copropriété à des personnes qui ont signé une série ininterrompue de baux à long terme. Chaque bail avait une durée supérieure à 60 jours. Le dernier bail a pris fin en février 2017.
+[7] Entre le 25 février 2017 et avril 2018, l’appelante a annoncé l’unité en copropriété sur la plateforme Airbnb et l’a louée pour des séjours de courte durée. L’appelante a tiré de la location de courte durée des recettes brutes de 11 200 $ en 2017 et de 43 179 $ en 2018.
+[8] La dernière réservation d’Airbnb de l’appelante était pour un séjour de 31 nuits se terminant le 26 février 2018.
+[9] Le 12 décembre 2017, l’appelante a mis l’unité en copropriété en vente. Le 24 janvier 2018, elle a conclu un contrat visant l’unité en copropriété avec MLJFS Holdings, un acheteur avec qui elle n’avait aucun lien de dépendance. La vente a été conclue le 11 avril 2018.
+[10] Ni l’appelante ni l’acheteur n’ont versé la TPS relativement à la vente de l’unité en copropriété.
+[11] Lors de l’établissement de la cotisation de l’appelante pour sa période de déclaration annuelle de la TPS, soit du 1er juin 2017 au 31 mai 2018, le ministre a fixé à 77 079,64 $ le montant de TPS/TVH à percevoir sur la vente de l’unité en copropriété.
+Les règles de droit applicables et les questions à trancher par la Cour [12] La Cour doit déterminer si la vente de l’unité en copropriété était assujettie à la TPS en vertu de la section II de la Loi sur la TPS. La taxe prévue à la section II est prélevée en vertu de l’article 165.
+[13] Le paragraphe 165(1) impose à l’acquéreur d’une fourniture taxable effectuée au Canada la taxe prévue à la section II, calculée au taux de 5 %. Le paragraphe 165(2) prévoit que si la fourniture taxable est effectuée dans une province participante, le taux de taxe est majoré du taux de taxe de cette province. La taxe visée aux paragraphes 165(1) et 165(2) est prélevée sur la valeur de la contrepartie de la fourniture.
+[14] L’unité en copropriété est située en Ontario; par conséquent, au sens du paragraphe 142(1) et de l’article 144.1, la vente de l’unité en copropriété a été effectuée au Canada et dans une province participante, à savoir l’Ontario. Par conséquent, si la vente était une fourniture taxable, elle était assujettie à la TVH au taux de 13 % applicable aux fournitures effectuées en Ontario.
+[15] La vente de l’unité en copropriété était manifestement une fourniture, puisque la fourniture est définie au paragraphe 123(1) comme étant la livraison de biens ou la prestation de services, notamment par vente.
+[16] La Cour doit déterminer si la vente constituait une fourniture taxable. La fourniture taxable est définie au paragraphe 123(1) comme étant une fourniture effectuée dans le cadre d’une activité commerciale. L’activité commerciale est définie au paragraphe 123(1). L’alinéa c) de la définition précise que l’activité commerciale s’entend de « la réalisation d’une fourniture, sauf une fourniture exonérée, d’un immeuble de la personne, y compris les actes qu’elle accomplit dans le cadre ou à l’occasion de la fourniture ».
+[17] La vente de l’unité en copropriété par l’appelante était la fourniture d’un immeuble lui appartenant. Par conséquent, elle a été faite dans le cadre d’une activité commerciale, à moins qu’elle ne soit une fourniture exonérée.
+[18] Aux fins de l’application de la Loi sur la TPS, les fournitures exonérées sont prévues à l’annexe V de la Loi. La partie I de l’annexe V exonère diverses fournitures d’immeubles. La disposition pertinente aux fins du présent appel est l’article 2 de la partie I de l’annexe V.
+[19] La partie pertinente de cet article est ainsi libellée :
+2. La fourniture par vente d’un immeuble d’habitation, ou d’un droit dans un tel immeuble, (appelée « fourniture donnée » au présent paragraphe) effectuée par une personne donnée autre que le constructeur de l’immeuble ou, si l’immeuble est un immeuble d’habitation à logements multiples, d’une adjonction à celui-ci, sauf si, selon le cas :
+a) la personne donnée a demandé un crédit de taxe sur les intrants relativement à sa dernière acquisition de l’immeuble ou relativement à des améliorations apportées à celui-ci, qu’elle a acquises, importées, ou transférées dans une province participante après sa dernière acquisition de l’immeuble[2];
+[20] Cet article s’applique à la vente de l’unité en copropriété si les conditions suivantes sont réunies :
+–la vente de l’unité en copropriété était la vente d’un immeuble d’habitation;
+–l’appelante n’était pas un constructeur de l’unité en copropriété;
+–l’appelante n’a pas demandé de crédit de taxe sur les intrants relativement à sa dernière acquisition de l’unité en copropriété ou relativement à des améliorations apportées à celle-ci.
+[21] L’expression constructeur d’un immeuble d’habitation est définie au paragraphe 123(1). Les parties ont convenu que l’appelante n’est pas un constructeur selon cette définition. Aucun fait présenté à la Cour ne laisse croire que l’appelante était un constructeur de l’unité en copropriété selon cette définition.
+[22] Le paragraphe 21 de l’ECF indique que l’appelante a demandé des crédits de taxe sur les intrants au titre de la taxe payée sur l’achat de meubles en décembre 2016 et sur l’achat du service de peinture en janvier 2017. L’ECF indique au paragraphe 22 que l’appelante n’a pas demandé de crédits de taxe sur les intrants relativement à l’achat ou à l’amélioration du bien.
+[23] Ces paragraphes sont incompatibles si, comme question de fait, la peinture survenue en janvier 2017 constituait une amélioration de l’unité en copropriété au sens de la définition d’améliorations du paragraphe 123(1) de la Loi sur la TPS. Les faits qui m’ont été présentés ne me permettent pas de déterminer si la peinture constitue une amélioration. Toutefois, au cours de l’audience, l’intimé et l’appelante ont admis que, quelle que soit la peinture qui a été faite à l’unité en copropriété, elle ne constituait pas une amélioration pour l’application de la Loi sur la TPS.
+[24] De plus, je ne vois pas manifestement comment l’appelante pourrait demander des crédits de taxe sur les intrants à l’égard de biens et de services qu’elle a acquis pour consommation ou utilisation dans le cadre de la fourniture de l’unité en copropriété aux termes d’un bail résidentiel à long terme. Comme je l’explique ci-dessous, ce type de fourniture est une fourniture exonérée.
+[25] En résumé, les faits qui m’ont été soumis ne m’amènent pas à remettre en question la concession faite par les parties selon laquelle l’appelante n’a pas demandé de crédits de taxe sur les intrants relativement à l’achat ou à l’amélioration de l’unité en copropriété.
+[26] La seule question dont la Cour est saisie est celle de savoir si la condition restante doit être remplie avant que la vente de l’unité en copropriété soit considérée comme étant une fourniture exonérée : la vente de l’unité en copropriété doit constituer la vente d’un immeuble d’habitation.
+[27] Le terme immeuble d’habitation est défini au paragraphe 123(1) de la Loi sur la TPS. Les parties pertinentes de cette définition aux fins du présent appel sont les suivantes :
+immeuble d’habitation
+a) La partie constitutive d’un bâtiment qui comporte au moins une habitation, y compris :
+(i) la fraction des parties communes et des dépendances et du fonds contigu au bâtiment qui est raisonnablement nécessaire à l’usage résidentiel du bâtiment,
+(ii) la proportion du fonds sous-jacent au bâtiment correspondant au rapport entre cette partie constitutive et l’ensemble du bâtiment;
+b) la partie d’un bâtiment, y compris la proportion des parties communes et des dépendances du bâtiment, et du fonds sous-jacent ou contigu à celui-ci, qui est attribuable à l’habitation et raisonnablement nécessaire à son usage résidentiel, qui constitue :
+(i) d’une part, tout ou partie d’une maison jumelée ou en rangée, d’un logement en copropriété ou d’un local semblable qui est, ou est destinée à être, une parcelle séparée ou une autre division d’immeuble sur lequel il y a, ou il est prévu qu’il y ait, un droit de propriété distinct des droits de propriété des autres parties du bâtiment,
+(ii) d’autre part, une habitation;
+c) la totalité du bâtiment visé à l’alinéa a) ou du local visé au sous-alinéa b)(i), qui est la propriété d’un particulier, ou qui lui a été fourni par vente, et qui sert principalement de résidence au particulier, à son ex-époux ou ancien conjoint de fait ou à un particulier lié à ce particulier, y compris :
+(i) dans le cas d’un bâtiment visé à l’alinéa a), les dépendances, le fonds sous-jacent et la partie du fonds contigu qui sont raisonnablement nécessaires à l’usage du bâtiment,
+(ii) dans le cas d’un local visé au sous-alinéa b)(i), la fraction des parties communes et des dépendances du bâtiment, et du fonds sous-jacent ou contigu à celui-ci, qui est attribuable à l’immeuble et raisonnablement nécessaire à son usage;
+[…]
+Ne sont pas des immeubles d’habitation tout ou partie d’un bâtiment qui est un hôtel, un motel, une auberge, une pension ou un gîte semblable, ni le fonds et les dépendances qui y sont attribuables, si le bâtiment n’est pas visé à l’alinéa c) et si la totalité ou la presque totalité des baux, licences ou accords semblables, aux termes desquels les habitations dans le bâtiment ou dans la partie de bâtiment sont fournies, prévoient, ou sont censés prévoir, des périodes de possession ou d’utilisation continues de moins de 60 jours.
+[28] Selon cette définition, l’unité en copropriété est un immeuble d’habitation si les conditions suivantes sont remplies :
+–L’unité en copropriété est soit une habitation, soit un logement en copropriété;
+–l’exclusion à la fin de la définition ne s’applique pas à l’unité en copropriété.
+[29] L’unité en copropriété est une habitation. La définition du terme « habitation » au paragraphe 123(1) englobe une unité en copropriété.
+[30] L’unité en copropriété est également une unité en copropriété au sens du paragraphe 123(1), sous réserve qu’il s’agisse d’un immeuble d’habitation.
+[31] L’unité en copropriété constitue un immeuble d’habitation si l’exclusion générale dans la définition d’immeuble d’habitation ne s’applique pas à l’unité en copropriété. Cette exclusion s’applique à l’unité en copropriété si :
+–L’unité en copropriété est la partie d’un bâtiment qui est un hôtel, un motel, une auberge, une pension ou un gîte semblable;
+–le bâtiment dans lequel est située l’unité en copropriété n’est pas visé à l’alinéa c) de la définition;
+–la totalité ou la presque totalité des baux, licences ou accords semblables, aux termes desquels l’unité en copropriété est fournie, prévoient, ou sont censés prévoir, des périodes de possession ou d’utilisation continues de moins de 60 jours.
+[32] Le bâtiment dans lequel est située l’unité en copropriété n’est pas visé à l’alinéa c) de la définition. Cet alinéa ne s’applique qu’à un bâtiment ou à une unité de copropriété appartenant à un particulier.
+[33] L’appelante soutient que l’exclusion ne s’applique pas à l’unité en copropriété pour deux raisons. Premièrement, l’unité en copropriété n’est pas un hôtel, un motel ou un gîte semblable. Deuxièmement, si l’unité en copropriété est un hôtel, un motel ou un gîte semblable, le critère de la totalité ou presque totalité contenu dans l’exclusion ne s’applique pas aux fournitures de l’unité en copropriété.
+[34] La règle sur le changement d’utilisation des immeubles énoncée au paragraphe 206(2) est utile pour déterminer si l’exclusion prévue dans la définition d’immeuble d’habitation s’applique à l’unité en copropriété.
+[35] Le paragraphe 206(2) s’applique lorsqu’un inscrit n’a pas acquis un immeuble en vue de l’utiliser comme immobilisation dans le cadre de ses activités commerciales liées à la TPS et commence, à un moment donné, à l’utiliser comme immobilisation dans ce cadre[3]. Le paragraphe est rédigé en ces termes :
+(2) Début d’utilisation dans le cadre d’activités commerciales Pour l’application de la présente partie, l’inscrit qui a acquis un immeuble la dernière fois en vue de l’utiliser comme immobilisation mais en dehors du cadre de ses activités commerciales et qui commence, à un moment donné, à l’utiliser comme immobilisation dans ce cadre est réputé, sauf s’il devient un inscrit à ce moment :
+a) avoir reçu, au moment donné, une fourniture de l’immeuble par vente;
+b) avoir payé à ce moment et relativement à la fourniture, sauf s’il s’agit d’une fourniture exonérée, une taxe égale à la teneur en taxe de l’immeuble au moment donné.
+[36] Ce paragraphe s’applique à la vente de l’unité en copropriété si les conditions suivantes sont réunies :
+–l’appelante a acquis l’unité en copropriété la dernière fois en vue de l’utiliser comme immobilisation en dehors du cadre d’activités commerciales assujetties à la TPS;
+–l’appelante a commencé, à un moment donné, à utiliser l’unité en copropriété comme immobilisation dans le cadre de ses activités commerciales;
+–l’appelante n’est pas devenue un inscrit au moment donné.
+[37] Si le paragraphe s’applique, l’inscrit est réputé, au moment où il a commencé à utiliser l’unité en copropriété dans le cadre de ses activités commerciales, avoir reçu une fourniture de l’unité en copropriété par vente et, sauf s’il s’agit d’une fourniture exonérée, avoir payé la TPS égale à la teneur en taxe du bien.
+[38] De façon générale, la teneur en taxe correspond à la taxe payée par l’inscrit lors de l’acquisition du bien et de toute amélioration apportée au bien, sous réserve que cette taxe n’ait pas été recouvrée au moyen d’un remboursement ou d’une remise.
+[39] L’ECF indique que l’appelante était un inscrit aux fins de l’application de la TPS au moment où elle a acquis le bien et qu’elle a conservé ce statut pendant toute la période pertinente.
+[40] L’appelante a acquis l’unité en copropriété le 29 février 2008 en vue de l’utiliser comme immobilisation. Le terme immobilisation est défini au paragraphe 123(1) comme un bien qui est une immobilisation au sens de la Loi de l’impôt sur le revenu. L’unité en copropriété était manifestement une immobilisation au sens de cette loi.
+[41] Selon la preuve dont je dispose, le 29 février 2008, l’appelante a acquis l’unité en copropriété en vue de l’utiliser dans le cadre de ses activités commerciales non assujetties à la TPS. Elle l’a acquise plus précisément pour effectuer des fournitures exonérées qui étaient des baux résidentiels à long terme.
+[42] L’article 6 de la partie I de l’annexe V de la Loi sur la TPS exonère la fourniture d’une habitation, comme l’unité en copropriété, par bail, licence ou accord semblable, en vue de son occupation continue à titre résidentiel ou d’hébergement par le même particulier dans le cadre de l’accord pour une durée d’au moins un mois.
+[43] Le paragraphe 8 de l’ECF indique que chacun des baux de l’unité en copropriété de l’appelante entre février 2008 et février 2017 était conclu avec des personnes qui ont chacune signé une série ininterrompue de baux résidentiels à long terme, chaque bail dépassant 60 jours. Par conséquent, chacune de ces fournitures était une fourniture exonérée. L’appelante n’a donc pas acquis l’unité en copropriété le 29 février 2008 en vue de l’utiliser dans le cadre de ses activités commerciales.
+[44] Le 25 février 2017, l’appelante a inscrit l’unité en copropriété sur la plateforme Airbnb pour la louer au moyen d’un bail à court terme. L’onglet 6 de la pièce AR‑1 montre qu’entre mars 2017 et avril 2018, l’appelante a fourni l’unité en copropriété par bail à de nombreuses reprises pour des périodes de moins d’un mois. La plupart des fournitures étaient pour moins de sept nuits, et beaucoup pour une seule nuit. Ces fournitures n’étaient pas des fournitures exonérées, car elles visaient des périodes de moins d’un mois. Les baux à court terme étaient des fournitures taxables d’immeuble.
+[45] Comme je l’ai mentionné, une activité commerciale comprend la réalisation de la fourniture d’un immeuble, autre qu’une fourniture exonérée. L’alinéa 141.1(3)a) prévoit que, dans la mesure où elle accomplit un acte, sauf la réalisation d’une fourniture, à l’occasion de l’établissement d’une de ses activités commerciales, une personne est réputée avoir accompli l’acte dans le cadre de ses activités commerciales.
+[46] Il ressort de l’ECF que la première étape que l’appelante a franchie pour établir l’activité commerciale de location de l’unité en copropriété en vertu de baux à court terme a été l’inscription de l’unité en copropriété sur le site Web d’Airbnb le 25 février 2017. Au sens de l’alinéa 141.1(3)a), l’appelante était réputée avoir inscrit l’unité en copropriété dans le cadre de ses activités commerciales. En offrant l’unité en copropriété pour location à court terme le 25 février 2017, l’appelante a commencé à utiliser l’unité en copropriété dans le cadre de ses activités commerciales à cette date. En outre, comme l’appelante a effectué ces fournitures dans le cadre de ses activités commerciales, il s’agissait de fournitures taxables.
+[47] Par conséquent, à moins que le paragraphe 206(2) ne soit assujetti à un autre article, les règles sur le changement d’utilisation énoncées au paragraphe 206(2) s’appliquaient à l’appelante le 25 février 2017, soit la date où celle-ci a commencé à utiliser l’unité en copropriété dans le cadre de ses activités commerciales.
+[48] Par conséquent, à supposer que le paragraphe 206(2) s’applique, l’appelante est réputée, au sens de l’alinéa 206(2)a), avoir reçu une fourniture de l’unité en copropriété le 25 février 2017 par vente.
+[49] L’alinéa 206(2)b), selon lequel la taxe est réputée être payée à un montant égal à la teneur en taxe, ne s’applique pas. Le paragraphe 4 de l’ECF indique que l’unité en copropriété était une unité usagée au moment où l’appelante l’a acheté. Je présume que cela signifie que l’appelante n’a pas payé la TPS lorsqu’elle a acquis l’unité en copropriété. Les avocats de l’appelante l’ont en effet confirmé à l’audience. Dans une telle situation, la teneur en taxe de l’unité en copropriété était nulle en date du 25 février 2017.
+[50] L’appelante soutient que le paragraphe 206(2) ne s’applique pas en raison de l’application de l’article 197. Ce dernier limite l’application des règles sur le changement d’utilisation prévues aux paragraphes 206(2), (3) et (5), au paragraphe 207(2) et aux paragraphes 208(2) et (3) aux situations où le changement d’utilisation est de 10 % ou plus.
+[51] L’article 197 est ainsi libellé :
+Changement d’utilisation négligeable — Pour l’application des paragraphes 206(2), (3) et (5), 207(2) et 208(2) et (3), lorsqu’un bien à utiliser dans le cadre des activités commerciales d’un inscrit a fait l’objet, au cours de la période commençant au dernier en date des jours suivants et se terminant après ce jour, d’un changement d’utilisation qui représente un changement de moins de 10 % par rapport à son utilisation totale, l’inscrit est réputé avoir utilisé le bien durant cette période dans la même mesure et à la même fin qu’il l’utilisait au début de cette période :
+a) le jour où l’inscrit a acquis ou importé le bien la dernière fois pour l’utiliser comme immobilisation;
+b) le jour où les paragraphes 206(3) ou (5), 207(2) ou 208(3) se sont appliqués au bien pour la dernière fois.
+Le présent paragraphe ne s’applique pas si l’inscrit est un particulier qui a commencé, au cours de la période en question, à utiliser le bien principalement pour son usage personnel ou celui d’un particulier qui lui est lié.
+[52] L’une des situations où l’article 197 s’appliquera à un changement d’utilisation d’un immeuble est celle où, entre le moment où un inscrit a acquis l’immeuble la dernière fois et un moment précis, la mesure dans laquelle l’inscrit a changé l’utilisation de l’immeuble est inférieure à 10 %. Si l’article s’applique dans cette situation, il n’est donc pas tenu compte du changement d’utilisation pour l’application du paragraphe 206(2) (et de l’autre règle sur le changement d’utilisation d’un immeuble). Si l’inscrit est une société, il est réputé avoir utilisé l’immeuble tout au long de la période dans la même mesure et de la même manière qu’il l’a utilisé au moment où il a acquis l’immeuble.
+[53] L’appelante a fait valoir que l’article 197 s’applique au changement d’utilisation de l’unité en copropriété survenu le 25 février 2017.
+Règlement de l’appel [54] Les questions dont la Cour est saisie sont l’application des règles sur le changement d’utilisation des immeubles, plus précisément le paragraphe 206(2) et l’article 197, et l’application de la définition d’immeuble d’habitation figurant au paragraphe 123(1).
+[55] Les faits en cause ne sont pas contestés. Les questions en litige sont purement des questions d’interprétation législative.
+[56] Dans l’arrêt Hypothèques Trustco Canada c. Canada[4], la Cour suprême du Canada a établi que l’« analyse textuelle, contextuelle et téléologique » est le principe qui doit être utilisé dans l’interprétation de la Loi. Au paragraphe 10 de ses motifs, la Cour a expliqué le principe comme suit :
+L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux.
+Règles sur le changement d’utilisation [57] Je vais en premier lieu aborder l’application des règles sur le changement d’utilisation des immeubles par rapport à l’unité en copropriété.
+[58] L’appelante a fait valoir que, pour appliquer l’article 197, l’on doit tenir compte de la période commençant à la date où l’appelante a acquis l’unité en copropriété (29 février 2008) et se terminant à la date à laquelle l’unité en copropriété a été vendue (11 avril 2018). L’appelante a souligné que pendant ces 3 694 jours de propriété, elle a fourni l’unité en copropriété au moyen de baux à court terme taxables pour 366 jours. Ainsi, pendant la période où l’appelante était propriétaire de l’unité en copropriété, cette dernière a été utilisée 9,9 % du temps dans le cadre d’activités commerciales. Par conséquent, l’article 197 s’applique, et la règle sur le changement d’utilisation énoncée au paragraphe 206(2) ne s’applique pas à l’unité en copropriété pendant la période où elle appartenait à l’appelante.
+[59] L’article 206 contient des règles qui visent principalement à accroître ou à réduire les crédits de taxe sur les intrants en cas de changement d’utilisation d’une immobilisation. Il s’applique aux inscrits qui ne sont pas des particuliers et aux organismes de services publics qui font un choix au sens de l’article 211. L’article s’applique à l’appelante, une société.
+[60] Dans la plupart des cas, le paragraphe 206(2) s’applique à l’inscrit aux fins de l’application de la TPS qui, au moment où il a acquis l’immeuble, avait l’intention de l’utiliser exclusivement dans la réalisation de fournitures exonérées. Dans une telle situation, l’inscrit n’a pas droit à un crédit de taxe sur les intrants au titre de la TPS qu’il a payée au moment de l’acquisition de l’immeuble, puisqu’il n’a pas acquis l’immeuble pour l’utiliser dans le cadre de ses activités commerciales. Toutefois, si l’inscrit commence à utiliser l’immeuble dans le cadre de ses activités commerciales, le paragraphe 206(2) lui permet alors de demander, à ce moment, un crédit de taxe sur les intrants. Le crédit de taxe sur les intrants est fondé sur la TPS que l’inscrit a payée lors de l’acquisition de l’immeuble et dans la mesure où il utilise maintenant l’immeuble dans le cadre de ses activités commerciales.
+[61] Pour ce faire, l’inscrit est réputé, pour l’application de la Loi sur la TPS, avoir racheté le bien au moment du changement d’utilisation et avoir payé à ce moment une taxe égale à la taxe qu’il a payée lors de l’acquisition de l’immeuble et qui n’a pas été recouvrée antérieurement au moyen d’un remboursement ou d’une remise (la teneur en taxe du bien).
+[62] Les autres paragraphes de l’article 206 prévoient des règles semblables pour les situations où un inscrit qui utilise un immeuble dans le cadre de ses activités commerciales accroît ou réduit la mesure dans laquelle il l’utilise dans ce cadre, ou lorsqu’il cesse d’utiliser un immeuble dans le cadre de ses activités commerciales.
+[63] Il ressort manifestement du libellé des règles sur le changement d’utilisation de l’article 206 que ces règles s’appliquent au moment où un changement d’utilisation survient. C’est au moment de chaque changement d’utilisation qu’une fourniture est réputée être effectuée et que le montant de tout crédit de taxe sur les intrants additionnel ou le montant que l’inscrit est tenu de payer relativement à un crédit de taxe sur les intrants demandé antérieurement est déterminé.
+[64] Voilà ce qui ressort du libellé de l’article 206. Le paragraphe 206(2) s’applique à l’inscrit qui commence, à un moment donné, à utiliser l’immeuble comme immobilisation dans le cadre de ses activités commerciales. Le paragraphe 206(3), qui traite de l’accroissement de l’utilisation dans le cadre des activités commerciales, s’applique lorsque l’inscrit accroît, à un moment donné, l’utilisation qu’il fait de l’immeuble dans le cadre de ses activités commerciales. Le paragraphe 206(4), qui traite de la cessation de l’utilisation de l’immeuble dans le cadre d’activités commerciales, s’applique lorsqu’un inscrit commence, à un moment donné, à utiliser l’immeuble exclusivement à des fins non commerciales. Le paragraphe 206(5), qui traite de la réduction de l’utilisation dans le cadre des activités commerciales, s’applique lorsque l’inscrit réduit, à un moment donné, l’utilisation qu’il fait de l’immeuble dans le cadre de ses activités commerciales.
+[65] En résumé, les règles sur le changement d’utilisation s’appliquent à un changement d’utilisation qui survient à un moment précis et, selon la mesure du changement d’utilisation qui survient à ce moment, une fourniture est réputée avoir été effectuée ou reçue. C’est la mesure et la nature du changement d’utilisation qui se produit à un moment donné qui déterminent lequel des différents paragraphes de l’article 206 s’applique.
+[66] L’article 206 s’applique chaque fois qu’un changement d’utilisation se produit. Par exemple, si un inscrit acquiert un immeuble le jour 1 pour l’utiliser exclusivement dans le cadre de ses activités commerciales et que, le jour 10, il modifie l’utilisation de l’immeuble à une utilisation à 30 % dans le cadre d’activités commerciales, le paragraphe 206(2) s’applique à la date du changement d’utilisation. Si, le jour 20, l’inscrit accroît l’utilisation dans le cadre de ses activités commerciales à 50 %, le paragraphe 206(3) s’applique le jour 20. Si, le jour 50, l’utilisation de l’immeuble dans le cadre des activités commerciales est réduite à 15 %, le paragraphe 206(5) s’applique à l’inscrit le jour 50.
+[67] L’article 197 s’harmonise avec l’article 206 pour limiter l’application de l’article 206 aux changements individuels d’utilisation qui, cumulativement, sont d’au moins 10 %. L’inscrit économise ainsi les frais administratifs liés à la comptabilisation de changements d’utilisation négligeables.
+[68] Pour déterminer si, pour l’application des paragraphes 206(2), (3) et (5), un changement d’utilisation de 10 % ou plus s’est produit à un moment donné, l’article 197 tient compte des changements d’utilisation survenus au cours de la période commençant à la date où l’inscrit a acquis l’immeuble pour la dernière fois ou, si elle est postérieure, à la date où le paragraphe 206(3) ou (5) s’appliquait et se terminant à un moment donné après cette date.
+[69] Si, comme c’est le cas dans le présent appel, les paragraphes 206(3) et (5) n’ont jamais été appliqués, la période pertinente commence le jour où l’inscrit a acquis l’immeuble pour la dernière fois et se termine à un moment donné après cette date.
+[70] L’article 197 fait référence à tous les changements d’utilisation survenus au cours de cette période. Il cumule les changements d’utilisation jusqu’à ce que le total des changements d’utilisation survenus depuis le moment où l’immeuble a été acquis soit égal ou supérieur à 10 %. Il s’ensuit que l’article 197 ne s’applique que si le changement cumulatif dans l’utilisation d’un immeuble commençant le jour où l’inscrit a acquis l’immeuble la dernière fois est inférieur à 10 %. L’article 197 cesse de s’appliquer le jour où le changement cumulatif d’utilisation est égal ou supérieur à 10 %. À ce moment, l’article 206 s’applique au changement d’utilisation.
+[71] En l’espèce, la question à trancher est celle de savoir si l’article 197 s’appliquait au changement d’utilisation de l’unité en copropriété survenu le 25 février 2017, lorsque l’appelante a commencé à utiliser l’unité en copropriété à 100 % dans le cadre de ses activités commerciales.
+[72] De toute évidence, l’article 197 ne s’appliquait pas. Pendant la période commençant le jour où l’appelante a acquis l’unité en copropriété (29 février 2008) et se terminant à la date du changement d’utilisation (25 février 2017), le changement cumulatif d’utilisation était de 100 %.
+[73] L’appelante demande à la Cour de ne tenir compte que de la période commençant le jour où elle a acquis l’unité en copropriété et se terminant le jour où elle a vendu le bien. Cette position ne tient pas compte du libellé très précis de l’article 197. De plus, une telle interprétation irait à l’encontre de l’objet de l’article 206 puisqu’elle ne tiendrait pas compte de tous les changements d’utilisation qui se sont produits pendant qu’un inscrit était propriétaire de l’immeuble.
+[74] Puisque l’article 197 ne s’appliquait pas au changement d’utilisation de l’unité en copropriété survenu le 25 février 2017, alors, comme je l’ai mentionné, les règles sur le changement d’utilisation du paragraphe 206(2) s’appliquaient à l’unité en copropriété le 25 février 2017, moment précis où l’appelante a commencé à utiliser l’unité en copropriété à 100 % dans le cadre de ses activités commerciales. Par conséquent, l’appelante était réputée, au sens de l’alinéa 206(2)a), avoir reçu une fourniture de l’unité en copropriété le 25 février 2017 par vente.
+Application de la disposition d’exonération [75] La principale question dont la Cour est saisie est celle de savoir si la vente de l’unité en copropriété le 11 avril 2018 constituait une fourniture taxable ou une fourniture exonérée. La réponse à cette question dépend du fait que l’unité en copropriété était ou non un immeuble d’habitation, au moment de la vente.
+[76] Comme je l’ai mentionné, étant donné que l’unité en copropriété était une habitation au moment de la vente, il était également un immeuble d’habitation, à moins que l’exclusion générale dans la définition d’immeuble d’habitation ne s’applique à l’unité en copropriété.
+[77] L’intimé a soutenu que l’exclusion s’appliquait à l’unité en copropriété au moment de la vente. L’appelante a fait valoir que l’exclusion ne s’appliquait pas puisque l’unité en copropriété ne faisait pas partie d’un gîte semblable à un hôtel ou à un motel et que le critère de la totalité ou de la presque totalité compris dans la définition n’était pas respecté.
+[78] J’examinerai d’abord l’argument de l’appelante selon lequel l’unité en copropriété n’était pas un gîte semblable à un hôtel ou un motel.
+[79] L’intimé a fait remarquer à juste titre que, pour déterminer si l’exclusion s’applique, il faut tenir compte de tous les mots de la définition d’immeuble d’habitation. L’exclusion vise les lieux qui sont un hôtel, un motel, une auberge, une pension ou un gîte semblable.
+[80] La Cour doit déterminer si, au moment de la vente, l’unité en copropriété était un gîte semblable à un hôtel, à un motel, à une auberge ou à une pension. Il faut répondre à cette question par l’affirmative.
+[81] Au moment de la vente, l’appelante offrait l’unité en copropriété en location à court terme sur la plateforme Airbnb et la louait en fait pour des périodes aussi courtes qu’une nuit. L’unité en copropriété était louée meublée et l’appelante payait tous les coûts de chauffage, de climatisation et d’électricité. Puisque la Cour n’a pas reçu l’inscription sur Airbnb, elle ne sait pas exactement quels autres services étaient offerts au locataire. Toutefois, selon la preuve dont je dispose, l’appelante fournissait un accès Wi-Fi dans le cadre du bail à court terme.
+[82] À mon avis, une unité en copropriété louée de cette façon est un gîte semblable à un hôtel, à un motel, à une auberge ou à une pension.
+[83] Collectivement, les hôtels, les motels, les auberges et les pensions sont des gîtes régulièrement fournis à titre de logement à des tiers à court terme moyennant des frais.
+[84] Les logements provisoires fournis dans un hôtel, un motel, une auberge et une pension sont normalement meublés. Les chambres et les suites d’un hôtel, d’un motel ou d’une auberge sont équipées de chauffage, d’électricité et, dans de nombreux cas, de climatisation.
+[85] La définition fait référence à un large éventail de logements. Un hôtel ou un motel peut être une chambre ou une suite. Selon le Canadian Oxford Dictionary, une pension (« lodging house ») est [traduction] « une maison de chambres » et une maison de chambres (« rooming house »), [traduction] « une maison ou un bâtiment divisé en chambres ou en appartements meublés ». Si l’on tient compte de tous les types de logement fournis dans un hôtel, un motel, une auberge ou une pension, il est clair que des locaux semblables incluent les unités en copropriété meublées louées à court terme (voire à long terme).
+[86] L’appelante a fait valoir que l’unité en copropriété n’était pas semblable à un hôtel ou à un motel puisqu’elle n’avait pas de restaurant ni ne fournissait de nourriture au locataire. Cet argument laisse entendre que tous les hôtels et motels ont des restaurants. Je ne dispose d’aucun élément de preuve à l’appui d’une telle conclusion. De plus, les frais exigés par la plupart des hôtels ou motels pour une chambre ou une suite ne couvrent que le coût de la chambre ou de la suite; il ne s’agit pas de frais pour la nourriture. C’est le client qui décide s’il veut acheter de la nourriture à l’hôtel ou au motel[5].
+[87] Après avoir conclu que l’unité en copropriété était un gîte semblable à un hôtel, à un motel, à une auberge ou à une pension, je dois maintenant examiner le critère de la totalité ou de la presque totalité prévu par l’exclusion. Je dois en fait déterminer si, au moment où l’appelante a vendu l’unité en copropriété, la totalité ou la presque totalité des baux aux termes desquels l’unité en copropriété était fournie, prévoyaient, ou étaient censés prévoir, des périodes de possession ou d’utilisation continues de moins de 60 jours.
+[88] L’appelante soutient que le critère de la totalité ou de la presque totalité ne renvoie pas à une période précise à laquelle le critère doit être appliqué. Les avocats de l’appelante ont fait valoir qu’aucune [traduction] « référence temporelle » n’indique que le critère de la totalité ou de la presque totalité s’applique aux baux au cours d’une période précise, comme une période de déclaration, la dernière année de propriété ou le dernier mois de propriété. L’appelante soutient que le critère devrait s’appliquer à toute la période de propriété.
+[89] L’appelante fait valoir que le critère n’est pas respecté puisque, entre le 29 février 2008 (date à laquelle l’appelante a acquis l’unité en copropriété) et le 11 avril 2018 (date à laquelle l’appelante a vendu l’unité en copropriété), la totalité ou la presque totalité des baux de l’unité en copropriété prévoyaient des périodes de possession continue d’au moins 60 jours. En effet, l’unité en copropriété a été louée à 100 % sur une base à long terme entre le 29 février 2008 et le 25 février 2017.
+[90] Je n’accepte pas l’argument de l’appelante. La définition d’immeuble d’habitation ne comporte pas de référence temporelle parce que la définition n’en exige pas. La détermination n’est pas faite sur une période. Pour déterminer si le critère de la totalité ou de la presque totalité s’applique, il faut tenir compte de l’utilisation de l’unité en copropriété au moment de sa vente.
+[91] Pour déterminer si une fourniture taxable ou exonérée a été effectuée au sens de la Loi sur la TPS, il est important de reconnaître que la taxe prélevée en vertu de la Loi sur la TPS est une taxe à valeur ajoutée prélevée sur des fournitures individuelles. L’imposition de la taxe doit être déterminée pour chaque fourniture individuelle. Cette détermination est effectuée au moment où la fourniture est effectuée. Plus précisément, c’est au moment où la fourniture est effectuée que sont déterminés les éléments suivants : l’identité de l’acquéreur de la fourniture, s’il s’agit d’une fourniture taxable ou exonérée, si la fourniture a été effectuée au Canada ou non, si la fourniture a été effectuée dans une province participante ou non et la contrepartie de la fourniture.
+[92] Par conséquent, la Cour doit déterminer si, au moment de la vente de l’unité en copropriété, l’appelante a effectué une fourniture exonérée ou une fourniture taxable.
+[93] Cette détermination dépend de la disposition d’exonération prévue à l’article 2 de la partie I de l’annexe V de la Loi sur la TPS. Cette disposition s’applique selon que, au moment où l’appelante a vendu l’unité en copropriété, soit le 11 avril 2018, l’unité en copropriété était ou non un immeuble d’habitation au sens du paragraphe 123(1) de la Loi sur la TPS.
+[94] La Cour doit déterminer si, au moment où l’appelante a vendu l’unité en copropriété, la totalité ou la presque totalité des baux aux termes desquels l’unité en copropriété était fournie à ce moment prévoyaient, ou étaient censés prévoir, des périodes de possession ou d’utilisation continues de moins de 60 jours.
+[95] Il est clair que la réponse est oui. Au moment de la vente, l’unité en copropriété n’était louée qu’aux termes de baux à court terme. Tous ces baux étaient d’une durée inférieure à 60 jours; la plupart n’étaient que de quelques jours. Par conséquent, le jour où l’appelante a vendu l’unité en copropriété, la totalité ou la presque totalité des baux aux termes desquels l’unité en copropriété était fournie, prévoyaient, ou étaient censés prévoir, des périodes de possession ou d’utilisation continues de moins de 60 jours.
+[96] Au moment où l’appelante a fourni l’unité en copropriété par vente, ce dernier n’était pas un immeuble d’habitation puisqu’il s’agissait d’un gîte semblable à un hôtel, à un motel, à une auberge ou à une pension et qu’au moment de la vente, la totalité ou la presque totalité des baux aux termes desquels l’unité en copropriété a été fournie, prévoyaient, ou étaient censés prévoir, des périodes de possession continue de moins de 60 jours.
+[97] Même si j’acceptais l’argument de l’appelante, cela mènerait au même résultat.
+[98] L’appelante était réputée, au sens du paragraphe 206(2), avoir acquis l’unité en copropriété le 25 février 2017. Ainsi, entre la dernière fois où l’appelante a acquis l’unité en copropriété aux fins de l’application de la Loi sur la TPS (25 février 2017) et la date à laquelle elle a vendu le bien (11 avril 2018), elle n’a utilisé le bien que pour effectuer des fournitures taxables à court terme au moyen de baux pour des périodes de moins de 60 jours. À aucun moment de cette période l’unité en copropriété n’était un immeuble d’habitation au sens du paragraphe 123(1) puisque la totalité ou la presque totalité des baux, aux termes desquels l’unité en copropriété a été fournie pendant cette période, prévoyaient, ou étaient censés prévoir, des périodes de possession continue de moins de 60 jours.
+[99] Puisque l’unité en copropriété n’était pas, au moment où elle a été fournie par vente, un immeuble d’habitation, la fourniture par vente n’était pas une fourniture exonérée au sens de l’article 2 de la partie I de l’annexe V de la Loi sur la TPS. Il s’agissait de la fourniture taxable d’un immeuble.
+[100] Pour les motifs qui précèdent, l’appel est rejeté avec dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 15e jour de mars 2024.
+« S. D’Arcy »
+Le juge D’Arcy
+Traduction certifiée conforme
+ce 23e jour de décembre 2025.
+Guillaume Chénard, jurilinguiste principal
+RÉFÉRENCE :
+2024 CCI 37
+NO DU DOSSIER DE LA COUR :
+2020-2170(GST)G
+INTITULÉ :
+1351231 Ontario Inc. c. Sa Majesté le Roi
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATE DE L’AUDIENCE :
+Le 19 septembre 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT :
+Le 15 mars 2024
+COMPARUTIONS :
+Avocats de l’appelante : Me Bobby Solhi
+Me Frédérique Duchesne
+Avocat de l’intimé : Me Robert Zsigo
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Bobby Solhi
+Me Frédérique Duchesne
+Cabinet :
+Borden Ladner Gervais S.E.N.C.R.L., s.r.l.
+Toronto (Ontario)
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Bien que j’aie déposé le recueil conjoint de documents à titre de pièce AR-1, il a été inscrit à titre de pièce A-1.
+[2] L’article contient une deuxième exclusion à l’alinéa 2b), lequel permet aux parties à la vente de choisir conjointement, dans des circonstances précises, de ne pas exonérer la vente de l’immeuble d’habitation. Il n’est pas utile aux fins du présent appel.
+[3] Sauf s’il est devenu inscrit au moment où il commence à utiliser le bien dans le cadre de ses activités commerciales.
+[4] 2005 CSC 54.
+[5] J’ai pris connaissance d’office du fait que les frais exigés par la plupart des hôtels et motels ne couvrent que le coût de la chambre ou de la suite.

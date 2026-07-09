@@ -1,0 +1,173 @@
+---
+title: "Esmezyan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/111498/index.do"
+last_modified: "2015-08-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 213"
+citation2: ""
+neutral_citation: "2015 TCC 213"
+decision_date: "2015-08-26"
+language: "en"
+item_id: "111498"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2632
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:12:34.798000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ca465844635f60bf219fae152a6a57b6119d94b47a917e4f9a146e810913222c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Esmezyan v. The Queen
+
+- Citation: 2015 TCC 213
+- Decision date: 2015-08-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2632, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Esmezyan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-08-26
+Neutral citation
+2015 TCC 213
+File numbers
+2014-3733(GST)APP
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2014-3733(GST)APP
+BETWEEN:
+SAHIN ESMEZYAN,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on February 25, 2015, at Montreal, Quebec.
+Before: The Honourable Paul Bédard, Deputy Judge
+Appearances:
+Counsel for the Applicant:
+Mark Sumbulian
+Counsel for the Respondent:
+Nadja Chatelois
+JUDGMENT
+Upon application by the applicant for an order extending the time within which he may file a notice of objection to the assessment made under the Excise Tax Act, notice of which is dated September 27, 2013 and bears number F‑047557;
+And upon hearing the submissions from the parties;
+The application is dismissed for the reasons set out in the attached Reasons for Judgment.
+Signed at Bromont, Quebec, this 26th day of August 2015.
+“Paul Bédard”
+Bédard D.J.
+Citation: 2015 TCC 213
+Date: 20150826
+Docket: 2014-3733(GST)APP
+BETWEEN:
+SAHIN ESMEZYAN,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard D.J.
+[1] On October 17, 2014, the applicant filed an application under the Excise Tax Act, Part IX (the “ETA”), for an extension of time to file a notice of objection to an assessment, notice of which is dated September 27, 2013, and bears number F‑047557, made by the respondent through the Minister of National Revenue (the “Minister”) for the period from April 30, 2011 to October 25, 2012 (“the application for an extension of time”).
+[2] The issues are as follows:
+(a) Is the assessment deemed to have been received by the applicant on September 27, 2013 in accordance with subsection 334(1) of the ETA?
+(b) Have the criteria set out in paragraph 303(7)(b) of the ETA been met?
+The facts [3] The address indicated on the notice of assessment is 154 Rue Jean-Paul-Lemieux in Notre-Dame-de-l’Île-Perrot, which was the last known address of the applicant at the time that the assessment was made (the “address”).
+[4] Indeed, the applicant did not report any change of address before September 27, 2013.
+[5] The assessment was sent to the address by registered mail through Canada Post.
+[6] On October 2, 2013, the acknowledgement of receipt of the assessment was signed by the applicant’s wife. It should be noted that the evidence shows that the applicant was no longer living with his wife at that time as they were in the midst of divorce proceedings.
+[7] On November 8, 2013, a letter entitled “Request for payment” (the “letter”, Exhibit I‑3), addressed to the applicant by the Direction générale du recouvrement (collections branch) of the Agence du revenu du Québec (the “Agency”) and indicating that the applicant owed $183,042.47, was sent by regular mail to the applicant.
+[8] On November 29, 2013, the applicant and Jonathan Lamond, a collection officer with the Agency, had a telephone conversation regarding a letter that the applicant had received from the Agency.
+[9] On June 3, 2014, the applicant filed with the Minister an application for an extension of time to file a notice of objection to the assessment. The time period for filing a notice of objection with the Minister had expired on December 26, 2013.
+[10] On September 18, 2014, the Minister sent the applicant a notice informing him that he could not grant his application for an extension of time.
+[11] On October 17, 2014, the applicant filed the application for an extension of time with this Court.
+Position of the applicant [12] The applicant essentially submits that he was unable, within the time allowed for filing a notice of objection (which expired on December 26, 2013), to act or to give a mandate to act in his name since he only became aware of the assessment in May 2014, as his wife had not given him the notice of assessment. Furthermore, he argues that he acted diligently to file with the Minister an application for an extension of time as soon as he was aware of the assessment.
+Applicant’s testimony [13] The applicant’s testimony may be summarized as follows:
+(a) At the time the assessment was sent to him, he was in the midst of divorce proceedings and only his wife was living at the address. His wife had never given him the notice of assessment and the letter. I would note that the applicant testified that his wife had however given him the correspondence from the Minister regarding the corporations of which he was a director and for whose unpaid tax liabilities he is being held responsible under the assessment.
+(b) It was only in May 2014 that he became aware of the assessment. Indeed, he was dumbfounded to learn at the beginning of May of that year that his bank accounts had been seized by the Minister. Since he did not understand why they had been seized, he met with Mariusz Wojcik, a collection officer with the Agency, to get some explanations. Mr. Wojcik apparently not only informed him of the assessment, but also gave him a copy of it.
+(c) In September 2013, he had two telephone conversations with Mr. Wojcik. According to the applicant, Mr. Wojcik was basically trying to obtain information about the operations of Laboratoires Bio‑Botanical inc., of which he was a director. The applicant’s testimony on this point is worth quoting:
+JUDGE BÉDARD: And the second time was also all about the company, trying to get information about the company. That’s it?
+Mr. ESMEZYAN: Yes.
+JUDGE BÉDARD: Okay.
+Me SUMBULIAN: Okay. If I were to ask you what did he tell you -- what did he tell you during those conversations?
+Mr. ESMEZYAN: There was a form -- uhm -- I told him that -- I explained as much as I could, in terms of Bio-Botanical’s bankruptcy and how it was touched by Chef Woo Noodles and Pinnacle Spices, and the accounting wasn’t done properly when the trustees came and took ---
+Me SUMBULIAN: Uhm, Mr. Esmezyan ---
+Mr. ESMEZYAN: -- all the paperwork.
+Me SUMBULIAN: -- my question wasn’t: “What did you tell him?” I’m asking you: what did he tell you? Did he -- like what did he –
+Mr. ESMEZYAN: Well, he told ---
+Me SUMBULIAN: -- tell you about the situation, why he was ---
+Mr. ESMEZYAN: Yes. He told ---
+Me SUMBULIAN: -- calling you?
+Mr. ESMEZYAN: He told me that the company had all the money to development (phon.), in terms of GSTs/QSTs and deductions at the source, which I explained also that those numbers were incorrect and he said: “Well, these debts have to be paid, if it’s not through the company, it’s gotta be through you guys, Barry Abugov or yourself.” I told him -- I said: “Well, I said, we’re not -- I’m not running away. Whatever the truth is, I’m after only for the truth.” And that’s how we hung up.
+Me SUMBULIAN: Okay. Were there any discussions concerning the assessment taken against you?
+Mr. ESMEZYAN: There was nothing discussed against me, it was always the company, and when he mentioned that “well, if the company doesn’t have money and -- and -- and you guys are not filing things properly, then, you know, you will be responsible”, and I told him, I said: “I’m not running away. I’m here.”
+JUDGE BÉDARD: So he told you that you will be responsible?
+Mr. ESMEZYAN: Yes.
+JUDGE BÉDARD: That’s it?
+(d) On November 29, 2013, the applicant spoke with Mr. Lamond from the Agency regarding a letter he had received from the Minister. Mr. Lamond suggested that he speak instead with Mr. Wojcik, who was responsible for his collection file. I note that the applicant specified that the letter in question in this conversation was not the letter of November 8, 2013, since he had not received it (see paragraph 13(a) above). The applicant’s testimony regarding the nature of the other letter is also worth quoting:
+Mr. ESMEZYAN: Just to be listened, you know.
+Me SUMBULIAN: Mr. Esmezyan, you heard the testimony of the representative of Revenu Québec. He said he had a conversation with you in November 2013.
+Mr. ESMEZYAN: Yes.
+Me SUMBULIAN: And he said that you -- you told them you received a document from Revenu Québec. Could you please explain, as far as you know, what is he referring to?
+Mr. ESMEZYAN: I received many documents and I filled out the blanks because they had no clue who was the President, who was the officers, what was Bio-Botanical. There was a major bankruptcy in 11,000 Baie d’Urfé, this is 700,000 square foot of industrial space, three major companies were bankrupt. Bio-Botanical was the smallest and when the trustee came, he took all the paperwork. Revenu Québec and Revenue Canada had no clue what was going on. I filled many applications for them. As I ---
+The law [14] The ETA provides that a taxpayer may file a notice of objection to an assessment within 90 days after the day the notice of assessment was sent.
+[15] Subsection 335(10) of the ETA provides that the day of mailing of a notice of assessment is presumed to be the date appearing on the notice. Moreover, subsection 334(1) of the ETA adds a second presumption, namely, that a notice of assessment is deemed to have been received by the person to whom it was sent on the day it was mailed.
+[16] Parliament has created an absolute presumption that the notice of assessment is received as soon as it is mailed. In order for this absolute and irrebuttable presumption of receipt of the notice of assessment at issue to apply, the tax authorities have only to show that the rules respecting mailing that are applicable in the department were followed. Thus, non-receipt of the notice of assessment cannot be used as grounds for an extension of time (see Abraham v. The Queen, 2004 TCC 380; Schafer v. Canada, [1998] T.C.J. No. 459 (QL); Kovacevic v. Canada, 2003 FCA 293; Nasha Properties Ltd. v. Canada, [1998] T.C.J. No. 99 (QL)).
+[17] The Federal Court of Appeal decision in Schafer v. Canada, [2000] F.C.J. No. 1480 (QL), puts this choice by Parliament in proper context, although not without decrying its rigidity and its consequences in terms of the taxpayer’s loss of recourse. However, the Federal Court of Appeal acknowledged that Parliament is entitled to adopt such presumptions, and it applied them.
+[18] Moreover, it is up to the taxpayer to keep the tax authorities informed of his mailing address and provide them with accurate contact information, as indicated by the Federal Court of Appeal in Denelzen v. Canada, [1998] F.C.J. No. 1450 (QL).
+Conclusion [19] As mentioned above, non-receipt of a notice of assessment cannot be used as grounds for an extension of time. Regardless, the applicant has not satisfied me that he did not receive the notice of assessment and the letter, given his testimony that his wife had nonetheless given him the correspondence from the Minister regarding the corporations of which he was a director and for whose tax liabilities he is being held responsible under the assessment. Only the testimony of his wife and the filing in evidence of the letter that was the basis of his telephone conversation with Mr. Lamond could have made it possible to dispel my doubts about the applicant’s credibility. The applicant could have produced that evidence, but he did not do so. I infer from this that such evidence would have been unfavourable to him.
+[20] For these reasons, the application is dismissed.
+Signed at Bromont, Quebec, this 26th day of August 2015.
+“Paul Bédard”
+Bédard D.J.
+CITATION:
+2015 TCC 213
+COURT FILE NO.:
+2014-3733(GST)APP
+STYLE OF CAUSE:
+SAHIN ESMEZYAN v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+February 25, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Paul Bédard, Deputy Judge
+DATE OF JUDGMENT:
+August 26, 2015
+APPEARANCES:
+Counsel for the Applicant:
+Mark Sumbulian
+Counsel for the Respondent:
+Nadja Chatelois
+COUNSEL OF RECORD:
+For the Applicant:
+Mark Sumbulian
+Firm:
+Montreal, Quebec
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

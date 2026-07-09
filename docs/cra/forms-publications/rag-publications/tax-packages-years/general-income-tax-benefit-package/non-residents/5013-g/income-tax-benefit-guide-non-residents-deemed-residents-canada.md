@@ -1,0 +1,114 @@
+---
+title: "2025 Income Tax and Benefit Package for Non-Residents and Deemed Residents of Canada"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/income-tax-benefit-guide-non-residents-deemed-residents-canada.html
+last_modified: 2026-01-20
+---
+# 2025 Income Tax and Benefit Package for Non-Residents and Deemed Residents of Canada
+
+5013-G(E)
+
+## Ask for an alternate format
+
+The CRA's publications and personalized correspondence are available in braille, large print, e-text, and MP3. For more information, go to [Order alternate formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html) or call **1-800-959-8281**.
+
+If you are outside Canada and the United States, call **613-940-8495**. The CRA only accepts collect calls made through a telephone operator. After your call is accepted by an automated response, you may hear a beep and notice a normal connection delay. This service operates in Eastern Time.
+
+« La version française de ce guide est intitulée [Guide d’impôt et de prestations pour les non-résidents et les résidents réputés du Canada](https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/trousses-impot-toutes-annees-imposition/trousse-generale-impot-prestations/non-residents/5013-g.html). »
+
+Unless otherwise stated, all legislative references are to the *Income Tax Act* or, where appropriate, the *Income Tax Regulations*.
+
+## Table of Contents
+
+- [**What's new for 2025**](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-completing-your-return.html)
+
+    - [CRA's programs and services](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-completing-your-return.html)
+
+    - [Federal changes](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-completing-your-return.html)
+
+- [**Before you file**](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-completing-your-return.html)
+
+    - [Who has to file a return](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-completing-your-return.html)
+
+    - [Determining your residency status](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-completing-your-return.html)
+
+    - [Which tax package is for you](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-completing-your-return.html)
+
+    - [Due dates](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-completing-your-return.html)
+
+    - [Penalties and interest](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-completing-your-return.html)
+
+    - [Sending your return to the CRA](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-completing-your-return.html)
+
+    - [Get help doing your taxes](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-completing-your-return.html)
+
+    - [Gather your documents](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-completing-your-return.html)
+
+- [Electing under section 217](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-completing-your-return.html)
+
+- [Electing under section 216.1](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-completing-your-return.html)
+
+- [**Completing your return**](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-identification-other-information-total-income.html)
+
+    - [Step 1 – Identification and other information](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-identification-other-information-total-income.html)
+
+    - [Step 2 – Total income](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-identification-other-information-total-income.html)
+
+    - [Step 3 – Net income](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-deductions-net-income-taxable-income.html)
+
+    - [Step 4 – Taxable income](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-deductions-net-income-taxable-income.html)
+
+    - [Step 5 – Federal Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-federal-non-refundable-tax-credits.html)
+
+          - [Part A – Federal tax on taxable income](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-federal-non-refundable-tax-credits.html)
+
+          - [Part B – Federal non-refundable tax credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-federal-non-refundable-tax-credits.html)
+
+          - [Part C – Net federal tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-federal-non-refundable-tax-credits.html)
+
+    - [Step 6 – Refund or balance owing](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-federal-non-refundable-tax-credits.html)
+
+- **[Supporting documents](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-federal-tax-taxable-income-net-federal-tax.html)**
+
+- **[After you file your return](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-federal-tax-taxable-income-net-federal-tax.html)**
+
+    - [Notice of assessment](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-federal-tax-taxable-income-net-federal-tax.html)
+
+    - [Tax reviews](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-federal-tax-taxable-income-net-federal-tax.html)
+
+    - [How to change a return](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-federal-tax-taxable-income-net-federal-tax.html)
+
+- **[Digital services for individuals](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-federal-tax-taxable-income-net-federal-tax.html)**
+
+    - [My Account](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-federal-tax-taxable-income-net-federal-tax.html)
+
+    - [Electronic payments](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-federal-tax-taxable-income-net-federal-tax.html)
+
+    - [My payment](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-federal-tax-taxable-income-net-federal-tax.html)
+
+- **[For more information](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-federal-tax-taxable-income-net-federal-tax.html)**
+
+    - [If you need help](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-federal-tax-taxable-income-net-federal-tax.html)
+
+    - [Direct deposit](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-federal-tax-taxable-income-net-federal-tax.html)
+
+    - [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-federal-tax-taxable-income-net-federal-tax.html)
+
+    - [Teletypewriter (TTY) and Video Relay Service (VRS) users](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-federal-tax-taxable-income-net-federal-tax.html)
+
+    - [Electronic mailing lists](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-federal-tax-taxable-income-net-federal-tax.html)
+
+    - [Formal disputes (objections and appeals)](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-federal-tax-taxable-income-net-federal-tax.html)
+
+    - [Due dates](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-federal-tax-taxable-income-net-federal-tax.html)
+
+    - [CRA service feedback program](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-federal-tax-taxable-income-net-federal-tax.html)
+
+          - [Service complaints](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-federal-tax-taxable-income-net-federal-tax.html)
+
+          - [Reprisal complaints](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-federal-tax-taxable-income-net-federal-tax.html)
+
+- **[Retirement income summary table](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-refund-balance-owing.html)**
+
+- **[Contact the Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-refund-balance-owing.html)**
+
+- [Next](https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/non-residents/5013-g/guide-non-residents-deemed-residents-canada-completing-your-return.html)

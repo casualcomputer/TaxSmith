@@ -1,0 +1,142 @@
+Title: Schmidt c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31091/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-11-31091-schmidt-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-02-11
+
+# Schmidt c. La Reine
+
+- Citation: 2013 CCI 11
+- Decision date: 2013-02-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4677, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schmidt c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-02-11
+Référence neutre
+2013 CCI 11
+Numéro de dossier
+2010-2575(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-2575(IT)G
+ENTRE :
+GREGORY GEORGE SCHMIDT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 8 novembre 2012, à Regina (Saskatchewan).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l’appelant :
+Me Kenneth J. Brodt
+Avocate de l’intimée :
+Me Bryn Frape
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 sont accueillis, et les nouvelles cotisations sont annulées conformément aux motifs du jugement ci‑joints.
+Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 11e jour de février 2013.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 21e jour de mai 2013.
+Mario Lagacé, jurilinguiste
+Référence : 2013CCI11
+Date : 20130211
+Dossier : 2010-2575(IT)G
+ENTRE :
+GREGORY GEORGE SCHMIDT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+Introduction
+[1] Par avis de nouvelle cotisation datés du 14 octobre 2008 et modifiés le 5 mai 2010, le ministre du Revenu national (le « ministre ») a augmenté le montant de l’impôt que Gregory George Schmidt, appelant, devait payer pour les années d’imposition 2003 et 2004. Le ministre a eu recours à la méthode des dépôts bancaires pour augmenter le revenu de l’appelant de 49 499 $ et de 38 901 $ pour les années d’imposition 2003 et 2004. Le ministre a également imposé à l’appelant des pénalités pour faute lourde en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »). Les nouvelles cotisations ont été établies après l’expiration du délai de prescription normal de trois ans.
+Les questions en litige
+[2] En l’espèce, les questions en litige sont les suivantes :
+a) La question de savoir si le ministre a à juste titre révisé le montant du revenu imposable de l’appelant pour les années d’imposition 2003 et 2004;
+b) La question de savoir si le ministre a à juste titre établi de nouvelles cotisations à l’égard de l’appelant après l’expiration de la période normale de nouvelle cotisation en application du paragraphe 152(4) de la Loi;
+c) La question de savoir si le ministre a à juste titre imposé des pénalités en application du paragraphe 163(2) de la Loi.
+Le contexte
+[3] L’appelant est un entrepreneur qui travaille dans le domaine de la construction de routes, de la démolition et du déneigement. Il est marié et a trois enfants. Sa famille et lui vivent à Regina, dans une modeste maison de 800 pieds carrés comptant deux chambres à coucher. L’appelant affirme que sa maison est située dans un quartier difficile de la ville.
+[4] L’appelant a déclaré faillite en 2001. Il a transféré une partie de son équipement de construction de routes à une nouvelle société, 101050094 Saskatchewan Ltd., qui servait à l’exécution de travaux à forfait.
+[5] Dans sa déclaration de revenus des particuliers pour 2003, l’appelant a déclaré un revenu de 4 325 $. Il avait tiré ce revenu d’un projet terminé cette année‑là. L’appelant affirme qu’il a très peu travaillé en 2003 et qu’il a passé la majeure partie de son temps à s’occuper de ses deux petites filles, alors âgées de trois et cinq ans. Sa femme, qui travaillait à temps plein en 2003, a gagné 21 419,16 $. Pour 2004, l’appelant a déclaré un revenu de 12 000 $.
+[6] L’Agence du revenu du Canada (l’« ARC ») a conclu que la plupart des dépôts effectués dans le compte bancaire de l’appelant en 2003 et en 2004 étaient des revenus d’entreprise non déclarés que l’appelant avait tirés de ses activités de déneigement et de construction de routes.
+[7] L’appelant a donné trois explications au sujet des dépôts qu’il a effectués dans son compte bancaire.
+[8] Premièrement, il arrivait que son frère lui prête de l’argent. Cette explication vaut pour l’année 2003.
+[9] Deuxièmement, l’appelant encaissait des chèques pour le compte de son frère, Bernard Schmidt, dont le compte faisait l’objet d’un blocage et qui n’était donc pas en mesure de retirer immédiatement les sommes que les clients de son entreprise lui payaient par chèque.
+[10] Le compte bancaire de l’appelant ne faisait pas l’objet d’un blocage similaire. Il pouvait retirer un maximum de 500 $ pour chaque chèque qu’il déposait dans son compte. Comme l’appelant pouvait avoir accès aux fonds plus rapidement, il était en mesure d’aider son frère en lui donnant accès aux rentrées de fonds nécessaires à la bonne marche de son entreprise. Un accès plus rapide à l’argent permettait à l’entreprise de son frère de continuer à fonctionner. L’appelant n’a pas travaillé pour l’entreprise de son frère pendant la période en cause. Lors du contre‑interrogatoire, l’appelant a déclaré qu’il avait expliqué la pratique décrite ci‑dessus au vérificateur de l’ARC [traduction] « de toutes les manières possibles et imaginables ».
+[11] Le frère de l’appelant a corroboré le témoignage de l’appelant. Il a expliqué le blocage dont son compte faisait l’objet : chaque fois qu’il déposait un chèque dans son compte, il s’écoulait de cinq à dix jours ouvrables avant qu’il puisse retirer l’argent. Il a également expliqué que l’appelant et lui se prêtaient et s’empruntaient mutuellement de l’argent, entre frères, et qu’il n’était jamais question de modalités de remboursement.
+[12] Le vérificateur, M. Michael Dean Curley, a déclaré que l’appelant ne lui avait jamais fourni d’explications pour justifier les dépôts. Le vérificateur a ajouté qu’il n’avait pas établi à l’égard de l’appelant une cotisation fondée à la fois sur la méthode de la valeur nette et sur la méthode des dépôts parce qu’il ne pensait pas qu’il disposerait de suffisamment de renseignements sur les biens pour justifier le recours à cette première méthode.
+[13] Lors du contre-interrogatoire, le vérificateur a admis qu’il n’avait eu que peu de contacts avec le contribuable.
+La thèse de l’appelant
+[14] L’appelant fait valoir qu’il n’y a aucune preuve donnant à penser qu’il a sciemment fait une présentation erronée de son revenu.
+[15] La source principale des fonds en cause était l’entreprise du frère de l’appelant, comme le montrent les talons de chèque et les relevés bancaires selon lesquels l’argent était déposé dans le compte et ensuite retiré. De l’argent a été déposé dans le compte et retiré le même jour à 90 occasions.
+La thèse de l’intimée
+[16] L’intimée soutient que je ne devrais pas accepter l’explication offerte par l’appelant relativement aux dépôts effectués dans son compte bancaire personnel. L’intimée souligne le fait que l’ARC a procédé à l’analyse d’environ 200 dépôts, mais que l’appelant n’a fourni que 175 talons de chèque pour étayer son explication. L’intimée fait valoir qu’il y a donc un minimum de 25 dépôts pour lesquels aucune explication n’a été fournie, et que ces dépôts devraient être considérés comme des revenus d’entreprise non déclarés de l’appelant.
+Analyse
+[17] Le sous‑alinéa 152(4)a)(i) de la Loi, qui régit les délais pour l’établissement des cotisations, est ainsi libellé :
+(4) Cotisation et nouvelle cotisation [délai de prescription] – Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[…]
+[Non souligné dans l’original.]
+[18] Les nouvelles cotisations relatives aux années d’imposition 2003 et 2004 ont été établies après l’expiration de la période normale de nouvelle cotisation. En application du sous‑alinéa 152(4)a)(i), quand le ministre établit une nouvelle cotisation pour une année d’imposition après l’expiration de la période normale de nouvelle cotisation, le ministre a la charge d’établir que le contribuable a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou que le contribuable a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement, comme il était tenu en vertu de la loi, relativement à l’année d’imposition en cause.
+[19] La méthode de vérification choisie par l’ARC pour établir de nouvelles cotisations a une incidence directe sur la décision de la Cour relative à la question de savoir si l’intimée s’est déchargée du fardeau de la preuve qui lui incombait en application de l’alinéa 152(4)a) de la Loi. L’ARC reconnaît cette question en établissant un ordre hiérarchique parmi les trois méthodes indirectes utilisées le plus couramment pour déterminer les écarts entre le revenu déclaré et le revenu non déclaré. Dans son manuel de vérification daté de mars 2008, l’ARC mentionne que la méthode de la valeur nette doit être envisagée et utilisée en premier, à moins qu’il soit impossible d’obtenir les renseignements requis afin d’établir le relevé de la valeur nette démontrant l’évolution de l’actif et du passif du contribuable et des frais de subsistance personnels au cours de la période pertinente. À ce sujet, le manuel est ainsi libellé :
+[traduction]
+13.3.1 –Commentaires généraux
+Les articles qui suivent portent sur la politique de l’ARC à l’égard de l’utilisation de la vérification indirecte du revenu (VIR) comme méthode d’établissement de cotisation lorsqu’un contribuable/inscrit ne possède aucun livre comptable ou lorsque ceux-ci sont inadéquats, ou lorsque les résultats d’une vérification démontrent que le revenu n’a pas été inscrit de manière exacte dans les livres comptables.
+Voici les méthodes de VIR :
+13.4.0 Valeur nette;
+13.5.0 Vérification des dépôts bancaires non identifiés;
+13.6.0 Cotisation basée sur les projections.
+La méthode de VIR utilisée le plus fréquemment est le relevé de la valeur nette et cette méthode est celle qui est utilisée principalement par l’ARC. Les vérificateurs doivent utiliser la méthode de la valeur nette chaque fois que les renseignements disponibles leur permettent de préparer adéquatement le document.
+Dans le cadre du plan de vérification, le chef d’équipe doit être consulté et il doit approuver la méthode de VIR qu’il convient d’utiliser pour la vérification.
+[20] Lors de l’audience, j’ai demandé au vérificateur pourquoi il n’avait pas utilisé la méthode de la valeur nette pour déterminer le revenu non déclaré de l’appelant. Ma question n’a pas entraîné une réponse claire de la part du vérificateur. Le manuel de vérification de l’ARC prend 25 pages pour décrire la méthode qui doit être appliquée par le vérificateur de l’ARC pour effectuer une vérification de la valeur nette. Deux pages sont dédiées à la description des techniques de vérification des dépôts. Il est évident que la vérification de la valeur nette donnera une image plus fiable de la situation financière d’un contribuable et des écarts entre son train de vie avec ses habitudes de consommation et son revenu déclaré que ne le permettent les autres méthodes décrites dans le manuel. Puisque l’on n’a pas répondu à ma question, je dois conclure que le vérificateur a trouvé que la méthode de la valeur nette, qui est plus détaillée, présentait un défi de taille compte tenu des circonstances de l’espèce. Je ne suis pas de cet avis.
+[21] L’appelant, que j’ai trouvé digne de foi, a donné une raison plausible pour expliquer les dépôts, à savoir qu’il se servait de son compte personnel pour aider son frère à exploiter son entreprise, étant donné qu’il pouvait immédiatement retirer jusqu’à 500 $ pour chaque chèque déposé dans son compte. Le témoignage de l’appelant concorde avec celui de son frère, que j’ai également trouvé digne de foi. De plus, les talons de chèque et les relevés bancaires corroborent également les explications de l’appelant.
+[22] Au total, 175 talons de chèque ont été présentés en preuve, et ils représentent la majeure partie des quelque 200 dépôts effectués par l’appelant dans son compte personnel pendant les périodes en cause. Les 25 autres dépôts correspondaient vraisemblablement à des prêts consentis par le frère de l’appelant, bien qu’aucune explication détaillée n’ait été fournie relativement à ces dépôts.
+[23] L’explication crédible que l’appelant a fournie fait en sorte que la présente affaire se distingue de l’arrêt Lacroix, décision dans laquelle il a été conclu que le contribuable avait fait une présentation erronée des faits[1]. Dans l’arrêt Lacroix, l’appelant n’a pas pu donner une raison crédible pour expliquer l’écart que le vérificateur de l’ARC a trouvé alors qu’il travaillait à l’établissement d’une cotisation de valeur nette à son égard, et par conséquent, il a été conclu que le ministre s’était déchargé du fardeau de la preuve qui lui incombait en application du sous‑alinéa 152(4)a)(i). En l’espèce, une explication crédible a été fournie, et le ministre n’a fourni aucun élément de preuve contraire. Au lieu de cela, le ministre s’est appuyé sur des observations relatives à la crédibilité de l’appelant sans fournir d’éléments de preuve objectifs contredisant la preuve de l’appelant ou mettant en cause la crédibilité générale de ce dernier. En l’espèce, l’issue aurait pu être différente si l’intimée avait été en mesure de montrer que le train de vie de l’appelant ne correspondait pas au montant du revenu que sa famille a déclaré pour chaque année. Pour l’ensemble des présents motifs, les appels sont accueillis et les nouvelles cotisations sont annulées.
+Signé à Ottawa, Canada, ce 11e jour de février 2013.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 21e jour de mai 2013.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2013 CCI 11
+NO DU DOSSIER DE LA COUR : 2010-2575(IT)G
+INTITULÉ : Gregory George Schmidt c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Regina (Saskatchewan)
+DATE DE L’AUDIENCE : Le 8 novembre 2012
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 11 février 2013
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Kenneth J. Brodt
+Avocate de l’intimée :
+Me Bryn Frape
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Kenneth J. Brodt
+Cabinet : KMP Law
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Lacroix c. Canada, 2008 CAF 241, 2009 DTC 5029, au paragraphe 30.

@@ -1,0 +1,118 @@
+---
+title: "Murray v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26670/index.do"
+last_modified: "2006-08-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 454"
+citation2: ""
+neutral_citation: "2006 CCI 454"
+decision_date: "2006-08-29"
+language: "fr"
+item_id: "26670"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3612
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:48:07.679000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4059075830562e10f3f1d032e4cd219faed25c31ded7f7b6242bb36322be74b5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Murray v. The Queen
+
+- Citation: 2006 CCI 454
+- Decision date: 2006-08-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3612, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Murray v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-08-29
+Référence neutre
+2006 CCI 454
+Numéro de dossier
+2005-4251(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2006CCI454
+Date : 20060829
+Dossier : 2005-4251(IT)I
+ENTRE :
+ELLSWORTH MURRAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience à Ottawa (Ontario), le 6 juin 2006,
+et modifiés par la suite à Ottawa (Ontario), le 29 août 2006.)
+La juge Lamarre
+[1] Au moyen d’avis de nouvelle cotisation datés du 25 février 2005, le ministre du Revenu national a refusé les déductions faites par l’appelant dans le calcul de son revenu pour les années d’imposition 2001 et 2002.
+Frais d’utilisation du domicile pour le travail
+[2] Au départ, l’appelant avait déduit, à titre de frais d’utilisation du domicile pour le travail, 2 002,80 $ pour l’année 2001 et 1 953,60 $ pour l’année 2002, au motif qu’il exploitait son entreprise à partir de son domicile. Le ministre a accepté la déduction de 1 001,79 $ pour l’année 2001 et de 1 037,03 $ pour l’année 2002. Lors du procès, l’appelant a demandé la déduction du loyer d’un appartement de deux chambres à coucher, lequel n’était pas son domicile durant les années en cause, plutôt que la déduction des frais d’utilisation du domicile pour le travail. Il a justifié cette nouvelle demande en disant qu’il rencontrait des clients à l’appartement, et qu’il y faisait la tenue de dossiers. Il veut déduire, à l’égard de l’appartement, 7 263,99 $ pour l’année 2001 et 7 617,58 $ pour l’année 2002. La seule preuve déposée est une feuille du grand livre du propriétaire de l’appartement qui montre les montants payés à titre de loyer. Rien n’est venu prouver que l’appelant a exploité une entreprise à partir de l’appartement. Ni bail, ni carnet, ni liste de clients, ni carte professionnelle n’ont étés déposés en preuve afin de démontrer que l’appelant a réellement exploité une entreprise à partir de l’appartement. L’appelant se heurte à un problème de crédibilité. En effet, il avait d’abord déduit des frais d’utilisation du domicile pour le travail en affirmant avoir exploité son entreprise à partir de son domicile. Il affirme maintenant autre chose, à savoir qu’il exploitait son entreprise à partir de l’appartement. Par conséquent, je conclus que le témoignage de l’appelant ne suffit pas à prouver, selon la prépondérance des probabilités, que le loyer dont il a été question pour la première fois au procès constitue une dépense d’entreprise. Les nouvelles cotisations ne seront pas modifiées quant aux frais d’utilisation du domicile pour le travail.
+Frais de déplacement, de logement et de location de voiture
+[3] Lors de l’audience, l’appelant a aussi demandé la déduction de frais engagés en 2001 lors d’un voyage d’un mois à Rome en compagnie de sa petite amie. Il a voulu déduire des frais de déplacement de 3 656 $, des frais de logement de 750 $ et des frais de location de voiture de 487,50 $. L’appelant – un agent d’assurance de la région d’Ottawa – a affirmé être allé à Rome pour apprendre l’italien, s’instruire des habitudes des Italiens et observer la façon de faire d’autres agents de vente afin de mieux servir sa clientèle italienne à Ottawa. La petite amie de l’appelant est Italienne. Les dépenses à l’égard desquelles les déductions sont demandées ont été engagées autant pour l’appelant que pour sa petite amie. À mon avis, ce voyage représente plutôt une activité de loisirs; son lien avec les activités de l’entreprise de l’appelant est trop ténu pour qu’il puisse s’agir de dépenses d’entreprise.
+Cotisation d’assurance collective
+[4] Dans le calcul de son revenu, l’appelant a déduit un montant de 1 440 $ pour l’année 2001 et de 1 680 $ pour l’année 2002 à titre de cotisations d’assurance collective. Le ministre a refusé ces déductions. Il semblerait, à la lumière des documents déposés en preuve, que ces cotisations ont été versées à l’égard d’un régime d’assurance‑vie. Il n’a pas été prouvé qu’elles ont été versées en application d’un régime privé d’assurance‑maladie au sens de l’article 20.01 de la Loi de l’impôt sur le revenu (la « Loi ») – le paragraphe 248(1) de la Loi définit le terme « régime privé d’assurance‑maladie » comme étant un régime privé d’assurance‑maladie ou d’assurance‑hospitalisation. Les cotisations versées par l’appelant ne peuvent donc pas être déduites, et les nouvelles cotisations ne seront pas modifiées quant à ces frais.
+Frais afférents à un véhicule à moteur
+[5] Au début de l’audience, l’avocate de l’intimée a concédé à l’appelant la déduction de montants supplémentaires à titre de frais afférents à un véhicule à moteur, soit 373 $ pour l’année 2001 et 261 $ pour l’année 2002. L’appelant, qui a donné son accord, a donc droit à une déduction totale, à titre de frais afférents à un véhicule à moteur, de 3 136,76 $ pour l’année 2001 et de 3 002,43 $ pour l’année 2002. Une nouvelle cotisation sera donc établie en conséquence.
+Signé à Ottawa (Canada) ce 29e jour d’août 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 15e jour d’avril 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2006CCI454
+Nº DU DOSSIER DE LA COUR :
+2005-4251(IT)I
+INTITULÉ :
+Ellsworth Murray et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 6 juin 2006
+MOTIFS DU JUGEMENT :
+L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT :
+Le 29 août 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Geneviève Léveillé
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)

@@ -1,0 +1,521 @@
+Title: Raymond c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/142452/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-35-142452-raymond-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-02-10
+
+# Raymond c. La Reine
+
+- Citation: 2016 CCI 35
+- Decision date: 2016-02-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3013, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Raymond c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-02-10
+Référence neutre
+2016 TCC 35
+Numéro de dossier
+2015-1106(IT)I, 2015-146(IT)I, 2015-158(GST)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-146(IT)I
+ENTRE :
+SHELLEY RAYMOND,
+appelante,
+et
+SA MAJESTÉ LA REINE.
+intimée
+[TRADUCTION FRANÇAISE]
+Appel entendu sur preuve commune avec les appels de Gilbert Ludlow 2015-1106(IT)I et de Shelley Raymond et Gilbert Ludlow 2015-158(GST)I le 28 octobre 2015 à Toronto (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentante de l’appelante :
+Susan Cunningham
+Avocat de l’intimée :
+Tony Cheung
+JUGEMENT
+Les nouvelles cotisations relatives aux années d’imposition 2006 et 2007 de l’appelante établies en vertu de la Loi de l’impôt sur le revenu sont déférées au ministre du Revenu national pour être examinées et évaluées de nouveau à partir du principe que des pénalités pour faute lourde ont été imposées adéquatement en vertu du paragraphe 163(2), mais que les sommes que l’appelante n’a pas déclarées comme revenu étaient de 13 171 $ et de 8 798 $ en 2006 et en 2007, respectivement.
+Signé à Ottawa (Canada), ce 10e jour de février 2016.
+« V.A. Miller »
+Juge V.A. Miller
+Dossier : 2015-1106(IT)I
+ENTRE :
+GILBERT LUDLOW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels de Shelley Raymond 2015-146(IT)I et Shelley Raymond et Gilbert Ludlow 2015-158(GST)I le 28 octobre 2015 à Toronto (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentante de l’appelante :
+Susan Cunningham
+Avocat de l’intimée :
+Tony Cheung
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est rejeté.
+Signé à Ottawa (Canada), ce 10e jour de février 2016.
+« V.A. Miller »
+Juge V.A. Miller
+Dossier : 2015-158(GST)I
+ENTRE :
+SHELLEY RAYMOND ET GILBERT LUDLOW,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels de Gilbert Ludlow 2015-1106(IT)I et de Shelley Raymond 2015-146(IT)I le 28 octobre 2015 à Toronto (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentante des appelants :
+Susan Cunningham
+Avocat de l’intimée :
+Tony Cheung
+JUGEMENT
+L’appel interjeté à l’encontre de l’avis de nouvelle cotisation daté du 6 novembre 2014 et formulé en vertu de la partie IX de la Loi sur la taxe d’accise pour la période du 1er janvier 2006 au 31 décembre 2008 est rejeté.
+Signé à Ottawa (Canada), ce 10e jour de février 2016.
+« V.A. Miller »
+Juge V.A. Miller
+Référence : 2016CCI35
+Date : 20160210
+Dossier : 2015-146(IT)I
+ENTRE :
+SHELLEY RAYMOND,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2015-1106(IT)I
+ET ENTRE :
+GILBERT LUDLOW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2015-158(GST)I
+ET ENTRE :
+SHELLEY RAYMOND ET GILBERT LUDLOW,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Ces appels ont été entendus sur preuve commune. La seule question à trancher relativement à chaque appel consiste à détermine si le ministre du Revenu national (le « ministre ») a correctement imposé les pénalités pour faute lourde aux appelants :
+a) Dans le cadre de l’appel de Shelley Raymond, des pénalités pour faute lourde ont été imposées à celle-ci relativement aux années d’imposition 2006 et 2007 en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (« LIR »), à partir du principe qu’elle a omis de déclarer des revenus, soit 25 163 $ et 20 681 $, pour les années 2006 et 2007, respectivement.
+b) Dans le cadre de l’appel de Gilbert Ludlow, une pénalité pour faute lourde a été imposée à celui-ci relativement à l’année d’imposition 2006 en vertu du paragraphe 163(2) de la LIR, à partir du principe qu’il a omis de déclarer des revenus, soit 3 324 $.
+c) Dans le cadre de l’appel concernant la TPS, la société en nom collectif, constituée par Shelley Raymond et Gilbert Ludlow (la « société en nom collectif »), s’est vu imposer des pénalités pour faute lourde en vertu de l’article 285 de la Loi sur la taxe d’accise (LTA) pour chaque période trimestrielle entre le 1er janvier 2006 et le 30 septembre 2008, inclusivement. J’ai joint à ma décision l’annexe A, qui indique l’impôt net déclaré par la société en nom collectif ainsi que l’impôt net découlant des nouvelles cotisations établies par le ministre.
+[2] J’ai examiné les tableaux du « Rapport sur une opposition » pour chaque appelant et je suis d’avis que le ministre a fait une erreur lors du calcul de la somme du revenu que Shelley Raymond a omis de déclarer en 2006 et 2007. J’ai calculé qu’elle a omis de déclarer une somme de 13 171 $ en 2006 et de 8 798 $ en 2007.
+[3] Les témoins présents à l’audience étaient les appelants ainsi que Lianne Durant, une agente des appels de l’Agence du revenu du Canada (« ARC »).
+[4] Shelley Raymond et Gilbert Ludlow sont conjoints.
+[5] Shelley Raymond a exploité les trois entreprises suivantes à titre d’unique propriétaire pendant les périodes indiquées :
+a) La Muskoka Trade Source (« Muskoka ») qui, en 2006, 2007 et 2008, était un annuaire d’entreprises disponible en ligne ou dans les kiosques à journaux qui énumérait les entreprises de construction exploitées dans la région de Muskoka.
+b) Les franchises Kumon (« Kumon »), qui étaient des programmes de tutorat parascolaires. En 2006, Mme Raymond possédait deux franchises. Elle en a vendu une en 2007 et a continué d’exploiter l’autre en 2007 et 2008.
+c) En octobre 2007, elle est devenue agente immobilière et l’est demeurée en 2008.
+[6] En 2006, 2007 et 2008, la société en nom collectif a exploité l’entreprise de location de biens immobiliers GLW (l’« entreprise de location ») et Gilbert Ludlow Woodworking (l’« entreprise de menuiserie »). L’entreprise de location comportait un seul immeuble. Le rez-de-chaussée de cet immeuble était loué à un locataire commercial alors que l’étage supérieur et la rallonge étaient loués à des locataires d’habitation. L’entreprise de menuiserie construisait et installait des escaliers et des rampes pour des clients de la région de Muskoka.
+[7] Chaque année, la société en nom collectif déclarait que l’entreprise de location et l’entreprise de menuiserie étaient une seule entreprise; les revenus et les dépenses des entreprises étaient regroupés.
+[8] Shelley Raymond a déclaré des revenus totalisant 29 296 $ et 31 557 $ pour les années 2006 et 2007, respectivement. Gilbert Ludlow a déclaré des revenus de 4 172 $ et de 8 452 $ en 2006 et 2007, respectivement.
+[9] Pour tenter de rapprocher le mode de vie des appelants et leur revenu déclaré, le ministre a effectué une analyse de leurs dépôts bancaires. Il a observé des différences entre les ventes déclarées et les dépôts dans les comptes bancaires. Le ministre a conclu que les appelants n’avaient pas déclaré la totalité de leurs revenus. Lors de l’étape de vérification de cette affaire, le ministre a augmenté le revenu brut de Muskoka de 6 159 $ pour 2006 et celui de l’entreprise de menuiserie de 37 950 $ pour 2007. Le ministre a jugé non admissibles plusieurs dépenses qui ont été déclarées par les différentes entreprises en alléguant que les appelants n’étaient pas en mesure de fournir les documents justifiant ces dépenses ou que celles-ci constituaient des frais personnels ou de subsistance. Lors de l’étape de la vérification, le ministre a imposé des pénalités pour faute lourde à chaque appelant.
+[10] Selon l’agente des appels, Lianne Durant, bon nombre de dépenses déclarées par les appelants n’étaient pas appuyées par des documents. On lui a dit que de nombreux reçus avaient été perdus lors de l’inondation des locaux de l’entreprise des appelants. Les appelants lui ont tout de même remis une boîte de reçus aux fins d’examen. Mme Durant a affirmé que les reçus n’étaient pas classés et que certains d’entre eux étaient liés à plus d’une entreprise. Il semble que les fonds des entreprises aient été regroupés. L’un des exemples donnés était que l’entreprise Kumon payait les dépenses déclarées par l’entreprise de menuiserie. Certaines dépenses étaient payées en ligne, et aucun document n’a été fourni pour confirmer les dépenses qui ont été payées et s’il s’agissait de frais professionnels ou personnels. Mme Durant a découvert que certaines dépenses déclarées par les appelants étaient des dépenses engagées pour des biens personnels. Au final, lors de l’étape de l’opposition, le ministre a réduit la somme du revenu net imposée aux appelants lors de l’étape de vérification, mais a maintenu que les pénalités pour faute lourde devaient être appliquées comme il est indiqué aux paragraphes 1 et 2 susmentionnés.
+[11] Les derniers ajustements apportés par le ministre concernant les appels en matière d’impôt sur le revenu sont les suivants :
+Shelley Raymond
+Revenu net pour 2006
+Déclaré
+Nouvelle cotisation
+Revenu commercial net total
+11 529 $
+24 653 $
+Revenu net de l’entreprise de location
+1 548
+8 389
+Revenu net de l’entreprise de menuiserie
+16 219
+9 425
+Revenu net total
+29 296 $
+42 467 $
+Revenu net pour 2007
+Déclaré
+Nouvelle cotisation
+Revenu commercial net total
+624 $
+10 898 $
+Revenu net de l’entreprise de location
+(290)
+(3 687)
+Revenu net de l’entreprise de menuiserie
+22 747
+26 804
+Revenu T4
+9 239
+9 239
+Revenu net de commissions
+(762)
+(2 899)
+Revenu net total
+31 557 $
+40 355 $
+Gilbert Ludlow
+Revenu net pour 2006
+Déclaré
+Nouvelle cotisation
+Revenu net de l’entreprise de menuiserie
+2 624 $
+(893) $
+Revenu net de l’entreprise de location
+1 548
+8 389
+Revenu net total
+4 172 $
+7 496 $
+Revenu net pour 2007
+Déclaré
+Nouvelle cotisation
+Revenu net de l’entreprise de menuiserie
+8 743 $
+11 155 $
+Revenu net de l’entreprise de location
+(291)
+(3 687)
+Revenu net total
+8 452 $
+7 468 $
+La loi [12] Selon le paragraphe 163(2) de la LIR, les pénalités pour faute lourde sont les suivantes :
+163(2) Faux énoncés ou omissions – Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants [...].
+[13] En vertu du paragraphe 163(3) de la LIR, « le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité ». La Couronne doit alors prouver 1) que les appelants ont fait un faux énoncé ou une omission dans leurs déclarations de revenus et 2) que cet énoncé ou cette omission a été fait sciemment ou dans des circonstances équivalant à faute lourde.
+[14] La définition fondamentale de faute lourde a été donnée lors de l’affaire Venne c. La Reine, 84 DTC 6247 (CF 1re inst.), à la page 6256, où le juge Strayer indique :
+La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi.
+[15] Certains des facteurs qui doivent être considérés au moment de déterminer s’il y a ou non faute lourde sont l’ampleur de l’omission liée au revenu déclaré, la faculté du contribuable de découvrir l’erreur, ainsi que le niveau d’instruction du contribuable. Il n’existe aucun facteur qui soit prédominant : DeCosta c. La Reine, 2005 CCI 545.
+Analyse A. Shelley Raymond [16] Shelley Raymond était responsable de tenir à jour les livres de comptes et les registres de ses entreprises et de sa société en nom collectif. À cet égard, elle a embauché un aide-comptable pour l’aider. Elle a déclaré que cette personne préparait une feuille de calcul Excel pour chaque mois de chaque année incluse dans la période visée. Mme Raymond a préparé un relevé récapitulatif indiquant le total des dépenses mensuelles engagées dans chaque catégorie. Ce relevé a été présenté au cabinet comptable auprès duquel Mme Raymond s’est engagée à préparer les déclarations de revenus pour elle et son époux. Mme Raymond a préparé et a rempli les déclarations de TPS.
+[17] Mme Raymond n’a pas conservé de copies de toutes les factures émises au cours de cette période. Toutefois, celles qu’elle a conservées ont été placées dans une boîte avec les reçus, dans aucun ordre précis. Les factures et les reçus placés dans la boîte étaient liés aux cinq entreprises. En bref, la tenue de ses dossiers était complètement inadéquate.
+[18] Lors de l’audience, Mme Raymond a affirmé qu’elle et son aide-comptable étaient responsables de tenir à jour les reçus et les factures des cinq entreprises. En ce qui concerne la tenue de ses dossiers, Mme Raymond ne peut jeter le blâme sur l’aide-comptable pour le caractère inadéquat de ses dossiers. Elle a fait appel à trois aides-comptables différents au cours de la période visée. L’état ultime des entreprises et des dossiers connexes incombait à Mme Raymond et non aux aides-comptables.
+[19] Les appelants incluaient les frais personnels ou de subsistance à titre de frais professionnels. Certaines dépenses comprennent l’achat d’un téléviseur grand écran et d’accessoires connexes, de iPod et d’accessoires de cinéma maison, des dépenses liées au fonctionnement du spa des appelants, la construction d’un foyer et les paiements pour le financement des activités de l’école de leur fille.
+[20] Le montant des revenus que Mme Raymond a omis de déclarer par rapport aux revenus déclarés était considérable. Selon mes calculs, le ratio des revenus non déclarés par rapport aux revenus déclarés était de 45 % en 2006 et de 28 % en 2007. Elle a omis de déclarer 31 % de ses revenus en 2006 et 22 % de ses revenus en 2007. Mme Raymond était responsable de tenir à jour les livres de comptes et les registres des entreprises. Ses déclarations de revenus étaient préparées à l’aide des documents qu’elle a remis à ses comptables. Elle a affirmé qu’elle s’est fiée aux comptables et qu’elle a signé ses déclarations sans les avoir lues. Toutefois, les comptables pouvaient travailler uniquement à partir des documents qu’elle leur avait fournis; l’exactitude de leur travail correspondait à l’exactitude des documents qui leur avaient été fournis.
+B. Gilbert Ludlow [21] Gilbert Ludlow a affirmé être un charpentier. Il ne s’est pas occupé des livres de comptes ou des registres. Il a recueilli les reçus de l’entreprise de menuiserie et les a donnés à son épouse, Mme Raymond. Lorsque ces déclarations de revenus ont été préparées, il les a signées, mais ne les a pas consultées.
+[22] M. Ludlow a omis de déclarer 44 % de ses revenus pour l’année 2006. Le ratio des revenus qu’il a omis de déclarer par rapport à ceux qu’il a déclarés était de 80 %. Le montant des revenus non déclarés était énorme par rapport à celui des revenus que M. Ludlow a déclarés en 2006. Il a aveuglément fait confiance à son épouse et à son comptable pour la préparation de ses livres de comptes et registres et de ses déclarations de revenus. De plus, il a signé ses déclarations de revenus sans les avoir lues. Selon moi, il était totalement indifférent au fait que la loi soit respectée ou non.
+C. Société en nom collectif [23] Certains des crédits de taxe sur les intrants (CTI) réclamés par la société en nom collectif ont été refusés, car aucun document à l’appui n’a été fourni alors que d’autres CTI ont été refusés du fait qu’ils ont été réclamés aux fins de dépenses personnelles ou étaient liés aux entreprises individuelles, soit Kumon et Muskoka.
+[24] La société en nom collectif a réclamé 29,5 % plus de CTI que ce à quoi elle était admissible. Elle a indiqué qu’elle devait payer 3 885,21 $ en impôt net alors qu’en réalité il s’agissait d’un montant net d’impôt de 8 818,59 $. La société en nom collectif a omis de déclarer plus de 200 % de ses impôts nets.
+[25] Je suis d’avis que le ministre s’est acquitté de son fardeau et que les pénalités pour faute lourde ont été adéquatement imposées à Mme Raymond, à M. Ludlow et à la société en nom collectif. Les appels de M. Ludlow et de la société en nom collectif sont rejetés. L’appel de Mme Raymond est déféré au ministre afin que celui-ci réévalue la pénalité pour faute lourde en se fondant sur le fait que Mme Raymond a omis de déclarer des revenus de 13 171 $ et de 8 798 $ en 2006 et en 2007, respectivement.
+Signé à Ottawa (Canada), ce 10e jour de février 2016.
+« V.A. Miller »
+Juge V.A. Miller
+Annexe A
+Du 1er janvier 2006 au 31 mars 2006
+Tel que déposé
+Par vérification
+Par appel
+Ventes
+20 834,00 $
+20 834,00 $
+17 227,36 $
+TPS percevable
+1 196,20 $
+1 196,20 $
+1 205,92 $
+CTI
+823,43 $
+508,50 $
+762,53 $
+Impôt net
+372,77 $
+687,70 $
+443,39 $
+Pénalités pour faute lourde
+78,73 $
+15,23 $
+Du 1er avril 2006 au 30 juin 2006
+Tel que déposé
+Par vérification
+Par appel
+Ventes
+40 775,00 $
+40 775,00 $
+35 724,37 $
+TPS percevable
+2 500,01 $
+2 500,01 $
+2 500,71 $
+CTI
+1 643,47 $
+1 033,19 $
+1 242,84 $
+Impôt net
+856,54 $
+1 466,82 $
+1 254,01 $
+Pénalités pour faute lourde
+152,57 $
+100,16 $
+Du 1er juillet 2006 au 30 septembre 2006
+Tel que déposé
+Par vérification
+Par appel
+Ventes
+54 906,00 $
+54 906,00 $
+49 316,19 $
+TPS percevable
+2 915,47 $
+2 915,47 $
+2 958,97 $
+CTI
+1 978,46 $
+1 198,31 $
+1 377,89 $
+Impôt net
+937,01 $
+1 717,16 $
+1 581,08 $
+Pénalités pour faute lourde
+195,04 $
+150,14 $
+Du 1er octobre 2006 au 31 décembre 2006
+Tel que déposé
+Par vérification
+Par appel
+Ventes
+21 416,00 $
+21 416,00 $
+20 711,42 $
+TPS percevable
+1 212,26 $
+1 212,26 $
+1 242,69 $
+CTI
+1 514,89 $
+1 210,26 $
+1 444,09 $
+Impôt net
+(302,63 $)
+2,00 $
+(201,40 $)
+Pénalités pour faute lourde
+76,16 $
+17,70 $
+Du 1er janvier 2007 au 31 mars 2007
+Tel que déposé
+Par vérification
+Par appel
+Ventes
+63 745,00 $
+63 745,00 $
+58 391,08 $
+TPS percevable
+3 463,85 $
+4 170,04 $
+3 503,46 $
+CTI
+2 906,37 $
+2 106,48 $
+2 536,39 $
+Impôt net
+557,48 $
+2 063,56 $
+967,08 $
+Pénalités pour faute lourde
+199,97 $
+92,50 $
+Du 1er avril 2007 au 30 juin 2007
+Tel que déposé
+Par vérification
+Par appel
+Ventes
+52 302,00 $
+52 302,00 $
+47 451,75 $
+TPS percevable
+2 912,41 $
+3 751,08 $
+2 847,11 $
+CTI
+2 768,37 $
+1 845,98 $
+2 328,82 $
+Impôt net
+144,04 $
+1 905,10 $
+518,29 $
+Pénalités pour faute lourde
+230,60 $
+109,89 $
+Du 1er juillet 2007 au 30 septembre 2007
+Tel que déposé
+Par vérification
+Par appel
+Ventes
+42 730,00 $
+42 730,00 $
+41 432,54 $
+TPS percevable
+2 534,07 $
+2 795,81 $
+2 485,95 $
+CTI
+1 686,31 $
+1 118,33 $
+1 141,29 $
+Impôt net
+847,76 $
+1 677,48 $
+1 344,66 $
+Pénalités pour faute lourde
+141,99 $
+136,26 $
+Du 1er octobre 2007 au 31 décembre 2007
+Tel que déposé
+Par vérification
+Par appel
+Ventes
+27 021,00 $
+27 021,00 $
+26 003,00 $
+TPS percevable
+1 529,53 $
+1 747,56 $
+1 560,18 $
+CTI
+1 503,26 $
+968,44 $
+1 004,20 $
+Impôt net
+26,27 $
+779,12 $
+555,98 $
+Pénalités pour faute lourde
+133,70 $
+124,77 $
+Du 1er janvier 2008 au 31 mars 2008
+Tel que déposé
+Par vérification
+Par appel
+Ventes
+23 560,00 $
+23 560,00 $
+23 560,00 $
+TPS percevable
+1 446,33 $
+1 446,33 $
+1 178,00 $
+CTI
+1 400,55 $
+263,46 $
+592,77 $
+Impôt net
+45,78 $
+1 182,87 $
+585,23 $
+Pénalités pour faute lourde
+284,27 $
+201,95 $
+Du 1er avril 2008 au 30 juin 2008
+Tel que déposé
+Par vérification
+Par appel
+Ventes
+35 002,00 $
+35 002,00 $
+35 002,00 $
+TPS percevable
+1 666,76 $
+1 666,76 $
+1 750,10 $
+CTI
+1 642,52 $
+425,25 $
+898,08 $
+Impôt net
+24,24 $
+1 241,51 $
+852,03 $
+Pénalités pour faute lourde
+304,32 $
+186,11 $
+Du 1er juillet 2008 au 30 septembre 2008
+Tel que déposé
+Par vérification
+Par appel
+Ventes
+45 626,00 $
+45 626,00 $
+45 626,00 $
+TPS percevable
+2 043,37 $
+2 043,37 $
+2 281,30 $
+CTI
+1 950,44 $
+559,69 $
+1 118,62 $
+Impôt net
+92,93 $
+1 483,68 $
+1 162,68 $
+Pénalités pour faute lourde
+347,69 $
+207,96 $
+Du 1er octobre 2008 au 31 décembre 2008
+Tel que déposé
+Par vérification
+Par appel
+Ventes
+29 385,00 $
+29 385,00 $
+29 385,00 $
+TPS percevable
+1 399,28 $
+1 399,28 $
+1 469,25 $
+CTI
+1 116,26 $
+360,52 $
+1 713,60 $
+Impôt net
+283,02 $
+1 038,76 $
+(244,35 $)
+Pénalités pour faute lourde
+188,94 $
+NÉANT
+RÉFÉRENCE :
+2016TCC35
+NO DU DOSSIER DE LA COUR :
+2015-146(IT)I;
+2015-1106(IT)I;
+2015-158(GST)I
+INTITULÉ :
+SHELLEY RAYMOND c. SA MAJESTÉ LA REINE
+GILBERT LUDLOW c. SA MAJESTÉ LA REINE
+SHELLEY RAYMOND ET GILBERT LUDLOW c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 28 octobre 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 10 février 2016
+COMPARUTIONS :
+Représentante de l’appelante :
+Susan Cunningham
+Avocat de l’intimée :
+Tony Cheung
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)

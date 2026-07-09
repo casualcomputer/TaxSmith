@@ -1,0 +1,177 @@
+---
+title: "Dumais c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25959/index.do"
+last_modified: "2003-08-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 506"
+citation2: ""
+neutral_citation: "2003 CCI 506"
+decision_date: "2003-08-01"
+language: "fr"
+item_id: "25959"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3757
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:54:39.335000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e08210ce8ef429b0fdfefc656426bf7b9aae1dca3a7fe533feef2070fe0c766a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dumais c. La Reine
+
+- Citation: 2003 CCI 506
+- Decision date: 2003-08-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3757, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dumais c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-08-01
+Référence neutre
+2003 CCI 506
+Numéro de dossier
+2002-350(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-350(IT)I
+ENTRE :
+ROGER DUMAIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appel entendu le 9 juin 2003 à Jonquière (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelant :
+Me Jean Dauphinais
+Avocate de l'intimée :
+Me Anne Poirier
+_______________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1999 est accueilli et la cotisation annulée, avec dépens en faveur de l'appelant, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 1e jour d'août 2003.
+« Alain Tardif »
+Juge Tardif
+Référence : 2003CCI506
+Date : 20030801
+Dossier : 2002-350(IT)I
+ENTRE :
+ROGER DUMAIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel concernant l'année d'imposition 1999.
+[2] La question en litige consiste à déterminer si l'intimée était justifiée de refuser à l'appelant une dépense de 23 451 $ pour l'année d'imposition 1999.
+[3] Pour l'année d'imposition 1999, l'appelant exploitait une entreprise sous le nom et raison sociale de « Action Rénovation Enr. » ; il s'agissait d'une entreprise qui réalisait des travaux de construction et rénovations de toute nature; l'appelant avait d'ailleurs une licence d'entrepreneur général.
+[4] Dans le cadre de ses activités commerciales, l'entreprise de l'appelant, des suites de l'intervention d'un certain Gérard Tremblay, a exécuté des travaux de décontamination affectant une résidence lourdement endommagée par le fameux déluge. Le travail a été effectué en collaboration avec une firme spécialisée à savoir la société « Nettoyeur Premier » . Le coût des travaux, entièrement assumé par le Gouvernement du Québec, s'est établi à 23 450,73 $.
+[5] Au cours de la même année, l'appelant, dont la place d'affaires était située à la résidence de son épouse, a déboursé exactement le même montant pour des travaux de décontamination à ladite résidence. Les travaux ont été requis à la suite d'une contamination sévère causée par une infiltration de divers liquides entreposés dans un des trois barils situés à quelques pieds de la résidence. Les barils en question y avaient été placés dans le but de faire de la récupération de divers produits utilisés dans le cadre des activités commerciales de l'entreprise.
+[6] À première vue, certains faits dont notamment le montant identique des deux factures, le traitement comptable accordé aux données et la proximité dans le temps quant à l'exécution des travaux, étaient de nature à créer une présomption que les travaux de décontamination étaient possiblement des travaux personnels profitant à la conjointe de l'appelant le tout maquillé en dépenses de l'entreprise exploitée par l'appelant.
+[7] Le comptable de l'appelant aurait, dans le cadre de son mandat, questionné le pourquoi de l'entrée et de la sortie du même montant. Il a conclu rapidement qu'il s'agissait sans doute d'un contrat exécuté pour une considération correspondant au coût de réalisation, soit sans profit aucun.
+[8] Normalement, il aurait dû comptabiliser ce revenu, ce qui aurait eu pour effet d'augmenter pour autant les revenus de l'entreprise; il ne l'a pas fait. Il n'a cependant pas occulté le montant de la comptabilité de l'entreprise. Il a essentiellement fait des écritures n'ayant aucun effet tant sur les revenus que sur les dépenses par une opération communément appelée « In and Out » .
+[9] Même si le traitement comptable n'était pas conforme aux règles de l'art, il appert que le non-respect des règles de l'art n'a eu aucun effet sur la charge fiscale de l'appelant.
+[10] L'intimée s'est attardée sur certaines incohérences dans les prétentions de l'appelant; d'abord, la description des travaux effectués par Nettoyeur Premier est quelque peu boiteuse en ce que les travaux décrits n'étaient pas conformes aux prétentions de l'appelant. La facture fut ultérieurement corrigée ou amendée pour, cette fois, devenir conforme à la version de l'appelant.
+[11] Elle a aussi noté que les travaux exécutés en août, semble-t-il, l'aurait été en grande partie à l'automne, au moment où la température était froide et qu'il a dû porter des gants lors de l'exécution, selon celui qui les a effectués.
+[12] En contre partie, l'appelant a expliqué toutes les circonstances relatives aux travaux qu'il a dû faire ou exécuter à la résidence de son épouse où était située sa place d'affaires.
+[13] Il a expliqué que lui et/ou ses employés avaient pris pour habitude de placer dans l'un ou l'autre des trois barils certains rebuts, matières dangereuses, métaux, etc. L'un des trois barils contenait des vieilles huiles et divers contaminants liquides.
+[14] Plusieurs personnes ont confirmé l'existence du baril contenant les solutions contaminantes. Monsieur Massé qui a fait les travaux de décontamination avec un employé de l'appelant, à l'époque en question, a quant à lui, indiqué y avoir déposé des matières contaminantes confirmant ainsi la présence du baril. Lors des travaux, il est devenu évident que le baril contenant des liquides contaminants laissait écouler son contenu vers les fondations de la résidence où l'appelant avait sa place d'affaires.
+[15] L'appelant a d'abord vérifié si les assurances détenues par son entreprise couvraient un tel dommage. Après avoir appris qu'il n'était pas couvert, il a décidé d'en assumer le coût. Il a affirmé avoir communiqué avec son assureur pour avoir des renseignements à cet égard.
+[16] Cet aspect a été confirmé par le témoignage de madame Doris Lamontagne courtier d'assurance qui a reconnu avoir reçu un appel à cet effet ajoutant qu'aucune police d'assurance ne couvrait de tel risque.
+[17] L'appelant a aussi soutenu que si l'assurance de son épouse avait été mise à contribution, elle lui aurait ultérieurement réclamé les montants déboursés en vertu d'une subrogation.
+[18] Plusieurs personnes ont témoigné; elles ont témoigné en l'absence les unes des autres. Il appert de ces témoignages que plusieurs des affirmations de l'appelant se sont avérées confirmées et ce, sur de nombreux détails. Je fais notamment référence à la présence d'un baril contenant des contaminants situé à quelques pieds de la résidence affectée. Les matières contaminantes, tel l'huile, le créosote, etc., y ont été placées par un des employés de l'entreprise et il s'agissait de matières utilisées dans le cadre des opérations de l'entreprise. Des photos ont également illustré la présence d'un problème de contamination.
+[19] Il s'agit d'un dossier où la crédibilité des témoins constitue un aspect fondamental.
+[20] Monsieur Massé, propriétaire de la compagnie ayant effectué les travaux, étant décédé, il n'a pas pu témoigner ou livrer sa version des faits.
+[21] La question en litige est de déterminer si l'intimée a eu raison de refuser à l'appelant une dépense de 23 451 $ pour l'année d'imposition 1999.
+[22] La prépondérance de la preuve est à l'effet que l'appelant exploitait une entreprise dont la place d'affaires était située à l'endroit où il avait placé trois barils pour la récupération de divers produits dans le cadre des activités commerciales de son entreprise. L'un d'eux, soit celui du centre, contenait divers liquides et produits contaminants.
+[23] Ayant perdu son étanchéité, le baril du centre contenant des polluants se serait vidé d'une partie de son contenu pour s'infiltrer dans le sol et l'intérieur du sous-sol de la résidence où était la place d'affaires de l'appelant.
+[24] Non assuré pour ce dommage, l'appelant a décidé d'en assumer le coût par le biais d'une entente avec une entreprise pour laquelle il avait lui-même fait les travaux. Il a alors été convenu entre les parties que les deux comptes seraient compensés, étant tous deux du même montant.
+[25] Au niveau de la comptabilité, les inscriptions n'ont pas été enregistrées conformément aux règles de l'art, mais n'ont toutefois pas fait l'objet de cachette. Dans les faits, le résultat sur le plan fiscal a été le même que si les inscriptions avaient été conformes, en supposant évidemment qu'il s'agissait d'une dépense d'entreprise.
+[26] Le cheminement du dossier a requis la présence ou la participation de plusieurs intervenants dont la plupart ont témoigné. Les délais écoulés depuis le constat des dommages et l'exécution des travaux ont pu expliquer certains blancs de mémoire ou incohérences; mais de façon générale, sur les éléments importants, j'ai retenu que la preuve de l'appelant était plus concordante et cohérente que l'inverse.
+[27] Certes, l'intimée a relevé les mêmes incohérences que le Tribunal. S'agit-il d'éléments suffisamment importants pour discréditer complètement la preuve soumise par l'appelant ? Je ne le crois pas. D'autant plus que ces incohérences concernaient des aspects plutôt secondaires.
+[28] La dépense a été refusée pour le motif qu'il s'agissait d'une dépense essentiellement personnelle.
+[29] Le fondement de la qualification de la dépense provient de la facture descriptive des travaux effectués pour corriger un vice de construction au niveau de la fondation du côté droit, à l'avant de la maison [paragraphe 15 o) de la Réponse à l'avis d'appel].
+[30] Il ne s'agit pas d'une interprétation de l'intimée, il s'agit essentiellement de la description des travaux décrits et exécutés par la société Nettoyeur Premier.
+[31] L'appelant s'est inscrit en faux quant à cette prémisse. Selon l'appelant, Massé, dans le but de découvrir la cause du problème, lui aurait posé plusieurs questions. En réponse à l'une de ces questions, il a indiqué avoir fait des travaux d'agrandissement nécessitant la rallonge des fondations. Selon l'appelant, Massé a alors conclu que le joint avait, sans doute, été mal fait n'étant pas, de ce fait, étanché.
+[32] La visite des lieux et certains travaux ont rapidement exclu cette première hypothèse qui, malgré les corrections fournies par la société Nettoyeur Premier, (pièce I-2) n'a eu aucun effet sur la manière de traiter la dépense par l'intimée.
+[33] Il m'apparaît utile de reproduire le contenu de la pièce I-2 :
+...
+Action Rénovation Enr.
+A/S M. Roger Dumais
+2186, St-Albert
+Jonquière, Québec
+M. Dumais,
+À votre demande, nous vous transmettons l'information concernant la décontamination de votre bâtisse.
+Lors de la contamination au 2166, St-Albert Jonquière pour la Compagnie Action Rénovation, il est évident que la propagation des bactéries et des contaminants peuvent avoir pris naissance ailleurs que par le vice de fondation que nous avions estimé possible. Il serait même plus à propos que cette même contamination ait pu s'infiltrer par les fenêtres du sous-sol du côté droit de la maison, car ceux-ci étant avec des margelles de bois, ce qui aide à la formation de bactéries et les placent à un endroit très vulnérable et de plus, près des barils entreposés à l'arrière.
+...
+André Massé
+Directeur général
+[34] Malgré cette correction quant à la nature des travaux, l'intimée a continué de prétendre qu'il s'agissait d'une dépense de nature personnelle.
+[35] La prépondérance de la preuve a établi que les travaux avaient dû être effectués à la suite d'une infiltration de liquide polluant et contaminant remisé dans un baril de récupération et utilisé dans le cadre des opérations de l'entreprise de l'appelant. Cette même prépondérance de la preuve a établi un lien de cause à effet [ causa-causam ] entre le remisage des matières contaminantes, sa fuite et le dommage qui a nécessité des réparations.
+[36] Le coût des réparations est conséquent aux dommages causés involontairement dans le cadre des opérations ou des activités commerciales de l'entreprise de l'appelant. S'agit-il pour autant d'une dépense pouvant être qualifiée de faite dans le but de gagner des revenus ?
+[37] En l'espèce, le déboursé n'a pas été fait à la suite d'un jugement de cour, ni dans le cadre d'un règlement hors de cour, ce qui aurait eu pour avantage de rendre plus transparent la corrélation entre le dommage réel et le coût déboursé pour réparations causées par l'infiltration.
+[38] Cet aspect aurait pu avoir une importance si le déboursé avait été fait à la conjointe de l'appelant. Bien que le déboursé n'ait pas fait l'objet d'une ventilation très détaillée, la compensation a eu lieu entre des personnes non liées réduisant ainsi la possibilité d'avantage. Je n'irai pas plus loin dans cette direction, d'autant plus qu'il s'agit d'une question hypothétique.
+[39] La prépondérance de la preuve est à l'effet que la dépense litigieuse a été requise pour réparer un dommage causé à l'entreprise de l'appelant dans le cadre de ses opérations habituelles courantes et ce, d'une façon involontaire.
+[40] Je conclus que l'intimée n'était pas justifiée de refuser la dépense, d'où l'appel est accueilli, la cotisation annulée, le tout avec dépens en faveur de l'appelant.
+Signé à Ottawa, Canada, ce 1e jour d'août 2003.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2003CCI506
+No DU DOSSIER DE LA COUR :
+2002-350(IT)I
+INTITULÉ DE LA CAUSE :
+Roger Dumais et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Jonquière (Québec)
+DATE DE L'AUDIENCE :
+le 9 juin 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 1 août 2003
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Jean Dauphinais
+Avocate de l'intimée :
+Me Anne Poirier
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Jean Dauphinais
+Étude :
+Cain, Lamarre Casgrain Wells
+Chicoutimi (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

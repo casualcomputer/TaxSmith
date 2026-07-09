@@ -1,0 +1,191 @@
+Title: Anderson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30960/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-333-30960-anderson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-09-21
+
+# Anderson c. La Reine
+
+- Citation: 2012 CCI 333
+- Decision date: 2012-09-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4834, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Anderson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-09-21
+Référence neutre
+2012 CCI 333
+Numéro de dossier
+2010-1646(GST)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2010-1646(GST)G
+ENTRE :
+LANCE ANDERSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 16 mai 2012, à Toronto (Ontario).
+Devant : L'honorable juge Steven K. D'Arcy
+Comparutions :
+Avocat de l'appelant :
+Me David M. Piccolo
+Avocate de l'intimée :
+Me Roxanne Wong
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la cotisation établie en vertu de la Loi sur la taxe d'accise (la « Loi sur la TPS »), dont l'avis est daté du 14 avril 2008, est accueilli et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l'appelant est tenu, en vertu du paragraphe 323(1) de la Loi sur la TPS, de payer 255 625,81 $.
+Les dépens sont adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 21e jour de septembre 2012.
+« S. D'Arcy »
+Le juge D'Arcy
+Traduction certifiée conforme
+ce 7e jour de janvier 2013.
+Yves Bellefeuille, réviseur
+Référence : 2012 CCI 333
+Date : 20120921
+Dossier : 2010-1646(GST)G
+ENTRE :
+LANCE ANDERSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D'Arcy
+[1] La question en litige dans le présent appel est de savoir si l'appelant est responsable, en sa qualité d'administrateur, de la taxe nette qu'a omis de verser Empire Pubs Limited (la « société ») au titre de la partie IX de la Loi sur la taxe d'accise (la « Loi sur la TPS »).
+[2] Le 14 avril 2008, le ministre du Revenu national (le « ministre ») a établi une cotisation de 269 911,58 $ à l'égard de l'appelant relativement à l'omission de la société de verser un montant de taxe nette en application du paragraphe 228(2) de la Loi sur la TPS. Le montant de la cotisation comportait les intérêts et les pénalités à payer par la société.
+[3] L'appelant a déposé un avis d'opposition à la cotisation. Le 16 février 2010, le ministre a ratifié la cotisation. L'appelant a ensuite interjeté appel de la cotisation devant notre Cour.
+[4] En début d'audience, l'avocate de l'intimée a informé la Cour que le ministre avait fait une erreur concernant le montant de la cotisation. Ce montant aurait dû s'élever à 255 625,81 $.
+[5] L'appelant et Mme Nancy Eichenberger, une fonctionnaire de l'Agence du revenu du Canada (l'« ARC »), ont témoigné à l'audience.
+Le résumé des faits pertinents
+[6] Le 31 décembre 1982, l'appelant et son père ont constitué la société en personne morale. Ils étaient initialement les actionnaires ordinaires et administrateurs de la société. Cependant, lors de l'introduction de la TPS en 1991, l'appelant était le seul administrateur et actionnaire de la société[1].
+[7] L'appelant est un homme d'affaires averti. Il possède un baccalauréat en commerce de l'Université de Toronto et a obtenu le titre de comptable agréé en 1980. Entre l'obtention de son diplôme universitaire et 1986, il a travaillé pour le compte de Clarkson Gordon, de Burns Fry et de la bourse de Toronto. Il s'est joint à la société en 1982.
+[8] La société a été mise sur pied dans le but d'exercer des activités en qualité de propriétaire exploitant de pubs situés à proximité du métro de Toronto. En 1987, la société était propriétaire de cinq pubs, soit le Sticky Wicket, le Guv'nor Pub, le Spotted Dick, le Porkers' Stern et le Jersey Giant.
+[9] Lors de son témoignage, l'appelant a déclaré que la société a commencé à éprouver des difficultés financières au début des années 1990. Il a attribué ces difficultés financières à l'introduction de la TPS et à la récession qui a frappé l'économie canadienne en 1992.
+[10] Selon l'appelant, la société a réagi à ces difficultés en mettant un frein à ses projets d'expansion et en réduisant le nombre d'employés. Il a fait observer que la récession a donné lieu à un « resserrement » important du crédit, ce qui a donc limité la capacité de la société à réunir des fonds ou vendre des pubs.
+[11] En 1994, la société a décidé de vendre ou de fermer les cinq pubs dont elle était propriétaire. La vente du premier pub s'est effectuée au cours de l'automne 1994. Trois des pubs restants ont été vendus en 1995 et au cours du premier semestre de 1996. La société a fermé le cinquième pub. L'appelant a qualifié ces ventes de liquidation ordonnée des pubs.
+[12] L'appelant a souligné qu'après avoir vendu le dernier pub, la société a commencé à exercer des activités de construction clés en main de pubs pour d'autres parties. La société concluait un bail avec un propriétaire, construisait un pub sur le terrain, puis vendait le pub à une autre partie une fois la construction achevée. Il arrivait que la société achète un pub existant et le vende ensuite à un tiers.
+[13] La société a poursuivi ces activités de 1996 à 2003. L'appelant a déclaré, lors de son témoignage, que ces activités ont pris fin en 2003. Toutefois, il est devenu apparent, lors du contre-interrogatoire de l'appelant, que les activités de construction clés en main de pubs n'ont pas pris fin en 2003. C'est plutôt Empire Freehouse Incorporated, une nouvelle société constituée en personne morale par l'épouse de l'appelant, qui a poursuivi les activités.
+[14] Le témoignage présenté par l'appelant quant à la cessation des activités de vente de pubs clés en main de la société a nui à sa crédibilité. En fait, je ne crois pas que l'appelant ait été tout à fait sincère lorsqu'il a témoigné devant la Cour. Son témoignage en ce qui a trait au produit de la vente des pubs est un autre exemple de témoignage qui a nui à sa crédibilité.
+Les dispositions légales
+[15] Le paragraphe 323(1) de la Loi sur la TPS prévoit que les administrateurs d'une personne morale sont solidairement tenus, avec cette dernière, de payer tout montant de taxe nette que celle-ci omet de verser, ainsi que les intérêts et pénalités y afférents.
+[16] L'alinéa 323(2)a) de la Loi sur la TPS prévoit que l'administrateur n'encourt de responsabilité selon le paragraphe 323(1) que si « un certificat précisant la somme pour laquelle la personne morale est responsable a été enregistré à la Cour fédérale en application de l'article 316 et il y a eu défaut d'exécution totale ou partielle à l'égard de cette somme ».
+[17] En outre, selon le paragraphe 323(3) de la Loi sur la TPS, l'administrateur n'encourt pas de responsabilité « s'il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l'aurait fait une personne raisonnablement prudente dans les mêmes circonstances ».
+[18] L'appelant reconnaît qu'il était un administrateur de la société lorsque cette dernière a omis de verser la taxe et de payer les intérêts et les pénalités s'élevant à 255 625,81 $. Qui plus est, il n'a pas contesté la preuve de l'intimée selon laquelle les conditions prévues au paragraphe 323(2) de la Loi sur la TPS étaient remplies. Il a seulement soulevé l'argument selon lequel sa conduite satisfaisait aux exigences du moyen de défense de la diligence raisonnable énoncées au paragraphe 323(3).
+[19] La question de savoir si l'appelant a, dans son rôle d'administrateur de la société, agi avec autant de soin, de diligence et de compétence pour prévenir le manquement que ne l'aurait fait une personne raisonnablement prudente dans les mêmes circonstances est une question de fait. La norme de soin, de diligence et d'habileté exigée au paragraphe 323(3) de la Loi sur la TPS est une norme objective[2]. Il incombe à l'appelant de démontrer qu'il a satisfait aux conditions du paragraphe 323(3).
+L'application du moyen de défense fondé sur la diligence raisonnable
+Question préliminaire
+[20] L'intimée estime que la cotisation de 255 625,81 $ établie en application du paragraphe 323 a trait à vingt‑trois périodes de déclaration trimestrielles de la société terminées du 31 janvier 1995 au 30 avril 2003.
+[21] L'appelant n'est pas d'accord. Il estime que la somme de 255 625,81 $ a trait principalement à des périodes de déclaration trimestrielles de la société terminées en 1992, en 1993 et en 1994.
+[22] L'appelant ne souscrit pas à la façon dont l'ARC a imputé les nombreux paiements que la société a faits de juin 1994 à septembre 1998. L'avocat de l'appelant a fait valoir que la détermination des périodes de déclaration pertinentes est importante aux fins du moyen de défense de la diligence raisonnable, étant donné que ce moyen de défense résulte de l'omission d'effectuer un versement pour une période de déclaration précise.
+[23] Les deux parties ont présenté des éléments de preuve relativement à la taxe nette de la société pour des périodes de déclaration précises et aux paiements effectués par la société. J'ai divisé ces éléments de preuve en trois périodes, de la façon suivante :
+· Les périodes de déclaration de la TPS de la société terminées du 31 janvier 1991 au 31 octobre 1993 (la « période de 1991 à 1993 »).
+· Les périodes de déclaration de la TPS de la société terminées du 31 janvier 1994 au 31 octobre 1998 (la « période de 1994 à 1998 »).
+· Les périodes de déclaration de la TPS de la société terminées du 31 janvier 1999 au 31 juillet 2003 (la « période de 1999 à 2003 »).
+[24] L'appelant a présenté un sommaire de la taxe nette de la société et des paiements effectués par cette dernière pendant toutes les périodes pertinentes[3]. En ce qui a trait à la période de 1991 à 1993, l'appelant a souligné que la société a déclaré une taxe nette positive pour chacune de ses périodes de déclaration, mais qu'elle n'a effectué qu'un paiement à l'ARC, soit un montant de 5 664 $ versé le 5 mars 1991. La société n'a toutefois pas versé le montant de taxe nette de 241 749 $ qu'elle a déclaré dans ses déclarations de TPS produites pour les périodes de déclaration terminées au cours de la période de 1991 à 1993.
+[25] Les éléments de preuve de l'intimée[4] à cet égard cadrent avec ceux de l'appelant.
+[26] Bref, à la fin de la période de 1991 à 1993, la société devait 241 749 $ plus les intérêts et les pénalités en ce qui a trait aux versements de TPS en retard.
+[27] Selon les éléments de preuve présentés par l'appelant, la société a déclaré une taxe nette positive pour seize périodes de déclaration sur vingt terminées pendant la période de 1994 à 1998. La taxe nette positive déclarée pour ces seize périodes s'élevait à 140 811 $. Pour les quatre périodes de déclaration restantes, la société a demandé des remboursements s'élevant à 16 925 $[5].
+[28] Selon le témoignage de l'appelant, la société a effectué des paiements qui s'élevaient à 384 687 $ relativement à son compte de TPS pendant la période de 1994 à 1998[6]. Il a témoigné que la société voulait que l'ARC impute d'abord un paiement à la taxe nette positive pour la période de déclaration au cours de laquelle le paiement a été fait à l'ARC. Tout montant excédentaire serait alors imputé aux sommes dues pour des périodes de déclaration antérieures.
+[29] L'appelant a reconnu que la société n'a effectué aucun paiement à l'égard des trois périodes de déclaration trimestrielles de la société terminées les 30 avril 1994, 30 avril 1995 et 30 avril 1996. La société a déclaré une taxe nette positive pour chacune de ces périodes de déclaration.
+[30] La preuve de l'intimée cadre avec celle de l'appelant en ce qui concerne la taxe nette déclarée par la société pendant la période de 1994 à 1998[7]. Cependant, l'intimée ne souscrit pas à la preuve présentée par l'appelant concernant les paiements effectués par la société.
+[31] L'intimée a présenté un tableau généré par ordinateur qui résume l'information contenue dans les dossiers de l'ARC relativement aux paiements effectués par la société[8]. Il y est indiqué que, pendant la période de 1994 à 1998, la société a effectué des paiements à l'ARC s'élevant à 580 928 $. Toutefois, une partie de ce montant, soit 211 040 $, a été payée par des chèques que la banque a retournés en raison d'une insuffisance de fonds dans le compte bancaire de la société. Ainsi, l'intimée affirme que le montant que l'ARC a réellement reçu s'élevait à 369 888 $.
+[32] Je retiens la preuve de l'intimée. Selon les éléments de preuve dont je dispose, certains des montants correspondant à des paiements selon l'appelant ont été payés par des chèques qui ont été retournés par la suite. En outre, l'appelant a reconnu que le montant total établi dans la cotisation est exact. Si tel est le cas, il semble donc raisonnable de conclure que le calcul de l'ARC relatif aux paiements effectués par l'appelant est également exact.
+[33] Selon le témoignage présenté par le témoin de l'intimée, l'ARC imputait les paiements reçus à des périodes de déclaration précises en se fondant sur le bordereau de paiement utilisé par la société. Elle a souligné que, si la société faisait le paiement avec une déclaration de TPS pour une période de déclaration précise (que la déclaration ait été produite ou non dans les délais impartis), l'ARC imputait le paiement à cette période de déclaration. Par contre, si la société ne faisait pas le paiement avec une déclaration de TPS, l'ARC traitait le montant versé comme un paiement d'arriérés et l'imputait aux dettes impayées de la société en commençant par la première période de déclaration de la société pour laquelle cette dernière devait une somme. Elle a souligné que l'ARC fournissait des bordereaux différents pour les paiements faits avec une déclaration et les paiements d'arriérés.
+[34] De l'avis de l'intimée, l'ARC n'a reçu que cinq paiements (totalisant 24 832 $) avec des déclarations produites par la société pour la période de 1994 à 1998. L'ARC a considéré les autres paiements comme des paiements d'arriérés et les a imputés aux dettes impayées de la société en commençant par la première période de déclaration de la société pour laquelle cette dernière devait une somme.
+[35] En résumé, l'appelant estime que le montant établi dans la cotisation a trait à quatre périodes de déclaration de la société qui se sont terminées pendant la période de 1994 à 1998. L'intimée estime que le montant établi dans la cotisation a trait à onze périodes de déclaration de la société qui se sont terminées pendant la période de 1994 à 1998.
+[36] Avant de clore la discussion sur la période de 1994 à 1998, il importe de souligner que la plupart des paiements de la société pendant cette période ont été effectués conformément à des modalités de paiement convenues entre la société et la division du recouvrement de l'ARC. Voici les modalités qui avaient été convenues (même s'il en existait peut‑être d'autres), selon les éléments de preuve dont je dispose :
+· En 1994, la société a convenu de payer 20 000 $ par mois en ce qui a trait à la TPS impayée. Elle a fourni six chèques à l'ARC; tous les chèques ont été retournés par la banque pour insuffisance de fonds.
+· En décembre 1994, la société a fait un paiement de 80 000 $ à l'ARC. Selon le témoignage de l'appelant, son épouse a augmenté l'hypothèque sur la résidence familiale et a fourni l'argent.
+· En septembre 1995, la société a fait un paiement de 108 353 $ à l'ARC. Ce paiement a été effectué conformément à une directive selon laquelle les avocats de la société devaient effectuer le paiement au moyen du produit tiré de la vente du pub Sticky Wicket.
+· Au cours de l'automne 1995, la société a convenu de verser 5 000 $ par mois à l'égard de la TPS impayée. Elle a fourni six chèques à l'ARC, dont trois ont été retournés par la banque pour insuffisance de fonds.
+· Au cours de l'automne 1996, la société a convenu de verser 6 000 $ par mois à l'égard de la TPS impayée. Elle a fourni vingt‑quatre chèques à l'ARC; six d'entre eux ont été retournés par la banque pour insuffisance de fonds.
+[37] En ce qui a trait à la période de 1999 à 2003, il ressort des éléments de preuve présentés par l'appelant que la société a déclaré une taxe nette positive pour douze de ses dix‑neuf périodes de déclaration. La taxe nette positive déclarée pour ces périodes s'élevait à 51 451 $. Pour les sept autres périodes de déclaration, la société a demandé des remboursements s'élevant à 67 420 $.
+[38] D'après le témoignage de l'appelant, un seul paiement a été effectué à l'ARC pendant la période de 1999 à 2003. Il s'agissait d'un paiement de 2 651 $ se rapportant à la période de déclaration de la société terminée le 31 octobre 2000. L'appelant a reconnu que la société n'a effectué aucun paiement concernant les 48 800 $ restants de taxe nette que la société a déclarés pour la période de 1999 à 2003[9].
+[39] La preuve de l'intimée cadre avec celle de l'appelant relativement à la taxe nette et aux remboursements déclarés par la société. Cependant, l'intimée conteste le fait que l'appelant ait effectué un paiement de 2 651 $ pendant la période. Je retiens la preuve de l'intimée sur ce point. Même si l'appelant a présenté des copies de chèques à l'appui des paiements effectués pendant la période de 1994 à 1998, il n'a pas présenté de copie du chèque de 2 651 $ qu'il prétend que la société a fourni à l'ARC pendant la période de 1999 à 2003. De plus, il a reconnu que le calcul de l'intimée relativement au montant que doit la société est exact.
+[40] En somme, la société a omis de verser 51 451 $ de taxe nette en ce qui a trait à ses périodes de déclaration de TPS terminées au cours de la période de 1999 à 2003. Selon l'annexe A de la réponse modifiée, sur les 255 626 $ de la cotisation établie en vertu de l'article 323 de la Loi sur la TPS, 89 371 $ ont trait à la période de 1999 à 2003. Ce montant comporte 51 451 $ de taxe nette, plus les intérêts et les pénalités.
+[41] Ainsi, la question en litige est de savoir si les 166 255 $ restants de la cotisation ont trait aux périodes de déclaration de la société terminées en 1992, en 1993 et en 1994 (thèse de l'appelant) ou à celles terminées en 1995, en 1996, en 1997 et en 1998 (thèse de l'intimée).
+[42] Ainsi que l'a souligné l'avocate de l'intimée, le droit en la matière est bien établi. Voici comment la Cour fédérale, Section de première instance, l'a résumé dans la décision 464734 Ontario Inc. c. La Reine, no T‑1364‑86, 7 mars 1990, 90 D.T.C. 6206, à la page 6215 :
+À défaut de recevoir des directives du débiteur, le créancier est libre d'imputer les sommes d'argent reçues comme bon lui semble. Le débiteur doit expressément autoriser la manière dont les fonds qu'il verse au créancier doivent être imputés et, s'il fait défaut de le faire, il est permis au créancier de décider à sa place [...]
+[43] Je ne dispose d'aucun élément de preuve attestant que l'appelant ou la société ait fourni des directives écrites à l'ARC quant à la façon dont cette dernière devait imputer les paiements. Lors de son témoignage, l'appelant a déclaré avoir indiqué à maintes reprises à des fonctionnaires de l'ARC chargés du recouvrement que les paiements devraient d'abord être imputés aux périodes de déclaration courantes et que l'excédent devrait ensuite être imputé aux montants impayés des périodes de déclaration antérieures[10].
+[44] Lors de son témoignage, Mme Eichenberger a déclaré que l'appelant ne lui a pas fourni de directives quant à la façon de répartir les paiements. Elle a en outre passé en revue les dossiers de l'ARC et n'a pas relevé de document de la société indiquant comment répartir les paiements.
+[45] Si la société avait voulu que des montants soient imputés à certaines périodes de déclaration, il me semble qu'elle aurait fourni des directives par écrit à cet égard lorsqu'elle a effectué les paiements à l'ARC. Il serait normal de s'attendre, à tout le moins, à ce que les paiements élevés effectués en 1994 et en 1995 soient accompagnés de directives écrites, notamment les paiements de 80 000 $ et de 108 353 $.
+[46] Après avoir examiné l'ensemble de la preuve, j'ai conclu que la société n'a pas fourni de directives à l'ARC quant à la façon dont celle‑ci devait imputer les paiements faits par la société.
+[47] Toutefois, cette question n'est pas déterminante quant à l'issue de l'appel. Comme je l'expliquerai, je ne dispose d'aucun élément de preuve attestant que l'appelant ait pris quelque mesure que ce soit, de 1992 à 2003, pour prévenir le défaut de la société de payer sa TPS.
+Le moyen de défense fondé sur la diligence raisonnable
+[48] L'appelant, au cours de son témoignage, et son avocat, au cours de sa plaidoirie, ont insisté sur la conduite de l'appelant en 1992, en 1993 et en 1994. L'avocat de l'appelant a fait valoir que ce dernier, au cours de ces années, a agi avec diligence pour prévenir le défaut de la société de verser la taxe pour les périodes de déclaration de la société terminées ces années‑là.
+[49] Lors de son témoignage, l'appelant a déclaré qu'il dirigeait la société et préparait les rapports financiers de celle‑ci de 1991 à 2003, date de la cessation des activités de la société. Il a également reconnu avoir préparé 90 p. 100 des déclarations de TPS. C'est le commis comptable de la société qui a préparé les autres déclarations de TPS, que l'appelant a examinées, puis produites.
+[50] En contre‑interrogatoire, l'appelant a admis que la société a produit un certain nombre de déclarations de TPS en retard. C'est le moins que l'on puisse dire. La pièce R8 renferme un historique de la production pour les trente‑cinq périodes de déclaration trimestrielles de TPS de la société terminées du 1er novembre 1994 au 31 juillet 2003. La société a déclaré une taxe nette positive pour vingt‑six périodes de déclaration. Pendant ces neuf années, trente‑trois déclarations de TPS de la société sur trente‑cinq ont été produites en retard. Bon nombre des déclarations ont été produites au moins une année après la date prévue.
+[51] L'appelant a témoigné s'être rendu compte pour la première fois que la société accusait un retard dans ses versements de TPS pendant l'été 1991. Puisque c'est lui qui préparait et produisait les déclarations et qui dirigeait la société, il est évident qu'il était au courant du manquement de la société le 31 mai 1991, date limite à laquelle la société devait produire la déclaration pour sa deuxième période de déclaration, et du fait que la société avait omis de verser un montant d'au moins 20 000 $ de sa taxe nette pour cette période.
+[52] L'appelant a déclaré que la société a réagi à son défaut de verser la TPS en mettant un frein à ses projets d'expansion et en réduisant le nombre d'employés dans les pubs et au siège social. Il a souligné que la récession de 1992 avait donné lieu à un resserrement important du crédit, ce qui avait donc limité la capacité de la société à réunir des fonds.
+[53] Le témoin a déclaré avoir pris les mesures suivantes pour limiter ou empêcher les versements tardifs :
+· Le démarrage des activités s'est fait à l'aide d'un plan d'affaires rigoureux.
+· La société jouissait d'un d'apport financier adéquat et elle constituait un concept reconnu.
+· La société a mis en place un système comptable adéquat.
+· Lorsque la société s'est rendu compte que la situation ne s'améliorerait pas, elle a commencé à vendre les pubs lorsque le marché du crédit s'est amélioré.
+[54] Aucune de ces mesures ne constitue un moyen de défense fondé sur la diligence raisonnable en vertu du paragraphe 323(3) de la Loi sur la TPS. Ainsi que l'a souligné la Cour d'appel fédérale dans l'arrêt Buckingham, l'obligation de soin prévue au paragraphe 323(1) de la Loi sur la TPS vise à prévenir les défauts de versement de la taxe nette d'une société. Elle a déclaré que, pour invoquer le moyen de défense prévu au paragraphe 323(3), « [...] l'administrateur doit [...] démontrer qu'il s'est préoccupé des versements requis et qu'il s'est acquitté de son obligation de soin, de diligence et d'habileté afin de prévenir le défaut de la société de verser les montants visés »[11].
+[55] Je ne dispose d'aucune preuve attestant que l'appelant ait pris quelque mesure que ce soit afin de prévenir le défaut de la société de verser sa taxe nette positive. La preuve dont je dispose indique plutôt que c'est l'appelant qui a décidé de ne pas verser la taxe. Il ressort de la preuve que celui‑ci en a décidé ainsi afin de continuer à exploiter les pubs, dans l'espoir, semble‑t‑il, que la situation financière de la société s'améliore ou que les pubs puissent être vendus.
+[56] L'appelant et son avocat ont accordé énormément de poids à la vente des pubs. Dans son témoignage, l'appelant a souligné que la société a utilisé le produit de la vente des pubs pour payer la TPS en souffrance. L'avocat de l'appelant a fait valoir que ce dernier a démontré qu'il avait agi avec diligence en vendant les pubs afin d'amasser les fonds nécessaires pour payer la TPS.
+[57] Les éléments de preuve dont je dispose n'étayent pas une conclusion de fait selon laquelle la société a utilisé le produit de la vente des pubs pour payer la TPS en souffrance.
+[58] Les quatre pubs ont été vendus d'octobre 1994 à l'été 1996. L'appelant a témoigné que les ventes ont permis d'amasser un produit brut de 750 000 $ et un produit « net » de 433 000 $ (après avoir remboursé les prêteurs garantis, les locateurs et d'autres créanciers). Il a déclaré que la société a utilisé le produit net pour payer la dette de TPS.
+[59] Toutefois, d'octobre 1994 à la fin 1996, la société n'a payé que 230 353 $ relativement à ses versements de TPS en souffrance. L'appelant a déclaré que, sur les 230 353 $, 80 000 $ provenaient d'une seconde hypothèque sur sa résidence, ce qui signifie que 150 000 $, tout au plus, provenaient de la vente des pubs. Ce montant ne représente que 20 p. 100 du produit brut réalisé sur la vente des pubs. D'après la preuve dont je dispose, j'estime donc que la société a utilisé 80 p. 100 du produit de la vente pour payer des dettes de la société et financer les activités courantes de consultation de la société.
+[60] Le témoignage présenté par l'appelant relativement à la vente des pubs et à l'utilisation du produit de la vente a sérieusement nui à sa crédibilité.
+[61] Quoi qu'il en soit, les gestes posés par l'appelant en continuant à exploiter les pubs pendant trois ans tout en omettant de verser au‑delà de 240 000 $ de TPS dans l'espoir de remédier à ce défaut de versement si les affaires reprenaient ou si les pubs étaient vendus ne constituent pas un moyen de défense selon le paragraphe 323(3) de la Loi sur la TPS. Voici ce que la Cour d'appel fédérale a déclaré dans l'arrêt Buckingham :
+[...] Une société qui fait face à des difficultés financières pourrait s'hasarder à réaffecter les versements dus à la Couronne afin de payer d'autres créanciers et ainsi assurer la poursuite de ses activités. C'est précisément une telle conjoncture que les articles 227.1 de la Loi de l'impôt sur le revenu et 323 de la Loi sur la taxe d'accise visent à éviter. Le moyen de défense prévu au paragraphe 227.1(3) de la Loi de l'impôt sur le revenu et au paragraphe 323(3) de la Loi sur la taxe d'accise ne devrait pas servir à encourager de tels défauts de versement en permettant aux administrateurs d'invoquer une défense de diligence raisonnable lorsqu'ils financent les activités de leur société à l'aide de remises dues à la Couronne, en espérant remédier plus tard à ces défauts[12].
+[62] L'appelant n'a pas fourni de preuve des mesures qu'il a prises pour prévenir les défauts de versement de TPS de la société pendant les années suivant la vente des pubs. C'est surprenant, puisque l'appelant reconnaît que le montant de cotisation inclut, à juste titre, 88 371 $ afférents à la période de 1999 à 2003. Selon le témoignage de l'appelant lui‑même, la société a omis de payer la taxe nette incluse dans le montant de 88 371 $ (le reste représentant les intérêts et les pénalités).
+[63] En résumé, je ne dispose d'aucune preuve attestant que l'appelant ait pris quelque mesure qui soit au cours de la période de douze ans en cause afin de prévenir le défaut de la société de verser sa taxe nette positive. En fait, il ressort clairement de la preuve dont je dispose que l'appelant a pris la décision de ne pas verser la taxe. Celui‑ci a considéré la TPS exigée sur les ventes comme faisant partie du revenu de la société. Il a considéré la taxe nette positive pour une période de déclaration de TPS particulière de la société comme une dépense devant être cumulée et payée seulement lorsque la société détenait des fonds excédentaires.
+[64] Pour les motifs énoncés ci-dessus, l'appel est accueilli avec dépens adjugés à l'intimée. La cotisation du 14 avril 2008 est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l'appelant est tenu, en vertu du paragraphe 323(1) de la Loi sur la TPS, de payer 255 625,81 $.
+Signé à Ottawa, Canada, ce 21e jour de septembre 2012.
+« S. D'Arcy »
+Le juge D'Arcy
+Traduction certifiée conforme
+ce 7e jour de janvier 2013.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2012 CCI 333
+NO DU DOSSIER DE LA COUR : 2010-1646(GST)G
+INTITULÉ : LANCE ANDERSON c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 16 mai 2012
+MOTIFS DU JUGEMENT : L'honorable juge Steven K. D'Arcy
+DATE DU JUGEMENT : Le 21 septembre 2012
+COMPARUTIONS :
+Avocat de l'appelant :
+Me David M. Piccolo
+Avocate de l'intimée :
+Me Roxanne Wong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : David M. Piccolo
+Cabinet : David M. Piccolo
+Toronto (Ontario)
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L'appelant détenait ses actions, directement et indirectement, par l'intermédiaire d'une société de portefeuille.
+[2] R. c. Buckingham, 2011 CAF 142 (« Buckingham »).
+[3] Pièce A6.
+[4] Pièce R9.
+[5] Pièce A6.
+[6] Pièces A6 et A3.
+[7] Pièce R9.
+[8] Ibid.
+[9] Voir la pièce A6.
+[10] Transcription, pages 31 et 32.
+[11] Buckingham, précité, au paragraphe 40.
+[12] Buckingham, précité, au paragraphe 49.

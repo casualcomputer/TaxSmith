@@ -1,0 +1,331 @@
+---
+title: "Valiant Cleaning Technology Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28977/index.do"
+last_modified: "2008-11-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 637"
+citation2: ""
+neutral_citation: "2008 CCI 637"
+decision_date: "2008-11-21"
+language: "fr"
+item_id: "28977"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6787
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:11:09.410000+00:00"
+cases_cited_count: 2
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ba7544dfe3ab8adff007492c89601cb8d9feeb41bce0ef586858614d481c13dc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Valiant Cleaning Technology Inc. c. La Reine
+
+- Citation: 2008 CCI 637
+- Decision date: 2008-11-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6787, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Valiant Cleaning Technology Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-21
+Référence neutre
+2008 CCI 637
+Numéro de dossier
+2006-924(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006‑924(IT)G
+ENTRE :
+VALIANT CLEANING TECHNOLOGY INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 28 et 29 mai 2008, à Windsor (Ontario).
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Avocats de l’appelante :
+Me Wilfrid Lefebvre, c.r.
+Me Dominic C. Belley
+Avocate de l’intimée :
+Me Susan Shaughnessy
+JUGEMENT MODIFIÉ
+Les appels interjetés à l’égard de la décision rendue le 30 décembre 2004 sous le régime de la Loi de l’impôt sur le revenu, relativement aux années d’imposition se terminant le 28 février 2000 et le 28 février 2002, sont accueillis, avec dépens au titre d’un seul mémoire d’honoraires d’avocats, et la décision est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci‑joints.
+Le présent jugement modifié remplace le jugement daté du 21 novembre 2008.
+Signé à Ottawa, Canada, ce 8e jour de décembre 2008.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+Ce 11e jour d’août 2011.
+François Brunet, réviseur
+Référence : 2008 CCI 637
+Date : 20081208
+Dossier : 2006‑924(IT)G
+ENTRE :
+VALIANT CLEANING TECHNOLOGY INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+La juge Campbell
+[1] Les présents appels intéressent les années d’imposition de l’appelante se terminant le 28 février 2000 et le 28 février 2002.
+[2] Les parties ont produit un exposé conjoint partiel des faits, lequel est joint aux présents motifs à l’annexe « A ». L’appelante a reconnu que le montant initial de l’investissement au titre de l’acquisition d’actions, soit 1 031 450 $, ainsi que les deux premières avances de 780 150 $ et de 531 930 $ consenties à sa filiale, soit une somme totale de 2 343 530 $, constituaient des activités de capitalisation (voir le diagramme au paragraphe 11 de l’exposé conjoint partiel des faits). En d’autres termes, il s’agit strictement de pertes en capital susceptibles d’être déduites des gains en capital. Ce sont les pertes au titre des avances de fonds subséquentes totalisant 12 639 732 $ 11 327 652 $ qui, selon l’appelante, doivent légitimement être assimilées à des pertes courantes et donc être défalquées de son revenu.
+[3] La question dont je suis saisie est simple : l’appelante peut‑elle traiter les avances de fonds subséquentes qu’elle a consenties à sa filiale comme des pertes courantes ou des pertes autres que des pertes en capital?
+[4] Les activités de l’appelante touchent à la conception et à la fourniture de laveuses à pression industrielles très spécialisées destinées à l’industrie automobile. Ces machines lavent et nettoient les éléments de la chaîne de montage afin d’éliminer tous les débris se trouvant sur le produit fini. L’appelante est reconnue comme un fournisseur de niveau 1 au sein de cette industrie. Sa principale cliente est la société Ford du Canada Limitée (« Ford »). Selon le témoignage de Michael Solcz, père, l’appelante est l’un des seuls fournisseurs au Canada dans ce domaine de l’industrie automobile et le seul fournisseur de niveau 1 dans la région de Windsor.
+[5] Dans les années 90, tous les principaux acteurs de l’automobile, y compris Ford, ont mis en œuvre un plan de mondialisation visant notamment à réduire le nombre de fournisseurs de niveau 1 offrant chacun des produits à l’échelle mondiale au sein de l’industrie. Les fournisseurs de niveau 1 étaient les sociétés auxquelles s’adressaient directement ces principaux acteurs pour l’exécution de certains contrats. Les fournisseurs des niveaux inférieurs, soit les niveaux 2 et 3, fournissaient les produits au groupe de fournisseurs de niveau 1. La preuve montre clairement que le fournisseur de niveau 1 se trouvait dans la situation la plus enviable tant sur le plan du volume d’activités que des recettes. Par suite d’une décision visant à réduire le nombre de fournisseurs de niveau 1, on a exigé que ces derniers soient présents non seulement en Amérique du Nord, mais aussi en Europe. L’appelante avait déjà entamé son propre processus de mondialisation puisqu’elle s’était implantée aux États‑Unis à la fin des années 80.
+[6] Sur une période de quelques mois, des rencontres ont eu lieu avec les fournisseurs de niveau 1 d’alors. Certains d’entre eux ont abandonné le plan de mondialisation parce qu’ils ne pouvaient ou ne voulaient pas satisfaire aux exigences. Selon Michael Solcz, père, il était impératif que l’appelante demeure un fournisseur de niveau 1 puisque [TRADUCTION] « […] dans le cas contraire, nous perdrons Ford comme client » (transcription, page 135). Il ressort en outre sans équivoque de son témoignage que l’appelante possédait des connaissances et une accréditation en matière de techniques de nettoyage que les sociétés européennes n’avaient pas, ce qui constituerait un avantage certain pour Ford dans le cadre de son plan de mondialisation. Cela permettait d’assurer l’uniformité, à l’échelle mondiale, du matériel produit par l’industrie automobile.
+[7] L’appelante ayant décidé de demeurer un fournisseur de niveau 1, Ford lui a fait part du nom de différentes relations européennes susceptibles de l’aider à faire d’éventuelles acquisitions et à ainsi se conformer à ce qu’on exigeait d’elle : s’établir en Europe. La première société a été acquise en 1995 et se trouvait en Belgique. L’appelante s’est ensuite concentrée sur un groupe situé au Royaume‑Uni (« R.‑U. ») et oeuvrant dans le domaine du nettoyage industriel, Reiss‑Elan. Cette société ne s’intéressait plus au nettoyage industriel et pouvait donc être achetée. Reiss‑Elan avait une clientèle européenne établie auprès de Ford, de BMW et de Mercedes. Elle a été acquise en 1996, et le Valiant Group au Canada a par la suite constitué Valiant Elan Systems Limited (U.K.) (« Elan ») en société. Elan est devenue une filiale, au R.‑U., de Valiant Elan Systems Limited (Canada), laquelle a ultérieurement changé sa dénomination pour s’appeler Valiant Cleaning Technology Inc., soit l’appelante dans les présents appels. L’appelante pouvait ainsi mieux répondre aux besoins de ses clients existants et éventuels, tant en Amérique du Nord qu’en Europe.
+[8] Entre 1999 et 2001, l’appelante a fait des avances de fonds à Elan pour permettre à celle‑ci de respecter ses contrats en cours. À la date d’acquisition de la société Elan, celle‑ci éprouvait certaines difficultés parce que, malgré ses projets en cours, elle n’arrivait toujours pas à réaliser des profits. En mai 2000, la banque a exigé de l’appelante qu’elle refinance Elan et des avances ont été consenties de sorte que les projets puissent se poursuivre et être menés à terme. Les découverts bancaires d’Elan ont subséquemment été garantis par l’appelante pour tenter de couvrir ces frais d’exploitation. On donne un aperçu de ces opérations financières au paragraphe 11 de l’exposé conjoint partiel des faits. Selon Tony Parete (vice‑président directeur), les avances ont été faites pour que les projets initialement entrepris par Elan puissent être terminés. Les avances ont servi à acquérir du matériel de même qu’à payer la main‑d’œuvre et les frais généraux de sorte que les contrats des clients ne soient pas abandonnés. M. Parete a expliqué qu’une fois qu’une commande était reçue d’un client, le matériel de nettoyage devait être conçu, fabriqué, livré et, enfin, installé sur le plancher des installations du client. Les états financiers de l’appelante révèlent qu’entre 1997 et 1998, le montant des avances a augmenté de façon appréciable, ce qui, selon le témoignage de M. Parete, était attribuable aux projets plus importants d’Elan. Finalement, ces avances ont été converties en billets portant intérêt à recevoir. Lorsqu’on lui a demandé si ces avances constituaient un investissement dans la filiale, M. Parete a répondu qu’elles avaient été faites [TRADUCTION] « […] pour payer des travaux effectués dans le cadre de projets en cours en Angleterre […] [y compris] des dépenses courantes » (transcription, page 223).
+[9] En 1999, Elan éprouvait de sérieuses difficultés financières, attribuables encore une fois à des problèmes liés à la réalisation de ses projets. Ces problèmes, nombreux, touchaient à l’établissement des prix et à des questions techniques, comme l’ingénierie et la conception, et s’étendaient à la construction même du matériel de nettoyage. À certaines occasions, des employés canadiens se sont rendus au R.‑U. pour aider à la remise en fabrication du matériel, ce qui a donné lieu à des coûts accrus et à des pertes. En outre, certains des contrats au R.‑U. ont subséquemment été terminés au Canada et cette situation a entraîné des conséquences défavorables sur la capacité d’Elan à respecter ses obligations financières. À la suite d’une réduction de valeur d’environ 7 400 000 $ en 2000, on a décidé d’envoyer de nouvelles avances à Elan parce que, selon M. Parete, cette dernière avait reçu d’autres projets en raison de la confiance qu’elle inspirait à ses clients. Ces nouveaux projets devaient être menés à terme pour préserver la réputation de l’appelante au sein de l’industrie automobile et en particulier auprès de Ford, faute de quoi l’appelante se verrait [TRADUCTION] « […] rétrogradée à la situation de non‑fournisseur », selon le témoignage de M. Parete (transcription, page 231).
+[10] À la note 6 aux états financiers relatifs à la période se terminant le 28 février 2001, l’appelante indique que son investissement dans Elan était nul. Dans son témoignage, M. Parete a déclaré que la réduction de valeur à néant de l’investissement découlait de l’effet cumulatif de pertes subies pendant un certain nombre d’années et de la décision voulant qu’une reprise soit impossible. En 2001, une réduction de valeur d’environ 13 600 000 $ avait eu lieu. Vers la même époque, on a également décidé de fermer les installations situées au R.‑U. parce qu’Elan n’était tout simplement pas en mesure de réaliser des profits dans le cadre de ses projets.
+[11] Vers la fin de son témoignage, M. Parete a examiné les résumés des ventes faites par l’appelante en 1997, en 1998 et en 1999 et il a signalé les nombreuses ventes que l’appelante a réalisées au Canada grâce à sa présence au R.‑U.
+[12] Jusqu’à 2004, l’appelante a qualifié ces pertes de pertes en capital dans ses états financiers et elle les a déclarées comme telles dans ses déclarations de revenus. Au cours d’une vérification effectuée en 2004, ces pertes ont fait l’objet d’une nouvelle qualification comme dépenses courantes conformément à l’avis de Nick Sauro (directeur financier), lequel venait juste d’être engagé par Valiant Group. Lorsque l’Agence du revenu du Canada (« ARC ») a refusé d’assimiler les pertes à des pertes courantes, l’appelante a présenté au ministre une demande de détermination de pertes, ce qui lui permettait de produire des avis d’opposition quant au traitement fiscal des pertes.
+[13] J’ai entendu onze témoins, dont dix appelés par l’appelante et un appelé par l’intimée. Susan Swiatoschik, contrôleuse de gestion de l’appelante, a participé à l’élaboration des déclarations de revenus et des états financiers de l’appelante. Elle a notamment témoigné au sujet de la nouvelle qualification, en 2004, à titre de dépenses courantes, des pertes antérieurement désignées comme des pertes en capital. Elle a également fait état de l’objectif visé par les avances que l’appelante a consenties à sa filiale. Dans son témoignage, Nick Sauro a également mentionné pourquoi l’appelante avait continué de verser des avances à une filiale qui se trouvait dans une situation financière très difficile. Michael Solcz, père, fondateur de l’entreprise, a présenté un historique intéressant de l’industrie en général ainsi que du lancement et de l’évolution de l’entreprise, qui est passée de petit atelier dans les années 50 à fournisseur de niveau 1 auprès de géants de l’automobile, dont Ford et GM, par la suite. Il a en outre témoigné au sujet de l’objectif visé par ces avances. Ses trois fils, Michael, Len et Marty, participent tous à l’entreprise et ils ont témoigné relativement au projet de mondialisation. Tony Parete, vice‑président directeur de l’appelante et un des principaux acteurs dans la décision de continuer à envoyer des avances à la filiale, a témoigné sur les raisons à l’origine de l’acquisition de la filiale du R.‑U. et des avances subséquentes versées à celle‑ci. Dennis Staudt et Thomas O’Brien, tous deux comptables agréés chez Price Waterhouse Coopers, ont formulé des opinions de vérificateur quant aux états financiers de l’appelante et ont, respectivement, offert des conseils en matière de planification fiscale pendant les années frappées d’appel. Ils ont tous deux témoigné au sujet du traitement et de la nouvelle qualification des pertes. Dans son témoignage, Timothy Moore, superviseur des services hiérarchiques chez Ford du Canada Limitée pendant les périodes frappées d’appel, a parlé des rencontres tenues entre Ford et ses fournisseurs quant à l’exigence de mondialisation.
+[14] Le témoin de l’intimée, Stanley Kerr, analyste financier de M. Parete, a reconnu plusieurs documents faisant état de ses prévisions, en date du 27 novembre 2000, relatives à la filiale, Elan.
+[15] L’appelante soutient que les avances versées à Elan, sous réserve des concessions faites au début de l’audience, faisaient partie intégrante de ses activités génératrices de revenu. Les dépenses étaient engagées par l’appelante pour son propre compte, mais par l’entremise de la filiale du R.‑U. afin d’établir une présence mondiale de sorte qu’elle puisse demeurer un fournisseur de niveau 1 au sein de l’industrie automobile. Les avances ont été faites à Elan pour le bénéfice ou dans l’intérêt de l’appelante et en particulier pour protéger le flux de rentrées au Canada. L’appelante ne tentait pas ainsi d’investir dans l’entreprise du R.‑U. ni de capitaliser cette dernière.
+[16] L’intimée fait valoir que l’appelante avait à l’origine adéquatement qualifié les avances de fonds de pertes en capital dans le traitement comptable et fiscal de ces sommes. La nature de ces pertes ne peut être modifiée, pas plus que la nature juridique de la relation qui existe entre l’appelante et Elan à titre d’entités juridiques distinctes. La forme importe en matière fiscale. L’appelante détenait des actions et des billets portant intérêt qui étaient imputables au capital. Il s’agissait, de la part de l’appelante, d’une simple décision d’affaires de prendre de l’expansion à l’échelle mondiale, d’acquérir la filiale et de lui avancer un fonds de roulement afin de poursuivre ses propres activités. L’intimée allègue que ces faits sont les mêmes que ceux des affaires Stewart & Morrison Limited v. Minister of National Revenue, 72 DTC 6049, et Cathelle Inc. v. The Queen, 2005 DTC 858. Même si l’appelante était contrainte d’établir une présence mondiale en Europe, elle devait viser une présence à long terme. Par conséquent, les avances consenties à Elan constituaient des avances au titre du capital et ne peuvent être assimilées à une dépense d’entreprise engagée en vue de gagner un revenu. L’appelante ne tombe pas sous le coup des exceptions reconnues auxquelles est assujettie la présomption générale voulant que les pertes de la nature de celles en litige en l’espèce soient des pertes au titre du capital. Les avances ne peuvent pas être reliées au revenu de l’appelante et il s’agit donc de dépenses en capital sous forme d’actions et de billets. Plus précisément, l’intimée allègue ce qui suit au paragraphe 25 de sa réponse :
+[TRADUCTION]
+L’appelante n’est pas un bailleur de fonds, elle n’a pas accordé un crédit à un client et elle ne détenait pas des actions et des billets émis par sa filiale du R.‑U. à titre de négociant ou dans le cadre d’un projet comportant un risque de caractère commercial.
+[17] Enfin, l’intimée avance que l’appelante a choisi d’acquérir une entité juridique distincte en investissant dans les actions d’Elan et en émettant des billets à recevoir, alors qu’elle aurait pu établir sa propre succursale européenne, ce qui lui aurait permis d’inclure les revenus ou les pertes de cette succursale dans son revenu canadien.
+Analyse
+[18] La question de savoir si une dépense est engagée au titre du capital ou si elle doit être imputée au compte courant est en grande partie une question de fait. L’appelante a concédé que l’investissement initial dans les actions d’Elan en 1996 et les deux premières avances avaient été versées au titre du capital dans le cadre de l’expansion au R.‑U. Elle a mentionné qu’à l’origine, l’acquisition initiale et les deux premières avances avaient pour objet d’obtenir un avantage tant pour l’entreprise canadienne que celle du R.‑U. au moyen du revenu généré par la filiale, Elan. Il faut alors se demander si l’intention de l’appelante, lorsqu’elle a consenti les avances subséquentes entre 1999 et 2001, avait changé, ce qui permettrait d’affirmer avec raison que ces avances doivent être imputées au compte courant. La conclusion suivante s’imposerait donc : ces avances, même si elles ont été acheminées par l’intermédiaire de l’entreprise au R.‑U., profitaient en réalité à l’entreprise canadienne.
+[19] L’appelante est confrontée à deux difficultés à cet égard. Premièrement, les avances ont initialement été traitées comme des dépenses en capital tant dans ses livres comptables que dans ses déclarations de revenus. Par suite d’un changement dans le personnel administratif de la société, elles ont fait l’objet d’une nouvelle qualification voulant qu’il s’agisse de pertes autres que des pertes en capital. Deuxièmement, les avances ont été consenties pendant un certain nombre d’années à une entité juridique distincte, située au R.‑U., dont l’appelante détenait des actions et des billets.
+[20] À la lumière de mon examen des faits et des principes généraux qui doivent être pris en compte, je conclus que l’appelante a réussi à surmonter ces deux obstacles. La preuve selon laquelle l’appelante se voyait dans l’obligation d’acquérir une présence mondiale non seulement aux États‑Unis, mais aussi en Europe, si elle voulait demeurer un fournisseur automobile de niveau 1 n’est pas contredite. Des décisions d’affaires ont été prises pour donner suite au plan de mondialisation qui, dans une grande mesure, avait été imposé à tous les fournisseurs de niveau 1 par les principaux acteurs de l’industrie automobile. Les fournisseurs de niveau 1 devaient décider s’ils montaient à bord du train de la mondialisation, que les géants de l’automobile avaient orchestré et imposé, ou s’ils se contentaient d’être des fournisseurs de niveau 2 ou de niveau 3. Pour être concurrentielle et pour protéger son flux de rentrées, en particulier avec son principal client, Ford, l’appelante a décidé de mondialiser ses activités et, à la suite d’une suggestion de Ford, elle a finalement acquis l’entreprise du R.‑U., Elan. Manifestement, au début, l’appelante avait l’intention de s’implanter sur le marché du R.‑U. au moyen de son investissement dans Elan. L’acquisition d’actions et les deux premières avances sont légitimement qualifiées de dépenses en capital. Il ne fait aucun doute que ces premiers apports de fonds visaient à financer l’exploitation de la filiale. Il faut se rappeler que, dès le départ, Elan se trouvait aux prises avec certaines difficultés financières et avait besoin de ces avances. Elan avait les contrats des projets et les clients, mais demeurait incapable de générer un profit pour un certain nombre de raisons. Cependant, la preuve laisse entendre que l’appelante a pris la décision d’affaires d’unir ces deux sociétés en vue d’une croissance mondiale lui permettant d’offrir des services à un plus large éventail de clients.
+[21] À l’origine, ces sociétés [TRADUCTION] « se complétaient bien » (transcription, page 137) et l’acquisition d’Elan a fait en sorte que l’appelante puisse passer à l’étape suivante du plan plus vaste de Ford. Au cours des dix premiers mois de l’exploitation d’Elan qui ont suivi l’acquisition, on a réussi à atteindre le seuil de rentabilité, selon M. Parete, et, surtout, on pouvait compter sur des commandes en attente. Il n’est donc pas étonnant que deux avances plus importantes aient été versées à Elan, et l’appelante, avec raison selon moi, a jugé qu’il s’agissait d’avances au titre du capital. Toutefois, comme il arrive souvent dans le monde des affaires, les plans les mieux élaborés ne produisent pas toujours les résultats escomptés. Elan a subi des difficultés financières croissantes, même si elle conservait des projets et des clients. Le simple bon sens commercial et le sens commun permettent de penser que l’appelante aurait dû faire le point sur ses pertes et fermer Elan, mais elle a choisi d’agir autrement. Elle a plutôt continué de verser d’importantes avances à Elan. Pour pouvoir expliquer pourquoi, il est impératif d’examiner l’historique de ces avances à la lumière de la situation plus générale dans laquelle se trouvaient à la fois l’appelante et Elan.
+[22] Je crois que la nature de ces avances a changé. Les avances, initialement faites au titre du capital, sont devenues des dépenses engagées uniquement pour protéger le flux de rentrées de l’entreprise canadienne. À cet égard, j’estime que la présente affaire est unique en raison des faits qui lui sont propres. Ma conclusion voulant que ces avances aient changé de nature après un certain temps ne vise nullement à laisser croire que ma décision pourrait servir à permettre la déductibilité du financement des activités entre une société mère canadienne et sa filiale étrangère.
+[23] Selon la jurisprudence, il m’incombe de vérifier s’il existe des facteurs tant subjectifs qu’objectifs pour décider de la nature dominante de ces avances et au bénéfice de qui elles ont été consenties. En ce qui concerne le facteur subjectif, l’intention de l’appelante au moment où elle a engagé ces dépenses est fondamentale. De toute évidence, il devrait alors exister des facteurs objectifs qui confirment cette intention. L’intimée me demande d’examiner le traitement comptable et fiscal de ces avances pour que je puisse m’assurer objectivement de l’existence de cette intention. Dans les trois arrêts suivants : Canderel Ltée c. Canada, [1998] 1 R.C.S. 147, Ikea Ltd. c. Canada, [1998] 1 R.C.S. 196, 98 DTC 6092, et Toronto College Park Ltd. c. Canada, [1998] 1 R.C.S. 183, la Cour suprême du Canada a déclaré sans équivoque que les principes comptables généralement reconnus ne sont que des outils d’interprétation qui peuvent, ou non, refléter la réalité financière d’un contribuable. L’intimée a reconnu que les états financiers et les déclarations de revenus ne révèlent pas nécessairement dans chaque cas l’intention du contribuable. Ces documents peuvent être utiles, mais il ne s’agit pas de règles de droit et ils n’auront jamais un caractère absolument déterminant.
+[24] Les témoignages de tous les témoins appelés par l’appelante établissent de façon nette qu’on a pris la décision de continuer à verser des avances même s’il était évident qu’elles ne seraient jamais recouvrées sous forme d’un remboursement. En réalité, les dernières avances ont été radiées presque immédiatement. Je ne puis examiner le seul traitement documentaire de ces pertes hors de tout contexte. Si j’étais tentée de le faire, et je ne le suis pas, je ferais fi de la preuve objective d’un ensemble de témoins qui ont tous confirmé que ces avances avaient été consenties pour protéger le revenu de l’entreprise canadienne. À partir de 1999, les avances n’ont pas été faites pour assurer la poursuite de l’existence fructueuse d’Elan, ce qui se traduirait par l’obtention d’un avantage à caractère durable au R.‑U. Pendant le contre‑interrogatoire, Mme Swiatoschik a mentionné que la nature des avances, qui étaient de [TRADUCTION] « véritables avances » au cours des années initiales, a changé à partir du moment où il est devenu nécessaire de [TRADUCTION] « sauver la face auprès d’un client » et de préserver la réputation du groupe Valiant dans les années ultérieures (transcription, pages 81 et 82). Lorsqu’on lui a demandé pourquoi il avait été nécessaire de verser ces avances, Michael Solcz, père, a répondu [TRADUCTION] « nous n’avions pas le choix parce que nous aurions perdu l’entreprise ici [au Canada] » (soulignement et précision ajoutés) (transcription, page 139). M. Solcz a en outre affirmé ce qui suit :
+[TRADUCTION]
+Nous ne pouvions donc faire autrement puisque, si nous ne menons pas le projet à terme, ce qu’il nous arrive à cause de General Motors ou Ford, vous savez, il y avait une menace de fermeture et nous ne pouvions en aucun cas nous permettre de ne plus être en affaires.
+(Transcription, page 144.)
+Tony Parete (vice‑président directeur) a aussi confirmé que le groupe Valiant estimait qu’il n’avait d’autre choix que de terminer les projets au R.‑U. afin de préserver sa réputation. À la page 229 de la transcription, il mentionne :
+[TRADUCTION]
+[…] [N]ous devons terminer les projets. Nous ne pouvions pas laisser tomber les clients parce que, lorsqu’ils veulent lancer un programme, ils dépendent de tous leurs fournisseurs et, si vous ne satisfaites pas aux exigences de ce lancement, c’est‑à‑dire qu’ils vous font rapidement passer à un niveau inférieur comme fournisseur s’ils ne peuvent pas compter sur vous. Nous devions donc nous assurer de répondre à leurs exigences à notre égard.
+[25] Dans l’arrêt Shell Canada Ltée. c. Canada, [1999] 3 R.C.S. 622, 99 DTC 5669, la Cour suprême du Canada énonce deux précisions qui doivent être apportées à la règle générale voulant que la réalité économique d’une opération l’emporte sur sa forme juridique :
+1. La réalité économique d’une situation ne peut jamais justifier une nouvelle qualification des rapports juridiques véritables établis par le contribuable. Une nouvelle qualification n’est possible que lorsque la désignation de l’opération par le contribuable ne reflète pas convenablement ses effets juridiques véritables.
+2. Lorsque la disposition en cause est claire et non équivoque, elle doit simplement être appliquée. Elan était exploitée à titre d’entité juridique du R.‑U. distincte de l’appelante. L’intimée invoque ces rapports juridiques pour étayer son argument selon lequel les avances étaient de nature capitale parce qu’elles ont été faites uniquement pour l’acquisition des actions et pour le bénéfice d’Elan. Cependant, au paragraphe 47 de l’arrêt Shell, Mme la juge en chef McLachlin tient les propos suivants :
+[…] Pourtant, comme le juge en chef Dickson l’a dit clairement dans l’arrêt Bronfman Trust, précité, à la p. 46, la raison pour laquelle un mode d’emprunt est préféré à un autre importe peu pour l’application du sous‑al. 20(1)c)(i). Ce qui est déterminant, c’est l’utilisation de la somme empruntée. La raison pour laquelle l’opération d’emprunt est structurée comme elle l’est n’a pas d’importance, pas plus d’ailleurs que la raison pour laquelle l’argent est emprunté.
+Il ressort sans équivoque de cet extrait que l’utilisation des fonds revêt la plus haute importance pour trancher la question de la déductibilité. Ma conclusion en l’espèce voulant que, selon la prépondérance des probabilités, les avances de fonds aient principalement eu pour objet de préserver le flux de rentrées de l’appelante est conforme à l’énoncé de la Cour suprême dans l’arrêt Shell. Comme l’ont laissé entendre les témoins, la protection de ce flux de rentrées passe évidemment en partie par la satisfaction de la clientèle de l’appelante et par la sauvegarde de la réputation de cette dernière. En concentrant ses efforts sur l’obtention de ces résultats ultimes, l’appelante protégeait sa qualité de fournisseur de niveau 1 – son objectif premier. Elan n’en retirerait aucun bénéfice ou, dans le cas contraire, il s’agissait uniquement d’un avantage à caractère accessoire et des plus mineurs puisque cette société allait à la faillite.
+[26] L’intimée m’a renvoyée à l’arrêt Stewart & Morrison Ltd. c. M.R.N., [1974] R.C.S. 477, où des avances consenties à une filiale américaine avaient été traitées comme des prêts dans les livres comptables, et où la Cour avait conclu que la société mère avait fourni un fonds de roulement à sa filiale pour permettre à celle‑ci de démarrer et de poursuivre ses opérations. À première vue, ces faits peuvent paraître analogues à ceux en l’espèce. Cependant, comme tous ces pourvois reposent sur les faits qui leurs sont propres, certains facteurs permettent de les distinguer de l’affaire dont je suis saisie. Dans l’arrêt Stewart & Morrison, la contribuable appelante avait établi une filiale américaine pour qu’elle poursuive des activités en son propre nom et lui procure une source de revenu et de profit. À l’opposé, Elan était déjà établie au R.‑U.; elle avait sa propre clientèle et ses propres projets ou travaux en cours. Les avances consenties à Elan couvraient les frais d’exploitation pour faire en sorte que ces projets soient terminés, que la clientèle soit satisfaite et que la réputation de Valiant Group soit sauvegardée. La caractéristique prédominante à long terme des avances consistait à préserver la qualité de fournisseur de niveau 1 de Valiant et donc son flux de rentrées, soit son moyen d’existence même. Les faits de l’arrêt Stewart & Morrison sont différents. La contribuable dans cette affaire avait décidé de mondialiser ses activités en pénétrant le marché américain, mais elle a échoué. La conclusion tirée dans cet arrêt voulant que les avances aient été de nature capitale était fondée à la lumière des faits parce qu’on s’attendait à ce que la filiale américaine réussisse et devienne une opération lucrative. Ce n’est pas le cas en l’espèce puisqu’il était déjà évident, en 1999, qu’Elan ne pourrait jamais espérer survivre sur le plan financier. En l’absence de tout espoir ou de toute attente qu’Elan puisse devenir une entreprise viable au R.‑U., pourquoi l’appelante aurait‑elle continué de verser des avances aussi importantes à Elan? Assurément, elle ne pouvait avoir eu l’intention de sauvegarder une entreprise dénuée d’avenir. Laisser entendre qu’une entreprise par ailleurs fructueuse aurait continué de verser des sommes d’argent considérables à Elan, qui était au bord de la ruine financière, est ridicule. Cela reviendrait, pour l’entreprise, à monter dans ce train de la mondialisation lancé par les géants de l’automobile, même si elle se rend compte que son billet mène dans la direction opposée à celle de sa destination, et à ne pas en descendre à la première occasion. Il ne pouvait y avoir qu’un seul objectif commercial, comme tous les témoignages le donnent à penser : veiller à ce qu’Elan termine ces contrats de sorte que l’entreprise canadienne protège sa réputation, son revenu et sa qualité de fournisseur de niveau 1. Voilà l’intention définitive à l’origine de l’utilisation faite de ces fonds empruntés. La preuve étaye entièrement ma conclusion voulant que ces avances n’aient procuré aucun bénéfice à Elan.
+[27] L’arrêt Stewart & Morrison établit une distinction avec la décision L. Berman & Co. Ltd. v. Minister of National Revenue, 61 DTC 1150, où la contribuable avait versé les paiements à des fournisseurs de sa filiale afin de protéger sa propre survaleur parce que la filiale avait manqué à ses obligations envers ces fournisseurs. Il existe des ressemblances de faits frappantes entre les présents appels et l’affaire Berman. Plusieurs propos formulés par le président Thorson revêtent une pertinence particulière au regard de mes conclusions. À la page 1154, il mentionne ce qui suit au sujet de l’importance qu’il faut accorder aux méthodes comptables pour trancher la question de la déductibilité :
+[TRADUCTION]
+Je ne vois pas l’utilité d’examiner les livres comptables, sauf en ce qui concerne les paiements en cause. En réalité, la question dont la Cour est saisie n’est pas celle de savoir comment les opérations intervenues entre l’appelante et United ont été consignées, mais bien quelle est la véritable nature des paiements en cause et quel était leur objectif dans le cadre du commerce de l’appelante, y compris son entreprise à Toronto.
+[28] Dans la décision Berman, le facteur de distinction tient au fait que les avances ont été versées directement aux fournisseurs de la filiale afin de préserver la réputation de cette dernière et la poursuite de ses rapports commerciaux avec ces fournisseurs, tandis qu’en l’espèce, les avances ont été faites directement à Elan pour que cette dernière soit en mesure de terminer ses projets. Je ne crois pas que cette distinction soit importante puisque Valiant a obtenu les mêmes résultats de façon indirecte en faisant parvenir les paiements à Elan. Dans la décision Berman, même si la filiale était demeurée une entité juridique distincte, comme dans les présents appels, le président Thorson a conclu à la page 1154 que la filiale était, à toutes fins utiles, une division de Berman, laquelle avait été constituée en société [TRADUCTION] « […] pour étendre à l’Est du Canada le commerce d’importation de porcelaine et de verre de l’appelante ». L. Berman & Co. a pris la décision de conserver les fournisseurs de la filiale parce qu’ils [TRADUCTION] « […] aidaient l’appelante au sein du marché canadien » (page 1155). Cette intention est analogue à celle de l’appelante en l’espèce où les avances ont été versées à Elan à partir de 1999 pour qu’elle puisse mener à terme ses contrats même si elle ne pouvait jamais être une opération viable en Europe pour l’appelante. Le fait de terminer ces contrats avait des conséquences économiques directes sur le revenu de l’appelante, sur sa réputation, sur ses moyens d’existence et sur son avenir. Cette situation est presque identique à celle visée dans l’affaire Berman.
+[29] Dans la décision Berman, le président Thorson, aux pages 1156 et 1157, renvoie à la décision Robert Addie & Sons’ Collieries, Limited v. Commissioners of Inland Revenue, (1924) S.C. 231‑235, rendue en 1924, pour affirmer que le critère de la déductibilité des dépenses s’applique :
+[TRADUCTION]
+La réponse à la question de savoir ce que l’on entend par une dépense « totalement et exclusivement effectuée aux fins du commerce » doit reposer sur les principes commerciaux ordinaires. Il est donc nécessaire de chercher à établir la nature véritable de la dépense et de se poser la question suivante : fait‑elle partie des charges d’exploitation de la société? S’agit‑il d’une dépense effectuée en vue de réaliser un bénéfice?
+[30] Dans la décision Cathelle Inc. v. Canada, 2005 DTC 858, Mme la juge Lamarre Proulx a conclu que des prêts consentis à une filiale avaient eu pour objet de fournir à celle‑ci un fonds de roulement, comme dans l’affaire Stewart & Morrison. Je le répète, une distinction avec cette affaire est possible à la lumière des faits parce que les prêts avaient été consentis dans l’attente que la filiale soit une entreprise permanente rentable et viable pour sa société mère. Cela est contraire à ma conclusion en l’espèce. La décision Cathelle établit une distinction à la fois avec la décision Berman et la décision The Queen v. F.H. Jones Tobacco Sales Co. Ltd., 73 DTC 5577. La juge Lamarre Proulx fait une distinction avec l’affaire Jones Tobacco parce que les paiements versés au titre de garanties de prêts à un client ont été faits pour protéger une source directe de revenu alors que le client avait, en contrepartie, promis de traiter avec la société Jones Tobacco. À la page 5580 de la décision Jones Tobacco, M. le juge en chef adjoint Noël s’exprime en ces termes :
+[…] Il faut ici, me semble‑t‑il, considérer la situation comme le ferait un homme d’affaires et ne pas s’arrêter à des technicalités qui pourraient peut‑être avoir leur raison d’être dans d’autres procédures où, par exemple, la compagnie contesterait l’obligation, mais qui n’ont pas leur place ici. Le paiement fait par la compagnie Jones […] l’a été sûrement pour les fins de son commerce selon les principes ordinaires du commerce.
+Je le répète, il s’agit d’une situation de fait analogue à celle dont je suis saisie parce que la survie de la clientèle dans cette affaire était indissociablement liée au flux de rentrées de Jones Tobacco. En l’espèce, le versement continu d’avances à Elan avait pour seul objet de faire en sorte que la filiale termine le contrat même si elle se dirigeait manifestement vers un échec. Il ne s’agissait pas d’accroître ou de protéger un quelconque actif d’une nature durable dans Elan, mais plutôt de protéger la qualité de fournisseur de niveau 1 de l’appelante et, en définitive, d’assurer la survie de cette dernière au sein de l’industrie de l’automobile.
+[31] La juge Lamarre Proulx s’est appuyée sur les observations suivantes formulées par M. le juge Strayer dans la décision Morflot Freightliners Limited v. The Queen, 89 DTC 5182, aux pages 5184 et 5185 :
+Normalement, les versements d’une société mère à une filiale servant au financement des activités de cette dernière sont tenus pour des paiements à titre de capital. [...]
+On a souvent dit, dans des affaires comme celle‑ci, qu’il faut considérer la situation par rapport à la pratique commerciale pour déterminer dans quelle intention l’argent a été versé. [...] J’estime que le point critique en l’espèce est la distinction à faire entre la conservation d’un actif durable d’une part, et, d’autre part, l’engagement de dépenses dans le but de tirer un profit direct et plus immédiat de ventes ou, dans ce cas, de commissions. [...]
+Dans la décision Morflot, le juge Strayer a conclu que les avances faites à une filiale juridique distincte étaient consenties :
+[…] dans un objectif à long terme, à savoir conserver indéfiniment sa filiale américaine en tant que partie cocontractante durable par l’entremise de laquelle elle pouvait remplir aux États‑Unis ses obligations de mandataire […]
+(Page 5185.)
+À nouveau, il s’agit manifestement d’une conclusion de fait que la situation en l’espèce ne saurait étayer. Lorsque Valiant a versé les avances subséquentes à compter de 1999, nul ne s’attendait à ce qu’Elan poursuive ses activités à titre d’entité viable ni, certainement, à ce que ces avances soient un jour remboursées.
+[32] Dans la décision Easton et al. v. The Queen et al., 97 DTC 5464, M. le juge Robertson, à la page 5468, fait état de deux exceptions – auxquelles j’ai précédemment fait allusion dans les présents motifs – qui s’appliquent à la règle générale voulant qu’une avance ou une dépense effectuée pour le compte d’une société doivent être traitée comme un prêt consenti en vue de fournir un fonds de roulement :
+Il existe deux exceptions reconnues au principe général que des pertes semblables à celles dont il vient d’être question sont des pertes en capital. Premièrement, il se peut que le contribuable soit en mesure de démontrer que le prêt a été consenti dans le cours normal des activités de son entreprise. L’exemple classique est celui du contribuable/actionnaire qui est dans l’entreprise de prêt d’argent ou d’octroi de garanties. Cette exception s’applique toutefois aussi aux situations dans lesquelles l’avance ou la dépense a été faite dans un but productif de revenu lié à la propre entreprise du contribuable et non à celle de la société dont le contribuable est actionnaire. À titre d’exemple, dans l’affaire Berman, L., & Co. Ltd. v. M.N.R., [1961] CTC 237 (C. de l’É.), la société contribuable avait volontairement effectué des paiements aux fournisseurs de sa filiale afin de protéger sa clientèle. La filiale avait manqué à ses obligations et comme la contribuable avait traité avec les fournisseurs, elle désirait continuer de le faire plus tard. (La Cour suprême a cité et paru approuver la décision Berman dans l’arrêt Stewart & Morrison Ltd. c. M.R.N., [1974] R.C.S. 477, à la page 479.)
+La deuxième exception est exposée dans l’arrêt Freud. Lorsqu’un contribuable possède des actions dans une société non pas comme un placement mais comme un actif commercial, la perte résultant d’une dépense accessoire, y compris un paiement effectué à l’occasion d’une garantie, sera imputable au compte de revenu. Cette exception s’applique aux personnes qui sont considérées comme des négociants en actions.
+[Non souligné dans l’original.]
+Même si l’intimée n’a fait qu’une brève mention de ces exceptions, je crois que l’appelante tombe carrément sous le coup de la première d’entre elles. Tout d’abord, le passage ci‑dessus renvoie avec approbation à la décision Berman, laquelle, à mon sens, correspond en tous points aux faits de la présente affaire. La phrase que j’ai moi‑même soulignée permet de penser que la Cour d’appel fédérale a étendu la portée de cette première exception de sorte qu’elle s’applique non seulement aux entreprises de prêt d’argent, mais aussi aux situations où on peut établir qu’un paiement est fait pour favoriser le processus générateur de revenu de l’entreprise qui verse le paiement. À la lumière des conclusions de fait que j’ai tirées en l’espèce, l’appelante relève de cette première exception. En résumé, ces conclusions sont les suivantes :
+1. Des acteurs importants de l’industrie automobile, comme Ford et GM, ont pris la décision de réduire le nombre de fournisseurs de niveau 1 et d’obliger les sociétés ayant conservé cette qualité d’étendre leurs activités à l’échelle mondiale afin de permettre une proximité géographique immédiate avec les usines et les établissements des principaux acteurs.
+2. La conservation de la qualité de fournisseur de niveau 1 était essentielle à la survie de l’entreprise canadienne.
+3. L’appelante a pris la décision d’affaires de demeurer un fournisseur de niveau 1 et de mondialiser ses activités.
+4. Une présence au R.‑U. était essentielle à cette croissance et Ford a mis en rapport l’appelante et Reiss‑Elan, société du R.‑U.
+5. Les avances versées en 1999, et subséquemment, ont été faites pour acheter du matériel de même que pour payer la main‑d’œuvre et les autres frais d’exploitation visant les contrats auxquels la filiale était déjà partie.
+6. Les avances ont été faites même s’il était évident qu’Elan se dirigeait vers la faillite ou, à tout le moins, la cessation de ses activités.
+7. La seule raison susceptible d’expliquer pourquoi l’appelante, selon le bon sens commercial et le sens commun, aurait choisi de payer ces frais d’exploitation de l’entreprise au R.‑U. malgré les difficultés financières insurmontables de celle‑ci, devait tenir à sa volonté de protéger sa qualité de fournisseur de niveau 1 et sa propre viabilité économique au sein de l’industrie.
+[33] L’intimée soutient en outre qu’il aurait fallu, pour que les avances soient déductibles, qu’elles donnent lieu à une source directe de revenu pour l’appelante, ce qui n’est pas le cas en l’espèce. Cependant, la jurisprudence laisse entendre qu’il n’est pas nécessaire que cette source soit directe. Dans la décision Minister of National Revenue v. Algoma Central Railway, 68 DTC 5096, la contribuable avait tenté d’accroître le revenu de son entreprise par une méthode des plus indirectes. Elle avait en effet procédé à une étude géologique des possibilités minières de la région géographique de son système de transport dans l’espoir d’utiliser les résultats avantageux de cette étude pour favoriser une expansion industrielle qui, à son tour, était susceptible d’entraîner une augmentation de ses activités commerciales et donc de son revenu. Il serait certainement légitime de penser qu’il s’agit d’une dépense indirecte, mais celle‑ci a néanmoins été acceptée à titre de déduction par la Cour suprême du Canada. L’intimée fait valoir qu’au moyen des avances, Elan générait son propre revenu et ses propres comptes clients qui, à leur tour, servaient à faire des paiements sur sa dette bancaire, prêt qui serait garanti par l’appelante. Lorsqu’elle fait cette assertion, l’intimée s’appuie toutefois en grande partie sur des états financiers qui ne donnent pas nécessairement une image exacte de la situation financière de l’appelante ni de celle d’Elan. Bien que la preuve sur ce point ne soit pas concluante, un aspect étaye peut‑être l’existence d’un certain investissement de capitaux de la part de l’appelante. En effet, Elan ne faisait pas que terminer des projets en cours. Il ressort de la preuve que l’entreprise a signé de nouveaux contrats pendant la période en cause. Il est difficile de savoir quel pourcentage des avances, le cas échéant, a été utilisé dans le cadre des nouveaux contrats. Je suis également saisie du témoignage de M. Sauro, selon lequel les contrats qu’Elan devait terminer avaient été conclus avec des clients américains de l’entreprise canadienne. L’inexécution de ces contrats aurait donc des conséquences directes sur l’entreprise de l’appelante au Canada. De plus, tous les éléments de preuve justifient ma conclusion voulant que la perte de la qualité de fournisseur de niveau 1 ait des incidences directes et sérieuses pour l’entreprise canadienne. En revanche, conclure que l’intention ou l’objet dominant à l’origine des avances versées à Elan consistait à protéger le flux de rentrées de l’appelante, même si la preuve établissait que les avances avaient eu un effet accessoire sur le plan des nouveaux contrats, ne compromettrait pas cette déductibilité. Les arrêts B.P. Australia Ltd. v. Commissioner of Taxation of the Commonwealth of Australia, [1966] A.C. 224, et Robinson (Inspector of Taxes) v. Scott Bader Co. Ltd., [1981] 2 All E.R. 1116 (C.A.), bien que différents au chapitre des faits, énoncent certains des principes généraux qui doivent être appliqués pour trancher la question de la déductibilité des pertes. La décision Bader précise qu’il est important d’identifier au bénéfice de qui les avances sont faites. Les tribunaux canadiens, y compris la Cour suprême du Canada dans l’arrêt Algoma Central Railway, ont maintes fois repris les propos suivants tenus par M. le juge Dixon dans l’arrêt B.P. Australia, à la page 264 :
+[TRADUCTION]
+On ne peut pas trouver la solution du problème en appliquant un critère ou une description rigide. Elle doit découler de plusieurs aspects de l’ensemble des circonstances dont certaines peuvent aller dans un sens et d’autres dans un autre. Une considération peut se détacher si nettement qu’elle domine d’autres et de plus vagues indications dans le sens contraire. C’est une appréciation saine de toutes les caractéristiques directrices qui doit apporter la réponse finale. Bien que les catégories de dépenses de capital et de dépenses d’exploitation soient distinctes et facilement reconnaissables dans les cas clairs qui sont loin des cas limites, la distinction est souvent difficile à établir dans les cas limites; les considérations contradictoires peuvent engendrer une situation où la réponse tient à des facteurs de degré et d’insistance.
+Le tribunal poursuit en renvoyant au passage suivant, dans le lequel le juge Dixon, dans la décision Hallstroms Pty. Ltd. v. Federal Commissioner of Taxation, (1946) 72 C.L.R. 634, s’exprime en ces termes :
+[TRADUCTION]
+Cette réponse
+« dépend de l’effet envisagé de la dépense d’un point de vue pratique et commercial plutôt que de la classification juridique des droits, s’il en est, garantis, employés ou épuisés en cours de route ».
+(Page 264.)
+Dans l’arrêt B.P. Australia, lord Pearce résume ainsi la situation de l’appelante qui est devant lui :
+[TRADUCTION]
+L’avantage dont B.P. tentait de bénéficier consistait à promouvoir les ventes et à obtenir des commandes d’essence par des méthodes de commercialisation très récentes […] Comme les commandes pouvaient uniquement être obtenues de détaillants liés, B.P. devait établir des liens avec des détaillants. Son véritable objectif, cependant, n’était pas l’établissement du lien lui‑même, mais les commandes découlant de celui‑ci. Pour obtenir des liens, elle devait […] payer des sommes pendant un certain nombre d’années […] Le paiement de ces sommes en est venu à faire partie des activités habituelles de l’entreprise. Il est devenu une des nécessités courantes du commerce.
+(Page 265.) [Non souligné dans l’original.]
+Lord Pearce a minutieusement examiné l’opération pour découvrir le véritable objet de la dépense. Il s’est alors penché sur la raison d’être précise des paiements versés par B.P. Australia. À première vue, les paiements paraissaient servir à établir des liens avec des détaillants, mais un examen plus approfondi a révélé qu’ils visaient fondamentalement à obtenir des commandes au moyen de ces liens avec les détaillants.
+[34] Quel était donc le véritable objet visé par les avances faites à Elan? Tous les témoins de l’appelante ont affirmé la même chose et leur témoignage est demeuré non contredit à la suite du contre‑interrogatoire : les avances avaient pour objet de répondre au besoin immédiat de l’appelante de conserver sa qualité de fournisseur de niveau 1, compte tenu des efforts énormes de mondialisation déployés par les principaux acteurs de l’automobile. Les méthodes choisies par l’appelante pour conserver cette qualité, notamment le versement d’avances à Elan pour que cette dernière puisse mener ses contrats à terme, visaient fondamentalement à protéger le flux de rentrées de son entreprise canadienne et donc sa survie économique. La caractéristique dominante de ces avances donne à penser qu’il s’agissait d’une [TRADUCTION] « nécessité courante », laquelle fait contrepoids aux facteurs secondaires ou contraires pouvant laisser croire qu’il s’agissait d’une dépense en capital.
+[35] Enfin, comme je l’ai précisé dans la décision Excell Duct Cleaning Inc. v. The Queen, 2006 DTC 2040, la dépense visant à protéger la survaleur existante et à accroître la rentabilité est imputable au revenu tandis que la dépense visant à accroître la survaleur sera liée à un objectif d’une nature capitale. Bien qu’aucune des parties ne l’ait invoquée, cette décision s’applique manifestement à la question soulevée dans le présent appel. Les mesures prises par l’appelante lorsqu’elle a avancé les fonds subséquents à Elan ont toujours été considérées comme un moyen de protéger sa réputation et sa qualité de fournisseur de niveau 1 et, donc, son flux de rentrées – c’est‑à‑dire, protéger sa survaleur existante et sa rentabilité. La décision Excell Duct Cleaning réitère le fait que les prêts consentis afin de « préserver une source régulière de revenu » seront considérés comme déductibles.
+[36] Bref, même s’il existe des facteurs plus vagues et accessoires donnant à penser qu’il s’agit d’une dépense en capital, j’estime, selon la prépondérance des probabilités et après avoir examiné l’ensemble de la preuve à la lumière de l’objectif visé par les avances, tant d’un point de vue commercial que pratique, que les avances ont été consenties pour protéger le flux de rentrées de l’appelante et son avenir à titre de fournisseur de niveau 1. Pour en arriver à cette conclusion, j’ai tiré des conclusions de fait fondées sur le sens commun et sur la preuve non contredite d’environ dix témoins, qui ont tous, pour l’essentiel, fait état d’un même objectif pour expliquer ces avances. La réalité commerciale dans laquelle l’appelante poursuivait ses activités à l’époque l’a obligée, tant dans la perspective de son entreprise que sur le plan du sens commun, à prendre une décision d’affaires calculée : soit mettre fin aux activités d’Elan en 1999 et risquer de perdre sa qualité de fournisseur de niveau 1 au sein de l’industrie, soit continuer le versement des avances pour assurer sa propre survie et pour protéger sa qualité de fournisseur de niveau 1 et donc son flux de rentrées.
+[37] Pour ces raisons, les appels sont accueillis. L’appelante a droit aux dépens au titre d’un seul mémoire d’honoraires d’avocats.
+Signé à Ottawa, Canada, ce 8e jour de décembre 2008.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+Ce 11e jour d’août 2011.
+François Brunet, réviseur
+Annexe « A »
+2006‑924(IT)G
+COUR CANADIENNE DE L’IMPÔT
+(procédure générale)
+ENTRE :
+VALIANT CLEANING TECHNOLOGY INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+EXPOSÉ CONJOINT PARTIEL DES FAITS
+Me Wilfred Lefebvre, c.r. Susan Shaughnessy
+Me Dominic C. Belley Justice Canada
+Ogilvy Renault LLP Complexe Guy‑Favreau
+1981, avenue McGill College 200, boul. René‑Lévesque Ouest
+Bureau 1100 Tour Est, 9e étage
+Montréal (Québec) H3A 3C1 Montréal (Québec) H2Z 1X4
+Téléphone : (514) 847‑4440 Téléphone : (514) 283‑3655
+Téléphone : (514) 847‑4318 Télécopieur : (514) 283‑3103
+Télécopieur : (514) 286‑5474
+Avocats de l’appelante Avocate de l’intimée
+2006‑924(IT)G
+COUR CANADIENNE DE L’IMPÔT
+(procédure générale)
+ENTRE :
+VALIANT CLEANING TECHNOLOGY INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+EXPOSÉ CONJOINT PARTIEL DES FAITS
+PAR LEURS AVOCATS SOUSSIGNÉS, LES PARTIES CONVIENNENT DES FAITS SUIVANTS :
+1. Pendant la période en cause, les activités de l’appelante, Valiant Cleaning Technology Inc., touchaient à la conception, à l’ingénierie et à l’installation de matériel technologique servant à nettoyer les chaînes de montage dans l’industrie automobile.
+2. L’appelante offrait des solutions de nettoyage des produits manufacturés, à utiliser avant ou pendant le processus de montage.
+3. Les solutions de nettoyage comprenaient le lavage à haute et à basse pression destiné à enlever les saletés, la poussière et la limaille des produits manufacturés.
+4. L’appelante est considérée comme un fournisseur de « niveau 1 » dans l’industrie automobile.
+STRUCTURE SIMPLIFIÉE DE L’ENTREPRISE
+5. Pendant la période en cause, l’appelante faisait partie d’un groupe de sociétés (le « groupe Valiant ») composé des entités suivantes :
+6. Comme le montre le tableau ci‑dessus, l’appelante détenait, pendant la période en cause, la totalité des actions de Valiant Elan Systems Limited (« Elan »), société résidente du Royaume‑Uni (« R.‑U. »).
+VÉRIFICATION
+7. En 2004, l’appelante a fait l’objet d’un examen effectué par un représentant du ministre du Revenu national (le « ministre »), M. William Cornies, à la suite d’une vérification visant Valiant Corporation.
+8. L’examen portait uniquement sur la nature de certaines opérations financières intervenues entre l’appelante et Elan, sa filiale.
+9. L’examen a été effectué après que l’appelante a demandé qu’on reconnaisse les pertes en capital déclarées antérieurement et qu’elles fassent l’objet d’une nouvelle qualification à titre de pertes autres que des pertes en capital.
+OPÉRATIONS VISÉES PAR LA VÉRIFICATION
+10. En 1996, le groupe Valiant a acquis une société établie au R.‑U., Reiss Elan, ultérieurement connue sous la dénomination Valiant Elan Systems Limited (« Elan »).
+11. Pour les années d’imposition se terminant le 28 février, de 1997 à 2002, l’appelante a déclaré les renseignements suivants dans ses états financiers vérifiés en ce qui concerne Elan et dans ses déclarations de revenus relatives aux années d’imposition en cause :
+Années se terminant le 28 février
+Actions dans Elan
+Avances à Elan
+Effets à recevoir
+Réduction de valeur de l’investissement dans Elan
+Perte en capital déclarée dans la déclaration de revenu
+02/1997
+Investissement : 10 000 actions ordinaires et 490 000 actions privilégiées rachetables à dividende cumulatif de 5 %
+Effets à recevoir (conformément au retraitement effectué dans les états financiers de 1998)
+1 031 450 $
+780 150 $
+02/1998
+Avances :
+531 930 $
+02/1999
+Avances :
+Réduction de valeur des effets à recevoir :
+Réduction de valeur de l’investissement :
+2 444 810 $
+3 400 000 $
+1 000 000 $
+02/2000
+Avances :
+Conversion de billets en actions privilégiées :
+Réduction de valeur de l’investissement :
+Perte en capital déclarée sur la déclaration de revenus T2 :
+6 251 000 $
+2 654 445 $
+(6 251 000 $)
+3 042 785 $
+6 251 000 $
+02/2001
+Avances :
+Réduction de valeur de l’investissement :
+6 228 397 $
+6 228 397 $
+02/2002
+Perte en capital déclarée dans la déclaration de revenus T2 :
+7 420 182 $
+TOTAL :
+7 282 450 $
+6 388 732 $
+13 671 182 $
+13 671 182 $
+12. L’administration d’Elan a été confiée à un tiers en date du 29 mars 2001 dans le cadre du projet structuré de liquidation de l’entreprise.
+AVIS DE DÉTERMINATION D’UNE PERTE
+13. Le 30 décembre 2004, après l’examen, le ministre a délivré, relativement aux années d’imposition de l’appelante se terminant le 28 février 2000, le 28 février 2001, le 28 février 2002 et le 30 novembre 2002, des avis de détermination d’une perte portant les numéros 64957, 64958, 64959 et 64960 respectivement, dans lesquels il assimilait les pertes de l’appelante à des pertes en capital subies au cours des années d’imposition se terminant le 28 février 2000 et le 28 février 2002, conformément à ce qu’a déclaré l’appelante.
+14. Le 17 février 2005, l’appelante a dûment produit des avis d’opposition à l’égard des avis de détermination d’une perte.
+15. Le 17 octobre 2005, le ministre a délivré un avis de ratification par lequel il confirmait les avis de détermination d’une perte.
+QUESTION À TRANCHER
+16. La question en litige consiste à savoir si les pertes de 6 251 000 $ et de 7 420 182 $, ou une quelconque partie de celles‑ci, le cas échéant, subies par l’appelante relativement à Elan au cours des années d’imposition se terminant le 28 février 2000 et le 28 février 2002, respectivement, constituent des pertes autres que des pertes en capital ou des pertes en capital.
+17. L’appelante fait valoir que ces pertes doivent être qualifiées de pertes autres que des pertes en capital.
+18. L’intimée fait valoir que ces pertes doivent être qualifiées de pertes en capital.
+Montréal, le 15 mai 2008 Montréal, le 14 mai 2008
+« Dominic C. Belley » « Susan Shaughnessy »
+Me Wilfrid Lefebvre, c.r. Susan Shaughnessy
+Me Dominic C. Belley Justice Canada
+Ogilvy Renault LLP Complexe Guy‑Favreau
+1981, avenue McGill College 200, boul. René‑Lévesque Ouest
+Bureau 1100 Tour Est, 9e étage
+Montréal (Québec) H3A 3C1 Montréal (Québec) H2Z 1X4
+Téléphone : (514) 847‑4440 Téléphone : (514) 283‑3655
+Téléphone : (514) 847‑4318 Télécopieur : (514) 283‑3103
+Télécopieur : (514) 286‑5474
+Avocats de l’appelante Avocate de l’intimée
+RÉFÉRENCE :
+2008 CCI 637
+NO DU DOSSIER DE LA COUR :
+2006‑924(IT)G
+INTITULÉ DE LA CAUSE :
+Valiant Cleaning Technology Inc. et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Windsor (Ontario)
+DATES DE L’AUDIENCE :
+Les 28 et 29 mai 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT MODIFIÉ :
+Le 8 décembre 2008
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Wilfrid Lefebvre, c.r.
+Me Dominic C. Belley
+Avocate de l’intimée :
+Me Susan Shaughnessy
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Wilfrid Lefebvre, c.r.
+Me Dominic C. Belley
+Cabinet :
+Ogilvy Renault LLP, Montréal (Québec)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

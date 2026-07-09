@@ -1,0 +1,136 @@
+Title: Fil c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/180347/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-200-180347-fil-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-09-15
+
+# Fil c. La Reine
+
+- Citation: 2016 CCI 200
+- Decision date: 2016-09-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2901, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fil c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-09-15
+Référence neutre
+2016 CCI 200
+Numéro de dossier
+2015-2577(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-2577(IT)I
+ENTRE :
+PIERRE FIL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 23 août 2016, à Montréal (Québec).
+Devant : L'honorable juge B. Paris
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Mounes Ayadi
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu est rejeté, sans dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 15e jour de septembre 2016.
+« B.Paris »
+Juge Paris
+Référence : 2016 CCI 200
+Date : 20160915
+Dossier : 2015-2577(IT)I
+ENTRE :
+PIERRE FIL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Cet appel a été entendu selon la procédure informelle. Il s’agit d’un appel des cotisations d’impôt sur le revenu pour les années d’imposition 2010 et 2011 par lesquelles le ministre du Revenu national (le « ministre ») a refusé la déduction des pertes d’entreprise suivantes :
+2010
+22 000 $
+2011
+23 167 $
+[2] Pour établir les cotisations, le ministre a tenu pour acquis que l’activité d’achat et de revente de bijoux dans laquelle l’appelant s’était engagé ne constituait pas une source de revenu au sens de l’article 3 de la Loi de l’impôt sur le revenu (la « LIR »), et subsidiairement, que, s’il y avait une source de revenu, les dépenses déduites relativement à cette activité n’ont pas été engagées ou bien n’ont pas été engagées en vue de tirer un profit de l’activité.
+[3] Une source de revenu est une activité exercée en vue de réaliser un profit, et lorsque cette activité comporte un élément personnel, elle doit être exercée de manière commerciale (Stewart c. Canada, 2002 CSC 46).
+[4] En l’espèce, il est évident que l’activité exercée par l’appelant comportait un élément personnel. L’appelant se servait de sa voiture personnelle et d’une partie de sa résidence aux fins de l’activité, et a demandé une importante partie des frais y afférents comme déductions dans le calcul de son revenu. Ce sont pour la plupart des frais que l’appelant aurait engagés même sans l’activité en question.
+[5] Alors, la première question à trancher est de savoir si l’appelant a exploité l’entreprise de manière suffisamment commerciale pour qu’elle constitue une source de revenu. Dans l’arrêt Stewart, la Cour suprême a dit, aux paragraphes 54 et 55 :
+54 Il y a également lieu de souligner que la détermination de l’existence d’une source de revenu n’est pas un processus purement subjectif. Outre le fait que, pour qu’une activité soit qualifiée de commerciale par nature, le contribuable doit avoir l’intention subjective de réaliser un profit, il faut aussi, tel que mentionné dans l’arrêt Moldowan, que cette détermination se fasse en fonction de divers facteurs objectifs. Ainsi, sous une forme plus élaborée, le premier volet du critère susmentionné peut être reformulé ainsi : « Le contribuable a-t-il l’intention d’exercer une activité en vue de réaliser un profit et existe-t-il des éléments de preuve étayant cette intention? » Cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l’activité et que cette activité a été exercée conformément à des normes objectives de comportement d’homme d’affaires sérieux.
+55 Les facteurs objectifs énumérés par le juge Dickson dans Moldowan, précité, p. 486, étaient (1) l’état des profits et pertes pour les années antérieures, (2) la formation du contribuable, (3) la voie sur laquelle il entend s’engager, et (4) la capacité de l’entreprise de réaliser un profit. Comme nous le concluons plus loin, il n’est pas nécessaire pour les besoins du présent pourvoi d’ajouter d’autres facteurs à cette liste; nous nous abstenons donc de le faire. Nous tenons cependant à réitérer la mise en garde du juge Dickson selon laquelle cette liste ne se veut pas exhaustive et les facteurs diffèrent selon la nature et l’importance de l’entreprise. Nous tenons également à souligner que, même si l’expectative raisonnable de profit constitue un facteur à prendre en considération à ce stade, elle n’est ni le seul facteur, ni un facteur déterminant. Il faut déterminer globalement si le contribuable exerce l’activité d’une manière commerciale. Cette détermination ne devrait toutefois pas servir à évaluer après coup le sens des affaires du contribuable. C’est la nature commerciale de son activité qui doit être évaluée, et non son sens des affaires.
+[6] L’appelant prétend qu’il lui est difficile maintenant de prouver la nature commerciale de son entreprise parce que tous les documents pertinents se rapportant à l’exploitation de celle-ci ont été volés de sa résidence en février 2012 lors d’un cambriolage. En plus des documents, l’appelant a déclaré le vol de bijoux, d’une chaîne stéréo, d’articles de sport et de divers autres articles d’une valeur totale de 62 570 $. Il dit qu’au moment où la vérification fiscale a commencé au début de 2013, il a avisé la vérificatrice de l’Agence du revenu du Canada (l’ « ARC ») qu’il n’avait pas de documents et que la vérificatrice ne lui a pas demandé d’obtenir des fournisseurs ou des clients soit des copies des documents, soit d’autres preuves écrites. Il s’est dit surpris, alors, d’apprendre 20 mois plus tard, lorsque l’ARC a traité son opposition, que sa position selon laquelle son entreprise était une source de revenu n’était pas acceptée, et à ce moment, a-t-il dit, il était trop tard pour récupérer les preuves documentaires. Son fournisseur principal, Bidz.com, avait fait faillite en 2011 et certains autres fournisseurs n’étaient plus trouvables. Il n’était pas capable non plus d’obtenir copie des annonces publicitaires qu’il avait faites parce que trop de temps était passé, et pour ce qui est du journal autoHEBDO, il ne paraissait alors que sur Internet.
+[7] Selon le témoignage de l’appelant, il a commencé son entreprise en 2006 et vendait des bijoux et des montres, surtout des montres de marque Lamborghini. Il achetait son stock aux États-Unis, sur deux sites web, dont Bidz.com était le plus important. Il dit qu’il achetait des bijoux et des montres en grande quantité et avait des centaines de montres à vendre. Pourtant, il était difficile de faire un profit sur les ventes à cause de la concurrence des vendeurs sur le site eBay, qui offraient les mêmes produits, ou des produits semblables aux siens, à des prix moins élevés que les siens. Il était donc obligé de baisser ses prix et cela a occasionné les pertes. Il a déclaré les revenus bruts et les pertes nettes d’entreprise indiqués ci-dessous :
+Revenus bruts d’entreprise
+Revenus (pertes) net(te)s d’entreprise
+2006
+28 110 $
+(27 030 $)
+2007
+12 000 $
+(28 940 $)
+2008
+10 000 $
+(24 287 $)
+2009
+27 200 $
+(19 695 $)
+2010
+23 000 $
+(22 000 $)
+2011
+26 000 $
+(23 167 $)
+Total
+126 310 $
+(145 119 $)
+[8] L’appelant a témoigné qu’il avait essayé, sans préciser comment, d’accroître son pouvoir d’achat afin de rentabiliser son entreprise. Il a aussi dit que, vers la fin de 2011, juste avant qu’il ait cessé d’exploiter l’entreprise, suite au cambriolage, il s’est associé avec un autre vendeur et projetait soit d’ouvrir un kiosque, soit de « se lancer sur eBay ». Cependant, l’associé est décédé peu après et l’appelant a décidé de fermer l’entreprise. L’appelant a réitéré qu’il ne pouvait pas offrir des prix aussi bas que ceux des vendeurs américains sur eBay et que c’était là l’origine de ses pertes. Il a dit qu’il comblait ses pertes en puisant dans ses revenus d’emploi gagnés chez Bombardier, où il travaille à temps plein depuis 19 ans.
+[9] Le fardeau de prouver la nature commerciale de son activité incombe à l’appelant et, à mon avis, la preuve produite est insuffisante pour que l’appelant se soit déchargé de ce fardeau.
+[10] Tout d’abord, à mon avis, le témoignage de l’appelant concernant l’absence de documents n’était pas crédible et j’ai du mal à croire son témoignage selon lequel tous ses documents avaient été volés lors du cambriolage de sa maison.
+[11] Comme l’appelant a lui-même constaté, les documents n’avaient pas de valeur et auraient eu peu d’intérêt pour un voleur. Je fais remarquer aussi qu’il n’y a aucune mention de vol de documents dans le rapport policier sur l’événement. L’appelant a dit qu’il n’avait signalé le vol des documents ni à la police ni à son assureur parce qu’ils n’avaient pas de valeur pécuniaire, mais il a quand même signalé le vol d’un document d’identité et de son passeport. Autre chose remarquable, l’appelant a déclaré le vol de seulement une montre, une bague et un bracelet d’une valeur totale de 9 200 $, ce qui semble être très peu de stock pour une entreprise qui vend des bijoux et qui, selon l’appelant, achetait des bijoux et des montres en grande quantité.
+[12] Je ne suis pas convaincu non plus qu’il aurait été impossible à l’appelant de reconstituer, au moins en partie, ses documents. Bien que son fournisseur principal ait fait faillite, l’appelant a dit qu’il payait tous ses achats par carte de crédit ou au moyen du service PayPal. Il me semble que des copies des relevés de compte devraient exister, de même que des preuves de paiement des intérêts sur sa carte de crédit qu’il a déduits. Il paraît aussi que l’appelant s’est beaucoup servi d’Internet pour acheter et vendre et il me surprendrait qu’il n’y ait pas eu beaucoup de courriels pertinents qui auraient pu être produits à la Cour.
+[13] De plus, bien que l’appelant ait témoigné que son fournisseur principal était Bidz.com et qu’il faisait ses achats sur Internet, dans un questionnaire concernant les dépenses de véhicule, qu’il a rempli à la demande de l’ARC, il a indiqué qu’il faisait « beaucoup d’achats à Toronto ».
+[14] Les autres facteurs mentionnés dans l’arrêt Stewart pour évaluer le caractère commercial d’une entreprise comprennent la formation du contribuable, la voie sur laquelle il entend s’engager et la capacité de l’entreprise de réaliser un profit. Bien que l’appelant eût un intérêt de longue date pour les bijoux, il n’avait aucune formation dans ce domaine ni aucune formation en affaires. Son plan d’affaires était de rentabiliser son entreprise en réduisant ses coûts d’achat et en accroissant son pouvoir d’achat, mais, à part l’expression de ces intentions générales, il n’a pas précisé comment il comptait y arriver. Finalement, la série ininterrompue de pertes et la fermeture de l’entreprise en 2012 démontrent de façon objective qu’elle n’avait pas la capacité de réaliser un profit en étant exploitée comme elle l’était par l’appelant.
+[15] Pour tous ces motifs, je conclus que l’activité de l’appelant ne constituait pas une source de revenu en 2010 et en 2011. Compte tenu de cette conclusion, il n’est pas nécessaire de déterminer la déductibilité des dépenses particulières déclarées par l’appelant, et l’appel est rejeté.
+Signé à Ottawa, Canada ce 15e jour de septembre 2016.
+« B.Paris »
+Juge Paris
+RÉFÉRENCE :
+2016 CCI 200
+Nº DU DOSSIER DE LA COUR :
+2015-2577(IT)I
+INTITULÉ DE LA CAUSE :
+PIERRE FIL c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 23 août 2016
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge B. Paris
+DATE DU JUGEMENT :
+Le 15 septembre 2016
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Mounes Ayadi
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,245 @@
+Title: Granaas c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29489/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-547-29489-granaas-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-10-26
+
+# Granaas c. La Reine
+
+- Citation: 2009 CCI 547
+- Decision date: 2009-10-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6307, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Granaas c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-10-26
+Référence neutre
+2009 CCI 547
+Numéro de dossier
+2007-4356(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4356(IT)I
+ENTRE :
+CAPITAINE TORE R. GRANAAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 5 juin 2009, à Montréal (Québec).
+Devant : L’honorable juge Paul Bédard
+Comparutions :
+Avocat de l’appelant :
+Me Philip Aspler
+Avocate de l’intimée :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est rejeté, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 26e jour d’octobre 2009.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 8e jour de décembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 547
+Date : 20091026
+Dossier : 2007-4356(IT)I
+ENTRE :
+CAPITAINE TORE R. GRANAAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Le présent appel a été interjeté à l’égard d’une nouvelle cotisation datée du 13 août 2007 et établie à l’égard de l’appelant pour l’année d’imposition 2005.
+[2] L’appelant, un non‑résident du Canada, était un employé de l’Association du transport aérien international (l’« ATAI »), une organisation non gouvernementale internationale. Tout au long de la période où il a travaillé pour l’ATAI, l’appelant a profité d’une déduction prévue au sous‑alinéa 110(1)f)(iv) de la Loi de l’impôt sur le revenu (la « Loi »). Quand il a pris sa retraite de l’ATAI, l’appelant a commencé à recevoir des prestations de retraite de source canadienne découlant de son emploi auprès de l’ATAI. Le litige opposant l’appelant à l’intimée a trait au traitement fiscal des prestations de retraite reçues par l’appelant. L’appelant soutient que les prestations de retraite constituent un revenu tiré d’un emploi, alors que l’intimée soutient que les prestations de retraite constituent des revenus provenant d’une autre source. Pour l’application de l’impôt sur le revenu, l’appelant a choisi, en vertu de l’article 217 de la Loi, d’être assujetti à la partie I de la Loi.
+Position de l’appelant
+[3] L’appelant soutient que les prestations de retraite en cause constituent un revenu tiré d’un emploi au sens du sous‑alinéa 110(1)f)(iv) de la Loi et qu’elles peuvent donc être déduites dans le calcul de ses revenus nets. Selon l’appelant, l’expression « revenu tiré de » doit être interprétée assez largement pour inclure les revenus « attribuables à » une source ou « provenant ou découlant de » cette source. L’appelant avance que le revenu tiré des prestations de retraite fait partie de son « revenu d’emploi » global provenant de l’ATAI, et qu’il doit donc être traité comme un revenu tiré d’un emploi pour l’application de l’impôt sur le revenu.
+Position de l’intimée
+[4] L’intimée soutient que les prestations de retraite ne constituent pas un revenu d’emploi, mais bien un revenu provenant d’une autre source, et qu’elles ne peuvent donc pas être déduites dans le calcul du revenu en application du sous‑alinéa 110(1)f)(iv) de la Loi.
+Question en litige et analyse
+[5] Les parties s’entendent sur le fait que la seule question en litige est de savoir si les prestations de retraite doivent être considérées comme un revenu tiré d’un emploi au sens du sous‑alinéa 110(1)f)(iv) de la Loi.
+[6] Les dispositions pertinentes de la Loi sont ainsi rédigées :
+2(3) Impôt payable par les non-résidents – Un impôt sur le revenu doit être payé, ainsi qu’il est prévu par la présente loi, sur son revenu imposable gagné au Canada pour l’année, déterminé conformément à la section D, par la personne non imposable en vertu du paragraphe (1) pour une année d’imposition et qui, à un moment donné de l’année ou d’une année antérieure, a :
+a) soit été employée au Canada;
+b) soit exploité une entreprise au Canada;
+c) soit disposé d’un bien canadien imposable.
+5(1) Revenu tiré d’une charge ou d’un emploi – Sous réserve des autres dispositions de la présente partie, le revenu d’un contribuable, pour une année d’imposition, tiré d’une charge ou d’un emploi est le traitement, le salaire et toute autre rémunération, y compris les gratifications, que le contribuable a reçus au cours de l’année.
+6(1) Éléments à inclure à titre de revenu tiré d’une charge ou d’un emploi – Sont à inclure dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi, ceux des éléments suivants qui sont applicables :
+[…]
+g) Prestations d’un régime de prestations aux employés – le total des sommes dont chacune représente un montant reçu par lui au cours de l’année dans le cadre d’un régime de prestations aux employés ou de la disposition d’une participation dans un tel régime, à l’exclusion de la partie de ce montant qui constitue :
+[…]
+(iii) une prestation de retraite ou de pension imputable aux services rendus par une personne au cours d’une période tout au long de laquelle elle ne résidait pas au Canada;
+56(1) Sommes à inclure dans le revenu de l’année – Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+a) Pensions, prestations d’assurance-chômage, etc. – toute somme reçue par le contribuable au cours de l’année au titre, ou en paiement intégral ou partiel :
+(i) d’une prestation de retraite ou de pension, y compris, sans préjudice de la portée générale de ce qui précède :
+[…]
+110(1) Déductions – Pour le calcul du revenu imposable d’un contribuable pour une année d’imposition, il peut être déduit celles des sommes suivantes qui sont appropriées :
+[…]
+f) Déduction des paiements – toute prestation d’assistance sociale payée après examen des ressources, des besoins ou du revenu et incluse en application de la division 56(1)a)(i)(A) ou de l’alinéa 56(1)u) dans le calcul du revenu du contribuable pour l’année ou toute somme dans la mesure où elle a été incluse dans le calcul du revenu du contribuable pour l’année, représentant, selon le cas :
+[…]
+(iv) le revenu du contribuable tiré d’un emploi auprès d’une organisation non gouvernementale internationale visée par règlement, si le contribuable répond aux conditions suivantes :
+(A) il n’a été citoyen canadien à aucun moment de l’année,
+(B) il était une personne non-résidente immédiatement avant de commencer à occuper cet emploi au Canada,
+(C) s’il réside au Canada, il a commencé à y résider uniquement aux fins de cet emploi;
+[…]
+115(1) Revenu imposable au Canada des non-résidents – Pour l’application de la présente loi, le revenu imposable gagné au Canada pour une année d’imposition d’une personne qui ne réside au Canada à aucun moment de l’année correspond à l’excédent éventuel du montant qui représenterait son revenu pour l’année selon l’article 3 :
+a) si elle n’avait pas de revenu autre :
+(i) que les revenus tirés des fonctions de charges et d’emplois exercées par elle au Canada et, si elle résidait au Canada au moment où elle exerçait les fonctions, à l’étranger,
+[…]
+212(1) Impôt – Toute personne non-résidente doit payer un impôt sur le revenu de 25 % sur toute somme qu’une personne résidant au Canada lui paie ou porte à son crédit, ou est réputée en vertu de la partie I lui payer ou porter à son crédit, au titre ou en paiement intégral ou partiel :
+[…]
+h) Pensions – d’un paiement d’une prestation de retraite ou de pension, autre :
+[…]
+(iii.2) qu’un montant visé à l’alinéa 110(1)f) dans la mesure où le montant serait, si la personne non-résidente avait résidé au Canada tout au long de l’année d’imposition dans laquelle le montant a été versé, déductible dans le calcul de son revenu imposable ou du revenu imposable de son époux ou conjoint de fait,
+[…]
+217(1) Prestations canadiennes – Au présent article, les prestations canadiennes d’une personne non-résidente pour une année d’imposition correspondent au total des montants représentant chacun un montant payé ou crédité au cours de l’année et au titre duquel l’impôt prévu par la présente partie serait payable par la personne, n’était le présent article, par l’effet de l’un des alinéas 212(1)h), j) à m) et q).
+(2) Aucun impôt payable – Aucun impôt n’est payable en vertu de la présente partie au titre des prestations canadiennes d’une personne non‑résidente pour une année d’imposition si la personne, à la fois :
+a) produit au ministre, dans les six mois suivant la fin de l’année, une déclaration de revenu en vertu de la partie I pour l’année;
+b) fait, dans cette déclaration, un choix pour que le présent article s’applique pour l’année.
+(3) Revenu imposable gagné au Canada – Lorsqu’une personne non-résidente fait le choix prévu à l’alinéa (2)b) pour une année d’imposition, les présomptions suivantes s’appliquent dans le cadre de la partie I :
+a) la personne est réputée avoir occupé un emploi au Canada au cours de l’année;
+b) son revenu imposable gagné au Canada pour l’année est réputé égal au plus élevé des montants suivants :
+(i) le montant qui, n’était le sous-alinéa (ii), correspondrait à son revenu imposable gagné au Canada pour l’année si, à la fois :
+(A) l’alinéa 115(1)a) comprenait le sous-alinéa suivant :
+« (i.1) que ses prestations canadiennes pour l’année, au sens du paragraphe 217(1), »,
+[…]
+248(1) Les définitions qui suivent s’appliquent à la présente loi.
+[…]
+« prestation de retraite ou de pension » Sont compris dans les prestations de retraite ou de pension les sommes reçues dans le cadre d’une caisse ou d’un régime de retraite ou de pension, et, notamment, tous versements faits à un bénéficiaire dans le cadre de la caisse ou du régime, ou à un employeur ou un ancien employeur du bénéficiaire :
+a) conformément aux conditions de la caisse ou du régime;
+b) par suite d’une modification apportée à la caisse ou au régime;
+c) par suite de la liquidation de la caisse ou du régime.
+Les dispositions pertinentes de l’article 8900 du Règlement de l’impôt sur le revenu sont ainsi rédigées :
+8900(2) Organisations non gouvernementales internationales – Pour l’application du sous-alinéa 110(1)f)(iv) de la Loi, les organisations non gouvernementales internationales suivantes sont visées :
+a) l’Association du transport aérien international;
+[…]
+[7] Le litige opposant l’appelant et l’intimée porte sur l’interprétation du sous‑alinéa 110(1)f)(iv) de la Loi, à savoir si le sens de l’expression « revenu tiré d’un emploi » est suffisamment étendu pour englober les prestations de retraite.
+[8] Les règles d’interprétation de la législation fiscale ont été formulées de la façon suivante par le juge Gonthier de la Cour suprême du Canada dans Corporation Notre‑Dame de Bon-Secours v. Communauté Urbaine de Québec[1] :
+– L’interprétation des lois fiscales devrait obéir aux règles ordinaires d’interprétation;
+– Qu’une disposition législative reçoive une interprétation stricte ou libérale sera déterminé par le but qui la sous‑tend, qu’on aura identifié à la lumière du contexte de la loi, de l’objet de celle-ci et de l’intention du législateur; c’est l’approche téléologique;
+– Que l’approche téléologique favorise le contribuable ou le fisc dépendra uniquement de la disposition législative en cause et non de l’existence de présomptions préétablies;
+– Primauté devrait être accordée au fond sur la forme dans la mesure où cela est compatible avec le texte et l’objet de la loi;
+– Seul un doute raisonnable et non dissipé par les règles ordinaires d’interprétation sera résolu par le recours à la présomption résiduelle en faveur du contribuable.
+[9] En règle générale, la législation fiscale est assujettie aux règles ordinaires d’interprétation. L’époque où elle devait être interprétée de façon strictement littérale est révolue, et il faut désormais utiliser la même approche que pour les autres types de législation, à savoir une approche contextuelle, téléologique et historique. Si la réalisation de l’objet de la législation l’exige, le fond doit l’emporter sur la forme. S’il subsiste quand même des doutes quant au sens d’une disposition, il faut favoriser une interprétation basée sur l’intention du législateur. Comme l’a souligné la Cour suprême dans La Reine c. Golden[2], l’interprétation de la législation fiscale ne se limite pas à une interprétation littérale lorsqu’une interprétation plus large permet d’arriver à une conclusion compatible avec les objectifs de la législation.
+[10] Dans Construction of Statutes[3], Elmer A. Driedger a résumé les principes fondamentaux de l’interprétation législative en disant que [traduction] « il faut interpréter les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur ». Ainsi, l’analyse vise à découvrir l’intention du législateur en étudiant les mots employés dans le contexte de la législation, c’est‑à‑dire en découvrant l’objet des dispositions particulières et de la loi dans son ensemble. Cependant, lorsque le texte de la loi est clair et sans ambiguïté, point n’est besoin de l’interpréter : il suffit alors de la lire[4].
+[11] Avant d’arriver à une conclusion quant à l’interprétation à adopter, il faut analyser les faits en cause dans la présente affaire à la lumière du sous‑alinéa 110(1)f)(iv) de la Loi. Cependant, lorsque l’intention du législateur est claire, la Cour ne doit pas y substituer son opinion.
+[12] De plus, il convient de souligner que la Cour ne doit pas être guidée par des considérations d’équité. Dans Avitan v. M.N.R., 87 DTC 336, la Cour s’est exprimé de la sorte :
+La Cour ne peut être guidée par des considérations d’équité dans l’application d’une loi fiscale formulée de manière claire et non ambiguë. Pour reprendre les termes du juge Estey, de la Cour suprême du Canada, dans l’affaire The Queen v. Malloney’s Studio Limited, 79 DTC 5124, à la page 5129 :
+En fait, « la justice et le réalisme » n’ont jamais constitué un critère dominant d’interprétation des lois fiscales. À ce sujet, voici ce qu’a déclaré lord Cairns dans Partington v. Attorney‑General, L.R. 4 H.L. 100, à la page 122 :
+[traduction]
+Je ne suis pas du tout certain que, dans un cas de ce genre – une affaire fiscale – la forme ne soit pas largement suffisante; en effet, selon moi, le principe à la base de toute mesure fiscale est le suivant : si la personne qu’on cherche à assujettir à la taxe tombe sous le coup de la lettre de la loi, elle doit y être assujettie, si dur que cela puisse paraître au juge. Par contre, si le fisc, en tentant de recouvrer la taxe, ne peut établir que la personne tombe sous le coup de la lettre de la loi, elle en est exempte, même si en apparence le cas peut sembler cadrer avec l’esprit de la loi. En d’autres termes, s’il est possible de donner à certaines lois une interprétation équitable, cela ne peut se faire dans le cas d’une loi fiscale où il faut simplement s’en tenir à la lettre.
+[13] Dans les dictionnaires anglais, la préposition « from » a été définie des façons suivantes :
+[traduction]
+The Shorter Oxford English Dictionary
+[…] indique un point de départ.
+The Canadian Oxford Dictionary
+« from »
+[…] prép. marque la séparation ou l’origine […] 3a une source […]
+[14] Les tribunaux se sont prononcés à maintes reprises sur la question de savoir ce qui constitue un revenu tiré d’un emploi. Dans Robertson v. The Queen[5], le ministre du Revenu national a cherché à étendre le sens de l’expression « revenu tiré d’une charge ou d’un emploi » au-delà du concept habituel de « salaire, traitement ou toute autre rémunération, y compris les gratifications » pour y inclure les « avantages quelconques » reçus par l’employé « au titre, dans l’occupation ou en vertu » d’une charge ou d’un emploi. Dans Robertson, la section de première instance de la Cour fédérale avait fait référence à The Queen v. Savage, 83 DTC 5409, pour insister sur le sens très large de l’expression « avantages quelconques », et à Nowegijick v. The Queen, 83 DTC 5041, où la Cour suprême du Canada a fait l’observation suivante :
+À mon avis, les mots « quant à » ont la portée la plus large possible. Ils signifient, entre autres, « concernant », « relativement à » ou « par rapport à ». Parmi toutes les expressions qui servent à exprimer un lien quelconque entre deux sujets connexes, c’est probablement l’expression « quant à » qui est la plus large.
+[15] De plus, pour que l’on considère qu’un revenu a été tiré d’un emploi, il n’est plus nécessaire qu’il ait été versé par l’employeur. Selon Waffle[6], on ne doit pas conclure « que, si la personne qui assume les frais n’est pas l’employeur du bénéficiaire, ce dernier n’acquiert pas cet avantage au titre, dans l’occupation ou en vertu de sa charge ou de son emploi ». Dans cette affaire‑là, M. Waffle avait reçu un avantage imposable, c’est‑à‑dire un voyage, dont le coût avait été considéré comme un revenu tiré de son emploi.
+[16] En l’espèce, l’appelant affirme que les prestations de retraite qu’il a reçues constituent un revenu tiré d’un emploi. Il insiste sur le lien entre son emploi exempté d’impôt auprès de l’ATAI et les prestations de retraite qu’il a reçues, et affirme qu’il faut interpréter le sous‑alinéa 110(1)f)(iv) de la Loi de façon pragmatique et large. L’appelant soutient aussi que l’alinéa 3a) et le paragraphe 5(1) de la Loi ont une portée suffisamment vaste pour s’appliquer aux prestations de retraite.
+[17] L’appelant a invoqué Touchette c. La Reine[7], une affaire ou la Cour a adopté une interprétation large de l’expression « revenu tiré d’un emploi ». Dans Touchette, le contribuable était tenu d’inclure dans son revenu des indemnités pour invalidité qu’il avait reçues « au titre » ou « en vertu » d’une charge ou d’un emploi. Dans cette décision‑là, la Cour a fait référence à Cutmore et al. v. M.N.R., 86 DTC 1146, une autre décision de la Cour, dont le passage suivant est tiré :
+On a déjà cru à tort que, pour tomber sous le coup de ce libellé, il fallait qu’un avantage soit reçu à titre de rétribution de services rendus à titre d’employé, c’est‑à‑dire que le facteur causatif de l’attribution d’un avantage soit les services rendus par le bénéficiaire : voir par exemple Succession Phaneuf c. La Reine, (1978) 2 C.F. 564 […]
+[…]
+[…] La conception erronée dont nous avons fait état a été rectifiée dans l’arrêt La Reine c. Savage, (1983) 2 R.C.S. 428. […] le juge Dickson déclare aux pages 440 et 441 :
+[…] je ne suis pas d’accord […] avec l’affirmation portant qu’une personne ne reçoit un paiement en sa qualité d’employé que lorsqu’il s’agit d’une rémunération pour services rendus. […] Notre loi renferme la stipulation « avantages de quelque nature que ce soit […] au titre, dans l’occupation ou en vertu de la charge ou de l’emploi », qui ne se trouve pas dans les lois anglaises mentionnées. Les mots « avantages de quelque nature que ce soit » ont nettement un sens très large […][8]
+Dans Touchette, la Cour a aussi cité les commentaires faits par le juge Dickson dans La Reine c. Savage au sujet de l’affaire R. v. Poyton, [1972] 3 O.R. 727[9] :
+Je partage l’avis du juge Evans de la Cour d’appel de l’Ontario qui […] affirme au sujet des avantages qu’une personne a reçus ou dont elle a joui au titre, dans l’occupation ou en vertu d’une charge ou d’un emploi :
+[traduction]
+Je ne crois pas que ces termes ne visent que les avantages liés à la charge ou à l’emploi en ce sens qu’ils représentent une forme de rémunération pour des services rendus. S’il s’agit d’une acquisition importante qui confère au contribuable un avantage économique et qui ne fait pas l’objet d’une exemption comme, par exemple, un prêt ou un cadeau, elle est alors visée par la définition compréhensive de l’article 3.
+[18] L’appelant a aussi invoqué la décision Canada c. Fairey[10], où la section de première instance de la Cour fédérale a accueilli l’argument voulant que certaines sommes retenues par l’employeur à titre de cotisations à un régime de retraite constituaient un revenu imposable pour l’employé. Cette affaire‑là portait sur les cotisations de l’employeur, et non sur les prestations de retraite provenant d’une caisse de retraite.
+[19] L’appelant a aussi invoqué Blauer c. Canada[11], une affaire où la Cour a donnée une interprétation large au terme « tiré ». Dans Blauer, Mme Blauer, une non‑résidente du Canada, recevait des paiements d’assurance‑salaire d’une source canadienne. La Cour a souligné que, dans l’expression « revenus tirés des fonctions de charges et d’emplois exercés [au Canada] par [une personne qui ne réside pas au Canada] », il faut donner une interprétation large au terme « tiré », et que ce terme exige que l’on établisse un lien pertinent avec la source du paiement. Toujours dans Blauer, la Cour a cité sa décision dans Datex Semiconductor Inc. c. Canada[12], et a appuyé l’opinion selon laquelle « l’endroit où les paiements étaient administrés ou d’où ils provenaient peut être considéré comme un lien pertinent pour déterminer si un paiement a été fait “dudit” établissement » :
+[14] En ce qui concerne l’argument selon lequel les mots « revenus tirés des fonctions de charges et d’emplois exercées par [le non‑résident] » commandent une interprétation plus large du mot « tiré », […] j’ai appliqué une interprétation large du mot « tiré » en concluant qu’il s’agissait de la source du paiement[13].
+[20] L’intimée affirme que les prestations de retraite n’ont pas été payées en contrepartie de services rendus, mais plutôt en contrepartie de cotisations faites au régime de pension. Les sommes versées à l’appelant par la Royal Trust Co. ne constitueraient donc pas un revenu tiré de fonctions exercées. L’intimée se fonde sur Blauer, décision dans laquelle la Cour a conclu que le sens de l’expression « revenu tiré » ne pouvait pas être élargi pour y inclure le revenu « attribuable à » une source qui était l’exercice des fonctions de l’emploi ou « provenant » d’une telle source, et que le lien entre l’exercice des fonctions et les paiements était simplement trop ténu pour constituer le lien nécessaire. Par analogie avec l’affaire Blauer, l’intimée considère que le sens de l’expression « revenu tiré d’un emploi » employée au sous‑alinéa 110(1)f)(iv) de la Loi n’est pas suffisamment large pour inclure les prestations de retraite payées au contribuable par la Royal Trust Co.
+[21] En anglais, les termes « superannuation » et « pension » ont été définis de la façon suivante :
+The Shorter Oxford English Dictionary
+“superannuation” […] the allowance or pension granted to one who is discharged on account of age.
+“pension” […] an annuity or other periodical payment made […] in consideration of past services.
+En français, les définitions suivantes des termes « retraite » et « pension » ont été citées :
+Le Grand Robert de la langue française
+« retraite » […] situation d’une personne qui cesse d’exercer une fonction, un emploi […] et qui a droit à une somme d’argent régulièrement versée.
+« pension » […] allocation périodique qui est payée à une personne pour assurer son existence, pour la récompenser de services rendus, pour l’indemniser.
+[22] Dans La Reine c. Herman[14], la question en litige était de savoir si les prestations mensuelles provenant d’une caisse de pension enregistrée au Canada reçues par un ancien employé des Nations‑Unies – qui était résident du Canada – constituaient des paiements de pension. Pendant que M. Herman travaillait pour l’ONU, ses revenus d’emploi étaient exonérés d’impôt au Canada. Dans cette affaire, la Cour d’appel fédérale est arrivée à la conclusion suivante :
+[11] […] Le savant président a indiqué sans équivoque qu’à son avis, la loi fiscale est dénuée de toute équité mais que sa décision n’était pas motivée par cette considération. Je ne saurais cependant souscrire à l’opinion selon laquelle on doit limiter le nom de fonds de pension à celui à l’égard duquel les contributions sont déductibles aux fins de l’impôt. Nous sommes bel et bien en présence d’un fonds de retraite ou de pension […] Ni la définition de la prestation de retraite ou de pension que constitue […] (l’article 248(1) de la Loi actuellement en vigueur) qui fait état de tout montant reçu « sur un fonds ou un plan de pension de retraite ou de pension » conformément aux dispositions du fonds ou du plan, ni aucune autre disposition de la même loi ne permet, à mon avis, de décomposer ce fonds en ses éléments premiers pour conclure qu’il ne s’agit pas là d’un fonds de retraite du point de vue des primes versées par le contribuable et qu’il ne peut déduire aux fins de l’impôt sur le revenu, en même temps qu’il s’agit bien d’un fonds de retraite ou de pension pour ce qui est des contributions faites par l’employeur. […]
+[…]
+[13] En imposant le revenu provenant d’un fonds de retraite ou de pension, la Loi ne fait aucune distinction quant à son origine. Le législateur se contente d’imposer l’ensemble du revenu reçu par un contribuable résidant au Canada. […]
+[23] Dans Watts c. Canada[15], l’ancien juge en chef adjoint Bowman a conclu qu’aux fins de la Loi, les prestations d’invalidité provenant du régime de pensions du Canada à un non‑résident ne constituaient pas un revenu imposable afférent à une charge ou à un emploi, mais plutôt des paiements de pension.
+[24] Dans Abrahamson v. Canada[16], le juge Rip a mentionné ce qui suit au sujet du sens de l’expression « prestation de retraite ou de pension » utilisée au sous‑alinéa 56(1)a)(i) de la Loi :
+Par conséquent, les mots « prestation de retraite ou d’autres pensions » au sous‑alinéa 56(1)a)(i) visent le versement d’une allocation – fixe ou pouvant être déterminée – à intervalles réguliers à une personne généralement, mais pas toujours, par suite de la cessation d’emploi pour lui assurer des moyens minimums de subsistance, le programme formel de paiement des prestations précisées ou l’organisation ou la promotion de la façon dont les prestations sont effectuées doivent relever d’une personne autre que le bénéficiaire puisque le droit de ce dernier de recevoir les prestations de retraite ou d’autres pensions est déterminé par le régime de retraite ou de pension visé au sous‑alinéa 56(1)a)(i). En d’autres termes, la régularité et le montant des prestations sont dictés par les modalités du régime et ne relèvent pas du pouvoir discrétionnaire ou des instructions du bénéficiaire.
+[25] Le libellé du sous‑alinéa 110(1)f)(iv) de la Loi est tout à fait clair et ne comporte aucune ambiguïté. Le législateur a voulu permettre la déduction du « revenu tiré d’un emploi » versé au contribuable par une organisation non gouvernementale visée par règlement. La présente affaire ne permet pas d’étendre le sens de l’expression « revenu tiré de » pour inclure le revenu « attribuable à » une source qui était l’exercice des fonctions de l’emploi ou « provenant » d’une telle source. De plus, le fait de limiter le sens de l’expression « revenu tiré d’un emploi » au revenu provenant directement de la source qui était l’exercice des fonctions ne mène pas à un résultat absurde.
+[26] Si l’appelant reçoit des prestations de retraite conformément aux modalités de son régime de retraite, ce n’est pas en contrepartie de services rendus, mais bien parce qu’il a cotisé au régime administré par la Royal Trust Co. en vue recevoir des paiements futurs. Par analogie avec Blauer, le fait que l’appelant a rendu les services en question en contrepartie de cotisations faites par l’employeur au régime de retraite de la Royal Trust Co. et en vue de recevoir de prestations de retraite après la cessation de son emploi ne fait pas des prestations de retraite un revenu tiré d’un emploi. Les prestations de retraite reçues par l’appelant tombent sous le coup de la définition pertinente au paragraphe 248(1) de la Loi et elles ne constituent pas un revenu tiré d’un emploi.
+[27] En application du sous‑alinéa 115(1)a)(i) de la Loi, qui porte sur les revenus tirés des fonctions de charges et d’emplois exercées au Canada par un non‑résident du Canada, les prestations de retraites reçues par un contribuable non‑résident ne constituent pas un revenu tiré d’un emploi. Les prestations de retraite sont plutôt imposables en application d’une disposition précise de la partie XIII de la Loi, l’alinéa 212(1)h), lequel prévoit que le contribuable non‑résident doit payer un impôt sur les prestations de retraites reçues d’une source canadienne. De plus, l’article 217 de la Loi permet au non‑résident de choisir de payer un impôt sur ses prestations de retraite en application de la partie I de la Loi. En règle générale, les dispositions particulières l’emportent sur les dispositions générales.
+[28] En outre, aux fins de la partie I de la Loi, qui s’applique aux contribuables résidents du Canada, les prestations de retraite sont considérées comme une autre source de revenu en application du sous‑alinéa 56(1)a)(i) de la Loi, et non pas comme un revenu tiré d’une charge ou d’un emploi, au sens du paragraphe 5(1) et de l’alinéa 6(1)g) de la Loi.
+[29] L’application de la méthode d’interprétation textuelle, contextuelle et téléologique unifiée à la Loi permet de conclure que le législateur avait l’intention d’assujettir les prestations de retraite à l’impôt à ce titre, et non pas en tant que revenu tiré d’un emploi. Il n’y a aucun doute raisonnable que le sens de l’expression « revenu tiré d’un emploi » employé au sous‑alinéa 110(1)f)(iv) de la Loi n’est pas assez large pour inclure les prestations de retraite en cause, et que le fait d’étendre le sens de l’expression « revenu tiré d’un emploi » pour inclure les prestations de retraite reçues par l’appelant reviendrait à interpréter cette disposition tellement largement qu’elle en serait méconnaissable.
+[30] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 26e jour d’octobre 2009.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 8e jour de décembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 547
+No DU DOSSIER DE LA COUR :
+2007-4356(IT)I
+INTITULÉ :
+Capitaine Tore R. Granaas et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 5 juin 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 26 octobre 2009
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Philip Aspler
+Avocate de l’intimée :
+Me Julie David
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Philip Aspler
+Cabinet :
+Aspler & Associates
+Montréal (Québec)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Corporation Notre-Dame de Bon-Secours v. Communauté Urbaine de Québec, 95 DTC 5017, 5023.
+[2] La Reine c. Golden, [1986] 1 R.C.S. 209, où il est fait référence à Stubart Investments Ltd. c. La Reine, [1984] 1 R.C.S. 536.
+[3] driedger, Elmer A., Construction of Statutes, 2e éd., 1983, p. 87.
+[4] côté, Pierre-André, Interprétation des lois, 1982, p. 2. Voir aussi R. v. Multiform Manufacturing Co. et al. (1990), 58 C.C.C. (3d) 257, 262.
+[5] Robertson v. Canada, 88 DTC 6071.
+[6] Waffle v. M.N.R., 69 DTC 5007.
+[7] Touchette c. Canada, [1994] A.C.I. no 174.
+[8] Touchette, précitée, paragraphe 22.
+[9] Ibid., paragraphe 24.
+[10] Canada c. Fairey, [1991] A.C.F. no 254.
+[11] Blauer c. Canada, 2007 CCI 706.
+[12] Datex Semiconductor Inc. c. Canada, [2007] A.C.I. no 128.
+[13] Ibid., paragraphe 14.
+[14] La Reine c. Herman, [1978] 2 C.F. 756.
+[15] Watts c. Canada, 2004 CCI 535.
+[16] Abrahamson v. M.N.R., 91 D.T.C. 213.

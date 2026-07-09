@@ -1,0 +1,174 @@
+Title: 1057513 Ontario Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/73525/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-272-73525-1057513-ontario-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-09-12
+
+# 1057513 Ontario Inc. v. The Queen
+
+- Citation: 2014 TCC 272
+- Decision date: 2014-09-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5164, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1057513 Ontario Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-09-12
+Neutral citation
+2014 TCC 272
+File numbers
+2009-3721(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3721(IT)G
+BETWEEN:
+1057513 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 3, 2014, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Martin Sorensen/Philip Ward
+Counsel for the Respondent:
+Arnold H. Borstein
+AMENDED JUDGMENT
+In accordance with the reasons for judgment attached, the appeal from the reassessments made under the Income Tax Act for the taxation years 1997-2004 is hereby dismissed with the exception that the assessment on account of Part IV tax in taxation year 2003 is, on consent of both parties, $1,442,760 and to that extent the matter is referred back to the Minister of National Revenue for reconsideration and reassessment.
+Party and party costs are awarded to the Respondent, in accordance with the applicable tariff, subject to the right of either party to make written submissions to the Court within 30 days of this judgment.
+This Amended Judgment is issued in substitution of the Judgment dated September 12, 2014.
+Signed at Yellowknife, Northwest Territories, this 24th day of September 2014.
+“R.S. Bocock”
+Bocock J.
+Citation: 2014 TCC 272
+Date: 20140923
+Docket: 2009-3721(IT)G
+BETWEEN:
+1057513 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction [1] The principle of integration in tax law refers to the desired balance and parity optimally achieved under the Income Tax Act (“Act”) as among or between certain distinct entities: usually individuals and corporations. Entire sections and parts of the Act are dedicated towards achieving this goal. Part IV of the Act seeks to achieve integration as between corporations and individual shareholders on the issue of corporate dividends. Corporations initially pay tax upon declaring dividends, but once individual shareholders include the dividends in income and pay tax on same, the corporation, subject to certain conditions, is entitled to a “dividend refund” as defined in subsection 129(1). The interpretation of one of those conditions is the essence of this appeal.
+[2] Specifically, the dividend refund is due to the corporation provided it has indeed paid the dividend and is a “private corporation”. The dividend refund is paid “by the Minister” to the corporation where the corporation’s income tax return is made within 3 years after the initial dividend is paid to the shareholder.
+[3] In the present appeal, the Minister submits that a failure to file such tax returns within the described 3 year period after the year the dividend has been paid is fatal to an entitlement to receive the dividend refund. The Appellant appeals the Minister’s refusal to refund such dividend tax.
+II. Facts [4] There are no facts in dispute and counsel are to be commended for their submitted agreed statement of facts. For 8 taxation years from 1997 to 2004 inclusive, the Appellant declared and paid dividends to its shareholders totalling $4,676,600. Through a mistake of law (the Appellant’s director and officer was simply unaware of this specific and distinct legal obligation of a personal holding company), the Appellant failed to file any relevant corporate tax returns until 2008. There is no dispute that the filing of the returns in 2008 is beyond the 3 year period described in subsection 129(1). Upon receipt of the returns, the Minister assessed Part IV dividend tax, interest and penalties now in excess of $2,000,780, but at the same time denied the dividend refund. The amount of the dividend refund for taxation year 2003 is conceded by Respondent’s counsel to be $1,452,893, the sum of $46,740 less than that originally assessed. Otherwise there is no dispute as to the quantum of the reassessment, but only the entitlement to the dividend refund.
+[5] Therefore, although the original dividend income paid by the Appellant to various shareholders originated from a connected corporation, the parties agree upon the sole issue for this Court to determine: whether the failure to file corporate tax returns within the 3 years described in subsection 129(1) (the “filing deadline”) is fatal to the Appellant’s present claim for repayment of the corporate dividend tax?
+III. Summary of Appellant’s Submissions and Issues [6] In summary, within subsection 129(1), the Appellant submits that:
+a) the wording surrounding the filing deadline, as a condition precedent to payment of the dividend tax refund, is ambiguous (or at least “not unambiguous”) for several reasons: its unique use of the word “where” in the preamble, the absence of any enumerated penalty for missing the filing deadline and the filing deadline’s fundamentally different meaning and context from other conditions precedent in the subsection;
+b) a proper textual, contextual and purposive analysis, not previously undertaken in other cases which have considered the subsection, would lay bare the ambiguities within the text resulting in a conclusion that the purpose of integration, to which the dividend tax refund is essential, is disharmoniously defeated by such a literal requirement by the Minister for compliance with the filing deadline; and,
+c) apart from the approach to be taken above, the filing deadline, as a time limit, is directory and not mandatory and non-compliance is not fatal to entitlement to the dividend refund.
+[7] Generally therefore, the issues before the Court surrounding subsection 129(1) may be distilled as follows:
+a) Does a textual reading of the text embodying the filing deadline give rise to ambiguity?
+b) Does a further textual, contextual and purposive analysis reveal latent ambiguities which afford payment of the dividend refund where the filing deadline is missed?
+c) In the alternative, is the filing deadline mandatory, thereby rendering missing it fatal or, is it merely directory, thereby allowing the dividend tax to be refunded?
+[8] For the reasons which follow the appeal is dismissed.
+IV. Analysis of Subsection 129(1): (a) The text of subsection 129(1): The relevant excerpt from subsection 129(1) in English and French provides as follows (emphasis added):
+Dividend refund to private corporation
+129. (1) Where a return of a corporation’s income under this Part for a taxation year is made within 3 years after the end of the year, the Minister
+(a) may, on sending the notice of assessment for the year, refund without application an amount (in this Act referred to as its “dividend refund” for the year) equal to the lesser of
+[…]
+(ii) its refundable dividend tax on hand at the end of the year; and
+(b) shall, with all due dispatch, make the dividend refund after sending the notice of assessment if an application for it has been made in writing by the corporation within the period within which the Minister would be allowed under subsection 152(4) to assess tax payable under this Part by the corporation for the year if that subsection were read without reference to paragraph 152(4)(a).
+Remboursement au titre de dividendes à une société privée
+129. (1) Lorsque la déclaration de revenu d’une société en vertu de la présente partie pour une année d’imposition est faite dans les trois ans suivant la fin de l’année, le ministre :
+a) peut, lors de l’envoi de l’avis de cotisation pour l’année, rembourser, sans que demande en soit faite, une somme (appelée « remboursement au titre de dividendes » dans la présente loi) égale à la moins élevée des sommes suivantes :
+[…]
+(ii) son impôt en main remboursable au titre de dividendes, à la fin de l’année;
+b) doit effectuer le remboursement au titre de dividendes avec diligence après avoir envoyé l’avis de cotisation, si la société en fait la demande par écrit au cours de la période pendant laquelle le ministre pourrait établir, aux termes du paragraphe 152(4), une cotisation concernant l’impôt payable en vertu de la présente partie par la société pour l’année si ce paragraphe s’appliquait compte non tenu de son alinéa a).
+[9] In respect of the wording or text of the subsection per se, the Appellant submits that the failure of the subsection to prescribe a penalty for missing the filing deadline distinguishes it from other sections under the Act, namely, in contrast to the combined effect of paragraph 150(1)(a) and section 162. The omission of a penalty in subsection 129(1) renders it ambiguous or at least “not unambiguous”. Appellant’s counsel further submits that by conducting a primarily textual analysis or, at least, a cursory and insufficient contextual and purposive analysis, the Court in Tawa Developments Inc v R, 2011 TCC 440, erred by failing to conduct a full textual, contextual and purposive analysis and relied solely, narrowly and literally upon a textual analysis. Appellant’s counsel referenced the Court’s statement in its concluding analytical paragraph:
+[51] A textual analysis leads to the following conclusions. Because subsection 129(1) contains an unambiguous condition that a tax return be filed within a prescribed time, where that condition is not met subsection 129(1) does not come into play and the dividend refund cannot be determined. The condition contained in the preamble to subsection 129(1) is no different than the remaining conditions contained in that subsection, such as the condition that the corporation be a private corporation and that it has paid a dividend in the taxation year. If those conditions are not met, subsection 129(1) does not come into play either and the “dividend refund” is likewise indeterminable. The ordinary definitions of the word “refund” imply a repayment.
+[10] The appeal in Tawa considered two issues: the first related to subsection 129(1) and the second related to an alternative issue concerned with the reduction of the refundable dividend tax on hand (“RDTOH”). In respect of the first ground appealed before this Court, the Appellant in Tawa raised the following specific arguments:
+ii) the automatic generation of a dividend refund upon late filing;
+iii) the late filing when accepted by the Minister cured the filing deadline;
+iiii) the late filing is analogous to a late election or designation;
+iiv) the absence of a mandatory denial provision;
+iv) the preamble is a rebuttable presumption; and,
+ivi) denial of the dividend refund offends the policy of integration.
+[11] Justice Hogan’s analysis in Tawa spanned 5 pages on the first issue and covered each argument outlined above. In referencing each argument, automatic refund was considered by the Court at paragraphs 15 and 16, waiver by the Minister’s acceptance of a late return at paragraph 26, analogy to late election at paragraphs 23 and 24, absence of specific denial provision at paragraph 19, rebuttable presumption at paragraph 20. More importantly, the argument that the section was contrary to the purposes of integration was countenanced by the Court at paragraphs 17, 19, 22, 38 and 49 (admittedly in the last two paragraphs the topic was commingled with discussion regarding the context and purpose of the second issue: the RDTOH balance reduction).
+[12] In a subsequent informal procedure case before the Court, Webb J., as he then was, gave short shrift to the suggestion that subsection 129(1) was anything but entirely clear when he said at paragraph 4 of Ottawa Ritz Hotel Co. v Canada, 2012 TCC 166:
+In Tawa Developments Inc. v. The Queen, 2011 TCC 440, 2011 DTC 1324, Justice Hogan confirmed that the failure to file the tax return within the three year period referred to subsection 129(1) of the Act, “made the dividend refund provision in subsection 129(1) inoperative … and the refund unobtainable”. Since the Appellant did not file its tax return for its 2007 taxation year within three years from the end of this taxation year, the provisions of paragraphs (a) and (b) of subsection 129(1) are not applicable and the Minister is not obligated to pay the dividend refund amount to the Appellant.
+[13] Similarly, Lamarre J. of this Court stated in the case of Ottawa Air Cargo Centre Ltd v R., 2007 TCC 193 at paragraphs 36, 37 and 38 (subsequently affirmed by the Federal Court of Appeal at 2008 FCA 54):
+[36] With respect to the relief sought by the appellant, namely, that it be entitled to refunds of any and all amounts of Part IV tax payable with respect to its 1995 through 1998 taxation years, pursuant to paragraph 129(1)(b) of the Act, and that the amounts of Part IV tax payable by the appellant be offset in their entirety by the amounts of the refunds of such tax, I agree with the respondent that this request cannot be granted at this stage.
+[37] The appellant did not make an application in writing for such a refund within the period within which the Minister would be allowed under subsection 152(4) to assess tax payable under Part I, as required by paragraph 129(1)(b). Indeed, when the Minister assessed the appellant for Part IV tax with respect to deemed dividends, the appellant chose to reduce the resulting liability to a nominal amount through the application of losses thereto. No refund of Part IV tax was sought pursuant to subsection 129(1) of the Act and indeed no refund was given to the appellant. It is now too late to seek one.
+[38] Subsection 165(5) referred to by the appellant only applies to a reassessment made pursuant to subsection 165(3) (i.e., the limitations imposed under subsection 152(4) do not apply to a reassessment in response to a notice of objection). It does not apply to the time limit under paragraph 129(1)(b) for making an application for a refund.
+[14] While the Court will proceed to conduct a full textual, contextual and purposive analysis in order to ensure that no latent ambiguities are revealed (Canada Trustco Mortgage Co. v R., 2005 SCR 54 at paragraph 47), given the findings above (including the upholding of the decision of Ottawa Air Cargo Centre Ltd v R. on appeal) and the immediate following reasons below, there are no patent textual ambiguities present in this ostensibly clear and unambiguous provision.
+[15] That clarity is provided through the use of a preamble which establishes a condition precedent: “Where a return …is made within 3 years…, the Minister (a) may...and (b) shall … make a dividend refund”. Although perhaps too simplistic, both statutorily and algebraically subsection 129(1) may be expressed as:
+Where X does y within t, M may (under certain circumstances) or shall (under others) refund a.
+[16] Additionally and although raised tangentially in argument, this Court is required to take notice of both the English and French versions of the Act. Both are to be assigned equal weighting and their shared meaning is to be ascertained: subsection 18(1) of the Constitution Act, 1982. While not in conflict in this instance, the Court observes that the word “lorsque” in French embodies a different meaning than the word “where” in English. The French word “lorsque” is definitionally closer to the meaning of “when” in English. Le dictionnaire de reférénce Robert-Collins, 9 edition, 2010 translates “lorsque” from French to English as follows:
+Lorsque - when – lorsqu’il entra/entrera when ou as he came/comes in
+Notwithstanding that the English version’s use of “when” is not textually ambiguous when used in conjunction with the filing deadline, the meaning in French approximates even more closely the concept of “in the event that” (also generally present in the English version). Such emphasis enhances the clarity of the words and the temporal importance of the filing deadline. In short, the French version states “when a return of a corporation’s income is made within 3 yeas following … the Minister may, or shall, …refund.” The crispness also echoes a true condition precedent in its common meaning with the English version. Although textual ambiguity is not present in the English version, the French version further dispels any latent textual doubt.
+[17] Patently, there is “no slippage betwixt hand and mouth.” Parliament requires various entities to do various things in certain time-frames. The corporation must file its returns, exclusively within its power, control and knowledge whereupon the Minister makes the dividend refund. Textually, it is strikingly lucid and abundantly clear. On a pure textual basis, to suggest otherwise ignores the plain and obvious meaning of the words and requires, the very thing proposed by the Appellant, a virtual re-writing of the provision by the deletion of the time deadline: Ludmer v. MNR [2002] 1 CTC 95 (SCC) at paragraph 109.
+(b) Textual, contextual and purposive analysis [18] Beyond a detailed textual examination, the context of subsection 129(1) is that it appears within Part I of the Act, division F which contains special rules, in this case, dealing with private corporations. It is referable to Part IV, tax on taxable dividends received by and from private corporations. Combined, they provide a logical regime, time-frame and methodology for implementing the principles of integration described in the first paragraphs of these reasons. Similarly, refunds otherwise payable under the Act are envisaged in subsection 164(1) which provides:
+164. (1) If the return of a taxpayer’s income for a taxation year has been made within 3 years from the end of the year, the Minister
+a) may,
+[…]
+(b) shall, with all due dispatch, make the refund referred to in subparagraph (a)(iii) after sending the notice of assessment if application for it is made in writing by the taxpayer […]
+164. (1) Si la déclaration de revenu d’un contribuable pour une année d’imposition est produite dans les trois ans suivant la fin de l’année, le ministre :
+a) peut faire ce qui suit :
+[…]
+b) doit effectuer le remboursement visé au sous-alinéa a)(iii) avec diligence après avoir envoyé l’avis de cotisation, si le contribuable en fait la demande par écrit [...].
+[19] As noted above, Appellant’s counsel notes the use of the words “where” or “lorsque” as the first word in subsection 129(1) as opposed to “if” and “si” in subsection 164(1). Additionally, it is contended that the absence of a penalty or consequences for not filing the return within the allotted time provides ambiguity on a comparative basis with other sections of the Act.
+[20] At a certain level, the overarching purpose of the combination of the various sections is to effect the principle of integration. It seeks to place an individual who holds such shares through a private holding company in the same position as one who holds such shares directly. It prevents individuals from holding dividend-yielding shares in order to defer, perhaps permanently, paying tax on such dividends. It is widely received as such and was referenced as such by both counsel.
+[21] Context and purpose, however, require the interpretation of the Act as a harmonious whole. Therefore, quite apart from the mandatory versus directory argument which will be subsequently analyzed below, what is the function and purpose of the subsection 129(1) filing deadline within the section, part and Act as a whole? The Appellant says the use of the filing deadline as a prohibition to the dividend refund is so antipodal to the principle of integration that it should be read out. Consequentially, to do so would make the dividend refund provision perpetual. “Where” or “lorsque” would become “after” or “après” and the words “within 3 years after the end of the year” would be extinguished completely. In actuality, the entire preamble with the exception of the words “the Minister” would be useless since the section already implies that a return is to be otherwise filed which triggers: (i) a notice of assessment (129(1)(a)) or, (ii) an application is made (129(1)(b)) requiring the dividend refund to be paid. Could this have possibly been the reconciled intention of Parliament within the context of the subsection and part?
+[22] Not unlike many other provisions of the Act, both the context and purpose of integration are served through an entire regime which acknowledges the taxpayer’s obligation to file tax returns, provides some closure for the Minister after a more than reasonable period of time (including generous grace periods) and maintains language which efficaciously accomplishes a voluntary filing, payment and assessment system. The appellant’s purposive interpretation proposes reading out the achievable filing deadline of the overarching statutorily mandated self-assessment and filing system. Moreover, from a policy perspective, upholding the filing deadline provides a generous, administrable and clear ability to claim a dividend refund for those taxpayers utilizing private holding companies and who should otherwise be cognizant of the additional requirements, complexities and formalities of those business structures when utilizing such entities: R. v Neudorf, 75 DTC 5213 (FCTD at paragraph 10).
+[23] On these bases, the dominant role of the clear, unequivocal and unambiguous words have not had laid bare a latent ambiguity by the textual, contextual and purposive analysis of the subsection as it appears and is interpreted within the Act. Parliament’s intention to establish the principle of integration was implemented within a section also embodying consistent and generous, but time sensitive, filing deadline requirements to file returns, a concept otherwise generally and repeatedly embedded elsewhere throughout the Act. The presence of the filing deadline in this section and part as a requirement, together with a generous time-frame for the filing of returns of income culminating in a dividend refund, is not disharmonious with the regime of the Act. While such an interpretation may be inconvenient and even harsh, conjunctively this interpretation harmoniously effects the overriding and overarching context and purpose of the subsection and the Act rather than belies or defeats them. The upholding of the filing deadline creates no absurdity or result contrary to the regarded intent of Parliament when the statute is viewed as a harmonious whole: Canada Trustco at paragraph 10.
+[24] In concluding this analysis, the necessary reading out of the filing deadline, as requested by the Appellant, would delete words and their ordinary meaning which “are precise and unequivocal”. It also prevents the Court from giving the text describing the filing deadline the “dominant role in the interpretive process” it is due, having emerged, as it has, from the textual, purposive and contextual analysis as being harmonious and consistent with the purpose of the section, part and Act as a whole.
+V. Subsection 129 Mandatory or Directory [25] Appellant’s counsel also argues that the absence of a consequence in subsection 129(1) for failing to comply renders the filing deadline directory and not mandatory. Legally, where a statute declares that something ought to be done, without signalling the result upon default or omission, the Court must determine whether the provision is mandatory or merely directory: BC (Attorney General) v Canada (Attorney General), [1994] 2 SCR 41 at paragraph 41.
+[26] The consequence of the failure of the taxpayer to comply with the specific filing deadline, not only has a consequence, but such consequence is the subject of this appeal. If the corporation does not file its return of income within 3 years, the Minister is not required to pay the dividend refund. The Court also notes that the normally required time deadline is much less for the filing of corporate income tax returns and the levying of penalties which arise from such failure.
+[27] A review of the case law regarding directory versus mandatory language reveals certain differences from the facts presently before the Court. This is not the case where the Minister has failed to do a certain act and thus has purportedly lost jurisdiction or authority: Wang v Commissioner of Inland Revenue, [1995] 1 All E.R. 367. This is not the case of a government employee failing to undertake a technical filing: Lewis v Brady, 17 OR 377 (HCJ) and Trenton (Town) v Dyer, 1895 24 SCR 474. The obligation of a taxpayer to file a return of income is indisputably clear under the Act.
+[28] There are many consequences that flow from a failure to file tax returns. Examined logically in the present case, the clear consequence occurs three years hence “where” the taxpayer has failed to cure the default long after the primary statutory obligation to file its return has lapsed. The deadline is not only mandatory, but it embodies and emblazons a paramount requirement and purpose under the Act: the requirement of a taxpayer, who best knows the subject matter of its affairs to file its return of income. This is not the case of an ancillary procedural step or technical form: Moriyama v R., TCC 311 (TCC) affirmed in part at 2005 FCA 207.
+[29] Appellant’s counsel suggests the harsh result of the Minister’s assessment position is blatant and punitive double taxation yielding a windfall to the federal treasury contrary to the overall statutory regime. If subsection 129(1) is construed as directory only, the windfall is denied, but no loss is suffered to the Minister. Again it is difficult to envisage a more fundamental obligation on a taxpayer assigned under the Act than that of filing its returns of income; the timely filing of returns is central “to the object intended to be secured by the Act”: Howard v Boddington (1877), 2 P.D. 203 at page 211; (FCTD) at page 10.
+[30] This timely and time sensitive requirement to file is embedded throughout the Act. Parliament certainly intended that much. Logically, failing to do so gives rise to various sanctions: penalties, interest, alternative assessments, denial of tax refunds, and in this case, dividend refund forfeitures. It may be unfair, unilateral and even draconian, but its central and overarching context and purpose is the requirement to file the prescribed “income tax return” for a prescribed “tax year” within a “filing deadline” established under the “Income Tax Act”. Little, if anything, is procedural, out of context or counter-purposive concerning that sine qua non within the Act. Such a central obligation limits the interpretive licence to allow an associated and fundamental time-frame from becoming merely directory. No authorities cited by the Appellant suggest that a prescribed filing deadline and the logical consequence for failure to file an income tax return are directory or even close. By “attending to the whole scope of the statute to be construed” one determines whether a time sensitive requirement is mandatory or directive: Senger-Hammond v. R., [1997] 1 CTC 2728 (TCC) at paragraph 25). A time deadline related to the filing of tax returns, as compared to other procedural and technical provisions within the Act and certainly the requirement for written receipts in Senger-Hammond, is considerably more important per se and also in general to the object intended to be secured by the Act in toto. In contrast, to read the preamble as directory simply renders the inclusion of the filing deadline related to such a fundamental obligation void, meaningless and contrary to the “whole scope of the statute” as a functional whole.
+VI. Summary and Costs:
+[31] On the basis of the foregoing reasons for judgment, the Minister’s assessment for taxation years 1997 – 2004 remains, but for the assessment of Part IV tax for 2003 which by admission of Respondent’s counsel should be reduced to $1,442,760. To that extent, the matter is referred back to the Minister of National Revenue for reconsideration and reassessment.
+[32] Party and party costs are awarded to the Respondent, in accordance with the applicable tariff, however, either party may make submissions otherwise for consideration by the Court within 30 days of this Amended judgment.
+These Amended Reasons for Judgment are issued in substitution of the Reasons for Judgment dated September 12, 2014 in order to correct the minor arithmetic errors underscored in paragraphs 4 and 31 hereof.
+Signed at Yellowknife, Northwest Territories, this 24th day of September 2014.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2014 TCC 272
+COURT FILE NO.:
+2009-3721(IT)G
+STYLE OF CAUSE:
+1057513 ONTARIO INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 3, 2014
+AMENDED REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+September 12, 2014
+DATE OF AMENDED Reasons for JUDGMENT:
+September 24, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Martin Sorensen/Philip Ward
+Counsel for the Respondent:
+Arnold H. Borstein
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Martin Sorensen/Philip Ward
+Firm:
+Bennett Jones
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

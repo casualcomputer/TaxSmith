@@ -1,0 +1,130 @@
+Title: Nicksy v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/232380/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-116-232380-nicksy-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-06-27
+
+# Nicksy v. The Queen
+
+- Citation: 2017 TCC 116
+- Decision date: 2017-06-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2098, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nicksy v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-06-27
+Neutral citation
+2017 TCC 116
+File numbers
+2016-2656(IT)APP
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-2656(IT)APP
+BETWEEN:
+TIMOTHY E. NICKSY,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on May 25, 2017 at Sudbury, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Gabrielle White
+ORDER
+UPON HEARING testimony from the Applicant and Respondent’s witness, reviewing the affidavits filed and considering the submissions from the Applicant and Respondent’s counsel;
+NOW THEREFORE in accordance with the attached Reasons for Order delivered from the Bench, THIS COURT ORDERS THAT:
+1. the application for an extension of time to file a notice of objection or notice of appeal is dismissed on the basis that the Applicant did not file a notice of objection or notice of appeal or application for the extension of time within the time frame statutorily required in respect of the notice of reassessment dated September 16, 2010 for the 2005 taxation year; and
+2. there shall be no costs on the application.
+Signed at Toronto, Ontario, this 27th day of June 2017.
+“R.S. Bocock”
+Bocock J.
+Citation: 2017 TCC 116
+Date:20170627
+Docket: 2016-2656(IT)APP
+BETWEEN:
+TIMOTHY E. NICKSY,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bocock J.
+[1] This is an application by you, Mr. Nicksy, for an extension of time to file either a notice of objection or a notice of appeal in respect of his previously subsisting notice of objection. The Minister asserts that such notice of objection was nullified by a request for an amendment, and the subsequent notice of reassessment issued by the Minister.
+Facts:
+[2] Aside from that rather complicated statement, the application relates to the following facts. In the 2005 taxation year, Mr. Nicksy filed his tax return and claimed charitable donation receipts in respect of a charitable donation program. This involved ParkLane Financial Group. It involved $7,500 as a cash donation and other claimed forms of charitable donations in kind. Mr. Nicksy received a charitable donation receipt for $30,000.
+(a) Original Objection [3] The Minister originally assessed the return as filed. However, in a first notice of reassessment issued January 27, 2009, Mr. Nicksy, the Minister reassessed you and disallowed the full charitable donation deduction and the related charitable donation tax credit.
+[4] Subsequent to that, a letter from Mr. Grisé, chief of appeals, was issued June 29, 2009 to Mr. Nicksy. The following are excerpts from that letter:
+“This is to advise you that your file is currently being held in abeyance as part of the 'Donations Canada Charitable Donation Program 2005' project.”
+“As the objection relates to an issue that is shared by several other taxpayers, the decision on your file will be deferred pending resolution of related objections.”
+[5] Mr. Nicksy, this is quite common. The Canada Revenue Agency (“CRA”) wants to deal with these thousands of donation receipts administratively, rather than having the Court be flooded with thousands of notices of appeal all related to the same set of facts. The donation receipts are identical, but the amounts donated are not. However, the legal principles, the property and the percentage of cash are normally identical. Therefore administratively, the CRA and the Minister try to deal with these appeals without clogging up the court system.
+[6] Mr. Grisé also writes:
+“Please be advised that while collection action is suspended until the objection is resolved...”
+[7] This is very important to taxpayers, who want to know that property is not being seized.
+“…interest continues to accumulate on the unpaid disputed balance and will be collected when the objection is resolved.”
+[8] That is code for: "If you win, there's no interest; if we win, there is.”
+[9] And then the letter also says:
+“You can avoid further interest if you pay us the money now.”
+You indicated that you did that. That is the letter of June 29, 2009.
+(b) Unrelated Adjustment Request [10] In a totally unrelated matter, you indicated, for tax years 2005 to 2010, with the assistance of your accountant, you filed an adjustment request, usually in the form of a T1 adjustment. This was related to disability tax credits for your daughter. You were granted those disability tax credits. And in that context, there was a notice of reassessment that was issued. Exhibit A-2 is an excerpt or copy of it dated September 16, 2010. It effectively reassessed your 2005 tax return, amongst other tax years, but particularly in this case the 2005 tax year. So a new reassessment was issued on that date. And that was September 16, 2010. There is no dispute, you admit that you received that.
+[11] There was a subsequent letter issued. This is the letter which is in dispute. That was signed by Ms. Renzella of the CRA dated October 27, 2010. It was addressed to the same address as the notice of reassessment and all the other correspondence that you received from CRA over the years. You testified to this fact.
+[12] In that letter of October 27, 2010, Ms. Renzella indicates to you that as a result of that 2005 income tax return, and related assessment, the Canada Revenue Agency issued a reassessment dated September 16, 2010. Again, Exhibit A-2, which you did receive. Ms. Renzella states, “This reassessment nullifies the earlier reassessment and the objection filed. However, you can re-object.” Mr. Nicksy, you have to do that within 90 days of the mailing of the notice of reassessment, dated September 16, 2010. Alternatively, you have the right to appeal directly to the Tax Court of Canada within 90 days of the mailing of that second notice of reassessment dated September 16, 2010.
+[13] Now Ms. Renzella testified that she works out of the Sudbury TSO, I believe, and that she signed the letter and put it in the outgoing mailbox. And after that, it goes into the usual delivery system of the CRA and is mailed. There is an affidavit on file, at least with respect to the system followed by the Canada Revenue Agency with respect to all mail. But there is no dispute, as I mentioned, with respect to the 2005 reassessment, dated September 16, 2010. You received that.
+(c) No Action on Original Objection [14] Nothing further happened, Mr. Nicksy, other than in late 2015 or early 2016, you testified you started to become suspicious because other people involved in the donation program were receiving administrative offers to settle from the CRA. As that particular group program progressed administratively, between the CRA and taxpayers, and not before the Court offers to reassess on a certain basis were issued.
+[15] As a result of that, you logically telephoned the CRA. You were told that your objection could not be dealt with because it had been nullified by the September 16, 2010 reassessment for the 2005 taxation year. As a result of that, at that point you indicated you filed a T1 adjustment request with respect to your 2005 taxation year. This was done in the hopes that the Minister would look at that, reassess you and revive whatever administrative offer had been made to other taxpayers and would make it to you, and that you would accept.
+[16] And so those are the facts. They are not materially in dispute, with the exception, Mr. Nicksy, of the receipt of the letter dated October 27, 2010.
+The Law and Decision: [17] Unfortunately, Mr. Nicksy, I cannot grant your application. The reason for that is, as Ms. White has pointed out, there is much case law on this topic which indicates that if a second notice of reassessment is issued, in respect of a specific taxation year, it nullifies all previous objections. That is how the Income Tax Act works, reasonably and rationally. However, if one does not know about the rule, it can work to one’s disadvantage.
+[18] And in this particular case, when that second notice of reassessment was issued in September of 2010 regarding 2005, admittedly, for a reason that is completely unrelated, it nullified your previous objection relating to the donation appeal. If at that point you had already filed a notice of appeal which you had a right to do, your appeal would still be subsisting. Based upon the legal authorities such as Bormann v. Canada, 2006 FCA 83 unless you have an objection, or an appeal, the Court does not have jurisdiction to consider it. The time frames are very clear under the Act.
+[19] The time frames are a conjunction of sections 165 through to 169 of the Income Tax Act. Because there are 35 million taxpayers, the Minister has to have some finality for assessment. And in its wisdom, Parliament has said, "Here is how it is going to work for everyone." With respect to any specific taxation year and a reassessment that is issued, a taxpayer, upon receipt of a notice of reassessment, has 90 days to file a notice of objection. If the taxpayer fails to do that, the taxpayer then has another year to do so after that. So, 90 days “as of right” and a one year “grace period”. The taxpayer must file within those periods of time in respect of a reassessment in respect of a taxation year. Section 165 is very clear on that particular issue.
+[20] Section 166 relates to objections to the Minister. 167 relates to objections to the Tax Court. Section 169 relates to appeals. They all use the same time frames.
+[21] Once you have an objection filed, if the Minister issues a subsequent reassessment, the taxpayer has an option: she or he can file a notice of objection or a notice of appeal, but the taxpayer must do so within the 90-day period or make an application within the one-year period.
+[22] I fully accept that you did not know the impact of the 2010 reassessment, but you do not dispute that you got the notice of reassessment. If I were to simply rule that because a taxpayer did not know the impact, or did not receive the courtesy because (the Minister is not under an obligation to advise people of the law), I would be incorrect. I also pointed out that Mr. Grisé’s letter was unnecessary.
+[23] Both the letters of Ms. Houde for the 2004 taxation year and the letter of Ms. Renzella (2005) pointed out that you had two options: you could file a new notice of objection or you could file a notice of appeal. You may have received the first letter, but you indicated that you did not receive the other for certain. In any event, the 2010 reassessment does have that legal effect. It nullified all previous objections. It likely was something that your accountant could have mentioned in passing when you filed the T1 adjustment request, but he did not do that either.
+Possible Alternatives: [24] Now, let me reference the adjustment request you have made for the 2005 taxation year that is pending, but held in abeyance, based upon what the CRA official has told you. As a result of the dismissal of this application, you might consider going back and lifting that T1 adjustment request from abeyance. Whether you are within the time frame or not, I cannot comment. That will depend on the dates you filed and ministerial discretion. It will depend on the circumstances of this case. But I can only say to you that given the nature of the adjustment request in 2010, which had the effect of nullifying a completely unrelated notice of objection in 2005, I would think that the Minister will seriously consider exercising her discretion in that regard but it is up to her whether she does or not.
+[25] With respect to the Fairness Committee, a committee of the CRA to which taxpayers may make application for interest and payment relief, there could be grounds you might utilize. If you search on the internet for "CRA Fairness Committee", the website will tell you the grounds upon which you can make such an application.
+[26] In this particular instance, the application by you in 2010 related to your daughter's disability tax credits and the resulting nullification represents a remarkable coincidental inequity. The Fairness Committee might consider the interest related to that period of time when an administrative offer might otherwise have been made, but could not be made because you did not have a subsisting objection simply because of your granted T1 adjustment request. Again, that is not my decision to make, but I will certainly ensure that the parties receive a copy of these reasons for order, to the extent they may assist you before the Fairness Committee and with respect to your T1 adjustment request.
+Summary: [27] These conclude my reasons for order in this matter. As mentioned, Mr. Nicksy, you have not managed to fall within the jurisdiction of the Court to issue an order for an extension. If you take a look at the language, specifically in sections 166.1 or 167(5.1), you will see that Parliament has said, "No order shall issue." Those are the opening words. Nothing could be clearer from Parliament that the Court does not have jurisdiction where the time frames are not met. The case law which has been laid before the Court, but not enunciated by Ms. White, is very clear on that: there is simply no jurisdiction to grant the application, where that application has not been filed within the 90-days as of right period or the one-year extension period.
+[28] Accordingly, the application is dismissed.
+Signed at Toronto, Ontario, this 27th day of June 2017.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2017 TCC 116
+COURT FILE NO.:
+2016-2656(IT)APP
+STYLE OF CAUSE:
+TIMOTHY E. NICKSY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Sudbury, Ontario
+DATE OF HEARING:
+May 25, 2017
+REASONS FOR ORDER BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF ORDER:
+June 27, 2017
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Gabrielle White
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

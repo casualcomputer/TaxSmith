@@ -1,0 +1,185 @@
+Title: Estate of David Currie v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25207/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-125-25207-estate-of-david-currie-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-02-05
+
+# Estate of David Currie v. The Queen
+
+- Citation: 2004 CCI 125
+- Decision date: 2004-02-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2567, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Estate of David Currie v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-02-05
+Référence neutre
+2004 CCI 125
+Numéro de dossier
+2003-842(IT)I
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-842(IT)I
+ENTRE :
+SUCCESSION DE DAVID CURRIE,
+Appelante,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 juillet 2003 à Edmonton (Alberta)
+Devant : L'honorable juge A.A. Sarchuk
+Comparutions :
+Représentant de l'appelante :
+Rob Salmon
+Avocate de l'intimée :
+Me Galina Bining
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation d'impôt établie en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) pour l'année d'imposition 2000 est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation parce que, dans le calcul de son revenu, l'appelante a le droit de déduire le montant de 2 265,18 $ à titre de frais de gestion.
+Signé à Ottawa, Canada, ce 5e jour de février 2004.
+« A.A. Sarchuk »
+Juge Sarchuk
+Traduction certifiée conforme
+ce 6e jour de mai 2005.
+Colette Dupuis-Beaulne, traductrice
+Référence : 2004TCC125
+Date : 20040205
+Dossier : 2003-842(IT)I
+ENTRE :
+SUCCESSION DE DAVID CURRIE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le Juge Sarchuk
+[1] L'administrateur de la succession de David Currie, Rob Salmon, a produit une déclaration des fiducies (T3) pour l'appelante en mars 2001. Dans le calcul du revenu pour l'année d'imposition 2000, un montant total de 23 877,18 $ est déduit au titre de dépenses, engagées ou faites réparti comme suit:
+Pour la disposition du terrain (les « coûts du terrain » )
+18 367,06 $
+Pour l'état de revenu de location (les « coûts de location » )
+5 510,12
+Total des dépenses engagés ou faites
+23 877,18 $
+Par voie d'un avis de nouvelle cotisation daté du 20 juin 2002, le ministre du Revenu national a rejeté les déductions de l'appelante pour les coûts du terrain et les coûts de location pour l'année d'imposition 2000.
+[2] Rob Salmon était le seul témoin de l'appelante. Les faits sont quelque peu inhabituels, et ils commencent en 1955, lorsque David Currie est décédé à Toronto. Juste avant sa mort, M. Currie était agriculteur à Orangeville en Ontario. Son patrimoine a été légué à ses deux cousins, Douglas Craw et Faith Challacombe. Il a été rassemblé et distribué aux bénéficiaires droit, mais l'exécuteur testamentaire ignorait que le quart d'un terrain situé en Saskatchewan était la propriété de M. Currie, et, par conséquent, cette parcelle de terrain n'a pas été transférée aux bénéficiaires. Faith Challacombe est décédée le 30 décembre 1977. Son patrimoine a été légué à parts égales à son mari et à ses trois enfants. En 1992, Douglas Craw est décédé, et la totalité de son patrimoine a été léguée à sa femme, Barbara Craw.
+[3] Lexxor Energy Inc. avait une concession de pétrole et de gaz naturel sur la propriété de M. Currie en Saskatchewan. En 1997, lorsque Lexxor a décidé d'exploiter la concession, une recherche de titres a révélé le propriétaire terrain, mais les efforts pour trouver celui-ci ont été vains. Des renseignements obtenus ont révélè qu'un certain M. Honeker avait exploité la ferme de M. Curie pendant plusieurs années. Après avoir contacté ce dernier, Lexxor a appris que la famille Honaker avait signé un contrat de location avec M. Currie et que l'on croyait que celui-ci était décédé. Malgré cela, la famille Honeker avait continué de payer les taxes municipales et d'exploiter le terrain. Lexxor a soumis la question au Saskatchewan Surface Rights Arbitration Board qui lui a suggéré de contacter T.D. Howes ( « Howes » ) à Toronto, qui exploite une entreprise de généalogie et d'homologation. Howes a réussi à déterminer que M. Currie était décédé en 1955 et qu'il avait légué son patrimoine à deux cousins, qui à leur tour étaient décédés et avaient légué leur patrimoine à des membres de la famille. En 1997, Howes a retracé Barbara Craw et la famille Challacombe. Howes a communiqué avec M. Salmon le 17 septembre 1997, et, par la suite, Barbara Craw a signé un contrat avec Howes[1] stipulant ce qui suit :
+[TRADUCTION]
+Compte tenu du fait que Howes a entrepris, à ses propres frais et risques, la recherche pour retrouver ces biens et qu'il m'a retracée, et
+Compte tenu du fait que Howes m'informera de la nature exacte, de l'étendue et de l'emplacement de ces biens et que Howes fera tous les efforts raisonnables pour que ces biens soient transférés à mon nom, je conviens de faire une cession irrévocable à Howes d'un tiers (1/3) de la valeur nette des biens plus la TPS, dès que j'entrerai en possession de ces biens.
+Vous, le détenteur, devez payer à Howes des honoraires équivalant à un tiers (1/3) de la valeur des biens plus la TPS, selon les instructions, lorsque les deux tiers (2/3) de la valeur des biens (moins la TPS) auront été transférés à mon nom et pas avant.
+Je reconnais que le détenteur de ces biens n'a pas été en mesure de me contacter. De plus, les biens visés ne font pas partie de ceux pour lesquels j'ai déjà exercé un quelconque droit de propriété.
+J'aiderai Howes à obtenir les preuves de mon identité et je signerai les affidavits nécessaires à cet effet. Toutes les dépenses liées à l'établissement de mon droit et au recouvrement de ma part seront avancées et payées par Howes. Si je ne reçois rien, je n'aurai aucune dette et je ne serai pas redevable à Howes pour les dépenses engagées, les obligations assumées ou les services rendus. Ma seule obligation sera de payer à Howes des honoraires équivalant à un tiers (1/3) du produit net plus la TPS.
+Le présent contrat ainsi que les engagements, les dispositions et les clauses qu'il contient auront force obligatoire pour les parties et pour les héritiers, les exécuteurs et les administrateurs respectifs de chacune des parties.
+Ce contrat a été signé le 7 mars 1998 par Barbara Craw[2]. Selon M. Salmon, deux autres choses sont arrivées peu après la signature du contrat. Tout d'abord, Howes a retenu les services de Craig Lothian, un avocat de Regina, en vue d'établir le titre de propriété des familles Craw et Challacombe. Ensuite, Barbara Craw est décédée le 18 août 1998 et son patrimoine a été légué à son fils et à sa fille. M. Salmon a été nommé exécuteur testamentaire pour sa succession. À la suite de ces événements, les Challacombe et Howes ont convenu que M. Salmon soit aussi nommé administrateur de la succession de David Currie et qu'il conclue un contrat de bail de surface avec Lexxor et qu'il cherche un acheteur pour le terrain. En mars 2000, les lettres d'administration ont été reçues et le titre de propriété du terrain en cause a été transféré à M. Salmon. En tant qu'administrateur, il a signé le contrat de bail de surface avec Lexxor et cette dernière a effectué des paiements de loyers totalisant un montant de 12 000 $ qui a été déposé dans un compte en fiducie. Il a payé toutes les taxes foncières pour le terrain, a cherché un acheteur pour le terrain et a conclu en bout de ligne la vente pour un montant de 40 000 $; la transaction a été effectuée le 28 septembre 2000.
+[4] Dans le calcul du revenu pour l'année d'imposition 2000, l'appelante a déduit des dépenses engagées ou faites totalisant un montant de 23 877,18 $ réparti comme suit[3] :
+Pour la disposition du terrain (les « coûts du terrain » )
+18 367,06 $
+Pour l'état de revenu de location (les « coûts de location » )
+5 510,12
+Total des dépenses engagées ou faites
+23 877,18 $
+On ne peut pas nier que M. Salmon, à titre d'administrateur de la succession de M. Currie, a réparti de façon arbitraire les frais de gestion et les frais d'administration. Pour aider la Cour, il a élaboré un document établissant les calculs qu'il a effectués[4]. Les parties pertinentes de ce document sont reproduites ci-après :
+Vente du terrain
+Bail de surface
+Total
+Rentrées de fonds
+40 402,60
+12 000,00
+52 402,60
+Moins remboursement des taxes foncières
+-402,60
+-402,60
+40 000,00
+12 000,00
+52 000,00
+Moins les honoraires liés à la réception du revenu de location et à la vente du terrain
+Frais judiciaires
+Gerrand Rath Johnson
+2 620,91
+Gerrand Rath Johnson
+573,30
+Gerrand Rath Johnson
+458,00
+McDougall, Ready
+1 663,56
+Honoraires de l'administrateur
+4 500,00
+Total
+9 815,77
+Imputation à la vente du terrain
+9 815,77 $ x 40 000 $ / 52 000 $
+-7 550,59
+-7 550,59
+-7 550,59
+Imputation au bail de surface
+9 815,77 $ x 12 000 $ / 52 000 $
+-2 265,18
+-2 265,18
+2 265,18
+-9 815,77
+Rentrées nettes avant le paiement à Howes
+32 449,41
+9 734,82
+42 184,23
+Paiement à TD Howes
+42 184,23 $ x 1/3
+14 061,41
+Imputation à la vente du terrain
+14 061,44 $ x 40 000 $ / 52 000 $
+10 816,47
+-10 816,47
+------10 816,47
+Imputation au bail de surface
+14 061,44 $ x 12 000 $ / 52 000 $
+3 244,94
+-3 244,94
+-3 244,94
+14 061,41
+Rentrées nettes
+21 632,94
+6 489,88
+28 122,82
+Position de l'appelante
+[5] M. Salmon a fait valoir que la déclaration de la succession, telle qu'elle a été produite, était correcte parce que les frais judiciaires et comptables étaient déductibles dans la mesure où ils avaient été engagés en vue de tirer un revenu d'une entreprise ou d'un bien (c.-a.-d. la location du bien); il a aussi fait valoir que les frais judiciaires, les honoraires d'intermédiation et les coûts administratifs ont été engagés en vue d'établir un bien en immobilisation ou pour préserver et protéger un bien en immobilisation ou qu'ils constituent des dépenses en capital. Il a ensuite dit ce qui suit :
+[TRADUCTION]
+[...] les faits appuient notre argument selon lequel 100 % des frais ont été engagés pour tirer un revenu du contrat de bail de surface, cas dans lequel les frais sont déductibles à 100 %; de plus, les frais ont été engagés pour acquérir un bien en immobilisation et en disposer, cas dans lequel ils pourraient être ajoutés au prix de base du terrain.
+Position de l'intimée
+[6] La position de l'intimée a été établie par l'avocate comme suit :
+a) Le montant de 14 061,41 $ payé à Howes n'est pas déductible parce que l'obligation à l'égard de cette dépense n'a pas été contractée par l'appelante.
+b) Pour ce qui est des coûts d' « administration du bail de surface » :
+(i) le compte de Gerrand Rath Johnson au montant de 573,30 $ était appuyé correctement et il n'est pas contesté;
+(ii) selon la formule de calcul utilisée par l'appelante, des frais d'administration de 1 038,46 $ devraient être accordés.
+c) En ce qui concerne le reste des frais judiciaires et administratifs, l'avocate a fait valoir qu'il n'y a pas suffisamment de preuves pour accorder cette déduction. Les seuls renseignements présentés montrent que les coûts concernent « le compte de succession provisoire, les questions relatives au terrain, le compte final et le compte final de succession » . La position de l'intimée est que les coûts liés aux questions relatives au terrain ont été établis correctement, mais qu'aucune preuve n'a été présentée à la Cour pour montrer que le reste des coûts avait quelque chose à voir avec des questions autres que l'administration de la succession.
+Conclusion
+[7] Je propose de traiter d'abord des honoraires d'intermédiation de 14 061,41 $ payés à T.D. Howes. M. Salmon soutient que, si ces frais n'avaient pas été engagés, les bénéficiaires n'auraient jamais gagné le revenu de location et n'auraient jamais réalisé de gain en capital. Il soutient que c'est une pratique commerciale normale de déduire les honoraires d'intermédiation dans la mesure où ils sont liés au revenu gagné, ou encore, si l'on préfère --- de les ajouter au prix de base du bien pour lequel ils ont été engagés. Il se peut qu'il en soit ainsi, mais cet argument n'est pas très utile dans le cadre de la présente affaire. Dans le cas qui nous concerne, les parties au contrat étaient Howes et Barbara Craw. Dans la lettre que Howes a écrite à M. Salmon le 17 septembre 1997[5], Howes indique ce qui suit :
+[TRADUCTION]
+Je voudrais proposer un contrat en vertu duquel notre compagnie effectuerait tout le travail nécessaire pour permettre à Barbara Craw de récupérer sa part du bien en cause. Nous effectuerons les recherches et fournirons la documentation nécessaire pour prouver qu'elle est une héritière du bien. Elle n'engagera absolument aucuns frais. Si elle ne peut pas récupérer le bien, elle n'aura aucune obligation vis-à-vis de notre compagnie. Nous recevrons le paiement seulement lorsque le bénéficiaire aura reçu le bien. J'ai annexé à la présente une copie de notre contrat type pour que vous-même et Mme Craw puissiez l'examiner. Je serais heureux de l'examiner avec vous ou votre avocat. Si vous-même et Mme Craw êtes satisfaits des dispositions du contrat, veuillez le retourner à notre bureau dans l'enveloppe ci-jointe, après l'avoir fait signer à Mme Craw.
+Cette lettre et le contrat signé par Howes et par Mme Craw montrent clairement que la succession de David Currie n'était pas partie au contrat et que, par conséquent, elle n'avait pas d'obligation quant au paiement des honoraires. Pour cette raison, le montant de 14 061,41 $ ne constitue pas une dépense déductible pour l'appelante.
+[8] En ce qui concerne les coûts imputés par l'appelante au « bail de surface » , l'intimée a admis que le compte relatif aux frais judiciaires pour Gerrand Rath Johnson d'un montant de 573,30 $ et les frais d'administration de 1 038,46 $ devraient être accordés. Selon l'intimée, le reste du montant demandé, soit 653,42 $, n'était pas suffisamment documenté. Bien que cet argument puisse être fondé, il n'est pas difficile de conclure qu'au moins une partie du montant restant de frais judiciaires d'environ 4 700 $ ont été engagés dans le cadre de la gestion du bail de surface. Ainsi donc, malgré l'absence de documentation, il n'est pas incorrect d'accorder la déduction d'un montant additionnel de 653,42 $ pour porter le montant total sous cette rubrique aux 2 265,18 $ indiqués.
+[9] La question qui reste est de savoir si les montants de frais judiciaires établis respectivement à 2 620,91 $, à 458 $ et à 1 633,56 $ ainsi que le solde des honoraires de l'administrateur ont été déterminés à juste titre comme étant des dépenses engagées pour la disposition du terrain. Le paragraphe 40(1) stipule que les dépenses, y compris les éléments tels que les frais judiciaires ou les frais comptables, engagées ou effectuées en vue de disposer d'un bien peuvent être ajoutées au prix de base rajusté dans le calcul du montant du gain en capital, de la perte en capital, de la perte finale ou de la perte au titre d'un placement, selon le cas, résultant de la disposition du bien. L'avocate du ministre a justement souligné que les circonstances dans la présente affaire ont nécessité une deuxième administration successorale pour la succession de David Currie et que c'est la raison pour laquelle M. Salmon a été nommé administrateur et qu'une partie des frais judiciaires ont été engagés dans ce cadre. Aucune des preuves soumises à la Cour ne permet de déterminer raisonnablement la proportion dans laquelle les dépenses engagées sont liées à la récupération et à la prise de possession du bien de David Currie, à l'obtention des lettres d'administration, à la distribution des biens aux héritiers, etc. Bien que certains des frais engagés puissent à juste titre être assujettis au paragraphe 40(1) de la Loi, la preuve soumise à la Cour ne fournit pas du tout les renseignements lui permettant de déterminer quelles dépenses, ou quelle partie des dépenses, sont assujetties aux dispositions prévues par ce paragraphe. En l'absence des preuves nécessaires, la demande de l'appelante relativement à ces dépenses doit être rejetée.
+[10] L'appel est accueilli et l'appelante est autorisée à déduire le montant de 2 265,18 $ à titre de frais de gestion. L'appelante n'a droit à aucun autre allègement.
+Signé à Ottawa, Canada, ce 5e jour de février 2004.
+« A.A. Sarchuk »
+Juge Sarchuk
+Traduction certifiée conforme
+ce 6e jour de mai 2005.
+Colette Dupuis-Beaulne, traductrice
+[1] Pièce A-1 - Contrat avec T.D. Howes & Co. Ltd.
+[2] Bien que le témoignage de M. Salmon laisse entendre que le contrat avec Howes ait été conclu par Mme Craw et les Challacombe, le document soumis à la Cour (pièce A-1) indique que le contrat en réalité a été signé par Barbara Craw à titre d'exécutrice testamentaire de la succession de Douglas Craw. Cependant, M. Salmon a dit dans son témoignage qu'en réalité, Barbara Craw n'était pas l'exécutrice testamentaire de la succession de David Currie et que, lorsqu'elle a signé ce contrat, elle l'a fait en qualité de bénéficiaire, au même titre les Challacombe qui, semble-t-il, avaient accepté cette façon de procéder.
+[3] Les coûts du terrain et les coûts de location déduits par l'appelante sont établis dans les annexes « A » et « B » , respectivement, de la réponse du ministre à l'avis d'appel.
+[4] Pièce A-4.
+[5] Pièce A-5.

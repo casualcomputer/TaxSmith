@@ -1,0 +1,464 @@
+---
+title: "Chronis c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29784/index.do"
+last_modified: "2010-05-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 218"
+citation2: ""
+neutral_citation: "2010 CCI 218"
+decision_date: "2010-05-04"
+language: "fr"
+item_id: "29784"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6590
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:02:05.370000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "732b4e3319b166823c35bbbd61f48e5d086a6083ce8763103db87938063c086f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chronis c. La Reine
+
+- Citation: 2010 CCI 218
+- Decision date: 2010-05-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6590, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chronis c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-05-04
+Référence neutre
+2010 CCI 218
+Numéro de dossier
+2006-3485(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3485(IT)G,
+2006-3693(GST)I
+ENTRE :
+BASIL CHRONIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 10 février 2010 à Sydney (Nouvelle‑Écosse).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Catherine M.G. McIntyre
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000, 2001 et 2002 et en vertu de la Partie IX de la Loi sur la taxe d’accise pour la période du 1er janvier 2000 au 31 décembre 2002 sont accueillis sans dépens, et les affaires sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du présent jugement.
+Signé à Ottawa, Canada, ce 4e jour de mai 2010.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 7e jour de juillet 2010.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 218
+Date : 20100504
+Dossiers : 2006-3485(IT)G
+2006-3693(GST)I
+ENTRE :
+BASIL CHRONIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] Par des avis de nouvelle cotisation datés du 18 mai 2004, le ministre du Revenu national (le « ministre ») a augmenté l’impôt à payer de Basil Chronis (l’« appelant ») pour les années d’imposition 2000, 2001 et 2002 par l’ajout de revenus non déclarés. Le ministre a utilisé la méthode de l’avoir net pour ajouter 45 807 $, 114 325 $ et 11 832 $ au revenu de l’appelant pour les années d’imposition respectives suivantes : 2000 (« le revenu non déclaré de 2000 »), 2001 (« le revenu non déclaré de 2001 ») et 2002 (« le revenu non déclaré de 2002 »). Les détails du calcul de l’avoir net figurent à l’annexe A du présent jugement. Le ministre a également établi une cotisation à l’égard de l’appelant en vertu de la Partie IX de la Loi sur la taxe d’accise (la « LTA ») pour la période allant du 1er janvier 2000 au 31 décembre 2002 pour les montants suivants : 31 039,30 $ de taxe, 1 630,06 $ d’intérêts et 3 577,65 $ de pénalités, relativement à la taxe sur les produits et services et la taxe de vente harmonisée (la « TPS/TVH ») sur les ventes ou les services pour lesquels l’appelant aurait omis de percevoir la TPS/TVH. Les appels interjetés par l’appelant à l’encontre de ces cotisations ont été entendus sur preuve commune.
+[2] Les questions à trancher dans les présents appels sont les suivantes :
+a) L’appelant est-il tenu de payer l’impôt supplémentaire sur le revenu établi par le ministre concernant le revenu non déclaré de 45 807 $, de 114 325 $ et de 11 832 $ pour les années d’imposition 2000, 2001 et 2002, respectivement?
+b) L’appelant est-il passible aux termes du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « LIR ») des pénalités de 13 413,45 $ et de 733,25 $ pour les années d’imposition 2001 et 2002, respectivement?
+c) Le ministre a-t-il établi à juste titre la cotisation pour la TPS/TVH non déclarée d’un montant de 26 573,20 $ pour la période du 1er janvier 2000 au 31 décembre 2002?
+[3] Il ressort de la preuve que l’appelant exploitait une entreprise où il programmait des cartes à puce pour réception satellite (les « cartes à puce ») dans le but de décoder les signaux de télévision par satellite américains (l’« activité de piratage des signaux satellites »). L’appelant vendait les cartes à puce à des clients se trouvant à North Sydney et dans ses environs, qui leur permettaient de capter les signaux satellites transmis par les satellites américains sans avoir à payer le prix mensuel exigé pour le service. Les deux fournisseurs de service de télévision par satellite, Direct TV et Dishnet, n’avaient pas l’autorisation de fournir des services par satellite au Canada.
+[4] Au mois d’octobre 2001, la Gendarmerie royale du Canada ( la « GRC ») a effectué une perquisition au domicile de l’appelant et a saisi diverses cartes à puce, du matériel informatique et des récepteurs de signaux de satellite. L’essentiel de ce matériel a été plus tard détruit ou retourné au fabricant. L’appelant a été inculpé d’une infraction criminelle, et a fait l’objet d’une déclaration de culpabilité subséquente, relativement à la conduite de ses activités de piratage de signaux de satellites.
+Rajustements des revenus non déclarés de l’appelant
+i) Revenu non déclaré de 2000
+[5] La preuve démontre que le ministre a omis de prendre en compte deux dons particuliers d’un montant total de 24 000 $ que l’appelant avait reçus au cours de son année d’imposition 2000. Le premier don concernait une remise de dette faite par la mère de l’appelant au sujet d’un prêt personnel de 15 000 $ qui avait été consenti à ce dernier afin de faciliter l’achat d’une Jeep Grand Cherokee 1995 (la « Jeep 1995 ») à titre de copropriétaire. La mère de l’appelant avait prêté les fonds à ce dernier afin qu’il puisse payer sa part du prix d’achat. La preuve démontre que la mère avait cédé sa part indivise du véhicule à son fils en 2001 et qu’elle avait fait une remise de dette concernant le prêt. La remise de dette concernant le prêt donne naissance à un don non imposable en faveur de l’appelant. Le témoignage de l’appelant à propos de cette question a été corroboré par son ex-épouse. C’est à tort que le ministre a supposé que l’appelant avait remboursé le prêt au moyen d’un revenu non déclaré.
+[6] Il ressort aussi de la preuve que le père de l’appelant avait payé 9 000 $ sur le prix d’achat d’une moto Honda RVT1000R/RC51 2000 que l’appelant avait acquise pour la somme de 15 604,35 $. Le vendeur de la moto a corroboré le témoignage de l’appelant sur ce point. Les revenus non déclarés de 2000 de l’appelant doivent donc passer de 45 807,27 $ à 21 807,27 $ pour tenir compte du caractère non imposable de ces deux dons.
+ii) Revenu non déclaré de 2001
+[7] La preuve démontre aussi que l’appelant avait bénéficié de deux autres dons, pour un total de 14 843 $, lesquels n’avaient pas été correctement pris en compte dans le calcul de l’avoir net de l’appelant et du revenu non déclaré pour l’année d’imposition 2001. Le témoignage de l’ex-épouse de l’appelant fait état d’un gain de 10 000$ qu’elle avait réalisé dans un casino au cours de l’année d’imposition 1998. Elle avait donné l’argent à son mari et avait supposé qu’il l’utiliserait ultérieurement comme versement initial pour l’achat d’une maison. L’appelant avait utilisé les fonds, à l’insu du témoin, pour régler une partie du prix d’achat d’une Camaro qu’il avait acquise pour 35 000 $ en 1998. Selon le témoignage de l’ex-épouse de l’appelant, les 10 000 $ constituaient un don et elle n’avait pas cherché à obtenir un remboursement de ce montant dans le cadre du règlement de leur divorce. C’est par erreur que le ministre a supposé que l’appelant devait 10 000 $ à sa femme et que ce prêt avait été remboursé au moyen du revenu non déclaré de 2001.
+[8] Il ressort aussi de la preuve que l’appelant avait donné en échange en 2001 une Jeep 1995 pour acquérir une Jeep Grand Cherokee 1998 (la « Jeep 1998 »). L’appelant avait payé 29 843 $ pour la Jeep 1998. Le ministre a ajouté le coût de la Jeep 1998 à l’actif de l’appelant pour son année d’imposition 2001 et le coût de la Jeep 1995 a été déduit dans le calcul de l’avoir net de l’appelant pour 2001. La façon dont le ministre a traité les deux opérations a eu pour conséquence une augmentation de l’avoir net de l’appelant d’un montant de 4 843 $.
+[9] La preuve démontre toutefois qu’avec la Jeep 1995, l’appelant avait donné en échange une deuxième voiture qu’il avait héritée de son père, pour acquérir la Jeep 1998. Il s’ensuit que l’augmentation de l’avoir net de l’appelant relativement à cette opération n’est pas attribuable à une source de revenu non déclaré. Par conséquent, le revenu non déclaré de 2001 de l’appelant doit passer de 114 324,50 $ à 99 481, 50 $ pour tenir compte de ces deux dons.
+[10] Dans No. 275 v. M.N.R., 55 DTC 439, aux pages 441 et 442, 13 Tax ABC 279 (C.A.I.R.), il a été établi que les gains provenant d’activités illégales étaient imposables en vertu de la Loi de l’impôt de guerre sur le revenu.
+[traduction]
+[L]orsque la question en litige est de savoir si les gains provenant de sources illégales sont imposables ou non, les tribunaux ne sont concernés ni par la source de revenu du contribuable ni par les moyens par lesquels il l’a gagné. La seule question qui les occupent est de savoir si ledit revenu est imposable en vertu des dispositions de la loi fiscale. Une fois que les tribunaux sont convaincus que le revenu est imposable, il importe peu que ce revenu provienne d’une activité légale ou illégale ou d’une activité qui est malum in se ou malum prohibitum.
+[11] Il s’ensuit donc que les dépenses engagées pour gagner un revenu d’entreprise, même si l’activité est de nature illégale, sont déductibles. Cette position a été maintes fois confirmée par les tribunaux, plus particulièrement dans M.N.R. v. Eldridge, 1964 CarswellNat 357, [1964] C.T.C. 545, [1965] 1 Ex. C.R. 758 (QL), 64 DTC 5338. La question en litige dans cette affaire était de savoir si un contribuable qui exploite une agence d’escorte pouvait déduire les dépenses engagées pour générer des revenus d’entreprise. Le juge s’exprimait ainsi :
+[traduction]
+24 L’intimée admet volontiers qu’elle menait une activité illégale et illicite et elle ne conteste pas le calcul du revenu brut qu’elle a reçu. Le fondement de son opposition aux cotisations réside dans le fait qu’elle a engagé d’autres dépenses dans l’exercice de son activité et que celles-ci devraient être prises en considération et déduites de son revenu imposable.
+25 À ce stade, je voudrais souligner qu’il ressort très clairement de la jurisprudence que tous les revenus provenant d’opérations illégales ou d’activités illicites sont imposables. Au cours de son témoignage, l’intimée a fait observer qu’elle avait exprimé son point de vue aux agents de la Division de l’impôt selon lequel il était incongru que l’État cherche à vivre des fruits de la prostitution. Toutefois, la réponse complète à une telle déclaration se trouve dans la décision du juge Rowlatt dans Mann v. Nash, 16 T.C. 523 où il s’exprimait ainsi à la page 530 :
+« On l’a déjà dit : “Est-ce que l’État cherche à s’approprier une partie des gains illicites?” Il s’agit d’une simple question rhétorique. L’État ne fait rien de tel; il impose les particuliers en tenant compte de certains faits. Il n’est pas partenaire; il n’est pas le responsable qui autorise une activité illégale, ou l’associé dans une activité illégale; il impose simplement une personne relativement à ces ressources. Je pense que le fait de dire qu’il s’approprie une partie des bénéfices du contribuable n’est que de la rhétorique, ce qui est parfaitement inutile pour trancher la question dont je suis saisi.»
+[Non souligné dans l’original.]
+[12] Le juge Cattanach poursuit en effectuant une analyse des diverses dépenses dont la déduction est demandée par l’appelant et décide parmi les dépenses proposées, celles qui peuvent être déduites du revenu brut parce qu’elles ont été engagées en vue de gagner un revenu.
+[13] Dans 65302 British Columbia Ltd. C. Canada, [1999] 3 R.C.S. 804, la Cour suprême du Canada a confirmé que les dépenses engagées pour tirer un revenu provenant d’actes illégaux sont déductibles en vertu de la LIR. La Cour suprême était saisie de la question de savoir s’il est approprié d’autoriser la déduction en vertu de la LIR, des amendes, des pénalités et des redevances d’origine législative dans le calcul du revenu. Lorsqu’elle a rendu sa décision, la Cour a privilégié l’argument fondé sur l’ordre public plutôt que la déduction des amendes et des pénalités, et a établi une analogie avec le traitement fiscal du revenu tiré d’activités illégales :
+56 […] je note qu’il est bien établi, pour le calcul du revenu, que la déduction des dépenses engagées en vue de tirer un revenu provenant d’actes illégaux est permise. Par exemple, non seulement le revenu d’une personne qui vit des fruits de la prostitution est-il imposable, mais les dépenses engagées en vue de tirer ce revenu sont également déductibles : M.N.R. c. Eldridge, [1964] C.T.C. 545 (C. de l’É.). Voir aussi Espie Printing Co. C. Minister of National Revenue, [1960] R.C. de l’É. 422. Permettre à un contribuable de déduire des dépenses engagées pour commettre un acte criminel semble aller à l’encontre du Code criminel, L.R.C. (1985), ch. C-46; cependant, les autorités fiscales ne tiennent pas compte de la légalité d’une activité. Par conséquent, je suis d’avis que les mêmes principes doivent s’appliquer à la déduction des amendes encourues en vue de tirer un revenu, puisque l’interdiction de déduire des amendes et des pénalités est incompatible avec la pratique de permettre la déduction des dépenses engagées en vue de tirer un revenu illégal.
+[Souligné dans l’original; caractères gras ajoutés.]
+[14] Et plus récemment, dans la décision Brizzi c. La Reine, 2007 CCI 226, [2007] 4 C.T.C. 2334 :
+5 Il est important de préciser que le fisc ne se préoccupe pas de savoir si une activité est légale ou non (voir Canada (M.N.R.) v. Eldridge, [1965] 1 R.C. de l’É. 758 (QL), au par. 25, et 65302 British Columbia Ltd. C. Canada, [1999 CanLII 639 (C.S.C.)], [1999] 3 R.C.S. 804, au par. 56). Il est entendu que, si le revenu qu’un contribuable tire d’une entreprise illégale est imposable, on devrait consentir à ce contribuable les déductions permises par la Loi de l’impôt sur le revenu (la « Loi »). Mentionnons également que la présente Cour a pour seul but de statuer sur la validité d’une cotisation, après avoir pris en compte tous les faits pertinents, et de vérifier que la cotisation est conforme à la Loi. Les soucis d’équité ne relèvent pas de notre compétence.
+[15] L’article 67.6 de la LIR a été adopté en 2005 pour refuser la déduction des amendes et des pénalités imposées par une loi après le 22 mars 2004.
+[16] Dans l’affaire R. v. Chronis, [2002] N.S.J. No. 273 (QL), l’agent de police Donald James Peters a présenté une demande visant à obtenir une ordonnance en vertu du paragraphe 490(5) du Code criminel quant au fait de disposer de certains articles saisis sur les lieux de l’appelant.
+[17] L’appelant est intervenu dans la procédure afin de récupérer les cartes à puce. Le juge Ross de la Cour provinciale de la Nouvelle‑Écosse a conclu que les fournisseurs américains de télévision par satellite avaient un droit légitime établi sur les cartes à puce. Il n’y a dans le dossier aucun élément de preuve qui indique la raison pour laquelle le reste du matériel saisi n’a pas été rendu à l’appelant. Néanmoins, la preuve testimoniale de l’appelant, corroborée en partie par le témoignage de l’agent de police Peters, démontre que très peu d’articles ont été rendus à l’appelant. L’intimée n’a présenté aucun élément de preuve contraire sur ce point. Par conséquent, je conclus que l’appelant a établi l’exactitude de ce fait selon la prépondérance des probabilités.
+[18] Il n’existe aucun élément de preuve qui me permette de conclure que les articles en question avaient été confisqués par suite de l’imposition d’une pénalité ou d’une amende après le 22 mars 2004. Par conséquent, je conclus que l’appelant a le droit de demander une déduction relativement au coût des biens confisqués.
+[19] La pièce A-6, que l’intimée a présentée à l’instruction, est un inventaire détaillé des articles que la GRC a saisis au domicile de l’appelant. Le vérificateur de l’Agence du revenu du Canada (l’« ARC ») qui a préparé la liste, Bruce Mason, a aussi estimé le coût des biens saisis en vue d’établir l’accroissement de l’avoir net de l’appelant pendant la période en cause. Selon le témoignage de l’appelant, seuls les articles figurant aux numéros suivants lui ont été retournés : 4, 9, 10, 16, 20 à 23, 25, 26, 28, 41, 42, 49 à 51, 54, 61, 67 à 69, 72 à 74, 80 et 83 à 86.
+[20] L’ARC a établi à 77 815 $ le coût total de l’actif commercial en cause acquis par l’appelant (compte non tenu du remplacement du matériel et des logiciels) et à 16 075 $ le coût total des biens qui, selon l’appelant, lui ont été retournés. Les biens qui ont été retournés à l’appelant ne pouvaient plus être utilisés dans le cadre de l’activité de piratage des signaux satellites. L’appelant a imputé au revenu la grande majorité des biens qui ne lui ont pas été retournés. On peut soutenir que certains de ces biens étaient imputés au capital. Quoi qu’il en soit, en ce qui concerne ces derniers, du moment qu’ils n’étaient plus utilisés dans une entreprise, le contribuable doit avoir droit à une déduction de la perte finale au titre du coût en capital des biens amortissables qui avaient été détruits, étant donné qu’il ne subsistait plus de biens amortissables dans la catégorie. Par conséquent, l’appelant a droit à une déduction supplémentaire de 61 740 $ représentant le coût des biens qui ne lui ont pas été retournés. La déduction a pour conséquence de faire passer le revenu non déclaré de 2001 de l’appelant de 99 481,50 $ à 37 741,50 $.
+[21] Le père de l’appelant est décédé au mois de novembre 2000. La plupart des biens de la succession ont été partagés également entre l’appelant et sa sœur, mais la résidence familiale a été léguée à l’appelant. Ce dernier a produit à l’instruction une lettre établissant son droit à tout l’argent trouvé dans la résidence familiale.
+[22] L’appelant soutient que son père lui a laissé une somme de 180 000 $, laquelle était gardée cachée au sous-sol de la maison qu’il a héritée de son père. Selon le témoignage de l’appelant, ces fonds ont été utilisés pour couvrir ses frais de subsistance en 2001 et en 2002. Il avance que son revenu non déclaré a été surévalué parce que le ministre a omis de tenir compte de cette source de capital non imposable.
+[23] L’avocate de l’intimée relève que le témoignage de l’appelant sur ce point à l’instance et lors de l’enquête préalable n’est pas le même. Lors de l’enquête préalable, l’appelant avait déclaré qu’au mois de janvier 2001, le sous‑sol de la résidence de son père avait été inondé et qu’immédiatement après cette inondation, il avait déplacé les fonds à la résidence d’un ami de la famille.
+[24] Lors de l’instruction, l’appelant a déclaré qu’à la suite de l’inondation, l’argent avait été déplacé du sous‑sol à la buanderie située à l’étage où il avait été gardé jusqu’à ce que sa femme le découvre au mois de mai 2001. Ce n’est que plus tard que l’argent avait été déplacé à la résidence d’un proche.
+[25] L’appelant a soutenu lors de l’instruction qu’au moins trois membres de la famille étaient au courant du fait qu’avant sa mort, son père gardait d’importantes sommes d’argent à la maison. L’appelant a choisi de ne pas appeler ces trois membres de la famille à venir corroborer son témoignage, tout en sachant très bien que l’intimée entendait contester son allégation sur ce point. La décision de l’appelant de ne pas appeler les témoins qui auraient pu soutenir sa déclaration me permet de douter de la véracité de ses allégations. Par ailleurs, la preuve démontre qu’au moment de sa mort, le père de l’appelant avait des titres négociables et des dépôts à terme pour un total d’au moins 250 000 $. Ce fait contredit la prétention de l’appelant selon laquelle son père n’avait pas confiance dans les banques et que, partant, il gardait d’importantes sommes d’argent à la maison. Dès lors, le revenu non déclaré de l’appelant ne nécessite aucun autre rajustement. La pénalité que le ministre a imposée en vertu du paragraphe 163(2) doit être diminuée pour tenir compte de la réduction de l’impôt à payer par l’appelant, laquelle découle de la réduction du montant du revenu non déclaré pour l’année d’imposition 2001.
+iii) Les cotisations de TPS/TVH
+[26] Le ministre a établi à l’égard de l’appelant une cotisation de 26 573 $ de TPS/TVH supplémentaire à percevoir pour la période du 1er janvier 2000 au 31 décembre 2002. Le ministre a conclu que l’appelant devait 6 632,95 $ de TPS/TVH supplémentaire pour la période de 2000, et cette conclusion était basée, entre autres, sur l’estimation du ministre d’une augmentation de l’avoir net de l’appelant de 53 053 $, attribuable à un revenu non déclaré. Comme nous l’avons déjà vu, les dons représentent 24 000 $ de cette augmentation de l’avoir net de l’appelant. Par conséquent, la TPS/TVH nette impayée doit passer de 6 632,95 $ à 3 502,52 $ pour la période de 2000 pour tenir compte de ce rajustement. L’appelant a également reçu des dons non imposables totalisant 14 843 $ en 2001. Par conséquent, la TPS/TVH nette impayée de l’appelant doit passer de 16 726,71 $ à 14 790,71 $ pour la période se terminant le 31 décembre 2001.
+[27] Pour ces motifs, les nouvelles cotisations sont renvoyées au ministre pour nouvel examen et nouvelles cotisations conformément aux motifs du présent jugement.
+Signé à Ottawa, Canada, ce 4e jour de mai 2010.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 7e jour de juillet 2010.
+Mario Lagacé, jurilinguiste
+[traduction]
+Annexe A
+État comparatif de l’actif, du passif et de l’avoir net
+ANALYSE DE L’ACTIF
+31 décembre 1998
+31 décembre 1999
+31 décembre 2000
+31 décembre 2001
+31 décembre 2002
+Actif personnel
+Argent saisi
+9 400 $
+9 400 $
+Compte Banque Royale – Glace Bay
+4 405 $
+1 $
+1 $
+1 $
+1 $
+Régimes enregistrés d’épargne‑retraite
+21 075 $
+21 075 $
+21 075 $
+21 075 $
+21 075 $
+Compte CIBC – Glace Bay
+6 440 $
+1 $
+1 $
+1 $
+1 $
+Camaro décapotable 1995
+35 000 $
+35 000 $
+35 000 $
+35 000 $
+35 000 $
+Jeep Grand Cherokee 1995
+25 000 $
+25 000 $
+25 000 $
+Jeep Grand Cherokee 1998
+29 843 $
+29 843 $
+Remorque Maxir 1998
+2 000 $
+2 000 $
+2 000 $
+2 000 $
+2 000 $
+Honda Hurricane 1987
+5 604,35 $
+5 604,35 $
+VTT Yamaha Breeze 2000
+4 260 $
+Moto Honda RVT1000R RC51 2000
+15 604,35 $
+15 604,35 $
+15 604,35 $
+Honda TRX 350 FE 2001
+8 300 $
+8 300 $
+8 300 $
+Rubicon TRX500 2001
+11 212,50 $
+11 212,50 $
+Actif commercial
+Coûts des articles acquis en 1999
+16 013 $
+16 013 $
+16 013 $
+16 013 $
+Coûts des articles acquis en 2000
+16 013 $
+16 013 $
+16 013 $
+Coûts des articles acquis en 2001
+45 789 $
+45 789 $
+Remplacement du matériel et des logiciels
+10 000 $
+10 000 $
+Total de l’actif
+93 000 $
+99 524,35 $
+139 007,35 $
+220 251,85 $
+220 251,85 $
+ANALYSE DU PASSIF
+31 décembre 1998
+31 décembre 1999
+31 décembre 2000
+31 décembre 2001
+31 décembre 2002
+Passif personnel
+Solde Visa CIBC
+(9 $)
+Prêt Camaro décapotable 1995
+8 000 $
+8 000 $
+Prêt Jeep Grand Cherokee 1995
+15 000 $
+15 000 $
+Prêt de l’épouse pour la Camaro
+10 000 $
+10 000 $
+10 000 $
+Passif commercial
+0 $
+0 $
+0 $
+0 $
+Néant
+Total du passif
+32 991 $
+33 000 $
+10 000 $
+0 $
+0 $
+ANALYSE DE L’AVOIR NET
+31 décembre 1998
+31 décembre 1999
+31 décembre 2000
+31 décembre 2001
+31 décembre 2002
+Avoir net
+66 533,35 $
+75 854,35 $
+129 007,35 $
+220 251,85 $
+220 251,85 $
+Avoir net de clôture année précédente
+66 533,35 $
+75 854,35 $
+129 007,35 $
+220 251,85 $
+Accroissement ou (diminution) de l’avoir net
+9 421 $
+53 053 $
+91 244,50 $
+RAJUSTEMENTS DE L’AVOIR NET
+31 décembre 1998
+31 décembre 1999
+31 décembre 2000
+31 décembre 2001
+31 décembre 2002
+Rajustements
+Ajouts
+Dépenses personnelles
+11 287 $
+11 593 $
+11 890 $
+12 155 $
+Impôt sur le revenu/versements RPC
+3 901,91 $
+8 712,38 $
+7 500 $
+4 873,16 $
+Frais juridiques payés
+11 000 $
+Paiement – cotisation de TVH établie par voie de vérification
+9 183,89 $
+Perte non déductible –Yamaha PW 80 1999
+225 $
+Perte non déductible – Yamaha Breeze 1999
+560 $
+Total des rajustements
+15 188,91 $
+29 714,27 $
+30 950 $
+17 028,16 $
+Déductions
+Crédit pour la TPS
+152 $
+76 $
+125 $
+---
+Total des rajustements à déduire
+152 $
+76 $
+125 $
+--- $
+DIFFÉRENCE SELON L’AVOIR NET
+31 décembre 1998
+31 décembre 1999
+31 décembre 2000
+31 décembre 2001
+31 décembre 2002
+Revenu total selon l’avoir net
+24 457,91 $
+82 691,27 $
+122 069,50 $
+17 028,16 $
+Moins : revenu total déclaré
+23 679 $
+36 884 $*
+7 745 $
+5 196 $
+Différence selon l’avoir net
+778,91 $
+45 807,27 $
+114 324,50 $
+11 832,16 $
+3 Montant évalué selon les cotisations arbitraires établies en vertu du paragraphe 152(7) de la LIR.
+[traduction]
+ANNEXE B
+TPS/TVH – Relevés de l’avoir net
+Période : 1er janvier 2000 – 31 décembre 2002
+2000
+2001
+2002
+Accroissement (diminution) de l’avoir net
+53 053 $
+91 244,50 $
+-
+Rajustements pour obtenir la taxe nette aux fins de la TPS/TVH
+Ajouts pour obtenir les revenus bruts
+Dépenses d’entreprise
+15 807 $
+6 169,11 $
+10 500 $
+Dépenses personnelles
+11 593 $
+11 890 $
+12 155 $
+Impôt sur le revenu/versements RPC
+8 712,38 $
+7 500 $
+4 873,16 $
+Frais juridiques payés
+-
+11 000 $
+-
+Paiement – cotisation de TVH établie par voie de vérification
+9 183,89 $
+-
+-
+Perte non déductible – Yamaha PW80 1999
+225 $
+-
+-
+Perte non déductible – Yamaha Breeze 1999
+-
+560 $
+-
+Contrepartie totale pour les fournitures reçues
+45 521,27 $
+37 119,11 $
+27 528,16 $
+Déductions (opérations non assujetties à la TPS/TVH)
+Prestations d’assurance‑emploi
+-
+-
+2 891 $
+Crédit pour la TPS
+76 $
+125 $
+-
+Déductions totales (opérations non assujetties à la TPS/TVH)
+76 $
+125 $
+2 891 $
+Contrepartie totale pour les fournitures taxables
+98 498,27 $
+128 238,11 $
+24 637,16 $
+TVH percevable déclarée selon les déclarations TVH
+7 148 $
+-
+-
+Contrepartie totale incluant la TVH pour les fournitures taxables
+105 646,27 $
+128 238,11 $
+24 637,16 $
+TVH percevable réelle (15/115)
+13 779,95 $
+16 726,71 $
+3 213,16 $
+Enlever le CTI déductible sur les fournitures utilisées selon les déclarations
+2 682 $
+-
+-
+Taxe nette calculée
+11 097,95 $
+16 726,71 $
+3 213,16 $
+Taxe nette payée (remboursement) déclarée selon les déclarations de TPS/TVH
+4 465 $
+-
+-
+Différence de la taxe nette payée (remboursement) selon l’avoir net
+6 632,95 $
+16 726,71 $
+3 213,54 $
+RÉFÉRENCE : 2010 CCI 218
+Nos DES DOSSIERS DE LA COUR : 2006-3485(IT)G et 2006-3693(GST)I
+INTITULÉ : BASIL CHRONIS
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Sydney (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE : Le 10 février 2010
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 4 mai 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Catherine M.G. McIntyre
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,164 @@
+Title: M.R.E. Developments v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/419062/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-151-419062-m-r-e-developments-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-07-19
+
+# M.R.E. Developments v. The Queen
+
+- Citation: 2019 TCC 151
+- Decision date: 2019-07-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4210, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+M.R.E. Developments v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-07-19
+Neutral citation
+2019 TCC 151
+File numbers
+2018-3174(IT)APP
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-3174(IT)APP
+BETWEEN:
+M.R.E. DEVELOPMENTS INC.
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on June 7, 2019, at Calgary, Alberta
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Agent for the Applicant:
+Michael Brooks
+Counsel for the Respondent:
+Damon Park
+ORDER
+The application for an extension of time to file a notice of objection concerning Memo assessment # 4163407 dated January 18, 2017 made pursuant to subsection 160(1) of the Income Tax Act is dismissed without costs.
+Signed at Hamilton, Ontario, this 19th day of July, 2019.
+“R.S. Bocock”
+Bocock, J.
+Citation: 2019TCC151
+Date: 20190719
+Docket: 2018-3174(IT)APP
+BETWEEN:
+M.R.E. DEVELOPMENTS INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bocock, J.
+I. INTRODUCTION
+[1] This Applicant (“MRE”) brings this application for an extension of time to file a notice of objection in respect of a stand-alone assessment. The assessment was issued against MRE under section 160 of the Income Tax Act, RSC 1985, c.1 (the “Act”) on January 18, 2017 (the “Assessment”).
+[2] The Minister of National Revenue (“Minister”) opposes the application on two grounds: MRE neither (i) objected to the Assessment; nor, (ii) applied for an extension to do so within the prescribed periods under the Act.
+[3] MRE, represented by its sole director, Michael Brooks (“Mr. Brooks”), implicitly states no application for an extension is required. This is because, Mr. Brooks, on MRE’s behalf, mailed a notice of objection to the Canada Revenue Agency (“CRA”) on April 17, 2017 (the “April Objection, being within the 90 day period for filing such notice of objection”). As is seen below, the issue is whether, on balance, Mr. Brooks did so.
+II. THE LAW
+(a) The Statute
+[4] The relevant legislation, paragraph 166.2(5)(a) and subsection 169(1) of the Act, provide as follows (excerpted for relevance):
+When application […for extension…] to be granted
+(5) No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+Appeal
+169 (1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either….
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been sent to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+[5] The Court notes that Mr. Brooks failed to file any application for extension to file a notice of objection on or before April 17, 2018. He does not challenge this issue, but again asserts that an application for an extension was unnecessary because a notice of objection was filed within the 90 day as of right period provided for in subsection 169(1).
+(b) The Case Law
+[6] Many cases pronounce the mandatory nature of the requirement to file either the notice of objection within 90 days or the application to extend the time to so file an objection within the following year. As just one example, Justice Lyons enunciated it as follows in Odebala-Fregene v. Her Majesty the Queen, 2015 TCC 44 when she stated:
+[9] [….] The objections process is governed by a mandatory statutory regime setting out strict time limits for filing objections and applications to extend time in instances where an objection is late filed.
+[10] The relevant provision in this application is paragraph 166.2(5)(a) of the Act which reads:
+(5) No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be;
+[11] The language is clear. The requirements are strict. The time limit cannot be waived. An extension of time to file a notice of objection cannot be granted unless the application is made within one after the expiration of the time for serving an objection or making a request under the Act. These principles have been consistently noted at the appellate level and applied by this Court.
+[12] In Carlson v Canada, 2002 FCA 145, 2002 DTC 6893 (FCA), the Federal Court of Appeal noted at paragraphs 12 and 13 that one year and 90 days from the date of mailing the reassessment is absolute and cannot be waived.
+[13] In Edgelow v The Queen, 2011 TCC 255, 2011 DTC 1192, V. Miller J. had to deny the application in circumstances where the application was one day late noting that she had no discretion to extend the time.
+III. THE FACTS
+[7] Mr. Brooks filed an affidavit two days before the hearing. The filing of that affidavit was not within the prescribed time under the applicable rules for filing such evidentiary materials. Although admitted at the request of Mr. Brooks for the purposes of the hearing, as directed by the Court he was also sworn, testified and was then questioned by Respondent’s counsel on both his affidavit and his oral testimony.
+[8] Mr. Brooks testified that before any notice of assessment was issued under section 160 of the Act he was in discussions with CRA officials concerning the value of the subject transferred property. In fact, he had furnished documentary evidence concerning the value of the transferred property, rental agreements and sale agreements. To that end, Mr. Brooks indicated that he spoke with one Ms, Elder and one Ms. Serate at the CRA. He did so repeatedly, at least at the outset of the investigation in mid to late 2015. At that time, he spoke with both more than once and at least once to both at the same time. Then a gap in time arose between those discussions and the Assessment of January 18, 2017. Mr. Brooks acknowledges receiving the Assessment. He claims that it prompted him to contact Ms. Serate sometime in early Spring of 2017, but his recollection is spotty.
+[9] After those discussions, Mr. Brooks admits that while he was slow in responding to the Assessment, he ultimately did so within the 90 day “as of right” period. This is represented by the April Objection which Mr. Brooks asserts he dropped into the local post box within or just outside his local drug store, Luke’s Drug Store in Calgary. While he does not specifically recall dropping it in the post box as pre-paid regular mail, once his memory was jogged on cross-examination, he became quite certain he did so on April 17, 2017.
+[10] Mr. Brooks asserts that he memorialized mailing the notice of objection through a note in his phone calendar. While he made the note right away, it was next accessed and transferred from his phone to his computer several days before the hearing.
+[11] The April Objection, attached as an exhibit to his affidavit, began with the following address information and salutation:
+Michael Brooks
+206 611 Edmonton Trail NE
+Calgary Alberta
+T2E 3J3
+Re; Notice of Objection
+Southern Alberta Tax Services Office
+125 220 4 Avenue S. E.
+Calgary, Alberta
+T2G 0L1
+To Whom It May Concern
+[12] Without much explanation, one week after purportedly mailing the April Objection, Mr. Brooks’ attention was focused again on the Assessment by the “nearly hysterical” primary tax debtor, Shelley Bonwick. On April 24, 2017, Ms. Bonwick said to Mr. Brooks that she was being targeted by the CRA and that she needed to move from the transferred property which was the subject of the Assessment. To address these urgent concerns, Mr. Brooks sent a further notice of objection by email on May 24, 2017 (the “May Objection”).
+[13] The May Objection was identical in content to the April Objection, but for three omitted elements: no return address, no CRA address and no date. The April Objection had included, in precise detail, these three elements. The May Objection did not. Mr. Brooks offered by way of explanation that he did not think to include such previous information in the May Objection.
+[14] Mr. Brooks was not finished objecting. On June 2, 2017, he asserts he hand delivered a copy of either the April Objection or May Objection to a CRA employee.
+[15] Coincident with the June Objection, also on June 2, 2017, the CRA sent Mr. Brooks a rejection letter concerning the May Objection (the “May Rejection”). The contents of the May Rejection are important for two reasons. It advised that the May Objection was sent beyond the critical date of April 18, 2017, being 90 days beyond the date the Assessment was sent. Secondly, the May Rejection directed Mr. Brooks to the option of applying for an extension of time to file a notice of objection.
+[16] Nothing documented beyond that happened until August 25, 2018 when MRE filed its application to extend the time to file a notice of objection, the out of time application which is the titular subject of this hearing.
+IV. ANALYSIS
+(a) Preliminary Conclusions
+[17] The May Objection, as was acknowledged by Mr. Brooks at the hearing, is outside the 90 “as of right” period prescribed under section 169 of the Act. The fact that it oddly references Mr. Brooks’ personal tax account is of no consequence. It is the delivery date which invalidates it, being some 39 days beyond the 90 day period. The May Rejection was completely correct in this regard.
+[18] Similarly, the June Objection is out of time irrespective of its purported personal delivery to the Minister’s agents.
+[19] In addition, it is clear from the record that no application for an extension of time to file a notice of objection was served on the Minister within one year of the expiration of the last day for serving a notice of objection: April 18, 2018. Mr. Brooks did not assert he filed or served an application to extend the time to file a notice of objection before August 25, 2018.
+[20] This is somewhat surprising for several reasons. The CRA, after all the commotion of the April Objection, the May Objection and even the June Objection, specifically advised and directed Mr. Brooks in writing of the need to take the very step and apply for the extension within one year of April 18, 2017. Inexplicably, he did not do so.
+[21] The critical remaining issue before the Court is whether, on balance, the evidence shows Mr. Brooks mailed the April Objection on April 17, as he asserts. Both parties agree that if the Court so concludes, then MRE’s application shall be accepted and the Notice of Appeal shall be accepted. Conversely, a rejection of that occurrence will end MRE’s application and appeal rights.
+(b) Testing Credibility
+[22] The acceptance of Mr. Brooks’ testimony, and consequently MRE’s application and appeal, is primarily dependent on the credibility the Court assigns to the documentary and oral evidence of Mr. Brooks before it. In assessing such credibility, the Court must conduct a certain analysis as a test of such credibility. A taxpayer is not mandatorily required to offer supporting or corroborative evidence to rebut, in this case, the Minister’s assumed non-receipt of a timely objection or application to extend. However, in the absence of such supporting evidence, the taxpayer’s testimony to the contrary must strike the judge as credible, reasonable and sufficient: Agostini v. Her Majesty the Queen, 2015 TCC 215 at paragraph 24.
+[23] Such credibility, as a whole, is measured against the comparative weaknesses, variances and omissions in the evidence of the party unilaterally asserting the uncorroborated facts. Any such blemishes are discerned from the sources and the extent of inconsistencies, demeanour of presentation, motive and likelihood or probability of occurrence in the natural order of things: Peerenboom v. Her Majesty the Queen, 2019 TCC 61 at paragraph 15.
+[24] Mr. Brooks’ assertion that he mailed the April Objection on April 17, 2019 is, on balance, not probable. The Court roots this finding in the evaluation of his testimony for inconsistency, uncertainty, and likeliness given the surrounding circumstances. A summary of those observations follows below. The lack of credibility is broad and manifest. And it need not be so dramatic; the Court must find in the circumstances, taken as a whole, that the uncorroborated evidence be credible, reasonable and sufficient. The evidence fails to reach the level by a wide margin.
+(i) The April Objection: its curious format
+[25] As a first example, the Court turns to the variable testimony regarding the mailing of the April Objection. At first, Mr. Brooks could not remember actually depositing the April Objection in the post box. On cross-examination, he became more certain. Then he suggested he made a contemporaneous note in his phone calendar. When pressed, the evidence of this was a summary list made a week before the hearing which contained within a document a summary of several events over 3 years. Even then, the “entry” concerning the April Objection was nebulous at best. The entry read, “April 17, 2017 – mailed another objection”. At the outset, two curious observations occur. The April Objection was the asserted first objection. How could it be “another”? Secondly, the detail in this entry is comparatively spartan compared to the June 2, 2017 summary entry which read, “June 2, 2017 delivered objection letter in person to Ms. Serate at Harry Hays”. No explanation for the difference was offered. Moreover, the evidence produced at the hearing was in the form of a summary document of the data attached to Mr. Brooks’ affidavit and not the actual source data from the phone calendar.
+(ii) The May Objection: comparative observations
+[26] Next, the comparative content of the April Objection presents incongruity for the Court. As is seen above, it contains fulsome and complete addresses (sender and return address information) and the date. It was created on the same computer as the May Objection. The substantive content of the two objections, sent 6 weeks apart, is word for word identical. Mr. Brooks admitted that the May Objection was likely harvested from the saved electronic copy comprising the April Objection and then sent by email. The CRA has the May Objection, but not the April Objection. And they also differ critically without explanation. Why would Mr. Brooks delete his own address, the CRA’s and not place the current date on the May Objection? This is especially so when both documents were generated from the same computer and concerned the same issue.
+[27] Additionally, the expressed motivation for sending the May Objection further belies the lesser content of that later document when compared to the earlier April Objection. Not to be forgotten is Ms. Shelley Bonwick. Her agitated state on April 27, a mere 10 days after the purported mailing of the April Objection, apparently gave Mr. Brooks cause for alarm. In his words, she believed she was being targeted, slandered and humiliated by the CRA. Yet, the May Objection, sent entirely because of Ms. Bonwick’s view of the CRA, omitted MRE’s address, the CRA’s address and the date. More curiously, it did not reference the mailed April Objection or contain the other critical April Objection information sent during a previously less “threatening” time. Lastly, this “urgent” May Objection was not sent until 30 days after the warning sounded by Ms. Bonwick.
+(iii) The June Objection: no clarity added
+[28] The June Objection does not add any clarity to the muddy quality of the evidence. There is no copy of it and no recollection of the content, whether its content referenced the April Objection or May Objection. As well, no receipt or acknowledgement was obtained or produced by Mr. Brooks of its receipt by the CRA official.
+(iv) Back to the April Objection: its late in time appearance
+[29] As a final note concerning the likelihood of the mailing of the April Objection, the Court references the application to extend of MRE itself. It states:
+I received notice of this memo assessment originally back in October 2015 and I filed an objection within a month.
+I never received any other notice from Canada Revenue regarding this objection until April of 2017. I then filed an objection online in May of 2017 and I confirm this information was received by CRA because I have record and the confirmation number (2346V7V)”.
+[30] Mr. Brooks is mistaken regarding the date of the Assessment. It was not sent in October 2015, but January 18, 2017. He also admitted that he did not review the received Assessment until April 2017. Aside from those two points, based on the evidence before the Court, the foregoing description, itself in Mr. Brooks’ own words, is an accurate description of what occurred. MRE’s notice of objection was filed on May 24, 2017, some 39 days too late. Further no extension application was brought to the Minister or this Court within the prescribed time frame.
+[31] As for the April Objection, it was not referenced in the above-noted application to the Court or any previous correspondence with the CRA. It first appeared as part of the record on June 5, 2019 as an exhibit to Mr. Brooks’ affidavit. Based on the credibility analysis undertaken by the Court in respect of the April Objection, the Court need not speculate on when the April Objection was created. For the purposes of this application, the Court has plentiful enough reasons to conclude it was not mailed on April 17, 2017.
+V. CONCLUSION AND COSTS
+[32] For the foregoing reasons the application is dismissed.
+Signed at Hamilton, Ontario this 19th day of July, 2019.
+“R.S. Bocock”
+Bocock, J.
+CITATION:
+2019TCC151
+COURT FILE NO.:
+2018-3174(IT)APP
+STYLE OF CAUSE:
+M.R.E. DEVELOPMENTS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+June 7, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+July 19, 2019
+APPEARANCES:
+Agent for the Applicant:
+Michael Brooks
+Counsel for the Respondent:
+Damon Park
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

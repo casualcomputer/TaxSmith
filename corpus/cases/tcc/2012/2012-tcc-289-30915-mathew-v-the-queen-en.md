@@ -1,0 +1,192 @@
+---
+title: "Mathew v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30915/index.do"
+last_modified: "2012-08-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 289"
+citation2: ""
+neutral_citation: "2012 TCC 289"
+decision_date: "2012-08-02"
+language: "en"
+item_id: "30915"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7443
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:13:49.063000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "43e1fa23534534307736b3cdb1ff6fa09b893851ac532eaad78e4d7b0ff01e05"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mathew v. The Queen
+
+- Citation: 2012 TCC 289
+- Decision date: 2012-08-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7443, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mathew v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-08-02
+Neutral citation
+2012 TCC 289
+File numbers
+2009-3667(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3667(IT)G
+BETWEEN:
+JOSEPH MATHEW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on June 22 and 23, 2011, at Toronto, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Samantha Hurst
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2001, 2002 and 2003 taxation years are dismissed. The appeal from the reassessment for the 2004 taxation year is allowed in accordance with the attached Reasons for Judgment.
+The Appellant shall pay the Respondent’s costs on a party and party basis.
+Signed at Vancouver, British Columbia, this 2nd day of August 2012.
+“B.Paris”
+Paris J.
+Citation: 2012 TCC 289
+Date: 20120801
+Docket: 2009-3667(IT)G
+BETWEEN:
+JOSEPH MATHEW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] In this appeal, Mr. Mathew is contesting reassessments of his 2001, 2002, 2003 and 2004 taxation years. The issues to be decided are:
+- whether Mr. Mathew failed to report income of $201,000 in 2001, $321,700 in 2002, $54,000 in 2003 and $73,300 in 2004; and
+- if Mr. Mathew failed to report this income,
+i) whether the Minister of National Revenue (the “Minister”) was entitled to reassess the 2001 and 2002 taxation years beyond the normal reassessment period; and
+ii) whether Mr. Mathew is liable for penalties pursuant to subsection 163(2) of the Income Tax Act (ITA) in respect of the unreported amounts for the 2001, 2002, 2003 and 2004 taxation years.
+[2] Mr. Mathew admits that he received the amounts in issue for his 2001, 2002 and 2003 taxation years but says that he received them as damages for pain and suffering, and therefore that they were non-taxable receipts. He says that the 2004 amount was also due to him as damages for pain and suffering but he never received this amount. For these reasons he says that he made no misrepresentations in reporting his income in any of the years under appeal.
+[3] For the reasons that follow, I find that the amounts in issue for the 2001, 2002 and 2003 taxation years were taxable income to Mr. Mathew and that, by failing to report that income, he made misrepresentations that were sufficient to enable the Minister to reassess the 2001 and 2002 taxation years beyond the normal reassessment period, and to impose subsection 163(2) penalties in respect of the unreported income for the 2001, 2002, and 2003 taxation years. However, I have also concluded that the Appellant did not receive the $73,300 included in his income for 2004.
+Facts
+[4] The Appellant is a trustee in bankruptcy. He testified that he received a Bachelor of Commerce degree from Bangalore University in India in 1985 or 1986 and came to Canada in about 1988. He worked at BDO Dunwoody in Toronto from approximately 1991 to 1994 and obtained his personal bankruptcy trustee licence in 1994. He then began working for a bankruptcy trustee firm run by Howard Wasserman in Toronto.
+[5] At some unspecified point in the late 1990’s, the Appellant said he began working with his spouse, Jessy Mathew who, he said, operated a sole proprietorship named “J and J Consulting” (“J and J”). According to the Appellant’s spouse, the initials “J and J” stood for “Jessy and Joseph”. J and J provided insolvency counselling. Apparently Ms. Mathew had taken a course in this area. The nature of the business relationship between the Appellant and Ms. Mathew was not entirely clear. While the Appellant testified that he and his spouse split the profits earned by this enterprise, in his tax returns, he reported amounts purportedly earned from J and J as “other employment income,” and at the hearing he described himself as an independent contractor to J and J.
+[6] Although the Appellant had his personal licence as a bankruptcy trustee during this time, he said that it was necessary to refer any client of J and J that decided to declare bankruptcy to Wasserman. The Appellant said that he was not authorized to act as trustee in bankruptcy except under the supervision of someone who had a corporate trustee licence, which Wasserman did. It was not clear from the Appellant’s testimony what role he played in these bankruptcies that were referrals from J and J. However, it was clear that the Appellant maintained an ongoing association with Wasserman even after he left that firm, which according to him was in the late 1990’s.
+[7] The Appellant stated that in 2000 his spouse and her cousin incorporated a company called Financial Crisis Counselling Inc. (“FCC”) to do the same type of work as J and J. He said that the cousin moved away a couple of months after the company was incorporated, and his spouse lost interest in it at that point. The shares were then transferred to the Appellant’s mother, Kunjamma Mathai, for no consideration, to hold in trust for the Appellant’s sister, Tabitha Abraham.
+[8] The Appellant said that in the middle of 2000 Tabitha approached him to work for FCC, doing the same work as he was doing at J and J. The Appellant said he began working at FCC as an independent contractor but also continued to work for J and J.
+[9] The Appellant testified that in November 2000 he fell and injured his knee at the office of FCC. He said he tore his anterior cruciate ligament and was required to undergo surgery on two occasions in early 2001. He said he missed a great deal of work in 2001, 2002 and 2003 and also went to India for treatments for his knee and back.
+[10] According to the Appellant, he contacted a lawyer in January 2001 who advised him to sue both FCC and his mother, as shareholder of FCC, for $1.5 million for the injury. He said he approached his mother and negotiated a settlement with her and FCC whereby they agreed to pay him $650,000 over three years. He produced a settlement agreement signed by him and his mother made “as of” March 15, 2001.
+[11] The Appellant claimed that he did not expect to receive more than two or three thousand dollars a month from FCC under the settlement because the company was not earning a lot of money. Rather, he indicated that he felt his prospects of collecting from his mother were greater because he said she had property in India worth over $1 million.
+[12] However, the Appellant said that a file FCC began working on (the “EPC” file) in 2001 turned out to be very lucrative for the company and generated significant revenue for FCC. Therefore he said that he was able to collect large amounts from FCC in 2001, 2002 and 2003. The file related to the bankruptcy of a corporation named EPC Corporation which had operations in Toronto and affiliated companies in Montreal and Vancouver. The owner of the company lived in Hong Kong.
+[13] The Appellant said that FCC transferred the EPC file to Wasserman to handle the bankruptcy filing, and that FCC worked for Wasserman, collecting receivables on behalf of EPC’s creditors. The Appellant said that he may have performed a very small amount of work for FCC on the file, but that most of the work collecting the receivables was done by other persons working for FCC.
+[14] The Appellant testified that, at his request, “someone” at FCC gave a direction to Wasserman to pay over fees earned by FCC on the EPC file to him, as payment for the amount FCC owed him under the settlement agreement relating to his injury. He also said that he also received payments from other FCC clients of amounts they owed FCC.
+[15] The Appellant said that he received payments from Wasserman and FCC totalling $201,000 in 2001, $321,700 in 2002 and $54,000 in 2003 as payments under the settlement agreement.
+[16] By 2004, the Appellant said that his relationship with his mother and siblings had become strained and he was unable to collect any more money on the settlement. He said he wrote to his mother in May 2004 demanding payment of the balance owing - $73,300 – failing which he threatened to bring legal action against her and FCC. He said that he did not receive any further payment so he filed a Statement of Claim against them in September 2004. In December 2004, the Appellant’s mother consented on her own behalf and on behalf of FCC, to judgment for the full amount claimed by the Appellant, plus interest of $8,884.56. The Appellant said, though, that he has not collected anything on this judgment.
+[17] As part of the Statement of Claim filed in September 2004, the Appellant included the following list of payments he received from FCC (including those paid by Wasserman) from 2001 to 2003.
+[18] The Appellant insisted at the hearing that none of these amounts were received by him for work done for FCC or for Wasserman.
+[19] I find the Appellant’s testimony concerning the source of these funds to be quite problematic.
+[20] Firstly, while the Respondent accepted that the Appellant did suffer a knee injury in November 2000, there was no convincing evidence that the injury occurred at the offices of FCC.
+[21] The version of events given by the Appellant to the auditor concerning his knee injury conflicted with the testimony given by the Appellant’s witness Sriskantharajan Vallipuranathar, and with the testimony given by the Appellant’s mother.
+[22] The Appellant told the auditor he tripped over a cord behind the entrance door of the office, while carrying some boxes. Mr. Vallipuranathar, however, testified that he was present in the office at the time, and that the Appellant fell on the stairway leading up to the office. Ms. Mathai said that, although she was not present her understanding was that the Appellant had broken his leg.
+[23] The Appellant told the Canada Revenue Agency (“CRA”) auditor that he hit his knee on the ground and that he could not move off the floor, but then said that later that night he went to the gym to work out. He said that his knee snapped completely at the gym, and that he drove home and went to the hospital the next day.
+[24] At the hearing, the Appellant testified and said he had “a slip, a fall” in the FCC office and that he hurt his knee “really bad.”
+[25] It seems highly improbable that if the Appellant had hurt himself as badly as he says he did at the FCC office, that he would have gone off to the gym to workout rather than have the injury attended to right away. I would also have expected that Ms. Mathai would have been more aware of the details of the alleged accident given that she subsequently says she (along with FCC) agreed to pay the Appellant damages of $650,000.
+[26] Furthermore, the Appellant told the auditor that only his sister Tabitha was in the office at the time of the accident, and did not mention Mr. Vallipuranathar’s presence.
+[27] I note that the Appellant did not call his sister Tabitha as a witness at the hearing despite her alleged involvement in FCC and presence at the office at the time of the accident. The Appellant testified that she was not available to testify because she was living in the United States. His mother testified though that she was living with Tabitha in Ajax, Ontario and that Tabitha was at home the day she (the Appellant’s mother) gave her evidence.
+[28] The testimony given by the Appellant and Mr. Vallipuranathar concerning the Appellant’s supposed consultation with a lawyer after the accident, and negotiation of the settlement is also hard to accept.
+[29] The Appellant said that he first consulted the lawyer in early 2001, even before his second operation, and was advised to sue for $1.5 million, but no details of how that figure was arrived at were given. No mention was made of the lawyer having obtained a medical report concerning the injury. Then, despite having engaged a lawyer, the Appellant said he himself negotiated the settlement directly with his mother, who apparently chose to forego any legal advice on the matter. In addition, neither the Appellant nor his mother gave any indication that Tabitha Abraham was in any way involved in those negotiations, despite their claims that she was the true owner of FCC and that she controlled its operations. Also, I was surprised at how sanguine Ms. Mathai appeared to be about the settlement, given her supposed potential financial exposure under the agreement.
+[30] Mr. Vallipuranathar gave evidence that it was he who referred the Appellant to the lawyer, Mark Kushner, who purportedly advised the Appellant to sue. His evidence on this point strikes me as completely far-fetched. Mr. Vallipuranathar said that he had never used the services of Mr. Kushner himself, but at the time he purchased his house in 1996 he was given Mr. Kushner’s card along with cards for several other lawyers, by a legal secretary who worked with Mr. Kushner. Mr. Vallipuranathar says that in early 2001 he gave the card to the Appellant, and then drove the Appellant to see Mr. Kushner in Aurora, Ontario on four or five occasions. Mr. Vallipuranathar put the distance from Ajax to Aurora at between 60 and 70 kilometers.
+[31] I find it difficult to believe that the Appellant would choose a lawyer located so far from his home in the absence of any more substantial reference and without any knowledge of his work.
+[32] Mr. Vallipuranathar also stated that he sat in on the meetings between the Appellant and Mr. Kushner. I find this to be highly unlikely. I can see no reason why Mr. Vallipuranathar would have sat in on those meetings.
+[33] The wording of the settlement agreement is also somewhat inconsistent with it having been entered into on March 15, 2001. The recital states that:
+1. Mathew sustained a very serious knee injury that resulted in two surgeries, one of which was a major ACL reconstruction surgery, and a long rehabilitation and recovery process as a result of an accident that occurred on November 9th, 2000 at suite 205, 40 Old Kingston Road in Ajax, the offices of Financial Crisis Counselling Inc.
+(Underlining added)
+[34] The reference to a long rehabilitation and recovery process seems incongruous with the supposed date of the agreement, especially given that one of the surgeries that the Appellant underwent was in February 2001 (see Exhibit R-2, Tab 6). It is also odd that the agreement provides that it “shall be effective as of March 15, 2001” if that was in fact the date it was made. Finally, it is also hard to believe that the parties would enter into such a significant settlement so soon after the supposed accident before any reasonably complete assessment of damages could be made. By the Appellant’s own account he continued to get treatment for his knee, and his ability to work was affected for a significant period of time after the settlement. There was no evidence of any factors that would have explained such a hasty settlement being made. It is also unbelievable that the Appellant’s mother and FCC would agree to settle without receiving legal advice and medical reports.
+[35] Another aspect of the settlement agreement that was not touched upon by the parties, but which in my view is worthy of consideration, is the provision for additional damages of $2,000 per month that the Appellant is unable to work beyond an initial period of six months. The Appellant’s evidence was that he was off work for most of 2001 and for long periods in 2002 and 2003 as well, but there was no mention of seeking compensation under the settlement agreement for those periods he was off. This is inconsistent with the Appellant’s position that he attempted to collect all amounts owing to him under the settlement.
+[36] I do not accept that the alleged settlement agreement between the Appellant, FCC and the Appellant’s mother was bona fide, nor do I accept that it was entered into in March of 2001. It appears much more likely to me that the Appellant created this agreement in 2004 as an attempt to camouflage substantial amounts of income he received for work done on the EPC file from 2001 on (and which he had not reported) as tax free damages for pain and suffering.
+[37] I note that the first disclosure of the existence of the alleged settlement agreement coincided with an income tax audit of the Appellant’s wife. Likewise, FCC’s first disclosure of the income earned on the EPC file and the expense related to the supposed settlement also coincided with this audit. The Appellant’s explanation for the failure by FCC to report this income and expense was convoluted and uncorroborated by any other source and was not at all believable, as I will explain later in these reasons.
+[38] I now turn to the evidence concerning the receipt by the Appellant of the amounts in issue. As I have already noted, the Appellant says that these funds were paid to him under the settlement agreement and none of it was for work he did. He says that they were paid to him either by FCC or by Wasserman at the direction of FCC. I find however that the evidence does not support the Appellant’s position.
+[39] Information provided by Mr. Wasserman to the CRA auditor contradicts the testimony of the Appellant that he did very little work on the EPC file for FCC in 2001, 2002 and 2003. Wasserman gave the auditor cancelled cheques made out to the Appellant for the period from January 2002 to December 2003. Those cheques show that Mr. Wasserman paid the Appellant $2,500 per month for January 2002 to May 2003 and for August to December 2003. He also received $4,226 in June 2003 and $50,000 in February 2002. In total, the Appellant received a total of $80,000 in 2002 and $29,226 in 2003 directly from Mr. Wasserman. Mr. Wasserman wrote to the auditor that these amounts were paid to the Appellant as consideration for services the Appellant provided on behalf of FCC. This information cannot be reconciled with the Appellant’s statement in Court that he was rarely able to work in 2002, or with his statement in a letter he wrote to the CRA auditor on July 17, 2007 that most of the funds that he collected directly from Wasserman in 2001, 2002 and 2003 were collected while he was unable to work and were not related to any work he performed on behalf of FCC. While many of the Wasserman cheques contained the notation “car allowance,” this does not detract from the fact that the Appellant, according to Wasserman, received all of these almost monthly payments for services he provided and that these payments covered essentially all of 2002 and 2003.
+[40] With respect to 2001, the Appellant said that he was away for long periods after his surgery in February of that year. In the same letter to the auditor dated July 17, 2007 referred to above, the Appellant wrote that “[ a]s a result of the accident, surgeries and the long process of rehabilitation I was absent from FCC for most of the year...” However, the Appellant admitted at the hearing that he traveled to Vancouver, Hong Kong and Montreal in May and June 2001 to work on the EPC file. Also, in an email from one of the Appellant’s business associates concerning his trip to Vancouver, the Appellant was referred to as “the front man” on the file.
+[41] Also, the Appellant admitted that he did the bookkeeping for FCC throughout the period from 2000 to 2004.
+[42] Another difficulty I have with the Appellant’s story is that it does not account for who did the work on the EPC file to generate the large fees supposedly earned by FCC, if it wasn’t him. There was no satisfactory evidence as to who else it might have been. The Appellant said that FCC had a lot of other contractors working on the file, but then was only able to recall Mr. Vallipuranathar and someone called “Prabhu”. He also said his sister worked on the file. I find it surprising the Appellant would not have had a better recollection of the other alleged contractors given that he apparently did the bookkeeping for FCC. This, and the fact that he signed FCC’s tax returns for 2000, 2001, 2002 and 2003 leads me to believe that he had much more knowledge of FCC’s affairs during that period than he let on.
+[43] Mr. Vallipuranathar did testify that he and other FCC contractors worked on the EPC file, but I do not accept this evidence. He gave me no specifics of the work done, and it does not appear that he had any skills or training that would explain why he would have been involved in the EPC file. Prior to working for FCC, Mr. Vallipuranathar had operated a take-out restaurant and worked in a bingo hall. When asked about other contractors working on the EPC file, Mr. Vallipuranathar could only recall that there was someone called “Prabhu” and someone called “Shankar.” Interestingly, the Appellant initially also suggested that one of the FCC contractors on the EPC file was called Shankar, but he subsequently admitted that Shankar was FCC’s external accountant, and not a contractor. I find it unusual that Mr. Vallipuranathar would also name the external accountant for FCC as one of the contractors working on the EPC file, and that his evidence concerning the other contractors was almost identical to that given by the Appellant. This left me with the impression that Mr. Vallipuranathar had been coached by the Appellant with respect to his evidence.
+[44] Other parts of Mr. Vallipuranathar’s evidence also concerned me. For example, he said that he first heard of FCC through the Appellant’s mother, when she came in to his restaurant. He said she gave him a business card for FCC. However, he said earlier that he stopped working at the restaurant in 1996, which was four years before FCC was incorporated. Mr. Vallipuranathar was also reluctant to admit that he is now a business associate of the Appellant and works in an office located right beside the Appellant’s.
+[45] Another factor that leads me to reject the proposition that other FCC contractors generated large fees for the company on the EPC file is that FCC reported very modest payments to its subcontractors: $6,605 in 2001 and $16,500 in 2002. It did not show any wages paid to employees in those years either. It seems highly unlikely that FCC could have generated the revenue of $201,000 in 2001 and $321,700 in 2002 that the Appellant says he collected, while paying the workers who supposedly generated it less than 3% or 5% of that revenue in the respective years. Finally, no records of FCC were presented to show who it was that performed the work that gave rise to the payments. The only credible evidence I have before me is that the work was carried out by the Appellant. It appears to me that the Appellant performed the work on the EPC file and simply appropriated the resulting revenue to himself.
+[46] I draw a negative inference from the Appellant’s failure to call his sister as a witness. I accept the Appellant's mother’s evidence that Ms. Abraham lives in Ajax, Ontario and was at home at the time of the hearing, rather than in the U.S., as the Appellant claimed in his testimony. I can see no reason that the Appellant's mother would lie about her daughter's whereabouts.
+[47] I would also add that I find the Appellant's testimony that Ms. Abraham ran FCC to be highly implausible. In fact, the whole history of FCC, as recounted by the Appellant struck me as unlikely. Initially, the Appellant said that the company was incorporated by his spouse and her cousin and was to offer the same services as his spouse’s proprietorship, J and J Consulting. But, if the Appellant were to be believed, almost no sooner than the company was begun, the cousin moved away to the U.S. and the Appellant's spouse "lost interest" in the company. Then, sometime shortly thereafter, the shares were simply signed over to the Appellant’s mother to hold for his sister.
+[48] The Appellant said that his sister acquired the shares of FCC because she wanted to operate a similar business to J and J Consulting. He said that she had previously provided consulting services to Wasserman. The Appellant’s mother testified, though, that Ms. Abraham’s work for Wasserman during the mid-1990’s was as a secretary-receptionist.
+[49] The timing of the alleged venture by Ms. Abraham is also curious. According to the Appellant, she became involved in FCC just prior to moving to Dubai with her husband who had gotten a job there. However, if she was still in Canada when she supposedly became involved in FCC, why were the shares put in the Appellant’s mother’s name rather than in Ms. Abraham’s own name? On the other hand, if it was done because she was planning to move to Dubai, why would she have chosen to start a new business in Canada at that point? The notion that she left her mother to look after operations in her absence is implausible. Her mother could not read, write or speak English, and had no apparent business experience. When asked about tasks she performed at FCC’s office, the Appellant’s mother said she cleaned the office and the washrooms. The Appellant himself said that his mother rarely went in to the FCC office. On the other hand, the Appellant acted as bookkeeper for the company, signed its tax returns up to 2004, and represented it in all its dealings with the CRA. It is also noteworthy that the company seems to have stopped operating at roughly the same time as the Appellant started his present firm, Mathew & Associates. No explanation was given why the company ceased its activities.
+[50] Another aspect of the Appellant’s testimony that doesn’t make sense to me is, if FCC was really his sister’s company, how FCC came to work on the EPC file. According to the Appellant, the file originally belonged to J and J. In May and June of 2001 the Appellant said he traveled to Vancouver, Montreal and Hong Kong on behalf of J and J to work on the file. However, he was also working at FCC at the time he said. Interestingly, this was also at a time he claimed to be off work because of his injury. The Appellant would have the Court believe that he just took the file over to FCC, with no protest from his spouse, the owner of J and J and that from that point on, the file generated over $500,000 in revenue. I am also perplexed as to why the Appellant would have chosen to work for either J and J or FCC, when these arrangements were clearly disadvantageous to him. He had a bankruptcy trustee licence and apparently more experience than either his spouse or his sister in the bankruptcy area. The Appellant said that he initially began working for his wife because she had more contacts in the field than he did but did not elaborate on this point. Once again, this strikes me as unlikely given that the Appellant worked at BDO Dunwoody from approximately 1991 to 1994 and had been associated with Wasserman, a corporate bankruptcy trustee since 1994.
+[51] Turning back to the Appellant’s principal contentions, that he received the amounts in issue under the settlement agreement, and that FCC paid them to him out of revenues it earned, one would expect to see some reference to the payments or revenue in FCC’s books and records. This was not the case, at least until the CRA audit of the Appellant’s spouse commenced in the summer of 2004. FCC did not report any part of the supposed settlement payments on its tax returns for 2001, 2002 or 2003 as an expense nor did FCC show the settlement amounts that remained unpaid as a liability. In September 2004 FCC filed an amended return for its 2003 taxation year to show the EPC income as “deferred revenue” and the settlement amount as a liability. Even that amended return, though, showed no amount of the settlement as having been paid by the end of 2003, an inconsistency that was not addressed at the hearing.
+[52] The Appellant claimed that FCC did not initially report the EPC income because the company felt it was still contingent on approval of the bankruptcy trustee fees by the Court. He explained that in a bankruptcy, a trustee may take draws during the course of the bankruptcy proceedings for work that is done but those fees require Court approval when the final accounting on the file is submitted. If the fees are not approved, the Appellant said that the trustee must repay them. The Appellant said that when the matter was discussed with FCC’s accountant, he advised FCC to refile its returns to show the EPC income in the years it was received. It was not clear to me why the accountant would not have provided this advice when the initial returns were filed.
+[53] The Appellant’s explanation of the situation does not make sense to me. The evidence given by the Appellant was that FCC was not acting as a bankruptcy trustee on the EPC file, but was being paid by the trustee (Wasserman) to collect receivables. Another problem with this story is that the Appellant himself told the auditor in a meeting on November 27, 2006 that the EPC file contained both a bankruptcy and a receivership. The receivership was set up by the Bank of America which was a secured creditor of EPC and was owed $40 million. Wasserman acted as the receiver as well as the trustee in bankruptcy. The Appellant told the auditor that most of the fees on the EPC file were from the receivership and that the fees could be paid to the receiver without court approval.
+[54] Furthermore, the Appellant did not state why the amount supposedly owed by FCC to the Appellant under the settlement agreement was not reported as a liability on its financial statements for 2002, 2003 or 2004, or why the supposed settlement payments were not claimed as expenses in calculating FCC’s income. The matter of reporting the settlement payments as an expense would be quite unrelated to the question of the EPC income being contingent. The lack of disclosure of the financial implications of the settlement agreement in the tax returns of FCC leads me to infer that the settlement agreement was not created until September 2004, which was the time the amended FCC tax return was filed.
+[55] A further indication to me that the supposed settlement agreement was not genuine is that the Appellant says he never collected the outstanding balance of $73,300 from FCC or his mother. After obtaining a consent judgment for the outstanding amount in December 2004, it does not appear that he took any steps to collect. If he did not intend to pursue the matter, one wonders why he went to the trouble and expense of filing an action to collect the debt. Once again, I believe that he did so to create the appearance that the settlement agreement was bona fide, and that the amounts he received from Wasserman and FCC were non-taxable.
+[56] In summary, I am satisfied that on the balance of probabilities the Appellant received the amounts in issue for 2001, 2002 and 2003 as income for services provided by him to Wasserman and FCC.
+Analysis
+[57] The Appellant argued that the amounts added to his income were received as damages for pain and suffering. As I have already indicated, I reject the Appellant’s evidence on this point and I am satisfied that the Respondent has shown on the balance of probabilities that the Appellant received the amounts in issue for 2001, 2002 and 2003 as income for services provided by him to Wasserman and FCC.
+[58] The Appellant relied on the decision of this Court in Jencik v. The Queen, 2004 TCC 295 in support of his position that the Respondent had not met the onus to prove that the Appellant made a misrepresentation attributable to neglect, carelessness or wilful default in reporting his income for his 2001 and 2002 taxation years. The Appellant therefore maintained that the Minister had not shown that he was entitled to reassess those years beyond the normal reassessment period.
+[59] In Jencik, the Minister had reassessed the taxpayer beyond the normal reassessment period for unreported income. The reassessment was based on an analysis of bank deposits made to the taxpayer’s accounts. The analysis revealed unexplained deposits to the taxpayer’s accounts and the Minister treated these as income from the taxpayer’s business. The Court noted at paragraph 13 of the decision that the onus on the Respondent in such cases “encompasses not only proof of the falsity of the Appellant's representations regarding his business income but also proof that they were attributable to neglect, carelessness or willful default as pleaded.”
+[60] In that case, the Respondent presented no evidence to tie the deposits to the taxpayer’s business. The judge found that the assumption that the unidentified deposits were revenues of a business was unsupported by any inference that could be drawn from the evidence. He concluded that the Respondent’s case therefore rested on conjecture, and that this was insufficient to discharge the onus.
+[61] The Appellant here submitted that the Respondent’s case rested on conjecture and that there was no proof that the amounts in issue that he received in 2001, 2002 and 2003 were income rather than damages for pain and suffering. I disagree. In Jencik, there was a complete absence of evidence tying the bank deposits to the taxpayer’s business. Here, the evidence shows that the Appellant was working on the EPC file throughout the time he claimed to be off with his knee injury and that he worked continuously in 2002 and 2003 providing services to Wasserman. It also shows that the Appellant received substantial payments from Wasserman directly for work he did on behalf of FCC. I have no hesitation in drawing the inference that the total amounts which the Appellant admitted having received from Wasserman and FCC in 2001, 2002 and 2003 were income for services performed by him and not damages. Therefore I find that, in failing to report this income in his returns of income for the 2001, 2002 and 2003 taxation years, the Appellant made misrepresentations that were attributable to wilful default and the normal reassessment period does not apply.
+[62] On the other hand, for the 2004 year, I accept that the Appellant did not receive the $73,300 that was included in his income by the Minister. While he admitted receiving the 2001, 2002 and 2003 amounts from FCC or Wasserman and there was proof of work performed, he has never admitted to receiving the 2004 amount nor has the Respondent brought proof that he did in fact receive it or that he performed services in that year.
+[63] With respect to the penalties in issue, the relevant portion of subsection 163(2) of the ITA provides that:
+Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty…
+. . .
+[64] For the reasons set out above, I find that the Appellant knowingly made misrepresentations in filing his tax returns for each of the 2001, 2002 and 2003 years by failing to include the income he received for services rendered to FCC and Wasserman. I am satisfied that the settlement agreement that he claimed to have entered into with his mother and FCC was a sham and was created after the fact in an attempt to disguise his income as non-taxable receipts.
+[65] For these reasons, the appeal is allowed in part, and the reassessment for 2004 taxation year is referred back to the Minister on the basis that the amount of
+$73,300 be deleted from the Appellant’s income. The Respondent is entitled to costs on a party and party basis.
+Signed at Vancouver, British Columbia, this 2nd day of August 2012.
+“B.Paris”
+Paris J.
+CITATION: 2012 TCC 289
+COURT FILE NO.: 2009-3667(IT)G
+STYLE OF CAUSE: JOSEPH MATHEW AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 22 and 23, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: August 2, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Samantha Hurst
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,132 @@
+---
+title: "Succession Andrée Jalbert c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28614/index.do"
+last_modified: "2008-04-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 235"
+citation2: ""
+neutral_citation: "2008 CCI 235"
+decision_date: "2008-04-23"
+language: "fr"
+item_id: "28614"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1146
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:52:32.179000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "28c0eb99e2ca0a28575004939b64b2d119b5143479c1f3e692c5969a8507205b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Succession Andrée Jalbert c. La Reine
+
+- Citation: 2008 CCI 235
+- Decision date: 2008-04-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1146, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Succession Andrée Jalbert c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-23
+Référence neutre
+2008 CCI 235
+Numéro de dossier
+1999-778(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 1999-778(IT)I
+ENTRE :
+SUCCESSION ANDRÉE JALBERT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel fixé pour audition le 7 avril 2008, à Montréal (Québec).
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Représentant de l'appelante :
+André Dupras
+Avocats de l'intimée :
+Me Philippe Dupuis
+Me Simon Petit
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l’année d'imposition 1988 est rejeté, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 23e jour d’avril 2008.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2008CCI235
+Date : 20080423
+Dossier : 1999-778(IT)I
+ENTRE :
+SUCCESSION ANDRÉE JALBERT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Cet appel concerne l’année d’imposition 1988. Il s'agit d'une autre de ces causes ayant trait à des soi‑disantes sociétés de recherche scientifique et développement expérimental.
+[2] Le représentant de l’appelante a immédiatement informé la Cour qu’il n’était pas venu pour contester l’appel au fond. Il s’en désistait mais demandait si possible, une décision en équité.
+[3] Il a relaté que l’appelante, qui était devenue son épouse après l’année en cause, est décédée en 1998 d’un cancer du sein. Il a expliqué que c’est seulement récemment qu’il a été mis au courant de cette cotisation à l’encontre de son épouse. Il a parlé des belles qualités de cœur de l’appelante et de son travail charitable, qui était sa préoccupation première au détriment peut‑être de son impôt sur le revenu.
+[4] En ce qui concerne cette demande d’une décision fondée sur des motifs d’équité et de compassion, la Cour a expliqué au représentant de l’appelante, qu’il n’y avait aucune disposition dans la Loi de l’impôt sur le revenu (la « Loi ») sur qui lui permettait de mettre de côté le droit substantif fiscal pour des motifs d’équité. Cette Cour doit juger en fonction de la Loi. Toutefois, il y a une disposition de la Loi qui permet au ministre du Revenu national (le « Ministre ») de renoncer aux intérêts et aux pénalités pour ces motifs, soit le paragraphe 220(3.1) de la Loi. Le tribunal qui a compétence pour réviser l’exercice du pouvoir du Ministre en regard de cette disposition est la Cour fédérale du Canada.
+[5] Cependant, pour l’information du représentant de l’appelante, je cite le paragraphe pertinent de la Loi et l’historique de cet article :
+220(3.1) Renonciation aux pénalités et aux intérêts -- Le ministre peut, au plus tard le jour qui suit de dix années civiles la fin de l'année d'imposition d'un contribuable ou de l'exercice d'une société de personnes ou sur demande du contribuable ou de la société de personnes faite au plus tard ce jour-là, renoncer à tout ou partie d'un montant de pénalité ou d'intérêts payable par ailleurs par le contribuable ou la société de personnes en application de la présente loi pour cette année d'imposition ou cet exercice, ou l'annuler en tout ou en partie. Malgré les paragraphes 152(4) à (5), le ministre établit les cotisations voulues concernant les intérêts et pénalités payables par le contribuable ou la société de personnes pour tenir compte de pareille annulation.
+Historique : Le paragraphe 220(3.1) a été remplacé par L.C. 2005, ch. 19, par. 48(1), applicable à compter de 2005. Toutefois, si un contribuable ou une société de personnes en fait la demande au ministre du Revenu national en vertu du paragraphe 220(3.1) pour une année d’imposition ou un exercice, ce paragraphe est réputé être libellé comme suit pour cette année d’imposition ou cet exercice :
+« (3.1) Le ministre peut renoncer à tout ou partie d’un montant de pénalité ou d’intérêts payable par ailleurs par un contribuable ou une société de personnes en application de la présente loi pour une année d’imposition ou un exercice, ou l’annuler en tout ou en partie. Malgré les paragraphes 152(4) à (5), le ministre établit les cotisations voulues concernant les intérêts et pénalités payables par le contribuable ou la société de personnes pour tenir compte de pareille annulation. »
+Ce paragraphe se lisait antérieurement comme suit :
+« (3.1) Le ministre peut, à tout moment, renoncer à tout ou partie de quelque pénalité ou intérêt payable par ailleurs par un contribuable ou une société de personnes en application de la présente loi, ou l'annuler en tout ou en partie. Malgré les paragraphes 152(4) à (5), le ministre établit les cotisations voulues concernant les intérêts et pénalités payables par le contribuable ou la société de personnes pour tenir compte de pareille annulation. »
+Le paragraphe 220(3.1) a été modifié par L.C. 1994, ch. 7, ann. VIII, par. 127(2) applicable aux années d'imposition 1985 et suivantes. Le paragraphe 220(3.1) se lisait antérieurement comme suit :
+« (3.1) Le ministre peut, à tout moment, renoncer à tout ou partie de quelque pénalité ou intérêt payable par ailleurs par un contribuable ou une société de personnes en application de la présente loi, ou l'annuler en tout ou en partie. »
+Le paragraphe 220(3.1) a été ajouté par L.C. 1994, ch. 7, ann. II, par. 181(1), applicable aux pénalités et aux intérêts relatifs aux années d'imposition 1985 et suivantes.
+[6] La circulaire d’information relative à cet article porte le numéro IC 98‑1R2.
+[7] Comme le représentant de l’appelante s’est désisté de son appel et comme cette Cour n’a pas de pouvoir pour rendre des décisions sur une base autre que celle de la Loi, l’appel doit être rejeté.
+Signé à Ottawa, Canada, ce 23e jour de avril 2008.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2008CCI235
+Nº DU DOSSIER DE LA COUR : 1999-778(IT)I
+INTITULÉ DE LA CAUSE : SUCCESSION ANDRÉE JALBERT ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 7 avril 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 23 avril 2008
+COMPARUTIONS :
+Représentant de l'appelante :
+André Dupras
+Avocat de l'intimée :
+Me Philippe Dupuis
+Me Simon Petit
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,147 @@
+---
+title: "Hauser v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/98444/index.do"
+last_modified: "2014-11-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 328"
+citation2: ""
+neutral_citation: "2014 TCC 328"
+decision_date: "2014-11-07"
+language: "en"
+item_id: "98444"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5263
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:28:42.985000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1513995fe382ba120e36e131067eef0c5be5f79fe8d447483d6eaa930bf29f61"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hauser v. The Queen
+
+- Citation: 2014 TCC 328
+- Decision date: 2014-11-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5263, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hauser v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-11-07
+Neutral citation
+2014 TCC 328
+File numbers
+2014-999(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-999(IT)I
+BETWEEN:
+TRUDY HAUSER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 17, 2014 at Calgary, Alberta
+Before: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Mary Softley
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2012 taxation year is dismissed.
+Signed at Toronto, Ontario this 7th day of November 2014.
+“J.M. Woods”
+Woods J.
+Citation: 2014 TCC 328
+Date: 20141107
+Docket: 2014-999(IT)I
+BETWEEN:
+TRUDY HAUSER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Trudy Hauser moved from Cochrane to Calgary around August 2012 in order to have a shorter commute to her new job. The issue to be decided is whether the move qualifies for the moving expense deduction in section 62 of the Income Tax Act. The moving expenses that are at issue are approximately $17,000.
+[2] In order to qualify for a work-related moving expense deduction under s. 62 of the Act, the move must satisfy the requirements of an “eligible relocation” as that term is defined in subsection 248(1) of the Act. The relevant part of this definition is set out below:
+“eligible relocation” means a relocation of a taxpayer in respect of which the following apply:
+[…]
+(d) the distance between the old residence and the new work location is not less than 40 kilometres greater than the distance between the new residence and the new work location;
+[3] Paragraph (d) above requires that the new home be at least 40 kilometres closer to the new work location than the old home.
+[4] The parties agree that the distance between the new home and the new work location is 15 kilometres.
+[5] The dispute concerns the distance between the old home and the new work location. The Crown suggests that this distance is 40 kilometres and Ms. Hauser suggests that it is approximately 60 kilometres.
+[6] The Crown submits that the distance should be measured by a major urban road that is about 40 kilometres. It is submitted that this is the shortest normal route. If this is the appropriate measure of distance, the new home is only 25 kilometres closer to the new work location.
+[7] Ms. Hauser submits that persons traveling between the old home and the new work location during the 2012 taxation year would typically not use the urban route. It is submitted that they would take an efficient freeway route around the city (a ring road) in order to by-pass detours and delays on the urban route caused by the construction of light rail transit. The ring road route is approximately 60 kilometres. Using this route to calculate distance, the new home is 45 kilometres closer to the new work location.
+[8] The question to be decided is whether the distance for purposes of section 62 should be measured by the urban road or the ring road. The principles to be applied are set out in Giannakopoulos v MNR, 95 DTC 5477 (FCA) by Marceau J.A.:
+7 Subsection 62(1) permits a taxpayer to deduct moving expenses when he moves closer to a new workplace. An employee must live within a reasonable distance of his work. When he accepts a new position, the employee may have to move in order to remain within a practical commuting distance of his job. Subsection 62(1) recognizes that relocation is a legitimate work-related expense. In order to prevent the provision from being invoked when a taxpayer simply desires a change in residence, the provision requires that the move bring the taxpayer at least forty kilometres closer to work. Usually, a taxpayer travels to work using ordinary routes of public travel, i.e. roads, highways, railways. In determining whether the taxpayer has really moved forty kilometres closer to work, it only makes sense to measure the distance he has moved using real routes of travel. A realistic measurement of travelling distance is necessary in order to give effect to the purpose of the provision. The straight line method bears no relation to how an employee travels to work. It is illogical to apply this technique to a provision which exists to recognize work related relocation expenses. It leads to absurd results where the old residence and the new workplace are separated by a body of water. A taxpayer who moves across a river to be closer to his workplace may have only moved a few miles “as the crow flies” but may actually be several dozen miles closer to work. In fact, this is exactly what happened in Cameron v. Minister of National Revenue wherein the taxpayer moved across the Ottawa River from Aylmer, Quebec to Kars, Ontario. The Tax Court of Canada held that he could not deduct his moving expenses because the distance was less that 40 kilometres using a straight line measurement.
+8 In one case before the Tax Court of Canada, Bernier, J-C, Estate v. Minister of National Revenue, Lamarre-Proulx T.C.J. held herself to be bound by the prior decisions but only after expressing her own discordant personal view. She stated at page 2539 (D.T.C. 1223):
+In my view, the remedy in subsection 62(1) should be interpreted in relation to the workers, and the distance in question should be measured by the worker's normal route or the route that he would normally take to go from home to his place of work.
+9 While the use of the normal route notion is more realistic and more effectively furthers the purpose of the section, I would not go so far as Lamarre‑Proulx T.C.J. would apparently have been prepared to go, i.e. to accept a measurement based merely on the worker's normal route or the route that he would normally take to go from home to his place of work. Such a subjective approach would introduce a source of uncertainty which might become “a trap for litigation”, which was precisely the reason invoked by the judges to explain their adherence to the direct line approach. It is necessary to be more objective. The idea of the shortest route that one might travel to work should be coupled with the notion of the normal route to the travelling public. Thus, the shortest normal route would be a preferable test to the straight line method, for it is both realistic and precise. It also furthers the purpose of the provision. This test would prevent a taxpayer from being expected to use an extraordinary route such as a neglected or unpaved road. It would also leave room to consider travel not only on roads but on ferries and rail lines.
+[9] The appropriate principle, then, is that the distance must be determined by the shortest route that one might travel to work, as long as it is a normal route used by the traveling public.
+[10] In this case the urban route is clearly a shorter route. The question is whether the construction on that route resulted in it not being a normal route used by the traveling public.
+[11] In my view, for purposes of section 62, the determination of distance using a route that is under construction is appropriate as long as the construction project does not last an inordinate amount of time.
+[12] I note that the legislation contemplates an arbitrary rule determined by “distance.” The concept of “normal route by the traveling public” is a judge‑made common sense approach to this requirement.
+[13] A purposive approach to interpreting the term “distance” is required. Applying this approach, it is not appropriate in my view to stretch the term “distance” to disqualify routes that are under construction. Section 62 of the Act provides a deduction for moving expenses that generally would be expected to benefit the taxpayer over a number of years. In my view, it would distort the purpose of the legislation if a temporary construction project were to permit a longer route to be used.
+[14] The remaining question is whether the delays on the urban route lasted such a length of time that they should be taken into account from a common sense perspective.
+[15] Ms. Hauser provided documentary evidence that the delays on the urban road commenced in 2010 and at that time the construction was expected to be completed by November 2012. Ms. Hauser moved around August 2012.
+[16] Ms. Hauser testified that the construction lasted longer than this. I accept that the construction lasted longer than expected, but I am not satisfied by the evidence that the delays and detours lasted so long that the urban route was not an appropriate route for purposes of section 62.
+[17] I have concluded that the urban road is the appropriate route to measure distance for purposes of section 62. The appeal will be dismissed on this basis.
+Signed at Toronto, Ontario this 7th day of November 2014.
+“J.M. Woods”
+Woods J.
+CITATION:
+2014 TCC 328
+COURT FILE NO.:
+2014-999(IT)I
+STYLE OF CAUSE:
+TRUDY HAUSER and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+September 17, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+November 7, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Mary Softley
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

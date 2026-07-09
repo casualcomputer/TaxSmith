@@ -1,0 +1,189 @@
+---
+title: "Dhaliwal v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30749/index.do"
+last_modified: "2012-03-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 84"
+citation2: ""
+neutral_citation: "2012 TCC 84"
+decision_date: "2012-03-16"
+language: "en"
+item_id: "30749"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7485
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:32:26.386000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "16352614c49f57f3cb0b0570f89d258058bde1694e2db8212401bfec7069b8a7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dhaliwal v. The Queen
+
+- Citation: 2012 TCC 84
+- Decision date: 2012-03-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7485, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dhaliwal v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-03-16
+Neutral citation
+2012 TCC 84
+File numbers
+2010-2091(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2091(IT)G
+BETWEEN:
+SAMIPAL DHALIWAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 14, 2012, at Vancouver, British Columbia.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Matthew W. Turnell
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act with respect to the Appellant’s 2007 taxation year is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the reasons for judgment attached hereto.
+Signed at Edmonton, Alberta, this 16th day of March 2012.
+"Patrick Boyle"
+Boyle J.
+Citation: 2012 TCC 84
+Date: 20120316
+Docket: 2010-2091(IT)G
+BETWEEN:
+SAMIPAL DHALIWAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] The only issue that remained to be decided at the hearing of this appeal was whether the taxpayer had elected in his electronically‑filed 2007 tax return to have the deemed disposition rule in subsection 50(1) of the Income Tax Act (the “Act”) apply to a bad debt owed to him.
+I. Facts
+[2] Over a period of several months in 2005, Mr. Dhaliwal loaned $156,000 to his employer, Mainland Sound and Communication Inc. (“Mainland”). Most of the funds were advanced by cheque to Mainland. A portion was advanced by cheque made out to one of the individual principals of the business at his request. Mr. Dhaliwal understood the loan was nonetheless to Mainland and at the trial the Respondent did not dispute this.
+[3] The principals of Mainland, Mr. Dhaliwal’s bosses, told him the business was experiencing short‑term cash flow problems because suppliers to specific jobs needed to be paid before its customers’ progress payments under the contracts were due. His loans were to be repaid promptly when customers paid Mainland. This was a handshake deal at that stage. After a series of advances over a period of months, none of which had yet been repaid, Mr. Dhaliwal became very concerned in July 2005 when a supplier refused to deliver on a job because he was unpaid. Mr. Dhaliwal had already advanced Mainland money to pay this particular supplier.
+[4] Mr. Dhaliwal retained a lawyer to advise him. Following his lawyer’s advice, Mr. Dhaliwal had Mainland and its two principals sign an interest‑bearing promissory note on August 18, 2005 which was prepared by his lawyer. The promissory note provided that the loan was to be fully repaid in three weekly instalments beginning the following week. Under the promissory note, the two principals were made jointly and severally liable with Mainland for the debt. Unfortunately for Mr. Dhaliwal, he was never repaid this loan by Mainland and, as described below, was only ever able to recover a very modest amount from the bankruptcy of one of the principals with the result that he has lost more than $154,000.
+[5] A receiver‑manager of Mainland was appointed by Vancity Credit Union on September 2, 2005. A Receiving Order was granted by the Supreme Court of British Columbia on September 14, 2005. A bankruptcy of Mainland ensued. Mr. Dhaliwal promptly filed a Proof of Claim dated September 30, 2005 as a preferred creditor in respect of his unpaid wages as employee. He also filed proof of his claim for the $156,000 debt plus accrued interest in the bankruptcy as an unsecured creditor. In December 2005, the Trustee’s Statement of Receipts and Disbursements was signed indicating that Mainland had no unencumbered assets and that no amount would be available for distribution. In April 2006, the Trustee filed a Notice of Final Dividend, indicating none would be paid, and a Discharge of Trustee was issued.
+[6] In 2006, Mr. Dhaliwal retained another lawyer to pursue collection of the promissory note against the two individual principals of Mainland as they had agreed in the promissory note to be jointly and severally liable with Mainland for the amount owing. Proceedings were commenced in the Supreme Court of British Columbia in January 2006. Summary judgment was applied for against both principals. That application was adjourned at the defendants’ request when it came on for hearing in March 2006. Shortly thereafter he received notice of a filing for bankruptcy by one of the principals, David Blom.
+[7] Somewhat later in 2006, in further consultation with his lawyer and upon his lawyer’s advice to stop throwing good money after bad, it was decided not to pursue the other principal, Oscar Correa. It had been determined that Mr. Correa had significant outstanding creditors ahead of Mr. Dhaliwal including financial institutions and the Canada Revenue Agency (“CRA”).
+[8] It was decided to pursue his claim in the bankruptcy of Mr. Blom. Mr. Dhaliwal filed a Proof of Claim for the $156,000 debt and ultimately received a total dividend of $1,670.85 in respect of the claim. The Certificate of Discharge (Conditions Met) for Mr. Blom’s bankruptcy was dated February 5, 2007.
+[9] Mr. Dhaliwal e‑filed his 2007 tax return in timely fashion in late April 2008. In the electronic tax return, he completed an Allowable Business Investment Loss (“ABIL”) schedule specifying he had realized a loss of $154,329.15 (i.e. the $156,000 advanced to Mainland less the $1,670.85 dividend from Mr. Blom’s estate in bankruptcy) in 2007 on the loan made in 2005. His ABIL was computed as 50% of that loss and he claimed that amount as an ABIL in the main part of his electronic tax return. The ABIL schedule to his tax return indicates the loan was disposed of in 2007 upon the date of Mr. Blom’s discharge from bankruptcy. After that date no further collections could have been reasonably expected to be received in respect of his loan to Mainland.
+[10] In early May 2008, the CRA wrote requesting additional information in respect of his ABIL before it could assess his tax return. The CRA pre‑printed questionnaire does not even contemplate a loan being actually disposed of by a sale to a third party.
+[11] In September 2008, the CRA wrote to Mr. Dhaliwal saying it was denying the ABIL completely for the sole reason that Mainland had not filed its tax returns and hence the CRA could not determine if it was a qualifying small business corporation (“SBC”) for purposes of the ABIL provisions of the Act. It can be noted that a debtor’s ABIL is not dependant upon the corporate borrower filing its tax returns under the Act. It can also be noted that Mr. Dhaliwal did answer the questions in his CRA questionnaire describing Mainland’s business and the number of its employees, information necessary to determine whether a corporation is a qualifying SBC.
+[12] Following this, Mr. Dhaliwal went to meet with the CRA in September 2008 to try to resolve this denial of his ABIL. At the meeting with the CRA, he completed a T1 Adjustment Request asking the CRA to reassess 2007 to allow the ABIL. He did this at the meeting at the CRA’s suggestion. In January 2009, the CRA wrote to Mr. Dhaliwal that it was unable to make the adjustment request for the sole reason Mainland had not filed its tax returns so they could not determine if it was a qualifying SBC. The letter advised him to file an Objection if he disagreed.
+[13] Mr. Dhaliwal filed an Objection. The Objection was denied and the assessment was confirmed. According to a detailed letter accompanying the Notice of Confirmation, the CRA concluded that the loan became bad in 2005 upon Mainland’s bankruptcy. It also reiterated that there was insufficient evidence that Mainland was a qualifying SBC. The CRA also concluded that the loan was not made to Mainland but to Mr. Blom because a Proof of Claim for the full debt had been filed in Mr. Blom’s bankruptcy proceeding. The CRA also concluded that the loan appeared to be non‑arm’s length given that Mr. Dhaliwal was an employee of Mainland, did not receive security for the loan, and interest only began accruing upon the signing of the promissory note. The concluding portion of the confirmation letter says that since the loan went bad in 2005, subsection 50(1) of the Act required that the election for a deemed disposition of the debt be made in 2005 and that his 2007 T1 Adjustment Request could not satisfy the requirement. The letter usefully points out that upon payment of a late‑filing penalty, the taxpayer could still late‑file an election for 2005.
+[14] The penalty would have been approximately $5,000 but given that Mr. Dhaliwal believes the debt went bad in 2007 and not in 2005, and given that the CRA had made three other very adverse conclusions that the loan could not satisfy the ABIL requirements, Mr. Dhaliwal did not make a late‑filed election for 2005 and pay the necessary late‑filing penalty. He no doubt wisely concluded that (i) he believed it was unnecessary, and (ii) it would still not cause the CRA to allow him the ABIL. He proceeded to appeal the CRA confirmation of his 2007 Objection in this proceeding.
+[15] In its Reply, the Respondent pleaded that the loan was not made by Mr. Dhaliwal for value to an arm’s‑length corporation for the purpose of earning income. The Respondent also pleaded that Mainland was not a SBC. The Respondent further pleaded that the loss, if there was one, did not occur in 2007. Finally, and for the very first time in this dispute, the Respondent submitted that even if the loss was realized in 2007, the taxpayer did not elect as required by subsection 50(1) of the Act in his 2007 taxation year’s return. It can be noted that this was not supported by an assumption by the Minister.
+[16] At the opening of trial, the Respondent conceded that Mr. Dhaliwal’s loan was in fact made for value, on an arm’s‑length basis, to an SBC for the purpose of producing income. The Respondent did not dispute at trial that the loss was realized in 2007. Thus, the only question remaining was whether either the ABIL schedule and ABIL deduction in Mr. Dhaliwal’s e‑filed 2007 tax return, or his 2007 T1 Adjustment Request, satisfied the requirements of subsection 50(1) that the taxpayer elect to choose to realize the loss in his 2007 tax return.
+[17] Mr. Dhaliwal was entirely credible in his testimony and reasonable in his approach throughout this matter. He kept good records and documents to support all of the above. He appears to have been as determined and diligent in pursuing collection of the debt owed to him as would be expected of a reasonable Canadian business person or investor. He was equally diligent, clear and consistent in claiming and pursuing the ABIL he reported in his 2007 tax return in respect of the bad debt. I can also add that he represented himself in this matter very ably.
+II. Law and Analysis
+[18] The relevant portions of the applicable provisions of the Act are as follows:
+39. (1) Meaning of capital gain and capital loss [and business investment loss] — For the purpose of this Act,
+. . .
+(c) a taxpayer’s business investment loss for a taxation year from the disposition of any property is the amount, if any, by which the taxpayer’s capital loss for the year from a disposition after 1977
+(i) to which subsection 50(1) applies, or
+(ii) to a person with whom the taxpayer was dealing at arm’s length
+39. (1) Sens de gain en capital et de perte en capital [et des pertes au titre d’un placement d’entreprise] — Pour l’application de la présente loi :
+[…]
+c) une perte au titre d’un placement d’entreprise subie par un contribuable, pour une année d’imposition, résultant de la disposition d’un bien quelconque s’entend de l’excédent éventuel de la perte en capital que le contribuable a subie pour l’année résultant d’une disposition, après 1977:
+(i) soit à laquelle le paragraphe 50(1) s’applique,
+(ii) soit en faveur d’une personne avec laquelle il n’avait aucun lien de dépendance,
+. . .
+[…]
+50. (1) Debts established to be bad debts and shares of bankrupt corporation — For the purposes of this subdivision, where
+(a) a debt owing to a taxpayer at the end of a taxation year (other than a debt owing to the taxpayer in respect of the disposition of personal-use property) is established by the taxpayer to have become a bad debt in the year, or
+(b) a share (other than a share received by a taxpayer as consideration in respect of the disposition of personal-use property) of the capital stock of a corporation is owned by the taxpayer at the end of a taxation year and
+(i) the corporation has during the year become a bankrupt (within the meaning of subsection 128(3)),
+(ii) the corporation is a corporation referred to in section 6 of the Winding-up Act that is insolvent (within the meaning of that Act) and in respect of which a winding-up order under that Act has been made in the year, or
+(iii) at the end of the year,
+(A) the corporation is insolvent,
+(B) neither the corporation nor a corporation controlled by it carries on business,
+(C) the fair market value of the share is nil, and
+(D) it is reasonable to expect that the corporation will be dissolved or wound up and will not commence to carry on business
+and the taxpayer elects in the taxpayer’s return of income for the year to have this subsection apply in respect of the debt or the share, as the case may be, the taxpayer shall be deemed to have disposed of the debt or the share, as the case may be, at the end of the year for proceeds equal to nil and to have reacquired it immediately after the end of the year at a cost equal to nil.
+50. (1) Créances reconnues comme irrécouvrables et actions d’une société en faillite — Pour l’application de la présente sous-section, lorsque, selon le cas :
+a) un contribuable établit qu’une créance qui lui est due à la fin d’une année d’imposition (autre qu’une créance qui lui serait due du fait de la disposition d’un bien à usage personnel) s’est révélée être au cours de l’année une créance irrécouvrable;
+b) une action du capital-actions d’une société (autre qu’une action reçue par un contribuable en contrepartie de la disposition d’un bien à usage personnel) appartient au contribuable à la fin d’une année d’imposition et :
+(i) soit la société est devenue au cours de l’année un failli au sens du paragraphe 128(3),
+(ii) soit elle est une personne morale visée à l’article 6 de la Loi sur les liquidations, insolvable au sens de cette loi et au sujet de laquelle une ordonnance de mise en liquidation en vertu de cette loi a été rendue au cours de l’année,
+(iii) soit les conditions suivantes sont réunies à la fin de l’année :
+(A) la société est insolvable,
+(B) ni la société ni une société qu’elle contrôle n’exploite d’entreprise,
+(C) la juste valeur marchande de l’action est nulle,
+(D) il est raisonnable de s’attendre à ce que la société soit dissoute ou liquidée et ne commence pas à exploiter une entreprise,
+le contribuable est réputé avoir disposé de la créance ou de l’action à la fin de l’année pour un produit nul et l’avoir acquise de nouveau immédiatement après la fin de l’année à un coût nul, à condition qu’il fasse un choix, dans sa déclaration de revenu pour l’année, pour que le présent paragraphe s’applique à la créance ou à l’action.
+[19] A taxpayer’s ABIL is 50% of his or her business investment loss (“BIL”). BIL is defined in paragraph 39(1)(c) of the Act. In order for a taxpayer to have a BIL, subparagraphs 39(1)(c)(i) and (ii) require that the loss on the qualifying debt or shares be realized either from an actual disposition to an arm’s‑length person or from a deemed disposition to which subsection 50(1) applies.
+[20] Subsection 50(1) applies to deem a disposition of a debt where a debt is established to have become a bad debt in the year and the taxpayer elects in his or her return of income for that year to have the subsection apply. In the French version of the Act, the phrase “makes a choice” is used for the verb “elects”.
+[21] It is no longer disputed that the Mainland debt became bad in 2007. The only issue is whether Mr. Dhaliwal elected in his 2007 tax return to have the deemed disposition of that debt available to him under subsection 50(1) apply. There is no prescribed form under the Act for choosing this election. The CRA does not have a recommended form available for the election. Tax returns developed by the CRA do not have a space to expressly indicate an election to have subsection 50(1) apply, not even in the schedules for dispositions of capital property or for computation of ABILs. While a taxpayer can add pages to a paper tax return, electronic tax returns are set by the CRA and there is no chance for a taxpayer to add or append a new form, or letter or document to them.
+[22] The question thus becomes: Must a subsection 50(1) election be made with an express reference to electing to have subsection 50(1) apply, or is it sufficient that the taxpayer elects to report a loss in his or her tax return on a deemed disposition that results because he or she has chosen to avail himself or herself of subsection 50(1)? In an electronic‑filing age, this takes on considerable importance as, if an election making a specific reference to subsection 50(1) is required, but no such choice is available in the CRA’s electronic tax returns, this would mean that subsection 50(1) is only available to paper‑filers or that the CRA is derelict in its duties in administering the Income Tax Act.
+[23] The T1 Adjustment Request clearly does not satisfy the requirement that a taxpayer elect in his or her tax return. Similarly, an objection filed after the tax return is assessed cannot be considered to meet the requirement that the taxpayer choose in his or her tax return. If those were the only evidence of Mr. Dhaliwal choosing to have section 50 apply in 2007 to his Mainland debt, he could not succeed and a late‑filed election would indeed be required. See for example this Court’s decisions in Arnold v. The Queen, 2002 DTC 1395, at paragraph 18, and in Soja v. The Queen, 2007 TCC 61, 2007 DTC 584, at paragraph 15.
+[24] Originally a subsection 50(1) deemed disposition did not require a taxpayer to elect to realize his or her loss on a debt; it was automatic in the year in which it went bad. As a consequential amendment to a significant rewriting of the section 80 debt forgiveness rules in the 1990s, the section 50 deemed disposition was no longer automatic but applied only if the taxpayer elected to apply it. It is clear from the Department of Finance’s Technical Notes accompanying the amended legislation that the election was introduced to allow taxpayers to avoid adverse debt forgiveness results on inter‑corporate related party debt under the new rules that would be triggered upon a disposition. There is no suggestion that the election was added in order to give the CRA additional notice and details of the fact that the taxpayer has calculated his or her loss on the basis of the subsection 50(1) deemed disposition rule.
+[25] The first section 50 election requirement was added even earlier and applied only with respect to shares. The legislation with respect to shares was retroactive to 1985 and was therefore accompanied by a transitional rule which provided that, for years prior to the statutory amendment, the taxpayer could elect to have the amendment apply by notifying the Minister in writing. The election required under this transitional rule was considered in Anderson v. M.N.R., 92 DTC 2296. In that case, Justice Beaubier wrote:
+This letter does not indicate the specific subsection or amendment under which he claims the allowable business investment losses. But the letter indicates that the Appellant wants the Minister to recognize that allowable business investment losses were incurred and he wants these losses to be applied against his 1986 and 1987 income. The essence of the communication was that the Appellant wants to be allowed to claim allowable business investment losses in respect of his shares in B & D. That is sufficient to communicate the taxpayer’s election.
+[Emphasis added.]
+[26] In Roy v. R., [2004] 2 C.T.C. 2519, [2002] T.C.J. No. 134, Justice Tardif relied upon the above passage from Anderson to conclude that the Respondent’s argument that a subsection 50(1) election had to formally elect to expressly have subsection 50(1) apply was unlikely to succeed and was perhaps wisely abandoned in that case. In Roy, the taxpayer’s appeal was allowed. It was sufficient that the ABILs were claimed in the tax return for the year relying upon and computed on the basis of having elected or chosen to apply subsection 50(1).
+[27] The CRA’s Interpretation Bulletin IT159R3 “Capital Debts Established to be Bad Debts” discusses the requirements of subsection 50(1) in paragraph 1. It does not address the election. This is because the CRA has not revised this bulletin since 1985, prior to the amendment making the subsection elective for taxpayers.
+[28] In the CRA T4037 Capital Gains guide, it is written under the heading “What is a business investment loss?”: “To do this [elect a deemed disposition], you have to file an election with your income tax and benefit return. To make this election, attach to your return a letter signed by you. State that you want subsection 50(1) of the Income Tax Act to apply.”
+[29] The CRA has a publication on electronic filing called EFILE for Individuals. It says: “There are no paper returns to file and, unless we ask for receipts, none are needed.” It goes on to say later: “Neither you nor your EFILE service provider should send us a paper copy of your return or any documents, unless we ask you to do so.”
+[30] The Respondent asked that I find that, in order to elect to have subsection 50(1) apply, a taxpayer must file an election with his or her tax return in some form which expressly refers to subsection 50(1). I note that the section requires that the election be in the tax return, not with the tax return.
+[31] Given that an e‑filed tax return does not lend itself to adding an election form that is not in the CRA’s electronic package, the Respondent asks me to conclude that e‑filing taxpayers must be required to mail to the CRA a written election referring to subsection 50(1), separately from the electronic tax return filed, but somewhere near in time to it being filed. I note that this seems to be moving even further from the clear statutory requirement that, whatever the form of the election, it must be made in the tax return.
+[32] The Respondent asks me to conclude in the alternative that the Act as written simply does not permit an e‑filer to make a subsection 50(1) election. I would be loath to make such a backwards step unless the language of the Act compels me to. I am frankly surprised that the CRA would be asking for barriers to electronic filing.
+[33] Finally, the Respondent asks that I simply find that, on the facts of this case, Mr. Dhaliwal did not make an election in his 2007 tax return, without addressing how such an election could possibly have been made in an e‑filed tax return. I was asked to leave that as an unstated problem for the CRA and/or Parliament to resolve. I think many Canadians would think I was only half doing my job if I took such an approach.
+[34] I am not compelled by the language of subsection 50(1) to reach the conclusion advocated by the Respondent. The text of subsection 50(1) does not describe a form or otherwise dictate how the taxpayer makes his or her election and chooses in his or her tax return to have the subsection 50(1) apply. It is clear from the legislative history that the purpose of the election was to allow taxpayers choice in order to avoid the unintended application of the new debt forgiveness rules in certain circumstances, and not to ensure the Minister was given any needed additional information or paperwork. I agree with the sensible reasoning of Beaubier J. in Anderson and Tardif J. in Roy that, upon a proper interpretation of section 50, it is sufficient to communicate the taxpayer’s election by clearly communicating in his or her tax return that he or she wants to be allowed an ABIL in respect of particular debt or shares disposed of in that year. This same analysis applies equally to electronic and paper format tax return. In this case, Mr. Dhaliwal’s 2007 electronic tax return clearly claims an ABIL, using the CRA’s ABIL schedule, in respect of a $156,000 loan made in 2005 and disposed of in 2007. The matter could hardly be clearer.
+[35] It is frankly disappointing that the CRA needs the Court to resolve the issue of how elections should be made in e‑filed tax returns when there is no prescribed form required. The answer is surely only a matter of common sense and programming. The Court can only provide a lawful and common‑sense answer. If the CRA wants more, all it needs to do is program its electronic tax return differently. That this issue can have gone on for so long and this far appears to be a questionable use of public resources. It is 2012, four years later, and the CRA still appears not to have addressed how it would like to administer the Act in this regard.
+[36] The appeal is allowed with costs.
+Signed at Edmonton, Alberta, this 16th day of March 2012.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2012 TCC 84
+COURT FILE NO.: 2010-2091(IT)G
+STYLE OF CAUSE: SAMIPAL DHALIWAL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: February 14, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: March 16, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Matthew W. Turnell
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

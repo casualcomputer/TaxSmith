@@ -1,0 +1,174 @@
+Title: Estate Edward Reilly v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27790/index.do
+Corpus path: corpus/cases/tcc/2006/2007-tcc-404-27790-estate-edward-reilly-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-11-20
+
+# Estate Edward Reilly v. The Queen
+
+- Citation: 2007 TCC 404
+- Decision date: 2006-11-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 270, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Estate Edward Reilly v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-11-20
+Neutral citation
+2007 TCC 404
+File numbers
+2005-1756(IT)G
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1756(IT)G
+BETWEEN:
+ESTATE OF EDWARD REILLY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 20, 2006, at Winnipeg, Manitoba
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Agent for the Appellant:
+Carole Reilly
+Counsel for the Respondent:
+Penny L. Piper
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment of tax made under the Income Tax Act for the 2000 taxation year is dismissed, with costs.
+Signed at Ottawa, Canada, this 18th day of July, 2007.
+“M.A. Mogan”
+Mogan D.J.
+Citation: 2007TCC404
+Date: 20070718
+Docket: 2005-1756(IT)G
+BETWEEN:
+ESTATE OF EDWARD REILLY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan D.J.
+[1] Since 1972, the federal Income Tax Act (the “Act”) has imposed a tax on capital gains. The scheme in the Act for taxing capital gains is found in “subdivision c” (sections 38 to 55). Elsewhere in the Act, there are exemptions for all or part of the gain realized on the disposition of certain capital properties. In particular, there is an exemption for a “qualified small business corporation share” which, in general terms, is a share in a Canadian-controlled private corporation that uses all or substantially all of its assets to carry on an active business in Canada.
+[2] The provisions of the Act permitting the above exemption are complex. In the interests of brevity and simplicity, I will reproduce the three most relevant provisions retaining only those words which I regard as relevant to the issue in this appeal.
+110.6(1) For the purposes of this section,
+“qualified small business corporation share” of an individual … at any time (in this definition referred to as the "determination time") means a share of the capital stock of a corporation that,
+(a) at the determination time, is a share of the capital stock of a small business corporation …
+248(1) "small business corporation", at any particular time, means, subject to subsection 110.6(15), a particular corporation that is a Canadian-controlled private corporation all or substantially all of the fair market value of the assets of which at that time is attributable to assets that are
+(a) used principally in an active business carried on primarily in Canada by the particular corporation or by a corporation related to it,
+(b) …
+110.6(2.1) In computing the taxable income for a taxation years of an individual … who disposed of a share of a corporation in the year … that, at the time of disposition, was a qualified small business corporation share ... there may be deducted such amount as the individual may claim not exceeding the least of
+(a) the amount determined by the formula in paragraph 2(a) in respect of the individual for the year,
+(b) …
+(c) … and
+(d) the amount that would be determined in respect of the individual for the year under paragraph 3(b) … in respect of capital gains and capital losses if the only properties referred to in paragraph 3(b) were qualified small business corporation shares …
+[3] The late Edward Reilly (“Mr. Reilly”) died on March 13, 2000. At the time of his death, he controlled a corporation which operated four different businesses, all in Carberry, Manitoba: a Home Hardware Store, a plumbing business, a carwash and a laundromat. At the time of death, the businesses were owned as follows:
+(i) Mr. Reilly owned all of the issued shares of 62490 Manitoba Ltd. (“Holdco”).
+(ii) Holdco owned all of the issued shares of Reilly Ventures Limited (“Ventures”).
+(iii) Ventures owned and operated the four family businesses: hardware store, plumbing, carwash and, laundromat.
+[4] When filing Mr. Reilly’s terminal income tax return for the year of death (2000), the executrix of his estate claimed a capital gains exemption in the amount of $273,200 with respect to the value of his shares in Holdco and/or Ventures. When assessing tax on the terminal income tax return, the Minister of National Revenue disallowed the capital gains exemption on the assumption that neither the shares of Holdco nor Ventures were “qualified small business corporation shares”. The executrix of the estate has appealed from that assessment.
+[5] The broad issue before the Court is whether the shares in question satisfy the above provisions of the Act to be regarded as qualified small business corporation shares. The narrow issue is whether all or substantially all of the fair market value of the assets of Ventures (in the 24 months preceding death) can be attributed to assets used principally in an active business carried on primarily in Canada.
+[6] The focus of the narrow issue is the balance sheet of Ventures as at May 31, 2000, within 90 days after the death of Mr. Reilly. Exhibits A-1 (Reference 7) and R-1 (Tab 4B) contain the unaudited financial statements of Ventures as at May 31, 2000 (plus comparable amounts for the four preceding fiscal periods). The assets on the balance sheet of Ventures as at May 31, 2000 may be allocated among the following four categories:
+Assets per Balance Sheet
+Balance Sheet Value
+%
+1. Cash and Marketable Securities
+$272,821
+38.0
+2. Accounts receivable, inventory, taxes recoverable, prepaid expenses, and goodwill
+256,240
+35.5
+3. Capital properties (land, bldg. equipment, etc.)
+90,022
+12.5
+4. Investment in Home Hardware Franchise
+95,509
+14.0
+Total Assets
+$718,592
+100%
+[7] The Respondent rests its case on the proposition that, according to the balance sheet of Ventures as at May 31, 2000, only 62% of the book value of Ventures’ assets at the time of Mr. Reilly’s death could be regarded as used principally in one or more active businesses carried on in Canada. The Respondent regards the cash and marketable securities as assets redundant to the active businesses carried on by Ventures.
+[8] The Appellant claims that the cash and marketable securities were necessary to permit a smooth transfer of the operating businesses from Mr. Reilly to the next generation. Mr. Reilly and his wife, Carole, had three children: Christina (daughter) born in 1964, Sandy (daughter) born in 1967, and Richard Jay (son) born in 1972. Mr. Reilly and Carole separated in 1985 and divorced in 1992 but remained on good terms throughout the years. The last Will and Testament of Mr. Reilly dated November 5, 1980 (Exhibits A-1, Reference 11 and R-1, Tab 1) appointed his wife Carole as the sole executrix of his estate and named her as the sole beneficiary if she survived him. There was no subsequent Will after the separation and divorce.
+[9] Carole did survive Mr. Reilly and became the sole executrix of his estate. She testified at the hearing of this appeal and stated that, just before he died in March 2000, he told her that he knew she would do what was right. Carole knew that Mr. Reilly wanted their children to continue to operate the businesses which he had started in his lifetime. In January 1995, five years before his death, Mr. Reilly became seriously ill and had one leg amputated. He thereafter qualified for a disability tax credit. His disabling illness forced him to make other arrangements for parts of his business like plumbing which he could no longer carry on himself.
+[10] In the years preceding Mr. Reilly’s death, and in particular after 1995 when he became disabled, his son Richard Jay took over the management of the plumbing, carwash and laundromat portions of the business; and his elder daughter Christina worked part-time in the Home Hardware business. After Mr. Reilly’s death, Carole left these businesses under the management of Richard Jay and Christina, respectively. By 2005, the plumbing, carwash and laundromat had become Richard’s current livelihood. Christina testified at the hearing and described herself as the owner/manager of the Home Hardware store in Carberry, with four fulltime employees.
+[11] The balance sheet of Ventures as at May 31, 2000 (Exhibits A-1, Reference 7 and R-1, Tab 4B) showed comparable amounts for the four preceding fiscal periods. I will summarize in the table below those comparable amounts showing in the last line of the table the respective percentage of the value of the cash and marketable securities to the value of all assets on the balance sheet.
+1996
+1997
+1998
+1999
+Cash and Marketable Securities
+$162,484
+$211,070
+$247,405
+$246,664
+Accounts receivable, inventory, etc.
+275,510
+247,230
+239,703
+247,496
+Capital Properties
+102,562
+101,871
+97,719
+92,753
+Home Hardware Franchise Deposit
+59,276
+67,921
+77,768
+88,285
+Total Assets
+$599,832
+$628,092
+$662,592
+$675,198
+Cash and Marketable Securities
+as percent of total assets
+27%
+33%
+37%
+36%
+[12] The tables in paragraphs 6 and 11 above show that, in each fiscal period from 1996 to 2000 inclusive, the value of Ventures' cash and marketable securities as a percent of the book value of all Ventures’ assets was never less than 27% and, in the year of death, was 38%. In these circumstances, can it be said that all or substantially all of the fair market value of Ventures’ assets were used principally in active businesses? Were the cash and marketable securities essential to or redundant to Ventures’ businesses?
+[13] In Ensite Limited v. The Queen, [1986] 2 S.C.R. 509, the issue was whether interest received from certain U.S. dollar deposits in the Philippines was income from property or from property used in the course of carrying on a business. The corporate taxpayer argued that the interest in question was only income from property. When deciding against the corporate taxpayer, the Supreme Court of Canada stated at paragraphs 14 and 15:
+14 … A business purpose for the use of the property is not enough. The threshold of the test is met when the withdrawal of the property would "have a decidedly destabilizing effect on the corporate operations themselves": March Shipping Ltd. v. Minister of National Revenue, supra, at p. 374. This would distinguish the investment of profits from trade in order to achieve some collateral purpose such as the replacement of a capital asset in the long term (see, for example, Bank Line Ltd. v. Commissioner of Inland Revenue (1974), 49 T.C. 307 (Scot. Ct. of Session)) from an investment made in order to fulfill a mandatory condition precedent to trade (see, for example, Liverpool and London and Globe Insurance Co. v. Bennett, [1913] A.C. 610 (H.L.), and Owen v. Sassoon (1951), 32 T.C. 101 (Eng. H.C.J.) Only in the latter case would the withdrawal of the property from that use significantly affect the operation of the business. The same can be said for a condition that is not mandatory but is nevertheless vitally associated with that trade such as the need to meet certain recurring claims from that trade: see, for example, The Queen v. Marsh & McLennan, Ltd., supra, and The Queen v. Brown Boveri Howden Inc., 83 D.T.C. 5319 (F.C.A.)
+15. It is true that in this case the taxpayer could have done business and fulfilled the Philippine requirement that foreign currency be brought into the country by a means not involving the use of property. It could have borrowed the U.S. currency abroad and brought it into the Philippines. But this consideration is irrelevant to our inquiry. The test is not whether the taxpayer was forced to use a particular property to do business; the test is whether the property was used to fulfill a requirement which had to be met in order to do business. Such property is then truly employed and risked in the business. Here the property was used to fulfill a mandatory condition precedent to trade; it is not collateral, but is employed and risked in the business of the taxpayer in the most intimate way. It is property used or held in the business.
+[14] Skidmore v. The Queen, [2000] F.C.J. No. 276 is a decision of the Federal Court of Appeal on facts much closer to this current appeal. Mr. and Mrs. Skidmore owned the shares of a family corporation carrying on an active business but with substantial cash reserves. When Mr. and Mrs. Skidmore sold their shares in the family corporation to a company owned by their children, they claimed a capital gains exemption under subsection 110.6(2.1) of the Act. In this Court, Sarchuk J. decided against the individual taxpayers citing the decision in Ensite. The Federal Court of Appeal affirmed the decision of Judge Sarchuk. Sexton J.A., writing for the Court stated at paragraphs 9 and 10:
+9 The Tax Court Judge held that the Appellants had failed to demonstrate that "all or substantially all of Birchill" assets were used in an active business within the meaning of Section 248(1) of the Act.
+10 He found that the Appellants had failed to prove that the cash reserves which Birchill kept were reasonably required as backup assets or that Birchill relied on the term deposits as an integral aspect of its business operation. He heard the evidence of the Appellants and was unable to conclude that there existed a relationship of financial dependence of some substance between the amounts in issue and the seedling nursing business. He found that Birchill had never had to draw upon the reserves and that the possibility of the reserves being drawn upon to sustain Birchill's business was remote.
+[15] I conclude that the appeal by the Reilly Estate is on all fours with the decision in Skidmore. There is no evidence that the cash and marketable securities held by Ventures were necessary or even important for the carrying on of its small active businesses. Or in the words of Ensite, there is no evidence that the cash and marketable securities were held “to fulfill a mandatory condition precedent to trade”.
+[16] In the five years from 1996 to 2000, the fair market value of the cash and marketable securities as a percentage of the total book value of all Ventures’ assets was never less than 27% and, in the year of Mr. Reilly’s death (2000), was 38%. On these facts, I cannot find that all or substantially all of the fair market value of the assets of Ventures was attributable to assets used principally in an active business. I find that Ventures was not a “small business corporation” within the meaning of subsection 248(1) of the Act. And, if Ventures was not a “small business corporation”, then the shares of Ventures or Holdco could not be “qualified small business corporation shares” within the meaning of subsection 110.6(1). The appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 18th day of July, 2007.
+“M.A. Mogan”
+Mogan D.J.
+CITATION: 2007TCC404
+COURT FILE NO.: 2005-1756(IT)G
+STYLE OF CAUSE: ESTATE OF EDWARD REILLY and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: November 20, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT: July 18, 2007
+APPEARANCES:
+Agent for the Appellant:
+Carole Reilly
+Counsel for the Respondent:
+Penny L. Piper
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

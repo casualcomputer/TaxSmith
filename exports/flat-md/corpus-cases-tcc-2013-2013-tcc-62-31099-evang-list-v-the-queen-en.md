@@ -1,0 +1,153 @@
+---
+title: "Evangélist v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31099/index.do"
+last_modified: "2013-02-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 62"
+citation2: ""
+neutral_citation: "2013 TCC 62"
+decision_date: "2013-02-12"
+language: "en"
+item_id: "31099"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4685
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:17:39.805000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f9e3a450378c1bb7f9cbc958c6169e8c9de66c144078f41878f9dcea91a8c94a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Evangélist v. The Queen
+
+- Citation: 2013 TCC 62
+- Decision date: 2013-02-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4685, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Evangélist v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-02-12
+Neutral citation
+2013 TCC 62
+File numbers
+2012-3135(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-3135(IT)I
+BETWEEN:
+JEAN-PIERRE EVANGÉLIST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 12, 2013, at Sherbrooke, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Emmanuel Jilwan
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made pursuant to the Income Tax Act for the 2010 taxation year is dismissed, but the appellant may claim his moving expenses, as amended, as of the 2012 taxation year.
+Signed at Ottawa, Canada, this 20th day of February 2013.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 28th day of March 2013.
+Elizabeth Tan, Translator
+Citation: 2013 TCC 62
+Date: 20130220
+Docket: 2012-3135(IT)I
+BETWEEN:
+JEAN-PIERRE EVANGÉLIST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The appellant is appealing from a reassessment made pursuant to the Income Tax Act (ITA) for the 2010 taxation year in which the Minister of National Revenue (Minister) disallowed the $8,695.43 deduction claimed for moving expenses.
+[2] The appellant moved from Montréal to Rivière-du-Loup in early January 2009 for a new job with Premier Tech, as senior director of administrative services. The company advised the appellant at the end of April 2010 that it had to terminate his employment.
+[3] While he immediately began looking for a new job, the appellant kept working for Premier Tech for a few months. An agreement was signed on May 26, 2010, under which Premier Tech agreed to pay all relocation and transportation expenses to his point of origin, if necessary.
+[4] The May 26, 2010, agreement was amended with a new agreement signed on August 20, 2010, such that instead of paying moving expenses, Premier Tech agreed to pay an additional salary of $5,000 over five weeks.
+[5] The appellant made several attempts to find work and resorted to moving his property at the end of 2010, storing it at a friend's place in Sherbrooke. This was when he incurred the moving expenses he claimed. He admits that the claim represents two $650 expenses and conceded that part of the mileage claimed was to find work in Montreal. He is therefore willing to reduce the claim by half the kilometres (he was claiming 1,000 kilometres and is now asking 500 kilometres for the move) and deduct the $650 claimed twice by mistake.
+[6] Despite all his efforts, he only found permanent work in October 2012. He was hired by the City of Sherbrooke as assistant auditor general.
+[7] The respondent disallowed the moving expenses claimed based on section 62 and the definition of "eligible relocation" at subsection 248(1) if the ITA.
+[8] Subsection 62(1) and the definition of "eligible relocation" at subsection 248(1) of the ITA state:
+Income Tax Act
+62. (1) Moving expenses — There may be deducted in computing a taxpayer’s income for a taxation year amounts paid by the taxpayer as or on account of moving expenses incurred in respect of an eligible relocation, to the extent that
+(a) they were not paid on the taxpayer’s behalf in respect of, in the course of or because of, the taxpayer’s office or employment;
+(b) they were not deductible because of this section in computing the taxpayer’s income for the preceding taxation year;
+(c) the total of those amounts does not exceed
+(i) in any case described in subparagraph (a)(i) of the definition “eligible relocation” in subsection 248(1), the total of all amounts, each of which is an amount included in computing the taxpayer’s income for the taxation year from the taxpayer’s employment at a new work location or from carrying on the business at the new work location, or because of subparagraph 56(1)(r)(v) in respect of the taxpayer’s employment at the new work location, and
+...
+Part xvii—Interpretation
+248(1) Definitions — In this Act,
+"eligible relocation" means a relocation of a taxpayer where
+(a) the relocation occurs to enable the taxpayer
+(i) to carry on a business or to be employed at a location in Canada (in section 62 and this subsection referred to as “the new work location”), or
+...
+[9] It is clear upon reading subparagraph 62(1)(c)(i) that the appellant cannot claim his moving expenses for the 2010 taxation year, since he cannot deduct an amount greater than the amount of the income he earned from his job at the new work location.
+[10] In 2010, the appellant had no income from a new job. However, in 2012, after much effort, he managed to find a job from which he earned income. In 2013, he was still at this job.
+[11] In my opinion, and as suggested by counsel for the respondent, the definition of "eligible relocation" is sufficiently broad to allow the appellant to consider that the moving expenses incurred in 2010 constituted expenses incurred for an eligible relocation.
+[12] There is no indication that the new job must be held in the year the expenses are incurred. The relocation must be done in order to allow the taxpayer to operate a business or hold a job in a location in Canada called the new work location.
+[13] Moreover, section 62 does not require the moving expenses to be incurred during the year in which the taxpayer wishes to deduct them. If the new job is found within a reasonable time after the move, the taxpayer may deduct the moving expenses as of the year he begins earning income from the new job (see Roald K. Abrahamsen v. The Queen, 2007 TCC 95).
+[14] In this case, the appellant began receiving income from his new job in 2012 and it was in 2012 that he could begin to deduct his moving expenses.
+[15] The amount the appellant submitted in his 2010 tax return was $8,695.43. This amount must be reduced by $650, which was claimed twice.
+[16] These expenses also included an amount for mileage driven. The appellant attributed $0.565 per kilometre for 1,000 kilometres. The parties agree that only 500 kilometres will be attributed to the eligible relocation.
+[17] For these reasons, the appeal from the reassessment made for the 2010 taxation year is dismissed, but the appellant may claim moving expenses, as amended, as of the 2012 taxation year.
+Signed at Ottawa, Canada, this 20th day of February 2013.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 28th day of March 2013.
+Elizabeth Tan, Translator
+CITATION: 2013 TCC 62
+COURT FILE NO.: 2012-3135(IT)I
+STYLE OF CAUSE: JEAN-PIERRE EVANGÉLIST v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: February 12, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: February 20, 2013
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Emmanuel Jilwan
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

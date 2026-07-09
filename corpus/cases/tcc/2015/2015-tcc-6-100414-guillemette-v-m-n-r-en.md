@@ -1,0 +1,313 @@
+---
+title: "Guillemette v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/100414/index.do"
+last_modified: "2015-01-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 6"
+citation2: ""
+neutral_citation: "2015 TCC 6"
+decision_date: "2015-01-12"
+language: "en"
+item_id: "100414"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2789
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:33:27.685000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3733fea2fc0d255304a1750f6105e2921c0b2dc3e0c07ea47a6ce60bac4b1659"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Guillemette v. M.N.R.
+
+- Citation: 2015 TCC 6
+- Decision date: 2015-01-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2789, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guillemette v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-01-12
+Neutral citation
+2015 TCC 6
+File numbers
+2013-1396(EI), 2013-1412(EI), 2013-1413(EI), 2013-1414(EI)
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2013-1396(EI)
+BETWEEN:
+Normand Guillemette,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+Plomberie Yves Guillemette Inc.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeals of Sébastien Guillemette (2013-1412(EI)), Jonathan Gélinas (2013‑1413(EI)) and Jennifer Chabot (2013-1414(EI)) on November 19, 2014, at Shawinigan, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Gilbert Nadon
+Counsel for the respondent:
+Emmanuel Jilwan
+Counsel for the intervener:
+Gilbert Nadon
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act (EIA) is allowed and the decision of the Minister of National Revenue dated February 21, 2013, for the periods from April 7, 2008, to March 20, 2009, from April 13, 2009, to February 12, 2010, from March 1, 2010, to March 4, 2011, and from March 5, 2011, to March 30, 2012, is varied on the basis that the appellant did not hold employment excluded from insurable employment under paragraphs 5(2)(i) and 5(3)(b) of the EIA.
+Signed at Ottawa, Canada, this 12th day of January 2015.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+On this 14th day of May 2015
+Margarita Gorbounova, Translator
+Docket: 2013-1412(EI)
+BETWEEN:
+sébastien Guillemette,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+Plomberie Yves Guillemette Inc.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeals of Normand Guillemette (2013-1396(EI)), Jonathan Gélinas (2013‑1413(EI)) and Jennifer Chabot (2013-1414(EI)) on November 19, 2014, at Shawinigan, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Gilbert Nadon
+Counsel for the respondent:
+Emmanuel Jilwan
+Counsel for the intervener:
+Gilbert Nadon
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act (EIA) is allowed and the decision of the Minister of National Revenue dated February 21, 2013, for the periods from February 1, 2010, to December 17, 2010, and from January 24, 2011, to December 23, 2011, is varied on the basis that the appellant did not hold employment excluded under paragraphs 5(2)(i) and 5(3)(b) of the EIA.
+Signed at Ottawa, Canada, this 12th day of January 2015.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+On this 14th day of May 2015
+Margarita Gorbounova, Translator
+Docket: 2013-1413(EI)
+BETWEEN:
+Jonathan gélinas,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+Plomberie Yves Guillemette Inc.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeals of Normand Guillemette (2013-1396(EI)), Sébastien Guillemette (2013‑1412(EI)) and Jennifer Chabot (2013-1414(EI)) on November 19, 2014, at Shawinigan, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Gilbert Nadon
+Counsel for the respondent:
+Emmanuel Jilwan
+Counsel for the intervener:
+Gilbert Nadon
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act (EIA) is allowed and the decision of the Minister of National Revenue dated February 21, 2013, for the period from November 29, 2010, to July 22, 2011, is varied on the basis that the appellant did not hold employment excluded under paragraphs 5(2)(i) and 5(3)(b) of the EIA.
+Signed at Ottawa, Canada, this 12th day of January 2015.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+On this 14th day of May 2015
+Margarita Gorbounova, Translator
+Docket: 2013-1414(EI)
+BETWEEN:
+Jennifer chabot,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+Plomberie Yves Guillemette Inc.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeals of Normand Guillemette (2013-1396(EI)), Sébastien Guillemette (2013‑1412(EI)) and Jonathan Gélinas (2013-1413(EI)) on November 19, 2014, at Shawinigan, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Gilbert Nadon
+Counsel for the respondent:
+Emmanuel Jilwan
+Counsel for the intervener:
+Gilbert Nadon
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act (EIA) is allowed and the decision of the Minister of National Revenue dated February 21, 2013, for the period from December 27, 2010, to July 22, 2011, is varied on the basis that the appellant did not hold employment excluded under paragraphs 5(2)(i) and 5(3)(b) of the EIA.
+Signed at Ottawa, Canada, this 12th day of January 2015.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+On this 14th day of May 2015
+Margarita Gorbounova, Translator
+Citation: 2015 TCC 6
+Date: 20150112
+Docket: 2013-1396(EI)
+BETWEEN:
+Normand Guillemette,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+Plomberie Yves Guillemette Inc.,
+Intervener.
+and
+Docket: 2013-1412(EI)
+BETWEEN:
+Sébastien Guillemette,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+Plomberie Yves Guillemette Inc.,
+Intervener.
+and
+Docket: 2013-1413(EI)
+BETWEEN:
+Jonathan gélinas,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+Plomberie Yves Guillemette Inc.,
+Intervener.
+and
+Docket: 2013-1414(EI)
+BETWEEN:
+Jennifer Chabot,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+Plomberie Yves Guillemette Inc.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] These appeals were all heard on common evidence. These are appeals from decisions of the Minister of National Revenue (Minister) in which it was decided that the four appellants did not hold insurable employment when they worked for Plomberie Guillemette inc. (the payer) between 2008 and 2012 (the precise periods at issue are different for each appellant during these years). The only ground relied on by the Minister is that their employment was excluded from insurable employment under paragraphs 5(2)(i) and 5(3)(b) of the Employment Insurance Act. Indeed, the Minister determined that the four appellants were related to the payer under section 251 of the Income Tax Act (ITA), and that it was reasonable to conclude that the appellants and the payer would not have entered into a substantially similar agreement during the periods at issue if they had been dealing with each other at arm’s length (based, among other things, on the fact that they provided services to the payer while they were laid off and that they were available [Translation] “on call” at any time on cell phones provided by the payer). Other than the issue of arm’s length dealing, the Minister did not question the existence of a true contract of employment between the appellants and the payer.
+[2] The payer was incorporated in 1982. Until October 9, 2009, there were only two shareholders, namely, Yves Guillemette (74%) and his brother Normand Guillemette (26%).
+[3] On October 9, 2009, Normand Guillemette transferred his shares to Sébastien Guillemette, Yves’ son and to Sébastien’s friend, Jonathan Gélinas. Starting on that date, the shares were therefore divided as follows: Yves Guillemette (74%), Sébastien Guillemette (14%), and Jonathan Gélinas (12%).
+[4] The payer’s main business activities are the installation and maintenance of heating systems. The payer also sometimes provides some “on call” services and services related to air conditioning systems.
+[5] Yves Guillemette, the majority shareholder is a journeyman plumber and holds a contractor’s licence. He employs between five and ten employees per year, based on the amount of work. He explained that the business is cyclical, depending on contracts and calls. The installation of heating systems is mostly done in the fall and service mainly in the winter. The sales figures indicate that busy periods are not always the same. In 2008, the least busy period was during the summer (July, August and September); in 2009, it was winter (January, February and March); in 2010, summer (July, August and September); and in 2011, spring (April, May, June) (Exhibit I-1).
+[6] Yves Guillemette explained that his business mainly provides services that are not governed by the Commission de la construction du Québec (CCQ). From what I understand from his testimony, services governed by the CCQ deal with new constructions and big construction sites, which the payer does not do. For the type of contracts that the payer accepted, it could hire workers at a lower cost (since an employee governed by the CCQ could cost up to $30 per hour), even though they had a certificate of qualifications entitling them to the CCQ rate.
+[7] During quiet periods, Yves Guillemette explained that he laid people off without necessarily keeping the most senior workers. He said that he wanted to share the work time available with the highest number of employees in order to keep them in case he obtained work on big construction sites.
+[8] In addition, even during layoff periods, his workers regularly dropped by the business; they could provide some services (like going to pick up parts or signing for receiving parts) and they kept the cell phones provided by the payer. For example, he mentioned the name of a worker at arm’s length with the payer, Dave Buisson, a journeyman plumber who worked for the payer for several years. Dave Buisson was not present at court, however. Only his paystub for what seems to be 2006 was filed in evidence, and it can be seen from it that he did not systematically work all of the weeks from January to August (Exhibit A-1).
+[9] Another worker, Simon Julien, testified, however. He was apparently hired as an apprentice plumber or as a warehouse clerk. He said that he had, first, worked for six weeks in February and March 2008 for the payer and that he had not kept his cell phone after he had left. He was rehired at the end of August 2010 and worked until February 2011, then started again in mid-July 2011 and stayed until the end of December 2011 (based on the information collected by a Canada Revenue Agency (CRA) officer, Exhibits I-1, I-10 and I-11). Mr. Julien said that, starting in 2010, he always kept his cell phone even during the period when he did not work and he could sometimes provide some services without being paid.
+[10] Yves Guillemette filled out time sheets for employees who worked at the office. They were used to prepare pay and then destroyed. Workers “on call” filled out work orders, which were destroyed as soon as clients were invoiced.
+[11] I will now discuss each appellant’s case.
+Normand Guillemette [12] He was allegedly paid as an employee governed by the CCQ to enable him to obtain a sufficient number of hours (35,000) to be entitled to his pension. He has worked in plumbing since 1973, but has only been a journeyman plumber for three years. In 2010 and 2011, his salary was governed by the CCQ (payroll journal, Exhibits I-10 and I-11). He generally did not agree to work less than 40 hours per week. We can also see that he received employment insurance during weeks when he did not work (Exhibit I-4). However, he had a cell phone provided by the payer every year and provided some services during his periods of unemployment.
+[13] During the CRA’s investigation, he had told the investigator, Danielle Bellefeuille, that he was semi-retired. Through the payroll journal, she noted that he worked either 40-hour weeks or not at all.
+[14] She also said that she noticed in doing her investigation that, during his periods without work, he signed many invoices for the payer and made and received many calls. However, if we examine the compilation of details in Exhibit I‑1, we can see that he signed very few invoices and that the number of calls varied from week to week. According to Ms. Bellefeuille, it was excessive for a worker receiving employment insurance benefits.
+[15] Ms. Bellefeuille also mentioned that he regularly received Records of Employment. When his benefits ended, he re-filed the employment insurance claim.
+Sébastien Guillemette [16] He took a course to become a plumber in 1997 and obtained all his hours to become a journeyman plumber. He worked as such until 2009, when he left on parental leave. During that time, he did not keep the payer’s cell phone. He came back in February 2010, but no longer worked as a plumber and did an apprenticeship in business administration to eventually take over his father’s business. His salary decreased.
+[17] Ms. Bellefeuille noted that he alternated with Jonathan Gélinas and that, during his layoff periods, Sébastien made or received many calls on the payer’s cell phone. Note that Sébastien’s employment was considered insurable in 2009 (Exhibit A-5).
+Jonathan Gélinas [18] Jonathan took his training as a refrigeration apprentice and met Sébastien in 1997. He is not related to the Guillemettes.
+[19] He began working for the payer in 2008 under the supervision of Yves Guillemette. He went with him to the construction sites and learned to make bids and do invoicing.
+[20] He said that he also did a little research and development. He worked part time during long periods following a depressive episode in 2007, and he has been on medication since then. When he started with the payer, he earned a low wage, namely, $8.50 per hour. His salary increased significantly up to $18 per hour in 2011. He also occasionally provided services to the payer during layoff periods because, he said, he lives very close. He always kept the cell phone.
+[21] He was a co-shareholder of another company with Sébastien Guillemette and his spouse at the time, Jennifer Chabot. He apparently lent the payer $55,000 without any repayment conditions or interest. This loan is reportedly still not repaid. A cheque for $20,000 dated July 13, 2010 (Exhibit I-13), was, however, given to Ms. Bellefeuille and filed in evidence.
+[22] According to her, when Jonathan received employment insurance, he reported a few hours of work for the payer, but in reality he worked the entire day. This was not corroborated by Jonathan. His employment was considered insurable in 2009 (Exhibit A-6).
+Jennifer Chabot [23] She was Sébastien’s spouse until July 2011, her last layoff date. She was a secretary and performed simple office tasks.
+[24] According to Ms. Bellefeuille, she worked for the payer as well as for the city of Trois-Rivières. She normally accumulated more hours than the number required for employment insurance. However, when she received benefits, she used them up before going back to work.
+[25] Ms. Bellefeuille still asked that Ms. Chabot’s file be sent to the insurability division because she believed that her periods of work did not correspond to the business’s activity cycles. The only period at issue is from December 27, 2010, to July 22, 2011. Before that, her employment was always considered insurable.
+Minister’s decision [26] Nicole Guy, appeals officer, explained the reasons that prompted her to consider the four appellants’ employment to not be insurable.
+[27] After reading Exhibit I-1, she noticed that one of the employees, Vincent Chabot, had practically never been laid off. She noted that shareholders laid themselves off before laying off other employees, which she did not find to be normal for a business owner. She noted that they provided services while they were laid off.
+[28] Normand Guillemette received a salary governed by the CCQ, which was therefore much higher, in order to make him eligible for pension benefits related to the CCQ. According to Ms. Guy, it was his non-arm’s length relationship that made this possible.
+[29] According to her, the length of employment was not in line with the payer’s economic cycle. According to her, Normand decided when he worked. Jonathan and Sébastien alternated their work periods.
+[30] She concluded that Yves Guillemette managed the layoffs using a method that did not necessarily correspond to the business’s economic needs.
+Analysis [31] In the case of Normand Guillemette, the Minister considered that he was remunerated differently from the arm’s length employees of the payer. The Minister maintains, among other things, that, when Normand worked, he was paid for 40‑hour weeks, while the others could receive remuneration for a lower number of hours. I note to that end that other employees could work some weeks of 8 hours, but also worked several weeks of 40 hours, and in total, worked a higher number of hours than Normand Guillemette in a year.
+[32] In addition, the Minister considered that only Normand Guillemette was paid at the hourly rate set by the CCQ. I have gone through the pay stubs, filed in evidence as Exhibits I-10 and I-11, for 2010 and 2011. From reading these documents (which indicate an acronym in the box entitled [Translation] “Union” or the word [Translation] “Construction” beside the hourly wage or the expression [Translation] “outside construction” to explain a lower rate in some weeks), I conclude that other arm’s length employees were paid based on the CCQ rate (based on their level of experience).
+[33] Another argument raised by the respondent is that Normand Guillemette sometimes worked for the payer without receiving remuneration. Based on the testimony of Yves Guillemette and Simon Julien, other employees also had cell phones and could provide small services outside of their work periods.
+[34] The Minister also argued that Normand did not fill out time sheets. This was denied in evidence. Yves Guillemette testified that he himself filled out time sheets for all office employees and those who worked outside of the office filled out work orders, which were used to invoice clients for services. This was not contradicted in cross-examination.
+[35] These documents were destroyed after the hours were compiled to complete employee pays and invoices for clients.
+[36] Nothing in the evidence shows that only the arm’s length employees filled out time sheets or work orders.
+[37] The Minister also considered that Normand Guillemette was laid off more frequently and for longer periods of time than other employees. I noted from reading Exhibit I‑9 (which is a table of employment and unemployment periods for each employee) that in 2008, there were only two employees who worked more weeks than Normand Guillemette. In 2009, he worked 27 weeks in total and the six arm’s length employees from 2 to 31 weeks. In 2010, Normand Guillemette worked 26 weeks, while Louis Labbé worked 22 weeks and three other arm’s length employees worked between 38 and 41 weeks. In 2011, Normand Guillemette worked 25 weeks and seven other arm’s length employees, worked between 5 and 35 weeks.
+[38] For Sébastien Guillemette, the Minister concluded that he sometimes worked for the payer without being paid and that he was paid for 80% to 90% of hours worked. In addition, the Minister stated that he did not fill out time sheets and that he worked alternately with other non-arm’s length workers. Ms. Guy mentioned that he alternated with Jonathan Gélinas.
+[39] In his testimony, Sébastien stated that he may have provided a few services to the business outside of his employment periods. This situation does not seem to be exclusive to Sébastien.
+[40] Ms. Bellefeuille documented a significant number of calls on the payer’s cell phone made by Sébastien when he was unemployed in 2010 and 2011 (Exhibit I‑12). However, I note that the same exercise was not done for the other arm’s length workers, who were also given cell phones by the payer. This makes it difficult to compare.
+[41] In addition, we do not know if all of these calls were made for the payer, since each worker could use the cell phone for personal purposes also.
+[42] With regard to alternating work with other workers, particularly with Jonathan Gélinas, it is shown in the table filed as Exhibit I-9, on Sébastien’s pay stub (Exhibit I-11) and by Sébastien’s and Jonathan’s testimony that Sébastien came back to work after his parental leave in February 2010. Jonathan was on work stoppage in January 2010, worked two weeks full time in February and started working part time again in March 2010. Jonathan explained that he suffered from burnout and depression at that time, which made him unable to work full time. This seems to be corroborated by his medical file, according to the information obtained by a doctor from the MRC de Maskinongé health centre (Exhibit A‑9).
+[43] In 2011, Sébastien began again to work full time in July and worked the equivalent of 3½ weeks from January to July. Jonathan worked 4 weeks in January (including one at the same time as Sébastien), 3 weeks in February, 2 weeks in March, 4 weeks in April (including one at the same time as Sébastien), full time in May, June and July (while Sébastien worked 64 hours in June and full time in July). Jonathan worked part time in August and September (a total of 44 hours), while Sébastien worked a total of 120 hours and of 80 hours in August and September respectively. In October, November and December, both worked full time. In the circumstances, it seems difficult to conclude, as the Minister claims, that the two workers necessarily alternated.
+[44] With regard to Jonathan Gélinas, the Minister also stressed the fact that his pay had gone from $12 to $18 per hour in 2010. I note that the pay of Colette Guillemette, office clerk, increased from $12 to $17 per hour in 2010, and that of Simon Julien, warehouse clerk, from $9.50 to $12 per hour.
+[45] In 2011, Jonathan’s hourly rate remained at $18, while that of Colette Guillemette increased to $20. However, the pay of Jennifer Chabot, office clerk, increased from $11 per hour in 2010 to $12 per hour in 2011. The pay of executive assistant, Jennifer Gélinas Beaulieu, employed full time for the last four months of 2011, increased from $10 per hour to $12 per hour; that of Dany Ross increased from $12 per hour to $13 per hour during 2011; and Simon Julien, warehouse clerk, was paid $12 per hour in 2011.
+[46] With regard to Jennifer Chabot, the Minister considered that she was laid off during periods of significant activity of the payer and that her employment was not essential. It is apparent from the evidence that Jennifer’s employment was terminated at the same time as she separated from Sébastien.
+[47] The Minister also relied on the fact that she returned to work on December 27, 2010, during a period when the payer’s activity was less significant. I note, however, that there were several employees who worked during the same period as Jennifer (Exhibit I‑9) and that the termination of her employment can be very easily explained given her family circumstances.
+[48] With regard to the factual non-arm’s length relationship of Jonathan Gélinas and the payer, Jonathan stated that he did not manage the payer’s business, which was Yves Guillemette’s job. He received training from Yves to do his job. His expertise was in refrigeration, which was only a small part of the payer’s business. Jonathan held only 12% of the payer’s shares.
+[49] In my view, it is difficult to say that Jonathan had a factual non-arm’s length relationship with the payer. The evidence does not show that he took part in the payer’s decisions. The fact that he lent it money does not mean that he began not dealing with the payer at arm’s length in that it did not give him more shares in the payer’s business. In addition, I am not at all satisfied that he was acting in concert with Yves Guillemette, who was the directing mind of the payer, or that he exerted any influence over him. (see Parill v. Canada (M.N.R.), [1996] T.C.J. No. 1680 (QL)). I therefore consider that, even though his salary was higher than that of other clerks, it is neither for the Minister nor for the Court to become involved in the payer’s business decisions. Since I find that there is arm’s length dealing, I consider that Jonathan’s employment was insurable (which, in the case of arm’s length dealing, was not disputed by the Minister).
+[50] With regard to the three other appellants who are related to the payer under section 251 of the ITA, the role of this Court is to verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was “satisfied” still seems reasonable (Légaré v. Canada (Minister of National Revenue), 1999 CarswellNat 4187, [1999] F.C.J. No. 878 (QL) (FCA), at para. 4).
+[51] I am of the view in this case that most of the facts inferred or relied on by the Minister were not altogether accurate and were not correctly assessed. It is true that one could infer that Yves Guillemette, the owner of the business, seemed to manage the employment of his workers through a certain rotation. He explained that he had to do this to be able to ensure that they are there if needed for bigger contracts. This is a justifiable business decision. I note also that the evidence (among other things, the quarterly sales figures) shows that the business did not always follow the same cycle.
+[52] I note from the evidence that all employees, in general, were treated in the same way and that Yves Guillemette did not necessarily favour one over another. With regard to Normand Guillemette, it is true that he acknowledged that he had kept his salary at the CCQ rate so that he could eventually receive pension benefits. However, Normand was not the only one who received an hourly rate set by the CCQ and, because of this, it is not possible to claim that he was given preferential treatment. With respect to his work schedule, even though he worked only 40-hour weeks, his work schedule was equivalent to that of the other workers.
+[53] With regard to Sébastien Guillemette and Jennifer Chabot, I am of the view that the explanations and the documentary evidence provided above in my reasons also show that the facts underlying the Minister’s assumptions were not correctly assessed.
+[54] In conclusion, if the respondent was of the view that the payer was trying to exploit the employment insurance system by rotating its employees, he should have disputed the existence of a contract of employment. But it is incorrect to conclude that the appellants benefited from their non-arm’s length relationship. The evidence shows that arm’s length employees could also get the same benefits (see Provost and Massignani v. M.N.R., 2005 FCA 165).
+[55] For these reasons, I am would allow the appeals.
+Signed at Ottawa, Canada, this 12th day of January 2015.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+On this 14th day of May 2015
+Margarita Gorbounova, Translator
+CITATION:
+2015 TCC 6
+COURT FILE NOs:
+2013-1396(EI), 2013-1412(EI), 2013‑1413(EI), 2013-1414(EI)
+STYLE OF CAUSE:
+NORMAND GUILLEMETTE, SÉBASTIEN GUILLEMETTE, JONATHAN GÉLINAS AND JENNIFER CHABOT and PLOMBERIE YVES GUILLEMETTE INC. v. THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Shawinigan, Quebec
+DATE OF HEARING:
+November 19, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT:
+January 12, 2015
+APPEARANCES:
+Counsel for the appellant:
+Gilbert Nadon
+Counsel for the respondent:
+Emmanuel Jilwan
+Counsel for the intervener:
+Gilbert Nadon
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Gilbert Nadon
+Firm:
+Ouellet, Nadon et Associés
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

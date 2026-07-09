@@ -1,0 +1,175 @@
+Title: Bourget c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29530/index.do
+Corpus path: corpus/cases/tcc/2008/2009-cci-533-29530-bourget-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-11-16
+
+# Bourget c. La Reine
+
+- Citation: 2009 CCI 533
+- Decision date: 2008-11-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6348, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bourget c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-16
+Référence neutre
+2009 CCI 533
+Numéro de dossier
+2007-3194(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3194(IT)I
+ENTRE :
+GILLES BOURGET,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 18 et 19 février 2008, à Montréal (Québec).
+Devant : L'honorable juge Gaston Jorré
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Mounes Ayadi
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 est accueilli, avec frais de 80 $ à l’appelant, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations selon les motifs du jugement ci‑joints.
+Il est ordonné que le droit de dépôt de 100 $ soit remboursé à l’appelant.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2009.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2009 CCI 533
+Date : 20091116
+Dossier : 2007-3194(IT)I
+ENTRE :
+GILLES BOURGET,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Les faits
+[1] L’appelant a déposé un appel à l’encontre de nouvelles cotisations relatives aux années d’imposition 2003 et 2004.
+[2] En établissant les nouvelles cotisations, le ministre a fait les changements suivants aux revenus de l’appelant :
+a) Il a ajouté en 2004 un montant de 5 000 $ reçu la même année à la fin du contrat d’emploi de l’appelant avec Les Entreprises Pesamiu Ilnuts inc. (l’« employeur »). Le ministre a tenu pour acquis que le montant de 5 000 $ était une indemnité de cessation d’emploi.
+b) Il a ajouté des frais pour droit d’usage d’une automobile de 4 704 $ en 2003 et de 2 352 $ en 2004.
+c) Il a ajouté 2 688 $ en 2003 et 1 428 $ en 2004 à titre d’avantage relatif au fonctionnement d’une automobile.
+[3] L’appelant conteste l’ajout de ces montants à son revenu. Selon l’appelant, ces montants ne devraient pas être ajoutés à son revenu car il devrait bénéficier de l’exemption prévue au paragraphe 6(6) de la Loi de l’impôt sur le revenu (la « LIR »). D’une part, il prétend que le montant de 5 000 $ était pour sa pension et son logement et que ce montant devrait ainsi être exclu selon l’alinéa 6(6)a). D’autre part, selon l’appelant, l’alinéa 6(6)b) aurait pour effet d’exclure tout avantage relatif à l’automobile.
+[4] Pour les motifs qui suivent, l’appel sera accueilli en partie.
+[5] L’appelant a travaillé pour l’employeur de septembre 2001 à novembre 2004. Il occupait un poste administratif et était, entre autres, responsable de la comptabilité.
+[6] Au début de l’emploi, il a vécu à Baie-Comeau pour deux ou trois mois. Par la suite, il a loué un logement à Ragueneau qui était plus près de son emploi à Betsiamites. Son logement était à 12 km ou à 13 km de son emploi, tandis que Baie‑Comeau était à 45 km.
+[7] L’employeur de l’appelant avait obtenu un contrat relatif à la construction du barrage hydroélectrique de Toulnustouc. Le contrat devait durer environ quatre ans. L’appelant a été engagé relativement à ce projet.
+[8] L’employeur a décidé que la comptabilité du projet se ferait au siège social de la société à Betsiamites et non au site du barrage de Toulnustouc.
+[9] L’emploi était à l’origine pour la période de construction du campement près du site du barrage de l’employeur, une période d’environ un an[1]. Il était prévu que l’emploi pouvait durer pendant une période maximale de quatre ans, soit la durée du contrat de l’employeur pour la construction du barrage. En juin 2002, le contrat d’emploi de l’appelant a été renouvelé. L’emploi en question a duré environ trois ans.
+[10] L’appelant a proposé qu’on lui paye une allocation de subsistance de 300 $ par semaine, et l’employeur a fini par lui payer une allocation de 250 $. Ce montant de 250 $ par semaine a été payé à l’appelant du 8 février 2002 jusqu’à la fin du contrat[2].
+[11] Toutefois, vu les frais qu’engageait l’appelant, l’appelant et l’employeur ont continué de discuter de la question d’augmenter l’allocation. Selon l’appelant, l’employeur aurait finalement accepté de rajuster le montant à la fin de son contrat et le paiement de 5 000 $ en question représentait une augmentation rétroactive de l’allocation.
+[12] Cependant, au cours du contre-interrogatoire, quand l’appelant a vu sa note de frais du 21 octobre 2004, il était d’accord que seul le montant de 2 500 $ du montant total de 5 000 $ représentait la révision de l’allocation. D’après la note de frais, l’autre moitié du montant de 5 000 $ représentait des frais de relocalisation à Montréal. Les frais de relocalisation ne peuvent être une allocation de subsistance.
+[13] Pendant toute la période en litige, l’appelant avait une résidence à Anjou, au Québec, qui était à sa disposition.
+Analyse
+[14] La prétention de l’appelant est que si l’employeur n’avait pas décidé de faire la comptabilité au siège social à Betsiamites et l’avait plutôt faite au site de construction du barrage de Toulnustouc, le lieu logique pour faire la comptabilité, il n’y aurait eu aucun doute que le paragraphe 6(6) se serait appliqué à sa situation, comme c’était le cas pour les employés au site du barrage qui recevaient un avantage ou une allocation pour frais de pension et de logement. L’appelant trouve que le fait qu’il n’ait pas bénéficié des avantages prévus au paragraphe 6(6) est discriminatoire par rapport aux autres employés au site du barrage.
+[15] Le paragraphe 6(6) de la LIR dit :
+(6) Emploi sur un chantier particulier ou en un endroit éloigné. Malgré le paragraphe (1), un contribuable n'inclut, dans le calcul de son revenu tiré, pour une année d'imposition, d'une charge ou d'un emploi, aucun montant qu'il a reçu, ou dont il a joui, au titre, dans l'occupation ou en vertu de sa charge ou de son emploi et qui représente la valeur des frais — ou une allocation (n'excédant pas un montant raisonnable) se rapportant aux frais — qu'il a supportés pour :
+a) sa pension et son logement, pendant une période donnée :
+(i) soit sur un chantier particulier qui est un endroit où le travail accompli par lui était un travail de nature temporaire, alors qu'il tenait ailleurs et comme lieu principal de résidence, un établissement domestique autonome :
+(A) d'une part, qui est resté à sa disposition pendant toute la période et qu'il n'a pas loué à une autre personne,
+(B) d'autre part, où on ne pouvait raisonnablement s'attendre à ce qu'il retourne quotidiennement étant donné la distance entre l'établissement et le chantier,
+(ii) soit à un endroit où on ne pouvait raisonnablement s'attendre à ce qu'il établisse et tienne un établissement domestique autonome, étant donné l'éloignement de cet endroit de toute agglomération,
+si la période au cours de laquelle son travail l'a obligé à s'absenter de son lieu principal de résidence ou à être sur ce chantier ou à cet endroit était d'au moins 36 heures;
+b) le transport, au titre d'une période visée à l'alinéa a) pendant laquelle il a reçu de son employeur la pension et le logement ou une allocation raisonnable au titre de la pension et du logement, entre :
+(i) soit son lieu principal de résidence et le chantier particulier visés au sous‑alinéa a)(i),
+(ii) soit l'endroit mentionné au sous-alinéa a)(ii) et un endroit au Canada ou un endroit dans un pays où le contribuable est employé.
+[16] Pour que le paragraphe 6(6) s’applique, il faut que l’appelant remplisse plusieurs conditions. Premièrement, il faut que le lieu de travail soit :
+a) sur un « chantier particulier », ou
+b) à un endroit éloigné, c’est-à-dire à un endroit où on ne pouvait raisonnablement s’attendre à ce que l’appelant établisse et tienne un établissement domestique autonome, étant donné l’éloignement de cet endroit de toute agglomération.
+[17] Bien qu’il y eût un manque de logements à Betsiamites proprement dit, l’appelant a pu louer un logement à Ragueneau, à 12 km ou à 13 km de son emploi. Betsiamites est à moins de 60 km de Baie-Comeau, et Ragueneau, à 45 km de Baie‑Comeau.
+[18] L’appelant avait un logement domestique autonome et il ne s’agissait pas d’un emploi à un endroit éloigné au sens du sous-alinéa 6(6)a)(ii) de la LIR.
+S’agit-il d’un chantier particulier?
+[19] Dans la décision Alain Guilbert c. M.R.N., 91 DTC 737 (CCI), le juge Dussault dit aux pages 738 et 739 :
+Le principe énoncé à l'alinéa 6(1)a) de la Loi est à l'effet que doit être inclus dans le revenu d'un contribuable « la valeur de la pension, du logement et autres avantages de quelque nature que ce soit qu'il a reçus ou dont il a joui dans l'année au titre, dans l'occupation ou en vertu d'une charge ou d'un emploi, . . . ».
+Par ailleurs, le paragraphe 6(6) de la Loi prévoit une exception à ce principe d'inclusion de la valeur des avantages dans le revenu tiré d'une charge ou d'un emploi dans le cas d'emploi sur un chantier particulier ou dans un endroit éloigné. La partie du paragraphe 6(6) de la Loi pertinente au présent débat […]
+Depuis 1985, l'alinéa a) se lit :
+. . .
+a) sa pension et son logement, pendant une période donnée,
+(i) soit sur un chantier particulier où il accomplissait un travail de nature temporaire, alors qu'il tenait ailleurs et comme lieu principal de résidence, un établissement domestique autonome
+(A) qui est resté à sa disposition pendant toute la période et qu'il n'a pas loué à une autre personne, et
+(B) où on ne pouvait raisonnablement s'attendre à ce qu'il y retourne quotidiennement étant donné la distance entre cet établissement et ce chantier,
+Essentiellement, l'appelant prétend que durant les années en cause son travail à Québec était « de nature temporaire », que son lieu de travail au journal Le Soleil doit être assimilé à un « chantier particulier » et qu'il a toujours maintenu son lieu principal de résidence au Domaine Chéribourg, dans le canton d'Orford en Estrie.
+Le procureur de l'intimé a pour sa part fait valoir que le travail de l'appelant pour le journal Le Soleil était de nature permanente, que les locaux du journal ne constituent pas un « chantier particulier » et que le lieu principal de résidence de l'appelant était aux Jardins Merici à Québec, à l'appartement fourni par Le Soleil.
+Quant au sens à donner au mot « chantier » le procureur de l'intimé réfère au sens usuel que l'on retrouve notamment dans le Petit Robert qui le définit ainsi selon son sens moderne dans le contexte :
+Lieu où sont entassés des matériaux. V. Atelier, entrepôt. Chantier de construction; de démolition. Travailler sur un chantier. Chantier d'exploitation, d'abattage d'une mine — Chantier naval. Ancienn. Au Canada, Exploitation forestière. — Habitation pour les bûcherons dans la forêt. Homme de chantier (Pop). Ouvrier forestier. V. Bûcheron. Faire chantier : abattre et scier des arbres.
+Le procureur de l'intimé soumet également que dans le cadre de la réforme fiscale applicable à compter de 1972 on a considérablement élargi la portée de la disposition précédente qui ne s'appliquait qu'aux ouvriers du bâtiment travaillant sur des chantiers éloignés et réfère à cet égard au Résumé du projet de loi sur la réforme fiscale 1971 et particulièrement aux paragraphes suivants :
+Frais des travailleurs en déplacement
+Aux termes de la loi actuelle, les ouvriers du bâtiment travaillant sur des chantiers éloignés peuvent recevoir de leur employeur une allocation non imposable pour couvrir leurs frais de transport, d'hébergement et de pension. Le projet de loi étend ce privilège à tous les employés.
+Le projet de réforme reconnaît que les ouvriers du bâtiment ne sont pas les seuls à devoir quitter leur lieu habituel de résidence pour aller vivre et travailler de façon temporaire dans un endroit où on ne peut raisonnablement pas leur demander d'installer leur famille.
+Cette disposition, tout comme elle le fait actuellement, ne s'appliquera qu'aux employés quittant leur lieu de résidence habituelle. Elle ne s'appliquera pas aux célibataires qui ne maintiennent pas de résidence permanente où ils entretiennent une personne à charge. L'employé devra être absent de sa résidence habituelle pendant au moins 36 heures et le lieu de son travail suffisamment éloigné pour qu'il ne lui soit pas raisonnablement possible de retourner chez lui chaque jour.
+Entre autres bénéficiaires de cette disposition se trouvent les ouvriers forestiers, les mineurs, les foreurs de puits de pétrole, les équipes d'exploration, les employés des bases isolées et ceux qui, travaillant sur des chantiers de construction éloignés, ne rentrent pas dans la catégorie des « ouvriers du bâtiment ».
+La Loi est complexe certes et elle contient de nombreuses définitions. Cependant, l'on ne peut présumer, en l'absence d'une définition statutaire spéciale, que les mots usuels utilisés par le législateur doivent avoir un sens différent de celui reconnu de façon générale et consigné dans les dictionnaires courants. Or un « chantier » est un « chantier » et ce mot ne peut désigner n'importe quel lieu de travail. Les locaux du journal Le Soleil ne sont pas, à mon humble avis, un chantier ni un « chantier particulier » au sens qu'a voulu lui donner le législateur. Par analogie on peut se référer à la décision dans l'affaire Graham L. Harle, M.L.A., and Calvin E. Lee, M.L.A., v. M.N.R., 76 DTC 1151, citée par le procureur de l'intimé et dans laquelle on a refusé de reconnaître que l'édifice d'une assemblée nationale d'une province était « a special work site » ou en français « un chantier particulier ».
+D'abondant, j'ajouterai qu'une lecture attentive de l'alinéa 6(6)a) de la Loi nous indique que les frais de pension et de logement doivent avoir été supportés « sur un chantier particulier ». On y prévoit des situations où il existe sur le chantier ou à tout le moins dans les environs assez immédiats des locaux appropriés pour la pension et le logement des employés, situations complètement différentes de celle dont nous avons à juger.
+[20] Je suis d’accord avec le juge Dussault qu’un « chantier particulier » ne peut être l’équivalent d’un « lieu de travail ». En choisissant l’expression « chantier particulier » en français et l’expression « special work site » en anglais, le législateur a voulu limiter la portée de l’exemption.
+[21] Quelle que soit l’étendue du sens de l’expression « chantier particulier », cette expression ne comprend pas le siège social de l’employeur de l’appelant à Betsiamites[3].
+[22] En conséquence, il ne peut s’agir d’un chantier particulier et l’exemption au paragraphe 6(6) ne s’applique pas[4].
+[23] Le législateur a fait une distinction entre les travailleurs d’un chantier particulier et ceux qui travaillent ailleurs, comme l’appelant dans le présent cas; c’est un choix que le législateur peut faire.
+Calcul des frais raisonnables pour droit d’usage d’une automobile
+[24] Avant de terminer, je dois examiner le calcul des frais raisonnables pour droit d’usage. En témoignant, Mme Marie-Cécile Partel de l’Agence du revenu du Canada a expliqué, tel qu’on le voit à la pièce I-2, que le calcul de l’avantage relatif à l’utilisation d’une automobile a été fait et que les frais raisonnables étaient basés sur des frais de location d’une automobile de 700 $ par mois. Elle a expliqué que le montant de 700 $ était prescrit par le paragraphe 7307(3) du Règlement de l’impôt sur le revenu[5].
+[25] Cependant, ce paragraphe fixe les montants maximaux en vertu de l’article 67.3 de la LIR. Ce paragraphe ne s’applique pas à l’alinéa 6(1)e) ni au paragraphe 6(2) de la LIR, les paragraphes relatifs aux frais raisonnables pour droit d’usage d’une automobile. Il s’agit de déterminer le coût de la location aux fins du calcul au paragraphe 6(2), notamment l’élément E dans la formule.
+[26] J’accepte le témoignage de l’appelant dans lequel il révèle des faits assez différents quant à l’automobile.
+[27] Premièrement, bien que l’appelant fût d’accord qu’au début de son emploi la location du véhicule coûtait environ 700 $ ou plus par mois, par la suite, la location a été négociée de nouveau à 650 $ par mois[6]. Je suis persuadé que cette nouvelle négociation a eu lieu avant le 1er janvier 2003. Il s’agissait d’une location à court terme.
+[28] Deuxièmement, à partir d’avril 2003, pour réduire les coûts, l’employeur a acheté un véhicule pour 13 500 $. Ce véhicule a servi d’automobile à l’appelant jusqu’à la fin de son emploi[7].
+[29] En conséquence, il faut refaire le calcul des frais raisonnables pour droit d’usage en substituant pour trois mois en 2003 une location à 650 $ et en tenant compte pour neuf mois de l’usage d’un véhicule acheté pour 13 500 $. De même, il faut refaire le calcul pour 2004 en considérant le véhicule acheté[8]. Le résultat est que les frais pour droit d’usage devront être de 2 713,12 $ en 2003 et de 1 360,80 $ en 2004, au lieu de 4 704 $ et de 2 352 $ respectivement.
+Conclusion
+[30] En conséquence, l’appel est accueilli et le tout est renvoyé au ministre pour nouvel examen et nouvelles cotisations en tenant pour acquis :
+a) qu’en 2003, les frais raisonnables pour droit d’usage de l’automobile doivent être de 2 713,12 $, au lieu de 4 704 $,
+b) qu’en 2004, les frais raisonnables pour droit d’usage de l’automobile doivent être de 1 360,80 $, au lieu de 2 352 $.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2009.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE : 2009 CCI 533
+Nº DU DOSSIER DE LA COUR : 2007-3194(IT)I
+INTITULÉ DE LA CAUSE : GILLES BOURGET c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATES DE L’AUDIENCE : Les 18 et 19 février 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 16 novembre 2009
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Mounes Ayadi
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Transcription du 19 février 2008, questions 6 et 18; voir aussi la pièce A-1.
+[2] Le montant de 250 $ par semaine payé au cours de l’emploi n’est pas en litige. L’appelant n’a pas inclus cette allocation de 250 $ dans son revenu et le ministre n’a pas inclus ce montant en établissant les nouvelles cotisations.
+[3] Je suis également d'accord avec le juge Dussault que l'exception au sous-alinéa 6(6)a)(i) ne s'applique que si l'individu est logé dans les environs du chantier particulier. Ici, la preuve est qu'il y avait environ 150 km entre Betsiamites et le barrage de Toulnustouc.
+[4] Vu ma conclusion sur la question de l’expression « chantier particulier », il n'est pas nécessaire de décider si le travail était de nature temporaire.
+En arrivant à cette conclusion, je suis conscient des décisions dans Jaffar c. Canada, [2002] A.C.I. no 67 (QL), et Rozumiak c. La Reine, 2005 CCI 811. Dans ces deux décisions, on donne une interprétation plus large à « chantier particulier ». Ces deux décisions ne changent pas ma conclusion, et cela, pour deux raisons.
+Premièrement, ni l’une ni l’autre de ces deux décisions ne s’appliquerait à la situation en cause ici, où l’appelant travaillait au siège social de l’employeur, car si je comprends correctement, dans ces deux décisions, il s’agit d’un « chantier particulier » au sens de « lieu inhabituel ou exceptionnel » — dans Jaffar, parce que l’appelant est allé travailler aux bureaux d’un client à la demande de son employeur (voir les paragraphes 9 et 13), et dans le cas de Rozumiak, parce que l’appelant travaillait seul à un bureau que son employeur louait à Chicago, loin de Vancouver, où son employeur exerçait habituellement ses activités.
+Deuxièmement, je regrette, mais, avec respect, je ne peux partager l’approche aux paragraphes 9 à 11 de Jaffar quant à l’interprétation des lois bilingues. Si je comprends bien l’approche dans ces paragraphes, le sens de la LIR pourrait être différent selon qu’on applique le texte français ou le texte anglais. Ma compréhension des règles de l’interprétation bilingue est qu’il faut en premier lieu tenter de trouver un seul sens commun aux deux textes : R. c. Daoust, 2004 CSC 6, paragraphes 26 à 31; voir aussi : l’honorable Michel Bastarache, Naiomi Metallic, Regan Morris et Christopher Essert, Le droit de l’interprétation bilingue, 1re édition, 2009, chapitre 1.
+[5] Transcription du 19 février 2008, questions 78 et 82.
+[6] Transcription du 18 février 2008, questions 108 à 111.
+[7] Ibid., questions 111 et 112. À la fin de la question 111, l’appelant dit que le véhicule a servi pendant environ un an et il parle d’achat en 2003. Je crois qu’il y a une erreur à la question 112, où l’appelant parle de 2004, ce qui voudrait dire qu’il aurait eu la voiture pendant seulement six ou sept mois en tenant compte de la date de fin d’emploi. En conséquence, je conclus que l’achat a été fait en avril 2003.
+[8] Il faut aussi tenir compte de l’élément F dans la formule au paragraphe 6(2) de la LIR :
+F la partie du total représenté par l'élément E qu'il est raisonnable de considérer comme payable au bailleur au titre de tout ou partie du coût, pour celui-ci, de l'assurance :
+a) contre la perte de l'automobile ou les dommages à celle-ci;
+b) pour la responsabilité qui peut découler de son utilisation ou de son fonctionnement.
+Il est bien connu que lors d’une location à court terme, l’assurance visée à l’élément Fa) est très coûteuse. Un montant raisonnable pour l’élément F serait de 250 $ par mois.
+Ainsi, pour 2003, au lieu de [700 $ x (2/3) x (16 800/20 000) x (365/30)], le calcul sera de [(650 - 250)$ x (2/3) x (16 800/20 000) x (90/30)] + [(16 800/20 000) x (2/100) x 13 500 $ x (270/30) = 2 713,12 $], et pour 2004, au lieu de [700 $ x (2/3) x (8 400/10 000) x (180/30)], le calcul sera de [13 500 $ x (8 400/10 000) x (2/100) x (180/30) = 1 360,80 $].

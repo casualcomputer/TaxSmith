@@ -1,0 +1,671 @@
+---
+title: "Lalande c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/142336/index.do"
+last_modified: "2016-02-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 33"
+citation2: ""
+neutral_citation: "2016 CCI 33"
+decision_date: "2016-02-04"
+language: "fr"
+item_id: "142336"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3009
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:11:21.172000+00:00"
+cases_cited_count: 10
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2f2fd57d270a136a4ec21441fbf8abd44fe465171d465cea2b8790561c2c1e2a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lalande c. M.R.N.
+
+- Citation: 2016 CCI 33
+- Decision date: 2016-02-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3009, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lalande c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-02-04
+Référence neutre
+2016 CCI 33
+Numéro de dossier
+2015-207(EI)
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2015­207(EI)
+ENTRE :
+CHRISTIAN LALANDE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+2210066 ONTARIO INC.,
+intervenant.
+[TRADUCTION FRANÇAISE]
+Appel entendu le 2 novembre 2015 à Ottawa (Ontario)
+Devant : L’honorable juge Don R. Sommerfeldt
+Comparutions :
+Pour l’appelant :
+L’appelant lui­même
+Avocate de l’intimé :
+Me Kira Caceres
+Représentante de l’appelant :
+Patricia Mulder Lalande
+JUGEMENT
+L’appel interjeté au titre du paragraphe 103(1) de la Loi sur l’assurance­emploi est rejeté et la décision du ministre du Revenu national, énoncée dans une lettre datée du 17 septembre 2014 envoyée par l’Agence du revenu du Canada à l’appelant, est confirmée.
+Signé à Ottawa, Canada, ce 4e jour de février 2016.
+« Don R. Sommerfeldt »
+Juge Sommerfeldt
+Référence : 2016 CCI 33
+Date : 20160204
+Dossier : 2015­207(EI)
+ENTRE :
+CHRISTIAN LALANDE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+2210066 ONTARIO INC.,
+intervenant.
+MOTIFS DU JUGEMENT
+Le Juge Sommerfeldt
+[1] Ces motifs se rapportent à un appel interjeté par Christian Lalande à l’encontre d’une décision (la « décision ») rendue le 17 septembre 2014 au nom du ministre du Revenu national (le « ministre ») concernant l’assurabilité de l’emploi de M. Lalande auprès de 2210066 Ontario Inc. (la « société ») au cours de la période s’échelonnant du 5 mai 2013 au 4 mai 2014.
+I. Contexte factuel [2] Christian Lalande est marié à Patricia Mulder Lalande[1], qui se présente généralement sous le nom de Patricia Mulder.
+[3] La société a été constituée en personne morale en vertu des lois de l’Ontario le 23 juin 2009. À la date de sa constitution en personne morale ou peu après, la société a émis 100 actions ordinaires de catégorie A à droit de vote au nom de Mme Mulder et 100 actions spéciales de catégorie C à droit de vote au nom de M. Lalande[2]. Aucun élément de preuve n’a été présenté concernant les droits, les privilèges, les restrictions et les conditions rattachés aux actions de ces deux catégories; il est seulement mentionné que les actions des deux catégories sont assorties de droits de vote semblables et que les actions de la catégorie A sont des actions ordinaires et les actions de la catégorie C sont des actions spéciales.
+[4] En 2012, Mme Mulder et M. Lalande ont décidé de modifier leur participation respective dans la société. En conséquence, le 11 mai 2012, Mme Mulder a souscrit 80 actions de catégorie A supplémentaires, au prix de 0,10 $ par action, et M. Lalande a souscrit 20 actions de catégorie C supplémentaires, au prix de 0,10 $ par action. Une fois ces actions supplémentaires émises, Mme Mulder détenait 180 actions de catégorie A du capital­actions de la société, représentant 60 % de toutes les actions à droit de vote émises, et M. Lalande détenait 120 actions de catégorie C du capital­actions de la société, représentant 40 % de toutes les actions à droit de vote émises.
+[5] M. Lalande et Mme Mulder ont expliqué que leur participation respective dans la société avait été modifiée parce que Mme Mulder avait apporté, et continuait à apporter, une plus grande contribution que M. Lalande au restaurant, tant sur le plan du capital investi que sur le plan du temps investi. De plus, Mme Mulder a pris, unilatéralement, toutes les décisions importantes concernant les activités de la société. Au cours de l’audience, l’avocate de l’intimé a laissé entendre que la modification des participations dans la société avait pour but de permettre à M. Lalande d’être admissible, à la date de cessation de son emploi, à des prestations au titre de la Loi sur l’assurance­emploi, L.C. 1996, ch. 23, dans sa version modifiée (la « LAE »)[3]. Cependant, M. Lalande et Mme Mulder ont affirmé catégoriquement que ce n’était pas le cas. Je ne crois pas qu’il me soit nécessaire de déterminer la raison de la modification des participations dans la société.
+[6] Au moment de la constitution en personne morale de la société, le 23 juin 2009, Mme Mulder et M. Lalande ont été désignés comme les seuls directeurs de la société. De plus, Mme Mulder a été nommée présidente et secrétaire­trésorière de la société. M. Lalande n’a pas été nommé administrateur de la société.
+[7] La société a été constituée en personne morale dans le but d’exploiter un restaurant à service rapide Harvey’s à Ottawa, en Ontario. À cette fin, la société a acquis une franchise Harvey’s auprès du franchiseur de la chaîne de restaurants (le « franchiseur »). Pour financer l’acquisition de la franchise et le développement des activités, la société a obtenu un prêt d’une institution financière. Le montant initial du prêt n’était pas indiqué dans les éléments de preuve; cependant, en août 2014, au moment où Mme Mulder a rempli un formulaire de l’Agence du revenu du Canada (l’« ARC »), le solde du prêt était de 153 000 $. Pour garantir ce prêt, Mme Mulder et M. Lalande ont hypothéqué leur résidence familiale auprès de l’institution financière. Les détails de l’entente de financement n’ont pas été fournis; cependant, M. Lalande a déclaré qu’il avait engagé sa responsabilité personnelle à l’égard du remboursement du prêt.
+[8] Mme Mulder a travaillé dans l’industrie de la restauration rapide durant environ 30 ans. Elle possède une vaste expérience en matière d’exploitation et de gestion de restaurants à service rapide.
+[9] La société exerce ses activités dans des locaux loués par le franchiseur ou une société affiliée (le « locateur » dans les deux cas). En août 2014, le loyer mensuel des locaux était de 9 600 $. M. Lalande a déclaré qu’il avait engagé sa responsabilité personnelle à l’égard de la location (bien que la nature de sa responsabilité n’ait pas été précisée).
+[10] Durant la construction des locaux destinés à héberger le restaurant de la société, M. Lalande travaillait ailleurs à titre de mécanicien d’automobiles. Toutefois, en tant qu’actionnaire à 50 % de la société (comme c’était le cas à ce moment), il a joué un rôle dans les négociations avec l’entrepreneur général ainsi que dans la supervision de la construction des locaux. Au moment où le restaurant a ouvert ses portes, Mme Mulder en assurait la gestion. Comme M. Lalande occupait alors un autre emploi, il n’a pas participé aux activités quotidiennes du restaurant dès l’ouverture. Étant donné la vaste expérience de Mme Mulder quant à l’exploitation de restaurants à service rapide et le manque d’expérience de M. Lalande dans ce domaine, celui­ci s’en remettait à Mme Mulder pour les décisions concernant la gestion et l’exploitation du restaurant.
+[11] En septembre 2012, après que M. Lalande eut cessé de travailler comme mécanicien d’automobiles, la société l’a embauché comme employé. M. Lalande et la société ont alors conclu un contrat de travail standard (le « contrat ») daté du 4 septembre 2012, dans le format fourni et exigé par le franchiseur. En ce qui concerne le poste occupé par M. Lalande, le contrat indique « BOH MGR », ce qui signifie probablement « back­of­house manager » (gérant des aires du personnel). Au cours de son témoignage, M. Lalande a indiqué qu’au fur et à mesure qu’il apprenait ses tâches et qu’il évoluait dans ses fonctions, il était, d’une certaine façon, devenu un gestionnaire adjoint même si son titre officiel n’avait pas été modifié.
+[12] Le contrat comporte un espace (suivi de « /hour » [heure]) où devait être indiqué le salaire horaire de M. Lalande, mais cet espace a été laissé vierge et le mot « SALARY » (salaire) a été inscrit à la main à la droite du mot « hour » (heure). Le contrat ne précise pas le salaire. M. Lalande a déclaré que le contrat avait été rempli de cette façon parce qu’il n’était pas possible de déterminer un salaire horaire en raison des nombreux facteurs qui entraient en jeu. Il a également mentionné que le champ lié au salaire avait été laissé vierge afin que le montant puisse être déterminé plus tard. Mme Mulder a confirmé que la raison pour laquelle le salaire n’avait pas été précisé dans le contrat était que tous les contrats de travail des employés étaient conservés dans le restaurant et qu’elle voulait ainsi éviter qu’un autre employé tombe sur les contrats et découvre le salaire de M. Lalande.
+[13] Tout au long de la période d’emploi de M. Lalande, y compris durant la période visée par la décision, le salaire de M. Lalande (une fois déterminé) a été de 40 000 $ par année.
+[14] Le titre du poste de M. Lalande indiqué dans son contrat était « BOH MGR » (gérant des aires du personnel); toutefois, sur les feuilles de temps (appelées les « Pay Summary Reports » [rapports sommaires de la paye]), déposées comme pièce R­7, son titre de poste était « cashier garnisher » (caissier/préposé au comptoir). Le ministre, tant dans la réponse à l’avis d’appel que lors du contre­interrogatoire, a tenu compte du poste indiqué dans les feuilles de temps de M. Lalande, soit « cashier garnisher » (caissier/préposé au comptoir). De l’avis du ministre, le salaire de 40 000 $ par année était déraisonnablement élevé pour un poste de caissier et préposé au comptoir. M. Lalande et Mme Mulder ont expliqué que le logiciel de paye utilisé par la société était fourni par le franchiseur et qu’il était quelque peu désuet. Par exemple, tous les employés devaient être inscrits dans les feuilles de temps comme des « cashiers garnishers » (caissiers/préposés au comptoir), même s’ils avaient des titres de poste différents. M. Lalande a précisé que même les cuisiniers étaient inscrits dans les feuilles de temps comme des « cashiers garnishers » (caissiers/préposés au comptoir) même s’ils avaient clairement des descriptions de travail et des fonctions différentes. M. Lalande a également mentionné qu’il ne manipulait pas d’argent et qu’il ne garnissait pas les hamburgers, mais le logiciel exigeait que son titre de poste inscrit dans les feuilles de temps soit « cashier garnisher » (caissier/préposé au comptoir). Après avoir entendu les témoignages et examiné les pièces, je ne crois pas qu’il faille accorder beaucoup d’importance au fait que le titre du poste de M. Lalande inscrit dans les feuilles de temps est « cashier garnisher » (cassier/préposé au comptoir). Je conclus donc que M. Lalande occupait bel et bien le poste de gérant des aires du personnel ou d’assistant gérant (les deux titres étant utilisés dans les éléments de preuve).
+[15] Les tâches de M. Lalande étaient variées. Il devait nettoyer les hottes d’aspiration, les filtres, les friteuses et les planchers, se présenter au restaurant tous les matins pour préparer l’ouverture à 10 h 30, cuisiner et préparer la nourriture, et nettoyer l’arrière du restaurant. Comme M. Lalande travaillait généralement en avant­midi et au début ou au milieu de l’après­midi, il devait également préparer la nourriture pour le quart de soir et pour le jour suivant. En outre, il réalisait les petits travaux d’entretien général au restaurant, il s’occupait des dépôts bancaires, il allait chercher les fournitures et il traitait avec les techniciens en entretien et réparation. Il exécutait la plupart de ses tâches au restaurant, sauf lorsqu’il devait se rendre à la banque ou aller chercher des fournitures.
+[16] Tous les employés qui travaillaient au restaurant devaient pointer leur arrivée sur un horodateur informatisé au début d’un quart de travail ou au retour d’une pause et pointer leur départ à la fin d’un quart de travail ou au début d’une pause. Comme Mme Mulder souhaitait connaître le nombre d’heures de travail effectuées par tous les employés, y compris M. Lalande, il était également tenu de pointer son arrivée et son départ.
+[17] M. Lalande avait des heures de travail précises au restaurant. Les lundis, jeudis et vendredis, il devait travailler au restaurant de 8 h 30 à 16 h. Les mardis et mercredi, il devait travailler au restaurant de 8 h 30 à 14 h. Les renseignements contenus dans les éléments de preuve ne semblaient pas clairs quant au nombre d’heures de travail rémunérées que M. Lalande était censé faire chaque jour. Selon l’horaire de travail susmentionné, il devait effectuer 7,5 heures les lundis, jeudis et vendredis, et 5,5 heures les mardis et mercredis. Toutefois, Mme Mulder a déclaré que chaque employé (y compris M. Lalande) avait droit à une pause dîner non rémunérée de 30 minutes, signifiant donc que M. Lalande devait effectuer 7 heures de travail rémunérées les lundis, jeudis et vendredis, et 5 les mardis et mercredis.
+[18] M. Lalande et Mme Mulder ont tous deux rempli un long questionnaire pour l’ARC. Les questionnaires ont été déposés comme pièces R­3 et R­4, respectivement. Au point 7d) de chaque questionnaire, il était indiqué que, chaque semaine, M. Lalande devait effectuer 33 heures dans le restaurant et consacrer de 7 à 10 heures aux travaux de réparations et autres tâches. Lors du témoignage de vive voix, il a été expliqué que les 33 heures prévues chaque semaine devaient être réalisées au restaurant durant les heures d’ouverture et que, pour ces heures, M. Lalande devait pointer son arrivée et son départ. Lorsque M. Lalande devait se rendre à la banque ou aller chercher des fournitures, il ne pointait pas. Ces heures faisaient partie des 7 à 10 heures prévues chaque semaine pour accomplir d’autres tâches. Comme la plupart des travaux de réparation ne pouvaient pas être réalisés durant les heures d’ouverture, M. Lalande les effectuait lorsque le restaurant était fermé. Le temps qu’il consacrait aux travaux de réparation faisait partie des 7 à 10 heures qu’il devait réaliser chaque semaine sans pointer. Comme il sera expliqué ci­dessous, la question est de déterminer si M. Lalande effectuait bel et bien le nombre d’heures requis chaque semaine.
+[19] M. Lalande a déclaré qu’il savait que pendant qu’il travaillait pour la société, celle­ci n’était pas rentable. Mme Mulder a indiqué que la société devait une somme d’argent importante au locateur en arrérages de loyer et que le locateur faisait pression sur elle pour qu’elle paie. Mme Mulder a affirmé qu’en janvier 2014, elle avait été informée par le comptable de la société qu’il serait préférable qu’elle se débarrasse des « gros salaires » (il s’agit de l’expression utilisée par le comptable et par Mme Mulder dans son témoignage). Par conséquent, Mme Mulder a décidé qu’il serait nécessaire, pour la société, de mettre fin à l’emploi de sa sœur, qui occupait le poste d’aide­comptable de la société, de même qu’à celui de M. Lalande. L’emploi de M. Lalande a donc pris fin en mai 2014. Son dernier jour de travail a été le vendredi 2 mai 2014.
+[20] Une fois l’emploi de M. Lalande terminé, personne n’a été embauché par la société pour le remplacer. Mme Mulder se chargeait elle­même d’effectuer la plupart des tâches qui étaient auparavant exécutées par M. Lalande, à l’exception des travaux de réparations, lesquels ont été par la suite réalisés par des entrepreneurs tiers.
+[21] Après que la société eut mis fin à l’emploi de M. Lalande, celui­ci a présenté une demande de prestations d’assurance­emploi au ministère des Ressources humaines et du Développement des compétences (« RHDSC »). RHDSC a demandé à l’ARC de rendre une décision concernant l’assurabilité de l’emploi qu’avait occupé M. Lalande auprès de la société durant la période du 5 mai 2013 au 4 mai 2014. Le 9 juin 2014, l’ARC a fait parvenir une décision par écrit à M. Lalande.[4] Cette décision indique notamment ce qui suit :
+[traduction]
+Selon notre analyse, nous avons déterminé que pour la période visée, vous étiez employé. Toutefois, vous étiez alors lié à la société 2210066 Ontario Inc; il n’est donc pas raisonnable de conclure que vous auriez conclu un contrat de travail à peu près semblable n’eût été du lien de dépendance existant entre vous et l’employeur. Par conséquent, votre emploi n’était pas assurable aux termes de l’alinéa 5(2)i) de la Loi sur l’assurance­emploi.[5]
+De même, le 9 juin 2014, l’ARC a envoyé une lettre à la société, à l’attention de Mme Mulder, laquelle lettre réitérait le jugement énoncé dans la lettre envoyée à M. Lalande.[6]
+[22] Après avoir reçu la lettre susmentionnée, M. Lalande a interjeté appel auprès du chef des appels de l’ARC, au bureau des services fiscaux de London­Windsor.[7] Le 17 septembre 2014, la Division des appels RPC/AE de l’ARC a envoyé à M. Lalande la lettre décrite précédemment comme la « décision ».[8] Le deuxième paragraphe de la décision se lit comme suit :
+[traduction]
+À la suite d’un examen impartial de tous les renseignements concernant le présent appel, il a été déterminé que l’emploi visé n’était pas assurable. Vous étiez lié à la société 2210066 ONTARIO INC. et après avoir examiné l’ensemble des circonstances entourant l’emploi, le ministre du Revenu national n’est pas convaincu qu’un contrat de travail à peu près semblable aurait été conclu si vous n’aviez pas entretenu de lien de dépendance avec votre employeur. Vous entretenez un lien de dépendance avec la société 2210066 ONTARIO INC.; par conséquent, votre emploi n’était pas considéré comme assurable.
+De même, l’ARC a fait parvenir une lettre non datée à la société et à Mme Mulder déclarant essentiellement la même chose.
+[23] Après avoir reçu la décision de l’ARC, M. Lalande a entrepris les démarches concernant l’appel qui fait l’objet des présents motifs[9], et la société est intervenue dans le cadre de cet appel[10].
+II. Dispositions législatives [24] Selon l’alinéa 5(2)i) de la LAE, ne saurait être assurable un emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance. Selon l’alinéa 5(3)a) de la LAE, aux fins de l’alinéa 5(2)i) de la LAE, la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), dans sa version modifiée (la « LIR »).
+[25] Dans le cadre du présent appel, la disposition législative la plus importante est l’alinéa 5(3)b) de la LAE, qui prévoit essentiellement qu’aux fins de l’alinéa 5(2)i) de la LAE, l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de la LIR, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+III. Analyse A. Principes applicables [26] Comme M. Lalande et Mme Mulder sont mariés et comme Mme Mulder dirige la société, il est évident, aux termes du sous­alinéa 251(2)b)(iii) de la LIR, que durant la période en question, la société était, au sens de la LIR, liée à M. Lalande.
+[27] À l’alinéa 5(3)b) de la LAE, on peut lire : « [...] si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure [...] ». Ce passage laisse entendre que le ministre a un certain pouvoir discrétionnaire lorsqu’il détermine si un employeur et un employé liés auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance. Il y a une jurisprudence abondante en ce qui a trait à l’interprétation et à l’application de l’alinéa 5(3)b) de la LAE. Dans certains cas précédents[11], la Cour d’appel fédérale a indiqué que selon la disposition qui précédait l’alinéa 5(3)b) de la LAE, la Cour canadienne de l’impôt devait mener une enquête en deux étapes lorsqu’elle entendait un appel d’une décision du ministre prise aux termes de cette disposition précédente. Durant la première étape, la Cour devait limiter son analyse à la détermination de la légalité de la décision du ministre (c.­à­d., déterminer si le ministre avait correctement exercé son pouvoir discrétionnaire). Si, et seulement si, la Cour déterminait qu’il y avait un motif applicable justifiant l’interférence juridictionnelle, la Cour pouvait alors s’attarder au fondement de la décision du ministre.
+[28] Par la suite, la Cour d’appel fédérale a indiqué qu’une approche différente devrait être adoptée. Cette approche différente a été décrite comme suit par le juge Marceau :
+[traduction]
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L’expression utilisée introduit une sorte d’élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu’il s’agit sans doute d’un pouvoir dont l’exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n’est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l’impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n’est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c’est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable[12].
+[29] Par la suite, dans une affaire ultérieure, le juge Marceau a réitéré que l’approche à deux étapes ne devait plus être employée[13], et a précisé sa pensée au sujet de l’approche différente à adopter :
+Le rôle du juge d’appel n’est donc pas simplement de se demander si le ministre était fondé de conclure comme il l’a fait face aux données factuelles que les inspecteurs de la commission avaient pu recueillir et à l’interprétation que lui ou ses officiers pouvaient leur donner. Le rôle du juge est de s’enquérir de tous les faits auprès des parties et des témoins appelés pour la première fois à s’expliquer sous serment et de se demander si la conclusion du ministre, sous l’éclairage nouveau, paraît toujours « raisonnable » (le mot du législateur). La Loi prescrit au juge une certaine déférence à l’égard de l’appréciation initiale du ministre et lui prescrit, comme je disais, de ne pas purement et simplement substituer sa propre opinion à celle du ministre lorsqu’il n’y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus. Mais parler de discrétion du ministre sans plus porte à faux[14].
+[30] Récemment, le juge en chef adjoint de la Cour a résumé l’approche à adopter lors de l’examen d’une question dans le contexte de l’alinéa 5(3)b) de la LAE :
+[traduction]
+[...] le rôle de la Cour est de vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable[15].
+[31] Les principes suivants sont tirés des affaires susmentionnées :
+(a) Lorsqu’elle examine une conclusion du ministre dans le contexte de l’alinéa 5(3)b) de la LAE, la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement par le ministre.
+(b) Après avoir examiné tous les faits, la Cour doit décider si la conclusion du ministre paraît toujours raisonnable.
+(c) En vertu de la LAE, la Cour doit faire preuve d’une certaine déférence à l’égard de l’appréciation initiale du ministre.
+(d) Lorsqu’il n’y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus par le ministre, la Cour ne peut substituer sa propre opinion à celle du ministre.
+B. Hypothèses de fait [32] Étant donné que la Cour doit vérifier si les faits avancés par le ministre ou sur lesquels ce dernier s’est fondé sont véridiques et ont été correctement évalués, il convient d’énoncer les faits présumés par le ministre, tels qu’ils sont établis au paragraphe 8 de la réponse à l’avis d’appel (la « réponse »), comme suit :
+[traduction]
+En déterminant que l’appelant n’occupait pas un emploi assurable pour le payeur (c.­à­d., la société) pendant la période (c.­à­d., du 5 mai 2013 au 4 mai 2014), le ministre s’est fondé sur les hypothèses suivantes :
+Le payeur
+(a) Le payeur a été constitué en société le 23 juin 2009.
+(b) Les activités du payeur comprennent l’exploitation d’un restaurant de restauration rapide Harvey’s situé à Ottawa (Ontario).
+(c) Avant le 12 mai 2012, les actionnaires du payeur et leur participation respective dans les actions à droit de vote étaient les suivants :
+Patricia Mulder Lalande 50 %
+Christian Lalande 50 %
+(d) À partir du 12 mai 2012, les actionnaires du payeur et leur participation respective dans les actions à droit de vote étaient les suivants :
+Patricia Mulder Lalande 60 %
+Christian Lalande 40 %
+(e) Patricia Mulder Lalande (Patricia) et l’appelant étaient tous deux des administrateurs de la société.
+(f) Christian Lalande et Patricia sont mariés.
+(g) Patricia dirigeait les opérations quotidiennes du payeur et elle prenait les principales décisions d’affaires.
+(h) Patricia cumulait 30 ans d’expérience dans le domaine.
+(i) Les heures d’ouverture du payeur étaient du dimanche au jeudi de 10 h à 22 h, et du vendredi au samedi de 10 h 30 à 11 h.
+(j) Le payeur a émis des formulaires T4 à 34 employés pour l’année 2013.
+(k) Les ventes mensuelles brutes du payeur étaient les suivantes :
+Mois/année
+Ventes
+Mois/année
+Ventes
+Nov. 2012
+60 621,51 $
+Oct. 2013
+78 534,28 $
+Déc. 2012
+54 134,65 $
+Nov. 2013
+60 624,51 $
+Jan. 2013
+72 954,89 $
+Déc. 2013
+55 250,29 $
+Fév. 2013
+58 598,35 $
+Jan. 2014
+74 184,09 $
+Mars 2013
+44 658,78 $
+Fév. 2014
+56 401,31 $
+Avr. 2013
+69 027,19 $
+Mars 2014
+60 856,67 $
+Mai 2013
+65 674,93 $
+Avr. 2014
+76 573,00 $
+Juin 2013
+61 683,44 $
+Mai 2014
+68 991,00 $
+Juil. 2013
+78 415,48 $
+Juin 2014
+63 341,58 $
+Août 2013
+56 990,79 $
+Juil. 2014
+78 518,54 $
+Sept. 2013
+67 760,61 $
+(l) Le payeur a engagé des dépenses en maintenance et réparations de 11 688 $ et de 7 609 $ pour les années se terminant le 31 décembre 2012 et le 31 décembre 2013, respectivement.
+L’appelant
+(m) L’appelant et le payeur sont des personnes liées.
+(n) L’appelant a été engagé par le payeur pour travailler au restaurant.
+(o) L’appelant a travaillé pour le payeur en vertu d’un contrat de travail conclu dans la province de l’Ontario.
+(p) L’appelant a travaillé la première fois pour le payeur en août 2012.
+(q) Avant d’être embauché par le payeur, l’appelant travaillait comme mécanicien d’automobiles autorisé.
+(r) L’appelant a de l’expérience de travail en construction, en mécanique et en gestion.
+(s) Au moment de son embauche par le payeur, l’appelant n’avait pas d’expérience dans le milieu de la restauration.
+(t) Le titre de poste de l’appelant était « caissier/préposé au comptoir ».
+(u) Les tâches de l’appelant étaient notamment les suivantes :
+(i) nettoyage de l’arrière du restaurant;
+(ii) nettoyage de l’équipement du restaurant;
+(iii) balayage, lavage des planchers et dégraissage;
+(iv) entretien général du restaurant et réparations;
+(v) effectuer les dépôts bancaires;
+(vi) ramasser les fournitures;
+(vii) livrer les chèques aux fournisseurs;
+(viii) laver la vaisselle;
+(ix) préparer et faire cuire la nourriture;
+(x) traiter avec les techniciens.
+(v) L’appelant effectuait généralement ses tâches dans les locaux du payeur.
+(w) L’appelant travaillait chaque semaine du lundi au vendredi.
+(x) Les heures de travail de l’appelant étaient environ de 8 h 30 à 16 h les lundis, mardis et vendredis, et de 8 h 30 à 14 h les mardis et mercredis.
+(y) Les heures de travail de l’appelant étaient adaptées aux besoins de garde de ses enfants.
+(z) Le nombre total d’heures de travail quotidiennes de l’appelant était consigné par le payeur dans des feuilles de temps.
+(aa) L’appelant devait pointer son arrivée au restaurant et pointer son départ du restaurant.
+(bb) Le payeur a fourni à l’appelant la formation sur l’utilisation de l’équipement du restaurant et des produits de nettoyage.
+(cc) Le payeur a dirigé l’appelant quant aux tâches à accomplir.
+(dd) Le payeur s’est assuré que l’appelant effectuait ses tâches correctement et conformément aux normes du restaurant.
+(ee) L’appelant n’a supervisé aucun des employés du payeur.
+(ff) L’appelant touchait un salaire annuel de 41 000 $.
+(gg) L’appelant touchait une paye aux deux semaines de 1 576,92 $.
+(hh) La paye aux deux semaines de l’appelant était toujours la même, peu importe le nombre d’heures réelles travaillées durant une période de paye.
+(ii) Le nombre d’heures de travail de l’appelant variait d’une semaine à l’autre.
+(jj) L’appelant a travaillé un total de 1 437,55 heures durant la période.
+(kk) L’appelant a travaillé en moyenne 27,64 heures par semaine durant la période.
+(ll) En moyenne, l’appelant touchait un salaire de 28,52 $ l’heure.
+(mm) L’appelant était payé aux deux semaines, comme tous les autres employés du payeur.
+(nn) Les autres employés du payeur touchaient de 10,50 $ à 15,00 $ l’heure.
+(oo) Les autres employés du payeur n’étaient payés que pour les heures réellement travaillées.
+(pp) Selon les rapports sur les salaires dans le marché du travail, le salaire moyen d’un cuisinier à la chaîne est de 11,00 $ l’heure.
+(qq) Le payeur payait 12,00 $ l’heure un employé non lié qui effectuait des tâches semblables à celles de l’appelant.
+(rr) Le payeur a remboursé à l’appelant toutes les dépenses que ce dernier a engagées dans le cadre de ses fonctions.
+(ss) Le payeur a versé à l’appelant une paye de vacances, comme à tous les autres employés.
+(tt) Des journées de maladie et les jours fériés ont été payés à l’appelant.
+(uu) À l’exception de Patricia, les autres employés du payeur touchaient des revenus totaux variables d’une paye à l’autre.
+(vv) L’appelant n’a pas reçu de primes ou d’avantages complémentaires de la part du payeur, comme tous les autres employés.
+(ww) L’appelant a engagé sa responsabilité personnelle à l’égard des prêts à l’entreprise et des conventions de bail du payeur.
+(xx) La maison de l’appelant et de Patricia a été mise en garantie des prêts à l’entreprise du payeur.
+(yy) L’appelant n’était pas mandataire des comptes bancaires d’entreprise du payeur.
+(zz) L’appelant n’a pas été mis à pied par le payeur parce que ce dernier ne pouvait pas payer le salaire de l’appelant.
+(aaa) L’appelant a été mis à pied par le payeur pour qu’il puisse présenter une demande de prestations d’assurance­emploi.
+(bbb) Le payeur aurait pu embaucher un employé non lié à 11,00 $ l’heure pour effectuer les mêmes tâches que celles de l’appelant.
+(ccc) Patricia a effectué les tâches de l’appelant, à l’exception de l’entretien et des réparations, après la mise à pied de l’appelant.
+(ddd) Le payeur n’a pas remplacé l’appelant par un autre employé.
+(eee) Après la mise à pied de l’appelant, Patricia a retenu les services de sous­traitants pour effectuer la maintenance et les réparations.
+(fff) Patricia a repris les tâches de comptabilité qui étaient assumées par un autre employé.
+(ggg) Avant d’être embauché par le payeur en 2012, l’appelant a touché des prestations d’assurance­emploi totalisant 14 210 $.
+(hhh) Le payeur a déclaré des pertes nettes de 32 815 $ et de 26 961 $ pour les années 2012 et 2013, respectivement.
+(iii) Le payeur a engagé des dépenses en traitements et salaires de 249 240 $ et de 250 806 $ pour les années 2012 et 2013, respectivement.
+[33] Les faits présumés par le ministre, énoncés ci­dessus, sont tenus pour confirmés, à moins qu’ils ne soient réfutés par M. Lalande ou par la société[16].
+[34] Durant l’audience, lors des témoignages ou dans les documents déposés comme pièces, les hypothèses formulées ci­dessus aux alinéas a) à i), m) à s), u), w) à y), aa), cc), gg) à ii), mm) à oo), ss), tt), ww) à yy) et ccc) à fff) ont été confirmées. Ni M. Lalande ni Mme Mulder (au nom de l’appelant) n’a remis en question les hypothèses formulées aux alinéas j) à l), dd), pp) à rr), w), bbb) et ggg) à iii) ou n’a présenté de preuve à l’égard de ces hypothèses. Une part importante de l’audience a été consacrée aux hypothèses formulées aux alinéas t), v), z), bb), ee), ff), jj) à ll), uu), zz) et aaa), lesquelles ont été remises en question ou admises par M. Lalande et Mme Mulder. Il sera question de ce dernier ensemble d’hypothèses ci­dessous.
+C. Commentaires préliminaires sur les conclusions du ministre [35] Avant d’examiner les hypothèses remises en question ou admises, il y a lieu de formuler quelques commentaires. L’alinéa 5(3)b) de la LAE prévoit que, l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances de l’emploi, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance. Par conséquent, les hypothèses de fait les plus importantes dans le présent appel sont celles ayant trait aux circonstances d’emploi de M. Lalande.
+[36] Comme il en sera question un peu plus loin, M. Lalande et Mme Mulder ont réussi à réfuter, en totalité ou en partie, certaines des hypothèses de fait du ministre. Toutefois, les hypothèses de fait qui n’ont pas été réfutées, en plus des éléments de preuve présentés à l’audience du présent appel, étaient, à mon avis, suffisantes pour établir un fondement raisonnable permettant au ministre de conclure que, si la société et M. Lalande n’avaient pas eu de lien de dépendance, ils n’auraient pas conclu entre eux un contrat de travail à peu près semblable à l’entente effectivement conclue entre la société et M. Lalande. J’expliquerai ce point de vue ci­après.
+D. Analyse de certains faits présumés [37] Je vais maintenant procéder à l’analyse de chacune des hypothèses remises en question ou admises.
+[38] À l’alinéa 8t) de la réponse, l’intimé a présumé que le titre de l’emploi de l’appelant était « caissier/préposé au comptoir ». Les principaux éléments de preuve concernant cette hypothèse sont énoncés au paragraphe 14 des présents motifs. Comme il est indiqué précédemment, je suis d’avis que M. Lalande a été désigné comme caissier/préposé au comptoir dans les feuilles de temps, car aucune autre description ne convenait dans le logiciel de gestion du temps de la société. Même si, dans les preuves, M. Lalande était décrit comme gérant des aires du personnel ou assistant gérant, les preuves n’indiquent pas clairement le poste ou le titre réel de M. Lalande. Nonobstant ce manque de clarté, l’hypothèse formulée à l’alinéa 8t) de la réponse a été réfutée.
+[39] À l’alinéa 8v) de la réponse, l’intimé a présumé que M. Lalande s’acquittait habituellement de ses tâches dans les locaux de la société. Durant l’audience, M. Lalande et Mme Mulder ont clairement indiqué que M. Lalande effectuait certaines de ses tâches, comme aller à la banque, ramasser des fournitures et faire d’autres commissions, à l’extérieur des locaux de la société. En conséquence, l’hypothèse formulée à l’alinéa 8v) de la réponse a été partiellement réfutée.
+[40] À l’alinéa 8z) de la réponse, le ministre a présumé que le nombre total d’heures de travail par jour de M. Lalande était consigné dans les feuilles de temps de la société. Durant l’audience, M. Lalande et Mme Mulder ont précisé que les heures consignées dans les feuilles de temps ne représentaient que les heures de travail de M. Lalande après qu’il ait pointé son arrivée et avant qu’il ait pointé son départ à l’horodateur. En plus des heures « pointées », M. Lalande a aussi travaillé des heures non consignées. Les heures non consignées se rapportent aux tâches effectuées à l’extérieur des locaux de la société (lorsqu’il allait à la banque, ramassait des fournitures et effectuait d’autres commissions), ainsi que les tâches effectuées par M. Lalande en dehors des heures d’ouverture du restaurant (entretien et réparations). En conséquence, l’hypothèse formulée à l’alinéa 8z) de la réponse a été partiellement réfutée.
+[41] À l’alinéa 8bb) de la réponse, le ministre a présumé que la société avait offert à M. Lalande une formation sur l’utilisation de l’équipement et des produits de nettoyage pour restaurants. Durant son témoignage, M. Lalande a déclaré que, lorsqu’il avait commencé à travailler pour la société, il avait reçu un peu de formation de la part de certains autres employés de la société. Toutefois, comme M. Lalande assumait un rôle de gestion, ces autres employés étaient hésitants à lui donner de la formation, de sorte qu’il a appris par lui­même la plupart des choses qu’il devait savoir, à l’exception des techniques sécuritaires et adéquates de nettoyage des friteuses et des hottes de gril, tâches pour lesquelles Mme Mulder lui a donné la formation nécessaire. L’hypothèse formulée à l’alinéa 8bb) de la réponse a été partiellement réfutée.
+[42] À l’alinéa 8ee) de la réponse, le ministre a présumé que M. Lalande n’avait supervisé aucun des employés de la société. Il ressort clairement de l’audience que M. Lalande a assumé un rôle de gestion durant sa période d’emploi. Je suis d’avis qu’il a effectivement supervisé certains des employés de la société. Par conséquent, l’hypothèse formulée à l’alinéa 8ee) de la réponse a été réfutée. Toutefois, il y a lieu de mentionner que dans la description détaillée des tâches effectuées par M. Lalande, telle qu’elle est établie à l’alinéa 3a) des questionnaires remplis par M. Lalande et Mme Mulder (pièces R­3 et R­4 respectivement), on ne fait pas mention de supervision d’employés ou de tâches de gestion. J’ai par conséquent certains doutes quant à la quantité de tâches de supervision ou de gestion effectuées par M. Lalande.
+[43] À l’alinéa 8ff) de la réponse, le ministre a présumé que M. Lalande touchait un salaire annuel de 41 000 $. Selon la preuve présentée durant l’audience et les renseignements fournis dans les pièces R3 et R­4, M. Lalande touchait un salaire annuel de 40 000 $. Par conséquent, l’hypothèse formulée à l’alinéa 8ff) de la réponse a été partiellement réfutée, mais pour un écart de 1 000 $ seulement (c.­à­d., 41 000 $ – 40 000 $).
+[44] À l’alinéa 8jj) de la réponse, le ministre a présumé que M. Lalande avait travaillé un total de 1 437,55 heures durant la période du 5 mai 2013 au 4 mai 2014[17]. Bien qu’il n’ait pas été question durant l’audience de la manière exacte dont l’ARC a déterminé le nombre total d’heures travaillées, je crois comprendre que le nombre d’heures présumé (c.­à­d., 1 437,55 heures) a été calculé en fonction du nombre d’heures « pointées » qui ont été consignées dans les feuilles de temps déposées comme pièce R7. Tel que susmentionné, ni M. Lalande ni Mme Mulder ne remettent en question ou ne contestent le nombre total d’heures travaillées. Toutefois, M. Lalande et Mme Mulder ont tous deux indiqué que les feuilles de temps ne comportaient que les heures « pointées » par M. Lalande et qu’elles ne tenaient pas compte des heures travaillées à l’extérieur ou en dehors des heures d’ouverture du restaurant. M. Lalande et Mme Mulder ont tous deux indiqué que le nombre d’heures non consignées travaillées par M. Lalande était d’environ 7 à 10 heures par semaine. Il s’agit toutefois d’un nombre estimatif qui n’a pas été corroboré. Plus particulièrement, aucun dossier n’a été produit pour confirmer les 7 à 10 heures de travail « non pointées » travaillées chaque semaine ou pour confirmer que ces heures ont été travaillées régulièrement chaque semaine. Je suis convaincu que M. Lalande a parfois travaillé à l’extérieur ou en dehors des heures d’ouverture du restaurant, les heures additionnelles pouvant totaliser de 7 à 10 heures certaines semaines. Je ne suis toutefois pas convaincu que M. Lalande a régulièrement travaillé ces heures additionnelles chaque semaine du 5 mai 2013 au 4 mai 2014. Néanmoins, je suis d’avis que l’hypothèse formulée à l’alinéa 8jj) a été partiellement réfutée, mais pas au point d’anéantir le fondement de la décision du ministre.
+[45] À l’alinéa 8kk) de la réponse, le ministre a présumé que M. Lalande avait travaillé en moyenne 27,64 heures par semaine durant la période du 5 mai 2013 au 4 mai 2014. Il n’a pas été question de la méthode de calcul de cette moyenne durant l’audience; toutefois, je comprends que l’ARC divise le nombre total présumé d’heures travaillées (c.­à­d., 1 437,55 heures) par 52. Ni M. Lalande ni Mme Mulder n’ont particulièrement remis en question ou contesté l’hypothèse formulée à l’alinéa 8kk); toutefois, ils ont tous deux déclaré avec conviction que M. Lalande avait travaillé plus d’heures que le nombre d’heures consignées à l’horodateur du restaurant. Par conséquent, je suis d’avis que M. Lalande a travaillé, en moyenne, plus de 27,64 heures par semaine. Toutefois, pour les raisons énoncées aux paragraphes 44 et 54 des présents motifs, je ne suis pas convaincu qu’il a travaillé en moyenne 40 heures par semaine durant chaque semaine de la période du 5 mai 2013 au 4 mai 2014. Par conséquent, je suis d’avis que l’hypothèse formulée à l’alinéa 8kk) a été partiellement réfutée, mais pas au point d’anéantir le fondement de la décision.
+[46] À l’alinéa 8II) de la réponse, le ministre a présumé que, en moyenne, M. Lalande touchait un salaire de 28,52 $ l’heure. Selon ma compréhension des calculs du ministre, ce montant moyen a été calculé en fonction du nombre d’heures « pointées » consignées dans les feuilles de temps déposées comme pièce R­7. Comme il est expliqué ci­dessus, ces feuilles de temps ne comprennent pas les heures de travail effectuées par M. Lalande à l’extérieur des locaux de la société ou en dehors des heures d’ouverture du restaurant. Ces heures n’ont pas été consignées. Les seules preuves du nombre d’heures « non pointées » (ou non consignées) travaillées par M. Lalande sont les estimations non corroborées de M. Lalande et de Mme Mulder. Les réponses fournies dans les questionnaires respectifs déposés comme pièces R­3 et R­4 indiquent que M. Lalande a consacré de 7 à 10 heures par semaine pour effectuer des tâches à l’extérieur ou en dehors des heures d’ouverture du restaurant. À la lumière des commentaires formulés dans les deux paragraphes précédents, je crois que M. Lalande a travaillé plus d’heures que le nombre consigné dans les feuilles de temps, de sorte qu’il a touché, en moyenne, moins de 28,52 $ l’heure. Toutefois, aucune preuve ne permet de préciser le montant horaire moyen versé à M. Lalande. Il a déclaré que son salaire annuel avait été calculé en présumant qu’il toucherait 20 $ l’heure[18]. Néanmoins, pour les motifs qui seront énoncés ci­après, je suis d’avis que ce salaire horaire moyen était plus élevé que 20 $ l’heure.
+[47] À l’alinéa 8uu) de la réponse, le ministre a présumé que, à l’exception de Mme Mulder, le revenu total des autres employés de la société (c.­à­d., autres que M. Lalande) variait habituellement à chaque période de paye. Les revenus respectifs de M. Lalande et de Mme Mulder ne variaient pas d’une période de paye à l’autre, car ils touchaient un salaire annuel, de sorte qu’ils recevaient chacun un montant proportionnel de ce salaire annuel à chaque période de paye. Durant l’audience, M. Lalande et Mme Mulder ont expliqué que, durant la période visée, l’aide­comptable de la société était Ruby McCarville, qui est la sœur de Mme Mulder et qui travaillait aussi comme assistante gérante au restaurant. Comme M. Lalande et Mme Mulder ont tous deux déclaré que Mme McCarville touchait un salaire annuel, j’en déduis que ses revenus totaux ne devaient pas varier d’une période de paye à l’autre. Par conséquent, j’estime que cette hypothèse a été réfutée en partie, dans la mesure d’une employée (c.­à­d., Mme McCarville), étant donné que Mme McCarville, comme Mme Mulder et M. Lalande, touchait un salaire annuel, mais je ne crois pas qu’il s’agisse d’un élément déterminant.
+[48] À l’alinéa 8zz) de la réponse, le ministre a présumé que M. Lalande n’avait pas été mis à pied par la société en raison de l’incapacité de la société de payer le salaire de M. Lalande. M. Lalande et Mme Mulder ont contesté cette hypothèse. M. Lalande et Mme Mulder ont déclaré que, pendant que M. Lalande était à l’emploi de la société, cette dernière était déficitaire. En outre, M. Lalande a indiqué dans la preuve qu’il a présentée qu’il avait été mis à pied parce que la société n’arrivait plus à payer son salaire. Également, Mme Mulder a déclaré que, lorsqu’elle a discuté de la situation financière difficile de la société avec le comptable de la société, celui­ci lui a recommandé de réduire les dépenses de la société et, plus particulièrement, de se débarrasser des « gros salaires » de la société, désignant ainsi les salaires versés à M. Lalande et à Mme McCarville. Je suis d’avis que M. Lalande et Mme Mulder ont réfuté cette hypothèse en particulier. Toutefois, ce faisant, ils ont mis le doigt sur un autre élément appuyant le point de vue du ministre, c’est­à­dire qu’au moment où la société était déficitaire, elle versait à M. Lalande un salaire qui était considéré comme étant un « gros salaire » par le comptable de la société. Je suis d’avis que cet élément suggère qu’il y avait une entente avec lien de dépendance.
+[49] À l’alinéa 8aaa) de la réponse, le ministre a présumé que M. Lalande avait été mis à pied par la société pour qu’il puisse présenter une demande de prestations au titre de la LAE. M. Lalande et Mme Mulder ont vivement contesté cette hypothèse. Selon la preuve présentée durant l’audience, je suis d’avis que la société a mis à pied M. Lalande pour les motifs énoncés au paragraphe précédent. Par conséquent, cette hypothèse a été réfutée. Toutefois, je ne crois pas que le fait que cette hypothèse soit réfutée soit déterminant par rapport à la question soumise à la Cour.
+E. Caractère raisonnable des conclusions du ministre [50] Bien que M. Lalande et Mme Mulder aient réfuté certaines des hypothèses du ministre, il est important de souligner que les hypothèses n’ont pas toutes la même importance dans la résolution de la question soumise à la Cour. Tel que susmentionné, la question sous­jacente consiste à déterminer si, en tenant compte de toutes les circonstances d’emploi de M. Lalande à la société, dont sa rémunération, ses conditions d’emploi ainsi que la durée, la nature et l’importance du travail effectué, il est raisonnable de conclure que la société et M. Lalande auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance. Selon les hypothèses de fait et les preuves se rapportant aux circonstances d’emploi de M. Lalande, je suis d’avis que :
+(a) même si M. Lalande et Mme Mulder ont réfuté certaines des hypothèses de fait du ministre, les faits découlant des témoignages de vive voix ou des documents et les hypothèses de fait non réfutées suffisent à appuyer la détermination et la conclusion du ministre selon lesquelles, en tenant compte de toutes les circonstances d’emploi de M. Lalande, la société et M. Lalande n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance;
+(b) la conclusion dont le ministre est convaincu (pour l’application de l’alinéa 5(3)b) de la LAE), était raisonnable, plus particulièrement en tenant compte des facteurs décrits ci­après.
+F. Facteurs à l’appui de la conclusion du ministre [51] Tel que susmentionné, lorsque M. Lalande a commencé à travailler pour la société, le montant de sa rémunération était initialement indéterminé et, lorsqu’il a été finalement déterminé unilatéralement par Mme Mulder, le montant n’a pas été inscrit dans l’entente. Comme le salaire d’un employé est un aspect fondamental d’un contrat de travail, on peut s’attendre à ce que, dans une situation d’emploi courante sans lien de dépendance, le montant du salaire soit généralement négocié et convenu entre l’employeur et l’employé au début de l’emploi, et soit indiqué par écrit. Comme cela n’a pas été fait dans le cas présent, il appert que la conclusion du ministre était raisonnable, c’est­à­dire que le contrat de travail de M. Lalande n’aurait pas été conclu par des parties sans lien de dépendance.
+[52] Le ministre a présumé que Mme Mulder dirigeait les opérations quotidiennes de la société et qu’elle prenait les principales décisions d’affaires[19]. Ni M. Lalande ni Mme Mulder n’ont contesté ou remis en question cette hypothèse. En fait, M. Lalande a répété dans son témoignage que toutes les grandes décisions étaient prises par Mme Mulder, qu’elle était la directrice, qu’elle lui disait quoi faire, qu’elle avait une grande expérience dans l’industrie de la restauration rapide et qu’il n’avait aucune expérience dans ce domaine. Dans la description des tâches de M. Lalande par ce dernier et Mme Mulder à l’alinéa3a) des questionnaires qu’ils ont respectivement remplis (c.­à­d., pièces R­3 etR­4), aucun d’entre eux ne fait référence à des responsabilités de gestion. Il semble donc que, même si M. Lalande assumait certaines fonctions de supervision ou de gestion, ses responsabilités de gestion n’étaient pas aussi importantes qu’il l’a laissé entendre dans son témoignage.
+[53] Selon les questionnaires remplis par M. Lalande et Mme Mulder, le ministre a compris que M. Lalande devait « pointer » et travailler de 8 h 30 à 16 h les lundis, jeudis et vendredis, et de 8 h 30 à 14 h les mardis et mercredis[20]. Cet horaire équivaut à 33,5 heures de travail « pointées » par semaine ou, comme M. Lalande avait droit à une pause non payée d’une demi­heure par jour (lorsqu’il n’était pas « en service »), à 31 heures de travail « pointées » par semaine. La preuve est quelque peu confuse à cet égard, plus particulièrement parce dans leurs réponses aux questionnaires, M. Lalande et Mme Mulder indiquent que M. Lalande devait travailler 33 heures « pointées » par semaine. Néanmoins, même si M. Lalande devait travailler 31, 33 ou 33,5 heures « pointées » par semaine, il ne l’a pas fait régulièrement[21].
+[54] L’annexe jointe aux présents motifs analyse les heures « pointées » exigées et réelles chaque semaine durant la période visée par la décision, comme ces semaines sont établies dans les rapports sommaires de la paye (ou feuilles de temps) à la pièce R­7. L’annexe porte sur le nombre d’heures « pointées » que M. Lalande devait travailler durant une semaine donnée et sur le nombre d’heures « pointées » réel qu’il a travaillées durant cette même semaine. La troisième colonne de cette annexe montre le nombre d’heures « pointées » qui était exigé chaque semaine. Dans une semaine courante de cinq jours, M. Lalande aurait été tenu de travailler 31, 33, ou 33,5 heures pointées, selon la perception qu’on a de la preuve présentée. Dans une semaine de moins de cinq jours de travail, le nombre exigé d’heures pointées aurait été moindre et aurait dépendu des jours de travail de M. Lalande (comme il devait travailler deux heures de plus les lundis, jeudis et vendredis que les mardis et mercredis). La quatrième colonne de l’annexe montre le nombre réel d’heures « pointées » travaillées chaque semaine par M. Lalande, comme il est établi à la pièce R­7. La cinquième colonne de l’annexe indique si M. Lalande a atteint le nombre d’heures « pointées » exigées chaque semaine. L’examen de cette colonne révèle que, plus particulièrement vers la fin de l’année en question, le nombre d’heures « pointées » réellement travaillées par M. Lalande était fréquemment inférieur au nombre d’heures « pointées » exigées. À mon avis, dans une relation de travail sans lien de dépendance, il est peu probable qu’un employeur accepte qu’un employé travaille fréquemment un nombre d’heures moindre que ce qui est exigé.
+[55] Bien que la société dispose d’un système évolué pour faire le suivi des heures de travail de ses employés, y compris celles de M. Lalande, pendant les heures d’ouverture du restaurant, il n’y avait pas de système pour faire le suivi des heures de travail de M. Lalande à l’extérieur du restaurant (lorsqu’il allait à la banque ou qu’il ramassait des fournitures) ou lorsqu’il faisait des réparations durant les heures de fermeture du restaurant. L’absence d’un système de suivi, ou du moins d’un registre, des heures de travail de M. Lalande dans ces circonstances pourrait suggérer qu’il y avait un contrat de travail avec lien de dépendance[22].
+[56] Le ministre a présumé que la société versait à M. Lalande, en moyenne, 28,52 $ l’heure[23]. Comme il a été susmentionné, M. Lalande et Mme Mulder ont présenté des preuves m’ayant convaincu que le salaire moyen de M. Lalande était inférieur à 28,52 $ l’heure; toutefois, comme M. Lalande a réellement travaillé un nombre d’heures « pointées » inférieur à ce qui est exigé, tel qu’il est établi à l’annexe des présents motifs, même si l’on accepte que M. Lalande ait travaillé de 7 à 10 heures « non pointées » additionnelles chaque semaine durant sa période d’emploi, son salaire moyen aurait tout de même été supérieur à 20 $ l’heure[24]. Comme je suis d’avis que le salaire horaire moyen de M. Lalande était supérieur à 20 $ (salaire qui, selon M. Lalande et Mme Mulder, est un salaire horaire courant pour un gérant de restaurant), je n’en demeure pas moins convaincu que la conclusion du ministre était raisonnable, c’est­à­dire que le contrat de travail M. Lalande n’aurait pas été conclu par des parties sans lien de dépendance.
+[57] Le ministre a présumé que,[25] et la preuve le confirme, après la mise à pied de M. Lalande, la société ne l’a pas remplacé par un autre employé. Ce sont plutôt Mme Mulder et des sous­traitants qui ont assumé les anciennes tâches de M. Lalande. Le fait que M. Lalande n’a pas été remplacé par la société laisse supposer que son travail n’était pas essentiel au fonctionnement de la société, ce qui, en outre, vient appuyer la conclusion du ministre comme quoi des parties sans lien de dépendance n’auraient pas conclu de contrat de travail comportant des modalités, des conditions et des circonstances semblables à celles du contrat de travail de M. Lalande[26].
+[58] Le ministre a présumé,[27] et la preuve le confirme, que la société a versé une paye de vacances à M. Lalande, comme elle l’a fait pour les ses autres employés. Bien que cet élément indique une relation de travail sans lien de dépendance,[28] je suis d’avis qu’il ne l’emporte pas sur les autres facteurs susmentionnés, lesquels appuient le caractère raisonnable de la décision du ministre.
+G. Résumé [59] En résumé, et comme il est indiqué ci­dessus, à la lumière des preuves, mon avis est le suivant :
+(a) Les faits présentés dans les témoignages et les preuves écrites ainsi que les hypothèses de fait non réfutées par M. Lalande et Mme Mulder suffisent à appuyer la détermination et la conclusion du ministre selon lesquelles, en tenant compte de toutes les circonstances d’emploi de M. Lalande, la société et M. Lalande n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+(b) La conclusion dont le ministre est convaincu (pour l’application de l’alinéa 5(3)b) de la LAE), était raisonnable.
+(c) Il n’y a aucun fondement me permettant d’en arriver à une conclusion différente de celle du ministre.
+IV. Conclusion [60] Par conséquent, l’alinéa 5(3)b) de la LAE ne s’applique pas de façon à juger que la société et M. Lalande n’avaient pas de lien de dépendance. En conséquence, aux termes de l’alinéa 5(2)i) de la LAE, l’emploi de M. Lalande pour la société du 5 mai 2013 au 4 mai 2014 n’était pas un emploi assurable. L’appel de M. Lalande est donc rejeté et la décision est confirmée.
+V. Remboursement des primes [61] Au cinquième paragraphe de la décision, l’ARC a informé M. Lalande qu’il pourrait avoir droit au remboursement des primes qu’il a versées au titre de la LAE. Aussi, dans la lettre non datée envoyée par l’ARC à la société, conjointement à la décision, l’ARC a informé la société qu’elle pourrait avoir droit au remboursement des primes qu’elle a versées au titre de la LAE. Si M. Lalande et la société n’ont pas déjà demandé ces remboursements et décident de le faire, j’ai confiance que l’ARC travaillera de bonne foi avec M. Lalande et la société pour traiter ces demandes de remboursement.
+Signé à Ottawa (Canada), ce 4e jour de février 2016.
+« Don R. Sommerfeldt »
+Juge Sommerfeldt
+ANNEXE
+Analyse des heures « pointées »
+Numéro de la semaine
+Dates de la semaine
+Heures exigées
+Heures travaillées
+Analyse
+1
+04/29/2013­05/06/2013
+31/33/33,5
+28,39
+Moins de 31
+2
+05/06/2014­05/13/2013
+s.o.
+s.o.
+s.o.
+3
+05/13/2013­05/20/2013
+24/26
+(4 jours)
+23,46
+Moins de 24
+4
+05/20/2013­05/27/2013
+24/26
+(4 jours + 1 férié)
+20,63
+Moins de 24
+5
+05/27/2013­06/03/2013
+31/33/33,5
+29,85
+Moins de 31
+6
+06/03/2013­06/10/2013
+31/33/33,5
+28,00
+Moins de 31
+7
+06/10/2013­06/17/2013
+31/33/33,5
+30,71
+Moins de 31
+8
+06/17/2013­06/24/2013
+31/33/33,5
+32,26
+Plus de 31
+Moins de 33
+9
+06/24/2013­07/01/2013
+17/18,5
+(3 jours)
+19,30
+Plus de 18,5
+10
+07/01/2013­07/08/2013
+31/33/33,5
+(7 jours)
+37,82
+Plus de 33,5
+11
+07/08/2013­07/15/2013
+31/33/33,5
+35,91
+Plus de 33,5
+12
+07/15/2013­07/22/2013
+31/33/33,5
+30,92
+Moins de 31
+13
+07/22/2013­07/29/2013
+31/33/33,5
+31,60
+Plus de 31
+Moins de 33
+14
+07/29/2013­08/05/2013
+31/33/33,5
+30,53
+Moins de 31
+15
+08/05/2013­08/12/2013
+24/26
+(4 jours + 1 férié)
+25,82
+Plus de 24
+Moins de 26
+16
+08/12/2013­08/19/2013
+31/33/33,5
+30,19
+Moins de 31
+17
+08/19/2013­08/26/2013
+31/33/33,5
+30,69
+Moins de 31
+18
+08/26/2013­09/02/2013
+31/33/33,5
+29,76
+Moins de 31
+19
+09/02/2013­09/09/2013
+17/18,5
+(3 jours + 1 férié)
+15,62
+Moins de 17
+20
+09/09/2013­09/16/2013
+31/33/33,5
+31,50
+Plus de 31
+Moins de 33
+21
+09/16/2013­09/23/2013
+31/33/33,5
+31,79
+Plus de 31
+Moins de 33
+22
+09/23/2013­09/30/2013
+31/33/33,5
+30,71
+Moins de 31
+23
+09/30/2013­10/07/2013
+31/33/33,5
+33,24
+Plus de 33
+Moins de 33,5
+24
+10/07/2013­10/14/2013
+31/33/33,5
+(6 jours)
+33,21
+Plus de 33
+Moins de 33,5
+25
+10/14/2013­10/21/2013
+24/26
+(4 jours + 1 férié)
+24,89
+Plus de 24
+Moins de 26
+26
+10/21/2013­10/28/2013
+31/33/33,5
+31,50
+Plus de 31
+Moins de 33
+27
+10/28/2013­11/04/2013
+26/28
+(4 jours)
+25,48
+Moins de 26
+28
+11/04/2013­11/11/2013
+31/33/33,5
+30,45
+Moins de 31
+29
+11/11/2013­11/18/2013
+31/33/33,5
+31,12
+Plus de 31
+Moins de 33
+30
+11/18/2013­11/25/2013
+26/28
+(4 jours)
+26,84
+Plus de 26
+Moins de 28
+31
+11/25/2013­12/02/2015
+24/26
+(4 jours)
+22,09
+Moins de 24
+32
+12/02/2015­12/09/2013
+31/33/33,5
+30,68
+Moins de 31
+33
+12/09/2013­12/16/2013
+31/33/33,5
+29,70
+Moins de 31
+34
+12/16/2013­12/23/2013
+31/33/33,5
+28,99
+Moins de 31
+35
+12/23/2013­12/30/2013
+14/15
+(2 jours + 2 fériés)
+7,88
+Moins de 14
+36
+12/30/2013­01/06/2014
+21/22,5
+(3 jours + 1 férié)
+16,65
+Moins de 21
+37
+01/06/2014­01/13/2014
+31/33/33,5
+32,60
+Plus de 31
+Moins de 33
+38
+01/13/2014­01/20/2014
+31/33/33,5
+29,96
+Moins de 31
+39
+01/20/2014­01/27/2014
+26/28
+(4 jours)
+22,99
+Moins de 26
+40
+01/27/2014­02/03/2014
+26/28
+(4 jours)
+26,05
+Plus de 26
+Moins de 28
+41
+02/03/2014­02/10/2014
+31/33/33,5
+28,21
+Moins de 31
+42
+02/10/2014­02/17/2014
+31/33/33,5
+29,06
+Moins de 31
+43
+02/17/2014­02/24/2014
+24/26
+(4 jours + 1 férié)
+21,84
+Moins de 24
+44
+02/24/2014­03/03/2014
+31/33/33,5
+27,66
+Moins de 31
+45
+03/03/2014­03/10/2014
+31/33/33,5
+23,98
+Moins de 31
+46
+03/10/2014­03/17/2014
+26/28
+(4 jours)
+24,18
+Moins de 26
+47
+03/17/2014­03/24/2014
+31/33/33,5
+27,49
+Moins de 31
+48
+03/24/2014­03/31/2014
+31/33/33,5
+28,99
+Moins de 31
+49
+03/31/2014­04/07/2014
+31/33/33,5
+29,38
+Moins de 31
+50
+04/07/2014­04/14/2014
+31/33/33,5
+29,72
+Moins de 31
+51
+04/14/2014­04/21/2014
+24/26
+(4 jours + 1 férié)
+21,45
+Moins de 24
+52
+04/21/2014­04/28/2014
+31/33/33,5
+28,88
+Moins de 31
+53
+04/28/2014­05/05/2014
+31/33/33,5
+26,93
+Moins de 31
+Total
+1 437,55
+RÉFÉRENCE :
+2016 CCI 33
+NO DU DOSSIER DE LA COUR :
+2015­207(EI)
+INTITULÉ :
+CHRISTIAN LALANDE ET LE MINISTRE DU REVENU NATIONAL ET 2210066 ONTARIO INC.
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 2 novembre 2015
+MOTIFS DE JUGEMENT :
+L’honorable juge Don R. Sommerfeldt
+DATE DU JUGEMENT :
+Le 4 février 2016
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui­même
+Avocate de l’intimé :
+Me Kira Caceres
+Représentante de l’appelant :
+Patricia Mulder Lalande
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé :
+William F. Pentney
+Sous­procureur général du Canada
+Ottawa, Canada
+[1] Selon certains documents de la société, déposés comme pièce R­1, le nom de l’épouse de M. Lalande est « Patricia Mulder Lalande »; toutefois, lors de son témoignage de vive voix, elle a indiqué qu’elle se présentait généralement sous le nom de « Patricia Mulder ». Dans les présents motifs, je la désignerai donc sous le nom « Mme Mulder ».
+[2] Dans les présents motifs, je désignerai les actions ordinaires de catégorie A à droit de vote et les actions spéciales de catégorie C à droit de vote, qu’elles aient été émises au moment de la constitution en personne morale de la société ou ultérieurement, comme les « actions de catégorie A » et les « actions de catégorie C », respectivement.
+[3] Voir l’alinéa 5(2)d) de la LAE.
+[4] Cette décision a probablement été émise en vertu des articles 90 ou 90.1 de la LAE.
+[5] Une copie de la lettre datée du 9 juin 2014 envoyée par l’ARC à M. Lalande a été déposée comme pièce R­5.
+[6] Une copie de la lettre datée du 9 juin 2014 envoyée par l’ARC à la société a été déposée comme pièce R­10.
+[7] Voir l’article 91 de la LAE.
+[8] Voir le paragraphe 93(3) de la LAE.
+[9] Voir le paragraphe 103(1) de la LAE.
+[10] Voir le paragraphe 9(1) des Règles de procédure de la Cour canadienne de l’impôt à l’égard de la Loi sur l’assurance­emploi.
+[11] Par exemple, voir Tignish Auto Parts Inc. c. MRN [1994] DCAF 3460­01, 185 NR 73 (CAF) et Procureur général du Canada c. Jencan Ltd., (1997) 215 NR 352, [1998] 1 RFC 187 (CAF).
+[12] Légaré c. MRN, (1999) 246 NR 176 (CAF), paragraphe 4.
+[13] Pérusse c. MRN, (2000) 261 NR 150 (CAF), paragraphe 14. Au paragraphe 14 de l’arrêt Pérusse, en plus de rejeter l’approche précédente, le juge Marceau a aussi cité le paragraphe 4 de l’arrêt Légaré.
+[14] Pérusse, ibid., paragraphe 15.
+[15] Guillemette c. MRN, 2015 CCI 6, paragraphe 50. Les autres décisions de la Cour dans lesquelles on a fait référence au paragraphe 4 de l’arrêt Légaré ou aux paragraphes 14 ou 15 de l’arrêt Pérusse sont notamment Birkland c. MRN, 2005 CCI 291, paragraphe 3; Porter c. MRN, 2005 CCI 364, paragraphes 11­12; Tremblay c. MRN, 2006 CCI 113, paragraphes 28­29; Yahyaoui c. MRN, 2007 CCI 392, paragraphes 18­19; Huntley c. MRN, 2010 CCI 625, paragraphes 27­28. Voir aussi Le Livreur Plus Inc. c. MRN, 2004 CAF 68, paragraphe 13.
+[16] Le Livreur Plus Inc. c. MRN, 2004 CAF 68, paragraphe 12. Voir aussi Porter c. MRN, 2005 CCI 364, paragraphe 12; et Lelièvre & Falardeau c. MRN, 2003 CCI 55, paragraphe 6.
+[17] L’hypothèse formulée à l’alinéa 8jj) de la réponse comporte une anomalie. La période visée par la décision a commencé le 5 mai 2013 et a pris fin le 4 mai 2014. Il s’agit de la période sur laquelle le ministre s’est fondé pour présumer que M. Lalande avait travaillé 1 437,55 heures. Toutefois, les feuilles de temps examinées par le ministre ne couvraient en fait que la période du 29 avril 2013 au 5 mai 2014. Je ne crois pas que cette anomalie ait une grande incidence sur mon analyse.
+[18] M. Lalande et Mme Mulder ont déclaré qu’un gérant de restaurant était habituellement rémunéré 20 $ l’heure.
+[19] Voir l’alinéa 8g) de la réponse.
+[20] Voir l’alinéa 8x) de la réponse.
+[21] Aux alinéas 8ii), jj) et kk) de la réponse, le ministre a présumé que le nombre d’heures de travail de M. Lalande variait d’une semaine à l’autre, qu’il avait travaillé un total de 1 437,55 heures durant l’année en question et que, en moyenne, il avait travaillé 27,64 heures par semaine durant cette même année. Il est à noter que le nombre moyen d’heures réellement « pointées » par semaine, c.­à­d., 27,64 heures, est beaucoup moindre que le nombre d’heures « pointées » exigé par semaine, que M. Lalande ait travaillé 31, 33 ou 33,5 heures « pointées » par semaine.
+[22] Voir l’arrêt Porter, précité, note 15, paragraphe 24, dans lequel la Cour s’est prononcée (dans une situation où le nombre d’heures de travail effectuées était plus important que le nombre d’heures de travail indiqué) au sujet de l’importance pour un employeur de mettre en place un système de suivi des heures de travail effectuées par un employé non lié, suggérant que cela indique une relation de travail sans lien de dépendance.
+[23] Voir le paragraphe 8(11) de la réponse.
+[24] Durant l’année en question, M. Lalande a travaillé 1 437,55 heures « pointées » (voir l’annexe des présents motifs). S’il avait travaillé 7 heures « non pointées » par semaine, son nombre total d’heures pour l’année aurait été de 1 801,55 (1 437,55 + [7 x 52]), et son salaire horaire moyen aurait été de 22,20 $ (40 000 $ ÷ 1 801,55). S’il avait travaillé 10 heures « non pointées » par semaine, son nombre total d’heures pour l’année aurait été de 1 957,55 (1 437,55 + [10 x 52]), et son salaire horaire moyen aurait été de 20,43 $ (40 000 $ ÷ 1 957,55). Il convient aussi de noter que, comme il en a été question précédemment, je ne suis pas convaincu que M. Lalande a travaillé de 7 à 10 heures non pointées chaque semaine durant l’année en question.
+[25] Voir l’alinéa 8ddd) de la réponse.
+[26] Voir l’arrêt Porter, précité, note 15, paragraphe 22; l’arrêt Yahyaoui c. MRN, 2007 CCI 392, paragraphe 14; l’arrêt Fitzgerald c. MRN, 2008 CCI 552, paragraphes 14 et 20; l’arrêt Johnson c. MRN, 2011 CCI 501, paragraphes 22 et 26.
+[27] Voir l’alinéa 8ss) de la réponse.
+[28] Voir l’arrêt Huntley, précité, note 15, paragraphe 34.

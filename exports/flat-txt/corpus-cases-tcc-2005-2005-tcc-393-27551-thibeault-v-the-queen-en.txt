@@ -1,0 +1,226 @@
+Title: Thibeault v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27551/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-393-27551-thibeault-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-06-30
+
+# Thibeault v. The Queen
+
+- Citation: 2005 TCC 393
+- Decision date: 2005-06-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 113, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thibeault v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-30
+Neutral citation
+2005 TCC 393
+File numbers
+2003-1473(GST)I
+Judges and Taxing Officers
+Pierre R. Dussault
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003‑1473(GST)I
+BETWEEN:
+SYLVIO THIBEAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 12, 2004, and May 30, 2005, at Québec, Quebec.
+Before: The Honourable Judge Pierre R. Dussault
+Appearances:
+Counsel for the Appellant:
+Robert Cardinal
+Counsel for the Respondent:
+Philippe Morin
+____________________________________________________________________
+JUDGMENT
+The appeal from an assessment made under Part IX of the Excise Tax Act on August 31, 2000, bearing number PQ‑2000‑5279, is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of June 2005.
+"P.R. Dussault"
+Dussault J.
+Translation certified true
+on this 14th day of March, 2006.
+Garth McLeod, Translator
+Citation: 2005TCC393
+Date: 20050630
+Docket: 2003‑1473(GST)I
+BETWEEN:
+SYLVIO THIBEAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Dussault J.
+[1] This is an appeal from an assessment made under section 323 of the Excise Tax Act, Part IX (the "Act"), against the Appellant, as a director, for an amount of $15,730.15, representing the goods and services tax (the "GST") collected but not remitted by Société Recherches et Travaux Maritimes R.T.M. Inc. (the "corporation" or "R.T.M.") for the period from May 1 to July 31, 1998. This amount includes interest and penalties to the date of the assessment, August 31, 2000.
+[2] In assessing the Appellant, the Minister of National Revenue (the "Minister") relied on the findings and assumptions of fact stated in subparagraphs 10(a) to (j) of the Amended Reply to the Notice of Appeal. Those subparagraphs read as follows:[1]
+[TRANSLATION]
+(a) In 1998, the Appellant was the sole director of Société Recherches et Travaux Maritimes R.T.M. Inc. (hereinafter "the corporation").
+(b) In 1998, the corporation was registered for GST purposes.
+(c) (...) After Société Recherches et Travaux Maritimes R.T.M. Inc. filed its tax return for the period from May 1 to July 31, 1998, it was found that the corporation had collected GST of $12,646.51 without remitting it to the Respondent during that period (...).
+(i) On March 22, 1999, a notice of assessment bearing number 863931 was then issued against Société Recherches et Travaux Maritimes R.T.M. Inc. in the amount of $13,417.53, including the unremitted tax of $12,646.51 plus penalties and interest for the period from May 1 to July 31, 1998.
+(ii) On January 28, 2000, following an audit of Société Recherches et Travaux Maritimes R.T.M. Inc., adjustments of $63,618.54 were added to the net tax for the period from September 1, 1995, to July 31, 1998, and a notice of assessment bearing number 9213956 was issued against Société Recherches et Travaux Maritimes R.T.M. Inc.
+(iii) Following a second audit of Société Recherches et Travaux Maritimes R.T.M. Inc., an amount of $100,048.33 was added to the net tax, and a notice of assessment bearing number 203377 was issued against the corporation on July 7, 2000, for the period from November 1, 1995, to July 31, 1998.
+(d) On July 7, 2000, the corporation assigned its assets under the Bankruptcy and Insolvency Act.
+(e) Although the Respondent filed a proof of claim on August 31 and September 21, 2000, that is, within six months of the date of the bankruptcy of the corporation, her claim was never paid in full.
+(i) On August 31, 2000, the Minister of National Revenue (the "Minister") assessed the Appellant under section 323 of the Excise Tax Act for a total of $15,730.15, representing G.S.T. of $12,646.51 collected but not remitted for the period from May 1 to July 31, 1998, plus penalties and interest, as stated in the notice of assessment bearing number PQ‑2000‑5279.
+(ii) In addition, on September 28, 2000, the Minister of National Revenue assessed the Appellant under section 323 of the Excise Tax Act for a total of $146,833.87, representing the G.S.T. determined from the two audits, plus interest and penalties, for the period from November 1, 1995, to July 31, 1998, as stated in the notice of assessment bearing number PQ‑2000‑5326.
+(iii) Upon the filing of the supporting documentation from Société Recherches et Travaux Maritimes R.T.M. Inc., the notices of assessment issued against the corporation following the two audits, bearing numbers 9213956 and 203377, were vacated on January 5 and 12, 2001 respectively, by the notices of assessment bearing numbers 203649 and 203671.
+(iv) On January 16, 2001, further to the issuing of the two notices of assessment bearing numbers 203649 and 203671, the Minister issued a notice of assessment bearing number PQ‑2001‑5553 in the Appellant's name cancelling the notice of assessment of September 28, 2000, bearing number PQ‑2000‑5326, and issued under section 323 of the Excise Tax Act.
+(v) At no time did the Respondent vacate the notice of assessment bearing number 863931 issued against Société Recherches et Travaux Maritimes R.T.M. Inc. on March 22, 1999, since the amount of GST of $12,646.51 had been collected by the corporation but not remitted to the Respondent, as seen from the corporation's return of income of August 28, 1998, covering the period from May 1 to July 31, 1998.
+(vi) Furthermore, the Respondent never cancelled the notice of assessment of August 31, 2000, bearing number PQ‑2000‑5279, which was issued against the Appellant under section 323 of the Excise Tax Act and is the subject of the instant case.
+(f) The Appellant was a director of the corporation during the periods when the corporation was required to remit the net tax to the Respondent.
+(g) Despite the fact that he was replaced on the board of directors of Société Recherches et Travaux Maritimes R.T.M. Inc. by 9043‑1925 Québec Inc., operating under the trade name "Victor Management", the Appellant was still a director of the corporation during the periods when the corporation was required to remit the net tax to the Respondent.
+(h) The Appellant controls 9043‑1925 Québec Inc., operating under the trade name "Victor Management", since he is the sole director and shareholder of that company and, as such, acted as a director of Société Recherches et Travaux Maritimes R.T.M. Inc. through other corporations.
+(i) As a director of the corporation, the Appellant did not exercise the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+(j) In particular, the Appellant took no concrete and positive steps to prevent the failures of the corporation.
+[3] Counsel for the Appellant contends that the assessment must be vacated, relying on a number of arguments. I summarize his claims as follows:
+· R.T.M.'s debt is non-existent, since it was cancelled by subsequent assessments;
+· The Minister did not file proof of claim with R.T.M.'s trustee in bankruptcy within six months following the assignment, as required by paragraph 323(2)(c) of the Act;
+· The Appellant was no longer a director of R.T.M. at the time it was required to remit the amount in issue;
+· If it were found that the Appellant was still a director, he exercised reasonable care within the meaning of subsection 323(3) of the Act.
+[4] Since a number of assessments are in issue in the instant case, following, for reasons of convenience, is a table providing details on the various assessments. Below, I will refer to each assessment using the name stated in the first column.
+Date of notice of assessment
+Number of notice of assessment
+Period covered
+Exhibit filed in evidence
+First assessment
+March 22, 1999
+863931
+May 1, 1998 to July 31, 1998
+Exhibit I‑6, Tab 5
+Second assessment
+(vacated by sixth assessment)
+January 28, 2000
+9213956
+September 1, 1995, to July 31, 1998
+Exhibit I‑6, Tab 6
+Third assessment
+(vacated by seventh assessment)
+July 7, 2000
+203377
+November 1, 1995, to July 31, 1998
+Exhibit I‑6, Tab 7
+Fourth assessment
+August 31, 2000
+PQ‑2000‑5279
+May 1 to July 31, 1998
+Exhibit I‑6, Tab 1
+Fifth assessment
+(vacated by eighth assessment)
+September 28, 2000
+PQ‑2000‑5326
+November 1, 1995, to July 31, 1998
+Exhibit I‑6, Tab 9
+Sixth assessment
+(vacated by second assessment)
+January 5, 2001
+203649
+September 1, 1995, to July 31, 1998
+Exhibit I‑6, Tab 10
+(page 1)
+Seventh assessment
+(vacated by third assessment)
+January 12, 2001
+203671
+November 1, 1995, to July 31, 1998
+Exhibit I‑6, Tab 10
+(page 2)
+eighth assessment
+(vacated by fifth assessment)
+January 16, 2001
+PQ‑2001‑5553
+November 1, 1995, to July 31, 1998
+Exhibit I‑6, Tab 11
+[5] The Appellant testified, as did Bertrand Lemieux and Pierre Magnan, auditor and tax collections officer, respectively, at Quebec's Ministry of Revenue.
+[6] R.T.M. was incorporated under the Canada Business Corporations Act on August 24, 1995. The Appellant was initially its principal shareholder and sole director. In 1996, 9043‑1925 Québec Inc., doing business under the trade name Victor Management ("Victor Management"), was appointed director, and the Appellant ceased to be a director in 1997 (Exhibits I‑5 and I‑6, Tab 13).
+[7] In his testimony, the Appellant stated that he was in a conflict‑of‑interest situation since he was both a director and creditor of R.T.M., and that that was why he had resigned from his position as director. A lawyer named Yvon Chouinard was appointed director and secretary of Victor Management.
+[8] Despite resigning as director and the fact that he then gave himself the title of general manager, the Appellant admitted that he still managed and controlled R.T.M. in 1998, negotiated with banks and signed contracts and other documents for the corporation (Exhibits I‑8, I‑10 and I‑11).
+[9] The Appellant was always the only person authorized to sign the corporation's cheques.
+[10] The Appellant said that R.T.M. was heavily indebted and that he himself had invested in the form of capital stock and that he had lent funds to the corporation. In 1997, R.T.M. was already experiencing difficulties. In January or February of that year, the Appellant had the corporation's debts assigned to him under a deed of trust that guaranteed his loans. In 1998, and more particularly during the period from May 1 to July 31, R.T.M.'s situation was critical. According to the Appellant, the corporation was short of cash and was delinquent in repaying the loans that it had taken out, in particular with CIBC. The Appellant stated that he himself had advanced funds in 1998 to pay salaries. R.T.M. was also waiting for a contract to be signed for the sale of eight ships in the Ivory Coast and to obtain the necessary financing and guarantees for that transaction. The Appellant said that R.T.M. had needed an additional $1,000,000 at that time in order to restart his business, but the banks did not seem interested in lending more, in view of the corporation's already precarious situation.
+[11] The Appellant said that R.T.M. ceased operations in June 1998. The corporation had claimed scientific research and experimental development credits, at both the provincial and federal levels, in respect of new marine products. The credits had been allowed by the Government of Quebec. At the federal level, authorities were preparing to reduce the credits claimed in respect of a major project by 50 percent. However, according to the Appellant, R.T.M. was still expecting to receive an amount of money from the federal government.
+[12] It was in this context that the GST return for the period from May 1 to July 31, 1998, was filed by the corporation's accountant on August 27, 1998 (Exhibit I‑6, Tab 4).
+[13] That return shows net GST and PST payable of $12,646.51. However, no amount was paid at the time the return was filed. The Appellant stated that the corporation was still waiting to receive federal credits at that time and that it was trying to ensure that everyone received what was owed him.
+[14] The federal credits were received in the fall of 1998. The cheque was deposited at the CIBC, and the amount was allocated to repayment of the loans granted by it under a loan guarantee agreement from the Société de développement industriel (SDI). The contract for the sale of ships in the Ivory Coast was never signed, and R.T.M. was unable to restart its business. According to the Appellant, on March 22, 1999, that is when the first assessment was made, the corporation was no longer active. The first notice of assessment states that the net tax was $12,646.51, the interest $342.79 and the penalty $428.23. The Appellant stated that it was possible that the notice of assessment had been received by the corporation and that it had simply been sent back to the department, as other documents received after operations had ceased. As to the tax owed for that period, the Appellant said that he believed it had never been paid. He stated that, in the past, R.T.M. had always filed its returns and paid the GST within the prescribed time period. R.T.M. ultimately assigned its assets on July 7, 2000. The Appellant said that the corporation had owed him approximately $200,000 at that time. He said that he had also lost certain securities given as collateral for a line of credit of the corporation (Exhibit I‑9).
+[15] Bertrand Lemieux testified on his audit of R.T.M. and the assessments made against the corporation.
+[16] Mr. Lemieux was assigned the R.T.M. case for audit in April 1999. In an initial telephone conversation with the Appellant in June 1999, he said the latter told him that he was no longer a director of R.T.M. and that he no longer had any documents. In addition, when he contacted the corporation's accountant, also in June 1999, she apparently asked him to postpone his audit until the fall, which he agreed to do. Following another telephone conversation with the Appellant in November 1999, Mr. Lemieux went to his office. During the meeting, the Appellant told him that the corporation was in serious financial difficulty, that he was more or less a director of the corporation and that all the corporation's documents requested for the audit had disappeared.
+[17] As R.T.M. had received substantial rebates as a result of large input tax credits received since the start of its operations, Mr. Lemieux decided to assess R.T.M. for the amount of the rebates obtained, since no invoices could be produced to justify those rebates. According to Mr. Lemieux, a draft assessment was then sent to the corporation and was simply returned to the department. As there had been no discussion with anyone, Mr. Lemieux proceeded with the second assessment. The adjustments made totalled $63,618.54, plus interest and penalties. Exhibit I‑7, page 3, and Exhibit I‑14 show that this was the sum of the rebates obtained by R.T.M. for the following annual periods:
+November 1, 1995, to January 31, 1996: $13,649.98
+February 1, 1996, to January 31, 1997: $27,130.64
+February 1, 1997, to January 31, 1998: $22,837.92
+Total: $63,618.54
+[18] In his testimony, Mr. Lemieux explained that this second assessment did not reflect the net tax payable of $12,646.51 for the quarter ended July 31, 1998, which was still in arrears, as stated on page 3 of Exhibit I‑7. He said that the amount had been reported by R.T.M. but not paid, such that it became a matter for collections. I would point out that the second notice of assessment does not in any way state that it concerns an additional assessment rather than a reassessment. As Mr. Lemieux had obtained no documents from R.T.M. or any news from the corporation after the second notice of assessment had been sent, he decided, after discussing the matter with his supervisor and with collections management, to assess R.T.M. a third time for the total amount of the input tax credits claimed, not only for those that had resulted in the rebates totalling $63,618.54.
+[19] A reassessment was therefore made. The third notice of assessment states that adjustments of $100,048.33 had been made to the net tax reported following the audit. It states that the amount owed is $133,803.68, including interest of $14,396.71 and penalties of $19,358.64. In his testimony, Mr. Lemieux explained that these adjustments were in addition to those previously made by the second assessment. Thus, the total adjustments of $163,666.87 were the subject of two separate assessments, both of which, however, excluded the amount of $12,646.51 in arrears for the period ended July 31, 1998 (Exhibit I‑7, page 3, and Exhibit I‑14). I would also point out here that the third notice of assessment does not in any way state that it concerns an additional assessment and not a reassessment.
+[20] Mr. Lemieux admitted that the third notice of assessment had not been mailed to R.T.M., but had been sent to the Collections section, since the previous notice had been returned to the department. However, he stated that he had learned, it is not really known when, that a notice of objection had been received on April 17, 2000.
+[21] Exhibit A‑1 shows the same amounts of interest and penalties as those stated in the third notice of assessment. However, it shows two dates: July 7, 2000 and September 20, 2000. Mr. Lemieux said that the interest and penalties had indeed been calculated to July 7, 2000, only, and not to September 20, 2000. He said he did not know why the document stated September 20, 2000. He reiterated that the second and third assessments did not include the $12,646.41 amount in arrears.
+[22] The Appellant himself was the subject of the fourth assessment, in the amount of $15,730.15.
+[23] The fifth assessment was a reassessment of the Appellant. As will be seen, one of the claims of counsel for the Appellant is that this assessment included the $133,803.68 amount claimed from R.T.M. in the third assessment, which was apparently made on July 7, 2000, but in which, he said, interest and penalties had been calculated to September 20 of that year. According to counsel for the Appellant, that assessment also included the $12,646.51 amount owed by R.T.M., as well as an additional amount for eight days of interest at the rate of 11.9674 percent. As regards this suggestion by counsel for the Appellant, Mr. Lemieux stated that he had never been consulted concerning the assessments made against the Appellant himself and that he could not explain the calculations made in support of the fifth assessment. It was purportedly not until December 1, 2000, that Mr. Lemieux was contacted by the objections unit and asked to proceed with a supplementary audit, since R.T.M.'s outside accountant, Alain St‑Arnaud, had informed the department that he had retaken possession of all the corporation's papers and supporting documentation, which, he said, the banks had kept until that point for audit purposes.
+[24] Mr. Lemieux said that he had then proceeded with another audit at the office of the accountant Ms. St‑Arnaud. As he found that all the documentation in support of the input tax credits was acceptable, he then made reassessments cancelling the two assessments made following his first audit. The sixth notice of assessment thus cancelled the second notice. The amount owed was nil. The seventh notice of assessment cancelled the third notice of assessment. The amount owed was nil.
+[25] I would point out here that the Appellant was also the subject of a reassessment. The eighth notice of assessment thus cancelled the fifth notice of assessment.
+[26] Pierre Magnan, a tax collections officer, explained the assessments made against the Appellant as a director of R.T.M. in respect of taxes collected and not remitted by it.
+[27] The fourth assessment was for an amount of $15,730.15, including interest and penalties to the date of the assessment. However, the notice mentions only the total amount of $15,730.15, which is described as "net tax". The calculation appears in Exhibit I‑15. The amount of unremitted tax was $12,646.51, as is moreover shown by R.T.M.'s return of August 27, 1997, signed by the corporation's accountant, Lyne St‑Arnaud (Exhibit I‑6, Tab 4). That amount should have been remitted at the time of the return, but never was. I would recall that R.T.M. had been assessed for that amount by the first notice of assessment.
+[28] The fifth assessment, against the Appellant, shows an amount of $146,833.87, which, here again, was simply described as "net tax". The explanation provided by Mr. Magnan is that that assessment did not reflect the $12,646.51 figure, the amount of tax on which the fourth assessment was based. On this point, he referred to Exhibits I‑7 and I‑15. Exhibit I‑15 shows that, for the period ended July 31, 1998, R.T.M. had collected GST of $15,864.23, that it was entitled to input tax credits of $3,217.72 and that the tax payable was $12,646.51. Those figures are consistent with the corporation's return for that period (Exhibit I‑6, Tab 4). Exhibit I‑7, page 1, clearly shows that the tax collected for that same period was $15,864.23, but only the input tax credit of $3,217.72 was considered in computing the total of $146,833.87, including interest and penalties.
+[29] According to Mr. Magnan, the table in Exhibit I‑7, on page 1, was prepared on the principle that a director can only be held liable for taxes collected but not remitted, plus interest and penalties. He said that only one calculation method reflecting this principle was used, contrary to the suggestion of counsel for the Appellant that two different methods were used to arrive at the stated total. However, he pointed out that remittances previously made by the corporation obviously had to be taken into account in order to arrive at the amount of tax collected but not remitted for each period. My understanding of the explanations provided is that the computations were made on the assumption that the corporation was entitled to no input tax credits, since it had been assessed for those amounts by the two assessments made following Mr. Lemieux's first audit, that is to say the second and third assessments. With respect to the third assessment, Mr. Magnan stated that the date of September 20, 2000, appearing in Exhibit A‑1, was only an indication of the date on which the data were entered into the system and that the interest and penalties stated in the notice of assessment and Exhibit A‑1 had in fact been calculated on July 7, 2000. He was unable to explain why the data had been entered so late.
+[30] Mr. Magnan further explained the breakdown of the fourth assessment, which was made against the Appellant. Although the notice of assessment states that the amount of $15,730.15 is "net tax", Exhibit I‑15 shows that the tax payable was $12,646.61, penalties were $1,555.41 and interest was $1,247.91 to July 8, 2000, the day following R.T.M.'s bankruptcy. Additional penalties of $140.54 and additional interest of $139.79 were added to August 31, 2000, the date of the assessment, for a total of $15,730.15.
+[31] The fifth assessment against the Appellant was vacated by the eighth assessment. It was vacated as a result of the vacating of the two assessments made against R.T.M. following Mr. Lemieux's second audit, of which he spoke in his testimony.
+[32] Mr. Magnan also testified on the proof of claim that the department sent R.T.M.'s trustee in bankruptcy, the firm of Robitaille Delisle & Associés. Mr. Magnan stated that a co‑worker, Martin Savard, had sent the trustee two proofs of claim, the first dated August 31, 2000, and the second September 21, 2000 (Exhibit I‑6, Tab 8). For the GST, the proof of claim of August 31 indicated an amount of $139,193.74, and that of September 21, an amount of $271,304.80. Exhibit I‑15 shows the calculations in support of the two proofs of claim. In both cases, it may be seen, for the period ended July 31, 1998, that the amount of tax reflected in the calculations, according to the return filed by the corporation, was $15,864.23, less input tax credits of $3,217.72, for a total of $12,646.51. That was precisely the amount of tax stated in support of the first and fourth assessments, details of which appear in Exhibit I‑15.
+[33] Counsel for the Appellant pointed out to Mr. Magnan that the proofs of claim filed in evidence (Exhibit I‑6, Tab 8) were incomplete, in that the first page containing Mr. Savard's affidavit was missing. Mr. Magnan then said that the page containing Mr. Savard's affidavit, signed by him, had in fact been sent to R.T.M.'s trustee in bankruptcy on the stated dates, that is on August 31, 2002 and September 21, 2000. Mr. Magnan then filed in evidence a copy of each of Mr. Savard's letters sent to the trustee with the proofs of claim (Exhibit I‑17). In spite of the objection raised by counsel for the Appellant, I decided to admit these letters in evidence since they support Mr. Magnan's testimony that the proofs of claim were indeed sent to the trustee on the stated dates.
+[34] Counsel for the Appellant disputes the fourth assessment, which was made against the Appellant. The first ground for objection is that the debt claimed is non-existent. On the one hand, he contends that the amount of the tax for the period ended July 31, 1998, which had been the subject of the first assessment, was included in the second and third assessments, both of which cover the period ending on the same date. However, those two assessments were subsequently vacated by the sixth and seventh assessments.
+[35] On the other hand, he contends that that same amount of $12,646.51, which was the subject of the fourth assessment, dated August 31, 2000, against the Appellant, was also included in the fifth assessment. However, the fifth assessment was vacated by the eighth assessment.
+[36] Counsel for the Appellant thus claims that the debt was cancelled with respect to both R.T.M. and the Appellant.
+[37] I disagree with these claims by counsel for the Appellant. Mr. Lemieux's testimony and the documents to which he referred (Exhibit I‑7, page 3, and Exhibit I‑14) show that the assessments made following his first audit were additional assessments. The second assessment essentially concerned the rebates obtained, whereas the third assessment concerned the input tax credits in excess of the rebates obtained. Neither of the two assessments included the amount of $12,646.51 owed by R.T.M. for the period from May 1 to July 31, 1998. It is true that the notices of those assessments do not state that both of them concerned additional assessments, which they should have stated. In any event, the assessments are not in dispute because of the failure to state the details of the calculations, and I find the explanations provided satisfactory on this point. Thus, neither of the additional assessments included the tax of $12,646.51 owed by R.T.M. and covered by the first assessment. They reflected only those additional amounts covered by the assessments that were vacated following Mr. Lemieux's second audit, when the corporation's accountant had retaken possession of the books, papers and supporting documentation showing that it was entitled to all the input tax credits claimed.
+[38] My finding is therefore that the amount of $12,646.51 included in the first assessment was never cancelled.
+[39] Mr. Magnan also explained the assessments made in respect of the Appellant. It appears from his testimony and the documents filed (Exhibit I‑15 and Exhibit I‑7, page 1) that the fifth assessment did not include the amount of $15,730.15, that is the net tax of $12,646.51 owed by the corporation for the period ended July 31, 1998, plus the interest and penalties stated in the fourth assessment (that is, the first assessment of the Appellant). Mr. Magnan showed that the amount of $146,833.87 did not correspond to the amount of $133,803.68 owed by R.T.M., as established by the third assessment, plus the amount of $12,646.51 and the additional interest for a period of eight days, from September 20 to 28, 2000, the date of the assessment, but rather to the total amount of taxes collected but not remitted by R.T.M., plus interest and penalties to September 28, 2000, following the assessments of the corporation after Mr. Lemieux's first audit. I would recall that, by those two assessments, all the input tax credits that had been claimed were thus eliminated in two stages. Furthermore, while this fact had to be taken into account for the purpose of computing the assessment of $146,833.87, it was also necessary to consider only the amount of tax collected and not remitted, that is to subtract the amount of taxes collected but not remitted by R.T.M., which is shown by Exhibit I‑7, page 1.
+[40] In addition, that same page clearly shows that only $3,217.72 of the total amount of $15,864.23 of tax collected was considered for the purpose of the calculations for the period ended July 31, 1998; the difference of $12,646.51, plus interest and penalties, that is, a total of $15,730.15, was the subject of the fourth assessment.
+[41] To accept the claim of counsel for the Appellant, the total of $15,730.15 would have had to be added to the amount of $133,803.68 owed by R.T.M. according to the third assessment. The additional interest and penalties to September 28, 2000, should also have been added. In that case, the amount of the assessment would not have been $146,833.87, but rather more than $149,500, which shows that this is not how the amount was computed. I therefore accept Mr. Magnan's explanation that the fifth assessment did not include the amount of $12,646.51, plus interest and penalties, that is, the total amount of $15,730.15 stated in the fourth assessment.
+[42] The fifth assessment was vacated by the eighth assessment. As the fifth assessment did not include the amount stated in the fourth assessment and that assessment was never vacated, it is therefore still valid.
+[43] The second argument advanced by counsel for the Appellant is that the Minister did not establish any proof of his claim in the six months following R.T.M.'s assignment, as required by paragraph 323(2)(c) of the Act.
+[44] Even though Mr. Magnan himself did not send the proofs of claim to the trustee following R.T.M.'s bankruptcy, his testimony and the documents filed in evidence, that is Exhibits I‑6, Tab 8, I‑16 and I‑17, have satisfied me on a balance of probabilities that the proofs of claim were indeed sent to the trustee on August 31, 2000 and September 21, 2000. I am also satisfied that those proofs of claim included the amount of $12,646.51 for tax owed for the period from May 1, 1998 to July 31, 1998, plus interest and penalties.
+[45] The third argument submitted by counsel for the Appellant is that the Appellant was no longer a director of R.T.M. in 1998, since he had resigned from his position in 1997 and been replaced by Victor Management. The Appellant explained the resignation by saying that, as a creditor and director, he was in conflict of interest. First, I must emphasize that paragraph 105(1)(c) of the Canada Business Corporations Act does not permit a corporation to be appointed as a director of a corporation governed by that act, which was the case of R.T.M. Thus, in my view, the appointment of Victor Management as a director of R.T.M. has no merit in law.
+[46] Furthermore, and this is the most important aspect for the purposes of the instant case, the Appellant stated in his testimony that, as general manager, he performed all managerial acts, gave instructions, signed contracts or other documents and assumed control. The Appellant was also the only person authorized to sign cheques. Thus, in spite of his resignation, it may readily be concluded that the Appellant remained a de facto director of R.T.M.
+[47] In Canada v. Corsano, [1999] 3 F.C. 173, [1999] F.C.J. No. 401, the Federal Court of Appeal held that section 227.1 of the Income Tax Act was applicable to both de facto and de jure directors. On this point, Létourneau J.A. wrote as follows, at paragraph 5 of that decision:
+5. Subsection 227.1(1) of the Act imposes liability on all the directors of a corporation who have failed to remit to Revenue Canada the sums due. The word "directors" in the said subsection is unrestricted and unqualified. It is a basic rule of legislative drafting, based on the corresponding rule of interpretation which conditions drafting, that the use of a generic word without restrictions or qualifications conveys the legislator's intention that the word be given a broad meaning. Here, by using the word "directors" without qualifications in subsection 227.1(1), Parliament intended the word to cover all types of directors known to the law in company law, including, amongst others, de jure and de facto directors.
+[48] Section 323 of the Act is similar to section 227.1 of the Income Tax Act and, in my view, must be interpreted as applying to both de facto and de jure directors.
+[49] As a de facto director, did the Appellant exercise the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in the same circumstances? His counsel contends that he did. And yet no evidence was adduced of any action in that direction. R.T.M. owed net tax of $12,646.51, which it was required to pay no later than August 31, 1998. The Appellant stated that R.T.M. had financial difficulties, that it was short of cash and that it was expecting to receive scientific research and experimental development credits from the federal government. Those credits were apparently received in the fall of 1998, and CIBC used the amount received in repayment of its loans. Furthermore, the Appellant also stated that R.T.M. had ceased operations in June 1998, but that it was still waiting for a contract to be signed for the sale of eight ships in the Ivory Coast. However, virtually nothing specific is known about R.T.M.'s financial position in August 1998 or about what the Appellant did or tried to do to prevent the failure to remit the tax collected. He merely said that he had tried to ensure that "everyone received what was owed to him." Having regard to the lack of evidence as to the nature of the specific, concrete actions taken by the Appellant to prevent the failure, it is simply impossible to conclude that he met the standard of care, diligence and skill set out in subsection 323(3) of the Act.
+[50] Accordingly, the appeal is dismissed.
+Signed at Ottawa, Canada, this 30th day of June 2005.
+"P.R. Dussault"
+Dussault J.
+Translation certified true
+on this 14th day of March, 2006.
+Garth McLeod, Translator
+CITATION: 2005TCC393
+COURT FILE NO.: 2003‑1473(GST)I
+STYLE OF CAUSE: Sylvio Thibeault and Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING : January 12, 2004, and May 30, 2005
+REASONS FOR JUDGMENT BY: The Honourable Judge Pierre R. Dussault
+DATE OF JUDGMENT: June 30, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Robert Cardinal
+Counsel for the Respondent:
+Philippe Morin
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Robert Cardinal
+Firm: Chouinard Cardinal
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] The underlined portions indicate the amendments made to the initial Reply.

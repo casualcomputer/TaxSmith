@@ -1,0 +1,281 @@
+---
+title: "Aubin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29545/index.do"
+last_modified: "2009-11-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 600"
+citation2: ""
+neutral_citation: "2009 CCI 600"
+decision_date: "2009-11-23"
+language: "fr"
+item_id: "29545"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6363
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:20:56.211000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a45ce4a0f797e4ba4af295dc3c1fd69ba50ff63668b8cb93d5d6e064992256fb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Aubin c. La Reine
+
+- Citation: 2009 CCI 600
+- Decision date: 2009-11-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6363, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aubin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-11-23
+Référence neutre
+2009 CCI 600
+Numéro de dossier
+2009-1371(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-1371(IT)I
+ENTRE :
+PAUL AUBIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Paul Aubin, 2009-1372(IT)I; 2009-1373(IT)I
+le 20 octobre 2009, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Daniel Gilbert
+Avocat de l’intimée :
+Me Simon Olivier de Launière
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l’année d’imposition 2004 est rejeté, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 23e jour de novembre 2009.
+« Paul Bédard »
+Juge Bédard
+Dossier : 2009-1372(IT)I
+ENTRE :
+PAUL AUBIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Paul Aubin, 2009-1371(IT)I; 2009-1373(IT)I
+le 20 octobre 2009, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Daniel Gilbert
+Avocat de l’intimée :
+Me Simon Olivier de Launière
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l’année d’imposition 2005 est rejeté, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 23e jour de novembre 2009.
+« Paul Bédard »
+Juge Bédard
+Dossier : 2009-1373(IT)I
+ENTRE :
+PAUL AUBIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Paul Aubin, 2009-1371(IT)I; 2009-1372(IT)I
+le 20 octobre 2009, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Daniel Gilbert
+Avocat de l’intimée :
+Me Simon Olivier de Launière
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l’année d’imposition 2003 est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation de façon à réduire de 2 000 $ les revenus non déclarés de l’appelant, avec rajustement corrélatif des pénalités et des intérêts, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 23e jour de novembre 2009.
+« Paul Bédard »
+Juge Bédard
+Référence : 2009 CCI 600
+Date : 20091123
+Dossiers : 2009-1371(IT)I,
+2009-1372(IT)I,
+2009-1373(IT)I
+ENTRE :
+PAUL AUBIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s’agit d’appels entendus sur preuve commune. L’appelant en appelle des nouvelles cotisations établies à son égard pour les années d’imposition 2003, 2004 et 2005.
+[2] Dans le dossier 2009-1373(IT)I, le 10 février 2009, le ministre du Revenu national (le « ministre ») a établi à l’égard de l’appelant une nouvelle cotisation pour son année d’imposition 2003, aux termes de laquelle il a déterminé, en utilisant la méthode de l’avoir net, que l’appelant avait des revenus non déclarés de 30 406 $, selon les détails fournis à l’annexe A ci-jointe, et il a imposé une pénalité de 263,39 $ selon le paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »). Pour établir cette nouvelle cotisation, le ministre a tenu pour acquis les faits suivants, à savoir :
+a. l’appelant a débuté à exploiter une entreprise à propriétaire unique en 1996 sous la raison sociale « Serloc Informatique », dont les activités économiques étaient reliés à la vente, service, location de produits informatiques;
+b. le 27 mai 2003, l’appelant a constitué l’entreprise en une société par actions sous la raison sociale de « Serloc inc. » afin d’en modifier sa forme juridique;
+c. l’appelant est l’actionnaire majoritaire de la société « Serloc inc. »;
+d. par suite d’un contrôle fiscal, il est apparu que les dépenses personnelles dudit appelant n’avaient aucune commune mesure avec le salaire déclaré de la dite société et la présumée perte encourue provenant de l’exploitation de son entreprise;
+e. le coût de vie de l’appelant a été établi principalement par les retraits dans les comptes de banques du couple;
+f. pour la période s’échelonnant entre le 01 janvier 2003 au 31 décembre 2003, la vérification par la méthode dite d’avoir net a permis d’établir, à titre de revenus non déclarés, la somme de 30 406 $;
+g. la ventilation des revenus non déclarés est la suivante :
+2003
+i)
+dépenses personnelles
+Jeep Cherokee (50%)
+2 987 $
+ii)
+revenu non déclaré
+27 419 $
+30 406 $
+iii)
+à l’étape des oppositions, le ministre a été convaincu d’augmenter les actifs en date du 31 décembre 2002 d’une somme de 22 558 $, ce qui eut pour conséquence de réduire l’écart du revenu total de 2003, le faisant passer d’une somme de 52 964 $ à une somme de 30 406 $ (voir détails en annexe);
+iv)
+pendant la période en litige, la conjointe de l’appelant n’a pas produit une déclaration de revenus pour l’année d’imposition 2003;
+h. au cours de l’année d’imposition en litige, le ministre a déterminé que la jeep Cherokee était utilisée pour des fins personnelles à hauteur de 50%.
+[3] Dans le dossier 2009-1371(IT)I, le 15 juin 2007, le ministre a établi à l’égard de l’appelant une nouvelle cotisation pour son année d’imposition 2004, aux termes de laquelle il a déterminé, en utilisant la méthode de l’avoir net, que l’appelant avait des revenus non déclarés de 26 340 $, selon les détails fournis à l’annexe A ci-jointe, et il a imposé une pénalité de 1 431,37 $ selon le paragraphe 163(2) de la Loi. Pour établir cette nouvelle cotisation, le ministre a tenu pour acquis les faits suivants, à savoir :
+a. l’appelant a débuté à exploiter une entreprise à propriétaire unique en 1996 sous la raison sociale « Serloc Informatique », dont les activités économiques étaient reliés à la vente, service, location de produits informatiques;
+b. le 27 mai 2003, l’appelant a constitué l’entreprise en une société par actions sous la raison sociale de « Serloc inc. » afin de modifier sa forme juridique;
+c. l’appelant est l’actionnaire majoritaire de la société « Serloc inc. »;
+d. par suite d’un contrôle fiscal de la société « Serloc inc. », dont l’appelant était l’actionnaire majoritaire durant l’année en litige, il est apparu que les dépenses personnelles dudit appelant n’avaient aucune commune mesure avec le salaire déclaré provenant de sa source de revenus, soit la dite société;
+e. le coût de vie de l’appelant a été établi principalement par les retraits dans les comptes de banques du couple et les dépenses personnelles payées par la société;
+f. pour la période s’échelonnant entre le 01 janvier 2004 au 31 décembre 2004, la vérification par la méthode dite d’avoir net a permis d’établir, à titre de revenus non déclarés, la somme de 26 340 $ (voir détails en annexe);
+g. la ventilation des revenus non déclarés est la suivante :
+2004
+i)
+avantages imposables reçus
+« Serloc inc. »
+a) dépenses personnelles
+payées par la société
+Jeep Cherokee (50%)
+b) appropriations de fonds
+4 909 $
+21 431 $
+26 340 $
+ii)
+pendant la période en litige, la conjointe de l’appelant n’a pas produit une déclaration de revenus pour l’année d’imposition 2004;
+h. au cours de l’année d’imposition en litige, le ministre a déterminé que la jeep Cherokee était utilisée pour des fins personnelles à hauteur de 50%, comme la société « Serloc inc. » a défrayé la totalité des dépenses, la partie personnelle fut imposée à titre d’avantages imposable pour une somme de 4 909 $;
+i. le ministre et l’appelant ont convenu à l’égard du solde des revenus non déclarés, puisque la société constituait la seule source de revenus dudit appelant, qu’une somme de 21 431 $ serait considérée à titre des ventes non déclarées pour la société et une appropriation de fonds pour l’appelant.
+[4] Dans le dossier 2009-1372(IT)I, le 15 juin 2007, le ministre a établi à l’égard de l’appelant une nouvelle cotisation pour son année d’imposition 2005, aux termes de laquelle il a déterminé, en utilisant la méthode de l’avoir net, que l’appelant avait des revenus non déclarés de 13 850 $, selon les détails fournis à l’annexe A ci-jointe, et il a imposé une pénalité de 352,90 $ selon le paragraphe 163(2) de la Loi. Pour établir cette nouvelle cotisation, le ministre a tenu pour acquis les faits suivants, à savoir :
+a. l’appelant a débuté à exploiter une entreprise à propriétaire unique en 1996 sous la raison sociale « Serloc Informatique », dont les activités économiques étaient reliés à la vente, service, location de produits informatiques;
+b. le 27 mai 2003, l’appelant a constitué l’entreprise en une société par actions sous la raison sociale de « Serloc inc. » afin de modifier sa forme juridique;
+c. l’appelant est l’actionnaire majoritaire de la société « Serloc inc. »;
+d. par suite d’un contrôle fiscal de la société « Serloc inc. », dont l’appelant était l’actionnaire majoritaire durant l’année d’imposition en litige, il est apparu que les dépenses personnelles dudit appelant n’avaient aucune commune mesure avec le salaire déclaré provenant de sa source de revenus, soit la dite société;
+e. le coût de vie de l’appelant a été établi principalement par les retraits dans les comptes de banques du couple et les dépenses personnelles payées par la société;
+f. pour la période s’échelonnant entre le 01 janvier 2005 au 31 décembre 2005, la vérification par la méthode dite d’avoir net (voir pages annexées, l’état des dépenses personnelles indique l’année d’imposition 2006, il faut lire 2005) a permis d’établir, à titre de revenus non déclarés, la somme de 13 850 $;
+g. la ventilation des revenus non déclarés est la suivante :
+2005
+i)
+avantages imposables reçus
+« Serloc inc. »
+a) dépenses personnelles
+payées par la société
+Jeep Cherokee (50%)
+b) appropriations de fonds
+4 942 $
+8 908 $
+13 850 $
+ii)
+pendant la période en litige, la conjointe de l’appelant a produit une déclaration de revenus pour l’année d’imposition 2005 dont la rémunération provenait de la société « Serloc inc. »;
+h. au cours de l’année d’imposition en litige, le ministre a déterminé que la jeep Cherokee était utilisée pour des fins personnelles à hauteur de 50%, comme la société « Serloc inc. » a défrayé la totalité des dépenses, la partie personnelle fut imposée à titre d’avantages imposable pour une somme de 4 942 $;
+i. le ministre et l’appelant ont convenu à l’égard du solde des revenus non déclarés, puisque la société constituait la seule source de revenus dudit appelant, qu’une somme de 8 908 $ serait considérée à titre des ventes non déclarées pour la société et une appropriation de fonds pour l’appelant.
+[5] Je souligne immédiatement que le ministre a accepté lors de l’audience de réduire de 2 000 $ les revenus non déclarés de l’appelant pour l’année d’imposition 2003 et de réduire d’autant les montants assujettis à la pénalité selon le paragraphe 163(2) de la Loi.
+[6] Les objections soulevées par l’appelant concernent :
+i. l’application par le ministre d’une pénalité à une partie des revenus additionnels pour chacune des années d’imposition 2003, 2004 et 2005;
+ii. quant aux revenus additionnels pour les années d’imposition en cause, les éléments particuliers suivants :
+a) Dons en 2003
+[7] L’appelant a soutenu que le ministre n’a pas tenu compte dans son calcul de l’écart selon l’avoir net du fait qu’en 2003, son fils et sa fille lui ont fait des dons de 1 800 $ et de 5 232 $, respectivement.
+b) Retraits des comptes bancaires de l’appelant et de sa conjointe
+[8] L’appelant a soutenu que des retraits totalisant 8 500 $ du compte bancaire de sa conjointe à la succursale de la Caisse Populaire Desjardins située à Sainte‑Thérèse de Blainville (le « compte bancaire Desjardins ») n’avaient pas été utilisés pour défrayer son coût de la vie. L’appelant a prétendu que les montants retirés avaient plutôt été déposés dans ses propres comptes bancaires.
+c) Primes d’assurance des enfants
+[9] L’appelant a soutenu que sa conjointe avait payé à partir du compte bancaire Desjardins des primes pour des contrats d’assurance contractés par ses enfants et qu’ainsi ces sommes ne pouvaient être imputées à son coût de la vie.
+d) Jeep Cherokee
+[10] L’appelant a soutenu que la Jeep Cherokee appartenant à la société Serloc inc. avait été utilisée par lui à des fins personnelles dans une proportion de 25 %, et ce, durant chacune des années d’imposition 2003, 2004 et 2005.
+e) Dividende de 15 000 $
+[11] La déclaration de revenus de l’appelant pour l’année d’imposition 2003 (déclaration complétée et produite par l’appelant lui‑même) et le formulaire T‑5 qui était joint à cette déclaration indiquent que l’appelant a reçu un dividende de 15 000 $ de la société Serloc inc. L’appelant soutient qu’il n’a pas reçu ce dividende et demande à la Cour de rendre une décision portant que la société Serloc inc. n’a pas déclaré un tel dividende en 2003.
+Analyse et conclusion
+Dons en 2003
+[12] Je rappelle que l’appelant a soutenu que le ministre n’a pas tenu compte du fait que ses enfants lui avaient fait des dons totalisant 7 032 $ en 2003. À cet égard, l’appelant a témoigné que son fils (âgé de 15 ans en 2003) et sa fille (âgée de 16 ans en 2003) avaient travaillé dans son entreprise (exploitée sous la raison sociale Serloc Informatique) de 2000 à 2003 et qu’il leur avait versé en 2003 en contrepartie de leurs services des sommes totalisant 10 464,72 $. Pour appuyer ses allégations à cet égard, l’appelant a déposé en preuve sous la cote A‑1 des chèques tirés à l’ordre de ses deux enfants en avril et mai 2003 (pièce A‑1). L’appelant a expliqué que, pour l’aider à surmonter les difficultés financières qu’il avait éprouvées en 2003 (notamment en raison du remboursement des prestations d’assurance‑emploi qu’il avait reçues en trop), les enfants lui avaient fait des dons totalisant 7 032 $ en mai 2003, et ce, à même les sommes (10 464 $) qu’il leur avait versées en avril 2003. Il a ajouté que son fils lui avait ainsi donné en argent comptant une somme de 800 $ le 1er mai 2003 et une somme de 1 000 $ le 6 mai 2003, sommes qu’il aurait déposées dans un compte bancaire qu’il détenait à la succursale 343 de la Banque Laurentienne (« compte bancaire La Laurentienne »). À l’appui de cette allégation, l’appelant a déposé en preuve un relevé bancaire (pièce A‑2) qui démontre que des dépôts de 800 $ et de 1 000 $ avaient été faits dans le compte bancaire La Laurentienne le 1er mai 2003 et le 6 mai 2003 respectivement. Enfin, il a ajouté que sa fille lui avait remis à titre de dons un chèque de 3 270 $ et un autre chèque de 1 962,36 $ qu’il aurait déposés dans le compte bancaire La Laurentienne le 14 mai 2003 et le 22 mai 2003 respectivement. Je souligne à cet égard que le relevé bancaire déposé en preuve sous la cote A‑2 démontre que des dépôts de 3 270 $ et de 1 962,36 $ avaient été faits dans le compte bancaire La Laurentienne le 14 mai 2003 et le 23 mai 2003 respectivement.
+[13] Dans l'appréciation de la preuve fournie par l'appelant, il est nécessaire de commenter l'omission de faire comparaître certains témoins et de fournir de la preuve documentaire qui aurait pu confirmer les affirmations de l'appelant. Dans l'affaire Huneault c. La Reine, 98 DTC 1488, ma collègue la juge Lamarre rappelle à la page 1491 certains propos que tiennent les auteurs Sopinka et Lederman dans leur livre « The Law of Evidence in Civil Cases » et qui sont cités par le juge Sarchuk de notre cour dans l'affaire Enns c. M.R.N., no APP‑1992(IT), 17 février 1987, 87 DTC 208, à la page 210 :
+Dans l'ouvrage de Sopinka et Lederman, The Law of Evidence in Civil Cases, les auteurs font remarquer ce qui suit au sujet des conséquences de l'omission de faire comparaître un témoin, je cite :
+[TRADUCTION]
+Dans l'affaire Blatch v. Archer, (1774), 1 Cowp. 63, p. 65, Lord Mansfield a déclaré :
+Il existe certainement un principe voulant que tous les faits soient appréciés à la lumière de la preuve que l'une des parties était en mesure de produire et que l'autre partie était en mesure de réfuter.
+L'appréciation de ce principe a conduit à établir une règle bien connue selon laquelle l'omission d'une partie ou d'un témoin de produire une preuve que la partie ou le témoin était en mesure de produire et qui aurait peut-être permis d'élucider les faits, fonde la Cour à déduire que la preuve de la partie ou du témoin en question aurait été défavorable à la partie à laquelle l'omission a été attribuée.
+Dans le cas d'un demandeur auquel il incombe d'établir un point, l'effet de cette déduction peut être que la preuve produite sera insuffisante pour s'acquitter du fardeau de la preuve. (Lévesque et al. c. Comeau et al., [1970] R.C.S. 1010, (1971), 16 D.L.R. (3e) 425).
+[14] En l’espèce, l’appelant aurait pu faire comparaître ses deux enfants et fournir de la preuve documentaire (tels les chèques que lui aurait faits sa fille en mai 2003 ou les relevés bancaires de ses enfants). Il ne l’a pas fait. J’en infère que cette preuve lui aurait été défavorable. Le fait que l’appelant n’a fait part au ministre de ces dons que quelques jours avant l’audience alors qu’il aurait pu le faire lors des oppositions et l’allégation de l’appelant voulant que ses deux enfants lui avaient rendu des services en 2001 alors qu’ils étaient âgés de 12 et 13 ans n’ont fait que confirmer mes doutes quant à la véracité des allégations de l’appelant à l’égard de ces dons. Pour ces motifs, je conclus que les deux enfants n’ont pas fait don à leur père de sommes totalisant 7 032 $ en 2003.
+Retraits des comptes bancaires de l’appelant et de sa conjointe
+[15] L’appelant a soutenu essentiellement que les retraits totalisant 8 500 $ faits en 2003 à partir du compte bancaire Desjardins (en l’espèce 4 000 $ le 1er janvier 2003 et 4 500 $ le 28 août 2003) n’avaient pas été utilisés pour défrayer son coût de la vie. En effet, l’appelant a prétendu que les sommes ainsi retirées du compte bancaire Desjardins avaient été plutôt déposées dans les comptes bancaires qu’il détenait à la Banque Laurentienne.
+[16] De façon plus précise, l’appelant a témoigné que le 1er janvier 2003, sa conjointe avait tiré à son ordre un chèque de 4 000 $ sur le compte bancaire Desjardins, chèque qu’il aurait déposé dans le compte de chèques qu’il détenait à la Banque Laurentienne (« compte de chèques La Laurentienne »). Je souligne que l’appelant a déposé en preuve un relevé bancaire (pièce A‑4) qui démontre que le compte bancaire Desjardins avait été débité le 1er janvier 2003 d’une somme de 4 000 $. Enfin, l’appelant a expliqué qu’il était dans l’impossibilité de produire en preuve le chèque de 4 000 $ fait par sa conjointe et le relevé bancaire démontrant qu’il avait déposé une telle somme dans le compte de chèques La Laurentienne parce qu’il avait perdu ces documents et que la Banque Laurentienne n’était plus en mesure de les lui fournir. À cet égard, je souligne que l’appelant a admis ne pas avoir fait de démarches auprès de sa banque pour obtenir ces documents.
+[17] L’appelant a aussi témoigné que le 28 août 2003, sa conjointe avait fait un retrait en espèces de 4 500 $ du compte bancaire Desjardins, somme qu’elle lui aurait remise la même journée et qu’il aurait déposée (ainsi que 500 $) dans le compte bancaire La Laurentienne le 28 août 2003. La preuve de l’appelant à cet égard reposait sur son témoignage, sur un relevé bancaire (pièce A‑4) démontrant que le 28 août 2003, le compte bancaire Desjardins avait été débité d’une somme de 4 502 $ et sur un relevé bancaire (pièce I‑4) démontrant que le compte bancaire La Laurentienne avait été crédité le 28 août 2003 d’une somme de 5 000 $ et d’une somme de 6 000 $.
+[18] En l’espèce, l’appelant aurait pu faire comparaître sa conjointe (ou encore fournir la preuve qu’elle n’était pas en mesure de comparaître) et fournir de la preuve documentaire (tel le chèque de 4 000 $, tel le relevé bancaire du compte de chèques La Laurentienne). Il ne l’a pas fait. J’en infère que cette preuve lui aurait été défavorable. Pour ces motifs, je conclus que l’appelant ne s’est pas acquitté de son obligation de produire une preuve démontrant selon la prépondérance des probabilités que le ministre avait tort sur ce point contesté.
+Primes d’assurance des enfants
+[19] Je rappelle que l’appelant a soutenu que sa conjointe avait versé en 2003, à partir du compte bancaire Desjardins, des sommes totalisant 2 354 $ pour acquitter au bénéfice de ses enfants des primes pour des contrats d’assurance contractés par ces derniers et qu’ainsi la somme de 2 354 $ ne pouvait être imputée à son coût de la vie.
+[20] La preuve de l’appelant à cet égard reposait sur son témoignage et sur la pièce A‑4 qui démontre tout au plus que des retraits identifiés par le chiffre 2 totalisent 2 354 $. Encore une fois, l’appelant aurait pu faire comparaître les enfants en question et sa conjointe et fournir une preuve documentaire (telles les factures pour ces contrats d’assurance, tels les chèques pour le paiement de ces factures). Il ne l’a pas fait. J’en infère que cette preuve lui aurait été défavorable. Pour ces motifs, je conclus que l’appelant ne s’est pas acquitté de son obligation de produire une preuve démontrant selon la prépondérance des probabilités que de telles primes avaient été payées.
+[21] De toute façon, je ne vois pas en quoi le fait que ces primes aient été ainsi payées au bénéfice des enfants de l’appelant peut modifier le résultat du calcul de l’écart selon l’avoir net fait par le ministre.
+Jeep Cherokee
+[22] Je rappelle que l’appelant a soutenu qu’il avait utilisé, à des fins personnelles, la Jeep Cherokee appartenant à Serloc inc. dans une proportion de 25 %. Je rappelle aussi que le ministre a déterminé que cette voiture avait été utilisée par l’appelant à des fins personnelles dans une proportion de 50 %. Je souligne que la preuve a révélé à cet égard que le pourcentage de 50 % avait fait l’objet d’une entente entre le ministre et l’appelant à l’occasion des négociations intervenues lors des oppositions.
+[23] La preuve de l’appelant à cet égard reposait uniquement sur son témoignage que je qualifierais pour le moins de vague et d’imprécis. Essentiellement, l’appelant a expliqué qu’il avait utilisé la Jeep Cherokee dans une proportion de 75 % pour prendre livraison du matériel acheté par Serloc inc. et qu’il avait aussi utilisé son automobile personnelle aux mêmes fins, et ce, sans pour autant réclamer de Serloc inc. le remboursement des dépenses engagées pour ce faire. Je souligne que l’appelant n’a pas jugé nécessaire de donner de détails (date, nom du fournisseur et kilomètres parcourus) au sujet des déplacements en question. La preuve a aussi révélé que Serloc inc. et l’appelant ne tenaient aucun registre au sujet de l’utilisation de la Jeep Cherokee.
+[24] L’appelant ne pouvait espérer me convaincre que son allégation à cet égard était véridique avec un témoignage aussi vague et imprécis, d’autant plus que les états financiers de Serloc inc. (pièce A‑7) démontrent que Serloc inc. avait eu des frais de transport importants.
+Dividende de 15 000 $
+[25] Je rappelle que la déclaration de revenus de l’appelant pour l’année d’imposition 2003 indique que l’appelant a reçu un dividende de 15 000 $. Lors l’étape des oppositions, l’appelant a soutenu qu’il n’avait jamais reçu un tel dividende de la société Serloc inc. en 2003. Après avoir vérifié les registres de la société Serloc inc., le ministre a accepté la version des faits donnée par l’appelant à cet égard. Pour corriger la situation, le ministre a alors demandé à l’appelant de passer les écritures nécessaires dans les registres de la société Serloc inc. afin de créer un dividende à payer. Parallèlement, le ministre a, aux fins de son calcul de l’écart selon l’avoir net, ajouté à l’actif de l’appelant une créance de 15 000 $ (voir l’annexe A, poste « stock » du bilan des années 2003, 2004 et 2005) et fait un redressement de 3 750 $ (voir l’annexe A, poste « redressements au revenu total (additions) ») pour annuler l’effet de la majoration du dividende.
+[26] L’appelant demande à la Cour de rendre une décision portant que le dividende de 15 000 $ n’avait pas été déclaré en 2003 par Serloc inc. en 2003. Je ne vois tout simplement pas sur quelle base je pourrais annuler la déclaration d’un tel dividende. En effet, l’appelant n’a jamais affirmé au ministre qu’un tel dividende n’avait pas été déclaré par la société Serloc inc. L’appelant a tout simplement affirmé au ministre que la société Serloc inc. ne lui avait pas versé un tel dividende en 2003. Le ministre a accepté la version des faits de l’appelant lors des oppositions et a apporté les corrections appropriées à son calcul de l’écart selon l’avoir net.
+Pénalité
+[27] Il convient maintenant de répondre à la question suivante : le ministre s’est-il acquitté du fardeau qui repose sur lui en vertu du paragraphe 163(2) de la Loi? Puisque je suis persuadé que l’appelant a touché un revenu qu’il n’a pas déclaré et que l’explication offerte par celui‑ci pour l’écart constaté et l’accroissement de son actif est non crédible, le ministre s’est acquitté du fardeau de la preuve qui repose sur lui aux termes du paragraphe 163(2) de la Loi.
+[28] Pour ces motifs, l’appel est accueilli de façon à réduire de 2 000 $ les revenus non déclarés de l’appelant pour l’année d’imposition 2003, et ce, pour tenir compte des admissions (voir le paragraphe 5) du ministre au début de l’audience.
+Signé à Ottawa, Canada, ce 23e jour de novembre 2009.
+« Paul Bédard »
+Juge Bédard
+ANNEXE A
+RÉFÉRENCE : 2009 CCI 600
+Nºs DES DOSSIERS DE LA COUR : 2009-1371(IT)I, 2009-1372(IT)I,
+2009-1373(IT)I
+INTITULÉ DE LA CAUSE : PAUL AUBIN et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 20 octobre 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 23 novembre 2009
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Daniel Gilbert
+Avocat de l’intimé :
+Me Simon Olivier de Launière
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Daniel Gilbert
+Cabinet : Bissonnette & Fortin S.E.N.C.R.L.
+Saint-Jérôme, Québec
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

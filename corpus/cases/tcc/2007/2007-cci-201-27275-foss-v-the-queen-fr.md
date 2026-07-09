@@ -1,0 +1,367 @@
+---
+title: "Foss v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27275/index.do"
+last_modified: "2007-04-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 201"
+citation2: ""
+neutral_citation: "2007 CCI 201"
+decision_date: "2007-04-05"
+language: "fr"
+item_id: "27275"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 882
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:47:26.558000+00:00"
+cases_cited_count: 8
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e3ae6026d20b6cc7ec6b845db9099cb9e05606d3a93ebfe87242c3b7b33b617a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Foss v. The Queen
+
+- Citation: 2007 CCI 201
+- Decision date: 2007-04-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 882, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Foss v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-05
+Référence neutre
+2007 CCI 201
+Numéro de dossier
+2004-4789(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4789(IT)G
+ENTRE :
+SHELDON FOSS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête tranchée sur la foi des représentations écrites, sans comparution.
+Par : L’honorable juge E.A. Bowie
+Participants :
+Avocat de l’appelant :
+Me D. Laurence Armstrong
+Avocat de l’intimée :
+Me David I. Besler
+____________________________________________________________________
+ORDONNANCE
+Vu la requête que l’avocat de l’appelant a présentée pour obtenir une ordonnance :
+1. radiant les parties suivantes de la réponse à l’avis d’appel datée du 7 mars 2005 :
+a) les alinéas 9m), 9t), 9u), 9v), 9aa), 9cc), 9dd), 9ff), 9gg), 9hh), 9ii), 9kk) et 9ww);
+b) les alinéas 9d), 9e), 9f), 9g), 9h), 9i), 9j), 9k), 9l), 9m), 9n), 9o) et 9p);
+c) les alinéas 9q), 9r), 9s), 9t), 9u), 9v), 9w), 9x), 9y), 9z), 9aa), 9bb), 9cc), 9dd) et 9ee);
+d) les alinéas 9ff), 9gg), 9hh), 9ii), 9jj), 9kk), 9ll), 9mm), 9nn) et 9oo);
+e) les alinéas 9ss), 9tt), 9uu), 9vv), 9ww), 9xx) 9yy), 9zz) et 9aaa);
+f) les alinéas 10a), 10b), 10c), 10d), 10e) et 10f);
+2. enjoignant à chaque partie de déposer et de signifier à l’autre partie une liste, sur la formule 82(3), de tous les documents qui sont ou qui ont été en sa possession, sous son contrôle ou sous sa garde et qui portent sur toute question en litige entre les parties à l’appel;
+3. enjoignant à l’intimée de fournir à l’appelant des copies des 33 virements télégraphiques faits entre le 23 novembre 2000 et le 7 août 20002, dont il est question à l’alinéa 9y) de la réponse;
+4. enjoignant à l’intimée de fournir à l’appelant des copies des documents constitutifs d’Omnicorp Bank Inc. et des copies de la licence de celle‑ci autorisant l’exercice d’activités bancaires et d’activités connexes, dont il est question à l’alinéa 9ff) de la réponse;
+5. enjoignant à l’intimée de fournir à l’appelant des copies des certificats de dépôt dont il est question à l’alinéa 9kk) de la réponse;
+6. adjugeant les dépens de la présente requête;
+Et après avoir lu les documents déposés, la Cour ordonne :
+1. que chaque partie signifie et dépose une liste de documents conformément à l’article 82 des Règles, au plus tard le 30 mai 2007;
+2. dans la mesure où l’intimée a en sa possession ou sous sa garde tout document ou copie de tout document dont il est question aux alinéas 9y), ff) et kk) de la réponse, que l’intimée en fournisse une copie à l’appelant dans les 20 jours suivant la date de la présente ordonnance;
+3. que la demande soit rejetée à tous autres égards;
+4. qu’aucune partie n’a droit aux dépens de la requête à l’encontre de l’autre partie.
+Signé à Ottawa, Canada, ce 5e jour d’avril 2007.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 21e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI201
+Date : 20070405
+Dossier : 2004-4789(IT)G
+ENTRE :
+SHELDON FOSS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Bowie
+[1] La présente requête fait ressortir la question de savoir dans quelle mesure, le cas échéant, les règles en matière de procédure dans les litiges fiscaux diffèrent des règles en matière de procédure dans les autres litiges civils. La requête a été présentée par écrit, et les deux parties ont présenté leurs observations par écrit, conformément au calendrier contenu dans mon ordonnance du 1er novembre 2006. Ni l’une ni l’autre des parties n’a demandé à présenter son argumentation verbalement, même si cette possibilité avait été envisagée dans mon ordonnance. Je considère qu’il s’agit d’un choix malheureux, car ni l’une ni l’autre des parties n’a pleinement examiné les principes applicables dans ses observations écrites.
+[2] Dans sa requête, l’appelant demande une réparation à trois volets. Premièrement, il demande la radiation de la quasi‑totalité du paragraphe 9 et de la totalité du paragraphe 10 de la réponse à l’avis d’appel, en vertu de l’article 53 des Règles. Deuxièmement, il demande, en vertu du paragraphe 82(1) des Règles, une ordonnance qui aurait pour effet d’élargir la communication de documents afin que tous les documents relatifs aux questions en litige soient visés, et non pas seulement les documents qui sont utiles à la partie déposante. Troisièmement, l’appelant demande des copies des documents dont il est question, selon lui, aux alinéas 9y), 9ff) et 9kk) de la réponse. Je me pencherai d’abord sur le deuxième volet de la demande.
+[3] Dans ses observations écrites, l’avocat de l’intimée a reconnu qu’il s’agissait d’une affaire où il était approprié d’ordonner que la communication de documents se fasse conformément à l’article 82 des Règles. L’examen attentif des actes de procédure m’a amené à être du même avis, et je rendrai donc une ordonnance en ce sens.
+[4] Il vaut mieux examiner les deux autres volets de la requête à la lumière des particularités des paragraphes 9 et 10 de la réponse de l’intimée, qui fait 14 pages. Je reproduis donc intégralement ces deux paragraphes.
+[traduction]
+9. En établissant une nouvelle cotisation à l’égard de l’appelant pour l’année d’imposition 2000, le ministre s’est fondé sur les hypothèses de fait suivantes, exception faite des faits énoncés aux alinéas m, t, u, v, aa, cc, dd, ff, gg, hh, ii, kk, et ww, faits dont le ministre a eu connaissance seulement après avoir établi la nouvelle cotisation et qui sont tenus pour exacts par le ministre :
+a) Pour l’année d’imposition 2000, l’appelant a déclaré que son revenu total provenant de toutes les sources était de 207 715,05 $.
+b) Pour l’année d’imposition 2000, l’appelant a demandé une déduction pour un don de bienfaisance de 100 000 $ fait à Global.
+c) L’appelant a demandé les crédits d’impôt pour don de bienfaisance qui suivent dans ses déclarations de revenus :
+Année d’imposition
+Total des déductions pour don de bienfaisance demandées
+2003
+0
+2002
+0
+2001
+10 000 $ versés à Global Institute
+2000
+100 000 $ versés à Global Institute
+1999
+0
+1998
+0
+1997
+0
+1996
+0
+1995
+0
+1994
+0
+1993
+0
+1992
+0
+1991
+0
+1990
+0
+1989
+0
+1988
+0
+1987
+0
+Global Institute
+d) Global a été constituée le 13 octobre 1988, sous le régime de la Society Act of the Province of British Columbia.
+e) Global a déposé une demande d’enregistrement à titre d’organisme de bienfaisance auprès du ministre le 3 novembre 1988.
+f) Dans sa demande d’enregistrement, Global a indiqué, dans les renseignements sur les activités de l’organisme, qu’elle s’emploierait à améliorer l’agriculture et la santé ainsi qu’à lutter contre la pauvreté dans les pays du tiers‑monde.
+g) Global a obtenu le statut d’organisme de bienfaisance enregistré en vertu de l’alinéa 149(1)f) de la Loi de l’impôt sur le revenu le 1er juillet 1989.
+h) Dans ses déclarations de renseignements des organismes de bienfaisance enregistrés T3010 produites pour les années 1995 et 1996, Global a indiqué ce qui suit :
+· son objectif principal consistait à favoriser et à mener des activités de bienfaisance qui profitaient à l’ensemble de la collectivité au Canada et partout sur la planète »;
+· les programmes de bienfaisance menés au Canada étaient des programmes d’aide communautaire en Colombie‑Britannique;
+· aucun programme n’avait été mené à l’extérieur du Canada.
+i) Dans ses déclarations de renseignements des organismes de bienfaisance enregistrés T3010 produites pour les 1997 à 2003, Global a donné les réponses suivantes à la question « Veuillez indiquer les programmes que l’organisme de bienfaisance a menés pendant l’exercice pour réaliser ses fins de bienfaisance » :
+· 1997 : Programmes d’aide communautaire en Colombie‑Britannique;
+· 1998 : Même réponse qu’en 1997;
+· 1999 : Même réponse qu’en 1997;
+· 2000 : Programmes d’aide communautaire en Colombie‑Britannique; collecte de fonds et évaluation de projets au Canada et dans les pays du tiers‑monde en vue de futurs programmes;
+· 2001 : Même réponse qu’en 2000;
+· 2002 : Même réponse qu’en 2000;
+· 2003 : Suivi des programmes courants et gestion des investissements.
+j) Pour la période allant de 1996 à 2000, Global n’a fait aucun débours direct pour des activités de bienfaisance.
+k) Global déclare qu’elle s’est intéressée principalement à la guérison pranique et aux traitements par les sons dans les années 90.
+l) Global déclare qu’elle offre des cours dans les domaines suivants :
+· guérison pranique;
+· psychothérapie pranique;
+· clairvoyance;
+· autodéfense psychique;
+· guérison par les cristaux.
+m) Au cours de son exercice financier 1997, Global a disposé de la majorité de ses biens, y compris tous les ordinateurs et la plupart du reste de l’équipement.
+n) Dans sa demande d’enregistrement à titre d’organisme de bienfaisance, Global a désigné le conseiller Duncan S. Goheen, de Delta (Colombie‑Britannique), le promoteur immobilier Gary McDonald, de Vancouver (Colombie‑Britannique) et le directeur de coopérative de crédit Peter Podovinikoff, de Richmond (Colombie‑Britannique) comme administrateurs.
+o) Dans sa demande d’enregistrement à titre d’organisme de bienfaisance, Global a désigné M. Duncan Goheen comme coordonnateur de l’organisme de bienfaisance.
+p) Global a présenté M. Duncan Goheen comme son fondateur.
+M. Duncan Goheen
+q) M. Duncan Goheen, tout en occupant les fonctions d’administrateur de Global, travaillait aussi pour Omnicorp Financial Group of Companies et représentait ce groupe.
+r) Omnicorp Financial Group of Companies exerçait ses activités sous le nom d’Omnicorp.
+s) De l’automne 2000 à l’automne 2002, le Global Institute a présenté ses projets et ses programmes au cours de certaines « activités éducatives » d’Omnicorp.
+t) De l’automne 2000 à l’automne 2002, Global a partagé des créneaux de temps avec Omnicorp à l’occasion de conférences organisées par Global Prosperity Group;
+u) Global a dépensé moins de 1 000 $ pour de la publicité et des activités de promotion de 1996 à 1998, et rien du tout en 1999 et en 2000.
+v) Pour les quatre exercices 1996 à 1999, Global a indiqué avoir reçu des dons totalisant 6 620 $.
+w) Pour les exercices 2000 à 2002, Global a indiqué avoir reçu des dons considérablement plus élevés, comme suit :
+· 2000 – total de 992 080 $ en dons de 19 donateurs;
+· 2001 – total de 3 092 386 $ en dons de 36 donateurs;
+· 2002 – total de 741 274 $ en dons de 10 donateurs.
+x) Global a déclaré que tous les dons se rapportaient à un fonds de dotation et qu’aucun don n’avait été fait pour appuyer ses activités courantes.
+y) Exception faite de deux dons qui ont été envoyés à Simeon Capital, tous les dons susmentionnés ont d’abord été déposés dans une banque canadienne au crédit de Global, puis envoyés à un compte qu’Omnicorp possédait à la National Commercial Bank, Kingston, à Saint‑Vincent‑et‑les Grenadines (compte no 8597), en une série de 33 transferts télégraphiques faits entre le 23 novembre 2000 et le 7 août 2002.
+z) Pour chaque virement télégraphique, Global envoyait par télécopieur à Omnicorp une feuille d’envoi indiquant le montant total du transfert ainsi que les noms des investisseurs et la répartition des sommes comprises dans le transfert. Était également transmis par télécopieur un rapport des déclarations des clients qui divulguait les renseignements suivants, pour chaque somme :
+· Nom du client (l’investisseur);
+· Montant du don en dollars canadiens;
+· Équivalent en dollars américains;
+· Somme virée;
+· Date du virement;
+· Code d’accès.
+aa) Pour chaque virement télégraphique, Omnicorp fournissait à Global une confirmation du montant et de la date de réception des fonds visés par le transfert, ainsi qu’une note indiquant que les fonds seraient attribués conformément aux modalités décrites dans les ententes.
+bb) Un certificat de dépôt pour chaque virement télégraphique était par la suite fourni à Global.
+cc) Global a reçu des intérêts sur les certificats de dépôt s’élevant à 137 630 $ en 2001 et à 335 217 $ en 2002.
+dd) Global a versé à Global Harmony Health Corp des frais de gestion de 66 365 $ en 2001 et de 50 480 $ en 2002.
+ee) Global Harmony Health Corp. appartient à cent pour cent à Marilee Goheen, l’épouse de Duncan Goheen.
+Omnicorp Financial Group of Companies
+ff) Omnicorp Bank Inc. a été constituée le 21 mars 2000, sous le régime de la St. Vincent and the Grenadines International Business Companies Act de 1996. Elle a obtenu la licence l’autorisant à exercer des activités bancaires et des activités connexes le 31 mai 2000.
+gg) Omnicorp Bank Inc. appartient à Nelson Bayford (50 %) et à Edward Rychkun (50 %). Les administrateurs de la banque sont Nelson Bayford (résident de Saint‑Vincent) et Edward Rychkun. Nelson Bayford est le chef de la direction de la banque; il agit à titre de président et supervise les activités de la banque.
+hh) Omnicorp Bank Inc. était une banque uniquement sous le régime des lois de Saint‑Vincent; elle n’avait pas la capacité d’une banque internationale ni ne pouvait accepter les virements télégraphiques.
+ii) Omnicorp Bank Inc. faisait ses propres opérations bancaires par l’intermédiaire de la National Commerce Bank à Saint‑Vincent.
+jj) Omnicorp Bank Inc. est la principale entité d’Omnicorp Financial Group of Companies, groupe composé d’un certain nombre de sociétés principalement associées parce qu’elles appartiennent au même propriétaire, Nelson Bayford.
+kk) Omnicorp Bank Inc. offrait des certificats de dépôt à terme de cinq ans ou plus, qui portaient intérêts à des taux annuels variant de 40 à 50 % en 2000, et de 30 à 35 % en 2003.
+ll) Omnicorp Financial Group of Companies se présentait comme un « fournisseur international de services extraterritoriaux complets » et offrait les services d’Omnicorp Bank Inc. suivants :
+· Recouvrement de capitaux des mains avides du fisc grâce à l’élaboration et à la mise en œuvre de stratégies d’allégement fiscal;
+· Fourniture des connaissances et des mécanismes nécessaires au déploiement de capitaux dans des territoires où il n’y a pas de conséquences fiscales;
+· Établissement de fiducies étrangères, de sociétés commerciales internationales et de la structure de contrôle indirect de ces entités;
+· Mise au point de stratégies d’élimination ou de réduction de l’impôt personnel, de l’impôt des sociétés et de l’impôt sur le capital;
+· Établissement de procédures permettant d’éliminer l’impôt à payer pour l’année courante, les années antérieures ou les années à venir;
+· Mobilisation de fonds enregistrés sans conséquences fiscales;
+· Mobilisation de bénéfices non répartis des sociétés sans conséquences fiscales;
+· Retrait de capitaux ou mouvements de capitaux entre pays sans conséquences fiscales;
+· Protection de l’actif et transfert de biens;
+· Droit de propriété au moyen d’une fiducie étrangère avec des bénéficiaires discrétionnaires en vue d’éliminer censément les exigences en matière de rapports à l’étranger;
+· Création de sociétés commerciales internationales en vue d’investissement à l’étranger libre d’impôts;
+· Cartes de crédit et de débit fournissant de partout dans le monde un accès privé, dont il ne reste censément aucune trace, à des fonds accumulés à l’étranger.
+mm) Omnicorp Financial Group of Companies favorisait des arrangements avec les contribuables canadiens qui comprenaient les suivants :
+i) Le dépouillement de REER dans le cadre duquel les fonds contenus dans le REER du contribuable étaient censément investis dans des actions de sociétés contrôlées par les promoteurs d’Omnicorp ou de Global Prosperity. Les fonds étaient par la suite mis à la disposition de l’ancien cotisant au REER dans des comptes à l’étranger. Les fonds étaient parfois investis dans Omnicorp Bank Inc.
+ii) Les arrangements de transfert de perte dans le cadre desquels des pertes fictives étaient créées en vue de l’obtention de remboursements d’impôts. Les pertes étaient financées au moyen de prêts fictifs. Les remboursements des prêts étaient placés dans des comptes à l’étranger, et les fonds étaient mis à la disposition des contribuables qui déduisaient les pertes. Les fonds étaient parfois investis dans Omnicorp Bank Inc.
+nn) Omnicorp Financial Group of Companies faisait la promotion de ces arrangements conçus pour déjouer les autorités fiscales canadiennes et déguiser leur vraie nature, et préparait ces arrangements.
+oo) M. Duncan Goheen a participé à la conférence de Global Prosperity à Cancun en 2001; il représentait Omnicorp Financial Group of Companies au kiosque du groupe, il faisait la promotion d’Omnicorp Investments et il agissait à titre de personne‑ressource d’Omnicorp.
+L’arrangement planifié
+pp) L’appelant a pris des arrangements avec Global et Omnicorp Bank Inc., en vue de ce qui suit :
+· L’investissement initial devait être fait au moyen d’un transfert de fonds à Global;
+· Global devait transférer les fonds à Omnicorp afin qu’ils soient placés dans un compte de transition ou un fonds d’investissement au nom de Global, qui produirait un rendement annuel d’au moins 35 %;
+· Global devait obtenir 10 % chaque année, et les 25 % ou plus qui restaient devaient être versés à l’appelant, soit à son nom, soit au crédit d’une société commerciale internationale appartenant à l’appelant, soit à une autre entité choisie par l’appelant ou au moyen d’une carte de crédit ou de débit fournie par Omnicorp Bank Inc.;
+· L’appelant ne devait pas avoir accès aux fonds qu’il avait investis au cours de la période initiale de cinq ans;
+· Après les cinq ans, le montant de l’investissement original devait être transféré à Global, et l’appelant devait avoir accès au reste.
+qq) L’appelant a toujours eu l’intention de verser l’argent, d’obtenir un reçu de don de bienfaisance officiel et de demander un crédit pour don de bienfaisance; entre le remboursement d’impôt attendu et les paiements d’Omnicorp, il devait quand même récupérer le montant de son paiement initial avec un profit.
+Les résultats concrets du don
+rr) L’appelant a investi dans le plan susmentionné en remettant à Global une chèque de 100 000 $, daté du 18 décembre 2000.
+ss) Sous la directive de Duncan Goheen, Global a déposé les 100 000 $ dans le compte bancaire d’Omnicorp Bank Inc. à la National Commerce Bank à Saint‑Vincent.
+tt) Global a fourni à Omnicorp Bank Inc. des renseignements qui permettaient d’identifier et de suivre la partie du dépôt qui se rapportait au paiement particulier de l’appelant.
+uu) Omnicorp Bank Inc. n’a pas été en mesure d’obtenir les taux de rendement annoncés sur les investissements et est devenue insolvable.
+vv) Le 23 septembre 2003 ou vers cette date, Global et Omnicorp ont conclu 33 accords distincts; chacun de ces accords prévoyait le rachat d’un certificat de dépôt d’Omnicorp et l’utilisation des produits en vue de l’acquisition d’actions de Solara Ventures Inc.
+ww) Les 33 accords ont été conclus suivant une proposition qu’Omnicorp Bank Inc. avait faite afin d’apaiser les inquiétudes de l’administration financière extraterritoriale à l’égard de la solvabilité d’Omnicorp Bank Inc.
+xx) Le plan d’Omnicorp Bank Inc. consistait à ce que tous les détenteurs de certificats de dépôt échangent leurs certificats pour une valeur attribuée équivalente en actions privilégiées d’une société du Yukon, Solara Ventures Inc., à 19,50 $US l’action. Ainsi, le bilan d’Omnicorp Bank Inc. aurait été réduit à un actif et à un passif nuls, ce qui aurait empêché la liquidation officielle d’Omnicorp Bank Inc.
+yy) Le capital et les intérêts courus des 33 certificats de dépôt représentaient ce qui suit :
+Somme totale des certificats de dépôt : 3 065 651,42 $US
+Plus : intérêts au 30 septembre 2002 39 105,06 $US
+Somme totale disponible pour l’achat
+d’actions de Solara : 3 104 756,48 $US
+Actions de Solara Ventures Inc.
+achetées à 19,50 $US l’action : 159 220
+zz) Le 31 décembre 2002, Global Institute a conclu un accord avec 660673 B.C. Ltd. – une filiale en propriété exclusive de Solara Ventures Inc. – aux termes duquel Global a vendu ses 159 220 actions de Solara Ventures Inc. à 660673 B.C. Ltd. en échange d’une obligation à charge flottante de 3 104 759,48 $, portant intérêt au taux annuel de 12 %, les 159 220 actions de Solara Ventures Inc. servant de garantie à cette obligation.
+aaa) Le 18 juillet 2002, l’appelant a fait l’acquisition de 20 000 actions d’une société du Delaware, Solara Ventures Inc., société mère de la société du Yukon portant le même nom.
+10. En imposant des pénalités à l’appelant conformément au paragraphe 163(2), le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) La déduction pour don de bienfaisance que l’appelant demande pour son année d’imposition 2000 ne concorde pas avec les antécédents de l’appelant en la matière.
+b) L’importance, la source et la fréquence des paiements faits à Global en 2000 ne concordent pas avec les antécédents de Global en matière de dons ni avec les caractéristiques habituelles des dons de bienfaisance.
+c) La connaissance que l’appelant a dit avoir des activités de Global ne concorde pas avec l’ampleur des dons déduits.
+d) La compréhension que l’appelant a dit avoir de la manière dont Global devait utiliser les 100 000 $ ne concorde pas avec l’ampleur des dons déduits.
+e) L’appelant savait que lui‑même, ou une personne à qui il souhaitait conférer un avantage, recevrait un avantage personnel en avançant les 100 000 $ à Global.
+f) L’appelant savait ou aurait dû savoir qu’il faisait un faux énoncé dans sa déclaration de revenus en demandant une déduction pour les 100 000 $.
+[5] Le 23 mai 2006, l’avocat de l’appelant a écrit à l’avocat de l’intimée. Les parties pertinentes de la lettre sont ainsi rédigées :
+[traduction]
+Conformément à l’article 80 des Règles de la Cour canadienne de l’impôt (procédure générale), veuillez me faire parvenir des copies des document suivants, auxquels vous faites référence dans votre réponse :
+Document Alinéa de la réponse
+[…]
+5. Virements télégraphiques (33) 9y)
+[…]
+8. Documents constitutifs et licences – Omnicorp Bank Inc. 9ff)
+9. Certificats de dépôt 9kk)
+[…]
+Vous comprenez, j’en suis certain, que j’ai le droit de disposer de copies des documents auxquels il est fait expressément référence dans un acte de procédure, et que je ne suis pas en mesure de déposer une réponse tant et aussi longtemps que je n’ai pas ces copies.
+L’avocat de l’intimée a répondu par une lettre datée du 10 novembre 2006, et a fourni les copies de sept des onze documents demandés dans la lettre du 23 mai. Il écrit ce qui suit, à propos des trois documents visés par la présente requête :
+5. L’alinéa 9y) fait référence à une activité, et non à un document.
+[…]
+8. L’alinéa 9ff) ne fait pas référence aux documents demandés.
+9. L’alinéa 9kk) ne fait pas référence à des documents.
+Le virement télégraphique est habituellement effectué au moyen d’un document électronique, dont il existe peut‑être une version papier. Un document fait généralement foi de la licence autorisant l’exercice d’activités bancaires. Les certificats de dépôt sont les preuves documentaires des transactions. Il est fallacieux de la part de l’avocat de dire qu’il ne s’agit pas de documents, bien que, selon le contexte qui se dégage de l’acte de procédure, il soit fort possible que l’intimée ne dispose pas de ces documents ou de copies de ceux‑ci. Je ne rendrai pas d’ordonnance que la partie ne pourra exécuter. Toutefois, j’ordonnerai que si l’intimée a en sa possession, sous son contrôle ou sous sa garde l’un ou l’autre des documents décrits dans ces alinéas, ou des copies de ceux‑ci, elle en fasse parvenir des copies à l’avocat de l’appelant dans les 20 jours suivant la réception de mon ordonnance. L’article 80 des Règles l’exige.
+[6] Je me pencherai maintenant sur la contestation, de la part de l’appelant, des paragraphes 9 et 10 de la réponse. N’eût été de l’article 8 des Règles, j’aurais radié une grande partie du paragraphe 9, au motif qu’il contient dans une large mesure non pas des faits pertinents, mais des éléments de preuve qui, selon l’intimée, étayent les faits pertinents. Dans Zelinski v. The Queen[1], et encore dans Globtek c. La Reine[2], j’ai statué que l’acte de procédure doit exposer les faits pertinents, et non les éléments de preuve. L’article 49 des Règles est en partie rédigé comme suit :
+49(1) Sous réserve du paragraphe (1.1), la réponse indique :
+49(1) Subject to subsection (1.1), every reply shall state
+[…]
+. . .
+d) les conclusions ou les hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation;
+(d) the findings or assumptions of fact made by the Minister when making the assessment,
+e) tout autre fait pertinent;
+[…]
+(e) any other material fact,
+. . .
+L’absence du mot « pertinent » (« material ») à l’alinéa 49(1)d) n’enlève rien aux règles en matière d’actes de procédure, qui sont bien établies depuis de nombreuses années. Dans Zelinski, j’ai invoqué le passage suivant, formulé par Holmsted et Watson[3] :
+[traduction]
+Il s’agit de la grande règle en matière d’actes de procédure; toutes les autres règles sont essentiellement des règles accessoires ou des réserves à cette règle de base selon laquelle le plaideur doit exposer les faits pertinents sur lesquels il fonde sa demande ou sa défense. La règle comporte quatre composantes distinctes : 1) chaque acte de procédure doit exposer des faits et non pas simplement des conclusions de droit; 2) il doit exposer les faits pertinents et ne pas contenir de faits dénués de pertinence; 3) il doit exposer des faits, non les éléments de preuve qui serviront à étayer ces faits; 4) il doit exposer les faits avec concision.
+Cette règle n’a rien de nouveau. Elle fait partie intégrante de la common law depuis le 16e siècle[4] et a récemment été appliquée un certain nombre de fois par la Cour : voir Gee v. The Queen[5], Terrio c. La Reine[6], Kovinic c. La Reine[7], Simser v. The Queen[8] et Brown v. The Queen[9].
+[7] Je n’ignore pas que dans Gould c. La Reine[10], le juge en chef Bowman a refusé de radier plusieurs paragraphes de la réponse dans une affaire semblable à celle qui nous occupe. Il semble que, dans Gould, les paragraphes qui étaient contestés n’avaient pas été invoqués en tant qu’hypothèses qui sous-tendaient les cotisations, même si, dans une certaine mesure, ils comprenaient des éléments de preuve plutôt que des faits pertinents. En outre, l’opposition à l’acte de procédure semble avoir pour fondement le fait que les paragraphes contestés ne se rapportaient pas au cas précis de M. Gould, plutôt qu’en raison de leur non‑pertinence. C’est l’absence de pertinence dans les hypothèses invoquées qui est préjudiciable; l’intérêt est une chose complètement différente.
+[8] Le truisme selon lequel la Couronne est tenue d’indiquer dans sa réponse toutes les hypothèses de fait qui ont donné lieu à la cotisation et qu’il incombe ensuite au contribuable de réfuter ces hypothèses au procès trouve son origine dans deux arrêts de la Cour suprême du Canada très souvent invoqués : Anderson Logging Company v. The King[11] et Johnston v. M.N.R[12]. Au fil de quelques décennies, les avocats de la Couronne dans les appels de cotisations fiscales en sont arrivés à exposer non seulement les faits pertinents sur lesquels repose la cotisation établie par le ministre, mais aussi tous les éléments de preuve qui ont mené le répartiteur du ministre à formuler ces hypothèses dans sa tête, souvent accompagnés de conclusions de droit, ou de conclusions mixtes de fait et de droit. Je n’ai pas besoin de répéter la critique que la Cour d’appel fédérale a formulée à cet égard dans Canada c. Anchor Pointe Energy Ltd[13].
+[9] La seule raison évidente de cette façon de rédiger les actes de procédure tient à ce que le ministre (ou plus exactement son avocat) adopte ensuite au procès la position selon laquelle chaque fait qui a censément été tenu pour acquis au moment de l’établissement de la cotisation, qu’il s’agisse d’un fait pertinent ou d’un simple élément de preuve, et chaque conclusion mixte de fait et de droit comprise dans l’acte de procédure à titre d’hypothèse devient un fait établi aux fins du procès, à moins que le contribuable ne soit en mesure de le réfuter. À mon avis, il s’agit d’une grossière déformation de ce que la Cour suprême a décidé dans Anderson Logging et dans Johnston. Le contribuable est la partie qui a remis en question le statu quo, c’est‑à‑dire la validité de la cotisation, et il lui revient donc de [traduction] « […] réfuter le fait principal sur lequel la taxation était fondée[14] ». Pour ce faire, le contribuable a besoin que lui soient [traduction] « […] pleinement communiqué[es] […] les conclusions de fait et les décisions de droit exactes qui ont donné lieu au différend [à la cotisation][15] », et c’est à juste titre qu’il invoque ces conclusions dans ses actes de procédure. Lorsque le juge Rand a utilisé l’expression [traduction] « conclusions de fait […] exactes », il ne voulait certainement pas dire toute la gamme des éléments de preuve sur lesquels le répartiteur avait fondé ses conclusions de fait, mais seulement les faits pertinents, c’est‑à‑dire les faits qui, s’ils sont véridiques, justifient la cotisation établie par le ministre d’après son interprétation de la loi. On dit souvent, en guise de justification, que c’est le contribuable qui connaît le mieux ses propres affaires. Ce principe découle du passage suivant de l’arrêt rendu par le juge Duff (tel était son titre), dans Anderson Logging, page 50 :
+[traduction]
+Premièrement, en ce qui a trait au débat sur la question du fardeau de la preuve. Si, dans le cadre d’un appel devant le juge de la Cour de révision, il semble, d’après les faits véridiques, que l’application de la loi pertinente soulève des doutes, il semblerait, en principe, que la Couronne doive être déboutée. Ce serait la conséquence nécessaire du principe à la lumière duquel les lois imposant un fardeau de preuve au sujet ont, en vertu d’une pratique bien enracinée, été interprétées et appliquées. Mais en ce qui a trait à l’enquête sur les faits, l’appelant se trouve dans la même position que tout autre appelant. Il doit démontrer que la cotisation contestée n’aurait jamais dû être établie; c’est à dire qu’il doit faire la preuve de faits qui permettent d’affirmer que la cotisation n’était pas autorisée par la loi fiscale ou qui jettent un tel doute sur la question qu’en vertu des principes auxquels il a été fait allusion, la responsabilité de l’appelant ne peut être retenue. Naturellement, les faits véridiques peuvent être prouvés au moyen d’éléments de preuve directe ou d’inférences probables. L’appelant peut présenter des faits pour établir une prétention prima facie qui demeure incontestée; mais pour déterminer si une telle preuve a été établie, il est important de ne pas oublier, si tel est le cas, que les faits sont jusqu’à un certain point, sinon exclusivement, du domaine de la connaissance de l’appelant; bien que pour des raisons évidentes, il convienne de ne pas trop insister sur cette dernière question.
+(Non souligné dans l’original)
+La conclusion, que j’ai mise en italique, est souvent ignorée. Il y a des affaires où, bien sûr, tous les faits sont (ou devraient être) du domaine de la connaissance du contribuable, comme lorsque le litige porte seulement sur les revenus et les dépenses d’une entreprise. Anderson Logging était elle-même une de ces affaires, la question étant de savoir si la vente de concessions forestières avait été réalisée par le contribuable dans le cadre de son entreprise ou s’il s’agissait d’un investissement. L’affaire Johnston en était une autre; la seule question de fait en litige entre les parties était celle de savoir si le contribuable subvenait aux besoins de son épouse au cours de l’année d’imposition. Dans ces deux affaires, les jugements faisaient porter le fardeau de la preuve au contribuable seulement à l’égard de ces deux faits pertinents.
+[10] L’iniquité inhérente à la pratique qui consiste à invoquer une immensité d’éléments de preuve en tant qu’hypothèses de fait qui sous-tendent la cotisation frappée d’appel tient à ce qu’elle établit censément comme véridiques tous les éléments de preuve invoqués que le contribuable n’est pas en mesure de réfuter. C’est contre un tel effet que le juge Duff nous met en garde à la fin du passage de la décision Anderson Logging que j’ai cité ci‑dessus. En l’espèce, nous avons un exemple frappant d’affaire où les hypothèses invoquées ont trait, dans une très grande mesure, à des affaires qui pourraient fort bien ne pas être du domaine de la connaissance de l’appelant. Les alinéas 9d) à 9zz) ne visent certainement pas à établir un lien entre l’appelant et les faits qui y sont énoncés, ou entre l’appelant et les gens ou les organisations mentionnés.
+[11] L’acte de procédure a pour but de définir les questions faisant l’objet du litige entre les parties aux fins de la communication préalable, tant du point de vue des documents que de celui des témoignages, ainsi qu’en prévision du procès. Cela n’exige pas plus qu’un exposé des [traduction] « conclusions de fait […] exactes » à la base de la cotisation. L’appelant pourrait subir un préjudice si plus d’éléments étaient invoqués dans un acte de procédure – certainement s’ils étaient invoqués en tant qu’hypothèses de fait. Évidemment, l’appelant a le droit d’obtenir des précisions concernant la preuve que la Couronne a l’intention de présenter au procès, mais ces précisions sont obtenues de façon régulière à l’interrogatoire préalable et non déguisées en faits pertinents à l’égard desquels la Couronne peut faire valoir une présomption de véracité au procès. En l’espèce, l’appelant soutient qu’il a droit à un crédit d’impôt en vertu de l’article 118.1 de la Loi de l’impôt sur le revenu (la « Loi »), pour un don fait à un organisme de bienfaisance enregistré. Les faits pertinents dans le cadre de cette allégation sont les suivants :
+i) l’appelant a donné l’argent en question à l’organisation;
+ii) l’organisation était un organisme de bienfaisance;
+iii) l’organisme de bienfaisance était enregistré comme tel, conformément aux dispositions de la Loi;
+iv) l’appelant a eu un reçu approprié pour le paiement;
+v) l’appelant a donné l’argent dans une intention libérale.
+D’après les aveux contenus dans les actes de procédure, il semble qu’en l’espèce, la seule question en litige a trait au dernier de ces faits. Au procès, la tâche qui incombe à l’appelant consiste donc simplement à prouver, au moyen d’un témoignage convaincant, qu’il a fait le paiement dans une intention libérale. Il ne lui revient pas de réfuter la cinquantaine d’autres « hypothèses » qui sont invoquées au paragraphe 9 de la réponse.
+[12] Dans les affaires tranchées sous le régime de la procédure générale, l’appelant peut se prévaloir de l’interrogatoire préalable, grâce auquel il peut obtenir des détails sur les éléments de preuve que la partie intimée peut produire au procès afin d’établir les faits pertinents invoqués. Je ne voudrais pas que ces propos soient considérés comme les règles qui régissent nécessairement les affaires tranchées dans le cadre de la procédure informelle, où il n’y a pas d’interrogatoire préalable et où d’autres considérations peuvent s’appliquer.
+[13] Je ne vois rien de répréhensible dans le paragraphe 10 de la réponse. Il n’est pas aussi bavard que le paragraphe 9. Chose encore plus importante, il expose les raisons pour lesquelles le ministre a imposé une pénalité à l’appelant en vertu du paragraphe 163(2). Conformément au paragraphe 163(3), le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité. Le paragraphe 10 ne donne rien de plus que les détails de ces faits. Il ne vise pas à imposer à l’appelant le fardeau de réfuter les faits qui y sont allégués.
+[14] L’article 8 des Règles est ainsi rédigé :
+8. La requête qui vise à contester, pour cause d’irrégularité, une instance ou une mesure prise, un document donné ou une directive rendue dans le cadre de celle-ci, ne peut être présentée, sauf avec l’autorisation de la Cour :
+8. A motion to attack a proceeding or a step, document or direction in a proceeding for irregularity shall not be made,
+a) après l’expiration d’un délai raisonnable après que l’auteur de la requête a pris ou aurait raisonnablement dû prendre connaissance de l’irrégularité, ou
+(a) after the expiry of a reasonable time after the moving party knows or ought reasonably to have known of the irregularity, or
+b) si l’auteur de la requête a pris une autre mesure dans le cadre de l’instance après avoir pris connaissance de l’irrégularité.
+(b) if the moving party has taken any further step in the proceeding after obtaining knowledge of the irregularity,
+except with leave of the Court.
+La réponse à l’avis d’appel a été produite en mars 2005. Depuis ce temps, l’appelant a pris au moins deux nouvelles mesures. L’une de ces mesures était une demande de production, aux termes de l’article 80 des Règles, des documents mentionnés au paragraphe 9 de la réponse, et plus précisément aux alinéas dont l’appelant demande maintenant la radiation. L’intimée a produit plusieurs documents en réponse à cette demande. L’autre mesure était une demande de détails visant les alinéas dont l’appelant demande maintenant la radiation. Dans les observations écrites qu’il a présentées à l’appui de sa requête, l’appelant n’invoque aucune raison pour laquelle je devrais lui donner l’autorisation prévue à l’article 8 des Règles après un si long délai et ces deux nouvelles mesures, et je ne vois aucune raison de le faire non plus. Pour ce motif, la requête visant la radiation de certains passages de la réponse est rejetée. Dans les circonstances, aucune partie n’aura droit aux dépens.
+Signé à Ottawa, Canada, ce 5e jour d’avril 2007.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 21e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI201
+NO DU DOSSIER DE LA COUR : 2004-4789(IT)G
+INTITULÉ : Sheldon Foss c. La Reine
+MOTIFS DE L’ORDONNANCE : L’honorable juge E.A. Bowie
+DATE DE L’ORDONNANCE : Le 5 avril 2007
+PARTICIPANTS :
+Avocat de l’appelant :
+Me D. Laurence Armstrong
+Avocat de l’intimée :
+Me David I. Besler
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me D. Laurence Armstrong
+Cabinet : Armstrong Nikolich
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] [2002] 1 C.T.C. 2422.
+[2] 2006 CCI 16.
+[3] Holmsted et Watson, Ontario Civil Procedure, vol. 3, pages 25-20 à 25-21.
+[4] Dowman’s Case, (1586), 9 Co.Rep. 9b; 77 E.R. 735, page 738.
+[5] [2003] 4 C.T.C. 2737.
+[6] 2006 CCI 494.
+[7] 2006 CCI 496.
+[8] 2003 DTC 617, pages 658 et 659.
+[9] 2002 DTC 1385.
+[10] 2005 CCI 556.
+[11] [1925] S.C.R. 45.
+[12] [1948] S.C.R. 486.
+[13] 2003 CAF 294; 2003 DTC 5512.
+[14] Supra, n. 12, par le juge Rand, page 489.
+[15] Ibid., p. 490.

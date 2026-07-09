@@ -1,0 +1,140 @@
+---
+title: "Marche du Faubourg Ste-Julie Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28113/index.do"
+last_modified: "2003-09-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 641"
+citation2: ""
+neutral_citation: "2003 TCC 641"
+decision_date: "2003-09-16"
+language: "en"
+item_id: "28113"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1633
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:43:34.957000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a0487c2eeb787bcc40ccb5222258584579c0263fdc71176b6af912424f426764"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Marche du Faubourg Ste-Julie Inc. v. M.N.R.
+
+- Citation: 2003 TCC 641
+- Decision date: 2003-09-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1633, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marche du Faubourg Ste-Julie Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-16
+Neutral citation
+2003 TCC 641
+File numbers
+2002-4710(EI)
+Judges and Taxing Officers
+Pierre R. Dussault
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-4710(EI)
+BETWEEN:
+MARCHÉ DU FAUBOURG STE-JULIE INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+______________________________________________________________
+Appearances:
+Agent for the Appellant:
+Alain Savoie
+Counsel for the Respondent:
+Marie-Claude Landry
+_______________________________________________________________
+I request that the Reasons for Decision delivered from the Bench to the Tax Court of Canada, 500 Place d'Armes, Montreal, Quebec, on August 12, 2003, and edited on September 16, 2003, be filed.
+Signed at Ottawa, Canada, this 16th day of September 2003.
+"P. R. Dussault"
+Dussault, J.
+Translation certified true
+on this 22nd day of March 2004.
+Sharon Moren, Translator
+Citation: 2003TCC641
+Date: 20030916
+Docket: 2002-4710(EI)
+BETWEEN:
+MARCHÉ DU FAUBOURG STE-JULIE INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+______________________________________________________
+Reasons delivered orally from the Bench at the Tax Court of Canada,
+500 Place d'Armes, Montreal, Quebec,
+on August 12, 2003, and edited on September 16, 2003
+REASONS FOR JUDGMENT
+P. R. Dussault, J.
+[1] I will begin by giving you my decision and I will then explain it because I think that there is a great deal of rather significant fine-tuning to be done.
+[2] So, my decision is to allow the appeal. The reasons are essentially those that were set out by Mr. Savoie; I am not going to repeat everything that he said. But I think it is important to place things in their proper perspective. So, I will first of all take the Employment Insurance Act. Paragraph 5(1)(a) tells us:
+Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[3] Paragraph 5(1)(a) deals with employment that is performed under the terms of a contract of service.
+[4] That is acknowledged in this case. Therefore, I do not see any way the criteria set out by Ms. Landry concern control or the power of control, ownership of tools, chance of profit, risks of loss and integration into the business; I absolutely do not see how this can be relevant for the purposes of the dispute that I had to rule on.
+[5] These four criteria or four main criteria or the whole of the various elements as was said in Wiebe Door, and reiterated afterward in a number of other decisions, these criteria are intended to establish whether we are faced with a contract of service or if we are dealing with a contract for service, that is, an individual who is self-employed.
+[6] This has nothing to do with our context, since it was acknowledged from the outset that there is a contract of service. Éric and Richard Raymond are employees; there is no one who has contested that to date. Therefore, the criteria set out by Ms. Landry are absolutely irrelevant, as is jurisprudence concerning the power of control. This has nothing to do with our topic.
+[7] I turn to subsection (2), paragraph (i) of the Employment Insurance Act. Paragraph 5(2)(i) tells us:
+Insurable employment does not include. . .
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+[8] Therefore, from the outset, even if it was a question of a contract of service at the outset, there is exclusion of employment when the employer and employee are not dealing with each other at arm's length. I turn to subsection 5(3) :
+For the purposes of paragraph (2)(i)(a). . .
+5(3)(a) therefore :
+the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act;
+[9] In the Income Tax Act for those who know it, it is section 251. And section 251 includes, subsection (1) includes the following paragraphs. It says at the outset:
+related persons shall be deemed not to deal with each other at arm's length;
+[10] It is a question of knowing if the individuals are related. I am giving you the line of thought, because I find that there is so much confusion that I want to clarify things.
+[11] And it says, the question now in (c), but it is a recent amendment:
+. . . it is a question of. . .
+[12] that is, there is another provision, which is not applicable here:
+. . . it is a question of fact whether persons not related to each other are at a particular time dealing with each other at arm's length.
+[13] Therefore, there is an absolute assumption that related persons have a non arm's length relationship, that is what is important.
+[14] Mr. Roger Raymond is not the employer here. It is Marché du Faubourg Ste‑Julie Inc. That said, if we consider the Income Tax Act following 251(1), in what situation are individuals related? Well, the individuals are firstly related, if one person controls a corporation with share capital, the individuals are related. Therefore, Roger Raymond is related to Marché du Faubourg Ste‑Julie Inc. His two sons are related to him by blood. As Roger Raymond is related to the corporation, obviously, the two sons are also related to the corporation by the same token, the corporation that is the employer. At this moment, we have a situation with individuals who have a non-arm's length relationship because they are related to each other, that is, the two sons and Marché du Faubourg Ste‑Julie Inc., which is the employer. I hope that that, that is clear for everyone. I think that it was on the one hand, but not completely on the other.
+[15] From there, I turn to (3)(b), 5(3)(b) then, which tells us:
+if the employer is, within the meaning of that Act, related to the employee, . . .
+[16] Therefore, as per the Income Tax Act, what we have just observed,
+. . . they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[17] So, this is what the exercise of ministerial discretion must rest upon, essentially. That is where it should have rested. As that involved other things, the four criteria, as you have told me, Ms. Landry, clearly the Minister or the officer is not well acquainted with the Act.
+[18] With regard to this paragraph, there is nothing, absolutely nothing in the Reply to the Notice of Appeal, in the facts assumed by the Minister, that indicated what elements really were taken into account in order to arrive at the conclusion that Éric and Richard Raymond would have entered into a roughly similar contract with Marché du Faubourg Ste‑Julie inc. had there not been a non-arm's length relationship with this company. The Reply to the Notice of Appeal, as I have said from the outset, absolutely does not indicate what the Minister went on, such that it seemed totally inappropriate to me to place the onus on the Appellant's shoulders to show that the Minister did not exercise his discretion in accordance with the principles applicable in the matter. That is, to show that he has not examined all the relevant elements or that he was unaware of some relevant elements. But even if we wanted to place the onus there, on the Appellant's shoulders, I believe that the evidence has shown that clearly a number of things were not taken into account because it is obvious that it is the relationship of these two employees, the fact that they are related to the company, which makes their conditions so different from those of the other employees, particularly the other managers. It is precisely due to this non-arm's length relationship, which arises from the fact that they are related, that the work conditions are different.
+[19] Whether talking about the tasks or the responsibilities that are given to them, the remuneration, the salary and bonus, (both items must be taken into account) the work timetable, sick leaves, the advantages they enjoyed, courses, conventions, trips, use of credit cards, all these conditions, I have seen almost nothing in the evidence that I have heard today that makes the work conditions of these two individuals similar to those of the other managers in the same store.
+[20] We could also discuss the guarantees that were given by these individuals, of life insurance, all in all, I am not going to repeat all the evidence that I heard today. In my opinion, there is almost nothing similar.
+[21] So, why do they have these conditions that are very different from those of the other employees? Well, it is by virtue of the non-arm's length relationship, obviously, this non-arm's length relationship coming from the fact that they are related to the company.
+[22] As for the rest, as I have said, there is absolutely no relevance since it was established from the outset that these individuals were employees, that is, that they were under a contract of service.
+[23] So, I think I have more or less summarized the reasons for my decision.
+Signed at Ottawa, Canada, this 16th day of September 2003.
+"P. R. Dussault"
+Dussault, J.
+Translation certified true
+on this 22nd day of March 2004.
+Sharon Moren, Translator

@@ -1,0 +1,235 @@
+---
+title: "Mahmood c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29086/index.do"
+last_modified: "2009-02-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 89"
+citation2: ""
+neutral_citation: "2009 CCI 89"
+decision_date: "2009-02-06"
+language: "fr"
+item_id: "29086"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6741
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:11:39.680000+00:00"
+cases_cited_count: 3
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "187d89d472450fab7d01c98a095334632e9b6f49719dc58cc7172068e5365c69"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mahmood c. La Reine
+
+- Citation: 2009 CCI 89
+- Decision date: 2009-02-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6741, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mahmood c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-02-06
+Référence neutre
+2009 CCI 89
+Numéro de dossier
+2003-2907(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2907(IT)G
+ENTRE :
+FAZAL MAHMOOD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 3, 4, 5, 6 et 7 novembre 2008, à Toronto (Ontario).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l’appelant :
+Me W. Ross MacDougall
+Avocat de l’intimée :
+Me Steven D. Leckie
+JUGEMENT
+L’appel des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1999, 2000 et 2001 est accueilli avec dépens et les cotisations sont annulées, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 6e jour de février 2009.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 15e jour de JUIN 2009.
+François Brunet, réviseur
+Référence : 2009CCI89
+Date : 20090206
+Dossier : 2003-2907(IT)G
+ENTRE :
+FAZAL MAHMOOD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] Il s’agit d’un appel de cotisations établies par le ministre du Revenu national (le « ministre ») pour les années d’imposition 1999, 2000 et 2001 à l’égard d’un revenu non déclaré s’élevant respectivement à 312 896 $, à 174 248 $ et à 315 041 $.
+I. Les faits
+[2] En établissant des cotisations à l’égard de l’appelant pour les années d’imposition en cause, le ministre s'est notamment fondé sur les hypothèses suivantes :
+[traduction]
+a) l’appelant n’est pas un résident du Guyana;
+b) ni l’appelant ni son entreprise individuelle ne sont inscrits auprès de Guyana Telephone and Telegraph Co.;
+c) au cours des années d’imposition en question, l’appelant n’exerçait aucune activité commerciale légitime au Guyana;
+d) en 1999, en l’an 2000 et en 2001, l’appelant n’exerçait aucun emploi au Guyana;
+e) l’appelant passe autant de temps au Canada qu’au Guyana;
+f) l’appelant a séjourné au Canada pendant les périodes suivantes :
+1997 102 jours
+1998 204 jours
+1999 156 jours
+2000 236 jours
+2001 181 jours
+g) la mère de l’appelant (Mme Nazboon Sarfraz) et sa sœur (Mme Sally Aziz) résident au Canada;
+h) lorsqu’il est au Canada, l’appelant habite un condominium enregistré à son nom (il possède à 98 p. 100 un intérêt dans le condominium) et au nom d’Aslim Ahamad (qui possède un intérêt de 2 p. 100 dans le condominium);
+i) le condominium n’est pas grevé d’une hypothèque;
+j) le condominium est le logement permanent de la mère de l’appelant (Mme Nazboon Sarfraz);
+k) le condominium est situé au 3455, Morningstar Drive, unité 225, Mississauga (Ontario), Canada;
+l) au mois de mai 1976, l’appelant a demandé et obtenu un numéro d’assurance sociale canadien;
+m) l’appelant détient les cartes de crédit canadiennes suivantes :
+Hudson’s Bay/Zellers
+CIBC VISA
+Banque Royale VISA
+Sears Canada
+Canadian Tire MasterCard
+n) lorsqu’il a demandé des cartes de crédit Canadian Tire et Hudson’s Bay‑Zellers, l’appelant a signé des documents dans lesquels il reconnaissait avoir été résident du Canada pendant au moins un an et ne pas avoir fait de fausses déclarations dans la demande;
+o) l’appelant a, au Canada, trois comptes bancaires à la Banque Royale, dont l’un (compte 5101985) est un compte conjoint aux noms de l’appelant et de M. Sheik Ghazali Mahmood, et les deux autres (comptes 4508255 et 5047782) au nom de l’appelant;
+p) la plupart des opérations bancaires conclues par l’appelant ont eu lieu en Ontario et elles étaient de nature continue;
+q) le système bancaire, au Guyana, se prêtait d’une façon adéquate à la conclusion d’opérations de change;
+r) la composante canadienne des opérations financières était cruciale aux fins du virement des fonds.
+[3] A l'ouverture du procès, les avocats de l’intimée et de l’appelant ont produit un recueil conjoint de documents en quatre volumes (le « recueil conjoint ») renfermant des documents qui, selon les deux parties, étaient authentiques.
+[4] Les cotisations ont été établies à l’endroit de l’appelant à la suite de la saisie d’environ 35 000 livres sterling, de 107 805 $CAN et de 18 400 $US en espèces lorsque l’appelant est arrivé à l’aéroport Lester B. Pearson, à Toronto, le 11 novembre 2001. L’appelant a alors été arrêté et il a par la suite été remis en liberté. L’appelant a été interrogé à plusieurs reprises par les agents de Douanes Canada au sujet de l’objet de ses multiples séjours au Canada. Au cours d’une année antérieure, la Gendarmerie royale du Canada (la « GRC ») avait saisi de l’argent dans les bagages de l’appelant. Ces fonds ont par la suite été rendus à l’appelant. Cette fois‑ci, l’appelant n’a pas eu autant de chance. L’argent que la GRC a saisi à l’aéroport Lester B. Pearson n’a pas été rendu à l’appelant étant donné qu’avant la fin de la saisie effectuée par la GRC, l’Agence du revenu du Canada (l’« ARC ») a saisi les fonds conformément à une ordonnance conservatoire qui avait été demandée en vue de garantir le paiement des impôts en cause, dans l’éventualité où les cotisations seraient confirmées.
+[5] La preuve documentaire contenue dans le recueil conjoint, en particulier les affidavits du sergent Gene Hann, de la GRC, à l'appui de la demande d’ordonnance de saisie initiale, donne à penser que l’appelant blanchissait le produit du trafic de cocaïne, au Canada, au Royaume‑Uni et aux États‑Unis, auquel se livrait une organisation criminelle dont le siège social était situé au Guyana. Je note que l’appelant n’a pas été accusé de ces prétendues activités. Le sergent Hann a témoigné que la GRC n’envisageait pas de porter des accusations à l’égard des prétendues activités de l’appelant étant donné que le blanchiment de fonds est une infraction difficile à prouver. Le sergent Hann a témoigné être satisfait du résultat obtenu jusqu’à ce jour, à savoir que l’appelant s’est vu refuser l’accès au Canada et que le présumé produit de la criminalité est sous la garde de l’ARC.
+[6] L’appelant conteste les faits relatés dans ses affidavits par le sergent Hann. Il affirme qu’au cours des années visées par l’appel, il effectuait des opérations bancaires licites au Canada. Il déclare avoir commencé à acheter et à vendre des devises au Guyana en 1985 et avoir continué à le faire jusqu’à l'heure actuelle. Il achète des devises, souvent en dollars américains ou canadiens, de touristes ou de cambistes qui exercent leurs activités partout au Guyana. L’appelant allègue que les banques au Guyana n’ont pas de grosses réserves de devises et n’offrent pas des taux de change concurrentiels à leurs clients. Il affirme que la plupart des touristes et des anciens résidents du Guyana qui viennent des États‑Unis ou du Canada pour leurs vacances ou pour visiter des membres de leur famille préfèrent traiter avec des marchands ambulants locaux lorsqu’ils convertissent des devises en dollars du Guyana.
+[7] L’appelant allègue que, en 1990, il a commencé à importer des produits alimentaires dans son pays d’origine avec son associé, Fazal Khan, qui est également citoyen et résident guyanien. Au début, ils importaient du lait en poudre d’Irlande. Par la suite, ils ont élargi leurs activités à l’huile de cuisson importée de la Hollande, la levure du Mexique, au tapioca de la Thaïlande, aux sacs en plastique de la Chine, au concentré de tomate d’un fournisseur établi en Italie, au jus d’orange de Miami et à la gomme à mâcher Wrigley de Chicago. L’appelant a témoigné que son associé et lui vendaient ces produits alimentaires à des grossistes ou à des détaillants au Guyana. L’appelant m’a renvoyé à de nombreuses lettres et cartes de Noël signées par des fournisseurs, à des connaissements, à des polices d’assurance et à des factures qui lui étaient adressées chez lui, au Guyana, comme preuve des activités commerciales légitimes qu’il exerçait dans ce pays.
+[8] En 1995, l’appelant a loué un entrepôt de stockage situé à Paramaribo, au Suriname. Les détaillants et grossistes guyaniens se rendaient au Suriname en bateau jusqu’à l’entrepôt de stockage pour acheter des marchandises. Les marchands étaient responsables du dédouanement des marchandises au Guyana.
+[9] L’appelant allègue que les fonds qui ont été apportés au Canada ont été achetés avec des dollars du Guyana provenant de son entreprise d’importation et qu’ils appartenaient également à d’autres marchands guyaniens, qui avaient conclu avec lui un contrat pour qu’il paie les tiers fournisseurs pour leur compte. Il affirme avoir acheté des dollars canadiens et des dollars américains parce que ses fournisseurs n’acceptaient pas les paiements en argent local. Environ 6 250 000 $ en tout ont été apportés au Canada au cours des années d’imposition en cause. Chaque fois qu’il quittait le Guyana, l’appelant remplissait des formulaires des douanes à l’égard de l’argent qu’il apportait au Canada. Les formulaires de déclaration de devises doivent être remplis par les voyageurs lorsqu’ils quittent le Guyana.
+[10] L’appelant a témoigné avoir utilisé quatre comptes bancaires distincts qu’il avait ouverts à la Banque Royale du Canada (« RBC ») en Ontario en vue de déposer régulièrement l’argent qu’il apportait au Canada. L’appelant a expliqué que, pour chacun de ces comptes, il accordait un pouvoir de signature à un membre de la famille, de sorte qu’il soit possible de conclure des opérations bancaires en cas d’incapacité ou de décès. Le compte bancaire pour lequel son fils était signataire autorisé était principalement utilisé pour payer les frais d’entretien et d’autres frais relatifs à un condominium que l’appelant possédait en Ontario. Le fils de l’appelant vivait avec sa mère au Canada lorsque ce compte a été ouvert. L’appelant affirme que sa mère et sa sœur étaient responsables du paiement des charges condominiales et des frais connexes et qu’il déposait de l’argent dans ce compte, de façon que les paiements puissent être effectués à temps. Sa mère déposait également, de temps à autre, l’argent qu’elle avait reçu d’anciens résidents du Guyana qui vivaient au Canada. Dans ces cas‑là, l’appelant avait convenu de verser l’argent en dollars du Guyana aux membres de la famille des amis et des connaissances de sa mère à son retour au Guyana.
+[11] Le compte que l’appelant a ouvert conjointement avec sa femme était un compte en dollars américains. Ce compte a été ouvert pendant que sa femme effectuait un séjour au Canada avec lui. L’appelant a témoigné avoir fermé le compte qu’il avait ouvert avec sa sœur parce qu’elle avait retiré de l’argent pour payer des dépenses personnelles et que cela avait entraîné un découvert.
+[12] L’appelant a ouvert un compte bancaire sous la raison sociale F.M. Trading Enterprises (« F.M. Trading ») à la demande de la RBC, qui l’avait informé que la banque n’acceptait pas de gros dépôts en argent dans des comptes bancaires personnels. La RBC n’était prête à le faire que si un compte était ouvert au nom d’une entreprise.
+[13] L’appelant allègue que F.M. Trading est un nom commercial qu’il a choisi pour désigner l'entreprise qu’il exploite avec son associé, M. Khan. Le document enregistré auprès d’Affaires commerciales Ontario indique l’adresse de l’appelant, au Guyana, comme siège social de l’entreprise. Toutefois, sous le titre [traduction] « Nom de l’entreprise et adresse postale », l’appelant a inscrit l’adresse de la résidence de sa sœur en Ontario, et il a inscrit les numéros de téléphone et de télécopieur de la résidence de sa sœur.
+[14] Il ressort de la preuve documentaire que l’appelant faisait affaire avec Friedberg & Co Inc. et Calforex, deux importants cambistes de la région métropolitaine de Toronto, lorsqu’il s’agissait d’effectuer des paiements électroniques en faveur de ses propres fournisseurs ainsi qu’en faveur de marchands guyaniens pour lesquels il avait accepté d’agir à titre d’agent payeur.
+[15] On a montré à l’appelant un acte de transfert qui avait été produit dans son recueil de documents (le « recueil de l’appelant »). L’appelant a témoigné que cet acte de transfert se rapportait à l’achat d’un bien‑fonds désigné comme étant [traduction] « le lot 142 [...] section A [...] à Corriverton, côte de la rivière Corentyne, comté de Berbice, République du Guyana [...] ». La famille de l’appelant louait ce terrain depuis 1976 et avait fait construire une maison sur le terrain loué (la « maison familiale »).
+[16] L’appelant a témoigné être un musulman pieux et aller régulièrement à la mosquée, au Guyana et au Canada, pendant ses séjours. Il a déclaré avoir été membre actif du Guyana Islamic Trust au cours des années d’imposition en cause. L’appelant allègue qu’il s’agit d’un organisme de bienfaisance qui donne de l’argent aux familles pauvres, au Guyana, et qui les aide.
+[17] L’appelant possède une motocyclette Honda 125 cm3 qu’il utilise au Guyana, laquelle est enregistrée à son nom. Il m’a renvoyé à une copie de sa police d’assurance[1] pour établir que la motocyclette est enregistrée à son nom au Guyana. L’appelant déclare ne pas détenir de permis de conduire canadien, mais il a admis avoir acheté, au Canada, une voiture d’occasion qui est enregistrée au nom d’un ami qui vit au Canada. Cette voiture était mise à sa disposition et il la garait généralement au condominium, à proximité de Toronto, où vivait sa mère.
+[18] L’appelant est entré au Canada avec un visa pour entrées multiples délivré par le gouvernement canadien, lequel a expiré peu de temps après son arrestation. L’appelant a demandé un nouveau visa, mais sa demande a été refusée.
+[19] L’appelant allègue n’avoir jamais cherché d’emploi au Canada et ne pas avoir demandé le droit d’établissement. Il affirme ne pas avoir demandé de numéro d’assurance sociale canadien (le « NAS »). À cet égard, son avocat lui a montré une lettre signée par C. Lemay, de Citoyenneté et Immigration, le 7 juin 2002, adressée à M. Angelo Villella, Enquêtes, Programme spécial d’exécution (le « PSE »), de l’ARC. Dans cette lettre, M. Lemay signalait que Développement des ressources humaines Canada (« DRHC ») l’avait informé qu’une carte d’assurance sociale avait été délivrée à l’appelant en 1976.
+[20] L’appelant fait valoir qu’avant 1976, il était facile d’obtenir une carte d’assurance sociale en remplissant un formulaire de demande et en l’envoyant par la poste aux autorités compétentes. Les parents de l’appelant se sont séparés lorsqu’il était enfant et son père s’est installé à Winnipeg, vers 1975. L’appelant suppose que c’est son père qui a probablement demandé la carte d’assurance sociale sans qu’il le sache et sans qu’il donne son approbation.
+[21] L’appelant a acheté un condominium situé à proximité de Toronto afin de permettre à sa mère de jouir d’un certain confort dans ses vieux jours. Il allègue qu’un courtier en hypothèques l’a informé qu’en sa qualité de non‑résident du Canada, il ne pouvait pas obtenir d’hypothèque. Apparemment, pour avoir droit à une hypothèque, il fallait que le condominium appartienne en partie à un résident canadien. L’appelant a donc fait enregistrer un droit de 2 p. 100 sur la propriété au nom d’Aslim Ahamad, un ami intime qui vivait au Canada. La part de 98 p. 100, quant à elle, a été enregistrée au nom de l’appelant.
+[22] L’appelant a admis qu’il restait avec sa mère au condominium lorsqu’il effectuait des séjours au Canada. Il a témoigné que sa mère et sa sœur avaient acheté les meubles pour le condominium, sauf un appareil de télévision qu’il avait acquis pour le donner en cadeau à sa mère.
+[23] Après avoir ouvert des comptes bancaires à la RBC, l’appelant a reçu un grand nombre de formulaires de demande de carte de crédit. Il a finalement demandé et obtenu cinq cartes de crédit. Son avocat a renvoyé l’appelant aux relevés de transactions se rapportant à chacune de ses cartes de crédit. Je remarque que la plupart des achats énumérés dans les relevés se rapportaient à des billets d’avion de BWIA et à des articles qui sont compatibles avec le témoignage de l’appelant selon lequel il acquérait des marchandises au Canada pour utilisation au Guyana.
+[24] L’appelant a fourni des cotisations fiscales, des avis de paiement et des avis d’acompte provisionnel délivrés par le Inland Revenue Service, au Guyana, pour les années d’imposition en cause. Il a produit ses déclarations de revenus en se fondant sur le fait qu’il était résident du Guyana. L’appelant a fourni un état des résultats de la coentreprise pour l’exercice ayant pris fin le 31 décembre 1999. Cet état indiquait que le revenu net global de l’entreprise pour l’année 1999 était d’environ 5 580 $CAN. Cet état a été préparé par le conseiller fiscal de l’appelant.
+[25] La fille de l’appelant, Wallima Hadiya Shamsudeen, a témoigné qu'elle vivait en Ontario et était mariée à un résident du Canada. Mme Shamsudeen a également allégué qu’au cours des années en cause, elle habitait la maison familiale, au Guyana, avec ses parents et deux de ses trois frères. Elle effectuait alors ses études secondaires.
+[26] Le témoin a corroboré la déclaration de l’appelant selon laquelle son frère aîné, Sheik Mahmood, s’est installé au Canada en 2001 et qu’il y est resté pendant quelques années, mais qu’il est depuis lors retourné dans leur pays d’origine.
+[27] La mère de l’appelant a témoigné être née au Guyana et avoir marié le père de l’appelant en 1951. Le couple a divorcé lorsque leur fils était un jeune enfant. Le témoin a expliqué que ses cinq enfants ont été élevés au Guyana. La mère a corroboré le témoignage de son fils, à savoir qu’il avait acheté le bien‑fonds sur lequel est située la maison familiale.
+[28] La mère de l’appelant s’est installée au Canada il y a environ 21 ans. Lorsqu’elle a immigré au Canada, son fils était marié et vivait avec sa femme et deux enfants, au Guyana. Elle a témoigné que son fils et sa famille ont toujours habité la maison familiale.
+[29] La mère a corroboré le témoignage de son fils, à savoir qu’elle déposait de petits montants en espèces dans les comptes de l’appelant à la RBC à la demande de divers membres de la collectivité guyanienne qui vivaient au Canada. Le témoin et sa fille déposaient également de l’argent en vue de payer les frais d’entretien du condominium.
+[30] Stuart Wuebbolt, enquêteur à l’ARC, a témoigné que le dossier lui avait initialement été attribué en 2002. Il a traité le dossier de l’appelant avec Tracy Mccellan, une vérificatrice affectée à la Division des produits de la criminalité, une initiative conjointe de l’ARC et de la GRC.
+[31] Le témoin a expliqué qu’il avait demandé les relevés de cartes de crédit et les relevés de comptes bancaires de l’appelant. Il avait également demandé des précisions au sujet des voyages en avion que l’appelant avait effectués, avec BWIA, la compagnie aérienne qu’il utilisait pour venir au Canada.
+[32] Le témoin a passé en revue les critères suivis par l’ARC dans le bulletin d’interprétation IT‑221R3 (Détermination du statut de résident d’un particulier). En l'occurence il a tenu compte de la régularité des séjours effectués par l’appelant au Canada, du temps qu’il passait au Canada avec des membres de sa famille immédiate (notamment avec sa sœur, sa mère et son fils), du fait qu’il possédait un condominium, en Ontario, et des opérations commerciales effectuées par l’appelant au Canada, en établissant que l’appelant résidait au Canada pour l’application de la Loi de l’impôt sur le revenu (Canada) (la « Loi »). Le témoin a examiné les documents de voyage de BWIA de l’appelant et ses relevés de comptes bancaires pour établir le nombre de jours que celui‑ci passait au Canada.
+[33] M. Wuebbolt a témoigné que les renseignements de BWIA n’étaient pas complètement sûrs étant donné que, selon certains renseignements, des membres de la famille avaient peut‑être effectué des voyages en utilisant les primes de voyage de l’appelant. Le témoin n’a pas pu établir si l’appelant lui‑même avait effectué tous les voyages mentionnés dans les documents de la compagnie aérienne. Il s’est donc fondé sur les relevés de comptes bancaires et sur les relevés de cartes de crédit et il a supposé que l’appelant était au Canada chaque jour où une opération bancaire ou une transaction faite à l’aide d’une carte de crédit avait été conclue au Canada.
+[34] Le témoin a également tenu compte du fait que l’appelant avait un numéro d’assurance sociale canadien. Il a supposé que l’appelant avait demandé une carte d’assurance sociale, étant donné que son dossier ne contenait aucun renseignement contraire.
+[35] On a demandé au témoin s’il avait tenu compte du fait que l’appelant avait peut‑être fait des affaires au Canada au cours des années d’imposition en question. Il a répondu que les cotisations étaient uniquement fondées sur le fait que l’appelant était résident au Canada.
+[36] M. Wuebbolt a témoigné avoir établi une cotisation arbitraire à l’égard du revenu de toutes provenances de l’appelant aux fins de la Loi. En l’absence de renseignements sûrs, il a supposé que tous les dépôts effectués dans les comptes bancaires de l’appelant, sauf dans le compte de F.M. Trading, faisaient partie des revenus de toutes provenances de l’appelant. Les dépôts bancaires de F.M. Trading étaient exclus parce que le témoin estimait qu’il y avait peu de chances que l’ARC perçoive les impôts qui étaient dus sur le revenu additionnel qui serait imposé si les dépôts dans ce compte étaient inclus dans le revenu.
+[37] L’avocat de l’appelant, Me MacDougall, a longuement contre‑interrogé M. Wuebbolt. Il a demandé au témoin s’il avait tenu compte de l’affidavit du sergent Hann, en totalité ou en partie, en préparant son rapport et le témoin a répondu par la négative. Me MacDougall a signalé que le sergent Hann avait déclaré, dans son affidavit, que l’appelant se livrait censément à des activités illégales de blanchiment de fonds au Guyana. Il a demandé à M. Wuebbolt pourquoi, lorsqu'il a tiré ses conclusions, il n’avait pas tenu compte de la présumée conduite illégale de l’appelant au Guyana dont le sergent Hann avait fait mention.
+[38] Me MacDougall a signalé à M. Wuebbolt un certain nombre de lacunes dans son rapport sur la détermination du statut de résident. En effet, dans son rapport final, M. Wuebbolt ne tenait pas compte du fait que l’appelant possédait un permis de conduire, une carte d’identité et un passeport délivrés par le gouvernement du Guyana et que l’appelant avait produit des déclarations de revenus à titre de résident du Guyana.
+II. Les thèses des parties
+[39] Me MacDougall soutient que la preuve montre qu’au cours des années d’imposition en cause, l’appelant ne résidait pas habituellement au Canada. Il affirme que les faits de la présente affaire sont différents des faits que le juge Rand a examinés dans l’arrêt Thomson v. Minister of National Revenue, [1946] R.C.S. 209, de la Cour suprême du Canada. Il soutient qu’on ne saurait conclure que l’appelant ne pouvait être réputé avoir été résident au Canada pour l’année d’imposition 2000 puisque l’examen de son passeport montre que l’appelant était présent au Canada pendant moins de 183 jours cette année‑là. Je n’ai pas à examiner cette question pour les années d’imposition 1999 et 2001 puisque l’intimée admet que l’appelant était présent au Canada pendant moins de 183 jours au cours de chacune de ces années.
+[40] Enfin, Me MacDougall soutient que le centre des intérêts vitaux de son client est plus étroitement lié au Guyana, son pays de naissance, de sorte que l’appelant est résident au Guyana aux fins de la Loi au sens de l’alinéa 4(2)a) de la Convention fiscale Canada-Guyana (la « convention »).
+[41] Dès le début de l’instance, Me MacDougall a clairement fait savoir qu’il ne produirait pas de preuve en vue de contester le montant du revenu à l’égard duquel son client serait assujetti à l’impôt par suite des cotisations. Il convient que, pour statuer, il suffit que la Cour se prononce uniquement sur la question de savoir si son client était un résident du Canada au cours des années d’imposition en question.
+[42] Comme on peut s’y attendre, l’avocat de l’intimée, Me Leckie, soutient que la preuve appelle les conclusions suivantes :
+a) l’appelant était résident, ou résident habituel ou normalement, au Canada au cours des années d’imposition 1999, 2000 et 2001;
+b) subsidiairement, l’appelant est réputé avoir résidé au Canada au cours de l’année d’imposition 2000 parce qu’il avait séjourné au Canada pendant plus de 183 jours;
+c) si je devrais conclure que l’appelant était résident dans les deux pays, l’appelant était résident du Canada aux fins de la Loi, compte tenu des règles décisives figurant à l’alinéa 4(2)a) de la convention.
+III. Analyse
+[43] La question dont je suis saisi est essentiellement une question de fait. Ainsi, il convient d’examiner brièvement l'arrêt que la Cour suprême du Canada a rendu dans l’affaire Thomson v. Minister of National Revenue, précitée, et la décision que l’ancien juge en chef Bowman, de la Cour, a rendue dans l’affaire Fisher v. The Queen, 95 DTC 840.
+[44] Dans l’arrêt Thomson, il a été conclu que l’appelant [traduction] « résidait » ou [traduction] « résidait habituellement » au Canada au cours des années d’imposition en cause. M. Thomson, qui était citoyen canadien, disposait de logements à East Riverside (Nouveau‑Brunswick) et à Pinehurst (Caroline du Nord). Chaque année, le contribuable quittait la Caroline du Nord pour s’installer au Nouveau‑Brunswick avec sa famille et ses domestiques. Il restait sans faute au Nouveau‑Brunswick pendant une période continue de 150 jours, du mois de mai au mois d’octobre. Il quittait le Nouveau‑Brunswick à l’approche de l’hiver, à la fin du mois d’octobre, et il retournait à Pinehurst avec sa famille et ses domestiques. Tel était le mode de vie que le contribuable et sa famille avaient adopté. Le juge Rand interprète le terme « résident » et l'expression « résident habituel » comme suit :
+[traduction]
+Le temps, l’objet, l’intention, la continuité et les autres circonstances pertinentes sont des éléments d'intensité variable; cela montre que, dans le langage ordinaire, le terme « résident » ne correspond pas à des éléments fixes qui doivent tous être présents dans chaque cas donné. Il est tout à fait impossible d’en donner une définition précise et applicable à tous les cas. Ce terme est très souple, et ses nuances nombreuses varient non seulement suivant le contexte de différentes matières, mais aussi suivant les différents aspects d’une même matière. Dans tel cas, on y retrouve certains éléments, dans d’autres, on en trouve d’autres dont certains sont fréquents et certains autres nouveaux.
+L’expression « résident habituel » a un sens restrictif et, alors qu’à première vue elle suppose une prépondérance dans le temps, la jurisprudence relative à la loi anglaise a rejeté ce point de vue. On a jugé qu’il s’agit de résidence selon le mode habituel de vie de l'intéressé, par opposition à une résidence spéciale, occasionnelle ou fortuite. Pour appliquer le critère de la résidence habituelle, il faut donc examiner le mode de vie général.
+Au regard de la législation fiscale, chaque personne a, forcément en tout temps, une résidence. Il n’est pas nécessaire qu’elle ait une maison, ni un endroit particulier où elle demeure, ni même un abri. Elle peut dormir en plein air. Il importe seulement de déterminer les limites territoriales à l’intérieur desquelles elle vit ou celles qui sont rattachées à son mode de vie organisé ou habituel. La meilleure façon de comprendre la notion de résidence « normale » est de la comparer à la notion opposée de résidence occasionnelle ou inhabituelle. Celle-ci, de toute évidence, semblerait non seulement être temporaire et exister en raison de circonstances exceptionnelles, mais aussi être teintée d’une idée de « transition » et de « retour ».
+Mais dans les différents cas où il est question de « résidence permanente », de « résidence temporaire », de « résidence habituelle », de « résidence principale » et ainsi de suite, les qualificatifs ne changent rien au fait qu’il s’agit, dans tous les cas, de résidence. Cette qualité de « résidence » est principalement une question de degré auquel une personne, dans son esprit et dans les faits, adopte, maintient et centralise son mode de vie habituel, avec tout ce que cela comporte : relations sociales, intérêts, commodités et confort du lieu choisi. Il se peut que la situation soit limitée dans le temps dès le départ, ou indéfinie, ou au contraire illimitée. À un niveau plus terre‑à‑terre, les expressions impliquant la notion de résidence devraient se détacher des notions de « séjour » et de « visite », comme elles le sont dans le langage ordinaire[2].
+[45] La Cour suprême du Canada a conclu que le contribuable avait une double résidence parce que [traduction] « [...] sa vie au Canada [était] enracinée et établie à peu près de la même façon qu’aux États‑Unis [...] »[3].
+[46] J’ai mentionné la décision Fisher parce que le passage suivant d’un poème de Robert Frost intitulé : « The Death of the Hired Man » : [traduction] « Votre patrie, c’est là où toujours asile vous sera donné »[4], que l’ancien juge en chef Bowman a cité représente bien l’essence de cette affaire.
+[47] Les avocats des deux parties ont produit un cahier conjoint de jurisprudence et de doctrine (le « cahier conjoint ») renfermant huit autres décisions dans lesquelles est analysée la question de la résidence, de la résidence double et de l’application des règles décisives[5]. Chacune de ces affaires est un cas d’espèce. Il est particulièrement intéressant de noter que, dans chacune de ces affaires, le contribuable avait le droit de vivre au Canada parce qu’il était citoyen canadien ou parce qu’il avait obtenu le droit d’établissement. Les contribuables, dans ces affaires, avaient affirmé avoir rompu leurs anciens liens de résidence avec le Canada. En l’espèce, l’appelant n’avait pas le droit de résider en permanence au Canada. Chaque fois qu’il venait au Canada, il y entrait muni d’un visa pour entrées multiples, il y restait pendant un certain temps afin de faire des affaires et il partait, pour revenir au bout d’un certain temps avec un autre bagage de cabine plein d’argent à déposer et à transférer à l’étranger afin de payer les marchandises qu’il avait commandées ou que ses clients avaient commandées. En fait, l’appelant s’est maintenant vu refuser l’accès au Canada, sauf pour assister à son procès.
+[48] Les faits de la présente affaire sont fort différents de ceux qui étaient en cause dans l’affaire Thomson, précitée; M. Thomson venait chaque année au Canada pendant l’été avec toute sa maisonnée. Dans ce cas‑ci, l’appelant venait presque toujours seul au Canada et il partait dès qu’il avait fini de faire ses affaires au Canada.
+[49] Cela dit, il reste à savoir si la conduite de l’appelant au Canada, ses allées et venues continues, la présence au Canada de membres de la famille et le fait que l’appelant possédait un condominium sont des facteurs suffisants pour qu’il soit possible de conclure que l’appelant était résident, ou résident habituel, au Canada, au cours des années en cause. Si j’arrive à cette conclusion, l’appelant est‑il un résident du Canada ou du Guyana selon les règles décisives?
+[50] Je note que, en témoignant, l’appelant n’a pas toujours dit la vérité. Il serait donc imprudent de ma part de me fonder uniquement sur son témoignage pour trancher la question. J’ai à plusieurs reprises demandé à l’appelant d’expliquer l’écart considérable existant entre le faible montant qu’il déclarait au Guyana au titre du revenu et les millions de dollars auxquels s’élevaient les paiements effectués en faveur de fournisseurs par l’entremise du système bancaire canadien. J’ai dit être d'avis que le nombre d’opérations était incompatible avec le revenu déclaré de l’appelant. J’ai également attiré l’attention de l’appelant sur le fait qu’il était déclaré que sa part d’associé s’élevait à environ 100 000 $CAN. Sur ce montant, un montant de 90 000 $ représentait le prix d’achat du condominium, de sorte qu’il restait 10 000 $ pour le fonds de roulement, ce qui était insuffisant pour financer les opérations de l’appelant au Canada.
+[51] J’ai dit à l’appelant être d'avis qu’il déclarait peut‑être en moins le montant de son revenu net au fisc du Guyana. La seconde possibilité était que le contenu de l’affidavit du sergent Hann était peut‑être en totalité ou en partie exact. Après avoir énormément hésité, l’appelant a finalement admis, avec une certaine réticence, qu’il ne déclarait peut‑être pas l'intégralité de son revenu au fisc du Guyana.
+[52] Compte de tenu de cette toile de fond, il reste néanmoins un certain nombre de sources qui corroborent le témoignage de l’appelant et qui me permettent de conclure qu’il n'était résident, ou résident habituel, au Canada. La preuve documentaire corrobore le témoignage de l’appelant, à savoir que sa résidence permanente est sa maison familiale au Guyana. La mère et la fille de l’appelant ont confirmé la chose, et la fille de l’appelant a admis qu’au cours des années en cause, elle habitait la maison familiale avec deux de ses trois frères.
+[53] Les déplacements effectués par l’appelant confirment qu’il devait vivre au Guyana lorsqu’il ne séjournait pas au Canada. L’examen du passeport confirme que l’appelant partait du Guyana chaque fois qu’il venait au Canada. Les formulaires de déclaration de devises du Guyana le montrent également. Presque toute la documentation commerciale qui a été produite en preuve était envoyée à l’appelant, par la poste ou par un service de messagerie, à l’adresse de sa maison familiale. Le document fiscal reçu par l’appelant ou déposé auprès du Guyanese Inland Revenue établit également l’existence de liens étroits avec le Guyana.
+[54] Il me reste à examiner d’autres facteurs qui constituent, selon moi, des liens de résidence rattachant l’appelant à son pays de naissance. Premièrement, il y a la présence au Guyana de ses proches, sa femme et trois de ses quatre enfants. Au cours de la période en cause, les trois enfants les plus jeunes faisaient tous leurs études au Guyana.
+[55] L’intimée conteste que l’appelant ait exercé des activités commerciales au Guyana. Elle affirme que l’appelant se livrait uniquement aux présumées activités illicites de blanchiment de fonds menées au Canada. Selon les actes de procédure, l’appelant n’exerçait aucune activité commerciale légitime au Guyana. Je ne souscris pas à l’interprétation que l’intimée donne de la preuve. Il existe bon nombre d’éléments de preuve indépendants qui corroborent la version des faits donnée par l’appelant et qui contredisent les assertions de l’intimée. Comme il en a déjà été fait mention, la plupart des documents commerciaux de tiers qui ont été produits en preuve étaient adressés à l’appelant, à sa maison familiale.
+[56] Si je retiens l’allégation de l’intimée, selon laquelle l’appelant s’occupait de blanchiment de fonds au Canada, je dois conclure que son entreprise était sans aucun doute en partie licite, pour qu’il puisse réussir dans ses présumées activités. On ne peut pas blanchir des fonds en transférant simplement l’argent d’une société fictive à l’autre d’une façon circulaire. Le soi‑disant argent sale est blanchi lorsqu’il passe par une entreprise licite. La preuve tend tout au moins à démontrer que certaines activités commerciales de l’appelant étaient licites. Si je conclus que l’appelant se livrait au blanchiment de fonds comme l’a soutenu le sergent Hann dans son affidavit, l’appelant doit l’avoir fait en utilisant le produit de la criminalité pour acheter des aliments et d’autres produits ménagers afin de les distribuer aux grossistes et aux détaillants, au Guyana. L’argent aurait été blanchi lorsque l’appelant le recueillait auprès des marchands à l’arrivée des marchandises, au Guyana. En fin de compte, je conclus que la question de savoir si les activités de l’appelant étaient licites ou si elles étaient illicites, comme le prétend l’intimée, n’entre pas en ligne de compte. Je suis d’avis que les activités illégales, qu’elles soient menées au Guyana ou au Canada, doivent être prises en compte lorsqu'il s'agit de se prononcer, de manière impartiale, sur la question de la résidence de l'intéressé, à peu près comme lorsqu’il s’agit du produit d’activités criminelles nationales ou internationales imposé entre les mains d’un résident canadien.
+[57] Je note que, selon l’intimée, les activités d’importation de marchandises de l’appelant au Guyana étaient menées depuis le Suriname, où l’appelant et ses associés avaient apparemment loué des locaux dans un entrepôt de stockage. Il suffit ici de dire que les connaissements, les factures et les documents d’assurance étaient adressés à l’appelant à sa maison familiale. J’infère de ces documents que l’appelant passait les commandes se rapportant à l’acquisition des marchandises par télécopieur ou au cours de conversations téléphoniques depuis le Guyana. L’affidavit et le témoignage du sergent Hann contredisent également la version des faits de l’intimée. Dans son affidavit, le sergent Hann déclare que l’appelant blanchissait le produit reçu de trafiquants, au Guyana, par suite de la distribution de cocaïne au Canada, aux États‑Unis et en Grande‑Bretagne. Au cours des années en cause, l’appelant, chaque fois qu’il effectuait un séjour au Canada, venait en avion du Guyana, en apportant de l’argent avec lui dans un bagage de cabine. Si l’appelant blanchissait de l’argent, il aurait fallu que les fonds soient recueillis au Guyana, ce qui veut dire que l’appelant aurait exercé des activités commerciales dans ce pays.
+[58] La vérificatrice de l’ARC soutient qu’au cours de l’année d’imposition 2000, l’appelant a passé plus de la moitié de l’année au Canada. Cette conclusion était fondée sur l’hypothèse selon laquelle l’appelant devait être au Canada lorsque les opérations étaient traitées dans ses comptes bancaires ou à l’aide de ses cartes de crédit.
+[59] La pièce A‑5 que l’avocat de l’appelant a préparée et produite indique le nombre de jours que l’appelant a passés au Canada compte tenu des renseignements figurant dans son passeport, en particulier les cachets indiquant ses entrées au Canada et ses retours au Guyana. Je conclus que cet élément de preuve est plus sûr que la source de renseignements de l’intimée, compte tenu du fait que la mère de l’appelant était la personne qui effectuait les petits dépôts dans le compte bancaire de l’appelant. Ces dépôts servaient au paiement des frais d’entretien du condominium ou provenaient de sommes remises par des amis ou des connaissances, que l’appelant devait remettre aux membres de leur famille dans leur pays d’origine. Bref, la preuve montre que l’appelant n’était pas toujours au Canada lorsque les opérations étaient enregistrées dans ses comptes bancaires.
+[60] Il ressort bien de la preuve montre de fait qu’au cours des années en question, l’appelant avait certains liens avec le Canada. Sa mère vivait dans un condominium qui appartenait à l’appelant. L’appelant restait dans le condominium lorsqu’il venait au Canada. L’un de ses fils vivait également à cet endroit et sa sœur y restait également de temps à autre. L’appelant utilisait le système financier canadien pour déposer de l’argent, pour conclure des opérations de change et, en fin de compte, pour payer les fournisseurs étrangers de son entreprise. L’appelant fréquentait la mosquée locale, près du condominium qu’il possédait au Canada. Il avait une voiture à sa disposition, qu’il garait au condominium. Il faisait du camping avec des amis et il a visité Niagara Falls au moins sept fois.
+[61] À mon avis, ces faits ne sont pas suffisants pour faire de l’appelant un résident du Canada aux fins de la Loi. Le condominium, même s’il appartenait à l’appelant, était en fait la résidence de sa mère et non la sienne. La mère vivait en tout temps à cet endroit. L’appelant habite la maison familiale, au Guyana, avec sa femme et ses trois enfants.
+[62] Les activités auxquelles l’appelant se livrait au Canada sont comparables aux activités d’autres non‑résidents qui font des affaires au Canada. Un particulier peut être un non‑résident du Canada tout en possédant des biens immeubles au Canada. L’article 116 et la partie XIII de la Loi visent ces cas. L’article 116 joue lorsqu’un non‑résident vend un bien et la partie XIII s’applique lorsqu’un non‑résident reçoit, entre autres choses, un revenu de location.
+[63] Si je me trompe, et donc si le Canada est le pays de résidence de l’appelant au même titre que le Guyana, je conclus que, compte tenu des règles décisives figurant à l’alinéa 4(2)a) de la convention, l’appelant est résident du Guyana aux fins de la Loi. Les intérêts familiaux et financiers de l’appelant ont un lien plus étroit avec le Guyana qu’avec Canada.
+[64] Je suppose que les présumées activités criminelles de l’appelant peuvent avoir amené l’ARC à engager la présente procédure. Or, la Loi régit l'imposition du revenu et la perception des impôts. Elle ne vise pas à sanctionner les activités criminelles, sauf s'il s'agit de fraude fiscale et d’autres cas similaires. En fin de compte, c’est la question de savoir si les actions de l’appelant au Canada ont pour effet d’assujettir celui‑ci à l’impôt canadien qui importe. Il importe peu que les activités de l’appelant soient licites ou qu’elles soient de nature criminelle.
+[65] Au début des débats, j’ai fait savoir à l’avocat de l’intimée qu’il aurait été possible de fonder subsidiairement les cotisations sur l'exploitation par l’appelant d'une entreprise au Canada. À mon avis, ce moyen aurait été plus solide. Toutefois, cela n’a pas été fait. Par conséquent, pour les motifs susmentionnés, l’appel est accueilli avec dépens et les cotisations relatives à chacune des années d’imposition visées par l’appel sont annulées.
+Signé à Ottawa, Canada, ce 6e jour de février 2009.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 15e jour de juin 2009.
+François Brunet, réviseur
+RÉFÉRENCE : 2009CCI89
+No DU DOSSIER DE LA COUR : 2003-2907(IT)G
+INTITULÉ : FAZAL MAHMOOD
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Les 3, 4, 5, 6 et 7 novembre 2008
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 6 février 2009
+COMPARUTIONS :
+Avocat de l’appelant :
+Me W. Ross MacDougall
+Avocat de l’intimée :
+Me Steven D. Leckie
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me W. Ross MacDougall
+Cabinet : Fogler, Rubinoff LLP
+Toronto (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir l’onglet 10 du recueil de l’appelant.
+[2] Thomson v. Minister of National Revenue, [1946] S.C.R. 209, pages 224 et 225.
+[3] Ibid, p. 228.
+[4] Fisher, précitée, p. 845.
+[5] Hertel v. M.N.R., 93 DTC 721; Shih v. The Queen, 2000 DTC 2072; Harris-Eze c. Canada, [2002] A.C.I. no 40 (QL); Allchin v. The Queen, 2004 DTC 6468; Gaudreau c. Canada, [2004] A.C.I. no 637 (QL); Bujnowski c. Canada, [2005] A.C.I. no 46 (QL); Hauser v. The Queen, 2005 DTC 1151; Yoon c. Canada, [2005] A.C.I. no 321 (QL.).

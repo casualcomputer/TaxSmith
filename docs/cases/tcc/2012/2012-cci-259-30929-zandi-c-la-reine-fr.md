@@ -1,0 +1,198 @@
+---
+title: "Zandi c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30929/index.do"
+last_modified: "2012-08-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 259"
+citation2: ""
+neutral_citation: "2012 CCI 259"
+decision_date: "2012-08-21"
+language: "fr"
+item_id: "30929"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7440
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:26:40.122000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0b7597f00197e5eec6de3869d1e49260415784c5bb44d26c838602c13891d6b3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zandi c. La Reine
+
+- Citation: 2012 CCI 259
+- Decision date: 2012-08-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7440, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zandi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-08-21
+Référence neutre
+2012 CCI 259
+Numéro de dossier
+2011-520(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-520(IT)I
+ENTRE :
+HAZHIR ZANDI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 mars 2012 à Montréal (Québec).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Valerie Messore
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est accueilli et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation à l’égard du calcul des intérêts en tenant compte du fait que la dernière date applicable pour le report rétrospectif des pertes en capital nettes de 117 548 $ était le jour qui tombait 30 jours après le 29 juillet 2009, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 21e jour d’août 2012.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 4e jour d’octobre 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2012 CCI 259
+Date : 20120821
+Dossier : 2011-520(IT)I
+ENTRE :
+HAZHIR ZANDI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] En l’espèce, les années d’imposition en question sont celles de 2007 et de 2008. Une nouvelle cotisation a été établie à l’égard de l’appelant pour des arriérés d’intérêts et des pénalités pour production tardive relativement à des impôts impayés concernant l’année d’imposition 2007 et, concernant l’année d’imposition 2008, la nouvelle cotisation a été établie afin d’admettre le montant de 3 675 $ à titre de crédit d’impôt pour frais de scolarité dans le calcul des crédits d’impôt non remboursables à l’égard de cette année‑là, qui ont été reportés rétrospectivement de l’année d’imposition 2007.
+[2] Lorsqu’il a ainsi établi une nouvelle cotisation à l’égard de l’appelant, le ministre du Revenu national (le « ministre ») s’est fondé sur les dispositions suivantes de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) dans sa version modifiée (la « Loi ») : les articles 3, 38 et 39, les paragraphes 111(3), 111(8), 118.5(1), 118.61(2), 150(1), 152(4.3), 152(6), 161(1), 161(7), 161(11), 162(1), 162(11), 165(1), 169(1), 248(1) et 248(11) ainsi que les alinéas 150(1)d) et 111(1)b).
+[3] En l’espèce, la Cour est appelée à se prononcer sur les questions suivantes :
+a) La Cour canadienne de l’impôt a‑t‑elle compétence pour entendre l’appel portant sur l’année d’imposition 2008?
+b) Le ministre a‑t‑il à juste titre imputé les pertes en capital nettes des années antérieures et postérieures à l’année d’imposition 2007?
+c) Le ministre a‑t‑il à juste titre établi que les crédits d’impôt non remboursables concernant les frais de scolarité devaient être reportés prospectivement de l’année d’imposition 2007 à l’année d’imposition 2008?
+d) Le ministre a‑t‑il à juste titre imposé les pénalités pour production tardive relativement à l’année d’imposition 2007?
+e) Le ministre a‑t‑il correctement calculé les intérêts sur les montants dus pour l’année d’imposition 2007?
+[4] Pour établir les nouvelles cotisations, le ministre s’est fondé sur les hypothèses de fait suivantes :
+[traduction]
+a) L’appelant devait produire ses déclarations de revenus pour les années d’imposition 2007 et 2008 le 15 juin 2008 et le 30 avril 2009, respectivement, pour les années d’imposition;
+b) L’appelant avait produit la déclaration de revenus pour 2007 le 29 juillet 2009, c’est‑à‑dire avec un retard de treize mois et demi par rapport à la date à laquelle il devait la produire;
+c) Pour établir la cotisation initiale pour l’année d’imposition 2007, le ministre a imputé les pertes en capital nettes en commençant par les années antérieures les plus éloignées, c’est‑à‑dire l’année 2000 dans ce cas‑ci, ces pertes s’élevant à 73 331 $ selon la déclaration de revenus produite par l’appelant;
+d) Pour établir la nouvelle cotisation du 29 mars 2010, le ministre a tenu compte du formulaire T1A joint à la déclaration de revenus pour 2008, et a imputé les pertes en capital nettes d’un montant total de 133 367 $ [sic], lequel montant est composé de 16 089 $ représentant le solde des pertes en capital nettes de l’année d’imposition 2000 et de 117 548 $ représentant le report rétrospectif de l’année d’imposition 2008;
+e) Pour calculer les pénalités pour production tardive dans la nouvelle cotisation du 29 mars 2010, le ministre a considéré que la date de demande d’une telle imputation était le 14 janvier 2010 et que le montant de 117 548 $ représentait un report rétrospectif de l’année d’imposition 2008;
+f) Après le traitement de l’opposition, le ministre a imputé la perte en capital nette de 73 740 $ reportée rétrospectivement de l’année d’imposition 2008;
+g) Malgré la demande de report présentée par l’appelant, datée du 29 juillet 2009 selon le formulaire T1A joint à la déclaration de revenus pour 2008, le ministre, en imputant les pertes en capital nettes d’autres années d’imposition, a d’abord imputé les pertes en capital nettes des années d’imposition précédentes et a ensuite imputé les pertes en capital nettes des années d’imposition ultérieures;
+h) La date de la demande de report des pertes en capital nettes était la date de dépôt de l’avis d’opposition pour l’année d’imposition 2007, soit le 15 avril 2010;
+i) Étant donné que le résultat de la nouvelle cotisation établie le 18 janvier 2011 était l’élimination de l’impôt de la Partie I pour l’année d’imposition, le ministre a reporté le crédit d’impôt pour frais de scolarité de 3 675 $ à l’année d’imposition 2008 pour le calcul des crédits d’impôt non remboursable pour l’année d’imposition;
+j) Pour calculer les intérêts dans la nouvelle cotisation établie le 18 janvier 2011 pour l’année d’imposition 2007, le ministre a considéré que la date de la demande concernant les pertes en capital nettes était le 15 avril 2010, soit la date de réception de l’avis d’opposition dans lequel l’appelant a présenté sa même demande, et a tenu compte du fait que le solde impayé d’impôt sur le revenu et de pénalités pour l’année d’imposition 2007 à cette date étaient [sic] de 10 647,52 $ pour l’impôt et de 6 467,01 $ pour les pénalités le 15 avril 2010.
+[5] Pour établir les pénalités pour production tardive en application du paragraphe 162(1) de la Loi, le ministre a tenu compte des éléments suivants :
+[traduction]
+a) L’appelant avait produit la déclaration de revenus en retard;
+b) Au moment où l’appelant aurait dû produire sa déclaration de revenus pour l’année d’imposition 2007, l’appelant avait un solde d’impôt net impayé de 38 041,24 $;
+c) Les pénalités pour production tardive ne pouvaient pas être réduites par les dernières nouvelles cotisations établies le 18 janvier 2011 et pouvaient être réduites partiellement pour la nouvelle cotisation établie le 29 mars 2010, étant donné que ces nouvelles cotisations concernaient l’imputation de pertes en capital nettes des années ultérieures, et que ces pertes n’étaient pas connues au moment où l’appelant devait produire sa déclaration de revenus pour l’[année] imposition, et ainsi, avant une telle imputation ultérieure, les impôts impayés dus au titre de la Partie I pour l’année d’imposition 2007 étaient de 38 041,24 $.
+[6] Au début de l’audience, l’avocate de l’intimée a présenté une requête en annulation de l’appel portant sur l’année d’imposition 2008 au motif que la Cour n’était pas saisie d’un appel présenté à bon droit par l’appelant à l’égard de cette année d’imposition étant donné que l’appelant n’avait pas déposé d’avis d’opposition à la nouvelle cotisation datée du 18 janvier 2011 et que, par conséquent, une condition préalable pour interjeter l’appel n’avait pas été remplie. Au moyen d’une ordonnance de la Cour datée du 29 mars 2012, la requête de l’intimée a été accueillie et le prétendu appel a été annulé.
+L’imputation des pertes en capital nettes
+[7] À l’audience, l’avocate de l’intimée a expliqué comment le ministre avait imputé les pertes en capital nettes de l’appelant.
+[8] L’appelant a produit ses déclarations de revenus pour les années d’imposition 2007 et 2008 le 29 juillet 2009. L’appelant devait produire sa déclaration de revenus pour 2007 le 15 juin 2008 (revenu d’entreprise) et sa déclaration de revenus pour 2008 le 30 avril 2009.
+[9] Dans sa déclaration de revenus pour 2007, l’appelant a inclus des gains en capital imposables de 280 707,38 $ et il a appliqué en réduction de ce montant une perte en capital nette de 73 331,18 $ reportée prospectivement de l’année 2000.
+[10] Le 23 novembre 2009, le ministre a établi une cotisation initiale à l’égard de la déclaration de revenus pour 2007 de l’appelant, cotisation qui a été établie selon la déclaration de revenus produite.
+[11] Dans sa déclaration de revenus pour 2008, l’appelant a inclus une perte en capital nette de 198 153,78 $ et, au moyen d’un formulaire T1A, l’appelant a demandé un report rétrospectif du capital net de 133 637,29 $ à l’année d’imposition 2007.
+[12] Le 24 août 2009, le ministre a établi une cotisation initiale à l’égard de la déclaration de revenus pour 2008 de l’appelant, cotisation qui a été établie selon la déclaration de revenus produite.
+[13] Le 14 janvier 2010, l’appelant a envoyé par télécopieur à l’Agence du revenu du Canada (l’« ARC ») un formulaire T1A pour demander qu’une perte en capital nette de 133 637,29 $ soit imputée à son année d’imposition 2007.
+[14] Le 29 mars 2010, le ministre a établi une nouvelle cotisation selon la demande formulée par l’appelant dans le formulaire T1A présenté à l’égard de son année d’imposition 2007. La nouvelle cotisation a été établie de la manière suivante :
+a) une perte en capital nette de 133 637,29 $ a été imputée aux gains en capital imposables de 280 707,38 $ que l’appelant avait réalisés en 2007;
+b) le ministre a imputé 16 089 $ à titre de report prospectif de l’année 2000;
+c) le ministre a imputé 117 548 $ à titre de report rétrospectif de l’année 2008.
+[15] Par suite de la cotisation initiale et de la nouvelle cotisation subséquente établie le 29 mars 2010, les montants suivants ont été imputés au gain en capital imposable réalisé en 2007 (280 707 $) pour un total de 206 968 $ : un total de 89 420 $ a été imputé à titre de report prospectif de l’année 2000 et un total de 117 548 $ a été imputé à titre de report rétrospectif de l’année d’imposition 2008. Ainsi, après la nouvelle cotisation établie le 29 mars 2010, dans laquelle l’imputation des pertes en capital nettes demandée par l’appelant dans son formulaire T1A a été effectuée, il subsistait un gain en capital imposable de 73 740 $ pour l’année d’imposition 2007 de l’appelant.
+[16] Le 15 avril 2010, l’appelant a déposé un avis d’opposition à la nouvelle cotisation établie par le ministre et datée du 29 mars 2010, dans lequel il lui demandait de déduire de son gain en capital imposable réalisé en 2007 les pertes en capital nettes subies dans d’autres années de telle sorte qu’il ne doive aucun impôt sur le revenu pour cette année‑là et qu’il ne soit pas redevable de quelque intérêts ou pénalités que ce soit.
+[17] Le 18 janvier 2011, le ministre a établi de nouvelles cotisations pour les années d’imposition 2007 et 2008 de l’appelant.
+[18] Le ministre a établi une nouvelle cotisation à l’égard de l’année d’imposition 2007 de l’appelant selon l’avis d’opposition que ce dernier avait produit, et a imputé une perte en capital nette de 73 740 $ reportée rétrospectivement de l’année 2008 au gain en capital imposable que l’appelant avait réalisé en 2007, réduisant ainsi son revenu à zéro pour cette année‑là. Le ministre a également supprimé le crédit d’impôt pour frais de scolarité de l’appelant de 3 675 $ pour son année d’imposition 2007. Étant donné que l’appelant avait un revenu égal à zéro, il n’avait pas besoin de ce crédit.
+[19] Pour l’année d’imposition 2008 de l’appelant, le ministre a simplement reporté le crédit d’impôt pour frais de scolarité de 3 675 $ de l’année 2007 à l’année 2008.
+[20] Au vu de ce qui précède, j’estime que le ministre a à juste titre imputé les pertes en capital nettes des années d’imposition antérieures et des années d’imposition ultérieures à l’année d’imposition 2007. Lorsqu’il a établi la cotisation initiale à l’égard de l’appelant le 23 novembre 2009, et ensuite lorsqu’il a établi de nouvelles cotisations à son égard le 29 mars 2010 et encore le 18 janvier 2011, le ministre a simplement imputé les pertes en capital nettes au gain en capital imposable réalisé en 2007, conformément aux demandes de l’appelant et aux dispositions pertinentes de la Loi.
+Les pénalités pour production tardive
+[21] À l’audience, l’avocate de l’intimée a expliqué comment le ministre avait calculé les pénalités en vertu de l’article 162 de la Loi relativement à l’année d’imposition 2007 de l’appelant.
+[22] L’appelant devait produire sa déclaration de revenus pour 2007 le 15 juin 2008. Comme l’appelant n’a pas produit sa déclaration de revenus pour cette année‑là au plus tard le 15 juin 2008, il est devenu passible d’une pénalité pour production tardive en vertu du paragraphe 162(1) de la Loi.
+[23] La pénalité est calculée en ajoutant 5 % à l’impôt payable pour l’année de la personne, qui était impayé à la date où la déclaration devait être produite et le produit de 1 % de cet impôt impayé à la date où la déclaration devait être produite par le nombre de mois de retard jusqu’à concurrence de 12 %. En l’espèce, le pourcentage qu’il faut utiliser est de 17 %, soit 5 % plus 12 %, étant donné que l’appelant était en retard de plus de 12 mois.
+[24] L’impôt payable pour 2007 qui était impayé à la date où la déclaration devait être produite était de 38 041 $. Ce montant tient compte du report prospectif de 89 420 $ de l’année 2000, mais, en vertu du paragraphe 162(11) de la Loi, il ne tient pas compte du report de perte rétrospectif de l’année 2008.
+[25] Le paragraphe 162(11) de la Loi est ainsi libellé :
+162(11) Pour le calcul des pénalités prévues aux paragraphes (1) et (2) pour non‑production de la déclaration de revenu d’une personne pour une année d’imposition, l’impôt payable par la personne pour l’année en vertu de la présente partie est calculé avant la prise en compte des conséquences fiscales futures déterminées pour l’année.
+[26] L’expression « conséquence fiscale future déterminée » est définie au paragraphe 248(1) de la Loi et comprend ce qui suit, tel que cela est énoncé à l’alinéa a) de la définition :
+la conséquence de la déduction ou de l’exclusion d’un montant visé à l’alinéa 161(7)a).
+[27] L’alinéa 161(7)a) de la Loi énumère les déductions et les exclusions qui sont considérées comme des conséquences fiscales futures déterminées. Le sous‑alinéa 161(7)a)(iv) de la Loi mentionne expressément une déduction faite en application de l’article 111 de la Loi à l’égard d’une perte subie pour une année d’imposition ultérieure.
+[28] En conséquence, il ne peut pas être tenu compte de la perte en capital nette subie en 2008 pour calculer l’impôt payable de l’appelant pour son année d’imposition 2007 à la date où la déclaration de revenus pour cette année‑là devait être produite.
+[29] Le ministre a correctement appliqué les paragraphes 162(1) et 162(11) de la Loi en imposant les pénalités pour production tardive et en les fixant à 6 467 $.
+[30] Cette interprétation des dispositions pertinentes de la Loi est étayée par les décisions rendues par la Cour dans les causes Leach Bros. Stores Ltd. v. M.N.R., 85 DTC 94 et Reemark Chelsea Terraces Project Limited v. The Queen, 93 DTC 469.
+Le calcul des intérêts
+[31] À l’audience, l’avocate de l’intimée a expliqué comment le ministre avait calculé les intérêts sur l’impôt payable par l’appelant à l’égard de son année d’imposition 2007.
+[32] Le paragraphe 161(1) de la Loi prévoit que, dans le cas où le total des impôts payables par le contribuable pour l’année excède le total des montants imputés à l’impôt payable à un moment postérieur à la date d’exigibilité du solde, le contribuable est tenu de verser des intérêts sur l’excédent, calculés au taux prescrit pour la période au cours de laquelle cet excédent est impayé.
+[33] L’expression « date d’échéance du solde » pour une année d’imposition est définie au paragraphe 248(1) de la Loi comme étant le 30 avril de l’année d’imposition suivante dans le cas où le contribuable est un particulier. En l’espèce, la date d’échéance du solde de l’appelant est le 30 avril 2008, même si l’appelant était seulement tenu de produire sa déclaration de revenus pour 2007 le 15 juin 2008.
+[34] Il ressort clairement des formulaires de calcul de l’intérêt T1/T3 datés du 15 mars 2011, produits sous la cote R‑3, que l’ARC a commencé à calculer les intérêts le 30 avril 2008 sur le solde de 38 041 $ de l’impôt dû impayé, un chiffre qui tient compte de la conséquence du report prospectif de la perte en capital nette de l’année 2000, mais, conformément au sous‑alinéa 161(7)a)(iv) de la Loi, ne tient pas compte du report rétrospectif de 191 288 $ de l’année 2008.
+[35] Le sous‑alinéa 161(7)a)(iv) de la Loi prévoit essentiellement que, pour le calcul des intérêts à verser pour une année d’imposition, l’impôt payable pour l’année est réputé égal au montant qui serait payable si les conséquences de la déduction en application de l’article 111 à l’égard d’une perte subie pour une année d’imposition ultérieure n’étaient pas prises en compte.
+[36] Le sous‑alinéa 161(11)a)(i) de la Loi prévoit que le contribuable tenu de payer une pénalité visée à l’article 162 doit la verser avec intérêts calculés au taux prescrit pour la période allant du jour où sa déclaration de revenus devait être produite jusqu’à la date de paiement.
+[37] En l’espèce, l’appelant devait produire sa déclaration de revenus pour 2007 le 15 juin 2008. Par conséquent, à partir du 15 juin 2008, l’appelant devait payer des intérêts sur la pénalité imposée de 6 467 $ en plus des intérêts sur l’impôt dû impayé.
+[38] À l’audience, l’avocate de l’intimée a proposé une légère modification en faveur de l’appelant concernant le calcul des intérêts, une modification découlant du fait que l’appelant avait auparavant présenté le formulaire T1A le 29 juillet 2009 lorsqu’il avait produit sa déclaration de revenus pour 2008. Le ministre aurait donc dû considérer la date du 29 juillet 2009 comme étant la date à laquelle le formulaire T1A avait été présenté pour la première fois conformément au paragraphe 152(6) et non la date du 14 janvier 2010, date à laquelle l’appelant avait envoyé par télécopieur le même formulaire T1A à l’ARC.
+[39] Le sous‑alinéa 161(7)b)(iii) de la Loi prévoit que, pour le calcul des intérêts à verser en application des paragraphes 161(1) ou 161(2) de la Loi, la somme qui est appliquée en réduction de l’impôt payable par le contribuable pour l’année par suite d’une déduction en application de l’article 111 de la Loi à l’égard d’une perte subie pour une année d’imposition ultérieure est réputée avoir été versée au titre de son impôt payable pour l’année le trentième jour suivant le jour où le formulaire prescrit T1A a été présenté conformément au paragraphe 152(6) de la Loi.
+[40] Étant donné que l’appelant a présenté un formulaire T1A pour demander le report rétrospectif d’une perte en capital nette le 14 janvier 2010, le ministre a considéré que la déduction prenait effet 30 jours plus tard, c’est‑à‑dire le 13 février 2010.
+[41] Toutefois, pour appliquer correctement le sous‑alinéa 161(7)b)iii) de la Loi, le ministre aurait dû considérer la déduction comme prenant effet 30 jours après le 29 juillet 2009, c’est‑à‑dire le 28 août 2009. Il en découle des conséquences sur le calcul des intérêts en ce sens que le ministre aurait dû réduire, 30 jours après le 29 juillet 2009, le montant d’impôt payable par l’appelant pour 2007 par suite de la déduction de la somme de 117 548 $ qui avait été reportée rétrospectivement de l’année d’imposition 2008.
+[42] L’avocate de l’intimée a expliqué, toutefois, que le ministre avait eu raison de réduire, 30 jours après le 15 avril 2010, le montant d’impôt payable par l’appelant pour 2007 par suite de la déduction de la somme de 73 740 $ reportée rétrospectivement de l’année 2008 selon l’avis d’opposition que l’appelant avait déposé le 15 avril 2010, laquelle opposition avait donné lieu à la nouvelle cotisation établie le 18 janvier 2011.
+[43] Le ministre s’est fondé sur le sous‑alinéa 161(7)b)(iv) de la Loi, qui prévoit que, pour le calcul des intérêts à verser en application des paragraphes 161(1) ou 162(2) de la Loi, la somme qui est appliquée en réduction de l’impôt payable par le contribuable par suite d’une déduction en application de l’article 111 à l’égard d’une perte subie pour une année d’imposition ultérieure est réputée avoir été versée au titre de son impôt payable pour l’année le trentième jour suivant le jour de la demande écrite à la suite de laquelle le ministre établit une nouvelle cotisation concernant l’impôt du contribuable pour l’année et qui tient compte de la déduction, dans le cas où il y a une telle nouvelle cotisation.
+[44] La demande écrite qui a donné lieu à la nouvelle cotisation établie le 18 janvier 2011 a été faite le 15 avril 2010 et la déduction doit ainsi être considérée comme prenant effet 30 jours plus tard, c’est‑à‑dire le 15 mai 2010.
+Conclusion
+[45] L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi pour l’année d’imposition 2007 est accueilli et l’affaire est déférée au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation à l’égard du calcul des intérêts en tenant compte du fait que la dernière date applicable pour le report rétrospectif des pertes en capital nettes de 117 548 $ était le jour qui tombait 30 jours après le 29 juillet 2009.
+Signé à Ottawa, Canada, ce 21e jour d’août 2012.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 4e jour d’octobre 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2012 CCI 259
+No DU DOSSIER DE LA COUR : 2011-520(IT)I
+INTITULÉ : Hazhir Zandi c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 20 mars 2012
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 21 août 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Pour l’intimée :
+Me Valérie Messore
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

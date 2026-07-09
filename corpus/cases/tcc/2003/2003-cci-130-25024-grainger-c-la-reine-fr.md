@@ -1,0 +1,151 @@
+---
+title: "Grainger c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25024/index.do"
+last_modified: "2003-03-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 130"
+citation2: ""
+neutral_citation: "2003 CCI 130"
+decision_date: "2003-03-24"
+language: "fr"
+item_id: "25024"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2527
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:24:57.451000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e9f8251c9f04c4c15e0a9b84d7b5eba4932fd86812e22e44d05529086a55276e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Grainger c. La Reine
+
+- Citation: 2003 CCI 130
+- Decision date: 2003-03-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2527, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grainger c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-24
+Référence neutre
+2003 CCI 130
+Numéro de dossier
+2002-1470(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-1470(IT)I
+ENTRE :
+ANTHONY GRAINGER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 5 février 2003, à Sherbrooke (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocate de l'appelant :
+Me Lise Le Prohon
+Avocate de l'intimée :
+Me Marie-Aimée Cantin
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition 2000 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 24e jour de mars 2003.
+« François Angers »
+J.C.C.I.
+Référence : 2003CCI130
+Date : 20030324
+Dossier : 2002-1470(IT)I
+ENTRE :
+ANTHONY GRAINGER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers, C.C.I.
+[1] En produisant sa déclaration de revenus pour l'année d'imposition 2000, l'appelant a réclamé la déduction de la somme de 19 828 $ payée à titre de pension alimentaire à son ancienne conjointe. Le ministre du Revenu national (le « ministre » ) lui a refusé cette déduction au motif que la somme en question ne satisfaisait pas aux critères du paragraphe 56.1(4) de la Loi de l'impôt sur le revenu (la « Loi » ); d'où le présent appel.
+[2] L'appelant s'est marié le 16 août 1980. De cette union sont nés trois enfants. En septembre 1996, il s'est séparé de sa conjointe. La pension alimentaire payée par l'appelant pour ses enfants n'est pas en litige.
+[3] Le 24 septembre 1996, la conjointe de l'appelant a déposé devant la Cour supérieure du Québec, Chambre de la famille, une requête pour mesures provisoires. Entre autres, elle demandait à titre de pension alimentaire supplémentaire que l'appelant lui paie les dépenses de la résidence familiale, incluant l'hypothèque, les assurances, les taxes, le chauffage, l'électricité, le téléphone, la câblodistribution, les réparations et l'entretien. L'appelant a accédé à cette demande et a effectivement payé les dépenses réclamées par sa conjointe jusqu'en janvier 1999.
+[4] En attendant leur divorce, les parties ont conclu une convention accessoire provisoire le 28 janvier 1999, laquelle a été homologuée par la Cour supérieure du Québec à la même date. Les parties ont convenu dans cette convention de mettre en vente la résidence familiale. En attendant la vente de la maison, l'appelant s'est encore engagé à assumer, à titre de pension alimentaire, toutes les dépenses relatives à la maison, y compris la marge de crédit servant au paiement de la maison. Finalement, le divorce a été accordé le 28 juin 2002. Le jugement de divorce reconnaît le fait que l'appelant avait payé les dépenses en question pour son ancienne conjointe à titre de pension alimentaire. Aucune des ententes intervenues entre l'appelant et son ancienne conjointe ne mentionne que les paiements effectués par l'appelant devaient être déductibles pour lui et imposables pour elle. L'appelant a témoigné qu'il avait toujours déduit de ses revenus les dépenses payées à titre de pension alimentaire, et ce, jusqu'à l'année d'imposition en litige, où on lui en a refusé la déduction. Il a témoigné que son ancienne conjointe avait déclaré ce revenu puisque leur déclaration respective de revenus était préparée par le même comptable. La maison a été vendue en novembre 2000.
+[5] L'appelant pouvait-il à juste titre déduire, en vertu de l'article 60 et du paragraphe 60.1(2) de la Loi, les paiements faits à des tiers dans le cadre d'une entente conclue avec son ancienne conjointe?
+[6] Le paragraphe suivant de l'entente est celui qui s'applique à l'année d'imposition en litige :
+Dans l'attente de la vente de la maison, le défendeur s'engage à assumer seul à titre de pension alimentaire depuis la signification des procédures, les paiements relatifs à la maison soit la marge de crédit servant au paiement de la maison, les assurances, les taxes, le chauffage, l'électricité, le téléphone limité à 30,00 dollars par mois.
+[7] Les dispositions législatives pertinentes en l'espèce sont les suivantes :
+56.(1) Sommes à inclure dans le revenu de l'année.
+Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition :
+[...]
+56.1(2) Entente. Pour l'application de l'article 56, du présent article et du paragraphe 118(5), le résultat du calcul suivant :
+[...]
+est réputé, lorsque l'ordonnance ou l'accord écrit prévoit que le présent paragraphe et le paragraphe 60.1(2) s'appliquent à un montant payé ou payable à leur titre, être un montant payable au contribuable et à recevoir par lui à titre d'allocation périodique, qu'il peut utiliser à sa discrétion.
+60. Autres déductions.
+Peuvent être déduites dans le calcul du revenu d'un contribuable pour une année d'imposition les sommes suivantes qui sont appropriées :
+[...]
+60.1(2) Entente. Pour l'application de l'article 60, du présent article et du paragraphe 118(5), le résultat du calcul suivant :
+[...]
+est réputé, lorsque l'ordonnance ou l'accord écrit prévoit que le présent paragraphe et le paragraphe 56.1(2) s'appliquent à un montant payé ou payable à leur titre, être un montant payable par le contribuable à cette personne et à recevoir par celle-ci à titre d'allocation périodique, que cette personne peut utiliser à sa discrétion.
+[8] Pour expliquer le but des paragraphes précédents, je vais me référer à l'arrêt Veilleux c. Canada, [2002] A.C.F. no 737 (QL), où le juge Létourneau a fait l'analyse des dispositions législatives applicables en l'espèce. Je cite le paragraphe 13 :
+Le but des paragraphes 56.1(2) et 60.1(2) est de permettre la déduction par le payeur de paiements faits à des tiers pour le compte de son ex-conjoint ou conjointe à la condition que les montants de ces paiements soient inclus dans le revenu de ce dernier ou cette dernière. L'obligation d'indiquer à l'accord écrit que ces paragraphes s'appliquent semble avoir pour objectif de "s'assurer que les parties en cause se rendent bien compte des conséquences fiscales qui découlent des paiements faits conformément à un accord écrit, un jugement ou une ordonnance d'un tribunal pour les fins précises indiquées dans cet accord, jugement ou ordonnance" : Mailloux c. Canada, [1991] A.C.I. no. 641, à la page 3 (C.C.I.) par le juge en chef Garon; Mambo v. The Queen, [1996] 1 C.T.C. 2388 (C.C.I.); Pelchat c. The Queen, 97 DTC 945 (C.C.I.); Jenkins c. Canada, [1999] A.C.I. no. 742.
+[9] La Cour d'appel fédérale dans l'arrêt Veilleux a cependant dit que la mention expresse des numéros des paragraphes dans l'accord écrit n'est pas nécessaire. Il doit cependant y avoir, pour que l'objectif légitime de ces dispositions soit atteint, un écrit qui confirme que les deux parties savent qu'il y a des attributs fiscaux à une telle ordonnance ou à un tel accord (voir Mambo c. Canada, [1995] A.C.I. no 931 (QL) ([1996] 1 C.T.C. 2388, angl.). Le juge Létourneau s'est exprimé ainsi au paragraphe 24 :
+Je préfère l'approche à la fois plus représentative de l'intention législative, compatible avec le texte même des dispositions législatives et humaine prise par le juge Archambault de la Cour canadienne de l'impôt dans les affaires Pelchat, précitée, et Ferron v. Her Majesty the Queen, 2001 DTC 230 : il n'est pas nécessaire que les numéros des paragraphes 56.1(2) et 60.1(2) soient expressément mentionnés dans l'accord écrit, il suffit qu'il apparaisse de l'accord écrit que les parties ont compris les incidences fiscales de cet accord. Car la seule mention des numéros de ces paragraphes dans l'accord n'est pas non plus une garantie que les parties à l'accord ont compris leurs obligations et leurs droits. Sur ce point, l'expression et la description de ces obligations et de ces droits dans l'accord écrit m'apparaissent tout autant, sinon mieux, rencontrer l'objectif du législateur qu'une simple référence magique à des numéros d'articles dont la teneur n'est pas indiquée dans l'accord.
+[10] En l'espèce, de toute évidence, l'accord ne révèle pas la connaissance et la compréhension que pouvaient avoir les parties à l'accord de leurs obligations et droits respectifs. Il n'est pas suffisant de dire que les parties, dans les faits, se sont conduites comme si elles en avaient la connaissance. Les dispositions législatives pertinentes précisent clairement que l'accord écrit ou l'ordonnance doit prévoir l'application de celles-ci, ce que l'accord dont il s'agit en l'espèce ne fait pas. Pour ces motifs, l'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 24e jour de mars 2003.
+« François Angers »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI130
+No DU DOSSIER DE LA COUR :
+2002-1470(IT)I
+INTITULÉ DE LA CAUSE :
+ANTHONY GRAINGER
+et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L'AUDIENCE
+5 février 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge François Angers
+DATE DU JUGEMENT :
+24 mars 2003
+COMPARUTIONS :
+Pour l'appelant :
+Me Lise Le Prohon
+Pour l'intimée :
+Me Marie-Aimée Cantin
+AVOCATE INSCRITE AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Lise Le Prohon
+Étude :
+Sherbrooke (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

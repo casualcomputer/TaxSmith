@@ -1,0 +1,131 @@
+Title: Grace Fellowship of Leask v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26927/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-347-26927-grace-fellowship-of-leask-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2004-05-18
+
+# Grace Fellowship of Leask v. M.N.R.
+
+- Citation: 2004 TCC 347
+- Decision date: 2004-05-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 733, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grace Fellowship of Leask v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-18
+Neutral citation
+2004 TCC 347
+File numbers
+2003-3488(CPP)
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-3488(CPP)
+BETWEEN:
+GRACE FELLOWSHIP OF LEASK,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Grace Fellowship Of Leask
+(2003-3489(EI)) at Saskatoon, Saskatchewan, on March 26, 2004
+Before: The Honourable Justice Georgette Sheridan
+Appearances:
+Agent for the Appellant:
+David Cortens
+Counsel for the Respondent:
+Penny Piper
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of May 2004.
+"G. Sheridan"
+Sheridan, J.
+Docket: 2003-3489(EI)
+BETWEEN:
+GRACE FELLOWSHIP OF LEASK,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Grace Fellowship of Leask
+(2003-3488(CPP)) at Saskatoon, Saskatchewan, on March 26, 2004
+Before: The Honourable Justice Georgette Sheridan
+Appearances:
+Agent for the Appellant:
+David Cortens
+Counsel for the Respondent:
+Penny Piper
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of May 2004.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2004TCC347
+Date: 20040518
+Dockets: 2003-3488(CPP)
+2003-3489(EI)
+BETWEEN:
+GRACE FELLOWSHIP OF LEASK,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] These are appeals from a determination by the Minister of National Revenue that Murray McLellan, an adherent of the Appellant, the Grace Fellowship of Leask, was engaged in insurable[1] and pensionable[2] employment for the period January 1, 2002 to January 10, 2003. It was agreed by the parties that the appeals would be heard on common evidence.
+[2] The Minister based his determination on the assumption that during the relevant period, Mr. McLellan was an employee of the Grace Fellowship hired under a contract of service. The Grace Fellowship disputed this. To succeed in its appeals, the Grace Fellowship had the burden of proving that the assumptions upon which the Minister relied were incorrect. Mr. David Cortens, an accountant by profession, is part of the Grace Fellowship. He acted as its agent and was its only witness at the hearing. Mr. McLellan was not called by either party.
+[3] The Grace Fellowship came into being some 20 years ago in Leask, Saskatchewan. At that time, there were approximately 20 families involved in the Grace Fellowship; by January 2002, this number had dwindled to 9, many of whom reside in Saskatoon. The families engage in "Christian fellowship", dining together, discussing common goals, worshipping. Mr. McLellan lives in Leask and has two part-time jobs, as a lab assistant and a teacher. The Grace Fellowship is not a corporate entity and has no internal hierarchical structure. As its name suggests, it is a gathering of families whose shared religious beliefs dictate the manner in which they live their lives as part of a community of faith. The Grace Fellowship depends on voluntary donations for its fiscal well being; as money comes in, the Grace Fellowship decides where to allocate the donated funds. Some goes to bills that must be paid, i.e., for the heating of a building used for worship. Other amounts have been paid, without obligation, for such things as foreign missionary work undertaken by a couple in the Grace Fellowship, or to reimbursing individuals for what would normally be called "petty cash" expenditures[3].
+[4] In presenting argument, Counsel for the Respondent acknowledged, quite rightly, that this was one case where the normal legal definitions might not be an easy fit. Referring to the tests in 671122 Ontario Limited v. Sagaz Industries Canada Inc.[4] and Wiebe Door Services Ltd. v. M.N.R.[5], she urged the Court to find that Mr. McLellan was in a contract of service with the Grace Fellowship. Before considering whether there existed a contract of service or a contract for services, however, it is necessary to determine whether, in the unusual circumstances of this case, a contract existed at all. In my view, it did not.
+[5] Mr. McLellan was known by the Grace Fellowship as an "elder": by his actions, he became the one to whom the others looked for leadership in worship, religious studies and spiritual advice. I do not accept the Minister's contention that his being referred to as an "elder" is proof of the existence of a formal position in the Grace Fellowship for which Mr. McLellan was hired. While admitting that in each month from January 2002 to January 2003, the Grace Fellowship paid Mr. McLellan $2,000, Mr. Cortens' evidence was that it did so for the same reason it allocated money to other good works; namely, to support one who "lives his life in service of the Gospel". Further, there was nothing to show that the Grace Fellowship could have required Mr. McLellan to carry out the activities he assumed as part of the Grace Fellowship, or that he could have demanded payment from the Grace Fellowship for having done so. Nor was there evidence that the Grace Fellowship could have dismissed Mr. McLellan from his "elder" status. Mr. Cortens testified that if, for example, Mr. McLellan had behaved in a way inconsistent with the values of the Grace Fellowship, the families "could have voted with their feet". In other words, the most they could have done was refuse "to fellowship" with him, just as they could have any other member. The Grace Fellowship's having the freedom of choice to avoid Mr. McLellan, however, ought not to be confused with its having the contractual power to terminate his services. Mr. McLellan's activities were voluntary and constituted "part of his calling to proclaim the word of God". The actions he took in the course of his calling were not set for him by the Grace Fellowship in the way, for example, a list of tasks might be assigned to a worker in a fast food restaurant. Rather, Mr. McLellan was doing what he chose to do in the practice of his faith in harmony with, and for the benefit of all (himself included) who shared these beliefs.
+[6] The payments made to him, whatever else they may be, are not in themselves proof of the existence of a contact between Grace Fellowship and Mr. McLellan. Nor does the evidence support the Minister's contention that being referred to as an "elder" and performing the tasks he did was sufficient to establish a contract of service between Mr. McLellan and the Grace Fellowship. In my view, it does not establish a contract of any kind. Without that, a fundamental element is absent from the definitions set out in the relevant legislation and accordingly, Mr. McLellan cannot be said to have been in insurable or pensionable employment. The Grace Fellowship having been successful in proving wrong the assumptions upon which the Minister's determination were based, the appeal is allowed.
+Signed at Ottawa, Canada, this 18th day of May 2004.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2004TCC347
+COURT FILE NOS.:
+2003-3488(CPP)
+2003-3489(EI)
+STYLE OF CAUSE:
+Grace Fellowship of Leask v. MNR
+PLACE OF HEARING:
+Saskatoon, Saskatchewan
+DATE OF HEARING:
+March 26, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+May 18, 2004
+APPEARANCES:
+Agent for the Appellant:
+David Cortens
+Counsel for the Respondent:
+Penny Piper
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] As defined in subsection 2(1) and paragraph 5(1)(a) of the Employment Insurance Act, S.C. 1996, c.23
+[2] As defined in section 2 of the Canada Pension Plan Act, R.S.C. 1985, c. C-8
+[3] For example, Mr. Cortens' wife was sometimes reimbursed for her out-of-pocket photocopying costs of materials used by the Grace Fellowship.
+[4] [2001] 2 S.C.R. 983
+[5] [1986] 2 C.T.C. 200 (F.C.A.)

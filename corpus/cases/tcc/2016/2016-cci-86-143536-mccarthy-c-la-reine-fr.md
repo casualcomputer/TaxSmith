@@ -1,0 +1,164 @@
+---
+title: "McCarthy c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/143536/index.do"
+last_modified: "2016-04-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 86"
+citation2: ""
+neutral_citation: "2016 CCI 86"
+decision_date: "2016-04-11"
+language: "fr"
+item_id: "143536"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3116
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:05:59.551000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "62c20ab8976c8481672df5b0835d86fb786140018e5d8254619531a187b33175"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McCarthy c. La Reine
+
+- Citation: 2016 CCI 86
+- Decision date: 2016-04-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3116, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McCarthy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-04-11
+Référence neutre
+2016 CCI 86
+Numéro de dossier
+2013-1383(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-1383(IT)G
+ENTRE :
+DOUGLAS MCCARTHY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ORDONNANCE
+À la suite de l’examen des observations des avocats des deux parties sur les dépens, la Cour ordonne ce qui suit, conformément aux motifs ci-joints :
+1. L’appelant doit payer à l’intimée les dépens établis à 5 052 $ dans les 30 jours suivant la date de la présente ordonnance.
+2. L’avocat de l’appelant doit lui rembourser la moitié des dépens adjugés, à savoir 2 026 $, dès le paiement de ces dépens à l’intimée.
+3. L’avocat de l’appelant doit envoyer sans délai une copie de la présente ordonnance et des motifs de l’ordonnance à l’appelant.
+Signé à Ottawa, Canada, ce 11e jour d’avril 2016.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 4e jour de novembre 2016.
+Mario Lagacé, jurilinguiste
+Référence : 2016 CCI 86
+Date : 20160411
+Dossier : 2013-1383(IT)G
+ENTRE :
+DOUGLAS MCCARTHY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Boyle
+[1] Dans ma décision du 25 février 2016, dans le cadre de la présente affaire, j’ai demandé des observations écrites sur les dépens, y compris les observations de Me Sumner sur la question de savoir si une ordonnance conforme à l’article 152 des Règles doit être rendue à l’égard d’une partie ou de l’intégralité des dépens adjugés à l’encontre de son client.
+[2] J’ai reçu et examiné ces observations. L’intimée demande des dépens conformément au tarif établi pour une instance de la catégorie B. Les arguments de l’appelant visent essentiellement à contester la justesse des décisions que j’ai rendues à ce jour. Je vais laisser cela à la Cour d’appel fédérale. Les observations de l’appelant se terminent par une demande que l’adjudication des dépens continue d’être laissée à la discrétion du juge de première instance – chose qui, en vertu de ma décision précédente, ne convenait plus. À titre subsidiaire, il demande que toute adjudication des dépens soit minime. L’avocat de l’appelant ne présente aucun argument relativement à l’article 152 des Règles de la Cour canadienne de l’impôt (procédure générale) et n’explique pas pourquoi il ne serait pas approprié pour la Cour, dans la présente affaire, d’obliger l’avocat à indemniser personnellement son client pour l’intégralité ou une partie de toute attribution des dépens à l’encontre de son client.
+[3] Dans les circonstances de la présente affaire, j’attribue des dépens conformément au tarif à l’égard de la conférence de gestion de l’instance de janvier 2016 que j’ai présidée, des deux audiences de février 2016 que j’ai présidées et des deux interrogatoires préalables prévus au calendrier qui ont donné lieu à la présente situation. Tous les autres dépens préalables à l’instance qui ont été engagés à ce jour demeurent à la discrétion du juge de première instance. Les montants tarifaires sont de 3 700 $ au total. Les décaissements de l’intimée sont de 1 352 $ au total. Je vais donc fixer les dépens que l’appelant doit payer à l’intimée à 5 052 $. Ceux-ci sont payables dans les 30 jours suivant la date de la présente ordonnance.
+[4] Je passe maintenant à la question visée par l’article 152 des Règles qui est soulevée par les circonstances de l’espèce. La conclusion la plus raisonnable que je tire des faits de l’espèce, de ce qui a été avancé et de ce qui a été dit et n’a pas été dit, est que la décision initiale de M. McCarthy de ne pas assister à l’interrogatoire préalable à la date initialement prévue et son refus ultérieur de répondre aux questions quand il a assisté à son second interrogatoire préalable, a été prise sur recommandation de son avocat selon quoi il n’était pas nécessaire de le faire pour des motifs d’allégations de torture et de coercition illégale.
+[5] Cela fait participer l’avocat directement et causalement aux manquements de M. McCarthy quant aux ordonnances de la Cour de se soumettre aux interrogatoires préalables. La date d’au moins un des interrogatoires avait été convenue avec la participation de Me Sumner. Il n’a pas informé l’intimée à l’avance de son incapacité à y assister.
+[6] La chronologie et la liste plus complètes des préoccupations au sujet de l’absence aux interrogatoires préalables et de leur inachèvement figurent dans mes motifs antérieurs sur le bien-fondé de ces requêtes.
+[7] Dans les motifs avancés par l’avocat à l’appui de sa thèse selon laquelle le processus ordinaire des interrogatoires préalables à l’instance de la Cour constituait une torture et une coercition illégale, il n’a pas été en mesure de faire valoir quoi que ce soit qui se rapproche d’une cause défendable et la jurisprudence qu’il a citée est loin de dire ce que, selon lui, elle a dit. Je suis tenté de comparer les arguments juvéniles qui ont été avancés à ceux que l’on pourrait entendre lors d’un cours d’éducation civique du secondaire ou un cours de droit canadien, ou lors d’une conversation entre de jeunes adultes autour de la table familiale, mais je ne suis pas sûr que cette comparaison rend justice aux élèves canadiens du secondaire ou aux dîners de famille.
+[8] Mon adjudication des dépens à l’encontre de l’appelant traduit les contributions non punitives appropriées prévues dans le tarif comme étant la partie des frais de l’intimée qui doit être prise en charge par l’appelant débouté. La question visée par l’article 152 des Règles est de savoir si l’avocat de l’appelant devrait être tenu de rembourser la totalité ou une partie de ces dépens à M. McCarthy.
+[9] L’article 152 des Règles prévoit ce qui suit :
+Responsabilité de l’avocat quant aux dépens
+152(1) Si l’avocat d’une partie a fait engager des dépens à tort ou sans raison valable, ou les a fait augmenter inutilement par des retards abusifs, par mauvaise conduite ou par une autre omission, la Cour peut, par directive :
+a) lui refuser les dépens en totalité ou en partie sur une base procureur-client;
+b) lui enjoindre de rembourser son client des dépens que celui-ci est tenu de payer à une autre partie;
+c) lui enjoindre d’indemniser l’autre partie en réduisant les dépens payables par celle-ci.
+(2) La directive visée au paragraphe (1) peut être donnée par la Cour, de son propre chef ou à la suite d’une requête d’une partie à l’instance; elle ne peut être donnée que si l’avocat a eu une occasion raisonnable d’être entendu par la Cour.
+(3) La Cour peut prescrire que le client de l’avocat visé par une directive donnée en application du paragraphe (1) en soit avisé de la façon prévue par la directive.
+[10] Dans la décision 9128-8456 Québec Inc. c. La Reine, 2014 CCI 85, j’ai écrit ce qui suit :
+[15] J’ai déjà résumé les circonstances dans lesquelles la Cour peut ordonner que les dépens soient payés personnellement par l’avocat d’une partie en vertu de l’article 152 des Règles et en vertu du pouvoir inhérent de la Cour de réprimer l’abus de procédures et l’outrage au tribunal. Dans la décision Dacosta c. La Reine, 2008 CCI 136, je me suis exprimé de la façon suivante :
+[20] Tant la compétence inhérente de la Cour que la compétence que lui confère la loi à l’article 152 des Règles lui permettent de condamner l’avocat à payer les dépens. Il s’agit dans les deux cas d’une adjudication extraordinaire des dépens.
+[21] Dans l’arrêt Young c. Young, [1993] 4 R.C.S. 3, (1993), 108 D.L.R. (4th) 46, de la Cour suprême du Canada, Mme la juge en chef McLachlin a déclaré ce qui suit au nom de la majorité :
+Il est évident que les tribunaux ont compétence en la matière, souvent en vertu d’une loi et, en tout état de cause, en vertu de leur pouvoir inhérent de réprimer l’abus de procédures et l’outrage au tribunal […]
+[22] Une cour supérieure a compétence inhérente pour rendre une ordonnance condamnant personnellement un avocat aux dépens afin de réprimer l’abus de procédures et l’outrage au tribunal et d’exercer un contrôle sur la conduite de ses propres fonctionnaires. En revanche, l’article 152 des Règles élargit sans équivoque les situations dans lesquelles il est possible de rendre des ordonnances de cette nature si l’avocat a fait engager des dépens sans raison valable ou les a fait augmenter inutilement par des retards abusifs, par mauvaise conduite ou par une autre omission.
+[J’omets l’article 152.]
+[23] L’exigence prévue par la common law en matière de compétence inhérente voulant que le tribunal doive conclure à l’existence de mauvaise foi ne constitue manifestement pas une condition préalable aux termes de l’article 152 des Règles. Il faut donner aux mots employés dans cette disposition leur sens ordinaire. Il n’est nullement nécessaire que la conduite de l’avocat constitue un abus, de la négligence ou de la mauvaise foi. Voir, à titre d’exemple, les récentes décisions ontariennes Walsh v. 1124660 Ontario Ltd. et al., [2007] O.J. No. 639, et Standard Life Assurance Co. v. Elliott et al., [2007] O.J. No. 2031.
+[24 Dans la décision Standard Life, Mme la juge Molloy tient les propos suivants au paragraphe 25 :
+[traduction] Cependant, ce n’est pas parce que les actes d’un avocat correspondent aux circonstances bien définies dans lesquelles il peut être personnellement condamné aux dépens que la Cour doit exercer son pouvoir discrétionnaire en ce sens. Au contraire, le pouvoir discrétionnaire de la Cour doit être exercé avec modération et uniquement dans des situations exceptionnelles.
+La juge Molloy reproduit ensuite avec approbation une partie du paragraphe 115 des motifs prononcés par M. le juge Granger dans la décision Marchand (Litigation Guardian of) v. Public General Hospital Society of Chatham, [1998] O.J. No. 527 [C. de l’Ont. (Div. gén.)] :
+[traduction] Si on donne aux termes employés à l’article 57.07 des Règles leur sens ordinaire, l’avocat qui a fait engager des dépens sans raison valable ou par suite de retards abusifs, par négligence ou par une autre omission peut être condamné à les payer personnellement.
+Le juge Granger ajoute plus loin :
+[traduction] Même s’il n’est pas nécessaire que l’avocat ait agi avec « mauvaise foi » pour que des sanctions lui soient infligées en application de l’article 57.07 des Règles, les ordonnances de cette nature ne doivent être rendues qu’en de rares circonstances et elles ne doivent pas avoir pour effet de dissuader les avocats de défendre des causes impopulaires ou difficiles. Ce n’est que lorsque l’avocat poursuit un objectif qui est manifestement inatteignable ou lorsqu’il manque manifestement à ses obligations à titre de fonctionnaire judiciaire qu’il convient de recourir à l’article 57.07 des Règles.
+[25] Bien que l’article 152 des Règles de la Cour soit à certains égards différent de l’article 57.07 des règles ontariennes, notamment en ce qu’il ne fait pas mention de négligence, mais bien de mauvaise conduite, les propos formulés par la juge Molloy et le juge Granger s’appliquent également à l’examen de l’article 152 des Règles.
+[26] Il ressort de la plupart des décisions portant sur la condamnation personnelle de l’avocat aux dépens que les tribunaux sont soucieux de ne pas dissuader les avocats de défendre des causes impopulaires ou d’avancer des thèses nouvelles et non encore éprouvées. Ces préoccupations ne s’appliquent pas en l’espèce. Il s’agit simplement d’un avocat dont le comportement envers la Cour et l’omission de se conformer à une ordonnance judiciaire sont inexcusables. Au paragraphe 17 de ses motifs prononcés dans la décision Walsh, Mme la juge Lane renvoie aux propos tenus par M. le juge Quinn dans la décision Belanger v. McGrade Estate, [2003] O.J. No. 2853 (C.S.J.) :
+[traduction] [L’avocat] a fait engager des dépens sans raison valable ou les a fait augmenter inutilement par son omission de fournir à l’avocat du demandeur les éléments nécessaires dans le délai fixé par l’ordonnance du juge Marshall. Cela n’a rien à voir avec la représentation courageuse d’un client.
+Le pouvoir discrétionnaire conféré au paragraphe 57.07(1) doit être exercé avec la plus grande prudence et uniquement dans les cas les plus évidents. Un doute, quel qu’il soit, doit jouer en faveur de l’avocat. Néanmoins, même en tenant compte de ces mises en garde, je crois que ce qui s’est produit dans la présente affaire correspond précisément au genre de situation visée par cette disposition des Règles.
+[27] Je ne puis mieux exprimer la situation dont je suis saisi en l’espèce.
+[28] Les faits de la présente affaire sont différents de ceux de la décision Jurchison, 2000 DTC 1660, où, pour paraphraser M. le juge Bowie, la conduite de l’avocat n’était tout simplement pas conforme au degré de civilité qui a déjà caractérisé et devrait encore caractériser la façon dont les membres du barreau se comportent dans leurs relations réciproques. En l’espèce, l’avocat de l’appelant n’a tenu aucun compte d’une ordonnance de la Cour et il a omis de communiquer avec cette dernière au sujet de cette omission. La présente affaire ressemble davantage aux situations dont la Cour était saisie dans les décisions Whiteway c. Canada, 1998 CCI 91158, [1998] A.C.I. no 84, [1998] 2 C.T.C. 3254), et Anctil v. Canada, 97 DTC 1462.
+[11] Le gaspillage par l’appelant du temps et des ressources de l’intimée et de la Cour est un gaspillage des ressources publiques. L’un des objectifs de l’article 152 des Règles est de décourager le gaspillage de ces ressources publiques précieuses, limitées et coûteuses par des fonctionnaires judiciaires qui servent d’avocats à une partie. Ce qui peut raisonnablement être décrit comme un gaspillage des ressources doit être déterminé de manière prudente, charitable et généreuse afin de s’assurer que les tribunaux ne découragent pas les avocats de représenter sans crainte les intérêts de leur client, notamment en faisant valoir des thèses inédites, impopulaires ou jusqu’alors non reconnues.
+[12] Dans ces circonstances, je suis entièrement convaincu que les exigences de l’article 152 des Règles et les conditions préalables aux pouvoirs inhérents de la Cour sont remplies. Les dépens ont été engagés sans motif raisonnable et ont été gaspillés à cause de retards à tout le moins abusifs. Je suis convaincu que c’est un cas exceptionnel dans lequel il convient d’ordonner que des dépens soient pris en charge par l’avocat personnellement. Ce que j’ai écrit aux paragraphes 26 à 28 de la décision Dacosta c. La Reine, 2008 CCI 136, citée dans la décision 9128-8456 Québec, précitée, s’applique également à la prestation de l’avocat en l’espèce à ce jour.
+[13] La Cour ordonne que la moitié des dépens attribuée en faveur de l’intimée et payable par l’appelant, à savoir 2 526 $, soit rapidement remboursée par l’avocat de l’appelant à celui-ci en vertu de l’alinéa 152(1)b) des Règles. Il est ordonné à l’avocat de l’appelant est prié d’envoyer sans délai une copie de cette ordonnance et des motifs de l’ordonnance à son client comme prévu au paragraphe 152(3) des Règles.
+Signé à Ottawa, Canada, ce 11e jour d’avril 2016.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 4e jour de novembre 2016.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2016 CCI 86
+No DU DOSSIER DE LA COUR :
+2013-1383(IT)G
+INTITULÉ :
+DOUGLAS MCCARTHY c. LA REINE
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Patrick Boyle
+DATE DE L’ORDONNANCE :
+Le 11 avril 2016
+REPRÉSENTANTS :
+Avocat de l’appelant :
+Me Joel Allan Sumner
+Avocates de l’intimée :
+Me H. Annette Evans
+Me Rishma Bhimji
+Me Victoria Iozzo
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Me Joel Allan Sumner
+Cabinet :
+Sumner Law
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

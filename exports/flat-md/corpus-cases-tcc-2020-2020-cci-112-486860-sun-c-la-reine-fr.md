@@ -1,0 +1,192 @@
+---
+title: "Sun c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/486860/index.do"
+last_modified: "2020-10-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 112"
+citation2: ""
+neutral_citation: "2020 CCI 112"
+decision_date: "2020-10-09"
+language: "fr"
+item_id: "486860"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4603
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:57:10.498000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e3d31772dc8ae9975e0f4d3657d30bac9cb01c39b5cff7ad7b36c03ed8c7a386"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sun c. La Reine
+
+- Citation: 2020 CCI 112
+- Decision date: 2020-10-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4603, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sun c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-10-09
+Référence neutre
+2020 CCI 112
+Numéro de dossier
+2016-2402(GST)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016-2402(GST)I
+ENTRE :
+CHEN SUN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 15 novembre 2019, à Toronto (Ontario)
+Devant : L’honorable juge suppléant Gaston Jorré
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Me Anne Shirley Lebel Me Craig Maw
+JUGEMENT
+Selon les motifs du jugement ci-joint, l’appel est accueilli et l’affaire est renvoyée au ministre pour réexamen et établissement d’une nouvelle cotisation conformément aux motifs selon lesquels l’appelant a droit au remboursement de la taxe sur les produits et services/taxe de vente harmonisée (TPS/TVH) pour habitations neuves pour la copropriété qu’il a achetée sur la rue Bastion, à Toronto.
+Aucuns dépens ne sont adjugés [1] .
+Signé à Ottawa, Canada, ce 9e jour d’octobre 2020.
+« G. Jorré »
+Le juge suppléant Jorré
+Référence : 2020 CCI 112
+Date : 20201009
+Dossier : 2016-2402(GST)I
+ENTRE :
+CHEN SUN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Jorré
+I. INTRODUCTION
+[1] Il s’agit en l'espèce d’un remboursement de la TPS/TVH pour habitations neuves.
+[2] L’appelant a demandé le remboursement de la TPS/TVH pour habitations neuves pour la copropriété qu’il a achetée sur la rue Bastion, à Toronto. L’intimée a refusé la demande.
+[3] L’appelant, Meng Zhang, une courtière immobilière et Si Yuan Chen ont témoigné. Si Yuan Chen est l’épouse de l’appelant.
+[4] À l’audience, la thèse de principe de l’intimée était fondée sur sa conclusion selon laquelle l’appelant n’a pas acheté la copropriété d’un constructeur, mais plutôt de Meng Zhang, qui n’est pas un constructeur. Je reviendrai sur ce point, ainsi que sur les autres arguments avancés par l’intimée.
+[5] Le 22 mai 2011, Meng Zhang, la cédante, a signé une convention d’achat-vente avec un constructeur, West Harbour City (III) Residences Corp., pour la copropriété en litige. À ce moment, la date de prise de possession provisoire de la copropriété était le 30 novembre 2013, mais cette date a été reportée à une date très ultérieure. Le prix d’achat était de 326 900 $, comprenant la TVH nette (c.-à-d. après déduction du remboursement de TVH attendu pour le total du prix de vente et de la TVH) [2] .
+[6] Le 1er mars 2014, la cédante et l’appelant ont signé une convention de cession à l’égard de la copropriété en question.
+[7] Initialement, la cédante a acheté la propriété à titre d’investissement, en pensant qu’elle pourrait la donner plus tard à son fils.
+[8] La cédante n’a réalisé aucun profit sur la convention de cession.
+[9] L’oncle de l’appelant, M. Ching, était le meilleur ami de la cédante. Au début de l’année 2014, M. Ching lui a recommandé l’appelant, qui a commencé à travailler pour elle comme assistant. L’appelant a quitté cet emploi en 2015.
+[10] M. Ching vivait dans une unité du même immeuble que la copropriété en litige et l’appelant souhaitait vivre dans le même immeuble que son oncle. La cédante a donc conclu la convention de cession avec l’appelant.
+[11] Alors qu’il travaillait pour la cédante, l’appelant a rencontré Si Yuan Chen, qui travaillait dans le même bureau.
+[12] Conformément à la convention de cession, l’appelant a versé la somme de 49 035 $ à la cédante. Ce montant équivalait au paiement versé à la date de la convention de cession par la cédante aux termes de la convention d’achat-vente.
+[13] La convention d’achat-vente signée par la cédante prévoyait certaines restrictions relatives à la cession, notamment que les modalités de toute cession devaient être conformes au formulaire type de cession du vendeur et que l’acheteur ne pouvait exercer son droit de cession de la convention qu’une seule fois, en donnant avis au vendeur au plus tard à l’une de des deux dates prévues [3] .
+[14] L’acheteur n’a pas transmis d’avis de la cession au vendeur en temps opportun, comme l’exigeait la convention d’achat [4] .
+[15] En plus de l’absence d’avis en temps opportun, l’intimée allègue que la convention de cession du 1er mars 2014 n’était pas conforme à la convention d’achat, puisqu’elle ne respectait pas les autres conditions établies dans la convention d’achat à l’égard de sa cession. Comme je l’expliquerai ci-dessous, il n’est pas nécessaire que je tranche cette question et je refuse de le faire [5] .
+[16] L’appelant a déménagé dans la copropriété au début du mois de mai 2014, peu après la date de prise de possession provisoire de l’unité du 28 avril 2014 [6] .
+[17] Après avoir signé la convention de cession, l’appelant a fait tous les paiements requis au vendeur aux termes de la convention d’achat-vente.
+[18] Bien que les éléments de preuve soient limités, il est clair qu’en mars 2015, avant la clôture, des communications avaient eu lieu entre le vendeur de la copropriété, la cédante et l’appelant, ou leurs représentants. Ces communications ont donné lieu à un échange de courriels le 19 mars 2015, indiquant que le constructeur acceptait la directive selon laquelle le titre de propriété de l’immeuble devait être au nom de l’appelant [7] . J’observe que cette directive provenait d’une personne provenant du cabinet d’avocat de l’appelant [8] .
+[19] Selon l’intimée, la convention de cession était invalide ou, à tout le moins, elle n’avait pas pour effet de lier le vendeur, West Harbour City (III) Residences Corp., parce qu’elle n’était pas conforme aux exigences prévues dans la convention d’achat-vente et qu’un avis de la cession n’a pas été donné au vendeur en temps opportun.
+[20] Toutefois, j'estime qu’il y a peu d’éléments de preuve qui permettraient de soutenir la conclusion que l’appelant a acheté la copropriété de la cédante. Bien qu’il y ait un état des rajustements daté du 26 mars 2015 au nom de la cédante au titre d’acheteur [9] , je ne vois aucun autre élément dans la preuve indiquant que la cédante a réellement effectué l’achat.
+[21] Au contraire, la lettre de compte rendu de l’avocat de l’appelant pour l’achat de l’immeuble datée du 9 avril 2015 renvoie à l’achat de l’appelant à West Harbour City (III) Residences Corp [10] , et l’extrait du registre foncier montre que le transfert de titre a été effectué entre West Harbour City (III) Residences Corp et l’appelant [11] .
+[22] Je conclus qu’il n’y a pas eu de vente entre West Harbour City (III) Residences Corp. et la cédante.
+[23] Considérant qu’il n’y a pas eu de vente entre West Harbour City (III) Residences Corp. et la cédante, que l’appelant a effectué tous les paiements dus à West Harbour aux termes de la convention d’achat après la signature de la convention de cession, notamment le paiement mensuel dû après le début de l’occupation provisoire, que les courriels du 19 mars 2015 démontrent l’acceptation par West Harbour de la directive émanant du bureau de l’avocat de l’appelant selon laquelle le titre serait au nom de l’appelant, et que les dossiers du registre foncier démontrent le transfert de West Harbour à l’appelant, il appert clairement de cette conduite que le vendeur, West Harbour, a renoncé à toute condition non satisfaite à l’égard de la cession, a accepté la cession et a vendu la propriété à l’appelant [12] .
+[24] Par conséquent, l’appelant a remplacé la cédante et est devenu l’acheteur du vendeur, West Harbour, aux termes de la convention d’achat-vente du 22 mai 2011 [13] .
+[25] Par conséquent, la première exigence d’admissibilité au remboursement était satisfaite [14] . Un achat a été effectué auprès d’un constructeur.
+[26] L’appelant a payé le prix de 326 900 $ pour la copropriété, soit le prix d’achat établi dans la convention d’achat-vente [15] .
+[27] Comme il a été mentionné, ce prix comprend la TVH nette, en tenant compte du crédit accordé par le vendeur à l’appelant pour le remboursement de la TPS/TVH pour habitations neuves. [16]
+[28] En plus de la condition établie à l’alinéa 254(2)a) de la Loi sur la taxe d’accise, l’intimée soutient que l’appelant n’a pas satisfait à plusieurs autres conditions énumérées au paragraphe 254(2).
+[29] Passant à d’autres arguments [17] , l’intimée a également fait valoir que l’appelant ne satisfait pas aux exigences établies aux alinéas 254(2)b), d) f) et g) de la Loi sur la taxe d’accise.
+[30] Je conclus que l’appelant a acquis la copropriété afin qu’elle lui serve de lieu de résidence habituelle au moment où il est devenu lié aux termes de la convention d’achat-vente le 1er mars 2014, soit le jour où il a signé la convention de cession. Il a emménagé dans la copropriété dès qu’il a été possible de l’occuper à titre provisoire, deux mois après la signature de la convention de cession [18] .
+[31] Relativement aux conditions des alinéas f) et g), il est clair que celles-ci sont satisfaites, puisque l’appelant était le premier occupant de la copropriété et que personne n’avait occupé l’unité avant lui.
+[32] Enfin, à l’égard de la condition prévue à l’alinéa d), nous devons tenir compte de deux éléments. Premièrement, l’appelant, en raison de la convention de cession et l’acceptation de cette cession par le vendeur, est devenu l’acheteur aux termes de la convention d’achat-vente. La convention prévoyait que l’acheteur devrait payer la TVH sur la vente, moins le montant relatif au remboursement de la TPS/TVH pour habitations neuves [19] .
+[33] Deuxièmement, même si l’alinéa 254(2)d) exige le paiement de la totalité de la TVH, il faut tenir compte du paragraphe 254(4), qui modifie en partie le paragraphe (2). Plus précisément, par l’intervention de l’alinéa 254(4)b), il n’est pas nécessaire que la TVH ait été payée; elle doit plutôt avoir été payée ou être payable. C’est le cas en l’espèce et, par conséquent, cette condition a été satisfaite.
+[34] Ainsi, toutes les conditions sont satisfaites et l’appelant est admissible au remboursement de la TPS/TVH pour habitations neuves.
+[35] Concrètement, considérant que la preuve démontre que l’appelant a déjà reçu l’avantage du remboursement puisque le vendeur, West Harbour, lui en a fait crédit, l’appelant n’aura pas à rembourser le montant crédité relatif au remboursement de la TPS/TVH pour habitations neuves. Bien entendu, s’il a déjà remboursé le montant crédité après avoir reçu la cotisation, l’appelant est en droit de le récupérer [20] .
+[36] En conclusion, l’appel est accueilli et la question est renvoyée au ministre pour nouvel examen et nouvelle cotisation au motif que l’appelant était admissible au remboursement de la TPS/TVH pour habitations neuves.
+Signé à Ottawa, Canada, ce 9e jour d’octobre 2020.
+« G. Jorré »
+Le juge suppléant Jorré
+RÉFÉRENCE :
+2020 CCI 112
+NO DU DOSSIER DE LA COUR :
+2016-2402(GST)I
+INTITULÉ :
+CHEN SUN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 15 novembre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Gaston Jorré
+DATE DU JUGEMENT :
+DATE DE RÉCEPTION DE LA TRANSCRIPTION :
+Le 9 octobre 2020
+Le 10 janvier 2020
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Me Anne Shirley Lebel Me Craig Maw
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[en blanc]
+Cabinet :
+[en blanc]
+Pour l’intimée :
+Me Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Étant donné les alinéas 18.3009(1)c) et 2.2(2)c) de la Loi sur la Cour canadienne de l’impôt, aucuns dépens ne peuvent être adjugés.
+[2] Le prix des améliorations, des extras ou des modifications à l’aménagement du vendeur ne comprenait pas la TVH. Voir les articles 2 et 8 de l’annexe F de la convention à la page 10 de l’onglet 4, pièce R-2.
+[3] Au plus tard le 90e jour avant la date de prise de possession confirmée, ou au plus tard au 60e jour précédant la date de clôture. Voir la 15e page de la convention, à l’onglet 4 de la pièce R-2.
+[4] Voir le témoignage de la cédante à la page 37 de la transcription.
+[5] Bien que la convention de cession ne reprenne pas le formulaire type du vendeur, l’exigence prévue à la 15e page de l’onglet 4, pièce R-2, n’est pas d’utiliser le formulaire du vendeur, mais plutôt de se conformer aux conditions établies par le vendeur dans la convention d’achat, y compris à celles qui figurent dans ce formulaire. Même si le formulaire utilisé par la cédante et l’appelant est très différent de celui du vendeur, il faudrait l’analyser de façon minutieuse pour déterminer si les différences sont majeures, particulièrement lorsqu’on tient compte du fait que la convention d’achat-vente est jointe à la convention de cession et que l’appelant, à titre de cessionnaire, a convenu de se conformer à toutes les obligations de la cédante aux termes de la convention d’achat. Quoi qu’il en soit, comme je l’ai mentionné, il n’est pas nécessaire que je me prononce sur ce point.
+[6] L’appelant a fourni une preuve documentaire de son déménagement dans la copropriété sous la forme de plusieurs documents sur lesquels était indiquée l’adresse de la copropriété.
+[7] Voir l’onglet 5, pièce A‑2. Voir également le témoignage de la cédante, à la page 37 de la transcription.
+[8] On peut le constater par l’adresse électronique du courriel reçu à 17 h 40 le 19 mars 2015, donnant la directive (@zhumattis.com, voir l’onglet 5, pièce A-2) et par la lettre de compte rendu du 9 avril 2015 destinée à l’appelant (à l’onglet 5, pièce R-2).
+[9] Voir l’onglet 2, pièce R-2. Cette date est postérieure à la directive relative au titre, qui a été acceptée le 19 mars.
+[10] Voir l’onglet 5, pièce R-2.
+[11] L’échange suivant a eu lieu pendant le contre-interrogatoire de l’appelant : [traduction]
+Q. Question de revenir au début de l’histoire, la personne qui a d’abord acquis la copropriété de West Harbour Residence est Mme Zhang, qui est présente aujourd’hui, c'est exact?
+R. [Avec l’aide d’un interprète] Oui.
+Q. Et donc, plus tard, elle vous a cédé ses parts dans la copropriété.
+R. [Avec l’aide d’un interprète] Oui.
+Q. Cela signifie que vous avez acquis la copropriété de Mme Zhang et non de West Harbour directement.
+R. [Avec l’aide d’un interprète] C’est exact.
+Je ne considère pas que cet échange constitue une preuve que la copropriété a été vendue par la cédante à l’appelant. Bien que, d’une certaine façon, il ait obtenu la copropriété de la cédante, considérant que le vendeur n’aurait pas pu signer une convention d’achat-vente avec l’appelant pour la même unité de copropriété qu’il avait déjà convenu de vendre à la cédante, la preuve ne démontre pas que la cédante a, à quelque moment que ce soit, réalisé l’achat elle-même pour être en position de vendre la propriété à l’appelant.
+[12] Je ne connais aucun motif juridique qui ferait en sorte que, dans ces circonstances, West Harbour n’aurait pas été en mesure de renoncer validement à toute condition relative à la cession. Considérant qu’il importe peu que les modalités de la convention de cession soient exactement conformes à la convention d’achat-vente.
+[13] Un facteur ayant pu contribuer à ce litige est que la première page du formulaire de demande de remboursement de la TPS/TVH pour habitations neuves (voir onglet 1, pièce R-2) indique le 1er avril 2015 comme date de signature de la convention d’achat-vente. Il s’agit manifestement d’une erreur. La lettre de compte rendu de l’avocat de l’appelant indique que le 1er avril 2015 est la date de clôture de la transaction, et que le 2 avril 2015 est la date d’inscription de la transaction.
+[14] La condition établie à l’alinéa 254(2)a) de la Loi sur la taxe d’accise.
+[15] La somme de 49 035 $ a été payée au moment de la convention de cession (voir la page 1 de la convention de cession à l’onglet 1, pièce A-2), une autre somme de 32 690 $ a été payée au moment de l’occupation provisoire (voir onglet 3, pièce A-2) et, enfin, une somme de 245 175 $ a été payée au moment de la vente et a été financée par l’appelant au moyen d’une première hypothèque.
+[16] On peut le constater des calculs se trouvant aux huit premières lignes de l’état des rajustements (onglet 2, pièce R-2), où l’on peut voir que la part fédérale et la part de l’Ontario pour la TVH est respectivement de 15 725 $ et de 25 160 $, soit 5 % et 8 % respectivement du prix de vente nette (avant la TVH) de 314 500 $. Lorsqu’on ajoute la TVH totale au prix de vente net pour ensuite soustraire le remboursement du fédéral et de l’Ontario, on obtient 330 855 $, soit le montant total payable au vendeur, TVH comprise. Il est clair que le montant tient compte du crédit fait par le vendeur à l’acheteur pour le remboursement de la TPS/TVH pour habitations neuves. La somme de 330 855 $ correspond au prix de vente convenu de 326 900 $, plus une contrepartie supplémentaire de 3 955 $; l’objet de cette contrepartie supplémentaire de 3 955 $ n’est pas clair, mais il est manifeste que l’acheteur a accordé un crédit pour le remboursement de la TPS/TVH pour habitations neuves. J’observe également qu’à la page 4 de la lettre de compte rendu à l’appelant par son avocat, on retrouve la confirmation que l’appelant a payé le prix d’achat de 314 500 $. Il n’est pas clair si l’appelant a payé le montant de 3 955 $ supplémentaire, mais cela n’a aucun effet sur la question de savoir si l’appelant était admissible au remboursement.
+[17] Ces arguments et les hypothèses factuelles qui y sont reliées ne sont pas allégués dans la réponse à l’avis d’appel.
+[18] L’intimée a fait valoir plusieurs éléments qui, selon elle, devraient me faire parvenir à la conclusion contraire. Je commenterai brièvement certains de ces éléments. La copropriété était située à une bonne distance du lieu de travail de l’appelant et du lieu de résidence de sa future épouse. Je ne suis pas certain de ce que prouve cette affirmation, puisque ce n’est pas tout le monde qui décide de vivre près de son travail, considérant que l’oncle de l’appelant vivait dans le même immeuble que celui où se trouvait la copropriété en litige et que certaines personnes choisissent de faire la navette vers la ville alors que d’autres font le contraire. L’intimée fait également valoir que l’appelant a passé beaucoup de temps à Scarborough selon, notamment, un petit nombre de factures de restaurants apparaissant sur des relevés bancaires de l’appelant. Je ne suis pas convaincu que ces éléments de preuve me permettent de déterminer combien de temps l’appelant a passé à un endroit donné et, même si c’était le cas, le fait de passer un certain temps dans une région ne permet pas vraiment de déterminer où se situe la résidence de quelqu’un. Certains éléments de preuve ont été déposés relativement aux adresses postales utilisées par l’appelant et son épouse au fil des ans ainsi qu’à leur première résidence commune. En ce qui concerne leurs adresses postales, celles-ci ont été différentes jusqu’en 2016, soit la première année où ils ont utilisé la même adresse. En ce qui a trait au moment où ils ont commencé à vivre ensemble, étant donné qu’ils ne se sont rencontrés qu’en 2014, la conclusion raisonnable à tirer de la preuve est qu’ils ont commencé à vivre ensemble vers le début de 2015, soit plusieurs mois après le 1er mars 2014. Je tiens à noter qu’il n’a jamais été demandé à l’appelant où a été leur première résidence et que l’adresse précédente de l’appelant était celle de la maison de ses parents, dans laquelle il possédait une participation de 1 %. Aucun de ces éléments ne me permet de conclure que l’intention de l’appelant, le 1er mars 2014, était d’acquérir la copropriété pour un usage autre que comme lieu de résidence habituel.
+[19] Voir les paragraphes 5, 26 et 27 et les notes de bas de page 2 et 16 de la présente décision.
+[20] Bien entendu, la Cour ne peut ordonner un paiement ou un remboursement, puisque notre pouvoir discrétionnaire est d’établir l’exactitude de la cotisation.

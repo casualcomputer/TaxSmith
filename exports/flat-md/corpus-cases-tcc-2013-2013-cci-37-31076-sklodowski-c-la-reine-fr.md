@@ -1,0 +1,231 @@
+---
+title: "Sklodowski c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31076/index.do"
+last_modified: "2013-01-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 37"
+citation2: ""
+neutral_citation: "2013 CCI 37"
+decision_date: "2013-01-31"
+language: "fr"
+item_id: "31076"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4719
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:31:12.557000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d76758aaf2c725be7b1309fd0a59d6962070c5ed72304129fc5759df9695bdd9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sklodowski c. La Reine
+
+- Citation: 2013 CCI 37
+- Decision date: 2013-01-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4719, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sklodowski c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-01-31
+Référence neutre
+2013 CCI 37
+Numéro de dossier
+2012-1642(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1642(IT)I
+ENTRE :
+WAYNE SKLODOWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels
+de John Ashbert (2012-1609(IT)I)
+le 14 janvier 2013, à Toronto (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Jill Chisholm
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté.
+Signé à Ottawa, Canada, ce 31e jour de janvier 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 15e jour de mars 2013.
+Alya Kaddour‑Lord, traductrice
+Dossier : 2012-1609(IT)I
+ENTRE :
+JOHN ASHBERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec l’appel
+de Wayne Sklodowski (2012-1642(IT)I)
+le 14 janvier 2013, à Toronto (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Jill Chisholm
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2006 et 2007 sont rejetés.
+Signé à Ottawa, Canada, ce 31e jour de janvier 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 15e jour de mars 2013.
+Alya Kaddour‑Lord, traductrice
+Référence : 2013CCI37
+Date : 20130131
+Dossier : 2012-1642(IT)I
+ENTRE :
+WAYNE SKLODOWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-1609(IT)I
+ENTRE :
+JOHN ASHBERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] MM. Sklodowski et Ashbert ont tous deux interjeté appel, sous le régime de la procédure informelle, de la décision du ministre du Revenu national (le « ministre ») de leur refuser des crédits d’impôt pour don de bienfaisance.
+[2] M. Sklodowski prétend avoir fait, tout au long de l’année 2007, des dons en espèces totalisant 9 250 $ à la Christ Healing Church, qui était alors un organisme de bienfaisance enregistré. M. Ashbert prétend avoir fait, tout au long de l’année 2005, des dons en espèces totalisant 6 000 $ au Redemption Power International Ministry, organisme de bienfaisance enregistré, dons pour lesquels il a demandé des crédits pour 2006, ainsi que, tout au long de l’année 2007, des dons totalisant 8 000 $ à la Christ Healing Church.
+[3] Dans un premier temps, j’examinerai la preuve de M. Sklodowski. Il a déclaré qu’il avait commencé à fréquenter la Christ Healing Church parce que sa fille y allait avec son petit ami. Il a trouvé qu’il y régnait une atmosphère réconfortante et salutaire, compte tenu du fait qu’il connaissait alors des difficultés conjugales et qu’il lui arrivait d’avoir des idées suicidaires. Il a divorcé en 2008 et il a quitté le Canada en pensant qu’il n’y reviendrait pas, mais du fait du climat économique qui règne en Europe, il a fini par revenir au Canada; il est actuellement aux prises avec des difficultés, vu qu’il se retrouve sans emploi et sans‑abri.
+[4] M. Sklodowski a expliqué que la Christ Healing Church était située dans une zone industrielle, au 1177, avenue Finch, à Toronto. Il a mentionné qu’en 2007, il lui arrivait de se rendre à l’Église trois fois par semaine tout comme de ne pas y aller pendant deux, trois semaines. Il a laissé entendre qu’il n’assistait pas aux offices, mais qu’il y allait simplement pour parler. Pour reprendre ses termes, il s’agissait d’un lieu où on pouvait recevoir de l’aide; chrétien, mais différent. Il n’a pas effectué de don en espèces à chaque fois qu’il s’y est rendu, mais s’il ne donnait rien lors d’une visite, il se sentait obligé de donner davantage la fois suivante. Il a affirmé que le don en espèces le plus important qu’il a effectué s’élevait à environ 1 700 $. Il donnait l’argent au prêtre, et si le prêtre n’était pas disponible, il le remettait alors à sa femme ou à quelqu’un du bureau qui se prénommait Andrew. Il ne dispose d’aucun relevé confirmant la date et le montant de ces dons en espèces.
+[5] Étant donné qu’il avait fait faillite 12 ans plus tôt, M. Sklodowski a déclaré qu’il ne disposait pas de son propre compte bancaire en 2007, et par conséquent, qu’il déposait ses revenus dans le compte de sa femme. Il pouvait retirer des fonds de ce compte quand il en avait besoin, y compris pour faire des dons à l’Église.
+[6] M. Sklodowski a affirmé avoir effectué d’autres dons en espèces, à l’Armée du Salut ou encore à l’Autistic Children’s Fund, mais l’Agence du revenu du Canada (l’« ARC ») n’a reçu aucune demande de crédits pour dons de bienfaisance pour les années 2002 à 2011, exception faite des 9 250 $ en litige et des 12 750 $ que M. Sklodowski a été autorisé à déduire de son revenu en 2006. En 2007, le revenu de M. Sklodowski s’est élevé à environ 48 000 $ et celui de sa femme à environ 58 000 $. Cette dernière a également demandé à déduire de son revenu un don de bienfaisance de 8 500 $ fait à la Christ Healing Church.
+[7] Selon le reçu de la Christ Healing Church (reçu numéro 171) sur lequel M. Sklodowski se fonde, l’adresse de l’Église est le 134, promenade Norfinch, bureau 202, à Toronto, alors que l’adresse à laquelle elle est enregistrée auprès de l’ARC est le 1177, avenue Finch. Le reçu est daté du mois de février 2008, sans que le jour soit précisé, et il n’est pas non plus fait mention du lieu ou de la localité où il a été délivré.
+[8] Pour sa part, M. Ashbert affirme avoir également fait des dons en espèces à la Christ Healing Church en 2007, ainsi que des dons en espèces totalisant 6 000 $ au Redemption Power International Ministry en 2005, qu’il a demandé à déduire de son revenu pour l’année 2006.
+[9] M. Ashbert a confirmé que la Christ Healing Church se trouvait bien au 1177, avenue Finch, dans une zone industrielle, et qu’elle était voisine d’une imprimerie. Il s’y est rendu pour la première fois sur l’invitation d’un ami, un certain Oscar, et il continue de s’y rendre un vendredi ou un dimanche sur deux. Avant de commencer à fréquenter la Christ Healing Church, il fréquentait le Redemption Power International Ministry, qui selon lui se situait aussi dans la zone de l’avenue Finch, mais il n’est pas entré dans les détails. Il a commencé à s’y rendre sur l’invitation du pasteur, étant donné qu’il travaillait sur les lieux en 2004.
+[10] M. Ashbert a expliqué ne pas avoir fait les dons en cause dans un but particulier, et il a déclaré les avoir effectués lors de la plupart de ses visites à l’Église : en fait, tout le monde faisait des dons, [traduction] « alors j’en ai fait aussi ». Il a affirmé que l’argent venait de ses revenus ou de quelque chose qu’il a nommé « su su », rassemblement de fonds recueillis par sa communauté en vue d’être partagés. Il a vaguement défini ce concept. Il a déclaré avoir donné 250 $ ou plus à la fois, en allant voir un placier ou le pasteur. Il ne disposait d’aucun autre justificatif de ces dons en espèces, en dehors des deux reçus sur lesquels il se fonde.
+[11] Le reçu du Redemption Power International Ministry ne précise pas l’adresse de M. Ashbert, le lieu où le don a été effectué ni l’adresse du site Internet de l’ARC. Il fait par contre état du fait que les 6 000 $ en cause ont été ventilés de la manière suivante :
+Dîme 4 016 $
+Offrande 500 $
+Fonds de construction 500 $
+Action de grâce 250 $
+Promesse de don 250 $
+Dons 484 $
+[12] M. Ashbert a été incapable d’expliquer cette ventilation. Il n’a affecté aucune somme à un poste particulier, mais il s’est [traduction] « contenté de donner de l’argent ».
+[13] De plus, en dehors des deux années en cause, M. Ashbert n’a jamais effectué de dons de bienfaisance. Ces années‑là, il a gagné un revenu d’environ 42 000 $ et 46 000 $ respectivement.
+[14] M. Huenemoeder, vérificateur spécialisé en organismes de bienfaisance auprès de l’ARC, a témoigné au sujet de la vérification qu’il avait menée à l’égard de la Christ Healing Church, dont il avait une connaissance de première main. Il a déclaré que les livres et les registres comptables de la Christ Healing Church étaient incomplets. L’enregistrement de l’organisme a été révoqué en 2008. Très peu d’entrées de fonds en espèces ont été consignées dans les livres de comptes de l’Église, et seule une minorité de dépôts ont été comptabilisés (environ 70 000 $ à 90 000 $); les reçus que l’Église a déclarés totalisaient environ 60 000 $, en dépit du fait que les vérificateurs ont trouvé des reçus individuels qui, mis ensemble, totalisaient bien plus que 200 000 $. Un tableau récapitulatif de l’ARC faisait état de ces reçus, et l’un d’entre eux était libellé au nom de M. Ashbert, tout en faisant aussi état de reçus portant les numéros 81 à 160 signés en blanc par le pasteur Ankrah. Il manquait les reçus 160 à 200 (souvenons‑nous que le reçu de M. Sklodowski portait le numéro 171). Il n’y avait aucune preuve concrète de rentrées de fonds provenant de M. Sklodowski ou de M. Ashbert.
+[15] La vérification qui a été menée à l’égard du Redemption Power International Ministry portait sur les années 2001 et 2002, bien que l’enregistrement n’ait pas été révoqué avant 2007.
+La question en litige
+[16] MM. Sklodowski et Ashbert ont‑ils droit à des crédits d’impôt pour les dons de bienfaisance en espèces de 6 000 $ et de 8 000 $ que M. Ashbert a faits en 2006 et en 2007 au Redemption Power International Ministry et à la Christ Healing Church respectivement, et pour le don de bienfaisance en espèces de 9 250 $ que M. Sklodowski a fait en 2007 à la Christ Healing Church?
+[17] L’intimée soutient qu’ils n’ont pas droit à ces crédits pour deux raisons :
+a) premièrement, les reçus produits par MM. Sklodowski et Ashbert pour appuyer leur demande de crédits ne contiennent pas les informations prescrites;
+b) deuxièmement, MM. Sklodowski et Ashbert n’ont pas prouvé qu’ils avaient effectué les dons en espèces.
+Analyse
+[18] L’alinéa 118.1(2)a) de la Loi de l’impôt sur le revenu (la « Loi ») est ainsi rédigé :
+118.1(2) Pour qu’un don soit inclus dans le total des dons de bienfaisance, le total des dons à l’État, le total des dons de biens culturels ou le total des dons de biens écosensibles, son versement doit être attesté par la présentation au ministre des documents suivants :
+a) un reçu contenant les renseignements prescrits;
+[…]
+[19] Le paragraphe 3501(1) du Règlement de l’impôt sur le revenu (le « Règlement) énonce les exigences relatives aux reçus pour dons de bienfaisance de la manière suivante :
+3501(1) Tout reçu officiel délivré par une organisation enregistrée doit énoncer qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu et indiquer clairement, de façon à ce qu’ils ne puissent être modifiés facilement, les détails suivants :
+a) le nom et l’adresse au Canada de l’organisation ainsi qu’ils sont enregistrés auprès du ministre;
+b) le numéro d’enregistrement attribué par le ministre à l’organisation;
+c) le numéro de série du reçu;
+d) le lieu ou l’endroit où le reçu a été délivré;
+e) lorsque le don est un don en espèces, le jour ou l’année où le don a été reçu;
+e.1) lorsque le don est un don de biens autres que des espèces
+(i) le jour où le don a été reçu,
+(ii) une brève description du bien, et
+(iii) le nom et l’adresse de l’évaluateur du bien si une évaluation a été faite;
+f) le jour où le reçu a été délivré, si ce jour diffère du jour visé à l’alinéa e) ou e.1);
+g) le nom et l’adresse du donateur y compris, dans le cas d’un particulier, son prénom et son initiale;
+h) le montant qui correspond
+(i) au montant du don en espèces, ou
+(ii) lorsque le don est un don de biens autres que des espèces, à la juste valeur marchande du bien au moment où le don a été fait;
+i) la signature, ainsi qu’il est prévu au paragraphe (2) ou (3), d’un particulier compétent qui a été autorisé par l’organisation à accuser réception des dons ;
+j) le nom de l’Agence du revenu du Canada et l’adresse de son site Internet.
+[20] Lues conjointement, ces dispositions exigent que les éléments suivants soient réunis :
+a) un don;
+b) un reçu prouvant qu’il s’agit d’un don de bienfaisance.
+La Couronne soutient que les appelants n’ont pas fourni suffisamment d’éléments de preuve de l’existence de l’un ou l’autre de ces deux éléments.
+i) La validité du reçu
+[21] Dans la décision récente de la Cour Afovia c. Sa Majesté la Reine[1], le juge Paris a examiné ces deux questions. Il s’est exprimé dans les termes suivants en ce qui a trait aux exigences en matière de reçu :
+[9] La Cour doit rechercher s’il est obligatoire qu’un reçu pour don de bienfaisance contienne tous les renseignements énumérés au paragraphe 3501(1) du Règlement, y compris un numéro de série et le nom de l’ARC et l’adresse de son site Internet. Compte tenu du texte explicite de cette disposition, je conclus qu’il est impératif de faire état de tous les renseignements qui y sont énumérés. À la partie pertinente de la disposition en question, il est prévu que « tout reçu officiel délivré par une organisation enregistrée doit […] indiquer clairement, de façon à ce qu’ils ne puissent être modifiés facilement […] » les renseignements énumérés aux alinéas a) à j) du Règlement.
+[…]
+[14] Le fait que les appelants n’étaient pas au courant des renseignements qu’un reçu pour don de bienfaisance devait contenir ne saurait les exempter de l’obligation de produire des reçus officiels contenant les renseignements prescrits au soutien de leur demande de crédits d’impôt pour don de bienfaisance. Le paragraphe 118.1(2) de la Loi s’impose à la Cour.
+[22] Les reçus de MM. Ashbert et Sklodowski satisfont‑ils aux exigences de l’article 3501 du Règlement? Premièrement, si on observe le reçu que M. Ashbert a obtenu du Redemption Power International Ministry, il apparaît clairement que ce reçu ne fait pas état de toutes les informations prescrites. Les éléments suivants font défaut :
+- le lieu où le reçu a été délivré;
+- l’adresse de M. Ashbert;
+- le nom de l’ARC et l’adresse de son site Internet.
+Ensuite, sur les reçus que MM. Ashbert et Sklodowski ont obtenus de la Christ Healing Church, on peut voir que les éléments suivants font défaut :
+- l’adresse exacte de l’Église ainsi qu’elle est enregistrée auprès du ministre;
+- le lieu où le reçu a été délivré;
+- la date, y compris le jour, et non juste le mois et l’année, où le reçu a été délivré.
+[23] Il est possible de rejeter les présents appels sur ce seul fondement : les appelants n’ont tout simplement pas fourni les reçus nécessaires avec les informations prescrites. Je souhaite toutefois examiner également le deuxième élément de l’argumentation.
+ii) Les dons en espèces ont‑ils été effectués?
+[24] On ne m’a manifestement pas fait le tableau complet de tout ce qui s’est véritablement passé avec ces organismes de bienfaisance et les prétendus dons. Il est possible d’envisager un certain nombre de possibilités, mais les trois scénarios les plus plausibles sont les suivants : premièrement, MM. Sklodowski et Ashbert ont bien effectué les dons en espèces, mais ceux‑ci, à cause d’une mauvaise gestion ou d’un détournement, n’ont pas été correctement comptabilisés quand l’Église a produit la déclaration de renseignements T3010 requise. Deuxièmement, MM. Sklodowski et Ashbert n’ont jamais effectué les dons en espèces en cause. Troisièmement, il pourrait y avoir une solution intermédiaire selon laquelle MM. Sklodowski et Ashbert ont bien effectué des dons en espèces, bien inférieurs aux sommes dont il est fait état sur les reçus. Honnêtement, c’est ce qui me paraît le plus raisonnable compte tenu du témoignage quelque peu vague de MM. Sklodowski et Ashbert relativement aux sommes qu’ils ont données. Leur témoignage relatif à leur fréquentation de l’Église était crédible. Je n’ai pas eu l’impression que toute l’affaire était une pure imposture et qu’ils se sont simplement lancés dans un plan de dons fictifs effectués en échange de reçus fictifs. Toutefois, l’absence de comptabilité détaillée relativement aux dons en espèces qui ont été effectivement effectués, l’important montant de dons en comparaison de leur revenu, le fait qu’ils n’avaient pas l’habitude d’effectuer des dons et le caractère vague de leur témoignage sont autant d’éléments qui me donnent à penser que le montant dont les reçus pour dons de bienfaisance font état n’est tout simplement pas exact. Malheureusement pour MM. Sklodowski et Ashbert, ils n’ont pas seulement été incapables de vérifier l’exactitude des montants en cause, mais ils n’ont par ailleurs fourni aucun élément sur la base duquel il me serait possible de conclure qu’il existait un montant légitime inférieur de dons, non pas que cela aurait pu aider. Les reçus en tant que tels constituaient la seule preuve des dons effectués, et ces reçus ont été émis par des organismes qui ont fait l’objet de vérifications au terme desquelles on a conclu que les livres et les registres comptables étaient incomplets. Le pasteur n’a pas été cité à comparaître, aucun relevé de compte n’a été produit et il n’y avait tout simplement aucun élément permettant de vérifier l’exactitude des montants. Je peux seulement conclure que MM. Sklodowski et Ashbert n’ont pas effectué les dons en espèces dont les reçus font état. Il se peut qu’ils aient fait certains dons en espèces au Redemption Power International Ministry et à la Christ Healing Church, mais ils ne sont vraiment pas parvenus à démontrer, selon la prépondérance des probabilités, que les montants de 6 000 $, de 8 000 $ et de 9 250 $ étaient exacts.
+[25] Il y a quelque chose de pourri dans le Royaume de Danemark, mais je ne dispose pas de suffisamment d’éléments de preuve pour mettre le doigt sur ce dont il s’agit. Je dispose néanmoins de suffisamment d’éléments de preuve pour conclure à la fois que les reçus sont incomplets et que MM. Sklodowski et Ashbert n’ont pas effectué les dons en espèces en cause. Les appels sont par conséquent rejetés.
+Signé à Ottawa, Canada, ce 31e jour de janvier 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 15e jour de mars 2013.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2013 CCI 37
+NO DU DOSSIER DE LA COUR : 2012-1642(IT)I et 2012-1609(IT)I
+INTITULÉS : Wayne Sklodowski c. Sa Majesté la Reine et
+John Ashbert c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 14 janvier 2013
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 31 janvier 2013
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux‑mêmes
+Avocate de l’intimée :
+Me Jill Chisholm
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 2012 CCI 391.

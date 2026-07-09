@@ -1,0 +1,183 @@
+Title: Otterbrook Percherons Limited c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25937/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-517-25937-otterbrook-percherons-limited-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-07-30
+
+# Otterbrook Percherons Limited c. La Reine
+
+- Citation: 2004 CCI 517
+- Decision date: 2004-07-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3671, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Otterbrook Percherons Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-30
+Référence neutre
+2004 CCI 517
+Numéro de dossier
+2001-2796(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001‑2796(IT)G
+ENTRE :
+OTTERBROOK PERCHERONS LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 12 et 13 février 2004, à Fredericton (Nouveau‑Brunswick)
+Devant : L’honorable juge Brent Paris
+Avocats de l’appelante :
+Me Eugene J. Mockler
+Me Nicole Beaulieu
+Avocat de l’intimée :
+Me John Smithers
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés contre les nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1995, 1996 et 1997 sont accueillis, avec dépens, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 30e jour de juillet 2004.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 24e jour de mars 2009.
+Aleksandra Koziorowska, LL.B.
+Référence : 2004CCI517
+Date : 20040730
+Dossier : 2001‑2796(IT)G
+ENTRE :
+OTTERBROOK PERCHERONS LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Kenneth Creelman est le père de Ross Creelman, et ils sont tous deux actionnaires à parts égales, par l’entremise de sociétés de portefeuille privées, de plusieurs sociétés qui fabriquent des produits dérivés du bois, au Nouveau‑Brunswick et en Nouvelle‑Écosse. La famille Creelman s’adonne à cette activité depuis les années 1920, lorsque le père de Kenneth, Horace Creelman, avait commencé de faire l’abattage et le débitage du bois d’œuvre. Trois générations ont contribué à la prospérité de l’entreprise, à telle enseigne que le groupe de sociétés Creelman emploie aujourd’hui près de 400 travailleurs et affiche un chiffre d’affaires annuel d’environ 80 millions de dollars. Les produits du groupe sont notamment le bois traité, les poteaux de lignes de transmission, les accessoires de terrasse, les parements en bois et les granulés de bois.
+[2] Kenneth et Ross Creelman sont aussi actionnaires à parts égales de l’appelante, dont l’unique activité (l’« activité ») consiste à exposer des chevaux percherons dans des concours et des parades, au Canada et aux États‑Unis. Le percheron est une race de chevaux de trait, bien qu’aujourd’hui il semble être utilisé principalement comme animal de concours. L’appelante expose les chevaux comme moyen de faire connaître le produit appelé Cape Cod Finished Wood Siding, l’un des produits forestiers de Creelman, fabriqué à l’origine par Marwood Inc. et, depuis le 1er septembre 1995, par Atlantic Pressure Treating Ltd. (« APT »)[1].
+[3] En 1995, en 1996 et en 1997, l’appelante a essuyé d’importantes pertes dans ses activités, et elle a déclaré ces pertes comme pertes d’entreprise dans ses déclarations de revenu. Le ministre du Revenu national (le « ministre »), par avis de détermination de pertes, a refusé lesdites pertes au motif qu’il n’y avait aucune source de revenu, et l’appelante fait appel de cette décision.
+Points litigieux
+[4] Les points litigieux soulevés dans le présent appel sont les suivants :
+(i) la question de savoir si l’appelante exerçait l’activité dans un but lucratif ou dans une attente raisonnable de profit fait‑elle l’objet d’une décision ayant force de chose jugée?
+(ii) l’appelante exerçait‑elle l’activité dans un but lucratif, ou dans une attente raisonnable de profit, de telle sorte que l’activité constituait une source de revenu selon la Loi de l’impôt sur le revenu[2] (la « Loi »)?
+(iii) les dépenses entraînées par l’activité visaient‑elles à tirer un revenu d’une entreprise? et
+(iv) subsidiairement, l’appelante agissait‑elle en tant que mandataire de Marwood ou de APT aux fins de l’exercice de l’activité?
+La question soumise à la Cour fait‑elle l’objet d’une décision ayant force de chose jugée?
+[5] L’avocat de l’appelante est d’avis que le point de savoir si l’appelante exerçait ou non l’activité dans un but lucratif ou dans une attente raisonnable de profit a déjà été réglé en faveur de l’appelante par la Cour dans un appel antérieur déposé par l’appelante à l’encontre d’une nouvelle cotisation de TPS. Selon l’avocat de l’appelante, le principe de l’autorité de la chose jugée empêche l’intimée de remettre en cause cette décision dans la présente instance.
+[6] Selon la preuve, l’appelante a été l’objet d’une nouvelle cotisation en vertu de la Loi sur la taxe d’accise[3] (la « LTA ») le 6 mars 1998, nouvelle cotisation par laquelle lui étaient refusés tous les crédits de taxe sur les intrants qu’elle avait réclamés pour les périodes comprises entre le 1er mars 1994 et le 31 octobre 1997. Les crédits de taxe sur les intrants avaient été refusés au motif que l’unique activité de l’appelante, à savoir l’élevage et l’exposition de percherons, n’était pas exercée dans un but lucratif ou dans une attente raisonnable de profit.
+[7] L’appelante avait fait appel de cette nouvelle cotisation à la Cour, par avis d’appel daté du 17 mars 2000. L’appelante et l’intimée avaient par la suite déposé dans cette affaire‑là un acquiescement à jugement, dont la teneur était la suivante :
+[traduction] L’appelante et l’intimée acquiescent à jugement accueillant l’appel relatif à une cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise pour la période allant du 1er mars 1994 au 31 octobre 1997, par avis de cotisation n° 01CB0303163 daté du 6 mars 1998, et renvoyant l’affaire au ministre du Revenu national pour nouvel examen et nouvelle cotisation, étant entendu que l’appelante a droit aux crédits de taxe sur les intrants réclamés pour la période visée par l’appel, et totalisant 83 370,53 $.
+[8] La Cour avait rendu jugement en conséquence.
+[9] Pour que le principe de l’irrecevabilité à remettre en cause une question s’applique, les conditions suivantes, exposées dans un arrêt de la Chambre des lords, Carl Zeiss Stiftung v. Rayner & Keeler Ltd. (No. 2)[4], doivent être réunies :
+1. la même question doit avoir été tranchée par une cour de justice dans une instance antérieure;
+2. la décision judiciaire qui est censée être à l’origine de l’irrecevabilité doit être définitive;
+3. les parties visées par la décision judiciaire invoquée, ou leurs ayants droit, doivent être les mêmes que les parties engagées dans l’instance où l’irrecevabilité est soulevée, ou leurs ayants droit.
+[10] Il n’est pas contesté que la deuxième et la troisième conditions susmentionnées sont remplies dans la présente affaire.
+[11] S’agissant de la première condition, il faut montrer que la question que l’on veut faire déclarer irrecevable a été tranchée clairement et sans équivoque par une cour de justice dans une autre instance. [traduction] « Il n’est pas nécessaire de montrer que la question est explicitement tranchée, pour autant que l’on puisse montrer qu’elle était une conséquence logique nécessaire du point effectivement décidé. Il s’agit de logique pure, non de probabilité, de vraisemblance ou de conjecture »[5].
+[12] Il a été jugé que l’irrecevabilité à remettre en cause une question peut donc se présenter dans le cas d’une prémisse implicite sous‑jacente à un acquiescement à jugement[6], lorsque cette prémisse est un préalable de la conclusion à laquelle sont arrivées les parties dans le document d’acquiescement.
+[13] Le formulaire d’acquiescement à jugement, dans la présente affaire, précise uniquement que l’appelante a droit aux crédits de taxe sur les intrants qu’elle avait réclamés. Il n’expose pas de faits additionnels, ni le raisonnement par lequel les parties sont arrivées à cette conclusion.
+[14] Étant donné que l’acquiescement à jugement n’aborde pas explicitement la question du souci de la rentabilité, ni celle de l’attente raisonnable de réaliser un profit dans l’exercice de l’activité, l’avocat de l’appelante me demande de conclure qu’il avait été admis que l’appelante avait le souci de la rentabilité ou une attente raisonnable de réaliser un profit dans l’exercice de l’activité, et ce, parce que cette admission était une condition préalable de la reconnaissance du droit de l’appelante aux crédits de taxe sur les intrants selon la LTA. Je ne crois pas que cela soit exact.
+[15] Il m’est impossible de conclure que l’acquiescement à jugement était fondé sur une admission selon laquelle l’appelante exerçait son activité dans un but lucratif ou dans l’attente raisonnable de profit, et cela parce que, pour avoir droit aux crédits de taxe sur les intrants, l’appelante n’était pas tenue de remplir l’une ou l’autre de ces conditions. Une société peut réclamer des crédits de taxe sur les intrants même si elle n’exerce pas ses activités dans un but lucratif ou dans une attente raisonnable de profit. Ce constat découle des définitions des expressions « entreprise » et « activité commerciale » qu’on retrouve au paragraphe 123(1) de la LTA :
+« activité commerciale » Constituent des activités commerciales exercées par une personne :
+a) l’exploitation d’une entreprise (à l’exception d’une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où l’entreprise comporte la réalisation par la personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial (à l’exception de quelque projet ou affaire qu’entreprend, sans attente raisonnable de profit, un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où le projet ou l’affaire comporte la réalisation par la personne de fournitures exonérées;
+c) la réalisation de fournitures (sauf des fournitures exonérées) d’immeubles appartenant à la personne, y compris les actes qu’elle accomplit dans le cadre ou à l’occasion des fournitures.
+« entreprise » Sont compris parmi les entreprises les commerces, les industries, les professions et toutes affaires quelconques avec ou sans but lucratif, ainsi que les activités exercées de façon régulière ou continue qui comportent la fourniture de biens par bail, licence ou accord semblable. En sont exclus les charges et les emplois.
+[16] Par conséquent, les hypothèses que j’ai évoquées concernant le souci de la rentabilité et l’attente raisonnable de profit, et sur lesquelles le ministre s’était fondé pour établir à l’égard de l’appelante la cotisation dans laquelle il lui a refusé les crédits de taxe sur les intrants, ne constituaient pas un fondement juridique à l’origine de la cotisation, ni ne pouvaient constituer un fondement juridique à l’origine de l’acquiescement à jugement. Il m’est impossible de conclure, à partir de l’acquiescement à jugement, que ledit acquiescement était fondé sur l’admission alléguée par l’appelante. Par conséquent, je suis d’avis que l’appelante n’a pas montré que la question soumise ici à la Cour a déjà été tranchée entre les parties, et aucune irrecevabilité à remettre en cause la question n’a donc été établie.
+L’activité de l’appelante constituait‑elle une source de revenu?
+Contexte
+[17] Ross Creelman, son frère Doug, et Mike Kimball, un expert comptable du groupe Creelman, ont témoigné pour le compte de l’appelante.
+[18] Ross Creelman s’est joint à l’entreprise familiale au milieu des années 70 et il occupe depuis lors un poste de direction au sein des sociétés familiales. Doug Creelman s’est joint à l’entreprise familiale vers 1988 et fut plus tard chargé de mettre sur pied une fabrique de parements en bois près de Halifax.
+[19] La fabrique de parements en bois était une nouvelle activité pour la famille Creelman. Marwood avait acquis, à Hammond Plain, en Nouvelle‑Écosse, vers 1992, un ancien atelier de travail du bois, et Doug Creelman avait conçu un plan pour y fabriquer des parements en pin peints. Ross Creelman souhaitait justement agrandir l’entreprise familiale pour y inclure davantage de produits forestiers à valeur ajoutée. La fabrication des parements a débuté en 1993 sous la raison sociale Cape Cod Wood Siding. Les ventes augmentèrent considérablement chaque année, pour atteindre plus de 11 millions de dollars au cours du dernier exercice de l’entreprise.
+[20] Comme son nom l’indique, le produit Cape Cod Wood Siding vise à donner une apparence traditionnelle aux édifices, et le marché cible pour les parements était les immeubles d’habitation haut de gamme et les petits édifices commerciaux. Pour bien asseoir la marque Cape Cod dans ces marchés, Ross Creelman et son père décidèrent d’acheter un attelage de percherons et d’exposer les chevaux dans des concours au Canada et aux États‑Unis. Leurs recherches avaient montré que les clients potentiels à revenu élevé allaient souvent aux concours hippiques.
+[21] Les Creelman avaient choisi des percherons comme symbole du produit Cape Cod Wood Siding à cause de leur beauté, de leur robustesse et de leur résistance, l’image même qu’ils souhaitaient donner des parements. Des percherons avaient également été utilisés aux premiers temps de l’abattage du bois dans les Maritimes, pour transporter les billes vers l’atelier de débitage et le bois d’œuvre vers le port, et l’emploi du cheval dans la publicité faisait ressortir cette tradition.
+[22] Aux concours hippiques, les percherons étaient exposés dans un attelage de huit chevaux, avec un chariot portant les mots Cape Cod Wood Siding, ainsi que le logotype de l’entreprise. Des stands étaient aussi installés lors des concours pour la distribution de brochures et pour les contacts avec d’éventuels clients. Ross Creelman a dit que d’importantes ventes de parements ont été faites dans les zones géographiques où des concours hippiques avaient eu lieu, et il a donné des exemples de contacts qui furent établis lors des concours, contacts qui ont été suivis d’importantes commandes, outre le placement de produits dans des magasins de matériaux de construction. Les percherons ont été exposés lors de concours organisés dans de nombreux États, par exemple la Floride, le Michigan, le Kentucky, la Caroline du Sud, l’Illinois, le Massachusetts, l’État de New York et la Pennsylvanie, ainsi que dans plusieurs provinces.
+[23] Ross Creelman a fait observer que des chevaux tels que percherons et clydesdales sont utilisés, à des fins publicitaires, par de grandes sociétés telles que Heinz, Budweiser, Petsmart et Lowes Building Supplies, aux États‑Unis, et qu’ils ont largement contribué à faire connaître ces marques.
+Droit applicable
+[24] La Cour suprême du Canada a jugé, dans l’arrêt Stewart c. Sa Majesté la Reine[7], que l’approche suivante en deux étapes est employée lorsqu’il s’agit de dire si le contribuable a une source de revenu constituée d’une entreprise ou d’un bien selon la Loi :
+(i) L’activité du contribuable est‑elle exercée en vue de réaliser un profit, ou s’agit‑il d’une démarche personnelle?
+(ii) S’il ne s’agit pas d’une démarche personnelle, la source du revenu est‑elle une entreprise ou un bien?
+Plus loin, la Cour suprême écrivait que le fait d’assimiler la « source de revenu » à une activité exercée « en vue de réaliser un profit » concordait avec la définition traditionnelle du mot « entreprise » qui est donnée en common law, à savoir [traduction] « tout ce qui occupe le temps, l’attention et les efforts d’un homme et qui a pour objet la réalisation d’un profit ».
+[25] Lorsqu’il y a un élément personnel dans l’activité qui est menée, le contribuable doit être en mesure de prouver que son intention prédominante était de tirer un profit de l’activité, et que l’activité était exercée d’une manière suffisamment commerciale.
+Y avait‑il un élément personnel dans l’activité?
+[26] Selon la réponse à l’avis d’appel déposée dans la présente affaire, le ministre a considéré que l’appelante n’exerçait pas l’activité dans un but lucratif. Il a aussi considéré qu’il y avait un élément personnel dans l’activité, en ce sens qu’elle constituait un divertissement ou un passe‑temps pour Kenneth Creelman, et que l’appelante n’avait aucune attente raisonnable de réaliser un profit.
+[27] Cependant, au cours de l’audience, le vérificateur qui avait rédigé les déterminations de pertes a témoigné qu’il n’était pas arrivé à la conclusion que les activités de l’appelante contenaient un quelconque élément personnel ou procuraient un avantage personnel à Kenneth Creelman ou à quiconque. Il a nié avoir pensé, durant sa vérification, que [traduction] « Kenneth Creelman avait un intérêt récréatif personnel dans l’activité et tirait de l’activité un avantage personnel ou un plaisir personnel », selon les mots employés dans l’alinéa 18j) de la réponse à l’avis d’appel. D’après le vérificateur, tout élément personnel du genre était [traduction] « quantité négligeable ».
+[28] Vu que l’hypothèse de l’existence d’un élément personnel n’a pas été énoncée lors de la détermination des pertes de l’appelante, c’est à l’intimée qu’il appartient d’apporter la preuve de cet élément. Selon moi, l’intimée n’en a pas apporté la preuve. Kenneth Creelman n’est pas venu témoigner, pour raison de santé, mais Ross Creelman, ainsi que son frère, Doug Creelman, ont tous deux nié que les activités de l’appelante constituaient un passe‑temps pour leur père. En fait, l’unique preuve produite pour étayer l’assertion voulant que l’activité ait contenu un élément personnel était une affirmation, parue dans un article de presse, selon laquelle les percherons constituaient un passe‑temps pour Ken Creelman de même qu’un véhicule promotionnel pour Cape Cod Finished Wood Siding. L’auteur de l’article n’a pas été appelé à témoigner pour indiquer la source de son affirmation, laquelle constitue donc du ouï‑dire et est donc irrecevable. S’agissant de l’existence d’un élément personnel, j’accepte le témoignage de Ross et Doug Creelman et suis d’avis qu’aucun élément du genre n’était présent dans l’activité de l’appelante.
+L’appelante exerçait‑elle son activité dans un but lucratif?
+[29] Ross Creelman a témoigné que l’appelante avait été établie en tant que société autonome, principalement pour limiter la responsabilité des sociétés d’exploitation en cas d’un éventuel dommage ou préjudice que les percherons pourraient causer lors des expositions organisées au Canada et aux États‑Unis. Les activités de l’appelante étaient financées par une société liée, Ashmore Ltd., au moyen de prêts intersociétés. L’appelante devait recevoir paiement de Marwood et de APT après septembre 1995 pour ses services publicitaires relatifs aux produits Cape Cod Finished Wood Siding. Ce contrat n’était pas couché dans un acte écrit, mais les parties s’étaient entendues sur le fait que l’appelante serait payée et, durant la première année du contrat, Marwood a versé à l’appelante la somme de 270 000 $ pour ses services.
+[30] Cependant, l’appelante n’a pas facturé son travail publicitaire à Marwood en 1995, ni à APT en 1996 ou en 1997. Selon le comptable de la société, Mike Kimball, le groupe Creelman avait subi une perte globale pour la première fois de son histoire, en raison d’une mauvaise conjoncture économique, et, au moment d’établir les états financiers des sociétés du groupe, il avait recommandé à l’appelante de reporter la facturation des frais publicitaires jusqu’à ce que les sociétés redeviennent rentables. Cette proposition fut acceptée, et le report s’est poursuivi au cours des trois années visées par l’appel. M. Kimball a souligné que le report de facturation des frais publicitaires n’était que temporaire, et que Marwood et APT entendaient payer ces frais dès que cela leur serait possible. L’idée selon laquelle l’appelante devait facturer des frais publicitaires pour l’utilisation des chevaux afin de faire connaître les produits Cape Cod Wood Siding a été confirmée par Ross Creelman, tout comme l’entente selon laquelle la facturation des frais publicitaires devait être reportée jusqu’à ce que Marwood et APT retrouvent la rentabilité. Aucun de ces deux témoins n’a été récusé sur ces aspects en contre‑interrogatoire.
+[31] Bien que ce ne soit pas tout à fait clair, il semble que les frais publicitaires n’ont pas été payés par la suite, mais plutôt que l’appelante a fusionné avec APT. Le résultat aurait été l’extinction de la dette de APT envers l’appelante, par suite de la fusion du débiteur et du créancier.
+[32] Il est intéressant de noter que le vérificateur de Revenu Canada qui a procédé aux déterminations de pertes a déclaré dans son témoignage que, si l’appelante avait facturé son travail publicitaire à Marwood et à APT, il aurait laissé Marwood et APT déduire les frais en question. Il a dit que, selon lui, la manière dont une société choisit de faire sa publicité relevait d’une décision commerciale et qu’il n’aurait vu aucune raison de ne pas admettre la déduction des frais publicitaires. Il était clair que Marwood fut autorisée à déduire la somme de 270 000 $ qu’elle avait versée à l’appelante en 1994.
+[33] La preuve me convainc qu’il y avait, entre Marwood et l’appelante en 1995, et entre APT et l’appelante en 1996 et en 1997, un contrat prévoyant le paiement de frais publicitaires suffisants pour amortir les coûts de l’appelante. Avec les prix en espèces remportés dans les expositions, et les recettes tirées de la vente de chevaux dont on n’avait plus besoin, les frais publicitaires auraient été suffisants pour que l’appelante génère des profits. Cela confirme que l’appelante exerçait son activité dans le dessein de réaliser un profit et qu’elle avait donc une source de revenu tiré d’une entreprise au sens de l’article 3 de la Loi.
+Les dépenses afférentes à l’activité de l’appelante étaient‑elles engagées aux fins de tirer un revenu d’une entreprise?
+[34] L’intimée affirmait aussi dans la réponse à l’avis d’appel que les sommes dont la déduction avait été refusée n’avaient pas été engagées aux fins de tirer un revenu d’une entreprise ou d’un bien, et que leur déduction était proscrite par l’alinéa 18(1)a) de la Loi. Cet argument fut avancé pour la première fois dans la réponse à l’avis d’appel. Dans les déterminations de pertes dont il s’agit ici, le vérificateur ne refusait pas la déduction de dépenses particulières; s’il n’a pas accordé les pertes déduites par l’appelante, c’était parce que l’appelante n’exerçait pas son activité dans un but lucratif ou dans une attente raisonnable de réaliser un profit, et il n’y avait donc selon lui aucun source de revenu à laquelle il soit possible de rattacher les pertes en cause.
+[35] Puisque la question de la déductibilité des dépenses ne faisait pas partie du fondement initial des déterminations de pertes, c’est à l’intimée qu’il appartient de prouver que les dépenses n’avaient pas été engagées pour tirer un revenu. En l’espèce, il n’a pas été établi que les dépenses engagées par l’appelante avaient un but autre que celui de tirer un revenu d’une entreprise, et il n’a pas été établi non plus que telles dépenses n’étaient pas, selon les mots employés par le juge Wilson dans l’arrêt Mattabi Mines Ltd. c. Ontario (Ministre du Revenu)[8], « des dépenses engagées légitimement dans le cours ordinaire des affaires et dans le but qu’il en découle ultérieurement un revenu imposable ». Il n’y a donc aucune raison de refuser les dépenses en question en application de l’alinéa 18(1)a) de la Loi. L’intimée n’a pas prouvé le bien‑fondé de sa position sur cette question.
+L’appelante agissait‑elle en tant que mandataire de ATP?
+[36] L’avocat de l’appelante a aussi fait valoir, subsidiairement, que l’appelante exerçait l’activité en tant que mandataire de Marwood et de ATP. Il a également dit que l’existence de l’appelante en tant que société autonome pouvait être laissée de côté en raison du fait que le groupe de sociétés Creelman appartenait aux mêmes propriétaires, et aussi parce que les sociétés avaient les mêmes administrateurs et les mêmes dirigeants.
+[37] Cependant, si je devais conclure que l’appelante agissait en tant que mandataire de Marwood et de ATP, cela ne m’autoriserait pas à accorder à l’appelante le redressement qu’elle voudrait obtenir dans le présent appel. Comme l’a fait observer l’avocat de l’intimée, si l’appelante engageait au nom d’un tiers les dépenses afférentes à ses activités d’élevage et d’exposition de chevaux, les dépenses seraient celles de ce tiers et non celles de l’appelante. En droit, les décisions d’un mandataire sont considérées comme les décisions du mandant, et les conséquences fiscales des activités du mandataire sont attribuées au mandant. En l’espèce, si l’appelante devait obtenir gain de cause sur ce point, cela voudrait dire que Marwood et APT auraient dû déduire les dépenses afférentes à l’activité dans le calcul de leur revenu pour les années d’imposition pertinentes, et que l’appelante ne serait pas en mesure de déduire elle‑même les dépenses et n’aurait pas de pertes pour les années en question.
+[38] L’avocat de l’appelante a expliqué qu’une conclusion selon laquelle l’appelante agissait en tant que mandataire de Marwood et de APT obligerait le ministre à établir de nouvelles cotisations à l’égard de Marwood et de APT pour les années d’imposition pertinentes afin de leur permettre de déduire les pertes revendiquées par l’appelante. Je répondrais à cet argument en disant simplement que je ne suis pas saisi des cotisations applicables à Marwood et à APT, et que je n’aurais pas le pouvoir d’obliger le ministre à modifier de quelque façon lesdites cotisations.
+[39] En tout état de cause, la preuve ne montre pas que l’appelante agissait comme mandataire pour quiconque dans les concours hippiques. Le contrat de mandat est une relation contractuelle et, dans la présente affaire, aucune preuve n’a été faite de l’existence d’un contrat, écrit ou non, qui ferait de l’appelante le mandataire de Marwood ou de APT. Le fait que l’appelante a été constituée en tant que société autonome pour offrir aux sociétés d’exploitation une protection contre toute poursuite en responsabilité pouvant découler des concours hippiques me persuaderait plutôt du contraire. Si l’appelante était le mandataire de Marwood ou de APT, alors les mandants, à savoir Marwood ou APT, répondraient quand même, sur le plan délictuel, des actions de l’appelante, et cela bien que l’appelante soit une société autonome, contrariant ainsi l’objet même pour lequel elle a été constituée. Il n’a pas été montré que l’appelante, ni Marwood ou APT, ait jamais donné à entendre à quiconque qu’il existait un contrat de mandat. En l’absence d’une preuve persuasive de l’existence d’un tel contrat, je suis d’avis que l’appelante agissait à tout moment en son propre nom, et il n’y a aucune raison de ne pas tenir compte de son existence juridique autonome par rapport à Marwood et à APT. Sur ce point, je ferais miens les propos tenus par le juge Cattanach dans la décision Denison Mines Ltd. c. Ministre du Revenu national[9] :
+[…] il est important de se souvenir que les compagnies à responsabilité limitée qui exploitent des entreprises sont des personnes imposables distinctement et que les bénéfices de leurs entreprises respectives sont des bénéfices imposables séparément, peu importe que l’une soit la filiale de l’autre. Toute tentative pour contourner ce principe doit s’appuyer sur des faits clairs et non équivoques conduisant à la conclusion irréfutable qu’une entité juridique agit comme mandataire d’une autre et que l’entité juridique dirige réellement l’entreprise de l’autre et non la sienne.
+Sommaire
+[40] Pour tous les motifs susmentionnés, j’arrive à la conclusion que l’appelante exerçait effectivement ses activités dans un but lucratif au cours des années visées par l’appel, et que les pertes qu’elle a subies étaient des pertes d’entreprise conformément aux articles 3 et 9 de la Loi. Par conséquent, l’appel sera accueilli, avec dépens.
+Signé à Ottawa, Canada, ce 30e jour de juillet 2004.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 24e jour de mars 2009.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE :
+2004CCI517
+N° DU DOSSIER DE LA COUR :
+2001‑2796(IT)G
+INTITULÉ :
+Otterbrook Percherons Limited et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Fredericton (Nouveau‑Brunswick)
+DATES DE L’AUDIENCE :
+Les 12 et 13 février 2004
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Paris
+DATE DU JUGEMENT :
+Le 30 juillet 2004
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Eugene J. Mockler
+Me Nicole Beaulieu
+Avocat de l’intimée :
+Me John Smithers
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Eugene J. Mockler
+Nicole Beaulieu
+Cabinet :
+Mockler Peters Oley
+Rouse & Williams
+Pour l’intimée :
+Morris Rosenberg
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Les actions de Marwood et de APT étaient détenues à parts égales par Kenneth et Ross Creelman, par l’entremise de sociétés de portefeuille (pièce R‑1, onglet 20).
+[2] L.R.C. (1985), (5e suppl.), ch. 1.
+[3] L.R.C. (1985), ch. E‑15.
+[4] [1967] 1 A.C. 853 (Ch. des lords).
+[5] R. v. Duhamel (1982), 33 A.R. 271, page 277.
+[6] Rogic c. Canada, [2001] A.C.I. n° 583.
+[7] [2002] A.C.S. n° 46.
+[8] [1988] 2 R.C.S. 175, page 189.
+[9] [1971] C.F. 295, page 322.

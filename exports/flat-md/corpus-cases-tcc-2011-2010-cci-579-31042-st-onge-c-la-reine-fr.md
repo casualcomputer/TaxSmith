@@ -1,0 +1,294 @@
+---
+title: "St-Onge c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31042/index.do"
+last_modified: "2011-01-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 579"
+citation2: ""
+neutral_citation: "2010 CCI 579"
+decision_date: "2011-01-10"
+language: "fr"
+item_id: "31042"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4865
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:13:14.634000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "638d9e65b206cb3cf53fd1b6ca81a717587667147b8545449b0d97a8026de476"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# St-Onge c. La Reine
+
+- Citation: 2010 CCI 579
+- Decision date: 2011-01-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4865, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Onge c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-01-10
+Référence neutre
+2010 CCI 579
+Numéro de dossier
+2008-3994(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2010 CCI 579
+Date : 20110110
+Dossier : 2008-3994(IT)I
+ENTRE :
+ALCIDAS ST-ONGE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Bédard
+[1] Le présent litige porte sur les dépenses déclarées par l’appelant, un conseiller en placement, pour gagner des revenus de commission au cours des années d’imposition 2003, 2004 et 2005.
+[2] Je souligne immédiatement que l’appelant n’a pas déposé son avis d’appel à l’encontre de la ratification datée du 8 mars 2008 pour l’année d’imposition 2005 dans les délais prévus à l’article 169 de la Loi de l’impôt sur le revenu (la « Loi »). Par conséquent, je suis d’avis que l’avis d’appel à l’égard de l’année d’imposition 2005 est irrecevable.
+[3] Les paragraphes 1 à 12 de la Réponse à l’avis d’appel exposent les points en litige. Ces paragraphes se lisent comme suit :
+a. Il prend acte que le litige ne porte que sur les dépenses réclamées pour gagner des revenus de commissions au cours des années d’imposition 2003, 2004 et 2005.
+b. Il nie les allégations de fait contenues à l’avis d’appel qui ne sont pas conformes à ce qui suit.
+c. L’avis de première cotisation, à l’égard de l’année d’imposition 2003 a été expédié à l’appelant le 20 mai 2004.
+d. Par nouvelle cotisation, pour les années d’imposition 2003 et 2004, dont les avis furent expédiés à l’appelant le 10 avril 2007, le ministre du Revenu national (le « ministre ») a respectivement rejeté, entre autres, des sommes de 32 843 $ et de 22 877 $, à l’égard de dépenses réclamées pour gagner des revenus de commissions.
+e. Le 14 mai 2007, l’appelant signifia, entre autres, au ministre des avis d’opposition, à l’égard de chacune des années d’imposition 2003 et 2004.
+f. Le 6 mars 2008, le ministre procéda à l’émission de nouvelles cotisations, en guise de réponse aux avis d’opposition à l’égard des années d’imposition 2003 et 2004, en révisant le revenu net de commissions à des sommes respectives de 34 492 $ et de 52 582 $.
+g. Le 11 mai 2009, l’honorable juge Gerald J. Rip a fait droit à la demande de l’appelant de proroger le délai pour interjeter appel, à l’égard des années d’imposition 2003 et 2004, et nouvel avis d’appel devra être produit et déposer à la présente Cour au plus tard le 15 juin 2009.
+h. Pour établir les nouvelles cotisations datées du 6 mars 2008, à l’égard des années d’imposition 2003 et 2004, le ministre a tenu pour acquis les faits, à savoir :
+i. au cours des années d’imposition en litige, l’appelant était un conseiller en placement;
+ii. durant les années d’imposition en litige, il a déménagé à Bonaventure dans la baie des Chaleurs et a développé une clientèle dans cette région;
+iii. au début du mois de février 2004, l’appelant a vendu sa clientèle au « Groupe Investors » et cessa ses activités dans ce domaine;
+iv. au cours des années d’imposition en litige, l’appelant a réclamé les sommes suivantes à titre de dépenses pour gagner des revenus de commissions :
+2003 – 53 767 $
+2004 – 27 932 $
+v. le ministre, après une vérification des dépenses pour gagner des revenus de commissions, a refusé dans le calcul du revenu de l’appelant les sommes suivantes à l’égard des dépenses réclamées :
+2003
+2004
+i) publicité
+549 $
+ii) salaires
+8 000 $
+iii) formation
+611 $
+iv) autres
+1 515 $
+v) assurances
+2 365 $
+vi) taxes et permis
+884 $
+vii) automobiles
+4 610 $
+4 299 $
+viii) intérêts
+2 859 $
+1 905 $
+ix) frais de représentations
+2 154 $
+250 $
+x) loyer
+5 802 $
+3 886 $
+xi) frais de voyage
+3 189 $
+2 283 $
+xii) téléphone
+305 $
+573 $
+xiii) commissions
+xiv) remboursement de clients
+6 500 $
+xv) frais de bureau
+_______
+3 181 $
+32 843 $
+22 877 $
+vi. à l’étape des oppositions, le ministre accorda les sommes suivantes, à l’égard des dépenses pour gagner des revenus de commissions
+2003
+2004
+i) publicité
+538 $
+ii) autres
+157 $
+iii) assurances
+453 $
+vii) automobiles
+4 268 $
+436 $
+v) loyer
+1 184 $
+99 $
+vi) frais de voyage
+622 $
+7 222 $
+535 $
+vii. le ministre a refusé, après l’étape des oppositions, les sommes suivantes à l’égard dépenses réclamées pour gagner des revenus de commissions :
+2003
+2004
+i) dépenses refusées lors de la vérification
+32 843 $
+22 877 $
+ii) moins : dépenses accordées aux oppositions
+7 222 $
+535 $
+25 621 $
+22 342 $
+viii. les dépenses refusées par le ministre, pour les années d’imposition 2003 et 2004, telles les frais de loyer, les frais de voyages, les frais d’intérêts et les dépenses d’automobile, l’ont été parce qu’elles constituent des dépenses personnelles;
+ix. les autres dépenses refusées par le ministre, pour les années d’imposition 2003 et 2004, l’ont été parce qu’elles n’ont pas été encourues et n’ont pas été encourues pour gagner des revenus de commissions.
+B. QUESTIONS EN LITIGE
+i. Les questions en litige sont les suivantes :
+i. déterminer si l’appelant a le droit d’interjeter appel auprès de cette Cour, à l’égard de l’année d’imposition 2005;
+ii. consiste à déterminer si le ministre a correctement refusé, pour les années d’imposition 2003 et 2004, les sommes respectives de 25 621 $ et de 22 342 $, à titre de dépenses pour gagner des revenus de commissions.
+C. DISPOSITIONS LÉGISLATIVES MOYENS INVOQUÉS ET CONCLUSIONS RECHERCHÉES
+j. Il s’appuie notamment sur les articles 9, 10, 12, 14, 18, 20, 67, 152, 165, 169 et 248 de la Loi sur l’impôt sur le revenu L.R.C. 1985, (5e Sup.), ch. 1 (ci‑après la « Loi »).
+k. Il soutient que le présent avis d’appel, à l’égard de l’année d’imposition 2005, est irrecevable puisque l’appelant n’a pas interjeté appel dans les délais prévus à l’article 169 de la Loi.
+l. Il soutient que le ministre a correctement refusé, pour les années d’imposition 2003 et 2004, les sommes respectives de 25 621 $ et de 22 342 $, à titre de dépenses pour gagner des revenus de commissions, en vertu de l’article18 de la « Loi ».
+[4] Je tiens à souligner immédiatement que l’appelant a été le seul à témoigner à l’appui de son appel. Je souligne aussi que l’appelant n’a produit aucune preuve documentaire ou objective à l’appui de sa position. Par ailleurs, madame Hélène Marquis, la vérificatrice de l’Agence des douanes et du revenu du Canada (« l’Agence ») qui a procédé à la vérification du dossier de l’appelant, et monsieur Roy, un agent des oppositions de l’Agence, ont témoigné à l’appui de la position de l’intimée.
+Remboursement des clients
+[5] L’appelant a déduit une dépense de 8 395 $ dans le calcul du revenu tiré de son entreprise pour l’année 2004 sous la rubrique « Remboursements de clients ». Le ministre a refusé à l’appelant une partie de cette dépense déduite, soit un montant de 6 500 $. Lors de leurs témoignages sur ce point en litige, madame Marquis a essentiellement réitéré la partie de son rapport de vérification (pièce I‑1, onglet 3, page 13) sur ce point en litige et monsieur Roy a essentiellement réitéré la partie de son rapport sur une opposition (pièce I‑2) sur ce point en litige. La partie pertinente du rapport de vérification de madame Marquis (pièce I‑1) se lit comme suit :
+Le contribuable a réclamé des dépenses de remboursements de clients pour un montant de 8 395 $ dans le calcul de ses revenus de commissions de l’année 2004. Cette somme est composée du remboursement d’un client de 1 895 $ et de l’achat de clients de 6 500 $. Le montant d’achat de clients de 6 500 $ n’est appuyé que d’une note manuscrite, indiquant l’achat de clients à René St‑Onge; cette note manuscrite n’est pas suffisante pour appuyer le montant réclamé de 6 500 $. De plus, l’achat de clients n’est pas une dépense de nature courante, mais une dépense de nature « capital » qui pourrait être traitée comme une immobilisation admissible. Nous avons demandé au contribuable de nous fournir des pièces justificatives pour appuyer l’achat de clients afin de traiter ce montant à titre d’immobilisation admissible entrant dans le calcul du montant cumulatif en immobilisations admissibles. Le contribuable ne nous a pas fourni de renseignements supplémentaires.
+Nous refusons donc un montant de 6 500 $ en 2004.
+F/T 7950
+Alinéa 18(1)a) de la LIR
+La partie pertinente du rapport sur opposition de monsieur Roy (pièce I‑2) se lit comme suit :
+Remboursement de client
+2003
+Le contribuable aurait vendu une partie de sa clientèle à son fils Rémi à l’été 2001 suite à son déménagement à Bonaventure. Il aurait racheté cette même clientèle de Rémi en mai 2003 en payant par chèque 7 500$, le 11 mai 2003. Cependant le contribuable réclame une dépense de 6 500$ en 2004 à titre de remboursement de clients?
+Lors d’une discussion avec le contribuable celui-ci nous mentionne qu’il n’y a pas vraiment eu de vente en 2001 à son fils. Comme il habitait chez celui-ci quand il venait voir d’autres clients à Québec entre juin 2001 et été 2002 le coût de l’hôtel épargné compensait pour la clientèle. Finalement, le montant payé en mai 2003 est, selon le contribuable, une commission pour s’être occupé de sa clientèle.
+Autres faits et conclusions des Appels
+Faits :
+- Le fils de M. St-Onge Rémi aurait habité 1 an à Québec (juin 01 à juin 02) pour ensuite s’établir dans la municipalité de Maria à quelques kilomètres de Bonaventure (résidence de son père);
+- Le contribuable passait environ 12 jours par mois à Québec pour s’occuper de sa clientèle même s’il habitait à Bonaventure;
+- Le contribuable rachète la clientèle en mai 2003 et vend en février 2004;
+- Il n’y a aucun contrat de vente en 2001;
+- La dépense réclamée en 2004 (6 500$) ne concorde pas avec le montant du chèque (7 500$);
+- La dépense a été réclamée en 2004 et le paiement est en 2003;
+- L’achat de clientèle est une dépense en capital (bien en immobilisation admissible).
+Conclusion
+Il ne peut y avoir acquisition de clientèle car selon les faits il n’y a jamais eu de vente. Il faut donc déterminer si le paiement représente une dépense admissible. Le fils (Rémi) a profité de la clientèle développée par le père. Le fils devait s’occuper de la clientèle à Québec car le père habitait à Bonaventure. Le fils a cependant déménagé à quelques kilomètres de Bonaventure (Maria) 1 an après que le père est quitté Québec. Le fils étant dans la même situation que le père (loin de la clientèle) il ne rend aucun service.
+Il est curieux qu’une personne soit payé pour profiter d’une clientèle qu’il n’a pas développé. En règle générale c’est plutôt la personne à qui l’on a prêté la clientèle qui devrait verser une commission. Peut-on penser que si la transaction avait été faite à distance les conditions auraient été les mêmes? De plus, dans cette période le contribuable dit être constamment en recherche de clientèle. On peut donc supposer que le contribuable pouvait s’occuper de la clientèle prêtée à son fils.
+Sur la base de ces faits et informations on ne peut conclure que la dépense a été encourue dans le but de gagner un revenu d’entreprise car il n’a pas été établi qu’un service avait été rendu par le fils (Rémi). La dépense est refusée selon 18(1)a.
+Réf : Table des matière – Section Représentation (R38-R40)
+Par ailleurs, je note que le témoignage de l’appelant sur ce point en litige ne peut être résumé compte tenu qu’il était vague et incompréhensible. Je souligne aussi que l’appelant n’a présenté lors de l’audience aucune pièce justificative à l’appui de cette prétendue dépense de 6 500 $.
+[6] Je souligne immédiatement que le fait que l’appelant a présenté à madame Marquis et à monsieur Roy trois versions différentes à l’égard de cette dépense de 6 500 $ et qu’il leur a aussi soumis à l’appui de cette dépense des pièces justificatives pour le moins douteuses m’ont amené à conclure qu’il serait dangereux d’accorder de la crédibilité au témoignage de l’appelant sans preuve concordante et probante sous forme de documentation adéquate ou de témoignages crédibles.
+[7] Compte tenu que la preuve de l’appelant sur ce point en litige reposait uniquement sur son témoignage qui était vague et incompréhensible, je me dois de conclure (compte tenu que ma conclusion précédente à l’égard de la valeur probante du témoignage de l’appelant) que le ministre a correctement refusé, pour l’année d’imposition 2004, le montant de 6 500 $ à titre de dépenses de remboursements de clients pour gagner des revenus de commissions, en vertu de l’article 18 de la Loi. J’ajouterai que j’ai aussi inféré du fait que l’appelant n’a pas fait témoigner son fils que cette preuve lui aurait été défavorable.
+Dépenses d’automobiles
+[8] L’appelant a déduit dans le calcul de son revenu tiré de son entreprise pour l’année d’imposition 2003, à titre de dépenses relatives à une automobile, un montant de 9 529 $ qui se répartit comme suit :
+Carburant et huile :
+2 908 $
+Immatriculation et permis :
+173 $
+Frais de location :
+5 862 $
+Stationnement :
+586 $
+[9] Par ailleurs, l’appelant a déduit dans le calcul de son revenu tiré de son entreprise pour l’année d’imposition 2004, à titre de dépenses relatives à une automobile, un montant de 4 745 $ qui se répartit comme suit :
+Carburant et huile :
+300 $
+Immatriculation et permis :
+173 $
+Frais de location :
+3 990 $
+Assurances :
+60 $
+Stationnement :
+250 $
+[10] Le ministre a refusé une partie des dépenses déduites à ce titre par l’appelant en 2003 (en l’espèce des dépenses totalisant 342 $) parce que :
+1. pour certaines dépenses, l’appelant n’a pas présenté de preuve objective à l’appui de ces dernières;
+2. pour certaines dépenses, les pièces présentées à l’appui de ces dernières étaient inadéquates;
+3. le ministre a conclu que 15 % des déplacements de l’appelant étaient de nature personnelle.
+[11] La preuve de l’appelant à cet égard reposait uniquement sur son témoignage. L’appelant s’est tout simplement contenté d’expliquer qu’il avait à sa disposition deux automobiles et que l’une d’entre elles (l’automobile louée de marque Toyota) avait été utilisée uniquement en vue de tirer un revenu de son entreprise. Je souligne immédiatement que monsieur Roy, dont la crédibilité ne fait pas de doute, a témoigné que l’appelant lui avait déclaré, lors d’une rencontre, qu’il évaluait à 15 % le pourcentage maximum d’utilisation de cette automobile à des fins personnelles.
+[12] Compte tenu de ma conclusion précédente à l’effet qu’il serait dangereux d’accorder quelque valeur probante au témoignage de l’appelant sans preuve concordante et probante sous forme de documentation (tels factures, chèques et registre des déplacements) je me dois de conclure en l’espèce que le ministre a correctement refusé le montant de 342 $ pour l’année 2003 à titre de dépenses relatives à l’utilisation d’une automobile en vue de tirer des revenus de commission. Cette conclusion m’apparaît d’autant plus évidente que le témoignage de l’appelant fut contredit par le témoignage d’un témoin crédible.
+[13] Le ministre a aussi refusé une partie des dépenses déduites à ce titre par l’appelant en 2004 (en l’espèce, des dépenses totalisant 3 863 $) parce que :
+1. pour certaines dépenses, l’appelant n’a pas présenté de preuve objective à l’appui de ces dernières;
+2. pour certaines dépenses, les pièces présentées à l’appui de ces dernières étaient inadéquates;
+3. le paiement forfaitaire de 3 291 $ a été fait par l’appelant pour résilier le bail de son automobile alors qu’il n’était plus en affaires.
+[14] La preuve de l’appelant à l’égard des dépenses déduites relativement à l’utilisation d’une automobile pour l’année d’imposition 2004 reposait uniquement sur son témoignage. Compte tenu que j’ai conclu précédemment que je n’accordais aucune valeur probante au témoignage de l’appelant sans preuve concordante et probante, je me dois de conclure que le ministre était en droit de refuser à l’appelant les dépenses non appuyées par des pièces justificatives adéquates qu’il a déduites à ce titre en 2004. À l’égard des dépenses encourues par l’appelant après la vente de son entreprise (en l’espèce après le 2 février 2004), elles ne peuvent avoir été encourues en vue de tirer un revenu d’entreprise puisqu’il n’exploitait plus l’entreprise lorsque les dépenses ont été encourues. À l’égard de la somme forfaitaire de 3 291 $ versée par l’appelant pour résilier le bail de son automobile, je suis d’opinion que l’appelant ne pouvait déduire cette dépense dans le calcul du revenu tiré de son entreprise pour l’année d’imposition 2004. En effet, tout comme les montants originalement payables en vertu d’un contrat seraient déductibles de revenu s’ils avaient été payés, les montants versés pour résilier le contrat peuvent aussi en règle générale être déductibles. En l’espèce, si l’appelant avait continué de faire les paiements mensuels en vertu du bail après le 2 février 2004 (date de la vente de l’entreprise de l’appelant) plutôt que de faire un paiement forfaitaire pour résilier le bail, de tels paiements mensuels n’auraient pas été déductibles à titre de dépenses effectuées en vue de tirer un revenu d’entreprise, compte tenu du fait qu’il n’exploitait plus à ce moment‑là l’entreprise.
+Salaire
+[15] L’appelant a déduit un montant de 8 000 $ dans le calcul du revenu tiré de son entreprise pour l’année d’imposition 2003 à titre de salaire qu’il aurait versé à sa conjointe. La preuve a révélé (voir la pièce I‑2) que la dépense avait été refusée par le ministre essentiellement parce qu’aucune pièce justificative adéquate n’avait été soumise par l’appelant pour étayer cette dépense de 8 000 $. L’appelant, sur qui reposait le fardeau de la preuve, n’a produit lors de l’audience aucune preuve documentaire ou objective démontant le paiement d’un tel salaire à sa conjointe en 2003. La preuve de l’appelant à cet égard reposait uniquement sur son témoignage. Toutefois, l’appelant n’a même pas donné lors de l’audience d’explications quant à la nature des services que sa conjointe lui aurait rendus dans cette même année et quant au temps qu’elle aurait consacré à la fourniture de tels services. Compte tenu de ma conclusion précédente à l’égard de la valeur probante du témoignage de l’appelant, je me dois de conclure que le ministre a correctement refusé, pour l’année d’imposition 2003, le montant de 8 000 $ à titre de dépenses de salaire pour gagner des revenus de commissions, en vertu de l’article 18 de la Loi.
+Taxes et permis
+[16] L’appelant a déduit un montant de 2 448 $ dans le calcul du revenu tiré de son entreprise pour l’année d’imposition 2003 au titre des dépenses relatives à des taxes, permis et cotisations. La preuve a révélé (voir la pièce I‑1, onglet 3, page 7 et la pièce I‑2) qu’une partie de la dépense ainsi déduite en l’espèce, un montant de 884 $, avait été refusée à l’appelant essentiellement parce que ce dernier n’avait pas fourni de pièces justificatives à l’appui de ces dépenses ou encore parce que les pièces fournies étaient inadéquates. L’appelant n’a même pas jugé nécessaire de donner lors de l’audience quelqu’explication que ce soit en regard de cette dépense refusée de 884 $. Il n’a pas non plus déposé de preuve documentaire à cet égard. Par conséquent, je me dois de conclure, compte tenu que l’appelant n’a présenté aucune preuve à cet égard, que le ministre a correctement refusé, pour l’année d’imposition 2003, le montant de 884 $ au titre des dépenses relatives à des taxes, permis et cotisations pour gagner des revenus de commissions, en vertu de l’article 18 de la Loi.
+Assurances
+[17] L’appelant a déduit un montant de 2 395 $ dans le calcul du revenu tiré de son entreprise pour l’année d’imposition 2003 à titre de dépenses d’assurances. La preuve a révélé (voir la pièce I‑2, onglet 3, page 7 et la pièce I‑2) qu’une partie de la dépense ainsi déduite en 2003, en l’espèce un montant de 1 912 $, avait été refusée à l’appelant parce que ce dernier n’avait pas fourni de pièces justificatives à l’appui de ces dépenses. Lors de l’audience, l’appelant n’a fourni ni explications, ni preuve documentaire à cet égard. Par conséquent, je suis d’avis que le ministre a correctement refusé pour l’année d’imposition 2003, le montant de 1 912 $ à titre de frais d’assurances en vue de tirer des revenus de commissions, en vertu de l’article 18 de la Loi.
+Publicité
+[18] L’appelant a déduit un montant de 549 $ dans le calcul du revenu tiré de son entreprise pour l’année d’imposition 2003, à titre de dépenses de publicité. La preuve a révélé (voir la pièce I‑2) que le ministre a refusé une partie de la dépense, en l’espèce un montant de 11 $, parce qu’aucune pièce justificative adéquate n’avait été soumise par l’appelant pour supporter cette dépense de 11 $. Compte tenu que l’appelant n’a pas produit lors de l’audience de preuve documentaire ou objective démontant le paiement de cette dépense et compte tenu qu’il n’a pas fourni d’explications à l’égard de cette prétendue dépense, je me dois aussi de conclure que le ministre a correctement refusé, pour l’année d’imposition 2003, le montant de 11 $ à titre de dépenses de publicité en vue de tirer des revenus de commissions, en vertu de l’article 18 de la Loi.
+Formation
+[19] L’appelant a déduit un montant de 611 $ dans le calcul du revenu tiré de son entreprise pour l’année d’imposition 2003 à titre de dépenses de formation. La preuve a révélé (voir la pièce I‑2) que la dépense avait été essentiellement refusée par le ministre parce qu’aucune pièce justificative adéquate n'avait été soumise par l’appelant pour étayer cette dépense de 611 $. L’appelant, sur qui reposait le fardeau de la preuve, n’a pas produit lors de l’audience de preuve documentaire ou objective démontant le paiement d’une telle dépense. L’appelant n’a même pas donné lors de l’audience d’explications à l’égard de la nature de cette dépense qu’il aurait engagée dans le but de tirer des revenus de son entreprise. Par conséquent, je me dois de conclure, compte tenu de l’absence de preuve, que le ministre a correctement refusé, pour l’année d’imposition 2003, le montant de 611 $ à titre de dépenses de formation en vue de tirer des revenus de commissions, en vertu de l’article 18 de la Loi.
+Autres dépenses
+[20] La preuve a révélé (voir la pièce I‑2) que le ministre a refusé, en vertu de l’article 18 de la Loi, un montant de 1 358 $ déduit par l’appelant dans le calcul du revenu tiré de son entreprise pour l’année d’imposition 2003 sous la rubrique « autres dépenses », essentiellement parce qu’aucune pièce justificative n'avait été soumise par l’appelant pour étayer ces dépenses. L’appelant, sur qui reposait le fardeau de la preuve, n’a tout simplement pas soumis lors de l’audience de preuve à cet égard. Par conséquent, je me dois de conclure, compte tenu de cette absence de preuve, que le ministre a correctement refusé pour l’année d’imposition 2003, le montant de 1 358 $ à titre d’autres dépenses pour gagner des revenus de commissions, en vertu de l’article 18 de la Loi.
+Frais de bureau
+[21] L’appelant a déduit un montant de 3 274 $ dans le calcul du revenu tiré de son entreprise pour l’année d’imposition 2004 à titre de frais de bureau. La preuve a révélé (voir notamment la pièce I‑1, onglet 3, page 13 et la pièce I‑2) qu’une partie de la dépense ainsi déduite en 2004, en l’espèce un montant de 3 181 $, a été refusée à l’appelant parce que ce dernier n'avait pas fourni de pièces justificatives à l’appui de ces dépenses. Lors de l’audience, l’appelant n’a fourni ni explications, ni preuve documentaire à cet égard. Par conséquent, je suis d’avis que le ministre a correctement refusé, pour l’année d’imposition 2004, le montant de 3 181 $, déduit par l’appelant à titre de frais de bureau en vue de tirer des revenus de commissions, en vertu de l’article 18 de la Loi.
+Frais de représentation
+[22] L’appelant a déduit des montants de 2 154 $ et de 272 $ dans le calcul du revenu tiré de son entreprise, pour les années d’imposition 2003 et 2004 respectivement, à titre de dépenses de représentation. La preuve a révélé (voir la pièce I‑1, onglet 3, page 11 et la pièce I‑2) que la dépense ainsi déduite en 2003 et une partie de la dépense aussi déduite en 2004, en l’espèce un montant de 250 $, avaient été refusées à l’appelant parce que ce dernier n’avait pas fourni de pièces justificatives à l’appui de ces dépenses. L’appelant n’a fourni ni explications, ni preuve documentaire à cet égard lors de l’audience. Par conséquent, je suis d’avis que le ministre a correctement refusé pour les années d’imposition 2003 et 2004 les montants de 2 154 $ et de 250 $, respectivement, au titre des frais de représentation pour gagner des revenus de commissions, en vertu de l’article 18 de la Loi.
+Téléphone
+[23] L’appelant a déduit des montants de 1 429 $ et de 698 $ pour les années d’imposition 2003 et 2004, respectivement, à titre de frais de téléphone. La preuve a révélé qu’une partie de ces déductions, en l’espèce un montant de 305 $ en 2003 et un montant de 573 $ en 2004, ont été refusées à l’appelant parce que ce dernier n’a pas fourni de pièces justificatives à l’appui de ces frais. L’appelant n’a fourni ni explications, ni preuve documentaire, à cet égard lors de l’audience. Par conséquent, je suis d’avis que le ministre a correctement refusé, pour les années d’imposition 2003 et 2004, les montant de 305 $ et de 573 $ respectivement, à titre de frais de téléphone engagés en vue de tirer des revenus de commissions, en vertu de l’article 18 de la Loi.
+Intérêts
+[24] L’appelant a déduit des montants de 3 578 $ et de 9 973 $ pour les années d’imposition 2003 et 2004 respectivement à titre de dépenses d’intérêts. La preuve a révélé (voir notamment la pièce I‑1, onglet 3, page 10 et la pièce I‑2) qu’une partie de ces dépenses, en l’espèce un montant de 2 859 $ en 2003 et de 1 905 $ en 2004, a été refusé essentiellement parce que l’appelant n'avait pas été en mesure de fournir une preuve documentaire permettant d’établir que les achats payés au moyen de ses cartes de crédits, ou encore que les retraits en argent comptant provenant de ces mêmes cartes de crédit, avaient été utilisés pour tirer des revenus de son entreprise ou encore pour tirer des revenus de biens. La preuve de l’appelant à cet égard reposait uniquement sur son témoignage à l’effet que les intérêts découlaient d’achats de matériaux ayant servi à aménager son bureau à sa résidence de Bonaventure et d’achats d’actions de Nortel. Compte tenu de ma conclusion précédente à l’effet qu’il serait dangereux d’accorder de la crédibilité au témoignage de l’appelant sans preuve concordante et probante sous forme de documentation adéquate ou de témoignages crédibles, je me dois de conclure en l’espèce que le ministre a correctement refusé les montants de 3 578 $ et de 1 973 $ pour les années d’imposition 2003 et 2004, respectivement, à titre d’intérêts payés en vue de tirer des revenus de commissions, en vertu de l’article 18 de la Loi.
+Frais de voyage
+[25] La résidence principale de l’appelant était située à Bonaventure pendant les années en litige, résidence dans laquelle il avait aménagé un bureau. Compte tenu qu’une partie importante des clients demeuraient à Québec, l’appelant devait s’y rendre environ 12 jours par mois pour fins d’affaires. Au lieu de résider à l’hôtel pendant ses séjours à Québec, l’appelant habitait un logement avec son fils. L’appelant a déduit des montants de 3 274 $ et de 2 283 $ pour les années d’imposition 2003 et 2004, respectivement, à titre de frais de voyage. La preuve a révélé que les frais de voyage déduits en 2003 comprennent 2 644,93 $ en frais de repas et 630,09 $ en frais de transport. La preuve a aussi révélé (voir la pièce I‑1, onglet 3, page 12) que, pour l’année 2004, toutes les dépenses déduites par l’appelant à ce titre avaient été refusées par madame Marquis parce que l’appelant n’avait pas fourni de pièces justificatives à l’appui des dépenses déduites à ce titre. La preuve a aussi révélé que, pour l’année 2003, la presque totalité des dépenses déduites par l’appelant à ce titre (en l’espèce un montant de 3 189 $) avaient été refusées par madame Marquis pour les raisons mentionnées dans son rapport de vérification (voir la pièce I‑1, onglet 3, page 12) qui se lit comme suit :
+Pour l’année 2003, un montant de 492,19 $ correspond à l’écart entre les montants inscrits sur les feuilles de compilation et l’ensemble des pièces justificatives fournies. Ce montant n’a pas été engagé dans le but de gagner un revenu. Un montant de 840,01 $ n’est pas appuyé par des pièces justificatives suffisantes. Les reçus et les cartes de crédit/débit ne sont pas des pièces justificatives suffisantes puisqu’elles ne présentent pas la description détaillée et exacte de la dépense engagée. Un montant de 1 210,91 $ représente des repas pris à Québec (restaurants et épiceries). Nous considérons que ce sont des frais personnels et de subsistance non déductibles. Un montant de 15,64 $ correspond à un repas pris à Bonaventure. Aucune indication ne nous permet de déterminer qu’il s’agit d’un repas à des fins d’affaires.
+Enfin, la preuve a révélé (voir la pièce I‑2) que monsieur Roy avait, pour fins de règlement, permis à l’appelant de déduire 50 % des dépenses engagées (en l’espèce 50 % de 1 210,91 $) pour les repas (restaurants et épiceries) pris à Québec. La preuve de l’appelant à cet égard reposait uniquement sur son témoignage à l’effet que toutes les dépenses déduites à ce titre avaient été engagées en vue de tirer un revenu de son entreprise. Compte tenu de ma conclusion précédente à l’égard de la force probante du témoignage de l’appelant lorsque non appuyé par une preuve documentaire adéquate ou par le témoignage de témoins crédibles, je me dois de conclure que le ministre était en droit de refuser à l’appelant la plupart des dépenses déduites en 2003, exception faites des dépenses de restaurants et d’épicerie engagées cette année‑là, et toutes les dépenses déduites en 2004. Quant à ces dépenses d’épicerie déduites en 2003, je suis d’avis qu’elles constituent des dépenses personnelles ou des frais de subsistance et qu’ainsi le ministre a été plus que généreux en permettant à l’appelant de déduire 50 % de ces dépenses (en l’espèce un montant de 621 $) dans le calcul du revenu tiré de son entreprise pour l’année d’imposition 2003.
+Loyer
+[26] L’appelant a déduit des dépenses de 9 159 $ et de 3 986 $ dans le calcul son revenu tiré de son entreprise pour les années d’imposition 2003 et 2004, respectivement. Le ministre a refusé à l’appelant une partie des dépenses déduites à ce titre, soit un montant de 4 618 $ en 2003 et un montant de 3 787 $ en 2004. Lors de son témoignage sur ce point en litige, madame Marquis a essentiellement réitéré la partie de son rapport de vérification (voir la pièce I‑1, onglet 3, page 11) qui se lit comme suit :
+Le contribuable a déduit des frais de location de 9 159 $ et de 3986 $ dans le calcul de ses revenus de commissions des années 2003 et 2004 respectivement. Il s’agit, en partie, de frais de location se rapportant à un logement qu’il habitait lorsqu’il se rendait à Québec. Son fils était co‑locataire. Le contribuable demeurait à Québec avant les années 2000‑2001. Il a déménagé, par la suite, à Bonaventure. Malgré l’acquisition d’une résidence à Bonaventure, il a conservé ses clients à Québec. Il a également développé une petite clientèle à Bonaventure. À Bonaventure, le contribuable avait un bureau dans sa résidence personnelle. À Québec, il avait un bureau dans la salle commune de l’édifice du Groupe Investors. Plus de 90 % de la clientèle était à Québec. Il se rendait à Québec à tous les mois pour une semaine. Le contribuable n’a pas fourni de pièces justificatives à l’appui des montants déduits. Il a, de plus, disposé de sa [sic] le 2 février 2004.
+Nous considérons que le contribuable avait une place d’affaires à Québec (l’édifice du Groupe Investors) et une place d’affaires à Bonaventure (le bureau situé dans sa résidence personnelle). Les frais de location de l’appartement à Québec sont des frais personnels et de subsistance. Au cours des représentations du 23 octobre 2006, le contribuable nous présente des pièces justificatives qui nous permettent de lui accorder des montants de 460,30 $ (total des frais mensuels pour la location d’un ordinateur), 99,79 $ et 585,66 $ (40 % des taxes scolaires et des taxes municipales = % affaires de l’utilisation de la résidence de Bonaventure) et 2 211,74 $ (électricité attribuable au bureau de Bonaventure) dans le calcul des revenus de commissions de l’année 2003. Un montant total de 99,79 $ est également accordé en 2004 (location de l’ordinateur pour un mois et autres frais).
+Nous refusons donc des montants de 5 802 $ (9 159 $ ‑ 460,30 $ ‑99,79 $ ‑ 585,66 $ ‑ 2 211,74 $ = 5 501,51 $) en 2003 et de 3 886 $ (3 986 $ ‑99,79 $ = 3 886,21 $) en 2004, correspondant à des dépenses personnelles et, de plus, non appuyées de pièces justificatives; ces dépenses sont non déductibles dans le calcul des revenus de commissions.
+F/T 744 et F/T 7410
+Alinéas 18(1)a et 18(1)h de la LIR
+Par ailleurs, lors de son témoignage sur ce point en litige, monsieur Roy a essentiellement réitéré la partie de son rapport (voir la pièce I‑2) sur une opposition qui se lit comme suit :
+Loyer
+La dépense de 5 802 $ en 2003 et 3 886 $ en 2004 a été refusée.
+(2003) : la dépense refusée est en grande partie reliée à la location d’un logement à Québec. Ce logement est habité par le fils de M. St‑Onge (Daniel) étudiant à l’époque. Le contribuable réclame le montant du logement car il dit que s’il devait payer un hôtel le coût serait de beaucoup supérieur.
+La Division de la Vérification a déterminé que le logement à Québec était de nature personnelle et donc une dépense non admissible.
+La dépense était originalement de 9 159 $. Les dépenses pour l’électricité et les taxes du bureau à Bonaventure ainsi que la location de l’ordinateur ont été accordées. Le 5 802 $ restant a donc été refusé.
+(2004) : Le montant refusé représente encore une fois le logement de Québec selon le contribuable. Monsieur n’était cependant plus en affaire à partie de février 2004. Par la suite, il soumet en représentation une dépense pour le bris de contrat de location d’ordinateur pour un montant de 3 221 $. La dépense est refusée car le contribuable n’était plus en affaire lors du bris de contrat.
+[27] Le témoignage à peine compréhensible de l’appelant à cet égard pourrait se résumer ainsi : « Je payais le loyer et mon fils, avec qui je cohabitais, payait les autres dépenses liées à cet appartement que je louais ». Somme toute, l’appelant a prétendu que le coût réel du loyer était plus élevé que 500 $ par mois (ou que 8,22 $ par jour) et que le ministre aurait dû en tenir compte dans ses calculs. Je souligne que l’appelant n’a soumis aucune preuve documentaire à l’appui des dépenses ainsi déduites et que son fils n’est pas venu témoigner pour appuyer sa position. J’en conclus que cette preuve lui aurait été défavorable. Compte tenu de ma conclusion précédente à l’égard de la force probante du témoignage de l’appelant lorsque celui‑ci n’est pas appuyé par une preuve documentaire adéquate ou par le témoignage de témoins crédibles, je me dois de conclure que le ministre a correctement refusé, pour les années d’imposition 2003 et 2004, les montants de 4 618 $ et de 3 781 $, respectivement, à titre de dépenses de loyer engagées pour gagner des revenus de commissions, en vertu de l’article 18 de la Loi.
+[28] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 10e jour de janvier 2011.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2010 CCI 579
+Nº DU DOSSIER DE LA COUR : 2008-3994(IT)I
+INTITULÉ DE LA CAUSE : ALCIDAS ST-ONGE et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : New Carlisle (Québec)
+DATE DE L’AUDIENCE : le 13 juillet 2010
+MOTIFS DU JUGEMENT
+MODIFIÉS PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 10 janvier 2011
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Simon-Olivier de Launière
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

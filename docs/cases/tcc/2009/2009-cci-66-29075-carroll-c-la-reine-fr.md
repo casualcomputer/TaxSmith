@@ -1,0 +1,135 @@
+---
+title: "Carroll c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29075/index.do"
+last_modified: "2009-02-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 66"
+citation2: ""
+neutral_citation: "2009 CCI 66"
+decision_date: "2009-02-04"
+language: "fr"
+item_id: "29075"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6821
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:12:22.342000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3dc2cc21534150e33c11c82d68c05d1afec80578d498803ce1ee05b587484528"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Carroll c. La Reine
+
+- Citation: 2009 CCI 66
+- Decision date: 2009-02-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6821, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carroll c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-02-04
+Référence neutre
+2009 CCI 66
+Numéro de dossier
+2006-2221(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2009 CCI 66
+Date : 20090204
+Dossier : 2006-2221(IT)G
+ENTRE :
+SEAN C. CARROLL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à Kelowna (Colombie‑Britannique), le 21 novembre 2008.)
+Le juge McArthur
+[1] Le présent appel a été interjeté à l'égard d'une nouvelle cotisation fondée sur la responsabilité des administrateurs établie par le ministre du Revenu national le 2 mai 2006 en vertu du paragraphe 227.1(1) de la Loi de l'impôt sur le revenu. L'appelant a reconnu avoir été un administrateur d'Intracoastal Systems Engineering Corporation (« Intracoastal ») de mai 1996 à février 2003. La nouvelle cotisation portait sur la somme de 166 314,89 $, qui représentait les retenues faites à la source sur la paye des employés au titre de l'impôt sur le revenu, de l'assurance‑emploi et du Régime de pensions du Canada, retenues qu'Intracoastal a omis de verser au ministre. Il n'a pas été contesté qu'Intracoastal devait au moins 166 314 $ au ministre au moment où la société est réputée avoir fait une cession de faillite en avril 2003.
+[2] En résumé, Intracoastal exploitait une entreprise de commercialisation de systèmes de lecture automatique de compteurs d'électricité en Chine. La question est de savoir si l'appelant a agi avec le degré de soin, de diligence et d'habileté qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables pour prévenir le manquement d'Intracoastal à son obligation de verser au ministre les retenues qu'elle avait faites. L'appelant a obtenu un diplôme en génie de l'Université de la Colombie‑Britannique en 1987. Après avoir reçu son diplôme, l'appelant a exclusivement travaillé comme ingénieur dans trois entreprises avant d'entrer au service d'Intracoastal en tant qu'ingénieur électricien au début des années 1990. Il a été un employé d'Intracoastal jusqu'en 1996, lorsqu'il a quitté la région de Vancouver pour déménager à Kelowna et qu'il a alors continué de fournir des services à Intracoastal à titre de consultant. De plus, l'appelant est devenu administrateur d'Intracoastal en mai 1996, et il a continué à l'être jusqu'à ce qu'il remette sa démission en février 2003. Il a aussi été dirigeant d'Intracoastal, à savoir vice‑président d'avril 1996 à juin 1998 et secrétaire de juin 1998 à février 1999. L'appelant détenait aussi un très petit nombre d'actions d'Intracoastal.
+[3] L'intimée, dont la position est en partie énoncée dans la réponse à l'avis d'appel, soutient notamment que l'appelant connaissait ses responsabilités en tant qu'administrateur, qu'il savait que la société était tenue de verser l'impôt retenu et qu'il comprenait qu'à titre d'administrateur d'Intracoastal, il pouvait être tenu responsable légalement si celle‑ci ne versait pas les sommes retenues à la source. L'appelant savait qu'Intracoastal avait des difficultés financières et comptables et qu'elle ne remettait pas les retenues à la source, ou il est raisonnable qu'il aurait dû le savoir. L'appelant n'a rien fait pour prévenir le manquement d'Intracoastal à son obligation de verser les retenues et, en tant qu'administrateur de la société, l'appelant n'a pas agi avec le degré de soin, de diligence et d'habileté qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables pour prévenir le manquement d'Intracoastal à son obligation de verser au ministre les retenues qu'elle avait faites, comme l'exige le paragraphe 227.1(3) de la Loi.
+[4] L'appelant a été nommé au conseil d'administration d'Intracoastal en raison de ses connaissances techniques. Les autres membres du conseil (qu'ils aient été trois, quatre ou davantage) ne possédaient pas ces connaissances, mais ils avaient de l'expérience en matière de comptabilité et de finances. Le passage suivant est tiré d'une description que l'appelant a faite de son expérience à Intracoastal :
+[TRADUCTION]
+Je suis devenu vice‑président aux technologies le 4 avril 1996. À cette époque, Intracoastal était une nouvelle entreprise. Lorsque Rob Hanibower en est devenu le président, je suis devenu vice‑président aux technologies. Je travaillais alors, avec deux autres personnes, à la recherche technologique dans l'entreprise. Si j'ai reçu le titre de vice‑président, c'est avant tout pour que je puisse avoir une carte professionnelle impressionnante lorsque j'allais travailler sur le terrain en Chine. À partir du 2 juillet 1998, j'ai aussi été secrétaire pendant une courte période. J'ai joint une résolution sur consentement indiquant qu'Edison Ho est devenu secrétaire le 17 octobre. Le conseil d'administration se réunissait trimestriellement et, à ma connaissance, j'ai participé à toutes les réunions, et ce, parfois par conférence téléphonique. En plus d'avoir dit à M. Ho et à M. Wadhwani qu'il fallait verser les retenues faites à la source avant de faire tout autre paiement, je leur demandais régulièrement si les versements avaient été faits et s'ils allaient continuer à être faits. Ils m'ont tous deux assuré que c'était le cas, et je n'avais aucune raison de douter de leur bonne foi. D'ailleurs, quand j'ai appris que les versements n'avaient pas été faits, j'ai continué à faire partie du conseil d'administration de la société pour aider la société à faire ces versements. Après que M. Ho m'a annoncé que les versements n'avaient pas été faits, je lui ai demandé de prendre des dispositions avec l'ADRC. Je me souviens qu'il avait alors quitté la salle pour communiquer avec l'Agence. Je ne connais pas la nature exacte des dispositions qui ont été prises, mais j'ai continué à poser des questions à M. Ho à ce sujet. Toutefois, les sommes nécessaires n'ont jamais été trouvées. Je n'avais aucune expérience en gestion d'entreprise avant de devenir administrateur. Comme la majorité des employés d'Intracoastal, j'avais reçu des options d'achat d'actions qui me donnaient le droit de souscrire à un petit nombre des actions émises par la société.
+Je n'ai aucune raison de ne pas croire ce récit, qui coïncide d'ailleurs avec le témoignage oral de l'appelant.
+[5] Comme dans la majorité des affaires portant sur la responsabilité des administrateurs et sur la diligence raisonnable, le moyen de défense repose sur les faits. La présente affaire est un peu inhabituelle en ce que l'appelant avait demandé des conseils juridiques avant d'accepter de devenir administrateur d'Intracoastal, et qu'il avait été informé qu'il pourrait être tenu responsable personnellement pour le non‑versement des sommes retenues sur la paye des employés au titre de l'impôt. On avait conseillé à l'appelant de poser des questions périodiquement aux responsables des finances quant au versement des retenues, ce que l'appelant a fait. L'appelant s'est fié à M. Ho, le directeur financier de la société, et à M. Wadhwani, à qui il posait régulièrement des questions à ce sujet. La question du versement des retenues a été soulevée lors des réunions trimestrielles du conseil d'administration; on trouve d'ailleurs la preuve que le versement des retenues était à jour dans trois ou quatre procès‑verbaux inclus dans le recueil des documents de l'appelant[1]. Pour les six années où l'appelant était membre du conseil d'administration d'Intracoastal, il n'y avait eu aucun antécédent de problèmes de versement.
+[6] Le cabinet comptable Ellis Foster préparait des états financiers vérifiés pour Intracoastal, car celle‑ci était une société ouverte. En septembre 2002, l'appelant a reçu l'assurance de la part d'autres membres du conseil d'administration, à qui il faisait confiance, que la société devait recevoir de nouveaux investissements et que le versement des retenues allait reprendre. Avec du recul, l'appelant a reconnu qu'il aurait dû démissionner en septembre 2002, quand il a appris que les retenues n'avaient pas été versées. Je crois qu'il pensait que les personnes qui s'occupaient des finances avaient besoin de son aide et de son expertise. L'appelant croyait que le produit d'Intracoastal était sur le point de connaître du succès.
+[7] Manifestement, l'appelant ne connaissait pas grand‑chose à la comptabilité. Il devait se fier à des personnes plus compétentes que lui. Comme je l'ai déjà mentionné, l'appelant était ingénieur électricien, quoiqu'il ait été signataire autorisé pendant environ un an et qu'il ait signé des chèques de paye. L'appelant a agi raisonnablement en se fiant à d'autres personnes pour s'assurer que les retenues à la source étaient faites et versées.
+[8] L'avocate de l'intimée a cité l'arrêt rendu par la Cour d'appel fédérale dans Soper c. La Reine[2], et l'arrêt Magasins à rayons Peoples inc. c. Wise[3] rendu par la Cour suprême du Canada. Soper est très utile pour guider les tribunaux dans les affaires comme celle‑ci, quoique la Cour suprême, dans la décision Peoples, ait émis des réserves quant à la norme « objective subjective » énoncée dans Soper.
+[9] Dans Soper, le juge Robertson a expliqué les différences entre les administrateurs internes et les administrateurs externes. Il a dit que les administrateurs internes sont ceux qui s'occupent de la gestion quotidienne de la société et qui influencent la conduite de ses affaires. Ils sont ceux qui ont le plus de mal à invoquer le moyen de défense de diligence raisonnable. Le juge Robertson a ajouté que les administrateurs externes ne peuvent pas avoir une attitude entièrement passive, mais qu'ils peuvent compter sur les personnes qui s'occupent de la gestion quotidienne de la société pour payer les dettes.
+[10] Il n'y a aucun doute que l'appelant était un administrateur externe. D'une part, il s'occupait surtout des aspects scientifiques et technologiques de l'entreprise exploitée par Intracoastal, et, d'autre part, il vivait à des centaines de kilomètres de l'établissement principal de l'entreprise. L'appelant avait l'obligation expresse d'agir à compter du 4 septembre 2002, quand il a appris que les retenues n'avaient pas été versées, mais je suis d'avis qu'il était alors déjà trop tard. La société n'avait plus d'argent et elle n'en a pas reçu par la suite. Il n'y a pas eu d'autres manquements à l'obligation de verser les retenues après septembre 2002.
+[11] Les faits qui étaient en cause dans l'arrêt rendu par la Cour d'appel fédérale dans Cameron c. La Reine[4] sont quelque peu semblables à ceux de la présente affaire. Dans Cameron, l'appelant était avocat, mais, comme l'a souligné le juge Linden, il n'était pas une personne de terrain qui s'occupait des activités quotidiennes de la société. Il était donc plus un administrateur externe qu'un administrateur interne. Le juge Linden a aussi affirmé qu'au début de son mandat, et à de nombreuses reprises par la suite, l'appelant, parce qu'il était au courant de certains problèmes, s'était fréquemment informé auprès de la direction pour savoir où en était la remise des retenues d'impôt. On lui avait toujours assuré que tout était en règle. Il a commis l'imprudence de se fier à ces fausses assurances. En fait, les remises n'étaient pas en règle contrairement à ce que la direction affirmait. L'appelant et les autres administrateurs ont alors décidé de retenir les services d'un expert‑comptable, qui avait déjà rédigé un rapport au sujet de la situation financière de la société, pour qu'il corrige et vérifie ces questions. Plus loin dans ses motifs, le juge Linden a poursuivi de la sorte :
+[15] Ces faits non contredits démontrent que l'appelant ne s'est pas croisé les bras. Il a fait tout ce qu'on pouvait raisonnablement s'attendre de lui pour protéger les intérêts de Revenu Canada. Il n'a peut-être pas été aussi attentif, sceptique et affirmatif qu'il aurait pu l'être, surtout en laissant la direction l'induire en erreur, mais il est difficile de concevoir ce qu'il pouvait faire de plus dans les circonstances pour se conformer à l'obligation qui lui incombait en tant qu'administrateur d'être raisonnablement prudent dans les circonstances.
+Ce dernier paragraphe s'applique également à la présente affaire. Je ne vois pas ce que l'appelant aurait pu faire de plus.
+[12] Les passages suivants, tirés de la décision du juge Angers dans Head c. La Reine[5], s'appliquent eux aussi au présent appel :
+[18] La preuve nous a appris que les responsabilités de l'appelant chez Mainstream n'avaient rien à voir avec les activités administratives et financières quotidiennes de cette société. Compte tenu de ses antécédents et de son expérience de dessinateur, l'appelant s'était vu confier les activités de construction de Mainstream. Quant au côté administratif, l'appelant s'en remettait à M. O'Reilly et laissait ce dernier s'en occuper. Au début du mois de juillet, l'appelant n'était pas disponible, à cause d'un accident; de plus, il a appris que la TVH n'avait pas été versée à la fin du mois d'août et au début du mois de septembre 2003 seulement. À ce moment-là, il était presque trop tard [...]
+[...]
+[20] Étant donné que ses antécédents et ses qualifications se rapportent au domaine de la construction et que sa participation aux activités de Mainstream n'avait rien à voir avec les aspects financiers et administratifs de l'entreprise, je conclus qu'eu égard aux circonstances, l'appelant a fait tout ce à quoi il était possible de s'attendre de sa part et je conclus également que l'appelant a invoqué avec succès le moyen de défense fondé sur la diligence raisonnable. [...]
+[13] Puisque quatre ou cinq hommes d'affaires faisaient partie du conseil d'administration d'Intracoastal, il y a lieu de se demander pourquoi le ministre a choisi d'établir une nouvelle cotisation à l'égard de M. Carroll. Il ne s'agit toutefois pas de la question que je dois trancher, et, de toute manière, l'appel est accueilli, avec dépens.
+Signé à Ottawa, Canada, ce 4e jour de février 2009.
+« C.H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 15e jour de juin 2009.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2009 CCI 66
+No DU DOSSIER DE LA COUR :
+2006‑2221(IT)G
+INTITULÉ :
+Sean C. Carroll et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Kelowna (Colombie‑Britannique)
+DATE DE L'AUDIENCE :
+Le 21 novembre 2008
+MOTIFS DU JUGEMENT :
+L'honorable juge C.H. McArthur
+DATE DU JUGEMENT :
+Le 4 février 2009
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Kenneth J. Ihas
+Avocate de l'intimée :
+Me Karen Truscott
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Kenneth J. Ihas
+Cabinet :
+Rush Ihas, LLP
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A‑1.
+[2] [1998] 1 C.F. 124, 97 D.T.C. 5407.
+[3] 2004 CSC 68.
+[4] 2001 CAF 208.
+[5] 2007 CCI 227.

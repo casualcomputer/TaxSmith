@@ -1,0 +1,116 @@
+Title: Pascual v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28422/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-41-28422-pascual-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2008-01-24
+
+# Pascual v. The Queen
+
+- Citation: 2008 CCI 41
+- Decision date: 2008-01-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1221, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pascual v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-01-24
+Référence neutre
+2008 CCI 41
+Numéro de dossier
+2007-2632(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007‑2632(IT)I
+ENTRE :
+VILMA A. PASCUAL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 16 janvier 2008, à Winnipeg (Manitoba).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Meghan Riley
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 de l’appelante est rejeté sans qu’aucuns dépens soient adjugés.
+Signé à Halifax (Nouvelle‑Écosse), ce 24e jour de janvier 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 4e jour de mars 2008.
+Aleksandra Koziorowska, LL.B.
+Référence : 2008CCI41
+Date : 20080124
+Dossier : 2007‑2632(IT)I
+ENTRE :
+VILMA A. PASCUAL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Il s’agit en l’espèce de savoir si l’appelante a le droit de demander un crédit d’impôt conformément à l’alinéa 118(1)b) de la Loi de l’impôt sur le revenu (la « Loi ») à l’égard de son fils adoptif, Michael, qui est né en 1989.
+[2] Avant d’immigrer au Canada en 2001, l’appelante vivait aux Philippines. En 1988, elle a acquis une maison aux Philippines; en 2004, la mère de l’appelante et Michael habitaient cette maison. À compter du moment où elle est arrivée au Canada, au mois de mai 2001, jusqu’à ce jour, l’appelante n’est jamais retournée aux Philippines. De plus, Michael n’est jamais venu au Canada. L’appelante n’a pas pu amener Michael avec elle lorsqu’elle a immigré au Canada, au mois de mai 2001. L’adoption de Michael est devenue définitive au mois de septembre 2001 seulement.
+[3] L’appelante subvient aux besoins de Michael depuis qu’elle est arrivée au Canada; elle a pris des dispositions pour que des versements soient régulièrement effectués en faveur de celui‑ci. En 2004, l’appelante n’était pas mariée et elle ne vivait pas en union de fait.
+[4] L’alinéa 118(1)b) de la Loi prévoit notamment ce qui suit :
+118(1) Le produit de la multiplication du total des montants visés aux alinéas a) à e) par le taux de base pour l’année est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition;
+[...]
+b) [...] si le particulier ne demande pas de déduction pour l'année par l'effet de l'alinéa a) et si, à un moment de l'année :
+(i) d'une part, il n'est pas marié ou ne vit pas en union de fait ou [...]
+(ii) d'autre part, il tient, seul ou avec une ou plusieurs autres personnes, et habite un établissement domestique autonome où il subvient réellement aux besoins d'une personne qui, à ce moment, remplit les conditions suivantes :
+(A) elle réside au Canada, sauf s’il s’agit d’un enfant du particulier,
+(B) elle est entièrement à la charge soit du particulier, soit du particulier et d’une ou plusieurs de ces autres personnes,
+(C) elle est liée au particulier,
+(D) sauf s’il s’agit du père, de la mère, du grand‑père ou de la grand‑mère du particulier, elle est soit âgée de moins de 18 ans, soit à charge en raison d’une infirmité mentale ou physique;
+[5] Le sous‑alinéa 118(1)b)(ii) de la Loi prévoit que l’une des conditions que l’appelante doit remplir est qu’elle tienne et habite un établissement domestique autonome. Étant donné que le seul endroit que l’appelante a habité en 2004 est la résidence de Winnipeg, seule cette résidence peut être la résidence doit il est question dans cette disposition, qui prévoit ensuite que l’appelante doit également subvenir aux besoins de Michael dans cet établissement domestique autonome. Étant donné que Michael n’a jamais été présent dans la résidence de l’appelante, à Winnipeg, l’appelante ne peut pas remplir la condition selon laquelle elle devait subvenir aux besoins de Michael dans sa résidence, à Winnipeg, en 2004.
+[6] Dans l’arrêt Narsing c. Sa Majesté la Reine, [1998] A.C.F. no 156, la Cour d’appel fédérale a dit ce qui suit :
+Il ressort de la Loi que le crédit ne peut être réclamé qu’à l’égard d’une personne « entièrement à charge », ce qui signifie, sous le régime de cette disposition, qu’elle doit habiter avec le contribuable le même « établissement domestique ».
+[7] Dans la décision Jankowska‑Kamac c. Sa Majesté la Reine, [2001] A.C.I. no 281, la contribuable avait immigré au Canada, mais elle n’avait pas pu amener son fils avec elle. La contribuable subvenait aux besoins de son fils, qui était resté en Pologne. Le fils n’avait jamais été présent au Canada au cours de l’année d’imposition en cause dans cette affaire‑là. Le juge Hershfield a fait les remarques suivantes :
+[14] L’appelante a fait valoir que les dispositions de la Loi devaient être interprétées en harmonie avec les réalités propres à l’immigration. Après tout, nous sommes une nation éclairée dont la croissance passée, présente et future repose sur des pratiques éclairées en matière d’immigration; des dispositions fiscales éclairées ne devraient pas pénaliser les familles qui sont en voie d’immigrer. Si l’on veut que la politique relative à l’équivalent pour conjoint permette à une mère monoparentale de demander le crédit relativement à un enfant entièrement à charge aux besoins duquel elle subvient et qui est clairement à sa charge dans tous les sens significatifs du terme ou presque, un empêchement temporaire lié à l’immigration ne devrait pas créer un obstacle de nature procédurale à l’attribution du crédit au parent qui subvient aux besoins d’une autre personne. L’argument n’est pas dénué de fondement sous l’angle de la politique publique. Cependant, même si une interprétation libérale de la disposition relative au crédit peut être équitable dans les circonstances de la présente affaire, on ne peut faire abstraction du libellé ordinaire de la disposition et des décisions judiciaires qui ont toujours été rendues dans le même sens concernant l’interprétation de cette disposition. En outre, l’argument suppose l’acceptation de l’idée selon laquelle une personne peut être « entièrement à charge » au sens de l’alinéa 118(1)b) et ne pas habiter avec le parent qui subvient à ses besoins. Après tout, on peut subvenir aux besoins d’une personne « à partir » d’un endroit. S’il s’agit là d’une prémisse défendable, elle n’est pas acceptée dans la jurisprudence portant sur l’alinéa en question. Dans l’affaire Narsing c. La Reine, C.A.F., no A‑939‑96, 26 janvier 1998 (98 DTC 6176), la Cour d’appel fédérale a conclu que la condition était claire. Pour être « entièrement à charge » d’un contribuable, la personne aux besoins de laquelle on subvient doit habiter le même établissement que la personne qui subvient à ses besoins.
+[15] Je ne suis pas certain de la raison pour laquelle le soutien doit être centralisé à un endroit en particulier, mais le législateur a prévu le crédit en cause uniquement dans le cas où, dans les faits, le particulier subvient aux besoins d’une personne « dans » l’établissement où il réside. À mon sens, examiner l’intention de la loi n’est d’aucune assistance dans la présente affaire. Le libellé de cette disposition n’est pas ambigu et les tribunaux ont toujours appliqué la disposition telle qu’elle est rédigée.
+[16] Par conséquent, l’appel doit être rejeté. Il appartient au législateur d’éliminer toute injustice découlant de cette conclusion. Ainsi que l’a conclu le juge Cattanach dans l’affaire La Reine c. Scheller, qui n’était pas sans ressembler à la présente affaire, lorsque le sens des dispositions d’une loi est clair, les tribunaux n’ont pas à se mêler de la politique qui les sous‑tend ni de la justice ou l’injustice qui en découle. Le rôle du juge est d’appliquer la loi telle qu’elle est rédigée car, s’il agissait autrement, il délaisserait sa fonction de juge pour assumer celle du pouvoir législatif. Dans cette affaire (Scheller), le fait que l’appelant subvenait aux besoins de sa fille alors qu’elle vivait à l’étranger (en Estonie) du fait de circonstances indépendantes de la volonté de l’appelant n’avait pas d’importance. Le crédit prévu à l’alinéa 118(1)b) a été refusé pour le motif que, dans cette affaire‑là, la fille n’avait vécu avec l’appelant à aucun moment de l’année, contrairement à ce que requiert cette disposition de la Loi. Je considère les remarques du juge Cattanach concernant le rôle des tribunaux comparativement à celui du pouvoir législatif comme une invitation, lancée au législateur en 1975, de reconsidérer ses politiques dans les cas analogues à l’affaire Scheller (c.‑à‑d. analogues à la situation en l’espèce). Le législateur n’a pas donné suite à cette invitation.
+[8] Étant donné qu’à aucun moment de l’année 2004, Michael n’a habité le même établissement domestique autonome que l’appelante, l’appelante n’a pas le droit de demander un crédit d’impôt en vertu de l’alinéa 118(1)b) de la Loi à l’égard de Michael pour l’année 2004.
+[9] Par conséquent, l’appel est rejeté sans qu’aucuns dépens soient adjugés.
+Signé à Halifax (Nouvelle‑Écosse), ce 24e jour de janvier 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 3e jour de mars 2008.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2008CCI41
+No DU DOSSIER DE LA COUR : 2007‑2632(IT)I
+INTITULÉ : Wilma A. Pascual et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 16 janvier 2008
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 24 janvier 2008
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Meghan Riley
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

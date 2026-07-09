@@ -1,0 +1,170 @@
+---
+title: "Scarborough Centre For Healthy Communities (Formerly West Hill Community Services) c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30175/index.do"
+last_modified: "2011-01-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 45"
+citation2: ""
+neutral_citation: "2011 CCI 45"
+decision_date: "2011-01-26"
+language: "fr"
+item_id: "30175"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7778
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:10:45.015000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e141307f5c916e17c22c392582b422143db11b25915cc6916479ad4bc1379cd7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Scarborough Centre For Healthy Communities (Formerly West Hill Community Services) c. M.R.N.
+
+- Citation: 2011 CCI 45
+- Decision date: 2011-01-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7778, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scarborough Centre For Healthy Communities (Formerly West Hill Community Services) c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-01-26
+Référence neutre
+2011 CCI 45
+Numéro de dossier
+2010-1478(CPP)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2010-1478(CPP)
+2010-1882(EI)
+ENTRE :
+SCARBOROUGH CENTRE FOR HEALTHY COMMUNITIES
+(ANCIENNEMENT WEST HILL COMMUNITY SERVICES),
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+STEVEN HIRSHFELD,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 16 décembre 2010 à Toronto (Ontario).
+Devant : l’honorable juge Judith Woods
+Comparutions :
+Avocat de l’appelant :
+Me David A. Whitten
+Avocats de l’intimé :
+Me Jasmeen Mann
+Me Laurent Bartleman
+Pour l’intervenant :
+L’intervenant lui‑même
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard des décisions rendues par le ministre du Revenu national en application de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada et selon lesquelles le Dr Steven Hirshfeld exerçait un emploi assurable et ouvrant droit à pension pour la période allant du 1er janvier 2005 au 31 décembre 2007 est accueilli, et les décisions sont annulées. Chaque partie assumera ses propres dépens.
+Le greffe modifiera l’intitulé de la cause pour qu’il soit conforme à ce qui précède.
+Signé à Toronto (Ontario), ce 26e jour de janvier 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 17e jour de mars 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 45
+Date : 20110126
+Dossiers : 2010-1478(CPP)
+2010-1882(EI)
+ENTRE :
+SCARBOROUGH CENTRE FOR HEALTHY COMMUNITIES
+(ANCIENNEMENT WEST HILL COMMUNITY SERVICES),
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+STEVEN HIRSHFELD,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] L’appelant, Scarborough Centre for Healthy Communities (le « centre »), est un organisme à but non lucratif qui fournit des services sociaux et de santé. L’intervenant, le Dr Steven Hirshfeld, exerce la médecine au centre à temps partiel depuis 13 ans.
+[2] L’appel porte sur des décisions rendues en application de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada et selon lesquelles le Dr Hirshfeld était un employé du centre pour la période allant du 1er janvier 2005 au 31 décembre 2007.
+[3] L’appelant soutient que le Dr Hirshfeld n’était pas un employé pendant la période susmentionnée, mais qu’il avait été engagé en tant qu’entrepreneur indépendant.
+[4] Les témoins à l’audience étaient : Carol Klupsch, directrice de la clinique du centre, Shannon Duggan, spécialiste en ressources humaines au centre et le Dr Hirshfeld.
+Contexte factuel
+[5] Le Dr Hirshfeld est médecin de famille et il travaille au centre une journée par semaine depuis de nombreuses années. Il a commencé à y travailler avant tout le personnel actuel du centre, y compris les autres témoins.
+[6] Le Dr Hirshfeld a aussi un cabinet privé, situé ailleurs, où il exerce trois jours par semaine.
+[7] Le Dr Hirshfeld a commencé à exercer au centre en 1997 lorsqu’il a accepté de remplacer des médecins qui étaient absents. Quelques années plus tard, le centre a demandé au Dr Hirshfeld s’il voulait travailler tous les lundis, étant donné qu’un autre médecin avait réduit ses heures de travail.
+[8] Le Dr Hirshfeld a accepté cet arrangement et il a essentiellement travaillé sur cette base depuis lors. À quelques exceptions près, il travaille sept heures tous les lundis.
+[9] Les patients dont s’occupe le Dr Hirshfeld à la clinique sont des patients de la clinique et non les propres patients du Dr Hirshfeld. Ce dernier ne soigne pas les patients de la clinique dans son cabinet privé, à moins que le patient ne décide de quitter la clinique.
+[10] Pendant la période visée par les décisions du ministre du Revenu national (le « ministre »), le centre avait une politique concernant l’engagement des médecins. De manière générale, certains médecins étaient engagés en tant qu’employés, mais cela ne s’appliquait pas aux médecins qui travaillaient aussi peu d’heures que le Dr Hirshfeld. Les médecins qui exerçaient en tant qu’employés recevaient un salaire et des avantages sociaux. Les médecins qui étaient considérés comme des entrepreneurs indépendants, dont le Dr Hirshfeld, étaient rémunérés selon un taux horaire, et, de manière générale, ils ne recevaient pas d’avantages sociaux.
+Analyse
+[11] Les principes applicables à une cause comme celle-ci sont bien connus. La caractéristique principale d’un entrepreneur indépendant est l’exploitation d’une entreprise pour son propre compte. L’intention des parties est très pertinente, mais elle n’est pas déterminante. Le critère applicable a été énoncé par la Cour d’appel fédérale dans Royal Winnipeg Ballet c. MRN, 2006 CAF 87, 2006 DTC 6323 en ces termes :
+64 Dans les circonstances, il me semble qu’il serait contraire aux principes applicables de mettre de côté, en le considérant comme dépourvu de toute force probante, le témoignage non contredit des parties quant à la façon dont elles comprennent la nature de leur relation juridique, même si ce témoignage ne saurait être déterminant. Le juge aurait dû examiner les facteurs de l’arrêt Wiebe Door à la lumière de ce témoignage non contredit et se demander si, dans l’ensemble, les faits étaient compatibles avec la conclusion selon laquelle les danseurs étaient des travailleurs indépendants, comme les parties le pensaient, ou s’ils étaient davantage compatibles avec la conclusion selon laquelle les danseurs étaient des employés. C’est parce que le juge n’a pas adopté cette approche qu’il en est arrivé à une conclusion erronée.
+[12] Je me pencherai d’abord sur la façon dont les parties comprennent la nature de leur relation juridique.
+[13] Comme je l’ai mentionné plus tôt, le Dr Hirshfeld a commencé à travailler au centre en 1997 pour remplacer des médecins qui étaient absents. À cette époque, il avait signé un document dans lequel il reconnaissait qu’il avait été engagé en tant qu’entrepreneur indépendant et que le centre n’effectuerait aucune retenue à la source.
+[14] J’accepte le témoignage du Dr Hirshfeld selon lequel il se souvient que l’arrangement avait été modifié quelques années plus tard lorsqu’il avait commencé à travailler les lundis pour une période indéfinie.
+[15] Le Dr Hirshfeld a déclaré que l’engagement qu’il avait pris de travailler les lundis avait au début été considéré comme un emploi, mais que le centre avait changé sa politique et qu’il avait cessé d’effectuer des retenues à la source à son égard. On ne sait pas exactement quand cela s’était produit, mais les retenues à la source ne se font plus depuis de nombreuses années.
+[16] J’accepte aussi le témoignage du Dr Hirshfeld selon lequel le centre l’avait avisé que le changement de statut n’était pas important. Le fait que le centre considérait le statut comme une question sans conséquence semble être confirmé par la reconnaissance de statut écrite, signée par le Dr Hirshfeld. La reconnaissance semble être une lettre type préparée par l’appelant et dans laquelle la reconnaissance est décrite comme une formalité.
+[17] Ce contexte factuel est pertinent, mais la question essentielle réside dans l’intention des parties pendant la période en cause, c’est‑à‑dire de 2005 à 2007. Je conclus que l’intention du centre était clairement d’établir une relation d’entrepreneur indépendant. Concernant l’intention du Dr Hirshfeld, je conclus qu’il n’aimait pas être considéré comme un entrepreneur indépendant, mais qu’il avait choisi de ne pas faire part de son sentiment au centre pendant les nombreuses années où l’arrangement était en vigueur. Dans les circonstances, je conclus que les deux parties avaient accepté que le Dr Hirshfeld serait engagé en tant qu’entrepreneur indépendant.
+[18] Toutefois, la question n’est pas tranchée pour autant. Il reste à déterminer si la relation était compatible avec l’arrangement susmentionné.
+[19] Je voudrais tout d’abord faire observer que, dans sa nature, le travail accompli par le Dr Hirshfeld était très semblable à celui exercé par les médecins engagés comme employés, à l’exception du fait que le Dr Hirshfeld travaillait seulement une journée par semaine. En revanche, j’accepte l’argument de l’appelant selon lequel le centre n’exerçait pas le même degré de contrôle sur le Dr Hirshfeld que sur les médecins engagés comme employés. Le Dr Hirshfeld n’était pas présent à la plupart des réunions du personnel, et il est raisonnable de conclure, au vu de l’ensemble de la preuve, que les médecins engagés en tant qu’employés étaient généralement assujettis à un plus grand nombre de directives de l’organisation que ne l’était le Dr Hirshfeld. Tout bien considéré, j’ai conclu que la relation était compatible avec le statut d’entrepreneur indépendant.
+[20] Je suis arrivée à cette conclusion, mais j’aimerais faire remarquer que la Cour n’a pas été convaincue par l’argument de l’appelant selon lequel le Dr Hirshfeld était libre de travailler les heures qu’il voulait et qu’il n’était pas assujetti aux politiques du centre. Telle peut être la compréhension que le centre avait de la relation entretenue avec le Dr Hirshfeld, mais cela n’est pas pertinent, à moins que le centre ait communiqué au Dr Hirshfeld la façon dont il considérait leur relation. Je conclus que tel n’a pas été le cas.
+[21] Néanmoins, je conclus que les médecins engagés en tant qu’employés entretenaient une relation plus étroite avec le centre, et étaient soumis à un degré de contrôle plus élevé que ne l’était le Dr Hirshfeld. Dans les circonstances, je conclus que l’arrangement concernant le statut d’entrepreneur indépendant qui était en vigueur pendant de nombreuses années doit être accepté.
+[22] L’appel est accueilli et les décisions du ministre selon lesquelles le Dr Hirshfeld exerçait un emploi assurable et ouvrant droit à pension pour la période allant du 1er janvier 2005 au 31 décembre 2007 sont annulées.
+[23] Chaque partie assumera ses propres dépens.
+Signé à Toronto (Ontario), ce 26e jour de janvier 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 17e jour de mars 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 45
+Nos DES DOSSIERS DE LA COUR : 2010-1478(CPP)
+2010-1882(EI)
+INTITULÉ : SCARBOROUGH CENTRE FOR HEALTHY COMMUNITIES (ANCIENNEMENT WEST HILL COMMUNITY SERVICES)
+c.
+LE MINISTRE DU REVENU NATIONAL et STEVEN HIRSHFELD
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 16 décembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 26 janvier 2011
+COMPARUTIONS :
+Avocat de l’appelant :
+Me David A. Whitten
+Avocats de l’intimé:
+Me Jasmeen Mann
+Me Laurent Bartleman
+Pour l’intervenant :
+L’intervenant lui-même
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : David A. Whitten
+Cabinet : Whitten & Lublin LLP
+Toronto (Ontario)
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

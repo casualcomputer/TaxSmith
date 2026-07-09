@@ -1,0 +1,410 @@
+Title: Institut canadien d’information juridique c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/482641/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-56-482641-institut-canadien-d-information-juridique-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-07-17
+
+# Institut canadien d’information juridique c. La Reine
+
+- Citation: 2020 CCI 56
+- Decision date: 2020-07-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4590, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Institut canadien d’information juridique c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-07-17
+Référence neutre
+2020 CCI 56
+Numéro de dossier
+2015-5163(GST)G, 2017-2344(GST)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2015-5163(GST)G
+2017-2344(GST)G
+ENTRE :
+L’INSTITUT CANADIEN D’INFORMATION JURIDIQUE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 20 novembre 2019, à Toronto (Ontario) et conférence téléphonique de la gestion de l’instance après procès tenue le 4 mars 2020.
+Devant : L’honorable juge en chef adjointe Lucie Lamarre
+Comparutions :
+Avocats de l’appelant :
+Me Ron Choudhury
+Me David W. Chodikoff
+Avocats de l’intimée :
+Me Cédric Renaud Lafrance
+Me Frédéric Morand
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies aux termes de la Loi sur la taxe d’accise, dont les avis sont datés du 29 novembre 2013, du 6 juin 2014, du 26 août 2014, du 26 novembre 2014, du 12 février 2015, du 30 novembre 2015 et du 24 mai 2016, sont accueillis, avec dépens, conformément à mon exposé des motifs du jugement, et les cotisations sont donc renvoyées au ministre du Revenu national pour nouvel examen et établissement de nouvelles cotisations; il sera tenu compte du fait que l’appelant a effectué une fourniture taxable et a le droit de demander un montant total de crédits de taxe sur les intrants de 745 690,89 $ relativement aux périodes de déclarations trimestrielles se terminant entre le 1er avril 2013 et le 30 juin 2015, comme il est indiqué dans le tableau ci-dessous et comme en ont convenu les parties.
+Périodes de déclaration
+Crédits de taxe sur les intrants
+Du 1er avril au 30 juin 2013
+75 398,87 $
+Du 1er juillet au 30 septembre 2013
+78 360,63 $
+Du 1er octobre au 31 décembre 2013
+88 803,68 $
+Du 1er janvier au 31 mars 2014
+78 987,95 $
+Du 1er avril au 30 juin 2014
+94 231,79 $
+Du 1er juillet au 30 septembre 2014
+81 656,91 $
+Du 1er octobre au 31 décembre 2014
+86 301,19 $
+Du 1er janvier au 31 mars 2015
+75 465,10 $
+Du 1er avril au 30 juin 2015
+86 484,77 $
+Total
+745 690,89 $
+Signé à Ottawa, Canada, ce 17e jour de juillet 2020.
+« Lucie Lamarre »
+La juge en chef adjointe Lamarre
+Traduction certifiée conforme
+ce 6e jour d'octobre 2020.
+François Brunet, réviseur
+Référence : 2020 CCI 56
+Date : 20200717
+Dossiers : 2015-5163(GST)G
+2017-2344(GST)G
+ENTRE :
+L’INSTITUT CANADIEN D’INFORMATION JURIDIQUE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge en chef adjointe Lamarre
+[1] Notre Cour est saisie d’appels interjetés à l’encontre d’une cotisation qui a été établie par le ministre du Revenu national (le ministre) aux termes de la Loi sur la taxe d’accise (LTA). Le ministre a refusé les crédits de taxe sur les intrants (CTI), dont les montants sont indiqués dans l’exposé conjoint partiel des faits (joint à l’annexe A des présents motifs), demandés par l’appelant (appelé CanLII dans les présents motifs) pour ses périodes de déclaration trimestrielles se terminant entre le 1er avril 2013 et le 30 juin 2015.
+[2] Le ministre a refusé les CTI au motif que CanLII a fourni un service sans contrepartie et qu’il a donc effectué une fourniture exonérée aux termes de l’article 10 de la partie VI de l’annexe V de la LTA. Les fournitures exonérées ne donnent pas ouverture aux CTI aux termes du paragraphe 169(1) de la LTA.
+[3] L’article 10 de la partie VI de l’annexe V de la LTA est rédigé comme suit :
+ANNEXE V
+Fournitures exonérées
+10. La fourniture par un organisme du secteur public de biens ou de services, si la totalité ou la presque totalité de ces fournitures sont effectuées sans contrepartie, à l’exclusion des fournitures suivantes :
+a) les fournitures de sang ou de dérivés du sang;
+b) les fournitures d’aires de stationnement effectuées pour une contrepartie par bail, licence ou accord semblable dans le cadre d’une entreprise exploitée par l’organisme.
+[4] L’intimée fait valoir que CanLII, un organisme à but non lucratif, a offert au grand public un accès gratuit à sa bibliothèque virtuelle et, par conséquent, elle n’a rien reçu en contrepartie de la fourniture.
+[5] En revanche, CanLII soutien avoir reçu une contrepartie pour la fourniture de la bibliothèque virtuelle, même si le public y avait accès gratuitement, et que l’article 10 n’est pas en jeu en l’espèce. CanLII affirme avoir reçu la contrepartie de la Fédération des ordres professionnels de juristes du Canada (la Fédération) et, par conséquent, avoir effectué une fourniture taxable au profit la Fédération. La Fédération a versé un droit annuel à CanLII, conformément à l’[traduction] « accord de gouvernance de CanLII » conclu le 19 juillet 2010, entre chaque barreau provincial et territorial (les membres) et la Fédération (accord de gouvernance) (onglet 17 du recueil conjoint des documents).
+Les faits
+[6] CanLII est une entreprise à but non lucratif qui gère une bibliothèque de droit virtuelle à accès libre. L’unique membre de CanLII est la Fédération qui finance CanLII en percevant des droits auprès de 14 barreaux au Canada.
+[7] Selon M. Xavier Beauchamp-Tremblay, président et directeur général (DG) de CanLII, la Fédération a créé CanLII en 2001, afin d’accroître l’accès des membres de la profession juridique à l’information juridique. D’après le plan stratégique de 2006-2009 (onglet 40, à la page 8 du recueil conjoint des documents) de CanLII, il est destiné aux juristes. Servir le public est secondaire (transcription, à la page 42). Ainsi, CanLII répondait aux demandes des membres de la profession juridique d’obtenir davantage de commentaires et un accès aux annales de jurisprudence (transcription, à la page 18). En 2013, CanLII a commencé à ajouter des sources secondaires, comme CanLII Connecte, qui a été créée en 2014 afin de présenter des sommaires de décisions juridiques, élaborés par des membres de la profession juridique, dans la base de données de CanLII (transcription, aux pages 17 et 18).
+[8] CanLII compte quatre employés et sept membres du Conseil d’administration nommés par la Fédération.
+[9] CanLII est encadré par le règlement administratif no 1-2 (onglet 16 du recueil conjoint des documents) et l’accord de gouvernance mentionné précédemment. CanLII n’était pas partie à l’accord au cours des années en cause, mais il est par la suite devenu partie à cet accord signé (onglet 47, à la page 55 du recueil conjoint des documents).
+[10] Chaque automne, le DG de CanLII rédige un rapport à l’intention de la Fédération et intègre à ce rapport une version provisoire du budget dans laquelle est indiqué le revenu nécessaire au fonctionnement de CanLII pour l’année à venir. Le DG recommande un montant d’argent par professionnel du droit agréé, pour chaque barreau, afin d’aider la Fédération à répartir les fonds de façon équitable entre les divers barreaux. La Fédération décide ensuite de la somme qu’elle versera à CanLII pour l’année à venir.
+[11] Après cette décision, CanLII envoie une facture à la Fédération chaque trimestre en contrepartie de ses services. Au cours des années pertinentes, la Fédération a versé à CanLII entre 2,8 millions et 3,1 millions de dollars par an (onglet 47, à la page 22 du recueil conjoint des documents).
+[12] Le budget de fonctionnement de CanLII est uniquement financé par les droits versés par les barreaux. Bien que CanLII reçoive parfois, pour des projets précis, des subventions de fondations juridiques au cours de l’année, l’octroi de telles subventions est incertain et, par conséquent, ces subventions ne sont pas prises en compte dans le budget (transcription, aux pages 82 et 83).
+[13] CanLII ne pourrait pas offrir de services sans le financement des barreaux (transcription, à la page 80). En outre, CanLII ne pourrait pas subsister uniquement grâce à des recettes publicitaires (transcription, aux pages 83 et 84).
+[14] CanLII a dressé la liste de certains utilisateurs désignés comme ses utilisateurs les plus importants en ce qui a trait aux téléchargements, au cours de l’automne 2014 (onglet 25 du recueil conjoint des documents). D’après la liste des utilisateurs fréquents, les 1 000 principaux utilisateurs étaient tous des prestataires de services juridiques. Parmi près des 300 000 adresses IP ayant accès à CanLII chaque mois, celles des 1 000 principaux utilisateurs ont effectué la moitié des téléchargements du trafic en mégaoctets (transcription, aux pages 25 et 26). De plus, d’après un sondage national réalisé en 2012 (onglet 22 du recueil conjoint des documents) (auprès de quelque 4 000 répondants), 90 % des professionnels du droit (y compris ceux dans la province de Québec) utilisent CanLII (transcription, aux pages 19 et 20).
+[15] CanLII a engagé diverses dépenses pour exploiter sa bibliothèque virtuelle. Relativement à ces dépenses, CanLII a demandé les CTI en cause dans les présents appels pour la taxe sur les produits et services versée aux prestataires de services tiers. Les dépenses en question comprennent des paiements aux prestataires suivants :
+- Lexum (une entreprise de technologie située à Montréal et désormais une filiale de CanLII) pour la gestion et la tenue à jour du site Web de CanLII (onglet 38, à la page 157 du recueil conjoint des documents).
+- Functional Imperative (une entreprise de technologie située à Toronto) pour la gestion et la tenue à jour du site Web CanLII Connecte (onglet 39, à la page 105 du recueil conjoint des documents).
+- SOQUIJ pour accéder à la jurisprudence québécoise (onglet 39, à la page 112 du recueil conjoint des documents).
+- Iron Mountain pour l’archivage d’une copie du code informatique de CanLII (onglet 39, à la page 139 du recueil conjoint des documents).
+- Fulcrum Group, un spécialiste de la rémunération des cadres, pour des consultations concernant l’établissement d’indicateurs de rendement clés (onglet 38, à la page 82 du recueil conjoint des documents).
+[16] CanLII était inscrit aux termes de la LTA (paragraphe 11 de l’exposé conjoint partiel des faits). Il semble que CanLII a perçu et versé la TPS sur les paiements de la Fédération au cours des périodes en cause.
+Question en litige
+[17] La question en litige est de savoir si CanLII peut demander, en application du paragraphe 169(3) de la LTA, des CTI pour la TPS qu’il a versée à des prestataires de services tiers.
+[18] Dans les présents appels, je suis d’abord appelée à décider si CanLII a effectué une fourniture taxable en exploitant sa bibliothèque virtuelle. Pour répondre à cette première question, je dois rechercher si CanLII a effectué une fourniture pour une contrepartie ou sans contrepartie. Dans le dernier cas, il y a fourniture exonérée et CanLII n’a pas droit aux CTI.
+[19] La deuxième question, si je conclus que CanLII a effectué une fourniture imposable, est de savoir si CanLII a respecté les exigences documentaires relatives à une demande de CTI énoncées au paragraphe 169(4) de la LTA et dans le Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH).
+I. CanLII a-t-il effectué une fourniture taxable ou une fourniture exonérée?
+[20] Les observations de chaque partie sont fondées sur leur interprétation de la définition du mot « contrepartie » dans la LTA.
+[21] Le terme « contrepartie » est défini comme suit au paragraphe 123(1) de la LTA :
+contrepartie Est assimilé à une contrepartie tout montant qui, par effet de la loi, est payable pour une fourniture.
+Les observations des parties
+[22] L’intimée soutien que, selon la définition du mot « contrepartie », il doit y avoir une obligation légale exécutoire de payer une fourniture. L’avocat de l’intimée fonde son argument sur la formulation de la définition dans laquelle le législateur fait état d’un « montant [...] par effet de la loi payable pour une fourniture ».
+[23] Il s’est appuyé sur une jurisprudence de la Cour suprême du Canada, Hypothèques Trustco Canada c. Canada, 2011 C.S.C. 36, [2011] 2 R.C.S. 635; la juge en chef McLachlin (tel était alors son titre) a alors analysé le mot « payable » dans ses motifs dissidents, au regard de l’article 224 de la Loi de l’impôt sur le revenu. Aux termes de l’article 224, il est exigé d’une personne qui est tenue de faire un paiement à une autre personne (le débiteur fiscal) que les fonds autrement payables au débiteur fiscal soient versés au receveur général au titre de l’obligation du débiteur fiscal. Au paragraphe 64 de ses motifs dissidents, la juge en chef McLachlin a renvoyé à l’analyse par la Cour d’appel fédérale du mot « payable » dans l’arrêt Canada c. National Trust Co., (1998), 162 D.L.R. (4th) 704, aux paragraphes 61 et 62, qui conclut que « [la paye de vacances] est payable lorsqu’un demandeur est en mesure, sur le plan juridique, de faire exécuter le paiement ».
+[24] L’intimée soutient désormais que CanLII n’était pas en mesure de faire exécuter le paiement par la Fédération. Son avocat déclare que selon le règlement administratif, les paiements de la Fédération étaient discrétionnaires, car elle pouvait décider du montant du paiement annuel, quelle que soit la recommandation du DG de CanLII. Selon l’intimée, le règlement et l’accord de gouvernance (duquel CanLII n’était pas un signataire au cours des périodes en cause) étaient simplement un cadre de gestion des paiements. Ces documents n’ont pas imposé d’obligation à la Fédération de payer la fourniture.
+[25] En outre, si la Cour devait conclure que la Fédération était légalement tenue de payer CanLII, l’intimée soutient qu’il n’existait pas de lien direct entre les versements et la fourniture, car l’acquéreur était le public.
+[26] En revanche, CanLII soutient que la Cour doit retenir le sens large consacré par la common law en ce qui concerne la définition du mot « contrepartie » dans l’arrêt County of Lethbridge c. La Reine, 2005 C.C.I. 809. Au paragraphe 95 de cette décision, le juge Bell a observé :
+[95] Quant à la seconde question, la définition du mot « contrepartie » est la suivante :
+« contrepartie » Est assimilé à une contrepartie tout montant qui, par effet de la loi, est payable pour une fourniture
+Cette définition n’est pas exhaustive; elle comprend tout montant qui constitue une contrepartie en common law. Dans l’arrêt Dunlop Pneumatic Tyre Co. Ltd. v. Selfridge & Co. Ltd. [1915] A.C. 847 (Ch. des lords), lord Dunedin a dit ce qui suit, à la page 855 :
+[traduction]
+[...] je suis heureux d’adopter d’un ouvrage de sir Frederick Pollock [...] les propos suivants quant à savoir ce qu’est une contrepartie :
+Un acte ou une renonciation de la part d’une partie, ou une promesse quant à cet acte ou à cette renonciation, est le prix auquel est achetée la promesse de l’autre partie, et la promesse ainsi donnée contre valeur est exécutoire.
+[27] Selon CanLII, une contrepartie constitue tout paiement d’une fourniture ou tout paiement effectué pour faciliter une fourniture. Il n’y a aucune obligation légale de payer. En l’espèce, la Fédération a payé CanLII afin de permettre la réalisation de la fourniture. CanLII n’aurait pas pu utiliser les paiements à toute autre fin, étant donné qu’il n’a rien fait d’autre que d’exploiter la bibliothèque virtuelle. Cela dit, CanLII rejette l’argument de l’intimée selon lequel il n’y avait pas d’obligation de payer. Selon lui, la Fédération était tenue de payer aux termes de l’accord de gouvernance, et cette obligation est mentionnée dans la déclaration de revenu de CanLII produite à l’Agence du revenu du Canada (onglet 33, à la page 5 du recueil conjoint des documents).
+[28] CanLII a également discuté la décision rendue par la Cour d’appel fédérale dans l’arrêt Commission scolaire des Chênes c. La Reine, 2001 C.A.F. 264, une affaire entendue dans la province de Québec. La Cour a examiné la question de savoir à quel moment un paiement constituait une contrepartie, aux termes de la LTA. La Cour a observé, au paragraphe 19, que, selon la LTA, un paiement, pour constituer une contrepartie, doit découler d’une obligation juridique (contractuelle ou autre) et doit être suffisamment rattaché à une fourniture pour être considéré comme ayant été effectué « pour » cette fourniture (au sens de la définition du mot « contrepartie » à l’article 123). Selon CanLII, c’est pour cette raison que la Cour a observé, dans le même paragraphe, qu’un lien direct est nécessaire. La Cour a en outre déclaré, au paragraphe 20, qu’un paiement a la qualité de contrepartie seulement dans la mesure où il est effectué « pour » ou en retour de cette fourniture.
+[29] CanLII soutient que le critère du lien direct ne figure pas à l’article 10 de la partie VI de l’annexe V de la LTA et, par conséquent, qu’il ne peut pas être pris en compte dans l’analyse. Cependant, CanLII soutient que, même si le public a gratuitement accès à la bibliothèque, il existait un lien direct entre les paiements et la fourniture, étant donné que les paiements effectués par la Fédération constituaient la seule source de financement de la bibliothèque sans laquelle elle n’aurait pas pu fonctionner. Ces paiements profitaient directement au payeur, car ils permettaient un accès accru des praticiens du droit à l’information juridique.
+[30] CanLII cite un arrêt de la Cour suprême du Canada, Calgary (Ville) c. Canada, 2012 C.S.C. 20; aux paragraphes 29, 62 et 64, la Cour a décidé qu’une fourniture pouvait avoir plusieurs destinataires, et que l’identité de l’acquéreur pouvait ne pas nécessairement être déterminante quant à savoir si la fourniture était exonérée.
+Discussion
+[31] Il n'est pas controversé entre les parties que CanLII a effectué une fourniture en offrant une bibliothèque virtuelle. Elles ne s’entendent pas sur la question de savoir s’il s’agissait d’une fourniture taxable ou exonérée.
+[32] En effet, la Cour est appelée à décider si CanLII est autorisé, aux termes du paragraphe 169(1) de la LTA, à demander des CTI relativement à la TPS qu’il a versée aux prestataires de services tiers.
+[33] Le paragraphe 169(1) se lit comme suit :
+Crédit de taxe sur les intrants
+Règle générale
+169 (1) Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d’une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu’elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l’importation ou au transfert devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable :
+A × B
+où
+A représente la taxe relative à la fourniture, à l’importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable;
+B :
+a) dans le cas où la taxe est réputée, par le paragraphe 202(4), avoir été payée relativement au bien le dernier jour d’une année d’imposition de la personne, le pourcentage que représente l’utilisation que la personne faisait du bien dans le cadre de ses activités commerciales au cours de cette année par rapport à l’utilisation totale qu’elle en faisait alors dans le cadre de ses activités commerciales et de ses entreprises;
+b) dans le cas où le bien ou le service est acquis, importé ou transféré dans la province, selon le cas, par la personne pour utilisation dans le cadre d’améliorations apportées à une de ses immobilisations, le pourcentage qui représente la mesure dans laquelle la personne utilisait l’immobilisation dans le cadre de ses activités commerciales immédiatement après sa dernière acquisition ou importation de tout ou partie de l’immobilisation;
+c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis ou importé le bien ou le service, ou l’a transféré dans la province, selon le cas, pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+[34] Par conséquent, CanLII a droit aux CTI s’il a acquis un bien ou un service pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+[35] L’« activité commerciale » est définie comme suit au paragraphe 123(1) :
+activité commerciale Constituent des activités commerciales exercées par une personne :
+a) l’exploitation d’une entreprise (à l’exception d’une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où l’entreprise comporte la réalisation par la personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial (à l’exception de quelque projet ou affaire qu’entreprend, sans attente raisonnable de profit, un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où le projet ou l’affaire comporte la réalisation par la personne de fournitures exonérées;
+c) la réalisation de fournitures, sauf des fournitures exonérées, d’immeubles appartenant à la personne, y compris les actes qu’elle accomplit dans le cadre ou à l’occasion des fournitures.
+[36] En l’espèce, l’intimée soutien que, aux termes de l’article 10 de la partie VI de l’annexe V de la LTA (dont le texte est reproduit plus haut, au paragraphe 3 de mes motifs), les activités de CanLII comportaient la réalisation de fournitures exonérées.
+[37] L’intimée est d’avis que la totalité ou la presque totalité des services fournis par CanLII était des fournitures effectuées sans contrepartie.
+[38] Lors des débats, l'avocat de l’intimée a observé que la Fédération avait effectué des paiements discrétionnaires qui ne correspondaient pas à la définition du mot « contrepartie », car ils ne découlaient pas d’une obligation juridique. L’intimée s’est appuyée sur la définition du mot « payable » consacrée par la Cour suprême du Canada dans l’arrêt Canada Trustco, précité, aux fins de l’article 224 de la Loi de l’impôt sur le revenu.
+[39] Premièrement, je note que, dans la définition du mot « contrepartie » de la LTA, qui est reproduite plus haut, « est assimilé » à une contrepartie tout montant qui, par effet de la loi, est payable pour une fourniture. Le mot « assimilé » signifie « rendu semblable; considéré comme semblable » (dictionnaire Le Petit Robert de la langue française). Il ne s’agit pas d’une définition restrictive ou exclusive.
+[40] Je n’interprète donc pas la définition comme imposant une exigence ou une obligation légale exécutoire de payer, comme l’a affirmé l’intimée.
+[41] En outre, l’avocat de l’intimée s’est appuyé sur les notes techniques auxquelles la Cour a fait référence dans l’arrêt Commission Scolaire des Découvreurs c. La Reine, 2003 C.C.I. 295, [2004] G.S.T.C. 49, pour défendre sa thèse selon laquelle il n’y a contrepartie que s’il existe une obligation légale exécutoire d’effectuer un paiement. Dans cette décision, la Cour a renvoyé aux notes techniques publiées concernant la définition du mot « contrepartie » dans la LTA, aux paragraphes 54 et 55 que j’ai reproduits ci-dessous :
+[54] Dans les notes explicatives on explique ainsi cette disposition :
+La définition de « contrepartie » est ajoutée afin qu’aucun doute ne subsiste : les montants qui auraient fait clairement partie de la contrepartie d’une fourniture, si un contrat avait été conclu, sont réputés des contreparties aux fins de la partie IX et des annexes V, VI et VII de la Loi. C’est le cas, par exemple, lorsque des services sont rendus à une personne sans qu’une convention à cet égard ait été conclue et que cette personne est tenue, par la loi, de payer la juste valeur des services reçus. Le montant exigible serait considéré comme une contrepartie. Dans tous les cas, pour être réputé contrepartie, un montant exigible doit porter sur une « fourniture ». Par conséquent, les montants payés, par exemple, sous forme de taxes, d’amendes ou de dons d’une administration publique ou d’une personne, que ce soit par effet de la loi ou en vertu d’une entente, continueront de ne pas être considérés comme contrepartie, cas ils ne portent pas sur une fourniture.
+[55] Il ne s’agit donc pas d’une définition du terme « contrepartie » mais d’une clarification dans le cas d’une situation non contractuelle. Dans une telle situation, on doit donner à ce terme son sens juridique normal. Dans le Vocabulaire Juridique, (Gérard Cornu) PUF 2e édition 1990, il est dit que ce terme est dans un contrat synallagmatique synonyme de contre-prestation. Si nous allons à la définition de « contre-prestation » dans le même livre, nous y lisons :
+[TRANSLATION]
+Contrepartie fournie par celui qui reçoit une prestation dans le contrat synallagmatique; prestation réciproque (et regardée comme équivalente) mise à la charge d’un contractant. Ex. le salaire relativement au travail, le prix relativement à la chose vendue
+[42] Selon ma lecture de ces notes techniques, elles ne font état de nulle obligation légale exécutoire de payer, ni n'en impose, comme l’a soutenu l’intimée. Ces notes établissent clairement une distinction entre le montant payable « pour une fourniture », qu’il y ait un contrat ou non, lequel montant est considéré comme une contrepartie pour l’application de la LTA, et le montant, p. ex. sous forme de taxes, d’amendes ou de dons, payable par effet de la loi ou en vertu d’une entente (c.-à-d. non payable pour une fourniture). L’accent n’est pas mis sur le mot « payable », mais sur les mots « contrepartie » « pour une fourniture ».
+[43] La Cour d’appel fédérale dans l’arrêt Commission scolaire des Chênes, précité, aux paragraphes 19 et 20, a observé qu’un paiement, pour constituer une contrepartie, doit découler d’une obligation juridique (contractuelle ou autre). Un paiement a qualité de contrepartie seulement dans la mesure où il est effectué « pour » ou en retour de la fourniture. La Cour n’indique pas que l’obligation doit être exécutoire.
+[44] Dans l’arrêt Invesco Canada Ltd. c. La Reine, 2014 CCI 375, aux paragraphes 33 à 35, la Cour a renvoyé à l’arrêt Des Chênes et, comme dans l’arrêt Lethbridge précité, à la définition du mot « contrepartie » suivant la common law, et elle a observé, au paragraphe 35, que tout ce qui est nécessaire pour que des frais constituent une contrepartie de la fourniture taxable que sont les services de gestion est une obligation contractuelle. Je tiens à ajouter que, dans l’arrêt Des Chênes, la Cour a fait référence à une obligation juridique (contractuelle ou autre).
+[45] En outre, l’article 123 de la LTA vise un montant payable par « effet de la loi ». Cette expression est définie dans le Black’s Law Dictionary comme [traduction] « le moyen par lequel on crée un droit ou une responsabilité pour une partie, quelle que soit la véritable intention de la partie ».
+[46] En l’espèce, les paiements effectués par la Fédération découlaient du règlement administratif et de l’accord de gouvernance (onglets 16 et 17 du recueil conjoint des documents).
+[47] L’article 14 du règlement se lit en partie comme suit :
+[traduction]
+[...] Après avoir reçu la recommandation du Conseil d’administration [de CanLII], la [Fédération] doit décider, à sa discrétion, du montant du droit annuel que la [Fédération] doit payer à [CanLII]. [traduction] [...]
+[48] L’article 5.1 de l’accord de gouvernance se lit en partie comme suit :
+[traduction]
+[...] La Fédération doit [...] décider chaque année du montant du droit que la Fédération doit payer à CanLII pour l’année à venir. [traduction] [...]
+[49] L’article 5.2 de l’accord de gouvernance se lit en partie comme suit :
+[traduction]
+[...] Le Conseil doit en outre décider du montant d’un tel droit que chaque [barreau] doit payer [...] Une fois que le Conseil [...] a pris sa décision [...] la Fédération et chacun des [barreaux] doivent agir strictement conformément à cette décision et s’y conformer par ailleurs.
+[50] Ainsi, même si la Fédération (par l’intermédiaire de son Conseil composé de représentants de chacun des 14 barreaux au Canada) déterminait le montant du droit à payer chaque année à CanLII, sur la recommandation de celui-ci, une fois ce montant effectivement établi, la Fédération était tenue de payer un tel droit à CanLII. En outre, le Conseil décidait, aux termes de l’accord de gouvernance, du montant du droit que chaque barreau devait payer. La Fédération n’avait que le pouvoir discrétionnaire de déterminer le montant du droit. Une fois le droit établi, il devait être versé à CanLII pour la fourniture de la bibliothèque virtuelle.
+[51] Par conséquent, je conclus, en application de l’article 14 du règlement et de l’article 15 de l’accord de gouvernance, qu’une fois que la Fédération avait décidé du montant du droit annuel, celui-ci était payé par effet de la loi pour la fourniture de la bibliothèque virtuelle. La Fédération était tenue de payer le droit et le paiement n’était pas discrétionnaire, comme l’a affirmé l’intimée.
+[52] L’intimée a aussi soutenu que même s’il y avait une obligation légale de payer, il n’y avait pas de lien direct entre le paiement et la fourniture effectués par CanLII, comme dans l’affaire Des Chênes. L’avocat a renvoyé au paragraphe 20 de cette décision pour souligner le fait que, lorsqu’un paiement s’inscrit dans un cadre contractuel, le but du paiement et les circonstances dans lesquelles il est effectué doivent être analysés minutieusement afin de déterminer s’il existe un lien avec la fourniture. L’avocat de l’intimée a alors soutenu qu’il incombe à l’appelant de présenter les éléments de preuve concernant le but et les circonstances du paiement, ce que CanLII, d’après lui, n’a pas fait. Selon l’intimée, le paiement visait à permettre à CanLII de remplir son mandat qui consistait à offrir un accès gratuit au droit et non à fournir un service à la Fédération.
+[53] CanLII affirme que le but du financement était de lui permettre de ne pas avoir à effectuer d’autre fourniture. Le règlement et l’accord de gouvernance entre la Fédération et les barreaux exposent les circonstances qui entourent le paiement et justifient ce paiement. CanLII soutient qu’aucun élément de preuve selon lequel les paiements ont été effectués pour autre chose que la fourniture de la bibliothèque virtuelle n’a été présenté.
+[54] J'abonde dans le sens de CanLII : il existe un lien direct entre le paiement du droit par la Fédération et la fourniture de la bibliothèque virtuelle. La Fédération verse des fonds à CanLII dans un seul but. Sans ces fonds, il n’existerait pas de bibliothèque virtuelle. Le budget de fonctionnement de CanLII est financé uniquement grâce aux paiements effectués par la Fédération compris entre 2,8 millions et 3,1 millions de dollars par an (selon la [traduction] « copie de la répartition des membres équivalents temps plein [ETP] », onglet 46, à la page 1 du recueil conjoint des documents).
+[55] En outre, le DG de CanLII a témoigné que le seul but dans lequel CanLII a été constituée en société était la création et la production de la bibliothèque virtuelle. Sans la Fédération et les barreaux, CanLII ne subsisterait simplement pas et personne n’aurait accès à cette bibliothèque.
+[56] De plus, selon les éléments de preuve, les 1 000 principaux utilisateurs étaient tous prestataires de services juridiques. Ces utilisateurs effectuaient la moitié des téléchargements en mégaoctets. D’après les données, les membres de la Fédération, et donc la Fédération, ont tiré grandement avantage de la bibliothèque virtuelle qu’ils ont payée. Cependant, le fait que la bibliothèque virtuelle ait été rendue accessible gratuitement au grand public (et pas seulement à la Fédération et aux membres des barreaux) ne change pas le fait que sans la Fédération et ses membres, CanLII ne fournirait rien du tout. Dans l’arrêt Des Chênes, au paragraphe 33, la Cour d’appel fédérale a observé que même si le payeur d’une contrepartie peut chercher à avantager quelqu’un d’autre, le paiement conserve tout autant sa nature de contrepartie.
+[57] Enfin, dans l’arrêt Calgary (Ville), précité, la Cour suprême du Canada a observé que nulle disposition de la LTA n’exige qu’une fourniture n’ait qu’un seul acquéreur (paragraphe 62). La Cour a ajouté que même si le public demeurait un acquéreur de la fourniture, l’identité de l’acquéreur n’est pas nécessairement déterminante quant à savoir si la fourniture est taxable ou exonérée (aux paragraphes 63 et 64).
+[58] Par conséquent, tant que le paiement a la qualité de contrepartie, l’identité de l’acquéreur de la fourniture n’est pas déterminante quant à savoir si la fourniture est taxable ou exonérée.
+[59] Je conclus que CanLII a présenté suffisamment d’éléments de preuve pour établir l’existence d’un lien direct entre le droit payé par la Fédération et la fourniture par CanLII de la bibliothèque virtuelle. Je conclus que le financement versé par la Fédération à CanLII n’était pas destiné à plusieurs utilisations : il visait à permettre à CanLII d’atteindre son unique objectif d’exploitation d’une bibliothèque virtuelle à des fins commerciales. À l’aide de ce financement, CanLII a conclu un contrat avec des fournisseurs tiers afin de tenir à jour et d’améliorer le site Web; il a créé et mis en œuvre des plans stratégiques détaillés et rédigé des recommandations budgétaires pour la Fédération.
+[60] Je conclus que CanLII a effectué une fourniture à la Fédération pour une contrepartie, dans le cadre d’une activité commerciale, et qu’il a donc effectué une fourniture taxable. L’article 10 de la partie VI de l’annexe V ne joue pas en l’espèce, car l’unique fourniture, la bibliothèque virtuelle, a été effectuée pour une contrepartie.
+II. Exigences documentaires aux termes du paragraphe 169(4) de la LTA
+[61] La deuxième question est de savoir si CanLII a respecté les exigences documentaires relatives à une demande de CTI, conformément au paragraphe 169(4) de la LTA et au Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH).
+[62] À l’audience, les parties ont accepté de communiquer avec la Cour relativement au montant des CTI auquel l’appelant aurait droit s’il obtenait gain de cause. Les parties n’étant pas parvenues à s’entendre sur ce montant, une conférence de la gestion de l’instance après procès que j’ai présidée s’est tenue le 4 mars 2020. Au cours de cette conférence, il a été ordonné que l’avocat de l’appelant communique à l’avocat de l’intimée les factures et les calculs du montant des CTI pour les périodes en cause, et ce, avant le 25 mars 2020.
+[63] Le 23 mars 2020, l’avocat de l’intimée a reçu les documents. Après examen, et dans une lettre envoyée à l’appelant le 8 mai 2020, l’intimée a reconnu que si l’argument de l’appelant, selon lequel les fournitures en cause n’étaient pas exonérées, était retenu, l’appelant aurait droit aux CTI, répartis de la manière suivante :
+Périodes de déclaration
+CTI
+Du 1er avril au 30 juin 2013
+75 398,87 $
+Du 1er juillet au 30 septembre 2013
+78 360,63 $
+Du 1er octobre au 31 décembre 2013
+88 803,68 $
+Du 1er janvier au 31 mars 2014
+78 987,95 $
+Du 1er avril au 30 juin 2014
+94 231,79 $
+Du 1er juillet au 30 septembre 2014
+81 656,91 $
+Du 1er octobre au 31 décembre 2014
+86 301,19 $
+Du 1er janvier au 31 mars 2015
+75 465,10 $
+Du 1er avril au 30 juin 2015
+86 484,77 $
+Total
+745 690,89 $
+[64] Dans une lettre envoyée au greffe le 16 juillet 2020, l’avocat de l’appelant a avalisé les montants des CTI admis par l’intimée.
+Décision
+[65] Les appels interjetés à l’encontre des cotisations établies aux termes de la LTA sont accueillis et les cotisations sont renvoyées au ministre pour nouvel examen et de l’établissement de nouvelles cotisations; il sera tenu compte de ce que l’appelant a effectué une fourniture taxable et a le droit de demander un montant total de crédits de taxe sur les intrants de 745 690,89 $ relativement aux déclarations trimestrielles se terminant entre le 1er avril 2013 et le 30 juin 2015, comme il est indiqué dans le tableau reproduit ci-dessus.
+Signé à Ottawa, Canada, ce 17e jour de juillet 2020.
+« Lucie Lamarre »
+La juge en chef adjointe Lamarre
+Traduction certifiée conforme
+ce 6e jour d'octobre 2020.
+François Brunet, réviseur
+RÉFÉRENCE :
+2020 CCI 56
+Nos DES DOSSIERS DE LA COUR :
+2015-5163(GST)G, 2017-2344(GST)G
+INTITULÉ :
+L’INSTITUT CANADIEN D’INFORMATION JURIDIQUE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 20 novembre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge en chef adjointe Lucie Lamarre
+DATE DU JUGEMENT :
+Le 17 juillet 2020
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Ron Choudhury
+Me David W. Chodikoff
+Avocats de l’intimée :
+Me Cédric Renaud Lafrance
+Me Frédéric Morand
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Me Ron Choudhury
+Me David W. Chodikoff
+Cabinet :
+Miller Thomson S.E.N.C.R.L., s.r.l.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+ANNEXE A
+2015-5163(GST)G
+2017-2344(GST)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+L’INSTITUT CANADIEN D’INFORMATION JURIDIQUE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+EXPOSÉ CONJOINT PARTIEL DES FAITS
+Miller Thomson S.E.N.C.R.L., s.r.l.
+Scotia Plaza
+40, rue King Ouest, bureau 5800
+Toronto (Ontario) M5H 3S1
+Procureur général du Canada
+Ministère de la Justice du Canada
+Services du droit fiscal
+99, rue Bank, 11e étage
+Ottawa (Ontario) K1A 0H8
+Me David W. Chodikoff
+Me Ron Choudhury
+Téléphone : 416-595-8626
+Télécopieur : 416-595-8695
+Me Cédric Renaud Lafrance
+Me Frédéric Morand
+Téléphone : 613-670-6541
+Télécopieur : 613-941-2293
+Avocats de l’appelant
+Avocats de l’intimée
+2015-5163(GST)G
+2017-2344(GST)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+L’INSTITUT CANADIEN D’INFORMATION JURIDIQUE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+EXPOSÉ CONJOINT PARTIEL DES FAITS
+Les parties à la présente instance admettent, uniquement aux fins de l’espèce, la véracité des faits mentionnés dans le présent exposé conjoint partiel des faits, et reconnaissent que leur admission doit produire le même effet que si les faits avaient été officiellement démontrés et retenus par la Cour comme véridiques.
+Activités de l’appelant
+Rôle et origine
+L’appelant a été créé par la Fédération des ordres professionnels de juristes du Canada (la « Fédération ») en 2001.
+L’appelant est une société sans capital-actions constituée aux termes de la partie II de la Loi sur les corporations canadiennes et qui a poursuivi ses activités aux termes de la Loi canadienne sur les organisations à but non lucratif, L.C. 2009, ch. 23.
+La Fédération est l’organisme coordonnateur national de chacun des 14 ordres professionnels de juristes des provinces et territoires du Canada (les « membres »).
+L’unique membre de l’appelant est la Fédération.
+Les membres ont un intérêt indirect dans l’appelant, par l’intermédiaire de la Fédération.
+La Fédération est constituée en société aux termes de la Loi canadienne sur les organisations à but non lucratif.
+Les membres paient un droit d’adhésion annuel à la Fédération.
+L’appelant est un membre fondateur du Mouvement pour l’accès libre au droit fort de 40 pays membres.
+Au cours de toute la période pertinente, les activités de l’appelant étaient régies par le règlement administratif et l’accord de gouvernance suivants :
+a) le règlement administratif no 1-2 daté du 19 juillet 2010;
+b) l’accord de gouvernance de CanLII daté du 19 juillet 2010 (l’» accord de gouvernance »).
+L’appelant est un organisme à but non lucratif aux termes de la partie IX de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15 (la Loi).
+L’appelant est inscrit aux fins de la Loi sous le numéro 882963911 RT0001.
+La base de données juridiques
+Les particuliers qui utilisent la base de données juridiques ont consenti, en tant qu’» utilisateurs », aux conditions d’utilisation de l’appelant.
+L’information sur les activités a aidé l’appelant à effectuer le suivi des renseignements suivants :
+a) le nombre de visiteurs;
+b) les pages les plus souvent consultées;
+c) la technologie utilisée par les utilisateurs;
+d) les sites de référence;
+e) le pays d’origine des utilisateurs.
+Les statistiques relativement à la base de données juridiques de l’appelant, pour les années civiles 2012, 2013 et 2014, étaient les suivantes :
+[EN BLANC]
+2012
+2013
+2014
+Visiteurs uniques (estimation)
+282 497
+298 909
+348 519
+Visites
+7 841 825
+8 623 210
+8 712 630
+Pages consultées
+169 916 921
+322 326 188
+676 971 872
+L’appelant n’a pas recueilli les données personnelles des utilisateurs sans leur consentement.
+Les données des utilisateurs qui ont été recueillies n’ont jamais été communiquées à des tiers, sauf si la loi exigeait une telle communication ou si celles-ci étaient nécessaires pour empêcher une utilisation inappropriée ou non autorisée de la base de données juridiques.
+Cotisation du ministre établie à l’égard de l’appelant
+Appel 2015-5163(GST)G
+L’appel porte sur les crédits de taxe sur les intrants (« CTI ») suivants que l’appelant a demandés :
+Période de déclaration
+CTI demandés
+Du 1er avril au 30 juin 2013
+75 398,87 $
+Du 1er juillet au 30 septembre 2013
+78 360,63 $
+Du 1er octobre au 31 décembre 2013
+88 803,68 $
+Du 1er janvier au 31 mars 2014
+78 987,95 $
+Du 1er avril au 30 juin 2014
+173 204,45 $
+Du 1er juillet au 30 septembre 2014
+254 875,41 $
+Du 1er octobre au 31 décembre 2014
+86 301,19 $
+Par voie d’avis de cotisation datés du 29 novembre 2013, du 6 juin 2014, du 26 août 2014, du 26 novembre 2014 et du 12 février 2015, le ministre a refusé les CTI demandés par l’appelant (les « premières cotisations »).
+Dans les avis d’opposition datés du 25 février 2014 et du 5 mars 2015, l’appelant a contesté les premières cotisations.
+Le ministre a confirmé les premières cotisations dans un avis de confirmation daté du 31 août 2015.
+Appel 2017-2344(GST)G
+L’appelant a demandé les CTI suivants :
+Période de déclaration
+CTI demandés
+Du 1er janvier au 31 mars 2015
+75 465,10 $
+Du 1er avril au 30 juin 2015
+86 485,83 $
+Par voie d’avis de cotisation datés du 30 novembre 2015 et du 24 mai 2016, le ministre a refusé les CTI demandés par l’appelant (les « deuxièmes cotisations »).
+Dans les avis d’opposition datés du 30 janvier 2016 et du 30 juin 2016, l’appelant a contesté les deuxièmes cotisations.
+Le ministre a confirmé les premières cotisations dans un avis de confirmation daté du 31 mars 2017.
+Documents
+En outre, l’authenticité des documents figurant dans le recueil conjoint des documents n’est pas contestée par les parties.
+Portée de l’exposé conjoint partiel des faits
+Chacune des parties se réserve le droit de présenter de nouveaux éléments de preuve au procès pour compléter les faits ici reconnus, étant entendu que ces éléments de preuve ne peuvent pas contredire les faits ainsi reconnus.
+FAIT dans la ville de Toronto (Ontario) ce 5e jour de novembre 2019.
+Me David W. Chodikoff
+Me Ron Choudhury
+Miller Thomson S.E.N.C.R.L., s.r.l.
+Scotia Plaza
+40, rue King Ouest, bureau 5800
+Toronto (Ontario) M5H 3S1
+Téléphone : 416-565-8626
+Télécopieur : 416-595-8695
+FAIT dans la ville d’Ottawa (Ontario) ce 6e jour de novembre 2019.
+LE PROCUREUR GÉNÉRAL DU CANADA
+Ministère de la Justice
+Services du droit fiscal
+99, rue Bank, bureau 1100
+Ottawa (Ontario) K1A 0H8
+Par : Me Cédric Renaud Lafrance
+Me Frédéric Morand
+Téléphone : 613-670-6541 / 6483
+Télécopieur : 613-941-2293
+DESTINATAIRE : Cour canadienne de l’impôt
+200, rue Kent
+4e étage
+Ottawa (Ontario)
+K1A 0M1

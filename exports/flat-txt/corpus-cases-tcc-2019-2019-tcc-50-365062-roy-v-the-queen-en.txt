@@ -1,0 +1,153 @@
+Title: Roy v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/365062/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-50-365062-roy-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-03-18
+
+# Roy v. The Queen
+
+- Citation: 2019 TCC 50
+- Decision date: 2019-03-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4304, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roy v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-03-18
+Neutral citation
+2019 TCC 50
+File numbers
+2017-2709(IT)I
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Notes
+A correction was made on March 18, 2019.
+Decision Content
+Docket: 2017-2709(IT)I
+BETWEEN:
+SHAIBAL THEODORE ROY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on December 11, 2018, at Toronto, Ontario and
+written submissions made on January 15 and February 25, 2019.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Derek Edwards
+JUDGMENT
+The appeal from the reassessments for the 2013, 2014 and 2015 taxation years made under the Income Tax Act is allowed and the matter is referred back to the Minister for reconsideration and reassessment, in accordance with the attached Reasons for Judgment.
+Costs are awarded against the Respondent and fixed at $1,000 (inclusive of any disbursements) payable forthwith.
+Signed at Ottawa, Canada, this 5th day of March 2019.
+“Guy R. Smith”
+Smith J.
+Citation: 2019 TCC 50
+Date: 20190318
+Docket: 2017-2709(IT)I
+BETWEEN:
+SHAIBAL THEODORE ROY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+[These Amended Reasons for Judgment are issued in substitution for the Reasons for Judgment signed on March 5, 2019.]
+Smith J.
+I. Introduction
+[1] This is an appeal under the Informal Procedure, from assessments made by the Minister of National Revenue (the “Minister”) with respect to the 2013, 2014 and 2015 taxation years as confirmed by a Notice of Confirmation dated March 27, 2017. More specifically, the Minister reduced the Appellant’s Registered Retirement Savings Plan (“RRSP”) deductions on the basis that he had unused RRSP contributions from prior years of $2,000, which the Minister allowed for 2013, thus reducing the balance to nil. The Minister took the position that the Appellant did not carry forward any unused contributions in 2014 and 2015 and did not make any actual contributions to his RRSP such that he was not entitled to a deduction for those years.
+[2] The Appellant does not agree. He argues that he made a substantial contribution to his RRSP in 2006 and that, taking into consideration the RRSP deductions claimed from 2006 to 2012, he had unused RRSP contributions which he claimed within the deduction limit for each of the subject taxation years.
+[3] The only issue to be determined in this appeal is whether the Appellant had unused RRSP contributions in excess of $2,000 at the commencement of the 2013 taxation year.
+II. Background
+[4] The Appellant testified on his own behalf. It is his position and the Minister acknowledges, that he began the 2006 taxation year with unused RRSP contributions of $1,856. He contributed an additional $34,000 during the first 60 days of 2006 and an additional $9,000 during the last 10 months of 2006. As a result, his total unused contributions were $44,856.
+[5] The Minister also acknowledges that the Appellant claimed RRSP deductions within the RRSP deduction limits for the ensuing years as follows:
+2006
+$2,683
+2007
+$3,028
+2008
+$3,054
+2009
+$3,311
+2010
+$2,518
+2011
+$3,603
+2012
+Total:
+$3,298
+$21,495
+[6] It is not disputed that the Appellant’s contributions in 2006 exceeded his “RRSP deduction limit” as that term is defined in subsection 146(1) of the Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.), (the “Act”). The Appellant understood this to be a lesser of the “RRSP dollar limit” for the taxation year and 18% of his earned income in the previous year less his pension adjustment.
+[7] The Appellant claims that the RRSP excess contributions were invested in securities that quickly became worthless. He acknowledges that he made some very bad investment decisions. As a result, except for the sum of $1,090 withdrawn in 2008, he was unable to withdraw the excess contributions and the RRSP account was eventually closed in March 2012.
+[8] In the meantime, the Appellant had not reported his excess contributions by filing a T1‑OVP return, also known as an Individual Tax Return for RRSP, PRPP and SPP Excess Contributions. As a result he was eventually assessed a tax pursuant to Part X.1 of the Act. Subsection 204.1(2.1) imposes a tax calculated on a monthly basis at the rate of 1% of the cumulative excess contributions:
+204.1 (2.1) Where, at the end of any month after December, 1990, an individual has a cumulative excess amount in respect of registered retirement savings plans, the individual shall, in respect of that month, pay a tax under this Part equal to 1% of that cumulative excess amount.
+[9] The Appellant was also charged late filing penalties and arrears. He eventually filed an application for taxpayer relief pursuant to subsection 204.1(4):
+204.1 (4) Where an individual would, but for this subsection, be required to pay a tax under subsection 204.1(1) or 204.1(2.1) in respect of a month and the individual establishes to the satisfaction of the Minister that
+(a) the excess amount or cumulative excess amount on which the tax is based arose as a consequence of reasonable error, and
+(b) reasonable steps are being taken to eliminate the excess,
+the Minister may waive the tax.
+(My Emphasis.)
+[10] The Appellant’s relief application was accepted. The Minister responded by letter dated June 19, 2015, indicating that she was satisfied that the “excessive contribution arose due to reasonable error” and that “your excessive contribution has been eliminated”. On that basis, the Minister confirmed the waiver of the subject tax, penalties and interest in the amount of $39,193.08. No comment or explanation was provided as to what effect, if any, this would have on his unused RRSP contributions on a going-forward basis.
+[11] The Appellant produced a copy of his Notice of Assessment for the 2013 taxation year dated June 5, 2014. This was his initial assessment. It indicated a deduction limit of $3,298 for 2013 and $23,439 of unused RRSP contributions available for 2014. According to the Appellant, the latter amount reflected, more or less, the difference between his RRSP contributions in 2006 and the RRSP deductions claimed from 2006 to 2012, as noted above.
+[12] However, the Notice of Reassessment for the 2013 taxation year indicated that the Appellant “had unused contributions from prior years of $2,000 (…)”. The only explanation provided in the Notice of Confirmation dated March 27, 2017 was as follows:
+A review of the facts and documents indicates that on April 22, 2016, the pension adjustment of $6,027.00 was added to your 2003 tax return along with additional income. These adjustments allowed for the recalculation of your yearly Registered Retirement Savings Plan (RRSP) deduction limit for the subsequent years (2004 to 2015).
+[13] This was clearly an error and the Appellant produced a printout from the Canada Revenue Agency (“CRA”) (Exhibit A‑2) indicating that a pension adjustment of $6,027 had in fact been taken into consideration in the calculation of his RRSP deduction limit for 2003. In a letter dated September 22, 2016, the Minister acknowledged that the adjustment was incorrect.
+[14] At the conclusion of the hearing, the Court requested written submissions and in particular, requested a full accounting from CRA of the Appellant’s RRSP contributions.
+III. Analysis
+[15] In written submissions, the Respondent argues that the Appellant “should have paid tax on the excess contributions to the RRSP pursuant to section 3 of the Act” and that the loss in the actual monetary value of the investments in the RRSP “does not impact the Appellant’s requirement to pay tax and should not be considered”. I do not agree with the Respondent’s position.
+[16] Section 3 of the Act and more specifically paragraph 56(1)(h) and subsection 146(8), provide that RRSP “withdrawals” are to be included in income (Andaluz v. The Queen, 2015 TCC 165, para. 10). Though it is not relevant in this instance, it is worth noting that subsection 146(8.2) is a relieving provision that allows a taxpayer to withdraw excess contributions made inadvertently within one year and to be entitled to an off‑setting deduction (Vale v. the Queen, 2004 TCC 107) such that the withdrawal is not effectively subject to tax. But excess contributions withdrawn after one year must be included in income (Pelletier v. The Queen, 2006 TCC 237).
+[17] The Respondent explains that the Appellant’s total contributions available to be carried forward “were adjusted so that the unused RRSP contributions do not reflect the amount that is no longer available to withdraw” as a result of the loss in value and closure of the account in 2012. The Respondent adds that the “Appellant had $21,439 in excess contributions at the end of 2012” and that his contributions were reduced by that amount “to reflect the reduction in the RRSP’s value”, subject to “an allowance” for over-contributions of $2,000.
+[18] While paragraph 204.1(1.1)(b) does allow cumulative excess contributions to an RRSP of up to $2,000, the Respondent has not pointed to any statutory provision which allows her to essentially set-off or eliminate unused RRSP contributions on the basis that they represent excess contributions that cannot be withdrawn. The Minister’s remedy appears to be limited to the 1% tax and penalty for failure to file the T1‑OVP form within 90 days from the end of the taxation year.
+[19] The Respondent argues that subsections 204.1(1) and (2) provide “that excess contributions are not eliminated until they are withdrawn from the account”. That may be so in general, but in this instance it is clear that the excess contributions were not in fact withdrawn, for reasons set out above, and more importantly that the Minister accepted the Appellant’s relief application, concluding that “your excessive contributions have been eliminated”.
+[20] The Minister’s decision, as set out in the letter of June 19, 2015, referenced above, can best be described as “water‑under‑the‑bridge”. It is conclusive and binding on the Minister and there appears to be no basis for the Respondent’s argument in this instance that, having consented to the Appellant’s relief application, the Minister may arbitrarily eliminate unused RRSP contributions.
+[21] The Respondent concludes by indicating that the “Appellant never paid taxes under Part X.1 for the excess contribution” and that it “would be unfair for this Court to allow him to reduce his taxable income in future years while never having paid taxes on the excess contribution as taxable income.” (My Emphasis).
+[22] This is a curious argument since the Respondent acknowledges that there is no legislative provision that specifically prevents a taxpayer from claiming RRSP deductions with respect to excess contributions (provided they are within the “RRSP deduction limit”) and the Respondent has failed to point to any legislative provision that would allow the Minister to eliminate unused RRSP contributions on the basis that they represent excess contributions.
+[23] Moreover, the Respondent must know that the Court does not make decisions on the basis of fairness (Barel v The Queen, 2009 TCC 156 and Lapierre v The Queen, 2019 TCC 18) and that its role is not to “interpret taxation provisions in a tendentious or result-oriented way to enhance the federal treasury” (Quinco Financial Inc. v. Canada, 2014 FCA 108, para. 9).
+[24] I therefor conclude that there is no legal basis for the Minister’s reassessment. As a result, I find that the Appellant had unused RRSP deductions of $26,737 in 2012. Having claimed a deduction of $3,298 for the 2012 taxation year, I find that the Appellant had unused RRSP contributions of $23,439 to deduct for the 2013, 2014, 2015 and ensuing taxation years. This would include the $2,000 allowance referenced above.
+[25] This has been a long and frustrating battle for the Appellant, to put it mildly. In his written submissions, he requests various measures against the CRA, including penalties and compensation for “lost opportunity costs”, all of which relate to CRA conduct and are tantamount to damages that this Court does not have the jurisdiction to award.
+[26] However, the Court does have the authority to award costs in this appeal. In this instance, the Court is particularly concerned that the Respondent has not been able to articulate a clear legal position and has relied on vague notions of fairness. The Court is especially concerned that CRA’s accounting of the Appellant’s RRSP contributions (requested at the conclusion of the hearing) was again clearly erroneous in that it failed to reflect the contributions made in 2006.
+[27] As a result of the foregoing, and in the exercise of its discretionary powers, the Court hereby awards costs against the Respondent fixed in the amount of $1,000 (inclusive of any disbursements) payable forthwith.
+[28] The appeal is allowed and the reassessments for the 2013, 2014 and 2015 taxation years are referred back to the Minister for reconsideration and reassessment on the basis that the Appellant was entitled to the RRSP deductions as claimed during those years.
+Signed at Ottawa, Canada, this 18th day of March 2019.
+“Guy R. Smith”
+Smith J.
+CITATION:
+2019 TCC 50
+COURT FILE NO.:
+2017-2709(IT)I
+STYLE OF CAUSE:
+SHAIBAL THEODORE ROY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 11, 2018
+AMENDED REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+March 5, 2019
+DATE OF AMENDED REASONS FOR JUDGMENT:
+March 18, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Derek Edwards
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

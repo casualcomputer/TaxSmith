@@ -1,0 +1,270 @@
+---
+title: "Kichton Contracting Ltd. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521222/index.do"
+last_modified: "2024-02-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 20"
+citation2: ""
+neutral_citation: "2024 CCI 20"
+decision_date: "2024-02-15"
+language: "fr"
+item_id: "521222"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5762
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:44:57.864000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b73d8f06246566f6f5ca2359e3b60a43266eb502c13785c63bac79be80a75eef"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kichton Contracting Ltd. c. M.R.N.
+
+- Citation: 2024 CCI 20
+- Decision date: 2024-02-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5762, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kichton Contracting Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-02-15
+Référence neutre
+2024 CCI 20
+Numéro de dossier
+2021-883(EI)
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2021-883(EI)
+ENTRE :
+KICHTON CONTRACTING LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+RUSSELL GISELBRECHT,
+intervenant.
+[traduction française officielle]
+Appel entendu les 8 et 9 mars 2023, à Edmonton (Alberta) et par téléconférence le 24 mai 2023.
+Devant : l’honorable juge suppléant Gaston Jorré
+Comparutions :
+Avocats de l’appelante :
+Me Gergely Hegedus
+Me Kurtis Letwin
+Avocate de l’intimé :
+Me Allison Murray Banerjee
+Pour l’intervenant :
+L’intervenant lui-même
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel est accueilli et la décision du ministre du Revenu national est modifiée pour tenir compte de ce qui suit :
+Russ Giselbrecht n’occupait pas un emploi assurable pour la période du 7 janvier 2019 au 20 février 2020.
+Aucuns dépens ne sont accordés[1].
+Signé à Ottawa, Canada, ce 15e jour de février 2024.
+« G. Jorré »
+Le juge Jorré
+Traduction certifiée conforme
+ce 23e jour de février 2024.
+Liette Girard
+Référence : 2024 CCI 20
+Date : 20240215
+Dossier : 2021-883(EI)
+ENTRE :
+KICHTON CONTRACTING LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+RUSSELL GISELBRECHT,
+intervenant.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction
+[1] Kichton Contracting, l’appelante, interjette appel d’une détermination du ministre du Revenu national selon laquelle Russ Giselbrecht, l’intervenant, occupait un emploi assurable pendant la période du 7 janvier 2019 au 20 février 2020[2].
+[2] L’intervenant a travaillé pour l’appelante de 2002 jusqu’au 20 février 2022.
+[3] Rien n’indique que l’intervenant était un entrepreneur indépendant plutôt qu’un employé.
+[4] La question à trancher en l’espèce est celle de savoir si l’intervenant était exclu de l’emploi assurable aux fins de la Loi sur l’assurance-emploi en raison de l’alinéa 5(2)i) de cette Loi. Il est libellé ainsi :
+N’est pas un emploi assurable :
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+[5] Pour l’application de l’alinéa 5(2)i), il faut tenir compte du paragraphe 5(3) de cette Loi :
+Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[Non souligné dans l’original.]
+[6] Le paragraphe 251(1) de la Loi de l’impôt sur le revenu indique ce qui suit :
+Pour l’application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+b) […][3];
+c) dans les autres cas, la question de savoir si des personnes non liées entre elles n’ont aucun lien de dépendance à un moment donné est une question de fait.
+[7] Rien ne permet de dire que l’appelante et l’intervenant sont des personnes liées au sens de l’alinéa 251(1)a). Par conséquent, conformément à l’alinéa 251(1)c), il faut déterminer si l’appelante et l’intervenant n’ont aucun lien de dépendance pendant la période en cause[4].
+[8] S’ils n’ont aucun lien de dépendance, l’affaire est close et l’intervenant occupe un emploi assurable.
+[9] S’ils ont un lien de dépendance, l’alinéa 5(3)b) de la Loi sur l’assurance‑emploi ne s’applique pas étant donné que l’appelante et l’intervenant ne sont pas des personnes liées.
+[10] Toutefois, bien que le point de vue soit différent, les considérations énoncées à l’alinéa 5(3)b) de la Loi sur l’assurance-emploi s’appliquent pour déterminer si les parties n’ont aucun lien de dépendance[5].
+Les faits
+[11] L’appelante a été fondée en 1963 par Mike Kichton. La propriété a évolué au fil du temps et, au cours de la première moitié des années 1990, Fred Kichton et Mike Kichton Junior ont pris le contrôle de la société. En 2002, Fred Kichton en était l’unique propriétaire[6].
+[12] L’appelante fournit des services de terrassement commercial, industriel et résidentiel et des services connexes.
+[13] L’intervenant a commencé à travailler pour l’appelante en 2002 pendant les mois d’été. Il a commencé par faire fonctionner de l’équipement; il se souvient que, même durant son premier été, il était contremaître opérationnel. Vers 2006, Fred a demandé à l’intervenant de commencer à travailler à temps plein. Par la suite, il est devenu chargé de projet principal, l’un des postes les plus élevés de l’entreprise.
+[14] En 2007, l’intervenant est devenu actionnaire. Il a alors acquis 10 % des actions de l’appelante.
+[15] Fred Kichton était le président de la société[7].
+[16] L’intervenant n’est jamais devenu administrateur.
+[17] L’intervenant et Fred s’entendaient très bien. L’intervenant a décrit Fred [traduction] « comme une figure paternelle » avec une bonne relation qui s’est poursuivie jusqu’à la fin de 2019. Il a été congédié le 20 février 2020[8].
+[18] Bien que la date ne soit pas claire, à un certain moment avant avril 2013, Fred a commencé à planifier et à mettre en œuvre des dispositions en vue de sa retraite éventuelle et de la cession de l’entreprise de l’appelante à des personnes clés de l’entreprise, y compris son fils, Richard Kichton, et l’intervenant.
+[19] Richard et Fred Kichton étaient des personnes liées au sens de la Loi de l’impôt sur le revenu[9].
+[20] Une partie du départ de Fred de l’entreprise concernait un rachat des actions de Fred par l’appelante. Bien que la preuve ne révèle pas les détails de la transaction, il a entraîné le paiement d’une somme de 7,4 millions de dollars à sa société, Fredco. Ce prêt, le prêt à Fredco, est mentionné dans la convention unanime des actionnaires[10].
+[21] Le prêt était remboursable sur sept ans, ce qui donne lieu à un paiement final prévu en 2020.
+[22] Comme je l’ai mentionné, Fred Kichton était le président de l’appelante. De plus, jusqu’à ce que le prêt soit remboursé, la convention unanime des actionnaires conférait à Fred des pouvoirs très importants sur la société.
+[23] Conformément à la convention unanime des actionnaires, Fredco pouvait [traduction] « […] opposer son veto à toute résolution ou décision des administrateurs ou de tout dirigeant ou employé de la société, antérieurement ou sur le point de l’être, ou abroger ou par ailleurs infirmer une telle résolution ou décision […][11] ».
+[24] Les dividendes ne pouvaient être déclarés sans le consentement de Fred[12].
+[25] À la date de la prise d’effet de la convention unanime des actionnaires, le 2 avril 2013, Fred n’avait plus d’actions de la société; toutefois, lui-même et sa société, Fredco, étaient signataires de la convention.
+[26] Les actionnaires à cette date étaient : 1) l’intervenant qui, directement ou par l’entremise d’une société[13] qu’il possédait conjointement avec son épouse, détenait 20 % des actions de l’appelante, 2) Richard Kichton qui, directement ou par l’entremise d’une société, détenait 25 % des actions de l’appelante, 3) Christopher Dirks qui, directement ou par l’entremise d’une société, détenait 25 % des actions de l’appelante et 4) Laurie Conrad qui, directement ou par l’entremise d’une société, détenait 20 % des actions de l’appelante. De plus, Matus Toth et Cody Williams en détenaient chacun 5 %[14].
+[27] Les propriétaires étaient également des employés clés.
+[28] Selon l’avis d’appel, l’intervenant et les autres actionnaires avaient la possibilité de déterminer leurs propres salaires et le montant des dividendes qu’ils recevraient. Cela a été admis par l’intimé, mais pas par l’intervenant[15].
+[29] Bien que l’intimé ait admis ces allégations, les hypothèses correspondantes de l’intimé ont été formulées quelque peu différemment. Elles indiquent que l’intervenant et les autres actionnaires de l’appelante ont collectivement déterminé les conditions d’emploi de l’intervenant[16].
+[30] En ce qui concerne le salaire, même si la preuve n’est pas tout à fait cohérente, j’en suis arrivé à la conclusion qu’il y a eu une sorte de prise de décision largement collective concernant les propriétaires et Fred pour ce qui est des salaires et des dividendes des propriétaires employés, y compris l’intervenant. Je ne doute pas que, compte tenu des droits de Fred conformément à la convention unanime des actionnaires[17] et de son rôle de président, ses opinions auraient eu beaucoup de poids dans ces discussions[18].
+[31] L’intervenant s’est contenté d’accepter les décisions qui étaient prises concernant la répartition optimale du salaire, des primes ou des dividendes que lui‑même et les autres propriétaires recevraient[19].
+[32] En effet, l’intervenant a convenu en contre-interrogatoire que lui-même et les autres employés recevaient un salaire et/ou des dividendes variables, étant entendu qu’une rémunération moins élevée dans les mauvaises années était compensée par un salaire et/ou des dividendes variables dans les bonnes années[20].
+[33] L’intervenant était dans une position unique. Tous les chargés de projet relevaient de lui, y compris Grant Campbell[21].
+[34] Conformément à la convention unanime des actionnaires, tout actionnaire qui cesse d’être un actionnaire est réputé avoir démissionné de son emploi sans droit de compensation[22]. L’intervenant était un employé de la société depuis assez longtemps avant de signer la convention unanime des actionnaires et il a donc accepté cette condition.
+[35] La convention unanime des actionnaires dispose que la société peut exiger des actionnaires qu’ils lui prêtent de l’argent[23] et qu’ils fournissent des garanties de la société aux banques et aux prêteurs[24].
+[36] Vers 2010, l’appelante a fait des travaux de terrassement pour une autre société[25] qui développait un lotissement. L’appelante a été payée avec des lots dans le lotissement.
+[37] Certains de ces lots ont été transférés aux propriétaires et à Fred, bien que les transferts n’aient pas tous été effectués dans la même année. Les propriétaires ont fini par vivre dans ce lotissement.
+[38] Le transfert des lots aux employés s’est fait par la déclaration de primes équivalant à la valeur du lot. Dans le cas de l’intervenant, cela s’est produit en 2014[26].
+Analyse
+[39] Il est bien accepté dans le contexte de l’impôt sur le revenu que la question de savoir si des personnes qui ne sont pas liées n’ont entre elles aucun lien de dépendance soit examinée en tenant compte des questions suivantes[27] :
+un seul cerveau dirige-t-il les négociations pour les deux parties à une transaction?
+les parties à une transaction agissent-elles de concert sans intérêts distincts?
+y a-t-il un contrôle de fait[28]?
+[40] Notre Cour reconnaît qu’il est difficile d’appliquer ce genre d’analyse, laquelle a été élaborée pour l’examen des transactions aux fins de l’impôt sur le revenu, dans le contexte de l’examen de la question de savoir si les personnes qui entretiennent des relations de travail n’ont aucun lien de dépendance avec leur employeur[29].
+[41] Il est également admis qu’il est possible d’examiner toutes les circonstances de la relation d’emploi pour déterminer si les conditions de la relation d’emploi sont essentiellement semblables à celles dont conviendraient des parties sans lien de dépendance[30].
+[42] Si les conditions d’emploi sont très éloignées de ce à quoi on peut s’attendre entre des parties sans lien de dépendance, c’est une forte indication de l’existence d’un lien de dépendance[31].
+[43] Cet exercice peut être difficile. Si un particulier occupe un poste qui fait partie de postes très similaires, l’exercice peut être assez simple, mais plus le poste est unique, plus l’exercice est difficile.
+[44] Les parties ont donné des exemples particuliers de certaines conditions qui étaient ou n’étaient pas, selon les observations, conformes à un arrangement sans lien de dépendance.
+[45] Pour déterminer si les conditions sont essentiellement semblables à celles qui existeraient dans une relation sans lien de dépendance, il est important de garder à l’esprit deux facteurs.
+[46] Premièrement, il faut comparer des postes essentiellement similaires. On s’attendrait à ce que les conditions d’un opérateur d’équipement soient différentes de celles d’un chargé de projet, par exemple. Si certains types de compétences sont en pénurie, cela peut entraîner des niveaux de rémunération différents pour ces postes par rapport à des postes par ailleurs semblables qui ne requièrent pas ces compétences et qui ne sont pas en pénurie.
+[47] De même, les différences entre les employés qui sont liées à leur rôle dans une société ou qui n’augmentent pas leur rémunération, que ce soit en salaire ou en avantages sociaux, ne sont pas utiles à cet exercice[32].
+[48] Deuxièmement, si une différence avec d’autres employés résulte uniquement du fait qu’il est un actionnaire, ce n’est pas une condition d’emploi.
+[49] Ainsi, le fait que l’intervenant a consenti les prêts d’actionnaires à la société et a fourni des garanties bancaires, ce que la compagnie pouvait exiger conformément à de la convention unanime des actionnaires, ne fait pas partie de la relation d’emploi[33].
+[50] En ce qui concerne les critères traditionnels, d’après la preuve, je ne vois pas comment on peut dire qu’un esprit commun dirige à la fois l’appelante et l’intervenant, fixant les conditions d’emploi de l’intervenant. De même, je ne vois pas comment on pourrait conclure que l’appelante ou l’intervenant exerce un contrôle de fait sur l’autre.
+[51] En ce qui concerne le critère restant, les propriétaires employés, y compris l’intervenant, et Fred agissent de concert pour fixer la rémunération des propriétaires employés et pour ce qui est de la répartition entre la rémunération des propriétaires et les dividendes.
+[52] Ce faisant, ils agissent sans intérêts distincts parce qu’ils tiennent compte des intérêts des autres en tant qu’employés et actionnaires et qu’ils agissent non seulement pour leur propre avantage individuel, mais aussi pour celui des autres dans un contexte de réciprocité[34].
+[53] Cela mène à la conclusion que l’appelante et l’intervenant avaient un lien de dépendance.
+[54] En ce qui concerne les conditions d’emploi, il y a des facteurs qui n’ont pas été discutés précédemment et qui n’indiquent pas clairement l’une ou l’autre des situations.
+[55] Par exemple, l’intervenant avait un salaire inférieur à celui de Grant Campbell, une personne qui relevait de l’appelante. Toutefois, si l’on tient compte du salaire et des primes, l’intervenant a clairement reçu une rémunération plus élevée au cours des années que nous pouvons comparer. Ce n’est pas un résultat inhabituel[35].
+[56] De plus, il semble que l’intervenant avait ce qu’il a appelé une allocation de dépenses de 25 000 $. Si je comprends bien la preuve, cela signifiait qu’il pouvait utiliser à des fins personnelles une partie de l’équipement de terrassement de l’appelante pour une certaine utilisation correspondant à ce montant. Il a utilisé l’équipement. Il s’agit d’un avantage inhabituel, mais certains avantages sont liés au type d’entreprise dans laquelle on travaille. Il a de la valeur et augmente sa rémunération, mais il ne me semble pas évident que la rémunération globale soit excessive au point de démontrer que les conditions ne pourraient pas être des conditions de pleine concurrence[36].
+[57] Selon certains éléments de preuve, il y avait des modalités de travail un peu plus souples en ce qui concerne le temps et le lieu de travail de l’intervenant. Il n’est pas rare qu’un employeur ait affaire à un employé chevronné de confiance tant que le travail est accompli et que la personne est physiquement présente lorsque l’interaction en personne est nécessaire. Des parties sans lien de dépendance auraient certainement pu s’entendre sur ces modalités[37].
+[58] Il y a trois facteurs qui ne sont pas compatibles avec un contrat essentiellement similaire à celui dont conviendraient des personnes sans lien de dépendance.
+L’acceptation par l’intervenant d’une rémunération très variable en partant du principe qu’une rémunération moins élevée dans les mauvaises années de l’entreprise sera compensée par une rémunération ou des dividendes plus élevés dans les bonnes années[38].
+Le fait que l’intervenant, en tant qu’employé, a son mot à dire sur la partie patronale de l’entente même si c’est dans une mesure limitée.
+Accepter le licenciement automatique d’un employé qui cesse de détenir des actions n’est pas quelque chose qu’un employé sans lien de dépendance ferait[39].
+[59] Ces facteurs m’amènent à conclure que, dans l’ensemble, les modalités de ce contrat ne sont pas essentiellement semblables à celles d’un contrat sans lien de dépendance.
+Conclusion
+[60] Par conséquent, l’intervenant et l’appelante avaient entre eux un lien de dépendance et l’appel sera accueilli et :
+La décision du ministre du Revenu national est modifiée pour tenir compte du fait que Russ Giselbrecht n’occupait pas un emploi assurable pour la période du 7 janvier 2019 au 20 février 2020.
+Signé à Ottawa, Canada, ce 15e jour de février 2024.
+« G. Jorré »
+Le juge Jorré
+Traduction certifiée conforme
+ce 23e jour de février 2024.
+Liette Girard
+RÉFÉRENCE :
+2024 CCI 20
+NO DU DOSSIER DE LA COUR :
+2021-883(EI)
+INTITULÉ :
+KICHTON CONTRACTING LTD. ET LE MINISTRE DU REVENU NATIONAL ET RUSSELL GISELBRECHT
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Les 8 et 9 mars 2023, à Edmonton (Alberta), et par téléconférence le 24 mai 2023.
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Gaston Jorré
+DATE DU JUGEMENT :
+Le 15 février 2024
+COMPARUTIONS
+Avocats de l’appelante :
+Me Gergely Hegedus
+Me Kurtis Letwin
+Avocate de l’intimé :
+Me Allison Murray Banerjee
+Pour l’intervenant :
+L’intervenant lui-même
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Gergely Hegedus
+Me Kurtis Letwin
+Cabinet :
+Dentons Canada LLP
+Ottawa, Canada
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Voir 0808498 BC LTD. c. M.N.R. 2023 CCI 53, au paragraphe 99.
+[2] Comme tous les appels en matière d’assurance-emploi, le présent appel est instruit selon une forme modifiée de la procédure informelle. Voir l’article 18.29 de la Loi sur la Cour canadienne de l’impôt et les Règles de procédure de la Cour canadienne de l’impôt à l’égard de la Loi sur l’assurance-emploi. Parmi les dispositions applicables se trouve le paragraphe 18.15(3) qui indique ce qui suit : […] Par dérogation à la loi habilitante, la Cour n’est pas liée par les règles de preuve lors de l’audition de tels appels; ceux-ci sont entendus d’une manière informelle et le plus rapidement possible, dans la mesure où les circonstances et l’équité le permettent.
+[3] Cet alinéa concerne les contribuables et les fiducies personnelles et ne s’applique pas au présent appel.
+[4] Les faits applicables antérieurs à la période fournissent le contexte des relations et peuvent être pris en compte pour rendre la décision.
+[5] Voir la discussion ci-dessous.
+[6] Transcription de l’audience du 8 mars 2023, p. 177.
+[7] Transcription de l’audience du 8 mars 2023, p. 17.
+[8] Transcription du 8 mars 2023, p. 63.
+[9] Aucune autre personne ayant un lien avec les questions en litige dans le présent appel n’était liée au sens de la LIR.
+[10] Voir la transcription de l’audience du 8 mars 2023, p. 66 et 167, ainsi que la définition de [traduction] « prêts à Fredco » à la page 4 de la pièce R-1, onglet 4.
+[11] Voir l’article 3.02.02 de la convention unanime des actionnaires, à la page 12 de la pièce R-1, onglet 4, ainsi que l’alinéa 1.01.01(ff), à la page 6 de cette convention. D’autres dispositions de cette entente confèrent à Fred d’autres pouvoirs spéciaux, notamment les articles 6.01.05 et .06 ainsi que l’alinéa 9.03.02(b) de la convention.
+[12] Voir l’article 9.02.02 de la convention unanime des actionnaires.
+[13] L’appelante détenait toutes les actions avec droit de vote de cette société.
+[14] Transcription de l’audience du 8 mars 2023, p. 208 et 210. Il semblerait que Cody Williams ait cessé d’être un actionnaire au milieu de 2019 et que Matus Toth ait cessé d’être un actionnaire avant ce moment.
+[15] Voir les paragraphes 10 et 11 de l’avis d’appel, le paragraphe 2 de la réponse à l’avis d’appel et le paragraphe 20 de l’avis d’intervention.
+[16] Voir les sous-paragraphes 13c, q et s de la réponse à l’avis d’appel.
+[17] La convention unanime des actionnaires se trouve à la pièce R-1, onglet 4.
+[18] Bien que l’intervenant ait déclaré qu’il ne croyait pas avoir beaucoup d’influence, il a convenu que les salaires résultaient d’une discussion entre les propriétaires et Fred, où ils se sont tous entendus sur ce qui était équitable. Richard Kichton a aussi déclaré que les salaires et les dividendes étaient déterminés en tant que groupe. Voir la transcription du 8 mars 2023, p. 17, 18 et 157.
+[19] Voir la transcription de l’audience du 8 mars 2023, pages 77, 78 (surtout au milieu de la page) et 112, ainsi que les pages 94, 95 en ce qui concerne le transfert des lots entre autres aux propriétaires salariés, sujet dont je discuterai plus loin.
+[20] Voir, notamment, la transcription du 8 mars 2023, p. 164 et 165.
+[21] Témoignage de Richard Kichton, transcription du 8 mars 2023, p. 118. Bien que M. Campbell soit devenu chargé de projet principal, soit le même titre que l’intervenant, le 27 février 2018 ou vers cette date, il ressort clairement de la lettre d’offre qu’il relevait [traduction] « directement de Russ Giselbrecht, en plus du groupe de propriétaires ». Il se peut fort bien que la gestion des chargés de projet ait été légère parce que tout le monde connaissait son rôle et l’accomplissait bien, mais il est très clair qu’il y avait une ligne hiérarchique au besoin. Voir aussi la pièce A-4.
+[22] Voir l’article 9.16.01 de la convention unanime des actionnaires.
+[23] Article 9.07.03.
+[24] Article 9.08.01.
+[25] Une société à numéro dont l’intervenant était un actionnaire.
+[26] Voir la transcription de l’audience du 8 mars 2023 aux pages 36, 49 à 51, 94, 95, 161 et 215. Bien que l’intervenant se souvienne qu’il y avait probablement des dividendes égaux à la valeur des lots, Laurie Conrad se souvient qu’il s’agissait d’une prime égale à la valeur des lots. Sur ce point, j’accepte le témoignage de Laurie Conrad parce qu’elle était la contrôleuse de l’appelante et qu’il concorde avec les T4 et les T5 présentés en preuve : voir les pièces A-2 et A-3. Certains documents indiquent que Laurie Conrad est Laurie Schreiner; les deux noms correspondent à la même personne.
+[27] Canada c. McLarty, 2008 CSC 26 (CanLII), [2008] 2 RCS 79, au paragraphe 62.
+[28] C.-à-d. une personne qui dirige les deux parties de la transaction. Voir Keybrand Foods Inc. c. Canada, 2020 CAF 201, aux paragraphes 50 à 53.
+[29] Voir Martel c. M.R.N., 2017 CCI 238, aux paragraphes 63 à 65.
+[30] Voir Martel c. M.R.N., 2017 CCI 238, au paragraphe 66. Bien que cette approche puisse sembler surprenante à première vue, je tiens à souligner que cela se fait également dans d’autres domaines, par exemple, voir Canada c. Microbjo Properties Inc., 2023 CAF 157, aux paragraphes 78 à 90].
+[31] Voir Canada c. Microbjo Properties Inc., 2023 CAF 157, au paragraphe 84 par analogie.
+[32] Ainsi, la fourniture d’une carte de crédit pour payer les dépenses d’entreprise ne s’applique pas à l’examen puisqu’il n’a pas été démontré qu’elle a été fournie à l’intervenant pour lui permettre de supporter des dépenses personnelles. De même, le fait qu’il avait une clé qui lui donnait accès à une plus grande partie du bureau que d’autres ne lui confère aucun avantage faisant partie de sa rémunération et n’est pas utile à l’examen. De plus, la question de savoir s’il a reçu la clé en sa qualité d’actionnaire n’est pas en cause. Il n’est pas nécessaire de déterminer à quel titre il a reçu la clé.
+[33] Les prêts d’actionnaires ont été consentis au moyen d’écritures de journal; des dividendes ou des primes ont été déclarés, puis prêtés à la société. L’intervenant croit que cela a été fait par dividendes; voir la transcription du 8 mars 2023, p. 52 et 53.
+[34] Voir Gestion Yvan Drouin Inc. c. La Reine, 2000 CanLII 407 (CCI) au paragraphe 75.
+[35] Au cours des années 2017, 2018 et 2019, Grant Campbell a gagné plus d’argent au cours de deux de ces années; toutefois, au cours de l’année restante, la rémunération totale de l’intervenant était telle que, pour l’ensemble des trois années, l’intervenant a gagné environ 67 000 $ de plus que M. Campbell. Étant donné que l’intervenant a été congédié au début de 2020, il est impossible de faire des comparaisons pour cette année-là. Il n’y a pas de données sur les revenus de M. Campbell avant 2017.
+[36] Voir la transcription de l’audience du 8 mars 2023 aux pages 125 à 128. Il semble qu’il n’était pas le seul propriétaire employé ayant une telle allocation de dépenses. Il a été démontré que d’autres employés pouvaient également utiliser de l’équipement à des fins personnelles, mais pas dans la même mesure et pas en ce qui concerne l’équipement de très grande taille; leur utilisation était soumise à davantage de contrôles. Il n’est pas rare qu’on donne plus de latitude aux employés plus anciens.
+De plus, dans la mesure où on a pu affirmer qu’il y avait eu utilisation au-delà de ce qui était permis, cela aurait été en dehors du contrat de travail.
+Il se peut que l’utilisation de l’équipement soit un avantage, auquel cas l’utilisation ne serait pas en cause.
+[37] La preuve visant les billets de voyage et de sport ne permet pas non plus de tirer des conclusions. Malheureusement, bien qu’il y ait des éléments de preuve de différences entre les employés, on ne sait pas exactement dans quelle mesure ces différences résultent de la promotion des affaires et des relations avec la clientèle. Il n’est pas non plus évident de savoir quelles dépenses sont des avantages sociaux et dans quelle mesure l’appelante était une bénéficiaire plutôt que d’autres.
+[38] Je note que ce n’est pas comme un régime de rémunération où il existe un régime de partage du bénéfice ou des primes clairement établis en fonction du rendement individuel. La rémunération de l’intervenant est bien corroborée dans la colonne de droite de chaque année à la dernière ligne du tableau de l’annexe A de l’avis d’appel. Ces chiffres sont étayés par la pièce A2.
+[39] De plus, le fait de recevoir une prime importante sous forme de lotissement dans le contexte où l’appelante a reçu des paiements en lots pour ses services n’est pas ce qui constituerait un contrat sans lien de dépendance.

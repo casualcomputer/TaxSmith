@@ -1,0 +1,187 @@
+Title: Beutler Hands on Massage v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27740/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-371-27740-beutler-hands-on-massage-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-06-20
+
+# Beutler Hands on Massage v. The Queen
+
+- Citation: 2007 CCI 371
+- Decision date: 2007-06-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 294, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beutler Hands on Massage v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-06-20
+Référence neutre
+2007 CCI 371
+Numéro de dossier
+2005-3858(GST)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-3858(GST)I
+ENTRE :
+BEUTLER HANDS ON MASSAGE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 10 avril 2007, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge G. Sheridan
+Comparutions :
+Représentante de l’appelante :
+Mme Leah Beutler
+Avocate de l’intimée :
+Me Sharlene Telles-Langdon
+____________________________________________________________________
+JUGEMENT
+L’appel des cotisations établies en vertu de la Loi sur la taxe d’accise, dont les avis sont datés du 13 août 2004, est rejeté selon les motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 20e jour de juin 2007.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 13e jour de décembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI371
+Date : 20070620
+Dossier : 2005-3858(GST)I
+ENTRE :
+BEUTLER HANDS ON MASSAGE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelante Beutler Hands on Massage interjette appel des cotisations établies par le ministre du Revenu national en vertu de la Loi sur la taxe d’accise à l’égard de la taxe sur les produits et services se rapportant à des services de massage fournis en 2002 et en 2003.
+[2] Leah Beutler, propriétaire unique de Beutler Hands on Massage, a témoigné à l’audience. Elle est massothérapeute agréée; avant de lancer sa propre entreprise de vente de produits de massage et de prestation de services de massage, elle avait travaillé comme massothérapeute dans une clinique de chiropratique.
+[3] L’appelante ne conteste pas les faits énoncés dans les hypothèses du ministre, figurant au paragraphe 7 de la réponse à l’avis d’appel :
+[traduction]
+a) l’appelante a été inscrite au mois d’octobre 1998 et elle s’est vu attribuer le numéro d’inscription 867118465 RT0001 aux fins de la TPS;
+b) l’appelante était une société de personnes composée de Linda et de Leah;
+c) Linda était « associée passive »;
+d) au cours des années 2002 et 2002, l’appelante exploitait l’entreprise et effectuait la fourniture de services et de produits de massage thérapeutique;
+e) l’appelante était tenue de produire des déclarations de TPS sur une base annuelle, l’exercice prenant fin le 31 décembre;
+f) l’appelante a produit des déclarations de TPS pour les périodes de déclaration visées par les cotisations, en déclarant la taxe perçue et à percevoir et en demandant des crédits de taxe sur les intrants comme suit :
+Période de déclaration
+Taxe perçue déclarée
+Crédits de taxe sur les intrants demandés
+Taxe nette déclarée
+31 décembre 2002
+677,58
+-1 121,21
+-443,63
+31 décembre 2003
+662,27
+-1 263,11
+-600,84
+1 339,85
+-2 384,32
+-1 044,47
+g) Leah a déclaré les revenus de l’entreprise à titre de propriétaire unique dans ses déclarations de revenus T1 pour les années 2002 et 2003;
+h) pendant la période pertinente, les fournitures de l’appelante étaient effectuées en Saskatchewan;
+i) les services de massage thérapeutique ne sont pas des services assurés dans le cadre du régime provincial de soins de santé de la Saskatchewan;
+j) pendant la période pertinente, les fournitures de services et de produits de massage thérapeutique étaient taxables à 7 p. 100;
+k) pour la période de déclaration qui a pris fin le 31 décembre 2002 :
+(i) l’appelante a effectué des fournitures de produits de massothérapie et de services de massage thérapeutique s’élevant à 9 536,85 $ et à 54 556,15 $ respectivement, soit un total 64 093 $, sur lequel elle était tenue de déclarer une taxe à percevoir de 4 486,51 $;
+(ii) l’appelante a omis de déclarer la taxe perçue ou à percevoir de 3 808,93 $;
+l) pour la période de déclaration qui a pris fin le 31 décembre 2003 :
+(i) l’appelante a effectué des fournitures de produits de massothérapie et de services de massage thérapeutique s’élevant à 10 073 $ et à 58 796 $ respectivement, soit un total de 68 859 $, sur lequel elle était tenue de déclarer une taxe à percevoir de 4 820,13 $;
+(ii) l’appelante a omis de déclarer la taxe perçue ou à percevoir de 4 157,86 $;
+m) l’appelante a omis de déclarer la taxe à percevoir sur les fournitures de services de massage thérapeutique effectuées par l’entreprise en 2002 et en 2003.
+[4] Dans cet appel, il s’agit uniquement de savoir si l’appelante était tenue, en vertu de la Loi sur la taxe d’accise, de percevoir et de verser la TPS à l’égard des services de massage qu’elle fournissait à ses clients.
+[5] L’avocate de l’intimée a présenté d’une façon fort compétente une analyse des dispositions applicables de la Loi sur la taxe d’accise et de la législation pertinente de la Saskatchewan. Le point de départ est le paragraphe 221(1) de la Loi sur la taxe d’accise, qui impose à la personne qui effectue une « fourniture taxable » l’obligation de percevoir la TPS payable pour cette « fourniture ».
+[6] Les mots « fourniture » et « fourniture taxable » sont définis au paragraphe 123(1) de la Loi :
+« fourniture » Sous réserve des articles 133 et 134, livraison de biens ou prestation de services, notamment par vente, transfert, troc, échange, louage, licence, donation ou aliénation.
+[...]
+« fourniture taxable » Fourniture effectuée dans le cadre d’une activité commerciale.
+[7] Pour comprendre ce qu’est une « fourniture taxable », il faut se reporter à la partie pertinente de la définition de l’expression « activité commerciale » :
+123(1) « activité commerciale » Constituent des activités commerciales exercées par une personne :
+a) l’exploitation d’une entreprise (à l’exception d’une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où l’entreprise comporte la réalisation par la personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial (à l’exception de quelque projet ou affaire qu’entreprend, sans attente raisonnable de profit, un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où le projet ou l’affaire comporte la réalisation par la personne de fournitures exonérées;
+c) la réalisation de fournitures, sauf des fournitures exonérées, d’immeubles appartenant à la personne, y compris les actes qu’elle accomplit dans le cadre ou à l’occasion des fournitures.
+[8] Jusqu’à maintenant, la preuve montre clairement que l’appelante effectuait une fourniture de services de massage dans le cadre de l’exploitation de son entreprise. Par conséquent, un service de massage était une « fourniture taxable » – à moins qu’il ne puisse être démontré que l’entreprise de Beutler Hands On Massage s’occupait de la réalisation de « fournitures exonérées ».
+[9] L’expression « fourniture exonérée » est définie au paragraphe 123(1) comme étant une « [f]ourniture figurant à l’annexe V » de la Loi.
+[10] Dans la « Partie II, Services de santé » de l’annexe V, les fournitures exonérées suivantes sont énumérées :
+7. [Soins de santé non médicaux] – La fourniture effectuée par un praticien d’un des services suivants rendus à un particulier :
+a) services d’optométrie;
+b) services de chiropratique;
+c) services de physiothérapie;
+d) services de chiropodie;
+e) services de podiatrie;
+f) services d’ostéopathie;
+g) services d’audiologie;
+h) services d’orthophonie;
+i) services d’ergothérapie;
+j) services de psychologie.
+[...]
+9. [Couvert par l’assurance santé provinciale] – La fourniture, sauf la fourniture détaxée, d’un bien ou d’un service mais seulement dans la mesure où la contrepartie de la fourniture est payable ou remboursée par le gouvernement d’une province aux termes d’un régime de services de santé offert aux assurés de la province et institué par une loi de la province.
+[11] L’article 7 de l’annexe V n’aide pas l’appelante étant donné qu’il n’est pas fait mention du service de massage en tant que service exonéré; en outre, le massothérapeute agréé n’est pas inclus dans la définition du « praticien » figurant dans la partie II :
+Quant à la fourniture de services d’optométrie, de chiropraxie, de physiothérapie, de chiropodie, de podiatrie, d’ostéopathie, d’audiologie, d’orthophonie, d’ergothérapie, de psychologie ou de diététique, personne qui répond aux conditions suivantes :
+a) elle exerce l’optométrie, la chiropraxie, la physiothérapie, la chiropodie, la podiatrie, l’ostéopathie, l’audiologie, l’orthophonie, l’ergothérapie, la psychologie ou la diététique, selon le cas;
+b) si elle est tenue d’être titulaire d’un permis ou d’être autrement autorisée à exercer sa profession dans la province où elle fournit ses services, elle est ainsi titulaire ou autorisée;
+c) sinon, elle a les qualités équivalentes à celles requises pour obtenir un permis ou être autrement autorisée à exercer sa profession dans une autre province;
+d) [abrogé].
+[12] Les dispositions plus générales de l’article 9 de l’annexe V ne s’appliquent pas non plus au cas de l’appelante. En résumé, l’article 9 exonère la fourniture d’un service dans la mesure où le paiement de ce service est couvert par un régime médical provincial dans le cas d’un « assuré ». Le mot « assuré » est défini comme suit dans la partie II de l’annexe V :
+[...] S’entend au sens de la Loi canadienne sur la santé.
+L’article 2 de la Loi canadienne sur la santé prévoit ce qui suit :
+« assuré » Habitant d’une province, à l’exception :
+a) des membres des Forces canadiennes;
+b) des membres de la Gendarmerie royale du Canada nommés à un grade;
+c) des personnes purgeant une peine d’emprisonnement dans un pénitencier, au sens de la Partie I de la Loi sur le système correctionnel et la mise en liberté sous condition;
+d) des habitants de la province qui s’y trouvent depuis une période de temps inférieure au délai minimal de résidence ou de carence d’au plus trois mois imposé aux habitants par la province pour qu’ils soient admissibles ou aient droit aux services de santé assurés.
+[13] En l’espèce, pour savoir si un service est fourni à un « assuré », il faut consulter les paragraphes 14(1) et (2) de la Medical Care Insurance Act[1] de la Saskatchewan, qui définissent l’expression « insured services » (services assurés) comme suit :
+[traduction]
+14(1) Sous réserve des articles 15 et 24, les services médicalement requis qui sont fournis en Saskatchewan par un médecin sont des services assurés.
+(2) Sous réserve des articles 15 et 24, les services suivants visés par règlement qui sont fournis en Saskatchewan sont des services assurés :
+a) services d’un optométriste;
+b) services d’un dentiste;
+c) services d’un chiropraticien;
+d) autres services visés par règlement.
+[14] Par conséquent, les services d’une massothérapeute agréée ne sont pas inclus dans la définition des « services assurés ». Ces services ne font pas non plus partie des services énumérés dans le règlement d’application, aux termes du paragraphe 14(2) de la Medical Care Insurance Act de la Saskatchewan. De fait, l’alinéa 10h) du Règlement exclut expressément de la définition des « services assurés » les [traduction] « services rendus par une personne autre qu’un médecin, un optométriste, un dentiste ou un chiropraticien ». Par conséquent, les services rendus par un massothérapeute agréé ne sont pas payés par la province, et l’article 9 de la partie II, annexe V, ne s’applique pas aux services de massages fournis par l’appelante.
+[15] Par conséquent, aucune disposition de la législation de la Saskatchewan ou de la Loi sur la taxe d’accise n’empêche la fourniture d’un service de massage rendu par l’appelante d’être une « fourniture taxable », et l’appelante était tenue de percevoir et de verser la TPS à l’égard de tels services en 2002 et en 2003.
+[16] Bien qu’il soit correct en droit, le résultat est dur dans les circonstances ici en cause. Mme Beutler et son comptable, M. Waldner, étaient des témoins fort convaincants. Ils m’ont tous deux donné l’impression d’être responsables et consciencieux dans l’attention qu’ils portaient à leurs obligations respectives.
+[17] Je retiens la preuve qu’ils ont soumise, à savoir que Mme Beutler s’est efforcée le plus possible de se renseigner et de s’acquitter des obligations que lui impose la Loi sur la taxe d’accise. En tentant de s’assurer qu’elle avait raison de croire que la TPS devait être perçue et versée pour les produits de massage, mais non pour les services de massage (compte tenu de l’emploi qu’elle occupait antérieurement à la clinique de chiropratique et des réponses qu’elle avait reçues des représentants de l’Agence du revenu du Canada lorsqu’elle cherchait à se renseigner sur ses obligations juridiques), elle est même allée jusqu’à consulter M. Waldner. Celui‑ci, de son côté, a lui‑même vérifié la chose auprès des représentants responsables de la TPS à l’ARC, lesquels ont confirmé ce que Mme Beutler croyait être le droit. Mme Beutler, qui avait pris ces précautions, pensait bien qu’elle n’était pas tenue de percevoir la TPS pour les services de massage. Dans l’intervalle, elle a perçu et versé la TPS à l’égard des produits de massage vendus par l’appelante. Tout allait bien jusqu’à ce que, soudainement, elle soit informée que l’appelante ferait l’objet d’une vérification, qui, ironiquement, semble avoir été déclenchée par l’observation de la part de Mme Beutler d’une autre exigence de la Loi. C’est après avoir communiqué avec les représentants de l’ARC pour faire changer l’inscription de l’appelante aux fins de la TPS, c’est‑à‑dire remplacer la société de personnes par l’entreprise à propriétaire unique, que Mme Beutler a reçu un avis fort différent des représentants de l’ARC au sujet des obligations qui lui incombaient de percevoir et de verser la TPS à l’égard des services de massage.
+[18] Il va sans dire qu’il faut appliquer la législation telle quelle, et non de la façon erronée dont l’ont interprétée les représentants auxquels Mme Beutler s’en est remise. Toutefois, cela n’est pas de nature à réconforter Mme Beutler, dont l’entreprise en plein essor fait maintenant face à une obligation importante relative à la TPS qui, n’eût été les déclarations erronées des représentants du ministre, aurait été perçue et versée avec la TPS que l’appelante avait dûment perçue et versée avec diligence, pendant toute la période pertinente, à l’égard des produits de massage. Je me vois obligée de rejeter l’appel, mais j’espère qu’en faisant exécuter la présente décision, le ministre tiendra compte des circonstances inhabituelles de l’affaire.
+Signé à Ottawa, Canada, ce 20e jour de juin 2007.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 13e jour de décembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI371
+No DU DOSSIER DE LA COUR : 2005-3858(GST)I
+INTITULÉ : BEUTLER HANDS ON MASSAGE
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE : Le 10 avril 2007
+MOTIFS DU JUGEMENT : L’honorable juge G. Sheridan
+DATE DU JUGEMENT : Le 20 juin 2007
+COMPARUTIONS :
+Représentante de l’appelante :
+Mme Leah Beutler
+Avocate de l’intimée :
+Me Sharlene Telles-Langdon
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] R.S.S 1978, ch. S‑29.

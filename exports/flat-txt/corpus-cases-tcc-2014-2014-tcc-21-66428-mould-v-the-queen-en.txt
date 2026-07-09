@@ -1,0 +1,171 @@
+Title: Mould v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/66428/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-21-66428-mould-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-01-16
+
+# Mould v. The Queen
+
+- Citation: 2014 TCC 21
+- Decision date: 2014-01-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5993, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mould v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-01-16
+Neutral citation
+2014 TCC 21
+File numbers
+2010-921(IT)G, 2010-922(IT)G, 2010-923(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2014 TCC 21
+Date: 20140116
+Dockets: 2010-921(IT)G
+2010-922(IT)G
+2010-923(IT)G
+BETWEEN:
+HER MAJESTY THE QUEEN,
+Applicant,
+(Applicant by application)
+and
+ADVANTEX MARKETING INTERNATIONAL INC.,
+Non‑party.
+(Respondent by application)
+and
+ROY MOULD,
+GERALD OSBORNE,
+BARRY PICKFORD,
+Appellants,
+ORDER AND REASONS FOR ORDER
+Rip C.J.
+[1] These are notices of motion by the respondent for: (1) an order granting leave to the respondent to examine for discovery a non‑party, namely Advantex Marketing International Inc. ("Advantex") through a knowledgeable nominee of Advantex pursuant to subsection 99(1) of the Tax Court of Canada Rules (General Procedure) ("Rules"); and (2) for directions as to the conduct of the discovery under subsection 99(1) of the Rules, in particular:
+(a) a direction that the discovery be conducted under oath or solemn affirmation;
+(b) a direction that the scope of the discovery will be governed by section 95 of the Rules;
+(c) a direction that Advantex may be required to give undertakings to seek and to provide additional information and documents;
+(d) a direction that the transcript of the examination may be used at trial to impeach the testimony of the nominee of Advantex, if required;
+(e) directions that the respondent may be entitled to recover the costs of the examination for discovery from the appellants, at the discretion of the trial judge;
+(f) costs if the motion is opposed.
+[2] Advantex is a non‑party to the appellants' tax appeals but was a party to the transactions that led to the assessments of tax in issue.
+[3] The respondent states that in 2003, Advantex, its subsidiary, Advantex Dining Corporation ("Advantex Dining") and certain other subsidiaries purportedly entered into transactions by which property described as the Support Division Business of Advantex Dining was sold to Advantex Systems Limited Partnership for $12,000,000. The respondent alleges that the transactions in issue involve a tiered limited partnership structure. The appellants subscribed for limited partnership units in Madison Grant Limited Partnership ("MGLP"). MGLP, in turn, apparently subscribed for limited partnership units in the Operating Limited Partnership ("Operating LP"). The so‑called Support Division Business was classified as Class 12 property (software) for capital cost allowance ("CCA") purposes and CCA claimed by the Operating LP in the fiscal periods ending December 31, 2003 and 2004 resulted in substantial limited partnership losses being allocated to MGLP. In turn, MGLP allocated limited partnership losses to the appellants which were claimed in the 2003 and 2004 taxation years. The transactions were unwound in 2005 when Advantex exercised an option to acquire the limited partnership units of the Operating LP held by MGLP. The promoter of the venture was Madison Grant Fund Inc. III ("MGFIII").
+[4] The motion has been set down by the respondent as a result of undertakings on discovery of appellants Mould and Pickford. The undertakings are described in Schedule "H" of Mr. Tolmie's affidavit. These undertakings were later summarized by appellants' counsel and the summary was produced with the appellants' responses to the undertakings. The relevant excerpts from the summary of the undertakings as they relate to Advantex and its subsidiaries are attached as Exhibit "J" to Mr. Tolmie's affidavit. The appellants undertook to make inquiries of Advantex and other non‑parties. The appellants were unable to obtain answers from Advantex in respect of the undertakings.
+[5] Respondent is of the view Advantex has information and documents relevant to material issues in the appeals or it has power and control over relevant information and documents in the possession of its subsidiaries or Operating LP.
+[6] Mr. Derek Tolmie, a chartered accountant and Tax Appeals Case Specialist in the Tax and Charities Appeals Directorate of the Canada Revenue Agency ("CRA") swore an affidavit in support of the motion.
+[7] Mr. Michael Sabharwal, a chartered accountant and Vice‑President and Chief Financial Officer of Advantex, swore an affidavit in support of Advantex's opposition to the respondent's motion to examine Advantex through a knowledgeable nominee. Mr. Sabharwal has worked for Advantex since 2005. He was not employed by Advantex when the transactions in issue took place and was not personally involved in these transactions nor, he states, is he knowledgeable of the transactions. He has reviewed Advantex's books and records during the course of the audit and consulted with Advantex's current employees, officers and directors. He had reviewed the respondent's notice of motion and supporting documents.
+[8] The affidavit of Mr. Sabharwal lists a group of 17 persons referred to in Mr. Tolmie's affidavit who, Mr. Sabharwal says, are not currently employees, officers or directors of Advantex as well as one person who informed Mr. Sabharwal he was not personally involved in the transactions and has no personal knowledge of them.
+[9] However, exhibits to Mr. Tolmie's affidavit indicate several of the 17 persons including G. Randall Munger, Allison Smith, John Sadiq, Wanda Dorosz and Marvin Singer were directors of Advantex at the times the transactions were occurring. Mr. Sabharwal advised that he has not been in touch with any of these former employees, officers or directors concerning this matter asking if they could assist. He has consulted with current employees, officers and directors in the company. Any current employees who were with Advantex in 2003 have not responded to Mr. Sabharwal's requests that they contact him.
+[10] Mr. Sabharwal explained he did not consult with any former employees of Advantex because "I wouldn't know how to reach them …"
+[11] I do not believe Mr. Sabharwal or any other officer of Advantex has made reasonable efforts to find a person currently employed or employed by Advantex during the time the transactions in issue took place and who has knowledge of the transactions.
+[12] Mr. Sabharwal confirms that since he is not knowledgeable about the relevant topics he is unable to provide any additional information and documents sought in the appellants' undertakings on discovery. He is also unable to appoint a nominee on behalf of Advantex who is knowledgeable about and able to answer the relevant questions. As well, he says, the respondent has not identified any person who could be a knowledgeable nominee of Advantex.
+[13] Finally, Mr. Sabharwal states that he co‑coperated with the CRA and provided them with documents and information its officers requested during the course of the audit for taxation years 2003, 2004 and 2005 of the transactions in issue. Advantex's counsel argued that Advantex gave CRA the documents it wanted during the audit and the CRA was satisfied. In his view, there is no need for Advantex to search for any additional documents.
+[14] Mr. Sabharwal was cross‑examined on his affidavit. Of the items requested by the respondent was an organization chart for the Advantex group of companies in 2003. Mr. Sabharwal stated that there was nobody in Advantex's current employ who could attest to the existence of such a chart. He did acknowledge that he was not sure if an organization chart existed and has not looked to see if one did exist for 2003. He would be "severely challenged" to find what chart he is looking for.
+[15] Mr. Sabharwal was hesitant in providing financial statements for Advantex during the 2000 to 2003 fiscal years. He said he could have provided them to the CRA during the audit but his counsel at the cross‑examination would not permit Mr. Sabharwal to produce the documents unless there was an "order from the Court that would force Mr. Sabharwal to testify".
+[16] Mr. Sabharwal explained that Advantex is a "very small cap" company with a very small finance department and that "we have a lot of work on the go just to keep the company going and turning a profit and dealing with operational issues". He complained that he has nobody helping him in his current work and his work would suffer if he had to look for copies of annual financial statements, for example.
+[17] Mr. Sabharwal was also questioned as to the existence of certain software that was transferred by Advantex as part of the transactions in issue. He could not answer whether or not the software information still exists in Advantex in some other form because he did not know.
+[18] The appellant Mould gave over 200 undertakings during his examination for discovery. One hundred and fifty, more or less, are still outstanding and serve as the basis of the application.
+[19] An affidavit of Renee Johnson, a former auditor at the CRA, was also produced in support of the motion. Ms. Johnson audited the players, including Advantex, involved in the transactions leading to the appeals. She was also the respondent's mominee at the examination for discovery by appellants' counsel. She has reviewed the affidavit of Mr. Tolmie.
+[20] In her affidavit Ms. Johnson describes the contacts she had with Mr. Sabharwal of Advantex and Mr. Charlton. Following telephone calls and correspondence in June 2006, Ms. Johnson attended in July at Mr. Charlton's office in Toronto and received "certain" documents. She later spoke by telephone to Mr. Sabharwal telling him that she received most of the documents she was looking for from Mr. Charlton and suggested that rather than visiting Mr. Sabharwal in Toronto, she send letters with specific questions to Advantex and its subsidiaries. These letters are dated August 10, 2006.
+[21] In the meantime Ms. Johnson followed up with Mr. Charlton for further information by mail. There was also continuous exchange of correspondence and telephone calls with Mr. Sabharwal. Ms. Johnson was receiving information from both gentlemen, but not necessarily for all she asked.
+[22] Upon review of Mr. Tolmie's affidavit Ms. Johnson confirmed that there were three categories of requests concerning information or documents being sought by the respondent:
+a) those that were not requested from Advantex or MGFIII during the audit;
+b) those that were requested and obtained only in part during the audit; and
+c) those that were requested but not obtained during the audit.
+[23] Subsections 99(1) and (2) of the Rules provide that:
+99(1) The Court may grant leave, on such terms respecting costs and other matters as are just, to examine for discovery any person who there is reason to believe has information relevant to a material issue in the appeal, other than an expert engaged by or on behalf of a party in preparation for contemplated or pending litigation.
+99(1) La Cour peut accorder, à des conditions appropriées, notamment quant aux dépens, l'autorisation d'interroger au préalable une personne, à l'exception d'un expert engagé en prévision d'un litige ou en instance par une partie, ou en son nom, si elle a des raisons de croire que cette personne possède des renseignements pertinents sur une question importante en litige.
+(2) Leave under subsection (1) shall not be granted unless the Court is satisfied that,
+(2) La Cour n'accorde l'autorisation selon le paragraphe (1) que si elle est convaincue :
+(a) the moving party has been unable to obtain the information from other persons whom the moving party is entitled to examine for discovery, or from the person sought to be examined,
+(a) que le requérant n'a pas été en mesure d'obtenir ce renseignement de l'une des personnes qu'il a le droit d'interroger au préalable ou de la personne qu'il désire interroger;
+(b) it would be unfair to require the moving party to proceed to hearing without having the opportunity of examining the person, and
+(b) qu'il est injuste d'exiger que l'instance soit instruite sans que le requérant de la requête ait la possibilité d'interroger cette personne;
+(c) the examination will not,
+(c) que l'interrogatoire n'aura pas pour effet, selon le cas :
+(i) unduly delay the commencement of the hearing of the proceeding,
+(i) de retarder indûment le début de l'instruction de l'instance,
+(ii) entail unreasonable expense for other parties, or
+(ii) d'entraîner des dépenses injustifiées pour les autres parties,
+(iii) result in unfairness to the person the moving party seeks to examine.
+(iii) de causer une injustice à la personne que le requérant désire interroger
+[24] The remedy provided for in Rule 99 is an extraordinary one and all the conditions described in Rule 99(2) must be satisfied before the issuance of an Order can be considered.
+[25] Advantex's counsel argued that the Crown has failed to do what it is required to do: to identify a knowledgeable nominee. Advantex itself cannot identify such a person.
+[26] Counsel for Advantex adds that during the audit of the transactions in issue Advantex was "fully transparent" with the CRA and gave CRA documents but because of the "magnitude of the questions" some answers were not complete. He questioned the reasons Advantex, having cooperated during the audit, is now being put in a position where it is asked to duplicate its efforts. Counsel argued that no court has issued a compliance order to Advantex in accordance with Section 231.7 of the Income Tax Act ("Act") that it provides any assistance, information or document to the Crown.
+[27] Section 99 of the Rules, appellants' counsel submits, refers to examining a third party who may have information that may be relevant. He distinguishes Rule 99 from Subsection 231.7(1) of the Act which, if the judge is satisfied that certain conditions exist, permits a judge, on application by the Minister, to order a person to provide any access, assistance, information or documents sought by the Minister. "Information", the word used in Rule 99, counsel suggested, is not a "document", a word used in Subsection 231.7(1), and therefore the respondent cannot succeed in obtaining documents from Advantex by resorting to Rule 99.
+[28] I cannot agree with Advantex's counsel. First of all, the Rules specifically set up a statutory interpretation mandating the Court to give the Rules a liberal approach. Rule 4(1) reads: "These rules shall be liberally construed to secure the just, most expeditious and least expensive determination of every proceeding on its merits". In light of this statutory interpretation provision, the notion of "information" needs to be interpreted broadly. Information is information whether it comes out of the mouth of a witness or is disseminated from a document, a disc or other matter containing information. What is obtained from an examination for discovery is information. Section 98 of the Rules refers to a party providing "information in writing" and the "information" being verified by affidavit. The evidence received on discovery is from information.
+[29] As far as the Act is concerned, Section 231.7 is a provision in Part XV of the Act concerning the powers of the Minister of National Revenue in the administration and enforcement the Act. Section 231.7 does not set out the rules that the Minister needs to follow when arguing a case in front of the Tax Court. The appellant's arguments lead to two problems. First, if counsel is correct that a party to an appeal must resort to Section 231.7 of the Act in order to examine for discovery a non‑party, then a party who is not the Minister has no right to seek information in similar circumstances from a non‑party because Subsection 231.7(1) is available only to the Minister. Second, it may be arguable whether in an appeal to the Tax Court the Minister is a party.
+[30] Further, for a judge of a provincial superior court or a judge of the Federal Court to have jurisdiction to blatantly interfere in the conduct of an appeal before the Tax Court of Canada, also a superior court, by issuing an order contemplated by Section 231.7[1] for purposes related to the appeal and not for the examination and enforcement of the Act.
+[31] In any event, Sections 231.1 to 231.7 provide tools to the Minister to administer and enforce the Act; these provisions are not tools available to examine for discovery a non‑party during the course of an appeal from an assessment of tax in this Court. An application in accordance with Section 99 of the Rules is the appropriate procedure when a party wants to examine for discovery a non‑party.
+[32] Respondent's counsel submitted that Rule 99 refers to the examination for discovery of "any person" who there is reason to believe has information, not necessarily a "knowledgeable" person as is required by Rule 93. However, in my view, once a person is identified as a non‑party being examined for discovery, that person must have some knowledge or obtain knowledge of the subject matter of the examination. If the person to be examined lacks knowledge about the subject matter of the examination, the examination probably will be useless.
+[33] The party examining a non‑party to be examined, who is not an individual, should not be in any lesser position then when he or she examines an opposing party. Thus Rules 93(2) and 95(2) apply to a non‑party as well as to a party: the non‑party to be examined, other than an individual, is to select a knowledgeable current or former employee, officer or director to be examined on its behalf and prior to the examination that individual is to make all reasonable inquiries regarding the matters in issue in accordance with Rule 95(2).
+[34] That the CRA was able to obtain information from Advantex during an audit does not preclude the respondent from exercising its rights according to the rules of the Court. An audit does not necessarily contemplate litigation and what a lawyer may require in the litigation process is not necessarily what an auditor is looking for during an audit.
+[35] I am satisfied that Advantex and its subsidiaries have or should have information relevant to the material issue in appeal. It and its subsidiaries were central players in the transactions that are the subject matter of the appeals.
+[36] The affidavit of Ms. Johnson outlines the attempts by the respondent to obtain the information sought by the Crown during the audit of these transactions. It is in Mr. Tolmie's affidavit that one learns of the efforts made by counsel for the appellants to satisfy the appellants' undertakings.
+[37] The appellants, Messrs. Mould, Pickford and Osborne, were examined for discovery on consecutive days by Mr. Carvalho, counsel for the respondent, on October 13 to 15, 2011, respectively. Mr. Derksen, counsel for respondent, was also present. And Mr. David Davies was present as counsel for each appellant.
+[38] Requests were made of the appellants to make inquiries of non‑parties, including Advantex and its subsidiaries, Peter Charlton and MGFIII, to obtain information and documents. In turn, the appellants, through their counsel, Mr. Davies, gave undertakings.
+[39] The undertakings that concern non‑parties were given in the examinations of Messrs. Mould and Pickford. The undertakings were later summarized by Mr. Davies and the summary was produced with the appellants' responses to undertakings on January 31, 2012.
+[40] The responses to undertakings were accompanied with a letter from Mr. Davies to Mr. Carvalho dated January 31, 2012; Mr. Davies informed Mr. Carvalho that:
+… the Appellants have complied with their duties and have asked all questions of third parties required by the undertakings. However, the response at this stage has been minimal.
+In furtherance of the Appellants' ongoing disclosure obligations, when we receive additional documents from third parties in response to the undertakings, we will forward them to you as soon as practicable. In the event that Peter Charlton, Madison Grant, and/or Advantex state that they will no longer provide any further information or documents, we will let you know of the same.
+[41] In a further letter, dated May 15, 2012, Mr. Davies advised that:
+1. The Appellants were obligated by the undertakings given on discovery to pose certain questions to Advantex. Those questions were put to a representative of Advantex. The Advantex representative responded to counsel by email indicating that Advantex is unwilling, for a variety of reasons, to provide any substantive information in response to the queries posed. Indeed, no substantive responses have been received to date from Advantex.
+2. The Appellants were also obligated by the undertakings given on discovery to pose certain questions to Madison Grant and to Peter Charlton. I understand that Peter Charlton is the controlling shareholder, if not the sole shareholder, of Madison Grant. The questions were asked of Mr. Charlton (both with respect to the information requested of him personally and of Madison Grant). Mr. Charlton has responded and advises that he is in poor health and that he has been advised by his medical doctor not to work. Mr. Charlton has offered to provide the names of other individuals who may have access to the information requested. We are awaiting those other names and intend to pursue this further.
+[42] The respondent initially proposed to conduct further follow‑up examinations. But by letter to Mr. Davies dated June 11, 2012, Mr. Carvalho proposed that the follow‑up be done in writing. Mr. Davies agreed by letter dated June 22, 2012 to conduct further discoveries in writing.
+[43] By letter dated June 25, 2012 to Mr. Davies, Mr. Carvalho forwarded additional questions as part of the appellants' undertakings. One of the questions asked was with respect to efforts made by the appellants to get answers and information from Advantex. Mr. Davies' answer on December 21, 2012 follows:
+Counsel for the appellants sent several emails to a representative of Advantex in and around November or December of 2011 with copies of the requisite inquiries that the Appellants undertook to make of Advantex. Counsel for the Appellants also participated in various phone calls and other communications with that representative with respect to those inquiries.
+[44] Later, on March 4, 2013, Mr. Carvalho wrote directly to Advantex asking if it would cooperate and respond to the respondent's questions and requests. On March 8, 2013, Mr. Carvalho spoke by telephone to Mr. Dominic Belley, Advantex's counsel, who, during the telephone conversation, informed Mr. Carvalho, as described in Mr. Carvalho's letter to Mr. Belley of the same date, that "Advantex and its related subsidiaries refuse to answer any questions in the absence of a court order compelling them to do so."
+[45] The condition of paragraph 99(2)(a) is satisfied.
+[46] The appellants acquired partnership units in MGLP. There is no evidence that they were involved in the planning or organization of the events leading to the transaction or participated in any transaction involving Advantex or its subsidiaries prior to acquiring the units. Reading the affidavits of Mr. Tolmie and Ms. Johnson as well as hearing what was alleged by respondent's counsel all indicate that the appellants have satisfactorily answered to the best of their knowledge all questions put to them during examinations for discovery and have exercised good faith in attempting to answer their undertakings on discovery. The appellants have not raised any objection to demands for undertakings on the grounds of relevancy. They appreciate the relevance and importance of the questions they undertook to answer.
+[47] It would be unfair to the respondent to proceed to trial without having the opportunity to have the undertakings of the appellants satisfied. The undertakings are germane to their case. And, based on normal maintenance of business records at least, the answers to the undertakings are or ought to be, within the knowledge of Advantex.
+[48] I am satisfied that the examination of Advantex will not unduly delay the commencement of the hearing of these appeals nor entail unreasonable expense for any party nor will the examination of Advantex result in unfairness to it.
+[49] There will be no costs against the appellants with respect to this motion. Counsel for Advantex asked that his client be reimbursed for out of pocket expenses, including salary to employee, photocopies, travel, etc. required to answer the undertakings, as well as costs to assist counsel to prepare the nominee of Advantex for the examination for discovery, the examination itself and to satisfy any undertakings on the examination. I will consider the question of costs after completion of the examination for discovery of the nominee and after considering submissions by counsel in respect of costs.
+[50] It is therefore ordered that:
+a) The respondent may examine for discovery Advantex;
+b) Advantex shall select a knowledgeable current or former officer, director, member, partner or employee to be examined on behalf of Advantex pursuant to Subsection 93(2) of the Rules;
+c) The scope of the discovery will be governed by section 95 of the Rules;
+d) Advantex may be required to give undertakings to seek and to provide additional information and documents;
+e) The transcript of the examination may be used at trial to impeach the testimony of the nominee of Advantex, if required;
+f) The respondent may be entitled to recover the costs of the examination for discovery from the appellants, at the direction of the trial judge;
+g) The appellants may be represented by counsel at the examination for discovery of the nominee of Advantex and have the opportunity to object to any questions put to the nominee;
+h) The appellants shall be liable for costs only to the extent counsel for the appellants examines the nominee of Advantex;
+i) The respondent and Advantex shall provide the appellants with copies of documents described in their Lists of Documents filed and served in accordance with Sections 81 or 82 of the Rules of the Court at least 30 days before the examination for discovery of the nominee of Advantex; and
+j) The appellants at their expense shall be provided with a copy of the transcript of the examination for discovery if the examination takes the form of an oral examination and a copy of the questions and answers if the examination is in writing.
+Signed at Ottawa, Canada, this 16th day of January 2014.
+"Gerald J. Rip"
+Rip C.J.
+CITATION: 2014 TCC 21
+COURT FILES NOS.: 2010-921(IT)G, 2010‑922(IT)G and
+2010-923(IT)G
+STYLES OF CAUSE: ROY MOULD v. THE QUEEN
+GERALD OSBORNE v. THE QUEEN
+BARRY PICKFORD v. THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 25, 2013
+REASONS FOR ORDER BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF ORDER: January 16, 2014
+APPEARANCES:
+Counsel for the Appellant:
+David R. Davies
+Counsel for the Respondent:
+Robert Carvalho
+Counsel for Advantex Marketing
+Dominic C. Belley
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David R. Davies
+Firm: Thorsteinssons LP
+Vancouver, British Columbia
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Section 231.

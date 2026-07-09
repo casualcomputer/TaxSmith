@@ -1,0 +1,196 @@
+Title: Clive Tregaskiss Investment Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25946/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-398-25946-clive-tregaskiss-investment-inc-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-06-10
+
+# Clive Tregaskiss Investment Inc. v. The Queen
+
+- Citation: 2003 CCI 398
+- Decision date: 2003-06-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3679, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Clive Tregaskiss Investment Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-10
+Référence neutre
+2003 CCI 398
+Numéro de dossier
+2001-746(GST)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2001-746(GST)G
+ENTRE :
+CLIVE TREGASKISS INVESTMENT INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue le 29 mai 2003, à Windsor (Ontario).
+Devant : L'honorable juge E. A. Bowie
+Comparutions :
+Avocat de l'appelante :
+Me Gino Morga, c.r.
+Avocat de l'intimée :
+Me Michael Ezri
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l'intimée afin d'obtenir une ordonnance enjoignant à l'appelante de répondre à certaines questions et de satisfaire à certains engagements, permettant à un évaluateur d'inspecter le bien-fonds sis au 5656, promenade Riverside Est, à Windsor (Ontario), et permettant la modification de la réponse à l'avis d'appel;
+Vu l'avis de requête, les affidavits et les autres documents déposés;
+Et vu les allégations des parties;
+La Cour ordonne ce qui suit :
+1. L'appelante doit répondre aux questions nos 113 et 116 et doit remettre à l'intimée les deux documents désignés (b) et (c) au paragraphe 6 de l'affidavit de Me Alicia Stein;
+2. L'appelante n'a pas à répondre à la question supplémentaire découlant des questions nos 129 et 131;
+3. L'appelante doit permettre à l'évaluateur désigné par le ministre du Revenu national d'avoir accès à la résidence sise au 5656, promenade Riverside Est, à Windsor (Ontario), aussi bien à l'intérieur qu'à l'extérieur de la maison et de tout autre immeuble, aux fins d'inspecter le bien-fonds et de prendre les mesures et les photographies qu'il estime nécessaires. Si les parties sont incapables de convenir de la date et de l'heure de l'inspection, la requête peut m'être présentée de nouveau par voie de conférence téléphonique après un bref préavis;
+4. L'intimée est autorisée à modifier la réponse à l'avis d'appel par adjonction des paragraphes 16 et 17 conformément au projet de réponse joint à l'avis de requête;
+5. L'appelante doit verser immédiatement à l'intimée les dépens de la requête sans égard à l'issue de la cause.
+Signé à Ottawa, Canada, ce 10ejour de juin 2003.
+« E. A. Bowie »
+J.C.C.I.
+Traduction certifiée conforme
+ce 11e jour d'avril 2005.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2003CCI398
+Date : 20030610
+Dossier : 2001-746(GST)G
+ENTRE :
+CLIVE TREGASKISS INVESTMENT INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Bowie, C.C.I.
+[1] Il s'agit d'un appel interjeté à l'encontre d'une cotisation de taxe sur les produits et services (TPS) conformément à la partie IX de la Loi sur la taxe d'accise[1] (la « Loi » ). La cotisation résulte de la construction par l'appelante d'une maison unifamiliale à Windsor (Ontario), destinée à être habitée par M. Clive Tregaskiss, le président de la société appelante. La date de l'achèvement en grande partie des travaux est le 29 mai 1998, et M. Tregaskiss a pris possession de la maison en vertu d'un bail le 1er août de la même année. Il n'est pas contesté que l'appelante répond à la définition d'un constructeur aux fins des règles de la fourniture à soi-même de la Loi, et qu'elle était donc tenue de payer la TPS à l'égard de la fourniture à soi-même de la maison visée au taux de 7 %. Les parties ne s'entendent pas sur la juste valeur marchande du bien-fonds le 1er août 1998. L'appelante affirme qu'elle n'était pas supérieure à 1 500 000 $; le ministre du Revenu national a établi une cotisation à l'égard de l'appelante en fonction d'une valeur marchande de 3 300 000 $.
+[2] Un représentant de l'appelante a subi un interrogatoire préalable le 3 février 2003. À la fin de l'interrogatoire, 32 questions restaient sans réponse. L'appelante a refusé de répondre à 3 questions, elle a demandé de remettre 12 questions à plus tard et elle a donné des engagements à l'égard de 17 autres. Le délai imparti pour l'exécution des engagements a expiré à la fin de mars, sans que les questions aient été répondues. L'avocat de l'intimée a écrit deux fois à l'avocat de l'appelante pour demander l'exécution des engagements, d'abord le 20 février et de nouveau le 1er avril. N'ayant obtenu aucune réponse à ses lettres, il a présenté la présente requête afin d'obtenir des réponses aux questions qui n'en ont pas reçues lors de l'interrogatoire préalable, une directive en vertu de l'article 77 des Règles autorisant l'inspection de la maison par l'évaluateur de l'intimée et une ordonnance en vertu de l'article 54 des Règles permettant à l'intimée de modifier la réponse à l'avis d'appel. La requête devait être entendue le 15 mai par voie de conférence téléphonique; elle a été reportée à la demande de l'appelante et je l'ai entendue à Windsor le 29 mai. À cette date, l'avocat de l'appelante avait donné des réponses à toutes les questions litigieuses, sauf cinq. L'appelante a refusé de répondre aux questions nos 113, 116 et 126 en invoquant le secret professionnel. Elle a refusé de répondre à la question no 156 au motif qu'elle n'était pas pertinente, et l'intimée ne la presse plus d'y répondre. La question no 241 consistait en la demande de l'intimée de permettre à un évaluateur d'inspecter le bien-fonds au cours des 30 jours suivants (soit au plus tard le 5 mars 2003), et on y a opposé un refus. L'intimée a posé certaines questions supplémentaires dans une lettre du 22 mai, et le 23 mai, l'avocat de l'appelante a répondu à toutes les questions, sauf une. Il a refusé de répondre à cette dernière au motif qu'il ne s'agissait pas d'une question supplémentaire valable.
+[3] Les questions litigieuses dont je suis saisi en vertu de la présente requête qui découlent de l'interrogatoire préalable sont donc les suivantes :
+(i) s'il faut répondre aux questions nos 113 et 116;
+(ii) si certains documents mentionnés dans la réponse à la question no 126 font l'objet du secret professionnel;
+(iii) s'il faut répondre à la question supplémentaire découlant des questions nos 129 à 131;
+(iv) si je dois ordonner que l'appelante autorise l'évaluateur de l'intimée à examiner le bien-fonds en cause.
+En outre, l'intimée demande l'autorisation de modifier la réponse à l'avis d'appel en y ajoutant deux paragraphes.
+Questions nos113 et 116
+[4] Il est nécessaire, pour traiter de ces deux questions, de se pencher sur les questions nos 112 à 116 et sur les réponses qu'on y a apportées.
+[TRADUCTION]
+Q.112 :
+Monsieur Campbell, pouvez-vous expliquer pourquoi la société a été constituée? Pourquoi l'appelante a-t-elle été constituée?
+Me MORGA : Si vous le savez.
+R. : Ouais, ça remonte à quelques années. Je ne me souviens pas, il faudrait que j'y réfléchisse.
+Q.113 : D'accord. Puis-je obtenir l'engagement de trouver la raison pour laquelle la société a été établie?
+Me MORGA : Nous allons y réfléchir.
+(ENGAGEMENT OU DEMANDE)
+Q.114 : Pourquoi la maison appartenait-elle à la société au lieu d'appartenir simplement à M. Tregaskiss personnellement?
+R. : C'est un conseil qu'on nous a donné. Là encore, je devrai retourner en arrière et me référer à - je suis certain qu'il y a une - que certaines recommandations ont été faites. Je devrai me référer à cela.
+Q.115 : Savez-vous qui aurait fait ces recommandations?
+R. : Je crois que c'était le cabinet BDO Dunwoody.
+Q.116 : Cela a-t-il été fait aux fins de la taxe?
+Me MORGA : Si vous le savez.
+R. : Je devrai retourner en arrière - je devrai me reporter en arrière et - me référer au document.
+Me EZRI : Je vais demander un engagement au sujet de la raison pour laquelle la maison appartenait à la société plutôt qu'à M. Tregaskiss personnellement.
+Me MORGA : Je vais y réfléchir et je vous laisserai savoir.
+(ENGAGEMENT OU DEMANDE)
+Me EZRI : D'accord.
+Me MORGA : Je vous donnerai une réponse dans les 30 jours au sujet de tout ce que je remets à plus tard.
+Me EZRI : C'est bien. Et aussi, pourriez-vous confirmer qui a donné le conseil? Il a dit qu'il croyait que c'était BDO, mais juste au cas où il se tromperait à ce sujet.
+Me MORGA : Même réponse.
+(ENGAGEMENT OU DEMANDE)
+Voici ce que l'avocat de l'appelante a dit, le 20 mai, en réponse aux engagements concernant ces questions :
+Q.113 : La société a été constituée en partie selon les conseils d'un avocat et, cela étant, ils n'ont pas à être divulgués dans ce contexte.
+Q.116 : Le conseil a été donné par le cabinet d'experts-comptables BDO Dunwoody et le cabinet juridique Corrent et Macri et n'a pas à être divulgué.
+[5] Maître Alicia T. Stein est une employée du cabinet Wilson, Walker, Miller, Canfield, les avocats inscrits au dossier pour l'appelante. Elle a déposé un affidavit en opposition à la requête le 26 mai 2003. Les paragraphes qui traitent de la question du secret professionnel sont rédigés comme suit :
+[TRADUCTION]
+6. Dans le cadre de l'interrogatoire préalable de Robert Douglas Campbell pour le compte de l'appelante, l'intimée a cherché à savoir pourquoi on avait décidé que le bien-fonds appartiendrait à Clive Tregaskiss Investments Inc. plutôt qu'à M. Tregaskiss personnellement. En réponse, l'appelante a dit que ce sont le cabinet d'experts-comptables BDO Dunwoody et le cabinet juridique Corrent et Macri qui avaient conseillé la constitution de la société pour en faire la propriétaire du bien-fonds en cause. Pour cette raison, les communications n'ont pas à être divulguées, puisqu'elles relèvent du secret professionnel. La correspondance et les documents échangés relativement à la constitution de la société comprennent ce qui suit :
+(a) la correspondance que BDO Dunwoody a adressée à Corrent et Macri, aux soins de J.P. Corrent, en date du 2 décembre 1997;
+(b) la note de service interne de BDO Dunwoody, en date du 24 novembre 1997, qui a été transmise à Clive Tregaskiss à l'intention de son avocat;
+(c) la note de service interne de BDO, en date du 15 décembre 1997, qui a été transmise à Clive Tregaskiss à l'intention de son avocat.
+7. J'ai étudié la correspondance échangée entre BDO Dunwoody et Corrent et Macri et j'ai constaté que les comptables y ont présenté deux scénarios possibles à l'avocat de l'appelante et qu'ils ont demandé que les avocats exécutent certaines directives pour atteindre la fin recherchée.
+8. Dans les circonstances, la correspondance échangée est exempte de divulgation en raison du secret professionnel parce que le cabinet d'experts-comptables BDO Dunwoody représentait l'appelante lorsqu'il a donné des directives à Corrent et Macri en vue d'obtenir l'aide nécessaire pour atteindre le résultat juridique recherché.
+[6] Cet affidavit présente immédiatement certains problèmes. Tout d'abord, il est rédigé par un membre du cabinet juridique de l'avocat de la partie au nom de laquelle il est déposé, ce qui n'est pas permis[2], sauf peut-être dans le cas d'affaires de pure forme. Le secret professionnel dont il est question dans ces paragraphes est une question contestée et une question de fond. En outre, l'article 72 des Règles prévoit ce qui suit :
+72. Une déclaration sous serment à l'appui d'une requête peut faire état des éléments que le déposant tient pour véridiques sur la foi de renseignements, pourvu que la source de ces renseignements et le fait qu'ils sont tenus pour véridiques y soient indiqués.
+Le premier paragraphe de l'affidavit est rédigé comme suit :
+[TRADUCTION]
+1. Je suis membre du cabinet juridique Wilson, Walker, Miller, Canfield, les avocats inscrits au dossier pour l'appelante, et en cette qualité j'ai connaissance des questions faisant l'objet du présent affidavit. Dans la mesure où je me fie aux renseignements qui m'ont été fournis par les personnes mentionnées aux présentes, je les tiens pour véridiques.
+[7] L'affidavit ne donne aucunement la source de l'affirmation voulant que les notes de service désignées aux alinéas (b) et (c) du paragraphe 6 aient été « transmises à Clive Tregaskiss à l'intention de son avocat » . Ces deux documents m'ont été remis dans une enveloppe scellée par l'avocat de l'appelante, avec l'accord de l'avocat de l'intimée. Il s'agit, comme les décrit l'affidavit, de notes de service internes. Rien n'indique qu'elles ont été préparées par BDO Dunwoody ou tout autre cabinet. L'une est de « Mike » et est destinée au « Dossier » ; l'objet est [TRADUCTION] « Achat de maison par Clive Tregaskiss Investments Inc. (Cliveco) » . L'autre est de « Ron St. Pierre » et est adressée à « Mike McCreight » ; l'objet est [TRADUCTION] « Conséquences TPS de transfert de maison à société de portefeuille » . Il est évident que Me Stein doit s'appuyer sur d'autres sources de renseignements pour déclarer sous serment que ces notes « ont été transmises à Clive Tregaskiss à l'intention de son avocat » . Il en est de même lorsqu'elle déclare que « les comptables y ont présenté deux scénarios possibles à l'avocat de l'appelante et qu'ils ont demandé que les avocats exécutent certaines directives pour atteindre la fin recherchée » . L'affidavit ne fait aucune mention de la source de ces renseignements. Aussi bien parce que l'affidavit est fait par un membre du cabinet juridique que parce qu'il ne mentionne aucune source de renseignements en ce qui concerne l'importante question des raisons pour lesquelles les notes de service ont été rédigées, je n'accorde aucun poids à l'affidavit. Je suis donc en présence de deux notes de service qui, à première vue, n'ont apparemment pas été rédigées par des avocats, ni rédigées à l'intention d'avocats dans la conduite des affaires de leur cliente. L'appelante aurait pu produire un affidavit fait dans les formes par les comptables, par la cliente ou par les avocats, si de fait ces notes de service ont été rédigées pour que la cliente les remette à ses avocats dans le cadre des directives qu'elle leur destinait. Comme on n'a pas agi ainsi, je conclus que les documents ne sont que des conseils fiscaux donnés par des comptables à leur cliente, lesquels ne relèvent évidemment pas du secret professionnel. Il n'a également pas été démontré, à mon sens, que le fait de répondre aux questions nos 113 et 116 porterait atteinte au secret professionnel. Il ressort clairement du contexte que l'avocat de l'intimée ne cherche pas à connaître le fond d'un conseil juridique. Les comptables ont apparemment rédigé deux notes de service à l'intention de M. Tregaskiss au sujet de la situation fiscale à laquelle il ferait face si une société était propriétaire de sa résidence. Rien ne me démontre que des avocats ont contribué à donner ces conseils. L'appelante doit répondre aux questions nos 113 et 116 et elle doit remettre à l'intimée les deux notes de service désignées (b) et (c) au paragraphe 6 de l'affidavit de Me Stein. À l'audience, Me Ezri a concédé que le document désigné à l'alinéa (a) relevait du secret professionnel.
+Les questions supplémentaires découlant des questions nos 129 à 131
+[8] Voici les questions et les réponses :
+[TRADUCTION]
+Q.129 : Pouvez-vous me dire à quel moment la décision a été prise de faire une autocotisation pour le bien-fonds selon une juste valeur marchande inférieure au coût de la construction?
+R. : Voulez-vous que je me rappelle quand cette décision a été prise?
+Q.130 : Bien, ce que j'aimerais savoir c'est si la décision a été prise avant que vous ayez reçu le premier rapport d'évaluation ou par la suite.
+R. : Je ne me souviens pas. C'est - c'est retourner loin en arrière.
+Q.131 : D'accord.
+Me EZRI : Je vais demander l'engagement de révéler si l'appelante possède de la correspondance ou des notes qui indiquent quand il a été décidé que la juste valeur marchande de la maison était inférieure au coût de sa construction.
+Me MORGA : Je vais y réfléchir. Encore là, il s'agit de savoir si des avocats sont intervenus. Je ne sais pas si de tels documents existent, mais si c'est le cas, il se peut que des avocats soient intervenus à cette étape.
+Me EZRI : D'accord.
+Me MORGA : Et si c'est le cas, nous faisons de nouveau face à cette question du secret professionnel.
+La réponse donnée a été celle-ci :
+[TRADUCTION]
+La décision d'évaluer le bien-fonds à sa juste valeur marchande a été prise le 29 mai 1998 ou vers cette date à la suite de la réception du rapport d'évaluation rédigé par Ray Bower Appraisal Services Inc.
+[9] L'avocat de l'intimée a alors posé la question supplémentaire suivante :
+[TRADUCTION]
+L'appelante prévoyait-elle, avant mai 1998, que la juste valeur marchande de la maison pourrait être inférieure à son coût de construction, et si c'est le cas, quand a-t-elle prévu ce résultat?
+Je suis d'accord avec l'avocat de l'appelante pour dire que cette question ne découle pas de la réponse à l'engagement. L'appelante n'a pas à y répondre.
+Inspection de la maison par l'évaluateur de l'intimée
+[10] Si j'ai bien compris, Me Morga s'est opposé à ce que j'autorise l'inspection principalement parce que l'intimée n'a présenté aucun affidavit à l'appui de cet aspect de la requête. Selon lui, les Règles exigent qu'il y ait un affidavit à l'appui de toute requête et, en son absence, comme c'est le cas en l'espèce, la Cour ne peut rendre l'ordonnance. Il fonde cette affirmation sur la décision dans l'affaire Shaw Industries Ltd. c. La Reine[3], qui dit que « des déclarations sous serment doivent être déposées » à l'appui d'une requête. C'est sans doute le cas lorsqu'il faut établir un fait qui ne serait par ailleurs pas susceptible d'être établi aux fins de la requête en cause. Le paragraphe 67(1) des Règles est rédigé en partie comme suit :
+L'avis de requête et les déclarations sous serment ou autres éléments de preuve documentaire qui seront utilisés lors de l'audition de la requête sont signifiés [...]
+[11] De toute évidence, la règle n'exige pas la signification d'un affidavit si la nature de la requête n'exige pas la preuve des faits. La question en litige est la juste valeur marchande de la résidence à l'époque où elle a été occupée pour la première fois, un mois après la date de l'achèvement en grande partie des travaux. L'appelante affirme que la valeur de la maison est inférieure à la moitié de celle à laquelle est arrivé le ministre en utilisant la méthode d'évaluation selon le coût. Dans son avis d'appel, l'appelante soutient ce qui suit :
+[TRADUCTION]
+12. En l'espèce, l'appelante a inclus dans la construction de la résidence de nombreux raffinements qui ne font pas normalement partie de la construction d'une habitation résidentielle. La résidence en cause est unique et comprend de nombreux aménagements pour lesquels un acheteur averti ne voudrait pas payer.
+13. L'appelante soutient que la technique de la parité constitue le seul moyen de déterminer la juste valeur marchande car elle indique le montant réel qu'un acheteur éventuel consentirait à verser à l'égard du bien-fonds en cause par opposition à ce qu'il lui en coûterait pour construire une maison identique.
+[12] C'est l'article 77 des Règles qui accorde à la Cour le pouvoir de rendre une directive du genre de celle que recherche l'intimée :
+77(1) La Cour peut, par directive, autoriser l'inspection de biens meubles ou immeubles qui semble nécessaire à la résolution équitable d'une question en litige dans l'instance.
+(2) Aux fins de l'inspection, la Cour peut accorder l'autorisation :
+a) d'avoir accès à un bien se trouvant en la possession d'une partie ou d'un tiers et d'en prendre temporairement possession;
+b) de mesurer, d'arpenter ou de photographier le bien visé ou tout objet particulier qui s'y trouve ou photographier toute activité qui s'y déroule;
+c) de prélever des échantillons ou de faire des observations, des essais ou des expériences.
+(3) La directive précise l'heure, la date, le lieu et les modalités de l'inspection et peut imposer des conditions appropriées, y compris le paiement d'une indemnité.
+(4) La directive ordonnant l'inspection n'est pas rendue sans préavis à la personne en possession du bien visé, sauf si :
+a) la signification de l'avis, ou le délai nécessaire à sa signification, risque d'entraîner des conséquences graves pour le requérant;
+b) la Cour dispense de la signification de l'avis pour une autre raison valable.
+À mon avis, il ressort clairement de la nature du différend qu'il est nécessaire à la résolution équitable de la question en litige dans l'instance que l'évaluateur de l'intimée puisse voir le bien-fonds en cause, non seulement à partir de la rue ou de la rivière, mais à l'intérieur également. Il a le droit d'examiner les « nombreux raffinements » . Outre l'absence d'un affidavit, l'opposition de Me Morga à l'inspection du bien-fonds tenait à ce qu'il était trop tard pour cela, puisque l'audition doit débuter le 14 juillet 2003, et qu'elle constituerait une atteinte à la vie privée de M. Tregaskiss. L'avocat de l'intimée a demandé que l'évaluateur du ministre puisse inspecter le bien-fonds au cours de l'interrogatoire préalable du représentant de l'appelante tenu le 3 février 2003. On lui a répondu qu'on allait y réfléchir. L'avocat de l'appelante n'a donné aucune autre réponse jusqu'à la réponse très tardive aux engagements donnée le 20 mai, quelque deux semaines après la date à laquelle la présente requête devait être entendue. La réponse a été un refus pur et simple, dépourvu de tout motif. Maître Morga n'a soumis aucune preuve de circonstances quelconques liées à la vie personnelle de M. Tregaskiss dont il faudrait tenir compte. Ma directive en vertu de l'article 77 des Règles est que l'appelante doit, dans les 21 jours de la date de mon ordonnance, permettre à l'évaluateur désigné par le ministre d'avoir accès à la résidence sise au 5656, promenade Riverside Est, à Windsor (Ontario), aussi bien à l'intérieur qu'à l'extérieur de la maison et de tout autre immeuble, aux fins d'inspecter le bien-fonds et de prendre les mesures et les photographies qu'il estime nécessaires. Si les parties sont incapables de convenir de la date et de l'heure de l'inspection, la requête peut m'être présentée de nouveau par voie de conférence téléphonique.
+Modification de la réponse à l'avis d'appel
+[13] L'intimée demande à ajouter les deux paragraphes suivants à la réponse, à la Partie D - Moyens et conclusions recherchées :
+[TRADUCTION]
+16. Subsidiairement, nous faisons valoir que l'appelante est précluse d'affirmer que la JVM du bien-fonds est de 1 500 000 $. L'appelante a réclamé des CTI pour les biens et services utilisés pour améliorer le bien-fonds. Toutefois, le paragraphe 170(2) de la Loi ne permet de réclamer des CTI que dans la mesure où la qualité, la nature ou le coût des biens ou des services utilisés est raisonnable, eu égard à la nature des activités commerciales de l'inscrit. En l'espèce, la seule activité commerciale de l'inscrit a été la fourniture du bien-fonds par vente à sa JVM conformément à l'article 191 de la Loi. Lorsqu'elle a réclamé des CTI, l'appelante a fait valoir au ministre qu'il était raisonnable, du point de vue commercial, d'utiliser des biens et des services d'une qualité, d'une nature et d'un coût extrêmement élevés pour construire un complexe résidentiel qui serait réputé vendu à sa juste valeur marchande. En gardant le silence et en ne modifiant ni ne corrigeant sa déclaration de TPS, l'appelante a de nouveau fait valoir qu'il était raisonnable de point de vue commercial de dépenser 3 300 000 $ pour construire un complexe résidentiel qui serait réputé vendu à sa juste valeur marchande. Le ministre s'est fié à ces affirmations et il a accordé à l'appelante tous les CTI jusqu'au moment de l'achèvement en grande partie des travaux et par la suite. Il n'est donc pas loisible maintenant à l'appelante de faire valoir que la JVM du bien-fonds n'a aucun rapport avec le coût de sa construction ni qu'elle représente moins de 50 % du coût du bien-fonds et moins de 35 % de la JVM de l'immeuble.
+17. Subsidiairement, nous faisons valoir que la cotisation de la taxe nette établie par le ministre était correcte pour d'autres motifs que ceux exposés dans l'avis de cotisation. Les CTI que peut réclamer l'appelante au-delà des 105 000 $ réclamés pour la période de cotisation allant du 15 janvier 1997 au 30 septembre 1999 ne sont pas raisonnables eu égard à la nature des activités commerciales de l'appelante et ils ne lui sont pas payables en raison du paragraphe 170(2) de la Loi. Conséquemment, la taxe nette de l'appelante reste celle que le ministre a établie.
+[14] L'appelante s'oppose à la modification proposée en s'appuyant sur l'arrêt de la Cour suprême du Canada dans l'affaire R. c. Banque Continentale du Canada[4]. La Cour suprême y a conclu que le ministre ne peut faire valoir un nouveau fondement pour une cotisation après l'expiration du délai de prescription. Cette affaire a donné lieu à des modifications de la Loi de l'impôt sur le revenu et de la Loi sur la taxe d'accise, qui visaient clairement à faire échec à la décision de la Cour. La modification de la Loi sur la taxe d'accise a ajouté le paragraphe 298(6.1) :
+(6.1) Le ministre peut avancer un nouvel argument à l'appui d'une cotisation établie à l'égard d'une personne après l'expiration des délais prévus aux paragraphes (1) ou (2) pour l'établissement de la cotisation, sauf si, sur appel interjeté en vertu de la présente partie :
+a) d'une part, il existe des éléments de preuve que la personne n'est plus en mesure de produire sans l'autorisation du tribunal;
+b) d'autre part, il ne convient pas que le tribunal ordonne la production des éléments de preuve dans les circonstances.
+Maître Morga s'oppose à la modification projetée en l'espèce au motif que la modification [TRADUCTION] « cherche à avancer un nouveau fondement pour la cotisation [et qu'elle] équivaut, pour l'intimée, à en appeler de sa propre cotisation après l'expiration du délai de prescription » . Cela, soutient-il, va au-delà du nouvel argument à l'appui d'une cotisation que sanctionne le paragraphe 298(6.1).
+[15] Dans l'affaire Smith Kline Beecham Animal Health Inc. c. La Reine[5], le juge Bonner était saisi de la modification que l'on souhaitait apporter à la réponse déposée dans le cadre d'un appel en vertu de la Loi de l'impôt sur le revenu. On a opposé dans cette affaire, comme en l'espèce, que la modification envisagée donnait lieu, de fait, à une nouvelle cotisation après l'expiration du délai de prescription et que cela ne pouvait se faire en raison de la décision de la Cour suprême dans l'affaire Banque Continentale. En autorisant la modification, le juge Bonner a dit ce qui suit :
+[14] À mon avis, l'arrêt Continental Bank n'a jamais fait jurisprudence quant à la proposition selon laquelle le ministre serait, dans sa défense relative à un appel contre une cotisation établie après l'expiration du délai prévu au paragraphe 152(4), confiné à un cadre conceptuel, soit le « fondement de la cotisation » , ne comprenant que les faits et les dispositions législatives invoqués par le répartiteur. Selon moi, l'arrêt Continental Bank est une application d'une règle de longue date régissant les litiges devant un tribunal d'appel, laquelle règle empêche les plaideurs de soulever en appel des points qui n'avaient pas été soulevés et débattus devant le tribunal de première instance. On ne peut s'attendre qu'une cour d'appel traite d'une nouvelle question en appel basée sur un dossier de preuve déficient du fait que l'on avait omis de soulever cette question et de présenter des éléments de preuve à cet égard. Dans la présente espèce, l'intimée demande une modification bien avant le début du procès. La situation n'est nullement semblable à ce qu'il en était dans l'affaire Continental Bank.
+[15] De plus, rien de ce qui est dit dans l'arrêt Continental Bank n'indique que le paragraphe 152(4) influe sur la modification demandée par l'intimée. Le paragraphe 152(4) restreint le droit du ministre d' « établir des nouvelles cotisations, des cotisations supplémentaires ou des cotisations d'impôt, d'intérêts ou de pénalités [...] » . La modification maintenant en question ne donnerait pas lieu à une nouvelle cotisation d'impôt. Il s'agit plutôt d'une tentative pour défendre la cotisation d'impôt existante en faisant valoir que, sur la foi des faits déjà plaidés, une responsabilité est imposée par une disposition de la Loi autre que celle qui avait été invoquée par le répartiteur.
+[16] Il est depuis longtemps établi en droit que la validité d'une cotisation dépend de l'application de la loi aux faits et non de l'analyse du répartiteur. Il est, je crois, peu probable que l'intention de la cour dans l'affaire Continental Bank, précitée, ait été de renverser des décisions comme Minden et Riendeau, précitées, sans les mentionner. Je suis donc d'avis que rien de ce qui est dit dans l'arrêt Continental Bank ne peut s'appliquer de manière à empêcher le ministre de se fonder sur l'article 245 dans la présente espèce.
+La Cour d'appel fédérale a rejeté un appel à l'encontre de la décision du juge Bonner[6].
+[16] La cotisation relative à la TPS pour une période donnée correspond au calcul fait par le ministre de la somme nette que doit payer le contribuable en vertu de la Loi, ou qu'il doit recevoir dans certains cas, à savoir la taxe imposée à l'égard des opérations effectuées au cours de la période visée, déduction faite du droit aux crédits de taxe sur les intrants (CTI) à l'égard de la même période : voir les paragraphes 225(1) et 296(1). C'est ce calcul qui peut faire l'objet d'un appel (après l'opposition). La modification envisagée par le ministre ne cherche pas à changer la somme en question. Le paragraphe 16 envisagé fait valoir que le fait que le contribuable a réclamé certains CTI crée une préclusion en ce qui concerne la valeur de sa résidence, compte tenu de faits qui font partie intégrante de la cotisation contestée en appel (les CTI réclamés et admis), et d'une disposition de la Loi (le paragraphe 170(2)). Le paragraphe 17 envisagé fait simplement valoir que si la prétention de l'appelante quant à la juste valeur marchande de la maison est bien fondée, la taxe nette est néanmoins exacte, car le même paragraphe 170(2) a pour effet de limiter le droit de l'appelante à des CTI à 7 % de cette juste valeur marchande, soit 105 000 $. Ni l'un ni l'autre de ces arguments ne fait entrer en jeu un nouveau fondement pour la cotisation. L'avocat de l'appelante a soutenu que la question du droit à des CTI à l'égard de la période visée par la cotisation ne peut plus être soulevée depuis longtemps, parce que les CTI réclamés ont été approuvés et payés. Cet argument ne tient toutefois pas compte du fait que la « taxe nette » qui fait l'objet de la cotisation contestée en appel comporte deux éléments. Elle est définie au paragraphe 225(1) sous la formule « A - B » . Laissant de côté ce qui n'est pas pertinent aux fins présentes, « A » représente la TPS percevable au cours de la période de cotisation, et « B » représente l'ensemble des CTI admissibles. Le paragraphe 17 envisagé n'ajoute rien aux faits en litige entre les parties.
+[17] L'appelante s'est appuyée sur la décision de notre cour dans l'affaire Rogic c. La Reine[7]. Il s'agissait toutefois d'une affaire très différente, car le ministre tentait de passer outre à des faits qui avaient été établis dans un litige antérieur entre le ministre et une société dont les actions étaient possédées en propriété exclusive par les contribuables, et que la Couronne avait plaidés. En tout état de cause, la Cour d'appel a expressément approuvé la décision Smith Kline. S'il y avait quelque contradiction entre elle et Rogic, je serais tenu de suivre la décision Smith Kline.
+[18] Maître Morga a aussi avancé qu'il était trop tard pour que l'intimée modifie sa réponse puisque l'audition de l'affaire doit débuter en juillet. Il n'a cependant mentionné aucun préjudice que pourrait causer à l'appelante une modification aussi tardive. Si cet argument avait quelque validité à l'époque où il a été avancé, il n'en a plus aujourd'hui, puisque l'audition a été ajournée à la demande de l'appelante. L'intimée est donc autorisée à modifier sa réponse de façon à y ajouter les deux paragraphes envisagés.
+[19] La nécessité de la présente requête procède en grande partie de l'omission totale de l'appelante de respecter son obligation d'exécuter ses engagements dans le délai imparti par l'ordonnance du juge O'Connor du 30 octobre 2002 et de son refus non motivé de permettre l'inspection du bien-fonds en cause. Il convient de dissuader les avocats et les membres de leur cabinet de déposer des affidavits. On peut en dire autant des autres irrégularités dans l'affidavit que j'ai mentionnées. L'intimée a droit aux dépens de la requête, payables sur-le-champ, sans égard à l'issue de la cause.
+Signé à Ottawa, Canada, ce 10ejour de juin 2003.
+« E. A. Bowie »
+J.C.C.I.
+Traduction certifiée conforme
+ce 11e jour d'avril 2005.
+Yves Bellefeuille, réviseur
+[1] L.R. (1985), ch. E-15, telle que modifiée.
+[2] Voir Sherman c. La Reine, C.C.I., no 91-1811(IT)G, 10 mars 2000, 2000 D.T.C. 1970 et les affaires qui y sont citées; Bilson v. University of Saskatchewan, [1984] 4 W.W.R. 238; Code de déontologie de l'Association du Barreau canadien.
+[3] C.C.I., no98-616(IT)G, 26 juin 2000, 2000 D.T.C. 2317.
+[4] [1998] 2 R.C.S. 358, 98 D.T.C. 6501.
+[5] C.C.I., no 95-1077(IT)G, 4 novembre 1999, 2000 D.T.C. 1526.
+[6] C.A.F., no A-721-99, 11 février 2000, 2000 D.T.C. 6142.
+[7] C.C.I., no 1999-2483(IT)G, 27 août 2001, 2001 D.T.C. 855.

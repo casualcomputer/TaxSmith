@@ -1,0 +1,147 @@
+Title: Douthwright v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27989/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-560-27989-douthwright-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-09-13
+
+# Douthwright v. The Queen
+
+- Citation: 2007 TCC 560
+- Decision date: 2007-09-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1771, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Douthwright v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-13
+Neutral citation
+2007 TCC 560
+File numbers
+2006-2408(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2408(IT)I
+BETWEEN:
+KEVIN DOUTHWRIGHT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 13, 2007 at Toronto, Ontario.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+E.C. DeFreitas
+Counsel for the Respondent:
+Laurent Bartleman
+JUDGMENT
+The appeal in relation to the reassessment of the Appellant’s 2003 taxation year in relation to the denial of $14,976.02 of expenses claimed by the Appellant is allowed in full, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to deduct $14,976.02 expended on legal fees and in settling his lawsuit with BMO Nesbitt Burns in computing his income for the 2003 taxation year.
+Signed at Halifax, Nova Scotia, this 20th day of September 2007.
+“Wyman W. Webb”
+Webb J.
+Citation: 2007TCC560
+Date: 20070920
+Docket: 2006-2408(IT)I
+BETWEEN:
+KEVIN DOUTHWRIGHT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in this case is whether the Appellant is entitled to deduct, under paragraph 8(1)(f) of the Income Tax Act (“Act”), $3,851.02 as legal fees and $11,125 as settlement costs in computing his income in 2003.
+[2] The Appellant was employed as an investment advisor for BMO Nesbitt Burns during the period from February 2001 until June 2002. The Appellant entered into an Investment Advisor Trainee Agreement (“Agreement”) dated February 5, 2001 with BMO Nesbitt Burns. This Agreement provides in part as follows:
+RECITALS:
+1. BMO Nesbitt has offered professional training to the Trainee and will provide to the Trainee a specialized training course (the “Training Course”) of approximately 18 months duration. During the Training Course, the Trainee will be permitted access to confidential information pertaining to BMO Nesbitt’s business and will also receive educational instruction, written materials, courses and seminars developed by BMO Nesbitt for its exclusive use, all with a view to assisting the Trainee to become a skilled and knowledgeable securities professional. BMO Nesbitt in turn expects that the Trainee will apply the confidential information and personal training he/she receives solely to service BMO Nesbitt’s clients.
+[3] Following the Recitals, the Agreement provides, in part, that:
+IN CONSIDERATION of BMO Nesbitt permitting the Trainee to take the Training Course, the compensation to be paid to the Trainee by BMO Nesbitt during the Training Course, the payment of $10.00 by BMO Nesbitt to the Trainee and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged by the Trainee, BMO Nesbitt and the Trainee agree as follows:
+…
+2.3 The Trainee acknowledges that the Training Course which BMO Nesbitt will provide entails a substantial expenditure by BMO Nesbitt on his or her behalf. The cost to BMO Nesbitt of providing the Training Course includes the cost of equipment, textbooks and other printed training materials, seminars, salaried instructors and trainers as well as outside consultants and speakers who are retained by BMO Nesbitt to provide training, classrooms, hotel accommodation, meals, transportation and other expenses reasonably incurred by BMO Nesbitt in relation to the Training Course, in the approximate amount of $25,000 or higher per Trainee. The Trainee acknowledges that that expenditure will be made by BMO Nesbitt in the expectation that the Trainee will continue to be employed by BMO Nesbitt servicing its clients and that BMO Nesbitt and its clients will thereby realize the benefit of having employees who have completed the Training Course. The Trainee further acknowledges that in the event that he/she either terminates employment within three years of the date hereof or is terminated by BMO Nesbitt for cause within three years, and engages in any Competing Act or breaches his or her non-solicitation obligations under section 4.1 of this Agreement, then BMO Nesbitt will lose the expected benefits from the expenses it incurred on the Trainee’s behalf during the Training Course. In the event that the Trainee engages in a Competing Act or breaches section 4.1 upon termination of his or her employment, the Trainee accordingly agrees that he/she will repay to BMO Nesbitt upon demand the following amount:
+(a) the sum of $25,000 if the Trainee’s employment terminates within two years of the date of this Agreement. ...
+[4] “Competing Act” and “Time Period” are defined in paragraph 2.1 of the Agreement as follows:
+2.1 “Competing Act” as used in Article 2 of this Agreement means directly or indirectly engaging or being involved in the sale or provision of any security, product and/or service which is the same as or which competes with any security, product or service sold or provided by BMO Nesbitt at the time of termination of the Trainee’s employment, or in any manner assisting any person in any of the following activities, during the Time Period set forth in section 2.2 below and within the province in which the Trainee has been assigned to a branch office of BMO Nesbitt during the Training Course or in which he or she becomes registered as an investment advisor.
+2.2 “Time Period” as used in Article 2 of this Agreement depends on the time at which the Trainee’s employment is terminated and means:
+…
+(b) Nine months from the date of such termination, if such termination occurs from and after the date which is 12 months from the date hereof, but before the date which is one and half years from the date hereof;
+[5] The Appellant left his employment at BMO Nesbitt Burns in June of 2002 and then started as an investment advisor with TD Waterhouse. Therefore the termination of his employment occurred within the period described in paragraph (b) of the definition of Time Period referred to above. Since he commenced employment as an investment advisor with a competing firm, BMO Nesbitt Burns commenced an action against him in October of 2002 in which they claimed damages in the amount of $25,000 for breach of contract, damages in the amount of $25,000 for breach of contract, breach of fiduciary duty and breach of confidence, pre‑judgment and post-judgment interest and costs. There were three letters from the in-house legal counsel to BMO Nesbitt Burns addressed to the Appellant and which were all dated prior to the commencement of the lawsuit. In the first letter dated June 6, 2002 counsel for BMO Nesbitt Burns indicates that the Appellant is required to pay BMO Nesbitt Burns the sum of $25,000 to reimburse them for the training costs as provided in section 2.3 of the Agreement referred to above and also refers to other duties and obligations of the Appellant under that Agreement. The final concluding paragraph of this letter is as follows:
+We trust that you will comply with the terms of the Agreement and that it will not be necessary for us to take steps to enforce it. Please contact me within 7 days of the date of this letter to arrange for the payment of the $25,000.
+[6] The $25,000 referred to in this closing paragraph is the $25,000 to reimburse BMO Nesbitt Burns for the training costs under paragraph 2.3 of the Agreement.
+[7] In the letter dated June 18, 2002 the in‑house counsel for BMO Nesbitt Burns states in part as follows:
+This is further to our letter to you dated June 6, 2002.
+Since writing that letter, we have been made aware that you are actively soliciting your former clients at BMO Nesbitt Burns. As you are aware, this is a violation of the terms of your agreement between you and BMO Nesbitt Burns dated February 5, 2001 (the “Agreement”). Your continuing obligations under that Agreement were outlined to you in our previous correspondence.
+We require you to immediately cease this violation of the terms of your Agreement. If you do not do so, we will bring legal proceedings against your for breach of that agreement, which would include an injunction preventing you from continuing to breach it. Since you have not contacted me to arrange for the repayment of the $25,000, that action will also seek payment of that amount.
+[8] The letter dated August 9, 2002 is brief and states as follows:
+You have not responded to our letter of June 6, 2002 seeking repayment of $25,000 pursuant to your Investment Advisor Trainee Agreement with BMO Nesbitt Burns. In addition, it appears you have been soliciting clients of BMO Nesbitt Burns, contrary to section 4.2 of that Agreement.
+Accordingly, we are in the process of drafting a statement of claim which will be served upon you in due course.
+[9] The statement of claim is the one that was referred to above. The parties reached a settlement of this matter by Minutes of Settlement dated August 25, 2003. The Minutes of Settlement provide that the action was settled by the Appellant paying to Nesbitt Burns the sum of $11,125 in five instalments of $2,225 each. The first instalment was payable on August 26, 2003 and the last on December 26, 2003.
+[10] There is no indication in the Minutes of Settlement of any allocation of the amount to be paid by the Appellant. It is the Appellant’s understanding that the full amount payable under the Minutes of Settlement related to the repayment of the training costs. As well, since the amount that was finally agreed upon in the Minutes of Settlement is less than the total amount claimed for the reimbursement of the training costs as set out in the Agreement and since the correspondence from the in‑house counsel for BMO Nesbitt Burns consistently referred to the $25,000 amount that was to be paid by the Appellant as repayment of the training costs, I find that the amount paid by the Appellant in settlement of his lawsuit should be treated as the payment of his obligation under paragraph 2.3 of the Agreement and hence reimbursement for training costs.
+[11] Paragraph 8(1)(f) of the Income Tax Act provides as follows:
+8(1) In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+…
+(f) where the taxpayer was employed in the year in connection with the selling of property or negotiating of contracts for the taxpayer’s employer, and
+(i) under the contract of employment was required to pay the taxpayer’s own expenses,
+(ii) was ordinarily required to carry on the duties of the employment away from the employer’s place of business,
+(iii) was remunerated in whole or part by commissions or other similar amounts fixed by reference to the volume of the sales made or the contracts negotiated, and
+(iv) was not in receipt of an allowance for travel expenses in respect of the taxation year that was, by virtue of subparagraph 6(1)(b)(v), not included in computing the taxpayer’s income,
+amounts expended by the taxpayer in the year for the purpose of earning the income from the employment (not exceeding the commissions or other similar amounts referred to in subparagraph 8(1)(f)(iii) and received by the taxpayer in the year) to the extent that those amounts were not
+(v) outlays, losses or replacements of capital or payments on account of capital, except as described in paragraph (j),
+(vi) outlays or expenses that would, by virtue of paragraph 18(1)(l), not be deductible in computing the taxpayer’s income for the year if the employment were a business carried on by the taxpayer, or
+(vii) amounts the payment of which reduced the amount that would otherwise be included in computing the taxpayer’s income for the year because of paragraph 6(1)(e);
+[12] The Respondent does not take any issue with respect to whether the conditions set out in subparagraphs (i) to (iv) were satisfied but only raises two issues - whether the amount that was paid was a payment on account of capital and, if it was not on account of capital, whether the amount was paid for the purpose of earning the income from the Appellant’s employment with either BMO Nesbitt Burns or TD Waterhouse. It should also be noted that the Appellant was allowed to deduct amounts for other expenses under paragraph 8(1)(f) of the Act and therefore the Respondent must have accepted that the conditions as set out in subparagraphs (i) to (iv) were satisfied.
+[13] In Setchell v. The Queen, 2006 TCC 37, [2006] 2 C.T.C. 2259, 2006 DTC 2279, Woods J. made the following comments in relation to the issue of whether education expenses are capital or not:
+21 The facts in Cormier are quite different from the facts in this case. The general principles to be applied in considering whether education expenses are capital or not are described in the Interpretation Bulletin dealing with training expenses, IT-357R2. All the judicial decisions that I have reviewed, including Cormier, adopt these principles.
+22 The general principle is that training costs will be deductible as a current expense if they are incurred to maintain, update or upgrade an already existing skill or qualification…
+[14] The summary paragraphs of Interpretation Bulletin IT-357R2 provide in part as follows:
+Training costs are not deductible as current expenses if they are capital expenditures. They are considered to be capital in nature where the training results in a lasting benefit to the taxpayer, i.e., where a new skill or qualification is acquired. Where, on the other hand, the training is taken merely to maintain, update or upgrade an already existing skill or qualification, the related costs are not considered to be capital in nature.
+[15] Therefore, clearly some training costs are deductible as current expenditures while others are considered to be on account of capital. In this particular case, the training costs for which the Appellant was required to reimburse BMO Nesbitt Burns would include expenses that were related to maintaining, updating or upgrading an already existing skill or qualification, as the training did include training on the BMO Nesbitt Burns software, training in relation to the investment products available and training on portfolio and management techniques. Therefore, the training that the Appellant received from BMO Nesbitt Burns would include training, the cost of which would have been deductible as a current expense. The training may also have included training that could be considered to be capital in nature. However, no breakdown was provided with respect to the allocation of the amount paid by the Appellant to settle his lawsuit with BMO Nesbitt Burns between amounts that may have been spent to reimburse BMO Nesbitt Burns for training costs that would be capital in nature and those that would not.
+[16] In the Reply that was filed by the Respondent, there was no reference to the amount being denied as deductible on the basis that it was paid on account of capital. There are no assumptions of fact that are made in relation to this issue. The amount is not assumed to be paid on account of capital. As a result, the onus of proof in relation to this matter would lie with the Respondent.
+[17] In Pollock v. R. (1993), [1994] 1 C.T.C. 3, 94 DTC 6050 (Fed. C.A.), Hugessen J.A., on behalf of the Federal Court of Appeal, made the following comments:
+Where, however, the Minister has pleaded no assumptions, or where some or all of the pleaded assumptions have been successfully rebutted, it remains open to the Minister, as defendant, to establish the correctness of his assessment if he can. In undertaking this task, the Minister bears the ordinary burden of any party to a lawsuit, namely to prove the facts which support his position unless those facts have already been put in evidence by his opponent. This is settled law.
+[18] In Loewen v. R., 2004 FCA 146 (F.C.A.), Sharlow J.A., on behalf of the Federal Court of Appeal, made the following comments:
+11 The constraints on the Minister that apply to the pleading of assumptions do not preclude the Crown from asserting, elsewhere in the reply, factual allegations and legal arguments that are not consistent with the basis of the assessment. If the Crown alleges a fact that is not among the facts assumed by the Minister, the onus of proof lies with the Crown. This is well explained in Schultz v. R. (1995), [1996] 1 F.C. 423, [1996] 2 C.T.C. 127, 95 D.T.C. 5657 (Fed. C.A.) (leave to appeal refused, [1996] S.C.C.A. No. 4 (S.C.C.)).
+(emphasis added)
+[19] Leave to appeal the decision of the Federal Court of Appeal in Loewen v. R. to the Supreme Court of Canada was refused (Loewen v. R., 338 N.R. 195 (note) (S.C.C.)).
+[20] Since the Respondent did not make any assumptions of fact in relation to whether the payments were on account of capital, the onus of proving that such payments were on account of capital rested with the Respondent and since there was no evidence with respect to the allocation of the amounts paid by the Appellant between amounts spent on training costs that would be current in nature and those that would be capital in nature, the Respondent has failed to satisfy this onus of proof and the deduction of the amounts cannot be denied on this basis.
+[21] The next issue is whether the amounts were expended for the purpose of earning income from BMO Nesbitt Burns or TD Waterhouse. Since the amounts were expended following the termination of the Appellant’s employment with BMO Nesbitt Burns, the amounts were not expended for the purpose of earning income from BMO Nesbitt Burns.
+[22] However, since the Appellant had a pre-existing Agreement with BMO Nesbitt Burns, in order for the Appellant to earn any commission income with TD Waterhouse, he would have to comply with the pre-existing Agreement with BMO Nesbitt Burns and hence the amounts paid under the Agreement were amounts that the Appellant had to pay in order to be able to earn the commission income with TD Waterhouse. He could not have earned the commission income with TD Waterhouse unless he left the employment of BMO Nesbitt Burns and since leaving the employment of BMO Nesbitt Burns resulted in the obligation to reimburse BMO Nesbitt Burns for the training costs under the Agreement, these amounts paid under the Agreement were made for the purpose of earning the commission income that the Appellant earned from TD Waterhouse. The legal fees that were incurred were directly related to this expenditure and were incurred to presumably reduce the amount that the Appellant would have to pay under the Agreement and therefore were also made for the purpose of earning the commission income from TD Waterhouse.
+[23] In McNeill v. The Queen, 2000 DTC 6211, [2000] 2 C.T.C. 304, the Federal Court of Appeal found that amounts paid as damages under a non‑competition agreement were deductible as they were incurred for the purpose of earning income. In that case, the taxpayer was a chartered accountant who had sold his business to another firm. As part of the agreement, he had agreed to provide consulting and chartered accounting services to the purchasers. As well, for a three-year period following the date of the sale, the taxpayer was to act in the utmost good faith to introduce the representatives of the purchasers to clients of his practice. As well, for the period of five years following this initial period, the taxpayer agreed that he would not provide professional accounting services to the public within a certain geographic area.
+[24] The purchasers in McNeill terminated the agreement almost three years after the taxpayer had sold his practice. The basis for the termination was that the taxpayer was not providing the contemplated services. The taxpayer then set up a competing practice outside the geographic area but the services that he was providing were to clients within the restricted geographic area.
+[25] The purchasers in McNeill were awarded a significant amount in damages and costs. The taxpayer was permitted to deduct these amounts as the Court found that they were made for the purpose of allowing the taxpayer to earn income and they were not so egregious or repulsive that they should not be allowed. Rothstein J.A., (as he then was), stated as follows:
+15 It may be that in respect of a civil damage award that the wrongful action may be so egregious or repulsive that the damages could not be justified as being incurred for the purpose of gaining or producing income and in such rare cases deductibility would properly be disallowed. Although in the case at bar, the learned Tax Court judge referred to the appellant's actions as reprehensible, he also found they were for the purpose of keeping his clients and his business. We are not satisfied that they were incurred for the purpose of producing income. We are not satisfied that they are so egregious or repulsive that the damages subsequently awarded are not justified as being incurred for the purpose of producing income.
+[26] The Federal Court if Appeal in McNeill also concluded that the amounts were deductible in the year in which the matter was determined by the Court that awarded the damages to the purchasers.
+[27] In this case, the amounts payable by the Appellant to BMO Nesbitt Burns are not repulsive or egregious as they simply were incurred as a consequence of the Appellant choosing to work for a different firm. The Agreement does not prohibit the Appellant from working for a competing firm, it simply sets out the consequences if he should choose to do so.
+[28] As a result, the amounts spent by the Appellant to settle his lawsuit with BMO Nesbitt Burns and the related legal costs were deductible in computing the Appellant’s income for 2003. The appeal is therefore allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant was entitled to deduct the sum of $14,976.02 expended on legal fees and in
+settling his lawsuit with BMO Nesbitt Burns in computing his income for his 2003 taxation year.
+Signed at Halifax, Nova Scotia, this 20th day of September 2007.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2007TCC560
+COURT FILE NO.: 2006-2408(IT)I
+STYLE OF CAUSE: KEVIN DOUTHWRIGHT AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 13, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: September 20, 2007
+APPEARANCES:
+Agent for the Appellant:
+E.C. DeFreitas
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

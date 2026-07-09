@@ -1,0 +1,146 @@
+Title: Dauphin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/405371/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-93-405371-dauphin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-04-30
+
+# Dauphin c. La Reine
+
+- Citation: 2019 CCI 93
+- Decision date: 2019-04-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4399, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dauphin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-04-30
+Référence neutre
+2019 CCI 93
+Numéro de dossier
+2018-1071(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-1071(IT)I
+ENTRE :
+CLAUDE DAUPHIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 14 janvier 2019, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Marie-Claude Landry
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation établie par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu datée du 28 décembre 2016 à l’égard de l’année d’imposition 2015 de l’appelant est rejeté conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 30e jour d’avril 2019.
+« Réal Favreau »
+Juge Favreau
+Référence : 2019 CCI 93
+Date : 20190430
+Dossier : 2018-1071(IT)I
+ENTRE :
+CLAUDE DAUPHIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit ici d’un appel à l’encontre d’une nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), telle que modifiée, (la « Loi ») par le ministre du Revenu national (le « ministre ») datée du 28 décembre 2016 pour l’année d’imposition 2015 de l’appelant.
+[2] En vertu de ladite nouvelle cotisation, le ministre a refusé la déduction des frais juridiques réclamés par l’appelant pour un montant de 27 414 $.
+[3] Monsieur Claude Dauphin, un membre du Barreau du Québec depuis 1978 et maire de l’Arrondissement de la Ville de Lachine et conseiller municipal à la Ville de Montréal de novembre 2001 jusqu’au 5 novembre 2017, a témoigné à l’audience pour expliquer les circonstances en vertu desquelles les frais juridiques ont été encourus.
+[4] L’appelant a expliqué que le 22 juillet 2015, alors qu’il restait deux ans et trois mois avant la fin de son mandat comme maire de l’Arrondissement de Lachine et conseiller municipal à la Ville de Montréal, la Sûreté du Québec a effectué des perquisitions à son domicile ainsi qu’à son bureau d’Arrondissement dans le cadre d’une enquête portant sur l’administration de la Ville de Montréal.
+[5] Dans le cadre de ces perquisitions, l’appelant a retenu les services d’un cabinet d’avocats spécialisé dans ce genre de situation. Lors des perquisitions, les avocats du Syndic du Barreau étaient présents sur place pour s’assurer de la mise sous scellé des documents couverts par le secret professionnel.
+[6] Suite à ces perquisitions, l’appelant a dû débourser la somme de 27 414 $ en horaires d’avocats pour l’année d’imposition 2015. Les factures d’honoraires du cabinet McMillan LLP du 11 novembre 2015 et du 15 février 2016 ont été déposées en preuve. Une description détaillée des services rendus était annexée à ces factures.
+[7] Les services juridiques rendus concernaient les sujets suivants :
+- communications pour obtenir de l’information concernant le déroulement de la perquisition et de la mise sous scellé des documents couverts par le secret professionnel;
+- préparation des requêtes et des ordonnances pour avoir accès aux documents saisis qui n’étaient pas sous scellés et aux documents saisis sous scellés;
+- examen des dénonciations ayant servies à obtenir les mandats de perquisitions;
+- établissement d’un protocole d’accès aux documents privilégiés;
+- vocation à la Cour pour présenter la requête pour obtenir copie des documents saisis et pour faire approuver le processus d’examen des documents privilégiées;
+- démarche auprès de la Sûreté du Québec pour obtenir la remise des documents saisis;
+- examen des documents saisis; rédaction d’une liste des documents privilégiés et identification des motifs pour maintenir le privilège;
+- représentations auprès de la Cour pour préserver la confidentialité des documents sous scellés;
+- revue des documents privilégiés et des dénonciations pour déterminer si une ordonnance de non-publication serait appropriée.
+[8] L’appelant a produit sa déclaration de revenu pour l’année d’imposition 2015 en déclarant des revenus de salaires ainsi que des revenus de pensions fédérales et provinciales. L’appelant a de plus réclamé à la ligne 229 de sa déclaration de revenu le montant de 27 414 $ comme autres dépenses d’emploi.
+[9] Le 30 juillet 2015, l’appelant a demandé à la Ville de Montréal de prendre à sa charge les frais encourus en lien avec les perquisitions effectuées à son domicile et à son bureau d’Arrondissement.
+[10] Dans une lettre datée du 5 août 2015, la Ville de Montréal a informé l’appelant qu’elle refusait de couvrir les honoraires des conseillers juridiques de l’appelant parce qu’il ne s’agissait pas d’une procédure judiciaire en vertu de la Loi sur les cités et villes et parce que l’appelant n’a fait l’objet d’aucune poursuite en lien avec les perquisitions.
+[11] Par une lettre datée du 3 octobre 2016, l’Agence du revenu du Canada (l’« ARC ») a demandé à l’appelant de fournir des explications relativement à la dépense d’emploi au montant de 27 414 $.
+[12] En réponse à la demande d’informations de l’ARC, l’appelant a indiqué dans une lettre datée du 18 octobre 2016, que les honoraires juridiques avaient été encourus pour préserver son droit au maintien de son emploi auprès de la Ville de Montréal et de la rémunération qui en découle.
+[13] Les explications fournies par l’appelant n’ont pas été acceptées par l’ARC et le ministre a établi une nouvelle cotisation par laquelle il a refusé la déduction des frais juridiques au montant de 27 414 $ parce que les frais juridiques n’avaient pas été encourus dans le but de recouvrer un salaire ou d’établir son droit à un salaire que lui doit son employeur comme l’exige l’alinéa 8(1)b) de la Loi.
+[14] Suite à cette nouvelle cotisation, l’appelant a logé un avis d’opposition par une lettre datée du 7 février 2017, dans laquelle l’appelant a allégué que la dépense était nécessaire pour assurer le maintien de ses revenus et que le code de déontologie de sa profession exigeait que soient prises toutes les mesures nécessaires pour « préserver l’honneur, la dignité et la réputation de la profession et maintenir le lien de confiance du public envers celle-ci ».
+[15] Suite à un appel conférence en date du 15 décembre 2017 avec l’agent des appels responsable du traitement de l’avis d’opposition de l’appelant, ce dernier lui a transmis le 2 janvier 2018 un tableau répartissant les montants d’honoraires facturés par le cabinet McMillan qui se rapportaient au secret professionnel de l’avocat et aux autres sujets connexes. Selon l’appelant, les honoraires se rapportant au secret professionnel représentaient environ 75% du total des honoraires facturés.
+[16] Selon l’appelant, la compréhension des cinq personnes qui ont participé à l’appel conférence du 15 décembre 2017 convergeait vers un accord de principe et il s’agissait de simplement départager les honoraires qui avaient été engagés pour le respect du secret professionnel à déduire à la ligne 8860 de la déclaration de revenu pour l’année 2015 des autres honoraires qui avaient été déduits comme « autres dépenses d’emploi » que l’appelant reconnaissait ne pas être déductibles pour fins d’impôt.
+[17] Les participants à l’appel conférence du 15 décembre 2017, étaient bien sûr l’appelant, monsieur Sammy Forcillo, qui a été conseiller à la Ville de Montréal et membre de l’exécutif, monsieur Jacques Dauphin, frère de l’appelant et comptable CPA retraité, madame Véronique Larose, agent des appels accompagnée d’une technicienne.
+[18] Messieurs Sammy Forcillo et Claude Dauphin ont témoigné à l’audience et ils ont expliqué que le départage des honoraires légaux en ce qui a trait au secret professionnel était facile à faire puisque les factures d’honoraires étaient détaillées au 15 minutes près et étaient très précises. Ils ont également mis en évidence le fait qu’il est très difficile pour des élus municipaux d’exiger des honoraires des citoyens à qui ils rendent souvent des conseils de nature juridiques.
+[19] Le 16 janvier 2018, l’appelant a reçu un appel d’un autre agent de la division des appels, monsieur Olivier St-Jacques, qui l’a informé qu’il était dorénavant responsable du dossier de l’appelant et que son opposition avait été refusée sans donner d’explications et en ne faisant aucune référence à l’appel conférence du 15 décembre 2017 et à l’entente tacite intervenue entre les participants à cette conférence téléphonique.
+[20] Par une lettre datée du 1er février 2018, l’ARC a confirmé le rejet de l’avis d’opposition de l’appelant au motifs que les frais judiciaires réclamés n’ont pas été engagés pour recouvrer un montant qui était dû à l’appelant ou pour établir un droit à un tel montant. Par conséquent, les frais judiciaires encourus sont considérés comme une dépense personnelle non déductible pour fins d’impôt.
+[21] En contre-interrogatoire, l’appelant a reconnu qu’il a pris sa retraite comme membre du Barreau le 15 septembre 2014 et, qu’à ce titre, il ne pouvait exercer la profession d’avocat en 2015 même s’il était inscrit au Tableau de l’ordre à titre d’avocat à la retraite.
+Analyse et conclusion
+[22] La seule déduction pour des frais juridiques qui peut être réclamée par une personne qui occupe une charge ou un emploi est celle qui est expressément prévue à l’alinéa 8(1)b) et au paragraphe 8(2) de la Loi qui sont ainsi libellés :
+Déductions
+8(1) [Éléments déductibles] Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+b) [Frais judiciaires d’un employé] les sommes payées par le contribuable au cours de l’année au titre des frais judiciaires ou extrajudiciaires qu’il a engagés pour recouvrer le traitement ou salaire qui lui est dû par son employeur ou ancien employeur ou pour établir un droit à ceux-ci;
+[…]
+8(2) [Restriction générale] Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi.
+[23] Dans les circonstances présentes, il est difficile de conclure que l’appelant a supporté les frais judiciaires ou extrajudiciaires pour recouvrer le traitement ou salaire qui lui était dû par son employeur ou pour établir un droit à un tel traitement ou salaire comme l’exige l’alinéa 8(1)b) de la Loi.
+[24] Comme l’a observé la juge Sharlow de la Cour d’appel fédérale dans l’affaire Fenwick c. La Reine, 2008 CAF 370, l’alinéa 8(1)b) de la Loi a une porté relativement restreinte. En effet, au paragraphe 7 de cet arrêt, la juge Sharlow a formulé les observations suivantes :
+7. La juge Woods n’a pas retenu l’interprétation large de l’alinéa 8(1)b) proposée au nom de M. Fenwick. J’estime qu’elle a eu raison. L’alinéa 8(1)b) a une portée relativement restreinte. Il vise les situations où un employé supporte des frais judiciaires ou extrajudiciaires pour tenter de recouvrer un salaire ou traitement impayé ou cherche à régler un différend avec un employeur ou un ancien employeur quant au montant de salaire auquel l’employé a droit (voir Loo c. Canada, 2004 CAF 249). Dans les cas de différends avec l’employeur, l’employé allègue généralement une rétribution insuffisante.
+[25] En l’espèce, le droit de l’appelant de conserver sa rémunération en sa qualité d’employé n’était pas en cause. Le litige n’étant pas avec la Ville de Montréal. L’appelant voulait préserver sa réputation et s’assurer de ne pas faire l’objet de poursuites pénales pour des gestes posés dans le cadre de ses fonctions comme maire de l’Arrondissement de Lachine et comme conseiller à la Ville de Montréal.
+[26] De plus, les frais juridiques réclamés ou toute partie de ces frais ne constituent pas une dépense déductible dans le calcul du revenu de l’appelant parce qu’ils n’ont pas été engagés en vue de tirer un revenu de profession libérale.
+[27] En 2015, l’appelant n’a déclaré que des revenus de salaire et de pensions fédérales et provinciales. L’appelant n’a déclaré aucun revenu de profession en 2015. En tant que membre retraité du Barreau du Québec, l’appelant était assujetti à l’article 54.1 de la Loi sur le Barreau et il ne pouvait exercer la profession d’avocat dont notamment exécuter pour le compte d’autrui les actes suivants énumérés aux sous-paragraphes (a) à (c) du paragraphe 1 de l’article 128 de la Loi sur le Barreau :
+donner des consultations et avis d’ordre juridique;
+préparer et rédiger un avis, une requête, une procédure ou tout autre document de même nature destiné à servir dans une affaire devant les tribunaux;
+préparer et rédiger une convention; une requête, un règlement, une résolution et tout autre document de même nature se rapportant à la constitution, l’organisation, la réorganisation ou la liquidation d’une personne morale régie par les lois fédérales ou provinciales concernant les personnes morales, ou à l’amalgamation de plusieurs personnes morales ou à l’abandon d’une charte.
+[28] De plus, l’appelant ne pouvait plaider ou agir devant tout tribunal, y compris ceux visés par les sous-paragraphes 1 à 7 du sous-paragraphe a du paragraphe 2 de l’article 128 de la Loi sur le Barreau.
+[29] En l’espèce, il ressort clairement de la preuve que les frais juridiques payés par l’appelant n’ont pas été engagés en vue de tirer un revenu de profession en 2015. Par conséquent, les frais juridiques payés par l’appelant constituent une dépense personnelle au sens de l’alinéa 18(1)h) de la Loi qui n’est pas déductible dans le calcul de son revenu conformément à l’alinéa 18(1)a). Ces alinéas lisent comme suit :
+18(1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+[…]
+h) le montant des frais personnels ou de subsistance du contribuable — à l’exception des frais de déplacement engagés par celui-ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+[30] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 30e jour d’avril 2019.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2019 CCI 93
+Nº DU DOSSIER DE LA COUR :
+2018-1071(IT)I
+INTITULÉ DE LA CAUSE :
+CLAUDE DAUPHIN ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 14 janvier 2019
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 30 avril 2019
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Marie-Claude Landry
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur générale du Canada
+Ottawa, Canada

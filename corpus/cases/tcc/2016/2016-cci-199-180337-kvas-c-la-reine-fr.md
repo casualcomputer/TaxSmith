@@ -1,0 +1,243 @@
+---
+title: "Kvas c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/180337/index.do"
+last_modified: "2016-09-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 199"
+citation2: ""
+neutral_citation: "2016 CCI 199"
+decision_date: "2016-09-15"
+language: "fr"
+item_id: "180337"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2887
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:53:34.475000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "81c244fa07270df6cfc2216e64cc56233dcf12767c6edd9f26648c935bc17ea9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kvas c. La Reine
+
+- Citation: 2016 CCI 199
+- Decision date: 2016-09-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2887, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kvas c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-09-15
+Référence neutre
+2016 CCI 199
+Numéro de dossier
+2014-4517(IT)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-4517(IT)G
+ENTRE :
+PAUL KVAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2014-4518(IT)G
+ET ENTRE :
+PETER KVAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appels entendus sur preuve commune les 4 et 5 avril 2016, à Toronto (Ontario)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocat des appelants : Me Richard Yasny Avocate de l’intimée : Me Rishma Bhimji
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, les appels sont admis, les cotisations numéro 2516570 et numéro 2516677 toutes deux datées du 3 avril 2014 sont annulées et les affaires sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations.
+La Cour recevra les observations des parties concernant les dépens dans les 30 jours suivant le présent jugement, à moins que les parties ne s’entendent sur la question.
+Signé à Ottawa, Canada, ce 15e jour de septembre 2016.
+« R. S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 27e jour de juin 2017.
+François Brunet, réviseur
+Référence : 2016 CCI 199
+Date : 20160915
+Dossier : 2014-4517(IT)G
+ENTRE :
+PAUL KVAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2014-4518(IT)G
+ET ENTRE :
+PETER KVAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. Introduction [1] Les présents appels concernent deux frères, Paul et Peter Kvas (les « frères Kvas »). Ils ont constitué une société, Commercial Interior Alterations Inc. (« CIA »), en 2002. Elle a été dissoute en janvier 2008 par les autorités ontariennes pour défaut de production des déclarations de revenus de société. Le ministre a imposé une cotisation en vertu de l’article 160 de la Loi de l’impôt sur le revenu (la « LIR ») à l’égard des frères Kvas en 2014. Le ministre soutient plus précisément dans les avis de cotisation que [traduction] « le 31 décembre 2008 ou autour de cette date », un [traduction] « transfert de dividendes » a été effectué par CIA aux frères Kvas. Le ministre s’est fondé sur les éléments suivants : (i) CIA n’existait plus; (ii) le bilan complété par un comptable après la dissolution a permis une dissipation des avoirs déductive; et (iii) le même comptable a produit, en 2009, un T5 précisant les dividendes payés en 2008 aux frères Kvas relativement à des biens qui correspondaient plus ou moins à la dissipation des avoirs présumée. Aucun fait pertinent n’est sérieusement controversé; cependant, les questions très controversées en l’espèce sont de savoir si, vu les faits, il faut conclure que CIA est une [traduction] « auteure du transfert » pour ce qui est du [traduction] « transfert de dividendes », et si un transfert, au sens de l’article 160 de la LIR, a bel et bien eu lieu.
+[2] Le reste des présents motifs concernent les questions essentielles suivantes : une entité, involontairement dissoute juridiquement et n’ayant entrepris aucune mesure de son propre chef, par incapacité ou par inaction, peut-elle être l’auteur d’un transfert et transférer un bien au sens de l’article 160 de la LIR lorsque les mesures sont entreprises par d’autres?
+II. Quelques faits supplémentaires : [3] Les faits uniques et pertinents, leur chronologie et leurs auteurs dans les présents appels sont essentiels aux présents motifs et au jugement s’y rapportant.
+[4] Les frères Kvas sont tous deux menuisiers de formation. Ils ont lancé leur propre entreprise après 20 ans d’emplois syndiqués. Ils ont rapidement découvert que les entrepreneurs généraux sur les grands chantiers préfèrent travailler avec des entreprises plutôt qu’avec des particuliers. Par conséquent, ils ont constitué CIA en 2002 en vertu de la Loi sur les sociétés par actions de l’Ontario, L.R.O. 1990, c. B.16 (la « LSA de l’Ontario »). L’entreprise a d’abord tourné au ralenti, mais CIA a été inscrite sur les listes de soumissionnaires préapprouvés, atteignant ainsi l’objectif visé par la constitution de la personne morale.
+[5] En 2005, CIA a remporté et a exécuté un gros contrat qui s’est avéré être à la fois une bénédiction et une malédiction. Ce contrat a généré des profits de 336 000 $ pour CIA, mais a épuisé ses ressources et nuit à ses efforts de participation à d’autres appels d’offres. Demeurant partiellement impayée à titre de profession du second œuvre, CIA a dirigé son attention vers d’autres ouvrages et d’autres appels d’offres. Il était trop tard. Des pertes ont suivi au cours des années 2006 et 2007.
+[6] Les frères Kvas ont tous deux affirmé lors de leurs témoignages que puisqu’ils avaient concentré leurs efforts sur l’achèvement des travaux et qu’ils manquaient d’expérience et d’habileté en comptabilité, les impôts et d’autres déclarations de CIA étaient en souffrance. Des mesures ont été prises au milieu de 2007 afin de commencer à remédier à la situation.
+[7] Les frères Kvas se sont renseignés auprès du gouvernement ontarien, qui leur a dit de se tourner vers l’Agence du revenu du Canada (« ARC »). Les deux frères ont reconnu qu’ils avaient besoin de [traduction] « collaborer avec l’ARC ». De la mi- 2007 à septembre 2009, ils ont déployé d’importants efforts pour poursuivre les activités de CIA et payer les impôts de l’entreprise. Cependant, le 3 février 2008, un avis de dissolution prononcé par le gouvernement ontarien a été envoyé à CIA l’avisant de sa dissolution en date du 21 janvier 2008 (le « jour de la dissolution ») pour défaut de production des déclarations de revenus de la société (« avis de dissolution »).
+[8] Avant, et surtout après le jour de la dissolution, les frères Kvas ont agi avec promptitude. Ils ont maintenu des liquidités dans le compte bancaire de CIA et les ont utilisées pour financer les activités et payer les impôts. Un des frères a entrepris des études pour apprendre à utiliser des logiciels comptables. Ils ont retenu les services de comptables. Depuis les premières réunions à la mi-janvier 2007 jusqu’en 2009, une documentation a été recueillie, des états financiers pour les années 2002 à 2007 ont été préparés et des déclarations de revenus ont été produites. Cette fois encore, les efforts des frères Kvas visaient la mise en conformité de CIA et, après le jour de la dissolution, à sa reconstitution.
+[9] Au final, tout cela n’a servi à rien. Il est constant qu’en novembre 2009, l’ARC a signalé que, de toute manière, elle ne consentirait pas à la reconstitution de CIA. Tout au long de cette affaire, l’ARC savait que les frères Kvas tentaient de reconstituer la société, tant à des fins opérationnelles pour CIA que fiscales.
+[10] Lorsque l’ARC a signifié son refus quant à la reconstitution de CIA, le comptable de CIA a changé de tactique. Les relevés T4 déjà émis qui reflétaient les revenus d’emploi versés aux frères Kvas et d’autres montants qui restaient sur les états financiers de CIA pour la période du 31 décembre 2007 ont été traités dans les états financiers et déclarations de revenus de CIA pour l’exercice raccourci final clos le jour de la dissolution, soit le 18 janvier 2008. Chronologiquement, ceci s’est produit rétroactivement et seulement lorsqu’il a été su, à l’automne 2009, que la reconstitution était impossible en raison du refus de l’ARC d’y consentir.
+[11] Par conséquent, les relevés T4 (totalisant 17 000 $) ont été annulés et de nouveaux relevés T5 (totalisant 107 146 $) ont été émis le 29 octobre 2009. Des états financiers de CIA correspondants ont été préparés le 29 octobre 2009 (la « date d’émission des relevés T5 de 2009 »). Lors de son témoignage, le comptable de CIA a déclaré qu’il avait créé les relevés T5 à la date d’émission des relevés T5 de 2009 pour comptabiliser des dividendes représentatifs pour chacun des frères Kvas afin de régler ou de réconcilier rétroactivement les avoirs qui restaient à l’automne 2009 sur les états financiers de CIA pour l’exercice au 31 décembre 2007. Il a procédé ainsi étant donné que la dissolution du 21 janvier 2008 devenait irrévocable en 2009.
+[12] Pendant un certain temps après la date d’émission des relevés T5 de 2009 et la production des déclarations de revenus personnels des frères Kvas, le compte bancaire de l’ancienne CIA et ses liquidités sont simplement restés en place. Leur mère a versé une avance d’environ 60 000 $ sur le compte de CIA en mai et en juin 2009 afin d’aider ses fils et CIA. Les versements à partir du compte étaient principalement faits aux gouvernements fédéral et provincial et à leurs agences. Ce n’est qu’en mars 2010 que les fonds du compte de l’ancienne CIA ont été épuisés et utilisés par les frères Kvas.
+[13] En mars 2010, l’ARC a commencé son processus de cotisation officiel. Le 16 mars 2010, l’ARC a établi une créance de responsabilité des administrateurs pour des retenues à la source non versées de 125 450,78 $. En raison de ce montant toujours non versé, des observations faites par les contribuables et de l’enquête de l’ARC qui a suivi, en décembre 2010, l’ARC a menacé les frères Kvas d’établir des cotisations jumelles en vertu de l’article 160 de la LIR relativement aux retenues à la source non versées. En mai 2013, l’ARC a fait précisément référence dans une lettre aux retenues à la source non versées et au transfert de dividendes au cours de l’année d’imposition 2008 qui, selon l’ARC, constituaient [traduction] « des fonds ou des biens [...] distribués ou appropriés au profit des actionnaires lors de la liquidation, de la cessation de l’exploitation ou de la réorganisation de son entreprise » de telle façon qu’en vertu du paragraphe 84(2) de la LIR, « la société est réputée avoir versé au moment donné un dividende ».
+[14] De façon similaire, la cotisation établie subséquemment en vertu de l’article 160 de la LIR a expressément fait référence à [traduction] « la somme de 53 573 $ à l’égard du transfert de dividendes de la part de Commercial Interior Alterations Inc., le 31 décembre 2008 ou aux alentours de cette date ».
+[15] La réponse de l’intimée fait expressément référence à la déclaration de revenus des sociétés de CIA pour 2008 produite le 4 novembre 2009 [traduction] « déclarant des dividendes payés à » chacun des frères Kvas qui :
+i. ont retiré des fonds de CIA pour payer des impôts personnels au cours de l’année d’imposition 2008, pour un montant total de 44 590,47 $;
+ii. ont retiré des fonds de CIA pour leur usage personnel au cours de l’année d’imposition 2008, à hauteur de 17 000 $;
+iii. devaient 22 308 $ à CIA au cours de l’année d’imposition 2008, somme qui n’a jamais été remboursée;
+iv. ont reçu un transfert de biens et d’équipement de CIA évalués à au moins 23 882 $.
+[16] À la fin de la réponse, il est indiqué que chacun des frères Kvas avait reçu un total d’avantages conférés aux actionnaires de la part de CIA d’au moins 53 880,24 $ (qui auraient dû être, il est reconnu, de 53 573 $ pour chacun des frères).
+[17] Lors de son témoignage et particulièrement lors du contre-interrogatoire au procès, M. Yarahmadi, chef d’équipe à l’ARC, a confirmé qu’il était l’auteur de la réponse écrite datée du 22 septembre 2014 et remise aux frères Kvas au moment des observations. Cette lettre confirmait la manière dont l’ARC avait compris les faits et leur chronologie. Il a reconnu qu’il savait que CIA avait été dissoute, mais les relevés T5 de 2009 reflétaient le versement d’un dividende par CIA aux frères Kvas. Cette documentation des appelants, tel que M. Yarahmadi l’a catégoriquement affirmé au procès, [traduction] « se passe de commentaires ».
+[18] M. Yarahmadi a aussi admis que les frères Kvas n’avaient reçu nul bénéfice ni nulle autre somme jusqu’au jour de la dissolution. M. Yarahmadi ne savait pas que les 17 000 $ des T4 annulés se rapportaient à des salaires personnels versés aux frères Kvas pour services rendus à CIA. À l’égard de la dette des actionnaires, M. Yarahmadi a conclu que la disparition du montant dû aux frères Kvas (avec le passage de 22 803 $ le 31 décembre 2007 à zéro le 18 janvier 2008) constituait un transfert de la part de CIA en faveur des frères Kvas et était un [traduction] « bénéfice automatique ». M. Yarahmadi a conclu que les frères Kvas géraient le compte bancaire et qu’ils avaient probablement versé le montant après le jour de la dissolution. De même, pour ce qui est de la question du transfert d’actifs et d’équipement de société, M. Yarahmadi a indiqué que puisqu’il n’y avait aucune vente ou dépréciation d’actifs, on pouvait inférer de la dissipation de la valeur de 23 882 $ à zéro l’existence d’un transfert et d’un bénéfice aux frères Kvas.
+[19] Pour ce qui est de la question du « transfert de dividendes », M. Yarahmadi a réitéré que le T5, produit pour refléter la dissolution, entrait, dans les précisions du paragraphe 84(2) de la LIR. Suivant son raisonnement, de tels montants ont été versés et satisfaits subséquemment par l’entremise des paiements d’impôts personnels, de salaires personnels, du remboursement de la dette aux actionnaires et du transfert d’actifs par CIA aux frères Kvas.
+III. Conditions légales déclenchant l’application de l’article 160. [20] L’article 160 ne joue que s’il y a transfert, si l’auteur et le bénéficiaire du transfert ont un lien de dépendance, s’il n’y a pas de contrepartie ou si elle est insuffisante, et que si l’auteur du transfert est tenu de payer des impôts au moment du transfert[1]. Outre la question secondaire et la thèse subsidiaire relative à la contrepartie partielle des transferts reliés aux salaires et aux dettes dus aux frères Kvas et leurs autres sources de fonds investis dans CIA, la Cour conclut, et cela n’est pas controversé par les avocats des parties, que le seul autre élément en litige portant sur l’article 160 de la LIR est de savoir si un transfert a eu lieu. Pour ce qui est de la question de la contrepartie pour tout transfert, les motifs suivants rendent inutile l’examen de cette preuve.
+[21] Les éléments d’un transfert au regard de l’article 160 de la LIR revêtent eux-mêmes un caractère unique du point de vue de la jurisprudence : le bénéficiaire du transfert n’a pas à consentir, à être au courant du transfert ou à bénéficier de l’actif transféré[2]. Ce qui demeure plus clair, ou du moins conforme à la notion généralement admise d’un transfert, sont les éléments ou les mesures exigés de la part de l’auteur du transfert : soit l’accomplissement d’une mesure ou la signature d’un document départissant l’auteur du transfert et accordant la propriété au destinataire[3], l’identification d’un événement ou d’un document commémoré ayant l’effet juridique d’un transfert[4] et l’accomplissement contemporain de cette mesure au moment où la dette est due[5].
+[22] Lorsque l’on essaie de savoir si un transfert a eu lieu, trois sous questions doivent être examinées :
+i. l’application du paragraphe 84(2) de la LIR : dividende réputé lors de la liquidation;
+ii. l’effet de l’avis de dissolution : article 241 de la LSA de l’Ontario;
+iii. outre la subsistance légale de CIA après le jour de la dissolution, a-t-on pris des mesures qui constitueraient un transfert au sens de l’article 160 de la LIR?
+IV. Application d’un dividende réputé en vertu du paragraphe 84(2) de la LIR [23] Bien que cette question de dividende réputé aux termes du paragraphe 84(2) de la LIR ait été très présente dans les motifs originaux de confirmation du ministre et ait constitué une véritable controverse lors des témoignages, l’avocate de l’intimée y a implicitement renoncé dès le début des plaidoiries finales dans lesquelles aucune autre allusion n’y a été faite. Simplement, selon cette disposition, un dividende est réputé « lorsque des fonds ou des biens » ont été distribués ou attribués aux actionnaires ou au profit des actionnaires lors de la « liquidation, de la cessation de l’exploitation ou de la réorganisation » d’une entreprise. Concrètement, nulle liquidation ou cessation de l’exploitation n’a été entreprise par toute personne concernée au moment de la cotisation. Concrètement, CIA a été dissoute involontairement, par arrêté ministériel, sans que ses dirigeants ou ses actionnaires n’en soient informés ou qu’ils ne donnent leur accord le jour de la dissolution. Un processus de liquidation tel que celui auquel fait référence le paragraphe 84(2) de la LIR implique une opération plus ordonnée et élaborée ou une série d’opérations entreprises par les administrateurs pendant la liquidation de la société, se concluant par l’acte final de dissolution[6], de réorganisation ou d’arrangement. Concrètement, cela ne s’est pas produit. Le renoncement tardif à ce moyen de contestation de l’appel sera pris en considération pour ce qui est des dépens. Cela est nécessaire afin qu’il soit tenu compte des frais inutilement engagés par les appelants lors de la préparation au procès afin de répondre à cette allégation en tant qu’élément fort de la cause de l’intimée.
+V. Effet de l’avis de dissolution sur CIA [24] Les paragraphes 241(1), 241(5) et 244(1) de la LSA de l’Ontario disposent :
+Avis de dissolution
+241(1) Si le ministre des Finances l’avise qu’une société ne se conforme pas à l’une ou l’autre des lois suivantes, le directeur peut, par courrier recommandé ou au moyen d’un avis publié une seule fois dans la Gazette de l’Ontario, aviser la société qu’il sera donné un ordre de dissolution de la société si elle ne remédie pas à la situation dans les 90 jours de cet avis :
+0.1 Loi de 1996 sur la réglementation des alcools et des jeux et la protection du public.
+1. Loi sur l’imposition des sociétés.
+2. Loi sur l’impôt-santé des employeurs.
+3. Loi de la taxe sur les carburants.
+4. Loi de la taxe sur l’essence.
+5. Loi sur les droits de cession immobilière.
+6. Loi sur la taxe de vente au détail.
+6.1 Loi de 2007 sur les impôts.
+7. Loi de la taxe sur le tabac. 2004, chap. 31, annexe 4, art. 1; 2008, chap. 19, annexe V, art. 1; 2010, chap. 1, annexe 1, art. 12.
+Reconstitution
+241(5) En cas de dissolution d’une société aux termes du paragraphe (4) ou d’une disposition qu’il remplace, le directeur peut, à la demande de toute personne intéressée et à sa discrétion, reconstituer la société aux conditions qu’il estime opportunes. Dès lors, sous réserve des conditions que le directeur impose et des droits éventuels acquis par toute personne après la dissolution, la société est réputée à toutes fins ne jamais avoir été dissoute.
+Dévolution à la Couronne
+244(1) Les biens d’une société dont il n’a pas été disposé à la date de sa dissolution sont immédiatement confisqués au profit de la Couronne et dévolus à celle-ci.
+[25] L’intimée soutient que le relevé T5 produit et subsistant, qui reflète le dividende, fait jouer l’article 160 de la LIR. Il reflète un transfert entre CIA et les frères Kvas au cours de l’année d’imposition 2008, ce qui est, par définition, pour CIA, antérieur au jour de la dissolution. Les parties étaient liées pendant cette période, il y avait toujours une dette fiscale et nulle contrepartie n’a été présentée ou n’a découlé de la part des frères Kvas à l’égard de CIA.
+[26] Par ailleurs, l’intimée soutient que la création et la production du T5 après le jour de la dissolution est suffisante puisque, provenant de la main même du conseiller professionnel des appelants, il consigne l’existence, le montant et le transfert des dividendes par CIA aux frères Kvas.
+[27] L’intimée affirme également qu’aucun délai de prescription n’existe quant au moment auquel le ministre peut établir une cotisation en application du paragraphe 160(2) de la LIR[7]. De plus, il n’est pas nécessaire d’établir une volonté de l’auteur du transfert de frauder le ministre. La simple réception de la propriété transférée est suffisante[8]. Le relevé T5 reflétait ce transfert et les autres conditions prévues par la loi ont été remplies.
+[28] Concrètement, cette affaire atteint la limite de la définition du transfert au sens de l’article 160 de la LIR. L’exigence d’un transfert prévue par la loi n’a pas été remplie selon ce motif ou selon le motif discuté subséquemment. Premièrement, et surtout, l’article 160 de la LIR exige le transfert par l’auteur du transfert. L’auteur allégué du transfert, CIA, n’existait pas après le jour de la dissolution. Bien que CIA ait eu les pouvoirs d’une personne physique, elle a cessé de les avoir dès sa dissolution involontaire. La référence, au paragraphe 160(1) de la LIR, à un auteur de transfert ayant « transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon » est assez large et libérale. Cependant, aucune jurisprudence n’enseigne que l’auteur du transfert inclut la personne qui cesse d’exister et qui n’a autrement entrepris quelconque mesure ou omission selon lesquelles elle transfère un bien avant son effondrement ou sa dissolution, selon le cas. Cette question a été discutée par la juge Lamarre de notre Cour à l’occasion de l’affaire Kiperchuk, précitée, qui a alors défini des documents tels que le testament et la désignation de bénéficiaire d’un REER comme étant des documents de transfert qui, avant le décès (dans ce cas), constitueraient un transfert. Au paragraphe 20, la juge Lamarre, tel était alors son titre, observe :
+Ainsi, en l’espèce, l’intimée a conclu, à juste titre selon moi, que, vu que l’appelante était la bénéficiaire désignée du REER de son ex‑mari, il y avait eu un transfert de bien au décès de ce dernier. À compter de ce moment, l’appelante avait le droit de réclamer le REER en sa qualité de bénéficiaire désignée.
+[29] A l’occasion de l’affaire Kiperchuk, il a été jugé que la [traduction] « dissolution » de la relation par le décès mettait fin à la condition de [traduction] « lien de dépendance ». La conséquence de cette logique est présentée du paragraphe 24 au paragraphe 28 :
+[24] La question, par conséquent, est de savoir si l’auteur et le bénéficiaire du transfert avaient entre eux un lien de dépendance.
+[25] Si l’on tient pour acquis que l’auteur du transfert est l’ex‑mari, il n’était pas uni à l’appelante par les liens du mariage au moment où elle a commencé à avoir droit aux prestations du REER. En effet, le mariage prend fin à la mort d’un des deux époux ou quand un jugement irrévocable de divorce est prononcé (Kindl Estate, Re 1982 CarswellOnt 340, au paragraphe 10 (Cour supérieure de justice de l’Ontario)).
+[26] Par conséquent, l’appelante et son ex‑mari n’étaient plus unis par les liens du mariage au moment du transfert étant donné que l’appelante n’était plus l’épouse de ce dernier (alinéas 251(1)a) et 251(2)a) de la Loi). Elle n’était pas non plus réputée avoir un lien de dépendance avec son ex‑mari au sens de l’alinéa 251(1)b) de la Loi, étant donné que le REER ne lui avait pas été dévolu par succession.
+[27] Pour finir, il reste à examiner pour l’application de l’alinéa 251(1)c) de la Loi la question de savoir si l’appelante était bien liée à son ex‑mari à un moment donné, compte tenu des circonstances qui prévalaient alors. L’intimée a fait valoir que le moment pertinent en question était le moment où l’appelante avait été désignée comme bénéficiaire du REER de son ex‑mari, soit en 1990, alors qu’ils étaient encore mariés. L’intimée s’appuyait sur la conclusion tirée par le juge Angers dans la décision Homer, au paragraphe 25.
+[28] J’ai de la difficulté à adopter une telle conclusion en l’espèce, d’autant que le juge Angers ne l’avait pas véritablement approfondie. En y regardant de plus près, on peut voir que la partie pertinente du paragraphe 160(1) prévoit que « lorsqu’une personne a […] transféré des biens, directement ou indirectement, […] de toute […] façon à […] a) son époux ou […] une personne devenue depuis son époux […]; c) une personne avec laquelle elle avait un lien de dépendance, les règles suivantes s’appliquent :
+[…]
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l’auteur du transfert doit payer en vertu de la présente loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années ».
+[30] Compte tenu de la dissolution involontaire de CIA et de l’absence de tout [traduction] « document relatif à un transfert » antérieur, tout transfert était simplement impossible après le jour de la dissolution. Pour transposer les paragraphes 25 et 26 précités aux faits de la présente espèce, CIA est la société dissoute, elle n’existait pas et il n’y avait aucun lien de dépendance avec les frères Kvas au moment du transfert : autant de faits qui sont présumés, selon le ministre, avoir eu lieu le 31 décembre 2008, bien après le jour de la dissolution.
+[31] La dissolution n’a pas été entreprise par CIA ou par les frères Kvas dans le cadre d’un processus de liquidation (point qui a été concédé plus tard par le ministre). Elle ne constitue pas un plan précis dirigé et causé par l’auteur du transfert, CIA, pour tromper le ministre[9].
+[32] En conclusion, à l’occasion de l’affaire Kiperchuk, la juge Lamarre a observé :
+[29] Rien dans le libellé de cet alinéa ne rattache la relation qui unit l’auteur et le bénéficiaire du transfert à un autre moment que le moment du transfert du bien (ou un moment postérieur au transfert dans le cas où le bénéficiaire du transfert est depuis devenu l’époux de l’auteur du transfert). L’alinéa fait référence à l’acte et au moment du transfert, sans préciser qu’on pourrait tenir compte d’autres moments, antérieurs au transfert, pour que cette disposition s’applique au bénéficiaire du transfert.
+[30] En outre, dans l’arrêt Livingston, précité, la Cour d’appel fédérale a déclaré que, selon les critères applicables, le bénéficiaire du transfert devait être l’époux de l’auteur du transfert au moment de celui‑ci, une personne qui était âgée de moins de 18 ans au moment du transfert, ou encore une personne avec laquelle l’auteur du transfert avait un lien de dépendance (paragraphe 17).
+[33] Cesser d’exister, comme CIA l’a fait le jour de la dissolution en vertu de l’avis de dissolution, appelait la préexistence d’un acte de transfert ou la création d’un transfert ultérieur pour que l’article 160 de la LIR joue : une déclaration, un acheminement ou un versement de dividendes par ses administrateurs et par CIA, respectivement, ou encore des clauses de dissolution ou une entente de liquidation reflétant un quelconque acte de transfert d’actifs de la part de CIA aux frères Kvas, ses actionnaires. Ces faits ou des faits similaires n’existent pas. Après sa dissolution, CIA ne pouvait légalement (et comme je l’explique ci-après, cela ne s’est pas produit dans les faits) acheminer, créer ou envisager un tel transfert, particulièrement le 31 décembre 2008 ou autour de cette date.
+VI. CIA a-t-elle pris des mesures qui constituent un transfert au sens de l’article 160 de la LIR? [34] Conformément au constat susmentionné, et d’après les preuves présentées par les appelants, la présomption du ministre selon laquelle un transfert de dividendes a été effectué par CIA aux frères Kvas [traduction] « le 31 décembre 2008 ou autour de cette date » est réfutée. Notre Cour a analysé ci-dessous chacun des arguments en sens contraire de l’intimée, tout à fait indépendamment de la non-existence de l’auteur du transfert à tout moment après le jour de la dissolution.
+[35] L’avocate de l’intimée a très habilement structuré ses observations afin d’atténuer l’importance des questions de dissolution et de transfert effectif à la date présumée du transfert. L’accent a plutôt été mis sur les T5 non révoqués et émis subséquemment, sur le bilan de clôture de l’entreprise ainsi que sur la présomption déductive du ministre à partir de ces documents et d’autres déclarations de revenus et dépôts créés par les contribuables voulant que des biens détenus auparavant par un débiteur fiscal, CIA, aient été transférés aux bénéficiaires, les frères Kvas, qui ont reçu, fait usage ou bénéficié des avoirs du débiteur fiscal.
+[36] L’avocate de l’intimée a également soutenu que l’article 160 de la LIR visant les dividendes qui sont des transferts d’actifs[10], eux-mêmes par définition faits sans contrepartie[11]. Par ailleurs, le remboursement ultérieur par un bénéficiaire après le transfert n’annule pas le bénéfice une fois qu’il est reçu[12].
+[37] L’avocate de l’intimée affirme que la [traduction] « dissipation déductive » des avoirs est suffisante pour appuyer la conclusion du ministre selon laquelle un transfert d’actifs a eu lieu et coïncidait avec les dividendes déclarés. Aucune rétractation de ces dividendes n’a eu lieu, en dépit du fait que les frères Kvas étaient tout à fait au courant des mesures de recouvrement contre CIA. Il est noté que le ministre a nié une telle demande lors des observations. La voie choisie par les frères Kvas, d’après l’intimée, a été de liquider CIA, d’émettre des T5 et de refléter le retrait des avoirs nets à la liquidation; toutes ces mesures ont été confirmées au procès par le comptable des frères Kvas.
+[38] Enfin, l’avocate de l’intimée a affirmé qu’il n’y avait nulle preuve de confiscation effective par la couronne provinciale. En outre, il n’était pas nécessaire que les frères Kvas aient eu l’intention de frauder le ministre[13] ou d’entraver le processus de perception du ministre. L’article 160 est uniquement un mécanisme de perception prévu par de la Loi.
+[39] Aussi draconienne soit-elle, une disposition de l’article 160 de la LIR invoquée par la Couronne joue si les conditions prévues sont remplies[14]. Le premier critère est qu’il doit y avoir eu transfert[15]. L’élément principal d’un transfert se produit lorsqu’« une personne effectue un transfert de bien au profit d’une autre si elle fait l’action ou signe l’acte par lequel elle se départit du bien et simultanément l’accorde à cette autre personne »[16]. Cela englobe le versement de dividendes comme indiqué précédemment. Par ailleurs, aux fins de l’article 160 de la LIR, pertinent pour le présent appel, le « transfert de dividendes » doit avoir eu lieu au moment allégué du transfert[17].
+[40] CIA n’a jamais [traduction] « transféré de biens » au moyen de [traduction] « transfert de dividendes » le 31 décembre 2008 ou vers cette date. À la différence de l’affaire MacDonald, précitée, il n’y a eu aucune opération ou série d’opérations visant la dissolution ou la liquidation planifiée, envisagée ou désirée de CIA. Les caractéristiques habituelles d’une telle démarche entreprise par un contribuable étaient absentes en l’espèce : les résolutions d’autorisation, les déclarations de dividendes, les clauses de dissolution ou le consentement ministériel pour la dissolution (dont une condition préalable est, paradoxalement, la production de toutes les déclarations de revenus et le paiement de tout impôt sur les sociétés). Pourtant, lorsqu’il a reçu la notification du ministère des Finances de l’Ontario, le directeur de la Direction des compagnies en vertu de la LSA de l’Ontario a dissous CIA. Les frères Kvas étaient abasourdis. Ils avaient travaillé pendant six mois avant cette décision pour empêcher une dissolution involontaire et ont travaillé 18 mois par la suite pour reconstituer CIA. Par ailleurs, au moment de cette dissolution, la propriété de CIA était, selon la lettre de la loi, juridiquement dévolue à la Couronne provinciale[18]. CIA, l’auteur du transfert et débiteur fiscal critique selon l’article 160, n’a pris aucune mesure ni n’a directement omis aucun élément qui puisse, concrètement, constituer un « transfert de propriété » au sens ordinaire, habituel et généralement reconnu de ces mots. Nulle jurisprudence n’enseigne que le geste ou l’intention de l’auteur du transfert (par opposition au geste ou à l’intention bénéficiaire) est inutile pour faire jouer l’article 160 de la LIR. Bien au contraire : l’objet général de l’article 160 de la LIR, exprimé à de multiples reprises, est d’empêcher l’auteur du transfert, en tant que débiteur fiscal, de céder des biens dans le but d’éviter de payer des impôts[19]. De toute évidence, il faut qu’une quelconque cession ou omission possiblement délibérée soit entreprise ou causée, directement ou indirectement, par l’auteur du transfert ou le débiteur fiscal, ou qu’elle soit attribuable à ces derniers.
+[41] La date du transfert par l’auteur du transfert est également pertinente quant à la cotisation établie en vertu de l’article 160 de la LIR. Là encore, il est pertinent quant à la présente argumentation de préciser que CIA ne pouvait entreprendre nulle mesure de la sorte après le jour de la dissolution et avant le 31 décembre 2008 (la date présumée du transfert des dividendes). Par ailleurs, la cotisation du ministre fait référence à de multiples transferts présumés (plus de 25) à partir du jour de la dissolution et jusqu’au 31 décembre 2008. Concrètement, de tels versements ne constituent pas des [traduction] « transferts de dividendes » au [traduction] « moment du transfert » pertinent[20], à savoir le 31 décembre 2008 ou vers cette date, mais ils constituent plutôt de multiples [traduction] « mini transferts » présumés qui ont tous été, selon les témoignages non controversés, effectués au profit de tiers afin de permettre à CIA de poursuivre ses activités, de payer ses impôts et d’être reconstituée, et qui ont été financés, du moins en partie, par des apports de capitaux.
+[42] Selon les preuves présentées à notre Cour, le ministre, par l’entremise de l’ARC, était bien au courant de ces objectifs clairs. L’ARC, en association avec le gouvernement de l’Ontario, a créé, a dirigé et, en fin de compte, a effectivement contrôlé le moment où CIA a été dissoute involontairement avant de conclure que CIA ne devait jamais être reconstituée. L’ARC, elle-même, a suggéré la création d’un partenariat de succession en septembre 2009. À ce moment-là, l’ARC a émis des numéros de TPS et d’entreprise (NE) à ce partenariat, avec effet rétroactif au 1er janvier 2008. Cette directive et cette suggestion de la part de l’ARC ont contraint cette dernière à indiquer rétroactivement les étapes comptables appropriées pour donner une origine dans le temps à ce partenariat une fois que la reconstitution n’a plus été possible. Cette impossibilité était elle-même dictée par le refus de l’ARC de consentir à cette reconstitution. Par ailleurs, les états financiers révisés et les relevés T5 d’octobre 2009 ont été préparés par un comptable bienveillant, mais intervenant indépendamment, dans le but de « nettoyer » le bilan de l’irrévocablement défunte CIA.
+[43] Ces ironies n’échappent pas à notre Cour. Comme l’avocate de l’intimée l’a affirmé, le [traduction] « sujet difficile que personne ne voulait aborder » en octobre 2009 était les T5 rétroactifs et les états financiers révisés auxquels l’avocate de l’intimée a fait référence. Cependant, les précédents [traduction] « sujets difficiles que personne ne voulait aborder » étaient la dissolution involontaire de CIA pour omission de production de ses déclarations de revenus des sociétés, qui a été initiée par l’ARC et suivie de demandes de paiements, de déclarations de revenus et d’autres mesures de conformité de rattrapage avant d’aboutir, 18 mois plus tard, au refus par l’ARC de consentir à sa reconstitution, à la conversion dirigée de CIA en partenariat et à la cotisation établie en vertu de l’article 160 de la LIR à l’égard d’« anciens » actifs de société. Il est également curieux de constater que la cotisation établie en vertu de l’article 160 de la LIR concerne des retenues à la source non versées qui ne semblent pas avoir été étudiées de la manière plus habituelle et directe.
+[44] La propriété de CIA n’a pas été « transférée » par CIA, mais elle a été attribuée par l’ARC au moyen d’un dividende réputé aux termes du paragraphe 84(2) de la LIR qui formait lui-même, au départ, la base de la cotisation établie en vertu de l’article 160 de la LIR en raison d’une dissipation déductive d’actifs. Cependant, il n’en reste pas moins qu’un T5 rétroactif et des états financiers après le fait, rendus nécessaires par [traduction] « l’exécution administrée » par l’ARC, ne sauraient constituer un transfert là où il n’y en a pas. Ce transfert est un élément essentiel d’une cotisation établie en vertu de l’article 160 de la LIR. Il doit être entrepris ou effectué au moment pertinent par le débiteur fiscal ou l’auteur du transfert, et non fabriqué à partir de multiples versements à des tiers, par une dissipation déductive d’actifs étendue sur plusieurs mois ou par la [traduction] « présomption » de dividendes ou la [traduction] « supposition » d’un bénéfice. En outre, la cotisation, lorsqu’elle est imposée, doit refléter de manière fidèle ces éléments liés aux [traduction] « montants » et au [traduction] « calendrier ».
+[45] Pour ces motifs, l’argumentation de l’ARC ne peut être retenue. Nul transfert de propriété n’a eu lieu aux termes de l’article 160 de la LIR. Puisqu’un tel transfert est une condition impérative, cette disposition n’était pas applicable. Par conséquent, l’appel est accueilli.
+[46] Tel qu’il a été mentionné précédemment, la Cour recevra les observations des parties concernant les dépens dans les 30 jours suivant le présent jugement, à moins que les parties ne s’entendent sur cette question avant cette échéance.
+Signé à Ottawa, Canada, ce 15e jour de septembre 2016.
+« R. S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 27e jour de juin 2017.
+François Brunet, réviseur
+RÉFÉRENCE :
+2016 CCI 199
+NOS DES DOSSIERS DE LA COUR :
+2014-4517(IT)G, 2014-4518(IT)G
+INTITULÉ :
+PAUL KVAS et PETER KVAS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Les 4 et 5 avril 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 15 septembre 2016
+COMPARUTIONS :
+Avocat des appelants :
+Me Richard Yasny
+Avocate de l’intimée :
+Me Rishma Bhimji
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Richard Yasny
+Cabinet :
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Canada c. Livingston, 2008 CAF 89, au paragraphe 9.
+[2] Livingston, précité, au paragraphe 24.
+[3] Algoa Trust c. La Reine, 1993 CarswellNat 881, au paragraphe 44.
+[4] Canada c. Gilbert, 2007 CAF 136, aux paragraphes 14 et 15.
+[5] Kiperchuk c. La Reine, 2013 CCI 60, au paragraphe 29.
+[6] Canada c. MacDonald, 2013 CAF 110, au paragraphe 21.
+[7] Canada c. Addison & Leyen Ltd., [2007] 2 RCS 793, aux paragraphes 9 et 10.
+[8] Wannan c. Canada, 2003 CAF 423, au paragraphe 3.
+[9] Canada c. MacDonald, précité, aux paragraphes 5 et 25.
+[10] Addison & Leyen Ltd. c. Canada., aux paragraphes 58 et 59.
+[11] Gilbert, précité, aux paragraphes 14 et 15.
+[12] Livingston, précité, au paragraphe 24.
+[13] Livingston, précité, au paragraphe 19, faisant référence à Wannan, précité, au paragraphe 3.
+[14] Wannan, précité, au paragraphe 3.
+[15] Livingston, précité, au paragraphe 9.
+[16] Algoa Trust, précité, au paragraphe 44, citant St. Aubyn v. Attorney General, [1952] AC 15 (HL).
+[17] Kiperchuk, précité, au paragraphe 29.
+[18] LSA de l’Ontario, au paragraphe 244(1).
+[19] Livingston, précité, faisant référence à Medland c. Canada, 98 DTC 6358 (CAF); Heavyside v Canada, [1996] FCJ No 1608 (FC), au paragraphe 10.
+[20] Livingston, précité, au paragraphe 24.

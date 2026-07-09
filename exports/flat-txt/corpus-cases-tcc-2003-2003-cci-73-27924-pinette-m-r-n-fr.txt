@@ -1,0 +1,139 @@
+Title: Pinette M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27924/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-73-27924-pinette-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-03-04
+
+# Pinette M.R.N.
+
+- Citation: 2003 CCI 73
+- Decision date: 2003-03-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1707, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pinette M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-04
+Référence neutre
+2003 CCI 73
+Numéro de dossier
+1999-4787(EI)
+Juges et Officiers taxateurs
+Jerome F. Somers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 1999-4787(EI)
+ENTRE :
+SAMUEL PINETTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL
+intimé.
+____________________________________________________________________
+Appel entendu le 20 janvier 2003 à Sept-Îles (Québec),
+Devant : L'honorable juge suppléant J.F. Somers
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Alain Gareau
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 4e jour de mars 2003.
+«J.F. Somers»
+J.S.C.C.I.
+Référence :2003CCI73
+Date : 20030304
+Dossier : 1999-4787(EI)
+ENTRE :
+SAMUEL PINETTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Somers, C.C.I.
+[1] Cet appel a été entendu à Sept-Îles (Québec), le 20 janvier 2003.
+[2] L'appelant interjette appel de la décision du ministre du Revenu national (le «Ministre») selon laquelle l'emploi exercé au cours de la période en cause, soit du 4 au 22 novembre 1996, auprès de Julien Régis, le payeur, n'était pas assurable pour le motif qu'il n'existait pas de relation employeur-employé entre lui et le payeur.
+[3] Le paragraphe 5(1)a) de la Loi sur l'assurance-emploi (la «Loi») se lit comme suit :
+a) un emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[…]»
+[4] Le fardeau de la preuve incombe à l'appelant. Ce dernier se doit d'établir, selon la prépondérance de la preuve, que la décision du Ministre est mal fondée en fait et en droit. Chaque cas est un cas d'espèce.
+[5] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait suivantes lesquelles ont été admises, niées ou ignorées par l'appelant :
+a) Le payeur, Julien Régis, était l'unique propriétaire d'un atelier de soudure qu'il exploitait sous la raison sociale «Ti-Kay Sikuman»; (admis)
+b) l'entreprise est exploitée à l'année longue; (admis)
+c) les heures d'ouverture étaient de 8 h à 20 h, de 6 à 7 jours par semaine; (admis)
+d) il y avait toujours un ou deux soudeurs en place, soit Julien Régis et Yvan Ambroise; (admis)
+e) l'appelant a prétendu avoir été embauché comme journalier par le payeur alors qu'il n'a pas travaillé pour ce dernier; (nié)
+f) le payeur a affirmé qu'il n'avait besoin d'aucun journalier pendant la période en litige et il a prétendu avoir embauché l'appelant afin de lui permettre de se qualifier aux prestations d'assurance-emploi; (ignoré)
+g) l'appelant a prétendu avoir reçu une rémunération hebdomadaire de 560 $ en argent liquide alors qu'il n'a rien reçu; (nié)
+h) à une date indéterminée, le payeur a émis un relevé d'emploi au nom du travailleur indiquant qu'il avait travaillé du 4 au 22 novembre 1996 et qu'il avait reçu une rémunération hebdomadaire assurable de 560 $; (ignoré)
+i) le relevé d'emploi est faux; (nié)
+j) les parties ont conclu un arrangement dans le seul but de permettre à l'appelant de se qualifier aux prestations d'assurance‑emploi. (nié)
+[6] Le payeur était l'unique propriétaire d'un atelier de soudure qu'il exploitait à l'année longue sous la raison sociale «Ti-Kay Sikuman». Les heures d'ouverture étaient de 8 h à 20 h et ce de 6 à 7 jours par semaine. Il y avait toujours un ou deux soudeurs sur place, soit Julien Régis ou Yvan Ambroise.
+[7] L'appelant a demandé au payeur de l'embaucher car il avait besoin de trois semaines de travail afin de se qualifier aux prestations d'assurance-emploi. Selon l'appelant, il a travaillé comme journalier de 8 h à 17 h, cinq jours par semaines pendant une période de trois semaines. Selon lui, ses tâches consistaient à nettoyer l'établissement du payeur, à aider à confectionner une pelle pour le tracteur, à faire des clôtures en métal pour un cimetière et à faire un escalier au garage municipal.
+[8] L'appelant était rémunéré 560 $ par semaine pour 40 heures de travail. La rémunération était versée en argent comptant et aucun reçu n'a été émis pour ce salaire.
+[9] En contre-interrogatoire, l'appelant a admis qu'il avait besoin de trois semaines de travail pour se qualifier aux prestations d'assurance-emploi. À la fin de ces trois semaines il avait accumulé suffisamment de semaines, il était satisfait et a mis fin à son emploi.
+[10] Dans sa déclaration statutaire en date du 6 janvier 1999 (pièce I-1), aux questions concernant l'emploi de l'appelant, le payeur a déclaré, entre autres, ce qui suit :
+Q. Pour quelles raisons avez-vous embauché M. Pinette pour une période de 3 semaines entre le 4 et le 22 novembre 1996?
+R. C'était probablement parce qu'il lui manquait des semaines. Dans ce temps là le Conseil embauchait des gens, il les payait et c'est moi qui les faisait travailler.
+Q. Comment s'est fait son embauche?
+R. Je ne me souviens plus vraiment, mais c'est toujours la même chose quand il leur manque des semaines ils viennent me voir.
+Q. Pour quelles raisons aviez-vous besoin d'un journalier pour ces semaines alors qu'il n'y avait pas de soudeur?
+R. Je n'avais pas vraiment besoin, mais je n'ai pas fait de contrat de .... (débroussaillage) Yvan a du se tromper quand il a dit cela. Je l'ai pris pour qu'il fasse ses timbres.
+Q. Lors de sa fin d'emploi, M. Pinette vous a-t-il dit qu'il souhaitait arrêter de travailler?
+R. Je ne me souviens pas q'il m'a dit qu'il s'en allait au quai mais moi je n'avais pas vraiment besoin de lui.
+[11] Le payeur a déclaré qu'il ne se souvenait pas si l'appelant avait fait de la soudure durant sa période d'emploi et a ajouté qu'il avait probablement fait de la peinture. Le payeur a admis qu'il ne tenait aucun registre de salaires; donc les heures n'étaient pas comptabilisées.
+[12] Le payeur a déclaré ne pas savoir s'il versait des primes d'assurance‑emploi. Il n'a produit aucun livre de comptabilité pour déterminer son chiffre d'affaires pour l'année 1996 et n'a pas prouvé qu'il avait la capacité financière pour engager l'appelant simplement parce que ce dernier avait besoin de semaines d'emploi supplémentaires pour se qualifier aux prestations d'assurance‑emploi.
+[13] Lors d'une deuxième déclaration statutaire en date du 6 janvier 1999 (pièce I-2), le payeur a déclaré, entre autres :
+...Les horaires sont en fonction aussi des semaines qui manquent pour qu'ils fassent leurs timbres de chômage...
+[14] Dans l'arrêt Laverdière c. Canada (ministre du Revenu national – M.R.N.), [1999] A.C.I. no 124, le juge Tardif de cette Cour, dans sa décision en date du 25 février 1999, s'exprimait ainsi :
+Par contre, je crois que le travail exécuté par l'appelant durant cette même période en 1992 ne constitue pas pour autant un véritable contrat de louage de services et ce, notamment, pour les raisons suivantes. Tout d'abord, seul un véritable contrat de travail peut rencontrer les exigences pour être qualifié de contrat de louage de services; un véritable contrat de louage de services doit regrouper certaines composantes essentielles dont une prestation de travail; son exécution doit être subordonnée à l'autorité du payeur de la rétribution. La rémunération doit être fonction de la quantité et qualité du travail exécuté.
+Toute entente ou arrangement prévoyant des modalités de paiement de la rétribution non pas en fonction du temps ou de la période d'exécution du travail rémunéré, mais en fonction de d'autres objectifs tel tirer avantage des dispositions de la Loi, vicie la qualité du contrat de louage de services.
+Cette appréciation est d'ailleurs valable pour toutes les périodes en litige ayant trait aux deux appelants. Les modalités d'un véritable contrat de louage de services doivent s'articuler autour de la prestation de travail à accomplir, d'un mécanisme permettant de contrôler l'exécution du travail et finalement, d'une rétribution correspondant essentiellement à la qualité et la quantité du travail exécuté.
+[...]
+Il en est ainsi au niveau de toute entente ou arrangement dont le but et l'objectif est d'étaler ou cumuler la rémunération due ou être due de manière à tirer avantage des dispositions de la Loi. Toute planification ou entente qui maquille ou altère les faits relatifs à la rétribution, dans le but de maximiser les bénéfices de la Loi, disqualifie le contrat de louage de services.
+[15] Dans la cause sous étude, le payeur ne tenait aucun registre quant aux heures travaillées. Il n'a produit aucun document établissant son chiffre d'affaires et démontrant sa capacité financière pour engager l'appelant dont le seul objectif était d'obtenir des semaines d'emploi assurable supplémentaires pour se qualifier aux prestations d'assurance-emploi.
+[16] L'appelant a travaillé seulement trois semaines, soit le nombre exact de semaines dont il avait besoin. D'ailleurs l'appelant n'a travaillé pour le payeur qu'à cette seule occasion. Aucune preuve n'a été produite quant au paiement du salaire à l'appelant; le payeur ne savait même pas le nombre d'heures travaillées par l'appelant. Le relevé d'emploi signé par le payeur ne représente pas la réalité.
+[17] Il y avait donc un arrangement entre le payeur et l'appelant afin que ce dernier puisse bénéficier des avantages des dispositions de la Loi.
+[18] Pour les raisons précitées, il n'existait pas de véritable contrat de louage de services au sens de l'alinéa 5(1)a) de la Loi.
+[19] En conséquence, l'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Ottawa, Canada, ce 4e jour de mars 2003.
+« J.F. Somers »
+J.S.C.C.I.
+RÉFÉRENCE :
+2003CCI73
+No DU DOSSIER DE LA COUR :
+1999-4787(EI)
+INTITULÉ DE LA CAUSE :
+Samuel Pinette et M.R.N.
+LIEU DE L'AUDIENCE :
+Sept-Îles (Québec),
+DATE DE L'AUDIENCE
+le 20 janvier 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge suppléant J.F. Somers
+DATE DU JUGEMENT :
+le 4 mars 2003
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimé :
+Me Alain Gareau
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

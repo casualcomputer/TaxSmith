@@ -1,0 +1,151 @@
+---
+title: "Sam c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/143688/index.do"
+last_modified: "2015-11-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 98"
+citation2: ""
+neutral_citation: "2016 CCI 98"
+decision_date: "2015-11-24"
+language: "fr"
+item_id: "143688"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3125
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:17:00.886000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c7d0e6b3b701f2e43bc4a273047a8be775d5e28bed2eaa6b36985282e7f011cb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sam c. La Reine
+
+- Citation: 2016 CCI 98
+- Decision date: 2015-11-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3125, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sam c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-11-24
+Référence neutre
+2016 CCI 98
+Numéro de dossier
+2013-2193(IT)G
+Juges et Officiers taxateurs
+Dwayne W. Rowe
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2016 CCI 98
+2013-2193(IT)G
+ENTRE :
+BRENDA SAM,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+TRANSCRIPTION DES
+MOTIFS DU JUGEMENT
+Je requiers que soit déposée, sous réserve de corrections très mineures, la transcription certifiée ci-jointe des motifs du jugement rendus oralement à l’audience, le 24 novembre 2015, à Toronto (Ontario).
+_______________« D.W. Rowe »_________________
+Le juge suppléant Rowe
+Signé à Sidney (Colombie-Britannique), le 15 avril 2016.
+No du dossier de la Cour : 2013-2193(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+BRENDA SAM
+appelante,
+- et -
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+TRANSCRIPTION DES MOTIFS RENDUS ORALEMENT
+DEVANT L’HONORABLE JUGE ROWE,
+aux bureaux du Service administratif des tribunaux judiciaires,
+180, rue Queen ouest, Toronto (Ontario),
+le mardi 24 novembre 2015, à 14 h 45.
+COMPARUTIONS :
+Me Jeffrey Radnoff pour l’appelante
+Me Tony Cheung pour l’intimée
+Également présents :
+Carol Forde greffière audiencière
+Miriam Claerhout sténographe judiciaire
+A.S.A.P. Reporting Services Inc. © 2015
+200, rue Elgin, bureau 1105 333, rue Bay, bureau 900
+Ottawa (Ontario) K2P 1L5 Toronto (Ontario) M5H 2T4
+613-564-2727 416-861-8720
+Traduction certifiée conforme
+ce 7e jour de décembre 2016.
+Mario Lagacé, jurilinguiste
+Toronto (Ontario)
+­­­ Les présents motifs ont été rendus oralement le mardi 24 novembre 2015, à 14 h 45.
+MOTIFS RENDUS ORALEMENT :
+LE JUGE ROWE : L’appelante a interjeté appel à l’encontre d’une nouvelle cotisation établie pour l’année d’imposition 2009. Dans sa déclaration de revenus de 2009, l’appelante a déclaré certaines pertes, lesquelles ont été rejetées par le ministre du Revenu national lorsqu’il a établi la cotisation relative à cette année d’imposition. Là encore, il s’agissait d’une situation où avait été présentée une demande afin de reporter rétrospectivement des pertes autres qu’en capital.
+Maintenant, dans la décision Brisson c. La Reine, 2013 A.C.I. no 210, la juge Valerie Miller s’est penchée sur une question relative à l’imposition de pénalités en application de l’article 163 de la Loi de l’impôt sur le revenu et, au paragraphe 24 de son jugement, elle a affirmé ce qui suit :
+Selon le paragraphe 163(3) de la LIR, « le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité ». Par conséquent, l’intimée doit prouver (1) que les appelants ont fait un faux énoncé ou une omission dans leurs déclarations de revenus de 2008, (2) que le faux énoncé ou l’omission a été fait sciemment ou dans des circonstances équivalant à faute lourde.
+[25] La jurisprudence s’intéressant à l’application du paragraphe 163(2) abonde. S’il est vrai que chaque décision est intimement liée aux faits particuliers de l’espèce, les tribunaux ont quand même pu en dégager quelques grands principes.
+[26] Le passage suivant, tiré de la décision Venne c. La Reine, [1984] A.C.F. no 314 (QL) (C.F. 1re inst.) a été cité et mentionné dans de nombreuses décisions de la Cour canadienne de l’impôt et de la Cour d’appel fédérale et demeure, à ce jour, la définition de référence de la faute lourde :
+La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi.
+[27] Par ailleurs, dans l’arrêt Procureur général du Canada c. Villeneuve, 2004 CAF 20, la Cour d’appel fédérale a conclu que l’expression « faute lourde » pouvait englober l’aveuglement volontaire en plus de l’acte intentionnel et de l’intention coupable. Au paragraphe 6 des motifs, le juge Létourneau s’est exprimé en ces termes :
+Avec égards, je crois que la juge a omis de considérer la notion de faute lourde qui peut découler d’un aveuglement volontaire de son auteur. Même l’intention coupable qui, souvent, prend la forme de la connaissance de l’un ou de plusieurs des éléments constitutifs du geste reproché peut s’établir par une preuve d’aveuglement volontaire. En pareil cas, l’auteur du geste, bien qu’il n’ait pas de connaissance actuelle de l’élément reproché, se voit imputer la connaissance de cet élément.
+La juge Valerie Miller a poursuivi en déclarant que « [d]epuis l’arrêt Villeneuve, il est bien établi qu’il n’est pas nécessaire de démontrer que le contribuable avait réellement connaissance de la négligence du comptable pour conclure qu’il y a eu faute lourde [...] ». Elle a cité ensuite la décision Brochu.
+Maintenant, nous connaissons bien la décision Torres, qui a été rendue par le juge Campbell Miller. Cette décision a été confirmée par la Cour d’appel fédérale dans l’arrêt portant le numéro de référence 2015 A.C.F. no 252. Au paragraphe 4 de cet arrêt, la juge Dawson a affirmé ce qui suit au nom de cette cour :
+Premièrement, comme l’a admis l’avocat de l’appelante dans sa plaidoirie, le juge n’a pas commis d’erreur en ce qui a trait au critère juridique applicable. La faute lourde peut être établie dans le cas où le contribuable fait preuve d’ignorance volontaire au sujet des faits pertinents lorsqu’il ressent le besoin de se renseigner, mais refuse de le faire parce qu’il ne veut pas connaître la vérité [...]
+Encore une fois, on renvoie à l’arrêt Villeneuve.
+Ensuite, dans la décision Torres, le juge Campbell Miller a discuté des divers indices qui doivent être examinés, en tenant compte du niveau d’instruction d’une personne et du montant du remboursement, en déterminant s’il y avait des signaux d’alarme ou des feux rouges clairs, et en établissant si la personne savait ce qui se passait et connaissait l’importance de l’avantage pouvant être obtenu.
+En l’espèce, l’appelante a affirmé dans son témoignage – que j’accepte – que ses déclarations de revenus avaient été établies pendant de très nombreuses années par sa belle-sœur qui, selon ce que l’appelante avait compris, avait fait des études universitaires en comptabilité. En outre, pendant bien des années, l’appelante avait obtenu certains remboursements en raison de la déductibilité des cotisations syndicales payées au syndicat des enseignants (ou son équivalent) et des cotisations versées à un Régime enregistré d’épargne-retraite.
+En 2004-2005, la belle-sœur de l’appelante, Denise Hunt, a commencé à travailler pour une entité appelée DSC. L’appelante a continué de faire établir ses déclarations de revenus à cet endroit, où elle voyait sa belle-sœur et a rencontré un certain nombre d’employés, dont la réceptionniste.
+Or, Mme Hunt est décédée à la fin du mois de janvier 2010. Au moment de son décès, elle avait établi les déclarations de revenus de l’appelante jusqu’à l’année d’imposition 2008. Par conséquent, l’appelante s’est rendue au bureau de DSC en apportant ses déclarations de revenus antérieures ayant été établies par sa belle-sœur, et elle a demandé si l’entreprise pouvait établir sa déclaration de revenus. On lui a répondu que c’était possible, mais que l’entreprise établirait sa déclaration par l’entremise d’une autre personne. Mme Sam a demandé : [TRADUCTION] « De qui s’agit-il? » Ce à quoi on lui a répondu : [TRADUCTION] « Ne vous en faites pas, car cette personne a établi des milliers de déclarations de revenus; lorsque votre déclaration nous sera retournée, vous n’aurez qu’à vous présenter ici pour la signer. »
+Ainsi, l’appelante est retournée au bureau de DSC, a jeté un bref coup d’œil à sa déclaration et l’a signée, puis elle a signé le report rétrospectif des pertes. Cependant, d’après le cahier de preuve documentaire, la déclaration en soi était erronée, puisque certaines lignes avaient été biffées sans explication quant à la personne qui avait procédé ainsi et quant à la date. En conséquence, toute ambiguïté à cet égard devrait être résolue en faveur de l’appelante.
+Maintenant, en examinant la question d’un point de vue pratique, particulièrement en ce qui concerne le fait que l’on a conseillé à Mme Sam de s’adresser à Larry Watts, qui lui a dit de ne pas s’en faire et qui lui a fourni des lettres absolument insensées contenant du charabia et un ramassis de mots dénués de sens, l’appelante a accepté ce qu’on lui a dit sans se poser de questions puisque, selon elle, il s’agissait d’un conseil valable prodigué par une personne ayant, semble-t-il, de l’expertise en la matière.
+Contrairement à ce qui se produit parfois dans ce genre de situation, on n’a pas tenté de convaincre l’appelante de faire expressément appel aux services de Larry Watts, ou à la personne ayant établi sa déclaration de revenus à titre d’agent pour DSC, en lui faisant valoir qu’elle obtiendrait un remboursement. On n’avait pas tenté particulièrement de la convaincre de procéder ainsi en lui expliquant que, lorsqu’elle toucherait son remboursement, il lui faudrait verser à l’entité un montant correspondant à un pourcentage à échelle mobile.
+Pendant de nombreuses années, l’appelante avait versé une centaine de dollars à sa belle-sœur pour qu’elle produise ses déclarations de revenus, ce qui semblait raisonnable; toutefois, une proposition de prix que lui avait remise une personne de chez DSC prénommée Janet, selon laquelle la déclaration pourrait coûter jusqu’à 600 $ ne semblait pas déraisonnable elle non plus. Par conséquent, il n’y avait pas de signaux d’alarme ou de feux rouges clairs à ce moment-là.
+Où Mme Sam a-t-elle fait fausse route par la suite? Bon, heureusement, le remboursement n’a pas été envoyé. Au lieu de s’adresser directement à l’Agence du revenu du Canada, l’appelante est retournée chez DSC. Je peux comprendre pourquoi elle a procédé ainsi la première fois. Cependant, lorsqu’elle s’est vu remettre ces lettres afin de les signer et de les renvoyer à l’Agence du revenu du Canada, j’estime qu’elle aurait dû littéralement les déchirer tellement elles étaient visiblement dénuées de sens.
+Par contre, cela ne signifie pas que l’appelante avait l’intention requise dès le départ. À mon sens, il ressort de la preuve que l’appelante n’était pas réellement au courant de cette escroquerie, et que ses actes et omissions sont attribuables à une erreur humaine, de même qu’à son inattention. Les personnes appelées régulièrement à trancher de telles questions qui sont confrontées à ce genre de comportement doivent absolument éviter de prêter leurs connaissances aux gens qui cherchent uniquement à obtenir des conseils.
+En l’espèce, il ne s’agit pas d’une situation où l’appelante s’était laissé convaincre qu’elle pourrait, pour une raison quelconque, être dissociée de son numéro d’assurance sociale. En réalité, elle a littéralement accepté de suivre le conseil qu’on lui a prodigué. Cependant, à la lumière de l’ensemble de la preuve et du témoignage de Mme Sam, que j’estime crédible, rien n’indique que l’appelante devrait être assujettie aux pénalités pour faute lourde prévues au paragraphe 163(2) de la Loi de l’impôt sur le revenu.
+Comme je l’ai mentionné à l’avocat à qui incombe le fardeau de la preuve en l’espèce, ça y était presque, mais nous ne jouons pas ici une partie de fers à cheval. L’appelante bénéficie donc de l’incapacité de la Couronne à se décharger de son fardeau. Par conséquent, l’appel est accueilli.
+La cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que la pénalité imposée à l’égard de l’année d’imposition 2009 devrait être supprimée.
+ME RADNOFF : Merci beaucoup, M. le juge. Ma cliente vous remercie, évidemment, et il ne reste qu’à déterminer si l’appel est accueilli avec dépens. Devons-nous régler cette question immédiatement?
+LE JUGE ROWE : Vous le pouvez. Je veux vous préciser que, dans les présentes circonstances, je suis peu enclin à l’idée d’adjuger les dépens.
+ME RADNOFF : Je comprends, mais dans la présente situation, je crois que l’appelante a involontairement été entraînée dans cette fâcheuse situation. [...] Cela dit, je vous pose la question pour le compte de ma cliente, et je comprends votre ordonnance, peu importe sa teneur, évidemment.
+LE JUGE ROWE : Avez-vous des commentaires à formuler au sujet des dépens, Me Cheung?
+ME CHEUNG : Je tiens seulement à dire, M. le juge, que si la Cour souhaite adjuger les dépens, l’intimée affirme que les dépens établis selon le tarif sont appropriés.
+LE JUGE ROWE : En fait, je ne croyais même pas aller si loin. Je pensais m’en tenir à un montant fixe.
+ME CHEUNG : Dans ce cas, M. le juge, l’intimée propose le montant fixe de 1 000 $, débours inclus.
+ME RADNOFF : En réalité, même si des dépens de 5 000 $ étaient adjugés à l’appelante, ce montant ne correspondrait qu’à une fraction de ce qu’il en coûte réellement à un contribuable pour se présenter ici.
+LE JUGE ROWE : J’en suis conscient.
+ME RADNOFF : Je dirais que 5 000 $ serait raisonnable. Je crois qu’il s’agirait d’un montant équitable. L’appelante doit encore [...]
+LE JUGE ROWE : À combien s’élèvent vos débours?
+ME RADNOFF : En ce qui concerne les débours, puisqu’il en coûte environ 400 $ pour interjeter appel, j’estime que les débours s’élèveraient à un montant qui se situe entre 750 $ et 1 000 $.
+LE JUGE ROWE : Très bien. J’adjuge également des dépens de 3 000 $, plus les débours.
+ME RADNOFF : Merci, M. le juge.
+LE JUGE ROWE : Il s’agit d’un montant fixe adjugé conformément à la règle pertinente.
+ME RADNOFF : Merci.
+L’audience relative aux motifs du jugement exposés de vive voix est levée à 14 h 59.
+Traduction certifiée conforme
+ce 7e jour de décembre 2016.
+Mario Lagacé, jurilinguiste

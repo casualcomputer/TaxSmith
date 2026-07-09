@@ -1,0 +1,185 @@
+Title: Stanley J. Tessmer Law Corporation  v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28876/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-469-28876-stanley-j-tessmer-law-corporation-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-09-12
+
+# Stanley J. Tessmer Law Corporation  v. The Queen
+
+- Citation: 2008 TCC 469
+- Decision date: 2008-09-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1333, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stanley J. Tessmer Law Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-09-12
+Neutral citation
+2008 TCC 469
+File numbers
+2007-3627(GST)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2007-3627(GST)G; 2007-3628(GST)G;
+2007-3629(GST)G; 2007-3630(GST)G;
+2007-3631(GST)G
+BETWEEN:
+STANLEY J. TESSMER LAW CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motions heard on April 16 and 17, 2008 at Vancouver, British Columbia
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Craig C. Sturrock
+Counsel for the Respondent:
+David Jacyk and Lisa McDonald
+____________________________________________________________________
+ORDER
+Upon Motion by the Appellant for an Order referring a determination of a question pursuant to section 58(1)(a) of the Tax Court of Canada Rules;
+And upon Motions by the Respondent for:
+1. an Order striking portions of the Notices of Appeal pursuant to section 53 of the Tax Court of Canada Rules (General Procedure);
+2. or, in the alternative, for an Order referring a determination of a question pursuant to section 58(1)(a) of the Tax Court of Canada Rules (General Procedure);
+It Is Ordered That:
+1. the Respondent’s motion to strike portions of the Notices of Appeal pursuant to Rule 53 is dismissed;
+2. the Respondent’s alternative motion for an order pursuant to Rule 58(1)(a) to refer the following question is allowed:
+Does the Appellant have the standing to raise and rely on the alleged breaches of the Charter rights of its clients in challenging the validity of the Excise Tax Act as it applies to impose Goods and Services Tax (“GST”) on legal fees charged for criminal defence services supplied by the Appellant?
+3. the Appellant’s motion for an Order referring a determination of a question pursuant to Rule 58(1)(a) is dismissed; and
+4. The matter of costs in these motions is left to the discretion of the trial Judge.
+Signed at Charlottetown, Prince Edward Island, this 12th day of September 2008.
+“Diane Campbell”
+Campbell J.
+Citation: 2008 TCC 469
+Date: 20080912
+Dockets: 2007-3627(GST)G; 2007-3628(GST)G;
+2007-3629(GST)G; 2007-3630(GST)G;
+2007-3631(GST)G
+BETWEEN:
+STANLEY J. TESSMER LAW CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Campbell J.
+[1] I have several motions before me. The Respondent seeks an order to strike portions of the Notices of Appeal under Rule 53 of the Tax Court of Canada Rules, or, alternatively, an order referring the determination of a question respecting the Appellant’s standing pursuant to Rule 58(1)(a) of the Rules. The Appellant seeks an order also referring the determination of a question pursuant to Rule 58(1)(a) but the Appellant’s question is not the same as the question which the Respondent seeks to have referred for determination. The Appellant’s question concerns the constitutional issue.
+[2] Let me first deal with the Respondent’s motion to strike portions of the Notices of Appeal. The Respondent’s application is brought on the basis that the principles of issue estoppel and abuse of process should apply to preclude the Appellant from re‑litigating the same constitutional challenge raised in its appeal in 1999. The Respondent’s argument is that the main issues raised in the present appeals have already been made by the Appellant and dealt with by this Court in an earlier appeal. Therefore only the issue of gross negligence penalties and the issue of whether the assessment is statute barred in one year remain.
+[3] By way of background, the Appellant’s business involves the provision of legal services. The Appellant’s principal, Stanley Tessmer, specializes in criminal defence law. The Appellant appealed an earlier GST assessment, asserting that the application of GST to its legal bills for criminal defence services infringed the Charter rights of its clients to retain and instruct counsel as protected by section 10(b) of the Charter of Rights and Freedoms. On June 7, 1999, J. McArthur dismissed the Appellant’s appeal on the basis that “the Charter does not absolve an accused who pays for legal services, from GST” and that the Charter did not provide a “constitutional duty to subsidize the funding of defence lawyers regardless of the accused’s financial resources.” (Stanley J. Tessmer Law Corporation v. Canada, [1999] G.S.T.C. 41, at paragraph 10.)
+[4] The present five appeals arise from assessments of the Appellant’s GST reporting periods between 1999-07-01 and 2005-09-30 and for four additional reporting periods based on three month intervals between 2005-10-01 and 2006‑12‑31, for failing to collect GST with respect to the supply of legal services. Based on its response to a Demand for Particulars issued on November 5, 2007, the Appellant’s position is based on the alleged breaches of the Charter rights of its clients, who retain the Appellant to provide criminal defence services. It challenges the constitutional validity of the Excise Tax Act in its application of GST to these services with the resulting interference to a defendant’s right to counsel of choice.
+[5] At paragraph 17 of its Written Submissions, the Respondent sets out its position on this issue as follows:
+(a) the Appellant is barred by the principles of issue estoppel and abuse of process from relitigating the following matters determined in its 1999 Appeal:
+(i) that the Appellant has standing to raise and rely on any of the alleged breaches of the Charter rights of its clients to challenge the validity of the Excise Tax Act; and
+(ii) that the Appellant has no obligation to collect GST in relation to criminal defence services based on the substantive Charter arguments raised in the Appeals.
+[6] Rule 53 reads as follows:
+Striking out a Pleading or other Document
+RULE 53
+53. The Court may strike out or expunge all or part of a pleading or other document, with or without leave to amend, on the ground that the pleading or other document,
+(a) may prejudice or delay the fair hearing of the action,
+(b) is scandalous, frivolous or vexatious, or
+(c) is an abuse of the process of the Court.
+[7] The Appellant’s arguments against the Respondent’s motion to strike are based primarily on significant factual differences which the Appellant alleges exist between the present appeals and those facts that were before J. McArthur in 1999. In addition, the Appellant contends that “the substantive law regarding constitutional rights and the rights of an accused person to counsel has been further refined and clarified by the Supreme Court of Canada in Christie” (Applicant’s Argument re Respondent’s Motion, paragraph 41).
+[8] As a general principle, supported by a great deal of caselaw, a motion to strike portions of a pleading can succeed only where it is clearly evident that the portions sought to be struck will be prejudicial to a fair hearing, are scandalous, vexatious or frivolous or an abuse of the Court’s process. The question is whether, as the Respondent contends, the principles of issue estoppel and abuse of process apply to prevent the Appellant from arguing the constitutional issues raised in these appeals.
+[9] The Supreme Court of Canada in Angle v. Canada (Minister of National Revenue – M.N.R.), [1975] 2 S.C.R. 248, set out the three preconditions to be met for issue estoppel to apply:
+1. that the same question that is before the Court was decided by an earlier court decision;
+2. that the earlier decision is final; and
+3. that the parties to the judicial decision, or their privies, are the same as the parties in the present appeals.
+[10] J. Boyle in Golden et al. v. Canada, 2008 DTC 3363, at paragraph 24, (decision under appeal to the Federal Court of Appeal) made the following comment on the principle guiding the application of issue estoppel:
+The doctrine of issue estoppel is not to be applied automatically or inflexibly once the preconditions are established. It remains for this Court to decide whether, as a matter of discretion, issue estoppel ought to be applied or if its application would be unfair in these particular circumstances.
+[11] There is no question that the third precondition to the application of issue estoppel set out in the preceding paragraph [9], that the parties to the prior and present litigation are the same, is satisfied.
+[12] With respect to the second precondition, the finality of the 1999 decision of J. McArthur, that appeal was heard under the Informal Procedure pursuant to section 18 of the Tax Court of Canada Act (the “Act”). The Respondent’s position was that, because the 1999 decision was never appealed, it must be considered to be a final decision. The question is whether a decision of this Court made pursuant to the Informal Procedure will be considered a final one in respect to the application of the issue estoppel.
+[13] Although section 18.28 of the Act dictates that a decision under the Informal Procedure will not create a precedent, other provisions appear to provide that such a decision will still be considered a final and conclusive decision in a matter. Section 18.24 of the Act states:
+Final judgment
+18.24 An appeal from a judgment of the Court in a proceeding in respect of which this section applies lies to the Federal Court of Appeal in accordance with section 27 of the Federal Courts Act.
+Section 2 of the Federal Courts Act states:
+“final judgment" means any judgment or other decision that determines in whole or in part any substantive right of any of the parties in controversy in any judicial proceeding;
+[14] These provisions together with portions of section 27 of the Federal Courts Act imply that the right to appeal a decision made under the Informal Procedure is more limited than it is for one rendered under the General Procedure. Nevertheless, with respect to issue estoppel, I see no reason why a decision rendered under the Informal Procedure should be any less final and conclusive than a decision rendered under the General Procedure. It is to some extent simply an application of common sense that the informal decisions should carry the same degree of finality and conclusiveness in applying the principle of issue estoppel.
+[15] The remaining precondition to the application of the issue estoppel is whether the questions or issues that were previously decided by this Court in 1999 render that decision conclusive as it relates to the main issues in the present appeals. The evidence must be clear and certain that the issues, or questions, to which the Respondent requests that the issue estoppel apply, were specifically and conclusively settled by a Court in another separate proceeding. This applies to both issues of fact and law. Although the Appellant spent considerable time criticizing the 1999 decision, it must be remembered that this is not an appeal of that decision but instead a motion to strike portions of these present Notices of Appeal. Within the parameters of this Motion as it relates to the remaining precondition to issue estoppel, I am not determining the validity of the Appellant’s arguments concerning these appeals but rather I am focussed on whether these same arguments have already been decided and disposed of in the 1999 decision. If they have, then the three preconditions to the application of issue estoppel have been satisfied.
+[16] The Appellant contends that there are significant factual differences between these appeals and the facts in the 1999 decision and that the law has changed since 1999. Although these changes do not appear to fall within the three preconditions to issue estoppel, because of the discretionary nature of Rule 53 and because the Appellant has raised them, I believe that I can consider them.
+[17] According to paragraph 2 of the 1999 decision of J. McArthur, “the Appellant had collected GST for that period without remitting it to the Minister in order to commence this appeal. It has now been remitted.” In the present appeals, however, the Appellant did not collect GST on accounts rendered and did not remit GST. Consequently, the Appellant was assessed penalties.
+[18] In addition, the present appeals involve much larger amounts than those involved in the 1999 appeal and the appeals have been instituted under the General Procedure. There are also different periods in issue between the present appeals and the 1999 appeal. In Leduc v. Canada, [2002] 2 C.T.C. 2735, at paragraph 18, the Respondent argued that issue estoppel should not apply to different tax years:
+Counsel for the respondent also cites a decision by a common law court with jurisdiction over property tax, in which that court refused to apply the doctrine of issue estoppel in respect to a different taxation year. The decision in question was Quintette Coal Ltd. v. B.C., etc., [1988] 21 B.C.L.R. (2d) 193 (S.C.), at pages 197-98:
+There are a number of very impressive reasons why res judicata should not apply to successive tax assessment cases, all of which have been expressed most eloquently in the cases cited. The chief of these, I suggest, are:
+1. An assessor carries out a statutory duty.
+2. An assessment or valuation is temporary in nature and limited in time.
+3. The jurisdiction of a decision-making tribunal is limited. Its function begins and ends with determining the assessment of a defined period.
+4. The assessment for a new year is not "eadem quaestio".
+5. No real lis is involved since the assessor has no self-interest.
+Leduc is rendered pursuant to civil law principles while the decision of Quintette Coal Ltd. v. B.C., etc., [1988] 21 B.C.L.R. (2d) 193 (S.C.), referenced in the Leduc decision, considered the Assessment Act of British Columbia. I would not consider either of these cases to be conclusive of this issue and it appears that issue estoppel may still apply to following taxation periods.
+[19] At paragraph 6 of the 1999 decision, J. McArthur stated:
+The main force of the Appellant's argument is that subsection 10(b) gives the detainee or accused the privilege to retain counsel of choice without regard to one's financial resources. …
+The Appellant submits that the basis and substance of its argument has now changed. However the Appellant’s counsel does admit that:
+… an accused person has a right to counsel and a right to counsel of choice but that right is not absolute. Such a right does not entitle an accused to the most expensive counsel or, for example, to have state funded counsel for any lawyer the accused might choose. The right is simply to retain counsel within the means and opportunity available to the accused. (Paragraph 29 of the Applicant’s Argument Re Respondent’s Motion.)
+Nevertheless, it appears that the Appellant is still alleging that its clients’ right to counsel of choice is impeded by the imposition of the GST. Furthermore, in the present Appeals, the Appellant now relies on sections 7 and 11(d) of the Charter in addition to section 10 which was the basis of its argument in the 1999 appeal.
+[20] The Respondent’s position is that pleading these additional provisions in the present appeals will not materially change the issue because the questions relating to sections 7 and 11(d) are closely connected with the arguments raised pursuant to section 10(b) in the 1999 appeal and as such require a case by case analysis. In fact the Appellant admits that sections 7 and 11(d) do not add to its argument and submit that no contextual facts would be required to support its case.
+[21] Considering all of these arguments, I am satisfied that there are sufficient circumstances here that justify the exercise of my discretion to conclude that the elements of issue estoppel are not satisfied. Even if the preconditions were met, I believe I must look at the overall circumstances of the particular case before me in deciding if issue estoppel should apply. It should never be applied indiscriminately. It is not obvious that portions of the Notices of Appeal concerning the constitutional grounds are so frivolous, vexatious and an abuse of process that they should be struck.
+[22] The Appellant contends that there have been changes in the law regarding the issue of standing before a Court. The Appellant referred to some of the obiter dictum comments of Chief Justice McLachlin in Canada v. Ferguson, [2008] S.C.J. No. 6, at paragraph 59, to the effect that:
+A claimant who otherwise has standing can generally seek a declaration of invalidity under s. 52 on the grounds that a law has unconstitutional effects either in his own case or on third parties …
+[23] This could be applicable in some situations, where, for example, government requested a ruling from the Supreme Court on the constitutionality of proposed legislation. In this regard, the comments of Justice Beetz in Manitoba (Attorney General) v. Metropolitan Stores (MTS) Ltd., [1987] S.C.J. No. 6, at paragraph 49 are particularly relevant:
+There may be rare cases where the question of constitutionality will present itself as a simple question of law alone which can be finally settled by a motion judge. A theoretical example which comes to mind is one where Parliament or a legislature would purport to pass a law imposing the beliefs of a state religion. Such a law would violate s. 2(a) of the Canadian Charter of Rights and Freedoms, could not possibly be saved under s. 1 of the Charter and might perhaps be struck down right away; see Attorney General of Quebec v. Quebec Association of Protestant School Boards, [1984] 2 S.C.R. 66, at p. 88. It is trite to say that these cases are exceptional.
+However, this is not the type of query that is before the Court in these appeals. In addition, I see nothing in Ferguson which would point to a change in the law respecting standing. The other cases which the Appellant referred to were all decided prior to 1999.
+[24] A party can, in exceptional circumstances, use a public interest standing argument and exceptional prejudice test to bring a question regarding a third party before the Court. There was nothing in the 1999 decision to indicate that these issues had been addressed.
+[25] The Appellant submits that the decision of the Supreme Court in British Columbia (Attorney General) v. Christie, [2007] 1 S.C.R. 873, supports the dissident judgment of Justice McEachern in John Carten Personal Law Corp. v. British Columbia (Attorney General), 40 B.C.L.R. (3d) 181. The Appellant’s position seems to be that the Courts have recognized a constitutional right to counsel with respect to criminal defence matters only. As the Appellant’s practice is restricted to criminal defence matters, it concludes that this right is protected by the Charter. It bases this argument on its understanding that the Supreme Court in the case of Christie held “that there is, in Canada, no over-arching constitutional right to counsel, save and except with respect to certain specified limited areas …” (Paragraph 27 of the Applicant’s Argument Re Respondent’s Motion.)
+[26] The Appellant’s conclusions here seem exaggerated. At paragraph 26 of Christie, the Supreme Court stated:
+Nor has the rule of law historically been understood to encompass a general right to have a lawyer in court or tribunal proceedings affecting rights and obligations. The right to counsel was [page 885] historically understood to be a limited right that extended only, if at all, to representation in the criminal context: …
+[emphasis added].
+The Appellant’s conclusion, that the right to a lawyer is automatically protected in criminal cases, simply cannot be supported. Rather, the Court clearly in the following paragraph 27 of Christie states that “a right to counsel may be recognized in specific and varied situations.”
+[27] The Appellant also argues that a consideration of section 1 of the Charter may not be necessary, as the Respondent contends, and that the submission of facts may not be essential. Whether this proposition has merit or not should be left to the trial judge for determination.
+[28] In addition to issue estoppel, the doctrine of abuse of process may be used to prevent relitigation of a matter that was previously before the Court. Like issue estoppel it is also discretionary. At paragraphs 28 and 29 of Golden, J. Boyle discussed the differences between the application of issue estoppel and abuse of process:
+28 The principal difference between issue estoppel and abuse of process to prevent relitigation is with respect to the question of mutuality of parties and privity. Abuse of process does not require that the preconditions of issue estoppel be met. Abuse of process can therefore be applied when the parties are not the same but it would nonetheless be inappropriate to allow litigation on the same question to proceed in order to preserve the courts' integrity.
+29 Abuse of process is also a doctrine that should only be applied in the Court's discretion and requires a judicial balancing with a view to deciding a question of fairness. However, it differs somewhat from a consideration of the possible application of issue estoppel in that the consideration is focused on preserving the integrity of the adjudicative process more so than on the status, motive or rights of the parties.
+I believe that there are some differences between the present appeals and the 1999 decision and enough uncertainties raised by the Appellant, to warrant my refusal of the Respondent’s motion to apply the principle of abuse of the judicial process as there is no violation of the administration of justice in respect to finality, consistency or integrity. Therefore I believe, after a review of all these arguments, that it is a proper exercise of my discretion to dismiss the Respondent’s motion to strike portions of the Notices of Appeal brought pursuant to Rule 53.
+[29] Much of the Respondent’s arguments, with respect to the pleading of the additional Charter provisions, sections 7 and 11(b), are based on the inability of the Appellant’s pleadings to address the specific circumstances, on a case by case basis, of those individuals whose rights were allegedly breached. The Respondent contends, at paragraph 52 of its Written Submissions, that:
+… the right to counsel outside of a s10(b) context is a case-specific multi-factored enquiry. In other words, the assertion of a right to counsel within other sections necessarily involves a consideration of the individual circumstances of the case. [B.C. (A.G.) v Christie, supra, para. 25; New Brunswick (Minister of Employment and Immigration) v. G. (J.), [1999] 3 SCR 46, para. 86]
+[30] The Respondent’s alternative motion was for an order pursuant to section 58(1)(a) of the Rules to refer for determination the following question:
+Does the Appellant have the standing to raise and rely on the alleged breaches of the Charter rights of its clients in challenging the validity of the Excise Tax Act as it applies to impose Goods and Services Tax (“GST”) on legal fees charged for criminal defence services supplied by the Appellant?
+It is clear that, if it is determined that the Appellant has no standing, it will be barred from raising the constitutional issue since its outcome is dependent firstly upon the issue of its standing.
+[31] Justice McArthur’s decision in 1999 at paragraph 12 stated the following concerning the issue of standing:
+Finally, the Respondent submitted that the Appellant corporation cannot challenge the law on the ground that it violates another person's Charter right. In this appeal, the Appellant is not claiming that its subsection 10(b) rights were infringed upon. The Appellant claims that it is its clients' rights that are infringed. While it is not necessary to deal with this submission, I agree with the Respondent's position that it must be your own Charter rights that are at issue if one challenges the validity of a statute.
+[32] The Appellant’s position is that J. McArthur’s statements respecting the Appellant’s standing before the Court is the ratio decidendi of the case while his finding concerning the constitutional issue was obiter dictum. However, the phrase “while it is not necessary” precedes J. McArthur’s comments on the question of standing. This indicates just exactly the opposite of that which the Appellant contends. Regardless of whether the Appellant got this right or not, the constitutional issue should not be addressed until a determination is made respecting the Appellant’s standing before the Court to bring such a question.
+[33] The Appellant’s application pursuant to Rule 58(1)(a) of the Rules is for a determination of the following question:
+Is section 165 of the Excise Tax Act, R.S.C., 1985, as amended, inconsistent with sections 7, 10(b) and 11(d) of the Canadian Charter of Rights and Freedoms in imposing on a criminal defendant who has a constitutional right to retain and instruct counsel a liability to pay goods and services tax (“GST”) with respect to a lawyer’s account for criminal defence services and in requiring the lawyer to collect and remit GST to the Government of Canada on such accounts and therefore, to that extent, by reason of section 52(1) of the Constitution Act, 1982, of no force and effect?
+This question clearly involves the substantive constitutional issue. In addition it is clear that the Appellant is not pleading that its own rights under the Charter have been violated but that there is a violation of the rights of third parties. If I entertained any thought of referring this question for a determination, I would simply be putting the cart before the horse and placing the Appellant in the precarious position of proceeding to Court in respect to these new assessments, incurring additional costs and expending additional time to get before the Court with the possibility of then being informed that it has no standing to bring these appeals with respect to the constitutional issue. In fact I believe that the Appellant recognizes the potential hazards of proceeding to a hearing without obtaining a determination of the question of standing because the Appellant agreed that it would be advantageous to both parties for the Court to refer this question pursuant to Rule 58(1)(a). (Transcript pages 6 and 122.)
+[34] A motion pursuant to Rule 58(1)(a) is a two step process:
+1. a decision whether the proposed question is an appropriate one for determination under this Rule; and
+2. if it is appropriate, to set it down to hear argument.
+Of course, a determination of the question of standing may not completely dispose of the appeals but there is a very good chance that it may shorten the proceedings. Even if it resolves the constitutional issue, there would remain the issues of penalties and a statute barred year. A factual framework may be required to resolve this question and, if so, the Court at its discretion may permit such evidence to be adduced. In light of the generally held principle that a party cannot rely on the alleged breaches of a third party’s Charter rights, a preliminary determination of the issue of the Appellant’s standing to bring these appeals is an absolute prerequisite to the determination of the constitutional issue. Standing within the litigation process is not necessarily an automatic right. Deferring a determination on this question of standing to the hearing date would serve no useful purpose and I believe it would ultimately be detrimental to both parties’ interests in respect to expense and time.
+[35] I am therefore allowing the Respondent’s motion pleaded in the alternative and referring for determination pursuant to Rule 58(1)(a) the question of the Appellant’s standing to rely on the breaches of its clients’ Charter rights.
+[36] The Appellant’s motion to refer the question which it posed would, as the Respondent suggests, split the Charter issues between two separate proceedings: the first to determine if there is any breach of Charter rights, and then second to determine whether or not Section 1 of the Charter would justify any such breaches. This would mean that at least some of the evidence would necessarily overlap. I see no justification for splitting the issue and referring this question. In fact I believe this would add to the expense and time involved. In addition, the Appellant is seeking to refer a substantive issue in the absence of any relevant factual content. Consequently, the Appellant’s motion is dismissed.
+[37] The matter of costs in these motions should be left to the discretion of the trial Judge.
+Signed at Charlottetown, Prince Edward Island, this 12th day of September 2008.
+“Diane Campbell”
+Campbell J.
+CITATION: 2008 TCC 469
+COURT FILE NOS.: 2007-3627(GST)G; 2007-3628(GST)G; 2007-3629(GST)G; 2007-3630(GST)G; 2007-3631(GST)G
+STYLE OF CAUSE: STANLEY J. TESSMER LAW CORPORATION AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATES OF HEARING: April 16 and 17, 2008
+REASONS FOR ORDER BY: The Honourable Justice Diane Campbell
+DATE OF ORDER: September 12, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Craig C. Sturrock
+Counsel for the Respondent:
+David Jacyk and Lisa McDonald
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Craig C. Sturrock
+Firm: Thorsteinssons LLP,
+Vancouver, British Columbia
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,515 @@
+---
+title: "Simone v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26006/index.do"
+last_modified: "2005-04-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 231"
+citation2: ""
+neutral_citation: "2005 CCI 231"
+decision_date: "2005-04-01"
+language: "fr"
+item_id: "26006"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3739
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:03:45.525000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4c1be2eaa95ad5c1636e55f0bd2bb2cb8b70d93985474da1fbe4fbb8ef0e7789"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Simone v. The Queen
+
+- Citation: 2005 CCI 231
+- Decision date: 2005-04-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3739, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Simone v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-01
+Référence neutre
+2005 CCI 231
+Numéro de dossier
+2002-3092(IT)G
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-3092(IT)G
+ENTRE :
+ANNA SIMONE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus à Toronto (Ontario), le 13 janvier 2005.
+Devant : L'honorable juge Pierre Archambault
+Comparutions :
+Avocate de l'appelante :
+Me Natasha Miklaucic
+Avocate de l'intimée :
+Me Eleanor H. Thorn
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'égard des cotisations établies en application de l'article 160 de la Loi de l'impôt sur le revenu, dont les avis portent les numéros 21579 et 21580 et sont datés du 28 septembre 2001, sont admis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que le recouvrement de la somme due par M. Simone relativement à la période pertinente n'était pas frappé de prescription. Cependant, la dette fiscale de M. Simone, dont Mme Simone est solidairement responsable, doit être calculée en tenant compte du fait que la pénalité infligée en application du paragraphe 163(1) pour l'année d'imposition 1979 ne s'applique pas, que la pénalité visant l'année d'imposition 1980 est réduite à 2 728,32 $ et que la pénalité visant l'année
+d'imposition 1981 est réduite à 1 345,21 $, conformément aux motifs du jugement ci-joints. Le tout sans dépens.
+Signé à Ottawa, Canada, ce 1er jour d'avril 2005.
+« Pierre Archambault »
+Le juge Archambault
+Traduction certifiée conforme
+ce 21e jour d'avril 2006.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2005CCI231
+Date : 20050401
+Dossier : 2002-3092(IT)G
+ENTRE :
+ANNA SIMONE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Archambault
+[1] MadameAnna Simone interjette appel de deux cotisations datées du 28 septembre 2001 qui ont été établies par le ministre du Revenu national (le « ministre » ) en application de l'article 160[1] de la Loi de l'impôt sur le revenu (la « Loi » ). Le ministre estime que Mme Simone est solidairement responsable des impôts de son mari relativement aux années d'imposition 1979 à 1990 (la « période pertinente » ). Les cotisations font suite au transfert, par M. Simone à Mme Simone, le 6 octobre 1993 ou vers cette date, de deux biens immeubles, l'un situé à Toronto (l' « immeuble commercial » ) et l'autre situé à Woodbridge (l' « immeuble résidentiel » ). À la date de l'établissement des cotisations, le montant de la dette fiscale de M. Simone - y compris les pénalités et l'intérêt - en litige aux termes de la Loi pour la période pertinente s'élevait à 322 303 $ (la « dette fiscale » ). Il est admis que la juste valeur marchande des deux immeubles transférés à Mme Simone est à tout le moins égale au montant des cotisations établies en application de l'article 160. La question de la juste valeur marchande de la contrepartie donnée par Mme Simone n'est plus en litige.
+[2] Les seules questions qui demeurent en litige intéressent la dette fiscale. Les raisons pour lesquelles Mme Simone conteste les cotisations sont les suivantes :
+a) au moment où les cotisations ont été établies en application de l'article 160, M. Simone n'était pas tenu de payer la dette fiscale en raison du délai de prescription prévu à l'article 32 de la Loi sur la responsabilité civile de l'État et le contentieux administratif, L.R.C. 1985, ch. C-50, et ses modifications (la « LRCÉCA » );
+b) à titre subsidiaire, dans l'éventualité où la dette fiscale n'était pas, en tout ou en partie, frappée de prescription :
+(i) le montant des impôts pour les années d'imposition 1979, 1980 et 1981 devrait être réduit pour tenir compte de l'exclusion, du revenu de M. Simone, des sommes de 21 000 $ pour 1979, de 43 026 $ pour 1980 et de 10 400 $ pour 1981; M. Simone soutient qu'il a hérité ces sommes d'argent de son père et qu'il les a déposées dans le compte bancaire de son entreprise;
+(ii) de plus, certaines des pénalités infligées par le ministre pour production tardive devraient être annulées ou réduites pour ces trois années.
+En ce qui concerne l'année d'imposition 1979, il s'agit de savoir si M. Simone a volontairement tenté de se soustraire au paiement de l'impôt qu'il devait payer aux termes de la Loi en omettant de produire une déclaration de revenus dans la forme et les délais requis. MadameSimone affirme que M. Simone n'avait aucune intention en ce sens. La pénalité pour production tardive infligée en application du paragraphe 163(1) de la Loi devrait donc être annulée. L'amende maximale susceptible d'être infligée aux termes du paragraphe 162(1) de la Loi, à titre de pénalité pour production tardive, serait de 500 $.
+L'avocate du ministre a reconnu que la pénalité pour production tardive devait être réduite aux sommes suivantes pour les années d'imposition 1980 et 1981 :
+1980
+2 728,32 $
+1981
+1 345,21 $
+Les faits[2]
+[3] Monsieur et Mme Simone se sont mariés au Canada en 1972, après avoir émigré d'Italie, et sont encore mariés à ce jour. Peu de temps après leur mariage, ils ont acheté une maison à Toronto. Cette maison a été vendue en 1987[3] pour environ 255 000 $ et le produit de la vente a servi en partie comme acompte pour l'acquisition, par les Simone, de l'immeuble résidentiel, lequel demeure jusqu'à ce jour la maison familiale. Madame Simone est devenue l'unique propriétaire de cet immeuble le 6 octobre 1993.
+[4] Lorsqu'il est arrivé au Canada, M. Simone travaillait comme technicien en carrosserie automobile. En 1973, il a commencé à exploiter sa propre entreprise de réparation d'automobiles. À partir de 1982, M. Simone a exploité cette entreprise dans l'immeuble commercial lui appartenant[4]. Vers 1984 ou 1985, il semble que cette entreprise a été constituée en personne morale sous la dénomination sociale Mr. Collision Ltd.[5]
+[5] En 1979 et 1980, M. Simone travaillait à plein temps à son entreprise et avait un employé. Dans son témoignage, il a déclaré qu'il avait été hospitalisé en 1981 pour deux ou trois mois en raison de complications liées à une pneumonie et qu'il n'avait pas travaillé pendant cinq mois. Selon les données tirées des principales feuilles de calcul, le revenu d'entreprise brut gagné par M. Simone était de 212 850 $ en 1980, de 191 466 $ en 1981 et de 224 111 $ en 1982. Aucun renseignement analogue n'est disponible en ce qui concerne l'année d'imposition 1979. Pour la même période, le revenu d'entreprise net s'élève à 64 410 $ pour 1980, à 42 224 $ pour 1981 et à 53 759 $ pour 1982[6]. Il est difficile de connaître le revenu d'entreprise net pour 1979, mais il semble avoir été d'environ 49 834 $[7].
+[6] Dans son témoignage, M. Simone, avec l'aide de l'avocate de Mme Simone, a tenté d'évaluer le revenu qu'il aurait gagné pendant ces quatre années d'imposition. Il a signalé que le taux horaire moyen demandé à ses clients pour ses services et ceux de son employé était de 25 $. À 40 heures par semaine pour 50 semaines de services, cela équivaut à 100 000 $ en frais de main-d'oeuvre facturés à ses clients[8]. Il a évalué que les pièces qu'il vendait pendant une année type lui rapportaient 1 000 $ par semaine (50 000 $ pour 50 semaines), de sorte que son revenu d'entreprise brut annuel se serait chiffré à environ 150 000 $. Compte tenu de ses coûts annuels estimés de 130 000 $[9], le revenu net aurait été de 20 000 $[10].
+[7] Même si M. Simone a déclaré en réponse à la question posée par l'avocate de son épouse qu'il n'avait aucune autre source de revenu, il importe de mentionner que, selon les principales feuilles de calcul, il recevait des allocations familiales, à tout le moins de 1980 à 1986, ainsi que des revenus de biens en 1983 (5 651 $), en 1984 (2 214 $) et en 1985 (des dividendes de 3 030 $, des intérêts de 1 680 $ et des loyers de 6 300 $).
+[8] Monsieur Simone a expliqué qu'un commis comptable venait toutes les semaines pour effectuer les travaux de comptabilité nécessaires pour son entreprise. Il demandait également au commis comptable de préparer ses déclarations de revenus. Il a ajouté qu'il avait produit sa déclaration de revenus tous les ans. Il ne comprenait pas pourquoi ses déclarations de revenus n'avaient pas été produites à temps par le commis comptable pour les années d'imposition 1979 à 1982. Il se souvenait toutefois que son commis comptable lui avait dit de ne pas envoyer d'argent avec ses déclarations de revenus à partir de l'année d'imposition 1980. Monsieur Simone ne se rappelait pas s'il y avait un solde d'impôt non payé pour chaque année d'imposition en particulier. Il a en outre affirmé qu'il ne savait pas lire ni écrire l'anglais. Il a toutefois été en mesure de lire certains documents qu'on lui a montrés au cours de son témoignage.
+[9] Pendant son témoignage, M. Simone a déclaré qu'il avait reçu des sommes importantes de la succession de son père en 1979 (21 000 $), en 1980 (43 026 $) et en 1981 (10 400 $). Selon lui, ces sommes ont été déposées dans le compte bancaire de son entreprise, et il n'a pas informé le commis comptable de la nature de ces dépôts.
+[10] À l'appui des cotisations établies par le ministre à l'égard de M. Simone relativement à la période pertinente, l'intimée a produit à titre de pièce R-1 un recueil de documents comportant à l'onglet 16 un grand nombre de feuilles de calcul informatisées - les principales feuilles de calcul - pour les années d'imposition 1980 à 1986. L'onglet 16 comprend en outre des avis de cotisation ou de nouvelle cotisation reconstitués pour les années d'imposition 1985 à 1995. Ces avis précisent non seulement les sommes cotisées pour une année d'imposition donnée, mais également le solde dû au titre des années d'imposition antérieures et le nouveau solde découlant de la cotisation pour l'année d'imposition en cause. À l'onglet 17 se trouvent des doubles des « imprimés d'ordinateur automatiques » (les « imprimés d'ordinateur » ) pour les années civiles allant de 1979 à 2000. Ces imprimés d'ordinateur font état des opérations comptables exécutées par le ministre en ce qui a trait au compte de M. Simone. Les imprimés comprennent les dates de cotisation, les sommes cotisées, les dates de paiement, les paiements et le montant d'intérêt à une date donnée, etc.
+[11] Les documents susmentionnés révèlent les renseignements suivants :
+Année
+d'imposition
+Cotisation/
+Nouvelle cotisation
+Date
+Impôt fédéral net
+Solde antérieur
+Nouveau solde dû
+1979[11]
+cotisation
+10/8/82
+10 423
+1980[12]
+cotisation
+28/12/83
+16 049
+1981[13]
+cotisation
+28/12/83
+7 913
+1982[14]
+cotisation
+9/9/83
+10 625
+1983
+cotisation
+3/7/84
+1 611
+1984
+cotisation
+31/5/85
+668
+1985
+cotisation
+13/5/86
+62
+89 494[15]
+89 325
+1986
+cotisation
+24/7/87
+443
+96 508
+97 223
+1987
+cotisation
+27/6/88
+569
+105 547
+106 387
+1988
+cotisation
+13/9/89
+4 302
+116 799
+118 922
+1989
+cotisation
+5/7/90
+4 754
+134 132
+134 189
+1990
+cotisation
+26/6/91
+13 907
+155 444[16]
+155 019
+nouvelle cotisation
+20/12/91
+20 119
+164 003
+167 544
+1991
+cotisation
+29/6/92
+12 158
+177 047[17]
+173 275
+1992
+cotisation
+27/5/93
+1 643
+188 009
+188 009
+1993
+cotisation
+12/5/94
+6 216
+201 695
+206 219
+1994
+cotisation
+15/6/95
+3 940
+221 064
+221 064
+1995
+cotisation
+9/5/96
+4 910
+244 916[18]
+244 891
+[12] L'adresse figurant sur tous les avis de cotisation pour les années d'imposition 1985 à 1995 est celle de l'immeuble résidentiel des Simone. Lorsqu'on lui a demandé s'il avait reçu ces avis, M. Simone a répondu qu'il était certain de ne pas les avoir reçus. Le seul document qu'il a admis avoir reçu est une demande de paiement datée du 28 mai 2004, laquelle portait aussi l'adresse de l'immeuble résidentiel (onglet 31). Madame Simone a en outre mentionné pendant son témoignage qu'elle ne se rappelait pas avoir reçu ces cotisations fiscales. Pendant qu'elle vivait avec sa mère, la fille de Mme Simone lui remettait habituellement le courrier reçu. Madame Simone a également affirmé qu'elle ne pouvait pas lire l'anglais. Elle se souvenait uniquement d'une lettre du ministre qu'elle a reçue après que son mari eut consulté un avocat.
+[13] L'analyse des imprimés d'ordinateur montre que M. Simone a payé une partie des arriérés d'impôt au moyen de douze paiements mensuels de 1 000 $ débutant le 18 mars 1983. Le 16 novembre 1983, un paiement de 10 000 $ a été versé et un autre paiement de 5 000 $ a été fait le 23 décembre 1983. Seuls deux paiements de 1 000 $ ont été versés en 1984, l'un le 10 janvier et l'autre le 10 février. Selon les imprimés d'ordinateur, aucun autre paiement semblable n'a été fait par la suite.
+[14] Le 22 mars 1988, le ministre a enregistré à la Section de première instance de la Cour fédérale du Canada un certificat montrant une somme due de 87 316 $ aux termes de la Loi et du Régime de pensions du Canada pour les années d'imposition 1979 à 1986 (la « période 1979-1986 » ). Un certificat modifié, sur lequel le prénom de M. Simone est orthographié de façon légèrement différente, a été enregistré le 16 octobre 1990. En vertu de ce certificat, le ministre a obtenu que deux brefs de fieri facias (brefs de saisie d'effets, de biens meubles et immeubles et de tènements) soient délivrés en vue du paiement de la dette fiscale impayée de 87 316 $ de M. Simone. L'un des brefs, daté du 16 octobre 1990, a été délivré au shérif de la Municipalité de la Communauté urbaine de Toronto relativement à un immeuble situé à Toronto. L'autre bref, daté du 16 novembre 1990, a été délivré au shérif de la Municipalité régionale de York relativement à un immeuble situé dans cette municipalité. Le shérif de la Municipalité de la Communauté urbaine de Toronto a informé le ministre du fait qu'un avis de saisie de loyer avait été signifié au locataire de l'immeuble commercial le 25 juin 1991 (onglet 20). Le 29 septembre 1991, le cabinet Barry A. Edson & Associates a écrit à ce même shérif pour l'informer que leur cliente, Mr. Collision Ltd., c'est-à-dire la société de M. Simone, n'avait pas été en mesure de payer le loyer à cause de difficultés financières. Monsieur Simone savait donc que des sommes d'argent importantes étaient dues au gouvernement au titre de l'impôt.
+[15] En outre, M. Simone avait retenu les services d'un certain M. Rocca pour traiter avec le vérificateur du ministre. Monsieur Rocca a écrit au ministre le 29 septembre 1988 (pièce R-2) et lui a fourni un état des résultats pour les années d'imposition 1979 à 1981 de M. Simone. Les renseignements relatifs aux dépenses ne visent que les dépenses personnelles de la famille de M. Simone. Les renseignements relatifs au revenu concernent les bénéfices découlant de l'entreprise. Ils révèlent également d'autres sources de fonds auxquelles M. Simone aurait pu avoir recours pour couvrir ses frais de subsistance. Quant au revenu, l'état fait mention des renseignements suivants :
+1979
+Revenu :
+Produits d'une réclamation d'assurance
+7 800
+Bénéfice tiré de l'entreprise
+12 039
+Somme transférée d'Italie
+21 000
+Total
+40 839
+1980
+Revenu :
+Bénéfice tiré de l'entreprise
+19 780
+Somme transférée d'Italie
+43 026
+Total
+62 806
+1981
+Revenu :
+Bénéfice tiré de l'entreprise
+517
+Somme transférée d'Italie
+10 400
+Total
+10 917
+Aucune autre preuve documentaire ne permet d'expliquer comment les bénéfices tirés de l'entreprise ont été calculés par M. Rocca. En particulier, aucun état financier n'était joint à sa lettre au ministre.
+[16] La procuration datée du 27 janvier 1993 que M. Simone a signée en faveur du cabinet d'avocats Baker, Ranieri est un autre élément de preuve montrant qu'il connaissait l'existence de la dette fiscale. Selon M. Simone, lorsque ce cabinet l'a informé qu'il lui avait été impossible de négocier un arrangement satisfaisant avec le ministre, il lui a en outre conseillé d'attendre que des modifications soient apportées à la loi. Aucun représentant du cabinet n'est venu témoigner pour corroborer cette étonnante affirmation.
+[17] Même s'il avait droit à un remboursement pour chacune des années d'imposition 1985, 1990, 1991, 1995 et 1997, M. Simone a déclaré qu'il n'avait pris aucune mesure pour vérifier pourquoi il n'avait pas reçu ces sommes. Il a mentionné qu'il n'avait pas les ressources financières nécessaires pour retenir les services d'un avocat. Cependant, lorsqu'on lui a demandé s'il avait communiqué avec son spécialiste en déclarations, il a répondu par la négative!
+[18] Le tableau qui suit présente un résumé de toutes les mesures prises par le ministre pour recouvrer les sommes impayées dues par M. Simone :
+Date
+Mesure de
+recouvrement
+Montant de la dette impayée
+Notes
+Mars 1983 à février 1984
+Paiements partiels par M. Simone
+29 000 $ au total (voir l'onglet 17)
+13 mai 1986
+Compensation
+(par. 164(2) et art. 224.1)
+89 325*
+remboursement d'impôt de 169 $ pour 1985
+(onglet 16, p. 1; onglet 17, p. 7)
+22 mars 1988
+Certificat (par. 223(3))[19]
+87 316**
+Pour la période 1979-1986 (onglet 1)
+16 oct. 1990
+Certificat modifié
+(par. 223(3))
+87 316**
+Pour la période 1979-1986 (onglet 1)
+Bref de fieri facias
+(Toronto)
+87 316**
+Pour la période 1979-1986 (onglet 2)
+16 nov. 1990
+Bref de fieri facias
+(York)
+87 316**
+Pour la période 1979-1986 (onglet 3)
+25 juin 1991
+Avis de saisie de loyer
+S/O
+Signifié à Mr. Collision Ltd. (onglet 20)
+26 juin 1991
+Compensation
+(par. 164(2) et art. 224.1)
+155 019*
+Remboursement d'impôt de 425 $ pour 1990 (onglet 16; onglet 17, p. 10)
+29 juin 1992
+Compensation
+(par. 164(2) et art. 224.1)
+173 275*
+Remboursement d'impôt de 3 771 $ pour 1991 (onglet 16; onglet 17, p. 14)
+28 oct. 1992
+Demande formelle de paiement
+(art. 224)[20]
+178 175***
+À Mr. Collision Ltd. (onglet 22)
+À Sun Life du Canada (onglet 23)
+À Barry A. Edson & Associates (onglet 24)
+12 janv. 1993
+Demande formelle de paiement
+(art. 224)
+181 275***
+À Barry A. Edson & Associates (onglet 25)
+9 mai 1996
+Compensation
+(par. 164(2) et art. 224.1)
+244 891*
+Remboursement d'impôt de 24,88 $ pour 1995
+(onglet 16; onglet 17, p. 24A)
+6 août 1998
+Demande de paiement
+293 594
+À M. Simone : [TRADUCTION] « nous pourrions être dans l'obligation de prendre les mesures juridiques appropriées sans autre avis » (onglet 27)
+2 avril 1998
+Compensation
+(par. 164(2) et art. 224.1)
+S/O
+Remboursement d'impôt de 1 895 $ pour 1997 (onglet 17, p. 27)
+5 janv. 1999
+Requête visant à obtenir l'autorisation de délivrer un bref de saisie-exécution
+S/O
+Relativement au certificat du 22 mars 1988 (onglets 9 et 10)
+3 février 1999
+Ordonnance accordant l'autorisation de délivrer un bref de saisie-exécution (par. 434(1) des Règles de la Cour fédérale (1998)[21]
+S/O
+Relativement au certificat du 22 mars 1988
+(onglets 9 et 10)
+31 mars 1999
+Brefs de saisie-exécution (Toronto) (York)
+87 316**
+Relativement au certificat du 22 mars 1988 (onglets 11 et 12)
+2 oct. 2000
+Demande de paiement
+356 428
+À M. Simone : [TRADUCTION] « nous pourrions autrement être dans l'obligation de donner instruction au shérif de saisir et de vendre certains de vos biens pour rembourser cette dette » (onglet 28)
+1er nov. 2000
+Demande formelle de paiement
+(art. 224)
+358 961***
+À Sun Life du Canada
+(onglet 29)
+À Mr. Collision Ltd.
+(onglet 30)
+28 sept. 2001
+Cotisations visant Mme Simone (art. 160)
+319 998***
+71 531 ***
+(onglet 13)
+(onglet 14)
+28 mai 2004
+Demande de paiement
+474 977
+[TRADUCTION] « nous pourrions être dans l'obligation de prendre les mesures juridiques appropriées, notamment [...] »
+(onglet 31)
+20 août 2004
+Demande de paiement
+481 832 *
+[TRADUCTION] « vise à vous informer que nous avons enregistré sur le registre foncier de l'Ontario une partie de la dette fiscale susmentionnée se chiffrant à 87 316,11 $ »
+(onglet 32)
+* Cette somme correspond à la dette de M. Simone aux termes de la Loi et de la Loi de l'impôt sur le revenu (Ontario).
+** Cette somme correspond à la dette de M. Simone aux termes de la Loi et du Régime de pensions du Canada.
+*** Comprend les impôts, les pénalités et l'intérêt aux termes de la Loi, du Régime de pensions du Canada et de la Loi de l'impôt sur le revenu (Ontario).
+Analyse
+Les impôts et les pénalités
+[19] Le montant des impôts et des pénalités établi par le ministre n'a pas fait l'objet d'un débat approfondi. Les seules années d'imposition visées par cette question sont celles allant de 1979 à 1981. Quant au montant de la dette fiscale, la preuve présentée par Mme Simone ne m'a pas convaincu que les impôts de son mari pour les années d'imposition 1979, 1980 et 1981 étaient différents de ceux établis par le ministre. Il faut davantage qu'une évaluation approximative des dépenses et des revenus bruts pour établir le montant du revenu d'entreprise gagné pendant chacune de ces années d'imposition, en particulier lorsque le débiteur fiscal lui-même ne sait pas si cette évaluation est exacte. Aucun livre ni document, ni même un état financier de l'entreprise, n'a été produit pour étayer la thèse de M. et Mme Simone. La preuve présentée n'est pas suffisante pour montrer si le commis comptable a réellement inclus par erreur dans le revenu d'entreprise les sommes d'argent reçues par M. Simone de la succession de son père. La lettre de M. Rocca et l'état des résultats qui y est joint paraissent indiquer que M. Rocca tentait uniquement de fournir la liste des différentes sources des fonds utilisés pour payer les frais de subsistance de M. Simone, comme s'il tentait d'éviter une cotisation selon l'avoir net. Même les totaux des fonds de toutes les sources ne correspondent pas aux montants de revenu net établis par le ministre, lesquels, selon toute vraisemblance, correspondent aux sommes montrées dans les propres déclarations de M. Simone. L'exemple le plus flagrant est celui des chiffres donnés pour l'année d'imposition 1982 : 53 759 $ selon les documents du ministre et 10 917 $ selon la liste des revenus de M. Rocca. Le document de M. Rocca ne comporte aucune mention voulant que l'argent hérité par M. Simone ait été inclus par erreur dans le revenu d'entreprise brut. Il s'agit de simples hypothèses et d'approximations.
+[20] En ce qui concerne les pénalités fixées pour les années d'imposition 1980 et 1981, l'avocate du ministre a reconnu qu'elles devraient être réduites à 2 728,32 $ et 1 345,21 $ respectivement. Quant à l'année d'imposition 1979, la seule question qu'il reste à trancher est celle de savoir si M. Simone a, à juste titre, fait l'objet d'une pénalité aux termes du paragraphe 163(1)[22] de la Loi. Pour que cette disposition s'applique, l'intimée doit établir que le contribuable a tenté de se soustraire à l'impôt en omettant de produire sa déclaration de revenus dans la forme et les délais requis par la Loi. Compte tenu du témoignage de M. Simone voulant qu'il n'ait eu qu'une connaissance restreinte de la langue anglaise, qu'il se soit fié à son commis comptable auquel, selon ses dires, il avait fourni tous les livres et documents appropriés, et qu'il ait donné instruction au commis comptable de produire sa déclaration de revenus chaque année, je suis disposé à conclure que la pénalité pour production tardive infligée en application du paragraphe 163(1) de la Loi doit être annulée pour l'année d'imposition 1979. Je suis convaincu que M. Simone n'avait pas l'intention nécessaire de se soustraire à l'impôt en omettant de produire ses déclarations de revenus à l'échéance.
+Les délais de prescription
+[21] Il reste donc à examiner la question des délais de prescription. Pour l'essentiel, Mme Simone avance que, lorsque le ministre a établi les cotisations fondées sur l'article 160 de la Loi en septembre 2001, M. Simone de devait plus sa dette fiscale par suite de l'application de l'article 32 de la LRCÉCA, lequel porte :
+32. Sauf disposition contraire de la présente loi ou de toute autre loi fédérale, les règles de droit en matière de prescription qui, dans une province, régissent les rapports entre particuliers s'appliquent lors des poursuites auxquelles l'État est partie pour tout fait générateur survenu dans la province. Lorsque ce dernier survient ailleurs que dans une province, la procédure se prescrit par six ans.
+[Non souligné dans l'original.]
+[22] L'avocate de Mme Simone soutient que les mesures de recouvrement prises par le ministre - en particulier le relevé du solde impayé figurant sur chacun des avis de cotisation (à tout le moins ceux visant les années d'imposition 1985 à 1995), les demandes formelles de paiement, les compensations au titre des remboursements d'impôt et les demandes de paiement - n'étaient pas suffisantes pour permettre la prorogation du délai de prescription applicable au recouvrement de la dette fiscale. Selon l'avocate, soit une décision judiciaire quelconque, comme une ordonnance en matière de faillite ou de séquestre, soit une reconnaissance de la part du contribuable était nécessaire. Elle a en outre fait valoir que l'ordonnance de la Cour fédérale accordant le renouvellement du bref de fieri facias n'avait aucun effet parce qu'elle avait été rendue en 1999, soit plus de six ans après l'enregistrement, par le ministre, du certificat modifié le 16 octobre 1990. En conséquence, le ministre ne pouvait recouvrer la somme due pour la période 1979-1986.
+[23] L'avocate de Mme Simone a invoqué l'arrêt R. c. Markevich, [2003] 1 R.C.S. 94, 2003 D.T.C. 5185, de la Cour suprême du Canada, dans lequel la Cour a conclu que l'article 32 de la LRCÉCA[23] s'appliquait aux sommes dues et aux mesures de recouvrement prises aux termes de la Loi. Il importe de souligner dès le début que les faits de l'affaire Markevich sont sensiblement différents de ceux des présents appels. Dans l'arrêt Markevich, comme en l'espèce, le ministre avait établi des cotisations pour des impôts et des intérêts à payer considérables. Cependant, les cotisations visaient les années d'imposition 1980 à 1985 et, contrairement à ce qui s'est produit en l'espèce, le ministre n'avait fait aucun effort pour recouvrer la créance entre 1987 et 1998[24]. Les relevés de compte annuels délivrés par le ministre pendant cette période ne faisaient pas mention du solde impayé pour les années 1980 à 1985 (voir le paragraphe 2). Ce n'est que le 15 janvier 1998, soit environ 12 ans plus tard, que le ministre a envoyé un relevé de compte indiquant un solde de 770 583,42 $, lequel englobait la somme impayée en date du 17 juin 1986 et l'intérêt couru.
+[24] Il convient maintenant d'examiner les principes énoncés par la Cour suprême du Canada dans l'arrêt Markevich, ainsi que par d'autres tribunaux, relativement à cette question. Premièrement, l'article 32 de la LRCÉCA s'appliquait aux mesures de recouvrement prises en vertu de la Loi. Deuxièmement, comme les dettes fiscales contractées sous le régime de la Loi découlaient de dispositions légales fédérales, le fait générateur était survenu « ailleurs que dans une province » et ne relevait donc pas des lois provinciales en matière de prescription. Les mesures de recouvrement prises en vertu de la Loi étaient donc assujetties au délai de prescription de six ans suivant la date à laquelle survenait le fait générateur, conformément à l'article 32 de la LRCÉCA. Le juge Major, lequel a rédigé les motifs de la majorité de la Cour, a déclaré que les trois justifications sous-tendant l'application de ce délai de prescription étaient « directement applicables au recouvrement par le ministre de créances fiscales » (paragraphe 20). Il s'agit des justifications fondées sur la certitude, sur la preuve et sur la diligence. Le juge Major les explique de la façon suivante :
+[19] [...] Pour ce qui est de la certitude, après un certain temps, un individu « devrait être raisonnablement certain qu'il ne sera plus redevable de ses anciennes obligations » : M. (K.), précité, p. 29. En ce qui concerne la preuve, il faut écarter les réclamations fondées sur des éléments de preuve périmés. Enfin, quant à la diligence, les demandeurs sont encouragés « [à] agi[r] avec diligence et [à] ne "[pas] tarde[r] [...] à faire valoir leurs droits" » : M.(K.), précité, p. 30.
+[Non souligné dans l'original.]
+[25] Après avoir conclu que ces justifications étaient applicables, le juge Major a insisté sur les deux justifications suivantes :
+[20] Chacune des justifications invoquées à l'appui de l'argument selon lequel le recouvrement de créances fiscales n'est pas assujetti au délai de prescription se trouvent, en fait, être exactement en sens contraire et sont directement applicables au recouvrement par le ministre de créances fiscales. Si, pendant une longue période, le ministre ne fait aucun effort pour recouvrer une créance fiscale, le contribuable peut, un moment donné, raisonnablement en venir à penser ne plus être redevable de cette obligation, et gérer ses affaires en conséquence. En outre, un délai de prescription incite le ministre à agir avec diligence dans le recouvrement des créances fiscales. Vu les répercussions importantes que celui-ci a sur la sécurité financière des citoyens canadiens, le fait pour le ministère de tarder à exercer ses droits en matière de recouvrement est contraire à l'intérêt public. Il est évident que les justifications de l'existence de délais de prescription s'appliquent au recouvrement des créances fiscales.
+[Non souligné dans l'original.]
+[26] Le juge Major a écarté les préoccupations de l'avocat de l'intimée, selon lequel l'application des « règles de droit en matière de prescription au recouvrement de créances fiscales allégerait injustement le fardeau fiscal d'individus qui connaissent des variations de revenu au détriment de ceux qui ont un revenu stable » :
+[18] [...] Ce problème apparent peut toutefois être évité si le ministre exerce son pouvoir de recouvrement de façon raisonnablement diligente. Si le contribuable n'est pas capable de s'acquitter d'une dette fiscale avant l'expiration du délai de prescription, le ministre peut proroger ce délai de diverses façons. Dans Ross c. Canada [2002 D.T.C. 6884], [2002] 2 C.T.C. 222, 2002 CFPI 401, la Section de première instance de la Cour fédérale juge que l'enregistrement d'un certificat auprès de la Cour fédérale conformément au par. 223(3) de la LIR donne lieu à un renouvellement du délai de prescription. Voir aussi MacKinnon c. Canada [2002 D.T.C. 7219], [2002] 4 C.T.C. 48, 2002 CFPI 824, où la cour conclut que, en matière de prescription, la reconnaissance de la dette par une entente de nantissement avec le ministre ainsi que le paiement partiel de la dette fiscale emportent le renouvellement du délai de prescription. Il n'est pas nécessaire d'établir une liste exhaustive des façons dont le ministre peut renouveler le délai de prescription, mais je souligne qu'il dispose de nombreux moyens à cet effet. Il n'y a aucun fondement crédible à l'appui de l'argument que les règles de droit en matière de prescription compromettraient l'équité en matière de recouvrement des créances fiscales, alors qu'une diligence minimale aurait l'effet inverse.
+[Non souligné dans l'original.]
+[27] Le juge Major est arrivé à la conclusion suivante au paragraphe 41 de ses motifs :
+Je conclus que les mesures de recouvrement prises en vertu de la LIR sont prescrites six ans après la survenance du fait générateur. La dette fiscale de l'intimé et l'expiration du délai de 90 jours suivant la mise à la poste de l'avis de cotisation daté du 17 juin 1986 constituent le fait générateur en l'espèce. Celui-ci est donc survenu le 16 septembre 1986. Pendant les six années qui ont suivi cette date, le ministre n'a pris aucune mesure en vue du renouvellement du délai de prescription. Par conséquent, à partir du 16 septembre 1992, selon l'art. 32 de la LRCÉCA, le ministre ne pouvait plus exiger de l'intimé le remboursement de sa dette fiscale pour l'année 1986. On a traditionnellement considéré que les délais de prescription empêchaient le créancier d'exercer son recours, mais qu'ils n'éteignaient pas sa créance. À mon avis, il s'agit là d'une distinction vide de sens. À toutes fins utiles, la dette fiscale fédérale de l'intimé est prescrite.
+[Non souligné dans l'original.]
+[28] Il importe en outre de tenir compte de la nature des mesures de recouvrement auxquelles on aurait pu recourir avant l'expiration du délai de prescription. Premièrement, le juge Major a explicité au paragraphe 8 de ses motifs certaines des mesures de recouvrement que peut prendre le ministre pour recouvrer des dettes fiscales :
+[8] [...] Les divers mécanismes de recouvrement énoncés dans la LIR procurent au ministre une vaste gamme de recours pour le recouvrement de créances. Il peut, par certificat, attester un montant d'impôt impayé (par. 223(2)) et enregistrer ce certificat auprès de la Cour fédérale (par. 223(3)). Dès lors, le certificat est réputé être un jugement de cette cour. Celle-ci peut alors produire un certificat, une notification ou un bref faisant preuve du contenu du certificat visé au par. 223(2), dont le ministre peut se servir pour grever d'une sûreté, d'un privilège, d'une priorité ou d'un autre droit un bien situé dans une province (par. 223(5) à 223(8)). En vertu du par. 224(1), qui porte sur la saisie-arrêt, le ministre peut exiger d'un tiers qui a une dette envers le
+contribuable de faire ses paiements directement à lui. Il peut également, en vertu du par. 225(1), ordonner la saisie et la vente des biens meubles du contribuable [...]
+[Non souligné dans l'original.]
+[29] Au paragraphe 25, le juge Major a reconnu que ces mesures de recouvrement prévues par la loi ressemblaient à plusieurs procédures judiciaires. Il mentionne :
+[25] Les mesures de recouvrement prévues par la loi ressemblent beaucoup à plusieurs procédures judiciaires. En vertu du par. 223(3), un certificat enregistré auprès de la Cour fédérale est réputé être un jugement de cette cour. Comme le note le juge Rothstein au par. 35 :
+Une sommation de payer en vertu de l'article 224 (mod. par L.C. 1994, ch. 21, art. 101) est analogue à une ordonnance de saisie-arrêt rendue par une cour. [...] La saisie et la vente de biens meubles prévue[s] au paragraphe 225(1) est une disposition similaire à un bref d'exécution délivré par un tribunal.
+En lui accordant le pouvoir de recouvrer les créances fiscales de cette façon, le législateur a fourni au ministre une solution de rechange efficace et expéditive à l'action en justice. Les mesures de recouvrement judiciaires et non judiciaires ont toutefois le même objectif. Elles sont toutes deux des mécanismes permettant au ministre de procéder au recouvrement forcé de créances fiscales et, par le fait même, de faire respecter les droits de l'État. Il est évident qu'on peut à bon droitqualifier de poursuites entreprises en vertu de la loi ces deux types de mesures.
+[Non souligné dans l'original.]
+[30] Dans la décision Ross c. La Reine, no T-1881-01, 10 avril 2002, 2002 DT.C. 6884; [2002] 2 C.T.C. 222, à laquelle renvoie le juge Major dans l'arrêt Markevich susmentionné, le contribuable a avancé une thèse analogue à celle invoquée en l'espèce par l'avocate de Mme Simone. Dans la décision Ross, on a soutenu que le dépôt du certificat n'avait pas pour effet de préserver les droits du ministre puisque ce dernier « aurait dû engager une action devant la Cour à l'égard de la dette fiscale » (paragraphe 20).
+[31] Pour justifier sa conclusion voulant que cet argument soit mal fondé et que le recouvrement, par le ministre, de la dette du contribuable ne soit pas frappé de prescription - la procédure de recouvrement en cause était une demande formelle de paiement - le juge Dawson a mentionné ce qui suit :
+[31] D'abord, compte tenu de l'arrêt Markevich, le délai de prescription prévu à l'article 32 de la LRCECA s'applique tant aux mesures légales de recouvrement qu'à celles qui sont prises devant les tribunaux et, après l'expiration du délai de prescription pertinent, le droit d'action est éteint. En conséquence, le ministre doit prendre des mesures pour recouvrer une dette fiscale à l'intérieur du délai de prescription. L'arrêt Markevich n'oblige pas le ministre à obtenir un jugement de la Cour pour préserver ses droits ou à épuiser tous ses recours en recouvrement à l'intérieur du délai de prescription. Il a pour effet de reconnaître la similitude entre les mesures légales de recouvrement et celles qui sont prises devant les tribunaux et d'appliquer les lois sur la prescription indépendamment des mesures correctives prises pour recouvrer une dette fiscale.
+[Non souligné dans l'original.]
+[32] Dans la décision Gibson c. La Reine, no T-958-03, 4 juin 2004, 2004 CarswellNat 1658, [2004] 4 C.T.C. 38, une autre affaire invoquée par l'avocate de Mme Simone, la Cour devait se demander si la demande du contribuable visant le report rétrospectif de pertes équivalait à une reconnaissance de dette. Lorsqu'il est arrivé à la conclusion que ce n'était pas le cas, le juge Mosley a renvoyé à la décision Ross, précitée, en les termes suivants :
+15 Dans la décision Ross c. Canada, [2002] A.C.F. no 517 (1re inst.) (QL), confirmée à [2002] A.C.F. no 1396 (C.A.) (QL), la juge Dawson a estimé que le fait pour le ministre d'enregistrer un certificat auprès de la Cour fédérale, en vertu de l'article 223 de la LIR, au moyen duquel l'ADRC a obtenu un bref de saisie-exécution, démontrait qu'il avait pris des mesures en vue du recouvrement de la créance. Par conséquent, comme le ministre avait entrepris une procédure en recouvrement contre le contribuable dans le délai prescrit à l'article 32 de la LRCECA, il n'était pas nécessaire que les mesures de recouvrement soient terminées dans le délai de prescription.
+[Non souligné dans l'original.]
+[33] Au paragraphe 17, le juge Mosley énonce les éléments nécessaires pour que l'ADRC puisse bénéficier d'une prorogation du délai de prescription suivant l'article 32 de la LRCÉCA :
+[...] Pour bénéficier d'une prorogation, l'ADRC doit démontrer, par des actes positifs, qu'elle a donné suite à des mesures de recouvrement dans le délai de prescription. Ce n'est que de cette façon que la justification relative à la diligence raisonnable en matière de prescription est respectée. En l'absence d'une reconnaissance expresse de la part du contribuable ou de certaines actions concrètes posées par l'ADRC dans le processus de recouvrement, le délai de prescription ne sera pas renouvelé.
+[Non souligné dans l'original.]
+[34] Il s'agit maintenant d'appliquer aux faits en l'espèce ces principes élaborés par les tribunaux. À mon avis, la thèse de Mme Simone est dénuée de fondement. Tout d'abord, contrairement à ce qui s'est passé dans l'affaire Markevich, le ministre n'est pas demeuré passif et il a pris des mesures de recouvrement à l'endroit de M. Simone. Dans chaque avis de cotisation annuel[25], le ministre a informé M. Simone du solde impayé qu'il devait, non seulement pour l'année d'imposition en cours, mais également pour les années d'imposition antérieures. En outre, le ministre a compensé la dette de M. Simone par ses remboursements d'impôt des années d'imposition 1985, 1990, 1991, 1995 et 1997. Le ministre a enregistré un certificat relativement à la dette fiscale touchant la période 1979-1986 et il a demandé à la Cour fédérale du Canada de délivrer des brefs de fieri facias en octobre et en novembre 1990. Conformément au bref de fieri facias délivré en octobre 1990, un avis de saisie de loyer a été envoyé au locataire de M. Simone en juin 1991. Le ministre a également eu recours à des demandes formelles de paiement, lesquelles s'apparentent à la procédure de saisie-arrêt, en octobre 1992, en janvier 1993 et en novembre 2000.
+[35] Il importe de souligner que la plupart de ces mesures de recouvrement prises par le ministre constituent des mesures de recouvrement prévues par la loi. Le certificat a été enregistré en application du paragraphe 223(3) de la Loi. La compensation opérée par le ministre au moyen des remboursements d'impôt dus à M. Simone se fondait sur le paragraphe 164(2) et l'article 224.1 de la Loi. Quant aux demandes formelles de paiement, il s'agit de saisies-arrêts effectuées en application de l'article 224 de la Loi.
+[36] À mon sens, chacune de ces mesures de recouvrement prévues par la loi a pour effet de proroger le délai de prescription fixé à l'article 32 de la LRCÉCA. Comme l'a affirmé le juge Dawson dans la décision Ross, précitée, au paragraphe 36, cette interprétation est compatible avec la raison d'être des dispositions légales relatives à la prescription parce que ces mesures « favorise[nt] la certitude et la rapidité d'exécution » [26]. Le juge Major a mentionné sans équivoque que les mesures de recouvrement prévues par la loi constituent des poursuites entreprises en vertu de la loi et, en l'espèce, ces mesures ont assurément pour effet de montrer que le ministre n'avait pas renoncé à recouvrer la dette fiscale. Monsieur Simone ne peut donc raisonnablement en venir à penser « ne plus être redevable de cette obligation » . Par conséquent, on ne peut estimer que M. Simone avait des raisons de croire qu'il pouvait « gérer ses affaires en conséquence » , selon les termes employés par le juge Major dans l'arrêt Markevich, au paragraphe 20. De même, rien ne permet d'affirmer en l'espèce que le ministre a tardé à exercer ses droits en matière de recouvrement.
+• La période 1979-1986
+[37] Pour décider si la dette relative à une somme cotisée pour une quelconque année d'imposition s'est éteinte au cours de la période débutant 90 jours suivant la date du plus ancien avis de cotisation et se terminant le 28 septembre 2001 - soit le moment pertinent puisqu'il s'agit de la date des cotisations fondées sur l'article 160 visant Mme Simone -, il faut procéder à une analyse plus approfondie. Comme le certificat enregistré ne vise que la dette fiscale de la période 1979-1986, il convient d'examiner de façon distincte cette période et les années d'imposition 1987 à 1990 (la « période 1987-1990 » ). Quant à la première période, la plus ancienne cotisation est celle visant l'année d'imposition 1979 et elle est datée du 10 août 1982. Comme le fait générateur ne pouvait survenir que 90 jours suivant cette date, il est manifeste que le certificat enregistré par le ministre le 22 mars 1988 suffisait à proroger le délai de prescription pour une autre période de six ans, soit jusqu'en mars 1994.
+[38] La mesure de recouvrement suivante susceptible d'être considérée comme un élément ayant permis de proroger le délai de prescription applicable à la période 1979-1986 est la demande formelle de payer la somme de 181 275 $, datée du 12 janvier 1993[27]. Le délai de prescription était donc prorogé jusqu'au 12 janvier 1999. Comme le ministre a entrepris des mesures de recouvrement par voie d'une compensation le 9 mai 1996, le délai de prescription a, à cette date, été prorogé de nouveau jusqu'en mai 2002. La dette fiscale pour la période 1979-1986 n'était donc pas frappée de prescription et elle était toujours exigible le 28 septembre 2001, lorsque le ministre a établi à l'égard de Mme Simone les cotisations fondées sur l'article 160.
+• La période 1987-1990
+[39] En ce qui concerne la période 1987-1990, la plus ancienne cotisation intéresse l'année d'imposition 1987 et elle est datée du 27 juin 1988. Si nous ajoutons le délai de 90 jours, le délai de prescription aurait débuté en septembre 1988 et aurait pris fin au plus tard en septembre 1994. Ce délai de prescription a été prorogé pour une autre période de six ans, soit jusqu'au 12 janvier 1999, lorsqu'une demande formelle de payer la somme de 181 275 $ a été envoyée à Barry A. Edson & Associates le 12 janvier 1993, en application de l'article 224 de la Loi. Comme l'a signalé le représentant du ministre, un double de cette sommation est également envoyé au débiteur fiscal - M. Simone en l'espèce. La mesure de recouvrement suivante pertinente pour calculer le délai de prescription est la compensation opérée le 9 mai 1996. Cette compensation informait sans équivoque M. Simone que le ministre prenait toujours des mesures pour recouvrer à la fois la dette fiscale visant la période 1979-1986 et celle visant la période 1987-1990. Après cette compensation, la dette fiscale s'élevait à 244 891 $. Le délai de prescription applicable à la dette fiscale pour la période 1987-1990 a donc été prorogé pour une autre période de six ans, soit jusqu'en mai 2002. Par conséquent, la dette fiscale pour la période 1987-1990 était toujours impayée le 28 septembre 2001, lorsque la cotisation visant Mme Simone a été établie.
+[40] En conclusion, l'intimée a réussi à prouver que, sous réserve des redressements mentionnés plus haut, la dette fiscale demeurait impayée lorsque les cotisations fondées sur l'article 160 ont été établies par le ministre.
+[41] Pour tous ces motifs, les appels interjetés par Mme Simone à l'égard des cotisations établies en application de l'article 160 sont déférés au ministre pour nouvel examen et nouvelles cotisations en tenant compte du fait que le recouvrement de la somme due par M. Simone relativement à la période pertinente n'était pas frappé de prescription. Cependant, la dette fiscale de M. Simone, dont Mme Simone est solidairement responsable, doit être calculée en tenant compte du fait que la pénalité infligée en application du paragraphe 163(1) pour l'année d'imposition 1979 ne s'applique pas, que la pénalité visant l'année d'imposition 1980 est réduite à 2 728,32 $ et que la pénalité visant l'année d'imposition 1981 est réduite à 1 345,21 $. Le tout sans dépens.
+Signé à Ottawa, Canada, ce 1er jour d'avril 2005.
+« Pierre Archambault »
+Le juge Archambault
+Traduction certifiée conforme
+ce 21e jour d'avril 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2005CCI231
+NO DU DOSSIER DE LA COUR :
+2002-3092 (IT)G
+INTITULÉ DE LA CAUSE :
+Anna Simone c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 13 janvier 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge Pierre Archambault
+DATE DU JUGEMENT :
+Le 1er avril 2005
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Natasha Miklaucic
+Avocate de l'intimée :
+Me Eleanor H. Thorn
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelante :
+Nom :
+Natasha Miklaucic
+Cabinet :
+Goodman and Carr, LLP
+Avocats
+Toronto (Ontario)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le paragraphe 160(1) est ainsi rédigé :
+160(1) Transfert de biens entre personnes ayant un lien de dépendance - Lorsqu'une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d'une fiducie ou de toute autre façon à l'une des personnes suivantes :
+160(1) Tax liability re property transferred not at arm's length - Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+[...]
+les règles suivantes s'appliquent :
+d) [...]
+e) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d'un montant égal au moins élevé des montants suivants :
+(i) l'excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l'auteur du transfert doit payer en vertu de la présente loi au cours de l'année d'imposition dans laquelle les biens ont été transférés ou d'une année d'imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n'est toutefois réputée limiter la responsabilité de l'auteur du transfert en vertu de quelque autre disposition de la présente loi.
+(a) the person's spouse or common-law partner or a person who has since become the person's spouse or common-law partner,
+[...]
+the following rules apply:
+(d) [...]
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+[Non souligné dans l'original.]
+[2] En raison de l'intervalle qui s'est écoulé depuis la période pertinente, les deux parties ont eu de la difficulté à produire des éléments établissant les faits pertinents. Monsieur Simone est en partie responsable de cette situation parce qu'il a omis, pendant la période pertinente, d'interjeter appel des cotisations établies.
+[3] Voir l'admission faite par l'intimée au paragraphe 7 de la réponse. Cependant, l'adresse figurant sur l'avis de cotisation pour l'année d'imposition 1985, lequel est daté du 13 mai 1986, est celle de l'immeuble résidentiel. La même adresse figure aussi sur le fichier principal du ministre (les « principales feuilles de calcul » ) pour l'année d'imposition 1985.
+[4] Monsieur Simone a construit un garage sur le terrain qu'il a acheté. Dans son avis d'appel modifié, Mme Simone mentionne que le coût de construction total prévu était de 100 000 $. Cependant, ce fait n'a pas été admis par l'avocate de l'intimée et aucune preuve à l'appui n'a été produite au cours de l'audience.
+[5] Pendant son témoignage, M. Simone a affirmé que l'entreprise avait été constituée en personne morale en 1983. Selon les renseignements fournis par les principales feuilles de calcul, c'est jusqu'en 1984 que des revenus d'entreprise ont été ajoutés au revenu de M. Simone. En 1985, il n'y a aucun revenu d'entreprise, bien que des dividendes et des loyers soient déclarés comme sources de revenu.
+[6] Selon toute vraisemblance, le revenu indiqué dans les déclarations de revenus de M. Simone est un revenu d'entreprise net.
+[7] Cette somme est mentionnée, pour 1979, dans la colonne intitulée « INC AMT » (vraisemblablement, « income amount » , ou « somme déclarée comme revenu » ), dans les calculs de l' « établissement de la moyenne générale du revenu » présentés dans les principales feuilles de calcul. La somme mentionnée pour 1980 est 64 508 $ et celle pour 1981 est 42 320 $.
+[8] Lorsque l'avocate lui a demandé [TRADUCTION] « Est-ce que cela vous semble - 100 000 $, est-ce environ la somme que vous facturez à vos clients durant une année? Le savez-vous? Ou est-ce que vous facturez simplement à l'heure? » , M. Simone a répondu [TRADUCTION] « Je n'en ai aucune idée » .
+[9] Soit les coûts indirects de 60 000 $, le salaire d'un employé s'élevant à 30 000 $ et les frais liés aux pièces de 40 000 $. Lorsque l'avocate de Mme Simone lui a demandé [TRADUCTION] « Vous avez donc des dépenses totales d'environ 130 000 $? Êtes-vous au courant? » , M. Simone a répondu [TRADUCTION] « Je ne le sais pas » .
+[10] Selon ces chiffres, M. Simone a réalisé un bénéfice équivalant à 66 % du salaire versé à son employé.
+[11] La date de production pour la déclaration de 1979 n'est pas disponible, quoique les imprimés d'ordinateur montrent, outre la date de cotisation, deux pénalités pour production tardive, une de 500 $ et une autre de 7 614 $.
+[12] La date de production pour la déclaration de revenus de 1980 est le 9 novembre 1983.
+[13] La date de production pour la déclaration de revenus de 1981 est le 9 novembre 1983.
+[14] La date de production pour la déclaration de revenus de 1982 est le 29 juin 1983.
+[15] Cette somme a été réduite à 89 325 $ en raison de la compensation au titre d'un remboursement de 169 $ auquel M. Simone avait droit pour son année d'imposition 1985.
+[16] Cette somme a été réduite à 155 019 $ en raison de la compensation au titre d'un remboursement de 425 $ auquel M. Simone avait droit pour son année d'imposition 1990.
+[17] Cette somme a été réduite à 173 275 $ en raison de la compensation au titre d'un remboursement de 3 772 $ auquel M. Simone avait droit pour son année d'imposition 1991.
+[18] Cette somme a été réduite à 244 891 $ en raison de la compensation au titre d'un remboursement de 24,88 $ auquel M. Simone avait droit pour son année d'imposition 1995.
+[19] Il convient de signaler qu'aucune preuve manifeste n'a été présentée pour établir qu'une mention du certificat du 22 mars 1988 avait été enregistrée afin de créer un privilège sur l'immeuble commercial et l'immeuble résidentiel. Sur l'acte de cession de l'immeuble commercial daté du 6 octobre 1993, aucune mention ne figure dans la case intitulée « Actes d'exécution » . Cependant, sur l'acte de cession de l'immeuble résidentiel portant la même date, la note manuscrite [TRADUCTION] « visé par deux mesures d'ex. » (vraisemblablement, « exécution » ) se trouve dans la case « Actes d'exécution » (voir les onglets 4 et 5). Nul n'est venu témoigner quant à la date à laquelle cette note avait été inscrite ou quant à l'identité de son auteur.
+[20] Selon le représentant du ministre qui a rendu témoignage, un double de la demande formelle de paiement est également envoyé au débiteur fiscal.
+[21] Les articles 434 et 437 des Règles de la Cour fédérale (1998) prévoient notamment ce qui suit :
+434(1) Autorisation de la Cour - Un bref d'exécution ne peut être délivré sans l'autorisation de la Cour pour faire exécuter une ordonnance dans les cas suivants :
+a) six ans ou plus se sont écoulés depuis la date de l'ordonnance;
+[...]
+437(2) Si un bref n'a été exécuté qu'en partie, la Cour peut, sur requête, rendre, avant l'expiration du bref, une ordonnance renouvelant celui-ci pour une période de six ans à la fois.
+[Non souligné dans l'original.]
+[22] Cette disposition était ainsi rédigée en 1979 :
+163(1) Omission volontaire de produire une déclaration de revenu - Toute personne qui tente volontairement de se soustraire à l'impôt qu'elle doit payer, en vertu de la présente Partie, en ne produisant pas de déclaration de revenu dans la forme et les délais requis par le paragraphe 150(1), est passible d'une pénalité égale à 50 % du montant de l'impôt auquel elle a cherché à se soustraire.
+[23] Par suite de cet arrêt de la Cour suprême du Canada, l'article 222 de la Loi a été modifié. Cette modification, entrée en vigueur le 14 mai 2004, visait à édicter de nouvelles règles relatives au délai de prescription applicable au recouvrement des dettes fiscales. Certaines de ces dispositions sont rétroactives, en particulier les paragraphes 222(4) et 222(10). Cependant, elles ne sont rétroactives qu'au 4 mars 2004, date à laquelle le ministre des Finances a annoncé son intention de proposer ces modifications. Comme le moment pertinent en l'espèce pour déterminer si la dette fiscale était impayée est le 28 septembre 2001, soit la date où les cotisations ont été établies en application de l'article 160, l'article 32 de la LRCÉCA demeure toujours la disposition applicable.
+[24] Comme il est énoncé dans l'arrêt Markevich, précité, au paragraphe 2, le ministre avait même radié la dette à l'interne.
+[25] Ni le témoignage de M. Simone ni celui de son épouse ne m'a convaincu que M. Simone n'avait jamais reçu de cotisations de 1985 à 1995. Compte tenu de leur manque de maîtrise de la langue anglaise, il se peut qu'ils n'aient pas saisi en quoi consistaient les avis de cotisation. Ces avis portaient tous l'adresse de l'immeuble résidentiel. Le fait qu'un avis particulier n'ait pas été livré en raison d'une quelconque erreur humaine est possible. Que tous les avis de cotisation visant les années d'imposition 1985 à 1995 aient été livrés à une mauvaise adresse ou n'aient tout simplement pas été envoyés est fort improbable. Selon la prépondérance de la preuve, je crois que les avis de cotisation ont été envoyés à M. Simone. Comme il est mentionné plus haut, M. Simone savait qu'il devait d'importants montants d'impôt et il a pris certaines mesures pour régler cette dette. De plus, l'affirmation de M. Simone selon laquelle il n'a jamais demandé pourquoi il ne recevait pas les remboursements d'impôt figurant sur ses déclarations de revenus est troublante. Elle pourrait laisser croire que M. Simone ne portait que peu d'attention à sa situation fiscale ou qu'il connaissait l'existence de sa dette fiscale.
+[26] Selon moi, la justification fondée sur la preuve n'est pas en cause lorsque le droit de contester une cotisation a été pleinement exercé ou lorsque le contribuable a omis d'exercer ce droit, ou encore lorsque le droit d'obtenir une prorogation du délai applicable pour contester la cotisation (que ce soit par la production d'un avis d'opposition ou d'un appel contre la cotisation) s'est éteint.
+[27] Il convient de signaler que cette demande portait sur la dette impayée non seulement pour la période 1979-1986, mais aussi pour la période 1987-1990.

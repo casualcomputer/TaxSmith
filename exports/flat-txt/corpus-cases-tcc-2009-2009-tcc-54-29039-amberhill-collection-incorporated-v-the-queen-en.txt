@@ -1,0 +1,126 @@
+Title: Amberhill Collection Incorporated v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29039/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-54-29039-amberhill-collection-incorporated-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-01-27
+
+# Amberhill Collection Incorporated v. The Queen
+
+- Citation: 2009 TCC 54
+- Decision date: 2009-01-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6848, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Amberhill Collection Incorporated v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-01-27
+Neutral citation
+2009 TCC 54
+File numbers
+2007-3717(GST)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-3717(GST)I
+BETWEEN:
+AMBERHILL COLLECTION INCORPORATED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 23, 2008 at St. Catharines, Ontario
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Agent for the Appellant:
+Doug M. Robertson
+Counsel for the Respondent:
+Sonia Singh
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Yukon Denali was not a “passenger vehicle” as defined by the Excise Tax Act.
+IT IS FURTHER ORDERED that the filing fee of $100 be refunded to the Appellant.
+Signed at Ottawa, Canada, this 27th day of January, 2009.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2009TCC54
+Date: 20090127
+Docket: 2007-3717(GST)I
+BETWEEN:
+AMBERHILL COLLECTION INCORORATED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant is appealing the reassessment of the Minister of National Revenue under the Excise Tax Act for the period November 1, 2002 to October 31, 2005. By way of background, the Respondent failed to file its Reply to the Notice of Appeal within the 60-day period under the Informal Procedure Rules[1]. As a consequence, the factual assumptions upon which the Minister based his decision are not (as they normally would be) presumed to be true and the onus shifts to the Respondent to prove its case against the Appellant. Further, the facts alleged in the Notice of Appeal are assumed to be true[2].
+[2] The Notice of Appeal consists of a cover letter from the Appellant’s accountant indicating its intention to appeal the reassessment under the Informal Procedure, together with copies of a letter from the accountant regarding the reasons for the Notice of Objection and another from the president of the Appellant, Ms. Kristy A. Dukelow, in response to the proposed audit adjustments. It is the facts alleged in these three documents that are assumed to be true. At the hearing of the appeal, the Appellant called no witnesses.
+[3] The Respondent’s only witness was Matthew Bolta, the auditor in charge of the Appellant’s file. Mr. Bolta was a credible witness who presented his testimony in a very forthright manner.
+[4] Its agent having advised the Court that the Appellant did not dispute the assessment of GST on certain shareholder benefits, the only issue is whether a Yukon Denali owned by the Appellant was a “passenger vehicle” under the Excise Tax Act. The Appellant had claimed input tax credits on the full purchase price of the Yukon Denali on the basis that it was not a “passenger vehicle”; in reassessing the Appellant’s claim, the Minister decided otherwise and reduced the eligible ITC’s to reflect the monetary limit imposed by section 201 of the Act.
+[5] Subsection 123(1) of the Act adopts the definition of “passenger vehicle” that appears in subsection 248(1) of the Income Tax Act:
+"automobile" means
+(a) a motor vehicle that is designed or adapted primarily to carry individuals on highways and streets and that has a seating capacity for not more than the driver and 8 passengers. [Emphasis added].
+…
+[6] The Yukon Denali is caught by this portion of the definition; the question is whether it falls within the exclusions to the definition of "motor vehicle" under subparagraphs (e)(i) or (ii):
+“automobile” means
+…
+but does not include,
+…
+(e) a motor vehicle
+(i) of a type commonly called a van or pick-up truck, or a similar vehicle, that has a seating capacity for not more than the driver and two passengers and that, in the taxation year in which it is acquired or leased, is used primarily for the transportation of goods or equipment in the course of gaining or producing income,
+(ii) of a type commonly called a van or pick-up truck, or a similar vehicle, the use of which, in the taxation year in which it is acquired or leased, is all or substantially all for the transportation of goods, equipment or passengers in the course of gaining or producing income, or
+…
+[7] The Respondent’s position is that neither of these exclusionary clauses is applicable to the Yukon Denali: in respect of subparagraph (e)(i), the Yukon Denali had a seating capacity for more than the driver and two passengers; in respect of subparagraph (e)(ii), its use was not “all or substantially all” for the transportation of goods, equipment or passengers in the course of gaining or producing income.
+[8] Looking first at subparagraph (e)(i), in support of the Minister’s position, counsel for the Respondent referred to the auditor’s evidence that he had inspected the Yukon Denali and described it as having seating in the mid-section area of the vehicle and another seat at the very back. The Respondent relied on Kowalchuk[3] and Olson[4] and urged the Court not to follow the approach in Muller[5].
+[9] As the case law readily demonstrates, the determination of the seating capacity of a vehicle will depend on the facts of each case. In addition to the evidence set out above, Mr. Bolta’s testimony also confirmed the Appellant’s allegations that the middle seat was folded down and the back seat had been removed. When quizzed about the exact nature of the seating, he was candid in his admission that he might be confusing the Appellant’s vehicle with a similar one owned by his in-laws. This is understandable given the number of files an auditor would typically handle.
+[10] In the unusual circumstances of this case, the onus is on the Respondent to demolish the facts alleged by the Appellant in its Notice of Appeal. In my view, the Respondent’s evidence falls short of that mark.
+[11] Mr. Bolta’s evidence was that the Yukon Denali was in excellent condition. That statement is consistent with the facts alleged in the Notice of Appeal that the Appellant used the Yukon Denali in “… the high-end equestrian and travel goods accessory market along with a related sales stream in the posh pet accessory market. Her business requires her to attend many trade and trunk shows in the United States on an annual basis.”[6] According to the Notice of Appeal, image is everything in her business. To meet the expectation of clients and to avoid the high cost of shipping the merchandise to each destination, the Appellant invested in the Yukon Denali to transport and display the goods sold in its business:
+The industry is very accustomed to, and expects, quality to be present in all respects. I simply cannot show up to trade or trunk shows in standard cargo or cube vans. Image is very important and, without any doubt, is linked directly to my sales volumes.[7]
+[12] In her letter dated August 4, 2006 forming part of the Notice of Appeal, the president of the Appellant further described the vehicle and its use as follows:
+To reiterate what has been stated previously by myself and my accountant, the cargo area is used to transport a collapsible display amoir (very large), all product, and accessories to whichever trade or trunk show that I am may be attending. The cargo area is always packed to capacity from floor to roof and most times the front passenger seat is packed as well.
+Not only can the back seat be removed entirely, it has been and was sold as soon as the truck was purchased. You [the auditor] saw this when you viewed the truck when you were attending the audit. That is what I would call a permanent alteration (which is apparently what the regulations state in the strictest sense). The middle seat folds down to form part of the floor in the cargo area. As stated when you attended the audit, nobody has ever sat in those sets (sic) and you agreed that the seats and carpet on the floor looked unused. It does not make any sense to “permanently alter” the truck by removing the middle seat and installing some kind of floor system since it was already done – all you have to do is fold the seat down. Incurring extra costs for no reason makes absolutely no sense. My accountant informs me that this is a major issue from CRA’s point of view and that just goes against any common sense that I would have to somehow permanently alter that seat somehow. In actual fact the truck only has room for one passenger and that seat is almost always packed with product.
+…
+[13] In the circumstances of this case, I am satisfied that the Yukon Denali did not have seating for more than the driver and two passengers. Accordingly, it is excluded from the definition of “motor vehicle” under subparagraph (e)(i) and is not a “passenger vehicle” as defined under the Excise Tax Act.
+[14] The next step is to determine the extent to which the Appellant used the Yukon Denali in its business. Based on the kilometers recorded in the vehicle logs provided by the Appellant during the audit, Mr. Bolta calculated a business use of 62% in 2004 and 72% in 2005 which, according to the Minister, is not sufficient to satisfy the legislative provisions.
+[15] In the Notice of Appeal, Ms. Dukelow conceded that the business did not exceed 90%; however, she also noted that the logs were incomplete in that they did not show the kilometers driven locally for business purposes. She further buttressed her position that the Yukon Denali was used almost exclusively for the Appellant’s business by explaining that she had access to a car for personal use, a car which “…has a much more friendly suspension and [is] easier to park in tight downtown spaces.”[8] Mr. Bolta’s evidence does not in any way contradict these additional facts. On balance, I am satisfied that the Appellant used the Yukon Denali 85% of the time for business purposes, sufficient to satisfy the “all or substantially all” requirements of the Act.
+[16] The appeal is allowed and referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Yukon Denali was not a “passenger vehicle” as defined by the Excise Tax Act.
+Signed at Ottawa, Canada, this 27th day of January, 2009.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2009TCC54
+COURT FILE NO.: 2007-3717(GST)I
+STYLE OF CAUSE: AMBERHILL COLLECTION INCORPORATED AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: St. Catharines, Ontario
+DATE OF HEARING: October 23, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: January 27, 2009
+APPEARANCES:
+Agent for the Appellant:
+Doug M. Robertson
+Counsel for the Respondent:
+Sonia Singh
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Subsection 18.3003(1) of the Tax Court of Canada Act.
+[2] Subsection 18.16(4) of the Tax Court of Canada Act.
+[3] 2005 DTC 1754.
+[4] [2007] T.C.J. No. 344.
+[5] [2004] T.C.J. No. 413.
+[6] Notice of Appeal, letter from the Appellant’s accountant dated November 9, 2006.
+[7] Above, letter from the President for the Appellant dated August 4, 2006.
+[8] Above.

@@ -1,0 +1,197 @@
+---
+title: "Hines c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/127048/index.do"
+last_modified: "2015-12-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 317"
+citation2: ""
+neutral_citation: "2015 CCI 317"
+decision_date: "2015-12-07"
+language: "fr"
+item_id: "127048"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2837
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:14:57.156000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d88b1836de1a529ad2f1000814a8c200f160f6326481f76a567afdf3564cb029"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hines c. La Reine
+
+- Citation: 2015 CCI 317
+- Decision date: 2015-12-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2837, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hines c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-12-07
+Référence neutre
+2015 CCI 317
+Numéro de dossier
+2012-3867(IT)G
+Juges et Officiers taxateurs
+Kathleen T. Lyons
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012‑3867(IT)G
+ENTRE :
+DAVID HINES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 1er mai 2015, à Toronto (Ontario).
+Devant : L'honorable juge K. Lyons
+Comparutions :
+Avocats de l'appelant :
+Me Jeff Kirshen et Me Jason Rosen
+Avocate de l'intimée :
+Me Iris Kingston
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie sous le régime de la Loi de l'impôt sur le revenu pour l'année d'imposition 2008 est rejeté.
+Les dépens partie‑partie sont adjugés à l'intimée.
+Signé à Edmonton (Alberta), ce 7e jour de décembre 2015.
+« K. Lyons »
+La juge Lyons
+Référence : 2015 CCI 317
+Date : 20151207
+Dossier : 2012‑3867(IT)G
+ENTRE :
+DAVID HINES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée
+MOTIFS DU JUGEMENT
+La juge Lyons
+[1] L'appelant, David Hines, interjette appel de la nouvelle cotisation établie par le ministre du Revenu national en vertu de la Loi de l'impôt sur le revenu (la « Loi ») dans laquelle il a été établi qu'en 2008, l'appelant était un employé de Wellspring Energy Solutions Ltd. (« Wellspring ») et avait reçu la somme de 88 298 $ (la « somme ») de la part de Wellspring à titre de revenu d'emploi. L'appelant soutient qu'il était entrepreneur indépendant et que la somme comprend des remboursements de dépenses qu'il a effectuées pour le compte de Wellspring.
+[2] Les questions consistent à savoir si l'appelant était un employé ou un entrepreneur indépendant en 2008 et si la somme inclut le remboursement par Wellspring de dépenses que l'appelant avait effectuées pour le compte de Wellspring et qu'il lui avait présentées.
+[3] L'appelant a témoigné pour son propre compte. M. Keith Walker a également témoigné pour le compte de l'appelant.
+I. Les faits [4] L'appelant a travaillé depuis 1975 dans les domaines de l'exploitation industrielle, du génie professionnel et de l'architecture. Il a déjà travaillé comme consultant au Venezuela, où il a fourni des conseils en vue de la mise au point de pompes de fond destinées à des puits de gaz. Il a aussi participé à la conception et à la production d'un écrémeur, et à l'obtention d'un brevet pour celui‑ci.
+[5] Wellspring est une société de recherche et de développement qui a été constituée en 2008, puis qui a cessé ses activités au mois de mai 2009. Elle se spécialisait dans les pompes de fond, dans le secteur pétrolier.
+[6] Vers 2007, l'appelant a rencontré Robert Hughes. M. Walker, ingénieur électricien et associé de l'appelant, a par la suite rencontré M. Hughes afin de discuter de la mise au point de la pompe. Tous les trois sont devenus actionnaires de Wellspring. Aux dires de l'appelant, il a été convenu qu'il travaillerait comme consultant contractuel pour 8 000 $ par mois. Il aurait pour fonction de donner son opinion et de fournir des conseils en vue de la mise au point de la pompe et de mener à bien le projet de telle sorte que Wellspring puisse vendre la pompe. Il a quitté l'Ontario pour s'établir à Calgary. En janvier 2008, il a commencé à fournir ses services à Wellspring.
+[7] Monsieur Walker a également fourni des conseils à Wellspring, dont il était l'un des administrateurs. L'appelant et lui ont affirmé que M. Hughes était l'âme dirigeante de Wellspring, qu'il planifiait les rencontres avec les sociétés pétrolières et qu'il a embauché l'épouse et la fille de l'appelant pour constituer le service de la comptabilité.
+[8] L'appelant soutient qu'il a remis des factures à Wellspring, mais ces factures n'indiquaient pas de TPS, puisqu'il n'avait pas atteint le seuil de 30 000 $ et qu'il n'était pas inscrit à la TPS en 2008. L'appelant a indiqué qu'il n'était pas toujours payé ou que Wellspring ne disposait pas des fonds suffisants pour le faire, mais il a continué de travailler en s'attendant à être payé comme actionnaire. Durant son contre‑interrogatoire, l'appelant n'a pas pu se souvenir du nombre ou du pourcentage d'actions qu'il détenait, mais il est demeuré actionnaire après sa démission.
+[9] L'appelant a déclaré que Wellspring traversait une situation financière difficile et qu'elle avait besoin de certaines choses pour exploiter ses activités, mais qu'elle ne disposait d'aucune carte de crédit. Il a convenu d'utiliser la sienne, à condition de se faire rembourser certaines dépenses. Lorsque Wellspring avait besoin d'articles, c'était souvent lui qui les achetait. Il faisait ensuite état de ces coûts au service de comptabilité de Wellspring, qui avait pour tâche d'additionner ses reçus, puisqu'il s'agissait de dépenses de Wellspring. C'est d'ailleurs elle qui réclamait ces dépenses, et non l'appelant. L'appelant était aussi administrateur. C'est à ce titre, ou à titre d'actionnaire, qu'il a parfois acheté des articles pour Wellspring, pour lesquels il s'est fait rembourser ou pouvait se faire rembourser. En ce qui concerne les chèques que Wellspring lui a émis et dont le montant total correspond à la somme, il a estimé qu'environ la moitié était attribuable aux services qu'il a facturés, et l'autre moitié visait le remboursement de dépenses qu'il avait soumises[1].
+[10] Les actionnaires étaient mécontents et ont voulu élire de nouveaux administrateurs. Candy Victor, qui a été élue administratrice, est arrivée à sa résidence quelques jours après que le nouveau bureau de direction fut entré en fonction en avril 2009, afin de récupérer les registres, les reçus et la documentation. D'autres se sont présentés pour le contenu de l'atelier. Il a déclaré avoir été incapable d'obtenir des copies de ses factures de la part de Mme Victor. Même si l'appelant n'était pas en faveur de l'élection d'un nouveau conseil d'administration, il y a consenti. Cependant, lorsqu'il s'est fait demander d'exécuter certaines tâches, il a remis sa démission.
+[11] L'appelant a produit sa déclaration de revenus de 2008, dans laquelle il a affirmé être travailleur autonome, et dans laquelle il a déclaré un revenu d'entreprise net de Wellspring de 9 856 $[2]. En 2012, le ministre a établi une nouvelle cotisation à l'égard de l'appelant en incluant la somme comme revenu d'emploi pour son année d'imposition 2008.
+II. Analyse [12] Je suis d'accord avec l'observation de l'appelant selon laquelle il incombe au contribuable de convaincre le tribunal, selon la prépondérance des probabilités. Toutefois, lorsque le ministre n'a pas établi d'hypothèses de fait appropriées dans les actes de procédure, il revient au ministre d'établir la justesse de la cotisation. L'appelant fait valoir que deux des hypothèses de l'intimée font passer le fardeau de la preuve à l'intimée, parce que les hypothèses constituent des questions mixtes de fait et de droit qui répondent à la question que la Cour doit trancher[3].
+[13] Il soutient que les hypothèses invoquées en l'espèce sont semblables à celles de l'affaire Health Quest Inc. c. La Reine, 2014 CCI 211 (Health Quest), en ce que la Cour a constaté que le contribuable avait un net désavantage pour déterminer la thèse qu'il devait réfuter et qu'elle a noté que l'intimée avait présumé comment la loi (les souliers étaient détaxés au titre de l'annexe VI de la Loi sur la taxe d'accise) devait s'appliquer aux faits. Les hypothèses invoquées dans Health Quest étaient ainsi libellées :
+[TRADUCTION]
+f) l'appelante fournissait aussi d'autres produits qui n'étaient pas détaxés selon l'annexe VI de la Loi;
+g) au cours des périodes visées par l'appel, l'appelante n'a pas perçu la taxe, pour un montant d'au moins 42 274,72 $, lorsqu'elle fournissait des produits qui n'étaient pas détaxés selon l'annexe VI de la Loi.
+[14] Les hypothèses en l'espèce étaient rédigées comme suit :
+[TRADUCTION]
+g) l'appelant était un employé de Wellspring au cours de l'année d'imposition 2008;
+h) l'appelant a reçu de Wellspring un revenu d'emploi d'au moins 88 298 $ pour l'année d'imposition 2008.
+[15] Dans Health Quest, la Cour a également conclu que l'intimée n'avait pas fourni suffisamment d'éléments de preuve pour s'acquitter de son fardeau, parce que la réponse ne contenait pas d'hypothèses de fait, ou de faits pertinents, qui distingueraient clairement les caractéristiques des chaussures de l'appelante pour lesquelles le ministre alléguait qu'il aurait fallu percevoir et verser la TVH, pas plus qu'il y avait d'autres hypothèses de fait dans la réponse. Pour ces motifs et en raison de l'insuffisance des hypothèses, l'appel a été accueilli.
+[16] J'estime que les hypothèses en l'espèce ne sont pas comparables à celles de l'affaire Health Quest. Dans cette affaire, la Cour était manifestement préoccupée, d'une part, par les définitions précises invoquées au titre de la Loi sur la taxe d'accise et, d'autre part, par le fait que l'insuffisance et la différenciation des hypothèses désavantageaient nettement l'appelante. Ces éléments ne s'appliquent pas au présent appel; il n'existe donc aucun désavantage. Même si les deux hypothèses du présent appel sont des questions mixtes de fait et de droit, assez de faits ont été mis au jour pendant l'audience pour justifier la nouvelle cotisation du ministre, selon la prépondérance des probabilités[4].
+[17] Subsidiairement, l'appelant fait valoir que, bien qu'il fût administrateur et actionnaire de Wellspring, il a été engagé pour fournir des conseils à titre d'entrepreneur indépendant et qu'il ne relevait de personne à Wellspring.
+[18] La Cour suprême du Canada, dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, [2001] 2 R.C.S. 983 (Sagaz), récapitule, au paragraphe 47, l'essentiel de l'examen à faire pour établir si un particulier est un entrepreneur indépendant ou un employé :
+[...] La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. [...]
+[19] Pour répondre à cette question, la Cour d'appel fédérale prescrit une analyse en deux volets (l'intention subjective de chaque partie, selon des facteurs objectifs), qu'elle énonce dans l'arrêt 1392644 Ontario Inc. s/n Connor Homes c. Ministre du Revenu national, 2013 CAF 85, [2013] A.C.F. nº 327 (QL). La Cour d'appel fédérale a précisé le rôle de l'intention et le poids à y accorder. Elle a souligné que l'effet juridique de la relation détermine la situation juridique et ne peut être établi seulement par l'intention subjective déclarée des parties, en ajoutant que cette intention est certes pertinente, mais non déterminante, car elle « doit aussi se fonder sur une réalité objective et vérifiable »[5]. Le juge Mainville, au paragraphe 42, déclare ce qui suit :
+[...] La première étape de l'analyse doit toujours être de déterminer l'intention des parties puis, en deuxième lieu, d'examiner sous le prisme de cette intention la question de savoir si leurs rapports, concrètement, révèle des rapports d'employeur à employé ou de client à entrepreneur indépendant. [...]
+A. L'intention
+[20] Je suis d'accord avec l'intimée lorsqu'elle soutient que la preuve relative à l'intention subjective reposait seulement sur le témoignage de l'appelant sur son intention d'être un entrepreneur indépendant dont le mandat était de mener et d'orienter le projet de pompe pour Wellspring, sans aucune preuve de l'intention de Wellspring.
+[21] Dans son témoignage, l'appelant a dit qu'il avait d'abord parlé à M. Hughes à titre de [TRADUCTION] « chef d'orchestre » et qu'ils avaient conclu un accord oral. Celui‑ci prévoyait notamment que l'appelant déménagerait en Alberta et qu'il agirait comme un entrepreneur indépendant. Or, il s'est aussi décrit comme une personne ayant plusieurs rôles avant de déclarer que son rôle d'administrateur ne signifiait pratiquement rien, sauf qu'il achetait des articles à ce titre et en tant qu'actionnaire. Il a dit qu'il n'était pas toujours payé comme entrepreneur indépendant, mais il était convaincu qu'il serait payé car il était actionnaire, ce qu'il a continué à être après avoir démissionné. Toutefois, au cours de son contre‑interrogatoire, il n'a pas pu ou n'a pas voulu préciser le nombre ou le pourcentage de ses actions. Il affirme qu'il a facturé ses services à Wellspring, mais aucune facture n'a été déposée à l'audience.
+[22] Je tire une inférence défavorable du défaut d'avoir assigné M. Hughes à témoigner pour aider à établir l'intention des parties. J'estime et je conclus que la preuve ne démontre pas que les parties avaient convenu que l'appelant serait un entrepreneur indépendant, pas plus que telle était leur intention. Par conséquent, l'intention n'est pas un facteur pertinent dans le présent appel. Ce sont donc les facteurs objectifs qu'il faut prendre en considération pour arriver à établir la nature de la relation entre les parties.
+B. Le critère de l'arrêt Wiebe Door
+[23] En répondant à la question centrale « À qui appartient l'entreprise? », la Cour suprême du Canada, dans l'extrait suivant de l'arrêt Sagaz, a adhéré aux facteurs objectifs énoncés par la Cour d'appel fédérale dans l'arrêt Wiebe Door Services Ltd. c. Ministre du Revenu national, [1986] 3 C.F. 553 (C.A.F.) (Wiebe Door). La Cour suprême a déclaré, au paragraphe 47 :
+[...] Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+[24] Toutefois, aucun facteur particulier n'est déterminant dans la caractérisation de la réalité objective de la relation des parties, et cette liste de facteurs n'est pas exhaustive.
+i. Le degré de contrôle
+[25] Pour établir le degré de contrôle que l'employeur exerce sur les activités du travailleur, il faut avant tout trouver la personne qui peut exercer un contrôle sur la personne qui fournit les services, ainsi que le moment et le lieu de ces services, et la façon dont ils sont rendus.
+[26] L'intimée a fait valoir que le facteur du contrôle est plus difficile à appliquer lorsque l'appelant est également actionnaire, mais qu'il existait des éléments de contrôle.
+[27] Bien que l'entente indique que Wellspring exerçait un contrôle limité sur l'appelant à certains égards, elle montre que la société avait le droit d'exercer un certain contrôle sur lui à d'autres égards. Il a travaillé tous les jours et certains soirs. Il n'a pas pris de vacances et il a établi le coût des pièces d'un serpentin de fond spécial. Il a participé à des rencontres avec des spécialistes de cette industrie. Il a planifié des rencontres au sujet du serpentin de fond et du processus de conception au sujet des caractéristiques du puits et du lieu de forage. Il a également observé à l'occasion le matériel avant et après l'installation de la pompe[6]. M. Walker a indiqué que l'appelant avait été embauché pour remettre l'entreprise sur pied et pour entamer des négociations avec Enbridge, le client de Wellspring.
+[28] L'appelant a affirmé n'avoir eu aucune responsabilité, mais il a ensuite dit qu'il prenait part à certaines décisions de la société. Il s'est occupé de toutes les questions entourant la conception de la pompe, il s'est rendu sur les lieux pour rencontrer les clients de Wellspring, il a fourni des conseils sur place à des gens comme Andy Riopel et Darcy Lamoureux, et il a parfois produit un rapport.
+[29] En général, sa preuve était telle qu'il n'y avait aucune indication précise du rôle qu'il avait et à quel titre il a effectué certaines activités. J'estime que le facteur du contrôle ne pointe dans aucune direction.
+ii. La propriété des outils et de l'équipement
+[30] Quant à la question de savoir si l'appelant possédait et fournissait ses propres outils et son propre équipement lorsqu'il donnait des services à Wellspring, l'appelant a dit que M. Hughes avait une entente avec une autre société, selon laquelle [TRADUCTION] « nous » avions un bureau, sans que Wellspring n'ait conclu de bail. L'appelant n'avait pas de bureau, mais il pouvait travailler en s'asseyant à une table. En septembre 2008, lorsque l'appelant a déménagé à Red Deer, en Alberta, Wellspring exerçait ses activités à sa résidence. Il y avait d'autres outils, comme des stylos, du papier et un ruban à mesurer, mais on ignore qui les a fournis.
+[31] J'estime que l'appelant n'a pas fourni d'équipement en tant qu'entrepreneur indépendant. Au début, c'est plutôt Wellspring qui a fourni une table à l'appelant et, à compter de septembre 2008, Wellspring a versé un loyer à l'appelant pour exercer ses activités à Red Deer. J'en déduis que l'appelant avait chez lui un bureau consacré aux activités de Wellspring. À mon avis, ce facteur pointe en direction d'une relation employeur‑employé.
+iii. L'embauche d'assistants
+[32] Selon la preuve, l'appelant n'a pas engagé d'assistants. Ce n'est pas un facteur pertinent.
+iv. La possibilité de tirer un profit et le risque de perte
+[33] Ce projet laissait peu de place au risque financier et à la possibilité de profits pour l'appelant.
+[34] Même si l'appelant a déclaré qu'il utilisait une planification à chemin critique pour achever la conception de la pompe avec succès, il semble que l'appelant avait peu à perdre ou à gagner dans son rôle de direction et d'orientation, étant donné qu'il avait été convenu qu'il toucherait une rémunération de 8 000 $ par mois. Il était convaincu qu'il toucherait tôt ou tard un paiement à titre d'actionnaire s'il n'était pas payé comme entrepreneur indépendant. Je trouve improbable qu'un entrepreneur indépendant qui n'a pas été payé pendant une certaine période continue de fournir des services.
+[35] De plus, le concept de « profit » requiert nécessairement qu'il y ait davantage de revenus que de dépenses, et suppose qu'il ne peut y avoir de véritable « possibilité » de profit dans le cas d'un contrat d'emploi où le travailleur reçoit un tarif fixe pour ses services sans contribuer aux dépenses de l'organisation. Dans l'arrêt TBT Personnel Services Inc. c. La Reine, 2011 CAF 256, [2011] A.C.F. nº 1340 (QL), la Cour d'appel fédérale a déclaré que, comme la société appelante assumait exclusivement les dépenses d'exploitation, le travailleur ne pouvait réaliser de « profit ». Puisque Wellspring semblait assumer bon nombre ou l'ensemble des coûts d'exploitation, en raison du mécanisme de remboursement, l'appelant n'était pas en mesure de tirer de profit. Je me pencherai de nouveau sur les dépenses plus loin dans les présents motifs.
+[36] J'estime que, par rapport à ce facteur, l'appelant n'avait pas la possibilité de réaliser de profit et n'assumait pratiquement aucun risque financier, ce qui indique la présence d'une relation d'employeur‑employé.
+v. Autres facteurs
+[37] Le déroulement des activités ne porte pas la marque d'un entrepreneur indépendant. Même s'il est dans les affaires depuis 1975, l'appelant n'a pas maintenu de dossiers et de registres distincts; il n'a pas noté les dépenses comme un entrepreneur indépendant et, à l'audience, il n'a produit aucune facture. Il a affirmé avec confiance que le revenu d'entreprise net indiqué dans sa déclaration de revenus était [TRADUCTION] « exact à 100 % », mais, lorsqu'on l'a interrogé sur la façon dont il avait calculé le revenu d'entreprise net, il a répondu que certaines de ces choses n'avaient pas de sens pour lui. Depuis septembre 2008, Wellspring a exercé ses activités depuis la résidence de l'appelant, alors que celui‑ci déclare qu'il était un entrepreneur indépendant au cours de cette période. M. Walker, M. Hughes et d'autres ont séjourné à sa résidence lorsqu'ils menaient les affaires de Wellspring.
+[38] Les factures de Wellspring ont été envoyées à l'appelant. Il a déclaré avoir payé certaines dépenses de Wellspring parce qu'elle éprouvait des difficultés financières. Sans en faire le suivi, il a estimé qu'il incombait à Wellspring de compter les dépenses qu'il avait effectuées au nom de la société. Les dépenses soumises au service de comptabilité de Wellspring ont été remboursées et équivalaient environ à la moitié de la somme.
+[39] Je ne suis pas convaincue que l'appelant était à son propre compte en tant qu'entrepreneur indépendant. J'estime et je conclus qu'il travaillait chez Wellspring dans l'intérêt de cette société, en tant qu'employé.
+[40] L'appelant soulève que la notion du lien de subordination, qui est utilisée dans le Code civil du Québec, est convaincante et devrait être appliquée, car l'appelant n'était subordonné à personne chez Wellspring. Je suis d'accord avec l'intimée, qui fait valoir que le lien de subordination n'est pas un facteur pertinent à prendre en considération dans un contexte de common law.
+[41] Considérant l'ensemble de la preuve et pour les motifs qui précèdent, je conclus que l'appelant ne travaillait pas à son propre compte.
+vi. Dépenses
+[42] Puisque je conclus que l'appelant était un employé, il n'est pas strictement nécessaire d'aborder la question des dépenses. J'apporterai néanmoins certains commentaires. La preuve de l'appelant concernant les dépenses alléguées était vague, incohérente et difficile à concilier, et n'était pas crédible. C'est pourquoi j'écarte sa preuve sur ce point. Il a estimé qu'environ la moitié de la somme qu'il a reçue est liée à des dépenses qu'il avait effectuées dans l'intérêt de Wellspring et qui lui ont donc été remboursées. Il a déclaré ne pas les avoir inscrites comme dépenses parce qu'il s'agissait de dépenses de Wellspring. En dépit de l'estimation, il n'avait aucun relevé des dépenses engagées pour le compte de Wellspring et soumises à la société, ni de preuve permettant de les lier à la somme faisant l'objet de la nouvelle cotisation, ni de registre de ses propres dépenses en tant qu'entrepreneur indépendant. Aux questions portant sur les dépenses devant lui être remboursées, il a répondu qu'il n'avait pas compté les dépenses, mais les avait simplement soumises au service de comptabilité de Wellspring, auquel incombait cette tâche.
+[43] Un autre lien que l'appelant n'a pas établi est celui entre la somme qu'il a reçue et les dépenses figurant sur les relevés de carte de crédit incomplets (les « relevés ») de son beau‑père. Les dépenses dans les relevés sont imputables à Wellspring et comprennent, quoi qu'il en soit, des frais de repas personnels et des frais de carburant pour des courses personnelles.
+[44] Sa preuve ne pouvait établir avec cohérence si les dépenses inscrites dans sa déclaration de revenus étaient ses propres dépenses ou celles de Wellspring[7]. Comme l'intimée le souligne, il y avait un mélange de dépenses qui empêchait de concilier ou de préciser toute dépense qu'il pourrait avoir effectuée. J'estime et je conclus qu'aucune portion de la somme n'inclut des dépenses que Wellspring a remboursées à l'appelant.
+[45] Il est improbable qu'une personne qui est dans les affaires depuis 1975 ne conserve pas de copies de ses propres factures et reçus de dépenses afin de démontrer les montants liés à ses services et les frais. Je tire une inférence défavorable du fait que l'appelant n'a pas assigné Candy Victor comme témoin afin qu'elle produise les dossiers et qu'elle corrobore ses affirmations à propos de la facturation et des dépenses.
+[46] Pour les motifs énoncés et compte tenu de l'ensemble de la preuve, je conclus que l'appelant ne travaillait pas à son propre compte. Il était un employé engagé par Wellspring pour son entreprise et il a touché un revenu d'emploi équivalant à la somme faisant l'objet d'une nouvelle cotisation pour 2008.
+[47] L'appel est rejeté.
+[48] Les dépens partie‑partie sont adjugés à l'intimée.
+Signé à Edmonton (Alberta), ce 7e jour de décembre 2015.
+« K. Lyons »
+La juge Lyons
+RÉFÉRENCE :
+2015 CCI 317
+Nº DU DOSSIER DE LA COUR :
+2012-3867(IT)G
+INTITULÉ :
+DAVID HINES c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 1er mai 2015
+MOTIFS DU JUGEMENT :
+L'honorable juge K. Lyons
+DATE DU JUGEMENT :
+Le 7 décembre 2015
+COMPARUTIONS :
+Avocats de l'appelant :
+Me Jeff Kirshen et Me Jason Rosen
+Avocate de l'intimée :
+Me Iris Kingston
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Noms :
+Me Jeff Kirshen et Me Jason Rosen
+Cabinet :
+Barrett Tax Law
+Vaughan (Ontario)
+Pour l'intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Des repas, du carburant pour le camion, ses billets d'avion, le transport pour d'autres et des frais de déplacement. Il s'est rendu à Red Deer à maintes reprises. M. Walker a confirmé que l'appelant a payé les frais de M. Walker afin de se rendre de l'Ontario à Calgary pour le compte de Wellspring; il a séjourné à la résidence de l'appelant, car Wellspring ne pouvait se permettre de telles dépenses. M. Hughes, son gendre et la personne qui avait effectué les rénovations ont séjourné à la résidence de l'appelant. L'appelant a dit que M. Hughes n'avait pas d'argent et que l'appelant s'est fait [TRADUCTION] « monter un bateau ». L'appelant a dit qu'il a payé la facture de remise en service du téléphone de M. Hughes.
+[2] Il a déclaré un revenu d'entreprise brut de 28 384 $. Bien que la preuve ne fût pas claire, il a également dit que le montant de 17 884 $ inscrit comme « autres revenus » était un prélèvement dans les registres attribuable à des renseignements erronés du comptable, étant donné qu'il s'agissait d'honoraires de consultation inscrits incorrectement comme revenus de placements dans la déclaration. Il a également touché des indemnités d'invalidité partielle permanente de 13 308 $ de la Commission de la sécurité professionnelle et de l'assurance contre les accidents du travail.
+[3] L'intimée affirme que le fardeau de la preuve n'a pas été renversé, que l'appelant est un employé et qu'aucune partie de la somme n'est liée à un remboursement par Wellspring pour ses dépenses. La nature de la relation était obscure, parce qu'aucune preuve de l'intention de Wellspring n'a été fournie, et l'application des facteurs objectifs posait problème en raison de l'entrelacement des rôles et des responsabilités de l'appelant. Ce dernier n'était pas une personne qui travaillait à son compte en tant qu'entrepreneur indépendant.
+[4] Je remarque que l'appelant a allégué l'existence de très peu de faits pertinents dans son nouvel avis d'appel modifié.
+[5] Les paragraphes 39 et 40 expliquent en détail le processus en deux volets.
+[6] En contre‑interrogatoire, il a été établi que M. Riopel est le gendre de l'appelant.
+[7] À titre d'exemple, il a demandé le remboursement de frais d'intérêts de 5 265,25 $ et du loyer.

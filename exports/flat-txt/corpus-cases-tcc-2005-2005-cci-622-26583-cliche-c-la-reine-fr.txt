@@ -1,0 +1,212 @@
+Title: Cliche c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26583/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-622-26583-cliche-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-06-06
+
+# Cliche c. La Reine
+
+- Citation: 2005 CCI 622
+- Decision date: 2005-06-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3526, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cliche c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-06-06
+Référence neutre
+2005 CCI 622
+Numéro de dossier
+2004-571(GST)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-571(GST)G
+ENTRE :
+LOUISELLE CLICHE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Conférence de gestion du dossier tenue et appel entendu le 13 avril 2005, à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Rock Roy
+Avocat de l'intimée :
+Me Philippe Morin
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, dont l'avis daté du 17 novembre 2003 porte le numéro PQ-2003-7319 relativement à la taxe sur les produits et services, est rejeté, avec frais en faveur de l'intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2005.
+« Alain Tardif »
+Juge Tardif
+Référence : 2005CCI622
+Date : 20051108
+Dossier : 2004-571(GST)G
+ENTRE :
+LOUISELLE CLICHE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel relatif à la cotisation portant le numéro PQ-2003-7319 établie le 17 novembre 2003 en vertu de la Loi sur la taxe d'accise (la « Loi » ).
+[2] L'avis d'appel de l'appelante se lit comme suit :
+[...]
+1. L'APPELANTE a reçu du Ministère du Revenu du Québec, en date du 27 novembre 2002, un avis de cotisation portant le numéro PQ-2002-6832 en application de l'article 325 de la Loi sur la taxe d'accises, le tout tel qu'il appert de l'avis de cotisation qui sera produit et déposé lors de l'audition du présent appel;
+2. Le 11 octobre 1991, un contrat de mariage est intervenu entre l'APPELANTE et son époux, André Parent (ci après « M. Parent » ) devant Me Andrée Rancourt, Notaire, aux termes duquel M. Parent a fait donation entre vifs à l'APPELANTE de la somme de quarante mille dollars (40 000,00 $), laquelle somme était liquide et exigible dès la célébration du mariage, le tout tel qu'il appert du contrat de mariage qui sera produit et déposé lors de l'audition du présent appel;
+3. Le 9 juin 1999, M. Parent a fait donation à l'APPELANTE d'un immeuble servant de résidence principale dont la valeur a été estimée par les parties à la somme de cinquante neuf mille dix dollars (59 010,00 $), le tout tel qu'il appert d'une copie de l'acte de vente qui sera produit et déposé lors de l'audition du présent appel;
+4. Aux termes de cette donation, l'APPELANTE a assumé le solde du prêt hypothécaire en capital et intérêts et une partie de la somme due en vertu de la donation par contrat de mariage a été imputée sur cette donation, le tout tel qu'il appert du contrat de mariage qui sera produit et déposé lors de l'audition du présent appel;
+5. Le 17 février 2000, M. Parent a fait donation à l'APPELANTE d'un terrain adjacent à la résidence dont la valeur a été estimée par les parties à la somme de sept mille huit cent soixante et quinze dollars (7 875,00 $), le tout tel qu'il appert d'une copie du contrat de donation qui sera produit et déposé lors de l'audition du présent appel;
+6. Aux termes de cette donation, le solde due à l'APPELANTE en vertu de la donation par contrat de mariage a également été imputée sur cette donation, le tout tel qu'il appert du contrat de donation qui sera produit et déposé lors de l'audition du présent appel;
+7. Le 8 décembre 2000, M. Parent a fait cession de ses biens et Roy, Métivier, Roberge, syndics, ont été nommés syndic à l'actif de la faillite de M. Parent, le tout tel qu'il appert de l'extrait du Bureau du surintendant des faillites qui sera produit et déposé lors de l'audition du présent appel;
+8. À la suite de la cession des biens de M. Parent, des discussions sont intervenues entre le syndic et l'APPELANTE à l'effet que les donations du 9 juin 1999 et du 17 février 2000 lui étaient inopposables, le tout tel qu'il appert des lettres échangées qui seront produites et déposées lors de l'audition du présent appel;
+9. À la suite de ces discussions, l'APPELANTE a consenti à verser la somme de mille cinq cents dollars (1 500,00 $) pour la résidence et de deux mille dollars (2 000,00 $) pour le terrain, le tout tel qu'il appert des transactions intervenues qui seront produites et déposées lors de l'audition du présent appel;
+10. L'Agence des douanes et du Revenu du Canada a été informée de chacune des transactions intervenues, le tout tel qu'il appert des lettres transmises qui seront produites et déposées lors de l'audition du présent appel;
+11. Suite à ces transactions, l'Agence des douanes et du Revenu du Canada a choisi de ne pas cotiser l'APPELANTE, le tout tel qu'il appert d'une lettre datée du 30 septembre 2002 et produite au soutien des présentes;
+12. Cependant, le Ministère du Revenu du Québec a malgré tout cotisé l'APPELANTE au motif qu'elle a reçu un avantage en contrepartie du transfert de deux (2) immeubles par son époux en sa faveur et qu'elle est solidairement responsable des sommes dues à l'INTIMÉ par son époux jusqu'à concurrence de l'avantage reçu;
+13. L'APPELANTE est cotisée sur cette base pour la somme de deux mille neuf cent vingt-quatre dollars et trente-trois cent (2 924,33 $) tel qu'il appert de l'avis de cotisation PQ-2002-6832 qui sera produit et déposé lors de l'audition du présent appel.
+14. Le 16 janvier 2003, l'APPELANTE déposait à l'encontre de l'avis de cotisation susmentionné une opposition en bonne et due forme accompagnée d'une annexe, le tout tel qu'il appert de l'opposition et de son annexe qui seront produits et déposé lors de l'audition du présent appel;
+15. Le 17 novembre 2003, Me Nathalie Lachance, avocate à la Direction des oppositions, rendait sa décision sur cet avis d'opposition en ordonnant l'émission d'un nouvel avis de cotisation PQ-2003-7319 daté du 17 novembre 2003 au montant total de deux mille huit cent quatre vingt six dollars et onze cents (2 886,11 $) afin de tenir compte d'un dividende versé par le syndic tout en déclarant valable ladite cotisation aux dispositions de la Loi sur la taxe d'accises, le tout tel qu'il appert de la décision sur opposition et du nouvel avis de cotisation qui seront produits et déposés lors de l'audition du présent appel;
+16. L'APPELANTE entend démontrer que Me Nathalie Lachance a manifestement erré en faits et en droit en ne se sentant aucunement liée par la décision de l'Agence des douanes et du Revenu du Canada de ne pas cotiser l'APPELANTE relativement aux transferts des immeubles en sa faveur par M. Parent, le tout tel qu'il sera plus amplement démontré lors de l'audition de cet appel;
+[3] Dans sa réponse à l'avis d'appel, le Sous-procureur général du Canada a indiqué s'être notamment fondé sur les hypothèses de fait suivantes :
+a) Le 8 juillet 1999, André Parent qui était débiteur envers Sa Majesté du Chef du Canada pour une somme de 5 977,92 $ en vertu de la Loi sur la taxe d'accise, transférait à titre gratuit l'immeuble et le terrain situés au 66 avenue du Pont ouest, à Saint-Martin, compté de Beauce, province de Québec à l'appelante avec qui il avait un lien de dépendance.
+b) Le 17 février 2000, André Parent transférait à titre gratuit à l'appelante un terrain vacant dont la description est la suivante :
+« un emplacement de terrain situé dans la municipalité de Saint-Martin, Beauce-sud, connu et désigné comme étant une PARTIE du lot NEUF B (P.9B) rand un (rg.1) aux plans et livre du renvoi officiels pour le cadastre du canton de Shenley Nord, compté et circonscription foncière de Beauce. »
+c) Selon l'évaluateur de l'intimée, il s'est avéré qu'au moment de la cession à titre gratuit du 8 juillet 1999, l'immeuble situé au 66 avenue du Pont ouest, à Saint-Martin, comté de Beauce, avait une juste valeur marchande de 49 000,00 $ et le terrain de 11 000,00 $ pour un montant total de 60 000 $.
+d) De plus, selon l'évaluateur de l'intimée, il s'est avéré qu'au moment de la cession à titre gratuit du 17 février 2000, le terrain cédé décrit comme suit :
+« un emplacement de terrain situé dans la municipalité de Saint-Martin, Beauce-sud, connu et désigné comme étant une PARTIE du lot NEUF B (P.9B) rand un (rg.1) aux plans et livre du renvoi officiels pour le cadastre du canton de Shenley Nord, compté et circonscription foncière de Beauce. »
+avait une juste valeur marchande de 11 000,00 $.
+e) L'intimée a donc déterminé que l'appelante, au moment du transfert, avait été indûment avantagée pour une somme de 71 000,00 $.
+f) Le 27 novembre 2002, l'intimée a cotisé l'appelante pour une somme de 2 924,33 $ en vertu de l'article 325 de la Loi sur la taxe d'accise afin qu'elle devienne solidairement responsable de la dette d'André Parent jusqu'à concurrence de l'avantage reçu.
+g) Ce montant a été établi en répartissant l'avantage reçu par l'appelante en proportion des dettes que devait, au moment du transfert, André Parent à l'égard des lois fiscales du Québec et à l'égard de la Loi sur la taxe d'accise.
+[4] Le Sous-procureur général du Canada a finalement soutenu ce qui suit :
+a) l'appelante, est la conjointe de monsieur André Parent tel qu'admis et est une personne ayant un lien de dépendance avec le débiteur fiscal.
+b) Les terrains ainsi que l'immeuble transférés à l'appelante avaient une juste valeur marchande totale de 71 000,00 $ lors des transferts.
+c) L'appelante a acquis un immeuble et des terrains d'André Parent pour une contrepartie moindre que leur juste valeur marchande bénéficiant ainsi d'un avantage au préjudice des droits de l'intimée.
+d) Les transactions du 9 février 2001 et du 19 juillet 2001 intervenues entre le syndic et l'appelante pour régler les réclamations du syndic dans le cadre de la faillite du conjoint de l'appelante n'annulent pas la responsabilité de cette dernière suivant l'article 325 de la Loi sur la taxe d'accise.
+e) De plus, l'intimée n'est jamais intervenue dans les négociations des transactions du 9 février et 19 juillet 2001 avec le syndic et l'appelante.
+[5] L'intimée a formulé la question en litige comme suit :
+a) Quelle était la juste valeur marchande de l'immeuble et des terrains transférés par le débiteur fiscal, André Parent, à l'appelante lors des cessions du 8 juillet 1999 et du 17 février 2000?
+b) Y a-t-il eu une contrepartie donnée par l'appelante au moment des cessions?
+c) Est-ce que l'intimée est liée par les transactions du 9 février et du 19 juillet 2001 effectuées par le syndic à la faillite d'André Parent et l'appelante?
+[6] Dans un premier temps, je répondrai à la question de savoir si la donation prévue au contrat de mariage conclu le 11 octobre 1991 par l'appelante et son conjoint, André Parent, constitue une fin de non-recevoir à la cotisation. En d'autres termes, l'appelante est-elle justifiée de faire valoir auprès de l'intimée que les immeubles dont elle est devenue propriétaire lors de transferts les 9 février et 19 juillet 2001 lui ont été cédés en conformité avec la donation prévue au contrat de mariage et de ce fait, soutenir qu'une contrepartie égale sinon supérieure avait été donnée.
+[7] L'intimée soutient qu'une telle donation ne lui est pas opposable et, conséquemment, elle ne peut être prise en considération comme contrepartie valable lors des transferts du 9 février et du 19 juillet 2001.
+[8] Il est donc important de faire l'analyse de la clause prévue au contrat de mariage relative à la donation de manière à déterminer ses effets sur les transferts qui sont à l'origine de la cotisation dont il est fait appel.
+[9] L'appelante soutient que la donation prévue au contrat de mariage fait en sorte qu'elle n'a bénéficié d'aucun enrichissement à la suite des transferts intervenus les 9 février et 19 juillet 2001, étant donné qu'il s'agissait essentiellement d'une transaction effectuée en conformité avec la donation prévue au contrat de mariage.
+[10] Selon l'appelante, il s'agissait essentiellement de l'exécution de l'obligation que son conjoint avait contractée dans le cadre du mariage plusieurs années auparavant, soit le 11 octobre 1991; elle prétend que la donation est opposable à l'intimée en ce qu'elle établit une bonne et valable contrepartie des biens obtenus lors des deux transferts. Par conséquent, selon elle, la cotisation est mal fondée en fait et en droit.
+[11] La question de l'opposabilité et des conséquences d'une donation prévue à un contrat de mariage a été traitée dans l'affaire Furfaro-Siconolfi c. Sa Majesté la Reine, 89 DTC 5519. Dans ce jugement, l'honorable juge Pinard de la Cour fédérale du Canada a fait une analyse fort pertinente de la question.
+[12] L'honorable juge Pinard a conclu, à la suite de son analyse, qu'une telle donation, si elle était une donation véritable, devait être prise en considération. Suite à ce jugement, les tribunaux ont depuis pris en considération les transferts de biens effectués en exécution d'une donation lorsqu'ils étaient appelés à examiner une cotisation fondée sur l'article 160 de la Loi de l'impôt sur le revenu.
+[13] L'honorable juge Pinard a ainsi conclu qu'une donation entre vifs au montant de 30 000 $ prévue au contrat de mariage conclu entre l'appelante et son époux soustrayait cette somme à l'application de l'article 160 de la Loi de l'impôt sur le revenu. En d'autres termes, il s'agissait d'une contrepartie dont il fallait tenir compte.
+[14] Dans cette affaire Furfaro-Siconolfi, précitée, le contrat de mariage avait été signé le 2 septembre 1977, et le transfert de la somme en litige avait eu lieu le 10 octobre 1980, alors que l'époux de l'appelante devait à l'intimée une somme de 18 349,47 $. La clause du contrat de mariage en cause était rédigée comme suit :
+« The First Party shall ... and furthermore donates unto his said future wife hereto present and accepting:
+a) the sum of THIRTY THOUSAND DOLLARS ($30,000) to be paid at any time during the said marriage as he sees fit, the First Party hereby constituting himself debtor of the Second Party to the extent of the said sum. The donor, however, reserves the right at any time, to pay the whole or any part of the said sum either in cash or by the transfer or property, moveable or immoveable. Should the said sum not have been paid during the existence of the marriage, and he predeceases her, she shall have the right to demand payment of this sum or the part thereof unpaid or unsatisfied from his succession. »
+[Je souligne.]
+[15] La question consistait donc à déterminer le moment du transfert des biens visés par la donation prévue au contrat de mariage, de manière à situer dans le temps le transfert de propriété.
+[16] Au paragraphe 14 de sa décision, le juge Pinard écrivait :
+« Compte tenu des définitions ci-dessus, je suis d'avis que c'est le simple transfert de propriété qui constitue véritablement le transfert de biens visé à l'article 160 de la Loi, sans qu'il soit nécessaire que le bénéficiaire soit mis en possession de la chose ou de l'objet dont la propriété est ainsi transférée. Il faut bien souligner que la Loi de l'impôt sur le revenu, par définition précise, reconnaît que « biens » comprend un droit de quelconque nature qu'il soit, donc le droit de propriété d'une chose. Or, sur le plan juridique, on sait que le transfert du droit de propriété d'une chose, comme par exemple dans le cas d'une vente ou d'une donation, n'implique pas toujours la remise immédiate de cette chose. »
+[17] S'appuyant sur l'article 777 du Code civil du Bas-Canada, qui régissait les donations entre vifs, le juge Pinard conclut qu' « il ne fait aucun doute qu'Eligio Siconolfi s'est constitué débiteur, et ceci, d'une façon irrévocable; il a donc conclu qu'il y avait eu dessaisissement au sens de l'article 777 du Code civil du Bas-Canada » .
+[18] Selon le juge Pinard, il s'agissait d'une donation de biens présents et non pas d'une donation de biens à venir. Il conclut en affirmant qu'il « y a eu véritable transfert de propriété, donc transfert de biens au sens de l'article 160 de la Loi de l'impôt sur le revenu à la date de la signature du contrat de mariage, soit le 2 septembre 1977 » . Il conclut donc que « l'article 160 de la Loi ne saurait avoir d'effet à l'encontre de la demanderesse à l'égard de toute dette fiscale de feu Elegio Siconolfi ultérieure au 2 septembre 1977. »
+[19] Le principe élaboré par le juge Pinard dans la décision Furfaro-Siconolfi, précitée, s'applique-t-il au présent litige? Pour répondre à cette question, il faut analyser la qualité de la donation prévue au contrat de mariage de l'appelante. S'agissait-il d'une véritable donation? La donation avait-elle toutes les qualités requises pour constituer une véritable donation?
+[20] Le contrat de mariage entre l'appelante et son époux contient la clause suivante :
+« En considération de la collaboration de la future épouse au commerce de dépanneur et vente de produits pétroliers opéré par le futur époux à Saint-Martin, et ce, pour les années antérieures au mariage, alors que la future épouse n'avait pas un salaire proportionnel à son travail, le futur époux fait donation entre vifs et en pleine propriété, à compter de la célébration du mariage, à la future épouse qui accepte, d'une somme de QUARANTE MILLE DOLLARS ($40 000.00), et laquelle somme deviendra immédiatement exigible si un jugement de séparation de corps ou de divorce était prononcé entre les époux par un tribunal compétent.
+Le futur époux se réserve cependant le droit de payer ladite somme, en tout ou en partie, en tout temps durant le mariage, soit en deniers, soit par le transport à la future épouse de biens meubles ou immeubles.
+Advenant le prédécès de la future épouse, la donation ci-dessus sera révoquée. En conséquence, les représentants de la future épouse n'en pourront exiger l'exécution. »
+[Je souligne.]
+[21] Étant donné la réserve dont il est question à la fin de la clause qui prévoit la donation, il y a une différence fondamentale entre la donation en l'espèce et celle dont il est question dans l'affaire Furfaro-Siconolfi. En effet, cette réserve crée une condition suspensive; le délaissement exigé par l'article 777 C.C.B.C. n'a pas lieu.
+[22] La Cour ne peut donc pas prendre en considération la décision Furfaro-Siconolfi dans le présent dossier puisqu'il ne s'agit pas de donations similaires.
+[23] Qu'en est-il de la distinction entre les deux donations? Le Code civil du Bas-Canada prévoyait ce qui suit :
+777. Il est de l'essence de la donation faite pour avoir effet entre vifs, que le donateur se dessaisisse actuellement de son droit de propriété à la chose donnée. [...]
+[24] Il est intéressant de rappeler un extrait d'un ouvrage des auteurs Jean Pineau, Danielle Burman et Serge Gaudet. Ils écrivaient ce qui suit au sujet de la condition suspensive :
+« La condition suspensive suspend non seulement l'exécution de l'obligation, mais aussi sa formation. L'exemple désormais classique, qu'on trouve dans Mazeau, est celui-ci : « Je vous achète votre cheval s'il gagne la course » » . [...][1]
+[25] À la lecture de la clause, on constate qu'il n'y a pas d'obligation véritable ni de dessaisissement irrévocable de la part du donateur; en effet, la donation prévue au contrat de mariage du 11 octobre 1991 ne peut pas être considérée comme une donation entre vifs étant donné qu'il existait une condition suspensive.
+[26] Le délaissement irrévocable étant une condition impérative de la donation entre vifs prévue à l'article 777 C.C.B.C., la clause du contrat de mariage dont l'appelante était la bénéficiaire est sans effet en ce qui concerne la cotisation dont il est fait appel étant donné l'absence de cette condition essentielle.
+[27] Le jugement « Furfaro-Siconolfi » ne s'applique donc pas au présent dossier. Je conclus que le droit de l'appelante prévu au contrat de mariage ne constitue pas une contrepartie dans le cadre du transfert de biens lors des transactions du 9 février et du 19 juillet 2001.
+[28] Pour ces raisons, l'appelante ne peut pas prétendre que les transferts de biens dont elle a été la bénéficiaire s'inscrivaient dans le cadre de l'exécution de l'obligation prévue à son contrat de mariage et ainsi prétendre que les transferts avaient été exécutés en contrepartie d'un bien dont la valeur était égale, sinon supérieure, à la valeur des biens transférés les 8 juillet 1999 et 17 février 2000.
+[29] Quant à la deuxième question, elle consiste à déterminer la J.V.M. au moment des transferts. Chaque partie a fait entendre un témoin expert. Ces témoins sont arrivés à des conclusions fort différentes.
+[30] L'expert de l'appelante a soutenu que la juste valeur marchande ( « J.V.M. » ) des deux immeubles ayant fait l'objet de transferts les 8 juillet 1999 et 17 février 2000 était la suivante :
+J.V.M. des terrains : 10 000 $
+J.V.M. de l'immeuble (résidence) 36 000 $
+Total : 46 000 $
+[31] Quant à l'expert de l'intimée, il a retenu pour les mêmes immeubles la valeur suivante :
+J.V.M. des terrains (Lot 9B-2, 9B-ptie) : 22 000 $
+J.V.M. de l'immeuble (résidence) 49 000 $
+Total : 71 000 $
+[32] L'expert de l'appelante a affirmé avoir consacré 6 à 8 heures, incluant la visite des lieux, pour la préparation de son rapport. Malgré le peu d'heures investies dans le dossier, il est ressorti du témoignage de l'expert de l'appelante qu'il avait eu recours à une quantité impressionnante de données, particulièrement en ce qui concerne les ventes comparables pertinentes.
+[33] L'expert dont les services ont été retenus par l'appelante a également indiqué avoir consulté, dans le cadre de son travail, un entrepreneur qui devait exécuter certains travaux à la résidence que l'expert devait évaluer.
+[34] Il a également consulté un agent immobilier ayant des connaissances quant à la valeur des résidences situées dans le secteur.
+[35] Ces consultations auprès de l'entrepreneur en construction n'ont pas permis de connaître la nature exacte et détaillée des travaux à faire. S'agissait-il de travaux importants et essentiels? Ont-ils été exécutés et à quel coût? Toutes ces questions sont demeurées sans réponse.
+[36] Il a été fait état de trois problèmes touchant la J.V.M. de la résidence: une fissure dans la fondation, une porte d'accès à la résidence et la toiture de l'abri auto. Bien qu'il s'agissait d'éléments relativement importants, la preuve à cet effet a été plutôt sommaire et incomplète, au point qu'il m'apparaît impossible de tirer des conclusions raisonnables quant à la moins-value de ces déficiences sur l'ensemble de l'immeuble.
+[37] Après avoir abondamment fait état de ces trois problèmes faisant appel à d'importantes réparations dont le coût n'a pas été établi, l'expert a déprécié l'immeuble d'une manière significative à cause de la vétusté, donnant ainsi l'impression d'avoir effectué d'une double dépréciation.
+[38] Quant au terrain, l'approche de l'expert de l'appelante a été particulière. En effet, il existait une vente comparable dans la région immédiate de la résidence ayant fait l'objet du transfert. Malgré l'évidente pertinence, monsieur Robert Plante n'en a pas tenu compte.
+[39] Il a retenu une vente comparable d'une qualité moyenne et appliqué une dévaluation au motif que le terrain évalué est situé le long d'une artère à forte densité de circulation.
+[40] Or, un des deux terrains, contigu à celui donnant sur ladite route, était situé le long d'une rue ordinaire. Il a attribué la même dévaluation en considérant les deux terrains comme un ensemble.
+[41] Pour arriver à un montant au pied carré, encore là, il a utilisé toute une série de considérations sans justification qui, pour la plupart, étaient essentiellement arbitraires.
+[42] Son travail étant en apparence plus élaboré du fait d'une multitude de chiffres et de détails, l'expert de l'appelante, monsieur Robert Plante, a indiqué à la Cour qu'il avait consacré de 6 à 8 heures à la visite des lieux, à l'enquête auprès de personnes ayant des connaissances définies (entrepreneur et agent immobilier) et à la préparation du rapport.
+[43] Monsieur Plante ne pouvait manifestement pas donner à la Cour ce que le temps consacré ne lui a certainement pas permis de faire. Il a fait un travail conforme aux règles du travail d'expert qui, cependant présentait certaines lacunes en ce qui concerne son application. Il m'est cependant apparu très surprenant que l'expert de l'appelante n'ait pas retenu certaines ventes comparables dont une vente de terrain dont la pertinence était évidente.
+[44] Là où les choses se sont quelque peu gâtées, c'est à la suite de tous les rajustements et de toutes les pondérations dont la pertinence n'a pas été démontrée.
+[45] L'utilité et la qualité d'une vente comparable est le fait d'être comparable. Si une vente comparable fait l'objet de rajustements de pondérations multiples, il ne s'agit pas plus d'une véritable vente comparable, mais d'une donnée artificielle sans intérêt. De telles ventes comparables donnent l'impression que l'expert a fait toute une série d'entourloupettes pour arriver à rendre pertinent ce qui, au départ, ne l'était pas.
+[46] Des comparables nécessitant un aussi grand nombre de rajustements ou de pondérations pour se mériter la qualité de ventes comparables pertinentes deviennent des références sans intérêt aucun puisqu'elles ne sont pas de véritables ventes comparables. Conséquemment, les ventes comparables retenues par l'expert de l'appelante doivent être écartées de son rapport.
+[47] Je ne retiens pas les conclusions de l'expert de l'appelante qui a fait toute une série de rajustements dont la pertinence n'était pas évidente et qui n'étaient pas adéquatement justifiés; bien plus, certains pourcentages utilisés étaient essentiellement arbitraires.
+[48] Les pourcentages et les différents montants utilisés dans le cadre de la pondération semblent n'avoir servi qu'à minimiser autant que possible la J.V.M. de l'immeuble dont monsieur Plante avait reçu le mandat d'évaluer.
+[49] Je conclus que l'expert a investi le principal de ses énergies à identifier tous les facteurs lui permettant de soutenir la plus petite J.V.M. possible. Les efforts pour arriver à cette fin furent tels que la conclusion retenue n'est tout simplement pas raisonnable. Pour ces raisons, je ne retiens pas la valeur retenue par l'expert de l'appelante.
+[50] De son côté, l'expert de l'intimée, Gilles Vézina, a fait un travail de bonne qualité en ce qui concerne l'évaluation du terrain et cela, à partir de ventes comparables très pertinentes. Il s'agissait de trois transactions portant sur des terrains situés à proximité, dont deux terrains ayant fait l'objet d'un transfert relativement récent.
+[51] La qualité des ventes comparables, particulièrement en matière d'évaluation d'un terrain vacant, constitue un élément déterminant. Lorsqu'il s'agit de terrains qui sont situés à proximité du terrain qui fait l'objet d'une évaluation et lorsque plusieurs ventes comparables sont disponibles, à raison de deux ou de trois, les résultats obtenus sont très probants et pratiquement inattaquables, surtout si les transactions portant sur ces terrains ont eu lieu à une date assez rapprochée de la date de l'évaluation de l'immeuble.
+[52] Je retiens donc l'évaluation attribuée au terrain par l'expert de l'intimée et je conclus que les terrains avaient une J.V.M. de 22 000 $ au moment du transfert.
+Résidence
+[53] Pour ce qui est de la résidence, les deux experts en sont arrivés à des conclusions presque identiques quant au coût de remplacement, soit 95 500 $ pour l'expert de l'appelante et 92 400 $ pour l'expert de l'intimée. La grande différence quant au résultat final réside dans l'approche relative à la façon de calculer la dépréciation.
+[54] Après avoir calculé la dépréciation, l'expert de l'appelante, Robert Plante, a établi la valeur du bâtiment à 36 559 $ et l'expert de l'intimée, Gilles Vézina, l'a fixé à 49 000 $.
+[55] De façon globale, l'expert de l'intimée a adopté les deux mêmes approches que l'expert de l'appelante, soit l'approche des ventes comparables et l'approche du coût de remplacement pondéré par certains facteurs, dont l'état du bâtiment au moment de la transaction, eu égard à la vénusté du fait qu'il s'agissait d'un bâtiment dont la construction remontait à 1974.
+[56] Bien que les méthodes aient été les mêmes, le résultat a été considérablement différent. L'expert de l'intimée a eu recours à une approche très simple qui a le mérite d'être claire tout en donnant un résultat pouvant être qualifié de raisonnable.
+[57] Il a simplement fait l'équation suivante: coût de remplacement, 92 400 $ (montant très près de celui retenu par l'expert de l'appelante), duquel il a enlevé 50 % correspondant au pourcentage de désuétude établi en fonction de l'âge du bâtiment.
+[58] La résidence fut construite en 1974. La durée de vie d'un tel bâtiment a été établie, selon les règles de l'art classique, à 75 ans. Partant de ces données, l'expert de l'intimée a fixé le pourcentage de désuétude à 50 % qu'il a appliqué au coût de remplacement établi.
+[59] Malgré le mérite de la simplicité, le travail de monsieur Vézina s'avère par contre incomplet du fait qu'il n'a pas visité l'intérieur de la résidence qui fait l'objet du litige, bien qu'il savait que l'appelante ou ses représentants soutenaient qu'une fissure importante affectait la fondation de la résidence.
+[60] Monsieur Vézina s'est vu réfuter le droit de visiter l'intérieur et il a dû se contenter d'effectuer un examen de l'extérieur.
+[61] À l'audition, l'appelante a soulevé le fait que le travail de monsieur Vézina était incomplet. Il s'agit certes d'un grief recevable; par contre, la Cour doit tenir compte, dans son appréciation des faits, du comportement de l'appelante et de son conjoint qui ont refusé à monsieur Vézina le droit de visiter les lieux. Le refus de permettre la visite des lieux peut être dû au fait que la fissure en question n'avait pas l'importance alléguée ou ne portait pas atteinte à la solidité du bâtiment de façon aussi importante qu'on le prétendait.
+[62] D'un autre côté, eu égard à la situation, l'intimée aurait très bien pu obtenir une ordonnance enjoignant à l'appelante de consentir à la visite et à l'examen des lieux.
+[63] Étant donné la preuve, j'alloue une dépréciation additionnelle de 5 000 $ à celle retenue par monsieur Vézina, ce qui a pour effet d'établir la valeur du bâtiment à 44 000 $, soit 49 000 $ moins 5 000 $, à laquelle s'ajoute la valeur du terrain, soit à 22 000 $. Conséquemment, je conclus que la J.V.M. des immeubles ayant fait l'objet des transferts est établie à 66 000 $.
+[64] L'évaluation n'est pas une science exacte. Il s'agit d'un exercice régi par certaines règles et que les évaluateurs en général connaissent très bien les différences et écarts entre les évaluations portant sur un même biens provenant principalement de l'utilisation que font les évaluateurs des comparables auxquelles ils appliquent diverses pondérations et ajustements. Par le biais de cette façon de faire, ils peuvent influencer considérablement le résultat.
+[65] À cet égard, je suis tout à fait d'accord avec l'énoncé qui veut qu'une vente comparable perd sa qualité de vente comparable si on doit apporter un grand nombre de rajustements pour l'utiliser comme vente comparable.
+[66] Il est déjà difficile d'apprécier la qualité d'une évaluation préparée par un expert étant donné que les diverses approches prévues par les règles de l'art permettent le recours à l'usage de données multiples, d'où l'importance de s'éloigner le plus possible de l'arbitraire.
+[67] Il en est également ainsi en ce qui concerne des ventes comparables, dont l'expert a tenu compte ou qu'il a écartées. De telles lacunes font en sorte que la qualité du travail doit certes s'apprécier à partir du respect des règles de l'art, mais aussi et surtout à partir de la raisonnabilité et du gros bon sens.
+[68] Par conséquent, je conclus que le travail de l'expert Plante a été entaché par le désir manifeste d'obtenir la plus faible J.V.M. possible. L'exercice a été mené dans ce sens au point de discréditer le travail accompli.
+[69] Je retiens donc la J.V.M. établie par l'expert Vézina à laquelle je soustrais arbitrairement un montant de 5 000 $ étant donné qu'il n'a pas visité l'intérieur de l'ensemble pour constater l'état des lieux et pour vérifier la gravité de la fissure dans la fondation dont il a été beaucoup question.
+[70] Il aurait été souhaitable que les intéressés autorisent l'expert de l'intimée à visiter les lieux si l'intérieur de l'immeuble avait besoin de plusieurs réparations coûteuses.
+[71] Le fardeau de la preuve incombait à l'appelante et la preuve soumise quant à la gravité des vices intérieurs ne m'a pas permis de tirer des conclusions solides. Je fixe donc à 5 000 $ le montant applicable, établissant ainsi la valeur des biens transférés les 8 juillet 1999 et 17 février 2000 à 66 000 $.
+[72] Pour toutes ces raisons, Je conclus que la cotisation était bien fondée en fait et en droit, et je rejette l'appel, le tout avec frais en faveur de l'intimée.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2005.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2005CCI622
+N º DU DOSSIER DE LA COUR : 2004-571(GST)G
+INTITULÉ DE LA CAUSE : Louiselle Cliche et Sa Majesté La Reine
+LIEU DE L'AUDIENCE : Québec (Québec)
+DATE DE L'AUDIENCE : le 13 avril 2005
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 8 novembre 2005
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Rock Roy
+Avocat de l'intimée :
+Me Philippe Morin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Me Rock Roy
+Étude : O'Brien
+Ville : Québec (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] PINEAU, J., BURMAN, D. et GAUDET, S., Théorie des obligations (3e éd.), Montréal, Thémis, 1996, page 543.

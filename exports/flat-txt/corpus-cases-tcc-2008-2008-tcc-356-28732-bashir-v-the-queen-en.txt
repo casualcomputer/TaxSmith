@@ -1,0 +1,99 @@
+Title: Bashir v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28732/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-356-28732-bashir-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-06-23
+
+# Bashir v. The Queen
+
+- Citation: 2008 TCC 356
+- Decision date: 2008-06-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1454, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bashir v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-23
+Neutral citation
+2008 TCC 356
+File numbers
+2007-4476(GST)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2008TCC356
+Date: June 23, 2008
+Docket: 2007-4476(GST)I
+BETWEEN:
+AHMED Z. BASHIR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on April 23, 2008, in Ottawa, Canada.)
+Miller, J.
+[1] This is an appeal from an assessment made under the Excise Tax Act (ETA) for the period January 1, 1995 to December 31, 1997. The Minister of National Revenue assessed the Appellant as follows:
+GST not remitted $10,787.00
+Penalty (section 280) 9,442.41
+Interest 4,438.37
+Penalty (section 285) 2,697.00
+$27,364.78
+[2] The Appellant does not dispute that he failed to remit GST in the amount of $10,787 during the period January 1, 1995 to December 31, 1997. However, he raised the following issues in his Notice of Appeal:
+a) He had asked the Minister of National Revenue to waive the interest and penalties. At the time of filing his Notice of Appeal he had not received an answer from the Minister;
+b) He asked for a waiver of the GST owing on compassionate grounds.
+[3] At the hearing of this appeal the Appellant asked for cancellation of the interest and both penalties; he requested payment options for the GST not remitted.
+[4] The Tax Court is not a court of equity and its jurisdiction is limited to that given in the Tax Court of Canada Act. As well, the court cannot grant declaratory relief as that is not within the court’s jurisdiction. (Sunil Lighting Products v. Canada, [1993] T.C.J. No. 666) As a result, this court cannot waive the GST owing on compassionate grounds or any other grounds. This court has no jurisdiction in collection matters and cannot consider or order payment options for the GST not remitted. The only jurisdiction that this court would have had with respect to the GST not remitted would have been with respect to the amount of the assessment. However, the Appellant stated that he agreed with the amount of the GST assessed.
+[5] The Appellant is an electrical engineer. During the period January 1, 1995 to December 31, 1997 he operated a proprietorship under the name Parsec Consulting Engineers/ Ingenieurs Conseil Parsec (“Parsec”). His only customer was Computer and Concepts Associates (“C&CA”). They were engaged as the independent verification and validation contractor for the Canadian Space Agency dealing with the CanadArm Robot for the International Space Station. Parsec was engaged as one of the subcontractors for C&CA and was the software safety specialist.
+[6] The Appellant stated that all engineering work done by Parsec was done by him as he possessed the skills required. The work was strenuous and technically demanding. It was also very stressful as the Appellant knew that he was ultimately accountable for human lives and system safety.
+[7] It was the Appellant’s evidence that Parsec started to wind down operations in the spring of 1997 and all activities ceased on December 31, 1997 as he was suffering from an illness.
+[8] It was also the Appellant’s evidence that GST was charged and collected on engineering services provided to C&CA. He also admitted that he did not remit the GST to the Canada Revenue Agency during the years in issue.
+[9] The Appellant has been suffering from bipolar disease since 1971. He has experienced many psychotic manic episodes. The evidence disclosed that during these episodes, the Appellant can exhibit the traits of being hyperactive, grandiose, erratic, euphoric, a spendthrift and an insomniac. I gather from the evidence that this disorder distorts moods and thoughts and incites dreadful behaviours. The Appellant submitted into evidence a letter from his psychiatrist, Dr. Cattan. It was his opinion that persons suffering a psychotic episode “do not have insight and have quite impaired judgement”.
+[10] For many years the Appellant was in denial of his illness and this was true during the years under appeal. During the years 1995, 1996 and 1997 the Appellant was in the care of a family doctor who would not refer him to a psychiatrist. Mrs. Bashir, the Appellant’s spouse, testified about the Appellant’s health during this period. As she recalled those years, she became very distressed.
+SECTION 280 PENALTY and INTEREST
+[11] Section 280 provides that where a person fails to remit GST to the Receiver General when required, that person shall pay on the amount not remitted, a penalty and interest. Judge Bowman (as he then was) had found in several decisions that it is possible to raise a due diligence defence to the application of a section 280 penalty. The Federal Court of Appeal has confirmed this interpretation in Attorney General of Canada v. Consolidated Canadian Contractors Inc., 98 GTC 6303. At paragraph 50 of that decision the FCA has also described the test for due diligence in these words.
+By contrast, an implied due diligence defence with respect to s. 280 places the onus on the registrant to establish that he or she had exercised reasonable care in remitting the correct amount of GST.
+[12] It was Mrs. Bashir’s evidence that it was she who prepared the Appellant’s GST returns and filed them on time for the period prior to 1995. She also stated that she stopped preparing the returns because her husband had become very ill and life in their home was intolerable. Her husband was on very strong medication. It was only in 1998 that Mrs. Bashir and the Appellant’s brother were able to force the Appellant into a hospital.
+[13] The Respondent has submitted that in 1995, 1996 and 1997 the Appellant worked and earned income. He still operated his business and he was not completely incapacitated.
+[14] According to the evidence, in 1995, 1996 and 1997 the Appellant was suffering from a severe manic depressive disorder that was not being treated as he was not under the care of a psychiatrist. He had poor and impaired judgment. In the words of his present psychiatrist, he was out of control. It is my opinion that he was incapacitated at this time. The definition of incapacitated in the Canadian Oxford dictionary is as follows:
+“not capable of rational conduct or of managing one’s own affairs”
+[15] Both the Appellant and his spouse stated that in 1995, 1996, 1997 and up to the time the Appellant was hospitalized in 1998, the Appellant suffered psychotic episodes. I find that he was not capable of managing his own affairs. He was not able to exercise any care in remitting GST to the Minister. As he and his spouse stated, the Appellant was living in a different world at this time.
+[16] Surely if a taxpayer can defend the imposition of a section 280 penalty by showing due diligence, that is, by showing that he exercised reasonable care, a taxpayer who is suffering from a mental illness, who is experiencing psychotic episodes, who is mentally unable to manage his own affairs, should be relieved from imposition of the penalty.
+[17] What is the purpose of the section 280 penalty? Is it to encourage taxpayers to comply with the law and to file their returns on time? Is it to penalize those who are reckless, or careless about filing their returns on time? If either or both are true, then the Appellant should not be penalized as he was neither reckless nor careless. The purpose of the section is not to penalize those who are too ill to file their tax returns on time.
+[18] From all of the evidence that I heard yesterday, it would not be just to allow the penalty to stand.
+[19] I find that the Appellant has made out a due diligence defence. The section 280 penalty is to be deleted.
+[20] The court can provide no relief for the interest imposed pursuant to section 280.
+SECTION 285 PENALTY
+[21] The Respondent has the burden of proving that penalties under section 285 should be maintained. The Respondent must prove that the Appellant knowingly or under circumstances amounting to gross negligence has made an omission in a return and is liable to a penalty.
+[22] In Venne v. R., [1984] F.C.J. No.314 (FCTD) Justice Strayer described the onus on the Respondent in these words:
+"Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[23] The Respondent has not met its burden. The facts in this appeal were so very sad and troubling that Mr. Lalone, the auditor who assessed the gross negligence penalty, in answer to a question that I posed to him, stated that if he had known all these facts he would not have assessed the section 285 penalty.
+[24] The appeal is allowed and both penalties are to be deleted.
+Signed at Ottawa, Canada, this 23rd day of June 2008.
+“V.A. Miller”
+Miller, J.
+CITATION: 2008TCC356
+COURT FILE NO.: 2007-4476(GST)I
+STYLE OF CAUSE: AHMED Z. BASHIR AND THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: April 23, 2008
+REASONS FOR ORDER BY: The Honourable Justice Valerie Miller
+DATE OF ORDER: April 24, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Joanna Hill
+COUNSEL OF RECORD:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

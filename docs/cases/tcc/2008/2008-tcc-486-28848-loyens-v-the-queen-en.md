@@ -1,0 +1,243 @@
+---
+title: "Loyens v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28848/index.do"
+last_modified: "2008-08-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 486"
+citation2: ""
+neutral_citation: "2008 TCC 486"
+decision_date: "2008-08-29"
+language: "en"
+item_id: "28848"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1357
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:53:13.744000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "526a76fa0925cc0bdbeaf4ad01dc9048d3426fd5701882412c27e8a6a5a0ef17"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Loyens v. The Queen
+
+- Citation: 2008 TCC 486
+- Decision date: 2008-08-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1357, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Loyens v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-08-29
+Neutral citation
+2008 TCC 486
+File numbers
+2004-3590(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3590(IT)G
+BETWEEN:
+WILLIAM LOYENS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 16 and 17, 2008, at London, Ontario
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+Paul Downs
+Counsel for the Respondent:
+George Boyd Aitken
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed, with costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s chief source of income was farming or a combination of farming and some other source.
+Signed at Ottawa, Canada, this 29th day of August, 2008.
+“C.H. McArthur”
+McArthur J.
+Citation: 2008 TCC 486
+Date: 20080829
+Docket: 2004-3590(IT)G
+BETWEEN:
+WILLIAM LOYENS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] These are appeals from reassessments made under section 31 of the Income Tax Act (“Act”) for the Appellant’s 1999 and 2000 taxation years. The Minister of National Revenue (“Minister”) reduced the Appellant’s claimed farm losses of $382,852 and $202,475, respectively, to the amount of $8,750 for each year. The issue is whether the Appellant’s chief source of income in those years was farming, or a combination of farming and some other source of income.
+[2] The Appellant, Dr. William Loyens, is 56 years of age and resides with his wife Sylvia on a farm in Delaware, Ontario. He is a highly successful dentist and has been operating a dental clinic in the town of Glencoe since 1976. He was raised on a poultry farm and was involved in farming since the age of 12. His father was working fulltime in construction, and the Appellant stated that he basically ran the poultry farm until entering university. In his teens, he owned sheep and an Arabian horse, and became a chartered member of the Red Valley Saddle Club, competing in various horse-related sports. He attended the University of Toronto and graduated from dental school in 1975. In 1976, he bought an existing dental clinic in the town of Glencoe, and he and his wife moved to Glencoe as well. In the 1980s, he doubled the size of the clinic, building two new operating rooms. The total capital investment in the dental operation amounted to approximately $208,000.
+[3] In the late 1970s, the Appellant acquired 83 acres of corn and bean land, an adjoining 50 acres a few years later, and finally, a residence located on 20 acres of land, with the intention of farming. He established a very successful dentistry practice before engaging in farming in 1990. He envisaged retiring from dentistry by the age of 55, or as soon as his farming operations would sustain his family. He has a family history of Parkinson’s which at some point may prevent him from practicing dentistry.
+[4] In addition, in 1989 or 1990, he built a horse barn (48’ by 36’) and fenced in some land to commence a business of breeding Arabian horses. While he hired a contractor to install the barn’s main structure, he did much of the remaining work himself. One year later, he had a training arena built (160’ by 80’), to which he personally added a viewing room. He later built a connecting barn, an emu barn, and purchased another 25 acres. There is no doubt he spent considerable time setting up his horse and emu farm. He reduced his working time at the dental clinic to a four-day week in order to have more time on the farm. The capital investment from 1990 to 1999 relating to his farming operation was about $600,000. While the Respondent submits that only $344,000 can be substantiated, I accept the Appellant’s estimates.
+[5] Upon commencing horse farming, the Appellant’s idea was:
+To buy a good band of brood mares, have our stallion and basically produce horses to sell for showing later.
+During the years under appeal, he owned approximately 20 horses, and in attempting to increase their value, he actively promoted them at show rings. From a financial point of view, his efforts were in vain since throughout a 16-year period, he sold only nine horses, most of which were for a fraction of the price that he had expected. He explained how various events negatively impacted the Arabian horse market, resulting in lower than expected sale prices. While not giving up on the horse breeding operation, in the early 1990s, he changed his focus to emu farming.
+[6] The Appellant then met with emu producers, and visited a number of emu farms in Canada and the United States. In May 1990, together with a partner, he bought 100 chicks at $1,500 each,[1] and later acquired another 50 chicks and six pair of breeders from Germany. Initially, his emu activity was strictly for breeding. He was able to generate significant revenues during the 1993 and 1994 taxation years from selling yearlings and some of his own chicks from the breeders that he had initially purchased. However, in 1995, this breeding market collapsed and never returned.
+[7] He then increased his emu flock to 4,000 birds in 1998 to process emus for their meat, oil and hides. He seriously promoted emu-based products, and hired a marketing agent to promote and market the products both in Canada and the US. He provided emu meat gratuitously, and funded a number of functions featuring world class chefs. Furthermore, he bought some emu-based leather in the United States, and had clothing designed and presented at small fashion shows. While his promoting efforts were impressive, he was not able to sell any of these products because as he stated:
+I didn’t have the product to sell because I wasn’t processing birds yet, I wasn’t large enough. But I was doing this to basically get exposure, find out what the market would be and just get a feel as to, in my own mind that I could sell this stuff for sure.
+However, 10 years later, very little, if any, of the promoted emu products have been sold.
+[8] According to the Appellant, the meat value of an emu is anywhere from $150 to $200 a bird, which would cover the cost of raising it. He added that the profit of an emu operation is in the bird’s oil which may sell for $360 per bird, while its skin may sell for $150 per bird. However, in order to salvage a bird’s oil and hide, a specialized abattoir is required. Since no such abattoir existed within the vicinity of the Appellant’s farm, he was only able to process emus for their meat. By using the local St. Ann’s abattoir, the Appellant felt that he was losing money because the oil and hides could not be utilized. He attempted to purchase the abattoir, or construct one himself, to equip it with the necessary tools required to salvage the hides and oil.
+[9] For the construction of an abattoir, the Appellant has been seeking financing since 1999, without success, in Canada, the United States and offshore. In early 2000, St. Ann’s abattoir was purchased by another party and, therefore, no longer remained an option. It is somewhat of a mystery why the amount of financing the Appellant sought has increased from $5 million to $25 million, but in any event, financing was the key to his emu venture in order to construct an abattoir. There is no reliable evidence that the offshore financing is or was a realistic possibility.
+[10] With respect to the financing, the Appellant entered into evidence three letters dated October 20, 1998, June 28, 2000 and August 22, 2000. As well, counsel for the Respondent introduced one such letter, dated February 15, 2006. The four letters do state that offshore money will be transferred within approximately 30 days, but no details or conditions about the financing are provided, nor is there any mention of what amount is forthcoming. The Appellant testified that the contact person for the offshore financing was Ms. Robyn Rae Mattila, with whom he spoke on the telephone, but never met in person. And of course, Ms. Mattila was not called to testify on behalf of the Appellant, and more than likely because she works out of Las Vegas, Nevada. The Appellant does have more recent similar correspondence from Las Vegas, to which I am not prepared to give any credence.
+[11] Also, James Harrison Lockhart, currently working as a truck driver, was in charge of negotiating the offshore financing arrangements, and he testified on the Appellant’s behalf. However, his testimony does not confirm that offshore financing was ever imminent or, for that matter, that it was authentic. He stated that he was the point of contact to Ms. Mattila, but that he also had never met her. He was apparently in telephone contact with a Stephanie Chase, who he stated is a Federal Reserve licensed trader who had been retained by Ms. Mattila. Again, Mr. Lockhart has never met Ms. Chase, but he testified that she worked for Credit Suisse out of Los Angeles. No documents were submitted to support this, and nor was Ms. Chase called as a witness. I have serious doubts about the authenticity of the offshore financing arrangements, and the evidence simply does not support that financing was ever at hand. The search for financing has continued for almost 10 years, without any success.
+[12] While Dr. Loyens focused his energy on emu farming, Sylvia looked after the horses. She was very much involved in her husband’s overall farming activities. She is a practicing lawyer, who grew up on a family farm and has been involved in farming all her life. As a child, she was responsible for sheep and a Hereford cow with a calf. Her farming activities paid for much of her undergraduate studies. She studied at the University of Guelph and later attended the University of Toronto, where she graduated with a Bachelor of Science in occupational therapy. After working for three years, she graduated from the University of Western Ontario Law School in 1981. She testified that prior to engaging in the farming business in 1990, she with the Appellant and children lived a comfortable life, and they had a net worth of over $1.5 million. Among other things, they owned a cottage, a condominium in Hamilton, a sail boat and an airplane.
+[13] In order to estimate the time spent by her husband at his dental clinic, she referred to his appointment book and recorded information on a calendar. During the hearing, counsel for the Respondent pointed out that the Minister had asked for this appointment book, but was told that it no longer existed or was lost. According to Ms. Loyens, this was after she transposed the information onto the calendar and that since then, the appointment book has been lost or disposed of. Accordingly, the estimated figures provided by the Appellant should be taken for what they are, estimates. For the years prior to 1999, Ms. Loyens estimated that the Appellant spent 1,850 hours on the farm and 1,108 hours at the dental clinic. As shown in the table below, from 1990 to 2002, the Appellant has generated significant farm losses, while being highly successful as a dentist. His gross income from his dental practice constantly increased from $476,369 in 1990 to $831,821 in 2002.
+Taxation Year
+Gross Farm Income
+Net farm Income
+Gross Professional Income
+Net Professional income
+1990
+$3,406
+$(33,899)
+$476,369
+$175,426
+1991
+-
+(58,237)
+485,456
+215,594
+1992
+5,819
+(75,067)
+485,456
+214,811
+1993
+136,950
+(64,591)
+538,600
+216,645
+1994
+180,675
+(15,709)
+547,952
+213,922
+1995
+34,780
+(127,167)
+553,473
+218,123
+1996
+5,774
+(150,192)
+581,371
+229,688
+1997
+9,715
+(177,713)
+581,596
+243,977
+1998
+2,555
+(204,636)
+-
+296,257
+1999
+34,211
+(391,602)
+667,801
+325,279
+2000
+10,865
+(211,225)
+703,479
+333,826
+2001
+7,570
+(179,929)
+752,735
+260,635
+2002
+57,852
+(161,192)
+831,821
+391,575
+Total
+$490,172
+$(1,851,159)
+$7,206,109
+$3,335,758
+[14] As stated, the Appellant seeks to deduct over $600,000 for farm losses in the taxation years 1999 and 2000. The sole issue is whether the Appellant’s chief source of income during that time was farming, or a combination of farming and some other source of income, pursuant to section 31 of the Act.
+[15] The Appellant submits that in about 1990, he had changed the focus of his career, work routine and lifestyle when farming became the centre of his financial interests. He relies heavily on a recent Federal Court of Appeal decision in Gunn v. The Queen.[2] He submits that the criteria in a section 31 determination, namely capital committed, time spent and profitability, favour his appeals. He notes that the capital committed towards the farming business was three times that of the dentistry, and he and his family lived the lifestyle of farmers, spending more time working on the farm than at his dental practice. With regard to profitability, the Appellant stresses the fact that the Respondent has accepted that his farm operation had a reasonable expectation of profit. Finally, he submits that applying the decision in Gunn leads to the conclusion that his chief source of income for the 1999 and 2000 was a combination of farming and the practice of dentistry.
+[16] The Respondent submits that by applying the tests set out in Moldowan v. The Queen,[3] the Appellant’s farm losses are restricted to the amount of $8,750 for each year. With regard to the three determining factors of capital committed, time spent and profitability, the Respondent stresses that the evidence with respect to the first two is meager, and does not necessarily favour the Appellant. The Respondent has, however, accepted that the capital committed to farming by the Appellant was significant, and that during the years under appeal, the Appellant spent more time at his dental practice. Primarily, the Respondent submits that profitability remains a key element and requires a taxpayer to show that his farming activities will, within a reasonable future, be profitable. Further, that the Appellant’s farming activities have failed to generate any profit for over a decade, there is no potential for profitability, and therefore, farm loss deductions should not be allowed forever.
+[17] As stated, the appeals evolve around section 31 of the Act, the relevant provisions of which provide as follows:
+31(1) Where a taxpayer's chief source of income for a taxation year is neither farming nor a combination of farming and some other source of income, for the purposes of sections 3 and 111 the taxpayer's loss, if any, for the year from all farming businesses carried on by the taxpayer shall be deemed to be the total of …
+A formula follows.
+31(1.1) For the purposes of this Act, a taxpayer's "restricted farm loss" for a taxation year is the amount, if any, by which …
+Again, a method of calculation follows.
+[18] The test for the application of section 31 is to determine whether farming is the taxpayer’s chief source of income, and whether the taxpayer’s chief source of income is a combination of farming and some other source of income. In Moldowan, Dickson J. stated that:
+… in order to have a “source of income” the taxpayer must have a profit, or a reasonable expectation of profit.
+I accept the Respondent’s concession that the Appellant’s farming endeavors had a reasonable expectation of profit, and I have no difficulty concluding that in 1999 and 2000, the Appellant had a farming business. In any event, the reasonable expectation of profit test no longer applies when determining a taxpayer’s source of income as envisaged in Moldowan, since the Supreme Court of Canada’s decision in Stewart v. The Queen.[4] The Respondent’s position is simply that the Appellant’s business is not his chief source, either alone or in combination with his dental practice.
+[19] The analysis set out in Moldowan, which remains the binding authority, requires an examination of the comparative financial results: (a) the investment of capital; (b) the relative commitment of time and effort; and (c) the consideration of the taxpayer’s mode and habit of work, as well as his farming operations’ actual and potential profitability. This analysis is primarily fact-driven. A court must assess the three factors cumulatively, and no single factor may be taken as determinative in isolation. The Appellant meets the first two factors. It is the third that requires scrutiny without the benefit of hindsight:
+(a) With regard to capital committed, I accept that the Appellant invested approximately $600,000 in his farming operations from 1990 to 1999, and $208,000 in his dental clinic.
+(b) The second factor is the time committed by the Appellant on his farm compared to his dental clinic. In 1999 and 2000, his work time on the farm was at least equal to that in his dental clinic. I accept the Appellant’s estimates, considering he personally did a lot of the barn construction. The evidence presented by the Appellant regarding work hours had flaws but, suffice it to say, he worked very long hours at both his clinic and his farm.
+[20] Finally, the farm’s profitability, both actual and potential, must be considered. It started with horse farming in 1990. The evidence clearly establishes that so far, the horse business was not successful in terms of animals sold and revenues generated in 1999 and 2000, and nor is it successful at the present time. The Appellant sold only nine horses over a period of approximately 16 years, since, according to him, the market for Arabian breeding horses collapsed in the early 1990s.
+[21] At the outset of the Appellant’s emu farming, he was able to sell breeding pairs profitably, but there have not been profitable sales since 1995. He acknowledged that raising emus for their meat is not financially viable. He added that:
+…. the meat covers the cost of the bird. The leather would cover the cost of the abattoir and the oil would be the profit.
+However, as mentioned above, without a specially equipped abattoir in the area to salvage the birds’ hides and oil, only the meat could be marketed. For his emu venture to become profitable, a specialized abattoir is needed. No expert evidence was given to substantiate the true market value of the oil and the hides that can be salvaged from the birds. In any event, to be profitable the emu business needs a specialized abattoir which requires between $5 and $25 million in outside financing which is beyond his reach, as stated earlier. Even with an abattoir, there was no evidence upon which it can be concluded that the emu business would be profitable. A report by the Federal Department of Agriculture in 1999 portrays a difficult future for the emu industry in Canada.
+[22] The Appellant relies, almost entirely, on the decision of the Federal Court of Appeal in Gunn, where Sharlow J. stated:
+85 The Judge's answer to the principal question is based on the Moldowan principles for determining a taxpayer's chief source of income, combined with the comment from Morrissey v. R. to the effect that if it is unlikely that the taxpayer's farming operations will ever be profitable, notwithstanding all the time and capital the taxpayer is willing and able to devote to farming, the conclusion must be that farming is not a chief source of the taxpayer's income.
+86 In my view, Morrissey is not an apt precedent for the case of Mr. Gunn. The statement in Morrissey referred to above was made in the context of a case in which the taxpayer's own evidence indicated that he doubted the future profitability of his farm. Mr. Gunn 's evidence was that he anticipated that his farm had a potential for profit. The Crown adduced no evidence to the contrary, and in fact admitted the potential for future profit. I can find in the record no evidentiary support for the Judge's conclusion that Mr. Gunn 's farming operations showed no potential for profit. That is a sufficient basis for setting aside the Tax Court judgment. However, there is also a second reason.
+The present appeals come within the exceptions in Gunn. Had the years under appeal been 2006 and 2007, I would have concluded that there was no potential for profit. The focus must be directed to the evidence as it existed in the years 1999 and 2000.
+[23] The Appellant also relied on the Federal Court of Appeal decision of Kroeker v. Canada.[5] Similar to this case, Ms. Kroeker contributed capital, time and labour to her farming activities. In allowing the taxpayers’ appeal, the Court found that the Appellant’s farm showed profitability. The Court made the following comment:
+23 Whatever credibility is attached to the appellant's testimony, the undisputed facts in this case speak for themselves. The appellant's capital, time and labour were "focused" on the farm. The potential profitability of her farm was such that in 1998, the farm ended up with a profit. Farming was a family enterprise. Little distinguishes this case from Graham v. R., [1985] 2 F.C. 107 (Fed. C.A.).
+[24] Moldowan appears to require that farming be the taxpayer’s predominate activity and the other source of income shall only be subordinate. In accordance with this interpretation, one cannot determine whether a person’s chief source of income is a combination of farming and some other source of income simply by referring to statements of profit or loss. The test is both relative and objective and the Court may employ the criteria indicative of “chief source” to distinguish whether or not the other source of income is subordinate to farming. Thus, the criterion already examined in these appeals, namely time spent, capital committed and profitability must be considered. As I mentioned, the capital committed and the time and effort spent point in the Appellant’s favor. Although farming did not provide the bulk of the Appellant’s net income, his primary profession was no less a farmer than a dentist.
+[25] In Gunn, Justice Sharlow formulated a more generous interpretation of the combination question than the Supreme Court of Canada did in Moldowan, suggesting that farming does not need to be the predominate source of income. The Federal Court of Appeal concluded that the farming business had a potential for profit, as did Dr. Loyens’ farming business, during the years 1999 and 2000. Like Mr. Gunn, Dr. Loyens had made significant investments and improvements to his farm and during the relevant years, it had the potential to be profitable. Profitability was dependent on his obtaining a specialized abattoir which appeared possible in 1999 and 2000. In hindsight, the farm was unprofitable due to factors that were not evident in 1999 and 2000. For example, it was not unrealistic for the Appellant to conclude that the market for emu and Arabian horses would improve and that he would receive necessary capital to finance the purchase or construction of a suitable abattoir.[6] At some point after 2000, a reasonable person would say “enough is enough” and put an end to the bleeding and large tax loss deductions. I do not believe that the situation existed in 1999 and 2000, although it probably does now.
+[26] There is no doubt that the Appellant was very involved in farming as a business, and given the time, effort and money, it was a serious business and no more a hobby than his dental practice. He believed he had a reasonable expectation of profit from emu farming, and the Respondent accepts this. In 1999 and 2000, this belief was reasonable when he had 4,000 emus, and a realistic anticipation of receiving at least $1,000 from each bird. This would have covered his losses and, no doubt, the Minister would have quickly shared in the profits. Further, had the Appellant received the anticipated financing, he would have been in a position to cover losses. It is difficult to imagine what more the Appellant could have done to make his farm profitable. He integrated his time and money between his dental practice and the farm. He is obviously a very able person to have such a successful dental clinic. Unfortunately, he was not able to duplicate this success with his farm.
+[27] For the taxation years in issue, I accept that his income was derived from a combination of farming and another source. The Appellant’s profitable dental business was supporting his unprofitable farming business. In Gunn, Sharlow J. accepted that it is not a precondition that the two sources be connected to answer the combination question. In Kroecker, the Appellant’s husband worked fulltime on their farm, and she worked fulltime for a farm equipment manufacturer and part-time on their farm. All of her off-farm earnings went into the farming partnership. Unlike the present case, the farm began to make a profit three years after the period under appeal. The Federal Court of Appeal concluded that farming was the focus of her life and was not a hobby, and was a commercial source of income. Without doubt, Dr. Loyens’ farming was not a hobby, and during 1999 and 2000, it could easily be concluded that it was a commercial source of income.
+[28] For the above reasons, the appeals are allowed, with costs, on the basis that section 31 of the Act did not apply to the Appellant in the years in issue.
+Signed at Ottawa, Canada, this 29th day of August 2008.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2008 TCC 486
+COURT FILE NO.: 2004-3590(IT)G
+STYLE OF CAUSE: WILLIAM LOYENS and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: April 16 and 17, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: August 29, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Paul Downs
+Counsel for the Respondent:
+George Boyd Aitken
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Paul Downs
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] He only received 68 chicks. It is not clear whether he paid for 100 or 68.
+[2] [2006] 5 C.T.C. 191.
+[3] [1978] 1 S.C.R. 480.
+[4] [2002] 2 S.C.R. 645.
+[5] [2002] F.C.J. No. 1436.
+[6] The Appellant had letters of approval and encouragement from Eugene Whelan, the Federal Minister of Agriculture at that time. Exhibit A-3 also contains many letters and documents which give support to the Appellant’s optimistic view of the emu business.

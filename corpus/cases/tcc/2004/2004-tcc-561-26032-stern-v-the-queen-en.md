@@ -1,0 +1,203 @@
+---
+title: "Stern v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26032/index.do"
+last_modified: "2004-09-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 561"
+citation2: ""
+neutral_citation: "2004 TCC 561"
+decision_date: "2004-09-03"
+language: "en"
+item_id: "26032"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4092
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:04:36.574000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8939d34e37cc3b039beb04a3e48d6f1ec3407de2094faa5a43f723b73b3b130e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stern v. The Queen
+
+- Citation: 2004 TCC 561
+- Decision date: 2004-09-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4092, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stern v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-03
+Neutral citation
+2004 TCC 561
+File numbers
+2000-4650(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-4650(IT)G
+BETWEEN:
+ARTHUR STERN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 24 and 25, 2004 at Toronto, Ontario
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+David S. Zeldin
+Counsel for the Respondent:
+Suzanne M. Bruce
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1997 taxation year is dismissed with costs.
+Signed at Ottawa, Canada, this 3rd day of September 2004.
+"B. Paris"
+Paris, J.
+Citation: 2004TCC561
+Date: 20040903
+Docket: 2000-4650(IT)G
+BETWEEN:
+ARTHUR STERN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] The appellant was one of several investors in a car wash operation in downtown Toronto that was started in 1988. In the course of this investment the appellant lost a significant amount of money. The appellant claimed a business investment loss of $226,547.89 and an allowable business investment loss ("ABIL") of $169,910.92 in his 1997 taxation year in respect of his losses on the basis that the amounts he invested in the car wash business was the cost to him of shares in High-Tech Car Wash Ltd. or alternatively was a loan to that company, and that the ultimate insolvency of High-Tech caused the value of the shares or loans to be nil.
+[2] In assessing the appellant, the Minister of National Revenue (the "Minister") disallowed the ABIL claim, and the appellant appeals from that assessement.
+[3] The issues in this appeal are:
+1. Whether the appellant was ever a shareholder in High-Tech; and if so, the cost of those shares to him, and whether the value of the shares was nil at the end of 1997; and, alternatively,
+2. Whether the appellant's investment in the car wash business constituted a loan to High-Tech, and if so the amount of the loan; and whether the loan was made for the purpose of gaining or producing income from a business or property.
+Facts
+[4] Four witnesses testified on behalf of the appellant: Kevin O'Neill, Aaron Kwinter, Brian Searles and the appellant himself.
+[5] Evidence concerning the initial phase of the car wash development was given by Mr. O'Neill, who was also an investor in the venture, and who was involved with the construction and operation of the car wash. In early 1988 he was operating an automobile repair business at 175 Ossington Avenuein Toronto in premises he rented from Mike Da Silva. Mr. Da Silva approached Mr. O'Neill at that time with the idea of getting a group of investors together to purchase a neighbouring property at 159 Ossington Avenue to develop as a car wash.
+[6] Mr. O'Neill said that Mr. Da Silva "looked after the business end of the transaction" and that he believed that Mr. Da Silva approached Max Stern, (the appellant's father) to raise funds for the purchase. Max Stern arranged for several other investors to participate in the venture. These investors and their respective interests were[1]:
+Mike Da Silva 40%
+Kevin O'Neill 20%
+Harvey Nash 5%
+Arthur Stern (the appellant) 10%
+Dawill Investments Ltd. 5%
+Max Stern Investments Ltd. 15%
+C. Grosberg 5%
+[7] An offer to purchase the property for $1.5 million was made in June 1988, showing Mr. O'Neill as the purchaser, "in trust". The offer was accepted on July 5, 1988, and the purchase was completed December 29, 1988. Title to the property was taken in Mr. O'Neill's name, in trust, and the mortgages on the property were in his name as well.
+[8] The investors originally intended to obtain a first mortgage from the CIBC but this financing was not in place by the closing date, and the vendors provided a first mortgage in addition to the second mortgage of $400,000 that they had agreed to take back. In March 1989 the vendors' first mortgage was replaced by a first mortgage to the CIBC supported by a promissory note guaranteed by each of the investors.
+[9] No written trust agreement relating to the property was drawn up by the investors. However, a direction dated March 6, 1989[2] relating to the CIBC mortgage identified the investors as being the beneficiaries of the trust relating to 159 Ossington. This document was signed by all of the investors.
+[10] Mr. O'Neill said that the investors intended to form a company to own and operate the car wash. He said that he held the property in trust for that company "once that company was set up" rather than for the individual investors. A company, High-Tech Car Wash Ltd. was incorporated on June 23, 1989 but legal title to the property was never transferred to it.
+[11] Mr. O'Neill supervised the construction of the car wash. He received funds from the investors and recorded these amounts in a ledger, which he produced for the Court[3]. Those records showed that he received a total of $164,750 from the appellant during the construction phase.
+[12] Mr. O'Neill said that the investors had planned to build a three storey building on the property but due to problems with soil conditions, ended up only able to build a one storey car wash. The car wash opened in December 1991, a year behind schedule. Construction and financing costs were higher than forecast due to these unanticipated problems. Apparently the car wash was operated by High-Tech, with Mr. O'Neill taking an active role in managing it. Initially, the car wash was busy, but the volume of cars dropped off and it soon began losing money. By the spring of 1993 there was insufficient revenue to cover the mortgage payments to the CIBC, and in the fall the bank began legal action against all of the investors to collect the amounts owing. Mr. O'Neill said that he was president of High-Tech up to 1994 but that he resigned in 1994 after a disagreement with Mike Da Silva. He had only a limited involvement in the car wash after that point.
+[13] At some point in 1994 the property was refinanced, and the CIBC mortgage was paid out. The property was still registered in the name of Kevin O'Neill in trust. The car wash continued to operate, and was kept open by infusions of funds by Mike Da Silva. In 1997 the premises were rented out, and in 2001 the property was sold under a power of sale by the mortgage holder. None of the investors received any of the sale proceeds.
+[14] Aron Kwinter testified that he acted as the investors' lawyer on the purchase of the property. His primary contacts with the group were Kevin O'Neill and Mike Da Silva. Mr. Kwinter produced copies of cancelled cheques totalling $41,855 that he had received from the appellant as his share of the funds used to purchase the property. He said that it was possible that the appellant had made additional payments for the purchase but no record of further payments could be found.
+[15] Mr. Kwinter said that the property was transferred to Mr. O'Neill in trust for the investors for the sake of keeping the transaction simple. It was his recollection that the investors intended to set up a company in which they would all be shareholders. The company was to hold the land, construct the car wash and operate it. He said that it was not possible to set up the company prior to completing the purchase of the property, but that he was instructed to do so afterwards.
+[16] High-Tech was incorporated in June 1989. The documents showed that the sole shareholder of the company was Manuel Da Silva, whom Mr. Kwinter identified as Mike Da Silva's father. He had no recollection of why Manuel Da Silva was made a shareholder.
+[17] Mr. Kwinter knew that there was further work to be done to organize the company's affairs after its incorporation, but said that it was very difficult to get the group of investors together to discuss what arrangements should be made. Over the next few years he said he tried to get the investors together to tie up loose ends. He recalled meeting with the investors and sending out letters to them, and finally, in January 1994 preparing a draft shareholders' agreement. However, the investors did not execute the agreement and in Mr. Kwinter's view, organizing the company was not a priority for them. By 1994, the venture was in financial difficulties and he guessed that the investors did not want to spend money on legal fees. He tried again to get a shareholders' agreement signed in November 1994 but was unsuccessful.
+[18] Mr. Kwinter was unaware of whether the investors had ever been issued shares in High-Tech, but said that he had never been involved in the issuance of High-Tech shares to them. He also could not say if he had ever seen any document indicating that High-Tech had become the beneficial owner of the property.
+[19] Brian Searles, the accountant for High-Tech from about 1990 to 1998, said that he had prepared annual financial statements for the company, although only one statement, for the year ending February 28, 1994 and prepared on July 28, 1994, was produced in Court. He referred to a note in it stating that:
+"The registered owner of the Land...and the Mortgagee of the 1st Mortgage ... are both Kevin O'Neill, in Trust. Mr. O'Neill is holding both in trust for Hi-Tech Car Wash Ltd. and therefore they are included in the accounts of the company."[4]
+[20] Although Mr. Searles said that he had seen documents showing that the property was being held in trust for High-Tech, he admitted under cross-examination that he could not say for certain that he had. The note in High-Tech's financial statement was based on what he understood to be the intention of the investors to have the property held in trust for the company.
+[21] The financial statement also made several references to the investors as "shareholders" and showed the amounts invested by them as "shareholder loans" totalling $2,309,419[5]. Mr. Searles admitted, however, that he knew that the investors had never been issued shares in the company.
+[22] The appellant gave evidence that his father approached him in 1988 to invest in a property that was to be developed into a car wash. The car wash was to be operated by a company of which he was to be a shareholder. The appellant was offered a 10% interest in this venture. He recalled, from meetings of investors that he attended, that the property was being purchased in the name of Kevin O'Neill who was to hold it in trust for the shareholders of a corporation that would be set up at a later date. It was done this way for the sake of convenience.
+[23] He said that the investors always intended that a corporation would own the property and operate the car wash, and that High-Tech was set up for that purpose. He recalled attending various meetings of the investors at which Mr. Kwinter was present, where Mr. Kwinter tried to get the documentation for the venture in order. Mr. Kwinter was unable to act for all the investors and told them they needed to get independent legal advice. The documentation however was never finalized. In the end, the appellant said that he never received shares in High-Tech.
+Analysis
+Statutory provisions
+[24] The provisions of the Income Tax Act relevant to this appeal read as follows:
+38. For the purposes of this Act,
+...
+(c) a taxpayer's allowable business investment loss for a taxation year from the disposition of any property is 3/4 of the taxpayer's business investment loss for the year from the disposition of that property.
+...
+39(1) For the purposes of this Act,
+...
+(c) a taxpayer's business investment loss for a taxation year from the disposition of any property is the amount, if any, by which the taxpayer's capital loss for the year from a disposition after 1977
+...
+of any property that is
+(iii) a share of the capital stock of a small business corporation, or
+(iv) a debt owing to the taxpayer by a Canadian-controlled private corporation (other than, where the taxpayer is a corporation, a debt owing to it by a corporation with which it does not deal at arm's length) that is
+(A) a small business corporation,
+...
+[25] In order to succeed in this appeal, the appellant must show either that he owned shares in High-Tech or that High-Tech was indebted to him. In the former case he must also show the cost of those shares. If he is found to have a debt owing to him by High-Tech he must show the amount of the debt and that the debt was acquired for the purpose of gaining or producing income. Counsel for the Respondent conceded that if the appellant is found to have purchased shares in, or loaned money to, High-Tech, those shares would no longer have had any value or the loans would have become uncollectable by the end of 1997.
+Amount of appellant's contributions
+[26] Mr. O'Neill's evidence that he received $164,750 from the appellant during the construction phase of the car wash venture was not challenged by the Respondent and I have no reason to doubt it. The evidence of the amount of the appellant's contribution to the purchase of the property is not as clear. Although Mr. Searles testified that he saw records showing that the appellant had paid $63,797 to Mr. Kwinter towards the purchase, he did not have those documents at the hearing. Only the amount of $41,855 has been corroborated as having been paid to Mr. Kwinter. The appellant himself could not recollect how much he had paid and had no records or documents to support a larger amount than what was shown by the cancelled cheques that were produced. On the basis of this evidence I find that the appellant made a total investment of $206,605 in the car wash venture.
+Was the appellant a shareholder?
+[27] In my view it is clear that the appellant never became a shareholder in High-Tech. He admitted as much himself. It appears that the investors initially intended that the property be transferred to a company in exchange for shares in that company but that this step in the organization of the venture was never carried out.
+[28] It appears though that the organization of the company and the legal arrangements regarding the holding of the property were a low priority for the group. No company was set up prior to the purchase of the property, despite the fact that the investors had almost six months from the time their offer was accepted until closing, and no shares were ever issued to the investors after the incorporation of High-Tech.
+[29] Counsel for the appellant argued that it was open to me to find that even though the appellant had never been issued shares in High-Tech, that he had an equitable right to be issued shares because he had made a significant financial contribution to the company on the understanding that he would receive shares. He said that the draft shareholders' agreement prepared by Mr. Kwinter in early 1994 was evidence of the appellant's entitlement to shares in High-Tech. That document showed that the appellant held 10% of the shares of High-Tech. Counsel said that the appellant was entitled under the Ontario Business Corporations Act[6] ("OBCA) to an order granting him 10 per cent of the shares of High-Tech. According to section 248 of the OBCA a beneficial owner of security of a corporation can bring an action in the Superior Court of Justice for an order directing rectification of the registers of a corporation and that such an order may be granted if the Court is satisfied that an act or omission of the corporation effects or threatens to effect a result that is oppressive of unfairly prejudicial to the interest of any security holder, creditor, director or officer of the corporation.
+[30] It is not within the jurisdiction of this Court to decide whether the appellant would be entitled to such an order under the OBCA and there was no evidence that he had ever applied for or been granted such an order by an Ontario court. I can only deal with the facts of the appellant's situation as they were at the time of the hearing before me. In another case before this Court where an appellant argued that he would be entitled to a rectification order from another court, Bowman, A.C.J. said:
+... This court's function is to decide whether an assessment is right on the facts before it, not whether it might be changed as the result of a subsequent event such as a rectification order. If, every time a particular transaction had unexpected or unwanted tax consequences and the Minister assessed accordingly, this court on an appeal were to defer making a decision and grant a sort of stay of execution while the taxpayer sought a rectification order to reverse the adverse effects of the earlier transaction a goodly number of our cases would be hoist into judicial never-never land pending the disposition of the application by the provincial court. Acting as a form of judicial limbo is not part of this court's mandate.[7]
+[31] I am also unconvinced that the appellant had any beneficial ownership of shares in High-Tech. Three criteria must be met in order to establish a valid trust. These are: certainty of intention, certainty of subject matter and certainty of objects. It must be clear that the settlor of a trust intended that the property transferred to the trustee be held in trust as a binding obligation. The property that is the subject of the trust and the beneficiaries of the trust must be identifiable, and the interests of the beneficiaries in the trust property must be defined.
+[32] According to the documents entered at the hearing, only one share in High-Tech was ever issued. There was no evidence led regarding the circumstances under which the share was issued to Manuel Da Silva and no evidence that he was holding it in trust for anyone else. Even if I were to accept that Kevin O'Neill was holding the car wash property in trust for High-Tech this is not sufficient in itself to create a trust with respect to the High-Tech share held by Manuel Da Silva in favour of the appellant and the other investors. I am not satisfied that a trust regarding the shares in High-Tech has been shown to exist.
+Did the appellant loan money to High-Tech?
+[33] The appellant's counsel argued in the alternative that the amounts the appellant paid towards the purchase of the property and for the construction of the car wash were loans to High-Tech. He asserted that those amounts were in effect advances to High-Tech, and that the appellant is therefore entitled to an ABIL for the losses he suffered when High-Tech became insolvent. He relied on the 1994 financial statement for High-Tech which listed "shareholder loans" outstanding, and Mr. Searles' evidence that these loans were the investor contributions to the purchase of the property and construction of the car wash.
+[34] However, the appellant's own evidence contradicts the representations made by Mr. Searles on the 1994 financial statement that the investors had made loans to High-Tech. The appellant stated on a number of occasions that he understood from his father (who arranged the financing and assembled the group of investors) that he was to receive a 10% interest in the company that would own and operate the car wash. There was no mention made of being a creditor of that company and there was no evidence that the appellant or other investors intended that the amounts they advanced for the car wash venture would be loans to the company. As I stated earlier, the investors appear to have intended to receive shares in the company in exchange for transferring the property to it but this never occurred.
+[35] I find that the presentation of the amounts contributed to the venture by the investors as shareholder loans was inaccurate; the investors never became shareholders and the amounts they invested were not loaned to the company
+[36] Even if I had accepted that the appellant's contributions to the venture were loans to High-Tech, he would still not be entitled to an ABIL because he has not shown that the loans were made for the purpose of gaining or producing income. Without an income earning purpose, the appellant's loss on the disposition of the alleged debt would be deemed to be nil by subparagraph 40(2)(g)(ii) of the Income Tax Act.
+[37] There is no evidence that would permit me to conclude that there was any means by which income from High-Tech could flow to the appellant; no interest was payable on the appellant's contributions, nor could he expect a return in the form of dividends since he was never a shareholder in High-Tech. If the appellant's contributions had resulted in a debt owing to him by High-Tech, the loss on that loan would therefore be deemed to be nil.
+Summary
+[38] While the appellant suffered large losses on his investment in the car wash venture, the manner in which his participation in that car wash venture was structured does not entitle him to a business investment loss or an ABIL. Although he may have intended to receive shares in High-Tech in return for his investment, that intention was never realized. I have no jurisdiction to grant him the relief sought on the basis of that intention alone. As Linden, J.A. said in Her Majesty the Queen v. A.D. Friedberg[8]:
+In tax law, form matters. A mere subjective intention, here as elsewhere in the tax field, is not by itself sufficient to alter the characterization of a transaction for tax purposes. If a taxpayer arranges his affairs in certain formal ways, enormous tax advantages can be obtained, even though the main reason for these arrangements may be to save tax (see The Queen v. Irving Oil, 91 DTC 5106, per Mahoney, J.A.). If a taxpayer fails to take the correct formal steps, however, tax may have to be paid. ...
+The appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 3rd day of September 2004.
+Paris, J.
+CITATION:
+2004TCC461
+COURT FILE NO.:
+2000-4650(IT)G
+STYLE OF CAUSE:
+Arthur Stern and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 24 and 25, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+September 3, 2004
+APPEARANCES:
+Counsel for the Appellant:
+David S. Zeldin
+Counsel for the Respondent:
+Suzanne M. Bruce
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David S. Zeldin
+Firm:
+Toronto, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Two of the original investors, J. Rapoport Investments Ltd. and Casey Tepperman were bought out within a short period by Mike Da Silva. The evidence did not disclose what their interests had been.
+[2] Ex A-1 Tab 18
+[3] Ex A-1 Tab 19
+[4] Ex A-1 Tab 3 Note 1
+[5] Ex A-1 Tab 3 Note 5
+[6] R.S.O 1990, c. B-16
+[7] Kovarik v. Canada, [2001] T.C.J. No. 181 at paragraph 22
+[8] 92 DTC 6031 (F.C.A.) at p. 6032

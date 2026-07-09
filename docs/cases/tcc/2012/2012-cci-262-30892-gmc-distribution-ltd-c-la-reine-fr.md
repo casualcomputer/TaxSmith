@@ -1,0 +1,186 @@
+---
+title: "GMC Distribution Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30892/index.do"
+last_modified: "2012-07-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 262"
+citation2: ""
+neutral_citation: "2012 CCI 262"
+decision_date: "2012-07-23"
+language: "fr"
+item_id: "30892"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7451
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:29:29.685000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "88db90f61c8c4349f8bc6598f4a961574ce061170832644222478f51e38791c7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# GMC Distribution Ltd. c. La Reine
+
+- Citation: 2012 CCI 262
+- Decision date: 2012-07-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7451, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+GMC Distribution Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-07-23
+Référence neutre
+2012 CCI 262
+Numéro de dossier
+2004-3115(GST)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-3115(GST)G
+ENTRE :
+GMC DISTRIBUTION LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requêtes instruites le 19 juin 2012, à Toronto (Ontario)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelante :
+M. Brian Cherniak
+Avocats de l’intimée :
+Me Craig Maw et Me Roxanne Wong
+____________________________________________________________________
+ORDONNANCE
+La requête présentée à la Cour pour qu’elle autorise Brian Cherniak à représenter l’appelante est rejetée avec dépens.
+La requête de l’intimée en rejet de l’appel de l’appelante est accueillie et l’appel de l’appelante est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 23e jour de juillet 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 23e jour de novembre 2012.
+Mario Lagacé, jurilinguiste
+Référence : 2012CCI262
+Date : 20120723
+Dossier : 2004-3115(GST)G
+ENTRE :
+GMC DISTRIBUTION LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Webb
+[1] Il est question de deux requêtes ici. La première est une requête présentée à la Cour pour qu’elle autorise Brian Cherniak (qui n’est pas avocat) à représenter l’appelante dans le présent appel. La deuxième est une requête de l’intimée en rejet de l’appel de l’appelante.
+[2] L’appelante a été constituée en société le 18 avril 1994 en vertu de la Loi sur les sociétés par actions de l’Ontario (la « LSAO »). Brian Cherniak a déclaré être un actionnaire, un dirigeant et un administrateur de l’appelante. Il a aussi dit qu’il était membre en règle de la Société des comptables en management de l’Ontario. Cependant, alors même qu’il est comptable, l’appelante a omis de produire ses déclarations de revenus. Elle a donc été dissoute conformément aux dispositions du paragraphe 241(4) de la LSAO le 19 novembre 2007. L’appelante a déposé son avis d’appel le 1er juin 2004.
+[3] La première question à trancher est de savoir si l’appelante, en tant que société dissoute, peut demander à la Cour d’autoriser Brian Cherniak à la représenter dans le présent appel. L’argument de Brian Cherniak était que, dans la décision Amber Technology Ltd. c. La Reine, 2006-313(IT)G, la Cour a rendu une ordonnance qui l’autorisait à représenter Amber Technology Ltd., et Amber Technology Ltd. avait elle aussi été dissoute avant la présentation de la requête dans cette affaire-là. Cependant, il n’a pas été précisé durant l’instruction de la requête dans ladite affaire qu'Amber Technology Ltd. avait été dissoute. L’échange suivant a eu lieu durant l’instruction de la requête dans cette affaire :
+[traduction]
+LE TÉMOIN : J’étais l’unique administrateur et actionnaire et le président de la société. J’étais responsable des systèmes financiers et de toutes les opérations de la société, tout au long de cette période.
+LE JUGE WEBB : L’unique administrateur, l’unique actionnaire et le président et l’unique dirigeant?
+LE TÉMOIN : Oui.
+LE JUGE WEBB : Vous utilisez maintenant le passé; y a-t-il une raison pour laquelle vous avez utilisé le passé?
+M. CHERNIAK : Non … eh bien, la société a cessé d’exercer ses activités.
+LE JUGE WEBB : Mais la société existe encore en tant que personne morale?
+M. CHERNIAK : Elle existe encore.
+LE JUGE WEBB : Je suppose alors que vous êtes encore l’unique dirigeant, actionnaire et administrateur?
+M. CHERNIAK : Oui.
+[4] Brian Cherniak ne peut invoquer l’ordonnance rendue dans Amber Technology Ltd. comme précédent dans la présente affaire alors qu’il n’avait pas révélé que Amber Technology Ltd. avait été dissoute et qu’il avait confirmé qu’elle existait encore comme personne morale.
+[5] Le paragraphe 242(1) de la LSAO dispose ainsi :
+242(1) Malgré la dissolution d’une société aux termes de la présente loi :
+a) les actions ou instances de nature civile, pénale ou administrative introduites par la société ou contre elle avant sa dissolution peuvent être poursuivies comme si la dissolution n’avait pas eu lieu;
+b) des actions ou instances de nature civile, pénale ou administrative peuvent être introduites contre la société comme si la dissolution n’avait pas eu lieu;
+c) les biens qui auraient servi à satisfaire à un jugement, à une ordonnance ou à un ordre, si la société n’avait pas été dissoute, restent disponibles à cette fin;
+d) le titre d’un bien-fonds qui appartenait à la société immédiatement avant sa dissolution peut être vendu par suite d’une instance visant l’exercice d’un pouvoir de vente.
+[6] Dans la décision Reliable Life Insurance v. Ingle, [2009] O.J. No. 2312, la question était de savoir si on devait autoriser une personne à représenter deux sociétés qui avaient été dissoutes. Les sociétés étaient elles aussi régies par la LSAO. Dans cette affaire, la protonotaire J. Haberman a fait les observations suivantes :
+[TRADUCTION]
+[…]
+2 Compte tenu que les deux sociétés ont toutes deux été dissoutes et que ni l’une ni l’autre n’ont été reconstituées, la requête semble soulever des questions inédites. Les avocats ont invoqué la jurisprudence qu’ils ont pu trouver, mais ni l’un ni l’autre ne semblent avoir déterré un précédent portant sur la question de savoir si une société défenderesse dissoute, qui n’a pas été reconstituée, a le droit d’opposer une pleine défense dans une action civile et, dans l’affirmative, de quelle façon.
+3 Pour les motifs ci-après, je suis d’avis que, à moins que les sociétés concernées ne fassent le nécessaire pour être reconstituées, elles sont des entités n’ayant pas d’existence juridique et n’ont aucun droit quel qu’il soit dans le présent litige. […]
+[…]
+33 […] M. Ingle fait valoir que les deux sociétés ont le droit de se défendre dans toute action intentée contre elles, en y participant pleinement. Il dit que c’est là un principe fondamental de justice. M. Ingle veut donc être autorisé à les représenter pour qu’elles puissent intervenir à toutes les étapes préalables nécessaires antérieures au procès, puis dans le procès lui-même. Il n’est pas en mesure de dire qui lui donnerait des instructions étant donné que les sociétés ont été dissoutes, ni qui honorerait une ordonnance d’adjudication de dépens à l’issue du procès si une telle ordonnance est rendue.
+[…]
+38 La jurisprudence restreinte qui traite de cette question indirectement précise que, tant que la société reste dissoute, c’est une entité qui n’a pas d’existence juridique et qui ne peut pas agir. Ainsi, dans la décision Wolf Offshore Transport Ltd. v. Sulzer Canada Inc. [1992] N.J. No. 82, la cour, saisie d’une action introduite par une société dissoute plus tard reconstituée, a écrit ce qui suit :
+[TRADUCTION]
+Cela veut dire que, si cette société avait conclu un contrat quelconque ou intenté des poursuites ou si elle avait été défenderesse dans une action antérieurement à sa dissolution, elle pourrait, dès sa reconstitution, poursuivre ses activités y afférentes. Cela n’habilite toutefois pas la société à valider les initiatives qui ont pu être prises pendant qu’elle était dissoute. La société ne pouvait conclure de contrat lorsqu’elle était dissoute, ni entreprendre une action en justice. Une société dissoute est assimilable à un défunt. Elle n’a la capacité de rien faire. Elle n’est rien. On ne saurait guère dire d’une personne inexistante qu’elle fait quoi que ce soit. Si elle avait un droit d’action avant sa dissolution, la société jouirait, une fois reconstituée, de ce même droit, sous réserve de la prescription.
+39 Un point de vue similaire a été exprimé par la juge Chapnick dans la décision Swale Investments Ltd. v. National Bank of Greece (Canada), [1997] O.J. No. 4997, où une société dissoute qui n’avait jamais été reconstituée avait déposé une demande introductive d’instance :
+[TRADUCTION]
+À mon avis, la société demanderesse ayant été dissoute et n’ayant pas été reconstituée, elle n’a aucune existence juridique. Le paragraphe 241(5) dispose simplement que la société, une fois reconstituée, a tous les droits et les privilèges et toutes les responsabilités qu’elle aurait eus si elle n’avait pas été dissoute. Cela ne signifie pas que, une fois reconstituée, sa position juridique est rétablie rétroactivement.
+Swale a cessé d’exister le 3 novembre 1993, date de sa dissolution. Lorsque la demande introductive d’instance a été déposée le 3 septembre 1991, elle n’était pas à première vue habilitée à ester en justice. En conséquence, l’action introduite à cette date était nulle et sans effet.
+[…]
+44 Je suis d’avis que, bien qu’une société dissoute puisse être poursuivie comme « si elle n’avait jamais été dissoute », elle n’est pas habilitée à se défendre tant qu’elle n’est pas reconstituée. Si l’actionnaire est préoccupé par le risque qu’il court personnellement et par la question de savoir s’il sera en mesure de se défendre en lieu et place de la société quand il sera poursuivi, il lui appartient alors de prendre des mesures pour reconstituer les sociétés afin de protéger ses intérêts personnels. S’il est d’avis que les intérêts en question sont mineurs et ne méritent pas d’être protégés, il doit alors en accepter les conséquences.
+(C’est la protonotaire J. Haberman qui souligne.)
+[7] Par conséquent, même si l’action intentée contre les sociétés suivait son cours malgré la dissolution des sociétés, ces sociétés ne pourraient prendre aucune mesure jusqu’à leur reconstitution en vertu de la LSAO. Tel serait le cas notamment d’une requête qu’elles présenteraient à la Cour pour qu’un particulier soit autorisé à les représenter.
+[8] Dans la décision Cotton Inc. v. 1397945 Ontario Ltd., 2010 ONSC 6548, le juge Ramsay, de la Cour supérieure de justice de l’Ontario, a écrit ce qui suit :
+[TRADUCTION]
+6 Depuis lors, les inscriptions d’Inter-fund Mortgage Corp., de Guardian Inter-funding Inc. et de Niagara Home Builders Inc. en tant que sociétés ont été annulées. Ces sociétés sont donc des entités n’ayant pas d’existence juridique et ne peuvent pas ester en justice : Reliable Life Insurance v. Ingle et al., [2009] O.J. No. 2312, 2009 CanLII 28225 (Cour supérieure de l’Ontario, la protonotaire Haberman). Elles peuvent toutefois être poursuivies en vertu de l’article 242 de la Loi sur les sociétés par actions. En conséquence, un jugement par défaut a été rendu contre Inter-fund et contre Guardian. Les demanderesses ont droit à un jugement par défaut contre Niagara Home Builders Inc.
+[9] Ainsi, même si le paragraphe 242(1) de la LSAO dispose que l’appel interjeté par l’appelante en vertu de la Loi de l’impôt sur le revenu suivra son cours malgré la dissolution de l’appelante, tant qu’elle n’aura pas été reconstituée en vertu de la LSAO, l’appelante ne peut prendre aucune mesure se rapportant au présent appel, pas même déposer une requête en vue d’être représentée par un particulier. Puisque l’appelante n’a pas été reconstituée en vertu de la LSAO, la requête présentée à la Cour pour qu’elle autorise Brian Cherniak à représenter l’appelante est rejetée avec dépens.
+[10] L’intimée a elle aussi déposé une requête en rejet de l’appel de l’appelante. L’appel avait été rejeté par le juge C. Miller par une ordonnance datée du 12 avril 2006. Cette ordonnance a été rendue après que l’appelante eut omis de comparaître à une audience sur l’état de l’instance le 7 mars 2006, et avoir également omis de prendre des dispositions, dans les 30 jours suivant la date de l’audience sur l’état de l’instance, pour engager un avocat ou demander l’autorisation de se faire représenter par un particulier.
+[11] Le 27 avril 2009, une requête a été instruite en vue de faire annuler le jugement du juge C. Miller. Cette requête a été accueillie par une ordonnance de la juge Woods en date du 27 mai 2009. L’ordonnance prévoyait aussi que l’intimée avait droit aux dépens de la requête, qui devaient être payés sur-le-champ par l’appelante (la requérante dans ladite requête). L’avocat de l’intimée s’est adressé dans une lettre datée du 23 juin 2009 à Donald Fiske, du cabinet Pace Law. Donald Fiske représentait alors l’appelante. L’avocat de l’intimée a joint à sa lettre le mémoire de dépens de l’intimée. Le montant réclamé au titre des dépens, sans taxation, se chiffrait à 1 011,86 $.
+[12] Un peu avant le 8 novembre 2010, l’appelante n’était plus représentée par un avocat. Le 8 novembre 2010, l’avocat de l’intimée a écrit à Brian Cherniak pour lui signifier que, selon l’intimée, l’appelante devait être représentée par un avocat. Dans sa lettre, l’avocat de l’intimée faisait également état d’une lettre qui avait été envoyée par la Cour le 11 novembre 2005 pour informer Brian Cherniak des exigences du paragraphe 30(2) des Règles de la Cour canadienne de l’impôt (procédure générale). Dans la même lettre, l’avocat de l’intimée a aussi mentionné que les dépens accordés par la juge Woods n’avaient pas été payés.
+[13] Le 12 juillet 2011, l’avocat de l’intimée a écrit à Jacqueline King, du cabinet Shibley Righton LLP. Jacqueline King représentait alors l’appelante. L’avocat de l’intimée précisait dans sa lettre que les dépens accordés par la juge Woods n’avaient pas encore été payés. Le 16 novembre 2011, l’avocat de l’intimée a de nouveau écrit à Jacqueline King pour lui rappeler que les dépens n’avaient pas été payés.
+[14] Une audience sur l’état de l’instance devant être entendue par conférence téléphonique a été fixée le 24 janvier 2012. L’appelante n’y a pas participé. Dans l’ordonnance datée du 26 janvier 2012, il était écrit que l’intimée pouvait présenter une requête en rejet de l’appel de l’appelante. L’appelante et Brian Cherniak devaient également payer chacun des dépens de 300 $ dans les 30 jours suivant le 26 janvier 2012. La raison pour laquelle Brian Cherniak n’a pas participé à la conférence téléphonique du 26 janvier 2012 est qu’il avait eu un accident de voiture au début de janvier et qu’il avait été à l’hôpital quatre ou cinq jours en raison d’une fracture de la jambe et d’une épaule disloquée.
+[15] Une autre audience sur l’état de l’audience a eu lieu par conférence téléphonique le 13 mars 2012. Brian Cherniak y a participé. Après cette audience, une ordonnance a été rendue le 14 mars 2012 :
+[TRADUCTION]
+LA COUR ORDONNE :
+1. que les appelants déposent et signifient une liste de documents (communication partielle) en application de l’article 81 des Règles de la Cour canadienne de l’impôt (procédure générale) au plus tard le 27 mars 2012, à 17 heures, et que les appelants fournissent à l’intimée au plus tard le 27 mars 2012, à 17 heures, des copies des documents énumérés dans la liste de documents.
+2. que l’appelante, GMC Distribution Inc., paie à l’intimée, au plus tard le 27 mars 2012, à 17 heures, des dépens se chiffrant à 1 011,86 $, conformément à l’ordonnance de Mme la juge Woods datée du 27 mai 2009.
+3. que l’appelante, GMC Distribution Inc., dépose et signifie, au plus tard le 3 avril 2012, à 17 heures, un avis de requête pour que Brian David Cherniak soit autorisé à la représenter.
+4. que les dates susmentionnées soient considérées comme des délais de rigueur, et, si les appelants ne s’y conforment pas, que l’intimée puisse déposer une requête par écrit en rejet des appels pour cause de non‑conformité des appelants aux modalités de la présente ordonnance.
+5. que l’ordonnance d’adjudication de dépens énoncée dans l’ordonnance du juge Pizzitelli datée du 26 janvier 2012 soit suspendue jusqu’à ce que les autres conditions de la présente ordonnance soient remplies, sans préjudice du droit de l’intimée d’intervenir ultérieurement.
+[16] Un chèque représentant les dépens accordés par la juge Woods (1 011,86 $) a été envoyé à l’intimée, mais le chèque n’a pas été honoré par la banque pour cause de provision insuffisante. En tant que comptable, Brian Cherniak aurait dû connaître la somme qui aurait dû se trouver dans le compte bancaire pour couvrir les chèques qu’il avait libellés.
+[17] Puisque le chèque a été refusé par la banque, les dépens accordés par la juge Woods n’ont pas été payés à la date limite fixée dans l’ordonnance du juge Pizzitelli datée du 14 mars 2012. Brian Cherniak a mentionné pendant l’instruction des requêtes qu’il avait apporté une traite bancaire de 1 011,86 $, mais il s’était écoulé près de trois mois depuis la date limite du 27 mars 2012 fixée par le juge Pizzitelli, et plus de trois ans depuis que la juge Woods avait ordonné que ces dépens soient payés « sur-le-champ ». Son accident de voiture survenu plus tôt cette année pourrait expliquer son manque de fonds en 2012, mais il n’explique pas pourquoi la somme n’a pas été payée en 2009, en 2010 ou en 2011. Il ne suffit pas pour Brian Cherniak de dire qu’il pensait que l’avocat de l’appelante s’occupait de tout et qu’il n’avait pas vu le mémoire de dépens. Le mémoire de dépens avait été envoyé à Donald Fiske et à Jacqueline King, les avocats qui représentaient l’appelante et Brian Cherniak.
+[18] L’appelante a été dissoute le 19 novembre 2007, mais des actions peuvent quand même être introduites contre elle[1]. Il me semble que ce pourrait être par exemple une condamnation de l’appelante aux dépens. Par conséquent, la revendication de dépens à l’encontre de l’appelante pouvait encore être présentée contre l’appelante en 2009, et par la suite, et ce, malgré la dissolution de l’appelante en 2007. L’appelante n’a pas acquitté les dépens accordés à l’intimée le 27 mai 2009 avant l’instruction de la présente requête, et cela suffit selon moi à justifier le rejet de l’appel de l’appelante.
+[19] En outre, l’appel a été interjeté en 2004 sous le régime de la procédure informelle. Par une ordonnance datée du 22 octobre 2004, il est devenu un appel régi par la procédure générale. À ce jour, les seules étapes procédurales qui ont été franchies (autres que les actes de procédure) sont les listes de documents. L’appelante n’a pas poursuivi l’appel avec promptitude, et l’appel pourrait aussi être rejeté en application de l’article 64 des Règles de la Cour canadienne de l’impôt (procédure générale).
+[20] La requête de l’intimée visant à faire rejeter l’appel de l’appelante est donc accueillie, et l’appel de l’appelante est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 23e jour de juillet 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 23e jour de novembre 2012.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2012CCI262
+N° DU DOSSIER DE LA COUR : 2004-3115(GST)G
+INTITULÉ : GMC DISTRIBUTION LTD. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 19 juin 2012
+MOTIFS DE L’ORDONNANCE : L’honorable juge Wyman W. Webb
+DATE DE L’ORDONNANCE : Le 23 juillet 2012
+COMPARUTIONS:
+Représentant de l’appelante :
+M. Brian Cherniak
+Avocats de l’intimée :
+Me Craig Maw et Me Roxanne Wong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Alinéa 242(1)b) de la LSAO, et décision Cotton Inc. c. 1397945 Ontario Ltd., précitée.

@@ -1,0 +1,281 @@
+---
+title: "Wagner c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30912/index.do"
+last_modified: "2012-01-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 8"
+citation2: ""
+neutral_citation: "2012 CCI 8"
+decision_date: "2012-01-18"
+language: "fr"
+item_id: "30912"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7469
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:50:29.761000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "648b10598796f5498b44bfdad4b62b2a84fa1036bceb466415d1d67876466490"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wagner c. La Reine
+
+- Citation: 2012 CCI 8
+- Decision date: 2012-01-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7469, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wagner c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-01-18
+Référence neutre
+2012 CCI 8
+Numéro de dossier
+2009-1107(IT)G, 2009-1109(IT)G, 2009-1110(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-1110(IT)G
+ENTRE :
+FRED WAGNER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels
+de José Diaz (2009-1107(IT)G) et Cesario Lopez (2009-1109(IT)G)
+les 26, 27 et 28 avril 2011, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelant :
+Me Daniel Bourgeois
+Avocats de l'intimée :
+Me Sophie-Lyne Lefebvre
+Me Vlad Zolia
+____________________________________________________________________
+JUGEMENT
+Les appels à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu concernant les années d’imposition 2003, 2004, 2005 et 2006 sont rejetés avec un seul jeu de dépens.
+Signé à Ottawa, Canada, ce 18e jour de janvier 2012.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2009-1109(IT)G
+ENTRE :
+CESARIO LOPEZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels
+de José Diaz (2009-1107(IT)G) et Fred Wagner (2009-1110(IT)G)
+les 26, 27 et 28 avril 2011, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelant :
+Me Daniel Bourgeois
+Avocats de l'intimée :
+Me Sophie-Lyne Lefebvre
+Me Vlad Zolia
+____________________________________________________________________
+JUGEMENT
+Les appels à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu concernant les années d’imposition 2003, 2004, 2005 et 2006 sont rejetés avec un seul jeu de dépens.
+Signé à Ottawa, Canada, ce 18e jour de janvier 2012.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2009-1107(IT)G
+ENTRE :
+JOSÉ DIAZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels
+de Fred Wagner (2009-1110(IT)G) et Cesario Lopez (2009-1109(IT)G)
+les 26, 27 et 28 avril 2011, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelant :
+Me Daniel Bourgeois
+Avocats de l'intimée :
+Me Sophie-Lyne Lefebvre
+Me Vlad Zolia
+____________________________________________________________________
+JUGEMENT
+Les appels à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu concernant les années d’imposition 2003, 2004, 2005 et 2006 sont rejetés avec un seul jeu de dépens.
+Signé à Ottawa, Canada, ce 18e jour de janvier 2012.
+« Réal Favreau »
+Juge Favreau
+Référence : 2012 CCI 8
+Date : 20120118
+Dossiers : 2009-1110(IT)G
+2009-1109(IT)G
+2009-1107(IT)G
+ENTRE :
+FRED WAGNER, CESARIO LOPEZ, JOSÉ DIAZ,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’appels, entendus sur preuve commune, à l’encontre de nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985) c.1 (5e Suppl.) telle que modifiée (la « Loi ») datées du mois de mai 2007 concernant les années d’imposition 2003, 2004, 2005 et 2006 de chacun des appelants et du mois de janvier 2009 concernant l’année d’imposition 2003 de chacun des appelants.
+[2] Le litige porte sur le traitement fiscal d’une vente d’actions de la société Château Dollard inc., qui était propriétaire d’une résidence pour personnes âgées et d’un terrain vacant à proximité. Plus précisément, il s’agit de déterminer si, premièrement, le montant de 1 050 000 $ payé par les appelants suite à la conversion d’une vente d’actifs en vente d’actions doit être pris en compte dans le calcul du produit de disposition des actions et si, deuxièmement, le montant de 4 678 000 $ attribué à une clause de non-concurrence doit être ajouté au produit de disposition des actions.
+[3] Les trois appelants étaient co-propriétaires à parts égales de la société Château Dollard inc. (« les actionnaires »), laquelle opérait une résidence pour personnes âgées, connue sous le nom de « Château Dollard ».
+[4] Les actionnaires avaient à l’origine l’intention de procéder à la vente des actifs de Château Dollard inc. à la société 4178092 Canada inc. (« 4178092 » ou (« l’acheteur ») pour un prix de 13 750 000 $ et ils ont, à cet effet, conclu en avril 2003 une convention intitulée convention d’achat d’actif (la « convention d’achat d’actif »).
+[5] La convention d’achat d’actif contenait une disposition permettant à Château Dollard inc. et à ses actionnaires, en leur pleine et entière discrétion, de convertir la vente d’actifs en une vente d’actions de la société Château Dollard inc. Les actionnaires se sont effectivement prévalus de cette disposition et ils ont conclu, le 26 août 2003, une convention mettant fin à la convention d’achat d’actif et, le 27 août 2003, ils ont conclu une convention d’achat d’actions (la « convention d’achat d’actions ») et ils ont signé une lettre d’entente prévoyant la conversion de la convention d'achat d’actif en une convention d’achat d’actions (la « lettre d’entente de conversion »). Le 28 août 2003, chacun des actionnaires a conclu une convention de non-concurrence avec 4178092 en contrepartie du paiement par cette dernière de la somme de 4 678 000 $, soit 1 559 333,33 $ à chacun des actionnaires.
+[6] La convention d’achat d’actions indique un prix de vente pour les actions de 9 072 000 $ et un montant de 4 678 000 $ pour les engagements de non‑concurrence de la part des actionnaires pour une contrepartie totale de 13 750 000 $, soit la même contrepartie que pour la vente d’actifs. Des ajustements d’un montant de 6 605 416 $ sur le prix d’achat des actions sont également prévus au contrat.
+[7] Le ministre du Revenu national (le « ministre ») a calculé le produit de disposition des actions et le gain en capital imposable de la façon suivante :
+Total
+Part de chaque
+actionnaire (33 1/3%)
+Prix de vente des actions
+13 750 000 $
+4 583 333 $
+MOINS : ajustements
+6 605 416 $
+2 201 805 $
+Produit de disposition
+7 144 584 $
+2 381 528 $
+MOINS : prix de base rajusté et
+débours
+209 235 $
+69 745 $
+Gain en capital
+6 935 349 $
+2 311 783 $
+Gain en capital imposable (50%)
+3 467 674 $
+1 155 892 $
+[8] Les appelants considèrent qu’ils ont payé à 4178092 la somme de 1 050 000 $ afin de pouvoir convertir la vente d’actifs de Château Dollard inc. en une vente d’actions de cette même société et ils ont produit leur déclaration de revenu respective pour l’année d’imposition 2003 en déclarant le gain en capital imposable suivant :
+Part de chaque
+actionnaire (33 1/3%)
+Produit de disposition
+472 194,90 $
+MOINS : prix de base rajusté
+50 000,00 $
+débours et frais de disposition
+19 745,37 $
+Gain en capital
+402 449,53 $
+Gain en capital imposable
+201 224,76 $
+[9] Chaque appelant a réclamé l’exonération du gain en capital à l’égard des actions du capital-actions d’une société exploitant une petite entreprise d’un montant de 201 225 $ qui a été appliquée à l’encontre du gain en capital imposable, diminuant ainsi le gain en capital à zéro. Le ministre a accordé l'exonération de 201 225 $ mais il l’a appliquée à l’encontre d’un gain en capital imposable de 1 155 892 $.
+[10] Chaque appelant a initialement calculé un impôt minimum de remplacement à l’égard de la vente d’actions réalisée en 2003. Conséquemment à l’émission de la nouvelle cotisation concernant l’année d’imposition 2003, le ministre a calculé un impôt minimum de remplacement pour les années d’imposition 2004, 2005 et 2006 de chaque appelant.
+La conversion de la vente d'actifs en une vente d'actions
+[11] La possibilité de convertir la vente d’actifs en une vente d’actions était prévue à l’article 10.8 de la convention d’achat d’actif. Cette disposition contractuelle prévoyait essentiellement que si Château Dollard inc. devait déterminer qu’une épargne d’impôt sur le revenu pouvait résulter de la réalisation de la transaction au moyen d’une vente d’actions, l’acheteur avait le droit de convertir la convention d’achat d’actif en une convention d’achat d’actions pour le même prix d’achat et selon les mêmes modalités pour la totalité des actions du capital-actions de Château Dollard inc. et de diviser également entre l’acheteur et les actionnaires l’épargne d’impôt sur le revenu anticipée.
+[12] Les parties se sont prévalues de l’article 10.8 de la convention d’achat d’actif et elles ont signé une lettre d’entente de conversion en vertu de laquelle les parties se sont engagées à conclure (a) une convention de terminaison mettant fin à la convention d’achat d’actif et (b) une convention d’achat d’actions pour le même prix d’achat de 13 750 000 $ (sujet aux ajustements) selon les modalités prévues à la convention d’achat d’actif, en faisant les adaptations nécessaires pour refléter une transaction d’achat d’actions. En contrepartie de cette conversion, les actionnaires se sont engagés à payer la somme de 1 050 000 $ (les « frais de conversion » ) à l’acheteur à la clôture des transactions prévues à la convention d’achat d’actions.
+[13] L’obligation des actionnaires de verser à l’acheteur la somme de 1 050 000 $ fut acquittée par la remise de trois chèques de 350 000 $ chacun tiré sur le compte en fiducie de Fraser Milner Casgrain s.r.l., LLP, la société d’avocats représentant l’acheteur, fait à l’ordre de chacun des actionnaires et endossés par ces derniers en faveur de Fraser Milner Casgrain en fiducie. Ces trois chèques furent immédiatement remis à Fraser Milner Casgrain suite aux endossements.
+[14] Les appelants considèrent que la somme de 1 050 000 $ doit être soustraite du prix d’achat des actions et ils ont produit leur déclaration de revenu respective pour l’année 2003 en diminuant ladite somme du produit de disposition original de 13 750 000 $. Selon ce que les appelants ont déclaré dans leur avis d’appel respectif, le seul but de l’opération était de permettre à l’acheteur d’améliorer sa capacité d’emprunt afin de pouvoir compléter la convention d’achat d’actions.
+[15] Les témoignages de Me Daniel Courteau, fiscaliste chez De Granpré Chait, qui a été consulté concernant le traitement fiscal réservé aux paiements effectués en contrepartie des engagements de non-concurrence, de Me Ronald Stein, du cabinet De Grandpré Chait qui représentait les actionnaires dans le cadre de la transaction, de monsieur Pasquale Buffone, le comptable des actionnaires, et de chacun des appelants n’ont pas permis d’élucider le mystère entourant le calcul de la somme de 1 050 000 $ payée à l’acheteur par les appelants pour effectuer la conversion. Le comptable Buffone a reconnu qu’il a calculé l’impact fiscal pour les actionnaires découlant d’une vente d’actions par rapport à une vente d’actifs et qu’il a communiqué verbalement l’information à monsieur Fred Wagner. Comme monsieur Buffone ne faisait pas partie de l’équipe de négociations, il n’aurait pas vu les calculs effectués par les comptables de l’acheteur. Le comptable Buffone a reconnu avoir consulté Me Daniel Courteau pour s’assurer que les paiements effectués en vertu d’une clause de non-concurrence n’étaient pas imposables. Selon Me Stein, la conversion en vente d’actions a été effectuée à la demande de l’acheteur et le montant des frais de conversion a été calculé par les comptables de l’acheteur. Selon lui, le but de l’opération était de laisser le même montant d’argent dans les poches des actionnaires. Aucun représentant de l’acheteur n’a témoigné à l’audience pour corroborer le calcul des frais de conversion et la raison d’être de cette opération et du mode de paiement retenu.
+[16] Différents éléments de nature fiscale furent notamment mentionnés par ces témoins dont la possibilité pour les actionnaires de bénéficier de l’exonération du gain en capital lors de la vente des actions et la possibilité pour Château Dollard inc. d’éviter la récupération de l’amortissement réclamé à l’égard des actifs vendus. À l’inverse, il a été mentionné qu’en acquérant les actions, l’acquéreur faisait l’acquisition d’actifs dépréciés d’où la perte d’un avantage fiscal futur, soit la déduction pour amortissement sur la pleine valeur des actifs acquis.
+[17] L’intimée considère que la somme de 1 050 000 $ n’a pas été payée à 4178092 par les appelants et que, même si c’était le cas, le paiement de ladite somme n’a pas été fait par les appelants dans le but d’effectuer la disposition des actions et ne doit donc pas être considéré aux fins du calcul du gain en capital selon l’alinéa 40(1)a) de la Loi.
+Les ententes de non-concurrence
+[18] Une des conditions de clôture en vertu de la convention d’achat d’actif était que l’acheteur devait avoir reçu, de la part de Château Dollard inc., une entente de non-concurrence visée à l’article 5.12 de ladite convention, laquelle prévoyait des engagements de non-concurrence de la part de Château Dollard inc. et de ses actionnaires dans un rayon de 100 milles de l’entreprise et ce, pendant une durée de cinq ans de la date de clôture de la transaction.
+[19] La convention d’achat d’actions exigeait également, comme condition de clôture, que les actionnaires signent des ententes de non-concurrence rencontrant les exigences de l’article 5.10 de ladite convention, qui étaient similaires sinon identiques aux exigences de l’article 5.12 de la convention d’achat d’actif. Par contre, ce qui distinguait ces deux articles était, qu’à l’article 5.10, il était mentionné que ces engagements de non-concurrence étaient fournis en contrepartie du paiement par l’acheteur à chacun des actionnaires de la somme de 1 559 333,33 $, soit au total la somme de 4 678 000 $ (les « paiements pour les engagements de non-concurrence »).
+[20] Les ententes de non-concurrence furent effectivement signées par chacun des actionnaires en date du 28 août 2003 et les actionnaires ont reçu chacun un chèque certifié d’un montant de 1 559 333,33 $ daté du 29 août 2003, fait à son ordre, tiré sur le compte en fiducie de Fraser Milner Casgrain. Chacun des actionnaires a accusé réception du chèque certifié d’un montant de 1 559 333,33 $, représentant la totalité des paiements pour les engagements de non-concurrence prévus à la convention d’achat d’actions.
+[21] Les appelants considèrent que la somme de 4 678 000 $ n’est pas imposable lorsque liée à la vente d’actions d’une société détenue par des particuliers suite aux arrêts Fortino c. La Reine, 2000 D.T.C. 6060 (C.A.F.), 1997 D.T.C. 55 (CCI) et Manrell c. La Reine, 2003 D.T.C. 5225 (C.A.F.), 2002 D.T.C. 1222 (CCI). Ladite somme ne peut faire partie de la contrepartie pour la disposition des actions du fait qu’elle a fait l’objet de discussions et a été convenue par les actionnaires et l’acheteur lorsque la convention d’achat d’actif a été signée le ou vers le 30 avril 2003. Les ententes de non-concurrence ont fait l’objet de dispositions précises et distinctes à la fois dans la convention de vente d’actif datée du 30 avril 2003 et à la fois dans la convention de vente d’actions datée du 27 août 2003. Les ententes de non-concurrence sont légales et exécutoires et la valeur qui leur a été attribuée a été librement négociée par les parties n'ayant entre eux aucun lien de dépendance.
+[22] L’intimée considère qu’aucun montant n’a été reçu par les appelants qui soit attribuable aux ententes de non-concurrence. La contrepartie reçue par les appelants pour la vente de leurs actions est le montant total de 13 750 000 $ en vertu du sous‑alinéa 40(1)a)(i) de la Loi. Si le montant total de 13 750 000 $ n’est pas entièrement attribuable à la disposition des actions, l’intimée soumet que la Cour devra alors examiner la valeur attribuable aux ententes de non-concurrence qui, selon l’intimée, est de zéro.
+[23] Lors de la vérification, monsieur Paul-Alain Drolet, le vérificateur de l’Agence du Revenu du Canada (l’ « ARC »), a refusé de soustraire du produit de disposition des actions les différents ajustements totalisant 6 605 415,40 $, comprenant les frais hypothécaires, les commissions aux courtiers, les taxes municipales et scolaires, les paiements de cessation d’emploi, et les paiements à la CSST, mais a accepté de soustraire du produit de disposition le montant de 4 678 000 $ attribuable aux ententes de non-concurrence. Suite aux avis d’opposition produits par les appelants, l’agente des appels, madame Marissa Colaianni, a accepté la déduction des ajustements mais a ajouté au produit de disposition des actions les frais de conversion de 1 050 000 $ et le montant de 4 678 000 $ attribuable aux ententes de non-concurrence.
+[24] Les témoignages de Me Daniel Courteau, Me Ronald Stein, du comptable Pasquale Buffone et de chacun des appelants n’ont révélé aucune information concernant l’attribution d’une valeur de 4 678 000 $ aux ententes de non‑concurrence, ni concernant le processus de négociations à cet égard.
+[25] Monsieur Éric Gaudreau, évaluateur agréé auprès de l’ARC, a procédé à l’estimation de la valeur marchande de la résidence pour personnes âgées, Château Dollard, localisée au 1055, Tecumseh, Dollard-des-Ormeaux en date du 30 avril 2003. Selon son rapport d’évaluation daté du 11 mai 2010 et déposé comme pièce I-3, la valeur marchande en continuité des opérations en cours de l’ensemble des droits réels attribuables à la propriété à l’étude en date du 30 avril 2003 s’élevait à 13 400 000 $. Cette valeur a été établie selon la méthode du revenu.
+[26] Monsieur Éric Gaudreau a également procédé à l’estimation de la valeur marchande d’un terrain vacant localisé sur la rue Thornhill, au sud du boulevard de Salaberry, à Dollard-des-Ormeaux, en date du 30 avril 2003. Il s’agit d’un terrain vacant desservi par les services municipaux et raisonnablement prêt à être aménagé. Une résidence pour personnes âgées (Le Château Royal) fut érigée sur le site en 2006. Selon son rapport d’évaluation daté du 11 mai 2010 et déposé comme pièce I-4, la valeur marchande de l’ensemble des droits réels attribuables à l’immeuble à l’étude en date du 30 avril 2003 s’élevait à 410 000 $. Cette valeur a été établie selon la méthode de la parité.
+[27] Monsieur Steeve Sahakian, expert en évaluation d’entreprise auprès de l’ARC, a été mandaté afin d’établir une estimation de la juste valeur marchande au 28 août 2003, des 150 000 actions ordinaires de la société Château Dollard inc. dans le cadre d’un contrat de vente visant la disposition de la totalité des actions de cette société et comprenant une clause de non-concurrence. Dans son rapport daté du 25 mars 2011 et déposé comme pièce I-5, l’évaluateur a estimé que la juste valeur marchande des actions ordinaires de la société Château Dollard inc. se situait entre 12 640 000 $ et 13 765 000 $ au 28 août 2003, soit un point milieu de 13 202 500 $. L’évaluateur a bien précisé que son rapport était une estimation de la valeur et non pas un rapport d’évaluation exhaustif.
+[28] Selon monsieur Sahakian, l’économie d’impôt non disponible à l’acheteur du capital-actions du fait qu’il ne peut bénéficier de l’amortissement à la hausse sur la juste valeur marchande des actifs, plutôt que sur le coût fiscal des actifs pour le vendeur, représente une somme de 1 170 000 $.
+[29] Toujours selon le rapport de monsieur Sahakian, la valeur de la clause de non-concurrence se situe entre 0 $ et 125 000 $. L’existence d’une clause de non‑concurrence de cinq ans dans une vente comparable d’une résidence pour personnes âgées utilisée par l’évaluateur Éric Gaudreau aux fins de son rapport a confirmé qu’une telle clause de non-concurrence avait peu de valeur dans cette industrie à cette époque.
+[30] Aux fins de déterminer la valeur de la clause de non-concurrence, l’évaluateur a considéré les facteurs suivants sur lesquels il avait des renseignements :
+a) l’état du marché et l’état de la concurrence;
+b) les barrières à l’entrée en fonction des options des actionnaires pour concurrencer;
+c) la mobilité de la clientèle;
+d) la mobilité de la main d’œuvre;
+e) la capacité financière des actionnaires de concurrencer;
+f) l’âge des actionnaires; (54, 56 et 68 ans en 2003) et
+g) l’expérience des actionnaires.
+Analyse
+Les frais de conversion de 1 050 000 $
+[31] La première question à déterminer concernant les frais de conversion de 1 050 000 $ est de savoir si le paiement de la somme de 1 050 000 $ effectué par l'acheteur fait partie du prix de vente des actions?
+[32] Le prix de vente des actifs du Château Dollard Inc. en vertu de la convention d'achat d’actif était de 13 750 000 $. La convention d'achat d'actions n'a pas eu pour effet de modifier le prix d'achat de 13 750 000 $ (sujet aux ajustements) et la convention de terminaison signée le jour suivant la date de signature de la convention d'achat d'actions référait également à un prix d'achat de 13 750 000 $.
+[33] Nulle part dans l'ensemble des documents mis en preuve, il n'est fait mention que les frais de conversion de 1 050 000 $ font partie des ajustements du prix de vente des actions. La somme de 1 050 000 $ a bel et bien été payée par l'acheteur par la remise des trois chèques de 350 000 $ à chacun des actionnaires, lesquels furent immédiatement endossés et remis à Fraser Milner Casgrain.
+[34] L'article 1564 du Code civil du Québec stipule ce qui suit concernant le paiement d'une somme d'argent :
+Le débiteur d'une somme d'argent est libéré par la remise au créancier de la somme nominale prévue, en monnaie ayant cours légal lors du paiement.
+Il est aussi libéré par la remise de la somme prévue au moyen d'un mandat postal, d'un chèque fait à l'ordre du créancier et certifié par un établissement financier exerçant son activité au Québec ou d'un autre effet de paiement offrant les mêmes garanties au créancier ou, encore, si le créancier est en mesure de l'accepter, au moyen d'une carte de crédit ou d'un virement de fonds à un compte que détient le créancier dans un établissement financier.
+[35] Dans l'arrêt Piché c. Canada, [1993] A.C.F. no 510, le juge Létourneau de la Cour d'appel fédérale a formulé les commentaires suivants aux pages 3 et 4 de son jugement concernant un paiement par chèque et l'acceptation d'un chèque par son bénéficiaire :
+Le requérant a reçu le chèque le 27 décembre 1990 et l'a indubitablement accepté comme paiement. À preuve, les démarches qu'il a entreprises le jour même pour le faire porter à son compte bancaire. Le requérant semble croire à tort qu’il n’y a pas eu d’acceptation du paiement tant que les sommes n’ont pas été créditées à son compte. Sauf circonstances particulières, un paiement par chèque constitue un paiement même s'il demeure soumis à une condition résolutoire et le paiement est alors présumé être fait au moment où le chèque est reçu par le bénéficiaire [. . . ].
+[. . .]
+L'acceptation d'un chèque par son bénéficiaire est, contrairement à ce que croit le requérant, une étape différente de l'opération bancaire par laquelle s'opère l'inscription des sommes au crédit du détenteur. Le requérant dans la présente cause aurait pu, par exemple, endosser au bénéfice d'un tiers le chèque qu'il a reçu et accepté et les sommes n'auraient jamais alors été portées à son crédit. Et pourtant, il ne ferait aucun doute qu'il serait alors présumé avoir reçu paiement des sommes qui lui étaient dues et avoir accepté ledit paiement.
+[36] L'acceptation des chèques par les actionnaires et leur endossement pour acquitter le paiement d'une autre obligation, soit le partage des avantages fiscaux, démontrent sans l'ombre d'un doute que les actionnaires ont reçu paiement des sommes qui leur étaient dues et qu'ils ont accepté ledit paiement.
+[37] La deuxième question à déterminer concernant les frais de conversion de 1 050 000 $ est de savoir si le paiement de la somme de 1 050 000 $ effectué par les actionnaires est déductible dans le calcul de leur revenu ou aux fins du calcul du gain en capital réalisé lors de la vente des actions?
+[38] L'endossement des chèques par les actionnaires et la remise desdits chèques à Fraser Milner Casgrain ont été effectués dans le but d'acquitter le paiement d'une obligation, soit le partage des avantages fiscaux obtenus par les actionnaires dans le cadre de la vente de leurs actions. Il y a eu un véritable paiement par les actionnaires d'une obligation monétaire. L'acheteur n'a pas voulu diminuer le prix d'achat des actions pour tenir compte du partage des avantages fiscaux. Il n'y a pas eu compensation sur le prix de vente des actions.
+[39] L'opération par laquelle les actionnaires ont endossé et remis les chèques à l'acheteur découle de la vente des actions mais constitue néanmoins une opération séparée et distincte de la vente d'actions proprement dite. La nature de l'opération ressemble à une forme d'indemnisation que les actionnaires ont fourni à l'acheteur pour la perte d'avantages fiscaux futurs.
+[40] La preuve n'a pas révélé comment le montant de 1 050 000 $ a été calculé, ni comment le montant de 1 050 000 $ a été utilisé par l'acheteur vu que l'acheteur n'a pas témoigné à l'audience.
+[41] Le paiement de la somme de 1 050 000 $ ne peut être considéré comme étant déductible dans le calcul du revenu des actionnaires parce que ladite somme n'a pas été engagée dans le but de tirer un revenu d'entreprise ou de bien, ni être déduit aux fins du calcul du gain en capital réalisé par chacun des actionnaires lors de la vente des actions de Château Dollard inc.
+Les paiements pour les engagements de non-concurrence
+[42] Les ententes de non-concurrence qui ont été signées par les actionnaires ne font pas partie d'un subterfuge ou d'une opération trompe-l'œil. Par contre, rien n'indique dans la preuve que les parties ont eu de sérieuses et véritables négociations quant à la valeur des engagements de non-concurrence et quant à la répartition du prix d'achat.
+[43] Lors de la conclusion de la convention d’achat d’actif, les parties étaient des personnes non liées qui n’avaient entre elles aucun lien de dépendance. Par contre, lors de la conversion de la convention d’achat d’actif en une convention d’achat d’actions, je doute fortement que les parties puissent être considérées comme n’ayant aucun lien de dépendance entre elles, compte tenu du fait que les parties agissaient de concert et avaient un intérêt commun, soit celui de minimiser le plus possible l’impact fiscal de la transaction et de diviser entre elles l’épargne d’impôt sur le revenu anticipée. Une inférence négative doit être tirée de l’absence de l’acheteur puisqu’il aurait été en mesure d’apporter à la Cour des éléments de preuve importants comme l’état des négociations quant à la valeur des engagements de non-concurrence et quant à la répartition du prix d’achat entre les actions et les engagements de non-concurrence. À mon avis, il y a lieu d’appliquer ici la règle que dans de telles circonstances, la Cour doit présumer que ces éléments de preuve auraient été défavorables aux appelants.
+[44] Dans la convention d'achat d'actif, le prix d'achat était de 13 750 000 $, aucune valeur n'était attribuée aux engagements de non-concurrence et aucun ajustement n'était prévu au prix d'achat relativement aux engagements de non‑concurrence.
+[45] La valeur attribuée aux engagements de non-concurrence dans la convention d'achat d'actions de 4 678 000 $ est suspecte puisqu'elle représente environ 30% du prix d'achat total des actions alors que le revenu net annuel de l'entreprise dont la valeur est préservée par lesdits engagements de non-concurrence n'était que de l'ordre de 450 000 $, soit environ 2 500 000 $ sur cinq ans. La valeur attribuée aux engagements de non-concurrence m'apparaît être clairement déraisonnable dans les circonstances.
+[46] Selon le rapport de monsieur Sahakian, la valeur de la clause de non‑concurrence se situait entre 0 $ et 125 000 $. Cette valeur est de plus indirectement supportée par les rapports d’évaluation de monsieur Éric Gaudreau à l’effet que la valeur marchande de la résidence du Château Dollard s’élevait à 13 400 000 $ et que celle du terrain vacant s’élevait à 410 000 $ soit un total de 13 810 000 $ et par l’estimation de monsieur Sahakian de la juste valeur marchande des actions ordinaires de la société Château Dollard inc. qui se situait à 13 202 500 $.
+[47] Les estimations de la juste valeur marchande des actifs de Château Dollard, des actions de Château Dollard inc. et de la clause de non-concurrence mentionnées au paragraphe précédent n’ont pas été contestées par les appelants et ces derniers n’ont fourni aucun indice raisonnable à l’effet que la juste valeur marchande des actions de Château Dollard inc. n’était que de 9 072 000 $.
+[48] L’estimation de la valeur de la clause de non-concurrence démontre que ladite valeur ne peut être considérée comme une contrepartie additionnelle à la disposition des actions de Château Dollard inc. et doit nécessairement faire partie du produit de disposition des actions en vente du sous-alinéa 40(1)a)(i) de la Loi qui se lit comme suit :
+Règles générales
+40. (1) Sauf indication contraire expresse de la présente partie :
+a) le gain d'un contribuable tiré, pour une année d'imposition, de la disposition d'un bien est l'excédent éventuel :
+(i) en cas de disposition du bien au cours de l'année, de l'excédent éventuel du produit de disposition sur le total du prix de base rajusté du bien, pour le contribuable, calculé immédiatement avant la disposition, et des dépenses dans la mesure où celles-ci ont été engagées ou effectuées par lui en vue de réaliser la disposition,
+[49] Comme la Cour d’appel fédérale l’a indiqué dans l’arrêt Robert Glegg Investment Inc. c. Canada, 2008 CAF 332, 2009 D.T.C. 5009, l’alinéa 68 a) de la Loi n’a pas à être examiné lorsqu’il est raisonnable de considérer qu’un montant reçu ou à recevoir d’une personne par un contribuable est en totalité la contrepartie de la disposition d’un bien déterminé, soit les actions vendues dans le présent cas.
+[50] L’alinéa 68 a) de la Loi est libellé comme suit :
+68. Dans le cas où il est raisonnable de considérer que le montant reçu ou à recevoir d’une personne est en partie la contrepartie de la disposition d’un bien d’un contribuable ou en partie la contrepartie de la prestation de services par un contribuable :
+a) la partie du montant qu’il est raisonnable de considérer comme la contrepartie de cette disposition est réputée être le produit de disposition du bien, quels que soient la forme et les effets juridiques du contrat ou de la convention, et la personne qui a acquis le bien à la suite de cette disposition est réputée l’acquérir pour un montant égal à cette partie;
+[51] Il y a lieu de préciser ici que les dispositions législatives adoptées suite au communiqué de presse émis le 7 octobre 2003 par le ministère des Finances du Canada (le communiqué 2003-049), à savoir l’article 56.4 et l’alinéa 68 c), dont l’effet est de rendre imposable les paiements reçus en contrepartie d’engagements de non-concurrence ne sont pas applicables en l’espèce parce que la convention d’achat d’actions et les engagements de non-concurrence ont été signés avant le 7 octobre 2003.
+[52] Pour ces motifs, les appels sont rejetés avec un seul jeu de dépens.
+Signé à Ottawa, Canada, ce 18e jour de janvier 2012.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2012 CCI 8
+Nº DES DOSSIERS DE LA COUR : 2009-1110(IT)G
+2009-1109(IT)G
+2009-1107(IT)G
+INTITULÉ DE LA CAUSE : Fred Wagner, Cesario Lopez, José Diaz et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATES DE L’AUDIENCE : les 26, 27 et 28 avril 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 18 janvier 2012
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Daniel Bourgeois
+Avocats de l'intimée :
+Me Sophie-Lyne Lefebvre
+Me Vlad Zolia
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Daniel Bourgeois
+Cabinet : DeGranpré Chait LLP
+Montréal (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

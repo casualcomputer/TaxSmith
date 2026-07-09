@@ -1,0 +1,158 @@
+Title: Fenwick v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28624/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-243-28624-fenwick-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-04-25
+
+# Fenwick v. The Queen
+
+- Citation: 2008 TCC 243
+- Decision date: 2008-04-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1156, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fenwick v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-25
+Neutral citation
+2008 TCC 243
+File numbers
+2005-3862(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3862(IT)G
+BETWEEN:
+ALLAN FENWICK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 17, 2007, March 31 and April 1, 2008
+at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Irving Marks
+Shawn Pulver
+Counsel for the Respondent:
+Carol Shirtliff-Hinds
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2000 taxation year is dismissed. The respondent is entitled to costs.
+The Registry is directed to place Exhibits R-2, R-3 and R-4 in a sealed envelope, which envelope is not to be provided to any third party without leave of a judge of this Court.
+Signed at Toronto, Ontario this 25th day of April, 2008.
+“J. Woods”
+Woods J.
+Citation: 2008TCC243
+Date: 20080425
+Docket: 2005-3862(IT)G
+BETWEEN:
+ALLAN FENWICK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This appeal concerns the deduction provided in paragraph 8(1)(b) of the Income Tax Act for legal expenses incurred by an employee to collect or to establish a right to salary or wages owed.
+[2] The appellant, Allan Fenwick, claimed a deduction in computing employment income in an amount of $636,949.80 pursuant to this provision. The deduction, which was for the 2000 taxation year, was disallowed by the Minister of National Revenue in its entirety and the appellant appeals in respect of that decision.
+Background
+[3] During the relevant period, the appellant was the sole director, president, secretary and chief executive officer of 372116 Ontario Limited (“Hemispheres”), which operated under the trade name of Hemispheres International Manufacturing Company. The principal business of the corporation was the manufacture and distribution of automotive brake pads.
+[4] The original founders of the business were the appellant’s father and uncle. Eventually the business was given to the appellant and his two sisters, with the appellant having 40 percent of the equity of Hemispheres by way of voting shares, and the two sisters each having 30 percent of the equity by way of non-voting shares.
+[5] The appellant was given all the voting shares in Hemispheres because it was anticipated that he would actively manage the business and the sisters would be passive shareholders only.
+[6] During the relevant period, the appellant’s interest in Hemispheres was owned by Fenfam Holdings Inc., a holding company for the appellant’s wife and children.
+[7] The appellant and his sisters have a long history of acrimonious dealings. In regard to Hemispheres, the sisters were first concerned about the lack of financial disclosure that was provided to them. It appears that the more the sisters learned about the financial state of Hemispheres, the angrier they became with the extent to which the appellant and his family had benefited.
+[8] Inevitably litigation was threatened by the sisters against their brother, which included a proposed derivative action in the name of Hemispheres. The legal expenses at issue were incurred to defend this proposed action.
+[9] The seriousness of the matter is evident by the large amount of legal fees paid by the appellant during the taxation year at issue. During this period, the sisters sought leave of the Ontario Superior Court of Justice to commence an action in the name of Hemispheres, leave was granted, and a statement of claim in the name of Hemispheres and the sisters was filed.
+[10] The appellant was the main defendant in the action, but several other persons were named who allegedly benefited from, or participated in, improper acts by the appellant.
+[11] The essence of the claim against the appellant was alleged harm that was done to Hemispheres by the appellant’s conduct over a number of years in breach of his duty as officer and director to act in the corporation’s best interest. This conduct, it was alleged, resulted in significant financial detriment to Hemispheres, and to the sisters as shareholders. Damages in the amount of $100,000,000 were claimed, as well as an accounting and equitable tracing of property received as a result of the breaches.
+[12] In 2002, the dispute was resolved in principle in a court-mediated settlement and formal settlement agreements were executed in due course. The parties have agreed to keep the terms of the agreements confidential and there is no need for me to describe them in detail in these reasons.
+[13] The statement of claim that was filed in 2000 was 93 pages long, and it set out a large number of alleged improper actions by the appellant.
+[14] Central to this appeal are just two of these: that the appellant paid excessive remuneration to himself from Hemispheres; and that the appellant diverted a corporate opportunity away from Hemispheres by commencing a complimentary business in a corporation called Fenwix Friction Ltd.
+[15] These are just two of several allegations. I accept that the potential damages that could have been awarded to Hemispheres from these allegations are very significant, but there is not sufficient evidence for me to conclude that the other allegations were not also significant.
+[16] The statement of claim describes the relief that was sought by Hemispheres against the appellant as follows:
+1. THE PLAINTIFF, 372116 Ontario Limited c.o.b. Hemispheres International Manufacturing Company (“Hemispheres”), claims as against Allan Fenwick (“Fenwick”):
+a. a declaration that Fenwick holds the property, business assets, profits, or other benefits received by him, either directly or indirectly, as a result of the breaches of his duties owed to Hemispheres and the misappropriation of Hemispheres’ corporate opportunities (the “Hemispheres Constructive Trust Property”), in trust for Hemispheres;
+b. an accounting of the Hemispheres Constructive Trust Property;
+c. an equitable tracing of the Hemispheres Constructive Trust Property;
+d. an Order requiring Fenwick to return the Hemispheres Constructive Trust Property to Hemispheres;
+e. damages in the amount of $100,000,000 for:
+i. Fenwick’s breaches of his statutory and fiduciary duties owed to Hemispheres, including his duty to act honestly and in good faith in the best interests of Hemispheres and his duty of confidence to Hemispheres;
+ii. Fenwick’s misappropriation of Hemispheres’ corporate opportunities; and
+iii. Fenwick’s unjust enrichment;
+to compensate Hemispheres for its loss of the Hemispheres Constructive Trust Property;
+Analysis
+[17] Paragraph 8(1)(b) of the Act provides:
+8. (1) In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+[…]
+(b) amounts paid by the taxpayer in the year as or on account of legal expenses incurred by the taxpayer to collect or establish a right to salary or wages owed to the taxpayer by the employer or former employer of the taxpayer;
+[18] The appellant submits that the expenses at issue are deductible under this provision because they were incurred to establish his right to retain remuneration received from Hemispheres and Fenwix.
+[19] For the reasons below, I do not agree.
+[20] Paragraph 8(1)(b) provides a deduction in computing employment income for legal expenses incurred by an employee in limited circumstances.
+[21] The elements of the section that are particularly relevant in this appeal are: (1) that the deduction is for the purpose of computing income from an office or employment; (2) that the expenses must be incurred by an employee (including an officer); and (3) that the expenses must be incurred for the purpose of either collecting or establishing salary or wages owed.
+[22] I would first comment about the word “owed” in s. 8(1)(b). The respondent submits that the use of this word suggests that Parliament had in mind legal disputes concerning unpaid remuneration. If this interpretation is correct, it would be fatal to this appeal because the Hemispheres’ lawsuit had nothing to do with unpaid remuneration.
+[23] In support of this position, the respondent referred to the decision of the Federal Court of Appeal in Loo v. The Queen, 2004 D.T.C. 6540. According to Loo, it is suggested, the taxpayer must satisfy two conditions in order to qualify for the deduction in s. 8(1)(b). These are referred in Loo as “branches” of the section and they are described in paragraphs 7 and 8 of the decision as follows:
+[7] Paragraph 8(1)(b) has two branches. The first branch permits a deduction for legal expenses incurred in an action to collect salary or wages owed. It contemplates litigation resulting from the failure of an employer to pay the salary or wages due to an employee. In such a case, there may be no dispute as to the amount of salary or wages that the employee is entitled to be paid for the services the employee has performed, but there may be a factual dispute as to how much of the salary or wages remains unpaid.
+[8] The second branch of paragraph 8(1)(b) contemplates a situation in which the matter in controversy is the legal entitlement to the salary claimed. The second branch applies if, for example, an individual incurs legal expenses in litigating a factual dispute as to whether he or she has actually performed the services required by the contract of employment, or a dispute as to the rate of salary payable for services performed. That would include, for example, a dispute as to the term and conditions of employment.
+[24] I would comment briefly that I do not interpret Loo as suggested by the respondent that both branches must be satisfied in order to qualify for the deduction. Such an interpretation would be contrary to the words of the statutory provision, which clearly permits a deduction for two different situations – legal expenses to “collect” and legal expenses to “establish a right.”
+[25] I have trouble with the limited interpretation of the word “owed” suggested by the respondent because it is difficult to see why Parliament would want to make a distinction based on whether the remuneration has been paid or not. It seems to make more sense in this context to interpret the word “owed” as equivalent to “earned.”
+[26] It is not necessary that I reach a conclusion on this, however, because in my opinion the expenses incurred by the appellant do not qualify for the deduction for other reasons.
+[27] The essential question to be decided in this case is whether the appellant incurred legal fees to establish a right to salary or wages. I have concluded that this was not the case, essentially because there is no evidence that the threatened lawsuit would impact the appellant’s right to salary or wages paid to him by Hemispheres or Fenwix.
+[28] I will first consider the application of s. 8(1)(b) as it relates to remuneration paid from Fenwix.
+[29] Fenwix was incorporated by the appellant and carried on a business involving the manufacture and distribution of automotive brake plates. The shares of Fenwix were owned entirely by the appellant’s family during the relevant period.
+[30] Over the years, Fenwix paid very significant bonuses to the appellant. However, the wrongdoing that Hemispheres complains of in the statement of claim is not that these bonuses were excessive.
+[31] The alleged improper conduct of the appellant in reference to Fenwix is set out in paragraphs 76 to 88 of the statement of claim. In general, Hemispheres and the sisters assert that the appellant diverted a significant business opportunity away from Hemispheres and that resources of Hemispheres were improperly used by Fenwix.
+[32] The statement of claim refers to the remuneration paid out of Fenwix but it does so in the context of alleging that Fenwix improperly used Hemispheres’ resources, that is, the services of the appellant. In essence it is suggested in the statement of claim that the appellant must have spent considerable time working for Fenwix, as evidenced by his large remuneration, and that this time should have been spent working for Hemispheres.
+[33] I note the following excerpt from paragraph 84 of the statement of claim:
+84. Fenwix operated as a profitable enterprise from its inception. It was able to do so, in part, because it was improperly using the property, business assets, profits and other benefits of Hemispheres, including but not limited to the following:
+[…]
+(b) Fenwick devoted a significant amount of his time and energy to starting and operating Fenwix. Fenwick drew direct compensation from Fenwix for the period from 1987 to 1996 totalling at least $32,107,000, at the same time that he was taking millions of dollars in compensation as the top executive of Hemispheres.
+[34] I do not see any basis for concluding that the legal fees at issue were incurred to collect or establish a right to remuneration from Fenwix. It may be that the reasonableness of the remuneration paid by Fenwix would be relevant in determining the amount of damages incurred by Hemispheres from having the brake plate business carried on outside Hemispheres, but this has nothing to do with the entitlement of the appellant, as an employee of Fenwix, to retain remuneration received from Fenwix.
+[35] I turn now to the remuneration received by the appellant from Hemispheres. Paragraph 60(h)(i) of the statement of claim alleges that the appellant wrongly took excessive bonuses and salary from Hemispheres. Accordingly, unlike the allegations made in respect to Fenwix, the reasonableness of the remuneration from Hemispheres was a specific allegation.
+[36] The problem that I have with the appellant’s argument in relation to the remuneration from Hemispheres is that the appellant’s right to retain this remuneration, in his capacity as an employee, was not at issue.
+[37] Hemispheres was not making a complaint against an employee for accepting remuneration that Hemispheres itself paid out. The complaint by Hemispheres was that an officer and director acted improperly by directing that such a payment be made. If the claim were successful, an award of damages would be against the appellant in his latter capacity, not the former.
+[38] It is enticing to reach a conclusion that there is no substantive difference between an allegation against the person who directed a payment to be made and an allegation against the person who received the payment where the persons are one and the same. However, I think that the distinction is important.
+[39] Like all provisions of the Act, paragraph 8(1)(b) should be construed, if possible, in a manner that provides harmonious results for similar circumstances. The interpretation suggested by the appellant would not achieve this.
+[40] If, for example, a director of a corporation arranged for the corporation to pay excessive salary to the director’s spouse, and the director was sued by the corporation for such action, the legal fees incurred by the director clearly would not qualify for deduction under s. 8(1)(b). It makes no sense to interpret s. 8(1)(b) to provide for a deduction in this case simply because the appellant was wearing two hats. To do so would lead to an inequitable application of the section to taxpayers in similar circumstances.
+[41] I note that in addition to the claim for damages, Hemispheres also asked for an equitable tracing of assets that were allegedly wrongfully transferred out of the corporation. Although it was not raised at the hearing, it could perhaps be argued that this remedy focuses on the beneficiaries of the wrongful actions, including the appellant as an employee who received some of the assets.
+[42] Even if I were to agree with this approach, there is not sufficient evidence to enable me to conclude that the appellant was at risk in handing over remuneration received under an equitable tracing theory. If the appellant was not at risk, it is difficult to link the legal expenses to it.
+[43] In this regard, the statement of claim alleges, at paragraph 152, that most or all of the funds inappropriately paid out were received by the appellant’s spouse. It would not be surprising if all the funds were given to the spouse because the appellant testified that he personally had very significant legal exposure as a result of the nature of Hemispheres’ business operations.
+[44] Accordingly, there is no factual foundation for suggesting that the legal expenses were incurred by the appellant to defend an equitable tracing of the remuneration received by him.
+[45] For these reasons, I conclude that none of the legal fees at issue qualify for deduction under s. 8(1)(b). The appeal will be dismissed, with costs.
+[46] As a final matter, the appellant requested that an order be made to seal the confidential settlement agreements that were entered into evidence. I have concluded that it would be appropriate to issue a direction to the Registry to place these documents in a sealed envelope, which envelope is not to be provided to any third party without leave of a judge of this Court. I will include this direction as part of the judgment.
+Signed at Toronto, Ontario this 25th day of April, 2008.
+“J. Woods”
+Woods J.
+CITATION: 2008TCC243
+COURT FILE NO.: 2005-3862(IT)G
+STYLE OF CAUSE: ALLAN FENWICK AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 17, 2007, March 31 and
+April 1, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice J. Woods
+DATE OF JUDGMENT: April 25, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Irving Marks
+Shawn Pulver
+Counsel for the Respondent:
+Carol Shirtliff-Hinds
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Irving Marks
+Firm: Robins, Appleby & Taub LLP
+Toronto, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

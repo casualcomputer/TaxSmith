@@ -1,0 +1,215 @@
+Title: Amicarelli v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521550/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-185-521550-amicarelli-v-the-king.md
+Document type: case_law
+Last modified: 2025-12-09
+
+# Amicarelli v. The King
+
+- Citation: 2025 TCC 185
+- Decision date: 2025-12-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5588, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Amicarelli v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-12-09
+Neutral citation
+2025 TCC 185
+File numbers
+2022-2250(IT)G
+Judges and Taxing Officers
+John Sorensen
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2022-2250(IT)G
+BETWEEN:
+JEANETTE AMICARELLI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on November 17 and 18, 2025 at Toronto, Ontario
+Before: The Honourable Justice John A. Sorensen
+Appearances:
+Counsel for the Appellant:
+Angelo Gentile
+Stephanie D’Amico
+Counsel for the Respondent:
+Pierre-Olivier Lemieux
+JUDGMENT
+This appeal of the assessment of the Appellant’s 2017 taxation year, dated September 3, 2019, is allowed with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to a C$473,241.74 non-capital loss in her 2017 taxation year.
+Signed this 9th day of December 2025.
+“John Sorensen”
+Sorensen J.
+Citation: 2025 TCC 185
+Date: 20251209
+Docket: 2022-2250(IT)G
+BETWEEN:
+JEANETTE AMICARELLI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Sorensen J.
+I. Overview and Summary Conclusion [1] In 2017, the Appellant opened and invested through an account with cryptocurrency exchange “QuadrigaCX”, which began spiralling into crisis in early 2018. For reasons unknown, the Appellant’s account balance vanished in late 2017. After initial recovery efforts failed, she claimed a non-capital loss of C$505,142 in her 2017 T1 tax return, representing the cumulative amount placed with QuadrigaCX, plus interest and other costs.
+[2] The Appellant’s behaviour in the pre-loss period was consistent and understandable. Her behaviour in the post-loss period was not. However, on balance, it is more likely than not that she purchased and held assets with QuadrigaCX as she claimed, and that she suffered a loss through some unknown fraud.
+[3] The Appellant asserted that she sought to capitalize on the rapid appreciation of Bitcoin and generate profits in due course. She argued that her activities had indicia of commerciality and qualified as an adventure or concern in the nature of trade, which is included in the definition of “business” as defined in s. 248(1) of the Income Tax Act (Canada) (the “Act”).[1] I agree. Her activities were undertaken in pursuit of profit, sourced to a business as the term is defined in the Act. Accordingly, her loss of C$473,241.74[2] qualified as a non-capital loss in her 2017 taxation year.
+II. Issues [4] The issues in this case are whether:
+· the Appellant incurred a financial loss of C$473,241.74 in the 2017 taxation year in connection with a loss of assets in her QuadrigaCX account; and,
+· the loss, if established, was on account of income or capital.
+III. Facts a) What is Bitcoin? [5] The parties agreed on the following definition of Bitcoin, which I rely on for the purposes of this appeal.
+[6] Bitcoin is an established cryptocurrency. It subsists on a blockchain, which is a decentralized and encrypted ledger of information. Bitcoin is intangible insofar as it exists in a virtual, digital domain. While Bitcoin[3] are fungible, they are identifiable. Bitcoin may be bought, sold, exchanged and lent, and can even be stolen.
+[7] Bitcoin does not generate interest or dividends. It is a medium of exchange and temporary store of value. Bitcoin is property within the broad definition set out in s. 248(1).[4]
+b) Partial Statement of Agreed Facts [8] In advance of the hearing, the parties filed a partial statement of agreed facts, as follows:
+The Appellant is an individual resident in Mississauga, Ontario.
+In 2017, the Appellant opened an account with QuadrigaCX, a Canadian cryptocurrency exchange.
+The Appellant used her QuadrigaCX account to acquire Bitcoin in 2017.
+The Appellant funded the acquisition of Bitcoin using a combination of personal savings and borrowed funds.
+In 2017, the Appellant was employed full-time by Air Canada and was on secondment to Unifor Local 2002.
+The Appellant, through her accountant, filed a T1 income tax return for the 2017 year on April 30, 2018. The 2017 Tax Return included the following amounts:
+a)employment income of $95,612.73;
+b)CPP benefits of $6,895.80;
+c)RRSP income of $263,901.92; and,
+d)a non-capital loss of $505,142.58.
+The Appellant alleges that the non-capital loss resulted from the theft of her Bitcoin held with QuadrigaCX in December 2017 (the “Disputed Loss”) which is denied by the Respondent.
+QuadrigaCX ceased operations in early 2019, following a widely publicised scandal involving the platform.
+In June 2020, the Ontario Securities Commission released a report concluding that the collapse of QuadrigaCX was attributable to fraud and mismanagement. A copy of the report is enclosed at Appendix “A”.[5]
+On September 3, 2019, the Minister of National Revenue (the “Minister”) assessed the Appellant’s 2017 Tax Return (the “Assessment”).
+The Assessment denied the Disputed Loss in full.
+The Appellant filed a notice of objection to the Assessment on November 18, 2019.
+The Minister confirmed the Assessment by way of a notice of confirmation dated June 7, 2022.
+c) Appellant’s Evidence [9] The Appellant’s evidence regarding her intentions and activities in the 2017 pre-loss period was credible. While I am not prepared to make an adverse credibility finding regarding her post-loss conduct, it was eccentric.
+[10] The Appellant first heard about Bitcoin from friends and family in 2016. She testified that she knew people who had made hundreds of thousands of dollars from investing in Bitcoin.
+[11] The parties agreed that the Appellant opened a QuadrigaCX account and used it for acquisitions in 2017, deploying a combination of personal savings and borrowed funds, but the amounts were disputed.
+[12] The Appellant testified that when she learned about Bitcoin, it was rapidly appreciating, which is consistent with the information set out in the copies of online statements that were entered into evidence. She said she saw an opportunity, began buying Bitcoin to make a profit, and good initial results prompted her to continue.
+[13] The Appellant hoped to retire in her early sixties, and making a timely and material profit on Bitcoin was the fast track towards that goal. She also wanted to benefit her adult sons with some of her hoped-for profits.
+[14] The Appellant testified that she made more than 100 Bitcoin purchases through her QuadrigaCX account, and that by late 2017 her QuadrigaCX account was worth more than C$2,000,000.
+[15] The precise number of transactions was disputed, due to varying interpretations of the printed copies of her online QuadrigaCX statements. The fogginess around the precise number of transactions arose because of the timestamps associated with some transactions: at times, what appeared to be multiple transactions were booked at the same instant. The Appellant suggested that QuadrigaCX may have booked separate transactions all at once. Even if some entries were grouped, she still engaged in approximately 75 transactions, and likely more. In any case, whether the number was somewhat more or less than 100 does not change the analysis.
+[16] The Appellant testified that she logged in and viewed her QuadrigaCX account daily, usually using her work laptop, and that she spent several hours per week contemplating buys and completing transactions.
+[17] The Appellant obtained a second mortgage on her home, at an 11.99% interest rate, and testified that part of the proceeds was placed with QuadrigaCX. She withdrew all of the funds in her registered retirement savings plan (“RRSP”) and testified that she placed them with QuadrigaCX. She said she also took advances from her credit cards for the same purpose. Withdrawing funds from an RRSP is costly, insofar as there would be an acceleration of tax and a loss of contribution room. The Appellant’s credit cards charged annual interest rates over 20%.
+[18] The Appellant provided two source documents concerning her QuadrigaCX account, namely, documents she described as a record of deposits and a record of purchase transactions.
+[19] The Appellant testified that in late December 2017, her QuadrigaCX account balance suddenly fell to nil. It would have been helpful if a document had been presented to affirm the nil account balance. The Appellant said she learned of the loss by way of the QuadrigaCX online portal and, insofar as she regularly printed her online statements, one might imagine that she would also print and save evidence of a nil balance.
+[20] Turning now to post-loss events, the Appellant testified that, upon finding that her QuadrigaCX account balance had inexplicably fallen to nil, she reached out to her work friend, Ms. Campanaro, for help setting up an appointment with their information technology service provider, and that she sent electronic mail to QuadrigaCX. This approach is consistent with the evidence that she primarily used her work laptop to log into QuadrigaCX. The extent to which the information technology service provider investigated, and the timing of the inquiries, was unclear to me despite the testimony of the Appellant and Ms. Campanaro.
+[21] No copies of the electronic mail that the Appellant sent to QuadrigaCX were entered into evidence because those messages were not preserved. The Appellant said that she used her “Gmail” account extensively, including as a repository for personal information. She testified that over time Gmail deletes old items, which challenges my understanding of how Gmail works, but I am not in a position to take judicial notice of the functionality of Gmail and there was no evidence to contradict the Appellant’s assertions. Nonetheless, I found it odd that the Appellant did not preserve all correspondence with QuadrigaCX for possible future action.
+[22] The Appellant testified that she felt ashamed after the loss, and did not mention it to anyone for many months, although she finally confided in one son in August 2018. She testified that her embarrassment arose in part from having been warned of the risks of cryptocurrency investing.
+[23] The Appellant testified that she was grief-stricken as of late 2017, and that a doctor recommended that she seek counselling. The discussion of the Appellant’s emotional state was germane to her seeking to explain why she did not take any of the steps that a reasonable person might have taken in the circumstances. However, there was no clear evidence that she actually sought counselling and, I note in passing, she had the presence of mind to discuss the matter with her accountant as early as January 2018, so she does not appear to have been entirely paralyzed and unable to take any action.
+[24] The Appellant explained that she consulted with a computer recovery expert about strategies to salvage her QuadrigaCX account but was unable to afford it. However, in February 2018, in an effort to see if she could somehow revive her account, the Appellant twice funded her account with C$1,000. That strategy did not work. She said she also hoped to recover some of her losses through this further investment, which was implausible. No quotation for a computer recovery expert was provided, so the cost to the Appellant for that kind of engagement is unknown. However, she had C$2,000 to place with QuadrigaCX after losing everything she ever invested with them.
+[25] QuadrigaCX filed for creditor protection, but the Appellant did not file a proof of claim. Additionally, she did not call the police at any point.
+[26] A few possible theories were offered to seek to explain what occurred. Perhaps the Appellant’s computer was remotely accessed by a “hacker”. Perhaps someone breached her Gmail account in which she stored, among other things, a list of her passwords. Or any disappearance of the Appellant’s assets may have been associated with malfeasance within QuadrigaCX. No single theory of what occurred was established, but the circumstances of QuadrigaCX’s failure are significant and assist the Appellant’s case.
+d) The OSC Report [27] The Ontario Securities Commission (“OSC”) is the provincial securities regulator. The parties filed a copy of the OSC report concerning QuadrigaCX (“OSC Report”) with their partial statement of agreed facts, and at the hearing agreed that any factual allegations in it are true. The OSC Report is hearsay[6] and the Court retains its evidentiary gatekeeping function regardless of what the parties agree.
+[28] A report like the OSC Report may potentially be admissible under the public documents exception to the prohibition on hearsay, as recently summarized by the Court of King’s Bench for Saskatchewan:
+The underlying premise of the public document exception, which applies to written statements prepared by public officials in the exercise of their duty, is that public officers will perform their tasks properly, carefully and honestly. As set out in The Law of Evidence in Canada, 6th ed, there are four preconditions, which cumulatively provide a measure of reliability, that must be established before the exception may be relied upon, namely:
+(1) The subject matter of the statement must be of a public nature.
+(2) The statement must have been prepared with a view to being retained and kept as a public record.
+(3) It must have been made for a public purpose and available to the public for inspection at all times.
+(4) It must have been prepared by a public officer in pursuance of his or her duty.[7]
+[29] The OSC is a Crown agency. The OSC Report is of a public nature, appears to have been prepared to be retained and kept public, is available online,[8] and was made for a public purpose by OSC staff in pursuance of their duties.[9] However, while the OSC Report is prima facie admissible based on the public documents exception, the OSC Report sets out the following caveat at page 3:
+Readers should be aware that the findings and views in this Report are not findings of fact by an OSC hearing panel and have not been tested before the OSC tribunal or a court. This Report represents Staff’s views of the evidence reviewed and, should further records and information become available, those views could be affected.
+[30] The parties’ decision to enter the OSC Report as evidence was logical, despite its potential frailties. Proving the facts of the QuadrigaCX fraud and collapse at the Appellant’s trial could have been onerous and inconsistent with the purpose underlying statements of agreed facts generally, namely, to limit the matters in dispute and dispense with the need to prove certain facts. It would also be impractical and very costly to seek to elicit evidence from OSC staff that worked on the OSC Report.
+[31] Based on the foregoing, I accepted the OSC Report as admissible to confirm the general circumstances of the fraud and failure of QuadrigaCX.[10] I accept that the co-founder and CEO of QuadrigaCX, Gerald Cotten, was most likely a fraudster who misused client assets. I also accept that by early 2018, QuadrigaCX clients went public with stories of missing funds and significant transactional delays. I further note that the OSC Report described the use of crypto asset trading platforms as risky and that such platforms often operate outside the purview of securities regulators. However, given the express warning included with the OSC Report noted above, I am prepared to accept portions but not all of the OSC Report and, in any case, a deep dive into the granular detail of the misconduct by QuadrigaCX and Cotten is not necessary to determine the Appellant’s case.
+IV. Analysis [32] The first issue, namely, whether the Appellant incurred a financial loss in the 2017 taxation year as a result of the loss of Bitcoin that she claims she purchased (plus expenses) and held with QuadrigaCX, has two factual components. First, did she expend the claimed amount to acquire Bitcoin in 2017, and second, was her Bitcoin then lost or stolen? These questions are obviously sequential, and both must be answered affirmatively to get to the second issue: whether the loss (if any) was on income or capital account.
+a) Did the Appellant expend C$473,241.74 to purchase Bitcoin in 2017? [33] That the Appellant went “all in” with QuadrigaCX in 2017 is not inconsistent with human behaviour. Modern cryptocurrency surges are like previous economic frenzies (Dutch tulip mania in the 17th century, various gold rushes or, in more recent times, the dot com bubble). It is plausible that a person could get swept up in the momentum when they anticipate and achieve strong financial outcomes. Although the evidence was imperfect, it demonstrated that the Appellant engaged in regular and systematic Bitcoin purchasing in 2017, and that Bitcoin appreciated markedly in 2017. The extent of her transactions was consistent with her testimony that she monitored the market daily and devoted hours per week to managing her investments.
+[34] The Appellant’s pattern of funding Bitcoin acquisitions aligns with the amounts she says she invested: she withdrew the entirety of her RRSP funds (and reported the consequential income inclusion); obtained a second mortgage at an 11.99% interest rate; and drew funds on high-interest credit cards. There was no evidence to suggest that the Appellant made any use of the substantial funds that she accessed other than to buy Bitcoin.[11]
+[35] Viewing the totality of the evidence, I accept as fact that the Appellant incurred expenses of C$473,241.74 in 2017 associated with buying Bitcoin on the QuadrigaCX platform.
+b) Was the Appellant the victim of a theft of all of the Bitcoin she owned and held in QuadrigaCX in late 2017? [36] This further component of the first issue is also factual. The evidence was imperfect, and the way the Appellant managed the situation was peculiar. However, the Appellant’s story resonates with the known information regarding the QuadrigaCX fraud. The OSC Report confirmed that as of early 2018, which was contemporaneous with the Appellant’s loss, other investors were beginning to come forward with tales of woe concerning their QuadrigaCX accounts.
+[37] While she did not retain a printed record of the nil balance, notwithstanding her usual practice of printing other account statements, her immediate actions were consistent with having suffered a genuine loss. She contacted a workplace colleague to arrange assistance from their information technology provider; she says she sent electronic mail to QuadrigaCX (though those messages were not preserved); and, in early 2018, she re-funded the account twice with C$1,000 in an effort, however misguided, to revive it.
+[38] The standard of proof in assessment litigation is the civil standard. While the precise circumstances surrounding the Appellant’s loss are not free from doubt, it is more likely than not that she sustained the loss she says she suffered, probably due to malfeasance by QuadrigaCX and/or Cotten.
+c) Was the loss, if established, on account of income or capital? [39] Since the Appellant suffered a financial loss in 2017, the further analytical step is determining the appropriate tax treatment of the loss. There are three possible outcomes:
+· There was no tax loss because there was no source. The assumptions paragraph in the Reply asserted that the Appellant did not have a source of income because, if she did acquire any assets with QuadrigaCX in 2017, she did not have a profit-making intention and the acquisitions were for personal reasons;[12]
+· The loss was on capital account; or,
+· The loss was on income account.
+Source Argument [40] Any source argument based on personal use must fail. There was no evidence that the Appellant used her QuadrigaCX account as a hedge or safe haven. There was no evidence that she used Bitcoin for personal transactions, and it would not make much sense for her to have placed so much money with QuadrigaCX, at such high financing costs, just to access Bitcoin to buy things. If she expended at least C$473,241.74 in 2017, and I have found that to be the case, then the only workable theory is that she did it to achieve a profit or gain.
+Characterization of the Loss [41] Turning to whether the loss was a capital or non-capital loss, there are no specific provisions in the Act governing the tax treatment of losses due to theft or fraud. Consequently, the appropriate treatment is determined according to the general provisions of the Act and principles set out in case law.
+[42] The Appellant favours the non-capital loss treatment for obvious reasons and argues that the non-exhaustive s. 248(1) definition of business includes activities that may not resemble conventional business activities, but that still demonstrate indicia of commerciality, described as an “adventure in the nature of trade”.
+[43] According to the Supreme Court of Canada’s majority reasons in Friesen,[13] the adventure in the nature of trade concept is judge-made law.[14] An adventure in the nature of trade must involve a “scheme for profit making”: there must be a legitimate intention to gain a profit from a transaction.[15]
+[44] The majority reasons in Friesen referred to published administrative guidance, namely, Interpretation Bulletin IT-459 “Adventure or Concern in the Nature of Trade” (September 1980)[16] and Iacobucci J’s dissent relied on the same IT Bulletin. The majority reasons in Friesen also referred to IT-218R, “Profit, Capital Gains and Losses from the Sale of Real Estate”[17] which was relevant insofar as the taxpayer in that case bought property for resale.[18] The principles set out in each of the IT Bulletins are articulated slightly differently, but may be harmonized as follows:[19]
+Intention: What the taxpayer intended, and whether that intention was realistic or feasible. This has been described as a factor of paramount importance,[20] although ex post facto declarations of intention cannot overtake objective manifestations of a different purpose.[21]
+Actual conduct: Whether the taxpayer’s entire course of conduct (including how the property was purchased and why it was sold) align with their stated intention. A court may look at what a typical dealer in that type of property would do, including in terms of the effort or work expended, and compare it to the taxpayer’s actual conduct.
+Connection to taxpayer’s business: If the taxpayer’s business or profession is closely related to the transaction, net proceeds are more likely to be considered business income.[22]
+Nature of the property: Certain types of property naturally suggest speculation or trading, especially if they do not allow for personal use or benefits apart from resale.
+Financing and holding period: Using borrowed funds and selling the property in the near term tend to indicate an adventure in the nature of trade rather than a long-term investment.
+[45] The fact that a transaction is singular or isolated is not decisive and does not preclude it from being an adventure in the nature of trade, although the frequency and/or number of similar transactions may be relevant. The principles set out above should be flexibly approached and the weight given to a particular principle may vary in the circumstances of any given case.
+[46] Further, the principles set out above overlap, in the sense that principles 2 through 5 are all objective factors against which the Appellant’s stated subjective intention may be evaluated.
+1. Appellant’s intention [47] The Appellant testified that she placed funds with QuadrigaCX to earn a profit, which is a realistic and feasible strategy. The Appellant’s evidence was clear that she had a subjective intention to profit.
+2. Appellant’s actual conduct [48] The Appellant’s testimony as to her subjective intention must be objectively evaluated.
+[49] The Appellant devoted some time and effort managing her QuadrigaCX account. Whether the number of transactions was more or less than 100 is of no moment. She made regular purchases and routinely engaged in monitoring the account and the market. In my view, the Appellant’s activities were more than dabbling and were more akin to activities of a trader or dealer.
+[50] The Appellant’s post-loss conduct is not determinative of her pre-loss intentions, but her post-loss conduct was odd, and it clouded the overall narrative.
+3. Connection to Appellant’s business/profession [51] There is no connection between the Appellant’s regular job and her QuadrigaCX account activities. However, in my view this factor carries less weight in the analysis.
+4. Nature of the property [52] A definition of Bitcoin as agreed upon by the parties for the purpose of this appeal was set out above and, in brief and for ease of reference, it is an intangible cryptocurrency that is a property within the expansive definition of that term in s. 248(1). It can be dealt with in ways similar to other properties – it may be bought and sold, exchanged, lent, and stolen.[23] As also stated above, Bitcoin, like government-issued currency, is a medium of exchange and temporary store of value. It can be used to buy goods or kept as savings.
+[53] Bitcoin does not pay interest, dividends or distributions. I do not see how Bitcoin, in and of itself, might generate royalties. I acknowledge that it could be treated as an underlying asset forming the basis for a derivative product. However, there was no evidence and no practical likelihood that the Appellant bought Bitcoin as part of a wider strategy to structure financial instruments. Simply holding Bitcoin, in the absence of any appreciation, is highly unlikely to generate any income, and there was no evidence in this case of any personal use or benefit.[24]
+[54] Like government-issued currency, Bitcoin can be the subject of speculation. The Appellant bought it because she thought it would appreciate, and throughout 2017 it did, fueling optimism and spurring ongoing buys throughout that year.
+5. Financing and holding period [55] The Appellant’s financing activities were very costly, as noted. She took out a second mortgage, cleared out her RRSP savings thus accelerating tax and losing contribution room, and ran up credit card balances at high rates. These are optimistic behaviours that, while seemingly aggressive, were not out-of-step with the appreciation of Bitcoin in 2017. Only a person with a bona fide belief that they were going to enjoy positive financial outcomes would engage in such costly financing. The evidence was that the Appellant did not sell any Bitcoin, but while the holding period is a relevant factor, holding onto assets for the better part of a year is not unusual when they are appreciating in value and the goal is to profit.
+[56] Finally, asset loss due to theft or fraud is a business risk, and there is no prohibition on the deduction of losses, including losses due to theft or fraud, where the loss is incidental to the business. The OSC Report affirmed that investing in financial assets through unregistered, unregulated market actors can be risky, and the Appellant’s friends and family warned her to approach cryptocurrency trading with caution. A dealer or trader in any financial assets would have to be prepared to weather losses and operating in an unregulated space must logically bring with it increased risk of loss. Ultimately, to the extent that material profits earned in a market frenzy are fully taxable regardless of the risk profile of the market, losses, including catastrophic losses, must be given symmetrical treatment.
+V. Conclusion [57] The evidence set out under each of the listed objective factors offers sufficient support for the Appellant’s stated intention that she bought Bitcoin in 2017 with a view to profit. Her activities fall within the definition of business in s. 248(1). In light of the foregoing analysis, I am satisfied that the Appellant’s 2017 loss was properly characterized as a non-capital loss.
+[58] Given the gaps in the documentary record and the Appellant’s conduct after the loss, this matter had to be litigated, and it was important that the Appellant testify under oath.
+[59] The Appellant asked for costs in her notice of appeal, and she is entitled to same since she was successful.[25] Given the time of year and the Court’s imminent recess period, the timing for costs submissions will be as follows:
+The Appellant may make brief costs submissions on or before January 12, 2026, otherwise costs will be in accordance with the Tariff.
+The Respondent may file a brief response to the Appellant’s costs submissions by January 30, 2026.
+Signed this 9th day of December 2025.
+“John Sorensen”
+Sorensen J.
+CITATION:
+2025 TCC 185
+COURT FILE NO.:
+2022-2250(IT)G
+STYLE OF CAUSE:
+JEANETTE AMICARELLI AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 17 and 18, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice John A. Sorensen
+DATE OF JUDGMENT:
+December 9, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Angelo Gentile
+Stephanie D’Amico
+Counsel for the Respondent:
+Pierre-Olivier Lemieux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Angelo Gentile
+Stephanie D’AmicoANK
+Firm:
+Aird & Berlis LLP
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] RSC 1985, c. 1 (5th Supp.). All statutory references are to the Act unless otherwise noted.
+[2] At the hearing, the Appellant conceded that some amounts of interest and financing fees factored into the loss computation should not be included, and that the actual disputed loss should be C$473,241.74.
+[3] The proper way to refer to Bitcoin is an open question. Is the plural form Bitcoins, similar to dollars, or is Bitcoin uncountable, like gold (not golds)?
+[4] The statutory definition of property is non-exhaustive and broad (but not infinitely so). Ordinarily, property is understood as being a “bundle of rights” or legally enforceable claims, or as a set of relationships amongst people concerning claims over tangible and intangible items. Thus, a hallmark of property is its exclusiveness, as it involves a right enforceable against others (see Manrell v R, 2003 FCA 128). As noted, Bitcoin is capable of being dealt with like any other form of property, tangible or intangible, as it can be specifically identified, owned, bought, sold, loaned and stolen, and a person’s ownership interest in Bitcoin would be enforceable against third parties.
+[5] The date on the face of this OSC Report is April 14, 2020, not June 2020.
+[6] Reasonable people may differ with respect to whether formal admissions are conclusive and thus make hearsay admissible (see Brignolio v Brignolio, 1 CPC (4th) 128, which concluded that formal admissions cure a hearsay problem).
+[7] TP v Bytedance Ltd, 2025 SKKB 101, at paragraph 38.
+[8] https://www.osc.ca/quadrigacxreport/web/files/QuadrigaCX-A-Review-by-Staff-of-the-Ontario-Securities-Commission.pdf
+[9] The OSC Report states as follows at page 6: Protecting investors and fostering confidence in our capital markets are key elements of the OSC’s mandate. In this case, our mandate is best fulfilled by sharing Enforcement Staff’s findings publicly. Typically, Staff investigations become public through a proceeding and findings are made by an independent decision maker weighing evidence during that public hearing. This situation is unique. While public release of a report of this nature is rarely done, we believe that making this review of the facts widely available may help prevent this type of situation from recurring.
+[10] Interestingly, the OSC Report asserted that client-to-client trades executed within the QuadrigaCX platform were not recorded on the blockchain but simply in QuadrigaCX’s records. Custody of crypto assets was alleged to have remained with QuadrigaCX in a general asset pool, and clients supposedly held a claim against QuadrigaCX for Bitcoin, rather than actual Bitcoin. Neither counsel for the Respondent nor for the Appellant adverted to these allegations in the OSC Report.
+There is tension between the OSC description of how QuadrigaCX managed assets versus the agreed facts, viva voce evidence, the information on the Appellant’s QuadrigaCX statements that were in evidence, and the arguments that were made in Court. The statements that the Appellant preserved clearly indicate on each transaction date the precise amount of Bitcoin purchased, the cost and associated fees. I prefer the sworn evidence of the Appellant, a live witness who was subject to cross-examination, and her documents, over the OSC Report with respect to what the Appellant bought and held in her QuadrigaCX account, which she says was Bitcoin.
+[11] To be clear, according to the Appellant, second mortgage proceeds were actually used in a few different ways: there were lender and processing fees, and a substantial amount was deployed to pay down other debt. According to the Appellant, the amount from the second mortgage that was used to buy Bitcoin was $67,026.
+[12] The timing of QuadrigaCX likely becoming a Ponzi scheme was unclear. There was no factual foundation to assert that the Appellant did not have income from a source because she never realized any proceeds and, insofar as QuadrigaCX arguably was or became a Ponzi scheme, that the entire arrangement was a connivance, not a business.
+[13] Friesen v Canada, [1995] 3 SCR 103 (“Friesen”).
+[14] Ibid, at paragraph 15.
+[15] Ibid, at paragraph 16.
+[16] IT-459 was archived but does not appear to have been cancelled.
+[17] This IT Bulletin has also been archived but not cancelled.
+[18] The dispute in Friesen concerned whether the taxpayer was entitled to deduct the amount that the fair market value of the property declined in 1983 and 1984, relying on the inventory valuation scheme in s. 10(1).
+[19] Criteria from other leading cases, such as Happy Valley Farms Ltd v Minister of National Revenue, 86 DTC 6421, at paragraph 14 are consistent with the criteria summarized here.
+[20] Cardella v R, 2001 FCA 39, at paragraph 26. See also Canada Safeway Ltd v R, 2008 FCA 24, at paragraph 43, and the dissent in MacDonald v Canada, 2020 SCC 6 (“MacDonald”), at paragraph 58.
+[21] Wall v Canada, 2021 FCA 132, at paragraph 30, citing MacDonald.
+[22] However, among other things, MNR v Taylor, 56 DTC 1125, tells us at page 26 that “the fact that a transaction is totally different in nature from any of the other activities of the taxpayer and that he has never entered upon a transaction of that kind before or since does not, of itself, take it out of the category of being an adventure in the nature of trade. What has to be determined is the true nature of the transaction and if it is in the nature of trade, the profits from it are subject to tax even if it is wholly unconnected with any of the ordinary activities of the person who entered upon it and he has never entered upon such a transaction before or since.”
+[23] Investing in Bitcoin in 2017 involved some inherent risk of theft, as alluded to in the OSC Report.
+[24] There was no evidence that the Appellant bought goods or services using assets held in QuadrigaCX, and no reason to believe that she meant to use her QuadrigaCX account as a savings account. Given the material financing costs that she incurred, it would not make any sense for the Appellant to buy cryptocurrency assets as currency to use either for purchases or as savings.
+[25] I do not consider the slight concessions on interest and financing expenses as detracting from the Appellant’s success. Rather, I appreciate counsel’s cooperation in recalculating and correcting these amounts at the hearing.

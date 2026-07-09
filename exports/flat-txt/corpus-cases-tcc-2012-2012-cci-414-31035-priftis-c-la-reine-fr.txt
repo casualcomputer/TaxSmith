@@ -1,0 +1,147 @@
+Title: Priftis c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31035/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-414-31035-priftis-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-12-05
+
+# Priftis c. La Reine
+
+- Citation: 2012 CCI 414
+- Decision date: 2012-12-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4858, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Priftis c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-12-05
+Référence neutre
+2012 CCI 414
+Numéro de dossier
+2011-4027(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-4027(IT)I
+ENTRE :
+GEORGIOS (GEORGE) PRIFTIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 7 septembre 2012, à Toronto (Ontario).
+Devant : L’honorable juge François Angers
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Rishma Bhimji
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2001, 2002 et 2003 sont accueillis, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 5e jour de décembre 2012.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 17e jour de janvier 2013.
+Alya Kaddour‑Lord, traductrice
+Référence : 2012CCI414
+Date : 20121205
+Dossier : 2011-4027(IT)I
+ENTRE :
+GEORGIOS (GEORGE) PRIFTIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Le 15 juillet 2010, une cotisation a été établie à l’égard de l’appelant en application de l’article 227.1 et du paragraphe 227(10) de la Loi de l’impôt sur le revenu (la « Loi ») en ce qui a trait à la responsabilité de sa société, Acrontech Inc. (la « société »), à l’égard de cotisations non versées au Régime de pensions du Canada (le « RPC ») et des pénalités et des intérêts s’y rapportant pour les années d’imposition 2001, 2002 et 2003.
+[2] Pendant toute la période pertinente, l’appelant était un administrateur de la société ainsi que son président et son secrétaire trésorier. Il prenait les décisions concernant la société et était chargé d’effectuer les retenues à la source et de produire les déclarations de revenus de la société, bien que la société ait eu un comptable jusqu’en 1998. À l’époque, la société connaissait des difficultés financières, et dès lors, l’appelant a dû s’occuper de tout lui‑même. En tout temps, il était conscient du fait qu’un administrateur est responsable du versement des retenues à la source.
+[3] En 2001 et en 2002, l’appelant exploitait la société depuis son domicile, et ses activités, quelque peu limitées, avaient trait à la revente de programmes informatiques. Pendant ces deux années, la société a versé des sommes d’argent à l’appelant, que celui‑ci a considérées comme le remboursement de prêts d’actionnaire qu’il avait consentis à la société, et qui, à ce titre, n’étaient assujettis à aucune exigence en matière de retenues à la source, y compris de cotisations au RPC.
+[4] Par la suite, la société a fait l’objet d’une vérification fiscale relativement à des cotisations au RPC non versées pour les années 2001, 2002 et 2003, et une cotisation a été établie à l’égard de la société relativement à des revenus ouvrant droit à pension d’environ 100 000 $ que la société a payés. Il a été interjeté appel de cette cotisation devant la Cour compte tenu du fait que le montant en cause correspondait à des remboursements de prêts d’actionnaire consentis par l’appelant. Le 2 mars 2007, la société est finalement parvenue à un règlement en consentant à jugement, et selon les termes de cette entente, il était convenu que la société avait en réalité payé des revenus ouvrant droit à pension de 23 277 $ en 2001, de 11 800 $ en 2002, et de 0 $ en 2003. L’appelant a déclaré qu’il s’agissait d’une affaire compliquée, mais qu’il avait accepté de régler l’affaire en ces termes. Le ministre du Revenu national (le « ministre ») a par la suite établi une nouvelle cotisation à l’égard de la société, mais il n’a pas été en mesure de recouvrer quelque montant que ce soit.
+[5] Le 2 octobre 2009, un certificat précisant le montant que la société devait payer au titre des retenues à la source non versées et des pénalités et intérêts s’y rapportant a été enregistré à la Cour fédérale du Canada en application du paragraphe 223(2) de la Loi. Il y a eu défaut d’exécution à l’égard de ce montant.
+[6] La société a été dissoute le 15 juillet 2008. Le 15 juillet 2010, le ministre a établi une cotisation à l’égard de l’appelant au titre de sa responsabilité d’administrateur relativement à l’omission de la société de verser les cotisations au RPC. L’appelant a déposé un avis d’opposition et le ministre a par la suite ratifié la cotisation, ce qui a donné lieu au présent appel. L’intimée a répondu à l’avis d’appel après l’expiration du délai prévu au paragraphe 18.16(1) de la Loi sur la Cour canadienne de l’impôt.
+[7] Le présent appel soulève les questions suivantes :
+1 - La cotisation dont l’appelant a fait l’objet a‑t‑elle été établie dans le délai prévu au paragraphe 227.1(4) de la Loi?
+2 - L’appelant a‑t‑il exercé le degré de soin, de diligence et de compétence pour prévenir l’omission de la société de verser les cotisations au RPC qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables?
+3 - Dans le contexte de la défense de diligence raisonnable prévue au paragraphe 227.1(3) de la Loi, quelles sont les conséquences du fait que la Couronne a répondu à l’avis d’appel après l’expiration du délai prévu au paragraphe 18.16(1) de la Loi sur la Cour canadienne de l’impôt?
+[8] La première question a été soulevée dans l’avis d’appel de l’appelant, dans lequel ce dernier a déclaré avoir personnellement fait l’objet d’une cotisation au titre des retenues à la source non versées susmentionnées deux ans après que la société a été dissoute et qu’il a cessé d’en être administrateur. L’appelant affirme à juste titre avoir cessé d’être administrateur le jour où la société a été dissoute (voir l’arrêt Canada c. Aujla, 2008 CAF 304). Le délai de prescription dont il est question au paragraphe 227.1(4) de la Loi est défini dans les termes suivants :
+L’action ou les procédures visant le recouvrement d’une somme payable par un administrateur d’une société en vertu du paragraphe (1) se prescrivent par deux ans à compter de la date à laquelle l’administrateur cesse pour la dernière fois d’être un administrateur de cette société.
+[9] Selon le paragraphe 27(5) de la Loi d’interprétation (Canada), le délai de prescription de deux ans auquel il est fait référence ci‑dessus n’inclut pas le jour où l’administrateur a cessé d’être un administrateur. Cette question a été examinée dans la décision Larocque (R.L.) v. M.N.R., [1991] 2 C.T.C. 2151, à la page 255 :
+La question du délai dans lequel la cotisation a été établie, prétendument après le délai de prescription de deux ans prévu au paragraphe 227.1(4) de la Loi, est facile à régler par un examen du délai en cause. Il est admis que la date de démission des administrateurs est le 26 janvier 1987, tandis que la cotisation visant à recouvrer les sommes payables a été établie le 26 janvier 1989. Bien que l’argument des appelants selon lequel une période de deux ans ne peut comprendre trois 26 janvier puisse paraître exact lorsqu’on veut déterminer un délai légal, on peut se reporter à la Loi d’interprétation figurant dans les lois révisées du Canada. Le paragraphe 27(5) de cette loi dispose :
+Lorsqu’un acte doit être accompli dans un délai qui suit ou précède un jour déterminé, ce jour ne compte pas.
+Par conséquent, en l’espèce, l’élimination d’un des 26 janvier amène à conclure que le délai prévu dans la loi n’a pas été dépassé.
+[10] Par conséquent, le ministre avait jusqu’au 15 juillet 2010 pour établir une cotisation à l’égard de l’appelant, et c’est justement à cette date qu’il a établi la cotisation à l’égard de l’appelant.
+[11] La deuxième question est de savoir si l’appelant a exercé le degré de soin, de diligence et de compétence pour prévenir l’omission de la société de verser les cotisations au RPC qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+[12] Dans deux décisions récentes de la Cour d’appel fédérale (Balthazard c. Canada, 2011 CAF 331, et Canada c. Buckingham, 2011 CAF 142), le juge Mainville a étudié le cadre juridique applicable à une défense de soin, de diligence et de compétence. Au paragraphe 32 de l’arrêt Balthazard, il a résumé ce cadre de la manière suivante :
+a. La norme de soin, de diligence et de compétence exigée au paragraphe 323(3) de la LTA est une norme objective comme l’a énoncé la Cour suprême du Canada dans l’arrêt Magasins à rayons Peoples inc. (Syndic de) c. Wise, 2004 CSC 68, [2004] 3 R.C.S. 461. Cette norme objective écarte le principe de common law selon lequel la gestion d’une société par un administrateur doit être jugée suivant les compétences, les connaissances et les aptitudes personnelles de celui-ci. Une norme objective ne signifie toutefois pas que les circonstances propres à un administrateur ne doivent pas être prises en compte. Ces circonstances doivent être prises en compte, mais elles doivent être considérées au regard de la norme objective d’une « personne raisonnablement prudente ».
+b. L’examen de la conduite de l’administrateur aux fins de cette norme objective commence lorsqu’il devient évident pour l’administrateur, agissant raisonnablement et avec le soin, la diligence et la compétence qui sont requises, que la société entame une période de difficultés financières.
+c. Une société qui fait face à des difficultés financières pourrait se hasarder à réaffecter les versements dus à la Couronne afin de payer d’autres créanciers et ainsi assurer la poursuite de ses activités. C’est précisément une telle conjoncture que l’article 323 de la LTA vise à éviter. Le moyen de défense prévu au paragraphe 323(3) de la LTA ne doit pas servir à encourager de tels défauts de versement en permettant aux administrateurs d’invoquer une défense de soin, de diligence et de compétence lorsqu’ils financent les activités de leur société à l’aide de remises dues à la Couronne, en espérant ou non remédier plus tard à ces défauts.
+d. Puisque la responsabilité des administrateurs à ces égards n’est pas absolue, il est possible qu’une société puisse ne pas effectuer des remises à la Couronne sans que la responsabilité solidaire des administrateurs soit engagée.
+e. Ce qui est requis des administrateurs, c’est qu’ils démontrent qu’ils se sont effectivement préoccupés des versements fiscaux et qu’ils se sont acquittés de leur obligation de soin, de diligence et de compétence afin de prévenir le défaut de la société de verser les montants en cause.
+[13] La même norme s’applique aux termes du paragraphe 227.1(3) de la Loi.
+[14] Lors de l’audience, l’intimée a soulevé la question de savoir quand la norme devait être appliquée à l’omission de versement. La question était de savoir si cette norme devrait s’appliquer à l’omission initiale de verser les cotisations au RPC exigibles en 2001 et en 2002, ou à l’omission de versement de la société après que celle‑ci a fait l’objet d’une cotisation relativement à ces cotisations au RPC et après que celle‑ci a consenti à jugement en 2007. D’après la réponse à l’avis d’appel de l’intimée, l’appelant est responsable de l’omission initiale de la société de verser les cotisations au RPC exigibles en 2001 et 2002, et de rien d’autre. Je me fie à la description de l’affaire qui ressort des actes de procédure.
+[15] Le paragraphe 21.1(1) du Régime de pensions du Canada (le « Régime ») engage la responsabilité des administrateurs relativement à l’omission d’une personne morale de verser ou de déduire un montant à la date de l’omission. Les paragraphes 21.1(1) et (2) du RPC sont rédigés en ces termes :
+21.1 (1) En cas d’omission par un employeur personne morale de verser ou de déduire un montant de la manière et au moment prévus au paragraphe 21(1), les personnes qui en étaient les administrateurs à la date de l’omission sont solidairement responsables envers Sa Majesté du paiement de ce montant ainsi que des intérêts et pénalités qui s’y rapportent.
+(2) Les paragraphes 227.1(2) à (7) de la Loi de l’impôt sur le revenu s’appliquent, compte tenu des adaptations de circonstance, à l’administrateur d’une personne morale visée au paragraphe (1).
+[16] L’appelant était administrateur de la société depuis 1987. Il a fréquenté l’Université Ryerson pendant deux ans et il prenait toutes les décisions concernant la société. Jusqu’à ce que celle‑ci commence à connaître des difficultés financières en 1998, la société employait un comptable, et l’appelant préparait les déclarations de revenus de la société avec un aide‑comptable.
+[17] En 2001 et en 2002, l’appelant exploitait la société depuis son domicile. L’appelant croyait que les sommes qu’il avait reçues de la société n’étaient pas un salaire, mais le remboursement de ses prêts d’actionnaire et, par conséquent, que la société n’avait pas à verser de cotisations au RPC relativement à ces sommes.
+[18] Quand la société a conclu une entente hors cour en 2007, l’appelant ne savait pas que ce consentement ferait en sorte que la société devrait payer un certain montant. Il savait néanmoins que, parce qu’il avait consenti à jugement, les montants convenus devenaient des revenus entre ses mains. Il n’avait pas compris que cela faisait de lui un employé, et que la société aurait à verser des cotisations au RPC.
+[19] Pour qu’un administrateur soit solidairement responsable avec un employeur personne morale du versement de cotisations au RPC en application du paragraphe 21(1) du Régime, l’employeur personne morale doit avoir omis de déduire ou de verser ces montants. Dans le cas qui nous occupe, la crédibilité de l’appelant n’est pas en cause. En 2001 et en 2002, la société a effectivement remboursé des prêts d’actionnaire à l’appelant et, par conséquent, elle n’avait pas à déduire ou à verser de cotisations au RPC étant donné qu’aucun salaire n’a été payé pendant ces deux années. Par conséquent, la société n’a pas omis de verser des cotisations au RPC de la manière et au moment prévus pour ces années, et, selon moi, le paragraphe 21.1(1) du Régime ne s’applique pas, en ce sens que l’administrateur appelant ne peut être tenu solidairement responsable avec la société, considérant qu’aucune omission n’a été constatée.
+[20] L’entente hors cour qui a été conclue en 2007 était un compromis ou une solution à l’amiable relativement à un problème complexe qui se posait pour la société, et la société a décidé de régler l’affaire selon ces termes. Je ne considère pas que l’entente hors cour constitue la reconnaissance d’une omission de la part de la société de verser ou de déduire des montants qui auraient dû être versés ou déduits en 2001 et en 2002. Après la conclusion de l’entente hors cour, l’appelant s’attendait seulement à devoir payer de l’impôt sur les montants convenus. L’appelant n’avait pas compris que l’entente avait eu pour effet de rendre la société responsable du versement de cotisations au RPC pour 2001 et 2002. En fait, à l’époque, aux yeux de l’appelant, la société n’était pas tenue de déduire ou de verser quoi que ce soit. Une telle situation fait en sorte qu’il est impossible pour un administrateur de se prévaloir de la défense de diligence raisonnable : comment l’appelant aurait‑il pu faire preuve de diligence pour prévenir l’omission de la société quand cette dernière croyait fermement ne pas avoir omis de déduire et de verser des cotisations au RPC?
+[21] Je le répète : la crédibilité de l’appelant n’est pas en cause. Je conviens du fait que son expérience des affaires donne à penser qu’il aurait été au fait des obligations de la société relatives à la déduction des cotisations au RPC du salaire de ses employés et à leur versement, ainsi que de l’obligation de l’administrateur de s’assurer que la société effectue ces versements, et il semble que la société a satisfait à ces obligations légales avant 2001 et 2002. Si la société et son administrateur croyaient qu’aucun salaire n’avait été versé en 2001 et en 2002, il n’y a eu aucune omission de déduire ou de verser quoi que ce soit, et aucune raison de faire preuve de diligence pour s’assurer que ces déductions et versements ont bien été effectués.
+[22] J’accepte l’explication de l’appelant selon laquelle il pensait que les montants qu’il a reçus étaient des remboursements de prêt d’actionnaire, que la société n’avait donc aucune cotisation au RPC à verser, et que lui, en sa qualité d’administrateur, n’avait aucune raison de faire preuve de diligence ou d’exercer le degré requis de soin vu que, dans son esprit, la société n’avait aucune obligation de versement.
+[23] Cela étant dit, en l’espèce, je dois toujours me pencher sur les conséquences du fait que l’intimée a répondu à l’avis d’appel après le délai prévu au paragraphe 18.16(1) de la Loi sur la Cour canadienne de l’impôt. En l’espèce, l’appelant n’a pas donné son consentement à une prorogation du délai prévu et l’intimée n’a pas non plus demandé à la Cour la permission de répondre en dehors du délai prévu de soixante jours. Par ailleurs, le paragraphe 18.16(4) n’empêche pas le ministre de répondre après l’expiration du délai, mais il énonce les conséquences associées à un tel geste. Les dispositions pertinentes sont ainsi rédigées :
+18.16 (1) Le ministre du Revenu national dispose de soixante jours suivant la transmission de l’avis d’appel par le greffe de la Cour pour y répondre; il peut, toutefois, répondre après ce délai avec le consentement de l’appelant ou la permission de la Cour; le consentement et la permission peuvent être demandés soit avant, soit après l’expiration du délai.
+[…]
+(4) Le ministre du Revenu national peut répondre à l’avis d’appel même après l’expiration des délais prévus aux paragraphes (1) ou (3) ou accordés par l’appelant ou la Cour en vertu de ces paragraphes; les allégations de fait énoncées dans l’avis d’appel sont alors réputées vraies aux fins de l’appel.
+[24] Le paragraphe (4) a essentiellement pour effet de renverser le fardeau de la preuve; il revient alors à l’intimée de prouver le bien‑fondé de sa thèse dans l’affaire qui l’oppose à l’appelant, et les faits que l’appelant a allégués dans son avis d’appel sont alors réputés vrais.
+[25] Au paragraphe 3 de l’arrêt Bruno Hartrell c. Sa Majesté la Reine, 2008 CAF 59, la Cour d’appel fédérale a affirmé que la question de savoir si la défense de diligence raisonnable avait été établie était une question mixte de fait et de droit. Pour conclure qu’une défense de diligence raisonnable a été établie, il faut appliquer une norme juridique à un ensemble de faits. Ainsi, les faits qui sont réputés vrais et qui n’ont pas été réfutés peuvent aider le contribuable à bâtir sa défense de diligence raisonnable. Toutefois, dans certaines circonstances, il se peut que l’existence d’une présomption de fait ne suffise pas et que le fardeau de persuasion ultime repose sur les épaules du contribuable, qui doit prouver qu’il a fait preuve de diligence raisonnable.
+[26] Au paragraphe 33 de l’arrêt Buckingham, précité, la Cour d’appel fédérale a affirmé qu’il revenait à l’administrateur de démontrer qu’il avait fait preuve de la diligence requise :
+[33] […] Le paragraphe 227.1(3) de la Loi de l’impôt sur le revenu et le paragraphe 323(3) de la Loi sur la taxe d’accise ne prévoient pas une obligation générale de diligence, mais plutôt un moyen de défense visant la responsabilité précise prévue aux paragraphes 227.1(1) et 323(1) de ces lois respectives, et il incombe aux administrateurs de démontrer que les conditions requises pour se prévaloir avec succès d’une telle défense sont remplies. L’obligation de diligence prévue au paragraphe 227.1(3) de la Loi de l’impôt sur le revenu vise aussi expressément à empêcher la société de faire défaut de verser des retenues d’impôts précises, notamment les retenues à la source sur les salaires. Le paragraphe 323(3) de la Loi sur la taxe d’accise a un objet similaire. Les administrateurs doivent établir qu’ils ont exercé le degré de soin, de diligence et d’habileté requis « pour prévenir le manquement ». L’objet de ces dispositions est clairement de prévenir les défauts de versement.
+[Non souligné dans l’original.]
+[27] Dans son avis d’appel, l’appelant allègue certains faits relatifs à la diligence dont il a fait preuve pour prévenir l’omission de la société de verser des cotisations au RPC. Dans les cinquième, sixième et septième paragraphes non numérotés, l’appelant a affirmé ce qui suit :
+[traduction]
+En application du paragraphe 227.1(3) de la Loi de l’impôt sur le revenu et parce que les cotisations initiales pour 2004 n’avaient pas trait à un salaire fixe, les actionnaires ont cru que les sommes tirées d’Acrontech Inc. (la société en cause) n’étaient pas des salaires. Nous pensions qu’il s’agissait de remboursements de prêts d’actionnaires. Il s’agissait d’une question complexe, d’autant plus que nous (les deux actionnaires liés) avions prêté des fonds à Acrontech Inc. et que j’exploitais parallèlement deux sociétés liées avec des mouvements d’argent constants. Par conséquent, la société n’a pas payé de cotisations au RPC sur ces sommes.
+Le fait que l’ARC ait été d’un autre avis et que j’aie finalement conclu une entente hors cour ne signifie pas pour autant que je n’ai pas fait preuve de diligence. En tant que non‑initié, je croyais que ces sommes n’étaient pas assujetties à des exigences de déduction et de versement de cotisations au RPC et que la société n’avait donc pas de déductions à effectuer. Quand je suis parvenu à une entente avec l’ARC et que j’ai confirmé que seulement une partie des sommes serait assujettie à des exigences de déduction et de versement de cotisations au RPC, ma position initiale s’en est au moins trouvée justifiée, et cela a montré que j’avais fait preuve de diligence.
+Par conséquent, j’ai le sentiment d’avoir agi de façon responsable, diligente, et dans les circonstances, je (en ma qualité d’administrateur) n’aurais pas pu prévenir l’omission de la société de verser les sommes exigées. Par conséquent, je ne pense pas être personnellement responsable de ces montants.
+[28] L’appelant se qualifie de non‑initié et affirme qu’il ne croyait pas en 2001 et en 2002 que certains paiements aux actionnaires constituaient des revenus ouvrant droit à pension pour l’application du Régime, que la société a conclu une entente compte tenu du fait que seule une partie des paiements faisait l’objet d’un litige avec l’Agence du revenu du Canada relativement à la question de savoir s’il s’agissait de revenus ouvrant droit à pension, et que l’entente justifie sa conviction initiale selon laquelle les paiements en cause n’étaient pas des revenus ouvrant droit à pension.
+[29] Je dois non seulement présumer que ces faits sont vrais, mais aussi tenir compte du fait qu’ils ont été répétés sous serment par l’appelant. Je ne pense pas que l’intimée se soit déchargée du fardeau de la preuve qui lui incombait en l’espèce. Par conséquent, je conclus que, si la défense de diligence raisonnable s’appliquait, les faits présumés par l’appelant ainsi que les déclarations de celui‑ci à l’audience appuieraient une telle défense.
+[30] L’appel est accueilli.
+Signé à Ottawa, Canada, ce 5e jour de décembre 2012.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 17e jour de janvier 2013.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2012 CCI 414
+NO DU DOSSIER DE LA COUR : 2011-4027(IT)I
+INTITULÉ : Georgios (George) Priftis c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 7 septembre 2012
+MOTIFS DU JUGEMENT : L’honorable juge François Angers
+DATE DU JUGEMENT : Le 5 décembre 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Rishma Bhimji
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

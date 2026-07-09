@@ -1,0 +1,189 @@
+---
+title: "Goldstein v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31183/index.do"
+last_modified: "2013-05-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 165"
+citation2: ""
+neutral_citation: "2013 TCC 165"
+decision_date: "2013-05-21"
+language: "en"
+item_id: "31183"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5078
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:06:45.653000+00:00"
+cases_cited_count: 4
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d2d0662e161d4cbea776bd75601545cd46a70b986a9ef12fec8d82ca2876f61f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Goldstein v. The Queen
+
+- Citation: 2013 TCC 165
+- Decision date: 2013-05-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5078, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Goldstein v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-05-21
+Neutral citation
+2013 TCC 165
+File numbers
+2012-1320(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1320(IT)I
+BETWEEN:
+GITA GOLDSTEIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 7, 2012 and January 16, 2013 at Toronto, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+Agent for the Appellant:
+Shmuel Goldstein
+Counsel for the Respondent:
+Kathleen Beahen
+Jasmeen Mann
+____________________________________________________________________
+JUDGMENT
+With respect to appeals of determinations under the Universal Child Care Benefit Act and the Income Tax Act, it is ordered that:
+1. the appeal with respect to the Universal Child Care Benefit Act is quashed;
+2. the appeal with respect to determinations under the Income Tax Act, that the appellant is not entitled to the child tax benefit or goods and services tax credit for base taxation years from 2000 to 2009, is dismissed; and
+3. the parties shall bear their own costs.
+Signed at Toronto, Ontario this 21st day of May 2013.
+“J. M. Woods”
+Woods J.
+Citation: 2013 TCC 165
+Date: 20130521
+Docket: 2012-1320(IT)I
+BETWEEN:
+GITA GOLDSTEIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The issue to be decided in this appeal is whether Gita Goldstein was a resident of Canada during the period from 2000 to 2009.
+[2] In 2008, Ms. Goldstein filed Canadian tax returns in order to make retroactive applications for child tax benefits and goods and services tax credits under the Income Tax Act, and child care benefits under the Universal Child Care Benefit Act. In making the applications, Ms. Goldstein took the view that she was a resident of Canada. The Minister of National Revenue disagreed that Ms. Goldstein was a resident of Canada from 2000 to 2009 and the benefits were denied.
+Preliminary matters
+[3] There are two preliminary matters. First, the appeal under the Universal Child Care Benefit Act should be quashed because this Court does not have the authority to decide appeals under this legislation: Fatima v. The Queen, 2012 TCC 49.
+[4] Second, the respondent withdrew a preliminary objection that the appeal regarding the child tax benefit for the 2009 base taxation year should be quashed on the ground that the appeal was not properly constituted. Since the objection was withdrawn, I have assumed that this part of the appeal is validly constituted.
+Applicable legal principles
+[5] The child tax benefit and the goods and services tax credit each have a requirement that the taxpayer be a resident of Canada during the base taxation year: sections 122.5 and 122.6 to 122.63 of the Income Tax Act, and in particular subsection 122.5(2) and the definition of “eligible individual” in section 122.6.
+[6] The term “resident” for these purposes generally has the meaning described in The Queen v. Laurin, 2008 FCA 58, below.
+[2] […] a person is resident in the country where he or she, in the settled routine of life, regularly, normally or customarily lives, as opposed to the place where the person unusually, casually or intermittently stays. […]
+Reliability of evidence
+[7] Before setting out the factual background, I would comment on the reliability of the evidence.
+[8] Ms. Goldstein did not attend the hearing in either December or January. She was represented by her spouse, Shmuel Goldstein, and he provided testimony on her behalf.
+[9] In order for Mr. Goldstein’s testimony to be considered reliable, it should be straightforward, detailed and cogent. This was not always the case with Mr. Goldstein’s testimony, and I did not find it to be entirely reliable even making allowances for the normal tendency of a self-interested witness to accentuate the favourable aspects of a case and to minimize the negative.
+[10] For example, throughout the testimony Mr. Goldstein described his ties to Canada in the present tense, without making it clear one way or the other whether these ties were in place during the period at issue. The distinction is critical because the Crown submits that many of the ties were only recently obtained in order to bolster Ms. Goldstein’s entitlements to these benefits.
+[11] As an example of Mr. Goldstein’s testimony not being straightforward, I refer to the following excerpt from the transcript in which I asked him to clarify his prior testimony regarding health care coverage.
+JUSTICE WOODS: Then you were talking about the OHIP. Tell me about the OHIP.
+THE WITNESS: Yes. I had a valid OHIP card over the entire period.
+JUSTICE WOODS: Not your wife?
+THE WITNESS: I don’t have my wife’s OHIP card.
+[12] I have taken these deficiencies into account in making findings of fact. I turn now to the factual background.
+Factual background
+[13] Ms. Goldstein was 32 years of age at the time of the hearing. She was born in Canada and attended college in the State of New York for one year beginning in 1997.
+[14] Around this time, Ms. Goldstein met her future spouse. Mr. Goldstein was also born in Canada, and when they met Mr. Goldstein was studying at Beth Medrash Govoha College (“BMG”) in Lakewood, New Jersey. They were engaged in 1999 and married early in 2000. A marriage certificate was issued by the State of New Jersey.
+[15] The Goldsteins had their first child in 2000 and they currently have seven children.
+[16] Since the marriage, the family has lived in Lakewood where Mr. Goldstein has been pursuing full-time studies in Talmudic and biblical law at BMG.
+[17] Mr. Goldstein hopes to complete his studies in 2014 and obtain a teaching position in Canada.
+[18] The Goldsteins have limited resources. The following sources of funds were mentioned at the hearing.
+(a) Funding for rental accommodation in Lakewood was provided by U.S. government assistance.
+(b) Child tax benefits were received from the U.S. government by filing U.S. joint spousal tax returns.
+(c) $1,000 per month was received by Mr. Goldstein, which he described as part-time income. I am not aware of the source of this income.
+(d) Ms. Goldstein earned a relatively modest amount from operating a child play centre at their residence.
+[19] The Goldsteins have close family and religious ties in Canada and they often visit Canada during Mr. Goldstein’s school breaks. During these visits, the family stays at the Toronto home of Mr. Goldstein’s parents.
+[20] Mr. Goldstein testified that the family has come to Canada for every school break since 2000 (four per year), for an average stay of two weeks and longer during the one-month summer break. Mr. Goldstein’s testimony as a whole was not reliable enough for me to be satisfied that the visits were as regular as this. I do accept, however, that the Goldsteins have close family and religious ties in Canada and that they often come to Canada during Mr. Goldstein’s school breaks.
+Discussion
+[21] I am not persuaded that Ms. Goldstein was a resident of Canada during the period at issue. The settled routine of her life since her marriage has been in the United States and not in Canada.
+[22] The central argument that Mr. Goldstein made was that he and his spouse have retained strong ties in Canada and they have not developed strong ties in the United States.
+[23] I do not agree with this submission. Ms. Goldstein has had very strong ties in the United States since her marriage in 2000. She, her spouse and her children have been settled into a daily routine of their lives in New Jersey for a long period of time during which Mr. Goldstein has been pursuing long-term studies.
+[24] The fact that the Goldsteins do not own many material possessions in the United States is indicative of the family’s financial condition and does not weaken their residential ties to the United States. It is the settled routine of the Goldsteins, rather than their lack of possessions, that is the dominant factor in this case.
+[25] Further, the fact that the Goldsteins hope to move to Canada in 2014 is not a significant factor in light of the lengthy period of time that they have been in the United States.
+[26] Mr. Goldstein emphasizes their ties to Canada. The Goldsteins certainly do have many ties to Canada, but these ties do not amount to a settled routine in Canada and are not substantial enough to establish residence.
+[27] When the Goldsteins are in Canada, the family has accommodation available to them in Toronto at the home of Mr. Goldstein’s parents. This is not a strong factor in determining Canadian residence in this case. In my view, these visits are in the nature of holidays, and have the quality of intermittent stays rather than a settled routine.
+[28] Mr. Goldstein submits that they never severed ties to Canada, and that their ties were strengthened over the years. I do not agree. The Goldsteins severed significant ties to Canada when Mr. Goldstein decided to embark on long-term studies in the United States. Their pre-college ties in Canada have been fundamentally altered by their settled routine in New Jersey.
+[29] Some of the ties that Mr. Goldstein mentioned in his testimony are set out below.
+(a) Mr. Goldstein stated that he has rented one or two bedrooms (two since 2004) in the basement of his parents’ home for the family’s use and storage of personal possessions. It was stated that the rooms were rented for $100 each.
+(b) The Goldsteins both have family members in Canada.
+(c) During part of the period at issue, Ms. Goldstein operated a monogramming and matchmaking business in Canada.
+(d) Ms. Goldstein maintained a phone and fax machine at the Toronto home of Mr. Goldstein’s parents.
+(e) The Goldsteins and their children are all Canadian citizens. The Goldsteins obtained Canadian passports in 2010 when this was required to cross the border.
+(f) The Goldsteins have religious affiliations in Toronto.
+(g) Mr. Goldstein has a tentative job offer in Toronto at the congregation where he and Ms. Goldstein are members.
+(h) Mr. Goldstein has retained an Ontario driver’s license and OHIP coverage.
+(i) Ms. Goldstein has held securities at a Canadian financial institution.
+(j) Mr. Goldstein has had active Canadian bank accounts and a credit card.
+(k) The Goldsteins are active in the Conservative Party in Canada and Ms. Goldstein is registered to vote in Canada.
+[30] My assessment of this evidence is that it does not establish that Ms. Goldstein had a customary mode of living in Canada.
+[31] As for family and religious connections, passports and citizenship, these factors establish that the Goldsteins have strong roots in Canada, but they do not establish a customary mode of living in this country.
+[32] As for the accommodation in the parents’ home, this is a weak factor in my view. The use of a parents’ home for visits is not a strong factor to establish residence.
+[33] As for the purported rent of $100 per room, this is a relatively nominal amount. Further, I am not satisfied by the evidence that rent was paid throughout the period at issue. Bank statements were provided which show the withdrawals but these statements were from a later period. In addition, the rent receipts that were entered into evidence suggest by their numbering that relatively few receipts were issued.
+[34] As for the monogramming and matchmaking business, the evidence was simply too vague for me to be satisfied that this is a significant factor in determining residence. For example, I do not know how or when the business was conducted and whether family members in Canada were involved with the operation of the business. I note that a business card for this business gives the telephone number of Ms. Goldstein’s parents.
+[35] Regarding the phone and fax machine, I am not satisfied as to the circumstances and the timelines in which this equipment was used, and by whom.
+[36] As for Mr. Goldstein’s Ontario driver’s permit and OHIP coverage, these factors are not strong evidence of a customary mode of living in Canada. Mr. Goldstein retained these connections since he first went to college in New Jersey. The retention of these ties likely was a matter of convenience and benefit to Mr. Goldstein rather than illustrating a customary mode of living in Canada.
+[37] As for the bank accounts, these also are not a strong factor in the circumstances. The evidence suggests that the accounts were relatively inactive and that the bank account for the early period is a different account from the more recent bank account. The evidence was simply too vague for the accounts to be considered a significant factor.
+[38] As for the membership in the Conservative Party and voter registration, I have given these factors very little weight because I am not satisfied that these ties were obtained prior to the time that the appellant decided to apply for child benefits and was aware of the desirability of establishing connections in Canada. I would note, for example, that when Ms. Goldstein filed Canadian tax returns in 2008 in order to obtain child tax benefits she checked a box on the returns regarding voter registration.
+[39] Based on the evidence as a whole, I am satisfied that Ms. Goldstein has had had a customary mode of living in the United States at least since her marriage in 2000 and that her ties to Canada are not sufficient to constitute residence.
+[40] Finally, I would mention a decision that has some similarity to this case in which it was decided that an individual pursuing long-term religious studies in Israel continued to be a resident of Canada for purposes of the child tax benefit: Perlman v. The Queen, 2011 TCC 658, 2011 D.T.C. 1045.
+[41] As I mentioned in Snow v. The Queen, 2012 TCC 78, Perlman is of limited assistance because the Crown had the burden of proof which it failed to discharge. In particular, as noted by Boyle J., the Crown was not able to point to a point in time in which there was a change of circumstances material enough to constitute a change in residence (at para. 32).
+[42] Mr. Goldstein submits that this reasoning also applies in this case because there is no point in time at which he and his spouse severed Canadian ties. I disagree with this submission. I am satisfied that Ms. Goldstein’s residential ties to Canada had been sufficiently severed by the time of her marriage early in 2000. The evidence was not sufficiently detailed for me to determine whether Ms. Goldstein’s Canadian residence was severed earlier, but this is of no assistance to her in this appeal in which she has the initial burden.
+[43] The appeal with respect to child tax benefits and the goods and services tax credit will be dismissed.
+Signed at Toronto, Ontario this 21st day of May 2013.
+“J. M. Woods”
+Woods J.
+CITATION: 2013 TCC 165
+COURT FILE NO.: 2012-1320(IT)I
+STYLE OF CAUSE: GITA GOLDSTEIN and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: December 7, 2012 and January 16, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: May 21, 2013
+APPEARANCES:
+Agent for the Appellant:
+Shmuel Goldstein
+Counsel for the Respondent:
+Kathleen Beahen
+Jasmeen Mann
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

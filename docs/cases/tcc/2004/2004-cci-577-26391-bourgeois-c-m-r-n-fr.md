@@ -1,0 +1,151 @@
+---
+title: "Bourgeois c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26391/index.do"
+last_modified: "2004-09-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 577"
+citation2: ""
+neutral_citation: "2004 CCI 577"
+decision_date: "2004-09-01"
+language: "fr"
+item_id: "26391"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3338
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:05:57.648000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "155a972e926a82b24505e3168faee03399e487608beac2483001db49bb409dd0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bourgeois c. M.R.N.
+
+- Citation: 2004 CCI 577
+- Decision date: 2004-09-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3338, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bourgeois c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-01
+Référence neutre
+2004 CCI 577
+Numéro de dossier
+2004-21(EI)
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-21(EI)
+ENTRE :
+RÉAL BOURGEOIS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 15 juillet 2004, à Sherbrooke (Québec).
+Devant : L'honorable juge B. Paris
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision rendue par le Ministre est annulée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 1er jour de septembre 2004.
+« B. Paris »
+Le juge Paris
+Référence : 2004CCI577
+Date : 20040901
+Dossier : 2004-21(EI)
+ENTRE :
+RÉAL BOURGEOIS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Monsieur Réal Bourgeois en appelle d'une décision du ministre du Revenu national (le « Ministre » ) selon laquelle monsieur Bourgeois n'occupait pas un emploi assurable chez Bois Francs Notre-Dame Inc. (le « payeur » ) du 7 octobre 2002 au 10 janvier 2003. Selon le Ministre, les services de monsieur Bourgeois n'avaient pas été rendus en vertu d'un contrat de louage de services. Pour rendre la décision faisant l'objet de l'appel, le Ministre a tenu pour acquis les faits suivants énoncés au paragraphe 5 de la Réponse à l'avis d'appel :
+a) Le payeur, constitué en société le 18 juin 2001, exploitait une entreprise de séchage de bois et de vente pour plancher de bois;
+b) durant la période en litige, l'unique actionnaire du payeur était la compagnie 3034534 Canada Inc.;
+c) M. Jacques McLean était l'unique actionnaire du payeur;
+d) contrairement aux renseignements fournis à l'Inspecteur général des institutions financières, l'appelant n'a jamais été administrateur et n'a jamais détenu d'actions du payeur;
+e) l'appelant prétend qu'il a servi de prête-nom au payeur pour lui permettre d'obtenir un prêt aux petites entreprises car M. McLean n'était pas solvable;
+f) l'appelant affirme que les renseignements fournis à l'Inspecteur général des institutions financières le concernant sont faux;
+g) l'appelant travaillait pour le payeur comme contrôleur et comptable;
+h) l'appelant travaillait à la place d'affaires du payeur du lundi au vendredi;
+i) l'appelant a cautionné un prêt de 215 000 $ consenti au payeur par la banque CIBC;
+j) l'appelant a aussi cautionné le payeur pour sa marge de crédit et pour quelques emprunts;
+k) l'appelant prétend qu'en retour de son cautionnement pour le payeur, il devait obtenir des actions du payeur; mais qu'il n'a jamais obtenu ou détenu d'actions du payeur;
+l) durant la période en litige, l'appelant s'affichait partout comme copropriétaire du payeur, autant auprès des employés du payeur qu'auprès des clients;
+m) durant la période en litige, l'appelant encourait d'importants risques financiers dû au fait qu'il cautionnait les emprunts du payeur.
+[2] Monsieur Bourgeois a témoigné qu'il connaît Jacques McLean depuis plusieurs années et qu'il avait travaillé pour lui en 1998. En 2002, monsieur McLean l'a engagé à nouveau pour travailler chez le payeur comme contrôleur et comptable. À ce moment-là, monsieur McLean éprouvait des difficultés à obtenir des prêts bancaires et il a offert à monsieur Bourgeois des actions du payeur s'il se portait garant pour celui-ci. Alors, en échange de sa garantie d'un prêt pour petite entreprise de 215 000 $ et aussi d'une marge de crédit de 10 000 $, une entente est intervenue entre monsieur Bourgeois et monsieur McLean, entente selon laquelle monsieur Bourgeois recevrait 30 % des actions du payeur. Cependant, monsieur Bourgeois ne les a jamais reçues à cause d'un conflit avec monsieur McLean qui a pris naissance à la fin de 2002. Le 10 janvier 2003, monsieur Bourgeois a démissionné de son poste chez le payeur et il a retiré les garanties qu'il avait données.
+[3] Monsieur Bourgeois dit avoir fourni les garanties afin de devenir actionnaire du payeur. Il connaissait la situation financière du payeur et de monsieur McLean et il était persuadé qu'il y avait très peu de risques liés aux garanties. Même si monsieur McLean n'avait pas de crédit, il possédait de l'immobilier d'une valeur de 3 000 000 $ qui pouvait satisfaire à toute demande de paiement faite par la banque. De plus, du fait que le prêt principal était un prêt pour petite entreprise, le montant maximum de la responsabilité de monsieur Bourgeois était d'environ 30 000 $ à 40 000 $.
+[4] Monsieur Bourgeois dit ne jamais s'être présenté comme actionnaire du payeur, mais admet qu'il avait dit aux autres travailleurs qu'il allait devenir copropriétaire de la société. Il paraît que le payeur avait fait à l'Inspecteur général des institutions financières certaines déclarations voulant que monsieur Bourgeois soit actionnaire, mais monsieur Bourgeois dit n'être nullement responsable des déclarations en question.
+[5] En ce qui concerne le travail qu'il a fait pour le payeur, monsieur Bourgeois dit qu'il était un employé et que monsieur McLean, comme président de la société, « décidait tout » . Monsieur Bourgeois travaillait du lundi au vendredi et recevait un salaire fixe. Il dit que les conditions de son travail étaient celles qu'on trouverait dans le cas de n'importe quel employé.
+[6] Selon une première décision du Ministre concernant l'assurabilité de l'emploi de monsieur Bourgeois, il s'agissait d'un emploi exercé dans le cadre d'un contrat de louage de services, mais qui, selon l'alinéa 5(2)b) de la Loi sur l'assurance-emploi (la « Loi » ), n'était pas assurable parce que monsieur Bourgeois contrôlait plus de 40 % des actions du payeur.
+[7] Monsieur Bourgeois a contesté cette décision et le bureau des appels de l'Agence des douanes et du revenu du Canada a déterminé que monsieur Bourgeois n'était pas actionnaire du payeur, mais a conclu que son emploi n'était tout de même pas assurable parce qu'il ne satisfaisait pas aux exigences d'un contrat de louage de services. Cette décision fait l'objet de l'appel en instance.
+Analyse
+[8] En arrivant à la conclusion que monsieur Bourgeois n'était pas employé par le payeur dans le cadre d'un contrat de louage de services, le Ministre semble n'avoir pris en considération qu'un seul aspect de la relation entre monsieur Bourgeois et le payeur, soit le risque de perte couru par le travailleur relativement à son travail. Aucune des hypothèses de fait formulées par le Ministre n'a trait aux autres éléments de leur relation.
+[9] La jurisprudence dit qu'il faut appliquer un critère unique à quatre volets pour déterminer si un travailleur est un employé ou bien un entrepreneur indépendant. Les quatre volets sont : le contrôle, la propriété des instruments de travail, la possibilité de profit et le risque de perte. Un examen de tous ces volets permet de répondre à la question fondamentale qui est de « ... savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte » [1].
+[10] En l'espèce, il me semble que les faits présumés par le Ministre n'étaient pas suffisants pour fonder sa conclusion que monsieur Bourgeois était un entrepreneur indépendant vis-à-vis du payeur. Aucun des quatre éléments déjà énumérés n'est déterminant, et il faut examiner tous les aspects de la relation entre les parties afin de statuer sur la question. Le fardeau de la preuve quant aux faits à établir en plus de ceux présumés à l'appui de la position de l'intimé incombe à ce dernier.
+[11] La preuve présentée devant la Cour démontre que monsieur Bourgeois était soumis, jusqu'à un certain degré, au contrôle du payeur et qu'il travaillait des heures fixes chez celui-ci pour un salaire déterminé. Il semble aussi qu'il ne fournissait pas ses propres outils de travail.
+[12] La preuve démontre en outre que monsieur Bourgeois a garanti les dettes du payeur en échange d'une promesse qu'il recevrait des actions. Les garanties n'étaient pas attribuables au fait que monsieur Bourgeois travaillait pour le payeur et le risque de perdre de l'argent par suite de ces garanties ne découlait pas de son contrat de travail. Les garanties étaient reliées au désir de monsieur Bourgeois de devenir actionnaire. Il faut distinguer entre les deux statuts, celui de travailleur et celui d'actionnaire, dans une analyse des éléments du travail fait par monsieur Bourgeois pour le payeur.
+[13] En considérant tous les éléments du contrat de travail entre monsieur Bourgeois et le payeur, je conclus que monsieur Bourgeois n'était pas un entrepreneur indépendant. Il en découle qu'il exerçait un emploi assurable pendant la période pertinente et son appel est accueilli.
+Signé à Ottawa, Canada, ce 1er jour de septembre 2004.
+« B. Paris »
+Le juge Paris
+RÉFÉRENCE :
+2004CCI577
+No DU DOSSIER DE LA COUR :
+2004-21(EI)
+INTITULÉ DE LA CAUSE :
+Réal Bourgeois et M.R.N.
+LIEU DE L'AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L'AUDIENCE :
+le 15 juillet 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge B. Paris
+DATE DU JUGEMENT :
+le 1er septembre 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983 au paragraphe 47.

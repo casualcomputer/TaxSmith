@@ -1,0 +1,201 @@
+Title: Tuck c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27642/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-259-27642-tuck-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-03-14
+
+# Tuck c. La Reine
+
+- Citation: 2007 CCI 259
+- Decision date: 2007-03-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 398, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tuck c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-03-14
+Référence neutre
+2007 CCI 259
+Numéro de dossier
+2006-934(IT)I
+Juges et Officiers taxateurs
+Eugene P. Rossiter
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+COUR CANADIENNE DE L’IMPÔT
+LOI DE L’IMPÔT SUR LE REVENU
+Dossier : 2006-934(IT) I ENTRE
+ELIZABETH TUCK
+appelante,
+- et -
+SA MAJESTÉ LA REINE
+intimée.
+APPEL ENTENDU PAR M. LE JUGE ROSSITER
+au Service administratif des tribunaux judiciaires, salle des interrogatoires préalables
+180, rue Queen Ouest, 6e étage,
+Toronto (Ontario)
+le mercredi 14 mars 2007, à 9 h 29.
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience)
+COMPARUTIONS :
+Mme Elizabeth Tuck l’appelante elle-même
+(par téléphone)
+Me Laurent Bartleman pour l’intimée
+(par téléphone)
+Étaient également présents :
+M. William O'Brien greffier audiencier
+Mme Linda O'Brien sténographe
+A.S.A.P. Reporting Services Inc. 8 2007
+200, rue Elgin, bureau 1004 130, rue King Ouest, bureau 1800
+Ottawa (Ontario) K2P 1L5 Toronto (Ontario) M5X 1E3
+613-564-2727 416-861-8720
+(ii)
+TABLE DES MATIÈRES
+PAGE
+Décision de M. le juge Rossiter 1
+Toronto (Ontario)
+‑‑‑ L’audience débute le mercredi 14 mars 2007, à 9 h 29.
+M. LE JUGE ROSSITER: Je vous remercie d’être présents ce matin. La sténographe et le greffier sont également présents.
+Lors de notre dernière réunion, j’ai pris cette affaire en délibéré et dit que je rendrais ma décision aujourd’hui si les parties n’étaient pas arrivées à une entente. Puisque tel est le cas, je vais à présent rendre ma décision oralement.
+Il me semble bien avoir examiné quelques-uns des faits lors de notre dernière réunion ; je vais tout de même les revoir encore une fois afin que tout soit bien clair au dossier.
+Nous avons été saisis de cette affaire le 5 février 2007, par l’appel qu’Elizabeth Tuck a interjeté de la décision rendue par le ministre du Revenu national (le « ministre »), selon laquelle la somme de 50 400 $ que l’appelante avait versée en 2001 à son mari David Tuck à titre de pension alimentaire n’était pas déductible aux termes de l’article 60.1(3) de la Loi de l’impôt sur le revenu, en dépit du fait que David Tuck, le bénéficiaire, avait déclaré 18 000 $ de revenu de pension alimentaire à la ligne 156 de sa déclaration T1 pour l’année d’imposition 2002.
+Les faits en l’espèce sont simples et ne sont pas contestés.
+L’appelante et son mari David Tuck se sont séparés le 11 novembre 2000. En 2002,
+Mme Tuck a mis à jour toutes ses obligations financières et celles de son mari, puis lui a remis un chèque de 10 000 $.
+Entre le 1er janvier 2001 et le 31 décembre 2004, l’appelante a versé à M. Tuck environ 4200 $ par mois à titre de pension alimentaire. Le montant pouvait être rajusté à l’occasion si l’appelante payait directement les factures de M. Tuck.
+En 2001, elle lui a fait les versements suivants, pour un total de 48 260 $. Elle a effectué chaque paiement par chèque, tiré sur son compte à la CIBC. Six chèques ont été datés du premier jour du mois : 4200 $ le 1er décembre 2001, 4200 $ le 1er novembre 2001, 4200 $ le 1er octobre 2001, 4140 $ le 1er août 2001, 4120 $ le 1er juillet 2001, 4000 $ le 1er avril 2001.
+Les six autres chèques portent des dates différentes, toutes cependant vers la fin du mois : 4200 $ le 26 décembre 2001, 4100 $ le 31 août 2001, 4200 $ le 31 mai 2001, 4200 $ le 30 août 2001, 4200 $ le 25 février 2001, 2500 $ le 21 janvier 2001.
+Tous les chèques ont été faits à l’ordre de David R. Tuck ou de David Tuck.
+Dans l’espace prévu à cet effet, tous les chèques, à l’exception de trois, faisaient état d’un paiement, paiement d’avril par exemple. Deux des trois autres chèques ne portaient aucune mention de paiement. Le chèque en date du 26 décembre 2001 portait la mention [traduction] « paiement de la pension alimentaire de janvier ».
+David Tuck a produit une déclaration T1 pour 2001, pièce A‑1, onglet 4, accompagnée d’une lettre dans laquelle il déclare 18 000 $ à la ligne 156 à titre de « pension alimentaire reçue ». Il a d’abord semblé que cette somme était le revenu total de M. Tuck pour 2001, mais il a également déclaré dans sa T1 des activités d’entreprise, le montant total de l’impôt à payer ayant été de 374,38 $.
+Dans ses démarches à propos de ses problèmes conjugaux, l’appelante a préparé un état financier, pièce A‑1, onglet 5, le 31 janvier 2002. Cet état, qu’elle a déposé sous serment, indique des versements de pension alimentaire mensuels de 4200 $ et porte la date du 31 juillet 2002.
+Le 31 juillet 2002, l’appelante et David Tuck ont conclu une entente provisoire, pièce A‑1, onglet 1, annexe A. Voici ce qu’énonce la clause un :
+[traduction] Beth versera à David 4200 $ par mois à titre de pension alimentaire provisoire, à partir du 1er juin 2002, puis le premier de chaque mois par la suite.
+Voici ce qu’énonce la clause deux de l’entente provisoire :
+[traduction] Les parties reconnaissent et conviennent que tous les versements de pension alimentaire que Beth effectue conformément aux modalités de la présente entente seront déduits par Beth, à titre de paiements réguliers, et inclus par David dans le calcul de leur revenu respectif aux fins de l’impôt; ces versements sont considérés comme ayant été payés et reçus aux termes des paragraphes 56.1(2), 56.1(3), 60.1(2) et 60.1(3) de la Loi de l’impôt sur le revenu.
+L’avocat de l’appelante a adressé le 31 juillet 2002 une lettre à l’avocat de David Tuck, mari de l’appelante, pièce A‑1, onglet 6, à propos d’une entente entre les parties et d’une offre de règlement. Cette lettre était accompagnée d’exemplaires signés de l’entente provisoire datée du 31 juillet 2002, pièce A‑1, onglet 1, annexe A, et de l’état financier de l’appelante daté du 31 juillet 2002, pièce A‑1, onglet 5, ainsi que de quelques chèques périodiques à l’intention de M. Tuck. Cette entente ne faisait pas état de versements effectués par l’appelante à son mari en 2001, mais faisait mention du paragraphe 60.1(3) de la Loi.
+Le 1er octobre 2002, l’avocat de l’appelante a adressé à celui de son mari une offre officielle de règlement, pièce A‑1, onglet 8; cette offre avait préalablement été revue et approuvée par l’appelante, pièce A‑1, onglet 7; elle ne faisait pas état des versements que l’appelante avait faits à son mari en 2001.
+Le paragraphe 2 de l’offre indique ce qui suit :
+[traduction] Le mari reconnaît avoir reçu de sa femme la somme de 10 000 $ en décembre 2000, et 4200 $ le premier de chaque mois, du 1er janvier 2001 jusqu’à la date de l’acceptation de la présente. Les parties conviennent que dans le calcul de leur déclaration de revenus respective, le mari déclarera la pension alimentaire qui lui sera versée et la conjointe la déduira, conformément à la Loi de l’impôt sur le revenu, paragraphes 56.1(3) et 60.1(3); les deux parties se concerteront pour remplir les déclarations de revenus de 2000 et 2001.
+Il faut souligner que ce paragraphe 2 renvoie précisément au paragraphe 60.1(3) de la Loi de l’impôt sur le revenu pour 2000 et 2001. Cette offre comporte ce que j’appellerai une clause de temporarisation, selon laquelle la pension alimentaire prend fin le 31 décembre 2004. Il convient de se reporter au paragraphe 1 de l’entente.
+J’ajoute que cette entente prévoit un paiement forfaitaire de 50 000 $ de l’appelante à M. Tuck et que celui-ci devait recevoir les fonds détenus en fiducie pour la vente du domicile conjugal du 214, avenue Cranbrooke à Toronto (Ontario).
+Le 18 décembre 2002, l’avocat de M. Tuck a adressé à celui de l’appelante une lettre, pièce A‑1, onglet 9, qui indiquait ce qui suit :
+[traduction] À propos de Tuck c. Tuck.
+Je vous remercie de votre lettre du 1er octobre dernier. Mon client est disposé à accepter les modalités de l’offre qu’elle comportait, exception faite de la durée limitée des versements de pension alimentaire. De nombreux facteurs font que cette limite temporelle est inacceptable, notamment la durée du mariage, le temps pendant lequel mon client n’a pas travaillé, la forte disparité des revenus des parties, l’âge de mon client et sa faible épargne‑retraite. Il ne me semble pas qu’une juridiction restreindrait sa pension alimentaire dans la durée et mon client ne l’acceptera pas. M. Tuck accepte que sa pension alimentaire soit revue fin 2004. Il en a discuté avec votre cliente et elle accepte cet examen. Veuillez confirmer que cela est exact.
+Dans l’attente de vos nouvelles …
+Le 19 décembre 2002, l’avocat de l’appelante a adressé à celui de M. Tuck une lettre, pièce A‑1, onglet 10, qui indique ceci :
+[traduction] Je ne peux joindre ma cliente avant la deuxième semaine de janvier. Je vais étudier votre lettre et vous revenir sous peu.
+Le 17 octobre 2003, les parties sont parvenues à une entente de séparation provisoire, que j’appellerai l’entente de séparation provisoire numéro 2, pièce A‑1, onglet 2. Cette entente ne fait pas mention de l’année 2001. Aucune mention n’est faite du paragraphe 60.1(3), mais on y fait état des paragraphes 56.1(2) et 60.1(2) de la Loi. Des versements mensuels de 4200 $ de l’appelante à son mari y sont prévus pour janvier, février, mars, avril et mai 2002.
+Une entente de séparation entre l’appelante et M. Tuck a été signée le 10 février 2005, pièce A‑1, onglet 1. Il convient de souligner le paragraphe 4.1 :
+[traduction] Les parties reconnaissent que du 1er janvier 2002 au 1er décembre 2004, l’épouse a fait des versements périodiques de pension alimentaire de 4200 $ par mois à son mari.
+Voici ce qu’énonce le paragraphe 4.2 :
+[traduction] Les parties conviennent que la pension alimentaire versée est un revenu imposable pour le mari et qu’elle est déductible pour l’épouse.
+Voici ce qu’énonce le paragraphe 4.6 :
+[traduction] […] tous ces versements du 1er janvier 2001 au 31 décembre 2004 inclusivement ont été faits et reçus conformément aux deux ententes provisoires, et à l’entente, en vertu des paragraphes 56.1(2), 56.1(3), 60.1(2) et 60.1(3) de la Loi de l’impôt sur le revenu.
+L’appelante a témoigné à l’audience que dans l’entente provisoire du 31 juillet 2002, les paiements antérieurs n’avaient pas été reconnus parce que M. Tuck n’en avait pas convenu. Elle a témoigné qu’il était d’accord verbalement, puis avait déclaré ensuite qu’il refusait de signer une entente pour reconnaître ce dont il avait déjà convenu verbalement.
+L’appelante a reconnu également que M. Tuck n’avait pas reconnu expressément les paiements de 2001 dans l’entente provisoire du 17 octobre 2003, mais qu’il l’avait fait dans l’entente de séparation du 10 février 2005.
+Il s’agit en l’espèce de déterminer si l’appelante a droit de déduire les 50 400 $ de pension alimentaire qu’elle a versés à son conjoint de son revenu pour l’année d’imposition 2001.
+L’appelante a en l’espèce la position suivante :
+1) elle ne demande pas à déduire des sommes verses à des tiers, uniquement les sommes versées à David Tuck en 2001.
+2) d’après la lettre du 18 décembre 2002 adressée par l’avocat de M. Tuck à celui de l’appelante, pièce A‑1, onglet 9, en elle‑même ou jumelée avec la T1 de David Tuck, pièce A‑1, onglet 4, l’état financier de l’appelante du 31 juillet 2002, pièce A‑1, onglet 5, les chèques signés par elle et tirés sur son propre compte bancaire et encaissés probablement par M. Tuck puis déposés dans son compte, ainsi qu’en témoigne la pièce A‑1, onglets 2 et 3 et enfin, la clause de l’entente écrite renvoyant au paragraphe 60.1(3) de la Loi, les exigences de la Loi quant à la déductibilité sont respectées.
+Enfin,
+3) d’après l’affaire Pienaar, P‑I‑E‑N‑A‑A‑R, [2003] 1 C.T.C. 2296, on peut comprendre l’entente provisoire de 2002 de telle sorte que les paiements de 2001 peuvent être considérés comme ayant été inclus dans l’entente de 2002, pièce A‑1, onglet 1, annexe A, même si celle-ci n’en fait pas précisément mention.
+On peut exposer ainsi la position de l’intimée :
+1) si l’appelante se fonde sur l’entente de séparation du 10 février 2005 comme entente écrite pour être en conformité avec la Loi, l’appelante ne respecte pas les délais prévus au paragraphe 60.1(3) de celle-ci.
+2) l’appelante ne peut se fonder sur l’entente provisoire du 31 juillet 2002 ni sur celle du 31 octobre 2003, car aucune de ces ententes ne mentionne les versements de 2001 ou la déductibilité à des fins d’impôt sur le revenu.
+3) le fait que David Tuck ait déclaré 18 000 $ de pension alimentaire dans son revenu n’engage pas l’État à l’égard de la déduction demandée par l’appelante.
+4) les chèques faits par l’appelante à l’ordre de David Tuck, qu’il a endossés et déposés à son compte, ne constituent pas une entente écrite aux termes du paragraphe 60.1(3) de la Loi.
+5) la proposition de règlement présentée par l’avocat de l’appelante à celui de M. Tuck n’a jamais été acceptée par celui-ci et par l’appelante avant l’entente de séparation du 10 février 2005.
+Enfin,
+6) il n’existe, avant l’entente de séparation du 10 février 2005, aucun consentement écrit entre l’appelante et son époux à propos de la question de la durée du versement de la pension alimentaire de la part de l’appelante à M. Tuck.
+J’ai examiné en droit le détail de tous les textes de référence présentés par les deux parties et ceux auxquels elles se réfèrent, y compris les dispositions pertinentes de la Loi.
+À la question de savoir si l’entente de séparation du 10 février 2005 peut s’interpréter comme une entente écrite au sens du paragraphe 60.1(3) de la Loi de façon à autoriser la déduction de la pension alimentaire versée par l’appelante à M. Tuck en 2001, la réponse est non. Ce paragraphe prévoit des dispositions précises et je ne l’étudierai pas dans le détail.
+Dans l’arrêt Anstead v. R, 2005 D.T.C. 5616, la Cour d’appel fédérale a déclaré, au paragraphe 11 :
+S’agissant du troisième argument, l’appelant admet qu’il ne l’a pas soulevé devant le juge de la Cour de l’impôt. De toute façon, nous ne sommes pas d’avis que le paragraphe 60.1(3) puisse être interprété comme le voudrait l’appelant. S’agissant de l’ordonnance de 2002, ce paragraphe prescrit clairement que la déduction ne peut être réclamée qu’au cours de l’année ou de l’année d’imposition précédant la date de l’ordonnance de 2002.
+Si l’on applique Anstead en l’espèce, selon le paragraphe 60.1(3) et l’entente de séparation du 10 février 2005, seules sont admissibles les déductions pour l’année d’imposition l’ayant précédé, à savoir 2004.
+Étant donné que l’entente est datée du 10 février 2005, le délai n’est pas respecté pour ce qui est de la déductibilité des versements faits par l’appelante à M. Tuck en 2001.
+J’ai vraiment de la difficulté à répondre à la question de savoir si oui ou non il existe une entente écrite qui s’applique aux déductions de 2001.
+L’entente provisoire du 17 octobre 2003, pièce A‑1, onglet 1, annexe B, ne s’applique pas, du fait de la décision Anstead précitée, c’est-à-dire que, afin d’être admissible en vertu de cette entente, la déduction peut porter seulement sur 2002 et 2003.
+L’entente provisoire du 31 juillet 2002, pièce A‑1, onglet 1, annexe A, ne fait pas mention de la pension alimentaire que l’appelante a versée en 2001 à David Tuck.
+L’affaire toutefois ne s’arrête pas ici. Il a été fait mention du paragraphe 60.1(3) et il faut souligner qu’aux termes de l’article 60, il doit exister une entente écrite ou une ordonnance rendue par un tribunal compétent. En l’espèce, il n’en existe pas, de sorte qu’il ne reste que la question de savoir si oui ou non il existe une entente écrite.
+Dans Foley v. R, [2004] C.T.C. 2016, le juge Bowman, qui était alors juge en chef adjoint, a traité en détail l signification de l’expression « entente écrite ». Il s’agissait de savoir si l’alinéa 60.1(3)b) de la Loi pouvait s’interpréter de façon à désigner une entente signée des deux parties ou bien s’il pouvait s’agir d’un échange de correspondance entre les parties.
+Dans sa décision, le juge Bowman fait référence à Hodson v. M.N.R (1987), 88 D.T.C 6001, dans laquelle la Cour a conclu qu'il devait y avoir un accord écrit ou une ordonnance judiciaire afin de soutenir une déduction en vertu de l'alinéa 60b).
+Il fait ensuite référence à Kapel, K‑A‑P‑E‑L, v. M.N.R. [1979] C.T.C. 2187, qui porte aussi sur l’alinéa 60b). Aucune de ces deux décisions ne peut malheureusement s’appliquer, car elles portent sur l’alinéa 60b) de la Loi, où il s’agit d’entente écrite de séparation.
+Dans Knapp, K‑N‑A‑P‑P, v. M.N.R., [1985]2 C.T.C. 2046, le juge Bowman fait également référence à Kapel, avec les commentaires suivants :
+Dans cette affaire, il n'y avait rien qui pouvait être appelé un accord écrit signé par l'une ou l'autre des parties. L'appelant a soutenu que les chèques signés par le conjoint et les reçus signés par la conjointe constituaient un accord écrit. Un tel argument était de toute évidence voué à l'échec. Le mot « accord » indique à tout le moins une obligation contraignante.
+Après avoir fait référence à diverses autres affaires, le juge Bowman a souligné qu’une entente écrite doit être un document unique, signé des deux parties. Puis il fait état de plusieurs situations qui lui sont venues à l’esprit et conclut qu’il n’est pas d’avis qu’un contrat écrit ou une entente écrite exigent l’apposition physique de la signature des parties. Je rappelle qu’il faisait référence à l’alinéa 60b) de la Loi. Il cite ensuite la définition du terme « écrit » au paragraphe 35(1) de la Loi d’interprétation, de la façon suivante.
+Veuillez m’excuser un instant.
+M. BARTLEMAN : Excusez-moi Monsieur le Juge, auriez-vous l’obligeance de bien vouloir ralentir un peu ?
+M. LE JUGE ROSSITER: D’accord, je vais ralentir.
+M. BARTLEMAN : Je vous remercie.
+M. LE JUGE ROSSITER : Je suppose que j’allais trop vite. Vous devez me le dire, Monsieur Bartleman. Je termine ici et nous poursuivons. D’accord.
+M. BARTLEMAN: Je vous remercie, Monsieur le Juge.
+M. LE JUGE ROSSITER: C’est assez simple. Ce n’est pas compliqué. Il définissait le mot « écrit » selon la Loi d’interprétation.
+« écrit » Mots pouvant être lus, quel que soit leur mode de présentation ou de reproduction, notamment impression, dactylographie, peinture, gravure, lithographie ou photographie.
+Le juge Bowman a dit : « Supposons qu'un conjoint prépare un accord et l'envoie à l'autre en disant : "J'offre de régler nos différends matrimoniaux sur la base du présent accord" et que l'autre conjoint lui répond par écrit "J'accepte". Cela constitue à mon avis une entente ayant force obligatoire et cela est par écrit ». Il a jugé qu’un échange de correspondance constitue une entente écrite au sens de l’alinéa 60b).
+En l’espèce, le versement mensuel de 4200 $ a été reconnu. Ces montants ont été acceptés. Ils ont été versés chaque mois à M. Tuck par l’appelante, par chèque tiré sur son compte bancaire personnel. Les chèques ont été faits à l’ordre de M. Tuck, qui les a bien sûr endossés et déposés dans son compte.
+Il reconnaît les versements faits à partir de 2002 par les ententes provisoires du 31 juillet 2002 et du 17 octobre 2003 et l’entente de séparation du 10 février 2005. Il a reconnu les versements de 2001 par l’entente de séparation du 10 février 2005 et dans sa déclaration de revenus de 2001, a même inclus 18 000 $ des sommes reçues de l’appelante.
+Je n’ai ici aucun échange particulier de correspondance entre les avocats des parties. J’ai une proposition de règlement que l’avocat de l’appelante a adressée à celui de M. Tuck, la réponse de l’avocat de celui-ci qui en substance est d’accord, mais qui refuse la fin fixée au 31 décembre 2004, pour plusieurs raisons. Il comprend toutefois que l’appelante est disposée à négocier de nouveau le montant à la fin de décembre 2004, et il demande à l’autre avocat de lui indiquer si tel est bien le cas.
+Malheureusement, l’avocat de l’appelante n’a pas confirmé cette entente, même si l’appelante a témoigné qu’elle l’avait acceptée pour le 31 décembre 2002. L’entente a finalement été acceptée dans l’entente de séparation du 10 février 2005; une autre entente provisoire a même été signée le 17 octobre 2003, après présentation de la proposition de règlement.
+J’ai également examiné Kerry Donald Grant c. Sa Majesté La Reine, 2000‑2702 (IT)I, qui est semblable à la présente affaire. Il s’agit d’une décision de M. le juge Mogan de la Cour canadienne de l’impôt. Les faits y sont fort semblables, et je pense que deux citations sont très pertinentes pour le cas présent. Le juge Mogan affirme, au paragraphe 9, à la quatrième ligne :
+Par conséquent, si l'appelant doit avoir gain de cause, un accord écrit doit être déduit à partir d'autres documents. Je ne déduirais pas l'existence d'un accord écrit des chèques mensuels (chacun de 1 000 $) que l'appelant a émis à l'ordre de Kathleen en 1997 et que cette dernière a encaissés. Le fait que Kathleen ait accepté et encaissé ces chèques ne signifie pas, en soi, que l'appelant et Kathleen avaient convenu qu'un montant de 1 000 $ par mois constituait une pension alimentaire juste. Kathleen peut avoir encaissé les chèques parce qu'il était pratique pour elle de recevoir une pension alimentaire pour elle-même et les deux plus jeunes enfants, mais elle n'a peut-être pas admis qu'il s'agissait d'un montant adéquat et elle peut avoir constamment demandé que le montant soit plus élevé. Elle n'a pas témoigné, toutefois, et rien dans la preuve n'indique qu'elle contestait le montant mensuel.
+Puis, au paragraphe 10 :
+En réalité, la preuve indique plutôt le contraire. La pièce A-1, une lettre datée du 19 avril 1996 envoyée par l'avocate de Kathleen à celui de l'appelant, parle de « [l']engagement [de l'appelant] à maintenir l'obligation alimentaire à 1 000 $ par mois ». En outre, la pièce A-2, une lettre datée du 21 mai 1996 de l'avocate de Kathleen à celui de l'appelant, se termine par le paragraphe suivant :
+[traduction]
+Ma cliente souhaite également obtenir une augmentation de la pension alimentaire pour enfants, surtout parce que l'accord qui prévoit un versement de 1 000 $ par mois a été conclu à une époque où seuls deux des trois enfants résidaient à la maison, la troisième y étant revenue peu de temps après.
+Et enfin au paragraphe 13, à la cinquième ligne :
+Dans les circonstances de l'espèce, je conclus que les paiements de 1 000 $ par mois effectués par l'appelant tout au long de 1997 ont été versés « aux termes [...] d'un accord écrit » se composant des chèques (chacun de 1 000 $) émis à l'ordre de Kathleen chaque mois, de septembre 1995 jusqu'à la fin de 1997, et de la lettre (pièce A-2) de l'avocate de Kathleen, datée du 21 mai 1996, confirmant l'« accord ». L'appel est admis.
+Je veux à présent faire également référence à la décision du juge E.A. Bowie de la Cour canadienne de l’impôt dans David O'Connor c. Sa Majesté La Reine, 2002‑4586 (IT)I, et à ses commentaires sur l’affaire Grant cités ci-après. Le juge Bowie affirme au paragraphe 9 de l’affaire O'Connor :
+La même question s’est posée dans l’affaire Grant c. Canada. À la suite de sa séparation de son épouse, et avant tout accord écrit ou ordonnance judiciaire, M. Grant a remis chaque mois un chèque de 1 000 $ à son ex-épouse pour subvenir aux besoins de leurs enfants. Le juge Mogan a rejeté la prétention selon laquelle, en encaissant ces chèques, Mme Grant a conclu un accord écrit fixant à 1 000 $ par mois la pension alimentaire qui devait être versée par son mari pour les enfants. Je suis d’accord avec le juge Mogan pour dire que l’encaissement des chèques ne signifie pas qu’un accord a été conclu. Une mère subvenant aux besoins de ses enfants dans de telles circonstances a probablement besoin de l’argent, et l’on peut s’attendre à ce qu’elle encaisse les chèques même si elle estime que le montant n’est pas assez élevé. Dans l’affaire Grant, une lettre ultérieure envoyée par l’avocat de Mme Grant à celui de M. Grant qui faisait mention d’un « accord de recevoir 1 000 $ par mois » a permis au juge Mogan de conclure qu’il existait un accord écrit entre les parties. Or, il n’y a pas de lettre ou de document semblable dans la présente affaire, et la Cour ne peut conclure qu’il existe un accord écrit entre les parties.
+À mon avis, il s’agit en l’espèce de déterminer si oui ou non les chèques associés à d’autres documents et aux faits de l’espèce constituent une entente écrite de versements mensuels réguliers. Chaque chèque a été écrit, signé par l’appelante, puis endossé par David Tuck. Chaque chèque, d’un montant précis, a été fait chaque mois. Pendant plusieurs années, M. Tuck a accepté chacun de ces chèques et l’a employé pour son usage personnel.
+Il semble apparent que l’intention des parties, c’est‑à‑dire l’appelante et son époux, était que le montant soit certainement versé à titre de pension alimentaire. À la fin décembre 2002, seule la durée des paiements n’était pas encore réglée.
+Ainsi que je l’ai déjà établi, il y a eu en l’espèce des chèques personnels réguliers, tirés individuellement tous les mois par l’appelante à l’intention de M. Tuck, qu’il a endossés et employés pour son usage personnel, et, à l’évidence, l’intention des deux parties était que ces montants soient versés à titre de pension alimentaire mensuelle régulière.
+Dans la présente affaire, après que l’avocat de l’appelante eut présenté une offre confirmant fondamentalement les montants mensuels et réguliers, il y a eu une lettre de l’avocat de M. Tuck à celui de l’appelante dans laquelle il confirmait fondamentalement que M. Tuck était d’accord avec les montants réguliers, et qu’il restait seulement le problème de savoir si la durée des versements était limitée.
+La lettre de l’avocat de M. Tuck à celui de l’appelante fait précisément état du montant de 4200 $, le seul problème était la durée, puis il a été suggéré que l’appelante avait accepté la demande de M. Tuck, à savoir que la durée des paiements ne soit pas limitée.
+Est-il juste pour l’intimée de percevoir l’impôt de M. Tuck sur les 18 000 $ qu’il a déclarés à titre de pension alimentaire dans sa T1 de 2001 et pourtant de refuser à l’appelante ne serait-ce que la déduction équivalente pour 2001?
+Je pouvais comprendre au départ les raisons pour lesquelles l’intimée refusait le montant de la déduction, mais après enquête, après présentation des divers documents ici en preuve et après les explications fournies par l’appelante, il est à mon avis tout à fait injuste que l’intimée refuse à celle-ci une déduction de 18 000 $.
+L’intimée avait deux modes d’action possibles. Elle aurait dû soit autoriser l’appelante à déduire 18 000 $, soit l’autoriser à déduire la totalité de tous les versements de pension alimentaire faits en 2001 et établir une nouvelle cotisation pour M. Tuck en 2001. Agir autrement aurait signifié que l’intimée ne traitait pas le contribuable équitablement.
+En l’espèce, l’intimée n’a agi ni dans le premier sens, ni dans l’autre; elle a perçu l’impôt de M. Tuck sur le montant qu’il a déclaré à titre de pension alimentaire, puis a complètement refusé à l’appelante, Mme Tuck, de déduire quoi que ce soit pour les versements qu’elle avait faits à M. Tuck en 2001.
+La Loi de l’impôt sur le revenu n’a certainement pas été conçue de telle sorte que l’intimée profite des erreurs du contribuable, ce qui est exactement ce qui s’est passé en l’espèce.
+L’intention du Parlement n’était certainement pas que la Loi de l’impôt sur le revenu soit interprétée de telle sorte qu’elle profite à l’intimée aux dépens du contribuable.
+Malheureusement, et je dis bien malheureusement, l’interprétation que les tribunaux ont jusqu’à présent donnée des dispositions pertinentes de la Loi de l’impôt sur le revenu est telle qu’elle autorise le ministre à profiter indûment du contribuable, alors que l’intention déclaré de celui-ci est autre.
+Malheureusement, je ne peux trouver dans les faits de l’espèce aucune entente écrite qui pourrait autoriser les déductions que demande l’appelante. Je constate que le ministre a parfois des opinions étroites et intransigeantes, et c’est le cas ici.
+Malheureusement, je n’ai en l’espèce d’autre choix, en me fondant sur les faits et les preuves présentées, l’interprétation donnée et la jurisprudence que j’ai étudiée, que de rejeter l’appel, sans dépens.
+Monsieur Bartleman et Madame Tuck, c’est là ma décision.
+Mme TUCK : Merci.
+M. LE JUGE ROSSITER : Je vous remercie de vos présentations, dont je vous suis obligé. Je vais demander au greffier de lever l’audience.
+LE GREFFIER : L’audience est levée.
+‑‑‑ L’audience est levée à 10 h.
+Traduction certifiée conforme
+ce 19e jour d’octobre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI259
+No DU DOSSIER DE LA COUR : 2006-934(IT)I
+INTITULÉ : ELIZABETH TUCK c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 14 mars 2007
+MOTIFS DU JUGEMENT : L’honorable
+juge E. P. Rossiter
+DATE DU JUGEMENT : Le 14 mars 2007
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Laurent Bartleman
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

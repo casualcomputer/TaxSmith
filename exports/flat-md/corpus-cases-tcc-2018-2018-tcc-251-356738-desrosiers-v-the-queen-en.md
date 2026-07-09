@@ -1,0 +1,192 @@
+---
+title: "Desrosiers v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/356738/index.do"
+last_modified: "2018-12-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 251"
+citation2: ""
+neutral_citation: "2018 TCC 251"
+decision_date: "2018-12-21"
+language: "en"
+item_id: "356738"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4996
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:31:11.796000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "69cc5090d323fd5d89a3ef3f0bfdc5f22ccedf659a6f0151c7abeebaf53db15a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Desrosiers v. The Queen
+
+- Citation: 2018 TCC 251
+- Decision date: 2018-12-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4996, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desrosiers v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-12-21
+Neutral citation
+2018 TCC 251
+File numbers
+2018-1890(IT)G
+Judges and Taxing Officers
+Rommel G. Masse
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-1890(IT)G
+BETWEEN:
+GAËTAN DESROSIERS,
+Appellant
+(Respondent on the Motion),
+and
+HER MAJESTY THE QUEEN,
+Respondent
+(Applicant on the Motion).
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on September 17, 2018, at Miramichi, New Brunswick.
+Before: The Honourable Rommel Masse, Deputy Judge
+Appearances:
+For the Appellant:
+the appellant himself
+Counsel for the Respondent:
+Ms. Dominique Gallant
+JUDGMENT
+The Respondent’s motion pursuant to section 19.1 of the Tax Court of Canada Act, R.S.C. (1985). c. T-2, is granted in accordance with the attached Reasons for Judgment.
+The Appellant is prohibited from commencing any further proceedings before the Tax Court of Canada or from continuing any proceeding already commenced, either on his own behalf or as a representative or agent for other people, without prior leave of the Court.
+The Appellant must pay fees in the amount of $1,000 to the Respondent.
+Signed at Kingston, Canada, this 21st day of December 2018.
+“Rommel G. Masse”
+Masse D.J.
+Translation certified true
+on this 17th day of April 2020.
+François Brunet, Revisor
+Citation: 2018 TCC 251
+Date: 20181221
+Docket: 2018-1890(IT)G
+BETWEEN:
+GAËTAN DESROSIERS,
+Appellant
+(Respondent on the Motion),
+and
+HER MAJESTY THE QUEEN,
+Respondent
+(Applicant on the Motion).
+[OFFICIAL ENGLISH TRANSLATION]
+MODIFIED REASONS FOR JUDGMENT
+Masse D.J.
+[1] Under section 19.1 of the Tax Court of Canada Act, R.S.C. (1985), c. T-2, (the Act) the Court, if satisfied that a person has persistently instituted vexatious proceedings or has conducted a proceeding in a vexatious manner, may order that no further proceedings be instituted by the person in the Court or that a proceeding previously instituted by the person in the Court not be continued, except by leave of the Court.
+[2] Section 19.1 provides as follows:
+(1) If the Court is satisfied, on application, that a person has persistently instituted vexatious proceedings or has conducted a proceeding in a vexatious manner, it may order that no further proceedings be instituted by the person in the Court or that a proceeding previously instituted by the person in the Court not be continued, except by leave of the Court, and may award costs against the person in accordance with the rules of the Court.
+(2) An application under subsection (1) may be made only with the consent of the Attorney General of Canada, who is entitled to be heard on the application and on any application made under subsection (3).
+[3] The Attorney General of Canada consented to this motion as required by subsection 19.1(2) of the Act.
+[4] In this case, the Respondent (the Applicant on the Motion) is seeking an order under section 19.1 of the Act prohibiting Mr. Gaëtan Desrosiers from commencing further proceedings before the Court without its leave. The Applicant is also seeking an order prohibiting Mr. Desrosiers from continuing the current proceeding.
+[5] With respect to the current proceeding, Gaëtan Desrosiers v. The Queen, docket 2018-1890(IT)G, it is already completed. In this case, Mr. Desrosiers had filed a scandalous, frivolous and vexatious notice of appeal. The notice of appeal was an abuse of process of the Court and disclosed no reasonable grounds for appeal. That notice of appeal was the subject of a motion to strike from the Respondent. On September 18, 2018 at Miramichi, New Brunswick, the Court granted the motion to strike the notice of appeal without the possibility of amending it under section 53 of the Tax Court of Canada Rules (General Procedure), SOR/90-688a.
+[6] In this case, the motion record is very large. The record, including the supporting affidavit and all attachments, consists of 320 pages. The affidavit of Ms. Catherine M.G. McIntyre, counsel working for the Department of Justice Canada at the Atlantic Regional Office in Halifax, is dated August 29, 2018 and includes 38 exhibits. Mr. Desrosiers is the author of the vast majority of those documents. Those exhibits consist of pleadings, letters, sworn statements, affidavits, “requisitions”, requests to admit, etc.
+[7] This is not the first time that Mr. Desrosiers has evoked an abuse of process of the Court. He has also interfered in other cases in a vexatious manner. A brief history as revealed in Catherine McIntyre’s affidavit is enough to show that Mr. Desrosiers is a vexatious litigant.
+Gaëtan Desrosiers v. The Queen – docket 2014-3943(IT)G
+[8] In that case, Mr. Desrosiers had filed a 50-page notice of appeal dated July 20, 2014. It is unnecessary to review in detail the various allegations in the notice of appeal. Summarizing some of the allegations is sufficient. The notice of appeal is prolix in the extreme. After reading the notice of appeal, I am unable to identify a reasonable ground for appeal. The notice of appeal lists factual accounts that are completely irrelevant to the assessment under appeal. The allegations are slanderous, frivolous, vexatious, abusive and absolutely scandalous. For example, Mr. Desrosiers alleges that Canada Revenue Agency officials sold information about taxpayers to members of organized crime. He alleges that criminal conspiracies and fraud were committed by the Caisse Populaire and its lawyers. He accuses New Brunswick judges of handing down illegal and fraudulent judgments in a civil suit. He alleges that there was a lack of honesty on the part of the Minister of National Revenue. He accuses the Minister of National Revenue and the Minister of Justice of having run an elaborate legal scam against him. He alleges that officers of the Royal Canadian Mounted Police (“RCMP”) did not do their job properly, unlawfully disclosed wiretaps, and requested and accepted bribes. He attacks the honesty and integrity of lawyers, judges, lending institutions, RCMP officers, and politicians. He accuses lawyers of perjury and breach of their oath of office. He seeks remedies that the Court cannot grant, such as punitive and compensatory damages. He seeks an order requiring the respondent (a) to initiate an investigation on his opponents who are undermining the integrity of New Brunswick’s legal system and (b) to publish in their Royal Gazette the name and a description of the conviction of each person connected with that case who is ultimately found guilty by the Canadian or world court. He asks that the Minister of National Revenue resign.
+[9] The respondent brought a motion to strike the notice of appeal and dismiss the appeal in case 2014-3943(IT)G. Mr. Desrosiers failed to appear at the hearing for that motion, which was held on May 11, 2015 at Miramichi, New Brunswick. Justice Favreau granted the motion to strike and dismissed Mr. Desrosiers’ appeal. However, instead of appealing against Justice Favreau’s decision, Mr. Desrosiers sought to have the judgment overturned, and he filed an application to set aside. On June 30, 2015, Associate Chief Justice Lamarre dismissed the application to set aside Justice Favreau’s judgment. Unfortunately, that was not the end of the matter for Mr. Desrosiers.
+[10] Mr. Desrosiers persistently continued to send the respondent numerous documents such as letters, sworn statements, requests to admit, etc., that can be described as frivolous, vexatious, accusatory and slanderous. Those documents are attached to Catherine McIntyre’s affidavit as exhibits “F” to “T”. In my opinion, that constitutes harassment by Mr. Desrosiers.
+[11] Mr. Desrosiers is refusing to accept Justice Favreau’s decision. However, to date, he has not appealed against Justice Favreau’s decision to the Federal Court of Appeal.
+Émilie Ferron v. The Queen – docket 2016-3513(IT)I
+[12] Mr. Desrosiers also interfered directly or indirectly in at least two other proceedings before this Court.
+[13] In Émilie Ferron v. The Queen, docket 2016–3513(IT)I, Mr. Desrosiers was not registered as representative of record. However, Mr. Gaëtan Desrosiers, who was Ms. Ferron’s financial advisor, is mentioned several times in the pleadings of case 2016-3513(IT)I, and it is obvious that he is the author of a number of documents, including sworn statements and letters. Those documents are vexatious in nature.
+[14] The notice of appeal dated August 23, 2016, alleges that Mr. Desrosiers spent time and money rectifying the professional errors or misconduct of federal public servants in that case and that the Minister of National Revenue Canada failed to act diligently in the administration of her department. The notice of appeal seeks punitive and special damages and other remedies that the Court does not have jurisdiction to grant.
+[15] The appellant, Ms. Ferron, filed an application to strike the respondent’s response dated November 10, 2016. That application was dismissed by Justice Lamarre on December 6, 2016.
+[16] Mr. Desrosiers wrote an affidavit dated December 14, 2016, in support of a motion to amend Justice Lamarre’s order dated December 6, 2016. In that affidavit, he admits that he was the one who wrote the correspondence to the Minister of National Revenue and spoke to the officials. The notice of motion is abusive, scandalous and slanderous.
+[17] On April 15, 2017, the appellant, Ms. Ferron, filed a notice of interlocutory motion to strike the respondent’s submissions and seek damages. It was Mr. Desrosiers who wrote the affidavit in support of that motion. In his affidavit, Mr. Desrosiers alleges that there are dishonest federal officials working in case 2016-3513(IT)I, but does not identify them. He says that those officials are incompetent and are disloyal to the Canada Revenue Agency. He accuses those officials of publicly disclosing the confidential contents of the appellant’s income tax returns. He alleges that the lawyers representing the Minister have hidden agendas in their arguments and that those agendas involve criminal activity.
+[18] The hearing for that interlocutory motion and the hearing for the appeal were conducted on May 3, 2017. On June 1, 2017, Justice Hogan dismissed Ms. Ferron’s appeals, thereby ending that case. Justice Hogan’s judgment was not appealed agsint to the Federal Court of Appeal. That case is now closed.
+[19] Having reviewed all the documents in that record, it is clear that Gaëtan Desrosiers’ guiding hand is involved in almost every stage of that case.
+Pierre-Luc Thériault v. The Queen – docket 2016-3206(IT)I
+[20] In case 2016–3206(IT)I, between Pierre-Luc Thériault and Her Majesty the Queen, Mr. Desrosiers is not registered as a representative, but his name is mentioned in several pleadings, and it is obvious that Mr. Desrosiers wrote the pleadings.
+[21] The notice of appeal mentions Mr. Desrosiers’s name several times. Hence, Mr. Desrosiers has some control over the proceedings. The notice of appeal seeks punitive and exceptional damages, and other remedies that the Court cannot grant.
+[22] Further to an order made by Justice Hogan dated May 18, 2017, the appellant filed an amended notice of appeal dated June 28, 2017. This new notice of appeal, written by Mr. Desrosiers but signed by Mr. Thériault, accuses the Minister of National Revenue of a lack of diligence and accuses the Minister’s officials of a lack of competence by making irrelevant allegations.
+[23] At the time of the hearing for the current motion, that case was still before the court.
+Gaëtan Desrosiers v. The Queen – docket 2018-1890(IT)I
+[24] That record is the current proceeding. In this case, the Notice of Appeal dated May 9, 2018 was filed with the Court on May 16, 2018. That Notice of Appeal is very long and contains 40 pages.
+[25] On July 25, 2018, the Applicant filed a motion to strike the Notice of Appeal under section 53 of the Tax Court of Canada Rules (General Procedure) SOR/90-688a. The Applicant was seeking a Court order for striking the entire Notice of Appeal, without the possibility of amending it. The Applicant's ground was that the Notice of Appeal is (1) scandalous, frivolous or vexatious (2) is an abuse of process of the Court and (3) discloses no reasonable grounds for appeal.
+[26] The hearing for that motion took place before me on September 17 and 18 at Miramichi, New Brunswick. I have determined that the Notice of Appeal does not disclose any facts that, if true, could lead the Court to conclude that the assessments for the 2010, 2011 and 2016 taxation years were wrong. Therefore, the Notice of Appeal does not raise any points at issue for the Court to decide.
+[27] The Notice of Appeal accuses federal officials and lawyers working for the federal government of:
+- dishonesty;
+- incompetence;
+- fraud;
+- lack of respect for the law;
+- breach of trust;
+- dereliction of duty;
+- lack of ethics;
+- having been bribed by criminal organizations; and
+- any number of other criminal offences.
+[28] Those allegations are unduly repetitive, extremely insulting, scandalous, frivolous in the extreme, completely vexatious and absolutely slanderous. Mr. Desrosiers cites rumours and conspiracy theories against the proper operation of Canada’s public service. In addition, the Notice of Appeal brings up other cases that have absolutely nothing to do with the assessments made in respect of Mr. Desrosiers. They involved Émilie Ferron v. The Queen and Pierre-Luc Thériault v. The Queen, which I referred to previously.
+[29] Also, the Notice of Appeal sought a range of remedies that the Court does not have jurisdiction to grant. It sought an internal investigation regarding the so-called dishonest public officials. It sought a criminal law expert to oversee the criminal proceedings against I don’t know whom. This type of application is an abuse of process of the Court.
+[30] At the hearing for the motion, the Court struck the entire Notice of Appeal. The Court had no cause to hope that the Appellant could write a notice of appeal free of these glaring deficiencies, and thus the striking was without possibility of amendment. Therefore, the appeal was dismissed with costs.
+[31] It should be noted that, in response to the motion to strike, Mr. Desrosiers submitted a “requisition” and a “motion for particulars” dated August 8, 2018. The motion for particulars is 22 pages long and contains no requests relevant to the motion to strike.
+Other cases
+[32] Also, Mr. Desrosiers has previously been subject to a prohibition order by the Court of Queen’s Bench of New Brunswick. On March 20, 2003, in case B/M/15/03 between Gaëtan Desrosiers and Lauza Bouthillier, applicants, and the Caisse Populaire ltd. (Saint-Simon service centre) and Mr. Brian G. Paquette, respondents, Justice Roger McIntyre ordered the applicants, including Mr. Desrosiers, to seek leave of the Court before filing any notice of action, notice of motion or notice of application in any case involving a mortgage loan or personal loans that have already been the subject of other litigation. That order was made to prevent abuse of process.
+Conclusion
+[33] In my opinion, Mr. Gaëtan Desrosiers has shown himself to be a vexatious litigant. I am satisfied that Mr. Desrosiers has persistently instituted vexatious proceedings before the Court or acted vexatiously during a proceeding.
+[34] What does “vexatious” mean? Justice Stratas of the Federal Court of Appeal explains the meaning of this word in R. v. Ade Olumide, 2017 FCA 42, where he stated at paragraph 32:
+In defining “vexatious,” it is best not to be precise. Vexatiousness comes in all shapes and sizes. Sometimes it is the number of meritless proceedings and motions or the reassertion of proceedings and motions that have already been determined. Sometimes it is the litigant’s purpose, often revealed by the parties sued, the nature of the allegations against them and the language used. Sometimes it is the manner in which proceedings and motions are prosecuted, such as multiple, needless filings, prolix, incomprehensible or intemperate affidavits and submissions, and the harassment or victimization of opposing parties.
+[35] Justice Stratas is exactly describing Mr. Desrosiers’ behaviour. Mr. Desrosiers commences frivolous, vexatious and slanderous proceedings. His prolix pleadings are an abuse of process of the Court. His pleadings, motions and sworn statements contain many outrageous and irrelevant allegations that have absolutely no basis in fact.
+[36] After reviewing the entire record, it is patently clear that Mr. Desrosiers should be prohibited from commencing any further proceedings before this Court or continuing any proceeding already commenced, either on his own behalf or as a representative or agent for other people, without prior leave of the Court.
+[37] The Respondent’s motion is granted with costs, which I am setting at $1,000.
+Signed at Kingston, Canada, this 21st day of December 2018.
+“Rommel G. Masse”
+Masse D.J.
+Translation certified true
+on this 17th day of April 2020.
+François Brunet, Revisor
+CITATION:
+2018 TCC 251
+COURT FILE NO.:
+2018-1890(IT)G
+STYLE OF CAUSE:
+Gaetan Desrosiers and Her Majesty the Queen
+PLACE OF HEARING:
+Miramichi, New Brunswick
+DATE OF HEARING:
+September 17, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Rommel Masse, Deputy Judge
+DATE OF JUDGMENT:
+December 21, 2018
+APPEARANCES:
+For the Appellant:
+the Appellant himself
+Counsel for the Respondent:
+Ms. Dominique Gallant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+[BLANK]
+Firm:
+[BLANK]
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

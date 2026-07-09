@@ -1,0 +1,200 @@
+---
+title: "Foley v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/517269/index.do"
+last_modified: "2021-12-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 TCC 92"
+citation2: ""
+neutral_citation: "2021 TCC 92"
+decision_date: "2021-12-02"
+language: "en"
+item_id: "517269"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4424
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:17:28.026000+00:00"
+cases_cited_count: 12
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c8e6ccb5088d46550eb3e2972d52c543a81e5fd3282f28ff6bb8acb61f6970d8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Foley v. The Queen
+
+- Citation: 2021 TCC 92
+- Decision date: 2021-12-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4424, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Foley v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-12-02
+Neutral citation
+2021 TCC 92
+File numbers
+2019-2111(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-2111(IT)I
+BETWEEN:
+MARK G. FOLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 1, 2021, at Halifax, Nova Scotia
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Edward R. Sawa
+Shani B. Frugtniet
+Counsel for the Respondent:
+Devon E. Peavoy
+JUDGMENT
+The Appellant’s appeal with respect to his 2017 taxation year is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 2nd day of December 2021.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2021 TCC 92
+Date: 20211202
+Docket: 2019-2111(IT)I
+BETWEEN:
+MARK G. FOLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. OVERVIEW
+[1] The Appellant claimed a tax credit (the “Adoption Tax Credit” or “AETC”) under section 118.01 of the Income Tax Act, Canada (the “ITA”) for expenses incurred with respect to a gestational surrogacy arrangement (the “Surrogacy Arrangement”) entered into in the circumstances described below.
+[2] The Appellant acknowledges that the expenses claimed by him do not qualify under the terms of the AETC. However, the Appellant argues that he is entitled to the benefit because the provision infringes upon his equality rights under section 15 of the Canadian Charter of Rights and Freedoms (the “Charter”). The remedy that the Appellant seeks with respect to this alleged violation is an expansion of the AETC to cover the expenses that he has claimed.
+[3] For the reasons that follow, I am of the opinion that the AETC does not infringe upon the Appellant’s equality rights under the Charter. Accordingly, his appeal is dismissed.
+II. FACTS
+[4] The facts in this appeal are not in dispute. A brief summary of the facts suffice for the purpose of this matter.
+[5] The Appellant and his spouse first registered with Surrogacy in Canada Online (“SCO”) on July 10, 2017. A short time thereafter the couple entered into the Surrogacy Arrangement with a woman who acted as the gestational surrogate of the Appellant’s child who was created as an embryo by the Appellant and his wife. After the birth of their child, the Appellant and his spouse confirmed their parentage by way of a declaratory order pursuant to the Vital Statistics Act. [1] In the Appellant’s written and oral submissions he is described as a surrogate parent. I will use this term throughout to distinguish the Appellant’s parent/child relationship from that established by adoptive parents.
+[6] In filing his income tax return for the 2017 year, the Appellant claimed the following amounts under the AETC:
+Type of Expense
+Amount
+Surrogacy in Canada Online referral and support fees
+$6,497.00
+Independent legal advice provided to surrogate mother with respect to gestational surrogacy arrangement
+$1,695.00
+Legal fees for preparation of gestational surrogacy agreement
+$2,116.00
+Total expenses claimed under AETC
+$10,308.00
+[7] The Minister of National Revenue denied the AETC because the expenses were not “eligible adoption expenses” as defined in section 118.01 of the ITA. First, SCO was not a licensed provincial or territorial adoption agency. Therefore the amount of $6,497 could not be an eligible expense under paragraph 118.01(1)(a) of the ITA. Similarly, the amount of $3,811 in legal fees was not incurred with respect to an adoption order as provided for in paragraph 118.01(1)(b) of the definition of “eligible adoption expenses”.
+III. POSITION OF THE PARTIES
+[8] The Appellant claims that he, as a surrogate parent, is a member of a distinct group whose members have suffered disadvantages by virtue of how they establish their parent/child relationship. Accordingly, this constitutes an analogous ground to the enumerated grounds protected against discrimination under section 15 of the Charter.
+[9] The Appellant contends that the ITA discriminates against surrogate parents because it denies them deductions allowed to adoptive parents. The fees paid to a surrogacy agency and the legal and administrative expenses related to a surrogacy are not deductible when those same fees would be deductible for an adoption. According to the Appellant, by excluding surrogacy expenses from the AETC, the AETC infringes upon section 15 because the exclusion of surrogacy-related expenses perpetuates or exacerbates disadvantages suffered by surrogate parents by virtue of their status.
+[10] Unsurprisingly, the Respondent defends the contrary view. The Respondent contends that the evidentiary record is practically non-existent as to the context of the Appellant’s claim. As a result, it has not been established that the Appellant’s family status as a surrogate parent is based on an analogous ground for the purpose of section 15. This is fatal to the Appellant’s claim.
+[11] The Respondent also claims that the objective of the AETC is to encourage the domestic and international adoption of children who are deprived of stable parental relationships. Such children suffer many disadvantages because of their situation.
+[12] The AETC encourages adoptions by offering a tax savings for expenses incurred in connection with the act of adoption. The AETC excludes surrogacy expenses because the inclusion of such expenses would be inconsistent with the objective of this particular tax incentive.
+[13] According to the Respondent, the AETC does not discriminate directly because no one can claim the AETC in respect of surrogacy expenses. Equally, the AETC does not discriminate indirectly because the exclusion of surrogacy expenses is consistent with the scheme and purpose of the AETC. Therefore, Parliament’s choice to limit the AETC to adoption-related expenses does not perpetuate any preexisting prejudice or disadvantage of the Appellant within the meaning of subsection 1 of the Charter.
+[14] Finally, the Respondent observes that subsection 15(2) of the Charter allows Parliament to establish ameliorative programs designed to improve the situation of disadvantaged groups. The AETC serves this purpose because it was designed to encourage domestic and international adoptions of vulnerable children who do not benefit from stable parental relationships. These children suffer many other disadvantages because of their vulnerable situation. They are disadvantaged compared with children born under surrogacy relationships, who join a family upon birth.
+IV. RELEVANT LEGISLATION
+[15] The AETC was added to the ITA in 2006. [2]
+[16] The AETC for the 2017 taxation year provides for a non-refundable tax credit of 15% of “eligible adoption expenses” subject to a maximum of $15,670.00.
+[17] Section 15 of the Charter reads as follows:
+15(1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+(2) Section (1) does not preclude any law, program or activity that has as its object the amelioration of conditions of disadvantaged individuals or groups including those that are disadvantaged because of race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+[18] It is well established that a two-step analysis is mandated under subsection 15(1) of the Charter. In the context of this appeal, under the first part, the evidence must show that the Appellant, as a surrogate parent, is a member of a distinct group whose members have suffered disadvantages in establishing and formalizing their parent/child relationships. In other words, the Appellant must demonstrate that the AETC creates a distinction based on a ground that is analogous to the grounds enumerated under subsection 15(1). Second, assuming that this is the case, does the exclusion of surrogacy-related expenses from the AETC perpetuate or exacerbate the disadvantages that surrogate parents suffer under the law? [3]
+[19] If the first part is established, I must also consider whether the AETC constitutes an ameliorative program for the purpose of subsection 15(2) of the Charter. Should the AETC satisfy subsection 15(2), the Appellant’s claim will fail without needing to consider the second step. [4]
+V. ANALYSIS
+[20] As a preliminary observation, I note that hearing an appeal under the informal procedure is not an ideal forum to determine a complex Charter matter. The informal procedure is designed to promote access to justice through an expeditious process that takes into account the small amount of tax at issue. The informal procedure does this by eliminating the costly pre-trial steps applicable to general procedure appeals. This allows informal appeals to be heard and decided on an expeditious basis. The rules of evidence are relaxed to facilitate self‑representation. The trade‑off is that informal decisions lack precedential value.
+[21] While the Appellant’s counsel has in her oral and written submissions provided a brief overview of how surrogate parents are treated differently than adoptive parents under provincial law, she has not provided me with much to consider as to the historical, political and legal context in which such distinctions have been made. In fact, the evidentiary record is particularly non-existent on these points. Therefore, I am of the opinion that it has not been established that the Appellant’s claim is justified based on analogous grounds for the purpose of subsection 15(1) of the Charter. This is sufficient for me to dismiss the Appellant’s appeal.
+[22] If I am wrong on this first point, I believe that the Appellant’s claim also fails because limiting the AETC to adoption-related expenses does not perpetuate or exacerbate any preexisting disadvantage or prejudice within the meaning of section 15 of the Charter.
+[23] While the evidentiary record is sparse, case law establishes, however, that I may take judicial notice of social conditions if they are not the subject of reasonable dispute for the purpose of which they are used. [5]
+[24] In this regard, it is common knowledge that vulnerable children are placed for adoption in situations where proper parental care is impossible. Having faced many disadvantages in this regard, children placed for adoption may remain in public care for long periods. This exacerbates their ability to build meaningful emotional attachments. Simply put, children placed for adoption are disadvantaged by their condition. Children born under surrogacy arrangements do not face similar hardships. They have parents waiting for them from conception and join a family upon birth. [6]
+[25] I suggested to counsel for the Appellant during her oral submissions that Parliament enacted the AETC to encourage domestic and international adoptions. This is done by providing a tax subsidy for “eligible adoption expenses”.
+[26] Counsel for the Appellant acknowledged that the AETC was enacted in part to encourage adoptions. However, she contends that this was not the only reason why the AETC was enacted.
+[27] In support of her contention, counsel relies on a statement in a budget document that accompanies the introduction of the legislative text of the AETC to Parliament. The statement refers to the fact that adoptive parents incur “unique costs” in establishing parent/child relationships through adoption. Counsel contends that surrogate parents incur similar unique costs and, therefore, Parliament has discriminated against surrogate parents based on their particular family status in tailoring the AETC to cover only adoption-related expenses.
+[28] It is a well-accepted principle of statutory interpretation that one should start by examining the provision itself to determine its rationale or purpose. Extrinsic aids are a secondary source to be considered to resolve ambiguities or to determine the rationale or the purpose of a provision. [7] Many different things are stated by officials or parliamentarians to promote the adoption or expansion of a tax incentive. That is why one must proceed with caution when considering extrinsic aids. Examining what a provision does or does not do is a better way to determine its intent and purpose. This approach is often very instructive.
+[29] The ITA provides for numerous tax incentives that are meant to encourage actions or activities that Parliament wishes to encourage because such actions or activities are perceived to be of social good or beneficial to society as a whole. This is particularly true for tax credits that are tailored to cover expenses incurred in connection with the type of actions or activities that Parliament seeks to promote. Tax credits incentivize activities or actions undertaken by taxpayers by focusing on expenses that they incur in connection therewith. Expenses that are not incurred for the favoured objective are excluded because they are inconsistent with the specific purpose of the incentive.
+[30] In my opinion, the AETC does not distinguish between adoptive parents and surrogate parents based on their family status. Rather, the Appellant is denied the benefit of the AETC because his child was not adopted and the expenses he seeks to claim were not incurred in connection with an adoption. The AETC was tailored to cover adoption expenses because Parliament simply wanted to encourage domestic and international adoptions in the interest of vulnerable children. In this context, the inclusion of surrogacy expenses under the AETC, as requested by the Appellant, is inconsistent with the raison d’être of the AETC designed to promote adoptions.
+[31] Considering all of the above, I believe that the AETC does not infringe on section 15 for the reasons noted in Ali v R [8] as follows:
+[11] As averted to above, I am of the view that in addressing the subsection 15(1) issue, it was not necessary for the Tax Court Judge to undertake the Law analysis as she did, and I expressly refrain from commenting upon her analysis.
+[12] In my view, this is a case in which the subsection 15(1) issue can be addressed in a simpler manner. In Auton, the Supreme Court of Canada held that subsection 15(1) of the Charter will not be infringed where the benefit that is sought is not one that is provided by the law that is being challenged. In the present case, the benefit claimed by the appellants is the METC in respect of the cost of Dietary Supplements that are purchased “off the shelf”. That is what they claimed in their tax returns and it is the entitlement to that claim that they sought to establish in their notices of appeal to the Tax Court of Canada. In Ray, this Court confirmed that such a benefit is not one that is provided by paragraph 118.2(2)(n) of the ITA. How then can it be discriminatory to deny the appellants a benefit (the METC in respect of the cost of “off the shelf” drugs) that no one gets?
+[13] The appellants wish to have the scope of the METC extended to cover “off the shelf” drugs but Parliament has not chosen to do so. In this regard, the words of Chief Justice McLachlin in paragraph 41 of Auton, are apposite:
+41 It is not open to Parliament or a legislature to enact a law whose policy objectives and provisions single out a disadvantaged group for inferior treatment; Corbiere v. Canada (Minister of Indian and Northern Affairs), [1999] 2 S.C.R. 203. On the other hand, a legislative choice not to accord a particular benefit absent demonstration of discriminatory purpose, policy or effect does not offend this principle and does not give rise to s. 15(1) review. This Court has repeatedly held that the legislature is under no obligation to create a particular benefit. It is free to target the social programs it wishes to fund as a matter of public policy, provided the benefit itself is not conferred in a discriminatory manner: Granovsky v. Canada (Minister of Employment and Immigration), [2000] 1 S.C.R. 703, 2000 SCC 28, at para. 61; Nova Scotia (Attorney General) v. Walsh, [2002] 4 S.C.R. 325, 2002 SCC 83, at para. 55; Hodge, supra, at para. 16. [Emphasis added.]
+[14] It is apparent from the passage in Auton that a legislative choice to accord a particular benefit under the legislation under consideration can potentially give rise to a valid claim that subsection 15(1) of the Charter has been infringed. Paragraph 42 of Auton informs that such an infringement can arise if the legislation discriminates directly, by adopting a discriminatory policy, or indirectly, by effect. With respect to the more difficult issue of discrimination by effect, the Supreme Court of Canada stated, in that paragraph, that the non‑inclusion of a benefit is unlikely to be discriminatory if that non‑inclusion is consistent with the purpose and scheme of the relevant legislation.
+[15] With respect to the matter of direct discrimination, the definition of medical expenses in subsection 118.2(2) of the ITA does not explicitly exclude the cost of Dietary Supplements. Moreover, nothing in the provisions of the ITA dealing with the METC points to the express adoption by Parliament of a discriminatory policy with respect to the non-availability of the METC in relation to the cost of Dietary Supplements. Accordingly, I conclude that the legislative choice not to extend the METC to include the cost of Dietary Supplements in the definition of medical expenses in subsection 118.2(2) of the ITA does not constitute direct discrimination.
+[16] The matter of discrimination by effect requires a consideration of whether the non-inclusion of a particular benefit is consistent with the purpose and scheme of the impugned legislation. In Auton, Chief Justice McLachlin determined that the non-inclusion of the benefit that was sought was consistent with a legislative scheme that did not purport to be comprehensive, stating at paragraph 43:
+43 The legislative scheme in the case at bar, namely the CHA and the MPA, does not have as its purpose the meeting of all medical needs. As discussed, its only promise is to provide full funding for core services, defined as physician-delivered services. Beyond this, the provinces may, within their discretion, offer specified non-core services. It is, by its very terms, a partial health plan. It follows that exclusion of particular non‑core services cannot, without more, be viewed as an adverse distinction based on an enumerated ground. Rather, it is an anticipated feature of the legislative scheme. It follows that one cannot infer from the fact of exclusion of ABA/IBI therapy for autistic children from non-core benefits that this amounts to discrimination. There is no discrimination by effect.
+[17] With respect to the legislative scheme at issue in this case, the definition of “medical expense” in subsection 118.2(2) of the ITA contains an enumeration of the specific types of costs that are eligible for the METC. This indicates a legislative purpose of limiting the availability of the METC to a specific list of items. Paragraph 118.2(2)(n) of the ITA exemplifies this purpose by drawing a line between items that meet the “recorded by a pharmacist” requirement and those that do not. Thus, paragraph 118.2(2)(n) of the ITA is fully consistent with the purpose and scheme of the METC legislation which is to only provide the METC in respect of specifically enumerated types of medical expenses and not with respect to all types of medical expenses. [9]
+[Emphasis added.]
+[32] It is clear that the AETC creates a differential treatment by allowing a tax savings for “eligible adoption expenses” and not for surrogacy expenses. That point is not contested by the parties. The issue, however, is whether this small tax disadvantage is discriminatory in the sense that it perpetuates the view that surrogate parents are less worthy of recognition or value as a member of Canadian society. In my opinion, the AETC does not promote prejudice or stereotyping of such nature. The only impression that the provision creates is that domestic and international adoptions should be encouraged, as a social policy, in the interest of vulnerable children.
+[33] Considering all of the above, I can also dispose of this matter on the grounds that the AETC does not discriminate against the Appellant in its design or application based on his family status as a surrogate parent. Therefore, I will refrain from considering the Appellant’s section 15 submissions further.
+[34] As a final observation, I am of the opinion that subsection 15(2) of the Charter allows Parliament to enact ameliorative programs like the AETC for the purpose of incentivizing the adoption of children, who often suffer from prolonged waiting periods before they are adopted for the reasons noted by the Respondent in her written submissions on this point. Subsection 15(2) allows Parliament to create ameliorative programs for a specific disadvantaged group without being paralyzed by the necessity to expand that benefit to others (including those who suffer from similar disadvantages). [10] Accordingly, in the event the AETC does create a distinction on an analogous ground, the distinction is not discriminatory because the AETC has an ameliorative purpose that specifically targets a disadvantaged group identified by the analogous ground. [11]
+[35] For all of these reasons, the Appellant’s appeal is dismissed.
+Signed at Ottawa, Canada, this 2nd day of December 2021.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2021 TCC 92
+COURT FILE NO.:
+2019-2111(IT)I
+STYLE OF CAUSE:
+MARK G. FOLEY v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+November 1, 2021
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+December 2, 2021
+APPEARANCES:
+Counsel for the Appellant:
+Edward R. Sawa
+Shani B. Frugtniet
+Counsel for the Respondent:
+Devon E. Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Edward R. Sawa
+Firm:
+BOYNECLARKE LLP
+99 Wyse Road, Suite 600
+Dartmouth, Nova Scotia B3A 4S5
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Vital Statistics Act, RSNS 1989, c 494.
+[2] Budget Implementation Act, 2006, SC 2006, c 4, s 61(1).
+[3] Quebec (Attorney General) v A, 2013 SCC 5 at paras 185‑186 [Quebec v A]; Law v Canada (Minister of Employment and Immigration), [1999] 1 SCR 497 at para 88, [1999] SCJ No 12 (QL) [Law]; Fraser v Canada (Attorney General), 2020 SCC 28 at para 27 [Fraser]; R v Kapp, 2008 SCC 41 at para 17 [Kapp]; Withler v Canada (Attorney General), 2011 SCC 12 at paras 33‑34; Kahkewistahaw First Nation v Taypotat, 2015 SCC 30 at paras 19‑20.
+[4] Kapp, supra note 3 at paras 40‑41.
+[5] Quebec v A, supra note 3 at para 237; Law, supra note 3 at para 77; Fraser, supra note 3 at para 57.
+[6] House of Commons Standing Committee on Finance, 41st Parl, 1st Sess, No 122 (21 May 2013) at 0845 (Laura Eggertson); Debates of the Senate, 41st Parl, 1st Sess, Vol 150 No 178 (20 June 2013) at 1420 (Hon. Catherine S Callbeck).
+[7] Professional Institute of the Public Service of Canada v Canada (Attorney General), 2012 SCC 71 at para 95, citing Bell ExpressVu Limited Partnership v Rex, 2002 SCC 42 at para 29; Canadian National Railway Co v Canada (Attorney General), 2014 SCC 40 at para 47.
+[8] Ali v R, 2008 FCA 190.
+[9] Ibid at paras 11‑17.
+[10] Alberta (Aboriginal Affairs and Northern Development) v Cunningham, 2011 SCC 37 at para 41.
+[11] Kapp, supra note 3 at paras 40‑41.

@@ -1,0 +1,206 @@
+Title: Burlington Resources Finance Company v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31246/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-231-31246-burlington-resources-finance-company-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-07-17
+
+# Burlington Resources Finance Company v. The Queen
+
+- Citation: 2013 TCC 231
+- Decision date: 2013-07-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5150, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burlington Resources Finance Company v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-07-17
+Neutral citation
+2013 TCC 231
+File numbers
+2012-2683(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2683(IT)G
+BETWEEN:
+BURLINGTON RESOURCES FINANCE COMPANY,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+____________________________________________________________________
+Motions heard on April 30, 2013, at Calgary, Alberta.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the appellant:
+Martha MacDonald
+Al Meghji
+Brynne Harding (student at law)
+Counsel for the respondent:
+Naomi Goldstein
+Erin Strashin
+Thang Trieu
+____________________________________________________________________
+ORDER
+Upon motion by the respondent for an order allowing her to file an amended reply;
+The motion is granted in accordance with the attached reasons for order.
+Upon motion by the appellant to strike the amended reply or, in the alternative, to order the respondent to provide particulars;
+The motion to strike is granted in part and the respondent is granted leave to serve and file within 60 days of this order a further amended reply addressing the deficiencies noted in my reasons for this order. The appellant may serve and file an answer within 60 days of the filing of the further amended reply.
+Costs of the motions shall be in the cause.
+Signed at Magog, Québec, this 17th day of July 2013.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2013 TCC 231
+Date: 20130717
+Docket: 2012-2683(IT)G
+BETWEEN:
+BURLINGTON RESOURCES FINANCE COMPANY,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+REASONS FOR ORDER
+Hogan J.
+I Overview
+[1] In 2001 and 2002, Burlington Resources Finance Company (the “appellant” or “BRFC”), a Nova Scotia unlimited liability company (“NSULC”), borrowed approximately US $3 billion by issuing seven bonds (the “Notes”) guaranteed by Burlington Resources Inc. (“BRI”), its parent corporation. BRI was incorporated and resident in the United States. The appellant then loaned the funds to affiliated entities in Canada. During its 2002 to 2005 taxation years, the appellant paid approximately $83 million in guarantee fees to BRI (the “Guarantee Fees”).
+[2] The Minister of National Revenue (the “Minister”) reassessed the appellant, disallowing deductions for the Guarantee Fees and certain financing expenses incurred by the appellant in issuing the Notes (the “Financing Costs”).
+[3] On April 30, 2013, each party brought a motion. The respondent seeks permission to file an amended reply (the “Amended Reply”). The appellant asks this Court to strike the Amended Reply or, in the alternative, to order the respondent to provide additional particulars.
+[4] For the reasons that follow, the respondent’s motion for permission to file the Amended Reply is allowed. The appellant’s motion to strike the Amended Reply is also allowed. However, the respondent is granted leave to file, within 60 days of this order, a further amended reply within 60 days of this order, addressing the deficiencies discussed below. The appellant may serve and file an answer within 60 days of the respondent’s serving and filing a further amended reply. Costs shall be in the cause.
+II Factual Background
+[5] The appellant is an NSULC resident in Canada. BRI, its US parent, owns 100% of its shares, along with the shares of several other corporations in Canada (the “Sister Corporations”).
+[6] During 2001 and 2002, the appellant issued the Notes to arm’s length parties, raising approximately US $3 billion. As a result, the appellant incurred two types of costs. During its 2001 taxation year, the appellant incurred the Financing Costs, which included underwriter’s fees, legal and accounting fees, and fees payable to the Securities and Exchange Commission. During its 2002 to 2005 taxation years, the appellant incurred the Guarantee Fees. According to the appellant, it incurred the Guarantee Fees in exchange for BRI’s full and unconditional guarantee of the principal and any premium and interest on each of the Notes.
+[7] The appellant, BRI and the Sister Corporations also issued inter-company promissory notes and entered into forward purchase agreements and swap agreements (the “Hybrid Instruments”) whereby the appellant loaned the proceeds of the Notes to the Sister Corporations. According to the respondent, the Hybrid Instruments ensured that the appellant would be able to make payments due under the Notes. The Sister Corporations used the proceeds for general corporation purposes, including repaying existing debts and facilitating acquisitions of oil and gas assets.
+[8] In calculating its taxable income for its 2002 to 2005 taxation years, the appellant deducted the Guarantee Fees and the Financing Costs as follows: pursuant to section 9 of the Income Tax Act (the “ITA”), the appellant deducted the annual Guarantee Fees payable to BRI in each of those taxation years, the total annual deductions claimed for Guarantee Fees being $23,156,153 for 2002, $21,952,025 for 2003, $19,590,771 for 2004, and $18,118,688 for 2005; and pursuant to paragraph 20(1)(e) of the ITA, the appellant deducted 20% of the total Financing Costs for each of those taxation years.
+[9] In 2011, the Minister reassessed the appellant, denying those deductions and levying transfer pricing penalties against the appellant.
+[10] In denying the deductions for the Guarantee Fees, the Minister relied on paragraphs 247(2)(a) and (c) of the ITA, claiming that the terms or conditions of the arrangement between the appellant and BRI in respect of the Guarantee Fees were not terms or conditions that would have existed between arm’s length parties. The respondent also invokes paragraphs 247(b) and (d) of the ITA in her reply, arguing that the series of transactions giving rise to the Guarantee Fees would not have been entered into between arm’s length persons and can reasonably be considered not to have been entered into primarily for bona fide purposes other than to obtain a tax benefit.
+[11] In denying the deductions for the Financing Costs, the Minister relied on section 67 and paragraph 18(1)(a) of the ITA, maintaining that the expenses deducted were not reasonable and were not incurred for the purpose of earning income from the appellant’s business.
+[12] The appellant filed a notice of appeal (the “Notice of Appeal”) objecting to the reassessments. In response, the respondent filed a reply (the “Reply”).
+[13] On April 10, 2013, the appellant filed an amended notice of motion indicating that it would bring a motion asking this Court to strike the Reply and allow its appeal on the basis that none of the arguments pleaded by the respondent had a reasonable prospect of success or, in the alternative, asking this Court to strike the Reply with leave to file an amended reply within 15 days of the order or, in the further alternative, asking this Court to order the respondent to deliver further and better particulars in response to the appellant’s demand for particulars served on the respondent on November 14, 2012.
+[14] On April 19, 2013, the respondent served the appellant with the Amended Reply. The Amended Reply differs from the original Reply in two material respects. First, the respondent no longer contests the deductions for the Financing Costs. Second, the respondent added assumptions regarding the facts concerning the series of transactions at issue and the transfer pricing penalties assessed.
+[15] The appellant offered to accept the filing of the Amended Reply, subject to two conditions: (i) that the appellant’s forthcoming motion to strike the Reply be directed instead against the Amended Reply; and (ii) that the respondent pay costs in the amount of $5000. The respondent rejected this offer.
+[16] On April 30, 2013, each party brought a motion. The respondent seeks to file its Amended Reply while the appellant asks this Court to strike the Amended Reply and allow its appeal. In the alternative, the appellant asks this Court to strike the Amended Reply with leave to file a further amended reply. In the further alternative, the appellant seeks further and better particulars in response to a demand for particulars previously served on the respondent. I will consider each motion in turn.
+III Respondent’s Motion to File the Amended Reply
+[17] The appellant argues that the Amended Reply contains the same defects as the Reply. However, the appellant accepts that the respondent’s motion to file the Amended Reply should be allowed for the limited purpose of allowing the appellant’s motion to be directed against the Amended Reply. The appellant seeks costs in the amount of $5000 for accepting the Amended Reply. In light of the appellant’s position, I allow the respondent’s motion to file the Amended Reply such that the appellant’s motion to strike will be directed against the Amended Reply.
+IV Appellant’s Motion to Strike the Amended Reply
+[18] As stated above, the appellant asks this Court to strike the Amended Reply and allow the appeal with costs. In the alternative, the appellant asks this Court to strike the Amended Reply with leave to file a further Amended Reply. In the further alternative, the appellant asks this Court to order the respondent to provide further and better particulars in response to the appellant’s demand for particulars. The appellant also seeks an extension of time to file an answer to the Amended Reply, if necessary. The following is a summary of the parties’ submissions.
+A. Appellant’s Submissions on the Motion to Strike
+[19] At paragraphs 4 to 11 of its written submissions, the appellant summarizes its arguments as follows:
+In the appeal of the assessments to this Court, the Crown’s proposed Amended Reply (the “Amended Reply”) begins by challenging BRFC’s contention that the question under section 247 is the arm’s length price of the guarantee, and says that the question is the arm’s length price of the guarantee fee. In other words, the Amended Reply describes the question under section 247 as being the price of the consideration paid by BRFC for the guarantee, and not the price of the guarantee itself. The whole of the Amended Reply – including the alleged assumptions of fact, other material facts, the issues to be decided and the grounds relied on – are designed to show that the price of the “charges” was not arm’s length.
+BRFC says the Crown’s “price of the charges” theory is so nonsensical, illogical and utterly unfounded in the relevant statutory provisions that it has no reasonable prospect of success. The Amended Reply should therefore be struck and BRFC’s appeal allowed.
+The “price of the charges” theory becomes even more confusing and untenable because the Crown says it has “no knowledge” of the guarantee, or whether the fee in issue was paid as consideration for that guarantee. Instead, the Crown alleges that the guarantee fees were simply “charges” paid by BRFC to BRI. Therefore, the Crown says the legal question to be decided is the arm’s length price of certain “charges” – which are apparently unrelated to any guarantee – and urges upon the Court the conclusion that those charges should be disallowed under section 247. Again, there is no reasonable prospect of a properly-instructed trial judge upholding the assessments on this theory and the Amended Reply should therefore be struck.
+Even if the Court permitted the Crown to amend its pleading to replace the “price of the charges” theory with the obviously correct question of the “price of the guarantee,” the facts assumed by the Minister and adopted by the Crown are fatal to the Crown’s case. In the Amended Reply, the Crown admits that BRFC would be unable to borrow money without the guarantee; that BRFC would not be able to obtain an investment-worthy credit rating without the guarantee; that an arm’s length lender would require an unconditional guarantee; and that the fee an arm’s length party would require to guarantee BRFC’s debt would have been “exorbitant.” These admissions conclusively demonstrate that the guarantee had several bona fide business purposes, and that the annual fee was less than an arm’s length party would charge. These admissions demolish the assessments and are dispositive of a properly-framed case.
+Should this Court conclude that the Crown’s “price of the charges” theory is tenable – in the sense that it has a reasonable prospect of success despite the facts assumed by the Minister and adopted by the Crown – BRFC nonetheless says that the Amended Reply should be struck (but with leave to amend). The Amended Reply is so utterly vague, confusing and riddled with internal contradictions and inconsistencies and not compliant with the Rules that the matter cannot proceed to the next stage until the Crown clearly and precisely lays out its case. Otherwise, the litigation will be unfair, unfocused, disorganized, lengthy and expensive.
+BRFC sought to obtain clarification of the Crown’s case, and potentially avoid this motion, by serving a demand for particulars. If there was any doubt that the vagueness and obfuscation in the Amended Reply is attributable more to design than accident, the Crown’s response to the particulars confirms it. The Crown’s response demonstrates that it has no intention or interest in clearly laying out its case. The very purpose of pleadings is to force parties to clearly articulate their cases so that the pre-trial process is fair and efficient. BRFC says the Crown’s Amended Reply does not come close to meeting the minimally acceptable standard for a proper reply and the Crown’s adamant refusal to provide any particulars about material facts in the Amended Reply justifies striking it.
+There is yet another further and serious reason to strike the Crown’s Amended Reply. The record demonstrates beyond any doubt that the Minister clearly and unequivocally concluded that BRI had provided an unconditional guarantee and that the 50 basis points paid by BRFC was consideration for that guarantee and that the issue is the arm’s length price of the guarantee. These assumptions of fact directly contradict the Crown’s “price of the charges theory” and its central proposition that the amounts in issue are simply “charges” unrelated to any guarantee. The Crown has chosen not to plead those findings and assumptions in the Amended Reply. The power to plead assumptions provides the Crown with an enormous advantage in tax litigation and along with this power comes the obligation to plead assumptions completely and accurately. It is for this reason that the Court has been uncompromising in its insistence that the Crown has a high ethical obligation to fully and accurately plead all assumptions of fact including those that favour the taxpayer. BRFC says the failure to plead these assumptions is a ground to strike the Reply with leave to file an amended pleading that fully and accurately pleads the basis of the assessment and the assumptions.
+Should this Court decline to strike the Amended Reply for any of the above described reasons, BRFC requests in the further alternative that the Crown be directed to provide requested particulars of imprecise or confusing allegations, and that the Court grant BRFC an extension of time to file any Answer.[1]
+B Respondent’s Position on Motion to Strike
+[20] At paragraphs 34 to 36 and 38 to 41 of her written submissions, the respondent argues as follows:
+An arm’s length party, before agreeing to pay a guarantee fee, standing in the shoes of the appellant, would consider circumstances such as its ability to repay the debt; its risk of default; its ability to prevent default; the control it has over servicing the debt, and other benefits/burdens.
+The parent structured the appellant without sufficient assets for or the ability to bear the risks of operating as a finance company; made all the significant decisions regarding the notes, including repayment; and could dictate capitalization, the terms of the debt offerings, and the repayment of the debt (i.e. could cause the appellant to default). The unlimited liability status of the appellant made the parent ultimately liable for the unsatisfied debts. The hybrid instruments directly affected the rights and obligations as between the appellant and the parent with respect to the outstanding debt.
+It is far from plain and obvious that an arm’s length party, standing in the shoes of the appellant, would agree to pay the parent any fee under such circumstances.
+. . .
+The question remains, at least for the purposes of subsection 247(2), what the appropriate transfer price of the guarantee ought to be.
+. . .
+An assessment is the determination, of the amount of a person’s tax liability. The Minister makes assumptions of fact in determining that tax liability. These assumptions may be made over the course of the assessment process. They are to be pleaded accurately so that the taxpayer knows exactly the case and the burden that has to be met on an appeal of the assessment.
+The purpose of pleadings and the applicable principles were set out in Zelinski by Bowie J:[2]
+The purpose of pleadings is to define the issues in dispute between the parties for the purposes of production, discovery and trial. What is required of a party pleading is to set forth a concise statement of the material facts upon which she relies. Material facts are those facts which, if established at the trial, will tend to show that the party pleading is entitled to the relief sought. . .
+The respondent has satisfied the requirements of pleading and supplemented the facts in the reply with the particulars. The appellant has been fully apprised of the assumptions made and other material facts which should allow it to identify the issues, produce the relevant documents, and prepare itself for discovery and trial.
+C. Analysis
+[21] In CIBC v. Canada,[3] the Federal Court of Appeal heard an appeal against an order by the Tax Court striking certain pleadings in the Crown’s reply. In the assessment, the Minister had disallowed deductions claimed by CIBC in respect of payments made by CIBC to settle lawsuits in which it was a defendant. Paragraph 134 of the reply, which formed the basis of the Crown’s argument, stated:
+The misconduct of [CIBC and its affiliates] was so egregious and repulsive that any consequential settlement payments […] cannot be justified as being incurred for the purpose of gaining or producing income from a business or property within the meaning of paragraph 18(1)(a) of the [Income Tax] Act. The [CIBC affiliates] knowingly aided and abetted Enron to violate the United States’ federal securities laws and falsify its financial statements. The misconduct of [the CIBC affiliates] in enabling Enron to perpetrate its frauds, known to [CIBC], or the misconduct of [CIBC] itself, was so extreme, and the consequences so dire, that it could not be part of the business of a bank.
+[22] At trial, CIBC had argued that paragraph 134 and certain other pleadings regarding the propriety of CIBC’s alleged conduct were irrelevant, prejudicial and had no reasonable prospect of success, and thus should be struck.
+[23] At trial, Rossiter ACJ concluded that many statements in the reply regarding CIBC’s alleged conduct were scandalous, prejudicial or an abuse of process, and accordingly should be struck. However, Rossiter ACJ refused to strike paragraph 134 of the reply, concluding that it was not plain and obvious that the Crown’s theory as enunciated therein could not succeed. CIBC appealed the decision upholding paragraph 134. The Crown appealed the order striking the other statements.
+[24] The Federal Court of Appeal began by describing the test for striking pleadings. At paragraph 7 of the decision, Sharlow JA wrote:
+There is no dispute as to the general test for striking pleadings. It was recently restated in R. v. Imperial Tobacco Canada Ltd., 2011 SCC 42, [2011] 3 S.C.R. 45 at paragraph 17. In the context of a motion to strike the Crown’s reply in an income tax appeal, the motion will be granted only if it is plain and obvious, assuming the facts as pleaded in the reply are true, that the reply fails to state a reasonable basis for concluding that the reassessment under appeal is correct.
+[25] The Federal Court of Appeal disagreed with Rossiter ACJ’s order upholding paragraph 134 of the reply and concluded that the propriety of a taxpayer’s conduct is irrelevant to the deduction. At paragraph 76 of the decision, Sharlow JA wrote:
+. . . the only question to be asked in determining whether paragraph 18(1)(a) prohibits a particular deduction is this: Did the taxpayer incur the expense for the purpose of earning income? Since that is the only relevant question, it follows that even if CIBC conducted itself as alleged . . . and even if that conduct was egregious or repulsive, that characterization of the morality of CIBC’s conduct is not legally relevant to the application of paragraph 18(1)(a). Therefore, I agree with CIBC that paragraph 134 of the reply should be struck.
+[26] The Federal Court of Appeal went on to uphold Rossiter ACJ’s order to strike certain language that was scandalous, prejudicial and abusive. At paragraphs 87, 89 and 90 of the decision, Sharlow JA wrote:
+. . . having reviewed the reply, I agree with the judge that those words and phrases were used, not only to state the facts that the Minister assumed or that the Crown wished to allege, but to colour the facts in a way that would invite the judge hearing the appeal to evaluate the propriety of the conduct of the employees of CIBC and its affiliates. . .
+For the reasons stated at length in the context of the CIBC appeal in this case, an evaluation of the morality of CIBC’s conduct is not relevant in determining the deductibility of the settlement payments. The same is true of an evaluation of the legality of that conduct under United States law. To include allegations of that kind in the pleadings in this case, whether as part of the assumptions or in the remainder of the reply, is bound to multiply the resources expended in pre-trial discovery with no hope of producing anything that would be helpful in determining the issues on appeal. At the very least, such allegations are likely to delay the fair hearing of CIBC’s tax appeals, and I also agree with the judge that they are also prejudicial and vexatious.
+. . . Such allegations invite debate that is pointless because it is not relevant. CIBC should not be required to waste resources to refute assumptions or allegations of fraud or criminal conduct that will do nothing to assist the Tax Court in determining the deductibility of the settlement payments. For the purposes of the present motion, the appellant must demonstrate that it is plain and obvious that the pleadings at issue, if assumed to be true, fail to state a reasonable basis for concluding that the reassessment is correct, or invite debate that is legally irrelevant to the issues herein.
+(1) Price of the charges theory
+[27] In its submissions, the appellant clearly identified numerous drafting deficiencies in the Amended Reply. Because of these deficiencies, the respondent has failed to adequately frame its case with regard to how paragraphs 247(2)(a) and (c) serve as a proper basis for the reassessments.
+[28] In paragraph 11(b) of her Amended Reply, the respondent says that the issue to be decided in this appeal with respect to paragraphs 247(2)(a) and (c) is “whether the terms or conditions made or imposed in respect of the Charges”­­ which the respondent defines at paragraph 4 of the Amended Reply as the Guarantee Fees payable by the appellant to BRI “differed from those that would have been made between persons dealing at arm’s length.”
+[29] That formulation is manifestly incorrect. The correct question under paragraphs 247(2)(a) and (c) is whether the terms or conditions imposed in respect of the guarantee itself, not the terms or conditions of the guarantee fees, differed from those that would have been set between persons dealing at arm’s length. I do not see how the respondent can rely on paragraphs 247(2)(a) and (c) to challenge the terms or conditions regarding the amounts paid by the appellant for the guarantee. Rather, if I understand the respondent’s position, the terms or conditions she challenges under paragraphs 247(2)(a) and (c) are the amounts of the fees themselves.
+[30] In my opinion, phrases such as “the consideration for the guarantee fee” or “the price of the guarantee fee” are unclear. If the respondent relies on paragraphs 247(2)(a) and (c) to challenge the amounts of the fees paid by the appellant, the issue is the price of the guarantee, not the price of or consideration for the guarantee fees. Further, without acknowledging the existence of a guarantee, how can one challenge the price of that guarantee? The respondent should clarify this.
+[31] At the hearing, I asked the respondent’s counsel why the respondent chose to ignore the existence of the guarantee in the Amended Reply. Counsel suggested that it was done in order to avoid compromising the respondent’s theory that an arm’s length person would have refused to enter into the guarantee arrangement.
+[32] I see no harm in acknowledging that the appellant contracted for a guarantee from BRI. Doing so does not conflict with the respondent’s argument under paragraphs 247(2)(a) and (c) or 247(2)(b) and (d) that an arm’s length person would not have entered into the same agreement if placed in the circumstances of the parties. Nor does acknowledging the existence of the guarantee conflict with the respondent’s contention that the appellant can reasonably be considered not to have entered into the transactions at issue primarily for bona fide purposes other than to obtain a tax benefit.
+[33] The appellant also takes issue with paragraph 7 of the Amended Reply, which states: “With respect to paragraph 17 of the Notice of Appeal, [the respondent] denies the facts alleged to the extent that they are inconsistent with the Minister’s assumptions of fact as set out herein.” Paragraph 17 of the Notice of Appeal refers to certain assumptions made by the Minister regarding the credit ratings of the appellant and BRI, and regarding the necessity of BRI’s guarantee of the Notes.
+[34] In my opinion, the respondent’s response in paragraph 7 of the Amended Reply is improper because it does not clearly admit, deny or claim no knowledge of the facts in paragraph 17 of the Notice of Appeal. By denying certain facts “to the extent that they are inconsistent with the Minister’s assumptions” in the Amended Reply, the respondent invites unnecessary debate as to which facts in the Amended Reply are “inconsistent” with the facts in paragraph 17 of the Notice of Appeal. Two parties opposed in interest could disagree as to whether certain assumptions are inconsistent. The respondent must take a clear position on these facts.
+[35] The appellant has clearly pointed out numerous drafting deficiencies in the Amended Reply. However, poor drafting is not a sufficient cause for striking the Amended Reply and allowing the appeal. The appropriate remedy is to allow the appellant to file a further amended reply acknowledging the existence of the guarantee and properly framing the analysis under paragraphs 247(2)(a) and (c) and 247(2)(b) and (d). The appellant should not be forced to waste resources attempting to discern the respondent’s position on several of the key facts at issue.
+[36] Although this disposes of the appellant’s motion to strike the Amended Reply, I will consider the appellant’s other arguments in order to provide the respondent with some guidance for drafting its further amended reply.
+(2) The respondent’s pleading of the facts is inconsistent with a properly articulated case
+[37] The appellant argues that the respondent cannot defend the reassessments because of certain assumptions made by the Minister. It is the appellant’s submission that the following assumptions set out in paragraphs 9 p), r), s), t) and x) of the Amended Reply are fatal to the respondent’s case:
+p) the Appellant was unable to borrow the funds it needed to operate as a finance company on a stand-alone basis;
+r) the Appellant was unable to carry out its financing activities without an unconditional guarantee from its Parent;
+s) the Appellant could not obtain an investment worthy credit-rating without the guarantee provided by its Parent;
+t) the Appellant’s functional deficiency and inability to bear risk on a stand-alone basis made it imperative for any arm’s length lender to require an unconditional guarantee from the Parent;
+x) the fee an arm’s length party would require to guarantee the Appellant’s debts would have been so exorbitant that the Appellant would not have been able to on loan the funds at a competitive rate.
+[38] I disagree with the appellant. These assumptions are not plainly and obviously fatal to the respondent’s case under section 247, which is the test described in CIBC.[4]
+[39] If I were to strike the Amended Reply on the basis that these assumptions show that the price paid by the appellant for the guarantee was not excessive, as alleged by the appellant, then I would be required to compare the price paid by the appellant with the arm’s length transfer price. Only a trial judge with access to all of the evidence germane to this issue can properly undertake such an analysis.
+[40] In the Amended Reply, the respondent points out that the appellant was an NSULC. Under section 135 of the Companies Act,[5] present and certain past shareholders are liable for an NSULC’s unpaid debts and liabilities if the NSULC is wound up and liquidated without sufficient assets. This means that BRI would be liable for the appellant’s debts if the appellant were wound up without sufficient assets. I agree with the respondent that it is legitimate to ask whether an arm’s length person standing in the appellant’s shoes would have been willing to pay the guarantee fees for BRI’s explicit guarantee knowing that BRI was potentially responsible for the appellant’s liabilities even without the guarantee.
+[41] The respondent also invokes the recharacterization power under paragraphs 247(2)(b) and (d), which permits a recharacterization of the guarantee if the following two conditions precedent are satisfied: (i) an arm’s length person would not have entered into the transactions at issue; and (ii) it is reasonable to consider that the transaction was not entered into primarily for bona fide purposes other than to obtain a tax benefit.
+[42] With respect to the first condition precedent of paragraph 247(2)(b), the Amended Reply states that the Minister assumed that an arm’s length person would not have entered into the transactions at issue because, inter alia, the appellant was significantly undercapitalized having regard to the amount of the Notes. I cannot discern anything in the other assumptions of fact that contradicts this assertion.
+[43] The respondent also pleads that the second condition precedent of paragraph 247(2)(b) is satisfied. In the Amended Reply, the respondent contends that the guarantee and the Hybrid Instruments used to “on loan” the proceeds to the Sister Corporations were entered into “for no bona fide purposes other than to obtain a tax deduction for the Appellant”.
+[44] I agree with the appellant’s observation that several of the Minister’s assumptions might suggest there were bona fide purposes to the transactions. However, I disagree with the appellant that these assumptions are fatal to the respondent’s case. The condition in subparagraph 247(2)(b)(ii) is satisfied only if the taxpayer entered into the transaction “primarily” for bona fide purposes other than to obtain a tax benefit. This contemplates that a taxpayer might enter into a transaction for both tax and non-tax purposes.
+[45] The mere fact that there may be some bona fide non-tax purpose for the transactions at issue does not mean that the primary purpose of the transactions was a bona fide non-tax purpose. The assumptions of fact referenced by the appellant are not plainly and obviously inconsistent with the respondent’s position that the primary purpose of the transactions was to obtain a tax benefit for the appellant.
+(3) The duplication factor argument
+[46] The appellant also takes issue with the respondent’s so-called “duplication factor” argument. At paragraph 64 of the written submissions on its motion to strike, the appellant states:
+Lastly, the Crown relies on the so-called “duplication factor” to reduce the amount of the guarantee fee to nil. The Crown essentially argues that the guarantee is redundant because BRFC is an unlimited company formed under Nova Scotia law. The Amended Reply, however, pleads that it was imperative for any arm’s length lender to require an unconditional guarantee from BRI. The import of the Crown’s pleadings is that the guarantee was necessary and sufficient for lenders to invest in the Notes. The lenders or noteholders were entitled to rely on the guarantee to make a claim against BRI if BRFC failed to make a payment under the Notes. The Amended Reply says that the noteholders did not view the guarantee as redundant, because the guarantee was imperative to them. In other words, the noteholders would have been unwilling to lend BRFC US $3 billion in the absence of a guarantee. Based on these pleadings, the “duplication factor” argument cannot succeed.
+[47] In effect, it appears that the appellant takes issue with the respondent’s argument that, although BRI’s explicit guarantee was necessary, the arm’s length price of that guarantee was nil because BRI implicitly guaranteed the Notes by virtue of the appellant being an NSULC. However, I disagree with the appellant that it is plain and obvious that this “duplication factor” argument cannot succeed.
+[48] In order for this element of the pleading to be struck, I must conclude that an implicit guarantee is necessarily less valuable than an explicit guarantee, which requires that I consider the arm’s length price of an explicit guarantee. As I stated above, this is the role of the trial judge, who must make determination in light of all of the evidence.
+(4) Incomplete pleading of assumptions
+[49] Finally, the appellant argues that the respondent is required to admit in the Amended Reply that the Canada Revenue Agency’s Transfer Pricing Review Committee (the “TPRC”) rejected a request made by the respondent to assess the appellant under paragraphs 247(2)(b) and (d). In the excerpt reproduced in paragraph 84 of the appellant’s written submissions on its motion to strike, the TPRC responded as follows to the request by the Calgary Tax Services Office (the “TSO”) :
+The TPRC . . . members have reviewed the facts and circumstances in this case in support of the application of the re-characterization provisions pursuant to paragraphs 247(2)(b) and (d). At this point in time, the Chairperson has decided that the TSO should not proceed with re-characterization given the circumstances of the file.
+[50] According to paragraph 87 of the appellant’s written submissions on its motion to strike, “the Crown has an obligation to plead all of the facts and assumptions that led the Minister to not recharacterize the transactions.” Therefore, the appellant argues, the Amended Reply is improper because it did not disclose that the TPRC rejected the TSO’s request for recharacterization under paragraphs 247(2)(b) and (d).
+[51] In support of its argument, the appellant cites paragraph 29 of Canada v. Anchor Pointe Energy Ltd.,[6] where the Federal Court of Appeal states: “Fairness requires that the facts pleaded as assumptions be complete, precise, accurate and honestly and truthfully stated so that the taxpayer knows exactly the case and the burden that he or she has to meet”. The appellant also cites paragraph 13 of Shaughnessy v. The Queen,[7] where Associate Chief Judge Bowman CJ stated: “The pleading of assumptions involves a serious obligation on the part of the Crown to set out honestly and fully the actual assumptions upon which the Minister acted in making the assessment, whether they support the assessment or not.”
+[52] According to paragraph 47 of the respondent’s written submissions, “[t]he facts that were described in the referral differ significantly from the facts the Crown has set out as other material facts and assume [sic] the onus of proving as true at trial”.
+[53] I disagree with the appellant that the respondent is required to plead that the TPRC rejected the TSO’s recharacterization request. First, such disclosure does not change or clarify the case that the appellant has to meet or the burden that it must discharge, as discussed in Anchor Pointe.[8] Second, it is not clear that the respondent “acted upon” the TPRC’s response in assessing the appellant, as discussed in Shaughnessy.[9]
+(5) Conclusion
+[54] The Amended Reply suffers from numerous drafting deficiencies. However, the assumptions of fact referenced by the appellant are not plainly and obviously inconsistent with the transfer pricing adjustments at issue. Therefore, the appropriate remedy is to strike the Amended Reply with leave to file a further amended reply that acknowledges the existence of the guarantee and properly frames the question for the trial judge’s consideration under paragraphs 247(2)(a) and (c) and 247(2)(b) and (d), taking into account the deficiencies discussed above.
+[55] The appellant has also requested an extension of time to serve and file an answer. If the appellant chooses to do so, it may serve and file an answer to the respondent’s further amended reply within 60 days following the service and filing of the further amended reply.
+V Disposition
+[56] The respondent’s motion to file the Amended Reply is allowed. The appellant’s motion to strike the Amended Reply is also allowed. However, the respondent is granted leave to serve and file within 60 days of this order a further amended reply addressing the deficiencies discussed above. The appellant may serve and file an answer within 60 days of the respondent’s serving and filing the further amended reply. Costs shall be in the cause.
+Signed at Magog, Québec, this 17th day of July 2013.
+Hogan J.
+CITATION: 2013 TCC 231
+COURT FILE NO.: 2012-2683(IT)G
+STYLE OF CAUSE: BURLINGTON RESOURCES FINANCE COMPANY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: April 30, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: July 17, 2013
+APPEARANCES:
+Counsel for the appellant:
+Martha MacDonald
+Al Meghji
+Brynne Harding (student at law)
+Counsel for the respondent:
+Naomi Goldstein
+Erin Strashin
+Thang Trieu
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Written Submissions of the Appellant (Appellant’s Motion to Strike), paras. 4 to 11.
+[2] Zelinski v. The Queen, 2002 DTC 1204.
+[3] 2013 FCA 122.
+[4] Supra, note 3.
+[5] RSNS 1989, c. 81.
+[6] 2007 FCA 188.
+[7] 2002 DTC 1272 (TCC).
+[8] Supra, note 6.
+[9] Supra, note 7.

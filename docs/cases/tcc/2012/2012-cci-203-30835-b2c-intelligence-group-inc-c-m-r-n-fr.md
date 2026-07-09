@@ -1,0 +1,148 @@
+---
+title: "B2C Intelligence Group Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30835/index.do"
+last_modified: "2012-06-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 203"
+citation2: ""
+neutral_citation: "2012 CCI 203"
+decision_date: "2012-06-08"
+language: "fr"
+item_id: "30835"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7394
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:34:31.151000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "660fadf8225b4c90e88a024990977796516bd01c7e8a6d80a04a041b78b31ab1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# B2C Intelligence Group Inc. c. M.R.N.
+
+- Citation: 2012 CCI 203
+- Decision date: 2012-06-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7394, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+B2C Intelligence Group Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-06-08
+Référence neutre
+2012 CCI 203
+Numéro de dossier
+2010-3554(CPP)
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2010-3554(CPP)
+ENTRE :
+B2C INTELLIGENCE GROUP INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 avril 2012, à Toronto (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Représentant de l’appelante :
+M. Gil Gagea
+Avocat de l’intimé :
+Me Christopher M. Bartlett
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 28(1) du Régime de pensions du Canada est rejeté, et la décision rendue par le ministre du Revenu national le 19 août 2010 est confirmée, conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 8e jour de juin 2012.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 28e jour d’août 2012.
+S. Tasset
+Référence : 2012 CCI 203
+Date : 20120608
+Dossier : 2010-3554(CPP)
+ENTRE :
+B2C INTELLIGENCE GROUP INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] B2C Intelligence Group Inc. (B2C) interjette appel à l’encontre d’évaluations établies en vertu du Régime de pensions du Canada (le RPC) à l’égard de deux de ses employés pour la période allant du 1er janvier 2007 au 31 décembre 2009.
+[2] B2C est une société canadienne dont les seuls actionnaires sont les deux employés en question, M. Khalid Toma et son épouse, Mme Hedeel Salman. B2C exerçait ses activités depuis le domicile du couple à Mississauga. M. Toma et son épouse sont résidents canadiens.
+[3] B2C est un acronyme pour « Business to Commerce ». C’est une société de conseils en technologie exploitée à l’échelle mondiale. Nombre de ses clients se trouvent au Royaume-Uni et en Europe. Pour fournir ces services, B2C dispose, outre les connaissances spécialisées de M. Toma, d’un accès, en Inde, en Ukraine et en Russie, à un bassin de professionnels très talentueux dans les domaines de l’informatique et des technologies de l’information, qui sont disposés à travailler à ses contrats en tant que sous-traitants. B2C recourt régulièrement à des non-Canadiens pour l’exécution de ses contrats étrangers. Le travail fait par Mme Salman pour B2C consiste à s’occuper de la commercialisation et à s’assurer que les demandes de propositions sont reçues et que les propositions sont dûment soumises et présentées. Son travail pour B2C l’oblige aussi à s’absenter régulièrement du Canada.
+[4] Deux contrats conclus entre B2C et une société du Royaume-Uni ont été déposés en preuve. L’autre partie au contrat, la société du Royaume-Uni, sous-traitait à B2C ses engagements envers des entreprises britanniques sans lien de dépendance, à savoir Vodafone UK et Cooperative Financial Services Bank. La preuve révèle qu’il s’agissait là de contrats représentatifs de la manière dont B2C mène ses activités, du moins ses activités commerciales à l’étranger. Il ressort clairement de ces contrats que B2C s’engage à fournir des services professionnels à ses clients et aux clients de ceux‑ci. Les contrats précisent quel employé de B2C fournira les services à moins d’entente contraire (dans les deux cas, l’employé était M. Toma), mais il est tout à fait clair, à la lecture des contrats, que B2C s’engageait à fournir les services demandés en recourant à ses professionnels et ne s’engageait pas à affecter son personnel, ses employés ou ses sous-traitants à l’exercice d’une fonction pour ses clients, ou pour les clients de ses clients, comme le ferait une agence de placement.
+[5] Un emploi ouvrant droit à pension est défini, à l’alinéa 6(1)a) du RPC, comme un emploi au Canada qui n’est pas un emploi excepté.
+[6] L’alinéa 6(2)k) du RPC prévoit qu’un emploi excepté comprend tout emploi qui est excepté de l’emploi ouvrant droit à pension selon un règlement pris en vertu de l’article 7. L’alinéa 7(1)a) du RPC prévoit que le gouverneur en conseil peut prendre des règlements en vue d’assimiler à un emploi ouvrant droit à pension « tout emploi à l’étranger ou en partie à l’étranger, qui serait un emploi ouvrant droit à pension s’il était exercé au Canada ».
+[7] La partie III du Règlement sur le RPC est intitulée « Emploi inclus dans un emploi ouvrant droit à pension ou excepté d’un tel emploi, par règlement ». L’article 16 du Règlement concerne l’emploi hors du Canada. L’alinéa 16(1)b) prévoit explicitement que « [l]’emploi ouvrant droit à pension comprend l’emploi hors du Canada […] qui ouvrirait droit à pension s’il était exercé au Canada, si l’employé qui l’occupe est un résident du Canada et s’il reçoit son salaire à un établissement de son employeur situé au Canada ou dudit établissement ».
+[8] L’appelante soutient que l’emploi de M. Toma et de Mme Salman auprès de B2C était un emploi hors du Canada. Il ne m’apparaît pas tout à fait évident que les deux employés étaient employés hors du Canada du seul fait qu’une partie des services fournis à leur employeur canadien les amenait à voyager pour s’occuper de clients étrangers et pour rencontrer des clients éventuels. Cependant, même si leur emploi était un emploi hors du Canada, il est manifeste, et il n’est pas contesté par l’appelante, que :
+1) l’emploi de M. Toma et celui de Mme Salman seraient des emplois ouvrant droit à pension si tous les clients et clients éventuels de B2C étaient au Canada;
+2) M. Toma et Mme Salman sont tous deux résidents du Canada;
+3) chacun de ces deux employés recevait son salaire à un établissement de B2C situé au Canada ou dudit établissement.
+Il est donc manifeste que, même si l’emploi constitue un emploi hors du Canada parce que certains des services fournis par les employés à leur employeur B2C étaient fournis hors du Canada, l’emploi est néanmoins réputé être un emploi ouvrant droit à pension en vertu de l’alinéa 16(1)b) du Règlement.
+[9] Cette conclusion s’accorde avec un jugement du juge Hershfield, de la Cour canadienne de l'impôt, DatEx Semiconductor Incorporated c. M.R.N.[1], où la Cour a examiné l’alinéa 16(1)b) du Règlement et, plus précisément, la définition de l’expression « établissement situé au Canada » et le sens des mots « reçoit son salaire à un établissement de son employeur au Canada ou dudit établissement ».
+[10] L’appelante soutient que, même si l’alinéa 16(1)b) du Règlement considère cet emploi comme un emploi ouvrant droit à pension, cet emploi n’est pas un emploi ouvrant droit à pension, à cause de l’article 34 du Règlement, qui traite de personnes placées par une agence de placement. Cet argument est erroné en droit, et cela, pour deux raisons.
+[11] D’abord, l’article 34 énonce une règle qui considère les agences de placement comme les employeurs des personnes qu’elles placent. Cette disposition ne fait pas d’un emploi ouvrant droit à pension un emploi n’ouvrant pas droit à pension.
+[12] Deuxièmement, il est clair que B2C n’est pas une « agence de placement » selon la définition donnée au paragraphe 34(2) du Règlement. La preuve ne permet pas de considérer B2C comme une entité « s’occupant de placer des personnes dans des emplois, de fournir les services de personnes ou de trouver des emplois pour des personnes moyennant des honoraires, récompenses ou autres formes de rémunération ». Il ressort clairement des contrats représentatifs déposés en preuve que B2C s’engage envers ses clients à fournir ses services de consultation professionnelle par l’intermédiaire de personnes nommément désignées travaillant pour elle.
+[13] L’appelante a accordé une importance considérable à la section relative aux agences de placement, dans la publication intitulée « À propos du Régime de pensions du Canada et de l’assurance-emploi », une publication de la Division des décisions concernant le RPC et l’A-E de l’Agence du revenu du Canada (ARC). Il ressort clairement de la section « Définition » de cette publication que le document ne s’intéresse qu’aux entités qui sont des agences de placement au sens du paragraphe 34(2) susmentionné du Règlement. Puisque B2C n’est pas une telle entité, cette publication de l’ARC n’est pas elle non plus une considération pertinente.
+[14] Dans un arrêt de la Cour d'appel fédérale, OLTCPI Inc. c. Canada (Ministre du Revenu national)[2], la cour a examiné le sens de l’expression « agence de placement » dans le Règlement sur le RPC. Elle considérait la difficulté que représente le fait de s’assurer que les dispositions relatives aux agences de placement ne s’appliquent pas à des personnes, comme les sous-traitants, qui fournissent des services obligeant les travailleurs à se présenter chez leur client pour exécuter leurs fonctions, parfois sous la direction de ce client. Elle a souligné que la question qui se pose à cet égard est celle de savoir si la personne concernée ne fait que fournir du personnel ou si elle le fait à l’occasion de la fourniture d’un service distinct. La Cour a cité en l’approuvant un jugement de la Cour canadienne de l'impôt, Supreme Tractor Services Ltd. c. M.R.N.[3] Le juge de la Cour de l’impôt s’y exprimait ainsi :
+13 Je considère qu’il s’agit surtout de savoir non pas qui est le bénéficiaire ultime du travail ou des services fournis, ce qui couvrirait toutes les situations de sous-traitance possibles, mais plutôt qui a l’obligation de fournir le service. Si la prétendue agence de placement a l’obligation d’assurer un service en plus de la fourniture de personnel, c’est une entité qui fournit ce service plutôt que de placer des gens et qui n’est pas visée par les Règlements.
+[15] Compte tenu de l’article 34 du Règlement sur le RPC, et de la manière dont cet article a été interprété dans les décisions OLTCPI et Supreme Tractor, il ressort ce qui suit : au vu de la preuve qui m’a été soumise concernant les activités et les contrats de B2C, B2C s’engage à fournir à ses clients un service qui n’est pas un service de placement de personnes, et le placement de ses travailleurs chez ses clients ultimes ne constitue pas une simple fourniture de personnel, mais une fonction exercée par B2C à l’occasion de la fourniture d’un service distinct.
+[16] Il n’importe pas que B2C ait pu exercer ses activités en tant qu’agence de placement si elle avait été réorganisée et si ses clients avaient consenti à ce que la relation soit ainsi modifiée.
+[17] L’appel est rejeté.
+Signé à Toronto (Ontario), ce 8e jour de juin 2012.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 28e jour d’août 2012.
+S. Tasset
+RÉFÉRENCE : 2012 CCI 203
+No DE DOSSIER DE LA COUR : 2010‑3554(CPP)
+INTITULÉ : B2C INTELLIGENCE GROUP INC. ET LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 24 avril 2012
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 8 juin 2012
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Gil Gagea
+Avocat de l’intimé :
+Me Christopher M. Bartlett
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2007 CCI 189, [2007] A.C.I. n° 128 (QL).
+[2] 2010 CAF 74, [2010] A.C.F. n° 379 (QL) [OLTCPI].
+[3] 2001 CanLII 748, 2000-4909-CPP [Supreme Tractor].

@@ -1,0 +1,205 @@
+---
+title: "Dutka c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/460879/index.do"
+last_modified: "2020-02-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 21"
+citation2: ""
+neutral_citation: "2020 CCI 21"
+decision_date: "2020-02-12"
+language: "fr"
+item_id: "460879"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4257
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T07:05:52.023000+00:00"
+cases_cited_count: 14
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7675ad0b08abb107f36ce9c0e935b319925143d5ea274a02d85c8c94db4a7f97"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dutka c. La Reine
+
+- Citation: 2020 CCI 21
+- Decision date: 2020-02-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4257, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dutka c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-02-12
+Référence neutre
+2020 CCI 21
+Numéro de dossier
+2019-2141(IT)APP
+Juges et Officiers taxateurs
+Ronald MacPhee
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-2141(IT)APP
+ENTRE :
+TERRI DUTKA,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 9 décembre 2019, à Calgary (Alberta)
+Devant : L’honorable juge Ronald MacPhee
+Comparutions :
+Représentant de la requérante :
+Blaine V. Alward
+Avocat de l’intimée :
+Me Matthew Chao
+JUGEMENT
+La demande de prorogation du délai pour déposer un avis d’opposition aux nouvelles cotisations établies aux termes de la Loi de l’impôt sur le revenu pour les années d’imposition 2011 et 2012 de la requérante est rejetée, sans dépens.
+Signé à Toronto (Ontario), ce 3e jour de février 2020.
+« R. MacPhee »
+Le juge MacPhee
+Référence : 2020 CCI 21
+Date : 20200131
+Dossier : 2019-2141(IT)APP
+ENTRE :
+TERRI DUTKA,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge MacPhee
+[1] Terri Dutka (la requérante) a présenté une demande de prorogation du délai pour interjeter appel des nouvelles cotisations établies aux termes de l’article 167 de la Loi de l’impôt sur le revenu (la LIR) pour ses années d’imposition 2011 et 2012.
+RÉSUMÉ DES FAITS
+[2] Le 24 septembre 2015, le ministre du Revenu national (le ministre) a établi une nouvelle cotisation à l’égard de la requérante pour les années d’imposition 2011 et 2012.
+[3] Le 24 décembre 2015, la requérante a déposé un avis d’opposition auprès du ministre.
+[4] Le 22 janvier 2016, l’Agence du revenu du Canada (l’Agence) a rejeté cet avis d’opposition au motif qu’il n’avait pas été déposé dans les 90 jours suivant l’envoi par la poste des nouvelles cotisations.
+[5] Le 2 mars 2016, la requérante a produit une demande de prorogation de délai afin de déposer un avis d’opposition auprès du ministre. Le 16 mars 2016, le ministre a accordé cette prorogation du délai.
+[6] Le 6 juillet 2017, l’Agence a rendu un avis de confirmation refusant l’opposition de la requérante et confirmant les nouvelles cotisations. Sa réception n’est pas en litige.
+[7] Pour des raisons qui nous sont inconnues, le 12 juillet 2017, la requérante a reçu une lettre de l’Agence l’informant que son avis d’opposition avait bien été reçu et qu’une fois nommé pour examiner l’opposition, un agent communiquerait avec elle.
+[8] D’après la date de l’avis de confirmation, la requérante avait jusqu’au 4 octobre 2017 pour déposer un avis d’appel.
+[9] Le 13 mai 2019, la requérante a déposé une demande de prorogation du délai pour déposer un avis d’appel visant la nouvelle cotisation de son année d’imposition 2013 établie aux termes de l’article 167 de la LIR.
+QUESTIONS EN LITIGE
+[10] La question en litige est de savoir si la requérante devrait se voir accorder une ordonnance prolongeant le délai de dépôt d’un avis d’appel auprès de la Cour aux termes de l’article 167 de la LIR pour s’être fondée sur la lettre du ministre du 12 juillet 2017.
+DISCUSSION
+Prorogation du délai d’appel :
+[11] Les dispositions pertinentes pour décider s’il convient d’accueillir ou de rejeter la demande sont le paragraphe 169(1) et l’article 167 de la LIR :
+Appels auprès de la Cour canadienne de l’impôt et de la Cour d’appel fédérale
+169 (1) Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l’expiration des 90 jours qui suivent la signification de l’avis d’opposition sans que le ministre ait notifié au contribuable le fait qu’il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l’expiration des 90 jours qui suivent la date où un avis a été envoyé au contribuable, en vertu de l’article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+Prorogation du délai d’appel
+167 (1) Le contribuable qui n’a pas interjeté appel en application de l’article 169 dans le délai imparti peut présenter à la Cour canadienne de l’impôt une demande de prorogation du délai pour interjeter appel. La Cour peut faire droit à la demande et imposer les conditions qu’elle estime justes.
+[…]
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l’année suivant l’expiration du délai imparti en vertu de l’article 169 pour interjeter appel;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+[12] Le calcul permettant de déterminer le délai imparti n’est pas précisé dans la LIR. Cependant, la Loi d’interprétation [1] aborde cette question.
+[13] Le paragraphe 27(5) de la Loi d’interprétation énonce que, lorsqu’une action doit être effectuée dans un délai imparti à partir d’une date précise, ce délai n’inclut pas la date de début. Dans le cas de la requérante, le décompte de 90 jours a commencé le 7 juillet 2017.
+[14] Le 90e jour suivant le 7 juillet 2017 est le 4 octobre 2017. Ce jour n’est pas exclu du calcul du délai imparti. La requérante avait donc jusqu’au 4 octobre 2017 pour déposer un avis d’appel.
+[15] Le paragraphe 167(5) énonce que la demande de prorogation du délai d’appel doit être présentée dans l’année suivant l’expiration du délai d’appel établi par l’article 169.
+[16] Cela signifie que la requérante disposait d’un délai d’un an et quatre-vingt-dix jours à compter de la réception de l’avis de confirmation du 6 juillet 2017 pour déposer sa demande de prorogation de délai. Elle avait donc jusqu’au 4 octobre 2018.
+[17] Étant donné que la demande de prorogation du délai pour déposer un avis d’appel a été présentée le 13 mai 2019, la requérante n’a pas respecté les dispositions de l’alinéa 167(5)a) de la LIR.
+Examinons la jurisprudence pertinente :
+[18] L’arrêt-clé en matière de demande de prorogation de délai pour déposer un avis d’opposition ou un avis d’appel est l’arrêt de la Cour d’appel fédérale formulée dans Canada c. Carlson. Cet arrêt prévoit ce qui suit :
+Aux termes des alinéas 166.1(7)a) et 166.2(5)a) de la Loi, le ministre et la CCI ne peuvent prolonger le délai prévu pour le dépôt de l’avis d’opposition que si la demande est présentée dans l’année suivant l’expiration du délai prévu pour le dépôt d’un avis d’opposition [2] .
+[19] Dans la décision Moon v. La Reine [3] , la juge Lamarre, tel était alors son titre, énonce ce qui suit :
+À partir du moment où il a été conclu que la demande de prorogation du délai n’a pas été faite dans le délai d’un an prescrit par l’alinéa 167(5)a) de la LIR, la Cour ne dispose d’aucun pouvoir discrétionnaire pour proroger ce délai et la question de savoir s’il serait juste et équitable d’accorder une prorogation du délai ne peut pas être soulevée (voir Minister of National Revenue v. Minuteman Press of Canada Co., [1988] 1 C.T.C. 440, 88 DTC 6278 (C.A.F.), et Lamothe v. The Queen, 2002 DTC 1559 (C.C.I.).
+[20] Dans la décision Edgelow c. La Reine [4] , la juge Miller a refusé une demande de prorogation du délai de dépôt d’un avis d’opposition présenté seulement un jour trop tard. Elle souligne que, même si cela semble rude, elle n’a pas le pouvoir discrétionnaire d’accorder une prolongation de délai en marge de la Loi.
+[21] Comme l’explique la juge Lyons dans la décision Odebala-Fregene c. La Reine [5] :
+Le libellé est clair. Les exigences sont strictes. On ne peut déroger au délai imparti. La demande de prorogation du délai pour déposer un avis d’opposition ne peut être acceptée que si elle a été faite dans l’année suivant l’expiration du délai pour signifier un avis d’opposition ou présenter une requête en vertu de la Loi. Ces principes ont été soulignés en appel et appliqués par la Cour de façon systématique.
+[22] Dans la décision Dubois c. La Reine [6] , le juge Tardif invoque la décision Sunil Lighting Products c. M.R.N [7] , dans laquelle le juge Sobier conclut que la Cour de l’impôt n’a pas le droit d’accorder un recours en équité :
+La jurisprudence établit clairement que la Cour canadienne de l’impôt n’est pas un tribunal d’equity et que sa compétence découle de sa loi habilitante. Par ailleurs, la Cour ne peut pas rendre de jugement déclaratoire, car cela est hors de son ressort. Les pouvoirs de la Cour dans le contexte d’un appel relatif à l’impôt sur le revenu sont prévus au paragraphe 171(1) de la Loi de l’impôt sur le revenu. Ainsi, ces pouvoirs consistent principalement à déterminer si les cotisations ont été établies conformément aux dispositions de la Loi de l’impôt sur le revenu.
+[23] Le juge Rothstein de la Cour d’appel fédérale (tel était alors son titre) souligne ce qui suit dans l’arrêt Chaya c. Canada :
+[…] Elle ne peut pas déroger aux dispositions législatives pour des raisons liées à l’équité. S’il estime que la loi est inéquitable, le demandeur doit avoir recours au Parlement et non pas à la Cour [8] .
+[24] Selon la jurisprudence, le traitement adéquat d’une demande de prorogation du délai d’appel auprès de la Cour canadienne de l’impôt (la Cour de l’impôt) consiste à déterminer si le contribuable a dépassé le délai d’un an et 90 jours accordé. Le cas échéant, il convient de rejeter la demande sans qu’aucune autre analyse ne soit généralement nécessaire. La demande est rejetée pour le motif que la contribuable ne s’est pas conformée à la première exigence énoncée au paragraphe 167(5) de la LIR.
+[25] La Cour de l’impôt est une cour créée par la loi. Elle n’a pas le pouvoir d’accorder une prorogation de délai si la demande a été déposée après la période d’un an et 90 jours établie par la LIR [9] . Il ne s’agit pas d’un tribunal d’equity et son rôle ne consiste pas à remédier aux injustices [10] .
+[26] Comme il est mentionné brièvement ci-dessus, la Cour canadienne de l’impôt et la Cour d’appel fédérale ont soutenu à de nombreuses reprises que, lorsqu’un contribuable ne respecte pas le délai prescrit par la LIT, il ne peut pas se prévaloir de l’article 167.
+Jurisprudence traitant des renseignements trompeurs fournis par l’Agence :
+[27] L’affaire en l’espèce présente une complexité : en effet, pour des raisons qui nous sont inconnues, le 12 juillet 2017, la requérante a reçu une lettre de suivi lui indiquant que l’Agence s’apprêtait à examiner son avis d’opposition. La requérante comme son comptable ont déduit de cette lettre qu’un avis d’appel n’était pas nécessaire, car le ministre examinait encore l’avis d’opposition déposé. Comme je l’ai mentionné précédemment, cette lettre a été reçue après qu’un avis de confirmation a été signifié à la requérante.
+[28] En général, le fait qu’un contribuable n’ait jamais reçu d’avis de confirmation [11] ou que de faux renseignements soient fournis par l’Agence [12] ne permet pas à la Cour d’accorder de prorogation au-delà du délai, tant que le ministre peut prouver qu’un avis a été envoyé [13] .
+[29] Dans la décision Michaud c. La Reine [14] , la juge Woods énonce ce qui suit :
+Malheureusement, on ne peut pas faire fi du délai prévu pour présenter la demande en question en se fondant sur des motifs d’équité, même si l’erreur est attribuable à l’ARC : c’est ce qui ressort de l’arrêt Carlson v. The Queen, 2002 DTC 6893 (CAF), au paragraphe 13, et de la décision Moulton v. The Queen, [2002] 2 CTC 2395. Comme l’a fait observer le juge en chef Bowman dans la décision Moulton, il peut être difficile pour les contribuables de concevoir qu’ils ne peuvent pas se fier aux conseils fournis par l’ARC.
+Selon la représentante de M. Michaud, il a été satisfait à la condition prévue au sous‑alinéa 166.2(5)b)(ii) de la Loi parce qu’il est juste et équitable de faire droit à la demande. Là où le bât blesse au sujet de cet argument, c’est qu’il s’agit d’une exigence supplémentaire, non d’une exigence subsidiaire. Toutes les conditions prévues au paragraphe 166.2(5) de la Loi doivent être remplies.
+[30] Même si l’Agence a fourni des renseignements erronés, je suis lié par les dispositions de la Loi. Dans la décision Wellington v. The Queen [15] , le juge Bowie a clairement énoncé ce principe et a cité le jugement de la Cour suprême dans l’arrêt Ministre du Revenu national c. Inland Industries Limited [16] :
+L’agent de l’ADRC a fourni à l’appelante des renseignements erronés. L’obligation fiscale d’un contribuable n’est pas viciée en raison du caractère erroné de l’information que le ministre a fourni par négligence concernant l’exonération fiscale du contribuable. Le juge Pigeon, dans l’arrêt Canada (ministre du Revenu national) c. Inland Industries Ltd., a établi la règle en des mots particulièrement pertinents à l’affaire qui nous occupe :. « [...] il me paraît clair qu’une approbation donnée sans que les conditions prescrites par la loi ne soient remplies ne lie pas le ministre ».
+[31] D’après le libellé du texte de loi, aucun pouvoir discrétionnaire ne me permet de me prononcer en faveur de la requérante [17] . La Cour de l’impôt est une cour créée par la loi et non pas un tribunal d’equity. Elle n’est pas compétente pour remédier aux injustices [18] . Ni la loi ni la jurisprudence ne permettent de soutenir l’accueil de la demande qui m’est présentée.
+[32] Le libellé de l’article 167 et de l’alinéa 167(5)a) de la LIR est clair et sans ambiguïté. Les termes de l’alinéa 167(5)a) ne permettent pas à la Cour de l’impôt de conclure que le délai a cessé de courir parce que la requérante pensait que l’Agence communiquerait avec elle une fois son opposition attribuée à un agent.
+[33] Pour les motifs énoncés ci-dessus, je dois rejeter la demande.
+Signé à Toronto (Ontario), ce 3e jour de février 2020.
+« R. MacPhee »
+Le juge MacPhee
+RÉFÉRENCE :
+2020 CCI 21
+No DU DOSSIER DE LA COUR :
+2019-2141(IT)APP
+INTITULÉ :
+TERRI DUTKA c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 9 décembre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Ronald MacPhee
+DATE DU JUGEMENT :
+Le 3 février 2020
+COMPARUTIONS :
+Représentant de la requérante :
+Blaine V. Alward
+Avocat de l’intimée :
+Me Matthew Chao
+AVOCATS INSCRITS AU DOSSIER :
+Pour le demandeur :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Me Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Loi d’interprétation, L.R.C. (1985), ch. I-21.
+[2] Canada c. Carlson, 2002 CAF145, au paragraphe 10 [Carlson].
+[3] Moon v. La Reine, 2010 CCI 393.
+[4] Edgelow c. La Reine, 2011 CCI 255.
+[5] Odebala-Fregene c. La Reine, 2015 CCI 44, au paragraphe 11.
+[6] Dubois c. La Reine, 2006 CCI 403.
+[7] Sunil Lighting Products c. M.R.N, [1993] A.C.I. No 666, au paragraphe 18.
+[8] Chaya c. Canada, 2004 CAF 327, au paragraphe 4.
+[9] Carlson, précité, note 2, au paragraphe 14; voir aussi O’Byrne c. Canada, 2015 CAF 239, aux paragraphes 9 et 12.
+[10] Smith v MNR, [1989] 1 CTC 2413.
+[11] Vigier c. La Reine, 2004 CCI 763, au paragraphe 7; Carvalho c. M.R.N., 2007 CCI 709; Rossi c. Canada, 2015 CAF 267, au paragraphe 7.
+[12] Michaud c. La Reine, 2011 CCI 573, au paragraphe 13 [Michaud].
+[13] Aztec Industries Inc. v Canada, [1995] 1 CTC 327 (FCA), au paragraphe 21; Lambo c. La Reine, 2011 CCI 293.
+[14] Michaud, précité, note 14, aux paragraphes 13 et 14.
+[15] Wellington v. The Queen, 2004 CCI 313, au paragraphe 16.
+[16] Ministre du Revenu national c. Inland Industries Limited, [1974] RCS 514 (CSC).
+[17] Dans la décision Lambo c. La Reine, 2011 CCI 293 [Lambo], la Cour de l’impôt s’est prononcée en faveur de la requérante, qui avait reçu une lettre portant à confusion de la part de l’Agence. Cependant, dans le cas présent, les faits sont différents : en effet, les avis de nouvelles cotisations avaient été envoyés à la mauvaise adresse.
+[18] Smith v MNR, [1989] 1 CTC 2413.

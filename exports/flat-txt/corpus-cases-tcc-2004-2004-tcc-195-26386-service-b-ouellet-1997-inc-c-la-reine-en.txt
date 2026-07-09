@@ -1,0 +1,177 @@
+Title: Service B. Ouellet (1997) inc c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26386/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-195-26386-service-b-ouellet-1997-inc-c-la-reine-en.md
+Document type: case_law
+Last modified: 2004-03-04
+
+# Service B. Ouellet (1997) inc c. La Reine
+
+- Citation: 2004 TCC 195
+- Decision date: 2004-03-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3333, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Service B. Ouellet (1997) inc c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-04
+Neutral citation
+2004 TCC 195
+File numbers
+2002-4623(GST)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2002-4623(GST)I
+BETWEEN:
+SERVICE B. OUELLET (1997) INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+_________________________________________________________
+Appeal heard on November 5, 2003, at Quebec City, Quebec
+Before: The Honourable Judge Louise Lamarre Proulx
+Appearances:
+Agent for the Appellant:
+Bertin Ouellet
+Counsel for the Respondent:
+Louis Cliche
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which bears number 213487 and is dated January 25, 2002, for the period from January 1, 1998, to February 28, 2001, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of March 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 20th day of December 2004.
+Colette Beaulne, Translator
+Citation: 2004TCC195
+Date: 20040304
+Docket: 2002-4623(GST)I
+BETWEEN:
+SERVICE B. OUELLET (1997) INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Louise Lamarre Proulx J.
+[1] This is an appeal from an assessment, notice of which bears number 213487, made by the Minister of National Revenue ("the Minister") under the Excise Tax Act ("the Act") for the period from January 1, 1998, to February 28, 2001.
+[2] The issue is whether the appellant conferred a benefit on its principal shareholder in respect of the use of an automobile within the meaning of subsections 15(1) and 15(5), paragraph 6(1)(e), and subsection 6(2) of the Income Tax Act. Subsection 173(1) of the Act prescribes the imposition of tax on this benefit.
+[3] The facts on which the Minister relied in making the assessment are set out in paragraph 32 of the Reply to the Notice of Appeal ("the Reply") as follows:
+[TRANSLATION]
+a) The facts admitted above
+b) The appellant is a registrant for GST purposes.
+c) In its capacity as a registrant, the appellant is also an agent of the Minister with the obligation to collect and remit the applicable GST with respect to the taxable supplies it makes.
+d) The appellant operates a business that consists of a service station with a mechanical shop.
+e) During the period at issue, the appellant made some vehicles belonging to it, namely a Volvo model 850 that was later replaced by a Volvo model S70, available to its president and principal shareholder, Mr. Bertin Ouellet.
+f) As will be shown at the hearing, these two vehicles were not used by Mr. Bertin Ouellet or any persons related to him in connection with the appellant's commercial activities.
+g) For tax purposes, the successive personal use of these two vehicles by Mr. Bertin Ouellet or any persons related to him was determined and assessed at 14%.
+h) The appellant was duly assessed for the GST payable on the value of the taxable benefit resulting from the appellant making these vehicles available to Mr. Bertin Ouellet or any persons related to him.
+i) The appellant was not able to show that the Volvo brand vehicles it had owned during the period at issue had been used in connection with its commercial activities and in what proportion.
+j) The appellant did not maintain a logbook establishing what purposes the vehicles had been used for.
+k) Also, according to the appellant's arguments, the vehicles belonging to Mr. Bertin Ouellet that had been used for Mr. Bertin Ouellet's personal travel had actually been used by his wife and daughters.
+l) During the period at issue, Mr. Bertin Ouellet had owned a 1984 Mercury Lynx (from 1996/05/28 to 1999/11/05 - probable date of the discarding by the police), a 1986 Toyota Corolla (purchased on 1999/12/01), a Pontiac Sunbird (from 1999/11/05 to 1999/11/18), and a 1997 Honda Civic (from 1998/11/04 to 2001/10/01).
+m) These vehicles are considered subcompact vehicles.
+n) In 1999 and 2000, Mr. Bertin Ouellet owned only two vehicles in working condition, which were at the disposal of four drivers.
+o) As will be shown at the hearing, Mr. Bertin Ouellet's wife did not own any vehicles and worked outside the home during the period at issue.
+p) In addition, the Honda Civic 1997 was insured for the Montreal area, where one of the Ouellet couple's two daughters is studying.
+q) Considering that the Honda Civic 1997 was used in Montreal and Mr. Bertin Ouellet's wife used the other vehicle for the purposes of her work and that that vehicle could also be used by the Ouellets' other daughter, Mr. Bertin Ouellet no longer had any vehicles at his disposal except the vehicle the appellant made available to him.
+r) Moreover, it is completely implausible in this case that Mr. Bertin Ouellet used the luxury vehicles the appellant had made available to him sparingly, choosing instead to travel in a small subcompact car.
+[4] The facts set out in paragraphs 3 to 12 of the Notice of Appeal are as follows:
+[TRANSLATION]
+3. Mr. Bertin Ouellet is the appellant's employee, shareholder, and sole director.
+4. The appellant operates a service station that offers mechanical services.
+5. Bertin Ouellet has a residence approximately 8 kilometres from the Service B. Ouellet (1997) inc. place of business.
+6. Bertin Ouellet's residence includes a garage that is used in particular as a storage space for tires belonging to the appellant's clients.
+7. In the 1998, 1999, and 2000 taxation years, the appellant owned some automobiles that were used as service vehicles or courtesy vehicles for clients.
+8. In the 1998, 1999, and 2000 taxation years, the appellant had all of the permits needed to sell automobiles.
+9. In the 1998, 1999, and 2000 taxation years, Bertin Ouellet personally owned some automobiles.
+10. In the 1998, 1999, and 2000 taxation years, Bertin Ouellet's personal vehicles were usually used by him to go to work at the appellant's place of business in addition to being used as service vehicles and courtesy vehicles for the appellant's clients.
+11. In the 1998, 1999, and 2000 taxation years, Bertin Ouellet stored the appellant's automobiles at his residence on the weekends, primarily to protect them from vandalism.
+12. During an audit, the auditor from the Ministère du Revenu du Québec established that Bertin Ouellet had used the appellant's automobiles for personal purposes and estimated Bertin Ouellet's personal mileage to be 2,432 kilometres and the total annual mileage on the appellant's automobiles used by Bertin Ouellet for personal purposes to be 17,665 kilometres, as appears in the document entitled APPENDIX, which will be filed in support hereof.
+[5] In paragraphs 16 and following of the Notice of Appeal, it was mentioned that, for each year from 1998 to 2000, a benefit amount for making a Volvo car available was added to Mr. Bertin Ouellet's income under the Income Tax Act. Strangely, nothing was mentioned about this at the hearing. If these income tax assessments had been appealed, it would have been preferable to hear those appeals before this appeal since subsection 173(1) of the Act prescribes the imposition of tax on that type of benefit.
+[6] In fact, what was challenged in this case was that there was more than minimal personal use within the meaning of subsection 6(2) of the Income Tax Act. According to the Minister, all or substantially all of the distance driven by the Volvo car was not for business purposes.
+[7] The appellant was represented at the hearing by its principal shareholder and president, Mr. Bertin Ouellet. He admitted paragraphs 32(a), (c), (d), (k), (n), (o), and (p) of the Reply.
+[8] Mr. Ouellet maintained that the Volvo car was used for the company's business purposes. It was allegedly used as a courtesy car and had been lent to clients of the service station when their vehicles were being repaired.
+[9] He took the vehicle home on weekends as a security measure. He could also use it to transport tires to his home or even to respond to the calls of clients whose vehicles had broken down.
+[10] The service station is located nine kilometres from his residence, and the business's office is in his home, as is the computer to do the payroll. The service station contains an office for recording transactions with clients.
+[11] Both sides acknowledged that the car's annual mileage was 17,665 kilometres. According to the auditor, the annual personal mileage was 2,432 kilometres. According to Mr. Ouellet, the personal mileage was a maximum of 667 kilometres annually. He maintained that he definitely could not have used more than 6% of the total for his own personal use.
+[12] According to Mr. Ouellet, he had used a Honda Civic or another personal car of the same category to travel in.
+[13] In cross-examination, he admitted that the Pierre-Laporte Bridge is 400 kilometres from Matane, the place where the appellant had purchased its car, and he and his wife have relatives in the Trois-Pistoles region, which is approximately 260 kilometres away. They are both from that region.
+[14] Mr. Ouellet takes one week of vacation in August to visit his family. He has also gone to see his relatives at Christmastime. According to Mr. Ouellet, he had taken the Honda Civic because the Volvo stayed at the garage in case a client needed to use it.
+[15] The vehicles Mr. Ouellet and his family allegedly used for their own personal purposes are described in a document (Exhibit A-2) that was written at the objection stage by their counsel at that time:
+[TRANSLATION]
+All throughout the audit period, Mr. Ouellet always personally owned at least one automobile, even three at the same time. During that period, he was the owner of a 1998 Honda Civic, a 1996 Honda Civic, a Ford Escort, a 1985 Pontiac Sunbird, and a 1988 Toyota Corolla. All of those vehicles were very clean and in excellent working condition.
+[16] For some reason, the appellant admitted with difficulty that those cars are subcompact cars. Note that the two Volvo cars had been purchased new.
+[17] Mr. Ouellet claimed that the appellant maintained a logbook for the Volvo car. At the hearing, he submitted a notebook that was supposed to represent the vehicle loans made to clients. The notebook indicated the loan of various cars for whole or half days. There was no mention of mileage. Note that the notebook was not shown to the auditor.
+[18] He admitted that his wife had had back problems in 1999.
+[19] Ms. Gaétane Bérubé, Mr. Bertin Ouellet's wife, testified for the appellant. She said that they often took the personal vehicle, for example the Honda Civic, to the Lower St. Lawrence. She maintained that she used the Honda Civic. She is a teacher, and her school is approximately one kilometre from the service station. Mr. Ouellet took the Toyota, and she took the Honda Civic.
+[20] Ms. Bérubé said that the business did not sell used Volvo cars other than cars that were the appellant's property. Most of the used cars that are sold are subcompact cars that are on average approximately ten years old. The appellant sells approximately 25 to 30 vehicles per year. The notebook shown by Mr. Ouellet was for loans of vehicles that were to be sold.
+[21] Mr. Sylvain Martin, the Minister's auditor, said that the conversations he had had with Ms. Bérubé had confirmed that the Volvo was still at the house on weekends. In discussions with Ms. Bérubé, she had mentioned that occasionally they went to visit their daughter in Montreal with the Volvo.
+[22] The auditor paid a great deal of attention to the insurance policy that was included in Exhibit I-2. For the period from October 29, 2000, to October 29, 2001, three vehicles were insured: a 1998 Honda Civic, a 1999 Volvo, and a 1999 Nissan pickup. These three vehicles are insured for specific areas. The Honda Civic is insured for the 1C region, the Volvo for the 2C region, and the Nissan pickup for the 2A region.
+[23] With regard to the comments in the insurance policy, the bottom of the page states that the Honda Civic was for a student, the main driver was Caroline Ouellet, the daughter of the insured, and the vehicle was used in the Montreal area.
+[24] With respect to the second vehicle, the Volvo, the driver was female, and the main use was for a female. Region 2C corresponds to St-Augustin, according to the auditor, who had asked the insurer.
+[25] The third vehicle, the Nissan pickup, was noted as being a service vehicle with no drivers under age 25 for the 2A region, which corresponds to the Quebec City area.
+Arguments
+[26] Owing to the similarity in the facts (other than the taxpayer's initial admission of making the vehicle available), counsel for the respondent referred to the decision of Tardif J. in Tremblay v. Canada, [2000] T.C.J. No. 547 (Q.L.), for which the summary taken from 2000 DTC 2414 reads as follows:
+Held: The taxpayer's appeal was dismissed. By his own admission, the Dodge Caravan was at his disposal 95% of the time. It was a more spacious and a safer vehicle than the vehicle he owned, and there were no constraints on the frequency with which he could use it. This reality alone was sufficient to result in the conferring on him of a benefit. Such benefit, moreover, was not negated by the fact that he may actually have used the vehicle only rarely for personal purposes. Subsection 6(2) of the Act contains the formula for computing the motor vehicle standby charge. This formula explicitly provides for the amounts to be added to the income of recipients of the benefits dealt with in the formula. In addition, paragraph 6(1)(e) and subsection 6(2) takes no account whatever of the fact that the recipient of the benefit may or may not have used the vehicle. The formula also carries a presumption that, once the personal use of the vehicle has been permitted, 12,000 kilometres per year (or 1,000 kilometres per month) are attributable to the personal use thereof. Such presumption, of course, is rebuttable, but the evidence required for such rebuttal must be clear and specific. This makes the use of a kilometre log book practically indispensable. Such log book, however, had not been maintained by the taxpayer in this case. The onus was on him to prove precisely the personal content involved in the 25,000 to 30,000 kilometres per year which the vehicle had been driven during the taxation years in question. It was not sufficient for him merely to allege repetitively that the personal use component was less than 10%. On the evidence, it was more than probable that he was regularly using the vehicle for family purposes during Q Inc.'s off seasons. Admittedly, there is no hard and fast rule mandating the keeping of a log book. But the decision not to maintain one compounds the evidenciary problem faced by a taxpayer having to prove, with precision, the personal content in the total kilometres involved. In this case, the taxpayer simply failed to discharge that onus. Hence, the $9,358 inclusion in his income for each of the taxation years in issue was justified. The Minister's assessments were affirmed accordingly.
+[27] Counsel noted that, according to the testimonies of the appellant's witnesses, the Honda Civic had been used by three drivers: Ms. Bérubé, Mr. Ouellet, and the student. He pointed out that there was no logbook. Then he asked whether it was likely for someone to drive a subcompact car on the highway from Quebec City to the Trois-Pistoles region when they have a safe, comfortable Volvo at their disposal. The onus is on the taxpayer to prove the mileage for business and the minimal personal mileage, and this cannot be proven in approximation.
+[28] The taxpayer argued that there had been minimal personal use and the business is not required to maintain a logbook for a vehicle it owns.
+Analysis and conclusion
+[29] Subsection 173(1) sets out that, where a registrant makes a supply of property to an individual or a person related to the individual and a benefit amount in respect of the supply is required under paragraphs 6(1)(a), (e), (k), or (l) or subsection 15(1) of the Act, the registrant must collect the tax on this benefit calculated in accordance with this provision.
+[30] The provisions of the Income Tax Act that are applicable in this case are subsection 15(5), paragraph 6(1)(e), and subsection 6(2), which read as follows:
+6(1) Amounts to be included as income from office or employment - There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+. . .
+e) Standby charge for automobile - where the taxpayer's employer or a person related to the employer made an automobile available to the taxpayer, or to a person related to the taxpayer, in the year, the amount, if any, by which
+(i) an amount that is a reasonable standby charge for the automobile for the total number of days in the year during which it was made so available
+exceeds
+(ii) the total of all amounts, each of which is an amount (other than an expense related to the operation of the automobile) paid in the year to the employer or the person related to the employer by the taxpayer or the person related to the taxpayer for the use of the automobile;
+6(2) Reasonable standby charge - For the purposes of paragraph 6(1)(e), a reasonable standby charge for an automobile for the total number of days (in this subsection referred to as the "total available days") in a taxation year during which the automobile is made available to a taxpayer or to a person related to the taxpayer by the employer of the taxpayer or by a person related to the employer (both of whom are in this subsection referred to as the "employer") shall be deemed to be the amount determined by the formula
+A/B x [2% x (C x D) + 2/3 x (E - F)
+where
+A
+is the lesser of
+(a) the total kilometres that the automobile is driven (otherwise than in connection with or in the course of the taxpayer's office or employment) during the total available days, and
+b) the value determined for B for the year under this subsection in respect of the standby charge for the automobile during the total available days,
+except that the amount determined under paragraph (a) shall be deemed to be equal to the amount determined under paragraph (b) unless
+(c) the taxpayer is required by the employer to use the automobile in connection with or in the course of the office or employment, and
+(d) all or substantially all of the distance travelled by the automobile in the total available days is in connection with or in the course of the office or employment;
+B is the product obtained when 1,000 is multiplied by the quotient obtained by dividing the total available days by 30 and, if the quotient so obtained is not a whole number and exceeds one, by rounding it to the nearest whole number or, where that quotient is equidistant from two consecutive whole numbers, by rounding it to the lower of those two numbers;
+C is the cost of the automobile to the employer where the employer owns the vehicle at any time in the year;
+D is the number obtained by dividing such of the total available days as are days when the employer owns the automobile by 30 and, if the quotient so obtained is not a whole number and exceeds one, by rounding it to the nearest whole number or, where that quotient is equidistant from two consecutive whole numbers, by rounding it to the lower of those two numbers;
+E is the total of all amounts that may reasonably be regarded as having been payable by the employer to a lessor for the purpose of leasing the automobile during such of the total available days as are days when the automobile is leased to the employer; and
+F is the part of the amount determined for E that may reasonably be regarded as having been payable to the lessor in respect of all or part of the cost to the lessor of insuring against
+(a) loss of, or damage to, the automobile, or
+(b) liability resulting from the use or operation of the automobile.
+[31] Were the Volvo cars made available to Mr. Ouellet on a rotating basis during the years at issue? I refer here to the Federal Court of Appeal's decision in Canadav. Adams (C.A.), [1998] F.C.J. No. 477 (Q.L.). Paragraph 8 of that decision states that an automobile is made available to a taxpayer if he or she has a right to use the automobile. I will now cite the paragraph.
+8 What the French and English versions share in common is the use of broad language to describe the criterion which brings paragraph 6(1)(e) into play. At the same time, the French version appears more precise, referring to an automobile which is at the "disposal" of an employee (à sa disposition ) and to an employee's "right to use" an employer's automobile (pour droit d'usage de l'automobile ). In short, an automobile is made available to an employee if it is at his or her disposal and there is a concomitant right of usage. Indeed, actual usage by an employee, for either personal or business purposes, is not expressly required. A mere right of usage is sufficient, of which more will be said below. Within this context, it is clear to me that the broad and unqualified language found in both linguistic versions of paragraph 6(1)(e) reinforces the Minister's argument that unrestricted use of an automobile is not a condition precedent to the application of that provision. Further support for this understanding is found in the legislative history of that provision.
+[32] Mr. Ouellet maintained that the business had purchased the Volvo cars to make them available for clients of the service station, but there was no specific logbook for these top-of-the-line cars that had been purchased new.
+[33] The exclusive use of Volvo cars by the appellant's clients definitely does not appear to be a normal business practice prima facie. To show that it was authentic, there should have been a log indicating the name of the person the vehicle had been lent to, the day of the loan, and the number of kilometres driven. In this manner, the auditor could have taken a sampling and checked the authenticity of the version of the appellant's principal shareholder. No record was shown to the auditor. The logbook submitted at the hearing did not prove anything.
+[34] The notebook submitted as a log of the use or loan of the cars could only be connected to the used vehicle business for test drives, which is what Mr. Ouellet's wife mentioned. The logbook did not indicate the mileage and rarely indicated the loan of a Volvo car. I must say that the evidence regarding this notebook is obscure, and I need to take into account that this notebook was not submitted to the auditor at the time of the audit.
+[35] It must be remembered that the business was selling used vehicles, most of which were subcompact cars. No Volvos were sold. The only sale of a Volvo was allegedly the sale of a Volvo that was the business's property.
+[36] Therefore, I am of the opinion that the evidence revealed that, all throughout the years of the period at issue, the Volvo car was at the taxpayer's disposal because he held a constant right to use those cars, whether that usage was limited or not.
+[37] According to paragraph 6(1)(e) of the Income Tax Act, reasonable standby charges for the automobile for the total number of days in the year during which it was made so available must be included in computing the income of the taxpayer.
+[38] Subsection 6(2) of the Income Tax Act dictates how these reasonable charges are to be calculated. These charges are reduced considerably if the taxpayer is able to use the exception for minimal personal use. It involves determining whether all or substantially all of the distance the automobile was driven was driven for the company's business purposes.
+[39] I do not find it plausible that the appellant's principal shareholder and his wife used a Honda Civic for long trips when they had a Volvo car at their disposal.
+[40] I must also say that the evidence introduced by the insurance policy for the vehicles is a deciding factor. The Volvo is not insured as a service vehicle, but the Nissan pickup is. The Volvo is used in the St-Augustin region primarily by a female driver.
+[41] The Honda Civic was insured for the Montreal area, where Mr. Ouellet's daughter studied; therefore, the car could not have been used primarily by three drivers, two of whom were in Quebec City and one of whom was in Montreal.
+[42] The documentary and testimonial evidence submitted cannot convince me of minimal personal use of the Volvo cars or even that all or substantially all of the mileage driven by the Volvo cars was for the company's business purposes.
+[43] Therefore, the appeal is dismissed.
+Signed at Ottawa, Canada, this 4th day of March 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 20th day of December 2004.
+Colette Beaulne, Translator

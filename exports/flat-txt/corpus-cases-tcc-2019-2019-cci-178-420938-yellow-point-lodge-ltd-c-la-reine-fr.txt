@@ -1,0 +1,308 @@
+Title: Yellow Point Lodge Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/420938/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-178-420938-yellow-point-lodge-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-08-28
+
+# Yellow Point Lodge Ltd. c. La Reine
+
+- Citation: 2019 CCI 178
+- Decision date: 2019-08-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4233, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yellow Point Lodge Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-08-28
+Référence neutre
+2019 CCI 178
+Numéro de dossier
+2016-3838(IT)G
+Juges et Officiers taxateurs
+Henry A. Visser
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-3838(IT)G
+ENTRE :
+YELLOW POINT LODGE LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 28 juin 2018, à London (Ontario)
+Devant : L’honorable juge Henry A. Visser
+Comparutions :
+Avocat de l’appelante :
+Me Keith M. Trusser
+Avocate de l’intimée :
+Me Selena Sit
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition de l’appelante se terminant le 31 décembre 2014 est rejeté.
+Signé à Charlottetown (Île-du-Prince-Édouard), ce 28e jour du mois d’août 2019.
+« Henry A. Visser »
+Le juge Visser
+Traduction certifiée conforme
+ce 22e jour d’octobre 2019.
+Mario Lagacé, jurilinguiste
+Référence : 2019 CCI 178
+Date : 20190827
+Dossier : 2016-3838(IT)G
+ENTRE :
+YELLOW POINT LODGE LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Visser
+[1] Yellow Point Lodge Ltd. (Yellow Point) est une société constituée en application des lois de la Colombie-Britannique qui est le propriétaire inscrit de certains terrains situés à Yellow Point, sur l’île de Vancouver, plus précisément au 3700, Yellow Point Road, Ladysmith, en Colombie-Britannique (les terrains). Les terrains sont, pour la plupart, non aménagés et à l’état brut, à l’exception d’un complexe de gîtes et de chalets appelé Yellow Point Lodge, détenu et exploité par Yellow Point sur une partie desdits terrains.
+[2] Le 6 juin 2008, Yellow Point a fait don d’un covenant et d’autres intérêts reconnus en common law concernant une parcelle de terre écosensible de 27,35 hectares située dans la partie est des terres (collectivement, le covenant); cette parcelle a été cédée en parts égales à TLC The Land Conservancy of British Columbia (TLC) et à la Nanaimo & Area Land Trust Society (NALT). À ce moment-là, la juste valeur marchande du covenant était de 5 810 000 $.
+[3] Dans sa déclaration de revenus de l’année d’imposition se terminant le 31 décembre 2008, Yellow Point n’avait pas initialement demandé de déduction pour avoir fait don du covenant à TLC et à la NALT en application de l’alinéa 110.1(1)d) de la Loi de l’impôt sur le revenu [1] (la Loi) parce qu’elle n’avait pas encore obtenu les documents suivants relatifs à cette transaction :
+a) une déclaration de la juste valeur marchande d’un don écologique en application de la Loi de l’impôt sur le revenu du Canada;
+b) une attestation de don de terre écosensible, l’identification du bénéficiaire et l’approbation de l’organisme de bienfaisance enregistré en application de la Loi de l’impôt sur le revenu du Canada; et
+c) les reçus fiscaux pour don de TLC et de la NALT.
+[4] Le 16 juillet 2009, la déclaration de revenus de 2008 de Yellow Point, tel qu’elle a été produite, a fait l’objet d’une cotisation du ministre du Revenu national (le ministre), en application de la Loi. L’année d’imposition 2008 de Yellow Point n’est pas visée par le présent appel.
+[5] Par la suite, le ministre fédéral de l’Environnement a délivré les deux attestations suivantes à Yellow Point en ce qui concerne le don de covenant à TLC et à la NALT (collectivement, les attestations) :
+a) un avis de détermination de la juste valeur marchande d’un don écologique en application de la Loi de l’impôt sur le revenu, daté du 21 décembre 2009, qui établissait la valeur du covenant à 5 810 000 $; et
+b) une attestation de don de terre écosensible, l’identification du bénéficiaire et l’approbation de l’organisme de bienfaisance enregistré en application de la Loi de l’impôt sur le revenu du Canada, datée du 22 décembre 2009.
+[6] Le 18 février 2010, TLC a remis à Yellow Point un reçu fiscal de 2 905 000 $, soit 50 % de la valeur du don de covenant. À son tour, le 26 février 2010, la NATL a remis à Yellow Point un reçu fiscal de 2 905 000 $, soit 50 % de la valeur du don de covenant.
+[7] Dans une lettre datée du 19 mai 2010 rédigée par son cabinet de comptables agréés, Parkes & Moysey, Yellow Point demandait au ministre d’établir une nouvelle cotisation pour l’année d’imposition s’étant terminée le 31 décembre 2008 afin de lui permettre de demander une déduction des revenus de 382 779 $ relativement à son don de covenant effectué en 2008. Cette déduction avait notamment pour but de réduire le revenu imposable de Yellow Point à zéro pour l’année 2008. À cet égard, le 27 juin 2010, l’année d’imposition de l’appelante s’étant terminée le 31 décembre 2008 a fait l’objet d’une nouvelle cotisation par le ministre afin de lui permettre de demander une déduction des revenus de 382 779 $ relativement à son don de covenant, en application de l’alinéa 110.1(1)d) de la Loi. À la suite de cette nouvelle cotisation, effectuée le 27 juillet 2010, l’appelante n’a pas soumis au ministre de demande visant à établir une nouvelle cotisation pour l’année d’imposition s’étant terminée le 31 décembre 2008 dans le but de retirer la déduction des revenus de 382 779 $ relativement au don de covenant.
+[8] Pour les années d’imposition subséquentes, Yellow Point a également demandé les déductions de revenus suivantes relativement à son don de covenant, en application de l’alinéa 110.1(1)d) de la Loi :
+a) 31 décembre 2009 – 474 673 $;
+b) 31 décembre 2010 – 495 339 $;
+c) 31 décembre 2011 – 496 252 $;
+d) 31 décembre 2012 – 519 720 $; et
+e) 31 décembre 2013 – 468 055 $.
+[9] En tout, Yellow Point a demandé la déduction de 2 836 818 $ relativement à son don de covenant pour les années d’imposition 2008 à 2013, en application de l’alinéa 110.1(1)d) de la Loi. Par conséquent, le montant du don de covenant qui est demeuré non déduit après son année d’imposition 2013 était de 2 973 182 $.
+[10] Dans sa déclaration de revenus de l’année d’imposition s’étant terminée le 31 décembre 2014, Yellow Point a demandé une autre déduction de revenus de 1 553 374 $ relativement à son don de covenant, en application de l’alinéa 110.1(1)d) de la Loi. Le 28 juillet 2015, le ministre a établi une cotisation à l’égard de l’année d’imposition de l’appelante s’étant terminée le 31 décembre 2014 et a délivré un avis ce même jour (la « cotisation ») refusant la demande de déduction par Yellow Point relativement à son don de covenant, pour le motif que ce don de covenant avait été effectué en 2008 et que Yellow Point n’était donc pas autorisée à demander une déduction pour son année d’imposition 2014, car elle n’était pas comprise dans la période de report prospectif de cinq ans prévue à l’alinéa 110.1(1)d) de la Loi (qui s’applique aux dons effectués en 2008).
+[11] Le 26 octobre 2015, l’appelante a signifié au ministre un avis d’opposition concernant la cotisation. Le ministre a ratifié la cotisation dans un avis daté du 22 juin 2016. L’appelante a interjeté appel à l’encontre de la cotisation devant la Cour pour le motif que la déduction demandée pour le don de covenant effectué en 2008 n’était pas valide et que la période de report prospectif de cinq ans autorisée en application de l’alinéa 110.1(1)d) de la Loi ne commençait qu’en 2009, date à laquelle les attestations ont été délivrées, et se terminait durant l’année d’imposition 2014 de Yellow Point.
+I. QUESTIONS EN LITIGE
+[12] Les faits du présent appel ne sont pas en litige; ils sont résumés ci-dessus. Les parties ont déposé un exposé conjoint des faits, dont le texte est reproduit à l’annexe « A » [2] . Les parties ont également présenté un recueil conjoint des documents [3] , qui comprend notamment des copies des documents pertinents faisant état du don de covenant à TLC et à la NALT par Yellow Point. Les parties n’ont appelé aucun témoin à l’audition du présent appel.
+[13] Le présent appel porte sur une interprétation technique des règles de report prospectif pour certains dons (souvent appelés « dons écologiques ») énoncées à l’alinéa 110.1(1)d) de la Loi. À cet égard, la seule question en litige dans le présent appel consiste à déterminer si Yellow Point a le droit de demander une déduction de 1 553 374 $ dans le calcul de son revenu pour l’année d’imposition s’étant terminée le 31 décembre 2014 relativement au report prospectif de son don de covenant, en application de l’alinéa 110.1(1)d) et du paragraphe 110.1(2) de la Loi. Pour les raisons qui suivent, j’estime que l’appelante n’y aurait pas droit, car la période de report prospectif de cinq ans pour le don de covenant, prévue à l’alinéa 110.1(1)d), a pris fin durant l’année d’imposition 2013 de Yellow Point.
+II. DROIT ET DISCUSSION
+[14] En ce qui concerne les dons effectués en 2008 et en 2009, l’alinéa 110.1(1)d) de la Loi est rédigé comme suit [4] :
+110.1(1) Déductions pour dons [de bienfaisance] applicables aux sociétés – Les montants suivants peuvent être déduits par une société dans le calcul de son revenu imposable pour une année d’imposition :
+[...]
+d) Dons de biens écosensibles – Le total des montants représentant chacun le montant admissible d’un don de fonds de terre, y compris un covenant ou une servitude, visant un fonds de terre (la servitude devant être, si le fonds de terre est situé au Québec, une servitude réelle) si, à la fois :
+(i) la juste valeur marchande du don est attestée par le ministre de l’Environnement,
+(ii) selon l’attestation de ce ministre ou d’une personne qu’il désigne, le fonds de terre est sensible sur le plan écologique, et sa préservation et sa conservation sont, de l’avis de ce ministre ou de cette personne, importantes pour la protection du patrimoine environnemental du Canada,
+(iii) le don a été fait par la société au cours de l’année ou des cinq années d’imposition précédentes à l’une des personnes suivantes :
+[...]
+(D) un organisme de bienfaisance enregistré qui est approuvé par ce ministre ou par la personne désignée pour ce qui est du don et dont l’une des principales missions, de l’avis de ce ministre, est de conserver et de protéger le patrimoine environnemental du Canada.
+[Non souligné dans l’original.]
+[15] En ce qui concerne les dons effectués en 2008 et en 2009, le paragraphe 110.1(2) de la Loi est rédigé comme suit :
+110.1(2) Attestation des dons – Pour que le montant admissible d’un don soit inclus dans le calcul d’une déduction en application du paragraphe (1), le versement du don doit être attesté par la présentation au ministre des documents suivants :
+a) un reçu contenant les renseignements prescrits;
+[...]
+c) s’il s’agit d’un don visé à l’alinéa (1)d), les deux attestations mentionnées à cet alinéa.
+[16] En l’espèce, les parties ne s’entendent pas sur l’interprétation du sous-alinéa 110.1(1)d)(iii) (reproduit ci-dessus), selon lequel Yellow Point pourrait demander une déduction pour une année d’imposition relativement à son don de convenant si, notamment, « le don a été fait par la société au cours de l’année ou des cinq années d’imposition précédentes » [5] . Essentiellement, elles ne s’entendent pas à savoir si le don de covenant a été « fait » selon les termes du sous-alinéa 110.1(1)d)(iii). À cet égard, l’intimée soutient que le don de covenant a été « fait » en 2008 lorsqu’il a été octroyé légalement par Yellow Point à TLC et à la NALT, tandis que l’appelante croit plutôt qu’il a été « fait » en 2009, date où toutes les conditions préalables pour effectuer un don écologique avaient été remplies (c.-à-d. en décembre 2009, lorsque le ministre de l’Environnement a délivré les attestations). Après avoir examiné les observations fournies par chacune des parties et compte tenu de toutes les circonstances du présent appel, je suis d’accord avec l’intimée pour les motifs qui suivent.
+[17] En l’espèce, il est clair que Yellow Point a fait légalement don du covenant le 6 juin 2008 [6] . Par conséquent, l’intimée soutient que Yellow Point a « fait » le don du covenant en 2008 et ne pouvait demander une déduction relativement à ce don, en application de l’alinéa 110.1(1)d) de la Loi, que pour les années d’imposition 2008 à 2013 de l’appelante, ce que l’appelante a fait et ce que le ministre a autorisé. À cet égard, l’intimée soutient que les termes de l’alinéa 110.1(1)d) de la Loi sont clairs et que la Cour ne devrait pas, comme l’affirme l’appelante, interpréter librement les termes et les qualificatifs de la disposition.
+[18] Cependant, l’appelante affirme que l’analyse textuelle de l’alinéa 110.1(1)d) de la Loi ne concorde pas avec son objet, et elle encourage la Cour à entreprendre une analyse textuelle, contextuelle et téléologique de l’alinéa 110.1(1)d). À cet égard, l’appelante soutient que :
+a) Les « dons écologiques » doivent faire partie d’une catégorie de dons distincte. Le programme de dons écologiques a pour but d’offrir un incitatif fiscal aux personnes qui souhaitent faire don de terres écosensibles afin d’assurer que la biodiversité et le patrimoine environnemental soient préservés à perpétuité.
+b) Le concept de « don écologique » n’existe pas en common law; il a été créé exclusivement aux termes de la Loi. Par conséquent, le terme « don » employé à l’alinéa 110.1(1)d) ne désigne pas les dons ordinaires, mais plutôt les « dons écologiques » « effectués ».
+c) Conformément à l’alinéa 110.1(1)d), un transfert ou une cession de terres ne constitue pas un « don écologique », sauf s’il présente toutes les caractéristiques énoncées à l’alinéa 110.1(1)d) (et, plus précisément, si le ministre de l’Environnement délivre les deux attestations énoncées à cet alinéa).
+d) Aux termes de l’alinéa 110.1(1)d), un don n’est pas considéré comme étant « fait » avant que toutes les conditions préalables énoncées aux présentes aient été « remplies », et la période de report prospectif de cinq ans ne doit pas commencer avant ce moment.
+e) Un « don écologique » est considéré comme étant « effectué » uniquement lorsque les terres ou le covenant ont été donnés et que les attestations prévues à l’alinéa 110.1(1)d) ont été fournies à la société donatrice par le ministre de l’Environnement.
+f) Le concept de « dons écologiques » devrait être le même pour les personnes (conformément à la section 118.1 de la Loi) et pour les sociétés (conformément à l’alinéa 110.1(1)d) de la Loi).
+g) En l’espèce, le don du covenant par Yellow Point a été « effectué » et jugé « fait » lorsque le ministre de l’Environnement a délivré les attestations en décembre 2009.
+h) La déduction demandée en 2008 par Yellow Point aux termes de l’alinéa 110.1(1)d) n’était pas valide, car le don du convenant par Yellow Point n’a pas été « fait » avant 2009, date à laquelle le ministre de l’Environnement a délivré les attestations. De plus, l’alinéa 110.1(1)d) n’autorise pas les reports rétrospectifs.
+i) La période de report prospectif de cinq ans pour le don du covenant s’étend jusqu’à l’année d’imposition 2014 de Yellow Point parce que le don du covenant a été « fait » en 2009.
+j) L’interprétation par le ministre de l’alinéa 110.1(1)d) entraîne des conséquences sévères et injustes qui vont à l’encontre de l’application de l’alinéa 110.1(1)d), car un contribuable ne perd pas la possibilité de demander une déduction en compensation d’un don écologique pour les années d’imposition précédant la date à laquelle le ministre de l’Environnement a délivré les attestations requises aux termes de l’alinéa 110.1(1)d). En l’espèce, l’appelante perdra une année pour laquelle une déduction peut être demandée.
+k) L’appelante est prête à consentir à ce qu’une nouvelle cotisation de son année d’imposition 2008 soit effectuée afin d’annuler la déduction autorisée par le ministre en raison du don écologique fait en 2009.
+[19] Comme il a été mentionné précédemment, l’appelante soutient que l’analyse textuelle, contextuelle et téléologique de l’alinéa 110.1(1)d) de la Loi appuie sa conclusion selon laquelle le don du covenant à TLC et à la NALT n’a pas été jugé « fait » en application de l’alinéa 110.1(1)d) avant 2009. À mon avis, la thèse de l’appelante dans le présent appel (ainsi que son interprétation de l’alinéa 110.1(1)d)) est dénuée de fondement. Toujours à mon avis, le libellé de l’alinéa 110.1(1)d) est très clair et fonctionne comme le voulait le législateur. Je suis également d’avis que la thèse avancée par l’appelante en l’espèce, si elle était adoptée par la Cour, entraînerait beaucoup d’incertitude relativement à l’application de l’alinéa 110.1(1)d) et, par conséquent, ferait probablement obstacle aux objectifs et aux politiques prévus par le législateur quant à l’adoption de l’alinéa 110.1(1)d) de la Loi.
+[20] Dans l’arrêt Hypothèques Trustco Canada c. Canada, 2005 CSC 54, aux paragraphes 10 à 13, la Cour suprême du Canada a noté ce qui suit en ce qui concerne les principes d’interprétation applicables à la Loi :
+10 Il est depuis longtemps établi en matière d’interprétation des lois qu’« il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur » : voir 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, par. 50. L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux.
+11 En raison du principe du duc de Westminster (Inland Revenue Commissioners c. Duke of Westminster (1935), [1936] A.C. 1 (R.-U., H.L.)), selon lequel le contribuable a le droit d’organiser ses affaires de façon à réduire au maximum l’impôt qu’il doit payer, le droit fiscal canadien a reçu une interprétation stricte à une époque où l’interprétation littérale des lois était plus courante qu’aujourd’hui. De nos jours, il ne fait aucun doute que toutes les lois, y compris la Loi de l’impôt sur le revenu, doivent être interprétées de manière textuelle, contextuelle et téléologique. Cependant, le caractère détaillé et précis de nombreuses dispositions fiscales a souvent incité à mettre l’accent sur l’interprétation textuelle. Lorsque le législateur précise les conditions à remplir pour obtenir un résultat donné, on peut raisonnablement supposer qu’il a voulu que le contribuable s’appuie sur ces dispositions pour obtenir le résultat qu’elles prescrivent.
+12 Les dispositions de la Loi de l’impôt sur le revenu doivent être interprétées de manière à assurer l’uniformité, la prévisibilité et l’équité requises pour que les contribuables puissent organiser intelligemment leurs affaires. Comme l’affirme la Cour, au paragraphe 45 de l’arrêt Shell Canada Ltée c. Canada, [1999] 3 R.C.S. 622 :
+[E]n l’absence d’une disposition expresse contraire, il n’appartient pas aux tribunaux d’empêcher les contribuables de recourir, dans le cadre de leurs opérations, à des stratégies complexes qui respectent les dispositions pertinentes de la Loi, pour le motif que ce serait inéquitable à l’égard des contribuables qui n’ont pas opté pour cette solution.
+[Souligné par la C.S.C.]
+Voir également l’arrêt 65302 British Columbia, au paragraphe 51, où le juge Iacobucci cite P. W. Hogg et J. E. Magee, Principles of Canadian Income Tax Law (2e éd. 1997), p. 475 et 476 :
+[traduction] La Loi de l’impôt sur le revenu serait empreinte d’une incertitude intolérable si le libellé clair d’une disposition détaillée de la Loi était nuancé par des exceptions qui n’y sont pas exprimées, provenant de la conception qu’un tribunal a de l’objet de la disposition.
+13 La Loi de l’impôt sur le revenu demeure un instrument dominé par des dispositions explicites qui prescrivent des conséquences particulières et commandent une interprétation largement textuelle. À cet ensemble de dispositions détaillées, le législateur a greffé une disposition d’un genre bien différent, la RGAÉ, qui est une disposition générale destinée à invalider, pour le motif qu’ils constituent de l’évitement fiscal abusif, des mécanismes qui seraient acceptables selon une interprétation littérale d’autres dispositions de la Loi de l’impôt sur le revenu. Comme l’indique l’arrêt Shell (par. 45), dans la mesure où la RGAÉ constitue une « disposition [...] contraire », le principe du duc de Westminster et l’accent mis sur l’interprétation textuelle peuvent être atténués. En définitive, comme le précise l’arrêt Shell, « [i]l incombe aux tribunaux d’interpréter et d’appliquer la Loi telle qu’elle a été adoptée par le Parlement » (par. 45). Les tribunaux doivent, dans la mesure du possible, donner effet simultanément à la RGAÉ et aux autres dispositions de la Loi de l’impôt sur le revenu applicables à une opération donnée.
+[Non souligné dans l’original.]
+[21] L’alinéa 110.1(1)d), énoncé ci-dessus, applicable aux dons faits en 2008 et en 2009, autorise une société à demander une déduction dans le calcul de son revenu imposable pour une année d’imposition si elle répond aux critères suivants :
+a) Elle doit porter sur un don de fonds de terre, y compris un covenant ou une servitude visant un fonds de terre ou, si le fonds de terre est situé au Québec, une servitude réelle;
+b) La juste valeur marchande du don doit être attestée par le ministre fédéral de l’Environnement;
+c) Selon l’attestation du ministre fédéral de l’Environnement (ou d’une personne désignée), le fonds de terre doit être sensible sur le plan écologique;
+d) Le don doit avoir été fait au cours de l’année ou des cinq années d’imposition précédentes à un donataire particulier, énoncé à l’alinéa 110.1(1)d);
+e) En application du paragraphe 110.1(2), toute société qui demande une déduction pour un don aux termes de l’alinéa 110.1(1)d) doit en attester le versement en présentant au ministre un reçu contenant les renseignements prescrits et les deux attestations fournies par le ministre de l’Environnement.
+[22] Je conviens avec l’intimée que chacun de ces critères doit être examiné séparément selon le libellé de la Loi. Par conséquent, il faut d’abord déterminer si un don a été fait. Bien que la Loi ne contienne aucune définition du terme « don », la signification de celui-ci a été établie par la jurisprudence. Par exemple, dans l’arrêt Canada c. Berg, 2014 CAF 25, au paragraphe 23, la Cour d’appel fédérale a noté ce qui suit :
+23 La Loi ne définit pas le terme « don ». La signification de ce terme est établie en vertu du droit applicable, en l’occurrence de la common law. La définition qui fait autorité est énoncée comme suit dans l’arrêt La Reine c. Friedberg (1991), 92 D.T.C. 6031 (C. A.F.), (Friedberg) :
+[…] un don est le transfert volontaire du bien d’un donateur à un donataire, en échange duquel le donateur ne reçoit pas d’avantage ni de contrepartie (à la page 6032).
+[23] En l’espèce, comme il a été mentionné précédemment, il est clair que Yellow Point a fait légalement don du covenant à TLC et à la NALT le 6 juin 2008. Yellow Point ne conteste pas cette affirmation. À mon avis, il est donc clair que Yellow Point a fait le don du covenant à TLC et à la NALT à cette date.
+[24] Je relève que l’appelante était initialement de cet avis. À cet égard, je tiens à souligner que l’appelante, dans une lettre envoyée à l’Agence du revenu du Canada par son comptable le 19 mai 2020[sic], demandait au ministre de rajuster son revenu imposable pour 2008 afin de lui permettre de déduire un montant pour le don effectué. Le premier paragraphe de la lettre se lit comme suit :
+[TRADUCTION]
+Au cours de l’année 2008, la société susmentionnée a fait un don de terre sensible sur le plan écologique évalué à 5 810 000 $. Ce don n’a pas été déclaré dans la déclaration de revenus de la société pour l’année 2008, car les pièces justificatives concernant la valeur du don et son admissibilité en tant que terre sensible sur le plan écologique n’ont été fournies qu’en décembre 2009 par Environnement Canada. Afin d’appuyer ce don, nous joignons des copies des documents suivants : [...]
+[25] Cependant, l’appelante affirme maintenant qu’elle avait eu tort de demander la déduction d’un montant pour l’année d’imposition 2008 et que le ministre avait erré en accueillant sa demande de déduction pour son année d’imposition 2008, car le don n’a été fait qu’en 2009, date où tous les critères susmentionnés ont été satisfaits. Je suis toutefois d’avis que l’interprétation de l’appelante ne peut être acceptée. Je suis d’accord avec l’intimée que chacun des critères énoncés à l’alinéa 110.1(1)d) est distinct et, plus précisément, ne fait pas partie de la détermination à savoir si un don a été fait; à mon avis, cela se produit lorsqu’un donateur procède légalement au transfert volontaire d’un bien à un donataire (selon la signification établie par l’arrêt Friedberg).
+[26] Je relève également que cette interprétation est étayée par le libellé de l’alinéa 110.1(1)d) et le contexte de la Loi considérée dans son ensemble. L’alinéa 110.1(1)d) fait précisément référence à un « don de fonds de terre ». Il fait également référence à la « juste valeur marchande du don » et à l’année d’imposition durant laquelle « le don a été fait par la société ». En outre, il ne dispose pas que le « versement du don » est conditionnel à l’obtention par la société des deux attestations fournies par le ministre de l’Environnement. Il s’agit d’événements distincts, et toute société qui fait un don assume le risque associé à l’obtention des attestations requises par le ministre de l’Environnement si elle souhaite demander une déduction aux termes de l’alinéa 110.1(1)d) de la Loi. À cet égard, je relève qu’un don de terre sensible sur le plan écologique serait un don valide du point de vue du droit même si la société donatrice ne recevait pas les attestations requises par le ministre de l’Environnement. Toutefois, dans cette hypothèse, le donateur ne pourrait demander une déduction aux termes de l’alinéa 110.1(1)d. Il est clair, à mon sens, que l’obtention de ces attestations est obligatoire avant de pouvoir demander une déduction aux termes de l’alinéa 110.1(1)d) de la Loi, mais pas pour déterminer si un don de terre a été « fait » en application de l’alinéa 110.1(1)d).
+[27] Le paragraphe 110.1(2) traite également d’un « don » déduit en application de l’alinéa 110.1(1)d) et prévoit expressément que « le versement du don » doit être attesté par « un reçu » et, « s’il s’agit d’un don visé à l’alinéa (1)d), les deux attestations mentionnées à cet alinéa ». À mon avis, le libellé du paragraphe 110.1(2) étaie la thèse de l’intimée, selon laquelle le versement du don est distinct du reçu et des attestations qui doivent être fournies au ministre avant de demander une déduction pour don aux termes de l’alinéa 110.1(1)d). À cet égard, je constate que les reçus de dons fournis par TLC et la NALT à Yellow Point indiquent tous deux que le don en litige dans le présent appel a été fait le 6 juin 2008. [7]
+[28] Le paragraphe 110.1(5) s’applique également aux dons faits en application de l’alinéa 110.1(1)d) et est rédigé comme suit :
+110.1(5) Dons de biens écosensibles – Pour l’application du sous-alinéa 69(1)b)(ii), du présent article et de l’article 207.31 au don visé à l’alinéa (1)d) qui est fait par un contribuable, le montant qui représente à la fois la juste valeur marchande du don au moment où il a été fait (ou, pour l’application du paragraphe (3), sa juste valeur marchande à ce moment, déterminée par ailleurs) et, sous réserve du paragraphe (3), son produit de disposition pour le contribuable est réputé correspondre au montant, fixé par le ministre de l’Environnement, qui représente :
+a) s’il s’agit d’un don de fonds de terre, la juste valeur marchande du don;
+b) s’il s’agit d’un don de covenant ou de servitude visant un fonds de terre, la servitude devant être une servitude réelle ou personnelle si le fonds de terre est situé au Québec, le plus élevé des montants suivants :
+(i) la juste valeur marchande du don, déterminée par ailleurs,
+(ii) le montant appliqué en réduction de la juste valeur marchande du fonds de terre par suite du don.
+[29] Le paragraphe 110.1(5) dispose que la juste valeur marchande « du don au moment où il a été fait » et le « produit de disposition du bien pour le contribuable » sont réputés correspondre au montant fixé par le ministre de l’Environnement. À mon avis, le paragraphe 110.1(5) prévoit également que le versement du don est distinct du processus visant à obtenir les attestations requises auprès du ministre de l’Environnement.
+[30] Les paragraphes 118.1(10.2) à (12) de la Loi décrivent le processus permettant d’obtenir les attestations requises auprès du ministre de l’Environnement en application de l’alinéa 110.1(1)d) ainsi que les droits d’appel d’un contribuable en ce qui concerne les décisions prises par ce ministre. Ces paragraphes sont rédigés ainsi :
+118.1(10.2) Demande au ministre de l’Environnement – La personne qui dispose, ou se propose de disposer, d’un bien qui serait un don visé à l’alinéa 110.1(1)d) ou à la définition de total des dons de biens écosensibles au paragraphe (1) si la disposition était effectuée et les attestations visées à ces dispositions, délivrées par le ministre de l’Environnement, peut demander à ce ministre, par écrit, de fixer la juste valeur marchande du bien.
+(10.3) Obligation du ministre de l’Environnement – Sur réception de la demande, le ministre de l’Environnement fixe avec diligence, conformément au paragraphe 110.1(5) ou au paragraphe (12), selon le cas, la juste valeur marchande du bien mentionné dans la demande et en avise par écrit la personne qui a disposé du bien ou qui se propose d’en disposer. Toutefois, il n’est pas donné suite à la demande si celle-ci parvient à ce ministre une fois écoulée la période de trois ans suivant la fin de l’année d’imposition de la personne au cours de laquelle il a été disposé du bien.
+(10.4) Biens écosensibles — valeur fixée de nouveau – Une fois la personne avisée, conformément au paragraphe (10.3), de la juste valeur marchande d’un bien relativement à sa disposition ou à sa disposition projetée, les règles suivantes s’appliquent :
+a) sur réception d’une demande écrite de la personne présentée au plus tard 90 jours suivant l’avis, le ministre de l’Environnement, avec diligence, confirme cette juste valeur marchande ou la fixe de nouveau;
+b) ce ministre peut à tout moment, de sa propre initiative, fixer de nouveau la juste valeur marchande;
+c) dans un cas comme dans l’autre, ce ministre avise la personne par écrit de la confirmation ou de la valeur fixée de nouveau;
+d) la valeur fixée de nouveau est réputée remplacer celles qui ont été fixées ou fixées de nouveau antérieurement, à compter de la date où la valeur a été fixée pour la première fois.
+(10.5) Attestation de la juste valeur marchande – Lorsque le ministre de l’Environnement fixe la juste valeur marchande d’un bien aux termes du paragraphe (10.3), ou la fixe de nouveau aux termes du paragraphe (10.4), et qu’il a été disposé du bien à un donataire reconnu visé à l’alinéa 110.1(1)d) ou à la définition de total des dons de biens écosensibles au paragraphe (1), ce ministre délivre à la personne ayant disposé du bien une attestation de la juste valeur marchande du bien ainsi fixée ou fixée de nouveau. En cas de délivrance de plus d’une telle attestation, la dernière est réputée remplacer les précédentes à compter de la date de délivrance de la première attestation.
+(11) Cotisations – Malgré les paragraphes 152(4) à (5), le ministre peut établir les cotisations ou les nouvelles cotisations voulues concernant l’impôt, les intérêts ou les pénalités payables par un contribuable en vertu de la présente loi pour une année d’imposition pour donner effet, selon le cas :
+a) à un certificat délivré en vertu du paragraphe 33(1) de la Loi sur l’exportation et l’importation de biens culturels ou à une décision d’un tribunal résultant de l’appel prévu à l’article 33.1 de cette loi;
+b) à une attestation délivrée en vertu du paragraphe (10.5) ou à une décision d’un tribunal résultant de l’appel prévu au paragraphe 169(1.1).
+(12) Dons de biens écosensibles [juste valeur marchande] – Pour l’application du sous-alinéa 69(1)b)(ii), du paragraphe 70(5), du présent article et de l’article 207.31 au don visé à la définition de total des dons de biens écosensibles au paragraphe (1) qui est fait par un particulier, le montant qui représente à la fois la juste valeur marchande du don au moment où il a été fait (ou, pour l’application du paragraphe (6), sa juste valeur marchande à ce moment, déterminée par ailleurs) et, sous réserve du paragraphe (6), son produit de disposition pour le particulier est réputé correspondre au montant, fixé par le ministre de l’Environnement, qui représente :
+a) s’il s’agit d’un don de fonds de terre, la juste valeur marchande du don;
+b) s’il s’agit d’un don de servitude ou de convention visant un fonds de terre, le plus élevé des montants suivants :
+(i) la juste valeur marchande du don, déterminée par ailleurs,
+(ii) le montant appliqué en réduction de la juste valeur marchande du fonds de terre par suite du don.
+[31] Le paragraphe 118.1(10.2) prévoit qu’un contribuable qui dispose ou qui propose de disposer d’un bien visé à l’alinéa 110.1(1)d) peut demander que la juste valeur marchande de ce bien soit évaluée par le ministre de l’Environnement. Il prévoit ainsi qu’un don peut être fait, du point de vue du droit, sans que le donateur n’ait à obtenir les attestations auprès du ministre de l’Environnement s’il choisit de ne pas le faire. Toutefois, si le donateur choisit de le faire, le paragraphe prévoit que cette demande doit être présentée avant ou après le versement légal du don, et cette demande est jugée entièrement distincte du versement en soi.
+[32] Selon le paragraphe 118.1(10.3), le ministre de l’Environnement « fixe avec diligence, conformément au paragraphe 110.1(5) ou au paragraphe (12) [...] la juste valeur marchande du bien mentionné dans la demande et en avise par écrit la personne [...] ». Le paragraphe 118.1(10.3) exige que le ministre de l’Environnement fixe la juste valeur marchande du don et en avise la personne concernée.
+[33] Le paragraphe 118.1(10.4) prévoit que la juste valeur marchande du bien offert en don (y compris d’un don proposé) soit réévaluée par le ministre de l’Environnement à l’initiative de ce dernier ou à la demande de la personne concernée.
+[34] Après que le ministre de l’Environnement a fixé ou réévalué la juste valeur marchande du bien aux termes des paragraphes 118.1(10.3) ou (10.4) et que le bien a été disposé à un donataire reconnu visé à l’alinéa 110.1(1)d), le paragraphe 118.1(10.5) prévoit que le ministre de l’Environnement doit délivrer à la personne ayant disposé du bien une attestation de la juste valeur marchande du bien. Le paragraphe 118.1(10.5) prévoit également que la délivrance de l’attestation par le ministre de l’Environnement doit être distincte du versement du don et de la disposition du bien offert en don et qu’elle doit survenir après ces deux événements.
+[35] Le paragraphe 169(1.1) de la Loi, à son tour, autorise un contribuable à interjeter appel à l’encontre de toute décision du ministre de l’Environnement une fois que celui-ci a délivré une attestation de la juste valeur marchande, en application du paragraphe 118.1(10.5). Le paragraphe 169(1.1) est rédigé ainsi :
+169(1.1) Dons de biens écosensibles – Le contribuable qui dispose d’un bien dont la juste valeur marchande a été confirmée ou fixée de nouveau par le ministre de l’Environnement aux termes du paragraphe 118.1(10.4) peut, dans les 90 jours suivant le jour où ce ministre a délivré l’attestation prévue au paragraphe 118.1(10.5), interjeter appel auprès de la Cour canadienne de l’impôt pour faire modifier la valeur ainsi confirmée ou fixée de nouveau.
+[36] Le paragraphe 169(1.1) prévoit donc également que les droits d’appels du donateur, dont la juste valeur marchande du bien offert en don a été confirmée ou fixée de nouveau, sont distincts du versement du don et de la disposition du bien, et y sont conditionnels.
+[37] Le paragraphe 118.1(11) dispose que le ministre de l’Environnement doit établir une cotisation ou une nouvelle cotisation pour toute année d’imposition afin de valider l’attestation qu’il a délivrée aux termes du paragraphe 118.1(10.5). Ainsi, contrairement aux observations avancées par l’appelante en l’espèce, le paragraphe 118.1(11) exige que le ministre établisse une cotisation pour valider la juste valeur marchande définitive du bien offert en don, peu importe si elle a été établie par le ministre de l’Environnement ou un tribunal lors d’un appel. La procédure prévue vise à faire en sorte qu’un contribuable puisse demander une déduction pour l’année d’imposition durant laquelle le don est fait ainsi que pour les cinq années d’imposition suivantes, conformément à l’alinéa 110.1(1)d), même s’il y a des retards dans la détermination définitive de la juste valeur marchande du bien offert en don.
+[38] Le paragraphe 118.1(12) s’applique aux donateurs individuels et équivaut au paragraphe 110.1(5) dont il a été question précédemment.
+[39] Comme il a été mentionné précédemment, la Cour suprême du Canada a noté ce qui suit dans l’arrêt Hypothèques Trustco, au paragraphe 10 :
+[...] L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. [...]
+[40] Dans l’arrêt Hypothèques Trustco, la Cour suprême du Canada a également noté ce qui suit aux paragraphes 11 et 12 :
+11 […] Cependant, le caractère détaillé et précis de nombreuses dispositions fiscales a souvent incité à mettre l’accent sur l’interprétation textuelle. Lorsque le législateur précise les conditions à remplir pour obtenir un résultat donné, on peut raisonnablement supposer qu’il a voulu que le contribuable s’appuie sur ces dispositions pour obtenir le résultat qu’elles prescrivent.
+12 Les dispositions de la Loi de l’impôt sur le revenu doivent être interprétées de manière à assurer l’uniformité, la prévisibilité et l’équité requises pour que les contribuables puissent organiser intelligemment leurs affaires. [...]
+[41] En l’espèce, je suis d’avis que l’alinéa 110.1(1)d) et les autres dispositions susmentionnées s’appliquant à un don visé par l’alinéa 110.1(1)d) sont précis et sans équivoques. À mon avis, ils distinguent clairement le versement du don d’un bien, et le moment auquel il a été effectué, de la détermination de la juste valeur marchande du bien et de l’obtention des attestations nécessaires auprès du ministre de l’Environnement. Je suis également d’avis qu’ils prévoient qu’un don de terre sensible sur le plan écologique est jugé « fait » à la date du versement légal qui, en l’espèce, était le 6 juin 2008. À mon avis, cette interprétation permet d’assurer uniformité, prévisibilité et équité, et elle cadre avec l’analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble.
+[42] Selon l’interprétation privilégiée par l’appelante, la date à laquelle un don est jugé fait ne peut être établie avant que le ministre de l’Environnement délivre les attestations requises. Je suis d’avis que cela entraînerait beaucoup d’incertitude. Cela est susceptible de causer un préjudice à toute société contribuable ayant enregistré des revenus suffisants pour l’année durant laquelle le don de terre a été légalement versé, mais qui prévoit une diminution ou une absence de revenus au cours des années à venir (p. ex. si elle met un terme à ses opérations). Dans cette hypothèse, si le ministre de l’Environnement délivrait les attestations au cours d’une année subséquente, il ne serait, dans les faits, plus possible à la société contribuable de demander une déduction aux termes de l’alinéa 110.1(1)d). Cela pourrait également causer un préjudice aux sociétés contribuables assujetties ultérieurement à de courtes années d’imposition en application de la Loi.
+[43] À l’inverse, l’interprétation privilégiée par l’intimée, à laquelle j’adhère, apporte de la certitude et, comme l’exige la Cour suprême du Canada dans l’arrêt Hypothèques Trustco, permet aux contribuables de planifier et d’organiser intelligemment leurs affaires. Selon cette interprétation, la date à laquelle un don est « fait » en application de l’alinéa 110.1(1)d) est la date à laquelle il a été légalement versé. Comme il a été mentionné ci-dessus, cette interprétation est conforme à celle énoncée dans les arrêts Berg et Friedberg, et, à mon avis, elle cadre avec l’analyse textuelle, contextuelle et téléologique de l’alinéa 110.1(1)d) ainsi qu’avec la Loi dans son ensemble.
+[44] Dans l’ensemble, je suis d’avis que l’alinéa 110.1(1)d) de la Loi (tel qu’il est énoncé ci-dessus) est clair et qu’il n’autorise l’appelante qu’à déduire des montants relatifs à son don de covenant durant ses années d’imposition 2008 à 2013, compte tenu de toutes les circonstances du présent appel. L’incapacité de l’appelante à déduire la valeur totale de son don de covenant de son revenu imposable durant ces années d’imposition est déterminée par le montant de revenu imposable qu’elle avait d’autre part gagné durant ces années d’imposition et les choix de politique du législateur quant à l’adoption de l’alinéa 110.1(1)d) de la Loi, qui s’applique aux dons de terre sensible sur le plan écologique qui ont été faits en 2008.
+[45] Il incombe au législateur, et non à la Cour, de répondre aux questions des contribuables concernant le programme instauré par le législateur relativement aux dons de terre sensible sur le plan écologique offerts par des sociétés. Comme il a été mentionné précédemment, l’alinéa 110.1(1)(d) de la Loi a été modifié par le législateur en 2014 afin de prolonger la période de report prospectif des dons de terre sensible sur le plan écologique de cinq à dix ans pour les dons effectués après le 10 février 2014, ce qui répond, du moins en partie, à la question soulevée par l’appelante en l’espèce relativement à la période de report prospectif. Toutefois, étant donné que le législateur a déterminé que les modifications ne seraient pas rétroactives, celles-ci ne sont d’aucune utilité pour l’appelante dans les circonstances du présent appel.
+CONCLUSION
+[46] Compte tenu de tout ce qui précède, l’appel de Yellow Point est rejeté.
+DÉPENS
+[47] Les dépens sont adjugés à l’intimée. Les parties disposent d’un délai de 30 jours suivant la date du présent jugement pour parvenir à un accord sur les dépens, faute de quoi l’intimée disposera alors d’un délai de 30 jours pour déposer ses observations écrites sur les dépens, après quoi l’appelante disposera d’un délai de 30 jours pour déposer sa réponse par écrit. Ces observations écrites ne peut dépasser dix pages. Si les parties n’informent pas la Cour qu’elles sont parvenues à un accord et en l’absence de dépôt d’observations, les dépens seront adjugés à l’intimée selon ce que prévoit le tarif.
+Signé à Charlottetown (Île-du-Prince-Édouard), ce 28e jour du mois d’août 2019.
+« Henry A. Visser »
+Le juge Visser
+Traduction certifiée conforme
+ce 22e jour d’octobre 2019.
+Mario Lagacé, jurilinguiste
+Annexe A
+Exposé conjoint des faits
+2016-3838(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+YELLOW POINT LODGE LTD.
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+EXPOSÉ CONJOINT DES FAITS
+Par l’intermédiaire de leurs avocats respectifs, les parties, uniquement aux fins de l’espèce, admettent et reconnaissent les faits suivants. Les parties ne présenteront pas d’éléments de preuve, sauf s’ils sont compatibles avec le présent exposé des faits.
+L’appelante, Yellow Point Lodge Ltd. (« Yellow Point Lodge »), est une société constituée en application des lois de la province de la Colombie-Britannique.
+L’année d’imposition de Yellow Point Lodge se termine le 31 décembre.
+Le président de Yellow Point Lodge est Richard Hill.
+Yellow Point Lodge est le propriétaire inscrit de terrains situés à Yellow Point, sur l’île de Vancouver, plus précisément au 3700, Yellow Point Road, RR3, Ladysmith, en Colombie-Britannique, et portant la mention légale suivante :
+PHI : 004-344-502 CETTE PARTIE DU LOT 14, DU DISTRICT OYSTER, SITUÉE À L’EST DES LIMITES DU LOT 13 DE CE DISTRICT ET DES LIMITES DU PROLONGEMENT EN DIRECTION NORD JUSQU’À LA MARQUE LAISSÉE PAR LES HAUTES EAUX DU CHENAL STUART, QUI CONTIENT PLUS OU MOINS 92,5 ACRES, À L’EXCEPTION DES PARTIES AFFICHÉES SUR LES PLANS 4145 ET 27697.
+(ci-après, les terrains)
+Les terrains sont, pour la plupart, non aménagés et à l’état brut, à l’exception d’un complexe de gîtes et de chalets détenu et exploité par Yellow Point Lodge sur une partie desdits terrains.
+Le 6 juin 2008, un instrument a été enregistré sur le titre foncier afin d’accorder les intérêts suivants à TLC The Land Conservancy of British Columbia et à la Nanaimo & Area Land Trust Society :
+a) Un covenant en application de l’article 219 de la Land Titles Act ([TRADUCTION]Loi sur les titres de biens-fonds) de la Colombie-Britannique;
+b) Un droit de passage prescrit par la loi en application de l’article 218 de la Land Titles Act de la Colombie-Britannique;
+c) Une rente-charge en application de l’article 219 de la Land Titles Act de la Colombie-Britannique et en tant que rente-charge en fief simple en common law
+(ci-après collectivement désignés le covenant).
+Une copie fidèle de l’instrument, enregistré le 6 juin 2008, sous le numéro d’instrument FB179687, est fournie à l’ONGLET 1 du recueil conjoint des documents.
+TLC The Land Conservancy of British Columbia a été désigné par le ministre de l’Environnement, des Terres et des Parcs de la Colombie-Britannique de l’époque comme personne autorisée à accepter des covenants en application de l’article 219 de la Land Titles Act et à accepter les droits de passage prescrits par la loi en application de l’article 218 de la Land Titles Act.
+La Nanaimo & Area Land Trusta été désignée par le ministre de l’Environnement, des Terres et des Parcs de la Colombie-Britannique de l’époque comme personne autorisée à accepter des covenants en application de l’article 219 de la Land Titles Act et à accepter les droits de passage prescrits par la loi en application de l’article 218 de la Land Titles Act.
+La superficie des terrains visés par le covenant couvre environ 27,35 hectares de la partie est des terrains.
+Le 21 décembre 2009, le ministre fédéral de l’Environnement a délivré un avis de détermination de la juste valeur marchande d’un don écologique en application de la Loi de l’impôt sur le revenu du Canada, qui établissait la juste valeur marchande du covenant à 5 810 000 $.
+Une copie fidèle de l’avis de détermination de la juste valeur marchande d’un don écologique en application de la Loi de l’impôt sur le revenu du Canada, délivré le 21 décembre 2009, se trouve à l’ONGLET 3, aux pages 38 et 39 du recueil conjoint des documents.
+Le 22 décembre 2009, le ministre fédéral de l’Environnement a délivré une attestation de don de terre sensible sur le plan écologique, une identification du bénéficiaire et une approbation de l’organisme de bienfaisance enregistré en application de la Loi de l’impôt sur le revenu du Canada, relativement au covenant.
+Des copies fidèles de l’attestation de don de terre sensible sur le plan écologique, de l’identification du bénéficiaire et de l’approbation de l’organisme de bienfaisance enregistré en application de la Loi de l’impôt sur le revenu du Canada, délivrées le 22 décembre 2009, se trouvent à l’ONGLET 3, aux pages 36 et 37 du recueil conjoint des documents.
+Le 18 février 2010, TLC The Land Conservancy of British Columbia a remis à Yellow Point Lodge un reçu fiscal de 2 905 000 $, soit 50 % de la juste valeur marchande certifiée du covenant, établie par le ministre fédéral de l’Environnement le 21 décembre 2009.
+Une copie fidèle du reçu fiscal 19730, délivré le 18 février 2010 à Yellow Point Lodge par TLC The Land Conservancy of British Columbia, se trouve à l’ONGLET 3, à la page 40 du recueil conjoint des documents.
+Le 26 février 2010, la Nanaimo & Area Land Trust Society (NALT) a remis à Yellow Point Lodge un reçu fiscal de 2 905 000 $, soit 50 % de la juste valeur marchande certifiée du covenant, établie par le ministre fédéral de l’Environnement le 21 décembre 2009.
+Une copie fidèle du reçu fiscal 4642, délivré le 26 février 2010 à Yellow Point Lodge par la Nanaimo & Area Land Trust Society (NALT), se trouve à l’ONGLET 3, à la page 40 du recueil conjoint des documents.
+La déclaration de revenus de Yellow Point Lodge pour l’année d’imposition s’étant terminée le 31 décembre 2008 a été évaluée initialement le 16 juillet 2009.
+Dans sa déclaration de revenus de l’année d’imposition s’étant terminée le 31 décembre 2008, Yellow Point Lodge ne pouvait pas demander de déduction relative au covenant en application de l’alinéa 110.1(1)d) de la Loi de l’impôt sur le revenu, parce que les documents suivants n’avaient pas encore été délivrés ou fournis à Yellow Point Lodge :
+a) la déclaration de la juste valeur marchande d’un don écologique en application de la Loi de l’impôt sur le revenu du Canada;
+b) l’attestation de don de terre sensible sur le plan écologique, l’identification du bénéficiaire et l’approbation de l’organisme de bienfaisance enregistré en application de la Loi de l’impôt sur le revenu du Canada;
+c) les reçus fiscaux de TLC The Land Conservancy of British Columbia et de la Nanaimo & Area Land Trust Society (NALT).
+Dans une lettre datée du 19 mai 2010 rédigée par son cabinet de comptables agréés, Parkes & Moysey, Yellow Point Lodge demandait au ministre du Revenu national (le ministre) d’établir une nouvelle cotisation pour son année d’imposition s’étant terminée le 31 décembre 2008 afin qu’elle puisse demander une déduction de 382 779 $ relative au covenant en application de l’alinéa 110.1(1)d) de la Loi de l’impôt sur le revenu.
+Une copie fidèle de la lettre envoyée à l’Agence du revenu du Canada par T.R. Parkes, datée du 19 mai 2010, se trouve à l’ONGLET 3 du recueil conjoint des documents.
+Le 27 juillet 2010, la demande de Yellow Point Lodge a été accueillie; l’année d’imposition de Yellow Point Lodge s’étant terminée le 31 décembre 2008 a ainsi fait l’objet d’une nouvelle cotisation afin de lui permettre de demander une déduction de 382 779 $ relative au covenant en application de l’alinéa 110.1(1)d) de la Loi de l’impôt sur le revenu.
+Yellow Point Lodge a ensuite demandé les déductions suivantes relatives au covenant en application de l’alinéa 110.1(1)d) de la Loi de l’impôt sur le revenu :
+a) pour l’année d’imposition s’étant terminée le 31 décembre 2009, un montant de 474 673 $;
+b) pour l’année d’imposition s’étant terminée le 31 décembre 2010, un montant de 495 339 $;
+c) pour l’année d’imposition s’étant terminée le 31 décembre 2011, un montant de 496 252 $;
+d) pour l’année d’imposition s’étant terminée le 31 décembre 2012, un montant de 519 720 $;
+e) pour l’année d’imposition s’étant terminée le 31 décembre 2013, un montant de 468 055 $.
+Dans sa déclaration de revenus de l’année d’imposition s’étant terminée le 31 décembre 2014, Yellow Point Lodge a demandé une déduction de 1 553 374 $ relative au covenant en application de l’alinéa 110.1(1)d) de la Loi de l’impôt sur le revenu.
+Dans l’avis de cotisation de la société et le sommaire de la cotisation, datés du 28 juillet 2015, le ministre refusait la demande de déduction pour le covenant présentée par Yellow Point Lodge et établissait que Yellow Point Lodge avait plutôt droit à une cotisation de 554 450,81 $ en impôt fédéral et provincial et en intérêts débiteurs pour l’année d’imposition s’étant terminée le 31 décembre 2014.
+Des copies fidèles de l’avis de cotisation de la société et du sommaire de la cotisation de Yellow Point Lodge pour l’année d’imposition s’étant terminée le 31 décembre 2014 se trouvent à l’ONGLET 6 du recueil conjoint des documents.
+La raison évoquée dans le sommaire de cotisation en vue de justifier le refus de la demande de déduction présentée par Yellow Point Lodge en application de l’alinéa 110.1(1)d) de la Loi de l’impôt sur le revenu était la suivante : [traduction] « la demande initiale dépasse le montant total disponible des dons reportés prospectivement et actuels ».
+À la suite de cette nouvelle cotisation, établie le 27 juillet 2010, Yellow Point Lodge n’a pas soumis au ministre de demande visant à établir une nouvelle cotisation pour l’année d’imposition s’étant terminée le 31 décembre 2008 dans le but de retirer la déduction des revenus de 382 779 $ relativement au covenant.
+[La page de signature suit immédiatement]
+FAIT dans la ville de London, dans la province de l’Ontario, ce 25e jour de juin 2018.
+Me Keith M. Trusser
+Me Sean Flaherty
+McKenzie Lake Lawyers LLP
+140, rue Fullarton, bureau 1800
+London (Ontario) N5A 5PY
+Me Keith M. Trusser
+Avocat de l’appelante
+FAIT dans la ville de Vancouver, dans la province de la Colombie-Britannique, ce jour de juin 2018
+LE PROCUREUR GÉNÉRAL DU CANADA Ministère de la Justice du Canada
+Bureau régional de la Colombie-Britannique
+840, rue Howe, bureau 900
+Vancouver (Colombie-Britannique) V6Z 2S9
+Par : Me Selena Sit
+Avocate de l’intimée
+RÉFÉRENCE :
+2019 CCI 178
+NO DU DOSSIER DE LA COUR :
+2016-3838(IT)G
+INTITULÉ :
+YELLOW POINT LODGE LTD. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+London (Ontario)
+DATE DE L’AUDIENCE :
+Le 28 juin 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Henry A. Visser
+DATE DU JUGEMENT :
+Le 27 août 2019
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Keith M. Trusser
+Avocate de l’intimée :
+Me Selena Sit
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Keith M. Trusser
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] L.R.C. (1985), ch. 1 (5e suppl.), dans sa forme modifiée.
+[2] Voir la pièce A-1, Exposé conjoint des faits.
+[3] Voir la pièce A-2, Recueil conjoint des documents.
+[4] L’alinéa 110.1(1)(d) a par la suite été modifié à plusieurs reprises, notamment par l’ajout de L.C. 2014, ch. 20, art. 5, qui prolongeait la période de report prospectif énoncée au sous-alinéa 110.1(1)d)(iii) de cinq à dix ans pour les dons effectués après le 10 février 2014. Ces modifications ne s’appliquent toutefois pas aux circonstances du présent appel.
+[5] Voir le sous-alinéa 110.1(1)d)(iii) de la Loi.
+[6] Voir la pièce A-1, Exposé conjoint des faits, au paragraphe 6, et la pièce A-2, à l’onglet 1.
+[7] Voir la pièce A-2, onglet 3 à la page 40.

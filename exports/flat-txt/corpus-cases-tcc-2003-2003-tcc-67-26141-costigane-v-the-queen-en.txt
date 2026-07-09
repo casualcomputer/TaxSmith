@@ -1,0 +1,117 @@
+Title: Costigane v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26141/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-67-26141-costigane-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-03-31
+
+# Costigane v. The Queen
+
+- Citation: 2003 TCC 67
+- Decision date: 2003-03-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4136, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Costigane v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-31
+Neutral citation
+2003 TCC 67
+File numbers
+2000-5079(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-5079(IT)G
+BETWEEN:
+THOMAS COSTIGANE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on February 7, 2003 at Kitchener, Ontario,
+Before: The Honourable Judge Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sointula Kirkpatrick
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 1995 taxation year is dismissed.
+The appeals from assessments of tax made under the Act for the 1996 and 1997 taxation years are allowed, without costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that in computing income, the Appellant is entitled to deduct amounts paid to Destiny Capital Corp. in 1996 and 1997 of $14,656 and $22,277, respectively.
+Signed at Ottawa, Canada this 31st day of March, 2003.
+"Campbell J. Miller"
+J.T.C.C.
+Citation: 2003TCC67
+Date: 20030331
+Docket: 2000-5079(IT)G
+BETWEEN:
+THOMAS COSTIGANE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Miller, J.T.C.C.
+[1] Thomas Costigane appeals by way of the general procedure the Minister of National Revenue's (the "Minister") assessments of his 1995, 1996 and 1997 taxation years on two fronts. First, Dr. Costigane disagrees with the Minister's disallowance of approximately $19,000.00 in each of the years in question as deductible bookkeeping charges paid to Costigane Financial Services. Costigane Financial Services was a trust established for Dr. Costigane's three minor children. Second, Dr. Costigane disagrees with the disallowance of a deduction in 1996 of $14,656.00 and in 1997 of $22,277.00 for what he considers replacement insurance paid to a British Virgin Islands corporation.
+[2] Dr. Costigane is a dentist. On January 2, 1993, a trust agreement was entered into by Linda Gillis settling $100.00 on the Costigane Family Trust. Dr. Costigane signed the agreement as one of the three trustees, the other two being his sister and brother-in-law. Dr. Costigane's three minor children were the beneficiaries of the Costigane Family Trust. On the same date, Dr. Costigane entered into a service agreement with Costigane Financial Services, an entity described in the two-page agreement as a proprietorship owned by the Costigane Family Trust.
+[3] Pursuant to the terms of this agreement, Costigane Financial Services was to provide to Dr. Costigane's dental practice management, bookkeeping and accounting services, including rendering accounts, collecting receivables and maintaining accurate records. Dr. Costigane agreed to pay Costigane Financial Services a monthly fee of $2,450.00. Dr. Costigane paid $29,400.00 to Costigane Financial Services for each of 1995, 1996 and 1997.
+[4] Dr. Costigane testified that he entered this arrangement to free himself of bookkeeping duties, which he claimed required one to five hours a day of his time. In searching for an appropriate bookkeeping service, he wanted someone who would be familiar with his dental practice and in whom he would have the confidence that they would retain patient confidentiality. His search led him to his very own employees, Ms. Lynch, Ms Briggs and Ms. Booth, who he described as dental assistants, receptionist and preventive dental assistant. He arranged for Costigane Financial Services to hire these three employees of the dental practice to also become employees of Costigane Financial Services for the purposes of providing the services described in the service agreement. Costigane Financial Services paid two of the three employees the same rate as Dr. Costigane paid them for their work performed directly for him. The other employee was paid $14.60 an hour instead of $14.00 an hour. In 1996, only Ms. Lynch and Ms. Briggs had this dual employment arrangement; Ms. Briggs was paid the same wage ($11.72 an hour) in both jobs, while Ms. Lynch received $15.84 per hour from Costigane Financial Services and $15.90 from Dr. Costigane directly. In 1997, a new employee was introduced to the arrangement. All three employees received the same hourly rate from both jobs in 1997. The amounts paid by Costigane Financial Services to its employees in 1995, 1996 and 1997 were $8,152.00, $8,494.00 and $8,531.00 respectively. Other expenses of Costigane Financial Services in each of those three years were less than $500.00.
+[5] Costigane Financial Services showed a profit in each of the three years of approximately $21,000.00, which the Costigane Family Trust distributed equally to the three minor beneficiaries.
+[6] Dr. Costigane indicated that he determined the $2,450.00 monthly charge based on his understanding of what other professional practices, notably accountants, up-charged for their staff. He also relied on what he, in his dental practice, would charge for his assistants, compared to what he paid them. He indicated this was a four or five times mark-up. He also contacted a small bookkeeping operation. He believed they charged employees out at $40.00 to $60.00 an hour, but paid them only approximately $10.00 to $12.00 an hour.
+[7] Dr. Costigane suggested there were benefits to the arrangement, including more accurate cost analysis given the separation of clerical from clinical work, more equitable bonus determination for dental staff, reduction of Worker's Compensation Board premiums for clerical staff, less difficulties on termination and an ability to achieve a higher price for the overall dental practice if the management/bookkeeping side was sold separately.
+[8] With respect to the second issue, Dr. Costigane provided some considerable background to the health/medical environment of the early and mid-1990s. Healthcare was in some turmoil and there were signs of a shift to the American phenomenon of health management organizations ("HMOs"). HMOs were funded by large insurance companies, with a view to keeping costs down. HMOs would contract with major subscriber groups who would be assured that their healthcare costs would remain low. This was because, notwithstanding what doctors could charge to the patient, a doctor could only collect a reduced rate from the HMO. If HMOs became the way of the future, a doctor who tried to practice outside an HMO would have few, if any, patients. Dr. Costigane feared a considerable drop in his income as a result of this possible change of the status quo.
+[9] He sought ways to protect himself from a drastic drop in revenue. At a trade show, he encountered Destiny Capital Management Corp., a British Virgin Islands corporation. Destiny appeared to be offering a form of arrangement Dr. Costigane believed would serve as a type of income replacement insurance. He had previously been unsuccessful in obtaining the type of protection he sought from Export Development Corporation, as that organization only offered something similar to entities that produced durable goods. Dr. Costigane entered into an agreement with Destiny Capital Corp. entitled a Resource Sale/Purchase Agreement ("RSPA").
+[10] Pursuant to the RSPA, Dr. Costigane sold his accounts receivable to Destiny for 95 percent of the face amount of the invoices. In effect, what Dr. Costigane did is simply pay Destiny five percent of his total invoices. Dr. Costigane's understanding of the arrangement was that if his collection ever fell below 95 percent, Destiny would make up the difference to the 95 percent amount. Collections never did fall below 95 percent before the agreement was terminated. Dr. Costigane paid Destiny $14,656.00 in 1996 and $22,277.00 in 1997. He testified that Destiny would audit the dental practice's transactions and never found a discrepancy. It never had to pay anything out to Dr. Costigane. Dr. Costigane did not advise them of his true purpose in shielding himself from the possible impact of the introduction of HMOs.
+[11] Dr. Costigane argued that, with respect to the management/bookkeeping fee paid to Costigane Financial Services, this was a fair market value fee for legitimate bookkeeping services rendered. He maintained that Costigane Financial Services, through the Costigane Financial Trust, was established for appropriate business purposes, and only his existing employees met all the qualifications he sought in a provider of bookkeeping services: confidentiality, efficiency due to on-site access, familiarity with the practice and a knowledge of codes for goods and services tax rebates.
+[12] With respect to the Destiny expenses, Dr. Costigane likens them to any other form of insurance, be it fire or disability. He believed he had found appropriate income-replacement insurance.
+[13] The Respondent's position was that the family trust was created to provide these bookkeeping services, even though Dr. Costigane knew he could get the exact same services from his existing employees for only the cost of their wages. He knew the dental practice could save $21,000.00 a year rather than passing that on to the trust for his children. To pay about four times as much as was necessary was unreasonable.
+[14] With respect to Destiny, the Respondent contended the agreement was not income-replacement insurance. The way the arrangement worked, Dr. Costigane was paying five percent of invoices he already collected ¾ there was no insurance element. The expenses did not pass the test of being incurred for the purpose of gaining or producing income.
+[15] Dealing first with Dr. Costigane's claim for the deduction of the annual $29,400.00 bookkeeping fee, I am not convinced that that payment was reasonable. Dr. Costigane provided no comparables from a bookkeeping or accounting firm indicating that they would charge close to $30,000.00 a year for the type of bookkeeping that Dr. Costigane's dental practice required. The only real comparable in evidence was to those very employees who could have performed the work directly and not through the trust. Dr. Costigane's expenses would have been just the approximate $8,000.00 a year for such work.
+[16] There is nothing illegal or inappropriate for a taxpayer to arrange his affairs to provide for some income-splitting. That is not the issue. The issue is the reasonableness of the expenditures. Taking three employees, trained in something other than accountancy, paying them the same wage for bookkeeping duties as for the more dental related duties and then introducing a family trust to mark-up those employees' costs threefold, with the result being $7,000.00 annually going into each of his children's hands, does not yield a reasonable deduction to Dr. Costigane's business.
+[17] Section 67 of the Income Tax Act demands that every expense must be reasonable to qualify as a deduction for purposes of computing income. The Minister allowed a 15 percent mark-up on Costigane Financial Service's employees' wages. While I agree with Dr. Costigane that that is arbitrary, I do find that it is reasonable. What Dr. Costigane attempted to do, however, is not.
+[18] With respect to the Destiny expenses, I appreciate what Dr. Costigane was trying to protect. I believe his assessment of the healthcare environment in the 1990s, that is, that HMOs were knocking on the Canadian door and that if it opened, it could have a significant impact on Dr. Costigane's income. I am also satisfied that he did look around to consider what options were available to protect himself. I am not convinced that the agreement he entered into with Destiny would, if push ever came to shove, provide the extensive coverage Dr. Costigane thought it would. I am, however, convinced that Dr. Costigane believed it would. His mind was at ease as he had, as he thought, income-replacement insurance.
+[19] I do not accept the Respondent's argument that because Dr. Costigane had already collected his accounts receivable when the five percent fee, based on accounts receivable, was paid, renders such payment non deductible. Although the agreement was a bit peculiar, I read it as Destiny paying to Dr. Costigane 95 percent of all invoices every month, retaining five percent for itself. The practical application, however, was that Dr. Costigane collected the invoices and as long as he collected greater than 95 percent, he simply submitted five percent to Destiny. As he explained it, should the collection ever fall below 95 percent, Destiny would have to pay him the difference. While I can imagine Destiny balking at a reduction of the 95 percent collection rate due to the introduction of HMOs on a number of grounds, Dr. Costigane clearly believed he had insurance. Insurance expenses incurred to replace income, for whatever reason, are deductible. Such expenses, as with other forms of insurance, are directly related to earning income. I find Dr. Costigane's expenses meet both the reasonableness test and the test of having been incurred for the purpose of gaining of producing income.
+[20] The appeal from the assessment for the 1995 taxation year is dismissed, and the appeals from assessments for the 1996 and 1997 taxation years are allowed, without costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Dr. Costigane is entitled to deduct expenses paid to Destiny in 1996 and 1997 of $14,656.00 and $22,277.00, respectively.
+Signed at Ottawa, Canada this 31st day of March, 2003.
+"Campbell J. Miller"
+J.T.C.C.
+CITATION:
+2003TCC67
+COURT FILE NO.:
+2000-5079(IT)G
+STYLE OF CAUSE:
+Thomas Costigane and Her Majesty the Queen
+PLACE OF HEARING
+Kitchener, Ontario
+DATE OF HEARING
+February 7, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge. Campbell J. Miller
+DATE OF AMENDED JUDGMENT
+March 31, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sointula Kirkpatrick
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

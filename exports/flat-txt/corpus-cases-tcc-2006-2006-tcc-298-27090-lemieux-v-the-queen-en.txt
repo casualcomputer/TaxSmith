@@ -1,0 +1,145 @@
+Title: Lemieux v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27090/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-298-27090-lemieux-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-05-25
+
+# Lemieux v. The Queen
+
+- Citation: 2006 TCC 298
+- Decision date: 2006-05-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 960, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lemieux v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-05-25
+Neutral citation
+2006 TCC 298
+File numbers
+2004-3713(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3713(IT)I
+BETWEEN:
+BENOIT LEMIEUX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Lorraine Lemieux (2004-3714(IT)I) on February 6 and May 16, 2006, at Calgary, Alberta
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marla Teeling
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1998 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of May 2006.
+"D.W. Beaubier"
+Beaubier J.
+Docket: 2004-3714(IT)I
+BETWEEN:
+LORRAINE LEMIEUX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Benoit Lemieux (2004-3713(IT)I) on February 6 and May 16, 2006, at Calgary, Alberta
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marla Teeling
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1997 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of May 2006.
+"D.W. Beaubier"
+Beaubier J.
+Citation: 2006TCC298
+Date: 20060525
+Docket: 2004-3713(IT)I
+BETWEEN:
+BENOIT LEMIEUX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2004-3714(IT)I
+AND BETWEEN:
+LORRAINE LEMIEUX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] These appeals pursuant to the Informal Procedure were heard at Calgary, Alberta, on February 6 and May 16, 2006, on common evidence. Both Appellants testified and called their accountant James Pragnell, C.M.A. The Respondent called the field officer on the files, Douglas McDonald.
+[2] The Lemieuxs raised an objection respecting a delay of about 23 months that occurred on the files after October 10, 2001. The field officer responded to this by stating respecting these Allowable Business Investment Loss ("ABIL") claims that the Appellants had many corporations, active and inactive, some of which went bankrupt and other ABILs. Furthermore, he needed more documentation. In any event, Notices of Objection were filed by the Appellants on April 2, 2001 pursuant to subsection 169(1) of the Income Tax Act. Once 90 days have elapsed from the service of the Notice of Objection if there has been no confirmation or reassessment the Appellants may appeal. For these reasons, any alleged undue delay could have been cured by the taxpayers themselves.
+[3] Benoit Lemieux appealed a claim for a further ABIL allowance respecting $3,500 in legal fees allegedly incurred in 1998 on account of an alleged payment of a Royal Bank claim on a guarantee. Mr. McDonald allowed legal fees respecting this of $2,481 to each Appellant, and did not grant any more. Mr. McDonald had the alleged legal bills in dispute (Exhibit R-1) when he did this. It was then up to the Appellant to establish the exact legal bills and the amount of $3,500 in those bills which Mr. Lemieux still claims. He did not do this and therefore failed to meet the onus of proof upon Benoit Lemieux to establish his appeal. For this reason, his appeal is dismissed.
+[4] Lorraine Lemieux has claimed an ABIL respecting the sum of $49,370.51 in 1997 consisting of three sums. The particulars in dispute are set out in paragraphs 10 to 16 of the Reply to her Notice of Appeal. They read:
+10. In so assessing and confirming the tax of the Appellant, the Minister relied on the following assumptions of fact:
+a) the Appellant claimed an BIL in the 1997 year as follows:
+Royal Bank of Canada Line of Credit $30,000.00
+Saskatchewan Labour Board claim $18,500.00
+Legal Fees-Woloshyn Mattison 870.51
+BIL Claimed $49,370.51
+b) the Appellant did not personally advance or lend any funds to a Canadian Controlled Private Corporation at any material time;
+c) the Appellant did not have any debts owing to her from a Canadian Controlled Private Corporation at the end of the 1997 year that were established to be bad debts;
+d) the Appellant did not realize any capital losses on debts owed to her by a Canadian Controlled Private Corporation at the end of the 1997 taxation year;
+e) the Appellant claimed and has been allowed a BIL in the 1998 year of $16,120.00;
+f) the BIL claimed regarding the Royal Bank Line of Credit is a duplicate of a BIL allowed to the Appellant and her spouse for the 1998 taxation year;
+g) the payment to the Saskatchewan Labour Board was in respect of unpaid wages by Lorwood Food Services Inc.;
+h) the Appellant was the 100% shareholder of Lorwood Food Services Inc.;
+i) Lorwood Food Services Inc. was bankrupt in 1995 and did not operate after the 1995 year;
+j) the payment of an amount to the Saskatchewan Labour Board in respect of unpaid wages of Lorwood Food Services Inc. was not a debt acquired by the Appellant for the purpose of gaining or producing income from a business.
+11. The assumptions of fact set out in subparagraphs 10(g), 10(h), 10(i) and 10(j) above were first made by the Minister in confirming the tax of the Appellant for the 1998 year on September 29, 2003.
+B. ISSUES TO BE DECIDED
+12. The issue to be decided is whether the Appellant had any capital losses that could be considered ABILs in the 1997 year.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+13. The Respondent relies on sections 3, 9, 38, 39, 40, 125 and 248, and on subsections 50(1), 220(3.1) and 248(1) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) (the "Act") as amended for the 1997 taxation year.
+14. He submits that the Appellant did not establish that a Canadian Controlled Private Corporation was indebted to her in the amount of $49,370.51, or any other amount, at the end of the 1997 year and therefore the Appellant's claim for an BIL was properly denied in accordance with paragraph 39(1)(c) of the Act.
+15. He submits that the Appellant is not entitled to any amount in respect of a BIL pursuant to paragraph 39(1)(c) of the Act in the 1997 taxation year, as she has not shown that she had any capital losses on debt owing to her from a Canadian Controlled Private Corporations.
+16. He submits that the Appellant is not entitled to a capital loss or BIL in respect of the amounts paid to the Saskatchewan Labour Board as it has not been established that this amount was in respect of a debt acquired for the purpose of gaining or producing income from a business. This amount has properly been denied in accordance with subparagraph 40(2)(g)(ii) of the Act.
+[5] The first sum is a claim that Lorraine Lemieux paid $30,000 to the Royal Bank of Canada on a line of credit by way of a transfer of funds to keep a restaurant open in 1995. Her accountant could only establish that in fact Mrs. Lemieux had transferred $10,000 into a corporate account on October 5, 1995 (see Exhibit A-1). Thus, the amount in this issue is $10,000, not $30,000. Mr. Pragnell testified that the $10,000 was transferred to the account of 608904 Saskatchewan Ltd. ("608904"). However, there is no evidence that the $10,000 is a debt owed by 608904 to Lorraine or that it was a bad debt or that collection has failed to date. Moreover, Mr. McDonald testified that the Appellant had a similar claim in another year, 1998 and the evidence before him, and before this Court, is simply insufficient to establish this claim.
+[6] The second sum in dispute is the alleged $18,500 Saskatchewan Labour Board claim. Exhibit A-2 established that the Appellant paid a judgment for employees of $17,557.68 on January 8, 1998. The corporate employer whose account she paid was Lorwood Food Services Inc. ("Lorwood"). Lorwood became bankrupt in November, 1995. The Appellant was liable as director of Lorwood. The judgment was against her personally and against Lorwood. Thus in 1998, Lorwood was not in business or carrying on active business in Canada, nor was the payment made for the purpose of gaining or producing income. Therefore this claim is not established.
+[7] The final sum is the claim for $870.51 respecting an alleged payment by Lorraine on account of legal fees. This bill of fees is dated June 11, 1998 respecting a writ of execution by the Royal Bank of Canada. This writ was registered against Lorraine's house (Exhibit A-3) respecting a claim against Lorraine by the Royal Bank of Canada according to the bill itself. This claim fails for the same reasons as are set out in paragraph [5] hereof.
+[8] Therefore the appeals are dismissed and the assessments are confirmed.
+Signed at Ottawa, Ontario, this 25th day of May 2006.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2006TCC298
+COURT FILE NO.: 2004-3713(IT)I and 2004-3714(IT)I
+STYLE OF CAUSE: BENOIT LEMIEUX AND HER MAJESTY THE QUEEN and LORRAINE LEMIEUX AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: May 16, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: May 25, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marla Teeling
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

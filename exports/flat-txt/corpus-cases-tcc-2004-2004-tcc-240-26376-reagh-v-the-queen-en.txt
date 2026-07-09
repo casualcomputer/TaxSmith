@@ -1,0 +1,133 @@
+Title: Reagh v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26376/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-240-26376-reagh-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-04-14
+
+# Reagh v. The Queen
+
+- Citation: 2004 TCC 240
+- Decision date: 2004-04-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3389, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Reagh v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-14
+Neutral citation
+2004 TCC 240
+File numbers
+2001-3800(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-3800(IT)G
+BETWEEN:
+DONALD MARSHALL REAGH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 23, 2004, at Vancouver, British Columbia
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+L. Clive Boulton
+Counsel for the Respondent:
+Kristy Foreman Gear
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments numbered 17493 and 17494 both dated June 6, 2000, made under the Income Tax Act are allowed and the matter is referred back to the Minister for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of April 2004.
+"François Angers"
+Angers, J.
+Citation: 2004TCC240
+Date: 20040414
+Docket: 2001-3800(IT)G
+BETWEEN:
+DONALD MARSHALL REAGH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers, J.
+[1] These appeals are from two assessments both dated June 6, 2000. The first assessment numbered 17493 is in the amount of $30,000, and the second assessment numbered 17494 is in the amount of $50,000. The Minister of National Revenue (the Minister) assessed the Appellant in respect of transfers of property to the Appellant within the meaning of section 160 of the Income Tax Act (the Act). In the first assessment, the property transferred is a 1960 Austin Healy motor vehicle and in the second, the property transferred is a 1989 Porsche 944 motor vehicle. Both assessments are based on the value of the motor vehicles at the time of transfer in February 1997. Both parties have agreed that the value of the 1989 Porsche 944 at the time of transfer was $10,000 instead of the $50,000 used for the assessment.
+[2] The Appellant is a retired former CBC employee who lives with his wife in Burnaby, B.C. They have two grown children. Their son Barry, who is 41 years old, is the transferor of the two above-mentioned motor vehicles, which are the subject of these appeals. As a hobby, the Appellant works in car restoration and electronics.
+[3] The Appellant's son was a stockbroker in the early 1990s promoting Canadian companies in British Columbia. He quit his job and moved to Arizona around 1995 in the hope that things would improve. The Appellant and his wife began visiting their son in the fall of 1995 and every year thereafter except in 1999. They rented a house in the first two years they visited and eventually bought a house in September 1997 with the intention of spending more time there each year.
+[4] Barry started borrowing money from the Appellant in 1993 and in 1994. The Appellant kept a mental note of all these advances and in the fall of 1996, the total advances had reached $16,000. Some advances were made in cash and others were made to pay bills and particularly repair bills on the two motor vehicles in question. One repair invoice on the Porsche automobile in August 1995 was for $3,477 and the other was for the Austin Healy for $1,091 in September 1996. Both were paid by the Appellant. The Austin Healy repairs were required to put the vehicle in working condition so Barry could drive it down to Arizona, a four-day trip.
+[5] To help pay back these advances, the Appellant and Barry agreed that Barry would transfer ownership of the Porsche to the Appellant. On January 6, 1997, with registration completed on February 12, 1997, ownership of the Porsche was transferred to the Appellant. The non-market value and tax exemption form states that the consideration paid for the transfer of ownership consisted in advances made to pay off mechanical bills. At the same time, Barry transferred the Austin Healy to the Appellant and the non-market value and tax exemption form stated that same was a gift to his father. Both had agreed that the transfer would allow the Appellant to have a project to work on when he visited in Arizona.
+[6] At the time of the transfer, both vehicles were insured by the Appellant but, since they were kept in Arizona and used by Barry, the principal driver indicated in both policies was Barry. For insurance purposes, the Appellant declared that the value of the Austin Healy was $30,000 expecting it would be worth that amount after complete restoration. However, he testified that, at the time of transfer, the value of the Austin Healy was not more than $1,200.
+[7] After the transfer, the Austin Healy was driven back to Canada and extensive bodywork was performed in the spring of 1997, as shown by the photographs entered as exhibits. The Appellant paid $7,500 for the bodywork and has personally put in 100 hours of his time. The car was ultimately restored to between 80 and 90 percent upon completion by the Appellant. He worked an additional 200 hours and purchased parts for US $1,200. During the year 2000, the car was seriously damaged in an accident and is now back in restoration.
+[8] The Appellant had no knowledge of his son's indebtedness to Revenue Canada when the transfers took place. He knew his son was not paying all his bills but had no idea how bad the situation may have been. It is only in June 2000 when the assessments were issued and when a person from Revenue Canada showed up at his door that he became fully aware of his son's indebtedness.
+[9] Over the years, the Appellant continued to make further cash advances to Barry. He had to cash in his RRSPs for a number of years and borrowed money from a neighbour to help both his children. At the time of trial, advances made to Barry totalled $77,000. The Appellant never recorded these advances since he never suspected they would reach so high a figure. Again, most advances were made in cash, by cheque or by payment of his son's bills. There were no promissory notes, repayment schedules or interest charges on these advances nor were there any payments by Barry to the Appellant. The Appellant calls this a father and son relationship.
+[10] The Appellant was therefore assessed on both of these transfers under section 160 of the Act. Section 160 reads as follows:
+160(1) Tax liability re property transferred not at arm's length - Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person's spouse or common-law partner or a person who has since become the person's spouse or common-law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm's length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferor's tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+[11] In Williams v. Canada, [2000] T.C.J. No. 459 (Q.L.), affirmed by the Federal Court of Appeal [2002] F.C.J. No. 1402, Judge Hamlyn set out the conditions that are necessary for subsection 160(1) to apply. The Tax Court of Canada later confirmed these conditions in Raphael v. Canada, 2000 DTC 2434, as did the Federal Court of Appeal [2002] F.C.J. No. 82. In Beaudry v. Canada, [2000] T.C.J. No. 531, the Federal Court also confirmed these conditions, which are:
+(i) there must be a transfer of property;
+(ii) the transferor and transferee are not dealing at arm's length;
+(iii) there must be no consideration (or inadequate consideration) flowing from the transferee to the transferor; and
+(iv) the transferor must be liable to pay an amount under the Act in or in respect of the year when the property was transferred or any preceding year.
+[12] In these appeals, it is not disputed that the two vehicles were transferred, that the transferor and transferee were not dealing at arm's length and that Barry was liable to pay tax under the Act in respect of the taxation year in which the vehicles were transferred. I must therefore address condition number three and determine whether there was consideration flowing from the Appellant to his son Barry and determine the value of the property transferred.
+[13] Counsel for the Appellant argues that the transfer of both motor vehicles was for valuable consideration since at the time of transfer, Barry owed his father $16,000 and the value of both motor vehicles was $11,200. He relies on the Appellant's credibility to substantiate that the Appellant made the advances of money. He further argues that the transfer of both vehicles was not carried out to evade the collection proceedings by Revenue Canada (now the Canada Customs and Revenue Agency) against his son since the Appellant had no knowledge of his son's indebtedness to Revenue Canada. The transfer was to pay back part of the advances and the repair bills the Appellant had paid. Counsel for the Respondent, on the other hand, argues that there is no documentary evidence to support these advances made. It is submitted that these advances are presumed to be gifts rather than loans and that the presumption of advancement is applicable in such circumstances unless rebutted by the Appellant. The Appellant's conduct does not indicate that he intended these advances to be loans given the special father and son relationship.
+Consideration
+[14] Was there consideration flowing for the transfer of both motor vehicles? The Appellant is a credible witness and I have no reason to doubt the accuracy of the events that led to the transfers. I have all the reasons to believe that he made money advances to his son by cash and by cheque and that he paid for repair bills for both motor vehicles. Although he kept a mental note of all these advances, there are no documents acknowledging any debt owing to him by Barry, and no repayment schedules, and there was no interest to be paid. In fact, I doubt that the Appellant made those advances honestly believing that his son would actually pay him back anything until he realized that the total advances had reached $16,000 before the transfers were made. It is at that point that the Appellant had a serious discussion with his son and that the transfer of the two motor vehicles was considered. The Appellant was uncertain as to whether the transfer constituted security or an outright partial payment of the advance he had made. What he knew was that by being the owner of the motor vehicles, he had the means to eventually collect on some of the monies advanced to his son despite the fact that his son was still using both vehicles.
+[15] The information found in the non-market value and tax exemption form that the Appellant provided to the Ministry of Finance and Corporate Relations of B.C. upon registering both vehicles best reflects what the Appellant understood of these transfers (See Tabs 14 and 15). The Transfer form for the Porsche states that the reason it was transferred below 90 percent of book value was to pay off mechanical bills. On the Austin Healy Transfer form, it states that the vehicle was a gift from son to father. It is therefore very clear that there was no consideration for the transfer of the Austin Healy. It would appear to be a simple gesture of appreciation by Barry for his father's previous generosity towards him.
+[16] As for the transfer of the Porsche motor vehicle, the Appellant was uncertain as to whether he should treat the transfer as a partial payment or as security for the advances. This uncertainty lends itself to the special father and son relationship described by the Appellant in his evidence and to the application of the presumption of advancement. The evidence reveals that the Appellant made further advances beyond the transfer date. Yet, other than the repayment of those repair bills, no evidence was adduced enabling this Court to conclude on a balance of probabilities that the Appellant's intention was to collect these advances from his son. In fact, the Appellant's intention on these advances was to benefit his son, which would support the presumption of advancement rather than rebut it. With this in mind, I find that the only consideration that flowed to Barry on the transfer of the Porsche motor vehicle was the value of the mechanical repairs referred to in the non-market value and tax exemption form for that motor vehicle. Both invoices total $4,568. I therefore find that the actual consideration for that transfer was $4,568, leaving an equity of $5,432, when I deduct the invoices from the agreed value of $10,000 for the Porsche. The assessment against the Appellant for the purposes of subsection 160(1) for the transfer of the Porsche automobile is therefore reduced to $5,432.
+[17] Having found that there was no consideration for the transfer of the Austin Healy, I must now determine its market value. Counsel for the Appellant submits that the actual value of the Austin Healy at the time of transfer was $1,200. That value is arrived at by the Appellant's evidence that the car was in need of extensive repairs to bring its value to what he believed would be $30,000 upon complete restoration. Counsel for the Respondent relies on the Appellant's own declared value of $30,000 when he insured the car on transfer.
+[18] The car in question is a 1960 Austin Healy convertible described by the Appellant as a classic car. According to the Appellant, it was in need of major repairs at the time of transfer and it is obvious from the amount of work that was done on the car after the transfer that this was the case. Nevertheless, it was in working condition and the repairs completed before the purchase made it possible to make a return trip with the car from B.C. to Arizona. At the time of transfer, it was far from fully restored and therefore far from its value of $30,000 after full restoration as estimated by the Appellant. On the other hand, considering that it was in working condition and could be used to travel long distances, it was worth more than the amount the Appellant estimated it to be, namely $1,200. I find both values to be unreasonable.
+[19] In order to restore the Austin Healy to 80 percent of its full restoration value, the Appellant worked 300 hours on it and incurred expenditures of $7,500 for body work and U.S. $1,200 for parts. If I deduct these expenses from 80 percent of its restored value estimated by the Appellant and if I allow about $30 an hour for his time, this results in a value of approximately $5,000. Although arbitrarily assessed, I find that the $5,000 is a reasonable value for the Austin Healy at the time of the transfer. The assessment against the Appellant for the purposes of subsection 160(1) is therefore reduced to $5,000.
+[20] The appeals are allowed and the assessments are referred back to the Minister for reconsideration and reassessment in accordance with to the reasons herein. Costs will be determined by this Court after both counsels provide their written submission. The Appellant shall submit his position no later than May 14, 2004 and the Respondent, no later than May 31, 2004.
+Signed at Ottawa, Canada, this 14th day of April 2004.
+"François Angers"
+Angers, J.
+CITATION:
+2004TCC240
+COURT FILE NO.:
+2001-3800(IT)G
+STYLE OF CAUSE:
+Donald Marshall Reagh and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+February 23, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable François Angers
+DATE OF JUDGMENT:
+April 14, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Kristy Foreman Gear
+Counsel for the Respondent:
+L. Clive Boulton
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+L. Clive Boulton
+Firm:
+Dumoulin Boskovich
+Vancouver, British Columbia
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

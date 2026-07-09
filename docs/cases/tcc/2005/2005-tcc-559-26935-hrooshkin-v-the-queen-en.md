@@ -1,0 +1,145 @@
+---
+title: "Hrooshkin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26935/index.do"
+last_modified: "2005-09-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 559"
+citation2: ""
+neutral_citation: "2005 TCC 559"
+decision_date: "2005-09-20"
+language: "en"
+item_id: "26935"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 741
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:19:01.274000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b2edea31a2e494c3eef97119a3bfc459ff6a082247798b9e3aedff3de81fe07c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hrooshkin v. The Queen
+
+- Citation: 2005 TCC 559
+- Decision date: 2005-09-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 741, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hrooshkin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-20
+Neutral citation
+2005 TCC 559
+File numbers
+2005-753(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-753(IT)I
+BETWEEN:
+MILTON HROOSHKIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 10 and 18, 2005, at Saskatoon, Saskatchewan
+By: The Honourable Justice D.W. Beaubier
+Appearances:
+Agent for the Appellant:
+Barry N. Jolly
+Counsel for the Respondent:
+Penny L. Piper
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2000 and 2001 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 20th day of September 2005.
+"D.W. Beaubier"
+Beaubier, J
+Citation: 2005TCC559
+Date: 20050920
+Docket: 2005-753(IT)I
+BETWEEN:
+MILTON HROOSHKIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Saskatoon, Saskatchewan on August 10 and August 18, 2005. The Appellant and his accountant, Norman Barry Jolly, testified. The Respondent called the auditor on the file, Trevor Funk.
+[2] The appeal is from reassessments for the years 2000 and 2001. They resulted in a finding of "additions to net business income" of $59,422.56 in 2000 and $57,187.44 in 2001 with consequent income tax and Canada Pension Plan determinations.
+[3] At the opening of the Hearing Mr. Jolly presented a detailed accounting and boxes of documents. The parties asked for and received an adjournment until August 18. In the interval the parties met extensively and a new audit was done, based essentially on the bank records. The result is that the new numbers are not based on the sources (or lack of sources) of the original audit.
+[4] On August 18, 2005 the Canada Revenue Agency auditor presented figures as follows:
+2000 2001
+Exhibit R-1 Exhibit R-2
+"Addition to Net Business Income" $26,165.67 $41,516.22
+[5] The Appellant and his accountant asked for further deductions as follows:
+1. For money allegedly paid to subcontractors who were stated to be contract autobody workers or persons to whom he gave cash to reimburse them for cash paid pickups of parts or other business items. There are no invoices for these; their names are not in evidence, nor did Mr. Hrooshkin recall them and after, in essence, two audits there are no other particulars before the Court. The amounts alleged are:
+2000 2001
+(Exhibit A-3) (Exhibit A-4)
+"Subcontracts" $18,563.66 $19,509.73
+2. For alleged G.S.T. paid by the Appellant as calculated in the original audit; and which was cancelled by the second audit conducted after August 10, 2005 and which was based on the Appellant's records and which allowed deductions pursuant to those records:
+2000 2001
+(Exhibit A-3) (Exhibit A-4)
+"Other expenses" $4,534.37 $2,946.31
+[6] With respect to the Appellant's further claims described in paragraph [5], there is simply no suitable verification of the "subcontract" amounts, such as witnesses, invoices or cheques presented to the Court to support these claims after, in essence two audits. For these reasons the claims for "subcontracts" described in paragraphs [5] and [6] are denied. Similarly, the second audit was based on an entirely different procedure than the first audit. The second audit was more beneficial to the Appellant than the first and it was based on better documents and particulars. The Court accepts Respondent Counsel's argument that any claims respecting alleged G.S.T. are covered by the method of accounting adopted in the second audit, and the second audit method does not allow the Appellant to include the first audit's methods to be inserted into it without further evidentiary documentation. For that reason, this claim for "G.S.T." is not allowed.
+[7] For the foregoing reason, the appeal is allowed on the basis that the Appellant's "addition to net business income" is found to be:
+For 2000: $26,165.67
+For 2001 $41,516.22
+The Minister is ordered to reconsider and reassess the Appellant accordingly.
+[8] There is no order as to costs.
+Signed at Vancouver, British Columbia, this 20th day of September 2005.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2005TCC559
+COURT FILE NO.:
+2005-753(IT)I
+STYLE OF CAUSE:
+Milton Hrooshkin v. The Queen
+PLACE OF HEARING:
+Saskatoon, Saskatchewan
+DATE OF HEARING:
+August 10 & 18, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF JUDGMENT:
+September 20, 2005
+APPEARANCES:
+Agent for the Appellant:
+Barry N. Jolly
+Counsel for the Respondent:
+Penny L. Piper
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

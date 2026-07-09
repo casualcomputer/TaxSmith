@@ -1,0 +1,148 @@
+Title: Mueller v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/356485/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-260-356485-mueller-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-12-18
+
+# Mueller v. The Queen
+
+- Citation: 2018 TCC 260
+- Decision date: 2018-12-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4987, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mueller v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-12-18
+Neutral citation
+2018 TCC 260
+File numbers
+2015-3501(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-3501(IT)G
+BETWEEN:
+DIRK MUELLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 19, 2018, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Allen Wilford
+Counsel for the Respondent:
+Rini Rashid
+JUDGMENT
+IN ACCORDANCE with the Reasons for Judgment attached, the appeal in respect of reassessment number 2300375 dated August 1, 2013 is dismissed.
+COST ARE PROVISONALLY AWARDED to the Respondent in accordance with the applicable Tariff, subject within 30 days of the date of this Judgment to the Court’s receipt of written submissions from either of the parties and, as a result, the Court’s determination otherwise, failing which the provisional award of costs shall become final without the need for any further order.
+Signed at Ottawa, Canada, this 18th day of December 2018.
+“R.S. Bocock”
+Bocock J.
+Citation: 2018 TCC 260
+Date: 20181218
+Docket: 2015-3501(IT)G
+BETWEEN:
+DIRK MUELLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Facts
+[1] Mr. Mueller appeals the Minister of National Revenue’s (the “Minister”) reassessment #2300375 in the amount of $32,898.72 issued August 1, 2013. The reassessment related to the unremitted source deductions, penalties and interest (the “unremitted amounts”) of Polgercan Corp. (“Polgercan”). The reassessment was raised under subsection 227.1(1) of the Income Tax Act, RSC 1985, c.1, as amended (the “Act”) on the basis that Mr. Mueller is liable as a director of Polgercan for the unremitted amounts.
+[2] Polgercan was incorporated on July 9, 2001. The only two directors, officers and shareholders were Mr. Mueller and one Gregory Chojna. Mr. Chojna and Mr. Mueller had worked together before that time for a well-known high rise repair and restoration company. Mr. Chojna approached Mr. Mueller to leave and undertake a new business of constructing and installing bus shelters. Mr. Mueller undertook the “hands on” operations of the business while Mr. Chojna managed the books, records and finances of Polgercan. All went quite well until 2005 or 2006, when Mr. Chojna lost interest and wished to pursue an investment business. He wanted out. Mr. Mueller, although dejected and disappointed, relented. Polgercan was, in Mr. Mueller’s words, “closed” or, at least Mr. Chojna led Mr. Mueller to believe it was so.
+[3] In “closing down” Polgercan, Mr. Mueller believed all liabilities had been satisfied. He knew of some $40,000.00 in debts. He took steps to sell certain assets of Polgercan. He remitted that money and forfeited another $5,000.00 to Mr. Chojna to satisfy these known debts. He also took possession and assumed monthly lease payments of $460.00/month for 3 years on a 4 year old truck owned by Polgercan at the time the business ceased to operate.
+[4] Lurking underneath the known liabilities were the unremitted amounts. These sums related to employee deductions for primarily 3 employees: Mr. Chojna’s son, Mr. Mueller’s former brother-in-law and one other. At the hearing, Mr. Mueller stated he was disbelieving of the quantum and existence of the amounts. He testified he believed his brother-in-law was an independent contractor, Mr. Chojna’ son could not possibly have been paid $25,000.00 since he was a student for only one summer, and, lastly, he had never heard of the third employee.
+[5] The other director, Mr. Chojna, was not helpful to Mr. Mueller’s cause. Mr. Chojna became a bankrupt in 2009. He purposely destroyed all the business records. Similarly, Polgercan’s accountant, who had prepared all of the corporate and personal tax returns, retained very few, if any, records by the time Mr. Mueller was served on August 1, 2013, with the assessment for the unremitted amounts, relating back to 2005 and 2006.
+[6] The reason for this delay was explained by various witnesses at the hearing, including the CRA resource office. The assessment arose because Polgercan had neither filed corporate tax returns since 2005 nor remitted source deductions since at least that time without explanation. After considerable effort in tracking down the records at the accountant’s office, a trust audit of payroll records was conducted in June 2009. A garnishment of a bank account for Polgercan collected a small amount. Ultimately, in January of 2013, an effective certificate for the debt was registered in the Federal Court. The writ of seizure and sale was remitted to the bailiwick of the Sheriff for the relevant county. It was returned nulla bona. In August of 2013, the assessment for the unremitted amounts was served on Mr. Mueller. Hence, this appeal.
+[7] Mr. Mueller attempted to obtain records and information from various sources: Mr. Chojna, Polgercan’s accountant, the bank and government agencies. All of this has been to no avail.
+[8] In contrast, Polgercan still remains an active corporation under the OBCA and Mr. Mueller is listed as an initial and continuing director to this day.
+[9] Counsel for Mr. Mueller has asserted the following grounds for allowing the appeal:
+(1) the doctrine of laches or “delay” applies to bar the assessment by the Minister where the Minister delayed the audit, notification and enforcement of the unremitted amounts which arose in 2005 and 2006, but in respect of which Mr. Mueller had no knowledge or information of his obligations until 2013.
+(2) the delay by the Minister prevented Mr. Mueller from marshalling a defence to the assessment because of the unavailability of business records;
+(3) if Mr. Mueller had been aware of the unremitted amounts, Mr. Mueller would have satisfied them or taken steps to see them satisfied as he did with the other debts of which he was aware;
+(4) Mr. Mueller is the innocent victim of the failure of: (i) Mr. Chojna, the person seized with the financial information and responsibility for Polgercan, and (ii) Polgercan’s accountant who failed to properly advise Mr. Mueller, kept the balance of the records and destroyed them before the appealed assessment existed.
+II. the Law
+(i) the Statute
+The relevant statutory provisions relevant to this Appeal are:
+[10] Section 227.1(1), (2), (3) and (4) provide as follows:
+Liability of directors for failure to deduct
+227.1 (1) Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or 135.1(7) or section 153 or 215, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay that amount and any interest or penalties relating to it.
+Limitations on liability
+(2) A director is not liable under subsection 227.1(1), unless
+(a) a certificate for the amount of the corporation’s liability referred to in that subsection has been registered in the Federal Court under section 223 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation’s liability referred to in that subsection has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation’s liability referred to in that subsection has been proved within six months after the date of the assignment or bankruptcy order.
+Idem
+(3) A director is not liable for a failure under subsection 227.1(1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+Limitation period
+(4) No action or proceedings to recover any amount payable by a director of a corporation under subsection 227.1(1) shall be commenced more than two years after the director last ceased to be a director of that corporation.
+ii) Jurisprudence
+[11] The Federal Court of Appeal has been quite thorough in its summary of principles relating to a director’s liability for unremitted amounts. For a director to cease to hold that office, an effective de jure resignation or a manifest de facto resignation must occur. [1] The standard of evidence is elevated beyond belief or best efforts. It does not relate to the director’s intention or recollection; instead it is an objective fact-based test. [2]
+[12] If a director has not resigned during the critical period, then the threshold when considering a due diligence defence to director’s liability is one that is determined by applying a director’s duty of care which is objectively determined based upon the facts in the context of the circumstances. [3] The analysis is a two-step process. For due diligence defences, the director must take active steps to ascertain that the debtor corporation’s obligations have been satisfied. [4] Once deficiencies exist, the director is required to direct effort towards seeing the debts paid. [5] The standard to be applied in approaching subsection 227(3) and the level of care required is of a reasonably prudent person in comparable circumstances; it is an objective test. The facts comprising the circumstances, and not the director’s view or perception of the situation, are relevant. Simply stated, the director must establish he firstly turned his mind to the required remittances. Next, he must have exercised his duty of care towards observable acts of preventing the non-remittance of the owed amounts.
+[13] Within the facts before the Court, there is no evidence, at the critical time when the liabilities concerning the unremitted amounts accrued, that Mr. Mueller was specifically concerned with the source deductions. It is this concurrent lack of awareness, inadvertence and non-query which directly caused unawareness of the unremitted amounts. He was never specifically told anything of the specific status of the unremitted amounts since he did not specifically inquire. His reasons for being unaware may have been lack of knowledge, experience or unfamiliarity. Directors are simply not afforded that latitude when seeking to shelter their liability for unremitted amounts by asserting they exercised due diligence. [6] This is not to suggest a standard of perfection, but rather one of focus and avidity in pursuing the responsibilities of being a director and all that such legal duty entails. It is not that there were insufficient steps directed towards inquiry followed by positive actions. There were simply no or too few steps taken because of the naïve belief – not based upon or after reasonable inquiry – that there were no employees and consequential remittances. A simple inquiry of Mr. Chojna’s son or Mr. Mueller’s very own brother-in-law would have revealed their status of employment. To not know or inquire of this is insouciance towards the legal duty Mr. Mueller had as a director at the time it mattered: when the business was operating and the liabilities were accruing.
+[14] As important is Mr. Mueller’s generic view that he had somehow relieved himself of his director’s responsibilities. No resignation from that office was produced. No articles of dissolution for Polgercan exist. Relevantly, there were no terminal tax returns prepared and filed for the corporation’s five years of operations. As a director, Mr. Mueller had such responsibilities of oversight. His obligation is more relevant when asserting the due diligence defence to defeat his obligations under section 227.1 for unremitted amounts. This is a full answer to the asserted challenge that the passage of time lessened Mr. Mueller’s subsisting liability.
+[15] The end date for director’s liability under section 227.1 is two years from the date of the resignation. [7] It is not measured from the time a director believes his obligations to be at an end. Uncertainty of status of the corporation, borne of insouciance or casual indifference, is not only self-serving, it ignores the serious approach necessary to execute and confirm an important cessation from the office of director: [8] Further, the defence of due diligence will not march along with either claimed ignorance through omission of inquiry as to the state of the account [9] or ignorance of the law requiring the retention and remittance of such trust funds to the rightful owner. [10] It is important to remember these funds were not Polgercan’s; the unremitted amounts were alternatively for or for the benefit of Her Majesty or the employees who earned them.
+III. CONCLUSION AND COSTS
+[16] Mr. Mueller was, and to this day is, a director of Polgercan. He cannot rely upon the two year limitation period in subsection 227.1(4). He may have believed that “shutting down” the business effected some combination of: his removal from office as a director and officer, the extinguishment of all obligations of the corporation (or, at least, himself) and the commencement a limitation period for directors’ liability claims. Regrettably for him, the “closing down” of Polgercan did nothing of the sort. Mr. Mueller had full signing authority on Polgercan’s accounts and exercised it concurrently with Mr. Chojna. He co-signed all paycheques. This made him aware of paid wages. The Act made him responsible for the concurrent liabilities now comprising the unremitted amounts.
+[17] Because of his status as a director, and an active one at that, Mr. Mueller was required to: ascertain the status of the outstanding liabilities comprising the unremitted amounts. There is no evidence he requested such information or queried whether there were sufficient funds to pay source deductions as he concurrently signed the cheques. Mr. Mueller cannot in default of that required inquiry, during the time such liabilities arose, afterwards query why the CRA did not inform him, a director, of the amounts in 2008 and 2009, some 24 months later when the CRA first learned of the possible debt. The critical steps of Mr. Mueller were not taken during the accrual and non-payment of the unremitted amounts. Factually, there is no question of having received incorrect information on the status of the liabilities [11] ; he simply never asked.
+[18] On account of never having made the requests or provided sufficient oversight to learn of the unremitted amounts, Mr. Mueller cannot claim he would have paid them if only he had known. This theoretical speculation never entered into consideration because Mr. Mueller failed to undertake sufficient steps to examine the liabilities he had as a director or provide oversight to cause him concern in relation to his various obligations. He has failed to discharge the first stage of the due diligence test. Therefore, he cannot progress to the second: taking steps to ensure that the discovered or suspected liabilities were paid. [12]
+[19] In summary, based upon all of the facts, Mr. Mueller remains a director of Polgercan to this day and offered no evidence regarding any error in the calculation or primary collection procedures of the unremitted amounts. He is therefore liable for the unremitted amounts in the first instance. As to the secondary issue of the due diligence defence, he has not provided sufficient evidence that he firstly took the steps of a reasonably prudent director in the circumstances necessary to learn of the remittances or establish processes for verifying same were paid and, only then, secondly, that he took active steps to satisfy any deficiencies once discovered.
+[20] The appeal is dismissed with costs provisionally awarded to the Respondent in accordance with the applicable Tariff, subject only to the right of either party to make brief written submissions within 30 days of judgment and, thereafter, the Court’s determination otherwise, failing which the cost award is to become final without the need for any further order.
+Signed at Ottawa, Canada, this 18th day of December 2018.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2018 TCC 260
+COURT FILE NO.:
+2015-3501(IT)G
+STYLE OF CAUSE:
+DIRK MUELLER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 19, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+December 18, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Allen Wilford
+Counsel for the Respondent:
+Rini Rashid
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Allen Wilford
+Firm:
+B. Wilford Professional Corporation
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Gariepy and Chriss v. Her Majesty the Queen, 2016 FCA 236 at paragraph 15 and 16.
+[2] Ibid., at paragraphs 18 & 19.
+[3] People’s Department Stores Ltd. (1992) Inc., Re (2004), 2004 SCC 68 at paragraph 62.
+[4] Buckingham v. Her Majesty the Queen, 2011 FCA 142 at paragraph 40.
+[5] Ibid., at paragraph 52
+[6] Hanson v. Her Majesty the Queen, 2000 CarswellNat 2095 at paragraphs 4, 5 and 7.
+[7] R v. Chriss and Gariepy , supra at paragraphs 12 and 14.
+[8] Ibid ., at paragraph 24.
+[9] Holgeson v. Her Majesty the Queen, 2016 TCC 114 at paragraphs 22 and 24; aff’d 2017 FCA specifically at paragraph 5.
+[10] Hanson v. Her Majesty the Queen, 2000 CarswellNat 2095 at paragraphs 26, 29 and 30; aff’d at 2000 CarswellNat 2095 (FCA) paragraphs 5 and 7.
+[11] Roitelman v. R., 2014 TCC 139, at paragraphs 26 and 27.
+[12] Buckingham, supra, at paragraph 20.

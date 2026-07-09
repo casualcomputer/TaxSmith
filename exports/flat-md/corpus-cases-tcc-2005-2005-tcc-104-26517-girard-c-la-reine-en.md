@@ -1,0 +1,159 @@
+---
+title: "Girard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26517/index.do"
+last_modified: "2005-02-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 104"
+citation2: ""
+neutral_citation: "2005 TCC 104"
+decision_date: "2005-02-02"
+language: "en"
+item_id: "26517"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3200
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:04:36.704000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ac5964cd724098f18bf091dbb0a949e435160e167218a7cf64f3a0d6486bc469"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Girard c. La Reine
+
+- Citation: 2005 TCC 104
+- Decision date: 2005-02-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3200, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Girard c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-02
+Neutral citation
+2005 TCC 104
+File numbers
+2004-3806(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3806(IT)I
+BETWEEN:
+LISETTE GIRARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 26, 2005, at Montréal, Quebec
+Before: The Honourable Justice Brent Paris
+Appearances:
+Agent for the Appellant:
+Laurent Brodeur
+Counsel for the Respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2003 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of February 2005.
+"Brent Paris"
+Paris J.
+Translation certified true
+on this 12th day of July 2005
+Aveta Graham, Translator
+Citation: 2005TCC104
+Date: 20050202
+Docket: 2004-3806(IT)I
+BETWEEN:
+LISETTE GIRARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+ParisJ.
+[1] This is an appeal from an assessment issued by the Minister of National Revenue (the "Minister") in which the Minister denied the Appellant a tax credit for severe and prolonged physical impairment for the 2003 taxation year.
+[2] The Appellant suffers from sleep apnea, a condition that causes her to cease breathing for short periods while sleeping. Those "respiratory events" are followed by arousal where breathing begins again. The result is fragmented sleep and daytime sleepiness. To treat her condition, at night the Appellant uses a CPAP (Continuous Positive Airway Pressure) device, which consists of a mask attached by a tube to an oxygen tank. She wears the mask while sleeping, which applies continuous positive pressure on the respiratory tract and keeps it open, eliminates the respiratory events and gets rid of the daytime sleepiness.
+[3] The Appellant was the only person to testify in support of her appeal. She explained that without the CPAP device, she would not be able to fall into a deep sleep, that she would have nightmares and anxiety attacks. The lack of deep sleep would effect her memory and concentration during the day and cause tremendous fatigue.
+[4] The Appellant added that last summer she had been diagnosed with a blocked artery in the heart and that she is currently taking medication to reduce the risk of having an infarct. According to her, the risk of infarct would be greater during the night if she did not use the CPAP device.
+[5] On cross-examination, the Appellant admitted that before getting the CPAP device in 2002, her physical impairment did not prevent her from working in her position as auditor at Revenu Québec and that she did not have a disruption of work because of her apnea.
+[6] A Disability Tax Credit Certificate signed by the doctor treating the Appellant, Dr. Charbonneau, was submitted in evidence as Exhibit I-1. That certificate attests that the Appellant suffers from moderate sleep apnea and that she must follow therapy essential to sustain a vital function and dedicate at least 14 hours per week on average, at least three times a week, to this therapy. It also specifies that the type of therapy is "nasal CPAP."
+[7] However, according to the Reply to Notice of Appeal (subparagraph 6(b)), Dr. Charbonneau stated the following to a Canada Customs and Revenue Agency officer:
+[translation]
+. . . if her patient did not use the CPAP pump, she would experience daytime sleepiness that would prevent her from functioning adequately at work, but the Appellant's ability to perform basic activities of daily living would not be markedly restricted.
+[8] Paragraph 118.3(1)(a.1) of the Income Tax Act (the "Act") stipulates that:
+Where
+. . .
+(a.1) the effects of the impairment are such that the individual's ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted but for therapy that
+(i) is essential to sustain a vital function of the individual,
+(ii) is required to be administered at least three times each week for a total duration averaging not less than 14 hours a week, and
+(iii) cannot reasonably be expected to be of significant benefit to persons who are not so impaired,
+[9] The Appellant's agent argues that the Court should accept the medical certificate as it was completed by Dr. Charbonneau as evidence that the Appellant meets the conditions set out in paragraph 118.3(1)(a.1) of the Act. He states that wearing the CPAP device is therapy essential to sustain a vital function, namely breathing. According to him, the evidence showed that without this device the Appellant would be at an increased risk of having an infarct.
+[10] In Biron v. The Queen (2004TCC154), Lamarre Proulx J. had to decide if a taxpayer suffering from severe sleep apnea and who was required to use a CPAP device was entitled to the disability tax credit. Lamarre Proulx J. acknowledged that breathing is a vital function but stated the following at paragraphs 44 and 45 of her decision:
+[translation]
+Based on my reading of the sleep apnea articles submitted to me and the testimony of Dr. Camirand himself, I find that the breathing mask does not fall under the category of essential therapy within the meaning of paragraph 118.3(1)(a.1) of the Act.
+Parliament has used the term "essential." In its legal meaning, "essential" refers to something on which the existence of a juridical act depends. Based on this reasoning, I find that an essential therapy is one which, if the patient ceased to tolerate it, would result fairly promptly in his death. Whether and for how many nights a breathing mask is worn are matters over which the patient has some degree of discretion. The patient's life is not in immediate or proximate danger if he does not wear it. Over the long term, sleep apnea can cause damage if the person does not take the applicable precautions: breathing mask, medication, physical exercise and diet. Those are not therapies essential to sustain a vital function within the meaning of paragraph 118.3(1)(a.1) of the Act.
+[11] The Appellant in the instant case tries to differentiate her case from that of Mr. Biron. Her agent suggests that in the case under review, the Appellant is at an increased risk of having an infarct if she does not use the CPAP device and that, for this reason, the use of that device is essential to sustain a vital function. Although the Appellant's agent did not specify it, I assume that the vital function to which he is referring is the cardiovascular system. However, there is no evidence before the Court showing that sleep apnea increases the risk of infarct among people who have an arterial block. The Court read a medical article submitted in evidence by the Appellant (Exhibit A-1) dealing with sleep apnea and in particular the following excerpt of the conclusion (last page of the article):
+[translation]
+. . . The causal link between OSAS (obstructive sleep apnea syndrome) and cardiovascular morbidity also seems likely but was not formally established.
+[12] The Court was not satisfied that the Appellant's life would be in immediate or proximate danger if she was not using the CPAP. Also, the evidence tends to show that even without the CPAP, the Appellant could perform basic activities of daily living as set out in paragraph 118.4(1)(c) of the Act.
+[13] In any case, it cannot be said that the use of the CPAP device represented therapy essential to sustain a vital function. It also seems that the use of the CPAP device would not be considered therapeutic care. The Canadian Oxford Dictionary defines the word "care" as being, inter alia, a "process of looking after or providing for someone or something." If Parliament had wanted to include therapeutic devices in paragraph 118.3(1)(a.1) of the Act, it would have specifically mentioned them as it did in subsection 118.4(1) which refers to ". . . therapy and the use of appropriate devices and medication . . ."
+[14] Given the conclusions drawn by the Court from the evidence submitted, I am of the opinion that Dr. Charbonneau erred in indicating on the medical certificate that the Appellant needed therapy to sustain her life.
+[15] For all of the above reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 2nd day of February 2005.
+"Brent Paris"
+Paris J.
+Translation certified true
+on this 12th day of July 2005
+Aveta Graham, Translator
+CITATION:
+2005TCC104
+COURT FILE NO.:
+2004-3806(IT)I
+STYLE OF CAUSE:
+Lisette Girard v. Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+January 26, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Brent Paris
+DATE OF JUDGMENT:
+February 2, 2005
+APPEARANCES:
+For the Appellant:
+Laurent Brodeur (agent)
+Counsel for the Respondent:
+Anne Poirier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, QC
+Deputy Attorney General of Canada
+Ottawa, Canada

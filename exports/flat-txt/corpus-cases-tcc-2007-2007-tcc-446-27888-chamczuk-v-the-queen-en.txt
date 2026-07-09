@@ -1,0 +1,119 @@
+Title: Chamczuk v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27888/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-446-27888-chamczuk-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-07-30
+
+# Chamczuk v. The Queen
+
+- Citation: 2007 TCC 446
+- Decision date: 2007-07-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1736, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chamczuk v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-07-30
+Neutral citation
+2007 TCC 446
+File numbers
+2006-3654(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3654(IT)I
+BETWEEN:
+DANIEL M. CHAMCZUK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 30, 2007 at Edmonton, Alberta
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carrie Mymko
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2004 taxation year is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 21st day of August 2007.
+“L.M. Little”
+Little J.
+Citation: 2007TCC446
+Date: 20070821
+Docket: 2006-3654(IT)I
+BETWEEN:
+DANIEL M. CHAMCZUK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellant resides in Ardrossan, in the Province of Alberta.
+[2] The Appellant established a self-directed Registered Retirement Savings Plan (“RRSP”) with the Canadian Imperial Bank of Commerce (“CIBC”).
+[3] In 2004 the Appellant instructed officials of CIBC to have the RRSP purchase shares in Spantel Communications Inc. (“Spantel”) at a cost of $16,445.07.
+[4] It was subsequently determined that the shares of Spantel were a non‑qualified investment for the Appellant’s RRSP.
+[5] In 2004 CIBC sold the shares of Spantel that were owned by the Appellant’s RRSP at a price of $10,080.00.
+[6] CIBC issued a T4RSP form to the Appellant showing other income totalling $16,445.07 for the 2004 taxation year.
+[7] CIBC issued a T4RSP form to the Appellant showing a deduction of $10,080.00 for the 2004 taxation year.
+[8] When the Appellant filed his income tax return for the 2004 taxation year he reported a contribution of $3,100.00 to his RRSP.
+[9] By Notice of Reassessment dated March 16, 2006, the Minister of National Revenue (the “Minister”) reassessed the Appellant to include income of $16,445.07 and allowed a deduction of $10,080.00 based on the T4RSP form issued by the CIBC.
+B. ISSUE
+[10] The issue to be decided is whether the Appellant has been properly reassessed by the Minister with respect to his self-directed RRSP.
+C ANALYSIS AND DECISION
+[11] Subsection 146(10) of the Income Tax Act (the “Act”) reads as follows:
+Where at any time in a taxation year a trust governed by a registered retirement savings plan
+…
+(b) uses or permits to be used any property of the trust as security for a loan,
+[12] Subsection 146(6) of the Act reads as follows:
+Where in a taxation year a trust governed by a registered retirement savings plan disposes of a property that, when acquired, was a non-qualified investment, there may be deducted, in computing the income for the taxation year of the taxpayer who is the annuitant under the plan, an amount equal to the lesser of
+(a) the amount that, by virtue of subsection (10), was included in computing the income of that taxpayer in respect of the acquisition of that property, and
+(b) the proceeds of disposition of the property.
+[13] It will be noted that subsection 146(10) clearly provides that the fair market value of the non-qualified investment acquired by the Appellant’s RRSP shall be included in the Appellant’s income.
+[14] In this situation the Appellant has been allowed a deduction pursuant to subsection 146(6) of the Act of the lesser of the amount that was included in his income under subsection 146(10) of the Act and the proceeds of the disposition of the Spantel shares which was $10,080.00. I believe that the Minister was correct when he issued the Reassessment.
+[15] The appeal is dismissed without costs.
+Signed at Vancouver, British Columbia, this 21st day of August 2007.
+“L.M. Little”
+Little J.
+CITATION:
+2007TCC446
+COURT FILE NO.:
+2006-3654(IT)I
+STYLE OF CAUSE:
+Daniel M. Chamczuk and
+Her Majesty the Queen
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+July 30, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+August 21, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carrie Mymko
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

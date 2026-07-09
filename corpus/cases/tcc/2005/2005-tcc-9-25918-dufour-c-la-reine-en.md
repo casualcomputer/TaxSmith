@@ -1,0 +1,162 @@
+---
+title: "Dufour c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25918/index.do"
+last_modified: "2005-01-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 9"
+citation2: ""
+neutral_citation: "2005 TCC 9"
+decision_date: "2005-01-11"
+language: "en"
+item_id: "25918"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3716
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:10:38.512000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "25ee0b03a3ba4f10fc732271c5076fb201ea98e0887471473d444a51c2c60991"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dufour c. La Reine
+
+- Citation: 2005 TCC 9
+- Decision date: 2005-01-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3716, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dufour c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-11
+Neutral citation
+2005 TCC 9
+File numbers
+2004-1201(GST)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-1201(GST)I
+BETWEEN:
+JEAN-PIERRE DUFOUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on December 8, 2004, at Québec, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Stéphanie Morasse
+Counsel for the Respondent:
+Philippe Morin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated February 5, 2003, and numbered PQ-2003-6608 and covers the period from November 1, 1999, to January 31, 2000, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of January 2005.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 12th day of April 2005
+Aveta Graham, Translator
+Citation: 2005TCC9
+Date: 20050111
+Docket: 2004-1201(GST)I
+BETWEEN:
+JEAN-PIERRE DUFOUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+BédardJ.
+[1] The Appellant was the sole director of the company 9070-2119 Québec Inc. (the "company") when it failed to remit the goods and services tax (GST) amounts that it had collected, thereby contravening the provisions of the Excise Tax Act (the "Act"). Since the Minister of National Revenue (the "Minister") was not able to recover those GST amounts from the company, the Minister held the Appellant jointly and severally liable under subsection 323(1) of the Act for the GST amounts that were not remitted by the company and the Minister accordingly issued an assessment to the Appellant dated February 5, 2003 (the "assessment"). The Appellant is appealing from that assessment for the following reasons:
+(i) first, he submitted that he had been assessed more than two years after he ceased to be the director and that the Minister was therefore not entitled, under subsection 323(5) of the Act, to make the assessment;
+(ii) second, he argued that on September 12, 2000, he obtained a final discharge from the Quebec Deputy Minister of Revenue with respect to, in particular, any GST amount collected and not remitted during the company's operation of the restaurant;
+(iii) lastly, he submitted that, in the instant case, he had exercised due diligence and that he therefore could not be held jointly and severally liable for the company's tax liability.
+Analysis
+[2] The evidence established that
+(i) the company had operated a restaurant from November 5, 1998, until January 20, 2000;
+(ii) the company had been incorporated on November 5, 1998, under the Companies Act (Part IA) and struck on May 4, 2001;
+(iii) the Appellant had been the company's only shareholder during its existence;
+(iv) the Appellant had been the company's only director since its incorporation until the date of his resignation on August 20, 2001;
+(v) during the period where the company had operated the restaurant, the Appellant was employed full time as sales director for the food chain Métro. However, during that period, the Appellant went to the restaurant regularly to perform general supervision. In fact, the Appellant was at the restaurant every day of the week, specifically, in the morning from 7:00 a.m. to 8:30 a.m. and at lunchtime. Also, he worked at the restaurant every weekend. Lastly, he obtained daily updates on the company's financial situation;
+(vi) during that period, the company employed 12 people including a service manager and the Appellant's son who was kitchen manager. The Appellant's wife did the company's bookkeeping (cashing out, manual journals and tax reports) Serge Lavoie, CGA, prepared the company's financial and income statements;
+(vii) for the period from May 1, 1999, to July 3, 1999, and for the period from August 1, 1999, to October 31, 1999, the company had filed the returns required by the Act on time, but had not remitted all the GST amounts collected;
+(viii) on April 3, 2000, a certificate (Exhibit I-2) (numbered GST-11780-00) had been filed in the Federal Court with regard to the company for an amount of $12,090.69, representing the GST amounts (including interest and penalties) collected and not remitted by the company for those two periods; on that date, the company's tax liability (including the amounts owing under the Act and under the Act respecting the Québec sales tax) was approximately $28,000. The tax authorities had therefore seized the company's bank account and its equipment. The company had paid all of the $28,000 tax liability (including the $12,090.69) on September 12, 2000, and obtained a discharge in that regard. It should be noted that the Appellant had to pay tax authorities $12,519.85 from his own funds in order for the $28,000 liability to be fully paid;
+(ix) for the period from November 1, 1999, to January 31, 2000, the company had not filed the return required by the Act until November 10, 2000, whereas it should have been filed no later than February 28, 2000. That return indicated that $3,315.52 in GST had been collected and not remitted. On May 30, 2001, a certificate numbered GST-2508-01 had been filed in the Federal Court with regard to the company for an amount of $3,815.70 and on March 8, 2002, a writ of seizure was returned marked with an indication that it had not been executed. Therefore, the Minister held the Appellant jointly and severally liable for the amounts owing by the company under the Act for the period from November 1, 1999, to January 31, 2000, and thus issued the Appellant the assessment dated February 5, 2003.
+Analysis and decision
+Time limit
+[3] I note that counsel for the Appellant submitted that the February 5, 2003, assessment was made more than two years after the Appellant had ceased to be director of the company and that the Minister of National Revenue was therefore not entitled under subsection 323(5) of the Act to make that assessment. In that regard, she argued that the Appellant had no longer acted as director of the company from the moment when the company ceased all commercial activities on January 20, 2000, and that the Appellant therefore could no longer be considered a director as of that date for the purposes of the Act.
+[4] In my view, a person does not cease to be director of a company from the moment when that company ceases all commercial activities. I believe that it is necessary to refer to the provisions of the Companies Act to determine the moment when a person ceases to be a director. In that regard, section 123.76 of that Act sets out that, notwithstanding the expiry of his term, a director remains in office until he is re-elected, replaced, or removed. A director must resign from office by giving notice to that effect. In the instant case, the evidence clearly establishes that the Appellant had been at the very least director of the company until the date of his resignation, which was August 20, 2001. Furthermore, is it not true that on September 12, 2000, the Appellant signed, as director of the company, the bill of sale through which the company sold its equipment and, on November 2, 2000, the bill of sale through which it sold its building, after the date on which the company ceased its commercial activities?
+Discharge
+[5] I note that counsel for the Appellant submitted that on September 12, 2000, the company had obtained a final discharge from the Quebec Deputy Minister of National Revenue with regard to any GST amount owing as part of the operation of the restaurant. The Appellant's evidence, in that regard, was based solely on his testimony. According to the Appellant, on September 12, 2000, it had been agreed with Michel Bédard, collection officer for the Quebec Minister of Revenue, that in consideration of the company's payment of the $28,000 ($12,519.85 of which came from the Appellant's funds), the company would obtain a final discharge with regard to all of its tax liabilities related to the operation of the restaurant.
+[6] The Appellant's testimony in that regard was simply not persuasive for the following reasons:
+(i) Mr. Bédard denied the Appellant's statements in that regard;
+(ii) the documentary evidence seems rather to support Mr. Bédard's testimony. In fact, the discharge of September 12, 2000, (Exhibit A-2) only covered the GST amount of $12,090.69 under the certificate (Exhibit I-2) filed with the Clerk of the Federal Court on April 3, 2000, in the file numbered GST-1178-00. The certificate only covered the GST amounts owing by the company for the period from May 1 to July 31, 1999, and for the period from August 1 to October 31, 1999. Also, it should be pointed out that, on September 12, 2002, the tax authorities were not yet aware of the GST amounts owing by the company for the period from November 1, 1999, to January 20, 2000 (the date on which the restaurant activities ceased). In fact, the return required by the Act was not filed by the company until November 10, 2001. It would be very surprising if the tax authorities had given a final discharge on amounts owing to them that they were not even aware existed.
+Due diligence
+[7] Lastly, counsel for the Appellant submitted that in the instant case the Appellant had exercised due diligence and that he therefore could not be held liable for the company's tax liabilities. In that regard, she submitted, relying on the conclusions in Soper v. Canada, [1998] 1 F.C. 124 (F.C.A.), that to satisfy the due diligence requirement a director may take positive measures by setting up controls. In the instant case, she pointed out that the Appellant had set up controls: the Appellant's spouse was responsible for filing the GST returns required by the Act, returns that were audited by Mr. Lavoie, the external auditor. She added that those returns had moreover been filed on time. It should first be noted that in Soper, Robertson J. found that to satisfy the due diligence requirement, a director must not only take positive measures by setting up controls to account for remittances, but also by asking for regular reports from the company's financial officers on the ongoing use of such controls and by obtaining confirmation at regular intervals that withholding and remittance has taken place as required by the Act.
+[8] In the instant case, the Appellant was the company's only director. The evidence clearly established that he was perfectly aware of the company's financial situation at all times, that he therefore knew that the company had filed the returns required by the Act on time for the period from May 1 to July 31, 1999, and for the period from August 1 to October 31, 1999, but he also knew that the company had failed to remit in a timely manner the GST collected for those two periods. The fact that the company finally paid the amounts it owed on September 12, 2000, is simply not relevant in the instant case. I cannot accept that the Appellant who, in my view, was at all times aware of the company's financial situation, did not know that the return required by the Act for the period from November 1, 1999, to January 31, 2000, had not been filed on time and that the GST collected during that period had not been remitted. There is no basis on which I can find that the Appellant's spouse and Mr. Lavoie had misled the Appellant about the status of the remittances for that period. The Appellant was aware of the company's financial difficulties and the status of the GST remittances. He received the company's income statement each month. Thus, it was up to him to ensure that the GST collected was remitted, regardless of the company's financial difficulties. In the instant case, he had an obligation to achieve results. I find that, in the circumstances, the Appellant could not properly rely on the due diligence defence set out in subsection 323(3) of the Act.
+[9] For those reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 11th day of January 2005.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 12th day of April 2005
+Aveta Graham, Translator
+CITATION:
+2005TCC9
+COURT FILE NO.:
+2004-1201(GST)I
+STYLE OF CAUSE:
+Jean-Pierre Dufour v. Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+December 8, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Paul Bédard
+DATE OF JUDGMENT:
+January 11, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Stéphanie Morasse
+Counsel for the Respondent:
+Philippe Morin
+COUNSEL OF RECORD:
+For the Appellant :
+Name:
+Louis Sirois
+Firm:
+Barbeau et Associés
+Québec, Quebec
+For the Respondent:
+John H. Sims
+Deputy Attorney General of Canada
+Ottawa, Canada

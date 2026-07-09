@@ -1,0 +1,249 @@
+---
+title: "Bouchard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27621/index.do"
+last_modified: "2006-09-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 484"
+citation2: ""
+neutral_citation: "2006 CCI 484"
+decision_date: "2006-09-13"
+language: "fr"
+item_id: "27621"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 442
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:45:42.748000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "09b96df035089a135f2f3a144d57f0a7ffba17ddb25075914406c791e83caa03"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bouchard c. La Reine
+
+- Citation: 2006 CCI 484
+- Decision date: 2006-09-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 442, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bouchard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-13
+Référence neutre
+2006 CCI 484
+Numéro de dossier
+2006-1116(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1116(IT)I
+ENTRE :
+SERGE BOUCHARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 22 août 2006, à Chicoutimi (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2002 est rejeté sans frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 13e jour de septembre 2006.
+« Alain Tardif »
+Juge Tardif
+Référence : 2006CCI484
+Date : 20060913
+Dossier : 2006-1116(IT)I
+ENTRE :
+SERGE BOUCHARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de l'appel d'une cotisation établie par le ministre du Revenu national (le « ministre » ) en vertu de la Loi de l'impôt sur le revenu (la « Loi » )pour l'année d'imposition 2002.
+[2] Les questions en litige consistent à déterminer si, pour cette année d'imposition, le ministre était justifié d'ajouter aux revenus de l'appelant, le montant de 55 079 $ et s'il était justifié d'imposer à l'appelant une pénalité en vertu du paragraphe 163(2) de la Loi.
+[3] Pour établir et ratifier la cotisation et la pénalité en vertu du paragraphe 63(2) de la Loi, le ministre s'est fondé sur les hypothèses de fait énumérées à la Réponse à l'avis d'appel; elles se lisent comme suit :
+a) Au cours des années d'imposition 2001, 2002 et 2003, l'appelant exploitait une entreprise de lavage de vitres; (admis)
+b) L'appelant opérait son entreprise sous la raison sociale « Laveur de vitres la Baie Enr. » (ci-après, l' « entreprise » ); (admis)
+c) La conjointe de l'appelant s'occupait de la comptabilité de l'entreprise; (admis)
+d) Dans sa déclaration de revenu pour son année d'imposition 2002, l'appelant a déclaré les revenus suivants :
+DESCRIPTION
+Intérêts /Revenus de placement
+Revenus bruts d'entreprise
+Revenus nets d'entreprise
+Total
+49 336 $
+2002
+595 $
+33 750 $
+34 345 $
+(admis)
+e) Lors de la vérification d'un tiers, un vérificateur du Ministre a constaté que l'appelant avait acquis au cours de l'année d'imposition 2002, un véhicule motorisé (ci-après, le « véhicule » ); (admis)
+f) La transaction d'achat de ce véhicule a été faite au comptant par l'appelant; (admis)
+g) Compte tenu de ce qui précède, le vérificateur du Ministre impliqué dans le dossier de l'appelant (ci-après, le « vérificateur » ), a procédé par la méthode indirecte de l'avoir net pour effectuer sa vérification; (admis)
+h) Par la méthode indirecte de vérification de l'avoir net, le vérificateur a déterminé que les revenus suivants n'avaient pas été déclarés pour les années d'imposition 2001, 2002 et 2003 (voir détails en annexe) :
+Année
+2001
+2002
+2003
+Montant
+8 881 $
+55 079 $
+1 056 $
+(nié)
+VÉHICULE MOTORISÉ
+i) Lors de la vérification, l'appelant a mentionné ne pas possédé de véhicule motorisé; (admis)
+j) Par la suite, le vérificateur a présenté à l'appelant, une copie d'un contrat d'achat pour un campeur motorisé; (admis)
+k) Le contrat était fait au nom de l'appelant; (admis)
+l) Il était mentionné au contrat que l'appelant avait donné en contrepartie, un autre véhicule motorisé de marque Ford Sterling 1989, ainsi qu'un montant de 55 000 $ en argent comptant; (admis)
+m) Puisque l'appelant a affirmé qu'il ne possédait pas de véhicule motorisé et qu'il n'avait pas d'argent comptant au début de la période de vérification; le montant de 55 079 $ a été considéré comme étant des revenus d'entreprise non déclarés, pour son année d'imposition 2002; (admis)
+[4] Pour justifier la pénalité, le ministre a tenu pour acquis les hypothèses de fait suivantes :
+a) La conjointe de l'appelant s'occupait de la comptabilité de l'entreprise; (admis)
+b) L'appelant était en affaires depuis longtemps; (admis)
+c) L'appelant savait qu'il devait apporter un certain soin à l'établissement de sa déclaration; (admis)
+d) L'appelant a changé sa version des faits au cours de la vérification; (admis)
+e) Le redressement était élevé par rapport aux revenus déclarés par l'appelant, pour l'année d'imposition 2002 : (nié)
+Description
+Revenus non déclarés
+Revenus déclarés
+Pourcentage
+2002
+55 079 $
+34 345 $
+160 %
+[5] À l'appui de son appel, l'appelant a essentiellement fait valoir qu'il gardait généralement de l'argent dans son coffret de sûreté, une habitude qu'il avait héritée de son père.
+[6] Pour expliquer le paiement en argent lors de l'acquisition du véhicule récréatif, il a produit un document faisant la liste de diverses opérations qui lui auraient permis, au fil des ans, d'accumuler des montants substantiels gardés en argent comptant dans un coffret de sûreté. Il y a lieu de reproduire le contenu de la pièce A-1 :
+Ville de la Baie, le 7 juin 2005
+AGENCE DES DOUANES ET DU REVENU Canada
+[...]
+MONSIEUR,
+PAR LA PRÉSENTE, NOUS CONTESTONS LE MONTANT DE 55 079 $ EN 2002 DE REVENUS ADDITIONNELS.
+NOUS VOUS FAISONS PARVENIR LA PREUVE DE NOS ÉCONOMIES ÉCHELONNÉES SUR 30 ANS DE VIE COMMUNE.
+TRANSACTIONS
+ÉCONOMIES
+#1
+ACHAT ANCIENNE ÉCOLE BL.BAIE SUD 2800$ EN 1972 EXPROPRIATION EN 1974, REÇU POUR 36 000 $
+EN 1976, RECONSTRUCTION SUR LE MÊME TERRAIN
+PAR MOI D'UNE AURE MAISON COÛT 13,000$
+PLACEMENT À LA CAISSE D'ENTRAIDE 10000$
+10000$
+#2
+VENTE DE CETTE MAISON EN 1988 ..........55000$
+ACHAT MAISON RUE ST-PIERRE 69000$
+DONNER ACOMPTE ................................45000$
+PAYER LE RESTANT DE L'HYPOTHÈQUE
+À LA BANQUE TORONTO DOMINION
+10000$
+#3
+VENTE MAISON RUE ST-PIERRE EN 1995....94500$
+ACHAT CHALET LAC GOTH EN 1991 33000$
+RÉNOVATION CHALET EN 1995 .................35000$
+25500$
+#4
+#5
+#6
+#7
+VENTE PART D'UN CHALET CHASSE ET PÊCHE........
+HÉRITAGE AU DÉCÈS DE MON PÈRE EN 1984...........
+COMPTE DONNÉ SUR TERRAIN BL BAIE SUD...........
+VENTE TERRAIN BL.BAIE SUD EN 2001 ...................
+7000$
+7000$
+4000$
+24000$
+#8
+DIVIDENDES PAYÉES PAR LA CIE LAVEURS DE VITRES
+PENDANT 5 ANS : SERGE 7500$ ET MAGELLA 7500$
+NOUS GARDIONS 2000$ DE CE MONTANT POUR NOS
+ÉCONOMIES ......................................................
+10000$
+#9
+ARGENT REÇU DE DIVERSES TRANSACTIONS TELLES QUE : VENTE DE MOBILIER, VENTE D'AUTOS, VENTE D'OUTILS ETC...
+7000$
+#10
+ARGENT RETENU DE VENTE DE TERRITOIRE
+DE LA CIE LAVEURS DE VITRES SAGUENAY INC.
+DONC JONQUIÈRE, ALMA, CHICOUTIMI ET LA BAIE...
+GRAND TOTAL ............
+40000$
+140000$
+P.S.
+POUR L'ENTRETIEN DE LA MAISON, L'ÉDUCATION DES ENFANTS, LA NOURRITURE ET TOUTES LES DÉPENSES COURANTES, NOUS RECEVONS DEUX SALAIRES DE 600$ CHAQUE PAR SEMAINE ET NOTRE BUDGET ÉTAIT ÉTABLI EN CONSÉQUENCE.
+NOUS NE CONTESTONS PAS LE GAIN EN CAPITAL DE 7000$ EN 2001 SUR VENTE DU TERRAIN.
+VEUILLEZ S.V.P. NOUS ENVOYER L'AVIS DE COTISATION RELIÉ À CE MONTANT.
+MERCI DE L'ATTENTION QUE VOUS PORTEREZ À NOTRE DOSSIER.
+SERGE BOUCHARD
+MAGELLA VANDAL
+[7] Interrogé sur les chiffres indiqués pour les diverses opérations décrites au document, l'appelant a souvent affirmé qu'il n'avait plus les pièces justificatives, l'écoulement du temps étant l'explication.
+[8] Lors de la vérification et à la suite de celle-ci, l'appelant a soumis des réponses contradictoires. De façon générale, il finissait par reconnaître l'existence de certains faits lorsque les révélations de l'enquêteur montraient que sa première version était totalement invraisemblable.
+[9] Pour valider ou bonifier la vraisemblance de ses explications, il eût été important, voire fondamental que l'appelant fasse la démonstration complète de la totalité de son enrichissement au cours de la période retenue; en d'autres termes, il ne suffisait pas de colliger certaines transactions profitables pour démontrer la possibilité d'avoir accumuler au fil des ans un capital lui ayant permis de faire l'acquisition du véhicule récréatif.
+[10] Les transactions énumérées font état de profits. A-t-il fait une ou des transactions déficitaires? Son entreprise a-t-elle subi des pertes au fil des ans. D'où provenaient les capitaux utilisés pour le développement de son entreprise? Les profits apparents générés par les transactions énumérées auraient-ils été déposés au comptant dans un coffret de sûreté plutôt que de servir à des vacances, à l'achat d'équipement à son coût de vie, à l'expansion de l'entreprise, à des placements traditionnels ou même à un REER?
+[11] Ce sont là autant d'hypothèses qui rendent l'explication soumise douteuse au point qu'il m'apparaît déraisonnable de conclure que l'appelant a soumis une preuve prépondérante d'autant plus que la logique eût voulu, si les faits avaient été conformes à ses explications, qu'il ne cache pas l'information au moment de la rencontre avec le vérificateur.
+[12] Contrairement à ce qu'il a affirmé, je ne crois pas que les importantes sommes d'argent que l'appelant gardait dans son coffret provenaient exclusivement des diverses transactions énumérées. Je doute très fortement qu'il s'agissait d'économies gardées en comptant dans un coffret de sûreté comme on le faisait, à une certaine époque, avec des boîtes de conserve.
+[13] À l'audition, j'ai verbalement indiqué aux parties que je ne croyais pas une partie importante des explications de l'appelant et qu'il m'apparaissait manifeste qu'il avait caché la vérité à diverses occasions lors de la vérification.
+[14] L'appelant a tenté de convaincre le tribunal qu'il n'avait pas fait mention du véhicule récréatif, qui avait une valeur de plus de 80 000 $ avec les taxes, parce que les questions de l'enquêteur n'étaient pas suffisamment claires et précises.
+[15] Or, le vérificateur s'est présenté chez l'appelant avec un seul but : celui de découvrir les circonstances qui avaient entouré l'achat du véhicule récréatif, dont la valeur dépassait 85 000 $ avec les taxes.
+[16] Le vérificateur avait alors en sa possession une copie du contrat d'achat obtenu lors de la vérification de l'entreprise venderesse. Prétendre qu'une personne avec un minimum d'intelligence ait formulé ses questions de telle sorte qu'il n'est jamais venu à l'esprit de l'appelant qu'il devait faire état du véhicule récréatif relève de l'aberration et s'avère tout à fait farfelu comme explication.
+[17] Manifestement, l'appelant pratiquait la politique du comptant, qui laisse moins de traces et dont l'objectif est souvent de se soustraire tout au moins en partie, à ses obligations fiscales.
+[18] Homme d'affaires avisé, prospère et dynamique, l'appelant n'était manifestement pas le genre à conserver ses économies dans un « bas de laine » .
+[19] Par contre, le tribunal peut-il, à partir du constat que l'appelant a délibérément caché certains faits, conclure que l'ajout du montant de 55 079 $ aux revenus de l'appelant pour la seule année d'imposition 2002 était justifié?
+[20] Pour avoir gain de cause, l'appelant devait soumettre une preuve fiable et crédible à l'effet que la façon de faire du ministre était injustifiée et tout à fait déraisonnable. Il a choisi de soumettre une preuve circonstancielle incomplète.
+[21] À première vue, cela peut sembler tout à fait inacceptable; par contre, le ministre aurait pu, par le biais d'un travail plus élaboré, amortir le montant sur un certain nombre d'années, le tout ayant pour résultat d'augmenter considérablement la partie « intérêt » de la cotisation.
+[22] Quant à la pénalité, il m'apparaît évident que l'appelant a voulu cacher la provenance de ces revenus. Il a délibérément voulu cacher l'existence de l'actif que représentait l'acquisition du véhicule récréatif dont la valeur était loin d'être anodine.
+[23] Certes, il a par la suite, collaboré mais à partir du moment où il était évident qu'il devait reconnaître les faits à l'origine de la cotisation.
+[24] Il aurait évité tout cela, s'il avait reconnu spontanément les faits. Non seulement ce ne fût pas le cas, il a même soutenu que le vérificateur était responsable de la non divulgation à cause de ses questions imprécises. Il aurait évidemment souhaité que le vérificateur lui exhibe la copie du contrat.
+[25] Il ne s'agissait pas du bien dont la valeur était marginale, ni du bien d'utilité anodine au point d'en oublier l'existence; il s'agissait d'un véhicule ayant une valeur de plus de 80 000 $ utilisée pour une ou des périodes qui laisse des traces importantes dans la mémoire d'un homme raisonnable moyen ce qu'était sans l'ombre d'un seul doute, l'appelant.
+[26] Pour tous ces motifs, l'appel est rejeté et le bien-fondé de la pénalité est confirmé.
+Signé à Ottawa, Canada, ce 13e jour de septembre 2006.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2006CCI484
+N º DU DOSSIER DE LA COUR : 2006-1116(IT)I
+INTITULÉ DE LA CAUSE : Serge Bouchard et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Chicoutimi (Québec)
+DATE DE L'AUDIENCE : le 22 août 2006
+MOTIFS DU JUGEMENT PAR : l'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 13 septembre 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

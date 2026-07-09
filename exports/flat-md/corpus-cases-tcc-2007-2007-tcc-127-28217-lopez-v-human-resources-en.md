@@ -1,0 +1,153 @@
+---
+title: "Lopez v. Human Resources"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28217/index.do"
+last_modified: "2007-03-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 127"
+citation2: ""
+neutral_citation: "2007 TCC 127"
+decision_date: "2007-03-14"
+language: "en"
+item_id: "28217"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2064
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:19:05.129000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7234715ee5375a58ddac4a6e4a33b3f839fb8c8efd6130ab8eca516e6a14ffae"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lopez v. Human Resources
+
+- Citation: 2007 TCC 127
+- Decision date: 2007-03-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2064, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lopez v. Human Resources
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-14
+Neutral citation
+2007 TCC 127
+File numbers
+2006-1204(EI)
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Employment Insurance Act
+Old Age Security Act
+Decision Content
+Citation: 2007TCC127
+Date: 20070329
+Dockets: 2006-1204(EI), 2006-1207(CPP)
+BETWEEN:
+RAUL S. LOPEZ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on February 1, 2007, at Ottawa, Canada.)
+Margeson J.
+[1] The sole question before the Court is whether or not during the period in question, which was January 1, 2004 to December 31, 2004, the Appellant was engaged by Algonquin College (the "College") as an employee or if he was an independent contractor.
+[2] The facts with respect to what he did are not disputed, generally speaking.
+[3] It is a given, that during the period in question he was a part‑time instructor at the College, giving lectures in a night course and this was in fact a credit course.
+[4] The assumptions contained in the Reply are significant and they have not been rebutted.
+[5] The Appellant's contention was that Human Resources Development Canada has made two different decisions on the same factual basis as here. It decided that Mr. Lopez was an independent contractor and on another occasion, he or a person in identical circumstances was an independent contractor and also an employee. That is why he is here.
+[6] He said that he came to the Court to have the Court decide and pronounce upon his status.
+[7] Most of his evidence given in Court today, out of his own mouth, points to a contract of service rather than a contract for services. In other words it was an employer/employee relationship.
+[8] Again, looking at the assumptions of fact that are contained in the Reply, none of these presumptions have been rebutted. The only one which was questioned at all was (m):
+(m) the Payer decided if the work was to be redone and covered the related costs;
+The offensive part of that presumption to Mr. Lopez was the words "the payer decides if the work was to be redone".
+[9] Most of the work of Mr. Lopez was the giving of lectures and the marking of exams. The College sets the exams in conjunction with the coordinator and professors and then the Appellant did the marking. After the exam was marked, if a student objected to the mark, he could question it.
+[10] But overall, the evidence disclosed that there was a great deal of input into the work itself by the College, such as how the exam was to be composed, the marking of it and subsequently the issue of the appeal.
+[11] None of the evidence that was given with respect to this issue (m) at the end of the date indicates a contract for services.
+[12] The other issue taken with the Reply was the allegation that the Appellant had to provide the services personally. However, Mr. Lopez was the lecturer, he was the person that presented the course, and he was the person that did the marking. The Court is satisfied that he could not provide a substitute.
+[13] This was so even though he did give some evidence that if he had lectured the maximum number of hours, then the College could retain someone else to do a lecture. But that has nothing to do with the work that he was retained to do. He was to give a lecture for a certain number of hours, he was paid at a rate per hour and the number of hours was set out in his agreement.
+[14] The fact that the College may hire somebody else to teach something else other than his course or a part of the course which he was teaching because he had exhausted his lecturing hours has nothing to do with him being required to provide the services personally.
+[15] The Court is more than satisfied that the Appellant had to provide the services personally.
+[16] Other significant presumptions in the Reply that were unrebutted were:
+(d) the Appellant performed his duties at the Appellant's place of business;
+Except the marking which was done at home.
+(e) the Appellant provided his services as a part-time instructor for evening classes with a course total of 48 classroom hours ...
+The evidence is quite clear that he was paid $50 per hour.
+(g) the Appellant was paid by means of direct deposit to his personal bank account;
+(h) the Appellant was required to complete a prescribed form for the Payer titled "Instructor timesheet", on a weekly basis;
+This shows the element of control, supervision, guidance which is a common factor in contracts of service.
+(i) the Payer paid premiums to the WSIB;
+(j) the Appellant was supervised by the Appellant's Academic Manager in the performance of his duties;
+(k) the Payer provided the classroom facilities, a desktop computer, projection equipment, a VCR/DVD amplifier and a bulletin board system, at no charge to the Worker;
+(l) the Appellant provided a personal home office, a personal computer, some tools and supplies; ...
+However that did not take anything away from the fact that the bulk of the tools and equipment were provided by Algonquin College at the offices including services for photocopying, the computer, blackboard facilities and the lounge.
+(n) the Payer covered the costs of the liability insurance;
+It was established that the Appellant was on the payroll. He was paid as an employee.
+(o) the Payer was responsible for resolution of student complaints;
+I do not think there is any doubt about that. There was no doubt that the Appellant would have had some input into it. He was contacted to discuss this matter after a student complained. But at the end of the day it would be the College who would decide whether the student received his money back and whether he was successful in challenging his mark.
+(p) the Appellant was required to comply with Payer's established policies and procedures;...
+(r) the Payer had the right to terminate the Appellant's services.
+[17] Counsel referred to a number of cases such as Wiebe Door Services Ltd v. Canada[1] and 67112 Ontario Ltd v. Sagaz Industries Canada Inc.[2] in concluding that it is the total relationship between the parties that is significant.
+[18] As indicated, one factor in any one case may be more significant than in another. Even though one factor might point heavily to an independent contractor situation, other factors taken together may be sufficient to outweigh that factor.
+[19] In any event, in the case at bar the Court does not have any question whatsoever about the ultimate result. This was indeed a contract of employment situation.
+[20] Looking at Wiebe Door, supra, and the four-in-one test; control, ownership of tools, profit and loss and integration, it is satisfied beyond any doubt that Algonquin College had sufficient supervision and control of the Appellant to satisfy the provisions of Wiebe Door.
+[21] On the question of ownership of tools, it is satisfied that this factor points to a contract of service, rather than contract for services. The significant tools, supplies and equipment were provided by the College and not by the Appellant himself.
+[22] The Appellant did have an office in his home, he had some tools there and he might have done his marking at home, but those facilities were rather insignificant compared to those facilities which had to be supplied by Algonquin, particularly the classroom where the teaching took place.
+[23] On the profit and loss issue, the Court is satisfied beyond any doubt that the Appellant had no chance to make a profit himself other than the money that he was paid by the hour for the number of hours that he taught.
+[24] Indeed, the evidence was quite clear that he had to submit a time sheet to the College which was approved and initialed by somebody at the College in the administration before he would get paid.
+[25] He did not have a chance at making more money and he would not have made less money if he taught the hours that he agreed to teach.
+[26] There was no profit or loss in the commercial sense as referred to in the cases.
+[27] On the question of integration, the Court is satisfied beyond any doubt, looking at it from the point of view of the worker, that all of the work of the Appellant was integrated completely into the work of the College. That is what the College did, they taught courses, they provided certificates to people and trained them. The Appellant's instruction certainly was an integral part of that.
+[28] There was a high level of control indeed, as counsel for the Respondent has said in this particular case.
+[29] With respect to the textbooks, there was some issue about the textbooks, but the Court is satisfied that in 2004 the Appellant could have received textbooks from the College if he wanted to even though when he started in 2001 he bought his own.
+[30] Further, in 2001 when he started he may very well have been an independent contractor or may have been considered to be an independent contractor by the College, that year is not before the Court.
+[31] Those documents which were produced in evidence such as Exhibit A-1, are not helpful, certainly in 2004.
+[32] When the Court asks the question, was he in business for himself, or was he acting for somebody else, it is satisfied beyond any doubt at all that he was not in business for himself. He was an employee of Algonquin College and Algonquin College considered him to be an employee.
+[33] Taking all of the factors into consideration, considering the evidence and what the parties said, and having regard to the documents presented, the Court is satisfied beyond any doubt that the Appellant was an employee during the period in question. He was not an independent contractor.
+[34] The Court will dismiss the appeal and confirm the Minister's decision.
+Signed at Vancouver, British Columbia, this 29th day of March 2007.
+T. E. Margeson
+Margeson J.
+CITATION: 2007TCC127
+COURT FILE NO.: 2006-1204(EI), 2006-1207(CPP)
+STYLE OF CAUSE: RAUL S. LOPEZ AND M.N.R.
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: February 1, 2007
+REASONS FOR JUDGEMENT BY: The Honourable Justice T. E. Margeson
+DATE OF REASONS FOR
+JUDGMENT: March 29, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Andrew Miller and Carole Benoît
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1986] 3 F.C. 553 (Court File No. A-531-85).
+[2] [2001] 2 S.C.R. 983.

@@ -1,0 +1,169 @@
+Title: Bourget c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26244/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-654-26244-bourget-c-m-r-n-en.md
+Document type: case_law
+Last modified: 2004-11-12
+
+# Bourget c. M.R.N.
+
+- Citation: 2004 TCC 654
+- Decision date: 2004-11-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4041, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bourget c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-11-12
+Neutral citation
+2004 TCC 654
+File numbers
+2004-2415(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-2415(EI)
+BETWEEN:
+MARLÈNE BOURGET,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on September 20, 2004, at Percé, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Louise Levasseur
+Counsel for the Respondent:
+Antonia Paraherakis
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is affirmed based on the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 12th day of November 2004.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 10th day of February 2005.
+Julie Oliveira, Translator
+Citation: 2004TCC654
+Date: 20041112
+Docket: 2004-2415(EI)
+BETWEEN:
+MARLÈNE BOURGET,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] On December 2, 2003, the Appellant asked the Respondent to rule on whether or not she had worked in insurable employment for the company, Les fumoirs Gaspé cured inc. (the "Payer") from September 23 to November 12, 2002.
+[2] In a letter dated April 23, 2004, the Respondent informed the Appellant of his decision that she did not hold insurable employment. He also informed her that the amount of $2,412.14 received from the Payer was severance pay given after a settlement was reached to compensate for the loss of her employment, and that this amount does not constitute insurable earnings because it falls under the definition of a retiring allowance.
+[3] The Appellant is appealing this decision.
+[4] To render his decision, the Respondent established that the Appellant's employment did not fall within the meaning of a contract of service, which he based on the following uncontested assumptions of fact:
+(a) The Payer runs a smoked herring factory;
+(b) The business is open 8-10 months a year;
+(c) In 2002, the Payer had nearly 100 employees;
+(d) All of the factory workers worked 40 hours a week;
+(e) The Payer did not provide a pension fund or group insurance for the workers;
+(f) On November 10, 2001, the Payer hired the Appellant;
+(g) She worked at the Payer's factory;
+(h) She removed the herring fillets;
+(i) She was paid $7.68 an hour plus 4% vacation pay;
+(j) On November 25, 2001, the Appellant got injured at work and took an injury-on-duty leave;
+(k) On February 4, 2002, the Appellant resumed work for the Payer in a temporary night guard position;
+(l) On June 4, 2002, the Payer temporarily ceased its activities and the Appellant was laid off;
+(m) On June 13, 2002, the Appellant was again able to perform her usual day labourer tasks;
+(n) On September 23, 2002, the Payer resumed its activities and called back some of its workers;
+(o) The Appellant was not called back to work;
+(p) The Appellant then filed a complaint with the CSST against the Payer's decision to not call her back to work;
+(q) The employee's complaint was dismissed and she appealed the decision to the Commission des lésions professionnelles;
+(r) On November 1, 2003, the Appellant and the Payer reached an agreement that settled their differences;
+(s) The Payer acknowledged that if the Appellant had been called back to work, she would have completed 302 working hours from September 23 to November 12, 2002, before being laid off again;
+(t) The Payer agreed to pay the Appellant $2,412.14, which constituted the loss of wages from not being called back, that is, 302 hours at $7.68/hour plus 4% vacation pay;
+(u) It granted the Appellant additional seniority of 302 hours for all issues relating to her employment;
+(v) In return, the Appellant withdrew her challenge against the CSST decision.
+(w) Both parties agreed that $2,412.14 was fair compensation for the Appellant for not being called back in 2002;
+(x) Both parties said they were satisfied with the settlement and mutually released each other from all claims, rights or appeals that could result from not having called the Appellant back to her employment with the Payer.
+Analysis
+[5] The facts are relatively simple-the Appellant was not called back to work when she should have been. One year later, following a settlement (agreement) reached between the Appellant and the Payer, the Payer gave the Appellant monetary compensation equivalent to the total wages she would have earned during the period when she normally would have worked, from September 23 to November 12, 2002. In this agreement, the Payer granted the Appellant additional seniority of 302 hours for all issues relating to her employment. It should be pointed out that in the agreement, the Appellant did not waive her right of recall.
+[6] The issues are as follows:
+(i) Did the Appellant work in insurable employment for the Payer from September 23 to November 12, 2002?
+(ii) Did the amount of $2,412.14 fall under the definition of a retiring allowance?
+[7] The relevant provision of the Employment Insurance Act (the "Act") reads as follows:
+5.(1) Subject to subsection (2), insurable employment is:
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+...
+[8] The relevant regulatory provisions are as follows:
+Employment Insurance Regulations
+9.1 Where a person's earnings are paid on an hourly basis, the person is considered to have worked in insurable employment for the number of hours that the person actually worked and for which the person was remunerated.
+Insurable Earnings and Collection of Premiums Regulations
+1.(1) The definitions in this subsection apply in these Regulations.
+"retiring allowance" means an amount received by a person:
+(a) on or after retirement of the person from an office or employment in recognition of the person's long service, or
+(b) in respect of a loss of an office or employment of the person, whether or not received as, on account or in lieu of payment of, damages or pursuant to an order or judgment of a competent tribunal. (allocation de retraite)
+...
+PART I
+INSURABLE EARNINGS
+Earnings from Insurable Employment
+2.(1) For the purposes of the definition "insurable earnings" in subsection 2(1) of the Act and for the purposes of these Regulations, the total amount of earnings that an insured person has from insurable employment is:
+(a) the total of all amounts, whether wholly or partly pecuniary, received or enjoyed by the insured person that are paid to the person by the person's employer in respect of that employment, and
+(b) the amount of any gratuities that the insured person is required to declare to the person's employer under provincial legislation.
+(2) For the purposes of this Part, the total amount of earnings that an insured person has from insurable employment includes the portion of any amount of such earnings that remains unpaid because of the employer's bankruptcy, receivership, impending receivership or non-payment of remuneration for which the person has filed a complaint with the federal or provincial labour authorities, except for any unpaid amount that is in respect of overtime or that would have been paid by reason of termination of the employment.
+(3) For the purposes of subsections (1) and (2), "earnings" does not include:
+...
+(b) a retiring allowance;
+...
+[9] Therefore, according to section 9.1 of the Employment Insurance Regulations, a person who is paid on an hourly basis is considered to have worked in insurable employment for the number of hours that the person actually worked and for which the person was remunerated.
+[10] According to the definition of insurable earnings, they include the total insurable earnings from insurable employment, that is, the earnings that the insured person receives from the employer for this employment, but not including a retiring allowance. A retiring allowance is defined as an amount received in respect of a loss of employment, whether or not this amount is received as payment of damages.
+[11] Counsel for the Appellant pointed out that the employment relationship was not broken during the period in question and that, consequently, the pay given to the Appellant during this period was not a retiring allowance. Moreover, relying on the Federal Court of Appeal's findings in Canada (Attorney General) v. Sirois, [1999] F.C.J. No. 523 (Q.L.), she claimed that even if an employee is no longer working it does not necessarily follow that there is no longer a contract of service during this period.
+[12] I agree with counsel for the Appellant that the pay given to the Appellant cannot be considered a retiring allowance unless the employment relationship was broken. However, I believe that it is unnecessary in this case to determine whether or not the employment relationship was broken when it took place, if it did, because in any case, the Appellant did not, in my opinion, work in insurable employment during the period in question. In fact, section 9.1 of the Employment Insurance Regulations stipulates that a person paid on an hourly basis is considered to have worked in insurable employment for the number of hours that the person actually worked and for which the person was remunerated. The Appellant acknowledged that she was paid on an hourly basis and that she did not work the 302 hours for which she was paid.
+[13] With regard to Sirois, supra, referred to by counsel for the Appellant, I would like to point out that this decision only recognizes that a contract of service exists as long as the employment relationship is not broken, and as long as this is the case, a contract of service can exist even if the employee no longer provides a service. In Sirois, the Federal Court of Appeal clearly indicates that no regulatory provisions were involved. However, the Court recognizes that when such provisions are involved, they must be reviewed to determine an employment's insurability. Consequently, whether or not the employment relationship was broken, what must be asked in this case is whether the employment was insurable in light of section 9.1 of the Employment Insurance Regulations. In this regard, I agree with the reasoning of my colleague, Lamarre J., in Lefebvre c. Canada (ministre du Revenu national - M.R.N.), [2004] A.C.I. no 69 (Q.L.), 2004 CCI 131, at paras. 7-13.
+[14] On these grounds, I dismiss the appeal.
+Signed at Ottawa, Canada, this 12th day of November 2004.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 10th day of February 2005.
+Julie Oliveira, Translator
+CITATION:
+2004TCC654
+COURT FILE NO.:
+2004-2415(EI)
+STYLE OF CAUSE:
+Marlène Bourget and M.N.R.
+PLACE OF HEARING:
+Percé, Quebec
+DATE OF HEARING:
+September 20, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Paul Bédard
+DATE OF JUDGMENT:
+November 12, 2004
+APPEARANCES:
+For the Appellant:
+Louise Levasseur
+For the Respondent:
+Antonia Paraherakis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Louise Levasseur
+Firm:
+Levasseur & Gaudette
+Legal Aid Office
+Chandler, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,342 @@
+---
+title: "ARCHIVED - Excise and GST/HST News - No. 79 (Winter 2011)"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news79/excise-gst-hst-news-no-79-winter-2011.html
+last_modified: 2011-02-28
+---
+# ARCHIVED - Excise and GST/HST News - No. 79 (Winter 2011)
+
+## Table of Contents
+
+- [GST/HST rebates and public service bodies (PSBs)](#_Toc286232563)
+
+- [Reminder – PSB NETFILE](#_Toc286232564)
+
+- [Proposed changes to certain GST/HST rules relating to financial institutions](#_Toc286232565)
+
+- [Bill C-47 receives Royal Assent](#_Toc286232566)
+
+- [An enhanced focus on GST/HST compliance](#_Toc286232567)
+
+- [Option to purchase real property](#_Toc286232568)
+
+- [HST place of supply rules for goods supplied by way of sale and freight transportation services](#_Toc286232569)
+
+- [Late filing or failure to file form GST106 – avoid the penalty](#_Toc286232570)
+
+- [Residential care](#_Toc286232571)
+
+- [Suppliers to government entities (government purchases)](#_Toc286232572)
+
+- [Point-of-sale rebate on children's goods – dancewear](#_Toc286232573)
+
+- [Application of GST/HST to medical marihuana](#_Toc286232574)
+
+- [Filing GST/HST returns without a Web access code (WAC)](#_Toc286232575)
+
+- [Prescribed rates of interest](#_Toc286232576)
+
+- [What's new in publications](#_Toc286232577)
+
+- [Enquiries](#_Toc286232578)
+
+## GST/HST rebates and public service bodies (PSBs)
+
+Most PSBs that are charities, qualifying non-profit organizations (i.e., non-profit organizations that receive 40% government funding) or selected PSBs (i.e., school authorities, universities, or public colleges that are established and operated other than for profit; hospital authorities; municipalities; facility operators; or external suppliers) are eligible for a PSB rebate of the GST, or the federal part of the HST, paid or payable on eligible purchases and expenses.
+
+If the PSB is resident in a participating province, it may also be eligible for a PSB rebate of the provincial part of the HST paid or payable on purchases and other supplies of eligible property and services acquired in that participating province. Generally, the PSB will be entitled to a PSB rebate for the provincial part of the HST using the applicable PSB rebate factor for the province in which it is resident. To determine the applicable PSB rebate factor, please see "Rebate factors and explanation of activity types" in guide [RC4034, GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+In addition, a PSB resident in a participating province (Province A) that incurred HST in another participating province in which it is not resident (Province B) will be entitled to a PSB rebate of the provincial part of the HST paid or payable in Province B using the PSB rebate factor for Province A if the goods, services or intangible personal property (IPP) were consumed, used or supplied in Province B.
+
+A charity resident in British Columbia purchases bedding from a supplier in Ontario. The charity will donate the bedding to another charity operating a homeless shelter in Toronto, Ontario. The supplier ships the goods from its warehouse in Toronto to the homeless shelter. The bedding supplier charges the British Columbia charity 13% HST. The British Columbia charity will be entitled to a PSB rebate for the provincial part of the HST paid in Ontario using the rebate factor for the provincial part of the HST for its province of residence, which is 57% for British Columbia.
+
+PSBs that carry on their activities in more than one province may also be resident in more than one province and as a result may be required to calculate their PSB rebates of the provincial part of HST using more than one PSB rebate factor. To determine the appropriate PSB rebate factor or factors to be used by PSBs resident in more than one province, at least one of which is a participating province, see "Special rules for claimants resident in more than one province" in guide [RC4034, GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+### Example 2
+
+A charity resident in British Columbia and Ontario purchases bedding from a supplier in Ontario for use at a homeless shelter that the same charity operates in Toronto, Ontario. The supplier ships the goods from its warehouse in Toronto to the homeless shelter and charges the charity 13% HST. The charity will be entitled to a PSB rebate for the provincial part of the HST paid in Ontario using the rebate factor for the province in which it carries on its activities in the course of which the bedding is used, which is 82% for Ontario.
+
+### Other rebates of provincial part of the HST
+
+The provincial part of the HST is not the same in each participating province. It is therefore possible for a PSB to acquire goods, services or IPP (such as goodwill, contractual rights, trademarks and intellectual property) in a participating province that has a higher (or lower) HST rate than in the province where the property or services are to be consumed, used or supplied by the PSB. The provincial part of the HST is 7% in British Columbia, 10% in Nova Scotia and 8% in Ontario, New Brunswick and Newfoundland and Labrador.
+
+As a result, a different rebate (applicable to both PSBs and non PSBs) may be available in respect of the provincial part of the HST where goods are acquired in a participating province by a person and then removed to a participating province with a lower rate of the provincial part of the HST or to a non-participating province. Similarly, if a recipient acquires services or IPP for consumption, use or supply in whole or in part outside the participating province where they were acquired, a rebate of some or all of the provincial part of the HST may also be available.
+
+#### Rebate for goods removed
+
+If a PSB purchased goods in a participating province and removed them from that province for consumption, use, or supply exclusively (90% or more) outside the participating province, it may be entitled to a rebate of all or a portion of the provincial part of the HST paid in respect of the goods. This rebate may be available when the goods are removed from the participating province within 30 days of being delivered to the PSB and brought into a participating province with a lower rate of the provincial part of the HST or to a non-participating province. This rebate is claimed on Form [GST495, Rebate Application for Provincial Part of Harmonized Sales Tax (HST)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst495.html). For further information, see "Did you buy goods in a participating province and bring them into another province?" in guide [RC4034, GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html) or page 2 of Form GST495.
+
+A charity that is not a selected PSB is resident only in New Brunswick. The charity purchases mattresses in Nova Scotia and pays 15% HST. The charity then immediately sends them to New Brunswick for use in a homeless shelter that it operates in Moncton. The HST rate in New Brunswick is 13%. The charity will be entitled to a rebate for the 2% difference between the provincial part of the HST paid in Nova Scotia (i.e.,10%) and the provincial part of the HST that would have been payable in New Brunswick (i.e., 8%). This rebate is claimed using form GST495. The charity can also claim a PSB rebate for the remaining provincial part of the HST using the 50% rebate factor for charities resident in New Brunswick.
+
+#### Rebate for services or IPP supplied in a participating province
+
+If a PSB is a recipient of a supply of services or IPP in a participating province for use significantly (10% or more) in a participating province with a lower rate of the provincial part of the HST or outside participating provinces, it may be entitled to a rebate of some or all of the provincial part of the HST that was paid on an amount of consideration for the supply. This rebate is requested using reason code 13 on Form [GST189, General Application for Rebate of GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html). For further information, see "Reason code 13 – Intangible personal property or services supplied in a participating province" in guide [RC4033, General Application for GST/HST Rebates](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4033.html).
+
+#### PSB rebate and rebates claimed on Forms GST189 or GST495
+
+Amounts claimed (or entitled to be claimed) as a rebate on Form GST495 or GST189 must be deducted from the HST paid or payable by the PSB prior to calculating its PSB rebate.
+
+### Self-assessment of the provincial part of the HST
+
+Generally, for GST/HST purposes the person making a taxable supply collects the GST/HST. However, in some cases the recipient of the supply is required to calculate the tax it owes on a supply and pay the amount directly to the CRA. This is known as "self-assessment". Amounts of the provincial part of the HST that are self-assessed may be eligible for a PSB rebate.
+
+A PSB may be required to self-assess the provincial part of the HST if it is the recipient of a supply of goods, services or IPP in a non-participating province for consumption, use or supply in a participating province. Self-assessment may be required by a person where the person brings goods into a participating province that has a higher rate of the provincial part of the HST than the province from which the goods are brought. Similarly, a person who is resident in a participating province may be required to self-assess tax in respect of a supply of services or IPP acquired by the person where the services or IPP are consumed, used or supplied in whole or in part in a participating province that has a higher rate of the provincial part of the HST than the province where the supply occurred. For self-assessment purposes, the rate of the provincial part of the HST in a non-participating province is considered to be 0%.
+
+For more information on this topic, please see "Tax on property and services brought into a participating province" in guide [RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html).
+
+## Reminder – PSB NETFILE
+
+If you are a GST/HST registrant who files PSB rebates and you file your GST/HST returns electronically using GST/HST NETFILE, you can now electronically file your rebate application with your return.
+
+If you use GST/HST NETFILE to file your PSB rebate, please do not mail the paper form. However, if you choose not to file your PSB rebate using GST/HST NETFILE, you must mail your rebate application to your tax centre. The tax centre should receive your form on or before the due date of your return.
+
+Right now, GST/HST NETFILE can only accommodate PSB rebates for GST/HST registrants. Rebates for non-registrant PSBs as well as all other types of rebates must be filed on paper.
+
+## Proposed changes to certain GST/HST rules relating to financial institutions
+
+On January 28, 2011, the Department of Finance published a News Release announcing further proposed changes to rules relating to the manner in which certain financial institutions calculate the provincial component of the HST, along with a detailed backgrounder, draft legislation and draft regulations.
+
+Details relating to most of the proposed changes were previously announced in the May 19, 2010, Department of Finance News Release 2010-050, Government Proposes Changes to Certain GST/HST Rules Relating to Financial Institutions and in the June 30, 2010 News Release 2010-062, Proposed Changes to Certain Harmonized Sales Tax Rules in Respect of Financial Institutions, Streamlined Accounting Methods and Interment Rights.
+
+The backgrounder describes the proposed changes and clarifications to the rules contained in the previous releases including the rules for new investment plans or new series of an investment plan (including investment plans/series created through mergers), as well as issues that have been raised during consultations but which require further analysis and stakeholder consultations.
+
+For more information please see the Department of Finance News Release 2011-009, Government Proposes Changes to Certain GST/HST Rules Relating to Financial Institutions, and the related documents: Backgrounder: Modifications to the Proposed Financial Institution (FI) Rules for the Harmonized Sales Tax (HST) and Draft Legislation and Draft Regulations which are published on the [Department of Finance](https://www.canada.ca/en/department-finance.html) Web site.
+
+## Bill C-47 receives Royal Assent
+
+On December 15, 2010, [Bill C-47](https://www.parl.ca/legisinfo/en/bill/40-3/c-47), *Sustaining Canada's Economic Recovery Act*, received Royal Assent and is now referred to as Statutes of Canada, 2010, c.25.
+
+Bill C-47 implements certain provisions of the federal Budget of March 4, 2010 and contains the following measures:
+
+- Amendments to various Acts administered by the CRA to allow for the electronic issuance of notices when authorized by the taxpayer.
+
+- Extending the protection from civil liability claims that is already provided under the [Income Tax Act](https://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html) and other federal statutes to agents of the Crown who collect the GST/HST and the air travellers security charge in intended compliance with their statutory obligations.
+
+- Reducing the paperwork burden for small excise taxpayers – amendments allow certain small remitters to file and remit semi-annually rather than monthly. Please go to the Fall 2010 edition of the [Excise and GST/HST News – No.78](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news78.html) for more information on the Paper Burden Reduction Initiative.
+
+## An enhanced focus on GST/HST compliance
+
+The HST in Ontario and British Columbia was implemented on July 1, 2010. Successful implementation is a key priority for the CRA. To ensure success, the CRA is taking steps to strengthen its administration of GST/HST and provide a dedicated and centralized focus on GST/HST compliance. The CRA is planning program and organizational changes to enhance overall GST/HST administration. While development and implementation of these changes will continue for a number of years, the first wave of changes has already begun.
+
+The CRA's overall compliance strategy is based on education, service and responsible enforcement. Part of responsible enforcement is the CRA's comprehensive audit program that helps identify potential cases of GST/HST non-compliance. The CRA has made changes to its overall organizational structure in order to strengthen and enhance its focus on GST/HST compliance. These organizational changes have affected the audit program and lead to the discontinuation of combined audits. Instead of one audit covering both income tax and GST/HST, auditors will now do single tax audits. This allows auditors and their managers to develop more in-depth knowledge and expertise in their area.
+
+In addition to the discontinuation of combined audits, changes and improvements in CRA's approach to pre-assessment reviews are being implemented. Under the pre-assessment process, each GST/HST return is reviewed using an impartial electronic review process to identify errors or indications of non-compliance. Returns identified through this process are then referred for further examination and in some cases audit. Following the pre-assessment process, a notice of assessment is sent to the registrant indicating that the return is assessed as filed or identifying any adjustments made. This pre-assessment approach is now being expanded with new system validations that will focus initially on new province-specific measures such as the recapture of input tax credits, new housing rebates and transitional rebates.
+
+The GST/HST is a self-assessment system whereby registrants determine their own liability for net tax, and remit the correct amount of net tax accordingly. The CRA is committed to maintaining the integrity and fairness of this system and ensuring a level playing field for all GST/HST registrants. While most GST/HST registrants comply with the law, some intentionally avoid their GST/HST obligations. These new enhancements will help the CRA identify and correct non-compliance in its early stages in order to keep the system fair for Canadians who comply with the provisions of the [Excise Tax Act](https://laws-lois.justice.gc.ca/eng/acts/E-15/index.html).
+
+The CRA will continue to work with major stakeholder organizations and business associations to provide HST information to their members across Canada. For more information related to HST implementation, please go to the "Businesses" section of the CRA Web site at: [www.cra.gc.ca/gsthst](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html).
+
+## Option to purchase real property
+
+An option to purchase real property gives the holder of the option (the grantee) the right to compel the owner of the real property (the grantor) to sell the property at the agreed upon price and terms, and within the specified time. The grantor of the option is bound to enter into a contract for the sale of the real property if the grantee exercises the option in accordance with the terms of the option. As such, the grantee has an enforceable right to purchase the property under the conditions specified in the option agreement.
+
+The CRA considers the supply of an option to purchase real property to be a supply of real property for GST/HST purposes.
+
+Real property is defined in the [Excise Tax Act](https://laws-lois.justice.gc.ca/eng/acts/E-15/index.html) (the Act) to include (other than in the Province of Quebec), lands and tenements of every nature and description and every estate or interest in real property, whether legal or equitable. Sale is defined in the Act to include, among other things, any transfer of the ownership of a property. Accordingly, the supply of an option to purchase real property constitutes a sale of real property and those provisions of the Act affecting the sale of real property apply.
+
+If the supply of the option to purchase real property is a taxable supply, the consideration payable for the acquisition of the option is subject to the GST/HST. Where the recipient is registered, the supply of the option is subject to the self-assessment and reporting rules related to the acquisition of real property in the Act.
+
+### Place of supply
+
+The implementation of the HST in Ontario and British Columbia has not changed the real property place of supply rules. The Act provides that a supply of real property is made in a province if the property is situated in the province. Where the supply includes the provision of real property situated in two or more provinces, separate taxable supplies of real property are deemed to be made for each part of the real property that is located in a particular province, for separate consideration equal to the proportion of the total consideration reasonably attributable to each part of the real property. Each supply is subject to the GST/HST at the rate in effect in each of the respective provinces.
+
+A builder is selling a new home in northern Ontario for $1,000,000. The same builder owns 20 acres of land in northern Manitoba worth $10,000. The builder makes a single supply of granting an option to the purchaser for $101,000 (10% of the total purchase price) to purchase both the Ontario home and the Manitoba land for $1,010,000. The purchaser may exercise the option to purchase the two properties anytime within five years of the date the option is granted.
+
+The supply of the option to purchase the two properties is a taxable supply of real property. Since the properties are situated in two provinces, the *Excise Tax Act* deems the supply of the real property to be two separate supplies made for separate consideration. HST at 13% applies to $100,000 which is reasonably attributable to the deemed supply of the option to purchase the home in Ontario, and GST at 5% applies to $1,000 which is reasonably attributable to the deemed supply of the option to purchase the Manitoba land.
+
+For further information and additional examples regarding the application of the place of supply rules for supplies of real property, refer to GST/HST Technical Information Bulletin [B-103, Harmonized Sales Tax - Place of supply rules for determining whether a supply is made in a province](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-103.html). GST/HST Memoranda [19.5, Land and Associated Real Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-5/land-associated-real-property.html), addresses the issue of an option to purchase real property in more detail.
+
+## HST place of supply rules for goods supplied by way of sale and freight transportation services
+
+Taxable (other than zero-rated) supplies that are made in Canada are subject to GST at a rate of 5% if made in a non-participating province and are subject to HST at the harmonized rate if made in a participating province (13% if made in Ontario, New Brunswick and Newfoundland and Labrador, 15% if made in Nova Scotia and 12% if made in British Columbia). Different place of supply rules apply to determine the province in which different types of supplies are made. These rules apply to all supplies made in Canada and can result in suppliers that make supplies in multiple provinces having to collect tax at different rates. The place of supply rules that determine the province in which supplies of goods by way of sale and supplies of freight transportation services are made are explained below. The place of supply rules for goods supplied by way of sale and freight transportation services have not changes as a result of the implementation of the HST in Ontario and British Columbia.
+
+### Supply of goods by way of sale
+
+A supply of a good by way of sale is deemed to be made in a province if the supplier delivers the good or makes it available in the province to the recipient of the supply.
+
+The application of this place of supply rule is generally based on the province in which legal delivery of the good to the purchaser occurs.
+
+A supplier in Ontario agrees to sell a good to a purchaser in Manitoba. Based on the terms of delivery in the agreement for the supply of the good, legal delivery of the good to the purchaser occurs in Manitoba. The supply of the good is made in Manitoba. Therefore, the supplier is required to collect, and the purchaser is required to pay, GST at a rate of 5% in respect of the supply.
+
+For purposes of the place of supply rule, a good is also deemed to be delivered in a particular province, and not in any other province, if the supplier either
+
+- ships the good to a destination in the particular province that is specified in the contract for carriage of the good or transfers possession of the good to a common carrier or consignee that the supplier has retained on behalf of the recipient to ship the good to such a destination; or
+
+- sends the good by mail or courier to an address in the particular province.
+
+A supplier in Alberta agrees to sell a good to a purchaser in Ontario. Based on the terms of delivery in the agreement for the supply, legal delivery of the good to the purchaser occurs in Alberta. However, the supplier agrees to send the good by mail to the purchaser in Ontario. The supply of the good is made in Ontario. Therefore, the supplier is required to collect, and the purchaser is required to pay, HST at a rate of 13% in respect of the supply.
+
+### Supply of freight transportation services
+
+A supply of a freight transportation service is made in a province if the destination of the service is in the province.
+
+An individual in British Columbia hires a courier to transport a parcel from British Columbia to Alberta. The supply of the freight transportation service by the courier is made in Alberta because the destination of the service is in Alberta. As a result, the courier is required to collect, and the purchaser is required to pay, GST at a rate of 5% in respect of the supply of the freight transportation service.
+
+### Example 2
+
+An individual in Saskatchewan hires a carrier to transport a good to Ontario. The supply of the freight transportation service made by the courier is made in Ontario because the destination of the service is in Ontario. As a result, the courier is required to collect, and the purchaser is required to pay, HST at a rate of 13% in respect of the supply of the freight transportation service.
+
+For further information and additional examples regarding the application of the place of supply rules for supplies of goods by way of sale, for supplies of freight transportation services and the place of supply rules for other types of supplies, refer to GST/HST Technical Information Bulletin [B-103, Harmonized Sales Tax - Place of supply rules for determining whether a supply is made in a province](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-103.html).
+
+## Late filing or failure to file form GST106 – avoid the penalty
+
+GST/HST registrants that pay or credit a rebate amount under the Foreign Convention and Tour Incentive Program (FCTIP), and that claim a deduction on their GST/HST return for the rebate amount paid or credited, must file form[GST106, Information on Claims Paid or Credited for Foreign Conventions and Tour Packages](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst106.html), to provide additional information about the amounts paid or credited. GST/HST registrants that may have to file form GST106 include:
+
+- with respect to eligible tour packages, a GST/HST registrant that pays or credits the rebate amount to a non-resident, non-registered tour operator or to a non-resident individual, business, or organization; and
+
+- with respect to foreign conventions:
+
+    - a GST/HST registrant organizer of a foreign convention that pays or credits the rebate amount to the sponsor;
+
+    - a GST/HST registrant operator of a convention facility that is not the organizer of a foreign convention that pays or credits the rebate amount to the sponsor or the non-registered organizer; and
+
+    - a GST/HST registrant supplier of short-term or camping accommodation that is not the organizer of a foreign convention that pays or credits the rebate amount to the sponsor or the non-registered organizer.
+
+Please note that there are different eligibility criteria for the FCTIP rebates, and conditions for paying or crediting the rebate amounts. For more information, go to [GST/HST Information for the Travel and Convention Industry](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-specific-situations/gst-hst-information-travel-convention-industry.html).
+
+### Filing form GST106 – for GST/HST registrants that pay or credit a rebate amount
+
+GST/HST registrants that pay or credit the rebate amount for eligible tour packages or foreign conventions must include the full amount of the GST/HST collected or collectible on the supply, and claim a deduction for the rebate amount paid or credited on their GST/HST return. These GST/HST registrants must then file form GST106, [Information on Claims Paid or Credited for Foreign Conventions and Tour Packages](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst106.html) for each reporting period in which the registrant paid or credited a rebate amount and claimed a deduction for which:
+
+- the applicable GST/HST collected or collectible on the supply of the eligible tour package, convention facility or related convention supplies, as the case may be, became payable after March 2007; and
+
+- the registrant claimed a deduction for a rebate amount paid or credited to a person after March 2007.
+
+The form must be filed no later than the due date of the GST/HST return for the reporting period in which the amount is deducted. There are consequences to not filing form GST106 by the due date.
+
+### Late filing of and failure to file form GST106
+
+The consequences of not filing form GST106 by the due date depend on when the form is filed. Registrants who fail to file the form on or before the due date of the GST/HST return in which they claimed the deduction must add an amount equal to interest (at the prescribed rate), calculated on the amount claimed as a deduction, to their net tax. However, if the form is not filed by the earlier of:
+
+- the day that is four years after the due date of the GST/HST return on which they claimed the deduction; and
+
+- the day stipulated in a demand to file the information,
+
+the registrant must repay the amount previously claimed as a deduction and add an amount equal to interest (at the prescribed rate), calculated on the amount claimed as a deduction, to their net tax.
+
+### Further information
+
+Further information on the FCTIP and filing form GST106 is available on the CRA Web site:
+
+- GST/HST Memorandum [27-2, Conventions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/27-2.html)
+
+- GST/HST Memorandum [27-3, Foreign Convention and Tour Incentive Program – Rebate for Eligible Tour Packages and Accommodation Supplied as Part of Eligible Tour Packages](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/27-3.html)
+
+- GST/HST Info Sheet [GI-031, Foreign Convention and Tour Incentive Program - Registrant Organizers and Convention Facility Operators: Paying and Crediting the Rebate Amount for Foreign Conventions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-031.html)
+
+- GST/HST Info Sheet [GI-032, Non-Residents Purchasing Tour Packages: Rebate for Eligible Tour Packages](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-032.html)
+
+- Guide RC4036, GST/HST Information for the Travel and Convention Industry
+
+## Residential care
+
+A provision of the [Excise Tax Act](https://laws-lois.justice.gc.ca/eng/acts/E-15/index.html) exempts a supply of a service of providing care, supervision and a place of residence to children, underprivileged individuals or individuals with a disability in an establishment operated by the supplier for the purpose of providing such services. Generally, the supply of residential care services provided in a group home by the operator of the home directly to children that are residents of the home would be exempt pursuant to this provision.
+
+However, persons that enter into agreements with organizations such as Children's Aid Societies to facilitate the placement of children in a foster home are not making an exempt supply under this provision. Such persons may wish to contact their local GST/HST Rulings Centre to confirm the tax status of their supplies.
+
+To find your GST/HST Rulings Centre please see pamphlet RC4405, GST/HST Rulings - Experts in GST/HST Legislation or call 1-800-959-8287.
+
+## Suppliers to government entities (government purchases)
+
+All Government of Canada entities are required to pay the GST/HST on their purchases of taxable supplies of property or services. In addition, the following provincial and territorial governments are required to pay the GST/HST pursuant to agreements with the Government of Canada: British Columbia, Ontario, New Brunswick, Nova Scotia, Newfoundland and Labrador, Prince Edward Island and Nunavut. Therefore, suppliers are obligated to charge and collect GST/HST at the appropriate rate of tax when they make a taxable supply (other than a zero-rated supply) to the federal government or any of these provincial governments. (Special rules may apply to supplies of real property. For more information, see [GST/HST Memoranda Series Chapter 19, Special Sectors: Real Property](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst/gst-hst-memoranda-series.html)).
+
+The provincial and territorial governments of Alberta, Saskatchewan, Manitoba, Quebec, Yukon and Northwest Territories are not required to pay the GST/HST on their acquisitions. As such suppliers are not required to charge GST/HST to eligible entities that are part of these provincial and territorial governments, where these entities provide satisfactory documentary evidence to establish that they are entitled to acquire taxable supplies free of GST/HST. If you require further information please refer to GST/HST Memorandum [18.2, Provincial Governments](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/18-2/provincial-governments.html) or you may contact a GST/HST Rulings Officer at 1-800-959-8287. If you are located in Quebec, please contact [Revenu Québec](https://www.revenuquebec.ca/en/) by calling 1-800-567-4692.
+
+## Point-of-sale rebate on children's goods – dancewear
+
+As of July 1, 2010, the governments of Ontario, British Columbia and Nova Scotia each provide a point-of-sale rebate of the provincial part of the HST payable on qualifying children's goods. In these provinces, the rebate applies to supplies of children's clothing, footwear, and diapers. Additionally, in Ontario and British Columbia, the rebate applies to supplies of children's car seats and car booster seats. The rebate is available to persons that are recipients of qualifying children's goods supplied in Ontario, British Columbia or Nova Scotia, or that are resident in any of those provinces and that import qualifying children's goods in circumstances where the provincial part of the HST is payable on the importation, or that receive delivery or possession of qualifying children's goods into Ontario, British Columbia or Nova Scotia in circumstances where the provincial part of the HST is payable on the children's goods.
+
+Under the relevant provincial regulations and the Deduction for Provincial Rebate (GST/HST) Regulations under the [Excise Tax Act](https://laws-lois.justice.gc.ca/eng/acts/e-15/index.html), children's clothing and footwear are qualifying items for purposes of the rebate unless they are not designed for children, do not meet the size requirements, or are of a class that is used exclusively in sports or recreational activities.
+
+Dance is considered to be a recreational activity for purposes of the rebate. Therefore, any items of dance clothing or dance footwear that are of a class that is used exclusively in dance are not qualifying items for purposes of the rebate. The CRA considers ballet point shoes, tap shoes, flamenco shoes, various types of tutus and tutu ensembles, and dance costumes not to be qualifying items for purposes of the rebate.
+
+The nature of items such as dance skirts, pants, shorts, leg warmers, leotards, unitards, bodysuits, tights, ballet slippers, jazz shoes, and ghillies for example, is such that they could reasonably be worn for purposes that are not exclusively for dance. As a result, these items qualify for purposes of the rebate if the other requirements under the above noted regulations are met.
+
+Note that dance accessory items such as make-up, jewellery, hairnets, ballet or point shoe ribbon, toe spacers, or cushion inserts for shoes are not clothing or footwear and therefore, are not qualifying items for purposes of the rebate.
+
+For further information, see GST/HST Info Sheet [GI-063, Harmonized Sales Tax for Ontario, British Columbia and Nova Scotia – Point-of-Sale Rebate on Children's Goods](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-063.html).
+
+## Application of GST/HST to medical marihuana
+
+The [Excise Tax Act](https://laws-lois.justice.gc.ca/eng/acts/E-15/index.html) contains provisions that zero-rate (tax at the rate of 0%) a broad range of drugs that are regulated under federal legislation. Federally-regulated consumer drugs are generally zero-rated if a prescription is required before they can be sold to a consumer. On the other hand, federally-regulated drugs that may be purchased by a consumer without a prescription are generally subject to GST/HST.
+
+Marihuana is regulated as a controlled substance under the [Controlled Drugs and Substances Act](https://laws-lois.justice.gc.ca/eng/acts/C-38.8/index.html) (CDSA). The Marihuana Medical Access Regulations, made under the CDSA, provide that dried marihuana may, for medical purposes, be sold without a prescription to a consumer who is the holder of an "authorization to possess". Accordingly, dried marihuana that is purchased by a consumer in accordance with the Marihuana Medical Access Regulations is not acquired pursuant to a prescription and, therefore, is not zero-rated but subject to GST/HST at the applicable rate.
+
+## Filing GST/HST returns without a Web access code (WAC)
+
+You can file all of your GST/HST returns electronically through [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) using a single password instead of multiple Web access codes (WAC). A WAC is a personalized code that the CRA assigns to you to access the secure areas of the CRA's Internet filing Web pages.
+
+Business owners registered with My Business Account can file their GST/HST returns electronically without a WAC by using the "File a return service" at [www.cra.gc.ca/mybusinessaccount](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html). Authorized representatives, including employees of a business, can also file returns electronically at [www.cra.gc.ca/representatives](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html).
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from January 1, 2011, to March 31, 2011, on overdue amounts payable to the Minister is 5%. The prescribed annual rate of interest on amounts owed by the Minister (i.e., rebates or refunds) is 1% for corporate taxpayers and 3% for non-corporate taxpayers. These rates are applicable to income tax, excise tax, the softwood lumber products export charge, GST/HST and the air travellers security charge (ATSC) and excise duty on wine, spirits and tobacco.
+
+The prescribed annual rate of interest respecting excise duty on beer, on overdue amounts payable for the indicated period, is set at 3%. Refund interest rates are not applicable for amounts owed by the Minister (i.e., rebates or refunds) for excise duty that is in relation to beer.
+
+|  | Income Tax, Excise Tax, Softwood Lumber Products Export Charge, GST/HST and ATSC, Excise Duty (wine, spirits, tobacco) | Excise Duty (beer) |  |
+
+| --- | --- | --- | --- |
+
+| Period | Refund Interest | Arrears and Instalment Interest | Arrears Interest |
+
+| January 1 to March 31, 2011 | 1% corporate taxpayers 3% non-corporate taxpayers | 5% | 3% |
+
+| October 1 to December 31, 2010 | 1% corporate taxpayers 3% non-corporate taxpayers | 5% | 3% |
+
+| July 1 to September 30, 2010 | 1% corporate taxpayers 3% non-corporate taxpayers | 5% | 3% |
+
+| April 1 to June 30, 2010 | 3% | 5% | 3% |
+
+| January 1 to March 31, 2010 | 3% | 5% | 3% |
+
+[Prescribed interest rates for previous years](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html) are available on the CRA Web site at [www.cra.gc.ca/interestrates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+## What's new in publications
+
+The following is a list of new or revised excise and GST/HST forms and publications.
+
+### GST/HST forms
+
+GST22 [Real Property - Election to Make Certain Sales Taxable](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst22.html) GST116 [Application, Renewal, or Revocation of the Authorization for a Qualifying Institution to Use Particular Input Tax Credit Allocation Methods](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst116.html) GST118 [Election or Revocation of an Election for a Financial Institution to use the Prescribed Percentage](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst118.html) GST469 [Direct Deposit Request (Non-Personalized)](https://www.canada.ca/E/pbg/gf/gst469/README.html) GST525 [Supplement to the New Residential Rental Property Rebate Application - Co-op and Multiple Units](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst525.html) RC1A Business Number (BN) - GST/HST Account Information RC1C Business Number (BN) - Import/Export Account Information RC59 Business Consent Form RC193 [Service-Related Complaints](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html) RC4521 [Application for a Financial Institution of a Prescribed Class to be Designated as a Qualifying Institution or Revocation of a Previously Granted Designation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4521.html) RC4522 [Election or Revocation for a Qualifying Institution to Use Particular Methods Specified in an Application under subsection 141.02(18)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4522.html) RC4530 [Election or Revocation of an Election to use a Production Proxy to Report the Recapture of Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4530.html) RC4531 [Election or Revocation of an Election to use the Estimation and Reconciliation Method to Report the Recapture of Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4531.html) RC4600 [Election or Revocation of an Election Under Subsection 217.2(1)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4600.html) RC4610 [Election and Revocation of an Election to Exclude Non-Resident Investment Holdings from the Calculation of the Provincial Attribution Percentages](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4610.html) RC4612 [Application to Not be Considered a Selected Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4612.html) RC4613 Election to Use the Scientific Research and Experimental Development Proxy to Report the Recapture of Input Tax Credits RC7524-BC GST524 British Columbia Rebate Schedule RC7524-ON [GST524 Ontario Rebate Schedule](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7524-on.html)
+
+### GST/HST info sheets
+
+GI-114 [Application of GST/HST to Indian Individuals](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-114.html) GI-115 [Application of GST/HST to Indian Bands and Band-empowered Entities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-115.html) GI-116 [Information for Businesses Located on a Reserve](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-116.html) GI-117 [Information for Off-reserve Businesses that Sell Goods or Provide Services to Indians, Indian Bands, or Band-empowered Entities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-117.html)
+
+### GST/HST guides and pamphlets
+
+RC2 The Business Number and Your Canada Revenue Agency Program Accounts RC188 [Keeping Records](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc188.html) RC4022 [General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html) RC4034 [GST/HST Public Service Bodies' Rebate - Includes Forms GST66 and RC7066 SCH](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html) RC4420 [Information on CRA - Service Complaints, Includes Form RC193, Service-Related Complaint](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4420.html)
+
+### GST/HST memoranda
+
+14-4 [Sale of a Business or Part of a Business](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-4.html)
+
+### GST/HST notices
+
+Notice260 Modified Procedures for Filing Form RC4604, GST/HST Reporting Entity, Consolidated Filing and Tax Adjustment Transfer Elections and Revocations for a Selected Listed Financial Institution Notice261 [Information Required for Tax Adjustment Notes Issued by an Employer to a Pension Entity and the Consequential Notices Issued by the Pension Entity](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice261.html) Notice262 Notice of Change, GST/HST Memorandum 28-3, Passenger Transportation Services
+
+### GST/HST technical information bulletins
+
+B-105 [Changes to the Definition of Financial Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-105.html)
+
+### Excise taxes and special levies notices
+
+ETSL64 Related document: Listing of Vehicles and Associated Tax Rates for 2011
+
+### Excise duty notices
+
+EDN26 New Excise Stamp Security Features EDN27 New Reporting Period for Licensees
+
+### Softwood lumber products export charge notices
+
+SWLN33 Surge Charge – Alberta Region (November 2010) SWLN34 Surge Charge – Alberta Region (December 2010) SWLN35 Additional Export charge for Ontario and Quebec Regions
+
+All GST/HST, Excise Duty, and Excise Taxes and Special Levies publications can be found on the CRA Web site at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html), at [www.cra.gc.ca/etsl](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies.html), and at [www.cra.gc.ca/exciseduty](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty.html).
+
+## Enquiries
+
+**For online access to account balances, transactions and more** for your GST/HST, softwood lumber products export charge, air travellers security charge as well as excise taxes and duty accounts, visit [www.cra.gc.ca/mybusinessaccount](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html).**For general information and to make enquiries regarding your account** (except for softwood lumber products export charge accounts), call Business Enquiries at 1-800-959-5525.**For enquiries regarding your softwood lumber products export charge account,** call 1-800-935-0313.**To make enquiries regarding the status of specific GST/HST domestic rebate claims,** call 1-800-959-5525.**For GST/HST technical enquiries**call GST/HST Rulings at 1-800-959-8287.**Forms and publications** To access forms and publications online visit [www.cra.gc.ca/orderforms](https://apps.cra-arc.gc.ca/ebci/cjcf/fpos-scfp/pub/rdr). To order forms and publications by telephone call 1-800-959-2221.**Are you a GST/HST registrant located in Quebec?** To make an enquiry or obtain information on the GST/HST, contact Revenu Québec at 1-800-567-4692 or visit their Web site at [www.revenuquebec.ca/en/](https://www.revenuquebec.ca/en/).
+
+The *Excise and* *GST/HST News* is published quarterly and highlights recent developments in the administration of the goods and services tax (GST) and harmonized sales tax (HST), First Nations goods and services tax (FNGST) and First Nations tax (FNT), softwood lumber products export charge, air travellers security charge (ATSC) as well as excise taxes and duties. If you would like to receive a link to each new edition of the*Excise and GST/HST News*as it is published, [subscribe](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/subscribe-a-canada-revenue-agency-electronic-mailing-list.html) to the [electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-excise-gst-hst-news.html).
+
+This publication is provided for information purposes only and does not replace the law, either enacted or proposed. Please note that any commentary in this newsletter regarding proposed measures should not be taken as a statement by the CRA that such measures will in fact be enacted into the law in their current form. Comments or suggestions about the newsletter should be sent to the Editor, *Excise and* *GST/HST News*, Legislative Policy and Regulatory Affairs Branch, CRA, Ottawa, ON K1A 0L5.

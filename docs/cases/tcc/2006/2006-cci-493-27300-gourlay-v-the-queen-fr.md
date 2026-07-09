@@ -1,0 +1,258 @@
+---
+title: "Gourlay v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27300/index.do"
+last_modified: "2006-09-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 493"
+citation2: ""
+neutral_citation: "2006 CCI 493"
+decision_date: "2006-09-26"
+language: "fr"
+item_id: "27300"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 907
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:43:17.578000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b0e0f41ba9d42389924f89bc4023269bb1796d656121d6e7584ae7166d5c18d2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gourlay v. The Queen
+
+- Citation: 2006 CCI 493
+- Decision date: 2006-09-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 907, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gourlay v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-26
+Référence neutre
+2006 CCI 493
+Numéro de dossier
+2004-4712(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4712(IT)I
+ENTRE :
+JASON GOURLAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 30 août 2006 à Kamloops (Colombie-Britannique)
+Devant : L'honorable juge L.M. Little
+Comparutions :
+Représentant de l'appelant :
+Charles Gourlay
+Avocat de l'intimée :
+Me David Everett
+____________________________________________________________________
+JUGEMENT
+Les appels à l'encontre des cotisations établies en application de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 2002 et 2003 sont rejetés, sans dépens, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 26e jour de septembre 2006.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 6e jour de décembre 2006.
+Hélène Tremblay, traductrice
+Référence : 2006CCI493
+Date : 20060926
+Dossier : 2004-4712(IT)I
+ENTRE :
+JASON GOURLAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] L'appelant habite à Kamloops, en Colombie-Britannique.
+[2] Le Dr David Worling, psychologue agréé, a rempli le formulaire 2201 (Certificat pour le crédit d'impôt pour personnes handicapées) le 10 juillet 2003, ou vers cette date (le « certificat » ). Dans le certificat, il a indiqué que l'appelant était atteint de [traduction] « dyslexie et de troubles d'apprentissage sévères » (pièce A-6).
+[3] Dans le certificat, le Dr Worling a répondu « NON » à la question : « Votre patient [soit l'appelant] est-il limité [...] dans sa capacité de percevoir, de réfléchir et de mémoriser? » .
+[4] Le Dr Worling a aussi répondu au questionnaire que lui a envoyé J. Nanson de l'Agence du revenu du Canada (l' « ARC » ) le 30 septembre 2003 (pièce R-2). Dans le questionnaire, le Dr Worling a répondu aux questions suivantes :
+[TRADUCTION]
+Fonctions mentales (adulte) :
+Votre patient peut-il effectuer les activités courantes de la vie quotidienne (p. ex. effectuer de simples corvées domestiques, s'occuper de son hygiène personnelle, faire des sorties dans la collectivité et des achats faciles) sans l'aide ou la supervision d'autrui?
+Oui √ Non
+Veuillez expliquer et indiquer si de l'aide ou de la supervision est nécessaire.
+_____________________________________________________
+_____________________________________________________
+Votre patient est-il à même de prendre des décisions et d'utiliser son jugement dans certaines situations de la vie quotidienne?
+Oui √ Non
+Veuillez indiquer et expliquer les préoccupations que vous avez concernant sa sécurité, le cas échéant.
+____________________________________________________
+____________________________________________________
+Votre patient a-t-il besoin de rappels fréquents ou doit-il recourir de façon excessive à des aide-mémoire, et ce, quotidiennement (p. ex. des directives étape par étape pour accomplir des activités courantes ou des directives écrites détaillées pour se rendre à des endroits connus)?
+Oui √ Non
+Veuillez donner des exemples.
+Il a de graves difficultés à lire. Il doit donc mémoriser les instructions.
+Votre patient peut-il vivre de façon autonome (SANS la supervision quotidienne de la famille ou de la collectivité)?
+Oui Non √
+À votre connaissance, les limitations décrites aux questions précédentes sont-elles présentes toujours / presque toujours?
+Oui √ Non
+Veuillez indiquer la ou les années ou périodes où tel fut le cas.
+___________________________________________________________
+___________________________________________________________
+Peut-on s'attendre à ce que la capacité de votre patient de percevoir, de réfléchir et de mémoriser s'améliore?
+Oui Non √
+Si oui, veuillez indiquer l'année au cours de laquelle ce changement aura lieu, selon vous. __________________________________________________________
+Veuillez faire tout commentaire susceptible de nous aider à clarifier l'incidence de l'état de votre patient sur sa capacité de percevoir, de réfléchir et de mémoriser.
+Malgré les traitements, le patient a une déficience sévère qui mine sa capacité de lire des documents qu'il voit pour la première fois ou des documents compliqués, comme des ordonnances, des notes, etc.
+Quelle est la nature de la déficience de votre patient?
+Dyslexie sévère.
+La déficience qui limite de façon marquée la capacité de votre patient d'accomplir les activités courantes de la vie quotidienne a-t-elle duré au moins 12 mois consécutifs ou est-il raisonnable de s'attendre à ce qu'elle dure au moins 12 mois consécutifs?
+Oui √ Non
+Indiquez la date approximative de l'apparition des limitations fonctionnelles marquées chez votre patient.
+Année scolaire - première année du primaire.
+Est-il raisonnable de s'attendre à ce que l'état de votre patient s'améliore suffisamment de sorte qu'il ne soit plus limité de façon marquée dans une activité courante de la vie quotidienne quelle qu'elle soit?
+Oui Non √
+Si oui, indiquez l'année au cours de laquelle la limitation marquée devrait cesser selon vous.
+Votre patient a-t-il atteint le niveau de langage correspondant à l'étape normale de son développement du langage?
+Oui Non √
+[5] Le 21 juillet 2003, ou vers cette date, l'appelant a envoyé le formulaire T2201 à l'ARC et a demandé l'établissement de nouvelles cotisations à l'égard des années d'imposition 2002 et 2003 de manière à ce qu'il puisse obtenir le crédit d'impôt pour personnes handicapées (le « CIPH » ).
+[6] Le ministre du Revenu national (le « ministre » ) a refusé d'accorder le CIPH à l'appelant pour les années d'imposition 2002 et 2003.
+B. QUESTION EN LITIGE
+[7] Il est question ici d'établir si l'appelant a le droit de demander le CIPH pour les années d'imposition 2002 et 2003.
+C. ANALYSE ET DÉCISION
+[8] Le paragraphe 118.3(1) est rédigé en ces termes :
+118.3(1) Un montant est déductible dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition, si les conditions suivantes sont réunies :
+a) le particulier a une déficience mentale ou physique grave et prolongée;
+a.1) les effets de la déficience sont tels que la capacité du particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l'absence de soins thérapeutiques qui, à la fois :
+(i) sont essentiels au maintien d'une fonction vitale du particulier,
+(ii) doivent être administrés au moins trois fois par semaine pendant une durée totale moyenne d'au moins 14 heures par semaine,
+(iii) selon ce à quoi il est raisonnable de s'attendre, n'ont pas d'effet bénéfique sur des personnes n'ayant pas une telle déficience;
+a.2) l'une des personnes suivantes atteste, sur le formulaire prescrit, qu'il s'agit d'une déficience mentale ou physique grave et prolongée dont les effets sont tels que la capacité du particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l'absence des soins thérapeutiques mentionnés à l'alinéa a.1) :
+(i) un médecin en titre,
+(i.1) s'il s'agit d'un trouble de la parole, un médecin en titre ou un orthophoniste,
+(ii) s'il s'agit d'une déficience visuelle, un médecin en titre ou un optométriste,
+(iii) s'il s'agit d'une déficience auditive, un médecin en titre ou un audiologiste,
+(iv) s'il s'agit d'une déficience quant à la capacité à marcher ou à s'alimenter et à s'habiller, un médecin en titre ou un ergothérapeute,
+(v) s'il s'agit d'une déficience sur le plan de la perception, de la réflexion et de la mémoire, un médecin en titre ou un psychologue;
+b) le particulier présente au ministre l'attestation visée à l'alinéa a.2) pour une année d'imposition;
+c) aucun montant représentant soit une rémunération versée à un préposé aux soins du particulier, soit des frais de séjour du particulier dans une maison de santé ou de repos, n'est inclus par le particulier ou par une autre personne dans le calcul d'une déduction en application de l'article 118.2 pour l'année (autrement que par application de l'alinéa 118.2(2)b.1)).
+Le montant déductible est déterminé selon la formule suivante :
+A X (B + C)
+où :
+A représente le taux de base pour l'année;
+B 6 000 $;
+C :
+a) si le particulier n'a pas atteint l'âge de 18 ans avant la fin de l'année, l'excédent éventuel de 3 500 $ sur l'excédent éventuel, sur 2 050 $, du total des montants représentant chacun un montant payé au cours de l'année pour le soin ou la surveillance du particulier et inclus dans le calcul de la déduction prévue aux articles 63, 64 ou 118.2 pour une année d'imposition,
+b) dans les autres cas, zéro.
+[9] Le paragraphe 118.4(1) est rédigé en ces termes :
+118.4(1) Pour l'application du paragraphe 6(16), des articles 118.2 et 118.3 et du présent paragraphe :
+a) une déficience est prolongée si elle dure au moins 12 mois d'affilée ou s'il est raisonnable de s'attendre à ce qu'elle dure au moins 12 mois d'affilée;
+b) la capacité d'un particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement si, même avec des soins thérapeutiques et l'aide des appareils et des médicaments indiqués, il est toujours ou presque toujours aveugle ou incapable d'accomplir une activité une activité courante de la vie quotidienne sans y consacrer un temps excessif;
+c) sont des activités courantes de la vie quotidienne pour un particulier :
+(i) la perception, la réflexion et la mémoire,
+(ii) le fait de s'alimenter et de s'habiller,
+(iii) le fait de parler de façon à se faire comprendre, dans un endroit calme, par une personne de sa connaissance,
+(iv) le fait d'entendre de façon à comprendre, dans un endroit calme, une personne de sa connaissance,
+(v) les fonctions d'évacuation intestinale ou vésicale,
+(vi) le fait de marcher;
+d) il est entendu qu'aucune autre activité, y compris le travail, les travaux ménagers et les activités sociales ou récréatives, n'est considérée comme une activité courante de la vie quotidienne.
+[10] Dans le présent cas, l'examen et l'analyse qu'il a effectués ont mené le ministre à conclure que l'appelant était en mesure d'accomplir les activités courantes de la vie quotidienne sans y consacrer un temps excessif.
+[11] Le paragraphe 118.4(1) de la Loi indique ce qu'est une activité courante de la vie quotidienne pour un particulier :
+(i) la perception, la réflexion et la mémoire;
+(ii) le fait de s'alimenter et de s'habiller;
+(iii) le fait de parler de façon à se faire comprendre, dans un endroit calme, par une personne de sa connaissance;
+(iv) le fait d'entendre de façon à comprendre, dans un endroit calme, une personne de sa connaissance;
+(v) les fonctions d'évacuation intestinale ou vésicale;
+(vi) le fait de marcher.
+[12] La demande de l'appelant concerne les activités courantes que sont « la perception, la réflexion et la mémoire » .
+[13] Dans le jugement Radage c. Canada, [1996] A.C.I. n ° 730, le juge Bowman (maintenant juge en chef) a indiqué ce qui suit :
+d) Les significations que j'ai tenté d'attribuer aux termes « la perception, la réflexion et la mémoire » correspondent davantage à des lignes directrices qu'à des définitions, soit :
+La perception : Réception et reconnaissance de données sensorielles sur le monde extérieur d'une manière raisonnablement conforme à l'expérience humaine commune.
+La pensée : Compréhension, sélection, analyse et organisation rationnelles de ce que la personne a perçu et formulation de conclusions y afférentes ayant une utilité pratique ou une valeur théorique.
+La mémoire : Activité mentale consistant à emmagasiner des données perçues et à les récupérer d'une manière qui permette à la personne d'accomplir raisonnablement l'activité qu'est la pensée.
+[14] Le Canadian Oxford Dictionary définit la « dyslexie » comme suit :
+[TRADUCTION]
+nom - terme générique désignant les troubles rencontrés dans l'apprentissage de la lecture, ou dans la reconnaissance des mots, des lettres ou d'autres symboles, et ce, en l'absence de déficience intellectuelle.
+[15] L'appelant détient un permis de conduire valide et sans restrictions délivré par la Province de la Colombie-Britannique (pièce R-1). Il est capable de conduire sa voiture pour se rendre à son travail et en revenir.
+[16] L'appelant est ouvrier dans une scierie à Savana, en Colombie-Britannique.
+[17] L'appelant partage la maison dont il est le propriétaire avec une autre personne.
+[18] Dans son témoignage, l'appelant a affirmé qu'il a joué au hockey au sein de plusieurs équipes, dont une équipe semi-professionnelle à Birmingham, en Angleterre.
+[19] Dans son témoignage, l'appelant a aussi affirmé qu'il était capable d'acheter lui-même ses provisions et ses articles personnels, mais qu'il avait de la difficulté à s'occuper de son compte de banque personnel sans l'aide d'un employé de la banque.
+[20] Dans l'arrêt Johnston c. Canada, [1998] A.C.F. n ° 169, le juge Létourneau de la Cour d'appel fédérale a indiqué ce qui suit :
+Objectif et historique des dispositions légales
+10. L'objectif des articles 118.3 et 118.4 ne vise pas à indemniser la personne atteinte d'une déficience mentale ou physique grave et prolongée, mais plutôt à l'aider à défrayer les coûts supplémentaires liés au fait de devoir vivre et travailler malgré une telle déficience. Comme le juge Bowman le dit dans [la décision] Radage v. R. [Voir Note 1 ci-dessous], à la p. 2528:
+Note 1 : [1996] 3 C.T.C. 2510.
+L'intention du législateur semble être d'accorder un modeste allégement fiscal à ceux et celles qui entrent dans une catégorie relativement restreinte de personnes limitées de façon marquée par une déficience mentale ou physique. L'intention n'est pas d'accorder le crédit à quiconque a une déficience ni de dresser un obstacle impossible à surmonter pour presque toutes les personnes handicapées. On reconnaît manifestement que certaines personnes ayant une déficience ont besoin d'un tel allégement fiscal, et l'intention est que cette disposition profite à de telles personnes.
+Le juge poursuit à la p. 2529 en faisant la remarque suivante, à laquelle je souscris:
+Pour donner effet à l'intention du législateur, qui est d'accorder à des personnes déficientes un certain allégement qui atténuera jusqu'à un certain point les difficultés accrues avec lesquelles leur déficience les oblige à composer, la disposition doit recevoir une interprétation humaine et compatissante.
+11. En effet, même si elles ne s'appliquent qu'aux personnes gravement limitées par une déficience, ces dispositions ne doivent pas recevoir une interprétation trop restrictive qui nuirait à l'intention du législateur, voire irait à l'encontre de celle-ci.
+[...]
+Le critère auquel le réclamant doit satisfaire
+16. Pour avoir droit au crédit d'impôt prévu à l'art. 118.3, le contribuable atteint d'une déficience physique grave et prolongée doit établir que sa capacité d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée.
+17. Il a déjà été défini que l'expression « limitée de façon marquée » renvoyait à l'incapacité d'une personne, en tout temps ou presque, même avec des soins thérapeutiques et l'aide des appareils et des médicaments indiqués, d'accomplir une activité courante de la vie quotidienne. En outre, on considère que la capacité d'une personne est limitée de façon marquée si cette dernière doit consacrer un temps excessif pour accomplir une telle activité.
+18. On n'a pas défini ce qui constitue un temps excessif pour accomplir les activités courantes de la vie quotidienne. À mon avis, l'expression « temps excessif » renvoie à un temps beaucoup plus long que celui que doivent normalement consacrer à ces activités des personnes en santé. Il implique une différence marquée d'avec ce que l'on considère normal.
+[21] À la suite de l'analyse des dispositions législatives applicables et de la jurisprudence pertinente, il est évident que le crédit d'impôt pour personnes handicapées peut être demandé par un particulier atteint d'une déficience intellectuelle ou physique grave et prolongée qu'un médecin qualifie de déficience intellectuelle ou physique grave et prolongée ayant pour effet de limiter de façon marquée la capacité du particulier d'accomplir des activités courantes de la vie quotidienne en l'absence de thérapie essentielle au maintien d'une fonction vitale.
+[22] Comme il est indiqué ci-dessus, le juge Létourneau a souligné dans l'arrêt Johnston c. Canada[1] que le contribuable qui demande le crédit d'impôt pour personnes handicapées en vertu de l'article 118.3 doit établir que sa « capacité d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée » (c'est moi qui souligne).
+[23] Compte tenu de la preuve dont je dispose, je conclus que l'appelant n'a pas droit au crédit d'impôt pour personnes handicapées parce que je ne suis pas convaincu que les problèmes qu'il éprouve en ce qui a trait à la perception, à la réflexion et à la mémoire sont assez graves pour être considérés comme limitant de façon marquée ses capacités.
+[24] L'appel est rejeté, sans dépens.
+[25] Avant de conclure, je tiens à préciser que je ressens une grande sympathie pour l'appelant. Il est un jeune homme remarquable. Toutefois, je suis chargé d'interpréter la loi. Je n'ai pas le pouvoir de modifier la Loi de l'impôt sur le revenu afin de permettre aux personnes atteintes de dyslexie d'obtenir le crédit d'impôt pour personnes handicapées.
+Signé à Vancouver (Colombie-Britannique), ce 26e jour de septembre 2006.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 7e jour de décembre 2006.
+Hélène Tremblay, traductrice
+RÉFÉRENCE :
+2006CCI493
+N ° DU DOSSIER :
+2004-4712(IT)I
+INTITULÉ :
+Jason Gourlay et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Kamloops (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 30 août 2006
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 26 septembre 2006
+COMPARUTIONS :
+Représentant de l'appelant :
+Charles Gourlay
+Avocat de l'intimée :
+Me David Everett
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Précité.

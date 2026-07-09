@@ -1,0 +1,191 @@
+---
+title: "Au Pied du Mont Sainte-Anne Condominiums Le Village Vacances Animées Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25630/index.do"
+last_modified: "2004-01-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 40"
+citation2: ""
+neutral_citation: "2004 CCI 40"
+decision_date: "2004-01-13"
+language: "fr"
+item_id: "25630"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2436
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:07:00.497000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0f9e9d027c304cdb8acadfdcf73dc7916bc6867d987d82491262417476cfe64f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Au Pied du Mont Sainte-Anne Condominiums Le Village Vacances Animées Inc. c. La Reine
+
+- Citation: 2004 CCI 40
+- Decision date: 2004-01-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2436, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Au Pied du Mont Sainte-Anne Condominiums Le Village Vacances Animées Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-13
+Référence neutre
+2004 CCI 40
+Numéro de dossier
+2001-1923(GST)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2001-1923(GST)G
+ENTRE :
+AU PIED DU MONT SAINTE-ANNE
+CONDOMINIUMS LE VILLAGE VACANCES ANIMÉES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 25 septembre 2003 à Québec (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelante :
+Me André Lareau
+Avocat de l'intimée :
+Me Michel Morel
+et Bernard Gaudreau (Stagiaire en droit)
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise dont l'avis est daté du 6 août 1999 et porte le numéro 9213435 et rejeté, avec dépens, selon les motifs du jugement ci‑joints.
+Signé à Edmundston, Nouveau Brunswick, ce 13e jour de janvier 2004.
+"François Angers"
+Juge Angers
+Référence : 2004CCI40
+Date : 20040113
+Dossier : 2001-1923(GST)G
+ENTRE :
+AU PIED DU MONT SAINTE-ANNE
+CONDOMINIUMS LE VILLAGE VACANCES ANIMÉES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge François Angers
+[1] L'appel en instance a été interjeté à l'encontre d'une cotisation établie en date du 6 août 1999 sous le régime de la partie IX de la Loi sur la taxe d'accise (la « Loi ») et portant le numéro 9213435. Le sous‑ministre du Revenu du Québec (« sous‑ministre »), au nom de l'Agence des douanes et du revenu du Canada (« ADRC »), réclame la somme de 24 148,86 $ pour la période du 1er novembre 1994 au 31 octobre 1996. Le sous‑ministre soutient que l'appelante a omis de percevoir et de remettre la taxe sur les produits et services (« TPS ») sur le paiement de 281 151,28 $ fait à l'appelante. En faisant son calcul, le sous‑ministre a tenu compte du fait que l'appelante avait droit à des crédits de taxe sur les intrants de 2 606,74 $. Toutefois, il a également tenu compte du fait qu'elle devait 2 977,48 $ au titre des intérêts et 4 097,54 $ au titre des pénalités. Les chiffres en question ne sont pas contestés et l'appelante a informé la Cour qu'elle retirait son motif d'appel à l'effet qu'une partie de la cotisation était prescrite.
+[2] Il faut noter également que l'appelante a payé la TPS sur les versements de 3 750 $ reçus en tant que frais de gestion et que le sous‑ministre n'a pas inclus dans le calcul de la cotisation en litige la TPS sur ces montants.
+[3] La seule question en litige est de savoir si, selon ce que l'intimée soutient, l'appelante agissait en tant que mandataire des syndicats de copropriétaires, de sorte qu'elle n'était pas tenue de percevoir et de remettre la TPS au sous‑ministre ou si elle a fourni des services taxables en sa qualité de gestionnaire pour ces syndicats.
+[4] L'appelante est une société par action qui exploitait en tout temps pertinent un centre de villégiature, y louait des unités en copropriété divise (les unités) et offrait divers services à ses occupants. Elle compte environ 80 actionnaires, dont certains sont aussi propriétaires d'unités faisant partie de ce centre. À l'époque, il y avait 176 unités pour fin de location. Cinq syndicats de copropriétaires regroupent et représentent l'ensemble des propriétaires des unités. Chaque syndicat représente les copropriétaires de chacune des phases de développement du projet. La plupart des unités ont été vendues pour fins d'investissement et étaient ainsi destinées à la location au même titre que celles de l'appelante. Environ 120 unités ont été confiées à l'appelante pour fin de location par les cinq syndicats qui portent le nom de Syndicat des copropriétaires de Place au Pied du Mont Sainte‑Anne Phase I à V, selon l'année de développement.
+[5] Pour assurer la location des unités, pour avoir une présence permanente sur place ainsi que pour profiter d'économies de coûts en négociant en groupe, chacun des syndicats a convenu, par un protocole d'entente, de confier à l'appelante certaines responsabilités visant la gestion des opérations courantes. L'appelante possédait déjà sur place un immeuble avec bureau administratif et réception, une piscine, une salle d'animation et l'équipement nécessaire au nettoyage de la literie. Un personnel était également sur place pour fournir ces services.
+[6] Le Protocole d'entente visant le Syndicat des copropriétaires de Place au Pied du Mont Phase III et l'appelante a été déposé en preuve à titre d'exemple. Un protocole semblable a été signé par les autres syndicats visant la période du 1er octobre 1995 au 30 septembre 1996. Le préambule prévoit, entre autres, que cette entente a comme but « de permettre la réalisation d'économies par la négociation de groupe et la gestion commune du site ». À cette fin, le Protocole désigne l'appelante « comme étant le gestionnaire de certaines activités courantes sous la responsabilité du Syndicat ».
+[7] Le Protocole prévoit notamment que :
+1) l'appelante doit négocier des contrats de déneigement (par. 1(a)), de location de bac et de transport (par. 10(a)) et d'assurance (par. 12(a));
+2) en plus d'embaucher la main d'œuvre générale requise pour la réalisation du Protocole (par. 18) l'appelante est aussi tenue d'embaucher un gardien de piscine (par. 9(a)), un gardien de sécurité de nuit (par. 11) et des animateurs (par. 15(b));
+3) le Syndicat est tenu de payer 3 750 $ par phase par année en tant que « frais de gestion »;
+4) des plaintes pouvaient être déposées auprès de l'appelante et du Syndicat (par. 32 à 34). Toutefois, lorsqu'une plainte ne concernait pas l'application du Protocole, le directeur la transmettait au Syndicat pour y faire suite (par. 35);
+5) toute augmentation des dépenses imprévues devait être prise en charge par le Syndicat. Pour sa part, l'appelante s'engageait à rendre les services communs au prix coûtant, ce qui ne lui permettait de réaliser aucun profit (par. 39);
+6) l'appelante devait informer le Syndicat de toute augmentation d'un poste budgétaire et obtenir son autorisation avant d'effectuer la dépense (par. 40).
+[8] À l'époque, Pierre Petitclerc cumulait les fonctions de Président d'un syndicat et de président du conseil d'administration de l'appelante. Selon lui, l'objectif du Protocole était de répondre aux préoccupations des propriétaires car, si les unités n'étaient pas louées et entretenues, l'investissement ne porterait pas fruit. Il s'agissait donc de créer une permanence.
+[9] Il a résumé le fonctionnement du Protocole en indiquant que la responsabilité de sa mise en exécution était confiée au directeur général de l'appelante, M. Louis Michaud. Ce dernier avait la responsabilité d'aller chercher des offres de services afin de les soumettre aux syndicats pour approbation. Il en était ainsi pour le déneigement, la surveillance des piscines, les assurances et la cueillette des ordures. L'appelante devait préparer un budget et le soumettre aux syndicats pour approbation. Une série de chèques post‑datés était préparée et remise à l'appelante. Ces paiements correspondaient au prix coûtant des services payés par l'appelante. Si les coûts étaient inférieurs à ce qui avait été anticipé dans le budget, l'appelante n'en profitait pas car un crédit était accordé au Syndicat pour l'année suivante. Si les coûts étaient plus élevés, le syndicat devait assumer l'augmentation après l'avoir approuvée.
+[10] Ce Protocole a été en vigueur durant la période en litige. L'appelante, en octobre 1996, n'a pas voulu le renouveler en raison de certaines insatisfactions. Elle a donc décidé de fournir un service de gestion à un taux convenu. L'appelante n'avait plus à rendre compte et elle assumait seule le risque visant le coût des services.
+[11] L'appelante et l'intimée ont déposé certains contrats en preuve, dont :
+1 — un contrat de déneigement avec la compagnie Ladufo Inc., où seul le nom de l'appelante est indiqué;
+2 — un contrat d'assurance avec la compagnie Les Assurances René Beauregard Inc. Le nom de l'assuré dans ce contrat est « Condominiums Au Pied du Mont Phase I-II-III-IV-V;
+3 — un contrat de location de contenants au nom du locataire Condominiums au Pied du Mont Inc. conclu avec Groupe Sani‑Gestion Inc.;
+4 — un contrat de transport par autobus (navette) conclu par l'appelante, Tours Côté de Beaupré Mont Sainte‑Anne Inc. et madame Thérèse Saillant;
+5 — un contrat conclu par Senco et Condos au Pied du Mont indiquant l'adresse de travail comme étant phases I‑II‑III‑IV‑V, 176 unités et le Centre d'administration;
+6 — un contrat conclu par l'appelante et Les Arpents Verts enr. spécifiant entre autres que les conditions sont identiques aux phases I à V.
+[12] Les états financiers de l'appelante, sous la rubrique « frais de condominium », indiquent des frais de navette de 24 500 $. Cette somme correspond exactement au prix convenu sans la TPS dans le contrat entre l'appelante et Tours Côté de Beaupré. Les états financiers incluent aussi des frais de salaires et de location d'équipement qui semblent avoir été engendrés par le Protocole d'entente.
+[13] Le directeur général Louis Michaud est venu confirmer le témoignage de M. Petitclerc. Il avait la responsabilité d'obtenir des appels d'offres, de les soumettre aux syndicats pour approbation et de les en aviser si approuvés. Il a relaté que, durant la période en litige, les frais ainsi encourus étaient payés par l'appelante, au nom des syndicats, à même les fonds obtenus d'avance. S'il était arrivé à l'appelante de manquer de fonds, le Syndicat lui en aurait avancés. La majorité des contrats étaient signés par l'appelante. M. Michaud était autorisé à signer pour l'appelante.
+[14] Éric Morency fait de l'entretien paysagiste. Il exploite une entreprise portant la raison sociale « Les Arpents Verts ». Il est un de ceux qui ont conclu un contrat avec l'appelante. Il a témoigné que, pour les cinq phases (syndicats), les conditions sont identiques. Il a déclaré avoir été contacté par Louis Michaud qui voulait obtenir de lui une soumission. M. Michaud lui a dit qu'il devait consulter les propriétaires des syndicats avant d'accepter la soumission. Ce n'est qu'au printemps suivant que son contrat a été approuvé. Malgré le fait qu'il avait conclu son contrat avec l'appelante, il a affirmé que, s'il causait un dommage quelconque, il devait régler cela avec les gestionnaires des syndicats et non avec Louis Michaud. Après 1996, il a dû signer des ententes avec chaque syndicat et l'appelante pour le Centre d'accueil mais que Louis Michaud était toujours le porte‑parole qui était payé par l'appelante.
+[15] Compte tenu de la question en litige, il est nécessaire d'analyser des éléments du contrat afin d'établir si l'appelante agissait à titre de mandataire des syndicats, de sorte qu'elle n'était pas tenue de percevoir la TPS. Cette question devient pertinente en raison de l'article 178 de la Loi qui était en vigueur pendant une partie de la période en litige. Cet article se lisait comme suit :
+178 Pour l'application de la présente partie, la somme que l'acquéreur d'un service rembourse au fournisseur pour les frais que celui‑ci a engagés lors de la fourniture, sauf dans la mesure où il engage ces frais à titre de mandataire de l'acquéreur, est réputée faire partie de la contrepartie de la fourniture.
+[16] Pour la période du 24 avril 1996 (date où l'article 178 a été abrogé) jusqu'au 31 octobre 1996, l'appelante peut toujours faire valoir qu'elle agissait à titre de mandataire pour s'opposer à la cotisation, car l'application des dispositions de la Loi en général donne le même résultat. Le juge Bowie, dans l'affaire Libra Transport (B.C.) Ltd. c. Canada, [2001] A.C.I. no 254 (Q.L.), est arrivé à la même conclusion au paragraphe 15 :
+. . . Avant son abrogation, l'article 178 de la Loi excluait expressément ces montants de la contrepartie des services. Cet article a été abrogé parce qu'il était redondant; le même résultat est atteint par l'effet d'un principe juridique.
+[17] Le Code civil du Québec, L.Q. 1991, c. 64 (C.c.Q.) définit à l'article 2130 le mandat de la façon suivante :
+Le mandat est le contrat par lequel une personne, le mandant, donne le pouvoir de la représenter dans l'accomplissement d'un acte juridique avec un tiers, à une autre personne, le mandataire qui, par le fait de son acceptation, s'oblige à l'exercer.
+[18] Selon l'ouvrage de P. Popovici, « La Couleur du mandat », Éditions Thémis, 1995, à la page 18, l'essence du mandat est le pouvoir de représentation et l'accomplissement d'un acte juridique.
+[19] L'ADRC a établi les éléments essentiels d'un mandat dans sa politique P‑182. La Cour d'appel fédérale y a fait référence dans l'arrêt Glengarry Bingo Association c. Canada, [1999] A.C.F. no 316 (Q.L.) où nous pouvons lire les propos suivants :
+... Le projet d'énoncé de politique T-182 susmentionné ne définit pas le sens du mot "mandat" employé à l'article 178. Cependant, bien qu'il n'ait pas force obligatoire, il constitue un instrument utile pour se prononcer sur l'existence d'une relation de mandataire.
+32 Le projet d'énoncé de politique T-182 énonce les trois éléments essentiels d'un mandat, soit le consentement du mandant et du mandataire, le pouvoir du mandataire de modifier la position juridique du mandant et le contrôle que le mandant exerce sur les actes du mandataire. Comme j'arrive à la conclusion que GBA n'avait pas le pouvoir de modifier la position juridique de ses membres, il me paraît inutile d'examiner les autres facteurs qui doivent exister, selon Revenu Canada, pour pouvoir conclure à l'existence d'une relation de mandataire.
+[20] Sur ce dernier élément essentiel, l'ADRC énonce dans la politique P‑182 que :
+Pour qu'il y ait mandat, il doit être évident que le mandant possède un certain pouvoir sur les actes du mandataire; le mandataire agit en tant que prolongement du mandant et est par conséquent soumis aux directives et au contrôle général de celui‑ci.
+[21] Il me paraît donc nécessaire d'établir la présence des éléments suivants afin de déterminer l'existence d'un mandat :
+1 — l'accomplissement d'un acte juridique;
+2 — le consentement du mandant et du mandataire;
+3 — le pouvoir du mandataire de modifier la position juridique du mandant;
+4 — le contrôle que le mandant exerce sur les actes du mandataire.
+[22] L'ADRC recommande aussi, dans sa politique P‑182, de prendre en considération les indices suivants afin de déterminer s'il y a mandat une fois que les éléments essentiels ont été établis :
+1 — la rémunération : le mandataire reçoit des honoraires fixes et non des honoraires calculés en fonction des bénéfices engendrés par l'opération;
+2 — la propriété du bien : de manière générale, le mandataire n'acquiert pas de participation dans le bien obtenu du tiers car la propriété passe directement du mandataire au mandant;
+3 — la responsabilité en matière de contrats et de paiements : le mandant est celui qui a la responsabilité en matière de contrats et de paiements;
+4 — la pratique comptable : le fait qu'une personne distingue de ses propres fonds les sommes reçues ou payées dans le cadre d'une relation avec une autre personne est un indice possible d'un mandat;
+5 — les efforts consacrés : un mandataire s'engage habituellement à faire de son mieux pour le compte de son mandant plutôt qu'à garantir un résultat précis pour le compte du mandant;
+6 — les risques assumés : ils sont habituellement assumés par le mandant;
+7 — la modification du bien acquis : seul le mandant a le droit de modifier le bien;
+8 — l'utilisation du bien ou du service par le mandataire : seul le mandant devrait normalement avoir le droit d'utiliser le bien.
+[23] Il incombe à l'appelante d'établir, par une prépondérance des probabilités, l'existence d'une relation de mandataire (voir l'arrêt Glengarry, précité). À cette fin, le Protocole d'entente devient l'outil primordial dans la détermination de la nature de la relation que l'appelante a établie avec les syndicats. Le préambule exprime l'intention des parties à cette entente de réaliser des économies par la négociation en groupe et par la gestion commune du centre de villégiature Au pied du Mont Sainte‑Anne. L'appelante y est désignée le gestionnaire de certaines activités courantes dont le Syndicat est responsable. Des frais de gestion sont payables à l'appelante en vertu du paragraphe 27 et les coûts associés aux engagements prévus dans l'entente sont payables à leur coût réel, selon le budget présenté.
+[24] Les avocats des parties ont chacun fait valoir les critères d'application et la façon de les appliquer à l'affaire en l'espèce. Le litige porte principalement sur le premier critère, soit de savoir si l'appelante avait le pouvoir de représenter les syndicats dans l'accomplissement d'un acte juridique avec un tiers. Selon la politique P‑182, cela correspond au pouvoir du mandataire (l'appelante) de modifier la position juridique du mandant (les syndicats). Dans l'arrêt Glengarry (précité), le juge Sexton a expliqué ce critère en disant que l'exemple le plus courant de la façon dont un mandataire peut modifier la position juridique de son mandant est la conclusion d'un contrat au nom du mandant.
+[25] En l'espèce, le protocole d'entente autorise l'appelante à négocier un contrat de déneigement, de location de bacs, de cueillette des ordures et d'assurance. Le directeur général de l'appelante devait obtenir des offres de services ou des soumissions et les faire approuver par les syndicats avant de conclure une entente ou un contrat. Chacun des contrats déposés en preuve fait référence aux cinq phases des syndicats, à l'exception du contrat de location de contenants, soit le document I‑3 et le contrat de transport par autobus, soit le document I‑4, où on ne fait aucune mention des syndicats ou des phases. Le fait de faire mention des phases où d'y référer n'est pas suffisant à mon avis pour conclure qu'il y a eu engagement contractuel de la part des syndicats envers ces tiers. Il en est de même en ce qui concerne la référence à la même adresse civique. La confirmation d'assurance apporte un peu plus de précisions sur le nom des assurés, mais la police n'a pas été déposée en preuve. Il me paraît donc impossible de conclure qu'en l'espèce, l'appelante ait pu modifier la position juridique des syndicats, puisqu'elle n'a conclu aucun contrat avec des tiers au nom des syndicats. Il s'agit plutôt, à mon avis, de contrats conclus et de soumissions, faites au bénéfice de l'appelante et des syndicats, dans l'espoir de réaliser des économies par la négociation en groupe et par la gestion commune du centre de villégiature, tels qu'ils se l'étaient proposés dans le préambule du protocole.
+[26] La toile de fond visant la création du Protocole est cette grande famille de propriétaires qui ont tous en commun la bonne marche du centre de villégiature. Étant donné que l'appelante est détenue exclusivement par des copropriétaires du centre de villégiature et qu'elle a en place toutes les infrastructures pour l'exploiter, il est normal que les syndicats aient recours à ses services. En plus des contrats que l'appelante se devait de négocier et de faire approuver, elle devait assurer les services décrits au paragraphe 26 du Protocole. Pour ce faire, l'appelante devait avoir du personnel, tel que des gardiens de piscine et de sécurité, de même que des responsables pour faire l'animation. La seule obligation contractuelle des syndicats était de remettre des chèques post‑datés à l'appelante aux trois mois. Cela, à mon avis, n'entraîne pas d'obligation juridique par les syndicats envers les tiers. La responsabilité en vertu des contrats et du personnel de même que l'obligation d'effectuer les paiements reposent entièrement sur l'appelante. Le directeur général a d'ailleurs confirmé dans son témoignage que c'est directement à lui que s'adressait un tiers s'il n'avait pas été payé. La seule obligation des syndicats est d'effectuer leur paiement à l'appelante selon le protocole. Même si un montant excédentaire revient aux syndicats ou qu'ils doivent combler le déficit, cela, à mon avis, n'est pas le risque qu'assume habituellement un mandant dans une relation de mandant et mandataire.
+[27] Le fait que les syndicats payent les dépenses au prix coûtant et que les paiements soient faits à l'appelante à cette fin n'engage pas à mon avis la responsabilité des syndicats envers les tiers. De plus, de tels paiements ne permettent pas nécessairement de conclure qu'il y a une relation de mandant et mandataire (Voir l'arrêt Glengarry, précité).
+[28] En l'espèce, le protocole prévoit que les syndicats doivent approuver le budget annuel et les contrats de sous‑traitance. À première vue, il semblerait que les syndicats exercent un contrôle sur l'appelante dans l'exercice de ses fonctions. À mon avis, il s'agit davantage d'un contrôle sur les dépenses à encourir dans la gestion du centre de villégiature que d'un contrôle qu'un mandant a sur son mandataire à conclure un acte juridique au nom du mandant. La preuve ne révèle pas de façon concluante que les syndicats consentaient à ce que l'appelante puisse les engager dans un acte juridique. L'approbation des budgets et des contrats de sous‑traitance visait davantage, comme je l'ai dit, un contrôle sur les dépenses qu'un contrôle sur de tels actes juridiques.
+[29] Nous retrouvons en l'espèce certains indices de l'existence d'un mandat. Par exemple, il n'y a pas de profit réalisable pour l'appelante puisque les syndicats payent le coût réel. Les frais de gestion ne sont pas calculés en fonction des bénéfices engendrés mais selon un taux fixe et la responsabilité de l'appelante dans l'exécution du Protocole est celle d'une personne prudente et diligente, conformément à l'article 2138 du C.c.Q. qui dispose que le mandataire est tenu d'exécuter le mandat qu'il a accepté avec prudence et diligence. Ces indices favorables ne sont toutefois pas suffisants pour conclure qu'une relation de mandant et mandataire a été créée en l'espèce car il faut avant tout satisfaire aux critères établis par la jurisprudence. Voir l'arrêt Glengarry, précité; S.K. Management Inc. v. Canada, [2003] T.C.J. No 131 (Q.L.); Evergreen Forestry Services Ltd. c. Canada, [1999] A.C.I. no 193 (Q.L.); et Shvartsman v. Canada, [2002] T.C.J. No 148 (Q.L.).
+[30] Pour les motifs susmentionnés, je suis d'avis qu'il n'existe pas de relation de mandant et mandataire entre les syndicats et l'appelante. L'appelante, en vertu du Protocole, n'était pas expressément autorisée à agir à titre de mandataire. La preuve ne révèle pas qu'il y ait eu de la part de l'appelante un comportement pouvant nous amener à conclure à l'existence d'une telle relation entre l'appelante et les syndicats, c'est‑à‑dire un pouvoir d'engager et de lier les syndicats dans un acte juridique. Il ne suffit pas simplement de négocier une entente pour créer une relation de mandant et mandataire. Il faut que l'entente engage et lie le mandant. Ce n'est pas le cas en l'espèce. Même la location des unités entraînait une relation contractuelle avec l'appelante. L'ensemble de la preuve se prête davantage à la création d'un mandat de gestion plutôt qu'un contrat de mandat. Pour ces motifs, l'appel est rejeté avec dépens.
+Signé à Edmundston, Nouveau Brunswick, ce 13e jour de janvier 2004.
+"François Angers"
+Juge Angers
+RÉFÉRENCE :
+2004CCI40
+No DU DOSSIER DE LA COUR :
+2001-1923(GST)G
+INTITULÉ DE LA CAUSE :
+Au Pied du Mont Sainte-Anne
+Condominiums Le Village Vacances Animées Inc. et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 25 septembre 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge François Angers
+DATE DU JUGEMENT :
+le 13 janvier 2004
+COMPARUTIONS :
+Avocat de l'appelante :
+Me André Lareau
+Avocat de l'intimée :
+Me Michel Morel
+et Bernard Gaudreau (Stagiaire en droit)
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me André Lareau
+Étude :
+Joli-Coeur, Lacasse, Geoffrion, Jetté, St-Pierre Avocats
+Sillery (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

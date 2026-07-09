@@ -1,0 +1,194 @@
+---
+title: "Beauchemin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22419/index.do"
+last_modified: "2007-02-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 105"
+citation2: ""
+neutral_citation: "2007 CCI 105"
+decision_date: "2007-02-19"
+language: "fr"
+item_id: "22419"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2276
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:57:05.263000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e41733dff5c0300d6c035631243e10d33587bd201ca0f9065b7542b34a591cc7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Beauchemin c. La Reine
+
+- Citation: 2007 CCI 105
+- Decision date: 2007-02-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2276, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beauchemin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-02-19
+Référence neutre
+2007 CCI 105
+Numéro de dossier
+2004-4382(GST)G
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-4382(GST)G
+ENTRE :
+DANIEL BEAUCHEMIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 16 octobre 2006, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Serge Fournier
+Avocate de l'intimée :
+Me Brigitte Landry
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise(avis numéro LO 03 0403 daté du 10 décembre 2003) à l'égard de la période comprise entre le 31 août 1999 et le 31 décembre 2001 est accueilli avec dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 19ième jour de février 2007.
+« Paul Bédard »
+Juge Bédard
+Référence : 2007CCI105
+Date : 20070219
+Dossier : 2004-4382(GST)G
+ENTRE :
+DANIEL BEAUCHEMIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s'agit d'un appel interjeté sous le régime de la procédure générale à l'égard d'une cotisation établie en vertu du paragraphe 323(l) de la Loi sur la taxe d'accise (la « Loi » ) par le ministre du Revenu national, par l'entremise du ministre du Revenu du Québec (le « ministre » ), à l'encontre de l'appelant
+[2] Pour établir la cotisation à l'égard de l'appelant, le ministre s'est fondé sur les conclusions et les hypothèses de faits suivantes, énumérées au paragraphe 25 de la Réponse à l'avis d'appel.
+a) La Compagnie est une personne morale constituée en vertu de la Loi sur les compagnies, Partie IA (L.R.Q. c. C-38); (admis)
+b) La Compagnie est inscrite aux fins de la Partie IX de la L.T.A. et son numéro d'inscription est le 141399683; (admis)
+c) Le 25 février 2002, le Ministre a cotisé la Compagnie pour un montant de 37 992,75 $ représentant la taxe nette non remise pour la période comprise entre le 1er février 1998 et le 31 octobre 2001, le tout incluant les intérêts et pénalités; (admis)
+d) Le 8 mai 2002, le Ministre a cotisé la Compagnie pour un montant de 597,18 $ représentant la taxe nette non remise pour la période du 1er décembre 2001 au 31 décembre 2001, le tout incluant les intérêts et pénalités; (admis)
+e) La Compagnie n'a logé aucun avis d'opposition à l'encontre des avis de cotisation du 25 février 2002 et du 8 mai 2002; (admis)
+f) En date du 19 novembre 2002, et ce conformément à l'article 316 de la partie IX de la L.T.A., le Ministre a produit à la Cour fédérale un certificat attestant des taxes, pénalités et intérêts dus et payables par la Compagnie au montant de 40 829,74 $; (admis)
+g) Le certificat du Ministre fut dûment enregistré à la Cour fédérale et la Compagnie fut en conséquence condamnée à payer au Ministre la somme de 40 829,74 $; (admis)
+h) En date du 27 janvier 2003, un bref de saisie-exécution fut délivré par la Cour fédérale afin de prélever sur les biens mobiliers de la Compagnie le montant de 40 829,74 $ avec intérêts, pénalités et dépens; (admis)
+i) Le bref d'exécution n'a pu être exécuté qu'en partie; de la sorte, il y a eu défaut d'exécution partielle à l'égard du montant mentionné au certificat; (admis)
+j) L'appelant était administrateur de fait de la Compagnie pendant les périodes où celle-ci était tenue de verser la taxe nette à l'intimée; (nié)
+k) Pendant les périodes où la Compagnie était tenue de verser la taxe nette à l'intimée, madame Suzanne Blanchard, conjointe de l'appelant, agissait à titre de présidente et unique administrateur de la Compagnie selon les registres corporatifs; (admis)
+l) En sa qualité d'administrateur de fait de la Compagnie, l'appelant n'a pas agi avec le degré de soin, de diligence et de compétence pour prévenir le manquement que ne l'aurait fait une personne raisonnablement prudente dans les mêmes circonstances; (nié)
+m) En particulier, l'appelant n'a pris aucune mesure concrète et positive pour prévenir les manquements de la Compagnie; (nié)
+n) La carte de signature bancaire de la Compagnie montre que l'appelant a été autorisé à signer seul les chèques et documents bancaires de la compagnie auprès de la Caisse populaire Desjardins; (nié)
+o) De fait, l'appelant a signé seul plusieurs chèques de la Compagnie et il a signé également des déclarations de taxe, des rapports de remise de retenues à la source, les sommaires de retenues à la source, ainsi qu'une déclaration de la Compagnie sur le formulaire CO-17 pour la période se terminant le 31 janvier 1999; (admis)
+p) Dans ses réponses à un questionnaire complété à la demande du Centre de perception fiscale du ministre du Revenu du Québec, l'appelant a indiqué qu'il recevait une rémunération de la Compagnie à titre de gérant et que ses principales fonctions consistaient à voir aux opérations quotidiennes; (admis)
+q) L'appelant s'est identifié comme étant le principal dirigeant de la compagnie et a signé une déclaration modificative de personne morale produite auprès de l'Inspecteur général des institutions financières le ou vers le 20 août 1998; (nié)
+r) L'appelant s'est également identifié comme étant le principal dirigeant de la Compagnie sur la déclaration annuelle de personne morale pour l'année 2001 produite auprès de l'Inspecteur général des institutions financières; (nié)
+s) La Compagnie a fait l'objet d'une vérification pour la période du 1er février 1998 au 31 octobre 2001 a l'égard des entreprises de vente au détail situées au 45, 49 et 51 de l'Église à Lacolle comprenant un dépanneur ayant un comptoir de boulangerie, un restaurant et un bar; (admis)
+t) L'opposant a été présent tout au long de la vérification, il s'est identifié comme étant la personne responsable des commerces, qu'il s'occupe de l'administration et de la comptabilité de l'entreprise et qu'il est le principal dirigeant; (nié)
+u) L'appelant se décrit lui-même comme administrateur de la Compagnie dans les projets de cotisation intitulés « état des rajustements de vérification TPS/TVH » et « état des rajustements de vérification TVQ » qu'il a signés en date du 17 décembre 2001; (nié)
+v) L'appelant s'est identifié comme étant le propriétaire de la Compagnie dans le cadre de contrats de location signés avec Richelieu Amusements Ltée; (admis)
+w) L'appelant s'est présenté à un enquêteur du ministère du Revenu du Québec comme étant un administrateur de la Compagnie; (nié)
+x) La Compagnie a cessé ses activités le 26 mars 2003, jour de la vente en justice des biens mobiliers de la Compagnie et l'appelant a agi à titre d'administrateur de fait de la Compagnie jusqu'à cette date; (nié)
+y) De plus, le dépanneur et le restaurant ont précédemment été en opération sous le nom de la compagnie 2629-8349 QUÉBEC INC, dont l'appelant était le seul administrateur et l'actionnaire majoritaire; (nié)
+z) La compagnie 2629-8349 QUÉBEC INC a fait cession de ses biens le 27 février 1996 et son seul administrateur, Daniel Beauchemin, soit l'appelant, a également fait cession de ses biens le 4 mars 1996; (admis)
+aa) La compagnie 9038-1765 QUÉBEC INC, a été constituée le 11 juillet 1996 et la conjointe de l'appelant, madame Suzanne Blanchard, a été nommée administrateur de la nouvelle compagnie; (admis)
+bb) La compagnie 9038-1765 QUÉBEC INC a repris les opérations du dépanneur auparavant exploité par la compagnie 2629-7349 QUÉBEC INC et l'appelant a continué à y travailler; (nié)
+cc) L'appelant n'a pas pris les mesures appropriées pour s'assurer de la mise en place d'un système efficace visant à assurer le versement par la Compagnie des sommes dues au Ministre en vertu de la L.T.A.; (nié)
+Question en litige
+[3] La seule question en litige est de savoir si l'appelant était un administrateur de fait de la compagnie 9038-1765 Québec Inc. (la « compagnie » ) pendant la période comprise entre le 31 août 1999 et le 31 décembre 2001 (la « période pertinente » ) puisque l'appelant a renoncé à invoquer le moyen de défense basé sur la diligence raisonnable.
+Témoignage de madame Suzanne Blanchard
+[4] La preuve et le témoignage de madame Suzanne Blanchard, la conjointe de l'appelant (la « conjointe » ), dont la crédibilité n'a pas à être mis en doute en l'espèce, a révélé que :
+i) la compagnie 2629-8349 Québec Inc. dont l'appelant était le seul administrateur et l'actionnaire majoritaire, avait exploité un dépanneur et un restaurant jusqu'au 27 février 1996, date à laquelle cette dernière avait fait cession de ses biens. Cette dernière a relaté également que l'appelant avait également fait cession de ses biens le 4 mars 1996;
+ii) dans le but de trouver un emploi à son conjoint, elle avait constitué la compagnie en juillet 1996;
+iii) la compagnie avait acheté du syndic à la faillite le fonds de commerce de la compagnie 2629-8349 Québec Inc dont l'inventaire et les équipements liés à l'exploitation du restaurant et du dépanneur;
+iv) la compagnie avait ainsi repris en juillet 1996, les opérations du restaurant et du dépanneur qui étaient antérieurement exploitées par la compagnie 2629-8349 Québec Inc. et l'appelant a continué à y travailler;
+v) elle gérait seule la compagnie. Elle a expliqué qu'elle exerçait tous les droits liés au contrôle des entrées et des sorties de fonds de la compagnie. L'appelant devait s'en remettre à ses instructions avant de payer les créanciers de la compagnie. Elle a relaté que l'appelant n'avait aucun contrôle quant aux remises des sommes dues et exigibles aux termes des lois fiscales. Tout au plus, l'appelant préparait les déclarations liées aux remises des sommes dues et exigibles en vertu des lois fiscales, les signait et les produisait non sans avoir obtenu son autorisation;
+vi) elle rencontrait régulièrement les vérificateurs externes de la compagnie dans le cadre de la préparation des bilans et des déclarations fiscales qui étaient approuvés et signés par elle;
+vii) elle négociait les ententes bancaires avec le banquier de la compagnie. Elle seule était autorisée à communiquer avec les banquiers de la compagnie;
+viii) En sa qualité d'administrateur de la compagnie, elle avait délégué à son conjoint, la gestion quotidienne des opérations de la compagnie. Ainsi, l'appelant gérait le personnel, l'approvisionnement des entrepôts, les relations avec les fournisseurs, les relations gouvernementales et la tenue des livres de la compagnie mais toujours sous sa supervision et ses directives;
+ix) Non seulement, elle supervisait la gestion quotidienne de son conjoint mais elle s'occupait également des dossiers importants de la compagnie. Elle a aussi relaté qu'elle avait entrepris les démarches en vue de l'obtention du permis pour la vente de boisson et le permis pour opérer des appareils de type vidéopoker.
+Témoignage de l'appelant
+[5] L'appelant a essentiellement repris le témoignage de sa conjointe en ce concerne le travail et les responsabilités que cette dernière lui avait confiés au sein de la compagnie. Il a expliqué qu'il n'avait aucun pouvoir décisionnel en matière de gestion de la compagnie et qu'il avait toujours été supervisé par sa conjointe. Il a aussi indiqué qu'il était présent lors de la vérification dont la compagnie avait fait l'objet. Il a aussi reconnu qu'il avait été le seul à discuter et à négocier avec le représentant du ministre dans le cadre de cette vérification.
+[6] L'appelant a aussi témoigné :
+i) avoir signé seul plusieurs chèques;
+ii) avoir signé des déclarations de taxe, des rapports de remise de retenues à la source, les sommaires de relevés des retenues à la source, ainsi qu'une déclaration de la compagnie sur le formulaire CO-17 pour la période se terminant le 31 janvier 1999; (pièces 1-6, 1-7)
+iii) s'être identifié comme le principal dirigeant de la compagnie sur une déclaration modificative de personne morale qu'il avait signée et produite auprès de l'Inspecteur général des institutions financières le ou vers le 20 août 1998 (pièce 1-2);
+iv) s'être également identifié comme étant le principal dirigeant de la compagnie sur la déclaration annuelle de personne morale pour l'année 2001 (pièce 1-3) qu'il avait signée et produite auprès de l'Inspecteur général des institutions financières;
+v) avoir co-signé par erreur avec sa conjointe la déclaration fiscale de la compagnie pour son exercice financier se terminant le 31 janvier 1999. (pièce 1-4);
+vi) avoir signé la demande d'inscription de la compagnie pour les fins de la Loi (pièce 1-10). Il convient de souligner que cette demande d'inscription était accompagnée d'une procuration signée par madame Blanchard à titre d'administrateur de la compagnie, autorisant l'appelant à signer ce formulaire et à faire toutes les démarches liées à l'obtention d'un numéro d'enregistrement pour les fins de la Loi.
+vii) d'avoir répondu, dans un questionnaire complété à la demande du Centre de perception fiscale du ministre du Revenu du Québec (pièce 1-8), qu'il recevait, à titre de gérant, une rémunération de la compagnie et que ses principales fonctions consistaient à surveiller les opérations quotidiennes; il convient de souligner que l'appelant a déclaré dans ce questionnaire n'avoir jamais signé, à titre de garant ou co-signataire, un emprunt au nom de la compagnie. Je note aussi; dans ce questionnaire que l'appelant a déclaré ne pas être un administrateur de la compagnie.
+viii) avoir accusé réception du projet de cotisation (pièce 1-9) à titre de représentant autorisé de la compagnie et non pas à titre d'administrateur comme le soutient l'intimée. Il a expliqué qu'il n'avait pas noté, lorsqu'il avait signé ce document que le représentant du ministre avait écrit de sa main dans la case intitulée « Titre » (qui ne se trouve pas à l'endroit où l'appelant a signé le document) le mot administrateur.
+ix) avoir signé quelques contrats de location d'équipements de jeux avec la Société Richelieu Amusements Ltée pour et au nom de la compagnie (pièce 1-5). Il convient de souligner que le formulaire de location utilisé par le locateur n'était pas adapté pour les cas où le locateur était une société. En effet, l'inscription « propriétaire » apparaissait sous la ligne où le locateur devait signer le contrat de location. De plus, dans deux des contrats de location produits sous la pièce 1-5, l'appelant a signé sur la ligne en question son nom sans pour autant indiquer qu'il agissait pour et au nom de la compagnie. Par ailleurs, dans les autres contrats de location ainsi produits en preuve, l'appelant a signé sur la ligne en question son nom en ajoutant toutefois qu'il agissait pour la compagnie.
+Témoignage de Serge Samson
+[7] Le témoignage de monsieur Serge Samson, le banquier de la compagnie pendant la période pertinente, a révélé essentiellement que madame Blanchard représentait la compagnie dans toutes les discussions, les rencontres et les négociations liées aux affaires bancaires de la compagnie. Monsieur Samson a clairement indiqué que l'appelant n'était aucunement responsable de la gestion des affaires bancaires de la compagnie.
+Témoignage de madame Danielle Rivest
+[8] Madame Danielle Rivest, l'agente de gestion financière du ministère du Revenu du Québec qui avait procédé à la vérification de la compagnie en ce qui concerne la taxe sur les produits et services pour la période pertinente, a témoigné qu'elle n'avait jamais vu ou rencontré madame Blanchard ou encore discuté avec cette dernière lors de la vérification, son seul interlocuteur ayant été l'appelant.
+Témoignage de monsieur Claude Paradis
+[9] Monsieur Claude Paradis, l'agent de recouvrement à l'emploi du ministère du Revenu du Québec, a témoigné qu'il s'était rendu en 2002 à la place d'affaires de la compagnie dans le but de percevoir la créance due par cette dernière, une créance liée à la taxe sur les produits et services non versée pour la période pertinente. Il a relaté qu'en l'absence de tout interlocuteur à la place d'affaires de la compagnie, il avait laissé sur les lieux une note écrite adressée à madame Blanchard lui demandant de la rappeler. Il a expliqué que c'était l'appelant qui l'avait rappelé et que ce dernier s'était alors identifié comme l'administrateur de la compagnie. Monsieur Paradis a ajouté qu'il avait rencontré l'appelant et le comptable de la compagnie à une occasion dans le cadre de son mandat de perception. Il a relaté que les parties n'avaient pu conclure une entente relative au paiement des taxes impayées lors de cette rencontre.
+Témoignage de madame Nathalie Phoenix
+[10] Il ressort du témoignage de madame Phoenix, l'agente de recouvrement à Revenu Québec qui était chargée de recouvrer la dette fiscale de la compagnie, que l'appelant avait rencontré madame Phoenix et avait discuté avec elle à plusieurs reprises en 2002 et 2003 pour tenter de régler la dette fiscale de la compagnie et de reprendre les biens de cette dernière qui allaient faire l'objet d'une vente en justice. Je tiens à souligner qu'en aucun temps madame Phoenix n'a laissé entendre lors de son témoignage que l'appelant s'était présenté comme étant un administrateur de la compagnie. Bien que madame Blanchard ait dit dès le départ à madame Phoenix que c'était l'appelant qui s'occupait de la société, il convient toutefois de souligner que c'était madame Blanchard, accompagnée du comptable de la compagnie, qui avait fait à madame Phoenix la première offre de règlement de la dette fiscale de la compagnie. Il ressort ainsi du témoignage de madame Phoenix que l'appelant lui avait remis, le 13 février 2003, une procuration l'autorisant à représenter la compagnie dans le cadre des discussions liées au recouvrement de la dette fiscale de la compagnie, procuration fournie par madame Blanchard.
+Analyse et conclusion
+[11] La notion d'administration de fait fût définitivement reconnue par la Cour d'appel fédérale dans l'arrêt Wheeliker[1].
+[12] Quels sont les éléments qui nous permettent de déterminer si une personne est un administrateur de fait d'une société? À mon avis, une personne sera considérée comme tel si :
+i) elle usurpe cette fonction en posant des actes normalement réclamés ou réservés aux administrateurs d'une société en vertu de la loi constitutive de la société concernée: par exemple participer aux réunions du conseil d'administration, signer des résolutions du conseil etc..
+ii) elle se présente à des tiers comme un administrateur de la société concernée.
+[13] Je pense qu'il faut être prudent à l'égard de l'application du concept de l'administrateur de fait. Je ne crois pas que ce concept englobe toutes les personnes qui exercent des pouvoirs dans une société. Par exemple, la signature par une personne de chèques tirés sur le compte bancaire d'une société ou de rapports adressés aux autorités gouvernementales et la négociation au nom de la compagnie d'un règlement avec les autorités fiscales ou d'un contrat d'acquisition ou de vente d'actifs ne peuvent être considérées, à mon avis, comme établissant une présomption que la personne qui accompli ces actes le fait en sa qualité d'administrateur de fait. Si tel était le cas, toute personne autorisée à accomplir de tels actes sous la supervision du conseil d'administration d'une société ou bien en vertu des pouvoirs délégués par ce conseil serait automatiquement un administrateur de fait vis-à-vis les tiers. Je suis d'avis qu'une personne qui pose de tels actes peut être considérée comme un administrateur de fait vis-à-vis les tiers uniquement si elle présente comme administrateur de la société ou elle laisse entendre clairement qu'elle accomplit ces actes à titre d'administrateur de la société. Cette position me semble conforme à la directive RCD 95-12 établie par le ministre sur le sujet bien qu'elle n'ait pas force de loi. Dans sa directive, le ministre s'exprimait ainsi :
+Il faut être très prudent avant d'établir une cotisation à l'égard d'un administrateur « de fait » . Le fait qu'une personne signe les chèques au nom de la compagnie n'est pas suffisant pour la considérer comme administrateur « de fait » . Règle générale, il ne faut pas établir de cotisation à l'égard d'un administrateur « de fait » si aux dates visées d'autres administrateurs étaient légalement nommés. Il ne faut envisager d'établir de cotisation à l'encontre d'un administrateur de fait que dans les cas où la personne se comporte comme un administrateur. Il doit y avoir une preuve écrite de ce comportement.
+[14] En l'espèce, l'appelant m'a convaincu qu'il n'était pas un administrateur de fait. L'appelant n'était qu'un gérant qui exerçait ses fonctions sous la direction et la surveillance de l'administratrice unique de la compagnie, en l'occurrence sa conjointe, madame Bertrand. Madame Bertrand m'a convaincu qu'elle assumait seule la gestion de la compagnie. Son témoignage, appuyé par celui de monsieur Samson, le banquier de la compagnie, relativement à son contrôle des finances de la compagnie, fût fort éloquent au sujet de son rôle au sein de cette dernière. Madame Bertrand m'a persuadé qu'elle exerçait tous les pouvoirs liés au contrôle des entrées et des sorties de fonds de la compagnie. Elle rencontrait le comptable externe dans le cadre de la préparation des bilans et des déclarations fiscales de la compagnie. Elle signait les bilans et les déclarations fiscales. Elle examinait les rapports gouvernementaux préparés par l'appelant avant que ce dernier ne les signe et ne les fasse parvenir aux autorités concernées. Elle avait même entrepris les démarches pour l'obtention d'un permis pour la vente d'alcool et pour l'exploitation d'appareils de type vidéopoker. Elle avait rencontré madame Phoenix avec le comptable de la compagnie. De plus, les procurations signées par madame Bertrand autorisant l'appelant à représenter la compagnie sont autant d'exemples éloquents démontrant qu'elle était l'administratrice unique.
+[15] Certes, l'appelant avait certains pouvoirs dans la compagnie. Cependant, lorsqu'il exerçait ces pouvoirs, il était assujetti aux directives et à la surveillance de sa conjointe ou il les exerçait dans les limites du pouvoir délégué par elle. C'est à ce titre que l'appelant a préparé et signé des rapports gouvernementaux et des chèques et a loué des biens meubles et négocié avec le fisc. Il n'a pas accompli ces actes en tant qu'administrateur de la compagnie. Il ne s'est pas présenté comme administrateur de la compagnie lorsqu'il transigeait avec des tiers.
+[16] L'intimée a tenté de démontrer que l'appelant s'était présenté à des tiers comme un administrateur de la compagnie. La preuve de l'intimée à cet égard repose sur des faits suivants qui sont, à mon avis, peu pertinents, isolés compte tenu de l'ensemble de la preuve concernant le comportement de l'appelant, ou peu concluants.
+i) la preuve a révélé que l'appelant avait représenté à une occasion à monsieur Claude Paradis qu'il était administrateur de la compagnie. Ce geste de l'appelant ne peut créer, à mon avis, une présomption de sa qualité d'administrateur de fait parce qu'il s'agit, à mon avis, d'un geste isolé qui plus est, a été posé en dehors de la période pertinente.
+ii) l'intimée a soutenu que la signature de l'appelant sur la pièce 1-9 créait une présomption de sa qualité d'administrateur de fait. Je suis d'avis que la signature sur ce document ne crée pas une telle présomption. L'explication de l'appelant à l'effet qu'il n'avait pas noté lors de la signature du document qu'il contenait une mention expresse à l'effet qu'il était administrateur de la société m'a convaincu.
+iii) enfin, l'intimée a soutenu que la signature de l'appelant sur deux contrats de location créait une présomption à l'effet qu'il était administrateur de fait. En d'autres termes, je ne peux conclure pour autant que l'appelant a représenté la société en prenant le titre d'administrateur. Ce formulaire n'avait pas été conçu pour les cas où la locateur était une compagnie et donc portait à confusion.
+[17] Pour ces motifs, l'appel est accueilli avec dépens.
+Signé à Ottawa, Canada, ce 19ième jour de février 2007.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2007CCI105
+N º DU DOSSIER DE LA COUR : 2004-4382(GST)G
+INTITULÉ DE LA CAUSE : DANIEL BEAUCHEMIN ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 16 octobre 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 19 février 2007
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Serge Fournier
+Avocate de l'intimée :
+Me Brigitte Landry
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Serge Fournier
+Étude : Brouillette Charpentier Fortin, s.e.n.c.
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Wheeliker c. Canada, [1999] A.C.F. no. 401.

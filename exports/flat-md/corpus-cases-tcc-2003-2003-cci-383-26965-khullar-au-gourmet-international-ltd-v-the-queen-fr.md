@@ -1,0 +1,208 @@
+---
+title: "Khullar Au Gourmet International Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26965/index.do"
+last_modified: "2003-06-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 383"
+citation2: ""
+neutral_citation: "2003 CCI 383"
+decision_date: "2003-06-03"
+language: "fr"
+item_id: "26965"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 575
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:07:26.508000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "79d699fd31354213b0c554115a8ecb14b02dfdf453413a83aa0c8bc1b69d2f63"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Khullar Au Gourmet International Ltd. v. The Queen
+
+- Citation: 2003 CCI 383
+- Decision date: 2003-06-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 575, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Khullar Au Gourmet International Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-03
+Référence neutre
+2003 CCI 383
+Numéro de dossier
+1999-1649(GST)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 1999-1649(GST)I
+ENTRE :
+KHULLAR AU GOURMET INTERNATIONAL LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Khullar Gourmet Foods Ltd. (1999-1650(GST)I) les 12 et 13 décembre 2002 à Montréal (Québec)
+Par : L'honorable juge C. H. McArthur
+Comparutions
+Avocat de l'appelante :
+Me Allan J. Gold
+Avocate de l'intimée :
+Me Martine Bergeron
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 27 septembre 1996 et porte le numéro 1P0016, est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation seulement dans la mesure de ce qui a été admis à l'audience par le ministre, soit que la somme de 44 546 $ correspondait à des prêts personnels accordés à l'appelante par des membres de sa famille. À tout autre égard, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 3e jour de juin 2003.
+J.C.C.I.
+Traduction certifiée conforme
+ce 22e jour de mars 2004.
+Sylvie Sabourin, traductrice
+Dossier : 1999-1650(GST)I
+ENTRE :
+KHULLAR GOURMET FOODS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Khullar Au Gourmet International Ltd. (1999-1649(GST)I)
+les 12 et 13 décembre 2002 à Montréal (Québec)
+Par : L'honorable juge C. H. McArthur
+Comparutions
+Avocat de l'appelante :
+Me Allan J. Gold
+Avocate de l'intimée :
+Me Martine Bergeron
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 27 septembre 1996 et porte le numéro 1P0015 est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation seulement dans la mesure de ce qui a été admis à l'audience par le ministre, soit que la somme de 94 500 $ correspondait à des prêts personnels accordés à l'appelante par des membres de sa famille. À tout autre égard, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 3e jour de juin 2003.
+J.C.C.I.
+Traduction certifiée conforme
+ce 22e jour de mars 2004.
+Sylvie Sabourin, traductrice
+Référence : 2003CCI383
+Date : 20030603
+Dossiers : 1999-1649(GST)I 1999-1650(GST)I
+ENTRE :
+KHULLAR AU GOURMET INTERNATIONAL LTD.,
+et KHULLAR GOURMET FOODS LTD.,
+appelantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Le ministre du Revenu national a établi la cotisation à l'égard des appelantes en vertu de la Loi sur la taxe d'accise car elles avaient omis de déclarer et de payer leur taxe sur les produits et services pendant la période allant du 1er juillet 1992 au 31 mars 1996. Les montants demandés par les appelantes au titre du crédit de taxe sur les intrants dans leurs déclarations de TPS étaient également en litige. Les appels ont été entendus sur preuve commune.
+[2] M. Khullar est l'exploitant et unique actionnaire des deux dépanneurs des appelantes se trouvant dans la Ville de Montréal et qu'il exploitait sous forme d'exploitation consolidée des deux sociétés, Khullar Au Gourmet International Ltd. ( « International » ) et Khullar Gourmet Foods Ltd. ( « Foods » )[1]. Les appelantes vendaient des fournitures taxables et des fournitures exonérées aux fins de la Loi. Une partie des revenus provenait de la conversion de devises étrangères en devises canadiennes. M. Khullar soutient que les appelantes versaient la TPS et la taxe de vente du Québec pendant toutes les périodes pertinentes.
+[3] Au printemps 1996, Yvette Lambert, une vérificatrice de l'Agence des douanes et du revenu du Canada (ADRC) a effectué une vérification des comptes des appelantes en ce qui concerne la TPS et la TVQ pour la période qui fait l'objet de l'appel. À ce moment-là, il a été demandé à M. Khullar de fournir des documents liés aux achats et aux ventes des appelantes, y compris leurs livres de comptes, relevés bancaires, reçus de caisse, etc. M. Khullar lui a donné un carnet qu'il utilisait pour conserver les traces de ces renseignements ainsi qu'un sac contenant 173 reçus allant de janvier à avril 1996. Les reçus étaient pêle-mêle dans le sac, et les renseignements contenus dans le carnet étaient, en grande partie, inintelligibles. M. Khullar a reconnu qu'il ne conservait ni ses factures ni les reçus de caisse.
+[4] En l'absence des renseignements nécessaires pour vérifier les ventes de l'appelante, la vérification a été fondée, en dernier recours, sur les dépôts bancaires effectués dans les comptes de société. La vérificatrice est arrivée à un total des ventes en additionnant le total des dépôts et en soustrayant les transferts aux trois comptes[2] qui étaient des dépôts provenant des marges de crédit des appelantes, certaines corrections et les produits retournés.
+[5] En raison du manque de documentation et d'autres preuves de ces prêts, la vérificatrice n'a pas accepté les explications de M. Khullar aux termes desquelles un certain nombre de dépôts étaient imputables à des prêts accordés par son frère et d'autres membres de sa famille. Elle a estimé que le total des ventes des appelantes s'élevait à 2 637 526 $ pour Foods et à 2 438 427 $ pour International. Le pourcentage de ventes imputables à des fournitures taxables a été estimé par la vérificatrice à 81,64 p. 100. Le ministre a alors calculé que les appelantes n'avaient pas versé, au titre de la TPS, une somme de 81 784 $ pour Foods et de 74 869 $ pour International. La deuxième partie de la vérification portait sur la détermination du montant des crédits de taxe sur les intrants des appelantes. Se fondant sur les factures existantes, la vérificatrice a accordé le montant supplémentaire de 2 548,26 $ pour Foods et n'a rien accordé pour International.
+[6] Le 20 décembre 1996, les appelantes ont déposé des Avis d'opposition aux cotisations. M. Khullar disposait du temps pour réfuter les cotisations établies par le ministre. Il soutient qu'en mai 1998, la plupart de ces documents ont été détruits lors d'une inondation des installations de la rue Sherbrooke. Il a ensuite déployé des efforts considérables pour obtenir des copies des factures auprès de ses fournisseurs, avec un succès limité. Les cotisations ont été ratifiées le 11 décembre 1998, et le ministre a établi des pénalités et des intérêts conformément aux articles 280 et 285 de la Loi. Les appelantes ont ensuite déposé des Avis d'appel. En juin 2001, les appelantes ont déposé d'autres reçus. Des crédits de taxe sur les intrants supplémentaires de 26 314 $ pour Foods et de 11 260 $ pour International ont été reconnus.
+[7] Les questions comprennent celles qui suivent.
+(i) Les appelantes ont-elles réfuté les cotisations de TPS établies par le ministre?
+(ii) Les appelantes ont-elles le droit de recevoir des crédits de taxe sur les intrants supplémentaires?
+(iii) Le ministre peut-il établir la dette de TPS des appelantes après l'écoulement de la période normale d'établissement de nouvelles cotisations pour la période de juillet et août 1992?
+(iv) Le ministre a-t-il établi les pénalités et les intérêts correctement conformément aux articles 280 et 285 de la Loi?
+[8] Je vais maintenant porter mon attention sur la première question. Le paragraphe 286(1) de la Loi impose l'obligation de tenir des registres suffisants pour permettre au ministre de déterminer les obligations, responsabilités et droits de la personne en vertu de la partie IX. Si les renseignements exigés ne sont pas adéquats ou disponibles, la Loi prévoit, au paragraphe 299(1), que le ministre n'est pas lié par les déclarations et peut établir sa propre cotisation.
+[9] Parce que les appelantes n'avaient pas tenu de registres, la vérificatrice, en dernier recours, a calculé la valeur nette modifiée des appelantes comme le documentent leurs opérations bancaires. Dans ces circonstances, cette approche était acceptable et nécessaire. La vérificatrice a conclu que les ventes totales des appelantes étaient de 2 637 526 $ pour Foods et de 2 438 427 $ pour International. Appliquant un pourcentage de 81,64 p. 100 dans les calculs de la vérificatrice[3], cela donne des dettes respectives de TPS de 81 784 $ et de 74 869 $ pour Foods et International. Cette méthode est principalement fondée sur l'hypothèse selon laquelle tous les montants déposés provenaient des ventes des appelantes. L'avocat des appelantes a vigoureusement contesté la méthode du ministre.
+[10] Dans son commentaire sur l'utilisation d'une méthode similaire en vertu du paragraphe 152(7) de la Loi de l'impôt sur le revenu qui correspond au paragraphe 299(1) de la Loi sur la taxe d'accise, le juge Bowman, dans la décision Ramey c. La Reine[4], a résumé les problèmes auxquels est confronté un contribuable lorsque la méthode de la valeur nette est appliquée :
+Estimer le revenu annuel d'un contribuable à partir de la valeur de son actif net est une méthode insatisfaisante et imprécise. C'est un instrument grossier que le ministre doit utiliser en dernier ressort. Une cotisation d'actif net repose sur une comparaison de l'actif net du contribuable, à savoir la valeur de l'actif moins le passif au début d'une année, avec son actif net à la fin de l'année. À la différence ainsi obtenue, on ajoute les dépenses qu'il a engagées pendant l'année. Le montant obtenu est réputé être le revenu du contribuable, sauf preuve contraire. Ces cotisations peuvent être inexactes dans une mesure indéterminée, mais elles sont valables jusqu'à preuve de leur inexactitude. Il est quasi impossible de les contester à la pièce. La seule façon vraiment efficace de les contester est de procéder à une reconstitution complète du revenu du contribuable pour l'année. Un contribuable dont les registres comptables et le mode de déclaration de revenus sont dans un tel fouillis que la cotisation d'actif net s'impose est souvent l'artisan de son propre malheur.
+Le manque de registres commerciaux adéquats est la raison pour laquelle le ministre s'est fondé sur cette méthode imprécise pour calculer la dette de TPS des appelantes. Comme le juge Bowman l'a déclaré, bien que la dette fiscale en résultant puisse être remise en question, elle est valable jusqu'à preuve de son inexactitude. Le ministre a le droit de remettre en cause la légitimité des chiffres avancés par le contribuable s'ils sont douteux. Le fardeau incombe au contribuable de montrer que les chiffres du ministre sont erronés.
+[11] En vertu du paragraphe 299(3) de la Loi, une cotisation est réputée valide à moins qu'elle ne soit annulée par voie d'opposition ou d'appel. Pour avoir gain de cause, l'appelante doit démontrer, selon la prépondérance des probabilités, que la cotisation est erronée[5]. Le juge Bonner de la Cour donne, dans la décision Fletcher c. La Reine[6], une bonne description du fardeau de la preuve incombant à un contribuable :
+Dans un appel d'une cotisation d'impôt sur le revenu, il appartient au contribuable d'établir, selon la prépondérance des probabilités, que la cotisation est trop élevée en regard du droit applicable et des faits pertinents. Il ne suffit pas que le contribuable démontre qu'il est concevable que la cotisation soit trop élevée. Il lui faut produire des preuves dignes de foi établissant qu'une évaluation appropriée et complète de sa valeur nette montre que son revenu est inférieur à celui que le ministre a déterminé. Lorsque le contribuable s'est mis dans une situation qui ne permet aucunement de mesurer son revenu de façon directe avec exactitude, il ne peut guère se plaindre, dans un appel portant sur une évaluation de sa valeur nette, des inexactitudes propres à cette méthode.
+Témoignage des appelantes
+[12] Les appelantes ont admis que leurs registres étaient inexistants ou mal tenus. M. Khullar a déployé de nombreux efforts pour recréer la situation financière respective de chaque appelante. Il a déposé comme preuve cinq grandes boîtes contenant quarante pièces, dont certaines étaient des pièces accessoires. Elles comprenaient (i) un grand nombre de factures de certains des plus gros fournisseurs des appelantes (les Brasseries Molson, Provigo, Messageries de Presse Benjamin, entre autres), (ii) des accords d'approvisionnement, (iii) un grand nombre de chèques payés, (iv) des documents bancaires (originaux et photocopies), (v) des photocopies d'écritures de journal probablement faites par M. Khullar, (vi) des listes manuscrites indiquant les prêts accordés aux appelantes et le nom des prêteurs ainsi que (vii) les baux des appelantes et les plans d'étage des magasins respectifs.
+[13] Certains articles comme les contrats de location et les plans d'étage des magasins n'étaient que d'une utilité très limitée. J'ajouterais à cette catégorie les lettres et les télécopies envoyées par les appelantes aux fournisseurs leur demandant des copies d'anciennes factures, les listes de chiffres inintelligibles déposées sans notes explicatives ainsi que les nombreuses photocopies de tampons bancaires sur des talons de bordereaux de dépôt par ailleurs vierges.
+[14] Les feuilles de calcul manuscrites et informatisées composées par M. Khullar contenant sa version des achats des appelantes étaient intéressantes. Malheureusement, même les éléments de preuve les plus pertinents déposés par M. Khullar étaient cousus d'erreurs qui non seulement discréditent ses preuves mais laissent planer un doute sur ses capacités en mathématiques. Ainsi, M. Khullar a renvoyé à des factures de Provigo, portant plusieurs exemples à l'attention de la Cour, espérant illustrer le fait que le pourcentage des ventes des appelantes imputable à des fournitures taxables était bien inférieur au 81,64 p. 100 calculé par le ministre. Cependant, la détermination des dettes de TPS devrait être calculée en multipliant le total des ventes taxables par sept pour cent, et non le total des achats taxables. La méthode choisie par M. Khullar illustrait mieux la dette de TPS de Provigo que celle des appelantes. Même si M. Khullar pouvait prouver que le chiffre de 81,64 p. 100 n'était pas représentatif du pourcentage imputable à des fournitures taxables sur les factures de Provigo, cela n'aurait d'effets que sur les montants que les appelantes recevraient au titre du crédit de taxe sur les intrants (CTI). Ironiquement, il pourrait en fait se porter tort en soutenant que ce pourcentage est inférieur puisque cela revient à soutenir que les appelantes devraient recevoir un montant inférieur au titre des CTI de la part du ministre.
+[15] En outre, M. Khullar a commis des erreurs mathématiques fondamentales lorsqu'il a omis de soustraire la TPS du montant total de la facture avant de déterminer le pourcentage imputable aux fournitures taxables. Il en résulte que son chiffre pour le montant total d'achats taxables est divisé par 107 p. 100 du prix d'achat total au lieu de 100 p. 100. Par conséquent, les pourcentages qui résultent des calculs de M. Khullar sont inférieurs d'environ 10 p. 100 à ce qu'ils devraient être (c.-à-d. lorsqu'il dit 50 p. 100, le montant réel est plus proche de 60 p. 100). Quoi qu'il en soit, ces erreurs mathématiques sont éclipsées par les erreurs conceptuelles commises par M. Khullar. Sa méthode d'examen des factures des fournisseurs des appelantes ne tient pas compte de la marge bénéficiaire de ces dernières. Ce facteur important a des répercussions sur les pourcentages respectifs de ventes totales imputables à des produits taxables pour chacune des appelantes. Rien n'indique que cette marge bénéficiaire brute était la même pour toutes les fournitures, qu'elles soient taxables ou non. Les seuls documents qui peuvent illustrer le véritable pourcentage de ventes imputable à des produits taxables seraient les reçus de caisse des appelantes. En l'absence de cette preuve, la méthode de l'analyse de la valeur nette a dû être utilisée.
+[16] Les observations des appelantes aux termes desquelles l'analyse de la valeur nette ne tient pas compte des prêts qui leur ont été accordés par diverses parties sont bien fondées. Il leur incombait de prouver que lesdits prêts existaient. Les seuls éléments de preuve étaient les feuilles de calcul incohérentes et manuscrites déposées comme pièce A-20. Elles ont été créées de mémoire par M. Khullar plusieurs années après les événements en question. Malgré le témoignage du frère de M. Khullar qui était vaguement au courant de certains prêts accordés aux appelantes par des membres de la famille Khullar, ces chiffres n'étaient corroborés en aucune manière. Plutôt généreux au cours de l'audition des appels, le ministre a reconnu, unilatéralement, que 94 500 $ et 44 546 $ représentaient des prêts accordés respectivement à Foods et à International. En ce qui concerne la dette de TPS, je conclus donc que la nouvelle cotisation établie par le ministre est correcte. En conclusion, l'appel, en ce qu'il porte sur la question de la dette de TPS, est accueilli seulement dans la mesure où lesdits prêts peuvent être déduits du calcul des ventes totales par le ministre.
+Crédits de taxe sur les intrants
+[17] Conformément au paragraphe 169(1) de la Loi, les inscrits aux fins de la TPS qui font des fournitures taxables ont le droit de recevoir des crédits de taxe sur les intrants pour la taxe payée sur les achats de biens ou de services destinés à être utilisés dans le cadre de leurs activités commerciales. Ces demandes sont calculées sur une base d'autoévaluation. L'alinéa 169(4)a) de la Loi exige des inscrits qu'ils obtiennent suffisamment de renseignements pour déterminer le montant de crédits de taxe sur les intrants pouvant être accordés avant de produire leur déclaration. L'article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH) de la Loi (le « Règlement » ) prévoit la preuve nécessaire alors que le concept de « pièce justificative » est défini à l'article 2 de la façon suivante :
+« pièce justificative » Document qui contient les renseignements exigés à l'article 3, notamment :
+a) une facture;
+b) un reçu;
+c) un bordereau de carte de crédit;
+d) une note de débit;
+e) un livre ou registre de comptabilité;
+f) une convention ou un contrat écrits;
+g) tout registre faisant partie d'un système de recherche documentaire informatisé ou électronique ou d'une banque de données;
+h) tout autre document signé ou délivré en bonne et due forme par un inscrit pour une fourniture qu'il a effectuée et à l'égard de laquelle il y a une taxe payée ou payable.
+[18] Le paragraphe 169(4) de la Loi et le Règlement sont clairs, et les tribunaux ont adopté la position selon laquelle un inscrit n'a pas le droit de recevoir les crédits de taxe sur les intrants demandés sans avoir produit les pièces justificatives exigées[7]. Dans les présents appels, le ministre soutient que les appelantes n'ont pas fourni assez d'éléments de preuve documentaire pour leur donner droit aux crédits de taxe sur les intrants demandés pendant la période faisant l'objet de l'appel. Contrairement à la détermination des dettes de TPS, pour déterminer le montant des crédits de taxe sur les intrants pouvant être accordés, le ministre ne tente pas d'attribuer un pourcentage représentant les fournitures taxables par rapport au total des achats effectués par chaque appelante respective. Il est assumé que le montant est inexistant jusqu'à ce que l'inscrit produise les documents décrits.
+[19] Au départ, International n'a montré aucun des documents exigés à la vérificatrice et cette dernière a conclu qu'il n'existait aucun crédit de taxe sur les intrants admissible. Plus tard, 11 260 $ ont été accordés après que M. Khullar a fourni un certain nombre de factures qui précisaient le montant de TPS payé sur des achats effectués par International. De même, le chiffre pour Foods est passé de 2 548 $ à 26 314 $. Les montants demandés et reçus par International et Foods avant la vérification étaient respectivement de 25 401 $ et de 29 600 $. Les appelantes soutenaient que ces montants devraient être augmentés. M. Khullar a présenté comme preuve de nombreuses feuilles de calcul, tant manuscrites qu'informatisées. Ces feuilles indiquent les achats effectués par chacune des appelantes au cours de la période faisant l'objet de l'appel. Comme c'était le cas pour la preuve liée à la détermination des dettes de TPS des appelantes, la preuve présentée par M. Khullar comportait plusieurs problèmes.
+[20] L'un des problèmes majeurs, qu'a examiné l'avocate de l'intimée lors du contre-interrogatoire, était la répartition arbitraire effectuée par M. Khullar entre les fournisseurs qui livraient aux appelantes des fournitures taxables et des fournitures exonérées (articles [traduction] « non taxables » pour reprendre l'expression de M. Khullar). Sa feuille de calcul comportait des colonnes distinctes pour les achats taxables et les achats non taxables. Il a réparti les achats des appelantes dans ces deux colonnes en fonction du genre de fourniture livrée par la société en question.
+[21] La difficulté naît des factures de fournisseurs d'articles taxables et non taxables comme Provigo[8]. Reconnaissant le chevauchement, M. Khullar a réparti les achats entre les deux colonnes. Dans certains cas, par exemple dans sa feuille de calcul pour les achats effectués par Foods entre octobre 1992 et septembre 1993, la moitié d'un achat apparaît dans la colonne intitulée « taxable » et l'autre moitié dans la colonne intitulée « non taxable » . Pour l'année d'imposition suivante de Foods, les montants se trouvant dans la colonne intitulée « taxable » étaient le double des montants se trouvant dans la colonne intitulée « non taxable » , indiquant un coefficient de 66 p. 100 par rapport à 33 p. 100. Pour leur année d'imposition suivante, ce coefficient était inversé, soit 33 p. 100 dans la colonne intitulée « taxable » et 66 p. 100 dans l'autre. Ce dernier coefficient a été appliqué à la majorité des feuilles de calcul présentées pour International.
+[22] Cette méthode n'a pas résisté à un examen méticuleux. En comparant les reçus fournis par M. Khullar avec les écritures sur ses feuilles de calcul, il apparaît que les montants imputables aux fournitures taxables variaient considérablement d'un achat à l'autre[9]. Je pense que M. Khullar a fait sa répartition arbitraire afin de se simplifier la tâche. Elle n'illustrait pas les véritables achats taxables et non taxables des appelantes.
+[23] En outre, les feuilles de calcul contenaient des erreurs de calcul les plus fondamentales. Ainsi, la feuille de calcul mensuelle pour les achats effectués par International en avril 1994 contient deux lignes de totaux dont ni l'une ni l'autre ne reflète les montants indiqués dans les colonnes intitulées « taxable » et « non taxable » . Tout aussi troublant est le fait que les totaux mensuels des achats effectués par Foods d'octobre 1992 à septembre 1993 et des achats effectués par International d'octobre 1993 à septembre 1994 ne s'additionnent pas pour arriver aux montants totaux annuels indiqués. Étant donné ces erreurs fondamentales, la crédibilité de M. Khullar peut être remise en question. J'accepte les nouvelles cotisations établies par le ministre sous réserve des rajustements subséquents susmentionnés. C'est le calcul le plus précis des deux.
+[24] Je me penche maintenant sur la question de l'application du délai de prescription pour les présents appels. En vertu du paragraphe 298(1) de la Loi, le ministre est normalement limité à l'établissement de la dette de TPS des inscrits pendant une période n'excédant pas quatre ans après le dernier en date du jour où la personne était tenue par l'article 238 de produire une déclaration pour la période et du jour de la production de la déclaration. Les appelantes soutiennent que la période faisant l'objet de l'appel va du 1er juillet 1992 au 31 décembre 1996 mais que les nouvelles cotisations portaient la date du 27 septembre 1996. Par conséquent, les deux mois de juillet et août 1992 se trouvaient déjà hors du délai de quatre ans. L'intimée affirme dans les Réponses aux avis d'appel que le ministre peut établir la dette de TPS d'un inscrit en vertu du paragraphe 298(4) à tout moment si la personne visée a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire. Cette disposition exige du ministre qu'il prouve qu'une présentation erronée des faits a été faite, et ce, par négligence, inattention ou omission volontaire.
+[25] En vertu de la Loi de l'impôt sur le revenu, il incombe au ministre de prouver, sur la base de la prépondérance des probabilités, que les appelantes ont fait une présentation erronée des faits, par négligence, inattention ou omission volontaire ou qu'elles ont commis une fraude lorsqu'elles ont produit leur déclaration de revenus[10].
+[26] Le premier élément que doit établir le ministre est qu'une présentation erronée des faits a été faite au nom des appelantes. L'expression « présentation erronée des faits » a été définie par le juge Cameron dans la décision M.N.R. v. Taylor[11] en ces termes :
+[traduction]
+J'ai conclu que les termes « présentation erronée des faits » tels qu'ils sont utilisés dans cet article, doivent être interprétés comme signifiant toute présentation des faits qui était erronée, au fond et en fait à la date pertinente, et que cela recouvre les présentations erronées des faits de bonne foi et celles qui sont frauduleuses.
+À la lumière de la preuve présentée lors de l'audience qui indiquait que les appelantes avaient commis de nombreuses erreurs dans leurs calculs et estimations, je n'hésite nullement à conclure qu'il s'agit de présentations erronées des faits. Pour rendre une décision à l'égard des reçus de caisse et des factures, les présentations erronées des faits des appelantes sont imputables à leur négligence et à leur inattention et, par conséquent, l'établissement de la nouvelle cotisation n'est soumis à aucun délai.
+[27] Pour établir les pénalités applicables aux appelantes, le ministre se fonde sur le paragraphe 280(1) de la Loi, qui prévoit ceci :
+280(1) Sous réserve du présent article et de l'article 281, la personne qui ne verse pas ou ne paie pas un montant au receveur général dans le délai prévu par la présente partie est tenue de payer la pénalité et les intérêts suivants, calculés sur ce montant pour la période commençant le lendemain de l'expiration du délai et se terminant le jour du versement ou du paiement :
+a) une pénalité de 6 % par année;
+b) des intérêts au taux réglementaire.
+Les pénalités imposées en vertu de ce paragraphe tombent dans la catégorie des infractions de responsabilité stricte et peuvent être remises en cause si le contribuable fait preuve de diligence raisonnable[12]. Comme il a été déclaré, les appelantes n'avaient pas fait « raisonnablement diligence » en produisant leur déclaration de TPS. Cela soulève la question de savoir si faire « raisonnablement diligence » et la défense de droit commun de « diligence raisonnable » sont synonymes ou s'il existe une hiérarchie dans les expressions. Dans les motifs du juge d'appel Robertson rendus dans l'affaire Consolidated, il a mis les deux concepts sur un pied d'égalité de la façon suivante :
+[...] la reconnaissance de l'existence implicite du moyen de défense de la diligence raisonnable à l'égard de l'article 280 fait passer à l'inscrit la charge de prouver qu'il a fait raisonnablement diligence pour verser le montant correct de TPS.
+[28] La négligence des appelantes découlait du fait que M. Khullar avait été incapable de conserver la documentation justifiant le montant de TPS qu'il payait et les crédits de taxe sur les intrants qu'il demandait. Il n'est ni inhabituel ni difficile de conserver les reçus de caisse et d'autres documents pertinents dans le cadre de l'exploitation d'une entreprise. C'est une pratique tout à fait raisonnable qui correspond aux principes commerciaux fondamentaux. Alors que les appelantes ont déployé maints efforts après la vérification, il était trop tard. Elles n'avaient pas fait preuve de « diligence raisonnable » pendant la période faisant l'objet de l'appel. Les pénalités établies en vertu de l'article 280 sont justifiées.
+[29] En ce qui concerne l'imposition d'intérêts conformément à l'alinéa 280(1)b) de la Loi, la Cour ne peut accorder aucun recours contre l'établissement de ces intérêts, et le seul recours disponible est celui qui découle de la décision du ministre d'exercer son pouvoir discrétionnaire en vertu du paragraphe 280(1)[13]. Les concessions faites par l'intimée après examen de la preuve déposée par les appelantes au cours de la période précédant les présents appels se répercuteront sur le montant des pénalités et des intérêts.
+[30] M. Khullar a dû faire de considérables efforts pour fournir la preuve concernant la situation financière réelle des appelantes en raison de sa négligence et de son inattention au départ. S'il avait simplement conservé ses factures et ses reçus de caisse et avait documenté de façon appropriée les prétendus prêts accordés aux appelantes, la vérificatrice aurait pu avoir une vue beaucoup plus claire de la situation. S'il avait fait tout cela, les oppositions de M. Khullar à l'égard des conclusions de la vérificatrice, sans parler des présents appels, n'auraient pas été nécessaires. Malheureusement, il est l'artisan de son propre malheur. Comme le juge Bonner l'a déclaré dans la décision Fletcher[14], comment peut-il maintenant se plaindre de possibles inexactitudes des calculs du ministre?
+[31] L'avocat des appelantes a longuement décrit l'établissement de la cotisation par le ministre comme une [traduction] « parodie de la justice » [15], renvoyant non seulement aux politiques mais également à la Charte canadienne des droits et libertés[16]. Il a souvent été soutenu que la justice et l'équité n'ont rien à voir avec le droit fiscal[17].
+[32] Enfin, il est utile de mentionner que les appelantes, tant dans leurs observations écrites qu'orales, ont mentionné que cette question aurait dû être réglée depuis longtemps. Je suis d'accord. Plus de six ans se sont écoulés depuis la première vérification et plus de dix depuis le début de la période en litige (juillet 1992). Cependant, si l'on examine les causes du retard, que ce soient des registres mal tenus, la destruction de documents, la santé de M. Khullar ou les boîtes entières de preuves arrivant le jour de l'audience, il ne fait aucun doute que les appelantes n'y sont pas totalement étrangères.
+[33] Mes conclusions correspondent aux décisions rendues dans des affaires comme Louie v. The Queen[18]et Entrepreneur Peintre J.L. Inc. c. La Reine[19] dans lesquelles il a été conclu que les contribuables n'avaient pas tenu de registres adéquats dans le cadre de l'exploitation de leur entreprise. L'avocat des appelantes a déclaré qu'il existait des CTI en souffrance qui n'avaient pas été demandés par les appelantes, y compris des CTI sur les loyers et les services publics payés pour les installations commerciales. Aucun détail n'a été fourni, et il n'existait aucune preuve qu'ils n'avaient pas été déjà demandés ou aucune preuve quant aux montants qui n'avaient pas été demandés. Les actes de procédure des appelantes ne faisaient aucunement état de cette question et, naturellement, l'intimée ne l'a pas abordée. Encore une fois, faute de détails et de documentation, aucune décision n'est rendue concernant les CTI.
+[34] Pour les motifs précités, les appels sont rejetés, sauf en ce qui concerne les montants admis par l'intimée au cours de l'audience.
+Signé à Ottawa, Canada, ce 3e jour de juin 2003.
+« C. H. McArthur »
+J.C.C.I.
+Traduction certifiée conforme
+ce 22e jour de mars 2004.
+Sylvie Sabourin, traductrice
+[1] International exploitait un magasin sur l'avenue Park et Foods exploitait un magasin sur la rue Sherbrooke, tous deux à Montréal.
+[2] On constatait un compte pour chacune des sociétés appelantes ainsi que le compte personnel de M. Khullar, qui était utilisé en partie, pour les deux dépanneurs.
+[3] C'est un pourcentage quelque peu arbitraire fondé sur la conception générale du vérificateur des produits exonérés de TPS se trouvant dans les magasins des appelantes et sur l'expérience de l'ADRC avec des dépanneurs similaires à Montréal et dans la région.
+[4] C.C.I., 91-547(IT)G, 20 avril 1993 (93 DTC 791).
+[5] La Cour canadienne de l'impôt a confirmé ce principe dans de nombreuses affaires de TPS comme Ming Financial Corporation c.La Reine, C.C.I., no 93-888(GST)I, 1er décembre 1993 (95 G.S.T.C. 2021). Ce principe a également été confirmé par la Cour d'appel fédérale dans l'arrêt Vacation Villas of Collingwood Inc. c. La Reine, C.A.F., no A-212-95, 27 février 1995 ([1996] G.S.T.C. 13) dans lequel le juge Stone a indiqué qu'il incombait à l'appelant de réfuter les hypothèses posées dans les observations du ministre.
+[6] [1994] A.C.I. no 837.
+[7] Dans l'arrêt Design Build Ltd. c. Canada, C.A.F., no A-933-96, 15 octobre 1997 ([1997] G.S.T.C. 96), la Cour d'appel fédérale a refusé de modifier une décision de la Cour canadienne de l'impôt qui avait refusé une demande de crédit de taxe sur les intrants au raison du manque de pièces justificatives. Cependant, deux décisions contraires ont récemment été rendues par la Cour canadienne de l'impôt portant sur la souplesse de l'exigence imposée par l'alinéa 169(4)a) de la Loi sur la taxe d'accise. Dans la décision Tremblay c. La Reine, [2001] A.C.I. no 99, la juge Lamarre a conclu que les exigences quant aux pièces justificatives imposées par l'alinéa 169(4)a) de la Loi étaient de simples instructions et non des obligations. Plus récemment, dans la décision Helsi Construction Management Inc. c. La Reine, C.C.I., no 97-266(GST)I, 14 mars 2001 (2001 GTC 396), le juge en chef adjoint Bowman a conclu que les exigences quant aux pièces justificatives pour les demandes de crédits de taxe sur les intrants sont obligatoires et non de simples instructions.
+[8] Épicerie en gros et au détail.
+[9] Les échantillons que j'ai choisis allaient d'environ 25 p. 100 à 85 p. 100.
+[10] Jet Metal Products Ltd. v. M.N.R., 79 DTC 624.
+[11] 61 DTC 1139 (C. de l'É.), à la p. 1141.
+[12] Voir la décision du juge Bowman dans l'affaire Pillar Oilfield Projects Ltd. c. La Reine, C.C.I., no 93-614(GST)I, 19 novembre 1993 ([1993] G.S.T.C. 49). La Cour d'appel fédérale a confirmé l'application de la défense de la diligence raisonnable dans l'affaire Procureur général du Canada c. Consolidated Canadian Contractor's Inc., [1999]1 C.F. 209 (98 G.S.T.C. 6303) (C.A.F.), [1998] G.S.T.C. 91 (C.A.F.).
+[13] Somnus Enterprises No. 1 Limited c. La Reine, C.C.I., no 94-1131(GST)I, 20 janvier 1995 ([1995] G.S.T.C. 4).
+[14] Précitée.
+[15] Transcription de l'instruction, 13 décembre 2002, page 61, ligne 17.
+[16] Charte canadienne des droits et libertés, édictée comme l'annexe B de la Loi de 1982 sur le Canada, 1982, ch. 11 (R.-U.).
+[17] Shewchuk c. La Reine, C.C.I., no 2000-1415 (IT)I, 28 juin 2000 ([2000] 3 C.T.C. 2738) et Feigenbaum c. La Reine (1999), C.C.I., no 98-2335(IT)I, 7 décembre 1999 ([2000] 2 C.T.C. 2720).
+[18] (2002) G.S.T.C. 177-58 (C.C.I.).
+[19] C.C.I., no 98-1132(GST)I, 7 mai 1999 (99 G.S.T.C. 3153).

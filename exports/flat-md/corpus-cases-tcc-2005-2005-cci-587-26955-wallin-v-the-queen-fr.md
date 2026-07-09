@@ -1,0 +1,112 @@
+---
+title: "Wallin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26955/index.do"
+last_modified: "2005-09-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 587"
+citation2: ""
+neutral_citation: "2005 CCI 587"
+decision_date: "2005-09-21"
+language: "fr"
+item_id: "26955"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 565
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:30:42.848000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "feb3fa33f1a1c9c9a38b503b070045dd15105fc76c84954275c790fafffa52c0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wallin v. The Queen
+
+- Citation: 2005 CCI 587
+- Decision date: 2005-09-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 565, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wallin v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-09-21
+Référence neutre
+2005 CCI 587
+Numéro de dossier
+2005-970(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI587
+Date : 20050921
+Dossier : 2005-970(IT)I
+ENTRE :
+BRIAN WALLIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(prononcés à l’audience à Kamloops (Colombie-Britannique)
+le 24 juin 2005)
+[Le juge Beaubier]
+[1] Le présent appel, interjeté par la voie de la procédure informelle, a été entendu à Kamloops, en Colombie-Britannique, le 23 juin 2005. L’appelant était le seul témoin.
+[2] Les détails de cette affaire figurent aux paragraphes 8 à 11 de la Réponse à l’avis d’appel et ont tous étés confirmés par les éléments de preuve. Les voici :
+[TRADUCTION]
+8. Le 18 novembre 2004, l’appelant a déposé un avis d’opposition concernant l’année d’imposition 2003. En réponse à cette opposition, le ministre a émis, le 7 janvier 2005, un avis de confirmation faisant valoir que la somme de 5 000 $, que l’appelant désire déduire de son revenu, ne constitue pas une « pension alimentaire » aux termes du paragraphe 56.1(4) de la Loi de l’impôt sur le revenu (« Loi »). Par conséquent, l’appelant n’est pas en droit de réclamer cette déduction en vertu de l’alinéa 60b) ou de l’article 60.1 de la Loi.
+9. Lors du calcul de la cotisation à l’égard de l’appelant correspondant à l’année d’imposition 2003 et lors de la confirmation de la dite cotisation, le ministre s’est fondé sur les mêmes hypothèses de fait suivantes :
+a) l’appelant et Shirley se sont mariés le 27 juillet 1974. Ils ont eu deux enfants à la suite de leur union, Geoffrey, né le 29 septembre 1978, et Andrea, née le 4 décembre 1979 (« enfants »);
+b) l’appelant et Shirley ont conclu une entente de séparation datée du 5 novembre 1998 (« entente »);
+c) l’entente prévoyait que l’appelant et Shirley exerceraient la tutelle conjointe des enfants, mais elle ne comprenait pas de clause prévoyant le versement d’une pension alimentaire par l’une ou l’autre des parties;
+d) sous le titre [TRADUCTION] « Autres modalités » figurant à l’entente, on peut lire ceci : [TRADUCTION] « 1. Versement relatif à l’indemnité – Le 31 août 2003, l’époux versera à l’épouse une somme totale de 10 000 $ provenant de l’indemnité d’environ 34 000 $ »;
+e) l’entente prévoyait également des clauses disposant le partage d’actions de la Compagnie des chemins de fer nationaux du Canada (le CN) et d’obligations d’épargne du Canada entre l’appelant et Shirley, à l’avenir;
+f) en 2003, l’appelant a reçu une indemnité de retraite du CN au montant de 34 564 $;
+g) le 31 octobre 2003 ou vers cette date, l’appelant a versé 29 564 $ à un régime enregistré d’épargne‑retraite (REER);
+h) en 2004, l’appelant a retiré une somme de 5 000 $ de son REER;
+i) l’appelant a versé à Shirley une somme de 5 000 $ en 2003 et une somme de 5 000 $ en 2004.
+B. QUESTION EN LITIGE
+10. Les questions en litige sont celles de savoir si, en ce qui concerne l’année d’imposition 2003 :
+(i) le montant de 34 564 $ a effectivement été ajouté au revenu de l’appelant;
+(ii) si l’appelant est en droit de réclamer une déduction de 5 000 $ (« montant ») à titre de pension alimentaire.
+C. DISPOSITIONS LÉGISLATIVES
+11. Il se fonde sur l’article 3, les paragraphes 56.1(4) et 60.1(4), ainsi que sur les alinéas 60b) et 56(1)a) de la Loi, dans sa version modifiée pour l’année d’imposition 2003.
+[3] Le versement des deux paiements de 5 000 $ a été fait avec l’accord verbal de Shirley Wallin.
+[4] En application des critères établis par l’arrêt McKinnon v. R., (C.A.F.) Carswell Taxation Cases, la Cour statue ce qui suit :
+1. Selon l’entente écrite, les parties étaient d’accord pour que le paiement forfaitaire convenu de 10 000 $ soit versé au moment où l’appelant recevrait l’indemnité de 34 564 $ de son employeur.
+2. Ce montant constituait une somme considérable pour l’appelant.
+3. Les parties n’ont pas prévu de dispositions concernant les intérêts.
+4. Puisqu’il s’agissait d’un paiement forfaitaire, les parties n’ont pas convenu d’avancement de l’échéance.
+5. Il s’agit d’un paiement de capital, d’après les modalités de l’entente signée, puisque les parties ont convenu, au paragraphe 8 radié de l’entente, qu’il n’y aurait pas lieu de versements de pension alimentaire.
+6. L’entente prévoit un paiement unique, étalé en deux versements, pour la commodité de l’appelant.
+7. L’obligation d’effectuer ce paiement aurait survécu au décès de l’appelant.
+8. L’appelant n’est pas chargé de l’obligation de payer une pension alimentaire.
+[5] Pour ces motifs, la somme de 5 000 $ en cause n’est pas déductible et l’appel est rejeté.
+Signé à Vancouver (Colombie-Britannique) ce 21e jour de septembre 2005.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 9e jour de janvier 2006.
+Ingrid Miranda, traductrice

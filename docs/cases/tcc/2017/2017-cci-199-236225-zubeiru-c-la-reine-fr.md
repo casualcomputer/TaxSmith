@@ -1,0 +1,203 @@
+---
+title: "Zubeiru c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/236225/index.do"
+last_modified: "2017-10-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 199"
+citation2: ""
+neutral_citation: "2017 CCI 199"
+decision_date: "2017-10-17"
+language: "fr"
+item_id: "236225"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2157
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:20:18.078000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9da506c115a78f286d481482cfd265dca66e4d0076919cff7a356a1b4f6dc004"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zubeiru c. La Reine
+
+- Citation: 2017 CCI 199
+- Decision date: 2017-10-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2157, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zubeiru c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-10-17
+Référence neutre
+2017 CCI 199
+Numéro de dossier
+2016-2580(IT)I
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016‑2580(IT)I
+ENTRE :
+ZUGU ZUBEIRU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 5 septembre 2017, à Toronto (Ontario)
+Devant : L’honorable juge suppléant Rommel G. Masse
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Hye Won (Caroline) Ahn
+JUGEMENT
+L’appel des nouvelles cotisations établies le 20 février 2009, en vertu de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2003, 2004 et 2005 est rejeté selon les motifs du jugement ci-joints.
+Signé à Kingston (Ontario), ce 17e jour d’octobre 2017.
+« Rommel G. Masse »
+Juge suppléant Masse
+Référence : 2017 CCI 199
+Date : 20171017
+Dossier : 2016‑2580(IT)I
+ENTRE :
+ZUGU ZUBEIRU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Juge suppléant Masse
+[1] L’appelant interjette appel contre les avis de nouvelle cotisation en date du 20 février 2009, établis en vertu de la Loi de l’impôt sur le revenu, L.R.C., 1985, ch. 1 (5e Supp.), dans sa version modifiée (la « Loi »), selon lesquels le ministre du Revenu national (le « ministre ») a refusé des dons de bienfaisance à l’égard des années d’imposition 2003, 2004, 2005 et 2006 de l’appelant.
+Contexte factuel
+[2] L’appelant réside actuellement dans la ville de Brampton, en Ontario. Il travaille à Cadbury Chocolates. Quelques années auparavant, il a rencontré un particulier qui s’appelle William « Billy » Ankomah (« M. Ankomah ») qui travaillait également à Cadbury. M. Ankomah travaillait également à titre de préparateur de déclarations de revenus et avait préparé les déclarations de revenus de l’appelant pour plusieurs années, y compris celles pour les années d’imposition en litige. M. Ankomah produisait toujours les déclarations de revenus de l’appelant par voie électronique.
+[3] Dans le calcul de l’impôt à payer pour les années d’imposition 2003, 2004, 2005 et 2006, l’appelant a déduit des crédits d’impôt non remboursables fédéraux pour dons de bienfaisance concernant des dons de bienfaisance qu’il aurait effectués. Voici les dons de bienfaisance déduits :
+2003
+2004
+2005
+2006
+Whit‑Tee Youth Shelter
+Canadian Foundation for Child Development
+Organismes de bienfaisance non déterminés
+Organismes de bienfaisance non déterminés
+5 200 $
+7 586 $
+8 500 $
+3 707 $
+[4] La cotisation initiale établie à l’égard de l’appelant lui avait accordé les crédits d’impôt non remboursables fédéraux, tels qu’ils avaient été déduits. De nouvelles cotisations ont été établies à l’égard de ces années d’imposition au moyen d’avis de nouvelle cotisation en date du 20 février 2009. En raison de ces nouvelles cotisations, le ministre a refusé tous les dons de bienfaisance que l’appelant aurait faits au cours de chacune de ces années d’imposition.
+[5] Le 1er mai 2009, l’appelant a signifié un avis d’opposition aux nouvelles cotisations établies à l’égard de ces années. Le ministre a confirmé les nouvelles cotisations et lui a envoyé un avis de confirmation en date du 2 mai 2016. D’où l’appel devant la Cour.
+[6] Dans son témoignage, l’appelant a indiqué que son préparateur de déclarations de revenus, Billy Ankomah, se présentait à sa maison et préparait ses déclarations de revenus. L’appelant est d’origine africaine et il a indiqué qu’il souhaitait améliorer la vie des gens en Afrique. M. Ankomah faisait la promotion de certains organismes de bienfaisance qui apparemment étaient associés à son Église et il a accepté des dons de bienfaisance de biens et d’espèces de l’appelant au nom de ces organismes de bienfaisance. L’appelant n’avait aucun renseignement sur les organismes de bienfaisance dont M. Ankomah faisait la promotion. Il ne sait pas ce que ces organismes de bienfaisance faisaient ni où ils se situaient. Il n’a jamais communiqué avec les organismes de bienfaisance. L’appelant a déclaré qu’il n’avait aucun renseignement sur Whit‑Tee Youth Shelter, l’organisme de bienfaisance auquel il aurait offert un soutien s’élevant à 5 200 $ sous forme de biens et d’espèces en 2003. Il a également affirmé qu’il n’avait aucun renseignement sur la Canadian Foundation for Child Development, l’organisme de bienfaisance auquel il a donné des biens et de l’argent d’une valeur de 7 586 $ en 2004. Pour les années 2005 et 2006, l’appelant n’était pas en mesure de nous dire à quels organismes de bienfaisance il a offert un soutien; uniquement que tout avait été donné à l’église de M. Ankomah.
+[7] L’appelant a indiqué qu’il avait donné principalement des biens aux organismes de bienfaisance, mais qu’il avait également fait des dons en espèces. Ces dons avaient tous été donnés directement à M. Ankomah et non aux organismes de bienfaisance eux-mêmes. Il ne se souvenait pas réellement pas des biens qu’il avait donnés à M. Ankomah. Il déclare qu’il avait fait plus de dons de biens que de dons en espèces, mais il n’était pas en mesure de dire combien étaient en espèces et combien étaient en biens. L’appelant ne pouvait pas non plus donner des renseignements sur les biens donnés, autre que de vieux meubles meublants, un véhicule, de vieux ordinateurs et divers autres articles. L’appelant n’a pas demandé une évaluation des biens. Il ne pouvait produire aucun rapport d’évaluation concernant les biens qu’il aurait donnés aux organismes de bienfaisance. Selon l’appelant, M. Ankomah s’occupait de l’évaluation des biens. Il ne pouvait produire aucun reçu pour toutes les années d’imposition en litige. Il a déclaré qu’il avait demandé à M. Ankomah de lui donner des reçus, mais que celui‑ci ne lui en avait donné que deux ou trois. Le seul reçu que l’appelant pouvait produire était un reçu pour l’année d’imposition 2002 (pièce A‑1) affichant un montant de 8 640 $ délivré par la Canadian Foundation for Child Development. Il s’agit d’un montant important. L’année d’imposition 2002 n’est pas en litige et, par conséquent, ce reçu n’est d’aucune utilité pour l’appelant. L’appelant a supposé que ce don aurait pu être reporté prospectivement à l’année d’imposition 2003, mais ce n’est tout simplement pas le cas.
+[8] L’appelant déclare également qu’il achetait des biens en ligne sur Kijiji et qu’il donnait ensuite ces biens aux organismes de bienfaisance de M. Ankomah. Cela n’a absolument aucun sens. Pourquoi acheter des biens pour les donner lorsqu’il est simplement plus efficace de donner de l’argent?
+[9] L’appelant reconnaît qu’il n’a jamais examiné les déclarations de revenus avant que M. Ankomah ne les produise en son nom par voie électronique. L’appelant déclare qu’il a toujours fait confiance à M. Ankomah et qu’il n’a jamais songé à la possibilité de faire quelque chose de mal puisqu’il était un homme de Dieu et qu’il allait toujours à l’église. Il convient de noter que l’appelant n’allait pas à la même église que M. Ankomah, puisqu’il s’agissait de deux religions différentes.
+[10] Il a affirmé que, lorsqu’il a commencé à éprouver des difficultés avec l’Agence du revenu du Canada (l’« ARC »), il a rencontré M. Ankomah en 2008 ou en 2009 et il lui avait demandé de lui donner les reçus afin de prouver qu’il avait fait les dons de bienfaisance remis en question. Les reçus n’étaient pas disponibles. Au fil du temps, M. Ankomah a simplement disparu de la vie de l’appelant et l’appelant ne l’a jamais revu.
+[11] Lucy Amatuzio travaille à l’ARC depuis les 32 dernières années; pendant 12 de ces années, elle occupait le poste d’agente des appels et depuis les cinq dernières années elle est coordonnatrice de projets.
+[12] Mme Amatuzio a examiné tous les documents électroniques qui figuraient au dossier de l’ARC concernant les années d’imposition 2003 à 2006 de l’appelant. Elle a produit auprès de la Cour des copies papier des documents électroniques connus comme les imprimés informatiques de l’« option C » pour chacune de ces années. Ces documents contiennent des renseignements sur les revenus et les déductions déclarés dans la déclaration de revenus des particuliers de l’appelant pour une année donnée. Les renseignements qui y figurent font l’objet d’une référence croisée à la ligne numérotée correspondante de la déclaration de revenus des particuliers.
+[13] L’option C pour 2003 (la « pièce R‑1 ») indique qu’en 2003, l’appelant a gagné un revenu de 16 260 $, selon son T4, de 10 731 $ provenant de l’assurance‑emploi et de 417 $ au titre de revenu de régime enregistré d’épargne‑retraite (le « REER ») pour un revenu total de 27 408 $ (ligne 150). Il a déduit des dons de bienfaisance de 5 200 $ (ligne 340). Il s’agit d’un montant important qui correspond à 19 % de son revenu brut. Le code de préparateur de déclarations de revenus était C2934 qui était attribué à l’entreprise Guaranteed Income Tax Services exploitée par Sandra Ankomah. Ce préparateur de déclarations de revenus était affilié à Billy Ankomah.
+[14] L’option C pour 2004 (la « pièce R‑3 ») indique qu’en 2004, l’appelant a gagné un revenu de 21 853 $, selon son T4, de 8 999 $ provenant de l’assurance‑emploi et de 417 $ au titre de REER pour un revenu total de 31 269 $ (ligne 150). Il a déduit des dons de bienfaisance de 7 586 $ (ligne 340). Encore, il s’agit d’un montant important qui correspond à 24,25 % de son revenu brut. Le code de préparateur de déclaration de revenus était E2614 qui est attribué à l’entreprise Boulos Tax Services exploitée par Paul Soueidan, un associé de Billy Ankomah.
+[15] L’option C pour 2005 (la « pièce R‑5 ») indique qu’en 2005, l’appelant a gagné un revenu de 30 929 $, selon son T4, de 5 757 $ provenant de l’assurance‑emploi et de 417 $ au titre de REER pour un revenu total de 37 103 $ (ligne 150). Il a déduit des dons de bienfaisance de 8 500 $ (ligne 340) ou 23 % de son revenu brut. Le code de préparateur de déclarations de revenus était E7739 qui était attribué à l’entreprise JW Finances exploitée par Jezrael Fernandez, un autre associé de Billy Ankomah.
+[16] L’option C pour 2006 (la « pièce R‑6 ») indique qu’en 2006, l’appelant a gagné un revenu de 30 647 $, selon son T4, de 6 608 $ provenant de l’assurance‑emploi et de 417 $ au titre de REER pour un revenu total de 37 672 $ (ligne 150). Il a déduit des dons de bienfaisance de 3 707 $ (ligne 340) ou 10 % de son revenu brut. Le code du préparateur de déclarations de revenus était F3427 qui est attribué à l’entreprise Osbon Tax Services exploitée par Jeffrey Osei Bonsu que l’on croit également être un associé de Billy Ankomah.
+[17] À première vue, le montant déduit au titre de dons de bienfaisance constituait une proportion importante du revenu brut de l’appelant pour toutes ces années, variant du pourcentage le plus bas de 10 % en 2006 au pourcentage le plus élevé de 24,25 % en 2004. J’estime qu’il s’agit de pourcentages très élevés pour une personne qui est une personne à faible revenu et qui, pendant une certaine période au cours de chaque année, était sans emploi et touchait des prestations d’assurance‑emploi.
+[18] Mme Amatuzio a indiqué qu’en mars 2007, la Gendarmerie royale du Canada (la « GRC ») et l’ARC enquêtaient sur un groupe de préparateurs de déclarations de revenus qui fraudait l’ARC en produisant des demandes de dons de bienfaisance frauduleuses et en déduisant des crédits d’impôt non remboursables au nom de leurs clients alors qu’en fait, aucun don de bienfaisance n’avait été fait et aucun organisme de bienfaisance n’avait reçu les dons de bienfaisance. Billy Ankomah était parmi ces préparateurs de déclarations de revenus. Mme Amatuzio a déclaré que les clients de M. Ankomah lui versaient 10 % des dons de bienfaisance déduits frauduleusement en contrepartie de la production de déclarations de revenus frauduleuses. Cette situation faisait en sorte que les contribuables recevaient des crédits d’impôt non remboursables importants auxquels ils n’avaient pas droit à l’égard des prétendus dons de bienfaisance.
+[19] En mai 2007, la GRC a fait une descente dans les bureaux de M. Ankomah et a saisi des ordinateurs et des documents, ainsi que des livres de reçus qui étaient vides, mais signés. La GRC a trouvé des documents liés à l’appelant parmi ceux qui avaient été saisis aux lieux d’affaires de M. Ankomah.
+[20] La pièce R‑2 est un document intitulé [traduction] « Données fiscales de 2003 » à l’égard de l’appelant. Ce document, trouvé dans les lieux d’affaires de M. Ankomah, contient des renseignements qui sont conformes à l’option C de 2003 (pièce R‑1) en ce qui concerne le revenu d’emploi, les prestations d’assurance‑emploi et les dons de bienfaisance. La troisième page de la pièce R‑2 indique également que l’appelant aurait fait des dons de bienfaisance de 5 200 $ à Whit-Tee Youth Shelter. La pièce R‑4 est un document intitulé [traduction] « Données fiscales de 2004 » à l’égard de l’appelant. Encore une fois, ce document, trouvé dans les lieux d’affaires de M. Ankomah, contient des renseignements qui sont conformes à l’option C de 2004 (pièce R‑3) en ce qui concerne le revenu d’emploi, les prestations d’assurance‑emploi et les dons de bienfaisance. La troisième page de la pièce R‑4 indique que l’appelant aurait fait des dons de bienfaisance de 7 585,50 $ à la Canadian Foundation for Child Development. La quatrième page de la pièce R‑4 est une facture de services rendus à l’appelant. Les frais visent des services décrits comme la préparation de la déclaration de revenus de 2004 et sa production par voie électronique pour un montant de 70 $ et le [traduction] « paiement anticipé dû » d’un montant de 758,55 $. Ce montant correspond exactement à 10 % des dons de bienfaisance déduits pour cette année. Le paiement intégral de ces services devait être versé dès qu’il recevait son remboursement. Cette situation est conforme au stratagème frauduleux exécuté par M. Ankomah, tel qu’il a été décrit par Mme Amatuzio. L’appelant indique n’avoir aucune connaissance de ce stratagème et nie avoir payé un montant supérieur à 40 $ pour la préparation de ses déclarations de revenus. Plus particulièrement, il nie avoir payé à M. Ankomah le montant de 758,55 $ au titre du [traduction] « paiement anticipé dû ». Il suppose que M. Ankomah a tout monté de toutes pièces et qu’il a aussi fabriqué cette facture. Je ne retiens pas cette explication.
+[21] Le numéro d’enregistrement à titre d’organisme de bienfaisance de Whit‑Tee Shelter Inc. a été révoqué et cette révocation a été publiée dans la Gazette du Canada le 3 novembre 2007. Le numéro d’enregistrement à titre d’organisme de bienfaisance de la Canadian Foundation for Child Development a été révoqué et cette révocation a été publiée dans la Gazette du Canada le 21 juin 2008. Ces révocations ont été effectuées en vertu du par. 168(2) de la Loi.
+[22] Le 16 octobre 2009, M. Ankomah a plaidé coupable devant l’honorable juge Durno de la Cour supérieure de justice de l’Ontario à un chef d’accusation de fraude supérieur à 5 000 $ pour avoir préparé des déclarations de revenus pour ses clients et avoir déduit dans celles‑ci de faux dons de bienfaisance au nom de ses clients. M. Ankomah s’est vu imposer une peine d’emprisonnement de deux ans moins un jour à purger sous conditions dans la communauté, suivie ensuite d’une probation de 24 mois et d’une ordonnance de confiscation des biens liés à la criminalité. Même si l’acte d’accusation pour lequel M. Ankomah a plaidé coupable visait la période du 1er mars 2007 au 31 mai 2007, les faits au dossier à l’appui du plaidoyer de culpabilité indiquent que les activités frauduleuses attribuables à M. Ankomah visaient les années d’imposition de 2003 à 2007. Il est incontestable que, pendant cette période, le préparateur de déclarations de revenus de l’appelant était M. Ankomah.
+Thèse des parties
+[23] L’appelant soutient qu’il ne savait pas que M. Ankomah faisait quelque chose de mal. Il est un particulier naïf et il faisait confiance à M. Ankomah parce qu’il était un homme de Dieu. La première fois que M. Ankomah a demandé des dons, l’appelant avait des préoccupations et a demandé s’il s’attirerait des ennuis. L’appelant soutient qu’il avait véritablement fait les dons de bienfaisance déduits au sens des par. 118.1(1) et 118.1(3) de la Loi. Il fait également valoir que le ministre n’a pas justifié l’établissement des nouvelles cotisations à l’égard de l’appelant pour les années d’imposition 2003 et 2004 qui se situent après l’expiration de la période normale de nouvelle cotisation.
+[24] L’intimée reconnaît que les années d’imposition 2003 et 2004 de l’appelant ont fait l’objet d’une nouvelle cotisation après l’expiration de la période normale de nouvelle cotisation de trois ans et qu’il incombe au ministre de justifier cette nouvelle cotisation. L’intimée soutient qu’une présentation erronée des faits avait été faite dans les déclarations de revenus de l’appelant produits pour 2003 et 2004 par négligence, inattention ou omission volontaire justifiant ainsi la nouvelle cotisation établie pour les deux années après l’expiration de la période normale de nouvelle cotisation. L’intimée adopte également la thèse selon laquelle l’appelant n’a fait aucun don de bienfaisance pendant les années d’imposition en litige et que, s’il en a fait, l’intimée soutient que les dons de bienfaisance ne sont pas conformes au par. 118.1(2) de la Loi et aux articles 3500 et 3501 du Règlement de l’impôt sur le revenu. L’intimée fait donc valoir que l’appel doit être rejeté.
+Discussion
+[25] La Cour doit trancher les deux questions suivantes :
+a. L’appelant a‑t‑il fait une présentation erronée des faits, par négligence, inattention ou omission volontaire dans les déclarations de revenus qu’il a produites pour les années d’imposition 2003 et 2004, permettant ainsi au ministre d’établir de nouvelles cotisations pour ces années après l’expiration de la période normale de nouvelle cotisation?
+b. L’appelant a‑t‑il fait des dons de bienfaisance aux montants déduits et, dans l’affirmative, a‑t‑il droit à un crédit d’impôt non remboursable pour don de bienfaisance pour les années d’imposition 2003, 2004, 2005 et 2006.
+[26] Le paragraphe 152(4) de la Loi dispose en partie :
+152(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi, [...]
+b) la cotisation est établie avant le jour qui suit de trois ans la fin de la période normale de nouvelle cotisation applicable au contribuable pour l’année et, selon le cas :
+[...]
+b.2) la cotisation, la nouvelle cotisation ou la cotisation supplémentaire est établie avant la date qui suit de trois ans la fin de la période normale de nouvelle cotisation applicable au contribuable pour l’année et, à la fois :
+[...]
+(4.01) Malgré les paragraphes (4) et (5), la cotisation, la nouvelle cotisation ou la cotisation supplémentaire à laquelle s’appliquent les alinéas (4)a), b), b.1) ou c) relativement à un contribuable pour une année d’imposition ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans la mesure où il est raisonnable de considérer qu’elle se rapporte à l’un des éléments suivants :
+a) en cas d’application de l’alinéa (4)a) :
+(i) une présentation erronée des faits par le contribuable ou par la personne ayant produit la déclaration de revenu de celui-ci pour l’année, effectuée par négligence, inattention ou omission volontaire ou attribuable à quelque fraude commise par le contribuable ou cette personne lors de la production de la déclaration ou de la communication de quelque renseignement sous le régime de la présente loi, [...]
+[27] La période normale de nouvelle cotisation est de trois ans à compter de la date de la cotisation. Si le ministre souhaite établir une nouvelle cotisation à l’égard d’un contribuable après l’expiration de la période normale de cotisation, il doit satisfaire au critère à deux volets énoncé dans Boucher c. Canada, [2004] A.C.F. no 169 (CAF), au par. 5. Il doit y avoir (1) une présentation erronée des faits dans les déclarations de revenus de l’année visée par la nouvelle cotisation et (2) cette présentation erronée de l’information doit être attribuable à de la négligence, à de l’inattention ou à une omission volontaire.
+[28] La jurisprudence enseigne que toute déclaration erronée dans une déclaration constitue une présentation erronée des faits. Dans Nesbitt c. Canada, [1996] A.C.F no 1470 (CAF), le juge Strayer a fait observer ce qui suit au paragraphe 8 :
+[8] [...] Il me semble que l’un des objets du paragraphe 152(4) est de favoriser l’établissement soigné et exact des déclarations de revenu. C’est au moment où la déclaration est produite que l’on peut déterminer s’il y a eu ou non présentation erronée de faits par négligence ou inattention en remplissant la déclaration. Des faits ont été présentés erronément s’il se trouve un élément inexact dans la déclaration, du moins un élément qui est important pour les fins de la déclaration ainsi que de toute nouvelle cotisation ultérieure. Cela demeure une présentation erronée de fait même si le ministre pourrait relever ou relève effectivement l’erreur dans la déclaration en procédant à une analyse attentive des documents justificatifs. [...]
+[29] Il n’est pas nécessaire que ce soit le contribuable qui ait fait preuve de négligence, d’inattention ou d’une omission volontaire. Le contribuable sera quand même assujetti à une nouvelle cotisation établie à l’égard de ses déclarations de revenus après l’expiration de la période normale de cotisation si la présentation erronée des faits découlait de l’inconduite du mandataire du contribuable, par exemple, un comptable ou un préparateur de déclarations de revenus. Dans la décision College Park Motors Ltd. c. Canada, [2009] A.C.I. no 316, le juge Bowie a indiqué ce qui suit au paragraphe 13 :
+[...] La négligence commise par la personne qui prépare une déclaration de revenu continue à avoir les mêmes conséquences aux termes du sous‑alinéa 152(4)a)(i), qu’il s’agisse de la négligence du contribuable personnellement, ou de celle du comptable ou de toute autre personne qui a préparé la déclaration de revenu à titre de mandataire. Dans Nesbitt v. The Queen, 96 D.T.C. 6045, le juge Heald a statué que le contribuable ne peut pas se protéger contre l’effet du sous‑alinéa 152(4)a)(i) en blâmant son comptable. Les mêmes considérations s’appliquent en l’espèce.
+[30] Ce même argument a été confirmé par la Cour d’appel fédérale dans Succession Vine c. Canada, [2015] A.C.F. no 651, où le juge Webb a énoncé au paragraphe 43 que « [...] une présentation erronée des faits pourrait être faite ‘par négligence, inattention ou omission volontaire’ que ce soit la personne ayant produit la déclaration ou une autre personne qui a agi par négligence, inattention ou omission volontaire en faisant la présentation erronée des faits. [...] Pour déterminer si la personne ayant produit une déclaration qui a été préparée par une autre personne a fait preuve d’inattention ou de négligence, la diligence dont elle doit avoir fait preuve doit être celle dont ferait preuve [traduction] ‘une personne sage et prudente’ ». Je renvoie à la décision Angus c. La Reine, [1996] A.C.I. no 883, au par. 29. Dans Venne c. M.R.N., [1984] A.C.F. no 314 (C.F. 1re inst.), la négligence au sens du sous‑alinéa 152(4)a)(i) de la Loi est établie s’il est démontré que le contribuable n’a pas fait preuve de diligence raisonnable dans la production de sa déclaration de revenus. Si un contribuable confie à une autre personne la préparation de sa déclaration de revenus et qu’il ne prend pas la peine de l’examiner avant de la produire auprès de l’ARC, cela équivaut à négligence.
+[31] Une présentation erronée des faits a‑t‑elle été faite dans les déclarations de revenus de 2003 et 2004 de l’appelant? Selon la preuve dont je suis saisi, je suis convaincu que, vu l’ensemble de la preuve déposée en l’espèce, qu’il a été établi, selon la prépondérance des probabilités, que l’appelant, par l’entremise de son préparateur de déclarations de revenus, M. Ankomah, a fait une présentation erronée des faits dans ses déclarations de revenus de 2003 et de 2004. Je conclus que, selon toute vraisemblance, aucun don de bienfaisance n’a été fait en 2003 et en 2004 et que, si des dons ont été faits, les montants déclarés sont probablement surestimés et inexacts. Les motifs suivants m’ont mené à trier cette conclusion :
+a. L’appelant doutait dès le début la légitimité de ce que faisait M. Ankomah et lui a demandé si ce stratagème lui attirerait des ennuis. L’appelant était certainement clairvoyant puisque ce stratagème lui a de fait attiré des ennuis. L’appelant, piqué dans sa curiosité par le stratagème de M. Ankomah, aurait dû enquêter davantage quant à ce que son préparateur de déclarations de revenus faisait.
+b. L’appelant a soutenu que ses dons de bienfaisance de 2003 avaient été reportés prospectivement de 2002 – c’est tout simplement faux.
+c. Le ratio des prétendus dons par rapport au revenu brut de l’appelant pour les années 2003 et 2004 est très élevé. En 2003, les dons de bienfaisance correspondaient à 19 % de son revenu brut et, en 2004, ils correspondaient à 24 % de son revenu brut. L’appelant était une personne à faible revenu qui était sans emploi pendant une certaine période chaque année et touchait des prestations d’assurance‑emploi. Il est très inhabituel pour un contribuable tirant ce montant de revenu de faire à un organisme de bienfaisance des dons de biens et/ou en espèces qui correspondent à un cinquième de son revenu brut. Ce fait, entre autres facteurs, mène à une conclusion selon laquelle les dons de bienfaisance étaient à tout le moins surestimés, sinon inexistants.
+d. L’appelant soutient qu’il souhaitait que des personnes en Afrique en bénéficient, mais il n’avait toutefois aucun renseignement sur les organismes de bienfaisance, Whit-Tee Youth Shelter Inc. ou the Canadian Foundation for Child Development. L’appelant ne pouvait donner aucun renseignement concernant les causes ou les programmes appuyés par ces organismes de bienfaisance et il ne savait pas où ils se situaient. Il n’avait aucun contact avec ces organismes de bienfaisance; la seule personne‑ressource était M. Ankomah.
+e. Il n’a jamais donné quoi que ce soit aux organismes de bienfaisance visés, s’il a fait un don, il l’a donné à M. Ankomah ou à son église. Il n’a jamais vérifié si ces organismes de bienfaisance recevaient réellement les biens et l’argent qu’il aurait donnés.
+f. L’appelant n’avait aucun renseignement sur les biens qu’il avait donnés. Il n’était pas en mesure de fournir des documents concernant ses dons de bienfaisance. Il n’avait aucun relevé bancaire, aucun reçu, aucun chèque payé, aucune liste détaillée des biens donnés, aucun rapport d’évaluation concernant les biens donnés, aucun registre comportant les dates et les montants des dons en espèces. Il n’était pas en mesure de nous dire comment les biens donnés ont été évalués et quels biens ont été donnés, hormis de vieux meubles meublants, de vieux ordinateurs, un marcheur et une vielle automobile. Un contribuable prudent aurait conservé des documents. Je tire une conclusion défavorable de ce manque de documents.
+g. L’appelant soutient qu’il a acheté des biens sur Kijiji, un site de commercialisation en ligne, et qu’il a donné ces biens à des organismes de bienfaisance. Nous ne savons pas ce en quoi consistaient les biens d’occasion achetés sur Kijiji ni le montant qu’il a payé ni la valeur accordée à ces biens à des fins de bienfaisance. Le fait d’acheter des biens d’occasion sur Kijiji simplement pour les donner à un organisme de bienfaisance n’a absolument aucun sens. Pourquoi ne pas simplement donner de l’argent et laisser l’organisme de bienfaisance choisir pour lui‑même ce qu’il souhaitait acheter pour mieux réaliser ses objectifs de bénévolat? L’achat de biens d’occasion sur Kijiji me mène à croire que l’évaluation des biens pourrait ne pas correspondre au prix d’achat.
+h. M. Ankomah, qui a préparé les déclarations de revenus de l’appelant, était clairement un préparateur de déclarations de revenus très malhonnête qui a participé à un stratagème visant à frauder l’ARC en déduisant à tort des dons de bienfaisance non existants ou surestimés au nom de ses clients. Lors de son plaidoyer de culpabilité, il a été révélé que ce stratagème frauduleux était exploité depuis 2003. En conséquence, il est très probable que M. Ankomah a fait des déductions frauduleuses au titre de dons de bienfaisance au nom de l’appelant, un de ses clients, pour les années 2003 et 2004.
+i. Les documents qui ont été saisis des lieux d’affaires de M. Ankomah indiquent qu’une somme de 758 $ ou 10 % des dons de bienfaisance que l’appelant aurait faits en 2004 avait été facturée à l’appelant. Cette situation appuie l’argument de l’intimée selon lequel M. Ankomah facturait à ses clients 10 % du montant nominal des dons de bienfaisance déduits par fraude. J’écarte le témoignage de l’appelant selon lequel il n’était pas au courant de ce stratagème et qu’il n’a pas versé ce montant à M. Ankomah.
+[32] L’appelant, par l’entremise de son mandataire M. Ankomah a certainement fait une présentation erronée des faits dans ses déclarations de revenus. Il savait ou aurait dû savoir que les montants de 5 200 $ et de 7 586 $ dépassaient de beaucoup les dons qu’il a réellement faits en 2003 et en 2004, respectivement. Il a, à tout le moins, fait preuve de négligence lorsqu’il n’a pas examiné ses déclarations de revenus de 2003 et de 2004 avant que M. Ankomah ne les produise par voie électronique en son nom. Dans les circonstances, le ministre avait raison d’établir une nouvelle cotisation après l’expiration de la période normale de nouvelle cotisation en vertu du paragraphe 152(4) de la Loi.
+[33] Vu que j’ai décidé que le ministre a eu raison d’établir une nouvelle cotisation après l’expiration de la période normale de nouvelle cotisation, il incombe maintenant à l’appelant de convaincre la Cour qu’il a réellement fait les dons de bienfaisance qu’il a soutenu avoir faits pendant les années d’imposition en litige. Il incombe maintenant à l’appelant de réfuter la thèse de la Couronne. J’évoque l’arrêt Hickman Motors c. R., [1997] 2 RCS 336.
+[34] La première étape pour ce faire est d’obtenir et de produire des reçus délivrés par des organismes de bienfaisance enregistrés. L’alinéa 118.1(2)a) de la Loi dispose :
+118.1(2) Pour que le montant admissible d’un don soit inclus dans le total des dons de bienfaisance, le total des dons de biens culturels ou le total des dons de biens écosensibles, le versement du don doit être attesté par la présentation au ministre des documents suivants :
+a) un reçu contenant les renseignements prescrits;
+[...]
+[35] L’appelant n’était pas en mesure de produire un seul reçu pour étayer ses déductions au titre de dons de bienfaisance pendant les années d’imposition 2003 à 2006. Le paragraphe 118.1(2) est obligatoire et l’omission de s’y conformer est fatale à toute demande.
+Conclusion
+[36] Pour ces motifs, l’appel est rejeté.
+Signé à Kingston (Ontario), ce 17e jour d’octobre 2017.
+« Rommel G. Masse »
+Juge suppléant Masse
+RÉFÉRENCE :
+2017 CCI 199
+NO DU DOSSIER DE LA COUR :
+2016‑2580(IT)I
+INTITULÉ :
+Zugu Zubeiru et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 5 septembre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Rommel G. Masse
+DATE DU JUGEMENT :
+Le 17 octobre 2017
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Hye Won (Caroline) Ahn
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[BLANK/EN BLANC[
+Cabinet :
+[BLANK/EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada

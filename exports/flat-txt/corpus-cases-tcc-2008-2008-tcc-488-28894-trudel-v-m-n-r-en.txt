@@ -1,0 +1,187 @@
+Title: Trudel v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28894/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-488-28894-trudel-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-09-25
+
+# Trudel v. M.N.R.
+
+- Citation: 2008 TCC 488
+- Decision date: 2008-09-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1369, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Trudel v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-09-25
+Neutral citation
+2008 TCC 488
+File numbers
+2008-1067(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-1067(EI)
+BETWEEN:
+STÉPHANE TRUDEL,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 18, 2008, at Montréal, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal made under subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue is set aside because the Appellant carried out the work in question as a self-employed worker, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of September 2008.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 14th day of November 2008.
+Bella Lewkowicz, Translator
+Citation: 2008 TCC 488
+Date: 20080925
+Docket: 2008-1067(EI)
+BETWEEN:
+STÉPHANE TRUDEL,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This appeal is in regard to the insurable nature of the work carried out from January 1, 2006, to July 26, 2007, by the Appellant for the company doing business under the corporate name 9102-6864 Québec inc.
+[2] The Respondent found that the work in question was carried out pursuant to a contract of service, in accordance with the provisions of paragraph 5(1)(a) of the Employment Insurance Act (the “Act”). The Appellant is contesting this finding and claims he was working as a self-employed worker and was therefore not subject to the provisions of the Act.
+[3] In making his decision, The Minister of National Revenue (the “Minister”) relied on the following facts:
+[TRANSLATION]
+(a) the Payor was incorporated on March 29, 2001;
+(b) the Payor runs a roadside assistance and towing company on behalf of the CAA in the West Island and in St-Laurent;
+(c) the Payor started his business with 14 or 15 tow trucks;
+(d) the Payor had sales of approximately $700,000;
+(e) Leslie Andradi was the sole holder of the voting shares in the Payor;
+(f) the Appellant has worked for the Payor since November 2004 as a tow- truck driver;
+(g) the Appellant provides services to the Payor by means of a verbal agreement;
+(h) the Appellant drove a tow truck belonging to the Payor;
+(i) the Appellant kept the tow truck 6 days of the week;
+(j) the Payor was responsible for the costs related to the operation of the tow truck, such as mechanical repairs, the licence plates, insurance and gas;
+(k) the Appellant worked Monday to Saturday, 12 hours per day, from midnight until noon;
+(l) the Appellant was directly connected to CAA Québec through a computer installed in the tow truck;
+(m) the Appellant received instructions regarding where to go from the CAA dispatcher through the computer;
+(n) the Payor provided a CAA uniform to the Appellant;
+(o) the Appellant worked exclusively for the Payor and could not refuse service calls;
+(p) the Appellant had to personally provide services to the Payor and could not be replaced by another individual;
+(q) the Appellant received approximately $7.00 per call but the amount varied on a number of occasions;
+(r) the Appellant was paid every 2 weeks and no deductions were made;
+(s) the Appellant was not entitled to paid vacation and had no benefits;
+(t) if the Appellant was absent (due to illness), the Appellant had to advise the CAA dispatcher and, if necessary, the CAA picked up the tow truck;
+(u) during the period in issue, the Appellant was still providing services to the Payor under the control and supervision of the Payor;
+[4] Represented by Alain Caron, the Appellant admitted, after being sworn in, that certain facts listed in paragraph 5 of the Reply to the Notice of Appeal were accurate: (g), (h), (i), (k), (l), (m), (q), (r) and (s). He ignored paragraphs (a), (b), (c), (d) and (e), and he denied paragraphs (j), (n), (o), (p), (t), and (u).
+[5] He then described the manner in which he carried out his duties. He repeatedly referred to the owner of the tow trucks as “the boss”. He also spoke about his pay and identified himself as an employee. I therefore made the Appellant aware of the fact, during the hearing, that his vocabulary or the manner in which he expressed himself validated the correctness of the Minister’s decision that he was contesting in his appeal.
+[6] The Appellant continued his testimony by explaining that he filled out a report or detailed summary of all the calls on which he indicated the location, time, kilometrage, the amount collected, etc.
+[7] Copies of the reports were submitted to the owner of the tow trucks, 9102-6864 Québec inc.; the Appellant received 50% of the total billed minus the taxes, which were paid in full over and above the 50%. The reports in question served only as a breakdown of the receipts.
+[8] The Appellant owned several pieces of equipment necessary to the work—only the motor vehicle (tow truck) was the property of the company, which collected 50% of the bill plus the taxes on the full amount.
+[9] The Appellant wore a uniform provided by the CAA (“Canadian Automobile Association”), which took care of the liability insurance on payment of a $50 deductible.
+[10] The CAA also provided the Appellant with the mandatory training required for accreditation.
+[11] The Appellant estimated that calls from the CAA represented 85% of his work volume and that the remaining 15% came from the owner of the tow trucks or other clients who contacted the Appellant.
+[12] The Appellant had no interest in keeping exact records as the way his remuneration was paid never varied; it was always the same formula, 50-50, the exception being the taxes that were paid in full to the company.
+[13] He explained that his interest was in answering as many tow calls as possible and the way to get the most amount of work was through the CAA, which, due to their large membership, yielded a lot of work.
+[14] He explained that gas expenses were his responsibility, despite some equivocation when his file was analyzed. The appeals officer seemed to be under the impression that the company paid the gas bills by means of a gas credit card issued to the Appellant and that the Appellant was using.
+[15] When asked to explain, the Appellant acknowledged that he had said this, that he had such a card, but he added that the money spent on gas was subtracted from the 50% to which he was entitled under the verbal agreement. The gas expenses were always the responsibility of the Appellant.
+[16] Other than the cost of gas that the Appellant was responsible for, he was also responsible for any damages he caused. When damages resulted from a towing service order by the CAA, the company was responsible for damages, except for a $50 deductible.
+[17] When they resulted from a towing service described as private, that is, for non-CAA members, he was personally responsible for damages, adding: [TRANSLATION] “This is normal as I’m the one who would have caused the damages”.
+[18] He then gave the example of a windshield he had to replace, which cost him more than $300.
+[19] He explained that he always had to be available in order to maximize his income. He confirmed that he had the right to refuse a call and that he in fact had already refused to take a call that would have required him to make a long trip since the gas expense would have considerably reduced his profit.
+[20] He also said that he could have called in a replacement, provided that person was CAA-accredited. He did not reference the tow-truck owner on this issue.
+[21] From the outset, the Appellant’s representative, Mr. Caron, explained that the Appellant could not be a salaried worker as no company could survive economically if it had to pay such an employee an hourly wage.
+[22] He explained that the region included a certain number of tow trucks available at all times in order to meet demand—emergency calls—within a reasonable amount of time, around half an hour, regardless of where the call comes from.
+[23] Just like the Appellant, his representative did not seem to understand the difference between a contract of service and a contract for services.
+[24] With respect to insurability, each file is a particular case and, unfortunately, there is no miracle formula for a quick and foolproof way of deciding a dispute based on the facts that the parties submitted as evidence.
+[25] The case at bar is not easy to decide as the parties presented solid arguments that effectively supported their respective positions.
+[26] With respect to the decision being appealed, I accept among other things the elements mentioned by the appeals officer, Brian Carter:
+[TRANSLATION]
+(VI) Analysis of inconsistency or contradiction in the particulars:
+There is no inconsistency or contradiction in the particulars between the Worker and the Payor.
+(VII) SUMMARY:
+In Quebec, contracts of employment (contracts of service) and contracts for service are under the jurisdiction of the Civil Code of Québec.
+During the period in issue, it is not clear whether the Payor considered the Worker as a self-employed worker or as an employee. The Worker considered himself an employee.
+Pursuant to the Code, a contract of employment must meet the following three criteria:
+(1) Performance of work:
+There is no doubt that the Worker provided towing services for the Payor. He worked midnight until noon Monday through Saturday. The Payor provided all the equipment used by the Worker.
+(2) Remuneration:
+The Worker was paid $7.00 for each towing service call. He was paid by cheque every two weeks, without any source deductions being made.
+(3) Subordination:
+The Payor supplied a tow truck to the Worker free of charge. The tow truck was the property of the Payor. The Worker worked Monday through Saturday, so 6 days per week, 12 hours per day, from midnight to noon. The Payor provided a CAA uniform for the Worker (at the Payor’s expense). The Worker could not refuse service calls. The Worker worked exclusively for the Payor. The Worker could not be replaced by another individual. The Worker, if he was sick, had to communicate with the CAA dispatcher and Mr. Andradi (Payor) to let them know he would be absent. If the Payor needed the tow truck, he sent someone to pick it up from the Worker.
+We conclude that is a contract of employment.
+Paragraph 5(1)(a) of the Act:
+We are of the opinion that Stéphane Trudel had insurable employment.
+There was a contract of service between the Worker and Payor during the period in issue.
+(VII) Precedent, legal opinion, etc.:
+9041‑6868 Québec Inc. (Tambeau) v. Canada (Minister of National Revenue)
+2005 FCA 334
+(VIII) Recommendation:
+We recommend that the departmental notifications stipulate that Stéphane Trudel insurable employment pursuant to paragraph 5(1)(a) of the Employment Insurance Act when he was working for 9102-6864 Québec inc. during the period in question.
+[27] However, the evidence shows that the gas was paid for by the Appellant, which led the appeals officer to say that, had he known that, he might not have made the same decision.
+[28] Moreover, at the hearing, the Appellant made statements that contradicted the contentions accepted by the Minister, namely, that he was not able to refuse service calls and that he did not bill the Payor for the costs incurred in using the tow truck.
+[29] The Payor provided the Appellant with a tow truck free of charge and the uniform was provided by the CAA. These are important facts that did not appear in the initial analysis.
+[30] Mr. Carter even blamed the Appellant for not bringing certain facts to his attention. I obviously do not accept such a criticism, as it is the responsibility of the appeals officer to conduct the investigation and obtain all relevant facts.
+[31] Persons under investigation as in this case do not possess the reflexes or knowledge required in order to identify determinative factors, especially if a legal expert does not represent them.
+[32] The current case illustrates this point: the Appellant filed a Notice of Appeal to argue that he carried out his duties as a self-employed worker, and not as a salaried employee, but he defined himself as an employee with a boss. If he were taken at his word, his statement would be a fatal blow to the merits of his appeal.
+[33] This manner of expressing himself shows that, in the mind of a non-expert, the distinction between work carried out under the terms of a contract of service and work carried out as a self-employed worker is neither clear nor evident.
+[34] Other than certain facts validating the Respondent’s contention, I also accept the fact that the Appellant was not a registrant for the purposes of the GST and QST, which probably explains why the full amount of taxes was paid to the owner of the tow truck.
+[35] With respect to the Appellant’s position, I am rejecting his main argument, that the method of remuneration necessarily means that he was a self-employed worker.
+[36] In fact, a salaried worker can do a job according to the terms of a contract of service without being paid an hourly wage.
+[37] Even though the hourly wage is the most common method of paying a worker, the formula based on a percentage or the number of units produced, the mixed formula, the repayment of a debt, and so on, are other means of paying someone. As a result, the manner in which the Appellant was paid meets the remuneration criterion. With respect to the performance of work, the evidence admits of no doubt; it is not debatable.
+[38] Finally, the determinative factor, the subordination relationship, is proven by the amount of authority the Payor had over the person carrying out the work.
+[39] In this case, it has been established that the Appellant had tremendous autonomy. He could refuse a call. He was responsible for the most significant input in terms of receipts: the gas expenses. He was responsible for the damages caused for non-CAA member towing services.
+[40] For CAA members, damages were covered subject to a $50 deductible that the Appellant was responsible for covering. The uniforms were paid for, not by 9102-6864 Québec inc., but by the CAA. Training was provided by the CAA and not by 9102-6864 Québec inc.
+[41] In light of the evidence, it is clear that three entities participated directly in the execution of the Appellant’s work.
+[42] The company 9102-6864 Québec inc. owned the tow trucks and clearly sought the highest revenues possible for the use of the tow trucks.
+[43] The Appellant made his money based on the calls he took. Finally, the CAA was looking to obtain the best service from persons who matched its reputation at the best price possible. To do so, the CAA trained tow truck drivers, provided them with uniforms, and sent them calls through a call centre that chose which tow truck would answer the call based on location.
+[44] Each party had its own interest and, as the facts demonstrate, the three entities were directly involved. The reason both the Appellant and tow-truck owner had work was because of what the CAA sent their way. Without the CAA, the Appellant would not have gotten work and, without the Appellant, who is CAA-accredited, the tow-truck owner would not have been able to cover the territory assigned by the CAA.
+[45] Neither the owner of the tow truck driven by the Appellant nor the CAA representative testified. The Appellant testified and explained issues that were misinterpreted or distorted by the appeals officer.
+[46] In a credible manner, the Appellant confirmed he had to pay for the gas to use the tow truck. He also said that he was responsible for any damages that ensued, providing an example of a $300 disbursement.
+[47] The training was the responsibility of the CAA, which also provided the uniforms.
+[48] He stated that he could refuse to take a call and the he could do all the towing he wanted to without any intervention by the tow-truck owner. When it was a private client, the Appellant had the power to set the towing price. While he could service his own clients, he was subject to the same agreement that bound him to the owner of the tow truck with respect to the cost of using the vehicle.
+[49] Contrary to what was accepted by the appeals officer, the tow truck was used for a clearly defined consideration, which is entirely consistent with commercial practices in this area.
+[50] Based on a 50-50 split, the tow-truck owner’s only interest is to maximize revenues. The drivers’ interests are to be selective as they are responsible for the operational expenses, which can reduce or cancel out their share of revenue to which they are entitled to under the agreement.
+[51] For these reasons, I am of the opinion that the balance of evidence is in favour of the Appellant’s position. This is not a case where the conclusion is clear, but the terms of the agreement binding the Appellant and the company 9102-6864 Québec inc. lead us to conclude that the agreement was not an employment contract but a lease agreement where the Appellant was the lessee of the tow truck he was using.
+Signed at Ottawa, Canada, this 25th day of September 2008.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 14th day of November 2008.
+Bella Lewkowicz, Translator
+CITATION: 2008 TCC 488
+COURT FILE NO.: 2008-1067(EI)
+STYLE OF CAUSE: STÉPHANE TRUDEL AND M.N.R.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: August 18, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: September 25, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

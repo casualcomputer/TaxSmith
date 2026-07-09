@@ -1,0 +1,273 @@
+---
+title: "Madell c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28698/index.do"
+last_modified: "2008-05-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 264"
+citation2: ""
+neutral_citation: "2008 CCI 264"
+decision_date: "2008-05-02"
+language: "fr"
+item_id: "28698"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1488
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:49:15.762000+00:00"
+cases_cited_count: 5
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6742d9f8c284d36ff9cca0928bc3a38315b915ce2eb8929e5f99a2edbd657450"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Madell c. La Reine
+
+- Citation: 2008 CCI 264
+- Decision date: 2008-05-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1488, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Madell c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-02
+Référence neutre
+2008 CCI 264
+Numéro de dossier
+2004-1650(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-1650(IT)G
+ENTRE :
+GARRET MADELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus les 11, 12 et 13 juin 2007 à Calgary (Alberta), le 3 août 2007 par conférence téléphonique à Vancouver (Colombie‑Britannique), et le 19 septembre 2007 à Edmonton (Alberta)
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Avocats de l'appelant :
+Me James G. Shea et Me Matt Clark
+Avocats de l'intimée :
+Me John O'Callaghan et Me Chang Du
+________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies en application de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 1997 et 1998 sont rejetés, avec dépens, conformément aux motifs du jugement ci-joints.
+Signé à Toronto (Ontario), ce 2e jour de mai 2008.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 15e jour de septembre 2008.
+Yves Bellefeuille, réviseur
+Référence : 2008 CCI 264
+Date : 20080502
+Dossier : 2004-1650(IT)G
+ENTRE :
+GARRET MADELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. Les faits
+[1] L'appelant est un particulier qui habite la ville de Calgary (Alberta).
+[2] Ses appels et les appels déposés par MM. Storwick, Falkenberg et Caputo ont été entendus ensemble sur preuve commune.
+[3] Les quatre appels étaient des « causes types » pour environ 460 investisseurs.
+[4] Les quatre appelants ont interjeté des appels représentatifs au nom des autres investisseurs qui ont présenté des avis d'opposition à l'égard des nouvelles cotisations établies par le ministre du Revenu national (le « ministre »).
+[5] En 1997, l'appelant a acheté 10 parts de la société en commandite Stellar Dynamic (la « société en commandite »). Le prix d'émission payé par l'appelant était de 10 850 $ par part dans la société en commandite.
+[6] Manhattan Ventures Ltd. (la société « Manhattan »), une société résidant au Canada, était l'associée commanditée de la société en commandite.
+[7] Dans l'avis d'appel modifié qu'il a déposé, l'appelant soutient que l'activité principale de la société en commandite était l'achat et la commercialisation active de la carte Quest Prestige dans les territoires désignés ainsi que l'achat d'actions ordinaires de catégorie « A » dans Imaging Dynamic Corporation (la société « IDC »), une société cotée à la bourse de l'Alberta.
+[8] En 1997, Manhattan a conclu une entente de coentreprise avec IDC. Cette entente avait pour objet le développement du prototype de détail technique du système de radiographie numérisée d'IDC et le partage des revenus et des dépenses bruts. Manhattan a contribué 320 000 $[1] à la coentreprise, ce qui lui a donné droit à 3,2 % de l'éventuel flux de trésorerie.
+[9] En 1998, Manhattan a mis fin à la coentreprise en échangeant sa participation contre 640 000 actions de catégorie « A » d'IDC. La totalité des 320 000 $ investis a été portée en charges, et Manhattan a attribué les actions et la perte découlant de l'opération aux associés de la société en commandite.
+[10] La carte Quest Prestige était une carte de fidélisation de la clientèle. Les détenteurs d'une telle carte avaient droit à des rabais dans des hôtels, des restaurants et d'autres établissements commerciaux.
+[11] Rockhaven International Inc. (la société « Rockhaven ») a été constituée en société aux Antilles britanniques. La société Rockhaven détenait le droit d'auteur de la carte Quest Prestige.
+[12] Stellar Financial Services Inc. (la société « Stellar ») était une société résidente du Canada.
+[13] Les sociétés Stellar et Rockhaven ont conclu une entente de distribution en 1996. Selon cette entente de distribution, la société Stellar était tenue de désigner des territoires au Canada et aux États‑Unis où on pourrait vendre la carte Quest Prestige. La société Stellar devait recevoir une commission de 1 750 $ par territoire vendu à des investisseurs comme l'appelant et la société en commandite.
+[14] En 1997 et en 1998, la société en commandite et Rockhaven ont conclu cinquante‑six accords de licence. L'appelant a également conclu personnellement trois accords de licence avec Rockhaven. Ces accords disposaient que Rockhaven accordait à la société en commandite et à l'appelant le droit d'exclusivité sur la publication, la reproduction, la commercialisation et la distribution de la carte Quest Prestige dans les territoires désignés dans les accords.
+[15] Conformément aux accords de licence, l'appelant et la société en commandite ont convenu de payer un droit de licence de 350 $ en plus d'une redevance par anticipation de 20 000 $ pour chaque territoire.
+[16] L'appelant et la société en commandite ont aussi convenu de payer une redevance de 5 $ pour chaque carte Quest Prestige vendue, distribuée, commercialisée, publiée ou reproduite sur une période de 20 ans, après la vente des 4 000 premières cartes ou après la première année, le premier des deux cas prévalant.
+[17] L'appelant et la société en commandite ont aussi conclu des accords d'exploitation distincts avec Crusader Marketing Corporation Inc. (la société « Crusader »). Selon ces accords, on faisait appel aux services de la société Crusader pour la commercialisation et la distribution de la carte Quest Prestige dans les territoires accordés.
+[18] La société Crusader a convenu de fournir des garanties de bonne exécution s'élevant à 15 000 $ en espèces par territoire. Il était aussi prévu que 3 $ seraient consentis à la société Crusader à la vente de chaque carte Quest Prestige. À la fin de la période prévue par l'accord, le solde des garanties devait être abandonné à l'appelant et à la société en commandite, respectivement, à titre de dommages‑intérêts en raison de l'absence de rendement.
+[19] Compte tenu des témoignages entendus lors de l'audience, l'appelant n'était pas en mesure de confirmer l'établissement réel des garanties de bonne exécution.
+[20] Dans ses déclarations de revenus pour les années d'imposition 1997 et 1998, l'appelant a déduit les montants suivants :
+1997
+1998
+Pertes comme commanditaire refusées
+80 750 $
+55 677 $
+Dépenses refusées relatives aux redevances par anticipation
+85 038 $
+Dépenses refusées relatives aux licences
+1 488 $
+167 276 $
+55 677 $
+[21] Dans des avis de nouvelle cotisation datés du 13 mars 2000, le ministre a refusé les montants indiqués au paragraphe [20] ci-dessus.
+[22] Après que le ministre a ratifié les nouvelles cotisations, l'appelant a présenté des avis d'appel à la Cour canadienne de l'impôt.
+B. Les points en litige
+[23] a) Les investissements de l'appelant et de la société en commandite en vue d'être distributeurs de la carte Quest Prestige représentent‑ils une source de revenu aux fins de l'article 9 de la Loi de l'impôt sur le revenu (la « Loi »)? Si ce n'est pas le cas, aucune dépense relative aux investissements ne peut être déduite.
+b) Subsidiairement, les redevances par anticipation représentent‑elles un « abri fiscal déterminé » au sens de l'article 143.2 de la Loi? Si c'est le cas, le paragraphe 143.2(6) interdit la déduction des redevances par anticipation pour les années en cause.
+c) Subsidiairement encore, est-ce qu'il est raisonnable de considérer une quelconque partie des dépenses faites relativement aux redevances par anticipation comme ayant été engagée ou effectuée à l'égard d'une période ultérieure aux années en cause? Si c'est le cas, le paragraphe 18(9) de la Loi interdit la déduction des redevances par anticipation pour les années en cause.
+d) Subsidiairement encore, les dépenses relatives aux redevances par anticipation doivent‑elles être appariées au revenu issu de la vente de cartes Quest Prestige afin d'établir les gains en fonction de l'article 9 de la Loi? Si c'est le cas, aucun montant relatif aux redevances par anticipation ne peut être déduit pour les années en cause.
+e) Subsidiairement encore, est-ce qu'une quelconque partie du solde impayé de 15 000 $ des redevances par anticipation, à payer en application de chacun des accords de licence, représentait une obligation éventuelle pendant les années en cause? Si c'est le cas, l'alinéa 18(1)e) de la Loi interdit la déduction de montants au titre d'une éventualité.
+f) Subsidiairement encore, les droits de licence constituaient-ils des dépenses en capital? Si c'est le cas, l'alinéa 18(1)b) de la Loi interdit la déduction de ces montants à titre de dépenses courantes.
+g) La société en commandite et par le fait même l'appelant ont‑ils le droit de faire une quelconque déduction concernant la coentreprise IDC dans l'établissement des pertes de la société au sens de l'article 96?
+C. Analyse et décision
+[24] Comme il est souligné ci-dessus, l'appelant et la société en commandite ont tous deux convenu de payer 20 350 $ à Rockhaven par territoire compris dans les accords de licence. Ce paiement était composé d'une redevance par anticipation de 20 000 $ et de droits de licence de 350 $.
+[25] Il ressort ce qui suit de la preuve dont la Cour a été saisie :
+(A) Dans leurs déclarations de revenus respectives, l'appelant et la société en commandite ont tous deux demandé la déduction du montant complet, soit 20 350 $, pour chaque territoire. Toutefois, les deux ont admis ne jamais avoir payé la redevance par anticipation de 15 000 $ par territoire et ont affirmé qu'on ne leur avait jamais demandé de le faire. En résumé, le total des dépenses engagées en espèces par territoire s'élève à seulement 5 350 $.
+(B) L'appelant a admis qu'au moment de l'investissement initial, la société Crusader ne travaillait pas à vendre des cartes Quest Prestige dans les territoires pour lesquels lui-même et la société en commandite détenaient les droits.
+(C) La société Crusader n'a généré aucun revenu de la vente de cartes Quest Prestige en 1997. Il a cependant été admis que Crusader a généré un revenu symbolique en 1998 et en 1999.
+(D) L'appelant a reconnu ne pas avoir fait de recherches (que ce soit de façon directe ou indirecte) concernant les diverses personnes morales derrière le projet de la carte Quest Prestige avant d'investir.
+(E) L'appelant a reconnu ne pas avoir fait de suivi des activités de commercialisation de la société Crusader.
+(F) L'appelant a demandé la déduction de pertes comme commanditaire en partant du principe que la société en commandite avait conclu une entente de coentreprise avec IDC.
+[26] En bref, aucun des appelants n'était en mesure de prouver qu'il avait mené, soit lui-même, soit par la voie de la société en commandite, des activités de commercialisation de la carte Quest Prestige.
+[27] J'examinerai maintenant les points précis qui sont en litige.
+I. Source de revenu
+[28] L'avocat de l'intimée fait valoir que ni la société en commandite, ni l'appelant, n'exerçait d'activité commerciale lorsque les investissements ont été faits dans le projet de cartes Quest Prestige. Il fait également valoir qu'il n'existait aucune source de revenu tiré d'une d'entreprise ou de biens de laquelle le montant des redevances par anticipation de 20 000 $ et le montant du droit de licence de 350 $ pourraient être déduits.
+[29] L'avocat de l'appelant et l'avocat de l'intimée ont tous deux cité les arrêts Stewart c. Canada, 2002 CSC 46, et Walls c. Canada, 2002 CSC 47, de la Cour suprême du Canada. Dans l'arrêt Stewart, la Cour suprême du Canada a formulé les commentaires suivants :
+50 Il est manifeste que, pour que l'art. 9 s'applique, le contribuable doit d'abord déterminer s'il a une source de revenu constituée soit d'une entreprise, soit d'un bien. Comme nous l'avons vu, une activité commerciale qui ne constitue pas véritablement une entreprise peut néanmoins être une source de revenu constituée d'un bien. De même, il est clair que certaines démarches de contribuables ne sont ni des entreprises, ni des sources de revenu constituées d'un bien, mais sont uniquement des activités personnelles. On peut recourir à la méthode à deux volets suivante pour trancher la question de l'existence d'une source :
+(i) L'activité du contribuable est-elle exercée en vue de réaliser un profit, ou s'agit-il d'une démarche personnelle?
+(ii) S'il ne s'agit pas d'une démarche personnelle, la source du revenu est‑elle une entreprise ou un bien?
+Le premier volet du critère vise la question générale de savoir s'il y a ou non une source de revenu; dans le deuxième volet, on qualifie la source d'entreprise ou de bien.
+51 Assimiler la « source de revenu » à une activité exercée « en vue de réaliser un profit » concorde avec la définition traditionnelle du mot « entreprise » qui est donnée en common law, à savoir [TRADUCTION] « tout ce qui occupe le temps, l'attention et les efforts d'un homme et qui a pour objet la réalisation d'un profit » : Smith, précité, p. 258; Terminal Dock, précité. De même, la distinction entre le revenu tiré d'une entreprise et le revenu tiré d'un bien repose généralement sur le fait qu'une entreprise exige un niveau d'activité plus élevé de la part du contribuable : voir Krishna, op. cit., p. 240. Il est donc logique de conclure qu'une activité exercée en vue de réaliser un profit, quel que soit le niveau d'activité du contribuable, sera une source de revenu constituée soit d'une entreprise, soit d'un bien.
+52 Ce premier volet du critère vise simplement à établir une distinction entre les activités commerciales et les activités personnelles et, comme nous l'avons vu, il se peut fort bien que telle ait été à l'origine l'intention du juge Dickson lorsqu'il a mentionné l'« expectative raisonnable de profit » dans l'arrêt Moldowan. Vus sous cet angle, les critères énoncés par le juge Dickson représentent une tentative de dresser une liste objective de facteurs permettant de déterminer si l'activité en cause est de nature commerciale ou personnelle. Ces facteurs sont ce que le juge Bowman a qualifié d'« indices de commercialité » ou de « caractéristiques commerciales » : Nichol, précité, par. 13. Ainsi, lorsque la nature de l'entreprise du contribuable comporte des aspects indiquant qu'elle pourrait être considérée comme un passe-temps ou une autre activité personnelle, mais que l'entreprise est exploitée d'une manière suffisamment commerciale, cette entreprise sera considérée comme une source de revenu aux fins d'application de la Loi.
+53 Nous soulignons que ce critère de l'existence d'une source « en vue de réaliser un profit » ne doit faire l'objet d'une analyse que dans les situations où l'activité en cause comporte un aspect personnel ou récréatif. En toute déférence, nous estimons que les tribunaux ont commis une erreur, dans le passé, en appliquant le critère de l'ERP à des activités comme l'exercice du droit et la restauration qui ne comportent aucun aspect personnel de cette nature : voir, par exemple, Landry, précité; Sirois, précité; Engler c. Canada, [1994] A.C.F. n° 483 (QL) (1re inst.). Lorsqu'une activité est clairement de nature commerciale, il n'est pas nécessaire d'analyser les décisions commerciales du contribuable. De telles démarches comportent nécessairement la recherche d'un profit. Il existe donc par définition une source de revenu et il n'est pas nécessaire de pousser l'examen plus loin.
+[Non souligné dans l'original.]
+54 Il y a également lieu de souligner que la détermination de l'existence d'une source de revenu n'est pas un processus purement subjectif. Outre le fait que, pour qu'une activité soit qualifiée de commerciale par nature, le contribuable doit avoir l'intention subjective de réaliser un profit, il faut aussi, tel que mentionné dans l'arrêt Moldowan, que cette détermination se fasse en fonction de divers facteurs objectifs. Ainsi, sous une forme plus élaborée, le premier volet du critère susmentionné peut être reformulé ainsi : « Le contribuable a-t-il l'intention d'exercer une activité en vue de réaliser un profit et existe-t-il des éléments de preuve étayant cette intention? » Cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l'activité et que cette activité a été exercée conformément à des normes objectives de comportement d'homme d'affaires sérieux.
+55 Les facteurs objectifs énumérés par le juge Dickson dans Moldowan, précité, p. 486, étaient (1) l'état des profits et pertes pour les années antérieures, (2) la formation du contribuable, (3) la voie sur laquelle il entend s'engager, et (4) la capacité de l'entreprise de réaliser un profit. Comme nous le concluons plus loin, il n'est pas nécessaire pour les besoins du présent pourvoi d'ajouter d'autres facteurs à cette liste; nous nous abstenons donc de le faire. Nous tenons cependant à réitérer la mise en garde du juge Dickson selon laquelle cette liste ne se veut pas exhaustive et les facteurs diffèrent selon la nature et l'importance de l'entreprise. Nous tenons également à souligner que, même si l'expectative raisonnable de profit constitue un facteur à prendre en considération à ce stade, elle n'est ni le seul facteur, ni un facteur déterminant. Il faut déterminer globalement si le contribuable exerce l'activité d'une manière commerciale. Cette détermination ne devrait toutefois pas servir à évaluer après coup le sens des affaires du contribuable. C'est la nature commerciale de son activité qui doit être évaluée, et non son sens des affaires.
+56 En plus de restreindre l'application du critère permettant de déterminer l'existence d'une source aux activités comportant un aspect personnel, il faut distinguer l'activité que le contribuable qualifie de source de revenu des déductions particulières qu'il associe à cette source. La tentative du contribuable de déduire ce qui est essentiellement une dépense personnelle n'influe pas sur la qualification de la source à laquelle cette déduction se rapporte. Cette distinction analytique est imposée par la structure de la Loi. Si, comme nous l'avons vu, l'art. 9 est la disposition de la Loi où est établie la distinction fondamentale entre l'activité personnelle et l'activité commerciale puis, dans le domaine commercial, entre les sources de revenu constituées d'une entreprise et les sources de revenu constituées d'un bien, la qualification des déductions s'effectue ailleurs. Plus particulièrement, l'al. 18(1)a) exige que les déductions soient attribuées à une source particulière de revenu constituée d'une entreprise ou d'un bien, alors que l'al. 18(1)h) interdit expressément la déduction des frais personnels ou de subsistance du contribuable :
+18. (1) Dans le calcul du revenu du contribuable, tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+a) un débours ou une dépense sauf dans la mesure où elle a été faite ou engagée par le contribuable en vue de tirer un revenu des biens ou de l'entreprise ou de faire produire un revenu aux biens ou à l'entreprise;
+[...]
+h) le montant des frais personnels ou des frais de subsistance du contribuable [...]
+57 Il ressort clairement de ces dispositions que la déductibilité des dépenses présuppose l'existence d'une source de revenu et, partant, qu'elle ne doit pas être confondue avec l'examen préliminaire portant sur l'existence de cette source. Si la déductibilité d'une dépense particulière est en cause, ce n'est pas l'existence d'une source de revenu qui doit être mise en doute, mais plutôt le lien entre cette dépense et la source à laquelle elle est censée se rapporter. Le fait qu'une dépense soit considérée comme faisant partie des frais personnels ou de subsistance n'influe aucunement sur la qualification de la source de revenu à laquelle le contribuable tente de rattacher la dépense; cela signifie simplement que la dépense ne peut être rattachée à la source de revenu en question. De même, si, dans les circonstances, la dépense est déraisonnable eu égard à la source de revenu, alors l'art. 67 de la Loi établit un mécanisme permettant d'en réduire ou d'en supprimer le montant. Là encore, toutefois, des dépenses excessives ou déraisonnables n'ont aucune incidence sur la qualification d'une activité comme étant une source de revenu.
+[...]
+60 En résumé, la question de savoir si le contribuable a ou non une source de revenu doit être tranchée en fonction de la commercialité de l'activité en cause. Lorsque l'activité ne comporte aucun aspect personnel et qu'elle est manifestement commerciale, il n'est pas nécessaire de pousser l'examen plus loin. Lorsque l'activité peut être qualifiée de personnelle, il faut alors déterminer si cette activité est ou non exercée d'une manière suffisamment commerciale pour constituer une source de revenu. Toutefois, refuser la déduction de pertes pour le seul motif que les pertes indiquent l'inexistence d'une entreprise (ou d'un bien) comme source de revenu va à l'encontre du texte et de l'économie de la Loi. La question de savoir s'il existe une entreprise est distincte de celle de la déductibilité des dépenses. Comme l'a laissé entendre l'appelant, refuser des déductions en fonction d'une analyse de l'expectative raisonnable de profit équivaudrait à une règle jurisprudentielle sur la minimisation des pertes, qui serait contraire aux principes d'interprétation établis susmentionnés qui s'appliquent à la Loi. De même, à la différence de nombreuses règles législatives sur la minimisation des pertes, dès que des déductions sont refusées à la suite de l'application du critère de l'ERP, le contribuable ne peut reporter ces pertes sur un revenu futur si jamais l'activité devient rentable. Comme l'a affirmé le juge Bowman, dans la décision Bélec, précitée, par. 16 : « Ce serait [...] inacceptable de permettre au ministre [de dire] au contribuable : “Le fait que tu as perdu de l'argent [...] prouve que tu n'avais pas d'espoir raisonnable de profit, mais dès que tu gagnes de l'argent, ça prouve que maintenant, tu en as”. »
+[30] À mon avis, l'approche préconisée par la Cour suprême dans l'arrêt Stewart peut être résumée ainsi :
+a) D'abord, la Cour doit trancher la question de savoir si le contribuable a une source de revenu tiré d'une entreprise aux fins de l'article 9 de la Loi. L'objectif définitif de cette partie du critère est d'établir la distinction entre les activités commerciales et les activités personnelles (paragraphe 50) selon la méthode énoncée par la Cour suprême, particulièrement aux paragraphes 52 à 56 et 60.
+b) Ensuite, une fois que la source de revenu est établie, la Cour doit trancher la question de savoir si les dépenses que le contribuable cherche à déduire dans le calcul de ses revenus peuvent, en application du paragraphe 18(1), être déduites du revenu tiré de l'entreprise. Si les dépenses peuvent être déduites, elles seront admises, mais seulement dans la mesure où elles sont « raisonnables », comme le prévoit l'article 67 de la Loi (voir le paragraphe 57 de l'arrêt Stewart). La Cour suprême a souligné (au paragraphe 60 de Stewart) :
+La question de savoir s'il existe une entreprise est distincte de celle de la déductibilité des dépenses.
+[31] Si on applique le critère comme il a été établi dans l'arrêt Stewart aux faits énoncés ci-dessus, on doit tenir compte des éléments suivants :
+1. La Cour suprême a rejeté le critère de l'expectative raisonnable de profit (l'« ERP ») comme critère servant à établir si une activité donnée constitue une source de revenu.
+2. On demande aux cours inférieures d'utiliser la méthode à deux volets énoncée au paragraphe 50 de l'arrêt Stewart. Dans les cas où les activités des parties ne sont pas « clairement de nature commerciale », comme il est énoncé au paragraphe 53 de l'arrêt Stewart, les cours inférieures sont tenues d'examiner la question de savoir si l'« activité » a été exercée conformément à des normes objectives de comportement d'homme d'affaires sérieux (voir le paragraphe 54 de l'arrêt Stewart). Les cours inférieures doivent établir si « le contribuable exerce l'activité d'une manière commerciale » (paragraphe 55 de l'arrêt Stewart).
+[32] Compte tenu des affirmations dans l'arrêt Stewart et du fait que les activités de l'appelant n'étaient pas « clairement de nature commerciale », je dois examiner la question de savoir si l'« activité » en cause répond aux critères établis ci-dessus.
+Normes objectives de comportement d'homme d'affaires sérieux :
+J'ai minutieusement analysé toute la preuve dont j'ai été saisi, et il convient de souligner les éléments suivants :
+a) Aucun des quatre appelants n'a réalisé de gain à la suite de l'achat d'une licence de commercialisation des cartes Quest Prestige dans un territoire donné ou de l'achat, par l'entremise de la société en commandite Stellar Dynamic, d'une part des territoires situés au Texas. (Remarque : Seuls l'appelant et M. Storwick étaient associés à la société en commandite.)
+b) De plus, il semble qu'aucun des appelants n'aurait pu réaliser de gain de la vente de cartes Quest Prestige parce que chacun d'entre eux était tenu de remettre à Rockhaven la totalité des 5 $ par carte vendue qu'il recevait de Crusader.
+c) Aucun des appelants n'a présenté de preuve d'une quelconque expérience de commercialisation d'un produit dans un territoire définissable.
+d) Aucun des appelants n'a témoigné avoir l'intention de prendre quelque mesure que ce soit pour tirer des gains de la vente de cartes Quest Prestige dans les territoires désignés.
+e) Compte tenu de la preuve dont j'ai été saisi, je conclus qu'il était impossible de tirer un quelconque gain de la vente de cartes Quest Prestige parce que Crusader ne semblait avoir prévu aucun financement pour mener une campagne de vente. De plus, Crusader n'avait aucune source de rétribution pour ses services et semblait être dirigée par des personnes liées.
+f) Dans ses observations, l'avocat de l'intimée a affirmé que le projet des cartes Quest Prestige ne constituait pas une occasion d'affaires présentée à l'appelant, mais qu'il s'agissait plutôt d'une fraude de remboursement d'impôts commise contre ces particuliers. [Non souligné dans l'original.]
+[33] À la page 28 de ses observations écrites, l'avocat de l'intimée a énoncé ce qui suit :
+[TRADUCTION]
+[...] Il ne s'agit pas ici d'une entreprise qui a enregistré des pertes en raison de lacunes quant à sa mise sur pied ou de problèmes de gestion, et où le fisc remet en question le sens des affaires d'un contribuable. En fait, en l'espèce, aucune entreprise n'était exploitée. Il n'y avait aucune dépense d'entreprise. Il n'existe aucun fondement factuel pour les montants dont les appelants ont demandé la déduction. [...]
+Aperçu : Il semble que l'on ait trompé les appelants afin qu'ils pensent que Crusader s'occuperait de la commercialisation de la carte Quest à leur place. Le fait que les appelants pensaient avoir investi dans une occasion d'affaires ne suffit pas pour qualifier le projet de la carte Quest d'activité commerciale. Selon les témoignages des appelants et le fait que les promoteurs n'ont fourni aucune preuve, il est manifeste que les appelants ont été victimes d'une fraude. Quoi qu'il en soit, ils n'ont pas droit aux déductions demandées, parce qu'ils ne cherchaient pas à tirer profit d'une activité commerciale légitime. « Autrement dit, d'autres contribuables canadiens ne devraient pas avoir à supporter le fardeau financier créé par des circonstances aussi malheureuses que celles qui existent en l'espèce. »
+[34] À mon avis, pour les raisons ci-dessus, l'activité à laquelle participaient les quatre appelants, soit la vente de cartes Quest Prestige, ainsi que les activités de la société en commandite ne répondent pas au critère des normes objectives de comportement d'homme d'affaires sérieux énoncé dans l'arrêt Stewart.
+[35] À l'appui de ses observations, l'avocat de l'intimée renvoie aussi à diverses décisions de la Cour concernant des contribuables qui avaient investi dans de nombreux projets mis sur pied par un certain Henry N. Thill.
+[36] L'avocat de l'intimée a dit que la structure utilisée par M. Allen et les autres promoteurs de la carte Quest Prestige était pratiquement identique à celle utilisée par Henry N. Thill dans ses nombreux projets.
+[37] Une des principales décisions concernant Henry N. Thill citées par l'avocat de l'intimée est Moloney c. La Reine, no T‑1059‑85, 20 janvier 1989, 1989 C.T.C. 213. Dans cette décision, le juge Joyal de la Cour fédérale a conclu que la véritable intention de M. Moloney et des autres appelants n'était pas de participer à une occasion d'affaires qui pourrait s'avérer profitable, mais plutôt de bénéficier de la déduction d'impôt attrayante que leur offrait le stratagème.
+[38] Monsieur Moloney a interjeté appel de la décision rendue par la Cour fédérale à la Cour d'appel fédérale (voir Moloney c. La Reine, no A‑73‑89, 5 octobre 1992, 92 D.T.C. 6570).
+[39] Lorsqu'il a rejeté l'appel, le juge Hugessen a affirmé ce qui suit :
+Il est un principe élémentaire du droit que les contribuables peuvent structurer leurs affaires de manière à être assujettis au minimum d'impôt (voir Duke of Westminster, [1936] A.C. 1); toutefois, il est tout aussi évident à notre avis que, pour les contribuables, la réduction de leurs propres impôts ne peut en soi constituer une entreprise aux fins de la Loi de l'impôt sur le revenu. En d'autres termes, pour qu'une activité soit reconnue comme une « entreprise » dont les dépenses sont déductibles en vertu de l'alinéa 18(1)a), non seulement le contribuable doit-il s'y adonner avec une expectative raisonnable de profit, mais aussi faut-il s'attendre à ce que le profit en question découle de l'activité elle‑même et non pas exclusivement des dispositions de la loi fiscale.
+[Non souligné dans l'original.]
+[40] Plusieurs décisions de la Cour ont suivi l'arrêt Moloney. Je renvoie aux décisions suivantes où il est question de projets de Henry N. Thill :
+a) Bendall c. La Reine, no 93‑2854(IT)G, 3 janvier 1995, 96 D.T.C. 1626;
+b) La Liberté c. La Reine, no 93‑2360(IT)G, 17 juin 1996, 96 D.T.C. 1483;
+c) Schatroph c. Canada, no 93‑3087(IT)I, 16 avril 1997, [1997] 3 C.T.C. 2148;
+d) Burton c. La Reine, no 96‑1980(IT)G, 23 juillet 1998, 98 D.T.C. 2064;
+e) Lorenz c. Canada, no 95‑358(IT)G, 13 novembre 1996, [1997] 1 C.T.C. 2484;
+f) McPherson c. Canada, 2006 CCI 648.
+[41] Dans l'affaire Burton, le juge Beaubier a affirmé que l'appelant n'était pas en mesure d'exploiter une entreprise en vue d'en tirer un profit. Il a aussi affirmé que la transaction « s'agissait purement et simplement d'un stratagème conçu pour produire des pertes fiscales ».
+[42] J'ai examiné toutes les décisions citées ci-dessus ainsi que certaines autres décisions portant sur des stratagèmes fiscaux de Henry N. Thill. À mon avis, les décisions concernant M. Thill sont toujours valables juridiquement, malgré le fait que le critère de l'ERP ait été rejeté dans l'arrêt Stewart.
+[43] À mon avis, l'activité menée par l'appelant afin de devenir distributeur de cartes Quest Prestige, qu'elle ait été menée par lui-même ou par l'entremise de la société en commandite, ne constituait pas une source de revenu aux fins de l'article 9 de la Loi.
+II. Règles en matière d'abris fiscaux
+[44] L'article 143.2 de la Loi prévoit un rajustement du coût des dépenses relatives à un abri fiscal déterminé.
+[45] Le terme « abri fiscal déterminé » est défini au paragraphe 143.2(1) de la Loi. Un « abri fiscal déterminé » est un bien qui est un abri fiscal pour l'application du paragraphe 237.1(1) de la Loi, qui prévoit des exigences en matière d'inscription et de déclaration pour les « abris fiscaux ».
+[46] La société en commandite a demandé et reçu un numéro d'inscription d'abri fiscal, comme l'exige l'article 237.1 de la Loi, au titre de [TRADUCTION] « recherche et développement et carte de fidélisation de la clientèle » [pièce 2, onglet 2, formulaire T5001E]. L'article 143.2 de la Loi s'applique donc en l'espèce.
+[47] Le paragraphe 143.2(6) prévoit que, malgré les autres dispositions de la Loi, le calcul du montant d'une dépense qui représente un abri fiscal déterminé est, essentiellement, le montant de la dépense du contribuable avant l'application des règles, moins le total des montants suivants :
+(i) les montants à recours limité qu'il est raisonnable de considérer comme se rapportant à la dépense;
+(ii) le montant de rajustement à risque relatif à la dépense;
+(iii) chaque montant à recours limité et montant de rajustement à risque de chaque contribuable sans lien de dépendance avec le contribuable et détenteur d'une participation dans celui-ci qu'il est raisonnable de considérer comme se rapportant à la dépense.
+[48] La dépense concernant l'abri fiscal déterminé était les redevances de 20 000 $, qui ont été déclarées dans le formulaire T5003E, Sommaire des renseignements sur un abri fiscal.
+[49] Dans la décision Tolhoek c. Canada, 2006 CCI 681 (confirmée par l'arrêt 2008 CAF 128), le juge Campbell affirme que le principal impayé de certaines dettes à long terme est réputé être un montant à recours limité, sauf si toutes les exceptions prévues au paragraphe 143.2(7) de la Loi s'appliquent[2].
+[50] Les cinq premières exceptions devant être satisfaites sont énoncées à l'alinéa 143.2(7)a) de la Loi et sont résumées ci-dessous :
+1. arrangements conclus de bonne foi;
+2. constatés par écrit;
+3. conclus au moment où la dette est survenue;
+4. conclus pour que le débiteur rembourse la dette et les intérêts y afférents;
+5. dans une période raisonnable ne dépassant pas dix ans.
+[51] Les deux autres exceptions sont énoncées à l'alinéa 143.2(7)b) et sont citées par le juge Campbell au paragraphe 41 de sa décision :
+1. des intérêts payables au moins annuellement au taux prescrit;
+2. des intérêts payés au plus tard 60 jours suivant la fin de chacune des années d'imposition du débiteur qui se termine dans la période.
+[52] En l'espèce, le solde impayé de 15 000 $ des redevances par anticipation qui est dû en application de chaque accord de licence n'a pas été établi au moyen d'arrangements de remboursement conclus de bonne foi et aucun intérêt n'a été perçu sur ce solde impayé. À ce titre, la totalité des 15 000 $ serait considérée comme représentant le montant à recours limité et serait déduite de la dépense de 20 000 $.
+[53] Le paragraphe 143.2(2) de la Loi établit ce que signifie le terme « montant de rajustement à risque ». La disposition est rédigée en ces termes :
+(2) Montant de rajustement à risque – Pour l'application du présent article, le montant ou l'avantage qu'un contribuable, ou un autre contribuable avec qui il a un lien de dépendance, a le droit, immédiat ou futur et absolu ou conditionnel, de recevoir – sous forme de remboursement, de compensation, de garantie de recettes, de produit de disposition, de prêt ou d'autre forme de dette ou sous toute autre forme – et qui est accordé en vue de supprimer ou de réduire l'effet d'une perte que le contribuable peut subir relativement à la dépense ou, dans le cas où la dépense représente le coût ou le coût en capital d'un bien, d'une perte résultant du fait que le bien est détenu ou fait l'objet d'une disposition constitue un montant de rajustement à risque relatif à une dépense du contribuable. Le présent paragraphe ne s'applique pas au coût d'une participation dans une société de personnes à laquelle s'applique le paragraphe 96(2.2).
+[Non souligné dans l'original.]
+[54] En l'espèce, le montant de rajustement à risque serait la garantie de bonne exécution de 15 000 $ que Crusader avait promis d'établir, puisque l'appelant et la société en commandite avaient un droit conditionnel à ce montant en vue de supprimer ou de réduire l'effet d'une perte qui aurait pu découler de l'investissement.
+[55] En raison de l'application des règles en matière d'abris fiscaux, la dépense relative aux redevances par anticipation serait réduite à néant, donc aucune déduction ne pourrait être acceptée.
+[56] Également en raison de l'application des règles en matière d'abris fiscaux, il n'existe plus de dépense relative à l'investissement dans le projet des cartes Quest Prestige. Les observations et les dispositions énoncées aux alinéas c), d) et e) du paragraphe 23 ci-dessus ne s'appliquent donc plus.
+III. Droit de licence
+[TRADUCTION]
+Quand on fait une dépense non seulement une fois pour toutes, mais dans le but d'apporter un élément d'actif ou un avantage pour le bénéfice durable d'un commerce, je pense qu'il y a de très bonnes raisons (en l'absence de circonstances particulières conduisant à une conclusion contraire) de traiter une telle dépense comme si elle était à juste titre imputable non pas au revenu mais au capital. [British Insulated & Helsby Cables Ltd. v. Atherton, 10 T.C. 155, à la page 192].
+[57] L'accord de licence conclu avec Rockhaven prévoyait que l'appelant et la société en commandite devaient payer un droit de licence de 350 $. Étant donné l'avantage durable découlant de ce paiement unique (c.‑à‑d. une licence de 20 ans concernant la vente de cartes Quest Prestige dans des territoires désignés), le montant complet de 350 $ devrait être considéré comme une dépense en capital, et l'appelant et la société en commandite ne devraient pas avoir droit à une déduction courante en raison de l'application de l'alinéa 18(1)b) de la Loi.
+[58] Suivant l'annexe II du Règlement de l'impôt sur le revenu, la licence achetée de Rockhaven tomberait sous le coup de la catégorie 14 aux fins des règles en matière de déduction pour amortissement, et le montant de 350 $ qui a été payé doit donc être capitalisé et amorti sur la période de validité de l'accord de licence (soit sur 20 ans).
+IV. Pertes de la société
+[59] La preuve dont j'ai été saisi lors de l'audience me permet de conclure que la société en commandite ne participait pas à la coentreprise. En plus du fait que l'entente avait été conclue par Manhattan et IDC, l'investissement initial de 320 000 $, qui a par la suite été porté en charges, ce qui a donné lieu aux pertes, avait été fait par Manhattan. L'appelant n'a présenté aucune prétention écrite ou orale permettant de réfuter ceci.
+[60] À la suite de l'analyse des faits présentés par l'appelant, je conclus que ni l'appelant, ni la société en commandite, n'avaient droit à la déduction des pertes de la société qui leur avaient été attribuées.
+[61] Compte tenu des motifs énoncés ci-dessus, les appels sont rejetés, avec dépens.
+Signé à Toronto (Ontario), ce 2e jour de mai 2008.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 15e jour de septembre 2008.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2008CCI264
+N° DE DOSSIER : 2004-1650(IT)G
+INTITULÉ : Garret Madell et Sa Majesté la Reine
+LIEUX DES AUDIENCES : Calgary (Alberta)
+Vancouver (Colombie-Britannique) Edmonton (Alberta)
+DATE DES AUDIENCES : Les 11, 12 et 13 juillet 2007, le 3 août 2007 et le 19 septembre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge L.M. Little
+DATE DU JUGEMENT : Le 2 mai 2008
+COMPARUTIONS :
+Avocats de l'appelant :
+Me James G. Shea et Me Matt Clark
+Avocats de l'intimée :
+Me John O'Callaghan et Me Chang Du
+AVOCATS INSCRITS AU DOSSIER :
+Avocats de l'appelant :
+Noms : Me James G. Shea et Me Matt Clark
+Cabinet : Shea Nerland Calnan Calgary (Alberta)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Recueil conjoint de documents, vol. II, onglet 7.
+[2] Tolhoek c. Canada, 2006 CCI 681, paragraphe 14.

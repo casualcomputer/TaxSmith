@@ -1,0 +1,166 @@
+---
+title: "Alof c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29439/index.do"
+last_modified: "2009-10-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 494"
+citation2: ""
+neutral_citation: "2009 CCI 494"
+decision_date: "2009-10-01"
+language: "fr"
+item_id: "29439"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6930
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:30:21.199000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d1cad349f1204a76be8754200a3671a8d0296c4ee47d75a5d7ba7e29b560c963"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Alof c. La Reine
+
+- Citation: 2009 CCI 494
+- Decision date: 2009-10-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6930, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alof c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-10-01
+Référence neutre
+2009 CCI 494
+Numéro de dossier
+2008-110(GST)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-110(GST)I
+ENTRE :
+BASHAR ALOF,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 22 septembre 2009, à Halifax (Nouvelle‑Écosse).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Jill L. Chisholm
+____________________________________________________________________
+JUDGMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi sur la taxe d’accise dont l’avis de cotisation est daté du 2 août 2006 et est rejeté. Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 1er jour d’octobre 2009.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 13e jour de novembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 494
+Date : 20091001
+Dossier : 2008-110(GST)I
+ENTRE :
+BASHAR ALOF,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Bashar Alof a interjeté appel d’une cotisation établie en vertu de la Loi sur la taxe d’accise (la « Loi ») relativement à la taxe de vente harmonisée (la « TVH ») pour la période allant du 1er janvier au 31 décembre 2001. Le litige porte sur le montant net de taxe à payer relativement à l’exploitation d’une pizzéria pendant la période en cause.
+[2] La déclaration de TVH produite par l’appelant pour la période en cause fait état de ce qui suit : (1) des ventes totalisant 82 000 $, (2) un versement de TVH s’élevant à 3 500 $, (3) une demande de crédits de taxe sur les intrants (les « CTI ») de 10 295,16 $. L’appelant a aussi demandé un remboursement de 6 795,16 $, montant qui représente la différence entre les CTI demandés et la TVH.
+[3] Dans la cotisation en cause, le ministre du Revenu national (le « ministre ») a refusé la demande de remboursement en réduisant les CTI auxquels l’appelant a droit de 6 795,16 $. Dans l’avis de ratification, le ministre a expliqué que cela avait été fait parce que l’appelant n’avait pas appuyé sa demande de CTI avec des éléments de preuve adéquats.
+[4] Les raisons pour lesquelles l’appelant a porté la cotisation en appel sont exposées de la façon suivante dans l’avis d’appel :
+[traduction]
+Les ventes déclarées représentent plus du double des ventes véritables. Les documents justificatifs ont été détruits dans un incendie qui a rasé mon commerce et ma résidence.
+[5] Le passage précité montre assez clairement que l’appelant a soulevé deux questions distinctes : les ventes et les CTI. Je traiterai séparément chacune de ces questions.
+Discussion
+[6] Au début de l’audience, j’ai soulevé la question du fardeau de la preuve, car la réponse à l’avis d’appel du ministre ne traite pas des ventes. De plus, la réponse ne contient aucune hypothèse de fait du ministre relativement aux ventes ou aux fournitures taxables.
+[7] Malgré ce dont fait état la réponse à l’avis d’appel, il est probable que lorsqu’il a établi la cotisation, le ministre a présumé que les fournitures taxables faites par l’appelant étaient suffisantes pour qu’il doive percevoir 3 500 $ de TVH. Néanmoins, la jurisprudence établit clairement que c’est le ministre qui a le fardeau de preuve initial quant aux faits pour lesquels la réponse à l’avis d’appel ne comporte aucune hypothèse. La récente décision du juge Webb dans LeCaine c. La Reine, 2009 CCI 382, résume très bien la jurisprudence sur le sujet.
+[8] Pour les raisons exposées ci‑après, je suis d’avis que l’intimée s’est déchargée de son fardeau initial à l’égard de la question des ventes, du moins, suffisamment pour que le fardeau incombe maintenant à l’appelant.
+[9] Je tiens d’abord à préciser que les fournitures taxables équivalant à un montant de TVH de 3 500 $ sont d’environ 23 000 $. J’ai basé mon calcul sur le témoignage du vérificateur de l’Agence du revenu du Canada voulant que le taux de TVH applicable était de 15 %.
+[10] La question est donc la suivante : la preuve déposée devant moi me permet‑elle de conclure que l’appelant a probablement fait des fournitures taxables d’au moins 23 000 $ pendant la période de déclaration 2001?
+[11] Le vérificateur a témoigné que l’appelant avait déclaré des montants de TVH de 11 380 $, 11 072 $ et 8 370 $ pour les trois années précédant 2001. Ces montants annuels de TVH correspondent à des fournitures taxables dépassant largement 23 000 $. De plus, dans sa déclaration de TVH pour la période en cause, l’appelant a déclaré des ventes s’élevant à 82 000 $.
+[12] La preuve m’a convaincue qu’à cause d’un incendie, la pizzéria a seulement été exploitée pendant une partie de l’année 2001. Certains éléments de preuve donnent aussi à penser que l’appelant a mené des négociations avec son assureur au sujet de l’indemnité d’assurance des pertes d’exploitation appropriée.
+[13] La preuve ne permet pas d’être certain du moment où l’incendie a eu lieu, mais je suis d’avis que l’incendie s’est probablement déclaré le 24 juillet 2001.
+[14] L’appelant a dit que l’entreprise de vente de pizzas n’a jamais repris ses activités après l’incendie. Quoique le témoignage de l’appelant n’ait pas été très convaincant à plusieurs égards, j’admets que l’appelant n’a fait aucune fourniture taxable entre le 24 juillet 2001 et la fin de l’année 2001.
+[15] Compte tenu de l’ensemble de ces faits, il semble raisonnable de conclure que les fournitures taxables faites en 2001 s’élevaient probablement à au moins 23 000 $ et que la TVH à percevoir était d’au moins 3 500 $.
+[16] À mon avis, ces conclusions sont suffisantes pour imposer à l’appelant le fardeau de prouver que les fournitures taxables qu’il a faites en 2001 étaient inférieures à 23 000 $.
+[17] Comme je l’ai déjà dit, la déclaration de TVH de l’appelant fait état de ventes de 82 000 $, ce qui dépasse largement 23 000 $.
+[18] L’appelant a laissé entendre que certains des produits qu’il avait vendus n’étaient pas taxables, par exemple des pizzas non cuites. Cette explication ne m’a pas convaincue. Le témoignage de l’appelant au sujet de la vente de pizzas non cuites était beaucoup trop vague pour être convaincant. De plus, bien qu’une photographie d’une pizza non cuite ait été déposée en preuve, la preuve quant au moment où elle a été prise était insuffisante.
+[19] Par conséquent, j’ai conclu qu’il n’est pas opportun de rajuster les montants de la taxe nette pour les ventes ou de la TVH à payer.
+[20] Je me pencherai maintenant sur la question des CTI.
+[21] Pour que les CTI demandés par l’appelant puissent être inclus dans le calcul de la taxe nette à payer, il faut qu’il soit démontré que l’appelant a engagé des dépenses admissibles suffisantes pour justifier les CTI demandés. De même, il faut qu’il soit établi que l’appelant s’est conformé aux exigences documentaires du paragraphe 169(4) de la Loi.
+[22] Lorsqu’il a établi la cotisation, le ministre s’est fondé sur l’hypothèse de fait suivante :
+[traduction]
+j) les crédits de taxe sur les intrants auxquels l’appelant a droit pour la période visée par l’appel ne peuvent pas être déterminés à partir de ses livres et registres.
+[23] Cette hypothèse aurait pu être mieux formulée, mais il est clair que la cotisation a été établie en tenant compte du fait que l’appelant avait demandé 6 795,16 $ de CTI en trop. Comme l’a révélé le témoignage du vérificateur, le montant des CTI refusés était arbitraire, et l’appelant a eu droit au bénéfice du doute pour le reste des CTI qu’il avait demandés.
+[24] À l’audience, l’appelant a soutenu ne pas savoir que la question des exigences documentaires relatives aux CTI était en litige. Cette explication ne m’a pas convaincue. J’ai remarqué que l’avis d’appel de l’appelant incluait l’avis de ratification que lui avait envoyé le ministre, et que cet avis de ratification précisait que l’absence de documents justificatifs était une des raisons du refus des CTI en cause. Selon ce que j’ai pu observer à l’audience, l’appelant est une personne très intelligente. J’ai conclu qu’il savait que la question des exigences documentaires était en litige.
+[25] À l’audience, l’appelant a témoigné avoir perdu tous les documents pertinents à l’affaire dans l’incendie.
+[26] Même si cela était vrai, l’appelant ne serait pas en meilleure posture. Au minimum, l’appelant aurait dû présenter un témoignage détaillé et cohérent au sujet des dépenses pour lesquelles il a demandé des CTI. Dans son ensemble, le témoignage de l’appelant était évasif, vague et loin d’être suffisamment détaillé.
+[27] De plus, l’appelant a dit qu’il avait communiqué avec certains fournisseurs et qu’il avait obtenu des copies de certains documents. L’appelant n’a cependant pas présenté ces éléments de preuve à l’audience.
+[28] Compte tenu de cette conclusion‑là, il n’est pas nécessaire de traiter des exigences documentaires du paragraphe 169(4) de la Loi.
+[29] L’appel est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 1er jour d’octobre 2009.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 13e jour de novembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 494
+No DU DOSSIER DE LA COUR :
+2008-110(GST)I
+INTITULÉ :
+Bashar Alof et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE :
+Le 22 septembre 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge J. M. Woods
+DATE DU JUGEMENT :
+Le 1er octobre 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Jill L. Chisholm
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

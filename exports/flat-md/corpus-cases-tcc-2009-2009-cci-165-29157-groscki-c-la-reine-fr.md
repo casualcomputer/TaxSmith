@@ -1,0 +1,117 @@
+---
+title: "Groscki c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29157/index.do"
+last_modified: "2009-01-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 165"
+citation2: ""
+neutral_citation: "2009 CCI 165"
+decision_date: "2009-01-28"
+language: "fr"
+item_id: "29157"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6717
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:15:16.354000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cfcecfc1a9d794ea68ea0f4a2a0fd176fd31c9bb6450c0bb8ac5a7506c60686d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Groscki c. La Reine
+
+- Citation: 2009 CCI 165
+- Decision date: 2009-01-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6717, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Groscki c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-28
+Référence neutre
+2009 CCI 165
+Numéro de dossier
+2008-1645(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2009CCI165
+Date : 20090324
+Dossier : 2008-1645(IT)I
+ENTRE :
+JOHN F. GROSCKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Pour l’appelant : L’appelant lui‑même
+Avocats de l’intimée : Mes Saba Zarghami et Laurent Bartleman
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience
+à Toronto (Ontario), le 28 janvier 2009.)
+Le juge Miller
+[1] Le présent appel est accueilli et l’affaire est renvoyée au ministre du Revenu national (le « ministre ») pour qu’il l’examine de nouveau et établisse une nouvelle cotisation conformément aux présents motifs. Premièrement, comme les parties en ont convenu, l’appelant a droit a une déduction additionnelle de 30 752 $ pour frais d’intérêt; deuxièmement, les frais de déplacement de 21 357 $ que l’appelant a déduits de son revenu sont bien déductibles. En ce qui concerne le reste de la cotisation, tout me semble correct.
+[2] En l’espèce, les deux seuls éléments sur lesquels je dois me prononcer concernent les frais de déplacement que M. Groscki a engagés ainsi que les créances irrécouvrables qu’il a déclarées. La preuve présentée par M. Groscki m’a convaincu que ses déclarations relatives à ses nombreux impératifs de déplacement, liés à son poste de CA, représentaient mieux la réalité que ne le faisaient les rajustements effectués par le vérificateur et par l’agent des appels. J’ai compris que le montant des dépenses en tant que tel n’était pas en cause, le litige portant plutôt sur une question d’utilisation à des fins personnelles ou professionnelles.
+[3] Je note que M. Groscki ne m’a pas fourni de registre ou de relevé détaillé de ses dépenses, mais j’accepte son témoignage oral relatif aux kilomètres parcourus par chaque véhicule, et je conclus que le pourcentage d’utilisation de chaque véhicule à des fins professionnelles est raisonnable compte tenu des circonstances. Par conséquent, j’accueille l’appel à cet égard.
+[4] La seconde question dont je suis saisi porte sur la somme de 12 000 $ en créances irrécouvrables que M. Groscki a déduite dans sa déclaration de revenu. Celui‑ci a calculé ce montant en établissant une allocation pour créances douteuses pour la première année et pour la deuxième année, et en calculant l’écart. Quand l’agent des appels a tenté d’expliquer à M. Groscki qu’une telle somme n’était pas une créance irrécouvrable aux fins de l’impôt sur le revenu, mais plutôt une augmentation de l’allocation pour créances douteuses, M. Groscki a accusé l’agent des appels de ne pas savoir ce dont il parlait. Si je puis me permettre, c’était tout à la fois injuste et inexact.
+[5] Je voudrais revenir sur un court extrait du commentaire de CCH, que je vous ai déjà lu, mais que je souhaite voir figurer dans mes motifs :
+[traduction]
+Étant donné que de nombreux contribuables tiennent leurs comptes selon la méthode de la comptabilité d’exercice, et qu’ils incluent par conséquent dans leur revenu les comptes client pour lesquels ils n’ont pas encore reçu de paiement, il est évident qu’il faut prévoir des dispositions relativement aux déductions pour créances douteuses ou qui se sont avérées irrécouvrables. Le système mis en place par la Loi de l’impôt sur le revenu en ce qui a trait aux créances irrécouvrables ou douteuses ne peut être défini qu’en lisant conjointement les alinéas 20(1)l) et 20(1)p) avec les alinéas 12(1)d) et 12(1)i). L’alinéa 20(1)l) prévoit qu’un contribuable peut déduire un montant raisonnable au titre de provisions pour certaines créances douteuses.
+L’alinéa 20(1)p) prévoit qu’un contribuable peut inclure dans le calcul de son revenu un montant au titre de provisions pour créances douteuses enregistrées l’année antérieure. Par conséquent, il doit y avoir une réévaluation annuelle des créances douteuses d’une entreprise afin d’effectuer une déduction nette pour chaque année. Quand une créance n’est plus douteuse mais s’avère finalement irrécouvrable, elle est déductible en vertu de l’alinéa 20(1)p).
+Les dispositions de la Loi de l’impôt sur le revenu (la « Loi ») permettent d’opérer une distinction claire entre une provision pour créance douteuse et des créances irrécouvrables. Il ne s’agit clairement pas de la même chose.
+[6] L’appelant s’est contenté d’établir le montant de ses créances douteuses, ce qui a donné lieu à une déduction de 12 000 $ pour l’année d’imposition 2002, mais il ne s’agit pas d’une déduction pour créance irrécouvrable au sens de la Loi. Si je devais accueillir le présent appel à cet égard, cela aurait pour effet de cautionner une méthodologie inacceptable en ce qui concerne la déductibilité des créances irrécouvrables telles qu’elles doivent apparaître dans les déclarations d’impôt sur le revenu.
+[7] Le contribuable qui fait un effort raisonnable pour évaluer ses créances douteuses a le droit de déduire de tels montants pour une année donnée, mais il doit inclure ces montants dans son revenu l’année suivante. En l’espèce, M. Groscki doit convaincre l’Agence du revenu du Canada qu’il a inclus 226 000 $ dans son revenu en 2002, que la somme de 238 000 $ constitue une estimation raisonnable de ses créances douteuses pour 2002, et qu’il aurait donc dû pouvoir déduire la somme de 238 000 $ de son revenu. Au lieu de cela, M. Groscki soutient avoir des créances irrécouvrables s’élevant à 12 000 $, ce qui, je le répète, n’est pas la même chose. Considérant les commentaires de M. Groscki, je m’interroge quant à savoir où il serait supposé apporter un tel rajustement à la provision sur une T1. Ce n’est certainement pas en déclarant ces montants en tant que créances irrécouvrables.
+[8] L’état des résultats des activités d’une profession libérale ne comprend pas de ligne où déclarer les provisions déduites pour les années antérieures. Quand on examine ce formulaire, il est question du revenu, des honoraires, moins un certain nombre d’éléments, plus les travaux en cours, avant d’arriver à la ligne « Provisions déduites l’année précédente ». Ainsi, le formulaire en fait mention, mais sans aller plus loin. Il serait utile de disposer d’une ligne où indiquer le montant de la déduction au titre des provisions pour l’année courante, et je suggèrerais fortement au ministère des Finances de se pencher sur la question[1].
+[9] Toutefois, la question dont je suis saisi ne consiste pas à savoir si M. Groscki a correctement calculé le montant de la provision pour créances douteuses, mais plutôt de savoir s’il a établi qu’il avait des créances irrécouvrables s’élevant à 12 000 $ en 2002. Il ne m’a fourni aucune preuve concernant des créances irrécouvrables pour cette année‑là. J’espère qu’à l’avenir, ses déclarations seront produites conformément aux exigences de la Loi, afin qu’il puisse se prévaloir des déductions auxquelles il a effectivement droit.
+Signé à Ottawa, Canada, ce 24e jour de mars 2009.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 28e jour d’avril 2009.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2009CCI165
+NO DU DOSSIER DE LA COUR : 2008-1645(IT)I
+INTITULÉ : John F. Groscki et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 28 janvier 2009
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 6 février 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocats de l’intimée :
+Mes Saba Zarghami et Laurent Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Après avoir examiné le guide de préparation du formulaire T1 publié par l’Agence du revenu du Canada, le gouvernement suggère que les provisions pour créances douteuses de l’année courante figurent à la ligne « Autres dépenses ».

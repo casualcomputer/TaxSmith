@@ -1,0 +1,130 @@
+---
+title: "Echum c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30565/index.do"
+last_modified: "2011-10-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 489"
+citation2: ""
+neutral_citation: "2011 CCI 489"
+decision_date: "2011-10-26"
+language: "fr"
+item_id: "30565"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7306
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:31:15.538000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4f22e2c071c1f5e3ad0a036b8b6748a67447a2017d57ff029bdc7126838d03fc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Echum c. La Reine
+
+- Citation: 2011 CCI 489
+- Decision date: 2011-10-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7306, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Echum c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-10-26
+Référence neutre
+2011 CCI 489
+Numéro de dossier
+2007-2974(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-2974(IT)I
+ENTRE :
+CHARLENE ECHUM,
+appelante
+et
+SA MAJESTÉ LA REINE,
+intimée
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Devant : L’honorable juge G. A. Sheridan
+____________________________________________________________________
+ORDONNANCE
+Attendu que l’appelante, Charlene Echum, a demandé l’annulation du rejet de ses appels interjetés sous le régime de la procédure informelle pour les années d’imposition 2004, 2005, 2006 et 2007 en vertu de l’article 18.21 de la Loi sur la Cour canadienne de l’impôt;
+Après avoir examiné les facteurs pertinents énoncés dans la lettre de l’appelante à la lumière des critères pour l’annulation d’une ordonnance de rejet en vertu des alinéas 18.21(3) a) et b) de la Loi;
+Et n’ayant pas été convaincue que l’appelante ait prouvé qu’« il aurait été déraisonnable dans toutes les circonstances » qu’elle ait assisté à l’audience;
+LA COUR ORDONNE que la demande de l’appelante visant l’annulation de l’ordonnance datée du 15 septembre 2011 soit rejetée conformément aux motifs de l’ordonnance ci-joints.
+Signée à Toronto, Ontario, ce 26e jour d’octobre 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Citation : 2011CCI489
+Date : 20111026
+Dossier : 2007-2974(IT)I
+ENTRE :
+CHARLENE ECHUM,
+appelante
+et
+SA MAJESTÉ LA REINE,
+intimée
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Sheridan
+[1] Par l’entremise d’une lettre datée du 11 octobre 2011, l’appelante a demandé à la Cour d’annuler une ordonnance rejetant ses appels en vertu du paragraphe 18.21(1) de la Loi sur la Cour canadienne de l’impôt. Comme les appels ont été instruits sous le régime de la procédure informelle, il était approprié de traiter sa lettre comme une demande d’annulation de l’ordonnance de rejet comme le prévoit le paragraphe 18.21(2). Pour que soit accordée une telle ordonnance, l’appelante doit satisfaire aux critères énumérés aux alinéas a) et b) du paragraphe 18.21(3) :
+(3) La Cour peut annuler une ordonnance de rejet fait en vertu du paragraphe (1) quand
+a) compte tenu de toutes les circonstances, il n’était pas raisonnable de s’attendre à ce que l’appelant soit présent à l’audition; et
+b) l’appelant a présenté sa demande d’annulation dès que cela a été possible, compte tenu des circonstances, mais dans tous les cas au plus tard cent quatre-vingts jours suivants la date de l’envoi par la poste de l’ordonnance rejetant son appel.
+[2] J’accepte l’explication fournie par l’appelante selon laquelle des problèmes de santé affectant des membres de sa famille dans les jours qui ont suivi le rejet de ses appels l’ont empêchée de faire sa demande d’annulation du rejet de ses appels avant le 11 octobre 2011. Ainsi, je conclus qu’elle a satisfait aux délais prévus à l’alinéa 18.21(3) b) de la Loi. Cependant, après l’examen attentif des motifs de son absence et l’examen du dossier de la Cour concernant la poursuite de ses appels, je suis loin d’être convaincue qu’« il aurait été déraisonnable dans toutes les circonstances » qu’elle ait assisté à l’audience au sens de l’alinéa 18.21(3) a) de la Loi.
+[3] Ces appels font partie d’une série d’appels concernant des contribuables qui ont été placés auprès d’employeurs tiers par une agence connue sous le nom de Native Leasing Services. Un avis d’appel a été déposé par Native Leasing Services au nom de l’appelante le 3 mai 2007. Comme à son habitude, Native Leasing Services a déposé un avis d’appel générique qui ne donne aucun détail sur les circonstances d’emploi de l’appelante. L’appelante aurait été cependant au courant des appels puisque, le mois suivant, elle a déposé une demande de dispense de frais pour les droits de dépôts encourus par la procédure informelle, dans laquelle elle a fourni des détails sur sa situation financière personnelle. Sa requête a été dûment accordée le 29 juin 2007.
+[4] Rien de plus ne s’est passé avant le 11 janvier 2010, quand l’avocat qui travaillait alors pour Native Leasing Services a déposé un avis d’appel modifié au nom de l’appelante. La seule modification apportée était l’ajout à l’appel des cotisations pour deux autres années d’imposition.
+[5] Plus d’un an plus tard, en mars 2011, la Cour a ordonné une audience sur l’état de l’instance pour déterminer les intentions de l’appelante aux égards des appels. La Cour a émis un avis d’audience mettant l’affaire au rôle pour audition à Timmins, Ontario le 18 avril 2011.
+[6] Le 5 avril 2011, l’appelante a demandé l’ajournement de l’audience pour des raisons médicales; l’affaire a été ajournée au 19 avril 2011. L’appelante s’est représentée elle-même devant l’honorable juge D’Arcy qui, à l’aide d’une ordonnance datée du 5 mai 2011, a fixé les dates pour poursuivre les appels. En plus de fixer des dates limites pour le dépôt de l’avis d’appel modifié et de la réponse à celui-ci, l’ordonnance a fixé l’audition de l’appel au 12 septembre 2011 à Timmins, en Ontario.
+[7] L’appelante a dûment déposé son avis d’appel modifié dans les délais prescrits. Au premier paragraphe de l’avis d’appel modifié, l’appelante a fait référence spécifiquement à la date de l’audience du 12 septembre 2011. Alors qu’aucun détail supplémentaire sur son emploi avec l’agence de placement n’était toujours pas fourni, l’avis d’appel modifié incluait des traités génériques sur les droits ancestraux, sans toutefois expliquer en quoi ils concernent les circonstances particulières de l’appelante.
+[8] La réponse à l’avis d’appel modifié de l’intimée a été déposée et signifiée à l’appelante le 29 juin 2011. Dans sa lettre de présentation à l’appelante, l’avocate de l’intimée mentionne que l’avis d’appel modifié semblait soulever des questions constitutionnelles. Après avoir tout d’abord reconnu qu’elle n’était pas en position de fournir des conseils juridiques à l’appelante, l’avocate l’a informée de certaines exigences législatives relatives à ce genre de plaidoiries et l’a avisé qu’elle avait l’intention de demander à la Cour de convoquer une conférence téléphonique pour que les parties puissent [traduction] « discuter pour déterminer s’il n’y a pas d’autres démarches qu’elle [l’appelante] devrait prendre avant l’audience de son appel prévue pour la semaine du 12 septembre 2011 ».
+[9] La demande de l’avocate a été dûment présentée et, dans une lettre datée du 20 juillet 2011, la Cour a envoyé un avis aux parties pour une conférence téléphonique prévue le 3 août 2011 vers 11 h. Le jour désigné, personne ne s’est présenté pour l’appelante. Il n’y a rien dans le dossier de la Cour qui indique que l’appelante n’avait pas reçu l’avis ou qu’elle avait communiqué avec la Cour pour demander que la conférence téléphonique ait lieu à un autre moment.
+[10] Le 1er septembre 2011, l’intimée a signifié à l’appelante un dossier de requête, à présenter le 12 septembre 2011, soit la date fixée pour l’audience des appels de l’appelante, dans lequel l’intimée déclare, entre autres, son intention d’obtenir une ordonnance de rejet en raison des retards dans la poursuite des appels causés par l’appelante.
+[11] Le 12 septembre 2011, l’affaire a été fixée pour audition à Timmins, en Ontario. Encore une fois, personne ne s’est présenté pour l’appelante. D’autres affaires étaient fixées à la même date et la Cour est demeurée en séance jusqu’à approximativement 13 h 30. Pendant cette période, personne ne s’est présenté pour l’appelante et aucun appel n’a été fait pour expliquer cette absence.
+[12] C’est dans ce contexte que l’absence de l’appelante à l’audience du 12 septembre 2011 doit être prise en compte. Selon la lettre de l’appelante datée du 11 octobre 2011, les motifs de son absence sont qu’elle vivait tellement de stress qu’elle a oublié l’audition; ou bien qu’elle n’avait personne pour garder ses enfants.
+[13] Laissant de côté la contradiction inhérente dans ces explications, la justification d’absence de l’appelante ne satisfait pas aux exigences d’annulation de l’ordonnance de rejet. Bien que je sois sensible aux descriptions de travail de l’appelante et de la pression exercée par la famille, il ressort clairement du dossier que ses appels sont en cours depuis des années et qu’elle s’occupe personnellement de la poursuite de ses appels. Dans les mois qui ont précédé les appels, plusieurs références ont été faites à la date de l’audience, le 12 septembre 2011. Dans les limites de leurs fonctions respectives, les avocates de l’intimée et de la Cour ont fait des efforts pour assister l’appelante dans les aspects procéduraux de ses appels, en particulier juste avant la date de l’audience. L’appelante savait qu’il était possible de faire une demande d’ajournement puisqu’elle en a fait une auparavant. Elle indique dans sa lettre que c’est en juillet et en août 2011 qu’elle a commencé à éprouver des difficultés relativement aux responsabilités parentales et aux changements dans son environnement de travail, pourtant elle n’a quand même pas demandé que l’audience soit repoussée. En dépit des conseils pertinents qu’on lui a transmis dans la lettre du 29 juin 2011, l’appelante n’a pas participé à la conférence téléphonique de gestion de l’instance convoquée le 2 août 2011, près d’un mois avant la date de l’audience.
+[14] Plusieurs contribuables qui se représentent eux-mêmes font face à des problèmes semblables à ceux décrits par l’appelante et réussissent quand même à se souvenir de leur date d’audience ou à trouver quelqu’un pour prendre soin de leurs enfants à la date fixée. Je suis aussi consciente du fait que se déplacer jusqu’aux audiences tenues à Timmins, Ontario, peut être très coûteux, un coût assumé par tous les contribuables au Canada. L’audience du 12 septembre 2011 était la deuxième séance prévue à cet endroit à l’avantage de l’appelante. Bien que la Cour prenne toutes les mesures nécessaires pour accommoder les contribuables, peu importe où ils vivent dans ce grand pays, ce privilège vient avec la responsabilité de respecter ses obligations relativement à leurs appels. À mon avis, l’appelante n’a pas tenu sa part du marché.
+[15] Dans ces circonstances, je ne suis pas convaincue que l’appelante satisfait aux exigences étayées à l’alinéa 18.21(3) a) et, par conséquent, je rejette sa demande d’annulation de l’ordonnance de rejet du 15 septembre 2011.
+Signée à Toronto (Ontario), ce 26e jour d’octobre 2011.
+« G. A. Sheridan »
+Juge Sheridan
+CITATION : 2011CCI489
+NO DU DOSSIER DE LA COUR : 2007-2974(IT)G
+INTITULÉ : CHARLENE ECHUM ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+DATE DE L’AUDIENCE :
+MOTIFS DE L’ORDONNANCE : L’honorable juge G.A. Sheridan
+DATE DE L’ORDONNANCE : Le 26 octobre 2011
+COMPARUTIONS :
+Pour l’appelante :
+Avocat de l’intimée :
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous procureur général du Canada
+Ottawa (Canada)

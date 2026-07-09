@@ -1,0 +1,187 @@
+---
+title: "Vollmer v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30279/index.do"
+last_modified: "2011-03-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 174"
+citation2: ""
+neutral_citation: "2011 TCC 174"
+decision_date: "2011-03-21"
+language: "en"
+item_id: "30279"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7988
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:45:07.328000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8d05dc8022dd9e9f1f09d5877102c0f8200a54776ff89ca5136e97cbeaf8414a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vollmer v. The Queen
+
+- Citation: 2011 TCC 174
+- Decision date: 2011-03-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7988, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vollmer v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-21
+Neutral citation
+2011 TCC 174
+File numbers
+2010-2487(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2487(IT)I
+BETWEEN:
+WILLIAM M. VOLLMER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 19, 2011, at Edmonton, Alberta
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Adam Gotfried
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2008 taxation year is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 21st day of March 2011.
+“L.M. Little”
+Little J.
+Citation: 2011 TCC 174
+Date: 20110321
+Docket: 2010-2487(IT)I
+BETWEEN:
+WILLIAM M. VOLLMER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellant, William M. Vollmer, Patricia Lynn Vollmer (hereinafter referred to as “Patricia”), Angelina Jones, Erin Jones and Benjamin Vollmer, currently reside together in Edmonton, Alberta (the above individuals are referred to as the “Family”).
+[2] Dylan and Devon Vollmer reside with their mother in London, Ontario.
+[3] Angelina Jones and Erin Jones are the Appellant’s step-daughters (hereinafter referred to as “Angelina” and “Erin”).
+[4] Prior to July 2008, the Family was living in London, Ontario.
+[5] The Family moved from London, Ontario to Edmonton, Alberta in 2008.
+[6] The Appellant began his new employment with Telus Communications, in Edmonton, Alberta on June 30, 2008.
+[7] Patricia’s former husband, Michael Jones (“Michael”) filed a Notice of Motion in the Superior Court of Ontario. Patricia’s former husband was seeking to restrain Patricia and the Family from moving their two daughters, Angelina and Erin, to Edmonton, Alberta.
+[8] Patricia filed a Defence to dispute the Notice of Motion.
+[9] The Defence filed in Court by Patricia was successful. However, Patricia and the Appellant incurred legal fees of $25,641.
+[10] The Appellant determined that the legal fees of $25,641 constituted moving expenses (“Moving Expenses”) and he deducted the Moving Expenses when he filed his income tax return for the 2008 taxation year.
+B. ISSUE
+[11] The issue to be decided is whether the Appellant is entitled to treat the legal fees of $25,641 as Moving Expenses and deduct this amount in determining his income for the 2008 taxation year.
+C. ANALYSIS
+[12] The relevant legislation is found in section 62 of the Income Tax Act (the “Act”).
+[13] Section 62 of the Act reads as follows:
+62(1) Moving expenses. There may be deducted in computing a taxpayer’s income for a taxation year amounts paid by the taxpayer as or on account of moving expenses incurred in respect of an eligible relocation, to the extent that
+(a) there were not paid on the taxpayer’s behalf in respect of, in the course of or because of, the taxpayer’s office or employment;
+(b) they were not deductible because of this section in computing the taxpayer’s income for the preceding taxation year;
+(c) the total of those amounts does not exceed
+(i) in any case described in subparagraph (a)(i) of the definition “eligible relocation” in subsection 248(1), the taxpayer’s income for the year from the taxpayer’s employment at a new work location or from carrying on the business at the new work location, as the case may be, and
+(ii) in any case described in subparagraph (a)(ii) of the definition “eligible relocation” in subsection 248(1), the total of amounts included in computing the taxpayer’s income for the year because of paragraphs 56(1)(n) and (o); and
+(d) all reimbursements and allowances received by the taxpayer in respect of those expenses are included in computing the taxpayer’s income.
+(2) Moving expenses of students. There may be deducted in computing a taxpayer’s income for a taxation year the amount, if any, that the taxpayer would be entitled to deduct under subsection (1) if the definition “eligible relocation” in subsection 248(1) were read without reference to subparagraph (a)(i) of that definition and if the word “both” in paragraph (b) of that definition were read as “either or both”.
+(3) Definition of “moving expenses”. In subsection (1), “moving expenses” includes any expense incurred as or on account of
+(a) travel costs (including a reasonable amount expended for meals and lodging), in the course of moving the taxpayer and members of the taxpayer’s household from the old residence to the new residence,
+(b) the cost to the taxpayer of transporting or storing household effects in the course of moving from the old residence to the new residence,
+(c) the cost to the taxpayer of meals and lodging near the old residence or the new residence for the taxpayer and members of the taxpayer’s household for a period not exceeding 15 days,
+(d) the cost to the taxpayer of cancelling the lease by virtue of which the taxpayer was the lessee of the old residence,
+(e) the taxpayer’s selling costs in respect of the sale of the old residence,
+(f) where the old residence is sold by the taxpayer or the taxpayer’s spouse or common-law partner as a result of the move, the cost to the taxpayer of legal services in respect of the purchase of the new residence and of any tax, fee or duty (other than any goods and services tax or value-added tax) imposed on the transfer or registration of title to the new residence, and
+(g) interest, property taxes, insurance premiums and the cost of heating and utilities in respect of the old residence, to the extent of the lesser of $5,000 and the total of such expenses of the taxpayer for the period
+(i) throughout which the old residence is neither ordinarily occupied by the taxpayer or by any other person who ordinarily resided with the taxpayer at the old residence immediately before the move nor rented by the taxpayer to any other person, and
+(ii) in which reasonable efforts are made to sell the old residence, and
+(h) the cost of revising legal documents to reflect the address of the taxpayer’s new residence, of replacing drivers’ licenses and non-commercial vehicle permits (excluding any cost for vehicle insurance) and of connecting or disconnecting utilities,
+but, for greater certainty, does not include costs (other than costs referred to in paragraph (f)) incurred by the taxpayer in respect of the acquisition of the new residence.
+[14] The definition of “eligible relocation” is found in subsection 248(1) of the Act:
+“eligible relocation” means a relocation of a taxpayer where
+(a) the relocation occurs to enable the taxpayer
+(i) to carry on a business or to be employed at a location in Canada (in section 62 and this subsection referred to as “the new work location”), or
+(ii) to be a student in full-time attendance enrolled in a proram at a post-secondary level at a location of a university, college or other educational institution (in section 62 and this subsection referred to as “the new work location”),
+(b) both the residence at which the taxpayer ordinarily resided before the relocation (in section 62 and this subsection referred to as “the old residence”) and the residence at which the taxpayer ordinarily resided after the relocation (in section 62 and this subsection referred to as “the new residence”) are in Canada, and
+(c) the distance between the old residence and the new work location is not less than 40 kilometres greater than the distance between the new residence and the new work location
+except that, in applying subsections 6(19) to (23) and section 62 in respect of a relocation of a taxpayer who is absent from but resident in Canada, this definition shall be read without reference to the words “in Canada” in subparagraph (a)(i), and without reference to paragraph (b);
+[15] There are several Court decisions which deal with expenses other than those which are listed in subsection 62(3) of the Act.
+[16] In Fardeau v The Queen, Associate Chief Justice Bowman (as he then was) held that moving expenses had to be actually incurred, and that the category did not include damage to or loss of personal property as a result of the move.[1]
+[17] Similarly, in Rath v The Queen, Chief Justice Thurlow of the Federal Court of Appeal held that the losses occasioned by a fire at the storage facility where the appellant’s belongings were stored during his move were “simply not moving expenses within the ordinary meaning of that expression.”[2]
+[18] In Séguin v The Queen,[3] which was decided before the addition of paragraph 62(3)(g) of the Act, dealt with an attempt by Mr. Séguin to deduct mortgage interest paid on the old residence as a moving expense. In the decision at first instance, Deputy Judge Somers of the Tax Court allowed the deduction. Deputy Judge Somers adopted a purposive reading of section 62 (the purpose being to encourage labour mobility), and held that the cost of cancelling a lease was deductible under paragraph 62(3)(d). The Federal Court of Appeal disagreed with this approach, and said that, although the list in subsection 62(3) is not exhaustive and the purpose of the provision is to encourage labour mobility, not all moving expenses are deductible.[4] The Court also rejected any analogy between the cost of breaking a lease and mortgage interest on an old residence that wasn’t sold. Deductible moving expenses must be directly related to the physical change of residence.[5] At pages 16 to 17, Madame Justice Desjardins speaking for the Court said:
+According to the ordinary meaning of the word used, the provision (i.e. section 62) includes those expenses incurred for physically moving, changing one’s residence and certain other expenses directly related to the actual move and resettlement and not some amount intended to compensate for accessory damages that are unrelated to the actual move to and resettlement in the new residence.
+[19] Justice Collier of the Federal Court, Trial Division, in Storrow made a similar statement:
+Only outlays incurred to effect the physical transfer of the taxpayer, his household, and their belongings to the new residence are deductible…[6]
+[20] In Christian v The Queen, [7] Justice Favreau held that “writ interest” was not deductible as a moving expense. The Appellant’s spouse owed a tax debt to the Canada Revenue Agency (the “CRA”), which resulted in a writ and a lien was filed on the old residence. The Appellant had paid the writ interest, and urged the Court to accept this as a moving expense because it had to be paid in order for the old residence to be sold. Justice Favreau followed Séguin,[8] and held that the writ interest was a personal liability and not directly related to the move.
+[21] The Respondent does not dispute that the Appellant had an eligible relocation in the year in question, and that he incurred the legal expenses in question. The only question in this appeal is whether the legal expenses incurred by the Appellant are “Moving Expenses” within the meaning of that term in section 62. In deciding this question, the authorities have generally referred to the ordinary meaning of the term, and have required that the expenses incurred be directly related to the physical moving of the taxpayer’s household and belongings.
+[22] In this case, the direct cause of the legal expenses was the Appellant’s and Patricia’s personal situation and not the move from London, Ontario to Edmonton, Alberta. It appears that the legal proceedings between Patricia and Michael were precipitated by the proposed move; however, at the core, the proceedings were about the custodial arrangement of the Appellant’s two step-daughters.
+[23] The Courts have repeatedly emphasized that not all expenses related to a move are deductible. In determining whether an expense which is not listed in subsection 62(3) is deductible, a Court should consider whether the expense is of the same type as those which are listed. In this case, the legal expenses incurred to defend the Appellant’s right to move his Family are not the same kind of expenses as travel costs, transportation and storage costs, meals and lodging during the move, or the legal expenses associated with buying and selling residential property.
+[24] The decision of the Federal Court of Appeal in Séguin [9] appears to rebuff the kind of broad and purposive interpretation of section 62 that the Appellant is seeking. In the Séguin [10] decision at first instance, Deputy Judge Somers canvassed the authorities on statutory interpretation before concluding that allowing the deduction was consistent with interpreting the Act as a whole in light of its purpose. However, the Federal Court of Appeal rejected this reading of the provision.
+[25] It is certainly unfortunate that the Appellant was forced to incur this expense to defend his right to move the Family, and it is unfortunate that the cost award made in the proceeding turned out to be impossible to recover. However, in our society, we are all vulnerable to having legal proceedings commenced against us. The costs of defending our position in court will sometimes be unrecoverable, and often they will not be deductible for tax purposes. It is unfortunate, but that is the situation in which the Appellant finds himself.
+[26] Although it is not exhaustive, the effect of subsection 62(3) of the Act is to limit the type of Moving Expenses that are deductible, and the legal fees in question here are not of that type.
+[27] I am sympathetic with the Appellant’s claim and tempted by the arguments based on a purposive interpretation and the policy underlying section 62, however, I believe that I am bound by the decision of the Federal Court of Appeal in Séguin.[11]
+[28] Accordingly, I have concluded that the legal expenses paid by the Appellant are not deductible.
+[29] The appeal is dismissed, without costs.
+Signed at Vancouver, British Columbia, this 21st day of March 2011.
+“L.M. Little”
+Little J.
+CITATION: 2011 TCC 174
+COURT FILE NO.: 2010-2487(IT)I
+STYLE OF CAUSE: WILLIAM M. VOLLMER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: January 19, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: March 21, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Adam Gotfried
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Fardeau v R., [2002] 3 C.T.C. 2169.
+[2] Rath v R, [1983] 1 F.C. 42 at 43.
+[3] Séguin v R. (1996), [1998] 1 C.T.C. 2453.
+[4] Séguin v R. (1997), [1998] 2 C.T.C. 13.
+[5] Séguin at 16 to 17, citing Gold v R. (1977), 77 D.T.C. 5430 at 5431.
+[6] Storrow v The Queen (1978), [1979] 1 F.C. 595 (Fed. T.D.) at 599.
+[7] Christian v The Queen, 2010 TCC 458 at paras. 21 to 30.
+[8] Supra, at note 4.
+[9] Supra, at note 4.
+[10] Supra, at note 4.
+[11] Supra, at note 4.

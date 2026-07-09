@@ -1,0 +1,195 @@
+---
+title: "Lavictoire v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25980/index.do"
+last_modified: "2003-05-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 312"
+citation2: ""
+neutral_citation: "2003 CCI 312"
+decision_date: "2003-05-02"
+language: "fr"
+item_id: "25980"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3778
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:14:33.472000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6fa7edd372aa128bcbe02651891ec05717670bbc907c3123e7a035201abdd9ab"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lavictoire v. The Queen
+
+- Citation: 2003 CCI 312
+- Decision date: 2003-05-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3778, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lavictoire v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-02
+Référence neutre
+2003 CCI 312
+Numéro de dossier
+2002-3736(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-3736(IT)I
+2002-3737(IT)I
+ENTRE :
+SUZANNE LAVICTOIRE,
+et
+SERGE LAVICTOIRE,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 24 mars 2003 à Ottawa (Ontario)
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Représentant des appelants :
+Jean-Marc Carrière
+Avocate de l'intimée :
+Me Marlyse Dumel
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1995, 1996, 1997 et 1998 sont admis et les cotisations sont déférées au ministre du Revenu nationalpour nouvel examen et nouvelles cotisations en tenant compte du fait que les appelants peuvent déduire 40 p. 100 des dépenses totales engagées et déclarées relativement au bien pour la période allant du mois de septembre 1996 jusqu'à la fin de l'année d'imposition 1998, la moitié de la déduction devant être attribuée à chacun des appelants.
+Signé à Ottawa, Canada, ce 2e jour de mai 2003.
+« Lucie Lamarre »
+J.C.C.I.
+Traduction certifiée conforme
+ce 1er jour d'avril 2005.
+Mario Lagacé, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI312
+Date: 20030502
+Dossier: 2002-3736(IT)I
+ENTRE :
+SUZANNE LAVICTOIRE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE :
+Dossier: 2002-3737(IT)I
+SERGE LAVICTOIRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre, C.C.I.
+[1] Les présents appels, entendus sur preuve commune sous le régime de la procédure informelle, sont interjetés à l'encontre de cotisations établies par le ministre du Revenu national (le « ministre » ) en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) pour les années d'imposition 1995, 1996, 1997 et 1998.
+[2] En déterminant leur revenu pour ces années-là, les appelants ont calculé des pertes locatives nettes afférentes à un immeuble d'habitation dont ils étaient propriétaires et qui était situé au 1503, chemin Landry, Clarence Creek (Ontario) (le « bien » ). Les pertes locatives nettes qui ont été déclarées étaient de 13 974,93 $ pour 1995, de 12 799,96 $ pour 1996, de 6 811,76 $ pour 1997 et de 2 926,85 $ pour 1998.
+[3] Bien que chaque appelant ait été propriétaire de 50 p. 100 du bien durant les années en cause, ils ont déduit des parts inégales des pertes déclarées pour 1995, 1996 et 1997 (pour 1995, ils ont partagé la perte locative dans des proportions de 1 p. 100 et 99 p. 100; pour 1996, les proportions ont été de 15 p. 100 et de 85 p. 100 et, pour 1997, elles ont été de 28 p. 100 et de 72 p. 100). Le représentant des appelants a reconnu dans ses observations que ces répartitions étaient incorrectes et que les pertes devraient être partagées de façon égale par les deux appelants.
+[4] En établissant de nouvelles cotisations à l'égard des appelants, le ministre a refusé la déduction de l'ensemble des pertes locatives. Ce faisant, le ministre s'est fondé sur les faits énoncés au paragraphe 6 des réponses modifiées à l'avis d'appel, dont les passages pertinents se lisent comme suit :
+[TRADUCTION]
+b) en décembre 1994, l'appelant et sa conjointe ont, pour 50 000 $, acheté au père de l'appelant l'immeuble d'habitation du 1503, chemin Landry, Clarence Creek (Ontario) (le « bien » ), la condition étant que le logement du rez-de-chaussée soit loué au père de l'appelant à un loyer réduit; (admis)
+c) durant toute la période pertinente, l'appelant et sa conjointe étaient propriétaires du bien; (admis)
+d) le bien a été financé par un emprunt de 37 500 $; (admis)
+e) un emprunt de 44 490,12 $ a été utilisé pour financer les rénovations faites au logement du sous-sol; (admis)
+f) l'appelant et sa conjointe ont acheté le bien dans l'intention de louer les logements à des membres de la famille ayant des revenus limités (l' « activité » );
+g) durant toute la période pertinente, l'appelant a reçu un revenu de pension non lié à l'activité; (admis)
+h) dans ses déclarations de revenu, l'appelant a, en indiquant le revenu de location (perte) provenant de l'activité, réparti comme suit le revenu de location (perte) pour les années d'imposition 1995, 1996, 1997 et 1998 :
+Appelant
+Conjointe
+1995
+1 %
+99 %
+1996
+15 %
+85 %
+1997
+28 %
+72 %
+1998
+50 %
+50 %
+(admis)
+i) le bien comprenait un logement au rez-de-chaussée (le « logement no 1 » ) et un logement au sous-sol (le « logement no 2 » ); (admis)
+j) durant toute la période pertinente, le père de l'appelant a occupé le logement no 1 pour 50 $ par mois;
+k) durant les années d'imposition 1996, 1997 et 1998, l'appelant a loué le logement no 2 à France Lavictoire (la « cousine de l'appelant » ) pour 500 $ par mois;
+l) l'appelant et sa conjointe ont déclaré des pertes locatives nettes provenant de l'activitépour les années d'imposition 1995 à 1998 inclusivement, soit :
+Année
+Revenu de location
+brut
+Perte locative
+nette
+1995
+1 200 $
+(13 974,93 $)
+1996
+2 600 $
+(12 799,96 $)
+1997
+6 600 $
+(6 811,76 $)
+1998
+6 600 $
+(2 926,85 $)
+(admis)
+m) durant toute la période pertinente, l'appelant ne demandait pas la juste valeur locative pour le logement no 1;
+n) l'activité exercée durant les années d'imposition 1995, 1996, 1997 et 1998 ne pouvait donner lieu à un profit;
+o) l'appelant n'avait pas d'attente raisonnable de profit à l'égard de l'activité durant les années d'imposition 1995, 1996, 1997 et 1998;
+p) les dépenses déduites relativement à l'activité durant les années d'imposition 1995, 1996, 1997 et 1998 étaient non pas des dépenses engagées en vue de tirer un revenu d'une entreprise ou d'un bien, mais des frais personnels ou de subsistance de l'appelant.
+q) Le ministre affirme que l'activitéa été entreprise comme activité personnelle et que les dépenses déduites par l'appelantn'avaient pas été faites ou engagées en vue de tirer un revenu d'une entreprise ou d'un bien, qu'elles représentaient des frais personnels ou de subsistance et qu'elles n'étaient pas raisonnables.
+[5] À l'audience, l'avocate de l'intimée a informé la Cour que l'intimée admettait le fait qu'à partir de septembre 1996 le logement du sous-sol était loué selon la juste valeur locative et que l'intimée concédait que 40 p. 100 des dépenses totales déclarées par les appelants étaient déductibles. La proportion de 40 p. 100 a été déterminée sur la base de la superficie en pieds carrés du sous-sol comparativement à la superficie totale en pieds carrés du bien.
+[6] Toutefois, de l'avis de l'intimée, le logement au rez-de-chaussée qu'Alcide Lavictoire, père de l'appelant Serge Lavictoire, a occupé durant les années en cause n'était pas loué selon la juste valeur locative.
+[7] La position de l'intimée est que la location de ce logement à un membre de la famille pour un loyer très bas était une activité personnelle qui n'était pas exercée d'une manière suffisamment commerciale pour constituer une source de revenu au sens de la Loi et pouvoir donner lieu à des pertes déductibles. L'intimée argue que les dépenses déclarées relativement à ce logement étaient des frais personnels ou de subsistance, qu'elles n'ont pas été engagées en vue de tirer un revenu d'une entreprise ou d'un bien et que, en vertu des alinéas 18(1)a) et 18(1)h) de la Loi, elles n'étaient pas déductibles. L'intimée soutient en outre que la déduction de ces dépenses n'est pas permise par l'article 67 de la Loi, car ces dépenses n'étaient pas raisonnables dans les circonstances.
+[8] Les appelants soutiennent qu'ils n'ont pas payé la pleine valeur marchande du bien quand ils l'ont acheté en 1994 et que c'est la raison pour laquelle un loyer réduit était demandé à Alcide Lavictoire. Dans leur avis d'appel, les appelants énoncent les faits comme suit :
+[TRADUCTION]
+1. Nous faisons appel des cotisations à cause des raisons que l'on a données pour ne pas admettre les pertes locatives pour les années en cause. La cotisation dit que l'activité locative ne constituait pas une source de revenu au sens de la Loi de l'impôt sur le revenu - partie 1, articles 3 et 4 -, car l'activité ne comportait pas d'attente raisonnable de profit.
+2. Les faits pertinents à l'appui de l'appel sont les suivants :
+· Serge Lavictoire a eu un accident cérébrovasculaire en 1992 et est, depuis, incapable de travailler; il reçoit une pension du Régime de pensions du Canada depuis mai 1994.
+· Les frais médicaux de Serge Lavictoire s'élevaient à 6 398 $ pour les années d'imposition 1995 à 1998.
+· En décembre 1994, le père de Serge Lavictoire a, pour 50 000 $, vendu sa maison à Serge et à son épouse Suzanne.
+· Comme le prix payé pour la maison était un bon prix à l'époque de l'achat, un loyer réduit a été offert au père de Serge pour la partie du bien située au rez-de-chaussée.
+· Serge et Suzanne espéraient finir par faire de ce bien un bien locatif intégral, pour pouvoir amasser un pécule pour leur retraite.
+· Au début de 1996, Serge et Suzanne ont engagé un entrepreneur pour faire rénover le sous-sol et le faire finir complètement, afin de pouvoir tirer un loyer supplémentaire du bien (coût total des rénovations : 40 676 $); pour la période commençant en septembre 1996, le revenu mensuel tiré de l'appartement du sous-sol a augmenté de 500 $ par mois.
+· Au début de 1999, le père de Serge Lavictoire est décédé. À partir de la mi-mai 1999, la partie du bien située au rez-de-chaussée a rapporté 665 $ par mois.
+· En 2000 et 2001, le bien a enregistré un profit exigeant l'application de la DPA pour réduire les revenus à zéro.
+· En 2001, le bien était évalué à 106 000 $ aux fins de l'impôt foncier et sa valeur marchande était estimée à 130 000 $.
+[9] Dans leurs observations écrites, les appelants disaient que la valeur marchande du bien était de 91 200 $ quand ils l'ont acheté. Leur avocat de l'époque a enregistré le transfert du bien selon une valeur déclarée de 50 000 $, comme en avaient discuté Alcide Lavictoire et les appelants. L'achat a été financé par un emprunt hypothécaire de 37 500 $ et Alcide Lavictoire a fait don du reste du prix d'achat, soit 12 500 $.
+[10] En 1995, les appelants ont entrepris la rénovation du bien et ont demandé un changement de zonage au canton de Clarence / Rockland pour pouvoir convertir le bien en duplex. Le changement de zonage a été approuvé en février 1996. En 1995, Alcide Lavictoire a payé 100 $ par mois de loyer.
+[11] En 1996, les appelants ont dépensé en rénovations une somme supplémentaire de 40 676 $, pour achever la conversion du sous-sol en un deuxième logement locatif. Apparemment, Alcide Lavictoire était là pour surveiller les rénovations, veiller à la sécurité des lieux et assurer l'accès des entrepreneurs aux locaux. Les appelants ont obtenu du financement supplémentaire, d'un montant de 44 490 $, pour l'exécution du travail. En septembre 1996, le logement du sous-sol a été loué 500 $ par mois, soit la juste valeur locative. Pendant les rénovations faites en 1996, Alcide Lavictoire payait un loyer réduit, d'un montant de 50 $ par mois. C'était apparemment attribuable au rôle qu'il jouait comme administrateur et comme surveillant des travaux. En 1997 et en 1998, son loyer est demeuré inchangé (50 $ par mois), et le loyer relatif au logement du sous-sol a été maintenu à 500 $ par mois. Les appelants ont fait remarquer qu'en 1997 les revenus ont dépassé de 637 $ les intérêts hypothécaires payés et que, en 1998, ils les ont dépassés de 1 068 $. Toutefois, les autres coûts fixes (l'impôt foncier et les assurances) ont été de 2 424 $ en 1997 et de 2 354 $ en 1998. Ces dépenses et les autres frais déclarés par les appelants ont donné lieu à des pertes pour ces années-là.
+[12] Alcide Lavictoire est décédé au début de 1999, et le logement qu'il avait occupé a été loué 665 $ par mois à partir de la mi-mai 1999. Les appelants disaient qu'ils avaient gagné un revenu total de 9 340 $ en 1999 et qu'ils avaient déclaré pour cette année-là une perte locative de près de 2 200 $. Ils disaient que, pour 2000 et 2001, ils avaient déclaré des profits locatifs bruts de 2 934 $ et de 1 406 $ respectivement et que, toutefois, l'application de la déduction pour amortissement avait ramené à zéro les revenus de location.
+[13] La position des appelants est que la convention d'achat-vente de 1994 n'indique pas la juste valeur marchande du bien. Le représentant des appelants argue que, en fait, les appelants ont acquis une partie du bien par donation et que, en raison de l'application de l'alinéa 69(1)c) de la Loi, ils sont réputés avoir acquis le bien pour une somme égale à sa juste valeur marchande au moment de l'acquisition. Le faible loyer demandé à Alcide Lavictoire était destiné à compenser le transfert du bien à un très bas prix. Si les appelants avaient payé le plein prix pour le bien, ils auraient fait un emprunt hypothécaire plus élevé et auraient payé plus d'intérêts. Avec un emprunt hypothécaire peu élevé, ils pouvaient demander un loyer plus bas. En outre, un loyer plus bas était demandé à Alcide Lavictoire parce qu'il avait joué un rôle important dans la gestion du bien. Les appelants estimaient que les dépenses déclarées étaient raisonnables dans les circonstances et qu'ils avaient pris des mesures raisonnables en vue de tirer un revenu du bien.
+[14] Les faits résumés par les appelants ne me convainquent pas que la location du bien - exception faite de la location du sous-sol pour 500 $ par mois à partir de septembre 1996 - constituait une source de revenu pour les appelants. Ce que je comprends en fait, c'est que le faible loyer demandé à Alcide Lavictoire était la contrepartie donnée par les appelants pour le transfert du bien à un prix inférieur à la juste valeur marchande. Si tel est le cas, les appelants ne peuvent dire qu'une partie du bien leur a été « donnée » , car ils ont renoncé à un revenu locatif basé sur la juste valeur locative, revenu qui les aurait aidés à absorber les dépenses et à finir par réaliser un bénéfice. Je ne vois pas exactement en quoi l'alinéa 69(1)c) est pertinent en l'espèce et, de toute façon, cet alinéa est inapplicable dans les circonstances.
+[15] De plus, si un faible loyer a été demandé au vendeur en compensation d'un prix d'achat inférieur à la juste valeur marchande, la perte de profit locatif est non pas quelque chose qui peut être ajouté au faible loyer de manière à constituer une source de revenu, mais plutôt une partie du coût d'acquisition du bien pour les appelants. Les appelants ne peuvent considérer le prix d'achat du bien comme un revenu de location à seule fin de déduire des dépenses qui ne seraient pas par ailleurs déductibles.
+[16] Comme je l'ai dit, les appelants ne contestent pas le fait que le loyer demandé à Alcide Lavictoire était nettement inférieur à la juste valeur locative. C'était un arrangement personnel qui profitait à chaque partie : les appelants acquéraient un bien à un prix inférieur à la juste valeur marchande, et le vendeur pouvait continuer d'habiter là le reste de sa vie sans contrepartie ou moyennant une très faible contrepartie. Presque immédiatement après le décès d'Alcide Lavictoire, survenu en 1999, les appelants ont loué le bien pour une somme bien supérieure à ce que payait Alcide Lavictoire.
+[17] Il est donc bien évident que l'arrangement correspondait à une activité personnelle. Il est également bien évident que, dans les années en cause et jusqu'au décès d'Alcide Lavictoire, l'intention prédominante en louant une partie du bien à Alcide Lavictoire n'était pas de réaliser un bénéfice. Il s'agissait d'un arrangement destiné à être commode pour toutes les parties. Les appelants n'ont pas agi conformément à des normes objectives de comportement de gens d'affaires sérieux. (Voir l'affaire Stewart c. Canada, [2002] A.C.S. no 46 (Q.L.).)
+[18] Enfin, le fait qu'Alcide Lavictoire ait surveillé les rénovations et ait été là pour veiller à la sécurité des lieux n'est pas un élément que je prendrais en compte pour considérer l'activité personnelle comme une activité commerciale. D'ailleurs, aucune preuve n'indique qu'Alcide Lavictoire a déclaré un revenu provenant de ce soi-disant travail, mais, s'il l'avait fait, cela pourrait avoir justifié le fait de demander un loyer plus bas.
+[19] Pour toutes ces raisons, je suis d'avis que les appelants n'étaient pas fondés à déduire des dépenses supérieures à ce que l'intimée a concédé au début de l'audience. La proportion de 40 p. 100 attribuée au sous-sol n'a pas été contestée par les appelants. En conséquence, les appels sont admis et les cotisations sont déférées au ministre pour nouvel examen et nouvelles cotisations en tenant compte du fait que les appelants peuvent déduire 40 p. 100 des dépenses totales engagées et déclarées relativement au bien pour la période allant du mois de septembre 1996 à la fin de l'année d'imposition 1998, la moitié de la déduction devant être attribuée à chacun des appelants.
+Signé à Ottawa, Canada, ce 2e jour de mai 2003.
+« Lucie Lamarre »
+J.C.C.I.
+Traduction certifiée conforme
+ce 1er jour d'avril 2005.
+Mario Lagacé, réviseur

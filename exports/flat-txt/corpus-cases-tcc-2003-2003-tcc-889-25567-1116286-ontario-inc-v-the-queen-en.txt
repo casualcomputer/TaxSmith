@@ -1,0 +1,117 @@
+Title: 1116286 Ontario Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25567/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-889-25567-1116286-ontario-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-12-23
+
+# 1116286 Ontario Inc. v. The Queen
+
+- Citation: 2003 TCC 889
+- Decision date: 2003-12-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2466, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1116286 Ontario Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-23
+Neutral citation
+2003 TCC 889
+File numbers
+2003-1202(GST)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2003TCC889
+Date:20031223
+Docket: 2003-1202(GST)I
+BETWEEN:
+1116186 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Agent for the Appellant: Duncan G. Bell Counsel for the Respondent: Jocelyn Espejo Clarke
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on
+October 23, 2003, at Hamilton, Ontario)
+McArthur J.
+[1] This appeal is with respect to the Appellant's entitlement to input tax credits (ITCs) for the period July 1, 1997 to December 31, 1999, under section 169 of the Excise Tax Act. The Minister of National Revenue assessed goods and services tax of $58,216 and allowed ITCs of $21,314, and also assessed penalties and interest of $7,700 and $6,205, respectively. The Appellant carried on business under the name of National Tickets or National Promotions and its director, Steven Barber, gave evidence together with Duncan Bell, its chartered accountant.
+[2] The Appellant purchased and resold tickets to entertainment and sporting events. The bulk of its business was for sporting events in the United States which transactions were exempt from GST. For the most part, they included the purchase and sale of tickets to football games such as the Rose Bowl, the Orange Bowl and the Super Bowl. These transactions are not in issue. The problem arises from the purchase and sale of tickets for Canadian-held sporting events and concerts.
+[3] The Appellant contracted the services of casual labour to purchase the tickets. Depending on the popularity of the event, the Appellant arranged to have as many as 60 people attending in line at ticket outlets such as Ticketmaster, Copps Coliseum, boutiques and Maple Leaf Gardens to purchase tickets. The Appellant would have given each purchaser cash for their purchases. It would resell these tickets to individuals or groups. Most transactions were carried out in cash.
+[4] The Appellant was represented by Duncan G. Bell, chartered accountant, who stated in theNotice of Appeal:
+... The business entails contracting the services of substantial casual labour to fill tickets orders from a variety of venues. Issuing cheques, utilizing credit cards and obtaining receipts for ticket purchases in this fast paced environment, and under these operating circumstances is not always viable; this is for the most part a cash and carry operation. As we are all aware, you cannot purchase tickets from box offices or ticketing agencies such as Ticketmaster without paying GST.
+...
+Although supportive documentation is sometimes scarce in this operating environment, it stands to reason that there is no source from which our client could possibly purchase their ticket inventory without paying GST on the product. We respectfully request that a reasonable and fair determination for GST input tax credits be determined based on the company's sales.
+[5] The ITCs of $21,314 allowed by the Minister were as a result of ticket purchases by the Appellant by cheques primarily for Toronto Maple Leaf and Montreal Canadian hockey games. The position of the Respondent is that the Appellant did not maintain adequate books and records as required by the Act and failed to file GST returns for the relevant period. Also, the Minister did not allow the Appellant any further ITCs than those allowed because sufficient and appropriate evidence was not obtained and maintained by the Appellant to allow the Minister to do so.
+[6] In effect, the Appellant is asking that I take judicial notice that the Appellant paid GST on all ticket purchases. Mr. Barber stated that it did not file GST returns because it had ITCs equal to the GST payable and he believed it was under the $30,000 threshold.
+[7] Included in evidence was Exhibit A-1 consisting of nine letters signed by individuals which state:
+I ... acknowledge that I have purchased tickets on behalf of National Tickets on numerous occasions. I would purchase these tickets from a Ticketmaster outlet. The purchase was always made with cash.
+Also, Exhibit R-1 contains 16 similar letter from the various casual agents for the Appellant. Exhibit A-2 includes financial statements prepared by Mr. Bell for the taxation year 1999 which were prepared subsequent to the audit. Exhibits R-3 and R-4 are reports prepared by the Respondent's auditor, Brian Hassall, who also testified.
+[8] The Appellant admitted that it was a unique business and the Respondent should not be so stringent. It purchased tickets for the most part with cash, paying GST, receiving no receipts other than the tickets, and then selling them for cash, again without receipts. Cheque stubs and bank statements were presented to the Respondent's auditor. The cheque stubs, written to cash used for the purchase of tickets, indicated the event. Many tickets went unsold.
+[9] Paragraph 169(4)(a) of the Act reads as follows:
+169(4) A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed;
+"Information" is described in Regulation 3 of the Act and it outlines in detail the prescribed information.
+3 For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+(a) ... if the supply is less than $30,
+(i) the name of the supplier ...
+(ii) ...
+(iii) where an invoice is not issued ... the date on which there is tax paid ... and
+(iv) the total amount paid ... for all of the supplies;
+3(b) where the total amount paid ... is $30 or more and less than $150,
+The information required includes that set out in subparagraph 3(a)(iii) and (iv) together with considerably more detail. Without question, the Appellant did not satisfy the requirements of those subparagraphs
+[10] The technical requirements in the Regulations are very rigid. Subsection 286 of the Act requires that a person, which includes a corporation, carrying on business must keep books and records "as will enable the determination of the person's liabilities and obligations under this Part or the amount of any rebate or refund to which the person is entitled".
+[11] In the present instance, the Appellant did not file GST returns until audited. Mr. Barber had been in the ticket purchase-and-selling business since 1981. He has a university degree. He taught school for a year before going into business on his own. He simply ignored the GST requirements. In the situation, it would be reasonable for him to have sought professional advice and/or consulted with GST officers concerning the Appellant's situation rather than turning his back on it.
+[12] After the Minister's audit, he had Mr. Bell prepare corporate statements that were accepted by Canada Customs and Revenue Agency. The Appellant asked that the cancelled cheques and bank statements be accepted as evidence of amounts paid. Clearly, these do not satisfy the technical requirements in the Input Tax Credit Information Regulations and particularly section 3. The cheques were made to cash. An individual was given the cash to buy tickets, pay his or her fee of $20 or $30 and perhaps other out-of-pocket expenses. I am asked to accept in blind faith that the entire cheque proceeds less a small amount went to buy tickets and that GST was paid on those tickets in all instances. Subsection 169(4) and Regulation 3 do not give me that latitude.
+[13] The following comments by Bowman, A.C.J. in Helsi Construction Management Inc. v. The Queen, [2001] T.C.J. No. 149, apply equally to the present appeal:
+[13] We are dealing with one of the technical requirements under a statute that is somewhat unique for its specificity. Moreover, it is the foundation of a self-assessing system that operates in the commercial world. Unfortunate as it may seem to the appellant, rules are rules. I can do nothing to help the appellant on this point. The problem is to some extent the appellant's own doing. Mr. Familamiri has made great efforts to correct the situation created by original chaotic state of the records and he has succeeded to some extent. However, there is only so much that one can do to correct years of disarray.
+Also, in the decision of E.R. Design Ideas Inc. v. The Queen, [1999] T.C.J. No. 198, Lamarre Proulx J. stated under similar circumstances to the present appeal:
+[22] ... Sometimes a cancelled cheque or a bank statement may be used as evidence when the invoice is lost, but the audit has to make sure that this is the case and that the amount is not computed twice. In my view, the audit has been carefully made and to a certain extent to the advantage of the Appellant. If no better evidence was provided by the Appellant, it can only be assumed from what I heard and saw at the hearing and that it was because it could not do so.
+This is relevant to this appeal.
+[14] The Appellant no doubt faces difficulty in satisfying the requirements of the Act, but to do nothing surely is not the approach to take. There is no doubt that the Appellant was entitled to additional ITCs. I do not have the discretion to guess on a reasonable allocation. The Minister has been given some discretion in subsection 169(5). This may be a situation where his discretion, to "exempt a specified registrant" should have been exercised. I do not have the same opportunity nor can I interfere with the Minister's decision.
+[15] In cross-examination, the Respondent introduced negative publicity that Mr. Barber received in 1998 in a Hamilton Spectator article. Apparently, he was charged under provincial legislation for selling $37 tickets to a rock concert for $100. I believe this information has no place in the context of this hearing. It is hopeful that this background did not taint the decision of the Minister in arriving at his assessment.
+[16] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 23rd day of December, 2003.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2003TCC889
+COURT FILE NO.:
+2003-1202(GST)I
+STYLE OF CAUSE:
+1116286 Ontario Inc. and
+Her Majesty the Queen
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+October 21, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT:
+October 30, 2003
+APPEARANCES:
+Agent for the Appellant:
+Duncan G. Bell
+Counsel for the Respondent:
+Jocelyn Espejo Clarke
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

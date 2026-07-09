@@ -1,0 +1,142 @@
+---
+title: "Wong c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31065/index.do"
+last_modified: "2013-01-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 23"
+citation2: ""
+neutral_citation: "2013 CCI 23"
+decision_date: "2013-01-18"
+language: "fr"
+item_id: "31065"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4706
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:32:57.482000+00:00"
+cases_cited_count: 0
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7281e9d0f445f5247b1933958f59162063995538ec540f6d1dcbdf67612009de"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wong c. La Reine
+
+- Citation: 2013 CCI 23
+- Decision date: 2013-01-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4706, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wong c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-01-18
+Référence neutre
+2013 CCI 23
+Numéro de dossier
+2012-2853(GST)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-2853(GST)I
+ENTRE :
+SANDRA WONG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 5 décembre 2012,
+à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge B. Paris
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Amandeep K. Sandhu
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis porte le numéro GB120531013141 et est daté du 3 février 2012, est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour de janvier 2013.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 1er jour de mars 2013.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2013 CCI 23
+Date : 20130118
+Dossier : 2012-2853(GST)I
+ENTRE :
+SANDRA WONG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le Juge Paris
+[1] Mme Wong interjette appel à l’égard du rejet de sa demande de remboursement de TPS et de TVH pour habitation neuve de 22 982,71 $ relativement à l’achat, effectué par elle et son époux, du logement 501 de l’immeuble situé au 2550, rue Spruce, à Vancouver (la « propriété »).
+[2] Le ministre du Revenu national (le « ministre ») a refusé le remboursement demandé au motif que M. et Mme Wong n’avaient pas fait l’acquisition de la propriété pour l’utiliser en tant que lieu de résidence habituelle pour eux‑mêmes ou en tant que lieu de résidence habituelle pour l’un de leurs proches.
+[3] L’alinéa 254(2)b) de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15, prévoit que le remboursement pour habitation neuve est disponible si l’intention de l’acheteur, au moment où il devient responsable ou assume une responsabilité aux termes du contrat de vente du logement, est d’acquérir ce logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à un proche.
+[4] Les passages pertinents de l’alinéa 254(2)b) sont ainsi rédigés :
+Remboursement – habitation neuve (2) Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+[…]
+b) au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui-ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche;
+[5] Dans le cas présent, il n’est pas contesté que le contrat de vente pour l’achat de la propriété a été conclu par M. et Mme Wong le 9 décembre 2009, date précédant la construction de l’immeuble où se trouve la propriété. Par conséquent, c’est l’intention qu’ils avaient à ce moment‑là au sujet de l’utilisation qu’ils feraient de la propriété qui est déterminante.
+[6] M. et Mme Wong ont tous deux témoigné que, au moment où ils ont signé le contrat, leur intention présidant à l’achat de la propriété était que leur fils, étudiant dans une université aux États‑Unis, réside dans la propriété lors de ses retours à Vancouver durant les vacances scolaires. M. Wong a également affirmé dans son témoignage qu’ils avaient l’intention de permettre à leur fils d’habiter dans la propriété lorsqu’il aurait terminé ses études si, à cette période, il revenait à Vancouver pour y travailler.
+[7] Le 9 décembre 2009, M. et Mme Wong vivaient dans une maison située au 3268, 15e avenue Ouest, à Vancouver, habitation dont ils avaient fait l’achat en 1997. Le 9 décembre 2009, leur intention était de continuer à occuper cette maison en tant que lieu de résidence habituelle après avoir pris possession de la propriété en cause.
+[8] En août 2011, les Wong prirent possession de la propriété. Leur fils a déménagé dans cette propriété et y a vécu jusqu’à ce qu’il retourne aux États‑Unis vers la fin du mois d’août 2011 ou au début du mois de septembre de la même année.
+[9] Mme Wong a fait la demande de remboursement pour habitation neuve dans le courant du mois d’août 2011. En septembre 2011, son époux et elle ont fait un voyage. À leur retour, deux lettres de l’Agence du revenu du Canada (l’« ARC ») attendaient Mme Wong. La première demandait à cette dernière d’envoyer une copie de son permis de conduire comme preuve qu’elle vivait bien dans la propriété. La seconde affirmait que la demande de remboursement pour habitation neuve était refusée parce que Mme Wong n’avait pas répondu à temps à la première lettre. Mme Wong a alors fait changer son adresse sur son permis de conduire et en a envoyé une copie à l’ARC. Il semble que l’agent de l’ARC chargé du dossier a finalement refusé la demande au motif que ni les Wong, ni leur fils n’utilisaient la propriété comme lieu de résidence habituelle. M. et Mme Wong ont témoigné avoir déposé, à ce moment‑là, un avis d’opposition, et décidé, en vue d’obtenir le remboursement en question, d’utiliser la propriété en tant que résidence habituelle.
+[10] Comme je l’ai déjà signalé cependant, c’est l’intention qu’ils avaient au moment où ils ont conclu le contrat de vente pour acheter la propriété qui est déterminante. Malheureusement, il semble qu’aucun des agents de l’ARC ayant traité l’affaire n’ait communiqué cette information aux Wong. Il s’ensuit que Mme Wong a cru à tort que si elle pouvait démontrer que son époux et elle avaient en fait déménagé dans la propriété en cause, elle aurait droit au remboursement pour habitation neuve. C’est ce qu’elle a fait valoir à l’audience.
+[11] Lors de l’audience qui s’est déroulée devant moi, Mme Wong a présenté un certain nombre de factures ménagères pour montrer que son époux et elle avaient déménagé dans la propriété et avaient continué d’y habiter. En outre, à un moment donné de l’audience, elle est même allée jusqu’à dire que son époux et elle avaient déménagé dans la propriété en août 2011. Je trouve le fait qu’ils aient déménagé très improbable, car il a été admis que lorsqu’ils prirent possession de la propriété en août 2011, leur fils a déménagé dans ce logement et y est demeuré jusqu’à la fin des vacances universitaires estivales. Il n’est pas plausible que M. et Mme Wong ainsi que leur fils aient demeuré tous ensemble dans la propriété, laissant ainsi la maison de la 15e avenue Ouest inoccupée. En outre, la superficie de la propriété n’était que 631 pieds carrés. La maison avait une superficie de 2 200 pieds carrés et comportait un bureau que M. Wong utilisait le soir.
+[12] M. Wong a témoigné qu’ils avaient déménagé dans la propriété en février 2012. Cette information coïncide avec le témoignage de Mme Wong selon lequel ils avaient déménagé dans la propriété après que la demande de remboursement pour habitation neuve ait été refusée. J’accepte le fait qu’ils avaient effectivement commencé à utiliser la propriété très fréquemment à partir de février 2012, et ce, en dépit du fait que la propriété était bien plus petite que leur maison. Cependant, l’usage réel de la propriété par les Wong n’est pas pertinent au vu de leur propre témoignage selon lequel ils n’avaient pas l’intention d’utiliser la propriété en tant que lieu de résidence habituelle au moment où ils avaient conclu le contrat de vente pour l’achat de ce logement.
+[13] Je conclus aussi que M. et Mme Wong n’ont pas acheté la propriété dans l’intention que leur fils l’occupe en tant que lieu de résidence habituelle. En décembre 2009, les Wong s’attendaient à ce que leur fils continue ses études supérieures aux États‑Unis jusqu’en 2013 et que, dans l’intervalle, il ne revienne à Vancouver que pendant les vacances scolaires. Il a aussi été suggéré que le retour du fils dépendrait de sa capacité à obtenir un emploi à Vancouver. Ses projets après avoir été diplômé dépendaient aussi de l’endroit où il pourrait trouver du travail. M. Wong a affirmé que, si son fils revenait à Vancouver après l’obtention de son diplôme, ce dernier aurait la permission de vivre dans la propriété.
+[14] Comme il était attendu que le fils des Wong doive passer la plupart de son temps loin de Vancouver en 2011, 2012 et au moins au début de 2013, et que ses projets ultérieurs étaient incertains, je conclus que, en décembre 2009, les Wong n’avaient pas l’intention de faire de la propriété le lieu de résidence habituelle de leur fils et ne s’attendait pas à ce que tel soit le cas.
+[15] Pour ces raisons, je conclus que Mme Wong n’a pas droit au remboursement de TPS et de TVH, et son appel est rejeté.
+Signé à Ottawa, Canada, ce 18e jour de janvier 2013.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 1er jour de mars 2013.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE : 2013 CCI 23
+No DU DOSSIER DE LA COUR : 2012-2853(GST)I
+INTITULÉ : Sandra Wong c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 5 décembre 2012
+MOTIFS DU JUGEMENT : L’honorable juge B. Paris
+DATE DU JUGEMENT : Le 18 janvier 2013
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Amandeep K. Sandhu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

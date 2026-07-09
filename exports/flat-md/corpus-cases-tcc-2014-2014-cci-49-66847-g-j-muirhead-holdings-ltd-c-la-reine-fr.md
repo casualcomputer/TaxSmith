@@ -1,0 +1,170 @@
+---
+title: "G & J Muirhead Holdings Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/66847/index.do"
+last_modified: "2014-02-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 49"
+citation2: ""
+neutral_citation: "2014 CCI 49"
+decision_date: "2014-02-13"
+language: "fr"
+item_id: "66847"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5955
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:08:29.938000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ff2b6989f5bdb74c52839a27f11870284086a901e287ec46b7d5c482b7963e09"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# G & J Muirhead Holdings Ltd. c. La Reine
+
+- Citation: 2014 CCI 49
+- Decision date: 2014-02-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5955, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+G & J Muirhead Holdings Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-02-13
+Référence neutre
+2014 CCI 49
+Numéro de dossier
+2013-1935(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-1935(IT)I
+ENTRE :
+G & J MUIRHEAD HOLDINGS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appel entendu le 12 décembre 2013, à Edmonton (Alberta).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelante :
+Me Sanjaya R. Ranasinghe
+Avocat de l’intimée :
+Me Gergely Hegedus
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008 est rejeté, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 13e jour de février 2014.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 31e jour de mars 2014.
+Alya Kaddour-Lord, traductrice
+Référence : 2014 CCI 49
+Date : 20140213
+Dossier : 2013-1935(IT)I
+ENTRE :
+G & J MUIRHEAD HOLDINGS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] G & J Muirhead Holdings Ltd. (« Muirhead Holdings ») est une société dont Gordon Muirhead et sa femme, Judy Muirhead, sont propriétaires. Pendant l’année en cause, 2008, Gordon Muirhead était le seul employé de Muirhead Holdings. Dans les années précédentes, depuis la date de constitution de la société en 2002, Judy Muirhead avait aussi été employée dans des fonctions administratives et relatives à la gestion du bureau.
+[2] En 2008, Muirhead Holdings avait conclu un contrat avec Harvest Operations Corp. (« Harvest »), aux termes duquel elle s’était engagée à fournir certains services à l’emplacement de puits de pétrole ainsi qu’aux installations connexes. Muirhead Holdings n’avait pas d’autres clients, en dépit du fait qu’Harvest n’exigeait pas de bénéficier de l’exclusivité de ses services. C’est en 2003 que Muirhead Holdings a conclu un contrat pour la première fois en vue de fournir ses services d’opérateur au puits et aux installations en question, alors qu’ils étaient la possession de Grand Petroleums Inc. (« Grand Petroleums »). Quand Harvest a succédé à Grand Petroleums en 2007, Muirhead Holdings a continué de fournir ces services contractuels à Harvest. Pendant toute cette période, c’est Gordon Muirhead qui fournissait tous les services, travaillant ainsi à temps plein pour Muirhead Holdings. Harvest employait également d’autres personnes pour accomplir ce même type de travail. La Cour ne sait pas si d’autres personnes n’ayant pas le statut d’employé fournissaient de tels services, en dehors de M. Muirhead, ou, le cas échéant, s’il y avait d’autres entrepreneurs individuels travaillant à temps plein d’une manière similaire à celle de Muirhead Holdings et de M. Muirhead.
+[3] Une nouvelle cotisation a été établie à l’égard de Muirhead Holdings en tenant pour acquis qu’il s’agissait d’une « entreprise de prestation de services personnels » et qu’elle n’avait droit qu’aux déductions limitées prévues pour celui qu’on a appelé son « employé constitué en société ». Par conséquent, la question spécifique à trancher est de savoir s’il « serait raisonnable de considérer [Gordon Muirhead] comme étant un […] employé de [Harvest] si ce n’était de l’existence de [Muirhead Holdings] ».
+L’intention
+[4] L’avocat de l’appelante a voulu se fonder largement sur l’intention des parties, particulièrement l’intention des parties au contrat d’exploitation du puits et des installations, à savoir Harvest et Muirhead Holdings. L’intention des parties n’est pas un critère utile ou pertinent dans le cas d’une entreprise de prestation de services personnels. La Cour l’a affirmé et expliqué clairement dans les décisions 1166787 Ontario Limited c. La Reine, 2008 CCI 93, et 609309 Alberta Ltd. c. La Reine, 2010 CCI 166, et, plus récemment, dans la décision Gomez Consulting Ltd. c. La Reine, 2013 CCI 135. Compte tenu de la formulation employée pour définir les entreprises de prestation de services personnels, il est franchement impossible d’accorder du crédit à la position adverse dans un cas comme celui de l’espèce. L’appelante était représentée par un cabinet d’avocats expérimentés et très compétents, et j’ai été étonné d’entendre l’avocat de l’appelante faire plus que se référer en passant aux intentions des parties, n’eut été pour prétendre que la Cour avait eu tort de s’exprimer comme elle l’avait fait dans le passé, ce que l’avocat de l’appelante n’a ni fait valoir, ni expliqué. La Cour est d’avis que, dans toute situation où il est question d’une entreprise de prestation de services personnels, le contrat qui unit la tierce partie qui achète les services (Harvest en l’occurrence) et la société dont l’employé constitué en société prétendu et présumé est propriétaire (Muirhead Holdings et Gordon Muirhead, respectivement) sera toujours un contrat d’entreprise, étant donné qu’une société ne peut jamais être une employée sous le régime d’un contrat de louage de services. Par conséquent, l’intention de ces parties devrait toujours avoir été de conclure un contrat d’entreprise.
+[5] L’employé constitué en société prétendu et présumé peut être un employé de sa société ou avoir le statut d’entrepreneur indépendant, compte tenu du libellé de la définition d’« entreprise de prestation de services personnels » que donne la Loi de l’impôt sur le revenu (la « Loi »).
+[6] La définition d’une entreprise de prestation de services personnels exige de la Cour qu’elle établisse si la personne qui a véritablement rendu les services en cause pourrait raisonnablement être considérée comme un employé de la tierce partie qui achète les services dans des circonstances fictives dans lesquelles le prestataire de services et la tierce partie qui achète les services auraient une relation directe, sans que la société du prestataire de service n’intervienne.
+[7] Les dispositions relatives aux entreprises de prestation de services personnels n’auraient aucun sens si, au moment de conclure leur contrat, l’intention de la tierce partie qui achète les services (Harvest) et de l’entreprise de la personne (Muirhead Holdings) dominait, vu que ce contrat ne peut être qu’un contrat d’entreprise. De même, il ne peut pas être pertinent ou utile à un tribunal qui doit établir s’il est en présence d’un employé ou d’un entrepreneur indépendant, parce qu’un tel contrat ne peut, et ne doit toujours, nous orienter que dans un seul sens : celui d’un contrat d’entreprise.
+[8] S’il est toujours présent et qu’il fait toujours pencher la balance du même côté, cet élément n’est d’aucune utilité pour apprécier les facteurs relatifs à certains faits et circonstances. Un tribunal peut s’attendre à ne jamais disposer d’aucun élément de preuve utile pour l’aider à établir quelle aurait été l’intention de la tierce partie qui achète les services et de la personne en cause si ces parties avaient décidé de conclure directement un contrat. Toutefois, en l’espèce, il convient de souligner que M. Muirhead a choisi de devenir un employé de Muirhead Holdings, société qui se trouvait sous son contrôle ainsi que sous celui de sa femme; on peut présumer que ce choix traduit son intention et sa préférence en ce qui concerne le fait de fournir ces services à titre d’employé. Exception faite du travail que M. Muirhead accomplissait pour Muirhead Holdings et de son tout premier travail des dizaines d’années auparavant, il n’existe aucun élément de preuve quant à la question de savoir si M. Muirhead avait le statut d’employé ou d’entrepreneur indépendant dans les nombreux autres postes qu’il a occupés au fil des années.
+[9] On peut également souligner le fait que, tout au long de sa carrière, et résolument pendant toute la période où il a fourni des services dans les champs de pétrole, M. Muirhead a apparemment choisi de ne travailler que pour une seule société à la fois.
+[10] Par conséquent, en présence d’une question de cessation des activités d’une entreprise de prestation de services personnels, la Cour devrait largement se fier aux quatre critères et éléments à prendre en considération qui ont été définis dans les arrêts Sagaz et Wiebe Door[1], (i) le contrôle; (ii) les outils; (iii) les chances de profit; (iv) les risques de perte, pour établir si l’employé constitué en société prétendu et présumé pourrait raisonnablement être considéré comme un employé d’une tierce partie qui achète les services que cette personne offre si on occulte totalement le rôle, les droits et les obligations de sa société.
+Le contrôle
+[11] À deux reprises lors de sa plaidoirie, l’avocat de l’appelante a insisté sur le fait que c’était en fait Harvest qui avait dicté toutes les conditions du contrat conclu entre elle et Muirhead Holdings. Pour reprendre les mots de l’avocat de l’appelante : [traduction] « On lui a donné ce contrat en lui disant que c’était à prendre ou à laisser. » M. Muirhead a déclaré que [traduction] « c’était Harvest qui décidait de tout. »
+[12] Harvest a imposé les conditions suivantes : l’horaire de travail était de 7 h 30 à 17 h, et chaque période de neuf jours de travail consécutifs était suivie de cinq jours de congé. Harvest a établi le taux horaire, l’horaire de travail et les échéances bimensuelles pour soumettre les factures décrivant en détail les heures effectivement travaillées, conformément aux heures que M. Muirhead avait consignées. Le contrat prévoyait un taux horaire normal de 48 $, qui augmentait à 65 $ pour les heures supplémentaires ou si le travailleur était rappelé au travail. Ce taux faisait l’objet d’augmentations de temps en temps. Le taux horaire a été expressément défini pour couvrir le travail, les outils et une indemnité pour la camionnette. Seules les heures véritablement travaillées étaient rémunérées; si M. Muirhead avait fini plus tôt sa journée de travail, soit on lui aurait attribué davantage de travail, soit on ne l’aurait pas payé pour le reste de la journée. M. Muirhead a déclaré qu’il n’avait jamais laissé l’un de ces scénarios se produire.
+[13] La décision relative au nombre de puits à vérifier, et à quels 90 à 100 puits des 350 à 400 puits qui se trouvaient sur le site devaient être vérifiés chaque jour, était prise par Harvest et réglementée par le gouvernement. M. Muirhead pouvait simplement décider dans quel ordre il se rendait aux puits désignés pour la journée, à moins qu’il ne reçoive des instructions selon lesquelles, du fait que certains puits particuliers soulevaient des préoccupations, il devait s’y rendre en premier où à un moment précis de la journée.
+[14] Harvest a pris les décisions relatives aux modalités d’exécution de toute tâche particulière. Muirhead Holdings était payée au taux horaire habituel, y compris au taux s’appliquant pour les heures supplémentaires, en cas de rappel au travail ou au besoin, si les choses n’avaient pas été accomplies correctement la première fois, à la satisfaction de Harvest.
+[15] Chaque jour, M. Muirhead faisait rapport au contremaître de Harvest et à son chef à l’emplacement des puits. Harvest conduisait des évaluations à l’égard du travail accompli par M. Muirhead de la même manière qu’elle le faisait à l’égard de ses employés, conformément à la politique de la société. M. Muirhead devait se conformer au code de Harvest en matière de déontologie professionnelle et respecter les lignes directrices de la société relatives à son programme sur l’alcool et les drogues. M. Muirhead a déclaré que Harvest pouvait prendre des mesures disciplinaires à son endroit s’il ne s’acquittait pas correctement de ses tâches ou si son travail posait problème, mais cela ne s’est jamais produit. Si M. Muirhead était malade ou souhaitait prendre des congés, il devait en aviser Harvest.
+[16] M. Muirhead a décrit la plus grande partie de sa formation comme de la formation en cours d’emploi pour laquelle Harvest payait Muirhead Holdings. Il a suivi les programmes de formation que Harvest offre à l’interne. Muirhead Holdings ne facturait pas Harvest pour ce temps. Il semble que ce ne se soit produit qu’une fois pendant l’année en cause ainsi que les années antérieures et postérieures pour lesquelles des factures ont été présentées en preuve, et le montant était de 170 $ pour le temps passé en formation. Harvest n’exigeait pas de M. Muirhead qu’il suive des formations à l’extérieur. Aucune formation extérieure n’était requise afin que M. Muirhead conserve quelque titre de compétence que ce soit qui serait nécessaire à l’accomplissement du travail.
+[17] Le contrat que Muirhead Holdings a conclu avec Harvest n’exigeait pas de M. Muirhead qu’il fournisse personnellement les services retenus par contrat. Aux termes du contrat, d’autres employés ou remplaçants qualifiés de Muirhead Holdings étaient autorisés à accomplir le travail. M. Muirhead a toutefois déclaré qu’il faisait tout le travail, qu’il voulait faire tout le travail, et qu’il n’avait même jamais cherché quelqu’un d’autre pour faire le travail.
+[18] Harvest employait aussi des personnes qui accomplissaient le même type de travail que M. Muirhead. Il n’y avait aucune preuve du fait que les niveaux de contrôle, de direction, d’obligation de rendre des comptes, etc. s’appliquant à M. Muirhead aient été de quelque manière différents de ceux qui s’appliquaient à ses collègues employés effectuant le même travail. Toutefois, on peut souligner le fait que, dans le paragraphe de l’avis d’appel comportant des allégations relatives au fait qu’il existait des distinctions entre le rendement de M. Muirhead et celui d’employés effectuant [traduction] « pas mal le même travail », rien ne donne à entendre qu’on ait opéré une distinction au niveau d’un des facteurs de contrôle.
+[19] L’examen général des facteurs de contrôle, bien qu’il ne soit ni déterminant ni entièrement incompatible avec l’existence d’un contrat d’entrepreneur indépendant, fait clairement pencher la balance en faveur d’une relation employeur-employé, dans le cas où M. Muirhead aurait travaillé directement pour Harvest. Cette dernière aurait difficilement pu exercer un plus grand contrôle sur le travail que M. Muirhead devait effectuer.
+Les outils
+[20] Harvest n’avait pas à fournir à M. Muirhead ou à sa société les vêtements protecteurs élémentaires dont celui-ci avait besoin. Il s’agissait d’un casque de protection, de bottes à embout d’acier et d’une salopette. La salopette et, en hiver, le manteau, de M. Muirhead devaient être faits de matériaux ignifuges. De nombreux travailleurs canadiens ont besoin de cet équipement élémentaire, qu’ils aient le statut d’employé ou d’entrepreneur indépendant. Ce ne sont pas tous les employeurs qui fournissent un tel équipement ou qui offrent une indemnité en vue de l’achat d’un tel équipement. Au chapitre des vêtements, il n’y a aucune preuve du fait que M. Muirhead ait été en aucune façon traité différemment des autres employés, y compris de ceux qui accomplissaient le même travail que lui. Encore une fois, je vois que, dans le paragraphe de l’avis d’appel dans lequel l’avocat de l’appelante a énoncé les distinctions opérées entre M. Muirhead et les autres employés de Harvest qui effectuaient le même travail, il n’est fait nulle référence aux vêtements de travail. Cet élément ne fait pas pencher la balance dans une direction particulière.
+[21] Harvest n’avait pas à fournir les outils à main légers qui devaient se trouver dans la camionnette au cas où il en aurait besoin pour offrir ses services. Le contrat que Harvest et Muirhead Holdings avaient conclu prévoyait expressément que le taux horaire était fixé de telle sorte qu’il incluait une indemnité pour les outils que le travailleur devait se procurer. Il s’agissait d’une pelle, d’un râteau, d’une pince‑monseigneur, d’une clé et de douilles. (On peut présumer qu’il pouvait être nécessaire de se procurer d’autres petits outils similaires de base, comme des tournevis et un marteau.) M. Muirhead se servait simplement des outils qu’il avait déjà dans sa camionnette de ferme et dont il se servait à la ferme. Dans de nombreux secteurs, les travailleurs canadiens doivent fournir leurs propres outils de base, qu’ils soient employés ou entrepreneurs indépendants. Il s’agit par exemple des mécaniciens, des électriciens, des charpentiers, ou encore des travailleurs forestiers, parmi tant d’autres métiers. C’est ce que la jurisprudence de la Cour a illustré à maintes reprises. Les employeurs n’ont pas besoin de fournir ces outils à leurs employés, et c’est ce que la Loi reconnaît en permettant aux employés de déduire le prix de ces outils de leur revenu dans certaines circonstances. Encore une fois, même le paragraphe de l’avis d’appel dans lequel on s’est efforcé d’énumérer les distinctions entre M. Muirhead et les employés de Harvest qui accomplissaient le même travail que lui ne donne pas à entendre que M. Muirhead et ces employés ont été en aucune façon traités différemment en ce qui a trait aux outils à main. Cet élément ne fait pas non plus pencher la balance dans une direction particulière.
+[22] Une fois qu’on se trouve à l’emplacement des puits, il est nécessaire de disposer d’une camionnette pour se rendre aux différents puits. Le taux horaire que Harvest a établi pour payer le travail de M. Muirhead tenait expressément compte de ce fait et comprenait une indemnité pour la fourniture de la camionnette par le travailleur. M. Muirhead se servait de la même camionnette pour effectuer le trajet aller-retour de 15 minutes qui sépare son domicile de l’emplacement des puits. Il est propriétaire de cette camionnette et il s’en sert dans ses activités agricoles (il – ou sa ferme, pour reprendre ses mots – louait la camionnette et les outils à Muirhead Holdings. Il ne s’agissait supposément pas d’un bail de location exclusive, vu que la camionnette et les outils servaient également à des fins personnelles ainsi que pour les activités agricoles). On n’a pas informé la Cour des distances que M. Muirhead devait parcourir une fois qu’il se trouvait sur l’emplacement des puits, que ce soit sur une base quotidienne ou annuelle. Muirhead Holdings payait l’assurance commerciale de la camionnette de M. Muirhead, mais la question de savoir si la camionnette ne faisait pas déjà l’objet d’une assurance similaire qui était exigée pour les activités agricoles n’a pas reçu de réponse claire. Encore une fois, la question de la propriété, de l’assurance et de la fourniture de la camionnette n’est pas particulièrement utile. Encore une fois, il n’est pas peu courant pour les Canadiens que la possession et l’usage de leur véhicule constituent des conditions de leur emploi. La Loi reconnaît que ce ne sont pas tous les employeurs qui fournissent des véhicules ou qui offrent des indemnités ou des remboursements raisonnables aux employés qui doivent se servir de leur véhicule. Par conséquent, la Loi comporte plusieurs dispositions permettant aux employés de déduire des frais relatifs à leur véhicule dans certaines circonstances.
+[23] En ce qui a trait à l’assurance commerciale de la camionnette, je voudrais souligner le fait que M. Muirhead se servait de cette camionnette dans son autre entreprise, et il la louait à Muirhead Holdings; une de ces activités, voire les deux, aurait pu justifier que M. Muirhead contracte une assurance commerciale pour son véhicule. Aussi, on peut s’attendre des personnes qui se servent de leur véhicule chaque jour dans le contexte de l’entreprise de leur employeur qu’elles fassent preuve de prudence en envisageant d’avoir recours à une couverture additionnelle, vu qu’elles utilisent le véhicule en question à des fins autres que personnelles, et particulièrement quand il est question d’une entreprise qui fait face à certains risques inhérents accrus de voir sa responsabilité civile engagée.
+[24] Aucun élément de preuve n’a été présenté pour montrer si des employés de Harvest effectuant le même travail que M. Muirhead utilisaient leur propre véhicule, ou, le cas échéant, de quelle manière ces employés étaient indemnisés pour cela. Toutefois, la preuve dont nous disposons montre que Harvest a établi les taux horaires selon lesquels elle rémunérait les services de M. Muirhead en tenant expressément compte de l’utilisation que ce dernier faisait d’une camionnette, de telle sorte que M. Muirhead était expressément indemnisé par le truchement d’une indemnité horaire, même si celle-ci ne faisait pas l’objet d’un versement distinct.
+[25] La fourniture d’une camionnette et de l’assurance connexe n’est incompatible ni avec un statut d’employé ni avec un statut d’entrepreneur indépendant, dans le cas où Harvest et M. Muirhead auraient conclu un contrat directement. Compte tenu de la nature du travail, et du nombre limité d’éléments de preuve que l’appelante a produits, je ne tire aucune conclusion, que ce soit dans un sens ou dans l’autre, à l’égard de la question de savoir si on pourrait raisonnablement considérer M. Muirhead comme un employé ou comme un entrepreneur indépendant.
+[26] L’extincteur élémentaire de type ABC pesant 30 livres qui se trouve dans une camionnette est un élément similaire à ceux de la camionnette et des outils, et il s’agit également d’un facteur neutre en l’espèce.
+[27] De même, l’exigence selon laquelle un travailleur doit avoir un téléphone cellulaire, pour lequel il ne reçoit pas de remboursement précis, afin de rester en contact avec la personne qui rémunère son travail, n’est aucunement incompatible avec le statut d’employé de ce travailleur.
+[28] Harvest était propriétaire de tout le reste, y compris des outils lourds spécialisés et de l’équipement dont M. Muirhead se servait et dont ce dernier avait besoin pour offrir ses services, à savoir le moniteur, le moniteur pour poste de pompage, l’ordinateur, etc.
+[29] En l’espèce, les considérations relatives à la propriété des outils ne me sont d’aucune utilité. En général, qu’elles soient vues individuellement ou collectivement, ces considérations ne font pencher la balance ni dans un sens ni dans l’autre. En ce qui a trait aux vêtements protecteurs et aux outils à main, M. Muirhead semble se trouve dans une situation tout à fait identique à celle des employés de Harvest qui effectuaient le même travail que lui.
+Les chances de profit et les risques de perte
+[30] En l’espèce, il était question d’un taux de rémunération horaire, y compris d’un taux pour les heures supplémentaires et d’un horaire de travail à temps plein fixe. Harvest était la seule société à laquelle M. Muirhead fournissait ses services. Il n’a pas négocié son salaire horaire ni aucune autre de ses conditions de travail avec Harvest. Il n’a pas cherché d’autres clients, et ce, bien que le fait de faire appel aux services d’autres travailleurs aurait pu lui permettre de développer ses activités de services pétroliers. Il n’a pas cherché d’autres travailleurs. Les revenus attendus qu’il a déclarés dans le formulaire qu’il a rempli afin d’obtenir son assurance commerciale sont cohérents avec le fait qu’il travaillait exclusivement pour Harvest, et avec le fait que c’est lui qui effectuait le travail. Harvest devait lui donner un préavis d’au moins 30 jours pour mettre fin à ses services à temps plein, à moins que cette décision ne soit motivée. M. Muirhead souhaitait être l’homme d’une seule société, et il s’ensuivait qu’il n’avait aucune possibilité de voir ses revenus augmenter au-delà des 80 heures qu’il consacrait à Harvest toutes les deux semaines, plus toutes les heures supplémentaires qui venaient s’y ajouter. Il n’y a aucune preuve du fait que M. Muirhead ait gagné beaucoup d’argent au titre de ses heures supplémentaires, ou qu’il se soit attendu à en gagner. Il est très difficile de voir quelque avantage que ce soit dans les activités de M. Muirhead en dehors des avantages offerts à n’importe quel employé à salaire horaire qui travaille à temps plein. Le revenu qu’il gagnait auprès de Harvest ne variait pas en fonction de son efficacité ou de sa capacité à gagner du temps, du fait que l’équipement soit défectueux ou que son travail n’ait pas été accompli à la satisfaction de Harvest la première fois.
+[31] Je voudrais ajouter qu’il est très étrange d’avoir prévu un taux horaire pour les heures supplémentaires dans le cas d’un entrepreneur indépendant qui a le droit d’engager d’autres travailleurs ou des sous-traitants. Les donneurs d’ouvrage et les clients d’une société cherchent normalement à négocier des rabais au volume, et non l’inverse, bien que ce ne soit pas invariablement le cas. Aucune preuve n’est venue donner à entendre ou expliquer que les augmentations de prix en fonction du volume étaient normales dans ce genre de travail.
+[32] Les revenus de M. Muirhead ont été fixés. Sa capacité de gérer les dépenses relatives à son travail n’est pas très significative d’un point de vue économique. Il avait besoin de sa camionnette, ou tout du moins il l’utilisait, dans ses activités agricoles ainsi que pour son usage personnel, ce qui comprenait son trajet aller-retour de 15 minutes entre son domicile et son travail. Il aurait pu choisir une camionnette moins chère ou une camionnette susceptible d’entraîner moins de frais d’entretien que la sienne, chercher du financement qui lui aurait coûté moins cher, avoir recours à une catégorie d’essence moins élevée ou rester à l’affût des rabais sur l’essence, faire procéder à l’entretien de son véhicule moins souvent, prendre moins d’assurance et prendre plus de risques, que ce soit à l’égard de la camionnette ou de l’assurance en matière de responsabilité civile, chercher une assurance et des services d’entretien moins chers, et déroger à son calendrier habituel d’entretien de son véhicule. De toute manière, seule la partie relative à une telle réduction attribuable au fait de se déplacer dans l’emplacement des puits serait pertinente. Il aurait pu acheter des vêtements de travail moins chers ou les porter plus longtemps. Il aurait peut-être pu trouver des outils à main moins chers que ses outils agricoles usagés. N’importe lequel de ces éléments, et même l’ensemble de ceux‑ci, n’affecterait que de façon mineure son revenu net ou ses liquidités découlant du fait qu’il travaillait pour Harvest.
+[33] De même, il est difficile de voir quelque risque majeur de perte économique en dehors du risque de perdre son travail sous réserve d’un préavis de 30 jours et d’être toujours propriétaire de sa camionnette. Cette dernière aurait toujours la même valeur à n’importe quel moment dans le temps, peu importe que M. Muirhead ait ou non un travail à l’avenir. Sa camionnette lui servait également à des fins agricoles et personnelles. Aucune preuve n’a été présentée pour montrer dans quelle mesure la camionnette servait à se rendre d’un puits à un autre dans l’emplacement des puits de pétrole.
+[34] Le fait que la société intermédiaire d’un employé constitué en société présumé ou prétendu se conforme aux exigences du gouvernement en matière de questions telles que la sécurité en milieu de travail ou encore l’enregistrement des sociétés n’est pas très utile, et il ne s’agit pas de considérations pertinentes dans le cas d’une entreprise de prestation de services personnels, vu qu’elles découlent directement de l’interposition de la société même dont la définition d’entreprise de services personnels exige que la Cour ne tienne pas compte. En l’espèce, je ne les trouve pas importantes.
+Conclusion
+[35] La cause de l’appelante était faible en droit. La preuve relative aux conditions d’emploi des employés de Harvest qui accomplissaient le même travail que M. Muirhead n’a pas été présentée à la Cour. Il se peut que ce soit révélateur. Je n’ai pas besoin de tirer quelque conclusion défavorable que ce soit à cet égard, vu que c’est à l’appelante qu’incombe le fardeau de la preuve, fardeau dont elle n’a pas par ailleurs été en mesure de se décharger. L’argument selon lequel le facteur de l’intention est aussi pertinent et utile à l’égard du cas d’une entreprise de services personnels que quand il est question d’établir si on est en présence d’un employé ou d’un entrepreneur indépendant n’aurait pas dû être avancé avec autant de force, voire n’aurait pas dû être avancé du tout, à moins que l’avocat de l’appelante ait été en mesure d’établir une distinction avec les décisions antérieures sur ce point ou d’expliquer pourquoi les conclusions en cause ont été rendues à tort, ce qui n’a pas été le cas.
+[36] Compte tenu des faits de l’espèce, il ne me reste plus qu’à conclure que, si on ne tenait pas compte de l’existence de Muirhead Holdings et que M. Muirhead travaillait directement pour Harvest, M. Muirhead ou qui que ce soit d’autre qui rendrait ces services ne pourrait raisonnablement être considéré que comme l’employé de Harvest. Les facteurs examinés à l’aune des critères de contrôle et de chances de profit et de risques de perte sont les plus révélateurs. Chaque jour, M. Muirhead passait toutes ses heures de travail disponibles à accomplir des activités régulières contrôlées par Harvest, ce qui constituait une partie intégrante des affaires de Harvest et ce qui permettait à cette dernière de rester en affaires. On ne pourrait pas raisonnablement considérer que M. Muirhead travaillait à son compte.
+[37] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 13e jour de février 2014.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 31e jour de mars 2014.
+Alya Kaddour-Lord, traductrice
+RÉFÉRENCE : 2014 CCI 49
+NO DU DOSSIER DE LA COUR : 2013-1935(IT)I
+INTITULÉ : G & J Muirhead Holdings Ltd. c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 12 décembre 2013
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 13 février 2014
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Sanjaya R. Ranasinghe
+Avocat de l’intimée :
+Me Gergely Hegedus
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Sanjaya R. Ranasinghe
+Cabinet : Felesky Flynn LLP
+1980 Manulife Place
+10180 - 101 Street
+Edmonton (Alberta)
+Canada T5J 3S4
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983; Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553.

@@ -1,0 +1,156 @@
+---
+title: "Jauvin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25504/index.do"
+last_modified: "2003-11-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 834"
+citation2: ""
+neutral_citation: "2003 CCI 834"
+decision_date: "2003-11-14"
+language: "fr"
+item_id: "25504"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2362
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:32:24.776000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0304a1201ac6b2182266586cbd261dcd6fc631f3e308bb367f6700bf760f03b3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jauvin c. La Reine
+
+- Citation: 2003 CCI 834
+- Decision date: 2003-11-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2362, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jauvin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-14
+Référence neutre
+2003 CCI 834
+Numéro de dossier
+2002-2644(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-2644(IT)I
+ENTRE :
+NOËLLA JAUVIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 3 novembre 2003 à Roberval (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Nancy Dagenais
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1995 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2003.
+« Alain Tardif »
+Juge Tardif
+Référence : 2003CCI834
+Date : 20031114
+Dossier : 2002-2644(IT)I
+ENTRE :
+NOËLLA JAUVIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel relatif à l'année d'imposition 1995.
+[2] La question en litige consiste à déterminer si les frais financiers, encourus par l'appelante, ont été engagés en vue de tirer un revenu d'un bien ou d'une entreprise ou de faire produire un revenu à un bien ou à une entreprise durant l'année d'imposition 1995.
+[3] Pour établir et soutenir le bien-fondé de la cotisation émise au nom de l'appelante, pour l'année d'imposition 1995, l'intimée a pris pour acquis les faits suivants :
+a) dans le calcul de son revenu net pour l'année d'imposition 1995, l'appelante a réclamé des frais financiers au montant de 7 852,01 $;
+b) selon l'annexe 4 soumis par l'appelante dans sa déclaration de revenus pour l'imposition 1995, le montant de 7 852,01 $ en litige comprend un montant de 25 $ pour des frais relativement à un REER (FTQ) et un montant de 7 827,01 $ pour de l'intérêt sur de l'argent emprunté pour gagner des revenus en intérêts, en dividendes ou en redevances;
+c) avant de rendre sa décision, l'Agence des douanes et du revenu du Canada (ADRC) a attendu que les procédures d'appel de l'appelante au Ministère du Revenu du Québec (MRQ) soient finalisées et a par la suite harmonisé sa décision à celle du MRQ;
+d) les intérêts en litige ont été payés durant l'année d'imposition 1995 sur un emprunt utilisé pour investir dans la société en commandite 3260-3270 St-Martin Est (SEC);
+e) la SEC exploitait des immeubles à revenus;
+f) en 1992, ladite société a disposé à pertes de tous ses immeubles locatifs;
+g) suite à la disposition des immeubles en 1992, il n'y a plus d'expectative raisonnable de profit quant à l'investissement de l'appelante dans cette société.
+[4] L'appelante a admis comme étant exacts les faits allégués aux alinéas a), b), c), d), e), et f); elle a cependant nié l'alinéa g). Se représentant elle-même, l'appelante était bien préparée; elle a fait une présentation articulée et documentée. Elle a beaucoup insisté sur le fait que l'investissement dans la société en commandite avait continué à produire des revenus et cela, même après la vente des immeubles générateurs de revenus en 1992.
+[5] Sur cette question précise, l'appelante a marqué quelques points; le contre interrogatoire de l'appelante a cependant fait ressortir un tout autre aspect.
+[6] L'appelante a en effet admis que le montant des intérêts réclamés, à titre d'intérêts payés dans le but de gagner un revenu, provenait de deux emprunts, aux montants respectifs de 45 000 $ chacun, l'un auprès de la Banque Royale et l'autre auprès de la Banque Nationale du Canada en date du 17 août et du 5 novembre 1994.
+[7] En 1995, l'appelante a déboursé 7 852,01 $ à titre d'intérêts qu'elle a réclamés comme déductibles. En substance, le montant de 7 852,01 $ correspondait à un montant de 4 176,09 $ payé à titre d'intérêts à la Banque Royale et 3 638,92 $ sur celui de la Banque Nationale du Canada (pièce I-2).
+[8] Les deux emprunts à l'origine des intérêts payés en 1995 avaient été contractés dans le but dominant d'effectuer des réparations et des rénovations à la résidence familiale; selon l'appelante, environ 60 000 $ avait été investi dans les rénovations et environ 30 000 $ pour rembourser les deux emprunts à l'origine de son investissement et de celui de son conjoint dans la société en commandite décrite au paragraphe 3 d) de la Réponse à l'avis d'appel.
+[9] Les emprunts remboursés en question avaient été effectués en 1985 auprès de la Banque Nationale du Canada et venaient à échéance dix ans plus tard, soit le 13 mai 1995. (pièce A-1)
+[10] L'appelante n'a pas été en mesure d'indiquer précisément le montant d'intérêts dû et payé en 1995, dans le cadre du prêt de 1985. Elle a essentiellement soutenu qu'une partie des intérêts payés sur les prêts de 1994 devait lui être accordée pour le motif qu'un certain montant d'intérêts avait dû être payé sur l'emprunt de 1985, pour la période de janvier à mai, correspondant à la date d'échéance de l'obligation de l'emprunt de 1985.
+[11] Les dispositions de la loi relative à la déductibilité des frais d'intérêt sont plus exigeantes et restrictives que l'a soutenu l'appelante. Dans un premier temps, l'appelante se devait d'établir exactement le montant d'intérêts payé en 1995 et réclamé pour le motif qu'il s'agissait là d'un déboursé d'intérêts payables sur un emprunt dont le capital était utilisé en vue de tirer un revenu.
+[12] Or l'appelante n'a pas été en mesure d'établir ce montant sous-prétexte qu'elle n'avait pas pu obtenir la collaboration de la banque pour ce faire. Elle a cependant admis avoir acquitté la cotisation émise au nom de son conjoint décédé, reconnaissant ainsi que le seul montant d'intérêts litigieux provenait des intérêts dus sur la balance du capital de son propre emprunt de 1985; selon elle, il était très difficile d'établir précisément le montant d'intérêts payé en 1995 sur l'emprunt de 1985. De toute évidence, il se serait agi d'un montant tout à fait marginal par rapport à celui réclamé, puisqu'il s'agissait de l'intérêt de quelques mois.
+[13] Bien que cette déficience de la preuve de l'appelante soit suffisante pour disposer de l'appel, j'ajouterai que les intérêts payés des suites des prêts obtenus en 1994 pour l'année 1995, ne sont pas déductibles d'où, même si l'appelante avait pu faire la preuve du montant, elle n'aurait pas pu avoir gain de cause. Les intérêts payés des suites des emprunts de 1994 ne répondent pas aux critères pour être déductibles.
+[14] En effet, le but et l'utilisation dominante des fonds obtenus a servi principalement au paiement du coût des rénovations effectuées à la résidence familiale; environ 30 000 $, du 90 000 $ obtenu au moyen de deux emprunts, a servi au remboursement des prêts de 1985 pour investir, à ce moment, dans la société en commandite décrite aux faits pris pour acquis et admis par l'appelante.
+[15] Les intérêts payés des suites d'un emprunt dont une partie du capital obtenu a servi à rembourser un prêt obtenu pour investir dans un projet générateur de revenus ne sont pas déductibles. La question des intérêts pouvant être déductibles a été abondamment traitée par les tribunaux. Dans un premier temps, je me dois de rappeler, concernant le fardeau de la preuve, l'extrait suivant dans la décision Njenga c. Canada, [1996] A.C.F. no 1218 (Q.L.) par. 3 :
+Le système fiscal est fondé sur l'autocontrôle. Il est d'intérêt public que la charge de prouver le fondement des déductions et des réclamations repose sur le contribuable. Le juge de la Cour de l'impôt a statué que les personnes comme la requérante doivent être en mesure de produire toutes les informations et justifications permettant d'appuyer les réclamations qu'elles font. Nous sommes d'accord avec cette conclusion. Mme Njenga, à titre de contribuable, a la responsabilité de justifier ses affaires personnelles d'une manière raisonnable. Des reçus écrits par elle-même et des allégations sans preuve ne sont pas suffisants.
+[16] Dans un deuxième temps, dans l'affaire Entreprises Ludco Ltée c. Canada, [2001] 2 R.C.S. 1082 (Q.L.) par. 44 :
+44. Tel que le reprenait le juge Iacobucci dans l'arrêt Entreprises Ludco Ltée c. Canada, [2001] 2 R.C.S. 1082, au paragraphe 44, le juge en chef Dickson de la Cour suprême du Canada, tel qu'il était alors, dans l'arrêt Bronfman Trust, précité, avait analysé de manière approfondie la troisième condition de la déductibilité de l'intérêt. Il avait catégorisé les diverses utilisations possibles de l'argent emprunté: admissibles et inadmissibles, initiales et actuelles, directes et indirectes. Le juge Dickson avait exposé ainsi la démarche à suivre pour statuer sur le respect de la troisième condition, aux pages 45-46 :
+[...] Ce ne sont pas tous les intérêts qui sont déductibles. L'intérêt sur l'argent emprunté pour produire un revenu exempt d'impôt ne l'est pas. L'intérêt sur l'argent emprunté pour acheter des polices d'assurance-vie ne l'est pas. L'intérêt sur les emprunts utilisés à des fins non productives de revenu, telles que la consommation personnelle ou la réalisation de gains en capital, ne l'est pas non plus. La déduction prévue par la loi exige donc qu'on détermine si l'argent emprunté a été utilisé en vue de tirer un revenu imposable d'une entreprise ou d'un bien, ce qui constitue une utilisation admissible, ou s'il a été affecté à quelqu'une des possibles utilisations inadmissibles. Il incombe au contribuable d'établir que les fonds empruntés ont été utilisés à une fin identifiable ouvrant droit à la déduction...
+La disposition prévoyant la déduction des intérêts exige non seulement la détermination de l'usage auquel ont été affectés les fonds empruntés, mais aussi la détermination de la "fin". L'admissibilité à la déduction est soumise à la condition que l'argent emprunté soit utilisé pour produire un revenu. Cependant, il est bien établi par la jurisprudence que le point pertinent n'est pas la fin de l'emprunt lui-même. Ce qui est pertinent est plutôt la fin qu'a visée le contribuable en utilisant l'argent emprunté d'une manière particulière : Auld v. Minister of National Revenue, 62 D.T.C. 27 (C.A.I.). Il s'ensuit donc que l'examen de la situation doit être centré sur l'usage que le contribuable a fait des fonds empruntés. [Souligné dans l'original.]
+[17] Troisièmement, l'extrait de l'honorable juge Lamarre dans la décision Deslauriers c. Canada, [2002], A.C.I. no. 530 (Q.L.) par. 29 :
+29 Dans l'affaire Emerson c. Canada, [1985] A.C.F. no 320 (Q.L.), confirmé par [1986] F.C.J. no 160 (Q.L.), le contribuable avait emprunté une somme d'argent pour rembourser à la banque un emprunt initial admissible qui avait servi à faire l'achat d'actions de sociétés par actions. Le deuxième emprunt avait été effectué après que le contribuable se soit départi de ses actions. Le produit de disposition des actions n'avait pas été réinvesti dans un autre bien dont l'utilisation était admissible. Le juge Cullen de la Cour fédérale de première instance avait refusé la déductibilité des intérêts sur le deuxième emprunt puisque la source de revenus provenant d'une entreprise ou d'un bien avait disparu. Il s'exprimait ainsi aux pages 3-4 de la version française :
+L'existence de la source de revenu à laquelle les frais sont rattachés est donc un élément essentiel à toute déduction des frais d'intérêt en vertu de l'alinéa 20(1)c); si la source de revenu a disparu, comme c'est le cas en l'espèce, les frais d'intérêt ne sont plus déductibles. L'obligation d'acquitter les frais d'intérêt d'un emprunt non remboursé, après que la source de revenu s'est éteinte, n'est pas pertinente.
+[...]
+[18] En l'espèce, l'appelante n'a pas été en mesure d'établir précisément le montant des intérêts payés en 1995 sur les prêts obtenus en 1985.
+[19] La preuve est également à l'effet que les intérêts payés en 1995 à la Banque Royale et la Banque Nationale du Canada des suites des emprunts de 45 000 $ chacun et réclamés comme déductibles ne l'étaient pas puisque le capital n'a jamais été investi dans un projet générateur de revenus.
+[20] Le capital a été utilisé principalement pour effectuer des réparations à la résidence familiale et la balance pour rembourser des prêts qui, à une certaine époque, avaient été investis dans un projet ayant produit des revenus. Par contre, en 1995, la source des revenus était éteinte des suites de la disposition des immeubles en 1992.
+[20] Pour ces motifs, l'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2003.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2003CCI834
+No DU DOSSIER DE LA COUR :
+2002-2644(IT)I
+INTITULÉ DE LA CAUSE :
+Noëlla Jauvin et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Roberval (Québec)
+DATE DE L'AUDIENCE :
+le 3 novembre 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 14 novembre 2003
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée:
+Me Nancy Dagenais
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Pour l'intimée:
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

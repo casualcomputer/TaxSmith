@@ -1,0 +1,163 @@
+Title: Paré c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26243/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-540-26243-par-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-10-29
+
+# Paré c. M.R.N.
+
+- Citation: 2004 CCI 540
+- Decision date: 2004-10-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4040, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paré c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-10-29
+Référence neutre
+2004 CCI 540
+Numéro de dossier
+2003-3989(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2003-3989(EI)
+ENTRE :
+JULIE PARÉ,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 30 juillet 2004 à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision rendue par le ministre est annulée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 29e jour d'octobre 2004.
+« Paul Bédard »
+Juge Bédard
+Référence : 2004CCI540
+Date : 20041029
+Dossier : 2003-3989(EI)
+ENTRE :
+JULIE PARÉ,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] L'appelante interjette appel à l'encontre de la décision du ministre du Revenu national (le « ministre » ) selon laquelle l'emploi exercé par elle au cours des périodes en litige, soit du 24 septembre 2001 au 15 décembre 2001 et du 3 mars 2003 au 11 avril 2003, lorsqu'elle était au service de Toitures Fix Inc. (le « payeur » ), est exclu des emplois assurables au sens de la Loi sur l'assurance-emploi (la « Loi » ) au motif qu'il existait un lien de dépendance entre le payeur et l'appelante.
+[2] Le paragraphe 5(1) de la Loi se lit en partie comme suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+[3] Les paragraphes 5(2) et 5(3) de la Loi se lisent en partie comme suit :
+(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[4] L'article 251 de la Loi de l'impôt sur le revenu se lit en partie comme suit :
+Article 251 : Lien de dépendance.
+(1) Pour l'application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[...]
+(2) Définition de « personnes liées » . Pour l'application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage, de l'union de fait ou de l'adoption;
+[...]
+[5] En rendant sa décision, le ministre s'est fondé sur les hypothèses de fait suivantes énoncées au paragraphe 6 de la Réponse à l'avis d'appel :
+a) le payeur a été constitué en société le 26 mars 1999; (admis)
+b) le payeur était spécialisé dans la réfection de toitures et dans la ferblanterie; (admis)
+c) l'entreprise employait de 2 à 7 personnes; (admis)
+d) le payeur exploitait l'entreprise à l'année longue mais la période la plus achalandée du payeur était les mois de septembre à janvier;
+e) l'appelante avait été embauchée comme secrétaire commissionnaire; (admis)
+f) les tâches de l'appelante consistaient à monter des programmes sur l'ordinateur, à s'occuper de la facturation, à faire du classement, à faire les dépôts bancaires et à préparer les fins de mois pour le comptable; (admis)
+g) l'appelante avait deux enfants, Marie, née en novembre 1999 et Mathis, né en juin 2003; (admis)
+h) le 8 septembre 2003, dans une déclaration au représentant de l'intimé, Danny Mousseau déclarait que l'appelante effectuait son travail à la maison en même temps qu'elle prenait soin de sa fille; (nié)
+i) l'appelante déterminait ses heures et son horaire de travail pour le payeur; (admis)
+j) durant les périodes en litige, l'appelante recevait une rémunération fixe peu importe le nombre d'heures réellement travaillées;
+k) du début de l'entreprise en 1999 au 23 septembre 2001, l'appelante rendait des services au payeur sans rémunération déclarée; (admis)
+l) du 24 septembre 2001 au 15 décembre 2001, l'appelante était inscrite au journal des salaires du payeur pour 30 heures de travail par semaine; (admis)
+m) le 8 septembre 2003, dans une déclaration au représentant de l'intimé, Danny Mousseau déclarait que l'appelante, du 16 décembre 2001 au 2 mars 2003, rendait des services pour environ 10 heures par semaine sans être payée;
+n) au printemps 2003, l'appelante avait été informée qu'il lui manquait 187 heures pour être éligible à recevoir des prestations de grossesse;
+o) du 3 mars 2003 au 11 avril 2003, l'appelante était inscrite pour 190 heures de travail au journal des salaires du payeur; (admis)
+p) le 8 septembre 2003, dans une déclaration au représentant de l'intimé, Danny Mousseau déclarait que l'appelante avait été embauchée pour se qualifier à l'assurance emploi; (admis)
+q) le 8 septembre 2003, dans une déclaration au représentant de l'intimé, Danny Mousseau déclarait à un représentant de l'intimé qu'il n'aurait probablement pas embauché une personne non liée pour faire le travail de l'appelante;
+r) le salaire de l'appelante n'était pas raisonnable compte tenu des services rendus au payeur;
+s) l'appelante rendait des services au payeur en dehors des périodes en litige sans rémunération déclarée;
+t) le journal des salaires du payeur ne reflétait pas les heures réellement travaillées par l'appelante;
+u) les périodes prétendument travaillées par l'appelante ne correspondaient avec les périodes réellement travaillées;
+v) les périodes où l'appelante était inscrite au journal des salaires du payeur ne correspondaient pas avec les périodes d'activités économiques les plus achalandées du payeur;
+w) les modalités et la durée de l'emploi de l'appelante, sans horaire de travail fixe et travaillant parfois avec rémunération et parfois sans rémunération sont déraisonnables;
+x) le 3 janvier 2002, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 24 septembre 2001 et comme dernier jour de travail le 15 décembre 2001, et qui indiquait 480 heures assurables et une rémunération totale de 3 600,00 $;
+y) le 24 avril 2003, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 3 mars 2003 et comme dernier jour de travail le 11 avril 2003, et qui indiquait 190 heures assurables et une rémunération totale de 1 900,00 $;
+z) les relevés d'emploi de l'appelante ne sont pas conformes à la réalité quant aux heures ni quant aux périodes travaillées par l'appelante;
+aa) l'appelante continuait à rendre des services au payeur, tout en recevant des prestations d'assurance-emploi;
+bb) le payeur et l'appelante ont conclu un arrangement afin de qualifier l'appelante à recevoir des prestations d'assurance-emploi.
+Analyse
+[6] La Cour d'appel fédérale a défini à plusieurs reprises le rôle confié par la Loi à un juge de la Cour canadienne de l'impôt. Ce rôle ne permet pas au juge de substituer sa décision discrétionnaire à celle du ministre, mais il emporte l'obligation de « vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification [...] décider si la conclusion dont le ministre était "convaincu" paraît toujours raisonnable » [1].
+[7] En d'autres termes, avant de décider si la conclusion dont le ministre était convaincu me paraît toujours raisonnable, je dois, à la lumière de la preuve dont je dispose, vérifier si les allégations du ministre s'avèrent, malgré tout, bien fondées en tout ou en partie, en tenant compte des facteurs que mentionne l'alinéa 5(3)b) de la Loi.
+[8] La crédibilité de l'appelante et de monsieur Mousseau n'est pas mise en doute. Ils ont témoigné franchement, d'après ce qu'ils savaient et parfois avec beaucoup d'émotion. Ils m'ont convaincu que l'appelante a bel et bien travaillé pour le payeur et sous son contrôle tout au long des deux périodes en cause, qu'elle travaillait environ 30 heures par semaine (sauf pour la dernière semaine de la deuxième période en cause) et que son salaire était établi en fonction de cette moyenne de 30 heures. L'appelante était rémunérée à un taux horaire de 7,50 $ et de 10 $ pour la première et la seconde période en cause respectivement. À l'extérieur des périodes en cause, l'appelante, en plus d'occuper différents emplois chez différents employeurs et de suivre un cours de préposée aux bénéficiaires, rendait bénévolement des services au payeur en moyenne 10 heures par semaine, et ce, le soir et les fins de semaine. À ce titre, elle faisait un peu de tenue des livres, elle dactylographiait des soumissions, elle faisait des dépôts bancaires et un peu de classement de documents. Durant les périodes en cause, non seulement a-t-elle continué à accomplir les mêmes tâches, mais elle a surtout effectué des mandats spéciaux : durant la première période en cause, elle programmait le nouvel ordinateur acquis par le payeur, alors que durant la deuxième période en cause, elle élaborait un nouveau système pour l'ordinateur du payeur en plus de classer tous les documents qui n'avaient pas été rangés depuis le déménagement de la place d'affaires du payeur. Il m'apparaît vraisemblable que l'appelante ait travaillé tant d'heures durant les périodes en cause compte tenu des mandats spéciaux que lui a confiés le payeur. Cela, à mon avis, est concluant quant aux alinéas e), f), j), l), t) et w) des allégations du ministre.
+[9] Maintenant, il y a lieu de se demander si, n'eût été du lien de dépendance, le payeur et l'appelante auraient conclu un tel contrat de travail. Autrement dit, est-ce que les conditions d'emploi sont plus avantageuses du fait que l'appelante est la conjointe de fait de l'actionnaire principal du payeur? Le ministre a allégué ce qui suit relativement aux conditions de travail, pour démontrer qu'elles étaient déraisonnables :
+i) le salaire de l'appelante n'était pas raisonnable compte tenu des services rendus au payeur;
+ii) l'appelante déterminait ses heures et son horaire de travail pour le payeur;
+iii) l'appelante effectuait son travail à la maison en même temps qu'elle prenait soin de sa fille.
+[10] Quant à la rémunération de l'appelante, je suis d'avis qu'elle était plus que raisonnable compte tenu des services rendus. D'ailleurs, l'intimé a reconnu ce fait lors de l'audience. Cela, à mon avis, est concluant quant à l'alinéa r) des allégations du ministre.
+[11] Les modalités d'emploi étaient simples : l'employeur lui confiait des tâches à accomplir durant la semaine et ces tâches devaient être accomplies à la fin de la semaine. L'appelante a témoigné qu'elle était tenue de faire son travail lors des périodes en cause puisqu'elle était rémunérée. Elle a affirmé qu'elle n'aurait pas été payée si son travail n'avait pas été complété. Quant à son horaire de travail, l'appelante a expliqué qu'elle travaillait durant les heures normales de travail, soit le jour. C'est d'ailleurs pour cette raison qu'elle allait conduire sa fille chez une gardienne au début de la journée. Toutefois, lorsque la gardienne n'était pas disponible, elle travaillait le soir lorsque son conjoint de fait était en mesure de prendre soin de sa fille. Je suis d'avis que la souplesse en soi de l'horaire de travail n'est pas suffisante pour conclure que le payeur et l'appelante n'auraient pas conclu entre eux un tel contrat de travail n'eût été le lien de dépendance. Que l'appelante ait bénéficié de telles conditions de travail m'apparaît donc peu pertinent et déterminant, d'autant plus que la nature du travail exigé de l'appelante (essentiellement de la programmation et du classement de documents) n'exige pas nécessairement que le travail soit fait à un endroit fixe et selon un horaire fixe. La nature du travail pendant les périodes en cause explique, à mon avis, la durée de la période de travail de l'appelante et la raison pour laquelle elle n'a pas continué par la suite à effectuer ces tâches. Cela, à mon avis, est concluant quant aux alinéas h) et i) des allégations du ministre.
+[12] Quant à l'allégation du ministre que la période de travail de l'appelante ne correspondait pas aux périodes commerciales les plus actives du payeur, je n'en vois tout simplement pas la pertinence compte tenu de la nature des mandats confiés à l'appelante durant les périodes en cause. En effet, en quoi ces mandats spéciaux devaient-ils nécessairement être exécutés pendant les périodes les plus actives du payeur? Cela, à mon avis, est concluant quant aux alinéas d) et v) des allégations du ministre; ni l'un ou l'autre de ces alinéas ne permet de conclure raisonnablement à l'existence d'un lien de dépendance.
+[13] Je suis d'opinion que le ministre a erré en mettant trop d'emphase sur la nature, la durée et l'importance du travail accompli en dehors des périodes d'emploi en cause. Nous examinerons donc les alinéas aa), m), s) et k) des allégations du ministre. La preuve a certes révélé que l'appelante travaillait bénévolement pour le payeur à l'extérieur des périodes en litige et que ce travail pouvait représenter jusqu'à 10 heures par semaine. Or, ce que faisait l'appelante à l'extérieur de ses périodes d'emploi me semble peu pertinent, puisque rien dans la preuve ne tend à démontrer que le salaire versé pendant les périodes d'emploi tenait compte du travail accompli à l'extérieur de ces périodes, ni que l'appelante avait inclus dans les heures consacrées à son emploi assurable des heures de travail qu'elle avait effectuées à l'extérieur des périodes d'emploi, ni que du travail accompli à l'extérieur de ces périodes d'emploi avait été inclus dans le travail accompli pendant ces périodes. Le fait que l'appelante ait travaillé bénévolement à l'extérieur des périodes en litige indique peut-être qu'elle n'aurait pas effectué ce travail bénévolement si elle n'avait pas été la conjointe de fait de l'actionnaire principal du payeur. Cette situation est typique des petites entreprises familiales. Elles ont souvent besoin de bénévolat des proches pour survivre. Comme l'indique le juge Décary dans la décision de la Cour d'appel fédérale dans l'affaire Théberge c. Canada (ministre du Revenu national - M.R.N.), [2002] A.C.F. no 464 (Q.L.), au paragraphe 21 :
+[...] Ce n'est toutefois pas là le travail qui nous intéresse et le juge a erré en en [sic] tenant compte en l'absence de toute indication que l'emploi assurable en litige était sujet à des modalités spéciales attribuables à la prestation de services en dehors de la période d'emploi.
+[14] De plus, je refuse de conclure que le payeur et l'appelante ont convenu d'un arrangement artificiel pour lui permettre de profiter des bénéfices de l'assurance-emploi. Certes, la preuve a démontré que l'appelante a travaillé pendant le nombre d'heure requis pour être en mesure de bénéficier du régime d'assurance-emploi. Néanmoins, le payeur avait besoin d'un employé pour la mise sur pied du système informatique et le classement de documents et l'appelante a bel et bien travaillé pour le payeur tout au long des deux périodes en cause, et ce, contre rétribution. Monsieur Mousseau a d'ailleurs témoigné que si l'appelante n'avait pas été disponible et compétente pour ce travail, il aurait été tenu d'embaucher une autre personne. À mon avis, il est ni illégal ni répréhensible d'organiser ses affaires pour profiter de la mesure sociale qu'est le régime d'assurance-emploi, à la condition expresse que les services soient rendus et que le salaire corresponde à la valeur économique des services rendus, ce qui fut démontré de façon satisfaisante en l'espèce. Cela, à mon avis, est concluant quant aux alinéas bb), o) et p) des allégations du ministre.
+[15] La présente affaire se distingue des affaires Boudreau c. Canada (ministre du Revenu national - M.R.N.)[2] et Denis c. Canada (ministre du Revenu national - M.R.N.)[3] soulevées par l'avocate de l'intimé. Dans ces affaires, les appelants avaient essentiellement continué de faire exactement les mêmes tâches et le même nombre d'heures de travail et ce, même lorsqu'ils recevaient leurs prestations d'assurance-emploi. De plus, dans l'affaire Boudreau, précitée, la conjointe de l'appelant avait modifié sa version des faits lorsque le ministre eut refusé de reconnaître son emploi et celui de l'appelant (son conjoint) comme étant un emploi assurable. Enfin, dans l'affaire Denis, précitée, aucune preuve n'a été présentée démontrant que l'appelante avait reçu un salaire. Dans cette affaire, l'appelante semblait peu crédible. Ce n'est pas le cas en l'espèce. L'appelante est passée de 30 heures de travail par semaine à un bénévolat de plus ou moins 10 heures par semaine. De surcroît, l'appelante ne faisait plus les mêmes tâches puisque le classement en retard était complété et le système informatique fonctionnait. Dans les faits, l'appelante ne faisait que rendre des services au payeur, cette fois à titre de conjointe de l'actionnaire principal et non pas à titre d'employé. Les faits de la présente cause ne me permettent pas de conclure qu'il est plus probable que les modalités d'emploi ont été conçues pour tirer profit de façon artificielle de la Loi.
+[16] À la lumière de la preuve dont je dispose, après examen des facteurs mentionnés à l'alinéa 5(3)b) de la Loi et après vérification du bien-fondé des allégations du ministre, la conclusion dont le ministre était convaincu me paraît déraisonnable.
+Signé à Ottawa, Canada, ce 29e jour d'octobre 2004.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2004CCI540
+No DU DOSSIER DE LA COUR :
+2003-3989(EI)
+INTITULÉ DE LA CAUSE :
+Julie Paré et M.R.N.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 30 juillet 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 29 octobre 2004
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Pour l'intimé :
+Me Julie David
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1]
+Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878 (Q.L.), paragraphe 4.
+[2] [2003] A.C.I. no 687.
+[3] [2004] A.C.F. no 400.

@@ -1,0 +1,177 @@
+---
+title: "Living Friends Tree Farm v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/144184/index.do"
+last_modified: "2016-05-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 116"
+citation2: ""
+neutral_citation: "2016 TCC 116"
+decision_date: "2016-05-11"
+language: "en"
+item_id: "144184"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3078
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:51:12.818000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e977be3e4f3ba1012762551e4033faf8978e4bccbcd9ca34afe83723843df323"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Living Friends Tree Farm v. The Queen
+
+- Citation: 2016 TCC 116
+- Decision date: 2016-05-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3078, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Living Friends Tree Farm v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-05-11
+Neutral citation
+2016 TCC 116
+File numbers
+2015-2669(GST)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2015-2669(GST)I
+BETWEEN:
+LIVING FRIENDS TREE FARM
+(AGNES DAHL AND ELDON GARTH DAHL),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 15, 2016, at Calgary, Alberta
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Agent for the Appellant:
+Agnes Dahl
+Counsel for the Respondent:
+E. Ian Wiebe
+JUDGMENT
+The appeal, from a reassessment made under Part IX of the Excise Tax Act, for the period June 29, 2009 to December 31, 2009, with respect to Notice of Reassessment dated July 25, 2013, is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of May 2016.
+“Diane Campbell”
+Campbell J.
+Citation: 2016 TCC 116
+Date: 20160511
+Docket: 2015-2669(GST)I
+BETWEEN:
+LIVING FRIENDS TREE FARM
+(AGNES DAHL AND ELDON GARTH DAHL),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] This is an appeal from a reassessment, dated July 25, 2013, made under Part IX of the Excise Tax Act (the “ETA”), denying the Appellant income tax credits (“ITCs”) in the amount of $15,689 for the period June 29, 2009 to December 31, 2009 (the “Period”). The Minister of National Revenue (the “Minister”) confirmed the decision on February 10, 2015.
+[2] Mr. and Mrs. Dahl registered Living Friends Tree Farm as a partnership for GST/HST purposes on June 29, 2009. A return was filed for the reporting period claiming nil GST/HST collected and ITCs of $15,689, resulting in a net tax credit of $15,689.
+[3] Mrs. Dahl was the only witness. She testified that she and her husband moved from Vancouver to Alberta in 2007 and eventually purchased 160 acres in Rocky View in 2009. They wanted to work and live in an area surrounded by trees that would provide oxygen to the environment and a shelter for wildlife. Their plans included the construction of a greenhouse, a barn and eventually a house. The aim was to construct them in as environmentally green a manner as possible. They purchased a windmill and solar panels and sought out tradespeople that could work with them in this endeavour.
+[4] The Notice of Appeal, at paragraph B(e), states that “… we divided our land into 150 acres personal and 10 acres business”. The 10 acres, which operated under the partnership name, was to be devoted to Christmas tree farming. Of the remaining 150 acres, Mrs. Dahl, on cross-examination, stated that 30 acres was used for growing hay and alfalfa. The Dahls had a verbal agreement with a neighbour whereby the neighbour’s cattle grazed on a portion of this 150 acres and, in return, that neighbour harvested the Dahls’ crop and retained half of it for his own use. However, because nothing was claimed, this was not part of the activities that the Appellants were claiming as a business.
+[5] Mrs. Dahl described 2009 as a “ground-breaking” year in which preparatory work had to be completed. This included: construction of roads, fences and gates; soil testing and preparation; site drainage approvals; drilling of three wells; and foundational work respecting the barn. Tradespeople were hired in September of 2009. Mrs. Dahl filed numerous exhibits to support invoiced amounts and the payments with respect to these tradespeople. A project manager had also been hired. Once the ground became frozen, and with the arrival of snow, the preparatory work was suspended.
+[6] In March of 2010, the Appellants were informed by a building inspector that there were serious deficiencies with the portion of the barn that had been constructed during the fall of 2009. A stop-work order was issued after the inspection, which necessitated the Appellants hiring various engineers and different tradespeople to assess and correct these deficiencies. These deficiencies were substantial and included: joists were not straight and could not support the floor; the second floor of the barn was cracked due to concrete shrinkage and lack of proper curing procedures; upper floor walls were not built to code and cracked; water leaks; voids in the cement in the ICF walls; some of the sonotube footings were up to 6 inches out of alignment from the wall; window openings not supported when concrete was poured, resulting in bulges in the openings; barn doors finished to size but no room left for framing; floor sinking; no cross bracing; and other deviations from the initial drawings. (Exhibit A-8 and testimony of Mrs. Dahl).
+[7] Mrs. Dahl testified that these deficiencies resulted in several lawsuits against contractors in addition to time devoted to locating alternate tradespeople to correct the problems. One of these lawsuits resulted in the company declaring bankruptcy and the final lawsuit is scheduled to proceed to court later this year. Mrs. Dahl testified that, as a result of their preoccupation, in terms of time and costs, with these actions, only 50 saplings were planted in the spring of 2010, and 30 to 50 have been planted each subsequent year, except for 2014 when none were planted. None of these saplings were purchased, as the Dahls instead foraged for them. On cross-examination, Mrs. Dahl testified that, prior to commencing the tree farming operation in 2009, she had purchased 150 saplings from a commercial supplier to plant at their personal residence at a different location from the 160 acres. She also stated that, to date, less than half of the 10 acres has been devoted to planting trees and, in addition, it is their intention to retain bushes on this acreage for shelter for wildlife. She also confirmed, on cross-examination, that they have never sold any trees as it takes many years for saplings to reach maturity. More mature trees could be planted but they are much more expensive to purchase.
+[8] By the end of 2011, the barn had finally been completed. Until this point, the Appellants had never lived on the property but they did reside in the upper level of the barn in 2012 and 2013, as well as part of 2014. When their residence was completed on the property, they relocated there.
+[9] Smaller tools and equipment, such as shovels, rakes and wheelbarrows, had been purchased, commencing in 2009. Mrs. Dahl did state that they sold the tractor to help pay for legal bills related to the lawsuits over construction of their barn. These items were stored in the barn. Some of those tools were for use personally on the 150 acres.
+[10] The Appellants have not advertised for customers as the trees are not mature enough to be sold. Mrs. Dahl stated that the business was inadvertently listed in the yellow pages on one occasion but those potential customers had to be turned away as there were no trees to sell to them.
+[11] With respect to their business background and experience, Mrs. Dahl is an economist working full time for a German banking conglomerate. As well as an economics degree, she has degrees in early childhood development and in teaching. Her husband also works full time as a doctor of naturopathic medicine. When questioned about her apparent lack of experience in agriculture, she stated that her grandfather owned over 5,000 hectares of farmland outside Vienna, where she grew up, and that her family still owns a winery. From an early age, she had worked at both the farm and the winery.
+[12] The ITCs, which the Appellants claimed, related primarily to the construction of the barn, roads, walls, soil sampling, utilities, and legal expenses. No income or losses were reported in respect to the partnership activities.
+[13] In determining the Appellants’ net worth for the Period, the Minister relied on the following assumptions of fact in its Reply to the Notice of Appeal:
+The Barn
+a) In or around June 2009, Agnes and Eldon purchased an agricultural property near Cochrane, Alberta with the legal description 5;4;28;15 SW;
+b) In 2009, the Agnes and Eldon began construction of a barn on their property;
+c) The barn structure consisted of:
+i. . A basement mechanical room;
+ii. A main floor, consisting of parking spaces, equipment space, and stalls for horses; and
+iii. An upper floor which Agnes and Eldon began to use as their principal residence in 2011;
+d) Agnes and Eldon do not own horses or other livestock;
+Living Friends
+…
+g) Living Friends has never conducted any mass planting of trees;
+h) Living Friends has not conducted any other agricultural activities;
+i) Living Friends does not own horses or other livestock;
+j) Living Friends has not purchased equipment, trees, or any other items necessary for the operation of a tree farm;
+k) Living Friends has never generated, recorded, or reported revenue; and
+l) During the Reporting Period, Agnes and Eldon did not operate a tree farm or any other business as Living Friends.
+Analysis [14] The issue is whether the Appellants were engaged in a “commercial activity” during the reporting Period. This will determine whether the Minister was correct in denying ITCs of $15,689. Respondent counsel, during concluding submissions, advised the Court that the Crown was no longer taking issue with the amounts submitted by the Appellants but simply whether those amounts were incurred in the course of a commercial activity.
+[15] The Respondent contends that the partnership was not engaged in a commercial activity in the Period as the evidence supports that there was no active pursuit of profit. The Appellants argued that all of the work undertaken, in respect to the preparation of the property with roads, fencing, wells, and construction of barn and greenhouse, was preparatory and that this type of agricultural activity meant that profit would not be immediate but would be expected at some point in the future when the trees matured.
+[16] Whether a taxpayer will be entitled to ITCs is dependent upon whether GST was paid in relation to a “commercial activity”. The term “commercial activity” is defined in subsection 123(1) of the ETA:
+“commercial activity” of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply;
+[17] With respect to this definition, Favreau J. in Bowden v. The Queen, 2011 TCC 418, [2011] TCJ No. 346, at paragraphs 20 and 21, stated the following:
+[20] This definition clearly establishes that a business carried on without a reasonable expectation of profit is not a “commercial activity” for GST purposes.
+[21] In Moldowan v. The Queen, 77 DTC 5213, at page 5215, the Supreme Court of Canada made the following comment concerning the meaning of the expression “reasonable expectation of profit”:
+There is a vast case literature on what reasonable expectation of profit means and it is by no means entirely consistent. In my view, whether a taxpayer has a reasonable expectation of profit is an objective determination to be made from all of the facts. The following criteria should be considered: the profit and loss experience in past years, the taxpayer’s training, the taxpayer’s intended course of action, the capability of the venture as capitalized to show a profit after charging capital cost allowance. The list is not intended to be exhaustive. The factors will differ with the nature and extent of the undertaking. …
+[18] Despite the uncertainty and difficulty surrounding the application of the “reasonable expectation of profit” test, the Supreme Court of Canada in Stewart v Canada, 2002 SCC 46, [2002] 2 SCR 656, acknowledged the objective criteria listed by Dickson J. in Moldowan v The Queen, [1978] 1 SCR 480, as the basis for determining whether an activity is being conducted in a businesslike or commercial manner. The Supreme Court, in Stewart, referred to those criteria as “indicia of commerciality” or “badges of trade” and, although not exhaustive, that list includes:
+1. the profit and loss experience in past years;
+2. the taxpayer’s training;
+3. the taxpayer’s intended course of action; and
+4. the capability of the venture to show a profit.
+[19] According to the definition of commercial activity contained in subsection 123(1) of the ETA, a business endeavour must be conducted in a commercial manner with a view to gaining a profit and exhibit those badges of trade that would generally be associated with an undertaking of that nature and extent. In Land & Sea Enterprises Ltd. v The Queen, 2011 TCC 101, [2011] TCJ No. 70, at paragraph 14, I stated the following in respect to business activities conducted in the initial start up phase:
+[14] It is clear that an activity may be considered a commercial activity well in advance of the stage of profitability. It will always be a question of fact. Expenditures giving rise to ITCs in the start-up phase of a commercial activity may be eligible provided that there is clear intention to commence a business and that measurably significant and fundamental steps and actions have been put into place.
+[20] While I recognize that a tree farm has an initial start-up phase that will be substantially longer than many other commercial enterprises due to the length of time it takes for trees to reach maturity, I cannot ignore that, according to the evidence before me, the Appellants have yet to formulate clear positive steps in establishing the future path of this tree-growing operation as a potentially viable commercial endeavour in the years to come. Although it was Mrs. Dahl’s evidence that, weather permitting, it generally took two to three years before tree growth would permit sales, there have been no sales to date since the first planting of the 50 saplings in 2010 and, presently, less than half of the 10 acres, originally designated for the tree growing activities, has been planted with saplings. She explained that this limited planting has occurred because their attention and monetary reserves have been taken up with the several court actions against seemingly unscrupulous tradespeople. However, the saplings that have been planted have been foraged at no cost from surrounding areas. While I appreciate that these court actions have taken years to wind their way through the system and have extracated their toll on the Appellants, both financially and emotionally, it appears that, although the intent existed from the outset to operate a tree farm, the goal has been for all intents and purposes shelved, perhaps until the actions are dealt with or, perhaps as the evidence suggests, until they can retire and devote full-time attention to the activities through a more definitive business plan. This would include greater and deliberate planting, advertising for customers and a focus on profit from the activities. There is no business plan. No partnership agreement was produced. Mrs. Dahl did state, in cross-examination, that she is an economist and was constantly thinking about the numbers and financial estimates. However, nothing appears to have been committed to paper and I have nothing concrete before me, either orally or through documentary evidence, respecting a business plan with long-range profit projections.
+[21] In 2010, 50 saplings were foraged and planted and thereafter 30 to 50 in subsequent years, with none planted in 2014. Even if I assume a yearly average of 40 trees planted in 2011, 2012, 2013, and 2015 together with 50 saplings in 2010, this totals 210 saplings over six years compared to the one-time purchase of 150 saplings by Mr. and Mrs. Dahl for their personal use at another residence prior to purchasing the 160 acres.
+[22] To reiterate my comments in Land & Sea Enterprises, the eligibility of expenses that give rise to ITCs in the start-up phase of any business will require that a taxpayer show not only a clear intention to commence a commercial enterprise but also evidence of the steps taken in support of that stated intention. In the present appeal, I believe that the Appellants had an intention to commence a Christmas tree growing operation when they purchased the property in 2009. However, it was intermingled with a lifestyle that the Appellants envisioned for themselves surrounded by nature, particularly trees and wildlife habitat. These personal objectives are so co‑mingled with the business goals that, even if I could allow this appeal, I would be unable to do so because I have very little evidence on the actual split between personal and business. Their home is now located on the 160 acres so some of the preparatory costs for the roads, fencing and utilities may have been in respect to personal use. The barn is used for both business and personal storage but I have no evidence respecting the percentage breakdown.
+[23] While it is commendable that Mrs. and Mrs. Dahl exhibit such respect for their surroundings and are excellent stewards of the land, based on the evidence, I cannot conclude there existed a commercial endeavour with a goal of actively pursuing profit. ITCs cannot be allowed where, from the overall totality of the relevant facts, there is no evidence of the indicia of commerciality.
+[24] On a final note, although Respondent counsel attempted to make something of the fact that Mrs. Dahl’s background was as an economist and not in agriculture, her evidence suggests something quite different. She grew up in a farming family, working not only the farm but in the family winery. Although her several degrees are not in agriculture, I believe Mrs. Dahl’s background, experience and knowledge qualify as a positive factor but, unfortunately, it does not outweigh the other factors that I had to consider in coming to my conclusion. She is a well educated and well spoken individual and I am sure that with court cases behind her she will be successful in bringing the tree farm to a profitable enterprise.
+[25] The appeal is dismissed without costs.
+Signed at Ottawa, Canada, this 11th day of May 2016.
+“Diane Campbell”
+Campbell J.
+CITATION:
+2016 TCC 116
+COURT FILE NO.:
+2015-2669(GST)I
+STYLE OF CAUSE:
+LIVING FRIENDS TREE FARM
+(AGNES DAHL AND ELDON GARTH DAHL) and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+April 15, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+May 11, 2016
+APPEARANCES:
+Agent for the Appellant:
+Agnes Dahl
+Counsel for the Respondent:
+E. Ian Wiebe
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

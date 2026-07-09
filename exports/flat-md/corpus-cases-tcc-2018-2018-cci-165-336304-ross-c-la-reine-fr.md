@@ -1,0 +1,222 @@
+---
+title: "Ross c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/336304/index.do"
+last_modified: "2018-08-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 165"
+citation2: ""
+neutral_citation: "2018 CCI 165"
+decision_date: "2018-08-21"
+language: "fr"
+item_id: "336304"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4917
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:47:56.089000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e6ac0f97ffdd934bbbcdbc458d3ba7403061cec18cf4b423a72f0d8c91a2cad9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ross c. La Reine
+
+- Citation: 2018 CCI 165
+- Decision date: 2018-08-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4917, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ross c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-08-21
+Référence neutre
+2018 CCI 165
+Numéro de dossier
+2016-5251(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2018 CCI 165
+Date : 20180821
+Dossier : 2016-5251(IT)I
+ENTRE :
+DONALD ROSS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Que les motifs de jugement suivants prononcés à l’audience le 28 juin 2018 à Toronto (Ontario), en leur version modifiée de manière non importante aux seules fins linguistiques, soient déposés.)
+Le juge Russell
+[1] Voici les motifs du jugement que j’ai prononcés dans le présent appel interjeté par Donald Ross, l’appelant, à l’égard d’une cotisation établie le 21 octobre 2014 en vertu de la Loi sur l’impôt sur le revenu (Canada) (la Loi) pour son année d’imposition 2013. La cotisation refusait la déduction de dépenses d’emploi de 87 647 $ (somme arrondie au dollar le plus proche). Il s’agit là de l’objet de l’appel interjeté par l’appelant. La cotisation a été contestée et confirmée, menant au présent appel, qui a été entendu selon la « procédure informelle » de notre Cour que l’appelant a choisie. L’appelant a choisi de se représenter lui-même, dans le présent appel, y compris lors de l’audience tenue devant moi le 12 avril 2018.
+[2] L’avis d’appel se composait d’une lettre au greffe de la Cour datée du 8 décembre 2016 et contenait l’avis de confirmation du ministre du Revenu national (le ministre) du 13 septembre 2016 de la cotisation ayant fait l’objet de l’appel. La lettre renvoyait, dans un style abrégé, aux [traduction] « frais de déplacement », au « bureau à domicile » et aux « commissions versées ». En outre, elle indique que la déclaration de revenus de l’appelant pour 2013 a été préparée par l’appelant lui-même ou avec l’aide de deux personnes, Isabel Beer et Ximena Tinajero, et faisait référence à l’utilisation du [traduction] « système Turbo Tax ». La lettre renvoie à [traduction] « des doubles de reçus [de déplacement] ci-joints » qui n’étaient apparemment pas inclus.
+[3] Cette lettre adressée au greffe de la Cour, acceptée comme étant l’avis d’appel de M. Ross, semble répondre à l’avis de confirmation de la cotisation portée en appel du ministre daté du 13 septembre 2016 et joint aux présentes. Cet avis de confirmation a été joint à la lettre de M. Ross constituant l’avis d’appel. Ses trois principaux, mais courts paragraphes sont ainsi rédigés :
+[traduction] Votre objection repose sur votre allégation voulant que votre déclaration de revenus pour 2013 ait fait l’objet d’une nouvelle cotisation et que vos dépenses d’emploi de 87 647,38 $ aient été refusées parce que des documents appropriés n’ont pas été fournis à la Section d’examen précotisation du centre fiscal.
+Comme nous n’avons pas reçu d’observations en réponse à notre lettre envoyée le 14 juillet 2016, nous nous sommes fondés sur les renseignements qui figuraient au dossier. Notre examen a déterminé que vous ne répondez pas aux conditions requises en matière de déduction de dépenses d’emploi en application du paragraphe 8(13), de l’alinéa 8(1)h), du sous-alinéa 8(1)h.1), et du paragraphe 8(2) de la Loi de l’impôt sur le revenu.
+Par conséquent, nous confirmons la décision du centre fiscal ayant refusé les dépenses d’emploi de 87 647,38 $ que vous avez demandées.
+[4] J’ai renvoyé à l’avis d’appel de l’appelant. En réponse à cet acte de procédure à l’origine du présent appel, le ministre a, comme d’habitude, signifié et déposé l’acte de procédure de la Couronne, appelé « réponse ». Je vais reprendre en détail des extraits de la réponse. De toute évidence, il est bien établi en droit que les « hypothèses de fait » plaidées dans une réponse sont présumées être véridiques, sauf dans la mesure où l’appelant présente au moins une preuve prima facie à l’effet contraire. La raison de cette préférence est que le contribuable devrait être davantage au courant de ses affaires que le ministre. Ainsi, il incombe au contribuable d’établir si le ministre a tort quant à ce qu’il a assumé constituer la situation du contribuable et dans quelle mesure.
+[5] En examinant la réponse, on peut y lire ceci :
+[traduction]
+6. En déterminant la dette fiscale de l’appelant pour l’année d’imposition 2013, le ministre a émis les hypothèses de fait suivantes :
+a) L’appelant a déclaré un revenu d’emploi total de 172 706,43 $ pour l’année d’imposition 2013 comme suit :
+Jones Gable
+4 055,47 $
+Feuillet T5 de JG
+505 612,65 $
+Pur-sang
+(196 961,69 $)
+Perte commerciale 2013 (créance douteuse)
+(140 000,00 $)
+Revenu d’emploi total déclaré
+172,706,43 $
+b) L’appelant a reçu un revenu d’emploi de 4 055,47 $ (feuillet T4) de Jones, Gale & Company Limited (Jones) pour l’année d’imposition 2013, dont un montant de 3 327,91 $ constituait des commissions;
+c) Dans sa déclaration de revenus pour l’année d’imposition 2013, l’appelant a déclaré des dépenses d’emploi totales de 87 647,38 $ de la manière détaillée à l’annexe A ci-jointe :
+ANNEXE A – Dépenses d’emploi (année d’imposition 2013)
+Année d’imposition 2013
+Demandées
+Admises
+Refusées
+BUREAU À DOMICILE
+4 850,00 $
+0,00 $
+4 850,00 $
+PÉRIODIQUES
+400,00 $
+0,00 $
+400,00 $
+ASSURANCE AUTOMOBILE, PERMIS ET CAA
+1 737,43 $
+0,00 $
+1 737,43 $
+RÉPARATIONS – ¼
+2 488,18 $
+0,00 $
+2 488,18 $
+STATIONNEMENT, TAXI, CARBURANT ¼
+311,75 $
+311,75 $
+KILOMÉTRAGE – dép. 20 590 km
+4 532,75 $
+0,00 $
+4 532,75 $
+LCBO – ¼
+163,34 $
+0,00 $
+163,34 $
+RESTAURANTS ET DIVERTISSEMENT MAISON – ¼
+6 148,75 $
+0,00 $
+6 148,75 $
+CADEAUX ET DÉPLACEMENT
+2 939,18 $
+0,00 $
+2 939,18 $
+PROPRE SALAIRE ET COMMISSION VERSÉ – 1/5
+64 076,00 $
+0,00 $
+64 076,00 $
+Total des dépenses d’emploi
+87 647,38 $
+0,00 $
+87 647,38 $
+d) Les dépenses d’emploi demandées par l’appelant se composaient des éléments suivants : bureau à domicile, périodiques, assurance automobile, réparations, stationnement, kilométrage, LCBO, repas et divertissement, cadeaux, frais de déplacement et commissions versées;
+e) L’appelant a présenté un feuillet T2200 – Déclaration des conditions de travail (feuillet « T2200 ») préparé par Jones pour l’année d’imposition 2013;
+f) Jones n’obligeait pas l’appelant à maintenir un bureau à domicile;
+g) L’appelant n’était pas tenu de travailler ailleurs qu’à son lieu de travail chez Jones;
+h) L’appelant n’était pas tenu par Jones de payer lui-même les fournitures qu’il utilisait directement dans son travail;
+i) L’appelant a reçu un remboursement de 49 549 $ de la part de Jones pour les frais de déplacement et de divertissement durant l’année d’imposition 2013 (le remboursement);
+j) Le remboursement n’était pas inclus à titre de revenu sur le feuillet T4 de l’appelant pour l’année d’imposition 2013 remis par Jones;
+k) L’appelant n’a pas engagé de dépenses d’emploi durant l’année d’imposition 2013 dans le cadre de ses fonctions; et
+l) Les dépenses d’emploi demandées n’ont pas été engagées dans le cadre de l’exercice de ses fonctions chez Jones.
+Autres faits substantiels
+7. L’appelant a qualifié, à tort, les montants suivants de revenus d’emploi pour l’année d’imposition 2013 :
+a) Revenu d’intérêts de 505 612,65 $ (feuillet T5) de Jones, Gable & Company Limited;
+b) Pertes relatives aux chevaux pur-sang de 196 961,69 $;
+c) Pertes en capital (créance douteuse) de 140 000,00 $.
+QUESTION À TRANCHER
+8. Il s’agit de savoir si l’appelant a le droit de déduire des frais liés à l’emploi d’un montant de 87 647 $ pour l’année d’imposition 2013.
+LES MOYENS INVOQUÉS ET LA MESURE DE REDRESSEMENT RECHERCHÉE
+10. [Le ministre] fait respectueusement valoir que, conformément à l’article 8, aux paragraphes 8(2) et 8(13) et aux alinéas 8(1)h) et 8(1)h.1) de la Loi, l’appelant n’a pas engagé des dépenses d’emploi de 87 647 $ pour l’année d’imposition 2013 dans le but de tirer un revenu d’emploi.
+[6] Ce sont les allégations qui se retrouvent dans la réponse et c’est un document qui était entre les mains de M. Ross; le but de ce document est de décrire assez longuement ce à quoi pense le ministre et de permettre au contribuable de savoir quels points aborder à l’audience.
+[7] Lors de l’instruction de l’affaire, seul M. Ross a témoigné. Quatre documents ont également été déposés en preuve. L’un était le feuillet T2200 de M. Ross que lui a remis son employeur. Le feuillet est signé par une personne, Robb Hindson, identifié comme étant le directeur financier de Jones Gable. Ce feuillet T2200 a été déposé en preuve par l’appelant. Il comprend les déclarations suivantes :
+[traduction]
+Selon son contrat d’emploi, l’employé devait-il utiliser un espace de sa maison consacré au travail à domicile?
+La case « non » est cochée.
+Avez-vous remboursé ou rembourserez-vous cet employé au moins une de ces dépenses se rapportant au bureau à domicile?
+La case « non » est cochée.
+Selon son contrat de travail, l’employé devait-il payer les dépenses qu’il a engagées pour accomplir les tâches liées à son travail?
+La case « oui » est cochée.
+Habituellement, exigiez-vous que cet employé, dans l’exercice de ses fonctions, se rende à des endroits qui ne sont pas votre lieu d’affaires ou se déplace entre les différents sites de vos lieux d’affaires?
+La case « non » est cochée.
+Avez-vous exigé que cet employé reste au moins 12 heures consécutives à l’extérieur de la municipalité et de la région métropolitaine (s’il y en a une) où est situé votre établissement et où cet employé se présentait habituellement au travail?
+La case « non » est cochée.
+Sa lettre d’accompagnement datée du 15 juillet 2014 adressée à l’Agence du revenu du Canada comprend l’énoncé suivant :
+[traduction] Concernant la ligne 101 du feuillet T4 – un montant de 140 000 $ a été déposé dans un compte débiteur net sécurisé (créance douteuse). De plus, les revenus de commissions de 782 000 $ pour l’année 2013 ne m’ont pas été présentés en raison de la même position partiellement garantie. Les dépenses de commissions versées totalisant 64 076 $ proviennent d’un achat de 80 000 $ payé dans le cadre d’un placement privé, plus 95 $ sur une autre transaction moins 20 %.
+[8] Nous disposons également du feuillet T4 de M. Ross indiquant un revenu d’emploi de 4 055 $ auprès de son entreprise. M. Ross a déclaré dans son témoignage que ce montant est faible parce qu’une bonne partie de son revenu avait pour but de sécuriser une position autrement partiellement garantie dans un titre détenu par un client de son entreprise.
+[9] Enfin, comme quatrième et dernier document, nous avons une lettre datée du 10 octobre 2014 de M. Hindson, directeur financier de l’employeur Jones Gable de M. Ross disant ce qui suit :
+[traduction]
+« Nous avons répondu « non » aux questions 1 et 9a) de son feuillet T2200 pour l’année d’imposition 2013, parce que nous n’avons pas conclu d’accord écrit avec lui [M. Ross] qui l’oblige à payer ses dépenses dans le cadre de l’exercice de ses fonctions ou à maintenir un bureau à son domicile. Cependant, d’un point de vue pratique, les personnes qui exercent le nombre et l’éventail d’activités génératrices de revenu que M. Ross exerce engagent souvent des dépenses d’entreprise et travaillent généralement en dehors des heures « normales » de bureau de manière importante, et s’acquittent de certaines de leurs tâches professionnelles à la maison. Dans le cas de M. Ross, le soussigné [M. Hindson] n’est pas en mesure de confirmer la déductibilité des frais réclamés dans sa déclaration de revenus ou le maintien d’un bureau à son domicile, mais il estime qu’il est probable qu’il a dû engager des dépenses déductibles pour lesquelles il n’a pas été remboursé et peut attester qu’il apporte d’importants volumes de travail à la maison, et arrive au bureau le matin avec le travail qu’il a accompli. À ce titre, il peut avoir des motifs raisonnables de demander le remboursement de ses dépenses.
+Il convient de noter que le feuillet T4 de M. Ross pour l’année d’imposition 2013 n’est pas représentatif de l’activité génératrice de revenu susmentionnée, étant donné que ses revenus ont été en grande partie contrebalancés par des pertes dans un compte de négociation de Jones, Gable exploité et garanti par M. Ross.
+[10] À l’audience, M. Ross a témoigné et a été contre-interrogé. Il a déclaré dans son témoignage que la majeure partie de son travail était accompli à son bureau de Toronto par opposition à un bureau à domicile. Il a également affirmé qu’il se déplaçait beaucoup pour le compte de clients, que j’interprète, du moins dans l’ensemble, comme étant des déplacements dans la région métropolitaine de Toronto et ailleurs dans la province. Son témoignage concernant les dépenses de commissions totalisant 64 000 $, dans le contexte de dépenses d’emploi, a été difficile à suivre. Il n’a présenté aucune documentation qui pourrait l’avoir aidé à élucider ce sujet. Il a dit que la déduction demandée de 64 000 $ à titre de commission versée à sa société avait toujours été admise en application d’une entente avec l’Agence du revenu du Canada. Mais il a été incapable d’expliquer le fondement factuel ou juridique pour cette allégation ou de présenter des documents à l’appui. À la fin de l’audience, la thèse de l’intimée a continué à être celle qui avait été exposée dans la réponse, et l’intimée a soutenu également que le témoignage de M. Ross avait été difficile à comprendre et à suivre.
+[11] Il s’agit de déterminer si M. Ross a été en mesure de démontrer que la cotisation faisant l’objet de l’appel ayant refusé la déduction demandée pour dépenses d’emploi de 87 647 $ est erronée.
+[12] Il semble que M. Ross ait demandé ces éléments, en particulier la déduction pour le paiement d’une commission de 64 000 $ à sa société, à titre de dépense d’emploi. Il semble qu’il ait déposé la déclaration de revenus dans le système Turbo Tax, possiblement lui-même. Il est possible que la commission n’ait pas été correctement saisie dans la déclaration de revenus en tant que dépense d’emploi. On s’attendrait plus généralement à ce que toute commission versée à un courtier pour obtenir un titre pour un avoir privé soit ajoutée au prix de base rajusté du titre à déduire de tout gain découlant de la disposition du titre, afin de déterminer le gain ou la perte en capital, ou à déduire à titre de dépense si le gain, à la vente du titre, doit être déclaré au titre de revenu.
+[13] La question des dépenses d’emploi est strictement encadrée par la loi, conformément à l’article 8. Le paragraphe 8(2) dispose qu’aucune dépense d’emploi ne peut être revendiquée, sauf celles permises en vertu de l’article 8. Rien dans l’article 8 qui renverrait à la déduction d’un versement de commission à l’achat d’un titre n’a été porté à mon attention et je ne suis pas au courant qu’une telle disposition existe dans cet article.
+[14] Les alinéas 8(1)h) et 8(1)h.1) traitent des frais de déplacement autres que des frais afférents à un véhicule à moteur et des frais afférents à un véhicule à moteur, respectivement. Ces dispositions requièrent que l’emploi exige généralement des déplacements, sans remboursement. Mais le feuillet T2200 pour M. Ross affirme que des déplacements n’étaient pas requis dans le cadre de son emploi. Ni même un bureau à domicile. Peut-être que ses déplacements seraient déductibles à titre de dépenses d’entreprise, mais M. Ross est un employé de sa société, et nous sommes donc en présence d’une relation d’emploi.
+[15] Compte tenu de ce qui précède, à mon avis, M. Ross n’a pas établi de preuve prima facie lui permettant de réfuter les hypothèses soulevées par le ministre. Par conséquent, je me vois obligé de rejeter l’appel; toutefois, aucuns dépens ne seront adjugés à l’une ou l’autre partie.
+[16] Cependant, M. Ross, je tiens à attirer votre attention sur le paragraphe 152(4.2) de la Loi. Il permet à un contribuable de demander au ministre d’établir de nouvelles cotisations pour une année d’imposition d’un particulier, à la condition que ce soit au plus tard dans les dix ans qui suivent cette année d’imposition. Il s’agit d’une question discrétionnaire pour le ministre et le fait que vous avez déjà interjeté appel pour cette année d’imposition peut encourager le ministre à dire non. Mais il peut y avoir d’autres renseignements ou documents que vous pouvez fournir au ministre au soutien de votre demande qui n’ont pas été fournis à la Cour dans le cadre de la présente audience. Si vous êtes intéressé à explorer cette voie, je vous recommande d’obtenir des conseils juridiques.
+Signé à Halifax (Nouvelle-Écosse), ce 21e jour d’août 2018.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2018CCI165
+No DU DOSSIER DE LA COUR :
+2016-5251(IT)I
+INTITULÉ :
+DONALD ROSS ET LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 28 juin 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DES MOTIFS DU JUGEMENT :
+Le 21 août 2018
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Suranjana Bhattacharyya
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

@@ -1,0 +1,180 @@
+---
+title: "Freake c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29513/index.do"
+last_modified: "2009-11-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 568"
+citation2: ""
+neutral_citation: "2009 CCI 568"
+decision_date: "2009-11-03"
+language: "fr"
+item_id: "29513"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6270
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:24:05.962000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "93483ba9496bc73eb0b028bd63e4736dd158b2f628fb2e74985f9a3e6cadb8a7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Freake c. La Reine
+
+- Citation: 2009 CCI 568
+- Decision date: 2009-11-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6270, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Freake c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-11-03
+Référence neutre
+2009 CCI 568
+Numéro de dossier
+2008-1366(IT)I
+Juges et Officiers taxateurs
+Frank J. Pizzitelli
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1366(IT)I
+ENTRE :
+LLOYD FREAKE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 9 octobre 2009,
+à Corner Brook (Terre-Neuve-et-Labrador)
+Devant : L’honorable juge F. J. Pizzitelli
+Comparutions :
+Représentant de l’appelant :
+M. Fred Cole
+Avocate de l’intimée :
+Me Jill Chisholm
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est accueilli, et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant a le droit de déduire de son revenu un montant de 23 758,43 $ au titre des autres dépenses d’emploi.
+Des dépens de 500 $ sont accordés à l’appelant.
+Le droit de dépôt de 100 $ sera remboursé à l’appelant.
+Signé à Ottawa, Canada, ce 3e jour de novembre 2009.
+« F. J. Pizzitelli »
+Juge Pizzitelli
+Traduction certifiée conforme
+ce 29e jour de janvier 2010.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 568
+Date : 20091103
+Dossier : 2008-1366(IT)I
+ENTRE :
+LLOYD FREAKE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Pizzitelli
+Questions en litige
+[1] La question à trancher dans le présent appel est celle de savoir si l’appelant a le droit, en vertu du paragraphe 8(1) de la Loi de l’impôt sur le revenu (la « Loi »), de déduire des dépenses d’emploi totalisant 24 303 $ au titre de la pension et du logement et des autres frais de déplacement. Si tel est le cas, la Cour doit alors déterminer s’il a exclu de son revenu toute allocation reçue à l’égard de ces dépenses. Si l’appelant n’a pas le droit de déduire les dépenses susmentionnées, je dois alors déterminer s’il peut soustraire quelque montant que ce soit de son revenu en vertu du paragraphe 6(6) de la Loi pour l’année d’imposition 2006, dans la mesure où un tel montant a été inclus dans le revenu. La Cour doit également régler une question de moindre importance, à savoir le montant des cotisations syndicales qui sont déductibles.
+Contexte
+[2] En ce qui a trait à l’année d’imposition 2006, le contribuable, un compagnon monteur de lignes résidant à Twillingate (Terre-Neuve-et-Labrador), au Canada, a travaillé aux États-Unis tout au long de l’année, soit cinq mois dans l’État de la Virginie, où il a gagné 38 334,59 $US, et sept mois dans l’État de la Californie, où il a gagné 124 786,79 $US. Selon le taux de change moyen applicable en 2006, les revenus du contribuable en dollars américains équivalent à 184 994 $CAN. Celui-ci a déduit un total de 24 303 $ au titre de dépenses d’emploi et de 5 890 $ au titre de cotisations syndicales, dont seulement 545 $ ont été acceptés au titre des dépenses d’emploi et 4 408 $ au titre des cotisations syndicales.
+[3] L’appelant est membre du International Brotherhood of Electrical Workers Union. Il possède une expertise et des compétences en matière de planification technique, de montage et de réparation de lignes hydroélectriques sur de grandes distances. Il a travaillé au Canada mais surtout aux États-Unis au cours des quelque 14 dernières années; il a témoigné qu’il avait décidé de répondre aux demandes de travail aux États-Unis en raison de la technologie plus avancée utilisée pour les pylônes et en raison du fait qu’il croyait qu’une telle expertise le préparerait à un tel travail au Canada dans le futur, sans compter la nécessité de travailler dans ce domaine. Les travaux de montage de lignes hydroélectriques sur de grandes distances et divers reliefs sont effectués par de grosses sociétés spécialisées et, de toute évidence, à divers endroits où les soumissions sont acceptées et les contrats obtenus. En raison de la nature du travail, les employés se rendent là où les travaux doivent être faits. L’appelant se rappelait précisément les divers endroits où il avait travaillé et résidé, tant au cours des nombreuses années passées qu’au cours de l’année 2006, ce qu’il a amplement prouvé lors du contre-interrogatoire mené par l’avocate de l’intimée. Pour chacun des projets, soit l’appelant recevait de l’entrepreneur un appel l’invitant à accepter le poste, soit il avait entendu des amis et collègues travaillant dans le même domaine parler d’un tel poste et avait postulé l’emploi.
+[4] L’appelant quittait son domicile de Terre-Neuve-et-Labrador et se rendait en avion ou en voiture, à ses frais, au bureau de projet de l’entrepreneur, qui se trouvait habituellement à proximité du lieu du projet et qui pouvait être un bureau permanent de l’entrepreneur ou un bureau de projet temporaire, selon l’endroit. Après s’être occupé des formalités administratives et, entre autres, s’être rendu en voiture au bureau du syndicat local le plus près afin de transférer son permis de travail à l’administration locale pour être en mesure de travailler là où il était, l’appelant cherchait une chambre, habituellement dans un petit motel ou un gîte situé dans le secteur dans lequel il devait travailler. Il se présentait à la roulotte du chantier, que le chef de chantier utilisait comme bureau de chantier temporaire pendant la durée du projet. Au fur et à mesure que le montage des lignes aériennes progressait, on déplaçait la roulotte du chantier le long de la ligne.
+[5] L’appelant devait se présenter quotidiennement à la roulotte du chantier, peu importe où se trouvait celle-ci, puis on l’emmenait, dans un véhicule de la société, à l’endroit précis où il devait travailler ce jour-là. Lorsqu’il avait son propre camion, comme c’était le cas en Virginie et en Californie, l’appelant se rendait par lui‑même à la roulotte du chantier. Il a témoigné que, au fur et à mesure que la roulotte du chantier se déplaçait, il changeait souvent de motel pour se rapprocher du lieu de travail et ainsi écourter les déplacements entre le motel et la roulotte du chantier.
+[6] Entre les projets, l’appelant prenait l’avion, à ses frais, pour retourner à la résidence qu’il occupait à Twillingate, à Terre-Neuve-et-Labrador, notamment pendant la période des Fêtes, et retrouvait ainsi sa conjointe et les autres membres de sa famille. C’était lui qui devait organiser et payer ses déplacements entre Terre‑Neuve‑et‑Labrador et la chambre qu’il occupait près du lieu de travail et trouver et c’était lui qui devait payer pour sa chambre et ses repas.
+[7] En 2006, l’appelant a travaillé pour un seul employeur aux États-Unis, à savoir la société PAR Electrical Contractors, Inc., dont le siège social se trouvait à Kansas City, au Missouri, et qui avait plusieurs bureaux auxiliaires un peu partout dans ce pays, ainsi que des bureaux temporaires dans les villes situées près des lieux de travail lorsqu’il y avait des projets qui devaient être exécutés loin de ses bureaux et qui avaient trait au montage de lignes hydroélectriques sur de grandes distances. Comme je l’ai déjà mentionné, une roulotte temporaire était installée près de l’endroit où les travaux devaient avoir lieu et se déplaçait le long des lignes au fur et à mesure que les travaux avançaient.
+[8] Un état des dépenses d’emploi annexé à la déclaration de revenus de l’appelant pour 2006 fait état de dépenses que l’Agence du revenu du Canada (l’« ARC ») a par la suite refusées, notamment un montant de 7 756,66 $ au titre des aliments et boissons et un montant de 16 001,87 $ au titre du logement. J’ai déjà mentionné qu’une partie des cotisations syndicales réclamées avait été refusée, soit un montant de 1 482 $. L’appelant soutient que le montant de ses revenus bruts de 2006, soit 184 994 $, comprend une allocation pour pension et logement, ce que l’intimée nie. Je traiterai de cette question plus loin.
+Positions des parties
+[9] L’appelant soutient que ces déductions correspondent aux dépenses qu’il a directement engagées au titre de la pension et du logement et du transport dans le cadre de son emploi, pour lequel il était tenu d’exercer ses fonctions ailleurs qu’au lieu d’affaires de son employeur, soit dans un lieu qualifié de chantier particulier par le représentant de l’appelant, qui a ajouté que toutes ces dépenses étaient raisonnables et, par conséquent, déductibles. Subsidiairement, l’appelant soutient que, si la Cour devait conclure que ces dépenses ne sont pas déductibles, il avait reçu de son employeur des allocations pour frais de subsistance qu’il a incluses dans son revenu et qui devraient donc être soustraites du revenu en application du paragraphe 6(6) de la Loi.
+[10] La position de l’intimée sur la question de la déductibilité est que l’appelant n’était pas tenu de travailler ailleurs qu’au lieu d’affaires de son employeur puisque ce lieu était la roulotte où l’appelant se présentait quotidiennement. Puisqu’il avait de plein gré accepté de travailler à ces endroits, l’appelant s’y était de fait installé, et les dépenses engagées étaient donc des frais de subsistance personnels. Ces positions ont été exposées au cours de l’argumentation ou de la déposition du témoin de l’intimée, lequel a, en expliquant pour quelle raison il n’avait pas passé en revue les éléments de preuve concernant les reçus – envoyés à l’ARC – relatifs à la pension et au logement et aux déplacements entre Terre-Neuve-et-Labrador et le lieu du projet, ni assuré de suivi à cet égard, conclu que ces reçus étaient inutiles, étant donné qu’il avait agi en se fondant sur le fait que ces dépenses étaient de nature personnelle. L’intimée n’a produit aucun autre élément de preuve en ce qui a trait à la déductibilité de ces dépenses. L’avocate de l’intimée n’a invoqué aucun fait relatif à l’alinéa 8(1)h) de la Loi que l’intimée avait présumé au sujet de la déductibilité des dépenses dans le contexte des frais de déplacement visés par cette disposition, si ce n’est pour dire que de telles dépenses n’avaient pas été engagées. Comme je l’ai déjà mentionné, l’intimée a simplement présumé que ces déductions se rapportaient à des frais de subsistance personnels et a axé son argumentation sur la seconde conclusion recherchée par l’appelant, en soutenant que, si les dépenses n’étaient pas déductibles, le contribuable n’avait donc en fait ni reçu ni réclamé des allocations au regard du revenu au sens du paragraphe 6(6) de la Loi et qu’il ne pouvait donc pas soustraire de nouveau ces montants à son revenu. C’est ce qui ressort clairement du paragraphe 13 de la réponse modifiée, où il est question de la conclusion recherchée par l’intimée et qui est rédigé ainsi :
+[traduction]
+13. Il soutient que l’appelant n’a, en ce qui a trait à son emploi aux États-Unis, reçu aucun montant qui avait été inclus dans son revenu pour 2006, ni n’en a joui, et qui représentait la valeur des frais que l’appelant avait supportés pour sa pension et son logement pendant qu’il vivait et travaillait aux États‑Unis au cours de l’année d’imposition 2006, ou une allocation à cet égard. L’appelant n’a par conséquent pas le droit de soustraire quelque montant que ce soit du revenu de 184 994 $ qu’il a déclaré conformément au paragraphe 6(6) de la Loi.
+[11] Les seuls faits pertinents qui sont contestés sont énoncés aux paragraphes 2, 3 et 4 et au sous‑alinéa 10(i) de la réponse modifiée.
+[traduction]
+[...]
+2. Il nie le fait que le travail de l’appelant obligeait celui-ci à s’absenter de son lieu principal de résidence pendant des périodes d’au moins 36 heures.
+3. Il nie le fait que l’appelant ait exercé les fonctions de son emploi sur un chantier particulier.
+4. Il nie le fait que le montant de 24 038,88 $ représentait la valeur de la pension et du logement.
+[…]
+10. […]
+AUTRES FAITS IMPORTANTS
+Le ministre souhaite maintenant se fonder sur ce qui suit :
+(i) l’appelant n’a reçu de son employeur aucune allocation qui a été incluse dans son revenu au titre des dépenses que l’appelant a supportées au cours de l’année d’imposition 2006;
+[…]
+Analyse
+[12] Aux fins de l’examen de la première question en litige, à savoir si les dépenses décrites ci-dessus sont déductibles, la disposition pertinente est l’alinéa 8(1)h) de la Loi, qui prévoit ce qui suit :
+8(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+h) lorsque le contribuable, au cours de l’année, à la fois :
+(i) a été habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits,
+(ii) a été tenu, en vertu de son contrat d’emploi, d’acquitter les frais de déplacement qu’il a engagés pour l’accomplissement des fonctions de sa charge ou de son emploi,
+les sommes qu’il a dépensées pendant l’année (sauf les frais afférents à un véhicule à moteur) pour se déplacer dans l’exercice des fonctions de son emploi, sauf s’il a, selon le cas :
+(iii) reçu une allocation pour frais de déplacement qui, par l’effet des sous‑alinéas 6(1)b)(v), (vi) ou (vii), n’est pas incluse dans le calcul de son revenu pour l’année,
+(iv) demandé une déduction pour l’année en application des alinéas e), f) ou g);
+[…]
+[13] Aucune des exceptions n’est applicable aux faits de l’espèce, y compris l’exception prévue au sous‑alinéa 6(1)b)(vii), étant donné que, de par leur nature, les dépenses réclamées ne se rapportaient pas aux déplacements à l’extérieur du chantier auquel l’appelant se présentait habituellement, mais plutôt aux déplacements entre le lieu de travail et Terre-Neuve-et-Labrador ainsi qu’à la pension et au logement près du chantier.
+[14] En ce qui a trait à la première question de droit, je ne souscris pas à la position adoptée par l’intimée. À mon avis, l’appelant a satisfait aux conditions applicables à la déductibilité énoncées à l’alinéa 8(1)h), et la preuve établit clairement qu’il était tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur, ce qui est la première condition qui doit être remplie.
+[15] De toute évidence, l’appelant était un résident de Terre-Neuve-et-Labrador, au Canada, et le ministre a de fait émis, à l’alinéa 10b) de sa réponse modifiée, l’hypothèse selon laquelle l’appelant résidait au Canada. J’accepte le témoignage de l’appelant portant que son lieu principal de résidence était situé à Twillingate, à Terre‑Neuve, où sa famille résidait habituellement, et qu’il quittait cette ville pour aller travailler aux États‑Unis puis y revenait par après.
+[16] L’argument de l’intimée selon lequel l’appelant avait choisi de plein gré de travailler à un nouvel endroit et que cela signifiait qu’il y tenait en fait une autre résidence n’est pas logique dans les circonstances. L’intimée s’est appuyée sur l’affaire Douglas v. The Queen, 90 D.T.C. 6597, dans laquelle le contribuable, à la demande de son employeur, s’était rendu dans une autre ville afin d’y ouvrir un nouveau bureau et avait par la suite accepté un poste permanent dans ce nouvel établissement. La Cour a conclu que le contribuable n’était dès lors plus tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur. Ces faits ne s’appliquent pas à l’affaire qui nous occupe, puisqu’il n’y a aucune preuve du fait que le poste de l’appelant soit jamais devenu permanent à l’un ou l’autre lieu d’affaires de l’employeur. La preuve établit clairement que l’appelant était tenu de s’acquitter de ses fonctions, probablement seulement tant que le projet demeurait inachevé (si tant est qu’il choisît de rester jusqu’à la fin du projet), sur un chantier qu’on déplaçait au fur et à mesure qu’avançaient les travaux de montage des lignes hydroélectriques, puis qu’il retournait à son domicile. Il n’y avait aucun poste permanent qu’il aurait pu accepter, et aucun poste permanent ne lui avait été offert.
+[17] L’intimée s’est en outre appuyée sur l’affaire Munroe c. La Reine, [1992] A.C.I. no 281 (QL), dans laquelle le contribuable s’était déplacé de Halifax à Toronto pour travailler sur un seul chantier de construction, où se trouvait un bureau de chantier autonome. La Cour a conclu que ce bureau était bien le lieu d’affaires de l’employeur et a par conséquent conclu que le contribuable n’était pas tenu de s’absenter du lieu d’affaires de l’employeur. Il y a lieu d’établir une distinction entre cette affaire et la présente cause, dans laquelle le travail ne devait pas être effectué à un endroit fixe, mais plutôt dans un plus grand secteur géographique dans lequel les travaux étaient effectués et une roulotte amovible temporaire, qualifiée de bureau du chef de chantier, était progressivement déplacée le long du vaste chantier de travail au fur et à mesure que les travaux avançaient. Je n’accepte pas l’argument selon lequel une roulotte amovible, qui servait de lieu de rassemblement quotidien plutôt que de bureau de chantier, comme c’était le cas dans l’affaire Munroe, était le lieu d’affaires de l’employeur. De plus, la preuve a établi que l’employeur avait établi son siège social à Kansas City, au Missouri, et qu’il avait des bureaux auxiliaires un peu partout aux États‑Unis; aucun de ces bureaux ne correspondait à l’emplacement du chantier où le travail était réellement effectué, chantier auquel l’appelant, à tout le moins dans le cas du projet californien, était tenu de se présenter uniquement pour s’occuper des formalités administratives avant de se rendre à la roulotte se trouvant sur le chantier temporaire, ce qui constitue une autre preuve du fait que l’appelant s’absentait du lieu d’affaires de son employeur.
+[18] Deuxièmement, la preuve incontestée établit clairement qu’une des conditions de l’emploi de l’appelant était qu’il devait lui-même trouver un logement et assumer les frais d’hébergement et de repas.
+[19] Enfin, dans les affaires Champaigne c. La Reine, 2006 CCI 74, et Dionne c. La Reine, 2006 CAF 79, dont les situations de fait sont similaires, notre cour et la Cour d’appel fédérale ont toutes deux conclu que le contribuable avait droit aux déductions prévues aux alinéas 8(1)h) et h.1), ce dernier alinéa ayant trait aux frais afférents à un véhicule à moteur, et je suis lié par la décision que le tribunal d’appel a rendue relativement à cette question. Je pourrais cependant ajouter que, contrairement aux deux affaires susmentionnées, le chantier de la présente espèce revêt un caractère encore moins permanent que les bureaux de chantier dans ces deux causes puisqu’il se déplaçait littéralement de façon constante; il tombe donc plus facilement sous le coup de ces alinéas.
+[20] Ayant conclu que l’appelant a le droit de demander la déduction de frais de déplacement raisonnables au sens du paragraphe 8(1) précité, je dois déterminer si l’appelant a inclus dans son revenu quelque montant qu’il aurait reçu de son employeur et qui représentait la valeur des frais relatifs à la pension et au logement; étant donné qu’un contribuable ne peut pas, comme l’a souligné l’avocate de l’intimée, à la fois jouir de la déduction et ne pas inclure dans son revenu les montants qu’il a pu recevoir relativement à ces dépenses à titre de remboursements ou d’allocations ainsi que l’exige la disposition générale de la Loi, soit l’alinéa 6(1)b).
+[21] La principale hypothèse que l’appelant doit réfuter est celle qui figure au sous‑alinéa 10(i) de la réponse modifiée, à savoir que l’appelant n’avait reçu aucune allocation qui a été incluse dans son revenu. Si l’appelant était en mesure d’établir, selon la prépondérance des probabilités, qu’il a bel et bien inclus un tel montant dans son revenu, il réussirait à réfuter cette hypothèse, et il incomberait alors au ministre de prouver le contraire.
+[22] L’intimée s’est appuyée sur une lettre que Ford Hayden, agent des décisions de l’ARC, avait demandée à l’employeur. M. Hayden a pris la relève de l’agent des décisions qui avait en fait pris la décision dans ce dossier et qui n’a pas pu témoigner. M. Hayden s’est occupé de ce dossier uniquement après le dépôt de l’avis d’appel. Il a témoigné qu’il avait communiqué avec l’employeur pour obtenir des renseignements au sujet des allocations et qu’il avait obtenu une lettre, datée du 22 septembre 2009, dans laquelle on pouvait lire ce qui suit : [traduction] « […] en 2006, M. Freake a touché un salaire normal de 163 121,38 $. […] M. Freake a reçu des remboursements totalisant 10 171,32 $, ce qui comprend une allocation hebdomadaire permettant à l’employé de payer les frais de subsistance qu’il a supportés pendant qu’il travaillait au Wyoming. Il a reçu des paiements de 510 $ par semaine pendant 17 semaines, plus un paiement de 340 $ pour une semaine partielle ».
+[23] Le problème évident que pose cet élément de preuve est que les deux parties ont convenu que, pendant la période en cause, l’appelant était en Virginie et en Californie et non au Wyoming, de sorte que, si ce n’est qu’il prouve que l’employeur a par ailleurs bel et bien versé des allocations hebdomadaires au titre des frais de subsistance de l’appelant, cet élément de preuve n’est guère utile. M. Hayden a reconnu que c’était le cas au cours du contre-interrogatoire, et il a ajouté qu’il n’avait pas cherché à se renseigner davantage au sujet de cette contradiction.
+[24] M. Hayden a, au cours du contre-interrogatoire, fourni des éléments de preuve davantage dignes de foi sur cette question lorsqu’on lui a demandé de vérifier le calcul du salaire normal, s’élevant à 163 121,38 $, qui était mentionné dans cette lettre. Ce montant est évidemment exprimé en dollars américains et correspond exactement au montant que l’appelant a inclus à titre de revenu dans sa déclaration de revenus canadienne, soit 184 994 $CAN suivant le taux de change applicable. Le représentant de l’appelant a renvoyé M. Hayden à la télécopie, datée du 28 août 2008 et provenant du siège social de PAR Electrical Contractors, Inc., dans laquelle est indiqué le nombre d’heures de travail de l’appelant pour l’ensemble de l’année 2006, ainsi que son salaire brut, son salaire net et les déductions effectuées. Les pages 4 et 5 de la télécopie mentionnent les mêmes semaines de travail et la même rémunération brute, mais il y est indiqué que le travail a été effectué en Virginie ou en Californie. Après avoir appliqué le taux de salaire horaire indiqué sur le dernier talon de chèque de paye de 2006 aux heures de travail indiquées sur ce talon, ce qui donnait le même nombre d’heures de travail que celui indiqué dans la télécopie susmentionnée, M. Hayden a effectué des calculs pour la Cour : le salaire normal pour cette période de paye s’élevait à 1 710,80 $ et non à 1 910,80 $, montant qui était indiqué dans la télécopie au titre du revenu brut. La différence était de 200 $ exactement, soit le même montant que celui indiqué sur le talon de chèque de paye au poste [traduction] « autres montants normaux », c’est‑à‑dire, selon ce qui est indiqué à la première page de la télécopie, l’allocation de subsistance. En d’autres termes, il s’agit de l’allocation hebdomadaire que l’appelant soutient avoir reçue lorsqu’il travaillait en Californie. En fait, le résultat est le même si les mêmes calculs sont effectués pour chacune des 28 périodes de paye se rapportant au travail effectué en Californie. Je suis par conséquent tout à fait convaincu, compte tenu des éléments de preuve susmentionnés et le témoignage de l’appelant, que celui‑ci a réfuté l’hypothèse du ministre sur cette question et qu’il a, conformément au paragraphe 6(1) de la Loi, inclus dans ses revenus l’allocation de subsistance qu’il avait reçue.
+[25] La dernière question à trancher est celle du montant des dépenses. Le ministre nie le fait que le montant de 24 038,88 $ représentait la valeur de la pension et du logement. Je crois que le montant indiqué dans l’avis d’appel était plutôt de 24 303,88 $ et que le ministre s’est trompé en transcrivant le montant. L’hypothèse du ministre est toutefois partiellement exacte puisque le montant réclamé par l’appelant au titre de la pension et du logement s’élevait à 23 758,43 $ selon ce qu’indique la déclaration de revenus produite pour l’année en question, la différence correspondant à la déduction de frais afférents à un véhicule à moteur de 545,45 $, montant qui n’est pas contesté. Le montant réclamé comprend 16 001,87 $ pour le logement, et 7 756,56 $ pour les aliments et boissons.
+[26] L’appelant a produit des listes détaillées des frais de déplacement, y compris le logement, les déplacements en avion et les frais de téléphone, qui s’élèvent à 15 847,37 $CAN plutôt qu’à 16 001,87 $, qui est le montant réclamé, soit une petite différence de 154,50 $, qui est plus que compensée par un montant de 186,95 $ relatif aux déplacements en avion, lequel semblait absent des listes. L’appelant a produit des preuves du paiement des dépenses susmentionnées, à savoir des relevés de cartes de crédit et des reçus de motels, et je retiens que ces preuves ont été remises à l’ARC. M. Hayden a admis, au cours de son témoignage, qu’il n’avait pas passé en revue ces éléments, étant donné que cela ne faisait pas partie de l’enquête pour laquelle il avait été appelé à remplacer l’agent des décisions à qui le dossier avait été confié et qui avait tranché la question. Aucun reçu n’a été produit en preuve en ce qui concerne les aliments et les boissons; je retiens toutefois la position de l’appelant portant qu’il a bel et bien engagé de telles dépenses, et celles-ci me semblent plus que raisonnables compte tenu du fait qu’elles couvrent une période de tout près d’un an. Par conséquent, je retiens que l’appelant a dépensé le plein montant réclamé, même si certaines des dépenses incluses au poste du logement dans la déclaration de revenus comprenaient des frais de déplacement à destination et en provenance des lieux de travail, qui sont de toute évidence visés à l’alinéa 8(1)h) de la Loi.
+[27] La seule autre question à régler est celle du désaccord concernant les cotisations syndicales de 5 890 $ réclamées par l’appelant, dont 1 482 $ ont été refusés. Le montant accepté par le ministre coïncide avec les cotisations syndicales et les déductions indiquées sur le dernier talon de chèque de paye de l’appelant. Celui-ci n’a produit aucun élément de preuve à l’appui des montants réclamés en sus et, par conséquent, la position du ministre à l’égard des cotisations syndicales est confirmée.
+[28] L’appel est accueilli, des dépens de 500 $ sont accordés à l’appelant et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que l’appelant a le droit de déduire de son revenu un montant de 23 758,43 $ au titre des autres dépenses d’emploi.
+Signé à Ottawa, Canada, ce 3e jour de novembre 2009.
+« F. J. Pizzitelli »
+Juge Pizzitelli
+Traduction certifiée conforme
+ce 29e jour de janvier 2010.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2009 CCI 568
+No DU DOSSIER DE LA COUR : 2008-1366(IT)I
+INTITULÉ : LLOYD FREAKE et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Corner Brook (Terre-Neuve et Labrador)
+DATE DE L’AUDIENCE : Le 9 octobre 2009
+MOTIFS DU JUGEMENT : L’honorable juge F. J. Pizzitelli
+DATE DU JUGEMENT : Le 3 novembre 2009
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Fred Cole
+Avocate de l’intimée :
+Me Jill Chisholm
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s/o
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

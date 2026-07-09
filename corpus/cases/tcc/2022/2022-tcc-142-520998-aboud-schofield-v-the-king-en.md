@@ -1,0 +1,238 @@
+---
+title: "Aboud Schofield v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520998/index.do"
+last_modified: "2022-11-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 142"
+citation2: ""
+neutral_citation: "2022 TCC 142"
+decision_date: "2022-11-09"
+language: "en"
+item_id: "520998"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5800
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:27:56.614000+00:00"
+cases_cited_count: 5
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3a7a577733fb4705039316632a7fde3cdbd525c910857bdf8219f31fe861e10e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Aboud Schofield v. The King
+
+- Citation: 2022 TCC 142
+- Decision date: 2022-11-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5800, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aboud Schofield v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-11-09
+Neutral citation
+2022 TCC 142
+File numbers
+2019-2771(IT)I
+Judges and Taxing Officers
+Gabrielle St-Hilaire
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-2771(IT)I
+BETWEEN:
+VIVIANE ABOUD SCHOFIELD,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on September 22, 2022, at Granby, QC
+Before: The Honourable Justice Gabrielle St-Hilaire
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Counsel for the Respondent:
+Audrey Turcotte
+Emmanuel Jilwan
+JUDGMENT
+In accordance with the attached reasons, the appeal from reassessments made under the Income Tax Act (the Act) for the 2015 and 2016 taxation years is allowed without costs.
+Signed at Montreal, Quebec, this 9th day of November 2022.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+Citation: 2022 TCC 142
+Date: 20221109
+Docket: 2019-2771(IT)I
+BETWEEN:
+VIVIANE ABOUD SCHOFIELD,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+St-Hilaire J.
+I. Introduction
+[1] Viviane Aboud Schofield (the appellant) is appealing the reassessments made by the Minister of National Revenue (the Minister) pursuant to the Income Tax Act [1] for the 2015 and 2016 taxation years. This appeal deals with the deductibility of employment expenses under paragraph 8(1)(f) of the Act.
+[2] The appellant was employed by BMO Nesbitt Burns as a wealth advisor from 1997 until her retirement in 2019. The contract that the appellant signed in June 1997 [2] provided that following the 18-month probationary period, she would be remunerated in whole by commissions. The appellant's client base was located throughout Quebec, but she also had clients in other provinces, including Ontario.
+[3] When she filed her returns, the appellant reported commission income of $538,388 and $527,077, and she deducted employment expenses of $31,051 and $39,435 for the 2015 and 2016 taxation years, respectively.
+[4] The Minister's reassessment allowed the deductions claimed for several of the expenses, such as advertising expenses, expenses for the use of a vehicle, supplies and travel expenses, in the amount of $13,989 and $24,105 for the 2015 and 2016 taxation years, respectively. Only the deductibility of expenses paid to a headhunter to find a partner is at issue in this case: $11,267 and $11,704 for the 2015 and 2016 taxation years, respectively. [3]
+II. Issue
+[5] The only issue in this case is whether, in computing her employment income, the appellant is entitled to deduct the amounts paid to a headhunter to find a partner.
+III. Applicable law and analysis
+[6] Under subsection 8(2) of the Act, only amounts expressly provided for in section 8 are deductible in computing employment income. The principles that apply to computing business income generally allow the taxpayer to deduct expenses incurred for the purpose of earning income from this source with the exception of expressly prohibited deductions. However, in the computation of employment income, an amount can only be deducted if expressly permitted by one of the provisions in section 8.
+[7] First, it should be noted that a taxpayer who has been employed in connection with the selling of property or negotiating of contracts and who meets the conditions set out in subparagraph 8(1)(f)(i) to (iv) may deduct expenses incurred to earn employment income. However, under subparagraph 8(1)(f)(v), any outlays of capital are excluded from expenses otherwise eligible for deduction under paragraph 8(1)(f).
+[8] In particular, paragraph 8(1)(f) of the Act allows certain expenses incurred by a commission salesperson to be deducted. Not only is this the most relevant provision in the circumstances of this case, but more importantly, it is also the provision upon which the respondent relied to deny the deductibility of the expenses paid to the headhunter. [4]
+[9] Paragraph 8(1)(f) reads as follows:
+8(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+(f) where the taxpayer was employed in the year in connection with the selling of property or negotiating of contracts for the taxpayer's employer, and:
+(i) under the contract of employment was required to pay the taxpayer's own expenses,
+(i) was ordinarily required to carry on the duties of the employment away from the employer’s place of business,
+(iii) was remunerated in whole or part by commissions or other similar amounts fixed by reference to the volume of the sales made or the contracts negotiated, and
+(iv) was not in receipt of an allowance for travel expenses in respect of the taxation year that was, by virtue of subparagraph 6(1)(b)(v), not included in computing the taxpayer's income,
+amounts expended by the taxpayer in the year for the purpose of earning the income from the employment (not exceeding the commissions or other similar amounts referred to in subparagraph 8(1)(f)(iii) and received by the taxpayer in the year) to the extent that those amounts were not:
+(v) outlays, losses or replacements of capital or payments on account of capital, except as described in paragraph 8(1)(j),
+(vi) outlays or expenses that would, by virtue of paragraph 18(1)(l), not be deductible in computing the taxpayer’s income for the year if the employment were a business carried on by the taxpayer, or;
+(vii) amounts the payment of which reduced the amount that would otherwise be included in computing the taxpayer's income for the year because of paragraph 6(1)(e);
+[10] It is also important to take into account subsection 8(10) of the Act, which provides that an employee claiming an expense deduction under paragraph 8(1)(f) must file with his or her return of income a prescribed form signed by the employer certifying that the conditions set out in the applicable provision were met. The prescribed form is T2200.
+[11] Subsection 8(10) reads as follows:
+(10) An amount otherwise deductible for a taxation year under paragraph (1)(c), (f), (h) or (h.1) or subparagraph (1)(i)(ii) or (iii) by a taxpayer shall not be deducted unless a prescribed form, signed by the taxpayer's employer certifying that the conditions set out in the applicable provision were met in the year in respect of the taxpayer, is filed with the taxpayer's return of income for the year.
+[12] In order to deduct employment expenses under paragraph 8(1)(f), the following conditions must be met. The conditions can be summarized as follows:
+The taxpayer was employed in connection with the selling of property or negotiating of contracts for her employer;
+Under her contract of employment, she was required to pay her own expenses;
+She was ordinarily required to carry on the duties of her employment away from the employer's place of business;
+She was remunerated in whole or in part by commissions;
+She was not in receipt of an allowance for travel expenses that was, under subparagraph 6(1)(b)(v), not taxable.
+[13] The appellant had a sales-related job. She was required to meet with clients away from BMO Nesbitt Burns's place of business. She earned commission income and did not receive a travel allowance. At the hearing, counsel for the respondent acknowledged that the appellant met the conditions stated above except for the condition set out in subparagraph 8(1)(f)(i). [5] It should be noted that subparagraph 8(1)(f)(i) stipulates that, under her contract of employment, the taxpayer is required to pay her own expenses.
+[14] During her testimony, the appellant described the nature of her work as a wealth advisor at BMO Nesbitt Burns; her work included assessing her clients' needs, investments and estate planning. Although the appellant lived in Granby, her client base was located throughout Quebec, Ontario and Nova Scotia. She therefore incurred travel expenses not paid by BMO Nesbitt Burns. It should be noted that the Minister fully admitted that meal, accommodation and parking expenses, as well as almost all motor vehicle expenses, were deductible.
+[15] According to the letter of offer signed by the appellant in 1997, if the advisor's performance proved unsatisfactory, the employer could immediately terminate her employment. The appellant explained that an investment advisor's performance assessment is based on a few factors, the most important of which is commissions earned. She also said that to achieve satisfactory performance, she needed to keep increasing her net new capital inflow, which she referred to as her “net new assets” (NNA). The appellant filed reports showing the fluctuations in her NNA from 2014 to 2018. [6] According to the appellant's uncontradicted testimony, these records revealed that hiring a partner helped her increase her NNA. The appellant specified that during the relevant period, she had access to the services of an assistant who did strictly administrative work but was not authorized to seek new clients or give financial advice.
+[16] The appellant said that during the fiscal year from November 1, 2014, to October 31, 2015, before she hired a partner, her NNA were clearly insufficient. At that point, the appellant concluded that if she wanted to achieve the performance expected of her, she needed to hire a partner who could share the duties and do some canvassing. Because the search to find a partner within BMO Nesbitt Burns had proven unsuccessful, the appellant concluded that she had to retain the services of an external headhunter to find a partner.
+[17] Steve Roy, Branch Manager at BMO Nesbitt Burns at the time relevant to the case, was called as a witness by the respondent. Mr. Roy testified that the services of an assistant were provided by the employer, and these assistants were paid by the employer. He explained the difference between an assistant and a partner as follows: [translation]
+20 There is a difference between an assistant and a partner.
+21 A partner is essentially a second financial advisor
+22 who performs the same tasks and functions as
+23 the senior advisor. So the one who... who... we
+24 call that the owner of the book because he is the one who
+25 developed the new client base; the partner is not
+26 necessarily the owner of the book. So there is a nuance
+27 there, it is very...
+. . .
+14 Partners are different. A
+15 partner is hired by the advisor. We refer to advisors as
+16 senior advisors because we have to give them a rank
+17 in the corporate hierarchy. The senior advisor is the one who
+18 initially developed the client base and in a
+19 way, well, at a certain point, in the years
+20 of operation, well, the book, as we say at work,
+21 the book, the client base becomes so large that it
+22 becomes difficult to keep the same standard of quality and
+23 service and of course also to comply with all the
+24 regulations that keep proliferating in our
+25 industry. So, to deal with that, it is preferable, and
+26 we recommend it, we suggest it, to try to
+27 work more and more as a team. So it's a
+28 trend that's getting stronger and stronger. You must
+1 see it everywhere when you see the billboards with
+2 the teams now. We obviously do it that way to
+3 provide better quality service. [7]
+[18] Mr. Roy confirmed that when the client base becomes larger, it can be difficult to ensure the quality of services and that in these cases, the employer suggests that the senior advisors hire partners. Mr. Roy explained that during the search for partners, BMO Nesbitt Burns posted the position and if promising candidates were identified, they were submitted to the advisors, who made the final hiring decision in conjunction with the employer, having ensured that these candidates had the proper training and the necessary licences.
+[19] Mr. Roy also said that the internal process produced few candidates who could meet the advisors' needs and the criteria mentioned above, so the advisors were asked to conduct their own searches. During cross-examination, Mr. Roy confirmed that the job posting to find a partner for the appellant was clearly not successful because no one was hired following this process.
+[20] These are the circumstances in which the appellant decided to retain the services of a headhunter to find a partner. During the 2015 and 2016 taxation years, the appellant incurred expenses when she hired Groupe Lecavalier & Associés to find her a partner. [8] The firm identified candidates, which ultimately led to the hiring of a partner for the appellant in October 2017.
+[21] During her submissions, counsel for the respondent argued that the appellant did not meet the condition set out in subparagraph 8(1)(f)(i), a provision that stipulates that under the contract of employment, the taxpayer is required to pay their own expenses. In support of her position, she asserted that nowhere was it written that the appellant was required to incur the recruitment expense. In response to this Court’s statement according to which the wording of subparagraph 8(1)f)(i) is broad by nature and simply requires that the taxpayer be required to cover “her own expenses” without adding any details with regard to what those expenses are, the respondent left it up to the Tax Court of Canada’s decision in Karda v. The Queen, [9] from which she quoted the words of Justice Miller, who stated the following: “. . .as a requirement that the contract of employment stipulates the employee must pay for his own expenses, not voluntarily make such payments.” [10] In that case, Miller J. found that Mr. Karda was not required to incur the expenses at issue and that he acted on his own initiative even though it may have been a smart economic decision; Miller J. dismissed his claim for deductions.
+[22] Counsel for the respondent argued that, in this case, the appellant may also have made a smart economic decision by incurring expenses to hire a partner, but that this was not sufficient to meet the condition set out in subparagraph 8(1)(f)(i). She pointed out that the Federal Court of Appeal had affirmed the decision in Karda.
+[23] With respect, Karda cannot support the respondent's position in the circumstances of this case. It is important to note that in Karda, Miller J. held that Mr. Karda simply did not meet the condition that the taxpayer must be employed in connection with the selling of property or the negotiating of contracts, [11] which means that he cannot claim the expenses allowed under paragraph 8(1)(f). In the event that his interpretation of the concept of selling of property or negotiating of contracts was too restrictive, Miller J. considered the condition set out in subparagraph 8(1)(f)(i). According to Miller J., this provision means that the contract of employment must stipulate that employees pay their own expenses. Mr. Karda's evidence was that he incurred employment expenses "at his own peril".
+[24] Counsel for the respondent argued that Karda should be followed because the Federal Court of Appeal had affirmed our Court's decision. In this respect, I emphasize that on appeal to the Federal Court of Appeal, Mr. Karda raised two arguments, one relating to the validity of the assessment in the context of an alleged limitation period, and the other dealing with the deduction of interest expenses in the context of his real estate investments. There was no mention of employment expenses, so in my view, the Federal Court of Appeal’s decision cannot be used to support arguments relating to the application of paragraph 8(1)(f).
+[25] Let us again consider the wording of paragraph 8(1)(f)(i). This provision stipulates that under her contract of employment, the appellant who is claiming the expenses paid to a headhunter to recruit a partner is required to pay her own expenses. I must admit that I find the respondent's position somewhat confusing. He admitted that the appellant "was required to incur most of the expenses" and that the Minister allowed the deduction of many of the expenses. However, he also argued that the expenses associated with finding a partner were not deductible because the appellant was not required to incur "that" expense. In response to questions from the Court, counsel confirmed that her argument was essentially that the employer's requirement to pay "other expenses" was not detailed enough to include the headhunter's expenses. [12]
+[26] The appellant submitted into evidence Form T2200 signed by the employer for the 2015 and 2016 taxation years; [13] this form is required under subsection 8(10) of the Act. The answers to the relevant questions were the same for the two years at issue.
+[27] The questions and answers to numbers 1, 6 and 7 in Part B of Form T2200 read as follows:
+1 Did this employee's contract require them to pay their own expenses while carrying out the duties of employment? x Yes ¨No
+Answer yes even if you provide an allowance or a reimbursement in respect of some or all such expenses.
+If no, the employee is not entitled to claim employment expenses, and you are not required to answer any of the other questions.
+6. Did you require this employee to pay for expenses for which they did or will receive a reimbursement? ¨ Yes xNo
+If yes, indicate the amount and type of expenses that were: (. . .)
+7. Did you require this employee to pay other expenses for which they did not receive any allowance or reimbursement? x Yes ¨No
+If yes, indicate the type(s) of expenses: business development, training, advertising, entertainment, promotion, supplies.
+[28] It appears that question 7 follows questions 5 and 6 in asking the employer to indicate whether the employee receives an allowance or reimbursement for certain expenses, in which case the employee could not claim these expenses.
+[29] The employer answered question 1 by checking the box indicating "yes", confirming that the appellant was responsible for paying her own expenses. In response to question 7, the employer checked the box indicating "yes", confirming that the appellant did not receive any allowances or reimbursements and indicated that the expenses the appellant was required to pay involved the following types of expenses: business development, training, advertising, entertainment, promotion, supplies.
+[30] I reiterate that the employer's answer to question 1 on Form T2200 indicated that the appellant was required to pay the expenses incurred to perform the duties related to her work. In my view, this is sufficient to conclude that the appellant meets the condition set out in subparagraph 8(1)(f)(i). In addition, the employer's answer to question 7 listed the types of expenses that the appellant was required to pay. This included business development, an item that Mr. Roy characterized as "a kind of requirement" for investment advisors. As mentioned above, the appellant explained why she wanted to hire a partner: to increase her capital contribution (increase her NNA) and to ensure satisfactory performance. In addition, she explained that she hired a headhunter because the internal process at BMO Nesbitt Burns did not produce any candidates, or at least not any satisfactory candidates. Counsel for the respondent argued that the appellant should have used the internal recruitment process and selected someone from the list rather than hiring her own headhunter. This seems illogical to me because Mr. Roy confirmed that the internal process at BMO Nesbitt Burns had not been successful.
+[31] In my view, the expenses paid to the headhunting firm to recruit a partner fall within the expenses described as "business development", expenses which the appellant had to pay and for which BMO Nesbitt Burns did not provide any allowance or reimbursement. I note that the answer to question 7 on Form T2200 did not specify that the appellant was required to pay her motor vehicle and travel expenses. However, the Minister allowed these expenses, and the respondent did not suggest that they should have been clearly identified in order to be deductible. In short, according to my interpretation of subparagraph 8(1)(f)(i), when the employer confirms that the employee is required to pay their expenses, and the employee demonstrates that they incurred their expenses to earn their employment income, the condition is met.
+[32] Counsel for the respondent cited Blott v. The Queen [14] in support of her arguments that the appellant was not entitled to deduct the expenses for finding a partner because she was not required to hire a partner. According to the assessment of the evidence in that case, Miller J. found nothing in Mr. Blott's testimony that supported the argument that he was required or even implicitly required to incur the expenditures of an assistant. I note that paragraph 8(1)(i)(ii) stipulates that payment of a salary to an assistant by an employee is required by the contract of employment. There is therefore a condition to be met in paragraph 8(1)(i) which specifically refers to expenses related to the salary of an assistant. In my view, this is a limiting condition with respect to the deduction for salary paid to an assistant where the deduction is claimed under paragraph 8(1)(i). Had Parliament intended to apply the same test to paragraph 8(1)(f), it would have used the same wording. Furthermore, the appellant hired a partner and not an assistant, and I would point out that Mr. Roy testified that partners and assistants perform very different functions.
+[33] Counsel for the respondent also relied on this Court's decision in Tulman v. The Queen. [15] I will simply mention that in denying the deduction of the expenses claimed, the Honourable Madam Justice Lyons asserted that there was no evidence that Mr. Tulman's employer required him to incur employment expenses. In this case, Form T2200 and Mr. Roy's testimony confirm that the appellant was required to pay her own expenses.
+[34] However, even if the conditions set out in subparagraphs 8(1)(f)(i) to (iv) are met, as is the case here, in order to be deductible the amounts expended must not be included in subparagraphs 8(1)(v) to (vii). In this case, it should be noted that subparagraph 8(1)(f)(v) prohibits the deduction of outlays of capital.
+[35] The respondent argued that the expenses paid to the headhunter were outlays of capital. To support this position, counsel for the respondent argued that because the appellant incurred this expense only once and did not need to incur this expense repeatedly once the partner had been found, the expense was an outlay of capital. [16]
+[36] Counsel for the respondent cited Gifford v. Canada [17] in support of her arguments. In that case, Mr. Gifford had borrowed $100,000 to purchase a client list. The Supreme Court held that the client list was a capital asset for a number of reasons, including the fact that the payment was made with the intention of securing an asset that would provide the appellant with a lasting advantage. [18] The frequency of an expense is relevant to its classification as a current expense or an outlay of capital because the more frequently an expense is incurred, the harder it is to characterize the resulting benefit as enduring. Therefore, it is not a decisive test, but one among others that can be used to classify an expense. In Johns-Manville Canada v. The Queen, [19] the Supreme Court of Canada acknowledged that the tests must be applied flexibly to the specific circumstances of each case. The appellant did not purchase a capital property or incur these expenses for the purpose of protecting a capital asset—factors that could have weighed in the balance. Other than the fact that the expenses paid to a headhunter were incurred only once, the respondent did not make any other submissions showing that they should be deemed an outlay of capital. Finally, I would note that the Reply to the Notice of Appeal is silent on the argument that the disputed expenses are not deductible because they are capital expenses, and the appellant was therefore unable to prepare to make submissions on this issue. In these circumstances, I am satisfied that the expenses incurred to recruit a partner are current expenses and not outlays of capital.
+IV. Conclusion
+[37] I find that the appellant meets the conditions of paragraph 8(1)(f) of the Act such that, in computing her employment income, she is entitled to deduct the amounts paid to a headhunter to find a partner.
+[38] For these reasons, the appeal of the reassessments made under the Act for the 2015 and 2016 taxation years is allowed without costs, and the matter is referred back to the Minister for reconsideration and reassessment on the grounds that the appellant is entitled to deduct the amounts of $11,111.98 and $10,606.44 for the 2015 and 2016 taxation years, respectively.
+Signed at Montreal, Quebec, this 9th day of November 2022.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+CITATION:
+2022 TCC 142
+COURT FILE NO.:
+2019-2771(IT)I
+STYLE OF CAUSE:
+VIVIANE ABOUD SCHOFIELD AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Granby, QC
+DATE OF HEARING:
+September 22, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gabrielle St-Hilaire
+DATE OF JUDGMENT:
+November 9, 2022
+APPEARANCES:
+For the Appellant
+The Appellant herself
+Counsel for the Respondent:
+Counsel for the Respondent:
+Audrey Turcotte
+Emmanuel Jilwan
+COUNSEL OF RECORD:
+Names:
+Audrey Turcotte
+Emmanuel Jilwan
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.) (Act).
+[2] Exhibit A‑1, Investment Advisor Trainee, Letter of Offer.
+[3] At the hearing, the appellant made some adjustments to the expenses claimed, such that the amounts at issue were reduced, and the amounts claimed are now $11,111.98 and $10,606.44.
+[4] See Reply to Notice of Appeal at paragraph 14. Also see the Hearing Transcript at page 65 (Transcript).
+[5] See Transcript at pages 64 to 66.
+[6] See Exhibit A‑5.
+[7] Transcript at pages 55 to 57.
+[8] See invoices in Exhibit A‑4.
+[9] Karda v. The Queen, 2005 TCC 564 [Karda TCC], affirmed by 2006 FCA 238 [Karda FCA].
+[10] Karda TCC, ibid. at paragraph 34.
+[11] Karda TCC, ibid. at paragraph 33.
+[12] Transcript at pages 73 and 74.
+[13] Exhibits A‑2 and A‑3.
+[14] Blott v The Queen, 2018 TCC 1.
+[15] Tulman v. The Queen., 2014 TCC 140.
+[16] Transcript at page 78.
+[17] Gifford v. Canada, 2004 SCC 15.
+[18] See Gifford, ibid. at paragraph 21.
+[19] Johns-Manville Canada v. The Queen, [1985] 2 SCR 46.

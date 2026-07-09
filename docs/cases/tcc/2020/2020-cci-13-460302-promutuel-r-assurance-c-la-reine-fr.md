@@ -1,0 +1,431 @@
+---
+title: "Promutuel Réassurance c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/460302/index.do"
+last_modified: "2020-01-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 13"
+citation2: ""
+neutral_citation: "2020 CCI 13"
+decision_date: "2020-01-23"
+language: "fr"
+item_id: "460302"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4249
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T07:07:33.432000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "288da31e56202ba59093287df3c9d190f5befa9bdd3a70fd0b76cb07e5437d4f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Promutuel Réassurance c. La Reine
+
+- Citation: 2020 CCI 13
+- Decision date: 2020-01-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4249, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Promutuel Réassurance c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-01-23
+Référence neutre
+2020 CCI 13
+Numéro de dossier
+2016-3908(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-3908(IT)G
+ENTRE :
+PROMUTUEL RÉASSURANCE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 7 et 8 mai et le 5 juin 2019, à Québec (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocats de l'appelante :
+Me Roger Taylor
+Me Marie-Claude Marcil
+Avocat de l'intimée :
+Me Michel Lamarre
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu, dont l’avis est daté du 23 février 2016 à l’égard de l’année d’imposition 2011 de l’appelante est accueilli avec dépens en faveur de l’appelante conformément aux motifs du jugement ci-joint.
+Signé à Montréal, Québec, ce 23e jour de janvier 2020.
+«Réal Favreau»
+Juge Favreau
+Référence : 2020 CCI 13
+Date : 20200123
+Dossier : 2016-3908(IT)G
+ENTRE :
+PROMUTUEL RÉASSURANCE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel à l’encontre d’une nouvelle cotisation établie par la ministre du Revenu national (la « ministre ») en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985) c. 1 (5e Suppl.) telle que modifiée (la « LIR »), dont l’avis est daté du 23 février 2016 et concerne l’année d’imposition 2011 de Promutuel Réassurance (l’« appelante» ou « ProRé »).
+[2] Par cet avis de nouvelle cotisation, la ministre a refusé la déduction d’une perte autre qu’une perte en capital au montant de 11 834 372 $ de même qu’une provision fiscale pour prêt au montant de 39 762 $ et d’une déduction de frais d’acquisition de police différée au montant de 589 293 $ pour l’année d’imposition se terminant le 31 décembre 2011 de l’appelante. Seule la déduction de la perte autre qu’une perte en capital au montant de 11 834 372 $ est contestée dans le cadre du présent appel.
+[3] Préalablement à l’ouverture de l’audience, les parties ont produit une entente partielle sur les faits qu’il y a lieu ici de reproduire dans son entièreté :
+1. L’appelante a sa principale place d’affaires au 200, boulevard Lebourgneuf, bureau 400, Québec (Québec).
+2. L’appelante conteste le refus d’une déduction de « pertes autres que des pertes en capital » au montant de 11 834 372 $ découlant d’un avis de nouvelle cotisation établie à l’égard de l’appelante le 23 février 2016 pour son année d’imposition se terminant le 31 décembre 2011.
+A. L’APPELANTE : PROMUTUEL RÉASSURANCE
+3. L’appelante est une personne morale qui a été constituée par le chapitre 110 des lois du Québec de 1975, modifié par le chapitre 104 des lois de 1977 et le chapitre 100 des lois de 1979. Ces lois ont été remplacées par le chapitre 62 des lois de 1985 Loi sur la société mutuelle de réassurance du Québec, laquelle a été amendée par le chapitre 86 des lois de 1995 Loi modifiant la Loi sur la société mutuelle de réassurance du Québec (la « Loi de ProRé »). L’appelante est régie à la fois par la Loi de ProRé et de façon supplétive, par la Loi sur les assurances, RLRQ, chap. A-32 et ses modifications (la « LA ») et par la Partie 1 de la Loi sur les compagnies, RLRQ, chap. C-38 et ses modifications (la « LCQ »).
+4. L’appelante a été continuée en corporation en vertu de la Loi de ProRé le 19 juin 1975, mais n’a ni actionnaires ni capital-actions. Son capital provient de l’apport de ses membres, soit les vingt-sept sociétés mutuelles d’assurance générale (SMAGs) qu’elle a le pouvoir de cotiser.
+5. L’appelante a pour objet de pratiquer la réassurance de dommages. L’appelante peut également pratiquer de l’assurance de dommages.
+B. LE GROUPE PROMUTUEL FÉDÉRATION DES SOCIÉTÉS MUTUELLES D’ASSURANCE GÉNÉRALE
+6. Groupe Promutuel Fédération des sociétés mutuelles d’assurance générale (le Groupe Promutuel) est une fédération de sociétés mutuelles d’assurance générale constituée le 25 novembre 1970 et régie par le chapitre III.2 de la LA.
+7. Groupe Promutuel a, notamment, pour objet de définir les objectifs communs des SMAGs.
+8. Groupe Promutuel est une personne morale n’ayant ni actionnaire ni capital‑actions, mais plutôt des membres ayant une participation dans son capital.
+9. En 2010, Groupe Promutuel regroupait vingt-sept (27) SMAGs qui en étaient membres. Seule une SMAG peut être membre de Groupe Promutuel.
+10. Toute SMAG qui est membre de Groupe Promutuel est également membre de l’appelante.
+11. En 2010, Groupe Promutuel ne détenait aucune participation dans l’appelante.
+12. Les affaires de Groupe Promutuel sont administrées par un conseil d’administration composé de dix membres. À l’époque pertinente, le conseil d’administration de Groupe Promutuel était composé de dix membres dont sept (7) étaient des administrateurs de SMAGs et trois (3) sont des directeurs généraux des SMAGs.
+13. En plus des directeurs généraux des SMAGs, tout administrateur d’une SMAG peut être éligible à la fonction d’administrateur de Groupe Promutuel. Pour les fins des élections desdits administrateurs, les SMAGs sont regroupées en trois zones afin d’assurer une meilleure représentation de Groupe Promutuel.
+14. C’est le conseil d’administration de Groupe Promutuel qui nomme les sept membres du conseil d’administration de l’appelante.
+C. LES SOCIÉTÉS MUTUELLES D’ASSURANCE GÉNÉRALE
+15. Les SMAGs sont régies par le chapitre III.1 de la LA.
+16. Les SMAGs sont des personnes morales.
+17. Les SMAGs ont seulement des membres et n’ont pas de capital-actions ni d’actionnaires.
+18. Une SMAG est composée de membres ayant une participation dans son capital. Chaque membre possède un droit de vote.
+19. Toute personne ayant souscrit à un contrat d’assurance auprès de la SMAG devient automatiquement membre de cette dernière.
+20. Chacune des SMAGs a pour objet d’offrir à ses membres des services financiers, principalement de l’assurance de dommages.
+21. C’est le conseil d’administration de la SMAG qui administre les affaires et exerce tous les pouvoirs de la SMAG, sauf ceux que se réserve l’assemblée générale par règlement.
+22. En 2010, chacune des SMAGs était membre de l’appelante. Les SMAGs sont donc les uniques membres de l’appelante et de Groupe Promutuel.
+23. Chaque SMAG a le droit d’être représentée par trois (3) représentants à l’assemblée générale annuelle des membres de Groupe Promutuel et par un (1) représentant à toute assemblée générale extraordinaire, chaque représentant ayant droit à un vote.
+24. Aux fins fiscales, les SMAGs sont, en vertu de l’article 138 de la LIR, réputées exploiter une entreprise d’assurance. Elles sont également des institutions financières au sens de la définition d’institution financière du paragraphe 142.2(1) de la LIR en référence à la définition d’institution financière véritable et de celle de compagnie d’assurance prévue au paragraphe 248(1) de la LIR.
+D. PROMUTUEL CAPITAL, SOCIÉTÉ DE FIDUCIE INC.
+25. Promutuel Capital, société de fiducie inc. (« ProCap ») était une société de fiducie canadienne imposable constituée le 23 juin 1988 en vertu de la Loi sur les sociétés de fiducie et les sociétés d’épargne, RLRQ, chap. S-29.1 et ses modifications (la « LSFSE ») et de la Partie 1 de la LCQ.
+26. Au 31 décembre 2010, les « pertes autres que des pertes en capital » de ProCap se chiffraient à 11 834 372 $, considérant que 235 923 $ de « pertes autres que des pertes en capital » avaient expirées au 31 décembre 2010.
+27. En 2010, le capital-actions autorisé de ProCap était composé de six catégories d'actions, soit les catégories d'actions « A » à « F », lesquelles étaient entièrement détenues par les SMAGs, l’appelante et Groupe Promutuel. Les principaux droits, privilèges, conditions et restrictions des catégories d'actions émises et en circulation du capital-actions de ProCap étaient les suivants :
+• Catégorie « A » : Un nombre illimité d'actions de catégorie « A », sans valeur nominale, votantes (1 vote par action), participantes, donnant droit de recevoir des dividendes lorsqu'ils sont déclarés par les administrateurs et de participer au partage de l'actif résiduel de ProCap pari passu avec les actions de catégorie « B » du capital-actions de ProCap jusqu'à un capital de 18 000 000 $ et exclusif quant au solde.
+• Catégorie « B » : 228 500 actions de catégorie « B », d'une valeur nominale de 25 $ chacune, sans droit de vote, non participantes, donnant droit à un dividende trimestriel, fixe, préférentiel et non cumulatif équivalent à 18,75 % du taux préférentiel bancaire, calculé sur la valeur de 39 338 $ par action et de participer au partage de l'actif résiduel de ProCap et pari passu avec les actions de catégorie « A » du capital-actions de ProCap jusqu'à concurrence d'un capital de 18 000 000 $.
+• Catégorie « C » : 2 000 000 d'actions de catégorie « C », d'une valeur nominale de 1 $ chacune, sans droit de vote, non participantes, donnant droit à un dividende trimestriel, préférentiel et non cumulatif pouvant varier de 0,5 % à 3 %, calculé sur la valeur de 1,345 $ par action.
+• Catégorie « D » : 2 000 000 d'actions de catégorie « D » d'une valeur nominale de 1 $ chacune, sans droit de vote, non participantes, donnant droit à un dividende trimestriel, préférentiel et non cumulatif pouvant varier de 0,5 % à 3 %, calculé sur la valeur de 1,079 $ par action.
+• Catégorie « E » : 102 875 actions de catégorie « E », d’une valeur nominale de 100 $ chacune, sans droit de vote, non participantes, à dividende trimestriel préférentiel non cumulatif équivalent à 18,75 % du taux préférentiel bancaire sur la valeur nominale.
+• Catégorie « F » : 110 500 actions de catégorie « F », d'une valeur nominale de 100 $ chacune, sans droit de vote, non participantes, donnant droit à un dividende trimestriel, préférentiel et cumulatif équivalent à 0,8475 %, calculé sur la valeur nominale de l’action.
+28. La détention du capital-actions émis et payé de ProCap était répartie comme suit au 31 décembre 2010 :
+29. En 2010, chacune des vingt-sept (27) SMAGs détenait des actions du capital-actions de ProCap.
+30. En 2010, l’appelante détenait des actions du capital-actions de ProCap.
+31. En tout temps pertinent, Groupe Promutuel détenait des actions du capital-actions de ProCap.
+E. OPÉRATIONS RÉALISÉES
+32. Le 31 décembre 2010, Groupe Promutuel a cédé en faveur de l’appelante la totalité des actions de catégories « A » et « B » qu’elle détenait dans le capital‑actions de ProCap à la valeur estimée entre les parties, soit 85 210 $ payable comptant (la Transaction Groupe Promutuel).
+33. Le 31 décembre 2010, chacune des SMAGs a cédé en faveur de l’appelante la totalité des actions de catégories « B » et « F » qu’elle détenait dans le capital-actions de ProCap à la valeur estimée entre les parties, soit un total de, respectivement, 1 078 586,61 $ et de 9 615 270 $, payable comptant (Première Transaction SMAGs). Le prix d’achat des actions de catégorie « F » de ProCap incluait le dividende cumulatif couru et non payé par ProCap de ces actions.
+34. Suite à des modifications apportées à son Règlement no 3 relatif à la participation à son capital, l’appelante a fait un appel de participation additionnelle au capital. L’appel de capital était payable en biens prédéterminés, c’est-à-dire au moyen de transferts par les SMAGs en faveur de l’appelante de la totalité des actions de catégorie « A » qu’elles détenaient dans le capital-actions de ProCap (Deuxième Transaction SMAGs). En contrepartie de cette Deuxième Transaction SMAGs, la participation des SMAGs dans le capital de l’appelante a été augmentée d’un montant équivalent à leur participation additionnelle, soit la juste valeur marchande des actions de catégorie « A » du capital-actions de ProCap ainsi cédées.
+35. L’appelante a émis en faveur de chacune des SMAGs des certificats de participation additionnelle compte tenu de la réalisation de la Deuxième Transaction SMAGs. Aucun choix de roulement fiscal en vertu de l’article 85 de la Loi n’a été effectué.
+36. Chaque SMAG a inclus dans sa déclaration de revenus, pour l’année d’imposition au cours de laquelle la disposition a été effectuée, le gain ou la perte en découlant, conformément aux règles de biens évalués à la valeur du marché.
+37. À la suite de la Transaction Groupe Promutuel, de la Première Transaction SMAGs et de la Deuxième Transaction SMAGs, la totalité du capital-actions émis de ProCap était détenue par l’appelante.
+38. Après la Deuxième Transaction SMAGs réalisée le 31 décembre 2010, ProCap a été liquidée en faveur de son unique actionnaire, soit l’appelante.
+F. DEMANDE DE DÉCISION ANTICIPÉE
+39. Le 29 juin 2010, l’appelante et ProCap ont présenté une demande de décision anticipée à l’Agence du revenu du Canada pour savoir si l’appelante avait droit de réclamer des « pertes autres que des pertes en capital » après l’acquisition de contrôle projetée de ProCap.
+40. Le 21 septembre 2010, l’appelante a fourni des informations additionnelles à l’Agence du revenu du Canada en lien avec sa demande de décision anticipée du 29 juin 2010.
+41. Le 1er décembre 2010, l’appelante a fourni des informations additionnelles à l’Agence du revenu du Canada en lien avec sa demande de décision anticipée du 29 juin 2010.
+42. Le 14 avril 2011, la Direction des décisions anticipées en impôt de l’ARC a avisé l’appelante qu’elle refusait de rendre la décision anticipée demandée.
+[4] Un organigramme corporatif au 31 décembre 2009, soit avant les opérations réalisées, est joint à l’annexe A du présent jugement, et un organigramme corporatif au 31 décembre 2010, soit après les opérations réalisées, est joint à l’annexe B du présent jugement. Le Groupe Promutuel Fédération des Sociétés mutuelles d’assurance générale est ci-après désigné comme (la « Fédération »).
+Les questions en litige
+[5] L’appelante a-t-elle acquis le contrôle de ProCap lorsqu’elle a acquis la totalité des actions de ProCap, déclenchant ainsi l’application des règles sur les restrictions au report de pertes prévues aux paragraphes 88(1.1) et 111(5) de la LIR, lesquelles empêchent l’appelante de déduire un montant de 11 834 372 $ à titre de « pertes autres que des pertes en capital » dans le calcul de son revenu imposable, pour l’année d’imposition se terminant le 31 décembre 2011?
+[6] Est-ce que l’alinéa 256(7)d) de la LIR s’applique de façon à réputer que le contrôle de ProCap n’a pas été acquis par l’appelante lors de l’acquisition des actions de ProCap?
+Le droit
+[7] Puisque l’acquisition par ProRé des actions de catégorie A détenues par les SMAGs en contrepartie de participations additionnelles dans le capital-actions de ProRé a résulté en l’acquisition de contrôle de ProCap, les pertes autres que les pertes en capital accumulées par ProCap ne peuvent être utilisées par ProRé afin d’être déduites dans le calcul de son revenu imposable pour son année d’imposition 2011 en vertu du paragraphe 111(5) de la LIR, à moins que l’alinéa 256(7)d) de la LIR ne s’applique afin de réputer le contrôle de ProCap comme n’ayant jamais été acquis.
+[8] L’alinéa 256(7)d) de la LIR se lit comme suit :
+256(7) Contrôle réputé non acquis – Pour l’application des paragraphes 10(10), 13(21.2) et (24), 14(12) et 18(15), des articles 18.1 et 37, du paragraphe 40(3.4), de la définition de «perte apparente» à l’article 54, de l’article 55, des paragraphes 66(11), (11.4) et (11.5), 66.5(3) et 66.7(10) et (11), de l’article 80, de l’alinéa 80.04(4)h), des paragraphes 85(1.2), 88(1.1) et (1.2) et 110.1(1.2), des article 111 et 127, du paragraphe 249(4) et du présent paragraphe :
+[…]
+d) dans le cas où il est disposé d’actions du capital-actions, d’une société donnée en faveur d’une autre société (appelée «acquéreur» au présent alinéa) pour une contrepartie qui comprend des actions du capital-actions de l’acquéreur et où, immédiatement après le moment de la disposition, l’acquéreur et la société donnée sont contrôlés par une personne ou un groupe de personnes qui contrôlait la société donnée immédiatement avant ce moment sans avoir cessé, dans le cadre de la série d’opérations ou d’évènements qui comprend la disposition, de contrôler l’acquéreur, le contrôle de la société donnée et de chaque société qu’elle contrôlait immédiatement avant ce moment est réputé ne pas avoir été acquis par l’acquéreur du seul fait de la disposition;
+[9] Pour que l’alinéa 256(7)d) puisse s’appliquer les trois (3) conditions suivantes doivent être rencontrées :
+a) des actions de la société donnée (ProCap) doivent avoir été disposées en faveur d’une autre société (ProRé) en contrepartie d’actions de ProRé;
+b) immédiatement après le moment de la disposition, ProRé et ProCap doivent être contrôlées par une personne ou un groupe de personnes qui contrôlait ProCap immédiatement avant ce moment; et
+c) la personne ou groupe de personnes qui contrôlait ProCap immédiatement avant la disposition d’actions n’a pas cessé, dans le cadre de la série d’opérations ou d’évènements qui comprend la disposition, de contrôler ProRé.
+[10] Pour déterminer si l’alinéa 256(7)d) s’applique ou non aux opérations effectuées, la Cour devra notamment considérer dans quelles circonstances une personne ou un groupe de personnes peut être considéré comme détenant le contrôle d’une société lorsque, dans les faits, personne ne détient individuellement la majorité des droits de vote pour élire les membres du conseil d’administration de la société.
+La preuve testimoniale et documentaire
+[11] Messieurs Michel Gauthier et Michel Gosselin ont témoigné pour le compte de l’appelante.
+[12] Monsieur Gauthier était retraité, lors de son témoignage le 7 mai 2019, et a été président de la SMAG appelée Promutuel Portneuf Champlain. En 2010, il était administrateur de la Fédération, de Promutuel Vie Inc. et de ProCap. Il a été membre de la SMAG Promutuel Portneuf Champlain pendant 46 ans. Il a dressé l’historique des SMAGs qui étaient à l’origine des coopératives d’agriculteurs regroupées au sein de mutuelles paroissiales. Chaque SMAG a son territoire et les SMAGs ne se font pas compétition entre elles. En 2010, il y avait 27 SMAGs alors que maintenant il ne reste que 16 SMAGs. Plusieurs SMAGs ont fusionné entre elles.
+[13] Monsieur Gauthier est un mutualiste convaincu. Il a expliqué que la Fédération a été formée en 1956 dans le but d’agir comme outil de développement des SMAGs en mettant en commun les services aux SMAGs. ProRé a été formée dans le but de réassurer les contrats d’assurance de plus de 5 000 $. ProCap quant à elle a été formée pour agir comme société de fiducie. Tous les actifs de ProCap, sauf certains prêts et placements, ont été vendus à Desjardins en juillet 2010 après que ProCap ait investi plus de 50 millions pour développer son système informatique.
+[14] Concernant la SMAG Promutuel Portneuf Champlain, monsieur Gauthier a expliqué qu’elle comptait quelque 40 000 membres et 102 employés et qu’elle s’occupait de la vente et de la gestion de polices d’assurance-automobile et d’assurance-habitation pour le résidentiel et le commercial. Son conseil d’administration était formé de huit personnes et seuls les membres étaient éligibles pour siéger au conseil d’administration.
+[15] Lors de son témoignage, monsieur Gauthier a fait ressortir les faits suivants qui tendent à supporter la position que les SMAGs formaient un groupe de personnes qui contrôlait ProRé et ProCap :
+(a) la Fédération et les autres entités du groupe ont toutes été créées comme outils pour les SMAGs. Rien ne se faisait sans l’accord des SMAGs;
+(b) chaque SMAG détenait son propre territoire. De plus, aucune compétition entre les SMAGs n’était permise dans le territoire d’une SMAG. L’article 4 du règlement de la Fédération concernant les territoires des SMAGs se lit comme suit :
+Une société membre ne peut systématiquement adopter des pratiques de tarification, codification, sollicitation, de souscription en assurance de dommages et/ou de pratiques commerciales destinées à concurrencer indûment toute autre société membre dans son territoire établi et/ou territoire commun.
+(c) le témoin a souvent référé au concept de mutualité qu’il a défini comme toujours s’entraider et aider le plus faible pour être plus fort ensemble;
+(d) les relations entre les SMAGs étaient des relations de courtoisie, de consultations, de discussions entre elles; à titre d’exemple, les SMAGs discutaient entre elles des états financiers de chaque SMAG pour voir la performance des autres SMAGs et pour voir si une d’elles avait besoin d’aide;
+(e) les SMAGs avaient toutes le même vérificateur, les mêmes services informatiques et tous les services importants étaient pris ensemble;
+(f) les SMAGs payaient des cotisations pour les services de la Fédération (services juridiques, finances, comptabilité, informatique, actuariat, ressources humaines, publicité, imprimerie (formulaires et polices d’assurances), etc.) basées sur la richesse, le volume et le potentiel du territoire de chaque SMAG;
+(g) le rôle de la Fédération était d’agir à titre de spécialiste qui apportait un support technique aux SMAGs et de surveillance (ex. test de capital minimal);
+(h) les SMAGs préparaient des états financiers mensuels et les transmettaient à la Fédération qui les compilait pour faire un rapport consolidé global;
+(i) la Fédération était financée par les SMAGs et elle pouvait faire des demandes de cotisations additionnelles;
+(j) les administrateurs de la Fédération étaient des administrateurs des SMAGs. La Fédération envoyait aux SMAGs des demandes d’intérêt pour les postes d’administrateur;
+(k) toutes les SMAGs devaient être membres de la Fédération et suivre les règles édictées par cette dernière;
+(l) chaque SMAG disposait du même nombre de votes aux assemblées annuelles de la Fédération;
+(m) les employés des SMAGs et de la Fédération étaient couverts par le même régime supplémentaire de rentes et par la même police d’assurance collective.
+[16] Lors de son témoignage monsieur Gauthier a également fait ressortir des faits qui tendent à supporter que les SMAGs ne formaient pas un groupe de personnes qui contrôlait à la fois ProRé et ProCap. Ces faits sont les suivants :
+(a) il existait une certaine méfiance entre les SMAGs et la Fédération et les SMAGs voulaient garder le contrôle des entités faisant partie du groupe. À titre d’exemple, la convention entre actionnaires de ProCap prévoyait que les SMAGs devaient détenir conjointement au moins 51% des actions de toutes catégories donnant droit de vote de la société, réparties en parts égales entre chacune d’elles. Ladite convention entre actionnaires a été modifiée le 4 avril 2006 pour que quatre des sept membres du conseil d’administration soient élus par les SMAGs et que les trois autres membres soient élus par la Fédération alors qu’auparavant la Fédération pouvait faire élire cinq des sept membres du conseil d’administration. Ladite convention a été modifiée de nouveau le 14 avril 2010 pour faciliter la vente des actifs de ProCap, en augmentant le nombre d’administrateurs de la société à dix administrateurs nommés par le conseil d’administration de la Fédération et en rendant admissible à la fonction d’administrateur de la société, tout administrateur de la Fédération;
+(b) le contrat de mutualité entre les SMAGs n’était pas un contrat ayant une force légale et exécutoire, mais était plutôt assimilable à une « poignée de main » i.e. à une entente de principe;
+(c) les SMAGs étaient indépendantes au niveau des locaux. Chaque SMAG avait son propre siège social, son conseil d’administration, sa direction générale et elle prenait des décisions en fonction de ses intérêts et de son territoire. Le nombre d’administrateurs de chaque SMAG variait entre 7 et 15. Les règlements de régie interne de chaque SMAG régissaient le nombre d’administrateurs;
+(d) les SMAGs pouvaient offrir des produits différents. L’assurance de bateaux était un exemple de produit qui n’était pas offert par toutes les SMAGs;
+(e) la Fédération établissait le manuel de tarification des polices d’assurance mais les SMAGs pouvaient y déroger;
+(f) les SMAGs pouvaient acheter des bureaux de courtage, mais elles demandaient préalablement l’avis et l’assistance de la Fédération. La décision finale appartenait à la SMAG concernée;
+(g) bien que des SMAGs auraient pu se partager des comptables ou d’autres experts; en 2010, elles ne le faisaient pas;
+(h) il n’y avait pas une convention de vote par écrit entre les SMAGs mais il y avait un « contrat de mutualité » verbal. Chaque SMAG votait de façon indépendante et souveraine mais dans l’intérêt de l’ensemble des SMAGs;
+(i) aucune procuration de votes n’était faite d’une SMAG à une autre SMAG.
+[17] Monsieur Michel Gosselin a également témoigné à l’audience. Lors de son témoignage, il était retraité mais occupait le poste vice-président, finance par intérim de la Fédération. De 2006 à 2018, il était vice-président, finance de toutes les entités du groupe, à l’exception des SMAGs.
+[18] Monsieur Gosselin a d’abord passé en revue les activités exercées par chacune des entités du groupe. Le mandat de la Fédération est de soutenir les SMAGs dans la réalisation de leur plan d’affaires. La Fédération est une entreprise imposable mais son objectif n’est pas de faire des profits. Son budget est équilibré et ses revenus proviennent des cotisations auprès des SMAGs et des remboursements de coûts pour les services rendus aux SMAGs.
+[19] ProRé s’occupait de réassurance pour les polices dont la couverture était jusqu’à un maximum de 5 millions. Les employés de ProRé étaient des employés de la Fédération mais leurs salaires et leurs bénéfices sociaux étaient imputés à ProRé.
+[20] ProCap s’occupait d’épargne-collective et consentait des prêts agricoles garantis par hypothèque ou non garantis. ProCap bénéficiaient du support de la Fédération et avait son réseau de distribution dans les SMAGs. ProCap n’exerçaient pas les activités d’une réelle société de fiducie.
+[21] Le Fonds de garantie Promutuel agissait comme filet de sûreté pour les SMAGs et était capitalisé par l’émission d’actions privilégiées aux SMAGs. Le but du Fonds de garantie Promutuel était d’assister les SMAGs en cas de difficultés financières et de les aider dans leur plan de redressement.
+[22] Promutuel Vie inc. était une compagnie d’assurance-vie contrôlée à 50% par La Capitale groupe financier. La Capitale fournissait les polices d’assurance et la tarification. Le réseau de vente des polices était à l’intérieur du réseau des SMAGs.
+[23] Le Fonds de placement Promutuel a été mis sur pied pour permettre à la Fédération de gérer les fonds dédiés ou appartenant aux SMAGs.
+[24] Monsieur Gosselin a décrit plus en détails les services offerts par la Fédération aux SMAGs lesquels services tendent à supporter la position que les SMAGs et la Fédération formaient un groupe de personnes qui contrôlait à la fois ProRé et ProCap.
+[25] Toutes les SMAGs utilisaient le même système comptable géré par la Fédération pour la consolidation des états financiers de toutes les SMAGs. Chaque SMAG produisait ses propres états financiers mais les résultats de chacune d’elles étaient partagés avec les autres SMAGs pour fins de comparaison.
+[26] Les services offerts par la Fédération aux SMAGs touchaient à peu près tous les secteurs d’activités des SMAGs :
+– le support du système comptable et l’application de normes comptables applicables à toutes les SMAGs;
+– la vérification des états financiers annuels des SMAGs;
+– les services d’inspection et de conformité pour les organismes réglementaires dont l’autorité des marchés financiers (ex. le respect des exigences de capitalisation et l’établissement et l’évaluation des réserves);
+– les besoins technologiques, les systèmes d’affaires des SMAGs étaient tous les mêmes : émission des police d’assurance, gestion des sinistres, acquisition des systèmes centraux, des progiciels, des ordinateurs et des banques de données, négociations des contrats pour les cellulaires, les téléphones et la ligne de support pour régler les problèmes informatiques, etc.;
+– service d’indemnisation centralisé;
+– support juridique;
+– publicité à deux niveaux :
+local : chaque SMAG avait son propre budget et le gérait elle-même avec le support de la Fédération (mêmes couleurs, logos, thèmes)
+national/provincial : les SMAGs approuvaient le budget qui était géré par la Fédération mais dont le coût était réparti entre les SMAGs;
+– les services d’utilisateurs payeurs auxquels les SMAGs pouvaient adhérer sans y être forcées : bris de vitres, estimés par imagerie et les ententes avec les carrossiers pour les réparations après sinistres;
+– la préparation des plans stratégiques trisannuels.
+[27] Monsieur Gosselin a également expliqué que les représentants des SMAGs siégeaient sur des comités dirigés par la Fédération. C’est notamment le cas pour le comité des assurances, de l’indemnisation, des normes et pratiques, des finances et de la tarification. De plus, tous les directeurs généraux des SMAGs siégeaient sur le comité de direction de la Fédération.
+[28] Lors de son témoignage, monsieur Gosselin a également mis en évidence des faits montrant l’indépendance et l’autonomie des SMAGs. Parmi ces faits, on retrouve les faits suivants :
+(a) la tarification des polices d’assurance était faite par les actuaires de la Fédération, mais jusqu’en 2010, le territoire de la SMAG où les polices étaient vendues faisait partie des critères dont il fallait tenir compte dans la tarification;
+(b) pour certains services, tels l’impression des polices, des questionnaires et des formulaires et le service direct d’indemnisation, les SMAGs avaient le choix d’adhérer ou non;
+(c) les membres des SMAGs devaient adopter les résolutions pour les opérations ordinaires dans une proportion de 50% des votes, alors que les résolutions pour les grands projets ou pour les décisions très importantes devaient être adoptées dans une proportion de 75% des votes;
+(d) la Fédération a pris la décision de vendre ProCap et a mandaté une firme de consultants à cet effet. Après la réception du rapport des consultants, la Fédération a fait le tour des SMAGs pour leur expliquer les conclusions et pour les convaincre de procéder à la vente. Les SMAGs ont acquiescé et ProCap a été officiellement mis en vente. Après la réception de l’offre de Desjardins, la Fédération a refait le tour des SMAGs pour leur expliquer les modalités et les conséquences de l’offre. Finalement, la vente des actifs de ProCap à Desjardins a été approuvée à l’unanimité par les SMAGs. Chaque SMAG détenait alors environ 2.06% des actions de catégorie A de ProCap et chaque SMAG était libre de voter ses actions comme bon lui semblait car il n’y avait aucune entente de vote entre les SMAGs;
+(e) les SMAGs pouvaient quitter la Fédération avec l’accord de la Fédération comme l’ont fait en 2007 Promutuel Dorchester, société mutuelle d’assurance générale et Promutuel Lévisienne-Orléans, société mutuelle d’assurance générale.
+[29] La preuve documentaire soumise par l’appelante comprend notamment les documents suivants :
+– les règlements de régie interne de la Fédération, soit les règlements numéros 1, 8, 17, 24, 25, 28 et 30, et les règlements 2010-1, 2010-2, 2010-3 et 2010-4;
+– la convention entre actionnaires de ProCap datée du 10 avril 2003 et tel qu’amendée le 4 avril 2006 et le 14 avril 2010;
+– l’analyse stratégique et le plan global d’action 2001 – 2005 de Groupe Promutuel;
+– le plan stratégique 2005 – 2007 de Groupe Promutuel;
+– le plan stratégique 2008 – 2010 de Groupe Promutuel;
+– la résolution du conseil d’administration de Groupe Promutuel afin d’approuver la signature d’un addendum à un protocole concernant deux SMAGs, datée du 4 mars 2008;
+– la répartition du budget publicitaire pour l’année 2010 entre les différentes SMAGs; et
+– le régime supplémentaire de rentes des employés du Groupe Promutuel, daté du 1er janvier 2001.
+[30] Pour sa part, l’intimée a soumis les documents législatifs suivants :
+– les lois constitutives de la Société mutuelle de réassurance du Québec et ses amendements;
+– la Loi sur les assurances (version en vigueur en 2010);
+– la Partie 1 de la loi sur les compagnies du Québec (version en vigueur en 2010);
+– la Loi sur les sociétés de fiducie et les sociétés d’épargne (version en vigueur du 17 novembre 2010 au 31 décembre 2010); et
+– la Loi concernant la cession de la totalité des biens ou de l’entreprise de Promutuel Capital, société de fiducie inc. sanctionnée le 11 juin 2010.
+[31] L’intimée a de plus mis en preuve les documents suivants :
+– La convention d’administration 2010 pour assurer la gestion de ProCap suite à la vente d’actifs à Fiducie Desjardins Inc.;
+– Le plan stratégique 2011 – 2013 de Groupe Promutuel;
+– Le rapport annuel 2009 de Groupe Promutuel;
+– Certaines correspondances échangées avec l’Agence du Revenu du Canada concernant la demande de décisions anticipées et l’utilisation des pertes de ProCap par ProRé suite à la liquidation de ProCap;
+– l’offre d’achat du portefeuille en épargne et crédit de ProCap déposée par la Fédération des caisses Desjardins du Québec en date du 17 décembre 2009 et acceptée le 21 décembre 2009 par ProCap;
+– la convention d’achat et de vente conclue par ProCap et La Caisse Centrale Desjardins du Québec datée du 25 mars 2010;
+– la convention d’achat-vente de 4 821 actions de catégorie A et de 6 347 actions de catégorie B de ProCap par la Fédération en faveur de ProRé en date du 31 décembre 2010;
+– la convention d’achat-vente d’actions de catégorie B et de catégorie F de ProCap par les SMAGs en faveur de ProRé en date du 31 décembre 2010;
+– la convention de paiement de participation additionnelle et de transfert d’actions de catégorie A de ProCap par les SMAGs en faveur de ProRé en date du 31 décembre 2010 en vertu de laquelle chaque SMAG a transféré à ProRé 3 520 actions de catégorie A de ProCap payable par une participation additionnelle au capital de ProRé d’un montant de 35,20 $;
+– les résolutions du conseil d’administration de ProRé adoptées en date du 31 décembre 2010 exigeant de chaque SMAG une participation au capital de ProRé, à savoir les actions de catégorie A de ProCap;
+– le troisième rapport financier intérimaire de ProCap pour la période de 9 mois terminée le 30 septembre;
+– des extraits de l’interrogatoire au préalable de monsieur Sylvain Fauchon qui était chef de la direction de la Fédération et de ProRé.
+[32] Les éléments suivants de la preuve documentaire tendent à supporter la position que les SMAGs formaient un groupe de personnes qui, avec la Fédération, contrôlait ProRé et ProCap :
+(a) la législation gouvernant les SMAGs, la Fédération et le Fonds de garantie traite les SMAGs comme un groupe interdépendant partageant des liens communs. Le fait que la Loi sur les assurances (RLRQ, chap. A-32 et ses modifications) soit la législation habilitante régissant à la fois les SMAGs, la Fédération et le Fonds de garantie est une preuve en soi de l’intention du législateur de traiter ces entités de façon solidaire et confirme que ces entités exploitent leur entreprise commune d’assurance en tant que groupe mutualiste de par les liens communs qu’elles entretiennent notamment quant à leurs obligations réciproques;
+(b) les administrateurs de la Fédération sont élus parmi les administrateurs des SMAGs qui en sont membres. Les SMAGs décident elles-mêmes du processus d’élection des administrateurs de la Fédération. L’importance du principe mutualiste de « un membre, un vote » permet aux SMAGs d’être considérées également, nonobstant leur taille respective. Le principe mutualiste est renforcé par le fait que chaque SMAG détient trois (3) représentants disposant d’un droit de votre chacun à l’assemblée générale annuelle de la Fédération et de un (1) représentant disposant d’un droit de vote à une assemblée générale extraordinaire de la Fédération;
+(c) l’importance du principe d’entraide entre les SMAGs et de la non-compétition entre elles trouve toute son application dans le fait que chaque SMAG a son propre espace géographique dans lequel elle peut exercer son entreprise d’assurance. La Loi sur les assurances protège et favorise l’approche de groupe des SMAGs face à leur entreprise commune d’assurance de sorte qu’elles ne peuvent se faire concurrence à moins d’un consensus d’au moins les trois quarts des SMAGs;
+(d) chaque SMAG doit garantir sa propre solvabilité pour le bénéfice du groupe et s’assurer qu’elle respecte en tout temps les conditions minimales de capitalisation. Les SMAGs fondatrices d’une fédération doivent demander la constitution d’un fonds de garantie pour le bénéfice commun des membres du groupe à défaut de quoi elles ne peuvent exercer leur commerce d’assurance;
+(e) les SMAGs, par l’entremise de leur fédération, peuvent désigner un réassureur unique avec lequel elles ont l’obligation de conclure leurs contrats de réassurance;
+(f) la société mutuelle de réassurance du Québec a été constituée en vertu d’une loi privée québécoise et son existence a été continuée en corporation régie par la Loi sur les Sociétés mutuelle de réassurance du Québec, Lois du Québec, 1985, chapitre 62 (la « Loi de ProRé »). L’intention du législateur était de traiter ProRé comme faisant partie du même groupe que les SMAGs, la Fédération et le Fonds de garantie. Les dispositions suivantes de la Loi de ProRé supportent cette intention du législateur :
+(i) tous les membres de la Fédération i.e. les SMAGs sont aussi membres de ProRé;
+(ii) le conseil d’administration de ProRé est nommé par le conseil d’administration de la Fédération;
+(iii) les administrateurs de ProRé peuvent adopter des règlements pour la conduite des affaires sans l’approbation de ses membres;
+(iv) ProRé doit transmettre annuellement à chaque SMAG un certificat indiquant le pourcentage et le montant de sa participation au capital;
+(v) le conseil d’administration de ProRé doit rendre compte de son mandat et soumettre un rapport annuel à l’assemblée générale annuelle des membres de la Fédération;
+(g) dans la convention d’actionnaires de ProCap, il est indiqué, à l’article 1, que le but général est « d’unir leurs efforts et leurs ressources financières dans le but de promouvoir les intérêts de la Société » et « éviter toute cause de discorde ». Aux articles 3 et 4 de cette même convention, il est indiqué qu’un système est mis en place pour assurer que les SMAGs aient toutes toujours le même nombre d’actions votantes;
+(h) la Fédération a le pouvoir de déclarer un territoire ouvert ou de le maintenir réservé et d’approuver ou rejeter des conventions de partage entre les SMAGs. De ce fait, la Fédération a un pouvoir décisionnel et de gestion des territoires;
+(i) au préambule du règlement 2010-2 concernant le processus décisionnel et l’adhésion obligatoire des membres de la Fédération, il est indiqué ce qui suit :
+Attendu que la Fédération doit protéger les intérêts de l’ensemble des sociétés mutuelles d’assurance générale, favoriser l’atteinte de leurs objectifs communs et promouvoir leur développement;
+Attendu que les sociétés mutuelles d’assurance générale sont engagées dans la coopération et l’entraide autant entre elles qu’auprès de leurs membres assurés;
+Attendu que les sociétés mutuelles d’assurance générale comptent sur leur cohésion d’action pour bénéficier de moyens de développement collectif;
+[33] Les éléments suivants de la preuve documentaire tendent plutôt à supporter que les SMAGs étaient des entités indépendantes et autonomes qui ne formaient pas un groupe de personnes qui contrôlait ProRé et ProCap :
+(a) chaque SMAG est administré par son conseil d’administration, formé d’administrateurs élus par les membres de la SMAG. En vertu de l’article 93.87 de la Loi sur les assurances, c’est le conseil d’administration de la SMAG qui administre les affaires et exerce tous les pouvoirs de la SMAG;
+(b) le nombre d’administrateurs siégeant au conseil d’administration d’une SMAG est déterminé par son règlement de régie interne et non par la Fédération;
+(c) le cadre juridique prévu par la Loi sur les assurances n’a pas pour effet de soumettre les SMAGs au contrôle et à la direction de la Fédération dans la conduite de leurs affaires;
+(d) au deuxième alinéa de l’article 2 de la convention entre actionnaires de ProCap signée en 2003, il est établi que les SMAGs sont des entités distinctes non liées entre elles, n’étant assujetties à aucune convention de vote ou autre convention au même effet et exerçant leur droit de vote dans ProCap de façon autonome et indépendante. Cet alinéa se lit comme suit :
+Les actionnaires reconnaissent que chacune des Sociétés mutuelles sont des entités distinctes non liées directement ou indirectement entre elles, n’étant assujetties à aucune convention de vote ou autre convention au même effet, exerçant leur droit de vote de façon autonome et indépendante.
+(e) chaque SMAG a signé, par l’intermédiaire de son représentant autorisé, la convention de paiement de participation additionnelle et de transfert d’actions datée du 31 décembre 2010 en vertu de laquelle ProRé est devenu propriétaire unique des actions de catégorie A du capital-actions de ProCap via une modification de son Règlement no 3 relatif à la participation à son capital et non via une vente directe à l’appelante;
+(f) il n’a pas été établi que des ententes ont été conclues entre les SMAGs prouvant qu’elles agissaient de concert de façon à constituer un groupe de personnes contrôlant ProCap;
+(g) dans la planification stratégique 2008 – 2010, il est mentionné que « … la croissance des sociétés mutuelles au cours de cinq dernières années, et les regroupements de sociétés à venir amèneront la Fédération à adapter son offre de service en fonction d’une structure et d’une autonomie plus grande des sociétés mutuelles »;
+(h) des deux SMAGs, Promutuel Dorchester et Promutuel Lévisienne Orléans, ont quitté la Fédération suite à une décision prise par leur conseil d’administration respectif ce qui démontre que chaque SMAG est autonome et indépendante et peut choisir de quitter la Fédération et le groupe.
+Position des parties
+A. Pour l’appelante
+[34] Premièrement, l’appelante soutient les SMAGs contrôlaient ProRé (l’acquéreur) ainsi que ProCap (la société donnée) à la fois avant et après les transactions du 31 décembre 2010, lesquelles ont résulté en la disposition des actions de ProCap en faveur de ProRé, sans avoir cessé pendant ce temps de contrôler ProRé.
+(a) les SMAGs contrôlaient ProRé à la fois avant et après les transactions du 31 décembre 2010 par l’entremise de leur contrôle du Groupe Promutuel (ci-après la Fédération), laquelle contrôlait ProRé en vertu de l’article 31 de la Loi sur Promutuel Réassurance (« Loi de ProRé »). Tel qu’établi par la preuve, le contrôle de ProRé appartient à la Fédération puisque l’article 31 de la Loi de ProRé octroie législativement au conseil d‘administration de la Fédération le pouvoir de nommer les sept (7) administrateurs de ProRé. En vertu paragraphe 256(6.1) de la LIR portant sur le contrôle simultané, les SMAGs contrôlaient donc aussi ProRé avant et après les transactions du 31 décembre 2010;
+(b) les SMAGs contrôlaient aussi ProCap avant les transactions du 31 décembre 2010 puisqu’elles détenaient collectivement à ce moment plus de 50% des actions votantes de ProCap et qu’elles entretenaient entre elles des liens suffisants pour constituer un groupe de personnes en état d’exercer un contrôle sur ProCap, tel qu’étayé par la preuve de l’appelante, notamment par :
+i. les nombreux liens commerciaux qui unissent les SMAGs entre elles, précisément les liens qu’entretiennent leurs entreprises et leurs gestionnaires;
+ii. les nombreuses assemblées générales annuelles et assemblées générales extraordinaires de la Fédération et de ProCap auxquelles les SMAGs participaient ainsi que les nombreuses rencontres consultatives et discussions qui ont eu lieu au préalable en vue de la tenue de cesdites assemblées et auxquelles les SMAGs participaient;
+iii. la convention des actionnaires de ProCap en date d’avril 2003 ainsi que les amendements effectués à l’article 15 de cette convention, lesquels ont été entérinés de façon unanime en avril 2006 et en avril 2010, de même que plusieurs autres décisions importantes, incluant la vente des actifs de ProCap à Desjardins en juillet 2010, décisions ayant également été approuvées de façon unanime;
+(c) les SMAGs contrôlaient aussi ProCap après les transactions du 31 décembre 2010 par l’entremise du contrôle qu’elles exerçaient sur la Fédération, laquelle contrôlait ProRé en vertu de l’article 31 de la Loi de ProRé. De ce fait, l’appelante soutient que les SMAGs contrôlaient la Fédération qui elle contrôlait ProRé après les transactions du 31 décembre 2010, ProRé étant à ce moment l’unique actionnaire de ProCap. C’est donc aussi en vertu du paragraphe 256(6.1) de la LIR que les SMAGs contrôlaient ProCap après les transactions du 31 décembre 2010.
+[35] Alternativement, l’appelante soutient que c’est la Fédération qui contrôlait ProRé (l’acquéreur) ainsi que ProCap (la société donnée) à la fois avant et après les transactions du 31 décembre 2010 lesquelles ayant résulté en la disposition des actions de ProCap en faveur de ProRé et ce, sans avoir cessé pendant ce temps de contrôler ProRé :
+(a) en tout temps pertinent, la Fédération contrôlait ProRé par l’article 31 de Loi de ProRé, lequel conférait au conseil d’administration de la Fédération l’autorité de nommer les sept (7) administrateurs de ProRé;
+(b) la Fédération contrôlait aussi ProCap avant les transactions du 31 décembre 2010 étant donné la convention des actionnaires de ProCap d’avril 2003 et ultimement amendée le 14 avril 2010, laquelle prévoyait que seule la Fédération avait le droit de nommer les administrateurs de ProCap;
+(c) finalement, la Fédération contrôlait ProCap après les transactions du 31 décembre 2010 étant donné, d’une part, que la Fédération contrôlait ProRé en vertu de l’article 31 de la Loi de ProRé lequel lui octroyait l’autorité de nommer les membres du conseil d’administration de ProRé et d’autre part, puisque ProRé elle-même contrôlait ProCap après les transactions étant son seul et unique actionnaire. En vertu du paragraphe 256(6.1) de la LIR, la Fédération contrôlait donc simultanément ProCap par l’entremise de son contrôle de ProRé, laquelle contrôlait effectivement ProCap après les transactions du 31 décembre 2010.
+B. Pour l’intimée
+[36] La règle d’« allègement » prévue à l’alinéa 256(7)d) de la Loi ne s’applique pas, car immédiatement avant le 31 décembre 2010 (moment donné) ainsi qu’au cours des opérations réalisées le 31 décembre 2010, les 27 SMAGs ne formaient pas un groupe qui contrôlait, en droit, à la fois l’appelante et ProCap, car :
+(a) chacune des SMAGs est une entité distincte ayant son propre conseil d’administration qui administre ses affaires et exerce tous les pouvoirs de la SMAG;
+(b) il n’existait pas d’entente de vote entre les SMAGs;
+(c) il n’existait pas d’entente pour agir de concert;
+(d) il n’existait pas de liens commerciaux entre les SMAGs susceptibles d’influencer leur droit de vote;
+(e) aucun lien familial n’unissait les SMAGs; et
+(f) les articles 1.1 et 1.5 de la LA sont des dispositions interprétatives, d’application limitée, et qui ne sont pas génératrices de droit. Lesdites dispositions n’ont donc pas d’incidence sur la notion de « groupe de personnes » aux fins de la LIR.
+[37] Au moment donné et au cours des opérations réalisées le 31 décembre 2010, aucune personne ou aucun groupe de personnes ne contrôlait, en droit, ProCap, car :
+(a) aucun actionnaire ne détenait plus de 50% des actions votantes de ProCap;
+(b) il n’existait pas de lien suffisant entre les 27 SMAGs, détentrices des actions votantes, pour qu’elles forment un « groupe de personnes » au sens de l’alinéa 256(7)d) de la LIR pour les raisons mentionnées au paragraphe précédent;
+(c) la Fédération ne pouvait pas contrôler, en droit, ProCap, en raison des lois régissant ProCap. Rien dans les lois régissant ProCap, soit la Loi sur les sociétés de fiducies et de capital de même que la Partie 1 de la Loi sur les compagnies, ne permet aux actionnaires de ProCap de conclure des conventions pour retirer ou restreindre les pouvoirs normalement dévolus aux administrateurs de ProCap.
+[38] Au moment donné et au cours des opérations réalisées le 31 décembre 2010, aucune personne ou aucun groupe de personnes ne contrôlait, en droit, l’appelante, car :
+(a) ce sont les 27 SMAGs qui étaient membres de l’appelante et elles ne formaient pas un « groupe de personnes » au sens de l’alinéa 256(7)d) de la LIR pour les raisons mentionnées au paragraphe 13 ci-dessus;
+(b) la Fédération n’était pas membre de l’appelante et ne pouvait donc pas contrôler, en droit, l’appelante. Le pouvoir conféré par la Loi de ProRé au conseil d’administration de la Fédération pour nommer le conseil d’administration de l’appelante ne fait pas partie du mandat du conseil d’administration de la Fédération, tel qu’il appert de la LA et du Règlement de régie interne de la Fédération. Autrement dit, lorsque les membres du conseil d’administration de la Fédération exercent le pouvoir de nomination, ils ne portent pas le chapeau de membre du conseil d’administration. Le pouvoir de nomination n’est pas un pouvoir attribué par la Loi de ProRé à la Fédération, mais bien à un groupe précis de personnes exerçant le pouvoir de nomination prévu par la Loi de ProRé et non pas conformément à leur charge d’administrateur de la Fédération.
+L’analyse
+[39] La première condition qui doit être rencontrée pour l’application de l’alinéa 256(7)d) est que des actions de ProCap doivent avoir été disposées en faveur de ProRé en contrepartie d’actions de ProRé.
+[40] Tel que précédemment indiqué, ProRé n’a pas techniquement émis d’actions de son capital-actions en contrepartie des actions de ProCap. Elle a plutôt émis aux SMAGs des certificats de participation additionnelle à son capital en contrepartie des actions de catégorie A de ProCap.
+[41] Bien que ProRé n’ait ni actionnaire ni capital-actions, le paragraphe 256(8.1) de la LIR prévoit que, pour les fins d’application des paragraphes 256(7) et 256(8) de la LIR, (i) une société sans capital-actions (en l’espèce, ProRé) est réputée en avoir un d’une catégorie, (ii) ses membres (les SMAGs) sont réputés être actionnaires de cette société et (iii) la participation dans la société de chacun de ces participants est réputée être représentée par le nombre d’actions du capital-actions de la société que le ministre estime raisonnable dans les circonstances, compte tenu du nombre total de participants de la société et de la nature de leur participation.
+[42] Le paragraphe 256(8.1) de la LIR se lit comme suit :
+Sociétés sans capital-actions
+(8.1) Les présomptions suivantes s’appliquent dans le cadre des paragraphes (7) et (8) :
+a) une société constituée sans capital-actions est réputée en voir un d’une seule catégorie;
+b) chaque membre, titulaire de police et autre participant de la société est réputé en être un actionnaire;
+c) l’adhésion, la police ou autre participation dans la société de chacun de ces participants est réputée être représentée par le nombre d’actions du capital-actions de la société que le ministre estime raisonnable dans les circonstances, compte tenu du nombre total de participants de la société et de la nature de leur participation.
+[43] Tel qu’il appert des paragraphes 34 et 35 de l’entente partielle sur les faits, il est admis qu’en contrepartie du transfert par les SMAGs de leurs actions de ProCap en faveur de ProRé, celles-ci ont vu leur participation respective dans le capital de ProRé augmentée d’un montant équivalent à la valeur marchande de chacune de leurs actions de catégorie A ainsi cédées.
+[44] En vertu du paragraphe 256(8.1) de la LIR, ProRé est donc réputée avoir émis des actions de son capital-actions aux SMAGs en contrepartie du transfert de leurs actions de catégorie A qu’elles détenaient dans ProCap.
+[45] Compte tenu de ce qui précède, les SMAGs sont réputées avoir reçu des actions du capital-actions de ProRé (l’acquéreur) en contrepartie de la disposition de leurs actions de catégorie A qu’elles détenaient dans ProCap (la société donnée) en faveur de ProRé (l’acquéreur) de sorte que la première condition d’application de l’alinéa 256(7) de la LIR est respectée en l’espèce.
+[46] La deuxième condition qui doit être rencontrée pour l’application de l’alinéa 256(7)d) de la LIR est que, immédiatement après le moment de la disposition par les SMAGs des actions de catégorie A de ProCap en faveur de ProRé, ProRé et ProCap doivent être contrôlées par une personne ou un groupe de personnes qui contrôlait ProCap immédiatement avant ce moment.
+[47] Tel qu’indiqué ci-dessus, ProRé n’avait ni capital-actions, ni actionnaires. Les 27 SMAGs étaient membres de ProRé et chacune d’elles détenait une participation au capital de ProRé. Aucune SMAG ne contrôlait seule ProRé.
+[48] La Fédération n’était pas membre de ProRé et ne détenait aucune participation au capital de ProRé. Par contre, en vertu de l’article 31 de la Loi de ProRé, ProRé était administrée par un conseil d’administration composé d’au moins sept personnes nommées par le conseil d’administration de la Fédération.
+[49] Selon le rapport annuel 2009 de la Fédération, le conseil d’administration de la Fédération était composé de dix personnes, lesquelles étaient soit des présidents, soit des directeurs généraux de SMAGs différentes. Selon le même rapport annuel, le conseil d’administration de ProRé était formé de six personnes dont trois personnes siégeaient au conseil d’administration de la Fédération et trois personnes étaient soit président, soit directeur général de SMAGs différentes. Sur la base de cette information, il semble qu’il y avait alors une vacance au conseil d’administration de ProRé.
+[50] Les administrateurs de la Fédération sont élus parmi les administrateurs des SMAGs qui en sont membres, sauf exception (art. 93.147 de la Loi sur les assurances).
+[51] Immédiatement après le moment de la disposition par les SMAGs des actions de catégorie A de ProCap en faveur de ProRé, ProCap est devenue une filiale en propriété exclusive de ProRé et était donc directement contrôlée par ProRé et indirectement contrôlée par la personne ou groupe de personnes qui contrôlait alors ProRé, soit les SMAGs seules ou la Fédération seule, soit les SMAGs par l’intermédiaire de la Fédération.
+[52] Le texte de l’alinéa 256(7)d) de la LIR renvoie uniquement au mot « contrôle », sans ajouter les mots « directement ou indirectement, de quelque manière que ce soit » comme au paragraphe 256(5.1) qui traite du « contrôle de fait ». Dans ce contexte, la jurisprudence nous enseigne que le mot « contrôle » réfère au « contrôle de droit » (de jure). Le critère général pour le contrôle de droit a été établi par la Cour de l’Échiquier du Canada dans l’arrêt Buckerfield’s Limited et al. c. M.N.R. (1965) 1 Ex. C. R. 299 (QL) (« Buckerfield’s »). Il s’agit du « droit de contrôle auquel donne lieu le fait de détenir un nombre d’actions suffisant pour conférer la majorité de voix à leurs détenteurs dans l’élection du conseil d’administration » (par. 11).
+[53] Le critère énoncé dans l’arrêt Buckerfield’s a été confirmé par la Cour Suprême du Canada dans l’arrêt Duha Printers (Western) Limited c. Sa Majesté La Reine, [1998] 1 R.C.S. 795 (« Duha ») qui a reconnu que le critère du contrôle de droit est une tentative de vérifier qui exerce un contrôle effectif sur les affaires et les destinées de la société concernée. La détention d’actions du capital-actions de la société avec le droit de vote constitue normalement une condition de base à respecter mais il peut y avoir des exceptions.
+[54] Cette conclusion transparaît à la lecture du résumé des principes du droit des sociétés et du droit fiscal étudiés dans le cadre de l’arrêt Duha lesquels sont ci-après reproduits (par. 85) :
+(1) Le paragraphe 111(5) de la Loi de l’impôt sur le revenu vise le contrôle de jure, et non pas le contrôle de facto.
+(2) Le critère général du contrôle de jure a été énoncé dans l’arrêt Buckerfield’s, précité : il s’agit de décider si l’actionnaire majoritaire exerce un «contrôle effectif» sur «les affaires et les destinées» de la société, contrôle qui ressort de la «propriété d’un nombre d’actions conférant la majorité des voix pour l’élection du conseil d’administration».
+(3) Pour décider s’il y a «contrôle effectif», il faut prendre en considération ce qui suit :
+a) la loi qui régit la société;
+b) le registre des actionnaires de la société;
+c) toute restriction, particulière ou exceptionnelle, imposée soit au pouvoir de l’actionnaire majoritaire de contrôler l’élection du conseil, soit au pouvoir du conseil de gérer l’entreprise et les affaires internes de la société, qui ressort de l’un ou l’autre des documents suivants :
+(i) des actes constitutifs de la société;
+(ii) d’une convention unanime des actionnaires.
+(4) Les documents autres que le registre des actionnaires, les actes constitutifs et les conventions unanimes des actionnaires ne doivent généralement pas être pris en considération à cette fin.
+(5) Lorsqu’il existe une restriction du genre visé à l’alinéa 3c), l’actionnaire majoritaire peut tout de même exercer le contrôle de jure, à moins qu’il ne dispose d’aucun moyen d’exercer un «contrôle effectif» sur les affaires et les destinées de la société, d’une manière analogue ou équivalente au critère de Buckerfield’s.
+[55] Pour décider qui a le contrôle effectif de ProRé, la Cour doit notamment prendre en considération la loi qui régit la société, soit la Loi de ProRé, en vertu de laquelle l’existence de ProRé a été continuée en corporation. La Loi de ProRé précise spécifiquement que le conseil d’administration de ProRé est nommé par le conseil d’administration de la Fédération et que les administrateurs de ProRé peuvent adopter des règlements pour la conduite des affaires sans l’approbation de ses membres.
+[56] Par conséquent, il m’apparaît clair que le contrôle effectif de ProRé était détenu par la Fédération via son conseil d’administration. Les SMAGs ne disposaient d’aucun moyen d’exercer un contrôle effectif sur les affaires et les destinées de ProRé, d’une manière analogue ou équivalente au critère de Buckerfield’s.
+[57] Comme autre conséquence, il y a lieu de mentionner ici, qu’immédiatement après le moment de la disposition par les SMAGs des actions de catégorie A de ProCap en faveur de ProRé, la Fédération contrôlait ProRé en vertu de l’article 31 de la Loi de ProRé lequel lui octroyait l’autorité de nommer les membres du conseil d’administration de ProRé et que, d’autre part, ProRé elle-même contrôlait ProCap étant alors son seul et unique actionnaire. En vertu de l’alinéa 256(6.1)a) de la LIR qui traite du contrôle simultané, la Fédération contrôlait donc simultanément ProRé et ProCap par l’entremise de son contrôle de ProRé. L’alinéa 256(6.1)a) se lit comme suit :
+Contrôle simultané
+(6.1) Pour l’application de la présente loi, il est entendu que :
+a) dans le cas où une société (appelée «filiale» au présent alinéa) serait contrôlée par une autre société (appelée «société mère» au présent alinéa) si cette dernière n’était pas contrôlée par une personne ou un groupe de personnes, la filiale est contrôlée à la fois par la société mère et par toute personne ou tout groupe de personnes qui contrôle cette dernière;
+[58] Pour compléter l’étude de la deuxième condition d’application de l’alinéa 256(7)d), il y a lieu de considérer si la Fédération contrôlait ProCap immédiatement avant la disposition par les SMAGs des actions de catégorie A de ProCap en faveur de ProRé.
+[59] Tel qu’indiqué ci-dessus, immédiatement avant ce moment, la Fédération ne détenait plus d’actions de ProCap et les actions de catégorie B et F de ProCap détenues par les SMAGs avaient été rachetées par ProCap. Les SMAGs détenaient alors la majorité des actions de catégorie A de ProCap; le solde de ces actions était alors détenu par ProRé.
+[60] La convention entre actionnaires de ProCap datée du 10 avril 2003 et amendée le 4 avril 2006 et le 14 avril 2010 était apparemment toujours en place même si la Fédération n’était plus à ce moment actionnaire de ProCap. Il y a lieu de rappeler ici qu’en vertu de la modification apportée à cette convention le 14 avril 2010, le conseil d’administration de ProCap était composé de dix administrateurs nommés par le conseil d’administration de la Fédération et que seul les administrateurs de la Fédération étaient admissibles à la fonction d’administrateur de ProCap.
+[61] Il y a lieu de rappeler ici que ProCap est une personne morale qui a été constituée par lettres patentes le 23 juin 1988 en vertu de la Loi sur les sociétés de fiducie et les sociétés d’épargne (L.R.Q., chapitre S-29.01) et de la Loi sur les compagnies (L.R.Q., chapitre C-38).
+[62] La cession des biens ou de l’entreprise de ProCap a été dûment approuvée par ses administrateurs et par au moins les deux tiers des voix exprimées par ses actionnaires lors d’une assemblée extraordinaire convoquée à cette fin, laquelle cession a été entérinée par la Loi concernant la cession de la totalité des biens ou de l’entreprise de Promutuel Capital, société de fiducie inc. adoptée le 10 juin 2010 et sanctionnée le 11 juin 2010.
+[63] La convention entre actionnaires de ProCap initialement signée le 10 avril 2003 par tous les actionnaires de ProCap et à laquelle ProCap est intervenue, et dont l’article 15 a été modifiée le 4 avril 2006 et le 14 avril 2010, ne constitue pas un « acte constitutif» pouvant servir à déterminer le contrôle de droit de ProCap.
+[64] Selon l’arrêt Duha, le statut d’« acte constitutif » doit émaner des lois régissant l’entité corporative. Or, rien dans les lois régissant ProCap, soit la Partie 1 de la Loi sur les compagnies et la Loi sur les sociétés de fiducie et les sociétés d’épargne, dans leur version applicable à l’année 2010, ne permettait aux actionnaires de ProCap de conclure des conventions pour retirer ou restreindre les pouvoirs normalement dévolus aux administrateurs de ProCap. Par conséquent, la convention conclue par les actionnaires de ProCap ne peut constituer une convention unanime des actionnaires.
+[65] Même si on considèrait que la convention entre actionnaires de ProCap était en l’espèce une convention unanime entre actionnaires, cette convention ne privait pas en fait les actionnaires de ProCap de pouvoir exercer le contrôle de jure de ProCap.
+[66] Tel qu’indiqué au paragraphe 62 ci-dessus, la cession des biens ou de l’entreprise de ProCap a dû être approuvée par un vote des 2/3 des actionnaires. De plus, il est prévu à la convention elle-même au 4e paragraphe de l’article 2 qu’aucun changement de contrôle de ProCap ne peut être validement effectué sans le consentement des trois-quarts (%) des SMAGs, entériné par une résolution écrite.
+[67] Rien dans la preuve a révélé que ProCap a appliqué les règles d’acquisition de contrôle prévues à la LIR suite à l’adoption de la modification apportée à l’article 15 de la convention entre actionnaires le 14 avril 2010, à savoir la fin d’année d’imposition réputée (voir le paragraphe 249(4) de la LIR).
+[68] Suite à ces observations, la Fédération ne contrôlait pas, en droit, ProCap, immédiatement avant la disposition par les SMAGs des actions de catégorie A de ProCap en faveur de ProRé. Par conséquent, la deuxième condition d’application de l’alinéa 256(7)d) n’est pas satisfaite à ce stade-ci.
+[69] Par conséquent, il y a lieu de considérer si les SMAGs comme groupe contrôlaient ProRé avant et après la transaction du 31 décembre 2010 par l’intermédiaire de la Fédération et si les SMAGs comme groupe contrôlaient ProCap, immédiatement avant ladite transaction?
+[70] Les deux questions de principe dans le contexte d’un groupe de personnes qui contrôle une société sont Vina-Rug (Canada) Limited v. Minister of National Revenu, [1968] S.C.R. 193 (« Vina-Rug »), une décision de la Cour Suprême du Canada et Silicon Graphics Ltd. c. La Reine, 2002 CAF 260 (CanLII) (« Silicon Graphics ») une décision de la Cour d’appel fédérale.
+[71] Dans Vina-Rug, le critère utilisé par la Cour Suprême du Canada afin de déterminer si deux sociétés étaient contrôlées par le même groupe de personnes était basé sur la question de savoir si le groupe de personnes était en position d’exercer le contrôle de la majorité des droits de vote aux fins de l’élection des administrateurs lors de l’assemblée générale des actionnaires. Il est important de noter que la Cour Suprême du Canada n’a pas requis que le groupe de personnes exerce dans les faits ce contrôle ou que les personnes constituant le groupe aient été dans l’obligation de voter d’une manière particulière lors du vote pour l’élection des administrateurs.
+[72] Dans Silicon Graphics, la Cour a formulé les commentaires suivants concernant le contrôle de droit exercé ou ayant le potentiel d’être exercé par un groupe d’actionnaires aux paragraphes 36 et 58 de ses motifs :
+36. Me fondant sur ces décisions, je souscris à l'argument de l'appelante selon lequel la simple possession d'une majorité mathématique d'actions par un ensemble d'actionnaires pris au hasard dans une société à grand nombre d'actionnaires ayant certains éléments communs identificateurs (p. ex. le lieu de résidence) mais sans un lien commun ne constitue pas un contrôle de droit ainsi que le terme a été défini par la jurisprudence. Je souscris également à l'argument de l'appelante selon lequel pour que plus d'une personne soit en position d'exercer un contrôle, il est nécessaire qu'il y ait un lien suffisant entre les actionnaires. Ce lien pourrait inclure, notamment, une entente de vote, une entente pour agir de concert ou des liens commerciaux ou familiaux.
+58. Selon l'analyse qui précède, je suis convaincu que le concept de contrôle de droit ainsi qu'il a été élaboré dans les affaires Buckerfield's, Yardley Plastics, Vina-Rug et Duha Printers s'applique totalement à la définition de CPCC du paragraphe 125(7). En particulier, le contrôle de droit exige qu'un lien ou un intérêt commun existe entre les actionnaires qui composent le "groupe de personnes" ou la preuve que ces actionnaires agissent de concert afin de contrôler la société.
+[73] L’application de ces principes jurisprudentiels au cas sous étude nous amène à considérer si les SMAGs avaient entre elles un lien suffisant pour constituer un groupe qui était en état de contrôler ProCap et ProRé?
+[74] Il ressort clairement de la preuve que chaque SMAG est administrée par son propre conseil d’administration, formé d’administrateurs élus par les membres de la SMAG, et que c’est le conseil d’administration de la SMAG qui administre les affaires et exerce tous les pouvoirs de la SMAG.
+[75] La preuve a également révélé que chaque SMAG est une entité légale distincte, qui n’est liée, directement ou indirectement, à aucune autre SMAG, qui n’est assujettie à aucune convention de vote ou autre convention à cet effet, et qui exerce son droit de vote de façon autonome et indépendante.
+[76] Chaque SMAG a son propre espace géographique dans lequel elle peut exercer son entreprise d’assurance.
+[77] Une SMAG peut fusionner avec une autre SMAG ou se retirer du groupe.
+[78] Par contre, la preuve a également révélé que la législation gouvernant les SMAGs, la Fédération et le Fonds de Garantie traite les SMAGs comme un groupe interdépendant partageant des liens communs. L’intention du législateur est de traiter ces entités de façon solidaire et cette intention se confirme de par les liens communs que ces entités entretiennent, notamment quant à leurs obligations réciproques et quant à l’exploitation de leur entreprise commune d’assurance en tant que groupe mutualiste.
+[79] Les SMAGs exploitent essentiellement la même entreprise, utilisent la même modèle d’affaires et opèrent sous la même bannière, utilisant les mêmes logos ainsi que les mêmes couleurs distinctives sur le marché.
+[80] Les décisions relatives au développement et à la croissance économique sont prises dans l’intérêt collectif des SMAGs.
+[81] Les SMAGs, par l’entremise de leur Fédération, partagent notamment :
+– la même technologie informatique ainsi que la même plateforme numérique pour colliger leurs résultats financiers qu’elles partagent entre elles sur une base mensuelle;
+– un service actuariel unique servant à établir les bases de tarification;
+– la même vision stratégique;
+– un même budget publicitaire;
+– les mêmes formulaires d’assurance;
+– les mêmes services de vérification;
+– le même réassureur, ProRé, avec lequel elles ont l’obligation de transiger.
+[82] Compte tenu de ce qui précède, il m’apparait évident que les SMAGs ont suffisamment de liens pour former un groupe non seulement parce qu’elles ont un objectif ou un but commun mais également parce qu’elles ont des intérêts en commun et agissent souvent de façon concertée. Dans les circonstances, je ne crois pas qu’il soit approprié de se limiter aux liens commerciaux qui ont un impact sur l’exercice du droit de vote de chacune des SMAGs.
+[83] La vente des actifs de ProCap à Desjardins est un excellent exemple de décisions importantes sur laquelle les SMAGs ont dû s’entendre dans le meilleur intérêt collectif du groupe. À la fin du processus consultatif auprès des SMAGs dans le but de leur permettre de prendre une décision éclairée quant au futur de leur entreprise de distribution de produits et services, les SMAGs ont décidé de façon unanime qu’il était dans le meilleur intérêt du groupe de se retirer de ce secteur d’activités et de se départir de ProCap. La vente de la majorité des actifs de ProCap à Desjardins a été approuvée en mars 2010 et a été conclue le 1er juillet 2010.
+[84] La Fédération a son propre conseil d’administration élu par les SMAGs lors de son assemblée générale annuelle. En vertu de l’article 93.148 de la Loi sur les assurances, ce sont les SMAGs qui ont le pouvoir de décider du nombre d’administrateurs (minimum de sept (7)) et du mode d’élection des administrateurs. Ce processus d’élection des administrateurs de la Fédération est détaillé aux articles 24 à 29 du règlement de régie interne de la Fédération, soit le Règlement de régie interne no. 30 pour l’année 2010, lequel est compatible avec le règlement en place dans les années antérieures.
+[85] Les SMAGs se sont entendues sur un processus de répartition des sièges au conseil d’administration de la Fédération dans le but d’assurer la meilleure représentation possible des SMAGs au sein dudit conseil.
+[86] Le nombre d’administrateurs de la Fédération est fixé à dix (10) en vertu du Règlement de régie interne no. 30 de la Fédération. Seuls les administrateurs ou les directeurs généraux des SMAGs sont éligibles à la position d’administrateur de la Fédération, bien que le nombre de directeurs généraux pouvant siéger au conseil d’administration de la Fédération ne puisse dépasser le tiers des membres au conseil.
+[87] Selon l’article 25 du Règlement no. 30, les SMAGs ont choisi de se regrouper en trois (3) zones et d’octroyer à chacune de ces zones au moins deux (2) sièges au conseil d’administration de la Fédération, soit un siège réservé à un administrateur de SMAGs et l’autre siège, à un directeur général de SMAGs. Chacun des candidats à ces six (6) sièges doit recevoir l’appui d’au moins cinq (5) administrateurs ou directeurs généraux en provenance d’au moins deux (2) SMAGs faisant partie de sa propre zone.
+[88] Les quatre (4) autres sièges du conseil d’administration de la Fédération, eux, (sièges 7 à 10 inclusivement) doivent être pourvus parmi les administrateurs des SMAGs des trois (3) zones. Les candidatures pour ces postes doivent être appuyées par écrit par au moins cinq (5) administrateurs ou directeurs généraux de SMAGs appartenant à trois (3) zones différentes, le candidat devant donc obtenir au moins un appui par zone. L’élection pour ces postes se déroule lors de l’assemblée générale annuelle.
+[89] Ce monde d’élection du conseil d’administration démontre bien que les SMAGs sont en état d’exercer un contrôle sur l’élection du conseil d’administration de la Fédération et un contrôle de droit sur la Fédération.
+[90] Comme les SMAGs contrôlaient la Fédération étant donné qu’elles entretenaient suffisamment de liens communs entre elles leur permettant d’être en état d’exercer un contrôle sur la Fédération, tel que décrit en détail précédemment.
+[91] Comme la Fédération contrôlait ProRé étant donné qu’elle détenait législativement le droit de nommer les sept (7) administrateurs de ProRé en vertu de l’article 31 de la Loi ProRé et que ces derniers avaient le droit d’administrer ses affaires.
+[92] Les SMAGs, en tant que groupe de personnes, contrôlaient la Fédération et la Fédération contrôlait ProRé, les SMAGs doivent être considérées comme contrôlant aussi ProRé en vertu du principe de détention simultanée prévu au paragraphe 256(6.1) de la LIR, et ce, immédiatement après et immédiatement avant la disposition par les SMAGs des actions de catégorie A de ProCap en faveur de ProRé.
+[93] Au niveau de ProCap, la preuve a révélé que les SMAGs, en tant que groupe, contrôlaient aussi ProCap, immédiatement avant la disposition par les SMAGs des actions de catégorie A de ProCap en faveur de ProRé. La convention entre actionnaires de ProCap et les modifications qui y ont été apportées démontrent bien que les SMAGs avaient le pouvoir d’exercer le contrôle de la société par sa capacité de nommer la majorité des membres du conseil d’administration de la société.
+[94] Dans la version initiale de la convention entre actionnaires de ProCap soit celle du 10 avril 2003, il était prévu à l’article 15 que le conseil d’administration était composé de sept (7) membres dont cinq (5) nommés par la Fédération parmi les membres de son conseil d’administration et deux (2) élus par les SMAGs. Cette disposition a été modifiée le 4 avril 2006 afin de permettre aux SMAGs de reprendre le contrôle de la majorité des membres du conseil d’administration. Le conseil d’administration était toujours composé de sept (7) membres mais seulement trois (3) étaient nommés par la Fédération et quatre (4) étaient élus par les SMAGs. Le 14 avril 2010, les SMAGs ont modifié à nouveau l’article 15 de la convention entre actionnaires pour augmenter le nombre d’administrateurs à dix (10) tous devaient être nommés par le conseil d’administration de la Fédération parmi ses propres administrateurs.
+[95] Cette délégation du contrôle de l’élection des membres du conseil d’administration de ProCap à la Fédération a été faite après que les SMAGs aient approuvé la vente de la majorité des actifs de ProCap à Desjardins et ce dans le but de faciliter la conclusion de la vente.
+[96] Immédiatement après la disposition par les SMAGs des actions de catégorie A de ProCap en faveur de ProRé, ProCap était une filiale en propriété exclusive de ProRé. Comme les SMAGs, en tant que groupe de personnes contrôlaient ProRé, tel qu’expliqué au paragraphe 92 ci-dessus, et que ProRé contrôlaient alors ProCap, les SMAGs contrôlaient aussi ProCap en vertu du principe de détention simultanée prévue au paragraphe 256(6.1) de la LIR.
+[97] Comme les SMAGs contrôlaient ProRé et ProCap, immédiatement après et immédiatement avant la disposition par les SMAGs des actions de catégorie A de ProCap en faveur de ProRé, la deuxième condition d’application de l’alinéa 256(7)d) de la LIR est rencontrée.
+[98] La troisième condition d’application de l’alinéa 256(7)d) de la LIR est que la personne ou groupe de personnes qui contrôlait ProCap immédiatement avant la disposition des actions de catégorie A de ProCap n’ont pas cessé, dans le cadre de la série d’opérations ou d’évènements qui comprend la disposition, de contrôler ProRé.
+[99] Cette condition est rencontrée en l’espèce car les autres opérations ou évènements compris dans la série d’opérations dont fait partie la disposition par les SMAGs des actions de catégorie A de ProCap en faveur de ProRé, n’ont pas eu d’impact au niveau du contrôle de ProRé.
+[100] Puisque toutes les conditions d’application de l’alinéa 256(7)d) de la LIR sont rencontrées, l’appel est accueilli avec dépens en faveur de l’appelante.
+Signé à Montréal, Québec, ce 23e jour de janvier 2020.
+«Réal Favreau»
+Juge Favreau
+ANNEXE A
+ANNEXE B
+RÉFÉRENCE :
+2020 CCI 13
+Nº DU DOSSIER DE LA COUR :
+2016-3908(IT)G
+INTITULÉ DE LA CAUSE :
+PROMUTUEL RÉASSURANCE ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+le 7 et 8 mai et le 5 juin 2019
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 23 janvier 2020
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Roger Taylor et Me Marie-Claude Marcil
+Avocat de l'intimée :
+Me Michel Lamarre
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Me Roger Taylor
+Me Marie-Claude Marcil
+Cabinet :
+EY Cabinet d’avocats
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur générale du Canada
+Ottawa, Canada

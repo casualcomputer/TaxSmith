@@ -1,0 +1,198 @@
+---
+title: "Francis v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28100/index.do"
+last_modified: "2003-10-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 571"
+citation2: ""
+neutral_citation: "2003 TCC 571"
+decision_date: "2003-10-03"
+language: "en"
+item_id: "28100"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1685
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:39:41.479000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ffa1c9a3fa4bfad278bfe0038bebb4fd408b596a72c07aac1c7e8d536f9276b2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Francis v. M.N.R.
+
+- Citation: 2003 TCC 571
+- Decision date: 2003-10-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1685, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Francis v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-03
+Neutral citation
+2003 TCC 571
+File numbers
+2002-2828(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-2828(EI)
+BETWEEN:
+ROSE FRANCIS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+893134 ONTARIO INC.,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+893134 Ontario Inc. (2002-2830(EI)) on July 25, 2003 at Windsor, Ontario
+By: The Honourable Justice J. M. Woods
+Appearances:
+Agent for the Appellant:
+Francois Francis
+Counsel for the Respondent:
+Justine Malone
+Agent for the Intervenor:
+Francois Francis
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of a determination made under the Employment Insurance Act is dismissed and the determination of the Minister of National Revenue that Rose Francis was not engaged in insurable employment is confirmed.
+Signed at Ottawa, Canada this 3rd day of October, 2003.
+"J. M. Woods"
+J.M. Woods J.
+Docket: 2002-2830(EI)
+BETWEEN:
+893134 ONTARIO INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ROSE FRANCIS,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Rose Francis (2002-2828(EI)) on July 25, 2003 at Windsor, Ontario
+By: The Honourable Justice J. M. Woods
+Appearances:
+Agent for the Appellant:
+Francois Francis
+Counsel for the Respondent:
+Justine Malone
+Agent for the Intervenor:
+Francois Francis
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of a determination made under the Employment Insurance Act is dismissed and the determination of the Minister of National Revenue that Rose Francis was not engaged in insurable employment is confirmed.
+Signed at Ottawa, Canada this 3rd day of October, 2003.
+"J. M. Woods"
+J.M. Woods J.
+Citation:2003TCC571
+Date: 20031003
+Docket:2002-2828(EI)
+BETWEEN:
+ROSE FRANCIS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+893134 ONTARIO INC.,
+Intervenor.
+Docket: 2002-2830(EI)
+AND BETWEEN:
+893134 ONTARIO INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ROSE FRANCIS,
+Intervenor.
+REASONS FOR JUDGMENT
+Woods J.
+[1] These appeals were instituted as a result of a determination by the Minister of National Revenue (the "Minister") that Mrs. Rose Francis was not engaged in insurable employment for purposes of the Employment Insurance Act, S.C. 1996, c. 23 (the "Act"). The ground for this determination was that the terms of Mrs. Francis' employment were not substantially similar to those that would be entered into by arm's length persons.
+[2] The appeals by Mrs. Francis and 893134 Ontario Inc. were heard together on common evidence.
+Facts
+[3] Mrs. Francis' husband, Francois Francis, is the owner of a corporation that carries on business as a grocery wholesaler under the name of Mega Food Distributors. Mrs. Francis worked as a bookkeeper for the corporation beginning February, 2000.
+[4] Prior to February, 2000, the bookkeeper for Mega Food Distributors was an arm's length individual recommended by a firm of chartered accountants. This person worked approximately 11 hours per week and charged $21 per hour for her services, subject to small courtesy discounts. Mr. Francis testified that this bookkeeper was let go because her work was unsatisfactory and she was replaced by Mrs. Francis. Mr. Francis testified that Mrs. Francis worked 50 hours per week at a rate of $12 per hour. She opened the premises at 7:00 a.m. and stayed until 5:00 p.m. five days each week.
+[5] Mrs. Francis had two maternity leaves while employed by Mega Food Distributors. The first maternity leave was for six months and during this time she was replaced by her sister-in-law. Mrs. Francis' sister-in-law initially worked approximately ten hours per week because she was also working at Casino Windsor. According to Mr. Francis' testimony, his sister started working 50 hours per week with Mega Food Distributors as Mrs. Francis had done once her employment at Casino Windsor ended.
+[6] Mrs. Francis' second maternity leave was for one year and during this time the bookkeeping was performed by an unrelated individual named Mr. Aman. Mr. Aman attended school and also performed bookkeeping services for various businesses. Prior to his replacing Mrs. Francis, Mr. Aman was given office space at Mega Food Distributors in exchange for reviewing the company's accounting records. Mr. Francis testified that, during his wife's second maternity leave, Mr. Aman took on these additional duties and worked approximately 50 hours per week as bookkeeper for Mega Food Distributors. Mr. Francis stated that Mr. Aman was willing to do this so that he could learn on the job and that Mr. Aman had spare time because the bookkeeping services for other companies were not time consuming.
+[7] The Minister determined that Mrs. Francis was not engaged in insurable employment because it could not reasonably be concluded that the employer, 893134 Ontario Inc., would have paid an unrelated person a similar amount for the same work.
+Issue
+[8] The issue is whether it is reasonable for the Minister to conclude that Mrs. Francis would not have entered into a substantially similar contract of employment if she had been dealing at arm's length with her employer.
+Statutory Provisions
+[9] Paragraphs 5(2)(i) and 5(3)(b) of the Act provide:
+(2) Excluded employment – Insurable employment does not include ...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+(3) Arm's length dealing – For the purposes of paragraph (2)(i), ...
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+Analysis
+[10] The effect of paragraph 5(3)(b) of the Act is to allow employees who are related to their employers to be engaged in insurable employment if the Minister is satisfied that the terms of employment are substantially similar to what they would be if the parties were dealing at arm's length. In this case, the Minister was not so satisfied.
+[11] The jurisdiction of the Court to interfere with the Minister's decision has been set out in several decisions by the Federal Court of Appeal. For example, Légaré v. R.[1] describes the role of the Court as follows:
+[4] … The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[12] At the hearing counsel for the Crown did not attempt to justify the Minister's decision based on the original ground for the determination which was that Mrs. Francis' hourly rate would not be paid to an arm's length person. Instead, counsel submitted that an arm's length person would not have spent 50 hours per week performing bookkeeping duties for this business.
+[13] I accept Mr. Francis' testimony that the first bookkeeper, who worked about 11 hours per week, did an unsatisfactory job and that the bookkeeping required more than 11 hours per week. However, I am not satisfied that this business required a bookkeeper to work 50 hours per week. First, there is a vast difference between 11 hours, the time spent by the first bookkeeper, and 50 hours, the time reputedly spent by Mrs. Francis and her sister-in-law. Secondly, I find that Mr. Francis' testimony with respect to the terms of employment of the other bookkeeper, Mr. Aman, is not plausible. According to Mr. Francis, Mr. Aman worked 50 hours per week for no additional remuneration. This arrangement allegedly continued for a lengthy period, one year. In my view this testimony with respect to Mr. Aman is improbable.
+[14] Accordingly, it has not been demonstrated that Mega Food Distributors would engage an arm's length person to work 50 hours per week in a bookkeeping function. In these circumstances, I find that the Minister's decision was reasonable.
+[15] For the foregoing reasons, the appeals are dismissed and the determination that Rose Francis did not engage in insurable employment is confirmed.
+Signed at Ottawa, Canada, this 3rd day of October, 2003.
+"J. M. Woods"
+J.M. Woods J.
+CITATION:
+2003TCC571
+COURT FILE NO.:
+2002-2828(EI)
+2002-2830(EI)
+STYLE OF CAUSE:
+Rose Francis v. The Minister of National Revenue
+893134 Ontario Inc. o/a Mega Distributors v. The Minister of National Revenue
+PLACE OF HEARING:
+Windsor, Ontario
+DATE OF HEARING:
+July 25, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J. M. Woods
+DATE OF JUDGMENT:
+October 3, 2003
+APPEARANCES:
+For the Appellant:
+Francois Francis
+Counsel for the Respondent:
+Justine Malone
+Agent for the Intervenor:
+Francois Francis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] (1999), 246 N.R. 176 (F.C.A.).

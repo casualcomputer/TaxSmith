@@ -1,0 +1,263 @@
+---
+title: "Xudou c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26133/index.do"
+last_modified: "2004-03-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 163"
+citation2: ""
+neutral_citation: "2004 CCI 163"
+decision_date: "2004-03-05"
+language: "fr"
+item_id: "26133"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4128
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:44:08.404000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bfaa37ed674d883ef8a1c37eeee1cf4e82c0b49327185ed5c55ad1ff15f1224b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Xudou c. M.R.N.
+
+- Citation: 2004 CCI 163
+- Decision date: 2004-03-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4128, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Xudou c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-05
+Référence neutre
+2004 CCI 163
+Numéro de dossier
+2003-1808(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-1808(EI)
+ENTRE :
+CHRISTINA XUDOU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SAFE-TECH SECURITY INC.,
+intervenante.
+_______________________________________________________________
+Appel entendu le 14 janvier 2004 à Montréal (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Pierre Lafontaine
+Avocate de l'intimé :
+Me Antonia Paraherakis
+Représentant de l'intervenante :
+Dimistrios Alexiou
+_______________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance emploi est rejeté et la décision rendue par le Ministre est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 5e jour de mars 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI163
+Date : 20040305
+Dossier : 2003-1808(EI)
+ENTRE :
+CHRISTINA XUDOU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SAFE-TECH SECURITY INC.,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de l'appel d'une détermination en date du 11 février 2003. La détermination concerne la période du 2 septembre au 9 novembre 2002, alors que l'appelante travaillait pour le compte et bénéfice de Safe-Tech Security Inc., compagnie dirigée et contrôlée par son conjoint, seul actionnaire. Le travail effectué par l'appelante a été exclu des emplois assurables à cause du lien de dépendance entre elle et le payeur de la rémunération.
+[2] Pour rendre sa décision, l'intimé a pris pour acquis les présomptions de fait suivantes :
+a) Le payeur, Safe-Tech Security Inc., se spécialise dans la vente et l'installation de systèmes d'alarme et de caméras de surveillance;
+b) L'unique actionnaire du payeur est Dimistrios Alexiou, conjoint de l'appelante;
+c) Le payeur transige avec environ 200 clients et, a un chiffre d'affaire annuel oscillant autour de 200,000 $;
+d) Les seuls travailleurs considérés employés du payeur sont l'actionnaire ainsi que l'appelante;
+e) Le payeur embauche aussi plusieurs techniciens qu'il considère sous-traitants;
+f) Le rôle de l'actionnaire consiste principalement à s'occuper de la vente et de l'installation des systèmes d'alarme ou de caméras, du recouvrement des comptes ainsi que du suivi de satisfaction auprès de la clientèle;
+g) L'appelante qui a une formation en administration et en finance, rend des services au payeur à titre de secrétaire/réceptionniste, depuis l'année 1996;
+h) Ses fonctions consistent, en autre, à faire les entrées de données et à préparer les dossiers pour chaque client, à préparer les estimés, à recevoir les appels de service et à rappeler les clients lorsque nécessaire, à faire les dépôts bancaires, à imprimer les rapports mensuels, à s'occuper du recouvrement, à effectuer la tenue de livres ainsi que de toutes autres tâches connexes reliées au travail de bureau;
+i) Le payeur utilise également les services d'un comptable agréé qui effectue les déclarations de revenus ainsi que les feuillets de renseignements T-4;
+j) L'appelante travaille à la résidence familiale;
+k) Ni le payeur ni l'appelante ne tient de registre des heures travaillées par cette dernière;
+l) Durant la période en litige, l'appelante n'avait aucun horaire fixe de travail. Elle devait être disponible 7 jours par semaine afin de répondre à tout imprévu;
+m) Durant les années antérieures à la période en litige, l'appelante effectuait en moyenne 40 heures de travail par semaine;
+n) Le relevé d'emploi, soumis par le payeur pour la période en litige, indique que l'appelante a travaillé 60 heures par semaine;
+o) Sa rémunération hebdomadaire était de 600 $ et ce, peu importe le nombre d'heures réellement travaillées;
+p) Antérieurement à la période en litige, l'appelante travaillait pour le payeur 40 heures par semaine, pour une rémunération hebdomadaire de 600 $ alors que durant la période en litige, elle rendait les mêmes services, pour la même rémunération hebdomadaire, mais en travaillant 60 heures par semaine soit une baisse de salaire de 33%;
+q) L'appelante a encaissé en date du 29 novembre 2002, 6 chèques de paie attribuables aux semaines s'échelonnant du 4 octobre au 8 novembre 2002;
+r) L'appelante a 4 enfants dont les dates de naissance sont le 18 décembre 1997, le 27 juillet 1999, le 21 septembre 2001 et le 22 octobre 2002;
+s) Durant l'année 2001, l'appelante a été en arrêt de travail pendant une période de 7 mois;
+t) Durant l'année 2002, l'appelante a été en arrêt de travail pendant une période de 10 mois;
+u) À cause du caractère confidentiel relié à la vente de systèmes d'alarmes, le payeur ne remplace pas l'appelante pendant ses périodes d'arrêts de travail;
+v) L'appelante a affirmé que pendant ses périodes d'arrêts de travail, c'est l'actionnaire qui effectuait les tâches les plus urgentes;
+w) Entre les périodes où elle était inscrite au registre de paie du payeur, l'appelante a continué à lui rendre des services, sans rémunération, alors qu'elle était en arrêt de travail et qu'elle recevait des prestations de chômage.
+[3] L'appelante a admis le contenu des alinéas 5 a), b), e), f), g), h), i), j), k), n), r), s), t), u) et v). Elle a nié le contenu des alinéas c), d), l), m), o), p), q) et w).
+[4] L'appelante a fondé son appel sur les motifs formulés par son procureur dans une lettre en date du 30 avril 2003. Il y a lieu d'en reproduire les extraits importants :
+[...]
+Il est de notre prétention que la Cour canadienne de l'impôt est justifiée d'intervenir aux présentes pour les motifs suivants :
+a) Le Ministre n'a pas tenu compte dans sa décision de toutes les circonstances comme exigées par la Loi, a pris compte de certains facteurs dépourvus d'intérêts et a violé un principe de droit;
+b) La décision du Ministre résulte d'un usage inapproprié de sa discrétion;
+[...]
+Le Ministre a tenu compte dans sa décision des facteurs non pertinents suivants :
+a) L'encaissement tardif des chèques de paie par l'appelante ne concerne aucunement la rétribution versée, les modalités d'emplois et la durée, la nature et l'importance du travail accompli;
+L'appelante était libre d'encaisser ses chèques de paie au moment désiré et cela n'a rien à voir avec son contrat d'emploi avec Safe-Tech Sécurity Inc. Il s'agit d'un facteur aucunement pertinent dont le Ministre a tenu fortement compte dans sa décision;
+b) La latitude de l'appelante dans son horaire de travail et la manière dont elle gère son travail est un facteur aucunement pertinent une fois que le Ministre conclut dans sa décision que le payeur a la possibilité d'exercer son pouvoir de contrôle et de supervision sur l'appelante;
+c) Le fait erroné que l'appelante accumule le nombre d'heure nécessaire à son travail avant ses accouchements est un facteur erroné et incorrect. De plus, ce facteur n'est aucunement pertinent et n'a rien à voir avec le contrat d'emploi de l'appelante;
+Le Ministre n'a pas tenu compte dans sa décision des facteurs pertinents suivants :
+d) De l'usage par le payeur de sous contractants durant la période d'absence de l'appelante afin de pallier à son absence pendant son congé de maternité;
+e) De la déclaration de l'appelante concernant sa semaine de travail qui oscillait entre 40 et 60 heures semaine. Le Ministre a incorrectement établit le salaire de l'appelante sur une base fixe de 60 heures semaine;
+f) Que l'appelante reçoit des jours de congés payés à titre de paie de vacances se contentant de déclarer incorrectement dans sa décision que l'appelante ne reçoit aucune paie de vacances;
+[...]
+[5] L'appelante est l'épouse de Dimistrios Alexiou, seul et unique actionnaire de la compagnie Safe-Tech Security Inc. créée au début des années 90. Elle travaille pour la compagnie contrôlée par son conjoint depuis 1996. Lors de sa demande de révision le 14 janvier 2003, l'appelante a résumé sa description de tâches pour l'entreprise de la manière suivante :
+[...]
+The following letter is an objection to ruling # CEO0300 9111 5110.
+I, Christine Xudou have been employed by Safe-Tech Security Since 1996 to do the following duties:
+- data entry
+- Receptionist
+- Scheduling installations/service calls
+- Preparing files for new customers
+- Downloading
+- Filing
+- Updating file information (new codes, cancelled codes, changes...)
+- Payroll
+- Accounts receivable
+- Accounts payable
+- GST-TVQ etc...
+[...]
+[6] La preuve a révélé d'une manière incontestable que l'appelante effectuait un travail très important voire même essentiel pour l'entreprise contrôlée par son conjoint. Ce travail nécessaire au bon fonctionnement de l'entreprise était effectué à partir d'un bureau situé dans la résidence familiale.
+[7] Ainsi l'appelante a bel et bien travaillé et son travail était indispensable pour la bonne marche de l'entreprise. D'ailleurs, monsieur Alain Lacoste, responsable du dossier de l'appelante, a reconnu l'apport de l'appelante auprès de la compagnie intervenante.
+[8] Le dossier comporte cependant un volet très particulier. Bien que l'appelante constituait une employée aussi essentielle, la preuve a révélé que la rémunération versée à l'appelante pour son travail équivalait à peine à une année complète et cela, sur une durée de cinq ans. En d'autres termes, sur une période de cinq années, l'appelante a reçu un salaire à différentes périodes, entrecoupées de périodes où elle recevait des prestations d'assurance-emploi et de maternité; le total des périodes travaillées rémunérées représente à peine une seule année.
+[9] Qui remplaçait l'appelante lors des périodes où elle ne recevait pas de rémunération ?
+[10] Son conjoint exécutait plus d'heures et avait recours à des sous-traitants pour certains travaux.
+[11] Lors des périodes d'arrêts, l'appelante effectuait-elle du travail ?
+[12] Elle et son conjoint ont affirmé que non; l'appelante a affirmé qu'elle n'exécutait aucun travail lors des périodes où elle n'était pas inscrite au registre du salaire. Selon elle, le travail était simplement accumulé ou exécuté par son conjoint en sus de ses occupations régulières.
+[13] Pourquoi l'entreprise n'embauchait-elle pas quelqu'un d'autre lors des périodes où l'appelante devait s'absenter pour donner naissance à l'un de ses enfants ou autres motifs ? La confidentialité des activités a été la seule explication.
+[14] Le représentant de la compagnie, conjoint de l'appelante, a beaucoup insisté sur le fait qu'il s'agissait d'un domaine d'activités économiques très particulier en ce qu'il devait colliger à son bureau plusieurs informations extrêmement confidentielles. La présence d'un tiers, selon lui, aurait pu avoir des conséquences fâcheuses sur la bonne marche de son entreprise, si un ou des tiers avaient eu accès à de pareilles données, laissant ainsi croire que tout tiers était non fiable ou non responsable.
+[15] Aucune preuve autre que le témoignage n'a été soumise démontrant que la compagnie avait fait des déboursés plus importants à l'endroit des sous-traitants lors des périodes où l'appelante n'était pas inscrite au registre des salaires.
+[16] Monsieur Dimistrios Alexiou a beaucoup insisté sur les particularités de l'entreprise; il a, à cet égard, notamment indiqué que cette dernière devait être à l'écoute des besoins de ses clients sept jours/semaine 24 heures par jour. À cet effet, il a donné l'exemple d'un restaurant rempli à craquer au moment où l'alarme était déclenchée nécessitant alors une intervention ultra rapide.
+[17] Il a aussi indiqué que ses clients commerciaux et corporatifs faisaient en sorte que souvent les travaux devaient être effectués en dehors des heures ouvrables ou tout simplement durant la nuit.
+[18] Tous les faits soumis tant par l'appelante que l'intimé soulèvent une question fort importante. Comment imaginer cette entreprise avec un nombre de clients grandissant chaque année pouvoir se priver des services de l'appelante unanimement reconnus essentiels, l'équivalent de quatre années complètes sur cinq ?
+[19] Affirmer essentiellement que le travail non exécuté par l'appelante au cours des périodes où elle recevait des prestations d'assurance-emploi ou maternité était exécuté par son conjoint, libéré partiellement par un recours plus fréquent à des sous-traitants, est une explication tout à fait invraisemblable, voire même totalement farfelue.
+[20] Outre le motif à l'appui de la détermination, l'intimé a également pris en considération d'autres faits moins déterminants, mais certainement pertinents. Je fais notamment référence aux extraits suivants du rapport préparé lors de l'analyse du dossier de l'appelante :
+Pièce I-1, onglet 9 p. 5
+Rétribution versée :
+La travailleuse avait une rémunération de 600 $ hebdomadairement (10 $/heure) avec une semaine de travail de 60 heures pendant la période en litige (2 septembre 2002 au 9 novembre 2002). Lors de la période d'emploi précédente (5 mars 2001 au 20 juillet 2001), l'appelante recevait le même salaire mais pour des semaines de travail moindre soit 40 heures (15 $/heure) ce qui représente une baisse de salaire par rapport à la période en litige. Qui accepterait une baisse de salaire de 33 % pour des semaines de travail plus élevées ? Une personne sans lien de dépendance avec le payeur n'accepterait certainement pas une telle entente.
+De plus, nous ne pouvons nous permettre de croire qu'une personne sans lien de dépendance avec le payeur, aurait attendu si longtemps pour encaisser ses chèques de paie (voir item 23 de la section 5 du présent rapport).
+Item 23 ce la section 5 :
+Chèques de paie du
+6 septembre 2002
+13 septembre 2002
+20 septembre 2002
+27 septembre 2002
+4 octobre 2002
+11 octobre 2002
+18 octobre 2002
+25 octobre 2002
+1er novembre 2002
+8 novembre 2002
+Encaissés le
+30 septembre 2002
+30 septembre 2002
+18 octobre 2002
+illisible
+29 novembre 2002
+29 novembre 2002
+29 novembre 2002
+29 novembre 2002
+29 novembre 2002
+29 novembre 2002
+Modalités d'emploi :
+Le payeur a la possibilité d'exercer son pouvoir de contrôle, de supervision sur l'appelante compte tenu du lien qui unit les deux parties, il est évident que Dimitrios Alexiou de Safe-Tech Security Inc. a une entière confiance en l'appelante et qu'il lui laisse beaucoup de latitude dans son horaire de travail et la matière dont elle gère son travail.
+Toutefois, il est clair, qu'une personne sans lien de dépendance avec le payeur, n'aurait jamais attendu si longtemps pour encaisser ses chèques de paie.
+Durée du travail :
+Compte tenu de l'importance des fonctions exercées par Christina Xudou (voir item 13 (a à u) de la section 5 du présent rapport) et du temps requis pour les effectuer (60 heures semaine), il semble peu probable, qu'aux arrêts de travail de cette dernière, le président soit en mesure d'exercer ses fonctions et celles de la travailleuse car dans cette perspective, on imaginerait des semaines de travail de 100 heures de la part du payeur et ce pendant tout près de 4 années non consécutives (1998 à 2002).
+Ce qui nous permet donc de croire que la travailleuse concilie ses tâches ménagères et ses fonctions pour le payeur toute l'année durant (à l'exception des semaines où elle accouche évidemment) et qu'il n'y a pas d'arrêt de travail complet de sa part surtout qu'elle demeure à la place d'affaires. Il est impensable d'imaginer qu'une entreprise embauche quelqu'un avec un horaire de travail de 60 heures par semaine en spécifiant que son poste est vital pour l'entreprise et qu'en même temps il s'en prive pendant presque 4 années non consécutives!?!
+De plus, l'historique d'emploi de l'appelante depuis cinq ans démontre qu'elle se déclare retourner travailler pour le payeur le nombre suffisant de semaine d'emploi avant ses accouchements pour se prévaloir aux prestations d'assurance emploi-maternité.
+Nature et importance du travail :
+Le travail exercé par l'appelante est réel, important et entièrement justifié en rapport aux besoins de l'entreprise. Nous ne pouvons croire que l'entreprise aurait pu se priver pendant quatre années non consécutives des services de l'appelante et ce même si elle nous dit que c'est le payeur qui la remplace et effectue en même temps ses propres fonctions en tant que président de l'entreprise.
+[21] Les explications soumises par l'appelante et son conjoint, monsieur Dimistrios Alexiou, représentant de la compagnie Safe-Tech Security Inc., sont tout simplement invraisemblables. Il est totalement impensable qu'une personne aussi importante et occupant une fonction aussi stratégique pour l'employeur ne soit mise à contribution dans le cours des affaires de la compagnie que pour l'équivalent d'une année sur une durée de cinq ans.
+[22] Je suis tout à fait convaincu que l'appelante travaillait sans interruption, si ce n'est que lors de très courtes périodes où elle a donné naissance à ses enfants.
+[23] D'ailleurs, j'ai noté que l'une des parties de la période en litige, soit celle couvrant la période du 2 septembre au 9 novembre 2002, englobe une période où elle n'a manifestement pas travaillé, c'est-à-dire les jours avant et après le 22 octobre 2002, date où elle a donné naissance à l'un de ses enfants. Il s'agit là d'une admission de l'appelante à l'alinéa r).
+[24] Lorsqu'il existe un lien de dépendance entre les parties liées par un contrat de travail, l'analyse doit tenir compte de périodes souvent plus longues que celles décrites aux relevés d'emploi étant donné que les avantages, bénéfices ou inconvénients peuvent se manifester en dehors de la période où la personne était inscrite au registre des salaires et rémunérée.
+[25] Ainsi une personne avec un lien de dépendance peut à cause de sa proximité avec le payeur, effectuer en partie ou en totalité, le même travail sans rémunération après avoir reçu une cessation d'emploi. En pareil cas, il devient évident que la durée de la période de travail rémunérée n'a pas été établie en fonction des besoins de l'entreprise ou dictée par des motifs essentiellement économiques.
+[26] En l'espèce, la preuve soumise par l'appelante et l'intervenante pour discréditer la qualité de l'exercice du pouvoir discrétionnaire repose sur des explications et fondements invraisemblables.
+[27] Que des parties liées par un lien de dépendance collaborent, s'entraident et se soutiennent, cela n'a pas nécessairement de conséquences sur le contrat de travail qui existe ou a pu exister entre eux; là où les choses sont, cependant, totalement différentes, c'est lorsque les mêmes tâches ont été rémunérées pour une certaine période à l'intérieur d'une certaine cédule horaire alors que dans une autre période ou en dehors de la cédule, elles ne l'ont pas été. En d'autres termes, les mêmes tâches sont effectuées, mais bénévolement et à titre gratuit. Tantôt il y a une rémunération, tantôt il n'y en a pas.
+[28] Le présent dossier est également un bel exemple de la nécessité de prendre en considération certains faits pouvant se situer dans le temps en dehors d'une période en litige. En l'espèce, l'appelante et le payeur aurait convenu de deux cédules d'heures de travail différentes et cela, pour l'exécution de la même qualité et quantité de travail. À un certain moment, l'appelante travaillait 40 heures et à un autre moment, elle travaillait 60 heures et cela, pour la même rémunération. Entre personnes liées, cela est possible et vraisemblable mais non entre des tiers.
+[29] En l'espèce, l'intimé a fait une analyse exhaustive de tous les faits pertinents; elle n'a rien négligé ou oublié qui soit de nature à justifier une conclusion autre que celle retenue. La détermination a résulté d'une analyse judicieuse de tous les faits pertinents. Les divers éléments pris en considération ont été appréciés d'une manière juste et raisonnable et la conclusion retenue est également tout à fait logique et appropriée.
+[30] Contrairement aux prétentions non établies par l'appelante, à qui incombait le fardeau de la preuve, l'intimé n'a pas accordé une importance exagérée ou démesurée à certains faits, il n'a occulté de son analyse aucun élément susceptible de commander une conclusion différente.
+[31] Je conclus donc que l'appelante et l'intervenante n'ont pas relevé le fardeau de preuve qui leur incombait en démontrant d'une manière prépondérante que les conclusions retenues par l'intimé étaient déraisonnables eu égards aux faits analysés. La preuve a plutôt établi que la discrétion avait été exercée d'une manière judicieuse et irréprochable par la prise en considération de tous les éléments pertinents et ce, avec discernement et un juste équilibre.
+[32] La preuve a établi que l'appelante exécutait un travail essentiel pour l'entreprise dirigée par son conjoint. Parallèlement à l'exécution de son travail essentiel, l'appelante a donné naissance a un quatrième enfant. Je ne doute pas un seul instant de ce que l'appelante et son conjoint ont dû accomplir pour passer à travers.
+[33] L'assurabilité d'un emploi doit être déterminée à partir de critères rationnels se dégageant d'une relation d'affaires où l'espace pour des considérations humanitaires familiales ne doit pas être déterminante. En l'espèce, il n'y a aucun doute qu'il existait une entente où l'appelante faisait tout ce qu'elle pouvait pour aider son conjoint. Cette disponibilité et ce travail ont été transposés dans le livre des salaires et la comptabilité, en contrat apparent de louage de services.
+[34] La preuve soumise n'a cependant pas fait la démonstration qu'il s'agissait d'un travail exécuté dans des conditions comparables ou similaires à celles d'un tiers.
+[35] L'analyse des divers éléments pris en considération justifiait la détermination d'exclure le travail exécuté par l'appelante des emplois assurables.
+[36] Je n'ai rien noté ou remarqué qui soit de nature à discréditer la qualité du travail au niveau de l'exercice du pouvoir discrétionnaire. La conclusion retenue à l'origine de l'appel est logique et raisonnable. Les faits retenus ne font aucun doute que jamais des tiers n'auraient convenu d'un contrat de travail à peu près semblable.
+[37] Conséquemment l'appel est rejeté.
+Signé à Ottawa, Canada, ce 5e jour de mars 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI163
+No DU DOSSIER DE LA COUR :
+2003-1808(EI)
+INTITULÉ DE LA CAUSE :
+Christina Xudou
+et le ministre du Revenu national
+et Safe-Tech Security Inc.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE
+le 14 janvier 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 5 mars 2004
+COMPARUTIONS :
+Avocat de l'appelante:
+Me Pierre Lafontaine
+Avocate de l'intimé:
+Me Antonia Paraherakis
+Représentant de l'intervenante:
+Dimistrios Alexiou
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Pierre Lafontaine, avocat
+Ville :
+Montréal (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

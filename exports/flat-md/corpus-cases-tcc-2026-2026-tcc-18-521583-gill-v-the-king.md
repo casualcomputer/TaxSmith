@@ -1,0 +1,203 @@
+---
+title: "Gill v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521583/index.do"
+last_modified: "2026-01-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 TCC 18"
+citation2: ""
+neutral_citation: "2026 TCC 18"
+decision_date: "2026-01-30"
+language: "en"
+item_id: "521583"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5617
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-02-18T09:06:33.948000+00:00"
+cases_cited_count: 13
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "54949900a9fc61c0d738b0b379d5dc24fc272c3d81ce59375d97a08fc22c62d9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gill v. The King
+
+- Citation: 2026 TCC 18
+- Decision date: 2026-01-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5617, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gill v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-01-30
+Neutral citation
+2026 TCC 18
+File numbers
+2015-5442(IT)G, 2015-5444(IT)G
+Judges and Taxing Officers
+Ted Cook
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-5444(IT)G
+BETWEEN:
+JAPSEET KAUR GILL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2015-5442(IT)G
+AND BETWEEN:
+HARMAN SINGH GILL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion by the Appellant Japseet Kaur Gill and motion by the Respondent both heard on September 8, 2025 at Vancouver, British Columbia.
+Appeals heard on common evidence on September 8, 9 and 10, 2025 at Vancouver, British Columbia.
+Before: The Honourable Justice Edward (Ted) Cook
+Appearances:
+For the Appellant Japseet Kaur Gill:
+The Appellant herself
+For the Appellant Harman Singh Gill:
+The Appellant himself
+Counsel for the Respondent:
+Pavanjit Mahil Pandher
+JUDGMENT
+In accordance with my oral reasons delivered from the Bench, the motion by Japseet Kaur Gill for an adjournment of the hearing of her appeal is dismissed.
+In accordance with my oral reasons delivered from the Bench, the motion by the Respondent for the dismissal of the appeal by Japseet Kaur Gill for delay is dismissed.
+In accordance with the attached reasons, the appeal by Japseet Kaur Gill of the assessment dated November 6, 2012 made under section 160 of the Income Tax Act is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+·the fair market value of the consideration provided by Japseet Kaur Gill for the transferred property was $85,000; and
+·the underlying tax liability of Maninder Gill is that decided by the judgment of this Court rendered March 10, 2015 for appeal 2012-3681(IT)G, and includes interest accruing to November 6, 2012.
+In accordance with the attached reasons, the appeal by Harman Singh Gill of the assessment dated November 6, 2012 made under section 160 of the Income Tax Act is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the underlying tax liability of Maninder Gill is decided by the judgment of this Court rendered March 10, 2015 for appeal 2012-3681(IT)G, and includes interest accruing to November 6, 2012.
+Costs are awarded to the Respondent for the motion by Japseet Kaur Gill. Each party shall bear their own costs for the Respondent’s motion. Costs are awarded to the Respondent for the appeals by Japseet Kaur Gill and Harman Singh Gill.
+The parties have 30 days from the date of this judgment to agree on costs. If they do not, the Respondent will have a further 30 days to file a submission on costs. Each Appellant will then have 10 days to file a submission in response. A submission may not exceed 10 pages. If the parties do not agree on costs and the Respondent does not make a submission, the Respondent is awarded one set of costs in accordance with the Tariff.
+Signed on this 30th day of January 2026.
+“Ted Cook”
+Cook J.
+Citation: 2025 TCC 18
+Date: 20260130
+Docket: 2015-5444(IT)G
+BETWEEN:
+JAPSEET KAUR GILL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2015-5442(IT)G
+AND BETWEEN:
+HARMAN SINGH GILL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Cook J.
+Introduction
+[1] The Appellants, Japseet Kaur Gill and Harman Singh Gill, appeal from assessments, dated November 6, 2012, made under section 160 of the Income Tax Act (“Act”). The underlying tax liability for the assessments is that of Maninder Gill. The appeals were heard on common evidence.
+[2] Maninder was the sole registered owner of the Gill family home, located in Surrey, British Columbia. On June 3, 2010, he transferred a 59% interest in the home to his wife, Japseet, and a 40% interest to his son, Harman. Maninder retained a 1% interest.
+[3] At that time, Maninder was engaged in a dispute with the Canada Revenue Agency (“CRA”) regarding his 2004 and 2005 taxation years. Those years had been reassessed in March 2009. The CRA calculated that on November 6, 2012 Maninder’s outstanding tax liability under the Act (i.e., the total amount of tax, penalties and interest outstanding) in respect of those years was $1,065,099.
+[4] Subsection 160(1) of the Act provides that, if certain conditions are met, someone who has been transferred property may become jointly and severally, or solidarily, liable for all, or part of, the tax liability under the Act of the person who transferred the property to them. Japseet was assessed $646,742, and Harman was assessed $438,469, on the basis that Maninder had transferred interests in the family home to them while he had an income-tax liability and that each had given $1 in consideration for the transfer.
+[5] In March 2015, this Court rendered a judgment allowing Maninder’s appeals for his 2004 and 2005 taxation years. Those years were subsequently reassessed. The amounts reassessed were less than those used to support the assessments of Japseet and Harman.
+[6] In 2016, both Maninder and Harman transferred their interests in the Gill family home to Japseet. She became its sole registered owner. The Gill family continues to live there.
+Issues
+[7] The issues for Japseet and Harman differ even though they both acquired property in the same transaction. For Japseet, the issues are as follows:
+· Did she provide consideration for the transfer in 2010 of an interest in the family home to her?
+· If she did provide consideration, what was the fair market value of that consideration?
+[8] For Harman, the issues are as follows:
+· Was property transferred to him for the purposes of section 160 when he was transferred an interest in the family home in 2010?
+· Does it matter that he transferred his interest in the family home to Japseet in 2016?
+[9] If Japseet and Harman are liable under section 160, there is one additional issue: the impact, if any, of the March 2015 judgment and subsequent reassessment of Maninder’s 2004 and 2005 taxation years.
+Analysis Overview [10] The rules in paragraph 160(1)(e) of the Act will apply in this instance if the following conditions are met:
+· A transferor transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to a transferee.
+· The transfer was made to a person with whom the transferor was not dealing at arm’s length, whether by virtue of being the transferor’s spouse or otherwise.
+[11] As explained below, Maninder transferred property to both Japseet and Harman for the purposes of subsection 160(1) when they acquired interests in the Gill family home in June 2010. Maninder was, and still is, Japseet’s spouse. Maninder did not deal at arm’s length with Harman because he is Harman’s father.
+[12] Since both conditions have been met, paragraph 160(1)(e) provides that, in this instance, each Appellant is jointly and severally, or solidarily, liable with Maninder for an amount equal to the lesser of
+· the total of all amounts Maninder was liable to pay under the Act in respect of a taxation year preceding the transfer, and
+· the amount by which the fair market value of the transferred property exceeds the fair market value of the consideration given for the transferred property (both determined at the time of the transfer).
+[13] At the time of the transfer (i.e., June 3, 2010), Maninder had a liability under the Act in respect of preceding taxation years (i.e., 2004 and 2005). The Appellants did not challenge the underlying tax liability of Maninder, on which the section 160 assessments were based. Maninder’s underlying tax liability is his income-tax liability, including accrued interest, for the 2004 and 2005 taxation years as finally determined by the March 2015 judgment (see Scott v The Queen, 2020 TCC 4 at para 39).
+[14] The onus was on the Appellants to challenge the fair market value of the Gill family home determined by the CRA (see Truong v The Queen, 2011 TCC 380 at para 27). Although there were some passing comments in testimony that the fair market value of the home was lower than the fair market value used by the CRA, no credible attempt was made to challenge the CRA’s value.
+[15] I accept that the fair market value of the Gill family home at the time of the transfer was the amount determined by the CRA. That amount was $1,096,175, being $2,335,000 minus $1,238,824 of registered encumbrances. Consequently, the fair market value of the 59% interest transferred to Japseet was $646,743 and the fair market value of the 40% interest transferred to Harman was $438,470.
+[16] For the reasons below, I find that Japseet gave consideration of $85,000 for the interest in the Gill family home transferred to her and that Harman gave no consideration for the interest transferred to him.
+Japseet Kaur Gill [17] The land on which the Gill family home sits was purchased in 2004. An existing house was demolished and a new one built. Maninder acted as construction manager for the project. The Gill family home was completed in 2008.
+[18] The land title document for the June 2010 transfer states that the transfer was made for “$1 and other good and valuable consideration.” At the time of the transfer, no consideration was paid by Japseet. She argues that she paid significant funds to Maninder to pay for the construction of the new home and that those funds constitute consideration paid by her for the transfer of a 59% interest in the family home to her. She also argues that the amount of those funds exceeds the fair market value of the property transferred to her.
+[19] More specifically, Japseet testified that she acquired a property in Surrey, British Columbia (“57A Avenue”) in September 2006 for $1,050,000. She was its sole registered owner. 57A Avenue was sold in August 2007 for $2,250,000. She said that the profit from the sale was hers and that she gave that profit to Maninder for the construction of the Gill family home. She would give money to Maninder and he would then pay the construction expenses.
+[20] Even though Japseet was the sole registered owner of 57A Avenue and she testified that the profit from it was hers, the capital gain from its sale was split amongst the members of the Gill family for income-tax purposes.
+[21] Japseet said that over the years she repeatedly asked Maninder to transfer the property to her. Maninder finally relented and in June 2010 the transfer was made. Harman was also transferred an interest in the home so that his income could be used for mortgage-financing purposes. Japseet said that she knew nothing of Maninder’s tax issues and that the transfer was not made to avoid his tax liability.
+[22] Section 160 can apply to a transferee who has no intention to assist a tax debtor to avoid their tax liability (see Wannan v The Queen, 2003 FCA 423 at para 3). A tax or other motive might assist, however, in explaining why a transfer to a non-arm’s length party would take place without consideration. Maninder was dealing with several issues at the relevant time, including issues with the Canadian Radio-television and Telecommunications Commission (or CRTC), and income tax and GST issues. Even if Japseet was unaware of these issues, they still cast doubt over the reason for the transfer and, consequently, whether the transfer was made for consideration.
+[23] Maninder testified that the Gill family home was Japseet’s from the start and that he purchased it on her behalf. He was the purchaser because he had a relationship with the seller. It was put in his name for mortgage-financing purposes and he remained sole legal owner until 2010 for new-home-warranty purposes. Japseet owned the Gill family home while Maninder owned a corporation that operated a radio station (“Radio India”) and, through Radio India, two strata units.
+[24] I find Japseet did not provide any consideration for her interest in the family home other than $85,000 conceded by the Respondent. It is the total of three amounts evidenced by receipts and directly paid by Japseet. All other invoices and receipts were directed to Maninder.
+[25] It is accepted that consideration can flow between spouses. The consideration, however, must be given for the transfer of property (see Crischuk v The Queen, 2010 TCC 276 at para 26). In Yates v The Queen, 2009 FCA 50, the Federal Court of Appeal rejected the notion that consideration for section 160 could include family support obligations or use of the matrimonial home. Additionally, contributions to family finances do not constitute consideration for the purposes of section 160. Japseet testified that family members pooled their money to pay bills and make mortgage payments. Such use of funds is not consideration.
+[26] In Konyi v The Queen, 2017 TCC 175, the Court found consideration for a transfer of property based on a verbal agreement between spouses. In that case, there was credible testimony regarding the agreement and identifiable payments were made before the transfer took place. There is no such evidence here.
+[27] Japseet was not a credible or reliable witness. She testified that she had significant funds from the sale of 57A Avenue and that she paid them to Maninder for the construction of the Gill family home. In all other material aspects, her testimony was vague and incomplete. Her recollection of relevant events was poor and at times she was evasive. Maninder’s testimony was similarly problematic. Their testimonies were also inconsistent (e.g., in relation to how family finances were managed).
+[28] Neither Japseet nor Maninder testified with any specificity regarding any agreement between them, or Japseet’s payments to Maninder for the Gill family home. Japseet could not remember how much money she gave Maninder for the family home, whether she gave him a lump sum or instalments, or when she did so. Both Japseet and Maninder said they could not remember specifics of the relevant events because of how long ago they occurred.
+[29] Japseet did not adduce any documentary evidence in support of her case. There were no agreements or receipts that support her ownership of the Gill family home or her giving funds to Maninder for the construction of the home other than the $85,000 conceded by the Respondent.
+[30] Japseet’s testimony and the documentary evidence adduced by the Respondent showed that significant funds circulated between Japseet, Maninder, Radio India and third parties. The purposes of these transfers were undocumented and often unclear.
+[31] For example, a law firm transferred $400,000 to Japseet on August 29, 2006. She said that it was a short-term loan from a friend to her and Maninder, and that due to the large amount involved it was paid through a law firm so as to provide a record. Yet there was no loan agreement and the friend was not identified. Maninder could not recall who had lent the money.
+[32] Japseet advanced significant funds in respect of Radio India. In particular, Japseet transferred $375,000 to Radio India on January 30, 2007 to allow it to meet its license-lease obligations. Japseet did not keep track of these advanced funds or their repayment by Maninder.
+[33] Consequently, it is not possible to identify any specific amounts, other than those conceded by the Respondent, paid by Japseet as consideration for the Gill family home.
+[34] The Court heard several times that all documents had been provided to either the CRA or the Appellants’ lawyers, and that the documents had been lost. There was no evidence, other than the testimony of Japseet and Maninder, to support the contention that the CRA or their lawyers had somehow mishandled the Appellants’ documents.
+[35] To the extent that the passage of time caused genuine issues with respect to recollection and documents, Japseet is the author of her own misfortune. She dragged her heels on these appeals, changing lawyers at least five times and seeking numerous adjournments.
+[36] In the end, the Court is left with the unsupported assertion that the profit from the sale of 57A Avenue was Japseet’s and she used that profit to pay for the construction of the Gill family home. As noted by the Court in Beaudry v The Queen, 2003 TCC 464 at paras 66 and 67, vague and general statements are not enough to meet the burden of proof on an appellant. A transfer of property between spouses can be done for many valid and legitimate reasons, but it can also be done to the detriment of creditors, so it is important for an appellant to submit solid evidence. See also Pacheco v The King, 2024 TCC 14.
+[37] Given the lack of credible testimony and supporting documentary evidence, Japseet has been unable to meet her burden of proof. I find that the only consideration she provided for the transfer to her of an interest in the Gill family home was the $85,000 conceded by the Respondent.
+Harman Singh Gill [38] Harman’s situation is more straight forward. I find him to be a credible witness, but his recollection of the relevant events was limited. He was 19 or 20 years old at the time of the 2010 transfer. He was told to sign the documents for the home transfer to assist the family with mortgage financing. Adding his name to the title would add his income to the relevant mortgage calculations. He did not pay anything for the transfer and, as far as he was concerned, he did not get anything.
+[39] Harman was unaware of any financial issues, tax or otherwise, his father might have had at the time. Harman did not recognize either the section 160 assessment notice or the confirmation notice. He was unaware of the assessment until he attempted to get a loan for supplies at a lumberyard and learned about CRA collection actions. This soured his relationship with his father. At Harman’s behest, Harman’s interest in the home was transferred to Japseet in 2016. He did not receive any consideration for the transfer to Japseet.
+[40] I am prepared to accept that when Harman was transferred a legal interest in the family home, he did not acquire any beneficial interest in it. Is this enough to prevent the application of subsection 160(1)? Unfortunately for Harman, it is not.
+[41] In Livingston v The Queen, 2008 FCA 89, the Federal Court of Appeal held that a transfer of legal title is sufficient to engage subsection 160(1) because the provision applies to a transfer of property “by means of a trust or by any other means whatever”. This interpretation supports the purposes of the subsection described in Livingston at para 22: “… which, after all, is designed, inter alia, to prevent the transferor from hiding his or her assets, including behind the veil of a trust, in order to prevent the CRA from attaching the asset.”
+[42] Does it make a difference that Harman disposed of his interest in the Gill family home in 2016 to Japseet? Not directly. Disposing of his interest in the family home does not relieve Harman of his liability under subsection 160(1). A section 160 assessment is not extinguished by a further transfer of the relevant property (Doucet v The Queen, 2007 TCC 268 at paras 44 and 45). The transfer of his interest in the Gill family home to Japseet does, however, potentially open her to another section 160 assessment: see subparagraph 160(1)(ii) of the Act.
+Reassessment of Maninder [43] The relevant underlying tax liability is Maninder’s income-tax liability, including penalties and interest. By judgment dated March 10, 2015, this Court allowed Maninder’s appeals from the reassessments of the 2004 and 2005 taxation years. The reassessments were referred back to the Minister of National Revenue (“Minister”) for reconsideration and reassessment in accordance with the terms of the parties’ amended consent to judgment. The Minister subsequently reassessed Maninder in April 2015.
+[44] As a consequence, the underlying tax liability used in the November 6, 2012 assessments is not the correct underlying tax liability. The correct underlying tax liability is based on the March 2015 judgment of this Court, comprising Maninder’s tax, penalties and interest accruing until November 6, 2012 (i.e., the date of the section 160 assessments). See 1455257 Ontario Inc. v Canada, 2021 FCA 142 at para 49 and the interpretation of “balance-due day” in the context of section 160 by Justice Spiro in Brown v The King, 2025 TCC 184.
+[45] I do not know whether this is just a theoretical issue. The Court was not provided with calculations recasting Maninder’s tax debt as at November 6, 2012. Therefore, I will allow both appeals to ensure that the Appellants are reassessed using the correct underlying tax liability.
+Conclusion [46] Japseet’s appeal is allowed and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that (i) the fair market value of the consideration provided by Japseet was $85,000, and (ii) the underlying tax liability of Maninder is that decided by the judgment of this Court rendered March 10, 2015, and includes interest accruing to November 6, 2012.
+[47] Harman’s appeal is allowed and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the underlying tax liability of Maninder is that decided by the judgment of this Court rendered March 10, 2015, and includes interest accruing to November 6, 2012.
+[48] Costs are awarded to the Respondent for both appeals. Costs are also awarded to the Respondent for Japseet’s motion for an adjournment of the hearing of her appeal, which I dealt with as a preliminary matter. Each party shall bear their own costs for the Respondent’s motion for the dismissal of Japseet’s appeal for delay, which I also dealt with as a preliminary matter.
+[49] The parties have 30 days from the date of this judgment to agree on costs. If they do not, the Respondent will have a further 30 days to file a submission on costs. Each Appellant will then have 10 days to file a submission in response. A submission may not exceed 10 pages. If the parties do not agree on costs and the Respondent does not make a submission, the Respondent is awarded one set of costs in accordance with the Tariff.
+Signed on this 30th day of January 2026.
+“Ted Cook”
+Cook J.
+CITATION:
+2026 TCC 18
+COURT FILE NO.:
+2015-5444(IT)G
+STYLE OF CAUSE:
+JAPSEET KAUR GILL AND HIS MAJESTY THE KING
+COURT FILE NO.:
+2015-5442(IT)G
+STYLE OF CAUSE:
+HARMAN SINGH GILL AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Vancouver, B.C.
+DATE OF JUDGMENT:
+January 30, 2026
+APPEARANCES:
+For the Appellant Japseet Kaur Gill:
+The Appellant herself
+For the Appellant Harman Singh Gill:
+The Appellant himself
+For the Respondent:
+Pavanjit Mahil Pandher
+COUNSEL OF RECORD:
+For the Appellants:
+For the Respondent:
+None
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

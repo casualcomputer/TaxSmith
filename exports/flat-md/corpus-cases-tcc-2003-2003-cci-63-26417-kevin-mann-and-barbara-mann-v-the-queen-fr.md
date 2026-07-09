@@ -1,0 +1,196 @@
+---
+title: "Kevin Mann and Barbara Mann v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26417/index.do"
+last_modified: "2003-02-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 63"
+citation2: ""
+neutral_citation: "2003 CCI 63"
+decision_date: "2003-02-20"
+language: "fr"
+item_id: "26417"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3168
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:33:08.310000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "be85a8ad7b81f75d42cc0ba9f3b29d7b5e7dfee3570438e1e6093da806c420db"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kevin Mann and Barbara Mann v. The Queen
+
+- Citation: 2003 CCI 63
+- Decision date: 2003-02-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3168, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kevin Mann and Barbara Mann v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-02-20
+Référence neutre
+2003 CCI 63
+Numéro de dossier
+2001-2869(GST)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2001-2869(GST)I
+ENTRE :
+KEVIN MANN ET BARBARA MANN,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appel entendu avec les appels de Kevin Mann (2002-3441(IT)I) et de Barbara Mann (2002-3443(IT)I) le 13 février 2003, à Toronto (Ontario)
+Devant : l'honorable juge en chef adjoint D. G. H. Bowman
+Comparutions :
+Pour les appelants :
+Kevin Mann
+Avocat de l'intimée :
+Me James Rhodes
+_______________________________________________________________
+JUGEMENT
+Il est ordonné que l'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 3 octobre 2000 et porte le numéro 08DP0000081, soit admis et que la cotisation soit déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations, conformément à la transcription des motifs du jugement rendus oralement ci-jointe.
+Signé à Ottawa, Canada, ce 20e jour de février 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 15e jour de décembre 2004.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-3441(IT)I
+ENTRE :
+KEVIN MANN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appels entendus avec les appels de Barbara Mann (2002-3443(IT)I) et de Kevin Mann et de Barbara Mann (2001-2869(GST)I) le 13 février 2003, à Toronto (Ontario)
+Devant : l'honorable juge en chef adjoint D. G. H. Bowman
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me James Rhodes
+_______________________________________________________________
+JUGEMENT
+Il est ordonné que les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1996, 1997, 1998, et 1999 soient admis et que les cotisations soient déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, conformément à la transcription des motifs du jugement rendus oralement ci-jointe.
+Signé à Ottawa, Canada, ce 20e jour de février 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 15e jour de décembre 2004.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-3443(IT)I
+ENTRE :
+BARBARA MANN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appels entendus avec les appels de Kevin Mann (2002-3441(IT)I) et de Kevin Mann et de Barbara Mann (2001-2869(GST)I) le 13 février 2003, à Toronto (Ontario)
+Devant : l'honorable juge en chef adjoint D. G. H. Bowman
+Comparutions :
+Représentant de l'appelante :
+Kevin Mann
+Avocat de l'intimée :
+Me James Rhodes
+_______________________________________________________________
+JUGEMENT
+Il est ordonné que les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997, 1998, et 1999 soient admis et que les cotisations soient déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, conformément à la transcription des motifs du jugement rendus oralement ci-jointe.
+Signé à Ottawa, Canada, ce 20e jour de février 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 15e jour de décembre 2004.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI63
+Date: 20030220
+Dossier: 2001-2869(GST)I
+ENTRE :
+KEVIN MANN ET BARBARA MANN,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+Dossier: 2002-3441(IT)I
+ENTRE :
+KEVIN MANN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+Dossier: 2002-3443(IT)I
+ENTRE :
+BARBARA MANN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à Toronto (Ontario), le 13 février 2003)
+Le juge en chef adjoint Bowman
+[1] Ces appels ont été entendus conjointement et concernent les années d'imposition 1996, 1997, 1998 et 1999 de Kevin Mann et les années d'imposition 1997, 1998 et 1999 de son épouse, Barbara Mann. Les appels en vertu de la Loi de l'impôt sur le revenu ont été entendus en même temps que l'appel en vertu de la Loi sur la taxe d'accise relativement à la taxe sur les produits et services pour la période allant du 6 septembre 1996 au 31 décembre 1998.
+[2] Je traiterai d'abord des appels en matière d'impôt sur le revenu de M. et Mme Mann. Ils ont exploité, au moyen d'une société de personnes, une entreprise portant le nom de A Mann's Holiday. L'entreprise offrait des services de location d'une autocaravane qu'ils avaient acquise en 1996 afin de remplacer celle qu'ils possédaient auparavant.
+[3] La cotisation de TPS se fondait sur l'hypothèse qu'il s'agissait d'une « entreprise » qui était exploitée sans expectative raisonnable de profit.
+[4] Cette hypothèse est bien évidemment incompatible avec le principe qui a été énoncé à diverses occasions, avant que la décision de la Cour suprême du Canada dans l'affaire Stewart c. Canada, [2002] A.C.S. no 46 ne soit rendue, selon lequel s'il n'existe pas d'expectative raisonnable de profit, il ne peut exister d'entreprise. Cela a tout l'air d'être un oxymore législatif, mais je me dois d'appliquer la loi comme je la lis.
+[5] Quoi qu'il en soit, relativement aux appels en matière d'impôt sur le revenu et à l'appel portant sur la TPS, je conclus que les appelants avaient une expectative raisonnable de profit. Ils ont acheté une autocaravane avec l'intention d'en tirer un profit. On leur avait fait croire qu'ils pourraient faire de l'argent en la louant.
+[6] En effet, à l'exception de deux semaines en 1998, l'autocaravane a entièrement été utilisée pour cette activité commerciale. L'entreprise n'a cependant pas réussi autant qu'ils l'espéraient. Durant deux des quatre années, ils ont subi une perte nette avant même de demander une déduction pour amortissement, et durant deux des quatre années, ils ont réalisé un bénéfice avant la déduction pour amortissement. Ils avaient cru comprendre qu'ils étaient en droit de demander une déduction pour amortissement, et c'est ce qu'ils ont fait. Cela a entraîné des pertes relativement importantes qu'ils ont tenté d'appliquer à d'autres revenus.
+[7] J'examinerai les règles relatives à la location dans un instant. Je vais d'abord traiter de certains points spécifiques aux appels en matière d'impôt sur le revenu, en commençant par le cas de Kevin Mann.
+[8] Pour 1996, le ministre a refusé des frais d'intérêts de 776,94 $. Il aurait plutôt dû refuser 240 $. Il a refusé la somme de 97,96 $ des dépenses demandées par les appelants relativement à la TPS au motif qu'ils avaient demandé des crédits de taxe sur les intrants mais qu'ils n'avaient pas inclus ces crédits dans leur revenu. Cela pose un certain problème puisque, à mon avis, les cotisations sont incompatibles, en ce sens que le ministre n'a pas admis les crédits de taxe sur les intrants demandés par les appelants sur ce montant. Ce montant n'aurait donc pas dû être refusé dans le calcul du revenu.
+[9] Toutefois, comme je propose d'accueillir l'appel en matière de TPS en tenant compte du fait que les appelants ont droit à des crédits de taxe sur les intrants au montant d'un peu plus de 5 000 $, je crois que ce refus devrait être maintenu.
+[10] Le point suivant concerne les dépenses de 707,78 $ jugées de nature personnelle. La preuve non contredite de Mme Mann est qu'ils n'ont pas du tout utilisé l'autocaravane à des fins personnelles en 1996. Par conséquent, ce montant n'aurait pas dû être refusé. Je traiterai de la déduction pour amortissement dans un instant.
+[11] Pour 1997, le ministre a refusé des dépenses de 49,69 $. Ce refus concernait la TPS qui avait été payée et les CTI qui avaient été demandés relativement à cette somme, lesquels n'avaient pas été inclus dans le revenu. Pour les mêmes motifs qui ont été donnés pour l'appel pour l'année 1996, ce refus doit être maintenu, puisque je vais accueillir l'appel en matière de TPS.
+[12] La déduction de certaines autres dépenses a été admise à titre de frais d'intérêt, de réparation et d'entretien. Je ne ferai aucun commentaire à ce sujet puisque cette partie de la cotisation était favorable au contribuable.
+[13] Pour 1998, des frais de TPS au montant de 53,01 $ ont été refusés. Pour les mêmes motifs que j'ai donnés relativement aux années 1996 et 1997, ce refus doit être maintenu.
+[14] Le point suivant concerne les dépenses de 3 194 $ déduites par la société et qui ont été refusées au motif qu'il s'agissait de dépenses personnelles de M. et Mme Mann. Le calcul est le suivant. L'appelant et son épouse ont utilisé l'autocaravane durant deux semaines au cours de la période de Noël. Le ministre a calculé la proportion d'utilisation personnelle par rapport à l'utilisation commerciale en prenant le nombre de 10 429 kilomètres du kilométrage total (26 789), ce qui a donné un pourcentage de 38,93 % pour l'utilisation personnelle; il a ensuite appliqué ce pourcentage au total des dépenses et a ainsi obtenu la somme de 3 194, 78 $, qu'il considérait liée à des dépenses personnelles. Je suis d'avis que ce chiffre est trop élevé.
+[15] Mme Mann a témoigné qu'ils s'étaient rendus en Floride avec l'autocaravane, c'est-à-dire qu'ils ont parcouru une distance de 1 200 miles à l'aller et retour. Cela correspond à environ 4 000 kilomètres, par opposition au chiffre de 10 429. Je crois que le pourcentage correct qui doit être appliqué est de 4 000 sur 26 789, ce qui donne 14,93 %, disons 15 %. Ce pourcentage doit être attribué à l'utilisation personnelle, et il s'agit donc du facteur d'utilisation personnelle.
+[16] J'affirme que le pourcentage d'utilisation personnelle de l'autocaravane devrait être de 15 % plutôt que de 38,93 %. Je pourrais faire le calcul, mais je ne prendrai pas le temps de le faire maintenant.
+[17] Nous en arrivons à l'année 1999. Le seul montant refusé concernait la déduction pour amortissement.
+[18] J'estime que l'autocaravane était un bien donné en location à bail au sens du paragraphe 1100(15) du Règlement de l'impôt sur le revenu. Cela signifie que le montant de la déduction pour amortissement qui peut être demandé se limite au montant du revenu établi avant la déduction pour amortissement.
+[19] Je suis désolé que les appelants aient cru à tort qu'ils étaient en droit de demander une déduction pour amortissement sur le montant total et de créer ainsi une dette qui pourrait être appliquée à d'autres revenus. Cela ne fonctionne tout simplement pas comme ça.
+[20] J'aurais aimé trouver une manière de leur accorder la déduction pour amortissement qu'ils demandent, mais il ressort clairement, à mon avis, que l'autocaravane était un bien donné en location à bail au sens du paragraphe 1100(17), que ni l'un ni l'autre des appelants ne s'occupait personnellement de l'entreprise de location de façon continue tout au long de l'année, et que, par conséquent, les restrictions du paragraphe 1100(15) s'appliquent.
+[21] Il n'y a qu'une chose qui pourrait selon moi représenter un certain redressement pour les appelants : au cours de l'année 2002, ils se sont départis de l'autocaravane. La compagnie John Deere Finance Company en a repris possession.
+[22] Il est possible - et je dis bien « possible » - que cela aurait pu permettre de créer une perte finale en vertu des paragraphes 20(16) et 20(16.3) de la Loi de l'impôt sur le revenu. Il est possible qu'ils aient droit à une perte finale sur cette somme, laquelle pourrait être reportée ou appliquée rétrospectivement - d'abord sur leur revenu de cette année-là, puis sur les trois années antérieures. Cela pourrait représenter une certaine mesure de redressement; je crois que le ministre devrait se pencher sur cette question.
+[23] Les appels de Kevin Mann sont donc admis, conformément à ce qui précède. Les appels de Barbara Mann en vertu de la Loi de l'impôt sur le revenu sont admis sur le même fondement, relativement à sa part proportionnelle dans la société.
+[24] Ainsi, pour ce qui est de l'appel portant sur la TPS, les crédits de taxe sur les intrants n'ont été refusés qu'au motif que les appelants exploitaient une entreprise sans expectative raisonnable de profit. J'ai conclu qu'ils exploitaient une entreprise ayant une expectative raisonnable de profit et que, par conséquent, il s'agissait d'une activité commerciale et qu'ils avaient droit à des crédits de taxe sur les intrants. L'appel est donc accueilli sur ce fondement.
+[25] Il ne sera pas adjugé de dépens.
+Signé à Ottawa, Canada, ce 20e jour de février 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 15e jour de décembre 2004.
+Sophie Debbané, réviseure

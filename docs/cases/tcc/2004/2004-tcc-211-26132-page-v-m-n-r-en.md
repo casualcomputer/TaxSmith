@@ -1,0 +1,310 @@
+---
+title: "Page v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26132/index.do"
+last_modified: "2004-03-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 211"
+citation2: ""
+neutral_citation: "2004 TCC 211"
+decision_date: "2004-03-12"
+language: "en"
+item_id: "26132"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4127
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:42:21.108000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ca3af6ba5ffc6186061d93c51212284e659a21fdcbfcbbbafb2006d3ebb53c58"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Page v. M.N.R.
+
+- Citation: 2004 TCC 211
+- Decision date: 2004-03-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4127, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Page v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-12
+Neutral citation
+2004 TCC 211
+File numbers
+2003-1908(EI)
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2003-1908(EI)
+2003-1909(CPP)
+BETWEEN:
+HELEN PAGE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+Kevin Campbell, Wende Campbell and Helen Page, Partners,
+o/a Campbell, Campbell & Page,
+Intervener.
+____________________________________________________________________
+Appeals heard on February 19 and 27, 2004 at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Ian A. Johncox
+Counsel for the Respondent:
+Nimanthika Kaneira
+Agent for the Intervener:
+Kevin Campbell
+____________________________________________________________________
+JUDGMENT
+The appeals are allowed and the decisions that during the period in question the appellant was not engaged in pensionable employment for the purposes of the Canada Pension Plan and the Employment Insurance Act are varied to read that during the period from April 29, 2001 to April 30, 2002, the appellant, Helen Page, was engaged in pensionable employment under a contract of service with the firm Campbell, Campbell & Page and she was not a partner in that firm.
+Signed at Toronto, Ontario this 12th day of March 2004.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+Citation: 2004TCC211
+Date: 20040312
+Dockets: 2003-1908(EI)
+2003-1909(CPP)
+BETWEEN:
+HELEN PAGE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+Kevin Campbell, Wende Campbell and Helen Page, Partners,
+o/a Campbell, Campbell & Page,
+Intervener.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] These appeals are from decisions made by the Minister of National Revenue that the appellant was not engaged in insurable employment for the period from April 29, 2001 to April 30, 2002, for the purposes of the Employment Insurance Act and the Canada Pension Plan. The appellant's position is that during the period in question she was an employee of a bookkeeping firm that operated as Campbell, Campbell & Page which, notwithstanding the fact that her name appeared in the name of the firm, was owned 50/50 by each of the spouses of Kevin Campbell and Wende Campbell.
+[2] The Notices of Appeal are detailed documents and since I propose to find as a fact that each of the allegations except one has been established, it is convenient to reproduce the facts alleged by the appellant. The allegations are the same in both the Employment Insurance appeal and the Canada Pension Plan appeal.
+(c) Facts
+(i) The appellant was employed by Kevin Campbell, operating as Campbell, Campbell & Page, during the period in question.
+(ii) Campbell, Campbell & Page, as it was then known, was in the business of providing bookkeeping, accounting, and income tax preparation services for its clients.
+(iii) The business known as "Campbell, Campbell & Page" was never a registered partnership pursuant to the Partnerships Act, R.S.O. 1990, c.P.5 or a registered business name pursuant to the Business Names Act, R.S.O. 1990, c.B.17.
+(iv) The appellant had never entered into a partnership agreement with Campbell and was merely an employee of Kevin Campbell and his wife, Wende Campbell (now deceased).
+(v) The appellant was employed by Kevin Campbell (hereinafter referred to as "Campbell") to perform such duties as required on a full-time basis at an office established by Campbell in his home and was remunerated at an hourly rate of pay on a weekly basis.
+(vi) The appellant reported directly to Campbell who approved all decisions relating to the performance of the appellant's duties.
+(vii) Campbell provided the guarantee to clients with respect to the work performed by the appellant.
+(viii) The appellant was required to provide time sheets to Campbell setting out the hours worked which formed the basis of her remuneration.
+(ix) The appellant was not required to provide any office equipment or supplies necessary to complete her work, however, had similar resources set up at her own home and was able to work from home outside of normal office hours or under other circumstances, if the need arose.
+(x) All office supplies and materials including gas, parking, travel, and related expenses were provided by Campbell or, if paid for by the appellant, were reimbursed to the appellant by Campbell.
+(xi) The appellant did not share in the profits made by Campbell other than as part of her remuneration which was contingent on or varying with the profits of the business.
+(xii) Similarly, the appellant had no chance of profit nor did she bear any risk of losses incurred by Campbell.
+(xiii) The appellant did not have signing authority on any bank or other accounts held by Campbell nor had any authority to bind the Firm relating to the execution of any deeds, contracts, or negotiable instruments.
+(xiv) Campbell determined the appellant's hours of work, however, was flexible and accommodating to the appellant.
+(xv) Campbell determined the rate upon which the appellant would be remunerated.
+(xvi) Any training required was provided to the appellant by Campbell.
+(xvii) All costs relating to bad debts was provided by Campbell.
+(xviii) The appellant was employed as part of the business run by Campbell and her work was an integral part of the business. After her dismissal, she was replaced by an individual who has apparently taken over the duties previously performed by the appellant.
+[3] The only statement that it is admitted was wrong is contained in subparagraph (xiii) where it is said that she did not have signing authority on bank accounts held by Campbell. In fact she did have authority to sign payroll cheques.
+[4] The Minister's decisions were based upon the assumption that the appellant was a partner with Kevin Campbell and Wende Campbell. The assumptions pleaded are the following:
+9. In making his decision, the Respondent relied on the following assumptions of fact:
+(a) The Payor is a business which provides bookkeeping, accounting and tax services to its clients (the "clients");
+(b) At all material time, the Payor effectively operated as a partnership (the "partnership");
+(c) The partnership commenced in April, 1998;
+(d) The Appellant was one of the partners in the partnership;
+(e) The Appellant performed various duties for the Payor's clients (the "clients") which included bookkeeping, accounting, tax services, consultation on labour matters and other related duties;
+(f) The Appellant performed her duties either on the Payor's premises, at the client's premises and at her home;
+(g) The Appellant's remuneration was $34.00 per hour, plus 1% of the billings to clients and 1.5% of the Accounts Receivable collections;
+(h) The Appellant did not receive vacation pay or paid vacations from the Payor;
+(i) The Payor did not provide any benefit plans to the Appellant;
+(j) The Appellant had signing authority on the Payor's bank account;
+(k) The Appellant participated in management decisions for the Payor;
+(l) For the years 2000 and 2001, the Appellant reported self-employed income on her income tax returns;
+(m) At all material time, the Appellant provided services to others besides the Payor's clients;
+(n) For the years 2000 and 2001, the Appellant did not report any employment income on her income tax returns;
+(o) For the years 2000 and 2001, the Payor considered the Appellant self-employed and the Payor did not deduct any Employment Insurance premiums from the Appellant's remuneration, nor did the Payor issue the Appellant a T4.
+[5] Kevin Campbell intervened in the appeal in the name of Kevin Campbell, Campbell, Campbell & Page in support of the Minister's decision. I shall not reproduce his lengthy notice of intervention. His position is that in April 1998 the appellant became a partner in the bookkeeping and accounting firm Campbell, Campbell & Page and that from 1998 to April 30, 2002, she was a partner in the firm.
+[6] The issue is whether Ms. Page was an employee, a partner or an independent contractor. The appellant says she was an employee of the partnership of Mr. and Mrs. Campbell. The respondent based its determination on the premise that she was a partner in the firm Campbell, Campbell & Page, but contends in the alternative that she was an independent contractor and the intervener says that she was a partner.
+[7] The evidence is in some instances contradictory and inconsistent. Issues of credibility abound. Some facts appear arguably to point in the direction of partnership, some in the direction of independent contractor and some in the direction of an employment relationship. No single factor predominates. It is a matter simply of sifting through the mass of contradictory evidence, extracting those portions that seem on a balance of probabilities to be most worthy of acceptance, assembling them and deciding which of the three relationships contended for is most consistent with the evidence as a whole, bearing in mind that the traditional tests are not exhaustive and the relative weight to be given to the various factors will depend on the particular circumstances of the case.
+[8] Ms. Page's association with Mr. and Mrs. Campbell began in November of 1989 when she moved from Toronto to Oshawa. She began work in the Oshawa office of Chaplin & Burd, Chartered Accountants. That office was managed by Mr. and Mrs. Campbell. Mr. Campbell was not a chartered accountant and was not a partner. He was described as a principal.
+[9] Ms. Page worked for Chaplin & Burd and reported to Kevin Campbell or Mark Burd. She was paid on an hourly basis. Canada Pension Plan and Employment Insurance premiums and income tax were deducted at source.
+[10] In 1994, the appellant asked for a raise. Mr. Campbell said he would give her a raise but only if she agreed to work as an "independent contractor" which as a practical matter meant no payroll deductions for income tax, Employment Insurance and Canada Pension Plan contributions. She said that she did not understand the distinction between an employee and an independent contractor. I believe her. She is not alone in this.
+[11] Apart from that there was no change in the relationship. She was paid parking expenses as before and was paid on an hourly basis at a higher rate.
+[12] In 1998 Chaplin & Burd wished to close the Oshawa office and so the relationship of the Campbells with that firm came to an end. They had negotiations with another firm, Laing, McHardy & Rohr who agreed to engage Kevin and Wende Campbell. The appellant and the receptionist, Ms. Dianne Doucette, from the old firm, joined Laing, McHardy & Rohr. The relationship was short lived and the Campbells, the appellant and the receptionist parted company with Laing, McHardy & Rohr. Litigation ensued.
+[13] The Campbells set up a new firm, under the name of Campbell, Campbell & Page and Helen Page was hired as an accounting technician. The relationship between the Campbells and the appellant continued until 2002. It is that relationship that is the subject of these appeals.
+[14] I shall deal first with the argument that she was a partner. Notwithstanding certain factors that superficially might point in that direction, she was certainly not a partner with the Campbells.
+[15] We have, of course, the fact that her name appeared in the firm name Campbell, Campbell & Page. She is referred to in a brochure of Campbell, Champbell & Page as a "partner". She signed a Business Banking agreement with the Toronto-Dominion Bank in which she and the Campbells disclosed that they are carrying on business as a partnership. They opened a Toronto-Dominion Bank Merchant Visa Agreement in which she and the Campbells described themselves as partners.
+[16] This sort of holding herself out to the public as a partner would make it difficult for her to deny that she was a partner to a member of the public or to the bank who relied upon her representation to their detriment. The fact that she is estopped as against certain persons and in certain circumstances does not prevent her from denying that she is a partner as against the Minister of National Revenue by whom estoppel is not alleged and in any event there are no facts that would warrant the invocation of the doctrine. The objective existence of a partnership does not depend upon, and cannot be established by, the application of a rule of evidence or law that would prevent her stating the true facts as against persons who are not able to invoke the doctrine of estoppel.
+[17] Apart from the fact that the Campbells held Ms. Page out to the public as a partner, there is no evidence that would support the view that the appellant was a partner. Indeed the evidence is to the contrary.
+[18] In an affidavit signed on March 1, 1999, Kevin Campbell, the intervener, who was called as a witness by the respondent, said:
+Helen S. Page is not a partner of the defendants. Her name appears on the letterhead and business cards for the sole purpose of promoting her association with us.
+Helen S. Page is a self-employed accounting technician that provides services to the defendants and other clients on her own.
+Helen S. Page is paid weekly upon presentation of a time sheet at the rate of $30 per billable hour and $28 per administrative hour.
+Helen S. Page is in no way involved in the billing or collection policies of the defendants and never has been.
+This affidavit was filed in an action in which Laing, McHardy & Rohr were plaintiffs and Kevin Campbell and Wende Campbell were defendants.
+[19] Helen Page filed an affidavit in the same action:
+4. I am not a partner of the defendants. My name appears on the letterhead and business cards for the sole purpose of promoting my continued association with the defendants so as to give comfort to client's, some of whom have been associated with myself for 11 years and the defendants for 16 years.
+5. I continue to be a self employed accounting technician to the
+defendants and continue to be paid strictly based on hours worked. I have no say in the billing, collection or delivery policies of the defendants. Attached as Schedule "B" to this my affidavit are a copy of my time sheet summary and billing and collection history since I started providing services to the
+defendants on April 20, 1998
+In both affidavits she was described as a "self-employed accounting technician". What people call their relationship is not determinative and the inadvisability of placing much weight on the nomenclature used by the parties is demonstrated by Mr. Johncox' cross-examination of Mr. Campbell on his affidavit.
+Q. Mr. Campbell, you just said that this affidavit relates to - you're saying Helen Page is not a partner of Campbell & Campbell with respect to the Campbell & Campbell and Laing, McHardy & Rohr dispute, right?
+A. That's correct.
+Q. But the second sentence in paragraph 1 says, "Her name appears on the letterhead."
+A. Yeah.
+Q. Which indicates that we're talking about 1999 when -
+A. That's correct.
+Q. Campbell, Campbell & Page is the partnership that you're
+touting, and you're saying that she's not a partner. You're not saying she wasn't a partner prior to 1998. You're saying she's not a partner.
+A. That's correct.
+Q. So in this affidavit, you're swearing under oath that she was an independent contractor?
+A. Mm-hm. Correct.
+Q. And were you telling the truth?
+A. I'm telling the truth as I believed it at that point time.
+Q. You believed she was an independent contractor of Campbell, Campbell & Page at that time?
+A. I believed she had no relationship to the lawsuit entwined with Laing, McHardy & Rohr.
+Q. That's not what it says.
+A. Well, then - I signed it. Then I must have believed it.
+Q. And you're saying that that is not inconsistent with the position - with the evidence you've given today?
+A. I'm saying that I signed the affidavit.
+Q. You swore it was true?
+A. This was prepared by your office, was it not?
+Q. Yes, it was. You swore it was true?
+A. Yes, I did.
+Q. Do you swear it is true now?
+A. I'm not swearing it now. I swore it then.
+Q. I'm asking you is it true now?
+A. I don't believe it to be true now, no.
+Q. What parts of it do you not believe to be true?
+A. I would say just paragraph number 1 and 2 I would not swear to today.
+Q. When did you change your mind?
+A. Right now.
+MR. JOHNCOX: Thank you, Your Honour.
+For reasons that should be obvious from the above passage, this witness' evidence is not reliable. In every instance where his evidence differs from that of Ms. Page I prefer that of Ms. Page.
+[20] There is other evidence that is inconsistent with the appellant's being a partner with the Campbells.
+(a) In the general ledger of the partnership, Helen Page is shown as an independent contractor. Her remuneration was deducted in computing the partnership's income or loss, which was divided between Mr. and Mrs. Campbell on a 50:50 basis.
+(b) There was no written partnership agreement and no partnership registration.
+(c) In the income tax returns of Mr. and Mrs. Campbell their business name is shown as Campbell & Campbell and the percentage ownership of each of Mr. and Mrs. Campbell is shown as 50 percent. Mr. Campbell said that it really was a three way split between himself, his wife and Ms. Page. I do not accept this ex post facto rationalization for a moment. Patently, Mr. Campbell never treated Ms. Page as a partner. Her remuneration was deducted in the computation of the income of the partnership Campbell & Campbell, which was split 50:50 between the two parties. I shall come presently to the question whether it was from a contract of service or a contract for services.
+(d) Ms. Page never had access to the financial records or financial statements of the partnership.
+(e) Ms. Page never shared in the profits or losses of the business as a partner.
+[21] This situation prevailed in 1998, 1999 and 2000. In 2001 Ms. Campbell died and the income was apportioned between Mr. Campbell and his wife, 69:31.
+[22] In his return for 2002, Mr. Campbell called the business name Campbell & Associates and attributed 100 percent of the profits to himself. Ms. Page was not consulted or advised of this change. One might have thought that if there were a partnership and it were dissolved, or its name changed or 100 percent of the partnership profits were reallocated to one partner, that partner might at least have mentioned it to the other partner.
+[23] Mr. Campbell stated that on May 6, 2002, the relationship ended when Ms. Page quit and she tore up his offer of employment of February 7, 2002 and threw it on his desk. I do not think that that is how it happened at all. On January 17, 2002, Ms. Page wrote to Mr. Campbell proposing a salary of $60,000 per annum and a number of other terms. He wrote back on February 7, 2002 and proposed a different arrangement. She was upset at his summary firing of the bookkeeper and took some files with her. She returned a few days later but refused to leave until she was paid. I find as a fact that it was Kevin Campbell who terminated the relationship by firing the appellant. One does not fire a partner.
+[24] The foregoing is sufficient to demonstrate that the assumption of partnership has been demolished. Whatever may have been the relationship between Ms. Page and the Campbells, it certainly was not one of partnership. Counsel for the respondent relied upon Exhibit R-6, a letter of May 9, 2001, as establishing a partnership. I shall set out the provisions of that letter below, but for the present it is sufficient to say that I see nothing in it that supports a partnership.
+[25] The letter is of some importance in delineating the relationship between the parties in the period from April 2001 to April 2002, the period in question. It appears from the evidence that the parties acted substantially in accordance with the letter. It is therefore of some assistance in deciding the remaining question whether Ms. Page was an employee or an independent contractor.
+[26] Before dealing with the letter, however, I should preface my comments with a couple of observations. We are all familiar with the four-in-one test expressed by MacGuigan, J. in Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553 - ownership of tools, control, chance of profit and risk of loss.
+[27] There is also the "organization" or "integration test". In the multitude of cases that have come before this Court and the Federal Court of Appeal, to the extent that the integration test is comprehensible at all, I have yet to see it applied as a decision or even a helpful factor. One must also be careful about mechanically applying the other factors. A skilled senior employee, particularly a professional, may well be subject to no control by the employer, supply his or her own tools and may well be paid an incentive that will determine how much money he or she makes. The existence of these factors will not prevent the person from being an employee if the overall picture that emerges is that of employment.
+[28] The authorities were discussed by Bonner, J. in 1280659 Ontario Inc. v. M.N.R., 2004 T.C.C. 138. He applied the tests to the case before him and it is interesting to note the weight he gave to the factors is useful to quote from his reasons for judgment. Although the facts obviously differ from this case the approach commends itself. In paragraphs 17 to 23 he said:
+The leading case on the distinction between a contract for services and a contract of service (employment) is 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59. There, Major, J. delivering the judgment of the Court reviewed the control test, the four-factor test[1] and the integration test. He held that the key is set out in Market Investigations Ltd. v. Minister of Social Security, [1968] 3 All. E.R. 732, namely, whose business is it? At paragraphs 47 and 48, Major, J. stated:
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+Applying the tests, it seems clear that Klein was an employee of the Appellant. He was hired by the Appellant to work for it at an hourly rate of pay at such times and in such stores as Bohbot might direct. The right to control the manner in which the work was to be done was clearly present.
+The ownership of tools test does not loom large in this case. The tools required by Klein to do the work were few and basic and, I gather, not of great value. The arrangement with the Appellant required Klein to pay a small amount when the tools were supplied to him. That amount was ultimately treated as if it was a security deposit. The money was in fact refunded when Klein was fired. The arrangement bears only a faint resemblance to the case where a task is carried out under a contract for services which, typically, requires the contractor to do all that is necessary to carry out the work using his own forces, tools, ingenuity and managerial skills. Klein apparently used his car in the course of his work but he was paid an allowance to cover that expense. Klein acquired and used a pager for purposes of his work. Although that circumstance might appear to support the Appellant, that support is more than offset when it is remembered that the pager was required by Bohbot to enable him to exercise control over Klein in the performance of his work.
+Klein was not subject to financial risk arising from his relationship with the Appellant. He was in the same position in relation to such risk as any hourly-rated worker. It simply was not open to him to employ managerial skills with a view to maximizing revenue and reducing costs.
+Equally, it was not open to Klein to employ a substitute or assistant.
+In Alexander v. M.N.R., 70 DTC 6006, Jackett, P. stated at page 6011:
+...On the one hand, a contract of service is a contract under which one party, the servant or employee, agrees, for either a period of time or indefinitely, and either full time or part time, to work for the other party, the master or the employer. On the other hand, a contract for services is a contract under which the one party agrees that certain specified work will be done for the other. A contract of service does not normally envisage the accomplishment of a specified amount of work but does normally contemplate the servant putting his personal services at the disposal of the master during some period of time. A contract for services does normally envisage the accomplishment of a specified job or task and normally does not require that the contractor do anything personally.
+Klein's activities in relation to Agents Are Us do not involve carrying out any specified task or group of tasks as an independent contractor would. Rather, he agreed to put his personal services at the disposal of the Appellant on a pay per hour worked basis. It must be emphasized that the description adopted by the parties as to the nature of their contractual relationship is not necessarily determinative.
+[29] The letter of May 9, 2001, from Mr. Campbell to Ms. Page contains the following important passages:
+YOUR CURRENT SITUATION
+Currently you are paid a base rate of $ 28 per hour for non-billable time, a base rate of $ 32 per hour for billable time with a bonus of $ 2 per hour in February, March and April. In addition you are paid a 15% commission on billings that you bring in to the practice, you are paid for your gas and are provided with a cell phone. You have been taking a draw against these earnings at the rate of $ 27 per hour and we have been paying Revenue Canada on your behalf and banking any excess or floating any shortage.
+HISTORICAL HOURS AND REMUNERATION
+In 1999 you booked 1161.9 billable hours and 96.0 in admin for a total of 1257.9 hours. In 2000 you booked 1229.8 billable hours and 75.1 in admin for a total of 1304.9 hours. In 2001 to April 30th you have booked 543.8 billable hours and 27.2 in admin for a total of 571 hours.
+I have gone and calculated your total remuneration for 1999, 2000, and 2001 to date and it works out to $ 99,552 or $ 31.77 per hour on average. This includes pay, bonuses and commissions but does not include cell phones or gas.
+PROPOSED PAY RATE
+Starting on May 1, 2001 and going to April 30, 2002 I am proposing that your base rate remuneration be increased to $ 34 per hour billable or non-billable hour. I am willing to pay the $ 34 per hour for admin time up to a maximum of 100 hours in a year, and after that it will be absorbed by you or burried in a file. In order to assist in management of workload and cash flow a contribution of a half hour or an hour of your time a week will be expected at a management meeting.
+BONUS STRUCTURE
+In recognition of your important role in the day to day operations of the practice, and to encourage you to keep track of your time and to help me in billing my time, I propose a bonus to you of 1% of all billings (net of GST), and a further bonus of 1.5% of collections (net of GST). This bonus will be calculated quarterly and will be paid to you April 30th (to March 31st), July 31st (to June 30th), October 31st (to September 30th), and January 31st (to December 31st).
+ANTICIPATED REMUNERATION
+Based on the year 2000 hours worked and the new proposal before you, your remuneration would compare as follows:
+1305 hours at $ 34 per hour $ 44,370
+1% of billings $ 225,081 @ 1% 2,251
+1.5% of collections $ 199,813 @ 1.5% 2,997
+$ 49,618
+Your actual remuneration for 2000 was $ 42,456 so this represents an increase of 17%. I would also anticipate the availability of an extra 150-200 hours per year as a result of Wende's absence.
+GROWTH BONUS
+With the loss of Wende the firm will have to take on more payroll, be it yours or a third party. I anticipate this cost to be in the $ 15,000 to $ 20,000 range. In order to encourage growth I propose to reward you with a further bonus of 10% of any billings over $ 250,000. This bonus will be paid annually by the 31st of January.
+CASH FLOW
+In order for you to have some constant in your life, I propose a base draw for 6 months of $ 800 per week against anticipated earnings. This will be reconciled monthly, and anything owed to you will be paid on the first payday of the following month. Any overpayment will be deducted from your quarterly bonus. We will review this arrangement at the end of the six months, or earlier if need be.
+LIFE INSURANCE
+You have a most valid concern about what happens to the practice if I get sick or pass away. To alleviate this concern I will be designating $ 100,000 of my life insurance to you as a benificiary.
+CREDIT CARD
+Canada Trust will be issuing you a credit card on the company account. This card is to be used for all of your gas purchases and where applicable for client entertainment. You are also to put billings for high-speed internet access on this card.
+COMPUTERS
+In order to be of productive use to the practice you need to have state of the art computers at your house and need to be able to research etc on the net. Campbell, Campbell and Page will pay for the upgrade of your existing computer to a maximum of $ 1,500 and will put your computer on our maintenance plan with Durham Computer Solutions. The Computer upgrades must be purchased from Ed Hosmar. In addition all computer related supplies are to be purchased by Campbell, Campbell & Page.
+FINANCIAL CONCERNS
+I understand that you have debts with Revenue Canada and with credit card companies that total about $ 13,000. I propose that the firm advances you $ 15,000 to pay all of your tax and credit card arrears. This will be re-repayable at the rate of 6% over 3 years at the rate of $ 455.83 per month. The firm will pay Revenue Canada directly and you will be on your own to take care of your other obligations. These funds will be fully disbursed by May 15, 2001 and the first payment will be due on June 15, 2001. Obviously if you leave the firm the balance will be payable in full.
+PROFESSIONAL AND SOCIAL DEVELOPMENT
+Campbell, Campbell & Page will allocate up to $ 1,000 a year for personal or professional development courses or publications. You will be expected to attend a ½ day Dr. Tax course each spring and will be paid for your attendance. It is now more important than ever that we get Caseware up and running. The firm will allocate up to $ 2,500 of your non-billable time to assist with this conversion and learning curve. On occasion we may be called on to attend certain business related social events. If needed you will attend these at no cost to the firm.
+SALE OF THE BUSINESS
+In case of the sale of Campbell, Campbell & Page, you will be involved in any such discussions and will be entitled to 25% of any sale proceeds.
+[30] As noted above, in my view there was no partnership between the appellant and the Campbells. The remaining question here is whether her engagement was under a contract for services or a contract of service. With which relationship was the evidence, including the letter, more consistent?
+[31] The payment of a base rate for billable and non-billable time, with a bonus plus a commission on billings is in my view more indicative of an employee relationship.
+[32] The discussion of her remuneration under proposed pay rate, bonus structure, anticipated remuneration growth bonus and cash flow are not the sort of thing one would say to an independent contractor carrying on business on his or her own behalf. It is the kind of régime that one would expect of an employee who was to put in a certain number of hours per year and to whom a bonus was to be paid. This is precisely the type of incentive that one would pay to a valued employee. It is not something that one would pay to an independent contractor who was carrying on his or her own business.
+[33] The assignment of life insurance and the provision of a company credit card, as well as payment of courses for professional courses and publications, is something that one would give to a senior employee. It would be unheard of to provide such advantages to an independent contractor who was rendering services to the payor as part of a separate business carried on by the contractor.
+[34] The same observation can be made about the computer upgrade in the appellant's home. The firm provided the tools which she required when she was working at the firm's premises. When she worked at home she did so on her own computers that the firm paid to upgrade.
+[35] The provision that she would be involved in the discussion if the business were sold and would be entitled to 25 percent of the sales proceeds might have supported the view that she was a partner if there were any other indications of partnership, which there are not. Therefore, we are then left with the question whether this somewhat unusual provision affords any assistance in determining whether she is an employee or an independent contractor. I do not think the introduction of this provision causes the scales to move in either direction, subject to one observation: it would be more unusual to offer an independent contractor 25 percent of the proceeds of the sale of the payor's business than it would be to offer it to a valued employee. Therefore, I would regard this provision as somewhere between neutral and an infinitesimal nudging of the scales in the direction of employment.
+[36] I have taken all of the factors and, given then the weight that appeared appropriate in the context of this case. Counsel for the respondent put forward, I believe, every argument possible in support of the Crown's position but notwithstanding the skill and thoroughness of her presentation I think Ms. Page was an employee of the Campbells in the period in question.
+[37] In deciding cases of this type a trial judge must endeavour to steer a course between Scylla and Charybdis. The judge must avoid the slavish and mechanical application of the four elements in the Wiebe Door test without standing back and looking at the overall picture that emerges. On the other hand, the judge must look at the relationship as a whole but nonetheless keep an eye on the elements in the Wiebe Door test. It is a fine balancing act.1
+[38] So far as Wiebe Door is concerned, Campbell set the hours and the hourly rate and told Ms. Page what files she was to work on. That provides the requisite element of control. He did not need to keep looking over her shoulder. He checked her work when it was necessary. Campbell provided the tools - the computers, books, paper and desks. He even paid for the upgrade of her computers at her home. The chance of profit or risk of loss from the accounting business was entirely Campbell's - the appellant had an incentive to work harder and get paid more but this is not the commercial risk of running a business that a proprietor runs. Even applying the much criticized "integration" test, Ms. Page was certainly an integral part of the business, for what that consideration may be worth.
+[39] Therefore, even if one goes through the mechanical and, in my opinion, somewhat unedifying process of applying separately the elements in the Wiebe Door test, one still ends up with the conclusion that Ms. Page was an employee of the Campbells.
+[40] The appeal is allowed and the decisions that during the period in question the appellant was not engaged in pensionable employment for the purposes of the Canada Pension Plan and the Employment Insurance Act are varied to read that during the period from April 29, 2001 to April 30, 2002, the appellant, Helen Page, was engaged in pensionable employment under a contract of service with the firm Campbell, Campbell & Page and she was not a partner in that firm.
+Signed at Toronto, Ontario this 12th day of March 2004.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+1 See also Wolf v. The Queen, 2002 DTC 6853.
+CITATION:
+2004TCC211
+COURT FILES NOS.:
+2003-1908(EI) & 2003-1909(CPP)
+STYLE OF CAUSE:
+Helen Page and
+The Minister of National Revenue and
+Kevin Campbell, Wende Campbell and Helen Page, o/a Campbell, Campbell & Page
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 19 and 27, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Associate Chief Justice
+DATE OF JUDGMENT AND REASONS FOR JUDGMENT:
+March 12, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Ian A. Johncox
+Counsel for the Respondent:
+Nimanthika Kaneira
+Agent for the Intervener:
+Kevin Campbell
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Mason Bennett Johncox
+Firm:
+Whitby Town Square
+3000 Garden Street, Suite 200
+Whitby, Ontario L1R 2G6
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] A complex involving (1) control; (2) ownership of tools; (3) chance of profit; (4) risk of loss, all as set out in Montreal v. Montreal Locomotive Works Ltd., (1947) 1 D.L.R. 161 at 169.

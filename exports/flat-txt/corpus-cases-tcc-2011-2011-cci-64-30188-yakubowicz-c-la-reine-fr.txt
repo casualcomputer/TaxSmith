@@ -1,0 +1,115 @@
+Title: Yakubowicz c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30188/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-64-30188-yakubowicz-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-02-03
+
+# Yakubowicz c. La Reine
+
+- Citation: 2011 CCI 64
+- Decision date: 2011-02-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7734, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yakubowicz c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-02-03
+Référence neutre
+2011 CCI 64
+Numéro de dossier
+2010-1597(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-1597(IT)I
+ENTRE :
+JESSICA YAKUBOWICZ,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 21 janvier 2011, à Toronto (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Représentant de l’appelante :
+M. Adam Scherer
+Avocate de l’intimée :
+Me Rishma Bhimji
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu à l’égard de l’appelante pour l’année d’imposition 2007 est rejeté sans dépens, selon les motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 3e jour de février 2011.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 22e jour de mars 2011.
+Nathalie Gadbois, LL. L., LL. B.
+Référence : 2011 CCI 64
+Date : 20110203
+Dossier : 2010-1597(IT)I
+ENTRE :
+JESSICA YAKUBOWICZ,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Jessica Yakubowicz a fait des études supérieures en commercialisation des arts, au Sotheby’s Institute of Art - New York (l’« institut Sotheby’s »), à New York, en 2006 et en 2007. À ce moment‑là, l’institut Sotheby’s ne possédait pas le pouvoir de décerner des diplômes. Plutôt, conformément à une entente conclue avec l’Université de Manchester, au Royaume‑Uni, les crédits obtenus à l’institut Sotheby’s, ainsi qu’une thèse effectuée subséquemment sous la supervision du Sotheby’s Institute of Art, à Londres, seraient reconnus par l’Université de Manchester et un étudiant pourrait obtenir une maîtrise ès arts en commercialisation des arts décernée par l’Université de Manchester.
+[2] À cette époque, l’institut Sotheby’s était agréée par la National Association of Schools of Art and Design des États‑Unis. De plus, son programme de maîtrise ès arts était agréé par l’Université de Manchester. Bien que l’institut Sotheby’s fût aussi inscrit dans la base de données du département de l’Éducation des É.‑U. des institutions et des programmes postsecondaires agréés, l’institut n’est pas identifiée comme une institution possédant le pouvoir de décerner des diplômes.
+[3] Mme Yakubowicz a payé l’institut Sotheby’s pour suivre ses études à l’institut et, conformément à l’entente conclue entre l’institution et l’Université de Manchester, l’institut Sotheby’s payait un montant établi par étudiant à l’Université de Manchester.
+[4] Mme Yakubowicz a terminé son année scolaire à l’institut Sotheby’s, à New York, transféré ses crédits de cette institution et, après avoir terminé sa thèse de maîtrise ès arts, elle a obtenu une maîtrise en commercialisation des arts de l’Université de Manchester.
+[5] En 2007, Mme Yakubowicz a déduit un crédit d’impôt pour frais de scolarité suivant l’article 118.5 de la Loi de l’impôt sur le revenu (la « Loi ») et un crédit d’impôt pour études et pour manuels, en application de l’article 118.6 de la Loi, pour les frais de scolarité payés à l’institut Sotheby’s et les cours suivis à l’institut de New York. L’Agence du revenu du Canada (l’« ARC ») a refusé ces crédits en partant du principe que l’institut Sotheby’s n’était pas une université.
+[6] Depuis que Jessica Yakubowicz a terminé ses études, le département de l’Éducation de l’État de New York a attribué à l’institut Sotheby’s le pouvoir de décerner des diplômes. Ce pouvoir est entré en vigueur en 2010.
+[7] Le crédit d’impôt pour frais de scolarité prévu à l’alinéa 118.5(1)b) ne peut être demandé que pour les frais de scolarité payés à une université située à l’étranger. Contrairement au crédit d’impôt pour frais de scolarité payés à une université située au Canada prévu à l’alinéa 118.5(1)a), ce crédit ne peut être demandé pour les frais de scolarité payés à un collège ou à d’autres établissements postsecondaires. Il s’agit d’un choix clair et précis que le législateur a fait.
+[8] Bien que le terme « université » ne soit pas défini dans la Loi, la Cour d’appel fédérale, dans l’arrêt Klassen c. La Reine, 2007 CAF 339, 2007 DTC 5612, a suivi l’approche adoptée dans de nombreuses causes précédentes par la Cour canadienne de l’impôt ainsi que la position de l’ARC, selon laquelle, pour être une université, un établissement d’enseignement doit posséder le pouvoir de décerner des diplômes au moins au niveau du baccalauréat. Il n’est pas suffisant que les crédits obtenus à l’institution à laquelle les frais de scolarité sont payés donnent droit à un diplôme décerné par une université affiliée. Dans l’arrêt Klassen, précité, le juge Noël écrivait :
+17 Il faut lire l’expression « université située à l’extérieur du Canada » dans son contexte en suivant son sens ordinaire qui s’harmonise avec l’esprit et l’objet de la LIR ainsi que l’intention du législateur. Parallèlement, il importe de porter une attention particulière au sens textuel des mots lorsqu’on cherche à interpréter des dispositions détaillées de la LIR comme celles en l’espèce (A.Y.S.A. Amateur Youth Soccer Association c. Canada (Agence du revenu), 2007 CSC 42, paragraphe 16).
+18 Les définitions précitées indiquent toutes que l’université est un établissement de haut savoir qui décerne des diplômes attestant d’une compétence donnée. La plupart des gens considèrent le baccalauréat comme l’exigence minimale à satisfaire pour poursuivre des études supérieures (que l’on appelle habituellement des études de cycle supérieur) qui conduisent à la maîtrise et au doctorat.
+19 Fait important, dans le cas des établissements d’enseignement situés au Canada et celui des étudiants qui franchissent la frontière (ceux qui se rendent chaque jour à un établissement d’enseignement américain), les crédits sont non seulement offerts aux étudiants universitaires, mais aussi à ceux qui fréquentent un « collège ou autre [établissement d’enseignement] — offrant des cours de niveau postsecondaire […] » (voir les sous-alinéas 118.5(1)a)(i) et 118.5(1)c)(i) et l’alinéa 118.6(1)c)). Il semble évident que, en étendant les crédits à ces deux catégories d’étudiants, le législateur a fait une distinction entre, d’une part, l’« université » et, d’autre part, les autres établissements d’enseignement dont il est question dans cette expression.
+20 Je souscris à la déclaration faite par le juge Mogan dans Gilbert, précité (paragraphe 21), et reprise par le juge McArthur dans Cleveland, précité (paragraphe 16), selon laquelle le législateur a préconisé une approche plus restrictive à l’égard des établissement étrangers en limitant l’application des alinéas 118.5(1)b) et 118.6(1)b) aux « université[s] située[s] à l’extérieur du Canada ». Cette mesure avait pour objet de permettre au ministre d’exercer un certain contrôle sur le type et le niveau d’éducation visés par les crédits d’impôt. Pour donner effet à la distinction faite par le législateur, le trait le plus important qui distingue l’« université » des autres établissements d’enseignement est le type de diplôme qu’elle décerne, et particulièrement le baccalauréat, le seuil établi par les universités pour la poursuite d’études supérieures. Je ne puis imaginer aucune autre norme fiable ou objectivement mesurable sur laquelle pourrait reposer la distinction établie par le législateur.
+21 Je conclus donc que l’expression « université située à l’extérieur du Canada » renvoie à un établissement d’enseignement qui confère des diplômes décernés habituellement par des universités, c’est-à-dire un doctorat, une maîtrise ou, tout au moins, un baccalauréat ou l’équivalent de celui-ci. Le diplôme décerné par la MSU-Bottineau dans la présente affaire (soit le diplôme d’associé) atteste la réussite d’un programme biennal de premier cycle. Puisqu’il s’agit du plus haut diplôme que la MSU-Bottineau est habilitée à décerner, elle n’est pas une « université située à l’extérieur du Canada ». Le fait que la MSU-Bottineau se présente comme une université ne saurait modifier cette conclusion.
+22 Si la MSU-Bottineau n’est pas en soi une université admissible, l’appelante soutient qu’elle devrait être considéré comme faisant partie intégrante de la MSU, un « établissement d’enseignement agréé » qui, comme je l’ai déjà mentionné, confère des diplômes de baccalauréat et d’études supérieures.
+23 À l’appui de son observation, l’appelante invoque notamment le fait que la MSU-Bottineau est dirigée par le même président et le même conseil des gouverneurs que la MSU même si elle exerce ses activités à un autre campus (situé à quelque 100 kilomètres de celui de la MSU). De plus, le doyen de la MSU-Bottineau rend des comptes au président de la MSU, et tout cours général suivi à la MSU-Bottineau est réputé l’avoir été à la MSU. Les étudiants qui complètent avec succès le programme d’études générales de la MSU-Bottineau peuvent obtenir un transfert à la MSU (ou à une autre université) pour compléter le baccalauréat d’une durée de quatre ans.
+24 Je conviens que le programme d’études de la MSU-Bottineau est intégré au programme de baccalauréat de la MSU et que la MSU-Bottineau pourrait être perçue comme le prolongement de la MSU pour cette raison. Toutefois, je n’estime pas que ce fait permet à lui seul à l’appelante d’obtenir le redressement qu’elle demande.
+25 Selon l’alinéa 118.5(1)b), le crédit d’impôt pour frais de scolarité est calculé en fonction des frais de scolarité payés « à l’université ». Comme l’a mentionné le juge de la Cour de l’impôt, la MSU-Bottineau et la MSU sont des personnes morales distinctes, et le dossier révèle qu’elles ont leur propre bureau du registraire et qu’elles perçoivent les frais de scolarité indépendamment l’une de l’autre. Il s’ensuit que, même si l’on peut considérer la MSU-Bottineau comme le prolongement de la MSU, les frais de scolarité n’ont pas été payés « à l’université », comme l’exige l’alinéa 118.5(1)b).
+[9] Je suis lié par l’interprétation donnée au terme université par la Cour d’appel fédérale dans l’arrêt Klassen. Il est clair que lorsque Mme Yakubowicz a payé ses frais de scolarité à l’institut Sotheby’s pour l’année scolaire 2006‑2007, l’institut Sotheby’s n’était pas une université. Même si l’institut Sotheby’s était peut‑être en voie de devenir une université en 2007, il ne pouvait pas, pendant les années durant lesquelles y a étudié l’appelante et pour lesquelles elle a payé des frais de scolarité, être considéré comme étant un établissement répondant à la définition d’université établie par la Cour d’appel fédérale dans l’arrêt Klassen. Le fait que l’institut Sotheby’s a, depuis, obtenu le pouvoir de décerner des diplômes n’est pas pertinent en ce qui concerne l’article 118.5 de la Loi ou la définition du terme université. Pour cette raison, l’appel interjeté par Mme Yakubowicz à l’égard de son crédit d’impôt pour frais de scolarité doit être rejeté.
+[10] La position de la contribuable n’est pas appuyée par la décision du juge Webb dans Laprairie c. La Reine, 2007 CCI 135, 2007 DTC 528, qui concernait le paiement de frais de scolarité à une université pour la fréquenter et y suivre des cours conduisant à un diplôme qui serait décerné par une autre université. Dans cette affaire, les deux institutions étaient des universités. En l’espèce, l’institut Sotheby’s n’était pas une université lorsque Mme Yakubowicz y étudiait. De la même manière, la contribuable ne peut pas s’appuyer sur la décision de la juge Lamarre Proulx dans Shea c. La Reine, 2008 CCI 184, 2008 DTC 3376, puisque la London School of Economics (la « LSE ») était un collège constituant faisant partie de l’University of London et aussi bien la LSE que l’University of London possédaient le pouvoir de décerner des diplômes.
+[11] Le crédit d’impôt pour frais de scolarité prévu au paragraphe 118.6(2) de la Loi est seulement accordé pour les périodes d’étude dans des universités situées à l’étranger. Le crédit pour manuels, prévu au paragraphe 118.6(2.1) de la Loi, peut seulement l’être demandé si le crédit d’impôt pour études peut l’être aussi. Puisque l’institut Sotheby’s ne peut pas faire l’objet d’un crédit d’impôt pour frais de scolarité, les études de l’appelante ne peuvent pas faire l’objet d’un crédit d’impôt pour études et pour manuels.
+[12] L’appel est rejeté.
+Signé à Toronto (Ontario), ce 3e jour de février 2011.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 22e jour de mars 2011.
+Nathalie Gadbois, LL. L., LL. B.
+RÉFÉRENCE : 2011 CCI 64
+No DU DOSSIER DE LA COUR : 2010-1597(IT)I
+INTITULÉ : JESSICA YAKUBOWICZ c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 21 janvier 2011
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 3 février 2011
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Adam Scherer
+Avocate de l’intimée :
+Me Rishma Bhimji
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

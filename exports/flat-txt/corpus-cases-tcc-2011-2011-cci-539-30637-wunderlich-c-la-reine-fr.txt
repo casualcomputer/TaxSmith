@@ -1,0 +1,167 @@
+Title: Wunderlich c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30637/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-539-30637-wunderlich-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-12-01
+
+# Wunderlich c. La Reine
+
+- Citation: 2011 CCI 539
+- Decision date: 2011-12-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7131, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wunderlich c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-12-01
+Référence neutre
+2011 CCI 539
+Numéro de dossier
+2011-386(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-386(IT)I
+ENTRE :
+GLEN WUNDERLICH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 22 novembre 2011 à Hamilton (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Leslie Ross
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008 est accueilli, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation compte tenu du fait que l’appelant a le droit de déduire des frais de déménagement de 33 160 $ dans le calcul de son revenu pour 2008.
+L’intimée est tenue de payer à l’appelant des dépens de 250 $.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 26e jour de janvier 2012.
+Mario Lagacé, jurilinguiste
+Référence : 2011 CCI 539
+Date : 20111201
+Dossier : 2011-386(IT)I
+ENTRE :
+GLEN WUNDERLICH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Dans le calcul de son revenu pour 2008, l’appelant a déduit des frais de déménagement de 33 160 $. Lorsqu’elle a établi la cotisation à l’égard de l’appelant pour l’année 2008, l’Agence du revenu du Canada (l’« ARC ») a refusé d’accorder la déduction demandée au motif que l’appelant n’avait pas de « nouveau lieu de travail ».
+[2] L’appelant a commencé à travailler auprès de la Boehringer Ingelheim (Canada) Ltd. (l’« employeur ») le 1er juin 2004. L’employeur était (et est encore) situé au 5180 South Service Road, à Burlington, en Ontario. À ce moment‑là, l’appelant demeurait au 76, rue Crossovers, à Toronto. En février 2007, l’appelant a accepté une promotion et a déterminé qu’il devrait déménager plus près de son lieu de travail. L’appelant et sa famille ont déménagé à Oakville, en Ontario, et il n’est pas contesté que la nouvelle résidence est située 50 km plus près de son lieu de travail que son ancienne résidence. L’intimée ne conteste pas que l’appelant a supporté les frais déduits relativement à son déménagement en 2008 et elle convient que les frais ne lui ont pas été remboursés.
+[3] Selon le paragraphe 62(1) de la Loi de l’impôt sur le revenu (la « Loi »), un contribuable peut demander la déduction de frais de déménagement (sous réserve de certaines restrictions qui ne sont pas en litige en l’espèce) qu’il a payés relativement à une réinstallation admissible. Le terme « réinstallation admissible » est défini au paragraphe 248(1) de la Loi, en partie, en ces termes :
+« réinstallation admissible » Réinstallation d’un contribuable relativement à laquelle les conditions suivantes sont réunies :
+a) elle est effectuée afin de permettre au contribuable :
+(i) soit d’exploiter une entreprise ou d’occuper un emploi à un endroit au Canada (appelé « nouveau lieu de travail » à l’article 62 et au présent paragraphe),
+[...]
+b) la résidence que le contribuable habitait ordinairement avant la réinstallation (appelée « ancienne résidence » à l’article 62 et au présent paragraphe) et celle qu’il habitait ordinairement après la réinstallation (appelée « nouvelle résidence » à l’article 62 et au présent paragraphe) sont toutes deux situées au Canada,
+c)la distance entre l’ancienne résidence et le nouveau lieu de travail est supérieure d’au moins 40 kilomètres à la distance entre la nouvelle résidence et le nouveau lieu de travail.
+Toutefois pour l’application des paragraphes 6(19) à (23) et de l’article 62 à la réinstallation d’un contribuable qui est absent du Canada mais y réside, il n’est pas tenu compte des mots « au Canada » au sous‑alinéa a)(i) de la présente définition ni de son alinéa b);
+[4] L’avocat de l’intimée a renvoyé à la décision rendue par le juge en chef Christie (tel était alors son titre) dans Bracken v. Minister of National Revenue, [1984] C.T.C. 2922, 84 DTC 1813, et à certaines des décisions rendues par la Cour qui suivaient cette décision, notamment la décision du juge Bowman (tel était alors son titre) dans Jaggers v. The Queen, [1997] 3 C.T.C. 2372, 97 DTC 1317. Dans Bracken, le juge en chef Christie (tel était alors son titre) a mentionné ce qui suit :
+15 À mon sens, le législateur envisage au paragraphe 62(1) l’existence de quatre éléments distincts : l’ancien lieu de travail, le nouveau lieu de travail, l’ancienne résidence, la nouvelle résidence, ainsi que la comparaison entre deux distances, soit d’une part la distance entre l’ancienne résidence et le nouveau lieu de travail, et d’autre part la distance entre la nouvelle résidence et le nouveau lieu de travail, celle‑là devant être supérieure à celle-ci de 40 kilomètres ou plus pour que les frais de déménagement puissent être déduits. Dans la présente affaire, deux des quatre éléments sont chacun combinés avec l’un des deux autres, ce qui donne deux composantes. C’est‑à‑dire que l’ancien lieu de travail coïncidait avec l’ancienne résidence et que le nouveau lieu de travail coïncide avec la nouvelle résidence. Par conséquent, seule la distance entre ces deux composantes peut être l’objet d’une mesure qui ait un certain sens. Selon moi, il est impossible d’appliquer correctement le paragraphe en question dans de telles circonstances.
+[5] Il est important de souligner que, pour formuler ses commentaires, le juge en chef Christie (tel était alors son titre) s’est fondé sur son interprétation du paragraphe 62(1) de la Loi, tel qu’il était libellé en 1981, soit l’année d’imposition en cause. À ce moment‑là, le paragraphe 62(1) de la Loi prévoyait (en partie) ce qui suit :
+62(1) Lorsqu’un contribuable a,
+a) à une date donnée,
+(i) cessé d’exploiter une entreprise ou d’être employé dans le ou les lieux, suivant le cas, situés au Canada, où, habituellement, il exploitait ainsi une entreprise ou était ainsi employé, ou
+(ii) cessé d’être étudiant à plein temps dans un établissement d’enseignement situé au Canada, à savoir, une université, un collège ou tout autre établissement dispensant un enseignement de niveau post-secondaire,
+et a commencé à exploiter une entreprise ou à être employé dans un autre lieu situé au Canada (appelé ci‑après son « nouveau lieu de travail »), ou
+b) à une date quelconque, a commencé à être étudiant à plein temps dans un établissement d’enseignement (appelé ci‑après son « nouveau lieu de travail »), à savoir, une université, un collège ou tout autre établissement dispensant un enseignement de niveau post-secondaire,
+et a, de ce fait, déménagé d’une résidence sise au Canada où, avant le déménagement, il résidait habituellement pendant les jours de travail ordinaires (appelée ci‑après son « ancienne résidence ») pour venir occuper une autre résidence sise au Canada où, après le déménagement, il a résidé habituellement (appelée ci‑après sa « nouvelle résidence »), de sorte que la distance entre son ancienne résidence et son nouveau lieu de travail soit supérieure d’au moins 40 kilomètres à la distance entre sa nouvelle résidence et son nouveau lieu de travail, il peut déduire, dans le calcul de son revenu pour l’année d’imposition dans laquelle il a déménagé de son ancienne résidence pour venir occuper sa nouvelle résidence, ou pour l’année d’imposition suivante, les sommes qu’il a payées à titre ou au titre des frais de déménagement engagés pour déménager de son ancienne résidence pour venir occuper sa nouvelle résidence, dans la mesure où […]
+[6] Les quatre éléments déterminés par le juge en chef Christie (tel était alors son titre) étaient clairement mentionnés dans les dispositions du paragraphe 62(1) de la Loi, tel qu’il était alors libellé. En 1981, il fallait qu’un contribuable ait cessé d’exploiter une entreprise ou d’être employé (ou cessé d’être étudiant) à un lieu particulier et ait commencé à exploiter une entreprise ou à être employé dans un autre lieu. Il s’agit des deux premiers éléments déterminés par le juge en chef Christie (tel était alors son titre). Les deux autres éléments (l’ancienne résidence et la nouvelle résidence) n’ont pas changé et ne sont pas contestés en l’espèce. Comme, en 1981, on faisait état du lieu de travail où le contribuable était employé (et où il avait cessé d’être employé) ainsi que d’un autre lieu, il serait logique de dire que le nouveau lieu où le contribuable travaillait était le « nouveau lieu de travail ».
+[7] Le paragraphe 62(1) de la Loi a été modifié (en partie) par S.C. 1984, ch. 45, art. 21, (applicable aux réinstallations après 1983), de la manière suivante :
+62(1) Lorsqu’un contribuable a, à une date quelconque, commencé :
+a) à exploiter une entreprise ou à être employé dans un lieu au Canada (dans le présent paragraphe appelé son « nouveau lieu de travail »), ou
+b) à être étudiant à plein temps dans un établissement d’enseignement (dans le présent paragraphe appelé son « nouveau lieu de travail ») qui est une université, un collège ou tout autre établissement dispensant un enseignement de niveau post‑secondaire,
+et a, de ce fait, déménagé d’une résidence au Canada où, avant le déménagement, il résidait habituellement (dans le présent paragraphe appelé son « ancienne résidence ») pour venir occuper une autre résidence sise au Canada où, après le déménagement, il a résidé habituellement (dans le présent paragraphe appelée sa « nouvelle résidence »), de sorte que la distance entre son ancienne résidence et son nouveau lieu de travail soit supérieure d’au moins 40 kilomètres à la distance entre sa nouvelle résidence et son nouveau lieu de travail, il peut déduire, dans le calcul de son revenu pour l’année d’imposition dans laquelle il a déménagé de son ancienne résidence pour venir occuper sa nouvelle résidence, ou pour l’année d’imposition suivante, les sommes qu’il a payées à titre ou au titre des frais de déménagement engagés pour déménager de son ancienne résidence pour venir occuper sa nouvelle résidence, dans la mesure où […]
+[8] L’exigence selon laquelle le contribuable devait cesser d’être employé ou d’être étudiant a été enlevée. Par conséquent, l’exigence relative à un « ancien lieu de travail » n’est plus applicable. À partir de 1983, la seule exigence applicable concernant un lieu de travail était que le contribuable ait commencé à être employé dans un lieu au Canada. Ce lieu a été appelé « nouveau lieu de travail ». Il convient également de noter que la même appellation, c.‑à‑d. « nouveau lieu de travail », a été employée pour les établissements d’enseignement si le contribuable y était un étudiant. Cela fait ressortir le fait que le terme « nouveau lieu de travail » est simplement l’expression ou l’appellation utilisée pour indiquer l’endroit en particulier. Les mots utilisés dans cette appellation (en particulier les mots « nouveau » et « travail ») ne doivent pas être utilisés pour définir l’expression « nouveau lieu de travail ». Le terme « nouveau lieu de travail » est l’expression ou l’appellation qui, avant 1998, était définie au paragraphe 62(1) de la Loi et était le lieu où le contribuable avait commencé à être employé (ou bien où il avait commencé à être étudiant).
+[9] Le paragraphe 62(1) de la Loi a de nouveau été modifié par L.C. 1999, ch. 22, par. 17(1), (applicable après 1997). En 1999, le paragraphe 62(1) de la Loi a été modifié, en partie, de la manière suivante :
+62(1) Un contribuable peut déduire dans le calcul de son revenu pour une année d’imposition les sommes qu’il a payées au titre des frais de déménagement engagés relativement à une réinstallation admissible dans la mesure où, à la fois :
+[10] Les exigences relatives au lieu de travail ainsi qu’à l’ancienne résidence et à la nouvelle résidence ont été ajoutées à la définition de l’expression « réinstallation admissible » au paragraphe 248(1) de la Loi, qui est citée ci‑dessus. L’exigence selon laquelle le contribuable doit avoir « commencé […] à être employé » est devenue l’exigence selon laquelle la « réinstallation [doit être] effectuée afin de permettre au contribuable […] d’occuper un emploi ».
+[11] L’intimée soutient que l’appelant travaillait pour le même employeur avant sa promotion en 2007 et son déménagement en 2008 et qu’il n’y avait donc ni « ancien lieu de travail » ni « nouveau lieu de travail ». L’exigence relative à l’« ancien lieu de travail » était fondée sur les commentaires du juge en chef Christie (tel était alors son titre) dans Bracken, précitée. Il me semble que les commentaires formulés par le juge en chef Christie (tel était alors son titre) dans Bracken, précitée, étaient fondés sur la Loi, telle qu’elle était libellée en 1981. Comme la Loi a été modifiée en 1984 pour enlever l’exigence selon laquelle un contribuable devait avoir cessé d’être employé dans un lieu particulier et donc l’exigence relative à un « ancien lieu de travail », il me semble qu’il n’y a plus d’exigence relative à l’existence d’un « ancien lieu de travail ».
+[12] En ce qui concerne l’exigence relative à un « nouveau lieu de travail », l’expression qui est définie est « nouveau lieu de travail ». Cette expression est définie dans la définition de « réinstallation admissible » au paragraphe 248(1) de la Loi. La définition de « réinstallation admissible » est libellée en partie ainsi :
+« réinstallation admissible » Réinstallation d’un contribuable relativement à laquelle les conditions suivantes sont réunies :
+a) elle est effectuée afin de permettre au contribuable :
+(i) soit d’exploiter une entreprise ou d’occuper un emploi à un endroit au Canada (appelé « nouveau lieu de travail » à l’article 62 et au présent paragraphe),
+[13] Par conséquent, l’expression « nouveau lieu de travail », telle qu’elle est définie dans « réinstallation admissible » au paragraphe 248(1) de la Loi, est simplement un lieu au Canada où le contribuable occupe un emploi. La définition figurant au paragraphe 248(1) ne fait aucunement mention du fait que l’endroit doit être un « nouvel » endroit. Si, au contraire, la disposition était rédigée ainsi :
+« réinstallation admissible » Réinstallation d’un contribuable relativement à laquelle les conditions suivantes sont réunies :
+a) elle est effectuée afin de permettre au contribuable :
+(i) soit d’exploiter une entreprise ou d’occuper un emploi à un nouvel endroit de travail au Canada,
+il faudrait alors déterminer comment les termes « nouvel » et « travail » modifieraient l’endroit au Canada et quelle serait leur incidence sur la question de savoir si un endroit particulier est un nouvel endroit de travail. La disposition n’est toutefois pas libellée ainsi. Il y est question d’« un endroit au Canada » [où la personne occupe un emploi], qui est appelé le « nouveau lieu de travail ». Si, au lieu de mentionner que l’endroit est appelé le « nouveau lieu de travail », on disait dans la disposition que l’endroit est appelé le « lieu de travail » ou le « lieu particulier », ces deux appellations auraient le même sens que celui de l’appellation « nouveau lieu de travail », car seule la façon d’appeler l’endroit aurait changé; la réalité décrite par l’appellation serait la même. Les mots utilisés dans une expression ne doivent pas être utilisés pour interpréter cette expression lorsque celle‑ci est par ailleurs définie dans la Loi.
+[14] L’appelant s’est fondé sur la décision rendue par le juge C. Miller dans Gelinas c. La Reine, 2009 CCI 111, 2009 DTC 1091, [2009] 4 C.T.C. 2232. Dans cette affaire, la contribuable est passée d’un emploi à temps partiel à un emploi à temps plein. Le juge C. Miller a conclu qu’il n’était pas nécessaire qu’il y ait un « ancien lieu de travail » et que la modification de la situation d’emploi de la contribuable, qui est passée d’un emploi à temps partiel à un emploi à temps plein, était suffisante pour permettre à la contribuable de déduire des frais de déménagement, même si l’appelante travaillait toujours pour le même employeur.
+[15] Il me semble qu’en l’espèce, compte tenu de la décision rendue par le juge C. Miller dans Gelinas, la modification de la situation d’emploi de l’appelant étaye la déduction demandée par l’appelant à l’égard des frais de déménagement. L’appelant a mentionné que son nouveau poste était un poste de gestion. Selon ses dires, il arrivait à peine à gérer son temps avec les déplacements qu’il devait effectuer pour aller au travail et en revenir avant de changer d’emploi, et compte tenu des nouvelles responsabilités de gestion qu’il devait assumer, il estimait qu’il se devait de se rapprocher de son lieu de travail.
+[16] Il me semble également qu’il y a une autre raison d’accorder la déduction demandée par l’appelant à l’égard des frais de déménagement. Dans Beyette c. Le ministre du Revenu national, [1989] A.C.I. no 1001, 89 D.T.C. 701, le juge Taylor a déclaré ce qui suit :
+La seule question en cause dans cet appel est sur le point de savoir si, tant qu’il répond à toutes les autres conditions prévues, et il y répond effectivement, le contribuable a le droit de déduire les frais occasionnés par son déménagement, en 1986, de son ancien lieu de travail à son nouveau lieu de travail étant donné que, depuis cinq ans déjà, il faisait chaque jour la navette pour se rendre à son nouveau lieu de travail. Expliquant la cotisation, l’intimée déclarait :
+[traduction]
+« Selon la règle générale, vous pouvez déduire, de votre revenu, vos frais de déménagement si vous déménagez de votre domicile habituel pour commencer à être employé dans un nouveau lieu de travail. Puisque, d’après les renseignements fournis, depuis plusieurs années déjà vous faites la navette entre Winnipeg et Beausejour, vous ne répondez pas aux conditions prévues. »
+Le procureur de l’intimé soutient que le paragraphe 62(1) de la Loi sous‑entend qu’il y a une limite au temps pouvant s’écouler entre le changement du lieu de travail et le déménagement et que les cinq ans effectivement écoulés ne constituent pas un délai raisonnable. Le mot important de la disposition en cause étant le mot « commencé », il estime qu’il doit y avoir un lien entre le [traduction] « commencement de l’emploi » et le [traduction] « déménagement ».
+Je ne suis d’accord avec ni l’un ni l’autre des arguments avancés par l’intimé. Je suis en l’espèce persuadé, compte tenu de la preuve et des dépositions, que le contribuable a eu de bonnes raisons de retarder son déménagement de Winnipeg à Beausejour; la maladie, la pénurie de logements à Beausejour, la mauvaise conjoncture du marché immobilier à Winnipeg, etc., mais la question n’est vraisemblablement pas là. À mon avis, il appartient au seul contribuable de décider de la date de son déménagement et des frais que cela entraîne étant donné que la Loi ne prévoit aucun délai précis. Il est vrai que cinq ans représente un délai particulièrement long entre le changement du lieu de travail et le déménagement, mais là n’est pas la question et l’intimé n’est pas fondé à conclure (Bulletin I.T. 178R2) à l’existence de certains délais qui sont « raisonnables » et d’autres qui ne le sont pas. D’après moi, le paragraphe 62(1) de la Loi exige que le contribuable ait « commencé … à être employé » avant d’effectuer le déménagement dont il demande la déduction. Je ne vois pas comment le mot « commencé » pourrait en vouloir dire plus que cela. Monsieur Beyette a « commencé … à être employé », en 1981, à son nouveau lieu de travail et il a « déménagé » en 1986. Il a, par conséquent, le droit de déduire ses frais de déménagement.
+[17] Dans Simard c. La Reine, [1996] A.C.I. no 626, [1998] 2 C.T.C. 2312, le juge Watson a aussi permis à un contribuable de déduire des frais de déménagement que ce dernier avait supportés cinq ans après avoir commencé à travailler à son « nouveau lieu de travail », telle que l’expression était alors définie à l’article 62 de la Loi (expression dont la définition est actuellement contenue dans celle de « réinstallation admissible » au paragraphe 248(1) de la Loi). Le juge Watson a déclaré ce qui suit :
+17 Je suis d’accord avec le juge Taylor. À mon avis, la Loi de l’impôt sur le revenu ne requiert pas que le déménagement dans le nouveau lieu de travail soit terminé dans un délai prescrit.
+[18] Le juge Watson a cité les dispositions de l’article 62 de la Loi telles qu’elles étaient libellées à ce moment-là. L’article 62 de la Loi prévoyait en partie ce qui suit :
+(1) Lorsqu’un contribuable a, à une date quelconque, commencé :
+a) à exploiter une entreprise ou à être employé dans un lieu au Canada (appelé son « nouveau lieu de travail » au présent paragraphe);
+[...]
+et a, de ce fait, déménagé d’une résidence située au Canada où, avant le déménagement, il résidait habituellement (appelée son « ancienne résidence » au présent article) pour venir occuper une autre résidence située au Canada où, après le déménagement, il a résidé habituellement (appelée sa « nouvelle résidence » au présent article), […]
+[19] Au moment où la Cour a rendu les décisions Beyette et Simard, pour demander une déduction des frais de déménagement à l’égard d’un emploi, une personne devait avoir commencé à être employée dans un lieu de travail, et, du fait du commencement d’un tel emploi, elle devait avoir déménagé. Selon le libellé actuel, une réinstallation doit être effectuée pour permettre à une personne d’occuper un emploi à un « nouveau lieu de travail ». À l’instar de l’ancienne version de l’article 62 de la Loi, la version actuelle de l’article 62 de la Loi et la définition de « réinstallation admissible » au paragraphe 248(1) de la Loi ne prévoient aucun délai dans lequel un déménagement doit être effectué après le commencement d’un emploi à un « nouveau lieu de travail ».
+[20] Dans l’arrêt Attorney General of Canada v. Hoefele, et al., 95 DTC 5602, le juge Linden, se prononçant au nom de la majorité des juges de la Cour d’appel fédérale, a affirmé ce qui suit :
+[…] La question qui doit être tranchée est celle de savoir si la partie du prêt hypothécaire contracté par chacun des contribuables à l’égard d’une maison à Toronto et à laquelle l’aide au paiement de l’intérêt s’appliquait a été reçue « en raison » ou « par suite » de l’emploi.
+Pour résoudre la question, il convient tout d’abord de remarquer que le paragraphe 80.4(1), qu’il s’agisse de l’ancienne ou de la nouvelle version, exige un lien étroit entre le prêt ou la dette et l’emploi, un lien beaucoup plus étroit que celui exigé à l’alinéa 6(1)a) entre l’avantage et l’emploi. Dans ce dernier cas, l’avantage peut être touché simplement « au titre » d’un emploi. L’expression « au titre [de] » n’implique qu’une relation ténue entre deux éléments et traduit l’intention du législateur de conférer une très large portée à la disposition. Dans Nowegijick c. La Reine, la Cour suprême du Canada dit ce qui suit concernant une expression équivalente à « au titre [de] » (en anglais, « in respect of ») :
+À mon avis, les mots « quant à » [« in respect of »] ont la portée la plus large possible. Ils signifient, entre autres, « concernant », « relativement à » ou « par rapport à ». Parmi toutes les expressions qui servent à exprimer un lien quelconque entre deux sujets connexes, c’est probablement l’expression « quant à » qui est la plus large. [Note en bas de page no 19 : 1 R.C.S. 29, à la p. 39, le juge Dickson. Se reporter également aux propos du juge Linden, J.C.A., dans la décision Blanchard c. Canada, [1995] F.C.J. no 1045 (C.A.) (Q.L.).]
+Par contre, les expressions employées dans la version modifiée du paragraphe 80.4(1), « en raison » ou « par suite », de même que dans la version antérieure, « en raison », exigent un lien causal important. Je vois peu de différence de portée, et même aucune, entre « en raison ou par suite » et « en raison ». Chaque expression implique un lien causal important entre les sujets en cause, et non simplement un rapport ténu.
+[Non souligné dans l’original.]
+[21] Il me semble que « de ce fait » ou « du fait du » équivaudraient à « en raison » et à « par suite ». Si le lien causal important entre le commencement de l’emploi et le déménagement qui aurait été exigé au moment où les décisions Beyette et Simard ont été rendues, compte tenu du libellé de l’article 62 de la Loi à ce moment‑là, n’aurait pas donné lieu à un délai dans lequel le déménagement devait être effectué, alors, à mon avis, la modification du libellé qui énonce l’exigence pour remplacer :
+a) une personne devait commencer à travailler au « nouveau lieu de travail » et déménager du fait du commencement d’un tel emploi,
+par
+b) une réinstallation a été effectuée afin de permettre au contribuable d’occuper un emploi à un « nouveau lieu de travail »
+ne peut pas être interprétée dans le sens où elle ajoute un délai dans lequel une personne doit déménager ou établir un lien important entre le déménagement et le commencement d’un emploi au « nouveau lieu de travail ». En fait, la modification du libellé pour qu’il soit question d’une réinstallation qui doit avoir été effectuée pour permettre à la personne d’occuper un emploi laisse entendre que le lien causal entre le déménagement et le commencement de l’emploi est moins important que dans l’ancienne disposition prévoyant l’exigence selon laquelle la personne devait déménager du fait du commencement de l’emploi. Il n’est plus question du commencement de l’emploi à l’article 62 de la Loi ou dans la définition de « réinstallation admissible » au paragraphe 248(1) de la Loi.
+[22] Vu qu’il semble clair qu’il n’est pas nécessaire de déménager avant de commencer l’emploi au « nouveau lieu de travail » pour avoir droit à la déduction, il importe peu que le déménagement ait lieu peu de temps après le commencement de l’emploi au « nouveau lieu de travail » ou après une plus longue période suivant un tel commencement, la réinstallation a été effectuée pour permettre à la personne d’occuper un emploi. Il me semble qu’il n’y a pas lieu d’interpréter maintenant la définition de l’expression réinstallation admissible dans le sens où elle exige que la personne déménage dans un certain délai après qu’elle a commencé à travailler à un « nouveau lieu de travail ». Si un déménagement qui a lieu dans le mois suivant le commencement d’un tel emploi permet à une personne d’occuper un emploi à cet endroit, alors un déménagement qui a lieu dans les deux mois suivant le commencement d’un tel emploi permettrait aussi à la personne d’occuper un emploi à cet endroit, tout comme un déménagement qui aurait lieu dans l’année suivant le commencement de l’emploi, dans les deux ans suivant le commencement de l’emploi, et ainsi de suite. Par conséquent, le déménagement de l’appelant en 2008 peut être considéré comme ayant eu lieu pour lui permettre d’occuper un emploi, même si l’emploi a commencé en 2004.
+[23] En conséquence, étant donné qu’il n’est pas contesté que l’appelant a par ailleurs satisfait aux exigences de l’article 62 de la Loi et à la définition de « réinstallation admissible » au paragraphe 248(1) de la Loi, l’appelant a le droit de déduire les frais de déménagement de 33 160 $ dans le calcul de son revenu pour 2008.
+[24] L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi pour l’année d’imposition 2008 est accueilli, et l’affaire est déférée au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation compte tenu du fait que l’appelant a le droit de déduire des frais de déménagement de 33 160 $ dans le calcul de son revenu pour 2008.
+[25] L’intimée est tenue de payer à l’appelant des dépens de 250 $.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 26e jour de janvier 2012.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2011 CCI 539
+NO DU DOSSIER DE LA COUR : 2011-386(IT)I
+INTITULÉ : GLEN WUNDERLICH c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 22 novembre 2011
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 1er décembre 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Leslie Ross
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

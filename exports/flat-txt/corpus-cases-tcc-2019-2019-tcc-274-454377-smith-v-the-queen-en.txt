@@ -1,0 +1,423 @@
+Title: Smith v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/454377/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-274-454377-smith-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-12-11
+
+# Smith v. The Queen
+
+- Citation: 2019 TCC 274
+- Decision date: 2019-12-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4290, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Smith v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-12-11
+Neutral citation
+2019 TCC 274
+File numbers
+2018-2275(IT)I, 2018-2276(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-2275(IT)I 2018-2276(IT)I
+BETWEEN:
+LORRAINE SMITH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on July 4, 2019 at Toronto, Ontario.
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Arad Moslehi Jason C. Rosen
+Counsel for the Respondent:
+Stephanie Hodge
+JUDGMENT
+WHEREAS, after conducting the hearing of evidence and receiving submissions from the parties, the Court delivers its Reasons for Judgment attached.
+NOW THEREFORE THIS COURT ORDERS THAT:
+The appeals from reassessments made under the Income Tax Act for the Appellant’s 2012, 2013 and 2014 taxation years are hereby allowed solely on the basis that the penalties imposed pursuant to subsection 163(2) are deleted and that the Appellant shall be entitled to an additional eligible charitable donation in the amount of $20 in the 2013 taxation year;
+The appeal from reassessment made under the Income Tax Act for the Appellant’s 2015 taxation year is hereby dismissed;
+The matters are referred back to the Minister of National Revenue for reconsideration and reassessment; and,
+There shall be no costs.
+Signed at Vancouver, British Columbia, this 11th day of December 2019.
+“R.S. Bocock”
+Bocock, J.
+Citation: 2019TCC274
+Date: 20191211
+Docket: 2018-2275(IT)I 2018-2276(IT)I
+BETWEEN:
+LORRAINE SMITH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock, J.
+I. INTRODUCTION
+[1] These appeals concern disallowed charitable deductions and employment expenses for four taxation years: 2012, 2013, 2014 and 2015. The first three taxation years were assessed beyond the normal reassessment period pursuant to subsection 152(4) of the Income Tax Act, RSC 1985, c.1, as amended (the “Act”). In those same years, the Minister also levied penalties under subsection 163(2) of the Act. The Appellant, Ms. Smith, appeals all aspects of the reassessments.
+[2] The amounts of tax at issue placed these appeals within the informal procedure rules of the Court. Despite that, the hearing took an entire day; the Court did not rise until after 6 pm.
+[3] Ultimately, as is seen below, the tax liability concerning the charitable donations, while paper intensive, is fairly easily determined. Similarly, the disallowed employment expenses, because of the dearth of documentary evidence, did not labour before the Court. The more nuanced issues for the Court, in order of their difficulty of conclusion, were the permissibility of reassessments outside the normal reassessment period and the justification for imposing the false statement penalties.
+II. FACTS
+(a) Filing and Assessment History
+[4] For each taxation year under appeal, Ms. Smith had charitable donations allowed and disallowed.
+[5] The filing, audit and reassessment history is described below in summary chart format, as it was in schedules to the Minister’s replies;
+(i) 2012 Taxation Year
+Claimed
+Allowed
+Disallowed
+Square one seniors
+$50.00
+$50.00
+$0.00
+Square one seniors
+$50.00
+$0.00
+$50.00
+Sick kids
+$20.00
+$20.00
+$0.00
+Samaritans purse
+$42.00
+$42.00
+$0.00
+Unknown
+$400.00
+$0.00
+$400.00
+Danforth Community Church
+$5,572.00
+$5,572.00
+$0.00
+United Way
+$25.00
+$25.00
+$0.00
+Danforth Community Church
+$6,150.00
+$0.00
+$6,150.00
+Signet church
+$1,567.20
+$0.00
+$1,567.20
+Own slips
+$130.00
+$130.00
+$0.00
+Unclaimed donations from 2008-2011
+$5,228.30
+$0.00
+$5,228.30
+total charitable donations
+$19,234.50
+$5,839.00
+$13,395.50
+carryforward
+$7,052.84
+$0.00
+$7,052.84
+Total
+$14,006.20
+$5,839.00
+$8,167.20
+claimed for the year
+$12,181.66
+$5,839.00
+$6,342.66
+(ii) 2013 Taxation Year
+Claimed
+Allowed
+Disallowed
+St. Barnabas Church
+$20.00
+$20.00
+$0.00
+Church on Queensway
+$20.00
+$20.00
+$0.00
+Sick kids
+$20.00
+$0.00
+$20.00
+Samaritans purse
+$95.00
+$95.00
+$0.00
+Daycare
+$44.00
+$0.00
+$44.00
+Danforth Community Church
+$7,780.00
+$7,780.00
+$0.00
+Terry Fox
+$40.00
+$40.00
+$0.00
+Intervarsity
+$100.00
+$100.00
+$0.00
+unclaimed donations from 2009—2012
+$7,052.84
+$0.00
+$7,052.84
+total charitable donations
+$15,171.84
+$8,055.00
+$7,116.84
+carryforward
+$0.00
+$0.00
+$0.00
+Total
+$8,119.00
+$8,055.00
+$64.00
+claimed for the year
+$15,171.84
+$8,055.00
+$7,116.84
+(iii) 2014 Taxation Year
+Claimed
+Allowed
+Disallowed
+Word of Faith International Christian Centre
+$100.00
+$100.00
+$0.00
+Word of Faith International Christian Centre
+$20.00
+$20.00
+$0.00
+Word of Faith International Christian Centre
+$20.00
+$0.00
+$20.00
+Church on the Queensway
+$25.00
+$25.00
+$0.00
+Church on the Queensway
+$20.00
+$20.00
+$0.00
+Danforth Community Church
+$8,136.00
+$8,136.00
+$0.00
+unsupported
+$225.00
+$0.00
+$225.00
+unclaimed donations from 2010 — 2013
+$7,052.84
+$0.00
+$7,052.84
+total charitable donations
+$15,598.84
+$8,301.00
+$7,297.84
+carryforward
+$0.00
+$0.00
+$0.00
+Total
+$8,546.00
+$8,301.00
+$245.00
+claimed for the year
+$15,598.84
+$8,301.00
+$7,297.84
+(iv) 2015 Taxation Year
+Claimed
+Allowed
+Disallowed
+Apostolic Pentecostal Church
+$20.00
+$20.00
+$0.00
+Word of Faith International Christian Centre
+$8,550.00
+$8,550.00
+$0.00
+Word of Faith International Christian Centre
+$1,790.00
+$0.00
+$1,790.00
+Word of Faith International Christian Centre
+$430.00
+$0.00
+$430.00
+Word of Faith International Christian Centre
+$5.21
+$0.00
+$5.21
+Cornerstone Montessori Prep School
+$5,550.00
+$555.00
+$4,995.00
+Word of Faith International Christian Centre
+$100.00
+$0.00
+$100.00
+Assists Projects
+$500.00
+$500.00
+$0.00
+MoveIn Vision
+$1,000.00
+$1,000.00
+$0.00
+unclaimed donations from 201l — 20l4
+$0.00
+$0.00
+$0.00
+total charitable donations
+$17,945.21
+$10,625.00
+$7,320.21
+carryforward
+$798.83
+$0.00
+$798.83
+Total
+$17,945.21
+$10,625.00
+$7,320.21
+claimed for the year
+$17,146.38
+$10,625.00
+$6,521.38
+(b) Bases for Disallowance
+[6] While many charitable donations amounts were disallowed, it was clear to the Court from the amounts otherwise allowed and documented in each year that Ms. Smith was a generous charitable giver. Beyond that, the disallowances by the Minister fall into several categories. In summary, the four bases for denial by the Minister were:
+(i) mathematical errors comprised of two sub-categories:
+double counting of deductions; and,
+addition errors on the returns.
+(ii) faulty carry forwards;
+(iii) absence of charitable receipts; and,
+(iv) no charitable intent/existence of reciprocal benefit.
+(c) Ms. Smith’s Educational Background
+[7] Ms. Smith is presently self-employed. During the appeal years and for 28 years in total she was employed by the City of Toronto. She has degrees in health studies and science, she is also a licensed Long Term Care Administrator. Presently, she operates her own business. She is well spoken, thoughtful, poised and deliberate in demeanor. She was forthright and candid during testimony.
+(d) Employment and Related Expenses
+[8] Ms. Smith was a case worker with the city of Toronto and during 2014. Relevant to the claimed employment expenses, she was the supervisor of the Direct Programs Business Unit. This required her to supervise various liaison and outreach activities for the benefit of priority neighbourhoods and faith based organizations. In turn, she oversaw programs for the City of Toronto such as the Ontario Disability Support Program and Ontario Works. During the 2014 taxation year, she deducted $6,660 as employment expenses on account of fuel, parking, car insurance and office in the home expense.
+(e) Preparation and Review of Tax Returns
+[9] Ms. Smith testified that her husband prepared her tax returns, but she reviewed and signed them. She was responsible for collecting the receipts which she provided to her husband. However, the calculations, carry forwards and mathematics of the necessary calculations were done by him.
+III. ANALYSIS OF EMPLOYMENT EXPENSES
+[10] Ms. Smith cannot succeed in the deduction of employment expenses for the following reasons. She produced no T-2200 – Declaration of Conditions of Employment. Although she was an employee with the City of Toronto, the City failed to complete the form when asked. Ms. Smith did not aggressively pursue this. More importantly, no record, log, voucher or expense receipt was produced regarding the asserted motor vehicle, fuel, parking or home office expenses. While an employee may, in certain infrequent circumstances, overcome the absence of a T-2200, it cannot occur where the expenses are not quantifiable, identifiable or allocable to earning the employment income. Since no evidence of the expenses exists, Ms. Smith cannot succeed.
+IV. ANALYSIS OF CHARITABLE DONATIONS
+[11] In each year, certain charitable donations were properly denied by the Minister with one single exception: a charitable donation to Sick Kids Hospital in 2013 for $20 appears to have been disallowed. The charitable receipt was adduced into evidence by both Appellant and Respondent. It should be allowed. Otherwise, the clearest method for analyzing the evidence and correctness of disallowance is by reason for disallowance rather than by taxation year. Broadly, the valid justification for such disallowed donations fell into the following categories:
+(i) mathematical errors on return;
+[12] On balance, there has been double counting of donations in two taxations years: the sum of $6,150.00 in both 2011 and 2012 to the Danforth Community Church. It appears that the Minister allowed it in 2011; it cannot be allowed twice and is therefore not available to claim a second time in 2012. Similarly, an unknown donation of $400 in 2012 was more likely than not an RSP contribution, but claimed as a charitable donation. It cannot be a charitable donation since no receipt exists nor was there any charitable intent.
+(ii) faulty or non-existent carry forward amounts;
+[13] Based upon the evidence before the Court, there was simply no basis for the deduction of $5,228.30 as a carry forward in 2012. The anecdotal testimony alleged the discovery of a dated charitable donation from 2005. No evidence of this existed or was furnished before the Court. Even if it did, the Act only permits deductibility of a charitable donation on a carry forward basis for 5 years or less.
+[14] In 2013, there is no record of a donation continuity record or originating receipts to reflect the sum of $7,052.00 carried forward as unused from previous years. Again, such amount is not available when claimed for a second time in 2014. This is both an instance of no available carry forward amount and double counting of the same ineligible amount in 2013 and 2014.
+(iii) absence of charitable receipts;
+[15] There were no charitable receipts for the following donations:
+Taxation year
+Amount
+Reasons for Disallowance
+2014
+$20.00
+Possibly a claimed duplicate receipt from Word of Faith International Christian Centre
+2014
+$225.00
+No receipt
+(iv) conferred benefit on donor;
+[16] Certain charitable donation amounts conferred a benefit on Ms. Smith through the education of her children in the form of tuition. As such, these amounts were not gifts: Frieburg v. HMQ, FCA at paragraph 4. This sum was in the amount of $13,120 paid to the Kingdom Covenant Ministries. At least $10,480 related to Kingdom Covenant Academy (“KCA”) tuition fees for her children in 2010. Any carry forward amounts springing from this ineligible amount were also not available for future years as a charitable deduction. On that basis, this was also an ineligible amount carried forward.
+[17] An amount of $44 in 2013 related to day care expenses and was described as such on the receipt. It is not a charitable donation.
+[18] Similarly, Ms. Smith’s children attended private school during taxation years 2011 through 2015. In certain years, Ms. Smith contends that a portion of the tuition amounts were deductible as charitable donations. She believed that certain amounts given to the schools exceeded the educational benefit derived from the paid tuition. She held this view based upon her review of various legal authorities and advice she received along the way from various sources. While not entirely clear which amounts were specifically deducted and which were not within her tax returns, the best estimate of the payments deducted as charitable donations are as follows:
+Disallowed Charitable Donations alleged to be of Tuition Fees
+Taxation year made
+Receiving Entity
+Amount
+Taxation Year Deducted
+2011
+Signet Church
+$1,567.20
+2012
+2015
+Word of Faith Christian Centre
+$1,790.00
+2015
+2015
+Word of Faith Christian Centre
+$430.00
+2015
+2015
+Word of Faith Christian Centre
+$100.00
+2015
+2015
+Word of Faith Christian Centre
+$5.21
+2015
+2015
+Cornerstone Montessori Prep School
+$5,500.00
+2015
+[19] These amounts were more likely then not paid on account of tuition and related education fees. Signet Church was paid these sums in 2011, but claimed in 2012. A sizeable portion, if not all, was specifically paid to cover tuition. Moreover, aside from a letter specifying 20% was for charitable purposes, there was no charitable receipt or an accurate indication in the tax return as to which amounts were claimed with respect to the Word of Faith Christian Centre and Cornerstone Montessori Prep School; the lines between these recipients remained blurred throughout the evidence. The disallowed amounts were justified because they were clearly tuition, such as the Prep School, or were double counted because Ms. Smith utilized duplicative payment summaries throughout the year rather than referencing the actual receipts. This was relevant to the amounts of $1,790, $430, $100 and $5.21 which otherwise appear to have been included in the year-end total given to Word of Faith and already allowed. Again, this cannot be deducted twice.
+[20] In conclusion, for these reasons, with the one $20 exception above, there was not an instance before the Court where the charitable donations claimed and disallowed by the Minister ought to be allowed. To that extent, the appeals are dismissed.
+V. STATUTE BARRED YEARS; 2012, 2013 AND 2014
+[21] The threshold for such otherwise statute barred reassessments requires a false statement attributable to misrepresentation arising from carelessness, neglect or wilful default. In 2014, Ms. Smith admitted there were no carry forward amounts to include. Further she had no receipts for her employment expenses which she claimed. Similarly in 2012 and 2013, the degree of care in reviewing the returns, given the size of the donations claimed, should have revealed the double counting, mathematical errors and absence of carry forward amounts from the alleged 2005 taxation year. Neither the issue of intention to mislead nor the subsequent revelation to or discovery by the Minister of the error is necessary to establish misrepresentation; a careless mistake of an accountant or tax preparer at the time the return is completed and filed is sufficient to constitute a misrepresentation owing to carelessness: Nesbitt v. R, 1996 CarswellNat 1916 at paragraphs 8 and 9. Ms. Smith, through her husband’s errors and her own inattentive review, was careless in her inclusions, calculations and documentation review. On these bases, the first three appeal years are to be opened beyond the normal reassessment period.
+VI. SUBSECTION 163(2) PENALTIES FOR 2012 AND 2013 CHARITABLE DEDUCTIONS AND 2014 EMPLOYMENT EXPENSE
+[22] The making of a knowing false statement was not seriously asserted by the Minister as a ground for the subsection 163(2) penalties. Respondent’s counsel instead asserted that the lack of careful review of the return by Ms. Smith, after preparation by her husband, failed to disclose:
+(i) In 2012 and 2013, the unjustified carry forwards, inclusion of the full KCA amounts, and the possible double counting of the Church on the Danforth in 2011 and 2012; and,
+(ii) In the 2014 taxation year, the inclusion of the deduction of the employment expenses where no receipts existed and where no T-2200 was obtained.
+[23] In short, the Minister identifies these omissions as grounds comprising wilful blindness. The Minister asserts this is wilful blindness to a degree that rises to gross negligence or is a cavalier disregard to complying with obligations under the Act to verify the accuracy of the returns: Lauzon v. HMQ, 2016 TCC 71 at paragraphs 42, 43 and 44.
+(a) Analysis of Charitable Deduction Penalties for 2012 and 2013
+[24] The facts in these appeals concerning the charitable deductions, as they pertain to wilful blindness, generally relate to Ms. Smith’s confused state of her carry forward amounts and the legal basis for the deductibility of the “charitable portion” of the tuition fees.
+[25] While these sums were large, Ms. Smith clearly believed, however naively, that an excess portion of the tuition amounts was deductible. She earnestly articulated that view and her “informed” basis for that view to the Court. She was wrong as to the law, but unlike many taxpayers, she attempted to learn the law and comply. She was negligent and perhaps careless regarding the previous unclaimed charitable donations, but she was not insouciant or indifferent to complying. Moreover, she had been a sustained and deliberate charitable giver over the years. Accordingly, the Court is not of the view that her errors rose to a level of wilful blindness or a knowing misstatement.
+(b) Analysis of Penalties for Employment Expenses
+[26] Based upon the evidence, the specific factual circumstances surrounding these claimed expenses also fail to meet a standard a wilful blindness tantamount to disregarding compliance with the law. Ms. Smith sought out, but failed in obtaining a T-2200 in 2014. The following year she prevailed in getting one, but had no expenses.
+[27] Ms. Smith’s lack of receipts is not sufficient in this case to elevate her omissions to wilful business. She filed her returns believing she was entitled to deduct these expenses, even if estimated. The amounts were not extraordinary, they simply remained unprovable and therefore misstated. Such action did not rise to the level of wilful blindness supporting a finding of gross negligence.
+VII. SUMMARY AND COSTS
+[28] Based upon these reasons, the appeals are dismissed without costs, save that the penalties are vacated in the 2012, 2013 and 2014 taxation years and the allowance of additional charitable donation of $20 in 2013.
+Signed at Vancouver, British Columbia, this 11th day of December 2019.
+“R.S. Bocock”
+Bocock, J.
+CITATION:
+2019 TCC 274
+COURT FILE NOs.:
+2018-2275(IT)I; 2018-2276(IT)I
+STYLE OF CAUSE:
+LORRAINE SMITH AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 4, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+December 11, 2019
+APPEARANCES:
+Counsel the Appellant:
+Arad Moslehi Jason C. Rosen
+Counsel for the Respondent:
+Stephanie Hodge
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Blank
+Firm:
+Blank
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

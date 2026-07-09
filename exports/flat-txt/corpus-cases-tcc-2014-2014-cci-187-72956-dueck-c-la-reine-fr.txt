@@ -1,0 +1,134 @@
+Title: Dueck c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/72956/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-187-72956-dueck-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-06-04
+
+# Dueck c. La Reine
+
+- Citation: 2014 CCI 187
+- Decision date: 2014-06-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5189, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dueck c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-06-04
+Référence neutre
+2014 CCI 187
+Numéro de dossier
+2013-2378(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-2378(IT)I
+ENTRE :
+HENRY DUECK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 28 février 2014, à Winnipeg (Manitoba).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Représentant de l’appelant :
+Gerald Friesen
+Avocat de l’intimée :
+Me Penny Piper
+Hugh Crawley (étudiant en droit)
+JUGEMENT
+L’appel formé contre la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d'imposition 2011 est rejeté, conformément aux motifs ci‑annexés.
+Signé à Montréal (Québec), ce 4e jour de juin 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 24e jour de juillet 2014
+Claude Leclerc, LL.B.
+Référence : 2014 CCI 187
+Date : 20140604
+Dossier : 2013-2378(IT)I
+ENTRE :
+HENRY DUECK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Introduction [1] Henry Dueck (l’« appelant ») fait appel d’une nouvelle cotisation établie pour l’année d'imposition 2011. Dans le calcul de son revenu pour l’année d'imposition 2011, l’appelant a déduit des frais de déménagement au montant de 21 861 $, en application du paragraphe 62(1) de la Loi de l’impôt sur le revenu (la Loi). Le ministre a désavoué les déductions de l’appelant au motif que son déménagement n’était pas une réinstallation admissible, parce que (i) l’appelant n’avait pas changé de lieu de travail et (ii) la distance entre son ancienne résidence et son lieu de travail n’était pas supérieure d’au moins 40 kilomètres à la distance entre sa nouvelle résidence et son lieu de travail (l’« exigence de distance »).
+II. Contexte [2] L’appelant travaillait comme estimateur de béton pour la société Jerry’s Concrete Works Ltd. (JEWL). Il a travaillé pour le même employeur de 2005 jusqu’à l’année d'imposition 2011. Il accomplissait ses tâches tant à l’intérieur qu’à l’extérieur du bureau, mais il se présentait invariablement au même lieu de travail.
+[3] En octobre 2011, l’appelant s’est installé à Burke Bay, à Winnipeg, au Manitoba (la nouvelle résidence). Avant cela, il était domicilié sur le Chemin 2 Est, à Sanford, au Manitoba (l’ancienne résidence). Durant toute cette période, l’appelant a continué à travailler pour JEWL.
+[4] L’appelant a témoigné que, quand il vivait à son ancienne résidence, sa santé commençait à se détériorer. Il a subi une crise cardiaque et souffrait d’épuisement. Il affirme que son état de santé l’empêchait de continuer à travailler tout en devant simultanément s’occuper de sa terre. Il a dit que son ancienne résidence se trouvait dans une zone rurale, sur un très grand terrain. Il a donc décidé de réduire son espace de vie et de se réinstaller sur une terre plus petite et plus proche de son lieu de travail.
+[5] L’appelant s’est montré très prudent au moment d’expliquer pourquoi il avait décidé de vendre sa terre. Ses réponses aux questions concernant les motifs de son déménagement semblaient avoir été préparées d’avance. C’est avec circonspection qu’il a évoqué sa situation familiale. Ainsi, il n’a pas expliqué ce qu’il avait fait du produit de la vente de l’ancienne résidence. Avait‑il tout réinvesti dans sa nouvelle demeure? Avait‑il réduit son espace de vie pour libérer un capital qui lui permettrait de générer des fonds et d’arrondir ainsi son revenu de retraite? Il semble que l’appelant approchait sans doute d’un départ à la retraite. Son ancienne résidence était‑elle tout simplement trop grande? Avait‑il déménagé pour se rapprocher de la ville et de ses prestataires de soins? Comme l’appelant n’a pas été très expansif concernant les circonstances de son déménagement, j’ai du mal à le croire quand il affirme que, s’il avait déménagé, c’était pour pouvoir continuer à travailler.
+III. Points litigieux [6] Le présent appel soulève deux points. Il faut d’abord se demander si, aux fins du paragraphe 62(1) de la Loi, l’appelant remplit les conditions de la définition de « réinstallation admissible », qui figure au paragraphe 248(1) de la Loi. Il faut ensuite se demander si l’itinéraire emprunté par l’appelant est l’itinéraire normal le plus court pour que soit respectée l’exigence de distance.
+IV. Analyse [7] Les dispositions applicables sont reproduites ci‑après :
+62(1) Un contribuable peut déduire dans le calcul de son revenu pour une année d’imposition les sommes qu’il a payées au titre des frais de déménagement engagés relativement à une réinstallation admissible dans la mesure où, à la fois :
+a) elles n’ont pas été payées en son nom relativement à sa charge ou à son emploi ou dans le cadre ou en raison de sa charge ou de son emploi;
+b) elles n’étaient pas déductibles par l’effet du présent article dans le calcul de son revenu pour l’année d’imposition précédente;
+c) leur total ne dépasse pas le montant applicable suivant :
+(i) dans le cas visé au sous-alinéa a)(i) de la définition de « réinstallation admissible » au paragraphe 248(1), le total des sommes représentant chacune une somme incluse dans le calcul du revenu du contribuable pour l’année tiré de son emploi au nouveau lieu de travail ou de l’exploitation de l’entreprise au nouveau lieu de travail ou une somme incluse dans le calcul de son revenu pour l’année par l’effet du sous-alinéa 56(1)r)(v) relativement à son emploi au nouveau lieu de travail,
+(ii) dans le cas visé au sous-alinéa a)(ii) de cette définition, le total des montants inclus dans le calcul du revenu du contribuable pour l’année par l’effet des alinéas 56(1)n) et o);
+d) les remboursements et allocations qu’il a reçus relativement à ces frais sont inclus dans le calcul de son revenu.
+248(1) « réinstallation admissible » Réinstallation d’un contribuable relativement à laquelle les faits ci‑après s’avèrent :
+a) elle est effectuée afin de permettre au contribuable :
+(i) soit d’exploiter une entreprise ou d’occuper un emploi à un endroit au Canada (appelé « nouveau lieu de travail » à l’article 62 et dans la présente définition), sauf si le contribuable est absent du Canada mais y réside,
+(ii) soit de fréquenter, comme étudiant à temps plein inscrit à un programme de niveau postsecondaire, un établissement d’une université, d’un collège ou d’un autre établissement d’enseignement (appelé « nouveau lieu de travail » à l’article 62 et dans la présente définition);
+b) avant la réinstallation, le contribuable habitait ordinairement dans une résidence (appelée « ancienne résidence » à l’article 62 et dans la présente définition) et après la réinstallation, il habitait ordinairement dans une résidence (appelée « nouvelle résidence » à l’article 62 et dans la présente définition);
+c) sauf si le contribuable est absent du Canada mais y réside, l’ancienne résidence et la nouvelle résidence sont toutes deux situées au Canada;
+d) la distance entre l’ancienne résidence et le nouveau lieu de travail est supérieure d’au moins 40 kilomètres à la distance entre la nouvelle résidence et le nouveau lieu de travail.
+[8] S’agissant du premier point, le ministre soutient que la disposition requiert qu’un changement soit intervenu dans les conditions d’emploi du contribuable. L’avocat de l’intimée invoque la décision Bracken c. Ministre du Revenu national[1]. Dans cette affaire, le juge avait estimé que le paragraphe 62(1) de la Loi requiert, entre autres, qu’il y ait (i) un ancien lieu de travail, (ii) un nouveau lieu de travail, (iii) une ancienne résidence, et (iv) une nouvelle résidence. L’avocat de l’intimée concède que le texte du paragraphe 62(1) de la Loi applicable à la présente espèce diffère du texte de la disposition examinée dans l’espèce Bracken. Néanmoins, l’intimée affirme que les conditions énoncées dans la décision Bracken valent également pour la version actuelle de la disposition. En bref, le contribuable doit démontrer que le déménagement s’expliquait par un changement intervenu dans les conditions de son emploi.
+[9] Selon l’intimée, puisqu’il n’y a eu aucun changement dans les conditions de l’emploi de l’appelant, ses frais de déménagement ne sont pas déductibles. La preuve montre que l’appelant a continué à travailler pour le même employeur et qu’il se présentait au même lieu de travail. L’appelant ne conteste pas ce fait. L’intimée cite des jugements de la Cour qui ont suivi l’espèce Bracken, malgré la modification apportée au texte de la disposition.
+[10] L’appelant soutient qu’il y a « réinstallation admissible » quand la réinstallation du contribuable permet à celui‑ci de conserver son emploi à son lieu de travail actuel. Plus précisément, le contribuable satisfera aux conditions de la définition de « réinstallation admissible » dans la mesure où il lui fallait se rapprocher de son lieu de travail pour pouvoir continuer à travailler.
+[11] Invoquant les principes exposés dans la décision Wunderlich c. La Reine[2], l’appelant fait valoir qu’un changement intervenu dans les conditions d’emploi d’un contribuable n’est pas requis pour que les conditions de la définition soient remplies. Dans ce précédent, le juge Webb estimait que le « nouveau lieu de travail » dont il est question dans la définition de « réinstallation admissible » est simplement un endroit au Canada où le contribuable travaille. Le contribuable n’est pas tenu de montrer que les conditions de son emploi ont changé. Selon le juge Webb, l’expression « nouveau lieu de travail » était simplement une appellation qui n’avait aucune incidence sur le sens de la disposition.
+[12] Contrairement aux conclusions de l’appelant, la preuve révèle que c’est pour des raisons personnelles que l’appelant a vendu sa terre pour en acheter une plus petite. À tout le moins, pour les motifs exposés ci‑après, l’appelant n’a pas établi, selon la prépondérance des probabilités, qu’il a déménagé pour pouvoir continuer à travailler. Je n’ai donc pas à choisir entre les deux interprétations évoquées plus haut pour statuer sur le présent appel, et c’est un choix que je m’abstiendrai de faire.
+[13] Il est de notoriété publique qu’un propriétaire peut décider, pour une foule de raisons, de s’installer dans une maison plus petite. Ce sera le cas par exemple de personnes dont les enfants devenus adultes ont quitté le domicile familial et qui n’ont donc plus besoin d’une grande maison ou d’un grand terrain. Quand une personne approche de la retraite, elle s’installe dans une habitation plus petite parce qu’elle souhaite réduire ses frais de subsistance, récupérer du capital pour augmenter son revenu de retraite, ou disposer de plus de temps pour voyager, etc., en s’affranchissant des corvées d’entretien. Toutes ces raisons constituent des choix personnels justifiables.
+[14] La seule explication donnée par l’appelant est qu’il devait déménager parce qu’il lui était impossible d’entretenir une grande propriété et de travailler en même temps. Cependant, comme l’appelant n’a pas été très loquace dans ses explications, il ne m’a pas convaincu que c’était là le motif de son déménagement. S’il avait exposé les tenants et les aboutissants du déménagement, il m’aurait sans doute persuadé d’admettre le bien-fondé de ses intentions. Par exemple, un capital a‑t‑il été récupéré à des fins de réinvestissement? La nouvelle habitation était‑elle située plus proche des prestataires de soins de l’appelant? Combien de temps l’appelant a‑t‑il continué de travailler après son déménagement?
+[15] Selon moi, il ne suffit pas à un contribuable de dire qu’il a déménagé pour se rapprocher de son lieu de travail et pouvoir ainsi continuer de travailler alors qu’aucun changement ne s’est produit dans ses conditions d’emploi. Il doit produire la preuve des circonstances entourant le déménagement, pour que la Cour soit en mesure d’apprécier le bien‑fondé de ses intentions. Si ce n’était pas là une exigence, il serait facile pour un contribuable de déduire des frais de déménagement engagés pour des raisons personnelles en déménageant peu de temps avant son départ à la retraite plutôt qu’après.
+V. Dispositif [16] Pour tous ces motifs, l’appel est rejeté.
+Signé à Montréal (Québec), ce 4e jour de juin 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 24e jour de juillet 2014
+Claude Leclerc, LL.B.
+RÉFÉRENCE :
+2014 CCI 187
+No DU DOSSIER DE LA COUR :
+2013-2378(IT)I
+INTITULÉ :
+HENRY DUECK c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Winnipeg (Manitoba)
+DATE DE L’AUDIENCE :
+Le 28 février 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 4 juin 2014
+COMPARUTIONS :
+Représentant de l’appelant :
+Gerald Friesen
+Avocat de l’intimée :
+Me Penny Piper
+Hugh Crawley (étudiant en droit)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1984] C.T.C. 2922.
+[2] 2011 CCI 539.

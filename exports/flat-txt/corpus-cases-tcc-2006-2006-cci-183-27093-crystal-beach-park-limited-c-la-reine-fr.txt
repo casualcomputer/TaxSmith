@@ -1,0 +1,244 @@
+Title: Crystal Beach Park Limited c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27093/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-183-27093-crystal-beach-park-limited-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-05-02
+
+# Crystal Beach Park Limited c. La Reine
+
+- Citation: 2006 CCI 183
+- Decision date: 2006-05-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 963, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Crystal Beach Park Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-02
+Référence neutre
+2006 CCI 183
+Numéro de dossier
+2001-970(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001‑970(IT)G
+ENTRE :
+CRYSTAL BEACH PARK LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus à St. Catharines (Ontario),
+le 31 octobre ainsi que les 1er et 2 novembre 2005.
+Devant : L’honorable juge G. Sheridan
+Comparutions :
+Avocat de l’appelante :
+Me Richard G. Fitzsimmons
+Avocat de l’intimée :
+Me Shatru Ghan
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1993 et 1994 sont accueillis avec dépens et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci‑joints, compte tenu de ce qui est ci‑après énoncé :
+1. M. Tiburzi et M. Gelder étaient chacun propriétaire en titre et propriétaire bénéficiaire de 7 500 actions ordinaires de l’appelante;
+2. M. Tiburzi et M. Gelder détenaient 15 000 actions ordinaires en fiducie pour 425243 Ontario Ltd., propriétaire bénéficiaire des actions, et pour le compte de celle‑ci;
+3. M. Tiburzi et M. Gelder n’avaient pas le contrôle de droit ou de fait de l’appelante;
+4. M. Tiburzi et M. Gelder n’avaient pas acquis le contrôle de l’appelante en vertu du paragraphe 111(5) de la Loi;
+5. M. Tiburzi et M. Gelder n’étaient pas un « groupe de personnes » en vertu du paragraphe 111(5) de la Loi;
+6. la même entreprise était exploitée avant et après le 22 novembre 1989.
+Signé à Ottawa, Canada, ce 2e jour de mai 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 10 jour de mars 2008.
+D. Laberge, LL.L.
+Référence : 2006CCI183
+Date : 20060502
+Dossier : 2001‑970(IT)G
+ENTRE :
+CRYSTAL BEACH PARK LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] Le 22 novembre 1989, l’appelante, Crystal Beach Park Limited, a été constituée par des statuts de fusion, en vertu de la Loi sur les sociétés par actions (Ontario) par lesquels deux autres sociétés, Crystal Beach Park Limited et 385979 Ontario Limited, étaient fusionnées[1].
+[2] Dans ses déclarations de revenus de 1993 et de 1994, l’appelante a demandé la déduction d’une perte autre qu’une perte en capital de l’année 1989, laquelle s’élevait à 290 247 $[2]. Le ministre a refusé la déduction pour le motif[3] qu’il y avait eu acquisition du contrôle par un groupe de personnes en vertu du paragraphe 111(5) de la Loi de l’impôt sur le revenu. Le paragraphe 111(5) empêche une société de déduire des pertes passées de profits futurs lorsque le « contrôle » de la société a été acquis par un « groupe de personnes », sauf dans la mesure où la société exploite la même entreprise :
+(5) Idem. En cas d’acquisition, à un moment donné, du contrôle d’une société par une personne ou un groupe de personnes, aucun montant au titre d’une perte autre qu’une perte en capital ou d’une perte agricole pour une année d’imposition se terminant avant ce moment n’est déductible par la société pour une année d’imposition se terminant après ce moment et aucun montant au titre d’une perte autre qu’une perte en capital ou d’une perte agricole pour une année d’imposition se terminant après ce moment n’est déductible par la société pour une année d’imposition se terminant avant ce moment. Toutefois :
+a) la fraction de la perte autre qu’une perte en capital ou de la perte agricole subie par la société pour une année d’imposition se terminant avant ce moment qu’il est raisonnable de considérer comme résultant de l’exploitation d’une entreprise et, si la société exploitait une entreprise au cours de cette année, la fraction de la perte autre qu’une perte en capital qu’il est raisonnable de considérer comme se rapportant à un montant déductible en application de l’alinéa 110(1)k) dans le calcul de son revenu imposable pour l’année, ne sont déductibles par la société pour une année d’imposition donnée se terminant après ce moment :
+(i) que si, tout au long de l’année donnée, cette entreprise a été exploitée par la société en vue d’en tirer un profit ou dans une attente raisonnable de profit,
+(ii) qu’à concurrence du total du revenu de la société provenant de cette entreprise pour l’année donnée et ‑‑ dans le cas où des biens sont vendus, loués ou mis en valeur ou des services rendus dans le cadre de l’exploitation de l’entreprise avant ce moment ‑‑ de toute autre entreprise dont la presque totalité du revenu est dérivée de la vente, de la location ou de la mise en valeur, selon le cas, de biens semblables ou de la prestation de services semblables;
+b) la fraction de la perte autre qu’une perte en capital ou de la perte agricole subie par la société pour une année d’imposition se terminant après ce moment qu’il est raisonnable de considérer comme résultant de l’exploitation d’une entreprise et, si la société exploitait une entreprise au cours de cette année, la fraction de la perte autre qu’une perte en capital qu’il est raisonnable de considérer comme se rapportant à un montant déductible en application de l’alinéa 110(1)k) dans le calcul de son revenu imposable pour l’année, ne sont déductibles par la société pour une année d’imposition donnée se terminant avant ce moment :
+(i) que si, tout au long de l’année d’imposition et de l’année donnée, cette entreprise était exploitée par la société en vue d’en tirer un profit ou dans une attente raisonnable de profit,
+(ii) qu’à concurrence du revenu que la société a tiré pour l’année donnée de cette entreprise et de toute autre entreprise dont la presque totalité des revenus provient de la vente, de la location ou de la mise en valeur de biens semblables aux biens vendus, loués ou mis en valeur ou de la prestation de services semblables aux services rendus dans le cadre de l’exploitation de cette entreprise avant ce moment.
+[Non souligné dans l’original.]
+[3] Selon la position prise par le ministre, deux particuliers, Davis Tiburzi et Robert Gelder, agissant ensemble, ont acquis le contrôle de l’appelante le 22 novembre 1989 en achetant la totalité des actions de la société.
+[4] L’appelante reconnaît que toutes ses actions avec droit de vote étaient inscrites aux noms de M. Tiburzi et de M. Gelder, mais elle affirme que 15 000 actions ordinaires seulement sur les 30 000 étaient détenues à leur profit. Les 15 000 actions ordinaires restantes étaient détenues par ceux‑ci en leurs qualités de fiduciaires, l’intérêt bénéficiaire revenant à une troisième actionnaire, 425243 Ontario Ltd. (« 425 Ontario »), la société de portefeuille d’un certain Alphonse Lacavera. Selon l’appelante, M. Tiburzi et de M. Gelder ne détenaient pas plus de 50 p. 100 des actions de l’appelante et l’on ne peut donc pas dire qu’ils avaient acquis le « contrôle » de la société. L’appelante soutient en outre que, de toute façon, il n’existait pas, entre M. Tiburzi et de M. Gelder, de lien suffisant permettant de les considérer comme un « groupe de personnes » au sens du paragraphe 111(5).
+[5] M. Tiburzi et M. Lacavera ont témoigné à l’audience. Je les ai trouvés tout à fait dignes de foi, en particulier M. Lacavera. Ils se sont tous deux montrés informés et sincères en présentant leur preuve. George Kubarakos, le vérificateur et l’agent désigné de l’Agence du revenu du Canada lors de l’interrogatoire préalable, a été cité par la Couronne. Son témoignage m’a fait une impression moindre. Il a répondu en hésitant et il m’a souvent semblé qu’il s’arrangeait pour que ses réponses soient compatibles avec la position prise par le ministre.
+Les faits
+[6] Avant le 22 novembre 1989, CBPL possédait une parcelle de terre à Crystal Beach, au bord du lac Érié. CBPL comptait trois actionnaires détenant le même nombre d’actions, M. Bonifacio, M. Hall et M. Biondolillo. À un moment donné au milieu des années 1980 ou à la fin des années 1980, M. Biondolillo a communiqué avec M. Tiburzi, un promoteur immobilier d’Amherst (New York), pour le consulter au sujet de la mise en valeur du terrain, en sus de son utilisation (à l’époque) en tant que parc d’attractions.
+[7] Après avoir visité les lieux avec M. Biondolillo et l’avoir écouté parler de ses idées quant à leur mise en valeur, M. Tiburzi a conclu que le terrain offrait un certain potentiel, le parc d’attractions devant sous certains aspects être maintenu et un port de plaisance et des unités résidentielles devant être aménagés sur l’emplacement. M. Tiburzi était tellement convaincu de la chose qu’il a décidé de donner suite au projet avec M. Biondolillo. Les négociations ont commencé en vue de l’achat des actions des deux autres actionnaires de CBPL, M. Bonifacio et M. Hall. Contrairement à ce que donne à entendre l’alinéa 19dg) des hypothèses émises par le ministre[4], les actions de M. Biondolillo n’étaient pas à vendre à ce moment‑là étant donné que celui‑ci devait participer au projet avec M. Tiburzi (et, comme nous le verrons, avec M. Gelder).
+[8] Dans l’intervalle, le parc d’attractions a continué à être exploité, quoique sur une moindre échelle. M. Tiburzi a commencé à avoir un rôle de plus en plus actif dans la gestion quotidienne du parc d’attractions, tout en entreprenant les travaux préparatoires à la mise en valeur du terrain, et notamment en consultant ses contacts, au sein de divers organismes administratifs, au sujet des exigences réglementaires. M. Tiburzi a effectué une contribution financière pendant toute cette période; lorsque la fusion a eu lieu, il avait avancé des montants non garantis s’élevant à environ 700 000 $.
+[9] M. Tiburzi n’avait pas les moyens d’acheter seul les actions de M. Hall et de M. Bonifacio. Il a communiqué avec quatre ou cinq particuliers afin de savoir si l’achat d’une partie des actions les intéressait; seul M. Gelder a accepté. M. Gelder, qui n’était pas lui‑même promoteur immobilier, était connu de M. Tiburzi en sa qualité de propriétaire de Barden & Robeson, une entreprise de fourniture de matériaux de construction située à une trentaine de milles, à Middleport (New York). Au fil des ans, Barden & Robeson avait fourni divers matériaux pour des projets d’aménagement immobilier de M. Tiburzi. Mis à part ce lien commercial entre leurs entreprises respectives, ils n’entretenaient pas de relations l’un avec l’autre. Ils n’étaient pas liés par le sang ou par le mariage.
+[10] Pendant la première moitié de l’année 1989, M. Gelder, M. Tiburzi et M. Biondolillo ont continué à travailler afin de conclure l’achat des actions de M. Hall et de M. Bonifacio. Après plusieurs ébauches et plusieurs reports, un désaccord quelconque est survenu. Au mois d’août 1989, M. Tiburzi et M. Gelder ont déposé une déclaration[5] dans laquelle ils demandaient, entre autres choses, d’empêcher M. Biondolillo d’acquérir toutes les actions de CBPL.
+[11] Leur désaccord avec M. Biondolillo a finalement amené 425 Ontario à participer au projet avec l’appelante. La société 425 Ontario est la société de portefeuille de M. Lacavera[6] qui, en 1989, était un avocat plaidant chez Blackadder Lacavera, le cabinet qui s’occupait des affaires de la société de l’appelante. Avant 1989, ni M. Tiburzi ni M. Gelder n’avaient traité avec M. Lacavera personnellement ou avec le cabinet Blackadder Lacavera. Lorsque M. Tiburzi et M. Gelder ont décidé d’intenter une action en justice contre M. Biondolillo, l’avocat de la société les a renvoyés à son associé, M. Lacavera. L’action en justice a en fin de compte été réglée. Toutefois, selon les conditions du règlement, en plus de procéder à l’achat des actions de M. Hall et de M. Bonifacio, M. Tiburzi et M. Gelder devaient également acheter la participation de M. Biondolillo dans la société.
+[12] La chose a réglé un problème, mais elle en a créé un autre : lorsqu’il a commencé à participer au projet avec M. Biondolillo, M. Tiburzi avait suffisamment d’argent pour acheter le tiers de la société seulement. Il avait donc fallu recruter M. Gelder pour que celui‑ci achète l’autre tiers. Compte tenu du départ de M. Biondolillo, M. Tiburzi s’est encore vu obligé de trouver un remplaçant. Dans ce but, au mois d’octobre ou de novembre 1989, M. Tiburzi et M. Gelder ont demandé à M. Lacavera s’il voulait participer. M. Lacavera venait tout juste de faire connaissance de M. Tiburzi dans le contexte de la poursuite judiciaire, mais les [traduction] « compétences exceptionnelles » de M. Tiburzi dans le domaine de la promotion immobilière, comme il les a appelées, l’impressionnaient vivement. M. Lacavera a décidé d’acheter les actions par l’entremise de la société de portefeuille, 425 Ontario.
+[13] Le 22 novembre 1989, l’appelante a été créée en vertu de statuts de fusion[7]; elle était composée d’actions ordinaires avec droit de vote et d’actions spéciales ne comportant pas de droit de vote[8]. Trente mille actions ordinaires et 15 000 actions spéciales ont été émises et inscrites dans le registre des actionnaires[9] de l’appelante aux noms de M. Tiburzi et M. Gelder, avec une inscription indiquant que 15 000 des 30 000 actions ordinaires étaient [traduction] « détenues en fiducie pour » 425 Ontario par M. Tiburzi et par M. Gelder. Ces inscriptions sont conformes à un contrat de fiducie[10] qu’ils avaient conclu avec 425 Ontario, signé ce jour‑là.
+[14] Conformément au contrat de fiducie, pour ses 15 000 actions ordinaires, 425 Ontario a avancé environ un million de dollars à M. Tiburzi et M. Gelder afin de leur permettre de payer le prix d’achat des actions. En vue de garantir le paiement du prix d’achat des actions, M. Tiburzi et M. Gelder étaient tenus de donner en gage les actions aux vendeurs; par conséquent, il a été convenu dans le contrat de fiducie que tant qu’il n’y aurait pas mainlevée du gage, les actions de 425 Ontario seraient inscrites aux noms des fiduciaires Tiburzi et Gelder.
+Analyse
+Y a‑t‑il eu acquisition du contrôle par un groupe de personnes?
+[15] La jurisprudence montre clairement que le « contrôle », tel que ce mot est employé au paragraphe 111(5), s’entend du contrôle de droit des actions avec droit de vote d’une société. Dans l’arrêt Duha Printers (Western) Ltd. v. Canada[11], la Cour suprême du Canada a résumé le critère applicable au contrôle de droit comme consistant à se demander « [...] si la partie qui détient le contrôle a, en vertu des actions qu’elle possède, la capacité d’élire la majorité des membres du conseil d’administration[12] ». Par conséquent, la première étape, en l’espèce, consiste à établir qui détenait les actions avec droit de vote.
+[16] L’appelante a la charge de prouver que la cotisation du ministre est mal fondée. Les hypothèses ci‑après énoncées, figurant au paragraphe 19 de la réponse modifiée à l’avis d’appel, étaient cruciales dans les nouvelles cotisations du ministre :
+[traduction]
+df) Au mois de mai 1989, Davis Tiburzi et Robert Gelder, en leurs qualités de mandataires d’une société devant être formée, ont conclu une entente à titre d’acquéreurs uniques, en vue d’acheter les 2/3 des actions de CBPL d’Edward Hall et de Rudy Bonifacio dans le but de mettre en valeur le terrain de CBPL en le lotissant et en y construisant des immeubles en copropriété et des maisons.
+dg) Davis Tiburzi et Robert Gelder n’ont pas réussi, à ce moment‑là, à acheter les actions du troisième actionnaire, Joseph Biondolillo.
+[...]
+dj) Le 9 novembre 1989, Davis Tiburzi et Robert Gelder ont conclu une entente à titre d’uniques acquéreurs en vue d’acheter l’autre tiers des actions de CBPL de Joseph Biondolillo et ils ont acheté ces actions le 22 novembre 1989.
+[17] Aux alinéas 19dm) et dn), le ministre a en outre émis les hypothèses suivantes :
+[traduction]
+dm) Davis Tiburzi et Robert Gelder ont conclu un contrat de fiducie avec 425243 Ontario (Ontario Ltd.), selon lequel Ontario Ltd. s’engageait à fournir un montant de 1 000 000 $CAN en vue d’aider Davis Tiburzi et Robert Gelder à acquérir les actions que le vendeur détenait dans la société CBPL et à fournir à l’appelante un fonds de roulement;
+dn) Davis Tiburzi et Robert Gelder ont convenu, en échange de l’avance du montant susmentionné par Ontario Ltd., de détenir 15 000 actions ordinaires de CBPL, représentées par un certificat, à savoir le certificat no 7, pour Ontario Ltd. et pour le compte d’Ontario Ltd.
+[18] L’appelante affirme que les alinéas 19dm) et dn) sont tout à fait conformes à la position voulant que M. Tiburzi et M. Gelder aient détenu 50 p. 100 des actions à titre de fiduciaires du propriétaire bénéficiaire, 425 Ontario.
+[19] L’avocat de l’intimée soutient que, malgré la mention du contrat de fiducie à l’alinéa 19dm), les mots [traduction] « pour [...] et pour le compte de » figurant à l’alinéa 19dn) n’indiquent pas une fiducie, mais indiquent plutôt que M. Tiburzi et M. Gelder détenaient les actions à titre de « garantie » du montant que 425 Ontario leur avait avancé afin de leur permettre d’acheter les actions. La Couronne maintient, et ce, depuis le début, que 425 Ontario ne possédait pas d’actions de l’appelante et qu’elle ne faisait pas partie du « groupe de personnes » Tiburzi‑Gelder, comme l’avait supposé le ministre.
+[20] Étant donné le libellé clair des hypothèses énoncées aux alinéas 19dm) et dn) et l’absence de preuve ou de fondement juridique quant à l’interprétation qui leur est donnée par l’intimée, je ne puis comprendre l’argument de la Couronne selon lequel les actions étaient détenues à titre de « garantie ». M. Lacavera et M. Tiburzi ont tous deux témoigné que les actions avaient été données en gage aux vendeurs, à titre de garantie, en attendant le paiement intégral du prix d’achat. Comme M. Lacavera l’a expliqué dans son témoignage, c’était la mise en gage des actions qui obligeait M. Tiburzi et M. Gelder à détenir les actions en fiducie pour 425 Ontario. M. Lacavera a en outre témoigné que, lorsque le prix d’achat des actions a finalement été payé et qu’il y a eu mainlevée du gage, les 15 000 actions ordinaires auparavant détenues en fiducie ont été transférées à 425 Ontario à son propre compte. Le transfert, indiquant 425 Ontario à titre de propriétaire inscrit des actions, a dûment été inscrit comme ayant eu lieu au mois de décembre 1996 dans le registre du transfert d’actions de l’appelante[13].
+[21] Le second volet de l’argument de l’intimée dépend de certaines inférences à à faire à l’aide des registres de la société. Pendant le contre‑interrogatoire, l’avocat de l’intimée a présenté à M. Tiburzi une résolution d’actionnaires[14] visant à élire M. Gelder et M. Lacavera à titre d’administrateurs, laquelle était uniquement signée par M. Tiburzi et M. Gelder en leurs qualités [traduction] d’« actionnaires de la société ». À la question : [traduction] « Alors, M. Gelder et vous possédiez toutes les actions et, en cette qualité, vous avez tous deux élu M. Lacavera et M. Gelder à titre d’administrateurs? » M. Tiburzi a répondu : [traduction] « Oui »[15]. Je ne puis considérer la réponse monosyllabique de M. Tiburzi à ce qui était une question de fait et de droit complexe comme un aveu selon lequel M. Gelder et lui possédaient la totalité des actions de l’appelante. M. Tiburzi n’a pas été interrogé plus à fond au sujet de la question de savoir en quelle qualité ils avaient signé la résolution. Toutefois, il reste que les actions sur lesquelles ils avaient un intérêt valable en droit et un intérêt bénéficiaire, et les actions sur lesquelles ils avaient un intérêt valable en droit à titre de fiduciaires de 425 Ontario étaient dans les deux cas inscrites d’une façon tout à fait appropriée en leurs noms. Quant aux actions qu’ils détenaient à titre de fiduciaires, le registre des actionnaires renfermait une inscription indiquant qu’elles étaient [traduction] « détenues en fiducie pour » 425 Ontario. M. Kubarakos a examiné les registres de procès‑verbaux et le contrat de fiducie lors de la vérification. Dans son témoignage, il a confirmé avoir vu de telles entrées lorsqu’il avait vérifié les dossiers de l’appelante en 1997, ce qui éliminait toute idée que les documents avaient été fabriqués après coup afin d’étayer la demande de l’appelante. L’appelante aurait pu s’éviter certains problèmes si elle avait tenu ses livres avec plus de précision, mais la norme légale est celle du caractère adéquat, et non de la perfection. Quoi qu’il en soit, la preuve de M. Kubarakos montre que de telles nuances ont eu peu d’influence sur lui, et qu’elles n’en ont peut‑être même pas eu, lorsqu’il a examiné ces documents pendant la vérification.
+[22] Considérée dans son ensemble, la preuve me convainc que M. Tiburzi et M. Gelder détenaient en fiducie, pour 425 Ontario, 50 p. 100 des 30 000 actions ordinaires avec droit de vote. Chacun était propriétaire bénéficiaire et propriétaire titulaire de 7 500 actions sur les 15 000 actions ordinaires restantes. Étant donné qu’ils n’ont pas acquis (individuellement ou ensemble) plus de 50 p. 100 des actions avec droit de vote[16] de l’appelante le 22 novembre 1999, ils n’exerçaient aucun contrôle de droit sur l’appelante et, par conséquent, ils n’ont pas acquis le « contrôle » de l’appelante en vertu du paragraphe 111(5) de la Loi.
+[23] Quant à la question de savoir si M. Tiburzi et M. Gelder constituaient un « groupe de personnes » en vertu du paragraphe 111(5), l’avocat de l’intimée a subsidiairement soutenu que, même s’il était conclu que M. Tiburzi et M. Gelder ne détenaient pas plus de 50 p. 100 des actions avec droit de vote, cette question est pertinente quant à certains droits se rattachant à leurs 15 000 actions spéciales. En vertu de l’alinéa 8c) des statuts de fusion, M. Tiburzi et M. Gelder avaient le droit de convertir leurs actions spéciales ne comportant pas de droit de vote en actions ordinaires avec droit de vote :
+[traduction] Les désignations, droits, privilèges, conditions, restrictions, limitations ou interdictions ci‑après énoncés sont rattachés aux actions spéciales :
+[...]
+c) Le droit, lorsqu’il est confirmé par une résolution de tous les détenteurs desdites actions spéciales, adoptée par écrit ou au moyen d’un vote tenu dans une assemblée desdits détenteurs d’actions spéciales convoquée à cette fin, de convertir tout ou partie desdites actions spéciales, sur une base individuelle, en actions ordinaires de la société, ces actions ordinaires étant émises en faveur du détenteur inscrit des actions spéciales, en tant qu’actions entièrement libérées et non susceptibles d’appels subséquents;
+[...]
+[24] Selon l’intimée, en acceptant de convertir leurs actions, M. Tiburzi et M. Gelder auraient pu acquérir les 2/3 des actions de l’appelante. Pour exercer un contrôle de droit sur l’appelante, il suffisait de signer une résolution des détenteurs d’actions spéciales.
+[25] Dans une situation telle que celle‑ci, où aucun actionnaire ne possède la majorité des actions, la question de savoir si un groupe de personnes exerce un contrôle de droit sur la société est une question de fait[17]. La question de savoir si deux particuliers ou plus constituent un « groupe de personnes » en vertu du paragraphe 111(5) dépendra également des faits de chaque affaire. Dans l’arrêt Silicon Graphics Ltd. v. R.[18], la Cour d’appel fédérale a conclu que, pour que les actionnaires individuels soient considérés comme un « groupe de personnes », il doit exister entre eux un « lien suffisant »; la preuve d’un tel lien pourrait inclure « [...], notamment, une entente de vote, une entente pour agir de concert ou des liens commerciaux ou familiaux »[19].
+[26] L’avocat de l’intimée a soutenu que c’est exactement un tel lien qui existait entre M. Tiburzi et M. Gelder : [traduction] « [...] ils se faisaient confiance. Ils ont travaillé en parfaite harmonie pendant bien des années jusqu’au 22 novembre, et ils avaient des intérêts communs, des intérêts commerciaux. Par conséquent, il s’agissait d’un groupe de personnes selon les décisions [Vina‑Rug] et Buckerfield (sic) »[20]. Cela reprend essentiellement ce qui est énoncé à l’alinéa 19dd) de la réponse modifiée à l’avis d’appel :
+[traduction]
+dd) Avant le printemps 1989, Davis Tiburzi et Robert Gelder étaient depuis longtemps associés et ils étaient des promoteurs immobiliers qui s’occupaient de la mise en valeur de terrains aux États‑Unis et formaient une équipe à cette fin.[21]
+[27] L’appelante a normalement la charge de réfuter les hypothèses du ministre et d’établir le bien‑fondé de sa position. Toutefois, en l’espèce, l’avocat de l’appelante a soutenu que non seulement la preuve n’étaye pas les allégations susmentionnées, mais qu’en plus le ministre ne s’est pas en fait appuyé sur l’hypothèse énoncée à l’alinéa 19dd) en établissant ses nouvelles cotisations.
+[28] Je dois dire que je suis portée à être d’accord avec l’avocat sur les deux points. En ce qui concerne en premier lieu les énoncés figurant à l’alinéa 19dd), M. Kubarakos a été interrogé à fond sur les mesures qu’il avait prises en procédant à sa vérification en 1997. Comme son témoignage, reproduit ci‑dessous, permet de le constater[22], il ne s’est pas arrêté, lors de la vérification, à la nature de la relation existant entre M. Tiburzi et M. Gelder :
+[traduction]
+Q. Le ministre ‑‑ l’énoncé de fait ici est antérieur au printemps 1989 ‑‑ il s’agit de l’alinéa 19dd). Le voyez‑vous?
+R. Oui.
+Q. Voici l’énoncé : « Avant le printemps 1989, Davis Tiburzi et Robert Gelder étaient depuis longtemps associés et ils étaient des promoteurs immobiliers qui s’occupaient de la mise en valeur de terrains aux États‑Unis et formaient une équipe à cette fin. » Et vous ne vous y êtes pas du tout arrêté, n’est‑ce pas? Lorsque vous avez effectué votre vérification, cette question ne se posait pas?
+R. Non.
+Q. Vous n’avez jamais considéré ces hommes comme étant depuis longtemps associés.
+R. C’est ce que M. Gelder m’a dit, qu’il connaissait M. Tiburzi depuis quinze, vingt ans et qu’ils avaient déjà fait des affaires l’un avec l’autre. Je ne sais pas de quelles affaires il s’agissait, mais à ce moment‑là, ce genre de renseignement n’était quant à moi pas pertinent.
+Q. Vous n’y songiez pas?
+R. À mes yeux, cela n’était pas du tout important.
+Q. D’accord. Estimiez‑vous que M. Gelder était un promoteur immobilier? Vous saviez qu’il exploitait une entreprise de fourniture de matériaux, n’est‑ce pas?
+R. Oui, c’est ce qu’il m’a dit.
+Q. Et vous ne croyiez pas que M. Tiburzi et M. Gelder formaient une équipe quelconque, n’est‑ce pas?
+R. Ils avaient déjà fait des affaires l’un avec l’autre.
+Q. Les considériez‑vous comme formant en quelque sorte une équipe? Vous ne vous y êtes pas arrêté en 1997 lorsque vous avez effectué cette vérification, n’est‑ce pas? N’est‑ce pas?
+R. Je dirai encore une fois qu’ils faisaient des affaires l’un avec l’autre. La question de savoir s’ils formaient une équipe, cela n’était pas pertinent à ce moment‑là.
+Q. Vous ne vous y êtes pas arrêté en établissant votre nouvelle cotisation?
+R. Non. Non.
+[29] Les obligations du ministre, lorsqu’il allègue l’existence d’hypothèses, ont été examinées en détail par le juge Rip dans la décision Anchor Pointe Energy Ltd. c. Canada[23]. En confirmant la décision du juge Rip de radier les hypothèses que le ministre n’avait pas réellement émises, la Cour d’appel fédérale a déclaré ce qui suit :
+Alléguer l’existence d’hypothèses confère comme avantage important à la Couronne de renverser le fardeau de preuve, de sorte que le contribuable doive réfuter les hypothèses du ministre. Les faits allégués comme hypothèses doivent être précis et exacts afin que le contribuable sache bien clairement ce qu’il lui faudra prouver. Il n’y a aucune raison pour que l’exigence de précision et d’exactitude ne s’applique pas à l’énoncé exact par la Couronne des circonstances ayant donné lieu aux hypothèses, soit l’établissement d’une cotisation, l’établissement d’une nouvelle cotisation ou la ratification d’une cotisation. Pour ces motifs, c’est à juste titre que le juge Rip a conclu que les alinéas 10q), r) et z) étaient inexacts et qu’il fallait les supprimer de la réponse[24].
+[30] Étant donné que le ministre n’a pas émis d’hypothèse à l’égard de l’énoncé figurant à l’alinéa 19dd), l’appelante est libérée de la charge qui lui incomberait par ailleurs de réfuter de telles allégations. Toutefois, même sans l’avantage que comporte le renversement du fardeau de la preuve, je suis convaincue que l’appelante a établi qu’il n’y avait pas de « lien suffisant » entre M. Tiburzi et M. Gelder, de façon à faire de ces particuliers un « groupe de personnes ». La preuve, si elle est analysée conformément aux critères énoncés dans l’arrêt Silicon Graphics, n’établit pas l’existence d’un « lien suffisant » entre M. Tiburzi et M. Gelder amenant ceux‑ci à agir ensemble afin de convertir leurs actions spéciales en actions ordinaires, et d’acquérir la majorité des actions avec droit de vote de la société :
+1. Liens familiaux : Je retiens la preuve non contestée de M. Tiburzi selon laquelle il n’existait pas de liens familiaux entre M. Gelder et lui. Ces deux hommes n’entretenaient pas non plus de relations sociales l’un avec l’autre.
+2. Liens commerciaux : M. Gelder n’était pas un promoteur immobilier. Il était fournisseur de matériaux de construction. Les affaires qu’il avait pu faire par le passé avec M. Tiburzi sur le plan commercial étaient limitées au fait que son entreprise, Barden & Robeson, avait à l’occasion fourni certains matériaux pour les projets d’aménagement immobilier de M. Tiburzi. Aucun élément de preuve ne montrait que M. Tiburzi et M. Gelder traitaient personnellement l’un avec l’autre pendant ces transactions, ou dans quelle mesure, le cas échéant, les affaires qu’ils faisaient avaient engendré le genre de relation qui pourrait amener l’un d’eux à être capable d’influencer l’autre pour qu’il exerce son droit de vote conformément à ses voeux. En réalité, le fait que M. Gelder n’était que l’un de quatre ou cinq participants possibles avec qui M. Tiburzi avait communiqué au sujet de sa participation à l’achat d’une partie des actions Hall‑Bonifacio milite à l’encontre de cette conclusion.
+3. Entente en vue d’agir de concert : M. Kubarakos a témoigné que les allégations de la Couronne selon lesquelles M. Tiburzi et M. Gelder avaient [traduction] « agi de concert » étaient fondées sur le fait qu’ils étaient signataires de la même convention d’achat d’actions. L’avocat de l’intimée a soutenu que M. Tiburzi et M. Gelder avaient des intérêts commerciaux communs[25] dans l’appelante et que cela voulait dire qu’ils [traduction] « agissaient de concert ».
+Dans la décision Lenester Sales Ltd. c. La Reine[26], le juge en chef adjoint Bowman (avant qu’il devienne juge en chef) s’est demandé si certains franchisés agissaient « sans lien de dépendance ». En rejetant la prétention du ministre selon laquelle le fait qu’ils voulaient tous assurer le succès de l’entreprise était suffisant pour établir qu’ils « agissaient de concert », le juge a exprimé l’opinion suivante :
+[...] Dire que chaque fois que deux hommes d’affaires indépendants poursuivant leurs propres intérêts commerciaux collaborent pour atteindre un objectif commercial qui leur apporte des avantages mutuels signifie qu’ils « agissent de concert » et ont, par conséquent, un lien de dépendance signifierait que toute relation commerciale comporterait toujours un lien de dépendance[27].
+De même, M. Tiburzi et M. Gelder partageaient l’objectif commercial mutuellement avantageux de voir leurs projets se réaliser, mais chacun protégeait ses propres intérêts en ce qui concerne l’appelante – la preuve est bien loin d’établir qu’ils « agissaient de concert », de façon à constituer un « groupe de personnes » selon le critère énoncé dans l’arrêt Silicon Graphics.
+4. Convention relative au droit de vote : Je retiens la preuve non contestée selon laquelle M. Tiburzi n’avait pas conclu de convention relative au droit de vote avec M. Gelder, qu’il ne connaissait aucune disposition, dans les règlements de l’appelante, au sujet de la façon dont le droit de vote se rattachant à des actions détenues en commun devait être exercé, ou au sujet de ce qui arrivait en cas d’égalité des voix. Je retiens également la preuve de M. Tiburzi selon laquelle il n’était pas au courant des pouvoirs relatifs à la conversion des actions conférés à l’alinéa 8c) des statuts de fusion. Son témoignage ne permet pas de croire que même s’il avait été au courant de l’existence de ces pouvoirs, il aurait voulu les exercer ou il aurait pu amener M. Gelder à consentir à les exercer.
+[31] La liste des éléments de preuve énoncée dans l’arrêt Silicon Graphics n’est pas destinée à être exhaustive. En tenant compte de l’existence d’un « lien » entre M. Tiburzi et M. Gelder, je songe également au contrat de fiducie et à l’effet de l’obligation fiduciaire qui est imposée à ceux‑ci. Un acte de fiducie est l’une des exceptions à la règle générale voulant que l’on ne puisse pas tenir compte des documents externes en déterminant si un actionnaire ou un groupe d’actionnaires possède le contrôle de droit d’une société[28]. Dans l’arrêt Duha Printers, précité, le juge Iacobucci a expliqué ce sur quoi cette distinction était fondée :
+[...] Une fiducie impose au fiduciaire l’obligation d’agir conformément aux dispositions de l’acte de fiducie et au profit du bénéficiaire. Autrement dit, le fiduciaire n’est pas libre d’agir autrement qu’en conformité avec l’acte de fiducie et, si cet acte de fiducie impose des restrictions à sa capacité d’exercer les droits de vote rattachés aux actions, alors il faut prendre ces restrictions en considération dans l’analyse du contrôle de jure. Par contre, toute restriction qui pourrait être imposée par un document externe est une restriction à laquelle les actionnaires ont consenti librement et n’est pas du tout incompatible avec leur pouvoir de jure de contrôler la société. En d’autres termes, les restrictions imposées aux droits de vote des fiduciaires doivent être considérées comme une restriction de leur capacité d’agir librement dans les circonstances. Aucune restriction de cette nature ne vient entraver l’exercice du contrôle de jure par l’actionnaire ordinaire, même si une convention externe vient restreindre le contrôle réel ou de facto[29].
+En l’espèce, le contrat de fiducie ne prévoit rien au sujet de l’exercice du droit de vote se rattachant aux actions. Néanmoins, son existence même constitue un autre facteur militant à l’encontre de l’hypothèse selon laquelle M. Tiburzi et M. Gelder ont convenu d’exercer leur droit de vote ensemble en vue d’exercer les droits de conversion prévus à l’alinéa 8c). Toute possibilité de le faire a été entravée par les obligations fiduciaires qu’ils avaient envers 425 Ontario aux termes du contrat de fiducie.
+[32] Pour les motifs énoncés, je conclus qu’il n’y a jamais eu, entre M. Tiburzi et M. Gelder, de « lien suffisant » entraînant la constitution d’un « groupe de personnes » en vertu du paragraphe 111(5) de la Loi.
+L’entreprise exploitée était‑elle la même?
+[33] Enfin, en établissant les nouvelles cotisations à l’égard de l’appelante, le ministre a également supposé qu’après le 22 novembre 1989, l’appelante exploitait une entreprise différente de celle de CBPL[30]. L’avocat de l’intimée a soutenu qu’avant le 22 novembre 1989, CBPL exploitait un parc d’attractions; après cette date, l’appelante s’est lancée dans une nouvelle entreprise, la promotion immobilière.
+[34] À l’appui de la position de l’appelante selon laquelle la même entreprise a toujours été exploitée, l’avocat de l’appelante a mentionné la décision Canadian Dredge and Dock Company Limited v. The Minister of National Revenue[31]. Dans cette affaire, la Commission de révision de l’impôt se demandait s’il y avait eu un [traduction] « changement dans l’entreprise » lorsque le contribuable avait acquis l’entreprise de construction maritime de son prédécesseur. Le ministre était d’avis que le contribuable avait cessé d’exercer ses activités de construction maritime ou qu’il les avait tellement modifiées qu’il n’était plus possible de dire qu’il exploitait la même entreprise. Les faits, comme en l’espèce, sont passablement complexes, mais le contribuable avait, entre autres choses, réduit le nombre d’employés, il avait installé son bureau administratif à une nouvelle adresse et il avait vendu une partie de ses actifs.
+[35] En décidant de la façon d’aborder la question, le président Cardin (tel était alors son titre) a dit ce qui suit : [traduction] « [...] à mon avis, il faut faire une distinction entre l’“ entreprise ” d’une société et les diverses activités par lesquelles la société exploite son entreprise. »[32] Il a ajouté ce qui suit :
+[traduction] Il importe également de tenir compte de la nature de l’entreprise de l’appelante. La notion d’« entreprise » donne à entendre l’existence de plusieurs éléments qui sont communs à toutes les entreprises, [...] mais il existe d’innombrables facteurs précis qui diffèrent d’une entreprise à l’autre et dont on ne saurait omettre de tenir compte en déterminant la question qui nous occupe.[33]
+Après avoir minutieusement examiné la preuve relative aux activités commerciales, la Commission de révision de l’impôt a conclu que l’entreprise du contribuable, après l’acquisition, était la même qu’au cours des années où les pertes avaient été subies.
+[36] Si j’examine la preuve présentée en l’espèce, je conclus que l’entreprise (avant et après la fusion) consistait essentiellement à exploiter un emplacement récréatif. Par le passé, CBPL dépendait des plaisirs qu’offrait un parc d’attractions afin de générer un revenu d’entreprise. Toutefois, les temps avaient changé, et avec le temps, les habitudes de la clientèle sur le plan des loisirs. M. Biondolillo s’est rendu compte de cette situation, à un moment donné au milieu des années 1980, et il a commencé à réfléchir à des façons de maintenir et d’accroître l’intérêt de ses clients dans l’emplacement, situé au bord d’un lac. Un port de plaisance et des immeubles en copropriété auraient peut‑être plus d’attrait qu’une grande roue et une salle de danse. M. Biondolillo a consulté M. Tiburzi. La réaction de M. Tiburzi a été favorable – et en fait si favorable qu’il a décidé de participer au projet. Plusieurs mois avant la date de fusion, M. Tiburzi avait commencé à participer à la gestion du parc d’attractions tout en étudiant les exigences sur le plan de l’aménagement du terrain, et il a investi environ 700 000 $ dans les deux initiatives[34]. La plupart des manèges ont été enlevés et vendus à l’encan, mais le parc d’attractions a été maintenu à d’autres égards : le gérant a continué à occuper son poste et la salle de danse et un bar ont continué à être exploités pendant un certain temps après la fusion. Par contre, lors de la présente audience, les projets antérieurs à la fusion n’avaient pas tous été réalisés; les immeubles en copropriété avaient été construits comme on l’avait prévu, mais les travaux d’aménagement du port de plaisance n’étaient pas encore achevés. Le nom « Crystal Beach Park » sous lequel l’emplacement était connu avant la fusion a été conservé par l’appelante et il a continué à l’être après la fusion.
+[37] La preuve d’un tel chevauchement entre l’entreprise du prédécesseur et l’entreprise du contribuable était l’un des éléments pris en compte dans la décision Canadian Dredge and Dock. En l’espèce, au lieu de montrer que l’appelante avait cessé d’exploiter l’entreprise de son prédécesseur, les changements qui ont été effectués démontrent les efforts que l’appelante a déployés pour améliorer les aspects de l’entreprise qui avaient connu du succès tout en améliorant ceux qui n’en avaient pas connu. L’appelante a cherché à tirer parti de la réputation de l’emplacement en tant que lieu de loisirs tout en améliorant les installations récréatives afin de maintenir et d’accroître son attrait. Somme toute, je suis convaincue que l’entreprise de l’appelante, après la fusion, était essentiellement la même qu’elle l’avait été durant les années où des pertes avaient été subies par CBPL. Comme l’avocat de l’appelante l’a dit, l’entreprise a toujours visé à [traduction] « exploiter le potentiel de production de revenu de ce fameux vieil emplacement récréatif »[35].
+Conclusion
+[38] Les appels sont accueillis avec dépens et les nouvelles cotisations sont déférées au ministre pour nouvel examen et nouvelle cotisation selon les présents motifs de jugement, compte tenu de ce qui est ci‑après énoncé :
+1. M. Tiburzi et M. Gelder étaient chacun propriétaire en titre et propriétaire bénéficiaire de 7 500 actions ordinaires de l’appelante;
+2. M. Tiburzi et M. Gelder détenaient 15 000 actions ordinaires en fiducie pour 425243 Ontario Ltd., propriétaire bénéficiaire des actions, et pour le compte de celle‑ci;
+3. M. Tiburzi et M. Gelder n’avaient pas le contrôle de droit ou de fait de l’appelante;
+4. M. Tiburzi et M. Gelder n’avaient pas acquis le contrôle de l’appelante en vertu du paragraphe 111(5) de la Loi;
+5. M. Tiburzi et M. Gelder n’étaient pas un « groupe de personnes » en vertu du paragraphe 111(5) de la Loi;
+6. la même entreprise était exploitée avant et après le 22 novembre 1989.
+Compte tenu des remarques qui précèdent, il n’est pas nécessaire d’examiner les autres points litigieux.
+Signé à Ottawa, Canada, ce 2e jour de mai 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 10 jour de mars 2008.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2006CCI183
+No DU DOSSIER DE LA COUR : 2001‑970(IT)G
+INTITULÉ : Crystal Beach Park Limited
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : St. Catharines (Ontario)
+DATE DE L’AUDIENCE : Le 31 octobre et les 1er et 2 novembre 2005
+MOTIFS DU JUGEMENT : L’honorable juge G. Sheridan
+DATE DU JUGEMENT : Le 2 mai 2006
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Richard G. Fitzsimmons
+Avocat de l’intimée :
+Me Shatru Ghan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Richard G. Fitzsimmons
+Cabinet : Fitzsimmons & Company
+Toronto (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Étant donné que l’appelante est connue sous le même nom que l’une des sociétés existant avant la fusion, l’appelante « Crystal Beach Park Limited » est désignée dans les présents motifs comme étant « l’appelante » et la société qui existait avant la fusion est désignée sous le nom de « CBPL ».
+[2] Le montant de cette déduction n’est pas en litige.
+[3] Les parties ont convenu que les quatre questions suivantes sont en litige, à savoir :
+1) si le ministre a commis une erreur en établissant une nouvelle cotisation à l’égard de l’année d’imposition 1993 de l’appelante;
+2) si le ministre a commis une erreur en refusant les pertes autres qu’une perte en capital que l’appelante avait déduites dans le calcul de son revenu imposable pour les années d’imposition en question;
+3) si le ministre a commis une erreur en imposant des pénalités;
+4) si le ministre a commis une erreur dans le calcul des montants des pénalités et des intérêts.
+[4] Réponse modifiée à l’avis d’appel.
+[5] Pièce A‑1‑10.
+[6] Depuis 1998, « Monsieur le juge Lacavera », juge à la Cour de justice de l’Ontario, mais désigné dans les présents motifs du jugement sous le nom de « M. Lacavera » en vue d’indiquer exactement sa qualité d’avocat praticien pendant la période ici pertinente.
+[7] Pièce A‑1‑15.
+[8] Pièce A‑1‑15, alinéa 8d) des statuts de fusion.
+[9] Pièce A‑1‑17.
+[10] Pièce A‑1‑14.
+[11] [1998] 3 C.T.C. 303 (C.S.C.).
+[12] Précité, paragraphe 36.
+[13] Pièce A‑1‑17.
+[14] Pièce A‑1‑18.
+[15] Transcription, page 136, lignes 13 à 17.
+[16] Vina‑Rug (Canada) Ltd. v. M.N.R., 68 DTC 5021, page 5023 (C.S.C.).
+[17] Yardley Plastics of Canada Limited v. M.N.R., 66 DTC 5183, page 5188 (C. de l’É.).
+[18] [2002] 3 C.T.C. 527, paragraphes 35 et 36.
+[19] Précité, paragraphe 36.
+[20] Transcription, page 624, lignes 9 à 14.
+[21] Des allégations similaires figurent au paragraphe 4 de la réponse modifiée à l’avis d’appel.
+[22] Transcription, page 470, ligne 15, jusqu’à la page 472, ligne 9.
+[23] [2002] A.C.I. no 502, paragraphes 24 à 26.
+[24] Anchor Pointe Energy Ltd. c. Canada, 2003 C.A.F. 294, paragraphe 23; Bowens v. Canada, [1996] 2 C.T.C. 120 (C.A.F.); Pollock v. Canada (M.N.R.), (1993) 3 C.C.P.B. 307 (C.A.F.).
+[25] Voir note de bas de page 20.
+[26] [2003] A.C.I. no 451.
+[27] Précitée, paragraphe 35.
+[28] Paragraphe 48; The Queen v. Lusita Holdings Ltd., 84 DTC 6346 (C.A.F.).
+[29] Paragraphe 49.
+[30] Alinéas 19t), u) et v) de la réponse modifiée à l’avis d’appel.
+[31] 81 DTC 154 (Commission de révision de l’impôt).
+[32] Précitée, page 157.
+[33] Précitée, page 157.
+[34] M. Tiburzi, qui est maintenant plus âgé et plus avisé, a dit d’un ton songeur à l’audience que cette approche quant au financement entrepreneurial était peut‑être plutôt imprudente.
+[35] Transcription, page 598, lignes 2 à 4.

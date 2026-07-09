@@ -1,0 +1,168 @@
+Title: Trojan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22421/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-2-22421-trojan-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-01-05
+
+# Trojan v. The Queen
+
+- Citation: 2006 TCC 2
+- Decision date: 2006-01-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2278, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Trojan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-05
+Neutral citation
+2006 TCC 2
+File numbers
+2004-4408(IT)I
+Judges and Taxing Officers
+Michael J. Bonner
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4408(IT)I
+BETWEEN:
+DARWIN M. TROJAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 5, 2005, at Toronto, Ontario
+Before: The Honourable Justice Michael J. Bonner
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jonathon Penney
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments under the Income Tax Act for the 1991, 1992, 1993, 1994 and 1995 taxation years are allowed, with costs if any, and the reassessments are vacated.
+Signed at Toronto, Ontario, this 5th day of January 2006.
+Michael J. Bonner
+Bonner, J.
+Citation: 2006TCC2
+Date: 20060105
+Docket: 2004-4408(IT)I
+BETWEEN:
+DARWIN M. TROJAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bonner, J.
+[1] This is an appeal from reassessments of income tax for the 1991, 1992, 1993, 1994 and 1995 taxation years. The appeal was brought under the Informal Procedure.
+[2] The Respondent pleads in the Reply to the Notice of Appeal that:
+"In computing income for the 1991, 1992, 1993 and 1995 taxation years, the Appellant claimed business losses in the amounts of $20,161.00, $24,757.00, $24,260.00 and $16,117.00 respectively, and claimed expenses for an office in the home in the amounts of $6,922.00, $6,936.00, $8,766.00 and $Nil, respectively. In computing income for the 1994 taxation year, the Appellant claimed a business loss in the amount of $21,969.00, expenses for an office in the home of $5,710.00 plus a rental loss in the amount of $5,653.00."
+[3] The Minister of National Revenue (the "Minister") reassessed tax for the 1991, 1992 and 1993 taxation years. He disallowed the business losses and home office expenses and imposed penalties under subsection 163(2) of the Income Tax Act (the "Act").
+[4] The Minister reassessed tax for the 1994 taxation year. He disallowed the business loss, the rental loss and the home office expenses. He imposed a penalty under subsection 163(2) of the Act.
+[5] The Minister reassessed tax for the 1995 taxation year. He disallowed the business losses (from two sources) and imposed a penalty under subsection 163(2) of the Act.
+[6] This appeal is brought from those reassessments. At the hearing counsel for the Respondent conceded that the Appellant is entitled to deduct the home office expenses as claimed for the 1991 to 1994 taxation years.
+[7] Neither the notices of the initial assessments nor the notices of the reassessments were produced at the hearing. The dates of the reassessments were not revealed. However, the Respondent pleaded the following in paragraph 13 of the Reply to the Notice of Appeal:
+"13. In filing his income tax returns for the 1991, 1992, 1993, 1994 and 1995 taxation years, the Appellant misrepresented his total income by claiming the Disallowed Business Expenses, the Disallowed Rental Expenses and the Disallowed Office in Home Expenses, which had the effect of underreporting the Appellant's income for those years. The misrepresentations were attributable to wilful default, or alternatively to carelessness or neglect."
+He pleaded the following issue in paragraph 14 of the Reply to the Notice of Appeal:
+"14. ...whether or not the Minister properly reassessed the 1991, 1992, 1993, 1994 and 1995 taxation years beyond the normal reassessment period pursuant to subsection 152(4) of the Act; and ..."
+[8] Subparagraph 152(4)(a)(i) of the Act provides:
+"(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer's normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+..."
+[9] The classic statement of the law with respect to the burden of proof in appeals from reassessments made after the expiry of the taxpayer's normal reassessment period is to be found in the following passage from the judgment of Cameron J. in M.N.R. v. M. Taylor, [1961] C.T.C. 211 at 214:
+"After giving the matter the most careful consideration, I have come to the conclusion that in every appeal, whether to the Tax Appeal Board or to this Court, regarding a re-assessment made after the statutory period of limitation has expired and which is based on fraud or misrepresentation, the burden of proof lies on the Minister to first establish to the satisfaction of the Court that the taxpayer (or person filing the return) has "made any misrepresentation or committed any fraud in filing the return or in supplying any information under this Act" unless the taxpayer in the pleadings or in his Notice of Appeal (or, if he be a respondent in this Court, in his reply to the Notice of Appeal) or at the hearing of the appeal has admitted such misrepresentation or fraud. In reassessing after the lapse of the statutory period for so doing, the Minister must be taken to have alleged misrepresentation or fraud and, if so, he must prove it." (Emphasis added)
+[10]The Appellant did not make any reference in his Notice of Appeal to the question whether the reassessments were statute-barred. The rule laid down in Taylor(supra) that the Respondent must "first establish" misrepresentation appears, at least at first blush, to have been modified by the decision of the Federal Court of Appeal in Naguib v. Canada 2004 FCA 40 where Sexton J.A. stated:
+"...But the Minister, like any other litigant, is never required to reply to an allegation that has not been made and, however you read the taxpayer's notice of appeal, it contains no allegation that the notice of assessment was void for being out of time."
+That statement was made, however, in the context of a case in which the taxpayer raised, for the first time, at the appeal to the Court of Appeal, the failure of the Respondent to lead evidence proving that subparagraph 152(4)(a)(i) was satisfied. Naguib is distinguishable from the present situation in that the Respondent accepted from the outset that the burden was on him to establish fraud or misrepresentation. The Respondent has, in effect, waived the Appellant's failure to plead that he relies on subparagraph 152(4)(a)(i) and, after all, section 18.15(1) of the Tax Court of Canada Act affords considerable latitude to taxpayers who elect the informal procedure. I consider paragraph 152(4)(a) to be in issue.
+[11]It is settled law that, where fraud or misrepresentation is alleged, full particulars must be set out in the pleadings. Three essential elements must be pleaded:
+(i) the representation;
+(ii) the fact that it was made; and
+(iii) its falsity.
+[12]Here the case proceeded to trial on a Reply that fell far short of any reasonable standard. The particulars of the supposedly false representations giving rise to the misrepresentations of total income as alleged in paragraph 13 of the Reply were not set out. The Respondent's failure to properly plead particulars placed the Appellant at a considerable disadvantage in preparing to address the allegations made against him.
+[13]The only hint regarding the detail of the alleged misrepresentations is to be found in paragraph 11 of the Reply and, in particular, paragraph (h). The pleaded assumptions of fact relating to income from business are:
+(a) on or about June 16, 1992, the Appellant registered Trojan Environmental Consultants ("Trojan Environmental") with the Ministry of Consumer and Commercial relations;
+(b) in the 1991, 1992, 1993, 1994 and 1995 taxation years, the Appellant reported income and claimed expenses with respect to Trojan Environmental as follows:
+Year Income Expenses
+1991 $Nil $20,161.00
+1992 $3,577.00 $28,328.00
+1993 $1,780.00 $26,041.00
+1994 $1,810.00 $23,799.00
+1995 $1,825.00 $ 5,445.00;
+(c) in October 1995, the Appellant ceased the operation of the Business in [sic] and in March of 1995 began a business known as Landcrusher Off-Road ("Landcrusher");
+(d) Landcrusher was a partnership of which the Appellant owned 50%;
+(e) in 1995 Landcrusher reported income of $545.00 and claimed expenses of $19,606.00, resulting in a loss of $19,061.00, of which the Appellant's 50% share was $9,530.00;
+(f) the books and records for Trojan Environmental and Landcrusher were fragmentary and incomplete;
+(g) it was found that the receipts provided by the Appellant in support of the business expenses for Trojan Environmental and Landcrusher were mainly for personal expenditures;
+(h) in the 1991, 1992, 1993, 1994 and 1995 taxation years, the claimed business expenses for Trojan Environmental and Landcrusher (the "Disallowed Business Expenses") were not made or incurred, or if made or incurred, were not made or incurred for the purpose of gaining or producing income from a business or property;
+(i) in the 1991, 1992, 1993, 1994 and 1995 taxation years, the Disallowed Business Expenses were personal or living expenses of the Appellant;
+[14]The pleaded assumptions relating to rental income are:
+(j) in 1994, the Appellant reported rental income of $1,800.00, claimed rental expenses of $7,453.00 and claimed a rental loss of $5,635.00 with respect to 31 Carruthers Crescent, Barrie, Ontario ("31 Carruthers Crescent");
+(k) al all material times, 31 Carruthers Crescent was the Appellant's principal residence;
+(l) in 1994, the Appellant claimed to have rented a portion of 31 Carruthers Crescentto his sister-in-law for eight months of that year;
+(m) the Appellant claimed 40.6% of the costs of maintaining 31 Carruthers Crescentas rental expenses;
+(n) in the 1994 taxation year, the Appellant did not have a rental operation;
+(o) in the 1994 taxation year, the Appellant incurred rental expenses with respect to the rental operation in the amount of $Nil;
+(p) in the 1994 taxation year, the claimed rental expenses with respect to 31 Carruthers Crescent (the "Disallowed Rental Expenses") were not made or incurred, or if made or incurred, were not made or incurred for the purpose of gaining or producing income from a business or property;
+Paragraphs (n) and (p) in particular, point in a loose and general way to the fraud or misrepresentation in relation to rental income which the Respondent hoped to prove.
+[15]Thus the Respondent's pleading amounts to an assertion that all of the business and rental expenses claimed fell into one or the other of two categories:
+a) those not made at all; and
+b) those made in fact but not for an income earning purpose.
+The pleading does not attempt to segregate the expenses claimed into the two categories.
+[16]The Respondent called one witness, James Donald Kerr, an auditor and investigator employed by the Canada Revenue Agency.
+[17]Mr. Kerr produced photocopies of statements of income and expense of Trojan Environmental Consultants ("TEC") for the years 1992, 1993, 1994 and 1995. He produced similar statements for Landcrusher Off-Road for the period March 1, 1995 to December 31, 1995. Those statements formed part of the Appellant's income tax returns for those years. The rest of the tax returns for those years were not produced.
+[18]Mr. Kerr did not produce a similar statement for 1991 with a view to establishing the representations made by the Appellant in his 1991 tax return with regard to business loss and the elements of the loss. Instead he produced a computer printout of a Revenue Canada data sheet which was said to show the figures found in the Appellant's 1991 return on a line by line basis. The printout, Exhibit R-8, is cryptic. It is of little assistance in establishing details of representations or misrepresentations made by the Appellant in his return. About all that it seems to indicate is that net business income as reported was a loss of $31,693. This document is quite unsatisfactory as evidence of representations that the Appellant is supposed to have made regarding the 1991 business expenses.
+[19]Mr. Kerr testified that the Appellant submitted documents to him in support of the TEC expenses claimed for 1992, 1993 and 1994. It was Mr. Kerr's analysis of these documents which led the Minister to conclude that business expenses claimed by the Appellant for the three years had not been incurred at all.
+[20]Among the documents produced by the Appellant in support of his 1992 expense claims were numbered receipts from two different vendors. One, from a firm called Copies for Less, was numbered 12050. A second from another firm, Simcoe Used Office Supplies, was numbered 12021. Mr, Kerr stated that he checked with Grand & Toy and learned that they sell such receipt books in series of fifty. This information appears to have led Mr. Kerr to assume that both receipts came from the same receipt book and were not issued by the vendors named. Mr. Kerr indicated that other receipts numbered between 12001 and 12050 were also expensed by the Appellant.
+[21]Mr. Kerr was not qualified to give expert evidence. Moreover, what he was told by some unknown person at Grand & Toy is hearsay and not reliable evidence of the truth of the statements made by a person or persons unknown. I do not accept Mr. Kerr's conclusions based on the numbering of receipt books. It was not suggested that the Grand & Toy person to whom Mr. Kerr spoke was unavailable to testify.
+[22]Mr. Kerr said that he tried to verify the existence of Copies for Less and Simcoe Used Office Supplies and could not find any indication that they existed. He said he checked a business directory, a GST computer database and a telephone directory. He gave no evidence of the scope, the geographic reach of the databases examined or time period covered by them. The evidence is incomplete and is not, in my view, sufficient to establish on the balance of probabilities that the businesses named on the receipts did not exist at the time when the receipts were supposed to have been issued.
+[23]Mr. Kerr stated that the first thing that made him take a second look at the invoices was the typewriting found on some of them. He said that the type on a receipt which was apparently issued by James Business Equipment in February of 1992 matched the type on the 1994 and 1995 income tax returns of the Appellant. As I see it, that statement is an expression of opinion by a witness who was not shown to possess expertise in the identification of the origin of documents by means of analysis of typewriting on those documents. The work done by Mr. Kerr is not the proper province of amateur sleuths. Mr. Kerr's analysis of typewriter imprints cannot be considered reliable.
+[24]Next Mr. Kerr produced copies of a large group of receipts which he said had been loaned to him by the Appellant in support of claims for meal and entertainment expenses. Some of the receipts relate to attendance at meetings of the Ontario Municipal Health and Safety Representatives Association ("OMHSRA"). Mr. Kerr testified that he checked with OMHSRA to determine whether the persons who apparently signed the receipts were members of that organization and was told that they were not. I cannot conclude that those receipts were fraudulent concoctions based on hearsay evidence the reliability of which cannot be tested. I note that counsel for the Respondent did not suggest that the OMHSRA representative consulted by Mr. Kerr was unavailable to testify. Evidence of much higher quality than this is required to prove a serious matter such as fraud.
+[25]Mr. Kerr challenged further receipts loaned to him by the Appellant as support for TEC expenses. In this case the receipts were issued under the name "Ontario Health & Safety Consultants". Mr. Kerr searched for an organization of that name in a Revenue database, an unnamed business directory and a telephone directory and was unable to find that the organization existed. There was no evidence to indicate the geographical scope of the search, the time period covered by the search or the scope of the database itself. I am not persuaded that the search was thorough enough to warrant a conclusion that Ontario Health & Safety Consultants did not exist at the time period covered by the receipts. It is essential to the reliability of evidence of results produced by searches of databases that the scope of the databases be established.
+[26]Mr. Kerr rejected claims for the cost of gifts. The expenditures were supported by the production of cash register tapes. Mr. Kerr noted that neither the donee nor the business purpose underlying the gifts was disclosed by cash register tapes. He added "And they were suspicious in that all seemed to occur around Christmas". Suspicion of fraud is not proof of it. Mr. Kerr seems to have inverted the onus. As already noted, it is incumbent on the Respondent, not the Appellant, to establish fraud or misrepresentation.
+[27]A similar attempt to invert the burden of proof appears to underlie Mr. Kerr's rejection of other claims, for example, claims to deduct lab fees listed on TEC letterhead at Exhibit R-20, receipts for the distribution of flyers also shown at Exhibit R-20 and the claim for auto repair expense at Exhibit R-22. It is up to the Respondent to show that outlays represented as having been made for business purposes were either not made or, if made, were for non-business purposes. The evidence does not establish that fact.
+[28]Mr. Kerr testified that only one invoice that was borrowed from the Appellant could be substantiated as legitimate. This hardly proves misrepresentation. It would have been more to the point if Mr. Kerr had been able to demonstrate, by means of credible evidence, that all but one of the invoices borrowed from the Appellant were illegitimate. This he did not do. I repeat, the onus was on the Respondent to establish that the Minister satisfied the requirements of subparagraph 152(4)(a)(i).
+[29]The bulk of the evidence regarding 1993 fraud or misrepresentation was inadequate for one or more of the reasons which led me to reject the 1992 evidence. In some instances, the Respondent's position rested on inversion of the onus. In other cases, the evidence was hearsay. I refer to the evidence regarding statements made by third parties about the identity of the persons who apparently signed receipts relied on by the Appellant. Part of the 1993 evidence related to typewriter impressions in respect of which Mr. Kerr was not qualified to express an opinion. Once again for 1993 Mr. Kerr relied on searches of databases not shown to be likely to contain listings of the relevant type.
+[30]Some of the evidence regarding fraud or misrepresentation for 1993 was weak for new and different reasons. For example, Mr. Kerr disallowed a deduction for salary paid to the Appellant's wife. He did so on the ground that Mrs. Trojan did not declare the salary in her return of income. Her failure to declare the salary does not support an inference that the salary was not paid. Mrs. Trojan was not called to testify and it was not suggested that she was unavailable.
+[31]The Respondent's evidence of fraud was somewhat stronger in the case of two tickets to a rock concert which were submitted in support of a 1994 claim to deduct entertainment expense. The tickets were marked "comp". That mark was assumed by Mr. Kerr to mean that they had been issued for no consideration. The tickets as originally printed appear to have been marked $0.00 where one would expect the price to be found. However a line similar to a 1 was to be found between the $ sign and the first zero on both tickets. A deduction of $20.00 was claimed in the computation of the Appellant's 1994 TEC loss as set out on his return. The Respondent seeks to raise an inference that a 1 was added to the tickets with a view to establishing that $10.00 was paid for each ticket whereas the Appellant received them for nothing.
+[32]On cross-examination the Appellant denied adding the 1 to the tickets but could not explain how it got there. The Appellant stated that he did not recall attending the concert. If the 1 was added while the tickets were in the possession of the Appellant, a tolerably clear case of misrepresentation has been established. However, the evidence does not show who altered the tickets or when it happened.
+[33]The Respondent's case rests in large part on documents supplied by the Appellant to Revenue officials some time after the returns of income were filed. None of those documents was produced at the hearing. Photocopies were used instead. The originals have disappeared. The Appellant says that the originals were never returned to him. Mr. Kerr says that they were returned. He bases this assertion not on personal knowledge but rather on the fact that a Revenue's file shows that the Appellant's material was turned over to a former employee of Revenue with instructions to meet the Appellant at a shopping mall and to hand the material to the Appellant. Mr. Kerr's statement that the employee met with the Appellant and gave him the documents is an inference based only on the fact that the employee claimed travel expenses for the trip to meet the Appellant. I note that no receipt for the documents was produced at the hearing.
+[34]The Appellant says that the documents were not returned to him. There is no good evidence to the contrary. The former employee who is said to have returned the documents was not called as a witness. This is not the only instance in which documents pertaining to this case have gone missing. Mr. Kerr stated that the audit working paper file was destroyed at Revenue's Sudburyoffice. On balance, I am inclined to accept the Appellant's statement that the documents which he loaned to Revenue were not returned to him. Thus the Appellant has been left to deal with a case based on the falsity of the documents which he had produced while at the same time being denied the benefit of having the originals. This circumstance goes a long way towards explaining the weakness of the evidence given by the Appellant in response to the Respondent's case.
+[35]With respect to 1994, Mr. Kerr claimed that he was able to match receipt book stubs purporting to correspond to receipts given by the Appellant for rent received with the receipts themselves. The receipts themselves, Mr. Kerr said, purported to record payments not of rent but rather of TEC business expenses. An examination of the photocopies of receipts and stubs entered in evidence does not show the match between receipt for one payment and stub for another which Mr. Kerr says he detected.
+[36]Another instance of weakness in the Respondent's case for 1994 relates to the Appellant's claim for a rental loss. The Minister suspected that there was no rental operation whatever. The Appellant had produced evidence of rental to one Jennifer Morgan for the period January to June 1994. That evidence took the form of stubs remaining in the receipt book after the issuance of receipts which the Appellant claimed he gave to his tenant, Ms. Morgan.
+[37]Mr. Kerr examined Ms. Morgan's 1994 tax return. She claimed an Ontario Renter's tax credit in respect of the period after June 1994 but none for the period from January to June. The Respondent did not call Ms. Morgan to testify in support of the inference that she did not claim a tax deduction because she did not rent from the Appellant between January and June. It was not suggested that she could not be found. Misrepresentation has not been established here.
+[38]The evidence in support of the Respondent's case for 1994 was just as weak as for the two previous years.
+[39]The Respondent's evidence for 1991 and 1995 was also, to put it charitably, insufficient to satisfy the 152(4)(a)(i) burden. For 1991 and 1995 a refusal by the Appellant to supply documentary backup for the claimed losses of TEC is said to be evidence of misrepresentation. I see the refusal as evidence of non-representation. In addition, the Respondent points to the fact that the registration of TEC with the Ontario Ministry of Consumer and Commercial Relations was not effected until June of 1991 and registration with GST until June of 1992. This hardly supports an inference that the business did not start until June of 1991.
+[40]The Appellant claimed a deduction in 1995 of 50% of the losses of Landcrusher, a business that the Appellant claimed was operated by himself and one Jeffrey Murray in partnership. Mr. Kerr checked Mr. Murray's tax return and found that it contained no evidence of the partnership. Mr. Kerr therefore concluded that none existed. Mr. Murray did not testify and it was not suggested that he was unavailable. Without his evidence, I cannot find misrepresentation.
+[41]The Respondent has blown up a dense cloud of suspicion but has failed to establish that the Minister was entitled to reassess under the provisions of subparagraph 152(4)(a)(i).
+[42]The appeal will be allowed, with costs if any, and the assessments will be vacated.
+Signed at Toronto, Ontario, this 5th day of January 2006.
+Michael J. Bonner
+Bonner, J.
+CITATION: 2006TCC2
+COURT FILE NO.: 2004-4408(IT)I
+STYLE OF CAUSE: Darwin M. Trojan and Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 5, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice Michael J. Bonner
+DATE OF JUDGMENT: January 5, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jonathon Penney
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

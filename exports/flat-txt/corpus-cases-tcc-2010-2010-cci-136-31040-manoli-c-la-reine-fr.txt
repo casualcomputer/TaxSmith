@@ -1,0 +1,132 @@
+Title: Manoli c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31040/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-136-31040-manoli-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-03-05
+
+# Manoli c. La Reine
+
+- Citation: 2010 CCI 136
+- Decision date: 2010-03-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4864, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Manoli c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-03-05
+Référence neutre
+2010 CCI 136
+Numéro de dossier
+2008-1554(GST)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-1554(GST)G
+ENTRE :
+SOHEIL MANOLI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 18 janvier 2010, à Montréal (Québec).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocats de l’appelant :
+Me Éric Potvin
+Me Jean-Charles Hare
+Avocate de l’intimée :
+Me Jocelyne Mailloux Martin
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu du paragraphe 323(1) de la Loi sur la taxe d’accise, dont l’avis est daté du 29 juin 2006 et porte le numéro BR 06 1085, est accueilli, avec dépens en faveur de l’appelant, et la cotisation est annulée conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 5e jour de mars 2010.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 23e jour de juin 2010.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 136
+Date : 20100305
+Dossier : 2008-1554(GST)G
+ENTRE :
+SOHEIL MANOLI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+Introduction
+[1] Soheil Manoli (l’« appelant ») a fait l’objet d’une cotisation en vertu du paragraphe 323(1) de la Loi sur la taxe d’accise (la « Loi ») relativement à un montant de taxe sur les produits et services (la « TPS ») impayé, plus des intérêts et pénalités, que devait 9007‑5227 Québec Inc. (la « société »). Cette cotisation a été établie à l’égard de l’appelant le 29 juin 2006. L’appelant a démissionné de son poste d’administrateur de la société le 15 janvier 2004, soit plus de deux ans avant l’établissement de la cotisation. Malgré la démission de l’appelant, l’intimée soutient qu’il a continué d’agir comme administrateur de fait de la société jusqu’à la date d’établissement de la cotisation à son égard.
+[2] La seule question en litige dans le présent appel est de savoir si la cotisation établie à l’égard de l’appelant pour la période allant du 1er janvier 2000 au 30 juin 2003 a été établie plus de deux ans après que l’appelant a cessé d’agir comme administrateur de la société.
+[3] Dans son témoignage, l’appelant a indiqué qu’il était devenu actionnaire de la société en 1995. À cette époque, la société exploitait un petit restaurant et un bar dans la ville de Hudson sous le nom de Patzz Classique Italien (le « restaurant Patzz »). Patrick O’Grady était l’actionnaire majoritaire de la société et il était responsable de la gestion courante du restaurant Patzz. À cette époque, l’appelant habitait dans la région de Québec et occupait un poste d’enseignant à temps partiel au Collège St. Lawrence. L’appelant a témoigné que lui et son père avaient prêté de l’argent à la société pour financer ses activités. La société avait également emprunté environ 100 000 $ d’une banque locale pour financer l’achat de l’immeuble qui abritait le restaurant Patzz.
+[4] La preuve démontre que le restaurant Patzz était déficitaire lorsque M. O’Grady l’administrait. L’appelant a expliqué qu’il avait demandé à M. O’Grady, son coactionnaire, de racheter la part de l’appelant ou de permettre à l’appelant de trouver un nouveau coactionnaire et gestionnaire pour l’entreprise.
+[5] En janvier 1998, l’appelant a réussi à restructurer l’actionnariat de la société. Il est devenu le nouvel actionnaire majoritaire de la société en acquérant 51 p. 100 des actions. Détenant 49 p. 100 des actions, Dean Laflamme est devenu son nouveau coactionnaire. M. Laflamme, qui avait de l’expérience dans le domaine de la restauration et de l’exploitation de bar, est devenu le gestionnaire et l’exploitant du nouveau restaurant, qui utilisait le nom commercial de Mia Resto-Pub.
+[6] L’appelant a témoigné qu’au début de l’année 1999, on lui avait offert un poste d’enseignant à temps plein au Collège St. Lawrence. Étant donné ses nouvelles fonctions, l’appelant a confié entièrement à M. Laflamme la gestion et l’exploitation de l’entreprise. Il espérait que M. Laflamme serait en mesure de rentabiliser l’entreprise à nouveau afin que l’appelant et son père puissent récupérer une partie de l’argent qu’ils avaient prêté à l’entreprise. Même si les affaires ont repris, la société n’a pas produit de flux de trésorerie positif significatif et elle a continué à avoir des difficultés à rembourser ses créanciers. Vers la fin de l’année 2003 ou le début de l’année 2004, la société a de nouveau éprouvé des difficultés financières. Le 22 mai 2003, les autorités fiscales du Québec ont entrepris une vérification de TPS à l’encontre de la société.
+[7] L’appelant et Dean Laflamme ont démissionné comme administrateurs de la société le 15 janvier 2004. Ils ont été remplacés par Caroline Coulombe, qui travaillait comme serveuse et gestionnaire adjointe au Mia Resto-Pub. Mme Coulombe, appelée à témoigner par l’intimée, a confirmé que M. Laflamme lui avait demandé de devenir l’unique administratrice de la société. Il est évident que Mme Coulombe n’était pas au courant des difficultés financières de la société et qu’elle ne comprenait pas très bien ce qui l’attendait lorsqu’elle a accepté d’agir comme administratrice. Mme Coulombe a corroboré le témoignage de l’appelant selon lequel il passait très peu de temps au restaurant. Elle s’est rappelé avoir vu l’appelant sur les lieux seulement deux ou trois fois par année.
+[8] L’appelant a témoigné qu’au début de l’année 2004, M. Laflamme a été chargé de trouver un nouvel acheteur pour l’entreprise. En janvier 2004, agissant au nom de 6198236 Canada Inc. (« Olliver Inc. »), Patrick Olliver a fait une offre d’achat de l’entreprise.
+[9] La preuve démontre qu’Olliver Inc. n’a pas procédé à l’achat à ce moment-là, parce qu’une hypothèque légale avait été inscrite à l’égard des biens de la société relativement à un montant de taxe de 31 000 $ qui n’avait pas été versé au fisc québécois.
+[10] Le 14 avril 2004, la société a vendu ses biens à 4192095 Canada Inc. (« Canada Inc. »). Canada Inc. avait les mêmes actionnaires que la société. Par conséquent, les deux sociétés avaient un lien de dépendance entre elles. Le prix d’achat des biens était de 300 000 $ et consistait en la prise en charge de la dette d’environ 240 000 $, le solde étant payé au moyen de l’émission de 60 000 actions privilégiées de catégorie A.
+[11] La transaction avec M. Olliver a été conclue le 22 octobre 2004. M. Olliver avait constitué Olliver Inc. en personne morale pour acquérir l’entreprise de restauration. Le prix d’achat du bien était de 300 000 $ et se répartissait comme suit :
+a) Terrain :
+35 824,80 $
+b) Immeuble :
+96 175,20 $
+c) Améliorations locatives :
+90 000,00 $
+d) Mobilier et équipement :
+77 999,00 $
+e) Fonds commercial :
+1,00 $
+[12] Revenu Québec a introduit une instance devant la Cour supérieure du Québec pour faire annuler les deux ventes susmentionnées au motif qu’elles avaient été planifiées, avec l’aide de l’acheteur, de façon à éviter le paiement des taxes fédérales et provinciales qui, abstraction faite de ces ventes, étaient exigibles. La Cour supérieure a déclaré que la première vente était inopposable aux autorités fiscales québécoises parce que les parties étaient liées et qu’elles avaient agi de concert pour éviter le paiement des taxes. Dans le cas de la deuxième vente, la Cour supérieure a conclu qu’Olliver Inc. était un tiers acheteur qui avait agi de bonne foi.
+[13] Dans sa réponse à l’avis d’appel, l’intimée soutient qu’à la suite de sa démission du poste d’administrateur le 15 janvier 2004, l’appelant a continué d’agir comme administrateur de fait de la société.
+Analyse
+[14] L’appelant ne conteste pas le fait que la cotisation relative à la TPS, aux intérêts et aux pénalités a été correctement établie à l’égard de la société. Il soutient plutôt que la cotisation dont il a fait l’objet a été établie après le délai de deux ans prescrit par le paragraphe 323(5) de la Loi. Ce paragraphe est ainsi rédigé :
+323(5) Responsabilité des administrateurs – Prescription – L’établissement d’une telle cotisation pour un montant payable par un administrateur se prescrit par deux ans après qu’il a cessé pour la dernière fois d’être administrateur.
+[15] La cotisation a été établie à l’égard de l’appelant le 29 juin 2006, et il avait démissionné de son poste d’administrateur le 15 janvier 2004, ce qui signifie que la cotisation établie à son égard ne peut être valide que s’il était demeuré administrateur de fait de la société.
+[16] L’intimée soutient qu’après avoir démissionné le 15 janvier 2004, l’appelant est demeuré administrateur de fait de la société et qu’il a continué d’agir à ce titre jusqu’à la vente de l’entreprise à Olliver Inc. le 22 octobre 2004, ou même après cette date. Cette allégation semble fondée sur la croyance de l’intimée selon laquelle Mme Coulombe était une administratrice de convenance. L’intimée soutient que Mme Coulombe recevait ses directives des deux actionnaires de la société.
+[17] La Cour accepte maintenant très bien qu’il puisse être décidé qu’une personne est un administrateur d’une société si elle agit comme un administrateur sans être dûment qualifiée pour jouer ce rôle. De façon générale, une conclusion défavorable sera tirée si la preuve démontre qu’une personne se présente comme un administrateur et que cela pousse un tiers à se fier au pouvoir inhérent de cette personne en tant qu’administrateur. J’ajouterais qu’il pourrait être décidé qu’une personne est un administrateur si la preuve démontre que l’autre personne, qui semble un administrateur de la société, est simplement un administrateur de convenance agissant selon les directives de la première personne.
+[18] Je ne suis pas d’avis que l’appelant était un administrateur de fait de la société après sa démission le 15 janvier 2004. En fait, le témoignage de Mme Coulombe corroborait l’affirmation de l’appelant selon laquelle la société était gérée par M. Laflamme. Ce témoin a admis que l’appelant ne lui avait pas demandé de jouer le rôle d’administratrice. C’est son supérieur, M. Laflamme, qui l’avait convaincue d’agir comme administratrice.
+[19] Mme Coulombe a témoigné qu’elle n’avait pas parlé à l’appelant au cours de la période qui a suivi la démission de celui‑ci comme administrateur. Elle a également corroboré le témoignage de l’appelant selon lequel il venait rarement au restaurant. L’appelant habitait dans la région de Québec et occupait un poste d’enseignant à temps plein au Collège St. Lawrence. Il avait peu de temps à consacrer à l’administration de la société. Il n’y a pas le moindre élément de preuve démontrant que l’appelant a agi comme un administrateur de fait de la société après qu’il a démissionné du conseil d’administration.
+[20] La preuve démontre que M. Laflamme avait convaincu Mme Coulombe d’agir comme administratrice. Il avait également convaincu M. Olliver d’acheter l’entreprise. Ainsi, il est possible que M. Laflamme soit plus vulnérable à l’établissement d’une cotisation en vertu du paragraphe 323 (1) de la Loi que l’appelant. L’intimée avait deux ans à compter du 15 janvier 2004 pour établir une cotisation à l’égard de l’appelant, mais elle a attendu au 29 juin 2006 pour le faire. Elle aurait pu agir plus tôt. Elle ne l’a pas fait et, par conséquent, la cotisation en cause a été établie après le délai de prescription de deux ans.
+Conclusion
+[21] Pour ces motifs, l’appel est accueilli et la cotisation est annulée, avec dépens en faveur de l’appelant.
+Signé à Ottawa, Canada, ce 5e jour de mars 2010.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 23e jour de juin 2010.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2010 CCI 136
+No DU DOSSIER DE LA COUR : 2008-1554(GST)G
+INTITULÉ : Soheil Manoli c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 18 janvier 2010
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 5 mars 2010
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Éric Potvin
+Me Jean-Charles Hare
+Avocate de l’intimée :
+Me Jocelyne Mailloux Martin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Éric Potvin
+Cabinet : Lapointe Rosenstein Marchand Melançon
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

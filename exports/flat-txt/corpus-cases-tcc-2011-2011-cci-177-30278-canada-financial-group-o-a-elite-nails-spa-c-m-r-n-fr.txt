@@ -1,0 +1,199 @@
+Title: Canada Financial Group o/a Elite Nails & Spa c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30278/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-177-30278-canada-financial-group-o-a-elite-nails-spa-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2011-03-21
+
+# Canada Financial Group o/a Elite Nails & Spa c. M.R.N.
+
+- Citation: 2011 CCI 177
+- Decision date: 2011-03-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7987, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Canada Financial Group o/a Elite Nails & Spa c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-03-21
+Référence neutre
+2011 CCI 177
+Numéro de dossier
+2010-2842(EI)
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2010-2842(EI)
+ENTRE :
+CANADA FINANCIAL GROUP
+S/N ELITE NAILS & SPA,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+AIQIN (LUCY) ZHOU,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Canada Financial Group s/n Elite Nails & Spa (2010-2843(CPP)),
+à Toronto (Ontario), le 26 janvier 2011.
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentante de l’appelante :
+Mme Jie Hu
+Avocate de l’intimé :
+Me Rishma Bhimji
+Représentant de l’intervenante :
+M. Zhou
+____________________________________________________________________
+JUGEMENT
+L’appel visant la décision rendue en vertu de la Loi sur l’assurance‑emploi relativement à la période du 1er janvier 2009 au 12 septembre 2009 est rejeté et la décision du ministre du Revenu national est confirmée.
+Signé à Ottawa, Canada, ce 21e jour de mars 2011.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 6e jour de mai 2011.
+Marie‑Christine Gervais
+Dossier : 2010-2843(CPP)
+ENTRE :
+CANADA FINANCIAL GROUP
+S/N ELITE NAILS & SPA,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+AIQIN (LUCY) ZHOU,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Canada Financial Group s/n Elite Nails & Spa (2010-2842(EI)),
+à Toronto (Ontario), le 26 janvier 2011.
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentante de l’appelante :
+Mme Jie Hu
+Avocate de l’intimé :
+Me Rishma Bhimji
+Représentant de l’intervenante :
+M. Zhou
+____________________________________________________________________
+JUGEMENT
+L’appel visant la décision rendue en vertu du Régime de pensions du Canada relativement à la période du 1er janvier 2009 au 12 septembre 2009 est rejeté et la décision du ministre du Revenu national est confirmée.
+Signé à Ottawa, Canada, ce 21e jour de mars 2011.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 6e jour de mai 2011
+Marie‑Christine Gervais
+Référence : 2011 CCI 177
+Date : 20110321
+Dossiers : 2010-2842(EI)
+2010-2843(CPP)
+ENTRE :
+CANADA FINANCIAL GROUP
+S/N ELITE NAILS & SPA,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+AIQIN (LUCY) ZHOU,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] La question soulevée par les actes de procédure produits dans les présents appels était celle de savoir si Aiqin (Lucy) Zhou exerçait pour l’appelante un emploi aux termes d’un contrat de louage de services pour l’application de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada pendant la période du 1er janvier 2009 au 12 septembre 2009. Selon le ministre du Revenu national (le « ministre »), il existait un contrat de louage de services entre l’appelante et Mme Zhou pendant la période pertinente.
+[2] L’appelante était représentée par Jie Hu, laquelle est la directrice et la propriétaire de l’appelante. C’est elle qui prenait les principales décisions commerciales et qui dirigeait les activités quotidiennes de l’appelante.
+[3] Au début de l’audience, Mme Hu a mentionné que Mme Zhou avait travaillé chez l’appelante à titre d’employée pendant la période du 1er juin 2009 au 12 septembre 2009 et que la seule période en litige était donc celle du 1er janvier 2009 au 31 mai 2009. Mme Hu et Mme Zhou sont les seules personnes à avoir témoigné à l’audience. Leurs témoignages, en ce qui concerne les modalités d’emploi de Mme Zhou, étaient diamétralement opposés.
+[4] L’appelante exploitait un centre d’esthétique corporelle à Barrie, en Ontario, sous le nom commercial Elite Nails & Spa. L’on y offrait des services de soins des mains (y compris la pose d’ongles artificiels), de soins des pieds, d’épilation à la cire, de soins du visage et de massothérapie. L’établissement était ouvert du lundi au vendredi, de 9 h 30 à 21 h, le samedi, de 9 h 30 à 18 h, et le dimanche, de 12 h à 17 h.
+[5] Dans l’entreprise de l’appelante, trois catégories de travailleurs offraient des services au centre d’esthétique corporelle. Il y avait ceux qui étaient engagés comme travailleurs à l’entraînement et qui suivaient une formation avec Mme Hu. La seconde catégorie de travailleurs se composait des techniciens en pose d’ongles débutants, lesquels recevaient 40 pour 100 de leurs ventes brutes et travaillaient moins d’heures que les techniciens en pose d’ongles expérimentés, qui recevaient 60 pour 100 de leurs ventes brutes. Tous les travailleurs conservaient la totalité des pourboires qui leur étaient donnés.
+[6] Mme Zhou a été engagée comme travailleuse à l’entraînement le 23 septembre 2008. Pendant la période du 20 octobre 2008 au 17 janvier 2009, elle a travaillé huit heures par jour de un à trois jours par semaine. Elle a été formée par Mme Hu, qui lui disait quoi faire et lui expliquait comment rendre les services. Mme Hu a ouvert un autre centre d’esthétique corporelle à Pickering en novembre 2008 et elle s’occupait de l’entreprise à Barrie le mardi et le samedi. Elle n’offrait de la formation à Mme Zhou que les mardis puisque cette dernière ne travaillait pas le samedi.
+[7] Selon Mme Hu, le coût de la formation s’élevait à 500 $ et Mme Zhou a été informée du fait qu’elle pouvait payer cette formation en fournissant divers services offerts par le centre d’esthétique corporelle. À titre de travailleuse à l’entraînement, Mme Zhou pouvait uniquement s’occuper des clients lorsque les techniciens en pose d’ongles débutants et les techniciens en pose d’ongles expérimentés étaient occupés. Mme Zhou a témoigné qu’on lui avait dit qu’une somme de 500 $ serait déduite de ses gains mais que, si elle travaillait pour l’appelante pendant une période d’un an, cette somme lui serait remboursée. Mme Hu a nié qu’une promesse de remboursement des frais de formation avait été faite.
+[8] La formation de Mme Zhou a pris fin lorsque ses gains ont excédé 500 $. Cela s’est produit le 17 janvier 2009. L’appelante a conservé 500 $ et a remis à Mme Zhou un chèque pour la différence qu’elle lui devait. À partir de ce moment, Mme Zhou a été considérée comme une technicienne en pose d’ongles débutante.
+[9] Lorsque Mme Hu était absente du centre d’esthétique corporelle de Barrie, celui‑ci était géré par Angela Gao.
+[10] Selon Mme Hu, les travailleurs avaient pour tâche d’ouvrir le magasin, de répondre au téléphone, de fixer les rendez‑vous, d’accueillir les clients, de fournir les services aux clients, d’accepter paiement pour ceux‑ci et de nettoyer leur poste de travail respectif. Elle a affirmé que tous les techniciens, à l’exception de Mme Zhou, avaient une clé pour ouvrir et fermer le centre parce qu’ils décidaient de leurs heures de travail et qu’ils fixaient eux‑mêmes les rendez‑vous avec leurs clients. Elle a ajouté que Mme Zhou n’avait pas de clé parce qu’elle arrivait tard au travail et qu’elle quittait tôt de sorte qu’elle n’en avait pas besoin.
+[11] Mme Zhou a été stupéfaite d’entendre que chaque technicien avait une clé pour ouvrir le centre d’esthétique corporelle parce qu’à sa connaissance, seules deux personnes en possédaient une. L’on ne lui a jamais demandé si elle voulait une clé. Selon elle, ses tâches consistaient à donner des soins des mains, des soins des pieds, des soins du visage et des massages et à fournir des services d’épilation à la cire. Elle était également responsable du nettoyage de son poste de travail. Elle a mentionné qu’elle voulait aussi poser des ongles artificiels mais que, par suite d’un conflit avec Mme Gao, elle n’était pas autorisée à offrir ce service. Mme Hu a affirmé que Mme Zhou n’était pas propriétaire des instruments nécessaires pour poser des ongles artificiels et qu’elle refusait que Mme Zhou utilise les instruments appartenant à l’appelante.
+[12] Mme Zhou a témoigné qu’elle avait travaillé cinq jours par semaine et, habituellement, huit heures par jour du 19 janvier au 14 mars 2009. Elle recevait une commission de 40 pour 100 de ses ventes brutes. Mme Gao tenait un registre des services rendus et des ventes réalisées par Mme Zhou, laquelle était payée par chèque toutes les semaines. Du 16 mars au 12 septembre 2009, Mme Zhou a travaillé deux à trois jours par semaine. Elle a été payé hebdomadairement jusqu’au mois de juin, lorsqu’elle est devenue une employée, puis elle a été payée toutes les deux semaines.
+[13] Dans son témoignage, Mme Zhou a déclaré que, lorsque le centre d’esthétique corporelle n’était pas très occupé, Mme Gao lui demandait d’exécuter des tâches supplémentaires que les autres techniciens n’avaient pas à faire. Elle s’est conformée aux instructions de la gérante. Cette situation a débuté en janvier et s’est poursuivie jusqu’au 14 mars 2009. Enfin, lorsqu’elle a refusé de nettoyer les planchers de tout le centre parce qu’elle s’était coupé le doigt, Mme Gao a diminué ses heures de travail. À partir de ce moment, elle n’a plus travaillé que deux ou trois jours chaque semaine.
+[14] Dans son témoignage, Mme Zhou a affirmé qu’au cours de la période du 1er janvier au 31 mai 2009, si Mme Gao lui attribuait des heures de travail, elle était tenue de se rendre au centre d’esthétique corporelle même si elle n’avait aucun rendez‑vous avec des clients. Elle devait rendre compte à la directrice si elle prévoyait être en retard ou lorsqu’elle ne pouvait se présenter au travail et elle ne pouvait quitter le centre plus tôt que prévu sans la permission de la directrice.
+[15] Selon le témoignage de Mme Hu, les techniciens étaient libres de choisir leurs heures de travail; ils pouvaient [traduction] « aller et venir » comme ils l’entendaient, peu importe les besoins de l’appelante. Elle a témoigné que Mme Zhou pouvait faire des courses pendant ses heures de travail et que l’horaire de travail de Mme Zhou était établi après discussions et accord entre cette dernière et l’appelante. L’appelante ne faisait que coordonner les horaires de travail des techniciens.
+[16] L’appelante fournissait à Mme Zhou un uniforme fait sur mesure. Mme Zhou était tenue de le porter tous les jours.
+[17] Mme Zhou a témoigné que, contrairement à ce qu’avait affirmé Mme Hu, les techniciens ne pouvaient offrir des rabais aux clients à moins que la directrice n’y consente. Les frais exigés pour les services étaient fixés par l’appelante et ne pouvaient être modifiés par les techniciens. À l’appui de son assertion, Mme Zhou a produit la pièce I‑3, qui consiste en un dépliant où figure la liste des services offerts par l’appelante. Le prix de chacun des services est également imprimé sur le dépliant.
+[18] La preuve contradictoire présentée par Mme Zhou et Mme Hu soulève la question de la crédibilité et, pour décider quel témoignage est le plus digne de foi, je garde à l’esprit les propos tenus par M. le juge en chef Bowman, tel était alors son titre, au paragraphe 13 de la décision Faulkner c. MRN[1] :
+Le pouvoir et l’obligation d’établir des conclusions relatives à la crédibilité est l’une des plus lourdes responsabilités d’un juge de première instance. Le juge doit exercer cette responsabilité avec soin et après mûre réflexion puisqu’une conclusion défavorable de la crédibilité suppose que l’une des parties ment sous la foi du serment. Vouloir mettre un terme rapidement à une affaire ne peut être une excuse justifiant le mauvais usage de ce pouvoir. La responsabilité qui repose sur le juge d’un procès qui doit tirer des conclusions relatives à la crédibilité doit être particulièrement rigoureuse si l’on considère que l’on ne peut pratiquement pas en appeler de telles conclusions.
+[19] J’ai examiné l’ensemble de la preuve dont je suis saisie et je conclus que le témoignage de Mme Zhou est davantage digne de foi. Ma conclusion se fonde sur les faits suivants :
+a) Son horaire de travail (pièce R‑1, p. 7 et 34) étaye son témoignage voulant que le nombre de ses jours de travail soit passé de cinq jours par semaine en janvier, en février et au début mars à deux ou trois jours par semaine pour le reste de l’année qu’elle a travaillé au centre d’esthétique corporelle. La seule exception est la semaine du 30 mars, pendant laquelle elle n’a travaillé qu’une journée.
+b) Mme Hu a déclaré que, lorsqu’elle est devenue une employée, Mme Zhou a commencé à recevoir un salaire horaire et devait travailler un nombre d’heures précis chaque semaine. Cependant, Mme Hu ne connaissait pas le salaire horaire de Mme Zhou. Elle s’est appuyée sur le relevé d’emploi (pièce R‑1 p. 10) pour affirmer que le salaire horaire correspondait au montant total des gains assurables divisé par le nombre total d’heures d’emploi assurable. Or, Mme Zhou a mentionné qu’elle n’avait pas été informée de son salaire horaire, que ses gains avaient continué de correspondre à 40 pour 100 de ses ventes brutes et que les modalités de son emploi n’avaient pas changé lorsqu’elle était devenue une employée. Le registre des sommes reçues par Mme Zhou pour la période du 10 au 12 septembre (pièce I‑1) et le chèque qui lui a été remis pour cette période (pièce I‑2) confirment que l’on payait encore à Mme Zhou 40 pour 100 de ses ventes brutes lorsqu’elle est devenue une employée.
+c) Selon moi, certaines des assertions formulées par Mme Hu sont invraisemblables. J’estime particulièrement incroyable que les techniciens aient pu aller et venir à leur guise, peu importe les besoins de l’appelante.
+[20] Par suite de ma conclusion, je préfère le témoignage de Mme Zhou lorsqu’il y a contradiction entre ce dernier et celui de Mme Hu.
+[21] Pour décider si Mme Zhou était une employée ou une entrepreneure indépendante lorsqu’elle a travaillé pour l’appelante pendant la période du 1er janvier 2009 au 31 mai 2009, la Cour doit se demander si Mme Zhou fournissait les services à titre de personne travaillant à son compte. Les facteurs énoncés dans l’arrêt Wiebe Door[2] seront utilisés pour analyser la nature de la relation de travail existant entre Mme Zhou et l’appelante. Ces facteurs sont le degré de contrôle, la propriété des instruments de travail, la possibilité de profit et le risque de perte. Dans l’arrêt Combined Insurance Company of America c. M.R.N.[3], M. le juge Nadon a examiné la jurisprudence et exprimé en ces termes les principes qu’il convient d’appliquer :
+[35] De ces décisions, il se dégage, à mon avis, les principes suivants :
+1. Les faits pertinents, incluant l’intention des parties quant à la nature de leur relation contractuelle, doivent être examinés à la lumière des facteurs de Wiebe Door, précitée, et à la lumière de tout autre facteur qui peut s’avérer pertinent compte tenu des circonstances particulières de l’instance;
+2. Il n’existe aucune manière préétablie d’appliquer les facteurs pertinents et leur importance dépendra des circonstances et des faits particuliers de l’affaire.
+Même si en règle générale, le critère de contrôle aura une importance marquée, les critères élaborés dans Wiebe Door et Sagaz, précités, s’avéreront néanmoins utiles pour déterminer la véritable nature du contrat.
+[22] Le critère énoncé dans l’arrêt Sagaz[4] est le suivant :
+Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+[23] Le contrat intervenu entre Mme Zhou et l’appelante a été conclu de vive voix. Il n’y avait entre elles aucune entente commune quant à la nature de leur contrat. Selon l’appelante, Mme Zhou a été engagée comme entrepreneure indépendante tandis que cette dernière voulait être embauchée à titre d’employée pour toute la période pendant laquelle elle a travaillé pour l’appelante.
+[24] Mme Zhou a affirmé qu’à la question de savoir pourquoi son chèque de paye ne faisait l’objet d’aucune retenue à la source, Mme Hu lui a répondu qu’elle était une travailleuse autonome et non une employée. Selon son témoignage, elle a demandé à Mme Hu de déduire de son salaire des cotisations au titre de l’assurance‑emploi et du Régime de pensions du Canada puisqu’elle voulait être une employée. Ce n’est qu’en mai que Mme Hu a consenti à cette requête. Mme Hu a déclaré qu’il y avait eu un accroissement des activités de l’entreprise en mai, ce qui lui avait permis d’engager Mme Zhou comme employée.
+Degré de contrôle
+[25] Mme Zhou rendait compte à Mme Gao, laquelle décidait de ses jours et de ses heures de travail. Mme Zhou a affirmé qu’il lui était interdit de quitter le magasin plus tôt que prévu sans la permission de la directrice. Contrairement à l’assertion de Mme Hu, Mme Zhou a déclaré qu’elle ne pouvait quitter le centre pour aller faire des courses, même lorsque le commerce n’était pas très occupé. De même, elle était obligée de se présenter au centre les jours fixés dans son horaire de travail même si elle n’avait aucun rendez‑vous avec un client.
+[26] L’appelante informait Mme Zhou non seulement des tâches qui lui étaient assignées, mais également de la façon dont celles‑ci devaient être accomplies. L’appelante a formé Mme Zhou. Si Mme Gao n’était pas satisfaite d’un service rendu par Mme Zhou, elle pouvait exiger que celle‑ci corrige la situation.
+[27] Mme Hu a mentionné que l’entreprise de l’appelante était exploitée selon la règle voulant que le premier technicien arrivé au centre un jour donné soit celui qui serve le premier client. Mme Zhou a témoigné qu’à certaines occasions, Mme Gao avait refusé qu’elle serve un client même lorsque c’était son tour.
+[28] Mme Hu a affirmé qu’elle et Mme Zhou avaient ensemble négocié le taux de commission de cette dernière. Je conclus que cela est invraisemblable puisque c’est Mme Hu qui a décidé quand Mme Zhou a cessé d’être une travailleuse à l’entraînement. C’est elle aussi qui a décidé quand Mme Zhou pourrait devenir une technicienne débutante puis une technicienne expérimentée. Les taux de commission applicables à chacun de ces postes étaient fixés par Mme Hu. Selon le témoignage de Mme Zhou, [Traduction] « le payeur déterminait le pourcentage de la commission[5] ».
+[29] À la lumière de mon examen ci‑dessus, j’arrive à la conclusion que Mme Zhou était assujettie au contrôle et à la supervision de l’appelante. Ce facteur donne à penser qu’elle était une employée.
+Propriété des instruments de travail
+[30] L’appelante fournissait les installations, les chaises de massage, les serviettes, les tables, les chaises, les postes de travail, la machine à laver, la sécheuse, les produits d’hygiène de même que tout le matériel nécessaire pour rendre les services qu’elle offrait. Mme Zhou fournissait les petits instruments qu’elle utilisait pour effectuer les soins des mains et des pieds. Ses instruments consistaient en un coupe‑cuticules, une pince à cuticules, des coupe‑ongles, un appareil de nettoyage en profondeur de la peau ainsi que des brosses pour appliquer des gels. Le coût de ces instruments s’élevait à 97,54 $.
+[31] Dans le présent appel, le coût des instruments appartenant à Mme Zhou était négligeable. Cependant, dans l’arrêt Precision Gutters Ltd. c. Le ministre du Revenu national[6], la Cour d’appel fédérale a considéré que le fait que les travailleurs fournissaient leurs propres outils à main donnait à penser qu’il s’agissait d’entrepreneurs indépendants. De même, en l’espèce, ce facteur tend à établir que Mme Zhou est une entrepreneure indépendante.
+Possibilité de profit
+[32] L’appelante fixait le prix exigé pour chaque service. Mme Zhou ne pouvait modifier ce prix. Mme Zhou ne pouvait accroître les commissions qu’elle gagnait chez l’appelante qu’en augmentant le nombre de jours qu’elle travaillait ou le nombre de clients qu’elle servait ou encore en passant de la situation de technicienne débutante à celle de technicienne expérimentée. Or, elle n’exerçait de contrôle sur aucune de ces situations. Sa directrice fixait les jours où elle était autorisée à travailler chez l’appelante. Elle devait attendre son tour pour servir un client puisque l’appelante exploitait son commerce selon la règle voulant que le premier technicien arrivé au centre serve le premier client. C’est l’appelante qui décidait quand Mme Zhou serait promue au poste de technicienne expérimentée.
+[33] Mme Zhou n’avait aucune possibilité de réaliser un profit en tant qu’entrepreneure. Les clients étaient ceux de l’appelante. Mme Zhou n’avait aucune clientèle; elle n’agissait pas comme si elle exploitait une entreprise[7].
+Risque de perte
+[34] Mme Zhou ne supportait aucune dépense dans l’exercice de ses fonctions. Mme Hu a déclaré que, si un client n’était pas satisfait des services de Mme Zhou, celle‑ci ou un autre technicien reprenait le service rendu. Mme Zhou perdait alors sa commission. Mme Zhou a témoigné que cela ne s’était jamais produit, mais qu’elle supposait que le témoignage de Mme Hu sur ce point était exact. Mme Zhou assumait donc un risque de perte potentiel.
+[35] Mme Zhou n’avait aucune responsabilité liée à des mises de fonds dans l’entreprise et son risque financier était minime. Il se limitait au coût de ses instruments, soit 97,54 $.
+[36] Lorsque je me demande si Mme Zhou fournissait les services à titre de personne travaillant à son compte, je dois répondre sans équivoque par la négative. Ses services faisaient partie intégrante de l’entreprise de l’appelante. Ils étaient au cœur de l’entreprise de l’appelante. Cette dernière exerçait un contrôle sur la manière dont Mme Zhou fournissait ses services de même que sur le moment où elle le faisait. Même si Mme Zhou était propriétaire de ses propres instruments de travail, ce fait, à lui seul, n’est pas suffisant pour me permettre de conclure que Mme Zhou était une entrepreneure indépendante. Je n’ai accordé que peu de poids au facteur relatif à la propriété des instruments de travail. Lorsque j’examine l’ensemble de la preuve, j’arrive à la conclusion que Mme Zhou travaillait à titre d’employée pour l’appelante pendant la période du 1er janvier au 31 mai 2009.
+[37] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 21e jour de mars 2011.
+« V.A. Miller »
+Juge V.A. Miller
+RÉFÉRENCE : 2011 CCI 177
+No DU DOSSIER DE LA COUR : 2010-2842(EI)
+INTITULÉ : Canada Financial Group
+s/n Elite Nails & Spa c.
+Ministre du Revenu national et
+Aiqin (Lucy) Zhou
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 26 janvier 2011
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 21 mars 2011
+COMPARUTIONS :
+Représentante de l’appelante :
+Mme Jie Hu
+Avocate de l’intimé :
+Me Rishma Bhimji
+Représentant de l’intervenante :
+M. Zhou
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2006 CCI 239.
+[2] Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553 (CAF).
+[3] [2007] A.C.F. no 124, paragraphe 35.
+[4] 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59.
+[5] Pièce R-1, page 29.
+[6] 2002 CAF 207.
+[7]Vita Steiner c. Le ministre du Revenu national, 2011 CCI 146, paragraphe 15.
